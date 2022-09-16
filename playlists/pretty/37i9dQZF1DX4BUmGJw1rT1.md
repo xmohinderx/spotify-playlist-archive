@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4BUmGJw1rT1.md) - [plain]
 
 > Kick back and relax after a hard day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,139 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,224 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4BUmGJw1rT1.md) - [plain]
 | 26 | [Forget What I Said](https://open.spotify.com/track/0yJNGGGZ9eQj4vmvmeornZ) | [Noora Noor](https://open.spotify.com/artist/50V1rySVqHjoqJTi9iy3xl) | [Soul Deep](https://open.spotify.com/album/1GHZSCmUsDkrJwxzX0zGm6) | 3:19 |
 | 27 | [Loving You Is Sweeter Than Ever](https://open.spotify.com/track/5OwOfn0Ihle2WLudoH22wj) | [Susan Tedeschi](https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta) | [Hope And Desire](https://open.spotify.com/album/3i8UR9bri6o0FXLgMsGFeY) | 3:57 |
 | 28 | [Don't Ever Let Nobody Drag Your Spirit Down](https://open.spotify.com/track/3zXfuTPCPrPfHSLiH3uMJe) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1), [Rory Block](https://open.spotify.com/artist/6hkNj3GAqFbkEUCs3R1dY3), [Maria Muldaur](https://open.spotify.com/artist/2VUiF0VFkXzB0DLg9AzrqT) | [Sisters & Brothers](https://open.spotify.com/album/7221Of24Dk9qZYXfXHQjrz) | 3:24 |
-| 29 | [Gunsmoke Blues \(feat\. Jason Isbell\)](https://open.spotify.com/track/62QWywMNsKrR05lOSYUAzg) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [Gunsmoke Blues \(feat\. Jason Isbell\)](https://open.spotify.com/album/0VxKgrOCKdcF9PSAvn1rx2) | 3:08 |
-| 30 | [Pulling Down The Ride](https://open.spotify.com/track/2bZNey5v7dHTruDyAAgxVg) | [Mark Knopfler](https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug) | [The Studio Albums 2009 – 2018](https://open.spotify.com/album/7wa5uPSOSbDkqmv5oUS92V) | 2:40 |
+| 29 | [Pulling Down The Ride](https://open.spotify.com/track/2bZNey5v7dHTruDyAAgxVg) | [Mark Knopfler](https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug) | [The Studio Albums 2009 – 2018](https://open.spotify.com/album/7wa5uPSOSbDkqmv5oUS92V) | 2:40 |
+| 30 | [Gunsmoke Blues \(feat\. Jason Isbell\)](https://open.spotify.com/track/62QWywMNsKrR05lOSYUAzg) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [Gunsmoke Blues \(feat\. Jason Isbell\)](https://open.spotify.com/album/0VxKgrOCKdcF9PSAvn1rx2) | 3:08 |
 | 31 | [Set Sail part I \(featuring Lamar Williams Jr.\)](https://open.spotify.com/track/2lt3INbrnQEZz57tKA05Zy) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY), [Lamar Williams Jr.](https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4) | [Set Sail](https://open.spotify.com/album/12psJfvIqIEwGY6JNuQMzF) | 4:57 |
 | 32 | [Sleep On It](https://open.spotify.com/track/3BZqRfYykl706UFrdR7byF) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [Sticking With It](https://open.spotify.com/album/4lcsKKAPES2jYFmtSyRH95) | 3:02 |
 | 33 | [Same Old Blues](https://open.spotify.com/track/1vkEVT81wJQtMZ23FJ1q1i) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Getting Ready..\. \(World\)](https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI) | 3:59 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4BUmGJw1rT1.md) - [plain]
 | 35 | [Tell Her You Belong To Me](https://open.spotify.com/track/2faP8xcrcrfm24iDF3Qs1P) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Better Than Home \(Deluxe Edition\)](https://open.spotify.com/album/45blvARBYrViZz3eYg50sH) | 5:56 |
 | 36 | [Fighting for Peace](https://open.spotify.com/track/2iYDEwzq00a571f0hbQ53g) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Fighting for Peace](https://open.spotify.com/album/2IXjRTudNXd1hEczsBwcos) | 3:22 |
 | 37 | [Chained To The Rhythm](https://open.spotify.com/track/1KLyyQ9B4URptPsozR44l8) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Pensive Pop](https://open.spotify.com/album/1IzsXEGSZ0XlZtL4XANZqR) | 4:22 |
-| 38 | [One Room Country Shack](https://open.spotify.com/track/40Gg9yXs1RSE7qcWAferU4) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [A Man And The Blues](https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ) | 5:39 |
-| 39 | [Come Rain or Come Shine](https://open.spotify.com/track/2dAm3t3HT91qhKEgZFhzmv) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding with the King](https://open.spotify.com/album/7b0Ysbudh2BH9A853EfxEu) | 4:11 |
+| 38 | [Come Rain or Come Shine](https://open.spotify.com/track/2dAm3t3HT91qhKEgZFhzmv) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding with the King](https://open.spotify.com/album/7b0Ysbudh2BH9A853EfxEu) | 4:11 |
+| 39 | [One Room Country Shack](https://open.spotify.com/track/40Gg9yXs1RSE7qcWAferU4) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [A Man And The Blues](https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ) | 5:39 |
 | 40 | [Last Forever](https://open.spotify.com/track/3ETWwN2Fa8ihTN2LKpryV2) | [Shanice Green](https://open.spotify.com/artist/7GquAyY9t5rSmfy4maIGyb) | [Last Forever](https://open.spotify.com/album/6x1MGYK2DX76UNJPfBh59J) | 3:46 |
 | 41 | [Magnolia Blues](https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Magnolia Blues](https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr) | 3:28 |
 | 42 | [Blues Music](https://open.spotify.com/track/4fUyndBmTsfMmJdwQvf8bT) | [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89) | [G\. Love And Special Sauce](https://open.spotify.com/album/6K6iycuUPM1HT5sxnwp6Ek) | 4:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4BUmGJw1rT1.md) - [plain]
 | 49 | [Stay High](https://open.spotify.com/track/33kKM5K18NvtC7XdHvBEWO) | [solace](https://open.spotify.com/artist/2W1dpsbDt9qWbMWXZ5HRn9) | [Stay High](https://open.spotify.com/album/0f0GCbrUu13PBcrpvnj8aY) | 1:53 |
 | 50 | [Don't Let the Green Grass Fool You](https://open.spotify.com/track/5THq6PaoknpouVWXSYb7TQ) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU), [The Midnight Band](https://open.spotify.com/artist/4QIUZHZcicCxWwPhdxIoFR) | [Don't Let the Green Grass Fool You](https://open.spotify.com/album/6YbAF3vpQIHA0XXa4GzS5A) | 3:45 |
 
-Snapshot ID: `MTY2MzAwMDc1OCwwMDAwMDAwMDIyZTk0MjkzNjE5MDE4ZTZiZTMwZDZiODc3ZmJhNmNk`
+Snapshot ID: `MTY2MzAwMDc1OCwwMDAwMDAwMDdhMjgwNWE5NDJmYzc5ZWE4YmI0ODI4YWUyYmY5YmE3`

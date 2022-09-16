@@ -1020,6 +1020,24 @@
     },
     {
       "album": {
+        "name": "Tanx",
+        "url": "https://open.spotify.com/album/3I4VF8Hg1aXiCOC3zLxfXG"
+      },
+      "artists": [
+        {
+          "name": "T. Rex",
+          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124120,
+      "name": "Born To Boogie",
+      "url": "https://open.spotify.com/track/3Qd1sMmuPHEgycQOn6Mdve"
+    },
+    {
+      "album": {
         "name": "Billy Elliot: The Original Cast Recording",
         "url": "https://open.spotify.com/album/0n7z0uxgNQT5YV6z99IIDt"
       },
@@ -1031,7 +1049,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 265413,
       "name": "Born To Boogie - From 'Billy Elliot The Musical'",
       "url": "https://open.spotify.com/track/0JbQXNSYQID38YcwR9r1ZW"

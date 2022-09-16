@@ -4,7 +4,7 @@
 
 > From working out to going out \- turnt mode means bangers only\. Featuring Nardo Wick, Lil Tjay, Rowdy Rebel, Polo G and more\. Cover: Southside, Lil Durk
 
-132 songs - 6 hr 19 min - [published](https://open.spotify.com/playlist/4Gkq6IUZtcwABoUVZxpuEh)
+133 songs - 6 hr 22 min - [published](https://open.spotify.com/playlist/4Gkq6IUZtcwABoUVZxpuEh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Shmoney \(feat\. Quavo & Rowdy Rebel\)](https://open.spotify.com/track/10TaZTWBzpWwDTVlsfXzMf) | [Bobby Shmurda](https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj) | [Shmoney \(feat\. Quavo & Rowdy Rebel\)](https://open.spotify.com/album/5npQCHNuLe3ydFr1bx4sib) | 2:49 | 2022-06-03 |  |
 | [Six Flags](https://open.spotify.com/track/36FDMTfRqSROsSC6pOTqGw) | [Comethazine](https://open.spotify.com/artist/1iJdyDcY98X3GMnUesl7tf) | [Six Flags](https://open.spotify.com/album/6cxmOfnEOFk5v8nWLlazPk) | 2:03 | 2022-06-03 | 2022-07-30 |
 | [Soufside](https://open.spotify.com/track/06cK6iwM27beDMNd9wNc7e) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Soufside](https://open.spotify.com/album/7Kq0Dzmw53JzS4NZEWtthg) | 1:50 | 2022-06-03 | 2022-08-13 |
+| [Spinnin' \(feat\. Doe Boy\)](https://open.spotify.com/track/0GeQLnbZlfKiGoq83g4w2C) | [Raw Youngin](https://open.spotify.com/artist/44ATBEJe6woTBiC41VWQKd), [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [Spinnin' \(feat\. Doe Boy\)](https://open.spotify.com/album/64pd43qCCe2dR4dMnmit3N) | 2:48 | 2022-09-02 |  |
 | [SRT \(feat\. OTB Fastlane\)](https://open.spotify.com/track/4goyaIOHI67Nod52RsPt90) | [Guapo](https://open.spotify.com/artist/1KWQVpABJxgYvLY5pNNZV6), [OTB Fastlane](https://open.spotify.com/artist/130sangK9RkAwRToKn9GHj) | [SRT \(feat\. OTB Fastlane\)](https://open.spotify.com/album/1or6SskWw7SII7QoladS34) | 2:30 | 2022-06-03 |  |
 | [Storyteller](https://open.spotify.com/track/3P14DrMQLh1CqKBki4e98s) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [Storyteller](https://open.spotify.com/album/28Y1Tj8nZRro47bwhKnOiV) | 2:46 | 2022-06-10 |  |
 | [STREETS ALONE \(feat\. A$AP Rocky\)](https://open.spotify.com/track/4QwLwqDbnxV0Tx5wXXoR9F) | [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [WEIGHT OF THE WORLD](https://open.spotify.com/album/6DY8Tci3yCd6teXbxoPGN6) | 2:51 | 2022-06-03 | 2022-06-25 |

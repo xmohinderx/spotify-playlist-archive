@@ -1,12 +1,12 @@
 {
   "description": "J\u00f3venes y renovadas expresiones de la bella tradici\u00f3n mexicana. Majo Aguilar en portada. ",
-  "num_followers": 122357,
+  "num_followers": 122394,
   "original_name": "Mariachi Joven",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5OTYwMCwwMDAwMDAwMDkzYzY4OGYzZThhZWZhMDJkYzZkMjBkNWFlMDA0MWY5",
+  "snapshot_id": "MTY2MjY5OTYwMCwwMDAwMDAwMGE0ZGVlZWI4MzZkNTQ4NTEyMDJkYjlmMDQwZmU1OTVl",
   "tracks": [
     {
       "added_at": "2022-09-09 05:00:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-09-09 05:00:00",
       "album": {
-        "name": "\u00bfQu\u00e9 Le Echan al Tequila?",
-        "url": "https://open.spotify.com/album/4znXFsawbU18ZIxAw2EsS2"
-      },
-      "artists": [
-        {
-          "name": "Cuitla Vega",
-          "url": "https://open.spotify.com/artist/50eEhK6sfbvKaI75ZqD96I"
-        }
-      ],
-      "duration_ms": 162916,
-      "name": "\u00bfQu\u00e9 Le Echan al Tequila?",
-      "url": "https://open.spotify.com/track/3e6nJ0bEkMA5j042TkZpua"
-    },
-    {
-      "added_at": "2022-09-09 05:00:00",
-      "album": {
         "name": "Amigos",
         "url": "https://open.spotify.com/album/74Hes6pOqG1u1DN65jg0aV"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 168866,
       "name": "Amigos",
       "url": "https://open.spotify.com/track/4uoHAwCca3pR6SCnYA3XPZ"
+    },
+    {
+      "added_at": "2022-09-09 05:00:00",
+      "album": {
+        "name": "\u00bfQu\u00e9 Le Echan al Tequila?",
+        "url": "https://open.spotify.com/album/4znXFsawbU18ZIxAw2EsS2"
+      },
+      "artists": [
+        {
+          "name": "Cuitla Vega",
+          "url": "https://open.spotify.com/artist/50eEhK6sfbvKaI75ZqD96I"
+        }
+      ],
+      "duration_ms": 162916,
+      "name": "\u00bfQu\u00e9 Le Echan al Tequila?",
+      "url": "https://open.spotify.com/track/3e6nJ0bEkMA5j042TkZpua"
     },
     {
       "added_at": "2022-09-09 05:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64Y3du11rR1.md) - [plain]
 
 > Acoustic covers of sad songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,117 likes - 108 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,435 likes - 108 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64Y3du11rR1.md) - [plain]
 | 22 | [Purple Rain \- Acoustic](https://open.spotify.com/track/0Q8N95kdGOqE6cWTDRvbms) | [Ben Haenow](https://open.spotify.com/artist/2eHEzcBykQCBbtWvYLjHHE) | [Purple Rain \(Acoustic\)](https://open.spotify.com/album/2BFuY60RmwJyNYP9w3QR9t) | 4:03 |
 | 23 | [Graveyard \- Acoustic](https://open.spotify.com/track/7c0YUDcJreOv1OoBGf1KdH) | [Highland Peak](https://open.spotify.com/artist/1J8P3Xd19imC48x8qnxxFV) | [Graveyard](https://open.spotify.com/album/5ikC0QzKV75C5uXx7aTOq1) | 4:14 |
 | 24 | [Running Up That Hill](https://open.spotify.com/track/5WIZSelxfTnvPWFRGPNB5j) | [aeseaes](https://open.spotify.com/artist/52KatchKjz0L2amwBDxxwO) | [Running Up That Hill](https://open.spotify.com/album/4fQDDND6AFBuHUGMIhWMNk) | 4:29 |
-| 25 | [Crying \(feat\. Kaelin Kost\)](https://open.spotify.com/track/0lK0IZC5DJpj31jlcngkeo) | [Marco Foster](https://open.spotify.com/artist/4xjQzxyvWiHRDXxJv9ORb2) | [Marco Foster](https://open.spotify.com/album/7jNVwAkKCf3XfDf6qo3Qkx) | 3:00 |
+| 25 | [Crying \(feat\. Kaelin Kost\)](https://open.spotify.com/track/2MbiDqLg76Ww2LbiqYDZ1T) | [Marco Foster](https://open.spotify.com/artist/4xjQzxyvWiHRDXxJv9ORb2) | [Marco Foster](https://open.spotify.com/album/7KDqtbQGvL7wJYtNpRK8ss) | 3:00 |
 | 26 | [Mr\. Brightside](https://open.spotify.com/track/6gSXDd3P1nIjuM1v1ZQqi6) | [Bailey Jehl](https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus) | [Mr\. Brightside](https://open.spotify.com/album/4KawaUrdB0FiEsseoniy3z) | 3:35 |
 | 27 | [Call Out My Name](https://open.spotify.com/track/4BBWuMf6GDi5c42AeCZKNt) | [Nef Medina](https://open.spotify.com/artist/1x9aBTOQP8VjLBgKVm81K6) | [All Acoustic](https://open.spotify.com/album/6RkbbiyYYYLOMFsZnWxElY) | 4:53 |
 | 28 | [drivers license](https://open.spotify.com/track/66V40iz2mphPbYvuJVj13i) | [Thomas Daniel](https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk) | [drivers license](https://open.spotify.com/album/4YhRWYWS8ntXFgQwvEIUrB) | 4:06 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64Y3du11rR1.md) - [plain]
 | 107 | [Believe](https://open.spotify.com/track/2xdQMKQ0ZO1O6WtAImKmYK) | [Ben & Tim](https://open.spotify.com/artist/0gb9yVmQVwhLVMMGKgXYnv) | [Believe](https://open.spotify.com/album/69nguqg69B4l4CnSHlQpzJ) | 3:02 |
 | 108 | [Hold On](https://open.spotify.com/track/5oThkXHCsfOCd0nctEYL8c) | [Dan Berk](https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ) | [Hold On](https://open.spotify.com/album/4tzJY3rsAnBKkdsYwGg1eG) | 2:50 |
 
-Snapshot ID: `MTY2MjM5Mjc0MywwMDAwMDAwMDU5NmZkY2EzMmNhOTVjM2I1MDBmNmYxNTU4NmMyYzcw`
+Snapshot ID: `MTY2MjM5Mjc0MywwMDAwMDAwMDZkMTViNzE2Njk1ZGQzNjEyM2NkMzFmZjQ2MGRhMGNh`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall du moment. Photo : Blaiz Fayah",
+  "description": "Les hits dancehall du moment. Photo : Tribal Kush",
   "name": "Dancehall Station",
   "published_playlist_ids": [
     "5EUHHXJOLrkgmRGE7o9Fvs"
@@ -143,6 +143,28 @@
       "duration_ms": 146547,
       "name": "Back Shot",
       "url": "https://open.spotify.com/track/76hdc5WUNauUx5xQkwLZUU"
+    },
+    {
+      "album": {
+        "name": "Backazz",
+        "url": "https://open.spotify.com/album/5WoPkk8iD8SA8UrQE0o8ux"
+      },
+      "artists": [
+        {
+          "name": "Tribal Kush",
+          "url": "https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD"
+        },
+        {
+          "name": "Jahyanai",
+          "url": "https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142040,
+      "name": "Backazz",
+      "url": "https://open.spotify.com/track/7mHX2qBPHMsckyURJCHgpx"
     },
     {
       "album": {
@@ -360,6 +382,28 @@
     },
     {
       "album": {
+        "name": "Bubble It",
+        "url": "https://open.spotify.com/album/6Fz02VzDbrRtfDpyTwKq45"
+      },
+      "artists": [
+        {
+          "name": "Yemi Alade",
+          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
+        },
+        {
+          "name": "Spice",
+          "url": "https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172731,
+      "name": "Bubble It",
+      "url": "https://open.spotify.com/track/175UQjCdeBnpQe5O0LeWGG"
+    },
+    {
+      "album": {
         "name": "Buddy",
         "url": "https://open.spotify.com/album/1Z9QBNnfFvtRIJZqwRBd6R"
       },
@@ -539,7 +583,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 132310,
       "name": "Count Your Blessings",
       "url": "https://open.spotify.com/track/2SWBD2z2Hmh0VLirGrM7vM"
@@ -1843,7 +1887,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 187188,
       "name": "Mojo",
       "url": "https://open.spotify.com/track/6kPpbxAtg5QNDGkgvWR30I"

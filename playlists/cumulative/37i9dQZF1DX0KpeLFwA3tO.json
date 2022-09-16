@@ -1,11 +1,29 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new music from the wide world of punk. Cover: WARGASM (UK)",
+  "description": "The best new music from the wide world of punk. Cover: Loveless",
   "name": "All New Punk",
   "published_playlist_ids": [
     "2haHBtUGc1WwW279RE9x3F"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "0151",
+        "url": "https://open.spotify.com/album/2fTfRwcAKBWVCuiKd2aXau"
+      },
+      "artists": [
+        {
+          "name": "High Vis",
+          "url": "https://open.spotify.com/artist/4Gmrt82h2vjGjnp67SG5Nw"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245946,
+      "name": "0151",
+      "url": "https://open.spotify.com/track/6AthbztIQGlPQDKlnsv7P2"
+    },
     {
       "album": {
         "name": "100 MPH",
@@ -27,7 +45,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 137209,
       "name": "100 MPH",
       "url": "https://open.spotify.com/track/0JTEMK4Mqtk8VoYicuNu6Q"
@@ -99,7 +117,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 218556,
       "name": "25 - Single Edit",
       "url": "https://open.spotify.com/track/1S0yXqDx40VGaPFZDxXteW"
@@ -135,7 +153,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 171813,
       "name": "5 Days On (2 Days Off)",
       "url": "https://open.spotify.com/track/0kSw5ZY5BH7a4AwMVyUxTM"
@@ -312,6 +330,24 @@
     },
     {
       "album": {
+        "name": "Addison Rae",
+        "url": "https://open.spotify.com/album/10guCRD4IIfIvmAt5ny4Km"
+      },
+      "artists": [
+        {
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199093,
+      "name": "Addison Rae",
+      "url": "https://open.spotify.com/track/5G7JTfXmgI7BXiT8ijEhn7"
+    },
+    {
+      "album": {
         "name": "AFTER THERAPY (feat. Hot Mulligan)",
         "url": "https://open.spotify.com/album/69miU2ZUNDbOpyqUziOHFS"
       },
@@ -461,6 +497,24 @@
       "duration_ms": 124613,
       "name": "all we\u2019ve got // all we need",
       "url": "https://open.spotify.com/track/7H38z9NAu83HbUhtBlu5GJ"
+    },
+    {
+      "album": {
+        "name": "All You Fonies",
+        "url": "https://open.spotify.com/album/7wEv3shDfmxmPucrVDZgfE"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169604,
+      "name": "All You Fonies",
+      "url": "https://open.spotify.com/track/5nMAPIuIxezwDgaeklUG07"
     },
     {
       "album": {
@@ -787,7 +841,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 153876,
       "name": "Backfired",
       "url": "https://open.spotify.com/track/2pkaP5gZboMEf5Jlrh8FXK"
@@ -1528,6 +1582,24 @@
     },
     {
       "album": {
+        "name": "SUCKERPUNCH",
+        "url": "https://open.spotify.com/album/0EIqEFEc82T70pVTKh7w1k"
+      },
+      "artists": [
+        {
+          "name": "Maggie Lindemann",
+          "url": "https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151624,
+      "name": "cages",
+      "url": "https://open.spotify.com/track/6zmpq82Tlev82M7BIl5V8b"
+    },
+    {
+      "album": {
         "name": "CALI SUN",
         "url": "https://open.spotify.com/album/3y7kjUerw9j2oJ2DBPRHRs"
       },
@@ -1857,6 +1929,24 @@
       "duration_ms": 157022,
       "name": "Collect Your Things and Run",
       "url": "https://open.spotify.com/track/5njT0EMk6qfyCNApVgulEh"
+    },
+    {
+      "album": {
+        "name": "Commander Trainwreck",
+        "url": "https://open.spotify.com/album/2gcoQ0InYl6g9gjNTDuFmp"
+      },
+      "artists": [
+        {
+          "name": "Skinner",
+          "url": "https://open.spotify.com/artist/2Se7imfs8bxem8G6oVNABJ"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188147,
+      "name": "Commander Trainwreck",
+      "url": "https://open.spotify.com/track/5QSX6X9d0wSn6JLWHCrpsR"
     },
     {
       "album": {
@@ -2645,7 +2735,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 174657,
       "name": "DOUBTS (feat. Ryan Oakes)",
       "url": "https://open.spotify.com/track/4Oqkl7HhomsKtZ0uLmN1H7"
@@ -2819,6 +2909,24 @@
       "duration_ms": 188179,
       "name": "Eat Men Eat",
       "url": "https://open.spotify.com/track/5CrlTDGXntzNChfVDW2Gbq"
+    },
+    {
+      "album": {
+        "name": "Chaos - EP",
+        "url": "https://open.spotify.com/album/5bvgiRyQPSVDa9QSaMoAGs"
+      },
+      "artists": [
+        {
+          "name": "Loose Articles",
+          "url": "https://open.spotify.com/artist/07NWIkIKcZnWWmebfHcOxT"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300817,
+      "name": "Eggshells",
+      "url": "https://open.spotify.com/track/026pZsIEpc9obyW5RwrgxW"
     },
     {
       "album": {
@@ -4731,7 +4839,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 202787,
       "name": "In My Arms",
       "url": "https://open.spotify.com/track/2lFJZdIvGVkK1V1wFWeLUk"
@@ -4973,7 +5081,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 191871,
       "name": "Juice",
       "url": "https://open.spotify.com/track/4EAEKqmrkfA7WFfeBAvDZi"
@@ -5247,7 +5355,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 184653,
       "name": "LAUGH. CRY. SMILE. DIE. (feat. Shane Told of Silverstein)",
       "url": "https://open.spotify.com/track/3ksWMAOiMobIucBbEGuHW3"
@@ -5323,6 +5431,24 @@
       "duration_ms": 160346,
       "name": "Leaving Candyland",
       "url": "https://open.spotify.com/track/19zYVOWm7HBRxylA1nJrCS"
+    },
+    {
+      "album": {
+        "name": "Leisure Activities",
+        "url": "https://open.spotify.com/album/4qvlYE6T5cFDaVycLxHl9r"
+      },
+      "artists": [
+        {
+          "name": "Italia 90",
+          "url": "https://open.spotify.com/artist/4NArCLoaLaa9cQkm2dk3PP"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282359,
+      "name": "Leisure Activities",
+      "url": "https://open.spotify.com/track/0n9da6oT6NiADZhnlqWWxa"
     },
     {
       "album": {
@@ -5789,7 +5915,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 217094,
       "name": "Low Tide",
       "url": "https://open.spotify.com/track/3DOxjr9bzKOfWZS59phJ0p"
@@ -6257,7 +6383,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 151983,
       "name": "Move It or Lose It",
       "url": "https://open.spotify.com/track/0NlAVwtXrtyuV5fxxlSeUH"
@@ -7245,6 +7371,24 @@
       "duration_ms": 172346,
       "name": "PORN ACTING*",
       "url": "https://open.spotify.com/track/1lu1qW0KFaYUv2cQJl71ok"
+    },
+    {
+      "album": {
+        "name": "Post Ryan",
+        "url": "https://open.spotify.com/album/5yymZcgXcokucqKrKdMqNW"
+      },
+      "artists": [
+        {
+          "name": "Gilla Band",
+          "url": "https://open.spotify.com/artist/7IdPmzvB3PugXieZE9vS4S"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256130,
+      "name": "Post Ryan - Edit",
+      "url": "https://open.spotify.com/track/529CmaR7Fe7Fq2micbIkgs"
     },
     {
       "album": {
@@ -9544,6 +9688,24 @@
     },
     {
       "album": {
+        "name": "am i making sense?",
+        "url": "https://open.spotify.com/album/25QbAaiHPubdfkNZs5p0F0"
+      },
+      "artists": [
+        {
+          "name": "lleo",
+          "url": "https://open.spotify.com/artist/0zXY7bBZFvl0mNxPxzo1e4"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166210,
+      "name": "the internet",
+      "url": "https://open.spotify.com/track/1bCwLs00sj1zgiXhVOYpwS"
+    },
+    {
+      "album": {
         "name": "The King and Queen of Gasoline",
         "url": "https://open.spotify.com/album/1a3S2I3J4LcmAoj5ttDaoP"
       },
@@ -9819,10 +9981,28 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 198360,
       "name": "This Road Of Mine",
       "url": "https://open.spotify.com/track/1sOUZzRIk252Y66hXNfG7B"
+    },
+    {
+      "album": {
+        "name": "Thorns",
+        "url": "https://open.spotify.com/album/29fhSgEsDkonBnDGSPqSRC"
+      },
+      "artists": [
+        {
+          "name": "WALWIN",
+          "url": "https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176475,
+      "name": "Thorns",
+      "url": "https://open.spotify.com/track/5cdJnifP5OBRsSVEJ9c23b"
     },
     {
       "album": {
@@ -10566,6 +10746,24 @@
     },
     {
       "album": {
+        "name": "Expert In A Dying Field",
+        "url": "https://open.spotify.com/album/6RWLJx7kQLSnwwPyTqPj0U"
+      },
+      "artists": [
+        {
+          "name": "The Beths",
+          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248666,
+      "name": "When You Know You Know",
+      "url": "https://open.spotify.com/track/3DpvrjdkaRAinFhNLoJuKa"
+    },
+    {
+      "album": {
         "name": "Growth",
         "url": "https://open.spotify.com/album/67C8VTP0JnMp3uYzVf09od"
       },
@@ -10765,6 +10963,24 @@
       "duration_ms": 203435,
       "name": "WORMS (In My Brain)",
       "url": "https://open.spotify.com/track/4XQKfDwyYw0p1p8WvC2e7j"
+    },
+    {
+      "album": {
+        "name": "End of an era",
+        "url": "https://open.spotify.com/album/5dTaJdgmqgz5hcmpSVNgVF"
+      },
+      "artists": [
+        {
+          "name": "Loveless",
+          "url": "https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180018,
+      "name": "Worst Case Scenario",
+      "url": "https://open.spotify.com/track/0YM173YNbhtzxYYNWOj04n"
     },
     {
       "album": {

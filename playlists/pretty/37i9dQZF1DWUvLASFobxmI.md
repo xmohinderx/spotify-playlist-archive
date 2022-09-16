@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvLASFobxmI.md) - [plain]
 
 > Bravías, románticas y rancheras, las mejores canciones norteñas\. Grupo Arriesgado en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,354 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,807 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,14 +64,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvLASFobxmI.md) - [plain]
 | 54 | [Chalino](https://open.spotify.com/track/6KrKCKqR8fYEMw2F4XNbE8) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Chalino](https://open.spotify.com/album/266gbjmcYrta8TVjVInvHO) | 3:34 |
 | 55 | [El Compa Carlos \- En Vivo](https://open.spotify.com/track/0oZgRqBtQbfB8zkJNQGUTr) | [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV) | [Golpe de Estado \(En Vivo\)](https://open.spotify.com/album/4HKp5Ouc9lHtJvwlYhlcFg) | 2:15 |
 | 56 | [Te vez Buena](https://open.spotify.com/track/0GzOtepkwolnl5WrDv61ys) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [De Parranda Lives Vol\. 5](https://open.spotify.com/album/1JsM9bGRvLyZvZbALOFj3E) | 4:12 |
-| 57 | [El Agua Clara](https://open.spotify.com/track/35Fjjqjlq3YRJbK8QM7OGK) | [Contacto Norte](https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU) | [Y Es el Contacto ¡Raza!](https://open.spotify.com/album/1GSv17RyzcqpZBHjHtgO1X) | 2:48 |
+| 57 | [Pideme la Luna](https://open.spotify.com/track/3m2S4eEc19o5krIEplPq2c) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602](https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO) | 2:47 |
 | 58 | [Por La Baja Navegamos](https://open.spotify.com/track/0OephgF5HKnlnZYLhCuaKQ) | [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ) | [La Loteria](https://open.spotify.com/album/1eOnR7Tb5ajg0OMNi68i4W) | 2:56 |
-| 59 | [Pideme la Luna](https://open.spotify.com/track/3m2S4eEc19o5krIEplPq2c) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602](https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO) | 2:47 |
+| 59 | [El Agua Clara](https://open.spotify.com/track/35Fjjqjlq3YRJbK8QM7OGK) | [Contacto Norte](https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU) | [Y Es el Contacto ¡Raza!](https://open.spotify.com/album/1GSv17RyzcqpZBHjHtgO1X) | 2:48 |
 | 60 | [Me Dicen El Chavo](https://open.spotify.com/track/2Qtbqu3XEudTeqB31PKGu4) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [Me Dicen El Chavo](https://open.spotify.com/album/2GAQ8DhWnILWXcnbLTny2W) | 3:07 |
 | 61 | [No Estaré Aquí](https://open.spotify.com/track/3em3YfqWFgBXqwPehgti6l) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [No Estaré Aquí](https://open.spotify.com/album/37w7YHhpXOlpSPpiXm4D0b) | 2:26 |
 | 62 | [Cuervo Sierra](https://open.spotify.com/track/4egR3W3kn5hcihVttAHtGL) | [Los Austeros De Durango](https://open.spotify.com/artist/3R6Kbe18UcjsGkBGWElC51) | [Cuervo Sierra](https://open.spotify.com/album/5WjbMzzti4lF2YwoEquLrj) | 2:55 |
-| 63 | [Solo Un Día \- En Vivo](https://open.spotify.com/track/2VZ4vDpWOszIVHzM6iLbmU) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Pistiembre Todo El Año \(En Vivo\)](https://open.spotify.com/album/4Q7M6FhTy0WhQcqHr8uIQt) | 3:52 |
-| 64 | [De Cuando Acá](https://open.spotify.com/track/2sZ9VjimnCq5JrLPR0GUui) | [La Energia Nortena](https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp) | [De Cuando Acá](https://open.spotify.com/album/05RvA9U5fT5ojjzH91W5Ki) | 2:58 |
+| 63 | [De Cuando Acá](https://open.spotify.com/track/2sZ9VjimnCq5JrLPR0GUui) | [La Energia Nortena](https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp) | [De Cuando Acá](https://open.spotify.com/album/05RvA9U5fT5ojjzH91W5Ki) | 2:58 |
+| 64 | [Solo Un Día \- En Vivo](https://open.spotify.com/track/2VZ4vDpWOszIVHzM6iLbmU) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Pistiembre Todo El Año \(En Vivo\)](https://open.spotify.com/album/4Q7M6FhTy0WhQcqHr8uIQt) | 3:52 |
 | 65 | [Me Dicen Nini](https://open.spotify.com/track/6E3InxDzcHJG7Pe4HrgxkV) | [Beto Vega](https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak), [Markitos Toys](https://open.spotify.com/artist/48WE0w9PUfMlgMLJhNcX8g) | [Me Dicen Nini](https://open.spotify.com/album/6i5PLMwllcPA7fyJSt4kf5) | 3:35 |
 | 66 | [El Corrido Del Piyi \(LDLG\)](https://open.spotify.com/track/3rs25Jb9yuoHxPQuV4pS12) | [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn), [Los Caimanes De Sinaloa](https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN) | [El Corrido Del Piyi \(LDLG\)](https://open.spotify.com/album/243mP1y4rBdXYiFjodfUS2) | 3:04 |
 | 67 | [Mundo De Amor](https://open.spotify.com/track/6WjokN1zbNGTNsBkzBd9gd) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Mundo De Amor](https://open.spotify.com/album/4j3lGLBvF4xIcIvRtavqUt) | 2:49 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvLASFobxmI.md) - [plain]
 | 71 | [Gato de Madrugada](https://open.spotify.com/track/4rhPhB61ylNbpiZReZbK9q) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Gato de Madrugada](https://open.spotify.com/album/70HmvEK5xlSxwVlyHNY4Y0) | 4:04 |
 | 72 | [Soy de Sinaloa](https://open.spotify.com/track/0G8UX6rA6OLal4OXPZLv5K) | [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0) | [Soy de Sinaloa](https://open.spotify.com/album/2RirpFu0iqptAyM5eARyl2) | 2:41 |
 | 73 | [Mi Trokita Cumbia](https://open.spotify.com/track/0TwWnaZ6JGfVuN4iZq2BzJ) | [Obzesion](https://open.spotify.com/artist/38b0HYhJsCesXvtdCbRCRS) | [Mi Trokita Cumbia](https://open.spotify.com/album/0tMsvi0IzNyRZFqF9qeFCz) | 2:14 |
-| 74 | [Provocame](https://open.spotify.com/track/6I80AujjkdCKzMfMjDVxHx) | [Clave Suprema](https://open.spotify.com/artist/6qJpXwgejXZxqmYIQJB7AK) | [Provocame](https://open.spotify.com/album/2Ii85DNWkjtaGgBa7LgTsQ) | 3:09 |
-| 75 | [No Me Hablen de Amor](https://open.spotify.com/track/7K0uP89lMORMUgH1hBwpJc) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [No Me Hablen de Amor](https://open.spotify.com/album/05ef9VbIUj8OwNCZSbW8At) | 3:09 |
+| 74 | [No Me Hablen de Amor](https://open.spotify.com/track/7K0uP89lMORMUgH1hBwpJc) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [No Me Hablen de Amor](https://open.spotify.com/album/05ef9VbIUj8OwNCZSbW8At) | 3:09 |
+| 75 | [Provocame](https://open.spotify.com/track/6I80AujjkdCKzMfMjDVxHx) | [Clave Suprema](https://open.spotify.com/artist/6qJpXwgejXZxqmYIQJB7AK) | [Provocame](https://open.spotify.com/album/2Ii85DNWkjtaGgBa7LgTsQ) | 3:09 |
 | 76 | [Así Ya No](https://open.spotify.com/track/0rc9jL9G6RQHtgvIDYUmLD) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [El Fenómeno](https://open.spotify.com/album/2ha9AYHQfi9sA6sMyC5kgs) | 2:42 |
 | 77 | [Siempre Estoy Pa´Ti](https://open.spotify.com/track/7tdu9DVtHAxWapgPtnuZkM) | [Los Elegantes de Jerez](https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav), [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3) | [Siempre Estoy Pa´Ti](https://open.spotify.com/album/4xYCQogPWyemOhsaSLQkre) | 3:53 |
 | 78 | [El Invierno Pasado](https://open.spotify.com/track/68tZC61FSDP2WgdQAoImQG) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Jean Piero](https://open.spotify.com/artist/038hutZ2g8qq1UjZZGfTIs) | [El Invierno Pasado](https://open.spotify.com/album/7r0Et078YgtOvouUWg0UgY) | 4:08 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvLASFobxmI.md) - [plain]
 | 94 | [Por Ella Tomo](https://open.spotify.com/track/0FkATCT3LOTcMaDh6nwFsl) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Por Ella Tomo](https://open.spotify.com/album/0a5Wnsr4Z7LHcqzONGR1XY) | 3:05 |
 | 95 | [San Juditas](https://open.spotify.com/track/5WqylHMUJGQ1Me46J2trNh) | [Grupo Nuevo Equipo](https://open.spotify.com/artist/3FBG6TxCmYEDgwXai20GAl) | [San Juditas](https://open.spotify.com/album/69h4MhqmusnrGzuaxIG5Nx) | 3:01 |
 | 96 | [Enamorado](https://open.spotify.com/track/2lQ907kdNk2IL7WRQZHlZy) | [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv) | [Enamorado](https://open.spotify.com/album/1JNPLcUJAcPHnkB6cgxU39) | 3:09 |
-| 97 | [Yo Perdí](https://open.spotify.com/track/0QKr9qO91FbCUDaNsXkZ5T) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Yo Perdí](https://open.spotify.com/album/7qIFqS4tLfjag7YkyPwecJ) | 2:44 |
-| 98 | [Agarra La Onda](https://open.spotify.com/track/74TXCLIJTGoVB9EuhW9nxD) | [El Predilecto](https://open.spotify.com/artist/41uIUL5E0w74f7sFzDKrcr) | [El Predilecto](https://open.spotify.com/album/0c5A0h5ZCKMHjKfSTmUINy) | 3:06 |
+| 97 | [Agarra La Onda](https://open.spotify.com/track/74TXCLIJTGoVB9EuhW9nxD) | [El Predilecto](https://open.spotify.com/artist/41uIUL5E0w74f7sFzDKrcr) | [El Predilecto](https://open.spotify.com/album/0c5A0h5ZCKMHjKfSTmUINy) | 3:06 |
+| 98 | [Yo Perdí](https://open.spotify.com/track/0QKr9qO91FbCUDaNsXkZ5T) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Yo Perdí](https://open.spotify.com/album/7qIFqS4tLfjag7YkyPwecJ) | 2:44 |
 | 99 | [La Última y Nos Vamos](https://open.spotify.com/track/3CqT8gjOHWBDaJ7yp4QtFb) | [Leandro Ríos](https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w) | [La Última y Nos Vamos](https://open.spotify.com/album/6FrH1j5lnmSaYUoAkVCQRU) | 2:36 |
 | 100 | [Bola De Envidiosos](https://open.spotify.com/track/7Ke15MvpKaBJ1cdsVst69S) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Bola De Envidiosos](https://open.spotify.com/album/5G4dgSw1uii6SvLTofW2AQ) | 2:23 |
 
-Snapshot ID: `MTY2MjA5NDgwMCwwMDAwMDAwMDZjYjVlMWM1MjEyN2I5ZThjNmI3NWEyNjk3MWEyOGZm`
+Snapshot ID: `MTY2MjA5NDgwMCwwMDAwMDAwMDUxN2RiYWRjZTY1YjQ3Mzg4NzcyOWFkNzA0ODY0Zjc2`

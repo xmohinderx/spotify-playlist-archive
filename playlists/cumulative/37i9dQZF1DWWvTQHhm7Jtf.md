@@ -4,7 +4,7 @@
 
 > A pangea of ethnic/futuristic sounds inspired by Brian Eno and Jon Hassell's 'Fourth World Vol 1 \- Possible Musics'.
 
-121 songs - 13 hr 18 min - [published](https://open.spotify.com/playlist/0ykWqecK3jiRY8qdI86lLb)
+122 songs - 13 hr 20 min - [published](https://open.spotify.com/playlist/0ykWqecK3jiRY8qdI86lLb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [dlp 1.1](https://open.spotify.com/track/31FiS1jMI38kYfC8ey358W) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [The Disintegration Loops \(Remastered\)](https://open.spotify.com/album/1xVP4eFcagXNtQMvEXfyeV) | 1:03:35 | 2021-10-20 | 2022-07-28 |
 | [Dreams](https://open.spotify.com/track/3OTzXu6oTZNQbZmyU7podJ) | [Asaph Sánchez](https://open.spotify.com/artist/6WDgyfRIVQ68WwwnYZIOsI) | [Dreams](https://open.spotify.com/album/5HVZHQ5JYhzGTEuD4xsrgT) | 5:16 | 2022-03-16 |  |
 | [Duet 1](https://open.spotify.com/track/4tJKvqxSriGHKPS8QpqBjs) | [Nate Mercereau](https://open.spotify.com/artist/5fUnrD4Bwhct3etEOPID7X) | [Duets \| Golden Gate Bridge](https://open.spotify.com/album/177n1B4zIvOyy0UUBSJajw) | 6:53 | 2021-10-20 | 2022-07-29 |
+| [Ediacaran Moonrise](https://open.spotify.com/track/4zcSOD3J1JJjCW1HnGhGSf) | [Barry Walker Jr.](https://open.spotify.com/artist/1dCLEg0dKASY0PSsOOrA3Z) | [Diaspora Urkontinent](https://open.spotify.com/album/4u3piRvbk4dns3RbMla1a2) | 2:28 | 2022-09-15 |  |
 | [Empire II](https://open.spotify.com/track/6Ra8gN2dkT41IcGa6NX4HO) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Aka / Darbari / Java](https://open.spotify.com/album/02Y32UFWcdkRluO5EPWKAK) | 4:53 | 2021-10-20 | 2022-07-26 |
 | [Empire III](https://open.spotify.com/track/0WLUAMAW1FsplcSNeTHzKg) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Aka / Darbari / Java](https://open.spotify.com/album/02Y32UFWcdkRluO5EPWKAK) | 7:09 | 2021-10-20 | 2022-07-28 |
 | [Endless](https://open.spotify.com/track/15pARbUntgEEw4b8m9d15U) | [Christopher Willits](https://open.spotify.com/artist/0XHtezS69NYZ51SEFh8WEA) | [Gravity](https://open.spotify.com/album/68vbTaCeZnvNpjZqDbvB4n) | 5:41 | 2022-09-14 |  |
@@ -84,7 +85,7 @@
 | [Orbit](https://open.spotify.com/track/0qrIo0wS3pCPeM4aEdyyA4) | [Muffler](https://open.spotify.com/artist/4HSQ4ALTUXgWlSrhfc4LNA) | [Orbit](https://open.spotify.com/album/1tui8E9mYfofXZsMvbClWb) | 4:07 | 2022-02-18 | 2022-07-29 |
 | [Orbit](https://open.spotify.com/track/5UjMb1mO2VQ3Kv1KB2G4oI) | [Muffler](https://open.spotify.com/artist/4HSQ4ALTUXgWlSrhfc4LNA) | [Starburst](https://open.spotify.com/album/0lBv6vqeXWUSt8WKyIhv8j) | 4:07 | 2022-02-18 |  |
 | [Palace Posy](https://open.spotify.com/track/3OtXrdgyepq7uDp96ewVqF) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/159ORixBSSemxiualv1Woj) | 4:05 | 2021-10-20 |  |
-| [Paper Marble](https://open.spotify.com/track/4CUwlWnCgjWI434Gy0NwPo) | [David Kuckhermann](https://open.spotify.com/artist/4Yp7P4A82tNbZmMYRTSW9c) | [The Path of the Metal Turtle](https://open.spotify.com/album/2j4wLYGVcXgaleCBlvFA7o) | 6:15 | 2021-10-20 |  |
+| [Paper Marble](https://open.spotify.com/track/4CUwlWnCgjWI434Gy0NwPo) | [David Kuckhermann](https://open.spotify.com/artist/4Yp7P4A82tNbZmMYRTSW9c) | [The Path of the Metal Turtle](https://open.spotify.com/album/2j4wLYGVcXgaleCBlvFA7o) | 6:15 | 2021-10-20 | 2022-09-16 |
 | [Poa Alpina](https://open.spotify.com/track/4K4kedXFAuW6gn8iwgGFTw) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Substrata + Man with a Movie Camera](https://open.spotify.com/album/5QIf4hNIAksV1uMCXHVkAZ) | 4:11 | 2021-10-20 |  |
 | [Renee Sleeping](https://open.spotify.com/track/0wXlOE5NioNvUozBtNmBUy) | [Suzanne Kraft](https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m) | [Talk from Home](https://open.spotify.com/album/1RMrV8gQc6f3csRiNoQwP6) | 4:09 | 2021-10-20 |  |
 | [Sick Times](https://open.spotify.com/track/3smDJCcylq9ghblaXmslo8) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/159ORixBSSemxiualv1Woj) | 4:16 | 2021-10-20 |  |

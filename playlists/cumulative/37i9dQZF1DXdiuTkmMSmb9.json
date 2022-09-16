@@ -561,6 +561,32 @@
     {
       "album": {
         "name": "Closer",
+        "url": "https://open.spotify.com/album/0VyIjviFD8bWVCkAs9Cb4Y"
+      },
+      "artists": [
+        {
+          "name": "DJ Nino Brown",
+          "url": "https://open.spotify.com/artist/5d3XNpscHFKUuw1YouL2ns"
+        },
+        {
+          "name": "Arona Mane",
+          "url": "https://open.spotify.com/artist/70yqFQVIWhHa89ELLSB69B"
+        },
+        {
+          "name": "Osayo",
+          "url": "https://open.spotify.com/artist/7mwr4uuaASWSKyCiWpHeM3"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214067,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/4tMrxubFTi02gsaEVlaiQZ"
+    },
+    {
+      "album": {
+        "name": "Closer",
         "url": "https://open.spotify.com/album/0tEY7BcakoO12tCsuYdgPA"
       },
       "artists": [
@@ -579,7 +605,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 214067,
       "name": "Closer",
       "url": "https://open.spotify.com/track/5qz7y3Mj8t1gOgDwQGMVRt"

@@ -903,7 +903,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 246896,
       "name": "Long as You Can",
       "url": "https://open.spotify.com/track/4DP59Vpv73jNlpGiWOV8m8"
@@ -1449,6 +1449,28 @@
       "duration_ms": 159245,
       "name": "Thinkin About",
       "url": "https://open.spotify.com/track/679TnTjA1ad756mFFq91ZK"
+    },
+    {
+      "album": {
+        "name": "Future History",
+        "url": "https://open.spotify.com/album/2vNhhg37RTwKA66V8yyk0q"
+      },
+      "artists": [
+        {
+          "name": "Nu:Tone",
+          "url": "https://open.spotify.com/artist/7pDBRy9uWy1zq5b0uXIABQ"
+        },
+        {
+          "name": "Lea Lea",
+          "url": "https://open.spotify.com/artist/2rr4WqfAdv4xEi5YyXdPQb"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343346,
+      "name": "Tides",
+      "url": "https://open.spotify.com/track/7A99JonAe94FLm6DqNIpS8"
     },
     {
       "album": {

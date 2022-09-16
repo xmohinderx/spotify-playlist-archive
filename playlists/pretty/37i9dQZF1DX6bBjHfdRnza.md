@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 ### [Fresh Finds Dance](https://open.spotify.com/playlist/37i9dQZF1DX6bBjHfdRnza)
 
-> The best new dance & electronic music by independent artists and labels\. Updates every Wednesday\. Cover: GIDEÖN, Artwork: Rewina Beshue.
+> The best new dance & electronic music by independent artists and labels\. Updates every Wednesday\. Cover: BOABOA, Artwork: Rewina Beshue.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,670 likes - 100 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,739 likes - 100 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 99 | [Rush Common](https://open.spotify.com/track/4M2jeGuJgzetD38Fk9WD63) | [Demi Riquísimo](https://open.spotify.com/artist/1GIv2BGriYO1IdownXWWac) | [Rush Common](https://open.spotify.com/album/4VcVoMRtsah515Nssq9i4H) | 4:40 |
 | 100 | [Reverse Cowgirl 2](https://open.spotify.com/track/33EVvwTGTrfopZH9FyrWvQ) | [Jennifer Loveless](https://open.spotify.com/artist/2Vsiki0qM11ADccRwwvS1c) | [Reverse Cowgirl 2](https://open.spotify.com/album/3lNfAyDNR55wADWY2epjXb) | 4:46 |
 
-Snapshot ID: `MTY2MzE3NDUyNiwwMDAwMDAwMGFhNzY4NDQ3OTNkNDdiNTJiNTIyODdkYTRhYzQ5ZGRi`
+Snapshot ID: `MTY2MzI1MzI3OSwwMDAwMDAwMDAyZmI4NWE3MmYyMTM3YWUxMDA5NDY1MTQ3ZWE2YjBm`

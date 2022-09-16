@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1rZf8gLhyz.md) - [plain]
 
 > Let these calm Jazz tracks lull you to sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 965,844 likes - 156 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 966,013 likes - 156 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -165,4 +165,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1rZf8gLhyz.md) - [plain]
 | 155 | [What's New](https://open.spotify.com/track/6iwsy9DLU29eDoQcvDDGaF) | [William Adams](https://open.spotify.com/artist/777n5UE3XVeaTgguSTisX9) | [What's New](https://open.spotify.com/album/1g6FzibZ0R7fthYIMaUVqE) | 4:31 |
 | 156 | [In A Sentimental Mood](https://open.spotify.com/track/2RJQsdpr5CzWzRA8mYx1ur) | [Stan Stead](https://open.spotify.com/artist/7AqhE9vlxr6U5KpdDP1PzD) | [In A Sentimental Mood](https://open.spotify.com/album/3t5hzRfv1qKoIgTRCh7Aan) | 2:52 |
 
-Snapshot ID: `MTY2MzA1MTkwMiwwMDAwMDAwMDIzNTY1MDJiM2I3OWM5ZTkyNzFmNGFiNDM2YWRjYzA3`
+Snapshot ID: `MTY2MzI1MDA5NSwwMDAwMDAwMGM1NjdjZjJkNTVjMzVmZTlkNGJhNGE4N2MxMGJlMmE1`

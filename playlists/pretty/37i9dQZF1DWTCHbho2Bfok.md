@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTCHbho2Bfok.md) - [plain]
 
 > All the festive faves to soundtrack your very merry Christmas!
 
-[Spotify](https://open.spotify.com/user/spotify) - 439,185 likes - 53 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 439,163 likes - 53 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTCHbho2Bfok.md) - [plain]
 | 22 | [Please Come Home for Christmas \- 2013 Remaster](https://open.spotify.com/track/60e4x4V1ElCjukbAteZdZn) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [The Very Best of the Eagles \(2013 Remaster\)](https://open.spotify.com/album/5J0VCIp4TTsZBKOqWdbBSa) | 2:57 |
 | 23 | [Jingle Bells \(feat\. The Puppini Sisters\)](https://open.spotify.com/track/5qXUIehZetSx94f6QNT88w) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3), [The Puppini Sisters](https://open.spotify.com/artist/1svaANJTE5KrG16fTGDqOs) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0) | 2:39 |
 | 24 | [Mary's Boy Child / Oh My Lord](https://open.spotify.com/track/6YnzBV7YkaXZNCK3tlnCfg) | [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Mary's Boy Child](https://open.spotify.com/album/6kgm5fARVQXzzKs3aXuKxg) | 4:03 |
-| 25 | [A Holly Jolly Christmas \- Single Version](https://open.spotify.com/track/77khP2fIVhSW23NwxrRluh) | [Burl Ives](https://open.spotify.com/artist/0MHgLfmQdutffmvWe5XBTN) | [Have A Holly Jolly Christmas](https://open.spotify.com/album/6MvKUOSuPdfH0WLeQjR3eR) | 2:15 |
-| 26 | [Run Rudolph Run \- Single Version](https://open.spotify.com/track/2pnPe4pJtq7689i5ydzvJJ) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Rock 'N' Roll Rarities](https://open.spotify.com/album/1DILNh7maaYyKxe15V9xLq) | 2:45 |
+| 25 | [A Holly Jolly Christmas](https://open.spotify.com/track/77khP2fIVhSW23NwxrRluh) | [Burl Ives](https://open.spotify.com/artist/0MHgLfmQdutffmvWe5XBTN) | [Have A Holly Jolly Christmas](https://open.spotify.com/album/6MvKUOSuPdfH0WLeQjR3eR) | 2:15 |
+| 26 | [Run Rudolph Run](https://open.spotify.com/track/2pnPe4pJtq7689i5ydzvJJ) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Rock 'N' Roll Rarities](https://open.spotify.com/album/1DILNh7maaYyKxe15V9xLq) | 2:45 |
 | 27 | [White Christmas](https://open.spotify.com/track/3kSLkIROkpBZvhOzwNxjHe) | [Human Nature](https://open.spotify.com/artist/72BTmmAO3QfETWlFjwjfJ1) | [The Christmas Album \(Deluxe Edition\)](https://open.spotify.com/album/6mBKBpFlRvqJbkc4J7y8gq) | 2:54 |
 | 28 | [Santa Baby](https://open.spotify.com/track/2SBr3MK1sdMs8IxdRcN6qz) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Kylie Christmas](https://open.spotify.com/album/0XRlr1kD7uPfLb0RxQKt6W) | 3:21 |
 | 29 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/6CT7ZQKVafBZjCOCafy5Ad) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [A Very Special Christmas](https://open.spotify.com/album/06H9y3oBVGgYQ0McDsCYX4) | 2:19 |

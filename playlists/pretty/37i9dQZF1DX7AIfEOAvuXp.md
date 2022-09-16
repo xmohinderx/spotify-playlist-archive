@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AIfEOAvuXp.md) - [plain]
 
 > Introducing the Fresh Finds Class of 2020\. Editors' picks of the top Fresh Finds this year.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,377 likes - 102 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,375 likes - 102 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AIfEOAvuXp.md) - [plain]
 | 37 | [el jardinero](https://open.spotify.com/track/4YlkjZVjQjtjFaTTxiADLw) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [el jardinero](https://open.spotify.com/album/3dkSczh5f21IespeDXjz8Q) | 2:57 |
 | 38 | [talking in my sleep](https://open.spotify.com/track/16UfdNMAfLPkBqq1JgMdAl) | [Heather Sommer](https://open.spotify.com/artist/0EHYuPn9Xng2lZP2cfz4cV) | [talking in my sleep](https://open.spotify.com/album/1MMru7B3vILRGqQyQNw4Ug) | 2:34 |
 | 39 | [Stormy](https://open.spotify.com/track/2SNFIHJSbzReDu0ewTbdUu) | [Sally Boy](https://open.spotify.com/artist/0FizvTDN8BVHmV5j2fL9Hf) | [EREZ](https://open.spotify.com/album/5ValAPJZMl7J1tBYMlSZnz) | 2:16 |
-| 40 | [Nena](https://open.spotify.com/track/4fWY8QZsAhEF0WeI20QhMj) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [Nena](https://open.spotify.com/album/6GeMiynuj56geayA7AqRra) | 2:33 |
+| 40 | [Nena](https://open.spotify.com/track/5kJrMogX8dnZvwJVRQct8l) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [Nena](https://open.spotify.com/album/5eYJgVtDk7Az1vRWKNfuzY) | 2:33 |
 | 41 | [VOCES](https://open.spotify.com/track/4GPrUV2O7u9bL5VsTh3RrB) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [VOCES](https://open.spotify.com/album/0AbXWJGEy8k6hBxZPVGCJW) | 3:22 |
 | 42 | [Icarus](https://open.spotify.com/track/58UVZ68VQiQ4EHeIIcX0gb) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Icarus](https://open.spotify.com/album/2pfKIrc0KoZvJ6DK7bLXbY) | 2:29 |
 | 43 | [777](https://open.spotify.com/track/5GfNUR8fEjBWVj7NDhFbSl) | [Skeleton Club](https://open.spotify.com/artist/0mOedQDhVFd4i2a69wDR2R) | [777](https://open.spotify.com/album/67xksZSESsdyA8fWQyeUy1) | 2:47 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AIfEOAvuXp.md) - [plain]
 | 101 | [Bass Jumpin](https://open.spotify.com/track/1T6PwHz0L4zdTyGInqG4xd) | [Arno Faraji](https://open.spotify.com/artist/46jtLFOHGcnIqW74ESazFQ) | [Bass Jumpin](https://open.spotify.com/album/5REn5qlzivqOk4dqhwZZWo) | 2:36 |
 | 102 | [Black Cat](https://open.spotify.com/track/2wQoKMGGqhndLMjEgdnQi1) | [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [Black Cat](https://open.spotify.com/album/2u0K1niKQ8thzgF22Y20tO) | 2:56 |
 
-Snapshot ID: `MTYwNzM1NTg4MCwwMDAwMDAwMDFkZjIxMjQxZDM5N2E3Y2I1ZjFiOTFiOTJjYWY2MTlk`
+Snapshot ID: `MTYwNzM1NTg4MCwwMDAwMDAwMGQxOTIwZGVhMzM0MjAxMTJlOTYzOWVmMGMxMmI5NTQ5`

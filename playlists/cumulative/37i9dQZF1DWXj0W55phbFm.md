@@ -4,7 +4,7 @@
 
 > The classic trumpet players in Jazz\. Cover: Miles Davis
 
-129 songs - 13 hr 10 min - [published](https://open.spotify.com/playlist/51VUBPDUeBVmMBu3JyYpOE)
+130 songs - 13 hr 13 min - [published](https://open.spotify.com/playlist/51VUBPDUeBVmMBu3JyYpOE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Bye Bye Blackbird \(feat\. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones\)](https://open.spotify.com/track/3ujbZ2FGIoTQG3v07tmV2D) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG), [Philly Joe Jones](https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1) | ['Round About Midnight](https://open.spotify.com/album/4VUawqEDCHHfrUe77ScQ2K) | 7:54 | 2022-05-13 |  |
 | [Candy](https://open.spotify.com/track/3N4OSnqWmWyJzfDWMNMS3n) | [Clark Terry](https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU) | [Daylight Express](https://open.spotify.com/album/2tmWCWVCAbeS7KwbqTiMsN) | 2:25 | 2022-05-13 |  |
 | [Children](https://open.spotify.com/track/2zd2XhHfRH0pOyMw1sK0jo) | [Mathias Eick](https://open.spotify.com/artist/6emZIO62oAXpIGiplDApwJ) | [Ravensburg](https://open.spotify.com/album/2w62NpE5U58lff2IoUiUWR) | 5:42 | 2022-05-13 |  |
+| [Children's Waltz](https://open.spotify.com/track/6vhp7oVhC3y83H1ItCzNce) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T), [Philip Catherine](https://open.spotify.com/artist/3MK08earaAAPhouY2WTvqn) | [Late Night Jazz \(Deluxe Edition\)](https://open.spotify.com/album/4R3CM1E0eEgn4RVAz7ve64) | 2:59 | 2022-09-15 |  |
 | [Comin' Down](https://open.spotify.com/track/60EjvhLsxvgFbkQR6s4Jsx) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baby Breeze \(Expanded Edition\)](https://open.spotify.com/album/4FwmVb94KamiFQNi2uslNM) | 4:28 | 2022-05-13 |  |
 | [Con Alma](https://open.spotify.com/track/3cJZT2monFlaNCgXvuDQwZ) | [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn) | [Dizzy 100](https://open.spotify.com/album/5DGcQGe6AvE5LGdYyZlHfn) | 5:03 | 2022-05-13 |  |
 | [Concentric Circles](https://open.spotify.com/track/7x2rOBlvoS4c4wkb0IQwj7) | [Nicholas Payton](https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4) | [Payton's Place](https://open.spotify.com/album/0lohKc2RubArv0PbjXJYNB) | 7:09 | 2022-05-13 |  |
@@ -119,7 +120,7 @@
 | [Tin Roof Blues](https://open.spotify.com/track/74TlFisM3zBIHTksaOuYaZ) | [Kenny Ball & His Jazzmen](https://open.spotify.com/artist/1gv1pJZUv6mZIaYRezXE3C) | [The Pye Jazz Albums](https://open.spotify.com/album/4BgzmonoH88ydh5TsBWfmb) | 4:07 | 2022-05-13 | 2022-08-19 |
 | [Tin Roof Blues](https://open.spotify.com/track/2GqL5oG0uFfZeY9ajPYxOv) | [Muggsy Spanier](https://open.spotify.com/artist/0u61vtGdkaLTguZ5mVxLjK) | [Presenting Muggsy Spanier](https://open.spotify.com/album/0IStfKG8KwvvniN0ZtLWih) | 2:56 | 2022-05-13 | 2022-08-19 |
 | [Tin Roof Blues](https://open.spotify.com/track/7H1oLYALMZNmYLTMMe2aS6) | [Mugsy Spanier](https://open.spotify.com/artist/6NvhulFoko7CGrqdnm43jx) | [Mugsy Spanier Sentimental Journey, Vol\. 3](https://open.spotify.com/album/614lYenVGxB5bAKrmCXPJL) | 2:56 | 2022-05-13 | 2022-07-29 |
-| [Tipsy](https://open.spotify.com/track/4wq7y8LXpdggPxEwD4ytDd) | [Benny Bailey](https://open.spotify.com/artist/57fCBf7506avv91VXx6KIb) | [Big Brass](https://open.spotify.com/album/78pLNg78QC03ZklpkgBQAM) | 7:02 | 2022-05-13 |  |
+| [Tipsy](https://open.spotify.com/track/4wq7y8LXpdggPxEwD4ytDd) | [Benny Bailey](https://open.spotify.com/artist/57fCBf7506avv91VXx6KIb) | [Big Brass](https://open.spotify.com/album/78pLNg78QC03ZklpkgBQAM) | 7:02 | 2022-05-13 | 2022-09-16 |
 | [Trance Dance](https://open.spotify.com/track/64OCeZwEXZDoTt1MVlWRUO) | [Goran Kajfes](https://open.spotify.com/artist/0HfOvXPsKgF3wkhZthqOPr), [Goran Kajfes Subtropic Arkestra](https://open.spotify.com/artist/4goaddAeVzC9t8NV5oY9w7) | [The Reason Why Vol\. 3](https://open.spotify.com/album/73wsAfhptI38YMPmq8JBc4) | 8:53 | 2022-05-13 |  |
 | [Tranquillity \- Remastered 1998](https://open.spotify.com/track/0OpBBKn1A98ReYTtspUIfX) | [Howard McGhee](https://open.spotify.com/artist/3z4qqrJqPWfTl9CSUNxb93) | [Howard McGhee: Volume 2 / Tal Farlow Quartet](https://open.spotify.com/album/05EaQrsQQrLM8wmmZRapyg) | 4:10 | 2022-05-13 |  |
 | [Tune\-Up](https://open.spotify.com/track/6eTC4K6kgWb1uabLqrLAxW) | [Miles Davis Quartet](https://open.spotify.com/artist/4sQVPSDmfqIxG9W8o2EROX) | [Blue Haze](https://open.spotify.com/album/5n4EHlLEtSUmTThc8sesDM) | 3:53 | 2022-08-17 |  |

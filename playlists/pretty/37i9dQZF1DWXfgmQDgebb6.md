@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgmQDgebb6.md) - [plain]
 
 > Korean hipster & experimental music essential\. 당신의 힙스터 감성을 충전해줄 인디 곡들을 만나보세요\. \(Cover: Zayvo\(제이보\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,950 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,960 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,21 +42,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgmQDgebb6.md) - [plain]
 | 32 | [Amoo\-rae\-do](https://open.spotify.com/track/0P2ZMsx0ZSORtoAltJje1B) | [COCONA](https://open.spotify.com/artist/5UukZH6jYHqTwLSSWGj7FN) | [Amoo\-rae\-do](https://open.spotify.com/album/5javGGT9UBP0kc0ayoWCGP) | 1:48 |
 | 33 | [GGOOM \(feat\. Jvcki Wai\)](https://open.spotify.com/track/5A5BNPzrLuPZROBKVS03GL) | [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4), [Jvcki Wai](https://open.spotify.com/artist/4bjcB3ZKiHgPzJvY2S2FLN) | [SPACE TALK](https://open.spotify.com/album/2fCmv8LfALrhNR1yM8jsn1) | 2:39 |
 | 34 | [New](https://open.spotify.com/track/3RbkzuLs2u9TprBTPnUp4W) | [Chimmi](https://open.spotify.com/artist/19bRgj5ThGcxiGkwvohFHJ) | [CINEMA](https://open.spotify.com/album/3c12AipT5WBHnU6zz2yGzx) | 3:02 |
-| 35 | [theme park](https://open.spotify.com/track/7wxmAq4BHKdqsDZLIzMfaD) | [chilly](https://open.spotify.com/artist/0xqJO0QQzAus8twmNudscb) | [theme park](https://open.spotify.com/album/5Tltw8nlbaJhFiavrLIh6i) | 3:49 |
+| 35 | [3M](https://open.spotify.com/track/6s7AEFVwYpsafr86GYmPvg) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [3M](https://open.spotify.com/album/5H1CeTpbsftOFwlsIQthql) | 2:42 |
 | 36 | [GO! \(feat\. Eelittlee\)](https://open.spotify.com/track/6Qxyowsn90zcO5guo9vwl1) | [BÉBE YANA](https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2), [Eelittlee](https://open.spotify.com/artist/0wrqnbFtOGgYllDGFr8JPA) | [SPACE MULAN](https://open.spotify.com/album/1GHYvCUVTfIiKoB3qGRKV9) | 3:17 |
-| 37 | [3M](https://open.spotify.com/track/6s7AEFVwYpsafr86GYmPvg) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [3M](https://open.spotify.com/album/5H1CeTpbsftOFwlsIQthql) | 2:42 |
+| 37 | [theme park](https://open.spotify.com/track/7wxmAq4BHKdqsDZLIzMfaD) | [chilly](https://open.spotify.com/artist/0xqJO0QQzAus8twmNudscb) | [theme park](https://open.spotify.com/album/5Tltw8nlbaJhFiavrLIh6i) | 3:49 |
 | 38 | [PRETTY \(feat\. Nafla, Bryn\)](https://open.spotify.com/track/3LGlLoEK1ZPGRcS6gHYhWm) | [lnb](https://open.spotify.com/artist/2fHTnW5arnhwXNwW2GD4fK), [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr), [Bryn](https://open.spotify.com/artist/74r4YBm6qWOBKKF6MhVXVq) | [PROJECT .1](https://open.spotify.com/album/5HlAriF53xhN5BfF05IiHZ) | 3:05 |
 | 39 | [OUTGROWN](https://open.spotify.com/track/6qNFeGOQt4gj57V4B2b6WW) | [HUNJIYA](https://open.spotify.com/artist/3BX7RIMRQexSiSSshJFPzC) | [KHAMAI](https://open.spotify.com/album/0vnfG9S9NskFX5FPP1SxHR) | 4:16 |
-| 40 | [redify](https://open.spotify.com/track/06uxQr4WOTGeeIYT0JLenZ) | [Mokyo](https://open.spotify.com/artist/1kRGgLBLwdQ16TxyfN1YgP) | [redify](https://open.spotify.com/album/3wPQLCMUHmLMWl7E7Jmlhi) | 2:28 |
-| 41 | [Youth](https://open.spotify.com/track/0ISIKA8nLm1CQ3scd3ziTy) | [CIFIKA](https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ), [Kim Chang Wan](https://open.spotify.com/artist/0Vu5WrZvGftFn4uBeA9mde) | [Youth](https://open.spotify.com/album/7IkwG181Ub4ygt2MqAezgM) | 4:32 |
-| 42 | [늑대가 나타났다 There is A Wolf](https://open.spotify.com/track/3KdI1tVygKtnAOCUOZudXD) | [Lang Lee](https://open.spotify.com/artist/1D96VVpW4US2VSZaZGsRmH) | [늑대가 나타났다 There is A Wolf](https://open.spotify.com/album/21NMEtVxkqbaEpLMYWMIT2) | 3:37 |
-| 43 | [Gimme Love](https://open.spotify.com/track/6v59lnIteygPc2wwfjWTPz) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [Gimme Love](https://open.spotify.com/album/5f9zyi5u2hzHMh9RAtssnl) | 3:32 |
-| 44 | [Golden Mulan](https://open.spotify.com/track/3TyqYJXhWkEhSsewdc0XEF) | [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4), [GOLDBUUDA](https://open.spotify.com/artist/1C6mRx44pGqKBwZKotODDV) | [SPACE TALK](https://open.spotify.com/album/2fCmv8LfALrhNR1yM8jsn1) | 1:48 |
-| 45 | [Fish](https://open.spotify.com/track/2j0KG4o1xokrWOzKUyUkSh) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [In My Room](https://open.spotify.com/album/6kEpx1z9uVAWuTkHY1bdKG) | 3:00 |
+| 40 | [Fish](https://open.spotify.com/track/2j0KG4o1xokrWOzKUyUkSh) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [In My Room](https://open.spotify.com/album/6kEpx1z9uVAWuTkHY1bdKG) | 3:00 |
+| 41 | [redify](https://open.spotify.com/track/06uxQr4WOTGeeIYT0JLenZ) | [Mokyo](https://open.spotify.com/artist/1kRGgLBLwdQ16TxyfN1YgP) | [redify](https://open.spotify.com/album/3wPQLCMUHmLMWl7E7Jmlhi) | 2:28 |
+| 42 | [Youth](https://open.spotify.com/track/0ISIKA8nLm1CQ3scd3ziTy) | [CIFIKA](https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ), [Kim Chang Wan](https://open.spotify.com/artist/0Vu5WrZvGftFn4uBeA9mde) | [Youth](https://open.spotify.com/album/7IkwG181Ub4ygt2MqAezgM) | 4:32 |
+| 43 | [늑대가 나타났다 There is A Wolf](https://open.spotify.com/track/3KdI1tVygKtnAOCUOZudXD) | [Lang Lee](https://open.spotify.com/artist/1D96VVpW4US2VSZaZGsRmH) | [늑대가 나타났다 There is A Wolf](https://open.spotify.com/album/21NMEtVxkqbaEpLMYWMIT2) | 3:37 |
+| 44 | [Gimme Love](https://open.spotify.com/track/6v59lnIteygPc2wwfjWTPz) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [Gimme Love](https://open.spotify.com/album/5f9zyi5u2hzHMh9RAtssnl) | 3:32 |
+| 45 | [Golden Mulan](https://open.spotify.com/track/3TyqYJXhWkEhSsewdc0XEF) | [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4), [GOLDBUUDA](https://open.spotify.com/artist/1C6mRx44pGqKBwZKotODDV) | [SPACE TALK](https://open.spotify.com/album/2fCmv8LfALrhNR1yM8jsn1) | 1:48 |
 | 46 | [Bright \(feat\. sogumm & BewhY\)](https://open.spotify.com/track/0VqsjJaNYLTYi1WOGvUNN6) | [CHE](https://open.spotify.com/artist/2xocK6HzC2vJZct6pEO5SH), [BewhY](https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K), [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS) | [Bright \(feat\. sogumm & BewhY\)](https://open.spotify.com/album/4HBgkLANnwyEfDO19oY7SJ) | 3:33 |
-| 47 | [Help \(IDIOTAPE Remix\)](https://open.spotify.com/track/4vmTLcDMOEGncRhqLtU467) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp), [IDIOTAPE](https://open.spotify.com/artist/0OmQCkk1rR3DJ0Y2NRxp6Z) | [Help \(IDIOTAPE Remix\)](https://open.spotify.com/album/792mqyd7VyWfzP6GLaBhUN) | 4:24 |
-| 48 | [CG](https://open.spotify.com/track/7jWMGFX1SoWtHeH0vrhLAU) | [jerd](https://open.spotify.com/artist/1Hj2c6llUPMtHG1JX8JMFA) | [CG](https://open.spotify.com/album/6IlQLNRAJnCUpU1DIfqGFw) | 3:36 |
+| 47 | [CG](https://open.spotify.com/track/7jWMGFX1SoWtHeH0vrhLAU) | [jerd](https://open.spotify.com/artist/1Hj2c6llUPMtHG1JX8JMFA) | [CG](https://open.spotify.com/album/6IlQLNRAJnCUpU1DIfqGFw) | 3:36 |
+| 48 | [Help \(IDIOTAPE Remix\)](https://open.spotify.com/track/4vmTLcDMOEGncRhqLtU467) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp), [IDIOTAPE](https://open.spotify.com/artist/0OmQCkk1rR3DJ0Y2NRxp6Z) | [Help \(IDIOTAPE Remix\)](https://open.spotify.com/album/792mqyd7VyWfzP6GLaBhUN) | 4:24 |
 | 49 | [MAGO](https://open.spotify.com/track/6iP7hB87nBg1mk69noCZdu) | [Lim Kim](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv) | [MAGO](https://open.spotify.com/album/6ovdLouqSWRHE2S0hS4w9s) | 2:09 |
 | 50 | [HOWL](https://open.spotify.com/track/10WHVzgIky5w6pIgG8tePU) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [HOWL](https://open.spotify.com/album/5BzJygUNWvRFzkUBI460Ob) | 3:32 |
 
-Snapshot ID: `MTY2MjM5MjkzNSwwMDAwMDAwMGMzNmU2ZWMwYmQyYTNhNTdmMDc5OTE5MWNjNjJlYjQw`
+Snapshot ID: `MTY2MjM5MjkzNSwwMDAwMDAwMGYwZWZiOTQ3MWMwMzg5ODZkM2E0NDNkZTE0ZjA4MjBh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYotlhbgVGaH.md) - [plain]
 
 > It’s a swing thing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,235 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,262 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,17 +20,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYotlhbgVGaH.md) - [plain]
 | 10 | [Rhythm](https://open.spotify.com/track/173Qo5lw33RFSTOahpwvtk) | [Casey MacGill & the Spirits of Rhythm](https://open.spotify.com/artist/0zn3Ird4h7BfNbZAycXoMj) | [Jump](https://open.spotify.com/album/4NL6yXTKKyV9da5YPgHAkC) | 2:47 |
 | 11 | [This Cat's On A Hot Tin Roof](https://open.spotify.com/track/4CAwwZXWojksW05Q2pD840) | [The Brian Setzer Orchestra](https://open.spotify.com/artist/7HQH1SJokcVMdstilKJ2S8) | [The Dirty Boogie](https://open.spotify.com/album/4st9EfeMOnXoxkIPS0fik4) | 2:19 |
 | 12 | [Got My Own Thing Now \- Remastered 2016](https://open.spotify.com/track/1guXZjrIm5XkzdWM2OAk7p) | [Squirrel Nut Zippers](https://open.spotify.com/artist/0LIll5i3kwo5A3IDpipgkS) | [Hot \(Remastered / 20th Anniversary Edition\)](https://open.spotify.com/album/7dPq7uxh4wGS8EIP2kQNw3) | 2:30 |
-| 13 | [Zip Gun Bop](https://open.spotify.com/track/4I4jQb4fkv51CLeTYMXGKT) | [Royal Crown Revue](https://open.spotify.com/artist/1xPJUnlSWLJHXch33w1Ljj) | [Mugzy's Move](https://open.spotify.com/album/4G4L75SsXcxNX6UyDtmkSm) | 3:26 |
+| 13 | [That's Where My Money Goes](https://open.spotify.com/track/5ZX97cAgS6kRjqnudi7Ffq) | [Indigo Swing](https://open.spotify.com/artist/6GazGf0mVldGgYT3fDIQdS) | [All Aboard!](https://open.spotify.com/album/2njHwS9Ic2gVrLrc2bgLwa) | 2:56 |
 | 14 | [Minnie The Moocher](https://open.spotify.com/track/0LFIogdKLhuH3y1Tf78EYW) | [Big Bad Voodoo Daddy](https://open.spotify.com/artist/6ROyXB8NDG0fA78S46JdTB) | [How Big Can You Get?: The Music Of Cab Calloway](https://open.spotify.com/album/5EaHXOzSnLy8aRqD4gaCht) | 4:59 |
-| 15 | [That's Where My Money Goes](https://open.spotify.com/track/5ZX97cAgS6kRjqnudi7Ffq) | [Indigo Swing](https://open.spotify.com/artist/6GazGf0mVldGgYT3fDIQdS) | [All Aboard!](https://open.spotify.com/album/2njHwS9Ic2gVrLrc2bgLwa) | 2:56 |
+| 15 | [Zip Gun Bop](https://open.spotify.com/track/4I4jQb4fkv51CLeTYMXGKT) | [Royal Crown Revue](https://open.spotify.com/artist/1xPJUnlSWLJHXch33w1Ljj) | [Mugzy's Move](https://open.spotify.com/album/4G4L75SsXcxNX6UyDtmkSm) | 3:26 |
 | 16 | [Swing Let's Swing](https://open.spotify.com/track/7dSQJiQTr8WPJWxaplRSEg) | [The Lucky Strikes](https://open.spotify.com/artist/0kZKKhAXEKjfOOMJTiWwyC) | [Song and Dance](https://open.spotify.com/album/1StimveT7gL5I8Rq7bMlSa) | 2:19 |
 | 17 | [Brown Derby Jump](https://open.spotify.com/track/5SEiTOjPOmNHDAyv6dfkDT) | [Cherry Poppin' Daddies](https://open.spotify.com/artist/1stGNsBocVFM9MfQtySETw) | [Zoot Suit Riot](https://open.spotify.com/album/2iVgBMU6oDxmtIljVmJwkz) | 2:59 |
 | 18 | [Whadaya Want](https://open.spotify.com/track/4HhMriMXwEGE1YE34qFyVZ) | [Casey MacGill & the Spirits of Rhythm](https://open.spotify.com/artist/0zn3Ird4h7BfNbZAycXoMj) | [Jump](https://open.spotify.com/album/4NL6yXTKKyV9da5YPgHAkC) | 3:17 |
 | 19 | [King Of Swing](https://open.spotify.com/track/7gfvRgIRok1ceh4QmTbBk9) | [Big Bad Voodoo Daddy](https://open.spotify.com/artist/6ROyXB8NDG0fA78S46JdTB) | [Big Bad Voodoo Daddy](https://open.spotify.com/album/2EHcwZqBj63kO2bwGKulBj) | 4:58 |
 | 20 | [Put A Lid On It](https://open.spotify.com/track/06HM8m5kmKG8AOt7eelGhI) | [Squirrel Nut Zippers](https://open.spotify.com/artist/0LIll5i3kwo5A3IDpipgkS) | [The Best of Squirrel Nut Zippers](https://open.spotify.com/album/1zfRj4Yk4OHWYVgzDD9y01) | 2:37 |
-| 21 | [Barflies at the Beach](https://open.spotify.com/track/5etDbpznJN71iUKaXUkwf3) | [Royal Crown Revue](https://open.spotify.com/artist/1xPJUnlSWLJHXch33w1Ljj) | [Mugzy's Move](https://open.spotify.com/album/4G4L75SsXcxNX6UyDtmkSm) | 3:01 |
-| 22 | [Mildred, Won't You Behave?](https://open.spotify.com/track/50QVCLA4Qcw04DMKiJtc5M) | [Bill Elliott Swing Orchestra](https://open.spotify.com/artist/47m9IPURs2aBzBDdHGsHIn) | [Calling All Jitterbugs!](https://open.spotify.com/album/0kfpd3xBZlh9hKGuUvDEbI) | 3:43 |
-| 23 | [Pink Cadillac](https://open.spotify.com/track/4mXK4UWo8DTzJvoNsLOAOU) | [Indigo Swing](https://open.spotify.com/artist/6GazGf0mVldGgYT3fDIQdS) | [Indigo Swing](https://open.spotify.com/album/0BHd15407qFmwe0VNGoMQ4) | 2:22 |
+| 21 | [Mildred, Won't You Behave?](https://open.spotify.com/track/50QVCLA4Qcw04DMKiJtc5M) | [Bill Elliott Swing Orchestra](https://open.spotify.com/artist/47m9IPURs2aBzBDdHGsHIn) | [Calling All Jitterbugs!](https://open.spotify.com/album/0kfpd3xBZlh9hKGuUvDEbI) | 3:43 |
+| 22 | [Pink Cadillac](https://open.spotify.com/track/4mXK4UWo8DTzJvoNsLOAOU) | [Indigo Swing](https://open.spotify.com/artist/6GazGf0mVldGgYT3fDIQdS) | [Indigo Swing](https://open.spotify.com/album/0BHd15407qFmwe0VNGoMQ4) | 2:22 |
+| 23 | [Barflies at the Beach](https://open.spotify.com/track/5etDbpznJN71iUKaXUkwf3) | [Royal Crown Revue](https://open.spotify.com/artist/1xPJUnlSWLJHXch33w1Ljj) | [Mugzy's Move](https://open.spotify.com/album/4G4L75SsXcxNX6UyDtmkSm) | 3:01 |
 | 24 | [Go Daddy O](https://open.spotify.com/track/2q0gGzRNpYMYjXmMFidK0H) | [Big Bad Voodoo Daddy](https://open.spotify.com/artist/6ROyXB8NDG0fA78S46JdTB) | [Big Bad Voodoo Daddy](https://open.spotify.com/album/2EHcwZqBj63kO2bwGKulBj) | 3:12 |
 | 25 | [The Ding Dong Daddy of the D Car Line](https://open.spotify.com/track/4uxRacg0PBqOIan3lhJ3Xt) | [Cherry Poppin' Daddies](https://open.spotify.com/artist/1stGNsBocVFM9MfQtySETw) | [rapid city muscle car](https://open.spotify.com/album/6Cja1Pp4ggffsO1kH3d46i) | 3:34 |
 | 26 | [Simple Things](https://open.spotify.com/track/19HwojO9ZITydllvtcjVw8) | [The Jive Aces](https://open.spotify.com/artist/3hR8kE1jAgMhut0Daw3EL2) | [Spread a Little Happiness](https://open.spotify.com/album/4V135Rn6LNvAchAyu6OUC7) | 2:44 |
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYotlhbgVGaH.md) - [plain]
 | 38 | [Planet Jive](https://open.spotify.com/track/0P5aqi6J8btRUjZQKnVOst) | [The Jive Aces](https://open.spotify.com/artist/3hR8kE1jAgMhut0Daw3EL2) | [Planet Jive](https://open.spotify.com/album/500HHXaBRyYMmNjRJwvZW7) | 3:52 |
 | 39 | [Hey Señorita](https://open.spotify.com/track/6CMDUEtmE7oMea4hBkk57l) | [Big Sandy](https://open.spotify.com/artist/6dFfHo9uIMufb4PrkOOCsp) | [Dedicated To You](https://open.spotify.com/album/3pZ5E4bGNmkk5o0rX4UJvw) | 2:15 |
 | 40 | [Dirty Dog](https://open.spotify.com/track/1ogzOr1TnDjRcjSSQ5hAli) | [Eight To The Bar](https://open.spotify.com/artist/4sc52rUX0XMvKa7FK6tofY) | [The Romper Room](https://open.spotify.com/album/6Q0jPNJiaRW7kcTOpZfsO4) | 3:28 |
-| 41 | [Jumptown](https://open.spotify.com/track/1czUXM9zdBi7oJWDyy3qsb) | [Steve Lucky & The Rhumba Bums](https://open.spotify.com/artist/5xzQRLHXjWFBLtERMaFBFS) | [Come Out Swingin'](https://open.spotify.com/album/0KrEsS9K8yqU0vpCfLZo7g) | 4:40 |
-| 42 | [pull the plug](https://open.spotify.com/track/1P1KQJ6d5Ri9VI1ljEpkdT) | [Bellevue Cadillac](https://open.spotify.com/artist/5cuTmUgh0ZeNgiwcPchqs2) | [prozac nation](https://open.spotify.com/album/3jQFs8CCV6r1pHgXadCGh5) | 2:26 |
+| 41 | [pull the plug](https://open.spotify.com/track/1P1KQJ6d5Ri9VI1ljEpkdT) | [Bellevue Cadillac](https://open.spotify.com/artist/5cuTmUgh0ZeNgiwcPchqs2) | [prozac nation](https://open.spotify.com/album/3jQFs8CCV6r1pHgXadCGh5) | 2:26 |
+| 42 | [Jumptown](https://open.spotify.com/track/1czUXM9zdBi7oJWDyy3qsb) | [Steve Lucky & The Rhumba Bums](https://open.spotify.com/artist/5xzQRLHXjWFBLtERMaFBFS) | [Come Out Swingin'](https://open.spotify.com/album/0KrEsS9K8yqU0vpCfLZo7g) | 4:40 |
 | 43 | [I Dare You Baby](https://open.spotify.com/track/5EnB7dy2Yt1AoNDL9D6aFw) | [Blue Harlem](https://open.spotify.com/artist/0Tlr99AfynQKne0alCDv90) | [I Dare You!](https://open.spotify.com/album/7IbV9UGQrHutw7rb0hggG2) | 2:59 |
 | 44 | [Oo Poppa Do](https://open.spotify.com/track/6RTsr8eiHVhCYxqbYFs0eX) | [Lavay Smith & Her Red Hot Skillet Lickers](https://open.spotify.com/artist/4pMt1AgzE3YyjE784QVkr2) | [One Hour Mama](https://open.spotify.com/album/2xkUpEUdHYEuXk0iZGZRsk) | 3:13 |
 | 45 | [Long, Lean And Lanky](https://open.spotify.com/track/42hgWC7nkO76AtF3MxU3Qo) | [Mitch Woods and His Rocket 88‘S](https://open.spotify.com/artist/4hOU4Ja3ZWkDwpL9Dr4fBT) | [Shakin' The Shack](https://open.spotify.com/album/2oxzv7ABlnhhz98UlePH3a) | 3:04 |
 | 46 | [Sugar High](https://open.spotify.com/track/5z0s59iYOpjSUJMVfdCtEx) | [Eight To The Bar](https://open.spotify.com/artist/4sc52rUX0XMvKa7FK6tofY) | [Superhero Swinger Undercover](https://open.spotify.com/album/5RwSQBIKuqTMs67ruejFgN) | 3:58 |
-| 47 | [Come On\-A\-My House](https://open.spotify.com/track/6Ts8NAuSSmfaXQyGFovDCe) | [Big Kahuna and the Copa Cat Pack](https://open.spotify.com/artist/3iGq2LBMHaB9XLmPMopIV4) | [Hawaiian Swing](https://open.spotify.com/album/0Zyc4YTwXUZLewbfOYKAcj) | 2:10 |
-| 48 | [Pink Elephant](https://open.spotify.com/track/5SMpDEyuUY8vKmWiQar4BF) | [Cherry Poppin' Daddies](https://open.spotify.com/artist/1stGNsBocVFM9MfQtySETw) | [rapid city muscle car](https://open.spotify.com/album/6Cja1Pp4ggffsO1kH3d46i) | 3:44 |
+| 47 | [Pink Elephant](https://open.spotify.com/track/5SMpDEyuUY8vKmWiQar4BF) | [Cherry Poppin' Daddies](https://open.spotify.com/artist/1stGNsBocVFM9MfQtySETw) | [rapid city muscle car](https://open.spotify.com/album/6Cja1Pp4ggffsO1kH3d46i) | 3:44 |
+| 48 | [Come On\-A\-My House](https://open.spotify.com/track/6Ts8NAuSSmfaXQyGFovDCe) | [Big Kahuna and the Copa Cat Pack](https://open.spotify.com/artist/3iGq2LBMHaB9XLmPMopIV4) | [Hawaiian Swing](https://open.spotify.com/album/0Zyc4YTwXUZLewbfOYKAcj) | 2:10 |
 | 49 | [prozac](https://open.spotify.com/track/43ooplb6G0VkRnVVfGXEF6) | [Bellevue Cadillac](https://open.spotify.com/artist/5cuTmUgh0ZeNgiwcPchqs2) | [prozac nation](https://open.spotify.com/album/3jQFs8CCV6r1pHgXadCGh5) | 4:45 |
 | 50 | [Yama Yama Pretty Mama](https://open.spotify.com/track/2SbhNsyfx1IH0xOkFLfHEM) | [Big Sandy](https://open.spotify.com/artist/6dFfHo9uIMufb4PrkOOCsp) | [Dedicated To You](https://open.spotify.com/album/3pZ5E4bGNmkk5o0rX4UJvw) | 2:42 |
 
-Snapshot ID: `MTY0ODQ5NDc5OCwwMDAwMDAwMDk4NWExMmU4NDczZGIzODJjMmYxMmY2ODNjZDVmMjZk`
+Snapshot ID: `MTY0ODQ5NDc5OCwwMDAwMDAwMDY1OGRhNDcxZDM0ODY1YWRjODlmMmQ3N2ZkMDM1MDlk`

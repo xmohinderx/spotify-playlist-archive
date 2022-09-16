@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLRILp4Jb3D.md) - [plain]
 
 > Dulces canciones para disfrutar con tus bebés.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,823 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,843 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLRILp4Jb3D.md) - [plain]
 | 40 | [Daydream by Design](https://open.spotify.com/track/3VnNmdwvpuLPIdPJQXuY07) | [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Illustrated Songs](https://open.spotify.com/album/3znNEiVi6CdKznkpnVpz0s) | 2:40 |
 | 41 | [No Woman No Cry](https://open.spotify.com/track/6EeYBu8RautSHkqJeWgKff) | [Sweet Little Band](https://open.spotify.com/artist/7HBA3bLuJTLRvjK8NX9ZSy) | [Bob Marley For Babies](https://open.spotify.com/album/1rDl2v4himtK04EL0yYDXr) | 3:43 |
 | 42 | [Estrellita](https://open.spotify.com/track/5I1B7QAifCIE2yQVGz7NLb) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Viva Kids, Vol\. 1](https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5) | 6:04 |
-| 43 | [La Bella Y La Bestia](https://open.spotify.com/track/0iWWDZBPji1gS2hfFtvcRD) | [JENCARLOS](https://open.spotify.com/artist/3f4OfcNtgL9MLgiyOdIHC7), [Paula Rojo](https://open.spotify.com/artist/4fFXSm74duBgF62caO8CW5) | [We Love Disney \(Latino\)](https://open.spotify.com/album/2Aoj9UQGgww7hWnziqtFLo) | 3:47 |
-| 44 | [Duérmete Mi Niño](https://open.spotify.com/track/6CeWENB12o6pQ1JdW5jCCV) | [Jaci Velasquez](https://open.spotify.com/artist/7MbmKsnvXjl4GA7Dr27kko), [Dream Baby](https://open.spotify.com/artist/3E1yxE05BnQblIGuJ7yadK) | [Buenas Noches Mi Sol](https://open.spotify.com/album/14I0lzuMWY6oV8be0n16Jm) | 3:33 |
-| 45 | [Más feliz](https://open.spotify.com/track/0OgBaJaUYGe0wHw3xElA07) | [Pedrina y Rio](https://open.spotify.com/artist/6JkcXRzUF8IXV78ATWAHRK) | [Canciones Sin Ropa](https://open.spotify.com/album/0L9cqmT0jwp00pj6r49Ttj) | 2:53 |
+| 43 | [Duérmete Mi Niño](https://open.spotify.com/track/6CeWENB12o6pQ1JdW5jCCV) | [Jaci Velasquez](https://open.spotify.com/artist/7MbmKsnvXjl4GA7Dr27kko), [Dream Baby](https://open.spotify.com/artist/3E1yxE05BnQblIGuJ7yadK) | [Buenas Noches Mi Sol](https://open.spotify.com/album/14I0lzuMWY6oV8be0n16Jm) | 3:33 |
+| 44 | [La Bella Y La Bestia](https://open.spotify.com/track/0iWWDZBPji1gS2hfFtvcRD) | [JENCARLOS](https://open.spotify.com/artist/3f4OfcNtgL9MLgiyOdIHC7), [Paula Rojo](https://open.spotify.com/artist/4fFXSm74duBgF62caO8CW5) | [We Love Disney \(Latino\)](https://open.spotify.com/album/2Aoj9UQGgww7hWnziqtFLo) | 3:47 |
+| 45 | [Cinco Ranas Con Pequitas](https://open.spotify.com/track/1d1m1mRvPu6sMc1lwUnJya) | [Luis Pescetti](https://open.spotify.com/artist/1G1eDCwDbEX8SQwhq7fPmJ) | [Él Empezó Primero \(Show En Vivo\)](https://open.spotify.com/album/2zbm5CRq6JE8AU1OOMYSzQ) | 2:49 |
 | 46 | [Vivir Mi Vida](https://open.spotify.com/track/5F2iynEIlALVPgl8RYouu4) | [Marc Anthony For Babies](https://open.spotify.com/artist/4dKFhri6ILBCHZQUHlV0XA) | [Marc Anthony For Babies](https://open.spotify.com/album/414ko0TBJNP8zSFWWr3TVa) | 4:15 |
-| 47 | [Cinco Ranas Con Pequitas](https://open.spotify.com/track/1d1m1mRvPu6sMc1lwUnJya) | [Luis Pescetti](https://open.spotify.com/artist/1G1eDCwDbEX8SQwhq7fPmJ) | [Él Empezó Primero \(Show En Vivo\)](https://open.spotify.com/album/2zbm5CRq6JE8AU1OOMYSzQ) | 2:49 |
-| 48 | [Nube de Algodón](https://open.spotify.com/track/2UEj5kNRL0VJ9oQC6SGdjP) | [Sie7e](https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz), [CACUCA](https://open.spotify.com/artist/5yxqs3dYSbyBYRebEh7aJe) | [Nube de Algodón](https://open.spotify.com/album/3jN0mCiud1s0mQ46aj2Yom) | 2:16 |
-| 49 | [Esta Noche Es Para Amar](https://open.spotify.com/track/7DAGQT2LDafeGUdAxTptMe) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Esta Noche Es Para Amar](https://open.spotify.com/album/4fbnK0iTPsM3XweHucKYV3) | 4:01 |
+| 47 | [Más feliz](https://open.spotify.com/track/0OgBaJaUYGe0wHw3xElA07) | [Pedrina y Rio](https://open.spotify.com/artist/6JkcXRzUF8IXV78ATWAHRK) | [Canciones Sin Ropa](https://open.spotify.com/album/0L9cqmT0jwp00pj6r49Ttj) | 2:53 |
+| 48 | [Esta Noche Es Para Amar](https://open.spotify.com/track/7DAGQT2LDafeGUdAxTptMe) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Esta Noche Es Para Amar](https://open.spotify.com/album/4fbnK0iTPsM3XweHucKYV3) | 4:01 |
+| 49 | [Nube de Algodón](https://open.spotify.com/track/2UEj5kNRL0VJ9oQC6SGdjP) | [Sie7e](https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz), [CACUCA](https://open.spotify.com/artist/5yxqs3dYSbyBYRebEh7aJe) | [Nube de Algodón](https://open.spotify.com/album/3jN0mCiud1s0mQ46aj2Yom) | 2:16 |
 | 50 | [Estrellita Viajera](https://open.spotify.com/track/5H7jtG5w71nlDSGG5CI4cZ) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM) | [Mariposa Azul](https://open.spotify.com/album/0AnItoUfAoQyJxXrKkTBSU) | 4:24 |
 
-Snapshot ID: `MTY0MjY5Njg1MywwMDAwMDAwMGIyZmJiZWI1NTIyNTUwZjYzZTBjYjI5OGM3NjQ1OTlm`
+Snapshot ID: `MTY0MjY5Njg1MywwMDAwMDAwMDRkZmVjMTY4NmMwY2U2MjAwY2I4ZjQ0YWI0ZmUxYmJj`

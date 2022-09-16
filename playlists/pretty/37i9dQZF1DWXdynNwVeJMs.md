@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdynNwVeJMs.md) - [plain]
 
 > Listen to the finest Jazz made in Belgium\. Cover: M.CHUZI
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,333 likes - 100 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,336 likes - 100 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [galet](https://open.spotify.com/track/61iJHseE92EV2mXzFHWZ1n) | [LũpḁGangGang](https://open.spotify.com/artist/4BuiWlsljizUYmbMP8oYVK) | [Urban Detox EP](https://open.spotify.com/album/5btzM3N10I3GvOPKTf9kdA) | 3:46 |
 | 2 | [Mammoet](https://open.spotify.com/track/6Oagzl7aiMMUInr98ICOD4) | [M.CHUZI](https://open.spotify.com/artist/1L2D8qPfHwCKAC0Bp52g8d), [Nabou Claerhout](https://open.spotify.com/artist/02mNtFwmQg7xD5FHWGfNft) | [Mammoet](https://open.spotify.com/album/0MH0Kg8YPRzH9BZ265VBuI) | 8:55 |
 | 3 | [Karsilama](https://open.spotify.com/track/1IkoV81e6472xAB2geGiTO) | [Compro Oro](https://open.spotify.com/artist/1Bd10SiF1s1INXXIXJ9hvc) | [Buy The Dip](https://open.spotify.com/album/0EWz9DeLZ0jF7b3kzrzA3j) | 4:36 |
-| 4 | [Coyote](https://open.spotify.com/track/66mWwSt6h5CyMKJ5Dhpy9d) | [Dans Dans](https://open.spotify.com/artist/5x3LMsfwbAiYZy5lAqgM2m) | [Coyote](https://open.spotify.com/album/5AfBjTPLFSaZkWKwFd7O02) | 3:46 |
-| 5 | [Rhymes On Our Mind](https://open.spotify.com/track/6EJUuDETlcuLn76NNLc3Ey) | [Condor Gruppe](https://open.spotify.com/artist/0qaYncC2MFURFgMB8MQvqm) | [Rhymes On Our Mind](https://open.spotify.com/album/0rpq83kd4ptF8dTyBHu39b) | 5:59 |
-| 6 | [An Arp in Tunisia](https://open.spotify.com/track/69QKB3yNoLeh0QS7cNXzMK) | [Stellar Legions](https://open.spotify.com/artist/0OVerCSCBhKBEXrCLPxxJO) | [An Arp in Tunisia](https://open.spotify.com/album/2lz6ITi3CbuZgS6TmMV6iy) | 4:34 |
-| 7 | [Pigeons](https://open.spotify.com/track/5feVFAGv8aOhz7zFUczpUr) | [Lucid Lucia](https://open.spotify.com/artist/2kq88GbQw1ieU5VvWVZFYI) | [Pigeons](https://open.spotify.com/album/5O1WgrvNp2LPu9LWHL6XPD) | 4:38 |
+| 4 | [Reminiscence](https://open.spotify.com/track/5mbDO1wbecRbF5iQqEn8ty) | [Lucid Lucia](https://open.spotify.com/artist/2kq88GbQw1ieU5VvWVZFYI) | [Reminiscence](https://open.spotify.com/album/1lLkH3BBGY9BPoiIqQ8ZiU) | 4:31 |
+| 5 | [Coyote](https://open.spotify.com/track/66mWwSt6h5CyMKJ5Dhpy9d) | [Dans Dans](https://open.spotify.com/artist/5x3LMsfwbAiYZy5lAqgM2m) | [Coyote](https://open.spotify.com/album/5AfBjTPLFSaZkWKwFd7O02) | 3:46 |
+| 6 | [Rhymes On Our Mind](https://open.spotify.com/track/6EJUuDETlcuLn76NNLc3Ey) | [Condor Gruppe](https://open.spotify.com/artist/0qaYncC2MFURFgMB8MQvqm) | [Rhymes On Our Mind](https://open.spotify.com/album/0rpq83kd4ptF8dTyBHu39b) | 5:59 |
+| 7 | [An Arp in Tunisia](https://open.spotify.com/track/69QKB3yNoLeh0QS7cNXzMK) | [Stellar Legions](https://open.spotify.com/artist/0OVerCSCBhKBEXrCLPxxJO) | [An Arp in Tunisia](https://open.spotify.com/album/2lz6ITi3CbuZgS6TmMV6iy) | 4:34 |
 | 8 | [The Lower 9th](https://open.spotify.com/track/4sjsivlGuXcRzZfkAnezAu) | [Compro Oro](https://open.spotify.com/artist/1Bd10SiF1s1INXXIXJ9hvc) | [Buy The Dip](https://open.spotify.com/album/0EWz9DeLZ0jF7b3kzrzA3j) | 3:59 |
 | 9 | [Wessel](https://open.spotify.com/track/4wmiOqY3jAPOkS6pzYvyIs) | [Stellar Legions](https://open.spotify.com/artist/0OVerCSCBhKBEXrCLPxxJO) | [Wessel](https://open.spotify.com/album/0OEduMDNnxOH9s5wRRzIpQ) | 5:03 |
 | 10 | [Marshland IV \- Rays](https://open.spotify.com/track/1hLmjGsHWA5I2lTHIR9qoi) | [don Marsh V](https://open.spotify.com/artist/2YCbuLwPm1iABWCnpvTOuh) | [Marshland IV \- Rays](https://open.spotify.com/album/734QCAnoqrOPCbxUCHBmyT) | 7:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdynNwVeJMs.md) - [plain]
 | 99 | [TinniT \- Edit](https://open.spotify.com/track/73ZtYoyKLM1f2KGfw7EO8Q) | [MDCIII](https://open.spotify.com/artist/1zjbmsA3Mq02lYg0Bk0YCU) | [TinniT](https://open.spotify.com/album/23AsEykb1SeQ2vBZ5Or0gm) | 4:26 |
 | 100 | [Grace Moment](https://open.spotify.com/track/7yzK4kdMW47v6CZUlScqFS) | [LG Jazz Collective](https://open.spotify.com/artist/4541P7mUvHtvsCPzy3Kg3F), [Guillaume Vierset](https://open.spotify.com/artist/00xZYrjS24ctWf6NcTEouF), [Jean\-Paul Estiévenart](https://open.spotify.com/artist/2ksFkwxoKd9oSKDrCz4Dsv), [Steven Delannoye](https://open.spotify.com/artist/1u5vg85XHGbkusKdsRaWCn), [Laurent Barbier](https://open.spotify.com/artist/0QCzBAzR6DtGNvcO3suNK1), [Igor Gehenot](https://open.spotify.com/artist/4ucTplSqtePlPxNywuOf6p), [Félix Zurstrassen](https://open.spotify.com/artist/46btcyGzJKO2Y24kOhelTP), [Antoine Pierre](https://open.spotify.com/artist/5aLaAmqUGjIsoHD3mOjI2V) | [New Feel](https://open.spotify.com/album/2db4S9KTfkAEh5Wkhff0wH) | 6:52 |
 
-Snapshot ID: `MTY2MjY3NDQwMCwwMDAwMDAwMDY0YzRiY2VhOTQyNjVlYjk2NDJlODYwNGI1MDc3NTE2`
+Snapshot ID: `MTY2MzI3OTIwMCwwMDAwMDAwMDAxMmE3OTVhZDEyOWRjNjEwNmQzZjVjMmQxYjViYTMx`

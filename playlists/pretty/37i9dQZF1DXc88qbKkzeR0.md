@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc88qbKkzeR0.md) - [plain]
 
 > The hit tracks we can't get enough of, from our favorite LGBTQ+ movies and shows\. Presented by @most, Netflix's home to queer storytelling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 512 likes - 25 songs - 1 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 556 likes - 25 songs - 1 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

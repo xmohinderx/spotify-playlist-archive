@@ -1,12 +1,12 @@
 {
   "description": "Para cantar muy bajito... o a voz en grito.",
-  "num_followers": 55538,
+  "num_followers": 55704,
   "original_name": "Las 100 mejores baladas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODM3NjAwMCwwMDAwMDAwMGFkNzZlMzk1YzNhOTgzMDVmMDkwMGFhYjViODRkYTgx",
+  "snapshot_id": "MTY1ODM3NjAwMCwwMDAwMDAwMDRlYjYxOTM2YmU1YjYxMjE3N2YyZjYzOGNiMTU3MTEx",
   "tracks": [
     {
       "added_at": "2022-07-21 04:00:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2022-07-21 04:00:00",
       "album": {
-        "name": "Begin the Beguine",
-        "url": "https://open.spotify.com/album/5siSTOhozc4kGQxQgbFhvS"
-      },
-      "artists": [
-        {
-          "name": "Julio Iglesias",
-          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
-        }
-      ],
-      "duration_ms": 300600,
-      "name": "Hey - Spanish",
-      "url": "https://open.spotify.com/track/3X8buu765D59qlQ6z78I8A"
-    },
-    {
-      "added_at": "2022-07-21 04:00:00",
-      "album": {
         "name": "The Essential Cyndi Lauper",
         "url": "https://open.spotify.com/album/5BXCm3N0Uv0IU2uIUAshr2"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 241160,
       "name": "Time After Time",
       "url": "https://open.spotify.com/track/6G41H0Zd0kQ1WXWDoEotoJ"
+    },
+    {
+      "added_at": "2022-07-21 04:00:00",
+      "album": {
+        "name": "Begin the Beguine",
+        "url": "https://open.spotify.com/album/5siSTOhozc4kGQxQgbFhvS"
+      },
+      "artists": [
+        {
+          "name": "Julio Iglesias",
+          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
+        }
+      ],
+      "duration_ms": 300600,
+      "name": "Hey - Spanish",
+      "url": "https://open.spotify.com/track/3X8buu765D59qlQ6z78I8A"
     },
     {
       "added_at": "2022-07-21 04:00:00",

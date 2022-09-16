@@ -1,12 +1,12 @@
 {
   "description": "The essential pop rock songs from the 1990s. Cover: Third Eye Blind.",
-  "num_followers": 1177959,
+  "num_followers": 1178190,
   "original_name": "90s Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzQyMjA1NiwwMDAwMDAwMDYxMTdlMzA5MjQwMDExZGQwMThhOTY0MDBmOWFhZDI2",
+  "snapshot_id": "MTY1MzQyMjA1NiwwMDAwMDAwMDZkNDVmNGEyMGM4Mjg5YWEwNmUxZmVjODI1ZjliMDcx",
   "tracks": [
     {
       "added_at": "2021-12-21 12:24:03",
@@ -523,22 +523,6 @@
     {
       "added_at": "2021-12-21 12:24:03",
       "album": {
-        "name": "Pocket Full Of Kryptonite",
-        "url": "https://open.spotify.com/album/2TWdmpnFNCMlZDQROleupK"
-      },
-      "artists": [
-        {
-          "name": "Spin Doctors",
-          "url": "https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m"
-        }
-      ],
-      "duration_ms": 256348,
-      "name": "Two Princes",
-      "url": "https://open.spotify.com/track/4ePP9So5xRzspjLFVVbj90"
-    },
-    {
-      "added_at": "2021-12-21 12:24:03",
-      "album": {
         "name": "Mellow Gold",
         "url": "https://open.spotify.com/album/0iIGP4Sxw3KR4OCFv2yvz8"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 235000,
       "name": "Loser",
       "url": "https://open.spotify.com/track/5PntSbMHC1ud6Vvl8x56qd"
+    },
+    {
+      "added_at": "2021-12-21 12:24:03",
+      "album": {
+        "name": "Pocket Full Of Kryptonite",
+        "url": "https://open.spotify.com/album/2TWdmpnFNCMlZDQROleupK"
+      },
+      "artists": [
+        {
+          "name": "Spin Doctors",
+          "url": "https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m"
+        }
+      ],
+      "duration_ms": 256348,
+      "name": "Two Princes",
+      "url": "https://open.spotify.com/track/4ePP9So5xRzspjLFVVbj90"
     },
     {
       "added_at": "2021-12-21 12:24:03",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2021-12-21 12:24:03",
       "album": {
-        "name": "Travelogue: Blues Traveler Classics",
-        "url": "https://open.spotify.com/album/6Rro4SnGlmVE4uzc2EIo2I"
-      },
-      "artists": [
-        {
-          "name": "Blues Traveler",
-          "url": "https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ"
-        }
-      ],
-      "duration_ms": 280093,
-      "name": "Run-Around",
-      "url": "https://open.spotify.com/track/3y8rEUEUdmAcPCpPoLotnO"
-    },
-    {
-      "added_at": "2021-12-21 12:24:03",
-      "album": {
         "name": "Walking Off the Buzz",
         "url": "https://open.spotify.com/album/5ZgazGk7G2Enwy0UXvSzcF"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 207226,
       "name": "Hey Leonardo (She Likes Me for Me)",
       "url": "https://open.spotify.com/track/6xP5TGWu1GBEHjMBmHRbjT"
+    },
+    {
+      "added_at": "2021-12-21 12:24:03",
+      "album": {
+        "name": "Travelogue: Blues Traveler Classics",
+        "url": "https://open.spotify.com/album/6Rro4SnGlmVE4uzc2EIo2I"
+      },
+      "artists": [
+        {
+          "name": "Blues Traveler",
+          "url": "https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ"
+        }
+      ],
+      "duration_ms": 280093,
+      "name": "Run-Around",
+      "url": "https://open.spotify.com/track/3y8rEUEUdmAcPCpPoLotnO"
     },
     {
       "added_at": "2021-12-21 12:24:03",

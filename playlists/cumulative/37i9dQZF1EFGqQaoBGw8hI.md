@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39fbSwb9AskCpA36373pZL">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-483 songs - 1 day 11 hr 23 min - [published](https://open.spotify.com/playlist/1V8qoYuXAl3nBrjXBEwYzP)
+484 songs - 1 day 11 hr 25 min - [published](https://open.spotify.com/playlist/1V8qoYuXAl3nBrjXBEwYzP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,8 @@
 | [Blues Never Fade Away](https://open.spotify.com/track/4gdH8mfTgmEgFyts0eq2a6) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Captain and The Kid](https://open.spotify.com/album/1lqdOJ9M0EnXx9cf5moz1B) | 4:45 | 2022-09-08 |  |
 | [Boogie Pilgrim](https://open.spotify.com/track/5iQruOIwPqK1gptITfOXQv) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Blue Moves](https://open.spotify.com/album/0XsM7TdicJh19osmKPUoR2) | 6:05 | 2022-09-08 |  |
 | [Border Song](https://open.spotify.com/track/4gpxT82T8ZzRWknBH30Zey) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Elton John](https://open.spotify.com/album/0C2grVR8DnJnL8rg7OP6Zm) | 3:22 | 2022-09-08 |  |
-| [Born To Boogie \- From 'Billy Elliot The Musical'](https://open.spotify.com/track/0JbQXNSYQID38YcwR9r1ZW) | [Original London Cast of 'Billy Elliot The Musical'](https://open.spotify.com/artist/2egjsbpXXVNnl6agT4PI1T) | [Billy Elliot: The Original Cast Recording](https://open.spotify.com/album/0n7z0uxgNQT5YV6z99IIDt) | 4:25 | 2022-09-08 |  |
+| [Born To Boogie](https://open.spotify.com/track/3Qd1sMmuPHEgycQOn6Mdve) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Tanx](https://open.spotify.com/album/3I4VF8Hg1aXiCOC3zLxfXG) | 2:04 | 2022-09-15 |  |
+| [Born To Boogie \- From 'Billy Elliot The Musical'](https://open.spotify.com/track/0JbQXNSYQID38YcwR9r1ZW) | [Original London Cast of 'Billy Elliot The Musical'](https://open.spotify.com/artist/2egjsbpXXVNnl6agT4PI1T) | [Billy Elliot: The Original Cast Recording](https://open.spotify.com/album/0n7z0uxgNQT5YV6z99IIDt) | 4:25 | 2022-09-08 | 2022-09-16 |
 | [Breaking Down Barriers \- Remastered 2003](https://open.spotify.com/track/0cao7zXiY3a5BTRzsO5R0Q) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Fox](https://open.spotify.com/album/3YeviehXlWgJWcwFMog39Y) | 4:41 | 2022-09-08 |  |
 | [Breaking Hearts \(Ain't What It Used To Be\)](https://open.spotify.com/track/4fBCtdSAeJHMhWlXxTGoEB) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Breaking Hearts](https://open.spotify.com/album/572Rt1N8EW6yMEEQ298qQJ) | 3:33 | 2022-09-08 |  |
 | [Burn Down The Mission](https://open.spotify.com/track/3ggTCH9i9dJ0sRdAxFGzcr) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Tumbleweed Connection](https://open.spotify.com/album/03zfU3IwWmymKoaWnwFNaY) | 6:22 | 2022-09-08 |  |

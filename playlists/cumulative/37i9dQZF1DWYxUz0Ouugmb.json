@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Deretan musisi dalam negeri yang patut diantisipasi. Cover: Jinan Laetitia",
+  "description": "Deretan musisi dalam negeri yang patut diantisipasi. Cover: Shakira Jasmine",
   "name": "RADAR Indonesia",
   "published_playlist_ids": [
     "37dv0S75HQ2Wer6Z25cDjS"
@@ -1060,6 +1060,28 @@
     },
     {
       "album": {
+        "name": "Meant 2 Be (Stripped Version)",
+        "url": "https://open.spotify.com/album/4VlVn6uG7iXD7H9Onqb6c8"
+      },
+      "artists": [
+        {
+          "name": "Shakira Jasmine",
+          "url": "https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3"
+        },
+        {
+          "name": "Nuca",
+          "url": "https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303936,
+      "name": "Meant 2 Be (Stripped Version)",
+      "url": "https://open.spotify.com/track/6rYi8GI5jEUCYSHYZSlpvZ"
+    },
+    {
+      "album": {
         "name": "Merindu",
         "url": "https://open.spotify.com/album/2tWvLOzIXczbXws6GeM0YE"
       },
@@ -1823,7 +1845,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 230947,
       "name": "Timeless",
       "url": "https://open.spotify.com/track/01DZmwlwEM41LThtOOapZM"

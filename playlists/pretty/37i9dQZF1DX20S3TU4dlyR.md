@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 
 > Este es el Reggae, al sur del continente americano\. Foto: Los Pericos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,098 likes - 89 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,105 likes - 89 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,9 +70,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 | 60 | [Aroma de Café](https://open.spotify.com/track/3RQz6NX8vYIqu179IUU1Q8) | [Laguna Pai](https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS) | [Aroma de Café](https://open.spotify.com/album/2U7JActlUUtkokqLmhGrvg) | 4:14 |
 | 61 | [Lo Que Dicta El Tiempo](https://open.spotify.com/track/5kSkRMrl8p1w63pybLjg0S) | [Leonchalon](https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0) | [Amor De Barrio](https://open.spotify.com/album/2LvjJW52h7wcohlk5hvGCj) | 4:27 |
 | 62 | [La Pipa](https://open.spotify.com/track/5QFCziG8ZeMIDr1rJA3c8C) | [El Natty Combo](https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9) | [Sergio Colombo Presenta el Natty Combo](https://open.spotify.com/album/598QEhVWqPjsH1G5WkKH1s) | 5:49 |
-| 63 | [A Contratiempo](https://open.spotify.com/track/5tDfbfJCQyXuCOft8hbRIg) | [12 Tribus](https://open.spotify.com/artist/7whGu0xfNiwItHQv41NXH4) | [Súbete](https://open.spotify.com/album/7g5vosPUeBXE53YHV923pU) | 3:38 |
+| 63 | [Sonido Fresco](https://open.spotify.com/track/1gka28UzjRHhMcRpaux6o8) | [Sondelvalle](https://open.spotify.com/artist/1en2WgpLwFV2kiSnCqW0gl), [Motafonkas](https://open.spotify.com/artist/3SFlyIysvEljCERd4wKUjS) | [Ritmo Elemental](https://open.spotify.com/album/59ogO85mMUoWI8ijg6VBLl) | 3:48 |
 | 64 | [Mi Dulce Amor](https://open.spotify.com/track/5IMiNgnJHMzSva0maocFXB) | [De Bruces A Mi](https://open.spotify.com/artist/0Mib7yfd1ByhIhA1DmEeMg), [Pablo Molina](https://open.spotify.com/artist/1PoD7Jl0frSiDWXY5Qt0fB) | [Radiante](https://open.spotify.com/album/3KnKXcmHFsu5GsDREoxtQW) | 3:09 |
-| 65 | [Sonido Fresco](https://open.spotify.com/track/1gka28UzjRHhMcRpaux6o8) | [Sondelvalle](https://open.spotify.com/artist/1en2WgpLwFV2kiSnCqW0gl), [Motafonkas](https://open.spotify.com/artist/3SFlyIysvEljCERd4wKUjS) | [Ritmo Elemental](https://open.spotify.com/album/59ogO85mMUoWI8ijg6VBLl) | 3:48 |
+| 65 | [A Contratiempo](https://open.spotify.com/track/5tDfbfJCQyXuCOft8hbRIg) | [12 Tribus](https://open.spotify.com/artist/7whGu0xfNiwItHQv41NXH4) | [Súbete](https://open.spotify.com/album/7g5vosPUeBXE53YHV923pU) | 3:38 |
 | 66 | [Culpable O No](https://open.spotify.com/track/6YkcpvwqXdo8TJCX0ku6Pq) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Cover Me](https://open.spotify.com/album/7pWasGxWxY1oVOA852CSM0) | 4:10 |
 | 67 | [Si vas a dejarme...](https://open.spotify.com/track/61xOrT5LUy1lS9zvzAmjWS) | [Mensajeros Reggae](https://open.spotify.com/artist/33gqwPfmv66I9QO0w5jXoE) | [Así](https://open.spotify.com/album/1Vnxc92RmrxMEoh3wyZFte) | 4:20 |
 | 68 | [Más Libre](https://open.spotify.com/track/5v69zCbt88Xy2Td6i2m1vw) | [Gaspar OM](https://open.spotify.com/artist/1Tvrm9z0xfdxJ5Xg5NODEj), [C4 Reggae Combativo](https://open.spotify.com/artist/2HnAud57JxR0WvtR2XviA0), [Luis Alfa](https://open.spotify.com/artist/5eBjZZzNvOtwyiVUKVJoux) | [Alta Lucha](https://open.spotify.com/album/45hcHSFFSVgAZ0s9noV87v) | 3:22 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 | 88 | [La Clave](https://open.spotify.com/track/7CkVCRgoZWPt2v1WXRV7rs) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP) | [Sí Serás](https://open.spotify.com/album/0ZToxlCx1Z93ECG3yZWsZ0) | 4:43 |
 | 89 | [Va Salir](https://open.spotify.com/track/7FF4TyQSAvpukqX66mTGu0) | [BRAZA](https://open.spotify.com/artist/5F0iFhw7bZE7a8INjualJn), [Cuatro Pesos de Propina](https://open.spotify.com/artist/0ChnnP8vWVXGxmfUfFYeND) | [Va Salir](https://open.spotify.com/album/4YxwFWxeTj9cqJej7q40Vy) | 4:13 |
 
-Snapshot ID: `MTY1NjY0ODEyMCwwMDAwMDAwMDk0YzczZjNhM2VjZDNjMjc2NWE4ODE1YmJjMjA3OTcx`
+Snapshot ID: `MTY1NjY0ODEyMCwwMDAwMDAwMDY3OTdlNDIzNTY1YmNhNWQ0OTBmYjRhNGU2MGY0NTA1`

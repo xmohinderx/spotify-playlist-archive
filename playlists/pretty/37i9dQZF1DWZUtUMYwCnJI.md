@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUtUMYwCnJI.md) - [plain]
 
 > Enjoy the world of “Fire Force”!  歴代OP/ED、サントラ曲で辿るアニメ「炎炎ノ消防隊」の世界！©大久保篤・講談社／特殊消防隊動画広報課
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,156 likes - 60 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,168 likes - 60 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [延々](https://open.spotify.com/track/2gF7HUwnLoFLGggxNyD2vw) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [Unity](https://open.spotify.com/album/199En2PF9GtUAxtGUk4NKr) | 3:36 |
-| 2 | [Torch of Liberty](https://open.spotify.com/track/3YblgwBrb747gUzuh2CgYF) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [Torch of Liberty](https://open.spotify.com/album/0VFSyJsFrGdo3wbnswIjCy) | 3:05 |
-| 3 | [SPARK\-AGAIN](https://open.spotify.com/track/3NEuSQZbVmfQwRuDKol40Y) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [SPARK\-AGAIN](https://open.spotify.com/album/3OBjI5LyxiWJZSEuBskBbG) | 4:04 |
-| 4 | [ディザイア](https://open.spotify.com/track/198elPRu7tlHqwAZrQvqyG) | [PELICAN FANCLUB](https://open.spotify.com/artist/2eKvpW2lCmgqTJHRNrbbIn) | [ディザイア](https://open.spotify.com/album/6M1iVKSypFnGtVyalcM5GU) | 3:41 |
-| 5 | [ID](https://open.spotify.com/track/2TdfwkIHpCb0S8NYJVyr2X) | [Cidergirl](https://open.spotify.com/artist/3hprFQEXS7glX1Jxxwv9Dn) | [ID](https://open.spotify.com/album/17RZ0HdVPqFvVcZNQZfvkO) | 3:45 |
-| 6 | [Fire Force \-Main Theme\-2nd](https://open.spotify.com/track/6Zmbkns3sl7MN1Iu3hDQDo) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [TV Animation ”Fire Force” Original Soundtrack 2](https://open.spotify.com/album/3RqDgNyxjyUKUk3tYjwJFv) | 3:09 |
-| 7 | [インフェルノ](https://open.spotify.com/track/64yajM6CxtLghmgB53VeXT) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [インフェルノ](https://open.spotify.com/album/137FjNv5TRNvbW6D17bQc1) | 3:32 |
-| 8 | [MAYDAY \(feat\. Ryo from Crystal Lake\)](https://open.spotify.com/track/2wJJNgD6GrKoQ435VxTRv6) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM), [Ryo](https://open.spotify.com/artist/3krgsgh3jIRarpbhVP0nUY) | [THE SIDE EFFECTS](https://open.spotify.com/album/1BGWyz8x5J2qChX1X0r60e) | 3:47 |
-| 9 | [veil](https://open.spotify.com/track/1dGF5ymTyBB2ZmOypkeU1F) | [須田景凪](https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum) | [porte](https://open.spotify.com/album/2vV8klrByPkSnocfIlaOMI) | 3:29 |
-| 10 | [脳内](https://open.spotify.com/track/1iyywIPs8cz5EhyzGQoUuX) | [Lenny code fiction](https://open.spotify.com/artist/6nvlfxR3ZRCNzw39ZTcGSR) | [脳内](https://open.spotify.com/album/4Il7a2cdyJaeofvksucZgN) | 4:13 |
+| 1 | [Torch of Liberty](https://open.spotify.com/track/3YblgwBrb747gUzuh2CgYF) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [Torch of Liberty](https://open.spotify.com/album/0VFSyJsFrGdo3wbnswIjCy) | 3:05 |
+| 2 | [SPARK\-AGAIN](https://open.spotify.com/track/3NEuSQZbVmfQwRuDKol40Y) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [SPARK\-AGAIN](https://open.spotify.com/album/3OBjI5LyxiWJZSEuBskBbG) | 4:04 |
+| 3 | [ディザイア](https://open.spotify.com/track/198elPRu7tlHqwAZrQvqyG) | [PELICAN FANCLUB](https://open.spotify.com/artist/2eKvpW2lCmgqTJHRNrbbIn) | [ディザイア](https://open.spotify.com/album/6M1iVKSypFnGtVyalcM5GU) | 3:41 |
+| 4 | [ID](https://open.spotify.com/track/2TdfwkIHpCb0S8NYJVyr2X) | [Cidergirl](https://open.spotify.com/artist/3hprFQEXS7glX1Jxxwv9Dn) | [ID](https://open.spotify.com/album/17RZ0HdVPqFvVcZNQZfvkO) | 3:45 |
+| 5 | [Fire Force \-Main Theme\-2nd](https://open.spotify.com/track/6Zmbkns3sl7MN1Iu3hDQDo) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [TV Animation ”Fire Force” Original Soundtrack 2](https://open.spotify.com/album/3RqDgNyxjyUKUk3tYjwJFv) | 3:09 |
+| 6 | [インフェルノ](https://open.spotify.com/track/64yajM6CxtLghmgB53VeXT) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [インフェルノ](https://open.spotify.com/album/137FjNv5TRNvbW6D17bQc1) | 3:32 |
+| 7 | [MAYDAY \(feat\. Ryo from Crystal Lake\)](https://open.spotify.com/track/2wJJNgD6GrKoQ435VxTRv6) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM), [Ryo](https://open.spotify.com/artist/3krgsgh3jIRarpbhVP0nUY) | [THE SIDE EFFECTS](https://open.spotify.com/album/1BGWyz8x5J2qChX1X0r60e) | 3:47 |
+| 8 | [veil](https://open.spotify.com/track/1dGF5ymTyBB2ZmOypkeU1F) | [須田景凪](https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum) | [porte](https://open.spotify.com/album/2vV8klrByPkSnocfIlaOMI) | 3:29 |
+| 9 | [脳内](https://open.spotify.com/track/1iyywIPs8cz5EhyzGQoUuX) | [Lenny code fiction](https://open.spotify.com/artist/6nvlfxR3ZRCNzw39ZTcGSR) | [脳内](https://open.spotify.com/album/4Il7a2cdyJaeofvksucZgN) | 4:13 |
+| 10 | [延々](https://open.spotify.com/track/2gF7HUwnLoFLGggxNyD2vw) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [Unity](https://open.spotify.com/album/199En2PF9GtUAxtGUk4NKr) | 3:36 |
 | 11 | [Separated universe](https://open.spotify.com/track/5sUMauKPZGLzqgZBdjLJKL) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [TV Animation ”Fire Force” Original Soundtrack 2](https://open.spotify.com/album/3RqDgNyxjyUKUk3tYjwJFv) | 3:14 |
 | 12 | [A call for service](https://open.spotify.com/track/783IqnkzsEDHB3MJVQCMWw) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [TV Animation ”Fire Force” Original Soundtrack 2](https://open.spotify.com/album/3RqDgNyxjyUKUk3tYjwJFv) | 4:18 |
 | 13 | [Survey report](https://open.spotify.com/track/17LAnzZlYqOvCq7LQqsMe4) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [TV Animation ”Fire Force” Original Soundtrack 2](https://open.spotify.com/album/3RqDgNyxjyUKUk3tYjwJFv) | 3:10 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUtUMYwCnJI.md) - [plain]
 | 59 | [Burning disaster](https://open.spotify.com/track/2ubBN4UvUnDNcK5NNUGkFL) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [TV Animation ”Fire Force” Original Soundtrack](https://open.spotify.com/album/1A43nKcyvsrayqQZ6gbK3H) | 2:07 |
 | 60 | [Scorching heat requiem](https://open.spotify.com/track/1iWEPMP8q4DfV1G7madOHt) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [TV Animation ”Fire Force” Original Soundtrack](https://open.spotify.com/album/1A43nKcyvsrayqQZ6gbK3H) | 2:58 |
 
-Snapshot ID: `MTY1NzI2MTc2MywwMDAwMDAwMGRmMzkyMGVmMWFiMGQ1OWMwMTNkODAwZjk0ZTE5N2My`
+Snapshot ID: `MTY2MzI1NDAwMCwwMDAwMDAwMDk1NmRmNjYzNmRlMmEyNDRhMDhlOTE1ZjQwMWY2YWEy`

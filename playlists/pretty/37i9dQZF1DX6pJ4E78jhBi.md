@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pJ4E78jhBi.md) - [plain]
 
 > Relax to these chilled instrumental Christmas tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,893 likes - 37 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,911 likes - 37 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pJ4E78jhBi.md) - [plain]
 | 25 | [Santa Tell Me](https://open.spotify.com/track/2DCxWF4de4snGIze8xKw15) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Santa Tell Me](https://open.spotify.com/album/0OB5qNV3Nk6lbZpWNQI8jA) | 2:47 |
 | 26 | [Fairytale of New York](https://open.spotify.com/track/2Lef0CHyds1JR5t8oPXXzw) | [Finer](https://open.spotify.com/artist/3yqe3yOVIhznLkPAa5BLYF), [MacGowan](https://open.spotify.com/artist/3YodJpFPfyv3k86DOoAJPQ), [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Together At Last](https://open.spotify.com/album/0XWsqCngjp9vAcDzr8dp9T) | 3:12 |
 | 27 | [I'll Be Home for Christmas](https://open.spotify.com/track/2AlhKcEFRYnlvtt5FyYmR5) | [Dan Evmark](https://open.spotify.com/artist/6u2qrVRsvJjOpbTYwH6Xsp) | [I'll Be Home for Christmas](https://open.spotify.com/album/0z3OrHSOvYlME9tNVajV8n) | 4:21 |
-| 28 | [Once In Royal David’s City](https://open.spotify.com/track/6M7DHt54sGNGyxZrMZMR8w) | [Henry John Gauntlett](https://open.spotify.com/artist/0Ywn9U6rufDhKYfZanCr6c), [Nigel Hess](https://open.spotify.com/artist/6Yfm54ap3yAaipvsCodUbx), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [Silent Nights \- Die schönsten Melodien für eine entspannte Weihnachtszeit](https://open.spotify.com/album/1mjRsFJ7thLFUuZtoZQeSS) | 3:38 |
+| 28 | [Once In Royal David’s City](https://open.spotify.com/track/1vr31htsP3k9idjJzbbT4n) | [Henry John Gauntlett](https://open.spotify.com/artist/0Ywn9U6rufDhKYfZanCr6c), [Nigel Hess](https://open.spotify.com/artist/6Yfm54ap3yAaipvsCodUbx), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [Silent Nights](https://open.spotify.com/album/6vjr6L0QWJ75MJXsctvx0C) | 3:37 |
 | 29 | [We Three Kings](https://open.spotify.com/track/3wE6NC3et1CbZjcvWIQXUp) | [Robin Meloy Goldsby](https://open.spotify.com/artist/2ZS0eOeBhk5GgOetMqP7xb) | [December](https://open.spotify.com/album/4x04WzKXt5q1tqUf5Eais1) | 4:22 |
 | 30 | [Huron Carol](https://open.spotify.com/track/7dkXnwn1iKD6DZ28gA5OY5) | [Ryan Marvel](https://open.spotify.com/artist/1QRBlM1kbpn7HsF42YKSY2) | [Winter II](https://open.spotify.com/album/1ikrIy4vNGnTWENBzXIdq9) | 3:13 |
 | 31 | [What Sweeter Music](https://open.spotify.com/track/22TtoL9ogBV2B4eHK01924) | [John Rutter](https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe), [Wayne Marshall](https://open.spotify.com/artist/79q1TT7yMwKjyLdE1LL16u) | [The Piano Collection](https://open.spotify.com/album/13QCcMPgbmg9FZROLvenU3) | 4:17 |
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pJ4E78jhBi.md) - [plain]
 | 36 | [Christmas Letter](https://open.spotify.com/track/3oFDysBX3TkBDmy5cZuxJP) | [Cellist Yesle](https://open.spotify.com/artist/1EPr2hpZSt3xNbeXEyBEbj) | [Beautiful Cello](https://open.spotify.com/album/0mUUsd64PlYJuGsuSfyawn) | 3:48 |
 | 37 | [Lo How a Rose](https://open.spotify.com/track/6iezLIgYm0LAQdLlRQzXC3) | [Winter Harp Ensemble](https://open.spotify.com/artist/4WX6y7CG68HnwLAwC2IkQw), [Lori Pappajohn](https://open.spotify.com/artist/61RcUdOwqcuSYE2rMLy0YL) | [A Night in Winter](https://open.spotify.com/album/5I28ceSFOIzyyEF3jGBVkf) | 4:11 |
 
-Snapshot ID: `MTYzOTY2ODI3NywwMDAwMDAwMGE4ZWZhY2Q0NzNjZDhjYzA5ZGY5MDA5OThhYTY1ODli`
+Snapshot ID: `MTYzOTY2ODI3NywwMDAwMDAwMDNhMWJiMTExYzE3MWFkZThhNDQ3ZWQ3YTc0NWVmMTBk`

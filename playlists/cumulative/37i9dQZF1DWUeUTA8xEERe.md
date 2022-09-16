@@ -4,7 +4,7 @@
 
 > All jazz every Sunday, curated by Jermaine Dupri.
 
-31 songs - 2 hr 10 min - [published](https://open.spotify.com/playlist/66WeKwe1hMKbsitXdspXoC)
+32 songs - 2 hr 14 min - [published](https://open.spotify.com/playlist/66WeKwe1hMKbsitXdspXoC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [Cactus Dance](https://open.spotify.com/track/7wiJV8CHLuziRQFLKBkD4R) | [GODTET](https://open.spotify.com/artist/09OgHVPSgCgflZLrGScfE9) | [Cactus Dance](https://open.spotify.com/album/07W1EBHc70iew1Zfe144Du) | 3:52 | 2020-10-30 |  |
 | [Dear Old Stockholm \(feat\. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones\)](https://open.spotify.com/track/1d0NjHhCDKCKZIbws021xD) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG), [Philly Joe Jones](https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1) | ['Round About Midnight](https://open.spotify.com/album/4VUawqEDCHHfrUe77ScQ2K) | 7:48 | 2020-10-30 |  |
 | [Distance](https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Distance](https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC) | 4:15 | 2020-10-30 |  |
-| [Ensueño](https://open.spotify.com/track/2tCOdryTpRqRto1asfS0Jd) | [GODTET](https://open.spotify.com/artist/09OgHVPSgCgflZLrGScfE9) | [Godtet](https://open.spotify.com/album/5IEhOa9sZC7jyq9Vse747Y) | 4:10 | 2020-10-30 |  |
+| [Ensueño](https://open.spotify.com/track/2tCOdryTpRqRto1asfS0Jd) | [GODTET](https://open.spotify.com/artist/09OgHVPSgCgflZLrGScfE9) | [Godtet](https://open.spotify.com/album/5IEhOa9sZC7jyq9Vse747Y) | 4:10 | 2020-10-30 | 2022-09-16 |
+| [Ensueño](https://open.spotify.com/track/5snXCd79NWiOvDokJJER0F) | [GODTET](https://open.spotify.com/artist/09OgHVPSgCgflZLrGScfE9) | [Godtet](https://open.spotify.com/album/09VZWAXmXb3QmghmslhLBR) | 4:10 | 2020-10-30 |  |
 | [Fall Afternoon](https://open.spotify.com/track/7ldr7OI8hVluYEFVQA7qvn) | [Azymuth](https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt) | [Azymuth JID004](https://open.spotify.com/album/1y3cGiP4R1MCuuLQGK2fvI) | 4:17 | 2020-10-30 |  |
 | [Fall Afternoon](https://open.spotify.com/track/1FSs2R5yWVDAj1OUfyO3Wm) | [Azymuth](https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Azymuth JID004](https://open.spotify.com/album/30mmbtPJOYzPZSb9q20Bdn) | 4:17 | 2020-10-30 | 2022-07-29 |
 | [First Responders](https://open.spotify.com/track/1ux778Ljln0QEitz2fB4PH) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU), [Dinner Party](https://open.spotify.com/artist/6p70iKebfMSl8zbkiEwOtS) | [Dinner Party](https://open.spotify.com/album/4Wq9dC08uEtSuGc8mFwC3r) | 4:49 | 2020-10-30 |  |

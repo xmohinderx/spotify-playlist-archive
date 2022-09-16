@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-445 songs - 1 day 9 hr 6 min - [published](https://open.spotify.com/playlist/4cy2JLPcTDNKlCrRVhjOKn)
+446 songs - 1 day 9 hr 8 min - [published](https://open.spotify.com/playlist/4cy2JLPcTDNKlCrRVhjOKn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Babalawo](https://open.spotify.com/track/6ifwhjw3szFwweQbAZAu7j) | [PS5](https://open.spotify.com/artist/7nFGSs3Km6Li7tJocJbLdO) | [Unconscious Collective](https://open.spotify.com/album/3IVOpoj5MwZ3TE2iWM0FNL) | 5:08 | 2021-10-06 | 2022-07-28 |
 | [Babel](https://open.spotify.com/track/02sVh7Sa1kaJBqUYYFog9w) | [Gratien Midonet](https://open.spotify.com/artist/0Zn7jloZgJ19mgN6YBkeIh) | [Bourg La Folie](https://open.spotify.com/album/3wSYFDchDY5T6FCd4jXEES) | 5:27 | 2021-10-06 | 2022-07-15 |
 | [Badala Zamana \(Habibi Funk 015\)](https://open.spotify.com/track/1G4aMGkzJV5yqF3XRHNqWL) | [Zohra](https://open.spotify.com/artist/3l2fkH1yrsHsfYYU2ZnwtI) | [Badala Zamana \(Habibi Funk 015\)](https://open.spotify.com/album/4S0GIZfnkA1kK07ACLPyZJ) | 3:10 | 2021-10-06 |  |
+| [Baile Infinito](https://open.spotify.com/track/1k14lnPXq7oTS03YFcwjzq) | [Weste](https://open.spotify.com/artist/5TlgMX2qZVaWy2JI12tK2q) | [Visceras](https://open.spotify.com/album/7gklIEvQSc5xeaSWVNlH3j) | 1:41 | 2022-09-15 |  |
 | [Baixada](https://open.spotify.com/track/4zzMUiu5slOh0lI7QL2yNd) | [Chancla](https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs) | [Baixada](https://open.spotify.com/album/76AlDMHVPDI9ao1r5lppHU) | 2:21 | 2022-01-07 | 2022-07-29 |
 | [Bar Konon Mousso \(Musicien C'est Pas Quelqu'un\) \[Ben Gomori N'est Pas Musicien Edit\]](https://open.spotify.com/track/01WjUcodSI8u1srax6gr6y) | [Amadou Balaké](https://open.spotify.com/artist/1R3wyTMKl4aOXW9cbiFnME), [Ben Gomori](https://open.spotify.com/artist/1ydktdgsUmQG8GEZ25oBrw) | [In Conclusion \(Ben Gomori Edits\)](https://open.spotify.com/album/6gw4pWgDD2gF2b5R80MYcD) | 8:01 | 2022-03-29 | 2022-04-21 |
 | [Barry White Vs\. Micheal Myers](https://open.spotify.com/track/6iGwa4Zfa7YGJ4jhga60gj) | [Chola Orange](https://open.spotify.com/artist/7ovA6Ves5dfylDwv6883wD) | [Chola Orange](https://open.spotify.com/album/3nnP9XAAzjXpkrqoFu07kA) | 2:51 | 2021-10-06 | 2022-04-21 |
@@ -300,7 +301,7 @@
 | [Nimele Bolo](https://open.spotify.com/track/0K9yEYBuOQwmRKvdNLKhpi) | [Charly Kingson](https://open.spotify.com/artist/0NFxrN3u1FNHeYQHvSvokS) | [Born In Africa](https://open.spotify.com/album/3SINV0dzoGMwwpK86yE77I) | 5:27 | 2022-03-29 | 2022-04-20 |
 | [Nineteen Hundred and Eighty Five](https://open.spotify.com/track/65KrPjUkVnvUUfQaDGn6n7) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Theme from Selva](https://open.spotify.com/album/6ht7LwHxyNVk8gkqGaK6mM) | 5:40 | 2021-10-06 |  |
 | [Ninfa de la villa](https://open.spotify.com/track/7Ax9fR3OPue9dRH7n9Pidm) | [Cosmic Wacho](https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa) | [Ninfa de la villa](https://open.spotify.com/album/25c9ZAKyYYpeS8ZfUKMeZ2) | 3:09 | 2021-10-06 | 2022-04-18 |
-| [No Me Quieres \(feat\. Fabi Reyna\)](https://open.spotify.com/track/2LCtUA1vEQKH1YoLGMX5Rv) | [Sumohair](https://open.spotify.com/artist/5lDU6YOrMGStD7lnzHvDk5), [Fabi Reyna](https://open.spotify.com/artist/58G2Hb81kZxBJ4MOvZBAID) | [No Me Quieres \(feat\. Fabi Reyna\)](https://open.spotify.com/album/0XwtNqA59iplkPTxi4Qoam) | 3:23 | 2022-04-17 |  |
+| [No Me Quieres \(feat\. Fabi Reyna\)](https://open.spotify.com/track/2LCtUA1vEQKH1YoLGMX5Rv) | [Sumohair](https://open.spotify.com/artist/5lDU6YOrMGStD7lnzHvDk5), [Fabi Reyna](https://open.spotify.com/artist/58G2Hb81kZxBJ4MOvZBAID) | [No Me Quieres \(feat\. Fabi Reyna\)](https://open.spotify.com/album/0XwtNqA59iplkPTxi4Qoam) | 3:23 | 2022-04-17 | 2022-09-16 |
 | [No Waiting](https://open.spotify.com/track/5WGuFj5MiI5HfjXNXUuJsK) | [Les Frères Smith](https://open.spotify.com/artist/2DsPD1Xb7F2oukRHmrkEqQ), [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ) | [No Waiting](https://open.spotify.com/album/31dY7dNVlpbp5BMFjjwXRA) | 5:26 | 2021-10-06 | 2022-04-18 |
 | [Noko Hewon](https://open.spotify.com/track/0lNND4ICbiZEXahwxtl8OX) | [Afrik Bawantu](https://open.spotify.com/artist/2cfMyJQIEEqNhfiqQ24bUW) | [Noko Hewon](https://open.spotify.com/album/5eO68ZD9iOVu08B6LveM11) | 6:34 | 2021-10-06 | 2022-04-27 |
 | [Nosotros También](https://open.spotify.com/track/6aLokUtExlh83ueaUUOzrt) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [Nosotros También](https://open.spotify.com/album/6SdRuhERJbTAuWMIHtvsLL) | 3:26 | 2021-10-06 | 2022-07-29 |

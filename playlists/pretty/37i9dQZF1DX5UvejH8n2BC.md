@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UvejH8n2BC.md) - [plain]
 
 > Female artists of Philadelphia International Records which is especially known for Philly Soul\. Cover: The Jones Girls:
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,762 likes - 32 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,801 likes - 32 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UvejH8n2BC.md) - [plain]
 | 26 | [Nobody Could Take Your Place](https://open.spotify.com/track/4873dV93AQTyB57RMqbVUA) | [Dee Dee Sharp Gamble](https://open.spotify.com/artist/6yca6zFWEYjAzjrcch66IK), [Dee Dee Sharp](https://open.spotify.com/artist/2NtGOVTuHBMDfR5PMNPBGT) | [What Color Is Love](https://open.spotify.com/album/5zHHNHuj08nKoaoseKTuDF) | 4:58 |
 | 27 | [Disco Dancer](https://open.spotify.com/track/00uxI8BWoA3p7ikapcnEzd) | [Frantique](https://open.spotify.com/artist/64FQb5lUDKS72l9d8OjDLT) | [Frantique](https://open.spotify.com/album/1Xn2SYwx4PCz5v4K9yNSJn) | 7:21 |
 | 28 | [Year Of Decision](https://open.spotify.com/track/3DtoTiWTr4i11DkINqwhoh) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Three Degrees](https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX) | 2:41 |
-| 29 | [Was That All It Was](https://open.spotify.com/track/2sf12cmr3qhWY549o3bM2R) | [Jean Carn](https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1) | [Flashback](https://open.spotify.com/album/5inHUsQcyuKptOn7HTvVTY) | 4:56 |
+| 29 | [Free Love](https://open.spotify.com/track/0U8jLRW0P9yATYLXiqEJlF) | [Jean Carn](https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1) | [Jean Carn](https://open.spotify.com/album/4gsuDhx9sgXP5tqKFolPIj) | 4:04 |
 | 30 | [No One Can Love You More](https://open.spotify.com/track/2npnWoCNxeGzAhjGyTx3V2) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Phyllis Hyman \(Expanded Edition\)](https://open.spotify.com/album/5CNAoF5myCR0foNabbyld2) | 4:23 |
-| 31 | [Free Love](https://open.spotify.com/track/0U8jLRW0P9yATYLXiqEJlF) | [Jean Carn](https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1) | [Jean Carn](https://open.spotify.com/album/4gsuDhx9sgXP5tqKFolPIj) | 4:04 |
+| 31 | [Was That All It Was](https://open.spotify.com/track/2sf12cmr3qhWY549o3bM2R) | [Jean Carn](https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1) | [Flashback](https://open.spotify.com/album/5inHUsQcyuKptOn7HTvVTY) | 4:56 |
 | 32 | [O\-o\-h Child](https://open.spotify.com/track/6oAsrBcTsceOwqH3uHuRzp) | [Dee Dee Sharp](https://open.spotify.com/artist/2NtGOVTuHBMDfR5PMNPBGT) | [Happy 'Bout The Whole Thing](https://open.spotify.com/album/2PBsr2V6Dku16eP1qgY0Rq) | 5:10 |
 
-Snapshot ID: `MTY1MTU4MzIyMywwMDAwMDAwMDViZWZlYjJhY2M5YTM5MDQ4MTQ2MjM0YzRjY2I1YjY4`
+Snapshot ID: `MTY1MTU4MzIyMywwMDAwMDAwMGQ3MGQ4MGFjZDZhMTliYzJiYTE2OTNmMmY4ZjU3MjJh`

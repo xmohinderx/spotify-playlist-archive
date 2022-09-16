@@ -1,12 +1,12 @@
 {
   "description": "Favorite rock and gems.",
-  "num_followers": 66367,
+  "num_followers": 66464,
   "original_name": "Alternative Rock's Most Precious Gems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTk5NjAyNCwwMDAwMDAwMDRlNzM3MDJjZmE3YTJkOGUxOWM3ODlkNzI1NjdiZDg2",
+  "snapshot_id": "MTY1NTk5NjAyNCwwMDAwMDAwMDc5MjdlMjdjZGE5MDllNjVhZTdhN2Q0NDYxOGMwZGZk",
   "tracks": [
     {
       "added_at": "2022-06-23 14:53:44",
@@ -107,22 +107,6 @@
     {
       "added_at": "2022-06-23 14:53:44",
       "album": {
-        "name": "One By One (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 467626,
-      "name": "Come Back",
-      "url": "https://open.spotify.com/track/6FIJGWyovgbmDkjMp6a5x7"
-    },
-    {
-      "added_at": "2022-06-23 14:53:44",
-      "album": {
         "name": "Millennial",
         "url": "https://open.spotify.com/album/7jXSErmjydESDXLDVraNhp"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 106420,
       "name": "Millennial",
       "url": "https://open.spotify.com/track/6nn3SKnENmkTn7KC44MgHx"
+    },
+    {
+      "added_at": "2022-06-23 14:53:44",
+      "album": {
+        "name": "One By One (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 467626,
+      "name": "Come Back",
+      "url": "https://open.spotify.com/track/6FIJGWyovgbmDkjMp6a5x7"
     },
     {
       "added_at": "2022-06-23 14:53:44",
@@ -955,22 +955,6 @@
     {
       "added_at": "2022-06-23 14:53:44",
       "album": {
-        "name": "Brave Faces Everyone",
-        "url": "https://open.spotify.com/album/7GP702lI6EeRJnruJPoznv"
-      },
-      "artists": [
-        {
-          "name": "Spanish Love Songs",
-          "url": "https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV"
-        }
-      ],
-      "duration_ms": 242365,
-      "name": "Kick",
-      "url": "https://open.spotify.com/track/1p9oPZDiNymGw12BWv7WK3"
-    },
-    {
-      "added_at": "2022-06-23 14:53:44",
-      "album": {
         "name": "Coma Happy",
         "url": "https://open.spotify.com/album/6QhOK8ASSEafbqLRoifCnn"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 221865,
       "name": "Follow",
       "url": "https://open.spotify.com/track/4osnZvjbd0nDYYLotiP4ps"
+    },
+    {
+      "added_at": "2022-06-23 14:53:44",
+      "album": {
+        "name": "Brave Faces Everyone",
+        "url": "https://open.spotify.com/album/7GP702lI6EeRJnruJPoznv"
+      },
+      "artists": [
+        {
+          "name": "Spanish Love Songs",
+          "url": "https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV"
+        }
+      ],
+      "duration_ms": 242365,
+      "name": "Kick",
+      "url": "https://open.spotify.com/track/1p9oPZDiNymGw12BWv7WK3"
     },
     {
       "added_at": "2022-06-23 14:53:44",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2022-06-23 14:53:44",
       "album": {
-        "name": "Gaslight",
-        "url": "https://open.spotify.com/album/47aUK3fEcaVMuZsEdEWuLt"
-      },
-      "artists": [
-        {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
-        }
-      ],
-      "duration_ms": 173314,
-      "name": "Gaslight",
-      "url": "https://open.spotify.com/track/6hc42LuTezXyDwquiPH2uf"
-    },
-    {
-      "added_at": "2022-06-23 14:53:44",
-      "album": {
         "name": "For Your Own Special Sweetheart",
         "url": "https://open.spotify.com/album/0gsVBsleAP9vsCBGqlhxIt"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 279266,
       "name": "Savory",
       "url": "https://open.spotify.com/track/2ETGuTChPhwWge4syLqu9N"
+    },
+    {
+      "added_at": "2022-06-23 14:53:44",
+      "album": {
+        "name": "Gaslight",
+        "url": "https://open.spotify.com/album/47aUK3fEcaVMuZsEdEWuLt"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "duration_ms": 173314,
+      "name": "Gaslight",
+      "url": "https://open.spotify.com/track/6hc42LuTezXyDwquiPH2uf"
     },
     {
       "added_at": "2022-06-23 14:53:44",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2022-06-23 14:53:44",
       "album": {
-        "name": "Violence",
-        "url": "https://open.spotify.com/album/7q0Fdj0jZDoYWIGWY64x3A"
-      },
-      "artists": [
-        {
-          "name": "Editors",
-          "url": "https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI"
-        }
-      ],
-      "duration_ms": 235817,
-      "name": "Hallelujah (So Low)",
-      "url": "https://open.spotify.com/track/3aSqWoVZ18TK33qMgVUo0k"
-    },
-    {
-      "added_at": "2022-06-23 14:53:44",
-      "album": {
         "name": "Racecar Is Racecar Backwards (Tenth Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/7fBlKCxTGFF8Q2epS9TPwT"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 148826,
       "name": "Freddy Kreuger",
       "url": "https://open.spotify.com/track/6yheqxgSKIkSm4guRLp5Y5"
+    },
+    {
+      "added_at": "2022-06-23 14:53:44",
+      "album": {
+        "name": "Violence",
+        "url": "https://open.spotify.com/album/7q0Fdj0jZDoYWIGWY64x3A"
+      },
+      "artists": [
+        {
+          "name": "Editors",
+          "url": "https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI"
+        }
+      ],
+      "duration_ms": 235817,
+      "name": "Hallelujah (So Low)",
+      "url": "https://open.spotify.com/track/3aSqWoVZ18TK33qMgVUo0k"
     },
     {
       "added_at": "2022-06-23 14:53:44",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2022-06-23 14:53:44",
       "album": {
-        "name": "Pushing the Senses",
-        "url": "https://open.spotify.com/album/2Vd4HdtGhozi5Ky7gzSqNC"
-      },
-      "artists": [
-        {
-          "name": "Feeder",
-          "url": "https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR"
-        }
-      ],
-      "duration_ms": 207946,
-      "name": "Pushing The Senses",
-      "url": "https://open.spotify.com/track/5KLTqUuLMQzTFmUydRh1Ud"
-    },
-    {
-      "added_at": "2022-06-23 14:53:44",
-      "album": {
         "name": "The Vertigo of Bliss",
         "url": "https://open.spotify.com/album/5gFvzz68wze0kCwbkIwWeW"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 242693,
       "name": "Questions and Answers",
       "url": "https://open.spotify.com/track/6acLYdlH82V0GczGpIVuvi"
+    },
+    {
+      "added_at": "2022-06-23 14:53:44",
+      "album": {
+        "name": "Pushing the Senses",
+        "url": "https://open.spotify.com/album/2Vd4HdtGhozi5Ky7gzSqNC"
+      },
+      "artists": [
+        {
+          "name": "Feeder",
+          "url": "https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR"
+        }
+      ],
+      "duration_ms": 207946,
+      "name": "Pushing The Senses",
+      "url": "https://open.spotify.com/track/5KLTqUuLMQzTFmUydRh1Ud"
     },
     {
       "added_at": "2022-06-23 14:53:44",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2022-06-23 14:53:44",
       "album": {
-        "name": "Monolith",
-        "url": "https://open.spotify.com/album/4HQRSjBvCGeyKlxfVl5XyS"
-      },
-      "artists": [
-        {
-          "name": "Hobosexual",
-          "url": "https://open.spotify.com/artist/2iR3PsmigYfqj8EdkIwsJK"
-        }
-      ],
-      "duration_ms": 353582,
-      "name": "Trans Am Sunday",
-      "url": "https://open.spotify.com/track/72pKKGbVrb8tk0jpf1OCsF"
-    },
-    {
-      "added_at": "2022-06-23 14:53:44",
-      "album": {
         "name": "Black Love",
         "url": "https://open.spotify.com/album/2Plr11K7q3joEjDFSAOqvO"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 256200,
       "name": "Honky's Ladder",
       "url": "https://open.spotify.com/track/0IndpEG2dVS0rZS5xsLNXe"
+    },
+    {
+      "added_at": "2022-06-23 14:53:44",
+      "album": {
+        "name": "Monolith",
+        "url": "https://open.spotify.com/album/4HQRSjBvCGeyKlxfVl5XyS"
+      },
+      "artists": [
+        {
+          "name": "Hobosexual",
+          "url": "https://open.spotify.com/artist/2iR3PsmigYfqj8EdkIwsJK"
+        }
+      ],
+      "duration_ms": 353582,
+      "name": "Trans Am Sunday",
+      "url": "https://open.spotify.com/track/72pKKGbVrb8tk0jpf1OCsF"
     },
     {
       "added_at": "2022-06-23 14:53:44",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2022-06-23 14:53:44",
       "album": {
-        "name": "Four",
-        "url": "https://open.spotify.com/album/24mE0f0UXWd9YEpmKC3JtJ"
-      },
-      "artists": [
-        {
-          "name": "Bloc Party",
-          "url": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
-        }
-      ],
-      "duration_ms": 221120,
-      "name": "Kettling",
-      "url": "https://open.spotify.com/track/2LSE4990srPxQHyPhMOL3w"
-    },
-    {
-      "added_at": "2022-06-23 14:53:44",
-      "album": {
         "name": "Fools and Worthless Liars (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6hwf5oAm91GFtMGnuJ3l4I"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 289733,
       "name": "Hunstanton Pier",
       "url": "https://open.spotify.com/track/2y0rF0qJm5dHpdQbmufS0Q"
+    },
+    {
+      "added_at": "2022-06-23 14:53:44",
+      "album": {
+        "name": "Four",
+        "url": "https://open.spotify.com/album/24mE0f0UXWd9YEpmKC3JtJ"
+      },
+      "artists": [
+        {
+          "name": "Bloc Party",
+          "url": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
+        }
+      ],
+      "duration_ms": 221120,
+      "name": "Kettling",
+      "url": "https://open.spotify.com/track/2LSE4990srPxQHyPhMOL3w"
     },
     {
       "added_at": "2022-06-23 14:53:44",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2022-06-23 14:53:44",
       "album": {
-        "name": "The Day's War (Victory Edition)",
-        "url": "https://open.spotify.com/album/4Wj1eRz1I5uHtDpTOmuDCh"
-      },
-      "artists": [
-        {
-          "name": "Lonely The Brave",
-          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
-        }
-      ],
-      "duration_ms": 218520,
-      "name": "Trick of the Light",
-      "url": "https://open.spotify.com/track/5XT1xMhjkezsYacZ6nwhGm"
-    },
-    {
-      "added_at": "2022-06-23 14:53:44",
-      "album": {
         "name": "Pull a Little Closer",
         "url": "https://open.spotify.com/album/4MNPxWdAlcLQWptuduqfDw"
       },
@@ -1599,18 +1583,34 @@
     {
       "added_at": "2022-06-23 14:53:44",
       "album": {
-        "name": "Too Shabby",
-        "url": "https://open.spotify.com/album/6FmhJNymRTcWZKQnjhU897"
+        "name": "The Day's War (Victory Edition)",
+        "url": "https://open.spotify.com/album/4Wj1eRz1I5uHtDpTOmuDCh"
       },
       "artists": [
         {
-          "name": "Rozwell Kid",
-          "url": "https://open.spotify.com/artist/3g43Z25cVRJHFn8ph8cdO0"
+          "name": "Lonely The Brave",
+          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
         }
       ],
-      "duration_ms": 270634,
-      "name": "Kangaroo Pocket",
-      "url": "https://open.spotify.com/track/0xDOL7sItKiKMw7hdyUwas"
+      "duration_ms": 218520,
+      "name": "Trick of the Light",
+      "url": "https://open.spotify.com/track/5XT1xMhjkezsYacZ6nwhGm"
+    },
+    {
+      "added_at": "2022-06-23 14:53:44",
+      "album": {
+        "name": "Drenge",
+        "url": "https://open.spotify.com/album/0Wrn6T6l8C2zPtnuOUQtmB"
+      },
+      "artists": [
+        {
+          "name": "Drenge",
+          "url": "https://open.spotify.com/artist/1bqX4oZFTWIQFk90AwKfnC"
+        }
+      ],
+      "duration_ms": 152106,
+      "name": "Bloodsports",
+      "url": "https://open.spotify.com/track/2zn3hrsi0nrTe42JJxMgC8"
     }
   ],
   "unique_name": "Alternative Rock's Most Precious Gems",

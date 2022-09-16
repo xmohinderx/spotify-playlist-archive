@@ -1754,6 +1754,32 @@
     },
     {
       "album": {
+        "name": "Proper Sensi",
+        "url": "https://open.spotify.com/album/34Kn8UzygYGV7N5fEAMd4V"
+      },
+      "artists": [
+        {
+          "name": "JR Kenna",
+          "url": "https://open.spotify.com/artist/2ZwZZINTWJqycmO64P77kN"
+        },
+        {
+          "name": "Mr. Patze",
+          "url": "https://open.spotify.com/artist/2YQacuu8Y0C0iXXA4z7k25"
+        },
+        {
+          "name": "DJ Jeren",
+          "url": "https://open.spotify.com/artist/5QkPMsK0XHCvM6jCbKhuEJ"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183974,
+      "name": "Proper Sensi",
+      "url": "https://open.spotify.com/track/4Ga9D6SHCVUNsOLPVSZf9v"
+    },
+    {
+      "album": {
         "name": "Queen Majesty",
         "url": "https://open.spotify.com/album/2oiyHBqT0oX3x8tP9kwRV2"
       },

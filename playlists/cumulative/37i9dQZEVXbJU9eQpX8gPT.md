@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-777 songs - 1 day 18 hr 48 min - [published](https://open.spotify.com/playlist/6oVuoPZGB8lcas4ebv85iY)
+778 songs - 1 day 18 hr 52 min - [published](https://open.spotify.com/playlist/6oVuoPZGB8lcas4ebv85iY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [7asha Mok](https://open.spotify.com/track/4XJstfreHlHZHt71AxfgM2) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [7asha Mok](https://open.spotify.com/album/1ZD3yxQJiFiwRDELEDysgx) | 3:03 | 2021-06-26 | 2021-07-04 |
 | [7elmat \- ado 5](https://open.spotify.com/track/3ChKrdfRwVXo6XdeUYKAIh) | [Hamsik\_34](https://open.spotify.com/artist/02gJ8FjIC3Jx3nVbFrSVd5) | [7elmat \- ado 5](https://open.spotify.com/album/61nJHW7RxtEmpIVV381zNg) | 5:06 | 2022-01-08 | 2022-01-10 |
 | [7elmet Ado 5](https://open.spotify.com/track/6N6VxHim4ywblJrVI1h0UW) | [eArtist](https://open.spotify.com/artist/18ssWsvGGmgZk07LyGYUg9) | [7elmet Ado 5](https://open.spotify.com/album/5NSmzSS5Yl0HKFJ9OCLZAr) | 5:06 | 2022-01-04 | 2022-01-08 |
-| [7elmet Ado 5](https://open.spotify.com/track/6MvBKF1zyjUnnUUgfndWjF) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [7elmet Ado 5](https://open.spotify.com/album/2CDQGSeTetaCBUJFEev8bC) | 6:36 | 2022-01-15 |  |
+| [7elmet Ado 5](https://open.spotify.com/track/6MvBKF1zyjUnnUUgfndWjF) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [7elmet Ado 5](https://open.spotify.com/album/2CDQGSeTetaCBUJFEev8bC) | 6:36 | 2022-01-15 | 2022-09-16 |
 | [7jab](https://open.spotify.com/track/6kyMIEOOPOb9NAbHid5I5B) | [Diib](https://open.spotify.com/artist/1PAFc1G2WeoQ4DeGKETVdi), [Moro](https://open.spotify.com/artist/1akll7SRGZblDrbCF5eqYW) | [Immortal](https://open.spotify.com/album/6DIp3xw3tPfwQx9jHCoSLV) | 3:04 | 2022-05-28 | 2022-05-30 |
 | [9lil L7ya](https://open.spotify.com/track/72xRdkNgXfWTetqFPRxY7j) | [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS) | [9lil L7ya](https://open.spotify.com/album/3VaV1gAZfolzxzGGcZQ0zV) | 2:52 | 2021-10-18 | 2021-10-21 |
 | [9ortass](https://open.spotify.com/track/1m1RUXf2pARYhwNyaKd3ye) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [9ortass](https://open.spotify.com/album/43LzWtYzYJYCAcIHmTHzdr) | 2:49 | 2021-05-07 | 2021-11-24 |
@@ -66,6 +66,7 @@
 | [Amoriste II](https://open.spotify.com/track/7EXNdKEVnEs2UW4aOiI1l7) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Polygamie](https://open.spotify.com/album/29naWP00flAdzNNi60yohv) | 3:30 | 2022-01-29 | 2022-01-31 |
 | [Ana La Anam](https://open.spotify.com/track/0a1N6GQZL5RmEUQRTOlkHM) | [ISSAM](https://open.spotify.com/artist/37lslcg6zP6eAQAONiYvWN) | [Crystal](https://open.spotify.com/album/5DaSVXmnpAJDsXl7AJxYyO) | 2:51 | 2021-05-09 | 2021-05-12 |
 | [Another Life](https://open.spotify.com/track/1BVfBuPXpPusKN6YXcYHUE) | [Qaayel](https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv) | [Lore](https://open.spotify.com/album/6RlqE0VxRuxdXaT8yQK20m) | 3:18 | 2021-04-18 | 2021-04-19 |
+| [Another Love](https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down](https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ) | 4:04 | 2022-09-15 |  |
 | [Apocalypse](https://open.spotify.com/track/1UuhP4ld1PizaMNCEyMjKW) | [Diib](https://open.spotify.com/artist/1PAFc1G2WeoQ4DeGKETVdi) | [Immortal](https://open.spotify.com/album/6DIp3xw3tPfwQx9jHCoSLV) | 2:54 | 2022-05-28 | 2022-05-30 |
 | [Arabi](https://open.spotify.com/track/6l9szU9SbBqJKLU3L2QXmi) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Arabi](https://open.spotify.com/album/5BYolD1SiHzv16i7sqxhAX) | 2:56 | 2021-03-27\* | 2021-04-30 |
 | [Argent sal](https://open.spotify.com/track/4Jr3bWulhjhWAP3UlY3AdI) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Réelle vie 3.0](https://open.spotify.com/album/4nqsV5gavODGyZ2lx2M2tw) | 3:14 | 2021-11-28 | 2021-11-28 |

@@ -1,12 +1,12 @@
 {
   "description": "P fkn R. Esto llega al choliiiii. Cover: Young Miko",
-  "num_followers": 220527,
+  "num_followers": 220565,
   "original_name": "Rompiendo: Puerto Rico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDc2MDY4MiwwMDAwMDAwMDljY2U3NDc2MTliYjI0N2UxODhkOWIxZmVmODFlNTU2",
+  "snapshot_id": "MTY2MDc2MDY4MiwwMDAwMDAwMGM4NTZiMmJlYzRlZjRjNTg2NTdhODNmZjkyYTAwMmM0",
   "tracks": [
     {
       "added_at": "2022-08-17 18:24:42",
@@ -1359,6 +1359,30 @@
     {
       "added_at": "2022-08-17 18:24:42",
       "album": {
+        "name": "Philliecito",
+        "url": "https://open.spotify.com/album/73SIbYRDMPhMpu90ecbm7D"
+      },
+      "artists": [
+        {
+          "name": "Natti Natasha",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        },
+        {
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        }
+      ],
+      "duration_ms": 251807,
+      "name": "Philliecito",
+      "url": "https://open.spotify.com/track/0oWjcsqU11f12QCUSIHiI5"
+    },
+    {
+      "added_at": "2022-08-17 18:24:42",
+      "album": {
         "name": "Jangueo",
         "url": "https://open.spotify.com/album/5IlQPzzI4ighOkZCiCWwmi"
       },
@@ -1383,30 +1407,6 @@
       "duration_ms": 212727,
       "name": "Jangueo",
       "url": "https://open.spotify.com/track/6mgNiJ6pJS5SwvqxhEiMHj"
-    },
-    {
-      "added_at": "2022-08-17 18:24:42",
-      "album": {
-        "name": "Philliecito",
-        "url": "https://open.spotify.com/album/73SIbYRDMPhMpu90ecbm7D"
-      },
-      "artists": [
-        {
-          "name": "Natti Natasha",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        },
-        {
-          "name": "Nio Garcia",
-          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
-        },
-        {
-          "name": "Brray",
-          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
-        }
-      ],
-      "duration_ms": 251807,
-      "name": "Philliecito",
-      "url": "https://open.spotify.com/track/0oWjcsqU11f12QCUSIHiI5"
     }
   ],
   "unique_name": "Rompiendo: Puerto Rico",

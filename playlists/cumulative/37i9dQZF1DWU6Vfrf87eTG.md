@@ -4,7 +4,7 @@
 
 > Zone in \(or out\) with ethereal, meditative instrumental indie folk and acoustic tracks.
 
-164 songs - 9 hr 42 min - [published](https://open.spotify.com/playlist/1Tx1MEjzWZkrD2HrMsUqGL)
+165 songs - 9 hr 46 min - [published](https://open.spotify.com/playlist/1Tx1MEjzWZkrD2HrMsUqGL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,8 @@
 | [Oscilla](https://open.spotify.com/track/53V7XcwA8G4QVhheBYXAaA) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [Alta Falls](https://open.spotify.com/album/1cVZMnYMB105JUmmCJPL7X) | 1:52 | 2020-07-13 |  |
 | [Passepied \(Debussy\)](https://open.spotify.com/track/3TIzlAcIwj0O4NbmRg6nwh) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [The Phosphorescent Blues](https://open.spotify.com/album/3cdqpjwuTvDeLe3RYIGb0j) | 3:29 | 2020-07-13 |  |
 | [Perfect Instance](https://open.spotify.com/track/1DprJIKazijA5UkXiR6oQ6) | [City of the Sun](https://open.spotify.com/artist/4DkYxtaASIKQnk4Gj0TB7k) | [Perfect Instance](https://open.spotify.com/album/0q4lFbtl9ODtQVnwan4Nqr) | 4:13 | 2020-07-13 | 2022-07-29 |
-| [Perfect Instance](https://open.spotify.com/track/69KvYHBTocvA6jLNN7WbQk) | [City of the Sun](https://open.spotify.com/artist/4DkYxtaASIKQnk4Gj0TB7k) | [Untitled \- EP](https://open.spotify.com/album/6c7IDc8WjdO2PQus1sARLI) | 4:13 | 2020-07-13 |  |
+| [Perfect Instance](https://open.spotify.com/track/5VjkEwgF2agFKl61bjfeVS) | [City of the Sun](https://open.spotify.com/artist/4DkYxtaASIKQnk4Gj0TB7k) | [Untitled EP](https://open.spotify.com/album/6brySDNa2Z5to1l8md5N5m) | 4:13 | 2020-07-13 |  |
+| [Perfect Instance](https://open.spotify.com/track/69KvYHBTocvA6jLNN7WbQk) | [City of the Sun](https://open.spotify.com/artist/4DkYxtaASIKQnk4Gj0TB7k) | [Untitled \- EP](https://open.spotify.com/album/6c7IDc8WjdO2PQus1sARLI) | 4:13 | 2020-07-13 | 2022-09-16 |
 | [Quiet Voices](https://open.spotify.com/track/7zjVZdRtsQcyjISYINrLza) | [Mike Vass](https://open.spotify.com/artist/0JioBnavwTuX6mCdAS5j2D) | [In the Wake of Neil Gunn](https://open.spotify.com/album/1ksTLw7Isus59pU22ntTVK) | 3:48 | 2020-07-13 |  |
 | [Racing in Your Heart](https://open.spotify.com/track/4zS96Q1Ez9HsU3P9fy8N5g) | [Aaron Krause](https://open.spotify.com/artist/52MFUXZatn0KsT2bdPQI2a) | [Holding on to Love](https://open.spotify.com/album/3ZZCl3K8ZZA61skZ03gndS) | 3:35 | 2020-07-13 |  |
 | [Remington](https://open.spotify.com/track/6lsGZBXAJ4GFLF6UXdfXs5) | [The Honey Dewdrops](https://open.spotify.com/artist/42FAfgZpAliDGkyucfGnWM) | [Tangled Country](https://open.spotify.com/album/2HrPFeV2pa2SuwmcP4Ba9J) | 3:40 | 2020-07-13 |  |

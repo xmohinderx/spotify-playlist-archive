@@ -358,6 +358,24 @@
     },
     {
       "album": {
+        "name": "8 O 8",
+        "url": "https://open.spotify.com/album/0bsMDzBkn83MplomFKcG95"
+      },
+      "artists": [
+        {
+          "name": "J\u20acAN-MARC",
+          "url": "https://open.spotify.com/artist/4fWycrqzvhT6RfU76M5kSh"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202158,
+      "name": "8 O 8",
+      "url": "https://open.spotify.com/track/2RfmwyP48VHVQHUQJBAgIU"
+    },
+    {
+      "album": {
         "name": "Tough Love",
         "url": "https://open.spotify.com/album/5DAnXvsWlrq2zTPrjb8rjB"
       },
@@ -1403,7 +1421,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 146470,
       "name": "Betty (Get Money)",
       "url": "https://open.spotify.com/track/4cacyP5c3PMlfnyjpg13xW"
@@ -2567,7 +2585,7 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 235562,
       "name": "Cookie",
       "url": "https://open.spotify.com/track/2DwUdMJ5uxv20EhAildreg"
@@ -4249,7 +4267,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 216680,
-      "name": "Evergreen",
+      "name": "Evergreen (You Didn\u2019t Deserve Me At All)",
       "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
     },
     {
@@ -10577,10 +10595,28 @@
       ],
       "date_added": "2022-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 163902,
       "name": "Righteous",
       "url": "https://open.spotify.com/track/6pzXbWt70WzfOXp6xfbQWr"
+    },
+    {
+      "album": {
+        "name": "Righteous",
+        "url": "https://open.spotify.com/album/3V94UgGEHH6Au9bH1J4MnS"
+      },
+      "artists": [
+        {
+          "name": "Mo Beats",
+          "url": "https://open.spotify.com/artist/2Hil1oktsE7Wic4X5cBGK3"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163910,
+      "name": "Righteous",
+      "url": "https://open.spotify.com/track/2zG8L9QM7FnlKkLQYirIxh"
     },
     {
       "album": {
@@ -12667,6 +12703,24 @@
       "duration_ms": 407533,
       "name": "The Batman",
       "url": "https://open.spotify.com/track/4j4rlgZJTod9nzA3eFmZEP"
+    },
+    {
+      "album": {
+        "name": "Alone At Prom",
+        "url": "https://open.spotify.com/album/5Gm2XKBgnlzd6qTi7LE1z2"
+      },
+      "artists": [
+        {
+          "name": "Tory Lanez",
+          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226466,
+      "name": "The Color Violet",
+      "url": "https://open.spotify.com/track/3azJifCSqg9fRij2yKIbWz"
     },
     {
       "album": {

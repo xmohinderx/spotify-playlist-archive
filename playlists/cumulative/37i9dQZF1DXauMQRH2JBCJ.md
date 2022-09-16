@@ -4,7 +4,7 @@
 
 > All your favorite Disney songs wrapped up with love!
 
-82 songs - 4 hr 9 min - [published](https://open.spotify.com/playlist/5sKVVJySgFONogn0anMM3a)
+83 songs - 4 hr 11 min - [published](https://open.spotify.com/playlist/5sKVVJySgFONogn0anMM3a)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [When Will My Life Begin? \- From "Tangled" / Soundtrack Version](https://open.spotify.com/track/03xWMkKEbeO4SnylA53ipj) | [Mandy Moore](https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu) | [Tangled](https://open.spotify.com/album/1l0aFrH24oPrQSqGtfeFyE) | 2:32 | 2022-03-16 |  |
 | [When You Wish Upon a Star](https://open.spotify.com/track/0ENlXTc4TBupIJlXEtG3jn) | [Cliff Edwards](https://open.spotify.com/artist/0aeRagbqQCOKkVURrvcMrn), [Disney Studio Chorus](https://open.spotify.com/artist/0uxCcs6uoQy6StkrWS1QjW) | [Walt Disney Records The Legacy Collection: Pinocchio](https://open.spotify.com/album/4Slxo7bS6OnHarnmztOUO5) | 3:15 | 2022-03-16 | 2022-07-29 |
 | [When You Wish Upon a Star](https://open.spotify.com/track/1WrPa4lrIddctGWAIYYfP9) | [Cliff Edwards](https://open.spotify.com/artist/0aeRagbqQCOKkVURrvcMrn), [Disney Studio Chorus](https://open.spotify.com/artist/0uxCcs6uoQy6StkrWS1QjW) | [Pinocchio](https://open.spotify.com/album/5zsAzctyWGNrchLWXFvKgz) | 3:15 | 2022-07-07 |  |
+| [When You Wish Upon A Star](https://open.spotify.com/track/1fb6MBRagJq42pzMMFYhHf) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Pinocchio \(Original Soundtrack\)](https://open.spotify.com/album/6SUPM4fZiV55quCRQKOtYL) | 1:57 | 2022-09-15 |  |
 | [You'll Be In My Heart](https://open.spotify.com/track/7C11GdiguhLd9j7Y6jHFm9) | [Glenn Close](https://open.spotify.com/artist/5gYZraqDisF60MICASfpWe), [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Tarzan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1zszC1x9HYKxUCKVa62p7C) | 1:36 | 2022-07-07 |  |
 | [You'll Be In My Heart](https://open.spotify.com/track/0loKEMa9DP6mLibdFMe6Uv) | [Glenn Close](https://open.spotify.com/artist/5gYZraqDisF60MICASfpWe), [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Tarzan Original Soundtrack](https://open.spotify.com/album/6fBzYwBKjuO4hmhcGuklJM) | 1:36 | 2022-03-16 | 2022-07-29 |
 

@@ -1,12 +1,12 @@
 {
   "description": "The songs you love, in ways you\u2019ve never heard before.  Cover: Calpurnia.",
-  "num_followers": 402541,
+  "num_followers": 402631,
   "original_name": "Spotify Singles: Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA1NzQzMSwwMDAwMDAwMGI1MzIyYzkxMDAxMzg1OTA2MmUyOWI0OWVjYTNjOTZi",
+  "snapshot_id": "MTY2MjA1NzQzMSwwMDAwMDAwMDQ4Yzg4ZTUxZmNmNTg0MGNkYWVjOGNjMTc0MWVmNDlh",
   "tracks": [
     {
       "added_at": "2022-06-07 21:29:02",
@@ -123,22 +123,6 @@
     {
       "added_at": "2022-06-07 21:29:02",
       "album": {
-        "name": "Thinking of You (Spotify Singles)",
-        "url": "https://open.spotify.com/album/4TOyAu2CWO1kPitP0AxAZV"
-      },
-      "artists": [
-        {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
-        }
-      ],
-      "duration_ms": 272125,
-      "name": "Thinking of You (Spotify Singles)",
-      "url": "https://open.spotify.com/track/0Muqa8sNqVvjEQo4yfBKXw"
-    },
-    {
-      "added_at": "2022-06-07 21:29:02",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0dlIoNzi1FAca3VcyPFj5S"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 265652,
       "name": "Every Time You Go Away",
       "url": "https://open.spotify.com/track/5OtvDpNhxUde1hkAjvzSzE"
+    },
+    {
+      "added_at": "2022-06-07 21:29:02",
+      "album": {
+        "name": "Thinking of You (Spotify Singles)",
+        "url": "https://open.spotify.com/album/4TOyAu2CWO1kPitP0AxAZV"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "duration_ms": 272125,
+      "name": "Thinking of You (Spotify Singles)",
+      "url": "https://open.spotify.com/track/0Muqa8sNqVvjEQo4yfBKXw"
     },
     {
       "added_at": "2022-06-07 21:29:02",
@@ -176,22 +176,6 @@
       "added_at": "2022-06-07 21:29:02",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/14mR6XKPmsxzvOYCkqubJF"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 177214,
-      "name": "Baby One More Time - Recorded at Spotify Studios New York City",
-      "url": "https://open.spotify.com/track/4mJDfMcT7odIUjWlb2WO4L"
-    },
-    {
-      "added_at": "2022-06-07 21:29:02",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3k3IHMRB7BZEf9VEh4HZsm"
       },
       "artists": [
@@ -203,6 +187,22 @@
       "duration_ms": 220812,
       "name": "Friday I\u2019m In Love - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/6vC7mF2CXYW6MVF2voO4FU"
+    },
+    {
+      "added_at": "2022-06-07 21:29:02",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/14mR6XKPmsxzvOYCkqubJF"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 177214,
+      "name": "Baby One More Time - Recorded at Spotify Studios New York City",
+      "url": "https://open.spotify.com/track/4mJDfMcT7odIUjWlb2WO4L"
     },
     {
       "added_at": "2022-06-07 21:29:02",
@@ -600,22 +600,6 @@
       "added_at": "2022-06-07 21:29:02",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6zsyF9yFf1KzJIt4mJJNzj"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 154764,
-      "name": "Have You Ever Seen The Rain - Recorded at Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/1iZdFYJujH9VZtj7c0Xw2y"
-    },
-    {
-      "added_at": "2022-06-07 21:29:02",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5lLa32kU65Y7mhYLMiEcXn"
       },
       "artists": [
@@ -627,6 +611,22 @@
       "duration_ms": 250836,
       "name": "Tim McGraw - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5sn1BmEOPP1bu4cZq9OgoF"
+    },
+    {
+      "added_at": "2022-06-07 21:29:02",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6zsyF9yFf1KzJIt4mJJNzj"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 154764,
+      "name": "Have You Ever Seen The Rain - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/1iZdFYJujH9VZtj7c0Xw2y"
     },
     {
       "added_at": "2022-06-07 21:29:02",
@@ -792,22 +792,6 @@
       "added_at": "2022-06-07 21:29:02",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6L8bGsHdlWg26U5SE5ed8w"
-      },
-      "artists": [
-        {
-          "name": "Laura Marling",
-          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
-        }
-      ],
-      "duration_ms": 164509,
-      "name": "Kathy\u2019s Song - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/7nebNowPcMMBKgjaS1nJlm"
-    },
-    {
-      "added_at": "2022-06-07 21:29:02",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3t6qlpHjZ5sqv49NbUB5Rn"
       },
       "artists": [
@@ -824,6 +808,22 @@
       "added_at": "2022-06-07 21:29:02",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6L8bGsHdlWg26U5SE5ed8w"
+      },
+      "artists": [
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "duration_ms": 164509,
+      "name": "Kathy\u2019s Song - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/7nebNowPcMMBKgjaS1nJlm"
+    },
+    {
+      "added_at": "2022-06-07 21:29:02",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7xPNSOtnXFMOsTnvQrLeXH"
       },
       "artists": [
@@ -835,6 +835,22 @@
       "duration_ms": 206079,
       "name": "Motivation - Recorded at Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/6vFifFwgq4Z3csFE6zi9Fd"
+    },
+    {
+      "added_at": "2022-06-07 21:29:02",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5WSVBLmTp6Fgjm2Dwyu3vr"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 258862,
+      "name": "Day \u2018n\u2019 Nite - Spotify Singles",
+      "url": "https://open.spotify.com/track/6M0tj2hONdMEveSWg3JdQG"
     },
     {
       "added_at": "2022-06-07 21:29:02",
@@ -867,22 +883,6 @@
       "duration_ms": 208558,
       "name": "LA DESPEDIDA - Live - Spotify Singles",
       "url": "https://open.spotify.com/track/3RMigTAghPnfNXpmzqe1C7"
-    },
-    {
-      "added_at": "2022-06-07 21:29:02",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5WSVBLmTp6Fgjm2Dwyu3vr"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 258862,
-      "name": "Day \u2018n\u2019 Nite - Spotify Singles",
-      "url": "https://open.spotify.com/track/6M0tj2hONdMEveSWg3JdQG"
     },
     {
       "added_at": "2022-06-07 21:29:02",
@@ -1164,6 +1164,22 @@
       "added_at": "2022-06-07 21:29:02",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4U1VNYvSn36Xgak49ScRZD"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 173641,
+      "name": "California Dreamin' - Spotify Singles",
+      "url": "https://open.spotify.com/track/7D0q9XQg10KdlrjdDrrHph"
+    },
+    {
+      "added_at": "2022-06-07 21:29:02",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3yPPJlOdCyJVVXR7z7BmFs"
       },
       "artists": [
@@ -1179,22 +1195,6 @@
       "duration_ms": 177261,
       "name": "Watermelon Sugar (featuring Avenue Beat)",
       "url": "https://open.spotify.com/track/6pPD1k342KK4fMU6xPHufi"
-    },
-    {
-      "added_at": "2022-06-07 21:29:02",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4U1VNYvSn36Xgak49ScRZD"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 173641,
-      "name": "California Dreamin' - Spotify Singles",
-      "url": "https://open.spotify.com/track/7D0q9XQg10KdlrjdDrrHph"
     },
     {
       "added_at": "2022-06-07 21:29:02",
@@ -1232,22 +1232,6 @@
       "added_at": "2022-06-07 21:29:02",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5n4jQZpHLAWOVccZKttKSD"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 111050,
-      "name": "Nothing from Nothing - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5YLpIdoLpKPSPCamFAKUCi"
-    },
-    {
-      "added_at": "2022-06-07 21:29:02",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1XXSHevNKbENDXqH5iRSEC"
       },
       "artists": [
@@ -1259,6 +1243,22 @@
       "duration_ms": 147427,
       "name": "7 Years (Acoustic) - Recorded at Spotify Studios Nyc",
       "url": "https://open.spotify.com/track/1VK5JYdgrJZENDl1taa2cS"
+    },
+    {
+      "added_at": "2022-06-07 21:29:02",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5n4jQZpHLAWOVccZKttKSD"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 111050,
+      "name": "Nothing from Nothing - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5YLpIdoLpKPSPCamFAKUCi"
     },
     {
       "added_at": "2022-06-07 21:29:02",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2022-06-07 21:29:02",
       "album": {
-        "name": "Singles (Live From Spotify Studios NYC)",
-        "url": "https://open.spotify.com/album/6AxauGOAykVQ8CU209PzQv"
-      },
-      "artists": [
-        {
-          "name": "Chelsea Cutler",
-          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
-        }
-      ],
-      "duration_ms": 214381,
-      "name": "Summer Love - Live From Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2fsViUVkh7lh6gYDwvsvFH"
-    },
-    {
-      "added_at": "2022-06-07 21:29:02",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3Kvg9h8w3OMPNkDISwcal8"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 239346,
       "name": "Dreams - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2q9jsX0poviVu9OSWgmRYg"
+    },
+    {
+      "added_at": "2022-06-07 21:29:02",
+      "album": {
+        "name": "Singles (Live From Spotify Studios NYC)",
+        "url": "https://open.spotify.com/album/6AxauGOAykVQ8CU209PzQv"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Cutler",
+          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+        }
+      ],
+      "duration_ms": 214381,
+      "name": "Summer Love - Live From Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2fsViUVkh7lh6gYDwvsvFH"
     },
     {
       "added_at": "2022-06-07 21:29:02",
@@ -1400,22 +1400,6 @@
       "added_at": "2022-06-07 21:29:02",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/66BHCqvohArD6Hk2uga5dX"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 256893,
-      "name": "Pony - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0exKMPo2iind68yWTaHCrr"
-    },
-    {
-      "added_at": "2022-06-07 21:29:02",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6sHBQWEvoS10m9PE9mY9ND"
       },
       "artists": [
@@ -1427,6 +1411,22 @@
       "duration_ms": 195920,
       "name": "Leave (Get Out) - Recorded at Metropolis Studios, London",
       "url": "https://open.spotify.com/track/6ClEErrTmd3GzRqGiCEC8G"
+    },
+    {
+      "added_at": "2022-06-07 21:29:02",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/66BHCqvohArD6Hk2uga5dX"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 256893,
+      "name": "Pony - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0exKMPo2iind68yWTaHCrr"
     },
     {
       "added_at": "2022-06-07 21:29:02",
@@ -1828,6 +1828,22 @@
       "added_at": "2022-06-07 21:29:02",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5biFYkYP5v0k9OavG4CCoK"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "duration_ms": 235579,
+      "name": "What I Am - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/6EjU3Hev5VZZmpPjoyNZVX"
+    },
+    {
+      "added_at": "2022-06-07 21:29:02",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6kTnZzeB1WcyjYZDRS4Wci"
       },
       "artists": [
@@ -1844,17 +1860,17 @@
       "added_at": "2022-06-07 21:29:02",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5biFYkYP5v0k9OavG4CCoK"
+        "url": "https://open.spotify.com/album/0AsNH8uuIf5hLbreW4zQSc"
       },
       "artists": [
         {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+          "name": "Nina Nesbitt",
+          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
         }
       ],
-      "duration_ms": 235579,
-      "name": "What I Am - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/6EjU3Hev5VZZmpPjoyNZVX"
+      "duration_ms": 301144,
+      "name": "Cry Me a River - Recorded at Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/3pRtmEYL0hN9Lgn0IkNOra"
     },
     {
       "added_at": "2022-06-07 21:29:02",
@@ -1887,22 +1903,6 @@
       "duration_ms": 346397,
       "name": "Hallelujah - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/33ZIaxsct3MDc0oSPxgY76"
-    },
-    {
-      "added_at": "2022-06-07 21:29:02",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0AsNH8uuIf5hLbreW4zQSc"
-      },
-      "artists": [
-        {
-          "name": "Nina Nesbitt",
-          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
-        }
-      ],
-      "duration_ms": 301144,
-      "name": "Cry Me a River - Recorded at Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/3pRtmEYL0hN9Lgn0IkNOra"
     },
     {
       "added_at": "2022-06-07 21:29:02",
@@ -2004,6 +2004,22 @@
       "added_at": "2022-06-07 21:29:02",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3Cxj3L18VM6Iytn2CeQw4j"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "duration_ms": 231132,
+      "name": "Flume - Spotify Singles",
+      "url": "https://open.spotify.com/track/6DaG27cevNVA1lozVKd6dw"
+    },
+    {
+      "added_at": "2022-06-07 21:29:02",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0KXD9ty7gjj5C6XKAFezMg"
       },
       "artists": [
@@ -2036,22 +2052,6 @@
       "added_at": "2022-06-07 21:29:02",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3Cxj3L18VM6Iytn2CeQw4j"
-      },
-      "artists": [
-        {
-          "name": "FINNEAS",
-          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
-        }
-      ],
-      "duration_ms": 231132,
-      "name": "Flume - Spotify Singles",
-      "url": "https://open.spotify.com/track/6DaG27cevNVA1lozVKd6dw"
-    },
-    {
-      "added_at": "2022-06-07 21:29:02",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3r2nsltTqzo00OsH4aty5a"
       },
       "artists": [
@@ -2063,26 +2063,6 @@
       "duration_ms": 278611,
       "name": "Hannah Hunt - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2es17WUR55CXoDIcKtT0eZ"
-    },
-    {
-      "added_at": "2022-06-07 21:29:02",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6XI7j88Hmfye0TXQgp0DcU"
-      },
-      "artists": [
-        {
-          "name": "Dennis Lloyd",
-          "url": "https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt"
-        },
-        {
-          "name": "Tom Morello",
-          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
-        }
-      ],
-      "duration_ms": 259188,
-      "name": "Like A Stone (feat. Tom Morello) - Recorded at Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/6bbEWtu7bQtl5a5cZStE0z"
     },
     {
       "added_at": "2022-06-07 21:29:02",
@@ -2115,6 +2095,26 @@
       "duration_ms": 205583,
       "name": "For You - Recorded At Spotify Studios Stockholm",
       "url": "https://open.spotify.com/track/4AHIgOApMmqVfpvc1hxK6x"
+    },
+    {
+      "added_at": "2022-06-07 21:29:02",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6XI7j88Hmfye0TXQgp0DcU"
+      },
+      "artists": [
+        {
+          "name": "Dennis Lloyd",
+          "url": "https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt"
+        },
+        {
+          "name": "Tom Morello",
+          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+        }
+      ],
+      "duration_ms": 259188,
+      "name": "Like A Stone (feat. Tom Morello) - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/6bbEWtu7bQtl5a5cZStE0z"
     },
     {
       "added_at": "2022-06-07 21:29:02",
@@ -2440,22 +2440,6 @@
       "added_at": "2022-06-07 21:29:02",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3PtrWbEYEoqYWpgMeIAFb9"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 188528,
-      "name": "You Can Call Me Al - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2AgqXfsn2W4lXjchlqRyz1"
-    },
-    {
-      "added_at": "2022-06-07 21:29:02",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/10hkWR17NEvncSn3w1sYPz"
       },
       "artists": [
@@ -2467,6 +2451,22 @@
       "duration_ms": 225632,
       "name": "Happier - Recorded At Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/57DVaIfWIKSx3zW9mcVFhc"
+    },
+    {
+      "added_at": "2022-06-07 21:29:02",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3PtrWbEYEoqYWpgMeIAFb9"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 188528,
+      "name": "You Can Call Me Al - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2AgqXfsn2W4lXjchlqRyz1"
     }
   ],
   "unique_name": "Spotify Singles: Covers",

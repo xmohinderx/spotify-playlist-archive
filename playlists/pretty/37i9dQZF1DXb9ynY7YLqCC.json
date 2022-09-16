@@ -1,12 +1,12 @@
 {
   "description": "Canciones directas y banderas al viento. Foto: La 25.",
-  "num_followers": 126981,
+  "num_followers": 127045,
   "original_name": "Rock Barrial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzI0OTIwMCwwMDAwMDAwMGVlZmQ4NWIzMzcxYWZkNGY0MDVlYTliOGFmN2U5NTA3",
+  "snapshot_id": "MTY1NzI0OTIwMCwwMDAwMDAwMGU5ZTk1NDBhZmExNzc3MTU1N2YyYmZjMTZlNDk2ZDMw",
   "tracks": [
     {
       "added_at": "2022-07-08 03:00:00",
@@ -379,6 +379,22 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
+        "name": "Momo Sampler",
+        "url": "https://open.spotify.com/album/4Evme9w1iDX33jAxbhPg48"
+      },
+      "artists": [
+        {
+          "name": "Patricio Rey y sus Redonditos de Ricota",
+          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+        }
+      ],
+      "duration_ms": 220466,
+      "name": "Una Piba Con la Remera de Greenpeace",
+      "url": "https://open.spotify.com/track/1kpfJ0SL830ZfK0IXaAnwd"
+    },
+    {
+      "added_at": "2022-07-08 03:00:00",
+      "album": {
         "name": "A Trav\u00e9s del Mar de los Sargazos",
         "url": "https://open.spotify.com/album/3eES9LlGLw5o7ZNbOfmscZ"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 259146,
       "name": "Sapo de Otro Pozo",
       "url": "https://open.spotify.com/track/1g0mhq4ZDQE3cTd1XLcYVf"
-    },
-    {
-      "added_at": "2022-07-08 03:00:00",
-      "album": {
-        "name": "Momo Sampler",
-        "url": "https://open.spotify.com/album/4Evme9w1iDX33jAxbhPg48"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 220466,
-      "name": "Una Piba Con la Remera de Greenpeace",
-      "url": "https://open.spotify.com/track/1kpfJ0SL830ZfK0IXaAnwd"
     },
     {
       "added_at": "2022-07-08 03:00:00",
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "Narig\u00f3n del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre",
-        "url": "https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU"
-      },
-      "artists": [
-        {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
-        }
-      ],
-      "duration_ms": 198706,
-      "name": "Par Mil",
-      "url": "https://open.spotify.com/track/0wUFXsXHZc2h6wKRcmJNWF"
-    },
-    {
-      "added_at": "2022-07-08 03:00:00",
-      "album": {
         "name": "La Renga",
         "url": "https://open.spotify.com/album/58M6gPLnHqTnE5z2dRbKNH"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 295773,
       "name": "Cuando Est\u00e9s Ac\u00e1",
       "url": "https://open.spotify.com/track/2rEAG7lKACyW5YVS3KsNoN"
+    },
+    {
+      "added_at": "2022-07-08 03:00:00",
+      "album": {
+        "name": "Narig\u00f3n del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre",
+        "url": "https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU"
+      },
+      "artists": [
+        {
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+        }
+      ],
+      "duration_ms": 198706,
+      "name": "Par Mil",
+      "url": "https://open.spotify.com/track/0wUFXsXHZc2h6wKRcmJNWF"
     },
     {
       "added_at": "2022-07-08 03:00:00",
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "Toro Rojo",
-        "url": "https://open.spotify.com/album/5RQqvJeGRUrvVbvKGlMceO"
+        "name": "Seremos",
+        "url": "https://open.spotify.com/album/1FiHP8cmZtVmK74SqjEdop"
       },
       "artists": [
         {
-          "name": "Guasones",
-          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
+          "name": "Salta La Banca",
+          "url": "https://open.spotify.com/artist/4JathQD0aoyE5WwaIB2JxC"
         }
       ],
-      "duration_ms": 188586,
-      "name": "Down",
-      "url": "https://open.spotify.com/track/134qy1huhbABWZV86Jy0l1"
+      "duration_ms": 208186,
+      "name": "Seremos",
+      "url": "https://open.spotify.com/track/2PEiV0Dl5Z70afQEW2wxDg"
     },
     {
       "added_at": "2022-07-08 03:00:00",
@@ -1163,34 +1163,18 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "Seremos",
-        "url": "https://open.spotify.com/album/1FiHP8cmZtVmK74SqjEdop"
+        "name": "Toro Rojo",
+        "url": "https://open.spotify.com/album/5RQqvJeGRUrvVbvKGlMceO"
       },
       "artists": [
         {
-          "name": "Salta La Banca",
-          "url": "https://open.spotify.com/artist/4JathQD0aoyE5WwaIB2JxC"
+          "name": "Guasones",
+          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
         }
       ],
-      "duration_ms": 208186,
-      "name": "Seremos",
-      "url": "https://open.spotify.com/track/2PEiV0Dl5Z70afQEW2wxDg"
-    },
-    {
-      "added_at": "2022-07-08 03:00:00",
-      "album": {
-        "name": "Alma en Pe\u00f1a",
-        "url": "https://open.spotify.com/album/04kBrvfJ42EVMYq3SJbN1X"
-      },
-      "artists": [
-        {
-          "name": "Salamandra",
-          "url": "https://open.spotify.com/artist/1sLot73qJ4Vbh4nPuwzvj9"
-        }
-      ],
-      "duration_ms": 236605,
-      "name": "Solito",
-      "url": "https://open.spotify.com/track/3lomF1J4N3LQXkbkAZxw9v"
+      "duration_ms": 188586,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/134qy1huhbABWZV86Jy0l1"
     },
     {
       "added_at": "2022-07-08 03:00:00",
@@ -1207,6 +1191,22 @@
       "duration_ms": 271571,
       "name": "Chico Com\u00fan",
       "url": "https://open.spotify.com/track/3FxMlzkBfekU3gNliu571t"
+    },
+    {
+      "added_at": "2022-07-08 03:00:00",
+      "album": {
+        "name": "Alma en Pe\u00f1a",
+        "url": "https://open.spotify.com/album/04kBrvfJ42EVMYq3SJbN1X"
+      },
+      "artists": [
+        {
+          "name": "Salamandra",
+          "url": "https://open.spotify.com/artist/1sLot73qJ4Vbh4nPuwzvj9"
+        }
+      ],
+      "duration_ms": 236605,
+      "name": "Solito",
+      "url": "https://open.spotify.com/track/3lomF1J4N3LQXkbkAZxw9v"
     },
     {
       "added_at": "2022-07-08 03:00:00",

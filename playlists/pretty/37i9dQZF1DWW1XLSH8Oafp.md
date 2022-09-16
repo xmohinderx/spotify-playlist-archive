@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring FOURA
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,383 likes - 104 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,487 likes - 104 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

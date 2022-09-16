@@ -35,7 +35,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 149231,
       "name": "Ain't Going Back",
       "url": "https://open.spotify.com/track/1Iot1CYAcasgCDUxndVt7D"
@@ -225,6 +225,24 @@
       "duration_ms": 183103,
       "name": "Buga (Lo Lo Lo)",
       "url": "https://open.spotify.com/track/4eZZofkV1OQ9GDqAgHqNpA"
+    },
+    {
+      "album": {
+        "name": "Busy Body",
+        "url": "https://open.spotify.com/album/0kJkqSIDqQyWeLIeXoCFaU"
+      },
+      "artists": [
+        {
+          "name": "Dr. Chaii",
+          "url": "https://open.spotify.com/artist/608Tz9GUNqRDkHGprJv3Og"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138925,
+      "name": "Busy Body",
+      "url": "https://open.spotify.com/track/7aiVW0HwmXzc0IDP7hynqJ"
     },
     {
       "album": {
@@ -761,8 +779,8 @@
           "url": "https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV"
         },
         {
-          "name": "Toss",
-          "url": "https://open.spotify.com/artist/7cNkaagztQbDP9bSrtkM1U"
+          "name": "TOSS",
+          "url": "https://open.spotify.com/artist/0JwjW1x56tK5hnHvlRSSw9"
         }
       ],
       "date_added": "2022-09-08",
@@ -863,7 +881,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 183092,
       "name": "Moments",
       "url": "https://open.spotify.com/track/53rvxSNmKhy7wMAAygyYWr"
@@ -1358,6 +1376,24 @@
     },
     {
       "album": {
+        "name": "3 x 2 EP",
+        "url": "https://open.spotify.com/album/4dvYDMor2bCeiyQh7hK4dJ"
+      },
+      "artists": [
+        {
+          "name": "Bakongo",
+          "url": "https://open.spotify.com/artist/4FmchdtAj76UxQiNOjCgMo"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308356,
+      "name": "Tribal Warrior",
+      "url": "https://open.spotify.com/track/5nlOnRGgf46AmVzyAPDPyh"
+    },
+    {
+      "album": {
         "name": "Trouble - Spotify Singles",
         "url": "https://open.spotify.com/album/2m0Xqa3n7iERLXzSMUchf8"
       },
@@ -1417,7 +1453,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 190639,
       "name": "TWITCH",
       "url": "https://open.spotify.com/track/6jZXep6N4A3xbSTVxHAEBh"
@@ -1605,6 +1641,28 @@
       "duration_ms": 391186,
       "name": "Woza",
       "url": "https://open.spotify.com/track/3830LcxTUk1zTWA51f5xfF"
+    },
+    {
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/4fgDSI70opc5iYRVcPBb5w"
+      },
+      "artists": [
+        {
+          "name": "Roska",
+          "url": "https://open.spotify.com/artist/5p8U1acntDKzfbbZLwWYE5"
+        },
+        {
+          "name": "Murder He Wrote",
+          "url": "https://open.spotify.com/artist/4n11sJzNp7JjBQw9sDze9Z"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255004,
+      "name": "You",
+      "url": "https://open.spotify.com/track/6u3r5ZllVScUXAHVSLsJVC"
     },
     {
       "album": {

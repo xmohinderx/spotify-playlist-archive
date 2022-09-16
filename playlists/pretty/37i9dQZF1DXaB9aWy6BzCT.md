@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaB9aWy6BzCT.md) - [plain]
 
 > Los grandes éxitos de Daddy Yankee y Nicky Jam en un mismo lugar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,550 likes - 57 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,690 likes - 57 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaB9aWy6BzCT.md) - [plain]
 | 33 | [Cheerleader \(feat\. Nicky Jam\) \- Felix Jaehn Remix](https://open.spotify.com/track/2Pc6PwPhcIThcK34ElYJri) | [OMI](https://open.spotify.com/artist/5MouCg6ta7zAxsfMEbc1uh), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Cheerleader \(feat\. Nicky Jam\) \[Felix Jaehn Remix\]](https://open.spotify.com/album/2iTOL3spi3OG2FH4wKismY) | 3:00 |
 | 34 | [Si Supieras](https://open.spotify.com/track/7MRU4vOkywuhZ9kbFiPuiu) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Si Supieras](https://open.spotify.com/album/4lmKt00bHLEeqJRTlNOxXS) | 4:01 |
 | 35 | [Piensas en Mí](https://open.spotify.com/track/2uhkqlbBlLRYItG0eDzFTR) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Piensas en Mí](https://open.spotify.com/album/5ZaSzyQcoisKR0DHwKbKHx) | 4:15 |
-| 36 | [Llamado de Emergencia](https://open.spotify.com/track/3bkBVEmRJuJZNh5iVgJkWm) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Talento de Barrio](https://open.spotify.com/album/5fn6sCofBYgRn6OICMeDvr) | 3:59 |
+| 36 | [Llamado de Emergencia](https://open.spotify.com/track/2jnZUvhw2LTvDI6YidRVcO) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Talento de Barrio](https://open.spotify.com/album/7JeWY0pvC27pCgn5eiSeV6) | 3:59 |
 | 37 | [Si Tú No Estás](https://open.spotify.com/track/2pDODfTQlKUvlq2lc83Whl) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Si Tú No Estás](https://open.spotify.com/album/0amNwDcNVIINDp6zXfjxSg) | 3:38 |
 | 38 | [El Desorden](https://open.spotify.com/track/0JOUrhZGMCx3lk9VosAQWl) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [El Desorden](https://open.spotify.com/album/4mB0S19kFt0O2REi1W21mB) | 3:10 |
 | 39 | [Tu Hombre \(feat\. Daddy Yankee\)](https://open.spotify.com/track/3u8fKvW5X1zvrsweW5h2xa) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Fénix](https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ) | 3:24 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaB9aWy6BzCT.md) - [plain]
 | 56 | [Descontrol](https://open.spotify.com/track/42RRK0WSxwG117CEFHdGOY) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Mundial \(Deluxe Version\)](https://open.spotify.com/album/45se0M80yOL4t9j3REDyEK) | 2:52 |
 | 57 | [Bella y Sensual](https://open.spotify.com/track/0ERbK7qVqveCaBWIiYCrl3) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Golden](https://open.spotify.com/album/6bm9EpUNvQ9xMglBJGRmgS) | 3:24 |
 
-Snapshot ID: `MTY2MDc1NjY5NCwwMDAwMDAwMDUzYzE1MjcwODg0ZDMyYjZiZDM5MTRmNmEyMTAyYjU5`
+Snapshot ID: `MTY2MDc1NjY5NCwwMDAwMDAwMDc3OTg4NDVmYmZiNTQ3ZWU4NjBkZGQ5YTllMzc5YzU1`

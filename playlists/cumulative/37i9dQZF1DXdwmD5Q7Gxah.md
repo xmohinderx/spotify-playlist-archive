@@ -4,7 +4,7 @@
 
 > because a little left of center is best\. cover: magdalena bay
 
-1,839 songs - 4 day 2 hr 27 min - [published](https://open.spotify.com/playlist/2xUOX5SyncubeZSn9gFeBN)
+1,840 songs - 4 day 2 hr 30 min - [published](https://open.spotify.com/playlist/2xUOX5SyncubeZSn9gFeBN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -514,8 +514,8 @@
 | [Eugene](https://open.spotify.com/track/0sT4slW2xWai3EwVSiuL9Y) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:43 | 2021-07-17 | 2021-07-23 |
 | [Ever Again](https://open.spotify.com/track/2E5e4J3nm1LMHkqTS21Dlq) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Honey](https://open.spotify.com/album/6WZjFvrzwq8SOGe0r8R3qk) | 4:24 | 2021-01-29 | 2021-02-06 |
 | [Ever Since New York](https://open.spotify.com/track/5LABCxgmP7DATATIJXOh6n) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 4:13 | 2019-07-30\* | 2020-11-27 |
-| [Evergreen](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 | 2022-04-15 |  |
 | [Evergreen](https://open.spotify.com/track/6YtylNU7D1S5SeO529q2AN) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Dreaming of David](https://open.spotify.com/album/1pnXY39h7XjEYGmS6PeKUZ) | 3:44 | 2020-01-31 | 2020-09-04 |
+| [Evergreen \(You Didn’t Deserve Me At All\)](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 | 2022-04-15 |  |
 | [everybody knows](https://open.spotify.com/track/22oZClHIaftOvNr3DRQwAQ) | [Baby Storme](https://open.spotify.com/artist/7cwYKm54nTTbnm0UnH0xBe) | [everybody knows](https://open.spotify.com/album/1w28XzCMMbzWyL5K6bUwPX) | 3:22 | 2021-02-19 | 2021-05-15 |
 | [Everybody Wants To Be Famous](https://open.spotify.com/track/4BVFVaa1fDo20Ud1q5Gd2N) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE) | [Superorganism](https://open.spotify.com/album/15TFB6uLZlb3gnCysRrLix) | 3:04 | 2021-01-12 | 2021-03-14 |
 | [Everything \(That Should Go\)](https://open.spotify.com/track/7dhMdKFbUQC3IFCQt7LRQk) | [Miloe](https://open.spotify.com/artist/3HdQTgQSncptIPjDgskWbu) | [Everything \(That Should Go\)](https://open.spotify.com/album/3UgCI9hh49Zce6uD2IYly8) | 3:21 | 2021-06-05 | 2021-06-11 |
@@ -1682,7 +1682,8 @@
 | [Tonight \(I Wish I Was Your Boy\)](https://open.spotify.com/track/3AQrryq4mc956K3RtLZAFo) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Notes On a Conditional Form](https://open.spotify.com/album/65l2wbCvQ1XGtZ4PbKqF2i) | 4:07 | 2020-05-22 | 2020-08-20 |
 | [Took My Time \(feat\. rei brown & sam.sts\)](https://open.spotify.com/track/2wvoPGQYWIHzoORg8OnmTe) | [Lecx Stacy](https://open.spotify.com/artist/3hf2fbkCVahsazNW73SovO), [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6), [sam.sts](https://open.spotify.com/artist/0d9jID12w4gsq8YKFiLd9B) | [Took My Time](https://open.spotify.com/album/0zIgcRJ7HsQNk0s8KjBHHp) | 3:45 | 2022-08-18 | 2022-08-27 |
 | [Toothache](https://open.spotify.com/track/5Fh66E0Z0rCOc5aERgY8I6) | [RICEWINE](https://open.spotify.com/artist/6Vf4rmMsQbAwiCG00YeEI7) | [Toothache](https://open.spotify.com/album/05hcgffjnTMd4hQXYTOGqK) | 4:54 | 2019-08-02 | 2019-10-03 |
-| [touch tank](https://open.spotify.com/track/7DrzZN5jaDyE0a0tVuVWnj) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [touch tank](https://open.spotify.com/album/4cH0G6g1NcPguHQ8aOk1h6) | 2:59 | 2022-07-01 |  |
+| [touch tank](https://open.spotify.com/track/1S3ZeV4CEdqbzBYwu0pxE7) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [touch tank](https://open.spotify.com/album/4XsixtHgUzRfUd9zrhX5eh) | 2:59 | 2022-07-01 |  |
+| [touch tank](https://open.spotify.com/track/7DrzZN5jaDyE0a0tVuVWnj) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [touch tank](https://open.spotify.com/album/4cH0G6g1NcPguHQ8aOk1h6) | 2:59 | 2022-07-01 | 2022-09-16 |
 | [Town I Called My Home](https://open.spotify.com/track/0omwXDRLUssZ7fgl9vkL4m) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Town I Called My Home](https://open.spotify.com/album/0I0oknA0jgSUFwYDrcZNhz) | 2:19 | 2021-02-12 | 2021-05-12 |
 | [Trailer Trash](https://open.spotify.com/track/7Mm2Cj8cHboj6XPd3YKkU7) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [Trailer Trash](https://open.spotify.com/album/77em8M4abNIlvUhE87N9B9) | 2:32 | 2021-04-17 | 2021-05-19 |
 | [Trap Doors](https://open.spotify.com/track/4WvfcU7QCkI49HjUQckTqA) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [Broken Bells](https://open.spotify.com/album/0X7WyEKdm5afGj1fmD7Blx) | 0:29 | 2022-06-21 | 2022-07-02 |

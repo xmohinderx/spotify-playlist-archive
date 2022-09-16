@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: Yb\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,547 likes - 110 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,561 likes - 110 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

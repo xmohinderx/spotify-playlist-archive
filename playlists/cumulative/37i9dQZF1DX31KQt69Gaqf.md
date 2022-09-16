@@ -4,7 +4,7 @@
 
 > Let us take care of your workday soundtrack.
 
-154 songs - 9 hr 11 min - [published](https://open.spotify.com/playlist/4mBxM3JJWtFgFyQKETemG7)
+156 songs - 9 hr 17 min - [published](https://open.spotify.com/playlist/4mBxM3JJWtFgFyQKETemG7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Goodnights & Goodbyes](https://open.spotify.com/track/5KFsSjyohrqBw6mHyBam0p) | [Qhairo](https://open.spotify.com/artist/4iZFdVAuD09d0newPwscSk) | [Goodnights & Goodbyes](https://open.spotify.com/album/2XyDuH4bJCZGSuiuvWfWld) | 2:55 | 2021-08-12 |  |
 | [Greener](https://open.spotify.com/track/3y51IDTIvdRJAwzZOhYHqB) | [Jade Emperor](https://open.spotify.com/artist/22x4ObzsgLRlFkoqsZ00Lo) | [Greener](https://open.spotify.com/album/6pEe6ykp15A2SRDqWm5PKK) | 3:32 | 2021-08-12 |  |
 | [Headstart](https://open.spotify.com/track/4hvogg26QxhiwZejv9nNae) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Headstart](https://open.spotify.com/album/2MFtg3BQopMqFiEYXQZ9q2) | 2:22 | 2021-08-12 | 2022-09-15 |
+| [Headstart](https://open.spotify.com/track/7pwv5cbW7hj4HVv3US4XUT) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Different Kinds of Light](https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9) | 2:22 | 2021-08-12 |  |
 | [Held Down](https://open.spotify.com/track/2PHeCBCWESSAqfxpORbxKA) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Held Down](https://open.spotify.com/album/0Mgg0Wv09HVGKnfj33Zo1K) | 4:07 | 2021-08-12 |  |
 | [Higher Plain](https://open.spotify.com/track/77CijApc0sKIDTnuASmzvf) | [Ted Jasper](https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW) | [Higher Plain](https://open.spotify.com/album/0wL1OCeO49WEvCSi3kQEWE) | 2:30 | 2021-08-12 | 2022-08-12 |
 | [Higher Plain](https://open.spotify.com/track/4jVkkMuhZscX5F7BIbDVBR) | [Ted Jasper](https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW) | [Solstice](https://open.spotify.com/album/6jPO2gtwitpbmkEDD0kYLn) | 2:30 | 2021-08-12 |  |
@@ -79,7 +80,8 @@
 | [i <3 u](https://open.spotify.com/track/5EcGSkkNBMAWOePvLgKde1) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Wachito Rico](https://open.spotify.com/album/3PwdobIILbq5GSoptbJrK5) | 4:15 | 2021-08-12 |  |
 | [I Wonder Why](https://open.spotify.com/track/2HpDcssMlgQXfmAUYhePIP) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ), [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [I Wonder Why](https://open.spotify.com/album/1N7U7alOZtbA2m3AyAPEXf) | 3:48 | 2021-08-12 |  |
 | [I've Got A Girl](https://open.spotify.com/track/0z88v5OzBLTyqtoicF2rtH) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [I've Got A Girl](https://open.spotify.com/album/23koinchIREk5uVwOcrIPe) | 3:28 | 2021-08-12 |  |
-| [Icarus](https://open.spotify.com/track/7mnnCaWiLtsbOQEExjWeHc) | [Gengahr](https://open.spotify.com/artist/2ATweaQe83QUQVjM8LMh7J) | [Sanctuary](https://open.spotify.com/album/6TpdsAKl6qB08qTqkerwZw) | 3:54 | 2021-08-12 |  |
+| [Icarus](https://open.spotify.com/track/78OhueBD5iAZuW2gPhZ5EF) | [Gengahr](https://open.spotify.com/artist/2ATweaQe83QUQVjM8LMh7J) | [Sanctuary](https://open.spotify.com/album/57DpPfLzyxA5iP8zjLQoY4) | 3:54 | 2021-08-12 |  |
+| [Icarus](https://open.spotify.com/track/7mnnCaWiLtsbOQEExjWeHc) | [Gengahr](https://open.spotify.com/artist/2ATweaQe83QUQVjM8LMh7J) | [Sanctuary](https://open.spotify.com/album/6TpdsAKl6qB08qTqkerwZw) | 3:54 | 2021-08-12 | 2022-09-16 |
 | [If Only](https://open.spotify.com/track/3t1tuXZHj49DsFXb8vQP2k) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [If Only](https://open.spotify.com/album/7nG2z6GRTqbDefzf7ATFPy) | 3:22 | 2021-09-24 |  |
 | [It Might Take A Woman](https://open.spotify.com/track/1kVyVPvuaQsuiuCE7YF2Ek) | [Girlhood](https://open.spotify.com/artist/1zmozsuAfLwrawutG7x9VA) | [Girlhood](https://open.spotify.com/album/0X5Kci2c2u1wctZJ06K9mn) | 3:10 | 2021-08-12 | 2022-07-29 |
 | [It Might Take a Woman](https://open.spotify.com/track/6iHhkXBS6HIkzaQ0IKAdIS) | [Girlhood](https://open.spotify.com/artist/1zmozsuAfLwrawutG7x9VA) | [Girlhood](https://open.spotify.com/album/36pD53bU7Igw82ZHD4Herb) | 3:10 | 2021-08-12 |  |
@@ -96,7 +98,7 @@
 | [Long Grass](https://open.spotify.com/track/6iCQRdDf05QOU4bxIvDPYu) | [Just Jack](https://open.spotify.com/artist/2KT0mSAPvd9PreXYCiVfVO), [The Easy Access Orchestra](https://open.spotify.com/artist/5fiNdr2wm70EaUTLwrDbh2) | [Long Grass](https://open.spotify.com/album/7s5qWzC22jdTiaZR488pje) | 3:58 | 2021-08-12 |  |
 | [Low](https://open.spotify.com/track/52AlJfHPhlkY7OGrb2AjeQ) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Low](https://open.spotify.com/album/5ipoWTaBfknOP3YgEXW4oY) | 4:34 | 2021-08-12 |  |
 | [madhouse](https://open.spotify.com/track/36fC4xtAucJ7KH6sdSDDo7) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [madhouse](https://open.spotify.com/album/3C7TLQLW8cXiDoogT7Hrlj) | 3:31 | 2021-08-12 |  |
-| [Moody](https://open.spotify.com/track/4U3S9YNxWWfMtcvz3UgDYD) | [Self Esteem](https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe) | [Moody](https://open.spotify.com/album/2jL3IM42IlCMhxlwMbWZFz) | 3:20 | 2021-09-24 |  |
+| [Moody](https://open.spotify.com/track/4U3S9YNxWWfMtcvz3UgDYD) | [Self Esteem](https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe) | [Moody](https://open.spotify.com/album/2jL3IM42IlCMhxlwMbWZFz) | 3:20 | 2021-09-24 | 2022-09-16 |
 | [More Like You](https://open.spotify.com/track/1UpFb9izAOYlcxWTOQzGf6) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [More Like You](https://open.spotify.com/album/2zX0uZRqO9wEG6Wq79T5jw) | 3:39 | 2021-08-12 |  |
 | [Mother](https://open.spotify.com/track/0uLTpCTTGk8cxNa3XaAD3S) | [Eve Owen](https://open.spotify.com/artist/5K9H52DBfvfMzrskJkU4An) | [Mother](https://open.spotify.com/album/6N9np7B8GEN5gaMvtWHPWk) | 3:15 | 2021-08-12 | 2022-07-29 |
 | [Moving Men](https://open.spotify.com/track/3OrQzlqFmedMua5WxgCVrI) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Born a Loser](https://open.spotify.com/album/6OQjfXsIharHjMAMbGYGNd) | 2:47 | 2021-08-12 |  |

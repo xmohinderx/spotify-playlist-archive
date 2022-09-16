@@ -4,7 +4,7 @@
 
 > Listen to the finest Jazz made in Belgium\. Cover: M.CHUZI
 
-100 songs - 8 hr 9 min - [published](https://open.spotify.com/playlist/0BGpoGk8zyTnHesLTcROQ8)
+101 songs - 8 hr 14 min - [published](https://open.spotify.com/playlist/0BGpoGk8zyTnHesLTcROQ8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,11 +82,12 @@
 | [Orlando](https://open.spotify.com/track/7i09pfaygJs6QkxWYfHc2q) | [Toine Thys](https://open.spotify.com/artist/3zxSolAZlT84wysneC7GUU), [Maxime Sanchez](https://open.spotify.com/artist/68FIFAeVw14qZKFwYoVZVz), [Florent Nisse](https://open.spotify.com/artist/2Lc2XJPebxG3cwCltevhOA), [Antoine Pierre](https://open.spotify.com/artist/5aLaAmqUGjIsoHD3mOjI2V) | [Orlando](https://open.spotify.com/album/08JLLkOjNuMwgbRGFfMK4V) | 6:41 | 2022-09-08 |  |
 | [Pathetic Sounds](https://open.spotify.com/track/38WUEUXFXHOcCX0tjfESAW) | [Bram Weijters' Crazy Men](https://open.spotify.com/artist/3b0K5U2c1dUoMGwEAiQoBN) | [The Return](https://open.spotify.com/album/0cZZ8ctlUuUmTAOpIMraEd) | 3:59 | 2022-09-08 |  |
 | [Photonic](https://open.spotify.com/track/5R0GSuk5hmDMm7Nqqq6eoP) | [H A S T](https://open.spotify.com/artist/6Yfns5pZJVZxf6hn1gM3AZ) | [Photonic](https://open.spotify.com/album/2CWuZRmCPkN33i2dVZcb7M) | 3:33 | 2022-09-08 |  |
-| [Pigeons](https://open.spotify.com/track/5feVFAGv8aOhz7zFUczpUr) | [Lucid Lucia](https://open.spotify.com/artist/2kq88GbQw1ieU5VvWVZFYI) | [Pigeons](https://open.spotify.com/album/5O1WgrvNp2LPu9LWHL6XPD) | 4:38 | 2022-09-08 |  |
+| [Pigeons](https://open.spotify.com/track/5feVFAGv8aOhz7zFUczpUr) | [Lucid Lucia](https://open.spotify.com/artist/2kq88GbQw1ieU5VvWVZFYI) | [Pigeons](https://open.spotify.com/album/5O1WgrvNp2LPu9LWHL6XPD) | 4:38 | 2022-09-08 | 2022-09-16 |
 | [Portal](https://open.spotify.com/track/2kyEGIQlE4W2UXbgJk30Vd) | [Nordmann](https://open.spotify.com/artist/0Uox3PUw47qEqroDggrDRE) | [Portal](https://open.spotify.com/album/0UyQ9R0WB9N4ncFbI2xKMs) | 4:18 | 2022-09-08 |  |
 | [Prospect](https://open.spotify.com/track/2Bf6F6mWOEjI8HxcaHPUEZ) | [ROSHIMA](https://open.spotify.com/artist/1ESM3iS4CDpxrVcRYvzJxN), [Jan Morez](https://open.spotify.com/artist/4MRRTWCvkHzfw953JHybmz), [Glenn Deveron](https://open.spotify.com/artist/3CSRC3GUnVsTgobvO8AZ7w) | [Prospect](https://open.spotify.com/album/7Cy5dDz0PkdI4JoisX1P9E) | 2:09 | 2022-09-08 |  |
 | [Rake](https://open.spotify.com/track/4Zg32wHgWeBMfuuxNEBJea) | [Bert Dockx](https://open.spotify.com/artist/0nD5LTV5BZ6Dl7BbjGpHv1) | [Transit](https://open.spotify.com/album/58J5Tg7SnhkUcJsweg8xE0) | 6:13 | 2022-09-08 |  |
 | [Reflet](https://open.spotify.com/track/7bTgbkJmcJ11R0yqVC8qFg) | [Glass Museum](https://open.spotify.com/artist/0bq8ZdJxUOXswye4qT4zzU) | [Reflet](https://open.spotify.com/album/3rCk8CngEX5UIxpWgh4WgI) | 5:42 | 2022-09-08 |  |
+| [Reminiscence](https://open.spotify.com/track/5mbDO1wbecRbF5iQqEn8ty) | [Lucid Lucia](https://open.spotify.com/artist/2kq88GbQw1ieU5VvWVZFYI) | [Reminiscence](https://open.spotify.com/album/1lLkH3BBGY9BPoiIqQ8ZiU) | 4:31 | 2022-09-15 |  |
 | [Rhymes On Our Mind](https://open.spotify.com/track/6EJUuDETlcuLn76NNLc3Ey) | [Condor Gruppe](https://open.spotify.com/artist/0qaYncC2MFURFgMB8MQvqm) | [Rhymes On Our Mind](https://open.spotify.com/album/0rpq83kd4ptF8dTyBHu39b) | 5:59 | 2022-09-08 |  |
 | [Rostfrei](https://open.spotify.com/track/6hmuL1lUUd10z0SxMANUO1) | [schroothoop](https://open.spotify.com/artist/2gbO1WIhdYAqbwwh6LaASF) | [Klein Gevaarlijk Afval](https://open.spotify.com/album/3Mbm4tvDYbzC9FzaQ340LZ) | 2:31 | 2022-09-08 |  |
 | [Shooting Stars](https://open.spotify.com/track/1J2xcunIugYhmtlKPFXZdf) | [Julien Tassin](https://open.spotify.com/artist/7hNM1DFNLvzEUVJtZdg1ND), [Dré Pallemaerts](https://open.spotify.com/artist/3KEOwvDwVcQsdjP8Fdunc0), [Nic Thys](https://open.spotify.com/artist/1EO0AEYzcsOWlTvoA86SN0) | [Shooting Stars](https://open.spotify.com/album/6GkKIDX0S4jJuYkgJVzoX7) | 5:06 | 2022-09-08 |  |

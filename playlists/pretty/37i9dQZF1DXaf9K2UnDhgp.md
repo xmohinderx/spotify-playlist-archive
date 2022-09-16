@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf9K2UnDhgp.md) - [plain]
 
 > Riffing around the Christmas tree\. Cover: My Chemical Romance
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,731 likes - 110 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,727 likes - 110 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf9K2UnDhgp.md) - [plain]
 | 68 | [No Christmas While I'm Talking](https://open.spotify.com/track/6wYHoJUCDNk4fQ1YOyNJHp) | [The Walkmen](https://open.spotify.com/artist/6kFay2DQ5aZfeu5OsrF3Pw) | [Bows + Arrows](https://open.spotify.com/album/4QR9jaNP6Ifh7eqXjhAHw2) | 4:25 |
 | 69 | [Alone This Holiday](https://open.spotify.com/track/1Xg0NHQwMufxevkhxjgYWz) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Gift Wrapped: 20 Songs That Keep On Giving](https://open.spotify.com/album/6VkWzNwwvmUfEBAzrBEIzY) | 2:55 |
 | 70 | [Father Christmas](https://open.spotify.com/track/0wtZQyqCVwaF5QuqkbHZT9) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Come Dancing with the Kinks \(The Best of the Kinks 1977\-1986\)](https://open.spotify.com/album/0JnB2CLFLJqHrqsCQr3auR) | 3:42 |
-| 71 | [Run Rudolph Run \- Single Version](https://open.spotify.com/track/2pnPe4pJtq7689i5ydzvJJ) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Rock 'N' Roll Rarities](https://open.spotify.com/album/1DILNh7maaYyKxe15V9xLq) | 2:45 |
+| 71 | [Run Rudolph Run](https://open.spotify.com/track/2pnPe4pJtq7689i5ydzvJJ) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Rock 'N' Roll Rarities](https://open.spotify.com/album/1DILNh7maaYyKxe15V9xLq) | 2:45 |
 | 72 | [Please Come Home for Christmas \- 2013 Remaster](https://open.spotify.com/track/3QIoEi8Enr9uHffwInGIsC) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Please Come Home for Christmas / Funky New Year \(2013 Remaster\)](https://open.spotify.com/album/4QxtDUU3U7gCCyT9Lm3bg5) | 2:57 |
 | 73 | [O Holy Night](https://open.spotify.com/track/60nAcvowUyfI1d4C4I5AMr) | [Go Radio](https://open.spotify.com/artist/0abIHznUj0oKhDB29cpBZ9) | [Tis The Season To Be Fearless](https://open.spotify.com/album/7LEZCqGn4YQ5NsO1pj2E6a) | 4:31 |
 | 74 | [This Holiday](https://open.spotify.com/track/54eW8IPftlUPqOWhjNXLIx) | [Dragged Under](https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH) | [The World Is In Your Way \(Deluxe Edition\)](https://open.spotify.com/album/46U6TW57g10lUujKjyzZiG) | 3:34 |

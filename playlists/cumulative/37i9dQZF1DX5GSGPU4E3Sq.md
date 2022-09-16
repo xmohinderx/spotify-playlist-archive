@@ -4,7 +4,7 @@
 
 > Piérdete en el misterio del bosque y sus poderes sanadores.
 
-254 songs - 14 hr 27 min - [published](https://open.spotify.com/playlist/242qd1QUw3B0ykfcQKOcL5)
+255 songs - 14 hr 30 min - [published](https://open.spotify.com/playlist/242qd1QUw3B0ykfcQKOcL5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [A Dream Within a Dream](https://open.spotify.com/track/52KqG9DvcMJ3cV4ZZwpbJ2) | [Dusted Leaves](https://open.spotify.com/artist/2lafEMDMFf6veTCoXrZZko) | [A Dream Within a Dream](https://open.spotify.com/album/36AE8RoOpwmjPziC7ZvnVI) | 2:22 | 2022-07-19 | 2022-07-29 |
 | [A Gentle Ending](https://open.spotify.com/track/0gGKd4UpVGajKJjLPOLTKI) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [A Gentle Ending](https://open.spotify.com/album/6seCAHr3iYBt64WjZF5x7I) | 3:05 | 2022-06-29 | 2022-07-29 |
 | [A Gentle Ending](https://open.spotify.com/track/1qxbBYzukR2ralqf0V8MTx) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [A Gentle Ending](https://open.spotify.com/album/2M3o7haqwBiQThb9Uo128w) | 3:05 | 2022-07-19 |  |
+| [A Magic Forest](https://open.spotify.com/track/1tibAYEBfrBcPxJIZe2lMJ) | [Evolving Stream](https://open.spotify.com/artist/5zL5lmsaGzjnU7dn85w2bz) | [A Magic Forest](https://open.spotify.com/album/6DbQ69b3HVphNE7v6a9RQu) | 3:05 | 2022-09-13 |  |
 | [A Midsummer Nice Dream](https://open.spotify.com/track/0hAM2VDYMWzAgtCVZXA6Qr) | [Ochre](https://open.spotify.com/artist/0OmHDBh5styCXDWKwz58Ts) | [A Midsummer Nice Dream](https://open.spotify.com/album/4WZ0dPZH8wktMC0RiFhwL6) | 2:50 | 2022-07-19 |  |
 | [A Midsummer Nice Dream](https://open.spotify.com/track/2ZqiNwcrUc4Qzlid5DpETd) | [Ochre](https://open.spotify.com/artist/0OmHDBh5styCXDWKwz58Ts) | [A Midsummer Nice Dream \(15th Anniversary Edition\)](https://open.spotify.com/album/0T1A50uIBACNBnmIj57HrU) | 2:55 | 2022-06-29 | 2022-07-28 |
 | [A New Day](https://open.spotify.com/track/7AbrQSJZsLhWOi4zNFIWeb) | [Forest Walks](https://open.spotify.com/artist/18InfiT5lp2g36MZgGqjZW) | [A New Day](https://open.spotify.com/album/3duG9vrpxecZceRKXBqc7M) | 2:58 | 2022-06-29 |  |
@@ -205,7 +206,7 @@
 | [Silent Wave](https://open.spotify.com/track/27F6TPCUQ9eI2gXwO8Ngr1) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Spa Lounge](https://open.spotify.com/album/6ERp3okLOeeQerFReJnCCK) | 7:15 | 2022-07-19 |  |
 | [Silent Wave](https://open.spotify.com/track/0wxS3CTB9Khr0HJrAYwLiR) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Mystic Voyage](https://open.spotify.com/album/60fSPqXgx3h9CCCP0vbce6) | 7:17 | 2022-06-29 | 2022-07-29 |
 | [Silviculture](https://open.spotify.com/track/5gPJUTZ50tXhTc7AciCS4i) | [Forest Dreams](https://open.spotify.com/artist/0r8qxlmiAVqsOf1AXGhegp) | [Silviculture](https://open.spotify.com/album/0j150j8xYS3EK49gxR1Xj5) | 2:02 | 2022-06-29 | 2022-07-29 |
-| [Silviculture](https://open.spotify.com/track/6RzY1FdhbgqimxfPft78fB) | [Forest Dreams](https://open.spotify.com/artist/0r8qxlmiAVqsOf1AXGhegp) | [Silviculture](https://open.spotify.com/album/4RrqHdWv6ISLPFPlF9ap5B) | 2:02 | 2022-07-19 |  |
+| [Silviculture](https://open.spotify.com/track/6RzY1FdhbgqimxfPft78fB) | [Forest Dreams](https://open.spotify.com/artist/0r8qxlmiAVqsOf1AXGhegp) | [Silviculture](https://open.spotify.com/album/4RrqHdWv6ISLPFPlF9ap5B) | 2:02 | 2022-07-19 | 2022-09-16 |
 | [Singing birds of the forest, in the background the woodpecker tapping](https://open.spotify.com/track/3jzeyOClxpZLm6n35AEGIZ) | [Letnie Glosy Ptakow](https://open.spotify.com/artist/6qWRwuEnZK78sityDgR91Y) | [Summertime Bird Songs & Bird Calls](https://open.spotify.com/album/4LQaTjIvbPuccgIVqxCHme) | 3:51 | 2022-06-29 |  |
 | [Sinharaja Rain Forest](https://open.spotify.com/track/7gqMUXQ0Lo33WwUdSv8c2L) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [Sinharaja Rain Forest](https://open.spotify.com/album/5uofsTBl7a60q0yHg64DiR) | 2:09 | 2022-06-29 | 2022-07-29 |
 | [Siren's Whisper](https://open.spotify.com/track/2TduwqKH9OdGIGLNFGm9fG) | [Mallias](https://open.spotify.com/artist/7Jha5lv1MsoExRH2GMSNLk) | [Seabed](https://open.spotify.com/album/3Dy9SrqQmXpPqZUGOnhfEm) | 4:43 | 2022-06-29 |  |

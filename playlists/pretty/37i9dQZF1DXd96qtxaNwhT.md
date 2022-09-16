@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 
 > Soak up the serenity with these beautiful melodies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,954 likes - 86 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,963 likes - 86 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 | 39 | [Is It Worth Being Sad](https://open.spotify.com/track/2sdqoPS2AWTS8sb3kdeBmF) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Is It Worth Being Sad](https://open.spotify.com/album/7L8TecVe9iFySR49sUVI4X) | 4:01 |
 | 40 | [Look Me In The Eyes](https://open.spotify.com/track/3ajvu9MpfhVuvRed1dgGvQ) | [Bella Taylor Smith](https://open.spotify.com/artist/5KZN09Gq54DniaMMM7rKCQ) | [The Anita’s Sessions](https://open.spotify.com/album/03O8JZU32YcUxjrF67yCHb) | 3:16 |
 | 41 | [It'll Be Okay](https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [It'll Be Okay](https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r) | 3:42 |
-| 42 | [PRETEND RAINBOW](https://open.spotify.com/track/3kescnpBiOqSSdNywgGHkB) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [PRETEND RAINBOW](https://open.spotify.com/album/3iJxQdm6ZrjKuPrpeLJl2o) | 2:38 |
+| 42 | [PRETEND RAINBOW](https://open.spotify.com/track/2ChYB5eaB0HxWvXxDqASvk) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [PRETEND RAINBOW](https://open.spotify.com/album/1GEwRUCUUUJJahRF4Cxqfy) | 2:38 |
 | 43 | [Fairytale](https://open.spotify.com/track/0o6fLmEBkaTqjH2zm2s79P) | [NOURI](https://open.spotify.com/artist/4b5Sw1n9FPtq0RQetJSzEW) | [Fairytale](https://open.spotify.com/album/59qUkMkvIeP043jMXBVUtX) | 1:58 |
 | 44 | [All For You](https://open.spotify.com/track/29Co9NKhOM5R9vWCrpkPPK) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [All For You](https://open.spotify.com/album/3SHliIKddH4xZVyr7hyjML) | 3:39 |
 | 45 | [Another Falling Star](https://open.spotify.com/track/6ie3zhD4Yyrz35wCouSk8T) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [Friendly Fire](https://open.spotify.com/album/2spypN99tWruHzNm3dU6QT) | 3:39 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 | 85 | [Winter City](https://open.spotify.com/track/6pdvuLmF736BybOwSYEXeg) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [Winter City](https://open.spotify.com/album/3MUZrFCwm6v0aUQaawLcFG) | 2:41 |
 | 86 | [Waste My Time](https://open.spotify.com/track/6VKw8mwyk1Z1bFCXy1PC6C) | [Hattie Oates](https://open.spotify.com/artist/21XMngjCd7tTpvn2ruHB6R) | [Waste My Time](https://open.spotify.com/album/15sNqB0QCpkWaTsvuYcLPs) | 4:26 |
 
-Snapshot ID: `MTY2MjY0NTYwMCwwMDAwMDAwMDUwODkwM2NhMzBhMWViNTNmYzUyYWQ1YTgwZGU4NzI5`
+Snapshot ID: `MTY2MjY0NTYwMCwwMDAwMDAwMDAxODY1YTdmOTQwZGNkMjc1NjJkZjIwY2ZiNGQyYzNl`

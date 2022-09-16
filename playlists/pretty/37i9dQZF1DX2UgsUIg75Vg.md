@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chilled R&B jams for your most relaxed moods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,263,422 likes - 91 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,263,629 likes - 91 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

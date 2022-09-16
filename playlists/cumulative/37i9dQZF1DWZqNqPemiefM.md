@@ -4,7 +4,7 @@
 
 > Deep concentration with these outstanding Japanese ambient tracks.
 
-427 songs - 1 day 10 hr 26 min - [published](https://open.spotify.com/playlist/4yRMmJhsvszYGvpMChx2d3)
+428 songs - 1 day 10 hr 35 min - [published](https://open.spotify.com/playlist/4yRMmJhsvszYGvpMChx2d3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,7 @@
 | [Houseplants While You Are Away on Vacation](https://open.spotify.com/track/4JmuiBI4ERgjUq5VuQpceX) | [Lullatone](https://open.spotify.com/artist/3h100hRlLZ7QDz8GRt5QsD) | [Houseplant Music](https://open.spotify.com/album/0G7hXY1pGBG7ZbhciEhZyo) | 3:23 | 2022-03-30 | 2022-07-29 |
 | [How Do You Do](https://open.spotify.com/track/1Pl0J7BbchfU8P06XHnnYw) | [Daisuke Hinata](https://open.spotify.com/artist/2gAq9nGIWZwUNFBty6eacu) | [ターザン・ランド \~快適ライフ・ミュージック](https://open.spotify.com/album/3ULdnayIV5SptFzpBT0UWp) | 6:35 | 2022-03-31 | 2022-07-26 |
 | [Huit](https://open.spotify.com/track/0j1cR9gGFvzlA6nFjgzf4D) | [Sky H1](https://open.spotify.com/artist/4PWm0R7GT00XJa3TIFoUT4) | [Mono No Aware](https://open.spotify.com/album/29oEVx1KwMEjdK0bsT2IZu) | 3:50 | 2022-03-31 | 2022-04-17 |
-| [Huit](https://open.spotify.com/track/6VvOYb9aPWQnpFyvKKsYZW) | [Sky H1](https://open.spotify.com/artist/4PWm0R7GT00XJa3TIFoUT4) | [Mono No Aware](https://open.spotify.com/album/1YbSlMGiAAaTfR9Kk9HNxk) | 3:50 | 2022-07-28 |  |
+| [Huit](https://open.spotify.com/track/6VvOYb9aPWQnpFyvKKsYZW) | [Sky H1](https://open.spotify.com/artist/4PWm0R7GT00XJa3TIFoUT4) | [Mono No Aware](https://open.spotify.com/album/1YbSlMGiAAaTfR9Kk9HNxk) | 3:50 | 2022-07-28 | 2022-09-16 |
 | [hum](https://open.spotify.com/track/69AcNc2JDHYq7IqKzVZz4W) | [Daisuke Miyatani](https://open.spotify.com/artist/00W9E7VkwAsnbpofU3fziZ) | [diario \(2018 remaster\)](https://open.spotify.com/album/7hrtuzagTLeI9Nxitw7N6w) | 5:24 | 2022-04-07 | 2022-07-29 |
 | [ice](https://open.spotify.com/track/40wbMmxezAsXctvtAPiqO2) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [out of noise](https://open.spotify.com/album/2ZSDBISEYILWQJipew0pvh) | 3:33 | 2022-03-30 | 2022-04-13 |
 | [Icefall](https://open.spotify.com/track/0Phxp3zSTKDT5D2JtOLvY3) | [Rhythmy](https://open.spotify.com/artist/5OjEKdUndOsD0Msr1Hc26C) | [Icefall](https://open.spotify.com/album/0bRbyB6t9KM4EkjeiQxXoi) | 4:08 | 2022-03-30 | 2022-05-26 |
@@ -237,6 +237,7 @@
 | [Nightgulls](https://open.spotify.com/track/2rwpyt225r7zv2Aj2fbyax) | [Ippu\-Do](https://open.spotify.com/artist/6spBI2ueYjGHoTzRJ9fcAR) | [NIGHT MIRAGE +7](https://open.spotify.com/album/531P2A9feRSk86bIiDLhJa) | 5:19 | 2022-03-31 | 2022-05-21 |
 | [NINE](https://open.spotify.com/track/3TVtNYD5Q9sISzZqb0ohlX) | [Shinobu Nemoto](https://open.spotify.com/artist/6R94NSkCQlPD2rZClcxPAk) | [銀嵐 \(Silver Storm\)](https://open.spotify.com/album/3yoj55qNn59F9LBIIsEGO1) | 5:05 | 2022-03-31 | 2022-04-21 |
 | [No One Belongs Here More Than You](https://open.spotify.com/track/4ZYnDfJeme2x6lbmhU6leX) | [TOMC](https://open.spotify.com/artist/0goluclBYV1M0FriHVtKD0) | [Lunar Maria](https://open.spotify.com/album/56gwSOqLKyYRatpYAtazxs) | 4:40 | 2022-04-07 | 2022-07-08 |
+| [Nostalgia](https://open.spotify.com/track/1SDCau14XiiaPB67yj9qZ9) | [Ramza](https://open.spotify.com/artist/1Trmp5nqg46a1InSpynV72) | [Whispering Jewels \- ひび割れの鼓動](https://open.spotify.com/album/7ahgNbVn0iLISPEwXU2hJO) | 8:56 | 2022-09-15 |  |
 | [Nostalgia 2](https://open.spotify.com/track/2v6fUufnDYNvoevK8ILcNy) | [Saito Koji](https://open.spotify.com/artist/0S7H7SA7XfrTqy2gYj4jAS) | [Nostalgia](https://open.spotify.com/album/4c44do7drzjAIJJnOqvZmf) | 5:33 | 2022-04-07 | 2022-04-12 |
 | [Nothing01](https://open.spotify.com/track/5c073vLIWI3dRUSZeGgEkM) | [ass](https://open.spotify.com/artist/1BwcsRjCnhyM3SNZfT4jQy) | [Ymnat](https://open.spotify.com/album/1qs0A3slfbHKdNNtIptkol) | 3:28 | 2022-04-07 | 2022-04-10 |
 | [Notice](https://open.spotify.com/track/3KqKierE89fwRVQQgYOUhE) | [NHK yx Koyxen](https://open.spotify.com/artist/4NbONoBXUifFCSRfsQI9T1) | [Exit Entrance](https://open.spotify.com/album/0Sxn3fgo4vpExNL67NK7cs) | 2:22 | 2022-04-16 | 2022-04-20 |

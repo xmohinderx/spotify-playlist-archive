@@ -4,7 +4,7 @@
 
 > Instrumental Smooth Jazz for relaxing.
 
-139 songs - 11 hr 8 min - [published](https://open.spotify.com/playlist/5epGcI3jwXpExjEdCjz20Q)
+140 songs - 11 hr 12 min - [published](https://open.spotify.com/playlist/5epGcI3jwXpExjEdCjz20Q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Any Love](https://open.spotify.com/track/1uQnqFPN4Fzvn17DGX0eBj) | [Kirk Whalum](https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1) | [Forever, For Always, For Luther](https://open.spotify.com/album/2yRAGKnGPPdigTqe3qsYeN) | 5:04 | 2022-05-06 |  |
 | [Anytime](https://open.spotify.com/track/29EWQFBFg70fC4rIbknyrI) | [Kirk Whalum](https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1) | [For You](https://open.spotify.com/album/6DnOL6zVqcQh1iJQiH1KhQ) | 5:18 | 2022-05-06 |  |
 | [Autumn Day](https://open.spotify.com/track/2w3XMjQfcfO2cS1T0xXcDu) | [Peter White](https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS) | [Perfect Moment](https://open.spotify.com/album/26mZwyn3GPRjgaRZmaCwhr) | 4:34 | 2022-05-06 |  |
-| [Bali](https://open.spotify.com/track/2aaFllN8vPdII7Qz3Byarf) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o) | [Above The Clouds](https://open.spotify.com/album/6HIHESKwsvniDkbZ6AzuAv) | 4:35 | 2022-05-06 | 2022-09-15 |
+| [Bali](https://open.spotify.com/track/2aaFllN8vPdII7Qz3Byarf) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o) | [Above The Clouds](https://open.spotify.com/album/6HIHESKwsvniDkbZ6AzuAv) | 4:35 | 2022-05-06 |  |
 | [Because of You](https://open.spotify.com/track/1mzBQnUMTUSs4TkpSJjZES) | [Jeff Kashiwa](https://open.spotify.com/artist/7GVLgt36lHtKdbxooYQhbW) | [Another Door Opens](https://open.spotify.com/album/5e8Y5tQ9WMOJBEHOHK6gDh) | 4:44 | 2022-05-06 |  |
 | [Boneyizm](https://open.spotify.com/track/4kUwH75A8Dc6PxA3Kl0Yif) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Body Language](https://open.spotify.com/album/5UJmUYnpdtUGCcoMa7hDKE) | 4:27 | 2022-05-06 |  |
 | [Brazil Chill](https://open.spotify.com/track/3UI2NlVimWCWOohTfyaP9v) | [Bob Baldwin](https://open.spotify.com/artist/6URFeH3cWWv6tj2RazL9IP), [Phil Hamilton](https://open.spotify.com/artist/3mB3iEjlSs9C6sU89Ye413), [Ivan Conte](https://open.spotify.com/artist/2U62U5AIuNn6n7VnEiNiCr), [Ragan Whiteside](https://open.spotify.com/artist/4cvyvGmavtDowPmJMHMlUq) | [Brazil Chill](https://open.spotify.com/album/4T8thECArdoVMqYZpWxfHn) | 5:22 | 2022-05-06 |  |
@@ -45,7 +45,7 @@
 | [Girl In The Red Dress](https://open.spotify.com/track/7IGXCoBk68O6Yrt65WFPIL) | [Gregg Karukas](https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V) | [Looking Up](https://open.spotify.com/album/7lHBtSn2hMlubVBTXn8e0y) | 4:56 | 2022-05-06 |  |
 | [Givin' It Up](https://open.spotify.com/track/39ex82ihu7ZSBIW7zFTA4P) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Lip Service](https://open.spotify.com/album/0XjSocr8jNCwaBZqxwJnEw) | 4:01 | 2022-05-06 | 2022-07-16 |
 | [Givin’ It Up](https://open.spotify.com/track/31gDZG7i3ui4oLmWnhN0mG) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Lip Service](https://open.spotify.com/album/2OJdOCWFoUbOpS3azmEou4) | 4:01 | 2022-08-10 |  |
-| [Groovin' Up Hip Street](https://open.spotify.com/track/1rEt3jLRkVWz1m9EEfTFeo) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Got 2 Be Groovin'](https://open.spotify.com/album/4MRGWe9ughUgD0oqJaHjgA) | 6:02 | 2022-05-06 | 2022-09-15 |
+| [Groovin' Up Hip Street](https://open.spotify.com/track/1rEt3jLRkVWz1m9EEfTFeo) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Got 2 Be Groovin'](https://open.spotify.com/album/4MRGWe9ughUgD0oqJaHjgA) | 6:02 | 2022-05-06 |  |
 | [Have Your Cake And Eat It](https://open.spotify.com/track/52XxdtfUzy5Qqw8i0wKrjD) | [Chris Standring](https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut) | [Love and Paragraphs](https://open.spotify.com/album/6FQvFmsOaSpmfXFZ2BAJiu) | 4:03 | 2022-05-06 |  |
 | [Here With You](https://open.spotify.com/track/1c9sIJVZwmLisjzlFav2Ff) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o) | [It's All Good](https://open.spotify.com/album/6nBoSSW00HlPus31F5CZYr) | 4:17 | 2022-05-06 |  |
 | [Hold On Tight](https://open.spotify.com/track/5qsm0eGh4vPXOOEKNrH6cX) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Send One Your Love](https://open.spotify.com/album/7g5WWkH9quZp6S3lxDBCV6) | 5:04 | 2022-05-06 |  |
@@ -53,6 +53,7 @@
 | [I'll Be Waiting](https://open.spotify.com/track/3L3GwtfPpOl0Qbq3Md15fT) | [Earl Klugh](https://open.spotify.com/artist/00Nnsh2ykMBYnCDsSFGXSY) | [Sudden Burst Of Energy](https://open.spotify.com/album/7ARlMCZiY2GDXn0WUioRqj) | 4:47 | 2022-05-06 |  |
 | [I'll Tell You What](https://open.spotify.com/track/7m85ef6chzSPAyhx9Nc3qD) | [Ken Navarro](https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a) | [Smooth Sensation](https://open.spotify.com/album/12tng68mKohYzlVWT1QRna) | 4:51 | 2022-05-06 |  |
 | [I'm Waiting For You](https://open.spotify.com/track/1tG7sbklJgngzJlwt5kqob) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm) | [The Dance](https://open.spotify.com/album/5GHzB4bwVYzl7Cbz17z8wb) | 3:19 | 2022-05-06 |  |
+| [If I Could Fly](https://open.spotify.com/track/6ZrF3FEq8MQd1CN9MXTHqa) | [Vincent Ingala](https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7) | [Can't Stop Now](https://open.spotify.com/album/7ro6nLa2rGHaq4muoXPSJF) | 4:16 | 2022-09-15 |  |
 | [If Only For One Night](https://open.spotify.com/track/6O4i4aMjDM7JVexa5hA3sk) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm), [Brian Culbertson](https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE) | [Forever, For Always, For Luther](https://open.spotify.com/album/2yRAGKnGPPdigTqe3qsYeN) | 5:16 | 2022-05-06 |  |
 | [If You New](https://open.spotify.com/track/4YTjvImG7MPjIOKTPI6P3X) | [Walter Beasley](https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP) | [For Your Pleasure](https://open.spotify.com/album/0rHJ7WovNY23g8QRKHCUMw) | 5:01 | 2022-05-06 |  |
 | [If You Want Me To Stay](https://open.spotify.com/track/1cqZpEMt5vbMXKl3NThaWn) | [Jeff Golub](https://open.spotify.com/artist/12455ZzxS49FbAGWKeB9eB) | [Grand Central](https://open.spotify.com/album/4mePfZ9tMKs3UQ5tssOeiZ) | 6:02 | 2022-05-06 |  |
@@ -60,7 +61,7 @@
 | [In The City Life](https://open.spotify.com/track/4l5uxmrBy57ccTRyF8K1lJ) | [Gota](https://open.spotify.com/artist/1kxc4wfA8JEm5D6xHTxXCZ) | [Smooth Jazz Radio Hits Volume Two](https://open.spotify.com/album/7u2GRdrA01HH059EROR9uS) | 3:36 | 2022-08-12 |  |
 | [Inside Out](https://open.spotify.com/track/4fhmc1aqLwQuvd3gAyZONN) | [Dan Siegel](https://open.spotify.com/artist/0TknnwW9imlXjnjxfHcvFd) | [Inside Out](https://open.spotify.com/album/1DU7S0sd2bxh62puU2vPHi) | 5:32 | 2022-05-06 |  |
 | [Isabella](https://open.spotify.com/track/3auejP8jQXX4soeSvMCtqL) | [Gregg Karukas](https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V) | [Looking Up](https://open.spotify.com/album/7lHBtSn2hMlubVBTXn8e0y) | 5:24 | 2022-08-16 |  |
-| [It Ain't Over BWB](https://open.spotify.com/track/2S7XYSL5qyBoJVQqm2mogJ) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Stay With Me](https://open.spotify.com/album/4SSbfr7UxfTE09XSRUu4Nl) | 4:37 | 2022-06-14 | 2022-09-15 |
+| [It Ain't Over BWB](https://open.spotify.com/track/2S7XYSL5qyBoJVQqm2mogJ) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Stay With Me](https://open.spotify.com/album/4SSbfr7UxfTE09XSRUu4Nl) | 4:37 | 2022-06-14 |  |
 | [It's All Good](https://open.spotify.com/track/1aXysFRgZfghWtgteEVQIz) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Sweet Thing](https://open.spotify.com/album/1we21be2R4o56iwheyKMxE) | 5:14 | 2022-05-06 |  |
 | [Just Chillin'](https://open.spotify.com/track/2CZvyta27Yxnjw9JdDGGyG) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Just Chillin'](https://open.spotify.com/album/7K2ByqRePgiW7yQAE3dsjt) | 4:27 | 2022-08-16 |  |
 | [Just One Wish](https://open.spotify.com/track/4QCLC4WSJMXjZ17QhkWl3f) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o), [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Out Of A Dream](https://open.spotify.com/album/3e1fT9twS7LjpTQdtqGNDN) | 4:13 | 2022-08-16 |  |
@@ -135,7 +136,7 @@
 | [Use Me](https://open.spotify.com/track/5dKyIGGTiQ8xqyvhHfg1Sf) | [Rick Braun](https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ) | [Kisses In The Rain](https://open.spotify.com/album/36tLRdlIbuXboC0QyMhfaX) | 3:42 | 2022-05-06 |  |
 | [Vinyl](https://open.spotify.com/track/2q2kwEh9flpSMwwqpPYCC3) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Euge Groove](https://open.spotify.com/album/2r10VaddyCNK8eXQOmSNHG) | 4:29 | 2022-08-16 |  |
 | [West Coast Coolin'](https://open.spotify.com/track/07pe7c2ytCutxLyykBo1AX) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [West Coast Coolin'](https://open.spotify.com/album/5dAlHUk0CgmwKZygPY8ZJx) | 4:30 | 2022-05-06 |  |
-| [What Cha Gonna Do?](https://open.spotify.com/track/2RMl0c68DWw6zamWB6R1Ce) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o) | [Above The Clouds](https://open.spotify.com/album/6HIHESKwsvniDkbZ6AzuAv) | 4:00 | 2022-05-06 | 2022-09-15 |
+| [What Cha Gonna Do?](https://open.spotify.com/track/2RMl0c68DWw6zamWB6R1Ce) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o) | [Above The Clouds](https://open.spotify.com/album/6HIHESKwsvniDkbZ6AzuAv) | 4:00 | 2022-05-06 |  |
 | [When You Love Somebody](https://open.spotify.com/track/3sUlkxJZ3KtHFFuNo8Yhdt) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [Influences](https://open.spotify.com/album/1hbsoh6rcNrxngTQwAi1gR) | 4:24 | 2022-06-28 |  |
 | [When You Love Somebody](https://open.spotify.com/track/7AeS3Lkmps2klORaU65IMq) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [Influences](https://open.spotify.com/album/7pJZjU3feX0JRmJsyNMUKk) | 4:24 | 2022-05-06 | 2022-07-29 |
 | [Where the Night Begins](https://open.spotify.com/track/1XWvnO1jAnW8izUOczEdZu) | [Steve Cole](https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb) | [Stay Awhile](https://open.spotify.com/album/0BnQMPzjGWbmoAOPFs5Nsn) | 4:37 | 2022-05-06 |  |

@@ -4,7 +4,7 @@
 
 > Laid back electronic soundscapes rooted in experimental and ambient sensibilities.
 
-267 songs - 21 hr 53 min - [published](https://open.spotify.com/playlist/6KKCtKWPCrKLZ3W8ZVtimv)
+268 songs - 21 hr 57 min - [published](https://open.spotify.com/playlist/6KKCtKWPCrKLZ3W8ZVtimv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Boreal](https://open.spotify.com/track/4SfLJ0ZO8LTbrgxqNKnzys) | [Aeromancias](https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw) | [Auroras](https://open.spotify.com/album/6STaRwLyivZTQosFvfYQnt) | 2:34 | 2021-10-06 |  |
 | [Brainwave Technology](https://open.spotify.com/track/0x1eIudX2mUXc28RujjNl5) | [Michael Mayer](https://open.spotify.com/artist/5R9d1YP5jtBw2IrQItGzQI) | [Brainwave Technology](https://open.spotify.com/album/3WoE6XpUmkqAuVnPqEFYNf) | 6:47 | 2021-10-06 |  |
 | [Breathe Cre8](https://open.spotify.com/track/4L75OEom1UKUALCLguUpig) | [Kamandi](https://open.spotify.com/artist/4pSowxoZVdsKUyTkhU9ebC) | [Breathe Cre8](https://open.spotify.com/album/41zMYJ5DfjjcseXWbqeBlR) | 3:16 | 2022-02-25 | 2022-07-15 |
-| [Bundeena](https://open.spotify.com/track/1sBhHX5W5qmYbMBxvCuzd1) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [I Can Hear the Birds](https://open.spotify.com/album/4JDu9Wp3oVqBc18hIau11s) | 4:22 | 2021-10-06 |  |
+| [Bundeena](https://open.spotify.com/track/1sBhHX5W5qmYbMBxvCuzd1) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [I Can Hear the Birds](https://open.spotify.com/album/4JDu9Wp3oVqBc18hIau11s) | 4:22 | 2021-10-06 | 2022-09-16 |
 | [Cactomuzik](https://open.spotify.com/track/3PPqYHkGBUAEdAuQLsbwex) | [Grosskopof & Amezcua](https://open.spotify.com/artist/3C2S50mhsAz2PknUWUxMlf) | [Quetzalkrautl](https://open.spotify.com/album/5icq9aVdOKj7HQRU71jW6O) | 5:58 | 2021-10-06 | 2022-07-29 |
 | [Calion](https://open.spotify.com/track/7dPY1pM0h0iDZoJNGHnbRX) | [Anna Meredith](https://open.spotify.com/artist/5zDUidkda0GoYHu2vMr3G2) | [FIBS](https://open.spotify.com/album/1y9d61gXNTgG0rZl7d6IFj) | 5:06 | 2021-10-06 | 2022-08-22 |
 | [Carbonated](https://open.spotify.com/track/5d3qZ4xZv0inQK292Mmnhh) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [Crooks & Lovers](https://open.spotify.com/album/22shOa6UBod9o1HHe0JPmr) | 4:18 | 2021-10-06 |  |
@@ -96,7 +96,7 @@
 | [F7](https://open.spotify.com/track/3s8PqUjMSpcJkfPdb2Fucf) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [SIGN](https://open.spotify.com/album/1KBFcrlvo6vDVOSrWoYy3K) | 5:56 | 2021-10-06 |  |
 | [Falcon Paradise](https://open.spotify.com/track/24BLbKyr3DlTGeov4Goes7) | [Mr\. Mitch](https://open.spotify.com/artist/2XiGESIh2E2ockoVUG4NGv) | [Patrimony](https://open.spotify.com/album/7olQu6AkixLOum1nfMkZvf) | 3:19 | 2021-10-06 | 2022-07-28 |
 | [FALLING RIZLAS](https://open.spotify.com/track/2KeaniyEzZlYZzR1qodSso) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [AZD](https://open.spotify.com/album/7BgZb2snTbs5xpRHlQ8VYt) | 2:25 | 2021-10-06 |  |
-| [Felt compute, might delete](https://open.spotify.com/track/4euYmucoRKixWMTtg2Yan7) | [Jas Shaw](https://open.spotify.com/artist/1iYfEUKXzyy3bE2elxuipV) | [Felt compute, might delete](https://open.spotify.com/album/5bVViDPthJW16lx3kO2IS8) | 3:49 | 2021-10-06 | 2022-09-01 |
+| [Felt compute, might delete](https://open.spotify.com/track/4euYmucoRKixWMTtg2Yan7) | [Jas Shaw](https://open.spotify.com/artist/1iYfEUKXzyy3bE2elxuipV) | [Felt compute, might delete](https://open.spotify.com/album/5bVViDPthJW16lx3kO2IS8) | 3:49 | 2021-10-06 |  |
 | [Fern Flowers](https://open.spotify.com/track/60jGfXjxMVaCtuPiDN81qx) | [Lutto Lento](https://open.spotify.com/artist/5u7ZnbVxxcImkr5fx8GJta) | [LEGENDO](https://open.spotify.com/album/62N0giCXIgepaMQl864MIk) | 4:32 | 2021-10-06 | 2022-08-14 |
 | [Flickering Shadows](https://open.spotify.com/track/7p184ALKyLhtJb8IhmX8qy) | [Laughing Ears](https://open.spotify.com/artist/459p6MR7jigJ8AuqdSYMoj) | [Blood](https://open.spotify.com/album/4ONOBiVS1bbOzYo05uVgT8) | 4:39 | 2021-10-06 | 2022-07-27 |
 | [FlimFlam](https://open.spotify.com/track/4QAiJBmaGVQ7n6eo3fSWH0) | [Michael Peter Olsen](https://open.spotify.com/artist/2wQfvRS5zm8G5xvZVxfFXO), [I Am Robot And Proud](https://open.spotify.com/artist/78Td89Pkz5ApoiIolOTyYA) | [FlimFlam](https://open.spotify.com/album/00lTgznpnHiEYA9xEY9nHD) | 3:11 | 2021-10-06 |  |
@@ -159,6 +159,7 @@
 | [Niffler](https://open.spotify.com/track/1UgC3l3kRvZSj1l94QnJ8b) | [Yilan](https://open.spotify.com/artist/7o1UX2zZS5cu7uwcQ5hVao), [Ren](https://open.spotify.com/artist/7J5Y3wpzYedPu0w7ZMrKgw) | [Suddenly I Am Falling](https://open.spotify.com/album/2BordD7HRLKpTukyPxetBN) | 6:27 | 2021-10-06 | 2022-07-26 |
 | [NLL561606933](https://open.spotify.com/track/1sxkvvUTGKcRoY3IYnKyRb) | [Aleksi Perälä](https://open.spotify.com/artist/3hjBVvW03HcmXfKUipv1Fx) | [Simulation](https://open.spotify.com/album/542oFPILAI1UiGnoHH8XyH) | 4:54 | 2021-10-06 | 2022-07-29 |
 | [NRG Remains](https://open.spotify.com/track/0OsNfb4otfIOdHSUt40ecP) | [Verraco](https://open.spotify.com/artist/4GfEnw0dFSSzB9M65k0dA1) | [Grial](https://open.spotify.com/album/0plvaGqOtMeRPkzUwDgd3X) | 2:56 | 2021-10-06 | 2022-07-22 |
+| [Nutrition \- Single Edit](https://open.spotify.com/track/3A6tEuBqrZGmFXZrYEGx00) | [Tenka](https://open.spotify.com/artist/2B1vFfrtORGBQQdIKAckkw), [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Nutrition](https://open.spotify.com/album/1CHFy3am47XIemogPAnlwi) | 4:39 | 2022-09-15 |  |
 | [Nymphaea Crystals](https://open.spotify.com/track/4AsBd0fnVy2nz0qZYgo2gu) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Nymphaea Crystals](https://open.spotify.com/album/4qYBjbfpvpSQUCDDt8HgfF) | 2:16 | 2021-10-06 | 2022-07-28 |
 | [O=0](https://open.spotify.com/track/3CJhhMbFRpsogjQIOisYvo) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Oversteps](https://open.spotify.com/album/5iaRpin36ZjaOC6PMAZ02l) | 4:52 | 2021-10-06 | 2022-04-21 |
 | [Odyssey](https://open.spotify.com/track/38CvS1tbJBGBxV4TCJda4M) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [El Caso Figo \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/75YNOhNpjEsAG4ktyJjqLy) | 4:41 | 2022-08-31 |  |

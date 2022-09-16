@@ -1,12 +1,12 @@
 {
   "description": "if it feels ethereal, it's here. cover: Hyd ",
-  "num_followers": 308512,
+  "num_followers": 308760,
   "original_name": "Ethereal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzAzMzY3NCwwMDAwMDAwMGVjZjc3OGFkMGZjODkyNjc5NjA2YzVjNDVjZDQ1M2Mw",
+  "snapshot_id": "MTY2MzAzMzY3NCwwMDAwMDAwMDVhMmVjMTY4ZTY4NTMxYzIxNWMzMjhjOTAzZmZmNzhl",
   "tracks": [
     {
       "added_at": "2022-09-09 04:00:00",
@@ -459,6 +459,22 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
+        "name": "Kill For Your Love",
+        "url": "https://open.spotify.com/album/3EEpn39R3tZZnBiaWJFyfQ"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 192170,
+      "name": "Kill For Your Love",
+      "url": "https://open.spotify.com/track/4eaynYNbGdL9F90LGLcUsU"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
         "name": "Heaven or Las Vegas",
         "url": "https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 203464,
       "name": "Lo Vas A Olvidar (with ROSAL\u00cdA)",
       "url": "https://open.spotify.com/track/0psS4i5YooJrXfDnGvWRLi"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Kill For Your Love",
-        "url": "https://open.spotify.com/album/3EEpn39R3tZZnBiaWJFyfQ"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 192170,
-      "name": "Kill For Your Love",
-      "url": "https://open.spotify.com/track/4eaynYNbGdL9F90LGLcUsU"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Letter Blue",
-        "url": "https://open.spotify.com/album/2EfIa1JzzYjckiiEbtM7g3"
-      },
-      "artists": [
-        {
-          "name": "Wet",
-          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
-        }
-      ],
-      "duration_ms": 216635,
-      "name": "Clementine",
-      "url": "https://open.spotify.com/track/4eQHehdMKD9zoHDrzWViHF"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "Goddess (Deluxe)",
         "url": "https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah"
       },
@@ -899,6 +883,22 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
+        "name": "Letter Blue",
+        "url": "https://open.spotify.com/album/2EfIa1JzzYjckiiEbtM7g3"
+      },
+      "artists": [
+        {
+          "name": "Wet",
+          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
+        }
+      ],
+      "duration_ms": 216635,
+      "name": "Clementine",
+      "url": "https://open.spotify.com/track/4eQHehdMKD9zoHDrzWViHF"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
         "name": "Preacher\u2019s Daughter",
         "url": "https://open.spotify.com/album/40pYNrOZaH6Ozmex2nLniD"
       },
@@ -911,6 +911,22 @@
       "duration_ms": 258418,
       "name": "American Teenager",
       "url": "https://open.spotify.com/track/7CbNx8d9y7K60FONoUc82v"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Unbothered",
+        "url": "https://open.spotify.com/album/4FFxpvJlrYnJeOhcCIawKr"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 124954,
+      "name": "Unbothered",
+      "url": "https://open.spotify.com/track/4p1Er46wDz4zGQI7Sxor3W"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -943,22 +959,6 @@
       "duration_ms": 305506,
       "name": "Kerosene!",
       "url": "https://open.spotify.com/track/1Kjw0LwdniCWran4PxJqPQ"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Unbothered",
-        "url": "https://open.spotify.com/album/4FFxpvJlrYnJeOhcCIawKr"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 124954,
-      "name": "Unbothered",
-      "url": "https://open.spotify.com/track/4p1Er46wDz4zGQI7Sxor3W"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
+        "name": "Titanic Rising",
+        "url": "https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk"
+      },
+      "artists": [
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "duration_ms": 353732,
+      "name": "Movies",
+      "url": "https://open.spotify.com/track/6f4itfvWzS59Qu7JWorhxn"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
         "name": "on air",
         "url": "https://open.spotify.com/album/3o3WxRyujYTqTpvqPOvRDm"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 252227,
       "name": "on air",
       "url": "https://open.spotify.com/track/2x6nALrYw5RU5EZZppj4Kj"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Titanic Rising",
-        "url": "https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk"
-      },
-      "artists": [
-        {
-          "name": "Weyes Blood",
-          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
-        }
-      ],
-      "duration_ms": 353732,
-      "name": "Movies",
-      "url": "https://open.spotify.com/track/6f4itfvWzS59Qu7JWorhxn"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "See you Soon",
-        "url": "https://open.spotify.com/album/7K4sR6OiINBpj00mFmiLoG"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 206600,
-      "name": "See you Soon",
-      "url": "https://open.spotify.com/track/5W5N23Xz1Zk6Qi8wkP8UPM"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "Duality",
         "url": "https://open.spotify.com/album/10P8sK3sWqq3IIleoguOmC"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 198466,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/661ahmgEHrphIbXHYqxq5n"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "See you Soon",
+        "url": "https://open.spotify.com/album/7K4sR6OiINBpj00mFmiLoG"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 206600,
+      "name": "See you Soon",
+      "url": "https://open.spotify.com/track/5W5N23Xz1Zk6Qi8wkP8UPM"
     },
     {
       "added_at": "2022-09-09 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OL0nzXOfhW.md) - [plain]
 
 > 發掘世一超新聲，香港RADAR超新聲正式展開！Cover: moon tang
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,089 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,093 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OL0nzXOfhW.md) - [plain]
 | 49 | [皮外傷](https://open.spotify.com/track/67e3Jd8pMdEOGdV7XGUkQQ) | [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR) | [皮外傷](https://open.spotify.com/album/0DK2EbDRBTkJpFhJWv4yo2) | 3:09 |
 | 50 | [I wish I can be Rich](https://open.spotify.com/track/4U2I8Fi2kN6TFpGogWkghW) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [I wish I can be Rich](https://open.spotify.com/album/612xHundAqZJb5bIZusjyC) | 3:46 |
 
-Snapshot ID: `MTY2MjY1MjgwMCwwMDAwMDAwMDcwYzRiNzQxMDVkMGNlMTgzNDBhNDA3M2E3ODNkMjk1`
+Snapshot ID: `MTY2MzI1ODUwMCwwMDAwMDAwMDRjMjBmMGQ4NTI0N2IxOTMwNTljZTZkNGU4YmFjODkw`

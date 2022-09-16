@@ -1,12 +1,12 @@
 {
   "description": "Utan bra musik blir det ingen bra AW. S\u00e5 enkel \u00e4r ekvationen.",
-  "num_followers": 27027,
+  "num_followers": 27033,
   "original_name": "After Work",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4MjAzMjY5MCwwMDAwMDAwMGEzNDg2MGU0OTIxZDQ4YTg0ZTBjOTY3MmMxNWRhMzJk",
+  "snapshot_id": "MTU4MjAzMjY5MCwwMDAwMDAwMDFhNDAwOTA3MjQzOWZhNmQyYjhlOTRkMzQ2ODg0ZjA0",
   "tracks": [
     {
       "added_at": "2020-02-18 13:31:30",
@@ -523,26 +523,6 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "Forever Young",
-        "url": "https://open.spotify.com/album/1x9q23elJDl1E1PzmaoMS8"
-      },
-      "artists": [
-        {
-          "name": "UNDRESSD",
-          "url": "https://open.spotify.com/artist/6t9ucCmbp0yzfgKpSLl7XL"
-        },
-        {
-          "name": "Ellie May",
-          "url": "https://open.spotify.com/artist/4PoDl8ZLsbbdeNBrEC1eSH"
-        }
-      ],
-      "duration_ms": 201765,
-      "name": "Forever Young",
-      "url": "https://open.spotify.com/track/1J2EmhjTmHQxLShYQK7Xti"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
         "name": "Bruises EP",
         "url": "https://open.spotify.com/album/3bAq5agU2IUDfDuO4w50aR"
       },
@@ -559,6 +539,26 @@
       "duration_ms": 212280,
       "name": "Bruises - Steve Void Remix",
       "url": "https://open.spotify.com/track/4raMIjIjMc8JohHth7l9lG"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
+        "name": "Forever Young",
+        "url": "https://open.spotify.com/album/1x9q23elJDl1E1PzmaoMS8"
+      },
+      "artists": [
+        {
+          "name": "UNDRESSD",
+          "url": "https://open.spotify.com/artist/6t9ucCmbp0yzfgKpSLl7XL"
+        },
+        {
+          "name": "Ellie May",
+          "url": "https://open.spotify.com/artist/4PoDl8ZLsbbdeNBrEC1eSH"
+        }
+      ],
+      "duration_ms": 201765,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/1J2EmhjTmHQxLShYQK7Xti"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -907,26 +907,6 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "Snacks",
-        "url": "https://open.spotify.com/album/16H9XbDP9IxeyOohsXkKXb"
-      },
-      "artists": [
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 159760,
-      "name": "Harder (with Bebe Rexha)",
-      "url": "https://open.spotify.com/track/5RgBnDtHKFHgtVdqabjGE3"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
         "name": "Not Ok",
         "url": "https://open.spotify.com/album/3GTuto6NDtZegL6idSk183"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 210943,
       "name": "Not Ok",
       "url": "https://open.spotify.com/track/6aoGtdWXBkYQ2O2wnyIz2x"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
+        "name": "Snacks",
+        "url": "https://open.spotify.com/album/16H9XbDP9IxeyOohsXkKXb"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 159760,
+      "name": "Harder (with Bebe Rexha)",
+      "url": "https://open.spotify.com/track/5RgBnDtHKFHgtVdqabjGE3"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -1019,26 +1019,6 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "Snacks",
-        "url": "https://open.spotify.com/album/16H9XbDP9IxeyOohsXkKXb"
-      },
-      "artists": [
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "Ina Wroldsen",
-          "url": "https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3"
-        }
-      ],
-      "duration_ms": 208106,
-      "name": "Breathe (feat. Ina Wroldsen)",
-      "url": "https://open.spotify.com/track/4Vbz3osCh6DwHYv5gVv5H2"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
         "name": "I Don't Care (with Justin Bieber) [Jonas Blue Remix]",
         "url": "https://open.spotify.com/album/35Cuz13gq76FoBKrEMlYTT"
       },
@@ -1059,6 +1039,26 @@
       "duration_ms": 192681,
       "name": "I Don't Care (with Justin Bieber) - Jonas Blue Remix",
       "url": "https://open.spotify.com/track/1VYj8u5I4L5Xl21zQiQMx7"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
+        "name": "Snacks",
+        "url": "https://open.spotify.com/album/16H9XbDP9IxeyOohsXkKXb"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "Ina Wroldsen",
+          "url": "https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3"
+        }
+      ],
+      "duration_ms": 208106,
+      "name": "Breathe (feat. Ina Wroldsen)",
+      "url": "https://open.spotify.com/track/4Vbz3osCh6DwHYv5gVv5H2"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -1099,26 +1099,6 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "Be Someone",
-        "url": "https://open.spotify.com/album/7x3X4EQy3RgIS4AGopCyEH"
-      },
-      "artists": [
-        {
-          "name": "CamelPhat",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
-        },
-        {
-          "name": "Jake Bugg",
-          "url": "https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg"
-        }
-      ],
-      "duration_ms": 204567,
-      "name": "Be Someone",
-      "url": "https://open.spotify.com/track/4esEsg9IxiTAGMBQLe9XOu"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
         "name": "Hurts 2B Human (feat. Khalid)",
         "url": "https://open.spotify.com/album/3eQRZ9cftF0ezsRsynepNl"
       },
@@ -1135,6 +1115,26 @@
       "duration_ms": 202640,
       "name": "Hurts 2B Human (feat. Khalid)",
       "url": "https://open.spotify.com/track/7c5h27Ju8JE5xWKTQ88KhL"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
+        "name": "Be Someone",
+        "url": "https://open.spotify.com/album/7x3X4EQy3RgIS4AGopCyEH"
+      },
+      "artists": [
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "Jake Bugg",
+          "url": "https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg"
+        }
+      ],
+      "duration_ms": 204567,
+      "name": "Be Someone",
+      "url": "https://open.spotify.com/track/4esEsg9IxiTAGMBQLe9XOu"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
+        "name": "Pixie's Parasol",
+        "url": "https://open.spotify.com/album/6esgSdtyo3SIs0AGlaxSuA"
+      },
+      "artists": [
+        {
+          "name": "Smith & Thell",
+          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
+        }
+      ],
+      "duration_ms": 206493,
+      "name": "Hotel Walls",
+      "url": "https://open.spotify.com/track/0Qn1TA2a7EIcSPc2X1xXmu"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
         "name": "Thing For You (With Martin Solveig)",
         "url": "https://open.spotify.com/album/1cbCgek1ORPGZFKlBIhBmH"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 191398,
       "name": "Thing For You (With Martin Solveig)",
       "url": "https://open.spotify.com/track/0IhTEIjFaRt3B2NQYf9azQ"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
-        "name": "Pixie's Parasol",
-        "url": "https://open.spotify.com/album/6esgSdtyo3SIs0AGlaxSuA"
-      },
-      "artists": [
-        {
-          "name": "Smith & Thell",
-          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
-        }
-      ],
-      "duration_ms": 206493,
-      "name": "Hotel Walls",
-      "url": "https://open.spotify.com/track/0Qn1TA2a7EIcSPc2X1xXmu"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "Sun Is Shining",
-        "url": "https://open.spotify.com/album/1R0fZK3IFtWEpfv8Cgb8jJ"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        }
-      ],
-      "duration_ms": 189243,
-      "name": "Sun Is Shining",
-      "url": "https://open.spotify.com/track/2AbhqUAK0wukEWyb61jqNN"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
         "name": "Too Close",
         "url": "https://open.spotify.com/album/1qndvyChhfvNmTWNi7eLiE"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 147741,
       "name": "Too Close",
       "url": "https://open.spotify.com/track/4Gy6pnhY9GGE3nqD3d0CmU"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
+        "name": "Sun Is Shining",
+        "url": "https://open.spotify.com/album/1R0fZK3IFtWEpfv8Cgb8jJ"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        }
+      ],
+      "duration_ms": 189243,
+      "name": "Sun Is Shining",
+      "url": "https://open.spotify.com/track/2AbhqUAK0wukEWyb61jqNN"
     },
     {
       "added_at": "2020-02-18 13:31:30",

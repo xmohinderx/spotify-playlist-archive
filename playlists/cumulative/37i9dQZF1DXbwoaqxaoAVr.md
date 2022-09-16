@@ -4,7 +4,7 @@
 
 > Pop style reggae for a sunny vibe!
 
-113 songs - 7 hr 8 min - [published](https://open.spotify.com/playlist/6OON8IP5XzEqV1CYjtEBCy)
+114 songs - 7 hr 11 min - [published](https://open.spotify.com/playlist/6OON8IP5XzEqV1CYjtEBCy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Positive Vibration](https://open.spotify.com/track/4UNm4SNzlMECtFnzX4Sfh0) | [Gramps Morgan](https://open.spotify.com/artist/7eA9Vth6x4I2V5kW7RlREX) | [Positive Vibration](https://open.spotify.com/album/2zKQG3ceOM1LzXdedDrAek) | 3:15 | 2021-11-25 | 2022-04-02 |
 | [Pressure](https://open.spotify.com/track/3b2IVvQUr7cIBGReeV9MYW) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Pressure](https://open.spotify.com/album/4UpeLqJhQZJwiNWBvwpdAf) | 3:32 | 2021-11-25 | 2022-03-25 |
 | [Pressure Drop](https://open.spotify.com/track/7G66lsaWrdRqJ4Kt3aZ6as) | [Dukes Of Roots](https://open.spotify.com/artist/7I7JNmHKqu8TLYxfEwaBIA), [Tarrus Riley](https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c) | [Pressure Drop](https://open.spotify.com/album/5LoZVNyZUOPKxDFQdsosb2) | 3:37 | 2022-09-01 |  |
+| [Proper Sensi](https://open.spotify.com/track/4Ga9D6SHCVUNsOLPVSZf9v) | [JR Kenna](https://open.spotify.com/artist/2ZwZZINTWJqycmO64P77kN), [Mr\. Patze](https://open.spotify.com/artist/2YQacuu8Y0C0iXXA4z7k25), [DJ Jeren](https://open.spotify.com/artist/5QkPMsK0XHCvM6jCbKhuEJ) | [Proper Sensi](https://open.spotify.com/album/34Kn8UzygYGV7N5fEAMd4V) | 3:03 | 2022-09-15 |  |
 | [Queen Majesty](https://open.spotify.com/track/2Rn5NVoQqXO6RAzs9ukquC) | [Common Kings](https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL), [Sammy Johnson](https://open.spotify.com/artist/0vMGGYcvLOnwg7t4kl33BA), [The Green](https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh) | [Queen Majesty](https://open.spotify.com/album/2oiyHBqT0oX3x8tP9kwRV2) | 4:08 | 2021-11-25 |  |
 | [Rescue](https://open.spotify.com/track/2saVnMHiSuTmNSrsTvse0i) | [Alysha Brilla](https://open.spotify.com/artist/72McluarQZqpzSS95goQ0Q) | [Woman](https://open.spotify.com/album/4DaJjx2PUk0xunYJ2W5Y0M) | 4:25 | 2022-07-07 |  |
 | [Rescue \(feat\. Mic Dainjah\)](https://open.spotify.com/track/39pT7iJCkKGY6QkWqnvciP) | [Alysha Brilla](https://open.spotify.com/artist/72McluarQZqpzSS95goQ0Q), [Mic Dainjah](https://open.spotify.com/artist/1RUN1lzELak6Yf6NnvhX2A) | [Womyn](https://open.spotify.com/album/6geUEgI95kuk2uUJsw9rwa) | 4:44 | 2021-11-25 | 2022-07-29 |

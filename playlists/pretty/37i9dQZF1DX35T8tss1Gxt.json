@@ -1,12 +1,12 @@
 {
   "description": "Experience music from some of your favorite Gospel artists and those they've influenced.  Cover: Naomi Raine",
-  "num_followers": 160683,
+  "num_followers": 160759,
   "original_name": "Rhythm & Praise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODAzNjMxMSwwMDAwMDAwMGVhYWIzZGVlNDI2YzY3YjlkNzBhMTExNTk1MmEyMjIz",
+  "snapshot_id": "MTY1ODAzNjMxMSwwMDAwMDAwMDdhYjQ1N2M1NzQxMjc0Y2RiOWYxNmJkMjg2NmE4MmNm",
   "tracks": [
     {
       "added_at": "2022-07-17 05:38:31",
@@ -911,6 +911,22 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
+        "name": "Divine Time",
+        "url": "https://open.spotify.com/album/2UXsqyyOhaNUJhkiuvoCQb"
+      },
+      "artists": [
+        {
+          "name": "Ryan Brockington",
+          "url": "https://open.spotify.com/artist/4WFblFAFYMyumOvNYu7e2b"
+        }
+      ],
+      "duration_ms": 152327,
+      "name": "Divine Time",
+      "url": "https://open.spotify.com/track/7KbbymeevVUF5BCz1WvmxJ"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
         "name": "Exodus",
         "url": "https://open.spotify.com/album/21zzQV1Gc1HleOSWgnlGqd"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 180678,
       "name": "Exodus",
       "url": "https://open.spotify.com/track/3l0sQy45fVNdGkgGnE3VQW"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
-        "name": "Divine Time",
-        "url": "https://open.spotify.com/album/2UXsqyyOhaNUJhkiuvoCQb"
-      },
-      "artists": [
-        {
-          "name": "Ryan Brockington",
-          "url": "https://open.spotify.com/artist/4WFblFAFYMyumOvNYu7e2b"
-        }
-      ],
-      "duration_ms": 152327,
-      "name": "Divine Time",
-      "url": "https://open.spotify.com/track/7KbbymeevVUF5BCz1WvmxJ"
     },
     {
       "added_at": "2022-07-17 05:38:31",
@@ -1131,30 +1131,6 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
-        "name": "Gotta Be God",
-        "url": "https://open.spotify.com/album/5QoG06Wf5RiAb3Vf6i1gkv"
-      },
-      "artists": [
-        {
-          "name": "TBabz",
-          "url": "https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V"
-        },
-        {
-          "name": "Sal Ly",
-          "url": "https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ"
-        },
-        {
-          "name": "Da' T.R.U.T.H.",
-          "url": "https://open.spotify.com/artist/2ISIE0MEDMdAF2LDMLrVD4"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Gotta Be God",
-      "url": "https://open.spotify.com/track/66dKe5hsyrNInqBpnxPTPL"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
         "name": "Relying",
         "url": "https://open.spotify.com/album/7IQNM3m3vD6NkghunGuViL"
       },
@@ -1195,6 +1171,30 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
+        "name": "Gotta Be God",
+        "url": "https://open.spotify.com/album/5QoG06Wf5RiAb3Vf6i1gkv"
+      },
+      "artists": [
+        {
+          "name": "TBabz",
+          "url": "https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V"
+        },
+        {
+          "name": "Sal Ly",
+          "url": "https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ"
+        },
+        {
+          "name": "Da' T.R.U.T.H.",
+          "url": "https://open.spotify.com/artist/2ISIE0MEDMdAF2LDMLrVD4"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Gotta Be God",
+      "url": "https://open.spotify.com/track/66dKe5hsyrNInqBpnxPTPL"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
         "name": "Lovely Day",
         "url": "https://open.spotify.com/album/3zZavsjjdDYJYhGKyInr3g"
       },
@@ -1207,6 +1207,22 @@
       "duration_ms": 101214,
       "name": "Lovely Day",
       "url": "https://open.spotify.com/track/6yQ9hTu7K4f19ABETmbuca"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
+        "name": "Let You In",
+        "url": "https://open.spotify.com/album/3Cc6mAPJrSzD7jRMmvxudJ"
+      },
+      "artists": [
+        {
+          "name": "Darla Baltazar",
+          "url": "https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1"
+        }
+      ],
+      "duration_ms": 203023,
+      "name": "Let You In",
+      "url": "https://open.spotify.com/track/4DRdaM4ItZyTXVTtJQbsCr"
     },
     {
       "added_at": "2022-07-17 05:38:31",
@@ -1227,22 +1243,6 @@
       "duration_ms": 298250,
       "name": "King of Kings",
       "url": "https://open.spotify.com/track/1XjfamozcDQ4FzhiBkUdgO"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
-        "name": "Let You In",
-        "url": "https://open.spotify.com/album/3Cc6mAPJrSzD7jRMmvxudJ"
-      },
-      "artists": [
-        {
-          "name": "Darla Baltazar",
-          "url": "https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1"
-        }
-      ],
-      "duration_ms": 203023,
-      "name": "Let You In",
-      "url": "https://open.spotify.com/track/4DRdaM4ItZyTXVTtJQbsCr"
     },
     {
       "added_at": "2022-07-17 05:38:31",
@@ -1283,6 +1283,38 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
+        "name": "Authentic Love",
+        "url": "https://open.spotify.com/album/7l6LQWt8V0gd2kKvGc8aT3"
+      },
+      "artists": [
+        {
+          "name": "Caleb Carroll",
+          "url": "https://open.spotify.com/artist/6mZAjse1AXySWlMyGIxzqf"
+        }
+      ],
+      "duration_ms": 282125,
+      "name": "Authentic Love",
+      "url": "https://open.spotify.com/track/4h9HwkyNhVc8A0XyEIjMWr"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
+        "name": "NONCHALANT",
+        "url": "https://open.spotify.com/album/7y48GxVNmMPN5p33iDQ2eh"
+      },
+      "artists": [
+        {
+          "name": "Marv",
+          "url": "https://open.spotify.com/artist/4jBiLv1a8QGElMKTozxv35"
+        }
+      ],
+      "duration_ms": 179382,
+      "name": "NONCHALANT",
+      "url": "https://open.spotify.com/track/3btBIKiTNd63mNOmPNuIUG"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
         "name": "Lay Low",
         "url": "https://open.spotify.com/album/45lbj08eBm9ZOnlGzBToEd"
       },
@@ -1307,22 +1339,6 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
-        "name": "Authentic Love",
-        "url": "https://open.spotify.com/album/7l6LQWt8V0gd2kKvGc8aT3"
-      },
-      "artists": [
-        {
-          "name": "Caleb Carroll",
-          "url": "https://open.spotify.com/artist/6mZAjse1AXySWlMyGIxzqf"
-        }
-      ],
-      "duration_ms": 282125,
-      "name": "Authentic Love",
-      "url": "https://open.spotify.com/track/4h9HwkyNhVc8A0XyEIjMWr"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
         "name": "Mercy Shores",
         "url": "https://open.spotify.com/album/2hFkHnWuHRlxvtzMsOe5H7"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 206746,
       "name": "Mercy Shores",
       "url": "https://open.spotify.com/track/2DfrxAll5ft3nKQNa6OKEo"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
-        "name": "NONCHALANT",
-        "url": "https://open.spotify.com/album/7y48GxVNmMPN5p33iDQ2eh"
-      },
-      "artists": [
-        {
-          "name": "Marv",
-          "url": "https://open.spotify.com/artist/4jBiLv1a8QGElMKTozxv35"
-        }
-      ],
-      "duration_ms": 179382,
-      "name": "NONCHALANT",
-      "url": "https://open.spotify.com/track/3btBIKiTNd63mNOmPNuIUG"
     },
     {
       "added_at": "2022-07-17 05:38:31",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
-        "name": "Roots",
-        "url": "https://open.spotify.com/album/4nYioApK4PisBkfRaXzO36"
-      },
-      "artists": [
-        {
-          "name": "Jimmy McNeal",
-          "url": "https://open.spotify.com/artist/6qAVuHCboewGWzHF0JwYx5"
-        }
-      ],
-      "duration_ms": 368026,
-      "name": "Hold Me Close",
-      "url": "https://open.spotify.com/track/0rTNfHq56NzUNnIwk6zgru"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
         "name": "Vol 3",
         "url": "https://open.spotify.com/album/6XNIUHPboj5X6br6mTkpFi"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 281250,
       "name": "Thanks and Praise",
       "url": "https://open.spotify.com/track/4RgrucjGNOmcNo2NF7hsYb"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
+        "name": "Roots",
+        "url": "https://open.spotify.com/album/4nYioApK4PisBkfRaXzO36"
+      },
+      "artists": [
+        {
+          "name": "Jimmy McNeal",
+          "url": "https://open.spotify.com/artist/6qAVuHCboewGWzHF0JwYx5"
+        }
+      ],
+      "duration_ms": 368026,
+      "name": "Hold Me Close",
+      "url": "https://open.spotify.com/track/0rTNfHq56NzUNnIwk6zgru"
     },
     {
       "added_at": "2022-07-17 05:38:31",
@@ -1775,6 +1775,22 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
+        "name": "No One's Gonna Save Me",
+        "url": "https://open.spotify.com/album/4yP1cRV0rpwGqLnyj0Ye6i"
+      },
+      "artists": [
+        {
+          "name": "Saint James",
+          "url": "https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "No One's Gonna Save Me",
+      "url": "https://open.spotify.com/track/2sKX02STKwRRUNqrwohWvV"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
         "name": "Belongs To You (R&B Remix)",
         "url": "https://open.spotify.com/album/3uXFWEyEpYYnOhwHjBUxOz"
       },
@@ -1795,22 +1811,6 @@
       "duration_ms": 191122,
       "name": "Belongs To You - R&B Remix",
       "url": "https://open.spotify.com/track/66pxUHORGhVzEjvzIAijcq"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
-        "name": "No One's Gonna Save Me",
-        "url": "https://open.spotify.com/album/4yP1cRV0rpwGqLnyj0Ye6i"
-      },
-      "artists": [
-        {
-          "name": "Saint James",
-          "url": "https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "No One's Gonna Save Me",
-      "url": "https://open.spotify.com/track/2sKX02STKwRRUNqrwohWvV"
     },
     {
       "added_at": "2022-07-17 05:38:31",

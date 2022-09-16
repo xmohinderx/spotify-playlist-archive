@@ -1,12 +1,12 @@
 {
   "description": "Chill. The best indie tracks for just hanging out.",
-  "num_followers": 742748,
+  "num_followers": 742771,
   "original_name": "Indie Chillout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzE5NjA2MSwwMDAwMDAwMDMyYmU5MDk3Yjg5ZTA0MGFhMzg0NDYwNWM2MmZkNTBl",
+  "snapshot_id": "MTY2MzI2MDEwMSwwMDAwMDAwMDJhZWQ0MGE5NGFiY2ExYmFkNDkwYTZjZGVlNzBhZjNl",
   "tracks": [
     {
       "added_at": "2022-09-02 18:24:30",
@@ -139,38 +139,6 @@
     {
       "added_at": "2022-09-02 18:24:30",
       "album": {
-        "name": "Twenty Twenty",
-        "url": "https://open.spotify.com/album/4v3LUnHL01HzJC6Jol6FCv"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 272157,
-      "name": "Chateau (Feel Alright)",
-      "url": "https://open.spotify.com/track/41mclLjggl2nmbYpRisKrh"
-    },
-    {
-      "added_at": "2022-09-02 18:24:30",
-      "album": {
-        "name": "L-Train",
-        "url": "https://open.spotify.com/album/3HqA2mPPC5Uadvdt9AU0HO"
-      },
-      "artists": [
-        {
-          "name": "TOLEDO",
-          "url": "https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO"
-        }
-      ],
-      "duration_ms": 227053,
-      "name": "L-Train",
-      "url": "https://open.spotify.com/track/5uDxY7uEOSHI8OOqYphnr4"
-    },
-    {
-      "added_at": "2022-09-02 18:24:30",
-      "album": {
         "name": "Don't Forget About Me, Demos",
         "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
       },
@@ -183,6 +151,22 @@
       "duration_ms": 97960,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
+    },
+    {
+      "added_at": "2022-09-02 18:24:30",
+      "album": {
+        "name": "Twenty Twenty",
+        "url": "https://open.spotify.com/album/4v3LUnHL01HzJC6Jol6FCv"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 272157,
+      "name": "Chateau (Feel Alright)",
+      "url": "https://open.spotify.com/track/41mclLjggl2nmbYpRisKrh"
     },
     {
       "added_at": "2022-09-02 18:24:30",
@@ -203,22 +187,6 @@
     {
       "added_at": "2022-09-02 18:24:30",
       "album": {
-        "name": "Cigarettes After Sex",
-        "url": "https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 291640,
-      "name": "Sweet",
-      "url": "https://open.spotify.com/track/3VSYkAf6f46i5ZkXOHORq1"
-    },
-    {
-      "added_at": "2022-09-02 18:24:30",
-      "album": {
         "name": "Atlanta Millionaires Club",
         "url": "https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn"
       },
@@ -231,22 +199,6 @@
       "duration_ms": 202653,
       "name": "Kingston",
       "url": "https://open.spotify.com/track/5WbfFTuIldjL9x7W6y5l7R"
-    },
-    {
-      "added_at": "2022-09-02 18:24:30",
-      "album": {
-        "name": "play it pretty",
-        "url": "https://open.spotify.com/album/7fip95aV1gjbCJBqHoa8lR"
-      },
-      "artists": [
-        {
-          "name": "Hether",
-          "url": "https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "dirty claws",
-      "url": "https://open.spotify.com/track/4dTnpAfrXeEWuGQt1cA3SF"
     },
     {
       "added_at": "2022-09-02 18:24:30",
@@ -283,6 +235,38 @@
       "duration_ms": 260519,
       "name": "Bags",
       "url": "https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc"
+    },
+    {
+      "added_at": "2022-09-02 18:24:30",
+      "album": {
+        "name": "play it pretty",
+        "url": "https://open.spotify.com/album/7fip95aV1gjbCJBqHoa8lR"
+      },
+      "artists": [
+        {
+          "name": "Hether",
+          "url": "https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "dirty claws",
+      "url": "https://open.spotify.com/track/4dTnpAfrXeEWuGQt1cA3SF"
+    },
+    {
+      "added_at": "2022-09-02 18:24:30",
+      "album": {
+        "name": "Cigarettes After Sex",
+        "url": "https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 291640,
+      "name": "Sweet",
+      "url": "https://open.spotify.com/track/3VSYkAf6f46i5ZkXOHORq1"
     },
     {
       "added_at": "2022-09-02 18:24:30",
@@ -349,6 +333,22 @@
       "url": "https://open.spotify.com/track/7CH99b2i1TXS5P8UUyWtnM"
     },
     {
+      "added_at": "2022-09-07 16:03:53",
+      "album": {
+        "name": "Ivory",
+        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 216680,
+      "name": "Evergreen (You Didn\u2019t Deserve Me At All)",
+      "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
+    },
+    {
       "added_at": "2022-09-02 18:24:30",
       "album": {
         "name": "striptease",
@@ -367,22 +367,6 @@
     {
       "added_at": "2022-09-02 18:24:30",
       "album": {
-        "name": "Twenty Twenty",
-        "url": "https://open.spotify.com/album/4v3LUnHL01HzJC6Jol6FCv"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 252987,
-      "name": "Roddy",
-      "url": "https://open.spotify.com/track/20WSCvv9qfQHzYzTaLyXHH"
-    },
-    {
-      "added_at": "2022-09-02 18:24:30",
-      "album": {
         "name": "Freakin' Out On The Interstate (Acoustic Version [Live])",
         "url": "https://open.spotify.com/album/0dXQf9UooGFoxLamqfkURl"
       },
@@ -397,20 +381,20 @@
       "url": "https://open.spotify.com/track/0awZwmlC6pxH65KTZpadmX"
     },
     {
-      "added_at": "2022-09-07 16:03:53",
+      "added_at": "2022-09-02 18:24:30",
       "album": {
-        "name": "Ivory",
-        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
+        "name": "Twenty Twenty",
+        "url": "https://open.spotify.com/album/4v3LUnHL01HzJC6Jol6FCv"
       },
       "artists": [
         {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
         }
       ],
-      "duration_ms": 216680,
-      "name": "Evergreen",
-      "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
+      "duration_ms": 252987,
+      "name": "Roddy",
+      "url": "https://open.spotify.com/track/20WSCvv9qfQHzYzTaLyXHH"
     },
     {
       "added_at": "2022-09-02 18:24:30",
@@ -463,6 +447,22 @@
     {
       "added_at": "2022-09-02 18:24:30",
       "album": {
+        "name": "I.",
+        "url": "https://open.spotify.com/album/6w9osZGOS8B7XWW51SBwFT"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 286293,
+      "name": "Nothing's Gonna Hurt You Baby",
+      "url": "https://open.spotify.com/track/3GhsBdS9ulPK3KCdwHRPhG"
+    },
+    {
+      "added_at": "2022-09-02 18:24:30",
+      "album": {
         "name": "What Box?",
         "url": "https://open.spotify.com/album/6zxHzgT0fKSMEgIi7BpoyQ"
       },
@@ -491,22 +491,6 @@
       "duration_ms": 229785,
       "name": "Soul Brother",
       "url": "https://open.spotify.com/track/7Ec6uyUupAzH99HSmsMDfn"
-    },
-    {
-      "added_at": "2022-09-02 18:24:30",
-      "album": {
-        "name": "I.",
-        "url": "https://open.spotify.com/album/6w9osZGOS8B7XWW51SBwFT"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 286293,
-      "name": "Nothing's Gonna Hurt You Baby",
-      "url": "https://open.spotify.com/track/3GhsBdS9ulPK3KCdwHRPhG"
     },
     {
       "added_at": "2022-09-02 18:24:30",
@@ -619,6 +603,22 @@
     {
       "added_at": "2022-09-02 18:24:30",
       "album": {
+        "name": "You're All I Want",
+        "url": "https://open.spotify.com/album/5lU2BUnMIIe6JcbqV9LXtS"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 264453,
+      "name": "You're All I Want",
+      "url": "https://open.spotify.com/track/0EUw3ZK8Ti14t6R6FOP8Ty"
+    },
+    {
+      "added_at": "2022-09-02 18:24:30",
+      "album": {
         "name": "Numb",
         "url": "https://open.spotify.com/album/1HMR6PG5Su7p0JjRws7NBb"
       },
@@ -651,18 +651,22 @@
     {
       "added_at": "2022-09-02 18:24:30",
       "album": {
-        "name": "You're All I Want",
-        "url": "https://open.spotify.com/album/5lU2BUnMIIe6JcbqV9LXtS"
+        "name": "Texas Moon",
+        "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
       },
       "artists": [
         {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 264453,
-      "name": "You're All I Want",
-      "url": "https://open.spotify.com/track/0EUw3ZK8Ti14t6R6FOP8Ty"
+      "duration_ms": 274391,
+      "name": "B-Side",
+      "url": "https://open.spotify.com/track/2DccHqTquzubziHAPZRdct"
     },
     {
       "added_at": "2022-09-02 18:24:30",
@@ -695,26 +699,6 @@
       "duration_ms": 224481,
       "name": "Work",
       "url": "https://open.spotify.com/track/1knUACOt5yfNAYn7gnYQVt"
-    },
-    {
-      "added_at": "2022-09-02 18:24:30",
-      "album": {
-        "name": "Texas Moon",
-        "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        },
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 274391,
-      "name": "B-Side",
-      "url": "https://open.spotify.com/track/2DccHqTquzubziHAPZRdct"
     },
     {
       "added_at": "2022-09-02 18:24:30",
@@ -767,6 +751,22 @@
     {
       "added_at": "2022-09-02 18:24:30",
       "album": {
+        "name": "Mordechai",
+        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 342189,
+      "name": "Time (You and I)",
+      "url": "https://open.spotify.com/track/0S3BtG3i5tkQmehJhIhHF3"
+    },
+    {
+      "added_at": "2022-09-02 18:24:30",
+      "album": {
         "name": "Blood Type",
         "url": "https://open.spotify.com/album/1xpNb3oOnWsZJYQyomLe4Z"
       },
@@ -779,26 +779,6 @@
       "duration_ms": 202597,
       "name": "Cold War",
       "url": "https://open.spotify.com/track/6DwiGVCgXGREeCyJZtX7S1"
-    },
-    {
-      "added_at": "2022-09-02 18:24:30",
-      "album": {
-        "name": "Long Lost",
-        "url": "https://open.spotify.com/album/5xiePX6kXj5ZsmUsqIqzeD"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        },
-        {
-          "name": "Allison Ponthier",
-          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
-        }
-      ],
-      "duration_ms": 234383,
-      "name": "I Lied (with Allison Ponthier)",
-      "url": "https://open.spotify.com/track/7xQg5QTx8eiQnsxEnfynPh"
     },
     {
       "added_at": "2022-09-02 18:24:30",
@@ -819,18 +799,22 @@
     {
       "added_at": "2022-09-02 18:24:30",
       "album": {
-        "name": "Mordechai",
-        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
+        "name": "Long Lost",
+        "url": "https://open.spotify.com/album/5xiePX6kXj5ZsmUsqIqzeD"
       },
       "artists": [
         {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        },
+        {
+          "name": "Allison Ponthier",
+          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
         }
       ],
-      "duration_ms": 342189,
-      "name": "Time (You and I)",
-      "url": "https://open.spotify.com/track/0S3BtG3i5tkQmehJhIhHF3"
+      "duration_ms": 234383,
+      "name": "I Lied (with Allison Ponthier)",
+      "url": "https://open.spotify.com/track/7xQg5QTx8eiQnsxEnfynPh"
     },
     {
       "added_at": "2022-09-02 18:24:30",
@@ -899,22 +883,6 @@
     {
       "added_at": "2022-09-02 18:24:30",
       "album": {
-        "name": "The Universe Smiles Upon You",
-        "url": "https://open.spotify.com/album/2OPcQNLP8DQVumD8kBRAH3"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 218306,
-      "name": "White Gloves",
-      "url": "https://open.spotify.com/track/4AKUOaCRcoKTFnVI9LtsrN"
-    },
-    {
-      "added_at": "2022-09-02 18:24:30",
-      "album": {
         "name": "i,i",
         "url": "https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW"
       },
@@ -927,6 +895,22 @@
       "duration_ms": 216706,
       "name": "Hey, Ma",
       "url": "https://open.spotify.com/track/0RstfX9nRY1Lfuy1808MoT"
+    },
+    {
+      "added_at": "2022-09-02 18:24:30",
+      "album": {
+        "name": "The Universe Smiles Upon You",
+        "url": "https://open.spotify.com/album/2OPcQNLP8DQVumD8kBRAH3"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 218306,
+      "name": "White Gloves",
+      "url": "https://open.spotify.com/track/4AKUOaCRcoKTFnVI9LtsrN"
     },
     {
       "added_at": "2022-09-02 18:24:30",
@@ -1031,22 +1015,6 @@
     {
       "added_at": "2022-09-02 18:24:30",
       "album": {
-        "name": "Woman",
-        "url": "https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9"
-      },
-      "artists": [
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        }
-      ],
-      "duration_ms": 217053,
-      "name": "Open",
-      "url": "https://open.spotify.com/track/3JsA2sWDNR9oQogGAzqqtH"
-    },
-    {
-      "added_at": "2022-09-02 18:24:30",
-      "album": {
         "name": "Oh Wonder",
         "url": "https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT"
       },
@@ -1063,6 +1031,22 @@
     {
       "added_at": "2022-09-02 18:24:30",
       "album": {
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "duration_ms": 217053,
+      "name": "Open",
+      "url": "https://open.spotify.com/track/3JsA2sWDNR9oQogGAzqqtH"
+    },
+    {
+      "added_at": "2022-09-02 18:24:30",
+      "album": {
         "name": "Are We There",
         "url": "https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4"
       },
@@ -1075,22 +1059,6 @@
       "duration_ms": 262520,
       "name": "Every Time the Sun Comes Up",
       "url": "https://open.spotify.com/track/61qxP4Vs5DVX0Ic4GnBklu"
-    },
-    {
-      "added_at": "2022-09-02 18:24:30",
-      "album": {
-        "name": "Got Weird",
-        "url": "https://open.spotify.com/album/2NBdHnQrggzuLN3FgeO9Om"
-      },
-      "artists": [
-        {
-          "name": "dodie",
-          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
-        }
-      ],
-      "duration_ms": 202435,
-      "name": "Got Weird",
-      "url": "https://open.spotify.com/track/5z1KeOpL9n1b3iFAJk91iu"
     },
     {
       "added_at": "2022-09-02 18:24:30",
@@ -1123,6 +1091,22 @@
       "duration_ms": 237973,
       "name": "No Woman",
       "url": "https://open.spotify.com/track/5KPXcfXaGOaWUqOHLDXFRP"
+    },
+    {
+      "added_at": "2022-09-02 18:24:30",
+      "album": {
+        "name": "Got Weird",
+        "url": "https://open.spotify.com/album/2NBdHnQrggzuLN3FgeO9Om"
+      },
+      "artists": [
+        {
+          "name": "dodie",
+          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+        }
+      ],
+      "duration_ms": 202435,
+      "name": "Got Weird",
+      "url": "https://open.spotify.com/track/5z1KeOpL9n1b3iFAJk91iu"
     },
     {
       "added_at": "2022-09-02 18:24:30",
@@ -1239,6 +1223,22 @@
       "duration_ms": 174735,
       "name": "ocean view",
       "url": "https://open.spotify.com/track/4MfLjVBgqn4e8fBKWJk6sU"
+    },
+    {
+      "added_at": "2022-09-02 18:24:30",
+      "album": {
+        "name": "Vide Noir",
+        "url": "https://open.spotify.com/album/2oiJM8vFGpxrtGtFfJWhJv"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 311226,
+      "name": "When the Night is Over",
+      "url": "https://open.spotify.com/track/4FE9SgxcOoCNuGnaaU8TXz"
     }
   ],
   "unique_name": "Indie Chillout",

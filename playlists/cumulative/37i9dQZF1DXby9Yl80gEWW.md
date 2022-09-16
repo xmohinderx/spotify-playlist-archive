@@ -4,7 +4,7 @@
 
 > A taste of the very best bluegrass instrumentals, classic and new.
 
-182 songs - 10 hr 57 min - [published](https://open.spotify.com/playlist/4YsfLsdnQQm3Z91YQleLNc)
+183 songs - 11 hr 1 min - [published](https://open.spotify.com/playlist/4YsfLsdnQQm3Z91YQleLNc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Carl’s Breakdown](https://open.spotify.com/track/1WSgLVVvvhF0UvJdpaErCj) | [Shadowgrass](https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE) | [Shadowgrass](https://open.spotify.com/album/0JqSs11UVGIqPsoGWpLFz1) | 4:47 | 2022-04-29 |  |
 | [Cattle in the Cane](https://open.spotify.com/track/0XcB1mqwPSIvmpAqXWcEFS) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [Cattle in the Cane](https://open.spotify.com/album/0lh355GxjrO9zVZ7gHUdUb) | 3:32 | 2021-12-03 | 2022-07-29 |
 | [Cattle in the Cane](https://open.spotify.com/track/1iNIB7xrjq8qr2efZNJD0J) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [Hell on Church Street](https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA) | 3:32 | 2022-07-22 |  |
+| [Cellopickin'](https://open.spotify.com/track/656nmSiyqb2Y5Hv1M795ux) | [William Jack](https://open.spotify.com/artist/3Ds96gXKTTw3CRUZaLTZqK) | [Cellopickin'](https://open.spotify.com/album/5GORB7gJRciuBSmr5zXLva) | 3:16 | 2022-07-29 |  |
 | [Charm School \(feat\. Billy Strings & Chris Thile\)](https://open.spotify.com/track/7hpdC8tS3uHgsChnhduQy4) | [Béla Fleck](https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf), [Chris Thile](https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF) | [Charm School \(feat\. Billy Strings & Chris Thile\)](https://open.spotify.com/album/4HMIri0VEv19S8fMjJlsFs) | 8:03 | 2021-12-03 |  |
 | [Chasin' Skies](https://open.spotify.com/track/69GpWKHqVyweUMVmaVCkfR) | [Tessa Lark](https://open.spotify.com/artist/5gXi9wbyhDHyoQlIdN6S72), [Sierra Hull](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB) | [Chasin' Skies](https://open.spotify.com/album/3Lc73BBwDQcStgrlf7Bt1N) | 2:38 | 2022-07-15 |  |
 | [Cheyenne](https://open.spotify.com/track/36Qy9UrlwIGQyltqHcTYYB) | [The Bluegrass Album Band](https://open.spotify.com/artist/0n0pcmxYdOHk1fl5gvWGiU) | [58957: The Bluegrass Guitar Collection](https://open.spotify.com/album/2Ii3WXidbwtPzdiWEmDOmG) | 3:30 | 2021-12-03 |  |
@@ -73,7 +74,7 @@
 | [EMD](https://open.spotify.com/track/2VLV2108fW3ZwYIAYpZYHb) | [Pinecastle Records](https://open.spotify.com/artist/05ohk4u1CL6VHaZP0VyWMG), [Scott Vestal](https://open.spotify.com/artist/6dnbsL19QVqDqacfrak5IC), [Randy Kohrs](https://open.spotify.com/artist/1u6uhZzou3OAmwvAiOTunN), [Tim Crouch](https://open.spotify.com/artist/1q7fFBA1aUDCQMhpUAIMxb), [Cody Kilby](https://open.spotify.com/artist/128a425UwZIlWs3LTWeRpP), [Byron House](https://open.spotify.com/artist/6lSbVfPSL0Pa9z1fQfTwfE), [Jonah Horton](https://open.spotify.com/artist/7fqInLhy184lhVDLjSKYal) | [EMD](https://open.spotify.com/album/6EvXb5NjFdjQfLGIPttxcF) | 3:49 | 2022-01-07 |  |
 | [Eternal Blues](https://open.spotify.com/track/4HitPhJOcrzOSmk7FyqkE6) | [Aubrey Haynie](https://open.spotify.com/artist/0z4IT2s3fD9BWMUE52fU9S) | [A Man Must Carry On](https://open.spotify.com/album/01Fru9pmsJY6eahTSxAf6c) | 5:29 | 2021-12-03 |  |
 | [Fall Creek Falls](https://open.spotify.com/track/3oCvqK23kHOETKauiNz3rc) | [Jim Van Cleve](https://open.spotify.com/artist/3LW2QyNwf0Q4FxiqFnkbBd) | [No Apologies](https://open.spotify.com/album/01D8OSLX1pqnyFFxNLV68H) | 4:24 | 2021-12-03 | 2022-07-29 |
-| [Fall Creek Falls](https://open.spotify.com/track/31OASoQ8HPlyFG5vw2jtQs) | [Jim Vancleve](https://open.spotify.com/artist/3X65bj5nJ6AUMp2hymccdR) | [No Apologies](https://open.spotify.com/album/6xFyECGZSqq5HSJr1iHCdT) | 4:24 | 2022-07-22 |  |
+| [Fall Creek Falls](https://open.spotify.com/track/31OASoQ8HPlyFG5vw2jtQs) | [Jim Vancleve](https://open.spotify.com/artist/3X65bj5nJ6AUMp2hymccdR) | [No Apologies](https://open.spotify.com/album/6xFyECGZSqq5HSJr1iHCdT) | 4:24 | 2022-07-22 | 2022-09-16 |
 | [Fiddler's Dream](https://open.spotify.com/track/7qOf0MZAFj4WP0PQVOpVeL) | [Michael Cleveland](https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk) | [Fiddler's Dream](https://open.spotify.com/album/5uxzNJhQaIvtl37aeSRJNG) | 3:37 | 2021-12-03 |  |
 | [Fiddler's Dream](https://open.spotify.com/track/69iYUGQUEblPnaPIpR6vjS) | [Rob Ickes](https://open.spotify.com/artist/484t62XnzdAjOXvx7IQWDd), [Blue Highway](https://open.spotify.com/artist/4nnZcSw4lGTxiq3AvYt8Dd) | [Bluegrass Number 1's](https://open.spotify.com/album/465KUMFbuTnXJd2WqxYCyY) | 2:18 | 2021-12-03 | 2022-05-18 |
 | [Finch In The Pantry](https://open.spotify.com/track/3A9Ko23awcO4gL0a9RTesh) | [The Arcadian Wild](https://open.spotify.com/artist/4tHZV2ZowPkzOvX4eG1inY) | [Finch In The Pantry](https://open.spotify.com/album/3GNgRPzfWWQ6UAkcYzTTvg) | 3:51 | 2021-12-03 | 2022-09-10 |

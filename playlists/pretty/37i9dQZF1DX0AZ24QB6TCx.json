@@ -1,12 +1,12 @@
 {
   "description": "Relax with deep house and electronica.",
-  "num_followers": 266317,
+  "num_followers": 266457,
   "original_name": "Afterhours",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjczNzUyOCwwMDAwMDAwMDYzMGE5MTZhOTc4YTk4NDMyNGE5MzllZTZhY2Q2N2Yw",
+  "snapshot_id": "MTY2MjczNzUyOCwwMDAwMDAwMGY2NjU4YTlhNzUxZTJhMzAyODY2MmVjMzJjMWNkZTBl",
   "tracks": [
     {
       "added_at": "2022-09-09 15:32:07",
@@ -807,6 +807,22 @@
     {
       "added_at": "2022-09-09 15:32:07",
       "album": {
+        "name": "Burning Sun",
+        "url": "https://open.spotify.com/album/3UVk7K3ddWmMvrf0Z4iD3L"
+      },
+      "artists": [
+        {
+          "name": "AK",
+          "url": "https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A"
+        }
+      ],
+      "duration_ms": 216960,
+      "name": "Burning Sun",
+      "url": "https://open.spotify.com/track/2ybxXZvwT6lje7Y1HY4fX7"
+    },
+    {
+      "added_at": "2022-09-09 15:32:07",
+      "album": {
         "name": "Drum 'N' Feels",
         "url": "https://open.spotify.com/album/5t2hYyJ6Rf0lSTTthWW2h8"
       },
@@ -843,6 +859,38 @@
     {
       "added_at": "2022-09-09 15:32:07",
       "album": {
+        "name": "World Turns",
+        "url": "https://open.spotify.com/album/7K8RJNBjoUJrM9mnXQrqfn"
+      },
+      "artists": [
+        {
+          "name": "Rival Consoles",
+          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
+        }
+      ],
+      "duration_ms": 323919,
+      "name": "World Turns",
+      "url": "https://open.spotify.com/track/4JHtCJCbj7RcxfMQtCGOF4"
+    },
+    {
+      "added_at": "2022-09-09 15:32:07",
+      "album": {
+        "name": "Unspoken Words",
+        "url": "https://open.spotify.com/album/5JuO2GgzgGLrF1Kz0l82Qk"
+      },
+      "artists": [
+        {
+          "name": "Max Cooper",
+          "url": "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
+        }
+      ],
+      "duration_ms": 285675,
+      "name": "Spectrum",
+      "url": "https://open.spotify.com/track/4rw9xbxHWWRuihfAvQG3M2"
+    },
+    {
+      "added_at": "2022-09-09 15:32:07",
+      "album": {
         "name": "Don't Go Asking",
         "url": "https://open.spotify.com/album/61IwZ9b7ob482lwl6SXuHt"
       },
@@ -867,38 +915,6 @@
     {
       "added_at": "2022-09-09 15:32:07",
       "album": {
-        "name": "Unspoken Words",
-        "url": "https://open.spotify.com/album/5JuO2GgzgGLrF1Kz0l82Qk"
-      },
-      "artists": [
-        {
-          "name": "Max Cooper",
-          "url": "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
-        }
-      ],
-      "duration_ms": 285675,
-      "name": "Spectrum",
-      "url": "https://open.spotify.com/track/4rw9xbxHWWRuihfAvQG3M2"
-    },
-    {
-      "added_at": "2022-09-09 15:32:07",
-      "album": {
-        "name": "World Turns",
-        "url": "https://open.spotify.com/album/7K8RJNBjoUJrM9mnXQrqfn"
-      },
-      "artists": [
-        {
-          "name": "Rival Consoles",
-          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
-        }
-      ],
-      "duration_ms": 323919,
-      "name": "World Turns",
-      "url": "https://open.spotify.com/track/4JHtCJCbj7RcxfMQtCGOF4"
-    },
-    {
-      "added_at": "2022-09-09 15:32:07",
-      "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/46UzxFevi5s9dLn4Tez9th"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 293701,
       "name": "Solo",
       "url": "https://open.spotify.com/track/3aJSJAzqPfTGX05wAXGFxS"
-    },
-    {
-      "added_at": "2022-09-09 15:32:07",
-      "album": {
-        "name": "Burning Sun",
-        "url": "https://open.spotify.com/album/3UVk7K3ddWmMvrf0Z4iD3L"
-      },
-      "artists": [
-        {
-          "name": "AK",
-          "url": "https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A"
-        }
-      ],
-      "duration_ms": 216960,
-      "name": "Burning Sun",
-      "url": "https://open.spotify.com/track/2ybxXZvwT6lje7Y1HY4fX7"
     },
     {
       "added_at": "2022-09-09 15:32:07",
@@ -967,22 +967,6 @@
     {
       "added_at": "2022-09-09 15:32:07",
       "album": {
-        "name": "I Won't Be",
-        "url": "https://open.spotify.com/album/3K2b6GOuzImeJjTpHM17J5"
-      },
-      "artists": [
-        {
-          "name": "NIHILS",
-          "url": "https://open.spotify.com/artist/0O7NhieDairfQvi9jr66Cx"
-        }
-      ],
-      "duration_ms": 212596,
-      "name": "I Won't Be",
-      "url": "https://open.spotify.com/track/5X5JHsuS1lmJYaOISpXTJN"
-    },
-    {
-      "added_at": "2022-09-09 15:32:07",
-      "album": {
         "name": "Clarion (Kiasmos Remix)",
         "url": "https://open.spotify.com/album/57HX6lB11c4KENls8XUfAD"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 343278,
       "name": "Clarion - Kiasmos Remix",
       "url": "https://open.spotify.com/track/3VSQJhXdcJZOLyTLPbmxDr"
+    },
+    {
+      "added_at": "2022-09-09 15:32:07",
+      "album": {
+        "name": "I Won't Be",
+        "url": "https://open.spotify.com/album/3K2b6GOuzImeJjTpHM17J5"
+      },
+      "artists": [
+        {
+          "name": "NIHILS",
+          "url": "https://open.spotify.com/artist/0O7NhieDairfQvi9jr66Cx"
+        }
+      ],
+      "duration_ms": 212596,
+      "name": "I Won't Be",
+      "url": "https://open.spotify.com/track/5X5JHsuS1lmJYaOISpXTJN"
     },
     {
       "added_at": "2022-09-09 15:32:07",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2022-09-09 15:32:07",
       "album": {
-        "name": "The K\u00e1rm\u00e1n Line",
-        "url": "https://open.spotify.com/album/1JQp2HkeTTYoaQOTcJdFfi"
-      },
-      "artists": [
-        {
-          "name": "Pablo Nouvelle",
-          "url": "https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P"
-        }
-      ],
-      "duration_ms": 203657,
-      "name": "The K\u00e1rm\u00e1n Line",
-      "url": "https://open.spotify.com/track/1dcu7ZenUoBB7J0r1sg5lz"
-    },
-    {
-      "added_at": "2022-09-09 15:32:07",
-      "album": {
         "name": "Quarantine",
         "url": "https://open.spotify.com/album/14lJ0laxlNQnVTJ2WJsKuy"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 333223,
       "name": "Quarantine - Original",
       "url": "https://open.spotify.com/track/3PygOTzzolVCIZKUIvhgNS"
+    },
+    {
+      "added_at": "2022-09-09 15:32:07",
+      "album": {
+        "name": "The K\u00e1rm\u00e1n Line",
+        "url": "https://open.spotify.com/album/1JQp2HkeTTYoaQOTcJdFfi"
+      },
+      "artists": [
+        {
+          "name": "Pablo Nouvelle",
+          "url": "https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P"
+        }
+      ],
+      "duration_ms": 203657,
+      "name": "The K\u00e1rm\u00e1n Line",
+      "url": "https://open.spotify.com/track/1dcu7ZenUoBB7J0r1sg5lz"
     },
     {
       "added_at": "2022-09-09 15:32:07",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2022-09-09 15:32:07",
       "album": {
-        "name": "AvA",
-        "url": "https://open.spotify.com/album/2tbdf6Acn9D7UFOB10EedD"
-      },
-      "artists": [
-        {
-          "name": "Amy Root",
-          "url": "https://open.spotify.com/artist/25BkQ40MvbdCyNbX8DJd73"
-        }
-      ],
-      "duration_ms": 287986,
-      "name": "AvA",
-      "url": "https://open.spotify.com/track/3iCcDV8pYG9m5RnOMLhL2n"
-    },
-    {
-      "added_at": "2022-09-09 15:32:07",
-      "album": {
         "name": "Follow",
         "url": "https://open.spotify.com/album/5lOpduLiv7Cexz1YUWtk5w"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 296687,
       "name": "Follow (Extended Mix)",
       "url": "https://open.spotify.com/track/7eMdP75WNeu2y8VpKzmfYX"
+    },
+    {
+      "added_at": "2022-09-09 15:32:07",
+      "album": {
+        "name": "AvA",
+        "url": "https://open.spotify.com/album/2tbdf6Acn9D7UFOB10EedD"
+      },
+      "artists": [
+        {
+          "name": "Amy Root",
+          "url": "https://open.spotify.com/artist/25BkQ40MvbdCyNbX8DJd73"
+        }
+      ],
+      "duration_ms": 287986,
+      "name": "AvA",
+      "url": "https://open.spotify.com/track/3iCcDV8pYG9m5RnOMLhL2n"
     },
     {
       "added_at": "2022-09-09 15:32:07",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2022-09-09 15:32:07",
       "album": {
-        "name": "Neunivai",
-        "url": "https://open.spotify.com/album/7l228NGTYSldObg2XLzCfS"
+        "name": "LUZ",
+        "url": "https://open.spotify.com/album/2Xh5yUHosjfKq2B0ud0c98"
       },
       "artists": [
         {
-          "name": "Volen Sentir",
-          "url": "https://open.spotify.com/artist/7scXA3hBD8JyGGajVR9q9l"
+          "name": "Axel Boman",
+          "url": "https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O"
         }
       ],
-      "duration_ms": 438533,
-      "name": "Neunivai - Original Mix",
-      "url": "https://open.spotify.com/track/3S8gi2Vq1t8bKysBJ4783m"
+      "duration_ms": 217104,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/6kG8jzJh9Wm4TRyMcX47xV"
     }
   ],
   "unique_name": "Afterhours",

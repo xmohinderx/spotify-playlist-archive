@@ -1,12 +1,12 @@
 {
   "description": "Dope, Asian, and Femme. Cover: Bella Poarch",
-  "num_followers": 69192,
+  "num_followers": 69208,
   "original_name": "Dope AF",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA5MTI2MCwwMDAwMDAwMGJhZmFiZThjNDFjYzI3MjkzZjg2ZTY1NDhjZmMyZmZm",
+  "snapshot_id": "MTY2MjA5MTI2MCwwMDAwMDAwMDhmNjQ1NTk5YWM2YWQ5Mjc0OTU4ZTllMjEwYjRlNTcx",
   "tracks": [
     {
       "added_at": "2022-09-02 04:01:00",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2022-09-02 04:01:00",
       "album": {
-        "name": "Seoul",
-        "url": "https://open.spotify.com/album/60v3Lr2b3Pq5tjTOTzJPpv"
-      },
-      "artists": [
-        {
-          "name": "Sofia Kay",
-          "url": "https://open.spotify.com/artist/3WM4raBaPOxPARlf256t5Q"
-        }
-      ],
-      "duration_ms": 213076,
-      "name": "Seoul",
-      "url": "https://open.spotify.com/track/3tezw2TeluZkzOEEztyjSZ"
-    },
-    {
-      "added_at": "2022-09-02 04:01:00",
-      "album": {
         "name": "Blush",
         "url": "https://open.spotify.com/album/5IwO8jLcDjEip9Y3t2t0tq"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 213333,
       "name": "Blush",
       "url": "https://open.spotify.com/track/3Yq6TLvajhIBIIGtx57r3N"
+    },
+    {
+      "added_at": "2022-09-02 04:01:00",
+      "album": {
+        "name": "Seoul",
+        "url": "https://open.spotify.com/album/60v3Lr2b3Pq5tjTOTzJPpv"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kay",
+          "url": "https://open.spotify.com/artist/3WM4raBaPOxPARlf256t5Q"
+        }
+      ],
+      "duration_ms": 213076,
+      "name": "Seoul",
+      "url": "https://open.spotify.com/track/3tezw2TeluZkzOEEztyjSZ"
     },
     {
       "added_at": "2022-09-02 04:01:00",

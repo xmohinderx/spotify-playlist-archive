@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CB1M7sBt21.md) - [plain]
 
 > Ingenting peppar en under ett träningspass som riktigt bra musik.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,494 likes - 80 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,501 likes - 80 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CB1M7sBt21.md) - [plain]
 | 43 | [You \- Topic Remix](https://open.spotify.com/track/5bbtc9t6FcerXp732H2XNu) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [You \(Topic Remix\)](https://open.spotify.com/album/4Ft2rFCFSXB88S7U0vy80Z) | 2:37 |
 | 44 | [DANCE](https://open.spotify.com/track/6TfeXwJihJRuBW3mFpib6J) | [CLMD](https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr), [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [DANCE](https://open.spotify.com/album/4YIOg7I2h6ISBGXijrVtLi) | 2:54 |
 | 45 | [Shotgun \(The Wild Remix\)](https://open.spotify.com/track/4W7B68ptUXQLym1oIiGuod) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j), [The Wild](https://open.spotify.com/artist/74lRkEloOvori8dZJjNEjd) | [Staying at Tamara's \(Remixes\)](https://open.spotify.com/album/25Fa2sqxbfNOeCh3DokwDs) | 3:13 |
-| 46 | [Let Them Know](https://open.spotify.com/track/2lw3naleLuf81Si3tuFVak) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Let Them Know](https://open.spotify.com/album/067DP3a9HwQJxvr5lelMbB) | 2:28 |
-| 47 | [Shine Your Light \(feat\. Akon\)](https://open.spotify.com/track/2ttfqpA40dpzzz9QhxnFCv) | [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Shine Your Light \(feat\. Akon\)](https://open.spotify.com/album/2g64ICU2z18zpnuS5rQbM9) | 3:09 |
+| 46 | [Shine Your Light \(feat\. Akon\)](https://open.spotify.com/track/2ttfqpA40dpzzz9QhxnFCv) | [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Shine Your Light \(feat\. Akon\)](https://open.spotify.com/album/2g64ICU2z18zpnuS5rQbM9) | 3:09 |
+| 47 | [Let Them Know](https://open.spotify.com/track/2lw3naleLuf81Si3tuFVak) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Let Them Know](https://open.spotify.com/album/067DP3a9HwQJxvr5lelMbB) | 2:28 |
 | 48 | [Sad \(feat\. Afrojack\)](https://open.spotify.com/track/4ESPuOrSsRcBISzcMlzmY5) | [Chico Rose](https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX), [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Sad \(feat\. Afrojack\)](https://open.spotify.com/album/3iyLP2ce8hthgd4ygzLRJD) | 2:41 |
 | 49 | [Sweet & Sour \(feat\. Lauv & Tyga\)](https://open.spotify.com/track/3ZWhRS2EJVL5B0IEzkcvZa) | [Jawsh 685](https://open.spotify.com/artist/56mfhUDKa1vec6rSLZV5Eg), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Sweet & Sour \(feat\. Lauv & Tyga\)](https://open.spotify.com/album/6u45i7JOUffv0VXbGFG1mL) | 2:43 |
 | 50 | [You And I](https://open.spotify.com/track/4P1EGoXLWQ1YF6Nsmr1pfy) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [LÉON](https://open.spotify.com/album/4rH2e0qPw9MrwOSdk9rKNe) | 3:44 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CB1M7sBt21.md) - [plain]
 | 79 | [Lose my mind](https://open.spotify.com/track/4Cz2101t2TdPKBsgb7O6dS) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Lose my mind](https://open.spotify.com/album/53H8HfdZu1DoXqPfTGj8CG) | 2:53 |
 | 80 | [Knockout](https://open.spotify.com/track/1YFwmEAnSUx9ZAgWT39i1L) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [Knockout](https://open.spotify.com/album/3oMsAnTSyOLcOYGj721atI) | 2:27 |
 
-Snapshot ID: `MTY1OTA0NjI0NiwwMDAwMDAwMDE4MDc5NmUyMDY5MDUyMGY4OTBmMzUxOTU5ZDZkNGQ4`
+Snapshot ID: `MTY1OTA0NjI0NiwwMDAwMDAwMDAyMDI4NThhM2UyODM1OGJiYzBlNWQwODU3NjAxMzM3`

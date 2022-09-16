@@ -4,7 +4,7 @@
 
 > The classic piano recordings in Jazz\. Cover: Oscar Peterson
 
-202 songs - 18 hr 5 min - [published](https://open.spotify.com/playlist/23zEVepwBB32oB0jy81C3a)
+203 songs - 18 hr 7 min - [published](https://open.spotify.com/playlist/23zEVepwBB32oB0jy81C3a)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Alone Together \- Live](https://open.spotify.com/track/5VoiV9cYSBocPdpuLdyb2q) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Progression: The Art of the Trio, Vol\. 5](https://open.spotify.com/album/6b6b4JqCmmzwD4enWK8lf0) | 15:01 | 2022-08-12 | 2022-08-18 |
 | [Alone Together \- Live](https://open.spotify.com/track/5ZodsTx1TwsjavxQWVLVEq) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Progression: The Art of the Trio, Vol\. 5](https://open.spotify.com/album/4P8bWmuZtipCFvNsnzGXLd) | 15:01 | 2022-05-13 | 2022-07-17 |
 | [And I Love Her](https://open.spotify.com/track/4J4ZBdkwfS3DCnLVPsJowU) | [Brad Mehldau Trio](https://open.spotify.com/artist/5sQJzc7ZGwC4olbhp2kqqX) | [Blues and Ballads](https://open.spotify.com/album/68Z45vi66VWZw7nqcOQEwP) | 9:25 | 2022-08-19 |  |
-| [Andando El Tiempo: Camino Al Volver](https://open.spotify.com/track/4Y0LJnNZatpvcm3IfUTXjq) | [Carla Bley](https://open.spotify.com/artist/4Byg6TGm4z9TEkUDvEJBGO), [Steve Swallow](https://open.spotify.com/artist/6mrjnfLYDl91oh10EIeKPV), [Andy Sheppard](https://open.spotify.com/artist/3xMyc3x1YAI2LmA2X5IQHD) | [Andando El Tiempo](https://open.spotify.com/album/0ZPGfkWhuAmkEARlRTz0ZB) | 8:27 | 2022-05-13 |  |
+| [Andando El Tiempo: Camino Al Volver](https://open.spotify.com/track/4Y0LJnNZatpvcm3IfUTXjq) | [Carla Bley](https://open.spotify.com/artist/4Byg6TGm4z9TEkUDvEJBGO), [Steve Swallow](https://open.spotify.com/artist/6mrjnfLYDl91oh10EIeKPV), [Andy Sheppard](https://open.spotify.com/artist/3xMyc3x1YAI2LmA2X5IQHD) | [Andando El Tiempo](https://open.spotify.com/album/0ZPGfkWhuAmkEARlRTz0ZB) | 8:27 | 2022-05-13 | 2022-09-16 |
 | [Angel Eyes \- Studio](https://open.spotify.com/track/4d3XHYFFuYYzxWr2cJ6yQl) | [Tommy Flanagan](https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d), [Ron Carter](https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP), [Tony Williams](https://open.spotify.com/artist/1TW90GjShgkjySrxBxcwQe) | [Master Trio](https://open.spotify.com/album/0O6FZJtO0RcQEDu3t55vF4) | 5:49 | 2022-05-13 |  |
 | [Angelo](https://open.spotify.com/track/57LtAkQYV0aD4ULVk9szkW) | [Shai Maestro](https://open.spotify.com/artist/0ctjXj4AKsMtj6Tsm0JzSj) | [Shai Maestro Trio](https://open.spotify.com/album/53LA5Radjeit5J77Ka1T0w) | 4:27 | 2022-05-13 |  |
 | [Armando's Rhumba](https://open.spotify.com/track/4wpZadyjV07oPn5RyHqkRl) | [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq) | [My Spanish Heart](https://open.spotify.com/album/5V1WcC2ldcMBdFwQg0LltV) | 5:19 | 2022-05-13 |  |
@@ -57,6 +57,7 @@
 | [Dawn Mist](https://open.spotify.com/track/2K6OY5NsFuKCfgsJIZHyrb) | [Freddie Redd](https://open.spotify.com/artist/7CC7dqXYFQcYPqt8sTrqTV) | [Fishin' In Stockholm](https://open.spotify.com/album/7v5OM3TzTEvrehXpDYMm21) | 2:51 | 2022-05-13 |  |
 | [Days Of Wine And Roses](https://open.spotify.com/track/521qezMfJ71NGibQanQvvN) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [We Get Requests](https://open.spotify.com/album/4rCo3zGQW3xzkuHYwhJg40) | 2:40 | 2022-05-13 |  |
 | [Days Of Wine And Roses](https://open.spotify.com/track/37x5B9xv1QVF4WAY6vtKV0) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [We Get Requests](https://open.spotify.com/album/7BVfV9OGD9tYdy7Jr5JLbt) | 2:43 | 2022-05-13 | 2022-07-29 |
+| [Dinah \(Take 2\)](https://open.spotify.com/track/1XS5vGKquDNjxU6gLQcKd2) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Solo Monk](https://open.spotify.com/album/4Bxg4OFb2wA6IjoeuWilRF) | 2:28 | 2022-09-15 |  |
 | [Dolphin Dance](https://open.spotify.com/track/4KGcpnAbGlvVgd2HFQvexI) | [Ahmad Jamal Trio](https://open.spotify.com/artist/0BqALs1lInR9TTOulUADH7) | [The Awakening](https://open.spotify.com/album/2lM0Tamy6fq04pPCcPOZ8B) | 5:06 | 2022-05-13 | 2022-07-27 |
 | [Dolphin Dance](https://open.spotify.com/track/0kUYnVS6z9YhL22l9pDDcB) | [Ahmad Jamal Trio](https://open.spotify.com/artist/0BqALs1lInR9TTOulUADH7) | [The Awakening](https://open.spotify.com/album/5oSVYKZLKGCmwYqmJ7AZnO) | 5:09 | 2022-05-13 |  |
 | [Dream](https://open.spotify.com/track/0psSSpJgJIkaAY4a8jND1V) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Written In The Stars](https://open.spotify.com/album/14C2yqQ0xfZQjhomR3nh8S) | 6:44 | 2022-05-13 |  |

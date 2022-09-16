@@ -1,12 +1,12 @@
 {
   "description": "it's not just an indie kid with an aux, it's *chic*",
-  "num_followers": 177391,
+  "num_followers": 177563,
   "original_name": "Soir\u00e9e",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA5ODI4MCwwMDAwMDAwMDgzNTVkYTE3YzkzMGVkZjhlOWRjODVmZWE1YzhjNTZi",
+  "snapshot_id": "MTY2MjA5ODI4MCwwMDAwMDAwMDhmYzc3OTkwN2Q5OGI4ODA5ZDI0M2EyOTc4ZDA1NmNk",
   "tracks": [
     {
       "added_at": "2022-08-16 06:34:56",
@@ -615,6 +615,22 @@
     {
       "added_at": "2022-08-16 06:34:56",
       "album": {
+        "name": "For Ever",
+        "url": "https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 234369,
+      "name": "Casio",
+      "url": "https://open.spotify.com/track/44ZKnfWEkp7wPs035j4Tua"
+    },
+    {
+      "added_at": "2022-08-16 06:34:56",
+      "album": {
         "name": "Rogue Waves",
         "url": "https://open.spotify.com/album/4sJXyIfwduIWFISb4iCq2f"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 253346,
       "name": "waves - Tame Impala Remix",
       "url": "https://open.spotify.com/track/3lB0GMiI5KxDbTOG8V3bOx"
-    },
-    {
-      "added_at": "2022-08-16 06:34:56",
-      "album": {
-        "name": "For Ever",
-        "url": "https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 234369,
-      "name": "Casio",
-      "url": "https://open.spotify.com/track/44ZKnfWEkp7wPs035j4Tua"
     },
     {
       "added_at": "2022-08-16 06:34:56",
@@ -755,22 +755,6 @@
     {
       "added_at": "2022-08-16 06:34:56",
       "album": {
-        "name": "Something About You",
-        "url": "https://open.spotify.com/album/5gOU7SYwgPAmw6tDUdsT9Q"
-      },
-      "artists": [
-        {
-          "name": "Hayden James",
-          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
-        }
-      ],
-      "duration_ms": 225181,
-      "name": "Something About You",
-      "url": "https://open.spotify.com/track/5n9DJWUiwuKuPE9sCVbQ0n"
-    },
-    {
-      "added_at": "2022-08-16 06:34:56",
-      "album": {
         "name": "I Don't Know You",
         "url": "https://open.spotify.com/album/5L8VJO457GXReKVVfRhzyM"
       },
@@ -787,18 +771,18 @@
     {
       "added_at": "2022-08-16 06:34:56",
       "album": {
-        "name": "It Is What It Is",
-        "url": "https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9"
+        "name": "Something About You",
+        "url": "https://open.spotify.com/album/5gOU7SYwgPAmw6tDUdsT9Q"
       },
       "artists": [
         {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+          "name": "Hayden James",
+          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
         }
       ],
-      "duration_ms": 181922,
-      "name": "Dragonball Durag",
-      "url": "https://open.spotify.com/track/7eWGnKg4B44sbBPpQp4y2c"
+      "duration_ms": 225181,
+      "name": "Something About You",
+      "url": "https://open.spotify.com/track/5n9DJWUiwuKuPE9sCVbQ0n"
     },
     {
       "added_at": "2022-08-16 06:34:56",
@@ -815,6 +799,22 @@
       "duration_ms": 268333,
       "name": "Hunnybee",
       "url": "https://open.spotify.com/track/6AAYNz8jXvVlgG9IpYi42Z"
+    },
+    {
+      "added_at": "2022-08-16 06:34:56",
+      "album": {
+        "name": "It Is What It Is",
+        "url": "https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        }
+      ],
+      "duration_ms": 181922,
+      "name": "Dragonball Durag",
+      "url": "https://open.spotify.com/track/7eWGnKg4B44sbBPpQp4y2c"
     },
     {
       "added_at": "2022-08-16 06:34:56",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-08-16 06:34:56",
       "album": {
-        "name": "Caravelle",
-        "url": "https://open.spotify.com/album/0SuFqlCe5i30Fr75ZlPQVT"
-      },
-      "artists": [
-        {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
-        }
-      ],
-      "duration_ms": 190826,
-      "name": "Nan\u00e3",
-      "url": "https://open.spotify.com/track/0Psz3az3RIYfJpnsajBT8N"
-    },
-    {
-      "added_at": "2022-08-16 06:34:56",
-      "album": {
         "name": "Odyss\u00e9e - EP",
         "url": "https://open.spotify.com/album/346ZDnGgJudDau17EEyWWA"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 248892,
       "name": "Agitations tropicales",
       "url": "https://open.spotify.com/track/2La21GqU4fKTQLcfLxTeoz"
+    },
+    {
+      "added_at": "2022-08-16 06:34:56",
+      "album": {
+        "name": "Caravelle",
+        "url": "https://open.spotify.com/album/0SuFqlCe5i30Fr75ZlPQVT"
+      },
+      "artists": [
+        {
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        }
+      ],
+      "duration_ms": 190826,
+      "name": "Nan\u00e3",
+      "url": "https://open.spotify.com/track/0Psz3az3RIYfJpnsajBT8N"
     },
     {
       "added_at": "2022-08-16 06:34:56",
@@ -1099,26 +1099,6 @@
     {
       "added_at": "2022-08-16 06:34:56",
       "album": {
-        "name": "Eternal",
-        "url": "https://open.spotify.com/album/59JNcEwaQUyC2xQzBJTHF9"
-      },
-      "artists": [
-        {
-          "name": "Guts",
-          "url": "https://open.spotify.com/artist/5mMkUZv8uUrlH0SHX89BeS"
-        },
-        {
-          "name": "Lorine Chia",
-          "url": "https://open.spotify.com/artist/6NnWCx7mer62qXytwEKZm9"
-        }
-      ],
-      "duration_ms": 246266,
-      "name": "Peaceful Life",
-      "url": "https://open.spotify.com/track/1oqcT3rKnuyGf7gcQU8IXx"
-    },
-    {
-      "added_at": "2022-08-16 06:34:56",
-      "album": {
         "name": "Ungodly Hour",
         "url": "https://open.spotify.com/album/1ReoUTt497nUg3u1ERgYwS"
       },
@@ -1147,6 +1127,26 @@
       "duration_ms": 229424,
       "name": "Both Of Us - Edit",
       "url": "https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv"
+    },
+    {
+      "added_at": "2022-08-16 06:34:56",
+      "album": {
+        "name": "Eternal",
+        "url": "https://open.spotify.com/album/59JNcEwaQUyC2xQzBJTHF9"
+      },
+      "artists": [
+        {
+          "name": "Guts",
+          "url": "https://open.spotify.com/artist/5mMkUZv8uUrlH0SHX89BeS"
+        },
+        {
+          "name": "Lorine Chia",
+          "url": "https://open.spotify.com/artist/6NnWCx7mer62qXytwEKZm9"
+        }
+      ],
+      "duration_ms": 246266,
+      "name": "Peaceful Life",
+      "url": "https://open.spotify.com/track/1oqcT3rKnuyGf7gcQU8IXx"
     },
     {
       "added_at": "2022-08-16 06:34:56",
@@ -1227,26 +1227,6 @@
     {
       "added_at": "2022-08-16 06:34:56",
       "album": {
-        "name": "Foreign Language",
-        "url": "https://open.spotify.com/album/0VaOUq9SfMxBspe18eyufo"
-      },
-      "artists": [
-        {
-          "name": "Flight Facilities",
-          "url": "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
-        },
-        {
-          "name": "Jess",
-          "url": "https://open.spotify.com/artist/0vzlcDC7qhbx7pm9ExsQV7"
-        }
-      ],
-      "duration_ms": 244080,
-      "name": "Foreign Language",
-      "url": "https://open.spotify.com/track/6M0cy8N7KQhaYbJ7088D28"
-    },
-    {
-      "added_at": "2022-08-16 06:34:56",
-      "album": {
         "name": "Cheesin'",
         "url": "https://open.spotify.com/album/6VA0Ybh6uHkRpCf1pKhlzh"
       },
@@ -1287,6 +1267,26 @@
     {
       "added_at": "2022-08-16 06:34:56",
       "album": {
+        "name": "Foreign Language",
+        "url": "https://open.spotify.com/album/0VaOUq9SfMxBspe18eyufo"
+      },
+      "artists": [
+        {
+          "name": "Flight Facilities",
+          "url": "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
+        },
+        {
+          "name": "Jess",
+          "url": "https://open.spotify.com/artist/0vzlcDC7qhbx7pm9ExsQV7"
+        }
+      ],
+      "duration_ms": 244080,
+      "name": "Foreign Language",
+      "url": "https://open.spotify.com/track/6M0cy8N7KQhaYbJ7088D28"
+    },
+    {
+      "added_at": "2022-08-16 06:34:56",
+      "album": {
         "name": "The Mission",
         "url": "https://open.spotify.com/album/0jsaa9MWnJM4EUG81Ja2fn"
       },
@@ -1299,22 +1299,6 @@
       "duration_ms": 191478,
       "name": "The Mission",
       "url": "https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS"
-    },
-    {
-      "added_at": "2022-08-16 06:34:56",
-      "album": {
-        "name": "Keep Moving",
-        "url": "https://open.spotify.com/album/2RfWbfIULVPJq4Ng554eyX"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 240880,
-      "name": "Keep Moving",
-      "url": "https://open.spotify.com/track/6a88fc0zSrVWGPdoj445nJ"
     },
     {
       "added_at": "2022-08-16 06:34:56",
@@ -1335,6 +1319,22 @@
       "duration_ms": 217394,
       "name": "Just For Me (with SZA) - Space Jam: A New Legacy",
       "url": "https://open.spotify.com/track/3B5yl01KF06NkYG39BdTBa"
+    },
+    {
+      "added_at": "2022-08-16 06:34:56",
+      "album": {
+        "name": "Keep Moving",
+        "url": "https://open.spotify.com/album/2RfWbfIULVPJq4Ng554eyX"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 240880,
+      "name": "Keep Moving",
+      "url": "https://open.spotify.com/track/6a88fc0zSrVWGPdoj445nJ"
     },
     {
       "added_at": "2022-08-16 06:34:56",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2022-08-16 06:34:56",
       "album": {
-        "name": "Body Talk Pt. 1",
-        "url": "https://open.spotify.com/album/4ektWErsV6EIxW0jBWq1Jn"
-      },
-      "artists": [
-        {
-          "name": "Robyn",
-          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
-        }
-      ],
-      "duration_ms": 285973,
-      "name": "Dancing On My Own",
-      "url": "https://open.spotify.com/track/3Rc2ajBMInxeNGVkMPC92Y"
-    },
-    {
-      "added_at": "2022-08-16 06:34:56",
-      "album": {
         "name": "Happiness in Liquid Form",
         "url": "https://open.spotify.com/album/4hfnS7YAQNDiihGt70E3ei"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 201988,
       "name": "Obvious Guy",
       "url": "https://open.spotify.com/track/5NS0xTfHbV8EQ83GBfFqea"
+    },
+    {
+      "added_at": "2022-08-16 06:34:56",
+      "album": {
+        "name": "Body Talk Pt. 1",
+        "url": "https://open.spotify.com/album/4ektWErsV6EIxW0jBWq1Jn"
+      },
+      "artists": [
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        }
+      ],
+      "duration_ms": 285973,
+      "name": "Dancing On My Own",
+      "url": "https://open.spotify.com/track/3Rc2ajBMInxeNGVkMPC92Y"
     },
     {
       "added_at": "2022-08-16 06:34:56",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2022-08-16 06:34:56",
       "album": {
-        "name": "Wildin'",
-        "url": "https://open.spotify.com/album/7kSFfhqYkwCiBYzYm8o61i"
-      },
-      "artists": [
-        {
-          "name": "Berhana",
-          "url": "https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl"
-        }
-      ],
-      "duration_ms": 139613,
-      "name": "Wildin'",
-      "url": "https://open.spotify.com/track/4LGg2NY9eHp0jF3L1WbCNl"
-    },
-    {
-      "added_at": "2022-08-16 06:34:56",
-      "album": {
         "name": "What Box?",
         "url": "https://open.spotify.com/album/6zxHzgT0fKSMEgIi7BpoyQ"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 184826,
       "name": "Act Up",
       "url": "https://open.spotify.com/track/1Oqr9YhCi3JmuHcyHDBhf8"
+    },
+    {
+      "added_at": "2022-08-16 06:34:56",
+      "album": {
+        "name": "Wildin'",
+        "url": "https://open.spotify.com/album/7kSFfhqYkwCiBYzYm8o61i"
+      },
+      "artists": [
+        {
+          "name": "Berhana",
+          "url": "https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl"
+        }
+      ],
+      "duration_ms": 139613,
+      "name": "Wildin'",
+      "url": "https://open.spotify.com/track/4LGg2NY9eHp0jF3L1WbCNl"
     },
     {
       "added_at": "2022-08-16 06:34:56",

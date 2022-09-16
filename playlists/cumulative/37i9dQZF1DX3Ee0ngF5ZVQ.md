@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Pat Green
 
-355 songs - 21 hr 13 min - [published](https://open.spotify.com/playlist/4X9VlF1gslCvOG5f1Uvt9a)
+356 songs - 21 hr 17 min - [published](https://open.spotify.com/playlist/4X9VlF1gslCvOG5f1Uvt9a)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,6 +246,7 @@
 | [Picture](https://open.spotify.com/track/7HiD3Ladm1RrQuGgkDPPyl) | [Cade Holliday](https://open.spotify.com/artist/0QNq5Ld1iY0TrzmnABZg61) | [Burn Down EP](https://open.spotify.com/album/5h68tKi4xydtyM7NJiAEGG) | 3:24 | 2021-12-17 | 2022-01-08 |
 | [Picture Frames](https://open.spotify.com/track/5BdubaMMmTMJGit2D5Sw0b) | [Randy Rogers Band](https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3) | [Picture Frames](https://open.spotify.com/album/2EMEIbtBzUveg1CJIFrtXD) | 3:16 | 2021-12-17 | 2022-06-18 |
 | [Pink Chalk](https://open.spotify.com/track/4j6mkvLo7yjupx4y2tgmTd) | [Keller Cox](https://open.spotify.com/artist/7kxALHF5FOUlUZz3g67T1u) | [Pink Chalk](https://open.spotify.com/album/6cBvvXtmMQDWfoA5D3uqyw) | 3:04 | 2022-02-11 | 2022-07-16 |
+| [Pleasure in the Pain \(Acoustic\)](https://open.spotify.com/track/0SnkVKNi88G8lKlXala0Nu) | [Dylan Wheeler](https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87) | [Pleasure in the Pain \(Acoustic\)](https://open.spotify.com/album/0g34MxtPrMRcK6uVtNAQ99) | 3:58 | 2022-09-09 |  |
 | [Possibilities](https://open.spotify.com/track/1Qdw2ZZzYznmtiGrETvEjN) | [Jason Eady](https://open.spotify.com/artist/78xCXcmrzDgoRkinWE0uUV) | [To the Passage of Time](https://open.spotify.com/album/6oBeI8Ac6AifVEtlC9Qe86) | 3:10 | 2021-12-17 | 2022-03-19 |
 | [Pretty Ugly](https://open.spotify.com/track/6I29jkpQ7k7iIbQqVIgZmG) | [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [Pretty Ugly](https://open.spotify.com/album/3UN2NT53VVKWF331LmVIzb) | 2:58 | 2021-12-17 |  |
 | [Psycho](https://open.spotify.com/track/1ZdUYbLbavoymKh89vrQQ6) | [Holly Beth](https://open.spotify.com/artist/2HAdIEMUdYvHfSlWVmGexv) | [Psycho](https://open.spotify.com/album/49oLXMPHyB2lA89QvN3pI0) | 3:30 | 2022-02-18 | 2022-07-17 |
@@ -295,7 +296,7 @@
 | [Telling on My Heart](https://open.spotify.com/track/6g7qBmMtsGFxzeEkT0YiJ7) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [Built Different](https://open.spotify.com/album/5GfNph4mi2Ira5Sm7jrwqZ) | 3:37 | 2022-03-25 |  |
 | [Tequila](https://open.spotify.com/track/47KeamTpEfJdN2Dp0cSH6D) | [Hayden Haddock](https://open.spotify.com/artist/5p0bBvnrdTP0HeZWLIZJQL), [Jon Wolfe](https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp) | [Tequila](https://open.spotify.com/album/23mpLewIgdoLQrOFT8TcMn) | 3:00 | 2022-05-20 | 2022-07-12 |
 | [Terrifying Nature \- Radio Edit](https://open.spotify.com/track/3mZmMGoGqyVjjLRkR9ZP1l) | [Jason Boland & The Stragglers](https://open.spotify.com/artist/1sX1MkGoDKuMzzhaALPFyZ) | [The Light Saw Me](https://open.spotify.com/album/2wbryQP9ji9Bfy1b91NcT1) | 3:47 | 2022-04-01 | 2022-07-09 |
-| [Texas](https://open.spotify.com/track/3XIfx3GzMzoEXUDF2vEbBZ) | [Jonathan Terrell](https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3) | [Texas](https://open.spotify.com/album/57JqhOplFcXZLR8mZ7p3q5) | 3:42 | 2022-08-05 |  |
+| [Texas](https://open.spotify.com/track/3XIfx3GzMzoEXUDF2vEbBZ) | [Jonathan Terrell](https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3) | [Texas](https://open.spotify.com/album/57JqhOplFcXZLR8mZ7p3q5) | 3:42 | 2022-08-05 | 2022-09-16 |
 | [Texas & You](https://open.spotify.com/track/1rXVMnFigwPfk8tNnLLj3z) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [Texas & You](https://open.spotify.com/album/4DxxgoQzzyA7tAPzAXemCQ) | 3:41 | 2022-03-04 |  |
 | [The Good Ol' U.S\. of A.](https://open.spotify.com/track/0GjSVSf4E80qZQFuRBADZs) | [Creed Fisher](https://open.spotify.com/artist/03UZwtrCiMR9P10LcjQ5Wu) | [The Good Ol' U.S\. of A.](https://open.spotify.com/album/12KYJ6Y3Z60POCITCFz6nN) | 3:40 | 2021-12-17 | 2022-03-19 |
 | [The Highway Kind](https://open.spotify.com/track/1DBoVgENKo0xEOAsQS3TK3) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb) | [The Highway Kind](https://open.spotify.com/album/3iN9tmhAGOfIPbKEklyujQ) | 3:59 | 2022-08-05 |  |

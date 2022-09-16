@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiuTkmMSmb9.md) - [plain]
 
 > Tropical jams to catch a vibe and whine to\. Cover: Sampa The Great
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,947 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,987 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiuTkmMSmb9.md) - [plain]
 | 74 | [There She Go \(Jack Sparrow\) \[feat\. Mayorkun\]](https://open.spotify.com/track/7Hjnh8OnRAmkBwcyAWl3Lr) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [There She Go \(Jack Sparrow\) \[feat\. Mayorkun\]](https://open.spotify.com/album/00gYL2JGbizwLygmFGi8Gv) | 3:11 |
 | 75 | [Like This](https://open.spotify.com/track/3NPhVitPBsJnXkJeMvjNb2) | [Serge Ibaka](https://open.spotify.com/artist/4fDx6CTJ4KWhnAg6TvwmWe), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Like This](https://open.spotify.com/album/5VOK2852Mgf5GBTkUe1mFR) | 2:44 |
 | 76 | [Rockstar](https://open.spotify.com/track/7fWKTRfGvhusJ2pNcrAYtD) | [Bvg Boi Jay](https://open.spotify.com/artist/3kT1Y27lqDx35NbU1jGR5J), [Amvis](https://open.spotify.com/artist/5Z8apqv6IO2IVBNDRTwgED) | [Rockstar](https://open.spotify.com/album/4fnFqQxRQJLO4hPEzuj4Fj) | 2:52 |
-| 77 | [Closer](https://open.spotify.com/track/5qz7y3Mj8t1gOgDwQGMVRt) | [DJ Nino Brown](https://open.spotify.com/artist/5d3XNpscHFKUuw1YouL2ns), [Arona Mane](https://open.spotify.com/artist/70yqFQVIWhHa89ELLSB69B), [Osayo](https://open.spotify.com/artist/7mwr4uuaASWSKyCiWpHeM3) | [Closer](https://open.spotify.com/album/0tEY7BcakoO12tCsuYdgPA) | 3:34 |
+| 77 | [Closer](https://open.spotify.com/track/4tMrxubFTi02gsaEVlaiQZ) | [DJ Nino Brown](https://open.spotify.com/artist/5d3XNpscHFKUuw1YouL2ns), [Arona Mane](https://open.spotify.com/artist/70yqFQVIWhHa89ELLSB69B), [Osayo](https://open.spotify.com/artist/7mwr4uuaASWSKyCiWpHeM3) | [Closer](https://open.spotify.com/album/0VyIjviFD8bWVCkAs9Cb4Y) | 3:34 |
 | 78 | [Owo Ni Koko](https://open.spotify.com/track/4WLdlAi4KBDNRxaq3GnRYH) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Gbagada Express](https://open.spotify.com/album/71t8ET4M40jagPMwWtGDAd) | 2:59 |
 | 79 | [You Got the Juice](https://open.spotify.com/track/4HCeA8zmtEmmlNKJHWRUii) | [TALI](https://open.spotify.com/artist/518ZodQRWmIB3NXK21p1fY) | [You Got the Juice](https://open.spotify.com/album/32KTjG5evKYUB48QmGA1W9) | 2:35 |
 | 80 | [We Smoke](https://open.spotify.com/track/7ypcbwvatoanQoXHLWXmaZ) | [Bodega Collective](https://open.spotify.com/artist/1kgMO1lOMZtHhRd7oOdHAW), [Big Skeez](https://open.spotify.com/artist/0N4XZEiYb7RIeIN0lsmVMu), [Elijah Yo](https://open.spotify.com/artist/4QdSwI8nLBjrN7344lBCbL), [RenzoMck.](https://open.spotify.com/artist/7h6GkKpa1H12PiOQ6RiRh4), [Gold Fang](https://open.spotify.com/artist/1e8lOc1h26CVBSGh3iiW7M) | [We Smoke](https://open.spotify.com/album/2Za3qO1esJmOgd77kqakkz) | 3:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiuTkmMSmb9.md) - [plain]
 | 99 | [Essence \(feat\. Tems\)](https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 4:08 |
 | 100 | [Different Size \(feat\. Victony\)](https://open.spotify.com/track/0s5nhb6ts6uCKAVnGg46y6) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:29 |
 
-Snapshot ID: `MTY2MjY0NTYwMCwwMDAwMDAwMDM5MWI4ZDQzZTYxYjFmODcwMTNiNmMyZjIyNzgxYzM1`
+Snapshot ID: `MTY2MjY0NTYwMCwwMDAwMDAwMGM2ZGJkYjMzYzhhNGFlMjQ1ZTM5ZGU4MDQ2ZjJmZGRj`

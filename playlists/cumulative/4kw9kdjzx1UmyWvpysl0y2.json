@@ -2992,6 +2992,24 @@
     },
     {
       "album": {
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/4wfYav7zgRz4hZMqP1t2O0"
+      },
+      "artists": [
+        {
+          "name": "VESK GREEN",
+          "url": "https://open.spotify.com/artist/4D6SwsmIOKAcd2sMavDqxo"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184772,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/1qhfJLtwPoXN34TbQJegeA"
+    },
+    {
+      "album": {
         "name": "Rise & Fall (VIPs)",
         "url": "https://open.spotify.com/album/7vNlIGuuwVCwO4YhDojVdx"
       },

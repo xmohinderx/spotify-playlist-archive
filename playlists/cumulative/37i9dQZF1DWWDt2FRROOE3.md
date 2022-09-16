@@ -4,7 +4,7 @@
 
 > ¡Los éxitos del pop y el rock interpretados con mariachi!
 
-50 songs - 2 hr 53 min - [published](https://open.spotify.com/playlist/5fWQkQy9WYdj1bxQ5kQLfs)
+51 songs - 2 hr 56 min - [published](https://open.spotify.com/playlist/5fWQkQy9WYdj1bxQ5kQLfs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [De Música Ligera](https://open.spotify.com/track/5bLPTpFDAIZepilkmufet8) | [Flor de Toloache](https://open.spotify.com/artist/1eEJbNVFQTDmQETQpLMoWD) | [De Música Ligera](https://open.spotify.com/album/5SUspMXl2khtx0vMiZs2lU) | 2:54 | 2022-01-14 |  |
 | [Despacito](https://open.spotify.com/track/2unpmSGxxlwo39H6DKAL6v) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexipop](https://open.spotify.com/album/2Y007c4RwCfTEzv012ou7F) | 3:23 | 2021-07-28 |  |
 | [Do Ya Think I'm Sexy](https://open.spotify.com/track/1wp54f6s6QA7RnqrUySUOb) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT), [Carmine j.r\. Appice](https://open.spotify.com/artist/2gis8i6r5Xh101633ZbE2f), [Duane Hitchings](https://open.spotify.com/artist/2RJJjBUWDbTmgcQgyo6lQq), [Gabriel Iglesias](https://open.spotify.com/artist/3u2mDZRzujeGzZD8mahPZQ), [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Book of Life \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7f0cdftcxwu61TCHkwVrs0) | 0:20 | 2021-07-28 |  |
-| [Don't Look Back in Anger](https://open.spotify.com/track/0KsennSmqjD5V1q4XAqia6) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexipop](https://open.spotify.com/album/2Y007c4RwCfTEzv012ou7F) | 4:28 | 2021-07-28 |  |
+| [Don't Look Back in Anger](https://open.spotify.com/track/0KsennSmqjD5V1q4XAqia6) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexipop](https://open.spotify.com/album/2Y007c4RwCfTEzv012ou7F) | 4:28 | 2021-07-28 | 2022-09-16 |
 | [Don't Stop Believin'](https://open.spotify.com/track/2CfLK1vKlBUZBrVmOeC4cJ) | [Mariachi Tierras Caliente](https://open.spotify.com/artist/7LJyVXr5dlwxoGs9MMuBEC) | [Don't Stop Believin'](https://open.spotify.com/album/4RT4RzWWHrZvmvenGRXH1s) | 3:43 | 2021-07-28 |  |
 | [Don't Stop Me Now](https://open.spotify.com/track/7vwp4fDLYkaLmMABuTQJKz) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexipop](https://open.spotify.com/album/2Y007c4RwCfTEzv012ou7F) | 4:40 | 2021-07-28 |  |
 | [Don't You Want Me](https://open.spotify.com/track/33lBbfm7wD1lyorChcTqdK) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexican Party](https://open.spotify.com/album/7iJFGWy0nsWGB3PIKtw1T4) | 3:33 | 2021-07-28 |  |
@@ -44,6 +44,7 @@
 | [No Woman No Cry](https://open.spotify.com/track/6CY37aBltN0vfdi1SNAkfk) | [Mariachi Rock\-O](https://open.spotify.com/artist/0Op3oPwgkCDb3JfAKLPw98) | [Sonidos De Jalisco, Vol\. 2](https://open.spotify.com/album/3eQWfypo2bF6tjo5oq8b9c) | 4:42 | 2021-07-28 |  |
 | [Penny Lane \- Instrumental](https://open.spotify.com/track/7iPzul10s8hh3dFxuZ6ixJ) | [Los Mariachis](https://open.spotify.com/artist/2YwopcCMqCYbtZmxVXTcNk) | [Exitos De Los Chicos De Liverpool \(Instrumental\)](https://open.spotify.com/album/0O9zaZlb91ZFgm9Ken6YEu) | 3:03 | 2021-07-28 |  |
 | [Polka Medley: Gourmet Race \(from "Kirby Super Star"\) / Music A \[from "Tetris"\] /Ending \[from "Super Mario World"\]](https://open.spotify.com/track/1fjSZMDvDHe4T4uuoxRGOP) | [Mariachi Entertainment System](https://open.spotify.com/artist/6Fo4ZNILtdNHxC61x0Q8IX) | [Mariachi Entertainment System](https://open.spotify.com/album/4zWoXcRFJvf1xAFa92pMYi) | 3:12 | 2021-07-28 |  |
+| [Proud Mary](https://open.spotify.com/track/7tkTRdDsuCBpTj9lzpRCfL) | [Mariachi Rock\-O](https://open.spotify.com/artist/0Op3oPwgkCDb3JfAKLPw98) | [Sonidos de Jalisco, Vol\. 3](https://open.spotify.com/album/2NsLXfknDB4MX0gumLdn5m) | 3:31 | 2021-07-28 |  |
 | [Rock and Roll All Nite](https://open.spotify.com/track/5IfLw9fO0JnoPdXMSlP1yH) | [Metalachi](https://open.spotify.com/artist/3m8XkZz5AmCii0rrte2IM6) | [Tres](https://open.spotify.com/album/7gn4wimMjqxFD4Qd6JuKCw) | 4:52 | 2021-07-28 |  |
 | [Santeria](https://open.spotify.com/track/2JsSXpR0Pf8MQtaGZ2bJuz) | [Metalachi](https://open.spotify.com/artist/3m8XkZz5AmCii0rrte2IM6) | [Tres](https://open.spotify.com/album/7gn4wimMjqxFD4Qd6JuKCw) | 2:56 | 2021-07-28 |  |
 | [September](https://open.spotify.com/track/4kHqWbGY8490TnJXenkw2u) | [Niu Mariachi](https://open.spotify.com/artist/2QdpT0wz37idrm6ZtJFdsb) | [Niü Mariachi Rock\-Pop](https://open.spotify.com/album/3owdH9NKzDarGPjeJcUVzD) | 3:40 | 2021-07-28 |  |

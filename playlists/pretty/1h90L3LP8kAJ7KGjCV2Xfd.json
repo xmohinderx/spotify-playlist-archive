@@ -1,13 +1,29 @@
 {
   "description": "Need a musical pick-me-up? Boost that serotonin with these timeless jams.",
-  "num_followers": 312188,
+  "num_followers": 312165,
   "original_name": "Happy Songs",
   "owner": {
     "name": "Filtr US",
     "url": "https://open.spotify.com/user/myplay.com"
   },
-  "snapshot_id": "MzE2MixmYjMwMDI2ZDFkNWEwM2JhY2U2MjAzNmJjNzYxNzZiNDc1MmFjMGNj",
+  "snapshot_id": "MzE2NCw4MzFjMDE1ZjEzMTliNjE5NDRhZDI1ZTBlZTYwOWY0ZmRjM2U2NjU2",
   "tracks": [
+    {
+      "added_at": "2022-09-15 16:03:04",
+      "album": {
+        "name": "The Best Of Earth, Wind & Fire Vol. 1",
+        "url": "https://open.spotify.com/album/2FW0uQ4WL25umm5p2VrZO7"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 215093,
+      "name": "September",
+      "url": "https://open.spotify.com/track/2grjqo0Frpf2okIBiifQKs"
+    },
     {
       "added_at": "2022-09-13 16:40:31",
       "album": {

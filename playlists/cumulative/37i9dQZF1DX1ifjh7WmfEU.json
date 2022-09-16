@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "A New Way",
+        "url": "https://open.spotify.com/album/6dPptur5yYY6trtGjccIFo"
+      },
+      "artists": [
+        {
+          "name": "Kisane",
+          "url": "https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153373,
+      "name": "A New Way",
+      "url": "https://open.spotify.com/track/4TRXMFAueWQN9HwW1FsCnU"
+    },
+    {
+      "album": {
         "name": "A Quiet Triumph",
         "url": "https://open.spotify.com/album/5S8I0cMWopewNcq6xzlBzj"
       },
@@ -181,7 +199,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 136000,
       "name": "At Dawn",
       "url": "https://open.spotify.com/track/6sSFbKl9oQ7ToYxBeTQZvw"
@@ -314,6 +332,24 @@
     },
     {
       "album": {
+        "name": "Briefly",
+        "url": "https://open.spotify.com/album/0SU6Lu0SRMIe3efMEms6JJ"
+      },
+      "artists": [
+        {
+          "name": "Eirin Nordness",
+          "url": "https://open.spotify.com/artist/2QVUmJ4ycBEI4k0GbycoA2"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118500,
+      "name": "Briefly",
+      "url": "https://open.spotify.com/track/5c32g8ZBUZCClHDb545VQs"
+    },
+    {
+      "album": {
         "name": "Cador",
         "url": "https://open.spotify.com/album/4znBjjfy0I1p2wpTAVULSb"
       },
@@ -433,7 +469,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 244374,
       "name": "Dawn Of Day",
       "url": "https://open.spotify.com/track/635M2GuMSoVunGBe7D7vWz"
@@ -473,6 +509,24 @@
       "duration_ms": 167124,
       "name": "Don't Ever Say Goodbye",
       "url": "https://open.spotify.com/track/0y35Vf7XEzB9wZUhDXrmR5"
+    },
+    {
+      "album": {
+        "name": "Doucement",
+        "url": "https://open.spotify.com/album/4w9ZGct1aV16nmB0SjyJeV"
+      },
+      "artists": [
+        {
+          "name": "Minnie Aoyama",
+          "url": "https://open.spotify.com/artist/5AmhcDvUI7dmOI8U57NoC4"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126624,
+      "name": "Doucement",
+      "url": "https://open.spotify.com/track/3GwiRKRo65MohJVQ0U3HLG"
     },
     {
       "album": {
@@ -527,6 +581,42 @@
       "duration_ms": 203496,
       "name": "Dreamscapes",
       "url": "https://open.spotify.com/track/3qCse5xGHiXH2gK3MfgMeJ"
+    },
+    {
+      "album": {
+        "name": "Dr\u00f8m",
+        "url": "https://open.spotify.com/album/2KOmdQ7vwCdf8An8sKO7ex"
+      },
+      "artists": [
+        {
+          "name": "Tankeflukt",
+          "url": "https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109704,
+      "name": "Dr\u00f8m",
+      "url": "https://open.spotify.com/track/2wD4uaLNl9DZrBmRC87a3W"
+    },
+    {
+      "album": {
+        "name": "Valentina",
+        "url": "https://open.spotify.com/album/3JTXSEftjN2uXDc44BKYMW"
+      },
+      "artists": [
+        {
+          "name": "Figaro Castello",
+          "url": "https://open.spotify.com/artist/5Ry3FXe5PMGIUxcADr3a4n"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155321,
+      "name": "Emollient",
+      "url": "https://open.spotify.com/track/3Dq9w7HbtqlVHzTCQebVcl"
     },
     {
       "album": {
@@ -869,7 +959,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 143124,
       "name": "Haven",
       "url": "https://open.spotify.com/track/4GJSed45B1222Uy3jY5NNr"
@@ -1604,6 +1694,24 @@
     },
     {
       "album": {
+        "name": "Niyama",
+        "url": "https://open.spotify.com/album/5I4Ye4hI9UqXtya46Fui0i"
+      },
+      "artists": [
+        {
+          "name": "Lapeito",
+          "url": "https://open.spotify.com/artist/4g9wSQI9AFFbUpuFqxvrEW"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204521,
+      "name": "Niyama",
+      "url": "https://open.spotify.com/track/1naTK7gcgguEhzFhlP75gH"
+    },
+    {
+      "album": {
         "name": "Nouvel Agneau",
         "url": "https://open.spotify.com/album/2eJoenU9jJik7za0y7C02w"
       },
@@ -1669,7 +1777,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 178500,
       "name": "Oculis",
       "url": "https://open.spotify.com/track/3rkfPXBvaNLZNzwrWZ0Dmd"
@@ -1993,7 +2101,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 130250,
       "name": "Sarek",
       "url": "https://open.spotify.com/track/7tN9gRPc8eYR9mS5cQsV0M"
@@ -2101,7 +2209,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 126000,
       "name": "Sensibilities",
       "url": "https://open.spotify.com/track/2Utg4Imeeq5cI6DQ8AupwV"
@@ -2389,7 +2497,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 105330,
       "name": "The Highest Tide",
       "url": "https://open.spotify.com/track/0aBLCPk5i2F0sSuNea20It"
@@ -2677,7 +2785,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 184250,
       "name": "Waves",
       "url": "https://open.spotify.com/track/3fQkbH0ruZuTFHcvuejlZh"
@@ -2695,7 +2803,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 157500,
       "name": "When We Dance",
       "url": "https://open.spotify.com/track/1XkTvyqh9ECRpqwbnxoZCv"

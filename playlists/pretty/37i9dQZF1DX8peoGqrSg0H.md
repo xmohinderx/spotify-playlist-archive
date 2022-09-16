@@ -2,25 +2,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 ### [T\-Pop Now](https://open.spotify.com/playlist/37i9dQZF1DX8peoGqrSg0H)
 
-> เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: PROXIE
+> เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: 4EVE
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,358 likes - 70 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,438 likes - 70 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [คนไม่คุย \(Silent Mode\)](https://open.spotify.com/track/4Z64nGulQN49i9D03NcF8a) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [คนไม่คุย \(Silent Mode\)](https://open.spotify.com/album/1K7cv40prwoUAbxCXX1CTh) | 3:50 |
-| 2 | [สิ่งเล็กน้อย \(LESS IS MORE\)](https://open.spotify.com/track/58ViLaYQWchYq9vMfW5Prk) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [สิ่งเล็กน้อย \(LESS IS MORE\)](https://open.spotify.com/album/3KBZ0ZGAQOH2dcz2MI51xk) | 3:27 |
-| 3 | [Boys Like You](https://open.spotify.com/track/1VyRhsi6GfBusI1Vb061s4) | [ALLY](https://open.spotify.com/artist/4dkCB7FJeRXK6OWpal7zpw) | [Boys Like You](https://open.spotify.com/album/1oslIjeU0faXGgimWvmL4l) | 3:43 |
-| 4 | [Complicated](https://open.spotify.com/track/127yslRWWqtCGIYlkb9es2) | [Matcha](https://open.spotify.com/artist/0GZbuy9UUeALxPTa5GpRrf) | [Complicated](https://open.spotify.com/album/1X4ePQhsh9fOOz3944bxuR) | 3:01 |
-| 5 | [ปล่อยจอย](https://open.spotify.com/track/0PYR1D4eAi0k2fTDQZ019S) | [bamm](https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1), [Pimma PiXXiE](https://open.spotify.com/artist/0uDmGfh8e3dXJEmJ6jKQXg) | [เศร้าศาสตร์](https://open.spotify.com/album/1C45xLNvMc8HqJD5jHEP4q) | 3:28 |
-| 6 | [ฉลามชอบงับคุณ Feat.IIVY B](https://open.spotify.com/track/1NEBh01Wwtak3R1eCxlwrJ) | [bonnadol](https://open.spotify.com/artist/19IYWJFjZPv3INWYpkavTc) | [ฉลามชอบงับคุณ Feat.IIVY B](https://open.spotify.com/album/7nzdc88JydSq90v212jrfU) | 3:55 |
-| 7 | [ชอบตัวเองตอนอยู่กับเธอ](https://open.spotify.com/track/0cCf8UpRfjOB7yp1yqzMHM) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [ชอบตัวเองตอนอยู่กับเธอ](https://open.spotify.com/album/1AFBFoCnnS7KkhbwT80V2j) | 3:42 |
-| 8 | [ข้อสอบ](https://open.spotify.com/track/3djIwknyvdh9STESkxpS62) | [DOM](https://open.spotify.com/artist/6ZnhVXjHWYNQakkNpO1fcL) | [ข้อสอบ](https://open.spotify.com/album/4kavHltvGrYIDk80daVY65) | 2:51 |
-| 9 | [อย่าอยู่เลย](https://open.spotify.com/track/61faGyAiv8zqm0EUUpRYma) | [Tattoo Colour](https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi) | [อย่าอยู่เลย](https://open.spotify.com/album/2CjUPTshiticCHDqPKpsbK) | 3:46 |
-| 10 | [กลัวฝน \- End.](https://open.spotify.com/track/3xga8upmhb7WQf8F2f24Sh) | [YourMOOD](https://open.spotify.com/artist/5YcdFv3OumeTW8cVW788gT) | [กลัวฝน \(End.\)](https://open.spotify.com/album/3rjpdGJzEw5yfsUIy7qxmM) | 3:31 |
-| 11 | [Chop Chop! \(รีบไปรีบมา\)](https://open.spotify.com/track/6M8nx5vDof89UySjbL8KPM) | [RedSpin](https://open.spotify.com/artist/3NM9LMFT0J6AhkQXov8Ck7) | [Chop Chop! \(รีบไปรีบมา\)](https://open.spotify.com/album/5cG51iqdsWcuZ5BGmEumN5) | 2:58 |
-| 12 | [ใช่เธอหรือเปล่า \(Afraid\)](https://open.spotify.com/track/59EGUetYNGfeVowGajDXzh) | [Fyeqoodgurl](https://open.spotify.com/artist/47ryT65283NrXnJ8k6rKyc) | [ใช่เธอหรือเปล่า \(Afraid\)](https://open.spotify.com/album/0TmBUSqK3b9Jmg5VzrCk2D) | 4:12 |
-| 13 | [วาดไว้ \- recall](https://open.spotify.com/track/3FUAv32u0F64kcaaLRimPr) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [วาดไว้ \(recall\)](https://open.spotify.com/album/4abO31N2HMvzWtFgVhvs7Y) | 4:15 |
+| 2 | [Jackpot](https://open.spotify.com/track/4rRdf1zm1Iqjznlbrml2GZ) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [Jackpot](https://open.spotify.com/album/7iNT2d7jvOVtqwZYxPlJ3O) | 3:28 |
+| 3 | [ปล่อยจอย](https://open.spotify.com/track/0PYR1D4eAi0k2fTDQZ019S) | [bamm](https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1), [Pimma PiXXiE](https://open.spotify.com/artist/0uDmGfh8e3dXJEmJ6jKQXg) | [เศร้าศาสตร์](https://open.spotify.com/album/1C45xLNvMc8HqJD5jHEP4q) | 3:28 |
+| 4 | [อันฟอล](https://open.spotify.com/track/4pdAtlscBYq6vGuaS6QtDI) | [Slow Sundae](https://open.spotify.com/artist/4jA3LPzvGQcPImWTjpDlma) | [อันฟอล](https://open.spotify.com/album/7KzeuaG3GNOXdqWO8k2RY1) | 3:12 |
+| 5 | [Boys Like You](https://open.spotify.com/track/1VyRhsi6GfBusI1Vb061s4) | [ALLY](https://open.spotify.com/artist/4dkCB7FJeRXK6OWpal7zpw) | [Boys Like You](https://open.spotify.com/album/1oslIjeU0faXGgimWvmL4l) | 3:43 |
+| 6 | [ขอบคุณที่เคยใจร้ายกับฉัน \(Thanks To You\)](https://open.spotify.com/track/2mhcGG5JdEotXGF4kDTjGM) | [Ton Thanasit](https://open.spotify.com/artist/6zOWc1PkZQNr5mDOgWyc9x) | [ขอบคุณที่เคยใจร้ายกับฉัน \(Thanks To You\)](https://open.spotify.com/album/58zEDQELi0atD10fgzGpym) | 3:41 |
+| 7 | [สิ่งเล็กน้อย \(LESS IS MORE\)](https://open.spotify.com/track/58ViLaYQWchYq9vMfW5Prk) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [สิ่งเล็กน้อย \(LESS IS MORE\)](https://open.spotify.com/album/3KBZ0ZGAQOH2dcz2MI51xk) | 3:27 |
+| 8 | [ยิ่งเหงายิ่งคิดถึงเธอ](https://open.spotify.com/track/6CgJl6EjINVDLvRTYIHwl2) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [ยิ่งเหงายิ่งคิดถึงเธอ](https://open.spotify.com/album/2FOjpZekfrJ3BYvCNuNRqS) | 4:10 |
+| 9 | [วาดไว้ \- recall](https://open.spotify.com/track/3FUAv32u0F64kcaaLRimPr) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [วาดไว้ \(recall\)](https://open.spotify.com/album/4abO31N2HMvzWtFgVhvs7Y) | 4:15 |
+| 10 | [ชอบตัวเองตอนอยู่กับเธอ](https://open.spotify.com/track/0cCf8UpRfjOB7yp1yqzMHM) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [ชอบตัวเองตอนอยู่กับเธอ](https://open.spotify.com/album/1AFBFoCnnS7KkhbwT80V2j) | 3:42 |
+| 11 | [ฉลามชอบงับคุณ Feat.IIVY B](https://open.spotify.com/track/1NEBh01Wwtak3R1eCxlwrJ) | [bonnadol](https://open.spotify.com/artist/19IYWJFjZPv3INWYpkavTc) | [ฉลามชอบงับคุณ Feat.IIVY B](https://open.spotify.com/album/7nzdc88JydSq90v212jrfU) | 3:55 |
+| 12 | [ข้อสอบ](https://open.spotify.com/track/3djIwknyvdh9STESkxpS62) | [DOM](https://open.spotify.com/artist/6ZnhVXjHWYNQakkNpO1fcL) | [ข้อสอบ](https://open.spotify.com/album/4kavHltvGrYIDk80daVY65) | 2:51 |
+| 13 | [กลัวฝน \- End.](https://open.spotify.com/track/3xga8upmhb7WQf8F2f24Sh) | [YourMOOD](https://open.spotify.com/artist/5YcdFv3OumeTW8cVW788gT) | [กลัวฝน \(End.\)](https://open.spotify.com/album/3rjpdGJzEw5yfsUIy7qxmM) | 3:31 |
 | 14 | [ซูลูปาก้า ตาปาเฮ้](https://open.spotify.com/track/3Ry2KPewzbt43hiQPTnDTK) | [THEMOONWILLALWAYSBEWITHME](https://open.spotify.com/artist/0yVywi4NwefY85n4BxZMaz) | [ซูลูปาก้า ตาปาเฮ้](https://open.spotify.com/album/31CyxkIPcTXFvzzARTGr9J) | 3:45 |
 | 15 | [ขี้แง \(Loser\)](https://open.spotify.com/track/26tG5gvCbjRi9HoNAD7v9f) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6), [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [ขี้แง \(Loser\)](https://open.spotify.com/album/01eUOdyqykhWOveIc7Vgtj) | 3:40 |
 | 16 | [ข้อยกเว้น \(Exceptional\)](https://open.spotify.com/track/0T7uw5pfozE3gvom4ALE8D) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [ข้อยกเว้น \(Exceptional\)](https://open.spotify.com/album/6B21RxfWjt5eiNo9QchBIv) | 3:03 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 69 | [เผลอหรือตั้งใจ](https://open.spotify.com/track/7GfFmnGewokTR7RwkMpbW5) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [เผลอหรือตั้งใจ](https://open.spotify.com/album/3S8wLd9kZqvibuEQoAKd7I) | 3:09 |
 | 70 | [ข้างกัน \(City\)](https://open.spotify.com/track/2XDCs8vAubxRe8mO1A0eTa) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P), [feat\. ออม TELExTELEXs](https://open.spotify.com/artist/205wJyIv1vglYP2l428PAJ) | [ข้างกัน \(City\) \[feat\. ออม TELExTELEXs\]](https://open.spotify.com/album/61V9QCyJm3LPEUHrm84AIj) | 4:56 |
 
-Snapshot ID: `MTY2MjY2MTY0MSwwMDAwMDAwMDM5ZmFjYWExZWNiYmFlMDNlOTJjNGQ4MDJmNzg3MzZm`
+Snapshot ID: `MTY2MzI1OTUwMywwMDAwMDAwMDQxYjViZGRhMzg1MzQ5NWY4NTAwMjU3MmQ0YTM2OWVh`

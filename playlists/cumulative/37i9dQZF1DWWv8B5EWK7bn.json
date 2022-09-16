@@ -263,7 +263,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 214322,
       "name": "Bella Kali",
       "url": "https://open.spotify.com/track/3WxgxW4qjDCL3MZzzWuwff"
@@ -977,7 +977,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 234160,
       "name": "Have You Felt Lately?",
       "url": "https://open.spotify.com/track/6UQAuCPxNBIbVcKG2cgAsX"
@@ -1329,6 +1329,24 @@
       "duration_ms": 186544,
       "name": "Jour 3",
       "url": "https://open.spotify.com/track/1RLMR4pVuuHEzn8mOe1U2s"
+    },
+    {
+      "album": {
+        "name": "Joyas",
+        "url": "https://open.spotify.com/album/7aNoysMFjBa4Nxy4XQcoqN"
+      },
+      "artists": [
+        {
+          "name": "Valgur",
+          "url": "https://open.spotify.com/artist/0HHh73DHIGrZjm3dADNdcH"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172402,
+      "name": "Joyas",
+      "url": "https://open.spotify.com/track/7HuyjEAR0uhAvzfDLpsOHO"
     },
     {
       "album": {
@@ -1945,6 +1963,24 @@
       "duration_ms": 241919,
       "name": "Outer Spaceways Incorporated",
       "url": "https://open.spotify.com/track/6YG6A50jZi67JZMhzLgMWr"
+    },
+    {
+      "album": {
+        "name": "Ovule",
+        "url": "https://open.spotify.com/album/5GQmiJ4JRv6pvcTZbBD4Wu"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218154,
+      "name": "Ovule",
+      "url": "https://open.spotify.com/track/3epjx0KBU45yCx7KtOXF2Z"
     },
     {
       "album": {

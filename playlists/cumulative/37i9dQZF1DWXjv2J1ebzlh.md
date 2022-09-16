@@ -4,7 +4,7 @@
 
 > The magical world map! Play it in shuffle ☀️
 
-1,584 songs - 4 day 10 hr 26 min - [published](https://open.spotify.com/playlist/0iDVwvtzO5q5icbp8vjmdq)
+1,585 songs - 4 day 10 hr 30 min - [published](https://open.spotify.com/playlist/0iDVwvtzO5q5icbp8vjmdq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -997,6 +997,7 @@
 | [Men Awel Deqiqa](https://open.spotify.com/track/635DMx1t8leP4BknRS94Qq) | [Al Massrieen](https://open.spotify.com/artist/7t3VJCyz87PJLqHM3mOt3I) | [Modern Music \(Habibi Funk 006\)](https://open.spotify.com/album/74cn65iezZxZZ6GxSHN01y) | 5:18 | 2022-07-12 |  |
 | [Mentira \(Chega De Mentira\)](https://open.spotify.com/track/611fDM69jrdLN8bIdFcAIb) | [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk) | [Previsão Do Tempo](https://open.spotify.com/album/4SrPTE9sLJTE8mpeWFUhRL) | 3:43 | 2022-07-27 |  |
 | [Mentira \(Chega de Mentira\) \- 1997 \- Remaster](https://open.spotify.com/track/77HzIXW2zNcvUorS2mjD4F) | [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk) | [Previsão Do Tempo](https://open.spotify.com/album/4ImxGG8xS02v2blikjdFVU) | 3:43 | 2022-06-09 | 2022-07-29 |
+| [Mexico](https://open.spotify.com/track/38rsZocqoP4YvSzEtL0kaE) | [Mar Malade](https://open.spotify.com/artist/31XESXereH3q4fhAjG1NUw) | [Mexico](https://open.spotify.com/album/0x2WSKc0ZtfwBrPnGPMlPm) | 3:56 | 2022-09-15 |  |
 | [Mi Condena](https://open.spotify.com/track/09P5fb2va9ZFh2lRbgxPRI) | [Blundetto](https://open.spotify.com/artist/3bWxjvKUe8YV0VkI5d3I1Y), [Chico Man](https://open.spotify.com/artist/7nKH6AGsQV8dg2wukAgGBa) | [Bad Bad Things](https://open.spotify.com/album/3gayu58nRRL9fDpd5Az8kz) | 4:05 | 2022-06-09 | 2022-07-29 |
 | [Mi Condena](https://open.spotify.com/track/7cGMfEBgGpGlWHMyHU6MnL) | [Blundetto](https://open.spotify.com/artist/3bWxjvKUe8YV0VkI5d3I1Y), [Chico Mann](https://open.spotify.com/artist/2Wt6Q6ZHygCPVtMO3uxLGB) | [Bad Bad Thing](https://open.spotify.com/album/75PPqLtADwkI4qSkOqVe6e) | 4:05 | 2022-07-27 |  |
 | [Mi Guajira Si](https://open.spotify.com/track/0hoAQVg9TgnxZslURBKPZe) | [Orchestra Harlow](https://open.spotify.com/artist/6JW9UcNPmjUsybgF1WFdkR) | [Orchestra Harlow Presenta A Ismael Miranda](https://open.spotify.com/album/1vjHbuMmbI5zhLuN0eabmW) | 3:52 | 2022-07-12 | 2022-07-29 |
@@ -1210,8 +1211,8 @@
 | [Que Nadie Sepa Mi Sufrir](https://open.spotify.com/track/13ZRVSoA9lHGXXHDC5w4gF) | [Julio Jaramillo](https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8) | [30 Mejores](https://open.spotify.com/album/7y1ox9IBe1OKHB1q3rjIGB) | 2:42 | 2022-07-27 |  |
 | [Que Nadie Sepa Mi Sufrir](https://open.spotify.com/track/1gDZARp2QrP8t2IVrgdSbO) | [Julio Jaramillo](https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8) | [30 Mejores](https://open.spotify.com/album/5UGFwADgVhFsfnJNoaQJ2T) | 2:42 | 2022-06-09 | 2022-07-29 |
 | [Que Pena \(Ele Já Não Gosta Mais De Mim\)](https://open.spotify.com/track/1wuB9MID26ep43OlkOtBXd) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Gal Costa](https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu) | 3:34 | 2022-06-09 |  |
-| [Quem Não Faz Filho](https://open.spotify.com/track/4L23xuGPw1CCdQwrQ3x1ui) | [Os Kiezos](https://open.spotify.com/artist/5y4KGcTAhFsxkLXQiE8cZf) | [Memórias](https://open.spotify.com/album/5YyS2wklqzjTvZXxntH6VT) | 4:05 | 2022-06-09 | 2022-07-29 |
-| [Quem Não Faz Filhos](https://open.spotify.com/track/3GEYdZGGJthGoLjPk9E7Kd) | [Os Kiezos](https://open.spotify.com/artist/5y4KGcTAhFsxkLXQiE8cZf) | [Angola Anos d'Ouro: Reviver Os Kiezos](https://open.spotify.com/album/4yMv047txxleA3j7dtOBBb) | 4:11 | 2022-07-27 |  |
+| [Quem Não Faz Filho](https://open.spotify.com/track/4L23xuGPw1CCdQwrQ3x1ui) | [Os Kiezos](https://open.spotify.com/artist/5y4KGcTAhFsxkLXQiE8cZf) | [Memórias](https://open.spotify.com/album/5YyS2wklqzjTvZXxntH6VT) | 4:05 | 2022-06-09 |  |
+| [Quem Não Faz Filhos](https://open.spotify.com/track/3GEYdZGGJthGoLjPk9E7Kd) | [Os Kiezos](https://open.spotify.com/artist/5y4KGcTAhFsxkLXQiE8cZf) | [Angola Anos d'Ouro: Reviver Os Kiezos](https://open.spotify.com/album/4yMv047txxleA3j7dtOBBb) | 4:11 | 2022-07-27 | 2022-09-16 |
 | [Qui C'Est Celui\-La \- Partido Alto](https://open.spotify.com/track/2ssvhHib70zuzp3PBWoNnL) | [Pierre Vassiliu](https://open.spotify.com/artist/49NlklXdh2UFIW4VUu4fPx) | [Qui C'Est Celui\-La](https://open.spotify.com/album/0lOjw1NmPKzLz8on5WnU65) | 4:35 | 2022-06-09 |  |
 | [Quicksand](https://open.spotify.com/track/6T4MEK8mRlx6kVf0A5ax5T) | [Joe Yorke](https://open.spotify.com/artist/5txKJQwlX202UqnBPII2PK), [Stand High Patrol](https://open.spotify.com/artist/4aoS8xjLh7iC8vgyEMtBlD) | [Quicksand](https://open.spotify.com/album/3sJGgBCHtC8slEwppdj70A) | 4:00 | 2022-06-09 |  |
 | [Quiero a Mi Gente](https://open.spotify.com/track/0RCutnEYIqcX7DWLsOu5yR) | [Abelardo Carbonó y su Conjunto](https://open.spotify.com/artist/6s24A930wT8Pygf0NZcRm8) | [Palenque Palenque: Champeta Criolla & Afro Roots in Colombia 1975 \- 91](https://open.spotify.com/album/3nnDp17ONStMm4LY6D64Mq) | 3:46 | 2022-06-09 | 2022-07-29 |

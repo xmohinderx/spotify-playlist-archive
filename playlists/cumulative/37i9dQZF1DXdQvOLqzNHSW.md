@@ -4,7 +4,7 @@
 
 > Slow burners for late nights.
 
-379 songs - 23 hr 52 min - [published](https://open.spotify.com/playlist/3PNirhDRmJpGKSd6QkVGL6)
+380 songs - 23 hr 55 min - [published](https://open.spotify.com/playlist/3PNirhDRmJpGKSd6QkVGL6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Didn't Know What I Was in For](https://open.spotify.com/track/0PYdiBzO9IvWc6Y3wO1j7m) | [Better Oblivion Community Center](https://open.spotify.com/artist/3NBmfDV6Yh3hjuQUBVvYgO), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Conor Oberst](https://open.spotify.com/artist/2Z7gV3uEh1ckIaBzTUCE6R) | [Better Oblivion Community Center](https://open.spotify.com/album/5622zSt4RLqNSPShdqmWpj) | 4:03 | 2020-12-21 | 2022-04-20 |
 | [dimeback](https://open.spotify.com/track/3WIjTtXpbu1dViSMQYfID5) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [A Museum Of Contradiction](https://open.spotify.com/album/3m0PIFv2mh0ytlTroWklbd) | 3:18 | 2020-12-21 | 2022-07-29 |
 | [dio](https://open.spotify.com/track/0xrXdCzlbKto4zPSb5lDXd) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb), [Bearface](https://open.spotify.com/artist/7yjWDiLDpsHxobHP1fWYh8) | [gelato](https://open.spotify.com/album/4jA8mE55fT8Ae4wt51WB0y) | 3:51 | 2021-10-08 | 2022-07-29 |
+| [dirty dancer](https://open.spotify.com/track/1ciQU7ZQGHq129m3njp9en) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [dirty dancer](https://open.spotify.com/album/6aO0vMIga31GSawF5f0pMZ) | 2:49 | 2022-09-15 |  |
 | [Disappear](https://open.spotify.com/track/0Nm7Bew0ZXCxXbnv3m7X4t) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Loveworm](https://open.spotify.com/album/2Osef8iH7c9sbt3B1486XT) | 4:08 | 2020-12-21 | 2022-07-15 |
 | [Do You Love Her Now](https://open.spotify.com/track/13JjdKeIUy6P916p3MemXn) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [Do You Love Her Now / He](https://open.spotify.com/album/6DnxZc9FT5qSMKKFDdviO2) | 4:34 | 2020-12-21 | 2022-04-20 |
 | [Do You Miss Our Dog](https://open.spotify.com/track/40oFc8yhRjLdbGTEeESTqu) | [Fifty Grand](https://open.spotify.com/artist/6XVOloBtqazlT9fufDyyZV), [VELVETEARS](https://open.spotify.com/artist/76uBpZUqkDljACPBsu2klS) | [Do You Miss Our Dog](https://open.spotify.com/album/5MVFXoJtbpNXxFYkL4BKiu) | 4:37 | 2022-07-20 | 2022-07-29 |
@@ -125,7 +126,7 @@
 | [Fantasy Theme](https://open.spotify.com/track/2Gw3KDvyrWTuunaEI9fQYm) | [Kevin Krauter](https://open.spotify.com/artist/66N2tY3w6pwH2otV7Yj1AI) | [Changes](https://open.spotify.com/album/5wSSU81wBT3t1j4w0sOfmu) | 3:58 | 2020-12-21 | 2022-07-29 |
 | [feelings are fatal](https://open.spotify.com/track/0izLJHtbbiReWZxn4Qi1kp) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [plum blossom](https://open.spotify.com/album/1KHgVqga6vV89zAQ2X9MMg) | 2:04 | 2020-12-21 | 2022-04-16 |
 | [Feels](https://open.spotify.com/track/3FyrfBILgcFz1V5IAKvCep) | [Avid Dancer](https://open.spotify.com/artist/7x4bI6vTtMCONH8MVqI8WK) | [Feels](https://open.spotify.com/album/3tYNW9THoCkpZlelX4Kne7) | 3:25 | 2020-12-21 | 2022-04-17 |
-| [Fire](https://open.spotify.com/track/2lBEWXP11gpEySIXgA5ALH) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Saint Cloud](https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M) | 3:37 | 2022-07-22 |  |
+| [Fire](https://open.spotify.com/track/2lBEWXP11gpEySIXgA5ALH) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Saint Cloud](https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M) | 3:37 | 2022-07-22 | 2022-09-16 |
 | [Fire](https://open.spotify.com/track/7z7HuJQUzk93pSnP1qZkTp) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Fire](https://open.spotify.com/album/3T0O1rAk16A6FVB4dyG5DH) | 3:37 | 2020-12-21 | 2022-07-28 |
 | [First Rain](https://open.spotify.com/track/4eIfgREA4jOxaTL0dpgd6T) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l), [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [First Rain](https://open.spotify.com/album/5s4Wx0Y8hVlkZAAMzQw8Hz) | 3:57 | 2020-12-21 | 2022-04-20 |
 | [Fix](https://open.spotify.com/track/3F0ACOu8cK3lAGZCsiqIP5) | [Market](https://open.spotify.com/artist/718sBQLH9imJLX0m0fFuwH) | [Fix](https://open.spotify.com/album/6CKq16BRYNBXaUlFHTVvwz) | 4:07 | 2020-12-21 | 2022-04-19 |

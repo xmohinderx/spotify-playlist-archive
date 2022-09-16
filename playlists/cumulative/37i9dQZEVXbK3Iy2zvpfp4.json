@@ -702,6 +702,28 @@
     },
     {
       "album": {
+        "name": "PLAYB\u00c1NIA",
+        "url": "https://open.spotify.com/album/5xMzTHcRiGKdBhGj8PjV4h"
+      },
+      "artists": [
+        {
+          "name": "Beton.Hofi",
+          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
+        },
+        {
+          "name": "Hundred Sins",
+          "url": "https://open.spotify.com/artist/1hvixOq3kh8xqWm5ytcK28"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124273,
+      "name": "BAGIRA",
+      "url": "https://open.spotify.com/track/18DVypBkvcJtVFzQr5Ly7J"
+    },
+    {
+      "album": {
         "name": "Idegen, Vol. 1.",
         "url": "https://open.spotify.com/album/1cSCDIHlM4QbyRtEiNgPHk"
       },
@@ -1743,7 +1765,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 185266,
       "name": "Enough",
       "url": "https://open.spotify.com/track/4vuVzf7BIZhDAFm3TB0Tzy"
@@ -2211,6 +2233,24 @@
       "duration_ms": 114760,
       "name": "Great Balls Of Fire - Live",
       "url": "https://open.spotify.com/track/79iLGWV1TP277jSF8QJEo3"
+    },
+    {
+      "album": {
+        "name": "Habits",
+        "url": "https://open.spotify.com/album/4KKuhABzFkGE9UAucodfUo"
+      },
+      "artists": [
+        {
+          "name": "Genevieve Stokes",
+          "url": "https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136733,
+      "name": "Habits",
+      "url": "https://open.spotify.com/track/4UGvqm3e7UElrrriPtnhwz"
     },
     {
       "album": {
@@ -2777,7 +2817,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 152727,
       "name": "Kiss Kiss",
       "url": "https://open.spotify.com/track/7DhcFv4TIHRspzpwupIrKs"
@@ -4165,7 +4205,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 131657,
       "name": "PART OF ME HARDSTYLE",
       "url": "https://open.spotify.com/track/19gnl7xN5xAEwDquLNKl76"
@@ -4979,7 +5019,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-15",
+      "date_removed": null,
       "duration_ms": 151135,
       "name": "SLAUGHTER HOUSE",
       "url": "https://open.spotify.com/track/512GmOfa7bOg5IJcrVHMdy"
@@ -5347,7 +5387,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 170977,
       "name": "Super Freaky Girl",
       "url": "https://open.spotify.com/track/2yjlYDiNiQkdxVqTlaSrlX"
@@ -5785,7 +5825,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-09",
+      "date_removed": null,
       "duration_ms": 107044,
       "name": "vendetta!",
       "url": "https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum"
@@ -5897,7 +5937,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 165000,
       "name": "Why Not",
       "url": "https://open.spotify.com/track/4oMyggIzClkOcCTvotFLkP"
@@ -5981,6 +6021,24 @@
       "duration_ms": 229926,
       "name": "Xanadu",
       "url": "https://open.spotify.com/track/2ylpbsHqGUAv3za4JkyMgz"
+    },
+    {
+      "album": {
+        "name": "Xenogenesis",
+        "url": "https://open.spotify.com/album/07ej3OfHDl0ppyUrK7bTUF"
+      },
+      "artists": [
+        {
+          "name": "TheFatRat",
+          "url": "https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233379,
+      "name": "Xenogenesis",
+      "url": "https://open.spotify.com/track/5iRVNYbhfWNO2VzBykX7GS"
     },
     {
       "album": {

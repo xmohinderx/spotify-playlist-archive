@@ -4,7 +4,7 @@
 
 > Turn the energy levels up and join the party wherever you are!
 
-302 songs - 15 hr 30 min - [published](https://open.spotify.com/playlist/1PuNlNfn3dc6Go7OukEidr)
+303 songs - 15 hr 34 min - [published](https://open.spotify.com/playlist/1PuNlNfn3dc6Go7OukEidr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Dreams](https://open.spotify.com/track/7soydniaZqM6zwvwYKE36F) | [THAT KIND](https://open.spotify.com/artist/4zxtCQ4mwZH38FVCSbpqlZ) | [One Last Time / Dreams](https://open.spotify.com/album/5QRojwIIGBX5HayKdVmx4u) | 3:48 | 2022-04-15 | 2022-07-04 |
 | [Duffles](https://open.spotify.com/track/1onxwBZxnwONLP81Yll3xj) | [Hitty](https://open.spotify.com/artist/5ihFvuv44N5h6eYxLyftBi) | [Duffles](https://open.spotify.com/album/4UGAmFNoTM9MTafvLUxDNz) | 3:22 | 2022-04-15 | 2022-07-17 |
 | [Elevated](https://open.spotify.com/track/0qZ2NBUmGIaHzvUAfH43A0) | [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Elevated](https://open.spotify.com/album/6a3wDTIPiYQwXGkNAAye04) | 3:13 | 2022-08-22 |  |
+| [Erase Me](https://open.spotify.com/track/73CRQe51UEpa3B6ZG7QEsl) | [Ben Hemsley](https://open.spotify.com/artist/366L4EjZXBPYbHs9XDQILZ) | [Erase Me](https://open.spotify.com/album/2uWVzN9RsU8Wf1secl0sdX) | 4:03 | 2022-08-22 |  |
 | [Essex Girls \(feat\. Jaykae, Silky & Janice Robinson\)](https://open.spotify.com/track/3PIFmXwdhCKITMmWQqXhef) | [Rude Kid](https://open.spotify.com/artist/32E18qvPvppVQ22FCERDnl), [Jaykae](https://open.spotify.com/artist/1sLYZv95ZXwVfyGHan5w45), [Silky](https://open.spotify.com/artist/3dlippLcdVGBPKVFhnWXaF), [Janice Robinson](https://open.spotify.com/artist/6BXTl7YkINlCQkkzE9hvCd) | [Essex Girls \(feat\. Jaykae, Silky & Janice Robinson\)](https://open.spotify.com/album/1XTzHBeO7yYUnkkYN6i0V1) | 2:40 | 2022-04-15 |  |
 | [Estoy Feliz](https://open.spotify.com/track/0fs4ssA0G8S7q1W4QhxOFS) | [Bassboy](https://open.spotify.com/artist/4wwHbT1V6hoLyOvS4gZVyy) | [Estoy Feliz](https://open.spotify.com/album/2Tb7cM5Sl84pZZKwOQMk18) | 3:21 | 2022-04-15 | 2022-07-22 |
 | [Every Single Time \(with Silky\)](https://open.spotify.com/track/61drLfij7yoXMTYIY8088V) | [Bissett](https://open.spotify.com/artist/4Mgx5TSeuT3wJwZYu6T7t7), [Silky](https://open.spotify.com/artist/3dlippLcdVGBPKVFhnWXaF) | [Every Single Time \(with Silky\)](https://open.spotify.com/album/7t7ONZWC56jEHLGBTKPZSX) | 2:47 | 2022-04-15 | 2022-07-23 |
@@ -110,7 +111,7 @@
 | [Good Life](https://open.spotify.com/track/515OfuSUlr2igB70C83M13) | [René LaVice](https://open.spotify.com/artist/0e5WyCWPCJT91whT3lFT4v), [Ayah Marar](https://open.spotify.com/artist/4xQ2BGOBUXgjxO2PAhrIyS) | [Good Life](https://open.spotify.com/album/6vBL5UAlbOy0jFnJk6Dnbc) | 3:07 | 2022-04-15 | 2022-07-29 |
 | [Good Luck](https://open.spotify.com/track/04oTyEbJ190RfXWSlTP4b7) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Pia Mia](https://open.spotify.com/artist/1BhWF9W2PngtPSyobKg0rP) | [Good Luck](https://open.spotify.com/album/05tBKh2vFcXIUTk3lRHKFy) | 2:27 | 2022-04-15 |  |
 | [Good Ones \- Joel Corry Remix](https://open.spotify.com/track/2Jt8OOQV33kCWJs7ojOCUJ) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Good Ones \(Joel Corry Remix\)](https://open.spotify.com/album/6gSdPxoDUwQ7ClDwEsq7gv) | 2:45 | 2022-04-15 |  |
-| [Goodbye](https://open.spotify.com/track/14agcnE3UapOnnxYufVMZZ) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [T\. Matthias](https://open.spotify.com/artist/2R7k2SovVWGhTcvPx1JbQv) | [Goodbye](https://open.spotify.com/album/27y8dcpjACvddY2gnoi1J3) | 2:54 | 2022-04-15 |  |
+| [Goodbye](https://open.spotify.com/track/14agcnE3UapOnnxYufVMZZ) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [T\. Matthias](https://open.spotify.com/artist/2R7k2SovVWGhTcvPx1JbQv) | [Goodbye](https://open.spotify.com/album/27y8dcpjACvddY2gnoi1J3) | 2:54 | 2022-04-15 | 2022-09-16 |
 | [Greenlight \(feat\. Clementine Douglas\)](https://open.spotify.com/track/5D3Bf5y0Y51p8dEdQpM7Li) | [Eden Prince](https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Greenlight \(feat\. Clementine Douglas\)](https://open.spotify.com/album/26422GmcV96zY9uJzalG49) | 2:39 | 2022-04-15 | 2022-07-24 |
 | [Hands Down](https://open.spotify.com/track/23lDbJkMdPwoUzG73QmiFe) | [Chambray](https://open.spotify.com/artist/4FUZzDnu4gBue46G99hesO) | [Hands Down](https://open.spotify.com/album/52cKJWPz3mKOG0XUBtyCoL) | 2:29 | 2022-04-15 | 2022-07-21 |
 | [Hate Love \(feat\. S.E.N\)](https://open.spotify.com/track/34sk8sbh2rQw6o2DbAQ3Ee) | [Star.One](https://open.spotify.com/artist/11HK31aj8j8QJ3ZnSlqox4), [S.E.N](https://open.spotify.com/artist/7wAJdqoqfSGkDG188fWHxX) | [Hate Love \(feat\. S.E.N\)](https://open.spotify.com/album/1GMsPeiBmxM1qi5pX3WDIy) | 2:47 | 2022-04-15 | 2022-07-09 |

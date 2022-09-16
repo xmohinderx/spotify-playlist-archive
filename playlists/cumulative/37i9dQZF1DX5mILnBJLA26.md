@@ -2,7 +2,7 @@
 
 ### [AmaPiano Grooves](https://open.spotify.com/playlist/37i9dQZF1DX5mILnBJLA26)
 
-> The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/2tTyqKgMwCvQL0qJUf4l3K?si=gZGL\_izRTuaISYBtbMadrQ">Kweyama Brothers</a>
+> The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf?si=hNZyuYs0RzmYcabohwsN7g">Musa Keys</a>
 
 594 songs - 2 day 13 hr 8 min - [published](https://open.spotify.com/playlist/1OROzyYVlgHk2xjXQZDV5G)
 
@@ -323,7 +323,7 @@
 | [Mama](https://open.spotify.com/track/7DQMBUK4oX9gV1qIzpoRz6) | [Aymos](https://open.spotify.com/artist/3xXIOO328Ieh0PWOcxivjL) | [Mama](https://open.spotify.com/album/2lc6GfPXhRMVrJsBKq1WjU) | 7:30 | 2022-08-11 |  |
 | [Mama](https://open.spotify.com/track/79od62efQvrYq3Ms4pWOSp) | [Bulo](https://open.spotify.com/artist/76RXpuinglNfPrBGBG12oN), [Sino Msolo](https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI), [Nana Atta](https://open.spotify.com/artist/1B4FnAkti1c4KGQDv78pYq) | [The Unauthorised](https://open.spotify.com/album/5Gt4cNE0MNIazEyw6EwsEi) | 7:23 | 2022-05-05 | 2022-05-13 |
 | [Mama](https://open.spotify.com/track/4kTZVSJH2qTuUXyZPfklJ3) | [Makhadzi](https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs) | [Pain Ya Jealous](https://open.spotify.com/album/5KCz5c0mIDM7tg8hjS2Rwn) | 5:27 | 2022-04-01 | 2022-04-15 |
-| [Manca](https://open.spotify.com/track/46ZvwmGP7q63FWnrvurH45) | [Felo Le Tee](https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV), [Toss](https://open.spotify.com/artist/7cNkaagztQbDP9bSrtkM1U) | [Contagious](https://open.spotify.com/album/5P319u6XstqCetDIbyHqhB) | 6:19 | 2022-05-26 |  |
+| [Manca](https://open.spotify.com/track/46ZvwmGP7q63FWnrvurH45) | [Felo Le Tee](https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV), [TOSS](https://open.spotify.com/artist/0JwjW1x56tK5hnHvlRSSw9) | [Contagious](https://open.spotify.com/album/5P319u6XstqCetDIbyHqhB) | 6:19 | 2022-05-26 |  |
 | [Mapakisha](https://open.spotify.com/track/7pJTZZvLgtcJUdpaKWzyUq) | [Ziloman](https://open.spotify.com/artist/25ounbL0b9HaaAD5XQWiPi), [Freshnatic](https://open.spotify.com/artist/3cHCQtw0PmOy4qbD5171Rf), [Julian](https://open.spotify.com/artist/4vYj7nah6DyidXoeKEDRy7) | [Mapakisha](https://open.spotify.com/album/532uC6EWUuO0U3bJEDo08x) | 6:04 | 2022-07-07 | 2022-07-15 |
 | [Marakhuja](https://open.spotify.com/track/4vlNxB0A9MT1foeAQFQEoU) | [Kota Embassy](https://open.spotify.com/artist/3LIjRpCZ2elJjOBvrh2E53) | [LEAKED 2022](https://open.spotify.com/album/4aewRXjxoPxsUcYhEAIgdp) | 7:30 | 2022-02-03 | 2022-03-25 |
 | [Marinate](https://open.spotify.com/track/5XFgSWhFtug2luDBjYJ565) | [BL Zero](https://open.spotify.com/artist/4bu6ZJj5ThDofeVJHPVlwl), [Lebzito](https://open.spotify.com/artist/3ZzgC7B3Ggr2jZGWclAY7Q), [Kamo the Vocalist](https://open.spotify.com/artist/7zYPmeHmkX4EPYZ7PXA268), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Dj Karri](https://open.spotify.com/artist/4seQKbHnG8TM3jKeUvHFw1) | [Marinate](https://open.spotify.com/album/1brpc4tE6Ju3Ueo38y9v4H) | 6:59 | 2022-09-13 |  |

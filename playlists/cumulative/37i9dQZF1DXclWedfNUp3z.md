@@ -4,7 +4,7 @@
 
 > Mellow vibrations for green leaves, green thumbs and green ears.
 
-311 songs - 21 hr 39 min - [published](https://open.spotify.com/playlist/6XhGj2DggqIecedL7YMJsq)
+313 songs - 21 hr 47 min - [published](https://open.spotify.com/playlist/6XhGj2DggqIecedL7YMJsq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,7 +157,7 @@
 | [Maranta](https://open.spotify.com/track/2wTpKE7LiT9Zd9PTps0AtT) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP) | [The Plant Whisperer](https://open.spotify.com/album/6Y0GISNmyOkKYfUNQBcQfi) | 2:17 | 2022-03-19 |  |
 | [Margin](https://open.spotify.com/track/5ftP8UAivGwdKrLtiXCDcX) | [Abstract Aprils](https://open.spotify.com/artist/0tEsiY5wdNsxeUga1b8yu0) | [Margin](https://open.spotify.com/album/4VHeuhHxD88i9lWoispU9I) | 5:16 | 2022-02-18 |  |
 | [Marginalia \#48](https://open.spotify.com/track/6wVZmYHeNd4TJioyfMFdiV) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [Marginalia III](https://open.spotify.com/album/6biHewklP04G9dU2nu5jhM) | 3:53 | 2022-02-23 |  |
-| [Mariposas](https://open.spotify.com/track/5z8GDA5pxCUPLtNY7ykAqw) | [Aeromancias](https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw) | [Mutaciones](https://open.spotify.com/album/5Dhc2E7m1T2e7gRzBtdRTg) | 3:44 | 2021-10-20 |  |
+| [Mariposas](https://open.spotify.com/track/5z8GDA5pxCUPLtNY7ykAqw) | [Aeromancias](https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw) | [Mutaciones](https://open.spotify.com/album/5Dhc2E7m1T2e7gRzBtdRTg) | 3:44 | 2021-10-20 | 2022-09-16 |
 | [Marshmallow](https://open.spotify.com/track/6N2yBySX0VhCVlVHKngirs) | [The Sweet Enoughs](https://open.spotify.com/artist/04nWjOBHWrVkvyjK4PXRNy) | [Marshmallow](https://open.spotify.com/album/79tfjRNKLemO4c2dNXqJFR) | 3:55 | 2021-12-07 |  |
 | [Mary, You Were Wrong](https://open.spotify.com/track/7cAjwU15bF9O81UjiC1HpH) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Mary, You Were Wrong](https://open.spotify.com/album/1QumBx2mlFuTfFu8zR2sM7) | 4:58 | 2021-11-12 |  |
 | [Meditations](https://open.spotify.com/track/1C8TMLXojWgI87vacwQD3J) | [DJ Clea](https://open.spotify.com/artist/5ZSGfblqHsmriplkJOoAWx) | [Meditations](https://open.spotify.com/album/1oTKZ4ittv2nOsAfi4r0X9) | 6:41 | 2021-10-20 | 2022-07-29 |
@@ -181,6 +181,7 @@
 | [No tiempo](https://open.spotify.com/track/3x5CHbBZhKJuT0N3LlmOE4) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [Atemporal](https://open.spotify.com/album/063ZbT2nAWdHQY1vlu6VFd) | 3:35 | 2022-08-02 | 2022-09-03 |
 | [Noodles](https://open.spotify.com/track/17Wzd6vAVq0qJqxHHc1iQ3) | [Oils](https://open.spotify.com/artist/3Q2M9TPSdCOUOw0IStqvdI) | [Noodles](https://open.spotify.com/album/2osw99nWs2Ksyccj99sZ60) | 4:52 | 2022-03-30 | 2022-06-22 |
 | [Northern Spirit](https://open.spotify.com/track/723CVJbxvyZCQlGCVQkXCJ) | [Alyas](https://open.spotify.com/artist/0RRYSk01k1iJQbsi83Oh2S) | [Northern Spirit](https://open.spotify.com/album/3z9ysNmG6n81nNSaziusQL) | 4:06 | 2022-01-14 | 2022-04-20 |
+| [Nutrition \- Single Edit](https://open.spotify.com/track/3A6tEuBqrZGmFXZrYEGx00) | [Tenka](https://open.spotify.com/artist/2B1vFfrtORGBQQdIKAckkw), [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Nutrition](https://open.spotify.com/album/1CHFy3am47XIemogPAnlwi) | 4:39 | 2022-09-15 |  |
 | [Omprovo](https://open.spotify.com/track/2IGlsC51UCUtQLIaDJuVPg) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Oquo](https://open.spotify.com/album/6cTuDue4MAQupjz57fNicv) | 2:40 | 2021-10-20 | 2022-07-27 |
 | [One Day](https://open.spotify.com/track/4BER2aGl5Nta8DEs3CV35s) | [Nobukazu Takemura](https://open.spotify.com/artist/1iXLUp5POcP8TLvg3p2ze9) | [Hoshi No Koe](https://open.spotify.com/album/6ZEv1wpEkZcjUO1UL9TLtb) | 1:43 | 2021-10-20 | 2022-07-24 |
 | [Only Love From Now On \(with Johanna Scheie Orellana\)](https://open.spotify.com/track/3Woi4fIAiktL6UwEcDFPfo) | [Carmen Villain](https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l), [Johanna Scheie Orellana](https://open.spotify.com/artist/2XZZ4suNvaBBsxrHcRa7pG) | [Only Love From Now On](https://open.spotify.com/album/51gBdOcPhuUMKlSTO5CySL) | 8:13 | 2022-03-03 | 2022-07-25 |
@@ -212,7 +213,7 @@
 | [Pure Water](https://open.spotify.com/track/7jrLokdbNspz0vKkSHqiJx) | [INFINITY](https://open.spotify.com/artist/12pPh6VvLwN3gbBl1LXMPg) | [Relax](https://open.spotify.com/album/3OGKt5r1ic5lyflrEdtBVX) | 11:28 | 2021-10-20 | 2022-07-28 |
 | [Purpose.](https://open.spotify.com/track/7AQGxFft7GGhqWGCnQXtMq) | [chromonicci](https://open.spotify.com/artist/746nA9NSKsqBDRk343UtkE) | [Purpose.](https://open.spotify.com/album/3iUUBlbgj5U6FaIwOkImoB) | 3:12 | 2022-04-07 |  |
 | [rain scene pt\. 2](https://open.spotify.com/track/09lYsK8NUcKuaVtYJQ0gYo) | [Savoir Adore](https://open.spotify.com/artist/2weMnYqCmtNUrSLAJq5dD8) | [Image Tapes Vol\. 1](https://open.spotify.com/album/3yTXYqamF5Kq1FiGjPph0J) | 2:08 | 2021-10-20 | 2022-07-28 |
-| [Rainforest Revival Shampoo Bar](https://open.spotify.com/track/1mYTnzuhrlxkfcqea2KEQp) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [Rainforest Revival Shampoo Bar](https://open.spotify.com/album/1xLQFwcxKjXh0uEKeYCPBN) | 2:12 | 2021-10-20 |  |
+| [Rainforest Revival Shampoo Bar](https://open.spotify.com/track/1mYTnzuhrlxkfcqea2KEQp) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [Rainforest Revival Shampoo Bar](https://open.spotify.com/album/1xLQFwcxKjXh0uEKeYCPBN) | 2:12 | 2021-10-20 | 2022-09-16 |
 | [Rainforest Revival Shampoo Bar](https://open.spotify.com/track/6f4acBjqPs80P0Ttnp1rN1) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [Rainforest Revival Shampoo Bar](https://open.spotify.com/album/64eSZojU3zsDIdJGPbaR8M) | 2:12 | 2021-10-20 | 2022-07-08 |
 | [Redder Than The Moon](https://open.spotify.com/track/0BaMCfGFqKWdy1twJsYueE) | [John Looke](https://open.spotify.com/artist/1QhkInKbE89KGSmit4gxS5) | [SVMMER SVN vol\. 6](https://open.spotify.com/album/7r0xrhFh0z7HYziylKYSya) | 4:27 | 2021-10-20 |  |
 | [Redder Than The Moon](https://open.spotify.com/track/3nWeRDTscrrz33s4Ruu7uM) | [John Looke](https://open.spotify.com/artist/1QhkInKbE89KGSmit4gxS5) | [SVMMER SVN vol\. 6](https://open.spotify.com/album/5kzIE3Vhr8FZjaQHIBjEng) | 4:27 | 2021-10-20 | 2022-07-29 |
@@ -280,6 +281,7 @@
 | [Thus](https://open.spotify.com/track/6Kuue6voczzBMIbSBSinJ0) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm), [Rena Jones](https://open.spotify.com/artist/09qbbuYgbAysaJDRlCkbT6), [Flowerpulse](https://open.spotify.com/artist/2r954nnXRVwwleWpnScEoP) | [Thus](https://open.spotify.com/album/5Uc6SeZfeDHPwbbyfbMOEv) | 3:31 | 2021-10-20 | 2022-07-22 |
 | [Time Changes](https://open.spotify.com/track/5hGQQu04tYHWt0zzDpYA1D) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Henrik Jespersen](https://open.spotify.com/artist/6ec9qybPAfeFylOZWEkbPy) | [Skyline \- Instant Composition Vol\. 2](https://open.spotify.com/album/6XB7R05FqrtyCLQBQOw00K) | 4:17 | 2022-03-17 | 2022-07-28 |
 | [Time Dilation](https://open.spotify.com/track/3W5cNo9ITRF4w6tage4yGf) | [Fredrik Jonasson](https://open.spotify.com/artist/03XDTtBcCjJVSDrvs322wd) | [Aether](https://open.spotify.com/album/3j9CUqBHIVr3vX17MjGvl0) | 4:20 | 2022-02-18 | 2022-04-19 |
+| [to all the plants i loved](https://open.spotify.com/track/6lvQXM7GBbnuFMQwEIHCDX) | [s e r é n a t e](https://open.spotify.com/artist/6Mrjj6yM6eFCKfQtHxzeUq) | [caso de estudio](https://open.spotify.com/album/7k3qFMpJYBXVg4x634Aopp) | 3:45 | 2022-09-15 |  |
 | [Tomato Day](https://open.spotify.com/track/7zXTb9cnYZruPZzLM7MrA8) | [Kelpe](https://open.spotify.com/artist/6D5qrT7NQXcdvFTtCJNszl) | [Boiling, Steaming and Poaching](https://open.spotify.com/album/4Xs0BuqcVypp3XJDcdSK3K) | 4:19 | 2021-10-20 | 2022-09-05 |
 | [Translucent](https://open.spotify.com/track/7nXlwdROvJxmmtdkPNggfR) | [Hainbach](https://open.spotify.com/artist/3FlXXv8lfSt3ZWk9epMxe7), [Jeremy Blake](https://open.spotify.com/artist/1FnFDLE1iq1L5Md8tm1cXO) | [Home Stories](https://open.spotify.com/album/3TuDpNfwEGpVr666kvj4uW) | 4:40 | 2021-10-20 | 2022-07-26 |
 | [Tree](https://open.spotify.com/track/5M4o1gPeRQAMOSHzJT50n7) | [Jupi/ter](https://open.spotify.com/artist/1lgvQ2wmUIPUPyijtFXF8x) | [Islands, Pt\. 2](https://open.spotify.com/album/295zTFUzqlhF1uU0B9eLnd) | 5:12 | 2022-04-04 | 2022-06-29 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest out now in South African Rock and Punk. Cover: <a href=\"https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb?si=y9eRB-kFSJCJjrCpXvWyog\">Die Heuwels Fantasties</a>",
+  "description": "Only the hottest out now in South African Rock and Punk. Cover: <a href=\"https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW?si=G9Ia9ChuTPeQ1Z7iZd3bYw\">Droomsindroom</a>",
   "name": "SA Rock Essentials",
   "published_playlist_ids": [
     "7m29EUKd7lxp8FUt6WdfbM"
@@ -170,6 +170,24 @@
     },
     {
       "album": {
+        "name": "Bag of Bones",
+        "url": "https://open.spotify.com/album/4bpRUM7drDQpbwqhMzJeZ1"
+      },
+      "artists": [
+        {
+          "name": "Gangsterdam",
+          "url": "https://open.spotify.com/artist/63fJ4ckrhwwtDX31WrhqfS"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157733,
+      "name": "Bag of Bones",
+      "url": "https://open.spotify.com/track/4wBeiARY66bJ3FrrEjnlVa"
+    },
+    {
+      "album": {
         "name": "Begin Van Die Einde",
         "url": "https://open.spotify.com/album/2BYTNrN2Ct1XkjTtriuqSa"
       },
@@ -315,7 +333,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 284075,
       "name": "Cancelled",
       "url": "https://open.spotify.com/track/7BhiRAIIveb33FYNdrzBfA"
@@ -561,7 +579,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 229134,
       "name": "Druppels",
       "url": "https://open.spotify.com/track/6jZR5jBiTTfWIlR0dIlZnc"
@@ -781,7 +799,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 173770,
       "name": "FAKE LOVE",
       "url": "https://open.spotify.com/track/4yCzdEiGPcpcDQ87fG4nHS"
@@ -1138,6 +1156,28 @@
     },
     {
       "album": {
+        "name": "Aansteeklik",
+        "url": "https://open.spotify.com/album/3dOKf9YXYnPLlRLaCwsL2G"
+      },
+      "artists": [
+        {
+          "name": "Droomsindroom",
+          "url": "https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW"
+        },
+        {
+          "name": "Spoegwolf",
+          "url": "https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175728,
+      "name": "Kopskud Revolusie (feat. Spoegwolf)",
+      "url": "https://open.spotify.com/track/5taKG0t4Z0sv247eXWuWij"
+    },
+    {
+      "album": {
         "name": "Last Tear",
         "url": "https://open.spotify.com/album/1GxkqKs4ZdP2mW42p1FpMS"
       },
@@ -1334,6 +1374,28 @@
     },
     {
       "album": {
+        "name": "MONSTER",
+        "url": "https://open.spotify.com/album/3IWzdjrJFlVaom1WYTzngo"
+      },
+      "artists": [
+        {
+          "name": "Yung Beathoven",
+          "url": "https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs"
+        },
+        {
+          "name": "Brogan the band",
+          "url": "https://open.spotify.com/artist/6hyyfSQkg85RaqUiyflfZc"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "MONSTER",
+      "url": "https://open.spotify.com/track/114TXFPWIi2iISkXtGjLCN"
+    },
+    {
+      "album": {
         "name": "My Favourite Place",
         "url": "https://open.spotify.com/album/5B7kv69LuD5m0OKtZUSJ11"
       },
@@ -1388,6 +1450,24 @@
     },
     {
       "album": {
+        "name": "Oh No!",
+        "url": "https://open.spotify.com/album/64Na1iGg8petII9jhmDNf3"
+      },
+      "artists": [
+        {
+          "name": "aboynamedblu",
+          "url": "https://open.spotify.com/artist/4DCRHW4ITYEaA0qmW3PYJj"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145907,
+      "name": "Oh No!",
+      "url": "https://open.spotify.com/track/4QOGyHQHQBh8Legq1hrOcE"
+    },
+    {
+      "album": {
         "name": "ohmygosh (Acoustic)",
         "url": "https://open.spotify.com/album/2hEBqU7NAneCBKhh7SUoJ9"
       },
@@ -1435,7 +1515,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 172500,
       "name": "Out & About",
       "url": "https://open.spotify.com/track/4IJjTMbpLBnewkNrtcRLPj"
@@ -1623,6 +1703,24 @@
       "duration_ms": 169520,
       "name": "Risk",
       "url": "https://open.spotify.com/track/1lXXDSVn8fZ32AxIEvM6oX"
+    },
+    {
+      "album": {
+        "name": "Save Me",
+        "url": "https://open.spotify.com/album/5tLjTbclIzPE4t7QFqfEue"
+      },
+      "artists": [
+        {
+          "name": "Chen\u00e9l No.1",
+          "url": "https://open.spotify.com/artist/1Xbi5EWO3vlC8JlH65uC4V"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168699,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/0WkLcfV73UlxOlM8roFFK6"
     },
     {
       "album": {
@@ -1871,7 +1969,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 177140,
       "name": "Sugar",
       "url": "https://open.spotify.com/track/2zFcrZtmrvIftt0ZDcm6BI"

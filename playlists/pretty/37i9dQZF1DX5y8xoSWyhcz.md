@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 
 > it's a vibe \(◡ ‿ ◡ ✿\)\.  \~\~\~ cover: hope tala 🌏
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,442 likes - 120 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,465 likes - 120 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 50 | [Get Well Soon](https://open.spotify.com/track/2pAG0CfwvkA4JcSo6eb9jq) | [Jenna Doe](https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT) | [Get Well Soon](https://open.spotify.com/album/4P0qK1UZsmlL9aspZaOkkJ) | 2:34 |
 | 51 | [Hard to Let Go](https://open.spotify.com/track/7lKN7pik3CelVWHWGp6DfB) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Hard to Let Go](https://open.spotify.com/album/0PboTq5CUcoilt6IJS2SQo) | 4:07 |
 | 52 | [Time Machine](https://open.spotify.com/track/4Fkf0tYc8tD0BeS7k20AAa) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Time Machine](https://open.spotify.com/album/4jAN28tuuWdvDsX5HzPXbv) | 3:39 |
-| 53 | [touch tank](https://open.spotify.com/track/7DrzZN5jaDyE0a0tVuVWnj) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [touch tank](https://open.spotify.com/album/4cH0G6g1NcPguHQ8aOk1h6) | 2:59 |
+| 53 | [touch tank](https://open.spotify.com/track/1S3ZeV4CEdqbzBYwu0pxE7) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [touch tank](https://open.spotify.com/album/4XsixtHgUzRfUd9zrhX5eh) | 2:59 |
 | 54 | [OTT](https://open.spotify.com/track/5vrOwoXILW22WyXkhGLciY) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [OTT](https://open.spotify.com/album/2BqtVNmZ2QjvrM8mfDb3ZG) | 2:37 |
 | 55 | [drugs are for fun](https://open.spotify.com/track/3EAPXckxzS63OgxbDgaAZz) | [sunsetto](https://open.spotify.com/artist/1qirsMPK9gjYaXmGF4eUmL) | [drugs are for fun](https://open.spotify.com/album/7IhqRJzrwITx7QCXzYitzT) | 2:22 |
 | 56 | [Uncall It](https://open.spotify.com/track/6dJC1unKk2kWnaA5goiXly) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [Uncall It](https://open.spotify.com/album/5JdqxFr49wq2SnOCObPYA4) | 2:36 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 119 | [Never Be Okay](https://open.spotify.com/track/3suBx1FwnByNTLB0ba8LOA) | [Lilianna Wilde](https://open.spotify.com/artist/0Dt97GvTO4dxdBYqyxLwLY) | [Never Be Okay](https://open.spotify.com/album/5aE1KqucFKgRHuusbV1S1P) | 2:16 |
 | 120 | [Crutches](https://open.spotify.com/track/4MdxHfa5fmIdvPwYXM56gS) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Crutches](https://open.spotify.com/album/4U59RIA6eisih8TNjz7CzP) | 2:50 |
 
-Snapshot ID: `MTY2MjY5NjAwMCwwMDAwMDAwMGFjZTVmMGU3MTQ5OTgwZWJmODRkNjk3ZmEzMjRkMjg1`
+Snapshot ID: `MTY2MjY5NjAwMCwwMDAwMDAwMDZjMGM5ZDNiODdjZWUyOTk5OWY2MTNmYTZhMzY0MGU4`

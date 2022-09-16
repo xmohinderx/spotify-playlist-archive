@@ -1,12 +1,12 @@
 {
   "description": "Al cien en la mamalona!  ",
-  "num_followers": 197793,
+  "num_followers": 198191,
   "original_name": "La Mamalona",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjcwNDk0NywwMDAwMDAwMGUxNTgxYmFlNWFkOTZiYzk3OTljNmU0MWVlYmE1Njdm",
+  "snapshot_id": "MTY2MjcwNDk0NywwMDAwMDAwMDA0YjcyZDYwZWE1ZTc0ZmYyMmRiNTM5MDk1YTUzNjc4",
   "tracks": [
     {
       "added_at": "2022-09-09 06:29:07",
@@ -879,22 +879,6 @@
     {
       "added_at": "2022-09-09 06:29:07",
       "album": {
-        "name": "El Karma (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY"
-      },
-      "artists": [
-        {
-          "name": "Ariel Camacho y Los Plebes Del Rancho",
-          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
-        }
-      ],
-      "duration_ms": 195136,
-      "name": "El Karma",
-      "url": "https://open.spotify.com/track/34eVjAbZ5CzAtZIVMDHL1C"
-    },
-    {
-      "added_at": "2022-09-09 06:29:07",
-      "album": {
         "name": "Lo Prometido Es Deuda Vol.1",
         "url": "https://open.spotify.com/album/61sqe6L00SzLzj1yz30Mr5"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 148561,
       "name": "A Lo Lejos Me Veran",
       "url": "https://open.spotify.com/track/3VHtIuKm8MvOTo81Usu2f5"
+    },
+    {
+      "added_at": "2022-09-09 06:29:07",
+      "album": {
+        "name": "El Karma (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY"
+      },
+      "artists": [
+        {
+          "name": "Ariel Camacho y Los Plebes Del Rancho",
+          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
+        }
+      ],
+      "duration_ms": 195136,
+      "name": "El Karma",
+      "url": "https://open.spotify.com/track/34eVjAbZ5CzAtZIVMDHL1C"
     },
     {
       "added_at": "2022-09-09 06:29:07",
@@ -987,6 +987,26 @@
     {
       "added_at": "2022-09-09 06:29:07",
       "album": {
+        "name": "Summer School Mixtape, Vol. 1",
+        "url": "https://open.spotify.com/album/46QtDfvUWf9AZqaoUQA9GU"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+        }
+      ],
+      "duration_ms": 194002,
+      "name": "Mi Vicio",
+      "url": "https://open.spotify.com/track/6sGYPF1Ud3pYSyh28XOUp2"
+    },
+    {
+      "added_at": "2022-09-09 06:29:07",
+      "album": {
         "name": "Por Apodo Soy Sobrino (En Vivo)",
         "url": "https://open.spotify.com/album/7B52dEX4yFDEYHZszTnQhk"
       },
@@ -1011,26 +1031,6 @@
       "duration_ms": 206000,
       "name": "Por Apodo Soy Sobrino (En Vivo)",
       "url": "https://open.spotify.com/track/49qfoWzVYUENMSdwzBjgs3"
-    },
-    {
-      "added_at": "2022-09-09 06:29:07",
-      "album": {
-        "name": "Summer School Mixtape, Vol. 1",
-        "url": "https://open.spotify.com/album/46QtDfvUWf9AZqaoUQA9GU"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        },
-        {
-          "name": "T3R Elemento",
-          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
-        }
-      ],
-      "duration_ms": 194002,
-      "name": "Mi Vicio",
-      "url": "https://open.spotify.com/track/6sGYPF1Ud3pYSyh28XOUp2"
     },
     {
       "added_at": "2022-09-09 06:29:07",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2022-09-09 06:29:07",
       "album": {
+        "name": "Sencillo Soy",
+        "url": "https://open.spotify.com/album/2VTl4zpY1zYRj1KXGTHLFv"
+      },
+      "artists": [
+        {
+          "name": "Polo Gonzalez",
+          "url": "https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6"
+        }
+      ],
+      "duration_ms": 172954,
+      "name": "Sencillo Soy",
+      "url": "https://open.spotify.com/track/5XWPoQ2lS8qgaf5aeDwBmh"
+    },
+    {
+      "added_at": "2022-09-09 06:29:07",
+      "album": {
         "name": "Lujos y Secretos",
         "url": "https://open.spotify.com/album/4QUx5wQsvFrdwCO4vfN12v"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 165836,
       "name": "Lujos y Secretos",
       "url": "https://open.spotify.com/track/5Q7T1ePrtZiMA5whIXdwUC"
-    },
-    {
-      "added_at": "2022-09-09 06:29:07",
-      "album": {
-        "name": "Sencillo Soy",
-        "url": "https://open.spotify.com/album/2VTl4zpY1zYRj1KXGTHLFv"
-      },
-      "artists": [
-        {
-          "name": "Polo Gonzalez",
-          "url": "https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6"
-        }
-      ],
-      "duration_ms": 172954,
-      "name": "Sencillo Soy",
-      "url": "https://open.spotify.com/track/5XWPoQ2lS8qgaf5aeDwBmh"
     },
     {
       "added_at": "2022-09-09 06:29:07",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2022-09-09 06:29:07",
       "album": {
-        "name": "15 Primeros Exitos Vol. 1",
-        "url": "https://open.spotify.com/album/4xxr8BlUMAKDdVRmDIyDjq"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 156920,
-      "name": "El Centenario",
-      "url": "https://open.spotify.com/track/65PXVu64xyXCpKczg4K9Cz"
-    },
-    {
-      "added_at": "2022-09-09 06:29:07",
-      "album": {
         "name": "DEV, Vol. 2",
         "url": "https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 175031,
       "name": "Ac\u00e1 en Guanajuato",
       "url": "https://open.spotify.com/track/317vHXvCtvtAJIEbBJIuys"
+    },
+    {
+      "added_at": "2022-09-09 06:29:07",
+      "album": {
+        "name": "15 Primeros Exitos Vol. 1",
+        "url": "https://open.spotify.com/album/4xxr8BlUMAKDdVRmDIyDjq"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 156920,
+      "name": "El Centenario",
+      "url": "https://open.spotify.com/track/65PXVu64xyXCpKczg4K9Cz"
     },
     {
       "added_at": "2022-09-09 06:29:07",
@@ -1455,26 +1455,6 @@
     {
       "added_at": "2022-09-09 06:29:07",
       "album": {
-        "name": "El Fendi",
-        "url": "https://open.spotify.com/album/1aNlJwycEVQsdsRgHNaHsE"
-      },
-      "artists": [
-        {
-          "name": "Victor Cibrian",
-          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
-        },
-        {
-          "name": "La Decima Banda",
-          "url": "https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U"
-        }
-      ],
-      "duration_ms": 195750,
-      "name": "El Fendi",
-      "url": "https://open.spotify.com/track/64ixe7UA8GJomJmkh1vJQY"
-    },
-    {
-      "added_at": "2022-09-09 06:29:07",
-      "album": {
         "name": "El Criticado",
         "url": "https://open.spotify.com/album/5mK00alrjJoqCLUUUQW4iy"
       },
@@ -1495,22 +1475,22 @@
     {
       "added_at": "2022-09-09 06:29:07",
       "album": {
-        "name": "Adi\u00f3s A Chalino",
-        "url": "https://open.spotify.com/album/1bNgOfg4GnCmHoF52wdVVF"
+        "name": "El Fendi",
+        "url": "https://open.spotify.com/album/1aNlJwycEVQsdsRgHNaHsE"
       },
       "artists": [
         {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
         },
         {
-          "name": "Los Amables Del Norte",
-          "url": "https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K"
+          "name": "La Decima Banda",
+          "url": "https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U"
         }
       ],
-      "duration_ms": 190937,
-      "name": "Mario Peralta",
-      "url": "https://open.spotify.com/track/6HRpgUqFOM2qHJv0jgygu8"
+      "duration_ms": 195750,
+      "name": "El Fendi",
+      "url": "https://open.spotify.com/track/64ixe7UA8GJomJmkh1vJQY"
     },
     {
       "added_at": "2022-09-09 06:29:07",
@@ -1527,6 +1507,26 @@
       "duration_ms": 141500,
       "name": "Una Chevy",
       "url": "https://open.spotify.com/track/7xxQJetweF4orA784Bfae2"
+    },
+    {
+      "added_at": "2022-09-09 06:29:07",
+      "album": {
+        "name": "Adi\u00f3s A Chalino",
+        "url": "https://open.spotify.com/album/1bNgOfg4GnCmHoF52wdVVF"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        },
+        {
+          "name": "Los Amables Del Norte",
+          "url": "https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K"
+        }
+      ],
+      "duration_ms": 190937,
+      "name": "Mario Peralta",
+      "url": "https://open.spotify.com/track/6HRpgUqFOM2qHJv0jgygu8"
     },
     {
       "added_at": "2022-09-09 06:29:07",
@@ -1595,26 +1595,6 @@
     {
       "added_at": "2022-09-09 06:29:07",
       "album": {
-        "name": "Adi\u00f3s A Chalino",
-        "url": "https://open.spotify.com/album/1bNgOfg4GnCmHoF52wdVVF"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        },
-        {
-          "name": "Los Amables Del Norte",
-          "url": "https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K"
-        }
-      ],
-      "duration_ms": 187199,
-      "name": "El Navegante",
-      "url": "https://open.spotify.com/track/6o2BhZdnRk4hLaTh1x8mKI"
-    },
-    {
-      "added_at": "2022-09-09 06:29:07",
-      "album": {
         "name": "Corridos De Oro",
         "url": "https://open.spotify.com/album/077RnVapHLO1Zf6p4RMN14"
       },
@@ -1627,6 +1607,26 @@
       "duration_ms": 153786,
       "name": "Se Les Pelo Baltazar",
       "url": "https://open.spotify.com/track/6WuJdz1dLYTK9sTgl4gXxg"
+    },
+    {
+      "added_at": "2022-09-09 06:29:07",
+      "album": {
+        "name": "Bien Alerta (En vivo)",
+        "url": "https://open.spotify.com/album/1Wz6iNlCxF0iyuwnoe22kx"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 153500,
+      "name": "Bien Alerta - En vivo",
+      "url": "https://open.spotify.com/track/4Up6b4TbzzUCxqWDHaxslv"
     },
     {
       "added_at": "2022-09-09 06:29:07",
@@ -1651,18 +1651,22 @@
     {
       "added_at": "2022-09-09 06:29:07",
       "album": {
-        "name": "Bendec\u00eddo",
-        "url": "https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu"
+        "name": "Adi\u00f3s A Chalino",
+        "url": "https://open.spotify.com/album/1bNgOfg4GnCmHoF52wdVVF"
       },
       "artists": [
         {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        },
+        {
+          "name": "Los Amables Del Norte",
+          "url": "https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K"
         }
       ],
-      "duration_ms": 200070,
-      "name": "El de la Gorra 27",
-      "url": "https://open.spotify.com/track/1LV6zxUFIUyePwsdFHNIYA"
+      "duration_ms": 187199,
+      "name": "El Navegante",
+      "url": "https://open.spotify.com/track/6o2BhZdnRk4hLaTh1x8mKI"
     },
     {
       "added_at": "2022-09-09 06:29:07",
@@ -1707,22 +1711,18 @@
     {
       "added_at": "2022-09-09 06:29:07",
       "album": {
-        "name": "Bien Alerta (En vivo)",
-        "url": "https://open.spotify.com/album/1Wz6iNlCxF0iyuwnoe22kx"
+        "name": "Bendec\u00eddo",
+        "url": "https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu"
       },
       "artists": [
         {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
         }
       ],
-      "duration_ms": 153500,
-      "name": "Bien Alerta - En vivo",
-      "url": "https://open.spotify.com/track/4Up6b4TbzzUCxqWDHaxslv"
+      "duration_ms": 200070,
+      "name": "El de la Gorra 27",
+      "url": "https://open.spotify.com/track/1LV6zxUFIUyePwsdFHNIYA"
     },
     {
       "added_at": "2022-09-09 06:29:07",
@@ -2131,26 +2131,6 @@
     {
       "added_at": "2022-09-09 06:29:07",
       "album": {
-        "name": "El Pelo Chino",
-        "url": "https://open.spotify.com/album/4lbTVQ0Lntlp4uoIQEX9v7"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 180324,
-      "name": "El Pelo Chino",
-      "url": "https://open.spotify.com/track/5aEB9XqxVvaYZMtjVL9n9q"
-    },
-    {
-      "added_at": "2022-09-09 06:29:07",
-      "album": {
         "name": "Hierba de Receta",
         "url": "https://open.spotify.com/album/7glBSqst3BW6aFpUgwlr9g"
       },
@@ -2171,6 +2151,26 @@
       "duration_ms": 193561,
       "name": "Hierba de Receta",
       "url": "https://open.spotify.com/track/3ohXKHyHxxuXo8UsRL3h17"
+    },
+    {
+      "added_at": "2022-09-09 06:29:07",
+      "album": {
+        "name": "El Pelo Chino",
+        "url": "https://open.spotify.com/album/4lbTVQ0Lntlp4uoIQEX9v7"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 180324,
+      "name": "El Pelo Chino",
+      "url": "https://open.spotify.com/track/5aEB9XqxVvaYZMtjVL9n9q"
     },
     {
       "added_at": "2022-09-09 06:29:07",
@@ -2415,18 +2415,18 @@
     {
       "added_at": "2022-09-09 06:29:07",
       "album": {
-        "name": "Lujos De La Vida",
-        "url": "https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f"
+        "name": "El Capit\u00e1n",
+        "url": "https://open.spotify.com/album/4xBSMVWrg3hQoDrGYbtiuj"
       },
       "artists": [
         {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+          "name": "Grupo Rocket",
+          "url": "https://open.spotify.com/artist/5DcpgbwetMYJL7RFIUbRsV"
         }
       ],
-      "duration_ms": 170240,
-      "name": "Lujos De La Vida",
-      "url": "https://open.spotify.com/track/465CNemByQDps6aOI24859"
+      "duration_ms": 185500,
+      "name": "El Capit\u00e1n",
+      "url": "https://open.spotify.com/track/65wr2H4YXdNbgYWuprFicA"
     },
     {
       "added_at": "2022-09-09 06:29:07",
@@ -2447,22 +2447,18 @@
     {
       "added_at": "2022-09-09 06:29:07",
       "album": {
-        "name": "La Noche Empieza",
-        "url": "https://open.spotify.com/album/1iBhcWwp8cwiS01F1hyqJN"
+        "name": "Lujos De La Vida",
+        "url": "https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f"
       },
       "artists": [
         {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
         }
       ],
-      "duration_ms": 227454,
-      "name": "La Noche Empieza",
-      "url": "https://open.spotify.com/track/28wWPHEn63HCXDMqiCiLyX"
+      "duration_ms": 170240,
+      "name": "Lujos De La Vida",
+      "url": "https://open.spotify.com/track/465CNemByQDps6aOI24859"
     }
   ],
   "unique_name": "La Mamalona",

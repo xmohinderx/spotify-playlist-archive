@@ -1,12 +1,12 @@
 {
   "description": "Distorted and rough around the edges.",
-  "num_followers": 389086,
+  "num_followers": 389223,
   "original_name": "Lo-Fi House",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjE0MTk0NCwwMDAwMDAwMDM2ZjBkNTcyNTA3ODM5YjBjMTczMGE5OGQ3MTcwOGQy",
+  "snapshot_id": "MTY2MjE0MTk0NCwwMDAwMDAwMDQxNjkzNzAxZWNjMmI5N2I4MzY4ZTlmOTVlMmIzN2Nj",
   "tracks": [
     {
       "added_at": "2022-09-02 18:05:44",
@@ -355,22 +355,6 @@
     {
       "added_at": "2022-09-02 18:05:44",
       "album": {
-        "name": "breath tapes",
-        "url": "https://open.spotify.com/album/1vdUANbVjD8diT0bPpdbva"
-      },
-      "artists": [
-        {
-          "name": "sunflwr",
-          "url": "https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF"
-        }
-      ],
-      "duration_ms": 215222,
-      "name": "suddenly",
-      "url": "https://open.spotify.com/track/5maVHEe34pMYm3bCDM8Vlq"
-    },
-    {
-      "added_at": "2022-09-02 18:05:44",
-      "album": {
         "name": "We Should Chill On The Windowsill More",
         "url": "https://open.spotify.com/album/0j49Rsgfpn2Q7RBQpZDssK"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 326129,
       "name": "Far From Home",
       "url": "https://open.spotify.com/track/4i3Y42G0Um2iDVKb7XBRT9"
+    },
+    {
+      "added_at": "2022-09-02 18:05:44",
+      "album": {
+        "name": "breath tapes",
+        "url": "https://open.spotify.com/album/1vdUANbVjD8diT0bPpdbva"
+      },
+      "artists": [
+        {
+          "name": "sunflwr",
+          "url": "https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF"
+        }
+      ],
+      "duration_ms": 215222,
+      "name": "suddenly",
+      "url": "https://open.spotify.com/track/5maVHEe34pMYm3bCDM8Vlq"
     },
     {
       "added_at": "2022-09-02 18:05:44",
@@ -467,22 +467,6 @@
     {
       "added_at": "2022-09-02 18:05:44",
       "album": {
-        "name": "Songs to Stay Home To",
-        "url": "https://open.spotify.com/album/0BpmRWnEhd6BeoNEMfazVf"
-      },
-      "artists": [
-        {
-          "name": "Josi Miller",
-          "url": "https://open.spotify.com/artist/4xII91OL7Sf5ppZ5tBtLga"
-        }
-      ],
-      "duration_ms": 134213,
-      "name": "Songs to Stay Home To, Pt. I",
-      "url": "https://open.spotify.com/track/1EXseUuDlh899KusFPAExL"
-    },
-    {
-      "added_at": "2022-09-02 18:05:44",
-      "album": {
         "name": "Carefree",
         "url": "https://open.spotify.com/album/6byYvncu2dYHriyQrVdlJB"
       },
@@ -499,34 +483,18 @@
     {
       "added_at": "2022-09-02 18:05:44",
       "album": {
-        "name": "Floating on Silence",
-        "url": "https://open.spotify.com/album/03lYMSk6qK5nxH3IVI1WIO"
+        "name": "Songs to Stay Home To",
+        "url": "https://open.spotify.com/album/0BpmRWnEhd6BeoNEMfazVf"
       },
       "artists": [
         {
-          "name": "Tour-Maubourg",
-          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
+          "name": "Josi Miller",
+          "url": "https://open.spotify.com/artist/4xII91OL7Sf5ppZ5tBtLga"
         }
       ],
-      "duration_ms": 381864,
-      "name": "Floating on Silence",
-      "url": "https://open.spotify.com/track/0x29CeLQLR31LY4OtWkcPp"
-    },
-    {
-      "added_at": "2022-09-02 18:05:44",
-      "album": {
-        "name": "Brasil",
-        "url": "https://open.spotify.com/album/6ZMy4Xs6u1k9x5Fm7oRcrI"
-      },
-      "artists": [
-        {
-          "name": "blnkspc_",
-          "url": "https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Brasil",
-      "url": "https://open.spotify.com/track/5A6P4j1vzChOHQj7rdZndJ"
+      "duration_ms": 134213,
+      "name": "Songs to Stay Home To, Pt. I",
+      "url": "https://open.spotify.com/track/1EXseUuDlh899KusFPAExL"
     },
     {
       "added_at": "2022-09-02 18:05:44",
@@ -547,6 +515,38 @@
       "duration_ms": 287767,
       "name": "The Break Up - Emma-Jean Thackray Remix - Edit",
       "url": "https://open.spotify.com/track/1nOq8ccv98cYy9lKigOvDq"
+    },
+    {
+      "added_at": "2022-09-02 18:05:44",
+      "album": {
+        "name": "Brasil",
+        "url": "https://open.spotify.com/album/6ZMy4Xs6u1k9x5Fm7oRcrI"
+      },
+      "artists": [
+        {
+          "name": "blnkspc_",
+          "url": "https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Brasil",
+      "url": "https://open.spotify.com/track/5A6P4j1vzChOHQj7rdZndJ"
+    },
+    {
+      "added_at": "2022-09-02 18:05:44",
+      "album": {
+        "name": "Floating on Silence",
+        "url": "https://open.spotify.com/album/03lYMSk6qK5nxH3IVI1WIO"
+      },
+      "artists": [
+        {
+          "name": "Tour-Maubourg",
+          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
+        }
+      ],
+      "duration_ms": 381864,
+      "name": "Floating on Silence",
+      "url": "https://open.spotify.com/track/0x29CeLQLR31LY4OtWkcPp"
     },
     {
       "added_at": "2022-09-02 18:05:44",
@@ -627,22 +627,6 @@
     {
       "added_at": "2022-09-02 18:05:44",
       "album": {
-        "name": "Invisible Man",
-        "url": "https://open.spotify.com/album/5WlAN6SEos2wWvIDcccanh"
-      },
-      "artists": [
-        {
-          "name": "Ayzon",
-          "url": "https://open.spotify.com/artist/6ttw8B6m9uBsCjZtIm4NAN"
-        }
-      ],
-      "duration_ms": 176482,
-      "name": "YOU CAN DO IT",
-      "url": "https://open.spotify.com/track/4hQjxwio9Crkg5uN10fxuv"
-    },
-    {
-      "added_at": "2022-09-02 18:05:44",
-      "album": {
         "name": "8",
         "url": "https://open.spotify.com/album/0VjEHFit3Jh83caJw3gvw0"
       },
@@ -659,18 +643,18 @@
     {
       "added_at": "2022-09-02 18:05:44",
       "album": {
-        "name": "Pastis",
-        "url": "https://open.spotify.com/album/62AyMPxUSqDlAYCdrZ46CV"
+        "name": "Invisible Man",
+        "url": "https://open.spotify.com/album/5WlAN6SEos2wWvIDcccanh"
       },
       "artists": [
         {
-          "name": "Bluestaeb",
-          "url": "https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs"
+          "name": "Ayzon",
+          "url": "https://open.spotify.com/artist/6ttw8B6m9uBsCjZtIm4NAN"
         }
       ],
-      "duration_ms": 244363,
-      "name": "Pastis",
-      "url": "https://open.spotify.com/track/1UuLgIZIUIfgRVXhKmUAqD"
+      "duration_ms": 176482,
+      "name": "YOU CAN DO IT",
+      "url": "https://open.spotify.com/track/4hQjxwio9Crkg5uN10fxuv"
     },
     {
       "added_at": "2022-09-02 18:05:44",
@@ -687,6 +671,22 @@
       "duration_ms": 235125,
       "name": "Can't see me",
       "url": "https://open.spotify.com/track/7nyJgpYTg2DUeP0LxJ3DMC"
+    },
+    {
+      "added_at": "2022-09-02 18:05:44",
+      "album": {
+        "name": "Pastis",
+        "url": "https://open.spotify.com/album/62AyMPxUSqDlAYCdrZ46CV"
+      },
+      "artists": [
+        {
+          "name": "Bluestaeb",
+          "url": "https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs"
+        }
+      ],
+      "duration_ms": 244363,
+      "name": "Pastis",
+      "url": "https://open.spotify.com/track/1UuLgIZIUIfgRVXhKmUAqD"
     },
     {
       "added_at": "2022-09-02 18:05:44",
@@ -871,6 +871,22 @@
     {
       "added_at": "2022-09-02 18:05:44",
       "album": {
+        "name": "True Romance",
+        "url": "https://open.spotify.com/album/58tCpMNdFARg5tvBW9H2E5"
+      },
+      "artists": [
+        {
+          "name": "Bella Boo",
+          "url": "https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C"
+        }
+      ],
+      "duration_ms": 230748,
+      "name": "True Romance (Maja Edit)",
+      "url": "https://open.spotify.com/track/5TvthuUWOhQZYtXGpE66uu"
+    },
+    {
+      "added_at": "2022-09-02 18:05:44",
+      "album": {
         "name": "LTDBLBL008",
         "url": "https://open.spotify.com/album/3qPngaI3gHhdep7JeGVEsY"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 396501,
       "name": "Kindness",
       "url": "https://open.spotify.com/track/5AkRnos2tu8HKPX7ES0ohJ"
-    },
-    {
-      "added_at": "2022-09-02 18:05:44",
-      "album": {
-        "name": "True Romance",
-        "url": "https://open.spotify.com/album/58tCpMNdFARg5tvBW9H2E5"
-      },
-      "artists": [
-        {
-          "name": "Bella Boo",
-          "url": "https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C"
-        }
-      ],
-      "duration_ms": 230748,
-      "name": "True Romance (Maja Edit)",
-      "url": "https://open.spotify.com/track/5TvthuUWOhQZYtXGpE66uu"
     },
     {
       "added_at": "2022-09-02 18:05:44",

@@ -2,18 +2,19 @@
 
 ### [New Tejano](https://open.spotify.com/playlist/37i9dQZF1DX19FiqS4SYCP)
 
-> Tejano's new wave, co\-curated with <a href="https://tejanonation.net/">Tejano Nation</a>! La nueva ola de la música tejana\. Cover: Stefani Montiel
+> Tejano's new wave! La nueva ola de música tejana\. Cover: Selena
 
-51 songs - 2 hr 49 min - [published](https://open.spotify.com/playlist/1DP7NGrjVhNrBARNSXYxLf)
+52 songs - 2 hr 52 min - [published](https://open.spotify.com/playlist/1DP7NGrjVhNrBARNSXYxLf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Mi Lado](https://open.spotify.com/track/0iVFfAlTHQSTTMcLci5OTJ) | [Emanuel J](https://open.spotify.com/artist/3zFXGHNABaAKnak0jm1EDq), [Monica Saldivar](https://open.spotify.com/artist/6DsEG8AZVx2LpveCIwzkMw) | [A Mi Lado](https://open.spotify.com/album/5KPWpRmgFDHChuirQ2UlDf) | 3:50 | 2022-03-07 |  |
+| [A Mi Lado](https://open.spotify.com/track/0iVFfAlTHQSTTMcLci5OTJ) | [Emanuel J](https://open.spotify.com/artist/3zFXGHNABaAKnak0jm1EDq), [Monica Saldivar](https://open.spotify.com/artist/6DsEG8AZVx2LpveCIwzkMw) | [A Mi Lado](https://open.spotify.com/album/5KPWpRmgFDHChuirQ2UlDf) | 3:50 | 2022-03-07 | 2022-09-16 |
 | [Acuérdate \- Radio Edit](https://open.spotify.com/track/2DCtNvMoYlYY3BujKpIxuu) | [Miguel Hernandez](https://open.spotify.com/artist/7BMCqnzzxaHokaimfVVzBF) | [Acuérdate \(Radio Edit\)](https://open.spotify.com/album/6lvLn0vnccMwGKD77kkAcz) | 3:02 | 2022-03-07 |  |
 | [After Party](https://open.spotify.com/track/0fwJhJYyD9tJcroxnKd6ts) | [Sunny Sauceda Y Todo Eso](https://open.spotify.com/artist/2KXYZbOjSl5DpNSFgOqFjP) | [After Party](https://open.spotify.com/album/4OPLsWeoUhOkq1R638KQnW) | 3:51 | 2022-03-07 |  |
 | [Amor Traicionero](https://open.spotify.com/track/3NxxwK9L9Rxa8jTnRsh1OP) | [Anjelique](https://open.spotify.com/artist/5rUYI9AFsyUjwAYbQgl6Ww) | [Sweet City Style](https://open.spotify.com/album/0OATyzRpcnzyIwdcQ1W8pb) | 2:48 | 2022-03-07 |  |
 | [Así Fue](https://open.spotify.com/track/0rFblCCLFidTJBvLzJna19) | [Vilax](https://open.spotify.com/artist/2COneGRGNI8iBBjrYN0xHr) | [Así Fue](https://open.spotify.com/album/0pufIKSnkJQ9LPzaUBrBxf) | 4:43 | 2022-03-07 |  |
 | [Baby Luna](https://open.spotify.com/track/2esIHai39DyjOVdATc4IQo) | [D](https://open.spotify.com/artist/3z19maDGixbm2cj9WBaslb), [Chelo](https://open.spotify.com/artist/4vidKEkrzEnYWOuLcglMpw) | [Baby Luna](https://open.spotify.com/album/7k3fAmTcMwvDbT41SsFOPO) | 2:57 | 2022-03-07 |  |
+| [Como Te Quiero Yo A Ti \- Regional Mexican Version](https://open.spotify.com/track/4PUcIVtKlu3QXDraTWoleG) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [MOONCHILD MIXES](https://open.spotify.com/album/71Om9aLEMuwpmB0POX3amC) | 3:09 | 2022-09-15 |  |
 | [Completamente Enamorados](https://open.spotify.com/track/1BlB8hz7J2RWgfyfPb56IH) | [Texas Latino](https://open.spotify.com/artist/4kPRMVSvX8w6G8bNIOLDaa) | [Fe](https://open.spotify.com/album/0x1psk0bOqvKzFIXg0kKa4) | 2:21 | 2022-03-07 |  |
 | [Cuatro Caminos](https://open.spotify.com/track/5e6sA4oUXLg7RDAgzMrpxr) | [Los Chicanos](https://open.spotify.com/artist/4CtmyXgladHink6882NHrX), [Ram Herrera](https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE) | [Cuatro Caminos](https://open.spotify.com/album/3EBl5JgK5IIjHGYcvebEyE) | 4:00 | 2022-03-07 |  |
 | [Desastre Natural](https://open.spotify.com/track/5zk1dmLSh2CUHx6GLcFGwZ) | [Nacido](https://open.spotify.com/artist/030pUjPAmGDilkdlhevID5) | [Desastre Natural](https://open.spotify.com/album/1htmaiKnpjjbP3LubmTGDT) | 3:08 | 2022-03-07 |  |

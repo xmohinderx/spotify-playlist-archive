@@ -26,6 +26,40 @@
     },
     {
       "album": {
+        "name": "Aaraadhadhaa",
+        "url": "https://open.spotify.com/album/7LirRg7XRhrm0dA14hBjRC"
+      },
+      "artists": [
+        {
+          "name": "Manoj Krishna",
+          "url": "https://open.spotify.com/artist/6QtC2T2DmsEmFBQHkP1YkM"
+        },
+        {
+          "name": "Sreekanth Hariharan",
+          "url": "https://open.spotify.com/artist/6EI5lmCSICOvroaH1bTwEj"
+        },
+        {
+          "name": "Haripriya",
+          "url": "https://open.spotify.com/artist/1CUAEnzS0hidDnH66AUS3h"
+        },
+        {
+          "name": "Sharanya Srinivas",
+          "url": "https://open.spotify.com/artist/26tzHBE89rz5MSLeSi3qsB"
+        },
+        {
+          "name": "Sireesha Bhagavatula",
+          "url": "https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234173,
+      "name": "Aaraadhadhaa",
+      "url": "https://open.spotify.com/track/3pSLIUvpIZrhKQgYflJ3F4"
+    },
+    {
+      "album": {
         "name": "Aasai",
         "url": "https://open.spotify.com/album/3BXdqVTWAZDy9XoGdOkzko"
       },

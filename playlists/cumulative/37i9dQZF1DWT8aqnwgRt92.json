@@ -618,6 +618,24 @@
     },
     {
       "album": {
+        "name": "Esquisse",
+        "url": "https://open.spotify.com/album/4pVpioTvYdQ01Dt9u4INXw"
+      },
+      "artists": [
+        {
+          "name": "Akari Kito",
+          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308626,
+      "name": "Esquisse",
+      "url": "https://open.spotify.com/track/3ntiFciUGTZcTzheQz56h9"
+    },
+    {
+      "album": {
         "name": "Eternal Light",
         "url": "https://open.spotify.com/album/5zkPtKjefIE5nBluB7N9vm"
       },
@@ -1619,7 +1637,7 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 249560,
       "name": "Platina- from CrosSing",
       "url": "https://open.spotify.com/track/6dNi50ClKP3kPKWKB7hbHK"
@@ -1839,6 +1857,28 @@
       "duration_ms": 230363,
       "name": "Step Up",
       "url": "https://open.spotify.com/track/7y7FjuZlT5MHLRk0DtbUe8"
+    },
+    {
+      "album": {
+        "name": "STORM's EYE",
+        "url": "https://open.spotify.com/album/6umXSQIilZzl8582PGzZeZ"
+      },
+      "artists": [
+        {
+          "name": "UniteUp!",
+          "url": "https://open.spotify.com/artist/21CL9McUjHLfV1g3rJKeBo"
+        },
+        {
+          "name": "JAXX/JAXX",
+          "url": "https://open.spotify.com/artist/6HGceVVtmMQcDBRqTU1hhz"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239000,
+      "name": "STORM's EYE",
+      "url": "https://open.spotify.com/track/2nicTWiRmk43NmscFxWxpV"
     },
     {
       "album": {
@@ -2149,7 +2189,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 182160,
       "name": "Young Gun of The Sun",
       "url": "https://open.spotify.com/track/1FvOJYT3Q7JI4HvAekiEW8"

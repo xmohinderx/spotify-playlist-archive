@@ -1,12 +1,12 @@
 {
   "description": "Dreamy jams from the best bedroom producers. Cover: SALES",
-  "num_followers": 1018936,
+  "num_followers": 1019239,
   "original_name": "Bedroom Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzE5NTk5NCwwMDAwMDAwMDFkNTI5MmJiM2U4ZDdmMTIzYzZhZjNhNWNmOTYwZTcy",
+  "snapshot_id": "MTY2MzE5NTk5NCwwMDAwMDAwMGQ1ZDJiMTBiNjIwMzJiNmNmMmUwOWM1ZmI1OTM5OTA5",
   "tracks": [
     {
       "added_at": "2022-09-14 21:31:42",
@@ -147,22 +147,6 @@
     {
       "added_at": "2022-09-14 21:31:42",
       "album": {
-        "name": "Skiptracing",
-        "url": "https://open.spotify.com/album/6O9YDn12I4WQxUBQE9tpnN"
-      },
-      "artists": [
-        {
-          "name": "Mild High Club",
-          "url": "https://open.spotify.com/artist/5J81VungUjSVHxlPpTI9KG"
-        }
-      ],
-      "duration_ms": 177493,
-      "name": "Homage",
-      "url": "https://open.spotify.com/track/7DcJ6fEBb7BaKuYKTwiDxK"
-    },
-    {
-      "added_at": "2022-09-14 21:31:42",
-      "album": {
         "name": "Mulholland Drive",
         "url": "https://open.spotify.com/album/0QB8JzlX70ame6G972aEF1"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 153312,
       "name": "Something About You",
       "url": "https://open.spotify.com/track/6RiiSy9GzSwiyDEJDiMuKe"
+    },
+    {
+      "added_at": "2022-09-14 21:31:42",
+      "album": {
+        "name": "Skiptracing",
+        "url": "https://open.spotify.com/album/6O9YDn12I4WQxUBQE9tpnN"
+      },
+      "artists": [
+        {
+          "name": "Mild High Club",
+          "url": "https://open.spotify.com/artist/5J81VungUjSVHxlPpTI9KG"
+        }
+      ],
+      "duration_ms": 177493,
+      "name": "Homage",
+      "url": "https://open.spotify.com/track/7DcJ6fEBb7BaKuYKTwiDxK"
     },
     {
       "added_at": "2022-09-14 21:31:42",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2022-09-14 21:31:42",
       "album": {
+        "name": "1994",
+        "url": "https://open.spotify.com/album/2a20lEnbWdct9J2wI0J6lH"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "duration_ms": 203521,
+      "name": "1994",
+      "url": "https://open.spotify.com/track/42kWSGSJu0tXXt3e2Guvsm"
+    },
+    {
+      "added_at": "2022-09-14 21:31:42",
+      "album": {
         "name": "Stereo",
         "url": "https://open.spotify.com/album/0sSIXkYfRqXomRPrK4wYYe"
       },
@@ -1139,22 +1155,6 @@
     {
       "added_at": "2022-09-14 21:31:42",
       "album": {
-        "name": "Waltzing Back",
-        "url": "https://open.spotify.com/album/5yHn5NJqFHuRscn44o9POq"
-      },
-      "artists": [
-        {
-          "name": "No Vacation",
-          "url": "https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Waltzing Back",
-      "url": "https://open.spotify.com/track/3Q1DprZauQyNo8KGlY8brZ"
-    },
-    {
-      "added_at": "2022-09-14 21:31:42",
-      "album": {
         "name": "A Collection of Fleeting Moments and Daydreams",
         "url": "https://open.spotify.com/album/1Ckbuzoh1dYKFnpNYmVEof"
       },
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2022-09-14 21:31:42",
       "album": {
+        "name": "Waltzing Back",
+        "url": "https://open.spotify.com/album/5yHn5NJqFHuRscn44o9POq"
+      },
+      "artists": [
+        {
+          "name": "No Vacation",
+          "url": "https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Waltzing Back",
+      "url": "https://open.spotify.com/track/3Q1DprZauQyNo8KGlY8brZ"
+    },
+    {
+      "added_at": "2022-09-14 21:31:42",
+      "album": {
         "name": "80's makeout session",
         "url": "https://open.spotify.com/album/6MHmgFBPMdhNdj6HamqlYe"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 102468,
       "name": "80's makeout session",
       "url": "https://open.spotify.com/track/6RObO033GGC7mReVoRQJPU"
-    },
-    {
-      "added_at": "2022-09-14 21:31:42",
-      "album": {
-        "name": "1994",
-        "url": "https://open.spotify.com/album/2a20lEnbWdct9J2wI0J6lH"
-      },
-      "artists": [
-        {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
-        }
-      ],
-      "duration_ms": 203521,
-      "name": "1994",
-      "url": "https://open.spotify.com/track/42kWSGSJu0tXXt3e2Guvsm"
     },
     {
       "added_at": "2022-09-14 21:31:42",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2022-09-14 21:31:42",
       "album": {
-        "name": "Satellite",
-        "url": "https://open.spotify.com/album/69IZlBwPWmrbqrWfQiQ5DU"
-      },
-      "artists": [
-        {
-          "name": "Will Paquin",
-          "url": "https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6"
-        }
-      ],
-      "duration_ms": 191505,
-      "name": "Satellite",
-      "url": "https://open.spotify.com/track/0kjRlBI8YIxDQKrP7PrZr4"
-    },
-    {
-      "added_at": "2022-09-14 21:31:42",
-      "album": {
         "name": "The Shark in Your Water",
         "url": "https://open.spotify.com/album/75nZGvjStgCUavXcsYsXf7"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 179815,
       "name": "Spiracle",
       "url": "https://open.spotify.com/track/6k7HtWuprjQmulpo4OpieI"
+    },
+    {
+      "added_at": "2022-09-14 21:31:42",
+      "album": {
+        "name": "Satellite",
+        "url": "https://open.spotify.com/album/69IZlBwPWmrbqrWfQiQ5DU"
+      },
+      "artists": [
+        {
+          "name": "Will Paquin",
+          "url": "https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6"
+        }
+      ],
+      "duration_ms": 191505,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/0kjRlBI8YIxDQKrP7PrZr4"
     },
     {
       "added_at": "2022-09-14 21:31:42",

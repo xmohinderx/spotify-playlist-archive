@@ -1,12 +1,12 @@
 {
   "description": "Avant-garde, experimental and free jazz.",
-  "num_followers": 34631,
+  "num_followers": 34659,
   "original_name": "Avant-Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ4NjUyMCwwMDAwMDAwMDY3OWVjYmI1MjhmNzc0ZGFmMzE3ODZlMDUzMjcyMzZl",
+  "snapshot_id": "MTY2MTQ4NjUyMCwwMDAwMDAwMDFhZTQxYjUwNzcyNjU1Yjk2ZDhlOTg3NWE2ZmFkOGM1",
   "tracks": [
     {
       "added_at": "2020-08-25 21:55:35",
@@ -453,6 +453,22 @@
       "url": "https://open.spotify.com/track/720v6LmyIQQq3NXxkLdCvi"
     },
     {
+      "added_at": "2021-10-01 04:02:00",
+      "album": {
+        "name": "Winns Win",
+        "url": "https://open.spotify.com/album/0E9mxK9RuUzjHFkKmBnQlb"
+      },
+      "artists": [
+        {
+          "name": "Evan Parker",
+          "url": "https://open.spotify.com/artist/42WVIJPKijZYsOWhNqnAke"
+        }
+      ],
+      "duration_ms": 200570,
+      "name": "WW1",
+      "url": "https://open.spotify.com/track/4SG33WjhoWeytudIUA6vMn"
+    },
+    {
       "added_at": "2022-04-29 04:02:00",
       "album": {
         "name": "Bold Dream",
@@ -475,22 +491,6 @@
       "duration_ms": 372440,
       "name": "Bold Dream",
       "url": "https://open.spotify.com/track/0x9UCjrqI1D3pBeGDqxRk9"
-    },
-    {
-      "added_at": "2021-10-01 04:02:00",
-      "album": {
-        "name": "Winns Win",
-        "url": "https://open.spotify.com/album/0E9mxK9RuUzjHFkKmBnQlb"
-      },
-      "artists": [
-        {
-          "name": "Evan Parker",
-          "url": "https://open.spotify.com/artist/42WVIJPKijZYsOWhNqnAke"
-        }
-      ],
-      "duration_ms": 200570,
-      "name": "WW1",
-      "url": "https://open.spotify.com/track/4SG33WjhoWeytudIUA6vMn"
     },
     {
       "added_at": "2020-08-25 21:55:35",
@@ -535,6 +535,38 @@
     {
       "added_at": "2020-08-25 21:55:35",
       "album": {
+        "name": "Prometheus",
+        "url": "https://open.spotify.com/album/5hDTAZ18Nidb0ZFV0Cyjhw"
+      },
+      "artists": [
+        {
+          "name": "Dejan Terzic",
+          "url": "https://open.spotify.com/artist/3zyhW5AUV1XEJvmq4fV065"
+        },
+        {
+          "name": "Axiom",
+          "url": "https://open.spotify.com/artist/0ESOGrX3Po8l3sparIKmQS"
+        },
+        {
+          "name": "Chris Speed",
+          "url": "https://open.spotify.com/artist/2KTHYtycTGrBi1xcLaQ2AO"
+        },
+        {
+          "name": "Matt Penman",
+          "url": "https://open.spotify.com/artist/7HSQeZZSI9YNyVe2emSM9k"
+        },
+        {
+          "name": "Bojan Zulfikarpa\u0161i\u0107",
+          "url": "https://open.spotify.com/artist/1fF3p6zYr16lrzmkUGQUpD"
+        }
+      ],
+      "duration_ms": 334762,
+      "name": "Prometheus",
+      "url": "https://open.spotify.com/track/6McPJR3272275IfZti9RuC"
+    },
+    {
+      "added_at": "2020-08-25 21:55:35",
+      "album": {
         "name": "Translinear Light",
         "url": "https://open.spotify.com/album/3lJXKLvs6ZZrBDgje4cx8B"
       },
@@ -567,34 +599,18 @@
     {
       "added_at": "2020-08-25 21:55:35",
       "album": {
-        "name": "Prometheus",
-        "url": "https://open.spotify.com/album/5hDTAZ18Nidb0ZFV0Cyjhw"
+        "name": "Argonautica",
+        "url": "https://open.spotify.com/album/779K5iF5o1GS0GR0v1YUEu"
       },
       "artists": [
         {
-          "name": "Dejan Terzic",
-          "url": "https://open.spotify.com/artist/3zyhW5AUV1XEJvmq4fV065"
-        },
-        {
-          "name": "Axiom",
-          "url": "https://open.spotify.com/artist/0ESOGrX3Po8l3sparIKmQS"
-        },
-        {
-          "name": "Chris Speed",
-          "url": "https://open.spotify.com/artist/2KTHYtycTGrBi1xcLaQ2AO"
-        },
-        {
-          "name": "Matt Penman",
-          "url": "https://open.spotify.com/artist/7HSQeZZSI9YNyVe2emSM9k"
-        },
-        {
-          "name": "Bojan Zulfikarpa\u0161i\u0107",
-          "url": "https://open.spotify.com/artist/1fF3p6zYr16lrzmkUGQUpD"
+          "name": "Nate Wooley",
+          "url": "https://open.spotify.com/artist/151kdGxCPmdZZqaYsd79F5"
         }
       ],
-      "duration_ms": 334762,
-      "name": "Prometheus",
-      "url": "https://open.spotify.com/track/6McPJR3272275IfZti9RuC"
+      "duration_ms": 2573175,
+      "name": "Argonautica",
+      "url": "https://open.spotify.com/track/0GJKX05V9I7tOtGeGlUkWA"
     },
     {
       "added_at": "2020-10-23 19:03:00",
@@ -611,22 +627,6 @@
       "duration_ms": 221520,
       "name": "Canopy",
       "url": "https://open.spotify.com/track/2h9BKEX4eg6SCiwllNxc2T"
-    },
-    {
-      "added_at": "2020-08-25 21:55:35",
-      "album": {
-        "name": "Argonautica",
-        "url": "https://open.spotify.com/album/779K5iF5o1GS0GR0v1YUEu"
-      },
-      "artists": [
-        {
-          "name": "Nate Wooley",
-          "url": "https://open.spotify.com/artist/151kdGxCPmdZZqaYsd79F5"
-        }
-      ],
-      "duration_ms": 2573175,
-      "name": "Argonautica",
-      "url": "https://open.spotify.com/track/0GJKX05V9I7tOtGeGlUkWA"
     },
     {
       "added_at": "2020-08-25 21:55:35",
@@ -685,22 +685,6 @@
       "url": "https://open.spotify.com/track/4T5BNirZQn8jjEcjNPMnQ5"
     },
     {
-      "added_at": "2020-09-18 04:02:00",
-      "album": {
-        "name": "The Unidentifiable",
-        "url": "https://open.spotify.com/album/3WU3Ega5ujSwBmbglurN3H"
-      },
-      "artists": [
-        {
-          "name": "Matthew Shipp Trio",
-          "url": "https://open.spotify.com/artist/1TgqnAbUXzmLHEW0YFbROK"
-        }
-      ],
-      "duration_ms": 430053,
-      "name": "The Unidentifiable",
-      "url": "https://open.spotify.com/track/0dOzyVjUdcgQAUxcw8LJsx"
-    },
-    {
       "added_at": "2020-10-02 04:02:00",
       "album": {
         "name": "On Common Ground",
@@ -741,6 +725,22 @@
       "url": "https://open.spotify.com/track/2m1SZ7PJXRIQUjQ2LC6njG"
     },
     {
+      "added_at": "2020-09-18 04:02:00",
+      "album": {
+        "name": "The Unidentifiable",
+        "url": "https://open.spotify.com/album/3WU3Ega5ujSwBmbglurN3H"
+      },
+      "artists": [
+        {
+          "name": "Matthew Shipp Trio",
+          "url": "https://open.spotify.com/artist/1TgqnAbUXzmLHEW0YFbROK"
+        }
+      ],
+      "duration_ms": 430053,
+      "name": "The Unidentifiable",
+      "url": "https://open.spotify.com/track/0dOzyVjUdcgQAUxcw8LJsx"
+    },
+    {
       "added_at": "2022-04-15 04:02:00",
       "album": {
         "name": "Old Stories",
@@ -759,26 +759,6 @@
       "duration_ms": 374688,
       "name": "Chapter I",
       "url": "https://open.spotify.com/track/6Sz3J0ifbdSZoW8O2BIM1S"
-    },
-    {
-      "added_at": "2021-11-19 05:02:00",
-      "album": {
-        "name": "Playing Retention",
-        "url": "https://open.spotify.com/album/0uOZ13KE48h7MMervUQHyf"
-      },
-      "artists": [
-        {
-          "name": "Daniel Carter",
-          "url": "https://open.spotify.com/artist/783kRxpzUwR6w8ggk2vUE4"
-        },
-        {
-          "name": "Jim Clouse",
-          "url": "https://open.spotify.com/artist/6Uh5YINky16BQvJ5KboFNp"
-        }
-      ],
-      "duration_ms": 458760,
-      "name": "Playing Retention",
-      "url": "https://open.spotify.com/track/3fWp8KYdXpJpdXODLXSnjE"
     },
     {
       "added_at": "2020-08-25 21:55:35",
@@ -865,6 +845,26 @@
       "url": "https://open.spotify.com/track/1gSwFnKQa7E5Etks6oXlzM"
     },
     {
+      "added_at": "2021-11-19 05:02:00",
+      "album": {
+        "name": "Playing Retention",
+        "url": "https://open.spotify.com/album/0uOZ13KE48h7MMervUQHyf"
+      },
+      "artists": [
+        {
+          "name": "Daniel Carter",
+          "url": "https://open.spotify.com/artist/783kRxpzUwR6w8ggk2vUE4"
+        },
+        {
+          "name": "Jim Clouse",
+          "url": "https://open.spotify.com/artist/6Uh5YINky16BQvJ5KboFNp"
+        }
+      ],
+      "duration_ms": 458760,
+      "name": "Playing Retention",
+      "url": "https://open.spotify.com/track/3fWp8KYdXpJpdXODLXSnjE"
+    },
+    {
       "added_at": "2020-08-25 21:55:35",
       "album": {
         "name": "In Cahoots",
@@ -891,22 +891,6 @@
     {
       "added_at": "2020-08-25 21:55:35",
       "album": {
-        "name": "Albert Mangelsdorff and His Friends",
-        "url": "https://open.spotify.com/album/4RJhjS7m0WZqlXBss7dz8k"
-      },
-      "artists": [
-        {
-          "name": "Albert Mangelsdorff",
-          "url": "https://open.spotify.com/artist/6smduqXQTpYLxA6MKAJ7pw"
-        }
-      ],
-      "duration_ms": 347092,
-      "name": "Way Beyond Cave",
-      "url": "https://open.spotify.com/track/5uKsWL6LKETa5xKizE04TZ"
-    },
-    {
-      "added_at": "2020-08-25 21:55:35",
-      "album": {
         "name": "Alexander Hawkins Trio",
         "url": "https://open.spotify.com/album/0PuuU5hvA2CRAedC8xHEAq"
       },
@@ -919,22 +903,6 @@
       "duration_ms": 329760,
       "name": "One Tree Found",
       "url": "https://open.spotify.com/track/7pR9ESwH8E0Y8z79PflnZY"
-    },
-    {
-      "added_at": "2020-08-25 21:55:35",
-      "album": {
-        "name": "Rome",
-        "url": "https://open.spotify.com/album/6C3eLGlifDvM09GaJBu5tl"
-      },
-      "artists": [
-        {
-          "name": "Rob Mazurek",
-          "url": "https://open.spotify.com/artist/7uWd7df9GwjSZqo1cVF7Qs"
-        }
-      ],
-      "duration_ms": 563400,
-      "name": "Twombly at New Church",
-      "url": "https://open.spotify.com/track/5hr1OI7kdIRsplcc4i1nA5"
     },
     {
       "added_at": "2020-08-25 21:55:35",
@@ -959,26 +927,58 @@
     {
       "added_at": "2020-08-25 21:55:35",
       "album": {
-        "name": "Circle Down",
-        "url": "https://open.spotify.com/album/5iVjIYha3Tsol3fVx8LgGB"
+        "name": "Rome",
+        "url": "https://open.spotify.com/album/6C3eLGlifDvM09GaJBu5tl"
       },
       "artists": [
         {
-          "name": "Chad Taylor",
-          "url": "https://open.spotify.com/artist/0o8c17fdXpsDbQez6drlmt"
-        },
-        {
-          "name": "Angelica Sanchez",
-          "url": "https://open.spotify.com/artist/5nTk4mPlKGQn2HCrJIsEFi"
-        },
-        {
-          "name": "Chris Lightcap",
-          "url": "https://open.spotify.com/artist/41ZBQqguJTIzwRdgg82w9a"
+          "name": "Rob Mazurek",
+          "url": "https://open.spotify.com/artist/7uWd7df9GwjSZqo1cVF7Qs"
         }
       ],
-      "duration_ms": 359466,
-      "name": "Box Step",
-      "url": "https://open.spotify.com/track/1qteisqG6gO3CsYRD0gWcC"
+      "duration_ms": 563400,
+      "name": "Twombly at New Church",
+      "url": "https://open.spotify.com/track/5hr1OI7kdIRsplcc4i1nA5"
+    },
+    {
+      "added_at": "2020-08-25 21:55:35",
+      "album": {
+        "name": "Albert Mangelsdorff and His Friends",
+        "url": "https://open.spotify.com/album/4RJhjS7m0WZqlXBss7dz8k"
+      },
+      "artists": [
+        {
+          "name": "Albert Mangelsdorff",
+          "url": "https://open.spotify.com/artist/6smduqXQTpYLxA6MKAJ7pw"
+        }
+      ],
+      "duration_ms": 347092,
+      "name": "Way Beyond Cave",
+      "url": "https://open.spotify.com/track/5uKsWL6LKETa5xKizE04TZ"
+    },
+    {
+      "added_at": "2021-02-27 05:01:00",
+      "album": {
+        "name": "Live at the 55 Bar",
+        "url": "https://open.spotify.com/album/1ee4YOkRpLaauwDd7Ai8VH"
+      },
+      "artists": [
+        {
+          "name": "Ben Monder",
+          "url": "https://open.spotify.com/artist/2CH9bD5RtnDcm9O23JByN7"
+        },
+        {
+          "name": "Tony Malaby",
+          "url": "https://open.spotify.com/artist/6woeo15v4gYqiegGAknRm0"
+        },
+        {
+          "name": "Tom Rainey",
+          "url": "https://open.spotify.com/artist/3GLpFMa3feEODjzWx0XSIO"
+        }
+      ],
+      "duration_ms": 1013476,
+      "name": "Suite 3320, Pt. I - Live",
+      "url": "https://open.spotify.com/track/3yt7rjEyVLYWGZ2307OSNI"
     }
   ],
   "unique_name": "Avant-Jazz",

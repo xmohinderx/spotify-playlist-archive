@@ -4,7 +4,7 @@
 
 > Keep it low\-key with all of today's chill pop\. Cover: Keshi & Max
 
-1,047 songs - 2 day 7 hr 33 min - [published](https://open.spotify.com/playlist/6isU2kXFblpGeacMELfavp)
+1,048 songs - 2 day 7 hr 36 min - [published](https://open.spotify.com/playlist/6isU2kXFblpGeacMELfavp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,7 +275,7 @@
 | [Even Butterflies Die](https://open.spotify.com/track/4a92Tg3NY2NhzCLvgwH7u0) | [Grant Landis](https://open.spotify.com/artist/1RA6CaHSf3WKFOInOlro8q) | [Even Butterflies Die](https://open.spotify.com/album/0yHys0ctNyYPDD6FUlagqP) | 3:23 | 2020-08-30 | 2020-10-09 |
 | [Even When/The Best Part \- From "High School Musical: The Musical: The Series \(Season 2\)"](https://open.spotify.com/track/30UszgTxEuJVG5SUFyBffT) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG), [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [Even When/The Best Part \[From "High School Musical: The Musical: The Series \(Season 2\)"\]](https://open.spotify.com/album/2YLKW3LB4P1cEersm5YpAL) | 1:46 | 2021-04-30 | 2021-06-26 |
 | [evergone](https://open.spotify.com/track/5TbZEYpwXya5oNqGJbiIQx) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [evergone](https://open.spotify.com/album/7acKjQss2YDHbg5Wx0gxdL) | 3:29 | 2022-03-25 | 2022-05-28 |
-| [Evergreen](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 | 2022-09-14 |  |
+| [Evergreen \(You Didn’t Deserve Me At All\)](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 | 2022-09-14 |  |
 | [Every Beginning Ends](https://open.spotify.com/track/7lagLMBTqqOkta5eqRfNXc) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Benjamin Gibbard](https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL) | [Every Beginning Ends](https://open.spotify.com/album/7pHo5Tov9GyzVnBLxPuHYB) | 2:30 | 2022-08-26 |  |
 | [Every Second](https://open.spotify.com/track/0GxUJLTF4RanPVwY1YpcZ3) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Better Days](https://open.spotify.com/album/5SrnJoj6SyYblCwkraKsha) | 3:02 | 2021-12-11 |  |
 | [Every Time You Go Away](https://open.spotify.com/track/5OtvDpNhxUde1hkAjvzSzE) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot), [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Spotify Singles](https://open.spotify.com/album/0dlIoNzi1FAca3VcyPFj5S) | 4:25 | 2020-08-21 | 2020-10-16 |
@@ -634,7 +634,8 @@
 | [Morning](https://open.spotify.com/track/1xPYXQ677AtLALqqQM8jVR) | [Tennis Club](https://open.spotify.com/artist/6kVv3d4WEjR4gjHzAbOvNo) | [Morning](https://open.spotify.com/album/73eZyoV82Ht3Z884QL1q6J) | 4:01 | 2020-09-11 | 2021-01-15 |
 | [mothers](https://open.spotify.com/track/4AXlebMtXdaleomf845EEh) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [mothers](https://open.spotify.com/album/6LZZFBF5mopquCMJZZ5mnb) | 2:54 | 2022-05-06 | 2022-07-02 |
 | [Move It to the Side](https://open.spotify.com/track/38OP7Qad0x4tEZzYVBuidm) | [John\-Robert](https://open.spotify.com/artist/5zlnl1lFTTaETmaKci4V6j) | [Healthy Baby Boy, Pt\. 1](https://open.spotify.com/album/175q5mZC31DOs41hmLQGNB) | 2:33 | 2021-04-03 | 2021-06-16 |
-| [Mr\. Percocet](https://open.spotify.com/track/2HmNAp3GcJ7DCKtnmV7N84) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Mr\. Percocet](https://open.spotify.com/album/3qpuOpm7O2Z9yiad1w7dlS) | 3:13 | 2022-05-13 |  |
+| [Mr\. Percocet](https://open.spotify.com/track/2HmNAp3GcJ7DCKtnmV7N84) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Mr\. Percocet](https://open.spotify.com/album/3qpuOpm7O2Z9yiad1w7dlS) | 3:13 | 2022-05-13 | 2022-09-16 |
+| [Mr\. Percocet](https://open.spotify.com/track/5zcv9Sck4CCc3c7BOExjK9) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Every Beginning Ends](https://open.spotify.com/album/7pHo5Tov9GyzVnBLxPuHYB) | 3:13 | 2022-09-14 |  |
 | [Must Have Been The Wind](https://open.spotify.com/track/1PsMieVYFXrSeXMxuE2SbG) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Must Have Been The Wind](https://open.spotify.com/album/0A5GgdYeE7UJDnBeXuZWma) | 2:59 | 2020-04-26\* | 2020-07-24 |
 | [my only mistake](https://open.spotify.com/track/4CgUc04LVffgB3UxU5pZhD) | [ELLIANA](https://open.spotify.com/artist/5t0KCCFs6BIelOxE4XGDRT) | [my only mistake](https://open.spotify.com/album/7LajH8FQw6TrTUFghxO6eh) | 3:12 | 2021-03-26 | 2021-06-12 |
 | [My Person](https://open.spotify.com/track/0a3oURCG3s5cpAPNcdDm6e) | [Tayler Buono](https://open.spotify.com/artist/5doPfvddXXjtQIJu9rQEz5) | [My Person](https://open.spotify.com/album/0hCFjworN4bxpXRH2GBQR5) | 3:06 | 2021-03-26 | 2021-06-05 |

@@ -1,12 +1,12 @@
 {
   "description": "Hip Hop nacional e gringo para acompanhar gamers e gaming.",
-  "num_followers": 118521,
+  "num_followers": 118516,
   "original_name": "Gamer Gang",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwMzIyNTQxOSwwMDAwMDAwMDNkZDRmN2Q3NzM4OWZhNzM2NGVjM2I1ODg1YmQ1Zjg4",
+  "snapshot_id": "MTYwMzIyNTQxOSwwMDAwMDAwMGJkMmUyMjE2NDljMWZkMjE4YTNkMjk4MTQyOTlmYzVm",
   "tracks": [
     {
       "added_at": "2020-10-20 20:23:39",
@@ -1443,26 +1443,6 @@
     {
       "added_at": "2020-10-20 20:23:39",
       "album": {
-        "name": "Say So (feat. Nicki Minaj)",
-        "url": "https://open.spotify.com/album/2cpCmPs5Efp7w7Cv0LKcuG"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 206220,
-      "name": "Say So (feat. Nicki Minaj)",
-      "url": "https://open.spotify.com/track/11VApNQCWLJdzxWrlmwzUa"
-    },
-    {
-      "added_at": "2020-10-20 20:23:39",
-      "album": {
         "name": "Para todas as mulheres que j\u00e1 rimei",
         "url": "https://open.spotify.com/album/3UQLzEpN117dUBLbe2W2gD"
       },
@@ -1487,6 +1467,26 @@
       "duration_ms": 259672,
       "name": "Quase uma Semana",
       "url": "https://open.spotify.com/track/3dA7eXIIuCTY1w9xmskLNN"
+    },
+    {
+      "added_at": "2020-10-20 20:23:39",
+      "album": {
+        "name": "Say So (feat. Nicki Minaj)",
+        "url": "https://open.spotify.com/album/2cpCmPs5Efp7w7Cv0LKcuG"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 206220,
+      "name": "Say So (feat. Nicki Minaj)",
+      "url": "https://open.spotify.com/track/11VApNQCWLJdzxWrlmwzUa"
     },
     {
       "added_at": "2020-10-20 20:23:39",
@@ -1655,26 +1655,6 @@
     {
       "added_at": "2020-10-20 20:23:39",
       "album": {
-        "name": "Rodeo (feat. Nas)",
-        "url": "https://open.spotify.com/album/6IaddEQVZdgQjmkrJkU7CE"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        },
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        }
-      ],
-      "duration_ms": 145222,
-      "name": "Rodeo - feat. Nas",
-      "url": "https://open.spotify.com/track/7ikRId3U9AXd6tfF2fbItC"
-    },
-    {
-      "added_at": "2020-10-20 20:23:39",
-      "album": {
         "name": "The Big Day",
         "url": "https://open.spotify.com/album/7bgi7zCoDsZdlLKPonHZqP"
       },
@@ -1695,6 +1675,26 @@
       "duration_ms": 225923,
       "name": "Hot Shower",
       "url": "https://open.spotify.com/track/00ko9WaS4jOX1kEk3gvHjf"
+    },
+    {
+      "added_at": "2020-10-20 20:23:39",
+      "album": {
+        "name": "Rodeo (feat. Nas)",
+        "url": "https://open.spotify.com/album/6IaddEQVZdgQjmkrJkU7CE"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        },
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "duration_ms": 145222,
+      "name": "Rodeo - feat. Nas",
+      "url": "https://open.spotify.com/track/7ikRId3U9AXd6tfF2fbItC"
     },
     {
       "added_at": "2020-10-20 20:23:39",

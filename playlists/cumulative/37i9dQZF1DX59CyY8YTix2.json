@@ -849,7 +849,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 227000,
       "name": "Dramatic",
       "url": "https://open.spotify.com/track/3pT5vtG177l2jrxpPy76jB"
@@ -2428,6 +2428,24 @@
     },
     {
       "album": {
+        "name": "moonwalk",
+        "url": "https://open.spotify.com/album/6DlwqOiVIyz9gHHpIx06Aw"
+      },
+      "artists": [
+        {
+          "name": "Conton Candy",
+          "url": "https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275487,
+      "name": "moonwalk",
+      "url": "https://open.spotify.com/track/6Hr0XwB5CMbSWcwJNxw4M8"
+    },
+    {
+      "album": {
         "name": "morninglow",
         "url": "https://open.spotify.com/album/50geS4DtoWu5fhI8lpkHar"
       },
@@ -2461,7 +2479,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 221177,
       "name": "music",
       "url": "https://open.spotify.com/track/1my6WsRdwWkB8rNRL9U0wi"
@@ -2569,7 +2587,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-15",
+      "date_removed": null,
       "duration_ms": 168680,
       "name": "odoru yo-ni",
       "url": "https://open.spotify.com/track/5i8DJaF9DX2zkxJaT1Rqva"
@@ -3866,6 +3884,28 @@
     },
     {
       "album": {
+        "name": "UCHU ICHI NO ME",
+        "url": "https://open.spotify.com/album/3H6rWFHdMdNaeFt9JRLDru"
+      },
+      "artists": [
+        {
+          "name": "THE DOKUROS",
+          "url": "https://open.spotify.com/artist/1e9JQv27KSnk5NpBR9CryM"
+        },
+        {
+          "name": "TANAKA OF THE HAMADA",
+          "url": "https://open.spotify.com/artist/7dbDyleqCJgP2JqHOhPGYi"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "UCHU ICHI NO ME",
+      "url": "https://open.spotify.com/track/6Sf69vMZDSyRZZRfbc9Ams"
+    },
+    {
+      "album": {
         "name": "undress me",
         "url": "https://open.spotify.com/album/2DC9LOdCkd4t84349r4R0w"
       },
@@ -4631,7 +4671,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 215453,
       "name": "\u304f\u3060\u3089\u306a\u3044",
       "url": "https://open.spotify.com/track/2FxcF1q8xgGUEJkKC0lla1"

@@ -1,12 +1,12 @@
 {
   "description": "Traditional West African blues and North African desert blues. Cover: Songhoy Blues",
-  "num_followers": 4290,
+  "num_followers": 4303,
   "original_name": "African Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNjc5ODg2MCwwMDAwMDAwMGFkNzM2MGZkNjI3NDk2NDliNDdmMTY1YTI3NDVhOTc2",
+  "snapshot_id": "MTYwNjc5ODg2MCwwMDAwMDAwMDdmYzA2YmY5OGYzMDEwMmQyZDQ2N2RhMDIwMDk2M2Ri",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Fenfo (Something To Say)",
-        "url": "https://open.spotify.com/album/6u7suNUEjTMywnCbZo3ntn"
-      },
-      "artists": [
-        {
-          "name": "Fatoumata Diawara",
-          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
-        }
-      ],
-      "duration_ms": 268466,
-      "name": "Fenfo",
-      "url": "https://open.spotify.com/track/3OpagvD17dZQLN53GIj2D3"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "The Sahara Sessions",
         "url": "https://open.spotify.com/album/4pmsnCSw9i2y3MP24QZaid"
       },
@@ -779,18 +763,34 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Mississippi To Mali",
-        "url": "https://open.spotify.com/album/6IzcR4AS2tHjyFq0gBcU6T"
+        "name": "Fenfo (Something To Say)",
+        "url": "https://open.spotify.com/album/6u7suNUEjTMywnCbZo3ntn"
       },
       "artists": [
         {
-          "name": "Corey Harris",
-          "url": "https://open.spotify.com/artist/1TQtbRQbaXw5CeN3mC0DJH"
+          "name": "Fatoumata Diawara",
+          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
         }
       ],
-      "duration_ms": 400800,
-      "name": "Tamalah",
-      "url": "https://open.spotify.com/track/1x3Y5XIrFf01LIqus4kQKI"
+      "duration_ms": 268466,
+      "name": "Fenfo",
+      "url": "https://open.spotify.com/track/3OpagvD17dZQLN53GIj2D3"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Tje Ni Mousso",
+        "url": "https://open.spotify.com/album/2gyQndyOXeISkSfhyb1FSG"
+      },
+      "artists": [
+        {
+          "name": "Amadou & Mariam",
+          "url": "https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6"
+        }
+      ],
+      "duration_ms": 280320,
+      "name": "C'Est Comme Ca",
+      "url": "https://open.spotify.com/track/4JrnK6UWX8o6Gu390ezCOX"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -811,18 +811,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Tje Ni Mousso",
-        "url": "https://open.spotify.com/album/2gyQndyOXeISkSfhyb1FSG"
+        "name": "Mississippi To Mali",
+        "url": "https://open.spotify.com/album/6IzcR4AS2tHjyFq0gBcU6T"
       },
       "artists": [
         {
-          "name": "Amadou & Mariam",
-          "url": "https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6"
+          "name": "Corey Harris",
+          "url": "https://open.spotify.com/artist/1TQtbRQbaXw5CeN3mC0DJH"
         }
       ],
-      "duration_ms": 280320,
-      "name": "C'Est Comme Ca",
-      "url": "https://open.spotify.com/track/4JrnK6UWX8o6Gu390ezCOX"
+      "duration_ms": 400800,
+      "name": "Tamalah",
+      "url": "https://open.spotify.com/track/1x3Y5XIrFf01LIqus4kQKI"
     },
     {
       "added_at": "2020-12-01 05:01:00",

@@ -4,7 +4,7 @@
 
 > next gen pop cover: Dove Cameron
 
-1,098 songs - 2 day 5 hr 20 min - [published](https://open.spotify.com/playlist/1MUGAYRMba2bUffdFFswRE)
+1,099 songs - 2 day 5 hr 23 min - [published](https://open.spotify.com/playlist/1MUGAYRMba2bUffdFFswRE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -666,7 +666,8 @@
 | [Motion](https://open.spotify.com/track/7lOlKhTXmv4sMxyhjsWwn8) | [Luke Hemmings](https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ) | [Motion](https://open.spotify.com/album/1sC4LCKQUnTCz0fyBLBQ9L) | 3:29 | 2021-07-24 | 2021-07-31 |
 | [Mr Loverman \(feat\. chloe moriondo\)](https://open.spotify.com/track/60GNcfTVPbKYpdgyYDqUPq) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw), [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Mr Loverman \(feat\. chloe moriondo\)](https://open.spotify.com/album/7ugpe4Tp9D5kU1UbHwmu7p) | 3:35 | 2021-03-06 | 2021-05-15 |
 | [Mr\. Forgettable](https://open.spotify.com/track/39ZVkOVxjG8ypNdUSVNkxU) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Mr\. Forgettable](https://open.spotify.com/album/5BuLxv7glwXEzwPUddgXAa) | 3:07 | 2022-03-04 | 2022-06-25 |
-| [Mr\. Percocet](https://open.spotify.com/track/2HmNAp3GcJ7DCKtnmV7N84) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Mr\. Percocet](https://open.spotify.com/album/3qpuOpm7O2Z9yiad1w7dlS) | 3:13 | 2022-05-13 |  |
+| [Mr\. Percocet](https://open.spotify.com/track/2HmNAp3GcJ7DCKtnmV7N84) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Mr\. Percocet](https://open.spotify.com/album/3qpuOpm7O2Z9yiad1w7dlS) | 3:13 | 2022-05-13 | 2022-09-16 |
+| [Mr\. Percocet](https://open.spotify.com/track/5zcv9Sck4CCc3c7BOExjK9) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Every Beginning Ends](https://open.spotify.com/album/7pHo5Tov9GyzVnBLxPuHYB) | 3:13 | 2022-07-29 |  |
 | [mr\. sunshine](https://open.spotify.com/track/6x984mI891z1E2sVwYumUx) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 8](https://open.spotify.com/album/5cYaUdDHrHhOIsTlHU9Tbk) | 2:57 | 2022-09-02 |  |
 | [Murder Party](https://open.spotify.com/track/0BJHFunrXh8e7NFQzi8crG) | [NOT THE MAIN CHARACTERS](https://open.spotify.com/artist/3zXPbW06DXFBAToUstfD1V) | [Murder Party](https://open.spotify.com/album/2Rg9k0Bky03vcVNPQQwiGS) | 2:17 | 2021-02-16\* | 2021-05-19 |
 | [My Head & My Heart](https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:54 | 2021-02-16\* | 2021-02-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Los lanzamientos latinos más destacados de toda la región\. En portada: María Becerra
 
-[Spotify](https://open.spotify.com/user/spotify) - 903,938 likes - 72 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 904,007 likes - 72 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 57 | [Phantom Pain II](https://open.spotify.com/track/2HLymJLrqUZjh9eiS3grD3) | [Rey Pila](https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW) | [Phantom Pain](https://open.spotify.com/album/2kM4gSqUX2rwG8QB8uzlD3) | 4:30 |
 | 58 | [Amygdalae](https://open.spotify.com/track/782hLYcQPirQdGeNTqgGWz) | [Rey Pila](https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW) | [Amygdalae / IQ Test](https://open.spotify.com/album/5rW9TbX81i9Ba7Vfb1O4nf) | 2:20 |
 | 59 | [Bucket Hat Remix](https://open.spotify.com/track/0FMxWnQmpkrqkRajdRovVc) | [Khristo](https://open.spotify.com/artist/2oS5omVcA1G6YbOPMn6CTn), [Angelo Reeves](https://open.spotify.com/artist/69PtiuIXUHBwxTaRDLsli7), [suei](https://open.spotify.com/artist/6jEjSPxnwsibG6vPOjkeER) | [Bucket Hat Remix](https://open.spotify.com/album/2CZzEk6mU1kE73qAAB1tKC) | 3:37 |
-| 60 | [Makinon](https://open.spotify.com/track/6S5fC1oR4Kg5m7B5JAgjsR) | [El Clooy](https://open.spotify.com/artist/2iBSDwlk9bvp1aKT4ubGoC), [Cocaine Beatz](https://open.spotify.com/artist/48JWvL8oBhNC8xEhOUU4xY) | [Makinon](https://open.spotify.com/album/2qY7FX6s6WyRk0itXmMUmU) | 2:46 |
+| 60 | [Makinon](https://open.spotify.com/track/6S5fC1oR4Kg5m7B5JAgjsR) | [El Clooy](https://open.spotify.com/artist/2iBSDwlk9bvp1aKT4ubGoC), [Cocaine Beatz](https://open.spotify.com/artist/3gWc5nbi4s5wcTFxInX601) | [Makinon](https://open.spotify.com/album/2qY7FX6s6WyRk0itXmMUmU) | 2:46 |
 | 61 | [El Regalo Más Bonito](https://open.spotify.com/track/7gMaQvTSfutFSWkmhIgwOb) | [Cielo Torres](https://open.spotify.com/artist/7AqX9JGo4WdLp5gPNSRoDJ) | [El Regalo Más Bonito](https://open.spotify.com/album/4gW7DEcLPYdfGHmDYiyGWm) | 3:22 |
 | 62 | [Cruel](https://open.spotify.com/track/4m2A5OHjj4RDMrX5ZRw2MZ) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Cruel](https://open.spotify.com/album/6QySmEGrl5YPwnaXhHc8kx) | 3:00 |
 | 63 | [VOLVIÓ A LATIR](https://open.spotify.com/track/3zvrOvREVagZmg9bb1wYFp) | [Milena Warthon](https://open.spotify.com/artist/65vjAwgtLCwB1nQE7V5eMd), [Chila Jatun](https://open.spotify.com/artist/1pbcskpK1qePXm3sYvYu4o) | [VOLVIÓ A LATIR](https://open.spotify.com/album/0AtMFNvWJk3z2FKnunBUz9) | 3:49 |

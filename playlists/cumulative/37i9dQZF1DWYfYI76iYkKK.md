@@ -4,7 +4,7 @@
 
 > 到了週末，你應該試著把柔軟的感覺找回來，小憩一下、小走一段、小酌一杯或小哭一場。
 
-151 songs - 10 hr 19 min - [published](https://open.spotify.com/playlist/2DqSMKzffF98bSmFUOLumu)
+152 songs - 10 hr 23 min - [published](https://open.spotify.com/playlist/2DqSMKzffF98bSmFUOLumu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [It's Time \- 影集《2049》插曲](https://open.spotify.com/track/7JNR8qb7kaTnutgjnZntOY) | [Shawn 尚融](https://open.spotify.com/artist/2clYc3flufmjrUm1ZUNuJA) | [It's Time \(影集《2049》插曲\)](https://open.spotify.com/album/64n8dIEZz7Wy94nkT3rxIe) | 3:19 | 2022-06-10 | 2022-07-27 |
 | [Long Long Way](https://open.spotify.com/track/4HybKmCMLUaejSe7gXVtet) | [Pets Tseng](https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w) | [今天陽光就是特別耀眼特別和諧](https://open.spotify.com/album/2QREzTJk3ddhLIxoiLRveT) | 4:34 | 2022-08-11 | 2022-08-19 |
 | [Maybe It’s for the Best](https://open.spotify.com/track/0xUULqd08ANKwp1u7Fh6Oz) | [Yoyo Sham](https://open.spotify.com/artist/2OrCYFzQYE1TmevdYARnU1) | [Nothing is Under Control](https://open.spotify.com/album/6t6g0WbY1pim62oRUmxF2D) | 3:40 | 2022-06-10 | 2022-07-11 |
-| [Maybe Someday](https://open.spotify.com/track/5owdgqZ1tg8zj8MRLDSRer) | [林鴻宇](https://open.spotify.com/artist/3cNu9TadMUtDkoVd5db2qB) | [Maybe Someday](https://open.spotify.com/album/1HKgU4noBniz460SpFo8dR) | 3:32 | 2022-09-08 |  |
+| [Maybe Someday](https://open.spotify.com/track/5owdgqZ1tg8zj8MRLDSRer) | [林鴻宇](https://open.spotify.com/artist/3cNu9TadMUtDkoVd5db2qB) | [Maybe Someday](https://open.spotify.com/album/1HKgU4noBniz460SpFo8dR) | 3:32 | 2022-09-08 | 2022-09-16 |
 | [Midnight Sun \- Acoustic](https://open.spotify.com/track/59g2Rii8PghTk5gwUgYwrP) | [Brian Yoong](https://open.spotify.com/artist/4lH5eW1YgDycEJoI3LHt8R), [Joel](https://open.spotify.com/artist/15VtB8EsjO97HFzbDsW129) | [Midnight Sun \(Acoustic\)](https://open.spotify.com/album/2oZbwitCD52R9ffOJN5xOe) | 4:01 | 2022-06-27 | 2022-07-01 |
 | [Remember \- 電影《跟你老婆去旅行》插曲](https://open.spotify.com/track/4xB7mLuL2HxpU6r8W7ipK6) | [守夜人](https://open.spotify.com/artist/7Ec6c9lhFbsTfuwmIkhZa9) | [Remember \(電影《跟你老婆去旅行》插曲\)](https://open.spotify.com/album/7e8UzB4BkYm6cgp1rPlKRW) | 3:13 | 2022-06-02 |  |
 | [Room Lights](https://open.spotify.com/track/3ijhojRPDW6JMuUrsWy7Jf) | [Uriah See](https://open.spotify.com/artist/5G22Efave7oHLo9NG4uofT) | [Room Lights](https://open.spotify.com/album/6iCeV2G9w63xGB0k365xGg) | 3:32 | 2022-06-16 | 2022-06-23 |
@@ -83,6 +83,7 @@
 | [想把空白的日子留给你](https://open.spotify.com/track/4Mw26chMpfO6JvbFgFpKUF) | [林鴻宇](https://open.spotify.com/artist/3cNu9TadMUtDkoVd5db2qB) | [想把空白的日子留给你](https://open.spotify.com/album/0yMMA9HWHFVFGkkOs8nxSI) | 4:19 | 2022-06-02 | 2022-07-29 |
 | [愛你\-十周年版](https://open.spotify.com/track/4l6MkYf4FSw9kFQqSUktx5) | [Kimberley Chen](https://open.spotify.com/artist/1dVbVQZjRGDjQmHD8oiS8k) | [愛你\-十周年版](https://open.spotify.com/album/6ZEYMuyw0GYjJg6GgjS31O) | 3:29 | 2022-07-21 | 2022-07-27 |
 | [愛在黎明破曉時](https://open.spotify.com/track/5t43GhQjOmgb7w87aB2PAY) | [郭蘅祈](https://open.spotify.com/artist/4MgyXYuewRjb1b6ennlLMo) | [愛在黎明破曉時](https://open.spotify.com/album/6AOX0LUghg1RAjgdwaNzxl) | 4:30 | 2022-06-30 | 2022-07-09 |
+| [愛是](https://open.spotify.com/track/6zj8RUbkn76M5wFiVzOfrZ) | [ShuShu](https://open.spotify.com/artist/5y7qzbjzMxzx02NonVOUkB) | [愛是](https://open.spotify.com/album/6RRhzPs3LypG2UscfMvh3n) | 4:37 | 2022-09-15 |  |
 | [愛是](https://open.spotify.com/track/0jGx2NNvDFIRevbPHJtnsT) | [羅莎莎](https://open.spotify.com/artist/1GJczlq7jHvBRPikGrd7hF) | [愛是](https://open.spotify.com/album/3y2dPRpW7goQj1CrYyAX5n) | 3:28 | 2022-06-02 | 2022-07-28 |
 | [愛過的人](https://open.spotify.com/track/7EIYJLVmsUmmbq40SugYsk) | [Kevin Wu](https://open.spotify.com/artist/4ndcN72ebPeky0dedtouTy) | [愛過的人](https://open.spotify.com/album/2HlKUwFGOLebR71L1CIcg3) | 5:25 | 2022-06-02 | 2022-09-15 |
 | [慷慨](https://open.spotify.com/track/5JowA7cy6M1j3Wv6hhmKsC) | [Pets Tseng](https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w) | [慷慨](https://open.spotify.com/album/2FGVVZHWr2Fs3iaUz2wIYg) | 4:34 | 2022-07-28 |  |

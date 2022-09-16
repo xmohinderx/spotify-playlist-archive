@@ -1,12 +1,12 @@
 {
   "description": "Rap de alta gama. Foto: Juice WRLD",
-  "num_followers": 41463,
+  "num_followers": 41533,
   "original_name": "808.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDg4NDQzMCwwMDAwMDAwMDQzZWViNjRiYjU1MTRkNGViZTlkZjNiMjU2Yzc4MGJh",
+  "snapshot_id": "MTY0NDg4NDQzMCwwMDAwMDAwMGE2ODdmNDg5MWExMDRiOWY2YjY3YWExYjA5NzdmOWU3",
   "tracks": [
     {
       "added_at": "2021-11-12 16:22:17",
@@ -567,6 +567,22 @@
     {
       "added_at": "2021-11-12 16:22:17",
       "album": {
+        "name": "Killshot",
+        "url": "https://open.spotify.com/album/0RejlT9bmqcXGrqMaJRos0"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 253579,
+      "name": "Killshot",
+      "url": "https://open.spotify.com/track/1jo3TwNGCXfNdB5uba3ZVv"
+    },
+    {
+      "added_at": "2021-11-12 16:22:17",
+      "album": {
         "name": "F*CK LOVE (SAVAGE)",
         "url": "https://open.spotify.com/album/3YjfdLdpQcVI72uKhooZst"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 257428,
       "name": "Hats Off (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/4lUmnwRybYH7mMzf16xB0y"
-    },
-    {
-      "added_at": "2021-11-12 16:22:17",
-      "album": {
-        "name": "Killshot",
-        "url": "https://open.spotify.com/album/0RejlT9bmqcXGrqMaJRos0"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 253579,
-      "name": "Killshot",
-      "url": "https://open.spotify.com/track/1jo3TwNGCXfNdB5uba3ZVv"
     },
     {
       "added_at": "2021-11-12 16:22:17",
@@ -735,22 +735,6 @@
     {
       "added_at": "2021-11-12 16:22:17",
       "album": {
-        "name": "The Bigger Picture",
-        "url": "https://open.spotify.com/album/6ZTl8hHvYNuEg4Mk8yxz75"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 252728,
-      "name": "The Bigger Picture",
-      "url": "https://open.spotify.com/track/44gRhRi2OhEf7moAUj6MD1"
-    },
-    {
-      "added_at": "2021-11-12 16:22:17",
-      "album": {
         "name": "Eternal Atake",
         "url": "https://open.spotify.com/album/7IyoGB8J31fvQDwGtHAq9m"
       },
@@ -799,6 +783,22 @@
     {
       "added_at": "2021-11-12 16:22:17",
       "album": {
+        "name": "The Bigger Picture",
+        "url": "https://open.spotify.com/album/6ZTl8hHvYNuEg4Mk8yxz75"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 252728,
+      "name": "The Bigger Picture",
+      "url": "https://open.spotify.com/track/44gRhRi2OhEf7moAUj6MD1"
+    },
+    {
+      "added_at": "2021-11-12 16:22:17",
+      "album": {
         "name": "Opp Stoppa (feat. 21 Savage)",
         "url": "https://open.spotify.com/album/6mBVdi3OYfVGmMiT4jXkYz"
       },
@@ -831,26 +831,6 @@
       "duration_ms": 224656,
       "name": "Gnat",
       "url": "https://open.spotify.com/track/6cS9PmLky2NhLOhpIsUlow"
-    },
-    {
-      "added_at": "2021-11-12 16:22:17",
-      "album": {
-        "name": "My Turn",
-        "url": "https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 177314,
-      "name": "Heatin Up (feat. Gunna)",
-      "url": "https://open.spotify.com/track/7KSSdFCBHCfq4KPzz78ghk"
     },
     {
       "added_at": "2021-11-12 16:22:17",
@@ -923,6 +903,26 @@
       "duration_ms": 216857,
       "name": "Brindemos",
       "url": "https://open.spotify.com/track/5P8TXlZCMwru6DaMsIbbO3"
+    },
+    {
+      "added_at": "2021-11-12 16:22:17",
+      "album": {
+        "name": "My Turn",
+        "url": "https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 177314,
+      "name": "Heatin Up (feat. Gunna)",
+      "url": "https://open.spotify.com/track/7KSSdFCBHCfq4KPzz78ghk"
     },
     {
       "added_at": "2021-11-12 16:22:17",
@@ -1015,26 +1015,6 @@
     {
       "added_at": "2021-11-12 16:22:17",
       "album": {
-        "name": "Only You Freestyle",
-        "url": "https://open.spotify.com/album/5L6DR2YmRLRZ4CmR91l3Z4"
-      },
-      "artists": [
-        {
-          "name": "Headie One",
-          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 248936,
-      "name": "Only You Freestyle",
-      "url": "https://open.spotify.com/track/4OENnoidV0h8gJV6bhrw7r"
-    },
-    {
-      "added_at": "2021-11-12 16:22:17",
-      "album": {
         "name": "Real As It Gets (feat. EST Gee)",
         "url": "https://open.spotify.com/album/0SO86DCFiwaTqchBpujace"
       },
@@ -1051,6 +1031,26 @@
       "duration_ms": 192804,
       "name": "Real As It Gets (feat. EST Gee)",
       "url": "https://open.spotify.com/track/7eX3um6NpOQKWJMGCi97XD"
+    },
+    {
+      "added_at": "2021-11-12 16:22:17",
+      "album": {
+        "name": "Only You Freestyle",
+        "url": "https://open.spotify.com/album/5L6DR2YmRLRZ4CmR91l3Z4"
+      },
+      "artists": [
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 248936,
+      "name": "Only You Freestyle",
+      "url": "https://open.spotify.com/track/4OENnoidV0h8gJV6bhrw7r"
     },
     {
       "added_at": "2021-11-12 16:22:17",
@@ -1115,6 +1115,22 @@
       "duration_ms": 196180,
       "name": "Guns Blazing (feat. Dr. Dre & Sly Pyper)",
       "url": "https://open.spotify.com/track/3WpHqtFUwzIQBsV9YC5iNc"
+    },
+    {
+      "added_at": "2021-11-12 16:22:17",
+      "album": {
+        "name": "Errbody",
+        "url": "https://open.spotify.com/album/1AhcXFOhxnWriMEslx0LC2"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 210698,
+      "name": "Errbody",
+      "url": "https://open.spotify.com/track/6eVxH9Kyanzrw636zJRPcw"
     },
     {
       "added_at": "2021-11-12 16:22:17",
@@ -1239,22 +1255,6 @@
     {
       "added_at": "2021-11-12 16:22:17",
       "album": {
-        "name": "Errbody",
-        "url": "https://open.spotify.com/album/1AhcXFOhxnWriMEslx0LC2"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 210698,
-      "name": "Errbody",
-      "url": "https://open.spotify.com/track/6eVxH9Kyanzrw636zJRPcw"
-    },
-    {
-      "added_at": "2021-11-12 16:22:17",
-      "album": {
         "name": "Hall of Fame",
         "url": "https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT"
       },
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2021-11-12 16:22:17",
       "album": {
-        "name": "Desde el Fin del Mundo",
-        "url": "https://open.spotify.com/album/3MKQjYpaES80tFP7Qo2zH0"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 192678,
-      "name": "Cascada",
-      "url": "https://open.spotify.com/track/7pKe9aetI14JCwKBZAEe6a"
-    },
-    {
-      "added_at": "2021-11-12 16:22:17",
-      "album": {
         "name": "BURBERRY",
         "url": "https://open.spotify.com/album/6xWmbEEd3Tcfu5rxpTFMXx"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 213060,
       "name": "Whoopty (Latin Mix) [feat. Anuel AA and Ozuna]",
       "url": "https://open.spotify.com/track/48MsdL5Med93EyIwINl5qY"
+    },
+    {
+      "added_at": "2021-11-12 16:22:17",
+      "album": {
+        "name": "Desde el Fin del Mundo",
+        "url": "https://open.spotify.com/album/3MKQjYpaES80tFP7Qo2zH0"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 192678,
+      "name": "Cascada",
+      "url": "https://open.spotify.com/track/7pKe9aetI14JCwKBZAEe6a"
     },
     {
       "added_at": "2021-11-12 16:22:17",

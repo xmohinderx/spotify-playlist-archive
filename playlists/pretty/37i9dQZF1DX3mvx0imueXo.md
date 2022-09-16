@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3mvx0imueXo.md) - [plain]
 
 > Let the music lift your soul\. Vibes from the different islands in the Caribbean
 
-[Spotify](https://open.spotify.com/user/spotify) - 380,288 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 380,333 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3mvx0imueXo.md) - [plain]
 | 47 | [Maths Test](https://open.spotify.com/track/0v2Krzg5HdHleXGoM6mEv1) | [Claye](https://open.spotify.com/artist/5cxA5TNOxf4h9Y9btuxpCG) | [Maths Test](https://open.spotify.com/album/6Wae1ovQK64eevnfafvonv) | 2:52 |
 | 48 | [Plastic Smile](https://open.spotify.com/track/55cJxAVdfFkkoavazIsqev) | [Sizzla](https://open.spotify.com/artist/72T7x96EAqN2UWvAgobYfv), [Bakersteez](https://open.spotify.com/artist/7ME0YHfCVRdZOfApJmHGhh) | [Plastic Smile](https://open.spotify.com/album/75XgUIt3RiQTe9KMFJ8Yns) | 3:43 |
 | 49 | [Good Love \(feat\. General Levy\)](https://open.spotify.com/track/46En06kODv5V6uj9nwoLmj) | [Reggae Roast](https://open.spotify.com/artist/6X9sCKOanZEWlaDnFw24Ed), [General Levy](https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I) | [Good Love \(feat\. General Levy\)](https://open.spotify.com/album/6JRuF0Vy647e0oeqEZTA7b) | 3:03 |
-| 50 | [Do Your Ting](https://open.spotify.com/track/5drUpHQlsBIbHDjIrUBreO) | [Mr\. Williamz](https://open.spotify.com/artist/3iL52u3kr14P6cTpB0VuEs), [Heavy Baile](https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0), [Ruxell](https://open.spotify.com/artist/5H3IVg3012xSskH8ZjKwDg) | [Do Your Ting](https://open.spotify.com/album/6GqkxKrqcWZVC2aYhbHx06) | 3:12 |
+| 50 | [Well Excellent](https://open.spotify.com/track/2Hx9cYkT5WGVEwx0CgZluk) | [Mr\. Williamz](https://open.spotify.com/artist/3iL52u3kr14P6cTpB0VuEs) | [Soundkilla Mindset](https://open.spotify.com/album/43b7p4ETTf4892gZ3UmO8K) | 3:36 |
 
-Snapshot ID: `MTY1NTc0NzYzNiwwMDAwMDAwMGE3NmZlMjBlYjljMDRmODk5MmMyNzg5ODJjMTczOGJh`
+Snapshot ID: `MTY1NTc0NzYzNiwwMDAwMDAwMGJhZWZlNTVkZGM5OGJjOWFlNmMyZTcwNTdjZTBhNTlk`

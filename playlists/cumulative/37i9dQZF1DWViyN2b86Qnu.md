@@ -4,7 +4,7 @@
 
 > Removing the barriers of gender and genre, these are the brilliant sounds of transgender, non\-binary and gender\-fluid artists\. Cover: G Flip
 
-151 songs - 8 hr 36 min - [published](https://open.spotify.com/playlist/3TfPbe8v3NXKs8gIFWRfn6)
+153 songs - 8 hr 42 min - [published](https://open.spotify.com/playlist/3TfPbe8v3NXKs8gIFWRfn6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,8 @@
 | [Life Goes On](https://open.spotify.com/track/20iykucq4850X9MMIm7PBY) | [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW), [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [LillyAnna](https://open.spotify.com/album/2tsAo6YXbFha5LKr8PuIgt) | 3:38 | 2021-10-05 | 2022-02-21 |
 | [Lolo 13](https://open.spotify.com/track/7tJiFAXnQ0x6SwwHzjAZYB) | [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [At War With The Silverfish](https://open.spotify.com/album/4PMZlbwVmNpMEOkY1UkM03) | 2:41 | 2021-10-05 |  |
 | [Lonely But Not Alone](https://open.spotify.com/track/70SMq0djk5HdO0kc1YM2e9) | [EGOISM](https://open.spotify.com/artist/6bTkIQfvR8nlRCHLAvbfOD) | [Lonely But Not Alone](https://open.spotify.com/album/24yrwo7fOZ5ID22hLzU43W) | 3:16 | 2021-10-05 |  |
-| [LOSING MYSELF](https://open.spotify.com/track/42o73NUStZDhMYeW7lRLnm) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [MERIDIAN : vol 1](https://open.spotify.com/album/7HzXpoBSz66DB7G35p3oeO) | 2:56 | 2021-10-05 |  |
+| [LOSING MYSELF](https://open.spotify.com/track/42o73NUStZDhMYeW7lRLnm) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [MERIDIAN : vol 1](https://open.spotify.com/album/7HzXpoBSz66DB7G35p3oeO) | 2:56 | 2021-10-05 | 2022-09-16 |
+| [LOSING MYSELF](https://open.spotify.com/track/6MVyCFg9IHeS1E41aOUTpm) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [MERIDIAN](https://open.spotify.com/album/4uH776h4uovgy3YYG1vbKC) | 2:56 | 2022-07-14 |  |
 | [Love Me More](https://open.spotify.com/track/16MQETUgqXwY4lZcyRafU3) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Love Me More](https://open.spotify.com/album/59NkDiHvjWqXHHIxzoWAUe) | 3:10 | 2022-05-31 |  |
 | [Loved By U](https://open.spotify.com/track/1SldN7GTd0ADTjspv96wCl) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [Loved By U](https://open.spotify.com/album/3ZWTn4QQX16aHY64yVeC1D) | 3:27 | 2022-04-13 |  |
 | [macrodosing \- Spotify Singles](https://open.spotify.com/track/7BDQqjYCBiqtEuDzWtUaln) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [macrodosing \- Spotify Singles](https://open.spotify.com/album/5TGRGz8e1vdknsuShTrBZr) | 2:50 | 2021-10-05 | 2022-06-17 |
@@ -143,7 +144,8 @@
 | [That's My Sis](https://open.spotify.com/track/2XIeW9O9rwtgNgQ3IpQ3dF) | [Kimmortal](https://open.spotify.com/artist/0ioYxkShKhYOKpQh0ERVFS) | [That's My Sis](https://open.spotify.com/album/51YpXABPAuZmlcOViZkLLP) | 2:58 | 2021-10-05 | 2022-03-09 |
 | [The Art Of Starting Over](https://open.spotify.com/track/0Xnczz6WOco9RiC6NyPsat) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Dancing With The Devil…The Art of Starting Over \(Deluxe Edition\)](https://open.spotify.com/album/2zbfishc70HpcgMu8ymtri) | 2:47 | 2022-02-20 |  |
 | [The Future is Female](https://open.spotify.com/track/4QRqYAX5SP1DmXESnxanmr) | [Madame Gandhi](https://open.spotify.com/artist/1zBHbitf3pjF7W00UIFfVf) | [Voices](https://open.spotify.com/album/5l9seKsDpX6RCaJrPDTfKF) | 3:55 | 2021-10-05 | 2022-02-21 |
-| [THE WAY IT WAS](https://open.spotify.com/track/094rsWrIFSy88FRwqOTXFZ) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [MERIDIAN](https://open.spotify.com/album/4zw23pZvaFm3IlUFhPT3Ss) | 3:17 | 2022-02-20 |  |
+| [THE WAY IT WAS](https://open.spotify.com/track/094rsWrIFSy88FRwqOTXFZ) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [MERIDIAN](https://open.spotify.com/album/4zw23pZvaFm3IlUFhPT3Ss) | 3:17 | 2022-02-20 | 2022-09-16 |
+| [THE WAY IT WAS](https://open.spotify.com/track/0XSfuhUFGOsEDjZX9I4BYN) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [MERIDIAN](https://open.spotify.com/album/4uH776h4uovgy3YYG1vbKC) | 3:17 | 2022-07-14 |  |
 | [Tilted](https://open.spotify.com/track/2ILilOGEh31uHITYFazrLM) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Chaleur Humaine](https://open.spotify.com/album/0xWXamgZr4z2zSYrvcoOar) | 3:53 | 2022-07-14 | 2022-07-29 |
 | [Tilted](https://open.spotify.com/track/4U6GYrZi0xvNkUmFitCDED) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Christine and the Queens](https://open.spotify.com/album/5qYhFUAumctJEgm6nFJJfO) | 3:53 | 2022-07-14 |  |
 | [Time](https://open.spotify.com/track/3XdXixlx3MoVzfL7pu9hx6) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [KiCk i](https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr) | 2:45 | 2021-10-05 | 2022-06-01 |

@@ -1,12 +1,12 @@
 {
   "description": "New music and recent favorites from rising and iconic songsmiths and storytellers. Cover: Jake Blount",
-  "num_followers": 170176,
+  "num_followers": 170193,
   "original_name": "Contemporary Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzg4OTUyOCwwMDAwMDAwMGJhYmVlZDkwODQ4YjkwMTRhZjlkYWQ1Mzk3ODkwNGVi",
+  "snapshot_id": "MTY0Nzg4OTUyOCwwMDAwMDAwMDU1NTRiNjJkYjg5ZTFjMTI2YTI0NGZiYWQ4MWRkMjNh",
   "tracks": [
     {
       "added_at": "2022-02-25 19:00:55",
@@ -647,22 +647,6 @@
     {
       "added_at": "2022-02-25 19:00:55",
       "album": {
-        "name": "The Order Of Time",
-        "url": "https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 218640,
-      "name": "Astral Plane",
-      "url": "https://open.spotify.com/track/1ISGSSgVnZhyiOGSI8itNa"
-    },
-    {
-      "added_at": "2022-02-25 19:00:55",
-      "album": {
         "name": "Under the Pepper Tree",
         "url": "https://open.spotify.com/album/3TXtmWk1jns96neZrOzZDc"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 131248,
       "name": "Night Singing",
       "url": "https://open.spotify.com/track/6f249Hnx4ZO5Ioug2uS4r9"
+    },
+    {
+      "added_at": "2022-02-25 19:00:55",
+      "album": {
+        "name": "The Order Of Time",
+        "url": "https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 218640,
+      "name": "Astral Plane",
+      "url": "https://open.spotify.com/track/1ISGSSgVnZhyiOGSI8itNa"
     },
     {
       "added_at": "2022-02-25 19:00:55",
@@ -903,18 +903,18 @@
     {
       "added_at": "2022-02-25 19:00:55",
       "album": {
-        "name": "Answers (Acoustic)",
-        "url": "https://open.spotify.com/album/0s0Zix6OHOS5RqaEmPijh0"
+        "name": "Urban Driftwood",
+        "url": "https://open.spotify.com/album/0Qz0FCP2OvKtx4WG21PVrJ"
       },
       "artists": [
         {
-          "name": "Brooke Annibale",
-          "url": "https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3"
+          "name": "Yasmin Williams",
+          "url": "https://open.spotify.com/artist/4j8CsPzssbM8TCjSvgnmSs"
         }
       ],
-      "duration_ms": 190229,
-      "name": "Answers - Acoustic",
-      "url": "https://open.spotify.com/track/2EGmolGiLgX4i34ceFZfIc"
+      "duration_ms": 230333,
+      "name": "Juvenescence",
+      "url": "https://open.spotify.com/track/3AKAFRzGRwrMMZ8g9VEcAJ"
     },
     {
       "added_at": "2022-02-25 19:00:55",
@@ -939,18 +939,18 @@
     {
       "added_at": "2022-02-25 19:00:55",
       "album": {
-        "name": "Urban Driftwood",
-        "url": "https://open.spotify.com/album/0Qz0FCP2OvKtx4WG21PVrJ"
+        "name": "Answers (Acoustic)",
+        "url": "https://open.spotify.com/album/0s0Zix6OHOS5RqaEmPijh0"
       },
       "artists": [
         {
-          "name": "Yasmin Williams",
-          "url": "https://open.spotify.com/artist/4j8CsPzssbM8TCjSvgnmSs"
+          "name": "Brooke Annibale",
+          "url": "https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3"
         }
       ],
-      "duration_ms": 230333,
-      "name": "Juvenescence",
-      "url": "https://open.spotify.com/track/3AKAFRzGRwrMMZ8g9VEcAJ"
+      "duration_ms": 190229,
+      "name": "Answers - Acoustic",
+      "url": "https://open.spotify.com/track/2EGmolGiLgX4i34ceFZfIc"
     },
     {
       "added_at": "2022-02-25 19:00:55",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2022-02-25 19:00:55",
       "album": {
-        "name": "Folk n\u2019 Roll Vol. 1: Tales Of Isolation",
-        "url": "https://open.spotify.com/album/5rxYtc0dKFxROEin9UkD9d"
-      },
-      "artists": [
-        {
-          "name": "Ondara",
-          "url": "https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W"
-        }
-      ],
-      "duration_ms": 303626,
-      "name": "Lockdown On Date Night Tuesday",
-      "url": "https://open.spotify.com/track/5l4KZmLaiImt906CJxl5nv"
-    },
-    {
-      "added_at": "2022-02-25 19:00:55",
-      "album": {
         "name": "Transcendence",
         "url": "https://open.spotify.com/album/4pJ1cAVfgvAIJLWLO0zpuQ"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 173231,
       "name": "Millennial",
       "url": "https://open.spotify.com/track/0UVjJZjlZiOB9pVd9wWABs"
+    },
+    {
+      "added_at": "2022-02-25 19:00:55",
+      "album": {
+        "name": "Folk n\u2019 Roll Vol. 1: Tales Of Isolation",
+        "url": "https://open.spotify.com/album/5rxYtc0dKFxROEin9UkD9d"
+      },
+      "artists": [
+        {
+          "name": "Ondara",
+          "url": "https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W"
+        }
+      ],
+      "duration_ms": 303626,
+      "name": "Lockdown On Date Night Tuesday",
+      "url": "https://open.spotify.com/track/5l4KZmLaiImt906CJxl5nv"
     },
     {
       "added_at": "2022-02-25 19:00:55",
@@ -1307,38 +1307,6 @@
     {
       "added_at": "2022-02-25 19:00:55",
       "album": {
-        "name": "Witness",
-        "url": "https://open.spotify.com/album/3jkf9bFHemgq4Gt46DWBnY"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Booker",
-          "url": "https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5"
-        }
-      ],
-      "duration_ms": 234273,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/4nUXWGyJiovHzznNCQfqAW"
-    },
-    {
-      "added_at": "2022-02-25 19:00:55",
-      "album": {
-        "name": "Cobwebs",
-        "url": "https://open.spotify.com/album/1LcnviaqzuzuuHkDVnIMXa"
-      },
-      "artists": [
-        {
-          "name": "David Keenan",
-          "url": "https://open.spotify.com/artist/4RhFWLvAR5H5uXvjWVmxMG"
-        }
-      ],
-      "duration_ms": 250040,
-      "name": "The Friary",
-      "url": "https://open.spotify.com/track/4ma6fuBfPGNWbAev6w5GdV"
-    },
-    {
-      "added_at": "2022-02-25 19:00:55",
-      "album": {
         "name": "Hearts Town",
         "url": "https://open.spotify.com/album/7JpS1MkDWu1bRS4b9VWeoY"
       },
@@ -1359,6 +1327,38 @@
       "duration_ms": 219293,
       "name": "Hustlin' [Feat. Jerry Douglas & Chris Eldridge]",
       "url": "https://open.spotify.com/track/69Sgn7yVDF59YyR9xCaTZE"
+    },
+    {
+      "added_at": "2022-02-25 19:00:55",
+      "album": {
+        "name": "Cobwebs",
+        "url": "https://open.spotify.com/album/1LcnviaqzuzuuHkDVnIMXa"
+      },
+      "artists": [
+        {
+          "name": "David Keenan",
+          "url": "https://open.spotify.com/artist/4RhFWLvAR5H5uXvjWVmxMG"
+        }
+      ],
+      "duration_ms": 250040,
+      "name": "The Friary",
+      "url": "https://open.spotify.com/track/4ma6fuBfPGNWbAev6w5GdV"
+    },
+    {
+      "added_at": "2022-02-25 19:00:55",
+      "album": {
+        "name": "Witness",
+        "url": "https://open.spotify.com/album/3jkf9bFHemgq4Gt46DWBnY"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Booker",
+          "url": "https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5"
+        }
+      ],
+      "duration_ms": 234273,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/4nUXWGyJiovHzznNCQfqAW"
     },
     {
       "added_at": "2022-02-25 19:00:55",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2022-02-25 19:00:55",
       "album": {
-        "name": "Rosey",
-        "url": "https://open.spotify.com/album/3q96oj9JSBra41e2rCBPlG"
-      },
-      "artists": [
-        {
-          "name": "Bermuda Triangle",
-          "url": "https://open.spotify.com/artist/7wPvbZRRBwR2rzVrxz6ixE"
-        }
-      ],
-      "duration_ms": 225999,
-      "name": "Rosey",
-      "url": "https://open.spotify.com/track/6hQyok9o5eHVrOTrAnHKro"
-    },
-    {
-      "added_at": "2022-02-25 19:00:55",
-      "album": {
         "name": "Nine Pin",
         "url": "https://open.spotify.com/album/4an7nc1bshv75YnXbyp8bs"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 239093,
       "name": "Saint Elizabeth",
       "url": "https://open.spotify.com/track/0AXVGjlzkolKVm7ZnD6pqB"
+    },
+    {
+      "added_at": "2022-02-25 19:00:55",
+      "album": {
+        "name": "Rosey",
+        "url": "https://open.spotify.com/album/3q96oj9JSBra41e2rCBPlG"
+      },
+      "artists": [
+        {
+          "name": "Bermuda Triangle",
+          "url": "https://open.spotify.com/artist/7wPvbZRRBwR2rzVrxz6ixE"
+        }
+      ],
+      "duration_ms": 225999,
+      "name": "Rosey",
+      "url": "https://open.spotify.com/track/6hQyok9o5eHVrOTrAnHKro"
     },
     {
       "added_at": "2022-02-25 19:00:55",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2022-02-25 19:00:55",
       "album": {
-        "name": "Black Sun",
-        "url": "https://open.spotify.com/album/6b7USoPQHOlfaelSrPPVo9"
-      },
-      "artists": [
-        {
-          "name": "Irma",
-          "url": "https://open.spotify.com/artist/7KTLYKJhcUOMgNgayxBj9f"
-        }
-      ],
-      "duration_ms": 206634,
-      "name": "Black Sun",
-      "url": "https://open.spotify.com/track/63UtBlg0KZZYueVi6r8DQp"
-    },
-    {
-      "added_at": "2022-02-25 19:00:55",
-      "album": {
         "name": "Occasionally",
         "url": "https://open.spotify.com/album/18lSgXpfbwoFVCCmBOa4q1"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 194560,
       "name": "Occasionally",
       "url": "https://open.spotify.com/track/7luFyU5iwLO0AFXb8DubYS"
+    },
+    {
+      "added_at": "2022-02-25 19:00:55",
+      "album": {
+        "name": "Black Sun",
+        "url": "https://open.spotify.com/album/6b7USoPQHOlfaelSrPPVo9"
+      },
+      "artists": [
+        {
+          "name": "Irma",
+          "url": "https://open.spotify.com/artist/7KTLYKJhcUOMgNgayxBj9f"
+        }
+      ],
+      "duration_ms": 206634,
+      "name": "Black Sun",
+      "url": "https://open.spotify.com/track/63UtBlg0KZZYueVi6r8DQp"
     },
     {
       "added_at": "2022-02-25 19:00:55",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2022-02-25 19:00:55",
       "album": {
-        "name": "Black Cowboys",
-        "url": "https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw"
-      },
-      "artists": [
-        {
-          "name": "Dom Flemons",
-          "url": "https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb"
-        }
-      ],
-      "duration_ms": 162473,
-      "name": "Lonesome Old River Blues",
-      "url": "https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc"
-    },
-    {
-      "added_at": "2022-02-25 19:00:55",
-      "album": {
         "name": "White Tiger",
         "url": "https://open.spotify.com/album/6rnwrfo7Hh006stk2UZuiE"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 178853,
       "name": "Dance Around the Room with Me",
       "url": "https://open.spotify.com/track/60fZwyISk4GPV6p5rs4LHu"
+    },
+    {
+      "added_at": "2022-02-25 19:00:55",
+      "album": {
+        "name": "Black Cowboys",
+        "url": "https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw"
+      },
+      "artists": [
+        {
+          "name": "Dom Flemons",
+          "url": "https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb"
+        }
+      ],
+      "duration_ms": 162473,
+      "name": "Lonesome Old River Blues",
+      "url": "https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc"
     },
     {
       "added_at": "2022-02-25 19:00:55",

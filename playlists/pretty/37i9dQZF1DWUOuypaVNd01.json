@@ -1,12 +1,12 @@
 {
   "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: Nochica, Vitin, SD9, JEFFRO",
-  "num_followers": 18880,
+  "num_followers": 18939,
   "original_name": "Malandro Posturado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5MjQ2MCwwMDAwMDAwMGU3MWQ1YmIzNGY1ZDdmZDgwMzA2YzMzYmM3NTJlYzBh",
+  "snapshot_id": "MTY2MjY5MjQ2MCwwMDAwMDAwMDhkNzJlNzk2NzUyYTBiMzk1ZTE5M2Y3N2MzYTA0YWNl",
   "tracks": [
     {
       "added_at": "2022-09-09 03:01:00",
@@ -167,30 +167,6 @@
     {
       "added_at": "2022-09-09 03:01:00",
       "album": {
-        "name": "Rock Danger, Vol. 1",
-        "url": "https://open.spotify.com/album/10NgAPEXrO27p2uhmuZgyu"
-      },
-      "artists": [
-        {
-          "name": "Rock Danger",
-          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
-        },
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "Massaru",
-          "url": "https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU"
-        }
-      ],
-      "duration_ms": 178005,
-      "name": "Dia de Baile",
-      "url": "https://open.spotify.com/track/3dYN651z0KSUQnC0fxCKWN"
-    },
-    {
-      "added_at": "2022-09-09 03:01:00",
-      "album": {
         "name": "12",
         "url": "https://open.spotify.com/album/68m25Mk20x1Ux9gd9QSoPb"
       },
@@ -211,6 +187,30 @@
       "duration_ms": 120958,
       "name": "12",
       "url": "https://open.spotify.com/track/0o0wW2KjzK3Cg3RM29lCbI"
+    },
+    {
+      "added_at": "2022-09-09 03:01:00",
+      "album": {
+        "name": "Rock Danger, Vol. 1",
+        "url": "https://open.spotify.com/album/10NgAPEXrO27p2uhmuZgyu"
+      },
+      "artists": [
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Massaru",
+          "url": "https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU"
+        }
+      ],
+      "duration_ms": 178005,
+      "name": "Dia de Baile",
+      "url": "https://open.spotify.com/track/3dYN651z0KSUQnC0fxCKWN"
     },
     {
       "added_at": "2022-09-09 03:01:00",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2022-09-09 03:01:00",
       "album": {
+        "name": "Favela Bail\u00e3o",
+        "url": "https://open.spotify.com/album/1t5NyVCHhjqiLkv4mzi7v6"
+      },
+      "artists": [
+        {
+          "name": "Carmath 774",
+          "url": "https://open.spotify.com/artist/3xyYIJJKr0sb4WbEr4raFx"
+        }
+      ],
+      "duration_ms": 123788,
+      "name": "Favela Bail\u00e3o",
+      "url": "https://open.spotify.com/track/5extYhflXbMKDv9vGi74B4"
+    },
+    {
+      "added_at": "2022-09-09 03:01:00",
+      "album": {
         "name": "N\u00e3o Grita",
         "url": "https://open.spotify.com/album/2U2p88NkynYjHEsKPnPDdV"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 152557,
       "name": "N\u00e3o Grita",
       "url": "https://open.spotify.com/track/4nX4FiXWfTclsHcNpyianf"
-    },
-    {
-      "added_at": "2022-09-09 03:01:00",
-      "album": {
-        "name": "Favela Bail\u00e3o",
-        "url": "https://open.spotify.com/album/1t5NyVCHhjqiLkv4mzi7v6"
-      },
-      "artists": [
-        {
-          "name": "Carmath 774",
-          "url": "https://open.spotify.com/artist/3xyYIJJKr0sb4WbEr4raFx"
-        }
-      ],
-      "duration_ms": 123788,
-      "name": "Favela Bail\u00e3o",
-      "url": "https://open.spotify.com/track/5extYhflXbMKDv9vGi74B4"
     },
     {
       "added_at": "2022-09-09 03:01:00",

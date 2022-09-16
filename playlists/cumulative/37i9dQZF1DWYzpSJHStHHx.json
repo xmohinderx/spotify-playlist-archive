@@ -1517,7 +1517,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 287135,
       "name": "I'll Be Around",
       "url": "https://open.spotify.com/track/1EXMtjti643XyQLiGDdki0"
@@ -1823,7 +1823,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 223053,
       "name": "Let the Sun In",
       "url": "https://open.spotify.com/track/6qMiZK4mGuCRkVwRFds4Sm"
@@ -2702,6 +2702,24 @@
     },
     {
       "album": {
+        "name": "Bad Guy Stuff",
+        "url": "https://open.spotify.com/album/0F017i7jFkJ40Iovj428zv"
+      },
+      "artists": [
+        {
+          "name": "The Moonjacks",
+          "url": "https://open.spotify.com/artist/4AqRJ5gzqsHLsIIfBZWT16"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Sk8 Hi",
+      "url": "https://open.spotify.com/track/253tZyRP0qeH35ch1LVnIP"
+    },
+    {
+      "album": {
         "name": "Hotstuff",
         "url": "https://open.spotify.com/album/7HaM93cGDzJdsKOOu1PwqC"
       },
@@ -2972,6 +2990,24 @@
     },
     {
       "album": {
+        "name": "Surfing",
+        "url": "https://open.spotify.com/album/71o0nACWIR21FEiOzUESXl"
+      },
+      "artists": [
+        {
+          "name": "The Lagoons",
+          "url": "https://open.spotify.com/artist/3oK9o2DLbk1VEda7KOMotd"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215037,
+      "name": "Surfing",
+      "url": "https://open.spotify.com/track/299qI1feXBUOAM05oCnizs"
+    },
+    {
+      "album": {
         "name": "II",
         "url": "https://open.spotify.com/album/2UrexGLK8RBKbv07j7ui19"
       },
@@ -3019,7 +3055,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 217600,
       "name": "Taking Up Space",
       "url": "https://open.spotify.com/track/7i28aaEucsoEeEfZLHZHb1"
@@ -3037,7 +3073,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-13",
+      "date_removed": null,
       "duration_ms": 187733,
       "name": "Talking Backwards",
       "url": "https://open.spotify.com/track/0ZwlxoHAnvkCRjsOrHAleU"

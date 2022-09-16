@@ -4,7 +4,7 @@
 
 > Musica dance per le tue giornate di sole!
 
-210 songs - 10 hr 23 min - [published](https://open.spotify.com/playlist/3Pw35BSQu6TzKW6AUFPPlG)
+211 songs - 10 hr 25 min - [published](https://open.spotify.com/playlist/3Pw35BSQu6TzKW6AUFPPlG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [Nirvana](https://open.spotify.com/track/5zEAGm4yKQ8NMemN0m3rW1) | [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Nirvana](https://open.spotify.com/album/4VrGw3dww2O6U0hZTXOHae) | 2:37 | 2022-05-06 |  |
 | [No Diggity](https://open.spotify.com/track/32PKQDEaouIIOlNZ5umoR6) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Blackstreet](https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA) | [No Diggity](https://open.spotify.com/album/1x66drtf4CW5onOaeS0oz3) | 2:48 | 2022-05-06 |  |
 | [No One Compares To You](https://open.spotify.com/track/4cZ3UsiKd1kUQIaq4BFIj2) | [Jack & Jack](https://open.spotify.com/artist/1INuLZXjjVbcJRyWvD1iSq) | [A Good Friend Is Nice](https://open.spotify.com/album/0mjAkDF5xXelx7EOUthdRk) | 3:02 | 2022-07-22 |  |
-| [Not Ok](https://open.spotify.com/track/6aoGtdWXBkYQ2O2wnyIz2x) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Not Ok](https://open.spotify.com/album/3GTuto6NDtZegL6idSk183) | 3:30 | 2022-07-22 |  |
+| [Not Ok](https://open.spotify.com/track/6aoGtdWXBkYQ2O2wnyIz2x) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Not Ok](https://open.spotify.com/album/3GTuto6NDtZegL6idSk183) | 3:30 | 2022-07-22 | 2022-09-16 |
 | [Not the One](https://open.spotify.com/track/481ZLYM7FUam5FACXysCev) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [Not the One](https://open.spotify.com/album/1AfHalVy5AETYsy9Yzm92e) | 2:16 | 2022-08-26 | 2022-09-11 |
 | [Okay](https://open.spotify.com/track/71H8k9qe7DersxR6KyhUnI) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [MARF](https://open.spotify.com/artist/6y1eDna5tYFgcvKyGhLCy7), [Wulf](https://open.spotify.com/artist/134sCDSe1w2zPnfCG4hT0f) | [Okay](https://open.spotify.com/album/7d5FKzrSPqpKczy9IP5zOE) | 2:31 | 2022-05-06 |  |
 | [On Me \(feat\. Ava Max\)](https://open.spotify.com/track/7k6tAZp4m93oswrPqSfBbc) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [SCOOB! The Album](https://open.spotify.com/album/2Zg5xZo3WwIoAZys8OcUpG) | 2:44 | 2022-07-22 |  |
@@ -161,6 +161,7 @@
 | [Second Chance](https://open.spotify.com/track/7KWTJy2RIa9TOJ6NXFkn4G) | [Olivia Addams](https://open.spotify.com/artist/56o9EclNeDcE7p8txENfLn) | [Second Chance](https://open.spotify.com/album/4tVx3jKFjuDEDuF6yb3oJX) | 2:44 | 2022-07-15 |  |
 | [Secrets](https://open.spotify.com/track/66W1rVTnEv86dIkFhoiElg) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Secrets](https://open.spotify.com/album/6AgcNXTAFBxcOFRfxHUtxs) | 2:56 | 2022-07-22 |  |
 | [Selfish Love \(with Selena Gomez\) \- Tiësto Remix](https://open.spotify.com/track/2IDBh3Nuej2wFUk2JmWEmQ) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Selfish Love \(with Selena Gomez\) \(Tiësto Remix\)](https://open.spotify.com/album/6PFuomeQgR2sRWje5dxPKa) | 2:33 | 2022-05-06 | 2022-06-05 |
+| [Shadow](https://open.spotify.com/track/102rhgJ5PEFt62e0PumSF2) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH), [Alida](https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0) | [Shadow](https://open.spotify.com/album/6gBdU9KlMWSrqM3rkuZyY0) | 2:46 | 2022-08-26 |  |
 | [Slow Hand](https://open.spotify.com/track/5IcAEt3huUimJHA4IDAVwb) | [Maja Kristina](https://open.spotify.com/artist/5YEeY9cyouvDvUa8SJVaj2) | [Slow Hand](https://open.spotify.com/album/5GHd3AeEtih6PKWekRnLBz) | 2:42 | 2022-05-06 | 2022-07-29 |
 | [So Close](https://open.spotify.com/track/7FjZU7XFs7P9jHI9Z0yRhK) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Captain Cuts](https://open.spotify.com/artist/0rlKkLkpsCnJbZethGBfAk), [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [So Close \(feat\. Georgia Ku\)](https://open.spotify.com/album/4ZIaWbFnkMozASM1CA59K6) | 3:10 | 2022-07-22 |  |
 | [So Sick](https://open.spotify.com/track/6ee7GQEkmWld8pGIl0E19Z) | [Freedo](https://open.spotify.com/artist/2b6Cbp1cgD0hwisrGbKsZJ), [DJ Katch](https://open.spotify.com/artist/1AAfkmCFRTSDg18GQ3itgl) | [So Sick](https://open.spotify.com/album/4ohKilHhD2WUbLkIXcuhMB) | 2:31 | 2022-05-06 | 2022-07-29 |

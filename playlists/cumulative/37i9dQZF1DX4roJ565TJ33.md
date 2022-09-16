@@ -4,7 +4,7 @@
 
 > Svensk jazz när den är som bäst.
 
-109 songs - 8 hr 20 min - [published](https://open.spotify.com/playlist/6qZTArQLQuNPHxbD40Nm9v)
+111 songs - 8 hr 30 min - [published](https://open.spotify.com/playlist/6qZTArQLQuNPHxbD40Nm9v)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [I'll Be Around](https://open.spotify.com/track/38DaQRDUl2zwvcMRuaT0IX) | [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R), [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm) | [I'll Be Around](https://open.spotify.com/album/2AuA5D2bgvhmL6o527HlWw) | 4:06 | 2021-11-08 | 2022-07-29 |
 | [I'll Remember April](https://open.spotify.com/track/35vyrfyDjMA5Ru6p69tV3y) | [Robert Edman Quartet](https://open.spotify.com/artist/4JQsLyK2wpqlOpkznEM4uB) | [My Inspiration \- Swedish Jazz Legends](https://open.spotify.com/album/6w7jZACnaozB1KCqtpTAEf) | 2:51 | 2021-11-08 |  |
 | [Internationalen](https://open.spotify.com/track/4pQOo9ypR5yYV5O5xVq9mr) | [Franska Trion](https://open.spotify.com/artist/1oDZOVYmQduTh3G4nmsyqv) | [I Väntan På Jan Myrdals Död](https://open.spotify.com/album/0sNF0ybyLYMMIenRroSKXE) | 3:02 | 2021-11-08 |  |
+| [It Ends Now](https://open.spotify.com/track/2VNHGQazdShPrH1wxz5evd) | [Hannes Bennich](https://open.spotify.com/artist/0hwjFY1MfwrXK9Xjog9dET), [Helen Salim](https://open.spotify.com/artist/6zpAdBSCeXbX1umJhUTuEI) | [It Ends Now](https://open.spotify.com/album/2n5vb0l7yIB44vb7H1DDF4) | 6:03 | 2022-09-15 |  |
 | [Jag kan se dig när](https://open.spotify.com/track/0IGyv2Zt8gTxMWTcj9PDjP) | [Carin Lundin](https://open.spotify.com/artist/4IMhnUPdhWUd6LkgL4GgV3), [Johan Setterlind](https://open.spotify.com/artist/1nDRkqtVQVGIKNJ53IppRp), [Erik Söderlind](https://open.spotify.com/artist/299uBqkrkdHLIcVLOUa9U6), [Mattias Welin](https://open.spotify.com/artist/2FadNpVetw7adOruTqDuZ2), [Mathias Algotsson](https://open.spotify.com/artist/5cxbLasvz3bRsChqr96Qy6), [Daniel Fredriksson](https://open.spotify.com/artist/7hKJYQtmuy2g7QAp5dmTle) | [Smulor och parafraser](https://open.spotify.com/album/6Dk2rnIv3koxtcUWaLM6fN) | 4:11 | 2021-11-08 |  |
 | [Jag vill nå dig \(Längtans samba\)](https://open.spotify.com/track/3Z15lR065tmY3RMGs60DwH) | [Jazzagenturen](https://open.spotify.com/artist/0PfYT2Yk58IWMc83t0iuiO), [Leo Lindberg Trio](https://open.spotify.com/artist/46jpwHnuLDnmEjcHMggddG) | [Jag vill nå dig \(Längtans samba\)](https://open.spotify.com/album/4UekZD3DLM9OvBryTTBWCE) | 3:44 | 2021-11-08 |  |
 | [Jag älskar smärtan av sten och is](https://open.spotify.com/track/4C5zpkuDSxSW7lefVQYoaB) | [Björn Petersson Kvartett](https://open.spotify.com/artist/6B5GdoKe61ry7kQByyknGF) | [Jag älskar smärtan av sten och is](https://open.spotify.com/album/1dlpWrgwT3j5tG2vJwENG8) | 3:05 | 2022-04-07 |  |
@@ -82,6 +83,7 @@
 | [Royals](https://open.spotify.com/track/2Gdl1QTR1u2ZeedUmqjbBe) | [The Splendor](https://open.spotify.com/artist/5R3LiKlR8HtU49kzH9uWGA) | [Royals](https://open.spotify.com/album/6usfJmg0od00cQsFxWzyiK) | 7:46 | 2021-11-08 |  |
 | [Sai Fora](https://open.spotify.com/track/6SZ3dFYThX7pYRdvEf33ZZ) | [Karin Hammar](https://open.spotify.com/artist/6PpRVXmqjgmgFPg9gEJfWc) | [Imprints](https://open.spotify.com/album/5VQ3VPsu1ZfA7qjBaUykQp) | 4:42 | 2021-11-08 |  |
 | [Sakta vi gå genom stan](https://open.spotify.com/track/7bO6JxlfsO19aFIYxwUnkL) | [Monica Zetterlund](https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD) | [The Very Best Of](https://open.spotify.com/album/7z8DxRPvmqaJzNHlUfcCsh) | 3:22 | 2021-11-08 | 2022-07-29 |
+| [Sakta vi gå genom stan](https://open.spotify.com/track/2cKTtF2RT22mBkTyjN24GS) | [Fredrik Kronkvist](https://open.spotify.com/artist/7Ej5Shrvcy7tE83A9Dmxrb) | [The Swedish Songbook](https://open.spotify.com/album/505BfjZobC1dKVOMWqtRc8) | 4:48 | 2022-09-15 |  |
 | [Sakta vi gå genom stan](https://open.spotify.com/track/5gBWGTO2prExy9yVwhUbOU) | [Monica Zetterlund](https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD) | [Ahh! Monica!](https://open.spotify.com/album/2iflMrGtjzufU2Jw7JhoLE) | 3:22 | 2022-06-22 |  |
 | [Sandino](https://open.spotify.com/track/4VAHl7q9VbjGEGRCUOi90I) | [Förnuft och Känsla](https://open.spotify.com/artist/4KSDoZH1HGkNnZp9Yjhlm0) | [Jane Austen Texas](https://open.spotify.com/album/16rdQQ6LjYb7s3qkYALEBC) | 5:30 | 2021-11-08 |  |
 | [Send In the Clowns](https://open.spotify.com/track/1VpoM2gPCbG38xQ4FNsZAt) | [Peter Nordahl Trio](https://open.spotify.com/artist/6Qar0oNt9IZSMyrBxMg7ok) | [Send In the Clowns](https://open.spotify.com/album/28B5lgUsqogZaL4ks1o9R0) | 5:21 | 2021-11-08 |  |

@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\)\.  \~\~\~ cover: hope tala 🌏
 
-943 songs - 2 day 0 hr 19 min - [published](https://open.spotify.com/playlist/4lgMQu4P2ziouf8Qz9MR8Q)
+944 songs - 2 day 0 hr 22 min - [published](https://open.spotify.com/playlist/4lgMQu4P2ziouf8Qz9MR8Q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -857,7 +857,8 @@
 | [Tiptoeing](https://open.spotify.com/track/3ZptYblxFPhvIJ0RRRozk9) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Tiptoeing](https://open.spotify.com/album/0fi4c4LZKtZuSSbbjygyZv) | 2:35 | 2021-10-23 | 2022-02-05 |
 | [Toast with the Butter](https://open.spotify.com/track/34hdwAVK7oA3OswpGv5gVX) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [How Did We Get Here?](https://open.spotify.com/album/05SVSMRmcL2ESnkwQFlgyt) | 3:26 | 2021-03-06 | 2021-03-19 |
 | [Tomorrow](https://open.spotify.com/track/7BKwEybys8ZWeYCMykvUrL) | [afternoon bike ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9), [Aso](https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8) | [Tomorrow](https://open.spotify.com/album/77Xaj1yittcrI9g7PWbXxq) | 2:08 | 2021-08-21 | 2021-10-09 |
-| [touch tank](https://open.spotify.com/track/7DrzZN5jaDyE0a0tVuVWnj) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [touch tank](https://open.spotify.com/album/4cH0G6g1NcPguHQ8aOk1h6) | 2:59 | 2022-07-15 |  |
+| [touch tank](https://open.spotify.com/track/1S3ZeV4CEdqbzBYwu0pxE7) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [touch tank](https://open.spotify.com/album/4XsixtHgUzRfUd9zrhX5eh) | 2:59 | 2022-09-09 |  |
+| [touch tank](https://open.spotify.com/track/7DrzZN5jaDyE0a0tVuVWnj) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [touch tank](https://open.spotify.com/album/4cH0G6g1NcPguHQ8aOk1h6) | 2:59 | 2022-07-15 | 2022-09-16 |
 | [Town I Called My Home](https://open.spotify.com/track/0omwXDRLUssZ7fgl9vkL4m) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Town I Called My Home](https://open.spotify.com/album/0I0oknA0jgSUFwYDrcZNhz) | 2:19 | 2021-02-13 | 2021-04-24 |
 | [Trapped In A Lava Lamp](https://open.spotify.com/track/3JqgQpLuexkxUw9Nu4aRsR) | [Huron John](https://open.spotify.com/artist/3CfbFUXY5EE7NmKE4n1Q3v) | [Trapped In A Lava Lamp](https://open.spotify.com/album/0wVMcTCd0pe5nFzWlVLkP1) | 3:03 | 2021-02-27 | 2021-06-05 |
 | [Trees](https://open.spotify.com/track/6YLhqdCWw0RYe0kDFUWRqh) | [Young Lungs](https://open.spotify.com/artist/2trvlbfMS5zVozEmrFNDTJ), [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [Lonely Never Felt So Good](https://open.spotify.com/album/2CiV7RABTWEJJnkbAMuAq3) | 2:51 | 2021-03-27 | 2021-06-05 |

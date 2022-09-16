@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 
 > Escape with these melodic liquid drum & bass beats\. \(photo from Hubble Space Project\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,655 likes - 50 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,762 likes - 50 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 | 23 | [Take Flight](https://open.spotify.com/track/34eW8CuvTJoxdbzy0diSpG) | [Athena](https://open.spotify.com/artist/5zQVK5kEmMGuMqreKxjyNb) | [Take Flight](https://open.spotify.com/album/2Vmp8gBL6Lnc7XoQDrJFkD) | 4:34 |
 | 24 | [Diamonds](https://open.spotify.com/track/4Rarf4MYN0YdFhNKuAMfTp) | [Seba](https://open.spotify.com/artist/3ac1UBV3aHTPZ94T0PhfvS), [Björn Berglund](https://open.spotify.com/artist/3TDlbePC2ZlRn1OcCWnnfi), [Samuel Lancine](https://open.spotify.com/artist/2R1Th5MYsqcss3rJXVyJmN) | [Ingaro](https://open.spotify.com/album/5PdipBlyX6oMt1UrjbQi9u) | 4:36 |
 | 25 | [Dayfall](https://open.spotify.com/track/6Ajue5zNJ44SGKXnqXSrhg) | [Telomic](https://open.spotify.com/artist/2uCrvTUHRA9kuW4IA67oDn), [Emily Makis](https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX) | [Dayfall](https://open.spotify.com/album/1ui6rZ7vZIt79JfiYxYn8o) | 4:09 |
-| 26 | [God of Ages](https://open.spotify.com/track/6x7Ph08iji4gJD1FLM2qPH) | [Mohican Sun](https://open.spotify.com/artist/7LzWa2AUty3RU0znyhG70N) | [God of Ages](https://open.spotify.com/album/4tbviI1cmbFMOeMvNEc0Ok) | 4:12 |
-| 27 | [Rest Assured](https://open.spotify.com/track/35sqsNhnZXLUWZYY9yojPY) | [Mystic State](https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4), [Elysia Grace](https://open.spotify.com/artist/1ictFFBiAtEwfywuzl27YV) | [We Can Help Each Other / Rest Assured](https://open.spotify.com/album/0sHG7ljdzT7s2jXi3xXazQ) | 5:06 |
+| 26 | [Rest Assured](https://open.spotify.com/track/35sqsNhnZXLUWZYY9yojPY) | [Mystic State](https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4), [Elysia Grace](https://open.spotify.com/artist/1ictFFBiAtEwfywuzl27YV) | [We Can Help Each Other / Rest Assured](https://open.spotify.com/album/0sHG7ljdzT7s2jXi3xXazQ) | 5:06 |
+| 27 | [God of Ages](https://open.spotify.com/track/6x7Ph08iji4gJD1FLM2qPH) | [Mohican Sun](https://open.spotify.com/artist/7LzWa2AUty3RU0znyhG70N) | [God of Ages](https://open.spotify.com/album/4tbviI1cmbFMOeMvNEc0Ok) | 4:12 |
 | 28 | [Lonely Night \- Zero T's Setting Sun Remix](https://open.spotify.com/track/62xrslsJ8crkaQ8jdm3C35) | [Mango](https://open.spotify.com/artist/3bCIW0Hzkeswmblop0PGHD), [Mathman](https://open.spotify.com/artist/1AWZ73rKG01b9UNJ8dG8m6) | [Lonely Night \(Zero T's Setting Sun Remix\)](https://open.spotify.com/album/4SMiTZjeFG0O7kCO8AyZtQ) | 4:04 |
 | 29 | [Don't Ever](https://open.spotify.com/track/1VlTXiHOAbQf7eXe15gBU9) | [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR), [DRS](https://open.spotify.com/artist/0WCfu8x76QX3CjVgiE3Hn2) | [Don't Ever](https://open.spotify.com/album/3eMBkyz6Jilgc7OMLcduCg) | 4:30 |
 | 30 | [Be Free](https://open.spotify.com/track/4sGCBGyyNPVv3ZExd9RJ8a) | [Paper Dragon](https://open.spotify.com/artist/2n6DgOnNnybz75HSSdM7Ai) | [Be Free](https://open.spotify.com/album/0ltUWiR0iNHoxJeLHG1qJ8) | 3:51 |
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 | 35 | [When the Dawn Breaks](https://open.spotify.com/track/2np1uTXhFOt6q0atgeLDVz) | [Technimatic](https://open.spotify.com/artist/1LhB1j0Zq3tjBeG3k8gq7V), [Riya](https://open.spotify.com/artist/5XPW5vMGMW4tA1Z3qosShb) | [When the Dawn Breaks](https://open.spotify.com/album/3e90wdBsVki90Y9paEUS8X) | 4:30 |
 | 36 | [Station Six](https://open.spotify.com/track/4RUphASXlXEs8SJQvES7N0) | [Dualistic](https://open.spotify.com/artist/5kVFEq0ZL9wPGx6nnJDcm8) | [Station Six](https://open.spotify.com/album/15jLSYp2WsQVPI6GWjq4Al) | 5:00 |
 | 37 | [Never Made It](https://open.spotify.com/track/348lckHV37myDPmuxztghP) | [DRS](https://open.spotify.com/artist/0WCfu8x76QX3CjVgiE3Hn2), [Mindstate](https://open.spotify.com/artist/7wJB2NvOGLDFafWVIsziRZ) | [Light Language](https://open.spotify.com/album/179IcSz26HvgzajtOzw3kC) | 4:29 |
-| 38 | [Blank Pages](https://open.spotify.com/track/5iSyuu9IKtr8VNnyJ3apHE) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [Blank Pages](https://open.spotify.com/album/7A8de4GcDNN84SD3xNI75F) | 4:59 |
-| 39 | [Farore](https://open.spotify.com/track/3FKHPk807KtTYigTRBTZZR) | [Maduk](https://open.spotify.com/artist/6TaaqqCMRMSpvNHClfnbEL), [Nymfo](https://open.spotify.com/artist/2Pdhwac5oHsY95PeUq6VBS) | [Farore](https://open.spotify.com/album/1NcOECskAuHYeRlsoJjpR0) | 4:51 |
-| 40 | [The Drift](https://open.spotify.com/track/1JsJnmUKULIbbNy7ePgYD3) | [Javano](https://open.spotify.com/artist/61b5v13hJBQhKlQ5sXMub2) | [The Drift](https://open.spotify.com/album/59Yj6MwubdBXwpNUZLft6W) | 4:51 |
+| 38 | [The Drift](https://open.spotify.com/track/1JsJnmUKULIbbNy7ePgYD3) | [Javano](https://open.spotify.com/artist/61b5v13hJBQhKlQ5sXMub2) | [The Drift](https://open.spotify.com/album/59Yj6MwubdBXwpNUZLft6W) | 4:51 |
+| 39 | [Blank Pages](https://open.spotify.com/track/5iSyuu9IKtr8VNnyJ3apHE) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [Blank Pages](https://open.spotify.com/album/7A8de4GcDNN84SD3xNI75F) | 4:59 |
+| 40 | [Farore](https://open.spotify.com/track/3FKHPk807KtTYigTRBTZZR) | [Maduk](https://open.spotify.com/artist/6TaaqqCMRMSpvNHClfnbEL), [Nymfo](https://open.spotify.com/artist/2Pdhwac5oHsY95PeUq6VBS) | [Farore](https://open.spotify.com/album/1NcOECskAuHYeRlsoJjpR0) | 4:51 |
 | 41 | [Would You](https://open.spotify.com/track/6L6P4SI85euz5yGQl05Csv) | [Halogenix](https://open.spotify.com/artist/24eQxPRLv3UMwEIo6mawVW) | [Gaslight EP](https://open.spotify.com/album/28mx8HZTojPZHHneRMGPCF) | 5:00 |
 | 42 | [Sleepless](https://open.spotify.com/track/11jALbqbvABzPKe44hM5KS) | [Degs](https://open.spotify.com/artist/7gYMOxGbwZZgvaOc6z5VJG), [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr) | [Sleepless](https://open.spotify.com/album/39fPiGhZ4O69w2BOlDrxJb) | 4:37 |
 | 43 | [Nautic](https://open.spotify.com/track/3Pevs0j3N02qNVFSqyyz0L) | [nusonix](https://open.spotify.com/artist/2UhBoQ9QOO6zarmuQs5NdU) | [Nautic](https://open.spotify.com/album/05SCpmOlyRi3XnrAySMnHu) | 3:56 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 | 47 | [Here With Me](https://open.spotify.com/track/4p4MvXHTOdvfuP1tgmQqtK) | [LSB](https://open.spotify.com/artist/7M5ogsZnEm96Va8wLKvftN) | [Here With Me](https://open.spotify.com/album/7LtL72Re65c3wbBEmtF1tC) | 6:48 |
 | 48 | [Searching For](https://open.spotify.com/track/31ZQgnDycO8RNKgpGvalLW) | [Linguistics](https://open.spotify.com/artist/5ez11adLi95kAPuxh0RefJ), [GLXY](https://open.spotify.com/artist/1U8nnmbuPk1EpoO7MVgIeT), [Charlie Perry](https://open.spotify.com/artist/3TxfJcesGoPUceupv7gCG0) | [Searching For](https://open.spotify.com/album/11T2tqjYWtK7hZswGwKsml) | 3:04 |
 | 49 | [Little Bird \- Monrroe Remix](https://open.spotify.com/track/3IIf1SrFn0nlVbFDglVXxV) | [BCee](https://open.spotify.com/artist/3wdwWQXJbqpJJbMdp7KfEJ), [Monrroe](https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d) | [Little Bird \(Monrroe Remix\)](https://open.spotify.com/album/4yIC0tAFDyGdi3okp37zsW) | 5:36 |
-| 50 | [Without You](https://open.spotify.com/track/7wCFdwCbImHKnPhUvEfd6W) | [Leniz](https://open.spotify.com/artist/1qHvK5Yi7L8CUDuK9HahoX), [Painted Skies](https://open.spotify.com/artist/1fVaN6BKS36rUE3pYojHAp) | [Without You](https://open.spotify.com/album/1BHUOavRJFkE1XwUxuqFIZ) | 5:42 |
+| 50 | [Home](https://open.spotify.com/track/7tWBeveDtYJ1UcPlHqwHTi) | [U.V.P](https://open.spotify.com/artist/4vBjqyZSwW1mee1gXfo9Cv) | [Home](https://open.spotify.com/album/5cH6HPAArhqrcjgm8FA2Ok) | 4:22 |
 
-Snapshot ID: `MTY1NTIwNjk4OCwwMDAwMDAwMDY2NTk5ZGQ4ZWQzODk3MzJlZTMwMGRkZWUwZDQ5M2My`
+Snapshot ID: `MTY1NTIwNjk4OCwwMDAwMDAwMDE3NmZiZjUwY2Q1MWI3NDAzODE5NjM1YWNlNTU5ZGRl`

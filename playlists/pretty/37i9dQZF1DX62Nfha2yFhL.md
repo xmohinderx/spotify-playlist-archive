@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62Nfha2yFhL.md) - [plain]
 
 > Whether you're lounging at home or out with your friends, let this playlist provide your soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 842,549 likes - 51 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 842,703 likes - 51 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62Nfha2yFhL.md) - [plain]
 | 32 | [Think About You \- Notion Mix](https://open.spotify.com/track/698qfbrci5r8U0EKceXhml) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [Think About You \(Notion Mix\)](https://open.spotify.com/album/3LDQk8fS6P9E2lJVO0vUY4) | 3:14 |
 | 33 | [Good To Know \(feat\. Masego, Kp & Ambriia\)](https://open.spotify.com/track/42DZ6nBYhvyoLwmCUGz2T9) | [Ciscero](https://open.spotify.com/artist/5oSCIcpPdrO3UhTMATxkYL), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Ambriia](https://open.spotify.com/artist/188wOiNLfaMrUoIGUbvq6q), [KP\_](https://open.spotify.com/artist/0oBxK7RWPdHdW1B9MFX3QI) | [Good To Know \(feat\. Masego, Kp & Ambriia\)](https://open.spotify.com/album/7rDIbwEbqPVRVFe4W0XPD4) | 4:01 |
 | 34 | [Apple](https://open.spotify.com/track/1vBBPAR0hvBIBuq8NkYAUu) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Sis.](https://open.spotify.com/album/5udBfaGdflGiQRkL9TORN2) | 3:19 |
-| 35 | [Evergreen](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 |
+| 35 | [Evergreen \(You Didn’t Deserve Me At All\)](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 |
 | 36 | [No Bus](https://open.spotify.com/track/0a8iHqEqV1FAcRGyDTKFym) | [lophiile](https://open.spotify.com/artist/5g5eVr2vAQnd12Q1XCJD7R), [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [No Bus](https://open.spotify.com/album/0tBwgaezW7QUFPSlobYAqi) | 3:04 |
 | 37 | [Late Night](https://open.spotify.com/track/1Fwppfa2qKDAETKveNFsHR) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Painted](https://open.spotify.com/album/0sxfu0XUwHOtnKiZgkTQwk) | 3:57 |
 | 38 | [Only You](https://open.spotify.com/track/5MUvzjJ2XXvPZq3KU6znpP) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Rare Changes](https://open.spotify.com/album/7pue5cbfa0TUgCUth2KFr8) | 3:14 |

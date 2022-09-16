@@ -21976,6 +21976,24 @@
     },
     {
       "album": {
+        "name": "Right On",
+        "url": "https://open.spotify.com/album/0XcLCuiwQfC2AAxbABkbZo"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lay",
+          "url": "https://open.spotify.com/artist/0H7XMkYygCyZGg8o1uqoZv"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182655,
+      "name": "Right On",
+      "url": "https://open.spotify.com/track/61jOeHM06SACzw5MQq1nHe"
+    },
+    {
+      "album": {
         "name": "Right On Time",
         "url": "https://open.spotify.com/album/5LjViqd1cA5hzu9qXaxSGh"
       },

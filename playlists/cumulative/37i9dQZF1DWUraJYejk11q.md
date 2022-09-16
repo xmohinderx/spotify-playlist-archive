@@ -4,7 +4,7 @@
 
 > Instrumental bliss beyond genre classification.
 
-184 songs - 14 hr 40 min - [published](https://open.spotify.com/playlist/0oD5iC51KNsAwsn7m40tDg)
+185 songs - 14 hr 44 min - [published](https://open.spotify.com/playlist/0oD5iC51KNsAwsn7m40tDg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [Los](https://open.spotify.com/track/4KjlO4yts8Oe8slM4aeCBe) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [Los](https://open.spotify.com/album/2I8rQGhMfiaghzGshYvL2w) | 4:50 | 2021-10-15 | 2022-02-17 |
 | [Lost In Cyberspace](https://open.spotify.com/track/4jlg3sAomqzv3h0ccndkfa) | [Downhill2k01](https://open.spotify.com/artist/0xBBjvYwXtW0k90kDx9JLs) | [Lost In Cyberspace](https://open.spotify.com/album/60czEHzF6zWI3DA5vW1IPX) | 1:09 | 2022-01-11 | 2022-03-12 |
 | [Magic Pony Ride \(Pt.1\)](https://open.spotify.com/track/2np71UUbhAVIJ61jkQDRDe) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X) | [Magic Pony Ride](https://open.spotify.com/album/0bzc0YF4nKy4ZuJPO847uN) | 3:50 | 2022-06-20 | 2022-07-16 |
-| [Mango Feedback](https://open.spotify.com/track/4lEkWLEF4MRTJE03dCF2O9) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Mango Feedback](https://open.spotify.com/album/16YdLmhRGsqy6b2RKxIQWr) | 4:51 | 2022-08-11 |  |
+| [Mango Feedback](https://open.spotify.com/track/4lEkWLEF4MRTJE03dCF2O9) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Mango Feedback](https://open.spotify.com/album/16YdLmhRGsqy6b2RKxIQWr) | 4:51 | 2022-08-11 | 2022-09-16 |
 | [Maru \- Skee Mask Remix](https://open.spotify.com/track/3fiy3JpgypzYRwWeVgSvcf) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD), [Skee Mask](https://open.spotify.com/artist/2qwi0hBvI2GrbkurOnw3hZ) | [Maru \(Skee Mask Remix\)](https://open.spotify.com/album/5IegphIbabveJVR2dipcLc) | 6:22 | 2021-10-15 | 2022-01-20 |
 | [Marzipan Leftlovers \(Ignazz Remix\)](https://open.spotify.com/track/0WMa0q6v76ctwdjI6Ph0ZG) | [Brainwaltzera](https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB), [Ignazz](https://open.spotify.com/artist/19MnaXSqp5A9hlDNrRz8XV) | [Remix EP](https://open.spotify.com/album/3PVDGasKBN3TP516jfu4hr) | 4:18 | 2021-10-15 | 2022-02-10 |
 | [Minena](https://open.spotify.com/track/4yvUIVFjmNJL7nrb0irmBa) | [Ranma Entero](https://open.spotify.com/artist/779eiS92bExNWIAWxmiWIB) | [Minena](https://open.spotify.com/album/0IWOooqWyw1lf5xqYGGs3H) | 4:35 | 2022-04-12 |  |
@@ -168,6 +168,7 @@
 | [The Sun Made For A Soft Landing](https://open.spotify.com/track/18Y9Nx6jzGCyO70IJMNIZU) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [The Sun Made For A Soft Landing](https://open.spotify.com/album/3A5cWp5eGUjg993YKyVbgK) | 4:30 | 2021-10-15 | 2022-01-22 |
 | [These Knits](https://open.spotify.com/track/1LYTKsBMfk7BNnajMRW3rH) | [Viggo Dyst](https://open.spotify.com/artist/2ErTCR7vHeYoB6Z81O8WT2) | [These Knits](https://open.spotify.com/album/4STTtWgMkdjmSnFTsJO5N6) | 5:48 | 2022-05-13 |  |
 | [TIOLI](https://open.spotify.com/track/62Ho56ziilGANhRbJY2UvA) | [RONA.](https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6) | [TIOLI](https://open.spotify.com/album/6hXL6AoUVJIhIIY67nOD9B) | 4:38 | 2022-04-22 |  |
+| [to all the plants i loved](https://open.spotify.com/track/6lvQXM7GBbnuFMQwEIHCDX) | [s e r é n a t e](https://open.spotify.com/artist/6Mrjj6yM6eFCKfQtHxzeUq) | [caso de estudio](https://open.spotify.com/album/7k3qFMpJYBXVg4x634Aopp) | 3:45 | 2022-09-15 |  |
 | [tracing Rays \[reality glo\]](https://open.spotify.com/track/4YTXY7Ze4njWYH4nDutz4q) | [Brainwaltzera](https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB) | [tracing Rays \[reality glo\]](https://open.spotify.com/album/2A7WqlhXWnDCK84hqsnWGY) | 4:22 | 2022-03-30 |  |
 | [Trains & Airports](https://open.spotify.com/track/4nLYuqQrjVZu6zVNqmsTfI) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Sofia Kourtesis](https://open.spotify.com/album/6xgwDjQ5Z1oXMVQIoRMnqY) | 6:38 | 2021-10-15 |  |
 | [Transactional Relationship](https://open.spotify.com/track/17YSGfgY3BizhPL8QDF1gg) | [Gold Panda](https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk) | [Transactional Relationship](https://open.spotify.com/album/0007jLfYrERL4X1mpSgLGK) | 3:13 | 2021-10-15 |  |

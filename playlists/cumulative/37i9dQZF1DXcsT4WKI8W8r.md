@@ -4,7 +4,7 @@
 
 > A playlist to get you through your whole workday.
 
-345 songs - 19 hr 43 min - [published](https://open.spotify.com/playlist/3C6WbDdRTToG5FIYL3Fv3Q)
+346 songs - 19 hr 46 min - [published](https://open.spotify.com/playlist/3C6WbDdRTToG5FIYL3Fv3Q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Honey In The Summer](https://open.spotify.com/track/69KERH8EU5P2VwxWlmOVcU) | [PUBLIC](https://open.spotify.com/artist/4vxaQs6vK54nK89J1VtLex) | [Honey In The Summer](https://open.spotify.com/album/4vZYGQJhnkjfludP1dDZ1s) | 3:20 | 2021-04-30 | 2022-07-29 |
 | [How Can I Forget](https://open.spotify.com/track/0ibG3XCJ32Qq9maUY4AViR) | [MKTO](https://open.spotify.com/artist/2l35CQqtYRh3d8ZIiBep4v) | [How Can I Forget](https://open.spotify.com/album/4CzC68DHIUlP0Hc6UGczhx) | 2:57 | 2021-04-30 | 2022-07-29 |
 | [How Sweet It Is \(To Be Loved By You\)](https://open.spotify.com/track/16ZNz0wXDJERo4zquNPw7x) | [Jr\. Walker & The All Stars](https://open.spotify.com/artist/1rHh0AI30JhKrbzKIFjFNd) | [20th Century Masters: The Millennium Collection: Best of Jr\. Walker & The All Stars](https://open.spotify.com/album/3MkkgBqBgeQfJjftZMtF4y) | 2:59 | 2021-04-30 | 2022-07-29 |
+| [How Will I Know](https://open.spotify.com/track/3yb2hJ1kKDEhLo3qfw7zlr) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour \(Drowning Shadows Edition\)](https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x) | 3:52 | 2021-04-30 |  |
 | [How Will I Know](https://open.spotify.com/track/64oxbrbRQV6MZto7o8Y42P) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour \(Drowning Shadows Edition\)](https://open.spotify.com/album/0kJbDT8VGMScK8YDzNNvzV) | 3:52 | 2021-04-30 | 2022-06-29 |
 | [How Will I Know](https://open.spotify.com/track/5tdKaKLnC4SgtDZ6RlWeal) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney Houston](https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes) | 4:35 | 2021-04-30 |  |
 | [Human](https://open.spotify.com/track/6mTAUBzuJPItP6At2jhe1J) | [Lake Jons](https://open.spotify.com/artist/1LD9cpK7ofPgY3TtsJeKcB) | [The Coast Deluxe](https://open.spotify.com/album/2yW3NHrKeeOnLl45RTO1K5) | 3:52 | 2021-04-30 | 2022-06-06 |
@@ -246,7 +247,7 @@
 | [Problems](https://open.spotify.com/track/75ylrnob5O80WTKi9ugZ1Z) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [ASYLUM](https://open.spotify.com/album/1qnAzDoa24ZYCZDzmP74sL) | 2:51 | 2021-04-30 | 2022-07-29 |
 | [Put It All On Me](https://open.spotify.com/track/3EppIsAu2pgwtXTAgmN2jP) | [Phil Good](https://open.spotify.com/artist/3MDqk7o9WcL4FSvlyyGjRv) | [Put It All On Me](https://open.spotify.com/album/4CvCGMHdOUXT4gi1kz9Jwm) | 3:16 | 2021-04-30 | 2022-07-29 |
 | [Quite Miss Home](https://open.spotify.com/track/2deFH5zveEBEUuURpqTN3C) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 4:03 | 2021-04-30 | 2022-07-13 |
-| [r u ok](https://open.spotify.com/track/7rq1zCf90CnU7OalBLIgNp) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [r u ok](https://open.spotify.com/album/4xhldRhsJY00rIkBFMe5yC) | 3:05 | 2021-04-30 |  |
+| [r u ok](https://open.spotify.com/track/7rq1zCf90CnU7OalBLIgNp) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [r u ok](https://open.spotify.com/album/4xhldRhsJY00rIkBFMe5yC) | 3:05 | 2021-04-30 | 2022-09-16 |
 | [Rare](https://open.spotify.com/track/7HMmFQsKsljwTw8bS7lu19) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare](https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx) | 3:40 | 2021-04-30 | 2022-01-04 |
 | [Raspberry Beret](https://open.spotify.com/track/2I1W3hcSsPIsEJfD69pHrW) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Around The World In A Day](https://open.spotify.com/album/27SA4Pkelh2pbwbVEORPOM) | 3:35 | 2021-04-30 |  |
 | [Religion](https://open.spotify.com/track/0YT1UVqGD6wAWaTVRo0bGY) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Remember To Remember Me](https://open.spotify.com/album/3k1r8pNLVD6Lbq0Qyr9yfk) | 3:07 | 2021-04-30 | 2022-02-27 |

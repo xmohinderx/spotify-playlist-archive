@@ -4,7 +4,7 @@
 
 > The soft sound of some of the smoothest and sweetest vocal Jazz.
 
-269 songs - 18 hr 18 min - [published](https://open.spotify.com/playlist/2jXyMwumv2Y3AF0FeiCzYC)
+270 songs - 18 hr 23 min - [published](https://open.spotify.com/playlist/2jXyMwumv2Y3AF0FeiCzYC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,6 +207,7 @@
 | [Siren Song](https://open.spotify.com/track/5ni22llVwiCeoMkgHsDYP0) | [Vicki Burns](https://open.spotify.com/artist/7nZiiyzxTzzq15HO061L6S) | [Lotus Blossom Days](https://open.spotify.com/album/2D9AerrV1XId2OJ2gAUmSA) | 6:20 | 2022-07-14 | 2022-07-29 |
 | [Skylark](https://open.spotify.com/track/5CYD74nAnkF99ykO3npx2g) | [Hila Hutmacher](https://open.spotify.com/artist/0jMVNWZAjSmbQffwsfrBtW) | [Just Friends](https://open.spotify.com/album/1cDB19llZ9d3TrdU2hRl2M) | 6:29 | 2022-05-19 | 2022-07-29 |
 | [Smile](https://open.spotify.com/track/5H09kZp2YiQjnzhrjch3Ae) | [Tia Brazda](https://open.spotify.com/artist/50hsY3SvrJloPHqVfBTI1R) | [When I Get Low](https://open.spotify.com/album/70ljTIleoi86TjqilzoR3r) | 2:45 | 2022-06-09 |  |
+| [Smoke Gets in Your Eyes](https://open.spotify.com/track/377JiNUjjacysE2M01uEZF) | [Reinhardt Winkler](https://open.spotify.com/artist/3qI7BI1j3lVPj7O93WYsyK), [Simone Kopmajer](https://open.spotify.com/artist/7cylWVUnKfaVT2vpkNoRWB) | [Flying Home](https://open.spotify.com/album/1KwMYu5s3ytrnUuWdB0ud1) | 4:53 | 2022-09-15 |  |
 | [So Sorry For Your Love](https://open.spotify.com/track/5ijeJDlOJp63UtVYyAnyOD) | [Silje Nergaard](https://open.spotify.com/artist/3hCQUVIcg8nWvkZToF4rqc) | [At First Light](https://open.spotify.com/album/4iJTuwQiLeteB5MaPKtF7A) | 4:10 | 2022-01-20 | 2022-07-19 |
 | [Solitude](https://open.spotify.com/track/6PSDknjbOQTQNo7cwBMduU) | [Kandace Springs](https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O), [Chris Potter](https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB) | [The Women Who Raised Me](https://open.spotify.com/album/2g6J9bq2p9cRxMoBEldSEF) | 4:59 | 2022-01-20 |  |
 | [Someone To Watch Over Me \- Demo](https://open.spotify.com/track/1NwqbR2nzLJ17TSoW1iiQW) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Frank \(Deluxe Edition\)](https://open.spotify.com/album/2rWBGF3pKx8Jla9VYMQ8Xc) | 4:28 | 2022-01-20 | 2022-07-29 |
@@ -246,7 +247,7 @@
 | [Till There Was You \- Remastered](https://open.spotify.com/track/0CczH75yFBo53bVqLRvYn4) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Latin Ala Lee](https://open.spotify.com/album/5A7sAUKBDHvRyA5AxkeKAK) | 2:31 | 2022-01-20 |  |
 | [To Love You All Over Again](https://open.spotify.com/track/4EPwpBN0t11bIxjsAI8oaF) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Bare Bones](https://open.spotify.com/album/5WSZnecSUMQprzWZLlk5ha) | 3:57 | 2022-01-20 |  |
 | [Too Late Now](https://open.spotify.com/track/6iYaFLnX3epoWlQhGdbTRy) | [Johanna Pettersson](https://open.spotify.com/artist/3K6nNpFGe2X8oY5SuZu7w0), [Filip Ekestubbe](https://open.spotify.com/artist/1rhA3rMvp7PcSaxbLlTZXX), [Tomas Sjödell](https://open.spotify.com/artist/5t0kuw9leStrP3KsH1XFJv), [Adam Ross](https://open.spotify.com/artist/1mdEyNmkyJgaeVRF5PrmjM) | [The Show Must Go On](https://open.spotify.com/album/6jKTnQzbrpRONtKbIt3kfo) | 5:09 | 2022-02-18 |  |
-| [Twentieth Century Fox](https://open.spotify.com/track/7hi3rz13X8vRWRWPqflOEJ) | [Angela Verbrugge](https://open.spotify.com/artist/6RseXDJE4211hDR6MHVfyj) | [Love for Connoisseurs](https://open.spotify.com/album/4y2H40oDDsnEBPEZwXrE9h) | 3:40 | 2022-03-25 |  |
+| [Twentieth Century Fox](https://open.spotify.com/track/7hi3rz13X8vRWRWPqflOEJ) | [Angela Verbrugge](https://open.spotify.com/artist/6RseXDJE4211hDR6MHVfyj) | [Love for Connoisseurs](https://open.spotify.com/album/4y2H40oDDsnEBPEZwXrE9h) | 3:40 | 2022-03-25 | 2022-09-16 |
 | [Twinkle Twinkle](https://open.spotify.com/track/3kK1OWkLxPLaOJyaGYielG) | [Connie Lansberg](https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A), [Mark Fitzgibbon](https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB), [Ben Hanlon](https://open.spotify.com/artist/5wmOjwX4DBUnoS9Qz9A1WY), [Peter Hodges](https://open.spotify.com/artist/6R24JW8eOgeuOMGkehKfYh) | [Twinkle Twinkle](https://open.spotify.com/album/46xM6WD5LaI25lEW9QmCy5) | 4:27 | 2022-05-26 |  |
 | [Unforgettable](https://open.spotify.com/track/648TTtYB0bH0P8Hfy0FmkL) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Unforgettable](https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm) | 3:11 | 2022-01-20 | 2022-08-11 |
 | [Until It Happens to You](https://open.spotify.com/track/4aUVMqQWLjpXyjvONHUpvC) | [April Barrows](https://open.spotify.com/artist/49Pr1w34iIV8qlIcnsLdwQ) | [All You Need Is The Girl](https://open.spotify.com/album/4XhmSNCri3iq7vOF4n55Bz) | 4:50 | 2022-01-20 |  |

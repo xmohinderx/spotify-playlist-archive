@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-01",
-  "description": "With LGHTNNG, IndiGhost, VILN and more",
+  "description": "With Dream Fiend, September 87, IndiGhost and more",
   "name": "The Midnight Radio",
   "published_playlist_ids": [
     "2T4bEFEfvvK4qvB1iHmD1n"
@@ -243,7 +243,7 @@
       ],
       "date_added": "2022-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 299381,
       "name": "A Dystopian Fixation",
       "url": "https://open.spotify.com/track/2r4DcuJm0rAe5VCbvhsts0"
@@ -3373,7 +3373,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-15",
+      "date_removed": null,
       "duration_ms": 317109,
       "name": "Comet (Bonus Track)",
       "url": "https://open.spotify.com/track/4HHOLKcCb52sm5FCJWGU6u"
@@ -4373,7 +4373,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 296546,
       "name": "Devil Make a Deal",
       "url": "https://open.spotify.com/track/0p4rVpy5DAL6JIIneGUugm"
@@ -6307,7 +6307,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 221813,
       "name": "Final Girl - Bonus Track",
       "url": "https://open.spotify.com/track/57Rdne4TThcSOF7M1yaSI2"
@@ -7119,7 +7119,7 @@
       ],
       "date_added": "2021-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 249866,
       "name": "Ghost in Your Stereo",
       "url": "https://open.spotify.com/track/2UOVpHcFcjZyjwwEvFe8K0"
@@ -7221,7 +7221,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-13",
+      "date_removed": null,
       "duration_ms": 289897,
       "name": "Gloria",
       "url": "https://open.spotify.com/track/2R3v2gnBITuIi5yfuEHMnQ"
@@ -7463,6 +7463,24 @@
       "duration_ms": 217153,
       "name": "Growing Apart",
       "url": "https://open.spotify.com/track/5MJ0dvRaRU2RWdpVFWP4jm"
+    },
+    {
+      "album": {
+        "name": "Release",
+        "url": "https://open.spotify.com/album/2kxsgTqpblPOWfR8nVgWrk"
+      },
+      "artists": [
+        {
+          "name": "D/G/TAL",
+          "url": "https://open.spotify.com/artist/3O5DNY9Xde5nBzP2YjriT5"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183529,
+      "name": "Gunstar",
+      "url": "https://open.spotify.com/track/099wbUowjRErelSCqD6aDd"
     },
     {
       "album": {
@@ -11553,7 +11571,7 @@
       ],
       "date_added": "2022-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 290146,
       "name": "Modern Love",
       "url": "https://open.spotify.com/track/3k4zFo5XPw4q3U0tUNypcD"
@@ -12007,7 +12025,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 305466,
       "name": "Neon Medusa",
       "url": "https://open.spotify.com/track/05eH3a4zbU169X2X7PuWfM"
@@ -12043,7 +12061,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-15",
+      "date_removed": null,
       "duration_ms": 253220,
       "name": "Neon Medusa - Edit",
       "url": "https://open.spotify.com/track/7y1WaVLlJHSpkn3Libyq7r"
@@ -14585,7 +14603,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 307545,
       "name": "Rasengan",
       "url": "https://open.spotify.com/track/05RMPtk5ybYhkuY3qjlaHa"
@@ -17587,7 +17605,7 @@
       ],
       "date_added": "2022-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-15",
+      "date_removed": null,
       "duration_ms": 268500,
       "name": "Summer Heat",
       "url": "https://open.spotify.com/track/1hFmntG7KJjeFwklRVkhUh"
@@ -17891,7 +17909,7 @@
       ],
       "date_added": "2022-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-13",
+      "date_removed": null,
       "duration_ms": 251209,
       "name": "Synthetic Life",
       "url": "https://open.spotify.com/track/1mLfugX4HiaQtdXDvJYyu3"
@@ -18441,7 +18459,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 220146,
       "name": "The Danger",
       "url": "https://open.spotify.com/track/5uSk7CgfTunJpnMbADEUof"

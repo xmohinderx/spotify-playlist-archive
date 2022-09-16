@@ -6,8 +6,24 @@
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzYyNCwyMjdhYmRlZDA3NWNiYThjM2FjZWQ1OTlhYWQ1MWE1ZTQ1NWFiMWFm",
+  "snapshot_id": "MzYyNSw2ZjQyZmU2NTdmNTkxODZlMjUzZWRkODAzMmExMmJiMjgzZGRlZmVj",
   "tracks": [
+    {
+      "added_at": "2022-09-15 16:50:21",
+      "album": {
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/4wfYav7zgRz4hZMqP1t2O0"
+      },
+      "artists": [
+        {
+          "name": "VESK GREEN",
+          "url": "https://open.spotify.com/artist/4D6SwsmIOKAcd2sMavDqxo"
+        }
+      ],
+      "duration_ms": 184772,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/1qhfJLtwPoXN34TbQJegeA"
+    },
     {
       "added_at": "2022-09-14 16:33:24",
       "album": {

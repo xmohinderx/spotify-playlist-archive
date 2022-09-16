@@ -1,12 +1,12 @@
 {
   "description": "Deep House in all its shapes and colours.",
-  "num_followers": 522853,
+  "num_followers": 523021,
   "original_name": "Deep House Blend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjE0MTkxOSwwMDAwMDAwMDNhY2U1Y2IxNzE3NTA5ODk3NTRjYjU3M2U3MjlmZWY4",
+  "snapshot_id": "MTY2MjE0MTkxOSwwMDAwMDAwMDU5ZDE5M2ViMWRiOTJkMDFhYzE4MjFhYWJjZmVhYmFh",
   "tracks": [
     {
       "added_at": "2022-09-02 18:05:19",
@@ -171,26 +171,6 @@
     {
       "added_at": "2022-09-02 18:05:19",
       "album": {
-        "name": "Caprice",
-        "url": "https://open.spotify.com/album/0zv9KQqPhVAPleEi8anQ4R"
-      },
-      "artists": [
-        {
-          "name": "Oliver Schories",
-          "url": "https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq"
-        },
-        {
-          "name": "Tube & Berger",
-          "url": "https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h"
-        }
-      ],
-      "duration_ms": 230839,
-      "name": "Caprice",
-      "url": "https://open.spotify.com/track/6UJTyXQvDe3hv8NQXOKOCl"
-    },
-    {
-      "added_at": "2022-09-02 18:05:19",
-      "album": {
         "name": "La Perla (Tourist Remix)",
         "url": "https://open.spotify.com/album/2CEQtjRACjOqhLnDsiKzor"
       },
@@ -207,6 +187,26 @@
       "duration_ms": 317003,
       "name": "La Perla - Tourist Remix",
       "url": "https://open.spotify.com/track/1V2Z18nOByb7DqCECFh2Yt"
+    },
+    {
+      "added_at": "2022-09-02 18:05:19",
+      "album": {
+        "name": "Caprice",
+        "url": "https://open.spotify.com/album/0zv9KQqPhVAPleEi8anQ4R"
+      },
+      "artists": [
+        {
+          "name": "Oliver Schories",
+          "url": "https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq"
+        },
+        {
+          "name": "Tube & Berger",
+          "url": "https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h"
+        }
+      ],
+      "duration_ms": 230839,
+      "name": "Caprice",
+      "url": "https://open.spotify.com/track/6UJTyXQvDe3hv8NQXOKOCl"
     },
     {
       "added_at": "2022-09-02 18:05:19",
@@ -439,18 +439,22 @@
     {
       "added_at": "2022-09-02 18:05:19",
       "album": {
-        "name": "Baby Flute",
-        "url": "https://open.spotify.com/album/4BBdOydRsJSZjZ1dRUQHR4"
+        "name": "Osama (Edit)",
+        "url": "https://open.spotify.com/album/5q1Iq5mxmYODLmwTlmDw6u"
       },
       "artists": [
         {
-          "name": "Vladimir Cauchemar",
-          "url": "https://open.spotify.com/artist/2V5xArcB3BGAHmwsK46tyU"
+          "name": "Zakes Bantwini",
+          "url": "https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL"
+        },
+        {
+          "name": "Kasango",
+          "url": "https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r"
         }
       ],
-      "duration_ms": 151046,
-      "name": "Baby Flute",
-      "url": "https://open.spotify.com/track/3335q25uuuOxltjChRUxSx"
+      "duration_ms": 223666,
+      "name": "Osama - Edit",
+      "url": "https://open.spotify.com/track/5i2gTPIuhhA1mcFQpmD5rf"
     },
     {
       "added_at": "2022-09-02 18:05:19",
@@ -471,22 +475,18 @@
     {
       "added_at": "2022-09-02 18:05:19",
       "album": {
-        "name": "Osama (Edit)",
-        "url": "https://open.spotify.com/album/5q1Iq5mxmYODLmwTlmDw6u"
+        "name": "Baby Flute",
+        "url": "https://open.spotify.com/album/4BBdOydRsJSZjZ1dRUQHR4"
       },
       "artists": [
         {
-          "name": "Zakes Bantwini",
-          "url": "https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL"
-        },
-        {
-          "name": "Kasango",
-          "url": "https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r"
+          "name": "Vladimir Cauchemar",
+          "url": "https://open.spotify.com/artist/2V5xArcB3BGAHmwsK46tyU"
         }
       ],
-      "duration_ms": 223666,
-      "name": "Osama - Edit",
-      "url": "https://open.spotify.com/track/5i2gTPIuhhA1mcFQpmD5rf"
+      "duration_ms": 151046,
+      "name": "Baby Flute",
+      "url": "https://open.spotify.com/track/3335q25uuuOxltjChRUxSx"
     },
     {
       "added_at": "2022-09-02 18:05:19",
@@ -543,26 +543,6 @@
     {
       "added_at": "2022-09-02 18:05:19",
       "album": {
-        "name": "Laufen",
-        "url": "https://open.spotify.com/album/0rBQ3XoH7MGsyTroRmawqT"
-      },
-      "artists": [
-        {
-          "name": "MonoJack",
-          "url": "https://open.spotify.com/artist/0cOtwWgfpavqmqhEkqner9"
-        },
-        {
-          "name": "Fritz K\u00f6lner",
-          "url": "https://open.spotify.com/artist/5kUq5J6UHtwVWgtrpE4zGh"
-        }
-      ],
-      "duration_ms": 257709,
-      "name": "Laufen",
-      "url": "https://open.spotify.com/track/3l09ozhFppcBhSXXalTtsf"
-    },
-    {
-      "added_at": "2022-09-02 18:05:19",
-      "album": {
         "name": "Ceremony",
         "url": "https://open.spotify.com/album/0xeaiWr64U3fCTxizuRi0e"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 357283,
       "name": "Trojan Love - Original Club Mix",
       "url": "https://open.spotify.com/track/283e2rkf3A78qmcp5xjOTT"
+    },
+    {
+      "added_at": "2022-09-02 18:05:19",
+      "album": {
+        "name": "Laufen",
+        "url": "https://open.spotify.com/album/0rBQ3XoH7MGsyTroRmawqT"
+      },
+      "artists": [
+        {
+          "name": "MonoJack",
+          "url": "https://open.spotify.com/artist/0cOtwWgfpavqmqhEkqner9"
+        },
+        {
+          "name": "Fritz K\u00f6lner",
+          "url": "https://open.spotify.com/artist/5kUq5J6UHtwVWgtrpE4zGh"
+        }
+      ],
+      "duration_ms": 257709,
+      "name": "Laufen",
+      "url": "https://open.spotify.com/track/3l09ozhFppcBhSXXalTtsf"
     },
     {
       "added_at": "2022-09-02 18:05:19",
@@ -831,6 +831,22 @@
     {
       "added_at": "2022-09-02 18:05:19",
       "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/0DNO6OZBhdVtJ8Q1D8ZiVY"
+      },
+      "artists": [
+        {
+          "name": "Stereo Express",
+          "url": "https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2"
+        }
+      ],
+      "duration_ms": 479075,
+      "name": "Rebirth",
+      "url": "https://open.spotify.com/track/2maR9zs9UfgQpB1hr9UjpS"
+    },
+    {
+      "added_at": "2022-09-02 18:05:19",
+      "album": {
         "name": "Love Language (Imad Remix)",
         "url": "https://open.spotify.com/album/598hbZikyOUZzrVMtZzS1W"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 362928,
       "name": "Love Language - Imad Remix",
       "url": "https://open.spotify.com/track/5iwU7eycAjBcJt1iccuxua"
-    },
-    {
-      "added_at": "2022-09-02 18:05:19",
-      "album": {
-        "name": "Rebirth",
-        "url": "https://open.spotify.com/album/0DNO6OZBhdVtJ8Q1D8ZiVY"
-      },
-      "artists": [
-        {
-          "name": "Stereo Express",
-          "url": "https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2"
-        }
-      ],
-      "duration_ms": 479075,
-      "name": "Rebirth",
-      "url": "https://open.spotify.com/track/2maR9zs9UfgQpB1hr9UjpS"
     },
     {
       "added_at": "2022-09-02 18:05:19",
@@ -907,6 +907,22 @@
     {
       "added_at": "2022-09-02 18:05:19",
       "album": {
+        "name": "If We Only Had",
+        "url": "https://open.spotify.com/album/6niJmh7Cz9YAwOEE2GjK7R"
+      },
+      "artists": [
+        {
+          "name": "Liam Mour",
+          "url": "https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0"
+        }
+      ],
+      "duration_ms": 305800,
+      "name": "If We Only Had",
+      "url": "https://open.spotify.com/track/2h5mbuL0DFueiKstOhEuDo"
+    },
+    {
+      "added_at": "2022-09-02 18:05:19",
+      "album": {
         "name": "Sint Maarten",
         "url": "https://open.spotify.com/album/1ScGb9mg9NXKEOWTMSkD7O"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 271351,
       "name": "Sint Maarten",
       "url": "https://open.spotify.com/track/00tIiOoqhX2RM5WTtKm9Ep"
-    },
-    {
-      "added_at": "2022-09-02 18:05:19",
-      "album": {
-        "name": "If We Only Had",
-        "url": "https://open.spotify.com/album/6niJmh7Cz9YAwOEE2GjK7R"
-      },
-      "artists": [
-        {
-          "name": "Liam Mour",
-          "url": "https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0"
-        }
-      ],
-      "duration_ms": 305800,
-      "name": "If We Only Had",
-      "url": "https://open.spotify.com/track/2h5mbuL0DFueiKstOhEuDo"
     },
     {
       "added_at": "2022-09-02 18:05:19",
@@ -1035,30 +1035,6 @@
     {
       "added_at": "2022-09-02 18:05:19",
       "album": {
-        "name": "Voices Above",
-        "url": "https://open.spotify.com/album/2CPFql01jhAi4w9AvGLGTW"
-      },
-      "artists": [
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        },
-        {
-          "name": "Malone",
-          "url": "https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM"
-        },
-        {
-          "name": "Archila",
-          "url": "https://open.spotify.com/artist/3XAGebwIZIMFUt0ZgnXOwh"
-        }
-      ],
-      "duration_ms": 190942,
-      "name": "Voices Above",
-      "url": "https://open.spotify.com/track/62fX7oJFfJp4g1b3LShSqf"
-    },
-    {
-      "added_at": "2022-09-02 18:05:19",
-      "album": {
         "name": "Donde Chile",
         "url": "https://open.spotify.com/album/2jerpv6SvJNbLNflSwg1MW"
       },
@@ -1115,6 +1091,30 @@
     {
       "added_at": "2022-09-02 18:05:19",
       "album": {
+        "name": "Voices Above",
+        "url": "https://open.spotify.com/album/2CPFql01jhAi4w9AvGLGTW"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "name": "Malone",
+          "url": "https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM"
+        },
+        {
+          "name": "Archila",
+          "url": "https://open.spotify.com/artist/3XAGebwIZIMFUt0ZgnXOwh"
+        }
+      ],
+      "duration_ms": 190942,
+      "name": "Voices Above",
+      "url": "https://open.spotify.com/track/62fX7oJFfJp4g1b3LShSqf"
+    },
+    {
+      "added_at": "2022-09-02 18:05:19",
+      "album": {
         "name": "Monsoon EP",
         "url": "https://open.spotify.com/album/6AyysfbORoo6avgs9tfTvg"
       },
@@ -1127,22 +1127,6 @@
       "duration_ms": 222947,
       "name": "Monsoon",
       "url": "https://open.spotify.com/track/1FgxefL0BLVL5nsteC1Qva"
-    },
-    {
-      "added_at": "2022-09-02 18:05:19",
-      "album": {
-        "name": "Sun Salutations EP",
-        "url": "https://open.spotify.com/album/5mhCg9ohnm2214WyLoFXss"
-      },
-      "artists": [
-        {
-          "name": "Breach",
-          "url": "https://open.spotify.com/artist/2MMkuQE0f6CDaamJdWXaCC"
-        }
-      ],
-      "duration_ms": 484645,
-      "name": "Sun Salutations",
-      "url": "https://open.spotify.com/track/75ZMW4hqyXQ2TgF6pL1Giz"
     },
     {
       "added_at": "2022-09-02 18:05:19",
@@ -1163,6 +1147,22 @@
     {
       "added_at": "2022-09-02 18:05:19",
       "album": {
+        "name": "Sun Salutations EP",
+        "url": "https://open.spotify.com/album/5mhCg9ohnm2214WyLoFXss"
+      },
+      "artists": [
+        {
+          "name": "Breach",
+          "url": "https://open.spotify.com/artist/2MMkuQE0f6CDaamJdWXaCC"
+        }
+      ],
+      "duration_ms": 484645,
+      "name": "Sun Salutations",
+      "url": "https://open.spotify.com/track/75ZMW4hqyXQ2TgF6pL1Giz"
+    },
+    {
+      "added_at": "2022-09-02 18:05:19",
+      "album": {
         "name": "Oxygen (Klangkarussell Remix)",
         "url": "https://open.spotify.com/album/23cEdoCOAqdRGdLoQZsTR5"
       },
@@ -1179,6 +1179,30 @@
       "duration_ms": 739700,
       "name": "Oxygen - Klangkarussell Remix",
       "url": "https://open.spotify.com/track/6EukA3G83UulqI7NzpEEtG"
+    },
+    {
+      "added_at": "2022-09-02 18:05:19",
+      "album": {
+        "name": "Downtown EP",
+        "url": "https://open.spotify.com/album/5bZGoM751YhCKPibQpUCrl"
+      },
+      "artists": [
+        {
+          "name": "Literatura",
+          "url": "https://open.spotify.com/artist/50Nc8VBlHSdkoUyzJtDmnc"
+        },
+        {
+          "name": "Stereo MC's",
+          "url": "https://open.spotify.com/artist/1k8VBufn1nBs8LN9n4snc8"
+        },
+        {
+          "name": "Junket",
+          "url": "https://open.spotify.com/artist/1bQ7x7BvGHp7450Mqb239d"
+        }
+      ],
+      "duration_ms": 464628,
+      "name": "Downtown",
+      "url": "https://open.spotify.com/track/6BiXzWCVJwTUT4fFLuDNeM"
     },
     {
       "added_at": "2022-09-02 18:05:19",
@@ -1219,26 +1243,22 @@
     {
       "added_at": "2022-09-02 18:05:19",
       "album": {
-        "name": "Downtown EP",
-        "url": "https://open.spotify.com/album/5bZGoM751YhCKPibQpUCrl"
+        "name": "Cool Air",
+        "url": "https://open.spotify.com/album/69R2lqNZBrVmn4iRCnpAHq"
       },
       "artists": [
         {
-          "name": "Literatura",
-          "url": "https://open.spotify.com/artist/50Nc8VBlHSdkoUyzJtDmnc"
+          "name": "DJ Counselling",
+          "url": "https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac"
         },
         {
-          "name": "Stereo MC's",
-          "url": "https://open.spotify.com/artist/1k8VBufn1nBs8LN9n4snc8"
-        },
-        {
-          "name": "Junket",
-          "url": "https://open.spotify.com/artist/1bQ7x7BvGHp7450Mqb239d"
+          "name": "Allie Donelly",
+          "url": "https://open.spotify.com/artist/5XZGB0O2VrWW8PkulhNjcC"
         }
       ],
-      "duration_ms": 464628,
-      "name": "Downtown",
-      "url": "https://open.spotify.com/track/6BiXzWCVJwTUT4fFLuDNeM"
+      "duration_ms": 270506,
+      "name": "Cool Air",
+      "url": "https://open.spotify.com/track/3JNaX9HIye0QI4cnWhLHDY"
     },
     {
       "added_at": "2022-09-02 18:05:19",
@@ -1263,22 +1283,22 @@
     {
       "added_at": "2022-09-02 18:05:19",
       "album": {
-        "name": "Cool Air",
-        "url": "https://open.spotify.com/album/69R2lqNZBrVmn4iRCnpAHq"
+        "name": "megapunk (remixes)",
+        "url": "https://open.spotify.com/album/5bDFznntVIsvDmvjnzjaEs"
       },
       "artists": [
         {
-          "name": "DJ Counselling",
-          "url": "https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac"
+          "name": "Ela Minus",
+          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
         },
         {
-          "name": "Allie Donelly",
-          "url": "https://open.spotify.com/artist/5XZGB0O2VrWW8PkulhNjcC"
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
         }
       ],
-      "duration_ms": 270506,
-      "name": "Cool Air",
-      "url": "https://open.spotify.com/track/3JNaX9HIye0QI4cnWhLHDY"
+      "duration_ms": 280806,
+      "name": "megapunk - TSHA Remix",
+      "url": "https://open.spotify.com/track/1d87n4WnUawIAyqAEGn6ps"
     },
     {
       "added_at": "2022-09-02 18:05:19",
@@ -1299,26 +1319,6 @@
       "duration_ms": 388783,
       "name": "Temperament of the Beat",
       "url": "https://open.spotify.com/track/2d7TJXGNI2nvyWF51CLFkJ"
-    },
-    {
-      "added_at": "2022-09-02 18:05:19",
-      "album": {
-        "name": "megapunk (remixes)",
-        "url": "https://open.spotify.com/album/5bDFznntVIsvDmvjnzjaEs"
-      },
-      "artists": [
-        {
-          "name": "Ela Minus",
-          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
-        },
-        {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        }
-      ],
-      "duration_ms": 280806,
-      "name": "megapunk - TSHA Remix",
-      "url": "https://open.spotify.com/track/1d87n4WnUawIAyqAEGn6ps"
     },
     {
       "added_at": "2022-09-02 18:05:19",

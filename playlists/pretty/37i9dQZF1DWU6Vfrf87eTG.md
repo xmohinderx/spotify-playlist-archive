@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6Vfrf87eTG.md) - [plain]
 
 > Zone in \(or out\) with ethereal, meditative instrumental indie folk and acoustic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 680,477 likes - 115 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 680,468 likes - 115 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6Vfrf87eTG.md) - [plain]
 | 29 | [Intro](https://open.spotify.com/track/2tJ5nxeNIFTNGSqyFvG8Ov) | [Sea Wolf](https://open.spotify.com/artist/3ZllGjNdP5pS8UFnT5Jj2x) | [Song Spells, No.1: Cedarsmoke](https://open.spotify.com/album/3Q4S1bRlEEeztfrM4KsMFQ) | 2:20 |
 | 30 | [Gone Clear](https://open.spotify.com/track/7LlduV4mdMfYtzSpbal1yg) | [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py) | [Modern Country](https://open.spotify.com/album/64esKG7wBOEr573Zp77cUT) | 6:07 |
 | 31 | [Can the Gwot Save Us?](https://open.spotify.com/track/5rNaSws9k7wzVLOyJ508IO) | [Kaki King](https://open.spotify.com/artist/1s2pki7lATUaBOL76E3vCV) | [Legs to Make us Longer](https://open.spotify.com/album/2gAagCBpgV4wa8KBMUBYWL) | 4:20 |
-| 32 | [Perfect Instance](https://open.spotify.com/track/69KvYHBTocvA6jLNN7WbQk) | [City of the Sun](https://open.spotify.com/artist/4DkYxtaASIKQnk4Gj0TB7k) | [Untitled \- EP](https://open.spotify.com/album/6c7IDc8WjdO2PQus1sARLI) | 4:13 |
+| 32 | [Perfect Instance](https://open.spotify.com/track/5VjkEwgF2agFKl61bjfeVS) | [City of the Sun](https://open.spotify.com/artist/4DkYxtaASIKQnk4Gj0TB7k) | [Untitled EP](https://open.spotify.com/album/6brySDNa2Z5to1l8md5N5m) | 4:13 |
 | 33 | [Elk River](https://open.spotify.com/track/75s7uFrBUhwHH4sVbsSn0a) | [Six Organs Of Admittance](https://open.spotify.com/artist/5jX8L7D6vWHYlNj9k361vI) | [For Octavio Paz](https://open.spotify.com/album/1KsF9degqPu3DEJTQLalNI) | 3:11 |
 | 34 | [Masollan](https://open.spotify.com/track/3F8K6njJIKvuMkAzItLzDz) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [Stranger](https://open.spotify.com/album/2DQgDdMRNtvMKVEoFPdNFy) | 5:13 |
 | 35 | [They Fixed The Broken Windmill Today](https://open.spotify.com/track/6kVGpBhaHX3PQWaQ7tEpe4) | [Six Organs Of Admittance](https://open.spotify.com/artist/5jX8L7D6vWHYlNj9k361vI) | [For Octavio Paz](https://open.spotify.com/album/1KsF9degqPu3DEJTQLalNI) | 7:18 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6Vfrf87eTG.md) - [plain]
 | 114 | [\(Interlude\)](https://open.spotify.com/track/6KzRwSrGHZVYn7rfSIAC0g) | [Delta Spirit](https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V) | [Into The Wide](https://open.spotify.com/album/4hWx4cKcQKjq6uNGRJAnfL) | 1:21 |
 | 115 | [Silence Is Sincerity](https://open.spotify.com/track/73hk94lqe5AE2B4heXzivd) | [Blake Mills](https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR) | [Heigh Ho](https://open.spotify.com/album/05oav7mCaoTnTpuIFSv7T6) | 1:12 |
 
-Snapshot ID: `MTYxNTMxNzY2NiwwMDAwMDAwMDk4YjE0MjIwMDNiNTlmZDNmZTU4MmY3OTZiYTUwYTVh`
+Snapshot ID: `MTYxNTMxNzY2NiwwMDAwMDAwMGU4YzE1OTExZWYyMDBmZmY1N2JhMmFmZWZkNTk4YzMy`

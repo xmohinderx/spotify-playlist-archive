@@ -2,9 +2,9 @@
 
 ### [Cloud Rap](https://open.spotify.com/playlist/37i9dQZF1DX5jNEiuvPyWr)
 
-> Le meilleur du rap français version cloud\. Photo : Seth Sad
+> Le meilleur du rap français version cloud\. Photo : Binks Beatz & Laylow
 
-68 songs - 3 hr 37 min - [published](https://open.spotify.com/playlist/5hZd800bY7alcQHZCY6dmZ)
+69 songs - 3 hr 41 min - [published](https://open.spotify.com/playlist/5hZd800bY7alcQHZCY6dmZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Comme ça](https://open.spotify.com/track/4bOdmHfgSw7e0ZrwgOHbqz) | [Le Club](https://open.spotify.com/artist/4PlMVWxO3DGtAvMwbXgctQ) | [Sans rancune](https://open.spotify.com/album/5mUSYIz36ISQy7PjJUHB2b) | 2:42 | 2022-07-28 |  |
 | [COMPLIQUÉ](https://open.spotify.com/track/0OTmlCY3Ufhkjl5pmtlZXt) | [Dehmo](https://open.spotify.com/artist/5oM4ylX9mgzyzDD6yYPUal) | [PŒTIC BENDO II](https://open.spotify.com/album/56VCAtiAOS6dDVfxuP8eeT) | 3:56 | 2022-07-14 | 2022-09-09 |
 | [Demain c'est loin](https://open.spotify.com/track/1D7p8EN4kDXCUN0yN8KBr9) | [Blasko](https://open.spotify.com/artist/0fUBKEXCJYmCr9vrI66NEJ), [Softo](https://open.spotify.com/artist/58WoaFxsPISuJ0iCyfizNp) | [Demain c'est loin](https://open.spotify.com/album/2s95ruN0TdxyE8nXyZepeq) | 3:41 | 2022-08-25 |  |
+| [Dennis Rodman \(feat\. Laylow\)](https://open.spotify.com/track/4Sg6iFX0yKvTO1aGKB8sWL) | [Binks Beatz](https://open.spotify.com/artist/7BO3t7j5tGn3OISCrYgLnJ), [Laylow](https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S) | [Drip Music 2](https://open.spotify.com/album/5eYz4YuKj5vLWzXdOqxL3d) | 3:57 | 2022-09-15 |  |
 | [Dernier Etage](https://open.spotify.com/track/4cEmTY9s8re8z5Lg9u3uXH) | [Yaro](https://open.spotify.com/artist/09E5z6upwkmwTKX8LGQgMo), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Tout Droit](https://open.spotify.com/album/2wMNxWbAEvAiAuX6rPH5Ux) | 3:30 | 2022-07-14 |  |
 | [Dope](https://open.spotify.com/track/50Iv0gsXTFbPQnrtbkHK85) | [Kekra](https://open.spotify.com/artist/20pbz4TbpkBUr5JwYfGgPS) | [Dope](https://open.spotify.com/album/2cs5rAaux06NIbxlogq5Ek) | 3:33 | 2022-07-14 | 2022-09-09 |
 | [DOPE & FLOW](https://open.spotify.com/track/2dOi529NdZixLZi28PtJg4) | [F430](https://open.spotify.com/artist/11ajgggOI6hGjR8CF53mhG), [La Pépite](https://open.spotify.com/artist/2Ago4l6T5ldhK0qjc9iSvV) | [DOPE & FLOW](https://open.spotify.com/album/2biOQGpjx79yaXymKlJVcz) | 2:46 | 2022-07-28 |  |
@@ -52,7 +53,7 @@
 | [Maintenant](https://open.spotify.com/track/7dqUEX8cUv22oiK6UHFZMn) | [S\-Crew](https://open.spotify.com/artist/1HhXce8PpMmaKjBIWzAxWc) | [SZR 2001](https://open.spotify.com/album/2kkaNm9FAqoUVhazyqobac) | 3:01 | 2022-07-14 |  |
 | [Mami \(feat\. Chily\)](https://open.spotify.com/track/6WEz8nj3m2CfFUidjIKamm) | [H\-LO](https://open.spotify.com/artist/0Jb7Eilus8BTQdmRVupCeV), [Chily](https://open.spotify.com/artist/0mnNM5o7vtxo3ivC7Tmoah) | [PAS ENCORE UNE STAR](https://open.spotify.com/album/1xV4ofPWx0eeligHNeBGHc) | 3:14 | 2022-07-14 | 2022-08-26 |
 | [Medellín](https://open.spotify.com/track/5A6krUMRdMEHE2XT1qaBFB) | [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7) | [Fissure de vie](https://open.spotify.com/album/1jDCzsViwRa0trfppiwWTC) | 3:13 | 2022-07-14 | 2022-08-19 |
-| [Miracle](https://open.spotify.com/track/7gLIgciyl0LiLeX7LXAACB) | [Chanje](https://open.spotify.com/artist/5BZQ1LKKtw3uu6NIJdlU4Y), [EDGE](https://open.spotify.com/artist/0ZCX1rGywF2LATUUCq0nOg) | [Miracle](https://open.spotify.com/album/3ApUvBtVEP475jtilOY4jy) | 2:58 | 2022-07-14 |  |
+| [Miracle](https://open.spotify.com/track/7gLIgciyl0LiLeX7LXAACB) | [Chanje](https://open.spotify.com/artist/5BZQ1LKKtw3uu6NIJdlU4Y), [EDGE](https://open.spotify.com/artist/0ZCX1rGywF2LATUUCq0nOg) | [Miracle](https://open.spotify.com/album/3ApUvBtVEP475jtilOY4jy) | 2:58 | 2022-07-14 | 2022-09-16 |
 | [MONEYBAG](https://open.spotify.com/track/4o68P6N8JucUg9apYhAtF9) | [DMS](https://open.spotify.com/artist/5uo0xw2Agih4NcDVajOd6e), [EDGE](https://open.spotify.com/artist/0ZCX1rGywF2LATUUCq0nOg) | [YEYEYE](https://open.spotify.com/album/4cYBgxMkPwZ73VNC4Uy5Jv) | 3:09 | 2022-07-28 |  |
 | [New Flow](https://open.spotify.com/track/7wcvpuqOwffUGKXydc5Ngn) | [91 All Stars](https://open.spotify.com/artist/2NXFKDjgSuIyiUUH2PEVHG), [F430](https://open.spotify.com/artist/11ajgggOI6hGjR8CF53mhG) | [91 ALL STARS](https://open.spotify.com/album/67RktnRUQzkN9ZM8VAsakU) | 3:05 | 2022-07-14 |  |
 | [Nouveau chapitre](https://open.spotify.com/track/03qW1EfTMxq4f3S2VUh6QV) | [Sasso](https://open.spotify.com/artist/35B6bq5keTR1PYEahq1TAF) | [Enfant2LaRue Vol.3](https://open.spotify.com/album/35rQ31nB2TM6sZLDvfIvtH) | 3:14 | 2022-08-25 |  |

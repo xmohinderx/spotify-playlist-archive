@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 
 > The very best Rai hits\. Cover: Cheb Bello.
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,593 likes - 50 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,684 likes - 50 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,11 +14,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 | 4 | [Sghira Ou Hara](https://open.spotify.com/track/0L7LlOENW6UuOr52zcaYPE) | [Hichem Smati](https://open.spotify.com/artist/4NqyeNqz4XfIeEWrXPknYJ), [Samy](https://open.spotify.com/artist/10bINesF7eZDORpkyHYQFD) | [Sghira Ou Hara](https://open.spotify.com/album/2XA7CTMcjG9n6JuQw5oIDv) | 4:49 |
 | 5 | [Cha3ra Wendir Avc](https://open.spotify.com/track/4212sW8gzoojsEClN5LI8L) | [Amine Matlo](https://open.spotify.com/artist/2aFfUpawrHEPOQHzCXMUMZ) | [Cha3ra Wendir Avc](https://open.spotify.com/album/3OY3BSh6ltSis4Q2AT7dD7) | 6:32 |
 | 6 | [Manich Adouk](https://open.spotify.com/track/0LFZgd1oDmLTDJMFXfICTZ) | [Houari Bouha](https://open.spotify.com/artist/4STSUAUL17QqyZgMhAjCct) | [Ravda](https://open.spotify.com/album/1rcOZ8jdW4UZZNKWaR4nyW) | 5:06 |
-| 7 | [Rohou Hawlouha \\ Rani Mtwahchha](https://open.spotify.com/track/6Of36mRcQXOZUhNFOeMg3t) | [Didou Parisien](https://open.spotify.com/artist/2LWOOorT0uVplVdL6CRncj) | [Rohou Hawlouha \\ Rani Mtwahchha](https://open.spotify.com/album/2IuSc2fo9KnuZ8JhJB4MxH) | 8:58 |
-| 8 | [3inehom Mesawsa](https://open.spotify.com/track/1jlbsu52lXFfz9rE6VWwId) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [Cheb Bello](https://open.spotify.com/album/0gstmykgUKTD2dV6QKWuV0) | 3:50 |
-| 9 | [Allo Gatli Nsani](https://open.spotify.com/track/121uD1clN6btttnxb2K9Dt) | [Bousmaha Mohamed](https://open.spotify.com/artist/4LXU4M55DQHiOs974bOJ2Q), [amine la colombe](https://open.spotify.com/artist/38ODAyQq6fM934Xv9vCjoX) | [Allo Gatli Nsani](https://open.spotify.com/album/17OmiViuVUN1ejZmVY9cl7) | 5:33 |
-| 10 | [Khada3a Spécialiste](https://open.spotify.com/track/2jD3erMPrQVxnVXRRGLutg) | [Cheb Djalil](https://open.spotify.com/artist/4ZzMtjQsjtaAOm3GPqmjeQ) | [Khada3a Spécialiste](https://open.spotify.com/album/51DtZ6PI6AjWTx6N8L6EYH) | 5:08 |
-| 11 | [Nabghi Nhawas](https://open.spotify.com/track/2u8hovFZoxDdTAMmgHsiMi) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh), [DJ Moulay](https://open.spotify.com/artist/3RHFZVCcl94jZRgIT51Yig) | [Nabghi Nhawas](https://open.spotify.com/album/197oMQkYh9nl8SqTrCUM19) | 4:34 |
+| 7 | [Nabghi Nhawas](https://open.spotify.com/track/2u8hovFZoxDdTAMmgHsiMi) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh), [DJ Moulay](https://open.spotify.com/artist/3RHFZVCcl94jZRgIT51Yig) | [Nabghi Nhawas](https://open.spotify.com/album/197oMQkYh9nl8SqTrCUM19) | 4:34 |
+| 8 | [Rohou Hawlouha \\ Rani Mtwahchha](https://open.spotify.com/track/6Of36mRcQXOZUhNFOeMg3t) | [Didou Parisien](https://open.spotify.com/artist/2LWOOorT0uVplVdL6CRncj) | [Rohou Hawlouha \\ Rani Mtwahchha](https://open.spotify.com/album/2IuSc2fo9KnuZ8JhJB4MxH) | 8:58 |
+| 9 | [3inehom Mesawsa](https://open.spotify.com/track/1jlbsu52lXFfz9rE6VWwId) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [Cheb Bello](https://open.spotify.com/album/0gstmykgUKTD2dV6QKWuV0) | 3:50 |
+| 10 | [Allo Gatli Nsani](https://open.spotify.com/track/121uD1clN6btttnxb2K9Dt) | [Bousmaha Mohamed](https://open.spotify.com/artist/4LXU4M55DQHiOs974bOJ2Q), [amine la colombe](https://open.spotify.com/artist/38ODAyQq6fM934Xv9vCjoX) | [Allo Gatli Nsani](https://open.spotify.com/album/17OmiViuVUN1ejZmVY9cl7) | 5:33 |
+| 11 | [Khada3a Spécialiste](https://open.spotify.com/track/2jD3erMPrQVxnVXRRGLutg) | [Cheb Djalil](https://open.spotify.com/artist/4ZzMtjQsjtaAOm3GPqmjeQ) | [Khada3a Spécialiste](https://open.spotify.com/album/51DtZ6PI6AjWTx6N8L6EYH) | 5:08 |
 | 12 | [Nakareen El Khir](https://open.spotify.com/track/73dNejNw458nkrl9ZxZq36) | [Amine 31](https://open.spotify.com/artist/1FAQqzHTQMSqyDsYCzN6o9) | [Nakareen El Khir](https://open.spotify.com/album/29NpPCEDfXbrTV7Ok4zviR) | 4:58 |
 | 13 | [Maghboun Wahdi](https://open.spotify.com/track/53jIJkxsMot3n7Reolf6QO) | [Cheb Djalil](https://open.spotify.com/artist/4ZzMtjQsjtaAOm3GPqmjeQ), [Hichem Smati](https://open.spotify.com/artist/4NqyeNqz4XfIeEWrXPknYJ) | [Maghboun Wahdi](https://open.spotify.com/album/1I8PsxRrpOrwub7GJjYzT6) | 3:27 |
 | 14 | [Dima Yesrali](https://open.spotify.com/track/4dnlVlHo17KfhKAcetdkPB) | [Cheb Wahid](https://open.spotify.com/artist/41pjPOVGlvetRYm4xx7bYw) | [Dima Yesrali](https://open.spotify.com/album/0LjnnpTnbeZqKwpElPPHKV) | 4:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 | 49 | [Ga3 Li Srali](https://open.spotify.com/track/4VwGNd7gYBkudOycgXZWpF) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Ga3 Li Srali](https://open.spotify.com/album/2UIsgooFCMOW5g3cVIH6lX) | 3:34 |
 | 50 | [Chira brune](https://open.spotify.com/track/5ykL3LdQ7Ls8T2Ii2YMmfG) | [Cheb Mourad](https://open.spotify.com/artist/2zjXHi6RZyaS2t0P1BrxBs) | [Chira brune](https://open.spotify.com/album/2mF9wTY2zWXkU1SczMu1nl) | 8:52 |
 
-Snapshot ID: `MTY2Mjg4MjAzNCwwMDAwMDAwMDJmMGVhODIwYmNkODllYzQ4YzY4OGRhMTM4NTk5OWQ2`
+Snapshot ID: `MTY2MzIyODcyNSwwMDAwMDAwMDU2MjIyMzhjODhkMmYyOWViMTEwY2ViZTMyMjc5NmJk`

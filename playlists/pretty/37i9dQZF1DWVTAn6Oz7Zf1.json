@@ -1,12 +1,12 @@
 {
   "description": "Cerchi energie e buona musica? Prova con la nostra playlist!",
-  "num_followers": 166271,
+  "num_followers": 166276,
   "original_name": "Una Carica di Espresso!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5NjA2MCwwMDAwMDAwMDBhN2E5NzhlNDExNmYwZjQ1MTdiOWMzYWIyODRhZGYy",
+  "snapshot_id": "MTY2MjY5NjA2MCwwMDAwMDAwMDFmOGQwYjI5NjIxNjE3YzA0MjBkNjY2ODZkNzdlZjRl",
   "tracks": [
     {
       "added_at": "2022-09-09 04:01:00",
@@ -151,22 +151,6 @@
     {
       "added_at": "2022-09-09 04:01:00",
       "album": {
-        "name": "The Business",
-        "url": "https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "The Business",
-      "url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN"
-    },
-    {
-      "added_at": "2022-09-09 04:01:00",
-      "album": {
         "name": "B.O.T.A. (Baddest Of Them All)",
         "url": "https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 226626,
       "name": "B.O.T.A. (Baddest Of Them All) - Edit",
       "url": "https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft"
+    },
+    {
+      "added_at": "2022-09-09 04:01:00",
+      "album": {
+        "name": "The Business",
+        "url": "https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "The Business",
+      "url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN"
     },
     {
       "added_at": "2022-09-09 04:01:00",
@@ -535,26 +535,6 @@
     {
       "added_at": "2022-09-09 04:01:00",
       "album": {
-        "name": "Bulletproof",
-        "url": "https://open.spotify.com/album/5TSSlGJmfkBNC4M3uoMswL"
-      },
-      "artists": [
-        {
-          "name": "La Roux",
-          "url": "https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA"
-        },
-        {
-          "name": "GAMPER & DADONI",
-          "url": "https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J"
-        }
-      ],
-      "duration_ms": 162213,
-      "name": "Bulletproof",
-      "url": "https://open.spotify.com/track/0SyxZC4wlqAwf20cHE6Xon"
-    },
-    {
-      "added_at": "2022-09-09 04:01:00",
-      "album": {
         "name": "Everything But You (feat. A7S)",
         "url": "https://open.spotify.com/album/0pRwjoHpYyvVuf6cF3shYg"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 198014,
       "name": "Everything But You (feat. A7S)",
       "url": "https://open.spotify.com/track/2wVQcA1YCuGL6EW0QbgVoV"
+    },
+    {
+      "added_at": "2022-09-09 04:01:00",
+      "album": {
+        "name": "Bulletproof",
+        "url": "https://open.spotify.com/album/5TSSlGJmfkBNC4M3uoMswL"
+      },
+      "artists": [
+        {
+          "name": "La Roux",
+          "url": "https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA"
+        },
+        {
+          "name": "GAMPER & DADONI",
+          "url": "https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J"
+        }
+      ],
+      "duration_ms": 162213,
+      "name": "Bulletproof",
+      "url": "https://open.spotify.com/track/0SyxZC4wlqAwf20cHE6Xon"
     },
     {
       "added_at": "2022-09-09 04:01:00",
@@ -911,26 +911,6 @@
     {
       "added_at": "2022-09-09 04:01:00",
       "album": {
-        "name": "Fading Like A Flower",
-        "url": "https://open.spotify.com/album/5wFmirRzEpKhkN1zQR73tT"
-      },
-      "artists": [
-        {
-          "name": "Roxette",
-          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
-        },
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 145807,
-      "name": "Fading Like A Flower",
-      "url": "https://open.spotify.com/track/5THQw2QDTWwOP1Hj543Rb2"
-    },
-    {
-      "added_at": "2022-09-09 04:01:00",
-      "album": {
         "name": "Euphoric Sad Songs",
         "url": "https://open.spotify.com/album/7u2byARDMi8YgqSVhKArYB"
       },
@@ -947,6 +927,26 @@
       "duration_ms": 197573,
       "name": "Regardless",
       "url": "https://open.spotify.com/track/3DTqHfTGj1c6y2gDXsTez4"
+    },
+    {
+      "added_at": "2022-09-09 04:01:00",
+      "album": {
+        "name": "Fading Like A Flower",
+        "url": "https://open.spotify.com/album/5wFmirRzEpKhkN1zQR73tT"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 145807,
+      "name": "Fading Like A Flower",
+      "url": "https://open.spotify.com/track/5THQw2QDTWwOP1Hj543Rb2"
     },
     {
       "added_at": "2022-09-09 04:01:00",
@@ -975,6 +975,26 @@
     {
       "added_at": "2022-09-09 04:01:00",
       "album": {
+        "name": "Bruises EP",
+        "url": "https://open.spotify.com/album/3bAq5agU2IUDfDuO4w50aR"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        },
+        {
+          "name": "Steve Void",
+          "url": "https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt"
+        }
+      ],
+      "duration_ms": 212280,
+      "name": "Bruises - Steve Void Remix",
+      "url": "https://open.spotify.com/track/4raMIjIjMc8JohHth7l9lG"
+    },
+    {
+      "added_at": "2022-09-09 04:01:00",
+      "album": {
         "name": "Peru (R3HAB Remix)",
         "url": "https://open.spotify.com/album/4aJ4phZnjQ1LQC8erkLOi4"
       },
@@ -995,26 +1015,6 @@
       "duration_ms": 149752,
       "name": "Peru - R3HAB Remix",
       "url": "https://open.spotify.com/track/3kv0lHXKrW8oltTe7fYbBq"
-    },
-    {
-      "added_at": "2022-09-09 04:01:00",
-      "album": {
-        "name": "Bruises EP",
-        "url": "https://open.spotify.com/album/3bAq5agU2IUDfDuO4w50aR"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        },
-        {
-          "name": "Steve Void",
-          "url": "https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt"
-        }
-      ],
-      "duration_ms": 212280,
-      "name": "Bruises - Steve Void Remix",
-      "url": "https://open.spotify.com/track/4raMIjIjMc8JohHth7l9lG"
     },
     {
       "added_at": "2022-09-09 04:01:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2022-09-09 04:01:00",
       "album": {
-        "name": "Madan (King)",
-        "url": "https://open.spotify.com/album/11JYg34EBPsGBnvvYc8wrU"
-      },
-      "artists": [
-        {
-          "name": "Bakermat",
-          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
-        }
-      ],
-      "duration_ms": 183609,
-      "name": "Madan (King)",
-      "url": "https://open.spotify.com/track/0wKfshpKa7P8eUiFdNM5oS"
-    },
-    {
-      "added_at": "2022-09-09 04:01:00",
-      "album": {
         "name": "Happy Machine",
         "url": "https://open.spotify.com/album/2iab1reuBluKDh3wspwu3e"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 135265,
       "name": "Real Love",
       "url": "https://open.spotify.com/track/4Juaa2ppIOYcSWbrVtcrNp"
+    },
+    {
+      "added_at": "2022-09-09 04:01:00",
+      "album": {
+        "name": "Madan (King)",
+        "url": "https://open.spotify.com/album/11JYg34EBPsGBnvvYc8wrU"
+      },
+      "artists": [
+        {
+          "name": "Bakermat",
+          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+        }
+      ],
+      "duration_ms": 183609,
+      "name": "Madan (King)",
+      "url": "https://open.spotify.com/track/0wKfshpKa7P8eUiFdNM5oS"
     },
     {
       "added_at": "2022-09-09 04:01:00",
@@ -1519,22 +1519,22 @@
     {
       "added_at": "2022-09-09 04:01:00",
       "album": {
-        "name": "Stronger (feat. Kesha)",
-        "url": "https://open.spotify.com/album/683szPAVY9vdNhI45ybBbP"
+        "name": "FOR\u039eV\u039eR (D\u039eLUX\u039e \u039eDITION)",
+        "url": "https://open.spotify.com/album/53F4qZCDBwulb9eoMuWHf2"
       },
       "artists": [
         {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
         },
         {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+          "name": "AR/CO",
+          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
         }
       ],
-      "duration_ms": 173714,
-      "name": "Stronger (feat. Kesha)",
-      "url": "https://open.spotify.com/track/4NctFqJyGAqurHFEUQvWgR"
+      "duration_ms": 173658,
+      "name": "Hot Air Balloon",
+      "url": "https://open.spotify.com/track/67p96tIoC4ESrod9kW331R"
     },
     {
       "added_at": "2022-09-09 04:01:00",
@@ -1587,22 +1587,22 @@
     {
       "added_at": "2022-09-09 04:01:00",
       "album": {
-        "name": "FOR\u039eV\u039eR (D\u039eLUX\u039e \u039eDITION)",
-        "url": "https://open.spotify.com/album/53F4qZCDBwulb9eoMuWHf2"
+        "name": "Stronger (feat. Kesha)",
+        "url": "https://open.spotify.com/album/683szPAVY9vdNhI45ybBbP"
       },
       "artists": [
         {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
         },
         {
-          "name": "AR/CO",
-          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
         }
       ],
-      "duration_ms": 173658,
-      "name": "Hot Air Balloon",
-      "url": "https://open.spotify.com/track/67p96tIoC4ESrod9kW331R"
+      "duration_ms": 173714,
+      "name": "Stronger (feat. Kesha)",
+      "url": "https://open.spotify.com/track/4NctFqJyGAqurHFEUQvWgR"
     },
     {
       "added_at": "2022-09-09 04:01:00",

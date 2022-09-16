@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2C6Zlz76Dq4.md) - [plain]
 
 > Country's legendary artists singing your favorite Christmas Classics\.  Cover: Dolly Parton
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,791 likes - 137 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,787 likes - 137 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2C6Zlz76Dq4.md) - [plain]
 | 66 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/5Nb04dWJfg1n1rZJ22jKr2) | [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [Let There Be Peace On Earth](https://open.spotify.com/album/6VYEg0G3aXwANUdI9knq1r) | 2:37 |
 | 67 | [All I Want for Christmas Is a Real Good Tan](https://open.spotify.com/track/0la64DF1pXfSU0Ff6EH8Cr) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [All I Want For Christmas Is A Real Good Tan](https://open.spotify.com/album/4vLpAl3eThYWwJCX0Ru3DD) | 4:38 |
 | 68 | [Winter Wonderland](https://open.spotify.com/track/0rnSw3KGSSCOZP43xBvhLW) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [It Won't Be Christmas Without You](https://open.spotify.com/album/682Ss8jlvCzMHTCNNfKSZp) | 2:58 |
-| 69 | [Rockin' Around The Christmas Tree \- Single Version](https://open.spotify.com/track/2yxTGxTDbgcbMN0Ae102bn) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Rockin' Around The Christmas Tree/The Decca Christmas Recordings](https://open.spotify.com/album/1gAceSZFd4irbzRRHLof8U) | 2:06 |
+| 69 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/2yxTGxTDbgcbMN0Ae102bn) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Rockin' Around The Christmas Tree/The Decca Christmas Recordings](https://open.spotify.com/album/1gAceSZFd4irbzRRHLof8U) | 2:06 |
 | 70 | [I Believe In Santa Claus](https://open.spotify.com/track/6w7Msb6AfJQz4iIyis9H7G) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4) | [Once Upon A Christmas](https://open.spotify.com/album/5JWR4pqfxra6JEeUqNMPO7) | 3:28 |
 | 71 | [Silver Bells](https://open.spotify.com/track/68I9uXiZHL4zIWVZhzjK0P) | [Anne Murray](https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E) | [Christmas](https://open.spotify.com/album/6bx85MDh5ikEz9JmjD5uqa) | 2:43 |
 | 72 | [Thank God For Kids](https://open.spotify.com/track/34VsKjn05WH1sJJSZ1ZGpL) | [The Oak Ridge Boys](https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos) | [Christmas](https://open.spotify.com/album/4ac9QHiSgPvgcCY6QZkhfR) | 2:32 |
@@ -108,7 +108,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2C6Zlz76Dq4.md) - [plain]
 | 98 | [Christmas for Every Boy and Girl](https://open.spotify.com/track/3nXpXEFKFegDkqT4RN25Qb) | [Clint Black](https://open.spotify.com/artist/3Ay15wt0QChT4Kapsuw5Jt) | [The Clint Black Christmas Collection](https://open.spotify.com/album/2F1CtdI1ERhG5Sufzevk3l) | 3:40 |
 | 99 | [At Christmas](https://open.spotify.com/track/1BtzAkndcmh0ef68sSuPvO) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [At Christmas](https://open.spotify.com/album/0d2rN27soyxNpL1c87aCKP) | 2:54 |
 | 100 | [I Wish It Would Snow](https://open.spotify.com/track/78pwKtHN83mApILvMcp2ZL) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [I Wish It Would Snow](https://open.spotify.com/album/6l7uq39brjSI3uEacWRkDP) | 2:45 |
-| 101 | [A Holly Jolly Christmas \- Single Version](https://open.spotify.com/track/4GVYLg1qHyToGonrFg9tgW) | [Burl Ives](https://open.spotify.com/artist/0MHgLfmQdutffmvWe5XBTN) | [Christmas With Burl Ives](https://open.spotify.com/album/4QYDkl2q6FVLDXiW5ybsEi) | 2:13 |
+| 101 | [A Holly Jolly Christmas](https://open.spotify.com/track/4GVYLg1qHyToGonrFg9tgW) | [Burl Ives](https://open.spotify.com/artist/0MHgLfmQdutffmvWe5XBTN) | [Christmas With Burl Ives](https://open.spotify.com/album/4QYDkl2q6FVLDXiW5ybsEi) | 2:13 |
 | 102 | [Santa Claus Is Comin' To Town](https://open.spotify.com/track/4y0WpCQRpLusnadYW1dDhr) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Let It Be Christmas](https://open.spotify.com/album/1IwTlARBAG1aVi9uIBmZqm) | 2:42 |
 | 103 | [Grandma Got Run over by a Reindeer](https://open.spotify.com/track/49iHYFjT5yO6WEw6KerX9o) | [Elmo & Patsy](https://open.spotify.com/artist/3Ubvmshojm0HJHWWr4C6GF) | [Grandma Got Run Over By A Reindeer](https://open.spotify.com/album/1Yb2OydAnf7uyfKeNs7awC) | 3:26 |
 | 104 | [Santa, I'm Right Here](https://open.spotify.com/track/16xYHsqJrCQb2B7v1JEGj2) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Christmas To Christmas](https://open.spotify.com/album/6AX5SzSiM9LKCCkoiWasTJ) | 4:39 |

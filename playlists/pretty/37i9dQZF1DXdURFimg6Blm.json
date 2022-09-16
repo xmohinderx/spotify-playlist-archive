@@ -1,12 +1,12 @@
 {
   "description": "Dance tracks for a big workout.",
-  "num_followers": 388862,
+  "num_followers": 388909,
   "original_name": "Beast Mode Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mjk5NDYyMywwMDAwMDAwMGVlMTE4MjM1NzlkOGRkYWNhZTQ5N2M3NDYyMzhkYzE4",
+  "snapshot_id": "MTY2Mjk5NDYyMywwMDAwMDAwMDEwNTY3NGNjZjYxN2Q3NWIzOTk0YzJhZTkxNTNkMjA5",
   "tracks": [
     {
       "added_at": "2022-09-12 14:57:03",
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-09-12 14:57:03",
       "album": {
-        "name": "Give It to Me",
-        "url": "https://open.spotify.com/album/7DWalymwKnLP4uE0wbdBIT"
-      },
-      "artists": [
-        {
-          "name": "Lucky Luke",
-          "url": "https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR"
-        }
-      ],
-      "duration_ms": 186239,
-      "name": "Give It To Me",
-      "url": "https://open.spotify.com/track/295xtgZ3JSGn94tYWbM5QG"
-    },
-    {
-      "added_at": "2022-09-12 14:57:03",
-      "album": {
         "name": "Miracle Maker",
         "url": "https://open.spotify.com/album/3yQSxYbAj2jrwAx7W7MIAU"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 188592,
       "name": "Miracle Maker",
       "url": "https://open.spotify.com/track/6txvQu0zUbiqG24A8XMLnK"
+    },
+    {
+      "added_at": "2022-09-12 14:57:03",
+      "album": {
+        "name": "Give It to Me",
+        "url": "https://open.spotify.com/album/7DWalymwKnLP4uE0wbdBIT"
+      },
+      "artists": [
+        {
+          "name": "Lucky Luke",
+          "url": "https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR"
+        }
+      ],
+      "duration_ms": 186239,
+      "name": "Give It To Me",
+      "url": "https://open.spotify.com/track/295xtgZ3JSGn94tYWbM5QG"
     },
     {
       "added_at": "2022-09-12 14:57:03",
@@ -1027,30 +1027,6 @@
     {
       "added_at": "2022-09-12 14:57:03",
       "album": {
-        "name": "Come Around Again",
-        "url": "https://open.spotify.com/album/312M1zzN7C2Vqd0VeORTMC"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Billen Ted",
-          "url": "https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82"
-        },
-        {
-          "name": "JC Stewart",
-          "url": "https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv"
-        }
-      ],
-      "duration_ms": 169108,
-      "name": "Come Around Again",
-      "url": "https://open.spotify.com/track/55Y4oE6oE6XBT2e71vK2yA"
-    },
-    {
-      "added_at": "2022-09-12 14:57:03",
-      "album": {
         "name": "These Nights",
         "url": "https://open.spotify.com/album/6VsiabIfqnY6VH8qJAJVPd"
       },
@@ -1087,6 +1063,30 @@
       "duration_ms": 198407,
       "name": "Always Be There",
       "url": "https://open.spotify.com/track/1PKqiewc0OyZVYxFz5ugbH"
+    },
+    {
+      "added_at": "2022-09-12 14:57:03",
+      "album": {
+        "name": "Come Around Again",
+        "url": "https://open.spotify.com/album/312M1zzN7C2Vqd0VeORTMC"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Billen Ted",
+          "url": "https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82"
+        },
+        {
+          "name": "JC Stewart",
+          "url": "https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv"
+        }
+      ],
+      "duration_ms": 169108,
+      "name": "Come Around Again",
+      "url": "https://open.spotify.com/track/55Y4oE6oE6XBT2e71vK2yA"
     },
     {
       "added_at": "2022-09-12 14:57:03",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2022-09-12 14:57:03",
       "album": {
+        "name": "I FEEL LIKE DANCING",
+        "url": "https://open.spotify.com/album/0qoQyU6bl0V7EeRaSscyZi"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        }
+      ],
+      "duration_ms": 225681,
+      "name": "I FEEL LIKE DANCING",
+      "url": "https://open.spotify.com/track/651YhrvzeVfOa8yIifIhUM"
+    },
+    {
+      "added_at": "2022-09-12 14:57:03",
+      "album": {
         "name": "Set You Free",
         "url": "https://open.spotify.com/album/1cQwMGOrpiXTdeot0bdplB"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 197760,
       "name": "The Calling",
       "url": "https://open.spotify.com/track/4ANmPUsA3LAvOSP8xen6Vt"
-    },
-    {
-      "added_at": "2022-09-12 14:57:03",
-      "album": {
-        "name": "I FEEL LIKE DANCING",
-        "url": "https://open.spotify.com/album/0qoQyU6bl0V7EeRaSscyZi"
-      },
-      "artists": [
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        }
-      ],
-      "duration_ms": 225681,
-      "name": "I FEEL LIKE DANCING",
-      "url": "https://open.spotify.com/track/651YhrvzeVfOa8yIifIhUM"
     },
     {
       "added_at": "2022-09-12 14:57:03",

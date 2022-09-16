@@ -4,7 +4,7 @@
 
 > Para ahogar las penas en el fondo de una botella.
 
-250 songs - 13 hr 23 min - [published](https://open.spotify.com/playlist/3TYdhPxDiPoy7PDMRCl5B2)
+251 songs - 13 hr 26 min - [published](https://open.spotify.com/playlist/3TYdhPxDiPoy7PDMRCl5B2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,7 @@
 | [Me Atrapaste](https://open.spotify.com/track/6LgRkAObJJUQEqV41szQ0R) | [Darío Gómez](https://open.spotify.com/artist/3JCyEziWwDZksR1WY8EckM) | [Nuestro Idolo](https://open.spotify.com/album/7eLhBVsqWVafqjsprtH6wH) | 3:46 | 2022-06-08 | 2022-07-29 |
 | [Me Bebi Lo del Mercado](https://open.spotify.com/track/4AQgGqE4gfkTy3Lr80QJh5) | [Jimmy Gutierrez](https://open.spotify.com/artist/7syZwIuF9tAkKQxNQLCosV) | [Pa' las Que Sea](https://open.spotify.com/album/2hqhyjxyk4pg98zs5jclim) | 3:39 | 2022-06-08 | 2022-07-29 |
 | [Me Bebí Tu Recuerdo](https://open.spotify.com/track/4qDw65LRA3tT1ZDmghkgFA) | [Galy Galiano](https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT) | [Me Bebi Tu Recuerdo](https://open.spotify.com/album/3th8wWPqpBjw4pzGuf0OqS) | 3:19 | 2022-06-08 |  |
-| [Me Caí De La Nube](https://open.spotify.com/track/3ZLsDOTN8cFjtQ9ctntKCC) | [Cornelio Reyna](https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx) | [15 Éxitazos](https://open.spotify.com/album/5mmZxvjnPHDjasQQ1F9514) | 2:49 | 2022-06-08 |  |
+| [Me Caí De La Nube](https://open.spotify.com/track/3ZLsDOTN8cFjtQ9ctntKCC) | [Cornelio Reyna](https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx) | [15 Éxitazos](https://open.spotify.com/album/5mmZxvjnPHDjasQQ1F9514) | 2:49 | 2022-06-08 | 2022-09-16 |
 | [Me Caí de la Nube](https://open.spotify.com/track/0mfb8sbASYjzvo2FDopyzl) | [Cornelio Reyna](https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx) | [Me Cai De La Nube](https://open.spotify.com/album/1L2kAZeGLcTnNuv4IVE5Tm) | 2:55 | 2022-06-08 | 2022-07-28 |
 | [Me Da Lo Mismo](https://open.spotify.com/track/220yXgkadQ5amhAdgRAlnl) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Me Da Lo Mismo](https://open.spotify.com/album/3gyF757c6nzibRCWttR1nS) | 4:06 | 2022-06-08 |  |
 | [Me Dices Que Te Vas](https://open.spotify.com/track/6VXqzMnQikuRryFNGDNCj5) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Me Dices Que Te Vas](https://open.spotify.com/album/3S3WtNgkODlIRcqcLMwo9a) | 2:25 | 2022-06-08 | 2022-07-28 |
@@ -189,6 +189,7 @@
 | [Probablemente](https://open.spotify.com/track/4prmUBle7TtAeeUgCnsc3Z) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Me Dejé Llevar](https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv) | 3:53 | 2022-06-08 | 2022-07-26 |
 | [Que Día Es Hoy](https://open.spotify.com/track/1pvRbM5u5mbxZd5wTJSWf6) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Con el Corazón](https://open.spotify.com/album/1qP4XLfcb3gW0bQiK2MQfV) | 2:59 | 2022-06-08 | 2022-07-29 |
 | [Que Mal Te Ves Sin Mí](https://open.spotify.com/track/6w81vVn9CNsnLA8SAj0HFp) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [No Pongan Esas Canciones](https://open.spotify.com/album/4OeAeEGVylQuuveGXvKi3k) | 3:19 | 2022-06-08 | 2022-07-28 |
+| [Que Seas Feliz](https://open.spotify.com/track/6AOt2y4PzYgiUapxCIrbfV) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Mexico en la Piel \(edicion diamante\)](https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM) | 3:05 | 2022-06-08 |  |
 | [Que Te Lo Crea Tu Madre](https://open.spotify.com/track/1FEH4cNvTNkBO5tM4mMyag) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Las Compuse para Ti](https://open.spotify.com/album/6MPAzfdQFWe5IadlxhcUNv) | 3:20 | 2022-06-08 | 2022-09-03 |
 | [Quererte Fue un Error](https://open.spotify.com/track/5h61BLRZDG7Jbu6CMcICdq) | [El Charrito Negro](https://open.spotify.com/artist/4e8vIrZBkqRocfY0TrT0s6) | [Mi Vida, Vol\. 1](https://open.spotify.com/album/2nyOU4QP9ba0hNUWfC2xkn) | 2:58 | 2022-06-08 | 2022-07-29 |
 | [Quién De Los Dos Será](https://open.spotify.com/track/66veRqqrxhfa1Q9088RmPS) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Mexicano Hasta Las Pampas](https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q) | 3:33 | 2022-06-08 |  |

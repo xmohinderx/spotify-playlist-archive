@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dJrNuyDEgy.md) - [plain]
 
 > Voz de la guitarra mía, al despertar la mañana, quiere cantar su alegría a mi tierra mexicana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,235 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,557 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

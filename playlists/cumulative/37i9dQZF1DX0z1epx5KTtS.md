@@ -2,12 +2,13 @@
 
 ### [Coupé Décalé](https://open.spotify.com/playlist/37i9dQZF1DX0z1epx5KTtS)
 
-> African dance party music from Paris to Abidjan\. Photo : Serge Beynaud
+> African dance party music from Paris to Abidjan\. Photo : DJ Arafat
 
-79 songs - 4 hr 46 min - [published](https://open.spotify.com/playlist/05NUJhg2S8ET7TkDhLag5G)
+80 songs - 4 hr 50 min - [published](https://open.spotify.com/playlist/05NUJhg2S8ET7TkDhLag5G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [Abacou](https://open.spotify.com/track/0BevQ6RCp7uHdi2s0GmtWn) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1), [Aboutou Roots](https://open.spotify.com/artist/4Mg9ctyuvtX852SAMNfLso) | [Abacou](https://open.spotify.com/album/5oko0ARkOH4fnLFuABsdqR) | 4:02 | 2022-09-15 |  |
 | [Abidjan puissance](https://open.spotify.com/track/2VnVzVwCt4oNK1nkMRMQ9E) | [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W) | [Abidjan puissance](https://open.spotify.com/album/70c8O1zxFqTPuR6AI8fckj) | 4:24 | 2021-12-20 |  |
 | [Bina Ngo](https://open.spotify.com/track/7xYzrfdekBpAH7c59wsg0s) | [Mwinda Mannekin](https://open.spotify.com/artist/6gIa2yUuciQy1hQQMk1o0l) | [Bina Ngo](https://open.spotify.com/album/2ovAbyHeQJgfTP4KQB8kd5) | 2:59 | 2021-12-20 | 2022-06-17 |
 | [Blô blô](https://open.spotify.com/track/6ktw0PV1l5NMC4eBPlZCbA) | [Bebi Philip](https://open.spotify.com/artist/4DPAkF8h2JInYO0wOLQhRt) | [Blô blô](https://open.spotify.com/album/5yuQacRLQLbtFRlDhaJM0t) | 3:30 | 2021-12-20 | 2022-05-27 |
@@ -79,7 +80,7 @@
 | [Toffole \(feat\. Koffi Olomidé\)](https://open.spotify.com/track/5SDXcxvvxGoLbfRKg8cX9x) | [Ariel Sheney](https://open.spotify.com/artist/7BrWXBFjUPeU8RNS3KL98b), [Koffi Olomide](https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb) | [Toffole \(feat\. Koffi Olomidé\)](https://open.spotify.com/album/6pFvsYQ82OZLx1t5dtIxlQ) | 3:54 | 2022-07-21 |  |
 | [Touche ici](https://open.spotify.com/track/7KNBqiP45FqWEpI4Gh91NU) | [Mix Premier](https://open.spotify.com/artist/36gxOWwXw9Im9ZiVVMO0XY) | [Touche ici](https://open.spotify.com/album/6whze3CYPWp0Wt797GKV0y) | 3:35 | 2021-12-20 |  |
 | [Tous des traîtres](https://open.spotify.com/track/0MMDVLU6OYcTs6xCRng6XE) | [DJ Arafat](https://open.spotify.com/artist/0ipkUaXENFuJxWcCFfXXQ8), [Ali le code](https://open.spotify.com/artist/518yrkCaPdKEvMi8vK3H9d), [Abomé léléfant](https://open.spotify.com/artist/7AUVEvmiJ2N8xH2ECTylBg) | [Tous des traîtres](https://open.spotify.com/album/3bhE5PPsIznSHjka6Di4cY) | 3:01 | 2022-08-04 |  |
-| [Tu peux lover](https://open.spotify.com/track/7tcJT6VP0YpmNeWfk7pig6) | [Dj Mulukuku](https://open.spotify.com/artist/6DpPYplFUGHXaSbPsQaeMn) | [Tu peux lover](https://open.spotify.com/album/5QJJYo2YbdKDG1dDeHIJTz) | 3:32 | 2022-06-02 |  |
+| [Tu peux lover](https://open.spotify.com/track/7tcJT6VP0YpmNeWfk7pig6) | [Dj Mulukuku](https://open.spotify.com/artist/6DpPYplFUGHXaSbPsQaeMn) | [Tu peux lover](https://open.spotify.com/album/5QJJYo2YbdKDG1dDeHIJTz) | 3:32 | 2022-06-02 | 2022-09-16 |
 | [Ventripotent](https://open.spotify.com/track/5zbEHbA8QzH4R3aHfOuEqm) | [DJ Arafat](https://open.spotify.com/artist/0ipkUaXENFuJxWcCFfXXQ8), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Renaissance](https://open.spotify.com/album/6c0kX3fNWwvnWCttIpJsg8) | 3:16 | 2021-12-20 | 2022-02-19 |
 | [Watterman](https://open.spotify.com/track/2WwolPx58TEp6qKRnwiuaM) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1), [David Eto'o](https://open.spotify.com/artist/6FTQrbUiUqltYJVuBne3a6) | [Watterman](https://open.spotify.com/album/19D7JqNkNDqahu9IketHmC) | 3:39 | 2022-05-05 | 2022-09-02 |
 | [Yo Pe \- Remix](https://open.spotify.com/track/16hivbAazfd7Li5o5WFguM) | [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Yo Pe \(Remix\)](https://open.spotify.com/album/7jwHAuki1wn7hb23CVhNYV) | 4:32 | 2021-12-20 | 2022-02-19 |

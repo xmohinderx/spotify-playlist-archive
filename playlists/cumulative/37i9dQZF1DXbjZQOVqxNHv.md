@@ -4,7 +4,7 @@
 
 > All the Intelligent Dance Music you'll need \(not necessarily to dance to\)\. Aphex Twin on cover.
 
-447 songs - 1 day 18 hr 32 min - [published](https://open.spotify.com/playlist/61jkU0pyUDv8PvEXLJtt4L)
+449 songs - 1 day 18 hr 36 min - [published](https://open.spotify.com/playlist/61jkU0pyUDv8PvEXLJtt4L)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,7 +154,7 @@
 | [Frosch](https://open.spotify.com/track/0Wo1zuzCZGSZfemRwzDIjf) | [Mouse On Mars](https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f) | [Vulvaland](https://open.spotify.com/album/5GFh1VWsv5TXj7CqLIXvsV) | 9:19 | 2022-04-13 | 2022-07-28 |
 | [Frosch](https://open.spotify.com/track/4PFAaMMu6Utdpx5WqRtAup) | [Mouse On Mars](https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f) | [Vulvaland](https://open.spotify.com/album/0vrWFaK9Cx73hVkQjGKuaZ) | 9:19 | 2022-04-13 |  |
 | [FRT3](https://open.spotify.com/track/5rMghWmSKXgk6XmpZlcL5e) | [The Fear Ratio](https://open.spotify.com/artist/6e6qkEsLUF72vmxPuQQPHG) | [Kasm01](https://open.spotify.com/album/4LPlZdxxGCkWJCn0pquO4V) | 2:54 | 2022-04-13 | 2022-07-24 |
-| [Funkstille](https://open.spotify.com/track/50FXdk6qPdRY9evGOHIMSJ) | [Funkstörung](https://open.spotify.com/artist/4K9tGGFyw0Rab8akZVBMQR) | [Funkentstört](https://open.spotify.com/album/6hJfvU83VJcPOUE38258U3) | 4:32 | 2022-04-13 |  |
+| [Funkstille](https://open.spotify.com/track/50FXdk6qPdRY9evGOHIMSJ) | [Funkstörung](https://open.spotify.com/artist/4K9tGGFyw0Rab8akZVBMQR) | [Funkentstört](https://open.spotify.com/album/6hJfvU83VJcPOUE38258U3) | 4:32 | 2022-04-13 | 2022-09-16 |
 | [Further Harm](https://open.spotify.com/track/1llf78TQoKoEfQ8rR3LiTB) | [The Black Dog](https://open.spotify.com/artist/7qdsk0UXx2jCX7jbp6rxeq) | [Spanners](https://open.spotify.com/album/2xP369vU8kb1QJWIT9vSFH) | 6:21 | 2022-04-13 | 2022-07-27 |
 | [Future Dub](https://open.spotify.com/track/1hhBMaYfwSKqGlsZpXDr0Z) | [Mouse On Mars](https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f) | [Vulvaland](https://open.spotify.com/album/5GFh1VWsv5TXj7CqLIXvsV) | 7:32 | 2022-04-13 | 2022-07-27 |
 | [GAK 4](https://open.spotify.com/track/6bU9hUIqABFSOaq6OiAfqe) | [Gak](https://open.spotify.com/artist/7nnrIQYcmvdaa1zgNrVwDY) | [GAK](https://open.spotify.com/album/4rAvwuLoJ8bvXtVVl2eXSE) | 6:04 | 2022-04-13 |  |
@@ -348,7 +348,7 @@
 | [Sing My Spring \- Isan´s Catena Mix](https://open.spotify.com/track/5XvhMvZPQgb5xvpbuXYShW) | [múm](https://open.spotify.com/artist/4mw86zm4QZIL8SksdyE6OU), [Isan](https://open.spotify.com/artist/7a7MvRxJIoVblndypH8XgC) | [Please Smile My Noise Bleed](https://open.spotify.com/album/5u0CxJH46YN9cBz9myapzt) | 4:17 | 2022-04-13 | 2022-07-19 |
 | [Sixth seven](https://open.spotify.com/track/55HGpM3dME81PxI57cpvN2) | [patten](https://open.spotify.com/artist/1ld2Kfp4s2LHg94Lby403n) | [EOLIAN INSTATE](https://open.spotify.com/album/55IiKVtxWJrpIqLVWRCTCU) | 4:12 | 2022-04-13 | 2022-07-23 |
 | [Skeeze](https://open.spotify.com/track/0wUAXDLgOsKXJuuviQLJ5p) | [Disjecta](https://open.spotify.com/artist/5hkjh4uNB1fItsgLDJOVG5) | [Looking For Snags](https://open.spotify.com/album/4uPbQA45QczTIjbgjdt5WF) | 6:46 | 2022-04-13 | 2022-07-29 |
-| [Skin With Me](https://open.spotify.com/track/5BU3ZzaIkfkUCpKwFWIavI) | [Mira Calix](https://open.spotify.com/artist/7yop5VpIW8Wv2l8ReGzbSq) | [One On One](https://open.spotify.com/album/3ovF1MA8lcK40TCRzlBMG6) | 3:31 | 2022-04-13 |  |
+| [Skin With Me](https://open.spotify.com/track/5BU3ZzaIkfkUCpKwFWIavI) | [Mira Calix](https://open.spotify.com/artist/7yop5VpIW8Wv2l8ReGzbSq) | [One On One](https://open.spotify.com/album/3ovF1MA8lcK40TCRzlBMG6) | 3:31 | 2022-04-13 | 2022-09-16 |
 | [Skylup](https://open.spotify.com/track/2h3A57ELwNwrXkfWugoZfo) | [Proem](https://open.spotify.com/artist/1hTlyo5QWVHUA3xUGgXqa5) | [Negativ](https://open.spotify.com/album/46ZyFkEdCw1o7Zc2fLrkvv) | 4:34 | 2022-04-13 | 2022-08-30 |
 | [Slac](https://open.spotify.com/track/4cwXjW3AiE75mWj6nL52eR) | [F.U.S.E.](https://open.spotify.com/artist/6qRKwyDhiTu2n9cOhbHict), [Richie Hawtin](https://open.spotify.com/artist/3AhwIUus3pIaA3CvYBEtpy) | [Dimension Intrusion \(25th Anniversary Edition\)](https://open.spotify.com/album/3BSEkF5PStiNQYKZB2RQKE) | 3:20 | 2022-04-13 |  |
 | [Slo Bird Whistle \- Peel Session](https://open.spotify.com/track/3bQOgK2jol0IYuI01Aa7dO) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Peel Session 2](https://open.spotify.com/album/2AmoY6ypezs0oIMMtlK80M) | 3:33 | 2022-04-13 | 2022-07-29 |
@@ -386,6 +386,7 @@
 | [Tha](https://open.spotify.com/track/4Sxv0whUHWzHK5T8uuP66S) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works 85\-92](https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k) | 9:07 | 2022-04-13 | 2022-07-29 |
 | [thaem nue \- 2021 Remaster](https://open.spotify.com/track/3r6QaDjVQEc3nr8atyKgEX) | [Arovane](https://open.spotify.com/artist/6wNOfYFlLoZxi37nmPIB0c) | [Atol Scrap \(2021 Remaster\)](https://open.spotify.com/album/68YzQMfr2LA79zpNS3k3s1) | 7:29 | 2022-04-13 |  |
 | [The Box, Pt\. 1](https://open.spotify.com/track/5TbwZ0OSuU1fGtQ8aTgiZP) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV) | [In Sides](https://open.spotify.com/album/1wXyzUmlgN6G1DXIY0Sh8l) | 6:28 | 2022-04-13 |  |
+| [The Shrine Of The Serpent Goddess](https://open.spotify.com/track/2gAtn1FWeoEbUmctNHY4U8) | [Hieroglyphic Being](https://open.spotify.com/artist/6zh25V1pQ8IQpxDYVmFSrT) | [The Disco's Of Imhotep](https://open.spotify.com/album/7JOBQa2I1VIwVn2IcC9Uq4) | 1:06 | 2022-09-15 |  |
 | [The Sound \- Extended Mix](https://open.spotify.com/track/64RmTfytQUOT73BeNrVlvx) | [Reese & Santonio](https://open.spotify.com/artist/6ZYPFa3rUYzI4j87w1CURo) | [The Sound / How To Play Our Music](https://open.spotify.com/album/5zY7Di2QT0Y2OZwmVwCr6w) | 6:48 | 2022-04-13 |  |
 | [The Vaulting Sky](https://open.spotify.com/track/0hIeSMoFkgvG8psoNtOrsZ) | [Eli Keszler](https://open.spotify.com/artist/2YfqCdQFDp4c0s8F5Lkk4z) | [The Vaulting Sky](https://open.spotify.com/album/78xoqRUrAY2GJQYe6cpnje) | 3:49 | 2022-04-13 |  |
 | [Theme](https://open.spotify.com/track/6sHETxHOVBBeFkOus36PEm) | [Arovane](https://open.spotify.com/artist/6wNOfYFlLoZxi37nmPIB0c) | [Tides](https://open.spotify.com/album/1FeejNOolCnywxXsSBCEsp) | 3:40 | 2022-04-13 | 2022-07-29 |
@@ -395,6 +396,7 @@
 | [Tides \- 2022 Remaster](https://open.spotify.com/track/3TyHP4kvwIUKBBRIKwhXmi) | [Arovane](https://open.spotify.com/artist/6wNOfYFlLoZxi37nmPIB0c) | [Tides \(2022 Remaster\)](https://open.spotify.com/album/0SD8bPX49FG1IF9huUc3Ga) | 5:32 | 2022-04-13 |  |
 | [Timber](https://open.spotify.com/track/5jby7celTQUoYjAht8peNh) | [Coldcut](https://open.spotify.com/artist/5wnhqlZzXIq8aO9awQO2ND) | [Let Us Play](https://open.spotify.com/album/06WYN4VlDuK6YCv7CKEomH) | 4:32 | 2022-04-13 |  |
 | [Timesprite](https://open.spotify.com/track/56Q8aK61QHfv3p3Izd2lau) | [Germlin](https://open.spotify.com/artist/2IRPbhM9xbIZKuzUfOPcxY) | [Youth Pixxel](https://open.spotify.com/album/5jhMfoopuJvjRv6oY4CPsw) | 2:23 | 2022-04-13 | 2022-07-16 |
+| [to all the plants i loved](https://open.spotify.com/track/6lvQXM7GBbnuFMQwEIHCDX) | [s e r é n a t e](https://open.spotify.com/artist/6Mrjj6yM6eFCKfQtHxzeUq) | [caso de estudio](https://open.spotify.com/album/7k3qFMpJYBXVg4x634Aopp) | 3:45 | 2022-09-15 |  |
 | [Tobiume](https://open.spotify.com/track/4IQWc6rhJwpFrRKBLx27X6) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Sakura](https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2) | 4:38 | 2022-04-13 |  |
 | [TOBIUME](https://open.spotify.com/track/5JpfGKhIFJqGYdTf8wlr8q) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Sakura](https://open.spotify.com/album/4eN1ho9NT7q1YlG5xDNYNM) | 4:38 | 2022-04-13 | 2022-07-29 |
 | [Today's Mark](https://open.spotify.com/track/6fWXxF9EKWOx9YTz0qt7Se) | [Christian Kleine](https://open.spotify.com/artist/39RGo9NOqiCfbV8epXxFTj) | [Beyond Repair](https://open.spotify.com/album/3h3BzJbJmQqfS6lcUYZLTx) | 6:20 | 2022-04-13 | 2022-07-27 |

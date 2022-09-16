@@ -1,12 +1,12 @@
 {
   "description": "The best of modern blues rock. Cover: Anthony Gomes",
-  "num_followers": 133218,
+  "num_followers": 133286,
   "original_name": "Modern Blues Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5NjA2MCwwMDAwMDAwMDU5Mjg1NmJhMTU0Y2IzOWY4NzcyYzZiNTY3NjJiMDE5",
+  "snapshot_id": "MTY2MjY5NjA2MCwwMDAwMDAwMDI5MDg2OTc3YzczNDg2Nzg2NzhhZTU1MzUwNDJmY2Vj",
   "tracks": [
     {
       "added_at": "2022-08-26 04:02:00",
@@ -377,22 +377,6 @@
       "url": "https://open.spotify.com/track/00kbL0ei9bVKAp9I23vF1l"
     },
     {
-      "added_at": "2022-06-10 04:02:00",
-      "album": {
-        "name": "play it pretty",
-        "url": "https://open.spotify.com/album/7fip95aV1gjbCJBqHoa8lR"
-      },
-      "artists": [
-        {
-          "name": "Hether",
-          "url": "https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "dirty claws",
-      "url": "https://open.spotify.com/track/4dTnpAfrXeEWuGQt1cA3SF"
-    },
-    {
       "added_at": "2021-05-14 04:01:00",
       "album": {
         "name": "Hardware",
@@ -407,6 +391,22 @@
       "duration_ms": 153760,
       "name": "My Lucky Card",
       "url": "https://open.spotify.com/track/4Ri5DZQb98Ho6SbRuDvB4b"
+    },
+    {
+      "added_at": "2022-06-10 04:02:00",
+      "album": {
+        "name": "play it pretty",
+        "url": "https://open.spotify.com/album/7fip95aV1gjbCJBqHoa8lR"
+      },
+      "artists": [
+        {
+          "name": "Hether",
+          "url": "https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "dirty claws",
+      "url": "https://open.spotify.com/track/4dTnpAfrXeEWuGQt1cA3SF"
     },
     {
       "added_at": "2020-10-16 04:02:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2020-10-16 04:02:00",
       "album": {
-        "name": "By Default",
-        "url": "https://open.spotify.com/album/3CH5Y6IJPn5yXsOFjCn4wn"
-      },
-      "artists": [
-        {
-          "name": "Band Of Skulls",
-          "url": "https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG"
-        }
-      ],
-      "duration_ms": 168936,
-      "name": "Black Magic",
-      "url": "https://open.spotify.com/track/2Fka5bMBcXzrrUHaJjpqGq"
-    },
-    {
-      "added_at": "2020-10-16 04:02:00",
-      "album": {
         "name": "Well Wasted",
         "url": "https://open.spotify.com/album/26rXDFayFu0pANaa174xu7"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 205973,
       "name": "Well Wasted",
       "url": "https://open.spotify.com/track/4S8WK43eMxManxzewCswet"
+    },
+    {
+      "added_at": "2020-10-16 04:02:00",
+      "album": {
+        "name": "By Default",
+        "url": "https://open.spotify.com/album/3CH5Y6IJPn5yXsOFjCn4wn"
+      },
+      "artists": [
+        {
+          "name": "Band Of Skulls",
+          "url": "https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG"
+        }
+      ],
+      "duration_ms": 168936,
+      "name": "Black Magic",
+      "url": "https://open.spotify.com/track/2Fka5bMBcXzrrUHaJjpqGq"
     },
     {
       "added_at": "2020-10-16 04:02:00",

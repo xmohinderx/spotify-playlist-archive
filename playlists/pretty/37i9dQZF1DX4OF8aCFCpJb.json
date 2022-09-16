@@ -1,12 +1,12 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n den svenska reggaescenen.",
-  "num_followers": 65247,
+  "num_followers": 65246,
   "original_name": "Svensk Reggae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg5NDYxMCwwMDAwMDAwMDcxOTJhODU2NzNhZjU1NWQ4OTUxYjU2OTVkNjQ3NjE3",
+  "snapshot_id": "MTY1Nzg5NDYxMCwwMDAwMDAwMDM1YjRlNDFhNGJmNmUyNmExNDAwMzY5NzA2NmUyNTZj",
   "tracks": [
     {
       "added_at": "2022-07-15 14:16:50",
@@ -655,22 +655,6 @@
     {
       "added_at": "2022-07-15 14:16:50",
       "album": {
-        "name": "Class Brut\u00e1ls",
-        "url": "https://open.spotify.com/album/2VAHC09MS16zk0YTJLlAlB"
-      },
-      "artists": [
-        {
-          "name": "USCB Allstars",
-          "url": "https://open.spotify.com/artist/0B0EZgXQJeU6A5kznSilkZ"
-        }
-      ],
-      "duration_ms": 242973,
-      "name": "12 Steps",
-      "url": "https://open.spotify.com/track/3xWqcepZ8eUdMOP6KqWxl2"
-    },
-    {
-      "added_at": "2022-07-15 14:16:50",
-      "album": {
         "name": "Rotl\u00f6sa Singlar",
         "url": "https://open.spotify.com/album/2efeB3FyNaOgPYhcCQwioH"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 233934,
       "name": "Bida Din Tid",
       "url": "https://open.spotify.com/track/3QMPZo33FYmz9JxtIhHJU1"
+    },
+    {
+      "added_at": "2022-07-15 14:16:50",
+      "album": {
+        "name": "Class Brut\u00e1ls",
+        "url": "https://open.spotify.com/album/2VAHC09MS16zk0YTJLlAlB"
+      },
+      "artists": [
+        {
+          "name": "USCB Allstars",
+          "url": "https://open.spotify.com/artist/0B0EZgXQJeU6A5kznSilkZ"
+        }
+      ],
+      "duration_ms": 242973,
+      "name": "12 Steps",
+      "url": "https://open.spotify.com/track/3xWqcepZ8eUdMOP6KqWxl2"
     },
     {
       "added_at": "2022-07-15 14:16:50",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-07-15 14:16:50",
       "album": {
-        "name": "Resa Sig Opp",
-        "url": "https://open.spotify.com/album/5vGTg3HqIqOEagshyN9Yma"
-      },
-      "artists": [
-        {
-          "name": "Svenska Akademien",
-          "url": "https://open.spotify.com/artist/3BPemeIazbWrWKNMeorJvS"
-        }
-      ],
-      "duration_ms": 245720,
-      "name": "Du Vill S\u00e5 Du Kan",
-      "url": "https://open.spotify.com/track/5oo1hxx3SkXtF2tzzggAhM"
-    },
-    {
-      "added_at": "2022-07-15 14:16:50",
-      "album": {
         "name": "Trodal",
         "url": "https://open.spotify.com/album/3NJujcbx0smsffJx4vOode"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 208057,
       "name": "V\u00e4gsj\u00e4l",
       "url": "https://open.spotify.com/track/28258RcG0K7cj4LirbIYlm"
+    },
+    {
+      "added_at": "2022-07-15 14:16:50",
+      "album": {
+        "name": "Resa Sig Opp",
+        "url": "https://open.spotify.com/album/5vGTg3HqIqOEagshyN9Yma"
+      },
+      "artists": [
+        {
+          "name": "Svenska Akademien",
+          "url": "https://open.spotify.com/artist/3BPemeIazbWrWKNMeorJvS"
+        }
+      ],
+      "duration_ms": 245720,
+      "name": "Du Vill S\u00e5 Du Kan",
+      "url": "https://open.spotify.com/track/5oo1hxx3SkXtF2tzzggAhM"
     },
     {
       "added_at": "2022-07-15 14:16:50",

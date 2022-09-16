@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: AJRADICO
 
-[Spotify](https://open.spotify.com/user/spotify) - 883,555 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 883,967 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,13 +41,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 31 | [29 \(Freestyle\)](https://open.spotify.com/track/6jvyOxDcBPyvdCbBqSvb9F) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [29 \(Freestyle\)](https://open.spotify.com/album/5ks4uQKdCxJ34x8HF4Bxrf) | 2:22 |
 | 32 | [Black Tame](https://open.spotify.com/track/2nAEYxNIEC5vh1HrLUbH7L) | [Topaz Jones](https://open.spotify.com/artist/76bAuLD5jMIT1YDJ84KB8l) | [Don't Go Tellin' Your Momma](https://open.spotify.com/album/1EieCilyiR9fOnjbV8sTEm) | 4:12 |
 | 33 | [Pomegranate](https://open.spotify.com/track/1jNKhbKmDgYSHHSCEeMXey) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [Lyrics to GO, Vol\. 2](https://open.spotify.com/album/0nJ5saIxlohpcXqBR586pH) | 1:49 |
-| 34 | [A Bar About a Bar](https://open.spotify.com/track/1d27WzQN1KHKu5969heJAZ) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [A Bar About a Bar](https://open.spotify.com/album/61CsvlFEV4KUdTz0KPE6FM) | 1:05 |
+| 34 | [NEO](https://open.spotify.com/track/7onHzHeOVE3M9p0tNKQbXc) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [TWOPOINTFIVE](https://open.spotify.com/album/0KkHzH0uia9zwPbrCbS6NY) | 2:03 |
 | 35 | [Carefree \(with Femdot & Mick Jenkins\)](https://open.spotify.com/track/5B6EIqgRxNOU08BgyKNQSS) | [KingTrey](https://open.spotify.com/artist/5dMrRJRJsvS36Mp8u2i7kv), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [Femdot](https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS) | [Carefree \(with Femdot & Mick Jenkins\)](https://open.spotify.com/album/6JnfvhlcNqcMaDA5lTqs7t) | 4:01 |
-| 36 | [NEO](https://open.spotify.com/track/7onHzHeOVE3M9p0tNKQbXc) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [TWOPOINTFIVE](https://open.spotify.com/album/0KkHzH0uia9zwPbrCbS6NY) | 2:03 |
+| 36 | [A Bar About a Bar](https://open.spotify.com/track/1d27WzQN1KHKu5969heJAZ) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [A Bar About a Bar](https://open.spotify.com/album/61CsvlFEV4KUdTz0KPE6FM) | 1:05 |
 | 37 | [Dangerous](https://open.spotify.com/track/107u1om4m4zTfzWx4BtW6R) | [Phora](https://open.spotify.com/artist/5XDJlfdfbGNJrOJJNxTcdq) | [Dangerous](https://open.spotify.com/album/5BPr4MWTg1GmevzURudA8B) | 2:25 |
 | 38 | [Breath Control \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/560mGiZ4IfyqFf6MUfxjsq) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Breath Control](https://open.spotify.com/album/6mrRq7eWSz9KRZZ5jdiUx1) | 2:27 |
-| 39 | [Survivors Guilt](https://open.spotify.com/track/5cEd8xWXyqhpuCDUXQOyE3) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Survivors Guilt](https://open.spotify.com/album/5XGzCRfgCbpaMPLpDYvUNF) | 5:52 |
-| 40 | [terms \(feat\. Dominic Fike & Denzel Curry\)](https://open.spotify.com/track/2iwLygOHE2YStc23isxS3b) | [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [TYRON](https://open.spotify.com/album/7qE3WaOVAAIxgH8WtjbBBj) | 3:12 |
+| 39 | [terms \(feat\. Dominic Fike & Denzel Curry\)](https://open.spotify.com/track/2iwLygOHE2YStc23isxS3b) | [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [TYRON](https://open.spotify.com/album/7qE3WaOVAAIxgH8WtjbBBj) | 3:12 |
+| 40 | [Survivors Guilt](https://open.spotify.com/track/5cEd8xWXyqhpuCDUXQOyE3) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Survivors Guilt](https://open.spotify.com/album/5XGzCRfgCbpaMPLpDYvUNF) | 5:52 |
 | 41 | [Still \(feat\. 6LACK and Smino\)](https://open.spotify.com/track/0L2G8Khc96e6yLcLyLklzS) | [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Few Good Things](https://open.spotify.com/album/4dhK1XKetMnAilmo6CMID8) | 3:45 |
 | 42 | [SOHO HOUSE \(feat\. Hello O'shay\)](https://open.spotify.com/track/2f6O9Os5EDdTHGvc1P4efs) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Hello O'shay](https://open.spotify.com/artist/3YzuOhp0V0YIuaukc7U3Rp) | [MEMO](https://open.spotify.com/album/6LiZ2IqRLAb9uqz6NEMsdT) | 4:28 |
 | 43 | [Been About It](https://open.spotify.com/track/7BmwARA7tuxdIYq59xSDFf) | [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Never Land II](https://open.spotify.com/album/3YB6qDZLtFID4wyBXvVSbL) | 2:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 49 | [Hollandaise](https://open.spotify.com/track/4NvX8KPT4RGT2yh6ZjVYsK) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [Hollandaise](https://open.spotify.com/album/64HygXbyafPahxN1avR56P) | 2:58 |
 | 50 | [Hold you up \(feat\. Annahstasia & Steven Bamidele\)](https://open.spotify.com/track/0VofOfBQCt2kZkNqMawsqb) | [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL), [Annahstasia](https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE), [Steven Bamidele](https://open.spotify.com/artist/71MVm1MdM62WiEBkSIjIA6) | [Get Used To It](https://open.spotify.com/album/3mNfeGxCFJ3fRZotZ7UhSO) | 3:56 |
 
-Snapshot ID: `MTY2MjA5MTI2MCwwMDAwMDAwMDdkMmI0YjRjMzY2MzQyM2YyM2RlZTE0Mjg3YjRiOTlj`
+Snapshot ID: `MTY2MjA5MTI2MCwwMDAwMDAwMGU2YTE1ZDJlMmI3NDM3MjUwZGQxNzg3M2Q2OThmZjZj`

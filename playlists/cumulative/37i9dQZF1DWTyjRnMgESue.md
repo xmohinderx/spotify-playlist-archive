@@ -4,7 +4,7 @@
 
 > The best new songs from modern singer\-songwriters\. Cover: Nicolle Galyon
 
-334 songs - 19 hr 3 min - [published](https://open.spotify.com/playlist/4XYhXRn3Q3oPGv6d3LNArS)
+335 songs - 19 hr 6 min - [published](https://open.spotify.com/playlist/4XYhXRn3Q3oPGv6d3LNArS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Control](https://open.spotify.com/track/6TQXgsHzTIPObUdFzlGjeY) | [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj) | [Note to Self](https://open.spotify.com/album/5rDVO3ROz5CXi1dcr2nWpR) | 3:30 | 2022-07-15 | 2022-09-13 |
 | [Count On Me](https://open.spotify.com/track/5VLhD6BQRgXAtKCqlS1hMJ) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [The Hating Game \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/46SxMCDnnCR3Qceso4Dga5) | 3:16 | 2021-12-13 | 2022-02-22 |
 | [counting houses](https://open.spotify.com/track/6MFZUAPmeiF9cm8tSspED7) | [Luz](https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c) | [counting houses](https://open.spotify.com/album/1BuceFtRvKhtzYfteVYEV5) | 3:20 | 2021-11-19 | 2022-09-03 |
-| [Cutting Corners](https://open.spotify.com/track/6AN3OGCZP8a7935tvYrgDD) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [You Never Met Me](https://open.spotify.com/album/4rVsCVbWLQWEUXsOfPRzEg) | 3:22 | 2022-07-08 |  |
+| [Cutting Corners](https://open.spotify.com/track/6AN3OGCZP8a7935tvYrgDD) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [You Never Met Me](https://open.spotify.com/album/4rVsCVbWLQWEUXsOfPRzEg) | 3:22 | 2022-07-08 | 2022-09-16 |
 | [Dark Bird](https://open.spotify.com/track/1ig7fpdy2W1rl6SkIOMDjN) | [Jake Wesley Rogers](https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9) | [Dark Bird](https://open.spotify.com/album/58fbHjXoQNXeNQ4VfWXU41) | 3:37 | 2022-03-11 |  |
 | [Dead on the Beach](https://open.spotify.com/track/6kKhq1EKxciDeNhjST21B8) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Dead on the Beach](https://open.spotify.com/album/66ncWabX0CdChC6i9Ca84T) | 3:02 | 2022-01-21 | 2022-02-05 |
 | [Different Kinds of Light](https://open.spotify.com/track/53qIXnw0apr7SVNbfdiGqR) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Different Kinds of Light](https://open.spotify.com/album/3GuKxYi7tirtH3BZvTGddh) | 3:05 | 2021-11-19 | 2022-02-05 |
@@ -94,6 +94,7 @@
 | [Everything I Know About Love](https://open.spotify.com/track/0jG5hLQSYrNnzApAjE0uIw) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/6kLd7HIdO4ylB86XpI4qTC) | 3:29 | 2022-04-22 |  |
 | [Faking My Own Death](https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Faking My Own Death](https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf) | 3:58 | 2021-11-19 | 2022-07-16 |
 | [Far from Home](https://open.spotify.com/track/1VUbViOlLsvXeb6Aiv3A63) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Far from Home](https://open.spotify.com/album/4klVYwt72so3CYGFh1sTEe) | 3:12 | 2021-11-19 | 2022-06-29 |
+| [Far from Home](https://open.spotify.com/track/74i65cFb7Mfa5VuX0Vho3M) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Foreign Sea](https://open.spotify.com/album/2zw3vj7T9QBMk7xCwy5cTt) | 3:12 | 2022-08-12 |  |
 | [Fat Funny Friend](https://open.spotify.com/track/4eaSY3ucamesaARYBsLfz2) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Fat Funny Friend](https://open.spotify.com/album/1GPXyEfrKW38dJsC1nSXu0) | 3:19 | 2022-02-04 | 2022-06-30 |
 | [Favorite Peeps](https://open.spotify.com/track/4dUOiTUovOCy91uztDlUp3) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Favorite Peeps](https://open.spotify.com/album/4i9rebiZc9xWUtX0QGJGoI) | 3:13 | 2022-04-22 |  |
 | [Feels Like](https://open.spotify.com/track/35IcAVSMsU9qzHfpPbvC8A) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 2:32 | 2021-11-19 |  |
@@ -151,7 +152,7 @@
 | [How Do You Dress for the Rain?](https://open.spotify.com/track/42ZSEXG0TtHAHbWOho7GDS) | [Sam MacPherson](https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh) | [How Do You Dress for the Rain?](https://open.spotify.com/album/5qXWbwkmZ5HL2AlweZD9Bh) | 2:40 | 2022-03-11 |  |
 | [Hurt Like That](https://open.spotify.com/track/6fBN1a9LcsB3QohnijExpz) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Hurt Like That](https://open.spotify.com/album/1YixmyGKRqTOBdBrwb0Xvh) | 3:16 | 2021-11-19 |  |
 | [Hush Little Baby](https://open.spotify.com/track/1sFNKEPNYHzkTO63cQgGdv) | [Noah Davis](https://open.spotify.com/artist/7lVbD38aVBVACNzgta9awX) | [Hush Little Baby](https://open.spotify.com/album/1NGIXygorffIaEpPpFwpgm) | 3:19 | 2022-02-21 | 2022-04-17 |
-| [Hymn for Her](https://open.spotify.com/track/6pGiAaDuRg3VJGE18rmWcs) | [Lydia Clowes](https://open.spotify.com/artist/4KNIAGw8aeV4ZgMxzjqkeH), [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Everything's Waiting for You](https://open.spotify.com/album/2v22a5ayFfHDy1Ez7J5cLk) | 3:18 | 2022-07-15 |  |
+| [Hymn for Her](https://open.spotify.com/track/6pGiAaDuRg3VJGE18rmWcs) | [Lydia Clowes](https://open.spotify.com/artist/4KNIAGw8aeV4ZgMxzjqkeH), [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Everything's Waiting for You](https://open.spotify.com/album/2v22a5ayFfHDy1Ez7J5cLk) | 3:18 | 2022-07-15 | 2022-09-16 |
 | [Hymn for Her \(feat\. Lydia Clowes\)](https://open.spotify.com/track/2mKl6EfVpKxrCIdAmMAruF) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91), [Lydia Clowes](https://open.spotify.com/artist/4KNIAGw8aeV4ZgMxzjqkeH) | [Hymn for Her](https://open.spotify.com/album/4PYpVd1NV1nT6fpkWzhGIC) | 3:18 | 2021-11-19 | 2022-07-29 |
 | [I BELIEVE](https://open.spotify.com/track/2Xqrj5tSNMmAlW2r8m6cUZ) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [I BELIEVE](https://open.spotify.com/album/1MN1yM90jYm2DGrcwxTRlg) | 3:26 | 2021-11-19 |  |
 | [I Burned LA Down](https://open.spotify.com/track/34Mg7rSCT7nRsf1kVCAvgz) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [I Burned LA Down](https://open.spotify.com/album/71EPoeTo5QAlsr2OWCRNhM) | 3:15 | 2022-04-22 | 2022-09-15 |
@@ -251,7 +252,7 @@
 | [rest in peace](https://open.spotify.com/track/20ACQf24bEwSVnKAhVfH5u) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [rest in peace](https://open.spotify.com/album/0sE1YP1nRz29DgpaogCRsE) | 3:11 | 2022-05-20 |  |
 | [Right on Time](https://open.spotify.com/track/5i4WgW0TL9VSosy73Q3Ttv) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [In These Silent Days](https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f) | 3:05 | 2021-11-19 |  |
 | [RIP](https://open.spotify.com/track/6sy5XzSPzBB5JuJ9berpu3) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [AWW!](https://open.spotify.com/album/12I0nO2QVc1NMLvKqZp3W8) | 3:17 | 2021-11-19 | 2022-07-29 |
-| [River](https://open.spotify.com/track/73VzzfuoQ6CxBQ9TtVhJKa) | [Soll](https://open.spotify.com/artist/1YubAuqQvdqZ42SZpBPii1) | [River](https://open.spotify.com/album/3mwl5ZDO95E4v1iJJkQhux) | 4:03 | 2021-11-19 | 2022-09-06 |
+| [River](https://open.spotify.com/track/73VzzfuoQ6CxBQ9TtVhJKa) | [Soll](https://open.spotify.com/artist/1YubAuqQvdqZ42SZpBPii1) | [River](https://open.spotify.com/album/3mwl5ZDO95E4v1iJJkQhux) | 4:03 | 2021-11-19 |  |
 | [Roof of the World](https://open.spotify.com/track/0pOYLQ8ZnPF1G6GE43Jf7U) | [Justin Wade Tam](https://open.spotify.com/artist/2kxKYNPzruEZEDD7ccBrLi) | [Roof of the World](https://open.spotify.com/album/4VDDyQSZ7fT8YgQqjufWoP) | 4:16 | 2021-11-19 | 2022-06-06 |
 | [ROOM FOR 2](https://open.spotify.com/track/7wfxf9QXBIWgBx1aG5QWhR) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [ROOM FOR 2](https://open.spotify.com/album/51XyM5nK6zGwa4hWNNMmSz) | 2:31 | 2022-02-21 |  |
 | [Same Effect](https://open.spotify.com/track/67qQFuqX1hVcWCoGPB5BiU) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [And I'm Still Thinking About That](https://open.spotify.com/album/6Qt31GMG9GnQI9Zjyhq22B) | 2:42 | 2022-03-11 |  |

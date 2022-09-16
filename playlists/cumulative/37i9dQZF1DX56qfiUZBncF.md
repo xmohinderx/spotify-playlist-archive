@@ -4,7 +4,7 @@
 
 > Let these innovative tracks spark your creativity and inspiration.
 
-231 songs - 13 hr 41 min - [published](https://open.spotify.com/playlist/1aiXmCTeHQI0hMOaYE96Os)
+232 songs - 13 hr 46 min - [published](https://open.spotify.com/playlist/1aiXmCTeHQI0hMOaYE96Os)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,13 +61,14 @@
 | [Dionne \(feat\. Justin Vernon\)](https://open.spotify.com/track/15gL4n95OG5KEQLCMXPQzp) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u), [Justin Vernon](https://open.spotify.com/artist/13rHmjtJmlIJ2aDyJc7CLV) | [Chewing Cotton Wool](https://open.spotify.com/album/1OlByJ5jsP9Eklfp03Xn8z) | 4:44 | 2020-11-04\* |  |
 | [doubt](https://open.spotify.com/track/4e0zpOmEfSfLFNtOepPzvR) | [Teischa](https://open.spotify.com/artist/31Mb5pV1JWPMtKAEUIjFE8) | [doubt](https://open.spotify.com/album/5mjeg0Kz0kNrfv2xbJ5qif) | 3:51 | 2020-11-04\* |  |
 | [Easier](https://open.spotify.com/track/3nATeGcFdtkhpUrRvgr667) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Easier](https://open.spotify.com/album/0teTj8UrrJJEnNMX3eoq4Z) | 4:32 | 2020-11-04\* | 2021-10-20 |
+| [Easier](https://open.spotify.com/track/59yTEzjOYeugvF9WKAvONs) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Shadowboxer](https://open.spotify.com/album/1lozs5nIWjppJZWFEnfGlV) | 4:32 | 2022-04-29 |  |
 | [Easier](https://open.spotify.com/track/6VfLQ8dYSnnY13DpDSMfuq) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Shadowboxer](https://open.spotify.com/album/4pZrPnENK2NSEaBBo6rr8q) | 4:32 | 2022-04-29 | 2022-09-15 |
 | [Edge Of The Dark](https://open.spotify.com/track/58gDdlyKqLodYDcFtgZb3P) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Edge Of The Dark](https://open.spotify.com/album/5VbKG8hWAmPGigkeVOuVN7) | 4:20 | 2021-01-13 | 2022-07-29 |
 | [Emotion feat\. Wild Nothing](https://open.spotify.com/track/5DnmZd2ZVkWPL4QcZYJwfs) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5), [Wild Nothing](https://open.spotify.com/artist/6NrkINd80slV25wkBu9mEB) | [Emotion feat\. Wild Nothing](https://open.spotify.com/album/2p6O1yfG7YGebBhfUBD3LH) | 4:05 | 2021-01-08 | 2022-07-29 |
 | [Emotion feat\. Wild Nothing](https://open.spotify.com/track/3pN4bdgaRvc3c61GCkEwDP) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5), [Wild Nothing](https://open.spotify.com/artist/6NrkINd80slV25wkBu9mEB) | [Romantic Images](https://open.spotify.com/album/25RhUgQQlr0u6G2r7np9bT) | 4:07 | 2022-04-29 |  |
 | [Fading](https://open.spotify.com/track/0eVlWvarzhQRj9L6RMqbud) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Fading](https://open.spotify.com/album/3ZFLPLihB9cSGqHev2sf3T) | 3:22 | 2020-11-04\* | 2022-07-28 |
 | [Fading](https://open.spotify.com/track/2fKEunM0KZVpVLwlvmVlDZ) | [Vallis Alps](https://open.spotify.com/artist/7qhWa7UI1QNZNDnzYwAYZm) | [Fading](https://open.spotify.com/album/5oVNwCnYkB6mp4w9sa4aak) | 4:40 | 2020-11-04\* |  |
-| [Fallss](https://open.spotify.com/track/3rO7acmvb3TTaFBUD9jI1i) | [Bayonne](https://open.spotify.com/artist/6BbqU3r1G2mwkRIfIbkCek) | [Fallss](https://open.spotify.com/album/7t7xugAJAhJhY4AL5M5w1H) | 4:00 | 2022-04-29 |  |
+| [Fallss](https://open.spotify.com/track/3rO7acmvb3TTaFBUD9jI1i) | [Bayonne](https://open.spotify.com/artist/6BbqU3r1G2mwkRIfIbkCek) | [Fallss](https://open.spotify.com/album/7t7xugAJAhJhY4AL5M5w1H) | 4:00 | 2022-04-29 | 2022-09-16 |
 | [Fallss](https://open.spotify.com/track/50qNZb4uwtmpa2zn0DUV2U) | [Bayonne](https://open.spotify.com/artist/6BbqU3r1G2mwkRIfIbkCek) | [Fallss](https://open.spotify.com/album/77nADHtievLEgVrJ1zVecA) | 4:00 | 2020-11-04\* | 2021-10-20 |
 | [False Art](https://open.spotify.com/track/5eBZPQjBjCRXKsu9DnfS21) | [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [False Art](https://open.spotify.com/album/4AkKVNM05Pf48mQVhAj5SZ) | 3:03 | 2022-04-29 |  |
 | [False Art](https://open.spotify.com/track/77OXCuJjR83b2mnp0HmYMo) | [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [False Art](https://open.spotify.com/album/5LKDSeG8WNydz4yvRAKVvd) | 3:03 | 2020-11-04\* | 2022-07-22 |

@@ -1,12 +1,12 @@
 {
   "description": "The most incredible songs to celebrate the life, death and resurrection of our Lord Jesus are all here in one collection.  Sit back and let it provide the praise for glorious day!",
-  "num_followers": 66000,
+  "num_followers": 66028,
   "original_name": "Easter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDE3NDY2OCwwMDAwMDAwMGM0MTFmNTc5NThjNmQ3ZDBkNDY2ZjY2YTExMzIzNjcw",
+  "snapshot_id": "MTY1MDE3NDY2OCwwMDAwMDAwMGRiMTE4MTgxZGE0OThmZDIzMmEzNWY5Zjc1ZTA2MzQx",
   "tracks": [
     {
       "added_at": "2022-04-17 05:51:08",
@@ -359,22 +359,6 @@
     {
       "added_at": "2022-04-17 05:51:08",
       "album": {
-        "name": "Church Music",
-        "url": "https://open.spotify.com/album/69UXabkBHbKMJ0DQjctXtK"
-      },
-      "artists": [
-        {
-          "name": "David Crowder Band",
-          "url": "https://open.spotify.com/artist/7DhP3bGT7dzr1dCkkH5mTS"
-        }
-      ],
-      "duration_ms": 318693,
-      "name": "How He Loves",
-      "url": "https://open.spotify.com/track/6WSFMa721PvfnspCRsGOMh"
-    },
-    {
-      "added_at": "2022-04-17 05:51:08",
-      "album": {
         "name": "The Blessing (Live)",
         "url": "https://open.spotify.com/album/4XEf57ewixATrMNdUecNdE"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 514665,
       "name": "The Blessing - Live",
       "url": "https://open.spotify.com/track/2elEVvWjPZltkotzcCwKvM"
+    },
+    {
+      "added_at": "2022-04-17 05:51:08",
+      "album": {
+        "name": "Church Music",
+        "url": "https://open.spotify.com/album/69UXabkBHbKMJ0DQjctXtK"
+      },
+      "artists": [
+        {
+          "name": "David Crowder Band",
+          "url": "https://open.spotify.com/artist/7DhP3bGT7dzr1dCkkH5mTS"
+        }
+      ],
+      "duration_ms": 318693,
+      "name": "How He Loves",
+      "url": "https://open.spotify.com/track/6WSFMa721PvfnspCRsGOMh"
     },
     {
       "added_at": "2022-04-17 05:51:08",
@@ -939,22 +939,6 @@
     {
       "added_at": "2022-04-17 05:51:08",
       "album": {
-        "name": "Everything And Nothing Less (Live)",
-        "url": "https://open.spotify.com/album/66663xiz1SATmBnF78aEpA"
-      },
-      "artists": [
-        {
-          "name": "Chris McClarney",
-          "url": "https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp"
-        }
-      ],
-      "duration_ms": 326613,
-      "name": "God Of Miracles - Live",
-      "url": "https://open.spotify.com/track/2RwzuFDm2uqTaMMXXSZSw6"
-    },
-    {
-      "added_at": "2022-04-17 05:51:08",
-      "album": {
         "name": "Grace (Live/Deluxe)",
         "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 498426,
       "name": "Break Every Chain - Live",
       "url": "https://open.spotify.com/track/2cut7Izp9DLQ26dP8HQ1fE"
+    },
+    {
+      "added_at": "2022-04-17 05:51:08",
+      "album": {
+        "name": "Everything And Nothing Less (Live)",
+        "url": "https://open.spotify.com/album/66663xiz1SATmBnF78aEpA"
+      },
+      "artists": [
+        {
+          "name": "Chris McClarney",
+          "url": "https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp"
+        }
+      ],
+      "duration_ms": 326613,
+      "name": "God Of Miracles - Live",
+      "url": "https://open.spotify.com/track/2RwzuFDm2uqTaMMXXSZSw6"
     },
     {
       "added_at": "2022-04-17 05:51:08",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2022-04-17 05:51:08",
       "album": {
-        "name": "Precious Memories",
-        "url": "https://open.spotify.com/album/010wiwXUvegsmlERAv7vMe"
-      },
-      "artists": [
-        {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
-        }
-      ],
-      "duration_ms": 186026,
-      "name": "The Old Rugged Cross",
-      "url": "https://open.spotify.com/track/4jTPlQp1YnJFmP3tIzLcmN"
-    },
-    {
-      "added_at": "2022-04-17 05:51:08",
-      "album": {
         "name": "I Will Follow",
         "url": "https://open.spotify.com/album/6bRMknojXPVfD1hCWUPB8V"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 277280,
       "name": "Same Power",
       "url": "https://open.spotify.com/track/7AlFRA7zpc30NM8LO3ZcE4"
+    },
+    {
+      "added_at": "2022-04-17 05:51:08",
+      "album": {
+        "name": "Precious Memories",
+        "url": "https://open.spotify.com/album/010wiwXUvegsmlERAv7vMe"
+      },
+      "artists": [
+        {
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+        }
+      ],
+      "duration_ms": 186026,
+      "name": "The Old Rugged Cross",
+      "url": "https://open.spotify.com/track/4jTPlQp1YnJFmP3tIzLcmN"
     },
     {
       "added_at": "2022-04-17 05:51:08",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2022-04-17 05:51:08",
       "album": {
-        "name": "Greatest Hymns, Vol. 2",
-        "url": "https://open.spotify.com/album/1JmmM3kMCKzYbuBHphQMFP"
-      },
-      "artists": [
-        {
-          "name": "Selah",
-          "url": "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
-        }
-      ],
-      "duration_ms": 231866,
-      "name": "Wonderful, Merciful Savior",
-      "url": "https://open.spotify.com/track/1GfXRWcCxijFPbR5hYNh5q"
-    },
-    {
-      "added_at": "2022-04-17 05:51:08",
-      "album": {
         "name": "Good News (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1do9XXkq2SLwDV7vsEjtjg"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 223000,
       "name": "Resurrection Day",
       "url": "https://open.spotify.com/track/36AKA4ge37GanDDTYKFg2g"
+    },
+    {
+      "added_at": "2022-04-17 05:51:08",
+      "album": {
+        "name": "Greatest Hymns, Vol. 2",
+        "url": "https://open.spotify.com/album/1JmmM3kMCKzYbuBHphQMFP"
+      },
+      "artists": [
+        {
+          "name": "Selah",
+          "url": "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
+        }
+      ],
+      "duration_ms": 231866,
+      "name": "Wonderful, Merciful Savior",
+      "url": "https://open.spotify.com/track/1GfXRWcCxijFPbR5hYNh5q"
     },
     {
       "added_at": "2022-04-17 05:51:08",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2022-04-17 05:51:08",
       "album": {
-        "name": "Good News (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1do9XXkq2SLwDV7vsEjtjg"
-      },
-      "artists": [
-        {
-          "name": "Rend Collective",
-          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
-        }
-      ],
-      "duration_ms": 245738,
-      "name": "Nailed To The Cross",
-      "url": "https://open.spotify.com/track/4GTkBqQwkjGpOjwgCPnabN"
-    },
-    {
-      "added_at": "2022-04-17 05:51:08",
-      "album": {
         "name": "Even So Come (Radio Version/Live)",
         "url": "https://open.spotify.com/album/2ObQurF1ra69HHuOdmfN9P"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 254373,
       "name": "Even So Come - Radio Version/Live",
       "url": "https://open.spotify.com/track/2yCf80rxfz3Dk7OCAnQvz1"
+    },
+    {
+      "added_at": "2022-04-17 05:51:08",
+      "album": {
+        "name": "Good News (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1do9XXkq2SLwDV7vsEjtjg"
+      },
+      "artists": [
+        {
+          "name": "Rend Collective",
+          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
+        }
+      ],
+      "duration_ms": 245738,
+      "name": "Nailed To The Cross",
+      "url": "https://open.spotify.com/track/4GTkBqQwkjGpOjwgCPnabN"
     },
     {
       "added_at": "2022-04-17 05:51:08",
@@ -1843,22 +1843,6 @@
     {
       "added_at": "2022-04-17 05:51:08",
       "album": {
-        "name": "Chain Breaker (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1SIDIEoYi0EAlRqa1J6J7N"
-      },
-      "artists": [
-        {
-          "name": "Zach Williams",
-          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
-        }
-      ],
-      "duration_ms": 240173,
-      "name": "To the Table",
-      "url": "https://open.spotify.com/track/0qriSYsqivuTCm0J8mYICj"
-    },
-    {
-      "added_at": "2022-04-17 05:51:08",
-      "album": {
         "name": "Passion: Everything Glorious",
         "url": "https://open.spotify.com/album/1plOtC0txpyPtkeb6tlixF"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 327400,
       "name": "Jesus Paid It All",
       "url": "https://open.spotify.com/track/73EIpn5AcedCWPOmxWMxH9"
+    },
+    {
+      "added_at": "2022-04-17 05:51:08",
+      "album": {
+        "name": "Chain Breaker (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1SIDIEoYi0EAlRqa1J6J7N"
+      },
+      "artists": [
+        {
+          "name": "Zach Williams",
+          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
+        }
+      ],
+      "duration_ms": 240173,
+      "name": "To the Table",
+      "url": "https://open.spotify.com/track/0qriSYsqivuTCm0J8mYICj"
     },
     {
       "added_at": "2022-04-17 05:51:08",
@@ -1935,22 +1935,6 @@
     {
       "added_at": "2022-04-17 05:51:08",
       "album": {
-        "name": "Be Held : Lullabies for the Beloved",
-        "url": "https://open.spotify.com/album/36mfScdTe8zFlaHQAmIMuf"
-      },
-      "artists": [
-        {
-          "name": "Christy Nockels",
-          "url": "https://open.spotify.com/artist/0XFBXku1ro7p7bjFQk98o6"
-        }
-      ],
-      "duration_ms": 232653,
-      "name": "River of Grace",
-      "url": "https://open.spotify.com/track/46kZhvM2ms6pIXP8Mc04Tr"
-    },
-    {
-      "added_at": "2022-04-17 05:51:08",
-      "album": {
         "name": "Champion",
         "url": "https://open.spotify.com/album/2eu8QKnnHfaLErUkQQChA4"
       },
@@ -1963,6 +1947,22 @@
       "duration_ms": 283746,
       "name": "Champion",
       "url": "https://open.spotify.com/track/30btd8SJIAWHaRuOMa2yIc"
+    },
+    {
+      "added_at": "2022-04-17 05:51:08",
+      "album": {
+        "name": "Be Held : Lullabies for the Beloved",
+        "url": "https://open.spotify.com/album/36mfScdTe8zFlaHQAmIMuf"
+      },
+      "artists": [
+        {
+          "name": "Christy Nockels",
+          "url": "https://open.spotify.com/artist/0XFBXku1ro7p7bjFQk98o6"
+        }
+      ],
+      "duration_ms": 232653,
+      "name": "River of Grace",
+      "url": "https://open.spotify.com/track/46kZhvM2ms6pIXP8Mc04Tr"
     },
     {
       "added_at": "2022-04-17 05:51:08",
@@ -2039,6 +2039,22 @@
     {
       "added_at": "2022-04-17 05:51:08",
       "album": {
+        "name": "The Beginning & Everything After",
+        "url": "https://open.spotify.com/album/30Cu7H7abvkKw8EuWckmG0"
+      },
+      "artists": [
+        {
+          "name": "The Afters",
+          "url": "https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc"
+        }
+      ],
+      "duration_ms": 221973,
+      "name": "Light Up the Sky",
+      "url": "https://open.spotify.com/track/1w3KRXDABnSmbVSwJL2c0N"
+    },
+    {
+      "added_at": "2022-04-17 05:51:08",
+      "album": {
         "name": "Jubilee",
         "url": "https://open.spotify.com/album/2buPx1ebGCwCnxiX0RoJfD"
       },
@@ -2067,18 +2083,22 @@
     {
       "added_at": "2022-04-17 05:51:08",
       "album": {
-        "name": "The Beginning & Everything After",
-        "url": "https://open.spotify.com/album/30Cu7H7abvkKw8EuWckmG0"
+        "name": "The Loft Sessions",
+        "url": "https://open.spotify.com/album/4gpwBS3FpUuSPfrV8D9Bqr"
       },
       "artists": [
         {
-          "name": "The Afters",
-          "url": "https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc"
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Brian Johnson",
+          "url": "https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9"
         }
       ],
-      "duration_ms": 221973,
-      "name": "Light Up the Sky",
-      "url": "https://open.spotify.com/track/1w3KRXDABnSmbVSwJL2c0N"
+      "duration_ms": 241773,
+      "name": "One Thing Remains",
+      "url": "https://open.spotify.com/track/1pVosmqPBSi5QHiQZFcsBy"
     },
     {
       "added_at": "2022-04-17 05:51:08",
@@ -2099,26 +2119,6 @@
       "duration_ms": 233216,
       "name": "Blessing I Can\u2019t See",
       "url": "https://open.spotify.com/track/21Inq0qVklN60Sn15ye3bS"
-    },
-    {
-      "added_at": "2022-04-17 05:51:08",
-      "album": {
-        "name": "The Loft Sessions",
-        "url": "https://open.spotify.com/album/4gpwBS3FpUuSPfrV8D9Bqr"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Brian Johnson",
-          "url": "https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9"
-        }
-      ],
-      "duration_ms": 241773,
-      "name": "One Thing Remains",
-      "url": "https://open.spotify.com/track/1pVosmqPBSi5QHiQZFcsBy"
     },
     {
       "added_at": "2022-04-17 05:51:08",
@@ -2231,6 +2231,22 @@
     {
       "added_at": "2022-04-17 05:51:08",
       "album": {
+        "name": "Don't Lose Hope",
+        "url": "https://open.spotify.com/album/3Us0eofAYq7tRuaH7A56i0"
+      },
+      "artists": [
+        {
+          "name": "Cochren & Co.",
+          "url": "https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4"
+        }
+      ],
+      "duration_ms": 203774,
+      "name": "Grave",
+      "url": "https://open.spotify.com/track/5maAhFnbY2RPPYcaCPB1Tb"
+    },
+    {
+      "added_at": "2022-04-17 05:51:08",
+      "album": {
         "name": "Cutting Edge 1 & 2",
         "url": "https://open.spotify.com/album/6w2F4U8DetNtAucmynDj5v"
       },
@@ -2267,22 +2283,6 @@
       "duration_ms": 253706,
       "name": "I Surrender",
       "url": "https://open.spotify.com/track/13p3U002Sv8z722mFjTuWi"
-    },
-    {
-      "added_at": "2022-04-17 05:51:08",
-      "album": {
-        "name": "Don't Lose Hope",
-        "url": "https://open.spotify.com/album/3Us0eofAYq7tRuaH7A56i0"
-      },
-      "artists": [
-        {
-          "name": "Cochren & Co.",
-          "url": "https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4"
-        }
-      ],
-      "duration_ms": 203774,
-      "name": "Grave",
-      "url": "https://open.spotify.com/track/5maAhFnbY2RPPYcaCPB1Tb"
     },
     {
       "added_at": "2022-04-17 05:51:08",

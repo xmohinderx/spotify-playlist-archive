@@ -1,12 +1,12 @@
 {
   "description": "This is the new Core at its finest. Cover: Motionless In White",
-  "num_followers": 853566,
+  "num_followers": 853593,
   "original_name": "The Core",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjcyODQwMCwwMDAwMDAwMGRiNjJkNzdkN2M5ZTZkNWJkYzM2Mzk5MmIxYjQ2MDg4",
+  "snapshot_id": "MTY2MjcyODQwMCwwMDAwMDAwMGY2OWExZjQ3ZDI4MzdhNjIyZmJkNmMxYjZjNzc5YjEz",
   "tracks": [
     {
       "added_at": "2022-09-09 13:00:00",
@@ -227,22 +227,6 @@
     {
       "added_at": "2022-09-09 13:00:00",
       "album": {
-        "name": "Pull From The Ghost",
-        "url": "https://open.spotify.com/album/2KElNfghT2G7tHLaOCMqFe"
-      },
-      "artists": [
-        {
-          "name": "ERRA",
-          "url": "https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0"
-        }
-      ],
-      "duration_ms": 251191,
-      "name": "Pull From The Ghost",
-      "url": "https://open.spotify.com/track/5X0o92ihmXE7KP5fcmNSFv"
-    },
-    {
-      "added_at": "2022-09-09 13:00:00",
-      "album": {
         "name": "Reaper",
         "url": "https://open.spotify.com/album/6RnuLQwxEgHaHPyWjel051"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 199500,
       "name": "Reaper",
       "url": "https://open.spotify.com/track/6I7ilpVQq4oETOdmHPL5LE"
+    },
+    {
+      "added_at": "2022-09-09 13:00:00",
+      "album": {
+        "name": "Pull From The Ghost",
+        "url": "https://open.spotify.com/album/2KElNfghT2G7tHLaOCMqFe"
+      },
+      "artists": [
+        {
+          "name": "ERRA",
+          "url": "https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0"
+        }
+      ],
+      "duration_ms": 251191,
+      "name": "Pull From The Ghost",
+      "url": "https://open.spotify.com/track/5X0o92ihmXE7KP5fcmNSFv"
     },
     {
       "added_at": "2022-09-09 13:00:00",
@@ -375,22 +375,6 @@
     {
       "added_at": "2022-09-09 13:00:00",
       "album": {
-        "name": "Losing Control",
-        "url": "https://open.spotify.com/album/6ANgmUwBRAm45qW9yrhRQP"
-      },
-      "artists": [
-        {
-          "name": "Villain of the Story",
-          "url": "https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE"
-        }
-      ],
-      "duration_ms": 208920,
-      "name": "Losing Control",
-      "url": "https://open.spotify.com/track/2PjFzTXf8StVOYm25uWvW4"
-    },
-    {
-      "added_at": "2022-09-09 13:00:00",
-      "album": {
         "name": "Cross My Heart",
         "url": "https://open.spotify.com/album/5ByL1dXjgnjKAEF6H63e5p"
       },
@@ -407,6 +391,22 @@
     {
       "added_at": "2022-09-09 13:00:00",
       "album": {
+        "name": "Losing Control",
+        "url": "https://open.spotify.com/album/6ANgmUwBRAm45qW9yrhRQP"
+      },
+      "artists": [
+        {
+          "name": "Villain of the Story",
+          "url": "https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE"
+        }
+      ],
+      "duration_ms": 208920,
+      "name": "Losing Control",
+      "url": "https://open.spotify.com/track/2PjFzTXf8StVOYm25uWvW4"
+    },
+    {
+      "added_at": "2022-09-09 13:00:00",
+      "album": {
         "name": "A Form of Protest",
         "url": "https://open.spotify.com/album/7sPoZ4Nxv34iSFIwmbUCrA"
       },
@@ -419,6 +419,22 @@
       "duration_ms": 189405,
       "name": "A Form of Protest",
       "url": "https://open.spotify.com/track/1LDQFdGTEXOnycDC8CJ5p1"
+    },
+    {
+      "added_at": "2022-09-09 13:00:00",
+      "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/3PsbQWb1jzu1TieGQwvjd7"
+      },
+      "artists": [
+        {
+          "name": "Future Palace",
+          "url": "https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21"
+        }
+      ],
+      "duration_ms": 204040,
+      "name": "Dead Inside",
+      "url": "https://open.spotify.com/track/4hZIolup6cgYhrzzGq46aq"
     },
     {
       "added_at": "2022-09-09 13:00:00",
@@ -451,22 +467,6 @@
       "duration_ms": 284485,
       "name": "A Killing Word",
       "url": "https://open.spotify.com/track/3jVZdrq596QrH6xq4l6jgI"
-    },
-    {
-      "added_at": "2022-09-09 13:00:00",
-      "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/3PsbQWb1jzu1TieGQwvjd7"
-      },
-      "artists": [
-        {
-          "name": "Future Palace",
-          "url": "https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21"
-        }
-      ],
-      "duration_ms": 204040,
-      "name": "Dead Inside",
-      "url": "https://open.spotify.com/track/4hZIolup6cgYhrzzGq46aq"
     },
     {
       "added_at": "2022-09-09 13:00:00",
@@ -839,22 +839,18 @@
     {
       "added_at": "2022-09-09 13:00:00",
       "album": {
-        "name": "Enough",
-        "url": "https://open.spotify.com/album/6bqhEARnShL0e5LenCwvzk"
+        "name": "Miscreation",
+        "url": "https://open.spotify.com/album/6iVF7LgG1mjmMfBGF5jGP2"
       },
       "artists": [
         {
-          "name": "Glass Tides",
-          "url": "https://open.spotify.com/artist/3ss8CCHIds5hKnQ9un3dU0"
-        },
-        {
-          "name": "Will King",
-          "url": "https://open.spotify.com/artist/4k3IKj51sqFK9nKz7qPdbM"
+          "name": "The Anchor",
+          "url": "https://open.spotify.com/artist/2x583f2zJEjkiPd6IY4yfW"
         }
       ],
-      "duration_ms": 169000,
-      "name": "Enough",
-      "url": "https://open.spotify.com/track/46PbPFnjEgaUQtxiYh334k"
+      "duration_ms": 213401,
+      "name": "Miscreation",
+      "url": "https://open.spotify.com/track/5YcT4GfUGdJSuoiZwiv26Z"
     },
     {
       "added_at": "2022-09-09 13:00:00",
@@ -875,18 +871,22 @@
     {
       "added_at": "2022-09-09 13:00:00",
       "album": {
-        "name": "Miscreation",
-        "url": "https://open.spotify.com/album/6iVF7LgG1mjmMfBGF5jGP2"
+        "name": "Enough",
+        "url": "https://open.spotify.com/album/6bqhEARnShL0e5LenCwvzk"
       },
       "artists": [
         {
-          "name": "The Anchor",
-          "url": "https://open.spotify.com/artist/2x583f2zJEjkiPd6IY4yfW"
+          "name": "Glass Tides",
+          "url": "https://open.spotify.com/artist/3ss8CCHIds5hKnQ9un3dU0"
+        },
+        {
+          "name": "Will King",
+          "url": "https://open.spotify.com/artist/4k3IKj51sqFK9nKz7qPdbM"
         }
       ],
-      "duration_ms": 213401,
-      "name": "Miscreation",
-      "url": "https://open.spotify.com/track/5YcT4GfUGdJSuoiZwiv26Z"
+      "duration_ms": 169000,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/46PbPFnjEgaUQtxiYh334k"
     },
     {
       "added_at": "2022-09-09 13:00:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2022-09-09 13:00:00",
       "album": {
-        "name": "Shadows in Time",
-        "url": "https://open.spotify.com/album/1PslHyu7PjNOg0CjNsM8jT"
-      },
-      "artists": [
-        {
-          "name": "Ingested",
-          "url": "https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m"
-        }
-      ],
-      "duration_ms": 224511,
-      "name": "Shadows in Time",
-      "url": "https://open.spotify.com/track/4KV67yEvLy99IK1BK4GtPu"
-    },
-    {
-      "added_at": "2022-09-09 13:00:00",
-      "album": {
         "name": "NWWM",
         "url": "https://open.spotify.com/album/62P9pQQM3XNuM7RNSd1PEm"
       },
@@ -1007,18 +991,18 @@
     {
       "added_at": "2022-09-09 13:00:00",
       "album": {
-        "name": "Be Someone",
-        "url": "https://open.spotify.com/album/3wHYbhls679gOOr45eAWZv"
+        "name": "Shadows in Time",
+        "url": "https://open.spotify.com/album/1PslHyu7PjNOg0CjNsM8jT"
       },
       "artists": [
         {
-          "name": "Banks Arcade",
-          "url": "https://open.spotify.com/artist/0dPpBOzonBzIhl7EoLnj3D"
+          "name": "Ingested",
+          "url": "https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m"
         }
       ],
-      "duration_ms": 200000,
-      "name": "Be Someone",
-      "url": "https://open.spotify.com/track/13saTla2BZhPkAm5OWRaFW"
+      "duration_ms": 224511,
+      "name": "Shadows in Time",
+      "url": "https://open.spotify.com/track/4KV67yEvLy99IK1BK4GtPu"
     },
     {
       "added_at": "2022-09-09 13:00:00",
@@ -1035,6 +1019,22 @@
       "duration_ms": 198657,
       "name": "Losing You",
       "url": "https://open.spotify.com/track/1if0Z6htYQenIrHO23yl28"
+    },
+    {
+      "added_at": "2022-09-09 13:00:00",
+      "album": {
+        "name": "Be Someone",
+        "url": "https://open.spotify.com/album/3wHYbhls679gOOr45eAWZv"
+      },
+      "artists": [
+        {
+          "name": "Banks Arcade",
+          "url": "https://open.spotify.com/artist/0dPpBOzonBzIhl7EoLnj3D"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Be Someone",
+      "url": "https://open.spotify.com/track/13saTla2BZhPkAm5OWRaFW"
     },
     {
       "added_at": "2022-09-09 13:00:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2022-09-09 13:00:00",
       "album": {
-        "name": "Eden Will Drown",
-        "url": "https://open.spotify.com/album/3ibVio0A4V0qNhUiscjFjR"
-      },
-      "artists": [
-        {
-          "name": "END",
-          "url": "https://open.spotify.com/artist/4MnX5gyPiIWEjQzvX54I8p"
-        }
-      ],
-      "duration_ms": 192360,
-      "name": "Eden Will Drown",
-      "url": "https://open.spotify.com/track/0wMsnJgY82QHiB0gQn6UAE"
-    },
-    {
-      "added_at": "2022-09-09 13:00:00",
-      "album": {
         "name": "Break Me Down",
         "url": "https://open.spotify.com/album/5rwNN6KSg9pngqKr3eu3wt"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 208228,
       "name": "Break Me Down",
       "url": "https://open.spotify.com/track/4Qgmwp20QeC0LFVK7cLo7v"
+    },
+    {
+      "added_at": "2022-09-09 13:00:00",
+      "album": {
+        "name": "Eden Will Drown",
+        "url": "https://open.spotify.com/album/3ibVio0A4V0qNhUiscjFjR"
+      },
+      "artists": [
+        {
+          "name": "END",
+          "url": "https://open.spotify.com/artist/4MnX5gyPiIWEjQzvX54I8p"
+        }
+      ],
+      "duration_ms": 192360,
+      "name": "Eden Will Drown",
+      "url": "https://open.spotify.com/track/0wMsnJgY82QHiB0gQn6UAE"
     },
     {
       "added_at": "2022-09-09 13:00:00",

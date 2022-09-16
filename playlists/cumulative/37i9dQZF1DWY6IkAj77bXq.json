@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 191111,
       "name": "A Space Within a Space",
       "url": "https://open.spotify.com/track/5SDQFvu8ltjkYlsZOxAOxM"
@@ -361,7 +361,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 157402,
       "name": "Capella",
       "url": "https://open.spotify.com/track/5RPMibWUfF3LzQ6kjb7prZ"
@@ -505,7 +505,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 124615,
       "name": "Dream Away",
       "url": "https://open.spotify.com/track/7G9mgszDgcXRn8BlShb2kE"
@@ -1218,6 +1218,24 @@
     },
     {
       "album": {
+        "name": "Orphic",
+        "url": "https://open.spotify.com/album/0MrCJsyAgkx4K5aJmvfIMA"
+      },
+      "artists": [
+        {
+          "name": "The Nowhows",
+          "url": "https://open.spotify.com/artist/0yv3AGgMUbIJR6DROh35j1"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180909,
+      "name": "Orphic",
+      "url": "https://open.spotify.com/track/6KyPQhcAuRJxeq0Rwab6Jk"
+    },
+    {
+      "album": {
         "name": "Paracosm",
         "url": "https://open.spotify.com/album/4nQQetCS5JZ4wOYgdsT9Bv"
       },
@@ -1323,6 +1341,24 @@
       "duration_ms": 211443,
       "name": "Pegasus",
       "url": "https://open.spotify.com/track/0N08dxkNnilnHjjRhCL9V1"
+    },
+    {
+      "album": {
+        "name": "Pilgrimage",
+        "url": "https://open.spotify.com/album/2XWMV5XBqmoPaPxOWLlJGq"
+      },
+      "artists": [
+        {
+          "name": "Arush Mandal",
+          "url": "https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177391,
+      "name": "Protection",
+      "url": "https://open.spotify.com/track/7seUboMUYcCSjiuWfHRqkR"
     },
     {
       "album": {
@@ -2097,6 +2133,24 @@
       "duration_ms": 409616,
       "name": "World Peace",
       "url": "https://open.spotify.com/track/76Tn6TEnTFySc9CnzSOLx2"
+    },
+    {
+      "album": {
+        "name": "Wu Wei",
+        "url": "https://open.spotify.com/album/1YhweHJQeMMAza8FLEtZLW"
+      },
+      "artists": [
+        {
+          "name": "De Moi",
+          "url": "https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169382,
+      "name": "Wu Wei",
+      "url": "https://open.spotify.com/track/6EOpjNGn34eXLJASVcUksY"
     },
     {
       "album": {

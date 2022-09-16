@@ -1,12 +1,12 @@
 {
   "description": "Walk the bridge between indie and folk. Cover: Adam Melchor",
-  "num_followers": 49502,
+  "num_followers": 49549,
   "original_name": "Folk Arc",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5NjAwMCwwMDAwMDAwMDc2NmFkMDljMTk0NmQzMWE5ZTRlOTQ2MDI5MTI1OTdh",
+  "snapshot_id": "MTY2MjY5NjAwMCwwMDAwMDAwMDcyMGE4ZDc4NGU1NjVhMWNiMzU0ZDhkZmI0YmJlZWEy",
   "tracks": [
     {
       "added_at": "2022-09-09 04:00:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
-        "name": "Nobody Lives Here Anymore",
-        "url": "https://open.spotify.com/album/28iSGTnbDa3i5wwEoCYg8c"
-      },
-      "artists": [
-        {
-          "name": "Cut Worms",
-          "url": "https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l"
-        }
-      ],
-      "duration_ms": 277261,
-      "name": "Every Once In A While",
-      "url": "https://open.spotify.com/track/2Kpm9tFxblFm2nquieRdnZ"
-    },
-    {
-      "added_at": "2022-04-29 04:00:00",
-      "album": {
         "name": "Somewhere",
         "url": "https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 247506,
       "name": "Bad girl",
       "url": "https://open.spotify.com/track/4wyQsARSHoKsToZkEss5FD"
+    },
+    {
+      "added_at": "2022-04-29 04:00:00",
+      "album": {
+        "name": "Nobody Lives Here Anymore",
+        "url": "https://open.spotify.com/album/28iSGTnbDa3i5wwEoCYg8c"
+      },
+      "artists": [
+        {
+          "name": "Cut Worms",
+          "url": "https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l"
+        }
+      ],
+      "duration_ms": 277261,
+      "name": "Every Once In A While",
+      "url": "https://open.spotify.com/track/2Kpm9tFxblFm2nquieRdnZ"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
-        "name": "An Overview on Phenomenal Nature",
-        "url": "https://open.spotify.com/album/1NzOdSkSNmBhhg72KlNcsE"
-      },
-      "artists": [
-        {
-          "name": "Cassandra Jenkins",
-          "url": "https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik"
-        }
-      ],
-      "duration_ms": 209826,
-      "name": "Michelangelo",
-      "url": "https://open.spotify.com/track/7M5ASYUkhK0iac9WiKyPA3"
-    },
-    {
-      "added_at": "2022-04-29 04:00:00",
-      "album": {
         "name": "dirt",
         "url": "https://open.spotify.com/album/1cnrZ3t6GI4S6JIiiEkVuB"
       },
@@ -971,18 +955,18 @@
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
-        "name": "Barbara",
-        "url": "https://open.spotify.com/album/5eieb3BvJUgPIzE5VkdyWL"
+        "name": "An Overview on Phenomenal Nature",
+        "url": "https://open.spotify.com/album/1NzOdSkSNmBhhg72KlNcsE"
       },
       "artists": [
         {
-          "name": "Barrie",
-          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
+          "name": "Cassandra Jenkins",
+          "url": "https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik"
         }
       ],
-      "duration_ms": 220573,
-      "name": "Jenny",
-      "url": "https://open.spotify.com/track/3AK2d1ZlEvO4OJe9Lo53xD"
+      "duration_ms": 209826,
+      "name": "Michelangelo",
+      "url": "https://open.spotify.com/track/7M5ASYUkhK0iac9WiKyPA3"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -999,6 +983,22 @@
       "duration_ms": 283370,
       "name": "Sucker",
       "url": "https://open.spotify.com/track/1YwjbuXJi7nTwnw4wI4wbU"
+    },
+    {
+      "added_at": "2022-04-29 04:00:00",
+      "album": {
+        "name": "Barbara",
+        "url": "https://open.spotify.com/album/5eieb3BvJUgPIzE5VkdyWL"
+      },
+      "artists": [
+        {
+          "name": "Barrie",
+          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
+        }
+      ],
+      "duration_ms": 220573,
+      "name": "Jenny",
+      "url": "https://open.spotify.com/track/3AK2d1ZlEvO4OJe9Lo53xD"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
-        "name": "An Overview on Phenomenal Nature",
-        "url": "https://open.spotify.com/album/1NzOdSkSNmBhhg72KlNcsE"
-      },
-      "artists": [
-        {
-          "name": "Cassandra Jenkins",
-          "url": "https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik"
-        }
-      ],
-      "duration_ms": 327440,
-      "name": "Hard Drive",
-      "url": "https://open.spotify.com/track/3ArnNhm8z0ScjDKfGHSBRk"
-    },
-    {
-      "added_at": "2022-04-29 04:00:00",
-      "album": {
         "name": "needy",
         "url": "https://open.spotify.com/album/4t8yem8v9bWIV9gLgpUAdB"
       },
@@ -1115,6 +1099,22 @@
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
+        "name": "An Overview on Phenomenal Nature",
+        "url": "https://open.spotify.com/album/1NzOdSkSNmBhhg72KlNcsE"
+      },
+      "artists": [
+        {
+          "name": "Cassandra Jenkins",
+          "url": "https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik"
+        }
+      ],
+      "duration_ms": 327440,
+      "name": "Hard Drive",
+      "url": "https://open.spotify.com/track/3ArnNhm8z0ScjDKfGHSBRk"
+    },
+    {
+      "added_at": "2022-04-29 04:00:00",
+      "album": {
         "name": "Serpentine Prison (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4IfdGdYnWooM3sSN03UQZA"
       },
@@ -1127,22 +1127,6 @@
       "duration_ms": 265160,
       "name": "Distant Axis",
       "url": "https://open.spotify.com/track/7yEoR6Cm6avOgK5RYyKs0H"
-    },
-    {
-      "added_at": "2022-04-29 04:00:00",
-      "album": {
-        "name": "i don\u2019t know who needs to hear this...",
-        "url": "https://open.spotify.com/album/5orWhhMYUzPXsKx4pDZWak"
-      },
-      "artists": [
-        {
-          "name": "Tomberlin",
-          "url": "https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS"
-        }
-      ],
-      "duration_ms": 285569,
-      "name": "stoned",
-      "url": "https://open.spotify.com/track/2lHLhy71ZIqedHum50FhvF"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -1163,6 +1147,22 @@
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
+        "name": "i don\u2019t know who needs to hear this...",
+        "url": "https://open.spotify.com/album/5orWhhMYUzPXsKx4pDZWak"
+      },
+      "artists": [
+        {
+          "name": "Tomberlin",
+          "url": "https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS"
+        }
+      ],
+      "duration_ms": 285569,
+      "name": "stoned",
+      "url": "https://open.spotify.com/track/2lHLhy71ZIqedHum50FhvF"
+    },
+    {
+      "added_at": "2022-04-29 04:00:00",
+      "album": {
         "name": "Ignorance",
         "url": "https://open.spotify.com/album/3KeR5BDM2giFr8zoSXBrgE"
       },
@@ -1175,22 +1175,6 @@
       "duration_ms": 320524,
       "name": "Robber",
       "url": "https://open.spotify.com/track/57sW7XhinRtf8lL4GwzVGi"
-    },
-    {
-      "added_at": "2022-04-29 04:00:00",
-      "album": {
-        "name": "Someone New",
-        "url": "https://open.spotify.com/album/6gwAAOZeKLYDAPzSSP4SCa"
-      },
-      "artists": [
-        {
-          "name": "Helena Deland",
-          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
-        }
-      ],
-      "duration_ms": 281252,
-      "name": "Truth Nugget",
-      "url": "https://open.spotify.com/track/7hCvge7SEzwW0Q4VjtnOQK"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -1227,22 +1211,6 @@
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
-        "name": "tap",
-        "url": "https://open.spotify.com/album/468E2PVbe91tliuaxzT2Np"
-      },
-      "artists": [
-        {
-          "name": "Tomberlin",
-          "url": "https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS"
-        }
-      ],
-      "duration_ms": 271869,
-      "name": "tap",
-      "url": "https://open.spotify.com/track/6Pec0Im6sFC4g6EKs45bwa"
-    },
-    {
-      "added_at": "2022-04-29 04:00:00",
-      "album": {
         "name": "Mia Gargaret",
         "url": "https://open.spotify.com/album/0NZqwH80237QvwcJDlOia7"
       },
@@ -1271,6 +1239,38 @@
       "duration_ms": 247933,
       "name": "Held Down",
       "url": "https://open.spotify.com/track/2PHeCBCWESSAqfxpORbxKA"
+    },
+    {
+      "added_at": "2022-04-29 04:00:00",
+      "album": {
+        "name": "Someone New",
+        "url": "https://open.spotify.com/album/6gwAAOZeKLYDAPzSSP4SCa"
+      },
+      "artists": [
+        {
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
+        }
+      ],
+      "duration_ms": 281252,
+      "name": "Truth Nugget",
+      "url": "https://open.spotify.com/track/7hCvge7SEzwW0Q4VjtnOQK"
+    },
+    {
+      "added_at": "2022-04-29 04:00:00",
+      "album": {
+        "name": "tap",
+        "url": "https://open.spotify.com/album/468E2PVbe91tliuaxzT2Np"
+      },
+      "artists": [
+        {
+          "name": "Tomberlin",
+          "url": "https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS"
+        }
+      ],
+      "duration_ms": 271869,
+      "name": "tap",
+      "url": "https://open.spotify.com/track/6Pec0Im6sFC4g6EKs45bwa"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
-        "name": "Less Ready to Go",
-        "url": "https://open.spotify.com/album/6zjdTFA6kHI60lpIJCTbOa"
-      },
-      "artists": [
-        {
-          "name": "Michael Nau",
-          "url": "https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs"
-        }
-      ],
-      "duration_ms": 267870,
-      "name": "Hoops",
-      "url": "https://open.spotify.com/track/5AuTmQwPgdgF340ASEGKRo"
-    },
-    {
-      "added_at": "2022-04-29 04:00:00",
-      "album": {
         "name": "Blindsided",
         "url": "https://open.spotify.com/album/7oRmDTnNW7VXWKXBBMFYNF"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 222586,
       "name": "Blindsided",
       "url": "https://open.spotify.com/track/1v8R8ZlnD5brSRkPMSEWjm"
+    },
+    {
+      "added_at": "2022-04-29 04:00:00",
+      "album": {
+        "name": "Less Ready to Go",
+        "url": "https://open.spotify.com/album/6zjdTFA6kHI60lpIJCTbOa"
+      },
+      "artists": [
+        {
+          "name": "Michael Nau",
+          "url": "https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs"
+        }
+      ],
+      "duration_ms": 267870,
+      "name": "Hoops",
+      "url": "https://open.spotify.com/track/5AuTmQwPgdgF340ASEGKRo"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
-        "name": "Strange to Explain",
-        "url": "https://open.spotify.com/album/6W3ljBUTGb9FhuOVZBPbQI"
-      },
-      "artists": [
-        {
-          "name": "Woods",
-          "url": "https://open.spotify.com/artist/2sBPVEeMBXKNsZtYaJixnJ"
-        }
-      ],
-      "duration_ms": 215564,
-      "name": "Be There Still",
-      "url": "https://open.spotify.com/track/7dQ76KVAyQkPqpynSmNCot"
-    },
-    {
-      "added_at": "2022-04-29 04:00:00",
-      "album": {
         "name": "Echo",
         "url": "https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ"
       },
@@ -1643,6 +1627,22 @@
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
+        "name": "Strange to Explain",
+        "url": "https://open.spotify.com/album/6W3ljBUTGb9FhuOVZBPbQI"
+      },
+      "artists": [
+        {
+          "name": "Woods",
+          "url": "https://open.spotify.com/artist/2sBPVEeMBXKNsZtYaJixnJ"
+        }
+      ],
+      "duration_ms": 215564,
+      "name": "Be There Still",
+      "url": "https://open.spotify.com/track/7dQ76KVAyQkPqpynSmNCot"
+    },
+    {
+      "added_at": "2022-04-29 04:00:00",
+      "album": {
         "name": "Let The Radio Play",
         "url": "https://open.spotify.com/album/3FOOxVr6GYnKLVtVDJSfmH"
       },
@@ -1655,6 +1655,22 @@
       "duration_ms": 209634,
       "name": "Let The Radio Play",
       "url": "https://open.spotify.com/track/02gdamJgcfDKYV4QDWTT07"
+    },
+    {
+      "added_at": "2022-04-29 04:00:00",
+      "album": {
+        "name": "Memory of a Cut off Head",
+        "url": "https://open.spotify.com/album/0kxeP3unSnuW8GTRzL4MsS"
+      },
+      "artists": [
+        {
+          "name": "OCS",
+          "url": "https://open.spotify.com/artist/5PhWi4UkdjJYThzuoMItQa"
+        }
+      ],
+      "duration_ms": 287280,
+      "name": "Memory of a Cut off Head",
+      "url": "https://open.spotify.com/track/6x2WOYH0DgXdTi8vg0WivN"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -1679,38 +1695,18 @@
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
-        "name": "My First Life",
-        "url": "https://open.spotify.com/album/2pvy6Hm8BuyUJGzIXQKgJ1"
+        "name": "Wooh Dang",
+        "url": "https://open.spotify.com/album/4baa3THO8wKLMrASaem2Ri"
       },
       "artists": [
         {
-          "name": "San Fermin",
-          "url": "https://open.spotify.com/artist/7fSnislKgW9Mz0YIqWQmGt"
-        },
-        {
-          "name": "Wye Oak",
-          "url": "https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB"
+          "name": "Daniel Norgren",
+          "url": "https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO"
         }
       ],
-      "duration_ms": 216015,
-      "name": "My First Life (feat. Wye Oak)",
-      "url": "https://open.spotify.com/track/0FbCIMjpjtheaSTsFlzknc"
-    },
-    {
-      "added_at": "2022-04-29 04:00:00",
-      "album": {
-        "name": "Memory of a Cut off Head",
-        "url": "https://open.spotify.com/album/0kxeP3unSnuW8GTRzL4MsS"
-      },
-      "artists": [
-        {
-          "name": "OCS",
-          "url": "https://open.spotify.com/artist/5PhWi4UkdjJYThzuoMItQa"
-        }
-      ],
-      "duration_ms": 287280,
-      "name": "Memory of a Cut off Head",
-      "url": "https://open.spotify.com/track/6x2WOYH0DgXdTi8vg0WivN"
+      "duration_ms": 246293,
+      "name": "Rolling Rolling Rolling",
+      "url": "https://open.spotify.com/track/2ITsIVlWHBXkOgeXXJqid9"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -1731,18 +1727,22 @@
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
-        "name": "Wooh Dang",
-        "url": "https://open.spotify.com/album/4baa3THO8wKLMrASaem2Ri"
+        "name": "My First Life",
+        "url": "https://open.spotify.com/album/2pvy6Hm8BuyUJGzIXQKgJ1"
       },
       "artists": [
         {
-          "name": "Daniel Norgren",
-          "url": "https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO"
+          "name": "San Fermin",
+          "url": "https://open.spotify.com/artist/7fSnislKgW9Mz0YIqWQmGt"
+        },
+        {
+          "name": "Wye Oak",
+          "url": "https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB"
         }
       ],
-      "duration_ms": 246293,
-      "name": "Rolling Rolling Rolling",
-      "url": "https://open.spotify.com/track/2ITsIVlWHBXkOgeXXJqid9"
+      "duration_ms": 216015,
+      "name": "My First Life (feat. Wye Oak)",
+      "url": "https://open.spotify.com/track/0FbCIMjpjtheaSTsFlzknc"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
-        "name": "Solid Heart",
-        "url": "https://open.spotify.com/album/3Hc7MbrPHYONVqCjzZYxmA"
-      },
-      "artists": [
-        {
-          "name": "Gia Margaret",
-          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
-        }
-      ],
-      "duration_ms": 218017,
-      "name": "Solid Heart",
-      "url": "https://open.spotify.com/track/7lT9thtYRU1l8eW9pTZPPa"
-    },
-    {
-      "added_at": "2022-04-29 04:00:00",
-      "album": {
         "name": "Two Saviors",
         "url": "https://open.spotify.com/album/2vikSk2cwNb7llDz0pIrxh"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 247756,
       "name": "Pareidolia",
       "url": "https://open.spotify.com/track/1Qpyl5qbt1JtXDdTyjmeaM"
+    },
+    {
+      "added_at": "2022-04-29 04:00:00",
+      "album": {
+        "name": "Solid Heart",
+        "url": "https://open.spotify.com/album/3Hc7MbrPHYONVqCjzZYxmA"
+      },
+      "artists": [
+        {
+          "name": "Gia Margaret",
+          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
+        }
+      ],
+      "duration_ms": 218017,
+      "name": "Solid Heart",
+      "url": "https://open.spotify.com/track/7lT9thtYRU1l8eW9pTZPPa"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -1963,22 +1963,6 @@
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
-        "name": "Calling The Shots",
-        "url": "https://open.spotify.com/album/2tqxQyefvJhebANvFfyS97"
-      },
-      "artists": [
-        {
-          "name": "Jamie B.",
-          "url": "https://open.spotify.com/artist/0V7j0A3N5hup0XNQVKYvrQ"
-        }
-      ],
-      "duration_ms": 231382,
-      "name": "Calling The Shots",
-      "url": "https://open.spotify.com/track/327V3cyuKrjlHzcoup18bX"
-    },
-    {
-      "added_at": "2022-04-29 04:00:00",
-      "album": {
         "name": "Life, and Another",
         "url": "https://open.spotify.com/album/4xeTLqZJ2RHgawaBVDth5d"
       },
@@ -1995,18 +1979,18 @@
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
-        "name": "May",
-        "url": "https://open.spotify.com/album/53MJvvksiE4OBv49EWp0dl"
+        "name": "Calling The Shots",
+        "url": "https://open.spotify.com/album/2tqxQyefvJhebANvFfyS97"
       },
       "artists": [
         {
-          "name": "Humbird",
-          "url": "https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB"
+          "name": "Jamie B.",
+          "url": "https://open.spotify.com/artist/0V7j0A3N5hup0XNQVKYvrQ"
         }
       ],
-      "duration_ms": 238515,
-      "name": "May",
-      "url": "https://open.spotify.com/track/4JhCFrz0W9JuwsgT1c4HJT"
+      "duration_ms": 231382,
+      "name": "Calling The Shots",
+      "url": "https://open.spotify.com/track/327V3cyuKrjlHzcoup18bX"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -2023,6 +2007,22 @@
       "duration_ms": 343253,
       "name": "Other You",
       "url": "https://open.spotify.com/track/1LQf4dPrvgiuGyRtrXzZ2e"
+    },
+    {
+      "added_at": "2022-04-29 04:00:00",
+      "album": {
+        "name": "May",
+        "url": "https://open.spotify.com/album/53MJvvksiE4OBv49EWp0dl"
+      },
+      "artists": [
+        {
+          "name": "Humbird",
+          "url": "https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB"
+        }
+      ],
+      "duration_ms": 238515,
+      "name": "May",
+      "url": "https://open.spotify.com/track/4JhCFrz0W9JuwsgT1c4HJT"
     },
     {
       "added_at": "2022-09-09 04:00:00",

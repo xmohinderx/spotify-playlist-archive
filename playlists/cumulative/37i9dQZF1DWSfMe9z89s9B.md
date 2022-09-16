@@ -4,7 +4,7 @@
 
 > These progressive R&B and soul tracks can't be put in a box\. Cover: Greentea Peng
 
-590 songs - 1 day 8 hr 7 min - [published](https://open.spotify.com/playlist/5LTt78znSTM3vwYtfHo5Kh)
+591 songs - 1 day 8 hr 10 min - [published](https://open.spotify.com/playlist/5LTt78znSTM3vwYtfHo5Kh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [A Moment Of Mystery \(feat\. Toro y Moi\)](https://open.spotify.com/track/28y750mmZ90J6ss2RLQNK7) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [A Moment Of Mystery \(feat\. Toro y Moi\)](https://open.spotify.com/album/4uclvwR2Rro2n4jCm7kR3C) | 3:25 | 2022-05-20 | 2022-07-28 |
 | [A Moment Of Mystery \(feat\. Toro y Moi\)](https://open.spotify.com/track/5OmzLQz8dsXSvEcZ2gSsQ4) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [V I N C E N T](https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw) | 3:25 | 2022-06-10 | 2022-08-09 |
 | [A Song About the Sun](https://open.spotify.com/track/2ylXMli4RzeVjIhRsjdoWn) | [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [A Song About the Sun](https://open.spotify.com/album/1MlZPyYBHyNV8dDOlK3pyw) | 3:30 | 2021-09-10 | 2022-04-16 |
-| [About A Gemini, Pt\. 3](https://open.spotify.com/track/5nsNIkhHNiatcdavaoGkly) | [ImaniCarolyn](https://open.spotify.com/artist/1XxDHmr1Cb6x8JtKD8W9OX), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Into The Blue Light](https://open.spotify.com/album/5Y5hByZ0qL2hMLgIBmn44A) | 3:38 | 2022-07-29 |  |
+| [About A Gemini, Pt\. 3](https://open.spotify.com/track/5nsNIkhHNiatcdavaoGkly) | [ImaniCarolyn](https://open.spotify.com/artist/1XxDHmr1Cb6x8JtKD8W9OX), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Into The Blue Light](https://open.spotify.com/album/5Y5hByZ0qL2hMLgIBmn44A) | 3:38 | 2022-07-29 | 2022-09-16 |
 | [Absence of You](https://open.spotify.com/track/5XgbACXBnPWEKSTOstpVLT) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Absence of You](https://open.spotify.com/album/5zgJnzHWfKZ4vifW7gMQJv) | 3:14 | 2022-04-01 | 2022-04-12 |
 | [ACHE](https://open.spotify.com/track/4le3EvudUItKuuIj6YEpNi) | [emawk](https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY) | [MIND](https://open.spotify.com/album/4BJa91HW8rfS0EmjP9Ws7O) | 4:57 | 2022-07-15 | 2022-07-17 |
 | [ACOUSCOUS](https://open.spotify.com/track/64lmE7hixqSVxMsk5nvG8e) | [emawk](https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY) | [ACOUSCOUS](https://open.spotify.com/album/03OuqhFoYm9Odja6riHELI) | 3:57 | 2021-03-19 | 2022-07-30 |
@@ -66,6 +66,7 @@
 | [Bad Ting](https://open.spotify.com/track/6ui76rE0geLZvF57z4fPK2) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Bad Ting](https://open.spotify.com/album/5F52mSRpY9XvPTdmsgdMr8) | 3:26 | 2022-04-01 | 2022-07-22 |
 | [Bang](https://open.spotify.com/track/7MQxN4lV9BC6Y5qgx4Inxc) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV), [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [Lies About The War](https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv) | 3:22 | 2022-08-26 |  |
 | [BE U](https://open.spotify.com/track/0Dda3qDMBqfXyh5r4euLL0) | [Modlee](https://open.spotify.com/artist/1vJ2skBECCSXeUdgbQadBW) | [SOUL URGE](https://open.spotify.com/album/1DfBrXghMA9GswZIyrlKJU) | 2:38 | 2022-05-20 | 2022-05-28 |
+| [Beautiful](https://open.spotify.com/track/0SPvoWOI3cUvLSF61bToD0) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Beautiful](https://open.spotify.com/album/6izE6ya12rKksWBZXKh7zU) | 2:46 | 2022-09-09 |  |
 | [Been Through That](https://open.spotify.com/track/2cZbLHnTKtdSYUsVYlrnSi) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Been Through That](https://open.spotify.com/album/3ygNPDPtpbk2QSsLCKoClM) | 3:14 | 2021-06-18 | 2022-07-17 |
 | [Beluga v2 \(feat\. Berhana\)](https://open.spotify.com/track/4RrJBZZ41eKEZAylP1A9t1) | [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO), [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl) | [Beluga v2 \(feat\. Berhana\)](https://open.spotify.com/album/1fyV8Ul6YsyPChDdtZoiCX) | 2:35 | 2021-05-14 | 2022-07-29 |
 | [Benchmark](https://open.spotify.com/track/17Ct6PmsR5laPdylW8cRms) | [Faiza](https://open.spotify.com/artist/1rnl1q5bktJv9GiZTH91mD) | [Benchmark](https://open.spotify.com/album/0nDORNahzyOzSM4jBwNMEz) | 3:07 | 2022-04-01 | 2022-07-07 |

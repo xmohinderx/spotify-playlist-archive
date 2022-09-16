@@ -2,9 +2,9 @@
 
 ### [KrOWN](https://open.spotify.com/playlist/37i9dQZF1DWW46Vfs1oltB)
 
-> The hottest & new Korean hip hop music is here\. OWN the crown with KR hip hop music\. \(Cover: Dynamic Duo\) \(전세계에서 사랑받는 한국 힙합 히트 & 신곡을 만나보세요\. \(커버: 다이나믹 듀오\)
+> The hottest & new Korean hip hop music is here\. OWN the crown with KR hip hop music\. \(Cover: pH\-1\) \(전세계에서 사랑받는 한국 힙합 히트 & 신곡을 만나보세요\. \(커버: pH\-1\)
 
-587 songs - 1 day 9 hr 1 min - [published](https://open.spotify.com/playlist/6eQCLyN2pb2xMxhClGC7H2)
+588 songs - 1 day 9 hr 4 min - [published](https://open.spotify.com/playlist/6eQCLyN2pb2xMxhClGC7H2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -586,6 +586,7 @@
 | [You Don't Know \(Feat\. JUSTHIS\)](https://open.spotify.com/track/0NmHgFUzQtMEWSV81tbjwr) | [Swings](https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq), [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3) | [Upgrade Ⅳ](https://open.spotify.com/album/2yljIHgtOZCQJMJOXQZjQd) | 3:43 | 2022-03-26 | 2022-04-19 |
 | [Your Instagram \(Feat\. Blueday\)](https://open.spotify.com/track/69eA4nwZmmAZy3dL1OglaJ) | [IOHBOY](https://open.spotify.com/artist/40lwyp2MgiYdyw674W1t1e), [Blueday](https://open.spotify.com/artist/0eJldGKbkQF8duavnqq9hx) | [Your Instagram](https://open.spotify.com/album/7bFHJASGNnV4PilM1ivDfz) | 2:29 | 2022-08-18 |  |
 | [Yoyohere](https://open.spotify.com/track/5vAQub5PiNH8YWGu9iv3zp) | [Flatshop](https://open.spotify.com/artist/421Whtj6NjEsXkHgRPxstg) | [Yoyohere](https://open.spotify.com/album/4XJ2DNfwSC2aGINj5R5BwT) | 3:23 | 2022-01-04 | 2022-06-13 |
+| [ZOMBIES](https://open.spotify.com/track/2Q1EVavjMH8XrRvHbVRTpc) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [BUT FOR NOW LEAVE ME ALONE](https://open.spotify.com/album/5HUdhu9p2kVPQ8g56woOQn) | 3:04 | 2022-09-15 |  |
 | [ZUMO \(feat\. Jay Park\)](https://open.spotify.com/track/5MpKhDvROouEcppiAbBKBT) | [Boi B](https://open.spotify.com/artist/7MJnvH71CgBGCN9obN4aY5), [Hangzoo](https://open.spotify.com/artist/0m5ETFICJLAg6ageqa9FgZ), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [ZUMO](https://open.spotify.com/album/3WFDNoQy1JNX2ywiAIYsse) | 3:10 | 2022-09-01 |  |
 | [내 얘기 같아 \(Based On A True Story\)](https://open.spotify.com/track/3TODabyKjZdBvpGFCDAgxs) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Epik High Is Here 上 \(Part 1\)](https://open.spotify.com/album/5U1iQJeJurJANhdos9GugT) | 3:54 | 2021-12-18 | 2022-07-08 |
 | [뚝뚝뚝](https://open.spotify.com/track/6qqOz5LS19krVTFAvcSD3A) | [Mirani](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no), [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616), [KHAN](https://open.spotify.com/artist/13jYpBHek9LD68d1ZwWmu5), [OXYNOVA](https://open.spotify.com/artist/72b3VgmhJa2YqlypqHdrXa) | [Drop The Bit Final Pt\. 2](https://open.spotify.com/album/2q3EHtYTa2eF6GsWYMIQSO) | 3:55 | 2022-05-04 | 2022-08-13 |

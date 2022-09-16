@@ -4,7 +4,7 @@
 
 > deep & dark\. bold & bare\. cover: Julien Baker
 
-167 songs - 10 hr 35 min - [published](https://open.spotify.com/playlist/4pk0w13rV4dmJ8ZImqcVXV)
+169 songs - 10 hr 41 min - [published](https://open.spotify.com/playlist/4pk0w13rV4dmJ8ZImqcVXV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Capable](https://open.spotify.com/track/6WC0MIb3nGYkniBsh5DkPh) | [The Wild Reeds](https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH) | [The World We Built](https://open.spotify.com/album/3Z7jF3AHU6lNKkqDFYCern) | 4:17 | 2021-11-12 |  |
 | [Cathedral](https://open.spotify.com/track/528i0bBEVKFO8P1WwUYtEp) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Something American](https://open.spotify.com/album/6IX7qWEVCJ6gzbu18jIDon) | 2:50 | 2021-11-12 | 2022-07-28 |
 | [Cathedral](https://open.spotify.com/track/0wDd6J3mQ3vApoSKM1Iu2m) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Something American](https://open.spotify.com/album/4NDLVoNCIFbnWX3JGY3pR2) | 2:50 | 2021-11-12 | 2022-09-15 |
+| [Cathedral](https://open.spotify.com/track/2LAgQExTmwYpcrvXJdE2iT) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Something American](https://open.spotify.com/album/4mJFBVR1HjNGm1sYIHpBb2) | 2:50 | 2021-11-12 |  |
 | [Coast](https://open.spotify.com/track/6AtvqLh6eSczO0QGi6BFIm) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [Coast](https://open.spotify.com/album/2AlIFCfesogvLsAr80Pa6b) | 3:16 | 2021-11-12 | 2022-07-29 |
 | [Cold Caller](https://open.spotify.com/track/67eBpn7WYYSUcwI76Et8iN) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Eastwick / Cold Caller](https://open.spotify.com/album/1YQzACJ3FqQI4vqtK3e9sU) | 3:57 | 2021-11-12 |  |
 | [Cool Girl](https://open.spotify.com/track/0FSOenCj42lbikl1vd5ah9) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Cool Girl](https://open.spotify.com/album/0TCc51KQYlnJ6WuFOgN6hI) | 3:19 | 2021-11-12 |  |
@@ -64,7 +65,7 @@
 | [Haunted House](https://open.spotify.com/track/4vNxFySlHhuWuxOHvphZuP) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Haunted House](https://open.spotify.com/album/35Qo3iBJ04Num2L8NCOJWz) | 2:13 | 2021-11-12 | 2022-07-29 |
 | [Haunted House](https://open.spotify.com/track/6A6A6VJtMLsPKyHxNlYT5h) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [The Walls Are Way Too Thin](https://open.spotify.com/album/3fnXTtLgkjHv2HmqOODSW8) | 2:13 | 2021-11-12 |  |
 | [Head of Steak](https://open.spotify.com/track/3CoHSt9cVHsj9PhNqgqq5K) | [She Keeps Bees](https://open.spotify.com/artist/1dhUEswrKf1aUf6375EPSx) | [Head of Steak](https://open.spotify.com/album/4VrWtlUOsaNQPe5P4aNNhj) | 3:27 | 2021-11-12 | 2022-07-26 |
-| [Heavy Head \(Keep It Near\)](https://open.spotify.com/track/6GDUqLI7Wh88WNyZqCsYuQ) | [Brooke Bentham](https://open.spotify.com/artist/6c1CljS2C5YB6k7INEUs0A) | [Heavy Head \(Keep It Near\)](https://open.spotify.com/album/2wlsCaggRIScvrkaSJm9WI) | 4:17 | 2021-11-12 |  |
+| [Heavy Head \(Keep It Near\)](https://open.spotify.com/track/6GDUqLI7Wh88WNyZqCsYuQ) | [Brooke Bentham](https://open.spotify.com/artist/6c1CljS2C5YB6k7INEUs0A) | [Heavy Head \(Keep It Near\)](https://open.spotify.com/album/2wlsCaggRIScvrkaSJm9WI) | 4:17 | 2021-11-12 | 2022-09-16 |
 | [Held Down](https://open.spotify.com/track/2PHeCBCWESSAqfxpORbxKA) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Held Down](https://open.spotify.com/album/0Mgg0Wv09HVGKnfj33Zo1K) | 4:07 | 2021-11-12 |  |
 | [High And Dry](https://open.spotify.com/track/0GehqN1MkS7feXJWWk97KU) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [The Bends](https://open.spotify.com/album/49222lHU3qAalWzClAabbp) | 3:52 | 2021-11-12 |  |
 | [Hollow](https://open.spotify.com/track/2RZKkkakd9ULBy58ffOAG4) | [Courtney Hartman](https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7) | [Ready Reckoner](https://open.spotify.com/album/6AIIp8Sg3vWyxpyoPc4Cfl) | 4:18 | 2021-11-12 |  |
@@ -132,6 +133,7 @@
 | [Snake Song](https://open.spotify.com/track/5Kc1BdIbe3KZSTiVeomy8d) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Heart Song](https://open.spotify.com/album/7Knd1sUOhMwC8mgZDRWL1v) | 3:59 | 2021-11-12 | 2022-07-29 |
 | [Someone New](https://open.spotify.com/track/4rkUQKlWrCM6DiYRFqybdZ) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Someone New](https://open.spotify.com/album/6gwAAOZeKLYDAPzSSP4SCa) | 3:49 | 2021-11-12 |  |
 | [Someone New](https://open.spotify.com/track/68JDi93FyrXp06NIQjkUWD) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Someone New](https://open.spotify.com/album/3qlFvxg4y1POFOyIn6lPXb) | 3:49 | 2021-11-12 | 2022-07-29 |
+| [Something American](https://open.spotify.com/track/0SjWmoYajBMXHeh3DWZf9s) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Something American](https://open.spotify.com/album/4mJFBVR1HjNGm1sYIHpBb2) | 3:02 | 2021-11-12 |  |
 | [Something American](https://open.spotify.com/track/3UATWsUyES5Nkcqo22NUG5) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Something American](https://open.spotify.com/album/4NDLVoNCIFbnWX3JGY3pR2) | 3:02 | 2021-11-12 | 2022-09-15 |
 | [Something American](https://open.spotify.com/track/2a1V9QpXiVGHkb6m0vabRU) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Something American](https://open.spotify.com/album/6IX7qWEVCJ6gzbu18jIDon) | 3:03 | 2021-11-12 | 2022-07-29 |
 | [Souvenir](https://open.spotify.com/track/1JPRgRUK044O15wgv8uZO1) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [boygenius](https://open.spotify.com/album/5BRORKnC2HD5xhgUyR31SH) | 3:32 | 2021-11-12 | 2022-07-29 |
@@ -166,7 +168,7 @@
 | [Warped Window](https://open.spotify.com/track/0C0ESa1ZZ5taXaYUxwnvx9) | [Anna Mieke](https://open.spotify.com/artist/52HjDHLlkCYt5Pemr9wefL) | [Idle Mind](https://open.spotify.com/album/5PncSJwq9TMUU2c3Y54pGZ) | 4:55 | 2021-11-12 | 2022-07-29 |
 | [Warped Window](https://open.spotify.com/track/7jd2h2mIeyKpqkFsrl5EHN) | [Anna Mieke](https://open.spotify.com/artist/52HjDHLlkCYt5Pemr9wefL) | [Idle Mind](https://open.spotify.com/album/5jz07RajgJtqxfBAwWULOW) | 4:55 | 2021-11-12 |  |
 | [We Cannot Resist](https://open.spotify.com/track/068ZytZuPeqoSgaffebBVD) | [LUMP](https://open.spotify.com/artist/4gQsGkfdB4uVrNBqo4MhmI), [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM), [Mike Lindsay](https://open.spotify.com/artist/7JY39clELNh1MLQBJs6MAk) | [Animal](https://open.spotify.com/album/1UiSJKr1F1Y3ZwbCw67JV2) | 4:45 | 2021-11-18 |  |
-| [When Skies Were Always Blue](https://open.spotify.com/track/1cxfKJMjgB4OY0mm3QVB6n) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [When Skies Were Always Blue](https://open.spotify.com/album/6ONL60dY4YafW6hPNEsFiN) | 4:15 | 2021-11-12 |  |
+| [When Skies Were Always Blue](https://open.spotify.com/track/1cxfKJMjgB4OY0mm3QVB6n) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [When Skies Were Always Blue](https://open.spotify.com/album/6ONL60dY4YafW6hPNEsFiN) | 4:15 | 2021-11-12 | 2022-09-16 |
 | [Wild Parts](https://open.spotify.com/track/3RG5SUMbOTOEaQoOuCBSgG) | [Maddie Medley](https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3) | [Wild Parts](https://open.spotify.com/album/7kTYlYTFHfIrL9kplUnRam) | 3:59 | 2021-11-12 |  |
 | [Wild Turkey](https://open.spotify.com/track/4aX4dqpYXTxRMTcjekxPyp) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wild Turkey](https://open.spotify.com/album/7iaq4ZxNNKZl9v92lOxQ7N) | 4:32 | 2021-11-12 |  |
 | [wish you the best \(feat\. Jensen McRae\)](https://open.spotify.com/track/35xkenzfDhEA1LEpJsprKu) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [wish you the best \(feat\. Jensen McRae\)](https://open.spotify.com/album/4O5JiVh2ldkKaBsCFNuOdK) | 3:12 | 2021-11-12 | 2022-07-29 |

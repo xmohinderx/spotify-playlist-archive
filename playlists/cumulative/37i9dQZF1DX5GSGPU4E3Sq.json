@@ -116,6 +116,24 @@
     },
     {
       "album": {
+        "name": "A Magic Forest",
+        "url": "https://open.spotify.com/album/6DbQ69b3HVphNE7v6a9RQu"
+      },
+      "artists": [
+        {
+          "name": "Evolving Stream",
+          "url": "https://open.spotify.com/artist/5zL5lmsaGzjnU7dn85w2bz"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185854,
+      "name": "A Magic Forest",
+      "url": "https://open.spotify.com/track/1tibAYEBfrBcPxJIZe2lMJ"
+    },
+    {
+      "album": {
         "name": "A Midsummer Nice Dream",
         "url": "https://open.spotify.com/album/4WZ0dPZH8wktMC0RiFhwL6"
       },
@@ -3581,7 +3599,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 122837,
       "name": "Silviculture",
       "url": "https://open.spotify.com/track/6RzY1FdhbgqimxfPft78fB"

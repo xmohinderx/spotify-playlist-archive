@@ -2,9 +2,9 @@
 
 ### [Top Brasil](https://open.spotify.com/playlist/37i9dQZF1DX0FOF1IUWK1W)
 
-> Mari Fernandez com NATTAN e os maiores hits do país\. O que tá bombando tá aqui.
+> Jorge & Mateus e os maiores hits do país\. O que tá bombando tá aqui.
 
-141 songs - 7 hr 6 min - [published](https://open.spotify.com/playlist/6OWNwCnpZnna609PoaFgfo)
+142 songs - 7 hr 9 min - [published](https://open.spotify.com/playlist/6OWNwCnpZnna609PoaFgfo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Arranhão \- Ao Vivo](https://open.spotify.com/track/4u06FbRh6FvV2FQZkouzCw) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Arranhão \(Ao Vivo\)](https://open.spotify.com/album/4eELc3RSnehVnvMxk2hy2z) | 2:33 | 2022-01-17 | 2022-06-03 |
 | [Assalto Perigoso](https://open.spotify.com/track/49GdoM9fiTXVOx1a6JTokJ) | [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI) | [Assalto Perigoso](https://open.spotify.com/album/3wNuvSVXS49LSCNXGHaVzs) | 2:35 | 2022-01-20 | 2022-04-01 |
 | [Assume a Gente \- Ao Vivo](https://open.spotify.com/track/0vkvpobFztMk8jlHvPSYUA) | [João Bosco e Gabriel](https://open.spotify.com/artist/21WAvVROZ83oUvJwFTG2dH), [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Assume a Gente](https://open.spotify.com/album/1UHv9b37dgmBoMj82waMdx) | 2:51 | 2022-05-05 | 2022-07-22 |
+| [Assunto Delicado \- Ao Vivo](https://open.spotify.com/track/3yHXEidSu4gYVRqKoI653O) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu), [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Assunto Delicado \(Ao Vivo\)](https://open.spotify.com/album/7fMbYVUDAIWPuKcyehDYlT) | 3:00 | 2022-09-15 |  |
 | [Baby Me Atende](https://open.spotify.com/track/5R9KPXQVeyqsHZoPLMgfNy) | [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Baby Me Atende](https://open.spotify.com/album/1uDk1yrR8cucbTmpXR1G6V) | 3:45 | 2022-01-17 | 2022-03-11 |
 | [Bafora o Lança \- Remix](https://open.spotify.com/track/4NFkcqZ3jU2O9rgEbuluVn) | [Mario Mc](https://open.spotify.com/artist/4AvoASFHoFCDxWR2yWV3Cn), [Menor Adr](https://open.spotify.com/artist/4KaMTjxBX1mA5Js6KWalNT) | [Bafora o Lança \(Remix\)](https://open.spotify.com/album/7qzJO4kNeCHPM2jwtmoZyt) | 3:32 | 2022-08-18 |  |
 | [Baile da Serra](https://open.spotify.com/track/45VwwcqkVl61khE9JT2OxK) | [Braão](https://open.spotify.com/artist/0GGDntDaQgJVknzJlXD1Nd), [LIT UP](https://open.spotify.com/artist/048eLqPGxqWk7PblwFmXgE), [Dj Nattan](https://open.spotify.com/artist/6IcnhoOZCRfWT8viBrredL) | [Baile da Serra](https://open.spotify.com/album/2Bb73208HjjXHHvwZpalGu) | 3:25 | 2022-05-12 | 2022-07-01 |
@@ -94,7 +95,7 @@
 | [Melhor Ser uma Saudade](https://open.spotify.com/track/6Lk3kU7JcQ5dZ7jbmhJzQN) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Tarja Preta, Ep\. 1](https://open.spotify.com/album/5BDWrnqQRfs2wSre2V7GbY) | 2:38 | 2022-02-24 | 2022-07-08 |
 | [Melodia Alucinógena](https://open.spotify.com/track/4x5q5T5mhE1xvoCVXY6qrN) | [DJ AK BR](https://open.spotify.com/artist/3JOwYU8Yv0wCe18FFanLEK), [Dj Darge](https://open.spotify.com/artist/4SKWDIWfEZbyMI8gzeeoXO) | [Melodia Alucinógena](https://open.spotify.com/album/1VFqnSA3BZQTxuW0EF5OYs) | 3:03 | 2022-08-11 |  |
 | [Mete a Louca](https://open.spotify.com/track/62d4BfCTUHdOsARRETHLDz) | [MC Rogerinho](https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP) | [Mete a Louca](https://open.spotify.com/album/2UUL0vRiQqdnFWBq32DihK) | 2:59 | 2022-01-17 | 2022-02-25 |
-| [Metflix](https://open.spotify.com/track/3ZtHHGpAPSWC7Gnios4lmK) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Metflix](https://open.spotify.com/album/36GkjPO0oYcbKFCYtbPEHj) | 2:13 | 2022-07-28 |  |
+| [Metflix](https://open.spotify.com/track/3ZtHHGpAPSWC7Gnios4lmK) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Metflix](https://open.spotify.com/album/36GkjPO0oYcbKFCYtbPEHj) | 2:13 | 2022-07-28 | 2022-09-16 |
 | [Meu Número \- Ao Vivo](https://open.spotify.com/track/3XF598RmEUF3XW4XKo1lyP) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl), [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Próximo Passo \(Ao Vivo\)](https://open.spotify.com/album/2ybspxBvzQhRsdPR85s2s9) | 3:28 | 2022-04-21 |  |
 | [Meu Pedaço de Pecado](https://open.spotify.com/track/5dApIvFnEdEx0PZvPJF22d) | [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S) | [Meu Pedaço de Pecado](https://open.spotify.com/album/0ayims5WqqbKbfpktZEGe1) | 2:39 | 2022-01-17 | 2022-02-11 |
 | [Molhando o Volante](https://open.spotify.com/track/3ITkrUvAA6gzxer2UIom3P) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Molhando o Volante](https://open.spotify.com/album/27M30wcfpfaDbTPeTI1H9l) | 2:42 | 2022-01-17 |  |

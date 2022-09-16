@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica brasileira para temperar as receitas do dia-a-dia.",
-  "num_followers": 102628,
+  "num_followers": 102668,
   "original_name": "Cozinhando em Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjQ4NjA4OSwwMDAwMDAwMGE3NGRmYWFmZDU4MGI1Njc2ZDU5ZjY1ZjFlY2JkOGM2",
+  "snapshot_id": "MTY2MjQ4NjA4OSwwMDAwMDAwMDgwZGU3ODJmOWYyMDhhZjIyNGE5YmViYjRlNTA2MTcy",
   "tracks": [
     {
       "added_at": "2022-09-06 17:41:29",
@@ -291,6 +291,22 @@
     {
       "added_at": "2022-09-06 17:41:29",
       "album": {
+        "name": "Baby 95",
+        "url": "https://open.spotify.com/album/6tje1i1T0fit8GEe2cdHKY"
+      },
+      "artists": [
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        }
+      ],
+      "duration_ms": 318237,
+      "name": "Baby 95",
+      "url": "https://open.spotify.com/track/6Qf9UJy2DJEKnLE5DAySiN"
+    },
+    {
+      "added_at": "2022-09-06 17:41:29",
+      "album": {
         "name": "Luz",
         "url": "https://open.spotify.com/album/3DSPggBtjAU0GtOSdNNn6x"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 288426,
       "name": "Samurai (feat. Stevie Wonder)",
       "url": "https://open.spotify.com/track/3BQAK2pnTpfZvLg2MUUU5i"
-    },
-    {
-      "added_at": "2022-09-06 17:41:29",
-      "album": {
-        "name": "Baby 95",
-        "url": "https://open.spotify.com/album/6tje1i1T0fit8GEe2cdHKY"
-      },
-      "artists": [
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        }
-      ],
-      "duration_ms": 318237,
-      "name": "Baby 95",
-      "url": "https://open.spotify.com/track/6Qf9UJy2DJEKnLE5DAySiN"
     },
     {
       "added_at": "2022-09-06 17:41:29",
@@ -719,18 +719,22 @@
     {
       "added_at": "2022-09-06 17:41:29",
       "album": {
-        "name": "Bota Pra Tocar Tim Maia",
-        "url": "https://open.spotify.com/album/2EAtqaRZeyW3V4U5FNOWzs"
+        "name": "Faz Uma Loucura Por Mim",
+        "url": "https://open.spotify.com/album/22ZmM0XxUnccC6DfY9NsbM"
       },
       "artists": [
         {
-          "name": "Diogo Nogueira",
-          "url": "https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd"
+          "name": "Mal\u00eda",
+          "url": "https://open.spotify.com/artist/06Ta0NqRjBW6qubwdyeb9u"
+        },
+        {
+          "name": "Alcione",
+          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
         }
       ],
-      "duration_ms": 222577,
-      "name": "Bota Pra Tocar Tim Maia",
-      "url": "https://open.spotify.com/track/60a5kYlSisLg8291QSfsh4"
+      "duration_ms": 215889,
+      "name": "Faz Uma Loucura Por Mim",
+      "url": "https://open.spotify.com/track/7DGGJgwLu2mUX3oRYPDkWL"
     },
     {
       "added_at": "2022-09-06 17:41:29",
@@ -755,22 +759,18 @@
     {
       "added_at": "2022-09-06 17:41:29",
       "album": {
-        "name": "Faz Uma Loucura Por Mim",
-        "url": "https://open.spotify.com/album/22ZmM0XxUnccC6DfY9NsbM"
+        "name": "Bota Pra Tocar Tim Maia",
+        "url": "https://open.spotify.com/album/2EAtqaRZeyW3V4U5FNOWzs"
       },
       "artists": [
         {
-          "name": "Mal\u00eda",
-          "url": "https://open.spotify.com/artist/06Ta0NqRjBW6qubwdyeb9u"
-        },
-        {
-          "name": "Alcione",
-          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
+          "name": "Diogo Nogueira",
+          "url": "https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd"
         }
       ],
-      "duration_ms": 215889,
-      "name": "Faz Uma Loucura Por Mim",
-      "url": "https://open.spotify.com/track/7DGGJgwLu2mUX3oRYPDkWL"
+      "duration_ms": 222577,
+      "name": "Bota Pra Tocar Tim Maia",
+      "url": "https://open.spotify.com/track/60a5kYlSisLg8291QSfsh4"
     },
     {
       "added_at": "2022-09-06 17:41:29",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2022-09-06 17:41:29",
       "album": {
+        "name": "O Funk Mais Triste da Cidade",
+        "url": "https://open.spotify.com/album/1xqqsPHIOiruUb2eDsQdYs"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Coelho",
+          "url": "https://open.spotify.com/artist/6DsLWHhRTF9iOzDJ1UCELx"
+        }
+      ],
+      "duration_ms": 170288,
+      "name": "Mais Uma de Carnaval",
+      "url": "https://open.spotify.com/track/2xWRAo3t3gFZr05I9yC8WM"
+    },
+    {
+      "added_at": "2022-09-06 17:41:29",
+      "album": {
         "name": "Existe Amor",
         "url": "https://open.spotify.com/album/0SeIP7LbyFTNlmdFKH8zHi"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 205377,
       "name": "O Tambor",
       "url": "https://open.spotify.com/track/7ARjyeK4lXOwKzQu7c2Xvz"
-    },
-    {
-      "added_at": "2022-09-06 17:41:29",
-      "album": {
-        "name": "O Funk Mais Triste da Cidade",
-        "url": "https://open.spotify.com/album/1xqqsPHIOiruUb2eDsQdYs"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Coelho",
-          "url": "https://open.spotify.com/artist/6DsLWHhRTF9iOzDJ1UCELx"
-        }
-      ],
-      "duration_ms": 170288,
-      "name": "Mais Uma de Carnaval",
-      "url": "https://open.spotify.com/track/2xWRAo3t3gFZr05I9yC8WM"
     }
   ],
   "unique_name": "Cozinhando em Casa",

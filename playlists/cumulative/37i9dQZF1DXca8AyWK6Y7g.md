@@ -4,7 +4,7 @@
 
 > living life in your 250 sq ft micro apt\. Cover: Maude Latour
 
-1,265 songs - 2 day 17 hr 20 min - [published](https://open.spotify.com/playlist/5ughHfqxtBosozqZ6BniQD)
+1,267 songs - 2 day 17 hr 26 min - [published](https://open.spotify.com/playlist/5ughHfqxtBosozqZ6BniQD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -550,7 +550,7 @@
 | [I Don't Wanna Talk \(I Just Wanna Dance\)](https://open.spotify.com/track/2xXPVOKw75Ouju8Qu4SdIA) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/4nr6ytQ4OrEralEu4LhIVp) | 3:15 | 2022-01-14 | 2022-09-03 |
 | [I Don't Wanna Talk \(I Just Wanna Dance\)](https://open.spotify.com/track/6IbCvfmmICEEAyDwQ9zcbt) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0E2xXn23qVmfx9ThZjWFBE) | 3:15 | 2021-09-10 | 2022-07-29 |
 | [I F\*cking Love You](https://open.spotify.com/track/7lYjepjDeboEus0v2nSqu5) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [I F\*cking Love You](https://open.spotify.com/album/2CslMUzH2LTc4rnAuATJCE) | 3:00 | 2022-04-29 |  |
-| [I Like You Better](https://open.spotify.com/track/5Q8GpY56OWmPs7H7At4tNY) | [Jaira Burns](https://open.spotify.com/artist/0tRFWXqKBBQcu5oFVOgVzX) | [I Like You Better](https://open.spotify.com/album/33tX95q6w1a0jPgUDj4vDh) | 2:16 | 2022-09-02 |  |
+| [I Like You Better](https://open.spotify.com/track/5Q8GpY56OWmPs7H7At4tNY) | [Jaira Burns](https://open.spotify.com/artist/0tRFWXqKBBQcu5oFVOgVzX) | [I Like You Better](https://open.spotify.com/album/33tX95q6w1a0jPgUDj4vDh) | 2:16 | 2022-09-02 | 2022-09-16 |
 | [I LUV U](https://open.spotify.com/track/1f4hiNCEGip1N4B6QjCAJm) | [Mia Rodriguez](https://open.spotify.com/artist/7Hsfh7YZzoyojYWQeMSHID) | [I LUV U](https://open.spotify.com/album/1u14LWDFohYHEqptZhDo8i) | 2:20 | 2022-08-12 | 2022-09-03 |
 | [I Miss That](https://open.spotify.com/track/40yDp3u7EFOZvCNy0vgF6N) | [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [I Miss That](https://open.spotify.com/album/4MuCtbcpIOpHNGiD8Vd23o) | 2:39 | 2021-02-24 | 2021-10-12 |
 | [I NEED U, IN THE SUMMERTIME](https://open.spotify.com/track/5NqIHUcwfBDpc1rgTxKvyG) | [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g), [Chasu](https://open.spotify.com/artist/1qIVbNaFEyJ73CX72RM9Ts) | [I NEED U, IN THE SUMMERTIME](https://open.spotify.com/album/1qJMRM8qReo4zkBgHytyVE) | 2:38 | 2020-09-16 | 2021-01-15 |
@@ -752,7 +752,8 @@
 | [Move Me](https://open.spotify.com/track/0vrGg6n72wLwgv32jeewgi) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Give Me Your Shoulders, Pt\. 1](https://open.spotify.com/album/07Ac7q2KMqblFcVfyWPmig) | 3:36 | 2022-02-11 | 2022-03-17 |
 | [MOVE!](https://open.spotify.com/track/1oJtEFSyTnUgajiY1R3uRY) | [riela](https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A) | [MOVE!](https://open.spotify.com/album/5FqWHUJSDN3ElenK311n8p) | 2:34 | 2021-04-22 | 2021-10-16 |
 | [Mr Valentine](https://open.spotify.com/track/2E51gp6rrOPtfvmrk6wIL5) | [YAZ](https://open.spotify.com/artist/6VvnLfGL8XDQomLEa91WPk) | [Mr Valentine](https://open.spotify.com/album/2TuYvh4A25VRWjqxnC4sf0) | 2:37 | 2022-02-15 | 2022-06-25 |
-| [Mr\. Percocet](https://open.spotify.com/track/2HmNAp3GcJ7DCKtnmV7N84) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Mr\. Percocet](https://open.spotify.com/album/3qpuOpm7O2Z9yiad1w7dlS) | 3:13 | 2022-05-13 |  |
+| [Mr\. Percocet](https://open.spotify.com/track/2HmNAp3GcJ7DCKtnmV7N84) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Mr\. Percocet](https://open.spotify.com/album/3qpuOpm7O2Z9yiad1w7dlS) | 3:13 | 2022-05-13 | 2022-09-16 |
+| [Mr\. Percocet](https://open.spotify.com/track/5zcv9Sck4CCc3c7BOExjK9) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Every Beginning Ends](https://open.spotify.com/album/7pHo5Tov9GyzVnBLxPuHYB) | 3:13 | 2022-09-09 |  |
 | [my fuckin birthday](https://open.spotify.com/track/5I6VzAAwuPtbHmnwODDb50) | [sreedhanya](https://open.spotify.com/artist/7Lp4zS3we1Dwh1dqMD0GEO) | [my fuckin birthday](https://open.spotify.com/album/3qLe2UuUhONvPtMBBe0W1u) | 1:54 | 2022-02-04 | 2022-06-07 |
 | [My Girl](https://open.spotify.com/track/5aMYIxnTTVIGxdey7ULrRL) | [Oshi](https://open.spotify.com/artist/4mAhA39Nr2uEIbQoC3yxOs) | [My Girl](https://open.spotify.com/album/4voikfQLmfd122fTT7rgGC) | 3:35 | 2021-09-10 | 2022-01-29 |
 | [My Kink is Karma](https://open.spotify.com/track/5nutMjOPSSB9I9CUGOg8lm) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [My Kink is Karma](https://open.spotify.com/album/5OFe55bZoyOd4slcigx91N) | 3:42 | 2022-05-06 | 2022-06-25 |
@@ -1259,6 +1260,7 @@
 | [Wondering If I'll Ever Come Down](https://open.spotify.com/track/494nUtPnMz8pYy8du0nwXA) | [Lemaitre](https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764) | [Wondering If I'll Ever Come Down](https://open.spotify.com/album/4gehQT2Pge67LKQgWIbnTV) | 3:20 | 2020-04-18 | 2021-05-28 |
 | [Word Problems](https://open.spotify.com/track/1qHNW4pILWzE7sZWN9smrH) | [Deborah's Child](https://open.spotify.com/artist/6UleRY4Q1BRd2gRmPjFCQF) | [Word Problems](https://open.spotify.com/album/4YLQashsa2iqJgzhvloAjt) | 2:33 | 2021-03-08 | 2021-08-26 |
 | [World Is Fucked](https://open.spotify.com/track/2pbjwvnOZv7poZfeGlCieM) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [World Is Fucked](https://open.spotify.com/album/2gHg7XQzxKz4sdlBs2P1Lc) | 2:52 | 2021-05-06 | 2021-11-20 |
+| [Worst Thing](https://open.spotify.com/track/1gfDK5vVyqja5EI6O3MJO9) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [NOTED...EP](https://open.spotify.com/album/6AMjHESQyOiW52JfQC8PEm) | 2:38 | 2022-09-09 |  |
 | [Worst Thing](https://open.spotify.com/track/1hETByUz0ynel44jvTOkdt) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [Worst Thing](https://open.spotify.com/album/3CVVkF4c5r0Cz9rVb02FoT) | 2:38 | 2022-05-13 | 2022-09-13 |
 | [WTF](https://open.spotify.com/track/7mYrw8DN9vDg1c5qqpDboC) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [WTF](https://open.spotify.com/album/5LDEHT3uGE4kS5BbbhiPTO) | 3:02 | 2022-03-18 | 2022-04-09 |
 | [Xbox Luvr](https://open.spotify.com/track/23FuLOumEHvyswN9fp6Owy) | [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh) | [Xbox Luvr](https://open.spotify.com/album/5Kv6P3Ln0Q6RvPFZYCzyi2) | 2:56 | 2021-05-03 | 2021-11-19 |

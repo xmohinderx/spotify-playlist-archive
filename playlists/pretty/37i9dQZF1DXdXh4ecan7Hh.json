@@ -1,12 +1,12 @@
 {
   "description": "County's best like you've never heard before. Cover: Ingrid Andress",
-  "num_followers": 108792,
+  "num_followers": 108816,
   "original_name": "Spotify Singles: Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA1NzE2NCwwMDAwMDAwMDQzMWRkNmJjMDAyMzcwZjc2NjM4ODJkZjM4Njk5MjRj",
+  "snapshot_id": "MTY2MjA1NzE2NCwwMDAwMDAwMDEyOTQ1ZjdjY2EzOTIzNGU2ZTMyYzljN2VkZDNiNjg1",
   "tracks": [
     {
       "added_at": "2022-05-25 15:22:18",
@@ -444,22 +444,6 @@
       "added_at": "2022-05-25 15:22:18",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7c95oJyrVBBYkgSbJIxtR1"
-      },
-      "artists": [
-        {
-          "name": "Kameron Marlowe",
-          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
-        }
-      ],
-      "duration_ms": 232666,
-      "name": "Folsom Prison Blues - Spotify Singles",
-      "url": "https://open.spotify.com/track/1wj5x7RQ84qfjbBNm0PmWw"
-    },
-    {
-      "added_at": "2022-05-25 15:22:18",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3BtaYjFyAb4GmZ6qJxtiTr"
       },
       "artists": [
@@ -487,6 +471,22 @@
       "duration_ms": 225632,
       "name": "Happier - Recorded At Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/57DVaIfWIKSx3zW9mcVFhc"
+    },
+    {
+      "added_at": "2022-05-25 15:22:18",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7c95oJyrVBBYkgSbJIxtR1"
+      },
+      "artists": [
+        {
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+        }
+      ],
+      "duration_ms": 232666,
+      "name": "Folsom Prison Blues - Spotify Singles",
+      "url": "https://open.spotify.com/track/1wj5x7RQ84qfjbBNm0PmWw"
     },
     {
       "added_at": "2022-05-25 15:22:18",

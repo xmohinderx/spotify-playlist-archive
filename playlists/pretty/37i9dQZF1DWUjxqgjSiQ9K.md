@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\.  Foto: Barak
 
-[Spotify](https://open.spotify.com/user/spotify) - 524,542 likes - 100 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 524,726 likes - 100 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 28 | [Gracia Sobre Gracia \(feat\. Miel San Marcos\)](https://open.spotify.com/track/6Y5TIxbM7fsG5j9CqJqZDW) | [Life.Church Worship](https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Gracia Sobre Gracia \(feat\. Miel San Marcos\)](https://open.spotify.com/album/4qiy47VjgVtXbsP2Cg1USA) | 4:49 |
 | 29 | [Mi Sanador \(The Healing\)](https://open.spotify.com/track/7gPP82EsbzEyHmCQ2tnNko) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO) | [Mi Sanador \(The Healing\)](https://open.spotify.com/album/2HYp66kwn5xrOaTolFbrUt) | 3:17 |
 | 30 | [Soy Esa Generación \- Live](https://open.spotify.com/track/6MvIH6ODTfy3UsNTSkKtzh) | [Oasis Ministry](https://open.spotify.com/artist/71Q7jmvxx7g06qlWNEU45p) | [Soy Esa Generación \(Live\)](https://open.spotify.com/album/13mhfOrgNQu4DflcF6UyHD) | 7:58 |
-| 31 | [Lámpara Encendida](https://open.spotify.com/track/27oXuZCLZ5UcRfP2LRiVoY) | [Shammai](https://open.spotify.com/artist/3hp9n03tGKNU5O3xMdSRMz) | [Lámpara Encendida \(En Vivo\)](https://open.spotify.com/album/1F88DMsFnuwr0NXrtNSrtH) | 11:26 |
+| 31 | [Lámpara Encendida \- En Vivo](https://open.spotify.com/track/27oXuZCLZ5UcRfP2LRiVoY) | [Shammai](https://open.spotify.com/artist/3hp9n03tGKNU5O3xMdSRMz) | [Lámpara Encendida \(En Vivo\)](https://open.spotify.com/album/1F88DMsFnuwr0NXrtNSrtH) | 11:26 |
 | 32 | [Su Poder Caerá](https://open.spotify.com/track/6je7whJBPXB2TWm8qlHIav) | [Danny Berrios](https://open.spotify.com/artist/3e6e7N2fMD8rtk2PBVyMkm) | [Su Poder Caerá](https://open.spotify.com/album/6kowMxhEp2aXUymZAs2SvM) | 5:02 |
 | 33 | [Aquí Hay un Muchacho](https://open.spotify.com/track/6kHUp9rwMGcSG2xVclc2kB) | [Jésed](https://open.spotify.com/artist/3TXp4wMgvRheVQPf1PEV2P) | [Aquí Hay un Muchacho](https://open.spotify.com/album/2sTfofXsEqZx6J6Wy9zMmS) | 3:52 |
 | 34 | [Soy Más Que Vencedor](https://open.spotify.com/track/41T7JkWXIqYuP95nEPXc6K) | [Bethany Music](https://open.spotify.com/artist/6zJA80S2jrsIqiqukh36WP), [BJ Putnam](https://open.spotify.com/artist/60aBgW2uAx0DWjANS99500) | [Soy Más Que Vencedor](https://open.spotify.com/album/20z6PXIEerkCJDJJxAmWma) | 4:39 |

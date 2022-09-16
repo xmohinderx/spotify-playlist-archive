@@ -2,9 +2,9 @@
 
 ### [PVNCHLNRS](https://open.spotify.com/playlist/37i9dQZF1DX1X23oiQRTB5)
 
-> Beendo Z au top de la première playlist de rap français !
+> Gambi au top de la première playlist de rap français !
 
-94 songs - 4 hr 52 min - [published](https://open.spotify.com/playlist/4EHhRKwzSbzJAtj2VPo7Qd)
+95 songs - 4 hr 54 min - [published](https://open.spotify.com/playlist/4EHhRKwzSbzJAtj2VPo7Qd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,10 +88,11 @@
 | [RAPPEL](https://open.spotify.com/track/7zgKUbJczQXGEICIwP6Diw) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [RAPPEL](https://open.spotify.com/album/3z01IFOidqCtkFb7mbgffD) | 3:37 | 2022-07-07 |  |
 | [Redescends](https://open.spotify.com/track/1kXFslzdPEkOs5QC5GkdN4) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Redescends](https://open.spotify.com/album/5lmmRtv80XbKm3EqS1AReB) | 2:39 | 2022-07-21 | 2022-08-07 |
 | [Redescends \(feat Tiakola\)](https://open.spotify.com/track/0hveTnaqO8nXDMwwsJGJI3) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Redescends \(feat Tiakola\)](https://open.spotify.com/album/4KaUWIjzjEyF5KZTKcHQCh) | 2:39 | 2022-08-04 |  |
-| [RENCONTRE](https://open.spotify.com/track/2toEys3zZ8rRB242Na7FZh) | [Disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [L’Amour](https://open.spotify.com/album/447oYDEOpoTAmbgDKIhkZ6) | 3:18 | 2022-03-31 |  |
+| [RENCONTRE](https://open.spotify.com/track/2toEys3zZ8rRB242Na7FZh) | [Disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [L’Amour](https://open.spotify.com/album/447oYDEOpoTAmbgDKIhkZ6) | 3:18 | 2022-03-31 | 2022-09-16 |
 | [Reste\-là \(feat\. Tiakola\)](https://open.spotify.com/track/6g0sbIAUt7e25MCdnutAc6) | [Gambino La MG](https://open.spotify.com/artist/2xdTZfuOFh2ylOnnTEs5sg), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Reste\-là \(feat\. Tiakola\)](https://open.spotify.com/album/1vqZKCP1o9Ufq7ukp3vF4U) | 2:44 | 2022-04-28 |  |
 | [Shooter](https://open.spotify.com/track/6RkusvVLSW6i29LiUWyg8w) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg), [Kalash Criminel](https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv) | [SVR](https://open.spotify.com/album/7BGxAPIIuq3UapnPUhjBDy) | 2:43 | 2022-02-10 | 2022-04-01 |
 | [Si j'savais](https://open.spotify.com/track/5b0jPRxr4XEqIwWlkGrVq3) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Si j'savais](https://open.spotify.com/album/2Js5uKx7NHtCYqNTqk4LUC) | 3:43 | 2022-05-19 |  |
+| [Solitaire](https://open.spotify.com/track/4yYpZTbJPa6Uoct89yXdKf) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Solitaire](https://open.spotify.com/album/1w91fuTe3zAPvcSyGlZdvE) | 2:26 | 2022-09-15 |  |
 | [SPECIAL \(feat\. Nekfeu & Fousheé\)](https://open.spotify.com/track/11HLDMuPD3wh88XHw4udKO) | [Laylow](https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S), [Nekfeu](https://open.spotify.com/artist/4LXBc13z5EWsc5N32bLxfH), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [L'Étrange Histoire de Mr.Anderson](https://open.spotify.com/album/1LtG5P8cNErCsn1DZMVbrz) | 3:51 | 2022-01-06 | 2022-02-11 |
 | [Stars](https://open.spotify.com/track/4prkPuGjkzgYvdREsNw27F) | [Doums](https://open.spotify.com/artist/4yLgYK2B5nZjZMBiaLyLyK), [Laylow](https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S) | [Stars](https://open.spotify.com/album/4vtDzCPmcZMDJ1VgkUzzcx) | 3:09 | 2022-07-28 |  |
 | [Tchalla](https://open.spotify.com/track/3cFUv0LpvrvdAMAT2B4zhS) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg), [Kalash Criminel](https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv) | [Tchalla](https://open.spotify.com/album/48WjMsMmHRLQTC2ZXqPwaw) | 3:45 | 2022-01-06 | 2022-05-20 |

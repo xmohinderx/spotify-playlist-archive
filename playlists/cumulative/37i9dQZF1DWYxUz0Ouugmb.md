@@ -2,9 +2,9 @@
 
 ### [RADAR Indonesia](https://open.spotify.com/playlist/37i9dQZF1DWYxUz0Ouugmb)
 
-> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Jinan Laetitia
+> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Shakira Jasmine
 
-110 songs - 6 hr 51 min - [published](https://open.spotify.com/playlist/37dv0S75HQ2Wer6Z25cDjS)
+111 songs - 6 hr 56 min - [published](https://open.spotify.com/playlist/37dv0S75HQ2Wer6Z25cDjS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Losing Us.](https://open.spotify.com/track/6embPWj9qvusLg9JpbAmCQ) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Losing Us.](https://open.spotify.com/album/5rcVsRWjcqRgK91jsNCVWo) | 3:56 | 2022-07-28 |  |
 | [Make Me Proud \- Acoustic](https://open.spotify.com/track/6Hf6eneXT5MOXoH8zAuZWy) | [Basboi](https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9) | [Acoustic For Dummies](https://open.spotify.com/album/1NUGRzeyEWKvw08uYjdp3q) | 2:50 | 2022-02-17 | 2022-03-25 |
 | [Meant 2 Be](https://open.spotify.com/track/35xF6iKiyjohKJgg7dntw4) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3), [Nuca](https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai) | [Meant 2 Be](https://open.spotify.com/album/0KORzAxKyh3MKupM2ArZtd) | 4:37 | 2022-03-24 |  |
+| [Meant 2 Be \(Stripped Version\)](https://open.spotify.com/track/6rYi8GI5jEUCYSHYZSlpvZ) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3), [Nuca](https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai) | [Meant 2 Be \(Stripped Version\)](https://open.spotify.com/album/4VlVn6uG7iXD7H9Onqb6c8) | 5:03 | 2022-09-15 |  |
 | [Merindu](https://open.spotify.com/track/4hERzfQ6Aiu5pKSqCeiAab) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Merindu](https://open.spotify.com/album/2tWvLOzIXczbXws6GeM0YE) | 3:39 | 2021-11-25 | 2022-03-25 |
 | [Mesin Waktu](https://open.spotify.com/track/0tATv5Fy2aJXUOMKp2utl0) | [Mawar de Jongh](https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK) | [Mesin Waktu](https://open.spotify.com/album/697noPaxXP5UVgvOG808yg) | 3:59 | 2021-11-25 | 2022-03-25 |
 | [Midnight Thoughts](https://open.spotify.com/track/6FEqIXKSJnEWkiQWd4ucn4) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF) | [Midnight Thoughts](https://open.spotify.com/album/4xxohLBOeccaHemf2lOk6w) | 3:38 | 2021-11-25 | 2022-03-25 |
@@ -104,7 +105,7 @@
 | [Terlalu Sayang](https://open.spotify.com/track/4shyP6S00jyjHZZz9oRs7b) | [Shanna Shannon](https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2) | [Terlalu Sayang](https://open.spotify.com/album/4BvjQGyatE1Y4jmNgwAn3A) | 4:04 | 2022-03-24 |  |
 | [The Stupid Song](https://open.spotify.com/track/4lfLg684A5uRL9gfNxQ1xx) | [Abraham Edo](https://open.spotify.com/artist/62iByAWLMcsNrR9aGr9gwB), [Basboi](https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9) | [The Stupid Song](https://open.spotify.com/album/5vqqd9xADRv7Sq5ewjv5nx) | 2:45 | 2022-01-27 | 2022-03-25 |
 | [This Love Will Never End](https://open.spotify.com/track/2TqXDSUrc8zgMMI8KOHjCK) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [It's Never Easy](https://open.spotify.com/album/6GC6ht6osWTttTsnFXNc8L) | 3:45 | 2021-11-25 | 2022-03-25 |
-| [Timeless](https://open.spotify.com/track/01DZmwlwEM41LThtOOapZM) | [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth), [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [The More](https://open.spotify.com/album/2LjnDM6eo9JKIJ7E9rn6Np) | 3:50 | 2022-03-24 |  |
+| [Timeless](https://open.spotify.com/track/01DZmwlwEM41LThtOOapZM) | [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth), [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [The More](https://open.spotify.com/album/2LjnDM6eo9JKIJ7E9rn6Np) | 3:50 | 2022-03-24 | 2022-09-16 |
 | [Timeless](https://open.spotify.com/track/64mtE2D4LtP9AaKbF5CGJT) | [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth), [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [One](https://open.spotify.com/album/13P9zBl1EtCVYBrMbiPqXJ) | 3:50 | 2022-09-01 |  |
 | [Topeng](https://open.spotify.com/track/2iHfsyJp0tRdGH3xgSRtSz) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3), [Ajil Ditto](https://open.spotify.com/artist/2vtCmMvb2FdI8GbBkgGDE1), [Ashira Zamita](https://open.spotify.com/artist/7u6zt5ZVx1yiUWbCzCyD2l), [Teuku Ryzki](https://open.spotify.com/artist/5sO5QK8taSVb6DPtAD0Xw0) | [Topeng](https://open.spotify.com/album/67m8hYyCtFwU9CaPVpyGAE) | 3:04 | 2022-06-30 |  |
 | [Unromantic](https://open.spotify.com/track/69yeuDVp8H8pQiJ69jO7gn) | [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth) | [One](https://open.spotify.com/album/13P9zBl1EtCVYBrMbiPqXJ) | 2:21 | 2022-06-09 | 2022-09-02 |

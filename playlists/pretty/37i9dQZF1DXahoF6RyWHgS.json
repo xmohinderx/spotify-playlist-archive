@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A preparar la comida con la saz\u00f3n de m\u00fasica rica y antig\u00fcita!",
-  "num_followers": 20834,
+  "num_followers": 20918,
   "original_name": "Cocina Tradicional",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ4OTMzNywwMDAwMDAwMGMwMzBkNmM5ZTkyYmViN2U2YjViMzc2ODQwNDU5NjFm",
+  "snapshot_id": "MTY1OTQ4OTMzNywwMDAwMDAwMGQ0ZDZmYWYxNDc3YjRhZGExZDgyZDkxNDdiZDA1NjVj",
   "tracks": [
     {
       "added_at": "2022-01-19 17:37:13",
@@ -27,6 +27,22 @@
     {
       "added_at": "2020-05-28 20:45:13",
       "album": {
+        "name": "D\u00e9jenme Llorar",
+        "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 241626,
+      "name": "Hasta la Piel",
+      "url": "https://open.spotify.com/track/5zu4MAEQblGCaTrbXtfpb8"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
         "name": "Canta En Espa\u00f1ol Con Los Panchos",
         "url": "https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w"
       },
@@ -43,22 +59,6 @@
       "duration_ms": 137560,
       "name": "Piel Canela",
       "url": "https://open.spotify.com/track/5NYQS0JkqRRfhlliy0P3Dv"
-    },
-    {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "D\u00e9jenme Llorar",
-        "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
-      },
-      "artists": [
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 241626,
-      "name": "Hasta la Piel",
-      "url": "https://open.spotify.com/track/5zu4MAEQblGCaTrbXtfpb8"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -331,18 +331,18 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "Kiko",
-        "url": "https://open.spotify.com/album/12AL1C0jglsaMYHwTsvA7w"
+        "name": "RCA 100 A\u00f1os De Musica",
+        "url": "https://open.spotify.com/album/0vJ6OuVc98sUYHf8kan8qh"
       },
       "artists": [
         {
-          "name": "Los Lobos",
-          "url": "https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT"
+          "name": "To\u00f1a La Negra",
+          "url": "https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3"
         }
       ],
-      "duration_ms": 215560,
-      "name": "Kiko and the Lavender Moon",
-      "url": "https://open.spotify.com/track/2JxHZfZM0ysnwPDefDl8Mz"
+      "duration_ms": 102200,
+      "name": "Palmera",
+      "url": "https://open.spotify.com/track/1thsP19THIiLrpxIPqEteA"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -363,18 +363,18 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "RCA 100 A\u00f1os De Musica",
-        "url": "https://open.spotify.com/album/0vJ6OuVc98sUYHf8kan8qh"
+        "name": "Kiko",
+        "url": "https://open.spotify.com/album/12AL1C0jglsaMYHwTsvA7w"
       },
       "artists": [
         {
-          "name": "To\u00f1a La Negra",
-          "url": "https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3"
+          "name": "Los Lobos",
+          "url": "https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT"
         }
       ],
-      "duration_ms": 102200,
-      "name": "Palmera",
-      "url": "https://open.spotify.com/track/1thsP19THIiLrpxIPqEteA"
+      "duration_ms": 215560,
+      "name": "Kiko and the Lavender Moon",
+      "url": "https://open.spotify.com/track/2JxHZfZM0ysnwPDefDl8Mz"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -599,22 +599,6 @@
     {
       "added_at": "2020-05-28 20:45:13",
       "album": {
-        "name": "Antolog\u00eda...Los Xochimilcas",
-        "url": "https://open.spotify.com/album/0kewq2PTgTwqyP7kRJ7GWZ"
-      },
-      "artists": [
-        {
-          "name": "Los Xochimilcas",
-          "url": "https://open.spotify.com/artist/1PkccRP5nIdtQsq8tRIYfd"
-        }
-      ],
-      "duration_ms": 192293,
-      "name": "Pulque para dos",
-      "url": "https://open.spotify.com/track/7bj7YpHTPRjeBc6vVtd2Oo"
-    },
-    {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
         "name": "Pa'lante",
         "url": "https://open.spotify.com/album/3pyH3BOeU7s9iezM5pFU0E"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 188355,
       "name": "Aguacate",
       "url": "https://open.spotify.com/track/43AzdM8V36FFQZ5Kc5QYkZ"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Antolog\u00eda...Los Xochimilcas",
+        "url": "https://open.spotify.com/album/0kewq2PTgTwqyP7kRJ7GWZ"
+      },
+      "artists": [
+        {
+          "name": "Los Xochimilcas",
+          "url": "https://open.spotify.com/artist/1PkccRP5nIdtQsq8tRIYfd"
+        }
+      ],
+      "duration_ms": 192293,
+      "name": "Pulque para dos",
+      "url": "https://open.spotify.com/track/7bj7YpHTPRjeBc6vVtd2Oo"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -817,22 +817,6 @@
       "url": "https://open.spotify.com/track/2sLMPlRSLlDBUiu6bECQjr"
     },
     {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "Government Magic",
-        "url": "https://open.spotify.com/album/5EEsbpPgWsbdYbZg3AxtsO"
-      },
-      "artists": [
-        {
-          "name": "Antibalas",
-          "url": "https://open.spotify.com/artist/2KGF6IKZfVGCKfyqcNVGfh"
-        }
-      ],
-      "duration_ms": 247760,
-      "name": "Che Che Cole",
-      "url": "https://open.spotify.com/track/5KaNVtMkaanRibXwdM7qqb"
-    },
-    {
       "added_at": "2022-01-11 03:10:29",
       "album": {
         "name": "Afro",
@@ -847,6 +831,22 @@
       "duration_ms": 261426,
       "name": "Bandolero",
       "url": "https://open.spotify.com/track/2W5KSHYdWNIyoWfohkkeoe"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Government Magic",
+        "url": "https://open.spotify.com/album/5EEsbpPgWsbdYbZg3AxtsO"
+      },
+      "artists": [
+        {
+          "name": "Antibalas",
+          "url": "https://open.spotify.com/artist/2KGF6IKZfVGCKfyqcNVGfh"
+        }
+      ],
+      "duration_ms": 247760,
+      "name": "Che Che Cole",
+      "url": "https://open.spotify.com/track/5KaNVtMkaanRibXwdM7qqb"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
+        "name": "Loca Navidad Latin Rock Vol. 4",
+        "url": "https://open.spotify.com/album/0kDXegd5ADxlS4OhzYhgUX"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "duration_ms": 193626,
+      "name": "Palmar",
+      "url": "https://open.spotify.com/track/7wwHXlNsf2HkaVukGNVy8f"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
         "name": "Xe\u0308e\u0308w (Volumen 1)",
         "url": "https://open.spotify.com/album/1FLTcl9FuzsTLe70AnhSVf"
       },
@@ -1065,20 +1081,20 @@
       "url": "https://open.spotify.com/track/2lRpK2iqZ86zuqrygcWy8p"
     },
     {
-      "added_at": "2022-01-11 03:10:29",
+      "added_at": "2020-05-28 20:45:13",
       "album": {
-        "name": "Loca Navidad Latin Rock Vol. 4",
-        "url": "https://open.spotify.com/album/0kDXegd5ADxlS4OhzYhgUX"
+        "name": "Antolog\u00eda. . .Marimba Cuquita de los Hermanos Narvaez",
+        "url": "https://open.spotify.com/album/4iofQumfq1VzKug1C5K3cb"
       },
       "artists": [
         {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+          "name": "Marimba Cuquita de los Hermanos Narvaez",
+          "url": "https://open.spotify.com/artist/0ioh6FwJgyen3UNGYiL0fm"
         }
       ],
-      "duration_ms": 193626,
-      "name": "Palmar",
-      "url": "https://open.spotify.com/track/7wwHXlNsf2HkaVukGNVy8f"
+      "duration_ms": 181253,
+      "name": "Merecumb\u00e9 del cantinero",
+      "url": "https://open.spotify.com/track/2yfTxhGOsfpKHcJJiZBKTT"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -1099,22 +1115,6 @@
       "duration_ms": 283973,
       "name": "Mambo Los Quantic",
       "url": "https://open.spotify.com/track/1JqhsppZflCRYSjP9FX5bG"
-    },
-    {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "Antolog\u00eda. . .Marimba Cuquita de los Hermanos Narvaez",
-        "url": "https://open.spotify.com/album/4iofQumfq1VzKug1C5K3cb"
-      },
-      "artists": [
-        {
-          "name": "Marimba Cuquita de los Hermanos Narvaez",
-          "url": "https://open.spotify.com/artist/0ioh6FwJgyen3UNGYiL0fm"
-        }
-      ],
-      "duration_ms": 181253,
-      "name": "Merecumb\u00e9 del cantinero",
-      "url": "https://open.spotify.com/track/2yfTxhGOsfpKHcJJiZBKTT"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1213,22 +1213,6 @@
       "url": "https://open.spotify.com/track/52ZaEmQXC9AtnZb4xUNNoC"
     },
     {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
-        "name": "Tropid\u00e9lico",
-        "url": "https://open.spotify.com/album/0uU60x1GpYBcOS7imngIXS"
-      },
-      "artists": [
-        {
-          "name": "The Quantic Soul Orchestra",
-          "url": "https://open.spotify.com/artist/12ZOHgIYkZiwd9w9F7I83e"
-        }
-      ],
-      "duration_ms": 257786,
-      "name": "Regi Bugal\u00fa (Bugalu)",
-      "url": "https://open.spotify.com/track/2DUYg6MTswgkA0eBKA0RsG"
-    },
-    {
       "added_at": "2020-05-28 20:45:13",
       "album": {
         "name": "This Is Desmond Dekker (Enhanced Edition)",
@@ -1259,6 +1243,22 @@
       "duration_ms": 272073,
       "name": "Lim\u00f3n",
       "url": "https://open.spotify.com/track/0CFM8F4yHB33K2XOXurdwe"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "Tropid\u00e9lico",
+        "url": "https://open.spotify.com/album/0uU60x1GpYBcOS7imngIXS"
+      },
+      "artists": [
+        {
+          "name": "The Quantic Soul Orchestra",
+          "url": "https://open.spotify.com/artist/12ZOHgIYkZiwd9w9F7I83e"
+        }
+      ],
+      "duration_ms": 257786,
+      "name": "Regi Bugal\u00fa (Bugalu)",
+      "url": "https://open.spotify.com/track/2DUYg6MTswgkA0eBKA0RsG"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1373,20 +1373,20 @@
       "url": "https://open.spotify.com/track/48msusnRNPnqKeD9nFA1mB"
     },
     {
-      "added_at": "2022-01-11 03:10:29",
+      "added_at": "2020-05-28 20:45:13",
       "album": {
-        "name": "Mujeres con Cajones",
-        "url": "https://open.spotify.com/album/50lzMlXqpRzP1qcdZJ7KGz"
+        "name": "Los Originales Vol. 3",
+        "url": "https://open.spotify.com/album/39Xoa9wbneSzbysFRzkVmw"
       },
       "artists": [
         {
-          "name": "Eva Ayll\u00f3n",
-          "url": "https://open.spotify.com/artist/6AQFORISOneOZkh6r1sGS2"
+          "name": "Celia Cruz y La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/3WaTkjZxpbGDryRuQTtj1g"
         }
       ],
-      "duration_ms": 171813,
-      "name": "Fina Estampa",
-      "url": "https://open.spotify.com/track/108bZCxgGxeHFQb14rJC1H"
+      "duration_ms": 157352,
+      "name": "Caramelos",
+      "url": "https://open.spotify.com/track/2xirjKVetY5wxvw3hAuELH"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1405,20 +1405,20 @@
       "url": "https://open.spotify.com/track/0LENTAvUOXMAqCdCuZxwdo"
     },
     {
-      "added_at": "2020-05-28 20:45:13",
+      "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "Los Originales Vol. 3",
-        "url": "https://open.spotify.com/album/39Xoa9wbneSzbysFRzkVmw"
+        "name": "Mujeres con Cajones",
+        "url": "https://open.spotify.com/album/50lzMlXqpRzP1qcdZJ7KGz"
       },
       "artists": [
         {
-          "name": "Celia Cruz y La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/3WaTkjZxpbGDryRuQTtj1g"
+          "name": "Eva Ayll\u00f3n",
+          "url": "https://open.spotify.com/artist/6AQFORISOneOZkh6r1sGS2"
         }
       ],
-      "duration_ms": 157352,
-      "name": "Caramelos",
-      "url": "https://open.spotify.com/track/2xirjKVetY5wxvw3hAuELH"
+      "duration_ms": 171813,
+      "name": "Fina Estampa",
+      "url": "https://open.spotify.com/track/108bZCxgGxeHFQb14rJC1H"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -1549,6 +1549,22 @@
       "url": "https://open.spotify.com/track/1msp0hCTvmv0SHkJaWZXHn"
     },
     {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "Maremagnum",
+        "url": "https://open.spotify.com/album/6G4MYxWPCyBbWsQ1cPh6ul"
+      },
+      "artists": [
+        {
+          "name": "Tot\u00f3 La Momposina",
+          "url": "https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk"
+        }
+      ],
+      "duration_ms": 259013,
+      "name": "Los Sabores Del Porro",
+      "url": "https://open.spotify.com/track/7mJ2WDNjByJ1Ncqa8NjRJH"
+    },
+    {
       "added_at": "2020-05-28 20:45:13",
       "album": {
         "name": "Dedicated To Nelson",
@@ -1567,18 +1583,18 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "Maremagnum",
-        "url": "https://open.spotify.com/album/6G4MYxWPCyBbWsQ1cPh6ul"
+        "name": "La Reina de Veracruz",
+        "url": "https://open.spotify.com/album/6iObzhLiuOraH0mEabqrdo"
       },
       "artists": [
         {
-          "name": "Tot\u00f3 La Momposina",
-          "url": "https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk"
+          "name": "To\u00f1a La Negra",
+          "url": "https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3"
         }
       ],
-      "duration_ms": 259013,
-      "name": "Los Sabores Del Porro",
-      "url": "https://open.spotify.com/track/7mJ2WDNjByJ1Ncqa8NjRJH"
+      "duration_ms": 165982,
+      "name": "Vereda Tropical",
+      "url": "https://open.spotify.com/track/49iGo9gTn4rTtj504zQbHr"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -1615,22 +1631,6 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "La Reina de Veracruz",
-        "url": "https://open.spotify.com/album/6iObzhLiuOraH0mEabqrdo"
-      },
-      "artists": [
-        {
-          "name": "To\u00f1a La Negra",
-          "url": "https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3"
-        }
-      ],
-      "duration_ms": 165982,
-      "name": "Vereda Tropical",
-      "url": "https://open.spotify.com/track/49iGo9gTn4rTtj504zQbHr"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
         "name": "Por siempre Los Panchos, Vol. 1 - Noche de ronda y otros \u00e9xitos (Remastered)",
         "url": "https://open.spotify.com/album/5Z5H3W0jLUyhzY8Fr1CDe8"
       },
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "La Fiesta",
-        "url": "https://open.spotify.com/album/1QN51TxHmv1PzCnBKm90HM"
-      },
-      "artists": [
-        {
-          "name": "Hern\u00e1n Gamboa",
-          "url": "https://open.spotify.com/artist/1X4pmZhaFxmit30AOxFpaL"
-        }
-      ],
-      "duration_ms": 187813,
-      "name": "Moliendo Caf\u00e9 - Ritmo Orquidea",
-      "url": "https://open.spotify.com/track/2hAZYHPp6JLzLNRMdC3lPP"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
         "name": "Los 22 Grandes \u00c9xitos de P\u00e9rez Prado (Remastered)",
         "url": "https://open.spotify.com/album/4NT0vaw4EP7hApFQCXqmoo"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 147789,
       "name": "Mar\u00eda Cristina - Remastered",
       "url": "https://open.spotify.com/track/5zimrebZIVCXRfcFuVbSqd"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "La Fiesta",
+        "url": "https://open.spotify.com/album/1QN51TxHmv1PzCnBKm90HM"
+      },
+      "artists": [
+        {
+          "name": "Hern\u00e1n Gamboa",
+          "url": "https://open.spotify.com/artist/1X4pmZhaFxmit30AOxFpaL"
+        }
+      ],
+      "duration_ms": 187813,
+      "name": "Moliendo Caf\u00e9 - Ritmo Orquidea",
+      "url": "https://open.spotify.com/track/2hAZYHPp6JLzLNRMdC3lPP"
     }
   ],
   "unique_name": "Cocina Tradicional",

@@ -1,12 +1,12 @@
 {
   "description": "The official Trap Nation playlist that includes all of our recent &amp; favorite songs",
-  "num_followers": 2030047,
+  "num_followers": 2030037,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "MTI0MDAsY2E5NTEyZmI0ZjNiYmUzMTJmMzhmYzg0YzFiZmQwNGVjZTc4NmZjYw==",
+  "snapshot_id": "MTI0MDMsOTM1NmQxZmYzYmJlMjdkMGIxMWJiODE3MTZkZGRkOTUxNTI0ZTA1OA==",
   "tracks": [
     {
       "added_at": "2022-09-09 17:52:49",
@@ -31,6 +31,26 @@
       "duration_ms": 185293,
       "name": "Shady Intentions",
       "url": "https://open.spotify.com/track/27HkM93H2GcOyYUV50W2tu"
+    },
+    {
+      "added_at": "2022-09-15 08:01:48",
+      "album": {
+        "name": "Fallen",
+        "url": "https://open.spotify.com/album/3ywLCMZLSe12Q5Xuc8m1Pj"
+      },
+      "artists": [
+        {
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        },
+        {
+          "name": "capshun",
+          "url": "https://open.spotify.com/artist/1iHaJ84BqipzAefeXNAsdL"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Fallen",
+      "url": "https://open.spotify.com/track/2ionHuKVoJhnih3TAZ1di9"
     },
     {
       "added_at": "2022-09-07 18:21:02",
@@ -415,6 +435,26 @@
       "duration_ms": 210824,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/6CgyavIuuXYEmoFppku4X0"
+    },
+    {
+      "added_at": "2022-09-15 20:16:52",
+      "album": {
+        "name": "Tears (Boface Remix)",
+        "url": "https://open.spotify.com/album/6mqriQAA0DPq6Vvb5Akh2r"
+      },
+      "artists": [
+        {
+          "name": "4RUNNR",
+          "url": "https://open.spotify.com/artist/51G0zsR5SXZd5AtX2ueIqx"
+        },
+        {
+          "name": "Boface",
+          "url": "https://open.spotify.com/artist/73InPuhzpUw2vKetlnxJnQ"
+        }
+      ],
+      "duration_ms": 191413,
+      "name": "Tears - Boface Remix",
+      "url": "https://open.spotify.com/track/277Ly0ErNTvDQAvJp2yfgg"
     },
     {
       "added_at": "2022-09-07 18:21:02",

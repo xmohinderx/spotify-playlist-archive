@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 
 > Discover the next wave of talent on the scene writing their own songs\. Cover: Madison Kozak
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,572 likes - 85 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,611 likes - 85 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 | 42 | [Rocket Science](https://open.spotify.com/track/6iTCiGPIy42IDvm0PWDWLA) | [Quinn Lewis](https://open.spotify.com/artist/5n69lhq7BLWqnSjJgNPRh4) | [Rocket Science](https://open.spotify.com/album/7Cb2mXAxynvJSKO4w2DBHN) | 2:42 |
 | 43 | [A Little More](https://open.spotify.com/track/79Brj2zZ0x84BxnJZ2q5Wd) | [Erika Sirola](https://open.spotify.com/artist/1OHw2r7Diz2rc9JktaFV6N) | [who?](https://open.spotify.com/album/6hJ2X3eSAb9aCeX0isGxl8) | 3:30 |
 | 44 | [Sadtown USA](https://open.spotify.com/track/5isaeQhLPaB5dGg0ccJOuX) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Sadtown USA](https://open.spotify.com/album/6mKq3sxLNkjr8k7fFkGENN) | 3:10 |
-| 45 | [touch tank](https://open.spotify.com/track/7DrzZN5jaDyE0a0tVuVWnj) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [touch tank](https://open.spotify.com/album/4cH0G6g1NcPguHQ8aOk1h6) | 2:59 |
+| 45 | [touch tank](https://open.spotify.com/track/1S3ZeV4CEdqbzBYwu0pxE7) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [touch tank](https://open.spotify.com/album/4XsixtHgUzRfUd9zrhX5eh) | 2:59 |
 | 46 | [Deeper](https://open.spotify.com/track/1R7TJhZujfy7N2fk3wLTrn) | [Ellee Duke](https://open.spotify.com/artist/0mVpmPb8A2f3SZzLwsfY2N) | [Deeper](https://open.spotify.com/album/5NPjgNqomchHldXQcN140j) | 2:53 |
 | 47 | [Something I Hate](https://open.spotify.com/track/55yU2X0SZI3KFEz7B4YsMd) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Something I Hate](https://open.spotify.com/album/0sRyc5tDvYwBGm3Rgq5dHo) | 2:51 |
 | 48 | [Daydream](https://open.spotify.com/track/7CFPVdKn4FFkIm7rZYhNZQ) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Daydream](https://open.spotify.com/album/7N2QQisOFbQ0rWHDwIKd8O) | 3:09 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 | 84 | [saw ur mom at the grocery store](https://open.spotify.com/track/3Ax7eKZ1Mgov2hn5LzCB9U) | [Abby Cates](https://open.spotify.com/artist/2LwlPBOoq9EqTOmKi4lJ2n) | [saw ur mom at the grocery store](https://open.spotify.com/album/4smhUC8DjcBD3i0hIOlkYP) | 4:13 |
 | 85 | [Same Effect](https://open.spotify.com/track/67qQFuqX1hVcWCoGPB5BiU) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [And I'm Still Thinking About That](https://open.spotify.com/album/6Qt31GMG9GnQI9Zjyhq22B) | 2:42 |
 
-Snapshot ID: `MTY2MjcyOTI3NiwwMDAwMDAwMDMwNmVlZTgxMmE5M2Y1YWIwOGUwYzU1MzkyN2ZkZTZi`
+Snapshot ID: `MTY2MjcyOTI3NiwwMDAwMDAwMDYyYzNiYzY5YTZmMDljMGNkZDQyODJhNTcxMThmYmMy`

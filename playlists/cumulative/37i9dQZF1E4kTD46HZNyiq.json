@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-01",
-  "description": "With Brother Byrd, Max Reichert, Wesley Collins and more",
+  "description": "With Luca Fogale, Brother Byrd, Wesley Collins and more",
   "name": "NIGHT TRAVELER Radio",
   "published_playlist_ids": [
     "7516uBfjNbecLTG6tnzPU5"
@@ -4308,6 +4308,24 @@
     },
     {
       "album": {
+        "name": "Nothing is Lost",
+        "url": "https://open.spotify.com/album/0DtpBbI7QACD3pt5vNPGfc"
+      },
+      "artists": [
+        {
+          "name": "Luca Fogale",
+          "url": "https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205068,
+      "name": "Feel It",
+      "url": "https://open.spotify.com/track/51QxVSrdpeobt3ijVToOiT"
+    },
+    {
+      "album": {
         "name": "feel it all",
         "url": "https://open.spotify.com/album/226bj0pt1n4ahtXDKirA7N"
       },
@@ -4395,7 +4413,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 234333,
       "name": "Feel You",
       "url": "https://open.spotify.com/track/39CYJ3ERHs9ew7v69zjFrW"
@@ -4709,7 +4727,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-29",
+      "date_removed": null,
       "duration_ms": 180133,
       "name": "For You",
       "url": "https://open.spotify.com/track/3OKnLxmx3XbHmCnE4kr5tI"
@@ -8219,7 +8237,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 234893,
       "name": "Love You Like I Do",
       "url": "https://open.spotify.com/track/4P3P15yCJAedEeE4KsDoc1"
@@ -9229,7 +9247,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 211108,
       "name": "My Thoughts On You",
       "url": "https://open.spotify.com/track/0OkMj0czyhrDCIhOSLFpHK"
@@ -9301,7 +9319,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-15",
+      "date_removed": null,
       "duration_ms": 255200,
       "name": "Need Somebody",
       "url": "https://open.spotify.com/track/5A6LUv4Xuc1L4ULprZP8wv"
@@ -9427,7 +9445,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-13",
+      "date_removed": null,
       "duration_ms": 234345,
       "name": "Never Live Without You",
       "url": "https://open.spotify.com/track/06Mu4dzNZDxsMkFK5iAmpe"
@@ -10063,7 +10081,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 453466,
       "name": "Ocean Cabin",
       "url": "https://open.spotify.com/track/4yQzYdkSjjQ35FD2Hm0EYJ"
@@ -11849,6 +11867,24 @@
       "duration_ms": 216240,
       "name": "She",
       "url": "https://open.spotify.com/track/4tdDt8uEGX2c5ikwH0zhWl"
+    },
+    {
+      "album": {
+        "name": "She Said \"I Love You\" EP",
+        "url": "https://open.spotify.com/album/7oIE8weq34MfRuxwK2vp8P"
+      },
+      "artists": [
+        {
+          "name": "Easy Company",
+          "url": "https://open.spotify.com/artist/60QwYD0q0CjFl88xD9nu84"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280106,
+      "name": "She Said \"I Love You\"",
+      "url": "https://open.spotify.com/track/65laD51iK662gCEVXJGsRe"
     },
     {
       "album": {
@@ -15513,7 +15549,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 174546,
       "name": "You're the Sea",
       "url": "https://open.spotify.com/track/2WD93lsfJonaKtrQtpLB2R"

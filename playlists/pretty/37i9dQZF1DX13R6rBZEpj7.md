@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 
 > Turn up the volume for some filthy bassline! ft\. Zero
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,215 likes - 70 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,274 likes - 70 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 39 | [Again](https://open.spotify.com/track/4ZKyMOBSd2M7yTDEoa2LlP) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV), [Takura](https://open.spotify.com/artist/5h7nWgcp5DTynhz4iaq0Ri) | [Again](https://open.spotify.com/album/0O8csLJ3maexykCLSmehZd) | 3:51 |
 | 40 | [Feel So Free](https://open.spotify.com/track/2LXv7VRCHmtusc6B9FfkVW) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH) | [Feel So Free](https://open.spotify.com/album/6bxI8Jmu1EPzT2uVdJCog5) | 3:18 |
 | 41 | [Skanker](https://open.spotify.com/track/6h2bwZae3TtaQPN7H4Nzwr) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Skanker](https://open.spotify.com/album/1RCj9Ix2fIuV633QXLzJ48) | 3:47 |
-| 42 | [Be Real](https://open.spotify.com/track/3i4xoeUihdScqGDnvkCFXb) | [Dom Scanlon](https://open.spotify.com/artist/2EhXwW8eckYjHTFWX1f49P) | [Be Real](https://open.spotify.com/album/3prkw0bYIfiZT0Q9Gmz431) | 4:37 |
+| 42 | [Affiliation](https://open.spotify.com/track/74OHEZCii7GYJqqEIHPYb0) | [Bermal](https://open.spotify.com/artist/2I50LWeOqOFm3bagM840Nt) | [Affiliation](https://open.spotify.com/album/6viQ5GlaaPHbGLPfIYcEfU) | 3:10 |
 | 43 | [Solid Ground](https://open.spotify.com/track/5rPEJbUTX6yaznk9V78jQZ) | [KDYN](https://open.spotify.com/artist/3LzEsI7g7Siu0bVOBR0OLi) | [Solid Ground](https://open.spotify.com/album/6bVBjsTZcvTMDr5sjzgVsJ) | 4:01 |
-| 44 | [Affiliation](https://open.spotify.com/track/74OHEZCii7GYJqqEIHPYb0) | [Bermal](https://open.spotify.com/artist/2I50LWeOqOFm3bagM840Nt) | [Affiliation](https://open.spotify.com/album/6viQ5GlaaPHbGLPfIYcEfU) | 3:10 |
+| 44 | [Be Real](https://open.spotify.com/track/3i4xoeUihdScqGDnvkCFXb) | [Dom Scanlon](https://open.spotify.com/artist/2EhXwW8eckYjHTFWX1f49P) | [Be Real](https://open.spotify.com/album/3prkw0bYIfiZT0Q9Gmz431) | 4:37 |
 | 45 | [Tune](https://open.spotify.com/track/7ske1qDeuRwD933vcnD3OS) | [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn), [DJ Q](https://open.spotify.com/artist/7dDPt2xIGymSDddx80OfF1), [Gentlemens Club](https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO) | [Tune](https://open.spotify.com/album/0wN5zaRkX38Eh8U8myFobq) | 3:08 |
 | 46 | [Far](https://open.spotify.com/track/0bVqiSfH3YnFnRPNHgAMuR) | [Cooky](https://open.spotify.com/artist/1gIG3PQXZfplVilbDBdzap) | [Far](https://open.spotify.com/album/3zoa4ZVBL7McPiAI3EAUjQ) | 4:10 |
 | 47 | [Mock Man \(The VIP\)](https://open.spotify.com/track/2WCpgTEYu5cgIIokqQhqzW) | [Mr Traumatik](https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z), [Moda](https://open.spotify.com/artist/2FTs2DgO1R1eDG14O0Fh0v), [KKoi](https://open.spotify.com/artist/67Op2PSJg4SjmqfWNIaQwC) | [Mock Man \(The VIP\)](https://open.spotify.com/album/5cv4DHsHnpJtSfVLAQbb6g) | 3:49 |
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 64 | [Hard Hitters](https://open.spotify.com/track/1QVQdgkRXRD4WON1AHvs1k) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn) | [Hard Hitters](https://open.spotify.com/album/2uKCc6oR55TkMuSGTYJIyK) | 3:52 |
 | 65 | [Thugs](https://open.spotify.com/track/0Rwc46KVDHVdcn6fN5S4dc) | [KDYN](https://open.spotify.com/artist/3LzEsI7g7Siu0bVOBR0OLi), [Albzzy](https://open.spotify.com/artist/3u3M65YhSCRhnvV9hZ9uTZ) | [Thugs](https://open.spotify.com/album/6bnzNlV4NIrKZSkyPnADpE) | 3:56 |
 | 66 | [Euphoria](https://open.spotify.com/track/0GES2nyDZvfxIaJmFLmtvz) | [Samstone](https://open.spotify.com/artist/0akEEdGffTxMJpd0CMInhY) | [Euphoria](https://open.spotify.com/album/2OvdtkZEyFn4LQeCkgrSBh) | 3:15 |
-| 67 | [Donny Don](https://open.spotify.com/track/3uwOIivH9QUkBTdkIRfo8c) | [Phibes](https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx), [DEEPROT](https://open.spotify.com/artist/5lxAcm7Djoylav7TnkFTHC), [MIK](https://open.spotify.com/artist/4zotndJ6zbqir1ZkZNXzsm) | [Donny Don](https://open.spotify.com/album/3UusxCt7bhvh5aT6Lwbqwr) | 3:34 |
-| 68 | [Wanna Freak](https://open.spotify.com/track/4ZXkasziPLirl2GCn3bh8Q) | [Cajama](https://open.spotify.com/artist/3YiP0AyiXuD61EE5xTaTbY) | [Wanna Freak](https://open.spotify.com/album/2JON2aHyeJoaBSIbbvfXrh) | 3:08 |
-| 69 | [Annihilation](https://open.spotify.com/track/43auTkxJdUs3TRkMNJROYj) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [In Two Worlds](https://open.spotify.com/album/5oAPopKo0zZwdDdYtzqgu9) | 4:30 |
+| 67 | [Annihilation](https://open.spotify.com/track/43auTkxJdUs3TRkMNJROYj) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [In Two Worlds](https://open.spotify.com/album/5oAPopKo0zZwdDdYtzqgu9) | 4:30 |
+| 68 | [Donny Don](https://open.spotify.com/track/3uwOIivH9QUkBTdkIRfo8c) | [Phibes](https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx), [DEEPROT](https://open.spotify.com/artist/5lxAcm7Djoylav7TnkFTHC), [MIK](https://open.spotify.com/artist/4zotndJ6zbqir1ZkZNXzsm) | [Donny Don](https://open.spotify.com/album/3UusxCt7bhvh5aT6Lwbqwr) | 3:34 |
+| 69 | [Wanna Freak](https://open.spotify.com/track/4ZXkasziPLirl2GCn3bh8Q) | [Cajama](https://open.spotify.com/artist/3YiP0AyiXuD61EE5xTaTbY) | [Wanna Freak](https://open.spotify.com/album/2JON2aHyeJoaBSIbbvfXrh) | 3:08 |
 | 70 | [Emergency](https://open.spotify.com/track/1J2vZvRwW6xjIlsZsydkCO) | [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [Emergency](https://open.spotify.com/album/6amlh9MV3y02Lj1cJtcoHE) | 2:49 |
 
-Snapshot ID: `MTY2MjM2ODcyNywwMDAwMDAwMDdlZDkwMGQ5MzFiODUzYTI0NTRjZDAzMzc1NzZjNWVj`
+Snapshot ID: `MTY2MjM2ODcyNywwMDAwMDAwMGE0MmIzODZiMzViMzU0MGM0MGI4MDQwYTJjYzc2MzJl`

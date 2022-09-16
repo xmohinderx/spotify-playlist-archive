@@ -4,7 +4,7 @@
 
 > cool tunes for walking, driving, running, flying, etc
 
-184 songs - 10 hr 8 min - [published](https://open.spotify.com/playlist/7yi0VWh6wfRxiXDx9MOyNK)
+185 songs - 10 hr 14 min - [published](https://open.spotify.com/playlist/7yi0VWh6wfRxiXDx9MOyNK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [bittersweet](https://open.spotify.com/track/4f0HrumuDOiNdzXRGKq5yB) | [LORA](https://open.spotify.com/artist/3sJr6yhJiNvyTbgrNRDkr8) | [bittersweet](https://open.spotify.com/album/5Zx921CEjBDLKPsBFPFBoF) | 2:43 | 2022-03-11 | 2022-07-29 |
 | [Bling Up](https://open.spotify.com/track/395GwdPbJqFzM7ihmlCe8Z) | [SANNI](https://open.spotify.com/artist/4KbUzTS1NC8GHIe9LkwIPS) | [Bling Up](https://open.spotify.com/album/751S14K6SS4TkS8rhDsHQZ) | 2:57 | 2021-12-16 |  |
 | [Body](https://open.spotify.com/track/0BZip62uEjvHL7jdDyC21p) | [Haiva Ru](https://open.spotify.com/artist/2KjR229AjvbIGlrkjDBguA) | [Body](https://open.spotify.com/album/6MDU6gvwSr3fEOX9R7jccf) | 3:15 | 2022-02-25 | 2022-07-29 |
-| [Bones](https://open.spotify.com/track/2DEuJwJSQJ7CuFeWQcfJsP) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Bones](https://open.spotify.com/album/2WhJOBdibFYDV9ZleIU0gy) | 4:05 | 2022-06-03 |  |
+| [Bones](https://open.spotify.com/track/2DEuJwJSQJ7CuFeWQcfJsP) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Bones](https://open.spotify.com/album/2WhJOBdibFYDV9ZleIU0gy) | 4:05 | 2022-06-03 | 2022-09-16 |
 | [Brand New Phone](https://open.spotify.com/track/17zFfPV3PZ3ZDMZyDcXTxV) | [ellis](https://open.spotify.com/artist/00CYRdkMnA0mwfy1VQPA7X), [Pasha](https://open.spotify.com/artist/0elSJZFrHnayc7AUCkbWAl) | [Recollection Prospective](https://open.spotify.com/album/1thcA2rOLZExgDgcH6K2Bd) | 3:17 | 2022-03-25 |  |
 | [Buggin](https://open.spotify.com/track/1wjHKZGLuZarl2lY16CQ1H) | [goodboy noah](https://open.spotify.com/artist/021wqpA4geq0mtJlARXjon) | [Buggin](https://open.spotify.com/album/3Vd2F2hoxhMSsEW0MlUZIP) | 2:11 | 2021-11-12 | 2022-07-28 |
 | [Bunny Is A Rider](https://open.spotify.com/track/1rYABrDmfqVmJMwaNJBUUb) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Bunny Is A Rider](https://open.spotify.com/album/2cwOa6RStGRanie22to0NO) | 3:17 | 2022-05-03 |  |
@@ -98,6 +98,7 @@
 | [In My Head](https://open.spotify.com/track/65TiEAGo8U7RFXQwlsjjxh) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66), [Carter Ace](https://open.spotify.com/artist/0bhck1r45kgsoMNBVqIziz) | [Closure & Campari: After Hours](https://open.spotify.com/album/5dkGwwTDSKTiAq8Qp4yWn8) | 2:36 | 2022-05-03 | 2022-07-29 |
 | [Inside Out](https://open.spotify.com/track/6knSS9IpIjq4RLMcAcuS8g) | [Kwajo](https://open.spotify.com/artist/7yPxEd332R2RPIbaexg5Y6), [SH1NOB1](https://open.spotify.com/artist/6UGDJ6kEcwYnpgTZJWPPJ0) | [Inside Out](https://open.spotify.com/album/6PiOphZVJXwygC6QbfDYiT) | 3:01 | 2022-07-07 |  |
 | [Ischia](https://open.spotify.com/track/0LhXkyXcPf2bdRKJFkd2FK) | [Isola](https://open.spotify.com/artist/2K9NaV3uzFi6NAZCRHeZvh) | [EP1](https://open.spotify.com/album/07RlgKHzytA0mw92KaK2xX) | 6:01 | 2021-08-05 | 2022-07-21 |
+| [Ischia](https://open.spotify.com/track/4lzfwCNtSBGqRG5jl5Pp6K) | [Isola](https://open.spotify.com/artist/2K9NaV3uzFi6NAZCRHeZvh) | [EP1](https://open.spotify.com/album/46taxnLPMHr38wRSHJHxic) | 6:01 | 2022-08-26 |  |
 | [its alright :\)](https://open.spotify.com/track/0ITjrJTxJWUVqthwUIOKPZ) | [Kevin Walkman](https://open.spotify.com/artist/0Q1Xt8JEFDwfiuNBIM60E4) | [its alright :\)](https://open.spotify.com/album/4x8tDeytfMzIVZMrDwlF0Y) | 3:22 | 2021-09-03 |  |
 | [J'adore](https://open.spotify.com/track/0tlztRFDgCSnAbUxllcZJJ) | [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [A Butterfly In\-between Time](https://open.spotify.com/album/3yG67dwpot0imvZJ7nAXhv) | 4:12 | 2021-08-05 |  |
 | [Janet](https://open.spotify.com/track/3ml3WB66sqG4kXoPBX2POA) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl) | [Berhana](https://open.spotify.com/album/5Tl4ncCoenypfpqZqRbtp3) | 3:24 | 2021-08-05 |  |

@@ -1,29 +1,13 @@
 {
   "description": "A deep tribal sound, combining electronic elements and organic instrumentation, stemming from the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 641671,
+  "num_followers": 641894,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjczOTIwMCwwMDAwMDAwMDMwY2M3MTBiZDNhMDE5MzgwZTExYTQ1YTYwNWE1Nzk4",
+  "snapshot_id": "MTY2MjczOTIwMCwwMDAwMDAwMDg2MzhmZDdiYWJiYjlkYTJiMGFkODM4ZDQwY2FlZWEz",
   "tracks": [
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
-        "name": "Above",
-        "url": "https://open.spotify.com/album/18lMSHn83ZSakMsR80Or3I"
-      },
-      "artists": [
-        {
-          "name": "Liam Mour",
-          "url": "https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0"
-        }
-      ],
-      "duration_ms": 287500,
-      "name": "Writings",
-      "url": "https://open.spotify.com/track/0dZ8mcRlvdvHfUEwxPkb5B"
-    },
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 309840,
       "name": "Anatolia",
       "url": "https://open.spotify.com/track/636ieo1frTLl9XvQwalG1o"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
+        "name": "Above",
+        "url": "https://open.spotify.com/album/18lMSHn83ZSakMsR80Or3I"
+      },
+      "artists": [
+        {
+          "name": "Liam Mour",
+          "url": "https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0"
+        }
+      ],
+      "duration_ms": 287500,
+      "name": "Writings",
+      "url": "https://open.spotify.com/track/0dZ8mcRlvdvHfUEwxPkb5B"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -563,6 +563,22 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
+        "name": "Global Entry 2",
+        "url": "https://open.spotify.com/album/69LMoWpK2ruprvAdiFPwSm"
+      },
+      "artists": [
+        {
+          "name": "Be Svendsen",
+          "url": "https://open.spotify.com/artist/4BaLB5aiExO29BEGVUisru"
+        }
+      ],
+      "duration_ms": 469335,
+      "name": "State the Obvious",
+      "url": "https://open.spotify.com/track/6WVvJAAzcrcYJhimrjqEIh"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
         "name": "Alkebulan Remix",
         "url": "https://open.spotify.com/album/2JoZyLBoWtjzNLJKsXNoVs"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 470243,
       "name": "Alkebulan - David Mayer Remix",
       "url": "https://open.spotify.com/track/4Bl14xQWo7Q6jagOcPZ5mI"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
-        "name": "Global Entry 2",
-        "url": "https://open.spotify.com/album/69LMoWpK2ruprvAdiFPwSm"
-      },
-      "artists": [
-        {
-          "name": "Be Svendsen",
-          "url": "https://open.spotify.com/artist/4BaLB5aiExO29BEGVUisru"
-        }
-      ],
-      "duration_ms": 469335,
-      "name": "State the Obvious",
-      "url": "https://open.spotify.com/track/6WVvJAAzcrcYJhimrjqEIh"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -639,6 +639,22 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
+        "name": "Astavakra",
+        "url": "https://open.spotify.com/album/1UjQXx7W5aoyUJi0wBgHZo"
+      },
+      "artists": [
+        {
+          "name": "Sadhu Sensi",
+          "url": "https://open.spotify.com/artist/3Muhm9HEowEpdC0i6NuW3P"
+        }
+      ],
+      "duration_ms": 420215,
+      "name": "Astavakra",
+      "url": "https://open.spotify.com/track/2vW8K1C2Vj81beuKOvBdf9"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
         "name": "Ma Gally",
         "url": "https://open.spotify.com/album/1komNaPBI0xb2FNDYRy6BC"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 433330,
       "name": "Ya Nahar Ya Gamel",
       "url": "https://open.spotify.com/track/4SKb9f6WJrAWaIzabSdUqy"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
-        "name": "Astavakra",
-        "url": "https://open.spotify.com/album/1UjQXx7W5aoyUJi0wBgHZo"
-      },
-      "artists": [
-        {
-          "name": "Sadhu Sensi",
-          "url": "https://open.spotify.com/artist/3Muhm9HEowEpdC0i6NuW3P"
-        }
-      ],
-      "duration_ms": 420215,
-      "name": "Astavakra",
-      "url": "https://open.spotify.com/track/2vW8K1C2Vj81beuKOvBdf9"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -723,6 +723,26 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
+        "name": "Izivunguvungu (Chlo\u00e9 Remix)",
+        "url": "https://open.spotify.com/album/4WMhthWOI1jzCIuRoP0jwB"
+      },
+      "artists": [
+        {
+          "name": "Urban Village",
+          "url": "https://open.spotify.com/artist/60UHsALAJRgTJdAxZGAZDg"
+        },
+        {
+          "name": "Chlo\u00e9 (Th\u00e9venin)",
+          "url": "https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq"
+        }
+      ],
+      "duration_ms": 384330,
+      "name": "Izivunguvungu - Chlo\u00e9 Remix",
+      "url": "https://open.spotify.com/track/4smPVWbEXf5aq92BcNevXu"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
         "name": "Jendayi EP",
         "url": "https://open.spotify.com/album/6qoVUCC8JnvxUbsox7MGks"
       },
@@ -771,26 +791,6 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "Serbet",
-        "url": "https://open.spotify.com/album/52AK58uvvnMfWlmpDN6L17"
-      },
-      "artists": [
-        {
-          "name": "Dim Angelo",
-          "url": "https://open.spotify.com/artist/2HN3iAUI25PURpr57IivF2"
-        },
-        {
-          "name": "Christos Papadopoulos",
-          "url": "https://open.spotify.com/artist/0OM0XQMApr269J1w5y6FEn"
-        }
-      ],
-      "duration_ms": 312000,
-      "name": "Serbet",
-      "url": "https://open.spotify.com/track/5sv8aOslVoZR3PGxBLVnlw"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
         "name": "Caminata",
         "url": "https://open.spotify.com/album/7Iy8qNYQd5MfCWHEb0mSSl"
       },
@@ -807,22 +807,22 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "Izivunguvungu (Chlo\u00e9 Remix)",
-        "url": "https://open.spotify.com/album/4WMhthWOI1jzCIuRoP0jwB"
+        "name": "Serbet",
+        "url": "https://open.spotify.com/album/52AK58uvvnMfWlmpDN6L17"
       },
       "artists": [
         {
-          "name": "Urban Village",
-          "url": "https://open.spotify.com/artist/60UHsALAJRgTJdAxZGAZDg"
+          "name": "Dim Angelo",
+          "url": "https://open.spotify.com/artist/2HN3iAUI25PURpr57IivF2"
         },
         {
-          "name": "Chlo\u00e9 (Th\u00e9venin)",
-          "url": "https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq"
+          "name": "Christos Papadopoulos",
+          "url": "https://open.spotify.com/artist/0OM0XQMApr269J1w5y6FEn"
         }
       ],
-      "duration_ms": 384330,
-      "name": "Izivunguvungu - Chlo\u00e9 Remix",
-      "url": "https://open.spotify.com/track/4smPVWbEXf5aq92BcNevXu"
+      "duration_ms": 312000,
+      "name": "Serbet",
+      "url": "https://open.spotify.com/track/5sv8aOslVoZR3PGxBLVnlw"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -951,26 +951,6 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "Time & Space",
-        "url": "https://open.spotify.com/album/3TLTW0MtJZGePZXw6ZlBzy"
-      },
-      "artists": [
-        {
-          "name": "Marco Tegui",
-          "url": "https://open.spotify.com/artist/4gqouQdirzlMyGgnjMrrIU"
-        },
-        {
-          "name": "Yusuf Lemone",
-          "url": "https://open.spotify.com/artist/5KhkTwLettZaWLuBwEox5M"
-        }
-      ],
-      "duration_ms": 381176,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/022LE9alqHmsJtSXEeLapV"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
         "name": "Bosque",
         "url": "https://open.spotify.com/album/4HROnq4ngJRmaEfRX5YkRt"
       },
@@ -987,22 +967,22 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "Leave the Bones",
-        "url": "https://open.spotify.com/album/30OeYX8aVRKtwzyUS9D1kZ"
+        "name": "Time & Space",
+        "url": "https://open.spotify.com/album/3TLTW0MtJZGePZXw6ZlBzy"
       },
       "artists": [
         {
-          "name": "Lakou Mizik",
-          "url": "https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r"
+          "name": "Marco Tegui",
+          "url": "https://open.spotify.com/artist/4gqouQdirzlMyGgnjMrrIU"
         },
         {
-          "name": "Joseph Ray",
-          "url": "https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX"
+          "name": "Yusuf Lemone",
+          "url": "https://open.spotify.com/artist/5KhkTwLettZaWLuBwEox5M"
         }
       ],
-      "duration_ms": 354043,
-      "name": "Kite Zo A",
-      "url": "https://open.spotify.com/track/4oxWMQjQLpDZ3UOS0km3JB"
+      "duration_ms": 381176,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/022LE9alqHmsJtSXEeLapV"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -1051,6 +1031,26 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
+        "name": "Leave the Bones",
+        "url": "https://open.spotify.com/album/30OeYX8aVRKtwzyUS9D1kZ"
+      },
+      "artists": [
+        {
+          "name": "Lakou Mizik",
+          "url": "https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r"
+        },
+        {
+          "name": "Joseph Ray",
+          "url": "https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX"
+        }
+      ],
+      "duration_ms": 354043,
+      "name": "Kite Zo A",
+      "url": "https://open.spotify.com/track/4oxWMQjQLpDZ3UOS0km3JB"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
         "name": "Eliso",
         "url": "https://open.spotify.com/album/3YJAnKGQpddtp0dSp8YkTD"
       },
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "Minimuzikhol Benefit Compilation",
-        "url": "https://open.spotify.com/album/3vOUDYcIWNLFAZzeWvwZQ9"
-      },
-      "artists": [
-        {
-          "name": "TUTAN",
-          "url": "https://open.spotify.com/artist/5tWW4zktUzz1kstvxZ2MMc"
-        }
-      ],
-      "duration_ms": 366886,
-      "name": "Mazbata",
-      "url": "https://open.spotify.com/track/3Lg0Kn4AXZCRRYclJWh9ce"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
         "name": "Graceland",
         "url": "https://open.spotify.com/album/389FTo58PpF3FBb8rh7IlV"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 405213,
       "name": "Graceland",
       "url": "https://open.spotify.com/track/4blmNPKr7Nkfaj6GDAKU5P"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
+        "name": "Minimuzikhol Benefit Compilation",
+        "url": "https://open.spotify.com/album/3vOUDYcIWNLFAZzeWvwZQ9"
+      },
+      "artists": [
+        {
+          "name": "TUTAN",
+          "url": "https://open.spotify.com/artist/5tWW4zktUzz1kstvxZ2MMc"
+        }
+      ],
+      "duration_ms": 366886,
+      "name": "Mazbata",
+      "url": "https://open.spotify.com/track/3Lg0Kn4AXZCRRYclJWh9ce"
     }
   ],
   "unique_name": "Org\u00e1nica",

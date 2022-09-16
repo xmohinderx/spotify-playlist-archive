@@ -1,12 +1,12 @@
 {
   "description": "como en una nube. Bedroom pop vibes featuring Clara Yolks.",
-  "num_followers": 32591,
+  "num_followers": 32652,
   "original_name": "\u2728 dreamy \u2728",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA5NDgwMCwwMDAwMDAwMDA5NDQwZGM3NGM1NGUyNTk2NmExN2Y2MjYwNjczYjVh",
+  "snapshot_id": "MTY2MjA5NDgwMCwwMDAwMDAwMDgxMTk3N2I1YzJjOTRhMDJlYTY0MTM0ODlhMDUzMGFk",
   "tracks": [
     {
       "added_at": "2022-09-02 05:00:00",
@@ -415,6 +415,22 @@
     {
       "added_at": "2022-09-02 05:00:00",
       "album": {
+        "name": "M\u00edralo",
+        "url": "https://open.spotify.com/album/6UIHKXjD19ZHRbkRE8BFtl"
+      },
+      "artists": [
+        {
+          "name": "Rorro",
+          "url": "https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv"
+        }
+      ],
+      "duration_ms": 133333,
+      "name": "M\u00edralo",
+      "url": "https://open.spotify.com/track/4IKSehYf4e9tjijDSZHQF2"
+    },
+    {
+      "added_at": "2022-09-02 05:00:00",
+      "album": {
         "name": "Gotas",
         "url": "https://open.spotify.com/album/76YyNZPRiXT5cyULAqajlB"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 215156,
       "name": "Gotas",
       "url": "https://open.spotify.com/track/3RPVMsjKwcPb4M9BsqeYhd"
-    },
-    {
-      "added_at": "2022-09-02 05:00:00",
-      "album": {
-        "name": "M\u00edralo",
-        "url": "https://open.spotify.com/album/6UIHKXjD19ZHRbkRE8BFtl"
-      },
-      "artists": [
-        {
-          "name": "Rorro",
-          "url": "https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv"
-        }
-      ],
-      "duration_ms": 133333,
-      "name": "M\u00edralo",
-      "url": "https://open.spotify.com/track/4IKSehYf4e9tjijDSZHQF2"
     },
     {
       "added_at": "2022-09-02 05:00:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2022-09-02 05:00:00",
       "album": {
-        "name": "Idiota",
-        "url": "https://open.spotify.com/album/3LCaWH5lNjftW6IHgxV4sT"
-      },
-      "artists": [
-        {
-          "name": "Manu Beker",
-          "url": "https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH"
-        }
-      ],
-      "duration_ms": 179959,
-      "name": "Idiota",
-      "url": "https://open.spotify.com/track/3bHZsUnYWWjDgAbBK9KuKa"
-    },
-    {
-      "added_at": "2022-09-02 05:00:00",
-      "album": {
         "name": "SUPPLY & DEMAND",
         "url": "https://open.spotify.com/album/3hPanAHedPo2iMTqnqJe7p"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 146981,
       "name": "SUPPLY & DEMAND",
       "url": "https://open.spotify.com/track/4fsAnNEX0f9SqlVsiIX31D"
+    },
+    {
+      "added_at": "2022-09-02 05:00:00",
+      "album": {
+        "name": "Idiota",
+        "url": "https://open.spotify.com/album/3LCaWH5lNjftW6IHgxV4sT"
+      },
+      "artists": [
+        {
+          "name": "Manu Beker",
+          "url": "https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH"
+        }
+      ],
+      "duration_ms": 179959,
+      "name": "Idiota",
+      "url": "https://open.spotify.com/track/3bHZsUnYWWjDgAbBK9KuKa"
     },
     {
       "added_at": "2022-09-02 05:00:00",
@@ -843,18 +843,18 @@
     {
       "added_at": "2022-09-02 05:00:00",
       "album": {
-        "name": "Young",
-        "url": "https://open.spotify.com/album/25At4hX7SKuKb4jPtaGRmC"
+        "name": "What Do You Want It To Be?",
+        "url": "https://open.spotify.com/album/0zj0QfL92o9OPwtKvwW5pL"
       },
       "artists": [
         {
-          "name": "Harmless",
-          "url": "https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd"
+          "name": "Estereomance",
+          "url": "https://open.spotify.com/artist/0sPz0BuaI7sSF0mzku6fZd"
         }
       ],
-      "duration_ms": 133714,
-      "name": "Young",
-      "url": "https://open.spotify.com/track/47VlZn29DoKGOL64qbqxvt"
+      "duration_ms": 242241,
+      "name": "Gardenia Dreams",
+      "url": "https://open.spotify.com/track/585X2YqQiRUD0OC5FrPyQh"
     },
     {
       "added_at": "2022-09-02 05:00:00",
@@ -875,18 +875,18 @@
     {
       "added_at": "2022-09-02 05:00:00",
       "album": {
-        "name": "What Do You Want It To Be?",
-        "url": "https://open.spotify.com/album/0zj0QfL92o9OPwtKvwW5pL"
+        "name": "Young",
+        "url": "https://open.spotify.com/album/25At4hX7SKuKb4jPtaGRmC"
       },
       "artists": [
         {
-          "name": "Estereomance",
-          "url": "https://open.spotify.com/artist/0sPz0BuaI7sSF0mzku6fZd"
+          "name": "Harmless",
+          "url": "https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd"
         }
       ],
-      "duration_ms": 242241,
-      "name": "Gardenia Dreams",
-      "url": "https://open.spotify.com/track/585X2YqQiRUD0OC5FrPyQh"
+      "duration_ms": 133714,
+      "name": "Young",
+      "url": "https://open.spotify.com/track/47VlZn29DoKGOL64qbqxvt"
     },
     {
       "added_at": "2022-09-02 05:00:00",
@@ -1071,6 +1071,38 @@
     {
       "added_at": "2022-09-02 05:00:00",
       "album": {
+        "name": "Mirando",
+        "url": "https://open.spotify.com/album/5dupFfiBadc2bWw9Knzwx0"
+      },
+      "artists": [
+        {
+          "name": "Dromedarios M\u00e1gicos",
+          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
+        }
+      ],
+      "duration_ms": 217263,
+      "name": "Mirando",
+      "url": "https://open.spotify.com/track/64ekrXN8XATh5MaUtLT2LI"
+    },
+    {
+      "added_at": "2022-09-02 05:00:00",
+      "album": {
+        "name": "Como Nadie",
+        "url": "https://open.spotify.com/album/2pZIeoVraZI0B4xDAYwIZT"
+      },
+      "artists": [
+        {
+          "name": "Jard\u00edn",
+          "url": "https://open.spotify.com/artist/3heEUIjUbWkseFTU8s4zqP"
+        }
+      ],
+      "duration_ms": 227620,
+      "name": "Como Nadie",
+      "url": "https://open.spotify.com/track/5FnaEou98yODChyeRz8Tys"
+    },
+    {
+      "added_at": "2022-09-02 05:00:00",
+      "album": {
         "name": "Perdida En Un Sue\u00f1o",
         "url": "https://open.spotify.com/album/16dfrsHTy1aqUMm8qoknPz"
       },
@@ -1091,22 +1123,6 @@
     {
       "added_at": "2022-09-02 05:00:00",
       "album": {
-        "name": "Mirando",
-        "url": "https://open.spotify.com/album/5dupFfiBadc2bWw9Knzwx0"
-      },
-      "artists": [
-        {
-          "name": "Dromedarios M\u00e1gicos",
-          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
-        }
-      ],
-      "duration_ms": 217263,
-      "name": "Mirando",
-      "url": "https://open.spotify.com/track/64ekrXN8XATh5MaUtLT2LI"
-    },
-    {
-      "added_at": "2022-09-02 05:00:00",
-      "album": {
         "name": "Escondida",
         "url": "https://open.spotify.com/album/1SojZjLoZRpRDHWO9Y9ZLJ"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 175306,
       "name": "Escondida",
       "url": "https://open.spotify.com/track/2GcRx1c4uCLhuFsjM7fBNY"
-    },
-    {
-      "added_at": "2022-09-02 05:00:00",
-      "album": {
-        "name": "Como Nadie",
-        "url": "https://open.spotify.com/album/2pZIeoVraZI0B4xDAYwIZT"
-      },
-      "artists": [
-        {
-          "name": "Jard\u00edn",
-          "url": "https://open.spotify.com/artist/3heEUIjUbWkseFTU8s4zqP"
-        }
-      ],
-      "duration_ms": 227620,
-      "name": "Como Nadie",
-      "url": "https://open.spotify.com/track/5FnaEou98yODChyeRz8Tys"
     },
     {
       "added_at": "2022-09-02 05:00:00",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2022-09-02 05:00:00",
       "album": {
+        "name": "Nunca Te Dejar\u00e9 Ir",
+        "url": "https://open.spotify.com/album/1Dck2luCLqrh6rudNBEkCv"
+      },
+      "artists": [
+        {
+          "name": "Sexy Pigeon",
+          "url": "https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U"
+        }
+      ],
+      "duration_ms": 114042,
+      "name": "Nunca Te Dejar\u00e9 Ir",
+      "url": "https://open.spotify.com/track/5Enzcachkod8O3ykRHUZLw"
+    },
+    {
+      "added_at": "2022-09-02 05:00:00",
+      "album": {
         "name": "SIN DISFRAZ",
         "url": "https://open.spotify.com/album/5wSk9XLTcNDxAEgFFVaZbC"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 343413,
       "name": "Tiempo Compartido",
       "url": "https://open.spotify.com/track/5ms50lUojH8Ft48znLxsfF"
-    },
-    {
-      "added_at": "2022-09-02 05:00:00",
-      "album": {
-        "name": "Okay!",
-        "url": "https://open.spotify.com/album/3ZYoorCmWoiAD8DgxrcrTW"
-      },
-      "artists": [
-        {
-          "name": "Ev",
-          "url": "https://open.spotify.com/artist/21EczEifDKebasemX58Jp8"
-        }
-      ],
-      "duration_ms": 242250,
-      "name": "Bien",
-      "url": "https://open.spotify.com/track/3WLeXmLujC9lnlT44aTvGR"
     }
   ],
   "unique_name": "\u2728 dreamy \u2728",

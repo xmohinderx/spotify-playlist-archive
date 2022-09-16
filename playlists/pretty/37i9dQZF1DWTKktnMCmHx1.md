@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKktnMCmHx1.md) - [plain]
 
 > Tecnica, stile e talento: MVP starter pack, nel rap come nel gaming 🎮
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,936 likes - 80 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,965 likes - 80 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKktnMCmHx1.md) - [plain]
 | 70 | [Coco \(feat\. DaBaby\)](https://open.spotify.com/track/6MGRweoLPBAaPcXTMpMWsA) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [El Dorado](https://open.spotify.com/album/270o30h7cAlEhBnbuSpFZq) | 2:22 |
 | 71 | [No wallet \(feat\. Marracash\)](https://open.spotify.com/track/4vU79ET0F49d3bepSr0Aee) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Salvatore](https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B) | 2:02 |
 | 72 | [Still Be Friends \(feat\. Tory Lanez & Tyga\)](https://open.spotify.com/track/0JjM9bKm4wrwohMslcm892) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Still Be Friends \(feat\. Tory Lanez & Tyga\)](https://open.spotify.com/album/0KHIH7UC8WATEByfXGfYaY) | 3:33 |
-| 73 | [CASA](https://open.spotify.com/track/4YhH8TVZAe2AUaz2oigGeQ) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [CASA](https://open.spotify.com/album/60up5WdoThgFRGkyZVIlIq) | 3:17 |
-| 74 | [JETSKI \(feat\. Lil Mosey & Lil Tecca\)](https://open.spotify.com/track/2vl0D1b0M6UHlD1Fjh5j1m) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [JETSKI \(feat\. Lil Mosey & Lil Tecca\)](https://open.spotify.com/album/6KlDmO6ziOvGd42w7Abt3a) | 2:45 |
+| 73 | [JETSKI \(feat\. Lil Mosey & Lil Tecca\)](https://open.spotify.com/track/2vl0D1b0M6UHlD1Fjh5j1m) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [JETSKI \(feat\. Lil Mosey & Lil Tecca\)](https://open.spotify.com/album/6KlDmO6ziOvGd42w7Abt3a) | 2:45 |
+| 74 | [CASA](https://open.spotify.com/track/4YhH8TVZAe2AUaz2oigGeQ) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [CASA](https://open.spotify.com/album/60up5WdoThgFRGkyZVIlIq) | 3:17 |
 | 75 | [La zone \(feat\. Shiva\)](https://open.spotify.com/track/2Q1ICiLBk9lmLQz7GhMoWB) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [La zone \(feat\. Shiva\)](https://open.spotify.com/album/4zZrt7ZP0AmUCdxTJxBN6M) | 2:38 |
 | 76 | [Non Fare Così](https://open.spotify.com/track/769M2rTiAoL7x2lKDHLjRa) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [PLAZA](https://open.spotify.com/album/5tKxGn7nxBF5qLW6cpwVT8) | 3:12 |
 | 77 | [Real Shit \(with benny blanco\)](https://open.spotify.com/track/3uVPLtkmDu8pDkYEAVqbgS) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Real Shit \(with benny blanco\)](https://open.spotify.com/album/16EqCl0UoPe3xSIFg4xO6T) | 3:03 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKktnMCmHx1.md) - [plain]
 | 79 | [Star \(feat\. Shiva\)](https://open.spotify.com/track/4LC3IJxi0FnvPALxJ8k6zw) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Salvatore](https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B) | 3:01 |
 | 80 | [LAPROVINCE \#1](https://open.spotify.com/track/2Z9uQAn8v8m6ZPFh4bsqY4) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [LAPROVINCE \#1](https://open.spotify.com/album/3THjA1Ova7s3TevMi65qTS) | 2:38 |
 
-Snapshot ID: `MTY2MjY0NjEwOCwwMDAwMDAwMDg1M2NkODQ5NGNkMjg1MjBiNzRhNjJjODFmZWQwN2Iy`
+Snapshot ID: `MTY2MjY0NjEwOCwwMDAwMDAwMGQ5NzcxZjcxMmQ0M2FlNjRkZTQ4NjBiYjIzYmE0YmRl`

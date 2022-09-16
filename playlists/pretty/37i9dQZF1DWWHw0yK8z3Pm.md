@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 
 > Singer\-songwriters who colour outside the lines\. Cover: Benjamin Dakota Rogers
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,095 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,100 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Greyhound](https://open.spotify.com/track/2c7BU7qdz3xGSndyj5OQKN) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [Greyhound](https://open.spotify.com/album/65CRcFpY94KnI8NGo6Ezq5) | 4:15 |
 | 2 | [Better Off High](https://open.spotify.com/track/4qErRQ7XZCogsJDzyvWTLY) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [Better Off High](https://open.spotify.com/album/5nMgnAmu8DnEHS1FVlsrB7) | 4:30 |
-| 3 | [Ain't No Cowboys In Georgia](https://open.spotify.com/track/5rBffoltonsi8O6T9TSUuU) | [Honey Harper](https://open.spotify.com/artist/01JvPU3kH9sxiT4EP0kmKg) | [Ain't No Cowboys In Georgia](https://open.spotify.com/album/1dEnfzdDz54PS5d001smcu) | 2:32 |
+| 3 | [Ain't No Cowboys In Georgia](https://open.spotify.com/track/3MENr2sOd9lrNzDW0ZA91D) | [Honey Harper](https://open.spotify.com/artist/01JvPU3kH9sxiT4EP0kmKg) | [Ain't No Cowboys In Georgia](https://open.spotify.com/album/2r06kS7KFzXHPLA6DdT9IS) | 2:32 |
 | 4 | [You're Not Alone \[Feat\. Brandi Carlile\]](https://open.spotify.com/track/4ltCYG04Xhzv5cViM6mp16) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [You're Not Alone \[Feat\. Brandi Carlile\]](https://open.spotify.com/album/6uBCu9hARcX7SlAvOD501U) | 5:09 |
 | 5 | [Mountain Song](https://open.spotify.com/track/2mDdkeVuUsyIepwzLCxuu6) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Mountain Song](https://open.spotify.com/album/2LSEZyWtzulIr0vS1mD4Xy) | 4:09 |
 | 6 | [A Different Kind of Light](https://open.spotify.com/track/3u6wgdJSBtdusakLXnlFlE) | [JJ Shiplett](https://open.spotify.com/artist/0XgzaFjKPFJT7VziwGD6o5) | [A Different Kind of Light](https://open.spotify.com/album/3qX9FYZfQZNRr01F8P6AES) | 4:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 | 99 | [Another Day Down](https://open.spotify.com/track/3Iuo5WhKzkaTTkOzVhg1Ei) | [Jesse Roper](https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt) | [Another Day Down](https://open.spotify.com/album/253qdf33LlE8VpEnmg0KO8) | 3:37 |
 | 100 | [Nobody](https://open.spotify.com/track/3S1jrpvGleaEv1KQ8mXCpK) | [David James Allen](https://open.spotify.com/artist/3a1RtSeqazHL2kYLbhydx3) | [Nobody](https://open.spotify.com/album/3No89K9dFtQ4UQGyq1IPL2) | 2:53 |
 
-Snapshot ID: `MTY2MjY5NjAwMCwwMDAwMDAwMDA3NzIxNzdmYTFkNTM4YzkwY2RlMmI2ZTUxYTA4OWYz`
+Snapshot ID: `MTY2MjY5NjAwMCwwMDAwMDAwMGMwODVjZjAzMDJkODA2ZGIxYmI1NWEwNDhhMDNiODAx`

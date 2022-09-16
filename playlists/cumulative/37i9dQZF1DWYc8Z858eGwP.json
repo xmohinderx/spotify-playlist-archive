@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The most exciting new artists on the rise from the African continent & diaspora. Cover: <a href=\"https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x?si=2Z_eWOihTqGB-pNPgDE-VA\">BNXN</a>",
+  "description": "The most exciting new artists on the rise from the African continent & diaspora. Cover: <a href=\"https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq?si=wayNsUeRQpG6I2LJ7ptwYg\">Ayra Starr </a>",
   "name": "Radar Africa",
   "published_playlist_ids": [
     "1XAJ71W9OWLJNt1VAjOZn2"
@@ -161,7 +161,7 @@
       ],
       "date_added": "2022-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 164571,
       "name": "ASE - A COLORS SHOW",
       "url": "https://open.spotify.com/track/5fM2O9Lz5T8yN9YiJJs2qp"
@@ -1881,6 +1881,24 @@
       "duration_ms": 191174,
       "name": "Ruger",
       "url": "https://open.spotify.com/track/39RFbhX6RVTnXn2ml9yVbK"
+    },
+    {
+      "album": {
+        "name": "Rush",
+        "url": "https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185093,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB"
     },
     {
       "album": {

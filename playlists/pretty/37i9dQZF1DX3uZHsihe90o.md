@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uZHsihe90o.md) - [plain]
 
 > A down to earth collection of new and classic folk tunes for kids.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,292 likes - 70 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,342 likes - 70 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uZHsihe90o.md) - [plain]
 | 31 | [The Crawdad Song](https://open.spotify.com/track/4iqH98UJzbmo9CnrjTxBSJ) | [Doc Watson](https://open.spotify.com/artist/01N1aZStXA4yGvkz4vRXtJ) | [Songs for Little Pickers](https://open.spotify.com/album/0Eyu2WvgKzBzggj2PRumrc) | 2:31 |
 | 32 | [Five Little Monkeys Jumping on the Bed](https://open.spotify.com/track/42asoM3aOwxRsivZEKFEeI) | [David Landau](https://open.spotify.com/artist/2xIaXC0ztnAJkUsZWFVSPV) | [Kids and Kitties](https://open.spotify.com/album/5dO917ENOex3W1RnneH0wv) | 1:41 |
 | 33 | [Hope Machine](https://open.spotify.com/track/34bqUQ5NteJZjgpu5VW408) | [The Okee Dokee Brothers](https://open.spotify.com/artist/2RmT9R0322WMFN5x3OHMQe) | [Songs for Singin'](https://open.spotify.com/album/6NqD66DThZCoAYP0V6INpB) | 2:48 |
-| 34 | [Jellyman Kelly](https://open.spotify.com/track/1njKyn7dVZiZ7vVU4IA6gA) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P), [The Sesame Street Kids](https://open.spotify.com/artist/6kGYHssc98t3PPOiwFlb4G) | [Sesame Street: Songs From The Street, Vol\. 2](https://open.spotify.com/album/1bIKI6ajT4EeP9249GhTI1) | 2:00 |
-| 35 | [Farmer's Market](https://open.spotify.com/track/2ajPDldJr8RicylhXAwbnh) | [Laura Doherty](https://open.spotify.com/artist/7bVSBw7ZOfKRyPBzTjEIoG) | [Kids In The City](https://open.spotify.com/album/0u6Q3uQTy7aqQ7DVKpGltt) | 2:37 |
+| 34 | [Farmer's Market](https://open.spotify.com/track/2ajPDldJr8RicylhXAwbnh) | [Laura Doherty](https://open.spotify.com/artist/7bVSBw7ZOfKRyPBzTjEIoG) | [Kids In The City](https://open.spotify.com/album/0u6Q3uQTy7aqQ7DVKpGltt) | 2:37 |
+| 35 | [Jellyman Kelly](https://open.spotify.com/track/1njKyn7dVZiZ7vVU4IA6gA) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P), [The Sesame Street Kids](https://open.spotify.com/artist/6kGYHssc98t3PPOiwFlb4G) | [Sesame Street: Songs From The Street, Vol\. 2](https://open.spotify.com/album/1bIKI6ajT4EeP9249GhTI1) | 2:00 |
 | 36 | [All the Pretty Little Horses](https://open.spotify.com/track/5HXDMlAhQDa991t1CSfcdO) | [Laura Veirs](https://open.spotify.com/artist/0jkK3K1ATFFHofEWjd2i00) | [Tumble Bee](https://open.spotify.com/album/3VgWRCn0IIHO9h3CADQw1W) | 2:16 |
 | 37 | [Family Time](https://open.spotify.com/track/1aqS5msEei59kvSOhCU9Is) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Family Time](https://open.spotify.com/album/2vFNvV2DvTfKVG49asgPlT) | 4:20 |
 | 38 | [Goodnight Little Arlo \(Goodnight Little Darlin'\)](https://open.spotify.com/track/2BxQTBn9PvfdnMJ1frMHA5) | [Woody Guthrie](https://open.spotify.com/artist/4rAgFKtlTr66ic18YZZyF1) | [Songs to Grow on for Mother and Child](https://open.spotify.com/album/6zjiagirCtoXcEvQxjUoCo) | 3:16 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uZHsihe90o.md) - [plain]
 | 55 | [The Farmer in the Dell](https://open.spotify.com/track/04obgfgMddJpPnv8xeEfgR) | [ABC Kids](https://open.spotify.com/artist/6l7J2uM3bM2BCh0tIPhWx8) | [50 Great Nursery Rhymes](https://open.spotify.com/album/2wA20u6TpgFEzHdeUOa9L7) | 2:25 |
 | 56 | [The Farmer Is The One](https://open.spotify.com/track/1lD0KqDiIgyVaVC7FXa9tt) | [Dan Zanes](https://open.spotify.com/artist/2iYByRd5wrZXBbmTyrISfC), [Friends](https://open.spotify.com/artist/6tEKn0lRsLGKdzRfJIHKFL) | [Little Nut Tree](https://open.spotify.com/album/0W2eDCYklT4jJShYaoL0AT) | 2:25 |
 | 57 | [Shoobeedoo \(We Go Together\)](https://open.spotify.com/track/0bbtmAAVUxxWBZPn3z92bM) | [Tiptoe Giants](https://open.spotify.com/artist/7MBs915vZuGiDTEl9GKApR) | [Little Steps Big Adventures](https://open.spotify.com/album/40hZGwdhnrfNcfE6HqWjte) | 3:24 |
-| 58 | [Love You More](https://open.spotify.com/track/4fOcebJWLdjGBbmb8O3hbj) | [Caspar Babypants](https://open.spotify.com/artist/4wwj0BGZ6T61LB1jBWdo0n) | [Easy Breezy!](https://open.spotify.com/album/6eresS8fJq05Eg8bpztUv2) | 2:09 |
-| 59 | [Little Bee](https://open.spotify.com/track/79CIhDipD3tXO84zOKPMU2) | [Little Ripples](https://open.spotify.com/artist/4GucBSEcHamouGFsjPnAbZ) | [Little Bee](https://open.spotify.com/album/0n0lwGb7qOcEdAkPQONixo) | 3:12 |
+| 58 | [Little Bee](https://open.spotify.com/track/79CIhDipD3tXO84zOKPMU2) | [Little Ripples](https://open.spotify.com/artist/4GucBSEcHamouGFsjPnAbZ) | [Little Bee](https://open.spotify.com/album/0n0lwGb7qOcEdAkPQONixo) | 3:12 |
+| 59 | [Love You More](https://open.spotify.com/track/4fOcebJWLdjGBbmb8O3hbj) | [Caspar Babypants](https://open.spotify.com/artist/4wwj0BGZ6T61LB1jBWdo0n) | [Easy Breezy!](https://open.spotify.com/album/6eresS8fJq05Eg8bpztUv2) | 2:09 |
 | 60 | [I Got a Boy and His Name Is John \(with June Carter Cash\)](https://open.spotify.com/track/2HCxr7MRt7iTevb58uwd9o) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [June Carter Cash](https://open.spotify.com/artist/0ZnY6mQmgr2yZarjry68td) | [The Johnny Cash Children's Album](https://open.spotify.com/album/7AsniiHVen13QlnqZm5DR2) | 2:51 |
 | 61 | [I Want My Milk \(I Want it Now\)](https://open.spotify.com/track/1nMfKWeftqlpOoskmNJxyJ) | [Woody Guthrie](https://open.spotify.com/artist/4rAgFKtlTr66ic18YZZyF1) | [Songs to Grow on for Mother and Child](https://open.spotify.com/album/6zjiagirCtoXcEvQxjUoCo) | 2:21 |
 | 62 | [He's Got the Whole World in His Hands](https://open.spotify.com/track/30DiNVMuWhBwU24K16dk39) | [Odetta](https://open.spotify.com/artist/2wkz8hACugzAvF0voupg3H) | [Sings Ballads & Blues](https://open.spotify.com/album/4bA8oUUo9xbCzmBOsU8YwK) | 1:54 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uZHsihe90o.md) - [plain]
 | 67 | [Goober Peas](https://open.spotify.com/track/046AO6ZBgRPwA52YufDUIx) | [Arthur Smith](https://open.spotify.com/artist/4a73lr7ZzVCTFqy6d7sHc7) | [Country for Kids Volume 1 : I Like Folk Songs](https://open.spotify.com/album/6DTys0pk985arZ3te1NsBM) | 1:53 |
 | 68 | [Chicken Dinner Song](https://open.spotify.com/track/0RR5ogfmCy25MTo95n5kLA) | [Angie Who](https://open.spotify.com/artist/6Uz3KziV0932zrV4awUYtE) | [Littlefolk](https://open.spotify.com/album/674KI3TgFhWEbUfOa36IqT) | 2:19 |
 | 69 | [Pop! Goes the Weasle](https://open.spotify.com/track/5lnZ9EZ8GhNi1X5Rt6K0E4) | [evokids](https://open.spotify.com/artist/3ZePtNKGeGsrJLCrvHScLO) | [45 Nursery Rhymes](https://open.spotify.com/album/37LRo39cJ69EjKNKG0peTO) | 0:49 |
-| 70 | [Follow the Drinkin' Gourd](https://open.spotify.com/track/5qRrrhYkzHAjF5XRlmGGzT) | [Fox and Branch](https://open.spotify.com/artist/5FI0PNabN2h4i206dKqFRI) | [Did You Hear That?](https://open.spotify.com/album/0dIRGuMAPwJP9ZAXeLtvOG) | 4:28 |
+| 70 | [Old Dan Tucker](https://open.spotify.com/track/1ZLcb3xbst0LEkwinZ7R3Y) | [The Hit Crew Kids](https://open.spotify.com/artist/25WMrBRksXDi16Zjr23VUN) | [150 Toddler Favorites](https://open.spotify.com/album/0OFrQEiMbjQvgBiQ9iYXa8) | 1:02 |
 
-Snapshot ID: `MTY1MDAzMjAyNiwwMDAwMDAwMGIyZTI1ODY3MjFlYjMxOGI2Nzg3NjkzNmRkMjQyZjQ3`
+Snapshot ID: `MTY1MDAzMjAyNiwwMDAwMDAwMGZiYWQ2YmU3NGRiMjRlY2NlZjNhZTcxODQyMTFiZjY0`

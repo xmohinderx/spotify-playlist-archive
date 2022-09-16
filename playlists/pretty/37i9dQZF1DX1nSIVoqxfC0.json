@@ -1,29 +1,13 @@
 {
   "description": "<a href=\"spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z\">Ti\u00ebsto</a>'s best songs, remixes and compilations.",
-  "num_followers": 343284,
+  "num_followers": 343406,
   "original_name": "This Is Ti\u00ebsto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY3NDQ2MCwwMDAwMDAwMDc3ZDc3ZWU4NjI3NWRmMTA0NDA4ZDEzZjY3Njg4MTU4",
+  "snapshot_id": "MTY2MzI0ODc2NiwwMDAwMDAwMDdiMGZmNjk4ZjZhZjQwNzcxOGYwYTJmMTM1YzA0YjBj",
   "tracks": [
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
-        "name": "Can U Dance (To My Beat)",
-        "url": "https://open.spotify.com/album/6o3mSmaxrLrFnGB7IL8vtA"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 148125,
-      "name": "Can U Dance (To My Beat)",
-      "url": "https://open.spotify.com/track/3yRcwIkTVIJTEGAoPlsHbW"
-    },
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 146249,
       "name": "Baila Conmigo",
       "url": "https://open.spotify.com/track/3KruoUtSkm84Az0bJunnxl"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
+        "name": "Can U Dance (To My Beat)",
+        "url": "https://open.spotify.com/album/6o3mSmaxrLrFnGB7IL8vtA"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 148125,
+      "name": "Can U Dance (To My Beat)",
+      "url": "https://open.spotify.com/track/3yRcwIkTVIJTEGAoPlsHbW"
     },
     {
       "added_at": "2022-09-08 22:01:00",

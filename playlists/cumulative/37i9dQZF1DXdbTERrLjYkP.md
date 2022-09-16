@@ -4,7 +4,7 @@
 
 > Discover the next wave of talent on the scene writing their own songs\. Cover: Madison Kozak
 
-259 songs - 13 hr 45 min - [published](https://open.spotify.com/playlist/5yqeqnGwA3WW1b3xVN4nfp)
+260 songs - 13 hr 48 min - [published](https://open.spotify.com/playlist/5yqeqnGwA3WW1b3xVN4nfp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,7 +236,8 @@
 | [this town is a little less mine](https://open.spotify.com/track/4NtxiZ0LM2IWZecXKhY4MK) | [Jades Goudreault](https://open.spotify.com/artist/1LFfKkCrn95l1ZuxCNa3yN) | [this town is a little less mine](https://open.spotify.com/album/7Gr5p3X05a1cnlX5UI8oIT) | 2:07 | 2022-09-02 |  |
 | [Til Death Do Us Part](https://open.spotify.com/track/4HkyqRGphINv1xhlP7xPEC) | [Leroy Sanchez](https://open.spotify.com/artist/1qwVM2JnEMXbKgvZESGsRn) | [Til Death Do Us Part](https://open.spotify.com/album/6AE7Jgr7arm1a48S8wOjvK) | 3:10 | 2022-01-21 | 2022-09-10 |
 | [To The Bone](https://open.spotify.com/track/31A6HUffhAwFHlk5akfxiD) | [Sammy Copley](https://open.spotify.com/artist/2Ss8myJnkg66YWeaVqtOmN) | [To The Bone](https://open.spotify.com/album/2pBLBGkgGi5xgoPz5Wqudg) | 4:01 | 2022-05-27 |  |
-| [touch tank](https://open.spotify.com/track/7DrzZN5jaDyE0a0tVuVWnj) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [touch tank](https://open.spotify.com/album/4cH0G6g1NcPguHQ8aOk1h6) | 2:59 | 2022-07-05 |  |
+| [touch tank](https://open.spotify.com/track/1S3ZeV4CEdqbzBYwu0pxE7) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [touch tank](https://open.spotify.com/album/4XsixtHgUzRfUd9zrhX5eh) | 2:59 | 2022-09-09 |  |
+| [touch tank](https://open.spotify.com/track/7DrzZN5jaDyE0a0tVuVWnj) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [touch tank](https://open.spotify.com/album/4cH0G6g1NcPguHQ8aOk1h6) | 2:59 | 2022-07-05 | 2022-09-16 |
 | [Tropical Sour Candy](https://open.spotify.com/track/0zwKGD9KXvdIfZXlCb0WzI) | [Cassidy Mann](https://open.spotify.com/artist/6RJL8I7zuC8mVHP5u9juRu) | [If It's Not Forever](https://open.spotify.com/album/5OhIJcMEADcrAKH5kkAvzT) | 3:09 | 2022-04-01 | 2022-05-20 |
 | [Two Places at Once](https://open.spotify.com/track/0l8p1TkaVgcwIUS0xwm6Y5) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Two Places at Once](https://open.spotify.com/album/53nT8IUeQ1Eig7t5W2jS2v) | 3:19 | 2022-09-02 |  |
 | [u](https://open.spotify.com/track/7rdszPyYKNM1W5Y2CMRwJI) | [Cassidi](https://open.spotify.com/artist/3hHnYAexHQ3wYGYno6LArK) | [u](https://open.spotify.com/album/1A51GvRGFj70bKPZMF5KRN) | 2:56 | 2022-04-22 |  |

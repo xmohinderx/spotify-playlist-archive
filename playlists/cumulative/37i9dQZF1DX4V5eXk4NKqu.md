@@ -4,7 +4,7 @@
 
 > Best Latin Indie tracks right now\. Cover: Kevin Kaarl
 
-168 songs - 9 hr 39 min - [published](https://open.spotify.com/playlist/18mw8A3EJYED9nllSiRieV)
+169 songs - 9 hr 42 min - [published](https://open.spotify.com/playlist/18mw8A3EJYED9nllSiRieV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,7 +145,8 @@
 | [Sweet Honey](https://open.spotify.com/track/6o7rsXLvLgx2gmKLGDNe0g) | [Los Retros](https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG) | [Everlasting](https://open.spotify.com/album/1p0B0yZhc04KInnikui2gQ) | 3:26 | 2022-06-03 | 2022-09-07 |
 | [tdbn](https://open.spotify.com/track/5PKQelL3yzmUpKTDj0j72t) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn](https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T) | 3:14 | 2022-03-10 |  |
 | [Te Espero Aquí](https://open.spotify.com/track/1xvQsgUbvz53trUe3xaIdm) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Gardenia](https://open.spotify.com/album/2YOhfUkhFT2uNis4xMDPFe) | 4:11 | 2022-03-10 |  |
-| [Te Guardo](https://open.spotify.com/track/6PoJEvRLkC2sD3cp7yGNHq) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Te Guardo](https://open.spotify.com/album/1as7SecZgCXjJQL92pZBmA) | 3:22 | 2022-03-10 |  |
+| [Te Guardo](https://open.spotify.com/track/6PoJEvRLkC2sD3cp7yGNHq) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Te Guardo](https://open.spotify.com/album/1as7SecZgCXjJQL92pZBmA) | 3:22 | 2022-03-10 | 2022-09-16 |
+| [Te Guardo](https://open.spotify.com/track/7c0Au5lLOgO8HmeCRNHoOb) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi) | 3:22 | 2022-09-06 |  |
 | [Te Quiero](https://open.spotify.com/track/2iAXpWs8ZoP3VOS94pb5lH) | [RARRI BLANCO](https://open.spotify.com/artist/1n4e1x8i4mKDSYWBiOtm6U) | [Te Quiero](https://open.spotify.com/album/0KuyusuKSGW5LkTfiTznNG) | 3:16 | 2022-03-10 |  |
 | [Te Quiero Olvidar](https://open.spotify.com/track/7HsVyALWw7ILw9wqNJGcUw) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [Te Quiero Olvidar](https://open.spotify.com/album/7vC7hsFMfCARD5FQWiAzIY) | 3:22 | 2022-03-10 | 2022-09-07 |
 | [That's Playa](https://open.spotify.com/track/7dGHfcGKv5BC7ooYkqZPxe) | [Los Wálters](https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY) | [Verano Panorámico](https://open.spotify.com/album/1dxlZvX4EbrdzNUdnwwR2N) | 2:07 | 2022-03-10 | 2022-09-07 |

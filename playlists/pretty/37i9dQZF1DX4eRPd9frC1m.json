@@ -1,12 +1,12 @@
 {
   "description": "Aggressive trap and bass for the <a href=\"spotify:genre:edm_dance\">gym</a>.",
-  "num_followers": 2442669,
+  "num_followers": 2443207,
   "original_name": "Hype",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5NjAwMCwwMDAwMDAwMDU4NmJhNGRkNmExMmRiMDkzNWEzNjM2NTRhYTBlOGEz",
+  "snapshot_id": "MTY2MjY5NjAwMCwwMDAwMDAwMDhiYjZlZGYzYjkzZDMzNTg1M2QxZDRmMGU2YmVjYmY5",
   "tracks": [
     {
       "added_at": "2022-09-09 04:00:00",
@@ -463,6 +463,30 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
+        "name": "Sable Valley Summer Vol. 3",
+        "url": "https://open.spotify.com/album/2TklWyQdmNHg7d2Xmam8G8"
+      },
+      "artists": [
+        {
+          "name": "RL Grime",
+          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
+        },
+        {
+          "name": "Hex Cougar",
+          "url": "https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR"
+        },
+        {
+          "name": "fknsyd",
+          "url": "https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd"
+        }
+      ],
+      "duration_ms": 247500,
+      "name": "Silo (feat. fknsyd)",
+      "url": "https://open.spotify.com/track/49Z1VQivkHoY5KGdUwMv5i"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
         "name": "RESET",
         "url": "https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK"
       },
@@ -503,30 +527,6 @@
       "duration_ms": 364800,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/5qCpcgqwL1Hum85sAQz3W7"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Sable Valley Summer Vol. 3",
-        "url": "https://open.spotify.com/album/2TklWyQdmNHg7d2Xmam8G8"
-      },
-      "artists": [
-        {
-          "name": "RL Grime",
-          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
-        },
-        {
-          "name": "Hex Cougar",
-          "url": "https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR"
-        },
-        {
-          "name": "fknsyd",
-          "url": "https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd"
-        }
-      ],
-      "duration_ms": 247500,
-      "name": "Silo (feat. fknsyd)",
-      "url": "https://open.spotify.com/track/49Z1VQivkHoY5KGdUwMv5i"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -631,6 +631,34 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
+        "name": "NOVA (The Remixes, Vol. 1)",
+        "url": "https://open.spotify.com/album/6jqYfL2en7nuHT7fYfBJQE"
+      },
+      "artists": [
+        {
+          "name": "RL Grime",
+          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
+        },
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        },
+        {
+          "name": "Tory Lanez",
+          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+        },
+        {
+          "name": "AWAY",
+          "url": "https://open.spotify.com/artist/2ZmerElhvxg8uVKCmlZ4ij"
+        }
+      ],
+      "duration_ms": 212571,
+      "name": "Undo - AWAY Remix",
+      "url": "https://open.spotify.com/track/49v7kRlVxnwrrJzCRxeRXl"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
         "name": "Save Me",
         "url": "https://open.spotify.com/album/6ZTKe8BHDuJ9VlchZfywBD"
       },
@@ -687,34 +715,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "NOVA (The Remixes, Vol. 1)",
-        "url": "https://open.spotify.com/album/6jqYfL2en7nuHT7fYfBJQE"
-      },
-      "artists": [
-        {
-          "name": "RL Grime",
-          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
-        },
-        {
-          "name": "Jeremih",
-          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
-        },
-        {
-          "name": "Tory Lanez",
-          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
-        },
-        {
-          "name": "AWAY",
-          "url": "https://open.spotify.com/artist/2ZmerElhvxg8uVKCmlZ4ij"
-        }
-      ],
-      "duration_ms": 212571,
-      "name": "Undo - AWAY Remix",
-      "url": "https://open.spotify.com/track/49v7kRlVxnwrrJzCRxeRXl"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "2 MUCH (feat. 24hrs)",
         "url": "https://open.spotify.com/album/5NsU3AvjQswUoFEkuqSCSw"
       },
@@ -767,6 +767,26 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
+        "name": "PEACE LOVE & WUBZ",
+        "url": "https://open.spotify.com/album/60obah4obhSZaLOfxOAwj5"
+      },
+      "artists": [
+        {
+          "name": "LSDREAM",
+          "url": "https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND"
+        },
+        {
+          "name": "Cojaxx",
+          "url": "https://open.spotify.com/artist/6R7363ayBrwb16Hh3G5ONZ"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "PEACE LOVE & WUBZ",
+      "url": "https://open.spotify.com/track/776eASGwFLhvAUYmWZvwrL"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
         "name": "Cheatcode",
         "url": "https://open.spotify.com/album/52PFrVESS61Ghel6SJtIFI"
       },
@@ -791,6 +811,26 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
+        "name": "Wake Up",
+        "url": "https://open.spotify.com/album/6XksTsraziHCTkhT141Qsw"
+      },
+      "artists": [
+        {
+          "name": "Kayzo",
+          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
+        },
+        {
+          "name": "RIOT",
+          "url": "https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY"
+        }
+      ],
+      "duration_ms": 316420,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/1DegLHuaZdLmOvhUgsNV9I"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
         "name": "Bloodbath",
         "url": "https://open.spotify.com/album/1PTOieMAfJSzcxdn2hkjtt"
       },
@@ -811,46 +851,6 @@
       "duration_ms": 200662,
       "name": "Bloodbath",
       "url": "https://open.spotify.com/track/7z35ELbZv0zResMSqwsoKa"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "PEACE LOVE & WUBZ",
-        "url": "https://open.spotify.com/album/60obah4obhSZaLOfxOAwj5"
-      },
-      "artists": [
-        {
-          "name": "LSDREAM",
-          "url": "https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND"
-        },
-        {
-          "name": "Cojaxx",
-          "url": "https://open.spotify.com/artist/6R7363ayBrwb16Hh3G5ONZ"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "PEACE LOVE & WUBZ",
-      "url": "https://open.spotify.com/track/776eASGwFLhvAUYmWZvwrL"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Wake Up",
-        "url": "https://open.spotify.com/album/6XksTsraziHCTkhT141Qsw"
-      },
-      "artists": [
-        {
-          "name": "Kayzo",
-          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
-        },
-        {
-          "name": "RIOT",
-          "url": "https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY"
-        }
-      ],
-      "duration_ms": 316420,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/1DegLHuaZdLmOvhUgsNV9I"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "V!BEZ, Vol. 4",
-        "url": "https://open.spotify.com/album/1FJ7kXrCmyFtR2B1NBpYDu"
-      },
-      "artists": [
-        {
-          "name": "TroyBoi",
-          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Bellz",
-      "url": "https://open.spotify.com/track/753DZsGGXlasRCp48FmOhH"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "TIKTOK",
         "url": "https://open.spotify.com/album/4cmm7HDh19mkyFit9wb2c3"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 150193,
       "name": "TIKTOK",
       "url": "https://open.spotify.com/track/3nJxqghn6qVTWNzYa5Syc7"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "V!BEZ, Vol. 4",
+        "url": "https://open.spotify.com/album/1FJ7kXrCmyFtR2B1NBpYDu"
+      },
+      "artists": [
+        {
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Bellz",
+      "url": "https://open.spotify.com/track/753DZsGGXlasRCp48FmOhH"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1031,46 +1031,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Mawlee (feat. Young Buck & DJ Afterthought)",
-        "url": "https://open.spotify.com/album/5qMppyyuoB5HQIYJyA82OY"
-      },
-      "artists": [
-        {
-          "name": "Riot Ten",
-          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
-        },
-        {
-          "name": "Young Buck",
-          "url": "https://open.spotify.com/artist/4pr7J7wzgObkE3DD3Izi7q"
-        },
-        {
-          "name": "DJ Afterthought",
-          "url": "https://open.spotify.com/artist/46yoMIbiLf1tIH3CRZiSGX"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "Mawlee (feat. Young Buck & DJ Afterthought)",
-      "url": "https://open.spotify.com/track/0CLaGp0DMEjocSrAtvhcJl"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Loving You Kills Me",
-        "url": "https://open.spotify.com/album/53r3BRA2TeyJyEtYDBrI60"
-      },
-      "artists": [
-        {
-          "name": "GG Magree",
-          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
-        }
-      ],
-      "duration_ms": 174657,
-      "name": "Loving You Kills Me",
-      "url": "https://open.spotify.com/track/2Zjg31wnbhRzGsnOrnEY0r"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "BODY SH!T",
         "url": "https://open.spotify.com/album/32LG1HYCXe5uN2FAQZD4sr"
       },
@@ -1087,6 +1047,22 @@
       "duration_ms": 184049,
       "name": "BODY SH!T",
       "url": "https://open.spotify.com/track/2yq5k7wZqY11UXOulrfO8F"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Loving You Kills Me",
+        "url": "https://open.spotify.com/album/53r3BRA2TeyJyEtYDBrI60"
+      },
+      "artists": [
+        {
+          "name": "GG Magree",
+          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
+        }
+      ],
+      "duration_ms": 174657,
+      "name": "Loving You Kills Me",
+      "url": "https://open.spotify.com/track/2Zjg31wnbhRzGsnOrnEY0r"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1115,22 +1091,26 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "All I Need (VIP)",
-        "url": "https://open.spotify.com/album/2tfC2UydNyC7Y0jz6FoEKv"
+        "name": "Mawlee (feat. Young Buck & DJ Afterthought)",
+        "url": "https://open.spotify.com/album/5qMppyyuoB5HQIYJyA82OY"
       },
       "artists": [
         {
-          "name": "Slushii",
-          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
+          "name": "Riot Ten",
+          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
         },
         {
-          "name": "Aviella",
-          "url": "https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe"
+          "name": "Young Buck",
+          "url": "https://open.spotify.com/artist/4pr7J7wzgObkE3DD3Izi7q"
+        },
+        {
+          "name": "DJ Afterthought",
+          "url": "https://open.spotify.com/artist/46yoMIbiLf1tIH3CRZiSGX"
         }
       ],
-      "duration_ms": 195310,
-      "name": "All I Need - VIP",
-      "url": "https://open.spotify.com/track/7cpnqcFMN6Z7yiSOZyzGMU"
+      "duration_ms": 178285,
+      "name": "Mawlee (feat. Young Buck & DJ Afterthought)",
+      "url": "https://open.spotify.com/track/0CLaGp0DMEjocSrAtvhcJl"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1151,6 +1131,26 @@
       "duration_ms": 186400,
       "name": "NEW WIP",
       "url": "https://open.spotify.com/track/6rv93pYJSTtReQIuwcCYvm"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "All I Need (VIP)",
+        "url": "https://open.spotify.com/album/2tfC2UydNyC7Y0jz6FoEKv"
+      },
+      "artists": [
+        {
+          "name": "Slushii",
+          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
+        },
+        {
+          "name": "Aviella",
+          "url": "https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe"
+        }
+      ],
+      "duration_ms": 195310,
+      "name": "All I Need - VIP",
+      "url": "https://open.spotify.com/track/7cpnqcFMN6Z7yiSOZyzGMU"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
+        "name": "Desperado",
+        "url": "https://open.spotify.com/album/378W0F6qYxBYkINDywxZz6"
+      },
+      "artists": [
+        {
+          "name": "Zomboy",
+          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
+        }
+      ],
+      "duration_ms": 233046,
+      "name": "Desperado",
+      "url": "https://open.spotify.com/track/2SW0q2M7fYw27ZZmxGGToo"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
         "name": "DIABOLICAL",
         "url": "https://open.spotify.com/album/29atnC5DakNorflRaMOOGQ"
       },
@@ -1215,18 +1231,22 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Desperado",
-        "url": "https://open.spotify.com/album/378W0F6qYxBYkINDywxZz6"
+        "name": "Rainbow Brain",
+        "url": "https://open.spotify.com/album/0jbN6pCIbmO9hPXMynQ2P8"
       },
       "artists": [
         {
-          "name": "Zomboy",
-          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+        },
+        {
+          "name": "Jantsen",
+          "url": "https://open.spotify.com/artist/6rhTnHtyVcRrtuzS1wnLZg"
         }
       ],
-      "duration_ms": 233046,
-      "name": "Desperado",
-      "url": "https://open.spotify.com/track/2SW0q2M7fYw27ZZmxGGToo"
+      "duration_ms": 226206,
+      "name": "Burn Up The Floor",
+      "url": "https://open.spotify.com/track/5nz3dwffS8W2WDWRa9SgfR"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1251,26 +1271,6 @@
       "duration_ms": 171810,
       "name": "TILL I DIE",
       "url": "https://open.spotify.com/track/3EBqovY8cjouAYyrWRUcFN"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Rainbow Brain",
-        "url": "https://open.spotify.com/album/0jbN6pCIbmO9hPXMynQ2P8"
-      },
-      "artists": [
-        {
-          "name": "GRiZ",
-          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
-        },
-        {
-          "name": "Jantsen",
-          "url": "https://open.spotify.com/artist/6rhTnHtyVcRrtuzS1wnLZg"
-        }
-      ],
-      "duration_ms": 226206,
-      "name": "Burn Up The Floor",
-      "url": "https://open.spotify.com/track/5nz3dwffS8W2WDWRa9SgfR"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1339,6 +1339,26 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
+        "name": "Angels Landing",
+        "url": "https://open.spotify.com/album/6HmjU8l5u5jmG8Mtrp6jRn"
+      },
+      "artists": [
+        {
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+        },
+        {
+          "name": "FrostTop",
+          "url": "https://open.spotify.com/artist/6T9vLiLn2HpWHNaaEajGB4"
+        }
+      ],
+      "duration_ms": 233600,
+      "name": "Angels Landing",
+      "url": "https://open.spotify.com/track/7z8zdcW66DyZ931P6BjnX7"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
         "name": "Work That Body",
         "url": "https://open.spotify.com/album/57kFGkW79KjN2fWTyfiq8h"
       },
@@ -1375,26 +1395,6 @@
       "duration_ms": 282834,
       "name": "Rumble",
       "url": "https://open.spotify.com/track/3XfvTelX1xYLgwgpzfd8qi"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Angels Landing",
-        "url": "https://open.spotify.com/album/6HmjU8l5u5jmG8Mtrp6jRn"
-      },
-      "artists": [
-        {
-          "name": "ISOxo",
-          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
-        },
-        {
-          "name": "FrostTop",
-          "url": "https://open.spotify.com/artist/6T9vLiLn2HpWHNaaEajGB4"
-        }
-      ],
-      "duration_ms": 233600,
-      "name": "Angels Landing",
-      "url": "https://open.spotify.com/track/7z8zdcW66DyZ931P6BjnX7"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1439,22 +1439,18 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "RELOAD",
-        "url": "https://open.spotify.com/album/2SktoDv6LhxQABh838hDQC"
+        "name": "NO LOVE",
+        "url": "https://open.spotify.com/album/5T2DMQH1Ru2R9FMgpklg4h"
       },
       "artists": [
         {
-          "name": "PEEKABOO",
-          "url": "https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF"
-        },
-        {
-          "name": "Caspa",
-          "url": "https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6"
+          "name": "BLVK JVCK",
+          "url": "https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg"
         }
       ],
-      "duration_ms": 176124,
-      "name": "RELOAD",
-      "url": "https://open.spotify.com/track/7Da0d3oeqFpaPvWOH8eQuZ"
+      "duration_ms": 202285,
+      "name": "NO LOVE",
+      "url": "https://open.spotify.com/track/3x9RokAqos6LqGni4E0TyB"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1483,18 +1479,22 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "NO LOVE",
-        "url": "https://open.spotify.com/album/5T2DMQH1Ru2R9FMgpklg4h"
+        "name": "RELOAD",
+        "url": "https://open.spotify.com/album/2SktoDv6LhxQABh838hDQC"
       },
       "artists": [
         {
-          "name": "BLVK JVCK",
-          "url": "https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg"
+          "name": "PEEKABOO",
+          "url": "https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF"
+        },
+        {
+          "name": "Caspa",
+          "url": "https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6"
         }
       ],
-      "duration_ms": 202285,
-      "name": "NO LOVE",
-      "url": "https://open.spotify.com/track/3x9RokAqos6LqGni4E0TyB"
+      "duration_ms": 176124,
+      "name": "RELOAD",
+      "url": "https://open.spotify.com/track/7Da0d3oeqFpaPvWOH8eQuZ"
     },
     {
       "added_at": "2022-09-09 04:00:00",

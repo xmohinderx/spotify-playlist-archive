@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vfpJ74tSuo.md) - [plain]
 
 > I woke up this morning… to the chilled sound of the Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,631 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,733 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vfpJ74tSuo.md) - [plain]
 | 40 | [Ooh Baby](https://open.spotify.com/track/3Caj3EuBDu2cpjpFNNTXLL) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq) | [His Best](https://open.spotify.com/album/1ZpGSzyrRcrp6tn8IczHDU) | 3:49 |
 | 41 | [Won't Get Any Better](https://open.spotify.com/track/28r1vNoAGRfy3i8972hOS5) | [Michael van Merwyk](https://open.spotify.com/artist/0CbBEc4uGsHwisuBdVO7HF) | [Blue River Rising](https://open.spotify.com/album/2oKbRUC7S1CmDvIXIPDG4W) | 3:10 |
 | 42 | [Fishin' Blues](https://open.spotify.com/track/4jh6QSj0uHqxTEU1o0DmB6) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Giant Steps/De Old Folks At Home](https://open.spotify.com/album/2K4jHu8XV4HrgWlmOGwJty) | 3:04 |
-| 43 | [I Got the Cross the River Jordan](https://open.spotify.com/track/4vqDFur1cyE8lS1oD3XiCB) | [Blind Willie McTell](https://open.spotify.com/artist/4vRyd1UZ8Eq98EppbwOBg6) | [Atlanta Twelve String](https://open.spotify.com/album/3T9YA3PGLGDlybxgdnNzZ7) | 4:00 |
-| 44 | [Wee Baby Blues](https://open.spotify.com/track/0LA1P4jVcRRY5RgYPONRy2) | [Eddie "Cleanhead" Vinson](https://open.spotify.com/artist/0R3bGv703d8JFKdZxsHr58) | [Kidney Stew \(The Definitive Black & Blue Sessions\)](https://open.spotify.com/album/5rhEotbutxakrvWpftQq5G) | 3:20 |
+| 43 | [Wee Baby Blues](https://open.spotify.com/track/0LA1P4jVcRRY5RgYPONRy2) | [Eddie "Cleanhead" Vinson](https://open.spotify.com/artist/0R3bGv703d8JFKdZxsHr58) | [Kidney Stew \(The Definitive Black & Blue Sessions\)](https://open.spotify.com/album/5rhEotbutxakrvWpftQq5G) | 3:20 |
+| 44 | [I Got the Cross the River Jordan](https://open.spotify.com/track/4vqDFur1cyE8lS1oD3XiCB) | [Blind Willie McTell](https://open.spotify.com/artist/4vRyd1UZ8Eq98EppbwOBg6) | [Atlanta Twelve String](https://open.spotify.com/album/3T9YA3PGLGDlybxgdnNzZ7) | 4:00 |
 | 45 | [When The Levee Breaks \(Part One\)](https://open.spotify.com/track/1hzhyWY6IkZEnVRPIDIhwm) | [Magic Slim](https://open.spotify.com/artist/0uDA9BcTnKIPpNcZX6ZY3x), [James Cotton](https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k), [Billy Branch](https://open.spotify.com/artist/5cUazMvxcAPELFif0BGn2t) | [All Blues's Up: Songs of Led Zeppelin](https://open.spotify.com/album/1nvuBxN1Uc6HdVyS2J01Yp) | 2:19 |
 | 46 | [Hard Times](https://open.spotify.com/track/11BX1F2ao0DQTgW86W6H5B) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Kingfish](https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH) | 3:08 |
 | 47 | [Every Morning](https://open.spotify.com/track/6WmwvYaVSod4whIXGWEvBR) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Keb' Mo'](https://open.spotify.com/album/09rC6HgLbuYl74OvGdJw6t) | 2:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vfpJ74tSuo.md) - [plain]
 | 49 | [For The Last Time \- Alternate Take 1](https://open.spotify.com/track/2gdpaGn0NrBoto2xWFH30O) | [Rory Gallagher](https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV) | [Rory Gallagher \(50th Anniversary Edition\)](https://open.spotify.com/album/6C418YFIg1MVKldv9rpS16) | 5:05 |
 | 50 | [Born Of A Woman](https://open.spotify.com/track/6NMY2CP95XrD8ZkecH8IXA) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1), [Shaneeka Simon](https://open.spotify.com/artist/5Ppc0aChlO1gqw6s3yZNwN) | [Dear America](https://open.spotify.com/album/3lrysOZwArhHFtnI1JEBtZ) | 3:47 |
 
-Snapshot ID: `MTY2MzAwMDc5MCwwMDAwMDAwMGE5ZTgyNTU5YzI2NmVlMDRkNzhjYTFiMjEzNmU3Mjc3`
+Snapshot ID: `MTY2MzAwMDc5MCwwMDAwMDAwMDhkNDMxODkyZTFiYTI4OTIwMTg2MWNjOGRlMDUwZWIz`

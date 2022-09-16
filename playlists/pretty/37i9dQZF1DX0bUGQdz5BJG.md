@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Conner Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,066 likes - 172 songs - 9 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,323 likes - 172 songs - 9 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

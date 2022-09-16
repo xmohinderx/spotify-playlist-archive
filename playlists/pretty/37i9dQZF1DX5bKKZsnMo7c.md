@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bKKZsnMo7c.md) - [plain]
 
 > All eyes on you\. Cover: Bo Burnham
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,037 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,587 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bKKZsnMo7c.md) - [plain]
 | 62 | [Black Sheep \- Brie Larson Vocal Version](https://open.spotify.com/track/60TThBDrPpek5k520l0W0L) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl), [Brie Larson](https://open.spotify.com/artist/7g77hiv179GYIwhfCgETGy) | [Black Sheep \(Brie Larson Vocal Version\)](https://open.spotify.com/album/3blvQlrV0IeDBOWqDz2yYd) | 4:54 |
 | 63 | [Turn the Lights Off](https://open.spotify.com/track/3xpdefOloYCBXd3UR6MVyM) | [Tally Hall](https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL) | [Good & Evil](https://open.spotify.com/album/2Vq0Y8wgiZRYtZ1mQ7zOMG) | 2:56 |
 | 64 | [Still Don't Know My Name](https://open.spotify.com/track/6N22FZs2ZhPBYi3b9XPajV) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Euphoria \(Original Score from the HBO Series\)](https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea) | 2:33 |
-| 65 | [Laputa](https://open.spotify.com/track/0TO7y9uCA3eEYp7g9NsuGL) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [D>E>A>T>H>M>E>T>A>L](https://open.spotify.com/album/7FWEOSHm38Sq7dybOA4w7D) | 2:43 |
+| 65 | [Laputa](https://open.spotify.com/track/2zYBRyHAy6dv1wb53JXFD7) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [D>E>A>T>H>M>E>T>A>L](https://open.spotify.com/album/2MASm01cgG0a0CgioQpe6Q) | 2:43 |
 | 66 | [Numb Little Bug \- Piano Version](https://open.spotify.com/track/7zQs5RxMWQBVDTW9zl9CHu) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Numb Little Bug \(Piano Version\)](https://open.spotify.com/album/4JJlvfntPA9YC3jWVgTTQv) | 2:45 |
 | 67 | [She Wants Me \(To Be Loved\)](https://open.spotify.com/track/0owmJNkGcGNq4hb6qt3ufd) | [The Happy Fits](https://open.spotify.com/artist/73rPcaYEhBd0UuVZBqqyQJ) | [What Could Be Better](https://open.spotify.com/album/7FhH5nGululV6EAqwf6X0c) | 3:19 |
 | 68 | [putting a spin on somebody that i used to know](https://open.spotify.com/track/7oG6YAqkuBHBZ0qgtDhOAm) | [Egg](https://open.spotify.com/artist/6zQlhM6cyJRrzuqAbB8PlB) | [putting a spin on somebody that i used to know](https://open.spotify.com/album/0CCl0omkYtDTAYZ5dhy4W0) | 4:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bKKZsnMo7c.md) - [plain]
 | 99 | [Bombed Out Building](https://open.spotify.com/track/5wxyCrZAlw8YLx2SNKoxzy) | [Boychik](https://open.spotify.com/artist/3LmJZ3pIaRfNEghu7g1eLn) | [Bombed Out Building](https://open.spotify.com/album/7ogcVqi5yAHLSvDnnV16Xg) | 3:18 |
 | 100 | [Cicada Days](https://open.spotify.com/track/2s3SwhbFhymLPDm4GGhDKl) | [Will Wood](https://open.spotify.com/artist/1VQ8riQ31zVHtlxiCC9EZE) | [Cicada Days](https://open.spotify.com/album/7rN0PYbcQ7quewRhtqvLGK) | 4:10 |
 
-Snapshot ID: `MTY2MzE2NjkwNCwwMDAwMDAwMDczZTNhOTgyNmE2YTEwNjIxNTJlMDk4ZTcxZjdjMjYx`
+Snapshot ID: `MTY2MzE2NjkwNCwwMDAwMDAwMDE4NTc5NWZlYmI5NWE3Nzk4YTkyYjUyYjNmOTBjYzg2`

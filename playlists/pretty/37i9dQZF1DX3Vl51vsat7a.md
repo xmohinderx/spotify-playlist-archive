@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: ENNIO
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,543 likes - 60 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,569 likes - 60 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Unendlichkeit](https://open.spotify.com/track/4TaWCdfI6VyR1O8GVuyCf7) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Unendlichkeit](https://open.spotify.com/album/6I0qSXltDmckxauHYmJPNv) | 3:00 |
-| 2 | [Unsere Bank](https://open.spotify.com/track/3qUwFUpcYidCB9VbZaV0XX) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx), [Danger Dan](https://open.spotify.com/artist/2jXb8AWz82Sn3RRGOaia7a) | [Unsere Bank](https://open.spotify.com/album/3Wfmjr6HuaCjt0jzSyaufv) | 2:50 |
-| 3 | [Crushed](https://open.spotify.com/track/713AJFIsjfdlwC6IvY9FeJ) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD) | [Crushed by the Weight of the World](https://open.spotify.com/album/1Axcj3Di7G4Qw0iYTJAhC0) | 3:48 |
-| 4 | [Süße Träume](https://open.spotify.com/track/37FEXZlxz8OYFiB8sdxkdk) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Süße Träume](https://open.spotify.com/album/4S620Fwlk0uQXT3ByjyGSf) | 2:40 |
-| 5 | [FALLING](https://open.spotify.com/track/2Me5ovqaW3PKDYPBlXwq8a) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [FALLING](https://open.spotify.com/album/0tHRET0OgupLXVJvqM1oG9) | 5:18 |
-| 6 | [Body Mind Hell](https://open.spotify.com/track/30JmGKxf1oItI6lOLNNSeq) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Body Mind Hell](https://open.spotify.com/album/18IjZBVEOQrzENrx7012bd) | 2:44 |
-| 7 | [coq au vin](https://open.spotify.com/track/4NERmR0700rwstJpWkFO5b) | [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U) | [coq au vin](https://open.spotify.com/album/1GreCrihbUzlxlT6sI6RRM) | 3:44 |
-| 8 | [Survival Mode \(Intro\)](https://open.spotify.com/track/6xfjR5HmYHnabfSKvjoh0M) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [Survival Mode \(Intro\)](https://open.spotify.com/album/7D9np0pd16reMo5ajg1WE0) | 3:33 |
-| 9 | [schwarzer Renault](https://open.spotify.com/track/20EdweAxnMgjJLnXJiJJYm) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [schwarzer Renault](https://open.spotify.com/album/2H7oTzq7ciKgEGawrYVFEu) | 2:53 |
+| 2 | [Diese Nacht](https://open.spotify.com/track/2wrB2jRPTd1wujQlWWnJ0r) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Zorn & Liebe](https://open.spotify.com/album/5seerIZ96Tknor62ygW3on) | 2:34 |
+| 3 | [ich gehör wieder mir](https://open.spotify.com/track/4PpGmzid7fvGFayn8icZRF) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [ich gehör wieder mir](https://open.spotify.com/album/6Et0Q8bXMXOSChFgXgvvv8) | 2:57 |
+| 4 | [Crushed](https://open.spotify.com/track/713AJFIsjfdlwC6IvY9FeJ) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD) | [Crushed by the Weight of the World](https://open.spotify.com/album/1Axcj3Di7G4Qw0iYTJAhC0) | 3:48 |
+| 5 | [Süße Träume](https://open.spotify.com/track/37FEXZlxz8OYFiB8sdxkdk) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Süße Träume](https://open.spotify.com/album/4S620Fwlk0uQXT3ByjyGSf) | 2:40 |
+| 6 | [FALLING](https://open.spotify.com/track/2Me5ovqaW3PKDYPBlXwq8a) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [FALLING](https://open.spotify.com/album/0tHRET0OgupLXVJvqM1oG9) | 5:18 |
+| 7 | [Body Mind Hell](https://open.spotify.com/track/30JmGKxf1oItI6lOLNNSeq) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Body Mind Hell](https://open.spotify.com/album/18IjZBVEOQrzENrx7012bd) | 2:44 |
+| 8 | [coq au vin](https://open.spotify.com/track/4NERmR0700rwstJpWkFO5b) | [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U) | [coq au vin](https://open.spotify.com/album/1GreCrihbUzlxlT6sI6RRM) | 3:44 |
+| 9 | [Survival Mode \(Intro\)](https://open.spotify.com/track/6xfjR5HmYHnabfSKvjoh0M) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [Survival Mode \(Intro\)](https://open.spotify.com/album/7D9np0pd16reMo5ajg1WE0) | 3:33 |
 | 10 | [VOICEMAIL](https://open.spotify.com/track/25gIGyYd4Q9kHJ7Fvsa9RP) | [FAANGS](https://open.spotify.com/artist/2UlXIWBLOjskz5esa7ec2j) | [VOICEMAIL](https://open.spotify.com/album/0wg7TKWgd0ZdhSif29VuKu) | 4:10 |
 | 11 | [Morning Blue](https://open.spotify.com/track/71qr4SoRZ61SKxhH4XhAqP) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Morning Blue](https://open.spotify.com/album/2ewGI2tIH2rBS0j5avcEfG) | 3:37 |
 | 12 | [Herz Klopft](https://open.spotify.com/track/3S52C6WTpp5kqKvEInZXOu) | [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS), [Lugatti](https://open.spotify.com/artist/4P5ooDKThRs2cx6MZ7cpFg), [Cato](https://open.spotify.com/artist/5Qa6L42X3G6sXrWvYvxGOc) | [Herz Klopft](https://open.spotify.com/album/0PpvnPnQgnObHVKSUsnGrO) | 2:52 |
@@ -38,13 +38,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 | 28 | [Fucked Up.](https://open.spotify.com/track/1nIUFAIo5U4Yc1KsnnnPz0) | [Aylo](https://open.spotify.com/artist/5ggr9FUq9cjogKBxQmI2ZO) | [Fucked Up.](https://open.spotify.com/album/3369iQfBJZcTS1ZrMa3Jbx) | 2:27 |
 | 29 | [Walls Around Me](https://open.spotify.com/track/3kymiOCRjfkuueb0HD2nNX) | [Darksidevinyl](https://open.spotify.com/artist/7JgdmzLGGrt808y5C1STh0), [Kellerkind](https://open.spotify.com/artist/4GYQytEFxnzqH96O6QywsA) | [Walls Around Me EP](https://open.spotify.com/album/0MkBm4v1xnbLiD0sh6lAJn) | 6:41 |
 | 30 | [Build Me A Bridge](https://open.spotify.com/track/07aDoPEceysLO98w5Jy5IK) | [ELI](https://open.spotify.com/artist/63gbXCha1jpkrJJ9K5gGpR) | [Our Beautiful Mess](https://open.spotify.com/album/0ZkXgfTXWi2UsQGmKqCHQ3) | 2:42 |
-| 31 | [I Would Be Rich](https://open.spotify.com/track/0voEoD86osCqSZm6YnX41Q) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [I Would Be Rich](https://open.spotify.com/album/1hgaD8ZBdht7nSTHZ1RKdt) | 3:51 |
-| 32 | [A$AP & Rihanna](https://open.spotify.com/track/1wT0IaBnco8m5XIViG7HfE) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [A$AP & Rihanna](https://open.spotify.com/album/7mwRWlmAOQEWnEOgV3NEt2) | 1:52 |
-| 33 | [an all diesen Tagen](https://open.spotify.com/track/129TLJVbwR9oS1pVn20FAb) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [an all diesen Tagen](https://open.spotify.com/album/2HDPnK1ZmhJXm0rcPNYXTs) | 2:44 |
+| 31 | [schwarzer Renault](https://open.spotify.com/track/20EdweAxnMgjJLnXJiJJYm) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [schwarzer Renault](https://open.spotify.com/album/2H7oTzq7ciKgEGawrYVFEu) | 2:53 |
+| 32 | [I Would Be Rich](https://open.spotify.com/track/0voEoD86osCqSZm6YnX41Q) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [I Would Be Rich](https://open.spotify.com/album/1hgaD8ZBdht7nSTHZ1RKdt) | 3:51 |
+| 33 | [A$AP & Rihanna](https://open.spotify.com/track/1wT0IaBnco8m5XIViG7HfE) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [A$AP & Rihanna](https://open.spotify.com/album/7mwRWlmAOQEWnEOgV3NEt2) | 1:52 |
 | 34 | [Daddy's Boy](https://open.spotify.com/track/5xujNX1JdMNpN1Wcgd92vb) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD) | [Daddy's Boy](https://open.spotify.com/album/3RbnFr6QtEazEHuAB2HwDM) | 3:46 |
 | 35 | [30](https://open.spotify.com/track/7yj210hrb5Itkz9XWRUazN) | [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS) | [30](https://open.spotify.com/album/3JMWBrrc0S74EAddYj0ial) | 1:54 |
-| 36 | [STAINS](https://open.spotify.com/track/4PpDml43LDgWgpWlIxYYkT) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [STAINS](https://open.spotify.com/album/77QgUYaKPNBK58mobKp7g7) | 5:46 |
-| 37 | [Zwei Menschen](https://open.spotify.com/track/1XB2S5i8oJKiCq1ABLJeYz) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Zwei Menschen](https://open.spotify.com/album/5bAj7lNz2BQ3Z6MyZyWHNU) | 3:24 |
+| 36 | [Unsere Bank](https://open.spotify.com/track/3qUwFUpcYidCB9VbZaV0XX) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx), [Danger Dan](https://open.spotify.com/artist/2jXb8AWz82Sn3RRGOaia7a) | [Unsere Bank](https://open.spotify.com/album/3Wfmjr6HuaCjt0jzSyaufv) | 2:50 |
+| 37 | [STAINS](https://open.spotify.com/track/4PpDml43LDgWgpWlIxYYkT) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [STAINS](https://open.spotify.com/album/77QgUYaKPNBK58mobKp7g7) | 5:46 |
 | 38 | [Mach kaputt](https://open.spotify.com/track/5BYHix1INNkgiIjcnlewIh) | [Schmyt](https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb), [OG Keemo](https://open.spotify.com/artist/4gJT0OnBISFA5CPMNYBGIE) | [Mach kaputt](https://open.spotify.com/album/1YxQJI2BWCPeA48pKEyAW4) | 3:55 |
 | 39 | [That’s How It Goes \(feat\. 6LACK\)](https://open.spotify.com/track/6o5TECt1aCm1HjUzp43OgL) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [That’s How It Goes \(feat\. 6LACK\)](https://open.spotify.com/album/0tEzXJv87d2vm5SIvkSFPc) | 2:42 |
 | 40 | [Walk Away](https://open.spotify.com/track/3XQDYyBoAeP7Agcx4YCwHS) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Walk Away](https://open.spotify.com/album/2C6u68wrYE0McXsrMRPogc) | 2:49 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 | 59 | [Gone](https://open.spotify.com/track/2mD8ODdKo0y165EtmfAHqN) | [ELI](https://open.spotify.com/artist/63gbXCha1jpkrJJ9K5gGpR) | [Gone](https://open.spotify.com/album/651CcYUL1asuZzRClUinai) | 2:35 |
 | 60 | [Rich Girl](https://open.spotify.com/track/1BCBzCwhOZ3MEfOybVmoRs) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [Rich Girl](https://open.spotify.com/album/5invgj6RjVaDwh3Odvaj3v) | 4:04 |
 
-Snapshot ID: `MTY2MjY3NDQwMCwwMDAwMDAwMGU4ODIxZTA5YmQyODIwZDQyMWE0MTJkYzM3M2E2YTUy`
+Snapshot ID: `MTY2MzI3OTIwMCwwMDAwMDAwMDM0NDBhNTEyY2M5NGU3NmJiY2FlNmVhOWZiYzAxYjA1`

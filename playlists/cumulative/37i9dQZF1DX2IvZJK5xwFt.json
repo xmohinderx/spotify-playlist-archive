@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Only the best rock in the world. Cover: Ozzy Osbourne",
+  "description": "Only the best rock in the world. Cover: GAYLE",
   "name": "Just Rock!",
   "published_playlist_ids": [
     "4b8D1RnS1amrOmfT4hWOtA"
@@ -894,6 +894,28 @@
     },
     {
       "album": {
+        "name": "fmk (with blackbear)",
+        "url": "https://open.spotify.com/album/2JATwGH1Izmuu47IcnfzSO"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        },
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189075,
+      "name": "fmk (with blackbear)",
+      "url": "https://open.spotify.com/track/1hhMX7QQIhBsXjFmTK7owB"
+    },
+    {
+      "album": {
         "name": "Dropout Boogie",
         "url": "https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk"
       },
@@ -1533,7 +1555,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 312800,
       "name": "Killing Time",
       "url": "https://open.spotify.com/track/5Y15AQnjSQwX5790ZP8OJm"
@@ -1917,6 +1939,32 @@
       "duration_ms": 155919,
       "name": "Memories (with WILLOW)",
       "url": "https://open.spotify.com/track/3LcMLFApeU9uCT8VCWEVjr"
+    },
+    {
+      "album": {
+        "name": "HiROQUEST: Genesis",
+        "url": "https://open.spotify.com/album/0lF8VwXlAyOMFt1XQvCa5l"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "MOD SUN",
+          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
+        },
+        {
+          "name": "Global Dan",
+          "url": "https://open.spotify.com/artist/1lzugG0lqNh9nP6Fp2zG3c"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213655,
+      "name": "Movie Star (ft. MOD SUN & Global Dan)",
+      "url": "https://open.spotify.com/track/0P6jpMI0OXirXvurwBgM5d"
     },
     {
       "album": {
@@ -2319,7 +2367,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 265013,
       "name": "Phantom",
       "url": "https://open.spotify.com/track/14wSiOY3ZjskXuFj4xiEAD"

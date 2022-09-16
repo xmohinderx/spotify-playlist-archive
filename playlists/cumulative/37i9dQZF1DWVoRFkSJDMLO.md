@@ -4,7 +4,7 @@
 
 > Inspired by African drums\. Cover: Lous and The Yakuza, Adekunle Gold 🇨🇩 🇳🇬
 
-223 songs - 11 hr 20 min - [published](https://open.spotify.com/playlist/3Nva1foeKA4kN9RYANT1NX)
+224 songs - 11 hr 23 min - [published](https://open.spotify.com/playlist/3Nva1foeKA4kN9RYANT1NX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [Ride](https://open.spotify.com/track/4oJaUMuHz0X6b8mO19Eloe) | [Shiiloh](https://open.spotify.com/artist/6eSZchhWk6vMad9q0zQZGC), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Stadic](https://open.spotify.com/artist/4mk1ScvOUkuQzzCZpT6bc0) | [Ride](https://open.spotify.com/album/2E55XAXxNxdTDjVK1j0SM2) | 2:56 | 2022-07-08 | 2022-08-06 |
 | [Rihanna \(Umbrella\)](https://open.spotify.com/track/1oQLS1Guu4Vb1NstarqeEc) | [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr) | [Rihanna \(Umbrella\)](https://open.spotify.com/album/6xAsrhQF5IkIXsiozfWP3J) | 2:36 | 2022-07-01 | 2022-07-23 |
 | [Run](https://open.spotify.com/track/4ii7s7CHzkzjnIPd7PCCF9) | [Laa Lee](https://open.spotify.com/artist/4cb3HigJCNGP3rcRhVbYwS), [A\-Akeem876 Records](https://open.spotify.com/artist/48Zu8KPsI60W5KbHPhNhTi) | [Run](https://open.spotify.com/album/2MZ7ieG2mufgiMZ9ehmRQ8) | 3:42 | 2022-06-03 | 2022-06-15 |
+| [Rush](https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Rush](https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E) | 3:05 | 2022-09-09 |  |
 | [Sans effet](https://open.spotify.com/track/3vmz5p8yz0M8R2rPP8dsSN) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Fleur froide \- Second état : la cristallisation](https://open.spotify.com/album/1Z660Pt8QbyPBmJUjuHS34) | 2:40 | 2022-05-27 |  |
 | [Say You Bad \(Remix\)](https://open.spotify.com/track/7nMrhVzouCx2Igpdwzo0Ta) | [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv), [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [Say You Bad \(Remix\)](https://open.spotify.com/album/1MSQFlNZ1UqxOk3WRIDxzQ) | 3:24 | 2022-07-08 |  |
 | [Section](https://open.spotify.com/track/2R6wZFWXBF2rRIbvQirzjP) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Section](https://open.spotify.com/album/51ygRTQJLBz3v6EDqvsL6K) | 2:14 | 2022-06-10 |  |

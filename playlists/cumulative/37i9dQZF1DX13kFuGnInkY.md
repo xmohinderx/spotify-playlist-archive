@@ -2,7 +2,7 @@
 
 ### [ACM Honors 2022](https://open.spotify.com/playlist/37i9dQZF1DX13kFuGnInkY)
 
-> Celebrate some of the biggest names in country music tonight on the ACM Honors at 8/7c on FOX! Cover: Kelsea Ballerini
+> Celebrate some of the biggest names in country music with the soundtrack from the ACM Honors! Cover: Kelsea Ballerini
 
 168 songs - 9 hr 27 min - [published](https://open.spotify.com/playlist/2O2A0u2oMemfyiWYSMET6A)
 

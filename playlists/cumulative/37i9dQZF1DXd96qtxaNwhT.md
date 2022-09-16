@@ -4,7 +4,7 @@
 
 > Soak up the serenity with these beautiful melodies.
 
-456 songs - 1 day 1 hr 37 min - [published](https://open.spotify.com/playlist/2JotmOf77AlDkIMaQkg9OK)
+457 songs - 1 day 1 hr 39 min - [published](https://open.spotify.com/playlist/2JotmOf77AlDkIMaQkg9OK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -325,7 +325,8 @@
 | [Please Don't Go](https://open.spotify.com/track/7js5qnk3hGWb20H263sXWZ) | [Liliana](https://open.spotify.com/artist/1iRSAN1d2YuiQaOHvLMhwF), [Cam Noble](https://open.spotify.com/artist/0K2qWy2QmgaBlExB67u6oV) | [Please Don't Go](https://open.spotify.com/album/3hqERMu6KirdARs43Kr6JT) | 2:08 | 2022-07-08 |  |
 | [Pocket Full of Love](https://open.spotify.com/track/7ogbp3P4wRZdmlYa8yIVOk) | [Lepani](https://open.spotify.com/artist/2BP4XXvv9754tQZ0Pumcml) | [Pocket Full of Love](https://open.spotify.com/album/2BoSMgxpHwhFZyJqFGUAhd) | 3:28 | 2019-08-02 | 2019-10-11 |
 | [Poser](https://open.spotify.com/track/4rsEOdoWVGGXTY50Pk0P5F) | [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ) | [LETTERS: VOL\. 1](https://open.spotify.com/album/7M0VWIMZXsm2RKtHYHHkaQ) | 3:47 | 2019-11-22 | 2019-12-13 |
-| [PRETEND RAINBOW](https://open.spotify.com/track/3kescnpBiOqSSdNywgGHkB) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [PRETEND RAINBOW](https://open.spotify.com/album/3iJxQdm6ZrjKuPrpeLJl2o) | 2:38 | 2022-05-12 |  |
+| [PRETEND RAINBOW](https://open.spotify.com/track/2ChYB5eaB0HxWvXxDqASvk) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [PRETEND RAINBOW](https://open.spotify.com/album/1GEwRUCUUUJJahRF4Cxqfy) | 2:38 | 2022-09-08 |  |
+| [PRETEND RAINBOW](https://open.spotify.com/track/3kescnpBiOqSSdNywgGHkB) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [PRETEND RAINBOW](https://open.spotify.com/album/3iJxQdm6ZrjKuPrpeLJl2o) | 2:38 | 2022-05-12 | 2022-09-16 |
 | [Pretty Dumb](https://open.spotify.com/track/0mMrLI4ev6NZTGD6L39v39) | [Tash](https://open.spotify.com/artist/3kX6nt9QiDarAkCsIGRIgR) | [Pretty Dumb](https://open.spotify.com/album/04i6qyA1iv0Y80dR6DJmY9) | 3:03 | 2020-03-14 | 2020-05-08 |
 | [Put A Little Love On Me](https://open.spotify.com/track/1hCTxutVVYvggAQcUUUZAT) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Put A Little Love On Me](https://open.spotify.com/album/7dUgmUMDNnQAejhNLeIQWz) | 3:44 | 2019-12-09 | 2021-02-12 |
 | [Quite Miss Home](https://open.spotify.com/track/2deFH5zveEBEUuURpqTN3C) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 4:03 | 2019-10-25 | 2021-01-23 |

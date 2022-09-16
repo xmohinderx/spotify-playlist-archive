@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVleyMkaelTd.md) - [plain]
 
 > Soundtrack your cozy dinner with bossa nova jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,278 likes - 101 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,381 likes - 101 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVleyMkaelTd.md) - [plain]
 | 100 | [Dream A little Dream Of Me](https://open.spotify.com/track/39qMLKmf0lR6RtpWvW4FFS) | [Olga Chung](https://open.spotify.com/artist/6UUbraIaaBKQGCZoSOmn0S) | [Bossa Nova Lounge](https://open.spotify.com/album/2towbkhxHCPKLsyQuealHv) | 2:57 |
 | 101 | [Só Tinha de Ser com Você](https://open.spotify.com/track/5KrmPhZXWsrn1xVey30806) | [Joao Silva Oliveira](https://open.spotify.com/artist/2H9tPIniwpdz9EvKYvRKFq) | [Só Tinha de Ser com Você](https://open.spotify.com/album/7nUM7a3z2pGH5pII2MEy8n) | 3:58 |
 
-Snapshot ID: `MTY2MzA2MTQyMiwwMDAwMDAwMDVjOWJjNTU2MDM0NTBlM2IxNWVmMmZkNjkxZGJiZmRl`
+Snapshot ID: `MTY2MzI1Mjg5OCwwMDAwMDAwMDNiZDMwZTZkZjFiZDc4YjI0OWE1NTAyMmU5MTU4ZmQ0`

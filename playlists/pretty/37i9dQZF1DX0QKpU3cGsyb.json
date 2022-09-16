@@ -1,12 +1,12 @@
 {
   "description": "Slow jams for the passionate.",
-  "num_followers": 1616438,
+  "num_followers": 1617080,
   "original_name": "Bedroom Jams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg5MzQ1OCwwMDAwMDAwMDBhNDQ3NzQxZTFhMzgwNDUzNmE3ZWIzNjBlZGQ1MWRm",
+  "snapshot_id": "MTY1Nzg5MzQ1OCwwMDAwMDAwMDVmMmVjNjEwODNiNjAwYjU1MGQwZDU0M2MxMGQ4NzE1",
   "tracks": [
     {
       "added_at": "2022-07-15 04:00:00",
@@ -635,6 +635,22 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
+        "name": "Situationship",
+        "url": "https://open.spotify.com/album/1reU8zP1OtFCmK055l6UZF"
+      },
+      "artists": [
+        {
+          "name": "Nbdy",
+          "url": "https://open.spotify.com/artist/1fQWUHoSWhlrc9rmHi2xnE"
+        }
+      ],
+      "duration_ms": 176640,
+      "name": "Situationship",
+      "url": "https://open.spotify.com/track/2e0bYXa7BRXqPilw9Qj49f"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
         "name": "All or Nothing",
         "url": "https://open.spotify.com/album/35J4qJY7CLZzn3o682sx2V"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 168019,
       "name": "Weapon (feat. Fireboy DML)",
       "url": "https://open.spotify.com/track/4YI21WT1m1lUC3d4z9HtPF"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "Situationship",
-        "url": "https://open.spotify.com/album/1reU8zP1OtFCmK055l6UZF"
-      },
-      "artists": [
-        {
-          "name": "Nbdy",
-          "url": "https://open.spotify.com/artist/1fQWUHoSWhlrc9rmHi2xnE"
-        }
-      ],
-      "duration_ms": 176640,
-      "name": "Situationship",
-      "url": "https://open.spotify.com/track/2e0bYXa7BRXqPilw9Qj49f"
     },
     {
       "added_at": "2022-07-15 04:00:00",

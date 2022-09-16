@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Sweden.
 
-988 songs - 2 day 4 hr 13 min - [published](https://open.spotify.com/playlist/5P2yiuo1XuPDWVYvCs1X7X)
+989 songs - 2 day 4 hr 15 min - [published](https://open.spotify.com/playlist/5P2yiuo1XuPDWVYvCs1X7X)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -376,7 +376,7 @@
 | [Hej hallå!](https://open.spotify.com/track/6BT8CwzsMOi2FSIDa5zZwN) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Spring baby spring](https://open.spotify.com/album/66WY38HfMEkPRqEjanWQeF) | 3:09 | 2022-01-01 | 2022-01-03 |
 | [Hela världen är min](https://open.spotify.com/track/07l5IJqrY6ERJw7HNdnM0G) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Hela världen är min](https://open.spotify.com/album/2FD0zqU3iO8cwQkR2SEgMN) | 3:06 | 2022-03-20 | 2022-09-04 |
 | [Hello World](https://open.spotify.com/track/1zS7wXUlPhxdOgGZ7RorQ2) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Torine](https://open.spotify.com/artist/6gpY6HHTGZp0sTLsxsSNqo) | [Hello World](https://open.spotify.com/album/48ftSLCJelcAYOnk5u0era) | 2:51 | 2022-03-05 | 2022-03-07 |
-| [Hennessy](https://open.spotify.com/track/0ahJOON9NFd7aFEnk0Z0aQ) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [The Only Wan](https://open.spotify.com/album/4OrCH3Tp7HUpfxKzwWuVp3) | 3:11 | 2022-09-03 |  |
+| [Hennessy](https://open.spotify.com/track/0ahJOON9NFd7aFEnk0Z0aQ) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [The Only Wan](https://open.spotify.com/album/4OrCH3Tp7HUpfxKzwWuVp3) | 3:11 | 2022-09-03 | 2022-09-16 |
 | [Here We Go… Again \(feat\. Tyler, The Creator\)](https://open.spotify.com/track/1NhjYYcYTRywc0di98xHxf) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:29 | 2022-01-08 | 2022-01-10 |
 | [Hey Ho](https://open.spotify.com/track/1mlP7iqVLZMYryuispoFBE) | [Aslak Trude](https://open.spotify.com/artist/2zS32fWywZvJCB21xAqctW) | [Hey Ho](https://open.spotify.com/album/56mHmi0jwPK4UOC3DZVWdf) | 2:56 | 2021-12-24 | 2021-12-26 |
 | [Hey Ho](https://open.spotify.com/track/0eekaX32hUmJgcinPCL1iZ) | [Freddy Kalas](https://open.spotify.com/artist/2HAShHcL0dMLf1iNzmxTi3) | [Hey Ho](https://open.spotify.com/album/15gVgcNqgJvMN3xaVHRbcx) | 2:54 | 2021-11-28 | 2021-12-30 |
@@ -723,6 +723,7 @@
 | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy) | 4:58 | 2022-05-30 |  |
 | [RUSSIAN WOMAN](https://open.spotify.com/track/6Dz383ZHSKzWh5ZTL7aRra) | [Manizha](https://open.spotify.com/artist/1Y53ZUhXBydAzILo4Qa0s1) | [RUSSIAN WOMAN](https://open.spotify.com/album/6e5G83EOP9tEfklabpOhRp) | 2:56 | 2021-05-25 | 2021-05-26 |
 | [Räkna dagar](https://open.spotify.com/track/7GWtRLE1ZeFat9k9iauEef) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [Barn av vår tid](https://open.spotify.com/album/1StOdefPDHrQiwQLm3teNm) | 2:55 | 2021-10-03 | 2021-11-21 |
+| [Röd Laser](https://open.spotify.com/track/3hVHWx8UILDq3tSEg5trOZ) | [Z.E](https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR) | [Röd Laser](https://open.spotify.com/album/4XQSMJeqCRczYBbhW7pE3P) | 2:11 | 2022-09-15 |  |
 | [Röda himlar](https://open.spotify.com/track/287HudoSNll1fMOGDE2212) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [Röda himlar](https://open.spotify.com/album/7LByyoHnnJg7gmB25eEKse) | 3:04 | 2021-11-16 | 2021-11-19 |
 | [Rör Mig](https://open.spotify.com/track/39vozFaOohvu1mhwOpltsp) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [Första Klass](https://open.spotify.com/album/5W4QltYoETJuRVqkcwWOtl) | 2:56 | 2021-10-23 | 2021-10-24 |
 | [Sacrifice](https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:08 | 2022-01-08 | 2022-02-13 |

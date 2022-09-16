@@ -1,12 +1,12 @@
 {
   "description": "Svensk punk fr\u00e5n f\u00f6rr och nu. \n",
-  "num_followers": 26296,
+  "num_followers": 26308,
   "original_name": "Svensk Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzOTQ5MDY5OCwwMDAwMDAwMDJhZDViNDlhZDMxYzI0NzhhYjkyZjY3MmU5MTFkOWY0",
+  "snapshot_id": "MTYzOTQ5MDY5OCwwMDAwMDAwMGRlNThlOGQ0NWViNTRiMGU2MTJiMTA0ZThmMmRhYTI5",
   "tracks": [
     {
       "added_at": "2021-12-14 14:04:58",
@@ -447,22 +447,6 @@
     {
       "added_at": "2021-12-14 14:04:58",
       "album": {
-        "name": "Amelia",
-        "url": "https://open.spotify.com/album/4WR5DkdrAaD5okww70B1xY"
-      },
-      "artists": [
-        {
-          "name": "Barbaras Grannar",
-          "url": "https://open.spotify.com/artist/35ySzAXjdrvkFBPKNUBu1u"
-        }
-      ],
-      "duration_ms": 251353,
-      "name": "Amelia",
-      "url": "https://open.spotify.com/track/4u3SRmpI2DEbuOZuejog83"
-    },
-    {
-      "added_at": "2021-12-14 14:04:58",
-      "album": {
         "name": "Labyrint",
         "url": "https://open.spotify.com/album/0rLAjBrkMIZpu9VoyqfhV3"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 125733,
       "name": "Dr\u00f6mmen",
       "url": "https://open.spotify.com/track/3HP3I1YVPnDB2awjQ7lxFq"
+    },
+    {
+      "added_at": "2021-12-14 14:04:58",
+      "album": {
+        "name": "Amelia",
+        "url": "https://open.spotify.com/album/4WR5DkdrAaD5okww70B1xY"
+      },
+      "artists": [
+        {
+          "name": "Barbaras Grannar",
+          "url": "https://open.spotify.com/artist/35ySzAXjdrvkFBPKNUBu1u"
+        }
+      ],
+      "duration_ms": 251353,
+      "name": "Amelia",
+      "url": "https://open.spotify.com/track/4u3SRmpI2DEbuOZuejog83"
     },
     {
       "added_at": "2021-12-14 14:04:58",
@@ -575,22 +575,6 @@
     {
       "added_at": "2021-12-14 14:04:58",
       "album": {
-        "name": "Ebba Gr\u00f6n 1978 - 1982",
-        "url": "https://open.spotify.com/album/2zP275pJAbZbZFifh5av6R"
-      },
-      "artists": [
-        {
-          "name": "Ebba Gr\u00f6n",
-          "url": "https://open.spotify.com/artist/2gvwV7CcpLmKyaE0fiSKI9"
-        }
-      ],
-      "duration_ms": 149760,
-      "name": "Tyst f\u00f6r fan",
-      "url": "https://open.spotify.com/track/6NJNjEVI1AU7UYIrUZTd1Y"
-    },
-    {
-      "added_at": "2021-12-14 14:04:58",
-      "album": {
         "name": "Tecken I Tiden",
         "url": "https://open.spotify.com/album/3KYVzrsazBDbsbkbDQBXAd"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 250866,
       "name": "Herrarna I Sandl\u00e5dan",
       "url": "https://open.spotify.com/track/4LMQqcT7PChwUucFyhyWtY"
+    },
+    {
+      "added_at": "2021-12-14 14:04:58",
+      "album": {
+        "name": "Ebba Gr\u00f6n 1978 - 1982",
+        "url": "https://open.spotify.com/album/2zP275pJAbZbZFifh5av6R"
+      },
+      "artists": [
+        {
+          "name": "Ebba Gr\u00f6n",
+          "url": "https://open.spotify.com/artist/2gvwV7CcpLmKyaE0fiSKI9"
+        }
+      ],
+      "duration_ms": 149760,
+      "name": "Tyst f\u00f6r fan",
+      "url": "https://open.spotify.com/track/6NJNjEVI1AU7UYIrUZTd1Y"
     },
     {
       "added_at": "2021-12-14 14:04:58",
@@ -671,22 +671,6 @@
     {
       "added_at": "2021-12-14 14:04:58",
       "album": {
-        "name": "Pengar Har Inga \u00d6gon",
-        "url": "https://open.spotify.com/album/1ueBZ7RDpKS1kv4VYTaZRY"
-      },
-      "artists": [
-        {
-          "name": "De Lyckliga Kompisarna",
-          "url": "https://open.spotify.com/artist/5ZFPmKZWWyfhwTLTDwqZgd"
-        }
-      ],
-      "duration_ms": 154226,
-      "name": "Johanna",
-      "url": "https://open.spotify.com/track/2ekTSYW68ShERRzsPBbRaF"
-    },
-    {
-      "added_at": "2021-12-14 14:04:58",
-      "album": {
         "name": "V\u00e4rdel\u00f6s",
         "url": "https://open.spotify.com/album/4j1KS0IccBP03iFKJpj0qp"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 123560,
       "name": "Feta Gubbar",
       "url": "https://open.spotify.com/track/0XwpJFzmXViS6TImtpv9lM"
+    },
+    {
+      "added_at": "2021-12-14 14:04:58",
+      "album": {
+        "name": "Pengar Har Inga \u00d6gon",
+        "url": "https://open.spotify.com/album/1ueBZ7RDpKS1kv4VYTaZRY"
+      },
+      "artists": [
+        {
+          "name": "De Lyckliga Kompisarna",
+          "url": "https://open.spotify.com/artist/5ZFPmKZWWyfhwTLTDwqZgd"
+        }
+      ],
+      "duration_ms": 154226,
+      "name": "Johanna",
+      "url": "https://open.spotify.com/track/2ekTSYW68ShERRzsPBbRaF"
     },
     {
       "added_at": "2021-12-14 14:04:58",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2021-12-14 14:04:58",
       "album": {
-        "name": "Borgerlig begravning",
-        "url": "https://open.spotify.com/album/7CrfHrApj1K5LpjSyiSUYH"
-      },
-      "artists": [
-        {
-          "name": "Borgerlig Begravning",
-          "url": "https://open.spotify.com/artist/58oxi3Ei1SHkiWTZ1DP33q"
-        }
-      ],
-      "duration_ms": 121510,
-      "name": "Va\u0308gra",
-      "url": "https://open.spotify.com/track/1xKkbE6TAk0fw982WRofnl"
-    },
-    {
-      "added_at": "2021-12-14 14:04:58",
-      "album": {
         "name": "V\u00e4rdel\u00f6s",
         "url": "https://open.spotify.com/album/4j1KS0IccBP03iFKJpj0qp"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 151800,
       "name": "Pappa Betalar",
       "url": "https://open.spotify.com/track/6Z8nFhmIrtcWNYhwLb8qZB"
+    },
+    {
+      "added_at": "2021-12-14 14:04:58",
+      "album": {
+        "name": "Borgerlig begravning",
+        "url": "https://open.spotify.com/album/7CrfHrApj1K5LpjSyiSUYH"
+      },
+      "artists": [
+        {
+          "name": "Borgerlig Begravning",
+          "url": "https://open.spotify.com/artist/58oxi3Ei1SHkiWTZ1DP33q"
+        }
+      ],
+      "duration_ms": 121510,
+      "name": "Va\u0308gra",
+      "url": "https://open.spotify.com/track/1xKkbE6TAk0fw982WRofnl"
     },
     {
       "added_at": "2021-12-14 14:04:58",

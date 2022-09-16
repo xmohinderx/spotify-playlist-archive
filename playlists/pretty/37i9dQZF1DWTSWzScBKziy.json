@@ -1,12 +1,12 @@
 {
   "description": "Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  We The Kingdom",
-  "num_followers": 82010,
+  "num_followers": 82028,
   "original_name": "Sing A New Song",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzY3NDg2NCwwMDAwMDAwMDc1YTBmNTUxOWUzNzU1ZGNlYjg5NTRkZjE4ZmVjZjBk",
+  "snapshot_id": "MTY1MzY3NDg2NCwwMDAwMDAwMDQ2YTM0Njc4ZGZkNzBmNDllODNjZmEzNzZmODUzYTg5",
   "tracks": [
     {
       "added_at": "2022-05-27 18:07:44",
@@ -403,22 +403,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Plans",
-        "url": "https://open.spotify.com/album/5p3ZxGjxM3xnGi8gzHLU6f"
-      },
-      "artists": [
-        {
-          "name": "Rend Collective",
-          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
-        }
-      ],
-      "duration_ms": 222985,
-      "name": "Plans",
-      "url": "https://open.spotify.com/track/7ylUm6UwDblnxBNFq1E0nh"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "You Can Rest",
         "url": "https://open.spotify.com/album/6fsxOCp5oNmARaxQ1lVymF"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 288658,
       "name": "You Can Rest",
       "url": "https://open.spotify.com/track/4ZeHjRfWTpESYD0XarSXit"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "Plans",
+        "url": "https://open.spotify.com/album/5p3ZxGjxM3xnGi8gzHLU6f"
+      },
+      "artists": [
+        {
+          "name": "Rend Collective",
+          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
+        }
+      ],
+      "duration_ms": 222985,
+      "name": "Plans",
+      "url": "https://open.spotify.com/track/7ylUm6UwDblnxBNFq1E0nh"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -551,22 +551,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Wide Awake",
-        "url": "https://open.spotify.com/album/68V8xLeZJHQHqRFHKqsjjk"
-      },
-      "artists": [
-        {
-          "name": "Ben Fuller",
-          "url": "https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d"
-        }
-      ],
-      "duration_ms": 211880,
-      "name": "Wide Awake",
-      "url": "https://open.spotify.com/track/0X5R33mNmGbNJcaupI4z2W"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "This Is the Day",
         "url": "https://open.spotify.com/album/29KW3MYzgYG4RxdqXPVoP2"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 325247,
       "name": "This Is the Day",
       "url": "https://open.spotify.com/track/7irqgbDHvcg4hQwhIR260Y"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "Wide Awake",
+        "url": "https://open.spotify.com/album/68V8xLeZJHQHqRFHKqsjjk"
+      },
+      "artists": [
+        {
+          "name": "Ben Fuller",
+          "url": "https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d"
+        }
+      ],
+      "duration_ms": 211880,
+      "name": "Wide Awake",
+      "url": "https://open.spotify.com/track/0X5R33mNmGbNJcaupI4z2W"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -631,22 +631,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "When You Speak (Deluxe)",
-        "url": "https://open.spotify.com/album/4gqvwAZqd78xeSPE10MObb"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Camp",
-          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
-        }
-      ],
-      "duration_ms": 216610,
-      "name": "Say Amen",
-      "url": "https://open.spotify.com/track/5uPjLPvofaEYditIE1mjzz"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "Love Won\u2019t Let Go",
         "url": "https://open.spotify.com/album/4lVaX2sjMP6qnyGnLHLrdQ"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 198379,
       "name": "Love Won\u2019t Let Go",
       "url": "https://open.spotify.com/track/09uHtTO9982wSxpfaAXOuU"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "When You Speak (Deluxe)",
+        "url": "https://open.spotify.com/album/4gqvwAZqd78xeSPE10MObb"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Camp",
+          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
+        }
+      ],
+      "duration_ms": 216610,
+      "name": "Say Amen",
+      "url": "https://open.spotify.com/track/5uPjLPvofaEYditIE1mjzz"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -979,18 +979,18 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Heaven's on the Move (Deluxe)",
-        "url": "https://open.spotify.com/album/5VLaZK1eadF5WEd2N9q0Mc"
+        "name": "Unexpected Roads",
+        "url": "https://open.spotify.com/album/270YkGxScjMXCnszT2tEgm"
       },
       "artists": [
         {
-          "name": "Central Live",
-          "url": "https://open.spotify.com/artist/4wgCtJHJAspY8Pwr09Cgkn"
+          "name": "Mosaic MSC",
+          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
         }
       ],
-      "duration_ms": 350520,
-      "name": "Amen (The Lord's Prayer)",
-      "url": "https://open.spotify.com/track/5ZHTFwzhEpa1OJMyrpdGE7"
+      "duration_ms": 224666,
+      "name": "Unexpected Roads",
+      "url": "https://open.spotify.com/track/2QB144MI3R76p3KMcfPu7B"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Unexpected Roads",
-        "url": "https://open.spotify.com/album/270YkGxScjMXCnszT2tEgm"
+        "name": "Heaven's on the Move (Deluxe)",
+        "url": "https://open.spotify.com/album/5VLaZK1eadF5WEd2N9q0Mc"
       },
       "artists": [
         {
-          "name": "Mosaic MSC",
-          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
+          "name": "Central Live",
+          "url": "https://open.spotify.com/artist/4wgCtJHJAspY8Pwr09Cgkn"
         }
       ],
-      "duration_ms": 224666,
-      "name": "Unexpected Roads",
-      "url": "https://open.spotify.com/track/2QB144MI3R76p3KMcfPu7B"
+      "duration_ms": 350520,
+      "name": "Amen (The Lord's Prayer)",
+      "url": "https://open.spotify.com/track/5ZHTFwzhEpa1OJMyrpdGE7"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Landslide",
-        "url": "https://open.spotify.com/album/6n4SLfwVKjSiSrmUdL16iL"
-      },
-      "artists": [
-        {
-          "name": "Erik Nieder",
-          "url": "https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh"
-        }
-      ],
-      "duration_ms": 293253,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/0LidfYMs8GTkrOIEzjpLSV"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "He Is Not Worried",
         "url": "https://open.spotify.com/album/7IDS7l5JGzDfdnBY1P90st"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 269986,
       "name": "He Is Not Worried",
       "url": "https://open.spotify.com/track/64bufFeb5iQoZhEhFPVJCb"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "Landslide",
+        "url": "https://open.spotify.com/album/6n4SLfwVKjSiSrmUdL16iL"
+      },
+      "artists": [
+        {
+          "name": "Erik Nieder",
+          "url": "https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh"
+        }
+      ],
+      "duration_ms": 293253,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/0LidfYMs8GTkrOIEzjpLSV"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Arise",
-        "url": "https://open.spotify.com/album/0x1dt3vWR5dfxcVj4SSfnk"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Cain",
-          "url": "https://open.spotify.com/artist/6APhaZEvvKh99J2c3TVM3i"
-        }
-      ],
-      "duration_ms": 234185,
-      "name": "Roar",
-      "url": "https://open.spotify.com/track/6DHIjsUc8GcoouCCb0DWd0"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "I Know You Better",
         "url": "https://open.spotify.com/album/2f6XRWYjtg30AtY09KMaYm"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 380304,
       "name": "I Know You Better",
       "url": "https://open.spotify.com/track/7aU3ETkQdNCMNfaMm41c6W"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "Arise",
+        "url": "https://open.spotify.com/album/0x1dt3vWR5dfxcVj4SSfnk"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Cain",
+          "url": "https://open.spotify.com/artist/6APhaZEvvKh99J2c3TVM3i"
+        }
+      ],
+      "duration_ms": 234185,
+      "name": "Roar",
+      "url": "https://open.spotify.com/track/6DHIjsUc8GcoouCCb0DWd0"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Beautiful Name",
-        "url": "https://open.spotify.com/album/0Hv5gNQ7XVnYjJDaHlqkYI"
-      },
-      "artists": [
-        {
-          "name": "Point Of Grace",
-          "url": "https://open.spotify.com/artist/5y1gFSVnE4DGxUxHeKrGk6"
-        }
-      ],
-      "duration_ms": 228253,
-      "name": "Rest In You",
-      "url": "https://open.spotify.com/track/7jtl5N8T1YFvVXkbNypLDL"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "How Can I Be Silent",
         "url": "https://open.spotify.com/album/3GudEZtWF1vRHf1AM0hH9C"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 204050,
       "name": "How Can I Be Silent",
       "url": "https://open.spotify.com/track/7IgnVHqxDysutaj7txWS9U"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "Beautiful Name",
+        "url": "https://open.spotify.com/album/0Hv5gNQ7XVnYjJDaHlqkYI"
+      },
+      "artists": [
+        {
+          "name": "Point Of Grace",
+          "url": "https://open.spotify.com/artist/5y1gFSVnE4DGxUxHeKrGk6"
+        }
+      ],
+      "duration_ms": 228253,
+      "name": "Rest In You",
+      "url": "https://open.spotify.com/track/7jtl5N8T1YFvVXkbNypLDL"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "The Greatest Discovery",
-        "url": "https://open.spotify.com/album/4sL4lTlL4SJqho15bwT2LK"
-      },
-      "artists": [
-        {
-          "name": "Sarah Hawkyard",
-          "url": "https://open.spotify.com/artist/3CgmDph153yB1nP3meLZkr"
-        }
-      ],
-      "duration_ms": 257670,
-      "name": "I Now Have Purpose",
-      "url": "https://open.spotify.com/track/0wOfICh5Zv8w1tB78ro0rp"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "King of Love",
         "url": "https://open.spotify.com/album/4MQY7rqK8vJK6wLiDuQb74"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 232000,
       "name": "King of Love",
       "url": "https://open.spotify.com/track/5shWIh3eSLiACdpeN9zWJe"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "The Greatest Discovery",
+        "url": "https://open.spotify.com/album/4sL4lTlL4SJqho15bwT2LK"
+      },
+      "artists": [
+        {
+          "name": "Sarah Hawkyard",
+          "url": "https://open.spotify.com/artist/3CgmDph153yB1nP3meLZkr"
+        }
+      ],
+      "duration_ms": 257670,
+      "name": "I Now Have Purpose",
+      "url": "https://open.spotify.com/track/0wOfICh5Zv8w1tB78ro0rp"
     },
     {
       "added_at": "2022-05-27 18:07:44",

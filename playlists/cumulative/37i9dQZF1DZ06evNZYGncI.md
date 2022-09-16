@@ -49,6 +49,6 @@
 | [Vermilion](https://open.spotify.com/track/0fX9KPa0i9RGDI59gI90i9) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Vol\. 3: The Subliminal Verses](https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T) | 5:16 | 2022-05-30 |  |
 | [Vermilion, Pt\. 2](https://open.spotify.com/track/0O7lENhqOySbsL743G7PqD) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Vol\. 3: The Subliminal Verses](https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T) | 3:44 | 2022-05-30 |  |
 | [Wait and Bleed](https://open.spotify.com/track/2gscB6kDOmrv1P6qs2KXE3) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Slipknot \(10th Anniversary Edition\)](https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc) | 2:27 | 2022-05-30 |  |
-| [Yen](https://open.spotify.com/track/3jlGZP70KYqw0fjjDNoOe0) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Yen](https://open.spotify.com/album/0FkAhmbHolBUJvWsGjzvTQ) | 4:45 | 2022-08-08 |  |
+| [Yen](https://open.spotify.com/track/3jlGZP70KYqw0fjjDNoOe0) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Yen](https://open.spotify.com/album/0FkAhmbHolBUJvWsGjzvTQ) | 4:43 | 2022-08-08 |  |
 
 \*This playlist was first scraped on 2022-05-31. Prior content cannot be recovered.

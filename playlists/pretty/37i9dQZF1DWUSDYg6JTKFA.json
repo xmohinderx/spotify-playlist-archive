@@ -1,12 +1,12 @@
 {
   "description": "In the storms of life, hold onto the promise of hope and love with this playlist and bring Him glory.",
-  "num_followers": 122502,
+  "num_followers": 122582,
   "original_name": "Hold Hope",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5NTUxNTA5NiwwMDAwMDAwMGJmZTdkOWExYWZmMTZhMGNlOTUzODFlZTc0Y2UzYjEz",
+  "snapshot_id": "MTU5NTUxNTA5NiwwMDAwMDAwMDc0M2UzMjA2YjdiNDRlY2QxYjFiMjIzNWJiODkyMmUz",
   "tracks": [
     {
       "added_at": "2020-07-23 14:38:16",
@@ -403,6 +403,22 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
+        "name": "Different",
+        "url": "https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "duration_ms": 196173,
+      "name": "Even Then",
+      "url": "https://open.spotify.com/track/1dN6rm3ywe9rWuANyICuCG"
+    },
+    {
+      "added_at": "2020-07-23 14:38:16",
+      "album": {
         "name": "Citizen of Heaven",
         "url": "https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 339493,
       "name": "In Christ Alone - Live",
       "url": "https://open.spotify.com/track/6aRwLqDf1bN3lI2gMd6wXp"
-    },
-    {
-      "added_at": "2020-07-23 14:38:16",
-      "album": {
-        "name": "Different",
-        "url": "https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB"
-      },
-      "artists": [
-        {
-          "name": "Micah Tyler",
-          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
-        }
-      ],
-      "duration_ms": 196173,
-      "name": "Even Then",
-      "url": "https://open.spotify.com/track/1dN6rm3ywe9rWuANyICuCG"
     },
     {
       "added_at": "2020-07-23 14:38:16",
@@ -691,22 +691,6 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
-        "name": "Burn The Ships",
-        "url": "https://open.spotify.com/album/5eDLHSsctG7CccVeYSTLeh"
-      },
-      "artists": [
-        {
-          "name": "for KING & COUNTRY",
-          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
-        }
-      ],
-      "duration_ms": 218106,
-      "name": "Fight On, Fighter",
-      "url": "https://open.spotify.com/track/7lPM8uXuIO5MDWv6L0TPaZ"
-    },
-    {
-      "added_at": "2020-07-23 14:38:16",
-      "album": {
         "name": "Wide Open",
         "url": "https://open.spotify.com/album/55oYFRbA2tOa7q0YRH4K8B"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 175453,
       "name": "Born Again",
       "url": "https://open.spotify.com/track/6UPzYldiFNx9jssIxwuyYv"
+    },
+    {
+      "added_at": "2020-07-23 14:38:16",
+      "album": {
+        "name": "Burn The Ships",
+        "url": "https://open.spotify.com/album/5eDLHSsctG7CccVeYSTLeh"
+      },
+      "artists": [
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        }
+      ],
+      "duration_ms": 218106,
+      "name": "Fight On, Fighter",
+      "url": "https://open.spotify.com/track/7lPM8uXuIO5MDWv6L0TPaZ"
     },
     {
       "added_at": "2020-07-23 14:38:16",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
-        "name": "The Elements",
-        "url": "https://open.spotify.com/album/7th3D4IFJFSGajVlS4DheM"
-      },
-      "artists": [
-        {
-          "name": "TobyMac",
-          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
-        }
-      ],
-      "duration_ms": 261399,
-      "name": "Scars (Come With Livin')",
-      "url": "https://open.spotify.com/track/5CYMOjWrVWZqHGv2ObF5mr"
-    },
-    {
-      "added_at": "2020-07-23 14:38:16",
-      "album": {
         "name": "Miracle or Not",
         "url": "https://open.spotify.com/album/5WTM5xqmH7aJYkDStZf7h4"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 243269,
       "name": "My Prayer For You",
       "url": "https://open.spotify.com/track/0h4Rk0OJbf4tvUqtHLo4UE"
+    },
+    {
+      "added_at": "2020-07-23 14:38:16",
+      "album": {
+        "name": "The Elements",
+        "url": "https://open.spotify.com/album/7th3D4IFJFSGajVlS4DheM"
+      },
+      "artists": [
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        }
+      ],
+      "duration_ms": 261399,
+      "name": "Scars (Come With Livin')",
+      "url": "https://open.spotify.com/track/5CYMOjWrVWZqHGv2ObF5mr"
     },
     {
       "added_at": "2020-07-23 14:38:16",

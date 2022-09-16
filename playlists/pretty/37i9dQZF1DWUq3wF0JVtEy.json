@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out. ",
-  "num_followers": 850719,
+  "num_followers": 850918,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5NjAwMCwwMDAwMDAwMDg1MjliYWU4MTYxMWE3M2NkNjg5NjIwZGMzMjNhOTg5",
+  "snapshot_id": "MTY2MjY5NjAwMCwwMDAwMDAwMGUxMjBkM2I5NWZkNGI2ZGRkNjc0NTViODBmYjNmZTIy",
   "tracks": [
     {
       "added_at": "2022-08-12 04:00:00",
@@ -591,26 +591,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Way It Is",
-        "url": "https://open.spotify.com/album/3eh4ktE7LJNFljqBMn0ZnO"
-      },
-      "artists": [
-        {
-          "name": "Mr. Belt & Wezol",
-          "url": "https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6"
-        },
-        {
-          "name": "RSCL",
-          "url": "https://open.spotify.com/artist/5pkU7zjIzHgfN1n91e51r3"
-        }
-      ],
-      "duration_ms": 192905,
-      "name": "Way It Is",
-      "url": "https://open.spotify.com/track/2dwnD6tMYqp8zQmfg1XvNQ"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Afterbloom (feat. Deza)",
         "url": "https://open.spotify.com/album/4VHGQcaaY2tPDJnSzt6IEm"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 154838,
       "name": "Afterbloom (feat. Deza)",
       "url": "https://open.spotify.com/track/6DploCSZVf5gvIP7WBBU6S"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Way It Is",
+        "url": "https://open.spotify.com/album/3eh4ktE7LJNFljqBMn0ZnO"
+      },
+      "artists": [
+        {
+          "name": "Mr. Belt & Wezol",
+          "url": "https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6"
+        },
+        {
+          "name": "RSCL",
+          "url": "https://open.spotify.com/artist/5pkU7zjIzHgfN1n91e51r3"
+        }
+      ],
+      "duration_ms": 192905,
+      "name": "Way It Is",
+      "url": "https://open.spotify.com/track/2dwnD6tMYqp8zQmfg1XvNQ"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -901,6 +901,22 @@
       "url": "https://open.spotify.com/track/2EQgtNy4r3nNhp8kruQMaQ"
     },
     {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "All That You Need",
+        "url": "https://open.spotify.com/album/1e5Rj4woY91M2jw7lNUMBt"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 160312,
+      "name": "All That You Need",
+      "url": "https://open.spotify.com/track/7K8B2mdPHwZKhyShkl55Bh"
+    },
+    {
       "added_at": "2022-08-12 04:00:00",
       "album": {
         "name": "Fly With Us",
@@ -947,6 +963,22 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "Safe & Sound",
+        "url": "https://open.spotify.com/album/2ycU4CH1H9bT73DQnd2EpX"
+      },
+      "artists": [
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        }
+      ],
+      "duration_ms": 200166,
+      "name": "Safe & Sound - Radio Edit",
+      "url": "https://open.spotify.com/track/6hgIDN5RsdT3ujELVkZKGO"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "Tonight",
         "url": "https://open.spotify.com/album/7erfcSAjDkFRRHo4bTsXit"
       },
@@ -967,22 +999,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Safe & Sound",
-        "url": "https://open.spotify.com/album/2ycU4CH1H9bT73DQnd2EpX"
-      },
-      "artists": [
-        {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
-        }
-      ],
-      "duration_ms": 200166,
-      "name": "Safe & Sound - Radio Edit",
-      "url": "https://open.spotify.com/track/6hgIDN5RsdT3ujELVkZKGO"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Flexin",
         "url": "https://open.spotify.com/album/2ccwQt8ZBTclkUZawxmrUn"
       },
@@ -999,18 +1015,18 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "How it is",
-        "url": "https://open.spotify.com/album/2DjP7cXRnwyry7ji5iVYcc"
+        "name": "Joi",
+        "url": "https://open.spotify.com/album/5EBb7SSkPgxO9Lmt8NjAPT"
       },
       "artists": [
         {
-          "name": "Malaa",
-          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+          "name": "Funkin Matt",
+          "url": "https://open.spotify.com/artist/11chB4Th19iMA7j65oGMk1"
         }
       ],
-      "duration_ms": 181935,
-      "name": "How it is",
-      "url": "https://open.spotify.com/track/7HQEKWXO8oGMvnGSvhRK4j"
+      "duration_ms": 216340,
+      "name": "Joi",
+      "url": "https://open.spotify.com/track/3olgZmF1O7MHpv76iHmDDf"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1033,20 +1049,40 @@
       "url": "https://open.spotify.com/track/1mcKSOFFc19eci3MVpMLEu"
     },
     {
-      "added_at": "2022-08-12 04:00:00",
+      "added_at": "2022-09-02 04:01:00",
       "album": {
-        "name": "Joi",
-        "url": "https://open.spotify.com/album/5EBb7SSkPgxO9Lmt8NjAPT"
+        "name": "Night Shift",
+        "url": "https://open.spotify.com/album/5bjUYlYhUdopRQw4Lq4cKT"
       },
       "artists": [
         {
-          "name": "Funkin Matt",
-          "url": "https://open.spotify.com/artist/11chB4Th19iMA7j65oGMk1"
+          "name": "One True God",
+          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
+        },
+        {
+          "name": "MASTERIA",
+          "url": "https://open.spotify.com/artist/1cI5bP7j48xbopq0T3PRZO"
         }
       ],
-      "duration_ms": 216340,
-      "name": "Joi",
-      "url": "https://open.spotify.com/track/3olgZmF1O7MHpv76iHmDDf"
+      "duration_ms": 230625,
+      "name": "Night Shift",
+      "url": "https://open.spotify.com/track/1wxgWPF7uUr9aHDC9QuMEO"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "How it is",
+        "url": "https://open.spotify.com/album/2DjP7cXRnwyry7ji5iVYcc"
+      },
+      "artists": [
+        {
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+        }
+      ],
+      "duration_ms": 181935,
+      "name": "How it is",
+      "url": "https://open.spotify.com/track/7HQEKWXO8oGMvnGSvhRK4j"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1067,26 +1103,6 @@
       "duration_ms": 149219,
       "name": "Gotta Let U Go",
       "url": "https://open.spotify.com/track/4Vq7Yn4AyMqIll2Xh5waNl"
-    },
-    {
-      "added_at": "2022-09-02 04:01:00",
-      "album": {
-        "name": "Night Shift",
-        "url": "https://open.spotify.com/album/5bjUYlYhUdopRQw4Lq4cKT"
-      },
-      "artists": [
-        {
-          "name": "One True God",
-          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
-        },
-        {
-          "name": "MASTERIA",
-          "url": "https://open.spotify.com/artist/1cI5bP7j48xbopq0T3PRZO"
-        }
-      ],
-      "duration_ms": 230625,
-      "name": "Night Shift",
-      "url": "https://open.spotify.com/track/1wxgWPF7uUr9aHDC9QuMEO"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1205,22 +1221,6 @@
       "url": "https://open.spotify.com/track/4mYWE9Agg0hvKuaOaej6vF"
     },
     {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "All That You Need",
-        "url": "https://open.spotify.com/album/1e5Rj4woY91M2jw7lNUMBt"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 160312,
-      "name": "All That You Need",
-      "url": "https://open.spotify.com/track/7K8B2mdPHwZKhyShkl55Bh"
-    },
-    {
       "added_at": "2022-08-12 04:00:00",
       "album": {
         "name": "Crystallise",
@@ -1239,6 +1239,22 @@
       "duration_ms": 182612,
       "name": "Crystallise",
       "url": "https://open.spotify.com/track/7jJfACKhaxK3kF3bda6AVS"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Cheque",
+        "url": "https://open.spotify.com/album/60wvUC6xVoV8ZXeoW7sP1g"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 165245,
+      "name": "Cheque",
+      "url": "https://open.spotify.com/track/1CE0qHhs1ptJg01dGROO2c"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1299,26 +1315,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Make a Living",
-        "url": "https://open.spotify.com/album/0mZM7b4W6xWvPyKeNNrF3p"
-      },
-      "artists": [
-        {
-          "name": "YouNotUs",
-          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
-        },
-        {
-          "name": "Plastik Funk",
-          "url": "https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v"
-        }
-      ],
-      "duration_ms": 177798,
-      "name": "Make a Living",
-      "url": "https://open.spotify.com/track/5VlY1cabCZa9YQ9JtLhFlP"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "demolition (Ruined by Glass Petals)",
         "url": "https://open.spotify.com/album/5CN8SCIeJGzrG8efIbfjgo"
       },
@@ -1339,6 +1335,26 @@
       "duration_ms": 226440,
       "name": "demolition (Ruined by Glass Petals)",
       "url": "https://open.spotify.com/track/5ylMA5GG8VDjcYUGts2QNt"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Make a Living",
+        "url": "https://open.spotify.com/album/0mZM7b4W6xWvPyKeNNrF3p"
+      },
+      "artists": [
+        {
+          "name": "YouNotUs",
+          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
+        },
+        {
+          "name": "Plastik Funk",
+          "url": "https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v"
+        }
+      ],
+      "duration_ms": 177798,
+      "name": "Make a Living",
+      "url": "https://open.spotify.com/track/5VlY1cabCZa9YQ9JtLhFlP"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1419,22 +1435,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Cheque",
-        "url": "https://open.spotify.com/album/60wvUC6xVoV8ZXeoW7sP1g"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 165245,
-      "name": "Cheque",
-      "url": "https://open.spotify.com/track/1CE0qHhs1ptJg01dGROO2c"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Power Stone",
         "url": "https://open.spotify.com/album/6no9wONT4kamphMKX8DyG0"
       },
@@ -1447,26 +1447,6 @@
       "duration_ms": 167272,
       "name": "Power Stone",
       "url": "https://open.spotify.com/track/5FufznQatRZsjumawlLbbo"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Loose",
-        "url": "https://open.spotify.com/album/3aoDtHvUeQUpFcwBG5IeoD"
-      },
-      "artists": [
-        {
-          "name": "CLiQ",
-          "url": "https://open.spotify.com/artist/2IQIEHvL14Tj7vOKHbIMMj"
-        },
-        {
-          "name": "Team Salut",
-          "url": "https://open.spotify.com/artist/2QoOImOYDWU4i2DyQoLVAH"
-        }
-      ],
-      "duration_ms": 151475,
-      "name": "Loose",
-      "url": "https://open.spotify.com/track/5c2KynltsWD6agVEbaHwof"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1503,6 +1483,26 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "Loose",
+        "url": "https://open.spotify.com/album/3aoDtHvUeQUpFcwBG5IeoD"
+      },
+      "artists": [
+        {
+          "name": "CLiQ",
+          "url": "https://open.spotify.com/artist/2IQIEHvL14Tj7vOKHbIMMj"
+        },
+        {
+          "name": "Team Salut",
+          "url": "https://open.spotify.com/artist/2QoOImOYDWU4i2DyQoLVAH"
+        }
+      ],
+      "duration_ms": 151475,
+      "name": "Loose",
+      "url": "https://open.spotify.com/track/5c2KynltsWD6agVEbaHwof"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "Hypno",
         "url": "https://open.spotify.com/album/6aeAzL8ytjwJ0L4HGwZJP8"
       },
@@ -1531,6 +1531,38 @@
       "duration_ms": 161951,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/4RXw5GRcFbOCmWQ85oEguu"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "LEFT TO RIGHT",
+        "url": "https://open.spotify.com/album/4H59uwAu61DMDtHwZxAhy3"
+      },
+      "artists": [
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        }
+      ],
+      "duration_ms": 146250,
+      "name": "LEFT TO RIGHT",
+      "url": "https://open.spotify.com/track/2IyT4A7X7QYMAhEK6etsi3"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Midnight",
+        "url": "https://open.spotify.com/album/5xONA3ROlUquCv7IYc6Do3"
+      },
+      "artists": [
+        {
+          "name": "Interupt",
+          "url": "https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I"
+        }
+      ],
+      "duration_ms": 199384,
+      "name": "Midnight",
+      "url": "https://open.spotify.com/track/0tjviLADqxF7DtolJgJLf1"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1577,22 +1609,6 @@
       "url": "https://open.spotify.com/track/2xNxxDFIoCBIUYlTNK8oiU"
     },
     {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Midnight",
-        "url": "https://open.spotify.com/album/5xONA3ROlUquCv7IYc6Do3"
-      },
-      "artists": [
-        {
-          "name": "Interupt",
-          "url": "https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I"
-        }
-      ],
-      "duration_ms": 199384,
-      "name": "Midnight",
-      "url": "https://open.spotify.com/track/0tjviLADqxF7DtolJgJLf1"
-    },
-    {
       "added_at": "2022-09-02 04:01:00",
       "album": {
         "name": "Noise",
@@ -1609,20 +1625,20 @@
       "url": "https://open.spotify.com/track/1VqDOw9oGH0pExiKzzeRXE"
     },
     {
-      "added_at": "2022-08-26 04:01:00",
+      "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "LEFT TO RIGHT",
-        "url": "https://open.spotify.com/album/4H59uwAu61DMDtHwZxAhy3"
+        "name": "High",
+        "url": "https://open.spotify.com/album/7Jy8pNJlP3oWDeKIsFMquQ"
       },
       "artists": [
         {
-          "name": "Odd Mob",
-          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
         }
       ],
-      "duration_ms": 146250,
-      "name": "LEFT TO RIGHT",
-      "url": "https://open.spotify.com/track/2IyT4A7X7QYMAhEK6etsi3"
+      "duration_ms": 192520,
+      "name": "High",
+      "url": "https://open.spotify.com/track/0a6fl7K59Exm2hx0RKPJeE"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1639,22 +1655,6 @@
       "duration_ms": 211163,
       "name": "Policia",
       "url": "https://open.spotify.com/track/6AqlZeTJGRHuRKUAbc9kqP"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "High",
-        "url": "https://open.spotify.com/album/7Jy8pNJlP3oWDeKIsFMquQ"
-      },
-      "artists": [
-        {
-          "name": "Habstrakt",
-          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
-        }
-      ],
-      "duration_ms": 192520,
-      "name": "High",
-      "url": "https://open.spotify.com/track/0a6fl7K59Exm2hx0RKPJeE"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1763,30 +1763,18 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Whisper (with James Yuill) [John Summit Remix]",
-        "url": "https://open.spotify.com/album/2Lp800ReDqK18AxCzCaT24"
+        "name": "Get This Party Jumpin'",
+        "url": "https://open.spotify.com/album/0Hx311oNGTzDIi6eJOS4wD"
       },
       "artists": [
         {
-          "name": "Dennis Ferrer",
-          "url": "https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi"
-        },
-        {
-          "name": "Disciples",
-          "url": "https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB"
-        },
-        {
-          "name": "James Yuill",
-          "url": "https://open.spotify.com/artist/0jypmaLN034G9UkeQdqsps"
-        },
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+          "name": "Croatia Squad",
+          "url": "https://open.spotify.com/artist/3FAUGHLioXySQ1QTnCOWQC"
         }
       ],
-      "duration_ms": 184271,
-      "name": "Whisper (with James Yuill) - John Summit Remix",
-      "url": "https://open.spotify.com/track/04mYhQGTujxxPjPzxRrgTL"
+      "duration_ms": 202885,
+      "name": "Get This Party Jumpin'",
+      "url": "https://open.spotify.com/track/4ynbqZykOfiYZx6OV5QJI2"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1815,18 +1803,30 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Get This Party Jumpin'",
-        "url": "https://open.spotify.com/album/0Hx311oNGTzDIi6eJOS4wD"
+        "name": "Whisper (with James Yuill) [John Summit Remix]",
+        "url": "https://open.spotify.com/album/2Lp800ReDqK18AxCzCaT24"
       },
       "artists": [
         {
-          "name": "Croatia Squad",
-          "url": "https://open.spotify.com/artist/3FAUGHLioXySQ1QTnCOWQC"
+          "name": "Dennis Ferrer",
+          "url": "https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi"
+        },
+        {
+          "name": "Disciples",
+          "url": "https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB"
+        },
+        {
+          "name": "James Yuill",
+          "url": "https://open.spotify.com/artist/0jypmaLN034G9UkeQdqsps"
+        },
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
         }
       ],
-      "duration_ms": 202885,
-      "name": "Get This Party Jumpin'",
-      "url": "https://open.spotify.com/track/4ynbqZykOfiYZx6OV5QJI2"
+      "duration_ms": 184271,
+      "name": "Whisper (with James Yuill) - John Summit Remix",
+      "url": "https://open.spotify.com/track/04mYhQGTujxxPjPzxRrgTL"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1847,6 +1847,26 @@
       "duration_ms": 181875,
       "name": "End of Slaphouse",
       "url": "https://open.spotify.com/track/06Pb2d8P6wAaGyrRUYOFJc"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Illusion",
+        "url": "https://open.spotify.com/album/1K5HiEm4XcBAxxrk0afaQE"
+      },
+      "artists": [
+        {
+          "name": "BEAUZ",
+          "url": "https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT"
+        },
+        {
+          "name": "Crunr",
+          "url": "https://open.spotify.com/artist/6NpDx4k32E3pChXfXeDVTr"
+        }
+      ],
+      "duration_ms": 197760,
+      "name": "Illusion",
+      "url": "https://open.spotify.com/track/2Uk3eji99feKwQWknWUx4P"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1923,22 +1943,6 @@
       "duration_ms": 189965,
       "name": "Strut - Sofi Tukker Remix",
       "url": "https://open.spotify.com/track/2XUX1LmtKEISX9Xy0P9lq1"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "When We Were Young / Gimme Some Keys",
-        "url": "https://open.spotify.com/album/5zuC9jHTz4CZse0rPGyjkm"
-      },
-      "artists": [
-        {
-          "name": "Matroda",
-          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
-        }
-      ],
-      "duration_ms": 191158,
-      "name": "When We Were Young",
-      "url": "https://open.spotify.com/track/5HfQ06QixaFMBV6Rjb37V0"
     }
   ],
   "unique_name": "Shuffle Syndrome",

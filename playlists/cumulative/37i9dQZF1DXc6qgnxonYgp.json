@@ -2598,6 +2598,24 @@
     },
     {
       "album": {
+        "name": "Stable In The Game",
+        "url": "https://open.spotify.com/album/5EVnoFdYVMuYdTWf3kzjCl"
+      },
+      "artists": [
+        {
+          "name": "NST",
+          "url": "https://open.spotify.com/artist/2Wx5FlNIkierRtyOi1Arc5"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203588,
+      "name": "Stable In The Game",
+      "url": "https://open.spotify.com/track/3f2ItBv79rxtFovyBeGn2c"
+    },
+    {
+      "album": {
         "name": "Start That Thiruvizha",
         "url": "https://open.spotify.com/album/4EHNwF0djcMdsfqBZ8nzsO"
       },

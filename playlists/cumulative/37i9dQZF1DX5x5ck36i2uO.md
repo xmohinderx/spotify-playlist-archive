@@ -4,7 +4,7 @@
 
 > 부드럽고 고급스러운 재즈향이 가미된 힙합음악을 즐겨보세요.
 
-151 songs - 8 hr 45 min - [published](https://open.spotify.com/playlist/0JIQYIs8BcYEYxPxINEZdb)
+152 songs - 8 hr 48 min - [published](https://open.spotify.com/playlist/0JIQYIs8BcYEYxPxINEZdb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Getaway](https://open.spotify.com/track/5ZLoqS8BNKZzPdG1VoktCj) | [Khundi Panda](https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU) | [GAROSAWK](https://open.spotify.com/album/4WXMcC4tSLWowFlX67HMwi) | 3:59 | 2022-06-20 | 2022-07-15 |
 | [Girl in New York \(jazz\)](https://open.spotify.com/track/19IE0jlhDD1xpF4XWBTGN9) | [BLOO](https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1) | [MOON AND BACK](https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX) | 4:00 | 2022-05-11 |  |
 | [GOOD NIGHT](https://open.spotify.com/track/0CxMRR6CxLboQdmMPUWoPm) | [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9), [B\-Free](https://open.spotify.com/artist/5xHC23kCM6goKp7bDDXE3T) | [TRAVEL: NOAH](https://open.spotify.com/album/7paPIIEBNYB1Mtnshg6kvB) | 3:35 | 2022-05-11 | 2022-07-27 |
-| [GOOD NIGHT](https://open.spotify.com/track/1mVr7cmhQIoLt4u0BR8x57) | [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9), [B\-Free](https://open.spotify.com/artist/5xHC23kCM6goKp7bDDXE3T) | [TRAVEL: NOAH](https://open.spotify.com/album/4JgE4ZTDBxLbXt8v1R6UB5) | 3:35 | 2022-07-22 |  |
+| [GOOD NIGHT](https://open.spotify.com/track/1mVr7cmhQIoLt4u0BR8x57) | [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9), [B\-Free](https://open.spotify.com/artist/5xHC23kCM6goKp7bDDXE3T) | [TRAVEL: NOAH](https://open.spotify.com/album/4JgE4ZTDBxLbXt8v1R6UB5) | 3:35 | 2022-07-22 | 2022-09-16 |
 | [Good night night \(Feat\. pH\-1\)](https://open.spotify.com/track/5u0aDrolL0ZOElpoeizsdE) | [Don Malik](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [PAID IN SEOUL](https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F) | 2:48 | 2022-05-11 |  |
 | [Green Thumb](https://open.spotify.com/track/1AF238PPGmau0Y9AV13Fp2) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [Green Thumb](https://open.spotify.com/album/6dC3Lpvf5aEGVzdYaY3iwV) | 3:05 | 2022-06-09 |  |
 | [gucci girl](https://open.spotify.com/track/1mqwUoKBZ0oci8NfA9czVG) | [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr) | [u n u part\. 1](https://open.spotify.com/album/1uh4mxq9YJpKUAmX7eoTkB) | 3:20 | 2022-05-11 | 2022-07-29 |
@@ -156,6 +156,7 @@
 | [yessir \(feat\. unofficialboyy\)](https://open.spotify.com/track/7zVfVjF4oazPhsDQSo8PEs) | [gamma](https://open.spotify.com/artist/0wwLWUeZfiDyXncBoBYkQ3), [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o) | [ARIA II : Vendetta](https://open.spotify.com/album/0mNJrHxXLpCvBmPfvWSLTf) | 2:04 | 2022-06-03 | 2022-06-17 |
 | [You \(Prod\. DJ Wegun\)](https://open.spotify.com/track/2oRLNoPkQg8EGEbcUuhIM2) | [Owen](https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO) | [P.O.E.M\. Ⅲ](https://open.spotify.com/album/0MD5NHw7hr1J1uwkp9S16C) | 3:12 | 2022-05-11 | 2022-07-11 |
 | [You and Me](https://open.spotify.com/track/2sSMk1fkcz6rTKaQn711yz) | [Nucksal](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB), [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [1Q87](https://open.spotify.com/album/4sSV6SA4ubFpNm62W8KYRr) | 3:10 | 2022-05-11 | 2022-07-29 |
+| [너와 나](https://open.spotify.com/track/2olvuxBSILBXb2L2brRJzR) | [Nucksal](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB), [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [1Q87](https://open.spotify.com/album/6PopAFrTktanfRYFQK256w) | 3:10 | 2022-07-22 |  |
 | [변하지 않아](https://open.spotify.com/track/1FsgCGr5ftxKkvlQFAaInV) | [Rohann](https://open.spotify.com/artist/10jo9gGaXEw8lAgB3gK0c1), [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [NEVERLAND](https://open.spotify.com/album/2pk89iEVjniYqNAZNxWDx5) | 4:03 | 2022-07-22 |  |
 | [알아 I Know](https://open.spotify.com/track/0STz6MbfIfyuHPqvMq8rcO) | [Primary](https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep), [SUMIN](https://open.spotify.com/artist/1LgOgkuv81qxcGBg9rJhjf) | [신인류 \(Shininryu\)](https://open.spotify.com/album/25DwzsTZrbsUWFK2FYf0Mp) | 3:30 | 2022-06-03 | 2022-07-25 |
 | [출항사](https://open.spotify.com/track/20vXwDh04U2mqDLaGNPk0R) | [Bassagong](https://open.spotify.com/artist/7j1lNIjZY1E1drWIgJloMs) | [출항사](https://open.spotify.com/album/6iQkZLuBKRlG2F3ORaFUOS) | 3:18 | 2022-06-03 | 2022-07-09 |

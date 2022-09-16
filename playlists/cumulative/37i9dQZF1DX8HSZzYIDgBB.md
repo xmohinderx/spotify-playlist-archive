@@ -4,7 +4,7 @@
 
 > Los nuevos sonidos y fusiones de música Alternativa Latina, con Pahua en portada.
 
-172 songs - 10 hr 25 min - [published](https://open.spotify.com/playlist/14AX2AOMCBOX7NLvLNkMVH)
+174 songs - 10 hr 30 min - [published](https://open.spotify.com/playlist/14AX2AOMCBOX7NLvLNkMVH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Arte](https://open.spotify.com/track/6yaF6scGezCZ2E5telmJpZ) | [Safree](https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL) | [Arte](https://open.spotify.com/album/6cgGOkq1ctjIMsIuSyHOPj) | 3:36 | 2022-08-02 |  |
 | [Atómico](https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw) | [Jungle Fire](https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby) | [Jungle Fire](https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7) | 3:49 | 2021-10-05 | 2022-04-10 |
 | [Bailando Lento](https://open.spotify.com/track/36smaXbDxNC3RVQZsZW3By) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [Bailando Lento](https://open.spotify.com/album/2aD0hm7zQwY6Qw2lhlvlhq) | 3:17 | 2021-10-05 |  |
+| [Baile Infinito](https://open.spotify.com/track/1k14lnPXq7oTS03YFcwjzq) | [Weste](https://open.spotify.com/artist/5TlgMX2qZVaWy2JI12tK2q) | [Visceras](https://open.spotify.com/album/7gklIEvQSc5xeaSWVNlH3j) | 1:41 | 2022-09-15 |  |
 | [Bonito](https://open.spotify.com/track/0QvLRuiBiNN1BWa2oVKvNA) | [Mau Moctezuma](https://open.spotify.com/artist/1oSRId8yJK5I7KMtD5gp3q), [Pedrina](https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1) | [Bonito](https://open.spotify.com/album/6LyiWORGEUBMbphHMdZNSL) | 3:03 | 2022-02-25 |  |
 | [Calle Brasil](https://open.spotify.com/track/5Yp11ERdglGeV2akmFrhtU) | [El General Villamil](https://open.spotify.com/artist/4GxlWANYiVFKSVePnKnDWH) | [Los Playa Vol\. 1](https://open.spotify.com/album/61vafBpcTWyrolKZCND8lq) | 3:20 | 2022-02-11 |  |
 | [Canoas](https://open.spotify.com/track/7IUGR0FsJjrME1T9fmN2Ig) | [BALTHVS](https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG) | [Canoas](https://open.spotify.com/album/2aRUgi8wUIUxzgO5VEOCDv) | 4:57 | 2022-02-25 |  |
@@ -80,6 +81,7 @@
 | [Humedad](https://open.spotify.com/track/4FG5aqW3ii8uwi6ghYkhUQ) | [Don Couto](https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN) | [ELCANO](https://open.spotify.com/album/6NX6KCQs8KEJIAA207IhAw) | 4:17 | 2022-04-05 |  |
 | [Ildé Pa’ Beberte](https://open.spotify.com/track/59sYzy6WyqIzHQS2bH32cy) | [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N) | [Ildé Pa’ Beberte](https://open.spotify.com/album/7CDuf3GTMDB759dQwH0yPw) | 3:28 | 2021-10-05 | 2022-07-28 |
 | [Ildé Pa’ Beberte](https://open.spotify.com/track/5oKi2idPWZmWbpmIkYgvDc) | [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N) | [Ildé Pa’ Beberte](https://open.spotify.com/album/1QX928uCKilM7KCE9G0xhO) | 3:28 | 2021-10-05 |  |
+| [Joyas](https://open.spotify.com/track/7HuyjEAR0uhAvzfDLpsOHO) | [Valgur](https://open.spotify.com/artist/0HHh73DHIGrZjm3dADNdcH) | [Joyas](https://open.spotify.com/album/7aNoysMFjBa4Nxy4XQcoqN) | 2:52 | 2022-09-15 |  |
 | [Kiss the frog](https://open.spotify.com/track/60eVoxEcP76xEUAnriUpB0) | [Afrodita](https://open.spotify.com/artist/63b3XLtJeDkzJqg6yQWCYm), [Asagi Saundo](https://open.spotify.com/artist/54X6HgtuXxwfT1QBhwwgMU) | [New Latam Beats from Mexico Curated by Diguital Trip](https://open.spotify.com/album/3T4SxLhzVaweReuWbisvrz) | 7:14 | 2022-04-12 |  |
 | [La Cura](https://open.spotify.com/track/0UVwUs9TMKgee3kvE2uMxC) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Gizmo Varillas](https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj) | [La Cura](https://open.spotify.com/album/0SMT9ClQIEh49gPEIPH1Nf) | 3:01 | 2021-10-05 |  |
 | [La Jefa](https://open.spotify.com/track/236wgliGujRrMfPPCzncbd) | [Nancy Sanchez](https://open.spotify.com/artist/3FnN68S1l5aiLy9TMpGx8i), [Joelii](https://open.spotify.com/artist/0wSQpwa2cKXukzGMH7WooV) | [La Jefa](https://open.spotify.com/album/3vQExkPfg4cunfATYrGwc5) | 2:27 | 2022-03-10 | 2022-04-21 |
@@ -134,7 +136,7 @@
 | [Paraguaya \- En Vivo](https://open.spotify.com/track/2lw9zOr22G17OIsIDhtPPf) | [Juana Molina](https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3) | [ANRMAL \(En Vivo\)](https://open.spotify.com/album/2PBK1zRRzjilywQ6yOEqPZ) | 3:43 | 2021-10-05 | 2022-07-29 |
 | [Parque de Bugambilias](https://open.spotify.com/track/2AySbhync5bZgZ11BHXgJt) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M), [Dengue Dengue Dengue](https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG) | [Parque de Bugambilias](https://open.spotify.com/album/2ZZd2fsm21NI6U3CYbxeW9) | 2:33 | 2021-10-05 | 2022-04-23 |
 | [Penas con Pan](https://open.spotify.com/track/0va257dK5KpE35Gd2EHH7E) | [La Doña](https://open.spotify.com/artist/5eBVoDUYv0feTepoBSz4SJ) | [Penas con Pan](https://open.spotify.com/album/7nxJz9F14aEwdO7eyq7qmb) | 1:43 | 2022-03-11 | 2022-08-09 |
-| [Perdida En Un Sueño](https://open.spotify.com/track/1wRVAinPRWyR67BD7DIlRJ) | [highgates](https://open.spotify.com/artist/6GXhi2fBJnA3c7OOcqILln), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Perdida En Un Sueño](https://open.spotify.com/album/16dfrsHTy1aqUMm8qoknPz) | 2:34 | 2021-10-05 |  |
+| [Perdida En Un Sueño](https://open.spotify.com/track/1wRVAinPRWyR67BD7DIlRJ) | [highgates](https://open.spotify.com/artist/6GXhi2fBJnA3c7OOcqILln), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Perdida En Un Sueño](https://open.spotify.com/album/16dfrsHTy1aqUMm8qoknPz) | 2:34 | 2021-10-05 | 2022-09-16 |
 | [Plata y Coral](https://open.spotify.com/track/2Dp8xi4bBcOQK3FmvpWrNR) | [Centavrvs](https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo) | [Plata y Coral](https://open.spotify.com/album/1Pe9A9g7Ec1L0e7djWa9SP) | 4:00 | 2022-01-21 |  |
 | [Portales](https://open.spotify.com/track/0OyNMy87wNsHua1EvEeDl3) | [Kaleema](https://open.spotify.com/artist/7o5v2sjfFaMOgUKtfMQRWW) | [Útera](https://open.spotify.com/album/0t49uyMILALgWUltHuraYc) | 4:10 | 2021-10-05 |  |
 | [PSILOCIBINA](https://open.spotify.com/track/1Grn6fk4cXX55XoimiQ6iL) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [PSILOCIBINA](https://open.spotify.com/album/1BcPj1Wvt5tvVGD1o7bj99) | 3:17 | 2021-10-05 |  |
@@ -166,7 +168,7 @@
 | [Todo el Día en la Cama](https://open.spotify.com/track/6TckoX2KeK1hK7wPfdT0zo) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Sorpresa](https://open.spotify.com/album/4clIaqyIpJOku2E6VNnwy2) | 4:16 | 2021-10-05 |  |
 | [Towards The Mountain](https://open.spotify.com/track/4CvfQTMaKGGD7eR5tIDrT7) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [El Sonido Nuevo de](https://open.spotify.com/album/5bp7bVrqq6t71CWU9KSmu5) | 3:20 | 2022-03-30 |  |
 | [Towards The Mountain](https://open.spotify.com/track/4Wp7sd3BXs68y8qhEl2Ixa) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [El Sonido Nuevo de](https://open.spotify.com/album/1UHFfBD2kb9JeUcnQqsOUh) | 3:20 | 2022-03-30 | 2022-07-29 |
-| [Tu Color](https://open.spotify.com/track/4vaVD9B0RbZ0Puk9ABIGEm) | [BUDAYA](https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U) | [Tu Color](https://open.spotify.com/album/2Ga9wGIWzo7m9vnPEkxt1m) | 3:46 | 2022-04-09 |  |
+| [Tu Color](https://open.spotify.com/track/4vaVD9B0RbZ0Puk9ABIGEm) | [BUDAYA](https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U) | [Tu Color](https://open.spotify.com/album/2Ga9wGIWzo7m9vnPEkxt1m) | 3:46 | 2022-04-09 | 2022-09-16 |
 | [Tártaro](https://open.spotify.com/track/0gH3JQ2qEulnQXmw8ig5U5) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [EP II](https://open.spotify.com/album/735mM1CtmQAiWX1yaNtda5) | 3:43 | 2022-05-27 |  |
 | [Ultramar](https://open.spotify.com/track/2AmjYY3ZCmMeIYnvXQZokj) | [Vicente Jáuregui](https://open.spotify.com/artist/0tKbVcaRHN7QplkBvX1Is9), [Álamo Paraíso](https://open.spotify.com/artist/57aJ11lcLJc9TV0Vi3Abj4) | [Ultramar](https://open.spotify.com/album/1ADt93t1NRHPhPE36MPsOE) | 4:24 | 2022-07-15 |  |
 | [Un Manhattan](https://open.spotify.com/track/6n7X5k9JjHdREzjEVybBfl) | [Lázaro Cristóbal Comala](https://open.spotify.com/artist/1EMhjuJCWlHrX2owpcwvTK) | [Belmont](https://open.spotify.com/album/797ZnganZpmTHcULejYwDt) | 2:48 | 2022-07-13 |  |

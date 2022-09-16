@@ -1,12 +1,12 @@
 {
   "description": "Detroit <a href=\"spotify:genre:techno\">Techno</a> Essentials. Cover: DJ Minx.",
-  "num_followers": 67966,
+  "num_followers": 68013,
   "original_name": "Detroit Techno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ4MDI2OCwwMDAwMDAwMGYxOTEzODIxMDQ5MWRjMGJiOGY4YTc2MzI4NjE5ZTZj",
+  "snapshot_id": "MTY1ODQ4MDI2OCwwMDAwMDAwMGU5NDM1OTZjZTNhNWQxOTJiMTdlYjdiNzNmNDI0Y2E4",
   "tracks": [
     {
       "added_at": "2022-07-22 08:57:48",
@@ -159,22 +159,6 @@
     {
       "added_at": "2022-07-22 08:57:48",
       "album": {
-        "name": "Never Grow Old (Re-Plant) / Phobia (Re-Plant)",
-        "url": "https://open.spotify.com/album/7nIB2qmP6H7svgk8bIaQC2"
-      },
-      "artists": [
-        {
-          "name": "Floorplan",
-          "url": "https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies"
-        }
-      ],
-      "duration_ms": 439929,
-      "name": "Never Grow Old - Re-Plant",
-      "url": "https://open.spotify.com/track/4ylwhtHT57G5VbpVMyUIBR"
-    },
-    {
-      "added_at": "2022-07-22 08:57:48",
-      "album": {
         "name": "Silentintroduction",
         "url": "https://open.spotify.com/album/1WuyO8qwthV94n8A4crVss"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 485306,
       "name": "I Can't Kick This Feeling When It Hits",
       "url": "https://open.spotify.com/track/2PmT3D5xmvVzZCf11L2ifX"
+    },
+    {
+      "added_at": "2022-07-22 08:57:48",
+      "album": {
+        "name": "Never Grow Old (Re-Plant) / Phobia (Re-Plant)",
+        "url": "https://open.spotify.com/album/7nIB2qmP6H7svgk8bIaQC2"
+      },
+      "artists": [
+        {
+          "name": "Floorplan",
+          "url": "https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies"
+        }
+      ],
+      "duration_ms": 439929,
+      "name": "Never Grow Old - Re-Plant",
+      "url": "https://open.spotify.com/track/4ylwhtHT57G5VbpVMyUIBR"
     },
     {
       "added_at": "2022-07-22 08:57:48",
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-07-22 08:57:48",
       "album": {
-        "name": "Psyche/BFC - DELUXE DIGITAL VERSION",
-        "url": "https://open.spotify.com/album/1Bb0ser2obQ8dLRfNAiO7U"
-      },
-      "artists": [
-        {
-          "name": "Psyche/BFC",
-          "url": "https://open.spotify.com/artist/0HyKkzt6higWFs5IwxSzrw"
-        }
-      ],
-      "duration_ms": 411999,
-      "name": "Elements",
-      "url": "https://open.spotify.com/track/2mLPPe67nRyoMSiRZyLsVr"
-    },
-    {
-      "added_at": "2022-07-22 08:57:48",
-      "album": {
         "name": "Into The Dark",
         "url": "https://open.spotify.com/album/7GJJnxx9JQVhMsT7MR0oNX"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 221199,
       "name": "Into The Dark",
       "url": "https://open.spotify.com/track/1RqAbR7LefLPPGeEKKukCk"
+    },
+    {
+      "added_at": "2022-07-22 08:57:48",
+      "album": {
+        "name": "Psyche/BFC - DELUXE DIGITAL VERSION",
+        "url": "https://open.spotify.com/album/1Bb0ser2obQ8dLRfNAiO7U"
+      },
+      "artists": [
+        {
+          "name": "Psyche/BFC",
+          "url": "https://open.spotify.com/artist/0HyKkzt6higWFs5IwxSzrw"
+        }
+      ],
+      "duration_ms": 411999,
+      "name": "Elements",
+      "url": "https://open.spotify.com/track/2mLPPe67nRyoMSiRZyLsVr"
     },
     {
       "added_at": "2022-07-22 08:57:48",

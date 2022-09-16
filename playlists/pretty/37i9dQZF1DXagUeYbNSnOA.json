@@ -1,12 +1,12 @@
 {
   "description": "Fresh releases from Latin independent artists and labels. Lanzamientos frescos de artistas y sellos latinxs independientes. Jaze on cover.",
-  "num_followers": 166714,
+  "num_followers": 166711,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjU3NDQ0NywwMDAwMDAwMDkzNTY2MDIwMDNjMmZmZTg3MGVmMzM4MGJmZGMwZWE5",
+  "snapshot_id": "MTY2MjU3NDQ0NywwMDAwMDAwMDRlYjZhZjNjOGFmYjEwY2JmMzc3OWM4YWQ1MzI1NjVj",
   "tracks": [
     {
       "added_at": "2022-09-07 18:14:07",
@@ -255,18 +255,18 @@
     {
       "added_at": "2022-09-07 18:14:07",
       "album": {
-        "name": "El Arte",
-        "url": "https://open.spotify.com/album/7Kd3CRCPa6FCjs5ldqCqxQ"
+        "name": "Repetici\u00f3n",
+        "url": "https://open.spotify.com/album/4ml39ShearVXanY2dd7HQ0"
       },
       "artists": [
         {
-          "name": "Laura P\u00e9rez",
-          "url": "https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58"
+          "name": "Jass Reyes",
+          "url": "https://open.spotify.com/artist/3iFcLV27WtmxR8CemVQRoF"
         }
       ],
-      "duration_ms": 205623,
-      "name": "El Arte",
-      "url": "https://open.spotify.com/track/0UMKCGCVxwVQbAHOC6NWZ0"
+      "duration_ms": 176320,
+      "name": "Repetici\u00f3n",
+      "url": "https://open.spotify.com/track/7EoJTbmhC0DopqfGhk7VPE"
     },
     {
       "added_at": "2022-09-07 18:14:07",
@@ -287,18 +287,18 @@
     {
       "added_at": "2022-09-07 18:14:07",
       "album": {
-        "name": "Repetici\u00f3n",
-        "url": "https://open.spotify.com/album/4ml39ShearVXanY2dd7HQ0"
+        "name": "El Arte",
+        "url": "https://open.spotify.com/album/7Kd3CRCPa6FCjs5ldqCqxQ"
       },
       "artists": [
         {
-          "name": "Jass Reyes",
-          "url": "https://open.spotify.com/artist/3iFcLV27WtmxR8CemVQRoF"
+          "name": "Laura P\u00e9rez",
+          "url": "https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58"
         }
       ],
-      "duration_ms": 176320,
-      "name": "Repetici\u00f3n",
-      "url": "https://open.spotify.com/track/7EoJTbmhC0DopqfGhk7VPE"
+      "duration_ms": 205623,
+      "name": "El Arte",
+      "url": "https://open.spotify.com/track/0UMKCGCVxwVQbAHOC6NWZ0"
     },
     {
       "added_at": "2022-09-07 18:14:07",
@@ -371,6 +371,22 @@
     {
       "added_at": "2022-09-07 18:14:07",
       "album": {
+        "name": "Yung Pradito",
+        "url": "https://open.spotify.com/album/2JQRLKGv6KJ9FKVT9GzbG6"
+      },
+      "artists": [
+        {
+          "name": "YUNG PRADO",
+          "url": "https://open.spotify.com/artist/0U0zpa0tZ4iAV6ypdDUm4I"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Quiero Volver a Repetir",
+      "url": "https://open.spotify.com/track/5Ts3L0IOOkzuIfVIzp3xfo"
+    },
+    {
+      "added_at": "2022-09-07 18:14:07",
+      "album": {
         "name": "Cecilia",
         "url": "https://open.spotify.com/album/04tPJyxfLKaTZ65DDZrd6p"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 214169,
       "name": "No Me Quieras Tanto",
       "url": "https://open.spotify.com/track/3SALW0JHFPsrk4WZGeqJA3"
-    },
-    {
-      "added_at": "2022-09-07 18:14:07",
-      "album": {
-        "name": "Yung Pradito",
-        "url": "https://open.spotify.com/album/2JQRLKGv6KJ9FKVT9GzbG6"
-      },
-      "artists": [
-        {
-          "name": "YUNG PRADO",
-          "url": "https://open.spotify.com/artist/0U0zpa0tZ4iAV6ypdDUm4I"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Quiero Volver a Repetir",
-      "url": "https://open.spotify.com/track/5Ts3L0IOOkzuIfVIzp3xfo"
     },
     {
       "added_at": "2022-09-07 18:14:07",
@@ -459,22 +459,6 @@
     {
       "added_at": "2022-09-07 18:14:07",
       "album": {
-        "name": "La Fortuna",
-        "url": "https://open.spotify.com/album/3dCPMqwndPfb2270NUjymY"
-      },
-      "artists": [
-        {
-          "name": "Tropicana Club",
-          "url": "https://open.spotify.com/artist/3yZt4h8ao4zS5aJdo4ZSAn"
-        }
-      ],
-      "duration_ms": 178719,
-      "name": "La Fortuna",
-      "url": "https://open.spotify.com/track/6mRo583BXJeOOSaUYqHvjU"
-    },
-    {
-      "added_at": "2022-09-07 18:14:07",
-      "album": {
         "name": "Burbujas de Papel",
         "url": "https://open.spotify.com/album/6OcVk4O3aHFSfvudJkgB5O"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 212903,
       "name": "Burbujas de Papel",
       "url": "https://open.spotify.com/track/6e1VIdmvIfMgRPVoMUZxRq"
+    },
+    {
+      "added_at": "2022-09-07 18:14:07",
+      "album": {
+        "name": "La Fortuna",
+        "url": "https://open.spotify.com/album/3dCPMqwndPfb2270NUjymY"
+      },
+      "artists": [
+        {
+          "name": "Tropicana Club",
+          "url": "https://open.spotify.com/artist/3yZt4h8ao4zS5aJdo4ZSAn"
+        }
+      ],
+      "duration_ms": 178719,
+      "name": "La Fortuna",
+      "url": "https://open.spotify.com/track/6mRo583BXJeOOSaUYqHvjU"
     },
     {
       "added_at": "2022-09-07 18:14:07",
@@ -507,22 +507,6 @@
     {
       "added_at": "2022-09-07 18:14:07",
       "album": {
-        "name": "Comprende",
-        "url": "https://open.spotify.com/album/1izMjI469MuMCqXMiUM3jB"
-      },
-      "artists": [
-        {
-          "name": "Lalo Cort\u00e9s",
-          "url": "https://open.spotify.com/artist/5aOSxuZtFtsOFvNB4xlssQ"
-        }
-      ],
-      "duration_ms": 277892,
-      "name": "Comprende",
-      "url": "https://open.spotify.com/track/1ii8yeKRIJLDmmQjWPe4Kd"
-    },
-    {
-      "added_at": "2022-09-07 18:14:07",
-      "album": {
         "name": "Xoxo",
         "url": "https://open.spotify.com/album/6ELJsqVkUsw9k8341j22u8"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 179250,
       "name": "360 al Mundo",
       "url": "https://open.spotify.com/track/4jZysO9Cyydag0oBsGgPCc"
+    },
+    {
+      "added_at": "2022-09-07 18:14:07",
+      "album": {
+        "name": "Comprende",
+        "url": "https://open.spotify.com/album/1izMjI469MuMCqXMiUM3jB"
+      },
+      "artists": [
+        {
+          "name": "Lalo Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/5aOSxuZtFtsOFvNB4xlssQ"
+        }
+      ],
+      "duration_ms": 277892,
+      "name": "Comprende",
+      "url": "https://open.spotify.com/track/1ii8yeKRIJLDmmQjWPe4Kd"
     },
     {
       "added_at": "2022-09-07 18:14:07",
@@ -571,22 +571,6 @@
     {
       "added_at": "2022-09-07 18:14:07",
       "album": {
-        "name": "Traici\u00f3n",
-        "url": "https://open.spotify.com/album/3F0FHxO3ZWnUJErPB0dM2k"
-      },
-      "artists": [
-        {
-          "name": "Joe Jazz",
-          "url": "https://open.spotify.com/artist/6fRmaeJjxC3dVJTIDxnjN3"
-        }
-      ],
-      "duration_ms": 192056,
-      "name": "First Date",
-      "url": "https://open.spotify.com/track/1mJV99GhAgTMD5Zbn0oUQA"
-    },
-    {
-      "added_at": "2022-09-07 18:14:07",
-      "album": {
         "name": "Lo Que Dijimos",
         "url": "https://open.spotify.com/album/2w1e2yRUmtm0i1MEmKlXI3"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 236369,
       "name": "Lo Que Dijimos",
       "url": "https://open.spotify.com/track/4tuj4EmYiW80rJFtCKGgEl"
+    },
+    {
+      "added_at": "2022-09-07 18:14:07",
+      "album": {
+        "name": "Traici\u00f3n",
+        "url": "https://open.spotify.com/album/3F0FHxO3ZWnUJErPB0dM2k"
+      },
+      "artists": [
+        {
+          "name": "Joe Jazz",
+          "url": "https://open.spotify.com/artist/6fRmaeJjxC3dVJTIDxnjN3"
+        }
+      ],
+      "duration_ms": 192056,
+      "name": "First Date",
+      "url": "https://open.spotify.com/track/1mJV99GhAgTMD5Zbn0oUQA"
     },
     {
       "added_at": "2022-09-07 18:14:07",
@@ -635,6 +635,22 @@
     {
       "added_at": "2022-09-07 18:14:07",
       "album": {
+        "name": "Bachata en Fukuoka (Remix)",
+        "url": "https://open.spotify.com/album/3CANHhkPDe0ITej0hPwu8B"
+      },
+      "artists": [
+        {
+          "name": "Hocho",
+          "url": "https://open.spotify.com/artist/7AqAhkwNkdfelG651nTnQP"
+        }
+      ],
+      "duration_ms": 160008,
+      "name": "Bachata en Fukuoka - Remix",
+      "url": "https://open.spotify.com/track/4NcgBAZYUilSiLFzkATQx8"
+    },
+    {
+      "added_at": "2022-09-07 18:14:07",
+      "album": {
         "name": "Fiebre",
         "url": "https://open.spotify.com/album/78jUy0XXm515NQnbkgPnFb"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 232033,
       "name": "Fiebre",
       "url": "https://open.spotify.com/track/5KsqOpo68rgTJ7rCpzDgTE"
-    },
-    {
-      "added_at": "2022-09-07 18:14:07",
-      "album": {
-        "name": "Tobog\u00e1n Amarillo",
-        "url": "https://open.spotify.com/album/3i43C2uh0Z6y85UQUU8K26"
-      },
-      "artists": [
-        {
-          "name": "Efecto Gloria",
-          "url": "https://open.spotify.com/artist/1Bl24yyAYpdgZx3xRYD2TR"
-        }
-      ],
-      "duration_ms": 271173,
-      "name": "Tobog\u00e1n Amarillo",
-      "url": "https://open.spotify.com/track/2rpN7T4X1UV0OBydtgIYzF"
     },
     {
       "added_at": "2022-09-07 18:14:07",
@@ -683,18 +683,50 @@
     {
       "added_at": "2022-09-07 18:14:07",
       "album": {
-        "name": "Bachata en Fukuoka (Remix)",
-        "url": "https://open.spotify.com/album/3CANHhkPDe0ITej0hPwu8B"
+        "name": "Tobog\u00e1n Amarillo",
+        "url": "https://open.spotify.com/album/3i43C2uh0Z6y85UQUU8K26"
       },
       "artists": [
         {
-          "name": "Hocho",
-          "url": "https://open.spotify.com/artist/7AqAhkwNkdfelG651nTnQP"
+          "name": "Efecto Gloria",
+          "url": "https://open.spotify.com/artist/1Bl24yyAYpdgZx3xRYD2TR"
         }
       ],
-      "duration_ms": 160008,
-      "name": "Bachata en Fukuoka - Remix",
-      "url": "https://open.spotify.com/track/4NcgBAZYUilSiLFzkATQx8"
+      "duration_ms": 271173,
+      "name": "Tobog\u00e1n Amarillo",
+      "url": "https://open.spotify.com/track/2rpN7T4X1UV0OBydtgIYzF"
+    },
+    {
+      "added_at": "2022-09-07 18:14:07",
+      "album": {
+        "name": "Respirar de Nuevo",
+        "url": "https://open.spotify.com/album/0bIHg0GOPmuwmR2iU5m2On"
+      },
+      "artists": [
+        {
+          "name": "Margarita Pla",
+          "url": "https://open.spotify.com/artist/2oiL55yTcmeFCv18Y9jEii"
+        }
+      ],
+      "duration_ms": 273511,
+      "name": "No Te Acerques Tanto a M\u00ed",
+      "url": "https://open.spotify.com/track/36wVZnuq7ujmbfErkTuhh4"
+    },
+    {
+      "added_at": "2022-09-07 18:14:07",
+      "album": {
+        "name": "Cari\u00f1o",
+        "url": "https://open.spotify.com/album/60AcpZ3D5zf3YgKq8iMOXn"
+      },
+      "artists": [
+        {
+          "name": "Bella Rabbit",
+          "url": "https://open.spotify.com/artist/6XGWdlLPFBNsSRuLwpoyhy"
+        }
+      ],
+      "duration_ms": 194478,
+      "name": "Cari\u00f1o",
+      "url": "https://open.spotify.com/track/3IaaiGAn3anrqkGiYt6S5p"
     },
     {
       "added_at": "2022-09-07 18:14:07",
@@ -747,38 +779,6 @@
       "duration_ms": 197647,
       "name": "Mixta",
       "url": "https://open.spotify.com/track/5FfPTznt4H4MC4C0IyvM3H"
-    },
-    {
-      "added_at": "2022-09-07 18:14:07",
-      "album": {
-        "name": "Cari\u00f1o",
-        "url": "https://open.spotify.com/album/60AcpZ3D5zf3YgKq8iMOXn"
-      },
-      "artists": [
-        {
-          "name": "Bella Rabbit",
-          "url": "https://open.spotify.com/artist/6XGWdlLPFBNsSRuLwpoyhy"
-        }
-      ],
-      "duration_ms": 194478,
-      "name": "Cari\u00f1o",
-      "url": "https://open.spotify.com/track/3IaaiGAn3anrqkGiYt6S5p"
-    },
-    {
-      "added_at": "2022-09-07 18:14:07",
-      "album": {
-        "name": "Respirar de Nuevo",
-        "url": "https://open.spotify.com/album/0bIHg0GOPmuwmR2iU5m2On"
-      },
-      "artists": [
-        {
-          "name": "Margarita Pla",
-          "url": "https://open.spotify.com/artist/2oiL55yTcmeFCv18Y9jEii"
-        }
-      ],
-      "duration_ms": 273511,
-      "name": "No Te Acerques Tanto a M\u00ed",
-      "url": "https://open.spotify.com/track/36wVZnuq7ujmbfErkTuhh4"
     },
     {
       "added_at": "2022-09-07 18:14:07",

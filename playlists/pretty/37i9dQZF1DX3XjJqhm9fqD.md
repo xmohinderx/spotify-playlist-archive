@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 
 > Celebrating Haitian music\. Cover: Francis Mercier.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,580 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,592 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 26 | [Chasing Amy](https://open.spotify.com/track/3KSQ1BjRT0T4dnu6Z7UL8c) | [TeaMarrr](https://open.spotify.com/artist/1cWyN6TA0n4j9JtqI0sOpt) | [Before I Spill Myself](https://open.spotify.com/album/3AK7VAPf2hnnLMpITKokgq) | 4:08 |
 | 27 | [Bay Vag](https://open.spotify.com/track/2ymMatDezwtUux8iazJviZ) | [Baky](https://open.spotify.com/artist/3bIpszMh2QVDRLw1knzG5h), [Oswald](https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ) | [Chante ap ret chante](https://open.spotify.com/album/5W63l4Gttowqd29x5EnHM7) | 4:13 |
 | 28 | [Rete La](https://open.spotify.com/track/00eEvIf9gSOahDmGrkRabR) | [Rutshelle Guillaume](https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk) | [Quoi qu'il advienne \(QQA\)](https://open.spotify.com/album/56nRY08QQ3nvWq5YnFV9og) | 5:03 |
-| 29 | [Se Pa Pou Dat](https://open.spotify.com/track/6nk9ORnSVn610LBj371OZi) | [Wendyyy](https://open.spotify.com/artist/1NrqtKwAa1VXMWxREFlPPB), [Alan Cave](https://open.spotify.com/artist/5pD6DDqepfVzBsg6y7jAv1), [Oswald](https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ) | [Patron](https://open.spotify.com/album/12zNSP6KR2NUaEvEU7P1L2) | 4:40 |
-| 30 | [Dejanbem](https://open.spotify.com/track/1zv4dnCKkvsrsT9POHyYj5) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Haitian Boy Kodak](https://open.spotify.com/album/4DGNmFH2q7WEtFI88geAmu) | 3:33 |
+| 29 | [Dejanbem](https://open.spotify.com/track/1zv4dnCKkvsrsT9POHyYj5) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Haitian Boy Kodak](https://open.spotify.com/album/4DGNmFH2q7WEtFI88geAmu) | 3:33 |
+| 30 | [Se Pa Pou Dat](https://open.spotify.com/track/6nk9ORnSVn610LBj371OZi) | [Wendyyy](https://open.spotify.com/artist/1NrqtKwAa1VXMWxREFlPPB), [Alan Cave](https://open.spotify.com/artist/5pD6DDqepfVzBsg6y7jAv1), [Oswald](https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ) | [Patron](https://open.spotify.com/album/12zNSP6KR2NUaEvEU7P1L2) | 4:40 |
 | 31 | [Ns Bounce](https://open.spotify.com/track/6wUuMSgi7CVstyIr68xIFo) | [High Klassified](https://open.spotify.com/artist/4V5f0tr4dGBGUvW5HsR22O), [Da\-P](https://open.spotify.com/artist/4PKHlnz8cQ79kQ6kd3GufJ) | [Kanvaz](https://open.spotify.com/album/6FHdFwiaNMFrFkpEcBOg9l) | 2:58 |
 | 32 | [Teteo](https://open.spotify.com/track/5CFMdA4qLFi8Ut75tnSvNx) | [Tony Mix](https://open.spotify.com/artist/3JUJlrHmHxgtat8uJSUXjo), [Don Miguelo](https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf), [Team madada](https://open.spotify.com/artist/77QFn6E0KVtFGZsjVbDoVv), [T\-Babas](https://open.spotify.com/artist/4D3zaRHdSmUKObPuNkZbi0) | [Teteo](https://open.spotify.com/album/26vdwpxbZVDDLVSGQUspXx) | 3:46 |
 | 33 | [Ti Sesi Ti Sela](https://open.spotify.com/track/06NjTzaYnc94mMl6hMuVAt) | [BMIXX](https://open.spotify.com/artist/1BbNMdaFQJCrLwiAr1tIoM), [Afriken An](https://open.spotify.com/artist/6XqngTGdAlZYgQVcw5Hrr4) | [Ti Sesi Ti Sela](https://open.spotify.com/album/4a7DeEW9nCWLILamEdTqGz) | 2:53 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 92 | [No Regrets](https://open.spotify.com/track/1bHB640sZKz0NAhmTVLRB2) | [Chabin](https://open.spotify.com/artist/6vqF2cU8qDVTogjAlCtBoA), [J Perry](https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ) | [No Regrets](https://open.spotify.com/album/5cM1tIA8mn3e4EV7FkdBoD) | 2:53 |
 | 93 | [Ayizan](https://open.spotify.com/track/7Dy2z4DuyXOcwFBcSY42aX) | [Paul Beaubrun](https://open.spotify.com/artist/06xdTtDBuCvqiWx0wvAmwg), [Anie Alerte](https://open.spotify.com/artist/2Qw1eM052uiH5CrtKgfcvf) | [Rasanbleman \(Red Moon\)](https://open.spotify.com/album/0RahduaPCp3gU0jRK3zZHy) | 6:40 |
 | 94 | [Zeptima](https://open.spotify.com/track/5r57eSdi1h4Ni95G9IsLRk) | [Ayiiti](https://open.spotify.com/artist/2kiFFkZ4zJzgbpmy19n2Sz) | [Zeptima](https://open.spotify.com/album/1oPdAnqfdkIhhOV5yPtA3a) | 4:01 |
-| 95 | [Twa Fey](https://open.spotify.com/track/4jlBiJhx1o4QTHRjvEuCx3) | [Riva Nyri Precil](https://open.spotify.com/artist/5CQBrI9Et8iG1yECGwbRf0) | [Perle De Culture](https://open.spotify.com/album/46ZoiD5bKfYvg67611YS2v) | 4:25 |
-| 96 | [Hallyday](https://open.spotify.com/track/1usHOAm45uCnvTu4IUYZGm) | [KANIS](https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc) | [REFLEXION](https://open.spotify.com/album/6i72auNGChVZB8lwCC0pTM) | 2:45 |
+| 95 | [Hallyday](https://open.spotify.com/track/1usHOAm45uCnvTu4IUYZGm) | [KANIS](https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc) | [REFLEXION](https://open.spotify.com/album/6i72auNGChVZB8lwCC0pTM) | 2:45 |
+| 96 | [Twa Fey](https://open.spotify.com/track/4jlBiJhx1o4QTHRjvEuCx3) | [Riva Nyri Precil](https://open.spotify.com/artist/5CQBrI9Et8iG1yECGwbRf0) | [Perle De Culture](https://open.spotify.com/album/46ZoiD5bKfYvg67611YS2v) | 4:25 |
 | 97 | [Worth It](https://open.spotify.com/track/2JuHUDQH485DV7C5gl9TBg) | [Tadia](https://open.spotify.com/artist/3Zv8NBwNoq4Gatgjvwl8I6) | [Worth It](https://open.spotify.com/album/4vAtGDq9hmY0Bhr3mKpikD) | 2:38 |
 | 98 | [Only You](https://open.spotify.com/track/2W4Nb6RIJrpE8PEpX9POZD) | [KeyAra](https://open.spotify.com/artist/5ip5n1ajctLiO63CCJfEv6), [KOLO](https://open.spotify.com/artist/2CICr3LR6jHHl0V6DmAtWE), [J Perry](https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ) | [Only You](https://open.spotify.com/album/7CJwyU2x5ZD5EvAkDPe8K7) | 3:17 |
 | 99 | [Baby Who](https://open.spotify.com/track/0BNZpLxBQFNgJTXhGmZEbs) | [Michael Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [Melanin](https://open.spotify.com/album/6Mj7wkPDHPr6OV4mDZCUsp) | 3:07 |
 | 100 | [Solèy Midi](https://open.spotify.com/track/25Vevbcv3QfVgwbdqiGSMW) | [Talie](https://open.spotify.com/artist/1005EO3lZm6PtyflJuB5k6), [David Chavannes](https://open.spotify.com/artist/7uvV6jZpaQUFDhQD5aNjHc) | [Solèy Midi](https://open.spotify.com/album/5TLXCx8PFQwyaoc8LhnqlF) | 3:49 |
 
-Snapshot ID: `MTY2MDMwMjEwMywwMDAwMDAwMGFmMWVkY2Q4ZWZiYzE5MDFiOGM4YzdhODZmYzkzYWE4`
+Snapshot ID: `MTY2MDMwMjEwMywwMDAwMDAwMGJkYjFmZGFkOWRiMjZkYjZhNGZhZDk3MTllODNiZTQy`

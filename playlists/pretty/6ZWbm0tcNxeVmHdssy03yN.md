@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 33,021 likes - 95 songs - 4 hr 57 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 33,027 likes - 95 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Float](https://open.spotify.com/track/1Ftf7WT4bDdteXIjQpmYXX) | [Hembree](https://open.spotify.com/artist/0NTqSkdyIji6DuHVac7ROJ), [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [Float](https://open.spotify.com/album/01TNS9Cieh8lzNoOQwvDDx) | 3:03 |
 | 2 | [long legs](https://open.spotify.com/track/1h6Clzt71p8iOQpVM4saBz) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [long legs](https://open.spotify.com/album/1Wrt0ZrCiCYv2og1F07LjE) | 4:04 |
 | 3 | [superficial energy](https://open.spotify.com/track/2wmbk7U26XVNsS89UUffe5) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [superficial energy](https://open.spotify.com/album/14clBGWaMoyRGVfI3o7nlQ) | 2:55 |
-| 4 | [FRONTLINE](https://open.spotify.com/track/7FcmDFLl13OqyhF6fNM3Op) | [Double Lz](https://open.spotify.com/artist/4Al9wqYpl2Yi1XfUrDrZmS), [OFB](https://open.spotify.com/artist/0koPE9U3b5XYArKa7R2TLm), [Dezzie](https://open.spotify.com/artist/24Ws1EeobHSyqDxQKfie7Q), [Akz](https://open.spotify.com/artist/7uyql7QaJZdpubTRISfvbK), [Kush](https://open.spotify.com/artist/0P1CKlruhcbhbq7yA5oh83), [Blitty](https://open.spotify.com/artist/4ufdIafKHwh8RZjR60Vctx), [Kash One7](https://open.spotify.com/artist/3dHuYvlVZ1Ew0Q2h1IpCjq) | [FRONTLINE](https://open.spotify.com/album/2zPaGmf7ZCGiBfH2NSstXG) | 4:17 |
+| 4 | [FRONTLINE](https://open.spotify.com/track/7FcmDFLl13OqyhF6fNM3Op) | [Double Lz](https://open.spotify.com/artist/4Al9wqYpl2Yi1XfUrDrZmS), [Dezzie](https://open.spotify.com/artist/24Ws1EeobHSyqDxQKfie7Q), [Akz](https://open.spotify.com/artist/7uyql7QaJZdpubTRISfvbK), [OFB](https://open.spotify.com/artist/0koPE9U3b5XYArKa7R2TLm), [Kush](https://open.spotify.com/artist/0P1CKlruhcbhbq7yA5oh83), [Blitty](https://open.spotify.com/artist/4ufdIafKHwh8RZjR60Vctx), [Kash One7](https://open.spotify.com/artist/3dHuYvlVZ1Ew0Q2h1IpCjq) | [FRONTLINE](https://open.spotify.com/album/2zPaGmf7ZCGiBfH2NSstXG) | 4:17 |
 | 5 | [Berlin](https://open.spotify.com/track/7CqqX8wSqvsXaUx4SWIHyN) | [SL](https://open.spotify.com/artist/0wY1K9SgxbaRfoFRmSR5x5) | [Berlin](https://open.spotify.com/album/7apJG7RDrKlucsqpDt3qCp) | 2:24 |
 | 6 | [Groundwork](https://open.spotify.com/track/6VBQuholHCe5LyCdyIWvzo) | [Big Narstie](https://open.spotify.com/artist/4ITNzglfuGtfHgDu29GIMW), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Papoose](https://open.spotify.com/artist/0mbgkaYR8KNUb5s3s1yYHG) | [Groundwork](https://open.spotify.com/album/6N25MmXrrGmBV8ZlUW8cTv) | 3:28 |
 | 7 | [Can't Forgive](https://open.spotify.com/track/1prWAsunNCjB4nuoTkqVuN) | [MoStack](https://open.spotify.com/artist/14H15rElxdGClICOZXEYHP) | [Can't Forgive](https://open.spotify.com/album/3KYdOUJJsR9M9Lagkk3iVK) | 3:09 |

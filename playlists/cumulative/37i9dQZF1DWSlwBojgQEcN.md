@@ -4,7 +4,7 @@
 
 > Songs to soundtrack your love story, from butterflies and first kisses to bittersweet memories and everything in between.
 
-291 songs - 18 hr 15 min - [published](https://open.spotify.com/playlist/4TQ1r7zEVFlomECRdzH6hX)
+292 songs - 18 hr 19 min - [published](https://open.spotify.com/playlist/4TQ1r7zEVFlomECRdzH6hX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,13 +71,14 @@
 | [Falling Slowly](https://open.spotify.com/track/6EIVLz5xM1xE29r0OmIkWt) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0), [Markéta Irglová](https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx) | [Music From The Motion Picture Once](https://open.spotify.com/album/4BUG3kfPOB6DWVKKDY2icE) | 4:04 | 2019-10-15 |  |
 | [Find a Way](https://open.spotify.com/track/0vud1aGRNlwzuVGE3AfWzs) | [King Charles](https://open.spotify.com/artist/6QKDcdjtwqu4E7rztEUQu5) | [Find a Way](https://open.spotify.com/album/4QQBvcwZJG6gCE1WsyCRV7) | 3:56 | 2021-03-23 | 2022-05-05 |
 | [Flowers in Your Hair](https://open.spotify.com/track/4BDpHt1JrVQzaU7E6RBbXh) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers](https://open.spotify.com/album/155N1gV0cIFYaLiy3I5d83) | 1:49 | 2020-06-12 | 2021-01-12 |
+| [Follow My Voice](https://open.spotify.com/track/3yQ7OQoOtzVgBNEJ8i7Vcs) | [Julie Byrne](https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV) | [Not Even Happiness](https://open.spotify.com/album/1ZgvdUee6cQ0NCDHfKxbH0) | 4:02 | 2022-02-14 |  |
 | [Follow My Voice](https://open.spotify.com/track/7pT3faDXSC5tNAlIKmtrYf) | [Julie Byrne](https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV) | [Not Even Happiness](https://open.spotify.com/album/4D0slaYPm4oiwFRlv10rJz) | 4:02 | 2021-04-24 | 2022-09-09 |
 | [For All You Give](https://open.spotify.com/track/6LLb6rVMgQnGNZwwHSxTzn) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy), [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Roses](https://open.spotify.com/album/6w6TexLleVpQxVzOKOBaOD) | 3:11 | 2022-02-14 |  |
 | [For All You Give \(feat\. Lucy Rose\)](https://open.spotify.com/track/3GVCqeU1ckkSJtY86bwGSs) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy), [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [For All You Give \(feat\. Lucy Rose\)](https://open.spotify.com/album/3cukLP76M7U4Lg6iIOFUmf) | 3:11 | 2021-01-12 | 2022-07-29 |
 | [Forever and Then Some](https://open.spotify.com/track/16HWvmhWwk53FLOSvgiL1w) | [Lillie Mae](https://open.spotify.com/artist/32bF8EkwKNXBZyEo371paF) | [Forever and Then Some](https://open.spotify.com/album/5wypLtHgbpupR5THbQeaTM) | 4:49 | 2019-09-29 | 2021-10-14 |
 | [From Afar](https://open.spotify.com/track/4R1lqeqba15OCnAMB7nLgv) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Riptide](https://open.spotify.com/album/2rn4ILhjtOrEnyYlHTUDVz) | 4:23 | 2020-06-12 | 2021-01-12 |
 | [From Eden](https://open.spotify.com/track/1yi8EOTpKeVK4cj5HS8DRp) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [From Eden EP](https://open.spotify.com/album/0FubRTC6GUFPUg4y2Xuxs0) | 3:42 | 2020-06-12 | 2021-01-12 |
-| [From This Valley \(Acoustic\)](https://open.spotify.com/track/479mN2R64gnerKnaOZLGxm) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Bare Bones](https://open.spotify.com/album/3j20dJIvxqGow9FA4LI53d) | 3:29 | 2022-02-14 |  |
+| [From This Valley \(Acoustic\)](https://open.spotify.com/track/479mN2R64gnerKnaOZLGxm) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Bare Bones](https://open.spotify.com/album/3j20dJIvxqGow9FA4LI53d) | 3:29 | 2022-02-14 | 2022-09-16 |
 | [From This Valley \- Acoustic](https://open.spotify.com/track/5UcW2Su74svT2gYHBv57fO) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Bare Bones EP](https://open.spotify.com/album/0EIZbhrZvPpSoR0JnqvjWn) | 3:26 | 2019-09-29\* | 2022-07-28 |
 | [Gentleman](https://open.spotify.com/track/2G9MzUThhCl9HL0tCeye1S) | [Isobel Anderson](https://open.spotify.com/artist/1tUN2f2byOej4LZdDq1UO9) | [Gentleman](https://open.spotify.com/album/6QrvJEDhSmcVySC2FnjFKM) | 5:22 | 2020-03-08 | 2020-06-05 |
 | [Georgia](https://open.spotify.com/track/429EttO8gs0bDo2SQfUNSm) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:50 | 2019-09-29\* |  |

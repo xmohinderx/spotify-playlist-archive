@@ -1,12 +1,12 @@
 {
   "description": "Repeat-free hours of new and beloved indie folk. Cover: Julia Jacklin",
-  "num_followers": 761874,
+  "num_followers": 761969,
   "original_name": "Infinite Indie Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5NjAwMCwwMDAwMDAwMDVmOTY4MDYyMGIwNWYwY2VmNDg3YjBkMDJiYmI2YWZh",
+  "snapshot_id": "MTY2MjY5NjAwMCwwMDAwMDAwMGUwMGQ4ZDRkODQxMzY1YzQwOTAxYTUxOWUzMzE2NjJk",
   "tracks": [
     {
       "added_at": "2022-08-26 04:00:00",
@@ -335,6 +335,22 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "Finch",
+        "url": "https://open.spotify.com/album/0ixOUcKraH7Y3tIV1MGoRo"
+      },
+      "artists": [
+        {
+          "name": "Penny and Sparrow",
+          "url": "https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur"
+        }
+      ],
+      "duration_ms": 168712,
+      "name": "Eloise",
+      "url": "https://open.spotify.com/track/3XnDbrxxtA40HPIIRWLgRT"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "Peace Or Love",
         "url": "https://open.spotify.com/album/1I8t93pjEtNM1vbtoUII0m"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 181139,
       "name": "Catholic Country",
       "url": "https://open.spotify.com/track/4sIGvv9NQzQ9JCpKXRANb3"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Finch",
-        "url": "https://open.spotify.com/album/0ixOUcKraH7Y3tIV1MGoRo"
-      },
-      "artists": [
-        {
-          "name": "Penny and Sparrow",
-          "url": "https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur"
-        }
-      ],
-      "duration_ms": 168712,
-      "name": "Eloise",
-      "url": "https://open.spotify.com/track/3XnDbrxxtA40HPIIRWLgRT"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Wouldn't Come Back",
-        "url": "https://open.spotify.com/album/2X0Oi2vkyzqYWPy2dSdim1"
-      },
-      "artists": [
-        {
-          "name": "Trousdale",
-          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
-        }
-      ],
-      "duration_ms": 219533,
-      "name": "Wouldn't Come Back",
-      "url": "https://open.spotify.com/track/1zeQjPT367QcGrkpIXYjuW"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Woodgate, NY",
         "url": "https://open.spotify.com/album/4HCiNoFBb2vFvySaSW2JBs"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 214335,
       "name": "From Gold",
       "url": "https://open.spotify.com/track/3ePd4K8tcdfr7KmbuOTrKK"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Wouldn't Come Back",
+        "url": "https://open.spotify.com/album/2X0Oi2vkyzqYWPy2dSdim1"
+      },
+      "artists": [
+        {
+          "name": "Trousdale",
+          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
+        }
+      ],
+      "duration_ms": 219533,
+      "name": "Wouldn't Come Back",
+      "url": "https://open.spotify.com/track/1zeQjPT367QcGrkpIXYjuW"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -899,6 +899,22 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "Orange Blood",
+        "url": "https://open.spotify.com/album/3EP2uvI3t1m5UCCSA1iTtV"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "duration_ms": 188266,
+      "name": "Bathroom Light",
+      "url": "https://open.spotify.com/track/32xm5clCZkPPc7hdQRZjYQ"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "How Lucky",
         "url": "https://open.spotify.com/album/0SK5oInVnam28qyBA3acWm"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 203117,
       "name": "How Lucky",
       "url": "https://open.spotify.com/track/4iK3yOQKoby2b9gvCmUwsR"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Orange Blood",
-        "url": "https://open.spotify.com/album/3EP2uvI3t1m5UCCSA1iTtV"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 188266,
-      "name": "Bathroom Light",
-      "url": "https://open.spotify.com/track/32xm5clCZkPPc7hdQRZjYQ"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -987,6 +987,22 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "Dark Corners",
+        "url": "https://open.spotify.com/album/1I0ykzztcM5pM4frXEUmVO"
+      },
+      "artists": [
+        {
+          "name": "mehro",
+          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
+        }
+      ],
+      "duration_ms": 191241,
+      "name": "pirate song",
+      "url": "https://open.spotify.com/track/0wnZAXlg3CPUgAKFQblzff"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "Motivational Speaking",
         "url": "https://open.spotify.com/album/0XMWbprQxPKfQKU3i8AyAl"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 246666,
       "name": "Everything I had",
       "url": "https://open.spotify.com/track/3ZWtCPAWcE7hh00mjQDOXq"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Dark Corners",
-        "url": "https://open.spotify.com/album/1I0ykzztcM5pM4frXEUmVO"
-      },
-      "artists": [
-        {
-          "name": "mehro",
-          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
-        }
-      ],
-      "duration_ms": 191241,
-      "name": "pirate song",
-      "url": "https://open.spotify.com/track/0wnZAXlg3CPUgAKFQblzff"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "This Is A Photograph",
-        "url": "https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6"
-      },
-      "artists": [
-        {
-          "name": "Kevin Morby",
-          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
-        }
-      ],
-      "duration_ms": 210333,
-      "name": "This Is A Photograph",
-      "url": "https://open.spotify.com/track/1hj8os1Xxiuo95atpJzfCp"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/76H7LQRjofrjoPlGDLwkwk"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 201626,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/02HJc2G0BfiJBJhet27Scm"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "This Is A Photograph",
+        "url": "https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6"
+      },
+      "artists": [
+        {
+          "name": "Kevin Morby",
+          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+        }
+      ],
+      "duration_ms": 210333,
+      "name": "This Is A Photograph",
+      "url": "https://open.spotify.com/track/1hj8os1Xxiuo95atpJzfCp"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Ivory Castanets",
-        "url": "https://open.spotify.com/album/4feDk4LVjagDkvmpCem8Le"
-      },
-      "artists": [
-        {
-          "name": "Cat Clyde",
-          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
-        }
-      ],
-      "duration_ms": 213866,
-      "name": "Mama Said",
-      "url": "https://open.spotify.com/track/3eiTlfmClIHJS7Vq4IwkBZ"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "1000 Years",
         "url": "https://open.spotify.com/album/7wUbzS5urHkgVamMUP39d7"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 216052,
       "name": "Sons and Daughters",
       "url": "https://open.spotify.com/track/0Kt5AHOpQAkEsHAuPeB0le"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Ivory Castanets",
+        "url": "https://open.spotify.com/album/4feDk4LVjagDkvmpCem8Le"
+      },
+      "artists": [
+        {
+          "name": "Cat Clyde",
+          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
+        }
+      ],
+      "duration_ms": 213866,
+      "name": "Mama Said",
+      "url": "https://open.spotify.com/track/3eiTlfmClIHJS7Vq4IwkBZ"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2Ugyft4arCFXPSASDVIXs0"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 233854,
-      "name": "Partner In Crime - Spotify Singles",
-      "url": "https://open.spotify.com/track/33IZBhRtyMDZoa5SUNs3F7"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Mipso",
         "url": "https://open.spotify.com/album/71wj7iB4JXxUUTPosOpXMM"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 204333,
       "name": "Your Body",
       "url": "https://open.spotify.com/track/3BPibZpEagpo2S0OxpMfmh"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2Ugyft4arCFXPSASDVIXs0"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 233854,
+      "name": "Partner In Crime - Spotify Singles",
+      "url": "https://open.spotify.com/track/33IZBhRtyMDZoa5SUNs3F7"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "King of Fools",
-        "url": "https://open.spotify.com/album/02hIWtC0Llm6vsVgrY1gpj"
-      },
-      "artists": [
-        {
-          "name": "Twain",
-          "url": "https://open.spotify.com/artist/2tMcnRGaCtfz1ZyTBgHjmW"
-        }
-      ],
-      "duration_ms": 201656,
-      "name": "King of Fools",
-      "url": "https://open.spotify.com/track/1beFyH38tUxVj7wG6bFxS3"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Cool Dry Place",
         "url": "https://open.spotify.com/album/584CDFxeA55Hrr1dydGfQE"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 300586,
       "name": "Cool Dry Place",
       "url": "https://open.spotify.com/track/6A1sSc1NFq5ZO9V0xGDe1L"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "King of Fools",
+        "url": "https://open.spotify.com/album/02hIWtC0Llm6vsVgrY1gpj"
+      },
+      "artists": [
+        {
+          "name": "Twain",
+          "url": "https://open.spotify.com/artist/2tMcnRGaCtfz1ZyTBgHjmW"
+        }
+      ],
+      "duration_ms": 201656,
+      "name": "King of Fools",
+      "url": "https://open.spotify.com/track/1beFyH38tUxVj7wG6bFxS3"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1591,26 +1591,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Feel (with Kyson)",
-        "url": "https://open.spotify.com/album/7ag6US432XEiupeaKuQIcD"
-      },
-      "artists": [
-        {
-          "name": "YUUL",
-          "url": "https://open.spotify.com/artist/5JDHEnjHZtQdcSkMY6mWqN"
-        },
-        {
-          "name": "Kyson",
-          "url": "https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Feel - with Kyson",
-      "url": "https://open.spotify.com/track/2OmxtFDC3E0AYNr3Rixnx4"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs"
       },
@@ -1627,6 +1607,26 @@
       "duration_ms": 210353,
       "name": "Kyoto - Spotify Singles",
       "url": "https://open.spotify.com/track/1w2gRlZvcIkuJHYr9Y0cE4"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Feel (with Kyson)",
+        "url": "https://open.spotify.com/album/7ag6US432XEiupeaKuQIcD"
+      },
+      "artists": [
+        {
+          "name": "YUUL",
+          "url": "https://open.spotify.com/artist/5JDHEnjHZtQdcSkMY6mWqN"
+        },
+        {
+          "name": "Kyson",
+          "url": "https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Feel - with Kyson",
+      "url": "https://open.spotify.com/track/2OmxtFDC3E0AYNr3Rixnx4"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Cusp",
-        "url": "https://open.spotify.com/album/6jGsKEUE3weS6QBs5tR2M4"
-      },
-      "artists": [
-        {
-          "name": "Alela Diane",
-          "url": "https://open.spotify.com/artist/2QIHd0B2VIKlmLyoq4lUr7"
-        }
-      ],
-      "duration_ms": 191813,
-      "name": "\u00c9migr\u00e9",
-      "url": "https://open.spotify.com/track/3t9dQLtZPB8dXRu6QrQYLS"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Fruit from the Trees",
         "url": "https://open.spotify.com/album/0TuAocqQPGkAMpdXsaWJxO"
       },
@@ -1859,6 +1843,22 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "Cusp",
+        "url": "https://open.spotify.com/album/6jGsKEUE3weS6QBs5tR2M4"
+      },
+      "artists": [
+        {
+          "name": "Alela Diane",
+          "url": "https://open.spotify.com/artist/2QIHd0B2VIKlmLyoq4lUr7"
+        }
+      ],
+      "duration_ms": 191813,
+      "name": "\u00c9migr\u00e9",
+      "url": "https://open.spotify.com/track/3t9dQLtZPB8dXRu6QrQYLS"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "Set the House on Fire",
         "url": "https://open.spotify.com/album/4jmVTmCZC64dy09Cg14Ujk"
       },
@@ -1871,6 +1871,22 @@
       "duration_ms": 218280,
       "name": "House by the Sea",
       "url": "https://open.spotify.com/track/34Qk1WJ2ukktGOCNcRzxus"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Man Made by Delusion",
+        "url": "https://open.spotify.com/album/25g7XoaBj4kvbG6lDAnEmw"
+      },
+      "artists": [
+        {
+          "name": "Old Sea Brigade",
+          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
+        }
+      ],
+      "duration_ms": 204854,
+      "name": "Man Made by Delusion",
+      "url": "https://open.spotify.com/track/72viqbBEmuLMYwtgWfKHhB"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1935,22 +1951,6 @@
       "duration_ms": 191933,
       "name": "Birds and Stars",
       "url": "https://open.spotify.com/track/4CLKEJJfs8qwUAC3FF36Oc"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Man Made by Delusion",
-        "url": "https://open.spotify.com/album/25g7XoaBj4kvbG6lDAnEmw"
-      },
-      "artists": [
-        {
-          "name": "Old Sea Brigade",
-          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
-        }
-      ],
-      "duration_ms": 204854,
-      "name": "Man Made by Delusion",
-      "url": "https://open.spotify.com/track/72viqbBEmuLMYwtgWfKHhB"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -2059,22 +2059,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Break Me Open",
-        "url": "https://open.spotify.com/album/3GnC2xEY4b6wowL2eBIwGc"
-      },
-      "artists": [
-        {
-          "name": "S. Carey",
-          "url": "https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E"
-        }
-      ],
-      "duration_ms": 183026,
-      "name": "Break Me Open",
-      "url": "https://open.spotify.com/track/24DK3nZUzwGYx6xzBXOz3V"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Guess Again",
         "url": "https://open.spotify.com/album/637CT2H6ESwzGM6KRVy5IZ"
       },
@@ -2087,6 +2071,22 @@
       "duration_ms": 197386,
       "name": "Guess Again",
       "url": "https://open.spotify.com/track/4Y2365W43JtMuU2os31LUs"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Break Me Open",
+        "url": "https://open.spotify.com/album/3GnC2xEY4b6wowL2eBIwGc"
+      },
+      "artists": [
+        {
+          "name": "S. Carey",
+          "url": "https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E"
+        }
+      ],
+      "duration_ms": 183026,
+      "name": "Break Me Open",
+      "url": "https://open.spotify.com/track/24DK3nZUzwGYx6xzBXOz3V"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -2203,22 +2203,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Golden Sings That Have Been Sung (Deep Cuts Edition)",
-        "url": "https://open.spotify.com/album/65lq5gUdKOakCZjNaurgy6"
-      },
-      "artists": [
-        {
-          "name": "Ryley Walker",
-          "url": "https://open.spotify.com/artist/7xwppARWdjgnJSKLhbGzFc"
-        }
-      ],
-      "duration_ms": 281786,
-      "name": "The Roundabout",
-      "url": "https://open.spotify.com/track/1XJP5iLjFHrKwdNIRC4V4j"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Jockeys of Love",
         "url": "https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT"
       },
@@ -2235,18 +2219,18 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Bad Moves",
-        "url": "https://open.spotify.com/album/6c2fkeEyjpOCqJqj5L6BTy"
+        "name": "Golden Sings That Have Been Sung (Deep Cuts Edition)",
+        "url": "https://open.spotify.com/album/65lq5gUdKOakCZjNaurgy6"
       },
       "artists": [
         {
-          "name": "The Bones of J.R. Jones",
-          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
+          "name": "Ryley Walker",
+          "url": "https://open.spotify.com/artist/7xwppARWdjgnJSKLhbGzFc"
         }
       ],
-      "duration_ms": 246800,
-      "name": "Bad Moves",
-      "url": "https://open.spotify.com/track/04LtT3aIQTrKUpVR9UG3OL"
+      "duration_ms": 281786,
+      "name": "The Roundabout",
+      "url": "https://open.spotify.com/track/1XJP5iLjFHrKwdNIRC4V4j"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -2283,18 +2267,18 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Whatever Fits Together",
-        "url": "https://open.spotify.com/album/5cpmLPqkR7Kw66HNO3QWlS"
+        "name": "Bad Moves",
+        "url": "https://open.spotify.com/album/6c2fkeEyjpOCqJqj5L6BTy"
       },
       "artists": [
         {
-          "name": "Skullcrusher",
-          "url": "https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD"
+          "name": "The Bones of J.R. Jones",
+          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
         }
       ],
-      "duration_ms": 225154,
-      "name": "Whatever Fits Together",
-      "url": "https://open.spotify.com/track/7E9xLaEn82sboW3CLJCO9X"
+      "duration_ms": 246800,
+      "name": "Bad Moves",
+      "url": "https://open.spotify.com/track/04LtT3aIQTrKUpVR9UG3OL"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -2315,6 +2299,22 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "Whatever Fits Together",
+        "url": "https://open.spotify.com/album/5cpmLPqkR7Kw66HNO3QWlS"
+      },
+      "artists": [
+        {
+          "name": "Skullcrusher",
+          "url": "https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD"
+        }
+      ],
+      "duration_ms": 225154,
+      "name": "Whatever Fits Together",
+      "url": "https://open.spotify.com/track/7E9xLaEn82sboW3CLJCO9X"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "Listen to Formation, Look for the Signs",
         "url": "https://open.spotify.com/album/44IdU9nj8Hvxot2NVCQbBM"
       },
@@ -2331,22 +2331,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "The Perfect Plan",
-        "url": "https://open.spotify.com/album/2UeJbrZMJSAJ7qadAbEOuW"
-      },
-      "artists": [
-        {
-          "name": "The Lowest Pair",
-          "url": "https://open.spotify.com/artist/0q9jV5Ht9bBTX6pHgzRjRg"
-        }
-      ],
-      "duration_ms": 289161,
-      "name": "Too Late Babe",
-      "url": "https://open.spotify.com/track/1WLsC1nDz2w78EpVRgLqWf"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Dandelion",
         "url": "https://open.spotify.com/album/1G9z1ymOzsdF7B7xyYR8bD"
       },
@@ -2359,6 +2343,22 @@
       "duration_ms": 240954,
       "name": "Masterpiece - (solo)",
       "url": "https://open.spotify.com/track/5F1njpY2K3lDSkcb9cSUpn"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "The Perfect Plan",
+        "url": "https://open.spotify.com/album/2UeJbrZMJSAJ7qadAbEOuW"
+      },
+      "artists": [
+        {
+          "name": "The Lowest Pair",
+          "url": "https://open.spotify.com/artist/0q9jV5Ht9bBTX6pHgzRjRg"
+        }
+      ],
+      "duration_ms": 289161,
+      "name": "Too Late Babe",
+      "url": "https://open.spotify.com/track/1WLsC1nDz2w78EpVRgLqWf"
     },
     {
       "added_at": "2022-08-12 04:00:00",

@@ -4,7 +4,7 @@
 
 > The official Trap Nation playlist that includes all of our recent &amp; favorite songs
 
-466 songs - 1 day 1 hr 6 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
+468 songs - 1 day 1 hr 13 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Fair](https://open.spotify.com/track/0haIAixw7fe0YZY21cNnqi) | [Xaron](https://open.spotify.com/artist/7MS6GFUsSbDdEvh9VMzgfD) | [Fair](https://open.spotify.com/album/6yxgumRMIKq5OaZvKTiTM2) | 2:20 | 2022-06-17 | 2022-07-29 |
 | [Fall Into Me](https://open.spotify.com/track/5jwPoLlVOLcawSpvDpwlty) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Dylan Matthew](https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX) | [Fall Into Me](https://open.spotify.com/album/6PT8LbcXWPCVAk5Ixj2cu9) | 3:51 | 2022-03-17 | 2022-09-15 |
 | [Fallaway](https://open.spotify.com/track/1eDKRyIAKtoRmrO9gJ6PFv) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [Fallaway](https://open.spotify.com/album/0XXHhKf7JUTkgKnxUDNcA2) | 3:44 | 2022-01-14 | 2022-09-15 |
+| [Fallen](https://open.spotify.com/track/2ionHuKVoJhnih3TAZ1di9) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT), [capshun](https://open.spotify.com/artist/1iHaJ84BqipzAefeXNAsdL) | [Fallen](https://open.spotify.com/album/3ywLCMZLSe12Q5Xuc8m1Pj) | 3:30 | 2022-09-15 |  |
 | [Falling](https://open.spotify.com/track/4WA4jmG98kErhzC9oNf8Sx) | [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [N3WPORT](https://open.spotify.com/artist/1iyaH6NJWncvktAfUcNht8), [Meo](https://open.spotify.com/artist/76NT4gVXCYbuQeWAEb2nlY) | [Falling](https://open.spotify.com/album/3egBGUjSyvUQ3TpoYpy7uP) | 2:29 | 2022-02-12 |  |
 | [FALLING](https://open.spotify.com/track/0YzNxZ9TbNNoj83aVDMEFM) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw), [Rxl](https://open.spotify.com/artist/6Bi1y0jGmBzmeMRGiDjwjm) | [FALLING](https://open.spotify.com/album/6m2F75Tg6uJjTCS00PwYr1) | 2:45 | 2022-05-25 | 2022-07-09 |
 | [Falling Apart](https://open.spotify.com/track/5TQDtOeQ3IU2VqKbCn6Rwq) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Falling Apart](https://open.spotify.com/album/5ciCvi9pccBxbpOBwfHYom) | 3:58 | 2022-02-09 | 2022-03-19 |
@@ -399,6 +400,7 @@
 | [TAKE](https://open.spotify.com/track/3KqPQD3vQbJUTkRsiUzps2) | [KLOUD](https://open.spotify.com/artist/24Hb4GKFYquK73R8mTyInu) | [1093](https://open.spotify.com/album/7tX0LuJuHqNFx9ucD9889K) | 3:23 | 2022-01-14 | 2022-09-15 |
 | [Take You Home](https://open.spotify.com/track/73aaclqbUGL3q6YJqphuMq) | [Sam Day](https://open.spotify.com/artist/2PY7Tnti22LPC3beiiqN1U), [Dust of Apollon](https://open.spotify.com/artist/6AEtbUZpqqqGtkOwRZxSRc) | [Take You Home](https://open.spotify.com/album/41uqT8wCaNKApdGZdI0YpF) | 2:46 | 2022-01-20 | 2022-02-10 |
 | [TEARS](https://open.spotify.com/track/4TTpHvSqFHPiDyK8Vh3fmv) | [PatrickReza](https://open.spotify.com/artist/1tJnPDE5oPDB6ZqMsCTTYx) | [BLOOD, SWEAT, TEARS](https://open.spotify.com/album/2HPFvPzJ0NfDu2qIoTox8n) | 2:44 | 2022-02-18 | 2022-03-19 |
+| [Tears \- Boface Remix](https://open.spotify.com/track/277Ly0ErNTvDQAvJp2yfgg) | [4RUNNR](https://open.spotify.com/artist/51G0zsR5SXZd5AtX2ueIqx), [Boface](https://open.spotify.com/artist/73InPuhzpUw2vKetlnxJnQ) | [Tears \(Boface Remix\)](https://open.spotify.com/album/6mqriQAA0DPq6Vvb5Akh2r) | 3:11 | 2022-09-15 |  |
 | [Tempest](https://open.spotify.com/track/0JjN5GDWzFt6ZY8izlci3m) | [2nd Life](https://open.spotify.com/artist/2j1Yftz0qNufy1z5jfNYab), [Sane Music](https://open.spotify.com/artist/6bdY2YWzlQ6H1gxLB5Pdin), [LeftLukas](https://open.spotify.com/artist/0xDrFDK7IK6kgDAdyYhNeH) | [Tempest](https://open.spotify.com/album/7aHBpzvI962YQf7JmMVpa2) | 2:12 | 2022-08-12 | 2022-09-07 |
 | [Tested](https://open.spotify.com/track/4lUqDI7XESYh7A13MulOjz) | [Montell2099](https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0), [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [Tested](https://open.spotify.com/album/7jZfZ6DMT9gVnlTsE9JnIK) | 2:57 | 2022-05-17 | 2022-06-18 |
 | [The Action](https://open.spotify.com/track/40jqRY00ZBurt1HqDxUOt3) | [Ahee](https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf), [Sømething](https://open.spotify.com/artist/4w08hE0AqL4sPFCUj5E3gx) | [The Action](https://open.spotify.com/album/0jq2WhY16lMP0B5xljkjZQ) | 3:13 | 2022-01-24 | 2022-09-15 |

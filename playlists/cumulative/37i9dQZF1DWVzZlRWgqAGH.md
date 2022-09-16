@@ -4,7 +4,7 @@
 
 > Smooth joints\. Cover: bLAck pARty
 
-722 songs - 1 day 18 hr 36 min - [published](https://open.spotify.com/playlist/6iBWJdwWthi80GH8IDHW0t)
+723 songs - 1 day 18 hr 40 min - [published](https://open.spotify.com/playlist/6iBWJdwWthi80GH8IDHW0t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -424,7 +424,7 @@
 | [Moving](https://open.spotify.com/track/41BPaKM3OVc8gs3VXbAAu6) | [Dan Kye](https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf) | [Small Moments](https://open.spotify.com/album/4iWfNxkqoDI2E1FOhnQnvg) | 5:15 | 2020-11-13 | 2022-07-29 |
 | [Moving Forward](https://open.spotify.com/track/0awxfMcESmYucafK7d6CjL) | [Madsius Ovanda](https://open.spotify.com/artist/0koqqJSNJvFB0qooO7q11J) | [Talking Underwater](https://open.spotify.com/album/0NtpFQ7fru7LqjZERGyRpN) | 2:58 | 2020-03-20 | 2020-04-18 |
 | [Moving On](https://open.spotify.com/track/3OiBUTN46KTEHAGr1bfoQU) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [Sober EP](https://open.spotify.com/album/637BqG5QCMGQArqYDelpbV) | 3:14 | 2020-07-10 |  |
-| [Moving On](https://open.spotify.com/track/24jQYMpwrraSLf6TfE2K0U) | [Clap! Clap!](https://open.spotify.com/artist/4o6gglPeg2GgT0FYDtzFeF), [Martha Da'ro](https://open.spotify.com/artist/312xfcd1WbKDhBnqPxjXVl) | [Liquid Portraits](https://open.spotify.com/album/19uGXP6YaIElZQ08aNLJwS) | 4:09 | 2022-09-09 |  |
+| [Moving On](https://open.spotify.com/track/24jQYMpwrraSLf6TfE2K0U) | [Clap! Clap!](https://open.spotify.com/artist/4o6gglPeg2GgT0FYDtzFeF), [Martha Da'ro](https://open.spotify.com/artist/312xfcd1WbKDhBnqPxjXVl) | [Liquid Portraits](https://open.spotify.com/album/19uGXP6YaIElZQ08aNLJwS) | 4:09 | 2022-09-09 | 2022-09-16 |
 | [Moving On](https://open.spotify.com/track/7xeAzyhW9sfqoIIm7685mL) | [Clap! Clap!](https://open.spotify.com/artist/4o6gglPeg2GgT0FYDtzFeF), [Martha Da'ro](https://open.spotify.com/artist/312xfcd1WbKDhBnqPxjXVl) | [Moving On](https://open.spotify.com/album/3gmhzb6Ltr0znZeIYfgr4n) | 4:09 | 2020-05-29 | 2022-04-23 |
 | [Moya](https://open.spotify.com/track/694DadYahGYD3i9tDieKfl) | [Mpho Sebina](https://open.spotify.com/artist/3Z2T6mI5rrWuijYZkclFEN), [S\. Fidelity](https://open.spotify.com/artist/3XQIlYQsopsDCYMSkf1rEW) | [Moya](https://open.spotify.com/album/1aqFiaUS6jw804sofJlXMf) | 3:48 | 2020-08-30 | 2021-05-08 |
 | [Mr Wu](https://open.spotify.com/track/5zX6BoRLM032b7ItNUmvRM) | [Kamaal Williams](https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS) | [Mr\. Wu](https://open.spotify.com/album/01n4D6rSsBpEGNXpp2xH4T) | 3:37 | 2020-07-24 | 2020-09-11 |
@@ -470,6 +470,7 @@
 | [Our People \(feat\. Quelle Chris\)](https://open.spotify.com/track/1GFks7Cof1bT5TgXxVd3DF) | [Seba Kaapstad](https://open.spotify.com/artist/6i1YUN2HJGtCdO3s17JV3V), [Quelle Chris](https://open.spotify.com/artist/2SlUrJAcTYbWR8GcmB9IEi) | [Konke](https://open.spotify.com/album/4Rl0XqeWSsFrH0SNPS35Kd) | 3:11 | 2020-11-13 | 2022-04-21 |
 | [Out of Time](https://open.spotify.com/track/3EvztGtbhy86oOiMYGpdHi) | [Slowya.roll](https://open.spotify.com/artist/3VlbOrMVyRIrtVE71jLu6N), [daniel hayn](https://open.spotify.com/artist/2E54rBy4UeaSYijZiWlNpO) | [Out of Time](https://open.spotify.com/album/0dkLTlN11UQ0uh9h9HyJ3G) | 4:06 | 2020-05-08 | 2022-06-06 |
 | [Outta This World](https://open.spotify.com/track/7G07BhMd2IrDD23C0MHsww) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Outta This World](https://open.spotify.com/album/4AQJLbmwplWDQ5KvU4WJFG) | 2:45 | 2022-04-15 | 2022-09-15 |
+| [Overgold](https://open.spotify.com/track/74vzcgYIdZhdyrgZcaVnAy) | [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [Overgold](https://open.spotify.com/album/5oW0Zsl8PcoaWXEENCIVi6) | 3:15 | 2022-09-09 |  |
 | [Overreacting](https://open.spotify.com/track/1uhmq7gvmcyfeC2vd96Ns7) | [Lani Rose](https://open.spotify.com/artist/7bdI7Q9ffxcej6cfVUktvb) | [Overreacting](https://open.spotify.com/album/1VdFWgk2E4wy3UVBrRct0D) | 3:32 | 2021-03-16 | 2022-04-21 |
 | [Own Your Own](https://open.spotify.com/track/7jCcWahpAVbuUVNu9AIq6K) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Morning Matters](https://open.spotify.com/album/0NsiyVH1KVp6MhCyeJWIKJ) | 3:56 | 2020-03-27 | 2020-06-16 |
 | [Pala](https://open.spotify.com/track/4GnihbeTbQabc4N2GUbB90) | [Sirens Of Lesbos](https://open.spotify.com/artist/18XyLuKeMMfkTNKTmc6yOU) | [Pala](https://open.spotify.com/album/7Lg5PMBMhiDLlal3RVTNRs) | 3:08 | 2020-10-02 | 2021-01-15 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Il meglio dell'R&B italiano. Cover: Plastica, Missey",
+  "description": "Il meglio dell'R&B italiano. Cover: La Ni\u00f1a",
   "name": "anima R&B",
   "published_playlist_ids": [
     "6baLMOVUAzKiyXO33cGiRz"
@@ -139,7 +139,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 183791,
       "name": "Bad Habits",
       "url": "https://open.spotify.com/track/7yrarQCL87CIAmiqm85DG0"
@@ -719,7 +719,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 196765,
       "name": "DIAMANTI",
       "url": "https://open.spotify.com/track/6S3Q6qeGe0DFTDYvO5ZetR"
@@ -1951,7 +1951,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 211302,
       "name": "No eh? Va be'",
       "url": "https://open.spotify.com/track/64kDlkqrSAg5vha3bK7I8A"
@@ -2327,7 +2327,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 167272,
       "name": "Passatempo",
       "url": "https://open.spotify.com/track/70URplGTkPeSuAEISU5SxS"
@@ -2574,6 +2574,24 @@
     },
     {
       "album": {
+        "name": "Il Mondo Invisibile",
+        "url": "https://open.spotify.com/album/7e5ovM8Sy8TgcibIa1iUom"
+      },
+      "artists": [
+        {
+          "name": "Subconscio",
+          "url": "https://open.spotify.com/artist/1QrrQzYzB6iWHcJee809Zh"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223418,
+      "name": "Rimani Davvero",
+      "url": "https://open.spotify.com/track/5hQ8SvGWwmrWcrPWQ3YrLX"
+    },
+    {
+      "album": {
         "name": "ROOM 23",
         "url": "https://open.spotify.com/album/09hhhTqVQsKDqipq33eExA"
       },
@@ -2781,6 +2799,24 @@
       "duration_ms": 136810,
       "name": "Soli Qui",
       "url": "https://open.spotify.com/track/3cTUBNsVv0ED2rhbbjFBlC"
+    },
+    {
+      "album": {
+        "name": "Sottovoce",
+        "url": "https://open.spotify.com/album/394IkP2qwNM5gtL1BCD1eb"
+      },
+      "artists": [
+        {
+          "name": "Sissi",
+          "url": "https://open.spotify.com/artist/6P7jNZ4DCs766yu5td601i"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202968,
+      "name": "Sottovoce",
+      "url": "https://open.spotify.com/track/7fWfPRTcmsPeASPGeaww6m"
     },
     {
       "album": {
@@ -3179,6 +3215,28 @@
       "duration_ms": 163053,
       "name": "Universo",
       "url": "https://open.spotify.com/track/7ASGGiTB8dAfD0Qj7h2E6x"
+    },
+    {
+      "album": {
+        "name": "Veleno",
+        "url": "https://open.spotify.com/album/5C53KJCrnzTarnkfgOwTyr"
+      },
+      "artists": [
+        {
+          "name": "Shadaloo",
+          "url": "https://open.spotify.com/artist/2tibuALJsypDnCBzRGykYR"
+        },
+        {
+          "name": "Trusty",
+          "url": "https://open.spotify.com/artist/5yC9LA5cSmbG5y20u2Qxf7"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159818,
+      "name": "Veleno",
+      "url": "https://open.spotify.com/track/6Txmgb9n1p1XZtJ6dNUBlb"
     },
     {
       "album": {

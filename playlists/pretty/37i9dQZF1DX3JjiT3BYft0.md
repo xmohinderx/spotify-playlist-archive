@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 
 > Music from “BanG Dream! “ series! 次世代ガールズバンドプロジェクト『BanG Dream!（バンドリ！）』公式プレイリスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,036 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,091 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,13 +21,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 | 11 | [ゴーカ!ごーかい!?ファントムシーフ!](https://open.spotify.com/track/1ax9Yfwu3CUngxoKWHlGUw) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [にこにこねくと!](https://open.spotify.com/album/5TVSmT5HcpQ5TxfAp8KwGF) | 3:40 |
 | 12 | [flame of hope](https://open.spotify.com/track/5uszBzVvtvw29ZTYmpyE6U) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [Bloom Bloom](https://open.spotify.com/album/6a8ECUWLbDseAr1t9V5jhf) | 4:13 |
 | 13 | [ワクワクmeetsトリップ](https://open.spotify.com/track/5zszZKQ7XJwtA66bPlFMj0) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [TITLE IDOL](https://open.spotify.com/album/40dDOmQivDb9fIraBn82i5) | 4:07 |
-| 14 | [EXPOSE ‘Burn out!!!’](https://open.spotify.com/track/3zVoYxvBz3gXBpN8UkqyGC) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [ERA](https://open.spotify.com/album/62C2FYnrqee7cqVlrn24yk) | 4:44 |
+| 14 | [EXPOSE 'Burn out!!!'](https://open.spotify.com/track/3zVoYxvBz3gXBpN8UkqyGC) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [ERA](https://open.spotify.com/album/62C2FYnrqee7cqVlrn24yk) | 4:44 |
 | 15 | [I\-I Never Said Love!](https://open.spotify.com/track/6cB1HzM544iuFeXEIba8ug) | [市ヶ谷有咲\(CV.伊藤彩沙\)](https://open.spotify.com/artist/42iK1LthFSToAk8siJWOry) | [I\-I Never Said Love!](https://open.spotify.com/album/47vhSZQmJN0WyMaig29Zls) | 3:55 |
 | 16 | [Hey\-day狂騒曲\(カプリチオ\)](https://open.spotify.com/track/5hxe8V1SssFYZMCQvHxwvh) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [ONE OF US](https://open.spotify.com/album/7hG6dWwbHdovFzMlP6BJ0e) | 3:53 |
 | 17 | [ROZEN HORIZON](https://open.spotify.com/track/7dGXBMLYZF4wYCnkcxpOjd) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [ROZEN HORIZON](https://open.spotify.com/album/03Zx4kGKtldlHXklQDPnfO) | 6:06 |
 | 18 | [Wacha\-Mocha Pettan March](https://open.spotify.com/track/5XtTvwA9Scux2pdUs2WcVl) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [I need you!](https://open.spotify.com/album/1bD3P5yTAFAqE6rYGRG9IA) | 3:53 |
 | 19 | [Introduction](https://open.spotify.com/track/479rfCAZgXrHUFsn1AaN4V) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Introduction](https://open.spotify.com/album/58MD7W6v8GSzXLa97BoGvy) | 3:41 |
-| 20 | [Zettai Sengen 〜Recital〜](https://open.spotify.com/track/2VQiGQTq0MJT4OymCMAuTB) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [Kyu〜Mai\*Flower](https://open.spotify.com/album/6naufY9Fgybtu507eHRlmM) | 4:01 |
+| 20 | [Zettai Sengen \~Recital\~](https://open.spotify.com/track/2VQiGQTq0MJT4OymCMAuTB) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [Kyu\~Mai\*Flower](https://open.spotify.com/album/6naufY9Fgybtu507eHRlmM) | 4:01 |
 | 21 | [ひとりじゃないんだから](https://open.spotify.com/track/515WPZYmddlUfvh83HkVHd) | [彩](https://open.spotify.com/artist/7zCumr2sucYrZFf5vpKY69), [モカ](https://open.spotify.com/artist/08iFyyIHV3408EfVB15t1c), [リサ](https://open.spotify.com/artist/6a11f21Xj5oHDroreiDd35), [花音](https://open.spotify.com/artist/0CP7lmqWkyfS6eltp2vsTf), [つぐみ](https://open.spotify.com/artist/3b6B58DMmqJdVuEiy0pszZ) | [ひとりじゃないんだから](https://open.spotify.com/album/5TGY2a6bgANlDFMdp7AHrm) | 4:00 |
 | 22 | [ONE OF US](https://open.spotify.com/track/3XwMtNKatIHz7fOpCIaixE) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [ONE OF US](https://open.spotify.com/album/7hG6dWwbHdovFzMlP6BJ0e) | 4:41 |
 | 23 | [EXIST](https://open.spotify.com/track/1X8tDqqCiYIfysEq6q795h) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [EXIST](https://open.spotify.com/album/5r6axlxmInCbsuuXrVwuG5) | 3:59 |
@@ -37,12 +37,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 | 27 | [ZEAL of proud](https://open.spotify.com/track/2OHctF8boBgJOEECY8RHeA) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [ZEAL of proud](https://open.spotify.com/album/7J7hJQW7POnSWG7FUrSx4J) | 4:39 |
 | 28 | [Tear Drops](https://open.spotify.com/track/7aPl1DIA0XeMu9yqXNUOH8) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Poppin'on!](https://open.spotify.com/album/1rSxXBi23B1LXH01IdMITL) | 3:38 |
 | 29 | [雨上がりの夢](https://open.spotify.com/track/2d14KGRep1k9dPlTSM2kn8) | [湊 友希那](https://open.spotify.com/artist/1jyXuZcKGRbmIUN1W6e0Me) | [劇場版「BanG Dream! Episode of Roselia」Theme Songs Collection](https://open.spotify.com/album/6QLlnhussxhVSmUBvyKbBh) | 2:55 |
-| 30 | [GO! GO! MANIAC](https://open.spotify.com/track/3LgVlvdNcEa4iKhLxgdexo) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [バンドリ! ガールズバンドパーティ! カバコレ \(Special Selection\)](https://open.spotify.com/album/1kkgobIs7hST3jqja1LUMd) | 4:07 |
+| 30 | [GO! GO! MANIAC](https://open.spotify.com/track/3LgVlvdNcEa4iKhLxgdexo) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [バンドリ! ガールズバンドパーティ! カバコレ Special Selection](https://open.spotify.com/album/1kkgobIs7hST3jqja1LUMd) | 4:07 |
 | 31 | [Don't be afraid!](https://open.spotify.com/track/4q9QnIxZH4FR4Z543vkA85) | [Glitter\*Green](https://open.spotify.com/artist/2sheZhJBCHLVlenoXp72Jz) | [Don't be afraid!](https://open.spotify.com/album/2z4rn5CogIc1wieoxjKHvu) | 3:57 |
 | 32 | [COMIC PANIC!!!](https://open.spotify.com/track/6VqqHjxdGXkeqnvEbXsHbx) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [Y.O.L.O!!!!!!](https://open.spotify.com/album/4LDTFJvIlM2KZMBT8ZHchR) | 4:40 |
 | 33 | [A DECLARATION OF ×××](https://open.spotify.com/track/2zidm9e4RyoubevfU7VHYM) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [ERA](https://open.spotify.com/album/62C2FYnrqee7cqVlrn24yk) | 5:15 |
 | 34 | [Shuwarin☆Dreaming](https://open.spotify.com/track/5BoibxBflNv4MzwRsjqSO8) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [Shuwarin☆Dreaming](https://open.spotify.com/album/4ZeNepkkacJVPvkDbiro78) | 3:53 |
-| 35 | [chAngE](https://open.spotify.com/track/2as6oi3XXxxFj1p9TYGl4L) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [バンドリ! ガールズバンドパーティ! カバコレ Special Selection2](https://open.spotify.com/album/5ph0IVhPZd70PoRnuwbkkc) | 4:10 |
+| 35 | [chAngE](https://open.spotify.com/track/2as6oi3XXxxFj1p9TYGl4L) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [バンドリ! ガールズバンドパーティ! カバコレ Special Selection \(2\)](https://open.spotify.com/album/5ph0IVhPZd70PoRnuwbkkc) | 4:10 |
 | 36 | [えがお・シング・あ・ソング](https://open.spotify.com/track/3K25B2LGZnEOLXSMTf19ty) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [にこにこねくと!](https://open.spotify.com/album/5TVSmT5HcpQ5TxfAp8KwGF) | 4:08 |
 | 37 | [Ringing Bloom](https://open.spotify.com/track/7vPWfW9tpx38Jb7MwUfmmX) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [FIRE BIRD](https://open.spotify.com/album/14eSn0cIa7n8ZNrB9bq8pa) | 5:34 |
 | 38 | [Hello! Wink!](https://open.spotify.com/track/4ekwokxbqpykXfKKckzeRA) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Breakthrough!](https://open.spotify.com/album/5ZGEKyT4SB4U4cXbQmhngy) | 4:40 |

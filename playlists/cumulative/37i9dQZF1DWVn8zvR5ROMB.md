@@ -4,7 +4,7 @@
 
 > All of the newest country music releases in one playlist! Featuring Kane Brown, BRELAND, Avery Anna and more.
 
-1,671 songs - 3 day 19 hr 0 min - [published](https://open.spotify.com/playlist/7JyaLQ6KVSTQOnADUg2eP0)
+1,672 songs - 3 day 19 hr 3 min - [published](https://open.spotify.com/playlist/7JyaLQ6KVSTQOnADUg2eP0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1188,6 +1188,7 @@
 | [Right From Doing Wrong](https://open.spotify.com/track/0XrfkhePPSaoNdEjIHUePb) | [Nick Haynes](https://open.spotify.com/artist/4ptyV8u5XDaOlX0lifT7cr), [Trey Lewis](https://open.spotify.com/artist/15tTVhFpH8EFXeDgO9xkRO) | [Right From Doing Wrong](https://open.spotify.com/album/0fJKvb94UswMJgi0gsiU0I) | 3:09 | 2021-12-31 | 2022-02-19 |
 | [Right In The Middle \(From “American Song Contest”\)](https://open.spotify.com/track/16hmMUe1JzFaQCGG8xws1Z) | [John Morgan](https://open.spotify.com/artist/7FetIwKD9uIJFiUwdHfq6g), [American Song Contest](https://open.spotify.com/artist/3pPClIZCqgahG8bguvacGh) | [Right In The Middle \(From “American Song Contest”\)](https://open.spotify.com/album/2asW6OTdpjQtAzQMdqOREe) | 3:30 | 2022-04-22 | 2022-05-28 |
 | [Right Now](https://open.spotify.com/track/5ck3G7eGFtScipscku8Q8t) | [Caleb Lovely](https://open.spotify.com/artist/588OniOrJFEKU5hWUDJ6V7) | [Right Now](https://open.spotify.com/album/35CLVsyK08NxxZxxwQEmu9) | 3:02 | 2022-01-07 | 2022-01-22 |
+| [Right On](https://open.spotify.com/track/61jOeHM06SACzw5MQq1nHe) | [Brandon Lay](https://open.spotify.com/artist/0H7XMkYygCyZGg8o1uqoZv) | [Right On](https://open.spotify.com/album/0XcLCuiwQfC2AAxbABkbZo) | 3:02 | 2022-09-09 |  |
 | [Right On Time](https://open.spotify.com/track/3JF3flDpns4Djyjw7qkLlX) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [Right On Time](https://open.spotify.com/album/5LjViqd1cA5hzu9qXaxSGh) | 3:06 | 2022-04-29 | 2022-05-07 |
 | [Right or Wrong](https://open.spotify.com/track/2quBiVjw1oY14H8fgW78as) | [Read Southall Band](https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl) | [For the Birds](https://open.spotify.com/album/7vD8gjnmrGKzebsA804VNx) | 4:14 | 2021-12-31 | 2022-01-29 |
 | [Ring You Up](https://open.spotify.com/track/3Puh2iQJDm7l0zCtkYPZbg) | [Jon Wayne Hatfield](https://open.spotify.com/artist/5gzO6m2kswPvKeW2hGCTmp) | [Ring You Up](https://open.spotify.com/album/6UlG7ptBsG0Lkog5v6vP6Q) | 3:43 | 2021-12-31 | 2022-02-19 |

@@ -4,7 +4,7 @@
 
 > Just vibes\. Cover: paopao
 
-210 songs - 10 hr 52 min - [published](https://open.spotify.com/playlist/3Dw6MeHZ1290HOvRyOOXlR)
+211 songs - 10 hr 55 min - [published](https://open.spotify.com/playlist/3Dw6MeHZ1290HOvRyOOXlR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,8 @@
 | [Nada de Mí Vale Dinero](https://open.spotify.com/track/5imr697dT1gPajZWd376fL) | [Ronroneo](https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK), [TIRAYA](https://open.spotify.com/artist/3VbXBoA7I3k5KURFPIajpy) | [Nada de Mí Vale Dinero](https://open.spotify.com/album/5FQLN0ZAIGh3o1Bb0ZK047) | 4:17 | 2022-05-09 | 2022-09-07 |
 | [Nadie Más](https://open.spotify.com/track/2gWN7hIUWkNR6aBBIE7tLG) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Portales](https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx) | 2:35 | 2022-07-26 | 2022-09-07 |
 | [Nela](https://open.spotify.com/track/1E1TL6lHV2jwnuqRbzSAKx) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Nela](https://open.spotify.com/album/4nf0rIuMZG82HUKYWCzzID) | 2:43 | 2022-07-01 | 2022-09-07 |
-| [Nena](https://open.spotify.com/track/4fWY8QZsAhEF0WeI20QhMj) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [Nena](https://open.spotify.com/album/6GeMiynuj56geayA7AqRra) | 2:33 | 2022-09-06 |  |
+| [Nena](https://open.spotify.com/track/4fWY8QZsAhEF0WeI20QhMj) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [Nena](https://open.spotify.com/album/6GeMiynuj56geayA7AqRra) | 2:33 | 2022-09-06 | 2022-09-16 |
+| [Nena](https://open.spotify.com/track/5kJrMogX8dnZvwJVRQct8l) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [Nena](https://open.spotify.com/album/5eYJgVtDk7Az1vRWKNfuzY) | 2:33 | 2022-09-06 |  |
 | [New To You \(with Normani, Tinashe, & Offset\)](https://open.spotify.com/track/22PTmk4mzAVi92WiQPAcFp) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [New To You \(with Normani, Tinashe, & Offset\)](https://open.spotify.com/album/6EfbY42O3BlghXBwGDAnW9) | 5:02 | 2022-08-01 | 2022-09-07 |
 | [NINFÓMANA](https://open.spotify.com/track/2Ev7DNObnkSmZzZhANm8by) | [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Dalyan](https://open.spotify.com/artist/6sy43r2jZgkOnzjyN1RVqN) | [NINFÓMANA](https://open.spotify.com/album/07CeeN5CeDGK3WuJlgQS1U) | 3:40 | 2022-08-29 |  |
 | [No Es Cierto](https://open.spotify.com/track/7Dcx1HLlsCTUlsJSlZDwid) | [Claire Delić](https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY) | [Delić](https://open.spotify.com/album/0iUdBhoYOF9yCCTlxt0Rnx) | 4:33 | 2022-03-21 | 2022-09-07 |

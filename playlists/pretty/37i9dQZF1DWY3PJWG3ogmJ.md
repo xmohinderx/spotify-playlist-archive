@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 
 > Powerful and rhythmic  metal for maximum power during your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 475,174 likes - 120 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 475,462 likes - 120 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,12 +41,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 | 31 | [Killing Season](https://open.spotify.com/track/2p6sku9MUxNZZ2n9Fd4u69) | [Thy Art Is Murder](https://open.spotify.com/artist/3et9upNERQI5IYt5jEDTxM) | [Killing Season](https://open.spotify.com/album/4BshWHZrni9fCgIqKOD43f) | 3:32 |
 | 32 | [Collapse](https://open.spotify.com/track/6oBjnOBqngXWsRuYY5eTnz) | [After The Burial](https://open.spotify.com/artist/0uNj4RxFjG0iVPlZS753en) | [Dig Deep](https://open.spotify.com/album/7ABqA1tuH6eonHAIBaBqHe) | 4:12 |
 | 33 | [Hornet's Nest](https://open.spotify.com/track/12twP0oGdOTzmxLd0CoGs3) | [Power Trip](https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT) | [Hornet's Nest](https://open.spotify.com/album/3fqlPOjQ8mmYRV3ZtlkQEB) | 4:39 |
-| 34 | [Pigs Ear](https://open.spotify.com/track/6K3loUQE0wrl8sa2KGFvL2) | [Emmure](https://open.spotify.com/artist/1C62FV9Cltn9L4c9jAwCyk) | [Hindsight](https://open.spotify.com/album/55rUi0DIA1k24v7LdeAhKs) | 2:11 |
-| 35 | [Born in Dissonance](https://open.spotify.com/track/6GYyGwbJeHyFj9po98ZGpS) | [Meshuggah](https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY) | [The Violent Sleep of Reason](https://open.spotify.com/album/7iqG1CTQwnil3TQ0Tiq9DD) | 4:34 |
+| 34 | [Born in Dissonance](https://open.spotify.com/track/6GYyGwbJeHyFj9po98ZGpS) | [Meshuggah](https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY) | [The Violent Sleep of Reason](https://open.spotify.com/album/7iqG1CTQwnil3TQ0Tiq9DD) | 4:34 |
+| 35 | [Pigs Ear](https://open.spotify.com/track/6K3loUQE0wrl8sa2KGFvL2) | [Emmure](https://open.spotify.com/artist/1C62FV9Cltn9L4c9jAwCyk) | [Hindsight](https://open.spotify.com/album/55rUi0DIA1k24v7LdeAhKs) | 2:11 |
 | 36 | [SLEEPS SOCIETY](https://open.spotify.com/track/5LteMwtmnx3IOCihvyO4v0) | [While She Sleeps](https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a) | [SLEEPS SOCIETY](https://open.spotify.com/album/3j3pfrxKxe3Y9D9wyxZmmi) | 3:21 |
 | 37 | [To the Threshold](https://open.spotify.com/track/3y2p2XXpgw5QHxKmokQEHQ) | [Hatebreed](https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV) | [Supremacy](https://open.spotify.com/album/3EYFN0Qx0TMeJwSVgWO1ky) | 2:49 |
-| 38 | [Earth Scar](https://open.spotify.com/track/6ELePWpAnvr6YueTV3JlIu) | [Decapitated](https://open.spotify.com/artist/17MbhJOaaPHuWnRaWU9xkc) | [Anticult](https://open.spotify.com/album/0hW5Ys2f00hVcetT2aQdnJ) | 5:09 |
-| 39 | [A Serpent's Touch](https://open.spotify.com/track/0mFaWgcWph8oldTKMnWeQW) | [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw), [Emma Boster](https://open.spotify.com/artist/6r09lZ8Wsiyz9Vd9oo0Z1Z) | [A Different Shade of Blue](https://open.spotify.com/album/0H8pB7p68Ynf3w9AxjQW9H) | 3:02 |
+| 38 | [A Serpent's Touch](https://open.spotify.com/track/0mFaWgcWph8oldTKMnWeQW) | [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw), [Emma Boster](https://open.spotify.com/artist/6r09lZ8Wsiyz9Vd9oo0Z1Z) | [A Different Shade of Blue](https://open.spotify.com/album/0H8pB7p68Ynf3w9AxjQW9H) | 3:02 |
+| 39 | [Earth Scar](https://open.spotify.com/track/6ELePWpAnvr6YueTV3JlIu) | [Decapitated](https://open.spotify.com/artist/17MbhJOaaPHuWnRaWU9xkc) | [Anticult](https://open.spotify.com/album/0hW5Ys2f00hVcetT2aQdnJ) | 5:09 |
 | 40 | [Barren and Breathless Macrocosm](https://open.spotify.com/track/5LoE9oTVlb2x59rKfkyyTZ) | [Shadow of Intent](https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D), [Trevor Strnad](https://open.spotify.com/artist/1M5Gj4up3YtKtUY8xecMRb) | [Melancholy](https://open.spotify.com/album/5IgHVlikizQFBPieV1uk8v) | 4:56 |
 | 41 | [Death Squad Anthem](https://open.spotify.com/track/3xZxgCiuO2UGN6bEmz6ZIu) | [Thy Art Is Murder](https://open.spotify.com/artist/3et9upNERQI5IYt5jEDTxM) | [Human Target](https://open.spotify.com/album/45oaK6XdF8aZ9tIF6aPQCM) | 3:13 |
 | 42 | [Us & Them](https://open.spotify.com/track/34t86NDIJo7Q0pdqcK9SSw) | [Kublai Khan TX](https://open.spotify.com/artist/5BIOo2mCAokFcLHXO2Llb4) | [Absolute](https://open.spotify.com/album/6klYyVkzntFBjJch93UB6y) | 2:37 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 | 44 | [Visions in My Head](https://open.spotify.com/track/1JvMOOYZjXLQCZ5p5b0JJD) | [Obituary](https://open.spotify.com/artist/0SbGI4sb8dAKFZnK7RFyhz) | [Inked in Blood \(Deluxe Version\)](https://open.spotify.com/album/4t3LpnsYsu1RBOwHkmwh8k) | 4:14 |
 | 45 | [The Death Of Us](https://open.spotify.com/track/4QWm4vWg9I9kCKY5lPQh43) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Bill & Ted Face The Music \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5tBqYNxRj9fUW6s7OuzBnz) | 3:59 |
 | 46 | [Divine Apprehension](https://open.spotify.com/track/430VZGvjBfWzjVf0vZkbb8) | [Power Trip](https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT) | [Opening Fire: 2008\-2014](https://open.spotify.com/album/0rZIGEccKBNGf2oqFKzoD5) | 4:17 |
-| 47 | [Forward!](https://open.spotify.com/track/38XmF28XW6a7g44JhZdsDT) | [Anaal Nathrakh](https://open.spotify.com/artist/7vrrJ5YlL3I8XUrh1ktGJV) | [A New Kind of Horror](https://open.spotify.com/album/7ML6J0j6KW0Y3X6N6qvTta) | 3:29 |
-| 48 | [Bleeding Sun](https://open.spotify.com/track/6bsxDgpU5nlcHNZYtsfZG8) | [Chelsea Grin](https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b) | [Bleeding Sun](https://open.spotify.com/album/7hkhFnClNPmRXL20KqdzSO) | 3:39 |
+| 47 | [Bleeding Sun](https://open.spotify.com/track/6bsxDgpU5nlcHNZYtsfZG8) | [Chelsea Grin](https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b) | [Bleeding Sun](https://open.spotify.com/album/7hkhFnClNPmRXL20KqdzSO) | 3:39 |
+| 48 | [Forward!](https://open.spotify.com/track/38XmF28XW6a7g44JhZdsDT) | [Anaal Nathrakh](https://open.spotify.com/artist/7vrrJ5YlL3I8XUrh1ktGJV) | [A New Kind of Horror](https://open.spotify.com/album/7ML6J0j6KW0Y3X6N6qvTta) | 3:29 |
 | 49 | [SLIT WRIST SAVIOR \- Graveside Edition](https://open.spotify.com/track/3Snjx8exeyc80Cbze9kzBy) | [Carnifex](https://open.spotify.com/artist/4nqY8hkQNkHaDq4fdVxdYr) | [GRAVESIDE CONFESSIONS](https://open.spotify.com/album/60laAVmomVOkxeHbcUqbKQ) | 4:21 |
 | 50 | [Here Comes The Boom](https://open.spotify.com/track/7foMdEhJevqESQw39FQcuv) | [Rise Of The Northstar](https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K) | [Here Comes The Boom](https://open.spotify.com/album/1pIuEG8M02eyQkR6HVdd83) | 4:11 |
 | 51 | [Underneath the Scars](https://open.spotify.com/track/08YwIGFDmY2FjeY05kgUmX) | [Kataklysm](https://open.spotify.com/artist/7kozeGeawfP7IEEL6dddrM) | [Unconquered](https://open.spotify.com/album/5akcoD7tDHbQMQXEbyxD1U) | 3:46 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 | 119 | [Too Far From That](https://open.spotify.com/track/5GHKtIzMv58arYqe6BUFHT) | [Cruel Hand](https://open.spotify.com/artist/1SFgBn3VKdBuPao3H2ZlFV) | [Your World Won't Listen](https://open.spotify.com/album/4S99ZdjxAJsn4F8Hf7o3Rh) | 2:25 |
 | 120 | [Mayday](https://open.spotify.com/track/01yF8zxWrRNwIKbboQWXUc) | [Abbie Falls](https://open.spotify.com/artist/5nSlRGZqJVAORU3SsSD0YU) | [Mayday](https://open.spotify.com/album/1AuUskhq0HRAC61tKF8uAi) | 3:18 |
 
-Snapshot ID: `MTY1MDYxNzQ1NiwwMDAwMDAwMGFmNDlkMzlkZGFiNmUzMDQ5MjAwOTI5MTMzMmNiNWE4`
+Snapshot ID: `MTY1MDYxNzQ1NiwwMDAwMDAwMGQ1ZGQwN2I0NzdmZDdhNDE2ZjBmZmZlMjkwMWE4Mjcx`

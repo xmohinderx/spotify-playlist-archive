@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZel4xa7wX1s.md) - [plain]
 
 > Key words: Contemporary pop, legends, country music \- and something in between\. Just good tunes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,336 likes - 60 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,334 likes - 60 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZel4xa7wX1s.md) - [plain]
 | 34 | [Prove You Wrong](https://open.spotify.com/track/4mWc6pp9qeSoQEZ2jYd7a0) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Threads](https://open.spotify.com/album/4b65ZJhMr04pEScAjHYpg7) | 3:41 |
 | 35 | [There Goes My Miracle](https://open.spotify.com/track/2NVDqyBmkPLANgy3S5He6d) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Western Stars](https://open.spotify.com/album/6BhqPpIgY83rqoZ2L78Lte) | 4:03 |
 | 36 | [Sanremo](https://open.spotify.com/track/1tH4JALrku66weg6Bx5fC9) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [My Name Is Michael Holbrook](https://open.spotify.com/album/4bVlbOipapiqrTusSsgvIc) | 3:24 |
-| 37 | [Everybody's Someone \(with Olivia Newton\-John\)](https://open.spotify.com/track/2DjVZhFqVCRcIw1qo002co) | [Cliff Richard](https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy), [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Rise Up](https://open.spotify.com/album/1ixsXzGu3qPdWhSP6uVe8o) | 3:45 |
-| 38 | [Over The Hump](https://open.spotify.com/track/5VU0m0N5Y8kHJBjJp40Ipb) | [The Kelly Family](https://open.spotify.com/artist/5KU4DdFlZy6aiI5u6nhywP) | [25 Years Later](https://open.spotify.com/album/4QKirfSQTnnbswBaDl4tl8) | 3:47 |
+| 37 | [Over The Hump](https://open.spotify.com/track/5VU0m0N5Y8kHJBjJp40Ipb) | [The Kelly Family](https://open.spotify.com/artist/5KU4DdFlZy6aiI5u6nhywP) | [25 Years Later](https://open.spotify.com/album/4QKirfSQTnnbswBaDl4tl8) | 3:47 |
+| 38 | [Everybody's Someone \(with Olivia Newton\-John\)](https://open.spotify.com/track/2DjVZhFqVCRcIw1qo002co) | [Cliff Richard](https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy), [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Rise Up](https://open.spotify.com/album/1ixsXzGu3qPdWhSP6uVe8o) | 3:45 |
 | 39 | [Good Thing Gone](https://open.spotify.com/track/4AhTpAErJb7HZFV7tcUPWD) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Good Thing Gone](https://open.spotify.com/album/2w6vx42lq9GcPoz1iMeFuV) | 4:52 |
 | 40 | [Tucson Train](https://open.spotify.com/track/4HK0sl3lqQH0RR0dA0ZQH5) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Western Stars](https://open.spotify.com/album/6BhqPpIgY83rqoZ2L78Lte) | 3:29 |
 | 41 | [Ball and Chain](https://open.spotify.com/track/64csOaHL9FYqiOJxAi8h5X) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [WHO \(Deluxe\)](https://open.spotify.com/album/2WuaYvGgx9MS1Vj37aBiyU) | 4:29 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZel4xa7wX1s.md) - [plain]
 | 59 | [Amazing](https://open.spotify.com/track/0JahrDBriRtoaO473f00rk) | [Paul Carrack](https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz) | [These Days](https://open.spotify.com/album/0OyJRO76yPcp9woysD5VT6) | 4:01 |
 | 60 | [Loves Missing](https://open.spotify.com/track/78W2JgujSHp98M87UJkcjM) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Free](https://open.spotify.com/album/2aRxolqVA2v2TFeuWPIuEI) | 4:19 |
 
-Snapshot ID: `MTU3NTAyMDI3NSwwMDAwMDAwMDI1MTE2YzdiMTExMGQ4MDJkNjM5NTA0MDU5OTEyMmU4`
+Snapshot ID: `MTU3NTAyMDI3NSwwMDAwMDAwMDMyY2Q1Njc3MjkwYjY0Yjc4ODM2NzAzNTMyNmU1ZjY3`

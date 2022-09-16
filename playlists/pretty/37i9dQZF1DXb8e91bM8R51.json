@@ -1,12 +1,12 @@
 {
   "description": "Hip Hop pra fazer os corres da vida.",
-  "num_followers": 35053,
+  "num_followers": 35055,
   "original_name": "No corre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5MjQ2MCwwMDAwMDAwMGY4MmMxZTZiNWI5MzMyNjg3YWVlYWVhMmFkZDgwZTNk",
+  "snapshot_id": "MTY2MjY5MjQ2MCwwMDAwMDAwMDNlOThmODNkZWYzNTZkMzU0NzgwOWE5ZDE4ZDVlOWZj",
   "tracks": [
     {
       "added_at": "2022-09-09 03:01:00",
@@ -359,6 +359,22 @@
     {
       "added_at": "2022-09-09 03:01:00",
       "album": {
+        "name": "Nail Tech",
+        "url": "https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 206385,
+      "name": "Nail Tech",
+      "url": "https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz"
+    },
+    {
+      "added_at": "2022-09-09 03:01:00",
+      "album": {
         "name": "Big 14 (feat. Offset & Moneybagg Yo)",
         "url": "https://open.spotify.com/album/4QjFj3RCLsh7x7mwdaaEfO"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 247458,
       "name": "Big 14 (feat. Offset & Moneybagg Yo)",
       "url": "https://open.spotify.com/track/7rQ84WsT2Wcnrz5gTmbGmw"
-    },
-    {
-      "added_at": "2022-09-09 03:01:00",
-      "album": {
-        "name": "Nail Tech",
-        "url": "https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 206385,
-      "name": "Nail Tech",
-      "url": "https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz"
     },
     {
       "added_at": "2022-09-09 03:01:00",
@@ -511,26 +511,6 @@
     {
       "added_at": "2022-09-09 03:01:00",
       "album": {
-        "name": "LONDON (feat. J. Cole)",
-        "url": "https://open.spotify.com/album/5rIHQjM7xy35RYx9E3XaqS"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 250722,
-      "name": "LONDON (feat. J. Cole)",
-      "url": "https://open.spotify.com/track/5vhrsx08dHh2QcVh1Rsiwt"
-    },
-    {
-      "added_at": "2022-09-09 03:01:00",
-      "album": {
         "name": "Black On Both Sides",
         "url": "https://open.spotify.com/album/5gK2l2LgWY0BA4p9uy27z6"
       },
@@ -543,22 +523,6 @@
       "duration_ms": 223546,
       "name": "Ms. Fat Booty",
       "url": "https://open.spotify.com/track/0IVAlb0cFCH1cQ974iR1TU"
-    },
-    {
-      "added_at": "2022-09-09 03:01:00",
-      "album": {
-        "name": "late at night",
-        "url": "https://open.spotify.com/album/2WFC0XUBROo4X2vxLwtB4u"
-      },
-      "artists": [
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 174682,
-      "name": "late at night",
-      "url": "https://open.spotify.com/track/1fxYz1s15pyZLsJT0Hdh1m"
     },
     {
       "added_at": "2022-09-09 03:01:00",
@@ -579,6 +543,42 @@
       "duration_ms": 157675,
       "name": "SUVs (Black on Black)",
       "url": "https://open.spotify.com/track/1MIGkQxcdAt2lDx6ySpsc5"
+    },
+    {
+      "added_at": "2022-09-09 03:01:00",
+      "album": {
+        "name": "LONDON (feat. J. Cole)",
+        "url": "https://open.spotify.com/album/5rIHQjM7xy35RYx9E3XaqS"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 250722,
+      "name": "LONDON (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/5vhrsx08dHh2QcVh1Rsiwt"
+    },
+    {
+      "added_at": "2022-09-09 03:01:00",
+      "album": {
+        "name": "late at night",
+        "url": "https://open.spotify.com/album/2WFC0XUBROo4X2vxLwtB4u"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 174682,
+      "name": "late at night",
+      "url": "https://open.spotify.com/track/1fxYz1s15pyZLsJT0Hdh1m"
     },
     {
       "added_at": "2022-09-09 03:01:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2022-09-09 03:01:00",
       "album": {
-        "name": "Trouble Deluxe Edition",
-        "url": "https://open.spotify.com/album/77eKpEVxmSr1RhqMlirlTF"
-      },
-      "artists": [
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 235066,
-      "name": "Locked Up",
-      "url": "https://open.spotify.com/track/48EQasc6XD0pOQtkIOWqOC"
-    },
-    {
-      "added_at": "2022-09-09 03:01:00",
-      "album": {
         "name": "Tyler Herro",
         "url": "https://open.spotify.com/album/4Vd7lpztpJdmMt9hrLfXWe"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 156497,
       "name": "Tyler Herro",
       "url": "https://open.spotify.com/track/4DuUwzP4ALMqpquHU0ltAB"
+    },
+    {
+      "added_at": "2022-09-09 03:01:00",
+      "album": {
+        "name": "Trouble Deluxe Edition",
+        "url": "https://open.spotify.com/album/77eKpEVxmSr1RhqMlirlTF"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "duration_ms": 235066,
+      "name": "Locked Up",
+      "url": "https://open.spotify.com/track/48EQasc6XD0pOQtkIOWqOC"
     },
     {
       "added_at": "2022-09-09 03:01:00",
@@ -1239,6 +1239,26 @@
     {
       "added_at": "2022-09-09 03:01:00",
       "album": {
+        "name": "[BUMP] Pick Me Up",
+        "url": "https://open.spotify.com/album/6zRk8SdWozgrlByoZJkCjM"
+      },
+      "artists": [
+        {
+          "name": "Bas",
+          "url": "https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 157777,
+      "name": "[Admire Her] (with Gunna)",
+      "url": "https://open.spotify.com/track/4wJKTG3bAleqUXmylh83Id"
+    },
+    {
+      "added_at": "2022-09-09 03:01:00",
+      "album": {
         "name": "Strangers (feat. A$AP Rocky and Run The Jewels)",
         "url": "https://open.spotify.com/album/6OHZ8QAgIJC7nPwACpWqG8"
       },
@@ -1263,26 +1283,6 @@
       "duration_ms": 248000,
       "name": "Strangers (feat. A$AP Rocky and Run The Jewels)",
       "url": "https://open.spotify.com/track/5iP1KNUxchR64bieN9pE7z"
-    },
-    {
-      "added_at": "2022-09-09 03:01:00",
-      "album": {
-        "name": "[BUMP] Pick Me Up",
-        "url": "https://open.spotify.com/album/6zRk8SdWozgrlByoZJkCjM"
-      },
-      "artists": [
-        {
-          "name": "Bas",
-          "url": "https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 157777,
-      "name": "[Admire Her] (with Gunna)",
-      "url": "https://open.spotify.com/track/4wJKTG3bAleqUXmylh83Id"
     },
     {
       "added_at": "2022-09-09 03:01:00",
@@ -1579,26 +1579,6 @@
     {
       "added_at": "2022-09-09 03:01:00",
       "album": {
-        "name": "RUN",
-        "url": "https://open.spotify.com/album/6zNJxFmILwoDTFYJqhQFIU"
-      },
-      "artists": [
-        {
-          "name": "Killer Mike",
-          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 233090,
-      "name": "RUN [Feat. Young Thug]",
-      "url": "https://open.spotify.com/track/4DSS2IhBFgW7MYyjkOOx68"
-    },
-    {
-      "added_at": "2022-09-09 03:01:00",
-      "album": {
         "name": "King's Disease II",
         "url": "https://open.spotify.com/album/6CM5qhYBvpgYNek5kYwuOJ"
       },
@@ -1651,6 +1631,26 @@
     {
       "added_at": "2022-09-09 03:01:00",
       "album": {
+        "name": "RUN",
+        "url": "https://open.spotify.com/album/6zNJxFmILwoDTFYJqhQFIU"
+      },
+      "artists": [
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 233090,
+      "name": "RUN [Feat. Young Thug]",
+      "url": "https://open.spotify.com/track/4DSS2IhBFgW7MYyjkOOx68"
+    },
+    {
+      "added_at": "2022-09-09 03:01:00",
+      "album": {
         "name": "The House Is Burning [homies begged]",
         "url": "https://open.spotify.com/album/33ichA2TzIOdW248hRlqpH"
       },
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2022-09-09 03:01:00",
       "album": {
-        "name": "Survivors Guilt",
-        "url": "https://open.spotify.com/album/5XGzCRfgCbpaMPLpDYvUNF"
-      },
-      "artists": [
-        {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
-        }
-      ],
-      "duration_ms": 352613,
-      "name": "Survivors Guilt",
-      "url": "https://open.spotify.com/track/5cEd8xWXyqhpuCDUXQOyE3"
-    },
-    {
-      "added_at": "2022-09-09 03:01:00",
-      "album": {
         "name": "Kool Aid and Frozen Pizza",
         "url": "https://open.spotify.com/album/7xHyZoZLGHVUCdZwG16Zd3"
       },
@@ -1723,22 +1707,18 @@
     {
       "added_at": "2022-09-09 03:01:00",
       "album": {
-        "name": "Vinyl Days",
-        "url": "https://open.spotify.com/album/39Pk4nMutY9mR59Z1n9BH1"
+        "name": "Survivors Guilt",
+        "url": "https://open.spotify.com/album/5XGzCRfgCbpaMPLpDYvUNF"
       },
       "artists": [
         {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
-        },
-        {
-          "name": "DJ Premier",
-          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
         }
       ],
-      "duration_ms": 282581,
-      "name": "Vinyl Days (feat. DJ Premier)",
-      "url": "https://open.spotify.com/track/4Red8fs87G5istv5L8S9kU"
+      "duration_ms": 352613,
+      "name": "Survivors Guilt",
+      "url": "https://open.spotify.com/track/5cEd8xWXyqhpuCDUXQOyE3"
     },
     {
       "added_at": "2022-09-09 03:01:00",
@@ -1763,6 +1743,26 @@
       "duration_ms": 241582,
       "name": "Carefree (with Femdot & Mick Jenkins)",
       "url": "https://open.spotify.com/track/5B6EIqgRxNOU08BgyKNQSS"
+    },
+    {
+      "added_at": "2022-09-09 03:01:00",
+      "album": {
+        "name": "Vinyl Days",
+        "url": "https://open.spotify.com/album/39Pk4nMutY9mR59Z1n9BH1"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        },
+        {
+          "name": "DJ Premier",
+          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+        }
+      ],
+      "duration_ms": 282581,
+      "name": "Vinyl Days (feat. DJ Premier)",
+      "url": "https://open.spotify.com/track/4Red8fs87G5istv5L8S9kU"
     },
     {
       "added_at": "2022-09-09 03:01:00",
@@ -1811,6 +1811,26 @@
     {
       "added_at": "2022-09-09 03:01:00",
       "album": {
+        "name": "Faces",
+        "url": "https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "duration_ms": 239954,
+      "name": "Insomniak (feat. Rick Ross)",
+      "url": "https://open.spotify.com/track/0qdSK9Nr5OAvWzPA5OHxw7"
+    },
+    {
+      "added_at": "2022-09-09 03:01:00",
+      "album": {
         "name": "Apt. 505",
         "url": "https://open.spotify.com/album/2f9OKBlHW6ZcJ11cutOCGf"
       },
@@ -1843,6 +1863,26 @@
     {
       "added_at": "2022-09-09 03:01:00",
       "album": {
+        "name": "As Above, So Below",
+        "url": "https://open.spotify.com/album/3QBYDADSp9ca7yNWL4hGzu"
+      },
+      "artists": [
+        {
+          "name": "Sampa the Great",
+          "url": "https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 234480,
+      "name": "Let Me Be Great [Feat. Ang\u00e9lique Kidjo]",
+      "url": "https://open.spotify.com/track/7sXjwoCydLIZlJ1WpIyh9J"
+    },
+    {
+      "added_at": "2022-09-09 03:01:00",
+      "album": {
         "name": "Outlawz (feat. Jazmine Sullivan & 21 Savage)",
         "url": "https://open.spotify.com/album/0ed1FTetxxPugDhD5KmLeY"
       },
@@ -1867,42 +1907,6 @@
     {
       "added_at": "2022-09-09 03:01:00",
       "album": {
-        "name": "Bodboy",
-        "url": "https://open.spotify.com/album/27dq8NifT3260FUbT6F2Gz"
-      },
-      "artists": [
-        {
-          "name": "Bobby Shmurda",
-          "url": "https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO"
-        }
-      ],
-      "duration_ms": 142560,
-      "name": "Whole Brick",
-      "url": "https://open.spotify.com/track/1VS0Jl32hbO3LxlrR2aWar"
-    },
-    {
-      "added_at": "2022-09-09 03:01:00",
-      "album": {
-        "name": "Faces",
-        "url": "https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        },
-        {
-          "name": "Rick Ross",
-          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
-        }
-      ],
-      "duration_ms": 239954,
-      "name": "Insomniak (feat. Rick Ross)",
-      "url": "https://open.spotify.com/track/0qdSK9Nr5OAvWzPA5OHxw7"
-    },
-    {
-      "added_at": "2022-09-09 03:01:00",
-      "album": {
         "name": "We Set The Trends",
         "url": "https://open.spotify.com/album/6IOsvcH7VwhoX14VfH6kwq"
       },
@@ -1919,6 +1923,22 @@
       "duration_ms": 220043,
       "name": "We Set The Trends",
       "url": "https://open.spotify.com/track/56NJwtpBTG8RHlITXg7v7s"
+    },
+    {
+      "added_at": "2022-09-09 03:01:00",
+      "album": {
+        "name": "Bodboy",
+        "url": "https://open.spotify.com/album/27dq8NifT3260FUbT6F2Gz"
+      },
+      "artists": [
+        {
+          "name": "Bobby Shmurda",
+          "url": "https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO"
+        }
+      ],
+      "duration_ms": 142560,
+      "name": "Whole Brick",
+      "url": "https://open.spotify.com/track/1VS0Jl32hbO3LxlrR2aWar"
     },
     {
       "added_at": "2022-09-09 03:01:00",
@@ -1955,26 +1975,6 @@
       "duration_ms": 202331,
       "name": "Lay Wit Ya (feat. Duke Deuce)",
       "url": "https://open.spotify.com/track/0RlsFYqkOzlg4ZxVQs9YJA"
-    },
-    {
-      "added_at": "2022-09-09 03:01:00",
-      "album": {
-        "name": "As Above, So Below",
-        "url": "https://open.spotify.com/album/3QBYDADSp9ca7yNWL4hGzu"
-      },
-      "artists": [
-        {
-          "name": "Sampa the Great",
-          "url": "https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk"
-        },
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 234480,
-      "name": "Let Me Be Great [Feat. Ang\u00e9lique Kidjo]",
-      "url": "https://open.spotify.com/track/7sXjwoCydLIZlJ1WpIyh9J"
     },
     {
       "added_at": "2022-09-09 03:01:00",
@@ -2339,26 +2339,6 @@
     {
       "added_at": "2022-09-09 03:01:00",
       "album": {
-        "name": "What It Feels Like",
-        "url": "https://open.spotify.com/album/5h6d9ezpObCGHnDkJKsjk3"
-      },
-      "artists": [
-        {
-          "name": "Nipsey Hussle",
-          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
-        },
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 275162,
-      "name": "What It Feels Like",
-      "url": "https://open.spotify.com/track/7iNGwN4yuxATUtv0qYXJ8Q"
-    },
-    {
-      "added_at": "2022-09-09 03:01:00",
-      "album": {
         "name": "All I Really Wanted",
         "url": "https://open.spotify.com/album/0b201G6KYDumbCiLW3FOXo"
       },
@@ -2379,22 +2359,38 @@
     {
       "added_at": "2022-09-09 03:01:00",
       "album": {
-        "name": "Taylor Allderdice",
-        "url": "https://open.spotify.com/album/5cpYhM2NdVjJXMy9uZhD2J"
+        "name": "What It Feels Like",
+        "url": "https://open.spotify.com/album/5h6d9ezpObCGHnDkJKsjk3"
       },
       "artists": [
         {
-          "name": "Wiz Khalifa",
-          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
         },
         {
-          "name": "Juicy J",
-          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
         }
       ],
-      "duration_ms": 232053,
-      "name": "My Favorite Song",
-      "url": "https://open.spotify.com/track/6d6Rm6ZHVz8AkE28HkO8eM"
+      "duration_ms": 275162,
+      "name": "What It Feels Like",
+      "url": "https://open.spotify.com/track/7iNGwN4yuxATUtv0qYXJ8Q"
+    },
+    {
+      "added_at": "2022-09-09 03:01:00",
+      "album": {
+        "name": "ARE YOU WITH THAT?",
+        "url": "https://open.spotify.com/album/4aVkF3zCR2qWA6uDb8DTbd"
+      },
+      "artists": [
+        {
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+        }
+      ],
+      "duration_ms": 138410,
+      "name": "ARE YOU WITH THAT?",
+      "url": "https://open.spotify.com/track/0du80hkIk5zQfc4oLNUfKx"
     }
   ],
   "unique_name": "No corre",

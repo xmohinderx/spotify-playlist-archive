@@ -1308,6 +1308,28 @@
     },
     {
       "album": {
+        "name": "Botox",
+        "url": "https://open.spotify.com/album/1CjtjrWyjx2eT5OejciTVr"
+      },
+      "artists": [
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        },
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Scale (con Luch\u00e8)",
+      "url": "https://open.spotify.com/track/5kaJg74U4GWosPvjOJujXD"
+    },
+    {
+      "album": {
         "name": "Dark Love EP",
         "url": "https://open.spotify.com/album/1AT2eHexB7x445IxuECZLW"
       },

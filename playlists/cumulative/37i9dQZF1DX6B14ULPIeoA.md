@@ -4,7 +4,7 @@
 
 > ¡Dulces, verdes y rojos! Con su champurrado calientito.
 
-172 songs - 8 hr 57 min - [published](https://open.spotify.com/playlist/73UOu4GnK799VXnAbtt9LK)
+173 songs - 8 hr 59 min - [published](https://open.spotify.com/playlist/73UOu4GnK799VXnAbtt9LK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [La cama de piedra](https://open.spotify.com/track/4k2RPbnJ2YIopAFJ2bwmfo) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [15 Inmortales de Pedro Infante](https://open.spotify.com/album/0EUGqkj07wWx27XADAq3Ba) | 2:29 | 2022-01-12 |  |
 | [La casa en el aire](https://open.spotify.com/track/55IkGzN12uEDLIh0w7pzbB) | [Rafael Escalona](https://open.spotify.com/artist/1eKIYOevfXDbtnLe5saz94), [Trio Azteca](https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY) | [Trio Azteca: Folk Songs and Ballads](https://open.spotify.com/album/1fC7tnPE1fTadN6NePzG2V) | 3:01 | 2022-01-12 | 2022-07-29 |
 | [La Diferencia](https://open.spotify.com/track/0UjaaTDGZcDhNZITXW9nUI) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Con el Mariachi de América de Jesús Rodríguez de Hijar](https://open.spotify.com/album/1KyEwimgjlEeq4Ovc1D8ws) | 3:20 | 2022-01-12 |  |
+| [La enramada \(arr\. R\. Jonas\)](https://open.spotify.com/track/02ZnCU5Qjq9pIqMZirMaoU) | [De Norte A Sur](https://open.spotify.com/artist/7bvhkGrKvpwFoxxhu2pW15) | [The Best of Mexico](https://open.spotify.com/album/53ovjfvOTKp9wfeI0J35TM) | 2:50 | 2022-01-12 |  |
 | [La enramada \(Arr\. R\. Jonas\)](https://open.spotify.com/track/738P4VYhJCQOg7yXtFnwVy) | [De Norte A Sur](https://open.spotify.com/artist/7bvhkGrKvpwFoxxhu2pW15) | [The Best of Mexico](https://open.spotify.com/album/0JjUyzvAkWOcKizrCSOEd9) | 2:50 | 2022-01-12 | 2022-07-29 |
 | [La feria de las flores \(Arr\. R\. Jonas\)](https://open.spotify.com/track/3UpBtWoZJgJQWUYWjs51LY) | [De Norte A Sur](https://open.spotify.com/artist/7bvhkGrKvpwFoxxhu2pW15) | [The Best of Mexico](https://open.spotify.com/album/0JjUyzvAkWOcKizrCSOEd9) | 3:06 | 2022-01-12 | 2022-07-29 |
 | [La feria de las flores \(arr\. R\. Jonas\)](https://open.spotify.com/track/6YNbMaPx4W3DPu7fhhwsrK) | [De Norte A Sur](https://open.spotify.com/artist/7bvhkGrKvpwFoxxhu2pW15) | [The Best of Mexico](https://open.spotify.com/album/53ovjfvOTKp9wfeI0J35TM) | 3:06 | 2022-01-12 |  |
@@ -144,7 +145,7 @@
 | [Quiereme Corazon Quiereme](https://open.spotify.com/track/0K38jgUjNNXz6AEgQneS6M) | [Las Almas Nuevas](https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt) | [Quiereme Corazon Quiereme](https://open.spotify.com/album/7z9wIysqZqoUNFso68D3zK) | 2:54 | 2022-01-12 |  |
 | [Quiero Conocerte](https://open.spotify.com/track/0UaLz8op9qrew1xOa3vtpf) | [Mexican Music Factory](https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV), [Felipe Gutierrez](https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c), [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Boleros](https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ) | 2:00 | 2022-01-12 |  |
 | [Quizas, quizas](https://open.spotify.com/track/29TJXRqXKHdsP9gcUD5UK9) | [Osvaldo Farrés](https://open.spotify.com/artist/5ThTreQSco0IwxQRm8mbGA), [Trio Azteca](https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY) | [Trio Azteca: Folk Songs and Ballads](https://open.spotify.com/album/1fC7tnPE1fTadN6NePzG2V) | 3:30 | 2022-01-12 | 2022-07-29 |
-| [Rancho Abandonado](https://open.spotify.com/track/3NeUoyAmPF1IYZ6ISGTq69) | [Byron Brizz](https://open.spotify.com/artist/0PGmoSulvyPVKHDWyyMClJ), [David Peña](https://open.spotify.com/artist/4NMM9OaHOyncdIvuDks37i) | [Alma Mexicana](https://open.spotify.com/album/5q23NA34MBehDCwbbhfDBJ) | 2:09 | 2022-01-12 |  |
+| [Rancho Abandonado](https://open.spotify.com/track/3NeUoyAmPF1IYZ6ISGTq69) | [Byron Brizz](https://open.spotify.com/artist/0PGmoSulvyPVKHDWyyMClJ), [David Peña](https://open.spotify.com/artist/4NMM9OaHOyncdIvuDks37i) | [Alma Mexicana](https://open.spotify.com/album/5q23NA34MBehDCwbbhfDBJ) | 2:09 | 2022-01-12 | 2022-09-16 |
 | [Rayando el Sol](https://open.spotify.com/track/30jLIvuNOKy8afWOyBOglB) | [Trio Azteca](https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY), [De Norte a Sur y Amigos](https://open.spotify.com/artist/4Y8bmSh6xMYbUedQfE9Uqz) | [Discover Music from Mexico](https://open.spotify.com/album/2fjxjiwPLGvFY9FTKL9BCr) | 3:30 | 2022-01-12 | 2022-07-28 |
 | [Se Me Olvido Otra Vez](https://open.spotify.com/track/2BJXH3hopfuJy4dTrb1gwj) | [Mariachi Premier](https://open.spotify.com/artist/3zUi6YMPFd66AglMtvVoea) | [Recuerdos De Mi Tierra](https://open.spotify.com/album/7qrXv6WJLfQF6msl1m4ZBe) | 3:01 | 2022-01-12 | 2022-07-29 |
 | [Serenata Campechana](https://open.spotify.com/track/1PHnNuRYKdQDCaPuyh03n4) | [Mexican Music Factory](https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb), [Duo: Ramos \- Monterrubio](https://open.spotify.com/artist/22qABRiNfRlmXEaSVX8mI3) | [Guitarras Mexicanas, Vol\. 2](https://open.spotify.com/album/28QGhzJl7Ylj9cTWZgJY9b) | 4:16 | 2022-01-12 |  |

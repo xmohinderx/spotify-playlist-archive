@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Lagu-lagu yang terbaik di Malaysia. Cover: Nuha Bahrin, Naufal Azrin",
+  "description": "Lagu-lagu yang terbaik di Malaysia. Cover: Joe Flizzow",
   "name": "Carta Malaysia 50",
   "published_playlist_ids": [
     "3xlZYnrJUmenJqfRqm85Z9"
@@ -113,7 +113,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-09",
+      "date_removed": null,
       "duration_ms": 201000,
       "name": "Bahagiakan Dia",
       "url": "https://open.spotify.com/track/4oBaBPg7nDBJfvDn3Dkzjk"
@@ -225,7 +225,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 240594,
       "name": "Bisik",
       "url": "https://open.spotify.com/track/4YNhulUIAnaulDVlemRVzX"
@@ -434,6 +434,28 @@
     },
     {
       "album": {
+        "name": "Goodbye, Hello",
+        "url": "https://open.spotify.com/album/3vbivP9we0IXeOC2aLBJt8"
+      },
+      "artists": [
+        {
+          "name": "Syamel",
+          "url": "https://open.spotify.com/artist/5K7M6xiKbPlcekc5fjqbgx"
+        },
+        {
+          "name": "Ernie Zakri",
+          "url": "https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181626,
+      "name": "Goodbye, Hello",
+      "url": "https://open.spotify.com/track/2cdn0cLqoKJy77Ly8UAf0E"
+    },
+    {
+      "album": {
         "name": "Gurauan Berkasih",
         "url": "https://open.spotify.com/album/1cTHOYKnVcZTBbDun5eKbR"
       },
@@ -626,6 +648,28 @@
     },
     {
       "album": {
+        "name": "I LAB U",
+        "url": "https://open.spotify.com/album/6xDjAB66om2adSX7iMfZLv"
+      },
+      "artists": [
+        {
+          "name": "Pudds",
+          "url": "https://open.spotify.com/artist/6saVgVtwLnVSk9fKMtTvnA"
+        },
+        {
+          "name": "Amsyar Leee",
+          "url": "https://open.spotify.com/artist/6ofZ3MNiuNNGPKEbOaWEY8"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140816,
+      "name": "I LAB U",
+      "url": "https://open.spotify.com/track/1gl1lndIHDDpQeYuUrrMoU"
+    },
+    {
+      "album": {
         "name": "Isteri",
         "url": "https://open.spotify.com/album/31hFm4Jh0q1LS4oQSO7EhN"
       },
@@ -785,7 +829,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 206711,
       "name": "Kukira Kau Rumah",
       "url": "https://open.spotify.com/track/1xdp8tXLTGbPeUSEODP9N7"
@@ -821,7 +865,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 267572,
       "name": "Layu Di Hujung Mekar",
       "url": "https://open.spotify.com/track/3GxKGD4HE7YSPkVKqy445n"
@@ -933,7 +977,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 182414,
       "name": "Menghapus Jejakmu",
       "url": "https://open.spotify.com/track/3NuKl7HM691ycLcCa6Vbq2"
@@ -951,10 +995,32 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 220250,
       "name": "Merasa Indah",
       "url": "https://open.spotify.com/track/3Ysf0Y3iu23mrDsVh1mdu0"
+    },
+    {
+      "album": {
+        "name": "Mimpi Ngeri",
+        "url": "https://open.spotify.com/album/0rA7Lc45FOrfeZvVVIcswC"
+      },
+      "artists": [
+        {
+          "name": "Ahmadul Amin",
+          "url": "https://open.spotify.com/artist/3zEZOoywGtysVsh2w8OMZy"
+        },
+        {
+          "name": "Aisyah Aziz",
+          "url": "https://open.spotify.com/artist/4DBXSxqzYS9jcuOpkn0Mh4"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Mimpi Ngeri",
+      "url": "https://open.spotify.com/track/4vUcX4qA3rDIwtM1glK7k1"
     },
     {
       "album": {
@@ -1183,7 +1249,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 244416,
       "name": "Rindu Setengah Mati",
       "url": "https://open.spotify.com/track/4NRbwtbSE7xikojPuG9HjK"
@@ -1227,6 +1293,24 @@
       "duration_ms": 246730,
       "name": "Rumah Singgah",
       "url": "https://open.spotify.com/track/7th706Tw7ByAqOR9FMWXLg"
+    },
+    {
+      "album": {
+        "name": "Saat Kau Pergi",
+        "url": "https://open.spotify.com/album/4Sf3yMxm2adH49CffAi7tE"
+      },
+      "artists": [
+        {
+          "name": "Harry",
+          "url": "https://open.spotify.com/artist/42Fi9dpzwjgV0yKkJZdjiT"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238943,
+      "name": "Saat Kau Pergi",
+      "url": "https://open.spotify.com/track/60KyqCqx207IWtHxLpMZdz"
     },
     {
       "album": {

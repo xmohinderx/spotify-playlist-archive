@@ -4,7 +4,7 @@
 
 > Great songs by indisputable music legends\. Cover: David Bowie
 
-191 songs - 13 hr 13 min - [published](https://open.spotify.com/playlist/0GtqGrLzVf2NF3NwuYf9ll)
+192 songs - 13 hr 18 min - [published](https://open.spotify.com/playlist/0GtqGrLzVf2NF3NwuYf9ll)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Free Fallin'](https://open.spotify.com/track/7woZGXjtaYwuvSoU1zToB3) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Full Moon Fever](https://open.spotify.com/album/7ihweYjA1ck66NTB4bujGl) | 4:16 | 2021-10-14 | 2022-07-29 |
 | [Get It On](https://open.spotify.com/track/5nbNdS5SKdpiDZjCBh8W7b) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Electric Warrior \(Deluxe Edition\)](https://open.spotify.com/album/6hPt04r4KtO00nwhdGJ8Ox) | 4:22 | 2021-10-14 | 2022-07-29 |
 | [Gimme Shelter](https://open.spotify.com/track/1dv3ePjze9tPq2pk8eWJdR) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Let It Bleed](https://open.spotify.com/album/0c78nsgqX6VfniSNWIxwoD) | 4:30 | 2021-10-14 | 2022-07-24 |
+| [Gimme Shelter](https://open.spotify.com/track/6H3kDe7CGoWYBabAeVWGiD) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Let It Bleed](https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy) | 4:30 | 2022-01-21 |  |
 | [Gimme Some Lovin' \- Single Mix](https://open.spotify.com/track/3EOZLnmwc7i7VFAtM5uNN4) | [The Spencer Davis Group](https://open.spotify.com/artist/3i9hP422d2KMjaupTzBNVS) | [Gimme Some Lovin' / Blues In F](https://open.spotify.com/album/1QIHvq5BFwNaWgamY5bNUs) | 2:58 | 2021-10-14 | 2022-07-29 |
 | [Gimme! Gimme! Gimme! \(A Man After Midnight\)](https://open.spotify.com/track/3vkQ5DAB1qQMYO4Mr9zJN6) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voulez\-Vous](https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh) | 4:52 | 2022-01-21 |  |
 | [Gloria \- Stereo Version](https://open.spotify.com/track/6aMg17mRAbKDayw8pRRADw) | [Them](https://open.spotify.com/artist/5BaHqGtf6UAZnHfqdPaTDA), [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [The Essential Van Morrison](https://open.spotify.com/album/0RTU4KkKPJ5n8KnV18OaJs) | 2:36 | 2021-10-14 | 2022-07-29 |
@@ -184,7 +185,7 @@
 | [Vincent](https://open.spotify.com/track/0VNzEY1G4GLqcNx5qaaTl6) | [Don McLean](https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8) | [American Pie](https://open.spotify.com/album/10jsW2NYd9blCrDITMh2zS) | 4:03 | 2021-10-14 | 2022-04-30 |
 | [Walk Of Life](https://open.spotify.com/track/4tyl9OMKMG8F2L0RUYQMH3) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Brothers In Arms \(Remastered\)](https://open.spotify.com/album/1NF8WUbdC632SIwixiWrLh) | 4:09 | 2021-10-14 | 2022-07-29 |
 | [Walk On the Wild Side](https://open.spotify.com/track/5p3JunprHCxClJjOmcLV8G) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Transformer](https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St) | 4:14 | 2021-10-14 | 2022-07-29 |
-| [We Built This City](https://open.spotify.com/track/6OnfBiiSc9RGKiBKKtZXgQ) | [Starship](https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf) | [Knee Deep In The Hoopla](https://open.spotify.com/album/0YCraVqAWvJHiBYP2AXgV6) | 4:56 | 2022-01-21 |  |
+| [We Built This City](https://open.spotify.com/track/6OnfBiiSc9RGKiBKKtZXgQ) | [Starship](https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf) | [Knee Deep In The Hoopla](https://open.spotify.com/album/0YCraVqAWvJHiBYP2AXgV6) | 4:56 | 2022-01-21 | 2022-09-16 |
 | [We've Gotta Get out of This Place](https://open.spotify.com/track/6Y0ed41KYLRnJJyYGGaDgY) | [The Animals](https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP) | [The Singles Plus](https://open.spotify.com/album/1v4O55JGou3T0Vlj06fdXz) | 3:12 | 2022-01-21 | 2022-06-03 |
 | [Who Are You](https://open.spotify.com/track/3x2bXiU0o4WbsPkawXlfDA) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who Are You \(Remastered\)](https://open.spotify.com/album/6LRJF97hgXHj8uMLHyCDbh) | 6:18 | 2022-01-21 | 2022-07-28 |
 | [Whole Lotta Love \- 1990 Remaster](https://open.spotify.com/track/0hCB0YR03f6AmQaHbwWDe8) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin II \(1994 Remaster\)](https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx) | 5:33 | 2022-01-21 |  |

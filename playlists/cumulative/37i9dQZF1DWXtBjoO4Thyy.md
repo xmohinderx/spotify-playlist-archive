@@ -4,7 +4,7 @@
 
 > Víkingur Ólafsson continues The Classical Takeover with his all\-time favourite tunes.
 
-392 songs - 1 day 6 hr 56 min - [published](https://open.spotify.com/playlist/2Ko7REyQJ5V1ahMlEs6Sks)
+393 songs - 1 day 7 hr 0 min - [published](https://open.spotify.com/playlist/2Ko7REyQJ5V1ahMlEs6Sks)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,7 +178,8 @@
 | [Le Jardin de Monsieur Monet](https://open.spotify.com/track/3uzaVkdNuUZOn3KtsQjwDy) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Lionheart](https://open.spotify.com/album/3O26r0jhu5oE0ITWbQJdnX) | 5:13 | 2022-01-07 | 2022-02-05 |
 | [Leyendas: An Andean Walkabout: VI\. Coquetos](https://open.spotify.com/track/6voabUFi6NbDgakyaANkEF) | [Gabriela Lena Frank](https://open.spotify.com/artist/6IMJSmu34MID4QPYxhMD6Z), [The Knights](https://open.spotify.com/artist/3pZzcGCvhNTv3yoWmrXGNm) | [New Worlds](https://open.spotify.com/album/51YpXKKTtzxiS4npHN3HYH) | 3:23 | 2022-03-04 | 2022-04-02 |
 | [Liebestraum No\. 3 in A\-Flat Major, S\. 541 / 3](https://open.spotify.com/track/2u9VGZmVz7Rm01SfDgzcfA) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Liszt \- My Piano Hero](https://open.spotify.com/album/39Hh5k01di42nUCLn8Wxqu) | 4:53 | 2022-08-05 | 2022-09-03 |
-| [Liebestraum No\. 3 in A\-Flat Major, S\. 541/3](https://open.spotify.com/track/364V3CzGmK7555a6q4V3ku) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Igor Levit](https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL) | [Liebestraum No\. 3 in A\-Flat Major, S\. 541/3](https://open.spotify.com/album/2VcagTuy7sv98rc7eHit1y) | 3:54 | 2022-09-02 |  |
+| [Liebestraum No\. 3 in A\-Flat Major, S\. 541/3](https://open.spotify.com/track/2dY1AXeTy8xu2DW5GENJiK) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Igor Levit](https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL) | [Tristan](https://open.spotify.com/album/663RedYDgdaITtPR1dsb1j) | 3:54 | 2022-09-02 |  |
+| [Liebestraum No\. 3 in A\-Flat Major, S\. 541/3](https://open.spotify.com/track/364V3CzGmK7555a6q4V3ku) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Igor Levit](https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL) | [Liebestraum No\. 3 in A\-Flat Major, S\. 541/3](https://open.spotify.com/album/2VcagTuy7sv98rc7eHit1y) | 3:54 | 2022-09-02 | 2022-09-16 |
 | [Love](https://open.spotify.com/track/5XIROml6NGQvRdDiEQ7Hy7) | [Mica Levi](https://open.spotify.com/artist/29LOCR81IrdEJjCAeCEOU3) | [Under The Skin \(Original Soundtrack Album\)](https://open.spotify.com/album/0MJwS1KqklO8tr95IJAcQA) | 5:10 | 2022-04-01 | 2022-05-07 |
 | [LOVE](https://open.spotify.com/track/6cLXPzd8JDxvauMa3OhHY8) | [Sofiane Pamart](https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg) | [LOVE](https://open.spotify.com/album/24icqkcfg9NBKBT4kRMsBo) | 4:17 | 2022-07-01 | 2022-08-06 |
 | [Love Theme from "Romeo & Juliet" \(A Paramount Picture\)](https://open.spotify.com/track/57IjAs2RWUcMf0tBkIAMpi) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [A Warm Shade of Ivory](https://open.spotify.com/album/1IsqBLmLMj3DmSQFqRzDa8) | 2:34 | 2022-07-01 | 2022-08-06 |

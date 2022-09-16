@@ -1,12 +1,12 @@
 {
   "description": "Stay relaxed with these low-key beats and instrumentals.",
-  "num_followers": 1485218,
+  "num_followers": 1485264,
   "original_name": "Mellow Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQzOTYwMCwwMDAwMDAwMDRjODYyM2I5Y2IyMmQ1NjdjOTdiOTU0MGUzNjM1Y2Vi",
+  "snapshot_id": "MTY2MTQzOTYwMCwwMDAwMDAwMGZhMTI5MjhmN2EzNzczNzY3YTRiNmZkZTc3ZWQyMjk3",
   "tracks": [
     {
       "added_at": "2022-08-25 15:00:00",
@@ -615,22 +615,6 @@
     {
       "added_at": "2022-08-25 15:00:00",
       "album": {
-        "name": "Boardwalk Bumps 3",
-        "url": "https://open.spotify.com/album/5fRcJfizpJZfVhYr66e7ts"
-      },
-      "artists": [
-        {
-          "name": "Engelwood",
-          "url": "https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T"
-        }
-      ],
-      "duration_ms": 121097,
-      "name": "Good Evening",
-      "url": "https://open.spotify.com/track/5bWvhoW0YfVHgi0IVUl0UG"
-    },
-    {
-      "added_at": "2022-08-25 15:00:00",
-      "album": {
         "name": "Tangerine Hues",
         "url": "https://open.spotify.com/album/78zuWk8ZgaMMLlTMtIMsT5"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 74285,
       "name": "3rd Times a Charm",
       "url": "https://open.spotify.com/track/1IE1sTE0Lbpz63ZMGTqMiH"
+    },
+    {
+      "added_at": "2022-08-25 15:00:00",
+      "album": {
+        "name": "Boardwalk Bumps 3",
+        "url": "https://open.spotify.com/album/5fRcJfizpJZfVhYr66e7ts"
+      },
+      "artists": [
+        {
+          "name": "Engelwood",
+          "url": "https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T"
+        }
+      ],
+      "duration_ms": 121097,
+      "name": "Good Evening",
+      "url": "https://open.spotify.com/track/5bWvhoW0YfVHgi0IVUl0UG"
     },
     {
       "added_at": "2022-08-25 15:00:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-08-25 15:00:00",
       "album": {
-        "name": "Paddling pool",
-        "url": "https://open.spotify.com/album/2NeRkEMmaVKmFDFRRmjIoQ"
-      },
-      "artists": [
-        {
-          "name": "S I M",
-          "url": "https://open.spotify.com/artist/6IUKOT5oMnQ8ZUyJlZFxO2"
-        }
-      ],
-      "duration_ms": 167874,
-      "name": "Paddling pool",
-      "url": "https://open.spotify.com/track/5Dj4tUDgACFSEkDzlYlHZ4"
-    },
-    {
-      "added_at": "2022-08-25 15:00:00",
-      "album": {
         "name": "easy",
         "url": "https://open.spotify.com/album/1BYunOxgaOWaT0Fan1QbIu"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 203500,
       "name": "easy",
       "url": "https://open.spotify.com/track/58wJgIMYzWJ7iTO7lww6pH"
+    },
+    {
+      "added_at": "2022-08-25 15:00:00",
+      "album": {
+        "name": "Paddling pool",
+        "url": "https://open.spotify.com/album/2NeRkEMmaVKmFDFRRmjIoQ"
+      },
+      "artists": [
+        {
+          "name": "S I M",
+          "url": "https://open.spotify.com/artist/6IUKOT5oMnQ8ZUyJlZFxO2"
+        }
+      ],
+      "duration_ms": 167874,
+      "name": "Paddling pool",
+      "url": "https://open.spotify.com/track/5Dj4tUDgACFSEkDzlYlHZ4"
     },
     {
       "added_at": "2022-08-25 15:00:00",
@@ -907,26 +907,6 @@
     {
       "added_at": "2022-08-25 15:00:00",
       "album": {
-        "name": "Baby, It's Over",
-        "url": "https://open.spotify.com/album/30gtureHZGCuC3g0WoCxyP"
-      },
-      "artists": [
-        {
-          "name": "iamalex",
-          "url": "https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU"
-        },
-        {
-          "name": "Pure Colors",
-          "url": "https://open.spotify.com/artist/6pa33j3GieYhexuZGFA0ql"
-        }
-      ],
-      "duration_ms": 148561,
-      "name": "Baby, It's Over",
-      "url": "https://open.spotify.com/track/2VOpnswDATUVkyLA4FNO2C"
-    },
-    {
-      "added_at": "2022-08-25 15:00:00",
-      "album": {
         "name": "White Tea",
         "url": "https://open.spotify.com/album/76vUTeslD03OfFhbybNJQZ"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 88279,
       "name": "White Tea",
       "url": "https://open.spotify.com/track/4HQ2Xd0Ao8h3YKhAXYjEuZ"
+    },
+    {
+      "added_at": "2022-08-25 15:00:00",
+      "album": {
+        "name": "Baby, It's Over",
+        "url": "https://open.spotify.com/album/30gtureHZGCuC3g0WoCxyP"
+      },
+      "artists": [
+        {
+          "name": "iamalex",
+          "url": "https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU"
+        },
+        {
+          "name": "Pure Colors",
+          "url": "https://open.spotify.com/artist/6pa33j3GieYhexuZGFA0ql"
+        }
+      ],
+      "duration_ms": 148561,
+      "name": "Baby, It's Over",
+      "url": "https://open.spotify.com/track/2VOpnswDATUVkyLA4FNO2C"
     },
     {
       "added_at": "2022-08-25 15:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2022-08-25 15:00:00",
       "album": {
-        "name": "That's Just Me",
-        "url": "https://open.spotify.com/album/01SkyAcTlSdHNE6Vm8z6tq"
-      },
-      "artists": [
-        {
-          "name": "Ameba",
-          "url": "https://open.spotify.com/artist/0YYVUJe2T4XdBza6Y0RA8P"
-        }
-      ],
-      "duration_ms": 90383,
-      "name": "That's Just Me",
-      "url": "https://open.spotify.com/track/7rLueW1eSGQhAf9MruvO3d"
-    },
-    {
-      "added_at": "2022-08-25 15:00:00",
-      "album": {
         "name": "Travels",
         "url": "https://open.spotify.com/album/4vDCdhC1ue2saRJMSkuWho"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 109333,
       "name": "Laguna Beach",
       "url": "https://open.spotify.com/track/40ELRRvQ0pqUWJxGxUC6rE"
+    },
+    {
+      "added_at": "2022-08-25 15:00:00",
+      "album": {
+        "name": "That's Just Me",
+        "url": "https://open.spotify.com/album/01SkyAcTlSdHNE6Vm8z6tq"
+      },
+      "artists": [
+        {
+          "name": "Ameba",
+          "url": "https://open.spotify.com/artist/0YYVUJe2T4XdBza6Y0RA8P"
+        }
+      ],
+      "duration_ms": 90383,
+      "name": "That's Just Me",
+      "url": "https://open.spotify.com/track/7rLueW1eSGQhAf9MruvO3d"
     },
     {
       "added_at": "2022-08-25 15:00:00",
@@ -1059,6 +1059,22 @@
       "duration_ms": 207529,
       "name": "Bubble Beat",
       "url": "https://open.spotify.com/track/1EHgoPVVSSy6W6HQoErmY3"
+    },
+    {
+      "added_at": "2022-08-25 15:00:00",
+      "album": {
+        "name": "Power Jump",
+        "url": "https://open.spotify.com/album/6T8iwt5cPRxybDlVlwD7my"
+      },
+      "artists": [
+        {
+          "name": "Sakura",
+          "url": "https://open.spotify.com/artist/2GVCb0xxbe56KahmO90QnD"
+        }
+      ],
+      "duration_ms": 142349,
+      "name": "dreams",
+      "url": "https://open.spotify.com/track/0mmnXGa5hBUWWn7AdVNeY9"
     },
     {
       "added_at": "2022-08-25 15:00:00",
@@ -1103,22 +1119,6 @@
     {
       "added_at": "2022-08-25 15:00:00",
       "album": {
-        "name": "Power Jump",
-        "url": "https://open.spotify.com/album/6T8iwt5cPRxybDlVlwD7my"
-      },
-      "artists": [
-        {
-          "name": "Sakura",
-          "url": "https://open.spotify.com/artist/2GVCb0xxbe56KahmO90QnD"
-        }
-      ],
-      "duration_ms": 142349,
-      "name": "dreams",
-      "url": "https://open.spotify.com/track/0mmnXGa5hBUWWn7AdVNeY9"
-    },
-    {
-      "added_at": "2022-08-25 15:00:00",
-      "album": {
         "name": "In A Dream",
         "url": "https://open.spotify.com/album/2K0RE4gN9kZzlzrrQZZo4y"
       },
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2022-08-25 15:00:00",
       "album": {
-        "name": "Dimensions",
-        "url": "https://open.spotify.com/album/3oV0KdeMivBcS79KwTU4zw"
-      },
-      "artists": [
-        {
-          "name": "n o r m a l",
-          "url": "https://open.spotify.com/artist/299YwUx9tIS10VkkAujnMt"
-        }
-      ],
-      "duration_ms": 135357,
-      "name": "waves",
-      "url": "https://open.spotify.com/track/02G1y3EpKhZMwf3T65S4GA"
-    },
-    {
-      "added_at": "2022-08-25 15:00:00",
-      "album": {
         "name": "Tiny Grains of Guilt",
         "url": "https://open.spotify.com/album/4qeXkFfco3khEnrmb0LXXP"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 124044,
       "name": "Tiny Grains of Guilt",
       "url": "https://open.spotify.com/track/1Z1bRmfWuEvdyUoE5EcRbJ"
+    },
+    {
+      "added_at": "2022-08-25 15:00:00",
+      "album": {
+        "name": "Dimensions",
+        "url": "https://open.spotify.com/album/3oV0KdeMivBcS79KwTU4zw"
+      },
+      "artists": [
+        {
+          "name": "n o r m a l",
+          "url": "https://open.spotify.com/artist/299YwUx9tIS10VkkAujnMt"
+        }
+      ],
+      "duration_ms": 135357,
+      "name": "waves",
+      "url": "https://open.spotify.com/track/02G1y3EpKhZMwf3T65S4GA"
     },
     {
       "added_at": "2022-08-25 15:00:00",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2022-08-25 15:00:00",
       "album": {
+        "name": "181's penny candy store #7",
+        "url": "https://open.spotify.com/album/2DU5c1qHqSKxAMoZig9SLd"
+      },
+      "artists": [
+        {
+          "name": "MIDICRONICA 181",
+          "url": "https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Win the Lottery",
+      "url": "https://open.spotify.com/track/2sGf6pQ73JyfTfSkSLLQfM"
+    },
+    {
+      "added_at": "2022-08-25 15:00:00",
+      "album": {
         "name": "Fog\u00e0o Love",
         "url": "https://open.spotify.com/album/4Xjr5RmALk2CSpiXlY1gmi"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 104506,
       "name": "Fog\u00e0o Love",
       "url": "https://open.spotify.com/track/6MchsyWFhj6EAiD1nY0y5J"
-    },
-    {
-      "added_at": "2022-08-25 15:00:00",
-      "album": {
-        "name": "181's penny candy store #7",
-        "url": "https://open.spotify.com/album/2DU5c1qHqSKxAMoZig9SLd"
-      },
-      "artists": [
-        {
-          "name": "MIDICRONICA 181",
-          "url": "https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Win the Lottery",
-      "url": "https://open.spotify.com/track/2sGf6pQ73JyfTfSkSLLQfM"
     },
     {
       "added_at": "2022-08-25 15:00:00",
@@ -1271,6 +1271,26 @@
     {
       "added_at": "2022-08-25 15:00:00",
       "album": {
+        "name": "BEAT TAPE VOL.1",
+        "url": "https://open.spotify.com/album/78IHrBIWAaWblwiMtAZaYu"
+      },
+      "artists": [
+        {
+          "name": "U-LEE",
+          "url": "https://open.spotify.com/artist/30v2h3jcT6xjq4wl9KTFNN"
+        },
+        {
+          "name": "100KILOGRAMS",
+          "url": "https://open.spotify.com/artist/6zzok5REMtPHkxSKU0MFWP"
+        }
+      ],
+      "duration_ms": 133406,
+      "name": "Ill",
+      "url": "https://open.spotify.com/track/4323T7gQ9C4lbPo8qKfOoe"
+    },
+    {
+      "added_at": "2022-08-25 15:00:00",
+      "album": {
         "name": "Jazz Apple",
         "url": "https://open.spotify.com/album/3HS9hq92Zdyuh6i52kmn0w"
       },
@@ -1303,6 +1323,22 @@
     {
       "added_at": "2022-08-25 15:00:00",
       "album": {
+        "name": "aura collis",
+        "url": "https://open.spotify.com/album/2KeGLxZlT33x8rUwgKyF00"
+      },
+      "artists": [
+        {
+          "name": "sus9th",
+          "url": "https://open.spotify.com/artist/1AfdR7N8ClMmksHKhr2IGC"
+        }
+      ],
+      "duration_ms": 207272,
+      "name": "birchwood",
+      "url": "https://open.spotify.com/track/2Zf7bX6kpYa1qaixtXumKM"
+    },
+    {
+      "added_at": "2022-08-25 15:00:00",
+      "album": {
         "name": "Warmer Together",
         "url": "https://open.spotify.com/album/6NDSwfpx4J4bZfFi27L9JB"
       },
@@ -1319,42 +1355,6 @@
       "duration_ms": 157500,
       "name": "Warmer Together",
       "url": "https://open.spotify.com/track/610xaw9Y51TEforwMGyTKK"
-    },
-    {
-      "added_at": "2022-08-25 15:00:00",
-      "album": {
-        "name": "BEAT TAPE VOL.1",
-        "url": "https://open.spotify.com/album/78IHrBIWAaWblwiMtAZaYu"
-      },
-      "artists": [
-        {
-          "name": "U-LEE",
-          "url": "https://open.spotify.com/artist/30v2h3jcT6xjq4wl9KTFNN"
-        },
-        {
-          "name": "100KILOGRAMS",
-          "url": "https://open.spotify.com/artist/6zzok5REMtPHkxSKU0MFWP"
-        }
-      ],
-      "duration_ms": 133406,
-      "name": "Ill",
-      "url": "https://open.spotify.com/track/4323T7gQ9C4lbPo8qKfOoe"
-    },
-    {
-      "added_at": "2022-08-25 15:00:00",
-      "album": {
-        "name": "aura collis",
-        "url": "https://open.spotify.com/album/2KeGLxZlT33x8rUwgKyF00"
-      },
-      "artists": [
-        {
-          "name": "sus9th",
-          "url": "https://open.spotify.com/artist/1AfdR7N8ClMmksHKhr2IGC"
-        }
-      ],
-      "duration_ms": 207272,
-      "name": "birchwood",
-      "url": "https://open.spotify.com/track/2Zf7bX6kpYa1qaixtXumKM"
     },
     {
       "added_at": "2022-08-25 15:00:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2022-08-25 15:00:00",
       "album": {
-        "name": "D's Swing",
-        "url": "https://open.spotify.com/album/7wSOkWVleE8uGAYPGJAWRj"
-      },
-      "artists": [
-        {
-          "name": "Shin-Ski",
-          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
-        }
-      ],
-      "duration_ms": 218528,
-      "name": "D's Swing",
-      "url": "https://open.spotify.com/track/2S9rmVlkNTktxi1cOeQNIS"
-    },
-    {
-      "added_at": "2022-08-25 15:00:00",
-      "album": {
         "name": "Life After Dennison (Instrumentals)",
         "url": "https://open.spotify.com/album/6Adv0cRSeQrUWUYACknTpS"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 210346,
       "name": "Fanatic - Instrumental",
       "url": "https://open.spotify.com/track/2616QFNwHldTARXR2PHS7k"
+    },
+    {
+      "added_at": "2022-08-25 15:00:00",
+      "album": {
+        "name": "D's Swing",
+        "url": "https://open.spotify.com/album/7wSOkWVleE8uGAYPGJAWRj"
+      },
+      "artists": [
+        {
+          "name": "Shin-Ski",
+          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
+        }
+      ],
+      "duration_ms": 218528,
+      "name": "D's Swing",
+      "url": "https://open.spotify.com/track/2S9rmVlkNTktxi1cOeQNIS"
     },
     {
       "added_at": "2022-08-25 15:00:00",

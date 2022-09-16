@@ -4,7 +4,7 @@
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-128 songs - 7 hr 2 min - [published](https://open.spotify.com/playlist/5MsbhDGASEPC66ln3S63Ff)
+129 songs - 7 hr 5 min - [published](https://open.spotify.com/playlist/5MsbhDGASEPC66ln3S63Ff)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Everglow \- Edit](https://open.spotify.com/track/6aG68QSwv0hgNTq90I2GOE) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Everglow](https://open.spotify.com/album/6LRAUvjNMdUieHc8RcpHQU) | 3:47 | 2019-10-13 |  |
 | [Fields Of Gold](https://open.spotify.com/track/5vtOJrmovXGxGsnAck694H) | [Eva Cassidy](https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew) | [Songbird](https://open.spotify.com/album/14vOTJhsfQIlJeHgLajs7r) | 4:42 | 2019-10-13 |  |
 | [Fix You](https://open.spotify.com/track/3ZTCvMqkW3Hqxap4dqTTpR) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [Refuge](https://open.spotify.com/album/4gAsUaOSqGsa6Vm5T9WdNW) | 4:21 | 2019-10-13 |  |
-| [Freedom \- Acoustic](https://open.spotify.com/track/63HLCxYAAfRPo47zawh8ep) | [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN), [Kevin Simm](https://open.spotify.com/artist/1CuoMwkIXKILoyW9dIXziU) | [Freedom \(Acoustic\)](https://open.spotify.com/album/1UvTMIIkqpPW96X0QmyaiN) | 3:38 | 2022-01-21 |  |
+| [Freedom \- Acoustic](https://open.spotify.com/track/63HLCxYAAfRPo47zawh8ep) | [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN), [Kevin Simm](https://open.spotify.com/artist/1CuoMwkIXKILoyW9dIXziU) | [Freedom \(Acoustic\)](https://open.spotify.com/album/1UvTMIIkqpPW96X0QmyaiN) | 3:38 | 2022-01-21 | 2022-09-16 |
 | [Girls Just Want To Have Fun \- Acoustic](https://open.spotify.com/track/4pJm38kAY7eH3frMOk7h7m) | [Callum J Wright](https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe) | [Girls Just Want To Have Fun \(Acoustic\)](https://open.spotify.com/album/6cD6QfJIwGbSRZwNiTScwZ) | 2:20 | 2022-06-26 |  |
 | [Girls Just Want To Have Fun \- Acoustic](https://open.spotify.com/track/6Cg3fTIhncrGDUQllTj03U) | [Hannah's Yard](https://open.spotify.com/artist/08qkAEn1wetskAwcPrcOPf) | [Girls Just Want To Have Fun \(Acoustic\)](https://open.spotify.com/album/6wEyDHkvqmDqhgngJm2Xqn) | 2:33 | 2021-05-21 |  |
 | [Grenade \- Acoustic](https://open.spotify.com/track/7Cj2tT0m2SBeIO1PsGfk8A) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Grenade Sessions](https://open.spotify.com/album/54DNHFsfCa7nlQFWXMg7y3) | 4:09 | 2019-10-13 |  |
@@ -120,6 +120,7 @@
 | [Too Good At Goodbyes \- Acoustic](https://open.spotify.com/track/7ejps6ztLxyZD74tHrTdEj) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Too Good At Goodbyes \(Acoustic\)](https://open.spotify.com/album/6yjWw8pTnhYM4y4jfbGSFY) | 3:40 | 2019-10-13 |  |
 | [True Colours](https://open.spotify.com/track/1rGxG6Y5OgmSwGPRPJv9Q4) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [True Colours](https://open.spotify.com/album/2KYcp0bkKyyGllYygfdtHX) | 2:23 | 2019-10-13 |  |
 | [Unchained Melody \- Acoustic](https://open.spotify.com/track/3dpAowl81OJz8CinXr46Mn) | [Blame Jones](https://open.spotify.com/artist/4FCvYJ06Q8c4AScPG501KY) | [Unchained Melody \(Acoustic\)](https://open.spotify.com/album/5H9nvMZwoWBFHuHdoI1PpY) | 3:29 | 2022-08-06 |  |
+| [Uptown Girl \- Acoustic](https://open.spotify.com/track/4qfLHdUxLYL664Si2iq9Mf) | [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN) | [Uptown Girl \(Acoustic\)](https://open.spotify.com/album/4piOFs8574bvoGwjdI7x4r) | 3:08 | 2022-09-15 |  |
 | [Walking On Sunshine](https://open.spotify.com/track/1O91HwI2LMA8RglnZ2hbNH) | [Gardiner Sisters](https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I) | [Walking On Sunshine](https://open.spotify.com/album/2xDMfqErOWYK71uDc4FvVE) | 2:31 | 2019-12-21 |  |
 | [Walking on Sunshine \- Acoustic](https://open.spotify.com/track/2kOE6vW8uWheLITP2JYRPD) | [Richard Watts](https://open.spotify.com/artist/3cGb8b9Zwvka0MWD5RyMDI) | [Walking on Sunshine \(Acoustic\)](https://open.spotify.com/album/2jOhaWAGLkqVFBK2kTI7fX) | 2:59 | 2021-10-11 |  |
 | [We Are Stars \- Acoustic](https://open.spotify.com/track/5IHFSRi1mCCjt4z1Xrht5t) | [Callum Beattie](https://open.spotify.com/artist/4uFxymnU41sM7ytUCjuYTN) | [We Are Stars \- EP](https://open.spotify.com/album/2ZVs4ZGT7loGJinxPciE94) | 3:19 | 2019-10-13 |  |

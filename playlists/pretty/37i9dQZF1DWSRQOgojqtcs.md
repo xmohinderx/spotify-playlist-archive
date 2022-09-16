@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRQOgojqtcs.md) - [plain]
 
 > Love, sex, and heartbreak\. Listen to the official playlist for Heartbreak High, now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192 likes - 121 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 553 likes - 121 songs - 7 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRQOgojqtcs.md) - [plain]
 | 3 | [Day Ones](https://open.spotify.com/track/0C9mcWEFjyXKv9UrOGMgkh) | [JessB](https://open.spotify.com/artist/3dnNuI5EU8TEdiAT73kj27) | [Bloom](https://open.spotify.com/album/1ECCPWsEdrHUYlkNhibbAc) | 2:59 |
 | 4 | [Christine](https://open.spotify.com/track/6tNDVXXaYWsBd3Mqhfelvl) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Chaleur Humaine](https://open.spotify.com/album/326nKcn9e238BwduPDzld7) | 3:54 |
 | 5 | [Gasoline \- Intro](https://open.spotify.com/track/1KHOOsJUHBy82PCZVV8Lmd) | [Alpine](https://open.spotify.com/artist/4tKUoNubW02udXOh7SLtXV) | [A Is For Alpine](https://open.spotify.com/album/3ap04q3OeoyOHMs2WJytN4) | 3:21 |
-| 6 | [Raw Vis Vision](https://open.spotify.com/track/5lWgkCLOXvJRzFxk4aII44) | [NO ZU](https://open.spotify.com/artist/0ASJYABL9IBmNhXFXDuV5P) | [Cut Copy Presents: Oceans Apart](https://open.spotify.com/album/4AiHgoami4kqFHrorP00Kc) | 6:26 |
+| 6 | [Raw Vision](https://open.spotify.com/track/2XudKldptC3tzth9spCv9W) | [NO ZU](https://open.spotify.com/artist/0ASJYABL9IBmNhXFXDuV5P) | [Afterlife](https://open.spotify.com/album/7pvEbQlyjML8YHH5bTICgT) | 7:03 |
 | 7 | [A Thousand Miles](https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP) | [Vanessa Carlton](https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07) | [Be Not Nobody](https://open.spotify.com/album/5e7T2qUigzt0oIr50KsOld) | 3:57 |
 | 8 | [Aï\-Aï Heyveh Heyveh](https://open.spotify.com/track/4Qr32AUTbgtobPsduiefqE) | [Hamlet Minassian](https://open.spotify.com/artist/68S0gjRMzuqF5zzDlJekQ2) | [Armenian Pop Music](https://open.spotify.com/album/2AqtoC4FaYHRGOYHpbdLRl) | 7:51 |
 | 9 | [La Receta](https://open.spotify.com/track/0NK83JCa5xqVMJrEXW3WqB) | [Kemo The Blaxican](https://open.spotify.com/artist/3ARkK5SVTmR3IxAb7pBEyf) | [Simple Plan](https://open.spotify.com/album/1rI0hBIInUgSE701IxUYc4) | 3:43 |
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRQOgojqtcs.md) - [plain]
 | 120 | [Want You Back](https://open.spotify.com/track/2wXhdaTnmkkFSOidKfnOxA) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Something to Tell You](https://open.spotify.com/album/5m9rXTBF7mHFGQlFsiEHrY) | 3:52 |
 | 121 | [Let It Happen](https://open.spotify.com/track/2X485T9Z5Ly0xyaghN73ed) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 7:47 |
 
-Snapshot ID: `MTY2MzEzODgwMCwwMDAwMDAwMGIzMjY4N2FhMjAxNjJjYTZjOWZjN2FlMjliZWUyOTVm`
+Snapshot ID: `MTY2MzIxMjEwNywwMDAwMDAwMDBlZWFlZjljNmNkYzJhMmUyNWZiOThhOWU0MzVhNGUw`

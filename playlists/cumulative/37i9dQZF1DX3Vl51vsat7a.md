@@ -4,7 +4,7 @@
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: ENNIO
 
-131 songs - 7 hr 18 min - [published](https://open.spotify.com/playlist/7r16QFa0iXKPXTVCB31T4J)
+133 songs - 7 hr 23 min - [published](https://open.spotify.com/playlist/7r16QFa0iXKPXTVCB31T4J)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Abendkleider und Nadelstreifen](https://open.spotify.com/track/5xMX2H3NpXB0Kv1nRTSB8O) | [Schmyt](https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb) | [Universum regelt](https://open.spotify.com/album/7fZRhnOouYC7iDsIP4XCWh) | 2:47 | 2022-05-19 |  |
 | [About My Dreams](https://open.spotify.com/track/0esqnRo6slUc3hjqppnVAn) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [About My Dreams](https://open.spotify.com/album/5IQWTaU7T5EQk6zzQZZfod) | 5:20 | 2022-05-05 |  |
 | [All We Are](https://open.spotify.com/track/0RuQVn5JcxuDBSNxo1sxau) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [ROOKERY](https://open.spotify.com/album/28WPMClVfDtMHaNrrjbPcX) | 3:38 | 2021-12-16 |  |
-| [an all diesen Tagen](https://open.spotify.com/track/129TLJVbwR9oS1pVn20FAb) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [an all diesen Tagen](https://open.spotify.com/album/2HDPnK1ZmhJXm0rcPNYXTs) | 2:44 | 2022-04-07 |  |
+| [an all diesen Tagen](https://open.spotify.com/track/129TLJVbwR9oS1pVn20FAb) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [an all diesen Tagen](https://open.spotify.com/album/2HDPnK1ZmhJXm0rcPNYXTs) | 2:44 | 2022-04-07 | 2022-09-16 |
 | [Another year like that and we'd all be dead](https://open.spotify.com/track/7ytFo4I2OsaiGRhYdFGoQW) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [ROMANIAC](https://open.spotify.com/album/6DqP8rOL3mQrK1av1L3AbT) | 4:36 | 2021-12-16 | 2022-02-11 |
 | [Anymore](https://open.spotify.com/track/41k9LvMt9xspB5nueIUsfU) | [ÄTNA](https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX) | [Anymore](https://open.spotify.com/album/1gN8dVk0oKtQoHdk1oxKrL) | 2:34 | 2022-01-27 |  |
 | [Backyard Body](https://open.spotify.com/track/1LdlloAKsamceZO7qDSfQS) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [RISE OF THE ROMANIAC](https://open.spotify.com/album/4fXKTHlYNHgc6RLGe4cSrg) | 2:12 | 2022-05-26 |  |
@@ -39,6 +39,7 @@
 | [Daywalker](https://open.spotify.com/track/00daiXpq7Jb76fXCJZA6rN) | [2LADE](https://open.spotify.com/artist/2N5EUidcVv9pnicQFDeK5W) | [MANN MIT DER BRILLE](https://open.spotify.com/album/3TJXTSpg5o4vftq3BMBtab) | 2:05 | 2022-03-24 | 2022-06-10 |
 | [Diamonds \(feat\. Takt32\)](https://open.spotify.com/track/7w6HmxoHbohJ9S9lScjH1m) | [Aylo](https://open.spotify.com/artist/5ggr9FUq9cjogKBxQmI2ZO), [Takt32](https://open.spotify.com/artist/1G7TGDJ01So6i6XNirnVS7) | [Diamonds \(feat\. Takt32\)](https://open.spotify.com/album/5WAnIlIOyTf5VJwMqB8DxF) | 2:23 | 2021-12-16 |  |
 | [Dies & Das](https://open.spotify.com/track/5GzBVGr752l5qcGo2ZBNoS) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2), [AVO](https://open.spotify.com/artist/3g8GEfox7TneqzId98rNGi) | [Dies & Das](https://open.spotify.com/album/3w25lpXTAf001nxzF9nBPI) | 2:19 | 2021-12-16 | 2022-03-25 |
+| [Diese Nacht](https://open.spotify.com/track/2wrB2jRPTd1wujQlWWnJ0r) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Zorn & Liebe](https://open.spotify.com/album/5seerIZ96Tknor62ygW3on) | 2:34 | 2022-09-15 |  |
 | [DON'T BLAME ME](https://open.spotify.com/track/4HGmBETDnJDreKHb9tW2bg) | [FAANGS](https://open.spotify.com/artist/2UlXIWBLOjskz5esa7ec2j) | [TEETH OUT](https://open.spotify.com/album/6wE7d28Rxv1y1v2FSaYnW2) | 2:27 | 2021-12-16 | 2022-09-02 |
 | [Don't U Dare](https://open.spotify.com/track/3CQuzM93RAg867gQ0mVAw7) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [Don't U Dare](https://open.spotify.com/album/2YV91Zb0tDaxAsT2mmBDFP) | 2:42 | 2022-02-10 | 2022-05-27 |
 | [Eins sein](https://open.spotify.com/track/1cIk7YqCnsVEv6FGRFLLrU) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [Eins sein](https://open.spotify.com/album/7uFZmTPubuC0o8gV4ODoL6) | 2:52 | 2021-12-16 | 2022-01-14 |
@@ -65,6 +66,7 @@
 | [I Would Be Rich](https://open.spotify.com/track/0voEoD86osCqSZm6YnX41Q) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [I Would Be Rich](https://open.spotify.com/album/1hgaD8ZBdht7nSTHZ1RKdt) | 3:51 | 2022-05-05 |  |
 | [I'M A LITTLE](https://open.spotify.com/track/36lARxuQqwXnvALPNeVjtK) | [FAANGS](https://open.spotify.com/artist/2UlXIWBLOjskz5esa7ec2j) | [I'M A LITTLE](https://open.spotify.com/album/5zCcIO7yJLAznBPxohaZzb) | 2:38 | 2021-12-16 | 2022-07-22 |
 | [I'm Boring](https://open.spotify.com/track/40Xc96R5OS3s0zacs6wPte) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [I'm Boring](https://open.spotify.com/album/2UPFVcOuNlf2Yl3C6LDxpO) | 3:20 | 2021-12-16 |  |
+| [ich gehör wieder mir](https://open.spotify.com/track/4PpGmzid7fvGFayn8icZRF) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [ich gehör wieder mir](https://open.spotify.com/album/6Et0Q8bXMXOSChFgXgvvv8) | 2:57 | 2022-09-15 |  |
 | [Ich wünschte, du wärst verloren](https://open.spotify.com/track/40eThGfQt1VehllIdIsQdr) | [Schmyt](https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb) | [Ich wünschte, du wärst verloren](https://open.spotify.com/album/79H3xVO9RldV3NOFMHR3ui) | 2:40 | 2021-12-16 | 2022-02-04 |
 | [iClout \(feat\. EARTHGANG\)](https://open.spotify.com/track/61dvMPhVqB2iWGHQU6BjyK) | [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Digital Tears](https://open.spotify.com/album/6dEZTAWhslVOPZc3SU18oD) | 4:22 | 2021-12-16 | 2022-07-01 |
 | [Immer wenn du weinst](https://open.spotify.com/track/6GYGIEVQHFbYV5AvkJD8Mp) | [Kynda Gray](https://open.spotify.com/artist/3LPEGy5eAGPgKYJVrkRuSX) | [Immer wenn du weinst](https://open.spotify.com/album/0ksQY1tGoSYQMweAYgmOpB) | 2:30 | 2021-12-16 |  |
@@ -137,7 +139,7 @@
 | [WER, WENN NICHT WIR?](https://open.spotify.com/track/5v0oqncTY2wOweL6unFnbQ) | [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS) | [WER, WENN NICHT WIR?](https://open.spotify.com/album/4fBtvg2ixMyybD5YB33gn5) | 2:05 | 2022-05-26 | 2022-07-15 |
 | [What If the Dead Dream](https://open.spotify.com/track/748LdQj3Lhiynqf3XdTqlr) | [Agoria](https://open.spotify.com/artist/4lu50np3LdTkRL09T7x8UP), [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [What If the Dead Dream](https://open.spotify.com/album/4DNxWrwCw1MeHxgDLNezGT) | 3:39 | 2021-12-16 |  |
 | [Zimmer](https://open.spotify.com/track/4SN5MyYZbiYhNHEQC51gh3) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Zu spät um umzudrehen](https://open.spotify.com/album/4DnP7qkS1KlDKixC4jNf3L) | 2:57 | 2021-12-16 | 2022-05-13 |
-| [Zwei Menschen](https://open.spotify.com/track/1XB2S5i8oJKiCq1ABLJeYz) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Zwei Menschen](https://open.spotify.com/album/5bAj7lNz2BQ3Z6MyZyWHNU) | 3:24 | 2022-07-28 |  |
+| [Zwei Menschen](https://open.spotify.com/track/1XB2S5i8oJKiCq1ABLJeYz) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Zwei Menschen](https://open.spotify.com/album/5bAj7lNz2BQ3Z6MyZyWHNU) | 3:24 | 2022-07-28 | 2022-09-16 |
 | [„Hahaha“](https://open.spotify.com/track/3d6qirAvHEpdM6Ky5OKFQ8) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [„Hahaha“](https://open.spotify.com/album/0SDmMQMIeuKkkMFvNZhOCb) | 2:07 | 2021-12-16 | 2022-05-13 |
 
 \*This playlist was first scraped on 2022-01-02. Prior content cannot be recovered.

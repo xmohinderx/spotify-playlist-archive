@@ -4,7 +4,7 @@
 
 > This is WizKid\. The essential tracks, all in one playlist.
 
-76 songs - 4 hr 30 min - [published](https://open.spotify.com/playlist/3NgCcemLv1S1XcSzkm8aIh)
+77 songs - 4 hr 33 min - [published](https://open.spotify.com/playlist/3NgCcemLv1S1XcSzkm8aIh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [All For Love \(feat\. Bucie\)](https://open.spotify.com/track/73J7ROhWCZB9UDHombzlSr) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Bucie](https://open.spotify.com/artist/7suaOI2AMM3ZqTa04oB8fG) | [Sounds From The Other Side](https://open.spotify.com/album/2yUhcn7kF408KjNVuMwV2P) | 4:25 | 2021-12-28 | 2022-09-02 |
 | [Anoti](https://open.spotify.com/track/60lUecrFeE2t6QMJ1Nmsve) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Made In Lagos: Deluxe Edition](https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD) | 3:01 | 2021-12-28 |  |
 | [B\. D’OR \(feat\. Wizkid\)](https://open.spotify.com/track/3ketN3dth18vSJ1T3HIztN) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [B\. D’OR \(feat\. Wizkid\)](https://open.spotify.com/album/2Nwv16YY4xo8Jm4TVm54i9) | 3:09 | 2021-12-28 |  |
+| [Bad To Me](https://open.spotify.com/track/2pUlBBWq8R10ylbBvZJV9j) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Bad To Me](https://open.spotify.com/album/15hz0gTEdD5H9taOgDdrfJ) | 2:56 | 2022-09-15 |  |
 | [Bella](https://open.spotify.com/track/0O4XHiuVt3dBaOzSI49BtF) | [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [19](https://open.spotify.com/album/2RyStD6P60MtZWqq23c1xw) | 3:03 | 2021-12-28 |  |
 | [Blessed \(feat\. Damian Marley\)](https://open.spotify.com/track/3QO1m6i0nsrp8aOnapvbkx) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 4:22 | 2021-12-28 |  |
 | [Boom \(feat\. MOTi, Ty Dolla $ign, Wizkid & Kranium\)](https://open.spotify.com/track/6kBXZ8j8IuJeRjb6kV6fol) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Peace Is The Mission : Extended](https://open.spotify.com/album/2U0b5MfkMUgzdvRUI69mya) | 3:06 | 2021-12-28 |  |
@@ -47,7 +48,7 @@
 | [In My Bed](https://open.spotify.com/track/002qGVBq254LJPG0t5uNv8) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Ayo](https://open.spotify.com/album/3K4CaKaEcLuJkJZ3lATzrq) | 3:50 | 2022-08-06 | 2022-08-20 |
 | [In My Bed](https://open.spotify.com/track/4yFQ8dqrFKghN8uGfQoUca) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Ayo](https://open.spotify.com/album/2O8egayngzl1fm5dcE4VX9) | 3:50 | 2021-12-28 | 2022-03-21 |
 | [Jaiye Jaiye](https://open.spotify.com/track/2gRzl3pbDoFoHfzRsmkQhf) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Femi Kuti](https://open.spotify.com/artist/6kgrtA0dlnVpWB6zjpXrRb) | [Ayo](https://open.spotify.com/album/2O8egayngzl1fm5dcE4VX9) | 4:06 | 2021-12-28 | 2022-06-16 |
-| [Jaiye Jaiye](https://open.spotify.com/track/2vXJl10Kiu3IqMo8moFBFK) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Femi Kuti](https://open.spotify.com/artist/6kgrtA0dlnVpWB6zjpXrRb) | [Ayo](https://open.spotify.com/album/3K4CaKaEcLuJkJZ3lATzrq) | 4:06 | 2022-06-23 |  |
+| [Jaiye Jaiye](https://open.spotify.com/track/2vXJl10Kiu3IqMo8moFBFK) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Femi Kuti](https://open.spotify.com/artist/6kgrtA0dlnVpWB6zjpXrRb) | [Ayo](https://open.spotify.com/album/3K4CaKaEcLuJkJZ3lATzrq) | 4:06 | 2022-06-23 | 2022-09-16 |
 | [Joro](https://open.spotify.com/track/3Yt1ovsh3v3VEzRuhI1TL5) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Joro](https://open.spotify.com/album/1Mj4mLvCC9P4b167keUsRh) | 4:22 | 2021-12-28 |  |
 | [KANA](https://open.spotify.com/track/3uTe5oVxtAO1cnsJm4uFCJ) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [KANA](https://open.spotify.com/album/7atwkbkL6GTv6w3ksI1BYC) | 3:27 | 2021-12-28 |  |
 | [Longtime \(feat\. Skepta\)](https://open.spotify.com/track/1JiR4RJaZlbZ5b3HG8jkeL) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 3:59 | 2021-12-28 |  |

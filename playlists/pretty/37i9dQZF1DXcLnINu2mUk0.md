@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Kappa Jotta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,508 likes - 60 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,533 likes - 60 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 8 | [00 Fala Bonito](https://open.spotify.com/track/3ZJC7xO1GdWF5rj8VqXU2C) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [00 Fala Bonito](https://open.spotify.com/album/0y2uZwLfbyL1FCwjmMb5Iv) | 3:32 |
 | 9 | [Ar](https://open.spotify.com/track/3BRAklqTTbHBBAPmLQFrsn) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [Gota D'Espaço](https://open.spotify.com/album/5gBDraKQzQb4A7rEjzACEJ) | 3:56 |
 | 10 | [Carta](https://open.spotify.com/track/3wkkrO3yKnqbC8XePMGMXD) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [DREYA](https://open.spotify.com/artist/34waUKLMZKUmfyRpWf4D38) | [Carta](https://open.spotify.com/album/5ianhNvoxI4UlVnCT7Hyav) | 2:33 |
-| 11 | [Imagina](https://open.spotify.com/track/2dWbucCC3cVXQWi6JaL7js) | [FRANKIEONTHEGUITAR](https://open.spotify.com/artist/4p2ytjUztJseG5ujVkv5Po), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Imagina](https://open.spotify.com/album/2C1S5oONnsIYEgvaNf1KWh) | 3:43 |
-| 12 | [Ride \(feat\. Bárbara Bandeira\)](https://open.spotify.com/track/0GNgrdn3uuVzssBxJzdpcF) | [Mike11](https://open.spotify.com/artist/0aMc96Z4utxfPMgOETIL3x), [Bárbara Bandeira](https://open.spotify.com/artist/4zhMand4AowXuUz4VpGiTJ) | [19.2k](https://open.spotify.com/album/4R91ZYsYt4fDohOjgHzM2K) | 3:13 |
-| 13 | [Como Tu \(feat\. Ivandro\)](https://open.spotify.com/track/5BGdBH8MsaHCgfr4TMpRin) | [Bárbara Bandeira](https://open.spotify.com/artist/4zhMand4AowXuUz4VpGiTJ), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Como Tu \(feat\. Ivandro\)](https://open.spotify.com/album/5iySTzq8nLllHzdYOFM59p) | 3:27 |
+| 11 | [Como Tu \(feat\. Ivandro\)](https://open.spotify.com/track/5BGdBH8MsaHCgfr4TMpRin) | [Bárbara Bandeira](https://open.spotify.com/artist/4zhMand4AowXuUz4VpGiTJ), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Como Tu \(feat\. Ivandro\)](https://open.spotify.com/album/5iySTzq8nLllHzdYOFM59p) | 3:27 |
+| 12 | [Imagina](https://open.spotify.com/track/2dWbucCC3cVXQWi6JaL7js) | [FRANKIEONTHEGUITAR](https://open.spotify.com/artist/4p2ytjUztJseG5ujVkv5Po), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Imagina](https://open.spotify.com/album/2C1S5oONnsIYEgvaNf1KWh) | 3:43 |
+| 13 | [Ride \(feat\. Bárbara Bandeira\)](https://open.spotify.com/track/0GNgrdn3uuVzssBxJzdpcF) | [Mike11](https://open.spotify.com/artist/0aMc96Z4utxfPMgOETIL3x), [Bárbara Bandeira](https://open.spotify.com/artist/4zhMand4AowXuUz4VpGiTJ) | [19.2k](https://open.spotify.com/album/4R91ZYsYt4fDohOjgHzM2K) | 3:13 |
 | 14 | [Dama & Vagabundo](https://open.spotify.com/track/2u1LLm7B1yUggZfMyaZjk9) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF) | [Dama & Vagabundo](https://open.spotify.com/album/4BKUmz50VANU1McCxFG9oM) | 5:13 |
 | 15 | [Tsunami](https://open.spotify.com/track/5TqGewrmzgeb21FYQC7mJZ) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS), [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [Tsunami](https://open.spotify.com/album/27Gt5wAgEVjatU36I1ogDf) | 4:57 |
 | 16 | [PRA MIM](https://open.spotify.com/track/1wxLvOhDguWTLAJN0HW87J) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [PRA MIM](https://open.spotify.com/album/4o64dSERjVp8ZJc12BYzJJ) | 2:33 |
@@ -49,17 +49,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 39 | [Lembra\-te](https://open.spotify.com/track/4kGx4Jl9U74iCUy9HfSnRl) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Desde a Origem](https://open.spotify.com/album/7i5xYoXAZRC9HONBaVyZTn) | 3:16 |
 | 40 | [Salto Alto](https://open.spotify.com/track/3sIXzuNgN9HrC7amkEQWiP) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Salto Alto](https://open.spotify.com/album/0uatAqfa3VviB7GZuUXd6l) | 3:39 |
 | 41 | [Break It](https://open.spotify.com/track/05vnos9Hfj27gKeReNWDNF) | [mishlawi](https://open.spotify.com/artist/27zRRhF2K0ai7JQxgAOZMF) | [Break It](https://open.spotify.com/album/2VGFyPuCNtXM9Y87rVW8Kq) | 2:24 |
-| 42 | [Conversas](https://open.spotify.com/track/0xtWY0uOW8JWyiCDD2RmGB) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Sacrifício: Sangue, Lágrimas, Suor](https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN) | 5:14 |
-| 43 | [Vai Dar](https://open.spotify.com/track/0YMXAPod9hwWwtDDejqI0C) | [Domingues](https://open.spotify.com/artist/7BcPoZhXI08icbiq1mpxFx) | [Vai Dar](https://open.spotify.com/album/4OE14bnybnjUzvgT2tjQ2j) | 3:05 |
-| 44 | [Backstage](https://open.spotify.com/track/7eoputmT8ACWDmhVFuYFS8) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Ngana Zambi](https://open.spotify.com/album/4ZgWBr16niSFDwCIiJ4iBk) | 4:16 |
+| 42 | [Backstage](https://open.spotify.com/track/7eoputmT8ACWDmhVFuYFS8) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Ngana Zambi](https://open.spotify.com/album/4ZgWBr16niSFDwCIiJ4iBk) | 4:16 |
+| 43 | [Conversas](https://open.spotify.com/track/0xtWY0uOW8JWyiCDD2RmGB) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Sacrifício: Sangue, Lágrimas, Suor](https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN) | 5:14 |
+| 44 | [Vai Dar](https://open.spotify.com/track/0YMXAPod9hwWwtDDejqI0C) | [Domingues](https://open.spotify.com/artist/7BcPoZhXI08icbiq1mpxFx) | [Vai Dar](https://open.spotify.com/album/4OE14bnybnjUzvgT2tjQ2j) | 3:05 |
 | 45 | [Melanina](https://open.spotify.com/track/1jFxvJAGwD8DFctTJZHBjl) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4), [Bluay](https://open.spotify.com/artist/18jB1ZnaJSWmro1ExvqZo4) | [Melanina](https://open.spotify.com/album/1Fu5gGz80ynZmZWgty92Ch) | 4:04 |
 | 46 | [Não Me Enganas \(feat\. Ivandro & Nayr Faquira\)](https://open.spotify.com/track/6ghsknvRAMqCFmGlSfC7Tv) | [Deezy](https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [Nayr Faquirá](https://open.spotify.com/artist/04UMTpKorelINdwYKsM9Tb) | [+ do Mesmo \- Parte 1](https://open.spotify.com/album/7DDasmVvLny9kVzO8AV3bD) | 4:48 |
 | 47 | [Tequila \(Studio Version\)](https://open.spotify.com/track/5daT88Zml8Stpw2oTeesJx) | [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Tequila \(Studio Version\)](https://open.spotify.com/album/75KlUT1wTgMEuYSdhUBT8M) | 3:19 |
 | 48 | [Dona](https://open.spotify.com/track/3ItaN5uDoA1Muk8S5vpbdZ) | [NGA](https://open.spotify.com/artist/3ONLrDrnWMglipr2yWeg7s) | [Dona](https://open.spotify.com/album/3JwAOwKIEzZ9nFxaRcg9Oo) | 4:05 |
 | 49 | [sedado](https://open.spotify.com/track/1oYeXvfELrtwfIj43N5hej) | [Holympo](https://open.spotify.com/artist/3nwFRfquZaKGnuH3b66uj9) | [sedado / baby](https://open.spotify.com/album/0ULlsgcy21IBSWhskJ9pOs) | 3:03 |
 | 50 | [Say Yeah](https://open.spotify.com/track/1ctGMBEia7oXjiIwceNT9m) | [Dilson](https://open.spotify.com/artist/23ghAzuoE80qxROFQQ1twm), [MDO \(Menino de Ouro\)](https://open.spotify.com/artist/0hTrdral9FhNQTTNIXTno1) | [Say Yeah](https://open.spotify.com/album/2lAGHS6egl953MXfBMYUid) | 2:50 |
-| 51 | [Depois da Chuva](https://open.spotify.com/track/1ScmnksyeYyEtdBlqZcozC) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Ngana Zambi](https://open.spotify.com/album/4ZgWBr16niSFDwCIiJ4iBk) | 4:39 |
-| 52 | [Só Tu](https://open.spotify.com/track/12bcq41ZJbnAPQ0gQ52b3W) | [Mkmike](https://open.spotify.com/artist/4L5hkcKd0ZG5bHHHPV9NZe) | [Fragmentos](https://open.spotify.com/album/3NAaDjmd63oPTVBQBI7Psc) | 3:45 |
+| 51 | [Só Tu](https://open.spotify.com/track/12bcq41ZJbnAPQ0gQ52b3W) | [Mkmike](https://open.spotify.com/artist/4L5hkcKd0ZG5bHHHPV9NZe) | [Fragmentos](https://open.spotify.com/album/3NAaDjmd63oPTVBQBI7Psc) | 3:45 |
+| 52 | [Depois da Chuva](https://open.spotify.com/track/1ScmnksyeYyEtdBlqZcozC) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Ngana Zambi](https://open.spotify.com/album/4ZgWBr16niSFDwCIiJ4iBk) | 4:39 |
 | 53 | [IBC](https://open.spotify.com/track/03jCCoBVLfE3uz0rIeQHwS) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i), [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru) | [IBC](https://open.spotify.com/album/5uzZIVVjB9Rwk87pNnyRuP) | 4:06 |
 | 54 | [Bali](https://open.spotify.com/track/7ftISqjVVB8kWXo2AseJrw) | [JONIE](https://open.spotify.com/artist/5deCRTmryD2B5IWCpmyjX8) | [Bali](https://open.spotify.com/album/2yXtuRdrcm2LajYHFnuzEz) | 2:53 |
 | 55 | [Pára](https://open.spotify.com/track/3Fr3Wit7KWJaZKDhwIbilT) | [Druh](https://open.spotify.com/artist/2KsalFyKIYXlhYFEaJMh35) | [Pára](https://open.spotify.com/album/3W5LuzDGWcfDIB6GsoTDNq) | 2:56 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 59 | [E Se Amanhã Eu Não Acordar?](https://open.spotify.com/track/76kA9bcAOo91KrlLFMmad3) | [Carlos Kendrick](https://open.spotify.com/artist/1a2ojKrPRx2TmnrLoCG5sH) | [E Se Amanhã Eu Não Acordar?](https://open.spotify.com/album/3HB9pyc6AOAbyX9GFAiUZV) | 3:22 |
 | 60 | [Outra X](https://open.spotify.com/track/2cvVTn6IZQH2CtJNRNIH7b) | [Lil Noon](https://open.spotify.com/artist/3e4WPDmHpNiXhaAy8tGfRs) | [2](https://open.spotify.com/album/0MkqOHbny4RkabeHsIaVsp) | 3:26 |
 
-Snapshot ID: `MTY2MjY3ODAwMCwwMDAwMDAwMDRhNWYxNTNlNGRkMTJlYzUzMDkzMzhjZWM5MzZlM2Nh`
+Snapshot ID: `MTY2MjY3ODAwMCwwMDAwMDAwMGM5OGE4NTY4ZmUxMjdkYWZjNDllNTFjZDBlNzRlOGQ3`

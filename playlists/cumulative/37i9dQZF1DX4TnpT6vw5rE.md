@@ -4,7 +4,7 @@
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-196 songs - 12 hr 11 min - [published](https://open.spotify.com/playlist/1UtTTBPg4n71DXZVvtkvbt)
+197 songs - 12 hr 14 min - [published](https://open.spotify.com/playlist/1UtTTBPg4n71DXZVvtkvbt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Levitate](https://open.spotify.com/track/2EXBGX5M8y0bp8IUPagUpy) | [Rizik](https://open.spotify.com/artist/1RPAAHsStLojK33L7zhgzl) | [Levitate](https://open.spotify.com/album/0BtISmmdavrCmqfYAZyeKK) | 4:22 | 2020-12-08\* | 2021-03-06 |
 | [Looking at the Stars](https://open.spotify.com/track/0oEsb9pPuLAa1pUagDv4BH) | [chillchild](https://open.spotify.com/artist/1Wq0Ioaww8FtItli6QrP46) | [Beauty and Truth](https://open.spotify.com/album/4ZczqJuCVIdZ2JOWDbR5Ie) | 3:13 | 2020-12-08\* | 2021-07-15 |
 | [Lost In Thought](https://open.spotify.com/track/0BSJ1iQEmGibLCPMHGtdo7) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Opalescent](https://open.spotify.com/album/7wPJ4V3ueggJxvaYscV9Ou) | 6:16 | 2020-12-08\* | 2021-05-27 |
+| [Lotus Blume](https://open.spotify.com/track/2XGO8m5DqJVMF80D4SxiXE) | [Altered Source](https://open.spotify.com/artist/2iRhuolbUq4A4UP0Pz9SVI) | [Lotus Blume](https://open.spotify.com/album/4ZTUFGj3sOMUG2Feb4MIcy) | 3:12 | 2022-09-13 |  |
 | [Lumineux](https://open.spotify.com/track/6KSBZVXd7VlaiF0tdcZnJz) | [Alice Rolande](https://open.spotify.com/artist/0z2to7jTZIdleuywyDi8zC) | [Lumineux](https://open.spotify.com/album/1X7uHbofmLyvKIWjfSZWqt) | 3:37 | 2021-10-28 |  |
 | [Lätt](https://open.spotify.com/track/22uuXDOeqbH5auwVCX0yL3) | [Soulgarden](https://open.spotify.com/artist/4D1RsYNSjyxvaKtj5qIdps) | [Lätt](https://open.spotify.com/album/6x0JCRqBVdm68Mt7dAk1cf) | 2:10 | 2022-07-15 |  |
 | [Magnificent](https://open.spotify.com/track/1ALMjj7yJFnVgnUV5494JQ) | [The Bay Man](https://open.spotify.com/artist/4XUwkDFoOHIN6YnWBxE5Om) | [Magnificent](https://open.spotify.com/album/5zl8JcdBS1PQfinEkgmQIS) | 2:53 | 2021-06-16 |  |
@@ -131,7 +132,7 @@
 | [Neume](https://open.spotify.com/track/2S0irMcT7nWLMn0DZpxcZX) | [Near The Parenthesis](https://open.spotify.com/artist/0w0n5GVOQZlszSi4WN1Got) | [Cloud.Not Mountain](https://open.spotify.com/album/6OFgF0S3CCyfTgZw4U0vrd) | 5:17 | 2022-07-22 |  |
 | [Neume](https://open.spotify.com/track/6fOfjh3At26n5ouoYP6z8X) | [Near The Parenthesis](https://open.spotify.com/artist/0w0n5GVOQZlszSi4WN1Got) | [Cloud.Not Mountain](https://open.spotify.com/album/3zClJLuzmzdBzc2XhaJJE5) | 5:17 | 2020-12-08\* | 2022-07-29 |
 | [Nevergreen](https://open.spotify.com/track/6DsGpDGIDRv8EFGgW10T1p) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Safe In the Steep Cliffs](https://open.spotify.com/album/1KHKPYKo4h8btHa8u3wjEB) | 3:35 | 2020-12-08\* | 2021-03-06 |
-| [Not Going Back to the Harbour \(Dauwd Remix\)](https://open.spotify.com/track/5fd2HLarNa3tqHEZK4uyCB) | [Lanterns on the Lake](https://open.spotify.com/artist/7sx3r4lMo079vO7lIi0fng) | [Low Tide](https://open.spotify.com/album/5gowhGeWFaDsMxfWiT9O8e) | 4:13 | 2022-07-22 |  |
+| [Not Going Back to the Harbour \(Dauwd Remix\)](https://open.spotify.com/track/5fd2HLarNa3tqHEZK4uyCB) | [Lanterns on the Lake](https://open.spotify.com/artist/7sx3r4lMo079vO7lIi0fng) | [Low Tide](https://open.spotify.com/album/5gowhGeWFaDsMxfWiT9O8e) | 4:13 | 2022-07-22 | 2022-09-16 |
 | [Not Going Back To The Harbour \- Dauwd Remix](https://open.spotify.com/track/3KYH5A1SQg6poc9cTr5TjR) | [Lanterns on the Lake](https://open.spotify.com/artist/7sx3r4lMo079vO7lIi0fng), [Dauwd Muhammad](https://open.spotify.com/artist/6T1WoscBXu9YjFzN8uvTTG) | [Low Tide](https://open.spotify.com/album/5fgdzuVFij8Qw6xa7aeJSY) | 4:13 | 2020-12-08\* | 2022-07-29 |
 | [Nothing It Can](https://open.spotify.com/track/4YEKwC3ipNg9LdR02OL8h2) | [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w) | [Moiety](https://open.spotify.com/album/26bsye3Q78IE7Kees8v8iO) | 4:47 | 2020-12-08\* |  |
 | [NYC/Night Time](https://open.spotify.com/track/1Y5TuZ4lGEeB4UKIvgieWC) | [Erik Reno](https://open.spotify.com/artist/4QL7rtAbYIAQ3sIsffoIz0) | [Summer Tales](https://open.spotify.com/album/6ppAmnM0WuNYgrSXC43dKJ) | 3:47 | 2020-12-08\* | 2021-05-27 |

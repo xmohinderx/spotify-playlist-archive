@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR4ZOXTfd9K.md) - [plain]
 
 > The best music from one of the greatest jazz labels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 375,739 likes - 101 songs - 10 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 375,795 likes - 101 songs - 10 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR4ZOXTfd9K.md) - [plain]
 | 100 | [G.G.](https://open.spotify.com/track/4cirs0aWDKwYw1ehlRy30v) | [Elvin Jones](https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF) | [Mr\. Jones](https://open.spotify.com/album/226bVJEQsu9W1nUvSefYJc) | 5:46 |
 | 101 | [The Bed We Made](https://open.spotify.com/track/6AplJffmm6vaEltCayfGLV) | [Nels Cline](https://open.spotify.com/artist/3s6o8vxtYJ1utkWl8EXxUp) | [Lovers](https://open.spotify.com/album/2oFwmxCUzVmP8pZxV1sdfN) | 3:25 |
 
-Snapshot ID: `MTY0NjM4MjYxNiwwMDAwMDAwMDgzZDAyNDJhMTVhZGM4ZGJjNTRjZTZmZDExMGFmN2Nk`
+Snapshot ID: `MTY2MzI1MzE4NywwMDAwMDAwMDNkYjY2MzUzYzllMDBiMDdiNjI3ZmNkNmY0MTE3MGY5`

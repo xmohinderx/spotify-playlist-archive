@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Dance](https://open.spotify.com/playlist/37i9dQZF1DX6bBjHfdRnza)
 
-> The best new dance & electronic music by independent artists and labels\. Updates every Wednesday\. Cover: GIDEÖN, Artwork: Rewina Beshue.
+> The best new dance & electronic music by independent artists and labels\. Updates every Wednesday\. Cover: BOABOA, Artwork: Rewina Beshue.
 
 731 songs - 2 day 2 hr 41 min - [published](https://open.spotify.com/playlist/4dKpDBG1y7h8bfA4dbtQPc)
 

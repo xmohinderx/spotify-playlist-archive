@@ -2,9 +2,9 @@
 
 ### [K\-Pop X\-Overs](https://open.spotify.com/playlist/37i9dQZF1DX4IDaXtVjL83)
 
-> Watch out for all the collaborations and cross\-overs in the K\-Pop world! Cover: SEVENTEEN, Anne\-Marie
+> Watch out for all the collaborations and cross\-overs in the K\-Pop world! Cover: AB6IX, Reiley
 
-95 songs - 5 hr 10 min - [published](https://open.spotify.com/playlist/0DIHYFEqLdrnfdqObi2sJD)
+97 songs - 5 hr 18 min - [published](https://open.spotify.com/playlist/0DIHYFEqLdrnfdqObi2sJD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,9 +56,11 @@
 | [Late Night Feels](https://open.spotify.com/track/3QvCW0O7zuvG3oPtzxmHOm) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Late Night Feels](https://open.spotify.com/album/0rdC8yB4neHiouKSAlkA06) | 2:53 | 2022-07-22 |  |
 | [Lost At Sea \(Illa Illa 2\)](https://open.spotify.com/track/3sheUbqssFt6H7JGWfZFK5) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H), [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Lost At Sea \(Illa Illa 2\)](https://open.spotify.com/album/1TgswMNuhpRfmO411liq1R) | 3:25 | 2021-12-20 | 2022-05-17 |
 | [Love me once again](https://open.spotify.com/track/7bfquwu5xobFp4axJkXVdg) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp), [YUN MIN SOO](https://open.spotify.com/artist/1FNZfvjCk9f579v5fBAPbP) | [Love me once again](https://open.spotify.com/album/4t6H6kJeG5QrElmIeDYZA4) | 5:24 | 2021-12-20 | 2022-01-22 |
+| [LUMINOUS](https://open.spotify.com/track/5LORlaKLGzAAxeIeqxYxPd) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [LUMINOUS](https://open.spotify.com/album/2SK988TDKtheZT9zVozte4) | 3:58 | 2022-09-15 |  |
 | [LUNATIC \(English Ver.\)](https://open.spotify.com/track/6iQQ9sg5NSauLU4TzKFOsY) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [6equence](https://open.spotify.com/album/0SXzCRUFSNGBG1S1lqvzb1) | 3:25 | 2022-02-16 |  |
 | [MANIAC \-Japanese ver.\-](https://open.spotify.com/track/6X5yUYQz3bKq0EZ0n82rqP) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [MANIAC \-Japanese ver.\-](https://open.spotify.com/album/4E7HNkLoKfcZlBxpjwBzMa) | 3:04 | 2022-05-18 |  |
 | [Memu Aagamu](https://open.spotify.com/track/4C81bkQ2tkMmYk4bGFCrv5) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a), [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi) | [Memu Aagamu](https://open.spotify.com/album/3c7ooAYb67kWlfNC3DpMjh) | 2:47 | 2022-08-29 |  |
+| [Moonlight](https://open.spotify.com/track/5FMaHFAPTjeWvym1F3IoGb) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g), [Reiley](https://open.spotify.com/artist/1nHcGkMVml7a44TVwfrAN8) | [Moonlight](https://open.spotify.com/album/3Bs3EaKLhOE2wQMriF5hRo) | 3:08 | 2022-09-15 |  |
 | [My Universe](https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp) | 3:48 | 2021-12-20 | 2022-06-01 |
 | [My World](https://open.spotify.com/track/1NnbWG5rVZpSlIiXFQ0U6F) | [Summer Soul](https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao), [ROMderful](https://open.spotify.com/artist/3Aum3IcJEKuGsWVPBZnvyU) | [UTOPIA](https://open.spotify.com/album/19lmfiETJkR6VKXZDsFn02) | 2:46 | 2022-06-10 |  |
 | [No More X \- English Version](https://open.spotify.com/track/3tj0PEdTWeq5u1TwH19gMA) | [TO1](https://open.spotify.com/artist/405HlkQ0VXP4NUYaGxsgsg) | [RE:ALIZE](https://open.spotify.com/album/3uHB6cLFlt4u4M6HTbSLfy) | 2:58 | 2021-12-20 | 2022-05-14 |

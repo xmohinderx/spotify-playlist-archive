@@ -1,12 +1,12 @@
 {
   "description": "Easy feels on your way to work, or wherever you're commuting to this morning.",
-  "num_followers": 969734,
+  "num_followers": 969770,
   "original_name": "Morning Commute",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5NjA2MCwwMDAwMDAwMDM3OGM5NDkxZmE3NzNkOGMyOTQxZTUyMmQyNzE0OTNh",
+  "snapshot_id": "MTY2MjY5NjA2MCwwMDAwMDAwMDYxYjQ1ZWIzMTczOGM5NGRiZDRlNTNmOTFjZGJhMzA4",
   "tracks": [
     {
       "added_at": "2022-09-09 04:01:00",
@@ -621,22 +621,6 @@
       "url": "https://open.spotify.com/track/0exZ0YogJPbjGzblpcZaw7"
     },
     {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "Damage",
-        "url": "https://open.spotify.com/album/0EkRimDVbqb9fGHXYCb2pO"
-      },
-      "artists": [
-        {
-          "name": "Caleb Hearn",
-          "url": "https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj"
-        }
-      ],
-      "duration_ms": 152961,
-      "name": "Damage",
-      "url": "https://open.spotify.com/track/7M2UiRCmybJ5fuT7Wc2iDR"
-    },
-    {
       "added_at": "2022-03-11 05:02:00",
       "album": {
         "name": "Thinking 'Bout Love",
@@ -655,6 +639,22 @@
       "duration_ms": 184200,
       "name": "Thinking 'Bout Love",
       "url": "https://open.spotify.com/track/0YHH3qK8Ntqxcc2GFkRrPh"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "Damage",
+        "url": "https://open.spotify.com/album/0EkRimDVbqb9fGHXYCb2pO"
+      },
+      "artists": [
+        {
+          "name": "Caleb Hearn",
+          "url": "https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj"
+        }
+      ],
+      "duration_ms": 152961,
+      "name": "Damage",
+      "url": "https://open.spotify.com/track/7M2UiRCmybJ5fuT7Wc2iDR"
     },
     {
       "added_at": "2022-04-08 04:01:00",
@@ -729,22 +729,6 @@
       "url": "https://open.spotify.com/track/5m9OR6G4lNt9Da6dy1xpHx"
     },
     {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
-        "name": "Mr. Percocet",
-        "url": "https://open.spotify.com/album/3qpuOpm7O2Z9yiad1w7dlS"
-      },
-      "artists": [
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        }
-      ],
-      "duration_ms": 193973,
-      "name": "Mr. Percocet",
-      "url": "https://open.spotify.com/track/2HmNAp3GcJ7DCKtnmV7N84"
-    },
-    {
       "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "King",
@@ -793,22 +777,6 @@
       "url": "https://open.spotify.com/track/77Gyctcku69jSlSSYhZEkh"
     },
     {
-      "added_at": "2022-05-20 04:01:00",
-      "album": {
-        "name": "emotionally unavailable",
-        "url": "https://open.spotify.com/album/3IdEptw0LPQv9qNLbxkdAU"
-      },
-      "artists": [
-        {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
-        }
-      ],
-      "duration_ms": 182958,
-      "name": "we're not kids anymore",
-      "url": "https://open.spotify.com/track/43ZTfozcXRTukqENA3TXqe"
-    },
-    {
       "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "Headlights",
@@ -823,6 +791,22 @@
       "duration_ms": 173213,
       "name": "Headlights",
       "url": "https://open.spotify.com/track/0mzeEr7kHYzVPWF6iTIuwE"
+    },
+    {
+      "added_at": "2022-05-20 04:01:00",
+      "album": {
+        "name": "emotionally unavailable",
+        "url": "https://open.spotify.com/album/3IdEptw0LPQv9qNLbxkdAU"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "duration_ms": 182958,
+      "name": "we're not kids anymore",
+      "url": "https://open.spotify.com/track/43ZTfozcXRTukqENA3TXqe"
     },
     {
       "added_at": "2022-05-13 04:02:00",
@@ -857,6 +841,22 @@
       "url": "https://open.spotify.com/track/45kn9BixcxJID8oNIknocn"
     },
     {
+      "added_at": "2022-09-02 04:02:00",
+      "album": {
+        "name": "Two Places at Once",
+        "url": "https://open.spotify.com/album/53nT8IUeQ1Eig7t5W2jS2v"
+      },
+      "artists": [
+        {
+          "name": "Haley Joelle",
+          "url": "https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8"
+        }
+      ],
+      "duration_ms": 199395,
+      "name": "Two Places at Once",
+      "url": "https://open.spotify.com/track/0l8p1TkaVgcwIUS0xwm6Y5"
+    },
+    {
       "added_at": "2021-12-03 05:01:00",
       "album": {
         "name": "Crisis / Secret / Set Me Free",
@@ -889,22 +889,6 @@
       "url": "https://open.spotify.com/track/6CKU2H5ZhY27Toecau0JbO"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
-      "album": {
-        "name": "Two Places at Once",
-        "url": "https://open.spotify.com/album/53nT8IUeQ1Eig7t5W2jS2v"
-      },
-      "artists": [
-        {
-          "name": "Haley Joelle",
-          "url": "https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8"
-        }
-      ],
-      "duration_ms": 199395,
-      "name": "Two Places at Once",
-      "url": "https://open.spotify.com/track/0l8p1TkaVgcwIUS0xwm6Y5"
-    },
-    {
       "added_at": "2022-01-28 05:01:00",
       "album": {
         "name": "Pink Moon",
@@ -925,22 +909,6 @@
       "url": "https://open.spotify.com/track/4Nk5iJrw4u7vJ6nGXosuxk"
     },
     {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Rooftops",
-        "url": "https://open.spotify.com/album/60j4yeYZl6vPOcDGtWIxVc"
-      },
-      "artists": [
-        {
-          "name": "Surfaces",
-          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
-        }
-      ],
-      "duration_ms": 180248,
-      "name": "Rooftops",
-      "url": "https://open.spotify.com/track/0M8LvMw5ARqPvBGALIBLoM"
-    },
-    {
       "added_at": "2022-08-12 04:02:00",
       "album": {
         "name": "getting into",
@@ -955,6 +923,22 @@
       "duration_ms": 169629,
       "name": "getting into",
       "url": "https://open.spotify.com/track/0tabwXMEh3t7MkeKa95oIp"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Rooftops",
+        "url": "https://open.spotify.com/album/60j4yeYZl6vPOcDGtWIxVc"
+      },
+      "artists": [
+        {
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+        }
+      ],
+      "duration_ms": 180248,
+      "name": "Rooftops",
+      "url": "https://open.spotify.com/track/0M8LvMw5ARqPvBGALIBLoM"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -1073,22 +1057,6 @@
       "url": "https://open.spotify.com/track/0H8fpWWucq2qFc4G03T4aI"
     },
     {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
-        "name": "Fat Funny Friend (sadder)",
-        "url": "https://open.spotify.com/album/3PJGfcK8Z3SYQltnyBT0tt"
-      },
-      "artists": [
-        {
-          "name": "Maddie Zahm",
-          "url": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq"
-        }
-      ],
-      "duration_ms": 202319,
-      "name": "Fat Funny Friend (sadder)",
-      "url": "https://open.spotify.com/track/21O2UVKExn54RKWfk1xF4E"
-    },
-    {
       "added_at": "2022-07-01 04:02:00",
       "album": {
         "name": "Songs of Sonder",
@@ -1103,6 +1071,22 @@
       "duration_ms": 181266,
       "name": "Dreamer",
       "url": "https://open.spotify.com/track/5MS9UnAqC3ObXUN6dIV1rr"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "Fat Funny Friend (sadder)",
+        "url": "https://open.spotify.com/album/3PJGfcK8Z3SYQltnyBT0tt"
+      },
+      "artists": [
+        {
+          "name": "Maddie Zahm",
+          "url": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq"
+        }
+      ],
+      "duration_ms": 202319,
+      "name": "Fat Funny Friend (sadder)",
+      "url": "https://open.spotify.com/track/21O2UVKExn54RKWfk1xF4E"
     },
     {
       "added_at": "2022-05-06 04:02:00",
@@ -1137,20 +1121,20 @@
       "url": "https://open.spotify.com/track/0rvcPanRR8rQO8lSIr0S4l"
     },
     {
-      "added_at": "2021-10-22 04:01:00",
+      "added_at": "2022-08-19 04:02:00",
       "album": {
-        "name": "BRIGHTSIDE",
-        "url": "https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL"
+        "name": "Watching TV",
+        "url": "https://open.spotify.com/album/2AMv7OLRdtbifINJFTpRuD"
       },
       "artists": [
         {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+          "name": "Sara Kays",
+          "url": "https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH"
         }
       ],
-      "duration_ms": 181040,
-      "name": "BIG SHOT",
-      "url": "https://open.spotify.com/track/3UHNRo52Jrra0NfaIlYbk4"
+      "duration_ms": 160677,
+      "name": "Watching TV",
+      "url": "https://open.spotify.com/track/7fAn052aR5ah3RvrANPEQd"
     },
     {
       "added_at": "2021-08-04 17:54:39",
@@ -1169,36 +1153,20 @@
       "url": "https://open.spotify.com/track/0JhOWLV0il0wcoyOr2kaCx"
     },
     {
-      "added_at": "2022-08-19 04:02:00",
+      "added_at": "2021-10-22 04:01:00",
       "album": {
-        "name": "Watching TV",
-        "url": "https://open.spotify.com/album/2AMv7OLRdtbifINJFTpRuD"
+        "name": "BRIGHTSIDE",
+        "url": "https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL"
       },
       "artists": [
         {
-          "name": "Sara Kays",
-          "url": "https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH"
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
         }
       ],
-      "duration_ms": 160677,
-      "name": "Watching TV",
-      "url": "https://open.spotify.com/track/7fAn052aR5ah3RvrANPEQd"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
-        "name": "god has a sense of humor",
-        "url": "https://open.spotify.com/album/6qcqsKIO6zufYcE8lPldAv"
-      },
-      "artists": [
-        {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
-        }
-      ],
-      "duration_ms": 170771,
-      "name": "god has a sense of humor",
-      "url": "https://open.spotify.com/track/4kJVBJWaZn6yuKQortyVYY"
+      "duration_ms": 181040,
+      "name": "BIG SHOT",
+      "url": "https://open.spotify.com/track/3UHNRo52Jrra0NfaIlYbk4"
     },
     {
       "added_at": "2021-10-01 04:01:00",
@@ -1215,6 +1183,22 @@
       "duration_ms": 198693,
       "name": "When The Lights Go Out",
       "url": "https://open.spotify.com/track/7xY5PbhYQgCCbpfpn7HDT9"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "god has a sense of humor",
+        "url": "https://open.spotify.com/album/6qcqsKIO6zufYcE8lPldAv"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "duration_ms": 170771,
+      "name": "god has a sense of humor",
+      "url": "https://open.spotify.com/track/4kJVBJWaZn6yuKQortyVYY"
     },
     {
       "added_at": "2021-08-04 17:54:39",
@@ -1251,6 +1235,22 @@
       "duration_ms": 305607,
       "name": "Meet The Moonlight",
       "url": "https://open.spotify.com/track/6M70kLblnAfCQ9uj8BdcUR"
+    },
+    {
+      "added_at": "2022-04-08 04:01:00",
+      "album": {
+        "name": "Ivory",
+        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 197453,
+      "name": "Petrified",
+      "url": "https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz"
     }
   ],
   "unique_name": "Morning Commute",

@@ -4,7 +4,7 @@
 
 > Strut to electronic tracks that grace the runways everywhere.
 
-161 songs - 13 hr 8 min - [published](https://open.spotify.com/playlist/5wAPYscM8lPvRRX5e0inx7)
+162 songs - 13 hr 11 min - [published](https://open.spotify.com/playlist/5wAPYscM8lPvRRX5e0inx7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Larme à gauche](https://open.spotify.com/track/5I0FpjL8ntcB3Z6MA4F1IH) | [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [Premiers émois](https://open.spotify.com/album/3VCwYQFMhuSzcuQ1B33TNZ) | 2:56 | 2022-05-06 |  |
 | [Let It Go](https://open.spotify.com/track/2sHioVLAzKoqxuqJv51L7i) | [KITTENS](https://open.spotify.com/artist/1TjmRAj3JWRf7feuDKMrXM) | [Let It Go](https://open.spotify.com/album/0fMlGSOlXFyQxg150u5DQZ) | 3:07 | 2022-06-14 |  |
 | [Let the Beat Control Your Body](https://open.spotify.com/track/5Ku0pfmAZUyEbO5grfQsyP) | [Brodinski](https://open.spotify.com/artist/0ZurilbRp6KwW6dpaw4pEK), [Louisahhh](https://open.spotify.com/artist/42TogPbYEXl164PrqTEVBW) | [Bromance \#1 \- Single](https://open.spotify.com/album/50jBbRc85Two6YRoGbsGWt) | 5:11 | 2022-05-06 |  |
+| [Lights Up](https://open.spotify.com/track/68fRXTgDg5V2p2wzHCPh9n) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [FOREVER](https://open.spotify.com/album/6kzRU9QtsTrhlObao5Eb3t) | 3:11 | 2022-09-02 |  |
 | [Lights Up \(feat\. Channel Tres\)](https://open.spotify.com/track/2AilPQNd3s6oxFstz2ZZ4n) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Lights Up \(feat\. Channel Tres\)](https://open.spotify.com/album/25rxE7bpEZ6SSIcJd22040) | 3:11 | 2022-05-06 | 2022-09-15 |
 | [Like A Good Old Friend](https://open.spotify.com/track/3pYKObrBdzSqIt1PtWfJAh) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [Like A Good Old Friend](https://open.spotify.com/album/0S7gwzr5kWmKpEuVdQtqip) | 3:38 | 2022-05-06 |  |
 | [Like this](https://open.spotify.com/track/69m0nk21Qs3xPCb99FHEpY) | [박혜진 Park Hye Jin](https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1) | [Like this](https://open.spotify.com/album/6IY7xZvEFajL9WEVJUFKd1) | 4:05 | 2022-05-06 | 2022-07-29 |
@@ -103,7 +104,7 @@
 | [My Lullaby for You](https://open.spotify.com/track/4WpbJlrScdfbCilNSJKLRt) | [Nina Kraviz](https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE), [Bara Nova](https://open.spotify.com/artist/2jzbYdD55IHAm5Rk7RHoYf) | [Cyberpunk 2077: Radio, Vol\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/3j8Mg3DogmEVXNYrHbDWeX) | 5:34 | 2022-05-06 |  |
 | [Naked City](https://open.spotify.com/track/0sjInHtjk5W6886S1lIR5z) | [Glass Candy](https://open.spotify.com/artist/7atGlyFY5574ph1tGMs6gD) | [Naked City](https://open.spotify.com/album/0Dv6DoJL6thUmYk5kBk8kM) | 2:36 | 2022-05-06 | 2022-07-29 |
 | [Naked City](https://open.spotify.com/track/6e4KfKMfBQKXOHO2fgweVT) | [Glass Candy](https://open.spotify.com/artist/7atGlyFY5574ph1tGMs6gD) | [Naked City](https://open.spotify.com/album/0JN9Za7vTgRgRjS5Zv08hy) | 2:36 | 2022-06-14 |  |
-| [Never Sleep](https://open.spotify.com/track/4GT3Qum7qq52hP8PRtORMT) | [Gabber Eleganza](https://open.spotify.com/artist/4rCySlHzijM0ZiFPx7tUhd) | [Never Sleep \#1](https://open.spotify.com/album/5KmqZG7XmHAiflZGG6dwom) | 4:53 | 2022-05-06 |  |
+| [Never Sleep](https://open.spotify.com/track/4GT3Qum7qq52hP8PRtORMT) | [Gabber Eleganza](https://open.spotify.com/artist/4rCySlHzijM0ZiFPx7tUhd) | [Never Sleep \#1](https://open.spotify.com/album/5KmqZG7XmHAiflZGG6dwom) | 4:53 | 2022-05-06 | 2022-09-16 |
 | [No Hay Mañana \- Club Mix](https://open.spotify.com/track/1UrvOgh8GajpKp39Qj2WUR) | [Héctor Oaks](https://open.spotify.com/artist/2FZAQdFEANNv5Gi29PI10x), [COCO\-PALOMA](https://open.spotify.com/artist/08jPWr83bzp3LZVnRu5D19) | [No Hay Mañana](https://open.spotify.com/album/5cVrEBqan5YnLhr4Blo83u) | 7:03 | 2022-05-06 |  |
 | [oh baby](https://open.spotify.com/track/53PkA8aXiwH4ppa0V0iO7o) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [american dream](https://open.spotify.com/album/4AF1M7bGCFL3LHCtXUUXw5) | 5:49 | 2022-05-06 |  |
 | [On Your Mind](https://open.spotify.com/track/5aqsZYOE5bP1cY4sSaw0Jq) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [On Your Mind](https://open.spotify.com/album/23r79fk0k3TCumBLqaPKa6) | 4:06 | 2022-05-06 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Prendete con tu lista favorita de Dembow. Foto: Aleesha",
-  "num_followers": 64506,
+  "num_followers": 64567,
   "original_name": "Rep\u00fablica Dembow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg5MDY4NywwMDAwMDAwMGQ4NWU0YzI1MDIxZDdmY2Y1OGJkYjFjNDMxY2VmMGM1",
+  "snapshot_id": "MTY2MDg5MDY4NywwMDAwMDAwMGYwMWY4YjZkM2VhMzYxMjhkOTI3OTdhMzY3NTQ1MTg3",
   "tracks": [
     {
       "added_at": "2022-08-19 06:31:27",
@@ -251,30 +251,6 @@
     {
       "added_at": "2022-08-19 06:31:27",
       "album": {
-        "name": "Traag",
-        "url": "https://open.spotify.com/album/5AsRbniAzyo0QKLc2H2ELC"
-      },
-      "artists": [
-        {
-          "name": "Bizzey",
-          "url": "https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8"
-        },
-        {
-          "name": "Jozo",
-          "url": "https://open.spotify.com/artist/45eUXWgwkv92uAk1KQFI6D"
-        },
-        {
-          "name": "Kraantje Pappie",
-          "url": "https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q"
-        }
-      ],
-      "duration_ms": 189619,
-      "name": "Traag",
-      "url": "https://open.spotify.com/track/26rVJH5zUQ7Yihz6c850Sn"
-    },
-    {
-      "added_at": "2022-08-19 06:31:27",
-      "album": {
         "name": "Muevelo",
         "url": "https://open.spotify.com/album/3eWr2xpbtamu6EJpgMrkHd"
       },
@@ -387,6 +363,30 @@
     {
       "added_at": "2022-08-19 06:31:27",
       "album": {
+        "name": "Molly",
+        "url": "https://open.spotify.com/album/2FoFaHoCjmLKxuA1bfi9BO"
+      },
+      "artists": [
+        {
+          "name": "Yomel El Meloso",
+          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
+        },
+        {
+          "name": "Kiko el Crazy",
+          "url": "https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E"
+        },
+        {
+          "name": "Treintisiete",
+          "url": "https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah"
+        }
+      ],
+      "duration_ms": 134237,
+      "name": "Molly",
+      "url": "https://open.spotify.com/track/24HzEc30Pzu0ioNlyukZhJ"
+    },
+    {
+      "added_at": "2022-08-19 06:31:27",
+      "album": {
         "name": "El Hombre",
         "url": "https://open.spotify.com/album/5hzbgBTxfikktf9cOvggGF"
       },
@@ -419,46 +419,6 @@
       "duration_ms": 305526,
       "name": "Suave (Remix)",
       "url": "https://open.spotify.com/track/4phvdPGXE8MGXsTBhqB5ht"
-    },
-    {
-      "added_at": "2022-08-19 06:31:27",
-      "album": {
-        "name": "El Motorcito",
-        "url": "https://open.spotify.com/album/0Q8xUiGPK728UFpROnSGPD"
-      },
-      "artists": [
-        {
-          "name": "Lirico En La Casa",
-          "url": "https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo"
-        }
-      ],
-      "duration_ms": 169293,
-      "name": "El Motorcito",
-      "url": "https://open.spotify.com/track/1c89Peahzqvhcs9UtiT879"
-    },
-    {
-      "added_at": "2022-08-19 06:31:27",
-      "album": {
-        "name": "Molly",
-        "url": "https://open.spotify.com/album/2FoFaHoCjmLKxuA1bfi9BO"
-      },
-      "artists": [
-        {
-          "name": "Yomel El Meloso",
-          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
-        },
-        {
-          "name": "Kiko el Crazy",
-          "url": "https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E"
-        },
-        {
-          "name": "Treintisiete",
-          "url": "https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah"
-        }
-      ],
-      "duration_ms": 134237,
-      "name": "Molly",
-      "url": "https://open.spotify.com/track/24HzEc30Pzu0ioNlyukZhJ"
     },
     {
       "added_at": "2022-08-19 06:31:27",
@@ -507,22 +467,18 @@
     {
       "added_at": "2022-08-19 06:31:27",
       "album": {
-        "name": "Disciplina (Puerto Rico Edition)",
-        "url": "https://open.spotify.com/album/4Qwz7NX3o56AlOR99WRwgw"
+        "name": "El Motorcito",
+        "url": "https://open.spotify.com/album/0Q8xUiGPK728UFpROnSGPD"
       },
       "artists": [
         {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Lirico En La Casa",
+          "url": "https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo"
         }
       ],
-      "duration_ms": 218920,
-      "name": "Demaga Ge Gi Go Gu",
-      "url": "https://open.spotify.com/track/3nQbCPy1vMFtXb4XEpOmgC"
+      "duration_ms": 169293,
+      "name": "El Motorcito",
+      "url": "https://open.spotify.com/track/1c89Peahzqvhcs9UtiT879"
     },
     {
       "added_at": "2022-08-19 06:31:27",
@@ -539,6 +495,26 @@
       "duration_ms": 418728,
       "name": "Tu Lokotron Remix",
       "url": "https://open.spotify.com/track/0LqY6Y6M4xx5mCe3QKLb2o"
+    },
+    {
+      "added_at": "2022-08-19 06:31:27",
+      "album": {
+        "name": "Disciplina (Puerto Rico Edition)",
+        "url": "https://open.spotify.com/album/4Qwz7NX3o56AlOR99WRwgw"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 218920,
+      "name": "Demaga Ge Gi Go Gu",
+      "url": "https://open.spotify.com/track/3nQbCPy1vMFtXb4XEpOmgC"
     },
     {
       "added_at": "2022-08-19 06:31:27",
@@ -575,22 +551,6 @@
     {
       "added_at": "2022-08-19 06:31:27",
       "album": {
-        "name": "Marianela",
-        "url": "https://open.spotify.com/album/3DcQWl5CYS0R81XMNYGNDS"
-      },
-      "artists": [
-        {
-          "name": "Lirico En La Casa",
-          "url": "https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo"
-        }
-      ],
-      "duration_ms": 188760,
-      "name": "Marianela",
-      "url": "https://open.spotify.com/track/3NVvbKNndun3sfDKJANhw4"
-    },
-    {
-      "added_at": "2022-08-19 06:31:27",
-      "album": {
         "name": "Lorito",
         "url": "https://open.spotify.com/album/0oGOljyN6qexxje71tp3lb"
       },
@@ -603,6 +563,38 @@
       "duration_ms": 142513,
       "name": "Lorito",
       "url": "https://open.spotify.com/track/4QMzXTX5ePQIwdj4bJktFz"
+    },
+    {
+      "added_at": "2022-08-19 06:31:27",
+      "album": {
+        "name": "Superman Sin Capa",
+        "url": "https://open.spotify.com/album/54sBUl14e0fc7YZGX8dWdP"
+      },
+      "artists": [
+        {
+          "name": "El Super Nuevo",
+          "url": "https://open.spotify.com/artist/3hWKGRKwr78bhxvErSJBdu"
+        }
+      ],
+      "duration_ms": 230153,
+      "name": "Superman Sin Capa",
+      "url": "https://open.spotify.com/track/1UuZIUgkiVPhIkhbYlLTeD"
+    },
+    {
+      "added_at": "2022-08-19 06:31:27",
+      "album": {
+        "name": "Marianela",
+        "url": "https://open.spotify.com/album/3DcQWl5CYS0R81XMNYGNDS"
+      },
+      "artists": [
+        {
+          "name": "Lirico En La Casa",
+          "url": "https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo"
+        }
+      ],
+      "duration_ms": 188760,
+      "name": "Marianela",
+      "url": "https://open.spotify.com/track/3NVvbKNndun3sfDKJANhw4"
     },
     {
       "added_at": "2022-08-19 06:31:27",
@@ -639,22 +631,6 @@
     {
       "added_at": "2022-08-19 06:31:27",
       "album": {
-        "name": "Superman Sin Capa",
-        "url": "https://open.spotify.com/album/54sBUl14e0fc7YZGX8dWdP"
-      },
-      "artists": [
-        {
-          "name": "El Super Nuevo",
-          "url": "https://open.spotify.com/artist/3hWKGRKwr78bhxvErSJBdu"
-        }
-      ],
-      "duration_ms": 230153,
-      "name": "Superman Sin Capa",
-      "url": "https://open.spotify.com/track/1UuZIUgkiVPhIkhbYlLTeD"
-    },
-    {
-      "added_at": "2022-08-19 06:31:27",
-      "album": {
         "name": "KlK Llego El Tipo the Album",
         "url": "https://open.spotify.com/album/3XHcqktZHNuuRjdLJqiGs0"
       },
@@ -671,22 +647,6 @@
     {
       "added_at": "2022-08-19 06:31:27",
       "album": {
-        "name": "Vibra Latina",
-        "url": "https://open.spotify.com/album/5MYwgZa0VC4IKzPM2XGqIC"
-      },
-      "artists": [
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        }
-      ],
-      "duration_ms": 211515,
-      "name": "Suave",
-      "url": "https://open.spotify.com/track/46P3sjn38awa9mlokdDlBU"
-    },
-    {
-      "added_at": "2022-08-19 06:31:27",
-      "album": {
         "name": "Colombiana",
         "url": "https://open.spotify.com/album/63vnbIp0UFLKeDlJ3NLPfK"
       },
@@ -699,6 +659,22 @@
       "duration_ms": 186801,
       "name": "Colombiana",
       "url": "https://open.spotify.com/track/4OkZXjA1yje9NZurlsfiGw"
+    },
+    {
+      "added_at": "2022-08-19 06:31:27",
+      "album": {
+        "name": "Vibra Latina",
+        "url": "https://open.spotify.com/album/5MYwgZa0VC4IKzPM2XGqIC"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "duration_ms": 211515,
+      "name": "Suave",
+      "url": "https://open.spotify.com/track/46P3sjn38awa9mlokdDlBU"
     },
     {
       "added_at": "2022-08-19 06:31:27",
@@ -747,26 +723,6 @@
     {
       "added_at": "2022-08-19 06:31:27",
       "album": {
-        "name": "En Cuota",
-        "url": "https://open.spotify.com/album/4YLdRugPDuQvaZ5i59qRKw"
-      },
-      "artists": [
-        {
-          "name": "ITHAN NY",
-          "url": "https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs"
-        },
-        {
-          "name": "Marcianeke",
-          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
-        }
-      ],
-      "duration_ms": 182924,
-      "name": "En Cuota",
-      "url": "https://open.spotify.com/track/576ZvZ4tmOoWdieoDh8tlz"
-    },
-    {
-      "added_at": "2022-08-19 06:31:27",
-      "album": {
         "name": "La Revelacion del Under - Back To The Underground",
         "url": "https://open.spotify.com/album/3XsCIXh0nLc88eTQo1Xh2o"
       },
@@ -787,6 +743,26 @@
       "duration_ms": 237348,
       "name": "Dale Pal Piso",
       "url": "https://open.spotify.com/track/5ApsoGGyfr6UTNXtTwcBjf"
+    },
+    {
+      "added_at": "2022-08-19 06:31:27",
+      "album": {
+        "name": "En Cuota",
+        "url": "https://open.spotify.com/album/4YLdRugPDuQvaZ5i59qRKw"
+      },
+      "artists": [
+        {
+          "name": "ITHAN NY",
+          "url": "https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs"
+        },
+        {
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+        }
+      ],
+      "duration_ms": 182924,
+      "name": "En Cuota",
+      "url": "https://open.spotify.com/track/576ZvZ4tmOoWdieoDh8tlz"
     },
     {
       "added_at": "2022-08-19 06:31:27",
@@ -971,46 +947,6 @@
     {
       "added_at": "2022-08-19 06:31:27",
       "album": {
-        "name": "Dembow Hits",
-        "url": "https://open.spotify.com/album/3KmHYKhbEdO8CvzLzT46u6"
-      },
-      "artists": [
-        {
-          "name": "Paramba",
-          "url": "https://open.spotify.com/artist/2JJeLxFOub3q1h6GTKOOBi"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 223026,
-      "name": "Que Se Mueran de Envidia - Remix",
-      "url": "https://open.spotify.com/track/756lNtYctOWwsFwrcAwQ0X"
-    },
-    {
-      "added_at": "2022-08-19 06:31:27",
-      "album": {
-        "name": "Limonada Coco (Remix)",
-        "url": "https://open.spotify.com/album/3liRtVXbGcDBNHoCwAS7i5"
-      },
-      "artists": [
-        {
-          "name": "Musicologo The Libro",
-          "url": "https://open.spotify.com/artist/0lIw3RIPiAC50dWNjJXe2Q"
-        },
-        {
-          "name": "Lapiz Conciente",
-          "url": "https://open.spotify.com/artist/0UTsdD7VIsEB9i7a6DDx5t"
-        }
-      ],
-      "duration_ms": 216816,
-      "name": "Limonada Coco - Remix",
-      "url": "https://open.spotify.com/track/2B6fcfcO3E54venwlb4N7B"
-    },
-    {
-      "added_at": "2022-08-19 06:31:27",
-      "album": {
         "name": "CHOKOO",
         "url": "https://open.spotify.com/album/0y7057hiNC84dqOOynn21D"
       },
@@ -1059,6 +995,62 @@
     {
       "added_at": "2022-08-19 06:31:27",
       "album": {
+        "name": "Dembow Hits",
+        "url": "https://open.spotify.com/album/3KmHYKhbEdO8CvzLzT46u6"
+      },
+      "artists": [
+        {
+          "name": "Paramba",
+          "url": "https://open.spotify.com/artist/2JJeLxFOub3q1h6GTKOOBi"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 223026,
+      "name": "Que Se Mueran de Envidia - Remix",
+      "url": "https://open.spotify.com/track/756lNtYctOWwsFwrcAwQ0X"
+    },
+    {
+      "added_at": "2022-08-19 06:31:27",
+      "album": {
+        "name": "Limonada Coco (Remix)",
+        "url": "https://open.spotify.com/album/3liRtVXbGcDBNHoCwAS7i5"
+      },
+      "artists": [
+        {
+          "name": "Musicologo The Libro",
+          "url": "https://open.spotify.com/artist/0lIw3RIPiAC50dWNjJXe2Q"
+        },
+        {
+          "name": "Lapiz Conciente",
+          "url": "https://open.spotify.com/artist/0UTsdD7VIsEB9i7a6DDx5t"
+        }
+      ],
+      "duration_ms": 216816,
+      "name": "Limonada Coco - Remix",
+      "url": "https://open.spotify.com/track/2B6fcfcO3E54venwlb4N7B"
+    },
+    {
+      "added_at": "2022-08-19 06:31:27",
+      "album": {
+        "name": "Maniqui",
+        "url": "https://open.spotify.com/album/46b2mwTXK6QJGRZgJ2q8cc"
+      },
+      "artists": [
+        {
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+        }
+      ],
+      "duration_ms": 177632,
+      "name": "Maniqui",
+      "url": "https://open.spotify.com/track/4i8NEPpP802z5lxewO8flu"
+    },
+    {
+      "added_at": "2022-08-19 06:31:27",
+      "album": {
         "name": "Sesi",
         "url": "https://open.spotify.com/album/07vEYx7A3N8V8glLUqdbmM"
       },
@@ -1079,22 +1071,6 @@
       "duration_ms": 174802,
       "name": "Sesi",
       "url": "https://open.spotify.com/track/2mMAt6028RFl2ujQUPZXon"
-    },
-    {
-      "added_at": "2022-08-19 06:31:27",
-      "album": {
-        "name": "Maniqui",
-        "url": "https://open.spotify.com/album/46b2mwTXK6QJGRZgJ2q8cc"
-      },
-      "artists": [
-        {
-          "name": "Chimbala",
-          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
-        }
-      ],
-      "duration_ms": 177632,
-      "name": "Maniqui",
-      "url": "https://open.spotify.com/track/4i8NEPpP802z5lxewO8flu"
     },
     {
       "added_at": "2022-08-19 06:31:27",
@@ -1207,6 +1183,26 @@
     {
       "added_at": "2022-08-19 06:31:27",
       "album": {
+        "name": "Desacatate",
+        "url": "https://open.spotify.com/album/6eKAwNaD9uO8Sfasl72ICV"
+      },
+      "artists": [
+        {
+          "name": "La Materialista",
+          "url": "https://open.spotify.com/artist/4FMqE1IWlhufYw1x2zlKG6"
+        },
+        {
+          "name": "Yomel El Meloso",
+          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
+        }
+      ],
+      "duration_ms": 161130,
+      "name": "Desacatate",
+      "url": "https://open.spotify.com/track/4yoaxr2ToiYPaqR37ljvaW"
+    },
+    {
+      "added_at": "2022-08-19 06:31:27",
+      "album": {
         "name": "Bum Bam Ven (Remix)",
         "url": "https://open.spotify.com/album/4LTrtFWbK563S7QVD9Zxz9"
       },
@@ -1227,26 +1223,6 @@
       "duration_ms": 230000,
       "name": "Bum Bam Ven - Remix",
       "url": "https://open.spotify.com/track/7u3QrlRfJChzwic9Hoimiq"
-    },
-    {
-      "added_at": "2022-08-19 06:31:27",
-      "album": {
-        "name": "Desacatate",
-        "url": "https://open.spotify.com/album/6eKAwNaD9uO8Sfasl72ICV"
-      },
-      "artists": [
-        {
-          "name": "La Materialista",
-          "url": "https://open.spotify.com/artist/4FMqE1IWlhufYw1x2zlKG6"
-        },
-        {
-          "name": "Yomel El Meloso",
-          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
-        }
-      ],
-      "duration_ms": 161130,
-      "name": "Desacatate",
-      "url": "https://open.spotify.com/track/4yoaxr2ToiYPaqR37ljvaW"
     },
     {
       "added_at": "2022-08-19 06:31:27",
@@ -1303,6 +1279,22 @@
       "duration_ms": 163800,
       "name": "Klok Con Klok",
       "url": "https://open.spotify.com/track/4VthUTifCMlgzYkfQX1LQV"
+    },
+    {
+      "added_at": "2022-08-19 06:31:27",
+      "album": {
+        "name": "Trayectoria",
+        "url": "https://open.spotify.com/album/1dovid8Cb5WCdaUCccteeh"
+      },
+      "artists": [
+        {
+          "name": "La Materialista",
+          "url": "https://open.spotify.com/artist/4FMqE1IWlhufYw1x2zlKG6"
+        }
+      ],
+      "duration_ms": 215301,
+      "name": "La Chapa Que Vibran",
+      "url": "https://open.spotify.com/track/6cFckWKvl4IrBmRZI995kG"
     },
     {
       "added_at": "2022-08-19 06:31:27",
@@ -1411,22 +1403,6 @@
     {
       "added_at": "2022-08-19 06:31:27",
       "album": {
-        "name": "Trayectoria",
-        "url": "https://open.spotify.com/album/1dovid8Cb5WCdaUCccteeh"
-      },
-      "artists": [
-        {
-          "name": "La Materialista",
-          "url": "https://open.spotify.com/artist/4FMqE1IWlhufYw1x2zlKG6"
-        }
-      ],
-      "duration_ms": 215301,
-      "name": "La Chapa Que Vibran",
-      "url": "https://open.spotify.com/track/6cFckWKvl4IrBmRZI995kG"
-    },
-    {
-      "added_at": "2022-08-19 06:31:27",
-      "album": {
         "name": "Mensaje Directo (DM)",
         "url": "https://open.spotify.com/album/49xNNfmQRUICPKH1uX0yc9"
       },
@@ -1515,6 +1491,42 @@
       "duration_ms": 218487,
       "name": "La Gente Ta' Loca - Remix",
       "url": "https://open.spotify.com/track/1xnkJ7O4Sz7D6vxPyjZkQt"
+    },
+    {
+      "added_at": "2022-08-19 06:31:27",
+      "album": {
+        "name": "Tu Cojea (Remix)",
+        "url": "https://open.spotify.com/album/0zm0Z4PQAioer5GHfdG1Wi"
+      },
+      "artists": [
+        {
+          "name": "Vakero",
+          "url": "https://open.spotify.com/artist/5rlwbF5flU2JCmAzV5Obu0"
+        },
+        {
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+        },
+        {
+          "name": "Quimico Ultra Mega",
+          "url": "https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX"
+        },
+        {
+          "name": "El Fecho RD",
+          "url": "https://open.spotify.com/artist/2qHuI4Avg4Dbowhu8whV9e"
+        },
+        {
+          "name": "Yomel El Meloso",
+          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
+        },
+        {
+          "name": "La Perversa",
+          "url": "https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo"
+        }
+      ],
+      "duration_ms": 244916,
+      "name": "Tu Cojea - Remix",
+      "url": "https://open.spotify.com/track/7i5yhydTMHfFyU9UiEzDOX"
     }
   ],
   "unique_name": "Rep\u00fablica Dembow",

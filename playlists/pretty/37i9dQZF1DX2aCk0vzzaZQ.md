@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aCk0vzzaZQ.md) - [plain]
 
 > When you're a 19th century villain with excellent taste in music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,693 likes - 42 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,073 likes - 42 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

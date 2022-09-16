@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 
 > Os brabos do hip hop nacional\. Foto: Racionais MCs
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,344 likes - 60 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,348 likes - 60 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 | 48 | [Estilo Coyote](https://open.spotify.com/track/0S8wE0j00zo0giZ2PkWmUD) | [Salvador Da Rima](https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV) | [Estilo Coyote](https://open.spotify.com/album/7HAdkfzrgibPksLJFAZMtq) | 2:54 |
 | 49 | [Cake](https://open.spotify.com/track/4c98woI6F0ptrGFyK8O1m2) | [Entre Linhas](https://open.spotify.com/artist/0JGXguxnX2MUk3joFyJPjX), [Kuririn](https://open.spotify.com/artist/6R85n4akSmUKlnYZ2QnzmC), [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Matuê](https://open.spotify.com/artist/6g0nBehL70Q9AW8jozS0JS), [Jay Kay](https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki) | [Solo](https://open.spotify.com/album/09pLe9TmUD5UxYWiWqjBqf) | 3:37 |
 | 50 | [Fuga](https://open.spotify.com/track/1w3wkv5EPlYBHi7N21XADR) | [Cacife Clandestino](https://open.spotify.com/artist/2RKcy8YT2w2QYn0D7TjiIi), [Medellin](https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh) | [Fuga](https://open.spotify.com/album/4CYB9IWp5ReZ8PfvU7Cost) | 3:52 |
-| 51 | [Como Deus Quiser](https://open.spotify.com/track/72ZGT5dwrp7lZ40ums6dHi) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K) | [Não é Só Isso](https://open.spotify.com/album/74oYgcDGGUfRnt9bJHmkKt) | 3:01 |
-| 52 | [Favela Vive 3](https://open.spotify.com/track/4vlMvk0fDzmfyFbeqVaVfo) | [ADL](https://open.spotify.com/artist/6Ywb1no2hXLazjIs4LUiQD), [Choice](https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu), [Negra Li](https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Menor do Chapa](https://open.spotify.com/artist/6i7MlW2ZdQRPi5sGOxXCH3) | [Favela Vive 3](https://open.spotify.com/album/6oxM1v9bPLiiVZp0OjtIFG) | 8:19 |
+| 51 | [Favela Vive 3](https://open.spotify.com/track/4vlMvk0fDzmfyFbeqVaVfo) | [ADL](https://open.spotify.com/artist/6Ywb1no2hXLazjIs4LUiQD), [Choice](https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu), [Negra Li](https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Menor do Chapa](https://open.spotify.com/artist/6i7MlW2ZdQRPi5sGOxXCH3) | [Favela Vive 3](https://open.spotify.com/album/6oxM1v9bPLiiVZp0OjtIFG) | 8:19 |
+| 52 | [Como Deus Quiser](https://open.spotify.com/track/72ZGT5dwrp7lZ40ums6dHi) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K) | [Não é Só Isso](https://open.spotify.com/album/74oYgcDGGUfRnt9bJHmkKt) | 3:01 |
 | 53 | [The Cypher Deffect 2](https://open.spotify.com/track/6GYrNXsWoprEndJCoKLfAB) | [Costa Gold](https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn), [Kant](https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ), [Spinardi](https://open.spotify.com/artist/5rohxv1cRfQwpG8W9uxSle), [Chayco](https://open.spotify.com/artist/0titiXdcUTRXpX2CFeShdk) | [The Cypher Deffect 2](https://open.spotify.com/album/4blnaSPrTVDqEN4Bg1Cmgb) | 5:35 |
 | 54 | [Foco, Força E Fé](https://open.spotify.com/track/28M9CSVpZ8x526MKvb1U2W) | [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K) | [Foco, Força E Fé](https://open.spotify.com/album/2ZkIlqqupIDBsfG1zzvToD) | 3:44 |
 | 55 | [Vem Tranquilo](https://open.spotify.com/track/7lllBXlYPpeocz95bTVyPO) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Santzu](https://open.spotify.com/artist/7vIhwLkRibT4hBjpBAPwZP), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY) | [Mixtape: O Homem Não para Nunca, Vol\. 1](https://open.spotify.com/album/1lXyXfLQHjxtxWJKquzMjF) | 4:54 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 | 59 | [Linda, Louca e Mimada](https://open.spotify.com/track/1rcZKMWbCac4FDnUvtYfyK) | [Oriente, Rebeca](https://open.spotify.com/artist/4OihQRMAYzuKUobEFCpmLE) | [Oriente](https://open.spotify.com/album/5i7yYQx7XGmfl5G6XZIsUu) | 3:22 |
 | 60 | [Malvadão](https://open.spotify.com/track/6U3PUhdhUHMM8lBqmIg2Ro) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Damassaclan](https://open.spotify.com/artist/1g4RI8yZ2TS4Y0ST5482OU), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b) | [Malvadão](https://open.spotify.com/album/2bRHA2sbwWGnRXuSEYc6Zq) | 2:29 |
 
-Snapshot ID: `MTY1OTM5MDIyNSwwMDAwMDAwMDVlMGFjYjk1MDRiYmJlNzM4ZWU0NjZhNjRjNjEzOGI1`
+Snapshot ID: `MTY1OTM5MDIyNSwwMDAwMDAwMGIxODFlYmMwY2ZmYmM2MGMwZjI3NDhiOGM0YmY3ZDE3`

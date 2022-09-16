@@ -1,12 +1,12 @@
 {
   "description": "The best of modern psychedelic rock,  neo-psychedelic, and psychedelic indie. ",
-  "num_followers": 782987,
+  "num_followers": 783355,
   "original_name": "Modern Psychedelia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA5ODI4MCwwMDAwMDAwMDA5NzRkMzI0Mjg2NTk3OGI0MjVjNTc5M2IxYmQ1YzY1",
+  "snapshot_id": "MTY2MjA5ODI4MCwwMDAwMDAwMDA3MTE0YTQ5OGI5MmQzZmZiMTIwYTJmYTM1ZjAwY2Ux",
   "tracks": [
     {
       "added_at": "2022-09-02 05:58:00",
@@ -467,22 +467,6 @@
     {
       "added_at": "2022-09-02 05:58:00",
       "album": {
-        "name": "Get A Good Look",
-        "url": "https://open.spotify.com/album/2BbQV71MEMZ0nTTgOJl3wD"
-      },
-      "artists": [
-        {
-          "name": "Sports",
-          "url": "https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K"
-        }
-      ],
-      "duration_ms": 182601,
-      "name": "Baby Baby",
-      "url": "https://open.spotify.com/track/41HyMiZSBLGlfopnDE7Ppc"
-    },
-    {
-      "added_at": "2022-09-02 05:58:00",
-      "album": {
         "name": "II",
         "url": "https://open.spotify.com/album/2UrexGLK8RBKbv07j7ui19"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 165226,
       "name": "Swim and Sleep (Like a Shark)",
       "url": "https://open.spotify.com/track/1UcgqK04vVmW8aXV2OxGiZ"
+    },
+    {
+      "added_at": "2022-09-02 05:58:00",
+      "album": {
+        "name": "Get A Good Look",
+        "url": "https://open.spotify.com/album/2BbQV71MEMZ0nTTgOJl3wD"
+      },
+      "artists": [
+        {
+          "name": "Sports",
+          "url": "https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K"
+        }
+      ],
+      "duration_ms": 182601,
+      "name": "Baby Baby",
+      "url": "https://open.spotify.com/track/41HyMiZSBLGlfopnDE7Ppc"
     },
     {
       "added_at": "2022-09-02 05:58:00",
@@ -535,22 +535,6 @@
     {
       "added_at": "2022-09-02 05:58:00",
       "album": {
-        "name": "We Are the 21st Century Ambassadors of Peace & Magic",
-        "url": "https://open.spotify.com/album/7FfiN9ztbjLNPWhuhFHaWf"
-      },
-      "artists": [
-        {
-          "name": "Foxygen",
-          "url": "https://open.spotify.com/artist/55LHFEtIplWhsfyWZUwkf4"
-        }
-      ],
-      "duration_ms": 201706,
-      "name": "Shuggie",
-      "url": "https://open.spotify.com/track/6RgrpOgbTI3M2qvA8XIvTb"
-    },
-    {
-      "added_at": "2022-09-02 05:58:00",
-      "album": {
         "name": "Water Your Garden",
         "url": "https://open.spotify.com/album/0r0l3PRmsPwylAZQM16e7a"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 169333,
       "name": "Water Your Garden",
       "url": "https://open.spotify.com/track/0CVaDx0YP1nMwZd1eg88cX"
+    },
+    {
+      "added_at": "2022-09-02 05:58:00",
+      "album": {
+        "name": "We Are the 21st Century Ambassadors of Peace & Magic",
+        "url": "https://open.spotify.com/album/7FfiN9ztbjLNPWhuhFHaWf"
+      },
+      "artists": [
+        {
+          "name": "Foxygen",
+          "url": "https://open.spotify.com/artist/55LHFEtIplWhsfyWZUwkf4"
+        }
+      ],
+      "duration_ms": 201706,
+      "name": "Shuggie",
+      "url": "https://open.spotify.com/track/6RgrpOgbTI3M2qvA8XIvTb"
     },
     {
       "added_at": "2022-09-02 05:58:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2022-09-02 05:58:00",
       "album": {
-        "name": "Mercy Mountain",
-        "url": "https://open.spotify.com/album/4zM61adzXFpgNQYyBSSufT"
-      },
-      "artists": [
-        {
-          "name": "Moses Gunn Collective",
-          "url": "https://open.spotify.com/artist/66riSKDVOc3vPkeyju0q0o"
-        }
-      ],
-      "duration_ms": 228015,
-      "name": "Shalala",
-      "url": "https://open.spotify.com/track/0Bl1Gt8R9kjz7JO7SYAuhe"
-    },
-    {
-      "added_at": "2022-09-02 05:58:00",
-      "album": {
         "name": "Ruby Sparks",
         "url": "https://open.spotify.com/album/5gV0W63JWYVOspHQjb3ycY"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 254284,
       "name": "Ruby Sparks",
       "url": "https://open.spotify.com/track/5XTmYM921b7aXDzINhhykP"
+    },
+    {
+      "added_at": "2022-09-02 05:58:00",
+      "album": {
+        "name": "Mercy Mountain",
+        "url": "https://open.spotify.com/album/4zM61adzXFpgNQYyBSSufT"
+      },
+      "artists": [
+        {
+          "name": "Moses Gunn Collective",
+          "url": "https://open.spotify.com/artist/66riSKDVOc3vPkeyju0q0o"
+        }
+      ],
+      "duration_ms": 228015,
+      "name": "Shalala",
+      "url": "https://open.spotify.com/track/0Bl1Gt8R9kjz7JO7SYAuhe"
     },
     {
       "added_at": "2022-09-02 05:58:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2022-09-02 05:58:00",
       "album": {
-        "name": "We're Not In Orbit Yet\u2026",
-        "url": "https://open.spotify.com/album/1BvFdIWtys20Hm0sFVeqeT"
-      },
-      "artists": [
-        {
-          "name": "Broken Bells",
-          "url": "https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG"
-        }
-      ],
-      "duration_ms": 310840,
-      "name": "We're Not In Orbit Yet\u2026",
-      "url": "https://open.spotify.com/track/45iaKryj5SvdzinlHHrDlL"
-    },
-    {
-      "added_at": "2022-09-02 05:58:00",
-      "album": {
         "name": "Loneliness",
         "url": "https://open.spotify.com/album/1YYUqltzKKaDPsOELPiUEx"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 207210,
       "name": "Loneliness",
       "url": "https://open.spotify.com/track/0t1qI2DYS68veTpLBGUsNM"
+    },
+    {
+      "added_at": "2022-09-02 05:58:00",
+      "album": {
+        "name": "We're Not In Orbit Yet\u2026",
+        "url": "https://open.spotify.com/album/1BvFdIWtys20Hm0sFVeqeT"
+      },
+      "artists": [
+        {
+          "name": "Broken Bells",
+          "url": "https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG"
+        }
+      ],
+      "duration_ms": 310840,
+      "name": "We're Not In Orbit Yet\u2026",
+      "url": "https://open.spotify.com/track/45iaKryj5SvdzinlHHrDlL"
     },
     {
       "added_at": "2022-09-02 05:58:00",
@@ -983,6 +983,22 @@
     {
       "added_at": "2022-09-02 05:58:00",
       "album": {
+        "name": "Dancin' With Wolves",
+        "url": "https://open.spotify.com/album/4GFodiOr1aC5Ekr87RhyOl"
+      },
+      "artists": [
+        {
+          "name": "Natural Child",
+          "url": "https://open.spotify.com/artist/7epIIT85VR8OEggqKO3RSt"
+        }
+      ],
+      "duration_ms": 174586,
+      "name": "Out In The Country",
+      "url": "https://open.spotify.com/track/1FOAgjh0uXXjNTPTwHxZCT"
+    },
+    {
+      "added_at": "2022-09-02 05:58:00",
+      "album": {
         "name": "Reset",
         "url": "https://open.spotify.com/album/20NAtKWWeyYn9QIzOejT0Y"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 150000,
       "name": "Gettin\u2019 to the Point",
       "url": "https://open.spotify.com/track/6pZOH8IcAfdSTXNMBs3pg6"
-    },
-    {
-      "added_at": "2022-09-02 05:58:00",
-      "album": {
-        "name": "Dancin' With Wolves",
-        "url": "https://open.spotify.com/album/4GFodiOr1aC5Ekr87RhyOl"
-      },
-      "artists": [
-        {
-          "name": "Natural Child",
-          "url": "https://open.spotify.com/artist/7epIIT85VR8OEggqKO3RSt"
-        }
-      ],
-      "duration_ms": 174586,
-      "name": "Out In The Country",
-      "url": "https://open.spotify.com/track/1FOAgjh0uXXjNTPTwHxZCT"
     },
     {
       "added_at": "2022-09-02 05:58:00",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2022-09-02 05:58:00",
       "album": {
+        "name": "I Think I Left the Stove On",
+        "url": "https://open.spotify.com/album/33QDA3HhsTPmeCwR5Mk9gx"
+      },
+      "artists": [
+        {
+          "name": "Hotel Ugly",
+          "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb"
+        }
+      ],
+      "duration_ms": 202490,
+      "name": "I Think I Left the Stove On",
+      "url": "https://open.spotify.com/track/34HgIvucTKJvDgzHVMaGLG"
+    },
+    {
+      "added_at": "2022-09-02 05:58:00",
+      "album": {
         "name": "Optical Wealth + Fox in a Hole",
         "url": "https://open.spotify.com/album/4kXjQ5hjiZ7NWEUnYr7Z7M"
       },
@@ -1359,22 +1375,6 @@
     {
       "added_at": "2022-09-02 05:58:00",
       "album": {
-        "name": "I Think I Left the Stove On",
-        "url": "https://open.spotify.com/album/33QDA3HhsTPmeCwR5Mk9gx"
-      },
-      "artists": [
-        {
-          "name": "Hotel Ugly",
-          "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb"
-        }
-      ],
-      "duration_ms": 202490,
-      "name": "I Think I Left the Stove On",
-      "url": "https://open.spotify.com/track/34HgIvucTKJvDgzHVMaGLG"
-    },
-    {
-      "added_at": "2022-09-02 05:58:00",
-      "album": {
         "name": "Table for Two",
         "url": "https://open.spotify.com/album/1YZRsQcKt5TLmXSxZ2ZHVa"
       },
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2022-09-02 05:58:00",
       "album": {
-        "name": "A Song About the Sun",
-        "url": "https://open.spotify.com/album/1MlZPyYBHyNV8dDOlK3pyw"
-      },
-      "artists": [
-        {
-          "name": "Kurtis Wells",
-          "url": "https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "A Song About the Sun",
-      "url": "https://open.spotify.com/track/2ylXMli4RzeVjIhRsjdoWn"
-    },
-    {
-      "added_at": "2022-09-02 05:58:00",
-      "album": {
         "name": "SongBook",
         "url": "https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 266992,
       "name": "Fuzz Jam",
       "url": "https://open.spotify.com/track/3Pk8ZaUsbzUt4UaCuBh9Mc"
+    },
+    {
+      "added_at": "2022-09-02 05:58:00",
+      "album": {
+        "name": "A Song About the Sun",
+        "url": "https://open.spotify.com/album/1MlZPyYBHyNV8dDOlK3pyw"
+      },
+      "artists": [
+        {
+          "name": "Kurtis Wells",
+          "url": "https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "A Song About the Sun",
+      "url": "https://open.spotify.com/track/2ylXMli4RzeVjIhRsjdoWn"
     },
     {
       "added_at": "2022-09-02 05:58:00",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2022-09-02 05:58:00",
       "album": {
-        "name": "Flavour",
-        "url": "https://open.spotify.com/album/1oCHmshXKdVv8YDSneqvLw"
-      },
-      "artists": [
-        {
-          "name": "Paul Cherry",
-          "url": "https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn"
-        }
-      ],
-      "duration_ms": 240407,
-      "name": "Like Yesterday",
-      "url": "https://open.spotify.com/track/33yngwxcYNnUVpaGWq2MYz"
-    },
-    {
-      "added_at": "2022-09-02 05:58:00",
-      "album": {
         "name": "magic wand",
         "url": "https://open.spotify.com/album/5iad3isgt69GOlLzHQtdOM"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 204688,
       "name": "magic wand",
       "url": "https://open.spotify.com/track/2Ba2Jkam0Fe49fdIwUdmKz"
+    },
+    {
+      "added_at": "2022-09-02 05:58:00",
+      "album": {
+        "name": "Flavour",
+        "url": "https://open.spotify.com/album/1oCHmshXKdVv8YDSneqvLw"
+      },
+      "artists": [
+        {
+          "name": "Paul Cherry",
+          "url": "https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn"
+        }
+      ],
+      "duration_ms": 240407,
+      "name": "Like Yesterday",
+      "url": "https://open.spotify.com/track/33yngwxcYNnUVpaGWq2MYz"
     },
     {
       "added_at": "2022-09-02 05:58:00",
@@ -1687,18 +1687,18 @@
     {
       "added_at": "2022-09-02 05:58:00",
       "album": {
-        "name": "Emotional Eternal",
-        "url": "https://open.spotify.com/album/0GXQpIFaT0uAi4y59t4nKg"
+        "name": "Foam",
+        "url": "https://open.spotify.com/album/1ZatuoLaIMYhumTppO5I24"
       },
       "artists": [
         {
-          "name": "Melody's Echo Chamber",
-          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
+          "name": "Divino Ni\u00f1o",
+          "url": "https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi"
         }
       ],
-      "duration_ms": 183333,
-      "name": "Where the Water Clears the Illusion",
-      "url": "https://open.spotify.com/track/2EBJTMHxHv5YqX6Q7SA1Hg"
+      "duration_ms": 191630,
+      "name": "Quiero",
+      "url": "https://open.spotify.com/track/0LLCHT7kYYjKrs4gD5WZPD"
     }
   ],
   "unique_name": "Modern Psychedelia",

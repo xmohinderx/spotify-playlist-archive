@@ -4,7 +4,7 @@
 
 > Instrumental Jazz to set the mood for a relaxed evening.
 
-171 songs - 16 hr 23 min - [published](https://open.spotify.com/playlist/7yuffmCwXVQZElB2HgVYTG)
+172 songs - 16 hr 30 min - [published](https://open.spotify.com/playlist/7yuffmCwXVQZElB2HgVYTG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Captain’s Song](https://open.spotify.com/track/3mIn6SuoJeZE3DlPvPGOYj) | [Connie Han](https://open.spotify.com/artist/05u1DXPSD35OnIBPXFogTG) | [Iron Starlet](https://open.spotify.com/album/3J6gELskRha5aqLGVWGmQN) | 5:22 | 2022-07-28 |  |
 | [Cedar Waltzin' \~ Don't You Worry 'bout a Thing](https://open.spotify.com/track/1JJ3Wpkx2igFJEcBMq2gCS) | [Eric Reed](https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU) | [Everybody Gets the Blues](https://open.spotify.com/album/5hgDmpI3ISYVnqZrpAZf2N) | 8:23 | 2020-03-31 | 2022-04-28 |
 | [Clifford Notes](https://open.spotify.com/track/58ZOSLqiasr2M0HIodxecW) | [Alan Broadbent Trio](https://open.spotify.com/artist/2hYe90veE7CgFfElwnp48p) | [New York Notes](https://open.spotify.com/album/4usyxUVMIPVNqP4Lv7OlCA) | 8:46 | 2022-05-25 |  |
-| [Coffee Table Afternoon](https://open.spotify.com/track/2BwZMNVNbAInWWbyQQ7QOT) | [Fredrik Kronkvist](https://open.spotify.com/artist/7Ej5Shrvcy7tE83A9Dmxrb) | [Coffee Table Afternoon](https://open.spotify.com/album/4ws4gC9VFhEL7kqMGShjNc) | 4:54 | 2022-03-04 |  |
+| [Coffee Table Afternoon](https://open.spotify.com/track/2BwZMNVNbAInWWbyQQ7QOT) | [Fredrik Kronkvist](https://open.spotify.com/artist/7Ej5Shrvcy7tE83A9Dmxrb) | [Coffee Table Afternoon](https://open.spotify.com/album/4ws4gC9VFhEL7kqMGShjNc) | 4:54 | 2022-03-04 | 2022-09-16 |
 | [Connections](https://open.spotify.com/track/1R74JFlONy0cZt57Hwi7Tk) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [Connections Home](https://open.spotify.com/album/7oQ4Rub58G7O2DzFwWS7Po) | 5:35 | 2022-08-30 |  |
 | [Darn That Dream](https://open.spotify.com/track/11qeOjSAx3TDr4IOPXq9Js) | [Cyrus Chestnut](https://open.spotify.com/artist/319U6LVt3j3iT9oAEzrpRO) | [Kaleidoscope](https://open.spotify.com/album/2rSm26o6ns4fvS9achkJ2b) | 5:05 | 2020-03-31 |  |
 | [Dear Old Stockholm](https://open.spotify.com/track/0g13WtzfAwcHPSdcZnMbxH) | [Peter Erskine](https://open.spotify.com/artist/3Bm6MhzPUczH3Pej2FNqGi), [Alan Pasqua](https://open.spotify.com/artist/1QDou4hCker2eGblLzIq80), [Dave Carpenter](https://open.spotify.com/artist/4m3nck0lOhCa4Pe0BqZ5B2) | [Standards](https://open.spotify.com/album/7LwgjZR50qndbpvS5kSDby) | 7:46 | 2022-02-18 |  |
@@ -63,6 +63,7 @@
 | [Have You Met Miss Jones?](https://open.spotify.com/track/4mLPAsEe166v3knvou8Io1) | [Alvin Queen Trio](https://open.spotify.com/artist/2MLgaIZV5F0JbvAu45tx3F) | [Have You Met Miss Jones?](https://open.spotify.com/album/2TQdeD5OgkjbLjpCXINMuQ) | 3:44 | 2022-02-18 |  |
 | [Hello](https://open.spotify.com/track/3QD2pXczFr1qGEhXik03lQ) | [Vincent Herring](https://open.spotify.com/artist/4vDfWi1S8RneRAgCPOIThL) | [Hello](https://open.spotify.com/album/33rIozmB2h2fgKErvau15a) | 5:56 | 2022-02-18 | 2022-06-01 |
 | [Here's That Rainy Day](https://open.spotify.com/track/2C1LmPGwkeVbV14Gn49ka8) | [Steven Feifke](https://open.spotify.com/artist/5YSPlTYVnXaRSQKCE9wH7S) | [The Role of the Rhythm Section](https://open.spotify.com/album/44yX1YQnWpelj8c2yNOamH) | 5:46 | 2022-04-14 |  |
+| [Hidden Island](https://open.spotify.com/track/3TVMWkV66yEVvBOq1K4O6v) | [Morten Schantz](https://open.spotify.com/artist/0areODweNzGZZvnKlQjQw6), [Morten Ankarfeldt](https://open.spotify.com/artist/71zyq1fTht9Jg6Vc3GMMUU), [Janus Templeton](https://open.spotify.com/artist/7k1xy8z0qkIlVuHctNPGlm) | [Apia](https://open.spotify.com/album/6ZwOTNfEwZZkye2WbMiW4b) | 6:55 | 2022-09-13 |  |
 | [Hidden Island](https://open.spotify.com/track/600RTP3vo0uKAtYu8sutbY) | [Morten Schantz](https://open.spotify.com/artist/0areODweNzGZZvnKlQjQw6), [Morten Ankarfeldt](https://open.spotify.com/artist/71zyq1fTht9Jg6Vc3GMMUU), [Janus Templeton](https://open.spotify.com/artist/7k1xy8z0qkIlVuHctNPGlm) | [Hidden Island](https://open.spotify.com/album/1EnVCdjr7wRPXUjDWqT2G6) | 6:55 | 2022-04-14 | 2022-08-28 |
 | [Hindsight](https://open.spotify.com/track/36Vwqyg0LO1q0aRfAuZkFU) | [Phil Woods](https://open.spotify.com/artist/6G4hVmXKJ9NW5JecncK89f), [Space Jazz Trio](https://open.spotify.com/artist/2sLufQ8lc6cZL6YIO1oD65) | [Phil's Mood](https://open.spotify.com/album/4syA9XxPp63SXbiygEsh43) | 6:31 | 2020-03-31 |  |
 | [Honest Waltz](https://open.spotify.com/track/6XV1s4qGZM3BoPnatmOxzV) | [Eve](https://open.spotify.com/artist/4cN4lpxFzicMaQn2Qb9bBJ), [Michael Blicher](https://open.spotify.com/artist/63pT7P8TZCJmvsEbCbE0sZ) | [Honest Waltz](https://open.spotify.com/album/0Dc8OxbbSCNlfTdvCRzA8L) | 5:25 | 2022-04-21 | 2022-09-04 |

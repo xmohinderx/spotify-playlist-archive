@@ -1059,7 +1059,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-13",
+      "date_removed": null,
       "duration_ms": 214666,
       "name": "Dear Jessie",
       "url": "https://open.spotify.com/track/7h2jT3YLmtDAxf4cF6rSQu"
@@ -1399,7 +1399,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 229893,
       "name": "Everybody",
       "url": "https://open.spotify.com/track/4Kc0S6bWVeO7Q4SoMPAyX1"
@@ -1901,6 +1901,10 @@
         {
           "name": "Crystal Waters",
           "url": "https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43"
+        },
+        {
+          "name": "The Basement Boys",
+          "url": "https://open.spotify.com/artist/4zs2Vybqo9ktD8QORpnHfI"
         }
       ],
       "date_added": "2021-03-22",

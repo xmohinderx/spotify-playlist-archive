@@ -1,12 +1,12 @@
 {
   "description": "All the classic songs you love\u2014covered. Cover: Brandi Carlile",
-  "num_followers": 643997,
+  "num_followers": 644191,
   "original_name": "Classic Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzk1MDkyMCwwMDAwMDAwMGZiNTg4NzRkYTFjZmZiMDk5ODFlNDJlNWVlMDRkMzM3",
+  "snapshot_id": "MTY0Mzk1MDkyMCwwMDAwMDAwMGYwYmI5MzMyM2ZhNWI3ZmZkYWMxMGExZmM0NmYxYjNj",
   "tracks": [
     {
       "added_at": "2022-02-04 05:02:00",
@@ -303,22 +303,6 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
-        "name": "I Still Haven't Found What I'm Looking For / my future",
-        "url": "https://open.spotify.com/album/1mgj4CyzzcC05pQQGoPzLN"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 212157,
-      "name": "I Still Haven't Found What I'm Looking For",
-      "url": "https://open.spotify.com/track/2oeEe3EdRBaUPRHmIbgQLU"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
         "name": "Pleasantville -Music From The Motion Picture",
         "url": "https://open.spotify.com/album/3QofKE2yZcsjKOUw6fyyn3"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 307333,
       "name": "Across the Universe",
       "url": "https://open.spotify.com/track/6ZQgooEk8PvsLxedYaT6Oa"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
+        "name": "I Still Haven't Found What I'm Looking For / my future",
+        "url": "https://open.spotify.com/album/1mgj4CyzzcC05pQQGoPzLN"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 212157,
+      "name": "I Still Haven't Found What I'm Looking For",
+      "url": "https://open.spotify.com/track/2oeEe3EdRBaUPRHmIbgQLU"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
-        "name": "Sunshine on a Cloudy Day",
-        "url": "https://open.spotify.com/album/3EgPYI4IKI0YWHVPdDV8NF"
-      },
-      "artists": [
-        {
-          "name": "Laura Zocca",
-          "url": "https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7"
-        }
-      ],
-      "duration_ms": 166438,
-      "name": "I Want You Back",
-      "url": "https://open.spotify.com/track/4unFohIcd9kN5SeeYrqtXk"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
         "name": "American IV: The Man Comes Around",
         "url": "https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 177000,
       "name": "In My Life",
       "url": "https://open.spotify.com/track/7Dprt8s1FohodJYtCNcM4a"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
+        "name": "Sunshine on a Cloudy Day",
+        "url": "https://open.spotify.com/album/3EgPYI4IKI0YWHVPdDV8NF"
+      },
+      "artists": [
+        {
+          "name": "Laura Zocca",
+          "url": "https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7"
+        }
+      ],
+      "duration_ms": 166438,
+      "name": "I Want You Back",
+      "url": "https://open.spotify.com/track/4unFohIcd9kN5SeeYrqtXk"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/5Le6JV0WccI6oxLzlA7it7"
-      },
-      "artists": [
-        {
-          "name": "Walk Off the Earth",
-          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
-        }
-      ],
-      "duration_ms": 176921,
-      "name": "The Best",
-      "url": "https://open.spotify.com/track/7zLqJdc0e37PpGKADGnOUt"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
         "name": "Brandy (You're a Fine Girl)",
         "url": "https://open.spotify.com/album/4MBX8MJkzfTltROCMA4FUy"
       },
@@ -655,18 +639,18 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
-        "name": "The Essential The Chicks",
-        "url": "https://open.spotify.com/album/31St5diPbTZoCjOwWXSMWD"
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/5Le6JV0WccI6oxLzlA7it7"
       },
       "artists": [
         {
-          "name": "The Chicks",
-          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
+          "name": "Walk Off the Earth",
+          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
         }
       ],
-      "duration_ms": 228480,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/65nCVhtlWYUzNvcM1MYp4l"
+      "duration_ms": 176921,
+      "name": "The Best",
+      "url": "https://open.spotify.com/track/7zLqJdc0e37PpGKADGnOUt"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -687,18 +671,18 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
-        "name": "American IV: The Man Comes Around",
-        "url": "https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9"
+        "name": "The Essential The Chicks",
+        "url": "https://open.spotify.com/album/31St5diPbTZoCjOwWXSMWD"
       },
       "artists": [
         {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+          "name": "The Chicks",
+          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
         }
       ],
-      "duration_ms": 234600,
-      "name": "Bridge Over Troubled Water",
-      "url": "https://open.spotify.com/track/3e0qSxu1fNPzDlwqWN3cBD"
+      "duration_ms": 228480,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/65nCVhtlWYUzNvcM1MYp4l"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -715,6 +699,22 @@
       "duration_ms": 329086,
       "name": "In Your Eyes",
       "url": "https://open.spotify.com/track/5c0z1ccAIoZl1okUhiqNOc"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
+        "name": "American IV: The Man Comes Around",
+        "url": "https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "duration_ms": 234600,
+      "name": "Bridge Over Troubled Water",
+      "url": "https://open.spotify.com/track/3e0qSxu1fNPzDlwqWN3cBD"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
-        "name": "Between the Bars",
-        "url": "https://open.spotify.com/album/64Z8bWSUBB1Vhox2K5EdBe"
-      },
-      "artists": [
-        {
-          "name": "The Civil Wars",
-          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
-        }
-      ],
-      "duration_ms": 260053,
-      "name": "Billie Jean",
-      "url": "https://open.spotify.com/track/4YKhIH7BhFErLoV9dgHupm"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
         "name": "7\" Singles",
         "url": "https://open.spotify.com/album/46QQwFMdIzeLyBfIeQrqYp"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 206896,
       "name": "This Must Be the Place (Naive Melody) [by Talking Heads]",
       "url": "https://open.spotify.com/track/7nSomK5Wrh8KWUCJbluEgo"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
+        "name": "Between the Bars",
+        "url": "https://open.spotify.com/album/64Z8bWSUBB1Vhox2K5EdBe"
+      },
+      "artists": [
+        {
+          "name": "The Civil Wars",
+          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
+        }
+      ],
+      "duration_ms": 260053,
+      "name": "Billie Jean",
+      "url": "https://open.spotify.com/track/4YKhIH7BhFErLoV9dgHupm"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
-        "name": "A Case of You",
-        "url": "https://open.spotify.com/album/4Kac74ulpXDAqVyvnyzsna"
-      },
-      "artists": [
-        {
-          "name": "Noah Reid",
-          "url": "https://open.spotify.com/artist/0h3ltaoCYAfisEeddUYDZT"
-        }
-      ],
-      "duration_ms": 190110,
-      "name": "A Case of You",
-      "url": "https://open.spotify.com/track/5c6VpFSGVRfe6cNYm85zI0"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
         "name": "Leave Me Breathless",
         "url": "https://open.spotify.com/album/62EG6ravDzMqNtGb1CCYjy"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 206586,
       "name": "Always On My Mind",
       "url": "https://open.spotify.com/track/6xgZswMoI5ncV8e5jhiRsC"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
+        "name": "A Case of You",
+        "url": "https://open.spotify.com/album/4Kac74ulpXDAqVyvnyzsna"
+      },
+      "artists": [
+        {
+          "name": "Noah Reid",
+          "url": "https://open.spotify.com/artist/0h3ltaoCYAfisEeddUYDZT"
+        }
+      ],
+      "duration_ms": 190110,
+      "name": "A Case of You",
+      "url": "https://open.spotify.com/track/5c6VpFSGVRfe6cNYm85zI0"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
-        "name": "You Don't Know How It Feels",
-        "url": "https://open.spotify.com/album/7pWTvThKZquHfq4E0e5KwX"
-      },
-      "artists": [
-        {
-          "name": "Walk Off the Earth",
-          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
-        }
-      ],
-      "duration_ms": 222008,
-      "name": "You Don't Know How It Feels",
-      "url": "https://open.spotify.com/track/4jRfYs49suF4VINcWVXAvb"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
         "name": "Both Sides Now",
         "url": "https://open.spotify.com/album/7vlApA4V6FDavmJBpr3R5N"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 257941,
       "name": "Both Sides Now",
       "url": "https://open.spotify.com/track/0d5tb0XcClqZo7CJ4GQuBm"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
+        "name": "You Don't Know How It Feels",
+        "url": "https://open.spotify.com/album/7pWTvThKZquHfq4E0e5KwX"
+      },
+      "artists": [
+        {
+          "name": "Walk Off the Earth",
+          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
+        }
+      ],
+      "duration_ms": 222008,
+      "name": "You Don't Know How It Feels",
+      "url": "https://open.spotify.com/track/4jRfYs49suF4VINcWVXAvb"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
+        "name": "The Times They Are A-Changin\u2019 (Performance Version)",
+        "url": "https://open.spotify.com/album/78XZBuGwbg9DtB95S95dJ6"
+      },
+      "artists": [
+        {
+          "name": "Dillon James",
+          "url": "https://open.spotify.com/artist/5bdPShbvAASQjO3mIMOWRR"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "The Times They Are A-Changin\u2019 - Performance Version",
+      "url": "https://open.spotify.com/track/03ob02uf5cOtDGQe7U9SYE"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
         "name": "Black Pumas (Expanded Deluxe Edition)",
         "url": "https://open.spotify.com/album/3dgyglN3wrQu131OIjkdh7"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 192963,
       "name": "Strangers - From \"Life In A Day\"",
       "url": "https://open.spotify.com/track/1y8fNzfN7UiL02gUzvuTVw"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
-        "name": "The Times They Are A-Changin\u2019 (Performance Version)",
-        "url": "https://open.spotify.com/album/78XZBuGwbg9DtB95S95dJ6"
-      },
-      "artists": [
-        {
-          "name": "Dillon James",
-          "url": "https://open.spotify.com/artist/5bdPShbvAASQjO3mIMOWRR"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "The Times They Are A-Changin\u2019 - Performance Version",
-      "url": "https://open.spotify.com/track/03ob02uf5cOtDGQe7U9SYE"
     },
     {
       "added_at": "2022-02-04 05:02:00",

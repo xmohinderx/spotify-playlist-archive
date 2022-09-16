@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKxc7ZObqeH.md) - [plain]
 
 > Relaxing Jazz on a warm summer day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,861 likes - 149 songs - 9 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,916 likes - 149 songs - 9 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKxc7ZObqeH.md) - [plain]
 | 148 | [I'm An Old Cowhand](https://open.spotify.com/track/1HBrYLUou9PbQDp91wVA9f) | [The Josh Rogers Band](https://open.spotify.com/artist/4zfTyFGyjLJd9vAbxqTuNg) | [Love Letters](https://open.spotify.com/album/6f6WVUeFK2hnBn7TfefGWJ) | 2:23 |
 | 149 | [Luna](https://open.spotify.com/track/16kuQew0DW0IFOTCXVQ2F0) | [Joyce Trio](https://open.spotify.com/artist/75pnTZQozf5CtkbWxmUtCf) | [Luna](https://open.spotify.com/album/4LjumPygx5KGf78cfLsacs) | 4:24 |
 
-Snapshot ID: `MTY2MzA1OTc4MywwMDAwMDAwMDkzOWZiMmJkYWU1YzgzNjM5MmVhOTFhMGY4NzI2Zjc3`
+Snapshot ID: `MTY2MzI1MjYwNCwwMDAwMDAwMGQ4YjdhMDE4Y2M3ODdmMjY0ZDVmZDk5N2Y2NDM0YzJl`

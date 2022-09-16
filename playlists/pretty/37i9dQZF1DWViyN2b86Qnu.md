@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViyN2b86Qnu.md) - [plain]
 
 > Removing the barriers of gender and genre, these are the brilliant sounds of transgender, non\-binary and gender\-fluid artists\. Cover: G Flip
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,041 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,081 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViyN2b86Qnu.md) - [plain]
 | 20 | [Loved By U](https://open.spotify.com/track/1SldN7GTd0ADTjspv96wCl) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [Loved By U](https://open.spotify.com/album/3ZWTn4QQX16aHY64yVeC1D) | 3:27 |
 | 21 | [Enby](https://open.spotify.com/track/21oXYSZJMteZhiOWe8kRPQ) | [WHERIKO](https://open.spotify.com/artist/6cu3FZbEHlwvbt6H5yPSDV) | [Enby](https://open.spotify.com/album/0w99dKWUrKRPRYlJUmVvRk) | 3:07 |
 | 22 | [Love Me More](https://open.spotify.com/track/16MQETUgqXwY4lZcyRafU3) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Love Me More](https://open.spotify.com/album/59NkDiHvjWqXHHIxzoWAUe) | 3:10 |
-| 23 | [THE WAY IT WAS](https://open.spotify.com/track/094rsWrIFSy88FRwqOTXFZ) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [MERIDIAN](https://open.spotify.com/album/4zw23pZvaFm3IlUFhPT3Ss) | 3:17 |
+| 23 | [THE WAY IT WAS](https://open.spotify.com/track/0XSfuhUFGOsEDjZX9I4BYN) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [MERIDIAN](https://open.spotify.com/album/4uH776h4uovgy3YYG1vbKC) | 3:17 |
 | 24 | [Midnight Ride \(feat\. Robert Owens\) \- Edit](https://open.spotify.com/track/0jwxH5tgK1LNvFVR4ZVqjb) | [Alinka](https://open.spotify.com/artist/3qBqW8kIRZbPxbSgAyP7ls), [Robert Owens](https://open.spotify.com/artist/407nV5hO7mZap3UJdpTr4t) | [Midnight Ride](https://open.spotify.com/album/709wOwF53N1Z55OsZZJDAa) | 4:07 |
 | 25 | [I Saw Light](https://open.spotify.com/track/6zhs6CjZBoaXD44VFTBzQ8) | [Kae Tempest](https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw), [Grian Chatten](https://open.spotify.com/artist/6XyAI3jtlsss5mJjAAJXzE) | [The Line Is A Curve](https://open.spotify.com/album/5bmSkzrpPUCfimC9pBt5MD) | 3:03 |
 | 26 | [Muévelo](https://open.spotify.com/track/4kdFcU4x4XP1ASmTlEOh1c) | [Valentina Moretti](https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS) | [Muévelo](https://open.spotify.com/album/2jIsFPTbrgSenWx8irjJea) | 2:44 |
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViyN2b86Qnu.md) - [plain]
 | 55 | [Gravity](https://open.spotify.com/track/30WDzCkRBK8GSWPnlJEErx) | [Cuee](https://open.spotify.com/artist/5vuWUABfGvkUxib7zgMMc6), [Lindsey Alderman](https://open.spotify.com/artist/1d4Jqgs605YVW4ziTGYWjy) | [Gospel](https://open.spotify.com/album/0OCCDhGevaBWOhQJ5eTz1a) | 3:19 |
 | 56 | [Stop Calling The Police On Me](https://open.spotify.com/track/76onGrcd5XE3zUaEtlgZbb) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [The Leo Sun Sets](https://open.spotify.com/album/42yE5J7BhPoXTkDTRTgHCJ) | 2:26 |
 | 57 | [Home](https://open.spotify.com/track/5pAIi2xDRVLWy51n6xtOTY) | [Legwurk](https://open.spotify.com/artist/5adOsYarVjOqKyGhKACW7p) | [Home](https://open.spotify.com/album/6b3AmiePqO00ZFHLtAwtN4) | 3:15 |
-| 58 | [LOSING MYSELF](https://open.spotify.com/track/42o73NUStZDhMYeW7lRLnm) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [MERIDIAN : vol 1](https://open.spotify.com/album/7HzXpoBSz66DB7G35p3oeO) | 2:56 |
+| 58 | [LOSING MYSELF](https://open.spotify.com/track/6MVyCFg9IHeS1E41aOUTpm) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [MERIDIAN](https://open.spotify.com/album/4uH776h4uovgy3YYG1vbKC) | 2:56 |
 | 59 | [Collide](https://open.spotify.com/track/11HptaZiTyuGpvGgrDuhvY) | [Shea Couleé](https://open.spotify.com/artist/0FrOnmhn1KtQ2n5mHF2SD6), [GESS](https://open.spotify.com/artist/4rWV3JAgD6JrUiq5mpEJxY), [Mykki Blanco](https://open.spotify.com/artist/2tSv9mEQSuNVMGr9qjYfkr) | [Collide](https://open.spotify.com/album/6SmzSMDrRZJuflBpUeSLeV) | 3:39 |
 | 60 | [Heatsink](https://open.spotify.com/track/1m8ujUIS0TFOGSPGHJke7S) | [imbi](https://open.spotify.com/artist/2IHmdcnsjh89cIaDcVxTuF), [Slim Set](https://open.spotify.com/artist/4UkWJVZvcozqs1R5bOLdun) | [Heatsink](https://open.spotify.com/album/6AgO71LRxpWjkICVaHCmpD) | 3:52 |
 | 61 | [Gospel For A New Century](https://open.spotify.com/track/46LX0sSwIU4GFLcj23ZfMA) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Heaven To A Tortured Mind](https://open.spotify.com/album/5wnCTZtzIZxasRSHzI1JeW) | 3:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViyN2b86Qnu.md) - [plain]
 | 99 | [Hire](https://open.spotify.com/track/6RiI88pDWXUBJcRPuNkjHK) | [Girlpool](https://open.spotify.com/artist/3BYXi96LqI8TwNljFKE0DZ) | [What Chaos Is Imaginary](https://open.spotify.com/album/58HB0yjdQE2MH5MrfWt4EO) | 2:55 |
 | 100 | [summer party 3019](https://open.spotify.com/track/45QTRSrFVSbfTJSpHNIlaP) | [In Love With a Ghost](https://open.spotify.com/artist/21tDFddcOFDYmiobTcls2O) | [Playful Spirits](https://open.spotify.com/album/6lLhOnxSvlUgzvm3a6kByS) | 3:06 |
 
-Snapshot ID: `MTY1Nzc3MDM2NiwwMDAwMDAwMDE4MmJjNjliZTFiYTliYzI3Zjk1ZGJlNmNlODc5ZjUw`
+Snapshot ID: `MTY1Nzc3MDM2NiwwMDAwMDAwMDllYmIzMDVhZDgyNjM4ZjVkNTAxOTExZmM4YWY2OGRk`

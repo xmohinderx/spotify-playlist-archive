@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best French indie tracks right now. Cover: Jeanne Added",
+  "description": "The best French indie tracks right now. Cover: Bon Entendeur & Emma Peters.",
   "name": "Made in France",
   "published_playlist_ids": [
     "4VHp6F7a0Cbt6kPL2n6clC"
@@ -804,6 +804,24 @@
     },
     {
       "album": {
+        "name": "En ce moment",
+        "url": "https://open.spotify.com/album/15tJJkXFNyovjtZ9nTVu3D"
+      },
+      "artists": [
+        {
+          "name": "Spider ZED",
+          "url": "https://open.spotify.com/artist/4kAzmAcboZ0F6bCCb4jj8I"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136094,
+      "name": "En ce moment",
+      "url": "https://open.spotify.com/track/1I3U8flltQgKmyVhcm1oQb"
+    },
+    {
+      "album": {
         "name": "Sign In - EP",
         "url": "https://open.spotify.com/album/7ys3bKgj5o6LiuRANClSlG"
       },
@@ -895,6 +913,24 @@
       "duration_ms": 178689,
       "name": "Fini",
       "url": "https://open.spotify.com/track/7pUBjhrCRk88cbJUoR6XN0"
+    },
+    {
+      "album": {
+        "name": "first flight",
+        "url": "https://open.spotify.com/album/3oSCYW6kooJ9tZqrBCy5qi"
+      },
+      "artists": [
+        {
+          "name": "Pastel",
+          "url": "https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211784,
+      "name": "first flight",
+      "url": "https://open.spotify.com/track/2a4Dy0Gd6LxJ5lvrT1XK2o"
     },
     {
       "album": {
@@ -1321,6 +1357,42 @@
       "duration_ms": 190188,
       "name": "Keep on Fighting",
       "url": "https://open.spotify.com/track/5GpC05bmwr5eQ50Yc7BTMS"
+    },
+    {
+      "album": {
+        "name": "Keep Running",
+        "url": "https://open.spotify.com/album/5YehPZ7FEOVHF28GMuqj2a"
+      },
+      "artists": [
+        {
+          "name": "Yodelice",
+          "url": "https://open.spotify.com/artist/167abweXl3demO9x0VMMeJ"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174706,
+      "name": "Keep Running",
+      "url": "https://open.spotify.com/track/5jwJJMMLMqfyMXHnKrzJNu"
+    },
+    {
+      "album": {
+        "name": "Killing Me",
+        "url": "https://open.spotify.com/album/4lNIfDU3FCsPlBYcZkWH1D"
+      },
+      "artists": [
+        {
+          "name": "M.I.L.K.",
+          "url": "https://open.spotify.com/artist/2ekValwbXG7P55xYXwWOZx"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214453,
+      "name": "Killing Me",
+      "url": "https://open.spotify.com/track/4xZYmXDNh09Y6XdJ5QODEB"
     },
     {
       "album": {
@@ -1755,7 +1827,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 197125,
       "name": "Ma plus belle aventure",
       "url": "https://open.spotify.com/track/6O0kgPvEUySOADRg4eNuvh"
@@ -1954,6 +2026,24 @@
     },
     {
       "album": {
+        "name": "1901 - Part II",
+        "url": "https://open.spotify.com/album/3KqY4Enmk7fHbjq7eIRmY2"
+      },
+      "artists": [
+        {
+          "name": "BLOWSOM",
+          "url": "https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202074,
+      "name": "M\u00e9dicament",
+      "url": "https://open.spotify.com/track/7zqDvIozUYDkUU2j61O9M8"
+    },
+    {
+      "album": {
         "name": "M\u00e9dicament",
         "url": "https://open.spotify.com/album/4BOS3DHnFFozs9nDVGiO0j"
       },
@@ -1965,7 +2055,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 202985,
       "name": "M\u00e9dicament",
       "url": "https://open.spotify.com/track/6ths4lLgtobquTsQ6hM6oa"
@@ -2449,7 +2539,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 199880,
       "name": "Reviens",
       "url": "https://open.spotify.com/track/2lfuJC4pd1zF9op7fL5qdr"
@@ -2529,6 +2619,28 @@
       "duration_ms": 237653,
       "name": "Shaker de l'amour",
       "url": "https://open.spotify.com/track/0Jyzlq9nMksqNmNkrY7rPQ"
+    },
+    {
+      "album": {
+        "name": "How Strange To Be Anyone?",
+        "url": "https://open.spotify.com/album/2VCtwA3g7UuK1Hy2NexMoZ"
+      },
+      "artists": [
+        {
+          "name": "Thomas Guerlet",
+          "url": "https://open.spotify.com/artist/3vtnZRBtqMvQ9Y62AfaDn3"
+        },
+        {
+          "name": "Miki",
+          "url": "https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147639,
+      "name": "She Don't Want To Dance",
+      "url": "https://open.spotify.com/track/0rWjhlFgYS1WXIUKfjsXz5"
     },
     {
       "album": {
@@ -3049,7 +3161,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 90127,
       "name": "Unfold",
       "url": "https://open.spotify.com/track/7Ep8BuyZZGrbDP3alg2jPX"
@@ -3085,7 +3197,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 183963,
       "name": "VENUS",
       "url": "https://open.spotify.com/track/6pWVce5c6JXqFfl7JfJBnl"

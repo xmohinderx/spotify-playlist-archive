@@ -4,7 +4,7 @@
 
 > Love, sex, and heartbreak\. Listen to the official playlist for Heartbreak High, now on Netflix.
 
-121 songs - 7 hr 30 min - not published yet
+122 songs - 7 hr 37 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,8 @@
 | [People, I've been sad](https://open.spotify.com/track/2rWeNybwVZTWEbkb9JOjcz) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [La vita nuova](https://open.spotify.com/album/0iyzHNJTyl7G9vNwp3B8iQ) | 4:20 | 2022-09-14 |  |
 | [Pisces Problems](https://open.spotify.com/track/5UjX3Om5Cbob1U4nVxT69q) | [TYSON](https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn) | [Pisces Problems](https://open.spotify.com/album/4vRA6Vhc1ukjXJEsybdIiB) | 4:14 | 2022-09-14 |  |
 | [R.I.P](https://open.spotify.com/track/3oQjXdnaea4lel5DkkKfJX) | [JK\-47](https://open.spotify.com/artist/1MS6lYWuDWugNbdDhzEHvF), [JON DO£](https://open.spotify.com/artist/2v0tNv0ka2GlmAfcLUIYOR), [Jarulah](https://open.spotify.com/artist/7KBQjTf6OmCZXe5BD2gdU2) | [Made For This](https://open.spotify.com/album/65JAwAH3TyRYjdBVrlzIvL) | 3:48 | 2022-09-14 |  |
-| [Raw Vis Vision](https://open.spotify.com/track/5lWgkCLOXvJRzFxk4aII44) | [NO ZU](https://open.spotify.com/artist/0ASJYABL9IBmNhXFXDuV5P) | [Cut Copy Presents: Oceans Apart](https://open.spotify.com/album/4AiHgoami4kqFHrorP00Kc) | 6:26 | 2022-09-14 |  |
+| [Raw Vis Vision](https://open.spotify.com/track/5lWgkCLOXvJRzFxk4aII44) | [NO ZU](https://open.spotify.com/artist/0ASJYABL9IBmNhXFXDuV5P) | [Cut Copy Presents: Oceans Apart](https://open.spotify.com/album/4AiHgoami4kqFHrorP00Kc) | 6:26 | 2022-09-14 | 2022-09-16 |
+| [Raw Vision](https://open.spotify.com/track/2XudKldptC3tzth9spCv9W) | [NO ZU](https://open.spotify.com/artist/0ASJYABL9IBmNhXFXDuV5P) | [Afterlife](https://open.spotify.com/album/7pvEbQlyjML8YHH5bTICgT) | 7:03 | 2022-09-15 |  |
 | [Real Luv](https://open.spotify.com/track/4N1Vch91SH2b2xrseGfHTy) | [Qendresa](https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI) | [Midnight Request Line](https://open.spotify.com/album/6EjS2SQlbFfvqL0MGVNHbD) | 3:35 | 2022-09-14 |  |
 | [Rude Gyal](https://open.spotify.com/track/0FsOI2cYxB2a3dCKUu0y6q) | [Adrian Swish](https://open.spotify.com/artist/7BVbyQxv5u5jJ0lYjoElYD), [Mkada](https://open.spotify.com/artist/6f5pg2rPhGYYmZJkhvZrNf), [Slicker 1](https://open.spotify.com/artist/3zijNhgLVtJXWto8klJc6O) | [Already on Iii: Millennium Music](https://open.spotify.com/album/0BKKv32T5Mj7LxknOuNG1R) | 3:12 | 2022-09-14 |  |
 | [Say Nothing \(feat\. MAY\-A\)](https://open.spotify.com/track/424Uwmm1kNW07Ty1nOhSpl) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Say Nothing \(feat\. MAY\-A\)](https://open.spotify.com/album/3QMl37rC1ye7PKRFH7Bgz9) | 3:52 | 2022-09-14 |  |

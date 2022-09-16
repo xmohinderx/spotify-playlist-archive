@@ -1,12 +1,12 @@
 {
   "description": "A new take on the freshest dance tracks with remixes from Dubdogz & J\u00d8RD, Sonny Fodera, LP Giobbi and more!",
-  "num_followers": 14086,
+  "num_followers": 14085,
   "original_name": "mint Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMDZjMDg1ZTRhZmRjZmEzODhmYTU3MmY1YmI5ZjcwYTk5",
+  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMDk0YzEyYWIwYzAyMzQ2ODE2NmM3MzlkMDU1OWRjYjJh",
   "tracks": [
     {
       "added_at": "2021-07-30 04:00:00",
@@ -723,22 +723,22 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Pump the Brakes (LP Giobbi Remix)",
-        "url": "https://open.spotify.com/album/79LkvaX65Uz1IWG0aar5ve"
+        "name": "Trouble\u2019s Coming (Purple Disco Machine Remix)",
+        "url": "https://open.spotify.com/album/5XlWzxdKFGCRDgok5j7UoJ"
       },
       "artists": [
         {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
         },
         {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
         }
       ],
-      "duration_ms": 279685,
-      "name": "Pump the Brakes - LP Giobbi Remix",
-      "url": "https://open.spotify.com/track/0EjVfH9vZo9BjVLK698Mxl"
+      "duration_ms": 265570,
+      "name": "Trouble\u2019s Coming - Purple Disco Machine Remix",
+      "url": "https://open.spotify.com/track/7cpmk4IuNSWfg5XOrr2v8V"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -767,22 +767,22 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Trouble\u2019s Coming (Purple Disco Machine Remix)",
-        "url": "https://open.spotify.com/album/5XlWzxdKFGCRDgok5j7UoJ"
+        "name": "Pump the Brakes (LP Giobbi Remix)",
+        "url": "https://open.spotify.com/album/79LkvaX65Uz1IWG0aar5ve"
       },
       "artists": [
         {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
         },
         {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
         }
       ],
-      "duration_ms": 265570,
-      "name": "Trouble\u2019s Coming - Purple Disco Machine Remix",
-      "url": "https://open.spotify.com/track/7cpmk4IuNSWfg5XOrr2v8V"
+      "duration_ms": 279685,
+      "name": "Pump the Brakes - LP Giobbi Remix",
+      "url": "https://open.spotify.com/track/0EjVfH9vZo9BjVLK698Mxl"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1279,30 +1279,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Free Your Body (Noizu Remix)",
-        "url": "https://open.spotify.com/album/2huZSD1rl3OePdo2y6in6t"
-      },
-      "artists": [
-        {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        },
-        {
-          "name": "Solardo",
-          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
-        },
-        {
-          "name": "Noizu",
-          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
-        }
-      ],
-      "duration_ms": 228070,
-      "name": "Free Your Body - Noizu Remix",
-      "url": "https://open.spotify.com/track/1XcPgQVOzNYHIQ9LBjU10p"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Self Care (with COIN) [The Knocks Remix]",
         "url": "https://open.spotify.com/album/3017y3piJmBiFguacLqX51"
       },
@@ -1323,6 +1299,30 @@
       "duration_ms": 197129,
       "name": "Self Care (with COIN) - The Knocks Remix",
       "url": "https://open.spotify.com/track/3aXVBYo7jW9CO1od4atawq"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Free Your Body (Noizu Remix)",
+        "url": "https://open.spotify.com/album/2huZSD1rl3OePdo2y6in6t"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Solardo",
+          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
+        },
+        {
+          "name": "Noizu",
+          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
+        }
+      ],
+      "duration_ms": 228070,
+      "name": "Free Your Body - Noizu Remix",
+      "url": "https://open.spotify.com/track/1XcPgQVOzNYHIQ9LBjU10p"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1983,30 +1983,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Pomegranate (Jay Robinson Remix)",
-        "url": "https://open.spotify.com/album/3I4jrDAM138QXgHszi4N8K"
-      },
-      "artists": [
-        {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
-        },
-        {
-          "name": "The Neptunes",
-          "url": "https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr"
-        },
-        {
-          "name": "Jay Robinson",
-          "url": "https://open.spotify.com/artist/1Jputnig8fuCuihen6n28Z"
-        }
-      ],
-      "duration_ms": 332691,
-      "name": "Pomegranate - Jay Robinson Remix",
-      "url": "https://open.spotify.com/track/7v94HEWxH9qdM5eAXcY2lR"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "My Feelings",
         "url": "https://open.spotify.com/album/6XnzdnYMwOIEgVMEewejQe"
       },
@@ -2027,6 +2003,30 @@
       "duration_ms": 181922,
       "name": "My Feelings - Mokita Remix",
       "url": "https://open.spotify.com/track/2XTZYSCs3FrfDbDylamb4T"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Pomegranate (Jay Robinson Remix)",
+        "url": "https://open.spotify.com/album/3I4jrDAM138QXgHszi4N8K"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "The Neptunes",
+          "url": "https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr"
+        },
+        {
+          "name": "Jay Robinson",
+          "url": "https://open.spotify.com/artist/1Jputnig8fuCuihen6n28Z"
+        }
+      ],
+      "duration_ms": 332691,
+      "name": "Pomegranate - Jay Robinson Remix",
+      "url": "https://open.spotify.com/track/7v94HEWxH9qdM5eAXcY2lR"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2255,6 +2255,26 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "Views of a Room",
+        "url": "https://open.spotify.com/album/6ANwCdQj28Jc1BHsscxInh"
+      },
+      "artists": [
+        {
+          "name": "Rone",
+          "url": "https://open.spotify.com/artist/3Dw9w3jnmr58ocgxiwITcq"
+        },
+        {
+          "name": "Maceo Plex",
+          "url": "https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj"
+        }
+      ],
+      "duration_ms": 373890,
+      "name": "Babel - Maceo Plex Remix",
+      "url": "https://open.spotify.com/track/54y8QNTrKGMfsqbJeykPxK"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "Jaiye (Aluna and Sigag Lauren Remix)",
         "url": "https://open.spotify.com/album/4OUtz54ngbyOmAjsfKwcNA"
       },
@@ -2275,26 +2295,6 @@
       "duration_ms": 221032,
       "name": "Jaiye (Aluna and Sigag Lauren Remix)",
       "url": "https://open.spotify.com/track/1AebvIVZtZpHwLL16K9K0b"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "Views of a Room",
-        "url": "https://open.spotify.com/album/6ANwCdQj28Jc1BHsscxInh"
-      },
-      "artists": [
-        {
-          "name": "Rone",
-          "url": "https://open.spotify.com/artist/3Dw9w3jnmr58ocgxiwITcq"
-        },
-        {
-          "name": "Maceo Plex",
-          "url": "https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj"
-        }
-      ],
-      "duration_ms": 373890,
-      "name": "Babel - Maceo Plex Remix",
-      "url": "https://open.spotify.com/track/54y8QNTrKGMfsqbJeykPxK"
     },
     {
       "added_at": "2021-07-30 04:00:00",

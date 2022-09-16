@@ -1,12 +1,12 @@
 {
   "description": "The ocean, the sun, your friends, the music.",
-  "num_followers": 775851,
+  "num_followers": 775900,
   "original_name": "Beach Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODU2MDY0NCwwMDAwMDAwMDhhNDA0YjYyYmJkMWNlYWY1MzBkNjQ1MmM3OWQwMmZk",
+  "snapshot_id": "MTY0ODU2MDY0NCwwMDAwMDAwMDNkNzFiMDYwNTAxNTc3Y2YxYWM1NmRiZjViNGIxM2M3",
   "tracks": [
     {
       "added_at": "2022-03-29 13:30:44",
@@ -291,6 +291,26 @@
     {
       "added_at": "2022-03-29 13:30:44",
       "album": {
+        "name": "Goosebumps (Remix)",
+        "url": "https://open.spotify.com/album/3SdFuYwyWoq7kuaHdTDcyD"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "HVME",
+          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
+        }
+      ],
+      "duration_ms": 162802,
+      "name": "Goosebumps - Remix",
+      "url": "https://open.spotify.com/track/5uEYRdEIh9Bo4fpjDd4Na9"
+    },
+    {
+      "added_at": "2022-03-29 13:30:44",
+      "album": {
         "name": "OUT OUT (feat. Charli XCX & Saweetie)",
         "url": "https://open.spotify.com/album/5wJb3DBSoSMKYJA8TrNKi8"
       },
@@ -315,26 +335,6 @@
       "duration_ms": 162603,
       "name": "OUT OUT (feat. Charli XCX & Saweetie)",
       "url": "https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ"
-    },
-    {
-      "added_at": "2022-03-29 13:30:44",
-      "album": {
-        "name": "Goosebumps (Remix)",
-        "url": "https://open.spotify.com/album/3SdFuYwyWoq7kuaHdTDcyD"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "HVME",
-          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
-        }
-      ],
-      "duration_ms": 162802,
-      "name": "Goosebumps - Remix",
-      "url": "https://open.spotify.com/track/5uEYRdEIh9Bo4fpjDd4Na9"
     },
     {
       "added_at": "2022-03-29 13:30:44",
@@ -555,6 +555,26 @@
     {
       "added_at": "2022-03-29 13:30:44",
       "album": {
+        "name": "In My Mind",
+        "url": "https://open.spotify.com/album/1c79SozES9Eb3Lzf9KVaIa"
+      },
+      "artists": [
+        {
+          "name": "Dynoro",
+          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
+        },
+        {
+          "name": "Gigi D'Agostino",
+          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
+        }
+      ],
+      "duration_ms": 184560,
+      "name": "In My Mind",
+      "url": "https://open.spotify.com/track/0E9ZjEAyAwOXZ7wJC0PD33"
+    },
+    {
+      "added_at": "2022-03-29 13:30:44",
+      "album": {
         "name": "Your Love (9PM)",
         "url": "https://open.spotify.com/album/7F9yYqHRtIZnEGF2tANI4b"
       },
@@ -575,26 +595,6 @@
       "duration_ms": 150052,
       "name": "Your Love (9PM)",
       "url": "https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx"
-    },
-    {
-      "added_at": "2022-03-29 13:30:44",
-      "album": {
-        "name": "In My Mind",
-        "url": "https://open.spotify.com/album/1c79SozES9Eb3Lzf9KVaIa"
-      },
-      "artists": [
-        {
-          "name": "Dynoro",
-          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
-        },
-        {
-          "name": "Gigi D'Agostino",
-          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
-        }
-      ],
-      "duration_ms": 184560,
-      "name": "In My Mind",
-      "url": "https://open.spotify.com/track/0E9ZjEAyAwOXZ7wJC0PD33"
     },
     {
       "added_at": "2022-03-29 13:30:44",
@@ -651,26 +651,6 @@
     {
       "added_at": "2022-03-29 13:30:44",
       "album": {
-        "name": "Breaking Me",
-        "url": "https://open.spotify.com/album/3nBQlhUvErkw8DVpF47WAn"
-      },
-      "artists": [
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        },
-        {
-          "name": "A7S",
-          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
-        }
-      ],
-      "duration_ms": 166793,
-      "name": "Breaking Me",
-      "url": "https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po"
-    },
-    {
-      "added_at": "2022-03-29 13:30:44",
-      "album": {
         "name": "Meet The Orphans",
         "url": "https://open.spotify.com/album/6mGDfbDErYIJsmSewvccWm"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 198773,
       "name": "Danza Kuduro",
       "url": "https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw"
+    },
+    {
+      "added_at": "2022-03-29 13:30:44",
+      "album": {
+        "name": "Breaking Me",
+        "url": "https://open.spotify.com/album/3nBQlhUvErkw8DVpF47WAn"
+      },
+      "artists": [
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+        }
+      ],
+      "duration_ms": 166793,
+      "name": "Breaking Me",
+      "url": "https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po"
     },
     {
       "added_at": "2022-03-29 13:30:44",
@@ -711,26 +711,6 @@
     {
       "added_at": "2022-03-29 13:30:44",
       "album": {
-        "name": "Layers",
-        "url": "https://open.spotify.com/album/66KCBRiOFSs9bki2A15WlB"
-      },
-      "artists": [
-        {
-          "name": "Kungs",
-          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
-        },
-        {
-          "name": "Cookin' On 3 Burners",
-          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
-        }
-      ],
-      "duration_ms": 195546,
-      "name": "This Girl (Kungs Vs. Cookin' On 3 Burners)",
-      "url": "https://open.spotify.com/track/1A8j067qyiNwQnZT0bzUpZ"
-    },
-    {
-      "added_at": "2022-03-29 13:30:44",
-      "album": {
         "name": "Remember",
         "url": "https://open.spotify.com/album/6DHfD3rZapWFmEKX1FNNZF"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 160766,
       "name": "Remember",
       "url": "https://open.spotify.com/track/4laAKIq9ZxBCwf99rauPYb"
+    },
+    {
+      "added_at": "2022-03-29 13:30:44",
+      "album": {
+        "name": "Layers",
+        "url": "https://open.spotify.com/album/66KCBRiOFSs9bki2A15WlB"
+      },
+      "artists": [
+        {
+          "name": "Kungs",
+          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+        },
+        {
+          "name": "Cookin' On 3 Burners",
+          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
+        }
+      ],
+      "duration_ms": 195546,
+      "name": "This Girl (Kungs Vs. Cookin' On 3 Burners)",
+      "url": "https://open.spotify.com/track/1A8j067qyiNwQnZT0bzUpZ"
     },
     {
       "added_at": "2022-03-29 13:30:44",
@@ -1051,26 +1051,6 @@
     {
       "added_at": "2022-03-29 13:30:44",
       "album": {
-        "name": "Infinity 2008",
-        "url": "https://open.spotify.com/album/1uyF93NDsuRn4LqZIl3lyY"
-      },
-      "artists": [
-        {
-          "name": "Guru Josh Project",
-          "url": "https://open.spotify.com/artist/4ME85YvMUi1hdqhbind7gy"
-        },
-        {
-          "name": "Klaas",
-          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
-        }
-      ],
-      "duration_ms": 192294,
-      "name": "Infinity 2008 - Klaas Vocal Edit",
-      "url": "https://open.spotify.com/track/3aQz0z86zrKjd1mcZlonxE"
-    },
-    {
-      "added_at": "2022-03-29 13:30:44",
-      "album": {
         "name": "Electricity (with Dua Lipa)",
         "url": "https://open.spotify.com/album/429B3se6xtZuvblNnS2iy7"
       },
@@ -1095,6 +1075,26 @@
       "duration_ms": 238173,
       "name": "Electricity (with Dua Lipa)",
       "url": "https://open.spotify.com/track/5N4erncE7kuUccm7zEmwzk"
+    },
+    {
+      "added_at": "2022-03-29 13:30:44",
+      "album": {
+        "name": "Infinity 2008",
+        "url": "https://open.spotify.com/album/1uyF93NDsuRn4LqZIl3lyY"
+      },
+      "artists": [
+        {
+          "name": "Guru Josh Project",
+          "url": "https://open.spotify.com/artist/4ME85YvMUi1hdqhbind7gy"
+        },
+        {
+          "name": "Klaas",
+          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
+        }
+      ],
+      "duration_ms": 192294,
+      "name": "Infinity 2008 - Klaas Vocal Edit",
+      "url": "https://open.spotify.com/track/3aQz0z86zrKjd1mcZlonxE"
     },
     {
       "added_at": "2022-03-29 13:30:44",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2022-03-29 13:30:44",
       "album": {
-        "name": "Dura",
-        "url": "https://open.spotify.com/album/1copqxpiZy0dn219MSyPR7"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 200480,
-      "name": "Dura",
-      "url": "https://open.spotify.com/track/6KuqAtoeVzxAYOaMveLNpH"
-    },
-    {
-      "added_at": "2022-03-29 13:30:44",
-      "album": {
         "name": "Know Your Worth",
         "url": "https://open.spotify.com/album/0uLz2ygHQAtLknyGasJOr5"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 181436,
       "name": "Know Your Worth",
       "url": "https://open.spotify.com/track/0TrPqhAMoaKUFLR7iYDokf"
+    },
+    {
+      "added_at": "2022-03-29 13:30:44",
+      "album": {
+        "name": "Dura",
+        "url": "https://open.spotify.com/album/1copqxpiZy0dn219MSyPR7"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 200480,
+      "name": "Dura",
+      "url": "https://open.spotify.com/track/6KuqAtoeVzxAYOaMveLNpH"
     },
     {
       "added_at": "2022-03-29 13:30:44",
@@ -2311,18 +2311,18 @@
     {
       "added_at": "2022-03-29 13:30:44",
       "album": {
-        "name": "L'Amour Toujour",
-        "url": "https://open.spotify.com/album/3dvjLo2u1kao2ikKIJa6KP"
+        "name": "Communion (Deluxe)",
+        "url": "https://open.spotify.com/album/09mWpzpUOSjjvK2iNqEIYn"
       },
       "artists": [
         {
-          "name": "Gigi D'Agostino",
-          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
+          "name": "Years & Years",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
         }
       ],
-      "duration_ms": 242053,
-      "name": "L'amour Toujours (Small Mix)",
-      "url": "https://open.spotify.com/track/0FkLMOUTkSTPSAYkIXQ579"
+      "duration_ms": 215360,
+      "name": "King",
+      "url": "https://open.spotify.com/track/5Z3zRrMIJk7CVpfcLsM9wD"
     },
     {
       "added_at": "2022-03-29 13:30:44",
@@ -2347,18 +2347,18 @@
     {
       "added_at": "2022-03-29 13:30:44",
       "album": {
-        "name": "Communion (Deluxe)",
-        "url": "https://open.spotify.com/album/09mWpzpUOSjjvK2iNqEIYn"
+        "name": "L'Amour Toujour",
+        "url": "https://open.spotify.com/album/3dvjLo2u1kao2ikKIJa6KP"
       },
       "artists": [
         {
-          "name": "Years & Years",
-          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+          "name": "Gigi D'Agostino",
+          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
         }
       ],
-      "duration_ms": 215360,
-      "name": "King",
-      "url": "https://open.spotify.com/track/5Z3zRrMIJk7CVpfcLsM9wD"
+      "duration_ms": 242053,
+      "name": "L'amour Toujours (Small Mix)",
+      "url": "https://open.spotify.com/track/0FkLMOUTkSTPSAYkIXQ579"
     },
     {
       "added_at": "2022-03-29 13:30:44",
@@ -2663,26 +2663,6 @@
     {
       "added_at": "2022-03-29 13:30:44",
       "album": {
-        "name": "Olympia",
-        "url": "https://open.spotify.com/album/3r4dG6bUfL4jasKeo50kLE"
-      },
-      "artists": [
-        {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        },
-        {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
-        }
-      ],
-      "duration_ms": 212893,
-      "name": "You've Done Enough",
-      "url": "https://open.spotify.com/track/77VqW84V88aKD8Bi8CzEsP"
-    },
-    {
-      "added_at": "2022-03-29 13:30:44",
-      "album": {
         "name": "Sweet but Psycho (The Remixes)",
         "url": "https://open.spotify.com/album/5wYR3in9srVuVeDajc7KeL"
       },
@@ -2699,6 +2679,26 @@
       "duration_ms": 226875,
       "name": "Sweet but Psycho - Morgan Page Dance Remix",
       "url": "https://open.spotify.com/track/1gwwks3lIsvJq5pDJ82fKK"
+    },
+    {
+      "added_at": "2022-03-29 13:30:44",
+      "album": {
+        "name": "Olympia",
+        "url": "https://open.spotify.com/album/3r4dG6bUfL4jasKeo50kLE"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        }
+      ],
+      "duration_ms": 212893,
+      "name": "You've Done Enough",
+      "url": "https://open.spotify.com/track/77VqW84V88aKD8Bi8CzEsP"
     },
     {
       "added_at": "2022-03-29 13:30:44",
@@ -2763,6 +2763,26 @@
     {
       "added_at": "2022-03-29 13:30:44",
       "album": {
+        "name": "Monsters (feat. 24kGoldn)",
+        "url": "https://open.spotify.com/album/1RfuZSVnk7Qs8lajKxkjtK"
+      },
+      "artists": [
+        {
+          "name": "Dynoro",
+          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
+        },
+        {
+          "name": "24kGoldn",
+          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
+        }
+      ],
+      "duration_ms": 174643,
+      "name": "Monsters (feat. 24kGoldn)",
+      "url": "https://open.spotify.com/track/1sc1LUE0z2kiAFG7ZZlcDZ"
+    },
+    {
+      "added_at": "2022-03-29 13:30:44",
+      "album": {
         "name": "SAD (Imanbek xxx Remix)",
         "url": "https://open.spotify.com/album/0MoT8k5F7qoeCcP2DfW8GF"
       },
@@ -2787,26 +2807,6 @@
     {
       "added_at": "2022-03-29 13:30:44",
       "album": {
-        "name": "Monsters (feat. 24kGoldn)",
-        "url": "https://open.spotify.com/album/1RfuZSVnk7Qs8lajKxkjtK"
-      },
-      "artists": [
-        {
-          "name": "Dynoro",
-          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
-        },
-        {
-          "name": "24kGoldn",
-          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
-        }
-      ],
-      "duration_ms": 174643,
-      "name": "Monsters (feat. 24kGoldn)",
-      "url": "https://open.spotify.com/track/1sc1LUE0z2kiAFG7ZZlcDZ"
-    },
-    {
-      "added_at": "2022-03-29 13:30:44",
-      "album": {
         "name": "There's Nothing Holdin' Me Back (NOTD Remix)",
         "url": "https://open.spotify.com/album/5DqFC6RRbyb7mAvrqVTb8m"
       },
@@ -2823,30 +2823,6 @@
       "duration_ms": 194320,
       "name": "There's Nothing Holdin' Me Back - NOTD Remix",
       "url": "https://open.spotify.com/track/0n7kGBIfea9zdbXvYlqiGM"
-    },
-    {
-      "added_at": "2022-03-29 13:30:44",
-      "album": {
-        "name": "Is This Love (Remix)",
-        "url": "https://open.spotify.com/album/5MUX0Xv8IGxAlzz5eSEE5D"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        },
-        {
-          "name": "LVNDSCAPE",
-          "url": "https://open.spotify.com/artist/2QlwnS23KrBeshXFyK5U6M"
-        },
-        {
-          "name": "Bolier",
-          "url": "https://open.spotify.com/artist/65NscqgsoMPqBtoLbkP3jD"
-        }
-      ],
-      "duration_ms": 199655,
-      "name": "Is This Love - Remix",
-      "url": "https://open.spotify.com/track/1G8yVHxDLlEjDAt02Dfbmi"
     },
     {
       "added_at": "2022-03-29 13:30:44",
@@ -2875,6 +2851,30 @@
       "duration_ms": 133920,
       "name": "Astronaut In The Ocean",
       "url": "https://open.spotify.com/track/1xOgDZRSKEHZXAdVkT0GJE"
+    },
+    {
+      "added_at": "2022-03-29 13:30:44",
+      "album": {
+        "name": "Is This Love (Remix)",
+        "url": "https://open.spotify.com/album/5MUX0Xv8IGxAlzz5eSEE5D"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        },
+        {
+          "name": "LVNDSCAPE",
+          "url": "https://open.spotify.com/artist/2QlwnS23KrBeshXFyK5U6M"
+        },
+        {
+          "name": "Bolier",
+          "url": "https://open.spotify.com/artist/65NscqgsoMPqBtoLbkP3jD"
+        }
+      ],
+      "duration_ms": 199655,
+      "name": "Is This Love - Remix",
+      "url": "https://open.spotify.com/track/1G8yVHxDLlEjDAt02Dfbmi"
     },
     {
       "added_at": "2022-03-29 13:30:44",
@@ -2943,22 +2943,26 @@
     {
       "added_at": "2022-03-29 13:30:44",
       "album": {
-        "name": "Kings & Queens (The Remixes)",
-        "url": "https://open.spotify.com/album/5LHvfHjTwvVNSgZsi3QHxT"
+        "name": "Beautiful People (feat. Khalid) [NOTD Remix]",
+        "url": "https://open.spotify.com/album/2oEcytQ5u5QtR9VZc2XgE2"
       },
       "artists": [
         {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         },
         {
-          "name": "MOTi",
-          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        },
+        {
+          "name": "NOTD",
+          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
         }
       ],
-      "duration_ms": 180952,
-      "name": "Kings & Queens - MOTi Remix",
-      "url": "https://open.spotify.com/track/31LLpb0q1phhd3sRxIsdLz"
+      "duration_ms": 162081,
+      "name": "Beautiful People (feat. Khalid) - NOTD Remix",
+      "url": "https://open.spotify.com/track/6J7WMB5GII6pEOzy687jhO"
     },
     {
       "added_at": "2022-03-29 13:30:44",
@@ -2983,26 +2987,22 @@
     {
       "added_at": "2022-03-29 13:30:44",
       "album": {
-        "name": "Beautiful People (feat. Khalid) [NOTD Remix]",
-        "url": "https://open.spotify.com/album/2oEcytQ5u5QtR9VZc2XgE2"
+        "name": "Kings & Queens (The Remixes)",
+        "url": "https://open.spotify.com/album/5LHvfHjTwvVNSgZsi3QHxT"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
         },
         {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        },
-        {
-          "name": "NOTD",
-          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
         }
       ],
-      "duration_ms": 162081,
-      "name": "Beautiful People (feat. Khalid) - NOTD Remix",
-      "url": "https://open.spotify.com/track/6J7WMB5GII6pEOzy687jhO"
+      "duration_ms": 180952,
+      "name": "Kings & Queens - MOTi Remix",
+      "url": "https://open.spotify.com/track/31LLpb0q1phhd3sRxIsdLz"
     },
     {
       "added_at": "2022-03-29 13:30:44",
@@ -3179,26 +3179,6 @@
     {
       "added_at": "2022-03-29 13:30:44",
       "album": {
-        "name": "All Cried Out (feat. Alex Newell) [Radio Edit]",
-        "url": "https://open.spotify.com/album/4glrp7UJjimZral416kQ1d"
-      },
-      "artists": [
-        {
-          "name": "Blonde",
-          "url": "https://open.spotify.com/artist/2nuKjZLgc7II6FO4Rxjt5e"
-        },
-        {
-          "name": "Alex Newell",
-          "url": "https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN"
-        }
-      ],
-      "duration_ms": 170716,
-      "name": "All Cried Out (feat. Alex Newell) - Radio Edit",
-      "url": "https://open.spotify.com/track/6n7rJUcwmQDestMYXoSoZF"
-    },
-    {
-      "added_at": "2022-03-29 13:30:44",
-      "album": {
         "name": "Shots EP",
         "url": "https://open.spotify.com/album/5R4Ak5SlTSaVnXNZQQ5CX2"
       },
@@ -3239,6 +3219,26 @@
       "duration_ms": 191379,
       "name": "Shed a Light",
       "url": "https://open.spotify.com/track/1eyrmeiDpdTkOmA839nPVQ"
+    },
+    {
+      "added_at": "2022-03-29 13:30:44",
+      "album": {
+        "name": "All Cried Out (feat. Alex Newell) [Radio Edit]",
+        "url": "https://open.spotify.com/album/4glrp7UJjimZral416kQ1d"
+      },
+      "artists": [
+        {
+          "name": "Blonde",
+          "url": "https://open.spotify.com/artist/2nuKjZLgc7II6FO4Rxjt5e"
+        },
+        {
+          "name": "Alex Newell",
+          "url": "https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN"
+        }
+      ],
+      "duration_ms": 170716,
+      "name": "All Cried Out (feat. Alex Newell) - Radio Edit",
+      "url": "https://open.spotify.com/track/6n7rJUcwmQDestMYXoSoZF"
     },
     {
       "added_at": "2022-03-29 13:30:44",

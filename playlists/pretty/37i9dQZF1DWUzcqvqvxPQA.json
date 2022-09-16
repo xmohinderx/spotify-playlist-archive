@@ -1,12 +1,12 @@
 {
   "description": "Check out these inspired hits to keep your Summer fun and upbeat!",
-  "num_followers": 24257,
+  "num_followers": 24265,
   "original_name": "Rejoice for Summer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5NzMyOTU0MCwwMDAwMDAwMDAzY2EzNGU1ZmU4MTQ3NGUxODRiMTkxM2VlYzg4MjQ3",
+  "snapshot_id": "MTU5NzMyOTU0MCwwMDAwMDAwMDUwYzgxYzU1YzhmMWJjY2Y1ZTZiODUyM2EzNjMwM2Vl",
   "tracks": [
     {
       "added_at": "2020-08-13 14:39:00",
@@ -563,22 +563,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "III",
-        "url": "https://open.spotify.com/album/3GBUiNPCjCorEs0W9lf41C"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
-        }
-      ],
-      "duration_ms": 202893,
-      "name": "Every Little Thing",
-      "url": "https://open.spotify.com/track/3skkHSk5KA7akip3Ey6Xjx"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "RICHLIN",
         "url": "https://open.spotify.com/album/5GD8P8i4RfBRKbeUs59P0v"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 232400,
       "name": "Love Like Thunder",
       "url": "https://open.spotify.com/track/2MoXe7cv3H3J3Z9oSy514F"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "III",
+        "url": "https://open.spotify.com/album/3GBUiNPCjCorEs0W9lf41C"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        }
+      ],
+      "duration_ms": 202893,
+      "name": "Every Little Thing",
+      "url": "https://open.spotify.com/track/3skkHSk5KA7akip3Ey6Xjx"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Order, Disorder, Reorder",
-        "url": "https://open.spotify.com/album/4OB5WhwM3ApWRJ97GEF9Lc"
-      },
-      "artists": [
-        {
-          "name": "Jason Gray",
-          "url": "https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE"
-        }
-      ],
-      "duration_ms": 189626,
-      "name": "I'm Gonna Let It Go",
-      "url": "https://open.spotify.com/track/3sBPqE3LXl3ncVUzpkXfjK"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "Wherever I Go",
         "url": "https://open.spotify.com/album/6b7kXdycXZktv3IppejFI6"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 178773,
       "name": "Wherever I Go",
       "url": "https://open.spotify.com/track/7a19yU7ehSsANZmkXtgcGa"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "Order, Disorder, Reorder",
+        "url": "https://open.spotify.com/album/4OB5WhwM3ApWRJ97GEF9Lc"
+      },
+      "artists": [
+        {
+          "name": "Jason Gray",
+          "url": "https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE"
+        }
+      ],
+      "duration_ms": 189626,
+      "name": "I'm Gonna Let It Go",
+      "url": "https://open.spotify.com/track/3sBPqE3LXl3ncVUzpkXfjK"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1063,18 +1063,22 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "BRKNHRT.",
-        "url": "https://open.spotify.com/album/53rq2pHU4MZCWYKGfbLola"
+        "name": "Songs for Every Soul",
+        "url": "https://open.spotify.com/album/494eVpr2xXEPkDxzk5kjbk"
       },
       "artists": [
         {
-          "name": "Hulvey",
-          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
+          "name": "Firma Collective",
+          "url": "https://open.spotify.com/artist/52MaCDJuPM1dlrCPMOlhmB"
+        },
+        {
+          "name": "Lexi Jones",
+          "url": "https://open.spotify.com/artist/2P43J08xD06ufX2GuJLVT6"
         }
       ],
-      "duration_ms": 213674,
-      "name": "Anchor",
-      "url": "https://open.spotify.com/track/2gCATN5nBgcwOGG2BE19u7"
+      "duration_ms": 257399,
+      "name": "Mercy's Tree",
+      "url": "https://open.spotify.com/track/3FTi0FOjEywikC2IkCRHPw"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1099,22 +1103,18 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Songs for Every Soul",
-        "url": "https://open.spotify.com/album/494eVpr2xXEPkDxzk5kjbk"
+        "name": "BRKNHRT.",
+        "url": "https://open.spotify.com/album/53rq2pHU4MZCWYKGfbLola"
       },
       "artists": [
         {
-          "name": "Firma Collective",
-          "url": "https://open.spotify.com/artist/52MaCDJuPM1dlrCPMOlhmB"
-        },
-        {
-          "name": "Lexi Jones",
-          "url": "https://open.spotify.com/artist/2P43J08xD06ufX2GuJLVT6"
+          "name": "Hulvey",
+          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
         }
       ],
-      "duration_ms": 257399,
-      "name": "Mercy's Tree",
-      "url": "https://open.spotify.com/track/3FTi0FOjEywikC2IkCRHPw"
+      "duration_ms": 213674,
+      "name": "Anchor",
+      "url": "https://open.spotify.com/track/2gCATN5nBgcwOGG2BE19u7"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
+        "name": "Perspectives",
+        "url": "https://open.spotify.com/album/7JacApKikA6YgXD2zq785n"
+      },
+      "artists": [
+        {
+          "name": "David Dunn",
+          "url": "https://open.spotify.com/artist/57ZPJfidpxGJGkyjcmz68v"
+        }
+      ],
+      "duration_ms": 196373,
+      "name": "Perspectives",
+      "url": "https://open.spotify.com/track/5YUTIJlqgDFfgIrf74uT2p"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
         "name": "20XX",
         "url": "https://open.spotify.com/album/7DTBjBDwZqmyslZxC3JrMK"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 186513,
       "name": "Fanatic",
       "url": "https://open.spotify.com/track/7L1i9lKq51GNndddOR3joe"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
-        "name": "Perspectives",
-        "url": "https://open.spotify.com/album/7JacApKikA6YgXD2zq785n"
-      },
-      "artists": [
-        {
-          "name": "David Dunn",
-          "url": "https://open.spotify.com/artist/57ZPJfidpxGJGkyjcmz68v"
-        }
-      ],
-      "duration_ms": 196373,
-      "name": "Perspectives",
-      "url": "https://open.spotify.com/track/5YUTIJlqgDFfgIrf74uT2p"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "What Freedom Feels Like",
-        "url": "https://open.spotify.com/album/62Hd11LH9xM8HX9GClD72L"
-      },
-      "artists": [
-        {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
-        }
-      ],
-      "duration_ms": 185692,
-      "name": "What Freedom Feels Like",
-      "url": "https://open.spotify.com/track/3JpweS0YOuNHJsMdgZlAOA"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "Standing In Your Light",
         "url": "https://open.spotify.com/album/6juuzTTAAfhevQ2tvshhCP"
       },
@@ -1515,18 +1499,18 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "\u00a1hola!",
-        "url": "https://open.spotify.com/album/0sUWrDj3EHzCQtXJF9rFTe"
+        "name": "What Freedom Feels Like",
+        "url": "https://open.spotify.com/album/62Hd11LH9xM8HX9GClD72L"
       },
       "artists": [
         {
-          "name": "Hollyn",
-          "url": "https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav"
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
         }
       ],
-      "duration_ms": 195944,
-      "name": "\u00a1hola!",
-      "url": "https://open.spotify.com/track/6vM0MZDQ3cjd5oR9IGNdIm"
+      "duration_ms": 185692,
+      "name": "What Freedom Feels Like",
+      "url": "https://open.spotify.com/track/3JpweS0YOuNHJsMdgZlAOA"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1547,6 +1531,22 @@
       "duration_ms": 234789,
       "name": "Do or Die (feat. Kinn)",
       "url": "https://open.spotify.com/track/3Mqp9pFEaLqMdR3zouGWOJ"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "\u00a1hola!",
+        "url": "https://open.spotify.com/album/0sUWrDj3EHzCQtXJF9rFTe"
+      },
+      "artists": [
+        {
+          "name": "Hollyn",
+          "url": "https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav"
+        }
+      ],
+      "duration_ms": 195944,
+      "name": "\u00a1hola!",
+      "url": "https://open.spotify.com/track/6vM0MZDQ3cjd5oR9IGNdIm"
     },
     {
       "added_at": "2020-08-13 14:39:00",

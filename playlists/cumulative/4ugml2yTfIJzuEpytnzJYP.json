@@ -412,6 +412,24 @@
     },
     {
       "album": {
+        "name": "Clutch",
+        "url": "https://open.spotify.com/album/7qnWKWKXZ62wPIVMkVk5wZ"
+      },
+      "artists": [
+        {
+          "name": "Ternion Sound",
+          "url": "https://open.spotify.com/artist/5sZGZj7wvhCwlG6KBvG90a"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329133,
+      "name": "Clutch",
+      "url": "https://open.spotify.com/track/2AtaNnfoySsOMA1etPWAa7"
+    },
+    {
+      "album": {
         "name": "Color Of Your Soul",
         "url": "https://open.spotify.com/album/0WKsuKxJZYxAf0sUeNCUZd"
       },

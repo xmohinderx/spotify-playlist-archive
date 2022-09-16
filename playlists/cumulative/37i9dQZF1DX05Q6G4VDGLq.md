@@ -4,7 +4,7 @@
 
 > Dulce jazz ideal para estudiar o relajarse.
 
-299 songs - 19 hr 7 min - [published](https://open.spotify.com/playlist/0CYkk8h0lMBQHBnC9TwpSu)
+300 songs - 19 hr 11 min - [published](https://open.spotify.com/playlist/0CYkk8h0lMBQHBnC9TwpSu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Danny Boy](https://open.spotify.com/track/1s9mbaEHeW8C3K9A2kVFkd) | [Fast Train Jazz Band](https://open.spotify.com/artist/5oKq1aCcKeI3ZAlstJxDsc) | [Elsa](https://open.spotify.com/album/2UPSIVtkDVSdZgGaJaG1MG) | 4:47 | 2022-06-28 | 2022-09-02 |
 | [Danny´s Dream](https://open.spotify.com/track/5X7wI6LqZfnp6XGYRSktPo) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [If You Could See Me Now](https://open.spotify.com/album/6zyhwDtl3VvpjMUksJQMDl) | 3:34 | 2022-06-28 |  |
 | [Dave’s Waltz](https://open.spotify.com/track/3iy07tO59bZ6YkKk49eLbr) | [Loft Trio](https://open.spotify.com/artist/0deAuR6p2brrc0MsfMlQXI) | [Dave’s Waltz](https://open.spotify.com/album/2wZOolV02qRIJjOI71L8F1) | 4:25 | 2022-06-28 |  |
-| [Dedicated To You](https://open.spotify.com/track/6WKFDVPOkenQ8cXv4uB9xl) | [More than Jazz](https://open.spotify.com/artist/6BLANsh44CPzD19TF0X0Et) | [My Old Friend](https://open.spotify.com/album/7akq0fBZz06m8UB19Cxsjf) | 3:35 | 2022-06-28 |  |
+| [Dedicated To You](https://open.spotify.com/track/6WKFDVPOkenQ8cXv4uB9xl) | [More than Jazz](https://open.spotify.com/artist/6BLANsh44CPzD19TF0X0Et) | [My Old Friend](https://open.spotify.com/album/7akq0fBZz06m8UB19Cxsjf) | 3:35 | 2022-06-28 | 2022-09-16 |
 | [Deep In A Dream](https://open.spotify.com/track/0P0YUfbBRKa1GSCSWmFd2p) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [Deep In A Dream](https://open.spotify.com/album/5FhqZM4vl2D8B3yF0EiDtK) | 4:42 | 2022-06-28 |  |
 | [Desire](https://open.spotify.com/track/4XrTlrbPQF6kkrNZ7X1Nyk) | [Gillian Spencer Trio](https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM) | [Desire](https://open.spotify.com/album/7Iw3lbOiYLqhgPbr7tl8xR) | 4:00 | 2022-06-28 |  |
 | [Désespérés](https://open.spotify.com/track/1dGXWUU6oRMfyAJzX96C7i) | [Vernon Sanders](https://open.spotify.com/artist/1gys0wFhj7eK75U30auAF4) | [Désespérés](https://open.spotify.com/album/6BhsLsej4iUHKsBsGC3vVL) | 3:41 | 2022-06-28 |  |
@@ -88,6 +88,7 @@
 | [For Heavens Sake](https://open.spotify.com/track/0RhYQmwfGzHDBV3K8MaMDq) | [Eugene Lambert](https://open.spotify.com/artist/0Qgio0Sb91TA2BZMDmaIvl) | [House Of Jade](https://open.spotify.com/album/6yZpRJ5kwvKg67eiI8uRZR) | 3:47 | 2022-06-28 |  |
 | [For the First Time](https://open.spotify.com/track/2BlPcDhmDzUyD5cWFyvmoy) | [Tom Stills Quartet](https://open.spotify.com/artist/2AE39jS64KnonFYcLHAUv0) | [For the First Time](https://open.spotify.com/album/09juioZQplX39Yj4EDyYWN) | 4:34 | 2022-06-28 |  |
 | [Forever You](https://open.spotify.com/track/184qXvZbse9pQ0hzSPGki1) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [For You My Love](https://open.spotify.com/album/06PdwmlUcKbdKHGw67YCQ8) | 5:39 | 2022-06-28 | 2022-07-29 |
+| [Forgetful](https://open.spotify.com/track/415IWIVm7peu22HIHbnPL1) | [Ballroom Jazz Collective](https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL) | [Forgetful](https://open.spotify.com/album/77QMtfYuSv2cvRnX1Omast) | 4:21 | 2022-09-13 |  |
 | [Freesia](https://open.spotify.com/track/0LHwEY4ECqNf4t0JrSR9eH) | [Carla Anderson](https://open.spotify.com/artist/1TbIqBiSP0SseGrRStPd3o) | [Freesia](https://open.spotify.com/album/15P9FU9R5jbBix4jIGPvBf) | 3:49 | 2022-08-30 |  |
 | [Galaxy](https://open.spotify.com/track/51g4wZxI5yS88Aj0VTCsXM) | [The Tealeaf Jazz Trio](https://open.spotify.com/artist/1kZ1pkxbbukhm8Dnfo8MhI) | [Galaxy](https://open.spotify.com/album/3bazDS19KvT06CyQvxUp29) | 3:51 | 2022-06-28 |  |
 | [Georgia On My Mind](https://open.spotify.com/track/15c6okmVGsMQYb7PkKi5v3) | [Nouveau Jazz Trio](https://open.spotify.com/artist/2uE6h3IWob2rgVJmUCz6D2) | [Georgia On My Mind](https://open.spotify.com/album/113L3LCtjrI2vA7xe8DCLq) | 3:12 | 2022-06-28 |  |

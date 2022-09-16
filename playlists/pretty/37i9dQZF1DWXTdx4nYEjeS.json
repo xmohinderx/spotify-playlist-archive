@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica para acompa\u00f1ar esas rondas interminables de mate.",
-  "num_followers": 578616,
+  "num_followers": 578830,
   "original_name": "Mates y M\u00fasica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5MjQwMCwwMDAwMDAwMDgxNDI4Nzk0YjczYmE2MGZjZDA5Mjk3MjRiNjE4M2Jm",
+  "snapshot_id": "MTY2MjY5MjQwMCwwMDAwMDAwMGYyYzViOGJmMWI5NTRmMDkwOWI0YjYxY2MxYWE5NzM3",
   "tracks": [
     {
       "added_at": "2022-09-09 03:00:00",
@@ -243,6 +243,22 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
+        "name": "Coti",
+        "url": "https://open.spotify.com/album/1msFprmU8cqzLu66TOX4rf"
+      },
+      "artists": [
+        {
+          "name": "Coti",
+          "url": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
+        }
+      ],
+      "duration_ms": 208200,
+      "name": "Nada Fue Un Error",
+      "url": "https://open.spotify.com/track/5QhOF5HXgZ0OFUZSE5kEv1"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
         "name": "CHANT (feat. Tones And I)",
         "url": "https://open.spotify.com/album/4z2ItYJOliymox1iXbu9gs"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 270635,
       "name": "CHANT (feat. Tones And I)",
       "url": "https://open.spotify.com/track/5BgeAX4HuZdcuCqmu4pIMM"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
-        "name": "Coti",
-        "url": "https://open.spotify.com/album/1msFprmU8cqzLu66TOX4rf"
-      },
-      "artists": [
-        {
-          "name": "Coti",
-          "url": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
-        }
-      ],
-      "duration_ms": 208200,
-      "name": "Nada Fue Un Error",
-      "url": "https://open.spotify.com/track/5QhOF5HXgZ0OFUZSE5kEv1"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -787,6 +787,22 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
+        "name": "El Paso Gigante",
+        "url": "https://open.spotify.com/album/1kJD3mYufavAaI1IZwrP3i"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "duration_ms": 265691,
+      "name": "Casi q' me pierdo",
+      "url": "https://open.spotify.com/track/0Nj3EM5QMCIdTbWM3wzJGR"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
         "name": "Abraz\u00e1ndonos",
         "url": "https://open.spotify.com/album/6GAf2ZKo1SZxJb8WiQSGzf"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 195431,
       "name": "Abraz\u00e1ndonos",
       "url": "https://open.spotify.com/track/22eWPYjQKppTSuiWgEhk9w"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
-        "name": "El Paso Gigante",
-        "url": "https://open.spotify.com/album/1kJD3mYufavAaI1IZwrP3i"
-      },
-      "artists": [
-        {
-          "name": "Los Cafres",
-          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
-        }
-      ],
-      "duration_ms": 265691,
-      "name": "Casi q' me pierdo",
-      "url": "https://open.spotify.com/track/0Nj3EM5QMCIdTbWM3wzJGR"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -979,26 +979,22 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "T\u00fa Me Dejaste De Querer",
-        "url": "https://open.spotify.com/album/7lRNtV18ZVeTYY2w5RhVf2"
+        "name": "Amor (Ft. Mon Laferte) (Mtv Unplugged)",
+        "url": "https://open.spotify.com/album/6CNdw6WvNlH86Y0h3rVQtw"
       },
       "artists": [
         {
-          "name": "C. Tangana",
-          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
         },
         {
-          "name": "Ni\u00f1o de Elche",
-          "url": "https://open.spotify.com/artist/5IbUz6BcOu6IVY512oxavP"
-        },
-        {
-          "name": "La H\u00fangara",
-          "url": "https://open.spotify.com/artist/7xtnpHS34mLlxGZDVUBHSU"
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 198499,
-      "name": "T\u00fa Me Dejaste De Querer",
-      "url": "https://open.spotify.com/track/0XinBYhf1X3kdvKQHOX971"
+      "duration_ms": 312442,
+      "name": "Amor (Ft. Mon Laferte) - Mtv Unplugged",
+      "url": "https://open.spotify.com/track/2fscHtYDKLd7xYRCTe3prP"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -1019,22 +1015,26 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Amor (Ft. Mon Laferte) (Mtv Unplugged)",
-        "url": "https://open.spotify.com/album/6CNdw6WvNlH86Y0h3rVQtw"
+        "name": "T\u00fa Me Dejaste De Querer",
+        "url": "https://open.spotify.com/album/7lRNtV18ZVeTYY2w5RhVf2"
       },
       "artists": [
         {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+          "name": "C. Tangana",
+          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
         },
         {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+          "name": "Ni\u00f1o de Elche",
+          "url": "https://open.spotify.com/artist/5IbUz6BcOu6IVY512oxavP"
+        },
+        {
+          "name": "La H\u00fangara",
+          "url": "https://open.spotify.com/artist/7xtnpHS34mLlxGZDVUBHSU"
         }
       ],
-      "duration_ms": 312442,
-      "name": "Amor (Ft. Mon Laferte) - Mtv Unplugged",
-      "url": "https://open.spotify.com/track/2fscHtYDKLd7xYRCTe3prP"
+      "duration_ms": 198499,
+      "name": "T\u00fa Me Dejaste De Querer",
+      "url": "https://open.spotify.com/track/0XinBYhf1X3kdvKQHOX971"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
+        "name": "Mismo Amor",
+        "url": "https://open.spotify.com/album/47TJKNoGstQmn8cITL9AQv"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 198558,
+      "name": "Mismo Amor",
+      "url": "https://open.spotify.com/track/1p1Nw0D1JJYbaLLuCY7PEw"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
         "name": "MTV Unplugged",
         "url": "https://open.spotify.com/album/3xB3SzIEkry77YmregfUHZ"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 231426,
       "name": "Sin Principio Ni Final",
       "url": "https://open.spotify.com/track/6ihwy1c6tsMC6AWANIrhH2"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
-        "name": "Mismo Amor",
-        "url": "https://open.spotify.com/album/47TJKNoGstQmn8cITL9AQv"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 198558,
-      "name": "Mismo Amor",
-      "url": "https://open.spotify.com/track/1p1Nw0D1JJYbaLLuCY7PEw"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "11",
-        "url": "https://open.spotify.com/album/5dpzYigmd97HcZOxWMpv9h"
-      },
-      "artists": [
-        {
-          "name": "Abel Pintos",
-          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
-        }
-      ],
-      "duration_ms": 221080,
-      "name": "Oncemil",
-      "url": "https://open.spotify.com/track/3y5ahYM9zwyOCt3mieZ0PZ"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
         "name": "Piano Bar",
         "url": "https://open.spotify.com/album/17utekM9a95MchXbkbh47k"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 169536,
       "name": "MIR\u00c1 MAM\u00c1",
       "url": "https://open.spotify.com/track/3d1wvsZjykpYZxbIPz91Ou"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
+        "name": "11",
+        "url": "https://open.spotify.com/album/5dpzYigmd97HcZOxWMpv9h"
+      },
+      "artists": [
+        {
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
+        }
+      ],
+      "duration_ms": 221080,
+      "name": "Oncemil",
+      "url": "https://open.spotify.com/track/3y5ahYM9zwyOCt3mieZ0PZ"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
+        "name": "La Argentinidad Al Palo",
+        "url": "https://open.spotify.com/album/2jc4dbkhewS896fajyR7hZ"
+      },
+      "artists": [
+        {
+          "name": "Bersuit Vergarabat",
+          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
+        }
+      ],
+      "duration_ms": 263933,
+      "name": "La Soledad",
+      "url": "https://open.spotify.com/track/56mbNpJVn5WQhOlsOvb2A0"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
         "name": "Qu\u00e9date",
         "url": "https://open.spotify.com/album/711RfL6UNIcE0yoFGJTRSO"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 195036,
       "name": "Qu\u00e9date",
       "url": "https://open.spotify.com/track/4qaZgDX8Yp9iwboMUZaQgu"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
-        "name": "La Argentinidad Al Palo",
-        "url": "https://open.spotify.com/album/2jc4dbkhewS896fajyR7hZ"
-      },
-      "artists": [
-        {
-          "name": "Bersuit Vergarabat",
-          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
-        }
-      ],
-      "duration_ms": 263933,
-      "name": "La Soledad",
-      "url": "https://open.spotify.com/track/56mbNpJVn5WQhOlsOvb2A0"
     }
   ],
   "unique_name": "Mates y M\u00fasica",

@@ -4,7 +4,7 @@
 
 > All eyes on you\. Cover: Bo Burnham
 
-164 songs - 9 hr 5 min - [published](https://open.spotify.com/playlist/04RUTcmGoLXt8vaCbdBnpU)
+165 songs - 9 hr 7 min - [published](https://open.spotify.com/playlist/04RUTcmGoLXt8vaCbdBnpU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,8 @@
 | [It's All Futile! It's All Pointless!](https://open.spotify.com/track/6letGsy9pQEAiVt0VLJIWg) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Pebble Brain](https://open.spotify.com/album/2d2QJv4OPOLS80tXaTCDsB) | 3:40 | 2022-06-14 | 2022-07-13 |
 | [kill myself](https://open.spotify.com/track/1ESEhyt5VAkioMnh4vnDHC) | [Tom O'Donovan](https://open.spotify.com/artist/06loAWIFFerpfkQdMI0moL) | [kill myself](https://open.spotify.com/album/2FOmTkLSZvr2xVf1hVmDVm) | 3:00 | 2022-07-13 | 2022-07-16 |
 | [La Seine \- Extrait de la bande originale un monstre à Paris](https://open.spotify.com/track/4B6XjmOWI55np7y4MUTXDu) | [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd), [\-M\-](https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6) | [Best Of & Variations](https://open.spotify.com/album/0wg9EB4O6kCJJJkrH25Vgh) | 2:47 | 2022-05-17 |  |
-| [Laputa](https://open.spotify.com/track/0TO7y9uCA3eEYp7g9NsuGL) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [D>E>A>T>H>M>E>T>A>L](https://open.spotify.com/album/7FWEOSHm38Sq7dybOA4w7D) | 2:43 | 2022-08-08 |  |
+| [Laputa](https://open.spotify.com/track/0TO7y9uCA3eEYp7g9NsuGL) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [D>E>A>T>H>M>E>T>A>L](https://open.spotify.com/album/7FWEOSHm38Sq7dybOA4w7D) | 2:43 | 2022-08-08 | 2022-09-16 |
+| [Laputa](https://open.spotify.com/track/2zYBRyHAy6dv1wb53JXFD7) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [D>E>A>T>H>M>E>T>A>L](https://open.spotify.com/album/2MASm01cgG0a0CgioQpe6Q) | 2:43 | 2022-09-14 |  |
 | [LEMONS \(with Cavetown\)](https://open.spotify.com/track/7hRgBIc6DHSAup9lH11VNZ) | [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [LEMONS \(with Cavetown\)](https://open.spotify.com/album/1MT5z1J27ERqGpyErAVeMc) | 3:52 | 2022-05-17 |  |
 | [Let You Break My Heart Again](https://open.spotify.com/track/3oX7VxSz6EHHnxKGUjk9sx) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [Philharmonia Orchestra](https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY) | [Let You Break My Heart Again](https://open.spotify.com/album/0UTQmhcsGE1eqCLTwvGAcR) | 4:29 | 2022-08-21 |  |
 | [Liberation](https://open.spotify.com/track/3I0PsB3pr6PPyesjPIXjA9) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk) | 3:06 | 2022-08-26 |  |

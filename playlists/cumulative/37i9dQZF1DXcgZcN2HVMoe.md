@@ -4,7 +4,7 @@
 
 > Grab your coffee and ease into the day with this light blend.
 
-649 songs - 1 day 14 hr 48 min - [published](https://open.spotify.com/playlist/7Fr5GUMZQ3Hygddnz1fMLN)
+650 songs - 1 day 14 hr 51 min - [published](https://open.spotify.com/playlist/7Fr5GUMZQ3Hygddnz1fMLN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -272,6 +272,7 @@
 | [Hurts a Little Less](https://open.spotify.com/track/117vf8xdn0geXyw6HX4sFl) | [PHOEBE AXA](https://open.spotify.com/artist/0bqSQqtFaTv208uFybOlPv) | [Hurts a Little Less](https://open.spotify.com/album/6qA1GVm3jHDbH06k0kFdVZ) | 3:30 | 2021-12-17 | 2022-07-28 |
 | [hurts like hell \- piano version](https://open.spotify.com/track/7ENUr3ToBfMe1ZlqgnzZCu) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [hurts like hell \- piano version](https://open.spotify.com/album/07t5OsVzJbuRC3SNJM3zTb) | 4:03 | 2022-01-24 | 2022-04-20 |
 | [I Burned LA Down](https://open.spotify.com/track/34Mg7rSCT7nRsf1kVCAvgz) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [I Burned LA Down](https://open.spotify.com/album/71EPoeTo5QAlsr2OWCRNhM) | 3:15 | 2022-04-08 | 2022-09-15 |
+| [I Burned LA Down](https://open.spotify.com/track/7HCk1IxbjrRcQEAiMxAAFl) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Every Beginning Ends](https://open.spotify.com/album/7pHo5Tov9GyzVnBLxPuHYB) | 3:15 | 2022-07-29 |  |
 | [I Can Change](https://open.spotify.com/track/0jCe45cYIc6NXedmbIKy0Q) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Free Yourself Up](https://open.spotify.com/album/1eWP4CbLwVsVuC44utXBOD) | 3:11 | 2022-07-22 |  |
 | [I Can Change](https://open.spotify.com/track/2uDnC30adouplySDz00DW2) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [I Can Change](https://open.spotify.com/album/1qmJxfBw5e2p2KgYjibOjB) | 3:11 | 2021-12-17 | 2022-07-29 |
 | [I Can't \(Acoustic\)](https://open.spotify.com/track/7jjeVkCrL7K9ej9Pxt76bb) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Supernova Acoustic](https://open.spotify.com/album/6osrioku931TjO8ybo7oGX) | 3:32 | 2021-12-17 | 2022-07-21 |
@@ -438,7 +439,7 @@
 | [Poolside](https://open.spotify.com/track/33GHxxJAD1IZl6vG8noCEC) | [Tommy Ashby](https://open.spotify.com/artist/7y1RS42LqlRYnpONXTjN3t), [Lydia Clowes](https://open.spotify.com/artist/4KNIAGw8aeV4ZgMxzjqkeH) | [Poolside](https://open.spotify.com/album/3nrknIIXtcxUUrpyG4jaXU) | 3:43 | 2021-12-17 | 2022-07-28 |
 | [Praying for Love](https://open.spotify.com/track/4KETfxD7dbHBR2z52z6vKl) | [Arlissa](https://open.spotify.com/artist/7wzaSKTsjE9HnuDuZTX452) | [Praying for Love](https://open.spotify.com/album/0GLHwOs7kfsOMaF5EDqG4L) | 3:02 | 2022-01-24 | 2022-04-20 |
 | [Pretty Places](https://open.spotify.com/track/465IQvyDIpnizvUbZ8ULyo) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Pretty Places](https://open.spotify.com/album/2AMNwptQJMPYkw5p3jjFVc) | 5:19 | 2021-12-17 | 2022-07-29 |
-| [Pretty Things](https://open.spotify.com/track/39xEaNKhJgBovrThCsz7pq) | [TFDI](https://open.spotify.com/artist/5yyewYEjlKM5SeTp8eJrif) | [TFDI](https://open.spotify.com/album/3qIuuJrNO2lZ2TfiGwkFnh) | 5:06 | 2021-12-17 |  |
+| [Pretty Things](https://open.spotify.com/track/39xEaNKhJgBovrThCsz7pq) | [TFDI](https://open.spotify.com/artist/5yyewYEjlKM5SeTp8eJrif) | [TFDI](https://open.spotify.com/album/3qIuuJrNO2lZ2TfiGwkFnh) | 5:06 | 2021-12-17 | 2022-09-16 |
 | [Problems](https://open.spotify.com/track/1x1MXE7vkT9MBnkvNW5ERG) | [Dylan Rockoff](https://open.spotify.com/artist/2L2hppNg0A5WfGJTChIJL5), [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj) | [Problems](https://open.spotify.com/album/6gBz3SCQWNdrDQ54iOMrYc) | 2:50 | 2022-01-24 | 2022-04-20 |
 | [Prodigal Daughter](https://open.spotify.com/track/6oNmOMYzjES85AH0EJ786u) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Prodigal Daughter](https://open.spotify.com/album/3UZahzjPGglQRjZQPaZEFZ) | 3:42 | 2021-12-17 | 2022-04-28 |
 | [Progress](https://open.spotify.com/track/0NyVaR4GLlYxazZKzOJpsP) | [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj) | [Progress](https://open.spotify.com/album/4ezLc0ncmWTAmCZpQGMPSC) | 3:55 | 2021-12-17 | 2022-06-12 |

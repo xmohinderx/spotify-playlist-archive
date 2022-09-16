@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  Brad & Rebekah
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,464 likes - 100 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,631 likes - 100 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 8 | [Wrong About You \(Live\)](https://open.spotify.com/track/0FKLNnBomURjpw6pKIvS3E) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E), [Joel Barnes](https://open.spotify.com/artist/4MD4O7k8p38cCdVrDkVR6I) | [Wrong About You \(Live\)](https://open.spotify.com/album/1GjVSBL8xIiQhXyhSe57CT) | 6:33 |
 | 9 | [Gratitude \- Live](https://open.spotify.com/track/2H4EuXmxJp29Sc19EnD9xP) | [Spring Harvest](https://open.spotify.com/artist/6okBvpENAfIe6u7n5bdFDK), [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [Gratitude \(Live\)](https://open.spotify.com/album/1voPEXBiUxLOuJNkJosiXl) | 6:16 |
 | 10 | [Yhwh](https://open.spotify.com/track/41s5OcEXOhiIOsCIJiljF8) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Yhwh](https://open.spotify.com/album/6CdOpHsJDR9B2EzgKTLI5a) | 9:43 |
-| 11 | [Grande e o Senhor / Great Are You Lord](https://open.spotify.com/track/1A8f0o5JjBBv0QqtbShkbO) | [REVERE](https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb), [Gabi Sampaio](https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ), [Robson Galvao](https://open.spotify.com/artist/0jhwwocdTkDe2F6KbeYyIJ) | [Grande e o Senhor / Great Are You Lord](https://open.spotify.com/album/4IeU1mHOp95Ulig2Ym3Zsd) | 9:03 |
+| 11 | [Grande é o Senhor / Great Are You Lord](https://open.spotify.com/track/1A8f0o5JjBBv0QqtbShkbO) | [REVERE](https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb), [Gabi Sampaio](https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ), [Robson Galvao](https://open.spotify.com/artist/0jhwwocdTkDe2F6KbeYyIJ) | [Grande é o Senhor / Great Are You Lord](https://open.spotify.com/album/4IeU1mHOp95Ulig2Ym3Zsd) | 9:03 |
 | 12 | [For a Thousand Years \- Live](https://open.spotify.com/track/2SwopxMnHoeeTd1gYjpV1J) | [Watermark Music](https://open.spotify.com/artist/64qvuVnYwi5s48SyPNxJxS), [Davy Flowers](https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU) | [For a Thousand Years \(Live\)](https://open.spotify.com/album/3sHpGal7Se8q8s9LuX5f2P) | 6:41 |
 | 13 | [Lay It All Down](https://open.spotify.com/track/6pk4msiL2Igg3KlRqMYwjo) | [Jesus Co.](https://open.spotify.com/artist/6Ll7sTNN0NeJHoB0bmCKZ1), [WorshipMob](https://open.spotify.com/artist/2gVSazqKUYYYS645CEhrcL) | [Lay It All Down](https://open.spotify.com/album/0NrENMCYUG5l6wAgYiGQxB) | 7:04 |
 | 14 | [Room In My Heart \- Live](https://open.spotify.com/track/0lAYTLhvqqHEoSwwNQHWoX) | [Gas Street Music](https://open.spotify.com/artist/5hj103snRZwlRwH2hzhgvG), [Zo Chilengwe](https://open.spotify.com/artist/20ecnCfTvktxgucxSilf5N) | [Room In My Heart \(Live\)](https://open.spotify.com/album/4pDAlIbOqFqT5M7F228qJ6) | 4:15 |

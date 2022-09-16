@@ -4,7 +4,7 @@
 
 > unwind with these alternative favorites.
 
-258 songs - 16 hr 12 min - [published](https://open.spotify.com/playlist/6Sz9PXGuNaiQlCoxe28vAO)
+259 songs - 16 hr 16 min - [published](https://open.spotify.com/playlist/6Sz9PXGuNaiQlCoxe28vAO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [DIVING BELL](https://open.spotify.com/track/0Gfac5uYHFk21q1gR59P0w) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa) | [DIVING BELL](https://open.spotify.com/album/1DHpkfJwdzPsfJqd5SpJsM) | 5:38 | 2019-08-30 | 2019-09-29 |
 | [Drag](https://open.spotify.com/track/0oXwUeFAE6IR2lYhaTpxRT) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Drag](https://open.spotify.com/album/4hn0zhFiaWgWgA5I9POoA2) | 3:09 | 2019-06-16\* | 2022-08-18 |
 | [Easier](https://open.spotify.com/track/3nATeGcFdtkhpUrRvgr667) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Easier](https://open.spotify.com/album/0teTj8UrrJJEnNMX3eoq4Z) | 4:32 | 2019-06-16\* | 2022-04-21 |
+| [Easier](https://open.spotify.com/track/59yTEzjOYeugvF9WKAvONs) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Shadowboxer](https://open.spotify.com/album/1lozs5nIWjppJZWFEnfGlV) | 4:32 | 2022-08-17 |  |
 | [Easier](https://open.spotify.com/track/6VfLQ8dYSnnY13DpDSMfuq) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Shadowboxer](https://open.spotify.com/album/4pZrPnENK2NSEaBBo6rr8q) | 4:32 | 2022-04-11 | 2022-09-15 |
 | [Electric Indigo](https://open.spotify.com/track/1erXDiGCnmUQvG6DZRqpuM) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [twelvefour](https://open.spotify.com/album/1f3jCFgt3cXyaPr854eQ2t) | 3:43 | 2022-04-11 |  |
 | [Electric Indigo](https://open.spotify.com/track/79xbBvSiL94cKEww2amEI4) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [twelvefour](https://open.spotify.com/album/3AniZv7AuYrMcbFuxZrny7) | 3:43 | 2019-06-16\* | 2022-07-29 |
@@ -240,7 +241,7 @@
 | [Too Young to Fall in Love](https://open.spotify.com/track/3wmtNax868lLyQPbBy36BP) | [OWEL](https://open.spotify.com/artist/3RrcX2SqUoy1et8LXNZv4S) | [Dear Me](https://open.spotify.com/album/0qklq3waVgaH4eNeO19ZQY) | 4:34 | 2019-06-16\* |  |
 | [Turn Your Love](https://open.spotify.com/track/2OE1yF5x0xDjjsC5CYArz2) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Sun Leads Me On](https://open.spotify.com/album/5JX80KwJlB847fFVrQxNPV) | 4:01 | 2022-04-11 |  |
 | [Turn Your Love](https://open.spotify.com/track/7soAS9Ksc9H6TdRSBlJlKV) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Sun Leads Me On](https://open.spotify.com/album/1bAXNvCKZQ7aB5m3d6rFa4) | 4:01 | 2019-06-16\* | 2022-07-29 |
-| [Until It Stops \- Spotify Singles](https://open.spotify.com/track/0dN85vbuUdU7Hnu0hLZHsN) | [Pom Pom Squad](https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs) | [Until It Stops \(Spotify Singles\)](https://open.spotify.com/album/6EmA1GZ0KIb5cpXBOrIB5y) | 2:36 | 2021-11-12 |  |
+| [Until It Stops \- Spotify Singles](https://open.spotify.com/track/0dN85vbuUdU7Hnu0hLZHsN) | [Pom Pom Squad](https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs) | [Until It Stops \(Spotify Singles\)](https://open.spotify.com/album/6EmA1GZ0KIb5cpXBOrIB5y) | 2:36 | 2021-11-12 | 2022-09-16 |
 | [Us & Them](https://open.spotify.com/track/7kV2X1k53MtgkLpz5PKDe6) | [Mona](https://open.spotify.com/artist/4AKwIU9B31J3L41DuJfFym) | [In the Middle](https://open.spotify.com/album/4oe0PSc8O6AOpUOkG4Qgt0) | 3:20 | 2019-06-16\* | 2022-04-21 |
 | [Vagabonds](https://open.spotify.com/track/1ZJmzYcbZtA3aLV1OzdLCu) | [Grizfolk](https://open.spotify.com/artist/6Xa4nbrSTfbioA4lLShbjh) | [From The Spark](https://open.spotify.com/album/5ml7RNREVYS6KUy0GyBjXU) | 3:18 | 2019-06-16\* | 2022-07-29 |
 | [Vagabonds](https://open.spotify.com/track/1kdSGyQyX0mxq75KSgcjic) | [Grizfolk](https://open.spotify.com/artist/6Xa4nbrSTfbioA4lLShbjh) | [Waking Up The Giants](https://open.spotify.com/album/6R6Xy2gwyTO6GS1Cs4K1cI) | 3:19 | 2022-04-11 |  |

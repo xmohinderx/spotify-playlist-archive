@@ -1,12 +1,12 @@
 {
   "description": "For all of us dancing on our own.",
-  "num_followers": 462451,
+  "num_followers": 462793,
   "original_name": "Sad Bops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5NjAwMCwwMDAwMDAwMDc0ZmQ2ZmQwNjQ4ZWE3ZjI0MDgyOTFkNTk2ZmU2NWJm",
+  "snapshot_id": "MTY2MjY5NjAwMCwwMDAwMDAwMDBhNzFiYjQ3OTM3YzBhNzkxODc0MjE3NGVkN2Q2NzE4",
   "tracks": [
     {
       "added_at": "2022-09-09 04:00:00",
@@ -707,6 +707,22 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
+        "name": "Sting",
+        "url": "https://open.spotify.com/album/7yzUIJZNrla6TdWmYiziuR"
+      },
+      "artists": [
+        {
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+        }
+      ],
+      "duration_ms": 187253,
+      "name": "Sting",
+      "url": "https://open.spotify.com/track/3CRLMDJygwt1KWMg1FASye"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
         "name": "Can't Do Better",
         "url": "https://open.spotify.com/album/4XovGKPffxorW8SRdo5Mwc"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 278200,
       "name": "Neon Moon - with Kacey Musgraves",
       "url": "https://open.spotify.com/track/3lVPtkNFoIyPPGVdNri4VH"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Sting",
-        "url": "https://open.spotify.com/album/7yzUIJZNrla6TdWmYiziuR"
-      },
-      "artists": [
-        {
-          "name": "FLETCHER",
-          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
-        }
-      ],
-      "duration_ms": 187253,
-      "name": "Sting",
-      "url": "https://open.spotify.com/track/3CRLMDJygwt1KWMg1FASye"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -839,22 +839,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Healing",
-        "url": "https://open.spotify.com/album/3sjbCpkd5bRaUuDMxKUy3s"
-      },
-      "artists": [
-        {
-          "name": "FLETCHER",
-          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
-        }
-      ],
-      "duration_ms": 187544,
-      "name": "Healing",
-      "url": "https://open.spotify.com/track/2jgq1RlYLt4FZldm4KAfj2"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "Only Human (Deluxe)",
         "url": "https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 222889,
       "name": "Dancing On My Own - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/2EHVjRFRSsXQaHAsys74Us"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Healing",
+        "url": "https://open.spotify.com/album/3sjbCpkd5bRaUuDMxKUy3s"
+      },
+      "artists": [
+        {
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+        }
+      ],
+      "duration_ms": 187544,
+      "name": "Healing",
+      "url": "https://open.spotify.com/track/2jgq1RlYLt4FZldm4KAfj2"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Vicious",
-        "url": "https://open.spotify.com/album/7p3M1cRTouWTpmBDhlEAKS"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 149890,
-      "name": "Vicious",
-      "url": "https://open.spotify.com/track/77Gyctcku69jSlSSYhZEkh"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "Cyclone",
         "url": "https://open.spotify.com/album/6Myyu3JPWPjy4W1ziaFUMy"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 216463,
       "name": "Cyclone",
       "url": "https://open.spotify.com/track/36SEfTZlBgmypZn0sgGroO"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Vicious",
+        "url": "https://open.spotify.com/album/7p3M1cRTouWTpmBDhlEAKS"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 149890,
+      "name": "Vicious",
+      "url": "https://open.spotify.com/track/77Gyctcku69jSlSSYhZEkh"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "star-crossed",
-        "url": "https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 167120,
-      "name": "simple times",
-      "url": "https://open.spotify.com/track/1lNEXDlxVhsWaq2DLBUDgC"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "Who's Gonna Love You Tonight (with Tinashe)",
         "url": "https://open.spotify.com/album/5qf98IBpRNpm0LjmR4T4eu"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 196535,
       "name": "Who's Gonna Love You Tonight (with Tinashe)",
       "url": "https://open.spotify.com/track/0HPJa3SJksQakwtOrJT7pj"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "star-crossed",
+        "url": "https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 167120,
+      "name": "simple times",
+      "url": "https://open.spotify.com/track/1lNEXDlxVhsWaq2DLBUDgC"
     },
     {
       "added_at": "2022-09-09 04:00:00",

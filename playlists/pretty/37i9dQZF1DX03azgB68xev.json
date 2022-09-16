@@ -1,12 +1,12 @@
 {
   "description": "Your music. Your faith. Your life. This is Pop for life!  Cover artist: The Young Escape",
-  "num_followers": 192843,
+  "num_followers": 192853,
   "original_name": "Pop for Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNTY0NTA2NSwwMDAwMDAwMDZjYWZjODA5MWQ1YzQzNDRiMzc1MGJmNWE5OTQ4ZGMz",
+  "snapshot_id": "MTYzNTY0NTA2NSwwMDAwMDAwMDU1YTA1MGRjZWUxNTNjNzFkZTI0MjlhOWE0ZDY2YTY5",
   "tracks": [
     {
       "added_at": "2021-10-31 01:51:05",
@@ -159,6 +159,22 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
+        "name": "Wake Up",
+        "url": "https://open.spotify.com/album/3OMCDx9TtoSUZTYwQ6MxBe"
+      },
+      "artists": [
+        {
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+        }
+      ],
+      "duration_ms": 237179,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/2K3XPhPtmPjlpjSdIXM5Gs"
+    },
+    {
+      "added_at": "2021-10-31 01:51:05",
+      "album": {
         "name": "Drown",
         "url": "https://open.spotify.com/album/7sJaNMp4i8eWmF0ZQAH7LJ"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 200330,
       "name": "Drown",
       "url": "https://open.spotify.com/track/5tLPWQUcUHvR8kRr8k33cl"
-    },
-    {
-      "added_at": "2021-10-31 01:51:05",
-      "album": {
-        "name": "Wake Up",
-        "url": "https://open.spotify.com/album/3OMCDx9TtoSUZTYwQ6MxBe"
-      },
-      "artists": [
-        {
-          "name": "Terrian",
-          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
-        }
-      ],
-      "duration_ms": 237179,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/2K3XPhPtmPjlpjSdIXM5Gs"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -815,22 +815,18 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "Fight My Fight For Me",
-        "url": "https://open.spotify.com/album/42phU77ePK7NmZpxSNhHyB"
+        "name": "Just Like Heaven",
+        "url": "https://open.spotify.com/album/1ZQderlUe4quEPiuuZqADk"
       },
       "artists": [
         {
-          "name": "Citizen Way",
-          "url": "https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4"
-        },
-        {
-          "name": "Trampolines",
-          "url": "https://open.spotify.com/artist/6aldh6681sMUSZe2CETBh2"
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
         }
       ],
-      "duration_ms": 161323,
-      "name": "Fight My Fight For Me",
-      "url": "https://open.spotify.com/track/6hGSFl1H2bR0wANwxKG3mS"
+      "duration_ms": 336572,
+      "name": "Just Like Heaven",
+      "url": "https://open.spotify.com/track/79C3lXRjQvLCSPHeTfy52k"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -875,22 +871,6 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "Just Like Heaven",
-        "url": "https://open.spotify.com/album/1ZQderlUe4quEPiuuZqADk"
-      },
-      "artists": [
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        }
-      ],
-      "duration_ms": 336572,
-      "name": "Just Like Heaven",
-      "url": "https://open.spotify.com/track/79C3lXRjQvLCSPHeTfy52k"
-    },
-    {
-      "added_at": "2021-10-31 01:51:05",
-      "album": {
         "name": "Need",
         "url": "https://open.spotify.com/album/4LvD9dnrTbni49Os2ibSPR"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 202661,
       "name": "Need",
       "url": "https://open.spotify.com/track/2RfgkRJsO6BllEhl2d9C6s"
+    },
+    {
+      "added_at": "2021-10-31 01:51:05",
+      "album": {
+        "name": "Fight My Fight For Me",
+        "url": "https://open.spotify.com/album/42phU77ePK7NmZpxSNhHyB"
+      },
+      "artists": [
+        {
+          "name": "Citizen Way",
+          "url": "https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4"
+        },
+        {
+          "name": "Trampolines",
+          "url": "https://open.spotify.com/artist/6aldh6681sMUSZe2CETBh2"
+        }
+      ],
+      "duration_ms": 161323,
+      "name": "Fight My Fight For Me",
+      "url": "https://open.spotify.com/track/6hGSFl1H2bR0wANwxKG3mS"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "When You Speak",
-        "url": "https://open.spotify.com/album/4rHimJnaeT1UUWiSPq2kwy"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Camp",
-          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
-        }
-      ],
-      "duration_ms": 179173,
-      "name": "When You Speak",
-      "url": "https://open.spotify.com/track/4K1pUPcKmm4hTfm23iJxhU"
-    },
-    {
-      "added_at": "2021-10-31 01:51:05",
-      "album": {
         "name": "L.H.U.Y (LET HIM USE YA)",
         "url": "https://open.spotify.com/album/6g6qBfEOlmHFEE2hVJgDfy"
       },
@@ -1055,22 +1039,18 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "Eyes Only for You",
-        "url": "https://open.spotify.com/album/3WnkjmXut8WYqVb6dPcPRH"
+        "name": "When You Speak",
+        "url": "https://open.spotify.com/album/4rHimJnaeT1UUWiSPq2kwy"
       },
       "artists": [
         {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        },
-        {
-          "name": "Ecclesia",
-          "url": "https://open.spotify.com/artist/6yuXGldP2yeZ8GFNrZdlSC"
+          "name": "Jeremy Camp",
+          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
         }
       ],
-      "duration_ms": 212250,
-      "name": "Eyes Only for You",
-      "url": "https://open.spotify.com/track/7JWFNEhVS1IZzZK6JBkITN"
+      "duration_ms": 179173,
+      "name": "When You Speak",
+      "url": "https://open.spotify.com/track/4K1pUPcKmm4hTfm23iJxhU"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -1103,6 +1083,26 @@
       "duration_ms": 188473,
       "name": "Stages",
       "url": "https://open.spotify.com/track/2TSTDPh5i5MySwgmdJgxD4"
+    },
+    {
+      "added_at": "2021-10-31 01:51:05",
+      "album": {
+        "name": "Eyes Only for You",
+        "url": "https://open.spotify.com/album/3WnkjmXut8WYqVb6dPcPRH"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        },
+        {
+          "name": "Ecclesia",
+          "url": "https://open.spotify.com/artist/6yuXGldP2yeZ8GFNrZdlSC"
+        }
+      ],
+      "duration_ms": 212250,
+      "name": "Eyes Only for You",
+      "url": "https://open.spotify.com/track/7JWFNEhVS1IZzZK6JBkITN"
     },
     {
       "added_at": "2021-10-31 01:51:05",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxwmBaMqxsl.md) - [plain]
 
 > Sad and gloomy Jazz for a rainy day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,402 likes - 161 songs - 10 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,526 likes - 161 songs - 10 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -170,4 +170,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxwmBaMqxsl.md) - [plain]
 | 160 | [Prelude to a Kiss](https://open.spotify.com/track/4WTKq8cF5bZJNlvZyKVff8) | [Brendan Maynard + 2](https://open.spotify.com/artist/28j2IaYoLNPDEr3ogCZ4tM) | [Giant Steps](https://open.spotify.com/album/2m5RKUit8PUNE6QPcmA7sI) | 4:24 |
 | 161 | [I Get Along Without You Very Well \(Except Sometimes\)](https://open.spotify.com/track/6XZCXx5dOgq7pOJxjVdYAr) | [Alexis Cohen](https://open.spotify.com/artist/6oEEfYQspfp3tgt5X20ok1) | [It Might as Well Be Spring](https://open.spotify.com/album/5QhyU13nEI1rWgjXfuQEmW) | 3:33 |
 
-Snapshot ID: `MTY2MzA1ODc4OSwwMDAwMDAwMDVmMjQyMDQ1NWYxYjgwMjM4MThmMmI0NmIwMDg3ODcx`
+Snapshot ID: `MTY2MzI1MDk1NSwwMDAwMDAwMDRhY2U2OGJjNDNkMjYzNGVkN2M0OTdkM2M5NDdhYTdj`

@@ -4,13 +4,13 @@
 
 > the perfect fight scene
 
-129 songs - 5 hr 54 min - [published](https://open.spotify.com/playlist/0PIQ3YDGdAmBdhFTNGvmEh)
+130 songs - 5 hr 57 min - [published](https://open.spotify.com/playlist/0PIQ3YDGdAmBdhFTNGvmEh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2K FREESTYLE](https://open.spotify.com/track/612dHPI0OoOsvWkweHXZXF) | [Lazy3x](https://open.spotify.com/artist/02wrovsROEQpMXNTxk8uHI), [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U) | [2K FREESTYLE](https://open.spotify.com/album/0LvjRRFJxjZpzlJ8QOwwhm) | 3:33 | 2022-05-25 |  |
 | [90mh](https://open.spotify.com/track/3Njj92H4LXQq551pOR7vZE) | [love shayla](https://open.spotify.com/artist/0SLChsZNfgO7zbH3gevHvE) | [90mh](https://open.spotify.com/album/5QehQyl95YcyakJAjvOdw2) | 2:23 | 2022-08-05 | 2022-09-09 |
-| [90mh](https://open.spotify.com/track/1VxvGm1moDJ3svQlwjdBwA) | [Trefuego](https://open.spotify.com/artist/4HQfNWcXe8k5dlMHx4QrTP) | [90mh](https://open.spotify.com/album/7FwOvQz127KJx1S2bYkrJc) | 2:23 | 2022-06-10 |  |
+| [90mh](https://open.spotify.com/track/1VxvGm1moDJ3svQlwjdBwA) | [Trefuego](https://open.spotify.com/artist/4HQfNWcXe8k5dlMHx4QrTP) | [90mh](https://open.spotify.com/album/7FwOvQz127KJx1S2bYkrJc) | 2:23 | 2022-06-10 | 2022-09-16 |
 | [99.9](https://open.spotify.com/track/4cHqWNDNrgCu6PbUZcgUxP) | [MOB CHOIR](https://open.spotify.com/artist/5HZsYhRCMH3zR0yndRcLVw), [sajou no hana](https://open.spotify.com/artist/014bW80BPmy5WVcFBoHwNq) | [99.9](https://open.spotify.com/album/5sjhfZ28ERosz4yEraPQ8V) | 3:08 | 2022-09-02 | 2022-09-15 |
 | [A Cruel Angel's Thesis \(Director's Edit Version\)](https://open.spotify.com/track/3x4378ztiLvFmm2nuzEI0C) | [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [Neon Genesis Evangelion \(Original Series Soundtrack\)](https://open.spotify.com/album/4vwgTxjKwiSWfEoGOqhiWa) | 4:05 | 2022-07-08 |  |
 | [After Hours](https://open.spotify.com/track/2e2ZQeXucqSEI00D8smDqP) | [Hentai Dude](https://open.spotify.com/artist/1NAa2BVvxNafOX5E931u6y), [Rose](https://open.spotify.com/artist/0JBkZYv8w26lfCbZqIpRh7) | [After Hours](https://open.spotify.com/album/44Wgx84JIJMi9RKyS0VPMl) | 2:54 | 2022-05-25 | 2022-07-29 |
@@ -110,6 +110,7 @@
 | [STAND PROUD](https://open.spotify.com/track/3OqPSJsqe4LvcaVl7G6vV3) | [Jin Hashimoto](https://open.spotify.com/artist/01djLeQ0nZvRhEPjn5Wdw0) | [STAND PROUD](https://open.spotify.com/album/4p5qdQrjYGuVwakXJ1hB4k) | 4:38 | 2022-07-08 | 2022-08-06 |
 | [Stay With Me](https://open.spotify.com/track/2WYs5LxOZfEyURXu7V0O1a) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [Stay With Me](https://open.spotify.com/album/5TPtlK0RBgPloK3Robfiyp) | 2:21 | 2022-05-25 |  |
 | [Still Cold / Pathway Private](https://open.spotify.com/track/4aXit1CKxL80R1qruHns8h) | [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [Red Teenage Melody](https://open.spotify.com/album/2WMe3Dqlc68URVRn7A3pm5) | 4:31 | 2022-08-05 |  |
+| [Talk](https://open.spotify.com/track/0oO1AbL92F6329z13C2qQH) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Lyfë](https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu) | 2:54 | 2022-09-15 |  |
 | [THE DAY](https://open.spotify.com/track/1tjOClAkdMxDfYPO0xvGbG) | [PornoGraffitti](https://open.spotify.com/artist/5jQa0f5MIMPEK7udL7UpI6) | [Butterfly Effect](https://open.spotify.com/album/01X3RZ75rwi431u8hB34eK) | 4:01 | 2022-07-08 | 2022-09-03 |
 | [The Law of Recognition](https://open.spotify.com/track/4DPYOF6Tvptit1xDUbOo8o) | [KYSLINGO](https://open.spotify.com/artist/2JdZlNYqYJ8xY0a5nFlXdO) | [The Law of Recognition](https://open.spotify.com/album/6ZvIedykZIKjNhYoPxozOB) | 2:09 | 2022-06-10 |  |
 | [The Rumbling](https://open.spotify.com/track/6k0X05danQOXSBTVek5DU1) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [The Rumbling](https://open.spotify.com/album/0YK5JsSCN2Z8g1ejHuBqeg) | 3:40 | 2022-05-25 |  |

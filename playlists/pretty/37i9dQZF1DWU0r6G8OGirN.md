@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0r6G8OGirN.md) - [plain]
 
 > Warm instrumental versions of your favorite Christmas songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,491 likes - 53 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,595 likes - 53 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0r6G8OGirN.md) - [plain]
 | 52 | [Oh Christmas Tree](https://open.spotify.com/track/2pYXmds8IjEUvg1hFVYygg) | [Holly Humphries](https://open.spotify.com/artist/1LEm1FrOUeY0mc4QSANWCv) | [Blue Christmas](https://open.spotify.com/album/2OTob7u7QIBN14LmOckwvc) | 2:53 |
 | 53 | [A Christmas Love Song](https://open.spotify.com/track/1rkIIRDsTaaAShnlE3qxyD) | [Lori Mechem](https://open.spotify.com/artist/4iOaiUFARBMbAKFW1AHeI4) | [Christmas Jazz 2](https://open.spotify.com/album/28uj6wDrwR9YLC4DPYjrT2) | 3:48 |
 
-Snapshot ID: `MTY2MzA2OTQxMCwwMDAwMDAwMDk5NWYzMWI1YmU0OGM4ZjAzMjkwOTYxNzhlZDIzYjQy`
+Snapshot ID: `MTY2MzI1MzA5NywwMDAwMDAwMDQwNWMzNjI3NjQ1MjZjYTcyZWM0M2Q0NmNkM2Q0ZDA3`

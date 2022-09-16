@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7UE7qrnkvsf.md) - [plain]
 
 > Jazz that captures the essence of autumn.
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,407 likes - 144 songs - 9 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,701 likes - 144 songs - 9 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -153,4 +153,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7UE7qrnkvsf.md) - [plain]
 | 143 | [Rainy Mix](https://open.spotify.com/track/2lCpVqpPOJQ30mstKPHBqj) | [Eltingvilles](https://open.spotify.com/artist/7qYYtUCPSVXspwRs4wiQ9R) | [Rainy Mix](https://open.spotify.com/album/35cS4jrVD80N8kb8WspUqV) | 4:37 |
 | 144 | [Blue in Green](https://open.spotify.com/track/36cspwQPiIL9ElURDU7bGX) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [Blue in Green](https://open.spotify.com/album/1gFhq2ad0vX0D3MyxG3Kqq) | 3:49 |
 
-Snapshot ID: `MTY2MzA2OTE0NywwMDAwMDAwMDc2ZWEzNDhlYzc1NzE5MDI4ZWJhNzE2ZmMxMjM3ZDI2`
+Snapshot ID: `MTY2MzI1MDUwOCwwMDAwMDAwMGI3NWNlZDM0YzJmNmFjNjU4YmNiNmU3MDk3YjU4YzZk`

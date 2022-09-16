@@ -1,12 +1,12 @@
 {
   "description": "No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo.",
-  "num_followers": 188881,
+  "num_followers": 189187,
   "original_name": "Louvando no Tr\u00e2nsito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5MjQwMCwwMDAwMDAwMDgzYmU0YmIwZWYzODhlMDE5MWRlZDZmOTAxOTU2MDA5",
+  "snapshot_id": "MTY2MjY5MjQwMCwwMDAwMDAwMGI5NmE5YWNjODQwOGRhMmQxMTQxYWE5ZDJmMjc1NWRh",
   "tracks": [
     {
       "added_at": "2022-09-09 03:00:00",
@@ -415,22 +415,6 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "10,000 Reasons (Live)",
-        "url": "https://open.spotify.com/album/0av22wHGgPZRC0BkGrnVVJ"
-      },
-      "artists": [
-        {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
-        }
-      ],
-      "duration_ms": 342493,
-      "name": "10,000 Reasons (Bless The Lord) - Live",
-      "url": "https://open.spotify.com/track/0fxpHpK3aw2nFWII6yveDD"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
         "name": "Eu Creio (Believe For It)",
         "url": "https://open.spotify.com/album/7arXmK6JfnriihjvrxW5vG"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 383184,
       "name": "Eu Creio (Believe For It)",
       "url": "https://open.spotify.com/track/0KYF47E8xIrKfUnlZOAXJF"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
+        "name": "10,000 Reasons (Live)",
+        "url": "https://open.spotify.com/album/0av22wHGgPZRC0BkGrnVVJ"
+      },
+      "artists": [
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        }
+      ],
+      "duration_ms": 342493,
+      "name": "10,000 Reasons (Bless The Lord) - Live",
+      "url": "https://open.spotify.com/track/0fxpHpK3aw2nFWII6yveDD"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -535,22 +535,6 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Burn The Ships",
-        "url": "https://open.spotify.com/album/5eDLHSsctG7CccVeYSTLeh"
-      },
-      "artists": [
-        {
-          "name": "for KING & COUNTRY",
-          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
-        }
-      ],
-      "duration_ms": 229760,
-      "name": "God Only Knows",
-      "url": "https://open.spotify.com/track/4ElNxglBjcrASiGn58t9Jm"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
         "name": "Os Sonhos de Deus",
         "url": "https://open.spotify.com/album/5ZbKlJh2vqfhBQobdZT07b"
       },
@@ -567,34 +551,18 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Ele N\u00e3o Desiste de Voc\u00ea",
-        "url": "https://open.spotify.com/album/66e3vt8NHTng82HAKQJxGW"
+        "name": "Burn The Ships",
+        "url": "https://open.spotify.com/album/5eDLHSsctG7CccVeYSTLeh"
       },
       "artists": [
         {
-          "name": "Marquinhos Gomes",
-          "url": "https://open.spotify.com/artist/2llyl9OO3itnyIvJcIEaeP"
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
         }
       ],
-      "duration_ms": 290763,
-      "name": "Ele N\u00e3o Desiste de Voc\u00ea",
-      "url": "https://open.spotify.com/track/344vyXHCBYXPGV4jO8Jo8X"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
-        "name": "De Dentro Pra Fora",
-        "url": "https://open.spotify.com/album/6zHmlmkq4W4DFuyXitpgLI"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 307213,
-      "name": "De Dentro Pra Fora",
-      "url": "https://open.spotify.com/track/56tz4dLbydeQGTcWs7nMHa"
+      "duration_ms": 229760,
+      "name": "God Only Knows",
+      "url": "https://open.spotify.com/track/4ElNxglBjcrASiGn58t9Jm"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -619,6 +587,38 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
+        "name": "De Dentro Pra Fora",
+        "url": "https://open.spotify.com/album/6zHmlmkq4W4DFuyXitpgLI"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 307213,
+      "name": "De Dentro Pra Fora",
+      "url": "https://open.spotify.com/track/56tz4dLbydeQGTcWs7nMHa"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
+        "name": "Ele N\u00e3o Desiste de Voc\u00ea",
+        "url": "https://open.spotify.com/album/66e3vt8NHTng82HAKQJxGW"
+      },
+      "artists": [
+        {
+          "name": "Marquinhos Gomes",
+          "url": "https://open.spotify.com/artist/2llyl9OO3itnyIvJcIEaeP"
+        }
+      ],
+      "duration_ms": 290763,
+      "name": "Ele N\u00e3o Desiste de Voc\u00ea",
+      "url": "https://open.spotify.com/track/344vyXHCBYXPGV4jO8Jo8X"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
         "name": "Girassol",
         "url": "https://open.spotify.com/album/3NpsEXK612BTwLLIFQECxO"
       },
@@ -639,22 +639,6 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Bright Faith Bold Future",
-        "url": "https://open.spotify.com/album/4jrX2w9Y3shbQNVhT43jbj"
-      },
-      "artists": [
-        {
-          "name": "Vertical Worship",
-          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
-        }
-      ],
-      "duration_ms": 234731,
-      "name": "Yes I Will",
-      "url": "https://open.spotify.com/track/1sF4VadVaVTvp9WTEy79JT"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
         "name": "Raridade",
         "url": "https://open.spotify.com/album/1PqKeJJ5C79S4FfLvvFJtc"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 297726,
       "name": "Raridade",
       "url": "https://open.spotify.com/track/3Gam4UbOwnwQQQKuItui39"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
+        "name": "Bright Faith Bold Future",
+        "url": "https://open.spotify.com/album/4jrX2w9Y3shbQNVhT43jbj"
+      },
+      "artists": [
+        {
+          "name": "Vertical Worship",
+          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
+        }
+      ],
+      "duration_ms": 234731,
+      "name": "Yes I Will",
+      "url": "https://open.spotify.com/track/1sF4VadVaVTvp9WTEy79JT"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "And If Our God Is For Us...",
-        "url": "https://open.spotify.com/album/2xwFfH8fO1MRmWZbNKZVqt"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 285160,
-      "name": "Our God",
-      "url": "https://open.spotify.com/track/40lKptao1hxVqA7fd1OOGp"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
         "name": "Momentos",
         "url": "https://open.spotify.com/album/7MRDs01RHDgPcEq4PbLQLX"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 522461,
       "name": "Yeshua",
       "url": "https://open.spotify.com/track/7mwHk3vhKoVuzJxPFCjoRY"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
+        "name": "And If Our God Is For Us...",
+        "url": "https://open.spotify.com/album/2xwFfH8fO1MRmWZbNKZVqt"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 285160,
+      "name": "Our God",
+      "url": "https://open.spotify.com/track/40lKptao1hxVqA7fd1OOGp"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Glory & Wonder",
-        "url": "https://open.spotify.com/album/3jUPCgNSi7C875PNjsbUTU"
-      },
-      "artists": [
-        {
-          "name": "Mosaic MSC",
-          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
-        }
-      ],
-      "duration_ms": 309093,
-      "name": "Tremble - Live",
-      "url": "https://open.spotify.com/track/35GACeX8Zl55jp29xFbvvo"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
         "name": "Raise a Hallelujah (Studio Version)",
         "url": "https://open.spotify.com/album/2lvpEuRkSNanccXya3JLG7"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 244040,
       "name": "Raise a Hallelujah (Studio Version)",
       "url": "https://open.spotify.com/track/4LnHfZGEitmIVS17wndaUI"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
+        "name": "Glory & Wonder",
+        "url": "https://open.spotify.com/album/3jUPCgNSi7C875PNjsbUTU"
+      },
+      "artists": [
+        {
+          "name": "Mosaic MSC",
+          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
+        }
+      ],
+      "duration_ms": 309093,
+      "name": "Tremble - Live",
+      "url": "https://open.spotify.com/track/35GACeX8Zl55jp29xFbvvo"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -1315,22 +1315,18 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Worthy Of Your Name (Live)",
-        "url": "https://open.spotify.com/album/3rUt1I70rJMfDWpbLwi7sK"
+        "name": "Advogado Fiel",
+        "url": "https://open.spotify.com/album/2U25l1MfwYJX3jNJBROiri"
       },
       "artists": [
         {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         }
       ],
-      "duration_ms": 298520,
-      "name": "Glorious Day - Live",
-      "url": "https://open.spotify.com/track/3QhL4eWBVv64IycG3i9XTb"
+      "duration_ms": 288995,
+      "name": "Sou Humano",
+      "url": "https://open.spotify.com/track/7HRyi2scNjqDmGDhwqj9Bp"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -1351,18 +1347,22 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Advogado Fiel",
-        "url": "https://open.spotify.com/album/2U25l1MfwYJX3jNJBROiri"
+        "name": "Worthy Of Your Name (Live)",
+        "url": "https://open.spotify.com/album/3rUt1I70rJMfDWpbLwi7sK"
       },
       "artists": [
         {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
         }
       ],
-      "duration_ms": 288995,
-      "name": "Sou Humano",
-      "url": "https://open.spotify.com/track/7HRyi2scNjqDmGDhwqj9Bp"
+      "duration_ms": 298520,
+      "name": "Glorious Day - Live",
+      "url": "https://open.spotify.com/track/3QhL4eWBVv64IycG3i9XTb"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Deus Emanuel",
-        "url": "https://open.spotify.com/album/5yZ3LemPIfc59PbOqv0Gq4"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Gomes",
-          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
-        }
-      ],
-      "duration_ms": 316521,
-      "name": "Deus Emanuel",
-      "url": "https://open.spotify.com/track/03SWHCfQMEKBcTd6E6jvgP"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
         "name": "Filho (Ao Vivo)",
         "url": "https://open.spotify.com/album/33Unmm1Eo3g5QEVIZQXVUn"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 197046,
       "name": "Sparrows",
       "url": "https://open.spotify.com/track/6okuhsKrNfoxY4FdJpClgy"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
+        "name": "Deus Emanuel",
+        "url": "https://open.spotify.com/album/5yZ3LemPIfc59PbOqv0Gq4"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Gomes",
+          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
+        }
+      ],
+      "duration_ms": 316521,
+      "name": "Deus Emanuel",
+      "url": "https://open.spotify.com/track/03SWHCfQMEKBcTd6E6jvgP"
     },
     {
       "added_at": "2022-09-09 03:00:00",

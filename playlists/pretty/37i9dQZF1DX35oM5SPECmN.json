@@ -1,12 +1,12 @@
 {
   "description": "Uplifting and uptempo indie folk and roots rock, guaranteed to open your stride.",
-  "num_followers": 2428799,
+  "num_followers": 2428713,
   "original_name": "Run Wild",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODc1MTUzMSwwMDAwMDAwMGI3NjZjNDRmODBlNjVlNjBiNGUyMDFjYTM4NWE2OThl",
+  "snapshot_id": "MTY0ODc1MTUzMSwwMDAwMDAwMGUwZmVjYzVkNDhiNjdhN2JiODkwNDhiM2FhNDhmOGNi",
   "tracks": [
     {
       "added_at": "2021-10-01 04:01:00",
@@ -339,22 +339,6 @@
     {
       "added_at": "2021-10-01 04:01:00",
       "album": {
-        "name": "WE ARE",
-        "url": "https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE"
-      },
-      "artists": [
-        {
-          "name": "Jon Batiste",
-          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
-        }
-      ],
-      "duration_ms": 157133,
-      "name": "I NEED YOU",
-      "url": "https://open.spotify.com/track/0RDUnNaGubiseI1W9T3YTf"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
         "name": "Snow",
         "url": "https://open.spotify.com/album/4egQIHw55CVeZ9BlS3fEoL"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 273560,
       "name": "Chateau",
       "url": "https://open.spotify.com/track/48mqfE8RHAaxVWSr3aSOjD"
+    },
+    {
+      "added_at": "2021-10-01 04:01:00",
+      "album": {
+        "name": "WE ARE",
+        "url": "https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "duration_ms": 157133,
+      "name": "I NEED YOU",
+      "url": "https://open.spotify.com/track/0RDUnNaGubiseI1W9T3YTf"
     },
     {
       "added_at": "2021-10-01 04:01:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2021-10-01 04:01:00",
       "album": {
-        "name": "Good For You",
-        "url": "https://open.spotify.com/album/7pDkPWgwrc2weqXdL0ID6m"
-      },
-      "artists": [
-        {
-          "name": "Houndmouth",
-          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
-        }
-      ],
-      "duration_ms": 222680,
-      "name": "Las Vegas",
-      "url": "https://open.spotify.com/track/6dnrxlk3s3we2lqMvckukJ"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
         "name": "Obviously",
         "url": "https://open.spotify.com/album/2Zi7uv234eNZJfLPGUIkSD"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 214150,
       "name": "Making Do",
       "url": "https://open.spotify.com/track/1ID7FIrnDFtAoRebVRBhlO"
+    },
+    {
+      "added_at": "2021-10-01 04:01:00",
+      "album": {
+        "name": "Good For You",
+        "url": "https://open.spotify.com/album/7pDkPWgwrc2weqXdL0ID6m"
+      },
+      "artists": [
+        {
+          "name": "Houndmouth",
+          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
+        }
+      ],
+      "duration_ms": 222680,
+      "name": "Las Vegas",
+      "url": "https://open.spotify.com/track/6dnrxlk3s3we2lqMvckukJ"
     },
     {
       "added_at": "2021-10-01 04:01:00",

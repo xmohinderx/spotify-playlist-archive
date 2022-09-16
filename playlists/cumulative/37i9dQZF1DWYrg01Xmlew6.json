@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Il meglio da Napoli e dalla scena campana. Cover: Yung Snapp",
+  "description": "Il meglio da Napoli e dalla scena campana. Cover: Geolier, Luch\u00e8",
   "name": "Int 'o Rione",
   "published_playlist_ids": [
     "24YJoDhwO3164C86soW14C"
@@ -288,6 +288,28 @@
     },
     {
       "album": {
+        "name": "Chanel",
+        "url": "https://open.spotify.com/album/69WeTXYxLFMrOKrCgYqTlR"
+      },
+      "artists": [
+        {
+          "name": "Peppe Soks",
+          "url": "https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT"
+        },
+        {
+          "name": "Nathys",
+          "url": "https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186988,
+      "name": "Chanel",
+      "url": "https://open.spotify.com/track/7pDIFkymxnMAGzCdvICFb3"
+    },
+    {
+      "album": {
         "name": "Che Stai Dicenn (feat. Paky)",
         "url": "https://open.spotify.com/album/0cUj7puIeZuZwomUGrJkAY"
       },
@@ -438,6 +460,32 @@
     },
     {
       "album": {
+        "name": "Botox",
+        "url": "https://open.spotify.com/album/1CjtjrWyjx2eT5OejciTVr"
+      },
+      "artists": [
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        },
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "anice",
+          "url": "https://open.spotify.com/artist/0Sf5IqezdIhXjKogXm0Nad"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183532,
+      "name": "Dedication (con Geolier & anice)",
+      "url": "https://open.spotify.com/track/24xrkSLeA7Y6Ypb4ZSXwJ2"
+    },
+    {
+      "album": {
         "name": "Black Pulcinella",
         "url": "https://open.spotify.com/album/44BqX1Kc6bSgUb3SvWF0k6"
       },
@@ -453,7 +501,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 192146,
       "name": "Desaparecidos (feat. Geolier)",
       "url": "https://open.spotify.com/track/1kcwsO1ptrEMXsHtcIGPjI"
@@ -475,7 +523,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 143641,
       "name": "DIOSA (feat. Peppe Soks) - Remix",
       "url": "https://open.spotify.com/track/0ehq7roFoMrq58lI4Rdnys"
@@ -597,7 +645,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 151980,
       "name": "EMIRATES",
       "url": "https://open.spotify.com/track/3xncdlgBxm4jnDHUA6nUyD"
@@ -623,6 +671,32 @@
       "duration_ms": 204735,
       "name": "Emirates (feat. Rocco Hunt)",
       "url": "https://open.spotify.com/track/0qDJ4qOa1xisB7oMmJhD2n"
+    },
+    {
+      "album": {
+        "name": "Botox",
+        "url": "https://open.spotify.com/album/1CjtjrWyjx2eT5OejciTVr"
+      },
+      "artists": [
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        },
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177504,
+      "name": "Fake (con Geolier & Luch\u00e8)",
+      "url": "https://open.spotify.com/track/0xKBCd6EttVyRv1Sdgo9PX"
     },
     {
       "album": {
@@ -1165,7 +1239,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 227005,
       "name": "No Love (feat. CoCo)",
       "url": "https://open.spotify.com/track/04UJuGMKBimBWXdpL93dDd"
@@ -1709,6 +1783,24 @@
       "duration_ms": 188469,
       "name": "RUN",
       "url": "https://open.spotify.com/track/4b5wNTRKC0DhtvTFjohhBK"
+    },
+    {
+      "album": {
+        "name": "Skyline",
+        "url": "https://open.spotify.com/album/7a33VKOjd8l4uSyci8lsEl"
+      },
+      "artists": [
+        {
+          "name": "Moderup",
+          "url": "https://open.spotify.com/artist/0EE0rv2NG4drYTTQrT0saQ"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137475,
+      "name": "Skyline",
+      "url": "https://open.spotify.com/track/6h3Ygm8pThn9j2UYNfNuq6"
     },
     {
       "album": {

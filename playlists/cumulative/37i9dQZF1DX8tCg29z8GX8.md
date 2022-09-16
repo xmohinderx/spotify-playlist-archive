@@ -4,7 +4,7 @@
 
 > Beat the traffic blues with these killer tunes.
 
-106 songs - 5 hr 27 min - [published](https://open.spotify.com/playlist/58LDkLtnAZW2SWAYqFauit)
+107 songs - 5 hr 32 min - [published](https://open.spotify.com/playlist/58LDkLtnAZW2SWAYqFauit)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [i'm a mess](https://open.spotify.com/track/65v99AWZyNz3aRmfrT2I7N) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 2:33 | 2022-07-14 |  |
 | [Jane](https://open.spotify.com/track/7hyx7lEMBsMHgSYVNCDW2y) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Jane](https://open.spotify.com/album/7kjDusgZHn05WZuo2Xlww0) | 3:22 | 2022-08-25 |  |
 | [Je M'appelle \(feat\. DaVido\)](https://open.spotify.com/track/45JfxtSUnkb9e4r0MBYqfK) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Je M'appelle \(feat\. DaVido\)](https://open.spotify.com/album/56qzuXPxeJKnmmOlZFQeUo) | 2:44 | 2022-06-09 | 2022-09-02 |
+| [Just Do It](https://open.spotify.com/track/0V6u8uAnFt85Yrb5AkxJYM) | [Costa Titch](https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG), [BoiBizza](https://open.spotify.com/artist/1eEtFWkyKW60yUyVwvAeuR), [Phantom Steeze](https://open.spotify.com/artist/02XiDOg93e5rFwmPoc7O6S), [Nelcno](https://open.spotify.com/artist/2zhdw73MF0aMdzngCZ8THY), [Sayfar](https://open.spotify.com/artist/1y9NmDltEwzLlhMowk4q5u), [Champuru Makhenzo](https://open.spotify.com/artist/5opgK8q2QxKDdubvoUO0Cw) | [Just Do It](https://open.spotify.com/album/3HYKcrEjmZ8TQzDBQL93mB) | 5:22 | 2022-09-09 |  |
 | [Kaba](https://open.spotify.com/track/5LXGba7dYrvcLBTVADEOZA) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [Kaba](https://open.spotify.com/album/6a7Uj2S1gntFbfKvR4EHuO) | 2:51 | 2022-07-28 |  |
 | [Knee Down](https://open.spotify.com/track/3ovSaVUTDOtxfDw5xh9qJ4) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [B A H D](https://open.spotify.com/album/4XPvTEJV2cW7UxVPDV1EU8) | 2:27 | 2022-08-05 |  |
 | [Kolo Kolo](https://open.spotify.com/track/2RnkJgwCzgvQU3MUysO1fG) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Kolo Kolo](https://open.spotify.com/album/6o46JSSqZAcJSma0j37t4u) | 3:15 | 2022-09-09 |  |
@@ -77,7 +78,7 @@
 | [Non Living Thing \(feat\. Oxlade\)](https://open.spotify.com/track/5Ky8pIlNDaSQtxfY45dqMw) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [No Pressure](https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU) | 3:49 | 2022-06-09 |  |
 | [Nowhere To Hide](https://open.spotify.com/track/6GnIaawrUwU0Agm7BM1wFu) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y), [Kooldrink](https://open.spotify.com/artist/1XQiB7Gp309l4aHhzgGIlY) | [Nowhere To Hide](https://open.spotify.com/album/2wRqnd7i4JjVkvqypSCIeH) | 3:15 | 2022-07-22 |  |
 | [OCEAN \- GuiltyBeatz Remix](https://open.spotify.com/track/0R1LtMkJJxzE1cwKjwemkG) | [B Young](https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [GuiltyBeatz](https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em) | [OCEAN \(GuiltyBeatz Remix\)](https://open.spotify.com/album/1jlNrH2DpKVDFGKUWtjoQz) | 4:06 | 2022-07-28 | 2022-08-26 |
-| [Oh No](https://open.spotify.com/track/4jwurGL9RR5d8QCoFhF30s) | [Vudumane](https://open.spotify.com/artist/1xS0nO9INJ0UvBUq4mkL14) | [Oh No](https://open.spotify.com/album/5qvAz1vTAJOte0KdYObPsg) | 4:21 | 2022-07-28 |  |
+| [Oh No](https://open.spotify.com/track/4jwurGL9RR5d8QCoFhF30s) | [Vudumane](https://open.spotify.com/artist/1xS0nO9INJ0UvBUq4mkL14) | [Oh No](https://open.spotify.com/album/5qvAz1vTAJOte0KdYObPsg) | 4:21 | 2022-07-28 | 2022-09-16 |
 | [One Woman](https://open.spotify.com/track/7BglTfVmbUUOCQUNof4RBF) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Catch Me If You Can](https://open.spotify.com/album/3b5r0ZryUlByiw2byA2IKn) | 2:40 | 2022-06-09 |  |
 | [Organise](https://open.spotify.com/track/2wgvxtggKVzPkl0smF2UzI) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Mr\. Money With The Vibe](https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI) | 2:03 | 2022-09-09 |  |
 | [Osu Riddim](https://open.spotify.com/track/6ERFpGobKqOTMruIRXx280) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Sounds of My World \(Deluxe\)](https://open.spotify.com/album/3enpMKYHm54sPooLM6heYY) | 4:36 | 2022-08-12 |  |

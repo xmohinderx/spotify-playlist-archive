@@ -4,7 +4,7 @@
 
 > The official playlist for all things League of Legends with a special Star Guardian takeover
 
-134 songs - 7 hr 19 min - [published](https://open.spotify.com/playlist/2PgZSYFWMxW0qdwLuhrNOZ)
+135 songs - 7 hr 23 min - [published](https://open.spotify.com/playlist/2PgZSYFWMxW0qdwLuhrNOZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [Distraction](https://open.spotify.com/track/1oc92BMKYkNxK17C2GtyRM) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Distraction](https://open.spotify.com/album/30OwIxHqQILQ9vwd86sD3o) | 2:51 | 2022-07-15 |  |
 | [Don’t Let Me Let Go \(with ILLENIUM & EVAN GIIA\)](https://open.spotify.com/track/251aCFbFK1f4Jkil96E5g1) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t) | [Don’t Let Me Let Go \(with ILLENIUM & EVAN GIIA\)](https://open.spotify.com/album/5fGpsmRrs2q0XWY8lo4xaA) | 3:25 | 2022-07-15 |  |
 | [Dreaming in the Daytime \(feat\. MF DOOM\)](https://open.spotify.com/track/4i9EptbbPDT78SuqC7Eku7) | [Tuxedo](https://open.spotify.com/artist/0CCqHvxGgfjJzwzQzmPlEr), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [Tuxedo III](https://open.spotify.com/album/50FkN4h0tTESPCzIK6E7KX) | 3:43 | 2022-06-03 | 2022-07-16 |
-| [Drop Go Bang](https://open.spotify.com/track/1jWS7lIGOY0NzVOdM6xCXH) | [Chuurch](https://open.spotify.com/artist/4gJ3UKYnmB63uNuqlcAhTA), [Blak Trash](https://open.spotify.com/artist/0Hq5yFzGhEVdgmLMiylxET) | [UU01](https://open.spotify.com/album/6qsvdM5l2rBdrtaQFVzwWK) | 3:29 | 2022-07-15 |  |
+| [Drop Go Bang](https://open.spotify.com/track/1jWS7lIGOY0NzVOdM6xCXH) | [Chuurch](https://open.spotify.com/artist/4gJ3UKYnmB63uNuqlcAhTA), [Blak Trash](https://open.spotify.com/artist/0Hq5yFzGhEVdgmLMiylxET) | [UU01](https://open.spotify.com/album/6qsvdM5l2rBdrtaQFVzwWK) | 3:29 | 2022-07-15 | 2022-09-16 |
+| [Drop Go Bang](https://open.spotify.com/track/5w9d16FajTCPB6OracLKYD) | [Chuurch](https://open.spotify.com/artist/4gJ3UKYnmB63uNuqlcAhTA), [Blak Trash](https://open.spotify.com/artist/0Hq5yFzGhEVdgmLMiylxET) | [UU01](https://open.spotify.com/album/3XNAmV6RfY8ViuQoNYI8zj) | 3:29 | 2022-07-15 |  |
 | [Drumroll](https://open.spotify.com/track/3Sh8h8ZW4mWtJgmdJybasq) | [divvy!](https://open.spotify.com/artist/2UX8sVQ4jV6ACjiZ4XLB5T), [Abhi The Nomad](https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4), [PREEYUHN](https://open.spotify.com/artist/4XfhuMDYVoFP0tdv7CsVFR) | [Drumroll](https://open.spotify.com/album/74si6EWB3sesv9SLxXNpYA) | 2:45 | 2022-06-03 | 2022-07-16 |
 | [Dynamite](https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 3:19 | 2022-05-02 | 2022-06-04 |
 | [Dynasties and Dystopia \(from the series Arcane League of Legends\)](https://open.spotify.com/track/2k2RPHMeyercU9PauiKNbU) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Gizzle](https://open.spotify.com/artist/0xukYGKRRwBWS1N9sfCQoq), [Bren Joy](https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp) | [Arcane League of Legends \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/3MdiH74FL8mhlbnR6DcqJd) | 2:58 | 2022-06-03 | 2022-07-16 |

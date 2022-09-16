@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzMfRQj22Nd.md) - [plain]
 
 > Taking the big steps with Drum & Bass.
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,759 likes - 80 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,816 likes - 80 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzMfRQj22Nd.md) - [plain]
 | 41 | [Somewhere](https://open.spotify.com/track/5gFeCFyZG6ZWOTbD1SzoVP) | [Grafix](https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY), [Reiki Ruawai](https://open.spotify.com/artist/0ZdwAoh3jV19yuDwht8ig3) | [Somewhere](https://open.spotify.com/album/1VTu7oss8WCM8VC4oLEsrg) | 3:40 |
 | 42 | [Driver](https://open.spotify.com/track/1tm7cZeRQFQsc2Nrpv8PYj) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B) | [Nothing For Free](https://open.spotify.com/album/2C5pOup7ksQ7YFutOlP6nA) | 3:29 |
 | 43 | [Hurt Me Too](https://open.spotify.com/track/0pdvvP1vP8zWRHeBCHdFbG) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL), [McCall](https://open.spotify.com/artist/229NvsczXKwdH0DkPg4uwT) | [Hurt Me Too](https://open.spotify.com/album/0wISH7UFthu6J1eT4HzVRw) | 3:04 |
-| 44 | [RUNAWAY \(feat\. Josh Rubin\)](https://open.spotify.com/track/16Df0dHOZk8miL46zPDaZ5) | [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf), [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0) | [RUNAWAY \(feat\. Josh Rubin\)](https://open.spotify.com/album/1IEpclNm8RhgxVvLVPDJ1i) | 3:29 |
+| 44 | [The Uprising](https://open.spotify.com/track/03wsvOuSWSo0HbHFBgY9li) | [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf), [Kumarion](https://open.spotify.com/artist/1mlAkvaCrzWSxS2ATBZh27) | [The Uprising](https://open.spotify.com/album/6xpb60RTZpstoFxakOAXZ0) | 3:17 |
 | 45 | [Lakota](https://open.spotify.com/track/5QcGTv2ouoNyxQymQfKE4n) | [Technimatic](https://open.spotify.com/artist/1LhB1j0Zq3tjBeG3k8gq7V), [A Little Sound](https://open.spotify.com/artist/1Jv2F8VFJsSr2XKte0vpbQ) | [Lakota \(ft\. A Little Sound\)](https://open.spotify.com/album/3dAl7vCbp6HM4kb36m6jwu) | 4:11 |
 | 46 | [Mac 19](https://open.spotify.com/track/0cfzsbbOnqe8Ly6quaBKDk) | [Rusko](https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10) | [Mac 19](https://open.spotify.com/album/3o5z18YGRU28DOYMRlmQyK) | 3:29 |
 | 47 | [Fading Wind](https://open.spotify.com/track/0UKQrQDMVcKN3ngG1kthYN) | [Feint](https://open.spotify.com/artist/6RQ9kYbHisp1UUbnfwHNeU) | [Fading Wind](https://open.spotify.com/album/6UMh9T0KVnsoBDKY2mfJNK) | 4:55 |
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzMfRQj22Nd.md) - [plain]
 | 50 | [Fallout](https://open.spotify.com/track/0Z3azmUTP30fOD1XJ0hSjV) | [HVDES](https://open.spotify.com/artist/3koHmmPvpgZWHcVmK8AKDq) | [Fallout](https://open.spotify.com/album/5qXRnuy8l76kO4TfVGjOUW) | 4:52 |
 | 51 | [Follow Me](https://open.spotify.com/track/54Tm26Pv3efwgeuzlN5A1m) | [ShockOne](https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH) | [Follow Me](https://open.spotify.com/album/2dYo7nAOBIy2kFewd9m0ct) | 3:50 |
 | 52 | [Say What You Want](https://open.spotify.com/track/7C0AmMGDeLY4JaDNZcBC4b) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Say What You Want](https://open.spotify.com/album/0VPNitgjEkHtyreOZaa1oK) | 4:00 |
-| 53 | [The Uprising](https://open.spotify.com/track/03wsvOuSWSo0HbHFBgY9li) | [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf), [Kumarion](https://open.spotify.com/artist/1mlAkvaCrzWSxS2ATBZh27) | [The Uprising](https://open.spotify.com/album/6xpb60RTZpstoFxakOAXZ0) | 3:17 |
+| 53 | [RUNAWAY \(feat\. Josh Rubin\)](https://open.spotify.com/track/16Df0dHOZk8miL46zPDaZ5) | [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf), [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0) | [RUNAWAY \(feat\. Josh Rubin\)](https://open.spotify.com/album/1IEpclNm8RhgxVvLVPDJ1i) | 3:29 |
 | 54 | [Night Train](https://open.spotify.com/track/0zGHWnTtESiQrWwnCA1yBM) | [Teddy Killerz](https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm) | [Night Train](https://open.spotify.com/album/5LgCU9NNcj2V412ZKn3Sra) | 4:48 |
 | 55 | [Discotheque](https://open.spotify.com/track/2w49us5pBD5DfYZ9i31Q82) | [Culture Shock](https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE) | [Discotheque](https://open.spotify.com/album/38IFA0HMi4UoBzcic1d1iy) | 4:29 |
 | 56 | [Even If \- Original Mix](https://open.spotify.com/track/5nVkaIXaqQtoMX4V1jncdO) | [Calibre](https://open.spotify.com/artist/0sklgkoO5JeS7YNhHS5EmH) | [Even If](https://open.spotify.com/album/2YjxUlgCtx6RYLtKIGwqLK) | 7:34 |
@@ -69,12 +69,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzMfRQj22Nd.md) - [plain]
 | 59 | [Ray Of Sun \- Sub Focus & Wilkinson](https://open.spotify.com/track/4D6bJk8Ljhrcns6SOyg4kT) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [PAWWS](https://open.spotify.com/artist/7oTof0LWYf6S0mGq8K02CT) | [Portals](https://open.spotify.com/album/6SC0Omssa5QQtX22zlZGEG) | 5:31 |
 | 60 | [BARRICADE](https://open.spotify.com/track/4AIzFOYepFcCxtyejppv6C) | [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf) | [BARRICADE](https://open.spotify.com/album/04Eqt1g20KVoSB4Xif8Frq) | 3:20 |
 | 61 | [Demand](https://open.spotify.com/track/2BaJ2tufTVJfVnXhLyB4Og) | [Macky Gee](https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx) | [It's A Gee Thing](https://open.spotify.com/album/3VzevC8cTAQfsMgbiJ9emh) | 3:47 |
-| 62 | [Aura](https://open.spotify.com/track/538IL5DHWHdD0vRUFIfMoM) | [Kumarion](https://open.spotify.com/artist/1mlAkvaCrzWSxS2ATBZh27) | [Aura](https://open.spotify.com/album/44eYFSuXEyETT7OHV0dCZg) | 3:47 |
-| 63 | [Light Up](https://open.spotify.com/track/3NLr3Lsc9DnhJd9ObpoY3x) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Butterfly Effect \(Deluxe\)](https://open.spotify.com/album/15YbZYNxPlJDPXrkIrkwjZ) | 3:57 |
+| 62 | [Light Up](https://open.spotify.com/track/3NLr3Lsc9DnhJd9ObpoY3x) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Butterfly Effect \(Deluxe\)](https://open.spotify.com/album/15YbZYNxPlJDPXrkIrkwjZ) | 3:57 |
+| 63 | [New Beginning](https://open.spotify.com/track/2YbpRcRomPCdnChIcgQo0D) | [Maduk](https://open.spotify.com/artist/6TaaqqCMRMSpvNHClfnbEL), [Lexurus](https://open.spotify.com/artist/3iEPGgJzNDexM0WPqpcvMB), [RIENK](https://open.spotify.com/artist/1EDTEfdQZ9nRsyZjfRNEfo) | [New Beginning](https://open.spotify.com/album/0D7sxVgZTL9DerUPMp96t6) | 4:09 |
 | 64 | [Remedy \(feat\. TS Graye\)](https://open.spotify.com/track/1Ojk0XlwKxvqByaHq6Uviz) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S), [TS Graye](https://open.spotify.com/artist/5qB8VZFvQcnDIrsj4jBMU9) | [Remedy \(feat\. TS Graye\)](https://open.spotify.com/album/54Ulib16eKnja2K1oXKD5p) | 3:20 |
 | 65 | [Lost](https://open.spotify.com/track/5TtFAmdGW48ebOkoZ6YSxn) | [Culture Shock](https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE) | [Lost](https://open.spotify.com/album/0lAFSahunecxZja9uUOu4Z) | 4:01 |
 | 66 | [Fallaway](https://open.spotify.com/track/1eDKRyIAKtoRmrO9gJ6PFv) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [Fallaway](https://open.spotify.com/album/0XXHhKf7JUTkgKnxUDNcA2) | 3:44 |
-| 67 | [New Beginning](https://open.spotify.com/track/2YbpRcRomPCdnChIcgQo0D) | [Maduk](https://open.spotify.com/artist/6TaaqqCMRMSpvNHClfnbEL), [Lexurus](https://open.spotify.com/artist/3iEPGgJzNDexM0WPqpcvMB), [RIENK](https://open.spotify.com/artist/1EDTEfdQZ9nRsyZjfRNEfo) | [New Beginning](https://open.spotify.com/album/0D7sxVgZTL9DerUPMp96t6) | 4:09 |
+| 67 | [Aura](https://open.spotify.com/track/538IL5DHWHdD0vRUFIfMoM) | [Kumarion](https://open.spotify.com/artist/1mlAkvaCrzWSxS2ATBZh27) | [Aura](https://open.spotify.com/album/44eYFSuXEyETT7OHV0dCZg) | 3:47 |
 | 68 | [Hold On \- Sub Focus Remix](https://open.spotify.com/track/2u6tZMWwhgnRggKHvRWINP) | [Rusko](https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10), [Amber Coffman](https://open.spotify.com/artist/4vpGVGgxSDcCTmqYbsOnsn), [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO) | [Hold On](https://open.spotify.com/album/3Q7Mi2wjS7jbAd4wkQ7Wjy) | 4:27 |
 | 69 | [Reflections](https://open.spotify.com/track/7si4ZB2cShPmL7Du5qhGsQ) | [Mat Zo](https://open.spotify.com/artist/2n7USVO8fO8FF8zq4kG2N1), [OLAN](https://open.spotify.com/artist/1gMMbPTZtOb9W3IBYl6twO) | [Reflections](https://open.spotify.com/album/7yGXQOpOfxPK1OknMsCyPv) | 4:27 |
 | 70 | [Breathe](https://open.spotify.com/track/6Ijgotp139ahnNIFw4Vr1N) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [Breathe](https://open.spotify.com/album/01vOZOM0KgJatj9mpoVhdh) | 4:08 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzMfRQj22Nd.md) - [plain]
 | 79 | [Back & Forth](https://open.spotify.com/track/7GmQ1s21F9APWVdA3IcEAc) | [Andy C](https://open.spotify.com/artist/75HK7rgkmDMTnWwwmcN53N) | [Back & Forth](https://open.spotify.com/album/1mMpaRDvqcZJBBzGENDs6q) | 4:37 |
 | 80 | [Polaris](https://open.spotify.com/track/4Hr6eRuaakhr9RmLLYJawz) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [ÆON:ONE](https://open.spotify.com/album/1KPxKpvQLA3JJEPlwlxzND) | 3:15 |
 
-Snapshot ID: `MTY2MjEzMDM0MCwwMDAwMDAwMGQ4MjI0ZmU5MzVhMTk2ZDE1MTM5ZjY4Njc5ZTM1OGU0`
+Snapshot ID: `MTY2MjEzMDM0MCwwMDAwMDAwMGEzNWYwYzVhNjBlNDljM2NjMGMzMjk0YmYyYzU1YzE3`

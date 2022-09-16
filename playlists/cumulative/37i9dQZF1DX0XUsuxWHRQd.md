@@ -4,7 +4,7 @@
 
 > RIP PnB Rock.
 
-1,347 songs - 2 day 21 hr 24 min - [published](https://open.spotify.com/playlist/5P8tKmuueRelbQ17C8xRQo)
+1,348 songs - 2 day 21 hr 27 min - [published](https://open.spotify.com/playlist/5P8tKmuueRelbQ17C8xRQo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -890,6 +890,7 @@
 | [PUSSY](https://open.spotify.com/track/7ycQto0UwGtuugO5ztmpdO) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [PUSSY](https://open.spotify.com/album/2RJKx64TCTSA1rbwh3C3ib) | 2:21 | 2022-07-15 | 2022-07-23 |
 | [Pussy Talk](https://open.spotify.com/track/5EzL7hGT9g2Tvqsy158Lu9) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [City On Lock](https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN) | 3:38 | 2020-08-14 | 2020-11-03 |
 | [Pussy Talk \(feat\. Quavo, Lil Wayne, & Jack Harlow\) \[Remix\]](https://open.spotify.com/track/6FaYbjgD31OYcsqtMWFEz7) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Pussy Talk \(feat\. Quavo, Lil Wayne, & Jack Harlow\) \[Remix\]](https://open.spotify.com/album/4gXbWpVWH625y2Qg352TPr) | 3:19 | 2020-11-13 | 2020-12-18 |
+| [Put Your Hands Where My Eyes Could See](https://open.spotify.com/track/1NHwvBmrUje4L1dxfWnXCH) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [When Disaster Strikes...](https://open.spotify.com/album/6nPdlsKWGOFepgMMXTZReP) | 3:14 | 2022-09-15 |  |
 | [Quarantine Thick](https://open.spotify.com/track/4GbfUgXhZxY43dYyKhsfwC) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Quarantine Thick \(feat\. Mulatto\)](https://open.spotify.com/album/6clmqh76lbdiSsZGVrhjIN) | 3:10 | 2020-11-06 | 2020-11-13 |
 | [Quicksand](https://open.spotify.com/track/33HO2V42Tc6xE0SbCg6vBj) | [Morray](https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd) | [Quicksand](https://open.spotify.com/album/3VB5ViVn5PK58UmJaCdopk) | 3:43 | 2020-12-25 | 2021-04-24 |
 | [Racks 2 Skinny](https://open.spotify.com/track/568OIKgeHyGRD3uWR44JbO) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Racks 2 Skinny](https://open.spotify.com/album/3PASWLvNfvfMF68dDznEgK) | 2:58 | 2020-05-12 | 2020-07-25 |

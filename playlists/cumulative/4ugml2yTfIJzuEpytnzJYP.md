@@ -4,7 +4,7 @@
 
 > Lovingly updated every week\.  Make sure to click the heart 💓 to follow the playlist
 
-131 songs - 8 hr 10 min - [published](https://open.spotify.com/playlist/56aybtrwt3JyZMLBFDdbFd)
+132 songs - 8 hr 15 min - [published](https://open.spotify.com/playlist/56aybtrwt3JyZMLBFDdbFd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [can't seem to](https://open.spotify.com/track/0p5tCrpBT4WLfwQ2lLMXGb) | [s\. lyre](https://open.spotify.com/artist/0Ic21br4X3YoE8wZgwTK0f) | [can't seem to](https://open.spotify.com/album/3PEZDg9PyJcJg3Dir5Hlu5) | 2:29 | 2022-04-04 | 2022-08-23 |
 | [Careless](https://open.spotify.com/track/55EsRl8Q16Q73P74ymPoG3) | [UNKNWN](https://open.spotify.com/artist/5wZEqM64b8lzsEvDTPclv9) | [Mysterium](https://open.spotify.com/album/2YdWrIM0TS7rHmcK2Gul2i) | 2:40 | 2022-02-11 | 2022-04-16 |
 | [Chase The Vibe](https://open.spotify.com/track/3vH0K3jfGarjDwAwFioG9x) | [Defunk](https://open.spotify.com/artist/79OsU8JudFdMQxQTnyOJcF) | [Chase The Vibe](https://open.spotify.com/album/0oN7CkEjR8eEDm90Hpu4O1) | 3:07 | 2021-10-18 | 2022-02-28 |
+| [Clutch](https://open.spotify.com/track/2AtaNnfoySsOMA1etPWAa7) | [Ternion Sound](https://open.spotify.com/artist/5sZGZj7wvhCwlG6KBvG90a) | [Clutch](https://open.spotify.com/album/7qnWKWKXZ62wPIVMkVk5wZ) | 5:29 | 2022-09-15 |  |
 | [Color Of Your Soul](https://open.spotify.com/track/71LZ7lwCisTG3H9UXKraTe) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr) | [Color Of Your Soul](https://open.spotify.com/album/0WKsuKxJZYxAf0sUeNCUZd) | 3:22 | 2022-02-11 | 2022-04-13 |
 | [Compass](https://open.spotify.com/track/61u2a1VcmmUoI9jOHdSWN5) | [DMVU](https://open.spotify.com/artist/59DcOmdlmKUgsUrb2S7Nb6) | [Tools For Those Who've Lost Their Way](https://open.spotify.com/album/7N3wsrHIFKe3J8BqHdVU2H) | 3:22 | 2022-04-15 | 2022-08-23 |
 | [Cosmos](https://open.spotify.com/track/34KsxA9KlUo7DqENzW9l2Y) | [Teffa](https://open.spotify.com/artist/3w8EiOMwnAuuWfPmX5kRqb) | [Cosmos](https://open.spotify.com/album/0KgmLt015HgyQQmHR2WlxI) | 3:46 | 2022-04-26 |  |

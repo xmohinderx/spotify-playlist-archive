@@ -1,12 +1,12 @@
 {
   "description": "When you want to be alone and the Blues is your soundtrack.\n",
-  "num_followers": 25217,
+  "num_followers": 25253,
   "original_name": "Just Me and the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDkzMDU3MSwwMDAwMDAwMDI3NjU0MmZjNWZmYTU3MzUyMzZhNWM4ZWUxOGJiMjMw",
+  "snapshot_id": "MTY2MDkzMDU3MSwwMDAwMDAwMDY4OWE0NTQ4Y2M4MzM3NGY1YzBiMzA0YmM0NzQ5NDY1",
   "tracks": [
     {
       "added_at": "2022-08-19 17:36:11",
@@ -411,22 +411,6 @@
     {
       "added_at": "2022-08-19 17:36:11",
       "album": {
-        "name": "I Am The Blues",
-        "url": "https://open.spotify.com/album/0y79HnVGwEtybfIcfD6M7N"
-      },
-      "artists": [
-        {
-          "name": "Willie Dixon",
-          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
-        }
-      ],
-      "duration_ms": 255226,
-      "name": "You Shook Me",
-      "url": "https://open.spotify.com/track/1xns0tyPRpOrODwND6ELTF"
-    },
-    {
-      "added_at": "2022-08-19 17:36:11",
-      "album": {
         "name": "A Savage Life",
         "url": "https://open.spotify.com/album/3EUOVC5lWv58P8Dmetgb5B"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 167330,
       "name": "Blues On The Bay",
       "url": "https://open.spotify.com/track/7offXLsItZzJ7sF08FRkoM"
+    },
+    {
+      "added_at": "2022-08-19 17:36:11",
+      "album": {
+        "name": "I Am The Blues",
+        "url": "https://open.spotify.com/album/0y79HnVGwEtybfIcfD6M7N"
+      },
+      "artists": [
+        {
+          "name": "Willie Dixon",
+          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
+        }
+      ],
+      "duration_ms": 255226,
+      "name": "You Shook Me",
+      "url": "https://open.spotify.com/track/1xns0tyPRpOrODwND6ELTF"
     },
     {
       "added_at": "2022-08-19 17:36:11",
@@ -555,22 +555,6 @@
     {
       "added_at": "2022-08-19 17:36:11",
       "album": {
-        "name": "All Blues",
-        "url": "https://open.spotify.com/album/1WXRu9aB8wHIwjLqA2DnBu"
-      },
-      "artists": [
-        {
-          "name": "Peter Frampton Band",
-          "url": "https://open.spotify.com/artist/0JvNeHGFrPqynXe5EszItO"
-        }
-      ],
-      "duration_ms": 274088,
-      "name": "Same Old Blues",
-      "url": "https://open.spotify.com/track/1J5kvLHbuFrcYlQDxrujYr"
-    },
-    {
-      "added_at": "2022-08-19 17:36:11",
-      "album": {
         "name": "Cold Snap (Remastered)",
         "url": "https://open.spotify.com/album/4yybDfoKxyAey83ruCtTb9"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 412893,
       "name": "Too Many Dirty Dishes - Remastered",
       "url": "https://open.spotify.com/track/5v1K811BkQo7FEgbs7LWdg"
+    },
+    {
+      "added_at": "2022-08-19 17:36:11",
+      "album": {
+        "name": "All Blues",
+        "url": "https://open.spotify.com/album/1WXRu9aB8wHIwjLqA2DnBu"
+      },
+      "artists": [
+        {
+          "name": "Peter Frampton Band",
+          "url": "https://open.spotify.com/artist/0JvNeHGFrPqynXe5EszItO"
+        }
+      ],
+      "duration_ms": 274088,
+      "name": "Same Old Blues",
+      "url": "https://open.spotify.com/track/1J5kvLHbuFrcYlQDxrujYr"
     },
     {
       "added_at": "2022-08-19 17:36:11",

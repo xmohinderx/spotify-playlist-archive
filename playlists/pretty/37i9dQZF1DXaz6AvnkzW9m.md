@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaz6AvnkzW9m.md) - [plain]
 
 > El cholo se hizo buchón 😎🤠 Calibre 50 & Emanuel Delgado en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,380 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,445 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaz6AvnkzW9m.md) - [plain]
 | 69 | [Bienvenido A La Angelina](https://open.spotify.com/track/3BZO0RoGNhsOTS2SzHjMPY) | [JTres](https://open.spotify.com/artist/540HJhSFm9vELfBbvxRAEJ), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Bienvenido A La Angelina \(feat\. Fuerza Regida & Herencia De Patrones\)](https://open.spotify.com/album/6d365KQj9cfcEoMvfLmWfM) | 3:08 |
 | 70 | [Pa Que Aprendan](https://open.spotify.com/track/3MTS8GCWu71UhJgxSJBRyV) | [Los Del Puerto](https://open.spotify.com/artist/00yQbObT5JJf3n8RO9476e), [Grupo Hacendado](https://open.spotify.com/artist/06hHiaGkSEyRusl6n2iK3M) | [Pa Que Aprendan](https://open.spotify.com/album/1LrIc9CJLpC17yqIc4M6Ku) | 3:06 |
 | 71 | [El Leon](https://open.spotify.com/track/0STQWyHEs8KGEphskbvNhG) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [El Leon](https://open.spotify.com/album/3R3anCeS43apevQ5QMJkeZ) | 2:07 |
-| 72 | [Tú También Eres De Barrio](https://open.spotify.com/track/24BbCLyggRqfIKpLbnPgAT) | [La Fase 3](https://open.spotify.com/artist/29Cl7Hr5OrIZOKOZAkCEDj) | [Tú También Eres De Barrio](https://open.spotify.com/album/5Kkb8hbbFca8hKh0NnwQtM) | 2:49 |
-| 73 | [Es Pura Envidia](https://open.spotify.com/track/53JTWuW3LongStI3kWEJDX) | [3 Caleb](https://open.spotify.com/artist/28bkOQcxioYFEsE06mmnkd) | [Es Pura Envidia](https://open.spotify.com/album/1Lh0cxdCnKIxxLRP0qqDBN) | 2:01 |
+| 72 | [Es Pura Envidia](https://open.spotify.com/track/53JTWuW3LongStI3kWEJDX) | [3 Caleb](https://open.spotify.com/artist/28bkOQcxioYFEsE06mmnkd) | [Es Pura Envidia](https://open.spotify.com/album/1Lh0cxdCnKIxxLRP0qqDBN) | 2:01 |
+| 73 | [Tú También Eres De Barrio](https://open.spotify.com/track/24BbCLyggRqfIKpLbnPgAT) | [La Fase 3](https://open.spotify.com/artist/29Cl7Hr5OrIZOKOZAkCEDj) | [Tú También Eres De Barrio](https://open.spotify.com/album/5Kkb8hbbFca8hKh0NnwQtM) | 2:49 |
 | 74 | [Del Barrio Sali \(Version Norteña\)](https://open.spotify.com/track/5tRo8lpFkAPXQR3AqxfyeF) | [Luis Cuadras](https://open.spotify.com/artist/0POrsz8AIjHbmjxkhNSHiR), [Ldln](https://open.spotify.com/artist/6zUohwxj78LtEvlXR4T8fU) | [Del Barrio Sali \(Version Norteña\)](https://open.spotify.com/album/60t6ooY8p0kt8iSPl95aRS) | 2:50 |
 | 75 | [Ando Bien Tumbado](https://open.spotify.com/track/3tQCYIGiq4ToBUIBCcI3mJ) | [La Fase 3](https://open.spotify.com/artist/29Cl7Hr5OrIZOKOZAkCEDj) | [Ando Bien Tumbado](https://open.spotify.com/album/14dzMkIDXzmCA5vwm34zy7) | 3:05 |
 
-Snapshot ID: `MTY2MjY5OTYwMCwwMDAwMDAwMGRmZDJkMDhkMjA4YTY3NmEzZDM0Zjc4MDI5Zjg5ZjI3`
+Snapshot ID: `MTY2MjY5OTYwMCwwMDAwMDAwMDYxYzE4ZmE4MWVmMTk1NDY1NDViNGYwZDEzM2UzYzdm`

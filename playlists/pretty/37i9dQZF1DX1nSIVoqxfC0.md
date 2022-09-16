@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nSIVoqxfC0.md) - [plain]
 
 > <a href="spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z">Tiësto</a>'s best songs, remixes and compilations.
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,284 likes - 199 songs - 13 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,406 likes - 199 songs - 13 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Can U Dance \(To My Beat\)](https://open.spotify.com/track/3yRcwIkTVIJTEGAoPlsHbW) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Can U Dance \(To My Beat\)](https://open.spotify.com/album/6o3mSmaxrLrFnGB7IL8vtA) | 2:28 |
-| 2 | [Baila Conmigo](https://open.spotify.com/track/3KruoUtSkm84Az0bJunnxl) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Baila Conmigo](https://open.spotify.com/album/00RgZ3hZH9WpvBksu2hx5G) | 2:26 |
+| 1 | [Baila Conmigo](https://open.spotify.com/track/3KruoUtSkm84Az0bJunnxl) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Baila Conmigo](https://open.spotify.com/album/00RgZ3hZH9WpvBksu2hx5G) | 2:26 |
+| 2 | [Can U Dance \(To My Beat\)](https://open.spotify.com/track/3yRcwIkTVIJTEGAoPlsHbW) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Can U Dance \(To My Beat\)](https://open.spotify.com/album/6o3mSmaxrLrFnGB7IL8vtA) | 2:28 |
 | 3 | [Hot In It](https://open.spotify.com/track/3Z7CaxQkqbIs1rewKi6v4W) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Hot In It](https://open.spotify.com/album/6R7Yy0sY9N8PNUhseegr2Q) | 2:09 |
 | 4 | [Savage](https://open.spotify.com/track/76A1RRDEyHKtmV3Vh6PeVN) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Savage](https://open.spotify.com/album/6xBP3A3LFhaVl1Hb7XBCsM) | 2:47 |
 | 5 | [NO MIENTEN \- Tiësto Remix](https://open.spotify.com/track/46cyduQIwGKuyZX8TQvVLK) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [NO MIENTEN \(Tiësto Remix\)](https://open.spotify.com/album/3eoM1XxYABWjL8XQTXxGD8) | 2:34 |
@@ -208,4 +208,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nSIVoqxfC0.md) - [plain]
 | 198 | [Sky High \- Tiësto Edit](https://open.spotify.com/track/7aCurqZaPTpyfjZl4NcsrE) | [Firebeatz](https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo) | [Club Life, Vol\. 4 \- New York City](https://open.spotify.com/album/57bABnvvPfNhBQRI70dqlU) | 2:14 |
 | 199 | [The House Of Now \- Tiësto Edit](https://open.spotify.com/track/2wKEQFKicVzKc77wskAtkB) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Club Life, Vol\. 4 \- New York City](https://open.spotify.com/album/57bABnvvPfNhBQRI70dqlU) | 2:07 |
 
-Snapshot ID: `MTY2MjY3NDQ2MCwwMDAwMDAwMDc3ZDc3ZWU4NjI3NWRmMTA0NDA4ZDEzZjY3Njg4MTU4`
+Snapshot ID: `MTY2MzI0ODc2NiwwMDAwMDAwMDdiMGZmNjk4ZjZhZjQwNzcxOGYwYTJmMTM1YzA0YjBj`

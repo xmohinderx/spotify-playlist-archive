@@ -1,12 +1,12 @@
 {
   "description": "The best new experimental music by independent artists and labels. Updates every Wednesday. Cover: Cameron Morse Artwork: Thami Nabil",
-  "num_followers": 91642,
+  "num_followers": 91683,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzEyODAwMCwwMDAwMDAwMDU3YjliNDVjYjBiODI0NjQzZTc0YjE3MWViNzZjY2Zm",
+  "snapshot_id": "MTY2MzEyODAwMCwwMDAwMDAwMDM2YWI5M2ZmM2EyNGU1Y2EzMGI2ZWViZWM2OTZhZWZl",
   "tracks": [
     {
       "added_at": "2022-08-31 04:02:01",
@@ -54,6 +54,10 @@
         {
           "name": "Sueuga",
           "url": "https://open.spotify.com/artist/2m5Jdjj6b1N9EhtqzHaVdw"
+        },
+        {
+          "name": "Tazar Yoot",
+          "url": "https://open.spotify.com/artist/6tP2b3dQi9KlBkwEUyJtzY"
         }
       ],
       "duration_ms": 215330,
@@ -317,22 +321,6 @@
       "url": "https://open.spotify.com/track/0RFwd1ZWNSVT7LtAvenIVg"
     },
     {
-      "added_at": "2022-08-24 01:37:13",
-      "album": {
-        "name": "Strawberry Moon",
-        "url": "https://open.spotify.com/album/2f7enrxh25CxKTecl5wfhi"
-      },
-      "artists": [
-        {
-          "name": "RUMTUM",
-          "url": "https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI"
-        }
-      ],
-      "duration_ms": 187200,
-      "name": "Strawberry Moon",
-      "url": "https://open.spotify.com/track/1l36C1nispFZoAkCFcrZ5j"
-    },
-    {
       "added_at": "2022-09-07 04:00:00",
       "album": {
         "name": "Kommissar Brenkstrupp: Fragments of a Troubled Detective",
@@ -349,6 +337,22 @@
       "url": "https://open.spotify.com/track/5azy9UxSBD7XKgL83HOJDN"
     },
     {
+      "added_at": "2022-08-24 01:37:13",
+      "album": {
+        "name": "Strawberry Moon",
+        "url": "https://open.spotify.com/album/2f7enrxh25CxKTecl5wfhi"
+      },
+      "artists": [
+        {
+          "name": "RUMTUM",
+          "url": "https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "Strawberry Moon",
+      "url": "https://open.spotify.com/track/1l36C1nispFZoAkCFcrZ5j"
+    },
+    {
       "added_at": "2022-08-31 04:02:01",
       "album": {
         "name": "Endless Filament",
@@ -363,22 +367,6 @@
       "duration_ms": 937000,
       "name": "Endless Filament",
       "url": "https://open.spotify.com/track/2ST4AaDsvY9D15iZSJuMXj"
-    },
-    {
-      "added_at": "2022-08-03 02:51:09",
-      "album": {
-        "name": "millennial falcon (episode I)",
-        "url": "https://open.spotify.com/album/2a7aAujN1kAEj3KsECBpc8"
-      },
-      "artists": [
-        {
-          "name": "ed leigh",
-          "url": "https://open.spotify.com/artist/2HvZdoZCKiZBlILDLOk0ge"
-        }
-      ],
-      "duration_ms": 194788,
-      "name": "30",
-      "url": "https://open.spotify.com/track/3h9BQoh0mAmm93aHINUprR"
     },
     {
       "added_at": "2022-08-24 01:37:13",
@@ -413,6 +401,42 @@
       "url": "https://open.spotify.com/track/2qbm8KA7O83nPviXa5aK5I"
     },
     {
+      "added_at": "2022-08-03 02:51:09",
+      "album": {
+        "name": "millennial falcon (episode I)",
+        "url": "https://open.spotify.com/album/2a7aAujN1kAEj3KsECBpc8"
+      },
+      "artists": [
+        {
+          "name": "ed leigh",
+          "url": "https://open.spotify.com/artist/2HvZdoZCKiZBlILDLOk0ge"
+        }
+      ],
+      "duration_ms": 194788,
+      "name": "30",
+      "url": "https://open.spotify.com/track/3h9BQoh0mAmm93aHINUprR"
+    },
+    {
+      "added_at": "2022-09-07 04:00:00",
+      "album": {
+        "name": "VIZIO",
+        "url": "https://open.spotify.com/album/0hUuaQgTtfn8UdUDSzXPAQ"
+      },
+      "artists": [
+        {
+          "name": "Mathilde Sobrino",
+          "url": "https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0"
+        },
+        {
+          "name": "Lytos",
+          "url": "https://open.spotify.com/artist/4D6SZOeCXxbUpnJyxQfufX"
+        }
+      ],
+      "duration_ms": 233514,
+      "name": "Vizio",
+      "url": "https://open.spotify.com/track/3obbCnT8ZoQBfJBMyrLoEW"
+    },
+    {
       "added_at": "2022-08-24 01:37:13",
       "album": {
         "name": "The Distance Between Heart And Mouth",
@@ -443,26 +467,6 @@
       "duration_ms": 251333,
       "name": "Truffles Sprinkles",
       "url": "https://open.spotify.com/track/6IcvrVg1YFoLGH6mcuZtZL"
-    },
-    {
-      "added_at": "2022-09-07 04:00:00",
-      "album": {
-        "name": "VIZIO",
-        "url": "https://open.spotify.com/album/0hUuaQgTtfn8UdUDSzXPAQ"
-      },
-      "artists": [
-        {
-          "name": "Mathilde Sobrino",
-          "url": "https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0"
-        },
-        {
-          "name": "Lytos",
-          "url": "https://open.spotify.com/artist/4D6SZOeCXxbUpnJyxQfufX"
-        }
-      ],
-      "duration_ms": 233514,
-      "name": "Vizio",
-      "url": "https://open.spotify.com/track/3obbCnT8ZoQBfJBMyrLoEW"
     },
     {
       "added_at": "2022-08-03 03:56:48",
@@ -625,6 +629,38 @@
       "url": "https://open.spotify.com/track/3yLrFNajQckehtRDyh2FiI"
     },
     {
+      "added_at": "2022-08-24 01:37:13",
+      "album": {
+        "name": "you're always with me",
+        "url": "https://open.spotify.com/album/1AvX14kEvlBKmWAsyTM4id"
+      },
+      "artists": [
+        {
+          "name": "innerinnerlife",
+          "url": "https://open.spotify.com/artist/3SJn3wuHQGbKFT0vDKT3Yo"
+        }
+      ],
+      "duration_ms": 248934,
+      "name": "you're always with me",
+      "url": "https://open.spotify.com/track/5AXa5jxDOTBTLiTdZJcjvP"
+    },
+    {
+      "added_at": "2022-08-31 04:02:01",
+      "album": {
+        "name": "J\u00e4rnn\u00e4tter",
+        "url": "https://open.spotify.com/album/1Z7zJp7hTa04uPoQZzyTlX"
+      },
+      "artists": [
+        {
+          "name": "Civilistj\u00e4vel!",
+          "url": "https://open.spotify.com/artist/3MVZ2vxkDeDuTy3cGsDuQC"
+        }
+      ],
+      "duration_ms": 74304,
+      "name": "B3",
+      "url": "https://open.spotify.com/track/3oL1cWdxaQR3fOY5LsscGc"
+    },
+    {
       "added_at": "2022-09-07 04:00:00",
       "album": {
         "name": "UMMA (Remix)",
@@ -647,22 +683,6 @@
     {
       "added_at": "2022-08-31 04:02:01",
       "album": {
-        "name": "J\u00e4rnn\u00e4tter",
-        "url": "https://open.spotify.com/album/1Z7zJp7hTa04uPoQZzyTlX"
-      },
-      "artists": [
-        {
-          "name": "Civilistj\u00e4vel!",
-          "url": "https://open.spotify.com/artist/3MVZ2vxkDeDuTy3cGsDuQC"
-        }
-      ],
-      "duration_ms": 74304,
-      "name": "B3",
-      "url": "https://open.spotify.com/track/3oL1cWdxaQR3fOY5LsscGc"
-    },
-    {
-      "added_at": "2022-08-31 04:02:01",
-      "album": {
         "name": "Fiber",
         "url": "https://open.spotify.com/album/7eggXuPYfGd9STXvugMAHj"
       },
@@ -675,22 +695,6 @@
       "duration_ms": 434383,
       "name": "Revenge",
       "url": "https://open.spotify.com/track/3oq0aWZCAdIfc4ERvILzxm"
-    },
-    {
-      "added_at": "2022-08-24 01:37:13",
-      "album": {
-        "name": "you're always with me",
-        "url": "https://open.spotify.com/album/1AvX14kEvlBKmWAsyTM4id"
-      },
-      "artists": [
-        {
-          "name": "innerinnerlife",
-          "url": "https://open.spotify.com/artist/3SJn3wuHQGbKFT0vDKT3Yo"
-        }
-      ],
-      "duration_ms": 248934,
-      "name": "you're always with me",
-      "url": "https://open.spotify.com/track/5AXa5jxDOTBTLiTdZJcjvP"
     },
     {
       "added_at": "2022-08-24 01:37:13",
@@ -725,20 +729,20 @@
       "url": "https://open.spotify.com/track/6ZjiUUaTWTeKCkHZK3NBQs"
     },
     {
-      "added_at": "2022-08-31 04:02:01",
+      "added_at": "2022-09-07 04:00:00",
       "album": {
-        "name": "Wait Up",
-        "url": "https://open.spotify.com/album/4ZVhySJ3eOpZtRVcg2MPDR"
+        "name": "4 Ya Kiss / 4 Ya Bliss",
+        "url": "https://open.spotify.com/album/1m5Fdo7XNGZ8TunvSg948H"
       },
       "artists": [
         {
-          "name": "Gloomer",
-          "url": "https://open.spotify.com/artist/4SifZryJ3Vo6oijPAWTYas"
+          "name": "700 Feel",
+          "url": "https://open.spotify.com/artist/4dyipJdNkRIUS9DrMohalV"
         }
       ],
-      "duration_ms": 173061,
-      "name": "Wait Up",
-      "url": "https://open.spotify.com/track/79uDI5OnWIIj4Za02naBzE"
+      "duration_ms": 247488,
+      "name": "4 Ya Kiss",
+      "url": "https://open.spotify.com/track/1qjd5CoUbzA7CNnB06flYN"
     },
     {
       "added_at": "2022-08-24 01:37:13",
@@ -775,22 +779,6 @@
     {
       "added_at": "2022-09-07 04:00:00",
       "album": {
-        "name": "4 Ya Kiss / 4 Ya Bliss",
-        "url": "https://open.spotify.com/album/1m5Fdo7XNGZ8TunvSg948H"
-      },
-      "artists": [
-        {
-          "name": "700 Feel",
-          "url": "https://open.spotify.com/artist/4dyipJdNkRIUS9DrMohalV"
-        }
-      ],
-      "duration_ms": 247488,
-      "name": "4 Ya Kiss",
-      "url": "https://open.spotify.com/track/1qjd5CoUbzA7CNnB06flYN"
-    },
-    {
-      "added_at": "2022-09-07 04:00:00",
-      "album": {
         "name": "Vertiko",
         "url": "https://open.spotify.com/album/22pnMQDpiwnQe4vq0pWobB"
       },
@@ -803,6 +791,22 @@
       "duration_ms": 299263,
       "name": "Vertiko",
       "url": "https://open.spotify.com/track/7twFrkOYp45jadFfck1Jzg"
+    },
+    {
+      "added_at": "2022-08-31 04:02:01",
+      "album": {
+        "name": "Wait Up",
+        "url": "https://open.spotify.com/album/4ZVhySJ3eOpZtRVcg2MPDR"
+      },
+      "artists": [
+        {
+          "name": "Gloomer",
+          "url": "https://open.spotify.com/artist/4SifZryJ3Vo6oijPAWTYas"
+        }
+      ],
+      "duration_ms": 173061,
+      "name": "Wait Up",
+      "url": "https://open.spotify.com/track/79uDI5OnWIIj4Za02naBzE"
     },
     {
       "added_at": "2022-09-07 04:00:00",
@@ -821,20 +825,20 @@
       "url": "https://open.spotify.com/track/0kxCwUht7SOKdH4lUqvJXO"
     },
     {
-      "added_at": "2022-08-03 02:51:09",
+      "added_at": "2022-08-10 04:00:00",
       "album": {
-        "name": "Grow! (Re-sync)",
-        "url": "https://open.spotify.com/album/1VzZwAZzmehSqYk2aDsDmP"
+        "name": "Illogical Dance",
+        "url": "https://open.spotify.com/album/43nUH6IPPJNtBmrmsTza8g"
       },
       "artists": [
         {
-          "name": "Bby Eco",
-          "url": "https://open.spotify.com/artist/3FwaHWrtYyjvLE06Bzcecu"
+          "name": "Hatis Noit",
+          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
         }
       ],
-      "duration_ms": 162077,
-      "name": "\u2940.003 Zoom",
-      "url": "https://open.spotify.com/track/5YlEL3r8ASHb1c7sdwJ9CF"
+      "duration_ms": 473075,
+      "name": "Illogical Lullaby",
+      "url": "https://open.spotify.com/track/7KaENU972ZBPtD1Cy2H3tc"
     }
   ],
   "unique_name": "Fresh Finds Experimental",

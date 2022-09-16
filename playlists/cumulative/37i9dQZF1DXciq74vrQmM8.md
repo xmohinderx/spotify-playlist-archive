@@ -2,9 +2,9 @@
 
 ### [misfits 2.0](https://open.spotify.com/playlist/37i9dQZF1DXciq74vrQmM8)
 
-> welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. cassyette
+> welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. ekkstacy
 
-300 songs - 14 hr 17 min - [published](https://open.spotify.com/playlist/7v4i1kizdUXc9HxDt7gAmG)
+302 songs - 14 hr 22 min - [published](https://open.spotify.com/playlist/7v4i1kizdUXc9HxDt7gAmG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,7 @@
 | [I JUST WANNA MAKE SOUNDS](https://open.spotify.com/track/2c8CMO94VVUr2DwHS7MOMM) | [Rex Arcum](https://open.spotify.com/artist/2aESSO1rH5zYGmkTqvLQfI) | [Origins](https://open.spotify.com/album/1k1UM3y0CxN8IQ10fTzYwG) | 2:07 | 2022-03-04 | 2022-03-25 |
 | [I Really Like You pt2](https://open.spotify.com/track/01RpmdGOUoBzrLsC46BSyv) | [Sewerslvt](https://open.spotify.com/artist/30F64wQIHvLiFTGaNZ73nU) | [The World Is Fvcked](https://open.spotify.com/album/4n4bolCBHA2HzbXyf64uI3) | 7:03 | 2022-04-19 | 2022-04-29 |
 | [I Spit On Your Grave](https://open.spotify.com/track/1Nlr6AqQHfh79yFabmu2EF) | [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury) | [I Spit On Your Grave](https://open.spotify.com/album/7CfzmC5Xq20b1UQbO4fHkM) | 3:39 | 2021-12-27 | 2022-07-29 |
-| [i want to die in your arms](https://open.spotify.com/track/08KjCNJAIG6Y41ssp19yTn) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [i want to die in your arms](https://open.spotify.com/album/4TdNXt2F6mfD6ViYi2vt7f) | 2:16 | 2022-08-25 |  |
+| [i want to die in your arms](https://open.spotify.com/track/08KjCNJAIG6Y41ssp19yTn) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [i want to die in your arms](https://open.spotify.com/album/4TdNXt2F6mfD6ViYi2vt7f) | 2:16 | 2022-08-25 | 2022-09-16 |
 | [I Went Too Far \- MK Remix / Radio Version](https://open.spotify.com/track/71GieY2cMEh4s7Unv00gnw) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [I Went Too Far \(MK Remix\)](https://open.spotify.com/album/2nZmJPlEBwQYyVqN46GoHP) | 3:57 | 2022-04-19 | 2022-04-29 |
 | [I'M FINE! I'M GOOD! I'M PERFECT!](https://open.spotify.com/track/1ES945YJBmADUuIkXr3Mv3) | [SPIDER](https://open.spotify.com/artist/4SKFiKjEPLdlpXSOQZhlsi) | [I'M FINE! I'M GOOD! I'M PERFECT!](https://open.spotify.com/album/70rb6TesKaKl08tBD9L5wo) | 3:15 | 2021-12-27 | 2022-01-06 |
 | [IDC](https://open.spotify.com/track/5OwLlkNv9SisPU2ERTks0t) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [IDC](https://open.spotify.com/album/5rcX9JwTd8qF39LpCWpQrs) | 2:37 | 2021-12-27 | 2022-02-04 |
@@ -241,6 +241,7 @@
 | [Sad Girl Summer](https://open.spotify.com/track/52ITJgaQHGQ4Uxnqz44jWP) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Sad Girl Summer](https://open.spotify.com/album/6BD3f64782idv4IF2npufe) | 3:13 | 2022-05-26 | 2022-09-09 |
 | [sad4whattt \- From "Euphoria" An HBO Original Series](https://open.spotify.com/track/3oM8s8hnrh6xjKv1iycJaZ) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [sad4whattt \(From "Euphoria" An HBO Original Series\)](https://open.spotify.com/album/7y5qaNQg9AUbPAqRB4cinS) | 1:58 | 2022-01-28 | 2022-02-13 |
 | [Save Yourselves](https://open.spotify.com/track/30iYY7maOxnipdtsohgJlt) | [Superlove](https://open.spotify.com/artist/33esp5UFKcRpxcR4Xo0Sne) | [Save Yourselves](https://open.spotify.com/album/2nEm2s5PWaB6x95wjaxUuU) | 3:27 | 2022-04-19 |  |
+| [say what u mean \(with Riovaz\)](https://open.spotify.com/track/3898X5xiidWYtAm4LeDveB) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD), [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [say what u mean \(with Riovaz\)](https://open.spotify.com/album/5Y314Kdl6PFqQq0e8BHJt9) | 2:31 | 2022-09-15 |  |
 | [Scratchcard Feeling](https://open.spotify.com/track/5B1ZMJQqtjMSJqFckLGLx8) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Scratchcard Feeling](https://open.spotify.com/album/3ZIYT6OXxH0eHrnKheNMDn) | 4:00 | 2021-12-27 | 2022-06-10 |
 | [September Rain](https://open.spotify.com/track/2GXXovrQJ0VCIbTVPiXILx) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [September Rain](https://open.spotify.com/album/1Bvlhc5gNdOBrwWDWn07HC) | 3:33 | 2022-09-07 |  |
 | [SHALL WE?](https://open.spotify.com/track/15JD2p4h5sk0jXGMuSLVBP) | [LINA MAXINE](https://open.spotify.com/artist/5kFin5jNp7ZLxpJngi0AbC) | [SHALL WE?](https://open.spotify.com/album/6PxilKjQiTVpWSOlR8smRV) | 3:27 | 2022-02-25 | 2022-03-19 |
@@ -290,6 +291,7 @@
 | [wanna luv u](https://open.spotify.com/track/34I9rpFDpvL87DO9JT3ca3) | [Superlove](https://open.spotify.com/artist/33esp5UFKcRpxcR4Xo0Sne) | [wanna luv u](https://open.spotify.com/album/60uDwGVGqjZ5dUHwBy1Pno) | 3:29 | 2021-12-27 | 2022-02-04 |
 | [Wannabe \- Spotify Singles](https://open.spotify.com/track/2Nqxtt1W2iSsqKGNL5XsN1) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Wannabe \- Spotify Singles](https://open.spotify.com/album/0NMh7TwL9UkwMowqDLRYMW) | 2:32 | 2022-03-11 | 2022-08-05 |
 | [War Zone Urchin](https://open.spotify.com/track/5A3uPfOAuxTIXU9QFFsKqp) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Worldwide Torture](https://open.spotify.com/album/2SVRzumTLUTdoHgYNQ4Rh9) | 4:04 | 2022-07-19 |  |
+| [WARNING LABEL](https://open.spotify.com/track/57HGmkFTWz7U0iNvKpgxMJ) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [WARNING LABEL](https://open.spotify.com/album/7fCCrAOGRpTjMAmWVkP4JC) | 2:55 | 2022-09-15 |  |
 | [watery](https://open.spotify.com/track/3R0GEzbTqMY6Iba9ftP4ll) | [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr) | [watery](https://open.spotify.com/album/5Kxux1R2Ke01Uh5oa1loXi) | 2:28 | 2022-08-25 |  |
 | [We Appreciate Power](https://open.spotify.com/track/46cWr45cjDcXEQpkYp9jFT) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab), [HANA](https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o) | [Miss Anthropocene \(Deluxe Edition\)](https://open.spotify.com/album/4zyqNfmTrnvUejh8M1IEh9) | 5:35 | 2022-02-04 | 2022-02-22 |
 | [We're All Going To Die](https://open.spotify.com/track/6jQmhIdemWV7Sp9STU55Fp) | [Zheani](https://open.spotify.com/artist/75xNYf2GU5wtQqBrd74SlY) | [I Hate People On The Internet](https://open.spotify.com/album/0e8Mkw2QbxOROl9ktrjQDJ) | 3:22 | 2022-03-25 |  |

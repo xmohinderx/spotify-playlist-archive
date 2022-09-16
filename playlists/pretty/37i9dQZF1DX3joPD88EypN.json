@@ -1,12 +1,12 @@
 {
   "description": "The sound of Jazz from the nordics. Cover: Jan Garbarek",
-  "num_followers": 16061,
+  "num_followers": 16094,
   "original_name": "The Nordic Notes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjYyNzc0OSwwMDAwMDAwMDAzYmI2OWE0NjdhNTYwZWZjMjQzMjMyZDA5ZTA1ZDhj",
+  "snapshot_id": "MTY2MjYyNzc0OSwwMDAwMDAwMGNiNDcwYjk1ZWE5YzQ1YzY3NWFjMDNjODc4MjI3NjQz",
   "tracks": [
     {
       "added_at": "2022-09-08 09:02:29",
@@ -119,6 +119,22 @@
     {
       "added_at": "2022-09-08 09:02:29",
       "album": {
+        "name": "Ravensburg",
+        "url": "https://open.spotify.com/album/2w62NpE5U58lff2IoUiUWR"
+      },
+      "artists": [
+        {
+          "name": "Mathias Eick",
+          "url": "https://open.spotify.com/artist/6emZIO62oAXpIGiplDApwJ"
+        }
+      ],
+      "duration_ms": 169520,
+      "name": "For My Grandmothers",
+      "url": "https://open.spotify.com/track/2VONqZkRmyYL8K5TMVfygD"
+    },
+    {
+      "added_at": "2022-09-08 09:02:29",
+      "album": {
         "name": "Pipe Dreams",
         "url": "https://open.spotify.com/album/1rDxdpTzfIOsPixMN5unj8"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 290013,
       "name": "Insomnia",
       "url": "https://open.spotify.com/track/5f8t87EAUOP4JLHGfvVD9Z"
-    },
-    {
-      "added_at": "2022-09-08 09:02:29",
-      "album": {
-        "name": "Ravensburg",
-        "url": "https://open.spotify.com/album/2w62NpE5U58lff2IoUiUWR"
-      },
-      "artists": [
-        {
-          "name": "Mathias Eick",
-          "url": "https://open.spotify.com/artist/6emZIO62oAXpIGiplDApwJ"
-        }
-      ],
-      "duration_ms": 169520,
-      "name": "For My Grandmothers",
-      "url": "https://open.spotify.com/track/2VONqZkRmyYL8K5TMVfygD"
     },
     {
       "added_at": "2022-09-08 09:02:29",
@@ -631,22 +631,6 @@
     {
       "added_at": "2022-09-08 09:02:29",
       "album": {
-        "name": "Who Do You Love the Most?",
-        "url": "https://open.spotify.com/album/49BEjb3ppEwJklB8nbhPpR"
-      },
-      "artists": [
-        {
-          "name": "Kjetil Mulelid Trio",
-          "url": "https://open.spotify.com/artist/474vK8QpU3WL9RxRCmo5cX"
-        }
-      ],
-      "duration_ms": 283346,
-      "name": "Remembering",
-      "url": "https://open.spotify.com/track/7egSnOVoyp1SvQtr2ZUp1z"
-    },
-    {
-      "added_at": "2022-09-08 09:02:29",
-      "album": {
         "name": "Komposition VII",
         "url": "https://open.spotify.com/album/5TkbzkhD1kl7ehDrNz6aPM"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 473721,
       "name": "L\u00e5ngsamt",
       "url": "https://open.spotify.com/track/4o0d3Ljhgg6v1t6D3M1DtY"
+    },
+    {
+      "added_at": "2022-09-08 09:02:29",
+      "album": {
+        "name": "Who Do You Love the Most?",
+        "url": "https://open.spotify.com/album/49BEjb3ppEwJklB8nbhPpR"
+      },
+      "artists": [
+        {
+          "name": "Kjetil Mulelid Trio",
+          "url": "https://open.spotify.com/artist/474vK8QpU3WL9RxRCmo5cX"
+        }
+      ],
+      "duration_ms": 283346,
+      "name": "Remembering",
+      "url": "https://open.spotify.com/track/7egSnOVoyp1SvQtr2ZUp1z"
     },
     {
       "added_at": "2022-09-08 09:02:29",
@@ -791,22 +791,6 @@
     {
       "added_at": "2022-09-08 09:02:29",
       "album": {
-        "name": "Fisherman's Wharf",
-        "url": "https://open.spotify.com/album/006qOp9pbbpXgnzhwLB5Bx"
-      },
-      "artists": [
-        {
-          "name": "Daniel Herskedal",
-          "url": "https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS"
-        }
-      ],
-      "duration_ms": 229946,
-      "name": "Fisherman's Wharf",
-      "url": "https://open.spotify.com/track/6i1Byt1hOVnZaZYDCvVoqq"
-    },
-    {
-      "added_at": "2022-09-08 09:02:29",
-      "album": {
         "name": "Meles Meles Revisited",
         "url": "https://open.spotify.com/album/5K68yQzCAapwHyrJjue21r"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 275474,
       "name": "Meles Meles Revisited",
       "url": "https://open.spotify.com/track/6AWbnMjiOIaJeeuMWRb8p7"
+    },
+    {
+      "added_at": "2022-09-08 09:02:29",
+      "album": {
+        "name": "Fisherman's Wharf",
+        "url": "https://open.spotify.com/album/006qOp9pbbpXgnzhwLB5Bx"
+      },
+      "artists": [
+        {
+          "name": "Daniel Herskedal",
+          "url": "https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS"
+        }
+      ],
+      "duration_ms": 229946,
+      "name": "Fisherman's Wharf",
+      "url": "https://open.spotify.com/track/6i1Byt1hOVnZaZYDCvVoqq"
     },
     {
       "added_at": "2022-09-08 09:02:29",
@@ -943,6 +943,22 @@
     {
       "added_at": "2022-09-08 09:02:29",
       "album": {
+        "name": "Nipa Revisited",
+        "url": "https://open.spotify.com/album/5ccXz0QirHwa98idqSWR1R"
+      },
+      "artists": [
+        {
+          "name": "Helge Lien Trio",
+          "url": "https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY"
+        }
+      ],
+      "duration_ms": 299995,
+      "name": "Nipa Revisited",
+      "url": "https://open.spotify.com/track/28PMFJ4TCFmNC1xjEfuJdY"
+    },
+    {
+      "added_at": "2022-09-08 09:02:29",
+      "album": {
         "name": "Gefion",
         "url": "https://open.spotify.com/album/7oBGBUeoPT402ls5ANCQdT"
       },
@@ -983,18 +999,18 @@
     {
       "added_at": "2022-09-08 09:02:29",
       "album": {
-        "name": "Nipa Revisited",
-        "url": "https://open.spotify.com/album/5ccXz0QirHwa98idqSWR1R"
+        "name": "Endless",
+        "url": "https://open.spotify.com/album/55VI95f9lqZuDrc0xZIlrD"
       },
       "artists": [
         {
-          "name": "Helge Lien Trio",
-          "url": "https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY"
+          "name": "Kjetil Mulelid Trio",
+          "url": "https://open.spotify.com/artist/474vK8QpU3WL9RxRCmo5cX"
         }
       ],
-      "duration_ms": 299995,
-      "name": "Nipa Revisited",
-      "url": "https://open.spotify.com/track/28PMFJ4TCFmNC1xjEfuJdY"
+      "duration_ms": 301840,
+      "name": "Endless",
+      "url": "https://open.spotify.com/track/0B9sDqvIGA0xlJaiyzjnHv"
     },
     {
       "added_at": "2022-09-08 09:02:29",
@@ -1015,18 +1031,18 @@
     {
       "added_at": "2022-09-08 09:02:29",
       "album": {
-        "name": "Endless",
-        "url": "https://open.spotify.com/album/55VI95f9lqZuDrc0xZIlrD"
+        "name": "Live in Gothenburg",
+        "url": "https://open.spotify.com/album/6X0P7XyEdeTrt3p8H59EHW"
       },
       "artists": [
         {
-          "name": "Kjetil Mulelid Trio",
-          "url": "https://open.spotify.com/artist/474vK8QpU3WL9RxRCmo5cX"
+          "name": "Esbj\u00f6rn Svensson Trio",
+          "url": "https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk"
         }
       ],
-      "duration_ms": 301840,
-      "name": "Endless",
-      "url": "https://open.spotify.com/track/0B9sDqvIGA0xlJaiyzjnHv"
+      "duration_ms": 370093,
+      "name": "The Second Page - Live",
+      "url": "https://open.spotify.com/track/4gm27nUNV7cj747hTWKJAA"
     },
     {
       "added_at": "2022-09-08 09:02:29",
@@ -1055,18 +1071,18 @@
     {
       "added_at": "2022-09-08 09:02:29",
       "album": {
-        "name": "Live in Gothenburg",
-        "url": "https://open.spotify.com/album/6X0P7XyEdeTrt3p8H59EHW"
+        "name": "Krystall Revisited",
+        "url": "https://open.spotify.com/album/6zrpriXok3a1t7kIERXjde"
       },
       "artists": [
         {
-          "name": "Esbj\u00f6rn Svensson Trio",
-          "url": "https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk"
+          "name": "Helge Lien Trio",
+          "url": "https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY"
         }
       ],
-      "duration_ms": 370093,
-      "name": "The Second Page - Live",
-      "url": "https://open.spotify.com/track/4gm27nUNV7cj747hTWKJAA"
+      "duration_ms": 387626,
+      "name": "Krystall Revisited",
+      "url": "https://open.spotify.com/track/1htb20C2jXgSNW4Im5wjdN"
     },
     {
       "added_at": "2022-09-08 09:02:29",
@@ -1091,22 +1107,6 @@
       "duration_ms": 392653,
       "name": "The Void",
       "url": "https://open.spotify.com/track/2He1XU9akKD3NHbkv1T39O"
-    },
-    {
-      "added_at": "2022-09-08 09:02:29",
-      "album": {
-        "name": "Krystall Revisited",
-        "url": "https://open.spotify.com/album/6zrpriXok3a1t7kIERXjde"
-      },
-      "artists": [
-        {
-          "name": "Helge Lien Trio",
-          "url": "https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY"
-        }
-      ],
-      "duration_ms": 387626,
-      "name": "Krystall Revisited",
-      "url": "https://open.spotify.com/track/1htb20C2jXgSNW4Im5wjdN"
     },
     {
       "added_at": "2022-09-08 09:02:29",
@@ -1163,30 +1163,6 @@
     {
       "added_at": "2022-09-08 09:02:29",
       "album": {
-        "name": "Mira",
-        "url": "https://open.spotify.com/album/7tjHDePOLgWEjAMzUZKMAM"
-      },
-      "artists": [
-        {
-          "name": "Arild Andersen",
-          "url": "https://open.spotify.com/artist/1XNQGT010JcXsJIbUE6j4m"
-        },
-        {
-          "name": "Tommy Smith",
-          "url": "https://open.spotify.com/artist/2LbRiVusjtrdBlE4lkXxfO"
-        },
-        {
-          "name": "Paolo Vinaccia",
-          "url": "https://open.spotify.com/artist/6KRqpgcx3IlzqHGiyrBHbJ"
-        }
-      ],
-      "duration_ms": 335320,
-      "name": "Rossetti",
-      "url": "https://open.spotify.com/track/4ilwrLj110VpFtHbv3SrIP"
-    },
-    {
-      "added_at": "2022-09-08 09:02:29",
-      "album": {
         "name": "The Mariner's Cross",
         "url": "https://open.spotify.com/album/3VFx6LGYMdeyvCmHTnQIak"
       },
@@ -1215,6 +1191,30 @@
       "duration_ms": 403513,
       "name": "Nearly Invisible Stitches",
       "url": "https://open.spotify.com/track/0YaFEVMblJyAkHYzGXTQck"
+    },
+    {
+      "added_at": "2022-09-08 09:02:29",
+      "album": {
+        "name": "Mira",
+        "url": "https://open.spotify.com/album/7tjHDePOLgWEjAMzUZKMAM"
+      },
+      "artists": [
+        {
+          "name": "Arild Andersen",
+          "url": "https://open.spotify.com/artist/1XNQGT010JcXsJIbUE6j4m"
+        },
+        {
+          "name": "Tommy Smith",
+          "url": "https://open.spotify.com/artist/2LbRiVusjtrdBlE4lkXxfO"
+        },
+        {
+          "name": "Paolo Vinaccia",
+          "url": "https://open.spotify.com/artist/6KRqpgcx3IlzqHGiyrBHbJ"
+        }
+      ],
+      "duration_ms": 335320,
+      "name": "Rossetti",
+      "url": "https://open.spotify.com/track/4ilwrLj110VpFtHbv3SrIP"
     },
     {
       "added_at": "2022-09-08 09:02:29",
@@ -1263,26 +1263,18 @@
     {
       "added_at": "2022-09-08 09:02:29",
       "album": {
-        "name": "Bay Of Rainbows (Live At The Jazz Standard, New York / 2017)",
-        "url": "https://open.spotify.com/album/7E6lXyBvHGKpw4zgQllpdU"
+        "name": "Point of View",
+        "url": "https://open.spotify.com/album/6buYfEBqnN3lIYZSBwHpxl"
       },
       "artists": [
         {
-          "name": "Jakob Bro",
-          "url": "https://open.spotify.com/artist/6slrkfC61k7yWM5Hl5USES"
-        },
-        {
-          "name": "Thomas Morgan",
-          "url": "https://open.spotify.com/artist/6txzCcsy6ZKKKQLHmE3Y9L"
-        },
-        {
-          "name": "Joey Baron",
-          "url": "https://open.spotify.com/artist/0sQXx1Ji0yvldYg6cuEAOW"
+          "name": "Kjetil Mulelid",
+          "url": "https://open.spotify.com/artist/1RBwhYR07uefS25DqynAMy"
         }
       ],
-      "duration_ms": 514933,
-      "name": "Red Hook - Live At The Jazz Standard, New York / 2017",
-      "url": "https://open.spotify.com/track/6GZ5LgI8dM3Ynj7J05kANS"
+      "duration_ms": 249386,
+      "name": "Point of View",
+      "url": "https://open.spotify.com/track/0Y1hgpu3wBX3gfc1YKAMS9"
     },
     {
       "added_at": "2022-09-08 09:02:29",
@@ -1303,18 +1295,26 @@
     {
       "added_at": "2022-09-08 09:02:29",
       "album": {
-        "name": "Point of View",
-        "url": "https://open.spotify.com/album/6buYfEBqnN3lIYZSBwHpxl"
+        "name": "Bay Of Rainbows (Live At The Jazz Standard, New York / 2017)",
+        "url": "https://open.spotify.com/album/7E6lXyBvHGKpw4zgQllpdU"
       },
       "artists": [
         {
-          "name": "Kjetil Mulelid",
-          "url": "https://open.spotify.com/artist/1RBwhYR07uefS25DqynAMy"
+          "name": "Jakob Bro",
+          "url": "https://open.spotify.com/artist/6slrkfC61k7yWM5Hl5USES"
+        },
+        {
+          "name": "Thomas Morgan",
+          "url": "https://open.spotify.com/artist/6txzCcsy6ZKKKQLHmE3Y9L"
+        },
+        {
+          "name": "Joey Baron",
+          "url": "https://open.spotify.com/artist/0sQXx1Ji0yvldYg6cuEAOW"
         }
       ],
-      "duration_ms": 249386,
-      "name": "Point of View",
-      "url": "https://open.spotify.com/track/0Y1hgpu3wBX3gfc1YKAMS9"
+      "duration_ms": 514933,
+      "name": "Red Hook - Live At The Jazz Standard, New York / 2017",
+      "url": "https://open.spotify.com/track/6GZ5LgI8dM3Ynj7J05kANS"
     },
     {
       "added_at": "2022-09-08 09:02:29",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2022-09-08 09:02:29",
       "album": {
+        "name": "Children's Day",
+        "url": "https://open.spotify.com/album/0wjbY4Isu7oa95Cu0Gzwot"
+      },
+      "artists": [
+        {
+          "name": "Marius Neset",
+          "url": "https://open.spotify.com/artist/2hG8VlQmj1un8dl8fbRPQi"
+        }
+      ],
+      "duration_ms": 415645,
+      "name": "Children's Day - Small Group Version",
+      "url": "https://open.spotify.com/track/1rMHzChLvrywL6at5xFb44"
+    },
+    {
+      "added_at": "2022-09-08 09:02:29",
+      "album": {
         "name": "Dansere",
         "url": "https://open.spotify.com/album/6MUR1LTmrjc61OkGzLCGl5"
       },
@@ -1443,18 +1459,46 @@
     {
       "added_at": "2022-09-08 09:02:29",
       "album": {
-        "name": "Children's Day",
-        "url": "https://open.spotify.com/album/0wjbY4Isu7oa95Cu0Gzwot"
+        "name": "Remembrance",
+        "url": "https://open.spotify.com/album/6wDMKhu1pCrJSUSYfwqQcC"
       },
       "artists": [
         {
-          "name": "Marius Neset",
-          "url": "https://open.spotify.com/artist/2hG8VlQmj1un8dl8fbRPQi"
+          "name": "Ketil Bj\u00f8rnstad",
+          "url": "https://open.spotify.com/artist/3OjcHir4Q8ERzefXtMU1ph"
+        },
+        {
+          "name": "Tore Brunborg",
+          "url": "https://open.spotify.com/artist/5TqxBHPsl5JnkRqPiZALxh"
+        },
+        {
+          "name": "Jon Christensen",
+          "url": "https://open.spotify.com/artist/5Li0fvh4kEJOWbLYWfNrPr"
         }
       ],
-      "duration_ms": 415645,
-      "name": "Children's Day - Small Group Version",
-      "url": "https://open.spotify.com/track/1rMHzChLvrywL6at5xFb44"
+      "duration_ms": 367120,
+      "name": "Remembrance VI",
+      "url": "https://open.spotify.com/track/2SM3oWZWcqeokeblS158k5"
+    },
+    {
+      "added_at": "2022-09-08 09:02:29",
+      "album": {
+        "name": "A Fine Line",
+        "url": "https://open.spotify.com/album/4EvdavzDE5DxKviRFqM0Fn"
+      },
+      "artists": [
+        {
+          "name": "LITANGEN",
+          "url": "https://open.spotify.com/artist/2cb1UAUUAWqIUqnTjDZquX"
+        },
+        {
+          "name": "Ole Edvard Antonsen",
+          "url": "https://open.spotify.com/artist/67zPWYYHFQtUG522o2V6PR"
+        }
+      ],
+      "duration_ms": 171093,
+      "name": "Leilani",
+      "url": "https://open.spotify.com/track/7JFqgygDKJYZpGmoPrXgw2"
     },
     {
       "added_at": "2022-09-08 09:02:29",
@@ -1483,50 +1527,6 @@
       "duration_ms": 263137,
       "name": "Height of the Reeds in the Wetlands",
       "url": "https://open.spotify.com/track/5dHQT5wEWr0qMEqh998zGE"
-    },
-    {
-      "added_at": "2022-09-08 09:02:29",
-      "album": {
-        "name": "A Fine Line",
-        "url": "https://open.spotify.com/album/4EvdavzDE5DxKviRFqM0Fn"
-      },
-      "artists": [
-        {
-          "name": "LITANGEN",
-          "url": "https://open.spotify.com/artist/2cb1UAUUAWqIUqnTjDZquX"
-        },
-        {
-          "name": "Ole Edvard Antonsen",
-          "url": "https://open.spotify.com/artist/67zPWYYHFQtUG522o2V6PR"
-        }
-      ],
-      "duration_ms": 171093,
-      "name": "Leilani",
-      "url": "https://open.spotify.com/track/7JFqgygDKJYZpGmoPrXgw2"
-    },
-    {
-      "added_at": "2022-09-08 09:02:29",
-      "album": {
-        "name": "Remembrance",
-        "url": "https://open.spotify.com/album/6wDMKhu1pCrJSUSYfwqQcC"
-      },
-      "artists": [
-        {
-          "name": "Ketil Bj\u00f8rnstad",
-          "url": "https://open.spotify.com/artist/3OjcHir4Q8ERzefXtMU1ph"
-        },
-        {
-          "name": "Tore Brunborg",
-          "url": "https://open.spotify.com/artist/5TqxBHPsl5JnkRqPiZALxh"
-        },
-        {
-          "name": "Jon Christensen",
-          "url": "https://open.spotify.com/artist/5Li0fvh4kEJOWbLYWfNrPr"
-        }
-      ],
-      "duration_ms": 367120,
-      "name": "Remembrance VI",
-      "url": "https://open.spotify.com/track/2SM3oWZWcqeokeblS158k5"
     },
     {
       "added_at": "2022-09-08 09:02:29",
@@ -1675,26 +1675,6 @@
     {
       "added_at": "2022-09-08 09:02:29",
       "album": {
-        "name": "Kyanos",
-        "url": "https://open.spotify.com/album/05RIraQ3VTPYP7DK3VmFCq"
-      },
-      "artists": [
-        {
-          "name": "Jon Balke",
-          "url": "https://open.spotify.com/artist/1rFjt7CpwkXN6SB7PjKviq"
-        },
-        {
-          "name": "Magnetic North Orchestra",
-          "url": "https://open.spotify.com/artist/0Rw2W55x8mWQ7o3I1yAXZh"
-        }
-      ],
-      "duration_ms": 296133,
-      "name": "Mutatio",
-      "url": "https://open.spotify.com/track/4oCM3JquuXQZhMJzx5O5Jd"
-    },
-    {
-      "added_at": "2022-09-08 09:02:29",
-      "album": {
         "name": "Cirkel",
         "url": "https://open.spotify.com/album/3iGpwXE8cKFIXeVjAF7svY"
       },
@@ -1715,30 +1695,22 @@
     {
       "added_at": "2022-09-08 09:02:29",
       "album": {
-        "name": "Parish",
-        "url": "https://open.spotify.com/album/3qndY4buaSQpCck6szBaEA"
+        "name": "Kyanos",
+        "url": "https://open.spotify.com/album/05RIraQ3VTPYP7DK3VmFCq"
       },
       "artists": [
         {
-          "name": "Thomas Str\u00f8nen",
-          "url": "https://open.spotify.com/artist/6DeUn0VfASGtKU3XmeotoY"
+          "name": "Jon Balke",
+          "url": "https://open.spotify.com/artist/1rFjt7CpwkXN6SB7PjKviq"
         },
         {
-          "name": "Bobo Stenson",
-          "url": "https://open.spotify.com/artist/4K2Ys4NwPXEYomQrKwAeZc"
-        },
-        {
-          "name": "Fredrik Ljungkvist",
-          "url": "https://open.spotify.com/artist/41tgRoG7bdxGN5qbEydB1w"
-        },
-        {
-          "name": "Mats Eilertsen",
-          "url": "https://open.spotify.com/artist/66tv0Nc5AOVkeyMGS25rJh"
+          "name": "Magnetic North Orchestra",
+          "url": "https://open.spotify.com/artist/0Rw2W55x8mWQ7o3I1yAXZh"
         }
       ],
-      "duration_ms": 352000,
-      "name": "C Moll Maj",
-      "url": "https://open.spotify.com/track/2vmTcBCnGPosTKkcPEnhlb"
+      "duration_ms": 296133,
+      "name": "Mutatio",
+      "url": "https://open.spotify.com/track/4oCM3JquuXQZhMJzx5O5Jd"
     },
     {
       "added_at": "2022-09-08 09:02:29",
@@ -1771,42 +1743,30 @@
     {
       "added_at": "2022-09-08 09:02:29",
       "album": {
-        "name": "Hjorten i skogen",
-        "url": "https://open.spotify.com/album/1msMWUc2k6bMgdUlzXjyFW"
+        "name": "Parish",
+        "url": "https://open.spotify.com/album/3qndY4buaSQpCck6szBaEA"
       },
       "artists": [
         {
-          "name": "Moskus",
-          "url": "https://open.spotify.com/artist/5olyNH3GQns8kKDujdG5oa"
-        }
-      ],
-      "duration_ms": 425642,
-      "name": "Hjorten i skogen",
-      "url": "https://open.spotify.com/track/2yJIwvrRF8OnwFJ8GV81oZ"
-    },
-    {
-      "added_at": "2022-09-08 09:02:29",
-      "album": {
-        "name": "Sun Blowing",
-        "url": "https://open.spotify.com/album/25n7RtSqchU8ESw2ZuaOiz"
-      },
-      "artists": [
-        {
-          "name": "Lars Danielsson",
-          "url": "https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope"
+          "name": "Thomas Str\u00f8nen",
+          "url": "https://open.spotify.com/artist/6DeUn0VfASGtKU3XmeotoY"
         },
         {
-          "name": "Marius Neset",
-          "url": "https://open.spotify.com/artist/2hG8VlQmj1un8dl8fbRPQi"
+          "name": "Bobo Stenson",
+          "url": "https://open.spotify.com/artist/4K2Ys4NwPXEYomQrKwAeZc"
         },
         {
-          "name": "Morten Lund",
-          "url": "https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP"
+          "name": "Fredrik Ljungkvist",
+          "url": "https://open.spotify.com/artist/41tgRoG7bdxGN5qbEydB1w"
+        },
+        {
+          "name": "Mats Eilertsen",
+          "url": "https://open.spotify.com/artist/66tv0Nc5AOVkeyMGS25rJh"
         }
       ],
-      "duration_ms": 263047,
-      "name": "Evening Song for B",
-      "url": "https://open.spotify.com/track/19BhmK2rIrBOipvfxct6Cc"
+      "duration_ms": 352000,
+      "name": "C Moll Maj",
+      "url": "https://open.spotify.com/track/2vmTcBCnGPosTKkcPEnhlb"
     },
     {
       "added_at": "2022-09-08 09:02:29",
@@ -1835,6 +1795,30 @@
     {
       "added_at": "2022-09-08 09:02:29",
       "album": {
+        "name": "Sun Blowing",
+        "url": "https://open.spotify.com/album/25n7RtSqchU8ESw2ZuaOiz"
+      },
+      "artists": [
+        {
+          "name": "Lars Danielsson",
+          "url": "https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope"
+        },
+        {
+          "name": "Marius Neset",
+          "url": "https://open.spotify.com/artist/2hG8VlQmj1un8dl8fbRPQi"
+        },
+        {
+          "name": "Morten Lund",
+          "url": "https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP"
+        }
+      ],
+      "duration_ms": 263047,
+      "name": "Evening Song for B",
+      "url": "https://open.spotify.com/track/19BhmK2rIrBOipvfxct6Cc"
+    },
+    {
+      "added_at": "2022-09-08 09:02:29",
+      "album": {
         "name": "Lycka till med musiken",
         "url": "https://open.spotify.com/album/2sDcUMzVTuwXFVXOU0ueNL"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 544093,
       "name": "9",
       "url": "https://open.spotify.com/track/2buYb32JUcXvH1PLwTc8Cu"
+    },
+    {
+      "added_at": "2022-09-08 09:02:29",
+      "album": {
+        "name": "Hjorten i skogen",
+        "url": "https://open.spotify.com/album/1msMWUc2k6bMgdUlzXjyFW"
+      },
+      "artists": [
+        {
+          "name": "Moskus",
+          "url": "https://open.spotify.com/artist/5olyNH3GQns8kKDujdG5oa"
+        }
+      ],
+      "duration_ms": 425642,
+      "name": "Hjorten i skogen",
+      "url": "https://open.spotify.com/track/2yJIwvrRF8OnwFJ8GV81oZ"
     },
     {
       "added_at": "2022-09-08 09:02:29",

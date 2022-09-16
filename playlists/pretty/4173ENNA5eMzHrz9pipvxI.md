@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 ### [Spinnin' Records Brand New](https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI)
 
-> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: R3HAB x Ryan Arnold x N.F.I
+> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: LUM!X, DVBBS
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 119,181 likes - 19 songs - 55 min 9 sec
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 119,191 likes - 19 songs - 55 min 9 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,4 +28,4 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 | 18 | [Hold On](https://open.spotify.com/track/3ORYzYwZLl446hYx5Ah9To) | [Giorgio Gee](https://open.spotify.com/artist/2uNkbVQ2yfwLDR79cYe92R), [Mojjo](https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j) | [Hold On](https://open.spotify.com/album/67l4VMAHwYKctXYBaBM5c9) | 2:48 |
 | 19 | [Hot in Here \- SMACK Remix](https://open.spotify.com/track/1wmcrLqxOgMCqkXoaC475K) | [Steff da Campo](https://open.spotify.com/artist/7Bo6vpAmmhylCRWoHSBkcZ), [SMACK](https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug) | [Hot in Here \(SMACK Remix\)](https://open.spotify.com/album/3lJV43qZb6vNNCSDUmNBhd) | 2:19 |
 
-Snapshot ID: `NjI1NiwyOTEyMWJjZjFmMGEwYjZkZDMzNmQwMTVjZWRhMmU3ZjU4YzFhMGFh`
+Snapshot ID: `NjI1OCwzODEyNjFjNjViYWM4OGZhMTQ2NGYzN2IwNzRlMzdjMjBiM2Y1MGZh`

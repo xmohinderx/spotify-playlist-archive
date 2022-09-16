@@ -1,12 +1,12 @@
 {
   "description": "M\u00edstico y amaz\u00f3nico... Este es el sonido de latinoam\u00e9rica. Foto: DNGDNGDNG",
-  "num_followers": 322048,
+  "num_followers": 322166,
   "original_name": "El\u00e9ctrica Selv\u00e1tica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTk5ODU2OSwwMDAwMDAwMDI1OTE4NGRkMjA2M2ZlNjU2ZmFlMzAzOWFkYzcyMDAy",
+  "snapshot_id": "MTY0OTk5ODU2OSwwMDAwMDAwMDQzNDZkYmMzMWQ0MTBlZWJiZTliOWYxM2Q1ZTFmMWEx",
   "tracks": [
     {
       "added_at": "2022-04-15 04:56:09",
@@ -259,6 +259,26 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
+        "name": "De Aqu\u00ed Hasta Aqu\u00ed",
+        "url": "https://open.spotify.com/album/2IGTlMn6hFIJCilXryWOp3"
+      },
+      "artists": [
+        {
+          "name": "Federico Estevez",
+          "url": "https://open.spotify.com/artist/78wJyJntuNWAPG0FbN8k41"
+        },
+        {
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+        }
+      ],
+      "duration_ms": 196998,
+      "name": "El Quemado",
+      "url": "https://open.spotify.com/track/2N3LB0YlVpIqTloJPhO8I7"
+    },
+    {
+      "added_at": "2022-04-15 04:56:09",
+      "album": {
         "name": "Amansara",
         "url": "https://open.spotify.com/album/14DTBgOPUSBQwiK0DCzaLl"
       },
@@ -291,26 +311,6 @@
       "duration_ms": 220866,
       "name": "P\u00e1jaro Cenzontle",
       "url": "https://open.spotify.com/track/3QYQIrQ5ccLToSwFJ1cZcW"
-    },
-    {
-      "added_at": "2022-04-15 04:56:09",
-      "album": {
-        "name": "De Aqu\u00ed Hasta Aqu\u00ed",
-        "url": "https://open.spotify.com/album/2IGTlMn6hFIJCilXryWOp3"
-      },
-      "artists": [
-        {
-          "name": "Federico Estevez",
-          "url": "https://open.spotify.com/artist/78wJyJntuNWAPG0FbN8k41"
-        },
-        {
-          "name": "Chancha Via Circuito",
-          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
-        }
-      ],
-      "duration_ms": 196998,
-      "name": "El Quemado",
-      "url": "https://open.spotify.com/track/2N3LB0YlVpIqTloJPhO8I7"
     },
     {
       "added_at": "2022-04-15 04:56:09",
@@ -471,22 +471,6 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
-        "name": "Padremontes",
-        "url": "https://open.spotify.com/album/2xBuTSISaCxzFIi70B83Fn"
-      },
-      "artists": [
-        {
-          "name": "Frente Cumbiero",
-          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
-        }
-      ],
-      "duration_ms": 203778,
-      "name": "Sondiram\u00e1",
-      "url": "https://open.spotify.com/track/5NadgnszrdqPQ8ZmXfGc0Q"
-    },
-    {
-      "added_at": "2022-04-15 04:56:09",
-      "album": {
         "name": "Balnear",
         "url": "https://open.spotify.com/album/0HXvHufu18kcQI2xKTFhwO"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 213386,
       "name": "Solitario",
       "url": "https://open.spotify.com/track/3SutSEaiANvV7SSn4TEztA"
+    },
+    {
+      "added_at": "2022-04-15 04:56:09",
+      "album": {
+        "name": "Padremontes",
+        "url": "https://open.spotify.com/album/2xBuTSISaCxzFIi70B83Fn"
+      },
+      "artists": [
+        {
+          "name": "Frente Cumbiero",
+          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
+        }
+      ],
+      "duration_ms": 203778,
+      "name": "Sondiram\u00e1",
+      "url": "https://open.spotify.com/track/5NadgnszrdqPQ8ZmXfGc0Q"
     },
     {
       "added_at": "2022-04-15 04:56:09",
@@ -595,22 +595,6 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
-        "name": "Siku",
-        "url": "https://open.spotify.com/album/3Ebykp28PuMSSQfqzkt8DO"
-      },
-      "artists": [
-        {
-          "name": "Nicola Cruz",
-          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
-        }
-      ],
-      "duration_ms": 347763,
-      "name": "Siete",
-      "url": "https://open.spotify.com/track/6H76nYgiuQ1BotX9hUKW6i"
-    },
-    {
-      "added_at": "2022-04-15 04:56:09",
-      "album": {
         "name": "Shika Shika / Botanas, Vol. 15",
         "url": "https://open.spotify.com/album/6tFwiVNeI7Pdut9sWkgCXW"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 249518,
       "name": "Canario",
       "url": "https://open.spotify.com/track/12KVTzqgU558xqkpsywKex"
+    },
+    {
+      "added_at": "2022-04-15 04:56:09",
+      "album": {
+        "name": "Siku",
+        "url": "https://open.spotify.com/album/3Ebykp28PuMSSQfqzkt8DO"
+      },
+      "artists": [
+        {
+          "name": "Nicola Cruz",
+          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
+        }
+      ],
+      "duration_ms": 347763,
+      "name": "Siete",
+      "url": "https://open.spotify.com/track/6H76nYgiuQ1BotX9hUKW6i"
     },
     {
       "added_at": "2022-04-15 04:56:09",
@@ -667,26 +667,6 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
-        "name": "Fuego",
-        "url": "https://open.spotify.com/album/46DsjNFAHuGGjMfo1TAyct"
-      },
-      "artists": [
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        },
-        {
-          "name": "Leonel Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
-        }
-      ],
-      "duration_ms": 245280,
-      "name": "Como Lo Ped\u00ed",
-      "url": "https://open.spotify.com/track/2UTNZlatDykZEdZTrSFE4x"
-    },
-    {
-      "added_at": "2022-04-15 04:56:09",
-      "album": {
         "name": "Shika Shika Presents Eco",
         "url": "https://open.spotify.com/album/0GuwihkO3wZHLIc9C7qAlx"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 332830,
       "name": "Paso Por El Fuego",
       "url": "https://open.spotify.com/track/3309nFqWGA4rnzfjqrQYzX"
+    },
+    {
+      "added_at": "2022-04-15 04:56:09",
+      "album": {
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/46DsjNFAHuGGjMfo1TAyct"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        },
+        {
+          "name": "Leonel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
+        }
+      ],
+      "duration_ms": 245280,
+      "name": "Como Lo Ped\u00ed",
+      "url": "https://open.spotify.com/track/2UTNZlatDykZEdZTrSFE4x"
     },
     {
       "added_at": "2022-04-15 04:56:09",
@@ -979,22 +979,6 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
-        "name": "A Short Story of the Mahale Mountains",
-        "url": "https://open.spotify.com/album/1aDWcld5aEvnFUixZ3zfyO"
-      },
-      "artists": [
-        {
-          "name": "The Golden Islands",
-          "url": "https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf"
-        }
-      ],
-      "duration_ms": 162765,
-      "name": "A Short Story of the Mahale Mountains",
-      "url": "https://open.spotify.com/track/7ii2m9S4sHvuOIpHEx2ukF"
-    },
-    {
-      "added_at": "2022-04-15 04:56:09",
-      "album": {
         "name": "Cuando Canto Grito",
         "url": "https://open.spotify.com/album/4ZvHs6XyOHCVwWd1x0NGFP"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 341074,
       "name": "Cuando Canto Grito",
       "url": "https://open.spotify.com/track/1t4gqrKnZ8TYjUAuyskN4Q"
+    },
+    {
+      "added_at": "2022-04-15 04:56:09",
+      "album": {
+        "name": "A Short Story of the Mahale Mountains",
+        "url": "https://open.spotify.com/album/1aDWcld5aEvnFUixZ3zfyO"
+      },
+      "artists": [
+        {
+          "name": "The Golden Islands",
+          "url": "https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf"
+        }
+      ],
+      "duration_ms": 162765,
+      "name": "A Short Story of the Mahale Mountains",
+      "url": "https://open.spotify.com/track/7ii2m9S4sHvuOIpHEx2ukF"
     },
     {
       "added_at": "2022-04-15 04:56:09",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
-        "name": "Desierto",
-        "url": "https://open.spotify.com/album/46UeLDMUsEfQ8cI4CkUvSE"
-      },
-      "artists": [
-        {
-          "name": "Simah",
-          "url": "https://open.spotify.com/artist/6LYnrefo5eYNNpzOiNxa4L"
-        }
-      ],
-      "duration_ms": 173043,
-      "name": "Desierto",
-      "url": "https://open.spotify.com/track/4AaWrj0s8jwkrQZT41aMXM"
-    },
-    {
-      "added_at": "2022-04-15 04:56:09",
-      "album": {
         "name": "Kuru Kuru",
         "url": "https://open.spotify.com/album/1VtknfjcZGa4thCJt9bcaP"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 311141,
       "name": "Soma",
       "url": "https://open.spotify.com/track/1qA2L50nbrpDv9b53ifP88"
+    },
+    {
+      "added_at": "2022-04-15 04:56:09",
+      "album": {
+        "name": "Desierto",
+        "url": "https://open.spotify.com/album/46UeLDMUsEfQ8cI4CkUvSE"
+      },
+      "artists": [
+        {
+          "name": "Simah",
+          "url": "https://open.spotify.com/artist/6LYnrefo5eYNNpzOiNxa4L"
+        }
+      ],
+      "duration_ms": 173043,
+      "name": "Desierto",
+      "url": "https://open.spotify.com/track/4AaWrj0s8jwkrQZT41aMXM"
     },
     {
       "added_at": "2022-04-15 04:56:09",

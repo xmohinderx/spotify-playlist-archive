@@ -1,12 +1,12 @@
 {
   "description": "This fun, upbeat playlist will help get you up and ready to start your day! ",
-  "num_followers": 234357,
+  "num_followers": 234363,
   "original_name": "Ready for the Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5NjAwMCwwMDAwMDAwMGE1ZjJiNjdlOTQ2MTkwMjFkYTgzYzViNzBiODM4OGFi",
+  "snapshot_id": "MTY2MjY5NjAwMCwwMDAwMDAwMDU4NzY5YmMzZjM2Njk5YTljNmQ5MzlhMTYxZWYxOWQ0",
   "tracks": [
     {
       "added_at": "2022-09-09 04:00:00",
@@ -493,6 +493,22 @@
       "url": "https://open.spotify.com/track/5HUxswbr7V4fzwG1LGCf7U"
     },
     {
+      "added_at": "2021-02-05 05:01:00",
+      "album": {
+        "name": "My Bad",
+        "url": "https://open.spotify.com/album/7KNGS1OOy0u8NHQxY553D7"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 177142,
+      "name": "My Bad",
+      "url": "https://open.spotify.com/track/5ql22UbzPOJrDSjVeTvX6E"
+    },
+    {
       "added_at": "2022-07-01 04:02:00",
       "album": {
         "name": "Let Love Go",
@@ -511,22 +527,6 @@
       "duration_ms": 173266,
       "name": "Let Love Go",
       "url": "https://open.spotify.com/track/6wULOKKYcFk3K6bJnFPxMg"
-    },
-    {
-      "added_at": "2021-02-05 05:01:00",
-      "album": {
-        "name": "My Bad",
-        "url": "https://open.spotify.com/album/7KNGS1OOy0u8NHQxY553D7"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 177142,
-      "name": "My Bad",
-      "url": "https://open.spotify.com/track/5ql22UbzPOJrDSjVeTvX6E"
     },
     {
       "added_at": "2022-04-01 04:02:00",
@@ -621,6 +621,22 @@
       "url": "https://open.spotify.com/track/27KqSOzLiN6p9sjs95MnZg"
     },
     {
+      "added_at": "2022-06-24 04:02:00",
+      "album": {
+        "name": "Lunar Eclipse",
+        "url": "https://open.spotify.com/album/40SlzaFKQTtGh2vOv1BPAC"
+      },
+      "artists": [
+        {
+          "name": "Fulton Lee",
+          "url": "https://open.spotify.com/artist/5CAvR9koH16JpcoTxUoeyS"
+        }
+      ],
+      "duration_ms": 194498,
+      "name": "Lunar Eclipse",
+      "url": "https://open.spotify.com/track/5LeKKDF7i65mQ3NIW8mkwP"
+    },
+    {
       "added_at": "2022-06-03 04:01:00",
       "album": {
         "name": "My Wave",
@@ -651,22 +667,6 @@
       "duration_ms": 288062,
       "name": "Never Seen You Dance",
       "url": "https://open.spotify.com/track/5mdOo5OClzyz4kgdiek8Pu"
-    },
-    {
-      "added_at": "2022-06-24 04:02:00",
-      "album": {
-        "name": "Lunar Eclipse",
-        "url": "https://open.spotify.com/album/40SlzaFKQTtGh2vOv1BPAC"
-      },
-      "artists": [
-        {
-          "name": "Fulton Lee",
-          "url": "https://open.spotify.com/artist/5CAvR9koH16JpcoTxUoeyS"
-        }
-      ],
-      "duration_ms": 194498,
-      "name": "Lunar Eclipse",
-      "url": "https://open.spotify.com/track/5LeKKDF7i65mQ3NIW8mkwP"
     },
     {
       "added_at": "2021-02-19 05:01:00",
@@ -965,6 +965,22 @@
       "url": "https://open.spotify.com/track/3CAUdHOsgijdnNsjO7o7Hd"
     },
     {
+      "added_at": "2021-05-14 04:01:00",
+      "album": {
+        "name": "Bless You",
+        "url": "https://open.spotify.com/album/1IOyct7shyBK5fwXUajCIr"
+      },
+      "artists": [
+        {
+          "name": "Cool Company",
+          "url": "https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn"
+        }
+      ],
+      "duration_ms": 225760,
+      "name": "Kind of Freak",
+      "url": "https://open.spotify.com/track/6Z0VYYq9f7iDDRtPUiShrS"
+    },
+    {
       "added_at": "2022-06-03 04:01:00",
       "album": {
         "name": "I Told You",
@@ -987,22 +1003,6 @@
       "duration_ms": 207023,
       "name": "I Told You",
       "url": "https://open.spotify.com/track/42gwqd35893WOKpyNLRcCL"
-    },
-    {
-      "added_at": "2021-05-14 04:01:00",
-      "album": {
-        "name": "Bless You",
-        "url": "https://open.spotify.com/album/1IOyct7shyBK5fwXUajCIr"
-      },
-      "artists": [
-        {
-          "name": "Cool Company",
-          "url": "https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn"
-        }
-      ],
-      "duration_ms": 225760,
-      "name": "Kind of Freak",
-      "url": "https://open.spotify.com/track/6Z0VYYq9f7iDDRtPUiShrS"
     },
     {
       "added_at": "2022-05-06 04:02:00",
@@ -1037,22 +1037,6 @@
       "url": "https://open.spotify.com/track/1K6s5g4URy2UfS4HNBPhGY"
     },
     {
-      "added_at": "2022-07-12 18:25:04",
-      "album": {
-        "name": "ITS ALL GOOD",
-        "url": "https://open.spotify.com/album/3eCn1ahWXhBqkX89q627Tn"
-      },
-      "artists": [
-        {
-          "name": "Neon Dreams",
-          "url": "https://open.spotify.com/artist/2UQ6mFkiLYy5VHRJnajQYT"
-        }
-      ],
-      "duration_ms": 187618,
-      "name": "ITS ALL GOOD",
-      "url": "https://open.spotify.com/track/1rtfAn2mFfDuVXhg8nkv6Z"
-    },
-    {
       "added_at": "2022-07-29 04:02:00",
       "album": {
         "name": "Berlin 1",
@@ -1067,6 +1051,22 @@
       "duration_ms": 302160,
       "name": "Berlin 1",
       "url": "https://open.spotify.com/track/1s3cQmlsiqoDNsRGyWmUzX"
+    },
+    {
+      "added_at": "2022-07-12 18:25:04",
+      "album": {
+        "name": "ITS ALL GOOD",
+        "url": "https://open.spotify.com/album/3eCn1ahWXhBqkX89q627Tn"
+      },
+      "artists": [
+        {
+          "name": "Neon Dreams",
+          "url": "https://open.spotify.com/artist/2UQ6mFkiLYy5VHRJnajQYT"
+        }
+      ],
+      "duration_ms": 187618,
+      "name": "ITS ALL GOOD",
+      "url": "https://open.spotify.com/track/1rtfAn2mFfDuVXhg8nkv6Z"
     },
     {
       "added_at": "2022-04-22 04:01:00",
@@ -1085,20 +1085,24 @@
       "url": "https://open.spotify.com/track/590vTaQpYU6vetBZDbyuFf"
     },
     {
-      "added_at": "2022-08-12 04:02:00",
+      "added_at": "2022-02-18 05:02:00",
       "album": {
-        "name": "Keep Her",
-        "url": "https://open.spotify.com/album/6dIok7yPbvTPNLfeJcmctW"
+        "name": "These Days",
+        "url": "https://open.spotify.com/album/5sMzsRvJjnJCJp53H4VFO3"
       },
       "artists": [
         {
-          "name": "Jake Miller",
-          "url": "https://open.spotify.com/artist/3gggmBN0erstm3YJvEGe3t"
+          "name": "Neo Arc",
+          "url": "https://open.spotify.com/artist/3HA56QnsISHLd4eqHsgyH5"
+        },
+        {
+          "name": "Eliana Veinberga",
+          "url": "https://open.spotify.com/artist/2T0Mc26hJQq4Ax6NQCWWwO"
         }
       ],
-      "duration_ms": 171346,
-      "name": "Keep Her",
-      "url": "https://open.spotify.com/track/3zg5cOYNckzSAs4aTRBHau"
+      "duration_ms": 217812,
+      "name": "These Days",
+      "url": "https://open.spotify.com/track/6ghyebyKTLw7ITymWy5y3g"
     },
     {
       "added_at": "2022-04-22 04:01:00",
@@ -1125,24 +1129,20 @@
       "url": "https://open.spotify.com/track/7Bu6XaIeytnFdLrpMEpdug"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
+      "added_at": "2022-08-12 04:02:00",
       "album": {
-        "name": "These Days",
-        "url": "https://open.spotify.com/album/5sMzsRvJjnJCJp53H4VFO3"
+        "name": "Keep Her",
+        "url": "https://open.spotify.com/album/6dIok7yPbvTPNLfeJcmctW"
       },
       "artists": [
         {
-          "name": "Neo Arc",
-          "url": "https://open.spotify.com/artist/3HA56QnsISHLd4eqHsgyH5"
-        },
-        {
-          "name": "Eliana Veinberga",
-          "url": "https://open.spotify.com/artist/2T0Mc26hJQq4Ax6NQCWWwO"
+          "name": "Jake Miller",
+          "url": "https://open.spotify.com/artist/3gggmBN0erstm3YJvEGe3t"
         }
       ],
-      "duration_ms": 217812,
-      "name": "These Days",
-      "url": "https://open.spotify.com/track/6ghyebyKTLw7ITymWy5y3g"
+      "duration_ms": 171346,
+      "name": "Keep Her",
+      "url": "https://open.spotify.com/track/3zg5cOYNckzSAs4aTRBHau"
     },
     {
       "added_at": "2022-04-29 04:02:00",
@@ -1163,22 +1163,6 @@
       "duration_ms": 218248,
       "name": "First Avenue",
       "url": "https://open.spotify.com/track/2ICzjmxUrrS0x5YgLqpXqh"
-    },
-    {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
-        "name": "My Tribe",
-        "url": "https://open.spotify.com/album/4PErex6T8qV3kP7cYOQzU0"
-      },
-      "artists": [
-        {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
-        }
-      ],
-      "duration_ms": 183500,
-      "name": "My Tribe",
-      "url": "https://open.spotify.com/track/3uBU35tiEfq9nstHLauSHU"
     },
     {
       "added_at": "2021-09-03 04:01:00",
@@ -1203,6 +1187,22 @@
       "duration_ms": 183870,
       "name": "According To You",
       "url": "https://open.spotify.com/track/7393MRjmgrJgTuOybJWFB6"
+    },
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "My Tribe",
+        "url": "https://open.spotify.com/album/4PErex6T8qV3kP7cYOQzU0"
+      },
+      "artists": [
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "duration_ms": 183500,
+      "name": "My Tribe",
+      "url": "https://open.spotify.com/track/3uBU35tiEfq9nstHLauSHU"
     },
     {
       "added_at": "2022-05-27 04:01:00",
@@ -1249,22 +1249,6 @@
       "url": "https://open.spotify.com/track/6Hjy33Aku74bDdbLWhe6U6"
     },
     {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "Sunset Drive - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/24tiks2kEOLQV4JcE45h74"
-      },
-      "artists": [
-        {
-          "name": "Dreamer Isioma",
-          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
-        }
-      ],
-      "duration_ms": 193983,
-      "name": "Sunset Drive - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/6LAG03Nr7qRvPSdmrPC5JF"
-    },
-    {
       "added_at": "2021-09-21 15:07:50",
       "album": {
         "name": "Better Man",
@@ -1279,6 +1263,38 @@
       "duration_ms": 196038,
       "name": "Better Man",
       "url": "https://open.spotify.com/track/0V46zmNoXDwkefMNQhR87Q"
+    },
+    {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/5G0S0RDVw7yKKzW3krfKlV"
+      },
+      "artists": [
+        {
+          "name": "WILSN",
+          "url": "https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr"
+        }
+      ],
+      "duration_ms": 222496,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/2UvjzFa5j6V2oi6PStN2TT"
+    },
+    {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "Sunset Drive - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/24tiks2kEOLQV4JcE45h74"
+      },
+      "artists": [
+        {
+          "name": "Dreamer Isioma",
+          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
+        }
+      ],
+      "duration_ms": 193983,
+      "name": "Sunset Drive - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/6LAG03Nr7qRvPSdmrPC5JF"
     },
     {
       "added_at": "2022-04-29 04:02:00",
@@ -1301,22 +1317,6 @@
       "url": "https://open.spotify.com/track/3NwKYzeIdX1g73L3dXkySB"
     },
     {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "Tell Me",
-        "url": "https://open.spotify.com/album/5G0S0RDVw7yKKzW3krfKlV"
-      },
-      "artists": [
-        {
-          "name": "WILSN",
-          "url": "https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr"
-        }
-      ],
-      "duration_ms": 222496,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/2UvjzFa5j6V2oi6PStN2TT"
-    },
-    {
       "added_at": "2021-08-13 04:01:00",
       "album": {
         "name": "Tango",
@@ -1331,22 +1331,6 @@
       "duration_ms": 304838,
       "name": "Tango",
       "url": "https://open.spotify.com/track/36H4R9Ai9UD9oPE5bb7p2m"
-    },
-    {
-      "added_at": "2022-05-20 04:01:00",
-      "album": {
-        "name": "All Day Long",
-        "url": "https://open.spotify.com/album/2HktzXlF3iNo6C0uQ3vP9Z"
-      },
-      "artists": [
-        {
-          "name": "Mega",
-          "url": "https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg"
-        }
-      ],
-      "duration_ms": 169433,
-      "name": "All Day Long",
-      "url": "https://open.spotify.com/track/2D3JB5Bs5ut4czq9Xt3PA3"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -1367,6 +1351,22 @@
       "duration_ms": 181330,
       "name": "Lost & Alive",
       "url": "https://open.spotify.com/track/5x2BKKfwtydW0HO6NgH2Pi"
+    },
+    {
+      "added_at": "2022-05-20 04:01:00",
+      "album": {
+        "name": "All Day Long",
+        "url": "https://open.spotify.com/album/2HktzXlF3iNo6C0uQ3vP9Z"
+      },
+      "artists": [
+        {
+          "name": "Mega",
+          "url": "https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg"
+        }
+      ],
+      "duration_ms": 169433,
+      "name": "All Day Long",
+      "url": "https://open.spotify.com/track/2D3JB5Bs5ut4czq9Xt3PA3"
     },
     {
       "added_at": "2022-07-29 04:02:00",

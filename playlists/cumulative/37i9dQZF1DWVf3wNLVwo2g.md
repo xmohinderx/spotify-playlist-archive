@@ -4,7 +4,7 @@
 
 > Powerful female voices, like you've never heard before\.  Cover: Brittany Howard, Phoebe Bridgers and Ingrid Andress.
 
-245 songs - 14 hr 56 min - [published](https://open.spotify.com/playlist/0WMCCWL4CLeFX6c5BLa8on)
+246 songs - 15 hr 0 min - [published](https://open.spotify.com/playlist/0WMCCWL4CLeFX6c5BLa8on)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,7 @@
 | [Landslide](https://open.spotify.com/track/0ZxSPvOEDHlwUvjfKxLdZr) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Spotify Single Sessions](https://open.spotify.com/album/5CQZHRx66NBFLheNYh1XGM) | 3:53 | 2021-09-14 | 2022-07-29 |
 | [Landslide \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/1RPFnPCvtBc46BFVOnzmPx) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Spotify Singles](https://open.spotify.com/album/05P14Crb7IRWfwSYFgKiM2) | 3:53 | 2022-03-08 |  |
 | [Leave \(Get Out\) \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/6ClEErrTmd3GzRqGiCEC8G) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Spotify Singles](https://open.spotify.com/album/6sHBQWEvoS10m9PE9mY9ND) | 3:15 | 2021-09-14 |  |
-| [Let Go \- Recorded At Spotify Studios Stockholm](https://open.spotify.com/track/6e3Zuo8WsFpb4PAxVRfL9N) | [Scarlet Pleasure](https://open.spotify.com/artist/7wrulS1dfanckBnoxxEuS6) | [Spotify Singles](https://open.spotify.com/album/3dCEhJoGxyinkbmxtwk6dP) | 3:23 | 2021-09-14 |  |
+| [Let Go \- Recorded At Spotify Studios Stockholm](https://open.spotify.com/track/6e3Zuo8WsFpb4PAxVRfL9N) | [Scarlet Pleasure](https://open.spotify.com/artist/7wrulS1dfanckBnoxxEuS6) | [Spotify Singles](https://open.spotify.com/album/3dCEhJoGxyinkbmxtwk6dP) | 3:23 | 2021-09-14 | 2022-09-16 |
 | [LET YOU BE RIGHT \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/6Xj6AtBraaa7CrQs6fRAQQ) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Spotify Singles](https://open.spotify.com/album/1oqgK74ZGMHTWEma2fST41) | 3:01 | 2021-09-14 |  |
 | [Liar Liar \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/54whmtPE736Lh8t0cjrihv) | [Aubrie Sellers](https://open.spotify.com/artist/27IiEYV6p8fs5j8n39Pk1u) | [Spotify Singles](https://open.spotify.com/album/6zKsXG7Q3k2HFLHY4i3tGU) | 4:17 | 2021-09-14 |  |
 | [Light On \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/0NIbNHfjpDZYBC9gKpVoWd) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Spotify Singles](https://open.spotify.com/album/5lLa32kU65Y7mhYLMiEcXn) | 4:31 | 2021-09-14 |  |
@@ -197,6 +197,7 @@
 | [Stanley Park \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3EIRyXhoQP8zglbqDif1NX) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Spotify Singles](https://open.spotify.com/album/3XV7BmKTGdfoxGEaKDQbJb) | 2:29 | 2021-09-14 | 2022-07-29 |
 | [Starboy \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7FxWJX9m6V4d9lYZ5vogqW) | [SHAED](https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR) | [Spotify Singles](https://open.spotify.com/album/7422NfmOW8GffdVQNbM90S) | 3:31 | 2021-09-14 |  |
 | [Stay \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1QyyVFQ0Y1DJLb7OeQgQUJ) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Spotify Singles](https://open.spotify.com/album/4I2QiPOnv6R5gBayNvGHvJ) | 4:04 | 2022-03-08 | 2022-09-15 |
+| [Stay \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3kSIXQW05MKcprFP1RtwWX) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Spotify Singles](https://open.spotify.com/album/1DwD96qkcmYfDAor27Gj38) | 4:04 | 2022-03-08 |  |
 | [Stay \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/62Jyekez6V8uxcxxq5sxRE) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Spotify Singles](https://open.spotify.com/album/4iccPwuyNYH4ETLxhdchX6) | 4:04 | 2021-09-14 | 2022-07-29 |
 | [Stay High \- Recorded At East West Studios](https://open.spotify.com/track/0LeA15NV8v9W1HrZvD3rqS) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Spotify Singles](https://open.spotify.com/album/1KQQIiKcpLntswP4sW62yK) | 3:34 | 2022-03-08 |  |
 | [Stay High \- Recorded at East West Studios](https://open.spotify.com/track/663sv7qnXdkEkorvYmd3nY) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Spotify Singles](https://open.spotify.com/album/736ZS6qpLRbwq2y2clVA26) | 3:34 | 2021-09-14 | 2022-07-29 |

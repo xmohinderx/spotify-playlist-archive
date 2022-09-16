@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 
 > Se acabó el amor\. La música continúa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,693,629 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,693,868 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,9 +65,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 | 55 | [Si tú no vuelves](https://open.spotify.com/track/7C5l5hLxS4uZX1VJR13ZBT) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Colección Definitiva](https://open.spotify.com/album/0nEL8RK9TM7RD6oTzv27Zf) | 4:38 |
 | 56 | [Avioncito de Papel](https://open.spotify.com/track/3NotbAoyN09CuKaqWQP48U) | [Dani Martín](https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Lo Que Me Dé la Gana](https://open.spotify.com/album/7wtZmmV9IngZcM71QUBUgL) | 3:49 |
 | 57 | [Vas A Quedarte](https://open.spotify.com/track/2b3JxLi8KAiOsD8ehnOxDZ) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Tráiler](https://open.spotify.com/album/1ayrDfnBGwEtBHjS4u5gHw) | 3:46 |
-| 58 | [Arreglándome y Dañándome](https://open.spotify.com/track/1dKK4hfno7Jfsh84FQVa5R) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Arreglándome y Dañándome](https://open.spotify.com/album/1PIYczCyoij3KAG5FRTChF) | 4:04 |
-| 59 | [Vuelve](https://open.spotify.com/track/6WSAPEkvEfcEUgSTAo1D3S) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [Vuelve](https://open.spotify.com/album/05ZaKm4eYlGXsesyzD1fZK) | 3:44 |
-| 60 | [Con la Falta Que Me Haces](https://open.spotify.com/track/3xohhgJWESr3MgtaZyRTkd) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [20 \-\- 21](https://open.spotify.com/album/7H9fuEWZlieEdYj4galfnc) | 2:44 |
+| 58 | [Con la Falta Que Me Haces](https://open.spotify.com/track/3xohhgJWESr3MgtaZyRTkd) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [20 \-\- 21](https://open.spotify.com/album/7H9fuEWZlieEdYj4galfnc) | 2:44 |
+| 59 | [Arreglándome y Dañándome](https://open.spotify.com/track/1dKK4hfno7Jfsh84FQVa5R) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Arreglándome y Dañándome](https://open.spotify.com/album/1PIYczCyoij3KAG5FRTChF) | 4:04 |
+| 60 | [Vuelve](https://open.spotify.com/track/6WSAPEkvEfcEUgSTAo1D3S) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [Vuelve](https://open.spotify.com/album/05ZaKm4eYlGXsesyzD1fZK) | 3:44 |
 | 61 | [Si hubieras querido](https://open.spotify.com/track/0Q6Pc3dqsl6qHKZ91DPUTH) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Si hubieras querido](https://open.spotify.com/album/0mag3mrok9LV07L6nnACOt) | 3:41 |
 | 62 | [Aún me amas](https://open.spotify.com/track/6QpL9FS8ytyEIYrM2l7lSf) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [Aún me amas](https://open.spotify.com/album/5gY5TLUTYIC3TOrYXmWdVw) | 3:40 |
 | 63 | [De la Ilusión Al Miedo](https://open.spotify.com/track/4lDk4a22gI0UoqhX408lRN) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [De la Ilusión Al Miedo](https://open.spotify.com/album/05NWvM3z8QlJCUqhQATFjx) | 4:05 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 | 83 | [Te Necesito \(Live Acoustic\)](https://open.spotify.com/track/79uVK69HCjcVEKsVcl4DAB) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Te Necesito \(Live Acoustic\)](https://open.spotify.com/album/22HjtWbGDotQroRs9Wo3KH) | 3:15 |
 | 84 | [Ya No Estás](https://open.spotify.com/track/4gXkuUnAzsdBmhgUblNdtc) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Tres](https://open.spotify.com/album/0dpI4KeBTPdazVzW1paxqh) | 3:18 |
 | 85 | [Si algún día me toca a mí](https://open.spotify.com/track/0EWTV2ya46WyDFrKiDz7ay) | [Karen Méndez](https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk) | [Si algún día me toca a mí](https://open.spotify.com/album/2lgGsWvn6GO3xsWHiwbcOF) | 3:58 |
-| 86 | [La Despedida](https://open.spotify.com/track/1s8TR4ZPyrRf0E7zbNNjvZ) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [La Despedida](https://open.spotify.com/album/2zFA8GmjeGDq1fxj1Na67g) | 3:09 |
-| 87 | [Te acuerdas?](https://open.spotify.com/track/25tHQXFLUN38dQXQyKu9Ev) | [Paul Alone](https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE) | [Te acuerdas?](https://open.spotify.com/album/4bgNYwpO19Pm0olhO3srld) | 3:03 |
+| 86 | [Te acuerdas?](https://open.spotify.com/track/25tHQXFLUN38dQXQyKu9Ev) | [Paul Alone](https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE) | [Te acuerdas?](https://open.spotify.com/album/4bgNYwpO19Pm0olhO3srld) | 3:03 |
+| 87 | [La Despedida](https://open.spotify.com/track/1s8TR4ZPyrRf0E7zbNNjvZ) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [La Despedida](https://open.spotify.com/album/2zFA8GmjeGDq1fxj1Na67g) | 3:09 |
 | 88 | [Capítulos](https://open.spotify.com/track/6l99dHCyRaZWtlu3UUtCxs) | [Dvicio](https://open.spotify.com/artist/2KxjMGXFgX1vt9grpbD3xI) | [Impulso](https://open.spotify.com/album/5MDL4gSUSx0jtWnvQhluw2) | 3:24 |
 | 89 | [Tiempo Pa Olvidar](https://open.spotify.com/track/69dNigIQhkCnL6pr7iRJPA) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Tiempo Pa Olvidar](https://open.spotify.com/album/1odX16Hd8maqVuVuiFlGBd) | 3:19 |
 | 90 | [Devuelveme la Vida \(with Antonio Orozco\)](https://open.spotify.com/track/3F6QDKtaBlaEfI6TLjLIQw) | [Malú](https://open.spotify.com/artist/3TLGNOdp1UWYMnV5XG9HkR), [Antonio Orozco](https://open.spotify.com/artist/1ADdpen72RPuafRcv0YRBf) | [Otra Piel](https://open.spotify.com/album/7CHgktzIpDDgEYwQ9jrEnQ) | 4:06 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 | 93 | [Roto](https://open.spotify.com/track/5muxDDRz7Y1m9leVgwTUrD) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Roto](https://open.spotify.com/album/5763P0o9ruO8OZ4Dwey7sf) | 2:45 |
 | 94 | [Tomar Distancia](https://open.spotify.com/track/1gd4OWaul0LVm0xsGswjaD) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Tomar Distancia](https://open.spotify.com/album/6jJ1AQcqFL1Dz9P6t3QIgT) | 2:30 |
 | 95 | [Será Mi Culpa?](https://open.spotify.com/track/0e5wmUTalS4NiyNjMYmBIA) | [LUANA](https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET) | [Será Mi Culpa?](https://open.spotify.com/album/4A1s03L5Tw52zY0FamWkDW) | 2:19 |
-| 96 | [LUNA](https://open.spotify.com/track/3N69yeLynMzE3Dd0c7WiG1) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [LUNA](https://open.spotify.com/album/5S6eyoaaK2EixfG9QqPf4J) | 2:38 |
-| 97 | [Atado Entre Tus Manos](https://open.spotify.com/track/0A7Bx1u7ufBNclwcfs02mG) | [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Atado Entre Tus Manos](https://open.spotify.com/album/4ynLSCZ4KGaB3mIbYHb2dw) | 3:16 |
+| 96 | [Atado Entre Tus Manos](https://open.spotify.com/track/0A7Bx1u7ufBNclwcfs02mG) | [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Atado Entre Tus Manos](https://open.spotify.com/album/4ynLSCZ4KGaB3mIbYHb2dw) | 3:16 |
+| 97 | [LUNA](https://open.spotify.com/track/3N69yeLynMzE3Dd0c7WiG1) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [LUNA](https://open.spotify.com/album/5S6eyoaaK2EixfG9QqPf4J) | 2:38 |
 | 98 | [Y Duele \(feat\. Pablo Alborán\)](https://open.spotify.com/track/1YlHuvmZCFIlt0O1JlReCb) | [Sofi de la Torre](https://open.spotify.com/artist/45VGByxe5GLUyX1XQlcC8I), [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Y Duele \(feat\. Pablo Alborán\)](https://open.spotify.com/album/6jNg9aoFBKGeDExlYzbXlv) | 3:21 |
 | 99 | [¿Por Qué Lloras? \(feat\. Matisse\)](https://open.spotify.com/track/2G9LSMGW7a9QFP8Fi9cvTE) | [Madison](https://open.spotify.com/artist/0NwGBRhszOv045HeCRAW7n), [Matisse](https://open.spotify.com/artist/3sR1FocH7EzvytEiUNm3RH) | [¿Por Qué Lloras? \(feat\. Matisse\)](https://open.spotify.com/album/6nYiI7zRQ3Puy57Vos2eOQ) | 3:31 |
 | 100 | [La Culpa](https://open.spotify.com/track/72X8O4JlTkTXRM2EpcQwsF) | [Joel DELEÓN](https://open.spotify.com/artist/3okQioJzZzTM7LwENIdd18) | [La Culpa](https://open.spotify.com/album/03KuiVdDtiXtx24I16d03Y) | 3:22 |
 
-Snapshot ID: `MTY2MTkyODc0NywwMDAwMDAwMDQzMTYzMTkyYzM0ZTczMTk4NWVkNmVmYTVlMzA1MGI0`
+Snapshot ID: `MTY2MTkyODc0NywwMDAwMDAwMDY2OWNmOTcwMjM3NzE5ZWNjMzc5NDI2Y2NkMzY3MGJi`

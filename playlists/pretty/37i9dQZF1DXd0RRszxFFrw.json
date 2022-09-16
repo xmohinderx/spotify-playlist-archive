@@ -1,12 +1,12 @@
 {
   "description": "Dulces rasgueos de cuerdas para acompa\u00f1ar tu velada",
-  "num_followers": 41665,
+  "num_followers": 41678,
   "original_name": "Cena con Guitarras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ0MDg2MCwwMDAwMDAwMGIwZTU4YmM4ODkzZWZkZTUxNTM2MGI1OTU1YzA3ZjZh",
+  "snapshot_id": "MTY1ODQ0MDg2MCwwMDAwMDAwMDhmY2NkMDJhYWJjOWRhZGU1YTNlYWM0Nzk5MTAzMWJh",
   "tracks": [
     {
       "added_at": "2022-07-21 22:01:00",
@@ -287,22 +287,6 @@
     {
       "added_at": "2022-07-21 22:01:00",
       "album": {
-        "name": "Cuando Te Duermas",
-        "url": "https://open.spotify.com/album/5BKc9zMji1Cinb42FPoCbT"
-      },
-      "artists": [
-        {
-          "name": "Las Penas",
-          "url": "https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS"
-        }
-      ],
-      "duration_ms": 162927,
-      "name": "Cuando Te Duermas",
-      "url": "https://open.spotify.com/track/1XApSfAeOAewrGd6Sst1sA"
-    },
-    {
-      "added_at": "2022-07-21 22:01:00",
-      "album": {
         "name": "Boleros",
         "url": "https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 134113,
       "name": "Querida Amiga",
       "url": "https://open.spotify.com/track/4QOAWEwpQQLTh7lcjZPQ3k"
+    },
+    {
+      "added_at": "2022-07-21 22:01:00",
+      "album": {
+        "name": "Cuando Te Duermas",
+        "url": "https://open.spotify.com/album/5BKc9zMji1Cinb42FPoCbT"
+      },
+      "artists": [
+        {
+          "name": "Las Penas",
+          "url": "https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS"
+        }
+      ],
+      "duration_ms": 162927,
+      "name": "Cuando Te Duermas",
+      "url": "https://open.spotify.com/track/1XApSfAeOAewrGd6Sst1sA"
     },
     {
       "added_at": "2022-07-21 22:01:00",
@@ -759,6 +759,22 @@
     {
       "added_at": "2022-07-21 22:01:00",
       "album": {
+        "name": "La Fuente",
+        "url": "https://open.spotify.com/album/5X26QsoSZWmENHqPGwRV3J"
+      },
+      "artists": [
+        {
+          "name": "Muniesa",
+          "url": "https://open.spotify.com/artist/3ZQonINCoqeD0Fe8FzeZ8v"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "La Fuente",
+      "url": "https://open.spotify.com/track/4C41YNht2Eupsw096RpcJj"
+    },
+    {
+      "added_at": "2022-07-21 22:01:00",
+      "album": {
         "name": "Cinque Terre",
         "url": "https://open.spotify.com/album/7suLw0GxdLqvVGuzyTTIpM"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 219786,
       "name": "Tierra Mestiza",
       "url": "https://open.spotify.com/track/2s4SLxIaORw4KQSMIyMb9l"
-    },
-    {
-      "added_at": "2022-07-21 22:01:00",
-      "album": {
-        "name": "La Fuente",
-        "url": "https://open.spotify.com/album/5X26QsoSZWmENHqPGwRV3J"
-      },
-      "artists": [
-        {
-          "name": "Muniesa",
-          "url": "https://open.spotify.com/artist/3ZQonINCoqeD0Fe8FzeZ8v"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "La Fuente",
-      "url": "https://open.spotify.com/track/4C41YNht2Eupsw096RpcJj"
     },
     {
       "added_at": "2022-07-21 22:01:00",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2022-07-21 22:01:00",
       "album": {
-        "name": "Bossa Nova Sounds EP",
-        "url": "https://open.spotify.com/album/6ROavccgDMsZS13Lx7NWYI"
+        "name": "Siena",
+        "url": "https://open.spotify.com/album/7uBcvHDsSXkR6m5CSHqCFJ"
       },
       "artists": [
         {
-          "name": "Rio Mendes",
-          "url": "https://open.spotify.com/artist/0g5AouvHCjswMZiQheyRNK"
+          "name": "Marcus Larsen",
+          "url": "https://open.spotify.com/artist/3VvLdbNVbOdEcCrsmaOfYX"
         }
       ],
-      "duration_ms": 167161,
-      "name": "Brigas, Nunca Mais",
-      "url": "https://open.spotify.com/track/0a0aIKG6sw9bt8iRy3iGh5"
+      "duration_ms": 131209,
+      "name": "Siena",
+      "url": "https://open.spotify.com/track/6hebly36sQyqXZerurmsuO"
     },
     {
       "added_at": "2022-07-21 22:01:00",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2022-07-21 22:01:00",
       "album": {
+        "name": "Bossa Nova Sounds EP",
+        "url": "https://open.spotify.com/album/6ROavccgDMsZS13Lx7NWYI"
+      },
+      "artists": [
+        {
+          "name": "Rio Mendes",
+          "url": "https://open.spotify.com/artist/0g5AouvHCjswMZiQheyRNK"
+        }
+      ],
+      "duration_ms": 167161,
+      "name": "Brigas, Nunca Mais",
+      "url": "https://open.spotify.com/track/0a0aIKG6sw9bt8iRy3iGh5"
+    },
+    {
+      "added_at": "2022-07-21 22:01:00",
+      "album": {
         "name": "Hablando Con Mi Guitarra",
         "url": "https://open.spotify.com/album/4gJ1Gbn76E8Q5lEryqRGS0"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 306717,
       "name": "Coraz\u00f3n Partio - Guitar Version",
       "url": "https://open.spotify.com/track/32NyNV0GAdqc7dAI35uEfV"
-    },
-    {
-      "added_at": "2022-07-21 22:01:00",
-      "album": {
-        "name": "Siena",
-        "url": "https://open.spotify.com/album/7uBcvHDsSXkR6m5CSHqCFJ"
-      },
-      "artists": [
-        {
-          "name": "Marcus Larsen",
-          "url": "https://open.spotify.com/artist/3VvLdbNVbOdEcCrsmaOfYX"
-        }
-      ],
-      "duration_ms": 131209,
-      "name": "Siena",
-      "url": "https://open.spotify.com/track/6hebly36sQyqXZerurmsuO"
     },
     {
       "added_at": "2022-07-21 22:01:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2022-07-21 22:01:00",
       "album": {
-        "name": "Hablando Con Mi Guitarra",
-        "url": "https://open.spotify.com/album/4gJ1Gbn76E8Q5lEryqRGS0"
-      },
-      "artists": [
-        {
-          "name": "Paco Infante",
-          "url": "https://open.spotify.com/artist/5Kkc0wgmIcj0FX2Bs8uHht"
-        }
-      ],
-      "duration_ms": 255529,
-      "name": "Noches de Bohemia - Guitar Version",
-      "url": "https://open.spotify.com/track/2rtScPfFTDz0yMhCA0kdge"
-    },
-    {
-      "added_at": "2022-07-21 22:01:00",
-      "album": {
         "name": "Lost Tales of Catalonia",
         "url": "https://open.spotify.com/album/1LnfyMLkTr1BD7UPj6ykTl"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 134578,
       "name": "Tiempos Pasados",
       "url": "https://open.spotify.com/track/52Y2oYV8SXt292vc4I7NFO"
+    },
+    {
+      "added_at": "2022-07-21 22:01:00",
+      "album": {
+        "name": "Hablando Con Mi Guitarra",
+        "url": "https://open.spotify.com/album/4gJ1Gbn76E8Q5lEryqRGS0"
+      },
+      "artists": [
+        {
+          "name": "Paco Infante",
+          "url": "https://open.spotify.com/artist/5Kkc0wgmIcj0FX2Bs8uHht"
+        }
+      ],
+      "duration_ms": 255529,
+      "name": "Noches de Bohemia - Guitar Version",
+      "url": "https://open.spotify.com/track/2rtScPfFTDz0yMhCA0kdge"
     },
     {
       "added_at": "2022-07-21 22:01:00",

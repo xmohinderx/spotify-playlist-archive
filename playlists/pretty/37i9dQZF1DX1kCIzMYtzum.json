@@ -1,12 +1,12 @@
 {
   "description": "The latest hits from your favourite festival legends. Peace, love, unity, respect. \ud83d\udc97",
-  "num_followers": 103225,
+  "num_followers": 103539,
   "original_name": "EDM",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5NjAwMCwwMDAwMDAwMGQ2MDQ0MTlkNzA3YTg0OTQxYTRmNDI4OWYzNWZhMjA4",
+  "snapshot_id": "MTY2MjY5NjAwMCwwMDAwMDAwMGI0MGFhMmYyZTJkODNhYzViMmE2MmFkNGM3OTg2ZDIz",
   "tracks": [
     {
       "added_at": "2022-04-15 04:01:00",
@@ -665,6 +665,22 @@
       "url": "https://open.spotify.com/track/5aXTfpNOqLj35ydEiLio67"
     },
     {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Can U Dance (To My Beat)",
+        "url": "https://open.spotify.com/album/6o3mSmaxrLrFnGB7IL8vtA"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 148125,
+      "name": "Can U Dance (To My Beat)",
+      "url": "https://open.spotify.com/track/3yRcwIkTVIJTEGAoPlsHbW"
+    },
+    {
       "added_at": "2022-06-03 04:01:00",
       "album": {
         "name": "My Feelings For You (Don Diablo Remix)",
@@ -687,22 +703,6 @@
       "duration_ms": 205714,
       "name": "My Feelings For You - Don Diablo Remix",
       "url": "https://open.spotify.com/track/7brRnnzMQtAPybNOwbmRms"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Can U Dance (To My Beat)",
-        "url": "https://open.spotify.com/album/6o3mSmaxrLrFnGB7IL8vtA"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 148125,
-      "name": "Can U Dance (To My Beat)",
-      "url": "https://open.spotify.com/track/3yRcwIkTVIJTEGAoPlsHbW"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -997,24 +997,24 @@
       "url": "https://open.spotify.com/track/2Q8fFORnsDE6I3RNvSLXSf"
     },
     {
-      "added_at": "2022-03-25 04:01:00",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
-        "name": "Only You",
-        "url": "https://open.spotify.com/album/7HYcGsdfiY8AEOgGesSknZ"
+        "name": "Yeah The Girls",
+        "url": "https://open.spotify.com/album/6yxWTg8P4cAJ0gyPHUqPfv"
       },
       "artists": [
         {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
         },
         {
-          "name": "Sentinel",
-          "url": "https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw"
+          "name": "MERYLL",
+          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
         }
       ],
-      "duration_ms": 145174,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/7mXNYEVh9FW72c12qBaO3p"
+      "duration_ms": 194310,
+      "name": "Yeah The Girls",
+      "url": "https://open.spotify.com/track/2ST4u9GusI2ddDfuMvXA5l"
     }
   ],
   "unique_name": "EDM",

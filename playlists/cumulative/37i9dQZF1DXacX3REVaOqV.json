@@ -391,7 +391,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 438320,
       "name": "Back Together (feat. Ron Carroll) - Copyright Dub Mix",
       "url": "https://open.spotify.com/track/0O150NBPq9Bb0WUBznAlF0"
@@ -850,6 +850,28 @@
     },
     {
       "album": {
+        "name": "Da Fonk (feat. Joni)",
+        "url": "https://open.spotify.com/album/5t3QAcFlAa6hB08H976naz"
+      },
+      "artists": [
+        {
+          "name": "Mochakk",
+          "url": "https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo"
+        },
+        {
+          "name": "Joni",
+          "url": "https://open.spotify.com/artist/6nZ4pcLtZYblB2ZwD7qvwe"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366141,
+      "name": "Da Fonk (feat. Joni)",
+      "url": "https://open.spotify.com/track/6ryPKHgiz6MSGJ1wYqn28b"
+    },
+    {
+      "album": {
         "name": "Dance (Hills Mix)",
         "url": "https://open.spotify.com/album/4PejagKHSIAq3Qy3LdqDUB"
       },
@@ -1027,7 +1049,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 435266,
       "name": "Domino",
       "url": "https://open.spotify.com/track/6VGNzYErt08Rai78mLkIzI"
@@ -1089,7 +1111,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 238026,
       "name": "Down - Franky Rizardo Remix",
       "url": "https://open.spotify.com/track/0U65qiH70mcfB1wyF0Mal0"
@@ -1297,7 +1319,7 @@
       ],
       "date_added": "2022-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 209280,
       "name": "Everybody Everybody (TCTS Remix) - Edit",
       "url": "https://open.spotify.com/track/16LMJP0ci9YHA0kmNUjE1H"
@@ -1377,7 +1399,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 208524,
       "name": "Feel My Needs",
       "url": "https://open.spotify.com/track/7nionv2ijjqUlg9m5iWPTc"
@@ -1527,7 +1549,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 547244,
       "name": "Friends",
       "url": "https://open.spotify.com/track/1IbNYr8ByXsgwGbmOxLBXP"
@@ -2041,7 +2063,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 206299,
       "name": "In Arms",
       "url": "https://open.spotify.com/track/0mqDNdnkSOTKqsUIsAEfW2"
@@ -2490,6 +2512,28 @@
     },
     {
       "album": {
+        "name": "Life",
+        "url": "https://open.spotify.com/album/31QOLr0kdg0qjiZboNEm7b"
+      },
+      "artists": [
+        {
+          "name": "Ferreck Dawn",
+          "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
+        },
+        {
+          "name": "Izzy Bizu",
+          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170955,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/5uIPgZYAPggdErCVj6lY56"
+    },
+    {
+      "album": {
         "name": "LIFTED",
         "url": "https://open.spotify.com/album/5bCqtk4yXM7jJzM3fOqK1G"
       },
@@ -2703,7 +2747,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-03",
+      "date_removed": null,
       "duration_ms": 160437,
       "name": "Love Somebody Else - Sandy Rivera & Aruhtra's Mix",
       "url": "https://open.spotify.com/track/6fbrnevm8nfmTn5cLlgHtX"
@@ -2903,7 +2947,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 174677,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/7H82QcqU5rZsD3yWHOgGw2"
@@ -3339,7 +3383,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-15",
+      "date_removed": null,
       "duration_ms": 312000,
       "name": "On Da Groove",
       "url": "https://open.spotify.com/track/3jotybhgTZeCqXFMqzfInI"
@@ -3539,7 +3583,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 373800,
       "name": "Passing Me By",
       "url": "https://open.spotify.com/track/2irEY0gvB7djriQOFTGFsq"
@@ -3675,7 +3719,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-06",
+      "date_removed": null,
       "duration_ms": 410500,
       "name": "Reasons",
       "url": "https://open.spotify.com/track/1pMvhKoPZUS2GGsXHWv4C7"
@@ -4053,7 +4097,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 181306,
       "name": "Slow Down (feat. Jorja Smith) - Vintage Culture & Slow Motion Remix",
       "url": "https://open.spotify.com/track/5PNvgiKSwMdjBsDsgFCFLX"
@@ -4403,7 +4447,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-22",
+      "date_removed": null,
       "duration_ms": 224262,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/1YmMirswl1qi0tc8Xbyh6w"
@@ -4861,7 +4905,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 213381,
       "name": "Ultimatum - Edit",
       "url": "https://open.spotify.com/track/0slkzFvyBWcwnjEEDtYE5E"
@@ -4887,7 +4931,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-12",
+      "date_removed": null,
       "duration_ms": 360960,
       "name": "Underground Is My Home - Crazibiza Remix",
       "url": "https://open.spotify.com/track/3Ncgj12Qf2bmw6FAStRUB4"

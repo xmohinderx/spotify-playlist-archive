@@ -2717,7 +2717,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 208370,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/06Jo0EAMAmfVOKr8frBpZE"
@@ -3105,6 +3105,24 @@
       "duration_ms": 88734,
       "name": "goodbye",
       "url": "https://open.spotify.com/track/7lgBuXy8lmgaQ0rGTQRf6O"
+    },
+    {
+      "album": {
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/21p31pvhRnJuajkA9CqYEv"
+      },
+      "artists": [
+        {
+          "name": "maeshima soshi",
+          "url": "https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195692,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/2JuCeSYtgR8bCjzmfQikJU"
     },
     {
       "album": {

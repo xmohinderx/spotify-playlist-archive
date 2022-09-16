@@ -1,12 +1,12 @@
 {
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
-  "num_followers": 134882,
+  "num_followers": 134925,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mjk2MzIyOCwwMDAwMDAwMDE4OGQzZjI0Zjk5YzAxYjgxMDIzMDM0MDI0YzM1MzUw",
+  "snapshot_id": "MTY2Mjk2MzIyOCwwMDAwMDAwMGVjNDIzNmRmNWE5YzFlNGE4YWQ2OWFlZjc1MjJlZjRi",
   "tracks": [
     {
       "added_at": "2022-09-12 06:13:48",
@@ -131,22 +131,6 @@
     {
       "added_at": "2022-09-12 06:13:48",
       "album": {
-        "name": "Ride",
-        "url": "https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs"
-      },
-      "artists": [
-        {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
-        }
-      ],
-      "duration_ms": 181622,
-      "name": "Ride",
-      "url": "https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT"
-    },
-    {
-      "added_at": "2022-09-12 06:13:48",
-      "album": {
         "name": "always",
         "url": "https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 227031,
       "name": "drunk",
       "url": "https://open.spotify.com/track/6D6HVKe7Qu3imn4zzJD0W9"
+    },
+    {
+      "added_at": "2022-09-12 06:13:48",
+      "album": {
+        "name": "Ride",
+        "url": "https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs"
+      },
+      "artists": [
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        }
+      ],
+      "duration_ms": 181622,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT"
     },
     {
       "added_at": "2022-09-12 06:13:48",
@@ -763,26 +763,6 @@
     {
       "added_at": "2022-09-12 06:13:48",
       "album": {
-        "name": "Breakup Season (feat. Samm Henshaw)",
-        "url": "https://open.spotify.com/album/2F1NcprbTMK4hoSHwfi1Dz"
-      },
-      "artists": [
-        {
-          "name": "Maya Delilah",
-          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
-        },
-        {
-          "name": "Samm Henshaw",
-          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
-        }
-      ],
-      "duration_ms": 192750,
-      "name": "Breakup Season (feat. Samm Henshaw)",
-      "url": "https://open.spotify.com/track/5b0AY8ZEWEzePJolcjsBWA"
-    },
-    {
-      "added_at": "2022-09-12 06:13:48",
-      "album": {
         "name": "Light (with BENEE)",
         "url": "https://open.spotify.com/album/5BwsHPXhIgCCpQsa52CBPR"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 164000,
       "name": "Light (with BENEE)",
       "url": "https://open.spotify.com/track/65ZaStHQImXcy15M9pGFwL"
+    },
+    {
+      "added_at": "2022-09-12 06:13:48",
+      "album": {
+        "name": "Breakup Season (feat. Samm Henshaw)",
+        "url": "https://open.spotify.com/album/2F1NcprbTMK4hoSHwfi1Dz"
+      },
+      "artists": [
+        {
+          "name": "Maya Delilah",
+          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
+        },
+        {
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+        }
+      ],
+      "duration_ms": 192750,
+      "name": "Breakup Season (feat. Samm Henshaw)",
+      "url": "https://open.spotify.com/track/5b0AY8ZEWEzePJolcjsBWA"
     },
     {
       "added_at": "2022-09-12 06:13:48",
@@ -947,22 +947,6 @@
     {
       "added_at": "2022-09-12 06:13:48",
       "album": {
-        "name": "Lemonade",
-        "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 204400,
-      "name": "Sorry - Original Demo",
-      "url": "https://open.spotify.com/track/6eR1N0EBHiDkGDzegX99d3"
-    },
-    {
-      "added_at": "2022-09-12 06:13:48",
-      "album": {
         "name": "Time",
         "url": "https://open.spotify.com/album/769w0FnPuehiePv6Mve1Cz"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 200000,
       "name": "Time",
       "url": "https://open.spotify.com/track/3Ths3AX8KIMrVGXJRrkBDy"
+    },
+    {
+      "added_at": "2022-09-12 06:13:48",
+      "album": {
+        "name": "Lemonade",
+        "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 204400,
+      "name": "Sorry - Original Demo",
+      "url": "https://open.spotify.com/track/6eR1N0EBHiDkGDzegX99d3"
     },
     {
       "added_at": "2022-09-12 06:13:48",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2022-09-12 06:13:48",
       "album": {
-        "name": "Y1",
-        "url": "https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM"
-      },
-      "artists": [
-        {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
-        }
-      ],
-      "duration_ms": 186818,
-      "name": "Pantone 17 13 30",
-      "url": "https://open.spotify.com/track/2GeR7M97pCrWrMh8d6BlrF"
-    },
-    {
-      "added_at": "2022-09-12 06:13:48",
-      "album": {
         "name": "iFeel",
         "url": "https://open.spotify.com/album/3pgkyPj3vSQ0TYCoGQJKaF"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 269638,
       "name": "iFeel",
       "url": "https://open.spotify.com/track/5ed0x7s2O191nQ9gfmAhHM"
+    },
+    {
+      "added_at": "2022-09-12 06:13:48",
+      "album": {
+        "name": "Y1",
+        "url": "https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "duration_ms": 186818,
+      "name": "Pantone 17 13 30",
+      "url": "https://open.spotify.com/track/2GeR7M97pCrWrMh8d6BlrF"
     },
     {
       "added_at": "2022-09-12 06:13:48",
@@ -1315,22 +1315,18 @@
     {
       "added_at": "2022-09-12 06:13:48",
       "album": {
-        "name": "only in the night (feat. Sarcastic Sounds)",
-        "url": "https://open.spotify.com/album/67bP9ZjrlpDrNFGMpf8rVn"
+        "name": "at least i look cool",
+        "url": "https://open.spotify.com/album/3DrwGrEPG3Rq9mIsZVuklB"
       },
       "artists": [
         {
-          "name": "Kina",
-          "url": "https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF"
-        },
-        {
-          "name": "Sarcastic Sounds",
-          "url": "https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ"
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
         }
       ],
-      "duration_ms": 130369,
-      "name": "only in the night (feat. Sarcastic Sounds)",
-      "url": "https://open.spotify.com/track/3BFHMSEppgXLsFYpI61A4Z"
+      "duration_ms": 171695,
+      "name": "at least i look cool",
+      "url": "https://open.spotify.com/track/2eLDUK7EkpENZkDL9O5yhz"
     },
     {
       "added_at": "2022-09-12 06:13:48",
@@ -1351,18 +1347,22 @@
     {
       "added_at": "2022-09-12 06:13:48",
       "album": {
-        "name": "at least i look cool",
-        "url": "https://open.spotify.com/album/3DrwGrEPG3Rq9mIsZVuklB"
+        "name": "Trying Not To Cry (feat. Cavetown)",
+        "url": "https://open.spotify.com/album/0eYVO4mb4QcZNV9d3dgTiv"
       },
       "artists": [
         {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+          "name": "Kina",
+          "url": "https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF"
+        },
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
         }
       ],
-      "duration_ms": 171695,
-      "name": "at least i look cool",
-      "url": "https://open.spotify.com/track/2eLDUK7EkpENZkDL9O5yhz"
+      "duration_ms": 142310,
+      "name": "Trying Not To Cry (feat. Cavetown)",
+      "url": "https://open.spotify.com/track/1dO8sjJOtUpz0CWelezE4f"
     },
     {
       "added_at": "2022-09-12 06:13:48",
@@ -1431,22 +1431,18 @@
     {
       "added_at": "2022-09-12 06:13:48",
       "album": {
-        "name": "walk but in a garden",
-        "url": "https://open.spotify.com/album/73B3H18jWD1TVDWId6CifF"
+        "name": "Don't Give In",
+        "url": "https://open.spotify.com/album/4nkVzPcDX2u2X9NDM2bTck"
       },
       "artists": [
         {
-          "name": "LLusion",
-          "url": "https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb"
-        },
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
         }
       ],
-      "duration_ms": 112500,
-      "name": "walk but in a garden (with mxmtoon)",
-      "url": "https://open.spotify.com/track/4Kpt4pk9xgOlIgu9qvUrxC"
+      "duration_ms": 209749,
+      "name": "Don't Give In",
+      "url": "https://open.spotify.com/track/62aWvmFONlusEPthH5CmA2"
     },
     {
       "added_at": "2022-09-12 06:13:48",
@@ -1467,8 +1463,28 @@
     {
       "added_at": "2022-09-12 06:13:48",
       "album": {
-        "name": "Trying Not To Cry (feat. Cavetown)",
-        "url": "https://open.spotify.com/album/0eYVO4mb4QcZNV9d3dgTiv"
+        "name": "walk but in a garden",
+        "url": "https://open.spotify.com/album/73B3H18jWD1TVDWId6CifF"
+      },
+      "artists": [
+        {
+          "name": "LLusion",
+          "url": "https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb"
+        },
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 112500,
+      "name": "walk but in a garden (with mxmtoon)",
+      "url": "https://open.spotify.com/track/4Kpt4pk9xgOlIgu9qvUrxC"
+    },
+    {
+      "added_at": "2022-09-12 06:13:48",
+      "album": {
+        "name": "only in the night (feat. Sarcastic Sounds)",
+        "url": "https://open.spotify.com/album/67bP9ZjrlpDrNFGMpf8rVn"
       },
       "artists": [
         {
@@ -1476,29 +1492,13 @@
           "url": "https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF"
         },
         {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+          "name": "Sarcastic Sounds",
+          "url": "https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ"
         }
       ],
-      "duration_ms": 142310,
-      "name": "Trying Not To Cry (feat. Cavetown)",
-      "url": "https://open.spotify.com/track/1dO8sjJOtUpz0CWelezE4f"
-    },
-    {
-      "added_at": "2022-09-12 06:13:48",
-      "album": {
-        "name": "Don't Give In",
-        "url": "https://open.spotify.com/album/4nkVzPcDX2u2X9NDM2bTck"
-      },
-      "artists": [
-        {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
-        }
-      ],
-      "duration_ms": 209749,
-      "name": "Don't Give In",
-      "url": "https://open.spotify.com/track/62aWvmFONlusEPthH5CmA2"
+      "duration_ms": 130369,
+      "name": "only in the night (feat. Sarcastic Sounds)",
+      "url": "https://open.spotify.com/track/3BFHMSEppgXLsFYpI61A4Z"
     },
     {
       "added_at": "2022-09-12 06:13:48",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2022-09-12 06:13:48",
       "album": {
+        "name": "Slowing Down",
+        "url": "https://open.spotify.com/album/2lrfa5zP2yemij6X7P3ExK"
+      },
+      "artists": [
+        {
+          "name": "Bronze Whale",
+          "url": "https://open.spotify.com/artist/448VwSmqc6SpRDqK5WYXIt"
+        }
+      ],
+      "duration_ms": 175500,
+      "name": "Slowing Down",
+      "url": "https://open.spotify.com/track/3oGvRB0MAfPseLw39gVzGg"
+    },
+    {
+      "added_at": "2022-09-12 06:13:48",
+      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/5zk4TC5hFLU8psFiQl8A5S"
       },
@@ -1707,22 +1723,6 @@
       "duration_ms": 190075,
       "name": "Heat",
       "url": "https://open.spotify.com/track/02RqY5iTPIVXmiHCwnWyEk"
-    },
-    {
-      "added_at": "2022-09-12 06:13:48",
-      "album": {
-        "name": "Slowing Down",
-        "url": "https://open.spotify.com/album/2lrfa5zP2yemij6X7P3ExK"
-      },
-      "artists": [
-        {
-          "name": "Bronze Whale",
-          "url": "https://open.spotify.com/artist/448VwSmqc6SpRDqK5WYXIt"
-        }
-      ],
-      "duration_ms": 175500,
-      "name": "Slowing Down",
-      "url": "https://open.spotify.com/track/3oGvRB0MAfPseLw39gVzGg"
     }
   ],
   "unique_name": "\u6211\u7684\u5fae\u91ba\u591c",

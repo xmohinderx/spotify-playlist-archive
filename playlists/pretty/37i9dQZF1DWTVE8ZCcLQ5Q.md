@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 
 > Descubra Mac Júlia e novos talentos brasileiros no horizonte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 421,413 likes - 60 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 421,412 likes - 60 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 | 45 | [Que Amigo É Esse \(Ao Vivo\)](https://open.spotify.com/track/6Ur3usqEbguXdqoc1WjA3K) | [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC) | [Sextou BB 4 Completo \(Ao Vivo em Goiânia\)](https://open.spotify.com/album/7fj0Le4QkGQQkGdoZZtsGw) | 2:43 |
 | 46 | [Vendaval \- Ao Vivo](https://open.spotify.com/track/2fkVehr2ZC9tEI2EpeOIOT) | [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz), [Belo](https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki) | [Vendaval \(Ao Vivo\)](https://open.spotify.com/album/0CdhqJwe0aAWf0Oz7SYSiF) | 3:53 |
 | 47 | [Contramão](https://open.spotify.com/track/00CCXySfYOVAXvRb8y8bmo) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Taleko](https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz) | [Contramão](https://open.spotify.com/album/0dF3Hp05Ud1aUXPz8qv8X2) | 3:42 |
-| 48 | [poderia ser pior](https://open.spotify.com/track/0ksL64x432xlpRa2ii0bqN) | [Number Teddie](https://open.spotify.com/artist/18TympJ9X4CQ45GYy7sORT) | [poderia ser pior](https://open.spotify.com/album/3vaeQA1qsbog2MZKhMbt1O) | 2:52 |
-| 49 | [Eu Fico](https://open.spotify.com/track/1WtRLoB6c7wcMbTuZ6EbjT) | [Juan Marcus & Vinícius](https://open.spotify.com/artist/0GVW2S0kS9yOIEo93ZCNLW) | [Bendito Rolê](https://open.spotify.com/album/5ThMKwTKtrGl29FxY0Q4FH) | 3:05 |
-| 50 | [Festa do Pijama](https://open.spotify.com/track/3o6d4NE7X29t8ZKnwHQoNk) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [Visão Periférica](https://open.spotify.com/album/5eNapidkVarWi1MlD8fMjx) | 2:19 |
+| 48 | [Eu Fico](https://open.spotify.com/track/1WtRLoB6c7wcMbTuZ6EbjT) | [Juan Marcus & Vinícius](https://open.spotify.com/artist/0GVW2S0kS9yOIEo93ZCNLW) | [Bendito Rolê](https://open.spotify.com/album/5ThMKwTKtrGl29FxY0Q4FH) | 3:05 |
+| 49 | [Festa do Pijama](https://open.spotify.com/track/3o6d4NE7X29t8ZKnwHQoNk) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [Visão Periférica](https://open.spotify.com/album/5eNapidkVarWi1MlD8fMjx) | 2:19 |
+| 50 | [poderia ser pior](https://open.spotify.com/track/0ksL64x432xlpRa2ii0bqN) | [Number Teddie](https://open.spotify.com/artist/18TympJ9X4CQ45GYy7sORT) | [poderia ser pior](https://open.spotify.com/album/3vaeQA1qsbog2MZKhMbt1O) | 2:52 |
 | 51 | [Fogo](https://open.spotify.com/track/7pkFFPkSYa9JJY9dvZDjoc) | [Young Piva](https://open.spotify.com/artist/6kNuO9sY94kxMuRAwsCzOH), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf) | [Encruzilhada](https://open.spotify.com/album/2Mfu5KHRKxv7NwkyKbFnwk) | 2:31 |
 | 52 | [Prata Amor](https://open.spotify.com/track/3aiKlNW8MgZFzA3cGsaJWJ) | [Luísa e os Alquimistas](https://open.spotify.com/artist/4MavQ0I0q9aAXj0mErfkqC), [Rafa Pinta](https://open.spotify.com/artist/4LMwHoEPgxu0nFRG9tpYa6), [MangoLab](https://open.spotify.com/artist/5Dy75ZScAdoNKi4vC8oCym) | [Prata Amor](https://open.spotify.com/album/4IhqAxEhLk3FezafiOBaZU) | 2:38 |
 | 53 | [Carta Que Não Diz](https://open.spotify.com/track/2iXQ3CYVGQihlFpWCDDmJM) | [Mariana Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S), [Rodrigo Alarcon](https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ), [Ana Muller](https://open.spotify.com/artist/7L1Xcga52ld20VEmDzE6Hz) | [Carta Que Não Diz](https://open.spotify.com/album/3gK51ZgTFMiFHekQKRUUNX) | 3:11 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 | 57 | [Devagarin](https://open.spotify.com/track/4ha4wjgFHh4FvNZcFaEr5I) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI) | [Devagarin](https://open.spotify.com/album/5BnsHrRvr8XpqMz92LLx4F) | 2:34 |
 | 58 | [Mais Uma Canção Pra Você](https://open.spotify.com/track/5x9hKw3w0M2FuZ5yFKlaPy) | [Mariana Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Mais Uma Canção Pra Você](https://open.spotify.com/album/6k8qjqkqQDs8BYhkrab866) | 4:48 |
 | 59 | [Baby Hair](https://open.spotify.com/track/6tgveJsfKptFd0mvJG9Iv6) | [Pretta Poder](https://open.spotify.com/artist/6CEm11gYIUP8EeirFIXAYt), [Chris Beats Zn](https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW), [SoudCrime](https://open.spotify.com/artist/0Huu7Wxkay3mCaoMuVkRNg) | [Baby Hair](https://open.spotify.com/album/6Hk41Rh3IMBcdhOwneSaQo) | 2:33 |
-| 60 | [Jogo de Aposta](https://open.spotify.com/track/3dGZE3ALCdLynbwJQ05fKy) | [Jecy](https://open.spotify.com/artist/10RqlMm59EFKFeUc9LA1Uv) | [Jogo de Aposta](https://open.spotify.com/album/5ZPL8STC4NCBb7ms7vyJL0) | 2:46 |
+| 60 | [De Novo](https://open.spotify.com/track/2vVHmxPI3qgRnJykMMSKlp) | [Barro](https://open.spotify.com/artist/49Ymz7hkosffibefJioODe), [Luísa Nascim](https://open.spotify.com/artist/5j1I6HLmRd52lplPaEl6uU), [Marley no Beat](https://open.spotify.com/artist/1LYVhCzrcczttykOd4ukkH), [Tombc](https://open.spotify.com/artist/6xWZS3GMWCdADhHYLW2gb6) | [De Novo](https://open.spotify.com/album/6BGcVu7zcnTWPONgBJe5mQ) | 2:15 |
 
-Snapshot ID: `MTY2MDUzMjQ2MCwwMDAwMDAwMGY5OTZmM2Q5OTkyODg0YTQyOWI5YjAwZDZjNWI0ZTU0`
+Snapshot ID: `MTY2MDUzMjQ2MCwwMDAwMDAwMGI5NmVjZGE2NWE3NTFlOTg4MGJjYTVlOWM3NjU2ZTk5`

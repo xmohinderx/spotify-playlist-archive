@@ -4,7 +4,7 @@
 
 > A collection of songs from Tony Hawk's Pro Skater 1 + 2.
 
-62 songs - 3 hr 6 min - [published](https://open.spotify.com/playlist/3gnvN3gU2eit5kuCl7Hk1j)
+63 songs - 3 hr 9 min - [published](https://open.spotify.com/playlist/3gnvN3gU2eit5kuCl7Hk1j)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [Heavy Metal Winner](https://open.spotify.com/track/7tt28wbdKmFqZZXsCh4tTk) | [Consumed](https://open.spotify.com/artist/7bXsAsoUGJlM4VVB9xOmn2) | [Breakfast at Pappa's](https://open.spotify.com/album/33nqyAuvFDFNON9ljSqF6r) | 2:29 | 2020-05-15 |  |
 | [Here and Now](https://open.spotify.com/track/5lsMyHFs19kw0jYNP0MNKK) | [The Ernies](https://open.spotify.com/artist/1kNq8yT2S4lD5jetHxcyug) | [Meson Ray](https://open.spotify.com/album/2JHRbAV8L0f6P6cbZItoI2) | 3:30 | 2020-05-15 |  |
 | [In Control](https://open.spotify.com/track/5xgsrlbxfmAZR8t57ljK5t) | [Baker Boy](https://open.spotify.com/artist/6Qpa8xhGsGitz4WBf4BkpK) | [In Control](https://open.spotify.com/album/6rfcQP2rywiV6reYrP9LOJ) | 3:10 | 2020-07-28 |  |
-| [IN\-TO\-IT](https://open.spotify.com/track/1h2nlMzL1hFRaSMKuUHaDB) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [IN\-TO\-IT](https://open.spotify.com/album/1jjrbaOJ59IHj9fxaDy0pI) | 3:16 | 2020-07-28 |  |
+| [IN\-TO\-IT](https://open.spotify.com/track/6PMapmhT9QjSC3X4h0tgEX) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Positive Rising \(Pt\. 1\)](https://open.spotify.com/album/40t8R9VOXLSxMzUjXbtDuN) | 3:15 | 2020-07-28 |  |
+| [IN\-TO\-IT](https://open.spotify.com/track/1h2nlMzL1hFRaSMKuUHaDB) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [IN\-TO\-IT](https://open.spotify.com/album/1jjrbaOJ59IHj9fxaDy0pI) | 3:16 | 2020-07-28 | 2022-09-16 |
 | [Jerry Was A Race Car Driver](https://open.spotify.com/track/19C0LKY3DCcQtuviPJNy5d) | [Primus](https://open.spotify.com/artist/64mPnRMMeudAet0E62ypkx) | [Sailing The Seas Of Cheese](https://open.spotify.com/album/2sjF68plsvYE7M3FaMf6rD) | 3:10 | 2020-05-15 |  |
 | [Let Me In](https://open.spotify.com/track/5U2djvPDRMcW4JjKuETuWa) | [Screaming Females](https://open.spotify.com/artist/3pZ666b6CyO1KGpVYirY0t) | [Let Me In](https://open.spotify.com/album/2whX6MD0PMqPW5De20AaU6) | 2:38 | 2020-07-28 |  |
 | [Let's Do It](https://open.spotify.com/track/1nNOWiXYARPG1eRLw134No) | [All Talk](https://open.spotify.com/artist/78GL0p300wgurWZaPO7J80) | [Let's Do It](https://open.spotify.com/album/4gue0IdUGLEnpAkVsWbQvB) | 2:16 | 2020-07-30 |  |

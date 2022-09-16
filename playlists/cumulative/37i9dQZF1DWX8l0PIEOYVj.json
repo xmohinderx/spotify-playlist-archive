@@ -210,6 +210,32 @@
     },
     {
       "album": {
+        "name": "Army Of Angels",
+        "url": "https://open.spotify.com/album/08vRZUFEVTfO1Qd7oVIMxG"
+      },
+      "artists": [
+        {
+          "name": "Synymata",
+          "url": "https://open.spotify.com/artist/6mLoXZQPyVJgzOqKLkJQoC"
+        },
+        {
+          "name": "Elle Vee",
+          "url": "https://open.spotify.com/artist/7b1FMiWXZwOBsxi0uWw6wH"
+        },
+        {
+          "name": "ANDY KAUTZ",
+          "url": "https://open.spotify.com/artist/3LOMW9qqOdqeimIDQNmMIh"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273928,
+      "name": "Army Of Angels",
+      "url": "https://open.spotify.com/track/5C8Xk9oi6Kpiln7ZdEe1JQ"
+    },
+    {
+      "album": {
         "name": "As Above So Below",
         "url": "https://open.spotify.com/album/0XXmZS61tYClRAcJU5oXHG"
       },
@@ -1215,7 +1241,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 156428,
       "name": "Endgame (feat. Aeria)",
       "url": "https://open.spotify.com/track/3P5XaFgG3IgpbA6nhPQEJb"
@@ -2313,7 +2339,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 231882,
       "name": "Hollow Eyes (feat. EKE)",
       "url": "https://open.spotify.com/track/5zZ29l9N3ZZCtNH4eg3clf"
@@ -3081,6 +3107,32 @@
       "duration_ms": 221142,
       "name": "Matches",
       "url": "https://open.spotify.com/track/3ZxY3DBVr09LIyqPAi2HX1"
+    },
+    {
+      "album": {
+        "name": "Maybe",
+        "url": "https://open.spotify.com/album/0zDOxAExc1MUJvgfVnvBNg"
+      },
+      "artists": [
+        {
+          "name": "4URA",
+          "url": "https://open.spotify.com/artist/3EG6B7xCYrCokW2HJiwpPd"
+        },
+        {
+          "name": "DVRKCLOUD",
+          "url": "https://open.spotify.com/artist/3d5iL1jm2HGMJS1woaIohE"
+        },
+        {
+          "name": "Young Viridii",
+          "url": "https://open.spotify.com/artist/4Rm1nfclUTXCYusaJk7TA9"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229565,
+      "name": "Maybe",
+      "url": "https://open.spotify.com/track/1y8J9syUTH1TrB2P0oLLa9"
     },
     {
       "album": {

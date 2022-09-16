@@ -1,12 +1,12 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Theo Rubia, Felipe Vilela",
-  "num_followers": 107057,
+  "num_followers": 107073,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjE0MjQ4NywwMDAwMDAwMDAxMTZiN2VkZTYwMmFhYjI1YmFkNjY3NTRlYWVkMDU4",
+  "snapshot_id": "MTY2MjE0MjQ4NywwMDAwMDAwMDIzZTYwMWI0M2JjOTVlNWNkZjA0YTIzNWYwZmUyNTY2",
   "tracks": [
     {
       "added_at": "2022-09-02 03:00:00",
@@ -251,6 +251,26 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
+        "name": "justi\u00e7a, paz, alegria",
+        "url": "https://open.spotify.com/album/2xtFRJflfGl6hkMIoZ1fKS"
+      },
+      "artists": [
+        {
+          "name": "verboemcarne",
+          "url": "https://open.spotify.com/artist/1VroOoldHXjh6NJxDE4rSY"
+        },
+        {
+          "name": "Ana Heloysa",
+          "url": "https://open.spotify.com/artist/57AZPoFXiEjFDMGRt5uTG4"
+        }
+      ],
+      "duration_ms": 270996,
+      "name": "justi\u00e7a, paz, alegria",
+      "url": "https://open.spotify.com/track/0uFxeF9GqOOOlYAwHQVOjW"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
         "name": "Onde Tem Lenha",
         "url": "https://open.spotify.com/album/47FqGv4uJ97rwJ6L894DJI"
       },
@@ -271,26 +291,6 @@
       "duration_ms": 594705,
       "name": "Onde Tem Lenha",
       "url": "https://open.spotify.com/track/4C8R3nxWiBNaDqEMixBRKz"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
-        "name": "justi\u00e7a, paz, alegria",
-        "url": "https://open.spotify.com/album/2xtFRJflfGl6hkMIoZ1fKS"
-      },
-      "artists": [
-        {
-          "name": "verboemcarne",
-          "url": "https://open.spotify.com/artist/1VroOoldHXjh6NJxDE4rSY"
-        },
-        {
-          "name": "Ana Heloysa",
-          "url": "https://open.spotify.com/artist/57AZPoFXiEjFDMGRt5uTG4"
-        }
-      ],
-      "duration_ms": 270996,
-      "name": "justi\u00e7a, paz, alegria",
-      "url": "https://open.spotify.com/track/0uFxeF9GqOOOlYAwHQVOjW"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -483,18 +483,22 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Quando Isso Passar",
-        "url": "https://open.spotify.com/album/6ddtjuWJOMnEoLDhuqDLOa"
+        "name": "Assume a Responsa",
+        "url": "https://open.spotify.com/album/2Z8TDPzD9x6rDB1VSRtFm8"
       },
       "artists": [
         {
-          "name": "Thiago Brado",
-          "url": "https://open.spotify.com/artist/7nhFPRuBTebusd2cBMAaEK"
+          "name": "Julliany Souza",
+          "url": "https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq"
+        },
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
         }
       ],
-      "duration_ms": 219513,
-      "name": "Quando Isso Passar",
-      "url": "https://open.spotify.com/track/2hD21MSLIAwxupDM0LhedM"
+      "duration_ms": 259862,
+      "name": "Assume a Responsa",
+      "url": "https://open.spotify.com/track/1QsGZr3d0O0vqJhJr1QZQg"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -511,6 +515,22 @@
       "duration_ms": 346917,
       "name": "Yeshua",
       "url": "https://open.spotify.com/track/7D3qbQOrea1ME7B7cUrYau"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
+        "name": "Quando Isso Passar",
+        "url": "https://open.spotify.com/album/6ddtjuWJOMnEoLDhuqDLOa"
+      },
+      "artists": [
+        {
+          "name": "Thiago Brado",
+          "url": "https://open.spotify.com/artist/7nhFPRuBTebusd2cBMAaEK"
+        }
+      ],
+      "duration_ms": 219513,
+      "name": "Quando Isso Passar",
+      "url": "https://open.spotify.com/track/2hD21MSLIAwxupDM0LhedM"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -547,22 +567,6 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Salazar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3rmdXtY0TwGeQvjOdljqqN"
-      },
-      "artists": [
-        {
-          "name": "Israel Salazar",
-          "url": "https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC"
-        }
-      ],
-      "duration_ms": 380250,
-      "name": "A Vit\u00f3ria Da Cruz / Mais Que Vencedor - Ao Vivo",
-      "url": "https://open.spotify.com/track/7ynkuAtSuCtFWFZITYp6Nr"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
         "name": "Eu Quero \u00c9 Deus / Celebrai a Cristo / Aquele Que Est\u00e1 Feliz (Ao Vivo)",
         "url": "https://open.spotify.com/album/27G71rRH7SWUCLz4Kg7Xc0"
       },
@@ -595,6 +599,22 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
+        "name": "Salazar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3rmdXtY0TwGeQvjOdljqqN"
+      },
+      "artists": [
+        {
+          "name": "Israel Salazar",
+          "url": "https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC"
+        }
+      ],
+      "duration_ms": 380250,
+      "name": "A Vit\u00f3ria Da Cruz / Mais Que Vencedor - Ao Vivo",
+      "url": "https://open.spotify.com/track/7ynkuAtSuCtFWFZITYp6Nr"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
         "name": "Mente Brilhante",
         "url": "https://open.spotify.com/album/5c35wXVbHDGXhnY84WFmSy"
       },
@@ -615,22 +635,6 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "O que o c\u00e9u come\u00e7a o c\u00e9u termina (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3zfUPNwzbXglzAEsaOdQl9"
-      },
-      "artists": [
-        {
-          "name": "Marcus Salles",
-          "url": "https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI"
-        }
-      ],
-      "duration_ms": 251707,
-      "name": "O que o c\u00e9u come\u00e7a o c\u00e9u termina - Ao Vivo",
-      "url": "https://open.spotify.com/track/2G8YIlCvrzyoTUxODWWWBw"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
         "name": "Santo (Ao Vivo)",
         "url": "https://open.spotify.com/album/3ZvYugynlgc6iZbK0esYQP"
       },
@@ -643,6 +647,22 @@
       "duration_ms": 536192,
       "name": "Santo - Ao Vivo",
       "url": "https://open.spotify.com/track/7AT3T3FM5Beh4zlD9rVTHQ"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
+        "name": "O que o c\u00e9u come\u00e7a o c\u00e9u termina (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3zfUPNwzbXglzAEsaOdQl9"
+      },
+      "artists": [
+        {
+          "name": "Marcus Salles",
+          "url": "https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI"
+        }
+      ],
+      "duration_ms": 251707,
+      "name": "O que o c\u00e9u come\u00e7a o c\u00e9u termina - Ao Vivo",
+      "url": "https://open.spotify.com/track/2G8YIlCvrzyoTUxODWWWBw"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -703,6 +723,42 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
+        "name": "No Jardim Parte 1/3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1iSiezemfGT9mCzLzATNVX"
+      },
+      "artists": [
+        {
+          "name": "Palankin",
+          "url": "https://open.spotify.com/artist/796gkD2e78sHPMakFcnqUJ"
+        },
+        {
+          "name": "Ana Rock",
+          "url": "https://open.spotify.com/artist/7hh91Pi4y3ey6t0m8I0P5U"
+        }
+      ],
+      "duration_ms": 313397,
+      "name": "Novo G\u00eanesis - Ao Vivo",
+      "url": "https://open.spotify.com/track/1iWwHkE9rUvbDbiascv1LF"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
+        "name": "\u00c9 Tempo de Abrir o Cora\u00e7\u00e3o / Santo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/42NjnTNuaIEGBsX3XACxGX"
+      },
+      "artists": [
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        }
+      ],
+      "duration_ms": 274005,
+      "name": "\u00c9 Tempo de Abrir o Cora\u00e7\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/5UtV3TOSr21gcvSxKA0mhf"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
         "name": "Sou Teu",
         "url": "https://open.spotify.com/album/47i2kk0tnCyY6VdjE3ZPZC"
       },
@@ -731,42 +787,6 @@
       "duration_ms": 231874,
       "name": "Uma Carta de Amanh\u00e3",
       "url": "https://open.spotify.com/track/5aySEnML7exs5wqd1eV58D"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
-        "name": "\u00c9 Tempo de Abrir o Cora\u00e7\u00e3o / Santo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/42NjnTNuaIEGBsX3XACxGX"
-      },
-      "artists": [
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        }
-      ],
-      "duration_ms": 274005,
-      "name": "\u00c9 Tempo de Abrir o Cora\u00e7\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/5UtV3TOSr21gcvSxKA0mhf"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
-        "name": "No Jardim Parte 1/3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1iSiezemfGT9mCzLzATNVX"
-      },
-      "artists": [
-        {
-          "name": "Palankin",
-          "url": "https://open.spotify.com/artist/796gkD2e78sHPMakFcnqUJ"
-        },
-        {
-          "name": "Ana Rock",
-          "url": "https://open.spotify.com/artist/7hh91Pi4y3ey6t0m8I0P5U"
-        }
-      ],
-      "duration_ms": 313397,
-      "name": "Novo G\u00eanesis - Ao Vivo",
-      "url": "https://open.spotify.com/track/1iWwHkE9rUvbDbiascv1LF"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -871,22 +891,6 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Caminho Sem Volta",
-        "url": "https://open.spotify.com/album/7mzXUBD7si5aoKWckv7gJR"
-      },
-      "artists": [
-        {
-          "name": "Stone Worship",
-          "url": "https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf"
-        }
-      ],
-      "duration_ms": 215064,
-      "name": "Caminho Sem Volta",
-      "url": "https://open.spotify.com/track/0KyqZzXWJSInwvSlCkFvUh"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
         "name": "Pura Luz",
         "url": "https://open.spotify.com/album/5dC3nxKgPPfZJD0ZJxTE5D"
       },
@@ -919,18 +923,18 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Ex\u00edlio",
-        "url": "https://open.spotify.com/album/46lSrHXtNUI1LtRe0C6Bed"
+        "name": "Caminho Sem Volta",
+        "url": "https://open.spotify.com/album/7mzXUBD7si5aoKWckv7gJR"
       },
       "artists": [
         {
-          "name": "Hugo Santos",
-          "url": "https://open.spotify.com/artist/7Jtov6LgLwkFhRW3lpE3lb"
+          "name": "Stone Worship",
+          "url": "https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf"
         }
       ],
-      "duration_ms": 279510,
-      "name": "Sobre as \u00c1guas",
-      "url": "https://open.spotify.com/track/7KmvG8syUkJueaI8IlHO1d"
+      "duration_ms": 215064,
+      "name": "Caminho Sem Volta",
+      "url": "https://open.spotify.com/track/0KyqZzXWJSInwvSlCkFvUh"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -951,6 +955,22 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
+        "name": "Ex\u00edlio",
+        "url": "https://open.spotify.com/album/46lSrHXtNUI1LtRe0C6Bed"
+      },
+      "artists": [
+        {
+          "name": "Hugo Santos",
+          "url": "https://open.spotify.com/artist/7Jtov6LgLwkFhRW3lpE3lb"
+        }
+      ],
+      "duration_ms": 279510,
+      "name": "Sobre as \u00c1guas",
+      "url": "https://open.spotify.com/track/7KmvG8syUkJueaI8IlHO1d"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
         "name": "Meu Valor",
         "url": "https://open.spotify.com/album/4geKNbzhHEZ8oCgBOvmLXu"
       },
@@ -963,22 +983,6 @@
       "duration_ms": 173026,
       "name": "Meu Valor",
       "url": "https://open.spotify.com/track/4FnjAbTNsfIk1C0Byu1WGq"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
-        "name": "Agora Eu Vivo Teu Amor",
-        "url": "https://open.spotify.com/album/32ZRNqlaLU1i87f73nuEvO"
-      },
-      "artists": [
-        {
-          "name": "Stone Worship",
-          "url": "https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf"
-        }
-      ],
-      "duration_ms": 190519,
-      "name": "Agora Eu Vivo Teu Amor",
-      "url": "https://open.spotify.com/track/7xZmvwdTsv3Yn8iCTsaVl0"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -999,6 +1003,22 @@
       "duration_ms": 309383,
       "name": "Louco (feat. PG)",
       "url": "https://open.spotify.com/track/6BFJMuXwEzGLWkjB0pOxDV"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
+        "name": "Agora Eu Vivo Teu Amor",
+        "url": "https://open.spotify.com/album/32ZRNqlaLU1i87f73nuEvO"
+      },
+      "artists": [
+        {
+          "name": "Stone Worship",
+          "url": "https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf"
+        }
+      ],
+      "duration_ms": 190519,
+      "name": "Agora Eu Vivo Teu Amor",
+      "url": "https://open.spotify.com/track/7xZmvwdTsv3Yn8iCTsaVl0"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -1039,26 +1059,6 @@
       "duration_ms": 473382,
       "name": "Sua Gl\u00f3ria",
       "url": "https://open.spotify.com/track/3LbpF0O7PyFNhz1pZyjFsB"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
-        "name": "Assume a Responsa",
-        "url": "https://open.spotify.com/album/2Z8TDPzD9x6rDB1VSRtFm8"
-      },
-      "artists": [
-        {
-          "name": "Julliany Souza",
-          "url": "https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq"
-        },
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 259862,
-      "name": "Assume a Responsa",
-      "url": "https://open.spotify.com/track/1QsGZr3d0O0vqJhJr1QZQg"
     },
     {
       "added_at": "2022-09-02 03:00:00",

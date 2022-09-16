@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Vikrant Rona
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,006 likes - 116 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,087 likes - 116 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

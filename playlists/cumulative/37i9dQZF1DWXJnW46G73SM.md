@@ -4,7 +4,7 @@
 
 > اكتشف الأغاني المصرية الجديدة! الغلاف: محمد رمضان
 
-209 songs - 12 hr 24 min - [published](https://open.spotify.com/playlist/7rd0UNTK9BBzffp6c0LMpx)
+210 songs - 12 hr 27 min - [published](https://open.spotify.com/playlist/7rd0UNTK9BBzffp6c0LMpx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Dars Hayaty](https://open.spotify.com/track/7nDgc4FJD4EUyGJAVjbVHP) | [Nabil](https://open.spotify.com/artist/4Rl8onVZp4QFiYARW298WD) | [Dars Hayaty](https://open.spotify.com/album/1ItG5aRvvmxKzEIpUnwbBB) | 2:42 | 2021-12-23 | 2022-02-02 |
 | [Dom Dom](https://open.spotify.com/track/09qJciYwmS2hlWlpjaIKZm) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [Dom Dom](https://open.spotify.com/album/0b5kI7IIsYfVsAXawB2dak) | 3:02 | 2022-07-20 |  |
 | [Downtown](https://open.spotify.com/track/5mJwIPGuMG8jhvhr9igD4W) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Downtown](https://open.spotify.com/album/1l7zke8JZbv83flMvXW99N) | 3:36 | 2022-03-03 | 2022-06-24 |
-| [Eesh Bezyda \(El Gouna International Tournament Squash Official Song\)](https://open.spotify.com/track/3n1Ay9tmg5lJXEgEbalNye) | [Ramy Ashour](https://open.spotify.com/artist/63KnNE9cEnAJ2bkSvLsAdx) | [Eesh Bezyda \(El Gouna International Tournament Squash Official Song\)](https://open.spotify.com/album/4889Xh1DOnyxnXKfNoinDe) | 4:04 | 2022-06-09 |  |
+| [Eesh Bezyda \(El Gouna International Tournament Squash Official Song\)](https://open.spotify.com/track/3n1Ay9tmg5lJXEgEbalNye) | [Ramy Ashour](https://open.spotify.com/artist/63KnNE9cEnAJ2bkSvLsAdx) | [Eesh Bezyda \(El Gouna International Tournament Squash Official Song\)](https://open.spotify.com/album/4889Xh1DOnyxnXKfNoinDe) | 4:04 | 2022-06-09 | 2022-09-16 |
 | [Eiish Ahla Snin](https://open.spotify.com/track/5cTeuErPw3vt8SBga9YAfM) | [Maya Diab](https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz) | [Eiish Ahla Snin](https://open.spotify.com/album/0I58q7plyh0jifvzl4gMzh) | 3:13 | 2022-07-14 |  |
 | [Eish'ha B Afia](https://open.spotify.com/track/0VoGUSTCDyz5855v4S278P) | [Hassan El Shafei](https://open.spotify.com/artist/62HptqyCczb1325UIjFF7x), [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE), [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [Eish'ha B Afia](https://open.spotify.com/album/3qgIRDfNgnyxHi0YykyrWW) | 3:18 | 2022-08-12 |  |
 | [El Alb Galo Hoboot](https://open.spotify.com/track/1moe9UH2JUoBYes6RzrUk6) | [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc) | [El Alb Galo Hoboot](https://open.spotify.com/album/1qqhyewwExUUhz98GwuWPa) | 4:43 | 2021-12-23 | 2022-03-10 |
@@ -184,7 +184,7 @@
 | [Wagaa Kam Youm](https://open.spotify.com/track/0pxGNAjZ6ngccUf5ehwjPB) | [Ahmed Gamal](https://open.spotify.com/artist/37ZFIxEwsxUpd09dNpRMVj) | [Wagaa Kam Youm](https://open.spotify.com/album/0VI7mgJVE7EqCjLBqJZpsf) | 4:35 | 2021-12-23 | 2022-02-23 |
 | [Wahdani](https://open.spotify.com/track/7MtjVTe38tcotyQwr7piOX) | [Joseph Attieh](https://open.spotify.com/artist/5DPb3SKW8QZFwkRlmt7Gvo) | [Wahdani](https://open.spotify.com/album/3Wwr5T1Xcu9da276ShVYft) | 4:41 | 2022-05-24 | 2022-08-21 |
 | [Wasa3 Wasa3](https://open.spotify.com/track/2hZb0DuHOlqka9VYhHlTpM) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Wasa3 Wasa3](https://open.spotify.com/album/4ejC21FFgQLYmMCm1OfSKh) | 3:58 | 2022-07-06 |  |
-| [Wendala3 \- ونتدلع](https://open.spotify.com/track/2ddCBRsbr5JEsJjA7XtTxT) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Wendala3 \(ونتدلع\)](https://open.spotify.com/album/6JhtlNXPOexvimNW4xzZfj) | 2:47 | 2022-06-09 |  |
+| [Wendala3 \- ونتدلع](https://open.spotify.com/track/2ddCBRsbr5JEsJjA7XtTxT) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Wendala3 \(ونتدلع\)](https://open.spotify.com/album/6JhtlNXPOexvimNW4xzZfj) | 2:47 | 2022-06-09 | 2022-09-16 |
 | [Wenta Be3eed \- From "Bhabak" Movie](https://open.spotify.com/track/73NkK8DgV8Cgba60Cz4WKc) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Wenta Be3eed \(From "Bhabak" Movie\)](https://open.spotify.com/album/4UukvPx3Zgpy1jtro3FHPH) | 3:46 | 2022-07-10 |  |
 | [Wleeh](https://open.spotify.com/track/5QIatrUnbjkDqftJbfZo5B) | [Mohamed Maghraby](https://open.spotify.com/artist/5YzWtu1xGAMgt1ZXDbBTSV) | [Wleeh](https://open.spotify.com/album/6Zuvzyj59U0Q1xKMSFo0xG) | 3:50 | 2022-03-18 | 2022-07-11 |
 | [Ya Bay](https://open.spotify.com/track/1tIjCjZggwGIIviiOn4qkB) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Ya Bay](https://open.spotify.com/album/3pLAjS8pQIbluq04CPZMVB) | 3:07 | 2021-12-23 | 2022-03-04 |
@@ -211,6 +211,7 @@
 | [لما تحس](https://open.spotify.com/track/5gTOE3Z7sTgN26AQo15cjU) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [لما تحس](https://open.spotify.com/album/0PLVHSEYE7wjxQyrenVWT1) | 4:10 | 2021-12-23 | 2022-03-10 |
 | [متغاظين](https://open.spotify.com/track/6uiTyyvUkV0NbQA11D7gT3) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH) | [متغاظين](https://open.spotify.com/album/0IuctadW5Mwa7RhSfioGb9) | 2:16 | 2022-08-20 |  |
 | [متمكنه](https://open.spotify.com/track/0PVMxcSgu03i6UugxfJJYO) | [Lamis Kan](https://open.spotify.com/artist/4jmo0EdvNDABmNDmPmKhMj) | [متمكنه](https://open.spotify.com/album/3eIYaoQVdl5hEXXzPT0uum) | 2:38 | 2021-12-30 | 2022-03-18 |
+| [نحنوح](https://open.spotify.com/track/1lcoflpxNSJR8U0gzVY6xq) | [Donia Samir Ghanem](https://open.spotify.com/artist/1ieloBuwzXdMn9VPOufDvB) | [نحنوح](https://open.spotify.com/album/7KNPArvrYE01FNciIiERE0) | 3:25 | 2022-09-15 |  |
 | [هنتقابل بعدين](https://open.spotify.com/track/4zyDUiz5Z19Gt93O4xFRpY) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [هنتقابل بعدين](https://open.spotify.com/album/474Bf3FITUcUkns8TzeXd4) | 4:29 | 2022-03-09 | 2022-07-02 |
 | [وأنا بتفرج](https://open.spotify.com/track/1qa5n8liYLMC2egxR2NL8W) | [Mostafa Kamel](https://open.spotify.com/artist/7IVaCSHkbx4xPS2vZ2LSCl) | [وأنا بتفرج](https://open.spotify.com/album/3jc6omieErB61xPgF2FrrJ) | 4:06 | 2022-07-01 |  |
 | [يا جميل](https://open.spotify.com/track/76WCLn1YVNLqCJ8y4pj5N7) | [Khaled Selim](https://open.spotify.com/artist/5J4acKeUuK5k6oZfx8e1rr) | [Ya Gamil](https://open.spotify.com/album/73fVexTsnpSydtpESG6FEm) | 3:39 | 2022-09-01 |  |

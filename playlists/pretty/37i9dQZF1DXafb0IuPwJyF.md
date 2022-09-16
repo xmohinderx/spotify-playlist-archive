@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 
 > The hottest hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。毎週月曜日更新。Cover:back number
 
-[Spotify](https://open.spotify.com/user/spotify) - 641,614 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 641,799 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 | 49 | [Bitter Sweet \(feat\. Rinne\)](https://open.spotify.com/track/7nLukfUB2GuyrJA5tsTXui) | [NARROWORLD](https://open.spotify.com/artist/1lDEJxLjWAXtKDr7nFCJxW), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [OHTORA](https://open.spotify.com/artist/16W2CFdMJKvN99ZWwoEB0k), [Rinne](https://open.spotify.com/artist/4ETsbj1XzA5v886JMNDgdA) | [Bitter Sweet \(feat\. Rinne\)](https://open.spotify.com/album/1pi5YLWY2XNmPzGe4sAfJ9) | 2:44 |
 | 50 | [I Wanna Be Your Ghost \(feat\. Ghosts\)](https://open.spotify.com/track/12qmPGMrOCogibc7qyxT9s) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [I Wanna Be Your Ghost \(feat\. Ghosts\)](https://open.spotify.com/album/3yMv72mFXC359orTQ2mZHe) | 3:45 |
 
-Snapshot ID: `MTY2MjkzMDc3NiwwMDAwMDAwMGUwMmUzZDdjMGZmMDcwY2JkNjdlOTZkODI5NzdkNGYw`
+Snapshot ID: `MTY2MzI1NDAwMCwwMDAwMDAwMGYyMTk0YzI3NDZlN2RhYmZmNmZmYWE1YTU1YTFlMGI1`

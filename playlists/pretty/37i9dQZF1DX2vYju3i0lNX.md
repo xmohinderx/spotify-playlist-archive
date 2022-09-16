@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vYju3i0lNX.md) - [plain]
 
 > Mellow jazz to stay focused or unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 716,520 likes - 235 songs - 14 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 716,722 likes - 235 songs - 14 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -244,4 +244,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vYju3i0lNX.md) - [plain]
 | 234 | [Soft Like Rain](https://open.spotify.com/track/1kA2atXO3zrz1L5uEZpVcB) | [Anita Rosswell](https://open.spotify.com/artist/6Qer09QopgWLGMd601P0Zk) | [Soft Like Rain](https://open.spotify.com/album/2et7XBXAiuqsxBX7MgwHiZ) | 2:48 |
 | 235 | [Five Years Ago](https://open.spotify.com/track/1L2aEbr8dOnVUKoeFhmMZG) | [Leonard Peters](https://open.spotify.com/artist/3lnir5hIW9TkpCGJGUuhvk) | [Walk The Dog](https://open.spotify.com/album/1P4DJRMLQ5RhNxYkDPeUf1) | 2:55 |
 
-Snapshot ID: `MTY2MzA1MjYxOCwwMDAwMDAwMDc0NDk4YWRhMGU0NDQxMTczMDM1MGU3ZGEyOWVlNzU4`
+Snapshot ID: `MTY2MzI1MDEzMSwwMDAwMDAwMDFiMGYyNGRjMDRhYWFkYjM4NDQ5ZDBmYjgwYjAxMTJl`

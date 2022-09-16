@@ -4,7 +4,7 @@
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: Surf Curse
 
-296 songs - 15 hr 38 min - [published](https://open.spotify.com/playlist/2w2n6MDKx2mk1T0ObTv6mW)
+297 songs - 15 hr 40 min - [published](https://open.spotify.com/playlist/2w2n6MDKx2mk1T0ObTv6mW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -302,6 +302,7 @@
 | [Whatever](https://open.spotify.com/track/6nCeCu9xovpYGPBUGoGqXi) | [Superbloom](https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL) | [Whatever](https://open.spotify.com/album/5RbmktxpqVBEHpq14N5MUP) | 3:06 | 2021-10-07 | 2022-03-26 |
 | [Who Loves Ya? \(Coup d'état\)](https://open.spotify.com/track/5VWxoK8gGzImPEaHi8UP67) | [Chubby and the Gang](https://open.spotify.com/artist/54owRfib7AwmLx1OEM1Apd) | [Labour of Love](https://open.spotify.com/album/2eiPZLFJNcNnjj7YEHOW3p) | 3:40 | 2022-07-08 | 2022-08-27 |
 | [Who Loves Ya? \(Coup d'état\)](https://open.spotify.com/track/6z9gUolZoaw9Lf2mG90ytt) | [Chubby and the Gang](https://open.spotify.com/artist/54owRfib7AwmLx1OEM1Apd) | [Labour of Love](https://open.spotify.com/album/7KOvsna0rd5wQD1QLXdUV2) | 3:40 | 2022-02-21 | 2022-07-29 |
+| [Y Grito](https://open.spotify.com/track/2QiVI7dnMfYXpL2FNIADTc) | [Angélica Garcia](https://open.spotify.com/artist/2rjGbM0H8EUQzTVx6BgUlG) | [Y Grito](https://open.spotify.com/album/09ehfTlTd3DS5c0F9G0suC) | 1:35 | 2022-09-15 |  |
 | [You Will Never Work In Television Again](https://open.spotify.com/track/2Aa4sRrWDddEmVRfAjVjsw) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [You Will Never Work In Television Again](https://open.spotify.com/album/0b897zzLyDXXpXAZxfAeK5) | 2:48 | 2022-01-07 | 2022-07-29 |
 | [You Will Never Work In Television Again](https://open.spotify.com/track/2ownDSIYHvydbtauGZW4ln) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [A Light for Attracting Attention](https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi) | 2:48 | 2022-07-08 |  |
 

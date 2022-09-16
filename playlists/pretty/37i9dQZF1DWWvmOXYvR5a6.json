@@ -1,12 +1,12 @@
 {
   "description": "Trendy x Chill K-Hip Hop.  (Cover: \bYouth Hostel(\uc720\uc2a4\ud638\uc2a4\ud154)) (\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.)",
-  "num_followers": 156673,
+  "num_followers": 156816,
   "original_name": "TrenChill K-Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjQ2NTcwNSwwMDAwMDAwMGY3YTVlNWY4NGVhMTcyNDQyNjcyZmVjNWMzMmM3Yzdh",
+  "snapshot_id": "MTY2MjQ2NTcwNSwwMDAwMDAwMDM5YTk4ZGUyNzFhY2UzMjdlYTllN2ZmMTRmYzI3MzBj",
   "tracks": [
     {
       "added_at": "2022-09-06 12:01:45",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2022-09-06 12:01:45",
       "album": {
+        "name": "COCO BOTTLE",
+        "url": "https://open.spotify.com/album/18T01XcLc1WzIZ3bCzwOsg"
+      },
+      "artists": [
+        {
+          "name": "PENOMECO",
+          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
+        }
+      ],
+      "duration_ms": 187889,
+      "name": "COCO BOTTLE",
+      "url": "https://open.spotify.com/track/3hHpCjJdBBw4KjizY8l72r"
+    },
+    {
+      "added_at": "2022-09-06 12:01:45",
+      "album": {
         "name": "DAFT LOVE",
         "url": "https://open.spotify.com/album/4SCzzeU2S6AyWEixWrvBjX"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 240760,
       "name": "Salad Days (feat. sokodomo, pH-1 & BE'O)",
       "url": "https://open.spotify.com/track/2MrBAJUseysxVN63HrPZL3"
-    },
-    {
-      "added_at": "2022-09-06 12:01:45",
-      "album": {
-        "name": "COCO BOTTLE",
-        "url": "https://open.spotify.com/album/18T01XcLc1WzIZ3bCzwOsg"
-      },
-      "artists": [
-        {
-          "name": "PENOMECO",
-          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
-        }
-      ],
-      "duration_ms": 187889,
-      "name": "COCO BOTTLE",
-      "url": "https://open.spotify.com/track/3hHpCjJdBBw4KjizY8l72r"
     },
     {
       "added_at": "2022-09-06 12:01:45",
@@ -1459,22 +1459,22 @@
     {
       "added_at": "2022-09-06 12:01:45",
       "album": {
-        "name": "Your Instagram",
-        "url": "https://open.spotify.com/album/7bFHJASGNnV4PilM1ivDfz"
+        "name": "11:59 (feat. Goopy)",
+        "url": "https://open.spotify.com/album/4t9L0wjwVTWEakrmJ2YZvk"
       },
       "artists": [
         {
-          "name": "IOHBOY",
-          "url": "https://open.spotify.com/artist/40lwyp2MgiYdyw674W1t1e"
+          "name": "JEY",
+          "url": "https://open.spotify.com/artist/2wrI86paHc2IIj6VmGOAMG"
         },
         {
-          "name": "Blueday",
-          "url": "https://open.spotify.com/artist/0eJldGKbkQF8duavnqq9hx"
+          "name": "Goopy",
+          "url": "https://open.spotify.com/artist/4F4XWiGTifyL39JD8qrslm"
         }
       ],
-      "duration_ms": 149222,
-      "name": "Your Instagram (Feat. Blueday)",
-      "url": "https://open.spotify.com/track/69eA4nwZmmAZy3dL1OglaJ"
+      "duration_ms": 177680,
+      "name": "11:59 (feat. Goopy)",
+      "url": "https://open.spotify.com/track/0Ipe4hZMTTzWyMxBtkcRNq"
     },
     {
       "added_at": "2022-09-06 12:01:45",
@@ -1495,22 +1495,22 @@
     {
       "added_at": "2022-09-06 12:01:45",
       "album": {
-        "name": "11:59 (feat. Goopy)",
-        "url": "https://open.spotify.com/album/4t9L0wjwVTWEakrmJ2YZvk"
+        "name": "Your Instagram",
+        "url": "https://open.spotify.com/album/7bFHJASGNnV4PilM1ivDfz"
       },
       "artists": [
         {
-          "name": "JEY",
-          "url": "https://open.spotify.com/artist/2wrI86paHc2IIj6VmGOAMG"
+          "name": "IOHBOY",
+          "url": "https://open.spotify.com/artist/40lwyp2MgiYdyw674W1t1e"
         },
         {
-          "name": "Goopy",
-          "url": "https://open.spotify.com/artist/4F4XWiGTifyL39JD8qrslm"
+          "name": "Blueday",
+          "url": "https://open.spotify.com/artist/0eJldGKbkQF8duavnqq9hx"
         }
       ],
-      "duration_ms": 177680,
-      "name": "11:59 (feat. Goopy)",
-      "url": "https://open.spotify.com/track/0Ipe4hZMTTzWyMxBtkcRNq"
+      "duration_ms": 149222,
+      "name": "Your Instagram (Feat. Blueday)",
+      "url": "https://open.spotify.com/track/69eA4nwZmmAZy3dL1OglaJ"
     },
     {
       "added_at": "2022-09-06 12:01:45",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2022-09-06 12:01:45",
       "album": {
-        "name": "Empty Head",
-        "url": "https://open.spotify.com/album/7MonuyQ2VRF1qGQXnzKwUF"
-      },
-      "artists": [
-        {
-          "name": "ASH ISLAND",
-          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
-        }
-      ],
-      "duration_ms": 185642,
-      "name": "Empty Head",
-      "url": "https://open.spotify.com/track/2mPR6yNoDn0IN8vqtz1Yrx"
-    },
-    {
-      "added_at": "2022-09-06 12:01:45",
-      "album": {
         "name": "Between Sat & Sun",
         "url": "https://open.spotify.com/album/6YcwCU0b6fXZ003KIU8Jio"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 235893,
       "name": "Black Heart (feat. Leellamarz, BE'O)",
       "url": "https://open.spotify.com/track/2odm919sRfQIhH2na8YSKK"
+    },
+    {
+      "added_at": "2022-09-06 12:01:45",
+      "album": {
+        "name": "Empty Head",
+        "url": "https://open.spotify.com/album/7MonuyQ2VRF1qGQXnzKwUF"
+      },
+      "artists": [
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        }
+      ],
+      "duration_ms": 185642,
+      "name": "Empty Head",
+      "url": "https://open.spotify.com/track/2mPR6yNoDn0IN8vqtz1Yrx"
     },
     {
       "added_at": "2022-09-06 12:01:45",
@@ -1683,26 +1683,6 @@
     {
       "added_at": "2022-09-06 12:01:45",
       "album": {
-        "name": "H.A.L.F (Have.A.Little.Fun)",
-        "url": "https://open.spotify.com/album/48u7IqYux9zf5sUWVb6qcm"
-      },
-      "artists": [
-        {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
-        },
-        {
-          "name": "DPR LIVE",
-          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
-        }
-      ],
-      "duration_ms": 200900,
-      "name": "Have A Little Fun",
-      "url": "https://open.spotify.com/track/1F3QFP6UXUPUbgo1stlc0x"
-    },
-    {
-      "added_at": "2022-09-06 12:01:45",
-      "album": {
         "name": "MBT",
         "url": "https://open.spotify.com/album/2XP5oAZ4KePlCQrdUKddn4"
       },
@@ -1719,26 +1699,22 @@
     {
       "added_at": "2022-09-06 12:01:45",
       "album": {
-        "name": "UH-RA? with KozyPop",
-        "url": "https://open.spotify.com/album/7JWfmdSg7VBvgi2gQA9Xib"
+        "name": "H.A.L.F (Have.A.Little.Fun)",
+        "url": "https://open.spotify.com/album/48u7IqYux9zf5sUWVb6qcm"
       },
       "artists": [
         {
-          "name": "CHOI YOOJUNG",
-          "url": "https://open.spotify.com/artist/1ygbGmBWGTX0llbLrD9648"
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
         },
         {
-          "name": "Ahn byeong woong",
-          "url": "https://open.spotify.com/artist/6cJ883ebXg0pWAwlzMcBxe"
-        },
-        {
-          "name": "dress",
-          "url": "https://open.spotify.com/artist/72b1XZ6SmDRgHEOB7ypw9z"
+          "name": "DPR LIVE",
+          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
         }
       ],
-      "duration_ms": 217320,
-      "name": "UH-RA? (feat. dress)",
-      "url": "https://open.spotify.com/track/7nqpSc48taCt7DpPX8XTI9"
+      "duration_ms": 200900,
+      "name": "Have A Little Fun",
+      "url": "https://open.spotify.com/track/1F3QFP6UXUPUbgo1stlc0x"
     },
     {
       "added_at": "2022-09-06 12:01:45",
@@ -1795,6 +1771,30 @@
       "duration_ms": 155986,
       "name": "Loop",
       "url": "https://open.spotify.com/track/7ATf0yl0YoPO9rTCI3b7fy"
+    },
+    {
+      "added_at": "2022-09-06 12:01:45",
+      "album": {
+        "name": "UH-RA? with KozyPop",
+        "url": "https://open.spotify.com/album/7JWfmdSg7VBvgi2gQA9Xib"
+      },
+      "artists": [
+        {
+          "name": "CHOI YOOJUNG",
+          "url": "https://open.spotify.com/artist/1ygbGmBWGTX0llbLrD9648"
+        },
+        {
+          "name": "Ahn byeong woong",
+          "url": "https://open.spotify.com/artist/6cJ883ebXg0pWAwlzMcBxe"
+        },
+        {
+          "name": "dress",
+          "url": "https://open.spotify.com/artist/72b1XZ6SmDRgHEOB7ypw9z"
+        }
+      ],
+      "duration_ms": 217320,
+      "name": "UH-RA? (feat. dress)",
+      "url": "https://open.spotify.com/track/7nqpSc48taCt7DpPX8XTI9"
     },
     {
       "added_at": "2022-09-06 12:01:45",
@@ -1887,6 +1887,22 @@
     {
       "added_at": "2022-09-06 12:01:45",
       "album": {
+        "name": "Coin Laundry",
+        "url": "https://open.spotify.com/album/1WiFGqAYwIO3Zb16PXe9Q3"
+      },
+      "artists": [
+        {
+          "name": "Donutman",
+          "url": "https://open.spotify.com/artist/2xH4dYFMVhdOGIhgIWonbc"
+        }
+      ],
+      "duration_ms": 164480,
+      "name": "Coin Laundry",
+      "url": "https://open.spotify.com/track/7c15oEQBX6E0hGdDSsGxZy"
+    },
+    {
+      "added_at": "2022-09-06 12:01:45",
+      "album": {
         "name": "VIOLINIST2",
         "url": "https://open.spotify.com/album/05cEu4COQP7cF3Otz7aDBT"
       },
@@ -1935,22 +1951,6 @@
       "duration_ms": 203731,
       "name": "meet me in Toronto",
       "url": "https://open.spotify.com/track/6gnkpiuVtm2b5hzUNnXtQd"
-    },
-    {
-      "added_at": "2022-09-06 12:01:45",
-      "album": {
-        "name": "Coin Laundry",
-        "url": "https://open.spotify.com/album/1WiFGqAYwIO3Zb16PXe9Q3"
-      },
-      "artists": [
-        {
-          "name": "Donutman",
-          "url": "https://open.spotify.com/artist/2xH4dYFMVhdOGIhgIWonbc"
-        }
-      ],
-      "duration_ms": 164480,
-      "name": "Coin Laundry",
-      "url": "https://open.spotify.com/track/7c15oEQBX6E0hGdDSsGxZy"
     },
     {
       "added_at": "2022-09-06 12:01:45",

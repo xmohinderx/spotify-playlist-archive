@@ -593,7 +593,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 218600,
       "name": "Freedom - Acoustic",
       "url": "https://open.spotify.com/track/63HLCxYAAfRPo47zawh8ep"
@@ -2077,6 +2077,24 @@
       "duration_ms": 209900,
       "name": "Unchained Melody - Acoustic",
       "url": "https://open.spotify.com/track/3dpAowl81OJz8CinXr46Mn"
+    },
+    {
+      "album": {
+        "name": "Uptown Girl (Acoustic)",
+        "url": "https://open.spotify.com/album/4piOFs8574bvoGwjdI7x4r"
+      },
+      "artists": [
+        {
+          "name": "Paul Canning",
+          "url": "https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188487,
+      "name": "Uptown Girl - Acoustic",
+      "url": "https://open.spotify.com/track/4qfLHdUxLYL664Si2iq9Mf"
     },
     {
       "album": {

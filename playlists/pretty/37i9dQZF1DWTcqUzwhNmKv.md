@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Ozzy on top of the biggest Metal playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,306,570 likes - 60 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,306,884 likes - 60 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Nothing Feels Right \(feat\. Zakk Wylde\)](https://open.spotify.com/track/1K2MfPrkhy3pAYFL0m4Y64) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Zakk Wylde](https://open.spotify.com/artist/1AeC9AuzqGc3IXMC2T5xny) | [Nothing Feels Right \(feat\. Zakk Wylde\)](https://open.spotify.com/album/5FRTz5iys7bz1F2yzn9Lm5) | 5:35 |
 | 2 | [Bad Things](https://open.spotify.com/track/3jTWNaSfBQvv3HPTqQjkkM) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [TRUE POWER](https://open.spotify.com/album/6SjY4WK6VMFYEINGVOHzGa) | 3:48 |
-| 3 | [Yen](https://open.spotify.com/track/3jlGZP70KYqw0fjjDNoOe0) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Yen](https://open.spotify.com/album/0FkAhmbHolBUJvWsGjzvTQ) | 4:45 |
+| 3 | [Yen](https://open.spotify.com/track/3jlGZP70KYqw0fjjDNoOe0) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Yen](https://open.spotify.com/album/0FkAhmbHolBUJvWsGjzvTQ) | 4:43 |
 | 4 | [Glitch](https://open.spotify.com/track/35i03ZqMFb5Q3O9TAQ7XLB) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Glitch](https://open.spotify.com/album/6nUaOQGLU8xIAI5MQqHvup) | 4:21 |
 | 5 | [MIDDLE OF THE NIGHT](https://open.spotify.com/track/1Gwu3d6lZjL99kw4dcFCsq) | [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [MIDDLE OF THE NIGHT](https://open.spotify.com/album/0BIVeIl2HY2fElVxUCD9RV) | 3:06 |
 | 6 | [Find a Way or Make One](https://open.spotify.com/track/4NtpLuz8QFPrCofWmeBYy8) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [The Great Heathen Army](https://open.spotify.com/album/49RfDv9BawZQq8hJq0V5wB) | 4:30 |

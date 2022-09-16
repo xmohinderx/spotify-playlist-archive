@@ -4,7 +4,7 @@
 
 > Fresh rock from independent artists every Wednesday\. Cover: The Mammoths \| Artwork: Jim Klok
 
-526 songs - 1 day 5 hr 13 min - [published](https://open.spotify.com/playlist/0kwhXxf6pq44hUjEkufg4R)
+527 songs - 1 day 5 hr 15 min - [published](https://open.spotify.com/playlist/0kwhXxf6pq44hUjEkufg4R)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -527,6 +527,7 @@
 | [Wrecked \(feat\. Bully\)](https://open.spotify.com/track/1xFYp2V4Or9ia44vNvSzxP) | [Weird Nightmare](https://open.spotify.com/artist/2dRm7hmP96rgIGGGX1wiLc), [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Wrecked \(feat\. Bully\)](https://open.spotify.com/album/7ITvwigrmsX1OGMTQBKsOE) | 3:39 | 2022-05-04 | 2022-07-28 |
 | [Wrong Side of Town](https://open.spotify.com/track/6l8oUewyfpzDxmLovdzhSc) | [The Prize](https://open.spotify.com/artist/38duacoKCmLCQwLBQscDgI) | [Wrong Side of Town](https://open.spotify.com/album/3rXekdszkvr2fnEUzhY0s8) | 2:43 | 2022-08-03 |  |
 | [WW3](https://open.spotify.com/track/7cL0pp1OpgcAUQfS2CsQ23) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8), [RIZ LA VIE](https://open.spotify.com/artist/0QkgnHpxSCOYdTnhUR9S5k), [grandma](https://open.spotify.com/artist/2eYwIt8heUiqcnd0Tmkizk) | [WW3](https://open.spotify.com/album/27Q8KrXPXir8nSlqZfMB7h) | 2:32 | 2022-01-19 | 2022-05-05 |
+| [Y Grito](https://open.spotify.com/track/2QiVI7dnMfYXpL2FNIADTc) | [Angélica Garcia](https://open.spotify.com/artist/2rjGbM0H8EUQzTVx6BgUlG) | [Y Grito](https://open.spotify.com/album/09ehfTlTd3DS5c0F9G0suC) | 1:35 | 2022-09-15 |  |
 | [Ya está](https://open.spotify.com/track/41xN0UCyKSPs4TI3h7x2S4) | [La Paloma](https://open.spotify.com/artist/6poevqCIGOy8886WKNTHkv) | [Ya está](https://open.spotify.com/album/0zJxxLy8lmxyrkUc9c7dzd) | 3:01 | 2021-12-01 | 2022-01-27 |
 | [You Follow Me Around](https://open.spotify.com/track/6TFGjO5tVnsRw2ChX7vRoW) | [The Fades](https://open.spotify.com/artist/58FnrTrMiP3T8lUjkbNZdZ) | [You Follow Me Around](https://open.spotify.com/album/6ZtLLPauGWJcMjuHBd8Ky6) | 3:30 | 2022-08-10 |  |
 | [You Will Never Be the Best at Anything You Try \(Surely Not\)](https://open.spotify.com/track/3kuRDe1vBmCXldgLl4ZJY9) | [Short Fictions](https://open.spotify.com/artist/07VKGw5BhunkwMnvz71Z1h) | [Every Moment of Every Day](https://open.spotify.com/album/2KKOxOD55emoqgbG2l5FSW) | 4:09 | 2022-06-29 | 2022-09-01 |

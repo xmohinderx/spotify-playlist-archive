@@ -1,12 +1,12 @@
 {
   "description": "Kick back with a collection of iconic and new acoustic tracks with that classic feel. Cover: George Harrison",
-  "num_followers": 2461266,
+  "num_followers": 2461769,
   "original_name": "Classic Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzY3NzIyMiwwMDAwMDAwMDY0OWJhNTkxOGJkNzRiYjQwNTAyYjM2NjY5OGVmZWVk",
+  "snapshot_id": "MTY1MzY3NzIyMiwwMDAwMDAwMGNlYTExMzllMDdiNTdmMTQzMTUyMjNiNmI5MjQzNzIw",
   "tracks": [
     {
       "added_at": "2022-05-27 18:47:02",
@@ -431,22 +431,6 @@
     {
       "added_at": "2022-05-27 18:47:02",
       "album": {
-        "name": "Unplugged (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3ebyEGol0Abc7VAxYf7vEg"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Tears in Heaven - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster",
-      "url": "https://open.spotify.com/track/612VcBshQcy4mpB2utGc3H"
-    },
-    {
-      "added_at": "2022-05-27 18:47:02",
-      "album": {
         "name": "Pearl (Legacy Edition)",
         "url": "https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 271333,
       "name": "Me and Bobby McGee",
       "url": "https://open.spotify.com/track/1IqFh00G2kvvMm8pRMpehA"
+    },
+    {
+      "added_at": "2022-05-27 18:47:02",
+      "album": {
+        "name": "Unplugged (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3ebyEGol0Abc7VAxYf7vEg"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Tears in Heaven - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster",
+      "url": "https://open.spotify.com/track/612VcBshQcy4mpB2utGc3H"
     },
     {
       "added_at": "2022-05-27 18:47:02",
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
         }
       ],
-      "duration_ms": 253293,
-      "name": "Peace Train - Remastered 2021",
-      "url": "https://open.spotify.com/track/4d0d2llNcQIHmaCgYTrODQ"
+      "duration_ms": 102986,
+      "name": "The Wind - Remastered 2021",
+      "url": "https://open.spotify.com/track/0wEo4mwfs6tXYgCem9m9wP"
     },
     {
       "added_at": "2022-05-27 18:47:02",
@@ -812,9 +812,9 @@
           "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
         }
       ],
-      "duration_ms": 102986,
-      "name": "The Wind - Remastered 2021",
-      "url": "https://open.spotify.com/track/0wEo4mwfs6tXYgCem9m9wP"
+      "duration_ms": 253293,
+      "name": "Peace Train - Remastered 2021",
+      "url": "https://open.spotify.com/track/4d0d2llNcQIHmaCgYTrODQ"
     },
     {
       "added_at": "2022-05-27 18:47:02",
@@ -979,22 +979,6 @@
     {
       "added_at": "2022-05-27 18:47:02",
       "album": {
-        "name": "Human Touch",
-        "url": "https://open.spotify.com/album/5vza8Bd9yp7kRX45QsUljF"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 388800,
-      "name": "Human Touch",
-      "url": "https://open.spotify.com/track/1o53HbxmOy5TzThJdBaDZb"
-    },
-    {
-      "added_at": "2022-05-27 18:47:02",
-      "album": {
         "name": "Tapestry",
         "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 200146,
       "name": "Where You Lead",
       "url": "https://open.spotify.com/track/0APt4t1Dab58sYmGQ4jgij"
+    },
+    {
+      "added_at": "2022-05-27 18:47:02",
+      "album": {
+        "name": "Human Touch",
+        "url": "https://open.spotify.com/album/5vza8Bd9yp7kRX45QsUljF"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 388800,
+      "name": "Human Touch",
+      "url": "https://open.spotify.com/track/1o53HbxmOy5TzThJdBaDZb"
     },
     {
       "added_at": "2022-05-27 18:47:02",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2022-05-27 18:47:02",
       "album": {
-        "name": "Mercy Now",
-        "url": "https://open.spotify.com/album/1FGmBGkpEjtrtqbW85d9TW"
-      },
-      "artists": [
-        {
-          "name": "Mary Gauthier",
-          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
-        }
-      ],
-      "duration_ms": 350560,
-      "name": "Mercy Now",
-      "url": "https://open.spotify.com/track/6684GUHy1jpyhJVzpz5OFr"
-    },
-    {
-      "added_at": "2022-05-27 18:47:02",
-      "album": {
         "name": "Solid Air",
         "url": "https://open.spotify.com/album/0QD0LEYQDkrJrtVcuRBcVp"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 220493,
       "name": "May You Never",
       "url": "https://open.spotify.com/track/6ofam9RHTG7UBUa6uO2MjP"
+    },
+    {
+      "added_at": "2022-05-27 18:47:02",
+      "album": {
+        "name": "Mercy Now",
+        "url": "https://open.spotify.com/album/1FGmBGkpEjtrtqbW85d9TW"
+      },
+      "artists": [
+        {
+          "name": "Mary Gauthier",
+          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
+        }
+      ],
+      "duration_ms": 350560,
+      "name": "Mercy Now",
+      "url": "https://open.spotify.com/track/6684GUHy1jpyhJVzpz5OFr"
     },
     {
       "added_at": "2022-05-27 18:47:02",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2022-05-27 18:47:02",
       "album": {
+        "name": "The New Folk Sound Of Terry Callier (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2cX2VDaXtAvTgZbSOZe2T7"
+      },
+      "artists": [
+        {
+          "name": "Terry Callier",
+          "url": "https://open.spotify.com/artist/5cHmjJA9Lo0ga8s8QdxEzs"
+        }
+      ],
+      "duration_ms": 307880,
+      "name": "900 Miles",
+      "url": "https://open.spotify.com/track/0zVduthKvT1FEsUGFWT9Xo"
+    },
+    {
+      "added_at": "2022-05-27 18:47:02",
+      "album": {
         "name": "San Francisco Days",
         "url": "https://open.spotify.com/album/75BiePy3TDKg9or1NKm0ov"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 178973,
       "name": "San Francisco Days",
       "url": "https://open.spotify.com/track/5Trbt34yBAzpM59c6G8pqO"
-    },
-    {
-      "added_at": "2022-05-27 18:47:02",
-      "album": {
-        "name": "The Definitive Rod Stewart",
-        "url": "https://open.spotify.com/album/16B8kK28QgKIYTb7XyLMuj"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 345680,
-      "name": "Maggie May - Remastered Version",
-      "url": "https://open.spotify.com/track/1r3kj1yMff7ilIsR7hpvUo"
     }
   ],
   "unique_name": "Classic Acoustic",

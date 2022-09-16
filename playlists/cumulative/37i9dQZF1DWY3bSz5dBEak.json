@@ -828,6 +828,28 @@
     },
     {
       "album": {
+        "name": "Beethoven: Piano Sonatas No.13 In E Flat Major, Op. 27 No.1; No.14 In C sharp Minor \"Moonlight\", Op.27 No. 2; No.15 In D Major \"Pastoral\", Op. 28; No.26 In E Flat Major, Op. 81a \"Les Adieux\"",
+        "url": "https://open.spotify.com/album/1pDLRhkf2DwH0iMxOR6DT6"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Daniel Barenboim",
+          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405000,
+      "name": "Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 - \"Moonlight\": I. Adagio sostenuto",
+      "url": "https://open.spotify.com/track/5kO0GLMGGOSHjJzDZyKWzm"
+    },
+    {
+      "album": {
         "name": "Beethoven: Piano Sonatas Nos. 14, 15, 17, 21-24 & 32",
         "url": "https://open.spotify.com/album/7IuansNUMwvK3IZZrmoc5H"
       },
@@ -1397,28 +1419,6 @@
       "duration_ms": 290893,
       "name": "Piano Sonata No. 8 in C Minor, Op. 13 \"Path\u00e9tique\": III. Rondo (Allegro)",
       "url": "https://open.spotify.com/track/7oZulk3E0PsXP0tIKYI3n5"
-    },
-    {
-      "album": {
-        "name": "Beethoven: Piano Sonatas No.13 In E Flat Major, Op. 27 No.1; No.14 In C sharp Minor \"Moonlight\", Op.27 No. 2; No.15 In D Major \"Pastoral\", Op. 28; No.26 In E Flat Major, Op. 81a \"Les Adieux\"",
-        "url": "https://open.spotify.com/album/1pDLRhkf2DwH0iMxOR6DT6"
-      },
-      "artists": [
-        {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
-        },
-        {
-          "name": "Daniel Barenboim",
-          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
-        }
-      ],
-      "date_added": "2020-02-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 405000,
-      "name": "Piano Sonata No.14 in C-Sharp Minor, Op. 27 No. 2 - \"Moonlight\": I. Adagio sostenuto",
-      "url": "https://open.spotify.com/track/5kO0GLMGGOSHjJzDZyKWzm"
     },
     {
       "album": {

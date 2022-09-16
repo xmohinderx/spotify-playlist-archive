@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Royce Da 5'9"
 
-[Spotify](https://open.spotify.com/user/spotify) - 628,768 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 628,948 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,10 +30,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 20 | [Times Is Rough](https://open.spotify.com/track/1EzmTNUSKb0J5eXGgrP6wy) | [Black Soprano Family](https://open.spotify.com/artist/3s7WzrEs4FkNObqj4WyfQm), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7), [Heem B$F](https://open.spotify.com/artist/6VG5Dwz8DbqnwWAyaJTc2D), [Rick Hyde](https://open.spotify.com/artist/5bgr1sPXFeiNuS4vARMZp1) | [Times Is Rough](https://open.spotify.com/album/0p4zzRMfASMefel2C3BM92) | 3:21 |
 | 21 | [Gang Signs \(feat\. ScHoolboy Q\)](https://open.spotify.com/track/6snYsavG9vq3C7RGN98dst) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Gang Signs \(feat\. ScHoolboy Q\)](https://open.spotify.com/album/6djndSUOt3l5SJRc1wHdml) | 2:46 |
 | 22 | [Swamp Bitches \(with Rico Nasty\)](https://open.spotify.com/track/2aOG6jVZnTqZwEhjGTcFMM) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [she / her / black bitch](https://open.spotify.com/album/0MndM4dEwGOjtuKE1aP2Tb) | 3:00 |
-| 23 | [IMPALAS & HYDRAULICS \(Ft\. The Game\)](https://open.spotify.com/track/4EwwOC5ajOeyCVdPrScy5t) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o), [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI) | [IMPALAS & HYDRAULICS \(Ft\. The Game\)](https://open.spotify.com/album/5BcFOLlzBLEtGAWC4GnKtL) | 2:57 |
+| 23 | [Never Freestyle](https://open.spotify.com/track/1a9x6fk6pUMxr28vZR3nU3) | [Coast Contra](https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ) | [Never Freestyle](https://open.spotify.com/album/77PEXiTnnWU0QhAwVSDFBH) | 4:26 |
 | 24 | [THE\_EVIL\_THAT\_MEN\_DO](https://open.spotify.com/track/6s9qov2o5dUVUVut2jB45K) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [THE\_EVIL\_THAT\_MEN\_DO](https://open.spotify.com/album/7rOfgB0eZeRCPOSu00cuzN) | 2:53 |
 | 25 | [RUN \[Feat\. Young Thug\]](https://open.spotify.com/track/4DSS2IhBFgW7MYyjkOOx68) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [RUN](https://open.spotify.com/album/6zNJxFmILwoDTFYJqhQFIU) | 3:53 |
-| 26 | [Never Freestyle](https://open.spotify.com/track/1a9x6fk6pUMxr28vZR3nU3) | [Coast Contra](https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ) | [Never Freestyle](https://open.spotify.com/album/77PEXiTnnWU0QhAwVSDFBH) | 4:26 |
+| 26 | [IMPALAS & HYDRAULICS \(Ft\. The Game\)](https://open.spotify.com/track/4EwwOC5ajOeyCVdPrScy5t) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o), [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI) | [IMPALAS & HYDRAULICS \(Ft\. The Game\)](https://open.spotify.com/album/5BcFOLlzBLEtGAWC4GnKtL) | 2:57 |
 | 27 | [One Way Flight \(feat\. Freddie Gibbs\)](https://open.spotify.com/track/03jnWnj2qOrYofsyCTuHC6) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Burden of Proof](https://open.spotify.com/album/6xlQNGdro3cCcn8v1ZEGm3) | 3:18 |
 | 28 | [In my lifetime \(feat\. Action Bronson\)](https://open.spotify.com/track/6FoyBTuvyX2YFw4QW1e6DK) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ) | [Vinyl Days](https://open.spotify.com/album/0RTHMVF27KRMHIGnF7iLru) | 1:48 |
 | 29 | [Strangers \(feat\. A$AP Rocky and Run The Jewels\)](https://open.spotify.com/track/5iP1KNUxchR64bieN9pE7z) | [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C) | [Strangers \(feat\. A$AP Rocky and Run The Jewels\)](https://open.spotify.com/album/6OHZ8QAgIJC7nPwACpWqG8) | 4:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 49 | [Vinyl Days \(feat\. DJ Premier\)](https://open.spotify.com/track/4Red8fs87G5istv5L8S9kU) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [Vinyl Days](https://open.spotify.com/album/39Pk4nMutY9mR59Z1n9BH1) | 4:42 |
 | 50 | [Is What It Is](https://open.spotify.com/track/1hKMOXgE5jEgGPNSPerDem) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o), [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3) | [Is What It Is](https://open.spotify.com/album/2YOF3TN46Z2FdTIIE9GTga) | 2:57 |
 
-Snapshot ID: `MTY2MjA5MTI2MCwwMDAwMDAwMDU5YjVjZWRhYjNkNTY5NjVjMmNlN2IwMmZmOWE4OWNl`
+Snapshot ID: `MTY2MjA5MTI2MCwwMDAwMDAwMDAxMDJlNjQ5MDk5ODg2MTViMjk3OTYwYWY2YTBkYjI3`

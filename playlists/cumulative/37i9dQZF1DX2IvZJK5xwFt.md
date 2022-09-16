@@ -2,9 +2,9 @@
 
 ### [Just Rock!](https://open.spotify.com/playlist/37i9dQZF1DX2IvZJK5xwFt)
 
-> Only the best rock in the world\. Cover: Ozzy Osbourne
+> Only the best rock in the world\. Cover: GAYLE
 
-201 songs - 12 hr 50 min - [published](https://open.spotify.com/playlist/4b8D1RnS1amrOmfT4hWOtA)
+203 songs - 12 hr 57 min - [published](https://open.spotify.com/playlist/4b8D1RnS1amrOmfT4hWOtA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Fallout](https://open.spotify.com/track/07GYummphjTwkCjNfJvIca) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Fallout](https://open.spotify.com/album/63xLdGlrDV5QJuwtQlGqL4) | 3:14 | 2022-05-06 | 2022-07-29 |
 | [Fallout](https://open.spotify.com/track/2JBk2XZLjS0N4x3mFHINM6) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Fallout](https://open.spotify.com/album/74K2vGYMdCCO29n4s4Y41h) | 3:14 | 2022-07-07 | 2022-08-26 |
 | [Fire It Up](https://open.spotify.com/track/2NtTPFydPxZnZ3p6wlkYdq) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Fire It Up](https://open.spotify.com/album/5BDAPbqXoXGOy8lwur9SxF) | 3:19 | 2022-05-19 | 2022-06-03 |
+| [fmk \(with blackbear\)](https://open.spotify.com/track/1hhMX7QQIhBsXjFmTK7owB) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [fmk \(with blackbear\)](https://open.spotify.com/album/2JATwGH1Izmuu47IcnfzSO) | 3:09 | 2022-09-15 |  |
 | [For the Love of Money](https://open.spotify.com/track/5jH6P7e6RUGZnFGTeq3pUe) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Dropout Boogie](https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk) | 3:31 | 2022-05-12 | 2022-05-27 |
 | [Free Fall \(Theme From KinnPorsche The Series\)](https://open.spotify.com/track/6MDtS6MzlIzGUjbC1rapa4) | [Slot Machine](https://open.spotify.com/artist/6TNTFjkJA8PhP16Ds7CZnz) | [Free Fall \(Theme From KinnPorsche The Series\)](https://open.spotify.com/album/7svgXSmQuVYYecwHej48Pw) | 3:46 | 2022-05-06 |  |
 | [Fuck Me \(I Didn’t Know How To Say\)](https://open.spotify.com/track/07M8tCNuO9RZenyINtp2QB) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [Fuck Me \(I Didn’t Know How To Say\)](https://open.spotify.com/album/5X1CPvZLeIo8Gmw8gWssUW) | 3:06 | 2022-05-26 | 2022-06-17 |
@@ -89,7 +90,7 @@
 | [Just Us Two](https://open.spotify.com/track/7xcI1Zektgesyth4OXLW0H) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Just Us Two](https://open.spotify.com/album/2SM7pq8HGnx7xPuMyb8mck) | 3:48 | 2022-06-10 | 2022-06-24 |
 | [Kick](https://open.spotify.com/track/2l0P9ERrM4S0T0uX9BcX7h) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Kick](https://open.spotify.com/album/5Hckd2gMvqMuVJwrV7lFtl) | 3:42 | 2022-05-06 | 2022-05-13 |
 | [Kill Or Be Killed](https://open.spotify.com/track/4E6pemZ3WutASrphiRINbd) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Kill Or Be Killed](https://open.spotify.com/album/7tg11V9qhF2C9OoJgB1fnX) | 4:59 | 2022-07-21 |  |
-| [Killing Time](https://open.spotify.com/track/5Y15AQnjSQwX5790ZP8OJm) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [The Sick, The Dying… And The Dead!](https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC) | 5:12 | 2022-09-01 |  |
+| [Killing Time](https://open.spotify.com/track/5Y15AQnjSQwX5790ZP8OJm) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [The Sick, The Dying… And The Dead!](https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC) | 5:12 | 2022-09-01 | 2022-09-16 |
 | [Land of Smile](https://open.spotify.com/track/6lTBuxszarD3vejf6yMBnJ) | [The Young Wolf](https://open.spotify.com/artist/1D9YuAgk4GI9co3rvv5b1Y) | [Land of Smile](https://open.spotify.com/album/03C3715uWzXOjOuQIIdrbu) | 4:22 | 2022-05-06 | 2022-05-20 |
 | [Leave Me Be](https://open.spotify.com/track/7Cz87d89aHhnk3MmGAG3L3) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Si Vis Pacem, Para Bellum \(Deluxe Edition\)](https://open.spotify.com/album/61fYGxrlD51FLZGWSlX68q) | 3:33 | 2022-06-30 |  |
 | [Leech](https://open.spotify.com/track/213FfJIwavzYZrAXa2nNL5) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Leech](https://open.spotify.com/album/4xnqnQAzwMK6gZsuPTojvU) | 3:50 | 2022-05-26 | 2022-06-17 |
@@ -110,6 +111,7 @@
 | [Material Girl \(feat\. Taylor Hanson of Hanson\)](https://open.spotify.com/track/7IyRPhyQIRoCSBnLNLbM36) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz), [Hanson](https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58) | [Material Girl \(feat\. Taylor Hanson of Hanson\)](https://open.spotify.com/album/5nfPvmgxIqQnGR8J9n8WUh) | 4:09 | 2022-05-06 | 2022-05-20 |
 | [maybe \(feat\. Bring Me The Horizon\)](https://open.spotify.com/track/1Al4Z4K76RCKj31mExavs7) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [maybe \(feat\. Bring Me The Horizon\)](https://open.spotify.com/album/36fDvdG4hmUbfLgauLOFgG) | 2:50 | 2022-05-06 | 2022-07-15 |
 | [Memories \(with WILLOW\)](https://open.spotify.com/track/3LcMLFApeU9uCT8VCWEVjr) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [Memories \(with WILLOW\)](https://open.spotify.com/album/0OJD74cS6Isaf2iAdkGSOd) | 2:35 | 2022-05-06 |  |
+| [Movie Star \(ft\. MOD SUN & Global Dan\)](https://open.spotify.com/track/0P6jpMI0OXirXvurwBgM5d) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG), [Global Dan](https://open.spotify.com/artist/1lzugG0lqNh9nP6Fp2zG3c) | [HiROQUEST: Genesis](https://open.spotify.com/album/0lF8VwXlAyOMFt1XQvCa5l) | 3:33 | 2022-09-15 |  |
 | [Music All We Have](https://open.spotify.com/track/5BtEJ0u8sxno9kymiloA0S) | [SCALLER](https://open.spotify.com/artist/6IjWOreXe5zdIiRpDD4stM) | [Music All We Have](https://open.spotify.com/album/7HdVwXyh6GSIe8n6Ilnbo7) | 4:02 | 2022-08-11 |  |
 | [my Mystery](https://open.spotify.com/track/36T5RCOBXJM7fXU4rKLSlP) | [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu) | [my Mystery](https://open.spotify.com/album/3tfEX6ctvTwkZwzP91mQUC) | 5:12 | 2022-06-02 |  |
 | [Needless Nostalgia](https://open.spotify.com/track/3Gk4iUoMXNL5YkaTVbvL8r) | [Anesthetic Youth](https://open.spotify.com/artist/2O6q4MZHDzJBDTcaTwMxkX) | [Needless Nostalgia](https://open.spotify.com/album/52kj1wmCLXVlVsjdkAle9k) | 4:38 | 2022-05-06 | 2022-08-12 |
@@ -130,7 +132,7 @@
 | [Parade](https://open.spotify.com/track/2TSu26aUupiIfzv5OE1hjr) | [SLOE JACK](https://open.spotify.com/artist/6LxNb1YrbYYSpIFQAfxUQ1) | [Parade](https://open.spotify.com/album/04xTZdEbwVCV3TO2GDXq3o) | 2:03 | 2022-05-15 | 2022-05-27 |
 | [Patient Number 9 \(feat\. Jeff Beck\)](https://open.spotify.com/track/6kAOsnRUgp21bPiUoVZeuJ) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Patient Number 9 \(feat\. Jeff Beck\)](https://open.spotify.com/album/6ofIoMgNMIM7cvlxjWNcpN) | 7:21 | 2022-06-23 |  |
 | [Permanent Rebellion](https://open.spotify.com/track/2Ot85xcajHDvU7cD2BdR2M) | [L.S\. Dunes](https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG) | [Permanent Rebellion](https://open.spotify.com/album/2LbVe89xE3nidK1eYLwrfH) | 3:13 | 2022-08-25 |  |
-| [Phantom](https://open.spotify.com/track/14wSiOY3ZjskXuFj4xiEAD) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Phantom](https://open.spotify.com/album/4wJcxxuS21izYigHCM58gr) | 4:25 | 2022-08-25 |  |
+| [Phantom](https://open.spotify.com/track/14wSiOY3ZjskXuFj4xiEAD) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Phantom](https://open.spotify.com/album/4wJcxxuS21izYigHCM58gr) | 4:25 | 2022-08-25 | 2022-09-16 |
 | [Precious Declaration \- Salvation Mix](https://open.spotify.com/track/565Trt2Aqcbwvd1c2PDZoo) | [Collective Soul](https://open.spotify.com/artist/4e5V1Q2dKCzbLVMQ8qbTn6) | [Precious Declaration \(Salvation Mix\)](https://open.spotify.com/album/04zdkwyFQ0vwOcJEOUCv9x) | 3:40 | 2022-05-06 | 2022-06-10 |
 | [Problems](https://open.spotify.com/track/0mFSV2Bawz8i9wnlc9eYme) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Eureka](https://open.spotify.com/album/5gDuz6zUpE30ShPTJQ6k1C) | 3:27 | 2022-05-06 |  |
 | [Punk Tactics](https://open.spotify.com/track/2KBYPTSTHjYYOPACrFTkPy) | [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh) | [Punk Tactics](https://open.spotify.com/album/7pG2QdrVFNTid1hqezx5dH) | 2:23 | 2022-08-11 |  |

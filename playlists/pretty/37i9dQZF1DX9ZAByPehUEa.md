@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 
 > A happy place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,846 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,902 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,12 +40,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 | 30 | [Everything's Gonna Be Alright \(feat\. London Community Gospel Choir\)](https://open.spotify.com/track/6e9zuRnA4Vsg3PO6I1CMte) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [Beverley Knight](https://open.spotify.com/artist/30AzZL0valZQ62OIQiFWvk), [London Community Gospel Choir](https://open.spotify.com/artist/5DhdFUvQCHgY2F9mVL8uoz) | [Everything's Gonna Be Alright \(feat\. London Community Gospel Choir\)](https://open.spotify.com/album/5MX5rserGlqMOcu0WDisiI) | 3:33 |
 | 31 | [Pleasure Love](https://open.spotify.com/track/22itU9LO5xcgMIQ2wDYg3b) | [Supafly](https://open.spotify.com/artist/2uBSo6TqjuddKVUp5MVqfV), [De Funk](https://open.spotify.com/artist/1e2MsinOAaS2JUYEEHSaU5) | [Pleasure Love](https://open.spotify.com/album/1Km9xN9NEfN3tVTnC2n63S) | 2:44 |
 | 32 | [Best Of Me](https://open.spotify.com/track/6GkSwWTuOF8awxEtVaBvVt) | [Picard Brothers](https://open.spotify.com/artist/1bATQwgDSJlmYJ4obvTFmN) | [Best Of Me](https://open.spotify.com/album/0jKRFNGHFQujXgmZ7G3n8c) | 3:49 |
-| 33 | [Never The Same](https://open.spotify.com/track/52V5wpCwxwzWgNZczk0xRB) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl) | [Never The Same](https://open.spotify.com/album/3YFUnFp5vvJDmGuepYiTgj) | 3:32 |
-| 34 | [Oh Honey](https://open.spotify.com/track/5lS06mMFuIAalSIrp8cYZW) | [Angelo Ferreri](https://open.spotify.com/artist/3tT2XX9qEVivLCYGoqkRkZ) | [Oh Honey](https://open.spotify.com/album/1ByX0IB5VnERqw5g5LDkOC) | 2:29 |
+| 33 | [Oh Honey](https://open.spotify.com/track/5lS06mMFuIAalSIrp8cYZW) | [Angelo Ferreri](https://open.spotify.com/artist/3tT2XX9qEVivLCYGoqkRkZ) | [Oh Honey](https://open.spotify.com/album/1ByX0IB5VnERqw5g5LDkOC) | 2:29 |
+| 34 | [Never The Same](https://open.spotify.com/track/52V5wpCwxwzWgNZczk0xRB) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl) | [Never The Same](https://open.spotify.com/album/3YFUnFp5vvJDmGuepYiTgj) | 3:32 |
 | 35 | [Don't Go \- Gerd Janson Re\-Work \- Shorter Edit](https://open.spotify.com/track/5E1si4zAa76zwPhwEHXFBU) | [Julie McDermott](https://open.spotify.com/artist/25ORH36m22WXNx98UdFT1T), [Gerd Janson](https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO) | [Don't Go \(Gerd Janson Re\-Work \- Shorter Edit\)](https://open.spotify.com/album/3jFPyqKhfD28o6XbRWd7V0) | 2:26 |
 | 36 | [Heaven \(feat\. Andreya Triana\)](https://open.spotify.com/track/1L6ZbPR2kIzguE0EjVEsLw) | [The Vision](https://open.spotify.com/artist/33nwA09TKiO0nWmUrI3E1I), [Ben Westbeech](https://open.spotify.com/artist/0qP3Irw4a8UFvXv6KQf3XM), [Kon](https://open.spotify.com/artist/4JbrK7cFQmSZ7tKBUbV3zi), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [The Vision](https://open.spotify.com/album/7G3RYP4Wc2vtFHihpR8HXN) | 4:58 |
-| 37 | [Please \- Single Edit](https://open.spotify.com/track/7mJGrZIFA5MO6W2QBcWBDX) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Please](https://open.spotify.com/album/0ugWOJ1e8Q2Qp7rukfH4YR) | 3:39 |
-| 38 | [Love You Better](https://open.spotify.com/track/1TvazP1ZwXFtJnkO3FcGsD) | [Alex Preston](https://open.spotify.com/artist/0f8HuVIxsHG6bnEZsz0RuD) | [Love You Better](https://open.spotify.com/album/38ra4cHiMOZQRLZQrrTFp1) | 3:14 |
+| 37 | [Love You Better](https://open.spotify.com/track/1TvazP1ZwXFtJnkO3FcGsD) | [Alex Preston](https://open.spotify.com/artist/0f8HuVIxsHG6bnEZsz0RuD) | [Love You Better](https://open.spotify.com/album/38ra4cHiMOZQRLZQrrTFp1) | 3:14 |
+| 38 | [Please \- Single Edit](https://open.spotify.com/track/7mJGrZIFA5MO6W2QBcWBDX) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Please](https://open.spotify.com/album/0ugWOJ1e8Q2Qp7rukfH4YR) | 3:39 |
 | 39 | [All 4 Love \(feat\. Tasty Lopez\)](https://open.spotify.com/track/0ib3Pdvgp2ZDk6nO1DC3sJ) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [Rene Amesz](https://open.spotify.com/artist/0s122QsNac4WSqoVsFD60m), [Tasty Lopez](https://open.spotify.com/artist/6bGjAU1yRMvrVDQsN9Awc0) | [All 4 Love \(feat\. Tasty Lopez\)](https://open.spotify.com/album/5nG14C8xNuwcroL5obo4dq) | 3:25 |
 | 40 | [Je Vulesse](https://open.spotify.com/track/7FPtdpiBHIFyiUoFTEDfRd) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Nuova Napoli](https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD) | 4:48 |
 | 41 | [My Own Way](https://open.spotify.com/track/7Csd6ozp0Ci3ZDfvRgzrWz) | [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8) | [My Own Way](https://open.spotify.com/album/6sgwScp59KuNiOPvexBNfA) | 2:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 | 49 | [Sometimes The Going Gets A Little Tough \- Mella Dee Going Got A Bit Tougher Mix](https://open.spotify.com/track/0sseNUohdOMxlKtLHGxNH1) | [Finn](https://open.spotify.com/artist/4p8fvQcLMWToTpmezUb8T5), [Mella Dee](https://open.spotify.com/artist/2iT8KIetokMHRjhj8dJuNn) | [Sometimes The Going Gets A Little Tough](https://open.spotify.com/album/7hk8GE39ew5hvnrPPlhng9) | 5:39 |
 | 50 | [Money Money](https://open.spotify.com/track/5Y1hXyy0XdX8R3sY3FAR3q) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Pink Flamingo Rhythm Revue](https://open.spotify.com/artist/6Mm5YKoIXU6lHig5U82KFp) | [Exotica](https://open.spotify.com/album/4LIWp0dSuFmtNJrxdegyOG) | 3:30 |
 
-Snapshot ID: `MTY2MjEyNDI4MiwwMDAwMDAwMDI1OWJkYzAyMDk5OTUwNDlhY2E5OWVmNzY0Nzc5YTUy`
+Snapshot ID: `MTY2MjEyNDI4MiwwMDAwMDAwMDA2NmMwNmNiMTJmNWM0NmJjODVjY2MyZmFmY2YzZGVi`

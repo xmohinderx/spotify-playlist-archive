@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 
 > Step Up for this Top Hit Telugu songs
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,227 likes - 52 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,265 likes - 52 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 | 21 | [Nuvve Nuvve \(From "Red"\)](https://open.spotify.com/track/7Ft65MCYElRCDo7jOekQFs) | [Ramya Behra](https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv), [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Mani Sharma](https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss) | [Nuvve Nuvve \(From "Red"\)](https://open.spotify.com/album/33bGNKG4SqamfmuenEbtcn) | 4:13 |
 | 22 | [Whattey Beauty \- Telugu](https://open.spotify.com/track/3KUD3u6xFEIewEQVppwXbH) | [Dhanunjay Seepana](https://open.spotify.com/artist/5DxwUWyGp1uejyE80iJcn0), [Amala Chebolu](https://open.spotify.com/artist/0DdlrGRKjpM9Mqon7dHVm8), [Mahati Swara Sagar](https://open.spotify.com/artist/27dNKsHZrQKGnAlFCLDlzd) | [Bheeshma](https://open.spotify.com/album/6AQtdnP4yOGeHGfVLU6J50) | 3:54 |
 | 23 | [Mama Ek Peg La](https://open.spotify.com/track/1D8dEFWzWPCs9kk2BaWDGS) | [Balakrishna Nandamuri, Divya Divakar](https://open.spotify.com/artist/0kAzI0IwtEwKqfdndPhEBY) | [Paisa Vasool](https://open.spotify.com/album/2mvMBtAd07PuPbmBH56YcF) | 3:36 |
-| 24 | [Reddy Ikkada Soodu](https://open.spotify.com/track/0AC0O74oBjVfCp0SHr3kQ6) | [Daler Mehndi](https://open.spotify.com/artist/6wa1AsxB9oJP7lwNSmbcYx), [Anjana Sowmya](https://open.spotify.com/artist/1MRWm9vbsdOdqD1GYQEihD) | [Aravindha Sametha](https://open.spotify.com/album/3YS0UOK0pXMGizKPjzhybv) | 4:04 |
-| 25 | [Jwala Reddy](https://open.spotify.com/track/3sJsBrmu3pVEbxSW5vMQoi) | [Shankar Babu](https://open.spotify.com/artist/0gXtTHD29pO85I6glSfzDD), [Mangli](https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo) | [Seetimaarr](https://open.spotify.com/album/5QkCmd6LakXYNkzKhDDBsV) | 4:05 |
+| 24 | [Jwala Reddy](https://open.spotify.com/track/3sJsBrmu3pVEbxSW5vMQoi) | [Shankar Babu](https://open.spotify.com/artist/0gXtTHD29pO85I6glSfzDD), [Mangli](https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo) | [Seetimaarr](https://open.spotify.com/album/5QkCmd6LakXYNkzKhDDBsV) | 4:05 |
+| 25 | [Reddy Ikkada Soodu](https://open.spotify.com/track/0AC0O74oBjVfCp0SHr3kQ6) | [Daler Mehndi](https://open.spotify.com/artist/6wa1AsxB9oJP7lwNSmbcYx), [Anjana Sowmya](https://open.spotify.com/artist/1MRWm9vbsdOdqD1GYQEihD) | [Aravindha Sametha](https://open.spotify.com/album/3YS0UOK0pXMGizKPjzhybv) | 4:04 |
 | 26 | [Daang Daang \(From "Sarileru Neekevvaru"\)](https://open.spotify.com/track/3qhq4cn3We0CXDIi44ckHa) | [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB), [Lavita Lobo](https://open.spotify.com/artist/2RBQVSVinw1X1iRQQ4iqJv), [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [Daang Daang \(From "Sarileru Neekevvaru"\)](https://open.spotify.com/album/6h0Uxuwt5XJlVIl45FwaBh) | 4:14 |
 | 27 | [Bhalegundi Baalaa](https://open.spotify.com/track/2UNdKmp2UILWhbN0j4H34U) | [Mickey J\. Meyer](https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk), [Penchal Das](https://open.spotify.com/artist/1Gwagas1URF2FF769DMjVN), [Nutana Mohan](https://open.spotify.com/artist/0RGaIKSEzZnlNTLCJKnv0H) | [Sreekaram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/72FQPRyqPBYcuJcYriY56P) | 4:28 |
 | 28 | [Drunk and Drive](https://open.spotify.com/track/13AC9I9D1SMZDxoZBXkiUV) | [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn) | [Chalo](https://open.spotify.com/album/4OM6femr6U4dYJwxByQMKX) | 4:12 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 | 51 | [Raaye Raaye](https://open.spotify.com/track/6CJnjllUy1qhWVC6slc8cA) | [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB), [Madhu Priya](https://open.spotify.com/artist/1TpuHZaoRQMiKcMRN5DjDY) | [Touch Chesi Chudu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5jGomlyoYmxcjNxqWILSVr) | 3:28 |
 | 52 | [Puttene Prema](https://open.spotify.com/track/6qNCPMFrXaeVQuA3QFZ4F1) | [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj) | [Gully Rowdy](https://open.spotify.com/album/16FbjE4zTKmqoa9DOt4lrs) | 3:46 |
 
-Snapshot ID: `MTY1MTkzMjA5NywwMDAwMDAwMGRhYzU0MDRmYjA2ZDJlYTdhYWE4ODkzMmRlYTQ4ZDU4`
+Snapshot ID: `MTY1MTkzMjA5NywwMDAwMDAwMDc3MGI3OTU1MjNmOGU0YTViNjBiYmQxOGE1MjQ5ZTg0`

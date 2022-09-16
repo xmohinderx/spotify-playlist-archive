@@ -1,12 +1,12 @@
 {
   "description": "Blues guitar heroes of today. Cover: Kirk Fletcher",
-  "num_followers": 13603,
+  "num_followers": 13620,
   "original_name": "Modern Blues Guitar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjQxNDUyMCwwMDAwMDAwMGFlMTRmMzQ4M2M0NWFjZTQwNGVjNTQzNzNiYjMxOGJh",
+  "snapshot_id": "MTY1MjQxNDUyMCwwMDAwMDAwMDY2Y2I5ODMyYWQyMDBhMmE1NDgzNGVmMDViMjI5ZDYy",
   "tracks": [
     {
       "added_at": "2020-10-21 17:37:12",
@@ -695,22 +695,6 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Chills & Thrills",
-        "url": "https://open.spotify.com/album/3NAEXb8fdzzi9umXkF36J5"
-      },
-      "artists": [
-        {
-          "name": "Bernard Allison",
-          "url": "https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI"
-        }
-      ],
-      "duration_ms": 241706,
-      "name": "Groove With Me",
-      "url": "https://open.spotify.com/track/2VaKZQ6d3qY0roo4E1Hapg"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
         "name": "Defenestrator",
         "url": "https://open.spotify.com/album/7Gr8iZYU89gbFwvao6MA3h"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 428577,
       "name": "Chief's Blues",
       "url": "https://open.spotify.com/track/0MtLzhrCsKEwFipuRI532O"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
+        "name": "Chills & Thrills",
+        "url": "https://open.spotify.com/album/3NAEXb8fdzzi9umXkF36J5"
+      },
+      "artists": [
+        {
+          "name": "Bernard Allison",
+          "url": "https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI"
+        }
+      ],
+      "duration_ms": 241706,
+      "name": "Groove With Me",
+      "url": "https://open.spotify.com/track/2VaKZQ6d3qY0roo4E1Hapg"
     },
     {
       "added_at": "2020-10-21 17:37:12",

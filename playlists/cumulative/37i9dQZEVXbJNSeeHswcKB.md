@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Belgium.
 
-717 songs - 1 day 15 hr 52 min - [published](https://open.spotify.com/playlist/29yUzLQ7r3SIxxtKBc64iH)
+718 songs - 1 day 15 hr 56 min - [published](https://open.spotify.com/playlist/29yUzLQ7r3SIxxtKBc64iH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -363,7 +363,7 @@
 | [La solassitude](https://open.spotify.com/track/09IE6tsb0tL0VLGH4GxCOO) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [Multitude](https://open.spotify.com/album/5JY3b9cELQsoG7D5TJMOgw) | 3:02 | 2022-03-05 | 2022-03-21 |
 | [Last Christmas](https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [LAST CHRISTMAS](https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ) | 4:22 | 2021-11-28 | 2022-01-01 |
 | [Last Dance](https://open.spotify.com/track/0x4GMUtMeZAbti9fhDQnhj) | [Stefania](https://open.spotify.com/artist/0HZUhj5PZHzHMWSI4s8rOQ) | [Last Dance](https://open.spotify.com/album/1yhcTmwOGKCenGQZ7Z7yCk) | 3:00 | 2021-05-25 | 2021-05-26 |
-| [Last Last](https://open.spotify.com/track/5YbPxJwPfrj7uswNwoF1pJ) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:52 | 2022-08-03 |  |
+| [Last Last](https://open.spotify.com/track/5YbPxJwPfrj7uswNwoF1pJ) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:52 | 2022-08-03 | 2022-09-16 |
 | [Late Night Talking](https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:57 | 2022-05-21 |  |
 | [Le Bled](https://open.spotify.com/track/5jHfomwwBzN6rD2ByERafC) | [Cristian D](https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4), [Brysa](https://open.spotify.com/artist/20bXifvyaank813LMJGw5G) | [Le Bled](https://open.spotify.com/album/5kNrv9xHhIakeBu4yj5kEb) | 2:05 | 2021-11-04 | 2021-12-05 |
 | [Le classico organisé](https://open.spotify.com/track/2O9enJqAqs46tfBlGhLsnW) | [Le classico organisé](https://open.spotify.com/artist/791x09Ix1mNc1hGhbD7IOW), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Soso Maness](https://open.spotify.com/artist/0oeiA5U9u1U45Gos5cywUU), [Kofs](https://open.spotify.com/artist/5RaQ9nmVGoTye2SI76x3yw), [Guy2bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh), [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [Le classico organisé](https://open.spotify.com/album/5Qiln6hgo90OKyf9x0ci4y) | 6:18 | 2021-11-07 | 2021-11-21 |
@@ -611,6 +611,7 @@
 | [Super Freaky Girl](https://open.spotify.com/track/2yjlYDiNiQkdxVqTlaSrlX) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Queen Radio: Volume 1](https://open.spotify.com/album/1ia27ME4iQkoIyUHBnJqX6) | 2:50 | 2022-09-05 | 2022-09-07 |
 | [SUPERMODEL](https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [SUPERMODEL](https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn) | 2:28 | 2022-05-17 |  |
 | [Sur un nouvel album](https://open.spotify.com/track/7gaXVyPaSqUwIcLPTrnHLm) | [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [V](https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU) | 2:44 | 2022-02-05 | 2022-02-07 |
+| [Sweater Weather](https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI) | 4:00 | 2022-09-15 |  |
 | [T\-max 560](https://open.spotify.com/track/3t3ffqI2DxrrAawarNtwGw) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Réelle vie 3.0](https://open.spotify.com/album/4nqsV5gavODGyZ2lx2M2tw) | 2:58 | 2021-11-28 | 2021-11-28 |
 | [Take My Breath](https://open.spotify.com/track/6M3PsepEj5gyJoIi7Xvr7u) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Take My Breath](https://open.spotify.com/album/4lBrDelXR6Sn0k54a7UWMz) | 3:40 | 2021-08-18 | 2021-11-21 |
 | [Take My Breath](https://open.spotify.com/track/6OGogr19zPTM4BALXuMQpF) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Take My Breath](https://open.spotify.com/album/6DmXKM13nNgIIby2FdK0f8) | 3:40 | 2021-08-08 | 2021-08-18 |

@@ -1,12 +1,12 @@
 {
   "description": "The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.",
-  "num_followers": 387303,
+  "num_followers": 387522,
   "original_name": "Not Quite Classical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5NjA2MCwwMDAwMDAwMDJmZGYwNWQ5NjFjMzY3YjAwZjNjOGYzZDQxMDlhOWFj",
+  "snapshot_id": "MTY2MjY5NjA2MCwwMDAwMDAwMGU0N2UwMDQ0M2E1YWE1MDM0ODBiMDk2M2ZkOTJjNGQ0",
   "tracks": [
     {
       "added_at": "2022-09-09 04:01:00",
@@ -395,22 +395,6 @@
     {
       "added_at": "2022-09-09 04:01:00",
       "album": {
-        "name": "Beginnings",
-        "url": "https://open.spotify.com/album/6KOwv2I3BWLqaiEvjdtKOp"
-      },
-      "artists": [
-        {
-          "name": "James Heather",
-          "url": "https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu"
-        }
-      ],
-      "duration_ms": 238046,
-      "name": "Beginnings",
-      "url": "https://open.spotify.com/track/6v4WvtbAbm88SeS4etJMTH"
-    },
-    {
-      "added_at": "2022-09-09 04:01:00",
-      "album": {
         "name": "Like Glass",
         "url": "https://open.spotify.com/album/62UcpKhYUlXBueS6YJ8TOR"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 150792,
       "name": "Like Glass",
       "url": "https://open.spotify.com/track/71rfSw8kdWU28fZV3oBNFN"
+    },
+    {
+      "added_at": "2022-09-09 04:01:00",
+      "album": {
+        "name": "Beginnings",
+        "url": "https://open.spotify.com/album/6KOwv2I3BWLqaiEvjdtKOp"
+      },
+      "artists": [
+        {
+          "name": "James Heather",
+          "url": "https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu"
+        }
+      ],
+      "duration_ms": 238046,
+      "name": "Beginnings",
+      "url": "https://open.spotify.com/track/6v4WvtbAbm88SeS4etJMTH"
     },
     {
       "added_at": "2022-09-09 04:01:00",
@@ -655,22 +655,6 @@
     {
       "added_at": "2022-09-09 04:01:00",
       "album": {
-        "name": "Solanales",
-        "url": "https://open.spotify.com/album/4giTq8C1Ss1e9PM8k88H1I"
-      },
-      "artists": [
-        {
-          "name": "Balmorhea",
-          "url": "https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9"
-        }
-      ],
-      "duration_ms": 332607,
-      "name": "Solanales",
-      "url": "https://open.spotify.com/track/6U0l3hk3oTtNtPwk2Ekjxl"
-    },
-    {
-      "added_at": "2022-09-09 04:01:00",
-      "album": {
         "name": "Du Nord",
         "url": "https://open.spotify.com/album/3oXN64PxXKUKYVt6elfyWp"
       },
@@ -687,6 +671,38 @@
       "duration_ms": 166879,
       "name": "Itasca",
       "url": "https://open.spotify.com/track/1LAfLQLoApcUphZFXPN1Px"
+    },
+    {
+      "added_at": "2022-09-09 04:01:00",
+      "album": {
+        "name": "Solanales",
+        "url": "https://open.spotify.com/album/4giTq8C1Ss1e9PM8k88H1I"
+      },
+      "artists": [
+        {
+          "name": "Balmorhea",
+          "url": "https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9"
+        }
+      ],
+      "duration_ms": 332607,
+      "name": "Solanales",
+      "url": "https://open.spotify.com/track/6U0l3hk3oTtNtPwk2Ekjxl"
+    },
+    {
+      "added_at": "2022-09-09 04:01:00",
+      "album": {
+        "name": "The Open",
+        "url": "https://open.spotify.com/album/2AcC9SJ0mMyKGJLONZx6lt"
+      },
+      "artists": [
+        {
+          "name": "Lambert",
+          "url": "https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK"
+        }
+      ],
+      "duration_ms": 214862,
+      "name": "The Open",
+      "url": "https://open.spotify.com/track/2sSzhlTz0N1HlSuoLLxv8z"
     },
     {
       "added_at": "2022-09-09 04:01:00",
@@ -711,22 +727,6 @@
       "duration_ms": 265872,
       "name": "Aurora",
       "url": "https://open.spotify.com/track/7fIyzIV9JXEBTaBUWFtvtO"
-    },
-    {
-      "added_at": "2022-09-09 04:01:00",
-      "album": {
-        "name": "The Open",
-        "url": "https://open.spotify.com/album/2AcC9SJ0mMyKGJLONZx6lt"
-      },
-      "artists": [
-        {
-          "name": "Lambert",
-          "url": "https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK"
-        }
-      ],
-      "duration_ms": 214862,
-      "name": "The Open",
-      "url": "https://open.spotify.com/track/2sSzhlTz0N1HlSuoLLxv8z"
     },
     {
       "added_at": "2022-09-09 04:01:00",
@@ -927,6 +927,22 @@
     {
       "added_at": "2022-09-09 04:01:00",
       "album": {
+        "name": "Cloud Memory",
+        "url": "https://open.spotify.com/album/1uu3zbo7cvj4NM2U15fCOU"
+      },
+      "artists": [
+        {
+          "name": "Jim Perkins",
+          "url": "https://open.spotify.com/artist/6ihM9B0SRS5Xcvsw03Y1Vi"
+        }
+      ],
+      "duration_ms": 117585,
+      "name": "Cloud Memory",
+      "url": "https://open.spotify.com/track/2dUIvQRy9wfxNVcm0JLwNm"
+    },
+    {
+      "added_at": "2022-09-09 04:01:00",
+      "album": {
         "name": "What Gently Flutters",
         "url": "https://open.spotify.com/album/3iMEn4oNhkAj70YRaJGMWJ"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 128048,
       "name": "What Gently Flutters",
       "url": "https://open.spotify.com/track/7z8IVlpwHziC0bFq4gZMxT"
-    },
-    {
-      "added_at": "2022-09-09 04:01:00",
-      "album": {
-        "name": "Cloud Memory",
-        "url": "https://open.spotify.com/album/1uu3zbo7cvj4NM2U15fCOU"
-      },
-      "artists": [
-        {
-          "name": "Jim Perkins",
-          "url": "https://open.spotify.com/artist/6ihM9B0SRS5Xcvsw03Y1Vi"
-        }
-      ],
-      "duration_ms": 117585,
-      "name": "Cloud Memory",
-      "url": "https://open.spotify.com/track/2dUIvQRy9wfxNVcm0JLwNm"
     },
     {
       "added_at": "2022-09-09 04:01:00",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2022-09-09 04:01:00",
       "album": {
-        "name": "The Swimmer",
-        "url": "https://open.spotify.com/album/4pTmusoi7JcIyJFTFdTPek"
+        "name": "Music For Growing Flowers",
+        "url": "https://open.spotify.com/album/7nlNFxFHuJxLHtfGM2mAkD"
       },
       "artists": [
         {
-          "name": "Phil France",
-          "url": "https://open.spotify.com/artist/3xlkiDlNGdmuNg01x7SVJd"
+          "name": "Erland Cooper",
+          "url": "https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa"
         }
       ],
-      "duration_ms": 252000,
-      "name": "The Swimmer",
-      "url": "https://open.spotify.com/track/1xaWQ8IKeg0cJxqhs7RIF4"
+      "duration_ms": 334506,
+      "name": "Music For Growing Flowers - Pt. 4",
+      "url": "https://open.spotify.com/track/0kY5iUcL7JGqGLz3t2hhCL"
     },
     {
       "added_at": "2022-09-09 04:01:00",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2022-09-09 04:01:00",
       "album": {
+        "name": "The Swimmer",
+        "url": "https://open.spotify.com/album/4pTmusoi7JcIyJFTFdTPek"
+      },
+      "artists": [
+        {
+          "name": "Phil France",
+          "url": "https://open.spotify.com/artist/3xlkiDlNGdmuNg01x7SVJd"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "The Swimmer",
+      "url": "https://open.spotify.com/track/1xaWQ8IKeg0cJxqhs7RIF4"
+    },
+    {
+      "added_at": "2022-09-09 04:01:00",
+      "album": {
         "name": "Current",
         "url": "https://open.spotify.com/album/4pPrnPAjNULq5aca8tJA0U"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 350974,
       "name": "Current",
       "url": "https://open.spotify.com/track/05J7mr2kIdHciLOO5ISSia"
-    },
-    {
-      "added_at": "2022-09-09 04:01:00",
-      "album": {
-        "name": "Music For Growing Flowers",
-        "url": "https://open.spotify.com/album/7nlNFxFHuJxLHtfGM2mAkD"
-      },
-      "artists": [
-        {
-          "name": "Erland Cooper",
-          "url": "https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa"
-        }
-      ],
-      "duration_ms": 334506,
-      "name": "Music For Growing Flowers - Pt. 4",
-      "url": "https://open.spotify.com/track/0kY5iUcL7JGqGLz3t2hhCL"
     },
     {
       "added_at": "2022-09-09 04:01:00",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2022-09-09 04:01:00",
       "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/49jgXZPDfEu07LoN4hCS5O"
+      },
+      "artists": [
+        {
+          "name": "Matteo de Grandis",
+          "url": "https://open.spotify.com/artist/7hI0mA1gOZrjxU2KZSCDce"
+        }
+      ],
+      "duration_ms": 201181,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/3j7siGdElMQwOX1VPCWoW7"
+    },
+    {
+      "added_at": "2022-09-09 04:01:00",
+      "album": {
         "name": "Old Friends New Friends",
         "url": "https://open.spotify.com/album/1Urrycrm9pFy2F3xSoQ3fj"
       },
@@ -1255,6 +1271,42 @@
       "duration_ms": 244919,
       "name": "Corn",
       "url": "https://open.spotify.com/track/7jH6HaPyBRL2SH1AvzVe6h"
+    },
+    {
+      "added_at": "2022-09-09 04:01:00",
+      "album": {
+        "name": "Haar over Hamnavoe (Bill Ryder-Jones Rework)",
+        "url": "https://open.spotify.com/album/20ek3LDlmNsbU44XmMP6cb"
+      },
+      "artists": [
+        {
+          "name": "Erland Cooper",
+          "url": "https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa"
+        },
+        {
+          "name": "Bill Ryder-Jones",
+          "url": "https://open.spotify.com/artist/2E70ENJNHoACgzTkJ3QnO4"
+        }
+      ],
+      "duration_ms": 233253,
+      "name": "Haar over Hamnavoe - Bill Ryder-Jones Rework",
+      "url": "https://open.spotify.com/track/5Fe2pvSESMAop2EP1b2f3l"
+    },
+    {
+      "added_at": "2022-09-09 04:01:00",
+      "album": {
+        "name": "lodges",
+        "url": "https://open.spotify.com/album/7Cw4NrrEW7XmB0uXQ8Dkd5"
+      },
+      "artists": [
+        {
+          "name": "Lara Somogyi",
+          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
+        }
+      ],
+      "duration_ms": 231921,
+      "name": "lodges",
+      "url": "https://open.spotify.com/track/63iLlVCJ1rhH1boY7OH4d8"
     },
     {
       "added_at": "2022-09-09 04:01:00",
@@ -1283,38 +1335,6 @@
     {
       "added_at": "2022-09-09 04:01:00",
       "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/49jgXZPDfEu07LoN4hCS5O"
-      },
-      "artists": [
-        {
-          "name": "Matteo de Grandis",
-          "url": "https://open.spotify.com/artist/7hI0mA1gOZrjxU2KZSCDce"
-        }
-      ],
-      "duration_ms": 201181,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/3j7siGdElMQwOX1VPCWoW7"
-    },
-    {
-      "added_at": "2022-09-09 04:01:00",
-      "album": {
-        "name": "lodges",
-        "url": "https://open.spotify.com/album/7Cw4NrrEW7XmB0uXQ8Dkd5"
-      },
-      "artists": [
-        {
-          "name": "Lara Somogyi",
-          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
-        }
-      ],
-      "duration_ms": 231921,
-      "name": "lodges",
-      "url": "https://open.spotify.com/track/63iLlVCJ1rhH1boY7OH4d8"
-    },
-    {
-      "added_at": "2022-09-09 04:01:00",
-      "album": {
         "name": "The Wind",
         "url": "https://open.spotify.com/album/4Ud5YQc9KHMuj0TQQfvnnj"
       },
@@ -1327,26 +1347,6 @@
       "duration_ms": 81641,
       "name": "Nos",
       "url": "https://open.spotify.com/track/5QIm5UVUJhPrpXwfFXAgKI"
-    },
-    {
-      "added_at": "2022-09-09 04:01:00",
-      "album": {
-        "name": "Haar over Hamnavoe (Bill Ryder-Jones Rework)",
-        "url": "https://open.spotify.com/album/20ek3LDlmNsbU44XmMP6cb"
-      },
-      "artists": [
-        {
-          "name": "Erland Cooper",
-          "url": "https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa"
-        },
-        {
-          "name": "Bill Ryder-Jones",
-          "url": "https://open.spotify.com/artist/2E70ENJNHoACgzTkJ3QnO4"
-        }
-      ],
-      "duration_ms": 233253,
-      "name": "Haar over Hamnavoe - Bill Ryder-Jones Rework",
-      "url": "https://open.spotify.com/track/5Fe2pvSESMAop2EP1b2f3l"
     },
     {
       "added_at": "2022-09-09 04:01:00",

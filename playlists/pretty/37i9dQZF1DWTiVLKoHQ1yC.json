@@ -1,12 +1,12 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 117616,
+  "num_followers": 117716,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjE1NzQwNSwwMDAwMDAwMGRmMDA0MjA2NmVjODY2OGY4NTQxY2E5NjdkYjRkNjE2",
+  "snapshot_id": "MTY0MjE1NzQwNSwwMDAwMDAwMGVjZGMyMjQ3MWYyNjUxYmIzZjZjYTA1N2U2N2JjMDIx",
   "tracks": [
     {
       "added_at": "2022-01-14 10:50:05",
@@ -991,6 +991,22 @@
     {
       "added_at": "2022-01-14 10:50:05",
       "album": {
+        "name": "Influence",
+        "url": "https://open.spotify.com/album/7d3X4vmORcxsVK9Hq3dJ0o"
+      },
+      "artists": [
+        {
+          "name": "Joe Turner",
+          "url": "https://open.spotify.com/artist/6mWRj2iXabH0pqlYnqYMup"
+        }
+      ],
+      "duration_ms": 259364,
+      "name": "Influence - Edit",
+      "url": "https://open.spotify.com/track/1zPRy3M77zRP9nqxULP04s"
+    },
+    {
+      "added_at": "2022-01-14 10:50:05",
+      "album": {
         "name": "The Old You",
         "url": "https://open.spotify.com/album/5f4gB7CNtI93Kep6q2szFh"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 195701,
       "name": "The Old You",
       "url": "https://open.spotify.com/track/1mCh3IVhrn2PuNGkV9mYo6"
-    },
-    {
-      "added_at": "2022-01-14 10:50:05",
-      "album": {
-        "name": "Influence",
-        "url": "https://open.spotify.com/album/7d3X4vmORcxsVK9Hq3dJ0o"
-      },
-      "artists": [
-        {
-          "name": "Joe Turner",
-          "url": "https://open.spotify.com/artist/6mWRj2iXabH0pqlYnqYMup"
-        }
-      ],
-      "duration_ms": 259364,
-      "name": "Influence - Edit",
-      "url": "https://open.spotify.com/track/1zPRy3M77zRP9nqxULP04s"
     },
     {
       "added_at": "2022-01-14 10:50:05",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2022-01-14 10:50:05",
       "album": {
-        "name": "Fallen",
-        "url": "https://open.spotify.com/album/66M5YSekgQPGWLhU2cdVOA"
-      },
-      "artists": [
-        {
-          "name": "Jerome Price",
-          "url": "https://open.spotify.com/artist/4EREP1nDxGjXE6V4sOuUy8"
-        }
-      ],
-      "duration_ms": 205117,
-      "name": "Fallen",
-      "url": "https://open.spotify.com/track/6I0i1jsugzmfYHbRRLfAXY"
-    },
-    {
-      "added_at": "2022-01-14 10:50:05",
-      "album": {
         "name": "Collide",
         "url": "https://open.spotify.com/album/3oRroUuznKXrAn0WU12Lh3"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 216960,
       "name": "Collide",
       "url": "https://open.spotify.com/track/2CwIVyyRYa65Q0VKfgpRMy"
+    },
+    {
+      "added_at": "2022-01-14 10:50:05",
+      "album": {
+        "name": "Fallen",
+        "url": "https://open.spotify.com/album/66M5YSekgQPGWLhU2cdVOA"
+      },
+      "artists": [
+        {
+          "name": "Jerome Price",
+          "url": "https://open.spotify.com/artist/4EREP1nDxGjXE6V4sOuUy8"
+        }
+      ],
+      "duration_ms": 205117,
+      "name": "Fallen",
+      "url": "https://open.spotify.com/track/6I0i1jsugzmfYHbRRLfAXY"
     },
     {
       "added_at": "2022-01-14 10:50:05",
@@ -1443,18 +1443,18 @@
     {
       "added_at": "2022-01-14 10:50:05",
       "album": {
-        "name": "Enter the Storm",
-        "url": "https://open.spotify.com/album/5ClXSbEC6bzGAUaMH9Quw3"
+        "name": "Colibr\u00ed",
+        "url": "https://open.spotify.com/album/4IoopovDIZ7z0VNusDNCmy"
       },
       "artists": [
         {
-          "name": "Blanka Barbara",
-          "url": "https://open.spotify.com/artist/1n4BiDYAbWQ7JJbMURKqof"
+          "name": "BLR",
+          "url": "https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y"
         }
       ],
-      "duration_ms": 472258,
-      "name": "Enter the Storm",
-      "url": "https://open.spotify.com/track/3v96fHvufikij2zsqANLos"
+      "duration_ms": 214634,
+      "name": "Colibr\u00ed",
+      "url": "https://open.spotify.com/track/2ovrPkARvWZVJ2NJeS2AUc"
     }
   ],
   "unique_name": "Melodic & Euphoric",

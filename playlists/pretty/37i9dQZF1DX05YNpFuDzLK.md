@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05YNpFuDzLK.md) - [plain]
 
 > Welcome to the world of “Code Geass” series!  歴代OP/ED、サントラ曲で辿るアニメ「コードギアス」シリーズの世界！©SUNRISE/PROJECT GEASS・MBS　Character Design © 2006 CLAMP
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,547 likes - 47 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,578 likes - 47 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05YNpFuDzLK.md) - [plain]
 | 6 | [DICE](https://open.spotify.com/track/1xm4MuXmiLz4KKKx5nqBHD) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [DICE](https://open.spotify.com/album/73xTnF27ekpsPFm42Zs2J1) | 4:25 |
 | 7 | [COLORS](https://open.spotify.com/track/6bPPyigCphBBQ9781j6eKM) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW THE BEST 〜Single Collection〜](https://open.spotify.com/album/0EWoUxWh0SqcK0jN6UTbFc) | 3:38 |
 | 8 | [勇侠青春謳](https://open.spotify.com/track/7tbS1FAMmd8fNXQVzvDsWl) | [Ali Project](https://open.spotify.com/artist/1kCSjswFJFcjTauk0sKaOn) | [25周年記念ベストアルバム「愛と誠\~YAMATO & LOVE×××」](https://open.spotify.com/album/1C8RqCYhu5i4Mr827fe0R5) | 4:23 |
-| 9 | [解読不能](https://open.spotify.com/track/7qmHiAnigN9lTQK4KhwSkF) | [Jinn](https://open.spotify.com/artist/1ve6qu9hbhEB8BMQwBUzYf) | [レミングス](https://open.spotify.com/album/3cUiVzXIOabDLPvZQpIwrx) | 3:02 |
+| 9 | [解読不能](https://open.spotify.com/track/0TKKGAyysdP5DTxc3zRuCW) | [Jinn](https://open.spotify.com/artist/1ve6qu9hbhEB8BMQwBUzYf) | [解読不能](https://open.spotify.com/album/7hLgA6PTXN6K1CgMkQlfFS) | 3:07 |
 | 10 | [モザイクカケラ](https://open.spotify.com/track/4IoTVvCLzgLXLsqIFMDPQU) | [SunSet Swish](https://open.spotify.com/artist/6BP2pX1i8U6yZHXRvStQ74) | [PASSION](https://open.spotify.com/album/5F9k7boN03RGQSvDePJ2ri) | 4:31 |
 | 11 | [瞳ノ翼](https://open.spotify.com/track/1WsJa8gcDaN98fKWjkzACu) | [access](https://open.spotify.com/artist/3lm6JsSicTww5h33Yvee1H) | [瞳ノ翼](https://open.spotify.com/album/3VZC8ZQhXC0ssXkXG3SjmR) | 3:32 |
 | 12 | [O2](https://open.spotify.com/track/4RMQc14Cq14LmPpKXtFDHx) | [ORANGE RANGE](https://open.spotify.com/artist/4upiYMjsFfLRieGo8RVRzD) | [PANIC FANCY](https://open.spotify.com/album/0bcznv62ho46F3dl6paFG7) | 3:57 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05YNpFuDzLK.md) - [plain]
 | 46 | [Hare Nochi Natsuno Ame](https://open.spotify.com/track/3gbLkvIDHDEhVyI5Qw3vgU) | [Shirley \(CV: Tomiko Orikasa \)](https://open.spotify.com/artist/4oyLv4lmkKLcW9jBnGuqiU) | [CODE GEASS Lelouch of the Rebellion Character Song Best](https://open.spotify.com/album/0QgYZkEZ7hUlKrZKyrZTh1) | 4:54 |
 | 47 | [Tennshi\-teki Kenpo 4jo](https://open.spotify.com/track/3x1z93295mcnEZsTkfCuqh) | [Tien Zi \(CV: Tamaki Matsumoto \)](https://open.spotify.com/artist/2IdIiAuUpBAxUuzLxqdb0D) | [CODE GEASS Lelouch of the Rebellion R2 Sound Variety R18](https://open.spotify.com/album/2podOQX7M5J1FsjN4u2W6V) | 3:23 |
 
-Snapshot ID: `MTY1OTYyNTIwMCwwMDAwMDAwMGU2NmM1NGZmM2FmMzQ1ODA1ZWJkYzZlN2VjMGQ3ZTc5`
+Snapshot ID: `MTY1OTYyNTIwMCwwMDAwMDAwMDE4MmEwYTc3Zjg4NzViNGIxODdjNDM3YWQ0NWUxN2Zk`

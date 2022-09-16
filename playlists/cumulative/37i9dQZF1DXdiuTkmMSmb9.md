@@ -4,7 +4,7 @@
 
 > Tropical jams to catch a vibe and whine to\. Cover: Sampa The Great
 
-168 songs - 8 hr 52 min - [published](https://open.spotify.com/playlist/1ArHPlQ8o3lzkRSvom6Xc2)
+169 songs - 8 hr 56 min - [published](https://open.spotify.com/playlist/1ArHPlQ8o3lzkRSvom6Xc2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Champion Sound](https://open.spotify.com/track/3vTW0qXIitjhZW5kfTwBTv) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju) | [Champion Sound](https://open.spotify.com/album/6pLdp90UOgmgb6yYh6bf2T) | 3:57 | 2022-08-25 | 2022-09-09 |
 | [Cheetah](https://open.spotify.com/track/1CIwUGU2DAro80bYOmQgc1) | [Alutondo](https://open.spotify.com/artist/0vuNvwaPfkZ3YvGR8pQvwa) | [Midnight Business](https://open.spotify.com/album/5HfEG23uwgXUpAuOBDj7xg) | 2:50 | 2022-07-18 |  |
 | [Clockwork \(feat\. Spice\)](https://open.spotify.com/track/4GgvXbDt6qKWCSI8Fw2cVs) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Clockwork \(feat\. Spice\)](https://open.spotify.com/album/3FyXlLA79Yv7cNJgMQDGM8) | 2:32 | 2022-08-19 |  |
-| [Closer](https://open.spotify.com/track/5qz7y3Mj8t1gOgDwQGMVRt) | [DJ Nino Brown](https://open.spotify.com/artist/5d3XNpscHFKUuw1YouL2ns), [Arona Mane](https://open.spotify.com/artist/70yqFQVIWhHa89ELLSB69B), [Osayo](https://open.spotify.com/artist/7mwr4uuaASWSKyCiWpHeM3) | [Closer](https://open.spotify.com/album/0tEY7BcakoO12tCsuYdgPA) | 3:34 | 2022-07-18 |  |
+| [Closer](https://open.spotify.com/track/4tMrxubFTi02gsaEVlaiQZ) | [DJ Nino Brown](https://open.spotify.com/artist/5d3XNpscHFKUuw1YouL2ns), [Arona Mane](https://open.spotify.com/artist/70yqFQVIWhHa89ELLSB69B), [Osayo](https://open.spotify.com/artist/7mwr4uuaASWSKyCiWpHeM3) | [Closer](https://open.spotify.com/album/0VyIjviFD8bWVCkAs9Cb4Y) | 3:34 | 2022-09-08 |  |
+| [Closer](https://open.spotify.com/track/5qz7y3Mj8t1gOgDwQGMVRt) | [DJ Nino Brown](https://open.spotify.com/artist/5d3XNpscHFKUuw1YouL2ns), [Arona Mane](https://open.spotify.com/artist/70yqFQVIWhHa89ELLSB69B), [Osayo](https://open.spotify.com/artist/7mwr4uuaASWSKyCiWpHeM3) | [Closer](https://open.spotify.com/album/0tEY7BcakoO12tCsuYdgPA) | 3:34 | 2022-07-18 | 2022-09-16 |
 | [Contour](https://open.spotify.com/track/5OBtqiT5Zg1BqXPx4bBo6T) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Contour](https://open.spotify.com/album/6KEXrw3lLGz9dFro9bwIri) | 3:09 | 2022-08-19 |  |
 | [Crazy Tings](https://open.spotify.com/track/5VQagemEOLpJJikcLzDNYR) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Crazy Tings](https://open.spotify.com/album/1kphAJp2xhCv2IxfgWMKLR) | 3:02 | 2022-07-18 | 2022-08-26 |
 | [Cubana](https://open.spotify.com/track/6L0owZVOkCYYajP9ChDHdX) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Cubana](https://open.spotify.com/album/4rj8Ry8Xot9qjfakmTJvLX) | 2:09 | 2022-07-18 | 2022-08-26 |

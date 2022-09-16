@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVi45nh2EuPP.md) - [plain]
 
 > The official playlist for all things League of Legends with a special Star Guardian takeover
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,964 likes - 48 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,986 likes - 48 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVi45nh2EuPP.md) - [plain]
 | 31 | [BIG SMALL BUSINESS](https://open.spotify.com/track/1fbbMX7XyYqGCWyrY1MSKm) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [BIG SMALL BUSINESS](https://open.spotify.com/album/1lA0feIJJeQKEzTCbkHFcr) | 2:02 |
 | 32 | [Dear Summer](https://open.spotify.com/track/4fmVwkIxpXae5WsDrBr5lF) | [Ooyy](https://open.spotify.com/artist/0xe3AMjZeR6z3g4O6Vppjq), [Mindme](https://open.spotify.com/artist/5DwnPlijNCMYMFh40sQ4vX) | [Dear Summer](https://open.spotify.com/album/3BY1tqVVuDlpH76Zb8LI6m) | 3:06 |
 | 33 | [branches](https://open.spotify.com/track/0L4eq8cUkkcDjKQUdgx4Tc) | [Former Hero](https://open.spotify.com/artist/77WqTzN8g3Wr9PeVFoG3Mm) | [meadowdeath](https://open.spotify.com/album/40PhUVBqfbG7cNIwYo0H6I) | 3:16 |
-| 34 | [Drop Go Bang](https://open.spotify.com/track/1jWS7lIGOY0NzVOdM6xCXH) | [Chuurch](https://open.spotify.com/artist/4gJ3UKYnmB63uNuqlcAhTA), [Blak Trash](https://open.spotify.com/artist/0Hq5yFzGhEVdgmLMiylxET) | [UU01](https://open.spotify.com/album/6qsvdM5l2rBdrtaQFVzwWK) | 3:29 |
+| 34 | [Drop Go Bang](https://open.spotify.com/track/5w9d16FajTCPB6OracLKYD) | [Chuurch](https://open.spotify.com/artist/4gJ3UKYnmB63uNuqlcAhTA), [Blak Trash](https://open.spotify.com/artist/0Hq5yFzGhEVdgmLMiylxET) | [UU01](https://open.spotify.com/album/3XNAmV6RfY8ViuQoNYI8zj) | 3:29 |
 | 35 | [Hello Stranger 2.0](https://open.spotify.com/track/3WWE453oaH5U8wxFgqiffn) | [Charlie Crown](https://open.spotify.com/artist/3UB9E49EhIaD8mr9qJPe6r), [Helen Tess](https://open.spotify.com/artist/6CgLAgCJ6veWxsHIBFqc7P) | [Hello Stranger 2.0](https://open.spotify.com/album/46X97UNjLfpjmWPKSu98XU) | 2:45 |
 | 36 | [<maybe> it's my fault](https://open.spotify.com/track/4w5wkuwuCByenZ6QufdeQN) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [<maybe> it's my fault](https://open.spotify.com/album/139YquG3RpaLBq98PbsOIM) | 2:39 |
 | 37 | [Superhuman \(with K.Flay\)](https://open.spotify.com/track/64moA9zwEfhBADmxLZvVhH) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [RESET](https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK) | 4:00 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVi45nh2EuPP.md) - [plain]
 | 47 | [Distraction](https://open.spotify.com/track/1oc92BMKYkNxK17C2GtyRM) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Distraction](https://open.spotify.com/album/30OwIxHqQILQ9vwd86sD3o) | 2:51 |
 | 48 | [Texts Go Green](https://open.spotify.com/track/4FIgHqXd4KkOwxrGeLDYM2) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 5:08 |
 
-Snapshot ID: `MTY1Nzg4NjQwMCwwMDAwMDAwMDAyZjAxMThkMjQ1NzIxNDhiZTQwZThmOWM1ZDg2MTk5`
+Snapshot ID: `MTY1Nzg4NjQwMCwwMDAwMDAwMDBlNzUzZTMyOWUwMzliODc4OWI0NDFhMjkxMTE0Mzg2`

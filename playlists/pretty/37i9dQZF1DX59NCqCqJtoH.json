@@ -1,12 +1,12 @@
 {
   "description": "We hear you.",
-  "num_followers": 899660,
+  "num_followers": 900537,
   "original_name": "idk.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzAzMDkxNCwwMDAwMDAwMDIyZjU2ODNjZTVlMTQ0ZTNmYmIzOTVmZjdjNzE2NjQ3",
+  "snapshot_id": "MTY2MzAzMDkxNCwwMDAwMDAwMGNmZmU5NDgyNDdiYTM2NzZhM2JkYjViZWIyZTk0ZjY0",
   "tracks": [
     {
       "added_at": "2022-09-09 16:50:18",
@@ -639,6 +639,22 @@
     {
       "added_at": "2022-09-09 16:50:18",
       "album": {
+        "name": "five seconds flat",
+        "url": "https://open.spotify.com/album/7vh3nkUP7HlDQIeSm7Ht6N"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 182887,
+      "name": "ceilings",
+      "url": "https://open.spotify.com/track/3hiuZQQ33aDnu4Xmmn8Lr7"
+    },
+    {
+      "added_at": "2022-09-09 16:50:18",
+      "album": {
         "name": "Elliot's Song (From \"Euphoria\" An HBO Original Series)",
         "url": "https://open.spotify.com/album/67WBZwhfjfOQ5gnH8iXsQ8"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 150320,
       "name": "Elliot's Song - From \"Euphoria\" An HBO Original Series",
       "url": "https://open.spotify.com/track/7JIIY2oDPFkURYMCLJuzhe"
-    },
-    {
-      "added_at": "2022-09-09 16:50:18",
-      "album": {
-        "name": "five seconds flat",
-        "url": "https://open.spotify.com/album/7vh3nkUP7HlDQIeSm7Ht6N"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 182887,
-      "name": "ceilings",
-      "url": "https://open.spotify.com/track/3hiuZQQ33aDnu4Xmmn8Lr7"
     },
     {
       "added_at": "2022-09-09 16:50:18",
@@ -815,22 +815,6 @@
     {
       "added_at": "2022-09-09 16:50:18",
       "album": {
-        "name": "How To Kill A Rockstar",
-        "url": "https://open.spotify.com/album/19C3hX64lG3BikzOfwmUm6"
-      },
-      "artists": [
-        {
-          "name": "MASN",
-          "url": "https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE"
-        }
-      ],
-      "duration_ms": 154756,
-      "name": "Hate Me!",
-      "url": "https://open.spotify.com/track/6jmf4OxSGzdgthZruXtcqu"
-    },
-    {
-      "added_at": "2022-09-09 16:50:18",
-      "album": {
         "name": "i walk this earth all by myself",
         "url": "https://open.spotify.com/album/6tdl27ojBwZ5ZexzZOP4mG"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 145634,
       "name": "i walk this earth all by myself",
       "url": "https://open.spotify.com/track/5a8QUc4ubHJqQm7vzs2YhA"
+    },
+    {
+      "added_at": "2022-09-09 16:50:18",
+      "album": {
+        "name": "How To Kill A Rockstar",
+        "url": "https://open.spotify.com/album/19C3hX64lG3BikzOfwmUm6"
+      },
+      "artists": [
+        {
+          "name": "MASN",
+          "url": "https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE"
+        }
+      ],
+      "duration_ms": 154756,
+      "name": "Hate Me!",
+      "url": "https://open.spotify.com/track/6jmf4OxSGzdgthZruXtcqu"
     },
     {
       "added_at": "2022-09-09 16:50:18",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2022-09-09 16:50:18",
       "album": {
-        "name": "Smile in the Face of the Devil",
-        "url": "https://open.spotify.com/album/4RpOz3IeMf2KmjLn6eEyCC"
-      },
-      "artists": [
-        {
-          "name": "Matt Maltese",
-          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
-        }
-      ],
-      "duration_ms": 158714,
-      "name": "Smile in the Face of the Devil",
-      "url": "https://open.spotify.com/track/0h6X7BCq7IYKHNoXln3LX3"
-    },
-    {
-      "added_at": "2022-09-09 16:50:18",
-      "album": {
         "name": "Sorry for Me",
         "url": "https://open.spotify.com/album/07BwJ6hbLUKarUoMiA34rQ"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 197513,
       "name": "Sorry for Me",
       "url": "https://open.spotify.com/track/5F9WcQalHpZAwKzWi6pBWg"
+    },
+    {
+      "added_at": "2022-09-09 16:50:18",
+      "album": {
+        "name": "Smile in the Face of the Devil",
+        "url": "https://open.spotify.com/album/4RpOz3IeMf2KmjLn6eEyCC"
+      },
+      "artists": [
+        {
+          "name": "Matt Maltese",
+          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
+        }
+      ],
+      "duration_ms": 158714,
+      "name": "Smile in the Face of the Devil",
+      "url": "https://open.spotify.com/track/0h6X7BCq7IYKHNoXln3LX3"
     },
     {
       "added_at": "2022-09-09 16:50:18",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2022-09-09 16:50:18",
       "album": {
-        "name": "WHEN THE DEVIL CRIES",
-        "url": "https://open.spotify.com/album/0qJDLgO9SYRVocqdP72M7x"
-      },
-      "artists": [
-        {
-          "name": "347aidan",
-          "url": "https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw"
-        }
-      ],
-      "duration_ms": 148324,
-      "name": "WHEN THE DEVIL CRIES",
-      "url": "https://open.spotify.com/track/2oeMjGwvO0mDjEYGxO1iLG"
-    },
-    {
-      "added_at": "2022-09-09 16:50:18",
-      "album": {
         "name": "Don't Leave, Don't Go / Bleed",
         "url": "https://open.spotify.com/album/1awanVhccvZ0L2WTMm9FfT"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 184242,
       "name": "Don't Leave, Don't Go",
       "url": "https://open.spotify.com/track/07nd9H2REZKIhVgp3n36YL"
+    },
+    {
+      "added_at": "2022-09-09 16:50:18",
+      "album": {
+        "name": "WHEN THE DEVIL CRIES",
+        "url": "https://open.spotify.com/album/0qJDLgO9SYRVocqdP72M7x"
+      },
+      "artists": [
+        {
+          "name": "347aidan",
+          "url": "https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw"
+        }
+      ],
+      "duration_ms": 148324,
+      "name": "WHEN THE DEVIL CRIES",
+      "url": "https://open.spotify.com/track/2oeMjGwvO0mDjEYGxO1iLG"
     },
     {
       "added_at": "2022-09-09 16:50:18",

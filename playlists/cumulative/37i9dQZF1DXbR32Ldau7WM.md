@@ -4,7 +4,7 @@
 
 > The biggest rock artists in Japan right now! Cover: ELLEGARDEN
 
-321 songs - 21 hr 10 min - [published](https://open.spotify.com/playlist/58cr9qiZRcBgGXeUmGq6P3)
+322 songs - 21 hr 14 min - [published](https://open.spotify.com/playlist/58cr9qiZRcBgGXeUmGq6P3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,6 +260,7 @@
 | [俺様バカ一代・改 \(2021 Mix\)](https://open.spotify.com/track/5QsUPtSbursmJkZTWttlqm) | [Dohatsuten](https://open.spotify.com/artist/2UUHBIbp6MHWflVwNbPUOE) | [リズム&ビートニク ’21 & ヤングデイズソング](https://open.spotify.com/album/5gi2XlxABHsg6ztt6sHn2H) | 4:39 | 2022-05-19 | 2022-06-10 |
 | [倍で返せ!](https://open.spotify.com/track/7DkNvI8C53akPoTvlS57Pg) | [Straightener](https://open.spotify.com/artist/4q5fHrf0Q0R6imQ3etjXEG) | [Crank Up](https://open.spotify.com/album/01EQVPGQUMByR3n7Iw1Wbw) | 3:14 | 2022-05-22 | 2022-07-14 |
 | [僕的地](https://open.spotify.com/track/4R254nmfaMgvgZH0cwSZf9) | [Tamio Okuda](https://open.spotify.com/artist/3ZWE1TnryM03rfzVin17K0) | [僕的地](https://open.spotify.com/album/7GegHcxnmBQT0yFxrVbPqp) | 4:41 | 2022-05-17 | 2022-07-11 |
+| [八月は僕の名前](https://open.spotify.com/track/5S57CHTpUpaceN58EP3Mn7) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [八月は僕の名前](https://open.spotify.com/album/7i4Z0kxoGUN4Ol3sLVOZeU) | 3:52 | 2022-09-15 |  |
 | [勃](https://open.spotify.com/track/3X5FxxEUNq1tExNUZXgcEc) | [ENDRECHERI](https://open.spotify.com/artist/2Xe4i1wmyan14oNqhrTS78) | [勃](https://open.spotify.com/album/2nmxQfw5q7YIZ7EHsb2bwQ) | 3:22 | 2022-05-22 | 2022-06-09 |
 | [北極星のメロディー](https://open.spotify.com/track/1no67Xem769Zp65uuD3D8z) | [a flood of circle](https://open.spotify.com/artist/1BydOOxI2QltpphEOkKHgl) | [北極星のメロディー](https://open.spotify.com/album/4ei1drG1Zg6yhDwRlGwwPZ) | 4:28 | 2022-05-24 | 2022-06-17 |
 | [十匹の熊 \- ZERO TAKES Ver.](https://open.spotify.com/track/5FDAp7KH8l9CYlpD7gImdm) | [THE PINBALLS](https://open.spotify.com/artist/2Y0WFXb0NqTAv5DpLaUR4M) | [ZERO TAKES](https://open.spotify.com/album/64oIZKL8yH08Uh11YD5DJM) | 3:29 | 2022-05-19 | 2022-07-29 |
@@ -315,7 +316,7 @@
 | [眠れない](https://open.spotify.com/track/3wGXqwM5r5b3UY2upNZ0RZ) | [Misako Odani](https://open.spotify.com/artist/1qyvDpymTYPpF5iguflCMT) | [眠れない](https://open.spotify.com/album/0P6SfXlvQdEfCS0s9jdLi7) | 4:14 | 2022-05-17 | 2022-07-28 |
 | [眩光](https://open.spotify.com/track/0Imzg052WsTbxUNDMnZhmp) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [あの日、あの場所/眩光](https://open.spotify.com/album/1VSTDVmonKezz5ZiBtc66c) | 3:34 | 2022-05-10 |  |
 | [竜巻いて鮮脳](https://open.spotify.com/track/53ygKATZIiOKS9DWMKdNwH) | [Ling tosite sigure](https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU) | [竜巻いて鮮脳](https://open.spotify.com/album/2VpUOSFam8GvgQHnSpn2kH) | 3:44 | 2022-05-10 | 2022-09-15 |
-| [緑酒](https://open.spotify.com/track/6OcssYxhXZ9pZAkcYfeEsU) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [音楽](https://open.spotify.com/album/62SB9GdMdVA5dog0Om9huj) | 4:06 | 2022-05-24 |  |
+| [緑酒](https://open.spotify.com/track/6OcssYxhXZ9pZAkcYfeEsU) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [音楽](https://open.spotify.com/album/62SB9GdMdVA5dog0Om9huj) | 4:06 | 2022-05-24 | 2022-09-16 |
 | [群青](https://open.spotify.com/track/06x5F8O4ZqSTgdo9EqiE3T) | [kariyushi58](https://open.spotify.com/artist/0JUEsKG18QuDt6SmyHDrnL) | [七色とかげ](https://open.spotify.com/album/38PMNzLOxdREwrxOS87crH) | 3:34 | 2022-05-10 | 2022-05-24 |
 | [聖者](https://open.spotify.com/track/517o2A0yrq1wb0yZN6K8MB) | [the dresscodes](https://open.spotify.com/artist/2qmqi8B4pdSyjBc7lNBBiO) | [聖者](https://open.spotify.com/album/0pQaWBOfNMQHG6d9ApL7bP) | 3:26 | 2022-08-09 | 2022-09-13 |
 | [証](https://open.spotify.com/track/1Nm8xR8SIiphGCW1sn11Qr) | [ZIGGY](https://open.spotify.com/artist/1be5pBkzQZ3kVJFWroppbb) | [証](https://open.spotify.com/album/2JqFzGT35Ted5pM3PKP6Os) | 3:26 | 2022-05-12 | 2022-07-26 |

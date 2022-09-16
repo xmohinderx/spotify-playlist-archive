@@ -4,7 +4,7 @@
 
 > Relax to the sound of gentle instrumental Jazz.
 
-236 songs - 22 hr 28 min - [published](https://open.spotify.com/playlist/1BNyDUqpnIIfJt1H1RWx5R)
+237 songs - 22 hr 34 min - [published](https://open.spotify.com/playlist/1BNyDUqpnIIfJt1H1RWx5R)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [Romaria](https://open.spotify.com/track/6BMmyctJWWdbTHKpXkrja0) | [Andy Sheppard Quartet](https://open.spotify.com/artist/57LkmRYAzvaq7lt1JI6oZb) | [Romaria](https://open.spotify.com/album/7s6ExEC25Hy8JirFPrghQY) | 5:11 | 2020-10-09 |  |
 | [Sad Tune](https://open.spotify.com/track/3LZ0GUgBO1XXW6jKK5A2lJ) | [European Jazz Trio](https://open.spotify.com/artist/4LTaFNJmsKqNvxGVhOVBXI) | [West Village](https://open.spotify.com/album/7gzA8ExUAm5N63xmO3C0KH) | 6:15 | 2020-10-09 | 2022-02-18 |
 | [Seeds Of Change](https://open.spotify.com/track/1UJMQtiCSotiEyEvB65Na1) | [Joe Lovano](https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf), [Marilyn Crispell](https://open.spotify.com/artist/0w4mLSXg39n1UuyK7eNLTD), [Carmen Castaldi](https://open.spotify.com/artist/1OvdpFrwnLCTKW5U9rOTiO) | [Seeds Of Change](https://open.spotify.com/album/38N7apoWt2VDyjrSbnu6pi) | 5:13 | 2020-10-09 |  |
+| [Seneca Village](https://open.spotify.com/track/5DvysWYH5vykA6l2PxzhjH) | [Jakob Dreyer](https://open.spotify.com/artist/4YozGMNyLJYo3Iq53bDUSs), [John Cowherd](https://open.spotify.com/artist/0rvUhmYiMhFhbIQ0F59Kg2), [Jimmy Macbride](https://open.spotify.com/artist/1W6vCfWWnL6VDvZJHpjh3i), [Jason Rigby](https://open.spotify.com/artist/16qoe2tnMAMcq98rnKvAoR) | [Songs, Hymns and Ballads, Vol\. 1](https://open.spotify.com/album/4kEDYta5VLbR0Zed7lhYeM) | 6:10 | 2022-09-15 |  |
 | [Sideways](https://open.spotify.com/track/5iSawMqnY9rgPkUHhSvyNT) | [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik) | [Sideways](https://open.spotify.com/album/0nd4ki7GPhLrH5MjjdP7eP) | 4:51 | 2021-07-23 |  |
 | [Silk Threads](https://open.spotify.com/track/06saP1KfOa0j93jO8XnCUT) | [Enrico Pieranunzi](https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP), [Jasper Somsen](https://open.spotify.com/artist/2lcAR2q7nM4FNKG4SbaKVY), [Jorge Rossy](https://open.spotify.com/artist/0bUTRhTTU18M19hpsAPSrE) | [Common View](https://open.spotify.com/album/0MKZB0Q3tyrI0jtacgtQZF) | 4:34 | 2020-10-09 |  |
 | [Simplicity](https://open.spotify.com/track/2R1vQwYTC0sl93C6oyVuHC) | [Edward Simon](https://open.spotify.com/artist/0FAC6FNPb4LsY5uyp0xTWF) | [25 Years](https://open.spotify.com/album/4GDYdHheKfIOBMjqOgTK6k) | 5:09 | 2020-10-09 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Warm indie dance vibes, the music you need at golden hour.",
-  "num_followers": 387745,
+  "num_followers": 387993,
   "original_name": "golden hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ4NjQwMCwwMDAwMDAwMDdhMzllNDNhNTNmYmViZWM5OTJjYWYwZjExODdkMzcw",
+  "snapshot_id": "MTY2MTQ4NjQwMCwwMDAwMDAwMDcxMWYxOWQ2NzUwMDJiMjljNGY4YTQ4Y2EwNzI0YzJm",
   "tracks": [
     {
       "added_at": "2020-12-22 17:15:29",
@@ -201,22 +201,6 @@
       "url": "https://open.spotify.com/track/1hgX0ZmmP7IRRjUFCIBrnQ"
     },
     {
-      "added_at": "2020-12-22 17:15:29",
-      "album": {
-        "name": "Caravelle",
-        "url": "https://open.spotify.com/album/0SuFqlCe5i30Fr75ZlPQVT"
-      },
-      "artists": [
-        {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
-        }
-      ],
-      "duration_ms": 190826,
-      "name": "Nan\u00e3",
-      "url": "https://open.spotify.com/track/0Psz3az3RIYfJpnsajBT8N"
-    },
-    {
       "added_at": "2022-06-03 04:01:00",
       "album": {
         "name": "Casita",
@@ -231,6 +215,22 @@
       "duration_ms": 206000,
       "name": "Casita",
       "url": "https://open.spotify.com/track/3HjAGIYYXG7PS7OegQa0xM"
+    },
+    {
+      "added_at": "2020-12-22 17:15:29",
+      "album": {
+        "name": "Caravelle",
+        "url": "https://open.spotify.com/album/0SuFqlCe5i30Fr75ZlPQVT"
+      },
+      "artists": [
+        {
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        }
+      ],
+      "duration_ms": 190826,
+      "name": "Nan\u00e3",
+      "url": "https://open.spotify.com/track/0Psz3az3RIYfJpnsajBT8N"
     },
     {
       "added_at": "2020-12-22 17:15:29",
@@ -439,22 +439,6 @@
     {
       "added_at": "2020-12-22 17:15:29",
       "album": {
-        "name": "Rust & Gold",
-        "url": "https://open.spotify.com/album/12FsF7zGKN58k2VTlzwDAU"
-      },
-      "artists": [
-        {
-          "name": "Isaac Delusion",
-          "url": "https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG"
-        }
-      ],
-      "duration_ms": 220626,
-      "name": "How Much (You Want Her) 2017",
-      "url": "https://open.spotify.com/track/1B0ymvBm70MZR2TnZJUSXZ"
-    },
-    {
-      "added_at": "2020-12-22 17:15:29",
-      "album": {
         "name": "Tailwhip",
         "url": "https://open.spotify.com/album/7eJd4HvbzBoufq7pnKAIiy"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 225263,
       "name": "Tailwhip",
       "url": "https://open.spotify.com/track/2DoO0sn4SbUrz7Uay9ACTM"
+    },
+    {
+      "added_at": "2020-12-22 17:15:29",
+      "album": {
+        "name": "Rust & Gold",
+        "url": "https://open.spotify.com/album/12FsF7zGKN58k2VTlzwDAU"
+      },
+      "artists": [
+        {
+          "name": "Isaac Delusion",
+          "url": "https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG"
+        }
+      ],
+      "duration_ms": 220626,
+      "name": "How Much (You Want Her) 2017",
+      "url": "https://open.spotify.com/track/1B0ymvBm70MZR2TnZJUSXZ"
     },
     {
       "added_at": "2020-12-22 17:15:29",
@@ -715,18 +715,18 @@
     {
       "added_at": "2020-12-22 17:15:29",
       "album": {
-        "name": "Sister",
-        "url": "https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL"
+        "name": "About A Feeling",
+        "url": "https://open.spotify.com/album/2GkkprMhl4L0TyIyRvfRwX"
       },
       "artists": [
         {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+          "name": "Summer Heart",
+          "url": "https://open.spotify.com/artist/0JlTFsR41vwvQTppOR3yio"
         }
       ],
-      "duration_ms": 268829,
-      "name": "Sister",
-      "url": "https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz"
+      "duration_ms": 247572,
+      "name": "I Wanna Go",
+      "url": "https://open.spotify.com/track/3EA4HwrlLdDJ3b4cX7JfqC"
     },
     {
       "added_at": "2020-12-22 17:15:29",
@@ -747,18 +747,18 @@
     {
       "added_at": "2020-12-22 17:15:29",
       "album": {
-        "name": "About A Feeling",
-        "url": "https://open.spotify.com/album/2GkkprMhl4L0TyIyRvfRwX"
+        "name": "Sister",
+        "url": "https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL"
       },
       "artists": [
         {
-          "name": "Summer Heart",
-          "url": "https://open.spotify.com/artist/0JlTFsR41vwvQTppOR3yio"
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
         }
       ],
-      "duration_ms": 247572,
-      "name": "I Wanna Go",
-      "url": "https://open.spotify.com/track/3EA4HwrlLdDJ3b4cX7JfqC"
+      "duration_ms": 268829,
+      "name": "Sister",
+      "url": "https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz"
     },
     {
       "added_at": "2020-12-22 17:15:29",
@@ -831,22 +831,6 @@
     {
       "added_at": "2020-12-22 17:15:29",
       "album": {
-        "name": "Purple Noon",
-        "url": "https://open.spotify.com/album/5YzzV7NMiiVGKMve73OBYc"
-      },
-      "artists": [
-        {
-          "name": "Washed Out",
-          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
-        }
-      ],
-      "duration_ms": 252409,
-      "name": "Too Late",
-      "url": "https://open.spotify.com/track/2syYxXSHwiJueleWSDGY0Z"
-    },
-    {
-      "added_at": "2020-12-22 17:15:29",
-      "album": {
         "name": "Blood Remixed",
         "url": "https://open.spotify.com/album/1AvkRISSdzC7cq7eLoS5w1"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 208813,
       "name": "Summer Days - Roosevelt Remix",
       "url": "https://open.spotify.com/track/3eM70BLTVSo6SLOS3vazXp"
+    },
+    {
+      "added_at": "2020-12-22 17:15:29",
+      "album": {
+        "name": "Purple Noon",
+        "url": "https://open.spotify.com/album/5YzzV7NMiiVGKMve73OBYc"
+      },
+      "artists": [
+        {
+          "name": "Washed Out",
+          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
+        }
+      ],
+      "duration_ms": 252409,
+      "name": "Too Late",
+      "url": "https://open.spotify.com/track/2syYxXSHwiJueleWSDGY0Z"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2020-12-22 17:15:29",
       "album": {
+        "name": "Chihiro (Remixes)",
+        "url": "https://open.spotify.com/album/5PQgIvaINhDN7I3RNmtYyQ"
+      },
+      "artists": [
+        {
+          "name": "Yoste",
+          "url": "https://open.spotify.com/artist/2wwZDwSBHaVaOI6cE2hfhf"
+        }
+      ],
+      "duration_ms": 212963,
+      "name": "Chihiro",
+      "url": "https://open.spotify.com/track/4sa0z53uQH0pBQPDaAnQcl"
+    },
+    {
+      "added_at": "2020-12-22 17:15:29",
+      "album": {
         "name": "Feel It Still (The Remixes)",
         "url": "https://open.spotify.com/album/6wK4nx3a3x32QVfFohfjl1"
       },
@@ -1111,22 +1127,6 @@
     {
       "added_at": "2020-12-22 17:15:29",
       "album": {
-        "name": "Chihiro (Remixes)",
-        "url": "https://open.spotify.com/album/5PQgIvaINhDN7I3RNmtYyQ"
-      },
-      "artists": [
-        {
-          "name": "Yoste",
-          "url": "https://open.spotify.com/artist/2wwZDwSBHaVaOI6cE2hfhf"
-        }
-      ],
-      "duration_ms": 212963,
-      "name": "Chihiro",
-      "url": "https://open.spotify.com/track/4sa0z53uQH0pBQPDaAnQcl"
-    },
-    {
-      "added_at": "2020-12-22 17:15:29",
-      "album": {
         "name": "Paracosm",
         "url": "https://open.spotify.com/album/0NJB8HwQsR7RH4bVM7Z6HL"
       },
@@ -1139,22 +1139,6 @@
       "duration_ms": 245654,
       "name": "It All Feels Right",
       "url": "https://open.spotify.com/track/2tpTRRc6XFZcwdZlc3hf02"
-    },
-    {
-      "added_at": "2021-03-19 20:47:30",
-      "album": {
-        "name": "Polydans",
-        "url": "https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        }
-      ],
-      "duration_ms": 262798,
-      "name": "See You Again",
-      "url": "https://open.spotify.com/track/09RYDCoPd0hiw5RS1gEK8i"
     },
     {
       "added_at": "2020-12-22 17:15:29",
@@ -1171,6 +1155,22 @@
       "duration_ms": 180533,
       "name": "UH",
       "url": "https://open.spotify.com/track/09J3NVQcf22QNl23QPOZbe"
+    },
+    {
+      "added_at": "2021-03-19 20:47:30",
+      "album": {
+        "name": "Polydans",
+        "url": "https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "duration_ms": 262798,
+      "name": "See You Again",
+      "url": "https://open.spotify.com/track/09RYDCoPd0hiw5RS1gEK8i"
     },
     {
       "added_at": "2020-12-22 17:15:29",
@@ -1205,6 +1205,22 @@
       "url": "https://open.spotify.com/track/5iKoarDSV0EA1JN10Bljr5"
     },
     {
+      "added_at": "2021-03-08 18:24:23",
+      "album": {
+        "name": "Blue Ceiling",
+        "url": "https://open.spotify.com/album/6C58bgXl2VzaM846UbvglD"
+      },
+      "artists": [
+        {
+          "name": "moanday",
+          "url": "https://open.spotify.com/artist/46DBxDEHTfHqwqB8jwmqLB"
+        }
+      ],
+      "duration_ms": 166909,
+      "name": "Blue Ceiling",
+      "url": "https://open.spotify.com/track/6o0kb9c076D1vN0NDlLMSR"
+    },
+    {
       "added_at": "2020-12-22 17:15:29",
       "album": {
         "name": "Memories",
@@ -1237,20 +1253,20 @@
       "url": "https://open.spotify.com/track/4yhslVvynysGhexambPGcy"
     },
     {
-      "added_at": "2021-03-08 18:24:23",
+      "added_at": "2020-12-22 17:15:29",
       "album": {
-        "name": "Blue Ceiling",
-        "url": "https://open.spotify.com/album/6C58bgXl2VzaM846UbvglD"
+        "name": "These Days",
+        "url": "https://open.spotify.com/album/1EAPdPWIn8Y6KvGI3OGUJa"
       },
       "artists": [
         {
-          "name": "moanday",
-          "url": "https://open.spotify.com/artist/46DBxDEHTfHqwqB8jwmqLB"
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
         }
       ],
-      "duration_ms": 166909,
-      "name": "Blue Ceiling",
-      "url": "https://open.spotify.com/track/6o0kb9c076D1vN0NDlLMSR"
+      "duration_ms": 233454,
+      "name": "These Days",
+      "url": "https://open.spotify.com/track/2elnaPXB82wgWJFZop0TJq"
     },
     {
       "added_at": "2020-12-22 17:15:29",
@@ -1267,22 +1283,6 @@
       "duration_ms": 171699,
       "name": "Don't Turn Around",
       "url": "https://open.spotify.com/track/1eYKJWV1eK85T5AZwvwOuH"
-    },
-    {
-      "added_at": "2020-12-22 17:15:29",
-      "album": {
-        "name": "These Days",
-        "url": "https://open.spotify.com/album/1EAPdPWIn8Y6KvGI3OGUJa"
-      },
-      "artists": [
-        {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
-        }
-      ],
-      "duration_ms": 233454,
-      "name": "These Days",
-      "url": "https://open.spotify.com/track/2elnaPXB82wgWJFZop0TJq"
     },
     {
       "added_at": "2020-12-22 17:15:29",

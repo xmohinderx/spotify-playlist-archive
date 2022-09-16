@@ -2667,7 +2667,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 272466,
       "name": "Funkstille",
       "url": "https://open.spotify.com/track/50FXdk6qPdRY9evGOHIMSJ"
@@ -6207,7 +6207,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 211920,
       "name": "Skin With Me",
       "url": "https://open.spotify.com/track/5BU3ZzaIkfkUCpKwFWIavI"
@@ -6884,6 +6884,24 @@
     },
     {
       "album": {
+        "name": "The Disco's Of Imhotep",
+        "url": "https://open.spotify.com/album/7JOBQa2I1VIwVn2IcC9Uq4"
+      },
+      "artists": [
+        {
+          "name": "Hieroglyphic Being",
+          "url": "https://open.spotify.com/artist/6zh25V1pQ8IQpxDYVmFSrT"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66728,
+      "name": "The Shrine Of The Serpent Goddess",
+      "url": "https://open.spotify.com/track/2gAtn1FWeoEbUmctNHY4U8"
+    },
+    {
+      "album": {
         "name": "The Sound / How To Play Our Music",
         "url": "https://open.spotify.com/album/5zY7Di2QT0Y2OZwmVwCr6w"
       },
@@ -7043,6 +7061,24 @@
       "duration_ms": 143146,
       "name": "Timesprite",
       "url": "https://open.spotify.com/track/56Q8aK61QHfv3p3Izd2lau"
+    },
+    {
+      "album": {
+        "name": "caso de estudio",
+        "url": "https://open.spotify.com/album/7k3qFMpJYBXVg4x634Aopp"
+      },
+      "artists": [
+        {
+          "name": "s e r \u00e9 n a t e",
+          "url": "https://open.spotify.com/artist/6Mrjj6yM6eFCKfQtHxzeUq"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225822,
+      "name": "to all the plants i loved",
+      "url": "https://open.spotify.com/track/6lvQXM7GBbnuFMQwEIHCDX"
     },
     {
       "album": {

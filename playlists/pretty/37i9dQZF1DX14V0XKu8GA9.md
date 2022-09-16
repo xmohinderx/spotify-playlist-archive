@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 
 > The wave of Latinos in Hip\-Hop in the U.S\. Cover: MoneySign Suede
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,546 likes - 80 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,589 likes - 80 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 64 | [Smile Now](https://open.spotify.com/track/5aEOxRLzokgAREPRH3MHLJ) | [Young Drummer Boy](https://open.spotify.com/artist/29AiXKmv12zkDsiVwzTDng) | [Smile Now](https://open.spotify.com/album/7FmKk2Wwe2kzpnd4daiQNU) | 2:50 |
 | 65 | [From The Gravel](https://open.spotify.com/track/1EWWs7U6CLe8vjeuat3SZa) | [GT Garza](https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D) | [From The Gravel](https://open.spotify.com/album/0WBrhO81a18zVvSYbCSbqo) | 1:57 |
 | 66 | [Street Lights](https://open.spotify.com/track/5LS8Lax9czRiYWbkiygVJL) | [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD), [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB) | [Street Lights](https://open.spotify.com/album/7hPnEAEort4kGDrajIjQvl) | 2:33 |
-| 67 | [Hail Mary](https://open.spotify.com/track/6mkKjKPuGaNy2Iuf83R7EB) | [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4), [YeloHill](https://open.spotify.com/artist/0IgLirgKCxQb13uM8FuQpR) | [Hail Mary](https://open.spotify.com/album/6Kmohibc5dxcxwafFlblLe) | 2:39 |
-| 68 | [SPIDERCAT](https://open.spotify.com/track/5GIGqDAFJSF6sNS0bcgJh9) | [Speak](https://open.spotify.com/artist/6Ka6HfvQhsltXZAFT1bYbQ) | [SPIDERCAT](https://open.spotify.com/album/6ifUeYWmhKyZ4VsQdLcIer) | 1:42 |
+| 67 | [SPIDERCAT](https://open.spotify.com/track/5GIGqDAFJSF6sNS0bcgJh9) | [Speak](https://open.spotify.com/artist/6Ka6HfvQhsltXZAFT1bYbQ) | [SPIDERCAT](https://open.spotify.com/album/6ifUeYWmhKyZ4VsQdLcIer) | 1:42 |
+| 68 | [Hail Mary](https://open.spotify.com/track/6mkKjKPuGaNy2Iuf83R7EB) | [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4), [YeloHill](https://open.spotify.com/artist/0IgLirgKCxQb13uM8FuQpR) | [Hail Mary](https://open.spotify.com/album/6Kmohibc5dxcxwafFlblLe) | 2:39 |
 | 69 | [Ain't Done](https://open.spotify.com/track/4X86G4H6Zx2rPHupmM0EOQ) | [SpyBoii](https://open.spotify.com/artist/6DZrRdBnSomNpyxQwwdjA4), [YeloHill](https://open.spotify.com/artist/0IgLirgKCxQb13uM8FuQpR) | [Ain't Done](https://open.spotify.com/album/5bSpHW2lk1QzdMXKDA7iD0) | 2:51 |
 | 70 | [Over](https://open.spotify.com/track/5gKqjYmPYaXn7ebiWBGRDw) | [Aj Hernz](https://open.spotify.com/artist/6OkLZPqXXpKNEAGxE2bupm), [Alexcis](https://open.spotify.com/artist/2tDA2vvMMRpi5GZL0hzqqj) | [Over](https://open.spotify.com/album/1tQHY2Lypwqhhfgp1lxA6j) | 2:23 |
 | 71 | [Paid in Full](https://open.spotify.com/track/3EIoImBHUqMVxn0hgUAtpb) | [Ybe](https://open.spotify.com/artist/00MPrHDjL16lKX3tMFV7Nz) | [Paid in Full](https://open.spotify.com/album/7zbK5ee8Di5uPqqBuRW1hj) | 2:35 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 79 | [100 bars](https://open.spotify.com/track/71r7LCCewLhjx9eCNol4UB) | [Doeboi909](https://open.spotify.com/artist/1fEMhYVIObipE7MEYEoZvG) | [100 bars](https://open.spotify.com/album/4mZtzr9g4MZYOb9ZlzuKDz) | 5:21 |
 | 80 | [Comments](https://open.spotify.com/track/1zGKorpWn3tLAVkl8DlxNs) | [Trap Baby](https://open.spotify.com/artist/0WCPeSs3xF97qN4rUFZrBZ), [Eddy Bands](https://open.spotify.com/artist/1DKsbpdYjzDWew1ZCSTtUj) | [Comments](https://open.spotify.com/album/4fmnaHAf2qPRVduaNQssnX) | 1:58 |
 
-Snapshot ID: `MTY2Mjg2MjAxMiwwMDAwMDAwMDJhZTcyNjI1MTE2NmFmNzY3OWM5NGY2ZTIxMjYxNDE3`
+Snapshot ID: `MTY2Mjg2MjAxMiwwMDAwMDAwMGFiMDk5MWM2MDJhY2UyZjIyMTdlNzZlYTE4MjdkZGFj`

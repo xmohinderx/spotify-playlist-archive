@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1960s.",
-  "num_followers": 138786,
+  "num_followers": 138897,
   "original_name": "60s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTM0MTM0NywwMDAwMDAwMDE5YzY0M2UzZDY2ZWVlMmY0NDllZGUxYTM5MTJiNjY5",
+  "snapshot_id": "MTY1OTM0MTM0NywwMDAwMDAwMDE1ZjU0NGIxYWZkY2NmMzhkOTRlOGVmY2U4OGY5Nzg4",
   "tracks": [
     {
       "added_at": "2022-06-16 22:02:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Come A Little Bit Closer: The Best Of Jay & The Americans",
-        "url": "https://open.spotify.com/album/0LMJo3p9QqRjaap3qvlTY6"
-      },
-      "artists": [
-        {
-          "name": "Jay & The Americans",
-          "url": "https://open.spotify.com/artist/0DAqhikcMKLo2lPADVz2fs"
-        }
-      ],
-      "duration_ms": 166666,
-      "name": "Come A Little Bit Closer",
-      "url": "https://open.spotify.com/track/252YuUdUaC5OojaBU0H1CP"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Where Did Our Love Go",
         "url": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 153333,
       "name": "Where Did Our Love Go",
       "url": "https://open.spotify.com/track/69RH84na5iUNwrwxpgjC5j"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Come A Little Bit Closer: The Best Of Jay & The Americans",
+        "url": "https://open.spotify.com/album/0LMJo3p9QqRjaap3qvlTY6"
+      },
+      "artists": [
+        {
+          "name": "Jay & The Americans",
+          "url": "https://open.spotify.com/artist/0DAqhikcMKLo2lPADVz2fs"
+        }
+      ],
+      "duration_ms": 166666,
+      "name": "Come A Little Bit Closer",
+      "url": "https://open.spotify.com/track/252YuUdUaC5OojaBU0H1CP"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Elvis 30 #1 Hits (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0uJJdEZ8sRLNPoKEkjvqTD"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 144840,
-      "name": "Viva Las Vegas (Bonus Track)",
-      "url": "https://open.spotify.com/track/6qNY8xr8GNcvskh5GkVS7b"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "The Chiffons Absolutely The Best!",
         "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 112520,
       "name": "He's So Fine - Remastered 2000",
       "url": "https://open.spotify.com/track/2Bs1Lw9LX8hBm70t1iGdlh"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Elvis 30 #1 Hits (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0uJJdEZ8sRLNPoKEkjvqTD"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 144840,
+      "name": "Viva Las Vegas (Bonus Track)",
+      "url": "https://open.spotify.com/track/6qNY8xr8GNcvskh5GkVS7b"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "The Monkees (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1q1LuLo92N5cl5e0GKRq7h"
-      },
-      "artists": [
-        {
-          "name": "The Monkees",
-          "url": "https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck"
-        }
-      ],
-      "duration_ms": 164093,
-      "name": "Last Train to Clarksville - Original Stereo Version; 2006 Remaster",
-      "url": "https://open.spotify.com/track/3h4t9qpFktohHeUQc3hZCa"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Full Metal Jacket (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3tpJtzZm4Urb0n2ITN5mwF"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 137133,
       "name": "Surfin' Bird",
       "url": "https://open.spotify.com/track/7EjyzZcbLxW7PaaLua9Ksb"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "The Monkees (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1q1LuLo92N5cl5e0GKRq7h"
+      },
+      "artists": [
+        {
+          "name": "The Monkees",
+          "url": "https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck"
+        }
+      ],
+      "duration_ms": 164093,
+      "name": "Last Train to Clarksville - Original Stereo Version; 2006 Remaster",
+      "url": "https://open.spotify.com/track/3h4t9qpFktohHeUQc3hZCa"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Johnny Tillotson's Best",
-        "url": "https://open.spotify.com/album/23FZ6dkeF3N8cAfVqzggFR"
-      },
-      "artists": [
-        {
-          "name": "Johnny Tillotson",
-          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
-        }
-      ],
-      "duration_ms": 154466,
-      "name": "Poetry In Motion - 1960 #2 Billboard chart hit",
-      "url": "https://open.spotify.com/track/2HKafPuzWaKsCzcE3zFOIX"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Johnny Burnette's Hits And Other Favorites",
         "url": "https://open.spotify.com/album/1AOL5ae6xRGUAvcTGUGPxs"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 119026,
       "name": "You're Sixteen, You're Beautiful (And You're Mine)",
       "url": "https://open.spotify.com/track/5oeFEW0WGSGEdXMDKNI4z4"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Johnny Tillotson's Best",
+        "url": "https://open.spotify.com/album/23FZ6dkeF3N8cAfVqzggFR"
+      },
+      "artists": [
+        {
+          "name": "Johnny Tillotson",
+          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
+        }
+      ],
+      "duration_ms": 154466,
+      "name": "Poetry In Motion - 1960 #2 Billboard chart hit",
+      "url": "https://open.spotify.com/track/2HKafPuzWaKsCzcE3zFOIX"
     },
     {
       "added_at": "2022-06-16 22:02:00",

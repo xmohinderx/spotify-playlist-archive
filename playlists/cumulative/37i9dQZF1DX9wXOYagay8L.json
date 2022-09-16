@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Beautiful proudly South African gems made for the entire family. Cover: <a href=\"https://open.spotify.com/artist/7J8TsAqwQVAIOlloWCuW60?si=w4u2Bt6dTM-ZcjbUd8HQrw\">MusiholiQ</a>",
+  "description": "Beautiful proudly South African gems made for the entire family. Cover: <a href=\"https://open.spotify.com/artist/3jxs3XKuz7KUmjBMN5Yees?si=Lnk7thC0RgyMz_QR0Mlvkw\">Mthandazo Gatya</a>",
   "name": "Made In South Africa",
   "published_playlist_ids": [
     "6BghGTymCVTsnBj72SFGI9"
@@ -89,7 +89,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 264192,
       "name": "Abelungu",
       "url": "https://open.spotify.com/track/1rN3hYaB9H4UcYOuSep8i7"
@@ -265,7 +265,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 426990,
       "name": "Amazing Grace",
       "url": "https://open.spotify.com/track/60YKaBvjgNvGRVei6rmRQk"
@@ -371,6 +371,28 @@
       "duration_ms": 250786,
       "name": "Backroom",
       "url": "https://open.spotify.com/track/1WBvbilb4UNMD8vxNbgZyp"
+    },
+    {
+      "album": {
+        "name": "Badimo (feat. DJ Maphorisa)",
+        "url": "https://open.spotify.com/album/16T88ND5mXBOVElDNieKZq"
+      },
+      "artists": [
+        {
+          "name": "Phila Dlozi",
+          "url": "https://open.spotify.com/artist/6Gvhwr7PyROJRjb54EY71v"
+        },
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254117,
+      "name": "Badimo (feat. DJ Maphorisa)",
+      "url": "https://open.spotify.com/track/5LRdE3vW5Pb4zPXKOHZOa1"
     },
     {
       "album": {
@@ -669,7 +691,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 227343,
       "name": "Dikeledi",
       "url": "https://open.spotify.com/track/0j7TOSVjcDskEsbTKsXMHl"
@@ -1633,7 +1655,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 221545,
       "name": "Iphupho",
       "url": "https://open.spotify.com/track/6U5sKbNuUwJlY9VPCiOt4N"
@@ -2021,6 +2043,24 @@
       "duration_ms": 306004,
       "name": "KHIYELA",
       "url": "https://open.spotify.com/track/4KbWRrP9tMfAIfnH4bP3lv"
+    },
+    {
+      "album": {
+        "name": "Journey To Infinity",
+        "url": "https://open.spotify.com/album/2kRJW6Hq4iZdXenCfXDJ2F"
+      },
+      "artists": [
+        {
+          "name": "Mthandazo Gatya",
+          "url": "https://open.spotify.com/artist/3jxs3XKuz7KUmjBMN5Yees"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284312,
+      "name": "Khumbul'ekhaya",
+      "url": "https://open.spotify.com/track/6uFosejJRPqulopMK1trT7"
     },
     {
       "album": {
@@ -2885,7 +2925,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 239124,
       "name": "Ndi Nne",
       "url": "https://open.spotify.com/track/70HFJtyRLVnuA6wqSSuTd8"
@@ -3514,6 +3554,32 @@
     },
     {
       "album": {
+        "name": "Ntombazana",
+        "url": "https://open.spotify.com/album/3weAjQvgtPGA4XmTeIQDIV"
+      },
+      "artists": [
+        {
+          "name": "Hassan Mangete",
+          "url": "https://open.spotify.com/artist/49MtwqGzcDiLnZ5JnsczYH"
+        },
+        {
+          "name": "Sino Msolo",
+          "url": "https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI"
+        },
+        {
+          "name": "Azmo Nawe",
+          "url": "https://open.spotify.com/artist/2KtuL7JwOuuMqjTiAOj75I"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Ntombazana",
+      "url": "https://open.spotify.com/track/6fJlDSuDWB6YEtY9GwtUr4"
+    },
+    {
+      "album": {
         "name": "Honour Array EP",
         "url": "https://open.spotify.com/album/5yXEvvUBbJe4wPkgg0lV0T"
       },
@@ -3591,6 +3657,46 @@
       "duration_ms": 283750,
       "name": "Othanda Mina",
       "url": "https://open.spotify.com/track/7CBGbm4zPNGe0sbCEf1SA5"
+    },
+    {
+      "album": {
+        "name": "Emakhosini",
+        "url": "https://open.spotify.com/album/0sUls8oOzLRqW6xIEtzCdz"
+      },
+      "artists": [
+        {
+          "name": "Nana Atta",
+          "url": "https://open.spotify.com/artist/1B4FnAkti1c4KGQDv78pYq"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212900,
+      "name": "Outro (Impi)",
+      "url": "https://open.spotify.com/track/5CZbzl4YZhDIzee6vnZwKN"
+    },
+    {
+      "album": {
+        "name": "SR3",
+        "url": "https://open.spotify.com/album/6Si2FMyfksVv0PHoSmWGUT"
+      },
+      "artists": [
+        {
+          "name": "K.O",
+          "url": "https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z"
+        },
+        {
+          "name": "Msaki",
+          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193173,
+      "name": "OWAMI (feat. Msaki)",
+      "url": "https://open.spotify.com/track/79XTMk8TGJZYpYEvLv0DHq"
     },
     {
       "album": {
@@ -4524,6 +4630,28 @@
     },
     {
       "album": {
+        "name": "uFuna Bani (Sondela)",
+        "url": "https://open.spotify.com/album/3rfcYA4oVkNaIdJv4OHbvp"
+      },
+      "artists": [
+        {
+          "name": "Pilani Bubu",
+          "url": "https://open.spotify.com/artist/6KljVJXbQ3IF9891IvG5be"
+        },
+        {
+          "name": "AfroNautiq",
+          "url": "https://open.spotify.com/artist/0L6AmIetS4zqs79IC1jQpX"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174330,
+      "name": "uFuna Bani (Sondela)",
+      "url": "https://open.spotify.com/track/2GPh9moTPizhhgXF2p8R1R"
+    },
+    {
+      "album": {
         "name": "Uhambo",
         "url": "https://open.spotify.com/album/26jzpEzvuSZH4t6Ucz3mzC"
       },
@@ -5025,7 +5153,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 189461,
       "name": "Wa Pelo",
       "url": "https://open.spotify.com/track/6riyRN9aWDNz7nm6MGCL2M"
@@ -5095,7 +5223,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 225640,
       "name": "Wamuhle",
       "url": "https://open.spotify.com/track/1Hfi5ASQy39dZJRnRsE6ws"

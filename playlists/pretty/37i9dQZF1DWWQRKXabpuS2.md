@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 
 > ابق على اطلاع بأحدث الأغاني الخليجية! الغلاف: فؤاد عبدالواحد
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,828 likes - 48 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,839 likes - 48 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

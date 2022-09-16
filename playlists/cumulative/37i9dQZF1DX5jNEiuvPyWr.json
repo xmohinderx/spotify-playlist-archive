@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : Seth Sad",
+  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : Binks Beatz & Laylow",
   "name": "Cloud Rap",
   "published_playlist_ids": [
     "5hZd800bY7alcQHZCY6dmZ"
@@ -263,6 +263,28 @@
       "duration_ms": 221886,
       "name": "Demain c'est loin",
       "url": "https://open.spotify.com/track/1D7p8EN4kDXCUN0yN8KBr9"
+    },
+    {
+      "album": {
+        "name": "Drip Music 2",
+        "url": "https://open.spotify.com/album/5eYz4YuKj5vLWzXdOqxL3d"
+      },
+      "artists": [
+        {
+          "name": "Binks Beatz",
+          "url": "https://open.spotify.com/artist/7BO3t7j5tGn3OISCrYgLnJ"
+        },
+        {
+          "name": "Laylow",
+          "url": "https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237639,
+      "name": "Dennis Rodman (feat. Laylow)",
+      "url": "https://open.spotify.com/track/4Sg6iFX0yKvTO1aGKB8sWL"
     },
     {
       "album": {
@@ -879,7 +901,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 178004,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/7gLIgciyl0LiLeX7LXAACB"

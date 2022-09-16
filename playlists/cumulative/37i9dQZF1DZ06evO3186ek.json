@@ -92,6 +92,36 @@
     },
     {
       "album": {
+        "name": "Old Church Basement",
+        "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 551086,
+      "name": "Build Your Church (feat. Naomi Raine & Chris Brown)",
+      "url": "https://open.spotify.com/track/20eBRnBU8rtwt18XtTnOHC"
+    },
+    {
+      "album": {
         "name": "Maverick City Music, Vol. 3: Pt. 2",
         "url": "https://open.spotify.com/album/2R4bNnZCEQUkebqJmcySBt"
       },
@@ -596,6 +626,36 @@
     },
     {
       "album": {
+        "name": "Kingdom Book One",
+        "url": "https://open.spotify.com/album/4GnwZNhOa65A097eBbo40f"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 565833,
+      "name": "Kingdom (feat. Naomi Raine & Chandler Moore)",
+      "url": "https://open.spotify.com/track/4UTJRQlIDvePxa6deMMk4j"
+    },
+    {
+      "album": {
         "name": "Maverick City Music, Vol. 3: Pt. 1",
         "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
       },
@@ -793,7 +853,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 420058,
       "name": "Names (feat. Tiffany Hudson)",
       "url": "https://open.spotify.com/track/3SkcC4o5zY5ogakP9hmCQ1"

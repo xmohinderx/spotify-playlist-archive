@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMVEbshVhe1.md) - [plain]
 
 > Encanto tells the tale of the Madrigals, an extraordinary family who live in a wondrous place called an Encanto\. The film features all\-new songs by Lin\-Manuel Miranda and score by Germaine Franco\. Stream Disney's Encanto on Disney+.
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,237 likes - 54 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,241 likes - 54 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMVEbshVhe1.md) - [plain]
 | 7 | [Waiting On A Miracle](https://open.spotify.com/track/3oRW9ZGPRbLRMneQ5lwflt) | [Stephanie Beatriz](https://open.spotify.com/artist/5PYToRCsrnvikZg3yl2JMr) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 2:41 |
 | 8 | [What Else Can I Do?](https://open.spotify.com/track/3XoYqtiWHhsk59frZupImG) | [Diane Guerrero](https://open.spotify.com/artist/18MFcGBHtyW0mU3ufcm0X1), [Stephanie Beatriz](https://open.spotify.com/artist/5PYToRCsrnvikZg3yl2JMr) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 2:59 |
 | 9 | [Two Oruguitas](https://open.spotify.com/track/6jPVyjPqp2BNUJnDSwm8tK) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 3:34 |
-| 10 | [Surface Pressure \- From "Encanto"/Alok Remix](https://open.spotify.com/track/4Z6Lox6TdFyN3rGXr5v1An) | [Jessica Darrow](https://open.spotify.com/artist/4vdAAzZBUKbsrvHi6UR7B7), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Alok Achkar Peres Petrillo](https://open.spotify.com/artist/4knXw2Bu9Vik7eBIvp7WNn) | [Surface Pressure \(From "Encanto"/Alok Remix\)](https://open.spotify.com/album/5OJdz9RHt02n5iaJ6jTU3c) | 2:07 |
+| 10 | [Surface Pressure \- From "Encanto"/Alok Remix](https://open.spotify.com/track/4Z6Lox6TdFyN3rGXr5v1An) | [Jessica Darrow](https://open.spotify.com/artist/4vdAAzZBUKbsrvHi6UR7B7), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Surface Pressure \(From "Encanto"/Alok Remix\)](https://open.spotify.com/album/5OJdz9RHt02n5iaJ6jTU3c) | 2:07 |
 | 11 | [¡Hola Casita!](https://open.spotify.com/track/5X1kTi7KqUrAbQBohSV68x) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 0:46 |
 | 12 | [Abre Los Ojos](https://open.spotify.com/track/06H5BeXjWXqjslelYiLuB7) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 3:16 |
 | 13 | [La familia Madrigal](https://open.spotify.com/track/6740sbqgB64LZopHUEiBG8) | [Olga Lucía Vives](https://open.spotify.com/artist/1xtEM6Ynrm8jO1o7rXzP22), [Yaneth Waldman](https://open.spotify.com/artist/49xYVBMRskbDXPIZJZxJwR), [Encanto \- Elenco](https://open.spotify.com/artist/52l7jN5e0g2n3IVOHulkA6) | [Encanto \(Banda Sonora Original en Español\)](https://open.spotify.com/album/4X5y4Xykl9IdiLqQtUInVF) | 4:17 |

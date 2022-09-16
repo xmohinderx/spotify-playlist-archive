@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gUQYmrehre.md) - [plain]
 
 > Cutting edge LGBTQQIA+ artists from around the world\. Cover: Nakhane
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,193 likes - 90 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,204 likes - 90 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gUQYmrehre.md) - [plain]
 | 37 | [Flores No Mar](https://open.spotify.com/track/4sw5ft6s70lPDlCa1YRWks) | [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU), [EMMANUELLE](https://open.spotify.com/artist/1C2Gz0VQuVWtaLWd54ujI5) | [Flores No Mar](https://open.spotify.com/album/5v74vfk850Sq7cGTDqwPbP) | 4:23 |
 | 38 | [I Saw Light](https://open.spotify.com/track/6zhs6CjZBoaXD44VFTBzQ8) | [Kae Tempest](https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw), [Grian Chatten](https://open.spotify.com/artist/6XyAI3jtlsss5mJjAAJXzE) | [The Line Is A Curve](https://open.spotify.com/album/5bmSkzrpPUCfimC9pBt5MD) | 3:03 |
 | 39 | [Buena Suerte Muchacha](https://open.spotify.com/track/0g9uGFzr5N6k5kOtx0nmCv) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Buena Suerte Muchacha](https://open.spotify.com/album/2EzDw9iglsGLvrgSnv10M0) | 3:13 |
-| 40 | [YouYouYou](https://open.spotify.com/track/1p6Q3r89gsQAg1EBaNHvZl) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [YouYouYou](https://open.spotify.com/album/5qngAxc71Qsxq1vChF0hzm) | 3:03 |
-| 41 | [For You](https://open.spotify.com/track/2XmbjslL9zkGfs2UoR2xxf) | [Patrik Jean](https://open.spotify.com/artist/5QCf1Qb08Q4E3EPnyo8mw1) | [For You](https://open.spotify.com/album/1PdyqDAp7Dc9yFQHTjY8qp) | 3:26 |
+| 40 | [For You](https://open.spotify.com/track/2XmbjslL9zkGfs2UoR2xxf) | [Patrik Jean](https://open.spotify.com/artist/5QCf1Qb08Q4E3EPnyo8mw1) | [For You](https://open.spotify.com/album/1PdyqDAp7Dc9yFQHTjY8qp) | 3:26 |
+| 41 | [YouYouYou](https://open.spotify.com/track/1p6Q3r89gsQAg1EBaNHvZl) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [YouYouYou](https://open.spotify.com/album/5qngAxc71Qsxq1vChF0hzm) | 3:03 |
 | 42 | [Gayby](https://open.spotify.com/track/4beOP1YEY0RMmixXStaISR) | [Sam Vance\-Law](https://open.spotify.com/artist/2M5w5QrYTg2yiuURwaQLEF) | [Homotopia](https://open.spotify.com/album/0Vfx8EEOmxX8RKaBqJNyuZ) | 2:54 |
 | 43 | [PLS](https://open.spotify.com/track/57xPM0jBBOp7veS1iRdhUK) | [SILVY](https://open.spotify.com/artist/5m8lmgqE3WYbGqmYKVNJSA) | [PLS](https://open.spotify.com/album/22EjrJkCcqfRJxvpzrYFSi) | 3:09 |
 | 44 | [All My Love Is Coming Back To Me](https://open.spotify.com/track/3Nc53UVSUBvYjuhuNouvfi) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [All My Love Is Coming Back To Me](https://open.spotify.com/album/01OzeCOUrUoaCXMu9rvq9f) | 3:29 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gUQYmrehre.md) - [plain]
 | 51 | [Baby, We're Ascending](https://open.spotify.com/track/614NfZjf8rMY2bErgwhzR5) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Baby, We're Ascending](https://open.spotify.com/album/7FlN0x6yjToDvOIjpuIm48) | 6:27 |
 | 52 | [Hauntology](https://open.spotify.com/track/7psLe6PhPQZm3B7nqaD3l8) | [Lauren Auder](https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL) | [Hauntology](https://open.spotify.com/album/3pvwLH6Zu6JCrpBCk8XkBG) | 3:59 |
 | 53 | [More Than a Friend](https://open.spotify.com/track/5tWbWj3DR3chA9k6rHp8Jd) | [GIRLI](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [Damsel in Distress](https://open.spotify.com/album/0yRDXJyXgyTbBqqONVcX27) | 2:55 |
-| 54 | [Fool](https://open.spotify.com/track/0f11SeNBfLiQPaOmPOCpNx) | [Martha Da'ro](https://open.spotify.com/artist/312xfcd1WbKDhBnqPxjXVl) | [Fool](https://open.spotify.com/album/17ohhtU5qAkiGtgkGmvndK) | 3:30 |
-| 55 | [un chupito de ti](https://open.spotify.com/track/2W6euU7DSJPgV7J3vuXsyI) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [cuando anochece](https://open.spotify.com/album/7eHcyieJB26H23zZMBZqXY) | 2:37 |
+| 54 | [un chupito de ti](https://open.spotify.com/track/2W6euU7DSJPgV7J3vuXsyI) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [cuando anochece](https://open.spotify.com/album/7eHcyieJB26H23zZMBZqXY) | 2:37 |
+| 55 | [Fool](https://open.spotify.com/track/0f11SeNBfLiQPaOmPOCpNx) | [Martha Da'ro](https://open.spotify.com/artist/312xfcd1WbKDhBnqPxjXVl) | [Fool](https://open.spotify.com/album/17ohhtU5qAkiGtgkGmvndK) | 3:30 |
 | 56 | [HUNTER SCHAFER](https://open.spotify.com/track/2rmKfU3dFpq9sM7VWn8hBu) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [HUNTER SCHAFER](https://open.spotify.com/album/6XcDYfrVonxMFBGQS00Bpl) | 3:13 |
 | 57 | [Kalawakan](https://open.spotify.com/track/4txCTC5NOcDLwUQdFhr9XM) | [Paul Pablo](https://open.spotify.com/artist/5GB0qrWq0mz2OanyfhXGp0) | [Kalawakan](https://open.spotify.com/album/6YqebjnXmxFYVvLYMWv2nT) | 4:03 |
 | 58 | [Turned Heads](https://open.spotify.com/track/4GKDapJjK9DOCG3ZQdWxcG) | [Janey Jacké](https://open.spotify.com/artist/2n7tUIeULpqEweNoyaNJ7v), [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN) | [Turned Heads](https://open.spotify.com/album/4X1xAPK4ft5jb9MPvUuDDX) | 2:22 |
@@ -76,11 +76,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gUQYmrehre.md) - [plain]
 | 66 | [You're \(Still\) in Love](https://open.spotify.com/track/6YLJSseL1MrX9ribPhyBQx) | [Tim Chadwick](https://open.spotify.com/artist/01xLuKvTWah7tIPATY3MfL) | [You're \(Still\) in Love](https://open.spotify.com/album/37rfmyvdEnTu9cWsJAJjcb) | 4:20 |
 | 67 | [Muévelo](https://open.spotify.com/track/4kdFcU4x4XP1ASmTlEOh1c) | [Valentina Moretti](https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS) | [Muévelo](https://open.spotify.com/album/2jIsFPTbrgSenWx8irjJea) | 2:44 |
 | 68 | [Tavern Kween](https://open.spotify.com/track/7h62eL1f1ujScn9lvQ0rH9) | [Desire Marea](https://open.spotify.com/artist/7xfBWpNiwO2yteiY68OB6C) | [Desire](https://open.spotify.com/album/025L0VtAaySW1AwMJOq4b2) | 5:08 |
-| 69 | [Midnight Ride \(feat\. Robert Owens\) \- Edit](https://open.spotify.com/track/0jwxH5tgK1LNvFVR4ZVqjb) | [Alinka](https://open.spotify.com/artist/3qBqW8kIRZbPxbSgAyP7ls), [Robert Owens](https://open.spotify.com/artist/407nV5hO7mZap3UJdpTr4t) | [Midnight Ride](https://open.spotify.com/album/709wOwF53N1Z55OsZZJDAa) | 4:07 |
-| 70 | [Child Of The Government](https://open.spotify.com/track/2c9bXyhZiAco7lXNyugSl6) | [Jayli Wolf](https://open.spotify.com/artist/09AACzWu09h30NeqLRn4Tx) | [Child Of The Government](https://open.spotify.com/album/6ivfvK9CGo2SbdOMsRag5L) | 3:41 |
+| 69 | [Child Of The Government](https://open.spotify.com/track/2c9bXyhZiAco7lXNyugSl6) | [Jayli Wolf](https://open.spotify.com/artist/09AACzWu09h30NeqLRn4Tx) | [Child Of The Government](https://open.spotify.com/album/6ivfvK9CGo2SbdOMsRag5L) | 3:41 |
+| 70 | [Midnight Ride \(feat\. Robert Owens\) \- Edit](https://open.spotify.com/track/0jwxH5tgK1LNvFVR4ZVqjb) | [Alinka](https://open.spotify.com/artist/3qBqW8kIRZbPxbSgAyP7ls), [Robert Owens](https://open.spotify.com/artist/407nV5hO7mZap3UJdpTr4t) | [Midnight Ride](https://open.spotify.com/album/709wOwF53N1Z55OsZZJDAa) | 4:07 |
 | 71 | [騷](https://open.spotify.com/track/34DwldJDRq2Qi3aQatDTWZ) | [Zelos Wong 黃凱逸](https://open.spotify.com/artist/7q8BUwEEDO6iayv3AUq9bv), [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [騷](https://open.spotify.com/album/4MRHE6v3nBWgTRMYV1WNbE) | 4:14 |
-| 72 | [bad grades](https://open.spotify.com/track/79XMsrWtKj2bDCZQ8aYgDq) | [Kids With Buns](https://open.spotify.com/artist/1HF3WeoXOBYHlVkLn20lXz) | [waiting room](https://open.spotify.com/album/7sXwDGZWiZwA7jkR6Y0HhR) | 3:26 |
-| 73 | [Jóia da Rotina](https://open.spotify.com/track/0RSoneV5ikvQZGLBkl2Iee) | [Filipe Sambado](https://open.spotify.com/artist/4DBnj3zFrGcRiFME23yT0q) | [Revezo](https://open.spotify.com/album/0UHlZADJ94J9X41r3vk8yC) | 3:39 |
+| 72 | [Jóia da Rotina](https://open.spotify.com/track/0RSoneV5ikvQZGLBkl2Iee) | [Filipe Sambado](https://open.spotify.com/artist/4DBnj3zFrGcRiFME23yT0q) | [Revezo](https://open.spotify.com/album/0UHlZADJ94J9X41r3vk8yC) | 3:39 |
+| 73 | [bad grades](https://open.spotify.com/track/79XMsrWtKj2bDCZQ8aYgDq) | [Kids With Buns](https://open.spotify.com/artist/1HF3WeoXOBYHlVkLn20lXz) | [waiting room](https://open.spotify.com/album/7sXwDGZWiZwA7jkR6Y0HhR) | 3:26 |
 | 74 | [indirecta](https://open.spotify.com/track/3vpnqExDOGllL7YETxbffG) | [riela](https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A) | [llorar y perrear](https://open.spotify.com/album/65NoZ2j5Lp8gmc1BS6iJY9) | 2:49 |
 | 75 | [Interloper](https://open.spotify.com/track/5QFSiFgPpXBfdqT4jDpulB) | [Nakhane](https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH) | [You Will Not Die \(Deluxe Version\)](https://open.spotify.com/album/1jXzmeQ3KIYNvk9jureftg) | 4:09 |
 | 76 | [NO PUTX \- Spotify Singles](https://open.spotify.com/track/79yTQjvKcRzO9Qb0wZJzkL) | [Georgel](https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j), [Tito Fuentes](https://open.spotify.com/artist/50TYc0wXVPLyb6k5PkR8Lo) | [NO PUTX \- Spotify Singles](https://open.spotify.com/album/59gNuylpSUihz8qxcHHeJx) | 3:51 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gUQYmrehre.md) - [plain]
 | 89 | [I Will Be Better Than You At Letting Go](https://open.spotify.com/track/3HKyeSauyYdo1q8hAMz9dA) | [LonelyTwin](https://open.spotify.com/artist/2Nf6fS8HByhmGlwDPPZhHM) | [You!](https://open.spotify.com/album/6u7QZYyppacDEeQvZnxRK1) | 2:46 |
 | 90 | [Semblante](https://open.spotify.com/track/0VR0TlYyuH4Ge1bKxXX8mH) | [Leo García](https://open.spotify.com/artist/54YdJC33Ztc1CNIuodmyUb) | [Leo Punk](https://open.spotify.com/album/5GJqT3SWAP71cTB6kiQpgm) | 2:43 |
 
-Snapshot ID: `MTY1ODI0MTk2NSwwMDAwMDAwMGM1MjVhOGYzNzVlODY0NGJiYTM4MzU3OTNhYWRiZTE5`
+Snapshot ID: `MTY1ODI0MTk2NSwwMDAwMDAwMDAzYzkwNDBjM2IyY2JjYzRlODczODRmZjcxY2JmYTY4`

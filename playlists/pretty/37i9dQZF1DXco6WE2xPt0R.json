@@ -1,12 +1,12 @@
 {
   "description": "Aquela playlist pra ficar no quentin, gostosin.",
-  "num_followers": 80808,
+  "num_followers": 80856,
   "original_name": "dengo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5MjQ2MCwwMDAwMDAwMDM0OGIyNmZmNzJjNTIzNjY1NThhZWQ1YjVlOGIxNTY5",
+  "snapshot_id": "MTY2MjY5MjQ2MCwwMDAwMDAwMGJhZGNkNTI5MmEzNGQyMzYyYTdlODRjZGUzODU1NWM4",
   "tracks": [
     {
       "added_at": "2022-09-09 03:01:00",
@@ -311,18 +311,26 @@
     {
       "added_at": "2022-09-09 03:01:00",
       "album": {
-        "name": "Public Displays Of Affection Too",
-        "url": "https://open.spotify.com/album/27jeucZeZB1BDcFtIbNY5b"
+        "name": "LEGEND",
+        "url": "https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT"
       },
       "artists": [
         {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 196641,
-      "name": "Cartier",
-      "url": "https://open.spotify.com/track/1A07u1T45HV84tT33UpVSB"
+      "duration_ms": 234498,
+      "name": "Splash (feat. Jhen\u00e9 Aiko & Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/5Ip2VxpYt1dCD7MKmjrw52"
     },
     {
       "added_at": "2022-09-09 03:01:00",
@@ -339,6 +347,22 @@
       "duration_ms": 204133,
       "name": "DYING 4 YOUR LOVE",
       "url": "https://open.spotify.com/track/1Yx1TbWg1zbl6gQ3SCOFCN"
+    },
+    {
+      "added_at": "2022-09-09 03:01:00",
+      "album": {
+        "name": "Public Displays Of Affection Too",
+        "url": "https://open.spotify.com/album/27jeucZeZB1BDcFtIbNY5b"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 196641,
+      "name": "Cartier",
+      "url": "https://open.spotify.com/track/1A07u1T45HV84tT33UpVSB"
     },
     {
       "added_at": "2022-09-09 03:01:00",
@@ -395,30 +419,6 @@
     {
       "added_at": "2022-09-09 03:01:00",
       "album": {
-        "name": "LEGEND",
-        "url": "https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        },
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 234498,
-      "name": "Splash (feat. Jhen\u00e9 Aiko & Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/5Ip2VxpYt1dCD7MKmjrw52"
-    },
-    {
-      "added_at": "2022-09-09 03:01:00",
-      "album": {
         "name": "Love Quotes",
         "url": "https://open.spotify.com/album/5juVweq2A5JD3kkEPTU7zI"
       },
@@ -431,22 +431,6 @@
       "duration_ms": 195401,
       "name": "Love Quotes",
       "url": "https://open.spotify.com/track/6FnXRfvhQsTbiMaiXb2gff"
-    },
-    {
-      "added_at": "2022-09-09 03:01:00",
-      "album": {
-        "name": "Pain",
-        "url": "https://open.spotify.com/album/69Ke0HAzE1LmRKssAojkwN"
-      },
-      "artists": [
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 153226,
-      "name": "Pain",
-      "url": "https://open.spotify.com/track/51Q4Pn44Ys7D8GCNzVLDmg"
     },
     {
       "added_at": "2022-09-09 03:01:00",
@@ -503,18 +487,18 @@
     {
       "added_at": "2022-09-09 03:01:00",
       "album": {
-        "name": "sorry",
-        "url": "https://open.spotify.com/album/5yYBMehkCVXuFzaVPBBmzB"
+        "name": "Exit",
+        "url": "https://open.spotify.com/album/7go9k6n1fCuixMOOpW3gej"
       },
       "artists": [
         {
-          "name": "UMI",
-          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
+          "name": "Sebastian Mikael",
+          "url": "https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf"
         }
       ],
-      "duration_ms": 220199,
-      "name": "sorry",
-      "url": "https://open.spotify.com/track/1Weox7JrxWlozk46HkXHTp"
+      "duration_ms": 196673,
+      "name": "Exit",
+      "url": "https://open.spotify.com/track/7z6VTwkfEhX25WWy1xC75O"
     },
     {
       "added_at": "2022-09-09 03:01:00",
@@ -535,18 +519,34 @@
     {
       "added_at": "2022-09-09 03:01:00",
       "album": {
-        "name": "Exit",
-        "url": "https://open.spotify.com/album/7go9k6n1fCuixMOOpW3gej"
+        "name": "Pain",
+        "url": "https://open.spotify.com/album/69Ke0HAzE1LmRKssAojkwN"
       },
       "artists": [
         {
-          "name": "Sebastian Mikael",
-          "url": "https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf"
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
         }
       ],
-      "duration_ms": 196673,
-      "name": "Exit",
-      "url": "https://open.spotify.com/track/7z6VTwkfEhX25WWy1xC75O"
+      "duration_ms": 153226,
+      "name": "Pain",
+      "url": "https://open.spotify.com/track/51Q4Pn44Ys7D8GCNzVLDmg"
+    },
+    {
+      "added_at": "2022-09-09 03:01:00",
+      "album": {
+        "name": "sorry",
+        "url": "https://open.spotify.com/album/5yYBMehkCVXuFzaVPBBmzB"
+      },
+      "artists": [
+        {
+          "name": "UMI",
+          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
+        }
+      ],
+      "duration_ms": 220199,
+      "name": "sorry",
+      "url": "https://open.spotify.com/track/1Weox7JrxWlozk46HkXHTp"
     },
     {
       "added_at": "2022-09-09 03:01:00",
@@ -811,6 +811,22 @@
     {
       "added_at": "2022-09-09 03:01:00",
       "album": {
+        "name": "Souled Out",
+        "url": "https://open.spotify.com/album/1dfGhmOGPopEReylj0UUDG"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 237573,
+      "name": "The Pressure",
+      "url": "https://open.spotify.com/track/3Px6rA0efiFjaIImH9pdaR"
+    },
+    {
+      "added_at": "2022-09-09 03:01:00",
+      "album": {
         "name": "Slow (feat. J Valentine)",
         "url": "https://open.spotify.com/album/2URY7aT8Ig8jxhlXK3bWOl"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 200212,
       "name": "Slow (feat. J Valentine)",
       "url": "https://open.spotify.com/track/78t5Br2LpRmlisvBzxE4mZ"
-    },
-    {
-      "added_at": "2022-09-09 03:01:00",
-      "album": {
-        "name": "Souled Out",
-        "url": "https://open.spotify.com/album/1dfGhmOGPopEReylj0UUDG"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 237573,
-      "name": "The Pressure",
-      "url": "https://open.spotify.com/track/3Px6rA0efiFjaIImH9pdaR"
     },
     {
       "added_at": "2022-09-09 03:01:00",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2022-09-09 03:01:00",
       "album": {
-        "name": "Boys Don't Cry",
-        "url": "https://open.spotify.com/album/707TPiqmiFvPsVMOqQJ3Ia"
-      },
-      "artists": [
-        {
-          "name": "Devvon Terrell",
-          "url": "https://open.spotify.com/artist/4WcJL1x8azi1Qkv4jc6fhH"
-        }
-      ],
-      "duration_ms": 191625,
-      "name": "Ifwu",
-      "url": "https://open.spotify.com/track/6ODk81vpF0O4JWD2odIjC1"
-    },
-    {
-      "added_at": "2022-09-09 03:01:00",
-      "album": {
         "name": "Body Music (Deluxe)",
         "url": "https://open.spotify.com/album/3eSysZ5EvnyWZ2naPABIdd"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 277173,
       "name": "Friends To Lovers",
       "url": "https://open.spotify.com/track/2sROAaC8BMV13cn31OLdpF"
+    },
+    {
+      "added_at": "2022-09-09 03:01:00",
+      "album": {
+        "name": "Boys Don't Cry",
+        "url": "https://open.spotify.com/album/707TPiqmiFvPsVMOqQJ3Ia"
+      },
+      "artists": [
+        {
+          "name": "Devvon Terrell",
+          "url": "https://open.spotify.com/artist/4WcJL1x8azi1Qkv4jc6fhH"
+        }
+      ],
+      "duration_ms": 191625,
+      "name": "Ifwu",
+      "url": "https://open.spotify.com/track/6ODk81vpF0O4JWD2odIjC1"
     },
     {
       "added_at": "2022-09-09 03:01:00",

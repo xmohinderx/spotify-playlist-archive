@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Z\u00e9 Ramalho",
-  "num_followers": 322851,
+  "num_followers": 322913,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5MjQwMCwwMDAwMDAwMDcwNGQ1OTRmYjhmZTNiZTUxM2U2M2Q4ZjgyYTY2NjE1",
+  "snapshot_id": "MTY2MjY5MjQwMCwwMDAwMDAwMDlkNGY5MzlhMjVmYWFiNGJmOTExYmMzMzZlYjdjN2Ey",
   "tracks": [
     {
       "added_at": "2022-09-09 03:00:00",
@@ -903,6 +903,22 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
+        "name": "Voo Livre",
+        "url": "https://open.spotify.com/album/7qEGoIr4FGO6GBbNk9tdAR"
+      },
+      "artists": [
+        {
+          "name": "Salma e Mac",
+          "url": "https://open.spotify.com/artist/6bqMZJqVqEaMjCR1DbvlOh"
+        }
+      ],
+      "duration_ms": 187492,
+      "name": "Gringa",
+      "url": "https://open.spotify.com/track/3ZwTN6J9jIbxGO7MGWZSsb"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
         "name": "Dan\u00e7a",
         "url": "https://open.spotify.com/album/53FyXoXLlFO7K5yPYzC9qj"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 179517,
       "name": "Morena Bonita",
       "url": "https://open.spotify.com/track/5xMM1Dlkw74HHXtRHn3bc9"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
-        "name": "Voo Livre",
-        "url": "https://open.spotify.com/album/7qEGoIr4FGO6GBbNk9tdAR"
-      },
-      "artists": [
-        {
-          "name": "Salma e Mac",
-          "url": "https://open.spotify.com/artist/6bqMZJqVqEaMjCR1DbvlOh"
-        }
-      ],
-      "duration_ms": 187492,
-      "name": "Gringa",
-      "url": "https://open.spotify.com/track/3ZwTN6J9jIbxGO7MGWZSsb"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Morena do Beijo Bom",
-        "url": "https://open.spotify.com/album/0ASoQ3MjUwDxyiE71xWwUV"
-      },
-      "artists": [
-        {
-          "name": "Capim-Lim\u00e3o",
-          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
-        },
-        {
-          "name": "Ana Fuhrmann",
-          "url": "https://open.spotify.com/artist/2jGCIbZOPZ830ZN4sGSsrV"
-        }
-      ],
-      "duration_ms": 168063,
-      "name": "Morena do Beijo Bom",
-      "url": "https://open.spotify.com/track/4UlRcLB10iV4hkVXCYLPpp"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
         "name": "Lua e Estrela",
         "url": "https://open.spotify.com/album/6WLk4GdWrTFvIKqUVq0p05"
       },
@@ -1171,6 +1151,26 @@
       "duration_ms": 237996,
       "name": "HUMBIUMBI",
       "url": "https://open.spotify.com/track/49hZHHz9ZBU9mwDebZp7ep"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
+        "name": "Morena do Beijo Bom",
+        "url": "https://open.spotify.com/album/0ASoQ3MjUwDxyiE71xWwUV"
+      },
+      "artists": [
+        {
+          "name": "Capim-Lim\u00e3o",
+          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
+        },
+        {
+          "name": "Ana Fuhrmann",
+          "url": "https://open.spotify.com/artist/2jGCIbZOPZ830ZN4sGSsrV"
+        }
+      ],
+      "duration_ms": 168063,
+      "name": "Morena do Beijo Bom",
+      "url": "https://open.spotify.com/track/4UlRcLB10iV4hkVXCYLPpp"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
+        "name": "Tr\u00eas",
+        "url": "https://open.spotify.com/album/2rs1t4jW9OQB4ESpTs8tMV"
+      },
+      "artists": [
+        {
+          "name": "Jussara Silveira",
+          "url": "https://open.spotify.com/artist/59RULa3Jap6Q7Pj1o9tb7T"
+        }
+      ],
+      "duration_ms": 222309,
+      "name": "Tr\u00eas",
+      "url": "https://open.spotify.com/track/5NkFAh88iCq7PULpgNoBuv"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
         "name": "Caso Perdido",
         "url": "https://open.spotify.com/album/22QeGvBIhn7Y7durJWkeff"
       },
@@ -1671,18 +1687,22 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Tr\u00eas",
-        "url": "https://open.spotify.com/album/2rs1t4jW9OQB4ESpTs8tMV"
+        "name": "CAEIRO - vol.1",
+        "url": "https://open.spotify.com/album/1EPJIK1b3H80aw0rIxIh2c"
       },
       "artists": [
         {
-          "name": "Jussara Silveira",
-          "url": "https://open.spotify.com/artist/59RULa3Jap6Q7Pj1o9tb7T"
+          "name": "Renato Motha",
+          "url": "https://open.spotify.com/artist/3XzRAIlxYeAvE2ZlgpRpU9"
+        },
+        {
+          "name": "Patricia Lobato",
+          "url": "https://open.spotify.com/artist/201VD33gwv7T7BN7Td9jfb"
         }
       ],
-      "duration_ms": 222309,
-      "name": "Tr\u00eas",
-      "url": "https://open.spotify.com/track/5NkFAh88iCq7PULpgNoBuv"
+      "duration_ms": 118528,
+      "name": "Passo, Fico",
+      "url": "https://open.spotify.com/track/5x1HapLgaHX2rDahFGYTo3"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -1703,26 +1723,6 @@
       "duration_ms": 195506,
       "name": "Templos - Ao Vivo",
       "url": "https://open.spotify.com/track/5gOXswoH6SMzvWy7lvCpQC"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
-        "name": "CAEIRO - vol.1",
-        "url": "https://open.spotify.com/album/1EPJIK1b3H80aw0rIxIh2c"
-      },
-      "artists": [
-        {
-          "name": "Renato Motha",
-          "url": "https://open.spotify.com/artist/3XzRAIlxYeAvE2ZlgpRpU9"
-        },
-        {
-          "name": "Patricia Lobato",
-          "url": "https://open.spotify.com/artist/201VD33gwv7T7BN7Td9jfb"
-        }
-      ],
-      "duration_ms": 118528,
-      "name": "Passo, Fico",
-      "url": "https://open.spotify.com/track/5x1HapLgaHX2rDahFGYTo3"
     },
     {
       "added_at": "2022-09-09 03:00:00",

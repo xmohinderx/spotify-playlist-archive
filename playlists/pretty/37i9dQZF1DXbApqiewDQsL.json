@@ -1,12 +1,12 @@
 {
   "description": "The songs and collaborations pushing the Mexican sound to a global level. Cover: Christian Nodal, Romeo Santos.",
-  "num_followers": 14895,
+  "num_followers": 14928,
   "original_name": "Internacional Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA5MDcyMiwwMDAwMDAwMDYwYTM3YTU1MmJjYzVmYWQwNzFiOThmYTgxZWYzMmRj",
+  "snapshot_id": "MTY2MjA5MDcyMiwwMDAwMDAwMDM5ZmZkZmZkYzhiMjcyOThiY2UyY2NmNDUwNDQ3MDg3",
   "tracks": [
     {
       "added_at": "2022-09-02 03:52:02",
@@ -371,26 +371,6 @@
     {
       "added_at": "2022-09-02 03:52:02",
       "album": {
-        "name": "Me Dej\u00e9 Llevar",
-        "url": "https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        },
-        {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
-        }
-      ],
-      "duration_ms": 233533,
-      "name": "Probablemente",
-      "url": "https://open.spotify.com/track/3uc5bBXNRtCQGzRDqTPGNK"
-    },
-    {
-      "added_at": "2022-09-02 03:52:02",
-      "album": {
         "name": "El Madrile\u00f1o",
         "url": "https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9"
       },
@@ -411,6 +391,26 @@
       "duration_ms": 188093,
       "name": "CAMBIA!",
       "url": "https://open.spotify.com/track/5cNJO43VKHxD0XGbkhboZu"
+    },
+    {
+      "added_at": "2022-09-02 03:52:02",
+      "album": {
+        "name": "Me Dej\u00e9 Llevar",
+        "url": "https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        },
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        }
+      ],
+      "duration_ms": 233533,
+      "name": "Probablemente",
+      "url": "https://open.spotify.com/track/3uc5bBXNRtCQGzRDqTPGNK"
     },
     {
       "added_at": "2022-09-02 03:52:02",
@@ -535,26 +535,6 @@
     {
       "added_at": "2022-09-02 03:52:02",
       "album": {
-        "name": "Pensar en Ti (Remix)",
-        "url": "https://open.spotify.com/album/0rIT5HpbDY7RkiqZLfMtWK"
-      },
-      "artists": [
-        {
-          "name": "vf7",
-          "url": "https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ"
-        },
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 242553,
-      "name": "Pensar en Ti (Remix)",
-      "url": "https://open.spotify.com/track/2K0bFO9bEzx8t5UFEHAcyM"
-    },
-    {
-      "added_at": "2022-09-02 03:52:02",
-      "album": {
         "name": "Ahora",
         "url": "https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 157040,
       "name": "Esta Noche",
       "url": "https://open.spotify.com/track/6RruB10Yvw1uCHHSIku5qW"
+    },
+    {
+      "added_at": "2022-09-02 03:52:02",
+      "album": {
+        "name": "Pensar en Ti (Remix)",
+        "url": "https://open.spotify.com/album/0rIT5HpbDY7RkiqZLfMtWK"
+      },
+      "artists": [
+        {
+          "name": "vf7",
+          "url": "https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 242553,
+      "name": "Pensar en Ti (Remix)",
+      "url": "https://open.spotify.com/track/2K0bFO9bEzx8t5UFEHAcyM"
     },
     {
       "added_at": "2022-09-02 03:52:02",
@@ -827,30 +827,6 @@
     {
       "added_at": "2022-09-02 03:52:02",
       "album": {
-        "name": "100 A\u00f1os (Con Calibre 50)",
-        "url": "https://open.spotify.com/album/0EHD1gdUFjhkeQkJVuLZQa"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 215092,
-      "name": "100 A\u00f1os - Con Calibre 50",
-      "url": "https://open.spotify.com/track/5CxyOGC6zPaZ190hXuH5FO"
-    },
-    {
-      "added_at": "2022-09-02 03:52:02",
-      "album": {
         "name": "Enfermo de Riqueza",
         "url": "https://open.spotify.com/album/24l98xY35ZOq2Lwn8dU0Wr"
       },
@@ -871,6 +847,30 @@
       "duration_ms": 234611,
       "name": "Enfermo de Riqueza",
       "url": "https://open.spotify.com/track/0sS3OIqLs2RcccCyR71h6s"
+    },
+    {
+      "added_at": "2022-09-02 03:52:02",
+      "album": {
+        "name": "100 A\u00f1os (Con Calibre 50)",
+        "url": "https://open.spotify.com/album/0EHD1gdUFjhkeQkJVuLZQa"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 215092,
+      "name": "100 A\u00f1os - Con Calibre 50",
+      "url": "https://open.spotify.com/track/5CxyOGC6zPaZ190hXuH5FO"
     },
     {
       "added_at": "2022-09-02 03:52:02",

@@ -2,9 +2,9 @@
 
 ### [Radar Africa](https://open.spotify.com/playlist/37i9dQZF1DWYc8Z858eGwP)
 
-> The most exciting new artists on the rise from the African continent & diaspora\. Cover: <a href="https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x?si=2Z\_eWOihTqGB\-pNPgDE\-VA">BNXN</a>
+> The most exciting new artists on the rise from the African continent & diaspora\. Cover: <a href="https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq?si=wayNsUeRQpG6I2LJ7ptwYg">Ayra Starr </a>
 
-118 songs - 6 hr 36 min - [published](https://open.spotify.com/playlist/1XAJ71W9OWLJNt1VAjOZn2)
+119 songs - 6 hr 39 min - [published](https://open.spotify.com/playlist/1XAJ71W9OWLJNt1VAjOZn2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Abotr3 \(Patience\)](https://open.spotify.com/track/6N9GrK3OSdZPgiFnXEnucr) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Patience](https://open.spotify.com/album/2PzZi8aAV2myyFYZp6Udna) | 2:58 | 2022-05-05 | 2022-06-17 |
 | [Apollo](https://open.spotify.com/track/3OsZkVwyJhGLJ0KrdUx23o) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Apollo](https://open.spotify.com/album/3yblFXYTz2eKaNd36H6QQz) | 2:50 | 2022-05-05 |  |
 | [As Friends](https://open.spotify.com/track/1tRdrgjBQB6qVgxpbcW9UV) | [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [Malone](https://open.spotify.com/album/5W8itXoVnGvXNDOCEiPywy) | 3:32 | 2021-05-03 | 2022-05-06 |
-| [ASE \- A COLORS SHOW](https://open.spotify.com/track/5fM2O9Lz5T8yN9YiJJs2qp) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [ASE \- A COLORS SHOW](https://open.spotify.com/album/2fr1fy0P8A1Cjt1NjaPN3E) | 2:44 | 2022-06-05 |  |
+| [ASE \- A COLORS SHOW](https://open.spotify.com/track/5fM2O9Lz5T8yN9YiJJs2qp) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [ASE \- A COLORS SHOW](https://open.spotify.com/album/2fr1fy0P8A1Cjt1NjaPN3E) | 2:44 | 2022-06-05 | 2022-09-16 |
 | [Away](https://open.spotify.com/track/47eAURQmsBK5e5cliaObFm) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Ayra Starr](https://open.spotify.com/album/3drpxIB5lrsy5SOmVCoPwc) | 2:49 | 2021-01-27 | 2022-05-06 |
 | [Baby Riddim](https://open.spotify.com/track/77eZIuMTB9HrQ86L4ljqEX) | [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Baby Riddim](https://open.spotify.com/album/6dCmbmHyfCQpmJGZW9Am3b) | 3:10 | 2021-11-19 |  |
 | [Bambelela](https://open.spotify.com/track/4X4NsxuVdB1ygIMbHuctBz) | [DBN Gogo](https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l), [Felo Le Tee](https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV), [Pabi Cooper](https://open.spotify.com/artist/6EG9v86LsCoq5HS4Jj1zCQ), [Young Stunna](https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ) | [Bambelela](https://open.spotify.com/album/14FNXaJ642dVgwg3zfqx2K) | 6:36 | 2022-05-05 |  |
@@ -98,6 +98,7 @@
 | [Respond](https://open.spotify.com/track/6iSja01gi2IzB9UnhTcO0h) | [Miči](https://open.spotify.com/artist/1aJGoykRBEjrMcNWOhV5am), [Sun\-El Musician](https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6) | [Respond](https://open.spotify.com/album/7McnmWbjiS1jfTZmMLa3n7) | 4:02 | 2022-05-05 | 2022-08-26 |
 | [Rocking](https://open.spotify.com/track/0z0hrjBtCLS8WnQXWtKOWP) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Rocking](https://open.spotify.com/album/395ZQ2fcdW98tZkso2TViP) | 2:46 | 2022-05-05 |  |
 | [Ruger](https://open.spotify.com/track/39RFbhX6RVTnXn2ml9yVbK) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Ruger](https://open.spotify.com/album/6yzz9A35I5uLUmC71RTxtr) | 3:11 | 2021-05-03 | 2022-05-06 |
+| [Rush](https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Rush](https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E) | 3:05 | 2022-09-15 |  |
 | [Rush](https://open.spotify.com/track/3NEXGg6cMdI0GsVLGICfRK) | [Dangbana Republik](https://open.spotify.com/artist/5ezmlxcj3HQvg2XZamXlZK), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Rush](https://open.spotify.com/album/5WCFPVpJnQa2AshrkRnNEa) | 2:30 | 2021-05-03 | 2022-05-06 |
 | [Rush](https://open.spotify.com/track/1LMWfVvvq5d9n7zbTn7pGt) | [Dangbana Republik](https://open.spotify.com/artist/5ezmlxcj3HQvg2XZamXlZK), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [High Tension 2.0](https://open.spotify.com/album/43564usP2MXDmGPsjPHL8q) | 2:30 | 2022-05-05 | 2022-06-17 |
 | [Second Sermon](https://open.spotify.com/track/6quFWbUf88BS0pWUNrwVCR) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Second Sermon](https://open.spotify.com/album/1WtUCwDqTypySaG8c5yC8C) | 2:46 | 2021-10-08 | 2022-05-06 |

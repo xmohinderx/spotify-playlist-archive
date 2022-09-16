@@ -1,12 +1,12 @@
 {
   "description": "Anthems from the early days of recorded rap music.",
-  "num_followers": 319420,
+  "num_followers": 319506,
   "original_name": "I Love My '80s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY1MjA1NCwwMDAwMDAwMDNkNGQ0NGZmMjI5YWYwZTg4MGVkZGQ4N2M4MjVhYzY3",
+  "snapshot_id": "MTY2MjY1MjA1NCwwMDAwMDAwMDdkYjFiZjNkMDRkYjdmNjA1NjZlNjc0NmU2MGZmNTAw",
   "tracks": [
     {
       "added_at": "2022-09-08 15:47:34",
@@ -691,22 +691,6 @@
     {
       "added_at": "2022-09-08 15:47:34",
       "album": {
-        "name": "Hey DJ",
-        "url": "https://open.spotify.com/album/06c1nSdZa3jT2UCn024dV2"
-      },
-      "artists": [
-        {
-          "name": "Worlds Famous Supreme Team",
-          "url": "https://open.spotify.com/artist/01VXEpueAsBp3I5CAFUnti"
-        }
-      ],
-      "duration_ms": 206081,
-      "name": "Hey DJ",
-      "url": "https://open.spotify.com/track/7tW7kmX6o8avIUxN8yBUEo"
-    },
-    {
-      "added_at": "2022-09-08 15:47:34",
-      "album": {
         "name": "The Collection",
         "url": "https://open.spotify.com/album/3jfl2KnD4xXTDWXNNlg9Gz"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 279866,
       "name": "Friends",
       "url": "https://open.spotify.com/track/2GLDYbNCRgsZTBhrBqhdm0"
+    },
+    {
+      "added_at": "2022-09-08 15:47:34",
+      "album": {
+        "name": "Hey DJ",
+        "url": "https://open.spotify.com/album/06c1nSdZa3jT2UCn024dV2"
+      },
+      "artists": [
+        {
+          "name": "Worlds Famous Supreme Team",
+          "url": "https://open.spotify.com/artist/01VXEpueAsBp3I5CAFUnti"
+        }
+      ],
+      "duration_ms": 206081,
+      "name": "Hey DJ",
+      "url": "https://open.spotify.com/track/7tW7kmX6o8avIUxN8yBUEo"
     },
     {
       "added_at": "2022-09-08 15:47:34",
@@ -967,18 +967,18 @@
     {
       "added_at": "2022-09-08 15:47:34",
       "album": {
-        "name": "Critical Beatdown (Re-Issue)",
-        "url": "https://open.spotify.com/album/2nyDfMhGBwxbpfpyYtnBSJ"
+        "name": "Al-Naafyish",
+        "url": "https://open.spotify.com/album/7uOndksGzmAduRTenxvVIt"
       },
       "artists": [
         {
-          "name": "Ultramagnetic MC's",
-          "url": "https://open.spotify.com/artist/52ik8mwcuZ4ISphAkejj2Z"
+          "name": "Hashim",
+          "url": "https://open.spotify.com/artist/6AWyFSk8mBekuHeotBV1Jx"
         }
       ],
-      "duration_ms": 326680,
-      "name": "Ego Trippin'",
-      "url": "https://open.spotify.com/track/0WVqFNhP455QxcS1VhIWmo"
+      "duration_ms": 374666,
+      "name": "Al-Naafyish - Time",
+      "url": "https://open.spotify.com/track/6nDk4QT1fDe0S86PxijTUE"
     },
     {
       "added_at": "2022-09-08 15:47:34",
@@ -999,18 +999,18 @@
     {
       "added_at": "2022-09-08 15:47:34",
       "album": {
-        "name": "Al-Naafyish",
-        "url": "https://open.spotify.com/album/7uOndksGzmAduRTenxvVIt"
+        "name": "Critical Beatdown (Re-Issue)",
+        "url": "https://open.spotify.com/album/2nyDfMhGBwxbpfpyYtnBSJ"
       },
       "artists": [
         {
-          "name": "Hashim",
-          "url": "https://open.spotify.com/artist/6AWyFSk8mBekuHeotBV1Jx"
+          "name": "Ultramagnetic MC's",
+          "url": "https://open.spotify.com/artist/52ik8mwcuZ4ISphAkejj2Z"
         }
       ],
-      "duration_ms": 374666,
-      "name": "Al-Naafyish - Time",
-      "url": "https://open.spotify.com/track/6nDk4QT1fDe0S86PxijTUE"
+      "duration_ms": 326680,
+      "name": "Ego Trippin'",
+      "url": "https://open.spotify.com/track/0WVqFNhP455QxcS1VhIWmo"
     },
     {
       "added_at": "2022-09-08 15:47:34",

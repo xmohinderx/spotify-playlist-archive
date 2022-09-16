@@ -1,12 +1,12 @@
 {
   "description": "Get your Sunday sound right with this collection of current Gospel essentials.",
-  "num_followers": 70925,
+  "num_followers": 70945,
   "original_name": "Sundays Best",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MTE5NDc5MCwwMDAwMDAwMGFjZTU4NTJhMzMwZjFmYjYyYTk3YzEzMGQ4ODc4ZDc0",
+  "snapshot_id": "MTU5MTE5NDc5MCwwMDAwMDAwMDBjODIwYzRjODY3NTNkODQyYjU4MDUzMTBlMzM1YmFh",
   "tracks": [
     {
       "added_at": "2020-06-03 14:33:10",
@@ -307,22 +307,6 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
-        "name": "From The Heart",
-        "url": "https://open.spotify.com/album/5pnV5VmY1HYPnRBa3yagGq"
-      },
-      "artists": [
-        {
-          "name": "Jessica Reedy",
-          "url": "https://open.spotify.com/artist/53AfsMeg6Tr5kAejn7pON6"
-        }
-      ],
-      "duration_ms": 246106,
-      "name": "Put It On The Altar",
-      "url": "https://open.spotify.com/track/1no67NVun0BIparrhLtPM6"
-    },
-    {
-      "added_at": "2020-06-03 14:33:10",
-      "album": {
         "name": "Deliver Me (This Is My Exodus) (feat. Le'Andria Johnson)",
         "url": "https://open.spotify.com/album/3vP8VfkQVpGJSviXLmk9ls"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 344325,
       "name": "Deliver Me (This Is My Exodus) (feat. Le'Andria Johnson)",
       "url": "https://open.spotify.com/track/4imwSeFR8R3yKpfD2yNI2r"
+    },
+    {
+      "added_at": "2020-06-03 14:33:10",
+      "album": {
+        "name": "From The Heart",
+        "url": "https://open.spotify.com/album/5pnV5VmY1HYPnRBa3yagGq"
+      },
+      "artists": [
+        {
+          "name": "Jessica Reedy",
+          "url": "https://open.spotify.com/artist/53AfsMeg6Tr5kAejn7pON6"
+        }
+      ],
+      "duration_ms": 246106,
+      "name": "Put It On The Altar",
+      "url": "https://open.spotify.com/track/1no67NVun0BIparrhLtPM6"
     },
     {
       "added_at": "2020-06-03 14:33:10",
@@ -579,22 +579,6 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
-        "name": "Dear Future Me",
-        "url": "https://open.spotify.com/album/3di3Ns3BssEWFGZ8QeLZSt"
-      },
-      "artists": [
-        {
-          "name": "James Fortune",
-          "url": "https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH"
-        }
-      ],
-      "duration_ms": 276423,
-      "name": "I Forgive Me",
-      "url": "https://open.spotify.com/track/3nY9M5V1T62fOwRJieUkJd"
-    },
-    {
-      "added_at": "2020-06-03 14:33:10",
-      "album": {
         "name": "Listen",
         "url": "https://open.spotify.com/album/5YChjVISCxpP25SXcAeEQm"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 295213,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/0RZfOr4ZxPJYOGqfhSQqoo"
+    },
+    {
+      "added_at": "2020-06-03 14:33:10",
+      "album": {
+        "name": "Dear Future Me",
+        "url": "https://open.spotify.com/album/3di3Ns3BssEWFGZ8QeLZSt"
+      },
+      "artists": [
+        {
+          "name": "James Fortune",
+          "url": "https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH"
+        }
+      ],
+      "duration_ms": 276423,
+      "name": "I Forgive Me",
+      "url": "https://open.spotify.com/track/3nY9M5V1T62fOwRJieUkJd"
     },
     {
       "added_at": "2020-06-03 14:33:10",
@@ -735,22 +735,6 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
-        "name": "One Nation Under God",
-        "url": "https://open.spotify.com/album/3fdcELLJcdrGFL2VJQu6VP"
-      },
-      "artists": [
-        {
-          "name": "Jekalyn Carr",
-          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
-        }
-      ],
-      "duration_ms": 418261,
-      "name": "It's Yours",
-      "url": "https://open.spotify.com/track/0xYwbNvw4TburjOJYs0GpQ"
-    },
-    {
-      "added_at": "2020-06-03 14:33:10",
-      "album": {
         "name": "Life Music: Stage Two",
         "url": "https://open.spotify.com/album/2akE85yBX94ruIAOjR7ru4"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 176969,
       "name": "Gotta Have You",
       "url": "https://open.spotify.com/track/1JhJUr6uQ2bf8CNcVsARr4"
+    },
+    {
+      "added_at": "2020-06-03 14:33:10",
+      "album": {
+        "name": "One Nation Under God",
+        "url": "https://open.spotify.com/album/3fdcELLJcdrGFL2VJQu6VP"
+      },
+      "artists": [
+        {
+          "name": "Jekalyn Carr",
+          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
+        }
+      ],
+      "duration_ms": 418261,
+      "name": "It's Yours",
+      "url": "https://open.spotify.com/track/0xYwbNvw4TburjOJYs0GpQ"
     },
     {
       "added_at": "2020-06-03 14:33:10",
@@ -979,22 +979,6 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
-        "name": "Close",
-        "url": "https://open.spotify.com/album/61YnH58KCdWzLWjkbRES9H"
-      },
-      "artists": [
-        {
-          "name": "Marvin Sapp",
-          "url": "https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo"
-        }
-      ],
-      "duration_ms": 249173,
-      "name": "Kind God",
-      "url": "https://open.spotify.com/track/42lwMiKlH2nVmvnOtVFTHy"
-    },
-    {
-      "added_at": "2020-06-03 14:33:10",
-      "album": {
         "name": "Bigger Than Me",
         "url": "https://open.spotify.com/album/4nTMAzLLBuB1YrKOEjcVe4"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 259853,
       "name": "Bigger Than Me",
       "url": "https://open.spotify.com/track/1d4fH9BBbKwZmq2CJynsuL"
+    },
+    {
+      "added_at": "2020-06-03 14:33:10",
+      "album": {
+        "name": "Close",
+        "url": "https://open.spotify.com/album/61YnH58KCdWzLWjkbRES9H"
+      },
+      "artists": [
+        {
+          "name": "Marvin Sapp",
+          "url": "https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo"
+        }
+      ],
+      "duration_ms": 249173,
+      "name": "Kind God",
+      "url": "https://open.spotify.com/track/42lwMiKlH2nVmvnOtVFTHy"
     }
   ],
   "unique_name": "Sundays Best",

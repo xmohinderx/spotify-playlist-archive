@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Vamos a bailar con Dios!",
-  "num_followers": 95287,
+  "num_followers": 95341,
   "original_name": "Baila Con Dios",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwMDQwNTMyMCwwMDAwMDAwMDA3YzRjNWFlMDRlYzQ1YzhiNDcyY2FkZDBlM2JmMTk0",
+  "snapshot_id": "MTYwMDQwNTMyMCwwMDAwMDAwMDUyNDEyMDM2NDQzNTIzYmQ2ODFlMjMwNTNiYWFlNjhm",
   "tracks": [
     {
       "added_at": "2020-09-18 05:02:00",
@@ -455,22 +455,6 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "30 Bachatas Cristianas Pegaditas",
-        "url": "https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt"
-      },
-      "artists": [
-        {
-          "name": "Jhonny Rafael",
-          "url": "https://open.spotify.com/artist/5ignJ7cAgLFhc8Rp1sNhJW"
-        }
-      ],
-      "duration_ms": 268613,
-      "name": "Sinceridad",
-      "url": "https://open.spotify.com/track/6N49H4sNWlPvytIiNmjVzB"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
         "name": "Contigo Todo Es Posible",
         "url": "https://open.spotify.com/album/71ocNlRBhhM7EPMUxDX7g2"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 245173,
       "name": "Vivo por Cristo",
       "url": "https://open.spotify.com/track/1uqbbNbQf2vpYEXeLR5W5d"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
+        "name": "30 Bachatas Cristianas Pegaditas",
+        "url": "https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt"
+      },
+      "artists": [
+        {
+          "name": "Jhonny Rafael",
+          "url": "https://open.spotify.com/artist/5ignJ7cAgLFhc8Rp1sNhJW"
+        }
+      ],
+      "duration_ms": 268613,
+      "name": "Sinceridad",
+      "url": "https://open.spotify.com/track/6N49H4sNWlPvytIiNmjVzB"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
         }
       ],
-      "duration_ms": 250435,
-      "name": "Agradecido Estoy",
-      "url": "https://open.spotify.com/track/4hyYpJPQggt4G3butLCsRD"
+      "duration_ms": 226324,
+      "name": "Por un Minuto Tu Precensia",
+      "url": "https://open.spotify.com/track/7GirW2LozXf84Mhg9Yv7uF"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -800,9 +800,9 @@
           "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
         }
       ],
-      "duration_ms": 226324,
-      "name": "Por un Minuto Tu Precensia",
-      "url": "https://open.spotify.com/track/7GirW2LozXf84Mhg9Yv7uF"
+      "duration_ms": 250435,
+      "name": "Agradecido Estoy",
+      "url": "https://open.spotify.com/track/4hyYpJPQggt4G3butLCsRD"
     },
     {
       "added_at": "2020-09-18 05:02:00",

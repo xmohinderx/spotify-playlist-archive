@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest house music, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 5,225 likes - 25 songs - 1 hr 25 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 5,227 likes - 25 songs - 1 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Over & Over](https://open.spotify.com/track/5yxZgGzAoRUntxuqBeiX7a) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [Over & Over](https://open.spotify.com/album/1SAh2fP7h6BYUlNtZvlTj0) | 3:34 |
 | 2 | [Don't Wanna Go](https://open.spotify.com/track/7Egwrj96WlechP11rChGK9) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [Stephen Kirkwood](https://open.spotify.com/artist/2B3Vmzyhy4QFnY02UKyMi5) | [Don't Wanna Go](https://open.spotify.com/album/6Dp2Nw9Ukc2C5RyAfAziTp) | 3:00 |
 | 3 | [Darkness Into Light \- Deeper Purpose Remix](https://open.spotify.com/track/3NQosABBkclbecIgAVo0nW) | [Tommy Trash](https://open.spotify.com/artist/1tBU8jUEdVR3mqSsAqEGfD), [Go Freek](https://open.spotify.com/artist/2aRd7rRSUjtZ6WPG5GsBO6), [Lucy Lucy](https://open.spotify.com/artist/7uYoEtXQoNAmnvOkIPjwcs), [Deeper Purpose](https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r) | [Darkness Into Light \(Deeper Purpose Remix\)](https://open.spotify.com/album/0vEOdimSAB96M8Ly3YLL0q) | 3:07 |
-| 4 | [No Sleep, No Guidance \- Radio Edit](https://open.spotify.com/track/2TaqYqpPhV6ygWthhROz7P) | [Sonickraft](https://open.spotify.com/artist/6TM9nl47jBGEA9C2nsUP4o) | [No Sleep, No Guidance \(Radio Edit\)](https://open.spotify.com/album/6QICJVoAzzZUROBTSEVCBE) | 2:47 |
+| 4 | [No Guidance, No Sleep \- Radio Edit](https://open.spotify.com/track/2TaqYqpPhV6ygWthhROz7P) | [Sonickraft](https://open.spotify.com/artist/6TM9nl47jBGEA9C2nsUP4o) | [No Guidance, No Sleep \(Radio Edit\)](https://open.spotify.com/album/6QICJVoAzzZUROBTSEVCBE) | 2:47 |
 | 5 | [Step Correct](https://open.spotify.com/track/6NlCfMAf2BUR8rLpnyYb0p) | [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82), [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM) | [Step Correct](https://open.spotify.com/album/6mWSOP4xoZPRMrNEXHt3Fd) | 2:33 |
 | 6 | [Over You](https://open.spotify.com/track/6N3gAHf63OwvFP5Q4JrsjS) | [Local Singles](https://open.spotify.com/artist/14P4DGZruzTjyQsglomkYp) | [Over You](https://open.spotify.com/album/4jv09rXW2RiPraJduSQEaX) | 3:22 |
 | 7 | [Dipped In $ugar](https://open.spotify.com/track/37IKuXFdoYsfL4RyoxhO6k) | [€URO TRA$H](https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9), [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh) | [Dipped In $ugar](https://open.spotify.com/album/0NBWcDaIvs1YxDeuLkqA5Y) | 3:50 |

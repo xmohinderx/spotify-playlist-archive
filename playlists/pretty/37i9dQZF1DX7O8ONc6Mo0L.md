@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 
 > Relaxe com hinos acústicos\. Foto: Gabriel Guedes de Almeida
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,878 likes - 80 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,972 likes - 80 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 | 37 | [Recomeçar](https://open.spotify.com/track/38xsb628AajcMiMOXr3MR6) | [Diego Karter](https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF) | [Recomeçar](https://open.spotify.com/album/6RCZVCNWPM87w17ZNP4Tcv) | 3:50 |
 | 38 | [Na Casa](https://open.spotify.com/track/4ogfIbc7uyb6M2btL5VJXj) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD) | [Na Casa](https://open.spotify.com/album/3CXvWLGCOKSVO8qI6dDqMN) | 3:11 |
 | 39 | [Encaixe](https://open.spotify.com/track/0HpeuEm6f4TRJzwuItkX0h) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Encaixe](https://open.spotify.com/album/5tD8hdyOaLddaSlKwHlWO5) | 3:42 |
-| 40 | [Cicatrizes](https://open.spotify.com/track/1cHIMrCWPWCAgnFeG7URQp) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Cicatrizes](https://open.spotify.com/album/11wqz4WKKxY68CDLihmEwl) | 3:35 |
+| 40 | [Melhor Lugar: Sessão Acústica](https://open.spotify.com/track/7fpvwvVR2zhNaWUAUDXznF) | [Marcelo Markes](https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2) | [Melhor Lugar: Sessão Acústica](https://open.spotify.com/album/1Rz6o5OcmhO1YevBCg8bvw) | 4:12 |
 | 41 | [Som das Águas \- Acústico](https://open.spotify.com/track/6H6M4j6KRN22amTC0p9ZyJ) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Som das Águas \(Acústico\)](https://open.spotify.com/album/332OkIGSvCq0dVFyiWwrbB) | 3:45 |
-| 42 | [Melhor Lugar: Sessão Acústica](https://open.spotify.com/track/7fpvwvVR2zhNaWUAUDXznF) | [Marcelo Markes](https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2) | [Melhor Lugar: Sessão Acústica](https://open.spotify.com/album/1Rz6o5OcmhO1YevBCg8bvw) | 4:12 |
+| 42 | [Cicatrizes](https://open.spotify.com/track/1cHIMrCWPWCAgnFeG7URQp) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Cicatrizes](https://open.spotify.com/album/11wqz4WKKxY68CDLihmEwl) | 3:35 |
 | 43 | [Nova Canção](https://open.spotify.com/track/5JcCic5iKIIb5WMyUuitjv) | [Vocal Livre](https://open.spotify.com/artist/36vknDs4OtlCZuloFIJAhN) | [Nova Canção](https://open.spotify.com/album/4mPuEgVk5pp3FB10P7xIJA) | 6:04 |
 | 44 | [Aba \- Acústico](https://open.spotify.com/track/2tKatbCNaw5fmdCUcX0ehw) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm) | [Filhos Acústico](https://open.spotify.com/album/2rmRfedhDgarSjsUvod3QA) | 4:08 |
 | 45 | [Seu Amor: YOUnique \- Acústico](https://open.spotify.com/track/3m0CtqEbzclwKxit7C48T3) | [LUDI](https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde) | [Seu Amor: YOUnique \(Acústico\)](https://open.spotify.com/album/1279LGdx3pj2hv2p0hivMA) | 7:24 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 | 69 | [Valeu a Pena: Releitura](https://open.spotify.com/track/49pcbzSIk8GU3SZ1geQowm) | [Vocal Livre](https://open.spotify.com/artist/36vknDs4OtlCZuloFIJAhN), [Mari Marques](https://open.spotify.com/artist/6Fi2a2JgeYRENRKPCdXTwS) | [Releituras](https://open.spotify.com/album/2tg2BbJGxG6ygnGLGFJ0aT) | 3:54 |
 | 70 | [Tens Meu Coração](https://open.spotify.com/track/2U26JR0DawBOmdPZ44aIQB) | [Israel Salazar](https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC) | [Tens Meu Coração](https://open.spotify.com/album/26sVPHIvF6MAd0KU3SOKEn) | 5:40 |
 | 71 | [Nova Canção](https://open.spotify.com/track/4lQvKqzgMgwdsNnSGLkzlP) | [Felipe Valente](https://open.spotify.com/artist/3tybwof5hhq09nqwDiESev) | [Nova Canção](https://open.spotify.com/album/5JSTFlvhD0OyS6lEO5ztiq) | 3:26 |
-| 72 | [Muda os Planos \- Ao Vivo](https://open.spotify.com/track/6IMGV8bFVfP8SARKRnWDfs) | [Ventania](https://open.spotify.com/artist/4ZgHby6oTRKwiGbf38dPs1), [Pedro Valença](https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7), [Manu](https://open.spotify.com/artist/7gz120VZ7N6mvk7nfq8cXV) | [Muda os Planos \(Ao Vivo\)](https://open.spotify.com/album/3sAkhNWVeIjO8GWWc8YFSk) | 4:50 |
-| 73 | [Ele Mudará](https://open.spotify.com/track/2X4wT4QUUQl7tL9dI0ELH8) | [Gabriel Tavela](https://open.spotify.com/artist/2oKH8ULbVEfOGrquTeOgh3) | [Ele Mudará](https://open.spotify.com/album/3su6MTa1S1Zrli6mCyfGKZ) | 4:00 |
+| 72 | [Ele Mudará](https://open.spotify.com/track/2X4wT4QUUQl7tL9dI0ELH8) | [Gabriel Tavela](https://open.spotify.com/artist/2oKH8ULbVEfOGrquTeOgh3) | [Ele Mudará](https://open.spotify.com/album/3su6MTa1S1Zrli6mCyfGKZ) | 4:00 |
+| 73 | [Muda os Planos \- Ao Vivo](https://open.spotify.com/track/6IMGV8bFVfP8SARKRnWDfs) | [Ventania](https://open.spotify.com/artist/4ZgHby6oTRKwiGbf38dPs1), [Pedro Valença](https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7), [Manu](https://open.spotify.com/artist/7gz120VZ7N6mvk7nfq8cXV) | [Muda os Planos \(Ao Vivo\)](https://open.spotify.com/album/3sAkhNWVeIjO8GWWc8YFSk) | 4:50 |
 | 74 | [Quem Sou](https://open.spotify.com/track/3R8AdlPHOXTNpnzUoUqcpK) | [PEDRAZUL](https://open.spotify.com/artist/5A2Slemy1IuX9KdV8xjCfA) | [Quem Sou](https://open.spotify.com/album/3K30LIMDmshPzNLSOqMOPj) | 4:30 |
 | 75 | [O Que Meu Deus Vai Fazer \(Essência Sessions\)](https://open.spotify.com/track/5NWZfAvvjPkXxz00Vugg9q) | [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi) | [O Que Meu Deus Vai Fazer \(Essência Sessions\)](https://open.spotify.com/album/2YzdSN1IQZJlISrbINPnSM) | 4:31 |
 | 76 | [No Secreto](https://open.spotify.com/track/3e8PGGVzq84sBU1EuGBJ9k) | [Israel Salazar](https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC) | [No Secreto](https://open.spotify.com/album/6OGCe2qL5x7Xh3cWbuOk6K) | 6:50 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 | 79 | [Calvário \- Acústico](https://open.spotify.com/track/1iDULS2J3cedW8dNWk0XXX) | [Heric Tolentino](https://open.spotify.com/artist/6pAfGMs1Egz9IPChjCFJ8k), [Priscila Olly](https://open.spotify.com/artist/5hK2DFyP32D2bS9oQzbwzy) | [Calvário \(Acústico\)](https://open.spotify.com/album/4hqJjhLBxT06bavOHts4ei) | 5:32 |
 | 80 | [Eu Te Agradeço \(Essência Sessions\)](https://open.spotify.com/track/2gMLLBjJgVTWiH4u8X3xVV) | [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi) | [Weslei Santos no Essência Sessions](https://open.spotify.com/album/57c7bRChhj4vPRaeafLnI5) | 5:00 |
 
-Snapshot ID: `MTY2MjA4NzYwMCwwMDAwMDAwMGQyNzdjZTM3MzRiMjIwZDVhMjMxOTRlYzZhOGE2NzE5`
+Snapshot ID: `MTY2MjA4NzYwMCwwMDAwMDAwMGY0ZDA4YWQ5YTRiYzc2OTQ1NWIxODBiMjdkYjkwNTJm`

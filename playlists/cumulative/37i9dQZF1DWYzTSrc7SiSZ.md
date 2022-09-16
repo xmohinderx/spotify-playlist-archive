@@ -4,7 +4,7 @@
 
 > Get the chill vibes going and flowing\. Las vibras tranqui que ocupas en tu vida.
 
-174 songs - 9 hr 15 min - [published](https://open.spotify.com/playlist/3GQU0MupClx0MsKK9HJHgw)
+175 songs - 9 hr 18 min - [published](https://open.spotify.com/playlist/3GQU0MupClx0MsKK9HJHgw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,8 @@
 | [Más](https://open.spotify.com/track/6mBo4qsU84G7R9AlUiEH2X) | [Sofía Paola](https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx) | [Más](https://open.spotify.com/album/4WTCqF2U70MdKiBK3RwbZ7) | 3:07 | 2022-08-10 |  |
 | [Nada Más Que Hablar](https://open.spotify.com/track/3Yf06TiTW89uu20Iyz32VJ) | [Chita](https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX), [0\-600](https://open.spotify.com/artist/07Hm9w6ksRaggaDBpN8RRd), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV) | [Encanto](https://open.spotify.com/album/26AjKOBqXEbgvvYQNLydR7) | 3:53 | 2022-05-20 |  |
 | [Nadie Nos Entiende](https://open.spotify.com/track/0lvQ5BPdyuOKqNqhptZsrA) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Willy Rodríguez](https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee) | [Nadie Nos Entiende](https://open.spotify.com/album/6Vbahwg4jyo7Z64F8z9Ky2) | 3:37 | 2022-05-20 |  |
-| [Nena](https://open.spotify.com/track/4fWY8QZsAhEF0WeI20QhMj) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [Nena](https://open.spotify.com/album/6GeMiynuj56geayA7AqRra) | 2:33 | 2022-05-20 |  |
+| [Nena](https://open.spotify.com/track/4fWY8QZsAhEF0WeI20QhMj) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [Nena](https://open.spotify.com/album/6GeMiynuj56geayA7AqRra) | 2:33 | 2022-05-20 | 2022-09-16 |
+| [Nena](https://open.spotify.com/track/5kJrMogX8dnZvwJVRQct8l) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [Nena](https://open.spotify.com/album/5eYJgVtDk7Az1vRWKNfuzY) | 2:33 | 2022-09-06 |  |
 | [Nena \- A COLORS SHOW](https://open.spotify.com/track/26qnhVT3knfCVlQiXfjxVE) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [Nena \- A COLORS SHOW](https://open.spotify.com/album/6GMSnfdnHXTanv49nBwdtJ) | 2:33 | 2022-05-20 | 2022-07-29 |
 | [Nena \- A COLORS SHOW](https://open.spotify.com/track/7rlKjHvYFlAjMIUDY1CMLu) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [Nena \- A COLORS SHOW](https://open.spotify.com/album/1kPIabHrJ8UwfkleGFtQ8m) | 2:33 | 2022-07-11 |  |
 | [No Eres Tú, Soy Yo](https://open.spotify.com/track/0yyXYlCgvoiKjm9T7k23q1) | [Andry Kiddos](https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2) | [Confíen En Mí](https://open.spotify.com/album/3Zh7CHXu7JfbaRThiXjfDy) | 1:48 | 2022-05-20 |  |

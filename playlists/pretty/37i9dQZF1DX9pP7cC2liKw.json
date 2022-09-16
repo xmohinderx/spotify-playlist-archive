@@ -1,12 +1,12 @@
 {
   "description": "Immerse yourself in the mysticism of Tulum!",
-  "num_followers": 51691,
+  "num_followers": 51982,
   "original_name": "Tulum Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzAxNTczNCwwMDAwMDAwMDgyYmVlMjUxN2U5YjA4MDg3N2FkNmNjNThlZGMwMzVj",
+  "snapshot_id": "MTY2MzAxNTczNCwwMDAwMDAwMDllZjYzY2UxMTUyZmFkMmZkMDU3YmQwMTViOWVmNTdi",
   "tracks": [
     {
       "added_at": "2022-06-15 04:26:09",
@@ -511,6 +511,26 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
+        "name": "Aimez ces airs",
+        "url": "https://open.spotify.com/album/2He9SDdWsV0r3PdBPxjJrf"
+      },
+      "artists": [
+        {
+          "name": "DjeuhDjoah",
+          "url": "https://open.spotify.com/artist/6oay09Jpzlp3TKFbx7GBMY"
+        },
+        {
+          "name": "Lieutenant Nicholson",
+          "url": "https://open.spotify.com/artist/7veGa0wVnoD20wadhEUMq5"
+        }
+      ],
+      "duration_ms": 241487,
+      "name": "El ni\u00f1o",
+      "url": "https://open.spotify.com/track/4fCevXfseuEJRmPwmNnUZr"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
         "name": "Camino de Flores",
         "url": "https://open.spotify.com/album/0vdxye7k8StChBnsKnMjoo"
       },
@@ -531,26 +551,6 @@
       "duration_ms": 341500,
       "name": "Mirando El Fuego",
       "url": "https://open.spotify.com/track/4LWhuOXAg8TiEH87RATu5X"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Aimez ces airs",
-        "url": "https://open.spotify.com/album/2He9SDdWsV0r3PdBPxjJrf"
-      },
-      "artists": [
-        {
-          "name": "DjeuhDjoah",
-          "url": "https://open.spotify.com/artist/6oay09Jpzlp3TKFbx7GBMY"
-        },
-        {
-          "name": "Lieutenant Nicholson",
-          "url": "https://open.spotify.com/artist/7veGa0wVnoD20wadhEUMq5"
-        }
-      ],
-      "duration_ms": 241487,
-      "name": "El ni\u00f1o",
-      "url": "https://open.spotify.com/track/4fCevXfseuEJRmPwmNnUZr"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -663,6 +663,22 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
+        "name": "Cenotes",
+        "url": "https://open.spotify.com/album/7yxXs09QqG9iq1Mk6dsK5O"
+      },
+      "artists": [
+        {
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Manana Tepotzlan",
+      "url": "https://open.spotify.com/track/73myc2rii2DVG3HpTkGOnl"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
         "name": "El Abuelo",
         "url": "https://open.spotify.com/album/0x7kpSHrkQrqMxrvwbpAPU"
       },
@@ -683,22 +699,6 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Cenotes",
-        "url": "https://open.spotify.com/album/7yxXs09QqG9iq1Mk6dsK5O"
-      },
-      "artists": [
-        {
-          "name": "El B\u00faho",
-          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Manana Tepotzlan",
-      "url": "https://open.spotify.com/track/73myc2rii2DVG3HpTkGOnl"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
         "name": "Feelings",
         "url": "https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi"
       },
@@ -711,26 +711,6 @@
       "duration_ms": 134220,
       "name": "Moody",
       "url": "https://open.spotify.com/track/213H9vfVfLc7m2zRVWgCmJ"
-    },
-    {
-      "added_at": "2022-08-13 00:58:04",
-      "album": {
-        "name": "P\u00e1jaros en Verano",
-        "url": "https://open.spotify.com/album/2LZp9KgxfRodgUI4NbKvWS"
-      },
-      "artists": [
-        {
-          "name": "Ela Minus",
-          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
-        },
-        {
-          "name": "DJ Python",
-          "url": "https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "P\u00e1jaros en Verano",
-      "url": "https://open.spotify.com/track/13T0NsBgMUpCQIPvpEWWTq"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -771,6 +751,26 @@
       "duration_ms": 149647,
       "name": "Morena",
       "url": "https://open.spotify.com/track/7z1q1J4zcB1d736GJZUkLa"
+    },
+    {
+      "added_at": "2022-08-13 00:58:04",
+      "album": {
+        "name": "P\u00e1jaros en Verano",
+        "url": "https://open.spotify.com/album/2LZp9KgxfRodgUI4NbKvWS"
+      },
+      "artists": [
+        {
+          "name": "Ela Minus",
+          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
+        },
+        {
+          "name": "DJ Python",
+          "url": "https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "P\u00e1jaros en Verano",
+      "url": "https://open.spotify.com/track/13T0NsBgMUpCQIPvpEWWTq"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -885,22 +885,6 @@
       "url": "https://open.spotify.com/track/3C8jZgiUP0pP1l58837NzH"
     },
     {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Hunch Music",
-        "url": "https://open.spotify.com/album/2Zkm6fLuFZ6gywkYeFsewV"
-      },
-      "artists": [
-        {
-          "name": "Hunee",
-          "url": "https://open.spotify.com/artist/6uElH4moADg7AGB3DCGOwy"
-        }
-      ],
-      "duration_ms": 351207,
-      "name": "Rare Happiness",
-      "url": "https://open.spotify.com/track/2bpvml9LqQIWz1wkiYUcv0"
-    },
-    {
       "added_at": "2022-08-11 18:18:05",
       "album": {
         "name": "French Samba",
@@ -915,6 +899,22 @@
       "duration_ms": 163181,
       "name": "French Samba",
       "url": "https://open.spotify.com/track/6wLK0SBUsxpfsl8XhxII7c"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Hunch Music",
+        "url": "https://open.spotify.com/album/2Zkm6fLuFZ6gywkYeFsewV"
+      },
+      "artists": [
+        {
+          "name": "Hunee",
+          "url": "https://open.spotify.com/artist/6uElH4moADg7AGB3DCGOwy"
+        }
+      ],
+      "duration_ms": 351207,
+      "name": "Rare Happiness",
+      "url": "https://open.spotify.com/track/2bpvml9LqQIWz1wkiYUcv0"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -951,6 +951,22 @@
       "duration_ms": 429913,
       "name": "Teu Sorriso - Jex Opolis Remix",
       "url": "https://open.spotify.com/track/7ts7Z6IW6zSsSPO2UEgnY8"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Safe Passage",
+        "url": "https://open.spotify.com/album/4nEl5WmNwaoRTUJZzJIH37"
+      },
+      "artists": [
+        {
+          "name": "Gitkin",
+          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
+        }
+      ],
+      "duration_ms": 214553,
+      "name": "Chicha Nola - Alternative Version",
+      "url": "https://open.spotify.com/track/0PNXaIFtSKlXDJSzWPy8YG"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -995,22 +1011,6 @@
       "duration_ms": 268956,
       "name": "Xica Xica",
       "url": "https://open.spotify.com/track/1IkN4xIoHRSkk0j5t50S42"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Safe Passage",
-        "url": "https://open.spotify.com/album/4nEl5WmNwaoRTUJZzJIH37"
-      },
-      "artists": [
-        {
-          "name": "Gitkin",
-          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
-        }
-      ],
-      "duration_ms": 214553,
-      "name": "Chicha Nola - Alternative Version",
-      "url": "https://open.spotify.com/track/0PNXaIFtSKlXDJSzWPy8YG"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1155,22 +1155,18 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Better When We're Close",
-        "url": "https://open.spotify.com/album/3QAQLlcR4CVx9ySkuNNnah"
+        "name": "Drama",
+        "url": "https://open.spotify.com/album/4XGFdSkArqglb0DLPeh8N5"
       },
       "artists": [
         {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        },
-        {
-          "name": "Brijean",
-          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
+          "name": "Rodrigo Amarante",
+          "url": "https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg"
         }
       ],
-      "duration_ms": 213453,
-      "name": "Better When We're Close",
-      "url": "https://open.spotify.com/track/3ZGIZOg6juy0TkF1Gy8Gzg"
+      "duration_ms": 213810,
+      "name": "Mar\u00e9",
+      "url": "https://open.spotify.com/track/2TGNiLgm0TpUVVDSdf1gyt"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1191,38 +1187,22 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Drama",
-        "url": "https://open.spotify.com/album/4XGFdSkArqglb0DLPeh8N5"
+        "name": "Better When We're Close",
+        "url": "https://open.spotify.com/album/3QAQLlcR4CVx9ySkuNNnah"
       },
       "artists": [
         {
-          "name": "Rodrigo Amarante",
-          "url": "https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg"
-        }
-      ],
-      "duration_ms": 213810,
-      "name": "Mar\u00e9",
-      "url": "https://open.spotify.com/track/2TGNiLgm0TpUVVDSdf1gyt"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "La Cura",
-        "url": "https://open.spotify.com/album/0SMT9ClQIEh49gPEIPH1Nf"
-      },
-      "artists": [
-        {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
         },
         {
-          "name": "Gizmo Varillas",
-          "url": "https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj"
+          "name": "Brijean",
+          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
         }
       ],
-      "duration_ms": 181000,
-      "name": "La Cura",
-      "url": "https://open.spotify.com/track/0UVwUs9TMKgee3kvE2uMxC"
+      "duration_ms": 213453,
+      "name": "Better When We're Close",
+      "url": "https://open.spotify.com/track/3ZGIZOg6juy0TkF1Gy8Gzg"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1243,6 +1223,26 @@
       "duration_ms": 293990,
       "name": "Agua de La Tierra - Nicola Cruz Remix",
       "url": "https://open.spotify.com/track/3z55fMIOftbrZrZ0Z7WbbW"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "La Cura",
+        "url": "https://open.spotify.com/album/0SMT9ClQIEh49gPEIPH1Nf"
+      },
+      "artists": [
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        },
+        {
+          "name": "Gizmo Varillas",
+          "url": "https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "La Cura",
+      "url": "https://open.spotify.com/track/0UVwUs9TMKgee3kvE2uMxC"
     },
     {
       "added_at": "2022-06-15 04:26:09",

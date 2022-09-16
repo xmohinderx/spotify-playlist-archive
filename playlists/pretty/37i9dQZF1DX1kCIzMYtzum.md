@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCIzMYtzum.md) - [plain]
 
 > The latest hits from your favourite festival legends\. Peace, love, unity, respect\. 💗
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,225 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,539 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCIzMYtzum.md) - [plain]
 | 30 | [Freeze](https://open.spotify.com/track/4X66U6SUjvZqiKYIpCWXnq) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [Freeze](https://open.spotify.com/album/3R2mQavCvrDfM3kZL2B8dh) | 8:07 |
 | 31 | [Anywhere With You](https://open.spotify.com/track/3wfNiPBrzDwuanE75Ar6pS) | [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX) | [Anywhere With You](https://open.spotify.com/album/6kLYOTLTjIjADp2VfU9qGQ) | 2:38 |
 | 32 | [Follow](https://open.spotify.com/track/5aXTfpNOqLj35ydEiLio67) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) | [Follow](https://open.spotify.com/album/0mHq8oTwln3MA72n3uHscJ) | 3:41 |
-| 33 | [My Feelings For You \- Don Diablo Remix](https://open.spotify.com/track/7brRnnzMQtAPybNOwbmRms) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Sebastien Drums](https://open.spotify.com/artist/0lHsjYcb3lGjkJQQqC6HVt), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [My Feelings For You \(Don Diablo Remix\)](https://open.spotify.com/album/32jpJfXBTiNcdVHSLib498) | 3:25 |
-| 34 | [Can U Dance \(To My Beat\)](https://open.spotify.com/track/3yRcwIkTVIJTEGAoPlsHbW) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Can U Dance \(To My Beat\)](https://open.spotify.com/album/6o3mSmaxrLrFnGB7IL8vtA) | 2:28 |
+| 33 | [Can U Dance \(To My Beat\)](https://open.spotify.com/track/3yRcwIkTVIJTEGAoPlsHbW) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Can U Dance \(To My Beat\)](https://open.spotify.com/album/6o3mSmaxrLrFnGB7IL8vtA) | 2:28 |
+| 34 | [My Feelings For You \- Don Diablo Remix](https://open.spotify.com/track/7brRnnzMQtAPybNOwbmRms) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Sebastien Drums](https://open.spotify.com/artist/0lHsjYcb3lGjkJQQqC6HVt), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [My Feelings For You \(Don Diablo Remix\)](https://open.spotify.com/album/32jpJfXBTiNcdVHSLib498) | 3:25 |
 | 35 | [Tie Me Down \(with Elley Duhé\)](https://open.spotify.com/track/2zh01m4PiHaZz4BAm0NRxs) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [Gravity](https://open.spotify.com/album/2IAVHJdaRPFA6MQqXHoG75) | 3:38 |
 | 36 | [1x1](https://open.spotify.com/track/1afXT2ntjBUlydAFZ3db66) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [1x1](https://open.spotify.com/album/4Q2e5JRxMvRIrdeNWY7Bp2) | 2:19 |
 | 37 | [Pyramids](https://open.spotify.com/track/5d3Wbdgw3zIf8B5eGXznLL) | [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8), [Alex Aris](https://open.spotify.com/artist/7J7YzKnvAyEmHCg7LGWW0G) | [Pyramids](https://open.spotify.com/album/6fKnjZO8LRYLNjEBGLb9LG) | 3:52 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCIzMYtzum.md) - [plain]
 | 47 | [Future In Your Hands \(feat\. Aloe Blacc\)](https://open.spotify.com/track/5A52bfa9VVfTTfwLpxopz6) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [David Solomon](https://open.spotify.com/artist/3fzRb5i8Wn7ao2KPDxEiTR), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Future In Your Hands \(feat\. Aloe Blacc\)](https://open.spotify.com/album/7s2UFHl1FHu2AkD6pVXxMn) | 3:41 |
 | 48 | [Ready To Love](https://open.spotify.com/track/0cvMWzztDy1wNQkBqae8w4) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Ready To Love](https://open.spotify.com/album/2DZEdOT8Y9knkZAUjpG7mT) | 3:08 |
 | 49 | [Gotta Be You](https://open.spotify.com/track/2Q8fFORnsDE6I3RNvSLXSf) | [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK), [Carla Monroe](https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB) | [Gotta Be You](https://open.spotify.com/album/2zzcyknjN9v95n0OYg8paf) | 2:29 |
-| 50 | [Only You](https://open.spotify.com/track/7mXNYEVh9FW72c12qBaO3p) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Sentinel](https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw) | [Only You](https://open.spotify.com/album/7HYcGsdfiY8AEOgGesSknZ) | 2:25 |
+| 50 | [Yeah The Girls](https://open.spotify.com/track/2ST4u9GusI2ddDfuMvXA5l) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [Yeah The Girls](https://open.spotify.com/album/6yxWTg8P4cAJ0gyPHUqPfv) | 3:14 |
 
-Snapshot ID: `MTY2MjY5NjAwMCwwMDAwMDAwMGQ2MDQ0MTlkNzA3YTg0OTQxYTRmNDI4OWYzNWZhMjA4`
+Snapshot ID: `MTY2MjY5NjAwMCwwMDAwMDAwMGI0MGFhMmYyZTJkODNhYzViMmE2MmFkNGM3OTg2ZDIz`

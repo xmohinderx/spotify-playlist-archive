@@ -4,7 +4,7 @@
 
 > Acoustic covers of sad songs.
 
-116 songs - 6 hr 39 min - [published](https://open.spotify.com/playlist/3UOxMZybHjvo9OE7cF0Mll)
+117 songs - 6 hr 42 min - [published](https://open.spotify.com/playlist/3UOxMZybHjvo9OE7cF0Mll)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Cold Heart](https://open.spotify.com/track/6iWWtmXJckNTOA57xqiGNo) | [Clementine Duo](https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2) | [Cold Heart](https://open.spotify.com/album/4NMkTYIoBBwwgNTTMooXKl) | 3:08 | 2022-05-04 |  |
 | [Come As You Are \(Acoustic\)](https://open.spotify.com/track/3WgFcr1pBo752wwbMCcfm4) | [Jada Facer](https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf) | [Come As You Are \(Acoustic\)](https://open.spotify.com/album/3n8y7xvzVZ4HB8JoWl23tt) | 2:32 | 2022-08-12 |  |
 | [Creep](https://open.spotify.com/track/7BRwh1bemr9rFMDeTbcy5S) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Creep](https://open.spotify.com/album/2XbaujqgmPJn92LT1wbKRe) | 3:54 | 2021-12-22 |  |
-| [Crying \(feat\. Kaelin Kost\)](https://open.spotify.com/track/0lK0IZC5DJpj31jlcngkeo) | [Marco Foster](https://open.spotify.com/artist/4xjQzxyvWiHRDXxJv9ORb2) | [Marco Foster](https://open.spotify.com/album/7jNVwAkKCf3XfDf6qo3Qkx) | 3:00 | 2022-08-12 |  |
+| [Crying \(feat\. Kaelin Kost\)](https://open.spotify.com/track/0lK0IZC5DJpj31jlcngkeo) | [Marco Foster](https://open.spotify.com/artist/4xjQzxyvWiHRDXxJv9ORb2) | [Marco Foster](https://open.spotify.com/album/7jNVwAkKCf3XfDf6qo3Qkx) | 3:00 | 2022-08-12 | 2022-09-16 |
+| [Crying \(feat\. Kaelin Kost\)](https://open.spotify.com/track/2MbiDqLg76Ww2LbiqYDZ1T) | [Marco Foster](https://open.spotify.com/artist/4xjQzxyvWiHRDXxJv9ORb2) | [Marco Foster](https://open.spotify.com/album/7KDqtbQGvL7wJYtNpRK8ss) | 3:00 | 2022-09-05 |  |
 | [drivers license](https://open.spotify.com/track/66V40iz2mphPbYvuJVj13i) | [Thomas Daniel](https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk) | [drivers license](https://open.spotify.com/album/4YhRWYWS8ntXFgQwvEIUrB) | 4:06 | 2021-12-22 |  |
 | [Dusk Till Dawn](https://open.spotify.com/track/1NWvbQI3bNfPxbxF9OQ1Ek) | [Amanda Yang](https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed) | [Dusk Till Dawn](https://open.spotify.com/album/1skDKsDkYykE118scvvhfj) | 3:28 | 2021-12-22 |  |
 | [Edge of Desire](https://open.spotify.com/track/0cQtd5F6UurOj5WBojTuD1) | [Ryan Cheung](https://open.spotify.com/artist/3Pr8ZuTkrQknmsRH5XAhZV) | [Edge of Desire](https://open.spotify.com/album/1jLC0DKxSoAxyVTSxT53Ft) | 5:31 | 2022-08-12 |  |

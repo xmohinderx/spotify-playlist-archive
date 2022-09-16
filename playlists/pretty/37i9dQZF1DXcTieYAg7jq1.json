@@ -1,12 +1,12 @@
 {
   "description": "Featuring that new vintage. Cover: Meghan Trainor",
-  "num_followers": 399490,
+  "num_followers": 399475,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5NjA2MCwwMDAwMDAwMDRkNTQxMGU1OGM1ZjFjMjdkOWI3NzRiMmJkOTVjMTJk",
+  "snapshot_id": "MTY2MjY5NjA2MCwwMDAwMDAwMGM1ZDc2M2YzMTA2NzdkM2E0ZWVmYWEwNGIyZDQ5ZDI3",
   "tracks": [
     {
       "added_at": "2022-09-09 04:01:00",
@@ -739,6 +739,22 @@
     {
       "added_at": "2021-12-03 05:01:00",
       "album": {
+        "name": "Wilder Woods",
+        "url": "https://open.spotify.com/album/35rWm0QieUmTizxsC7dXnG"
+      },
+      "artists": [
+        {
+          "name": "Wilder Woods",
+          "url": "https://open.spotify.com/artist/26DytDdxKgr9N0tdrBSLs2"
+        }
+      ],
+      "duration_ms": 196451,
+      "name": "Supply & Demand",
+      "url": "https://open.spotify.com/track/0tsUIJakq2RksuC1YixAHX"
+    },
+    {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
         "name": "Money",
         "url": "https://open.spotify.com/album/5qmEF78Uq9CjwIgvKQe7WG"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 253723,
       "name": "Slow Song (with Dragonette)",
       "url": "https://open.spotify.com/track/7HDcd1vyDdNWq897wSILCZ"
-    },
-    {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
-        "name": "Wilder Woods",
-        "url": "https://open.spotify.com/album/35rWm0QieUmTizxsC7dXnG"
-      },
-      "artists": [
-        {
-          "name": "Wilder Woods",
-          "url": "https://open.spotify.com/artist/26DytDdxKgr9N0tdrBSLs2"
-        }
-      ],
-      "duration_ms": 196451,
-      "name": "Supply & Demand",
-      "url": "https://open.spotify.com/track/0tsUIJakq2RksuC1YixAHX"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -901,6 +901,22 @@
       "url": "https://open.spotify.com/track/1M1xjg2N1i5EKosEPtx2T7"
     },
     {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "See the World",
+        "url": "https://open.spotify.com/album/5DjZqk7gJGrQBCeTKnBViy"
+      },
+      "artists": [
+        {
+          "name": "Brett Dennen",
+          "url": "https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT"
+        }
+      ],
+      "duration_ms": 201226,
+      "name": "Paul Newman Daytona Rolex",
+      "url": "https://open.spotify.com/track/4pAjn6PcQp81T2BKOzPOtn"
+    },
+    {
       "added_at": "2022-07-22 04:02:00",
       "album": {
         "name": "Sweet",
@@ -923,22 +939,6 @@
       "duration_ms": 158238,
       "name": "Sweet - Single Edit",
       "url": "https://open.spotify.com/track/7uYpvX8Gb7CUubdJcRt8E0"
-    },
-    {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
-        "name": "See the World",
-        "url": "https://open.spotify.com/album/5DjZqk7gJGrQBCeTKnBViy"
-      },
-      "artists": [
-        {
-          "name": "Brett Dennen",
-          "url": "https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT"
-        }
-      ],
-      "duration_ms": 201226,
-      "name": "Paul Newman Daytona Rolex",
-      "url": "https://open.spotify.com/track/4pAjn6PcQp81T2BKOzPOtn"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2021-12-03 05:01:00",
       "album": {
+        "name": "Apolonio",
+        "url": "https://open.spotify.com/album/7HlxxaJOHK0ArY4Ae4Qfc7"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 152066,
+      "name": "The Two of Us",
+      "url": "https://open.spotify.com/track/24i3ftE5sMEGsGtclPQPSc"
+    },
+    {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
         "name": "Heaven (Expanded Edition)",
         "url": "https://open.spotify.com/album/5XRvidlLFT4rMytzHK7smn"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 225665,
       "name": "LAX",
       "url": "https://open.spotify.com/track/1o0nAjgZwMDK9TI4TTUSNn"
-    },
-    {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
-        "name": "Apolonio",
-        "url": "https://open.spotify.com/album/7HlxxaJOHK0ArY4Ae4Qfc7"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 152066,
-      "name": "The Two of Us",
-      "url": "https://open.spotify.com/track/24i3ftE5sMEGsGtclPQPSc"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -1209,22 +1209,6 @@
       "url": "https://open.spotify.com/track/7hredXafMauuh15FNDEPnQ"
     },
     {
-      "added_at": "2022-06-24 04:02:00",
-      "album": {
-        "name": "Good Man (First Love)",
-        "url": "https://open.spotify.com/album/1vS9mqQQuGIFvLklJucvQJ"
-      },
-      "artists": [
-        {
-          "name": "Andy Grammer",
-          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
-        }
-      ],
-      "duration_ms": 160361,
-      "name": "Good Man (First Love)",
-      "url": "https://open.spotify.com/track/3HxTb6ITqXf7RMjX2DGVv5"
-    },
-    {
       "added_at": "2021-12-03 05:01:00",
       "album": {
         "name": "Light (Edit)",
@@ -1239,6 +1223,22 @@
       "duration_ms": 185373,
       "name": "Light - Edit",
       "url": "https://open.spotify.com/track/0h04eWLXS72ITUgN4PKnLg"
+    },
+    {
+      "added_at": "2022-06-24 04:02:00",
+      "album": {
+        "name": "Good Man (First Love)",
+        "url": "https://open.spotify.com/album/1vS9mqQQuGIFvLklJucvQJ"
+      },
+      "artists": [
+        {
+          "name": "Andy Grammer",
+          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
+        }
+      ],
+      "duration_ms": 160361,
+      "name": "Good Man (First Love)",
+      "url": "https://open.spotify.com/track/3HxTb6ITqXf7RMjX2DGVv5"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -1497,6 +1497,22 @@
       "url": "https://open.spotify.com/track/6FAoGmM3fdvOvEivi9edSd"
     },
     {
+      "added_at": "2022-02-11 05:01:00",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/6qPMvni16dK3GuVk6K2fXa"
+      },
+      "artists": [
+        {
+          "name": "James Morrison",
+          "url": "https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35"
+        }
+      ],
+      "duration_ms": 240053,
+      "name": "Precious Love (Refreshed)",
+      "url": "https://open.spotify.com/track/2Qi7xDDXuuiwPYnVMBsTfo"
+    },
+    {
       "added_at": "2021-12-03 05:01:00",
       "album": {
         "name": "California Wine",
@@ -1511,22 +1527,6 @@
       "duration_ms": 187231,
       "name": "California Wine",
       "url": "https://open.spotify.com/track/1HtLKqdCmOmM3zQxBzueUI"
-    },
-    {
-      "added_at": "2022-04-29 04:02:00",
-      "album": {
-        "name": "It Will Come In Time",
-        "url": "https://open.spotify.com/album/3kUX1L10eOj1lSuwrfk9PM"
-      },
-      "artists": [
-        {
-          "name": "Benny Sings",
-          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
-        }
-      ],
-      "duration_ms": 173862,
-      "name": "It Will Come In Time",
-      "url": "https://open.spotify.com/track/2eqocLN1rW8h10svumB8wd"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -1553,20 +1553,20 @@
       "url": "https://open.spotify.com/track/0jqWdGvgLX2oOG70eIcwko"
     },
     {
-      "added_at": "2022-02-11 05:01:00",
+      "added_at": "2022-04-29 04:02:00",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/6qPMvni16dK3GuVk6K2fXa"
+        "name": "It Will Come In Time",
+        "url": "https://open.spotify.com/album/3kUX1L10eOj1lSuwrfk9PM"
       },
       "artists": [
         {
-          "name": "James Morrison",
-          "url": "https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35"
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
         }
       ],
-      "duration_ms": 240053,
-      "name": "Precious Love (Refreshed)",
-      "url": "https://open.spotify.com/track/2Qi7xDDXuuiwPYnVMBsTfo"
+      "duration_ms": 173862,
+      "name": "It Will Come In Time",
+      "url": "https://open.spotify.com/track/2eqocLN1rW8h10svumB8wd"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -1585,22 +1585,6 @@
       "url": "https://open.spotify.com/track/7lCPtVW9VLsn5EGuibqctU"
     },
     {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
-        "name": "Madelyn",
-        "url": "https://open.spotify.com/album/2GxqnG8rJVHG18Bm27vpo0"
-      },
-      "artists": [
-        {
-          "name": "Anderson East",
-          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
-        }
-      ],
-      "duration_ms": 195413,
-      "name": "Madelyn",
-      "url": "https://open.spotify.com/track/39ZpHwLpCFBDeLpOphQYLQ"
-    },
-    {
       "added_at": "2022-08-26 04:02:00",
       "album": {
         "name": "Drippin' In Love",
@@ -1615,6 +1599,22 @@
       "duration_ms": 245901,
       "name": "Drippin' In Love",
       "url": "https://open.spotify.com/track/2qCl9fSe6lVJFVA18nCZ5Z"
+    },
+    {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "Madelyn",
+        "url": "https://open.spotify.com/album/2GxqnG8rJVHG18Bm27vpo0"
+      },
+      "artists": [
+        {
+          "name": "Anderson East",
+          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
+        }
+      ],
+      "duration_ms": 195413,
+      "name": "Madelyn",
+      "url": "https://open.spotify.com/track/39ZpHwLpCFBDeLpOphQYLQ"
     },
     {
       "added_at": "2022-03-04 05:01:00",

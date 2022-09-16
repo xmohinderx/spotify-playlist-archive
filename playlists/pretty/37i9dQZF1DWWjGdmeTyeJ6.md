@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Updates every Wednesday\. Cover: George Riley, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,105,830 likes - 49 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,105,902 likes - 49 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 16 | [Loud](https://open.spotify.com/track/2YDPikS8jvS2rsWF0ozCvY) | [Eva Westphal](https://open.spotify.com/artist/32obs0w1xupMz2CXf5B9wb) | [Loud](https://open.spotify.com/album/0LEW3Cj5UU2oC2bM6yAJhI) | 2:24 |
 | 17 | [Talk](https://open.spotify.com/track/3ZE3BSTojEeiBmep57CcUa) | [Helen](https://open.spotify.com/artist/0dKF6Q9Wz7Y3PKSNyaFpkM) | [Talk](https://open.spotify.com/album/4onhJdux51mV5lSgb9rU1U) | 2:30 |
 | 18 | [Time Should Wait](https://open.spotify.com/track/3t63h1Ykd2HtkVhvRpAeYB) | [Twin Suns](https://open.spotify.com/artist/2jBDQzZ68SehFutPbeX0di) | [Time Should Wait](https://open.spotify.com/album/30P8ZAHSqQgfB4ulOwvNud) | 3:26 |
-| 19 | [Archivos Corruptos](https://open.spotify.com/track/5a2Yh9WhfFPq7ejq4WEMDl) | [Lila Tirando a Violeta](https://open.spotify.com/artist/1ZD9xcoRJKY4ldaV4UuAhx), [Sueuga](https://open.spotify.com/artist/2m5Jdjj6b1N9EhtqzHaVdw) | [Residual Self Image](https://open.spotify.com/album/6JBqu9sil9ozdsaCUmHGUr) | 3:35 |
+| 19 | [Archivos Corruptos](https://open.spotify.com/track/5a2Yh9WhfFPq7ejq4WEMDl) | [Lila Tirando a Violeta](https://open.spotify.com/artist/1ZD9xcoRJKY4ldaV4UuAhx), [Sueuga](https://open.spotify.com/artist/2m5Jdjj6b1N9EhtqzHaVdw), [Tazar Yoot](https://open.spotify.com/artist/6tP2b3dQi9KlBkwEUyJtzY) | [Residual Self Image](https://open.spotify.com/album/6JBqu9sil9ozdsaCUmHGUr) | 3:35 |
 | 20 | [Leaving Summer](https://open.spotify.com/track/5rcpZXk678vSZxMcz8ZGz6) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV), [Akeine](https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds) | [Leaving Summer](https://open.spotify.com/album/3WXVLlMIZOLqmPkZTJqHWT) | 2:37 |
 | 21 | [So Good](https://open.spotify.com/track/7Aria7eSEjx9nCyDBDny8S) | [Martin Alix](https://open.spotify.com/artist/3sEF0uh6mcy66ctCwZU9j4) | [So Good](https://open.spotify.com/album/7zqpLi90fkT16ayZ0hsc0N) | 3:05 |
 | 22 | [i don't wanna know!](https://open.spotify.com/track/66kF5Ga2ACocpDye1VGUkT) | [CALI JEWLS](https://open.spotify.com/artist/0iDbrXm29WpIVqxhWaVzlH) | [i don't wanna know!](https://open.spotify.com/album/7JVlPexG814RJNVwftsP7R) | 3:39 |

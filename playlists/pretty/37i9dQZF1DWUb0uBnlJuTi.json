@@ -1,12 +1,12 @@
 {
   "description": "Jazz. But funky. Cover: Unc D",
-  "num_followers": 208299,
+  "num_followers": 208546,
   "original_name": "Jazz-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA5MTMyMCwwMDAwMDAwMDdiM2VjNzNiNGRhZWFmNjFlZWE4NmQxOTNiOWM1ZjAw",
+  "snapshot_id": "MTY2MjA5MTMyMCwwMDAwMDAwMDk3OGU1OWMwM2E2MDY1ZjJhMjRlODlmZjQyNmE5OTFi",
   "tracks": [
     {
       "added_at": "2022-09-02 04:02:00",
@@ -625,6 +625,22 @@
       "url": "https://open.spotify.com/track/5tfAI5PpUlO6wUBW17KYbG"
     },
     {
+      "added_at": "2020-10-09 04:01:00",
+      "album": {
+        "name": "Long Live the King (Instrumental)",
+        "url": "https://open.spotify.com/album/0DxnngpwW0L4DctzLXCSBf"
+      },
+      "artists": [
+        {
+          "name": "A.O.",
+          "url": "https://open.spotify.com/artist/2jfEozrJPe4aHfA86ClOAI"
+        }
+      ],
+      "duration_ms": 211268,
+      "name": "Long Live the King - Instrumental",
+      "url": "https://open.spotify.com/track/7srxETFGjsCQHuoXkaPkhm"
+    },
+    {
       "added_at": "2022-07-22 04:02:00",
       "album": {
         "name": "So Cold",
@@ -643,22 +659,6 @@
       "duration_ms": 252000,
       "name": "So Cold",
       "url": "https://open.spotify.com/track/6vv87FsmQpbakkEQUm3G3n"
-    },
-    {
-      "added_at": "2020-10-09 04:01:00",
-      "album": {
-        "name": "Long Live the King (Instrumental)",
-        "url": "https://open.spotify.com/album/0DxnngpwW0L4DctzLXCSBf"
-      },
-      "artists": [
-        {
-          "name": "A.O.",
-          "url": "https://open.spotify.com/artist/2jfEozrJPe4aHfA86ClOAI"
-        }
-      ],
-      "duration_ms": 211268,
-      "name": "Long Live the King - Instrumental",
-      "url": "https://open.spotify.com/track/7srxETFGjsCQHuoXkaPkhm"
     },
     {
       "added_at": "2021-08-02 13:59:54",
@@ -761,22 +761,6 @@
       "url": "https://open.spotify.com/track/3ecPVQ8Nb1bEWcsqvXakLt"
     },
     {
-      "added_at": "2020-10-09 04:01:00",
-      "album": {
-        "name": "Let's Go Everywhere",
-        "url": "https://open.spotify.com/album/2Y03j0Ty27Ia0Lcee6ZzZk"
-      },
-      "artists": [
-        {
-          "name": "Medeski, Martin & Wood",
-          "url": "https://open.spotify.com/artist/2Hg4SUNDuIn8xIidz9GxFw"
-        }
-      ],
-      "duration_ms": 194226,
-      "name": "Where's the Music",
-      "url": "https://open.spotify.com/track/4AARZ2vuYpBYO9fCVJaBnp"
-    },
-    {
       "added_at": "2022-04-01 04:02:00",
       "album": {
         "name": "The Resurrection",
@@ -795,6 +779,22 @@
       "duration_ms": 243227,
       "name": "The Resurrection",
       "url": "https://open.spotify.com/track/1F39hjm8I9oxamHT3RmQJ2"
+    },
+    {
+      "added_at": "2020-10-09 04:01:00",
+      "album": {
+        "name": "Let's Go Everywhere",
+        "url": "https://open.spotify.com/album/2Y03j0Ty27Ia0Lcee6ZzZk"
+      },
+      "artists": [
+        {
+          "name": "Medeski, Martin & Wood",
+          "url": "https://open.spotify.com/artist/2Hg4SUNDuIn8xIidz9GxFw"
+        }
+      ],
+      "duration_ms": 194226,
+      "name": "Where's the Music",
+      "url": "https://open.spotify.com/track/4AARZ2vuYpBYO9fCVJaBnp"
     },
     {
       "added_at": "2021-05-21 04:01:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2020-10-09 04:01:00",
       "album": {
-        "name": "Placebo Years 1971 - 1974",
-        "url": "https://open.spotify.com/album/32RhsGaO9HlMiA8h4Vcnxd"
-      },
-      "artists": [
-        {
-          "name": "Marc Moulin",
-          "url": "https://open.spotify.com/artist/6n6ot5JVa8YO9z82eNbvd8"
-        }
-      ],
-      "duration_ms": 152400,
-      "name": "Humpty Dumpty - 2006 Remastered Version",
-      "url": "https://open.spotify.com/track/3rzenzs3lpi1XljKsZQ2Bl"
-    },
-    {
-      "added_at": "2020-10-09 04:01:00",
-      "album": {
         "name": "Bitches Brew",
         "url": "https://open.spotify.com/album/3Q0zkOZEOC855ErOOJ1AdO"
       },
@@ -911,18 +895,18 @@
     {
       "added_at": "2020-10-09 04:01:00",
       "album": {
-        "name": "Rhythm Of Life",
-        "url": "https://open.spotify.com/album/2mv1fpeMeseWyD0MIjKxe1"
+        "name": "Placebo Years 1971 - 1974",
+        "url": "https://open.spotify.com/album/32RhsGaO9HlMiA8h4Vcnxd"
       },
       "artists": [
         {
-          "name": "James Mason",
-          "url": "https://open.spotify.com/artist/6HC9gScXpsScEq3Cgq5UvZ"
+          "name": "Marc Moulin",
+          "url": "https://open.spotify.com/artist/6n6ot5JVa8YO9z82eNbvd8"
         }
       ],
-      "duration_ms": 326320,
-      "name": "Sweet Power of Your Embrace",
-      "url": "https://open.spotify.com/track/55goBag8vVmsesMxOdIe5M"
+      "duration_ms": 152400,
+      "name": "Humpty Dumpty - 2006 Remastered Version",
+      "url": "https://open.spotify.com/track/3rzenzs3lpi1XljKsZQ2Bl"
     },
     {
       "added_at": "2021-11-12 05:01:00",
@@ -939,6 +923,22 @@
       "duration_ms": 205160,
       "name": "Tokisan",
       "url": "https://open.spotify.com/track/3Jao9qWPTZsU73GnM3VlGR"
+    },
+    {
+      "added_at": "2020-10-09 04:01:00",
+      "album": {
+        "name": "Rhythm Of Life",
+        "url": "https://open.spotify.com/album/2mv1fpeMeseWyD0MIjKxe1"
+      },
+      "artists": [
+        {
+          "name": "James Mason",
+          "url": "https://open.spotify.com/artist/6HC9gScXpsScEq3Cgq5UvZ"
+        }
+      ],
+      "duration_ms": 326320,
+      "name": "Sweet Power of Your Embrace",
+      "url": "https://open.spotify.com/track/55goBag8vVmsesMxOdIe5M"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -1069,6 +1069,22 @@
       "url": "https://open.spotify.com/track/59fbbrUBjuN5H4NWzMi7CI"
     },
     {
+      "added_at": "2020-10-09 04:01:00",
+      "album": {
+        "name": "Shout It Out",
+        "url": "https://open.spotify.com/album/1F3IHNXBpw0H18SzcJIYv1"
+      },
+      "artists": [
+        {
+          "name": "Patrice Rushen",
+          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
+        }
+      ],
+      "duration_ms": 371080,
+      "name": "The Hump",
+      "url": "https://open.spotify.com/track/2A8KUcV16yCGc7wwXYyFz7"
+    },
+    {
       "added_at": "2022-06-10 04:02:00",
       "album": {
         "name": "Pigna",
@@ -1087,22 +1103,6 @@
     {
       "added_at": "2020-10-09 04:01:00",
       "album": {
-        "name": "Shout It Out",
-        "url": "https://open.spotify.com/album/1F3IHNXBpw0H18SzcJIYv1"
-      },
-      "artists": [
-        {
-          "name": "Patrice Rushen",
-          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
-        }
-      ],
-      "duration_ms": 371080,
-      "name": "The Hump",
-      "url": "https://open.spotify.com/track/2A8KUcV16yCGc7wwXYyFz7"
-    },
-    {
-      "added_at": "2020-10-09 04:01:00",
-      "album": {
         "name": "Declassified",
         "url": "https://open.spotify.com/album/5Qi3Ifed8PIXJjlpGEcsMk"
       },
@@ -1115,6 +1115,22 @@
       "duration_ms": 349440,
       "name": "Everything Is Changing",
       "url": "https://open.spotify.com/track/5CB7h8v5ASu05I9oN2AThZ"
+    },
+    {
+      "added_at": "2022-01-21 05:02:00",
+      "album": {
+        "name": "The Positive and the Negative",
+        "url": "https://open.spotify.com/album/1C2B844cWZPT0eGCNTm03g"
+      },
+      "artists": [
+        {
+          "name": "Surprise Chef",
+          "url": "https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj"
+        }
+      ],
+      "duration_ms": 287349,
+      "name": "The Positive and the Negative",
+      "url": "https://open.spotify.com/track/2vRidmUrgY8KWpVbs2eHAA"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -1135,22 +1151,6 @@
       "duration_ms": 295176,
       "name": "Confirmation",
       "url": "https://open.spotify.com/track/4hT1CgkQIlhmA1DIVYrLx8"
-    },
-    {
-      "added_at": "2022-01-21 05:02:00",
-      "album": {
-        "name": "The Positive and the Negative",
-        "url": "https://open.spotify.com/album/1C2B844cWZPT0eGCNTm03g"
-      },
-      "artists": [
-        {
-          "name": "Surprise Chef",
-          "url": "https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj"
-        }
-      ],
-      "duration_ms": 287349,
-      "name": "The Positive and the Negative",
-      "url": "https://open.spotify.com/track/2vRidmUrgY8KWpVbs2eHAA"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -1309,26 +1309,6 @@
       "url": "https://open.spotify.com/track/6Fvh7mH7jFE4PuXQlQeRt9"
     },
     {
-      "added_at": "2022-05-20 04:02:00",
-      "album": {
-        "name": "Interstellar Black Space",
-        "url": "https://open.spotify.com/album/4hwDNOEvEfPSKCsByLpapO"
-      },
-      "artists": [
-        {
-          "name": "Brandon Coleman",
-          "url": "https://open.spotify.com/artist/1bCEhVC3192xS5WteIaXOs"
-        },
-        {
-          "name": "Kamasi Washington",
-          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
-        }
-      ],
-      "duration_ms": 294826,
-      "name": "We Change - Part I",
-      "url": "https://open.spotify.com/track/3FbfmIk5HTatLxCrGH22z5"
-    },
-    {
       "added_at": "2021-06-04 04:01:00",
       "album": {
         "name": "Sassy",
@@ -1347,6 +1327,26 @@
       "duration_ms": 258242,
       "name": "Sassy",
       "url": "https://open.spotify.com/track/6Fxil4EHqnMgQPGElnuYzb"
+    },
+    {
+      "added_at": "2022-05-20 04:02:00",
+      "album": {
+        "name": "Interstellar Black Space",
+        "url": "https://open.spotify.com/album/4hwDNOEvEfPSKCsByLpapO"
+      },
+      "artists": [
+        {
+          "name": "Brandon Coleman",
+          "url": "https://open.spotify.com/artist/1bCEhVC3192xS5WteIaXOs"
+        },
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        }
+      ],
+      "duration_ms": 294826,
+      "name": "We Change - Part I",
+      "url": "https://open.spotify.com/track/3FbfmIk5HTatLxCrGH22z5"
     },
     {
       "added_at": "2021-02-05 05:01:00",
@@ -1457,32 +1457,20 @@
       "url": "https://open.spotify.com/track/29p9C7pmhax5CCrfR1SD5m"
     },
     {
-      "added_at": "2021-06-25 04:02:00",
+      "added_at": "2021-07-09 04:01:00",
       "album": {
-        "name": "Funky Times",
-        "url": "https://open.spotify.com/album/5XZCdlBDZ0CzxBGjU8ZvMX"
+        "name": "Ay Uh!",
+        "url": "https://open.spotify.com/album/3oQh9kb1PqOGke7qzy25tj"
       },
       "artists": [
         {
-          "name": "Funky Times",
-          "url": "https://open.spotify.com/artist/1WlYYdGPxcxcmDVtIzTuhV"
-        },
-        {
-          "name": "Flo Naegeli",
-          "url": "https://open.spotify.com/artist/0liNX4mflJExPsvDkY7yfa"
-        },
-        {
-          "name": "Adrian Bauer",
-          "url": "https://open.spotify.com/artist/0JpuTrgbRjjjuvFj6tCnK1"
-        },
-        {
-          "name": "Andr\u00e9 Haaf",
-          "url": "https://open.spotify.com/artist/3rbhr6Z9OqXd4OjED0O2Vg"
+          "name": "The Brothers Nylon",
+          "url": "https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50"
         }
       ],
-      "duration_ms": 212263,
-      "name": "Souly",
-      "url": "https://open.spotify.com/track/7mh1VjQHDhh73zP1G0vfoj"
+      "duration_ms": 123874,
+      "name": "Ay Uh!",
+      "url": "https://open.spotify.com/track/5yCsr35UpkI3zd9lss5GQh"
     }
   ],
   "unique_name": "Jazz-Funk",

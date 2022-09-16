@@ -1,15 +1,15 @@
 {
   "description": "The jazz giant's classic recordings.",
-  "num_followers": 169326,
+  "num_followers": 169367,
   "original_name": "This Is John Coltrane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjU0OTAyMSwwMDAwMDAwMGZjYWQ4YjM0YTA1NTkzODI0MTU2YzBmZjI4MzQzOTRk",
+  "snapshot_id": "MTY2MzI3OTI2MCwwMDAwMDAwMDFjODE4OTkyODFjNGIzODYxNWVlMjE4NTE5NWZmNjNh",
   "tracks": [
     {
-      "added_at": "2022-09-07 11:10:21",
+      "added_at": "2022-09-15 22:01:00",
       "album": {
         "name": "A Love Supreme",
         "url": "https://open.spotify.com/album/7Eoz7hJvaX1eFkbpQxC5PA"
@@ -25,7 +25,23 @@
       "url": "https://open.spotify.com/track/0CLbmkYmQIWiEwnsbOkLpd"
     },
     {
-      "added_at": "2022-09-07 11:10:21",
+      "added_at": "2022-09-15 22:01:00",
+      "album": {
+        "name": "Blue Train",
+        "url": "https://open.spotify.com/album/2Z11cXWEa2qqYQBGkJrCga"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 479023,
+      "name": "I'm Old Fashioned - Remastered",
+      "url": "https://open.spotify.com/track/0sMR4StyIAXLE0WrfaZIDu"
+    },
+    {
+      "added_at": "2022-09-15 22:01:00",
       "album": {
         "name": "Giant Steps (60th Anniversary Super Deluxe Edition) [2020 Remaster]",
         "url": "https://open.spotify.com/album/4jTDjHLMFCHWrjuP1qmCf4"
@@ -41,23 +57,7 @@
       "url": "https://open.spotify.com/track/1ZXu0ib26kWfQQngREMcU2"
     },
     {
-      "added_at": "2022-09-07 11:10:21",
-      "album": {
-        "name": "Lazy Bird/Blue Train",
-        "url": "https://open.spotify.com/album/098yC89TkOkE9ljHR2qV7J"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 562480,
-      "name": "Lazy Bird - Alternate Take 1",
-      "url": "https://open.spotify.com/track/2sM2cNbhA0ZudW0ciQyzCB"
-    },
-    {
-      "added_at": "2022-09-07 11:10:21",
+      "added_at": "2022-09-15 22:01:00",
       "album": {
         "name": "A Love Supreme, Pt. IV - Psalm (Live In Seattle)",
         "url": "https://open.spotify.com/album/5vhyzhJXAtm6UbZNlWo5Wa"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/3WUVwdYEPeVyYWjNfCp0KQ"
     },
     {
-      "added_at": "2022-09-07 11:10:21",
+      "added_at": "2022-09-15 22:01:00",
       "album": {
         "name": "Blue World",
         "url": "https://open.spotify.com/album/5OdRhr4aotXEXEnH6N2eRv"
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/0RHEzMQT9Vw9GvSdVA5TLC"
     },
     {
-      "added_at": "2022-09-07 11:10:21",
+      "added_at": "2022-09-15 22:01:00",
       "album": {
         "name": "My Favorite Things (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3i7sNgNRwyGQmNP0CPuOM0"
@@ -105,7 +105,7 @@
       "url": "https://open.spotify.com/track/2JOEPbuwVf0nafGnMSVEhH"
     },
     {
-      "added_at": "2022-09-07 11:10:21",
+      "added_at": "2022-09-15 22:01:00",
       "album": {
         "name": "John Coltrane And Johnny Hartman",
         "url": "https://open.spotify.com/album/5e3mq4TT4RLn4VXfgKV6MU"
@@ -125,7 +125,7 @@
       "url": "https://open.spotify.com/track/0uPkCpuoERqrkBL06Art50"
     },
     {
-      "added_at": "2022-09-07 11:10:21",
+      "added_at": "2022-09-15 22:01:00",
       "album": {
         "name": "Naima",
         "url": "https://open.spotify.com/album/4N6QrNl4RvEjyaPtUilwRD"
@@ -141,7 +141,7 @@
       "url": "https://open.spotify.com/track/56elAIX47Q7vSQ1bpKNhHo"
     },
     {
-      "added_at": "2022-09-07 11:10:21",
+      "added_at": "2022-09-15 22:01:00",
       "album": {
         "name": "A Love Supreme: Live In Seattle",
         "url": "https://open.spotify.com/album/6X4w3XifxQVXdKDgwgD7Wk"
@@ -157,7 +157,7 @@
       "url": "https://open.spotify.com/track/6Rmd7FLjty9bW1hrGUB2Wc"
     },
     {
-      "added_at": "2022-09-07 11:10:21",
+      "added_at": "2022-09-15 22:01:00",
       "album": {
         "name": "Both Directions At Once: The Lost Album (Deluxe Version)",
         "url": "https://open.spotify.com/album/0NSRgubfAJoYv2kvVAcRKy"
@@ -173,7 +173,7 @@
       "url": "https://open.spotify.com/track/7aGpjo6SB59tpTiMlD1uvL"
     },
     {
-      "added_at": "2022-09-07 11:10:21",
+      "added_at": "2022-09-15 22:01:00",
       "album": {
         "name": "Lush Life",
         "url": "https://open.spotify.com/album/63vpVRMhMQQZj4c7SRfP4y"
@@ -189,7 +189,23 @@
       "url": "https://open.spotify.com/track/3WC3GPIxGaFeWhsEFSVMDC"
     },
     {
-      "added_at": "2022-09-07 11:10:21",
+      "added_at": "2022-09-15 22:01:00",
+      "album": {
+        "name": "Blue Train",
+        "url": "https://open.spotify.com/album/2Z11cXWEa2qqYQBGkJrCga"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 550189,
+      "name": "Moment's Notice - Remastered",
+      "url": "https://open.spotify.com/track/3GXYGbyvprPqiH9do6ewY3"
+    },
+    {
+      "added_at": "2022-09-15 22:01:00",
       "album": {
         "name": "Duke Ellington & John Coltrane",
         "url": "https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5"
@@ -209,7 +225,7 @@
       "url": "https://open.spotify.com/track/0E8q2Fx2XuzXCO2NSAppkR"
     },
     {
-      "added_at": "2022-09-07 11:10:21",
+      "added_at": "2022-09-15 22:01:00",
       "album": {
         "name": "One Down, One Up: Live At The Half Note",
         "url": "https://open.spotify.com/album/13vOj4n0shZtxuPqrw00iP"
@@ -225,7 +241,7 @@
       "url": "https://open.spotify.com/track/3s4SpgPUXR1mNAwpu8N2GU"
     },
     {
-      "added_at": "2022-09-07 11:10:21",
+      "added_at": "2022-09-15 22:01:00",
       "album": {
         "name": "Interplay [Box Set]",
         "url": "https://open.spotify.com/album/1H7bSbmS2OprRnTd4xz0Xy"
@@ -253,7 +269,7 @@
       "url": "https://open.spotify.com/track/7y7M0Qd8r37uhLLScSQUyB"
     },
     {
-      "added_at": "2022-09-07 11:10:21",
+      "added_at": "2022-09-15 22:01:00",
       "album": {
         "name": "Both Directions At Once: The Lost Album (Deluxe Version)",
         "url": "https://open.spotify.com/album/0NSRgubfAJoYv2kvVAcRKy"
@@ -269,7 +285,7 @@
       "url": "https://open.spotify.com/track/1HlfLVWYTIQZOoYOi1LdFy"
     },
     {
-      "added_at": "2022-09-07 11:10:21",
+      "added_at": "2022-09-15 22:01:00",
       "album": {
         "name": "Turning Point",
         "url": "https://open.spotify.com/album/4k4GArOeURhbuSgwxr1K96"
@@ -285,7 +301,7 @@
       "url": "https://open.spotify.com/track/22aNvuEw7GdMarYLfYe6fm"
     },
     {
-      "added_at": "2022-09-07 11:10:21",
+      "added_at": "2022-09-15 22:01:00",
       "album": {
         "name": "A Love Supreme",
         "url": "https://open.spotify.com/album/7Eoz7hJvaX1eFkbpQxC5PA"
@@ -301,7 +317,7 @@
       "url": "https://open.spotify.com/track/7unF2ARDGldwWxZWCmlwDM"
     },
     {
-      "added_at": "2022-09-07 11:10:21",
+      "added_at": "2022-09-15 22:01:00",
       "album": {
         "name": "Coltrane [Rudy Van Gelder Remaster]",
         "url": "https://open.spotify.com/album/012Zmc4xCOiJaR4wlnbtWg"
@@ -317,7 +333,7 @@
       "url": "https://open.spotify.com/track/1Rw4pwzS1yBPlncFAuIGlU"
     },
     {
-      "added_at": "2022-09-07 11:10:21",
+      "added_at": "2022-09-15 22:01:00",
       "album": {
         "name": "Soultrane",
         "url": "https://open.spotify.com/album/7pU5qUNqbOMToIyqzF0Nmg"
@@ -333,7 +349,7 @@
       "url": "https://open.spotify.com/track/0H2iAE7Y1ivCZ5YzEf3NMT"
     },
     {
-      "added_at": "2022-09-07 11:10:21",
+      "added_at": "2022-09-15 22:01:00",
       "album": {
         "name": "Ol\u00e9 Coltrane (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5BGkenbuo3xY3CRblRPj8K"
@@ -349,7 +365,7 @@
       "url": "https://open.spotify.com/track/0Haa5GeQyJJ9SjSqbqcXsT"
     },
     {
-      "added_at": "2022-09-07 11:10:21",
+      "added_at": "2022-09-15 22:01:00",
       "album": {
         "name": "Ballads (Deluxe Edition - Rudy Van Gelder Remaster)",
         "url": "https://open.spotify.com/album/0Ydakb7npXmyTwFLvKc5qt"
@@ -365,7 +381,7 @@
       "url": "https://open.spotify.com/track/1lZ41PumDFX0e82XTGx4sE"
     },
     {
-      "added_at": "2022-09-07 11:10:21",
+      "added_at": "2022-09-15 22:01:00",
       "album": {
         "name": "Stardust",
         "url": "https://open.spotify.com/album/4xqrPtNB1AmM2qFLOCZ1GW"
@@ -381,7 +397,23 @@
       "url": "https://open.spotify.com/track/0ZciyueIR3Jl1gh4lbiLsk"
     },
     {
-      "added_at": "2022-09-07 11:10:21",
+      "added_at": "2022-09-15 22:01:00",
+      "album": {
+        "name": "Blue Train",
+        "url": "https://open.spotify.com/album/2Z11cXWEa2qqYQBGkJrCga"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 427341,
+      "name": "Lazy Bird - Remastered",
+      "url": "https://open.spotify.com/track/3HNhdvVw92awlT3gfqXIxW"
+    },
+    {
+      "added_at": "2022-09-15 22:01:00",
       "album": {
         "name": "Crescent",
         "url": "https://open.spotify.com/album/1G3jdGqZNUrC8ZDesZB8xp"
@@ -397,7 +429,7 @@
       "url": "https://open.spotify.com/track/4m16y4HrVSk9N60oHNZBqI"
     },
     {
-      "added_at": "2022-09-07 11:10:21",
+      "added_at": "2022-09-15 22:01:00",
       "album": {
         "name": "My Favorite Things (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3i7sNgNRwyGQmNP0CPuOM0"
@@ -413,7 +445,7 @@
       "url": "https://open.spotify.com/track/6yuhA5jlK7gEAIVoJ5WK1f"
     },
     {
-      "added_at": "2022-09-07 11:10:21",
+      "added_at": "2022-09-15 22:01:00",
       "album": {
         "name": "Coltrane's Sound",
         "url": "https://open.spotify.com/album/2h8x8HL7N3grURq1OM77ja"
@@ -429,7 +461,7 @@
       "url": "https://open.spotify.com/track/3m88YPqvxIj4VV0JJKR5FZ"
     },
     {
-      "added_at": "2022-09-07 11:10:21",
+      "added_at": "2022-09-15 22:01:00",
       "album": {
         "name": "Impressions",
         "url": "https://open.spotify.com/album/3Ot8usQajsFawIAsULDrqj"
@@ -445,23 +477,7 @@
       "url": "https://open.spotify.com/track/2JQqfVJhFnNADUJDDPmw63"
     },
     {
-      "added_at": "2022-09-07 11:10:21",
-      "album": {
-        "name": "Blue Train (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4vIJFprkZ7vyN6nhcBgQmG"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 477760,
-      "name": "I'm Old Fashioned - Remastered 2003/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/5p95DUZplmVxY0XCQ3hxUV"
-    },
-    {
-      "added_at": "2022-09-07 11:10:21",
+      "added_at": "2022-09-15 22:01:00",
       "album": {
         "name": "Naima",
         "url": "https://open.spotify.com/album/4N6QrNl4RvEjyaPtUilwRD"
@@ -477,7 +493,7 @@
       "url": "https://open.spotify.com/track/3m0pro98is58H4UJfDo7ZE"
     },
     {
-      "added_at": "2022-09-07 11:10:21",
+      "added_at": "2022-09-15 22:01:00",
       "album": {
         "name": "Giant Steps (Mono)",
         "url": "https://open.spotify.com/album/7MBQWjukLxXZYvQ8vzEH7t"
@@ -493,7 +509,7 @@
       "url": "https://open.spotify.com/track/1Z6Yxm3WpEJRkE0tGLr31y"
     },
     {
-      "added_at": "2022-09-07 11:10:21",
+      "added_at": "2022-09-15 22:01:00",
       "album": {
         "name": "Thelonious Monk with John Coltrane (OJC Remaster)",
         "url": "https://open.spotify.com/album/5WqkiRiXHyiML0QkLjqooy"
@@ -513,7 +529,7 @@
       "url": "https://open.spotify.com/track/1BMirA3vwj2NLamWkJsVYq"
     },
     {
-      "added_at": "2022-09-07 11:10:21",
+      "added_at": "2022-09-15 22:01:00",
       "album": {
         "name": "A Love Supreme",
         "url": "https://open.spotify.com/album/7Eoz7hJvaX1eFkbpQxC5PA"
@@ -529,7 +545,7 @@
       "url": "https://open.spotify.com/track/5FLQmLjjeNIuC8U5mDnXC8"
     },
     {
-      "added_at": "2022-09-07 11:10:21",
+      "added_at": "2022-09-15 22:01:00",
       "album": {
         "name": "Duke Ellington & John Coltrane",
         "url": "https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5"
@@ -549,7 +565,23 @@
       "url": "https://open.spotify.com/track/4rmCI9VWrwrJTJ8XQ80BMN"
     },
     {
-      "added_at": "2022-09-07 11:10:21",
+      "added_at": "2022-09-15 22:01:00",
+      "album": {
+        "name": "Blue Train",
+        "url": "https://open.spotify.com/album/2Z11cXWEa2qqYQBGkJrCga"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 643127,
+      "name": "Blue Train - Remastered",
+      "url": "https://open.spotify.com/track/3zIuHdD8dkh1vPxQu334T7"
+    },
+    {
+      "added_at": "2022-09-15 22:01:00",
       "album": {
         "name": "Coltrane's Sound",
         "url": "https://open.spotify.com/album/2h8x8HL7N3grURq1OM77ja"
@@ -565,7 +597,7 @@
       "url": "https://open.spotify.com/track/3aEshDcbhyoOtsxbP0RYoQ"
     },
     {
-      "added_at": "2022-09-07 11:10:21",
+      "added_at": "2022-09-15 22:01:00",
       "album": {
         "name": "The Complete Africa / Brass Sessions",
         "url": "https://open.spotify.com/album/04nfBhMWMp1Y6zhl4o0psq"
@@ -581,7 +613,7 @@
       "url": "https://open.spotify.com/track/71RPjNw25QN44DbMHhNlFO"
     },
     {
-      "added_at": "2022-09-07 11:10:21",
+      "added_at": "2022-09-15 22:01:00",
       "album": {
         "name": "Coltrane Jazz",
         "url": "https://open.spotify.com/album/1rYvimVGwIQgc5IhBwLBuX"
@@ -597,7 +629,7 @@
       "url": "https://open.spotify.com/track/1Rph9i0FWKDa9Aq9H4iiMx"
     },
     {
-      "added_at": "2022-09-07 11:10:21",
+      "added_at": "2022-09-15 22:01:00",
       "album": {
         "name": "The Last Trane",
         "url": "https://open.spotify.com/album/7vidJBr8AgwyiVYQnMHaZ9"
@@ -613,7 +645,7 @@
       "url": "https://open.spotify.com/track/5JhHBvu41PEkDQLtUy0I2g"
     },
     {
-      "added_at": "2022-09-07 11:10:21",
+      "added_at": "2022-09-15 22:01:00",
       "album": {
         "name": "Stardust",
         "url": "https://open.spotify.com/album/4xqrPtNB1AmM2qFLOCZ1GW"
@@ -629,7 +661,7 @@
       "url": "https://open.spotify.com/track/1tmS9GlMz65L605SucDUsA"
     },
     {
-      "added_at": "2022-09-07 11:10:21",
+      "added_at": "2022-09-15 22:01:00",
       "album": {
         "name": "Duke Ellington & John Coltrane",
         "url": "https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5"
@@ -649,7 +681,7 @@
       "url": "https://open.spotify.com/track/6aNnVdpAQu8R0qGq5NMXyZ"
     },
     {
-      "added_at": "2022-09-07 11:10:21",
+      "added_at": "2022-09-15 22:01:00",
       "album": {
         "name": "Crescent",
         "url": "https://open.spotify.com/album/1G3jdGqZNUrC8ZDesZB8xp"
@@ -665,23 +697,7 @@
       "url": "https://open.spotify.com/track/4m2KaJ4OXKkPcCKe1wb2Pc"
     },
     {
-      "added_at": "2022-09-07 11:10:21",
-      "album": {
-        "name": "Blue Train (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4vIJFprkZ7vyN6nhcBgQmG"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 550760,
-      "name": "Moment's Notice - Remastered 2003/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/3TnqliDSJY2iWjL6F38ocE"
-    },
-    {
-      "added_at": "2022-09-07 11:10:21",
+      "added_at": "2022-09-15 22:01:00",
       "album": {
         "name": "Lush Life",
         "url": "https://open.spotify.com/album/63vpVRMhMQQZj4c7SRfP4y"
@@ -697,7 +713,7 @@
       "url": "https://open.spotify.com/track/1PLbGCU1s3imPfz7FZ4NI0"
     },
     {
-      "added_at": "2022-09-07 11:10:21",
+      "added_at": "2022-09-15 22:01:00",
       "album": {
         "name": "Live At Birdland",
         "url": "https://open.spotify.com/album/3bFxBCBwFQ8WGRghgoUxaU"
@@ -713,23 +729,7 @@
       "url": "https://open.spotify.com/track/013grywiX7Qu6WVfnJ1opa"
     },
     {
-      "added_at": "2022-09-07 11:10:21",
-      "album": {
-        "name": "Blue Train (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4vIJFprkZ7vyN6nhcBgQmG"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 644013,
-      "name": "Blue Train - Remastered 2003/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/6ZgaUtMlUzUf7SqbUUnfbu"
-    },
-    {
-      "added_at": "2022-09-07 11:10:21",
+      "added_at": "2022-09-15 22:01:00",
       "album": {
         "name": "Coltrane Jazz",
         "url": "https://open.spotify.com/album/1rYvimVGwIQgc5IhBwLBuX"
@@ -745,7 +745,23 @@
       "url": "https://open.spotify.com/track/38DgLl4Cm6tU7wKyB6ZykE"
     },
     {
-      "added_at": "2022-09-07 11:10:21",
+      "added_at": "2022-09-15 22:01:00",
+      "album": {
+        "name": "Blue Train",
+        "url": "https://open.spotify.com/album/2Z11cXWEa2qqYQBGkJrCga"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 434624,
+      "name": "Locomotion - Remastered",
+      "url": "https://open.spotify.com/track/4R8sx3JYPAEyOAwpOxnALk"
+    },
+    {
+      "added_at": "2022-09-15 22:01:00",
       "album": {
         "name": "The Final Tour: The Bootleg Series, Vol. 6",
         "url": "https://open.spotify.com/album/3p6XK8PERkujtV6MRu7QH3"
@@ -765,7 +781,7 @@
       "url": "https://open.spotify.com/track/6Qpke1nLtW5lciSvWy87KS"
     },
     {
-      "added_at": "2022-09-07 11:10:21",
+      "added_at": "2022-09-15 22:01:00",
       "album": {
         "name": "Turning Point",
         "url": "https://open.spotify.com/album/4k4GArOeURhbuSgwxr1K96"
@@ -781,7 +797,7 @@
       "url": "https://open.spotify.com/track/0Y6BbUaS6TfTrB2ZqtprnR"
     },
     {
-      "added_at": "2022-09-07 11:10:21",
+      "added_at": "2022-09-15 22:01:00",
       "album": {
         "name": "Giant Steps (Mono)",
         "url": "https://open.spotify.com/album/7MBQWjukLxXZYvQ8vzEH7t"
@@ -797,7 +813,7 @@
       "url": "https://open.spotify.com/track/5cAwEKmadsW4nCYe9QUvgU"
     },
     {
-      "added_at": "2022-09-07 11:10:21",
+      "added_at": "2022-09-15 22:01:00",
       "album": {
         "name": "Living Space",
         "url": "https://open.spotify.com/album/4VfwIglkIBIVoi3VeoYxB4"
@@ -813,7 +829,7 @@
       "url": "https://open.spotify.com/track/6uCYqP3NK1cRE5eOOx7F3z"
     },
     {
-      "added_at": "2022-09-07 11:10:21",
+      "added_at": "2022-09-15 22:01:00",
       "album": {
         "name": "My Favorite Things",
         "url": "https://open.spotify.com/album/3nLStxdTkSzihxm7FTLzCP"
@@ -829,7 +845,7 @@
       "url": "https://open.spotify.com/track/2urSBQat1mXT6bLgCunxAy"
     },
     {
-      "added_at": "2022-09-07 11:10:21",
+      "added_at": "2022-09-15 22:01:00",
       "album": {
         "name": "Stellar Regions (Expanded Edition)",
         "url": "https://open.spotify.com/album/7mRUsJqMx3abxYEVch43bI"
@@ -845,7 +861,7 @@
       "url": "https://open.spotify.com/track/4NiKtErEz8AzMHw6XzXhbm"
     },
     {
-      "added_at": "2022-09-07 11:10:21",
+      "added_at": "2022-09-15 22:01:00",
       "album": {
         "name": "Coltrane [Rudy Van Gelder Remaster]",
         "url": "https://open.spotify.com/album/012Zmc4xCOiJaR4wlnbtWg"

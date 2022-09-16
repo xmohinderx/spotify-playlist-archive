@@ -4,7 +4,7 @@
 
 > The biggest party hits of the 1970s\. Cover: The Jacksons.
 
-320 songs - 21 hr 8 min - [published](https://open.spotify.com/playlist/2OkbfmWWY4oCLX6EhdyVrn)
+321 songs - 21 hr 11 min - [published](https://open.spotify.com/playlist/2OkbfmWWY4oCLX6EhdyVrn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Ain't Gonna Bump No More \(With No Big Fat Woman\)](https://open.spotify.com/track/0XXjBRi5sNWojqxmYJGiA2) | [Joe Tex](https://open.spotify.com/artist/5TbXjzD8tYgMD5JU2g2F8q) | [The Very Best of, Volume 2.](https://open.spotify.com/album/5lPTpJorZZwS5pI9C0socS) | 6:43 | 2021-09-08 | 2022-07-29 |
 | [Ain't No Stoppin' Us Now](https://open.spotify.com/track/4Ymk3pqpkGx19gyxxUj5LK) | [McFadden & Whitehead](https://open.spotify.com/artist/3iQM78Xg0wJnGZhgVNLPmY) | [McFadden & Whitehead](https://open.spotify.com/album/49y7YFLvKz54gVZZzHbAzs) | 7:00 | 2021-09-08 | 2022-08-19 |
 | [Ain't No Stoppin' Us Now \- Single Version](https://open.spotify.com/track/18piene9mIdOJA2dura9LH) | [McFadden & Whitehead](https://open.spotify.com/artist/3iQM78Xg0wJnGZhgVNLPmY) | [Bridget Jones’s Baby \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4JEghNfeXfS21MXpZWiRlc) | 3:37 | 2021-07-20 | 2022-07-26 |
+| [Ain't No Stoppin' Us Now \- Single Version](https://open.spotify.com/track/352zgXSWzF85TvLhzJ7kkK) | [McFadden & Whitehead](https://open.spotify.com/artist/3iQM78Xg0wJnGZhgVNLPmY) | [The Best Of Philadelphia International Records](https://open.spotify.com/album/3H07uxfYAIqJqrKitWQGtZ) | 3:37 | 2021-07-20 |  |
 | [All Right Now](https://open.spotify.com/track/1gcESexgftSuLuML57Y69q) | [Free](https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC) | [Fire And Water](https://open.spotify.com/album/1ydlm89JR8cV8VuSaNvHNL) | 5:30 | 2021-03-22 |  |
 | [Alright, Alright, Alright](https://open.spotify.com/track/3KzW4e9ysp81i5b2KwO2SE) | [Mungo Jerry](https://open.spotify.com/artist/2mbvqMGpwLsakeH45p1Jrb) | [In the Summertime](https://open.spotify.com/album/30UgyUTvmdYXNo7CeMabXY) | 2:47 | 2021-09-08 | 2022-07-21 |
 | [American Pie](https://open.spotify.com/track/2QgWuCtBpNIpl5trmKCxRf) | [Don McLean](https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8) | [The Best Of Don McLean](https://open.spotify.com/album/20Y9wHWIxNFvqplgHmqmUl) | 8:35 | 2021-09-08 |  |
@@ -123,7 +124,7 @@
 | [Hot Stuff](https://open.spotify.com/track/2zMJN9JvDlvGP4jB03l1Bz) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Bad Girls](https://open.spotify.com/album/58GjBhQvLHwfQFJtdP9Oxg) | 5:14 | 2021-03-22 |  |
 | [I Can't Stand the Rain](https://open.spotify.com/track/2SWmfd8iv4CiBOztWJebux) | [Eruption](https://open.spotify.com/artist/3R6f1aBWwde7ZqGv7hf4dY) | [4 Hits: Eruption](https://open.spotify.com/album/26BHqKni1MTqwIcdSUFLRm) | 3:05 | 2021-03-22 | 2022-07-26 |
 | [I Feel Love](https://open.spotify.com/track/1vCBk33l9HaWp5FOnhSGxk) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [I Remember Yesterday](https://open.spotify.com/album/04nlrp346ZfIBhxsNOxpqe) | 5:55 | 2021-03-22 |  |
-| [I Love Music](https://open.spotify.com/track/222TScMmzaZ0IdkvbLoin2) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Family Reunion \(Expanded Edition\)](https://open.spotify.com/album/2Q3cf5aSlA9Da2269Ai8fD) | 6:53 | 2021-09-08 |  |
+| [I Love Music](https://open.spotify.com/track/222TScMmzaZ0IdkvbLoin2) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Family Reunion \(Expanded Edition\)](https://open.spotify.com/album/2Q3cf5aSlA9Da2269Ai8fD) | 6:53 | 2021-09-08 | 2022-09-16 |
 | [I Love The Nightlife \(Disco 'Round\) \- Single Version](https://open.spotify.com/track/1CxvZPtIyPU9CdYMj7vhtI) | [Alicia Bridges](https://open.spotify.com/artist/1UY4oIFpjCKe5qIhKDcloe) | [Disco Dancing](https://open.spotify.com/album/3mdDHJ4zhTRox2n0IFcOPa) | 3:07 | 2021-03-22 | 2022-07-29 |
 | [I Love to Love](https://open.spotify.com/track/5jWI1xNxABzDRFTnD2yp8L) | [Tina Charles](https://open.spotify.com/artist/7Jbs4wPCLaKXPxrTxZ2zaa) | [I Love To Love \- The Best Of](https://open.spotify.com/album/4tQ54MqaSzOZmi5aL2G647) | 3:03 | 2021-03-22 |  |
 | [I Only Wanna Be with You](https://open.spotify.com/track/3XY0oIVf2roUFIwkzjBgwt) | [Bay City Rollers](https://open.spotify.com/artist/3r9TXuXfOUxXjgYgAR0fP8) | [Dedication](https://open.spotify.com/album/3YrxreFcscK7Lkb8a6Nc7Y) | 3:36 | 2021-09-08 | 2022-07-29 |

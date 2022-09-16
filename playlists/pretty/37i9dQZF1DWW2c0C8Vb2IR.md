@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2c0C8Vb2IR.md) - [plain]
 
 > All new, all jazz\. Cover: Ryan Porter
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,280 likes - 40 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,323 likes - 40 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

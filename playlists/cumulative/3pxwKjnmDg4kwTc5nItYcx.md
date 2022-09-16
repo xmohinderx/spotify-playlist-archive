@@ -4,7 +4,7 @@
 
 > Let your mind float away with these down\-tempo easy listening tracks\. Cover: Budjerah
 
-619 songs - 1 day 9 hr 24 min - [published](https://open.spotify.com/playlist/131I5jMqZujDbJb8JAE5m8)
+620 songs - 1 day 9 hr 26 min - [published](https://open.spotify.com/playlist/131I5jMqZujDbJb8JAE5m8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,8 +147,8 @@
 | [Eternal Flame](https://open.spotify.com/track/2BJmGtlUq5abmG0i64xSzD) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Eternal Flame](https://open.spotify.com/album/1GGbxiDMS1IfClccAeXm9W) | 2:35 | 2019-12-16 | 2020-05-19 |
 | [Eulogy for the Living](https://open.spotify.com/track/2vpHQ1P7huPZvQvL9HyGHv) | [Client Liaison](https://open.spotify.com/artist/5TjlxSJvfrD5I2PWaEh4jZ) | [Divine Intervention](https://open.spotify.com/album/78DTvdE1hoKG6Dm7qA7sFS) | 3:33 | 2021-10-02 |  |
 | [Euphoria](https://open.spotify.com/track/7F4p9HU836tGnUBLwJhHiu) | [Harper Finn](https://open.spotify.com/artist/3CUxThJ21i78mhH1FfH55u) | [Newcomer](https://open.spotify.com/album/1sXxuN4YB7Fisgjmp96l9k) | 2:57 | 2022-07-28 |  |
-| [Evergreen](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 | 2022-09-14 |  |
 | [EVERGREEN](https://open.spotify.com/track/7B3jGR7VnzEW9Z8av4Hsuk) | [Scott Helman](https://open.spotify.com/artist/2LgklPXmvWVOQfzPVkuChg) | [EVERGREEN](https://open.spotify.com/album/1KF7MFZGSKagaCWXtMzFmA) | 2:47 | 2019-11-22 | 2020-05-19 |
+| [Evergreen \(You Didn’t Deserve Me At All\)](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 | 2022-09-14 |  |
 | [Every Day Is A Holiday](https://open.spotify.com/track/7vjWe160MXCv2jiyH3EQMH) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8), [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh) | [Every Day Is A Holiday](https://open.spotify.com/album/2ghvPH9H4tJcFqqzcR4RK3) | 5:53 | 2020-08-25 | 2021-05-12 |
 | [Everything I Didn’t Say](https://open.spotify.com/track/3g6GXZAgm8lyIcKH91uaoL) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Everything I Didn’t Say](https://open.spotify.com/album/7kG8Wp4XlwpnZWWqEHJHz6) | 3:27 | 2022-03-06 |  |
 | [EX](https://open.spotify.com/track/1Ev3UNEWEszimFy4cvemGr) | [Ojikae](https://open.spotify.com/artist/3moDp3eFeUgBTCqUSxcPZF) | [EX](https://open.spotify.com/album/7JNzoZ4q7jg6gYNKcF3uLi) | 4:06 | 2019-08-27\* | 2019-11-11 |
@@ -323,6 +323,7 @@
 | [Lie to Me \(feat\. Kensington Moore\)](https://open.spotify.com/track/6Vi7Fvc9ahL8IhjCmnYG2P) | [Josh Pineda](https://open.spotify.com/artist/62H6ZR7aXjipbCFoTFBLwE), [Kensington Moore](https://open.spotify.com/artist/2uxqs8ftwTdK4N5BBUvVyf) | [Lie to Me \(feat\. Kensington Moore\)](https://open.spotify.com/album/52u6IwkAZjBb4EudGFXNBl) | 3:17 | 2021-08-14 |  |
 | [Life Goes On](https://open.spotify.com/track/7HbKIvZWeJPD6JmxQymOZ8) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [Life Goes On](https://open.spotify.com/album/5XCwUCcCM9fw79tU9Ga1BV) | 3:21 | 2020-07-31 | 2021-05-12 |
 | [Life Lessons in the Parking Lot](https://open.spotify.com/track/3Pzwe21HinvcRIE9Cdw9hN) | [Julia Kahn](https://open.spotify.com/artist/2QwOKaXwgYtPBG99jbwc3L) | [Life Lessons in the Parking Lot](https://open.spotify.com/album/1WhkhRCL0vcmI02grjAaTa) | 3:32 | 2021-01-23 |  |
+| [Lifestyle](https://open.spotify.com/track/32z22TqvJ9YaFo2FAG78Sx) | [Oliver Cronin](https://open.spotify.com/artist/1dfo9BgmIfeKcAvKieKqiG) | [For Now…](https://open.spotify.com/album/72Zhf96qOiglgGKf8Q8Drv) | 2:19 | 2022-09-15 |  |
 | [Lips Don't Lie \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/6XemQkX3lgqDC21nNdbdVw) | [Ally Brooke](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Lips Don't Lie \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/album/3WsN9dZsEjTvA1bBQF0nZc) | 2:46 | 2019-08-27\* | 2019-11-11 |
 | [Locking Eyes](https://open.spotify.com/track/7dSIUPVTTqUkdy6GOaWxzZ) | [Shanae](https://open.spotify.com/artist/6DThBRy7oFjMSWQyQoKY9p) | [Locking Eyes](https://open.spotify.com/album/4cyuiSDnfjOX7RESklzpFu) | 2:49 | 2021-02-06 |  |
 | [London](https://open.spotify.com/track/4q6kvDd16UTfNHXLc5a923) | [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs) | [London](https://open.spotify.com/album/63GgFXDeK5LlZbvyb5Yt0Y) | 2:54 | 2019-08-27\* | 2019-11-11 |

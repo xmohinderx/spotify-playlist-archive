@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Marvvila e mais mulheres para serem ouvidas no máximo volume.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,679 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,715 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,16 +18,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 8 | [Fulminante / Deixa Eu Te Querer / Eu Tenho Muito Mais / Mega Star / Tudo Fica Blue](https://open.spotify.com/track/2vwKr945eAMd8SmuWEfTvj) | [Karinah](https://open.spotify.com/artist/2fmAUYDODPfZav0wlyGnNb), [Ana Clara](https://open.spotify.com/artist/0TtPqZpxJ9ui2gTjwgTOsr), [Andressa Hayalla](https://open.spotify.com/artist/0RqGSqWkrRo4l1mrqi78ml), [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz) | [Por Elas](https://open.spotify.com/album/2eUtuvJIhYIYIRRGvDscfm) | 9:16 |
 | 9 | [Alguém Me Avisou/Acreditar/Sonho Meu](https://open.spotify.com/track/6YJIXLfsDa9sR5iTmlCkoX) | [Dona Ivone Lara](https://open.spotify.com/artist/6Q1U3z1hge970f3QhrPKcW) | [Sempre a Cantar](https://open.spotify.com/album/1HyCOfJKZJ2uQqQfenUaGO) | 5:04 |
 | 10 | [Numanice Lud Session \- Modo Avião / A Tua Voz / 700 Por Hora / Radar / A Música Mais Triste do Ano \- Ao vivo](https://open.spotify.com/track/3hXCANK2ys6D2HZE3kuDfz) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Numanice Lud Session \- Modo Avião / A Tua Voz / 700 Por Hora / Radar / A Música Mais Triste do Ano \(Ao vivo\)](https://open.spotify.com/album/2HKlCAIctOxLg9KCvtX4Yu) | 8:49 |
-| 11 | [De Onde Eu Venho](https://open.spotify.com/track/5lB9tRMWNPDSAvvcWCfuP2) | [Jojo Maronttinni](https://open.spotify.com/artist/6bGwi8TG7T8Vcp415XooE5) | [De Onde Eu Venho](https://open.spotify.com/album/1AeaL5VuVyBVFYbtMIVKx8) | 4:13 |
-| 12 | [Desse Jeito](https://open.spotify.com/track/7Gr4jhJ1wJ1z4jaax3G2gp) | [Maria Rita](https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI) | [Desse Jeito](https://open.spotify.com/album/5vTAwzNFPDnU2F1UmWQdXE) | 3:35 |
-| 13 | [Quando Fui Chuva / Fim de Tarde / Palpite \- Ao Vivo](https://open.spotify.com/track/7L8el2whAetFXY6Zs2dph2) | [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz) | [Marvvila na Área \(Ao Vivo\)](https://open.spotify.com/album/2g4R36g4rMzR8ST2xLQu39) | 5:02 |
+| 11 | [Desse Jeito](https://open.spotify.com/track/7Gr4jhJ1wJ1z4jaax3G2gp) | [Maria Rita](https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI) | [Desse Jeito](https://open.spotify.com/album/5vTAwzNFPDnU2F1UmWQdXE) | 3:35 |
+| 12 | [De Onde Eu Venho](https://open.spotify.com/track/5lB9tRMWNPDSAvvcWCfuP2) | [Jojo Maronttinni](https://open.spotify.com/artist/6bGwi8TG7T8Vcp415XooE5) | [De Onde Eu Venho](https://open.spotify.com/album/1AeaL5VuVyBVFYbtMIVKx8) | 4:13 |
+| 13 | [Video Caseiro](https://open.spotify.com/track/3hB1WZbng6mDmFnGt7EUYC) | [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz) | [Video Caseiro](https://open.spotify.com/album/74eq2PIoEW59ZhxEQ2CBry) | 2:06 |
 | 14 | [Só Faltava Você](https://open.spotify.com/track/3psECZoLnmidiY8nuVbkGV) | [Adryana E A Rapaziada](https://open.spotify.com/artist/00ep8cgSCWpbduJ1URTq4f) | [Adryana E A Rapaziada](https://open.spotify.com/album/3XW1vHPMVT5uhibMEr6sKI) | 3:54 |
 | 15 | [Coisinha do Pai](https://open.spotify.com/track/0QSFBx4LlChEpPlzPLChNJ) | [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3) | [No Pagode](https://open.spotify.com/album/2uBX8Y56Tud8On8rnShgZV) | 2:54 |
 | 16 | [Já Tentei](https://open.spotify.com/track/4sdRp34oxkwDS93FO5ylnZ) | [Gabby Moura](https://open.spotify.com/artist/7AToPxUvnpmlUQckUA2LyK) | [Já Tentei](https://open.spotify.com/album/1vdeKE81EdUuwmlr9eYuNy) | 2:48 |
 | 17 | [Pot\-Pourri: Papai Vadiou / As Coisas Que Mamãe Me Ensinou / Fundo De Quintal / Olodum Força Divina](https://open.spotify.com/track/072JReybalIBM7sUBT690l) | [Leci Brandao](https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u) | [Somos Da Mesma Tribo](https://open.spotify.com/album/66LpSnwVfWhA4qVA0MevWM) | 5:05 |
 | 18 | [Insegurança Zero \- A Mãe Tá On](https://open.spotify.com/track/0RXM4Hf0dQqN4Nei6kZyeb) | [Karinah](https://open.spotify.com/artist/2fmAUYDODPfZav0wlyGnNb) | [Karinah \- EP Completo](https://open.spotify.com/album/59ifGPTZEygDroWdVlyjpY) | 2:23 |
 | 19 | [Jogo de Aposta](https://open.spotify.com/track/3dGZE3ALCdLynbwJQ05fKy) | [Jecy](https://open.spotify.com/artist/10RqlMm59EFKFeUc9LA1Uv) | [Jogo de Aposta](https://open.spotify.com/album/5ZPL8STC4NCBb7ms7vyJL0) | 2:46 |
-| 20 | [Video Caseiro](https://open.spotify.com/track/3hB1WZbng6mDmFnGt7EUYC) | [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz) | [Video Caseiro](https://open.spotify.com/album/74eq2PIoEW59ZhxEQ2CBry) | 2:06 |
+| 20 | [Quando Fui Chuva / Fim de Tarde / Palpite \- Ao Vivo](https://open.spotify.com/track/7L8el2whAetFXY6Zs2dph2) | [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz) | [Marvvila na Área \(Ao Vivo\)](https://open.spotify.com/album/2g4R36g4rMzR8ST2xLQu39) | 5:02 |
 | 21 | [Tendência](https://open.spotify.com/track/4SaKd5ZIIF4X8yIbcacF5E) | [Dona Ivone Lara](https://open.spotify.com/artist/6Q1U3z1hge970f3QhrPKcW) | [Nasci Pra Sonhar](https://open.spotify.com/album/01zbo1QdyYqUFb9nB9841a) | 3:51 |
 | 22 | [Por Educação](https://open.spotify.com/track/4qJ0eu8F8ejjUADFnSZP2p) | [Sara Lachine](https://open.spotify.com/artist/2nApUfqw3hOMna07BH4wLx) | [Por Educação](https://open.spotify.com/album/1mrtOQ3Ar4nu0Q9t7J0cIf) | 2:59 |
 | 23 | [Samba Pras Moças / O Dono da Dor / Quando a Gira Girou / Minha Fé / Quem É Ela / Água da Minha Sede / Malandro Que Sou \- Ao Vivo](https://open.spotify.com/track/4gdVxwLqWBbVSVtr1GKyZa) | [Grupo Entre Elas](https://open.spotify.com/artist/1uf5VoVElqaxoJ4dZ7EC9X) | [Samba Pras Moças \(Ao Vivo\)](https://open.spotify.com/album/5kaxmvzfGTuyJVY384066S) | 17:38 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 45 | [Me Dá Medo](https://open.spotify.com/track/745KCv0RNKmBJw2nNG1J8v) | [Deborah Vasconcellos](https://open.spotify.com/artist/3BOl8wZTxAxIto7R58oGwe) | [Me Dá Medo](https://open.spotify.com/album/1QFKknV6C5szoTgvAMulPS) | 3:33 |
 | 46 | [Mulheres no Samba](https://open.spotify.com/track/5EQEo7xqqUi2ZJki184E7J) | [Roberta Gomes](https://open.spotify.com/artist/5V9zPUr8RgHZ8mxPKdKLB8) | [Mulheres no Samba](https://open.spotify.com/album/4puIpGKncZSJOXSigLPuGU) | 4:09 |
 | 47 | [Somente Sombras](https://open.spotify.com/track/1AWFJAbgj4FeoiUJuZxIOA) | [Luciana Mello](https://open.spotify.com/artist/0rzVUhvOIVNUbY6uKCpGfb), [Alcione](https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo) | [Na Luz do Samba](https://open.spotify.com/album/4kwIebMAYuCJ9bVTuoU5kX) | 3:25 |
-| 48 | [Me Dá Medo](https://open.spotify.com/track/5auanW6AqfUOcb0m3Jp3mQ) | [Amanda Amado](https://open.spotify.com/artist/5XxWSpbD4LTTKYnKxJVZPD) | [Amanda Amado](https://open.spotify.com/album/6R9hyoV5cGMA17yxlHFVWD) | 3:36 |
-| 49 | [Tô Mal Sem Você](https://open.spotify.com/track/6j5VBA1pU8HC152bizUTmT) | [Renata Santiago](https://open.spotify.com/artist/350CZjxmwYrv1sTR2sdsDW) | [Bota o Meu Som Aí](https://open.spotify.com/album/5bdTS6JVvkksNHmRimJEfV) | 3:23 |
+| 48 | [Tô Mal Sem Você](https://open.spotify.com/track/6j5VBA1pU8HC152bizUTmT) | [Renata Santiago](https://open.spotify.com/artist/350CZjxmwYrv1sTR2sdsDW) | [Bota o Meu Som Aí](https://open.spotify.com/album/5bdTS6JVvkksNHmRimJEfV) | 3:23 |
+| 49 | [Me Dá Medo](https://open.spotify.com/track/5auanW6AqfUOcb0m3Jp3mQ) | [Amanda Amado](https://open.spotify.com/artist/5XxWSpbD4LTTKYnKxJVZPD) | [Amanda Amado](https://open.spotify.com/album/6R9hyoV5cGMA17yxlHFVWD) | 3:36 |
 | 50 | [É por Isso Que Eu Canto](https://open.spotify.com/track/3Rg8RMrxV4af6FrEtrGTF3) | [Deborah Vasconcellos](https://open.spotify.com/artist/3BOl8wZTxAxIto7R58oGwe) | [É por Isso Que Eu Canto](https://open.spotify.com/album/1UisqGFhgIvZeKIy0dcRnC) | 3:28 |
 
-Snapshot ID: `MTY2MjY5MjQwMCwwMDAwMDAwMDM1ZjNiMzVkMmRhNWQ1ZTE5ZDNhMGM2YzkxZjBhMWUx`
+Snapshot ID: `MTY2MjY5MjQwMCwwMDAwMDAwMDg3NjA2OTI4ZGYxYWIyNDA4YzIwYjhlMTg4NjEyMTJj`

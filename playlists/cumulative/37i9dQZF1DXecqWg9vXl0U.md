@@ -4,7 +4,7 @@
 
 > como en una nube\. Bedroom pop vibes featuring Clara Yolks.
 
-159 songs - 8 hr 55 min - [published](https://open.spotify.com/playlist/5bz3k8QNNTUrWUgar676qo)
+160 songs - 8 hr 57 min - [published](https://open.spotify.com/playlist/5bz3k8QNNTUrWUgar676qo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [aunque quisiera, no podría](https://open.spotify.com/track/2Eem56vLTyF2pi2T19AmvG) | [Kora](https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD) | [fuera de lugar](https://open.spotify.com/album/6Z73rP80ugJPA7zEhCitar) | 4:22 | 2022-03-25 | 2022-08-27 |
 | [Aura](https://open.spotify.com/track/3FcNx0xneevygzqjZaSDIo) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Aura](https://open.spotify.com/album/1i3MA9Eamgjk3SKYFo0zdn) | 3:27 | 2022-07-11 |  |
 | [Axis](https://open.spotify.com/track/3pvEEzySFpo6jsZ1W2cNOS) | [Natalia Spiner](https://open.spotify.com/artist/1sZOtmJhnHfBgjvkuW7sK6) | [Axis](https://open.spotify.com/album/00q0x8KcLoNQr5B5pLfPaT) | 3:53 | 2022-07-19 | 2022-08-30 |
-| [Bien](https://open.spotify.com/track/3WLeXmLujC9lnlT44aTvGR) | [Ev](https://open.spotify.com/artist/21EczEifDKebasemX58Jp8) | [Okay!](https://open.spotify.com/album/3ZYoorCmWoiAD8DgxrcrTW) | 4:02 | 2022-03-25 |  |
+| [Bien](https://open.spotify.com/track/3WLeXmLujC9lnlT44aTvGR) | [Ev](https://open.spotify.com/artist/21EczEifDKebasemX58Jp8) | [Okay!](https://open.spotify.com/album/3ZYoorCmWoiAD8DgxrcrTW) | 4:02 | 2022-03-25 | 2022-09-16 |
 | [Bijoux](https://open.spotify.com/track/2HAyheU6dVyB9YaokB56SW) | [Soap](https://open.spotify.com/artist/1XlQX9RnsbZuOm7gByAyIB) | [Bijoux](https://open.spotify.com/album/7gxGCdVpkDisfbfPfOD1qC) | 4:22 | 2022-03-25 |  |
 | [Bugambilias,](https://open.spotify.com/track/1zTt6hBP6e6SGJ1VZr4yvA) | [princesa cereza](https://open.spotify.com/artist/607kbpXirULyTo1jdRtooo) | [Bugambilias](https://open.spotify.com/album/3jYF4JJTog7jo3ihIq4y1c) | 4:06 | 2022-07-11 | 2022-08-11 |
 | [C'est Pas Moi](https://open.spotify.com/track/4LOS1xKULiLw4y4GegBlwE) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [C'est Pas Moi](https://open.spotify.com/album/1I9S7r4dEM14NWTYMcbLIX) | 3:26 | 2022-03-25 | 2022-04-23 |
@@ -104,6 +104,7 @@
 | [Noctámbula](https://open.spotify.com/track/0FD55GW2V8cfDf3GikuGm1) | [Entre Desiertos](https://open.spotify.com/artist/6EfZlD0Lw7RsNhDMlHH4YL) | [Noctámbula](https://open.spotify.com/album/6tqCKu4P73ZT81bldAO4g3) | 3:45 | 2022-03-25 | 2022-05-17 |
 | [nuestra historia](https://open.spotify.com/track/66gTt3LAz9w8Xlrlj3zoJU) | [Quelle Rox](https://open.spotify.com/artist/4iDXgOhz2OE5TjrvCyNZc7) | [coffee & a cig](https://open.spotify.com/album/4NefaGha9X5oeSKH2UHG1d) | 4:01 | 2022-03-25 | 2022-07-29 |
 | [Nunca Te Dejaré Ir](https://open.spotify.com/track/0FB054yjgRBv1sWNNFoMxS) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U) | [Nunca Te Dejaré Ir](https://open.spotify.com/album/2DJ7QXD6yaWvyylxsizFcx) | 1:54 | 2022-03-25 | 2022-09-13 |
+| [Nunca Te Dejaré Ir](https://open.spotify.com/track/5Enzcachkod8O3ykRHUZLw) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U) | [Nunca Te Dejaré Ir](https://open.spotify.com/album/1Dck2luCLqrh6rudNBEkCv) | 1:54 | 2022-09-02 |  |
 | [ojitos caramelo](https://open.spotify.com/track/42fEi9btF7pTboFbvm36ZF) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [ojitos caramelo](https://open.spotify.com/album/6iu9ntDuzcQDasNFamkhhs) | 2:27 | 2022-03-25 | 2022-06-25 |
 | [Ojos](https://open.spotify.com/track/15WodMbVgXo5jVuGtYztjp) | [Montufar](https://open.spotify.com/artist/6BuzxLQYLRoxxjuD8iSx1t) | [Ojos](https://open.spotify.com/album/1aubTSnt8NNqx2mYBLNhsX) | 3:42 | 2022-03-25 |  |
 | [Olvidarme](https://open.spotify.com/track/52XioIzucenybSvvimJ1hk) | [Donovan](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax) | [Olvidarme](https://open.spotify.com/album/6T1ZAoP7VkeDbdKwlwI1q1) | 2:51 | 2022-03-25 | 2022-04-19 |

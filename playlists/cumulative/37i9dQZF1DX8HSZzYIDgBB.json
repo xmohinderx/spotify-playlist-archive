@@ -262,6 +262,24 @@
     },
     {
       "album": {
+        "name": "Visceras",
+        "url": "https://open.spotify.com/album/7gklIEvQSc5xeaSWVNlH3j"
+      },
+      "artists": [
+        {
+          "name": "Weste",
+          "url": "https://open.spotify.com/artist/5TlgMX2qZVaWy2JI12tK2q"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101066,
+      "name": "Baile Infinito",
+      "url": "https://open.spotify.com/track/1k14lnPXq7oTS03YFcwjzq"
+    },
+    {
+      "album": {
         "name": "Bonito",
         "url": "https://open.spotify.com/album/6LyiWORGEUBMbphHMdZNSL"
       },
@@ -1408,6 +1426,24 @@
     },
     {
       "album": {
+        "name": "Joyas",
+        "url": "https://open.spotify.com/album/7aNoysMFjBa4Nxy4XQcoqN"
+      },
+      "artists": [
+        {
+          "name": "Valgur",
+          "url": "https://open.spotify.com/artist/0HHh73DHIGrZjm3dADNdcH"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172402,
+      "name": "Joyas",
+      "url": "https://open.spotify.com/track/7HuyjEAR0uhAvzfDLpsOHO"
+    },
+    {
+      "album": {
         "name": "New Latam Beats from Mexico Curated by Diguital Trip",
         "url": "https://open.spotify.com/album/3T4SxLhzVaweReuWbisvrz"
       },
@@ -2511,7 +2547,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 154440,
       "name": "Perdida En Un Sue\u00f1o",
       "url": "https://open.spotify.com/track/1wRVAinPRWyR67BD7DIlRJ"
@@ -3119,7 +3155,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 226960,
       "name": "Tu Color",
       "url": "https://open.spotify.com/track/4vaVD9B0RbZ0Puk9ABIGEm"

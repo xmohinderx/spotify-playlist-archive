@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 185693,
       "name": "666",
       "url": "https://open.spotify.com/track/755QVRdvubfL0ncGAXls5W"
@@ -395,7 +395,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 166666,
       "name": "Be Kind",
       "url": "https://open.spotify.com/track/1r73DoCuAo0SN5Jh80z0gC"
@@ -493,7 +493,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 266057,
       "name": "Believe In You",
       "url": "https://open.spotify.com/track/2b8iLygyF2HIyVsXhz1zkJ"
@@ -757,7 +757,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 177967,
       "name": "Canvas",
       "url": "https://open.spotify.com/track/6I2Tosj9AKcV7s1KXksRAI"
@@ -1007,7 +1007,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 282063,
       "name": "Dance The Night Away",
       "url": "https://open.spotify.com/track/3arJqa1D6ApaB4wYZSTSEC"
@@ -1268,6 +1268,24 @@
     },
     {
       "album": {
+        "name": "Do For You",
+        "url": "https://open.spotify.com/album/77X3sHw20x43dtaQxQZV9c"
+      },
+      "artists": [
+        {
+          "name": "Lutfil Latiff",
+          "url": "https://open.spotify.com/artist/2UsBCxfZJCcmcpzcQgfl2U"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Do For You",
+      "url": "https://open.spotify.com/track/7uBD4lEWmmWGUNscoRqF5I"
+    },
+    {
+      "album": {
         "name": "Doesn\u2019t Seem Like You Care",
         "url": "https://open.spotify.com/album/3vTndfPtLuYloW2KoD6N4H"
       },
@@ -1409,7 +1427,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 225124,
       "name": "Edge Of The World",
       "url": "https://open.spotify.com/track/7rPcWcfXJET5aQXYF2XLbo"
@@ -2271,7 +2289,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 159966,
       "name": "I Need",
       "url": "https://open.spotify.com/track/32Cwwxsfdt15oEQWHAjrrM"
@@ -2404,6 +2422,24 @@
     },
     {
       "album": {
+        "name": "insomaniac",
+        "url": "https://open.spotify.com/album/2zlHmXYXkQwPdEigti7vPE"
+      },
+      "artists": [
+        {
+          "name": "FUDGY",
+          "url": "https://open.spotify.com/artist/277YzxZXoTJUeJaH4cfmQL"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222040,
+      "name": "insomaniac",
+      "url": "https://open.spotify.com/track/1In2ojHhE3MrhlCg8Dk4BP"
+    },
+    {
+      "album": {
         "name": "It's Over",
         "url": "https://open.spotify.com/album/0xRsqrUyQUXivHojb8mUEY"
       },
@@ -2433,7 +2469,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 198844,
       "name": "It's You",
       "url": "https://open.spotify.com/track/4byuFHJt6Q2GBA39goXAYJ"
@@ -2571,6 +2607,24 @@
       "duration_ms": 186638,
       "name": "Laid Back",
       "url": "https://open.spotify.com/track/6Y39zm7oEs5xcJlli8Z7td"
+    },
+    {
+      "album": {
+        "name": "Last Bus",
+        "url": "https://open.spotify.com/album/1OqSJqgCUyFTlkbJiBJ9Sj"
+      },
+      "artists": [
+        {
+          "name": "CURB",
+          "url": "https://open.spotify.com/artist/16be15Aitv731NGEMWwt9V"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150312,
+      "name": "Last Bus",
+      "url": "https://open.spotify.com/track/46PIzwv3Ezp5WqcTfa3zUx"
     },
     {
       "album": {
@@ -3067,7 +3121,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 193071,
       "name": "midnight",
       "url": "https://open.spotify.com/track/2qfhWH1YdfYtZ86nFFZeDt"
@@ -3259,7 +3313,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 138666,
       "name": "NEW BOOM BAP",
       "url": "https://open.spotify.com/track/4t91Tm4XHy0ZI27AwkfT7Q"
@@ -3383,7 +3437,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 154468,
       "name": "nobody else",
       "url": "https://open.spotify.com/track/0aHNMjGs5KkQw6UJuWaYfV"
@@ -4018,6 +4072,28 @@
     },
     {
       "album": {
+        "name": "see you soon",
+        "url": "https://open.spotify.com/album/26K1hiMLrnuU63gdD19471"
+      },
+      "artists": [
+        {
+          "name": "Darryl Sim",
+          "url": "https://open.spotify.com/artist/0FbejZR1UoamwHNaZUXIDN"
+        },
+        {
+          "name": "Wren",
+          "url": "https://open.spotify.com/artist/5l2UPekSc9efPGnfa43lKQ"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184388,
+      "name": "see you soon",
+      "url": "https://open.spotify.com/track/6NRZ7rvVhYhMUF575qdzcR"
+    },
+    {
+      "album": {
         "name": "Shadows",
         "url": "https://open.spotify.com/album/3vLoez9XAXujGBr7CQjavo"
       },
@@ -4290,6 +4366,32 @@
     },
     {
       "album": {
+        "name": "SUNSET CHASER (with PFTD) [Radio Edit]",
+        "url": "https://open.spotify.com/album/5HV9cIJHJoGLEJSCsWXtrV"
+      },
+      "artists": [
+        {
+          "name": "Hell Boi",
+          "url": "https://open.spotify.com/artist/0MaNIO1pTWTWVEZVbEpVxk"
+        },
+        {
+          "name": "BROKEN ENGLISH",
+          "url": "https://open.spotify.com/artist/12QrRrP9PaSeZKM0SZozRm"
+        },
+        {
+          "name": "ziqry",
+          "url": "https://open.spotify.com/artist/0RIhhREfyHbEO50mJZdpxf"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150035,
+      "name": "SUNSET CHASER (with PFTD) - Radio Edit",
+      "url": "https://open.spotify.com/track/73iFppQnSxTicoooPXXbmW"
+    },
+    {
+      "album": {
         "name": "KRUSHED!",
         "url": "https://open.spotify.com/album/02mzm5lsX5ou3Yhq20gVKz"
       },
@@ -4439,6 +4541,24 @@
       "duration_ms": 277624,
       "name": "The Distance Between Us",
       "url": "https://open.spotify.com/track/2GuIPbnew5Ni091iBEt0ga"
+    },
+    {
+      "album": {
+        "name": "The Hardest Pill To Swallow",
+        "url": "https://open.spotify.com/album/5wuWE1wSqzbUEadCU6Ye6J"
+      },
+      "artists": [
+        {
+          "name": "Capt'n Trips and The Kid",
+          "url": "https://open.spotify.com/artist/2LotVsfwkoFhqeQW8ae6PN"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214541,
+      "name": "The Hardest Pill To Swallow",
+      "url": "https://open.spotify.com/track/1GoAAsmyjNAbyuSAeMrO18"
     },
     {
       "album": {
@@ -4876,6 +4996,24 @@
     },
     {
       "album": {
+        "name": "candies",
+        "url": "https://open.spotify.com/album/37bI4uV4mfgCvXFdq9nN8i"
+      },
+      "artists": [
+        {
+          "name": "Herbal Candy",
+          "url": "https://open.spotify.com/artist/4iS9f9ZV9yAHQ9wUcPtFPi"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109090,
+      "name": "warm udon",
+      "url": "https://open.spotify.com/track/1ms370DnPCWGYZnskrpYlu"
+    },
+    {
+      "album": {
         "name": "WAX",
         "url": "https://open.spotify.com/album/76ru3A54fpOk0TrCUt5VLn"
       },
@@ -5155,7 +5293,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 214500,
       "name": "Wishes for You",
       "url": "https://open.spotify.com/track/3re7ijVZIPpSZfWkECreHq"

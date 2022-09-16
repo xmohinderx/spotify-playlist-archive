@@ -340,6 +340,24 @@
     },
     {
       "album": {
+        "name": "This One's for You Too (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193200,
+      "name": "Beautiful Crazy",
+      "url": "https://open.spotify.com/track/2rxQMGVafnNaRaXlRMWPde"
+    },
+    {
+      "album": {
         "name": "Beers On Me",
         "url": "https://open.spotify.com/album/5MCXOrCsU3R1xQ3kLI4oXM"
       },
@@ -527,6 +545,24 @@
       "duration_ms": 198171,
       "name": "Blessed & Free",
       "url": "https://open.spotify.com/track/0HCFZGK3c1TQorbyPHcj1l"
+    },
+    {
+      "album": {
+        "name": "Blow Our Cover",
+        "url": "https://open.spotify.com/album/5diAiYQd0LqFslr6jxEhWj"
+      },
+      "artists": [
+        {
+          "name": "Josh Setterfield",
+          "url": "https://open.spotify.com/artist/7yEGY87VhZx21THIvHDO4u"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168278,
+      "name": "Blow Our Cover",
+      "url": "https://open.spotify.com/track/67hXpN0LZxZgQN2bS12mRf"
     },
     {
       "album": {
@@ -1155,7 +1191,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 192466,
       "name": "Fire Up The Night (feat. HARDY)",
       "url": "https://open.spotify.com/track/5dHF4UXvJ70xefCqD2Wj9N"
@@ -1679,6 +1715,24 @@
       "duration_ms": 230775,
       "name": "High",
       "url": "https://open.spotify.com/track/6rRGtOgUxgARW5QXK2k9EY"
+    },
+    {
+      "album": {
+        "name": "Nothing But Wild",
+        "url": "https://open.spotify.com/album/46YbOwWy2Dm27YsZDOCgpW"
+      },
+      "artists": [
+        {
+          "name": "Amy Sheppard",
+          "url": "https://open.spotify.com/artist/3nF6cVGjzDA9S5rDyZLffl"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174880,
+      "name": "Home To Me",
+      "url": "https://open.spotify.com/track/1BWrFZ30QHoGVvz7JFsf70"
     },
     {
       "album": {
@@ -2521,7 +2575,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 254746,
       "name": "Outrunnin' Your Memory",
       "url": "https://open.spotify.com/track/79gv58G6usuURwl6TlmBTu"
@@ -3149,7 +3203,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 167680,
       "name": "Soul",
       "url": "https://open.spotify.com/track/3vCUelLOtiuNF78p9LNWZF"
@@ -3349,7 +3403,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 205762,
       "name": "Sunday Best",
       "url": "https://open.spotify.com/track/6nnVrHv3oozFP5XeJZzedx"
@@ -3613,7 +3667,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 210697,
       "name": "Three Chords and a Woman's Truth",
       "url": "https://open.spotify.com/track/0QgyI7uka0O7o1QTPwB2Jj"
@@ -3671,7 +3725,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 208733,
       "name": "Tomorrow Me",
       "url": "https://open.spotify.com/track/52GuoXJUOFAwmPMtH3V9W4"
@@ -3855,6 +3909,24 @@
       "duration_ms": 202474,
       "name": "Whatchawanna",
       "url": "https://open.spotify.com/track/3etK7qSs7H551b8KNPygjx"
+    },
+    {
+      "album": {
+        "name": "This One's for You",
+        "url": "https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240760,
+      "name": "When It Rains It Pours",
+      "url": "https://open.spotify.com/track/1mMLMZYXkMueg65jRRWG1l"
     },
     {
       "album": {

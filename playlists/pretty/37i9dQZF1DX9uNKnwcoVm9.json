@@ -1,12 +1,12 @@
 {
   "description": "Un playlist que te llena de esperanza.  \u00a1Con fe!",
-  "num_followers": 196303,
+  "num_followers": 196409,
   "original_name": "Con Fe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNjIyNDIxOCwwMDAwMDAwMDUyZjUxZmRjMmQ4MzNmMjk1YmRjMDk3OTk1NzQxM2U4",
+  "snapshot_id": "MTYwNjIyNDIxOCwwMDAwMDAwMDg1YTNhMDU5YTkyNWVmYTY0ZmJmNjJlOTQyZDI2NmU5",
   "tracks": [
     {
       "added_at": "2020-11-24 13:23:38",
@@ -79,6 +79,22 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
+        "name": "Vivo para Ti",
+        "url": "https://open.spotify.com/album/3Ceaj1zts2EVTqzGV0JcLQ"
+      },
+      "artists": [
+        {
+          "name": "Daniel Calveti",
+          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
+        }
+      ],
+      "duration_ms": 211069,
+      "name": "La Ni\u00f1a de tus Ojos",
+      "url": "https://open.spotify.com/track/4B6Dq9yCXAyZUzGH8ULq1N"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
         "name": "Como En El Cielo (En Vivo)",
         "url": "https://open.spotify.com/album/1UtIEB5mwdQ9IG6Q7Ds2n5"
       },
@@ -95,22 +111,6 @@
       "duration_ms": 488333,
       "name": "No Hay Lugar M\u00e1s Alto (En Vivo) [feat. Christine D'clario]",
       "url": "https://open.spotify.com/track/0yzKJqFTXsbzWjUHaiOxD9"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
-        "name": "Vivo para Ti",
-        "url": "https://open.spotify.com/album/3Ceaj1zts2EVTqzGV0JcLQ"
-      },
-      "artists": [
-        {
-          "name": "Daniel Calveti",
-          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
-        }
-      ],
-      "duration_ms": 211069,
-      "name": "La Ni\u00f1a de tus Ojos",
-      "url": "https://open.spotify.com/track/4B6Dq9yCXAyZUzGH8ULq1N"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -315,22 +315,18 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Proezas",
-        "url": "https://open.spotify.com/album/3tGDxfvq1cBSlBFr302jMU"
+        "name": "Creo en Ti",
+        "url": "https://open.spotify.com/album/1TMLlJQHzj0J07QexSE72S"
       },
       "artists": [
         {
-          "name": "Miel San Marcos",
-          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
-        },
-        {
-          "name": "Tony P\u00e9rez",
-          "url": "https://open.spotify.com/artist/1guiKPfkZCVKA8GoFQS4oJ"
+          "name": "Julio Melgar",
+          "url": "https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2"
         }
       ],
-      "duration_ms": 99093,
-      "name": "El Se\u00f1or Es Mi Rey (feat. Tony Perez)",
-      "url": "https://open.spotify.com/track/7APlp9ZOXPuv9CzONC68T8"
+      "duration_ms": 330973,
+      "name": "Soy Un Altar",
+      "url": "https://open.spotify.com/track/0b8Sxqx5Lt8mgU4xPsm7Hr"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -415,18 +411,22 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Creo en Ti",
-        "url": "https://open.spotify.com/album/1TMLlJQHzj0J07QexSE72S"
+        "name": "Proezas",
+        "url": "https://open.spotify.com/album/3tGDxfvq1cBSlBFr302jMU"
       },
       "artists": [
         {
-          "name": "Julio Melgar",
-          "url": "https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2"
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Tony P\u00e9rez",
+          "url": "https://open.spotify.com/artist/1guiKPfkZCVKA8GoFQS4oJ"
         }
       ],
-      "duration_ms": 330973,
-      "name": "Soy Un Altar",
-      "url": "https://open.spotify.com/track/0b8Sxqx5Lt8mgU4xPsm7Hr"
+      "duration_ms": 99093,
+      "name": "El Se\u00f1or Es Mi Rey (feat. Tony Perez)",
+      "url": "https://open.spotify.com/track/7APlp9ZOXPuv9CzONC68T8"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -607,6 +607,22 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
+        "name": "De Vuelta Al Jardin",
+        "url": "https://open.spotify.com/album/4TKIXPyW2jTchcOFw1xAf6"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 300186,
+      "name": "Gloria En Lo Alto",
+      "url": "https://open.spotify.com/track/7IUwWIIkqKdo8KizOsCLFX"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
         "name": "Glorificad a Jehov\u00e1",
         "url": "https://open.spotify.com/album/4lUhv9nQbzpz4fU8WEuGLd"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 313866,
       "name": "Llevame Al Lugar Sant\u00edsimo",
       "url": "https://open.spotify.com/track/68ejKEwjnLJrJgu2ozQdJQ"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
-        "name": "De Vuelta Al Jardin",
-        "url": "https://open.spotify.com/album/4TKIXPyW2jTchcOFw1xAf6"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 300186,
-      "name": "Gloria En Lo Alto",
-      "url": "https://open.spotify.com/track/7IUwWIIkqKdo8KizOsCLFX"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -755,22 +755,6 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "De Vuelta Al Jardin",
-        "url": "https://open.spotify.com/album/4TKIXPyW2jTchcOFw1xAf6"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 258640,
-      "name": "\u00c9l Nos Ama",
-      "url": "https://open.spotify.com/track/6ceXM33Unn92BZIVfjQZ3s"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
         "name": "Santo Es El Se\u00f1or",
         "url": "https://open.spotify.com/album/6o1JXibPpTx6TwbsmqkfSS"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 273066,
       "name": "Hay Una Fuente En M\u00ed",
       "url": "https://open.spotify.com/track/5QcC5tFnqsNOjxksGXZHCB"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
+        "name": "De Vuelta Al Jardin",
+        "url": "https://open.spotify.com/album/4TKIXPyW2jTchcOFw1xAf6"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 258640,
+      "name": "\u00c9l Nos Ama",
+      "url": "https://open.spotify.com/track/6ceXM33Unn92BZIVfjQZ3s"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -923,22 +923,6 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Me Has Hecho Libre",
-        "url": "https://open.spotify.com/album/0dNBk8BUcnZoA0YouvHGRP"
-      },
-      "artists": [
-        {
-          "name": "Esperanza de Vida",
-          "url": "https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1"
-        }
-      ],
-      "duration_ms": 374491,
-      "name": "Me rindo ante ti",
-      "url": "https://open.spotify.com/track/1yOT1gkct6I0w4wPBNc3y1"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
         "name": "Santo Es El Se\u00f1or",
         "url": "https://open.spotify.com/album/6o1JXibPpTx6TwbsmqkfSS"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 258716,
       "name": "El Se\u00f1or es mi pastor",
       "url": "https://open.spotify.com/track/49PeNHITwNkd2gIP4zMOoQ"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
+        "name": "Me Has Hecho Libre",
+        "url": "https://open.spotify.com/album/0dNBk8BUcnZoA0YouvHGRP"
+      },
+      "artists": [
+        {
+          "name": "Esperanza de Vida",
+          "url": "https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1"
+        }
+      ],
+      "duration_ms": 374491,
+      "name": "Me rindo ante ti",
+      "url": "https://open.spotify.com/track/1yOT1gkct6I0w4wPBNc3y1"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
+        "name": "Vida",
+        "url": "https://open.spotify.com/album/203hB61YfdDgcnW4w2ODMr"
+      },
+      "artists": [
+        {
+          "name": "Luis Santiago",
+          "url": "https://open.spotify.com/artist/57wRcdGLAS9zQr9XyVtVbE"
+        }
+      ],
+      "duration_ms": 237557,
+      "name": "Se Mueven las Aguas",
+      "url": "https://open.spotify.com/track/3LtpWjUOqFGG4rFWGBn8MD"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
         "name": "Glorificad a Jehov\u00e1",
         "url": "https://open.spotify.com/album/4lUhv9nQbzpz4fU8WEuGLd"
       },
@@ -1079,38 +1095,6 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Fuego",
-        "url": "https://open.spotify.com/album/3cDznNz3cXNQql9O9KTAvi"
-      },
-      "artists": [
-        {
-          "name": "Esperanza de Vida",
-          "url": "https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1"
-        }
-      ],
-      "duration_ms": 360386,
-      "name": "Toda la Gloria",
-      "url": "https://open.spotify.com/track/3lTjQX4rSNfLhXrqyNM8nn"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
-        "name": "Vida",
-        "url": "https://open.spotify.com/album/203hB61YfdDgcnW4w2ODMr"
-      },
-      "artists": [
-        {
-          "name": "Luis Santiago",
-          "url": "https://open.spotify.com/artist/57wRcdGLAS9zQr9XyVtVbE"
-        }
-      ],
-      "duration_ms": 237557,
-      "name": "Se Mueven las Aguas",
-      "url": "https://open.spotify.com/track/3LtpWjUOqFGG4rFWGBn8MD"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
         "name": "Jes\u00fas Salva",
         "url": "https://open.spotify.com/album/4HRYBD8BpJaPSfRHreRGxw"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 335560,
       "name": "Hermoso (feat. Coalo Zamorano)",
       "url": "https://open.spotify.com/track/4TwzyWf4K1oeybmNUsNL24"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/3cDznNz3cXNQql9O9KTAvi"
+      },
+      "artists": [
+        {
+          "name": "Esperanza de Vida",
+          "url": "https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1"
+        }
+      ],
+      "duration_ms": 360386,
+      "name": "Toda la Gloria",
+      "url": "https://open.spotify.com/track/3lTjQX4rSNfLhXrqyNM8nn"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Me Has Hecho Libre",
-        "url": "https://open.spotify.com/album/0dNBk8BUcnZoA0YouvHGRP"
-      },
-      "artists": [
-        {
-          "name": "Esperanza de Vida",
-          "url": "https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1"
-        }
-      ],
-      "duration_ms": 295444,
-      "name": "Roca eterna",
-      "url": "https://open.spotify.com/track/6XQmgFgA5ERwrgbmb7iUx3"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
         "name": "Amor Favor Gracia",
         "url": "https://open.spotify.com/album/0rBvLEdEON5eyTJbcVkxZS"
       },
@@ -1199,22 +1183,6 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Vivir\u00e9",
-        "url": "https://open.spotify.com/album/67uRZ3X95JEwhbxi7GP5gW"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 325128,
-      "name": "Simplemente Gracias",
-      "url": "https://open.spotify.com/track/1dFO3EzDl1bdNm258j2WNK"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
         "name": "Algo Grande Viene",
         "url": "https://open.spotify.com/album/72sKgqdTMvoBgWyVo6ZzXX"
       },
@@ -1227,6 +1195,38 @@
       "duration_ms": 252640,
       "name": "Tan Solo Cree",
       "url": "https://open.spotify.com/track/52UBY1QBlCTRAyWa6GO0mZ"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
+        "name": "Me Has Hecho Libre",
+        "url": "https://open.spotify.com/album/0dNBk8BUcnZoA0YouvHGRP"
+      },
+      "artists": [
+        {
+          "name": "Esperanza de Vida",
+          "url": "https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1"
+        }
+      ],
+      "duration_ms": 295444,
+      "name": "Roca eterna",
+      "url": "https://open.spotify.com/track/6XQmgFgA5ERwrgbmb7iUx3"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
+        "name": "Vivir\u00e9",
+        "url": "https://open.spotify.com/album/67uRZ3X95JEwhbxi7GP5gW"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 325128,
+      "name": "Simplemente Gracias",
+      "url": "https://open.spotify.com/track/1dFO3EzDl1bdNm258j2WNK"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1671,18 +1671,18 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "No Hay Otro Dios",
-        "url": "https://open.spotify.com/album/1WidkdQtLb7DpF8e8HXeXm"
+        "name": "Por Fin en Casa",
+        "url": "https://open.spotify.com/album/3ZkKbtlC0p5L6vgStrdRsq"
       },
       "artists": [
         {
-          "name": "Banda Horizonte",
-          "url": "https://open.spotify.com/artist/0pz6e3IHzy4l6EqToyrTfJ"
+          "name": "Fuego",
+          "url": "https://open.spotify.com/artist/3F5E6wKnGN6qRjtsF2Z6vt"
         }
       ],
-      "duration_ms": 393533,
-      "name": "Donde Tu Est\u00e1s",
-      "url": "https://open.spotify.com/track/16jKWnXGPFPZzMkcwjXFl2"
+      "duration_ms": 356064,
+      "name": "Eres Santo",
+      "url": "https://open.spotify.com/track/6mrBXtE99uuU9s2G3XrLvy"
     }
   ],
   "unique_name": "Con Fe",

@@ -4,7 +4,7 @@
 
 > Singer\-songwriters who colour outside the lines\. Cover: Benjamin Dakota Rogers
 
-167 songs - 10 hr 26 min - [published](https://open.spotify.com/playlist/5h0SoEEkn4gAx7xRIlcPhO)
+168 songs - 10 hr 28 min - [published](https://open.spotify.com/playlist/5h0SoEEkn4gAx7xRIlcPhO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [A Different Kind of Light](https://open.spotify.com/track/3u6wgdJSBtdusakLXnlFlE) | [JJ Shiplett](https://open.spotify.com/artist/0XgzaFjKPFJT7VziwGD6o5) | [A Different Kind of Light](https://open.spotify.com/album/3qX9FYZfQZNRr01F8P6AES) | 4:23 | 2022-08-26 |  |
 | [About Your Love](https://open.spotify.com/track/3EOCRq342rJjzkvGicSyvT) | [Slow Leaves](https://open.spotify.com/artist/1CNY3GA9jHEuZeQEOHx0r8) | [About Your Love](https://open.spotify.com/album/16Cjat1XXsgM8z2CG6NEYZ) | 2:33 | 2022-05-13 | 2022-06-18 |
 | [Acre of Land](https://open.spotify.com/track/13IhhvCRSMREyJyAsLtDM2) | [Jeremie Albino](https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY) | [Past Dawn](https://open.spotify.com/album/61qIRfEjwnm1g80saLhf7T) | 3:59 | 2022-05-13 |  |
-| [Ain't No Cowboys In Georgia](https://open.spotify.com/track/5rBffoltonsi8O6T9TSUuU) | [Honey Harper](https://open.spotify.com/artist/01JvPU3kH9sxiT4EP0kmKg) | [Ain't No Cowboys In Georgia](https://open.spotify.com/album/1dEnfzdDz54PS5d001smcu) | 2:32 | 2022-09-09 |  |
+| [Ain't No Cowboys In Georgia](https://open.spotify.com/track/3MENr2sOd9lrNzDW0ZA91D) | [Honey Harper](https://open.spotify.com/artist/01JvPU3kH9sxiT4EP0kmKg) | [Ain't No Cowboys In Georgia](https://open.spotify.com/album/2r06kS7KFzXHPLA6DdT9IS) | 2:32 | 2022-09-09 |  |
+| [Ain't No Cowboys In Georgia](https://open.spotify.com/track/5rBffoltonsi8O6T9TSUuU) | [Honey Harper](https://open.spotify.com/artist/01JvPU3kH9sxiT4EP0kmKg) | [Ain't No Cowboys In Georgia](https://open.spotify.com/album/1dEnfzdDz54PS5d001smcu) | 2:32 | 2022-09-09 | 2022-09-16 |
 | [Ain't Too Late](https://open.spotify.com/track/4fOJHNZoFxck91tsFf16i5) | [Meredith Lazowski](https://open.spotify.com/artist/2ArYHxQyNMtWFI7YpkQWPP) | [Ain't Too Late](https://open.spotify.com/album/4WfruWmBQU43RZMPPUGVWK) | 3:35 | 2022-06-03 | 2022-06-18 |
 | [All Of The Women \[Feat\. Sa\-Roc\] \- dim star remix](https://open.spotify.com/track/2YRj7gSXG4lq2jrtuW34i0) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6), [Sa\-Roc](https://open.spotify.com/artist/2tjZzUU3KKhsxlmNjV3VZg), [dim star](https://open.spotify.com/artist/3XH0xpgD87ICnmkcvi1Vq3) | [All Of The Women \[Feat\. Sa\-Roc\] \(dim star remix\)](https://open.spotify.com/album/6hX7DmBnsNpvQXc6eQ3AWK) | 4:39 | 2022-05-13 | 2022-06-04 |
 | [All the Good](https://open.spotify.com/track/6XvDPlg2hT9Hg3Z0UUDjr9) | [The Sadies](https://open.spotify.com/artist/3x0LgZSPgNh91O6NBMtqTs) | [All the Good](https://open.spotify.com/album/4liE72IwgpudcDG1ob7Adq) | 3:39 | 2022-06-10 |  |

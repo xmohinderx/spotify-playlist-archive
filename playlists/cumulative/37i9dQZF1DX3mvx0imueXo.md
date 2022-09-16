@@ -4,7 +4,7 @@
 
 > Let the music lift your soul\. Vibes from the different islands in the Caribbean
 
-63 songs - 3 hr 46 min - [published](https://open.spotify.com/playlist/2blojqbK7VuiIRbFqTGQVl)
+64 songs - 3 hr 49 min - [published](https://open.spotify.com/playlist/2blojqbK7VuiIRbFqTGQVl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [COOL AS THE BREEZE/FRIDAY](https://open.spotify.com/track/68Hl1nI7Ico8cgwkBtA9Fg) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [COOL AS THE BREEZE/FRIDAY](https://open.spotify.com/album/6q8ljQkUDzmBIrEqqXIB8m) | 3:33 | 2021-02-24 |  |
 | [Country For Sale](https://open.spotify.com/track/68oDnG7v4aBLMuv1eai4Wz) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Country For Sale](https://open.spotify.com/album/3XuNfGRXqZu5Io2clP5RUd) | 4:00 | 2021-02-24 |  |
 | [Cry Cry Blood](https://open.spotify.com/track/6B8Q0LnJePTTaRGCo2tdwG) | [Steel Pulse](https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g) | [Cry Cry Blood](https://open.spotify.com/album/4edF3F2lOg0H8ohjxfSAJC) | 3:49 | 2021-02-24 |  |
-| [Do Your Ting](https://open.spotify.com/track/5drUpHQlsBIbHDjIrUBreO) | [Mr\. Williamz](https://open.spotify.com/artist/3iL52u3kr14P6cTpB0VuEs), [Heavy Baile](https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0), [Ruxell](https://open.spotify.com/artist/5H3IVg3012xSskH8ZjKwDg) | [Do Your Ting](https://open.spotify.com/album/6GqkxKrqcWZVC2aYhbHx06) | 3:12 | 2021-02-24 |  |
+| [Do Your Ting](https://open.spotify.com/track/5drUpHQlsBIbHDjIrUBreO) | [Mr\. Williamz](https://open.spotify.com/artist/3iL52u3kr14P6cTpB0VuEs), [Heavy Baile](https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0), [Ruxell](https://open.spotify.com/artist/5H3IVg3012xSskH8ZjKwDg) | [Do Your Ting](https://open.spotify.com/album/6GqkxKrqcWZVC2aYhbHx06) | 3:12 | 2021-02-24 | 2022-09-16 |
 | [Election Time](https://open.spotify.com/track/5wBauhWmIU3IbThhEl05zg) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [808 Delavega](https://open.spotify.com/artist/3dPuXCO7uQLHphYgFzUXCJ) | [Election Time](https://open.spotify.com/album/3QyJ6rtQyRluGQKo8a6lRS) | 2:31 | 2021-02-24 |  |
 | [Faith](https://open.spotify.com/track/1slGuz5uZMRD9OgxyL7KBD) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O) | [Higher Place](https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr) | 2:53 | 2021-02-24 |  |
 | [Good Love \(feat\. General Levy\)](https://open.spotify.com/track/46En06kODv5V6uj9nwoLmj) | [Reggae Roast](https://open.spotify.com/artist/6X9sCKOanZEWlaDnFw24Ed), [General Levy](https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I) | [Good Love \(feat\. General Levy\)](https://open.spotify.com/album/6JRuF0Vy647e0oeqEZTA7b) | 3:03 | 2021-02-24 |  |
@@ -70,6 +70,7 @@
 | [To See](https://open.spotify.com/track/2sY6QwNrA9yWZRPW2WtHTq) | [Queen Ifrica](https://open.spotify.com/artist/5SK75gxwqKq5Zc1mdLfwv9) | [Reggae Gold 2019](https://open.spotify.com/album/5cfZ5mWTwZwyzSSgDeiFN6) | 3:44 | 2021-02-24 |  |
 | [Trample Dem](https://open.spotify.com/track/7Dyln70mOiNJJOCsgieCHc) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Set up Shop, Vol\. 4](https://open.spotify.com/album/5HRCRgKHqMjnnWmE3VisB0) | 3:08 | 2021-02-24 |  |
 | [Wanted](https://open.spotify.com/track/4F8EDSwqScQxFaLjtScKWO) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Wanted](https://open.spotify.com/album/2LQ3Ts5RzrOV8sqYTV3xqu) | 3:37 | 2022-06-20 |  |
+| [Well Excellent](https://open.spotify.com/track/2Hx9cYkT5WGVEwx0CgZluk) | [Mr\. Williamz](https://open.spotify.com/artist/3iL52u3kr14P6cTpB0VuEs) | [Soundkilla Mindset](https://open.spotify.com/album/43b7p4ETTf4892gZ3UmO8K) | 3:36 | 2022-06-20 |  |
 | [Well Excellent](https://open.spotify.com/track/7uX7niEFrJFmj3SFHsnwkL) | [Mr\. Williamz](https://open.spotify.com/artist/3iL52u3kr14P6cTpB0VuEs), [Jr\. Demus](https://open.spotify.com/artist/2P7kXO4UzC2NHSHRmtdWlb) | [Well Excellent](https://open.spotify.com/album/4of34K5GjdYXRcfLKwjHKG) | 3:36 | 2021-02-24 | 2022-09-05 |
 
 \*This playlist was first scraped on 2021-12-29. Prior content cannot be recovered.

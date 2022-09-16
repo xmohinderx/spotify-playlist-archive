@@ -1,12 +1,12 @@
 {
   "description": "\u9019\u4e9b\u6709\u7bc0\u594f\u6709\u6eab\u5ea6\u7684\u60c5\u6b4c\uff0c\u80fd\u8b93\u4f60\u6642\u6642\u523b\u523b\u90fd\u6709\u5728\u5e78\u798f\u4e2d\u904a\u8d70\u7684\u611f\u89ba\u3002",
-  "num_followers": 85140,
+  "num_followers": 85172,
   "original_name": "\u6696\u5fc3\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mjk2NjgzOSwwMDAwMDAwMDNkMTZlODVjNjBjYjdhMGE1OGE3ZTA2NjNmYjMzYmUw",
+  "snapshot_id": "MTY2Mjk2NjgzOSwwMDAwMDAwMDc5MjNmNWE3MzMzNzJkY2E5NzM3YjlkNjMyOGU5MGEw",
   "tracks": [
     {
       "added_at": "2022-09-12 07:13:59",
@@ -743,22 +743,6 @@
     {
       "added_at": "2022-09-12 07:13:59",
       "album": {
-        "name": "\u6211\u7684\u9ea5\u514b\u98a8",
-        "url": "https://open.spotify.com/album/4MYmTwirh8mfdWZxVa9mgX"
-      },
-      "artists": [
-        {
-          "name": "Will Pan",
-          "url": "https://open.spotify.com/artist/7fCFxj1GCRqwFZEP4iJRw0"
-        }
-      ],
-      "duration_ms": 241213,
-      "name": "\u611b\u4e0a\u672a\u4f86\u7684\u4f60",
-      "url": "https://open.spotify.com/track/3bUYcpibCAUQe0O9ZERqTl"
-    },
-    {
-      "added_at": "2022-09-12 07:13:59",
-      "album": {
         "name": "\u4e00\u5929 (\u96fb\u8996\u5287\u300a\u60f3\u898b\u4f60\u300b\u63d2\u66f2)",
         "url": "https://open.spotify.com/album/0gvJLsBulK413oR9BJTOUM"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 248629,
       "name": "\u4e00\u5929 (\u96fb\u8996\u5287\u300a\u60f3\u898b\u4f60\u300b\u63d2\u66f2)",
       "url": "https://open.spotify.com/track/4yJIECgIOgowfgAkPyvo2c"
+    },
+    {
+      "added_at": "2022-09-12 07:13:59",
+      "album": {
+        "name": "\u6211\u7684\u9ea5\u514b\u98a8",
+        "url": "https://open.spotify.com/album/4MYmTwirh8mfdWZxVa9mgX"
+      },
+      "artists": [
+        {
+          "name": "Will Pan",
+          "url": "https://open.spotify.com/artist/7fCFxj1GCRqwFZEP4iJRw0"
+        }
+      ],
+      "duration_ms": 241213,
+      "name": "\u611b\u4e0a\u672a\u4f86\u7684\u4f60",
+      "url": "https://open.spotify.com/track/3bUYcpibCAUQe0O9ZERqTl"
     },
     {
       "added_at": "2022-09-12 07:13:59",
@@ -1047,6 +1047,26 @@
     {
       "added_at": "2022-09-12 07:13:59",
       "album": {
+        "name": "\u884c\u661f\u6200",
+        "url": "https://open.spotify.com/album/49bwNau4JVyFHdPh4iEaaf"
+      },
+      "artists": [
+        {
+          "name": "Goose \u6211\u9ce5",
+          "url": "https://open.spotify.com/artist/4h1sE1sVLVe4cRO4mn8mtN"
+        },
+        {
+          "name": "OHMYMEITING",
+          "url": "https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx"
+        }
+      ],
+      "duration_ms": 306877,
+      "name": "\u884c\u661f\u6200",
+      "url": "https://open.spotify.com/track/5FZj4n2DSe4GE3I2CZg2Qd"
+    },
+    {
+      "added_at": "2022-09-12 07:13:59",
+      "album": {
         "name": "\u590f\u827217\u53f7-\u6bd4\u5c14\u7684\u6b4c",
         "url": "https://open.spotify.com/album/0ZO8r4sN5eymZG4YMozKT1"
       },
@@ -1067,22 +1087,18 @@
     {
       "added_at": "2022-09-12 07:13:59",
       "album": {
-        "name": "\u884c\u661f\u6200",
-        "url": "https://open.spotify.com/album/49bwNau4JVyFHdPh4iEaaf"
+        "name": "\u7231\u4f60\u4e0d\u662f\u4e24\u4e09\u5929",
+        "url": "https://open.spotify.com/album/3dyc0b1Pd7jLhZIgnLpjGF"
       },
       "artists": [
         {
-          "name": "Goose \u6211\u9ce5",
-          "url": "https://open.spotify.com/artist/4h1sE1sVLVe4cRO4mn8mtN"
-        },
-        {
-          "name": "OHMYMEITING",
-          "url": "https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx"
+          "name": "\u7126\u9081\u5947",
+          "url": "https://open.spotify.com/artist/1FyPWrq6lU8yPFM7IXj6oH"
         }
       ],
-      "duration_ms": 306877,
-      "name": "\u884c\u661f\u6200",
-      "url": "https://open.spotify.com/track/5FZj4n2DSe4GE3I2CZg2Qd"
+      "duration_ms": 250857,
+      "name": "\u7231\u4f60\u4e0d\u662f\u4e24\u4e09\u5929",
+      "url": "https://open.spotify.com/track/1VWeBAAUeNWllv1edNggTz"
     },
     {
       "added_at": "2022-09-12 07:13:59",
@@ -1119,22 +1135,6 @@
       "duration_ms": 244690,
       "name": "\u5169\u96bb\u6200\u4eba",
       "url": "https://open.spotify.com/track/16MADi2KjVZgwshXXnCysN"
-    },
-    {
-      "added_at": "2022-09-12 07:13:59",
-      "album": {
-        "name": "\u7231\u4f60\u4e0d\u662f\u4e24\u4e09\u5929",
-        "url": "https://open.spotify.com/album/3dyc0b1Pd7jLhZIgnLpjGF"
-      },
-      "artists": [
-        {
-          "name": "\u7126\u9081\u5947",
-          "url": "https://open.spotify.com/artist/1FyPWrq6lU8yPFM7IXj6oH"
-        }
-      ],
-      "duration_ms": 250857,
-      "name": "\u7231\u4f60\u4e0d\u662f\u4e24\u4e09\u5929",
-      "url": "https://open.spotify.com/track/1VWeBAAUeNWllv1edNggTz"
     },
     {
       "added_at": "2022-09-12 07:13:59",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2022-09-12 07:13:59",
       "album": {
-        "name": "\u6bcf\u5206\u6bcf\u79d2",
-        "url": "https://open.spotify.com/album/2i0xJJFEXHJDmSVxdl3z6Q"
-      },
-      "artists": [
-        {
-          "name": "Ours",
-          "url": "https://open.spotify.com/artist/5VxMD3kw0WnX3huE0Oli68"
-        }
-      ],
-      "duration_ms": 200869,
-      "name": "\u6bcf\u5206\u6bcf\u79d2",
-      "url": "https://open.spotify.com/track/1T4oS7tf4FpCht0NkwFikF"
-    },
-    {
-      "added_at": "2022-09-12 07:13:59",
-      "album": {
         "name": "\u9918\u751f\u90fd\u662f\u4f60",
         "url": "https://open.spotify.com/album/29oAqIrnduw3NMtbRfSzSB"
       },
@@ -1231,18 +1215,18 @@
     {
       "added_at": "2022-09-12 07:13:59",
       "album": {
-        "name": "\u683c\u683cblue",
-        "url": "https://open.spotify.com/album/6HveSS0Oh0HQgtV1RKxgHX"
+        "name": "\u6bcf\u5206\u6bcf\u79d2",
+        "url": "https://open.spotify.com/album/2i0xJJFEXHJDmSVxdl3z6Q"
       },
       "artists": [
         {
-          "name": "Gary Chaw",
-          "url": "https://open.spotify.com/artist/1mfzcypCggFwpCJ1gmi8BK"
+          "name": "Ours",
+          "url": "https://open.spotify.com/artist/5VxMD3kw0WnX3huE0Oli68"
         }
       ],
-      "duration_ms": 269760,
-      "name": "\u6578\u5230\u4e94\u7b54\u61c9\u6211",
-      "url": "https://open.spotify.com/track/5uWgSWwQhMcSeL21Fg6t2h"
+      "duration_ms": 200869,
+      "name": "\u6bcf\u5206\u6bcf\u79d2",
+      "url": "https://open.spotify.com/track/1T4oS7tf4FpCht0NkwFikF"
     },
     {
       "added_at": "2022-09-12 07:13:59",
@@ -1259,6 +1243,22 @@
       "duration_ms": 202587,
       "name": "Samarcande",
       "url": "https://open.spotify.com/track/0kBBID6PJWjdh0Feew3rtW"
+    },
+    {
+      "added_at": "2022-09-12 07:13:59",
+      "album": {
+        "name": "\u683c\u683cblue",
+        "url": "https://open.spotify.com/album/6HveSS0Oh0HQgtV1RKxgHX"
+      },
+      "artists": [
+        {
+          "name": "Gary Chaw",
+          "url": "https://open.spotify.com/artist/1mfzcypCggFwpCJ1gmi8BK"
+        }
+      ],
+      "duration_ms": 269760,
+      "name": "\u6578\u5230\u4e94\u7b54\u61c9\u6211",
+      "url": "https://open.spotify.com/track/5uWgSWwQhMcSeL21Fg6t2h"
     },
     {
       "added_at": "2022-09-12 07:13:59",

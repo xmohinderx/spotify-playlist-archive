@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day.
 
-117 songs - 7 hr 26 min - [published](https://open.spotify.com/playlist/6PhsjniBhG4w601hh0mPNL)
+118 songs - 7 hr 30 min - [published](https://open.spotify.com/playlist/6PhsjniBhG4w601hh0mPNL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,16 +48,17 @@
 | [Don't You Forget](https://open.spotify.com/track/6QafQW90SRQSC3ZTFg4pGt) | [Louis York](https://open.spotify.com/artist/0owrNlxvcLL8KI0U5sYBUb) | [Don't You Forget](https://open.spotify.com/album/7pY34q52m9JmtddVGL8UZx) | 5:18 | 2021-12-03 | 2022-07-29 |
 | [Dreams](https://open.spotify.com/track/0deHsjyrgcKGMZzIuvawq3) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [When I Get Home](https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w) | 2:28 | 2022-03-11 |  |
 | [Easy](https://open.spotify.com/track/4k6eg0pf9IeopgOREVkj5T) | [Bea Anderson](https://open.spotify.com/artist/2FVCMrYrSKRNPXoWw2VozG) | [Easy](https://open.spotify.com/album/1rPv254umKfCuZwyWUoFBl) | 3:30 | 2021-12-03 | 2022-07-29 |
-| [Evergreen](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 | 2022-09-09 |  |
+| [Evergreen \(You Didn’t Deserve Me At All\)](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 | 2022-09-09 |  |
 | [Every Word \(feat\. Krysten Simone\)](https://open.spotify.com/track/5NyONMWLkVKu8Mcgjn20aq) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl), [Krysten Simone](https://open.spotify.com/artist/0hn6MIbOu7wcJcTpLD5KfQ) | [Every Word \(feat\. Krysten Simone\)](https://open.spotify.com/album/7yk8zzo9gYc0GvfAENJsOc) | 2:47 | 2021-12-03 | 2022-07-29 |
 | [Everything You Touch Is Gold](https://open.spotify.com/track/38eB2BbrR7PLK7zyQYgBDx) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [All Rise \(Deluxe\)](https://open.spotify.com/album/5jQuMxOb3r5BPmSDke93hy) | 6:03 | 2021-12-03 |  |
+| [Falling For You](https://open.spotify.com/track/0jCbfcLupN9I5ILvNxMGty) | [Will Gittens](https://open.spotify.com/artist/2Guif3r6Ys8lL1H5aGyuh1) | [Love Songs](https://open.spotify.com/album/7tiLiMKiZ34qwvJQiuXfzN) | 3:15 | 2022-09-09 |  |
 | [Foolish](https://open.spotify.com/track/3FmHd3XrPO1zIkPq5QvPj5) | [Natanya Popoola](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [Foolish](https://open.spotify.com/album/2HRhfhmcfGOTefEgQgXTdH) | 3:48 | 2022-09-09 |  |
 | [Footsteps in the Dark Pts\. 1 & 2](https://open.spotify.com/track/6ZrEsTv8IYRg0U0hUoo2j1) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Footsteps in the Dark Pts\. 1 & 2](https://open.spotify.com/album/5y5h9Vcm1JejVUJsmxoJld) | 5:17 | 2021-12-03 |  |
 | [Fragile](https://open.spotify.com/track/5nwDAjkr2u2iVvjdeLockj) | [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3) | [Fragile](https://open.spotify.com/album/05D1HS6QdWPPZCuIDGeRhO) | 4:02 | 2021-12-03 | 2022-07-20 |
 | [Good & Plenty](https://open.spotify.com/track/1VAKnb1btGrQXcVZVSRkPe) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE) | [Good & Plenty](https://open.spotify.com/album/53FhNZMrcBim6Ec9mp8ifl) | 3:24 | 2021-12-03 |  |
 | [Good Morning Gorgeous](https://open.spotify.com/track/77z6mJeFcHlRWVfbOdBCtc) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Good Morning Gorgeous](https://open.spotify.com/album/0mDZswykT2LDXe3YGWZgbc) | 2:54 | 2021-12-03 |  |
 | [Grow](https://open.spotify.com/track/3jPd7hIM0feCje8ZbVu6en) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Grow](https://open.spotify.com/album/3wzVULwHGvLkwiDdTMGQMZ) | 3:00 | 2021-12-03 |  |
-| [Growth](https://open.spotify.com/track/5cyQOgAlJrY2idaIoC4Dzp) | [Lizzie Berchie](https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m) | [Under the Sun](https://open.spotify.com/album/6pX51CcNApLFwXeyMKrRXO) | 3:21 | 2022-09-09 |  |
+| [Growth](https://open.spotify.com/track/5cyQOgAlJrY2idaIoC4Dzp) | [Lizzie Berchie](https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m) | [Under the Sun](https://open.spotify.com/album/6pX51CcNApLFwXeyMKrRXO) | 3:21 | 2022-09-09 | 2022-09-16 |
 | [Half Time](https://open.spotify.com/track/4d0dY3ZeMdoYrD5YmdFvWZ) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Lioness: Hidden Treasures](https://open.spotify.com/album/4xdRjOhY9NHmMpI7U3e2c3) | 3:50 | 2022-03-11 |  |
 | [HEADLINE](https://open.spotify.com/track/59mmKoHbCWc10mlWwwTYxn) | [Bren Joy](https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp) | [HEADLINE](https://open.spotify.com/album/3FhtDmAzJe8t8RveMcmNJb) | 3:16 | 2022-03-11 | 2022-09-10 |
 | [Heal](https://open.spotify.com/track/4UndAnl9tL4hHiYOuufIJk) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Heal](https://open.spotify.com/album/3vnXX5XQdwyGS79vZKIKfh) | 4:16 | 2022-09-09 |  |

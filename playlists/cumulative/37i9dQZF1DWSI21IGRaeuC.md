@@ -4,7 +4,7 @@
 
 > Dive into the deep end of the tech house spectrum.
 
-112 songs - 10 hr 12 min - [published](https://open.spotify.com/playlist/2MGDejgSLmj2L39yQz6FnP)
+113 songs - 10 hr 16 min - [published](https://open.spotify.com/playlist/2MGDejgSLmj2L39yQz6FnP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Back To Me](https://open.spotify.com/track/5MG3KRa0R0cx25ZQF0JMaf) | [Low Blow](https://open.spotify.com/artist/4Jr5ULT8PKTOiBhTUZR9RQ) | [Back To Me](https://open.spotify.com/album/53jEoBJvKPpNoDrx1wwVfU) | 3:26 | 2022-08-19 |  |
 | [Back2back \- Edit](https://open.spotify.com/track/2TQuTY3ojJAqhN9SS5J0Fs) | [Detlef](https://open.spotify.com/artist/5lZ8HC92jRDlyeq0vSxGeI) | [Back2bacK](https://open.spotify.com/album/4Oxxv1zaRCJ67XiFFoLewD) | 2:46 | 2022-06-03 | 2022-07-29 |
 | [BAD \(Böser Als Du\)](https://open.spotify.com/track/5e2lGEeqms9u1sG6wCHCf0) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd) | [Secret Weapons Part 14 V/VI](https://open.spotify.com/album/7smz91AWUGFZvQs1U7gusR) | 7:07 | 2022-06-24 | 2022-08-05 |
+| [Beeper Blowing Up](https://open.spotify.com/track/7DpmpRbrwVMrTWsLt3KVvw) | [LATE NIITE](https://open.spotify.com/artist/6zKFmriYB7K8UC54jtYCAS), [Thomas Garcia](https://open.spotify.com/artist/0pOf0CQbzWVo2rgrH9h0Rq) | [Beeper Blowing Up](https://open.spotify.com/album/5Jfs0kxETh6SAUNFrliOi0) | 3:38 | 2022-08-26 |  |
 | [Bigger Than Prince \- Hot Since 82 Remix](https://open.spotify.com/track/4I0QahibIQMTPRN1AlHaSj) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [Bigger Than Prince](https://open.spotify.com/album/5MEqbC6zcLtZY1OFeL7nPR) | 6:35 | 2022-06-03 | 2022-08-13 |
 | [Bionic Boy](https://open.spotify.com/track/7byloGFJ8lO5d7cCxFXOIh) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji) | [Bionic Boy](https://open.spotify.com/album/3TZ40t04vfJ9MvEZcdoqsg) | 3:26 | 2022-06-10 |  |
 | [Blackbird](https://open.spotify.com/track/2JY3csEWcMt3JqboZGE5cd) | [Mathias Kaden](https://open.spotify.com/artist/7gURutUeEed1hWmMVq8E0S), [Zoë Xenia](https://open.spotify.com/artist/5HrUbYq85HT5B1dtYrh3fg) | [Blackbird](https://open.spotify.com/album/6QRoboEziqck9Zdkxl8qJ3) | 6:48 | 2022-07-15 | 2022-08-27 |
@@ -48,7 +49,7 @@
 | [Heart Of Jazz](https://open.spotify.com/track/1BbKe9iPRe5ZNFKdhzv82N) | [Fleur Shore](https://open.spotify.com/artist/7GyRA9n7JVslQGcbo72Dil) | [Heart Of Jazz](https://open.spotify.com/album/70DEmkfKbQq971gDSdXo3r) | 6:00 | 2022-07-08 | 2022-07-26 |
 | [Highway Freedom](https://open.spotify.com/track/3OyKSA6gU1Il2uOvCXU5IK) | [Late Replies](https://open.spotify.com/artist/7vPxzjHbAgoHhiNXORDgf7) | [Highway Freedom EP](https://open.spotify.com/album/4xT3vXGr92An3Ua3WdwfWh) | 3:15 | 2022-06-03 | 2022-07-23 |
 | [Honey Bee \- Edit](https://open.spotify.com/track/7KJwlAWtpbQzTGkJSrBbnk) | [Ninetoes](https://open.spotify.com/artist/5MP4PiGA5PNFrsVjtauFnC) | [Honey Bee](https://open.spotify.com/album/6Q5TXCW5VO7fc5pdR1PBtX) | 4:23 | 2022-06-03 |  |
-| [Hydroponic](https://open.spotify.com/track/2DxIgWLfSqB8kfmPql4Hg8) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Hydroponic EP](https://open.spotify.com/album/0wmLrDb6pibDQtAtWFvB4P) | 7:14 | 2022-06-03 |  |
+| [Hydroponic](https://open.spotify.com/track/2DxIgWLfSqB8kfmPql4Hg8) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Hydroponic EP](https://open.spotify.com/album/0wmLrDb6pibDQtAtWFvB4P) | 7:14 | 2022-06-03 | 2022-09-16 |
 | [Hyper](https://open.spotify.com/track/39pclaQXwUGiwcA47Hk3QF) | [Raumakustik](https://open.spotify.com/artist/0DH2O8Nvb5KxMaI9jCZUqW) | [Hyper](https://open.spotify.com/album/1l0vbfG18jQVRTiYUdEad8) | 3:43 | 2022-07-15 |  |
 | [I Am Somebody](https://open.spotify.com/track/75EaT3OH1MdJxKT1ZUsNK0) | [Technasia](https://open.spotify.com/artist/0rnKlPis7AQgoIe2NEVWa5) | [I Am Somebody](https://open.spotify.com/album/1G3BKcXKXfUaZ3qz8lNsWv) | 6:57 | 2022-06-03 |  |
 | [Inertia](https://open.spotify.com/track/6kcysA1uaHhFBv9vu1Lt3f) | [GRRL](https://open.spotify.com/artist/0JpzRsUcCKSyr44mQiosNg), [Made of Oak](https://open.spotify.com/artist/6dWVt38ueCw46cGnWDbTl8) | [Inertia](https://open.spotify.com/album/4iM8Xi48cQyUyizWfoGb1I) | 3:32 | 2022-07-08 | 2022-07-29 |

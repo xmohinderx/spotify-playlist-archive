@@ -598,6 +598,24 @@
     },
     {
       "album": {
+        "name": "Diaspora Urkontinent",
+        "url": "https://open.spotify.com/album/4u3piRvbk4dns3RbMla1a2"
+      },
+      "artists": [
+        {
+          "name": "Barry Walker Jr.",
+          "url": "https://open.spotify.com/artist/1dCLEg0dKASY0PSsOOrA3Z"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148250,
+      "name": "Ediacaran Moonrise",
+      "url": "https://open.spotify.com/track/4zcSOD3J1JJjCW1HnGhGSf"
+    },
+    {
+      "album": {
         "name": "Aka / Darbari / Java",
         "url": "https://open.spotify.com/album/02Y32UFWcdkRluO5EPWKAK"
       },
@@ -1471,7 +1489,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-16",
       "duration_ms": 375177,
       "name": "Paper Marble",
       "url": "https://open.spotify.com/track/4CUwlWnCgjWI434Gy0NwPo"

@@ -1,12 +1,12 @@
 {
   "description": "Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...",
-  "num_followers": 359396,
+  "num_followers": 359515,
   "original_name": "Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mjk2NzA1NCwwMDAwMDAwMGRkNzhlOWI2MmZiYzY1ZGI0Mjg4NTRmZTZmOTQxNTlk",
+  "snapshot_id": "MTY2Mjk2NzA1NCwwMDAwMDAwMDcyYmZmMDJkNTExYzYyNmRiZjVhYjBiM2E3MWJmNDYx",
   "tracks": [
     {
       "added_at": "2022-09-12 07:17:34",
@@ -43,22 +43,6 @@
     {
       "added_at": "2022-09-12 07:17:34",
       "album": {
-        "name": "La Dolce Vita",
-        "url": "https://open.spotify.com/album/6R13k9llyr3fWRDwKzmjDo"
-      },
-      "artists": [
-        {
-          "name": "Warren Hill",
-          "url": "https://open.spotify.com/artist/3zayLOSNLcQFtRrufIbMdS"
-        }
-      ],
-      "duration_ms": 325093,
-      "name": "La Dolce Vita",
-      "url": "https://open.spotify.com/track/1l9IRtd8omIqlGxYYzmyLv"
-    },
-    {
-      "added_at": "2022-09-12 07:17:34",
-      "album": {
         "name": "Double Vision",
         "url": "https://open.spotify.com/album/6mIX3C4SR09oQqMF74NVlL"
       },
@@ -79,6 +63,22 @@
     {
       "added_at": "2022-09-12 07:17:34",
       "album": {
+        "name": "La Dolce Vita",
+        "url": "https://open.spotify.com/album/6R13k9llyr3fWRDwKzmjDo"
+      },
+      "artists": [
+        {
+          "name": "Warren Hill",
+          "url": "https://open.spotify.com/artist/3zayLOSNLcQFtRrufIbMdS"
+        }
+      ],
+      "duration_ms": 325093,
+      "name": "La Dolce Vita",
+      "url": "https://open.spotify.com/track/1l9IRtd8omIqlGxYYzmyLv"
+    },
+    {
+      "added_at": "2022-09-12 07:17:34",
+      "album": {
         "name": "Tequila Moon",
         "url": "https://open.spotify.com/album/49n82PnSnIi9LFveKPH6h5"
       },
@@ -91,22 +91,6 @@
       "duration_ms": 276333,
       "name": "Tequila Moon",
       "url": "https://open.spotify.com/track/4qkdBTRPwojWnqGcUSVQ3Z"
-    },
-    {
-      "added_at": "2022-09-12 07:17:34",
-      "album": {
-        "name": "Ten",
-        "url": "https://open.spotify.com/album/6vw1IOlxgQy2otoKPOng7e"
-      },
-      "artists": [
-        {
-          "name": "Chris Standring",
-          "url": "https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut"
-        }
-      ],
-      "duration_ms": 266338,
-      "name": "Soul Vibration",
-      "url": "https://open.spotify.com/track/5KaSTemL2bEHw5HDFFIZyB"
     },
     {
       "added_at": "2022-09-12 07:17:34",
@@ -127,6 +111,22 @@
       "duration_ms": 243366,
       "name": "Perfect Sunday",
       "url": "https://open.spotify.com/track/3y9l6PAbOOGYBH1AY4XaTO"
+    },
+    {
+      "added_at": "2022-09-12 07:17:34",
+      "album": {
+        "name": "Ten",
+        "url": "https://open.spotify.com/album/6vw1IOlxgQy2otoKPOng7e"
+      },
+      "artists": [
+        {
+          "name": "Chris Standring",
+          "url": "https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut"
+        }
+      ],
+      "duration_ms": 266338,
+      "name": "Soul Vibration",
+      "url": "https://open.spotify.com/track/5KaSTemL2bEHw5HDFFIZyB"
     },
     {
       "added_at": "2022-09-12 07:17:34",
@@ -263,22 +263,6 @@
     {
       "added_at": "2022-09-12 07:17:34",
       "album": {
-        "name": "Real Life",
-        "url": "https://open.spotify.com/album/7DvHuhuhqmJSQZenm73mSv"
-      },
-      "artists": [
-        {
-          "name": "Chris Standring",
-          "url": "https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut"
-        }
-      ],
-      "duration_ms": 358213,
-      "name": "Out of the Blue",
-      "url": "https://open.spotify.com/track/5pQQjMOsR4HjuO94AEXTqX"
-    },
-    {
-      "added_at": "2022-09-12 07:17:34",
-      "album": {
         "name": "Echoes Of The Heart",
         "url": "https://open.spotify.com/album/7xWREx7N4D17yDHq7iSzRP"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 238213,
       "name": "Echoes of the Heart",
       "url": "https://open.spotify.com/track/4NHXOCiSoFcbPkT1NZOChb"
+    },
+    {
+      "added_at": "2022-09-12 07:17:34",
+      "album": {
+        "name": "Real Life",
+        "url": "https://open.spotify.com/album/7DvHuhuhqmJSQZenm73mSv"
+      },
+      "artists": [
+        {
+          "name": "Chris Standring",
+          "url": "https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut"
+        }
+      ],
+      "duration_ms": 358213,
+      "name": "Out of the Blue",
+      "url": "https://open.spotify.com/track/5pQQjMOsR4HjuO94AEXTqX"
     },
     {
       "added_at": "2022-09-12 07:17:34",
@@ -459,22 +459,6 @@
     {
       "added_at": "2022-09-12 07:17:34",
       "album": {
-        "name": "Something About You",
-        "url": "https://open.spotify.com/album/5EHFd3yxzZdDvUiRuwSsTR"
-      },
-      "artists": [
-        {
-          "name": "Brian Simpson",
-          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
-        }
-      ],
-      "duration_ms": 313973,
-      "name": "Something About You",
-      "url": "https://open.spotify.com/track/06vu8fZlTlL7okvLGzhr47"
-    },
-    {
-      "added_at": "2022-09-12 07:17:34",
-      "album": {
         "name": "Focus",
         "url": "https://open.spotify.com/album/2HPhFHjp8sp4q06IxjLyxH"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 205733,
       "name": "It's All Love",
       "url": "https://open.spotify.com/track/5popJgopB341MpiXxfmFB5"
+    },
+    {
+      "added_at": "2022-09-12 07:17:34",
+      "album": {
+        "name": "Something About You",
+        "url": "https://open.spotify.com/album/5EHFd3yxzZdDvUiRuwSsTR"
+      },
+      "artists": [
+        {
+          "name": "Brian Simpson",
+          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
+        }
+      ],
+      "duration_ms": 313973,
+      "name": "Something About You",
+      "url": "https://open.spotify.com/track/06vu8fZlTlL7okvLGzhr47"
     },
     {
       "added_at": "2022-09-12 07:17:34",
@@ -695,26 +695,6 @@
     {
       "added_at": "2022-09-12 07:17:34",
       "album": {
-        "name": "The Very Best Of Lee Ritenour",
-        "url": "https://open.spotify.com/album/4hi6b3yGFoaq4gyqhhGZJi"
-      },
-      "artists": [
-        {
-          "name": "Lee Ritenour",
-          "url": "https://open.spotify.com/artist/1nDqTUspmq8IXhcEZT93iq"
-        },
-        {
-          "name": "Dave Grusin",
-          "url": "https://open.spotify.com/artist/0SPkat5bgfP5wo2kbqZIwu"
-        }
-      ],
-      "duration_ms": 297240,
-      "name": "Get Up, Stand Up",
-      "url": "https://open.spotify.com/track/5XhuPA2XvYOeYJ8Lwn2Dnx"
-    },
-    {
-      "added_at": "2022-09-12 07:17:34",
-      "album": {
         "name": "Reasons",
         "url": "https://open.spotify.com/album/5qAM5T1dtZgsbjRJeknBiB"
       },
@@ -735,6 +715,26 @@
     {
       "added_at": "2022-09-12 07:17:34",
       "album": {
+        "name": "The Very Best Of Lee Ritenour",
+        "url": "https://open.spotify.com/album/4hi6b3yGFoaq4gyqhhGZJi"
+      },
+      "artists": [
+        {
+          "name": "Lee Ritenour",
+          "url": "https://open.spotify.com/artist/1nDqTUspmq8IXhcEZT93iq"
+        },
+        {
+          "name": "Dave Grusin",
+          "url": "https://open.spotify.com/artist/0SPkat5bgfP5wo2kbqZIwu"
+        }
+      ],
+      "duration_ms": 297240,
+      "name": "Get Up, Stand Up",
+      "url": "https://open.spotify.com/track/5XhuPA2XvYOeYJ8Lwn2Dnx"
+    },
+    {
+      "added_at": "2022-09-12 07:17:34",
+      "album": {
         "name": "The Little Things",
         "url": "https://open.spotify.com/album/2orWEnZfLJkxx3c5QAomvZ"
       },
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-09-12 07:17:34",
       "album": {
-        "name": "Shake It",
-        "url": "https://open.spotify.com/album/0fxC7twA5PZ0J5LngaiZbP"
-      },
-      "artists": [
-        {
-          "name": "Paula Atherton",
-          "url": "https://open.spotify.com/artist/22aM32I9ao0SJOxWXrsNO6"
-        }
-      ],
-      "duration_ms": 278200,
-      "name": "My Song for You",
-      "url": "https://open.spotify.com/track/2WkpgjnqTOPCi60IvlDtvB"
-    },
-    {
-      "added_at": "2022-09-12 07:17:34",
-      "album": {
         "name": "Fluid",
         "url": "https://open.spotify.com/album/29nL9iA8XbL1Bt726I7XUH"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 265875,
       "name": "Fluid",
       "url": "https://open.spotify.com/track/2OCteRb2LiiMEN6XA2cqaL"
+    },
+    {
+      "added_at": "2022-09-12 07:17:34",
+      "album": {
+        "name": "Shake It",
+        "url": "https://open.spotify.com/album/0fxC7twA5PZ0J5LngaiZbP"
+      },
+      "artists": [
+        {
+          "name": "Paula Atherton",
+          "url": "https://open.spotify.com/artist/22aM32I9ao0SJOxWXrsNO6"
+        }
+      ],
+      "duration_ms": 278200,
+      "name": "My Song for You",
+      "url": "https://open.spotify.com/track/2WkpgjnqTOPCi60IvlDtvB"
     },
     {
       "added_at": "2022-09-12 07:17:34",
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-09-12 07:17:34",
       "album": {
-        "name": "Soulfully",
-        "url": "https://open.spotify.com/album/4bRm3UKAKAmfLJ6bWuDigT"
-      },
-      "artists": [
-        {
-          "name": "Ryan Montano",
-          "url": "https://open.spotify.com/artist/60c1zWUz1UhsnemRwziySF"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "Soulfully",
-      "url": "https://open.spotify.com/track/6QIv6nsWBk84KgNbN618O8"
-    },
-    {
-      "added_at": "2022-09-12 07:17:34",
-      "album": {
         "name": "G-Stream",
         "url": "https://open.spotify.com/album/3m0QBbnJrOuvdSw8BmUvgS"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 260265,
       "name": "Hope",
       "url": "https://open.spotify.com/track/1pPpKGYsZIMWYaX10gx7uR"
+    },
+    {
+      "added_at": "2022-09-12 07:17:34",
+      "album": {
+        "name": "Soulfully",
+        "url": "https://open.spotify.com/album/4bRm3UKAKAmfLJ6bWuDigT"
+      },
+      "artists": [
+        {
+          "name": "Ryan Montano",
+          "url": "https://open.spotify.com/artist/60c1zWUz1UhsnemRwziySF"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Soulfully",
+      "url": "https://open.spotify.com/track/6QIv6nsWBk84KgNbN618O8"
     },
     {
       "added_at": "2022-09-12 07:17:34",
@@ -983,6 +983,22 @@
     {
       "added_at": "2022-09-12 07:17:34",
       "album": {
+        "name": "Out Of The Shadows",
+        "url": "https://open.spotify.com/album/1CGnwPP4HvczU38xvhddTf"
+      },
+      "artists": [
+        {
+          "name": "Spur Of The Moment",
+          "url": "https://open.spotify.com/artist/07R91vaA8abuyWQlXlmIDe"
+        }
+      ],
+      "duration_ms": 281413,
+      "name": "In Key",
+      "url": "https://open.spotify.com/track/2ptNHiOb6DbdWytP2Nsslu"
+    },
+    {
+      "added_at": "2022-09-12 07:17:34",
+      "album": {
         "name": "Goin' All Out",
         "url": "https://open.spotify.com/album/119TqT324LissrAdkAKxf9"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 266145,
       "name": "Groovin' J",
       "url": "https://open.spotify.com/track/6zFYcAvBoEjqKWiFneXWf4"
-    },
-    {
-      "added_at": "2022-09-12 07:17:34",
-      "album": {
-        "name": "Out Of The Shadows",
-        "url": "https://open.spotify.com/album/1CGnwPP4HvczU38xvhddTf"
-      },
-      "artists": [
-        {
-          "name": "Spur Of The Moment",
-          "url": "https://open.spotify.com/artist/07R91vaA8abuyWQlXlmIDe"
-        }
-      ],
-      "duration_ms": 281413,
-      "name": "In Key",
-      "url": "https://open.spotify.com/track/2ptNHiOb6DbdWytP2Nsslu"
     },
     {
       "added_at": "2022-09-12 07:17:34",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2022-09-12 07:17:34",
       "album": {
-        "name": "Undercover",
-        "url": "https://open.spotify.com/album/0RXMMiDCOhnt2IFldaHuAi"
-      },
-      "artists": [
-        {
-          "name": "Paul Taylor",
-          "url": "https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ"
-        }
-      ],
-      "duration_ms": 238600,
-      "name": "Avenue",
-      "url": "https://open.spotify.com/track/0LWUULlpkZ5PoM9Mj4JOyk"
-    },
-    {
-      "added_at": "2022-09-12 07:17:34",
-      "album": {
         "name": "Sippin the Yak",
         "url": "https://open.spotify.com/album/7KeUO1iqx1u1C57fZb5GHx"
       },
@@ -1199,18 +1183,18 @@
     {
       "added_at": "2022-09-12 07:17:34",
       "album": {
-        "name": "Fall For You",
-        "url": "https://open.spotify.com/album/1069ubCvaVGmtkw2VNxZAV"
+        "name": "Undercover",
+        "url": "https://open.spotify.com/album/0RXMMiDCOhnt2IFldaHuAi"
       },
       "artists": [
         {
-          "name": "Blake Aaron",
-          "url": "https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56"
+          "name": "Paul Taylor",
+          "url": "https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ"
         }
       ],
-      "duration_ms": 272400,
-      "name": "Fall For You",
-      "url": "https://open.spotify.com/track/7qqamkny8IkXOCJrhjy73L"
+      "duration_ms": 238600,
+      "name": "Avenue",
+      "url": "https://open.spotify.com/track/0LWUULlpkZ5PoM9Mj4JOyk"
     },
     {
       "added_at": "2022-09-12 07:17:34",
@@ -1227,6 +1211,22 @@
       "duration_ms": 226666,
       "name": "Golden",
       "url": "https://open.spotify.com/track/6dAiJguW0vDdbLf8QlY2DR"
+    },
+    {
+      "added_at": "2022-09-12 07:17:34",
+      "album": {
+        "name": "Fall For You",
+        "url": "https://open.spotify.com/album/1069ubCvaVGmtkw2VNxZAV"
+      },
+      "artists": [
+        {
+          "name": "Blake Aaron",
+          "url": "https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56"
+        }
+      ],
+      "duration_ms": 272400,
+      "name": "Fall For You",
+      "url": "https://open.spotify.com/track/7qqamkny8IkXOCJrhjy73L"
     },
     {
       "added_at": "2022-09-12 07:17:34",
