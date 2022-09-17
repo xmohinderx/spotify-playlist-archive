@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavAgzH4TQLa.md) - [plain]
 
 > Dale play, y que la cumbia no pare.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,165 likes - 80 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,304 likes - 80 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,21 +44,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavAgzH4TQLa.md) - [plain]
 | 34 | [Soy Soltero](https://open.spotify.com/track/09bBwB9wctmnYtxMOdNGRd) | [El Dipy](https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw) | [No Lo Compren](https://open.spotify.com/album/31nDorIqLwLOrjNtf31zGR) | 3:37 |
 | 35 | [Que calor](https://open.spotify.com/track/0RDDMvevLZkkBhAHP2mNpb) | [Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Pibes Chorros \- Criando Cuervos](https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs) | 3:45 |
 | 36 | [Se Me Ha Perdido Un Corazón](https://open.spotify.com/track/2OzSJG7HmZYTiggNoGujZP) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Los Más Grandes Exitos](https://open.spotify.com/album/6IGIqpi9vP4bbBBjwJUL0y) | 3:30 |
-| 37 | [Ella](https://open.spotify.com/track/6ZHydaYmmzJKeceEV5nmuS) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [Solo Para Entendidos](https://open.spotify.com/album/6v4EOAJlhIqTgl7vbRbUga) | 3:02 |
-| 38 | [Quiereme](https://open.spotify.com/track/2749jULVf3n93RHzAIpmTi) | [Jean Carlos](https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9) | [Nominado](https://open.spotify.com/album/0plUTXDPuD3mDlDPhQGZY7) | 3:39 |
+| 37 | [Mentirosa](https://open.spotify.com/track/3Iw4UVS7fo2TdD6Spmgqaj) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Imparables](https://open.spotify.com/album/7jfg9E2mgCCUgeRAHRJuIG) | 3:14 |
+| 38 | [Ella](https://open.spotify.com/track/6ZHydaYmmzJKeceEV5nmuS) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [Solo Para Entendidos](https://open.spotify.com/album/6v4EOAJlhIqTgl7vbRbUga) | 3:02 |
 | 39 | [Después De Ti](https://open.spotify.com/track/6xXaikT6ok8RahSgnrJOqu) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Un Homenaje Al Cielo](https://open.spotify.com/album/5fPNASmvNeT43QSYp6Asd2) | 3:19 |
-| 40 | [Yo No Sé Mañana](https://open.spotify.com/track/2YnJKK6rYV0Dy5XdBpa36l) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG) | [Yo No Sé Mañana](https://open.spotify.com/album/3vlIfLtvvxFaFsuZ9XimoN) | 2:50 |
+| 40 | [Quiereme](https://open.spotify.com/track/2749jULVf3n93RHzAIpmTi) | [Jean Carlos](https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9) | [Nominado](https://open.spotify.com/album/0plUTXDPuD3mDlDPhQGZY7) | 3:39 |
 | 41 | [Corazon Mentiroso](https://open.spotify.com/track/2ZkWTFZ9rQCl6ccNAOO79L) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Sin Vergüenza](https://open.spotify.com/album/2WuEroV8xhS8VXN8xjArIT) | 2:59 |
-| 42 | [De Regreso Al Penal](https://open.spotify.com/track/4IrDBkJuvNMPNa2ZmXcKDF) | [Pala Ancha](https://open.spotify.com/artist/2DRTGjBvhQtEYN9wYM3opQ) | [Cumbia Callejera](https://open.spotify.com/album/0s5bWgCSNVyW7TbfNZmAit) | 4:03 |
-| 43 | [Pibe Cantina](https://open.spotify.com/track/5KaHTwUkmynaHqs3GuDIVe) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [20 Grandes Exitos](https://open.spotify.com/album/3T7lpBIg7KxF3yVucAXsUj) | 3:38 |
-| 44 | [Mentirosa](https://open.spotify.com/track/3Iw4UVS7fo2TdD6Spmgqaj) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Imparables](https://open.spotify.com/album/7jfg9E2mgCCUgeRAHRJuIG) | 3:14 |
-| 45 | [Se Te Ve la Tanga](https://open.spotify.com/track/3GUMMzUB7Kk0BSqxEDyieS) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [El Bonaerense](https://open.spotify.com/album/5A0jz6qj9yuxVpQxahbC0x) | 4:23 |
-| 46 | [En este mundo](https://open.spotify.com/track/7gamXMgGmNsr83XdKMPbc9) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [El polaco \- Vuelve te lo pido](https://open.spotify.com/album/37q8WdUhkdZPPrkmw6o5xS) | 2:13 |
+| 42 | [Yo No Sé Mañana](https://open.spotify.com/track/2YnJKK6rYV0Dy5XdBpa36l) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG) | [Yo No Sé Mañana](https://open.spotify.com/album/3vlIfLtvvxFaFsuZ9XimoN) | 2:50 |
+| 43 | [De Regreso Al Penal](https://open.spotify.com/track/4IrDBkJuvNMPNa2ZmXcKDF) | [Pala Ancha](https://open.spotify.com/artist/2DRTGjBvhQtEYN9wYM3opQ) | [Cumbia Callejera](https://open.spotify.com/album/0s5bWgCSNVyW7TbfNZmAit) | 4:03 |
+| 44 | [Pibe Cantina](https://open.spotify.com/track/5KaHTwUkmynaHqs3GuDIVe) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [20 Grandes Exitos](https://open.spotify.com/album/3T7lpBIg7KxF3yVucAXsUj) | 3:38 |
+| 45 | [En este mundo](https://open.spotify.com/track/7gamXMgGmNsr83XdKMPbc9) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [El polaco \- Vuelve te lo pido](https://open.spotify.com/album/37q8WdUhkdZPPrkmw6o5xS) | 2:13 |
+| 46 | [Se Te Ve la Tanga](https://open.spotify.com/track/3GUMMzUB7Kk0BSqxEDyieS) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [El Bonaerense](https://open.spotify.com/album/5A0jz6qj9yuxVpQxahbC0x) | 4:23 |
 | 47 | [Sentado en la Esquina](https://open.spotify.com/track/2KTrV1P4FIooFm8wFRcUBQ) | [La Piedra Urbana](https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt) | [Los Maleantes](https://open.spotify.com/album/4Qjy0jhjBUFH1btd8lmg6Q) | 2:44 |
-| 48 | [Te extraño](https://open.spotify.com/track/6SGsYigLaGXaCH2jM2JwlZ) | [Los Charros](https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9) | [20 años de cumbia \- Los mejores exitos de 1990 \- 2010](https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU) | 3:44 |
-| 49 | [Una Wacha Piola](https://open.spotify.com/track/4alXoLhVbPKGMXoToEqdye) | [De La Calle](https://open.spotify.com/artist/5YrBL6QmqRYTvr52b0IOT3) | [Más Negro Que la Noche](https://open.spotify.com/album/0BKMSvhWTL8DOoiW0MEpt4) | 2:35 |
-| 50 | [El Soy Yo](https://open.spotify.com/track/3GYyjWrmZF5GVKDs4iUkh0) | [Mensajeros del Amor](https://open.spotify.com/artist/3IbAQiPGvV3aSwvYBMo3o3) | [Mensajeros del Amor](https://open.spotify.com/album/2yD6FFYH2YGoaRCOcdfsR6) | 3:12 |
-| 51 | [El Polvito del Amor](https://open.spotify.com/track/5zRQDokwLLYAgNB0CCo2qb) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Lo Mejor De Lo Mejor](https://open.spotify.com/album/5utAZ2gLHaRWCTAzbG5e0t) | 3:06 |
+| 48 | [El Polvito del Amor](https://open.spotify.com/track/5zRQDokwLLYAgNB0CCo2qb) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Lo Mejor De Lo Mejor](https://open.spotify.com/album/5utAZ2gLHaRWCTAzbG5e0t) | 3:06 |
+| 49 | [Te extraño](https://open.spotify.com/track/6SGsYigLaGXaCH2jM2JwlZ) | [Los Charros](https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9) | [20 años de cumbia \- Los mejores exitos de 1990 \- 2010](https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU) | 3:44 |
+| 50 | [Una Wacha Piola](https://open.spotify.com/track/4alXoLhVbPKGMXoToEqdye) | [De La Calle](https://open.spotify.com/artist/5YrBL6QmqRYTvr52b0IOT3) | [Más Negro Que la Noche](https://open.spotify.com/album/0BKMSvhWTL8DOoiW0MEpt4) | 2:35 |
+| 51 | [El Soy Yo](https://open.spotify.com/track/3GYyjWrmZF5GVKDs4iUkh0) | [Mensajeros del Amor](https://open.spotify.com/artist/3IbAQiPGvV3aSwvYBMo3o3) | [Mensajeros del Amor](https://open.spotify.com/album/2yD6FFYH2YGoaRCOcdfsR6) | 3:12 |
 | 52 | [No Me Lo Creo](https://open.spotify.com/track/4D0sX1ScgNTnEW0VT6X9mZ) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Como la Gente](https://open.spotify.com/album/75t4wjj5y0Q820HCrh60Xb) | 4:45 |
 | 53 | [Duraznito](https://open.spotify.com/track/5tjqwBcn9WsaoaqS2oGJq2) | [Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Pibes Chorros:Discografía Completa Vol.1](https://open.spotify.com/album/455BXTyu53QqEeFnStn2FP) | 5:08 |
 | 54 | [Un Beso y una Flor](https://open.spotify.com/track/2Gw02zy3Me82k56qTQ5qFk) | [Repiola](https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ) | [La 2da del Boxeador](https://open.spotify.com/album/0qhvY5ilIjQJsQMw7Y4T2X) | 4:08 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavAgzH4TQLa.md) - [plain]
 | 79 | [Ritmo Sabroson](https://open.spotify.com/track/4NyLrceESCSUGDhIt8DhBk) | [Eh!!! Guacho](https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF) | [Es Corta la Bocha](https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM) | 2:12 |
 | 80 | [Otra Como Tú](https://open.spotify.com/track/67ghG6n5zTVWoL77V37lCf) | [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq) | [Montevideo 418](https://open.spotify.com/album/6MJnOjPMpFdInIEWItilLP) | 4:18 |
 
-Snapshot ID: `MTY1ODUwMjQxNiwwMDAwMDAwMGNmNGYwOWZlMTIzODkwMmUwZjc4Yzk1ZWRlN2MzYWIw`
+Snapshot ID: `MTY1ODUwMjQxNiwwMDAwMDAwMDNhOTc2MzY5YzExNDAzN2FkNWI4NDkwNjM4MmMxZmJh`

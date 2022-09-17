@@ -188,6 +188,28 @@
     },
     {
       "album": {
+        "name": "Aka Entre el Humo",
+        "url": "https://open.spotify.com/album/2NJuKDOUh9mANpFIKr7N9K"
+      },
+      "artists": [
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "Aka Entre el Humo",
+      "url": "https://open.spotify.com/track/1jGQu9LPVLRZ41u9onpfXy"
+    },
+    {
+      "album": {
         "name": "Alzypher Vol. 3",
         "url": "https://open.spotify.com/album/46ZihTRzRSBPKRuPOE0VRD"
       },
@@ -657,7 +679,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 207582,
       "name": "Calafia Tour",
       "url": "https://open.spotify.com/track/5oqPZDLDphVqvMCwzUDRsd"
@@ -803,7 +825,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 209887,
       "name": "Contra Corriente",
       "url": "https://open.spotify.com/track/56eurZLGRLoYxkqcU6ECfw"
@@ -2471,6 +2493,24 @@
       "duration_ms": 196370,
       "name": "M\u00e1quina de escribir",
       "url": "https://open.spotify.com/track/3ZOjsCJn1IrMaUvhX4eDje"
+    },
+    {
+      "album": {
+        "name": "M\u00fasica Mexa",
+        "url": "https://open.spotify.com/album/59RfQ4q6GQMwjjmUWKvXbx"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194823,
+      "name": "M\u00fasica Mexa",
+      "url": "https://open.spotify.com/track/4yOi3U3ItUcRckpjjuVPEJ"
     },
     {
       "album": {

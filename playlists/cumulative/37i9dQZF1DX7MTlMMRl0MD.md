@@ -2,9 +2,9 @@
 
 ### [Bachata Lovers](https://open.spotify.com/playlist/37i9dQZF1DX7MTlMMRl0MD)
 
-> Tu lista favorita de Bachata ❤️ Cover: Romeo Santos
+> Tu lista favorita de Bachata ❤️ Cover: Becky G & Daviles de Novelda
 
-267 songs - 16 hr 58 min - [published](https://open.spotify.com/playlist/45MmNxif45mvjmVUvvusGU)
+268 songs - 17 hr 1 min - [published](https://open.spotify.com/playlist/45MmNxif45mvjmVUvvusGU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,9 +14,10 @@
 | [Adicto \(feat\. Marc Anthony\)](https://open.spotify.com/track/4Xqpt53kWML7eTObGxQ43i) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Adicto \(feat\. Marc Anthony\)](https://open.spotify.com/album/3WkWeNvKY4CMeLwKIeOugQ) | 3:29 | 2022-03-04 | 2022-07-29 |
 | [Adios Amor](https://open.spotify.com/track/20fBJJrq3ATDmVd6PyeZqu) | [Andy Andy](https://open.spotify.com/artist/6uEyybDR7K1r88t6iT1oBw) | [Adios Amor](https://open.spotify.com/album/7rMGadR0ELbkpNfqFAoQoX) | 3:53 | 2022-03-04 | 2022-09-03 |
 | [Adónde Se Fue ?](https://open.spotify.com/track/6hj4B44W9LzsFJFNHpmFTw) | [Xtreme](https://open.spotify.com/artist/47bVt95bvBMpmJFWoyhH0C) | [Haciendo Historia](https://open.spotify.com/album/0VLSRZj2zucgdtve2EvH4D) | 3:05 | 2022-09-09 |  |
+| [AMANTES](https://open.spotify.com/track/3Q7o2zzvXj7QiSCumjBpvu) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Daviles de Novelda](https://open.spotify.com/artist/6E94QKXZv8BbO6QQJxcxLI) | [AMANTES](https://open.spotify.com/album/2yEEceuPovV5sAoey4GUJF) | 3:00 | 2022-09-16 |  |
 | [Amor de Verdad](https://open.spotify.com/track/7qozat5jqKmwgs7kLo2NWh) | [Dama](https://open.spotify.com/artist/5YvnPJFWHBBV8SkjvzGWHT) | [Amor de Verdad](https://open.spotify.com/album/24MCC33x034nPk15G6K8MU) | 3:51 | 2022-03-04 | 2022-09-03 |
 | [Amorcito Enfermito](https://open.spotify.com/track/2colCrVYpDalL5Oc0NkfaK) | [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn) | [Merengue y Sentimiento](https://open.spotify.com/album/1sICskXqVMRys1f0AKqyBS) | 3:50 | 2022-03-04 |  |
-| [Antes del Lunes](https://open.spotify.com/track/6yVGk00COgjDJbHELkO109) | [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn) | [Este Soy Yo](https://open.spotify.com/album/62FZyT9vBsUAD85XxomugZ) | 3:42 | 2022-09-09 |  |
+| [Antes del Lunes](https://open.spotify.com/track/6yVGk00COgjDJbHELkO109) | [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn) | [Este Soy Yo](https://open.spotify.com/album/62FZyT9vBsUAD85XxomugZ) | 3:42 | 2022-09-09 | 2022-09-17 |
 | [Ateo](https://open.spotify.com/track/5xiAfKzE3mbxYbOkUZPR11) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Nathy Peluso](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Ateo](https://open.spotify.com/album/6Re7sviVustR53KeArspwK) | 3:59 | 2022-03-04 |  |
 | [atravesao](https://open.spotify.com/track/00HU2RYUeBcOVJPbdOtdJ2) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [atravesao](https://open.spotify.com/album/2NQf4yrGL2SCUFvOYIKdFr) | 3:20 | 2022-03-04 | 2022-09-03 |
 | [Aventurero](https://open.spotify.com/track/6dapTo2nYV7SdoyaJLpJWI) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Aventurero](https://open.spotify.com/album/4PWYXJGUP9s8qNWJMCRl4s) | 3:29 | 2022-03-04 | 2022-09-03 |
@@ -83,7 +84,7 @@
 | [El Intruso](https://open.spotify.com/track/0gSBSVrek88L0xnSUQwlst) | [Zacarias Ferreira](https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o) | [El Amor](https://open.spotify.com/album/47hm8FIBjBtP5pYjO0fJUq) | 2:52 | 2022-03-04 |  |
 | [El Malo](https://open.spotify.com/track/217bRMES4HVbPdUe8l8ECN) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [The Last](https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe) | 3:58 | 2022-03-04 |  |
 | [El Pañuelo](https://open.spotify.com/track/3c7H5RL3H6jFgDTbMxGBe9) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [El Pañuelo](https://open.spotify.com/album/6UHVdZCYgXo8xeSCw4RXp5) | 3:54 | 2022-09-02 | 2022-09-10 |
-| [El Pañuelo](https://open.spotify.com/track/7jfmlr5W2AQWUGLVhT8ofl) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Fórmula, Vol\. 3](https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF) | 3:54 | 2022-09-09 |  |
+| [El Pañuelo](https://open.spotify.com/track/7jfmlr5W2AQWUGLVhT8ofl) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Fórmula, Vol\. 3](https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF) | 3:54 | 2022-09-09 | 2022-09-17 |
 | [El Perdedor](https://open.spotify.com/track/27ze5t5tIDPlVits0KRbxT) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [K.O.B\. Live](https://open.spotify.com/album/03Sa02WIHEwH8lHfbipmrz) | 3:35 | 2022-09-09 |  |
 | [El Perdedor](https://open.spotify.com/track/7hLYOkbsngrNAcIXbXfsQu) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Todavía Me Amas: Lo Mejor de Aventura](https://open.spotify.com/album/4rncYwFMKLyhdd0yYQH19k) | 3:35 | 2022-03-04 | 2022-07-29 |
 | [El Perdón \(with Enrique Iglesias\)](https://open.spotify.com/track/7qCAVkHWZkF44OzOUKf8Cr) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Fénix](https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ) | 3:25 | 2022-09-09 |  |
@@ -95,7 +96,7 @@
 | [En Todo Fuiste la Mejor](https://open.spotify.com/track/3nGuOrT9PqwVYQWamSryIA) | [Johnny Sky](https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d) | [Johnny Sky](https://open.spotify.com/album/6PVFjEtIIZaK4fj1ACzVoi) | 3:49 | 2022-03-04 |  |
 | [Enséñame a Olvidar](https://open.spotify.com/track/4iTtqoImVortyy7MHw51Cv) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Todavía Me Amas: Lo Mejor de Aventura \(Deluxe Edition\)](https://open.spotify.com/album/2KAFZKOzlkk0wOI1XdoO0q) | 5:48 | 2022-03-04 | 2022-07-29 |
 | [Era Mentira](https://open.spotify.com/track/205UQMjPr9vVthUghoqynT) | [Bachata Heightz](https://open.spotify.com/artist/5zvRX0y0JYtGOmGJwLwyIL), [Circharles](https://open.spotify.com/artist/7h9r1hKkJ7FGA6k5vjiz1i) | [Era Mentira](https://open.spotify.com/album/0Jq5HRj6AT5UgwDioSOG4Z) | 4:10 | 2022-03-04 | 2022-08-20 |
-| [Eres Mía](https://open.spotify.com/track/6I86RF3odBlcuZA9Vfjzeq) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Fórmula, Vol\. 2 \(Deluxe Edition\)](https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L) | 4:10 | 2022-03-04 | 2022-09-10 |
+| [Eres Mía](https://open.spotify.com/track/6I86RF3odBlcuZA9Vfjzeq) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Fórmula, Vol\. 2 \(Deluxe Edition\)](https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L) | 4:10 | 2022-03-04 |  |
 | [Es Tan Difícil](https://open.spotify.com/track/0Ihu6hcj4hrWVz22W3G10P) | [Zacarias Ferreira](https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o) | [Dime Que Falto](https://open.spotify.com/album/0mX3OGgKkGaFONpd2IfB1N) | 4:11 | 2022-03-04 |  |
 | [Eso Es Amor](https://open.spotify.com/track/3ZKJvmw8fTozLYGHbftkGn) | [Jiory](https://open.spotify.com/artist/4RLGPkFaRFlkPNFzVbcd6k) | [Eso Es Amor](https://open.spotify.com/album/1vqTyXMquKPCMAH5kU528d) | 3:52 | 2022-03-04 | 2022-09-03 |
 | [Fallarte Nunca](https://open.spotify.com/track/6dW8Tvo71KmXb2xOtsdyPF) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Fallarte Nunca](https://open.spotify.com/album/5oHC0YyRaiM4qkFCNp4Xgw) | 3:51 | 2022-03-04 | 2022-03-26 |

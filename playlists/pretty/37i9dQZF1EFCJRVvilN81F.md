@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1Q4GnDtPDjnD2xTWVQgErL">KAYTRANADA</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,794 likes - 102 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,797 likes - 102 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 31 | [Your Time \(feat\. KAYTRANADA\)](https://open.spotify.com/track/7JzXmXuqPRJNClCdOAE1Ah) | [Nick Murphy](https://open.spotify.com/artist/2Q0MyH5YMI5HPQjFjlq5g3), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Missing Link](https://open.spotify.com/album/6GxbfAJrMfFhMNjuAYJ7Z0) | 4:04 |
 | 32 | [NOTHIN LIKE U \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/5yPrF4nP6JoaXV8TIjndPc) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [NOTHIN LIKE U / CHANCES](https://open.spotify.com/album/59Vw8BjAmvGYUsPlesp54V) | 3:14 |
 | 33 | [Teen Scene \(ft\. Buddy\)](https://open.spotify.com/track/3cyw3MYxhpCSPMawfqdFNk) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Habits](https://open.spotify.com/album/710KCDvLyaTZS6NHNw9URq) | 4:10 |
-| 34 | [Your Love](https://open.spotify.com/track/28hqMsj3fF2QUby3O6Z8PT) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Wave\[s\]](https://open.spotify.com/album/2gSh19Qplm8gsM7Tp8IeOu) | 3:14 |
-| 35 | [Freefall](https://open.spotify.com/track/2flqiTbuPeDZXxgEW67rxw) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 3:01 |
+| 34 | [Freefall](https://open.spotify.com/track/2flqiTbuPeDZXxgEW67rxw) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 3:01 |
+| 35 | [Your Love](https://open.spotify.com/track/28hqMsj3fF2QUby3O6Z8PT) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Wave\[s\]](https://open.spotify.com/album/2gSh19Qplm8gsM7Tp8IeOu) | 3:14 |
 | 36 | [Come Inside \(Kaytranada Edit\)](https://open.spotify.com/track/3jQL0t4Jg4EZ77oNEvjEtN) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ) | [002 / LOVE ME](https://open.spotify.com/album/06tuQubTO3GAXGOcMtfHok) | 4:26 |
 | 37 | [DESPITE THE WEATHER](https://open.spotify.com/track/25d83nKYjGVsQjPcBoVRQI) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [99.9%](https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa) | 2:01 |
 | 38 | [Out of Time \- KAYTRANADA Remix](https://open.spotify.com/track/36aoiqTQcBGDb7bAO3n5XO) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Dawn FM \(Alternate World\)](https://open.spotify.com/album/0A8SNVB9aIWEW3rm2OgwOB) | 4:35 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 49 | [P's & Q's](https://open.spotify.com/track/1z3sZrbZfgIpICkFDeSurB) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Wave\[s\]](https://open.spotify.com/album/5yXvXFTwuqoAHFuPeliqvZ) | 2:33 |
 | 50 | [Say Sumthin](https://open.spotify.com/track/6UAaa72nf55kRhyF1SjV4i) | [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [One Hand on the Future](https://open.spotify.com/album/2iXC1LP13glN7IQrsF7hUI) | 3:46 |
 | 51 | [Live in the Moment \(feat\. GoldLink\)](https://open.spotify.com/track/6dt1vglokVwAR8XuVC9Gnd) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [The Time Is Now \(Expanded Edition\)](https://open.spotify.com/album/51vRvV83RdWGP9FpzGe4SQ) | 3:06 |
-| 52 | [Be Careful \(feat\. Thundercat\)](https://open.spotify.com/track/73VGs4bdVRt4O8D7a4lCwJ) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Intimidated](https://open.spotify.com/album/1tbB05wnLmxMl8WPbcnV0y) | 2:43 |
-| 53 | [Twin Flame](https://open.spotify.com/track/15cYjzRUBRrDHn76GdxWiv) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Twin Flame](https://open.spotify.com/album/1SzuRFxlqSZTIWUEE587Oy) | 3:52 |
+| 52 | [Twin Flame](https://open.spotify.com/track/15cYjzRUBRrDHn76GdxWiv) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Twin Flame](https://open.spotify.com/album/1SzuRFxlqSZTIWUEE587Oy) | 3:52 |
+| 53 | [Be Careful \(feat\. Thundercat\)](https://open.spotify.com/track/73VGs4bdVRt4O8D7a4lCwJ) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Intimidated](https://open.spotify.com/album/1tbB05wnLmxMl8WPbcnV0y) | 2:43 |
 | 54 | [MUST BE](https://open.spotify.com/track/0lO5zEKJ60lvz8X192p3WK) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [EXTRA EXTRA!](https://open.spotify.com/album/2e6cYARtMKZUhYqD7WXXa1) | 2:25 |
 | 55 | [Telling The Truth](https://open.spotify.com/track/6LOWgH9NaSheAz0U4b7uQL) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Strength Of A Woman](https://open.spotify.com/album/4NbiqWISvtpKiWFwpmtzTF) | 3:57 |
 | 56 | [IT WAS MEANT 2 B](https://open.spotify.com/track/3AY6Umh7zKCxy5NoftF6cc) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [NOTHIN LIKE U / CHANCES](https://open.spotify.com/album/59Vw8BjAmvGYUsPlesp54V) | 4:00 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 101 | [NEW FRIENDS](https://open.spotify.com/track/2K2HS7k6TikCQ0ErmZK4BM) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [EXTRA EXTRA!](https://open.spotify.com/album/2e6cYARtMKZUhYqD7WXXa1) | 3:06 |
 | 102 | [FIRE](https://open.spotify.com/track/5h7V109OsJIa9zsfU8vEey) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [EXTRA EXTRA!](https://open.spotify.com/album/2e6cYARtMKZUhYqD7WXXa1) | 3:13 |
 
-Snapshot ID: `Mjc3MjE1NzAsMDAwMDAwMDBhNTM1NjBjYzI5ZDQyZTZiYmM5MTdlMGIzYTEwNzg2NQ==`
+Snapshot ID: `Mjc3MjI5NTAsMDAwMDAwMDA2NTQ2M2Q2YWI1NjIxMDk2ZmFmNDJmM2Q4N2QyZDZhNA==`

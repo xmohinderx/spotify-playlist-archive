@@ -4,7 +4,7 @@
 
 > ludde is the baddest of them all.\. 😍
 
-667 songs - 1 day 11 hr 29 min - [published](https://open.spotify.com/playlist/4lvmqgyOZ3UIDY0edvx7rR)
+670 songs - 1 day 11 hr 40 min - [published](https://open.spotify.com/playlist/4lvmqgyOZ3UIDY0edvx7rR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,6 +261,7 @@
 | [HOT DEMON B!TCHES NEAR U ! ! !](https://open.spotify.com/track/7v4pPS4A7NgY7bxFA3Etv3) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW), [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [HOT DEMON B!TCHES NEAR U ! ! !](https://open.spotify.com/album/5kcBHP5GH7fsOJLwVfXmx3) | 1:36 | 2022-05-19 |  |
 | [Hotel](https://open.spotify.com/track/01JudCVH6imG6Zh4aHBTAq) | [Lawsy](https://open.spotify.com/artist/4KatuTqriDODW9YiAIZD3T) | [Hotel](https://open.spotify.com/album/62HTjoHrWJW0CQ7ubx3Px7) | 2:35 | 2022-07-14 | 2022-07-29 |
 | [Hotel](https://open.spotify.com/track/1rfsEU57ofvxhII8Xs57WF) | [Lawsy](https://open.spotify.com/artist/4KatuTqriDODW9YiAIZD3T) | [Hotel](https://open.spotify.com/album/4wSF1oy5QmEopBZ2KZxIy1) | 2:35 | 2022-07-14 |  |
+| [Hotel](https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Hotel](https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF) | 3:17 | 2022-09-16 |  |
 | [Hotel \(Sped Up\)](https://open.spotify.com/track/0yQgvvEyDS5xICpMsj6O2k) | [Lawsy](https://open.spotify.com/artist/4KatuTqriDODW9YiAIZD3T) | [Hotel \(Sped Up\)](https://open.spotify.com/album/5R41oZrPS2ehYpdndO7Muu) | 2:08 | 2022-07-28 |  |
 | [Hotel Room Service](https://open.spotify.com/track/0OPyDgTRuIdCJ9B4bYSths) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Pitbull Starring In Rebelution](https://open.spotify.com/album/4RaAjieYFIZRF8uh6GY43r) | 3:57 | 2022-05-19 |  |
 | [Hotel Room Service](https://open.spotify.com/track/32yIEFS62uS5ryhr2Xlooj) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Hotel Room Service](https://open.spotify.com/album/6t7u6RvLoWLfWPLRUUXD1d) | 3:58 | 2022-05-19 | 2022-07-29 |
@@ -371,7 +372,8 @@
 | [Marlboro Nights](https://open.spotify.com/track/7fuQc3IfjiB1gCqP9c1Xvy) | [Lonely God](https://open.spotify.com/artist/6pF6MN603wSrisJcf7HS5v) | [Marlboro Nights](https://open.spotify.com/album/67kzmAbAwzOWcLONoB8cg1) | 1:08 | 2022-05-19 | 2022-07-29 |
 | [Mary On A Cross](https://open.spotify.com/track/2HZLXBOnaSRhXStMLrq9fD) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Seven Inches Of Satanic Panic](https://open.spotify.com/album/6eOWfFjfBPRsAW0ZS4sbaF) | 4:04 | 2022-08-15 | 2022-09-02 |
 | [Mary On A Cross \- slowed + reverb](https://open.spotify.com/track/28SGdoIKjrBUgFcTJIhbYl) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Mary On A Cross \(slowed + reverb\)](https://open.spotify.com/album/1Q1VaCel41tdPf5aB1s75O) | 4:34 | 2022-08-25 | 2022-08-27 |
-| [Mary On A Cross \- slowed + reverb](https://open.spotify.com/track/6xWbpC8KpcItoGd8ZOKJlU) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Mary On A Cross \(slowed + reverb\)](https://open.spotify.com/album/3uMnHBe9kSpru8jFG4bzB8) | 4:34 | 2022-08-25 |  |
+| [Mary On A Cross \- slowed + reverb](https://open.spotify.com/track/4yhzZ9ESp4UwnJqImyMR3A) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [\[MESSAGE FROM THE CLERGY\]](https://open.spotify.com/album/1BbfbJZan9d1srv8aHavom) | 4:34 | 2022-09-15 |  |
+| [Mary On A Cross \- slowed + reverb](https://open.spotify.com/track/6xWbpC8KpcItoGd8ZOKJlU) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Mary On A Cross \(slowed + reverb\)](https://open.spotify.com/album/3uMnHBe9kSpru8jFG4bzB8) | 4:34 | 2022-08-25 | 2022-09-17 |
 | [Mask Off](https://open.spotify.com/track/0VgkVdmE4gld66l8iyGjgx) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [FUTURE](https://open.spotify.com/album/17FBoXK1NU2rvJBbzdzw0r) | 3:24 | 2022-09-05 |  |
 | [masquerade](https://open.spotify.com/track/0RYHqnmtNRfbYxP6Dn8Vse) | [siouxxie sixxsta](https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr) | [masquerade](https://open.spotify.com/album/1hfRW8Q9CbSzVaKCbaFMxB) | 2:24 | 2022-05-19 |  |
 | [masquerade](https://open.spotify.com/track/64EA2RKyciBwCuVczLH6Ct) | [siouxxie sixxsta](https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr) | [masquerade](https://open.spotify.com/album/20blibqF1THTtLCzQq0Ovx) | 2:24 | 2022-05-19 | 2022-07-29 |
@@ -453,7 +455,8 @@
 | [Old Love](https://open.spotify.com/track/3W4U7TEgILGpq0EmquurtH) | [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW), [putri dahlia](https://open.spotify.com/artist/54nGORfHS6Uldjlr4QeN7g) | [Old Love](https://open.spotify.com/album/6mKwqGY2IS3qSs3mgs30A5) | 4:09 | 2022-09-15 |  |
 | [One Kiss \(with Dua Lipa\)](https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [One Kiss \(with Dua Lipa\)](https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581) | 3:34 | 2022-05-30 |  |
 | [One Kiss X I Was Never There](https://open.spotify.com/track/0W5MGyH8F7laI7QBVF4fiI) | [Just Lowkey](https://open.spotify.com/artist/5dSbMNdPisHKz5waAlBGZ3) | [One Kiss X I Was Never There](https://open.spotify.com/album/2IojTELiMkFQAwSnwWMJuj) | 2:51 | 2022-09-08 | 2022-09-11 |
-| [One Kiss X I Was Never There](https://open.spotify.com/track/7b7t0p0e2lh5ySJVdnlwe8) | [Just Lowkey](https://open.spotify.com/artist/5dSbMNdPisHKz5waAlBGZ3) | [One Kiss X I Was Never There](https://open.spotify.com/album/4tDBX1YFe1JSKhBb1v4khU) | 2:51 | 2022-09-05 |  |
+| [One Kiss X I Was Never There](https://open.spotify.com/track/7b7t0p0e2lh5ySJVdnlwe8) | [Just Lowkey](https://open.spotify.com/artist/5dSbMNdPisHKz5waAlBGZ3) | [One Kiss X I Was Never There](https://open.spotify.com/album/4tDBX1YFe1JSKhBb1v4khU) | 2:51 | 2022-09-05 | 2022-09-17 |
+| [One Kiss X I Was Never There](https://open.spotify.com/track/7pFDzZ3YKWT3JcpcXzbrCS) | [Just Lowkey](https://open.spotify.com/artist/5dSbMNdPisHKz5waAlBGZ3) | [One Kiss X I Was Never There](https://open.spotify.com/album/6Gp1Tq29N4mPsCzFZTaYjQ) | 2:51 | 2022-09-15 |  |
 | [One More Hour](https://open.spotify.com/track/0mO6oS60RST2sWmN2FKknP) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 7:12 | 2022-07-04 |  |
 | [One of the Guys](https://open.spotify.com/track/4jXEvctpjLM9moyDwG8SGp) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [One of the Guys](https://open.spotify.com/album/3PMqsg6TJ2AaTCA00Y7Sjb) | 1:58 | 2022-09-01 |  |
 | [Only Love Can Hurt Like This](https://open.spotify.com/track/62ke5zFUJN6RvtXZgVH0F8) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [A Perfect Contradiction \(Outsiders' Expanded Edition\)](https://open.spotify.com/album/3jRG3qOfsSSW3SBdeBiIfC) | 3:52 | 2022-05-19 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Come on, man. Just smile!",
-  "num_followers": 453041,
+  "num_followers": 453128,
   "original_name": "Just Smile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTc0NTYyNCwwMDAwMDAwMDc1MTg0NTA0YWM5NjVlNWIyYjQ1NDY3OGM0ZGQ1YTli",
+  "snapshot_id": "MTY1NTc0NTYyNCwwMDAwMDAwMGI3MTNmZDdjNjQyZGU2YTZkZDc4Njg2OGY3NjlkNjYz",
   "tracks": [
     {
       "added_at": "2022-06-20 17:20:23",
@@ -128,7 +128,7 @@
       },
       "artists": [
         {
-          "name": "WizKid",
+          "name": "Wizkid",
           "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         },
         {
@@ -411,22 +411,6 @@
     {
       "added_at": "2022-06-20 17:20:23",
       "album": {
-        "name": "You Can Get It If You Really Want",
-        "url": "https://open.spotify.com/album/6MVF2k2tOc6nHwa0yDtBHK"
-      },
-      "artists": [
-        {
-          "name": "Desmond Dekker",
-          "url": "https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe"
-        }
-      ],
-      "duration_ms": 162893,
-      "name": "You Can Get It If You Really Want",
-      "url": "https://open.spotify.com/track/0TjOyjjHJb9WmyUQlq1F12"
-    },
-    {
-      "added_at": "2022-06-20 17:20:23",
-      "album": {
         "name": "Burning",
         "url": "https://open.spotify.com/album/1gCBAfrnTTAFRthxRqp0Rj"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 181434,
       "name": "Burning",
       "url": "https://open.spotify.com/track/2ur8F1rb1lsxpZA9UJEDfl"
+    },
+    {
+      "added_at": "2022-06-20 17:20:23",
+      "album": {
+        "name": "You Can Get It If You Really Want",
+        "url": "https://open.spotify.com/album/6MVF2k2tOc6nHwa0yDtBHK"
+      },
+      "artists": [
+        {
+          "name": "Desmond Dekker",
+          "url": "https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe"
+        }
+      ],
+      "duration_ms": 162893,
+      "name": "You Can Get It If You Really Want",
+      "url": "https://open.spotify.com/track/0TjOyjjHJb9WmyUQlq1F12"
     },
     {
       "added_at": "2022-06-20 17:20:23",
@@ -575,18 +575,18 @@
     {
       "added_at": "2022-06-20 17:20:23",
       "album": {
-        "name": "Best Of / 20th Century Masters",
-        "url": "https://open.spotify.com/album/1HkG5JC2RNtrBl4Zq97qgA"
+        "name": "Feeling Irie",
+        "url": "https://open.spotify.com/album/5wZuvylSpV0QEwV52Zz5jH"
       },
       "artists": [
         {
-          "name": "Jimmy Cliff",
-          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
+          "name": "General Degree",
+          "url": "https://open.spotify.com/artist/0CwVuGmnkIBc5uitBWkplO"
         }
       ],
-      "duration_ms": 193480,
-      "name": "Wonderful World, Beautiful People - Single Version",
-      "url": "https://open.spotify.com/track/4GEz5ZGMPcX9OZ5ta0v85e"
+      "duration_ms": 191253,
+      "name": "Feeling Irie",
+      "url": "https://open.spotify.com/track/1P5GpSSraTkxFOYVwsxMXw"
     },
     {
       "added_at": "2022-06-20 17:20:23",
@@ -627,18 +627,18 @@
     {
       "added_at": "2022-06-20 17:20:23",
       "album": {
-        "name": "Feeling Irie",
-        "url": "https://open.spotify.com/album/5wZuvylSpV0QEwV52Zz5jH"
+        "name": "Best Of / 20th Century Masters",
+        "url": "https://open.spotify.com/album/1HkG5JC2RNtrBl4Zq97qgA"
       },
       "artists": [
         {
-          "name": "General Degree",
-          "url": "https://open.spotify.com/artist/0CwVuGmnkIBc5uitBWkplO"
+          "name": "Jimmy Cliff",
+          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
         }
       ],
-      "duration_ms": 191253,
-      "name": "Feeling Irie",
-      "url": "https://open.spotify.com/track/1P5GpSSraTkxFOYVwsxMXw"
+      "duration_ms": 193480,
+      "name": "Wonderful World, Beautiful People - Single Version",
+      "url": "https://open.spotify.com/track/4GEz5ZGMPcX9OZ5ta0v85e"
     },
     {
       "added_at": "2022-06-20 17:20:23",

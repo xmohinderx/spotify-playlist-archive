@@ -4,7 +4,7 @@
 
 > Club classics from the homeland of dance music.
 
-50 songs - 4 hr 3 min - not published yet
+50 songs - 4 hr 3 min - [published](https://open.spotify.com/playlist/7G46PFdAwpJzEu1i0XREw2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

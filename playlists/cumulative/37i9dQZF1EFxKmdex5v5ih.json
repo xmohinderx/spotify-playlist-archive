@@ -1250,6 +1250,28 @@
     },
     {
       "album": {
+        "name": "Happy Sad Song (feat. Symon)",
+        "url": "https://open.spotify.com/album/7sX0J1Xxms0zq5fHANdGkl"
+      },
+      "artists": [
+        {
+          "name": "ChampionsLeak",
+          "url": "https://open.spotify.com/artist/5VMgZIvjxtR9SNvroVpEm4"
+        },
+        {
+          "name": "Symon",
+          "url": "https://open.spotify.com/artist/0Yi8b2U9AemQbI0dj0jtRE"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186551,
+      "name": "Happy Sad Song (feat. Symon)",
+      "url": "https://open.spotify.com/track/1mOuCPWI181DXmEy50CKzf"
+    },
+    {
+      "album": {
         "name": "Championsleak - Happy Sad Song",
         "url": "https://open.spotify.com/album/4n5vtJ81nC2br4fPmVRSwY"
       },
@@ -1265,7 +1287,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 186551,
       "name": "Happy Sad Song Feat. Symon",
       "url": "https://open.spotify.com/track/1IiWTBrfSe9oDbZvnLEavH"

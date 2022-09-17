@@ -1,12 +1,12 @@
 {
   "description": "Sometimes it's nice to be nice, you know.",
-  "num_followers": 154260,
+  "num_followers": 154296,
   "original_name": "The Lovely Little Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY5NTUwMCwwMDAwMDAwMDIzZmZhN2QyZjBhYjg0OTk0OWJmMDFiMzFlMWMyOWU4",
+  "snapshot_id": "MTY1OTY5NTUwMCwwMDAwMDAwMDI0ZGE4YmZkMmYwYzc1NmQwOGMyMTY5MWRkMjdhMWQ5",
   "tracks": [
     {
       "added_at": "2022-08-05 10:31:40",
@@ -235,6 +235,26 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
+        "name": "Hard Times / Bad Trips",
+        "url": "https://open.spotify.com/album/7adFlPgcQWFfPHcgNgZhUI"
+      },
+      "artists": [
+        {
+          "name": "Pity Party (Girls Club)",
+          "url": "https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU"
+        },
+        {
+          "name": "Lucys",
+          "url": "https://open.spotify.com/artist/3zfHIfmPkBRTy2EPGuTUxI"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "I hope that you think of me",
+      "url": "https://open.spotify.com/track/42LY6qYxu3L6nJ7Dt72gNy"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
         "name": "Boys & Girls",
         "url": "https://open.spotify.com/album/4eOGRVKyCsVfaXysnHz0k2"
       },
@@ -283,26 +303,6 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "Hard Times / Bad Trips",
-        "url": "https://open.spotify.com/album/7adFlPgcQWFfPHcgNgZhUI"
-      },
-      "artists": [
-        {
-          "name": "Pity Party (Girls Club)",
-          "url": "https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU"
-        },
-        {
-          "name": "Lucys",
-          "url": "https://open.spotify.com/artist/3zfHIfmPkBRTy2EPGuTUxI"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "I hope that you think of me",
-      "url": "https://open.spotify.com/track/42LY6qYxu3L6nJ7Dt72gNy"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
         "name": "Solar Power",
         "url": "https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J"
       },
@@ -319,22 +319,6 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "The Moldy Peaches",
-        "url": "https://open.spotify.com/album/4FD8WC9s2yohxwVTp9f236"
-      },
-      "artists": [
-        {
-          "name": "The Moldy Peaches",
-          "url": "https://open.spotify.com/artist/7GGv4mV9JTJK9e7nIzUliU"
-        }
-      ],
-      "duration_ms": 180093,
-      "name": "Anyone Else But You",
-      "url": "https://open.spotify.com/track/2pKi1lRvXNASy7ybeQIDTy"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
         "name": "The Greatest",
         "url": "https://open.spotify.com/album/1l1gFL41bdfI32LBdYlUqS"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 202560,
       "name": "The Greatest",
       "url": "https://open.spotify.com/track/0OVXLPJPDCFn1IV6bFxY1N"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "The Moldy Peaches",
+        "url": "https://open.spotify.com/album/4FD8WC9s2yohxwVTp9f236"
+      },
+      "artists": [
+        {
+          "name": "The Moldy Peaches",
+          "url": "https://open.spotify.com/artist/7GGv4mV9JTJK9e7nIzUliU"
+        }
+      ],
+      "duration_ms": 180093,
+      "name": "Anyone Else But You",
+      "url": "https://open.spotify.com/track/2pKi1lRvXNASy7ybeQIDTy"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -531,22 +531,6 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "Smile in the Face of the Devil",
-        "url": "https://open.spotify.com/album/4RpOz3IeMf2KmjLn6eEyCC"
-      },
-      "artists": [
-        {
-          "name": "Matt Maltese",
-          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
-        }
-      ],
-      "duration_ms": 158714,
-      "name": "Smile in the Face of the Devil",
-      "url": "https://open.spotify.com/track/0h6X7BCq7IYKHNoXln3LX3"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
         "name": "Look Out!",
         "url": "https://open.spotify.com/album/0TnjBNwKKH0uihxRTgrktF"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 176506,
       "name": "Look Out!",
       "url": "https://open.spotify.com/track/4N1zjRwfeYAfKVIjjYbDRX"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "Smile in the Face of the Devil",
+        "url": "https://open.spotify.com/album/4RpOz3IeMf2KmjLn6eEyCC"
+      },
+      "artists": [
+        {
+          "name": "Matt Maltese",
+          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
+        }
+      ],
+      "duration_ms": 158714,
+      "name": "Smile in the Face of the Devil",
+      "url": "https://open.spotify.com/track/0h6X7BCq7IYKHNoXln3LX3"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -579,22 +579,6 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "Mouthfuls",
-        "url": "https://open.spotify.com/album/1Wx4ud28ypU7HAWuOHkmQ2"
-      },
-      "artists": [
-        {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
-        }
-      ],
-      "duration_ms": 271160,
-      "name": "When U Love Somebody",
-      "url": "https://open.spotify.com/track/68Euox5QCQrf0sMI847CfC"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
         "name": "I Should Go (Solo Version)",
         "url": "https://open.spotify.com/album/3d11dBT3l0OGHxHaOBr4nV"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 151178,
       "name": "I Should Go - Solo Version",
       "url": "https://open.spotify.com/track/50kgovuPE9wDZ0hEynlssm"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "Mouthfuls",
+        "url": "https://open.spotify.com/album/1Wx4ud28ypU7HAWuOHkmQ2"
+      },
+      "artists": [
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "duration_ms": 271160,
+      "name": "When U Love Somebody",
+      "url": "https://open.spotify.com/track/68Euox5QCQrf0sMI847CfC"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -839,22 +839,6 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "And Then Nothing Turned Itself Inside-Out",
-        "url": "https://open.spotify.com/album/5iVEe1GHMtvUHwwqArThFa"
-      },
-      "artists": [
-        {
-          "name": "Yo La Tengo",
-          "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
-        }
-      ],
-      "duration_ms": 276640,
-      "name": "You Can Have It All",
-      "url": "https://open.spotify.com/track/5s91S8hSrJXqYdhwHOEioV"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
         "name": "Up Granville",
         "url": "https://open.spotify.com/album/3A1KfQ0xiG0a6u3V7FTA9p"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 230747,
       "name": "Up Granville",
       "url": "https://open.spotify.com/track/38SpxensPT9J0iNbMmQIjd"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "And Then Nothing Turned Itself Inside-Out",
+        "url": "https://open.spotify.com/album/5iVEe1GHMtvUHwwqArThFa"
+      },
+      "artists": [
+        {
+          "name": "Yo La Tengo",
+          "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
+        }
+      ],
+      "duration_ms": 276640,
+      "name": "You Can Have It All",
+      "url": "https://open.spotify.com/track/5s91S8hSrJXqYdhwHOEioV"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -903,22 +903,6 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/7M2JPV9Q0OzWgI7v46Q9Dg"
-      },
-      "artists": [
-        {
-          "name": "Half Moon Run",
-          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
-        }
-      ],
-      "duration_ms": 193240,
-      "name": "Call Me in the Afternoon",
-      "url": "https://open.spotify.com/track/3jJuBdO5rrtDufNAf76V1x"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
         "name": "Margaux",
         "url": "https://open.spotify.com/album/66qOyZqMF1BlrenvYYMoJk"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 146810,
       "name": "Margaux",
       "url": "https://open.spotify.com/track/7r8gXkNiJJqv2Wb8i8sT1i"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/7M2JPV9Q0OzWgI7v46Q9Dg"
+      },
+      "artists": [
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        }
+      ],
+      "duration_ms": 193240,
+      "name": "Call Me in the Afternoon",
+      "url": "https://open.spotify.com/track/3jJuBdO5rrtDufNAf76V1x"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -999,22 +999,6 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "Mercurial World",
-        "url": "https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY"
-      },
-      "artists": [
-        {
-          "name": "Magdalena Bay",
-          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
-        }
-      ],
-      "duration_ms": 235565,
-      "name": "Hysterical Us",
-      "url": "https://open.spotify.com/track/0vMlVGJuREJk3c7vvObE5Z"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
         "name": "About A Boy Soundtrack",
         "url": "https://open.spotify.com/album/6P2Bd7VCudP8LcFGNb5orx"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 220866,
       "name": "Something To Talk About",
       "url": "https://open.spotify.com/track/4rwOvI1E7CAlOX0XZ5EMyG"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "Mercurial World",
+        "url": "https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY"
+      },
+      "artists": [
+        {
+          "name": "Magdalena Bay",
+          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+        }
+      ],
+      "duration_ms": 235565,
+      "name": "Hysterical Us",
+      "url": "https://open.spotify.com/track/0vMlVGJuREJk3c7vvObE5Z"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "Dragon New Warm Mountain I Believe In You",
-        "url": "https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 227156,
-      "name": "No Reason",
-      "url": "https://open.spotify.com/track/2mdaMDbjFxmxQPO90PxT5w"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
         "name": "Song For Our Daughter",
         "url": "https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 247920,
       "name": "Held Down",
       "url": "https://open.spotify.com/track/1vlDwedZUvYaxt2FXoYGaJ"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "Dragon New Warm Mountain I Believe In You",
+        "url": "https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 227156,
+      "name": "No Reason",
+      "url": "https://open.spotify.com/track/2mdaMDbjFxmxQPO90PxT5w"
     },
     {
       "added_at": "2022-08-05 10:31:40",

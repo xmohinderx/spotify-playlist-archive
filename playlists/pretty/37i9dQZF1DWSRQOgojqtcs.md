@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRQOgojqtcs.md) - [plain]
 
 > Love, sex, and heartbreak\. Listen to the official playlist for Heartbreak High, now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 553 likes - 121 songs - 7 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 923 likes - 124 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRQOgojqtcs.md) - [plain]
 | 26 | [Teenage Birdsong](https://open.spotify.com/track/4onzxTzKgnSrKUmA2YydJB) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Sixteen Oceans](https://open.spotify.com/album/5gIa8hTQGPwVeNYjDwrraZ) | 3:25 |
 | 27 | [Bubbles](https://open.spotify.com/track/6EZOv0S2V7Rd7hkPRE6Zf3) | [Kalbells](https://open.spotify.com/artist/3QY0HtXymB2ej0xIR8RrdP) | [Max Heart](https://open.spotify.com/album/20ov0SQRSc42I4L5Vtz4UK) | 3:40 |
 | 28 | [Monologue](https://open.spotify.com/track/2gV5NMri6fyQfOf2M1ovJM) | [Putrika](https://open.spotify.com/artist/5awAtBuVQEV68Nvs1loiby) | [Silmara](https://open.spotify.com/album/1px4Nxt7hD6KtVBlNLDXzb) | 4:30 |
-| 29 | [Like People](https://open.spotify.com/track/4Pa9lwNySYtucuHEsCyA1R) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloody Lovely](https://open.spotify.com/album/39Ax1ljxVnhuC4BTVcXWNU) | 4:01 |
+| 29 | [Like People](https://open.spotify.com/track/0o9h7u6AC9Ztiyw8Y0S4dV) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloody Lovely](https://open.spotify.com/album/0sotdV1cZoGfaDDUPIwtDu) | 4:01 |
 | 30 | [Out of Athens](https://open.spotify.com/track/7xYEXxp3HkIVpgzDM3dPWO) | [Bitumen](https://open.spotify.com/artist/1RGasOUCBKHhLrFWn10M7y) | [Cleareye Shining](https://open.spotify.com/album/6uaUHAJvCvJCAWrdjHneeE) | 4:14 |
 | 31 | [Good Times](https://open.spotify.com/track/0XzbAAWtu0zx6bnDbBUcOs) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Good Times + Simmer Down](https://open.spotify.com/album/3hie3PiFhq6i06fuptTaZ0) | 2:50 |
 | 32 | [Dribble](https://open.spotify.com/track/1mQmVfIUWi6Yx50l59TpKU) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Dribble](https://open.spotify.com/album/3irvKBxgn7l3j49OqRLwx1) | 4:00 |
@@ -129,5 +129,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRQOgojqtcs.md) - [plain]
 | 119 | [Strawberry Kisses](https://open.spotify.com/track/2kjUj86ES5b1nBfTMzN6Uv) | [Nikki Webster](https://open.spotify.com/artist/6lFnLt6t0Wyq87KQK19BkA) | [Follow Your Heart](https://open.spotify.com/album/2NO1tSQRKXmQhNtMkuLQgp) | 3:30 |
 | 120 | [Want You Back](https://open.spotify.com/track/2wXhdaTnmkkFSOidKfnOxA) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Something to Tell You](https://open.spotify.com/album/5m9rXTBF7mHFGQlFsiEHrY) | 3:52 |
 | 121 | [Let It Happen](https://open.spotify.com/track/2X485T9Z5Ly0xyaghN73ed) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 7:47 |
+| 122 | [Ego](https://open.spotify.com/track/698bVkLUnvCIVrpPv2pHgC) | [Strawbz](https://open.spotify.com/artist/7w2jkQBOxdnwUOLxom93l3) | [Ego](https://open.spotify.com/album/4o7EqM5k7ybSZqkWWkHuuv) | 3:06 |
+| 123 | [FEAST](https://open.spotify.com/track/3smTeRQ3qxUvC8Gf4ckUEs) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX), [notsick](https://open.spotify.com/artist/0LIittGjyw9kSH8YAo9HGq) | [FEAST](https://open.spotify.com/album/2SNp7R18YlGO9Mo7HLJFYv) | 2:03 |
+| 124 | [Come On](https://open.spotify.com/track/7I0X2MQkZDngxQ2NDMOfWP) | [1300](https://open.spotify.com/artist/34dKvFZNwGaM0NMDtZaJ0P) | [Foreign Language](https://open.spotify.com/album/5a2yMZjCdVXllxAwymNCUL) | 2:49 |
 
-Snapshot ID: `MTY2MzIxMjEwNywwMDAwMDAwMDBlZWFlZjljNmNkYzJhMmUyNWZiOThhOWU0MzVhNGUw`
+Snapshot ID: `MTY2MzM0OTU4MCwwMDAwMDAwMGI0YmU4OTdmMjIwY2VjMTczNjI3MmVmY2FkOWY2YTIy`

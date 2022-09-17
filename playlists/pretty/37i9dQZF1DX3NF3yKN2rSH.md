@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 
 > New and classic Gospel songs to celebrate the Easter season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,486 likes - 100 songs - 9 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,483 likes - 100 songs - 9 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 | 91 | [Oh Holy Lamb](https://open.spotify.com/track/2N6ccWkNTrKuIa3JqRzxhb) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [Live: The Praise, the Worship](https://open.spotify.com/album/3emdtGEEnR69WhvkUeB8py) | 5:29 |
 | 92 | [Power In the Blood v1.1](https://open.spotify.com/track/5FPZdulid3ZgnAZq2sRlb3) | [Andrae Crouch](https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7), [Disciples](https://open.spotify.com/artist/4ZCnOYklELEjDUrbP4e5dv) | [Classic Gold: Live In London: Andrae Crouch & The Disciples](https://open.spotify.com/album/47TmueNAVNBE7MLC56wGzt) | 4:46 |
 | 93 | [God Is Not Dead](https://open.spotify.com/track/64u71Ii45f6Pa3BPwIvYul) | [Joshua's Troop](https://open.spotify.com/artist/4ejvtrRzhIaqGb7YhTLUsV) | [Joshua's Troop](https://open.spotify.com/album/3XYaQRnY5ha54xB4x2gbgT) | 5:11 |
-| 94 | [Oh Holy Lamb](https://open.spotify.com/track/68oQ1Wm0JOgBwjahOWqmYm) | [Vickie Winans](https://open.spotify.com/artist/3lRcuKNnP49qqc0AHfTTAR) | [Live In Detroit II \(Video\)](https://open.spotify.com/album/2En34iMFWvBpbGKZDOwusQ) | 9:05 |
-| 95 | [The Blood Song](https://open.spotify.com/track/7cjEjTUSiVlWKPPWucNJPa) | [Chris Bender](https://open.spotify.com/artist/1h37aBxNCokuRG8NMgPwEG), [D'Shondra Perry](https://open.spotify.com/artist/1GKvu9PSueVDcFtZjU3lEa) | [The Blood Song](https://open.spotify.com/album/29UFA9YrscWRdKpZTnLnN5) | 5:34 |
+| 94 | [The Blood Song](https://open.spotify.com/track/7cjEjTUSiVlWKPPWucNJPa) | [Chris Bender](https://open.spotify.com/artist/1h37aBxNCokuRG8NMgPwEG), [D'Shondra Perry](https://open.spotify.com/artist/1GKvu9PSueVDcFtZjU3lEa) | [The Blood Song](https://open.spotify.com/album/29UFA9YrscWRdKpZTnLnN5) | 5:34 |
+| 95 | [Oh Holy Lamb](https://open.spotify.com/track/68oQ1Wm0JOgBwjahOWqmYm) | [Vickie Winans](https://open.spotify.com/artist/3lRcuKNnP49qqc0AHfTTAR) | [Live In Detroit II \(Video\)](https://open.spotify.com/album/2En34iMFWvBpbGKZDOwusQ) | 9:05 |
 | 96 | [He Carried The Cross For Me](https://open.spotify.com/track/5v2ObK3yVL3XUEwxYIqlcr) | [Deitrick Haddon](https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9) | [He Carried The Cross For Me](https://open.spotify.com/album/1bX7rKDrzP6RUTC1w2FhWN) | 3:50 |
 | 97 | [Cherish The Cross](https://open.spotify.com/track/7BranHqbktqdiojkd0r07A) | [Rev\. James Moore](https://open.spotify.com/artist/2r7fA3DrMO5JXl3uoOLkaN) | [Live In Detroit \(Live\)](https://open.spotify.com/album/0uKzIXtrSUvzRCFHSOv1vv) | 7:30 |
 | 98 | [Calvary](https://open.spotify.com/track/2kUwyQh2FseRy8UgboN9T0) | [Richard Smallwood](https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP) | [Beginnings](https://open.spotify.com/album/1dWfCCgAXOSfOcyHEXbJYR) | 5:48 |
 | 99 | [He Proved His Love](https://open.spotify.com/track/4OMAO6F57zBkgyakZjscTl) | [Ron Winans](https://open.spotify.com/artist/67B5eSkw1ckwkAVi278b2s) | [Family & Friends Choir III](https://open.spotify.com/album/2HqJpxkdEf5FRDJsxkkZrj) | 5:25 |
 | 100 | [He Loves Me](https://open.spotify.com/track/3PAbgmt3d00mfWqz4duX13) | [Parkes Stewart](https://open.spotify.com/artist/3OpTYiTC0KK2TGgej8FbFh) | [Another Chapter, Psalms 51](https://open.spotify.com/album/6GjsgwwG6Bp1t6rTXwQ6x5) | 5:56 |
 
-Snapshot ID: `MTY1MDE3NTg2NCwwMDAwMDAwMGU3ZGFmNGI0NDYzMTY0MjNiMDYyZTFjMGMzMWNhNGY2`
+Snapshot ID: `MTY1MDE3NTg2NCwwMDAwMDAwMDg4OWJkOGZkN2NiYzY4MDA1ZDg2NTEyOWQ3M2ExYmFj`

@@ -1,12 +1,12 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 602389,
+  "num_followers": 602692,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY1MzM4MSwwMDAwMDAwMDAzODc5OTA0M2IzNmY0OTJiN2M0MzU1YTAyYTY1ZGU4",
+  "snapshot_id": "MTY2MjY1MzM4MSwwMDAwMDAwMDY0ZTA5ZDEwMTBhMWNlMjhjMzFlMWM2MWNkYjlmYTU3",
   "tracks": [
     {
       "added_at": "2022-09-08 16:09:41",
@@ -315,22 +315,6 @@
     {
       "added_at": "2022-09-08 16:09:41",
       "album": {
-        "name": "Fleetwood Mac",
-        "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 249946,
-      "name": "Say You Love Me",
-      "url": "https://open.spotify.com/track/6lrQo6KAYvb92MGk6ZuZlt"
-    },
-    {
-      "added_at": "2022-09-08 16:09:41",
-      "album": {
         "name": "Back To Black (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 166400,
       "name": "He Can Only Hold Her",
       "url": "https://open.spotify.com/track/3eVo0wD4kGwF3gshtecZso"
+    },
+    {
+      "added_at": "2022-09-08 16:09:41",
+      "album": {
+        "name": "Fleetwood Mac",
+        "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 249946,
+      "name": "Say You Love Me",
+      "url": "https://open.spotify.com/track/6lrQo6KAYvb92MGk6ZuZlt"
     },
     {
       "added_at": "2022-09-08 16:09:41",
@@ -395,6 +395,22 @@
     {
       "added_at": "2022-09-08 16:09:41",
       "album": {
+        "name": "Lioness: Hidden Treasures",
+        "url": "https://open.spotify.com/album/4xdRjOhY9NHmMpI7U3e2c3"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 169373,
+      "name": "Our Day Will Come",
+      "url": "https://open.spotify.com/track/4NDpn6yfD5aqafYWFEaJDz"
+    },
+    {
+      "added_at": "2022-09-08 16:09:41",
+      "album": {
         "name": "Once Again",
         "url": "https://open.spotify.com/album/1ZWwFwSKaREGLWxpGiPAoF"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 166601,
       "name": "Asc. Scorpio",
       "url": "https://open.spotify.com/track/13zkVsNIyXsagdlbg7ulWO"
-    },
-    {
-      "added_at": "2022-09-08 16:09:41",
-      "album": {
-        "name": "Lioness: Hidden Treasures",
-        "url": "https://open.spotify.com/album/4xdRjOhY9NHmMpI7U3e2c3"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 169373,
-      "name": "Our Day Will Come",
-      "url": "https://open.spotify.com/track/4NDpn6yfD5aqafYWFEaJDz"
     },
     {
       "added_at": "2022-09-08 16:09:41",
@@ -507,22 +507,6 @@
     {
       "added_at": "2022-09-08 16:09:41",
       "album": {
-        "name": "Leisure",
-        "url": "https://open.spotify.com/album/1rGGYPdkJpabSlwScxK8fO"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 205601,
-      "name": "Got It Bad",
-      "url": "https://open.spotify.com/track/0oADgO0iK3YpTsPkVb2ptT"
-    },
-    {
-      "added_at": "2022-09-08 16:09:41",
-      "album": {
         "name": "Boys & Girls",
         "url": "https://open.spotify.com/album/4eOGRVKyCsVfaXysnHz0k2"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 226186,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/1EuvOdyyzhFUP2z3gfr6xz"
+    },
+    {
+      "added_at": "2022-09-08 16:09:41",
+      "album": {
+        "name": "Leisure",
+        "url": "https://open.spotify.com/album/1rGGYPdkJpabSlwScxK8fO"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 205601,
+      "name": "Got It Bad",
+      "url": "https://open.spotify.com/track/0oADgO0iK3YpTsPkVb2ptT"
     },
     {
       "added_at": "2022-09-08 16:09:41",
@@ -903,22 +903,6 @@
     {
       "added_at": "2022-09-08 16:09:41",
       "album": {
-        "name": "Good Thing",
-        "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 194826,
-      "name": "If It Feels Good (Then It Must Be)",
-      "url": "https://open.spotify.com/track/72Dd7GCaepMi8ktuXxmSZF"
-    },
-    {
-      "added_at": "2022-09-08 16:09:41",
-      "album": {
         "name": "Eddie",
         "url": "https://open.spotify.com/album/5FTrv0ut24vm76hx1WuWSN"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 290893,
       "name": "Out Of Love",
       "url": "https://open.spotify.com/track/3hNywmR93yvj68y2zl8mRt"
+    },
+    {
+      "added_at": "2022-09-08 16:09:41",
+      "album": {
+        "name": "Good Thing",
+        "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 194826,
+      "name": "If It Feels Good (Then It Must Be)",
+      "url": "https://open.spotify.com/track/72Dd7GCaepMi8ktuXxmSZF"
     },
     {
       "added_at": "2022-09-08 16:09:41",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2022-09-08 16:09:41",
       "album": {
-        "name": "Sunsetter",
-        "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 214346,
-      "name": "Be With You",
-      "url": "https://open.spotify.com/track/0g76LCjdx32EipjZGRU6wy"
-    },
-    {
-      "added_at": "2022-09-08 16:09:41",
-      "album": {
         "name": "You're so Fine",
         "url": "https://open.spotify.com/album/22kWUpDiarfEBR01M9Oei5"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 216720,
       "name": "Don't You Evah",
       "url": "https://open.spotify.com/track/3UytFqZuZwJFsTPti5gcPB"
+    },
+    {
+      "added_at": "2022-09-08 16:09:41",
+      "album": {
+        "name": "Sunsetter",
+        "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 214346,
+      "name": "Be With You",
+      "url": "https://open.spotify.com/track/0g76LCjdx32EipjZGRU6wy"
     },
     {
       "added_at": "2022-09-08 16:09:41",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2022-09-08 16:09:41",
       "album": {
-        "name": "Best Worst Year",
-        "url": "https://open.spotify.com/album/5nG24I5GTbqSHlChRBI6jb"
-      },
-      "artists": [
-        {
-          "name": "STRABE",
-          "url": "https://open.spotify.com/artist/0FMEK1QJjgPFczDNQk8AJu"
-        }
-      ],
-      "duration_ms": 278082,
-      "name": "Best Worst Year",
-      "url": "https://open.spotify.com/track/4mrMneeP6gYjDezM4tyxMD"
-    },
-    {
-      "added_at": "2022-09-08 16:09:41",
-      "album": {
         "name": "Still Life - EP",
         "url": "https://open.spotify.com/album/4CYU714yxnEXFAgTRbvx1i"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 200352,
       "name": "Easy",
       "url": "https://open.spotify.com/track/3Nu0fJTengky63bpIRXWuo"
+    },
+    {
+      "added_at": "2022-09-08 16:09:41",
+      "album": {
+        "name": "Best Worst Year",
+        "url": "https://open.spotify.com/album/5nG24I5GTbqSHlChRBI6jb"
+      },
+      "artists": [
+        {
+          "name": "STRABE",
+          "url": "https://open.spotify.com/artist/0FMEK1QJjgPFczDNQk8AJu"
+        }
+      ],
+      "duration_ms": 278082,
+      "name": "Best Worst Year",
+      "url": "https://open.spotify.com/track/4mrMneeP6gYjDezM4tyxMD"
     },
     {
       "added_at": "2022-09-08 16:09:41",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2022-09-08 16:09:41",
       "album": {
-        "name": "What Will We Be (Standard)",
-        "url": "https://open.spotify.com/album/0TrxxY9oApTHWo8QZv8MbI"
-      },
-      "artists": [
-        {
-          "name": "Devendra Banhart",
-          "url": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
-        }
-      ],
-      "duration_ms": 185786,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/17XvbAd3K1GOjWy5uQvK2U"
-    },
-    {
-      "added_at": "2022-09-08 16:09:41",
-      "album": {
         "name": "Like You Mean It",
         "url": "https://open.spotify.com/album/1x9DUB4rsa4HE9cbGHUXOi"
       },
@@ -1419,18 +1403,18 @@
     {
       "added_at": "2022-09-08 16:09:41",
       "album": {
-        "name": "Angus & Julia Stone (Deluxe)",
-        "url": "https://open.spotify.com/album/4DnMkBr1AH6IMP5wORp7Ag"
+        "name": "What Will We Be (Standard)",
+        "url": "https://open.spotify.com/album/0TrxxY9oApTHWo8QZv8MbI"
       },
       "artists": [
         {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+          "name": "Devendra Banhart",
+          "url": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
         }
       ],
-      "duration_ms": 248520,
-      "name": "Grizzly Bear",
-      "url": "https://open.spotify.com/track/0IJ1ijo3uoJzy6ZE5wxJio"
+      "duration_ms": 185786,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/17XvbAd3K1GOjWy5uQvK2U"
     },
     {
       "added_at": "2022-09-08 16:09:41",
@@ -1447,6 +1431,22 @@
       "duration_ms": 217066,
       "name": "The Keys",
       "url": "https://open.spotify.com/track/6ikh8e4YxgOlb11LWUaBp4"
+    },
+    {
+      "added_at": "2022-09-08 16:09:41",
+      "album": {
+        "name": "Angus & Julia Stone (Deluxe)",
+        "url": "https://open.spotify.com/album/4DnMkBr1AH6IMP5wORp7Ag"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 248520,
+      "name": "Grizzly Bear",
+      "url": "https://open.spotify.com/track/0IJ1ijo3uoJzy6ZE5wxJio"
     },
     {
       "added_at": "2022-09-08 16:09:41",
@@ -1487,26 +1487,6 @@
     {
       "added_at": "2022-09-08 16:09:41",
       "album": {
-        "name": "Can't Stop Your Lovin'",
-        "url": "https://open.spotify.com/album/4wk1q3SvmE08InkoJKodlW"
-      },
-      "artists": [
-        {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        },
-        {
-          "name": "Panama",
-          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
-        }
-      ],
-      "duration_ms": 237533,
-      "name": "Can't Stop Your Lovin'",
-      "url": "https://open.spotify.com/track/5P1eorfAD2voGnX7ZbuvFz"
-    },
-    {
-      "added_at": "2022-09-08 16:09:41",
-      "album": {
         "name": "Gentlewoman, Ruby Man",
         "url": "https://open.spotify.com/album/4F0zRJTpOsSvHQdtqdw6h5"
       },
@@ -1543,6 +1523,26 @@
     {
       "added_at": "2022-09-08 16:09:41",
       "album": {
+        "name": "Can't Stop Your Lovin'",
+        "url": "https://open.spotify.com/album/4wk1q3SvmE08InkoJKodlW"
+      },
+      "artists": [
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        },
+        {
+          "name": "Panama",
+          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
+        }
+      ],
+      "duration_ms": 237533,
+      "name": "Can't Stop Your Lovin'",
+      "url": "https://open.spotify.com/track/5P1eorfAD2voGnX7ZbuvFz"
+    },
+    {
+      "added_at": "2022-09-08 16:09:41",
+      "album": {
         "name": "Supernatural Thing",
         "url": "https://open.spotify.com/album/69MJXfjEtAf2xpyNe4KIfD"
       },
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2022-09-08 16:09:41",
       "album": {
-        "name": "Changes",
-        "url": "https://open.spotify.com/album/4AZ9Eylw7Z7EsapL8inBsZ"
-      },
-      "artists": [
-        {
-          "name": "Neal Francis",
-          "url": "https://open.spotify.com/artist/2e5y5Gs5lgnDmiY4TKLsq3"
-        }
-      ],
-      "duration_ms": 390200,
-      "name": "Changes, Pts. 1 & 2",
-      "url": "https://open.spotify.com/track/3N1D6ofDVT7i2B9oR6aKAQ"
-    },
-    {
-      "added_at": "2022-09-08 16:09:41",
-      "album": {
         "name": "Coney Island Baby",
         "url": "https://open.spotify.com/album/3Kawndiz86cIHkPsKtFiKx"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 159093,
       "name": "Charley's Girl",
       "url": "https://open.spotify.com/track/70tBw295bLL8B13Jg3SNUs"
+    },
+    {
+      "added_at": "2022-09-08 16:09:41",
+      "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/4AZ9Eylw7Z7EsapL8inBsZ"
+      },
+      "artists": [
+        {
+          "name": "Neal Francis",
+          "url": "https://open.spotify.com/artist/2e5y5Gs5lgnDmiY4TKLsq3"
+        }
+      ],
+      "duration_ms": 390200,
+      "name": "Changes, Pts. 1 & 2",
+      "url": "https://open.spotify.com/track/3N1D6ofDVT7i2B9oR6aKAQ"
     },
     {
       "added_at": "2022-09-08 16:09:41",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2022-09-08 16:09:41",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1ZleRuxSdLEhoseEcstEN8"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "U Remind Me - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/22wMOOsQVIKkoVAILL5ruw"
-    },
-    {
-      "added_at": "2022-09-08 16:09:41",
-      "album": {
         "name": "You and Me and Everything",
         "url": "https://open.spotify.com/album/0csxZuCz56owUfU6dC7Dth"
       },
@@ -1815,18 +1799,34 @@
     {
       "added_at": "2022-09-08 16:09:41",
       "album": {
-        "name": "The Atlantic Ocean",
-        "url": "https://open.spotify.com/album/4IwiiZ3EaJ1FKeHyVatLIO"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1ZleRuxSdLEhoseEcstEN8"
       },
       "artists": [
         {
-          "name": "Richard Swift",
-          "url": "https://open.spotify.com/artist/7fSjnDr8tBO37Xbb2UXuYr"
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
         }
       ],
-      "duration_ms": 258799,
-      "name": "Lady Luck",
-      "url": "https://open.spotify.com/track/4zdSkZqBNo0fHmviHOtxGe"
+      "duration_ms": 198000,
+      "name": "U Remind Me - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/22wMOOsQVIKkoVAILL5ruw"
+    },
+    {
+      "added_at": "2022-09-08 16:09:41",
+      "album": {
+        "name": "No Ending",
+        "url": "https://open.spotify.com/album/6KXuLqANULTBsHJIzadNBk"
+      },
+      "artists": [
+        {
+          "name": "Delv!s",
+          "url": "https://open.spotify.com/artist/4cHYNNA4fiedY4Wpd0iVo2"
+        }
+      ],
+      "duration_ms": 233906,
+      "name": "No Ending",
+      "url": "https://open.spotify.com/track/6oqu8k5xFlEO9d0epyyHGC"
     },
     {
       "added_at": "2022-09-08 16:09:41",
@@ -1847,18 +1847,34 @@
     {
       "added_at": "2022-09-08 16:09:41",
       "album": {
-        "name": "No Ending",
-        "url": "https://open.spotify.com/album/6KXuLqANULTBsHJIzadNBk"
+        "name": "The Atlantic Ocean",
+        "url": "https://open.spotify.com/album/4IwiiZ3EaJ1FKeHyVatLIO"
       },
       "artists": [
         {
-          "name": "Delv!s",
-          "url": "https://open.spotify.com/artist/4cHYNNA4fiedY4Wpd0iVo2"
+          "name": "Richard Swift",
+          "url": "https://open.spotify.com/artist/7fSjnDr8tBO37Xbb2UXuYr"
         }
       ],
-      "duration_ms": 233906,
-      "name": "No Ending",
-      "url": "https://open.spotify.com/track/6oqu8k5xFlEO9d0epyyHGC"
+      "duration_ms": 258799,
+      "name": "Lady Luck",
+      "url": "https://open.spotify.com/track/4zdSkZqBNo0fHmviHOtxGe"
+    },
+    {
+      "added_at": "2022-09-08 16:09:41",
+      "album": {
+        "name": "Delilah",
+        "url": "https://open.spotify.com/album/2iOEBkiMCteCJExhYgVpXZ"
+      },
+      "artists": [
+        {
+          "name": "Anderson East",
+          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
+        }
+      ],
+      "duration_ms": 155226,
+      "name": "Satisfy Me",
+      "url": "https://open.spotify.com/track/0OsGdYAv9kY6BxLlMg9622"
     },
     {
       "added_at": "2022-09-08 16:09:41",
@@ -1883,18 +1899,18 @@
     {
       "added_at": "2022-09-08 16:09:41",
       "album": {
-        "name": "Delilah",
-        "url": "https://open.spotify.com/album/2iOEBkiMCteCJExhYgVpXZ"
+        "name": "Home",
+        "url": "https://open.spotify.com/album/7bBGtsRDuDXdr0glqgdIlx"
       },
       "artists": [
         {
-          "name": "Anderson East",
-          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
         }
       ],
-      "duration_ms": 155226,
-      "name": "Satisfy Me",
-      "url": "https://open.spotify.com/track/0OsGdYAv9kY6BxLlMg9622"
+      "duration_ms": 231266,
+      "name": "Black Rain",
+      "url": "https://open.spotify.com/track/5WiBOUfizLpHt0NY2V7XCn"
     },
     {
       "added_at": "2022-09-08 16:09:41",
@@ -1911,22 +1927,6 @@
       "duration_ms": 259795,
       "name": "Highschool Steady",
       "url": "https://open.spotify.com/track/4QMxpwLOwo4PIxpIMYjbAP"
-    },
-    {
-      "added_at": "2022-09-08 16:09:41",
-      "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/7bBGtsRDuDXdr0glqgdIlx"
-      },
-      "artists": [
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        }
-      ],
-      "duration_ms": 231266,
-      "name": "Black Rain",
-      "url": "https://open.spotify.com/track/5WiBOUfizLpHt0NY2V7XCn"
     }
   ],
   "unique_name": "Feel Good Dinner",

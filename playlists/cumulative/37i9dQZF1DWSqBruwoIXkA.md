@@ -4,7 +4,7 @@
 
 > Somehow, heartbreak feels good in a place like this\. Cover: Reneé Rapp
 
-326 songs - 18 hr 19 min - [published](https://open.spotify.com/playlist/6tJGIzI3K3tQit8JSbnL1t)
+328 songs - 18 hr 25 min - [published](https://open.spotify.com/playlist/6tJGIzI3K3tQit8JSbnL1t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [august](https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:21 | 2022-08-01 |  |
 | [Baby Blue](https://open.spotify.com/track/4FSIfpGQEdJsLXIbufqvOo) | [Luke Hemmings](https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ) | [When Facing the Things We Turn Away From](https://open.spotify.com/album/5T1HI88OceUlUExSsAM3GQ) | 3:43 | 2022-01-07 | 2022-05-18 |
 | [Back to Friends](https://open.spotify.com/track/2Obwg8XE4sWXLpJSDlxn1r) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Back to Friends](https://open.spotify.com/album/5t2hgJnqejxo2yaLFimYac) | 3:35 | 2021-12-17 |  |
+| [Backseat \(All I Got\)](https://open.spotify.com/track/0YG41SCyuiMYUIsflxmRbU) | [Sam MacPherson](https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh) | [Backseat \(All I Got\)](https://open.spotify.com/album/2xThJS2sGsL9Vnrhci25GR) | 2:33 | 2022-09-16 |  |
 | [Beautiful Things](https://open.spotify.com/track/1JspnLoGGVZt3C3kLy7Dhd) | [Brynn Elliott](https://open.spotify.com/artist/43AN9FNovCCWxPX4talyzz) | [Beautiful Things](https://open.spotify.com/album/41ayUx4slo41LX8ND6CVws) | 3:54 | 2022-03-18 | 2022-04-21 |
 | [Before](https://open.spotify.com/track/3z6Gmz2jadZZ9y5FOIWAqF) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Before](https://open.spotify.com/album/6fXesrnlXstTyz9uurgYEY) | 3:54 | 2022-06-03 |  |
 | [Best Days](https://open.spotify.com/track/3z1DnGBH2uhlDekJr0YVzQ) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [In The Meantime](https://open.spotify.com/album/5reEg9or7xqpXy6XLVIoTE) | 3:31 | 2021-12-17 |  |
@@ -155,7 +156,7 @@
 | [i tried](https://open.spotify.com/track/37EQsOkuUxhqV1yJcPC1TY) | [Camylio](https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4) | [i tried](https://open.spotify.com/album/5fvv0vjvISZwMuHE49g89U) | 2:40 | 2022-03-11 |  |
 | [I Would've](https://open.spotify.com/track/54obxWf8kRI8TGtbX52YyJ) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [I Would've](https://open.spotify.com/album/3cy5gh8dUmMuzMJNSiNq3U) | 2:30 | 2022-05-20 |  |
 | [I'm Not The Only One](https://open.spotify.com/track/7795WJLVKJoAyVoOtCWqXN) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 3:59 | 2022-07-18 |  |
-| [if depression gets the best of me](https://open.spotify.com/track/1UHATOi2uLeTk3UHKBwR30) | [Zevia](https://open.spotify.com/artist/6z9k3E8sR90LH0N4zyOxUu) | [if depression gets the best of me](https://open.spotify.com/album/71jFeLyVXVUllf7sMI6mVE) | 3:00 | 2022-01-21 |  |
+| [if depression gets the best of me](https://open.spotify.com/track/1UHATOi2uLeTk3UHKBwR30) | [Zevia](https://open.spotify.com/artist/6z9k3E8sR90LH0N4zyOxUu) | [if depression gets the best of me](https://open.spotify.com/album/71jFeLyVXVUllf7sMI6mVE) | 3:00 | 2022-01-21 | 2022-09-17 |
 | [If I Don't Laugh, I'll Cry](https://open.spotify.com/track/7a4YwlUER1m7rkWJjYJRAD) | [Frawley](https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh) | [If I Don't Laugh, I'll Cry](https://open.spotify.com/album/14pYW9pwzrE4t6Z6p8NLCb) | 3:18 | 2022-05-06 |  |
 | [if you hate me, say it](https://open.spotify.com/track/5fY07Uq0bLdEKIolWaNjpO) | [Cassidi](https://open.spotify.com/artist/3hHnYAexHQ3wYGYno6LArK) | [if you hate me, say it](https://open.spotify.com/album/3SuFmwD5seyB2fgzvJGg8r) | 3:18 | 2021-12-17 | 2022-05-20 |
 | [in limbo](https://open.spotify.com/track/56hwmdoq1J9wraXavl7QSM) | [Munn](https://open.spotify.com/artist/3cKS6z9VNfN9u5ZyNiph4l) | [in limbo](https://open.spotify.com/album/2p9rlj0eOAl22RT75lzHXP) | 3:00 | 2022-01-21 | 2022-03-26 |
@@ -202,7 +203,7 @@
 | [Make It To Me](https://open.spotify.com/track/2uCMaUojwuqr8CRGsLoPa6) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour \(Drowning Shadows Edition\)](https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x) | 2:42 | 2021-12-17 |  |
 | [Male Fantasy](https://open.spotify.com/track/4ak9GGe6afmi2HbxEjvhIC) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 3:14 | 2021-12-17 | 2022-07-29 |
 | [Matilda](https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 4:05 | 2022-05-20 |  |
-| [matthew](https://open.spotify.com/track/34IEw2kMFrBNl6svjx7hVJ) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [matthew](https://open.spotify.com/album/1x7NuNlKTgLRY7hJZdM3Cr) | 3:13 | 2022-09-02 |  |
+| [matthew](https://open.spotify.com/track/34IEw2kMFrBNl6svjx7hVJ) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [matthew](https://open.spotify.com/album/1x7NuNlKTgLRY7hJZdM3Cr) | 3:13 | 2022-09-02 | 2022-09-17 |
 | [MEAN!](https://open.spotify.com/track/0KQRhak4Irr2CKxgQ9U6ay) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [MEAN!](https://open.spotify.com/album/1JX43p0bIGOMiHjdgoyAQD) | 2:23 | 2022-04-29 |  |
 | [Memory Lane](https://open.spotify.com/track/1KMEDSIl2j1NwYa9mgvMyg) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Memory Lane](https://open.spotify.com/album/5qkmdOLUeAkSMJlP0DnLFk) | 2:34 | 2022-01-14 |  |
 | [mexico city](https://open.spotify.com/track/34Y7LIhSelCjmzJUZHBEOn) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [songs that you'll probably never hear pt\. 3](https://open.spotify.com/album/1betffpzW0aaFTPADWKzaz) | 2:27 | 2022-01-21 | 2022-01-29 |
@@ -332,6 +333,7 @@
 | [you were good to me](https://open.spotify.com/track/4CxFN5zON70B3VOPBYbd6P) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [brent](https://open.spotify.com/album/16mjtcKPxpQ4ajFHmJ0hJC) | 3:39 | 2022-07-22 |  |
 | [you were good to me](https://open.spotify.com/track/6tNgjrWXWHx2zR52Q6qCLG) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [you were good to me](https://open.spotify.com/album/5SGGuJQoa1tIFzSIlj44zl) | 3:39 | 2021-12-17 | 2022-07-29 |
 | [you were in my dream](https://open.spotify.com/track/0Lg3v086REgQTLexgvfWDE) | [Laur Elle](https://open.spotify.com/artist/5DQPhXyByXuh4DxLjHm7UH) | [you were in my dream](https://open.spotify.com/album/3Kq9ayCMlcTr6dpm77qNwM) | 3:26 | 2022-05-20 | 2022-05-28 |
+| [you'd never know](https://open.spotify.com/track/1I2zZtHCrBkoTgfwxnNKZ9) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [you'd never know](https://open.spotify.com/album/7lv1W2OS7elIXJ8whpCYJW) | 3:05 | 2022-09-16 |  |
 | [Young & Sad](https://open.spotify.com/track/0gySkOOewOdZtHG8stPEB8) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [THE END OF EVERYTHING](https://open.spotify.com/album/6ZLlJLTscXUJIMwpwSAcOm) | 3:10 | 2021-12-17 |  |
 | [Yours](https://open.spotify.com/track/7BpqydHSxMviDR0DNTne6J) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Yours](https://open.spotify.com/album/2i4vxgeB2Sn97KeBs2vYtO) | 3:24 | 2022-05-20 |  |
 

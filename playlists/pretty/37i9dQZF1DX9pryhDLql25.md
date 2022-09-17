@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pryhDLql25.md) - [plain]
 
 > Gather your friends for the cherished ritual that is brunch\. If not for the pomo irony, then for the endless hibiscus lavender mimosas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,296 likes - 75 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,313 likes - 75 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pryhDLql25.md) - [plain]
 | 48 | [Call Me in the Afternoon](https://open.spotify.com/track/3jJuBdO5rrtDufNAf76V1x) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Spotify Sessions](https://open.spotify.com/album/7M2JPV9Q0OzWgI7v46Q9Dg) | 3:13 |
 | 49 | [There Will Be Time](https://open.spotify.com/track/4YUo0cp0yf1o8im9jPq0Ep) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Baaba Maal](https://open.spotify.com/artist/49z6oAiD2RpyUf5yLJs7Nf) | [There Will Be Time](https://open.spotify.com/album/2AWjKWHm04rj0awEnKe8cJ) | 4:26 |
 | 50 | [Things Happen](https://open.spotify.com/track/2SYvX2G6D5SD6BpijIOBpG) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [All Your Favorite Bands](https://open.spotify.com/album/1MuenT1cvvI0YCs3hsJDBE) | 4:03 |
-| 51 | [Morning Light](https://open.spotify.com/track/65LAG4XH7Oq0mZhFdPYqO4) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Latigo EP](https://open.spotify.com/album/62C9L1UCLOvvlu7Jb2FRRE) | 3:40 |
-| 52 | [Angela \(Single Version\)](https://open.spotify.com/track/5kGBSOrKYmhRfdPBw4xD8D) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Angela \(Single Version\)](https://open.spotify.com/album/5WQjTqCdzCAFQFVsMoUXm0) | 2:58 |
+| 51 | [Angela \(Single Version\)](https://open.spotify.com/track/5kGBSOrKYmhRfdPBw4xD8D) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Angela \(Single Version\)](https://open.spotify.com/album/5WQjTqCdzCAFQFVsMoUXm0) | 2:58 |
+| 52 | [Morning Light](https://open.spotify.com/track/65LAG4XH7Oq0mZhFdPYqO4) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Latigo EP](https://open.spotify.com/album/62C9L1UCLOvvlu7Jb2FRRE) | 3:40 |
 | 53 | [Bad Things](https://open.spotify.com/track/6FR7CxgunBBN1jYJxsX8uZ) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Ashkelon](https://open.spotify.com/album/2JZRyLhDpddo6XUwtb2ZJA) | 5:13 |
 | 54 | [The Rains](https://open.spotify.com/track/2I5mhy8zeIIMWgOFny4Fle) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [The Wilds](https://open.spotify.com/album/6mG8sVZlEsKwNZeSq8sMpA) | 3:31 |
 | 55 | [Whiskey Fever](https://open.spotify.com/track/5c4X3PrLDtzAqXOWDtfX2t) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [ROCKISDEAD](https://open.spotify.com/album/5AYoffF42E0cgDuuNgzYir) | 2:37 |
@@ -71,17 +71,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pryhDLql25.md) - [plain]
 | 61 | [Can’t Let Go, Juno](https://open.spotify.com/track/0eM4CcU3AaE7m4FGH8vgql) | [Kishi Bashi](https://open.spotify.com/artist/3LVPGE5jPPwtbGslx07YR0) | [Sonderlust](https://open.spotify.com/album/73RHozbfNLbyab3XnYN7f5) | 4:22 |
 | 62 | [Won't Be Long](https://open.spotify.com/track/2rw4cJKCCBYpZ57EFHE2Ih) | [The Dead Tongues](https://open.spotify.com/artist/5nM5pj6cEIkzCkwBJZibHK) | [Unsung Passage](https://open.spotify.com/album/6M0S7WdKAWPcXU3lrEpEJW) | 3:45 |
 | 63 | [Janglin \- 2019 \- Remaster](https://open.spotify.com/track/5d2brftnpzJGHV7xc55r62) | [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Up From Below \(10th Anniversary Edition\) \[2019 \- Remaster\]](https://open.spotify.com/album/71eRIPUemoGlRpNryhlZjU) | 3:49 |
-| 64 | [When The Tequila Runs Out](https://open.spotify.com/track/23Q4sMxgEKRXDMi62xPP5R) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [We're All Gonna Die](https://open.spotify.com/album/6bSJPJU1SRxm9RQ4Ox5sRe) | 4:44 |
-| 65 | [Hummingbird](https://open.spotify.com/track/6VJESmw3puw9eFpmglP2dM) | [Traveller](https://open.spotify.com/artist/4kZAv5F7ojPi4hfxi7zy0l) | [Hummingbird](https://open.spotify.com/album/09tCVx2tXdXeOD9EPMtFtU) | 3:12 |
+| 64 | [Hummingbird](https://open.spotify.com/track/6VJESmw3puw9eFpmglP2dM) | [Traveller](https://open.spotify.com/artist/4kZAv5F7ojPi4hfxi7zy0l) | [Hummingbird](https://open.spotify.com/album/09tCVx2tXdXeOD9EPMtFtU) | 3:12 |
+| 65 | [When The Tequila Runs Out](https://open.spotify.com/track/23Q4sMxgEKRXDMi62xPP5R) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [We're All Gonna Die](https://open.spotify.com/album/6bSJPJU1SRxm9RQ4Ox5sRe) | 4:44 |
 | 66 | [Blind in the Fray](https://open.spotify.com/track/6SjG7HZ8R5jnz6HOdxIFS0) | [The Last Revel](https://open.spotify.com/artist/2PyWfmEeKmRNhQkAJ1zJXw) | [Hazard & Fate](https://open.spotify.com/album/2QMo0JFkV5YMSDmwDGR4jX) | 3:33 |
 | 67 | [Casino \(Bad Things\)](https://open.spotify.com/track/4OI5eRrBb1awJfj7qQWQmT) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [From the Hills Below the City](https://open.spotify.com/album/0UJ1pJYJqAt9kDYZ1WGgpS) | 2:40 |
-| 68 | [Sunday Morning Coming Down \- Live](https://open.spotify.com/track/5yvnuEZmDBNH4uEhqdayCS) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [The Essential Johnny Cash](https://open.spotify.com/album/4E2eUhFHqTG2pu9MN1NDIF) | 4:09 |
-| 69 | [Don't Tell Our Friends About Me](https://open.spotify.com/track/4ktZEbOKEnx5svwITaKwqK) | [Blake Mills](https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR) | [Heigh Ho](https://open.spotify.com/album/05oav7mCaoTnTpuIFSv7T6) | 5:19 |
-| 70 | [What's Chasing You](https://open.spotify.com/track/2gGl2YokMEhgsB3CUJaW3u) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Make Way for Love](https://open.spotify.com/album/69wIdpWYSwdYMkYdn6iviH) | 2:41 |
+| 68 | [What's Chasing You](https://open.spotify.com/track/2gGl2YokMEhgsB3CUJaW3u) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Make Way for Love](https://open.spotify.com/album/69wIdpWYSwdYMkYdn6iviH) | 2:41 |
+| 69 | [Sunday Morning Coming Down \- Live](https://open.spotify.com/track/5yvnuEZmDBNH4uEhqdayCS) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [The Essential Johnny Cash](https://open.spotify.com/album/4E2eUhFHqTG2pu9MN1NDIF) | 4:09 |
+| 70 | [Don't Tell Our Friends About Me](https://open.spotify.com/track/4ktZEbOKEnx5svwITaKwqK) | [Blake Mills](https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR) | [Heigh Ho](https://open.spotify.com/album/05oav7mCaoTnTpuIFSv7T6) | 5:19 |
 | 71 | [Shovels & Dirt](https://open.spotify.com/track/7s55sjcxPmungNSC1enJTc) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Hope](https://open.spotify.com/album/4wIE6aAQq4GL10ae7cjZZ0) | 4:01 |
 | 72 | [Right Time](https://open.spotify.com/track/33bIBZTNim7ZxKrhEAXYyu) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [All Or Nothin'](https://open.spotify.com/album/1d0rJFoBz1G0QsIpyYOa1s) | 3:21 |
 | 73 | [Summertime Mama](https://open.spotify.com/track/0k2puHMjDeAUyWvoaU7LhQ) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [Good Woman](https://open.spotify.com/album/63mkT1UZtwofel0rP4rfZR) | 2:56 |
 | 74 | [Hands on You](https://open.spotify.com/track/6SEDE7wvAnAtfdhu1zbUzi) | [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP) | [Sparrow](https://open.spotify.com/album/0Frgzm1xuM3cy8VxuTOkNu) | 3:52 |
 | 75 | [Rye Whiskey](https://open.spotify.com/track/0gVTOC191ScBI2Frj9NQQX) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [Antifogmatic](https://open.spotify.com/album/2C37EWVmuBXjXqxhGwJM5c) | 3:29 |
 
-Snapshot ID: `MTU1OTkxNjc3MSwwMDAwMDAwMDlmYTI2ODNmOGMzNDcyMTFlNTcxYjM4MjdiMDQ4ZmQy`
+Snapshot ID: `MTU1OTkxNjc3MSwwMDAwMDAwMDFjOGE1NWE5ZWU3OTkyZWJkNzZhNDAzZWE2NmY4MzZk`

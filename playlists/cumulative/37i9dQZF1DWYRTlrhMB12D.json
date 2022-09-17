@@ -1136,6 +1136,24 @@
     },
     {
       "album": {
+        "name": "Best of Guru Dutt Songs",
+        "url": "https://open.spotify.com/album/1Llba1Ang0TGaohV3yxG36"
+      },
+      "artists": [
+        {
+          "name": "Hemant Kumar",
+          "url": "https://open.spotify.com/artist/02Um2HIOrUdsy3wqPBZwsj"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259120,
+      "name": "Jane Woh Kaise Log The",
+      "url": "https://open.spotify.com/track/1raJfrE4ArlwIGgFGZ0LEw"
+    },
+    {
+      "album": {
         "name": "Pyaasa (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3UQouhwVrvetrQfBRNsAZn"
       },
@@ -1147,7 +1165,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 259120,
       "name": "Jane Woh Kaise Log The",
       "url": "https://open.spotify.com/track/64xC67m2VV24RykHrBH1kw"

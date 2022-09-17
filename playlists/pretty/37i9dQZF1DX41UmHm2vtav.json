@@ -1,12 +1,12 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 360652,
+  "num_followers": 360734,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5MjQ2MCwwMDAwMDAwMDRkNzQ4ZWJkMTk4YWE0ZjFmMTQ4MzlhNDNmNWM2OThh",
+  "snapshot_id": "MTY2MjY5MjQ2MCwwMDAwMDAwMDY2ZDg1ZmZmYTJmM2JjYjVjODAwNWNlMDVjMGIxOTY0",
   "tracks": [
     {
       "added_at": "2022-09-09 03:01:00",
@@ -899,26 +899,6 @@
     {
       "added_at": "2022-09-09 03:01:00",
       "album": {
-        "name": "Youngr",
-        "url": "https://open.spotify.com/album/6fQblFsVP8G1oZuRn6F3fz"
-      },
-      "artists": [
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        },
-        {
-          "name": "Shaun Jacobs",
-          "url": "https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP"
-        }
-      ],
-      "duration_ms": 175204,
-      "name": "Youngr",
-      "url": "https://open.spotify.com/track/29q1t40crnI8D5tLGYMgn8"
-    },
-    {
-      "added_at": "2022-09-09 03:01:00",
-      "album": {
         "name": "Me Cura",
         "url": "https://open.spotify.com/album/5U7TJkMbWO6bUejLuC5tV8"
       },
@@ -939,6 +919,26 @@
       "duration_ms": 183652,
       "name": "Me Cura",
       "url": "https://open.spotify.com/track/5a3IAYtuNWDaOYJfI7P6nZ"
+    },
+    {
+      "added_at": "2022-09-09 03:01:00",
+      "album": {
+        "name": "Youngr",
+        "url": "https://open.spotify.com/album/6fQblFsVP8G1oZuRn6F3fz"
+      },
+      "artists": [
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        },
+        {
+          "name": "Shaun Jacobs",
+          "url": "https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP"
+        }
+      ],
+      "duration_ms": 175204,
+      "name": "Youngr",
+      "url": "https://open.spotify.com/track/29q1t40crnI8D5tLGYMgn8"
     },
     {
       "added_at": "2022-09-09 03:01:00",
@@ -1071,26 +1071,22 @@
     {
       "added_at": "2022-09-09 03:01:00",
       "album": {
-        "name": "All The Way Up",
-        "url": "https://open.spotify.com/album/7G5LMLw8wnH6Y5vzZRVNor"
+        "name": "Somebody That You Loved",
+        "url": "https://open.spotify.com/album/2hZK1aGxPqE8XMyUK8bV79"
       },
       "artists": [
         {
-          "name": "EQRIC",
-          "url": "https://open.spotify.com/artist/1Yj7SsIEP9k7SsE1HcMBrq"
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
         },
         {
-          "name": "PHARA\u00d8H",
-          "url": "https://open.spotify.com/artist/5SHDLpahWqSLc0qhuGpS3f"
-        },
-        {
-          "name": "Peter Piffen",
-          "url": "https://open.spotify.com/artist/50LmKJrodjlTvdI6FvtvrK"
+          "name": "New Hope Club",
+          "url": "https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez"
         }
       ],
-      "duration_ms": 175333,
-      "name": "All The Way Up",
-      "url": "https://open.spotify.com/track/289pQ5lNESfucuiv1BAgEO"
+      "duration_ms": 215998,
+      "name": "Somebody That You Loved",
+      "url": "https://open.spotify.com/track/2x6kFL5AIIwacxHySO4mXP"
     },
     {
       "added_at": "2022-09-09 03:01:00",
@@ -1119,22 +1115,26 @@
     {
       "added_at": "2022-09-09 03:01:00",
       "album": {
-        "name": "Somebody That You Loved",
-        "url": "https://open.spotify.com/album/2hZK1aGxPqE8XMyUK8bV79"
+        "name": "All The Way Up",
+        "url": "https://open.spotify.com/album/7G5LMLw8wnH6Y5vzZRVNor"
       },
       "artists": [
         {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+          "name": "EQRIC",
+          "url": "https://open.spotify.com/artist/1Yj7SsIEP9k7SsE1HcMBrq"
         },
         {
-          "name": "New Hope Club",
-          "url": "https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez"
+          "name": "PHARA\u00d8H",
+          "url": "https://open.spotify.com/artist/5SHDLpahWqSLc0qhuGpS3f"
+        },
+        {
+          "name": "Peter Piffen",
+          "url": "https://open.spotify.com/artist/50LmKJrodjlTvdI6FvtvrK"
         }
       ],
-      "duration_ms": 215998,
-      "name": "Somebody That You Loved",
-      "url": "https://open.spotify.com/track/2x6kFL5AIIwacxHySO4mXP"
+      "duration_ms": 175333,
+      "name": "All The Way Up",
+      "url": "https://open.spotify.com/track/289pQ5lNESfucuiv1BAgEO"
     },
     {
       "added_at": "2022-09-09 03:01:00",
@@ -1179,6 +1179,26 @@
       "duration_ms": 175020,
       "name": "Savages",
       "url": "https://open.spotify.com/track/5d3NlNeGMJRu8EIT0X559G"
+    },
+    {
+      "added_at": "2022-09-09 03:01:00",
+      "album": {
+        "name": "I Do (with Zeeba)",
+        "url": "https://open.spotify.com/album/1m1opaakLIL6TzL7NjFhso"
+      },
+      "artists": [
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        },
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        }
+      ],
+      "duration_ms": 173446,
+      "name": "I Do - with Zeeba",
+      "url": "https://open.spotify.com/track/6lgLLgwC7vKguYUPSszMNt"
     },
     {
       "added_at": "2022-09-09 03:01:00",
@@ -1243,26 +1263,6 @@
       "duration_ms": 168449,
       "name": "T\u00f4 de F\u00e9rias",
       "url": "https://open.spotify.com/track/1xHcw1xHylSNbOZQenjrBn"
-    },
-    {
-      "added_at": "2022-09-09 03:01:00",
-      "album": {
-        "name": "I Do (with Zeeba)",
-        "url": "https://open.spotify.com/album/1m1opaakLIL6TzL7NjFhso"
-      },
-      "artists": [
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        },
-        {
-          "name": "Zeeba",
-          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
-        }
-      ],
-      "duration_ms": 173446,
-      "name": "I Do - with Zeeba",
-      "url": "https://open.spotify.com/track/6lgLLgwC7vKguYUPSszMNt"
     },
     {
       "added_at": "2022-09-09 03:01:00",
@@ -1515,18 +1515,26 @@
     {
       "added_at": "2022-09-09 03:01:00",
       "album": {
-        "name": "Mais um Dia",
-        "url": "https://open.spotify.com/album/5sdl2ykjnptMYB9ohAAxLR"
+        "name": "A Tal Can\u00e7\u00e3o Pra Lua (Madism Remix)",
+        "url": "https://open.spotify.com/album/39lSHTYchhIflEsYUPDKq0"
       },
       "artists": [
         {
-          "name": "Breno Miranda",
-          "url": "https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n"
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        },
+        {
+          "name": "Samuel Rosa",
+          "url": "https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa"
+        },
+        {
+          "name": "Madism",
+          "url": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
         }
       ],
-      "duration_ms": 138536,
-      "name": "Mais um Dia",
-      "url": "https://open.spotify.com/track/3ITlmTf0fgkY0YLWUQzGfk"
+      "duration_ms": 206759,
+      "name": "A Tal Can\u00e7\u00e3o Pra Lua - Madism Remix",
+      "url": "https://open.spotify.com/track/1Wrw9FAuxbM3mb0kkH2M2c"
     }
   ],
   "unique_name": "Festa na Praia",

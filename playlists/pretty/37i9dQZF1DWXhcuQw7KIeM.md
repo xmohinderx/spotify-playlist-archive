@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 
 > From the very deep spirit of the almighty North\. Cover: The HU
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,607 likes - 78 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,682 likes - 78 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 | 43 | [Valhalla Rising](https://open.spotify.com/track/6gSM7SxQDHbBibGoUrxWbO) | [Nytt Land](https://open.spotify.com/artist/6NQ701XGEJodDZ5lqVtrBp) | [Valhalla Rising](https://open.spotify.com/album/78glhD3Zl57f1MeXjESFKI) | 7:03 |
 | 44 | [Floki Appears to Kill Athelstan](https://open.spotify.com/track/5Z0GKdBhTmCsrIkM41DtRW) | [Trevor Morris](https://open.spotify.com/artist/5ikWl4mjoiFlLPvkFRZETq) | [The Vikings III \(Music from the TV Series\)](https://open.spotify.com/album/75Xg8NYCUQd131qcp1Q8Cd) | 3:11 |
 | 45 | [The Empire of Winds](https://open.spotify.com/track/2mg3b0qMy3z8aFZ08kT3U2) | [Alpine Universe](https://open.spotify.com/artist/2p2f0IoFel8v0mdBqGsw1C) | [The Empire of Winds \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4yfCaNi6PU9euTYdQFAnjk) | 3:04 |
-| 46 | [Räven](https://open.spotify.com/track/1sfAfFLr4lAuw9vEIIVoKc) | [Hedningarna](https://open.spotify.com/artist/0Y5ldP4uHArYLgHdljfmAu) | [TRÄ](https://open.spotify.com/album/0ehNjbwNSkhxgSJvUHrjOw) | 4:52 |
+| 46 | [Räven](https://open.spotify.com/track/1tzL0ZN9RGFPROrFikLVZk) | [Hedningarna](https://open.spotify.com/artist/0Y5ldP4uHArYLgHdljfmAu) | [TRÄ](https://open.spotify.com/album/7cdb2iO13iwekXoOlYej94) | 4:52 |
 | 47 | [Rún](https://open.spotify.com/track/34hYH6o60RtUv5u5UUgnd0) | [SKÁLD](https://open.spotify.com/artist/3uliAYf4KyTkBpVf3BiWVv) | [Vikings Chant \(Alfar Fagrahvél Edition\)](https://open.spotify.com/album/3yapZbvOcHcqs4vH0VPfgF) | 2:40 |
 | 48 | [Hausbrjótr \- Skullcrusher](https://open.spotify.com/track/3rcDnOMm4TCKE0f2FZ54Pt) | [Einar Selvik](https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5) | [Assassin's Creed Valhalla: The Ravens Saga \(Original Soundtrack\)](https://open.spotify.com/album/5gxCjYgosIC6xWfQd9Px7K) | 5:15 |
 | 49 | [Krigsgaldr](https://open.spotify.com/track/5P9qFmIiMqE6r2UfwVIdIZ) | [Heilung](https://open.spotify.com/artist/7sTKZr30LqC928DZ5P9mNQ) | [Ofnir](https://open.spotify.com/album/6vohdbsWGcqbqiAimhGj6N) | 8:58 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 | 77 | [A Hajnal Köszöntése](https://open.spotify.com/track/1zPWdZU3ffm5Knjn1rI0Uu) | [The Moon & The Nightspirit](https://open.spotify.com/artist/7hm6tfDbNUdRrz2hfRpJG3) | [Metanoia](https://open.spotify.com/album/3TnGjy4KW6dwCXtsKjod7D) | 5:56 |
 | 78 | [Storm Son](https://open.spotify.com/track/6obT3ZJ0SQLSGuFS6PWaT8) | [Enslaved](https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD) | [E](https://open.spotify.com/album/4I62KutcTuOqExb7fDeJU3) | 10:54 |
 
-Snapshot ID: `MTY2MTU0MDI0OCwwMDAwMDAwMDIwOTljMzk4NzQ0MmU2OGUyMDE4MTg5MWQ3OTg2MGRm`
+Snapshot ID: `MTY2MTU0MDI0OCwwMDAwMDAwMDhlNDZhNDgyYmIwMjI3M2IzMGEwYTFjOWQ4N2M1MTg0`

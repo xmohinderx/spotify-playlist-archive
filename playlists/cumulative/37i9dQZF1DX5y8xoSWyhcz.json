@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-29",
-  "description": "it's a vibe (\u25e1 \u203f \u25e1 \u273f).  ~~~ cover: hope tala \ud83c\udf0f",
+  "description": "it's a vibe (\u25e1 \u203f \u25e1 \u273f).  ~~~ \nmathijs.iv & ELIO on the cover.",
   "name": "indie pop & chill",
   "published_playlist_ids": [
     "4lgMQu4P2ziouf8Qz9MR8Q"
@@ -866,6 +866,28 @@
     },
     {
       "album": {
+        "name": "ANTIFREEZE",
+        "url": "https://open.spotify.com/album/3Ax7G8PfcjdAS3w9EKqxyY"
+      },
+      "artists": [
+        {
+          "name": "easy life",
+          "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
+        },
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209310,
+      "name": "ANTIFREEZE",
+      "url": "https://open.spotify.com/track/6hVwUD1XjVGsX9GBUcoEYc"
+    },
+    {
+      "album": {
         "name": "Anxiety",
         "url": "https://open.spotify.com/album/1vcnqtC9V37HD6jWP94Sk6"
       },
@@ -949,7 +971,7 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 184258,
       "name": "Architect",
       "url": "https://open.spotify.com/track/4cshL9bJESsW1PlqPeBgTw"
@@ -2329,6 +2351,24 @@
       "duration_ms": 169149,
       "name": "Camp Anonymous",
       "url": "https://open.spotify.com/track/0BVNjqMhsxCioq76mhDUez"
+    },
+    {
+      "album": {
+        "name": "Can We Take The Night Off?",
+        "url": "https://open.spotify.com/album/4wgjdiDDwSiSkL4QwUZKlG"
+      },
+      "artists": [
+        {
+          "name": "Michaela Slinger",
+          "url": "https://open.spotify.com/artist/59QPoeNCHdaVDlFxw7ZDVQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210439,
+      "name": "Can We Take The Night Off?",
+      "url": "https://open.spotify.com/track/7uOvb1oTvrCGiU42h4rzE5"
     },
     {
       "album": {
@@ -8764,6 +8804,28 @@
     },
     {
       "album": {
+        "name": "kiss me before u go.",
+        "url": "https://open.spotify.com/album/0qXF4bLph1rkzuE1x6ZLcJ"
+      },
+      "artists": [
+        {
+          "name": "will hyde",
+          "url": "https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn"
+        },
+        {
+          "name": "Jess Benko",
+          "url": "https://open.spotify.com/artist/6U53xCCVXmyimAgsBjCS8P"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243000,
+      "name": "kiss me before u go.",
+      "url": "https://open.spotify.com/track/1n6wEo9WEfUHm2VcOx67dw"
+    },
+    {
+      "album": {
         "name": "Knievel",
         "url": "https://open.spotify.com/album/1z2YrXsRB4B7rgg1g69cYh"
       },
@@ -11253,7 +11315,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 157817,
       "name": "OTT",
       "url": "https://open.spotify.com/track/5vrOwoXILW22WyXkhGLciY"
@@ -16239,6 +16301,28 @@
       "duration_ms": 156180,
       "name": "Uncall It",
       "url": "https://open.spotify.com/track/6dJC1unKk2kWnaA5goiXly"
+    },
+    {
+      "album": {
+        "name": "Undershare (feat. ELIO)",
+        "url": "https://open.spotify.com/album/6kQpLd2JF29RNgBjJ8fFfv"
+      },
+      "artists": [
+        {
+          "name": "mathijs.iv",
+          "url": "https://open.spotify.com/artist/1qtwdqUmc8Nnza2PcPSlSu"
+        },
+        {
+          "name": "ELIO",
+          "url": "https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "Undershare (feat. ELIO)",
+      "url": "https://open.spotify.com/track/7Mdvvkp2wAHUnFwdZ6nrr1"
     },
     {
       "album": {

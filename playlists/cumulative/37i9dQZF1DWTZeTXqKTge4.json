@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: Shreez",
+  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: Raccoon",
   "name": "Rap qu\u00e9b",
   "published_playlist_ids": [
     "4D4AEhD54qWlJrQjbPhrFK"
@@ -125,7 +125,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 162778,
       "name": "3 accords",
       "url": "https://open.spotify.com/track/4Hsywq7qnQVsutWBFf8rPZ"
@@ -499,7 +499,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 196973,
       "name": "BAD B*TCH II",
       "url": "https://open.spotify.com/track/6vMe7n4qJ9hXfMGE1ruDNF"
@@ -517,7 +517,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 188306,
       "name": "Bad Boy",
       "url": "https://open.spotify.com/track/63Fj5pGKXNSRdj8yw1YxVD"
@@ -565,7 +565,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 192962,
       "name": "Barbade",
       "url": "https://open.spotify.com/track/5zzOE42zx3RsAt8YSHeFrk"
@@ -1898,6 +1898,24 @@
     },
     {
       "album": {
+        "name": "Everyday",
+        "url": "https://open.spotify.com/album/6ISTSCjQij4VteTbrlpTQ9"
+      },
+      "artists": [
+        {
+          "name": "Jula\u00ef",
+          "url": "https://open.spotify.com/artist/121HfPsWH7DqRtTtF5PEWn"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169714,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/4WR4dZYoPWv0TScswcpp9E"
+    },
+    {
+      "album": {
         "name": "Fais PT",
         "url": "https://open.spotify.com/album/0z1CIAY5XS6nSRc8FuF7Jd"
       },
@@ -1913,6 +1931,24 @@
       "duration_ms": 191947,
       "name": "Fais PT",
       "url": "https://open.spotify.com/track/4I3BHwCCXqstiDXU49qziN"
+    },
+    {
+      "album": {
+        "name": "Fermer les yeux",
+        "url": "https://open.spotify.com/album/3jNarx37j97nl8l2vOxEg5"
+      },
+      "artists": [
+        {
+          "name": "MCM",
+          "url": "https://open.spotify.com/artist/0lp5ESFVVH1DGSwb2LtnfD"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182222,
+      "name": "Fermer les yeux",
+      "url": "https://open.spotify.com/track/0xs9ReaxZUWqp7rO4Ys4cx"
     },
     {
       "album": {
@@ -2025,6 +2061,24 @@
       "duration_ms": 120400,
       "name": "FNG",
       "url": "https://open.spotify.com/track/6s3Ix4ircsRi8D9vH9cRMe"
+    },
+    {
+      "album": {
+        "name": "MMS 2.0",
+        "url": "https://open.spotify.com/album/1frw85H7pUOeM2irhAhXaA"
+      },
+      "artists": [
+        {
+          "name": "Enima",
+          "url": "https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188434,
+      "name": "FOCUS",
+      "url": "https://open.spotify.com/track/5pW2FIBTAEWwq1S7Mf37dM"
     },
     {
       "album": {
@@ -2277,7 +2331,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 107076,
       "name": "G\u00e9nie",
       "url": "https://open.spotify.com/track/6d47cASiELHow0wPMkDZbw"
@@ -2677,7 +2731,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 140041,
       "name": "J'te mentirai pas",
       "url": "https://open.spotify.com/track/1MjqfHQhJezQYPHLoqaYWZ"
@@ -2978,6 +3032,24 @@
     },
     {
       "album": {
+        "name": "Like That",
+        "url": "https://open.spotify.com/album/0ATe5aLX1LMZnavETQCtRw"
+      },
+      "artists": [
+        {
+          "name": "DVinyle",
+          "url": "https://open.spotify.com/artist/5ozjuk4ZNYQ5OMv4SmnkyA"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170721,
+      "name": "Like That",
+      "url": "https://open.spotify.com/track/1Kw5YOwgBijPXOsNazPGm7"
+    },
+    {
+      "album": {
         "name": "Carnaval de Finesse 2 : Les Chroniques d'un Jeune Entrepreneur",
         "url": "https://open.spotify.com/album/6XHp29DWqSqCS2UIZislPO"
       },
@@ -3255,6 +3327,24 @@
       "duration_ms": 228579,
       "name": "Misunderstood",
       "url": "https://open.spotify.com/track/6uqdKP6QZIlAaVqyZP6krW"
+    },
+    {
+      "album": {
+        "name": "Colin-Maillard",
+        "url": "https://open.spotify.com/album/3ndgfqyim4BNv0ATiLLQ7b"
+      },
+      "artists": [
+        {
+          "name": "Mantisse",
+          "url": "https://open.spotify.com/artist/20iPdUZMRpNULtRfv9mJP7"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195852,
+      "name": "Moiti\u00e9 plein",
+      "url": "https://open.spotify.com/track/15tb8Of2C5NujvAYSWyXao"
     },
     {
       "album": {
@@ -3805,6 +3895,28 @@
       "duration_ms": 161221,
       "name": "Pi\u00e8ge Rock Alternatif",
       "url": "https://open.spotify.com/track/6AASCclUSMqIM5hhLuS7nj"
+    },
+    {
+      "album": {
+        "name": "Polygone",
+        "url": "https://open.spotify.com/album/7rRouNve7pkhxSWiTStvJs"
+      },
+      "artists": [
+        {
+          "name": "Nikki-B",
+          "url": "https://open.spotify.com/artist/0W4nncV2qo2VMYhhx1GBA0"
+        },
+        {
+          "name": "Cupidon",
+          "url": "https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209684,
+      "name": "Polygone",
+      "url": "https://open.spotify.com/track/6HZgqXad50xSCbAvpzzrfH"
     },
     {
       "album": {
@@ -4945,7 +5057,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 244128,
       "name": "Triomphe",
       "url": "https://open.spotify.com/track/4PaVygkVBqsBEu8BTfvhDp"
@@ -5309,6 +5421,28 @@
       "duration_ms": 220000,
       "name": "\u00c9pitaphe",
       "url": "https://open.spotify.com/track/2HaEfEful55EwS8hEhf97k"
+    },
+    {
+      "album": {
+        "name": "\u00c9vapor\u00e9",
+        "url": "https://open.spotify.com/album/3o3N3TegvhjoTfZmsTxnZo"
+      },
+      "artists": [
+        {
+          "name": "LeMind",
+          "url": "https://open.spotify.com/artist/3PZuIxHVPdduhzcP78mmlW"
+        },
+        {
+          "name": "Rymz",
+          "url": "https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196226,
+      "name": "\u00c9vapor\u00e9",
+      "url": "https://open.spotify.com/track/32XFaa4LwJrdI7R4Z8dDZD"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWTZeTXqKTge4"

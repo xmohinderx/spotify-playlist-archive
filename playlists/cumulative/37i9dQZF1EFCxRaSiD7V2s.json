@@ -677,6 +677,24 @@
     {
       "album": {
         "name": "MERIDIAN",
+        "url": "https://open.spotify.com/album/4uH776h4uovgy3YYG1vbKC"
+      },
+      "artists": [
+        {
+          "name": "morgxn",
+          "url": "https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217671,
+      "name": "CITADEL",
+      "url": "https://open.spotify.com/track/0yDknkft5pn0Fj7LZaAQoV"
+    },
+    {
+      "album": {
+        "name": "MERIDIAN",
         "url": "https://open.spotify.com/album/4zw23pZvaFm3IlUFhPT3Ss"
       },
       "artists": [
@@ -687,7 +705,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 217671,
       "name": "CITADEL",
       "url": "https://open.spotify.com/track/6F5VBIT4YR3Ow4khVx7wPQ"

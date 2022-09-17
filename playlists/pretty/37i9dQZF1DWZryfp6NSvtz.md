@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new tracks every week\. Cover: Maggie Lindemann
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,479 likes - 49 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,895 likes - 49 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 2 | [Heavy Is The Ocean](https://open.spotify.com/track/4ud1E56t24ktCa6r1aGvKl) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [Heavy Is The Ocean](https://open.spotify.com/album/7vsbwpZnmz2q3y15J0NViN) | 5:12 |
 | 3 | [No Future? Yeah Right \(feat\. Rou Reynolds\)](https://open.spotify.com/track/3CfE1ZWtyJyi4GioBjwS7R) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6), [Rou Reynolds](https://open.spotify.com/artist/39sN02pcMOMbe3kVNajete) | [No Future? Yeah Right \(feat\. Rou Reynolds\)](https://open.spotify.com/album/5axzKeJiGWgRV4OlFdSPHL) | 3:16 |
 | 4 | [Not Afraid](https://open.spotify.com/track/1f8ZnfsP7Q4yazdcfEN2XK) | [The Rare Occasions](https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt) | [Not Afraid](https://open.spotify.com/album/6x3eMbLCQXQQmYraRYTGaL) | 3:14 |
-| 5 | [Personality Disorder](https://open.spotify.com/track/3Si1CN1khI5LRvwqUX1e2u) | [Suede](https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS) | [Autofiction](https://open.spotify.com/album/6wwmFYghPYQzY9BP7uiZFs) | 4:00 |
+| 5 | [Personality Disorder](https://open.spotify.com/track/7noQsk2Wm00f5HlH2Zmume) | [The London Suede](https://open.spotify.com/artist/6GuRYj1MEnu1WZhDA2Xy0t) | [Autofiction](https://open.spotify.com/album/6yLKyq7x7ZCpL7p99smtsO) | 4:00 |
 | 6 | [Trouble In America](https://open.spotify.com/track/19H4nzeKgyCt8S4tzbGj9H) | [White Lies](https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910) | [Trouble In America](https://open.spotify.com/album/26Ge5OLo6PKdJxUmbWZhSH) | 3:36 |
 | 7 | [i just want to hide my face](https://open.spotify.com/track/1xDZoTi6F9wZtpcQ1dlyE7) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [i just want to hide my face](https://open.spotify.com/album/0mPO0i23qRLIkp5DgmpFkB) | 2:12 |
 | 8 | [Complete Collapse](https://open.spotify.com/track/64bYbVvaukSYcWrUrO6klS) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [Complete Collapse](https://open.spotify.com/album/6xXJn1X10a1UdDcHXAVCFp) | 3:12 |
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 16 | [Close Your Eyes](https://open.spotify.com/track/6aCoJut61DZKykGbyYroMN) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Close Your Eyes](https://open.spotify.com/album/4tB6KsKBDI0QHIC9EW4yju) | 5:05 |
 | 17 | [Everyone And Everything](https://open.spotify.com/track/60gzkM19uRPmt4XimEuRXt) | [Ringo Starr](https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8) | [EP3](https://open.spotify.com/album/3iKqjK6Gz56mA1HwOrq2J7) | 2:49 |
 | 18 | [Skeletons on Mars](https://open.spotify.com/track/70mqWI6J3BseJrWA81EVkk) | [Clutch](https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ) | [Sunrise on Slaughter Beach](https://open.spotify.com/album/2u8g60vELeT5gjh1aZRzO5) | 4:10 |
-| 19 | [Better Angels](https://open.spotify.com/track/1WckQ5AxU2e4lvZ5aR845A) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [\(self\-titled\)](https://open.spotify.com/album/2PVuzlWu3Z7Af2y9O2Gppk) | 3:25 |
+| 19 | [Better Angels](https://open.spotify.com/track/4ea8UWKf6mWySfzddxfKfE) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [\(self\-titled\)](https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE) | 3:25 |
 | 20 | [Back Of The Car \- Edit](https://open.spotify.com/track/3JAd0Ot3llCrpKj1eTc5C6) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [Back Of The Car](https://open.spotify.com/album/5aAnzJcIXiGC1u44AnXNmB) | 3:50 |
 | 21 | [Until the Kingdom Comes](https://open.spotify.com/track/3bsCPqkiodv0IofyhizIqM) | [Sparta](https://open.spotify.com/artist/3DWWL4kwLZMBLsmVsbZYHR) | [Until the Kingdom Comes](https://open.spotify.com/album/5FxIbHwySwwe8oIuNoDSbL) | 5:23 |
 | 22 | [Flash Burns From Flashbacks](https://open.spotify.com/track/1SjA9fHunPkoeTgYMM4XnU) | [The Mars Volta](https://open.spotify.com/artist/75U40yZLLPglFgXbDVnmVs) | [The Mars Volta](https://open.spotify.com/album/6teekrqj0fRPceftGFToBR) | 2:38 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 48 | [Bellarine Ballerina](https://open.spotify.com/track/2Oe2iCfXrAU5LiatGt20hX) | [The Murlocs](https://open.spotify.com/artist/0rH93aHDYyJfMAcPB9OKus) | [Bellarine Ballerina](https://open.spotify.com/album/4dZ35ONXsHngPPPV2NVphX) | 3:46 |
 | 49 | [Don't Stop Believin'](https://open.spotify.com/track/528z84miB4evk5i33FMLKK) | [Death From Above 1979](https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj) | [Don't Stop Believin'](https://open.spotify.com/album/2bOqQS4uN2TNpArlIO6Ny2) | 3:39 |
 
-Snapshot ID: `MTY2MzI3OTIwMCwwMDAwMDAwMGE1NTA3YWNmZjhiYjYzOWE0NzcxZjhkY2M0OWQ3OTk4`
+Snapshot ID: `MTY2MzI3OTIwMCwwMDAwMDAwMDgzNmZkYTNhY2RiYzdmM2ZlNmQ4MGFkNDc4OGMxODg3`

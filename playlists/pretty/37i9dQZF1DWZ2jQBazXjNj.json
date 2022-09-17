@@ -1,12 +1,12 @@
 {
   "description": "Corridos + Perreo para las bichotas y buchonas \ud83d\udd25",
-  "num_followers": 12636,
+  "num_followers": 12725,
   "original_name": "Buchona Vibez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY3MTIwMSwwMDAwMDAwMDQ2YTMwZTNjYWNlZjQzMjRhNjM2MmMwYjNhMjU0NWVj",
+  "snapshot_id": "MTY2MjY3MTIwMSwwMDAwMDAwMDI0NTQ3NGFhY2FlODZhODdkMDFkY2JjNmY2NGY0YTBm",
   "tracks": [
     {
       "added_at": "2022-09-08 21:06:41",
@@ -311,18 +311,18 @@
     {
       "added_at": "2022-09-08 21:06:41",
       "album": {
-        "name": "En El Radio Un Cochinero",
-        "url": "https://open.spotify.com/album/6fCSthptZ0wBlpqeSlUKHy"
+        "name": "Si Fuera F\u00e1cil",
+        "url": "https://open.spotify.com/album/3CUu8nxAMyjCiTeGyiBOKE"
       },
       "artists": [
         {
-          "name": "Victor Cibrian",
-          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
         }
       ],
-      "duration_ms": 223431,
-      "name": "En El Radio Un Cochinero",
-      "url": "https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy"
+      "duration_ms": 170496,
+      "name": "Si Fuera F\u00e1cil",
+      "url": "https://open.spotify.com/track/7Jph6HJbfURt4Fea19IED3"
     },
     {
       "added_at": "2022-09-08 21:06:41",
@@ -347,18 +347,18 @@
     {
       "added_at": "2022-09-08 21:06:41",
       "album": {
-        "name": "Si Fuera F\u00e1cil",
-        "url": "https://open.spotify.com/album/3CUu8nxAMyjCiTeGyiBOKE"
+        "name": "En El Radio Un Cochinero",
+        "url": "https://open.spotify.com/album/6fCSthptZ0wBlpqeSlUKHy"
       },
       "artists": [
         {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
         }
       ],
-      "duration_ms": 170496,
-      "name": "Si Fuera F\u00e1cil",
-      "url": "https://open.spotify.com/track/7Jph6HJbfURt4Fea19IED3"
+      "duration_ms": 223431,
+      "name": "En El Radio Un Cochinero",
+      "url": "https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy"
     },
     {
       "added_at": "2022-09-08 21:06:41",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-09-08 21:06:41",
       "album": {
-        "name": "King Of Kings",
-        "url": "https://open.spotify.com/album/5LbfmeWh5cvLpR1Nfvdch5"
-      },
-      "artists": [
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        }
-      ],
-      "duration_ms": 315293,
-      "name": "Sali\u00f3 El Sol",
-      "url": "https://open.spotify.com/track/48NXpYRuvv9izul4oXhqS9"
-    },
-    {
-      "added_at": "2022-09-08 21:06:41",
-      "album": {
         "name": "Money",
         "url": "https://open.spotify.com/album/2Jj4mjzEDaXp9X3AHpo5Gu"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 235328,
       "name": "El Doctor",
       "url": "https://open.spotify.com/track/2g12ZAzSIybDe6QC3w9DYl"
+    },
+    {
+      "added_at": "2022-09-08 21:06:41",
+      "album": {
+        "name": "King Of Kings",
+        "url": "https://open.spotify.com/album/5LbfmeWh5cvLpR1Nfvdch5"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        }
+      ],
+      "duration_ms": 315293,
+      "name": "Sali\u00f3 El Sol",
+      "url": "https://open.spotify.com/track/48NXpYRuvv9izul4oXhqS9"
     },
     {
       "added_at": "2022-09-08 21:06:41",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2022-09-08 21:06:41",
       "album": {
+        "name": "La Clase",
+        "url": "https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "duration_ms": 174272,
+      "name": "El Fat Tony",
+      "url": "https://open.spotify.com/track/3viZLBs5sOsNFL9JMfuqZN"
+    },
+    {
+      "added_at": "2022-09-08 21:06:41",
+      "album": {
         "name": "911 (Remix)",
         "url": "https://open.spotify.com/album/57ppCWTeAnqooyrR4DzbwR"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 208631,
       "name": "911 - Remix",
       "url": "https://open.spotify.com/track/27RSJHEA99Y0Vsow7nA37A"
-    },
-    {
-      "added_at": "2022-09-08 21:06:41",
-      "album": {
-        "name": "La Clase",
-        "url": "https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        }
-      ],
-      "duration_ms": 174272,
-      "name": "El Fat Tony",
-      "url": "https://open.spotify.com/track/3viZLBs5sOsNFL9JMfuqZN"
     },
     {
       "added_at": "2022-09-08 21:06:41",
@@ -1467,18 +1467,18 @@
     {
       "added_at": "2022-09-08 21:06:41",
       "album": {
-        "name": "Sensual Beb\u00e9",
-        "url": "https://open.spotify.com/album/2k3Qqrw8oQT3lq4XPe1xWC"
+        "name": "Se\u00f1or Miedo",
+        "url": "https://open.spotify.com/album/7prCMJKiHc8r3WOS82bZVJ"
       },
       "artists": [
         {
-          "name": "Jhay Cortez",
-          "url": "https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz"
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
         }
       ],
-      "duration_ms": 209146,
-      "name": "Sensual Beb\u00e9",
-      "url": "https://open.spotify.com/track/1xqbfjRuUw0ot43wgBuVkt"
+      "duration_ms": 172625,
+      "name": "Se\u00f1or Miedo",
+      "url": "https://open.spotify.com/track/1FnswOpXkrROzW2mFCF1BE"
     },
     {
       "added_at": "2022-09-08 21:06:41",
@@ -1503,18 +1503,18 @@
     {
       "added_at": "2022-09-08 21:06:41",
       "album": {
-        "name": "Se\u00f1or Miedo",
-        "url": "https://open.spotify.com/album/7prCMJKiHc8r3WOS82bZVJ"
+        "name": "Sensual Beb\u00e9",
+        "url": "https://open.spotify.com/album/2k3Qqrw8oQT3lq4XPe1xWC"
       },
       "artists": [
         {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+          "name": "Jhay Cortez",
+          "url": "https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz"
         }
       ],
-      "duration_ms": 172625,
-      "name": "Se\u00f1or Miedo",
-      "url": "https://open.spotify.com/track/1FnswOpXkrROzW2mFCF1BE"
+      "duration_ms": 209146,
+      "name": "Sensual Beb\u00e9",
+      "url": "https://open.spotify.com/track/1xqbfjRuUw0ot43wgBuVkt"
     },
     {
       "added_at": "2022-09-08 21:06:41",
@@ -1619,6 +1619,26 @@
     {
       "added_at": "2022-09-08 21:06:41",
       "album": {
+        "name": "The Green Trip",
+        "url": "https://open.spotify.com/album/1KrCvwoIRQ18824qcMFb4F"
+      },
+      "artists": [
+        {
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+        },
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 174275,
+      "name": "Aerol\u00ednea Carrillo",
+      "url": "https://open.spotify.com/track/0xYTyyfV767E2Vn3hz56kL"
+    },
+    {
+      "added_at": "2022-09-08 21:06:41",
+      "album": {
         "name": "Ella No Es Tuya (Remix)",
         "url": "https://open.spotify.com/album/5Jk2ROWL8a4RxmFNiT8pvA"
       },
@@ -1639,26 +1659,6 @@
       "duration_ms": 218106,
       "name": "Ella No Es Tuya - Remix",
       "url": "https://open.spotify.com/track/5YYW3yRktprLRr47WK219Y"
-    },
-    {
-      "added_at": "2022-09-08 21:06:41",
-      "album": {
-        "name": "The Green Trip",
-        "url": "https://open.spotify.com/album/1KrCvwoIRQ18824qcMFb4F"
-      },
-      "artists": [
-        {
-          "name": "T3R Elemento",
-          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
-        },
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 174275,
-      "name": "Aerol\u00ednea Carrillo",
-      "url": "https://open.spotify.com/track/0xYTyyfV767E2Vn3hz56kL"
     },
     {
       "added_at": "2022-09-08 21:06:41",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2022-09-08 21:06:41",
       "album": {
-        "name": "El Circo",
-        "url": "https://open.spotify.com/album/04lyNlxXhRxoZPC9RLq5Oq"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 137323,
-      "name": "El Circo",
-      "url": "https://open.spotify.com/track/66SvxvblhUIEL6awyLMGL2"
-    },
-    {
-      "added_at": "2022-09-08 21:06:41",
-      "album": {
         "name": "Una Raya M\u00e1s al Tigre",
         "url": "https://open.spotify.com/album/1hZdcTNXS48yGctGfpQPpB"
       },
@@ -1731,22 +1715,18 @@
     {
       "added_at": "2022-09-08 21:06:41",
       "album": {
-        "name": "Gracias (En Vivo)",
-        "url": "https://open.spotify.com/album/1J5sBLRkJnpnXOYK31M2ad"
+        "name": "El Circo",
+        "url": "https://open.spotify.com/album/04lyNlxXhRxoZPC9RLq5Oq"
       },
       "artists": [
         {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Grupo Codiciado",
-          "url": "https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc"
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
         }
       ],
-      "duration_ms": 235221,
-      "name": "Gracias - En Vivo",
-      "url": "https://open.spotify.com/track/2XlGKZNMkRKvEJsbwQ6MCl"
+      "duration_ms": 137323,
+      "name": "El Circo",
+      "url": "https://open.spotify.com/track/66SvxvblhUIEL6awyLMGL2"
     },
     {
       "added_at": "2022-09-08 21:06:41",
@@ -1763,6 +1743,26 @@
       "duration_ms": 268405,
       "name": "La Barda",
       "url": "https://open.spotify.com/track/0pi1spZ3Upm2gXb1OVDq5y"
+    },
+    {
+      "added_at": "2022-09-08 21:06:41",
+      "album": {
+        "name": "Gracias (En Vivo)",
+        "url": "https://open.spotify.com/album/1J5sBLRkJnpnXOYK31M2ad"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Grupo Codiciado",
+          "url": "https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc"
+        }
+      ],
+      "duration_ms": 235221,
+      "name": "Gracias - En Vivo",
+      "url": "https://open.spotify.com/track/2XlGKZNMkRKvEJsbwQ6MCl"
     },
     {
       "added_at": "2022-09-08 21:06:41",
@@ -1859,26 +1859,6 @@
     {
       "added_at": "2022-09-08 21:06:41",
       "album": {
-        "name": "Fuera de Servicio (En Vivo)",
-        "url": "https://open.spotify.com/album/0FTqYpjo7FxglsdqWNoO0q"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 206506,
-      "name": "Fuera de Servicio - En Vivo",
-      "url": "https://open.spotify.com/track/03XQEYWR7q7aQUGp43Pwah"
-    },
-    {
-      "added_at": "2022-09-08 21:06:41",
-      "album": {
         "name": "Desde Morro",
         "url": "https://open.spotify.com/album/6ruqxBlrH2BEZKZjgG3hSS"
       },
@@ -1951,18 +1931,22 @@
     {
       "added_at": "2022-09-08 21:06:41",
       "album": {
-        "name": "Odisea",
-        "url": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo"
+        "name": "Fuera de Servicio (En Vivo)",
+        "url": "https://open.spotify.com/album/0FTqYpjo7FxglsdqWNoO0q"
       },
       "artists": [
         {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
         }
       ],
-      "duration_ms": 226800,
-      "name": "S\u00edguelo Bailando",
-      "url": "https://open.spotify.com/track/5Y9fnynLlIvqtM710MHzfz"
+      "duration_ms": 206506,
+      "name": "Fuera de Servicio - En Vivo",
+      "url": "https://open.spotify.com/track/03XQEYWR7q7aQUGp43Pwah"
     },
     {
       "added_at": "2022-09-08 21:06:41",
@@ -1979,6 +1963,22 @@
       "duration_ms": 203522,
       "name": "La Mb",
       "url": "https://open.spotify.com/track/3FfCRdvFfPA93T8zT2dGqV"
+    },
+    {
+      "added_at": "2022-09-08 21:06:41",
+      "album": {
+        "name": "Odisea",
+        "url": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 226800,
+      "name": "S\u00edguelo Bailando",
+      "url": "https://open.spotify.com/track/5Y9fnynLlIvqtM710MHzfz"
     },
     {
       "added_at": "2022-09-08 21:06:41",
@@ -2131,6 +2131,22 @@
     {
       "added_at": "2022-09-08 21:06:41",
       "album": {
+        "name": "Corridos Pa' la Historia",
+        "url": "https://open.spotify.com/album/325vQ2EMFZ2pHMMq96xHqh"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 155543,
+      "name": "Yo Soy Rico",
+      "url": "https://open.spotify.com/track/6ueysvoc0nj7piSJXEJGJx"
+    },
+    {
+      "added_at": "2022-09-08 21:06:41",
+      "album": {
         "name": "MALA SANTA",
         "url": "https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X"
       },
@@ -2151,18 +2167,22 @@
     {
       "added_at": "2022-09-08 21:06:41",
       "album": {
-        "name": "Corridos Pa' la Historia",
-        "url": "https://open.spotify.com/album/325vQ2EMFZ2pHMMq96xHqh"
+        "name": "NATTIVIDAD",
+        "url": "https://open.spotify.com/album/2ZjmvVKeVy3CgaT2BvsyvM"
       },
       "artists": [
         {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+          "name": "Natti Natasha",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
         }
       ],
-      "duration_ms": 155543,
-      "name": "Yo Soy Rico",
-      "url": "https://open.spotify.com/track/6ueysvoc0nj7piSJXEJGJx"
+      "duration_ms": 200706,
+      "name": "Ram Pam Pam",
+      "url": "https://open.spotify.com/track/730gfBUwEpyruhbSvDuytR"
     },
     {
       "added_at": "2022-09-08 21:06:41",
@@ -2183,26 +2203,6 @@
       "duration_ms": 161733,
       "name": "Bayo 17",
       "url": "https://open.spotify.com/track/7Kf9dL06sJKITTA9tYj0hM"
-    },
-    {
-      "added_at": "2022-09-08 21:06:41",
-      "album": {
-        "name": "NATTIVIDAD",
-        "url": "https://open.spotify.com/album/2ZjmvVKeVy3CgaT2BvsyvM"
-      },
-      "artists": [
-        {
-          "name": "Natti Natasha",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        },
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 200706,
-      "name": "Ram Pam Pam",
-      "url": "https://open.spotify.com/track/730gfBUwEpyruhbSvDuytR"
     },
     {
       "added_at": "2022-09-08 21:06:41",

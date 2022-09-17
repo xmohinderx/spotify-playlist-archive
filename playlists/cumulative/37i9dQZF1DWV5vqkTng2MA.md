@@ -4,7 +4,7 @@
 
 > Make it new\. Fresh takes on vintage soul, folk, blues, and roots rock\. Cover: Pokey LaFarge
 
-196 songs - 11 hr 43 min - [published](https://open.spotify.com/playlist/4ZYc49bP2BhIE0m0JrNtAT)
+197 songs - 11 hr 47 min - [published](https://open.spotify.com/playlist/4ZYc49bP2BhIE0m0JrNtAT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,8 @@
 | [Only Songs](https://open.spotify.com/track/1tbQJsvQzT5KBx3sqgz51u) | [The Wild Reeds](https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH) | [The World We Built](https://open.spotify.com/album/3Z7jF3AHU6lNKkqDFYCern) | 4:36 | 2022-06-01 |  |
 | [Only Songs](https://open.spotify.com/track/4GbAYlr0NadVOs7yyVOaxu) | [The Wild Reeds](https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH) | [Only Songs](https://open.spotify.com/album/44xYDztQBOoXeX01Fn0JUx) | 4:36 | 2021-10-01 | 2022-07-29 |
 | [Only You](https://open.spotify.com/track/1WeEXE3w0FkgPLUEOeoG9J) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Delilah](https://open.spotify.com/album/2iOEBkiMCteCJExhYgVpXZ) | 2:46 | 2021-10-01 |  |
-| [Over My Head](https://open.spotify.com/track/1EyXf42GbGpw2BlW9oWUXV) | [Asaf Avidan](https://open.spotify.com/artist/7t51dSX8ZkKC7VoKRd0lME) | [Gold Shadow](https://open.spotify.com/album/5SnyFVHXPnQLzqys1O0kWe) | 2:36 | 2022-06-01 |  |
+| [Over My Head](https://open.spotify.com/track/1EyXf42GbGpw2BlW9oWUXV) | [Asaf Avidan](https://open.spotify.com/artist/7t51dSX8ZkKC7VoKRd0lME) | [Gold Shadow](https://open.spotify.com/album/5SnyFVHXPnQLzqys1O0kWe) | 2:36 | 2022-06-01 | 2022-09-17 |
+| [Pain and Misery](https://open.spotify.com/track/2W5dSuM7DDdWymjzZsICBn) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Half Mile Harvest](https://open.spotify.com/album/6seixGAN22NspEmvRID4fG) | 4:00 | 2022-08-02 |  |
 | [Pain and Misery](https://open.spotify.com/track/74MhYN5UyyDx0W2cbTUZYo) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Half Mile Harvest](https://open.spotify.com/album/5z4DOERCGnhGHovVe1RuXh) | 4:00 | 2022-06-01 | 2022-09-15 |
 | [Pain and Misery](https://open.spotify.com/track/6sWVwDSjW1ZtqGQc9WnjdW) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Half Mile Harvest](https://open.spotify.com/album/3HyoK42Wc8CMxHJ8MDU3qA) | 4:01 | 2021-10-01 | 2022-07-29 |
 | [Party City](https://open.spotify.com/track/3F2DMy1Q25ajQ7EkHrjBtO) | [Sir Woman](https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL) | [Party City](https://open.spotify.com/album/0hq6WSFI9HsvTffEY5uKjo) | 4:20 | 2021-10-01 | 2022-08-03 |

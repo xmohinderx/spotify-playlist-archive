@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-186 songs - 9 hr 49 min - [published](https://open.spotify.com/playlist/4dffDAKNLn3DWHgAjcX4Hp)
+187 songs - 9 hr 52 min - [published](https://open.spotify.com/playlist/4dffDAKNLn3DWHgAjcX4Hp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,6 +187,7 @@
 | [What You Like](https://open.spotify.com/track/2fkPBzNXh8a8vuJWVqdlxl) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT) | [What You Like](https://open.spotify.com/album/17Abs1JhulRGTWtZpuTxgf) | 2:38 | 2022-02-03 | 2022-09-15 |
 | [Whatever \(ft\. Jüri Pootsmann\)](https://open.spotify.com/track/5dodHFhVwBQjcULGlLFKVG) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [Andromedik](https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T), [Jüri Pootsmann](https://open.spotify.com/artist/7j6Zzcpz7gTNPh69USgO8C) | [Whatever \(ft\. Jüri Pootsmann\)](https://open.spotify.com/album/4UOWmedz9MLd15yKyDj5ME) | 3:25 | 2022-03-25 |  |
 | [When I'm Gone](https://open.spotify.com/track/6rhZZuD7lVsJTOkqxLepTj) | [Tetrix Bass](https://open.spotify.com/artist/7wqWpJmkmXr5e8dcXdbrC6), [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3), [Ellen Louise](https://open.spotify.com/artist/67yangDHSVlDpDS4U4UWKe) | [When I'm Gone](https://open.spotify.com/album/1BlfvPW5eXF2tyyL6OkDaY) | 3:37 | 2022-06-09 |  |
+| [When I'm With You](https://open.spotify.com/track/4IpHprcfDRMRjV1Vm2rr29) | [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy) | [When I'm With You](https://open.spotify.com/album/4LxPVPgBo9EGncjqxWkrPW) | 3:07 | 2022-09-16 |  |
 | [When We Leavin](https://open.spotify.com/track/1xl54xMFlx7R316617s5kx) | [IntoAlter](https://open.spotify.com/artist/48qJTUrYO2CHJA3oX4MK7A), [Too Martian](https://open.spotify.com/artist/23UmQoccnr8zWXAmVdO4Lq), [Peter Piffen](https://open.spotify.com/artist/50LmKJrodjlTvdI6FvtvrK) | [When We Leavin](https://open.spotify.com/album/5OTxCckeiP4PErRyjIOU3W) | 2:46 | 2022-02-03 | 2022-09-15 |
 | [With You](https://open.spotify.com/track/6t2Kj4DEcYmRwAsCGWFs2E) | [OBLVYN](https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF), [RIELL](https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd) | [With You](https://open.spotify.com/album/7N300AA6yGawrIIzq6n1Hb) | 3:30 | 2022-03-10 |  |
 | [Would You Be Waiting](https://open.spotify.com/track/3PHOx8osoFglbGHz8dWY5E) | [Aeden](https://open.spotify.com/artist/2WIFU5KpTGyYWZs039dQPn) | [Would You Be Waiting](https://open.spotify.com/album/17zDJZXkFFsfWDpH83URKA) | 2:57 | 2022-08-30 | 2022-09-13 |

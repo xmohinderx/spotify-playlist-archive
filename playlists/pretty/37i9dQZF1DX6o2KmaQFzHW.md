@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 
 > Clásicos del folklore argentino de la mano de sus más grandes intérpretes\. Foto: Chaqueño Palavecino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,943 likes - 90 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,977 likes - 90 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 | 23 | [Zamba de Mi Esperanza \(feat\. Jorge Cafrune\)](https://open.spotify.com/track/5L0QkgiZv1k6KjIk4Aptms) | [Los Chalchaleros](https://open.spotify.com/artist/0t8lKcdJV0dEicuocOteOw), [Jorge Cafrune](https://open.spotify.com/artist/3uy9MpO6gLAW1LHhDRXM38) | [Todos Somos Chalchaleros](https://open.spotify.com/album/7LWRJuP4iXgbOH1Gt98GiO) | 3:54 |
 | 24 | [Todo Está en Vos](https://open.spotify.com/track/3m0iTs6YcT467EhgWMequG) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [La Llave](https://open.spotify.com/album/3FhFLJcOQ3xuECoy24Dpe6) | 3:50 |
 | 25 | [El Olvidao](https://open.spotify.com/track/5nWttGi56oq0TQjSfW6vnV) | [Néstor Garnica](https://open.spotify.com/artist/5MJFjxBEw8HCzFvYhYMs5w) | [La Fiesta del Violinero](https://open.spotify.com/album/63O1KYHdzlbS66klVJbXiL) | 3:00 |
-| 26 | [La Villerita](https://open.spotify.com/track/4lfw4m1ovrPVi2OeaY9FEh) | [Horacio Guarany](https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl) | [Idolo De Multitudes](https://open.spotify.com/album/6Vz1jhm0zmxs7oz2OOadaN) | 4:10 |
-| 27 | [Entre A Mi Pago Sin Golpear](https://open.spotify.com/track/6W5nrs6SqETt1et20bTtFa) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Poncho Al Viento](https://open.spotify.com/album/5lE01dF2K4sLVwlVfoP124) | 2:35 |
+| 26 | [Entre A Mi Pago Sin Golpear](https://open.spotify.com/track/6W5nrs6SqETt1et20bTtFa) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Poncho Al Viento](https://open.spotify.com/album/5lE01dF2K4sLVwlVfoP124) | 2:35 |
+| 27 | [La Villerita](https://open.spotify.com/track/4lfw4m1ovrPVi2OeaY9FEh) | [Horacio Guarany](https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl) | [Idolo De Multitudes](https://open.spotify.com/album/6Vz1jhm0zmxs7oz2OOadaN) | 4:10 |
 | 28 | [Chacarera del Olvido](https://open.spotify.com/track/1TsrW24N0hgAlOWNCTjIlL) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [Chaqueñadas](https://open.spotify.com/album/6R49gTlWLOhwKDnw95olcP) | 2:08 |
 | 29 | [Duerme, Negrito](https://open.spotify.com/track/63T6KFdH7wzrwXGjNrHQM8) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [30 años](https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU) | 2:25 |
 | 30 | [El Corralero](https://open.spotify.com/track/4aQnqYqxg3JlDz2CyS1aap) | [Hernan Figueroa Reyes](https://open.spotify.com/artist/4uIoOdivSAzUdJB8CTfP8S) | [Hernan Figueroa Reyes El Unico](https://open.spotify.com/album/1R1AaAeSP5aOfX6Sai5Lk7) | 2:48 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 | 78 | [López Pereyra](https://open.spotify.com/track/2VExU73m6bsHkCvPBtnNdf) | [Los Fronterizos](https://open.spotify.com/artist/3JY4oF6rBQ45FSVUJtXixb) | [Romance De Luna Y Flor](https://open.spotify.com/album/4jSATA7cTYomI3uNw1Jpfe) | 3:12 |
 | 79 | [Romance de Plumas Verdes](https://open.spotify.com/track/2UTFw7lafwlYmFk3NEHhag) | [Los Quilla Huasi](https://open.spotify.com/artist/0mldH6GcoYEV145HY3GHEk), [Horacio Guarany](https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl) | [Aqui Cosquin](https://open.spotify.com/album/4Rd6qMYofVnpuan16xcp7Q) | 3:01 |
 | 80 | [Serenata Otoñal](https://open.spotify.com/track/39YzTZ5TP1zjtNQOiD3x5B) | [Los Cantores del Alba](https://open.spotify.com/artist/2kRyLphTQyz7eaHhfLpMVl) | [Confitería Europea 100 Años](https://open.spotify.com/album/3wcwbHnuDa07nEFmK3qmua) | 2:28 |
-| 81 | [Ay Vidita](https://open.spotify.com/track/4GUppnqduxOfD6qmsQkGZe) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Los Tekis\-Los Elegidos](https://open.spotify.com/album/5hbPxNq1s1WJsQSDxyq0Ft) | 3:20 |
-| 82 | [De Alberdi \- Zamba](https://open.spotify.com/track/0TY0g0YvayB5r6mJ3nUT9U) | [Los Del Suquía](https://open.spotify.com/artist/4Apvih9OZt9ghebGFIVcXI) | [Folclore \- La Colección \- Los Del Suquía](https://open.spotify.com/album/1KquXVu2VO9cPvwoAM0Oik) | 3:34 |
+| 81 | [De Alberdi \- Zamba](https://open.spotify.com/track/0TY0g0YvayB5r6mJ3nUT9U) | [Los Del Suquía](https://open.spotify.com/artist/4Apvih9OZt9ghebGFIVcXI) | [Folclore \- La Colección \- Los Del Suquía](https://open.spotify.com/album/1KquXVu2VO9cPvwoAM0Oik) | 3:34 |
+| 82 | [Ay Vidita](https://open.spotify.com/track/4GUppnqduxOfD6qmsQkGZe) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Los Tekis\-Los Elegidos](https://open.spotify.com/album/5hbPxNq1s1WJsQSDxyq0Ft) | 3:20 |
 | 83 | [La Oma](https://open.spotify.com/track/2e6rIzOlqItCOyrryCXKpl) | [Los Tucu Tucu](https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU) | [Tributo, Sus 20 Mejores Canciones](https://open.spotify.com/album/3XQCWyBzi6lMqpbL8GV7UZ) | 3:14 |
 | 84 | [Dios a la Una](https://open.spotify.com/track/4yioHSOUbNFggQSlFCg6HE) | [Daniel Altamirano](https://open.spotify.com/artist/1aI3fe7Zgy101dUMankLRx) | [Mi Ultima Canción](https://open.spotify.com/album/3TC7aNPSbpymAXQmWlM5hz) | 6:04 |
 | 85 | [La Refranera](https://open.spotify.com/track/5Gfx8iRscLs9CxaFCQPfmP) | [Orozco\-Barrientos](https://open.spotify.com/artist/23Pml8pDuAoLpaUxxGms4F) | [Tinto](https://open.spotify.com/album/1MOjni1IYZO2Iosd2U0vCq) | 3:23 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 | 89 | [La Pomeña](https://open.spotify.com/track/3iSkp3Yk2Eiw34ev6v38JY) | [Dúo Salteño](https://open.spotify.com/artist/5SAeZRhgmJhgq196BR1Mna) | [La Historia](https://open.spotify.com/album/00xeIIfZaedwrbPK61SuyI) | 3:53 |
 | 90 | [El Alazan](https://open.spotify.com/track/28AbmVT1sueLjRRYV984WI) | [Atahualpa Yupanqui](https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b) | [Las Canciones de Atahualpa Yupanqui](https://open.spotify.com/album/0A5XFZ01nfzgPdPnPULVjO) | 3:51 |
 
-Snapshot ID: `MTY1MDkxNjI2NywwMDAwMDAwMGQ5ZGY3OWFlNjlmZmEyOWM3OWFjODc3ODI5MDg3YTA2`
+Snapshot ID: `MTY1MDkxNjI2NywwMDAwMDAwMGRmNzhlM2FlYzI3M2MwNTkzMzFmMmE0YTA3ODA2OWJi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18jYOKSXaB2.md) - [plain]
 
 > consider this an RSVP to littest wedding parties
 
-[Spotify](https://open.spotify.com/user/spotify) - 663 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 667 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18jYOKSXaB2.md) - [plain]
 | 3 | [The Love Song \(feat\. Wande Coal\)](https://open.spotify.com/track/1Dv2XVRbsgjdvGVqFSVYUE) | [M.I\. Abaga](https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [The Guy](https://open.spotify.com/album/29rxfdTVf1LiDLwAF1qW8u) | 2:56 |
 | 4 | [san siro](https://open.spotify.com/track/59PSEuGHBGLvgZGXC4wpvG) | [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [san siro](https://open.spotify.com/album/5wlpYMbCXl8pBQu6mx5xQD) | 3:14 |
 | 5 | [love nwantiti \(ah ah ah\) \[feat\. Joeboy & Kuami Eugene\] \[Remix\]](https://open.spotify.com/track/140dx97IbJbQhIMd7AaHeb) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [love nwantiti \(ah ah ah\) \[feat\. Joeboy & Kuami Eugene\] \[Remix\]](https://open.spotify.com/album/4mI7w8746bh2UPt2LGeeEl) | 3:08 |
-| 6 | [Pakurumo](https://open.spotify.com/track/2EahSgwzCKSvJMM2BOzDDu) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Superstar](https://open.spotify.com/album/16xW2AvG6yVXJJ0ZYJ5Dlb) | 3:32 |
+| 6 | [Pakurumo](https://open.spotify.com/track/2EahSgwzCKSvJMM2BOzDDu) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Superstar](https://open.spotify.com/album/16xW2AvG6yVXJJ0ZYJ5Dlb) | 3:32 |
 | 7 | [More \(Ko Ko Ko\)](https://open.spotify.com/track/7nvtZM8QQZMzX3DTUo0vmJ) | [Dunnie](https://open.spotify.com/artist/5q1uxBdFXCDZDdNOw2rzD2) | [More \(Ko Ko Ko\)](https://open.spotify.com/album/7sgeYZTkSzmMbxuLcFrzIc) | 2:39 |
 | 8 | [Knee Down](https://open.spotify.com/track/3ovSaVUTDOtxfDw5xh9qJ4) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [B A H D](https://open.spotify.com/album/4XPvTEJV2cW7UxVPDV1EU8) | 2:27 |
 | 9 | [Legalize](https://open.spotify.com/track/1kd8fI9o55GNWvNOfzKcz5) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Legalize](https://open.spotify.com/album/1tEdcrmOZMzd3CACVkxvEV) | 2:26 |
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18jYOKSXaB2.md) - [plain]
 | 12 | [Assurance](https://open.spotify.com/track/3ZJblAM95vwSKA5IUloPJh) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [A Good Time](https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n) | 4:09 |
 | 13 | [Mood](https://open.spotify.com/track/6MxDZfKKNsiYwescOFGyY0) | [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK) | [Mood](https://open.spotify.com/album/5bonVIdxHsDgtdmzdLzVSp) | 2:36 |
 | 14 | [Like \(feat\. Kizz Daniel\)](https://open.spotify.com/track/5Zez1biAREA2C8706kdlIb) | [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Like \(feat\. Kizz Daniel\)](https://open.spotify.com/album/45UWuUIciHbsLfZeJhbuIB) | 2:30 |
-| 15 | [Essence \(feat\. Tems\)](https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 4:08 |
+| 15 | [Essence \(feat\. Tems\)](https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 4:08 |
 | 16 | [Rara](https://open.spotify.com/track/6cUNVadrO35cer0wgG7vVY) | [Waje](https://open.spotify.com/artist/6RaKdMfhnMdLFXvsWSZaa0) | [Waje 2.0](https://open.spotify.com/album/6Nob3kE5M2ZpgsIoIjRJnH) | 2:04 |
 | 17 | [Aye](https://open.spotify.com/track/7wh3ROxsX7i6GflbQGhGo7) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Aye](https://open.spotify.com/album/54KREqr92Gm0dbTLGHp0JE) | 3:55 |
 | 18 | [Find Somebody](https://open.spotify.com/track/5Pj1Fogn76Q2FE5JUMh50Q) | [P\-Square](https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk) | [Jaiye \(Ihe Geme\)](https://open.spotify.com/album/6oW8k8yOtMA04ypds2IFC0) | 3:27 |

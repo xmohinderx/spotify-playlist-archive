@@ -4,7 +4,7 @@
 
 > Ouça as novidades e sucessos do Pop Cristão\. Foto: Leidy Murilho
 
-80 songs - 4 hr 55 min - not published yet
+80 songs - 4 hr 55 min - [published](https://open.spotify.com/playlist/4QDjpH3HmVOxtM4Kgm7yQa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

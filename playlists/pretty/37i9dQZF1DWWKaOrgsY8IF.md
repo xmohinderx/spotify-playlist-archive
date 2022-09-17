@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKaOrgsY8IF.md) - [plain]
 
 > Las mejores canciones de pop latino durante el 2020\. En portada: Camilo
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,641 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,663 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKaOrgsY8IF.md) - [plain]
 | 32 | [Locura](https://open.spotify.com/track/5379uuUPHodsdVhy8pIAAr) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Colegio](https://open.spotify.com/album/6IJ3u6R56lp0AUT0W9snon) | 3:29 |
 | 33 | [Si Tú La Quieres](https://open.spotify.com/track/35qwAQ3oZeKAMhR3hCV9IM) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Si Tú La Quieres](https://open.spotify.com/album/7Hl7NKHiik1ckE2SI21RlU) | 3:44 |
 | 34 | [Imposible Amor](https://open.spotify.com/track/5zRusJsWuFeLu2sICWvVDF) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Tres](https://open.spotify.com/album/0dpI4KeBTPdazVzW1paxqh) | 3:08 |
-| 35 | [Santería](https://open.spotify.com/track/3VArTR8VPyOEiITj8SJMLv) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62) | [Santería](https://open.spotify.com/album/2m9hbe3YP1PXygWHN1gUAy) | 3:04 |
-| 36 | [Te Olvidé](https://open.spotify.com/track/0zRc5cHuMrulujN8t1XbYE) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Hecho En México](https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI) | 3:06 |
+| 35 | [Te Olvidé](https://open.spotify.com/track/0zRc5cHuMrulujN8t1XbYE) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Hecho En México](https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI) | 3:06 |
+| 36 | [Santería](https://open.spotify.com/track/3VArTR8VPyOEiITj8SJMLv) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62) | [Santería](https://open.spotify.com/album/2m9hbe3YP1PXygWHN1gUAy) | 3:04 |
 | 37 | [Se iluminaba](https://open.spotify.com/track/3VPOZWtj8mM89IiRNygxgS) | [Fred De Palma](https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q), [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Uebe](https://open.spotify.com/album/6ZWT9vaRmBayZ6wpm7c5Un) | 2:54 |
 | 38 | [Los Besos](https://open.spotify.com/track/6QSu3mgC8kUYtEDoBBQcJG) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Los Besos](https://open.spotify.com/album/0sjHYEx0vgbhUULHgJTFWs) | 3:22 |
 | 39 | [Tiburones](https://open.spotify.com/track/1zIshc2P9l5AZsOpJWmdTM) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Tiburones](https://open.spotify.com/album/5MeIHVfD8WaFm2NlkNPsCW) | 3:13 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKaOrgsY8IF.md) - [plain]
 | 59 | [Conocerte](https://open.spotify.com/track/1U4xYstX4dcJbjlGZ3sQy9) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [La Mexicana](https://open.spotify.com/album/3jvseqHtHdkQXMWDjsoT4C) | 2:56 |
 | 60 | [Me Equivocaré](https://open.spotify.com/track/4500Dr4dVfnQiMjaTC4oIq) | [Antonio José](https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8) | [Me Equivocaré](https://open.spotify.com/album/3kJtYTn44STQqsO6A1vF2b) | 2:32 |
 
-Snapshot ID: `MTYwNjg4NTcwMSwwMDAwMDAwMGM0Y2VjMzk1ZTdiNWZiMmRmYTM1NGVjOWRmODc4NjYy`
+Snapshot ID: `MTYwNjg4NTcwMSwwMDAwMDAwMDk0MjYyMTE3NWU1ZmVlYTQ1MTI0NTEzM2NiYWIxZTcz`

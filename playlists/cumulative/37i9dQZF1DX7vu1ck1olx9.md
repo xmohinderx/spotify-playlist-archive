@@ -4,7 +4,7 @@
 
 > Cool down with these chill beats
 
-131 songs - 5 hr 28 min - [published](https://open.spotify.com/playlist/1idItpP21h4PxE18P8Ie1N)
+132 songs - 5 hr 30 min - [published](https://open.spotify.com/playlist/1idItpP21h4PxE18P8Ie1N)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Honey](https://open.spotify.com/track/3QAyC3lilsgZ2ZyzMHibYN) | [Snaer.](https://open.spotify.com/artist/04piGA2IDgIevAiRL90Gt6) | [Honey](https://open.spotify.com/album/0skX6Q07XnamApCH3oWuAh) | 2:39 | 2020-11-12 | 2022-08-22 |
 | [I Thought I Had You](https://open.spotify.com/track/62SSYJZ70LM4WjPfZZlvQs) | [Kayou.](https://open.spotify.com/artist/4kTancl0Qa8Y7J0QKKTCrz) | [I Thought I Had You](https://open.spotify.com/album/6jnb7B0JuOKgFqzwg2QZXD) | 2:53 | 2020-11-12 |  |
 | [If It Moves](https://open.spotify.com/track/146q2OSfFlvk9VBKTKR2Ms) | [Michael Michaelson](https://open.spotify.com/artist/72FGRiJVcSofI5bOBzoilz) | [If It Moves](https://open.spotify.com/album/0v3jKmP16FeoC05qddyZnw) | 1:38 | 2020-11-12 |  |
+| [Inn](https://open.spotify.com/track/2hEgmgkHVDFf52Sxpc3Nh2) | [Benno](https://open.spotify.com/artist/4HYjlPJLk1PyVwuuy63o6L), [Disruptive LoFi](https://open.spotify.com/artist/7EvLN33JkyPlB7gpnonjHI) | [Inn](https://open.spotify.com/album/4Lh05HrYs2QKvRIaNN9oQG) | 2:11 | 2022-09-09 |  |
 | [It's Ok](https://open.spotify.com/track/19K24V0kGvNLFYCR8jMs88) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [It's Ok](https://open.spotify.com/album/0sDMveXrOxXh8eYtdREMek) | 2:48 | 2020-11-12 |  |
 | [Ji\-Eun's Sunset](https://open.spotify.com/track/0DvqAXyoA7zRB8wgH0DjRO) | [City Girl](https://open.spotify.com/artist/6yby1ACnfwVigbSSaH3kEQ) | [Neon Impasse](https://open.spotify.com/album/3M1CEjZiljxpfxoHFHoqNP) | 2:48 | 2020-11-12 |  |
 | [keep on](https://open.spotify.com/track/33cmTU5f3QszwFl8s8Lua9) | [L'Indécis](https://open.spotify.com/artist/5p1ichthTka1KT0iUvrlIu) | [keep on](https://open.spotify.com/album/0b86iKkcVMOttxQ99GwXMa) | 2:20 | 2020-11-12 |  |
@@ -87,7 +88,7 @@
 | [Night.Owls](https://open.spotify.com/track/6cNfp0BOhhlETMpN7pBsXY) | [flat.moon.society](https://open.spotify.com/artist/0OLMAT464ApMM9yAi03xdb) | [Night.Owls](https://open.spotify.com/album/4wHuyp7aHvQvmRDKBhTveN) | 2:43 | 2021-10-22 | 2022-07-29 |
 | [Nightcrawler](https://open.spotify.com/track/6D3YkHy51Mn7Ijdiz9WaIP) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT) | [Nightcrawler](https://open.spotify.com/album/79ogVC2RRrdipDKIXNf8zt) | 3:45 | 2020-11-12 |  |
 | [NightSky](https://open.spotify.com/track/5fpsn9LdAGXQbZcOwTs0WV) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC) | [NightSky](https://open.spotify.com/album/3i2d5SvAl9KbdvKDcbqwHu) | 3:04 | 2021-10-29 |  |
-| [Nuz An Tara](https://open.spotify.com/track/60ka7YNcrwXJOqxdgmytaz) | [SicknessMP](https://open.spotify.com/artist/31uUEuPkmv9b61QnayPF9U) | [Nuz An Tara](https://open.spotify.com/album/4zfqdXuhrSemPWGy4wX8ua) | 2:12 | 2020-11-12 |  |
+| [Nuz An Tara](https://open.spotify.com/track/60ka7YNcrwXJOqxdgmytaz) | [SicknessMP](https://open.spotify.com/artist/31uUEuPkmv9b61QnayPF9U) | [Nuz An Tara](https://open.spotify.com/album/4zfqdXuhrSemPWGy4wX8ua) | 2:12 | 2020-11-12 | 2022-09-17 |
 | [Nuz An Tara](https://open.spotify.com/track/7rwsFWNQmvPk7GovBbSE9U) | [SicknessMP](https://open.spotify.com/artist/31uUEuPkmv9b61QnayPF9U) | [Nuz An Tara](https://open.spotify.com/album/3AjEgD7OL43XaoqnGFrP9z) | 2:12 | 2020-11-12 | 2022-07-27 |
 | [Oracle Night](https://open.spotify.com/track/1tNpRWu5tHylrVuMAhzvNz) | [HM Surf](https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB) | [Chillhop Essentials Summer 2018](https://open.spotify.com/album/2ZV5zCY2tJBRn0EtLOj3gr) | 2:30 | 2020-11-12 | 2022-07-28 |
 | [Oracle Night](https://open.spotify.com/track/5sAxHA9vc2phSUff2793GX) | [HM Surf](https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB) | [Chillhop Essentials Summer 2018](https://open.spotify.com/album/2YvRkxlqhH67oyLI0xC1mM) | 2:30 | 2020-11-12 |  |

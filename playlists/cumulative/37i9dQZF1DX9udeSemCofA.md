@@ -4,7 +4,7 @@
 
 > Mellow out with this dub music.
 
-80 songs - 5 hr 13 min - [published](https://open.spotify.com/playlist/5rPWWmddDxoO2FirCSHDOY)
+82 songs - 5 hr 22 min - [published](https://open.spotify.com/playlist/5rPWWmddDxoO2FirCSHDOY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [Blood Money](https://open.spotify.com/track/7EGPjajqOZC7XvV7UgR8pW) | [10 Ft\. Ganja Plant](https://open.spotify.com/artist/0lsuCH8qG9UM8BihdL1Vsc) | [Bass Chalice](https://open.spotify.com/album/7kbd0wisKvRa3FSMkPItKw) | 3:56 | 2020-06-16 | 2022-07-29 |
 | [Brothers and Sisters](https://open.spotify.com/track/2OLssDLdq7vwHOlhRe53Zy) | [Butch Cassidy Sound System](https://open.spotify.com/artist/5G63bkLymqmiaIkrUZExGG) | [Butches Brew](https://open.spotify.com/album/772bVEvhc7IUfBZALChmh6) | 4:35 | 2022-03-09 |  |
 | [Burru Saturday](https://open.spotify.com/track/3lyehLFWwaQgRl8Hbjc3Ux) | [Sly](https://open.spotify.com/artist/7mh5yWKyUcN4xYhEJsWcxI), [Robbie](https://open.spotify.com/artist/52f9xu2VBr99vFO7bzxiLP) | [Blackwood Dub](https://open.spotify.com/album/09DhBkExGYrp5TH8EMWSiD) | 4:05 | 2020-06-16 | 2022-07-29 |
-| [Burru Saturday](https://open.spotify.com/track/2sL606OHLDkdUooRCuaOK5) | [Sly & Robbie](https://open.spotify.com/artist/6jJG408jz8VayohX86nuTt) | [Blackwood Dub](https://open.spotify.com/album/3DEo0xobmfAfLrIvJAjZli) | 4:05 | 2020-06-16 |  |
+| [Burru Saturday](https://open.spotify.com/track/2sL606OHLDkdUooRCuaOK5) | [Sly & Robbie](https://open.spotify.com/artist/6jJG408jz8VayohX86nuTt) | [Blackwood Dub](https://open.spotify.com/album/3DEo0xobmfAfLrIvJAjZli) | 4:05 | 2020-06-16 | 2022-09-17 |
+| [Burru Saturday](https://open.spotify.com/track/36uWGGkp14f5WNIQaStgAM) | [Sly & Robbie](https://open.spotify.com/artist/6jJG408jz8VayohX86nuTt) | [Blackwood Dub](https://open.spotify.com/album/0OX6gKGN8qW2dEjXCuWbFr) | 4:05 | 2022-09-08 |  |
 | [Burundi Black \- Rusty Egan First Remix](https://open.spotify.com/track/720qeUt7AMzpRC2wMUb1BW) | [Burundi Steiphenson Black](https://open.spotify.com/artist/5MJbGsO1l8G1er1HaygWe0) | [Burundi Black](https://open.spotify.com/album/5wZAX3KJkkV0iCL5a3J7Ew) | 7:09 | 2022-08-08 |  |
 | [Chanting Down The Wicked](https://open.spotify.com/track/7fbjerF8AlMCF4lCkyEiyG) | [The Robotiks](https://open.spotify.com/artist/6A14AEcZSKVvJ0YaBx1wxW), [Jah Shaka](https://open.spotify.com/artist/3UdoO8DiElu02b95ig57cC) | [Haunted Halloween Dub](https://open.spotify.com/album/6EZaAwvsxhKRoy4AzTWSz5) | 4:14 | 2020-06-16 |  |
 | [Conquering Lion](https://open.spotify.com/track/14oeeDI2wQO396JduPaWpx) | [Yabby You](https://open.spotify.com/artist/2vKNIZgOzsdLs8W40OZ4X8) | [One Love, One Heart](https://open.spotify.com/album/4ZhtDrkN0vMmMR4VRpMsLs) | 3:21 | 2020-06-16 |  |
@@ -76,7 +77,8 @@
 | [Sponji Reggae](https://open.spotify.com/track/6lnl40FdAdAmUZt1mtTOC3) | [Black Uhuru](https://open.spotify.com/artist/5keeQyPKYRxUCKDMECTXG3) | [What Is Life \- An Introduction To Black Uhuru](https://open.spotify.com/album/5RW6q6JEscCOVIN0BiEFKg) | 4:57 | 2020-06-16 | 2022-07-29 |
 | [Sunshine Dub](https://open.spotify.com/track/0j54ClXNKqQLFweBk0oawv) | [Prince Douglas](https://open.spotify.com/artist/1Z5aeTi3AY3GaKZr6m1sJu) | [Dub Roots](https://open.spotify.com/album/7atry0zfZzKkBqq5hwscnB) | 3:59 | 2022-08-08 |  |
 | [The Bomber](https://open.spotify.com/track/4z1wB5oMJcTrh0kUT5UCZJ) | [Sly](https://open.spotify.com/artist/7mh5yWKyUcN4xYhEJsWcxI), [Robbie](https://open.spotify.com/artist/52f9xu2VBr99vFO7bzxiLP) | [Blackwood Dub](https://open.spotify.com/album/09DhBkExGYrp5TH8EMWSiD) | 4:30 | 2020-06-16 | 2022-07-29 |
-| [The Bomber](https://open.spotify.com/track/7DdyGXi2DLbxWyOJT20P12) | [Sly & Robbie](https://open.spotify.com/artist/6jJG408jz8VayohX86nuTt) | [Blackwood Dub](https://open.spotify.com/album/3DEo0xobmfAfLrIvJAjZli) | 4:30 | 2020-06-16 |  |
+| [The Bomber](https://open.spotify.com/track/5F39feJJYyUgRCwZJ5RBSP) | [Sly & Robbie](https://open.spotify.com/artist/6jJG408jz8VayohX86nuTt) | [Blackwood Dub](https://open.spotify.com/album/0OX6gKGN8qW2dEjXCuWbFr) | 4:30 | 2022-09-08 |  |
+| [The Bomber](https://open.spotify.com/track/7DdyGXi2DLbxWyOJT20P12) | [Sly & Robbie](https://open.spotify.com/artist/6jJG408jz8VayohX86nuTt) | [Blackwood Dub](https://open.spotify.com/album/3DEo0xobmfAfLrIvJAjZli) | 4:30 | 2020-06-16 | 2022-09-17 |
 | [The Loser](https://open.spotify.com/track/3AGEHHqBOnAmQiJxxbasJu) | [Derrick Harriott](https://open.spotify.com/artist/1ht9oSlPiNywrg22T2sM8d) | [The Loser / Now We Know](https://open.spotify.com/album/3Q9nz0AiROFVdjAwNDpwhv) | 3:38 | 2020-06-16 |  |
 | [Throw Away Your Gun \- 1991 Digital Remaster](https://open.spotify.com/track/65TNC2zSsAOnTcHcvZ1o76) | [Prince Far I](https://open.spotify.com/artist/6BkTUVaHHgKUAjc4U7xGUL) | [Dubwise](https://open.spotify.com/album/06PpN3LxxkiDYB5miBhUa2) | 4:23 | 2020-06-16 |  |
 | [Under Mi Sensi](https://open.spotify.com/track/2TBOlAo3jhW00nKl5EIhYo) | [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [Here I Come](https://open.spotify.com/album/2FYgSbuEn19zQd7ek9azyl) | 3:11 | 2020-06-16 | 2022-03-10 |

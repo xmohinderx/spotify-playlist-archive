@@ -4,7 +4,7 @@
 
 > This is Montell Fish\. The essential tracks, all in one playlist.
 
-50 songs - 2 hr 48 min - not published yet
+51 songs - 2 hr 51 min - [published](https://open.spotify.com/playlist/7KOOkYyd9ZT4DmcehRF0as)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [Hollow Lover](https://open.spotify.com/track/0wqfPpcKewaI7muAVNzo2x) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Hollow Lover](https://open.spotify.com/album/6oU83NRccLBCqr1JI92MLi) | 3:07 | 2022-09-14 |  |
 | [Home](https://open.spotify.com/track/2xWxHd24lHBTnjl7SnbXB0) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Nights & Days.](https://open.spotify.com/album/13G65Pa4a3yM8pfN8wLrH3) | 3:53 | 2022-09-14 |  |
 | [Home for the Holidays](https://open.spotify.com/track/7yrfKopuTvSnedT9sfcG74) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [A Lofi Christmas.](https://open.spotify.com/album/18o8Xw3IFfjR6IoLsoY8xO) | 1:24 | 2022-09-14 |  |
-| [Jamie](https://open.spotify.com/track/5B6OqIgm8mDWKkHV29Qnr9) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 3:36 | 2022-09-14 |  |
+| [Jamie](https://open.spotify.com/track/5B6OqIgm8mDWKkHV29Qnr9) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 3:36 | 2022-09-14 | 2022-09-17 |
+| [Last Dance](https://open.spotify.com/track/3Kfh2IIk7nehym6iv2Ru8P) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 3:09 | 2022-09-16 |  |
 | [Let Go of Your Pain](https://open.spotify.com/track/4s6nmgS7txLnFJskJ2dtu3) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [It's Beautiful.](https://open.spotify.com/album/0khCz22f39wIV6FcizFYIo) | 3:40 | 2022-09-14 |  |
 | [Lost](https://open.spotify.com/track/1p0krUFuFcLI9PugCfMTO9) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Nights & Days.](https://open.spotify.com/album/13G65Pa4a3yM8pfN8wLrH3) | 4:35 | 2022-09-14 |  |
 | [Love Unite](https://open.spotify.com/track/4ixb2UjT4Yu5CRHNXHHSdK) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Bedroom Gospel](https://open.spotify.com/album/17OvPOdUGOGawt0dhZa9Uk) | 2:44 | 2022-09-14 |  |

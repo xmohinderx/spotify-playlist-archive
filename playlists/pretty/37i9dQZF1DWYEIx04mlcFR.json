@@ -1,13 +1,29 @@
 {
-  "description": "la nueva ola de artistas con Kevin Kaarl en portada. \ud83c\udf0a\u2728 ",
-  "num_followers": 30694,
+  "description": "la nueva ola de artistas con Dannylux en portada. \ud83c\udf0a\u2728 ",
+  "num_followers": 30714,
   "original_name": "la pop~wave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5OTYwMCwwMDAwMDAwMDc2OTZhNWMwMDIyMmM0ZTExNmFjYTczOWE1Zjc0M2M3",
+  "snapshot_id": "MTY2MzMwNDQwMCwwMDAwMDAwMGZmZTFlYjY5NTllYjgzZjI2NmNhYjc5OTcyMDEwMTVk",
   "tracks": [
+    {
+      "added_at": "2022-09-02 05:00:00",
+      "album": {
+        "name": "Limerencia",
+        "url": "https://open.spotify.com/album/4d9KK2351FK3PAzlqfy8yj"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 226636,
+      "name": "No Te Quiero Perder",
+      "url": "https://open.spotify.com/track/4AwlNIyid3oRyNqX61kTKt"
+    },
     {
       "added_at": "2022-08-31 19:10:38",
       "album": {
@@ -27,22 +43,38 @@
     {
       "added_at": "2022-09-09 05:00:00",
       "album": {
-        "name": "Intenciones",
-        "url": "https://open.spotify.com/album/6UInVEPu90rc9kk8ijJux3"
+        "name": "Los d\u00edas grises",
+        "url": "https://open.spotify.com/album/1BiOsRrV9gfQy0v3ewhGE8"
       },
       "artists": [
         {
-          "name": "Mario Puglia",
-          "url": "https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT"
-        },
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
         }
       ],
-      "duration_ms": 163600,
-      "name": "Intenciones",
-      "url": "https://open.spotify.com/track/5S9qL73dCtClMT4yUsiO8u"
+      "duration_ms": 139489,
+      "name": "Los d\u00edas grises",
+      "url": "https://open.spotify.com/track/3YrlU10R1uM57XBfJry0NG"
+    },
+    {
+      "added_at": "2022-09-16 05:00:00",
+      "album": {
+        "name": "Dueles Tan Bien (Donovan's Playground Remix)",
+        "url": "https://open.spotify.com/album/5y09I1r5zOh9Fsbbm8AUir"
+      },
+      "artists": [
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        },
+        {
+          "name": "Donovan's Playground",
+          "url": "https://open.spotify.com/artist/67tuLuJ6EoOTR1KntyUnHQ"
+        }
+      ],
+      "duration_ms": 168642,
+      "name": "Dueles Tan Bien (Donovan's Playground Remix)",
+      "url": "https://open.spotify.com/track/62MO58gO3RjXkydHvn8UnS"
     },
     {
       "added_at": "2022-08-26 18:55:21",
@@ -65,56 +97,24 @@
       "url": "https://open.spotify.com/track/5E2iOjnZGDVjfGZygtISw9"
     },
     {
-      "added_at": "2022-09-02 05:00:00",
-      "album": {
-        "name": "Limerencia",
-        "url": "https://open.spotify.com/album/4d9KK2351FK3PAzlqfy8yj"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 226636,
-      "name": "No Te Quiero Perder",
-      "url": "https://open.spotify.com/track/4AwlNIyid3oRyNqX61kTKt"
-    },
-    {
       "added_at": "2022-09-09 05:00:00",
       "album": {
-        "name": "Los d\u00edas grises",
-        "url": "https://open.spotify.com/album/1BiOsRrV9gfQy0v3ewhGE8"
+        "name": "Intenciones",
+        "url": "https://open.spotify.com/album/6UInVEPu90rc9kk8ijJux3"
       },
       "artists": [
         {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
-        }
-      ],
-      "duration_ms": 139489,
-      "name": "Los d\u00edas grises",
-      "url": "https://open.spotify.com/track/3YrlU10R1uM57XBfJry0NG"
-    },
-    {
-      "added_at": "2022-08-26 18:55:21",
-      "album": {
-        "name": "DAMN!",
-        "url": "https://open.spotify.com/album/6ISGikUMrS710I2NF5Ityr"
-      },
-      "artists": [
-        {
-          "name": "Sexy Pigeon",
-          "url": "https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U"
+          "name": "Mario Puglia",
+          "url": "https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT"
         },
         {
           "name": "RENEE",
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 117606,
-      "name": "DAMN!",
-      "url": "https://open.spotify.com/track/1uGCxUV2OJngJan7DKjGCo"
+      "duration_ms": 163600,
+      "name": "Intenciones",
+      "url": "https://open.spotify.com/track/5S9qL73dCtClMT4yUsiO8u"
     },
     {
       "added_at": "2022-08-26 18:55:21",
@@ -167,6 +167,30 @@
     {
       "added_at": "2022-08-26 18:55:21",
       "album": {
+        "name": "Fantasy Gateway",
+        "url": "https://open.spotify.com/album/7JvjOgEBBcrLs9048x1QcM"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        },
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        },
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 232298,
+      "name": "Sitting In The Corner (feat. Adriel Favela & Kacey Musgraves)",
+      "url": "https://open.spotify.com/track/1Cx5pTBRWI67JXVmMGJT23"
+    },
+    {
+      "added_at": "2022-08-26 18:55:21",
+      "album": {
         "name": "todo bien :-)",
         "url": "https://open.spotify.com/album/0pqsmplZSZwf7iLoj9P2pS"
       },
@@ -199,30 +223,6 @@
       "duration_ms": 162077,
       "name": "Miel",
       "url": "https://open.spotify.com/track/5JdlC0CC89wD1UHJBENJRY"
-    },
-    {
-      "added_at": "2022-08-26 18:55:21",
-      "album": {
-        "name": "Fantasy Gateway",
-        "url": "https://open.spotify.com/album/7JvjOgEBBcrLs9048x1QcM"
-      },
-      "artists": [
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        },
-        {
-          "name": "Adriel Favela",
-          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
-        },
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 232298,
-      "name": "Sitting In The Corner (feat. Adriel Favela & Kacey Musgraves)",
-      "url": "https://open.spotify.com/track/1Cx5pTBRWI67JXVmMGJT23"
     },
     {
       "added_at": "2022-09-02 05:00:00",
@@ -303,6 +303,26 @@
       "duration_ms": 187933,
       "name": "Paralizado",
       "url": "https://open.spotify.com/track/1FEYsHYeKFrNzWm6R3OM30"
+    },
+    {
+      "added_at": "2022-08-26 18:55:21",
+      "album": {
+        "name": "DAMN!",
+        "url": "https://open.spotify.com/album/6ISGikUMrS710I2NF5Ityr"
+      },
+      "artists": [
+        {
+          "name": "Sexy Pigeon",
+          "url": "https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 117606,
+      "name": "DAMN!",
+      "url": "https://open.spotify.com/track/1uGCxUV2OJngJan7DKjGCo"
     },
     {
       "added_at": "2022-08-26 18:55:21",
@@ -1099,26 +1119,6 @@
       "duration_ms": 210425,
       "name": "Recuerdos Que Torturan",
       "url": "https://open.spotify.com/track/6cZXekrGcyPkuTAUiyKzIW"
-    },
-    {
-      "added_at": "2022-08-26 18:55:21",
-      "album": {
-        "name": "Quiero Quedarme para Siempre",
-        "url": "https://open.spotify.com/album/7AQmikvyjRWLYx5cey4JIG"
-      },
-      "artists": [
-        {
-          "name": "La La Love You",
-          "url": "https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ"
-        },
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 189310,
-      "name": "Quiero Quedarme para Siempre",
-      "url": "https://open.spotify.com/track/3du9ocej65TycajaDfw8j9"
     },
     {
       "added_at": "2022-08-26 18:55:21",

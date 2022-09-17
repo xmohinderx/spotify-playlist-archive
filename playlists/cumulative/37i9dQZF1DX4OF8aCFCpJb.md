@@ -4,7 +4,7 @@
 
 > Det bästa från den svenska reggaescenen.
 
-204 songs - 12 hr 3 min - [published](https://open.spotify.com/playlist/7yF7K05YVtBZlFxXJKjSU8)
+205 songs - 12 hr 8 min - [published](https://open.spotify.com/playlist/7yF7K05YVtBZlFxXJKjSU8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Sanna Mina Ord](https://open.spotify.com/track/6N9Epd4Ia8HZJfQTh1Wf22) | [Kikko](https://open.spotify.com/artist/4OOpr3GpdupraAdP9XBROY), [Don Paco](https://open.spotify.com/artist/27zaNoAsIGZZTslZITECBs) | [Sanna Mina Ord](https://open.spotify.com/album/32quvhcWw4de7JoQENCZ5B) | 4:09 | 2022-06-23 |  |
 | [Skin](https://open.spotify.com/track/4Y3ZFOlvVcLJGcjFxW8RI7) | [Ras Cricket](https://open.spotify.com/artist/69TksjsHjLqscQcE72fevH) | [Min Tid](https://open.spotify.com/album/3wvYqA14BqE7oORSVlauJv) | 2:56 | 2021-12-14 |  |
 | [Smugglaren](https://open.spotify.com/track/233P1DUo0GMAjHrZVgIQ16) | [Allyawan](https://open.spotify.com/artist/5Pcez7u1H2Po6e2LmMdF3f), [Eek\-A\-Mouse](https://open.spotify.com/artist/6xqlgBccdlxUh5DeJSx2ho) | [Smugglaren](https://open.spotify.com/album/4IyWA2WBZ1ieeqdkRLThte) | 4:20 | 2021-12-14 | 2022-09-05 |
+| [Smugglaren](https://open.spotify.com/track/6vZ3MadtYqe7xEITIJbcr0) | [Allyawan](https://open.spotify.com/artist/5Pcez7u1H2Po6e2LmMdF3f), [Eek\-A\-Mouse](https://open.spotify.com/artist/6xqlgBccdlxUh5DeJSx2ho) | [One](https://open.spotify.com/album/0VNoWNuBCHyc0ibxfyxyEI) | 4:20 | 2022-07-15 |  |
 | [Små svarta änglar](https://open.spotify.com/track/4XzlEOyf4X1pHCujvUlYN7) | [Kalle Baah](https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI) | [Blacka Rasta](https://open.spotify.com/album/6a8pZmRJxeCPG7XUFGiCYG) | 3:31 | 2021-12-14 |  |
 | [Snapphaneklanen](https://open.spotify.com/track/3EydYrQ928AaTupbfBe8XH) | [Svenska Akademien](https://open.spotify.com/artist/3BPemeIazbWrWKNMeorJvS) | [Upphovsmännen Till Den Skånska Raggan](https://open.spotify.com/album/3wqqrtVGYmw2ryOlOegw3R) | 3:51 | 2021-12-14 | 2022-07-28 |
 | [Snapphaneklanen](https://open.spotify.com/track/6N5mfsqU4tDboMO06hj998) | [Svenska Akademien](https://open.spotify.com/artist/3BPemeIazbWrWKNMeorJvS) | [Upphovsmännen Till Den Skånska Raggan](https://open.spotify.com/album/3GnD6DC1LX4ItAbSZHWDkg) | 3:51 | 2022-07-15 |  |
@@ -170,7 +171,7 @@
 | [Säg Till Mig](https://open.spotify.com/track/2hwH19DHE3ZUY0mFamo9wL) | [Antonio D](https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG) | [Säg Till Mig](https://open.spotify.com/album/36p7buidQlnzHhmXWnkGLW) | 4:20 | 2021-12-14 | 2022-07-31 |
 | [Så fakking fin](https://open.spotify.com/track/4fmeEPi8QtqhvEBHtedhSQ) | [Robinholta](https://open.spotify.com/artist/0xsZpPENdV56KIViR6yFDc) | [Så fakking fin](https://open.spotify.com/album/3YvgJQ8Tp2pDZWX7iBjdKA) | 2:40 | 2021-12-14 | 2022-07-27 |
 | [Såna ögon](https://open.spotify.com/track/1i5mgpA55CwusMHk60brcU) | [Moncho](https://open.spotify.com/artist/6L1yXwZajCFJsGZcCIRuTc), [Naasty](https://open.spotify.com/artist/70TySYlQjHgABej9yaENJA), [Linda Pira](https://open.spotify.com/artist/0qeei9KQnptjwb8MgkqEoy) | [Såna ögon](https://open.spotify.com/album/5ppjkcjRmiWpmmdaHYGoaj) | 2:52 | 2021-12-14 |  |
-| [Teaterapan](https://open.spotify.com/track/6uZEw8eryA76WSAST3yIiv) | [Jezper](https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF) | [Teaterapan](https://open.spotify.com/album/1GCkDBZQ9hOKUcRBfNgLTr) | 3:02 | 2021-12-14 |  |
+| [Teaterapan](https://open.spotify.com/track/6uZEw8eryA76WSAST3yIiv) | [Jezper](https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF) | [Teaterapan](https://open.spotify.com/album/1GCkDBZQ9hOKUcRBfNgLTr) | 3:02 | 2021-12-14 | 2022-09-17 |
 | [Tid att tro](https://open.spotify.com/track/0MI0zmhQHMnHYHFO5sH4rC) | [Tommy Almighty](https://open.spotify.com/artist/09mz3Et4yBgKkcCOHQPqVc) | [Tid att tro](https://open.spotify.com/album/1zrftLmP28eQmzksrliV5C) | 3:36 | 2021-12-14 | 2022-06-23 |
 | [Tippa på tå](https://open.spotify.com/track/1PKRouxQ3KghcyU2UovQlF) | [Kaliffa](https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY) | [Tippa på tå](https://open.spotify.com/album/5JgVSX1xqeYviplcfs3qfu) | 3:01 | 2022-07-15 |  |
 | [Tippa på tå](https://open.spotify.com/track/2AlEaDRYdzPMRIpRMUNWMc) | [Kaliffa](https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY) | [Tippa på tå](https://open.spotify.com/album/2nLSbsdzljaDiSJ2W4onKB) | 3:01 | 2021-12-14 | 2022-07-23 |

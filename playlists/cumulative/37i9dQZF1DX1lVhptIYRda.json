@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "Today's top country hits of the week, worldwide! Cover: Kane Brown",
+  "description": "Today's top country hits of the week, worldwide! Cover: Mitchell Tenpenny",
   "name": "Hot Country",
   "published_playlist_ids": [
     "6kgRyUaLssWEGETpjboDD4"
@@ -3301,7 +3301,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 208066,
       "name": "Good Friends",
       "url": "https://open.spotify.com/track/5HVc3YeNKDFomPhXBKE90U"
@@ -3319,7 +3319,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 202178,
       "name": "Good Ol' Man",
       "url": "https://open.spotify.com/track/106WZMD4t61E3WIBPtXTDK"
@@ -3986,6 +3986,24 @@
     },
     {
       "album": {
+        "name": "Hell Yeah",
+        "url": "https://open.spotify.com/album/0IqcqqXBaXwUx1IV2jHb6I"
+      },
+      "artists": [
+        {
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175840,
+      "name": "Hell Yeah",
+      "url": "https://open.spotify.com/track/0BkzrrQUzJhCAFk3Pq7g29"
+    },
+    {
+      "album": {
         "name": "Here And Now",
         "url": "https://open.spotify.com/album/0CBezlC6aZNKVf2554t53k"
       },
@@ -4398,6 +4416,24 @@
     },
     {
       "album": {
+        "name": "Humble Quest",
+        "url": "https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169306,
+      "name": "I Can't Love You Anymore",
+      "url": "https://open.spotify.com/track/4tKtMWS8LZRvWhzuHKRIdr"
+    },
+    {
+      "album": {
         "name": "I Do",
         "url": "https://open.spotify.com/album/27dgpQqUEyDX8hMPDPp4aZ"
       },
@@ -4677,6 +4713,24 @@
       "duration_ms": 172106,
       "name": "I'm Not For Everyone",
       "url": "https://open.spotify.com/track/143YESFOZqxVGrKEWisbid"
+    },
+    {
+      "album": {
+        "name": "P.S.",
+        "url": "https://open.spotify.com/album/5HLVKjqh4u4a3NQhnxpz7i"
+      },
+      "artists": [
+        {
+          "name": "Kylie Morgan",
+          "url": "https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174173,
+      "name": "If He Wanted To He Would",
+      "url": "https://open.spotify.com/track/3nei8eHEdiwwSfyoOCHPZI"
     },
     {
       "album": {
@@ -5337,7 +5391,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 234340,
       "name": "Like I Love Country Music",
       "url": "https://open.spotify.com/track/3j1xkzTW8owIphkWV51V9s"
@@ -8572,6 +8626,24 @@
     },
     {
       "album": {
+        "name": "Tennessee Orange",
+        "url": "https://open.spotify.com/album/24A7V0wuRxrZb2xv0QLqZ1"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223119,
+      "name": "Tennessee Orange",
+      "url": "https://open.spotify.com/track/29zZmiBDLykYYTj7RN6VhV"
+    },
+    {
+      "album": {
         "name": "Heartache Medication",
         "url": "https://open.spotify.com/album/2ny0Q7DWoI2GH1TlQTuBdD"
       },
@@ -9607,6 +9679,24 @@
       "duration_ms": 163960,
       "name": "We Go Together Like",
       "url": "https://open.spotify.com/track/3mwQ4tEWBWynjw7HJgMiRA"
+    },
+    {
+      "album": {
+        "name": "This Is the Heavy",
+        "url": "https://open.spotify.com/album/7hWoBHqzfN4QMcVPFSqbBS"
+      },
+      "artists": [
+        {
+          "name": "Mitchell Tenpenny",
+          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203680,
+      "name": "We Got History",
+      "url": "https://open.spotify.com/track/6Awl7JBDQjfm7xkS3LkhDi"
     },
     {
       "album": {

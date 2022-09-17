@@ -4,7 +4,7 @@
 
 > 빗방울대신 감성을 맞는 시간.
 
-187 songs - 11 hr 28 min - [published](https://open.spotify.com/playlist/05K73QU8xNffboBfRI8ruF)
+188 songs - 11 hr 32 min - [published](https://open.spotify.com/playlist/05K73QU8xNffboBfRI8ruF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [A Kind Of Confession \(Male Ver.\)](https://open.spotify.com/track/5w1sW9Gr8fBBy82f21uF0s) | [Kwak jineon](https://open.spotify.com/artist/5NBDM7OpuuyUNtlLLxTYWD) | [My Liberation Notes OST Part 9](https://open.spotify.com/album/19Ya0jFcV7U0opVyJqRHCV) | 3:56 | 2022-06-20 |  |
 | [Abnormal Climate](https://open.spotify.com/track/67dt4RsTHDhCTbnrqKzhX9) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Forecasting Love and Weather \(Original Television Soundtrack\), Pt\. 8](https://open.spotify.com/album/0XHinGNkFWk58KpzLxU5QF) | 4:06 | 2022-06-20 | 2022-08-10 |
 | [alarm](https://open.spotify.com/track/3rLJg6e2JKJBaQL1LTBHJO) | [saeneok](https://open.spotify.com/artist/0HFyqg6Dwupd1p9SbNDEzL) | [tinge](https://open.spotify.com/album/6PzWM3WP8bBlBlY1a90vjT) | 6:12 | 2022-07-04 | 2022-07-09 |
-| [Alive with you \(feat\. SFC.JGR\)](https://open.spotify.com/track/3jLd5QpiODmjFrZnDj32o4) | [Yel](https://open.spotify.com/artist/6vz9KUVgEo1gXIobqiwJ15), [SFC.JGR](https://open.spotify.com/artist/6Ia8wkjjUXRx9jqFsVJqHQ) | [Alive with you](https://open.spotify.com/album/7cQ8kH5jyOLLZuAJUhccUT) | 3:23 | 2022-08-19 |  |
+| [Alive with you \(feat\. SFC.JGR\)](https://open.spotify.com/track/3jLd5QpiODmjFrZnDj32o4) | [Yel](https://open.spotify.com/artist/6vz9KUVgEo1gXIobqiwJ15), [SFC.JGR](https://open.spotify.com/artist/6Ia8wkjjUXRx9jqFsVJqHQ) | [Alive with you](https://open.spotify.com/album/7cQ8kH5jyOLLZuAJUhccUT) | 3:23 | 2022-08-19 | 2022-09-17 |
 | [All Night Long \(She is My Type♡ X Car, the garden\)](https://open.spotify.com/track/797XRv2RhIp9qHeKG42HzD) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [All Night Long \(She is My Type♡ X Car, the garden\)](https://open.spotify.com/album/5P3m24aXWEmpq8LoYVzofm) | 3:19 | 2022-06-20 | 2022-08-14 |
 | [All the lies](https://open.spotify.com/track/7kJIOZI4WdcD8oOXCSjtBf) | [Jang Jane](https://open.spotify.com/artist/41QP3s5kY0UroKcIeASAMY) | [The Quest for Anxiety](https://open.spotify.com/album/1Jdr1Jz2MlBSrxavzxjEmy) | 4:35 | 2022-07-13 | 2022-07-19 |
 | [Alone At Night \(feat\. ByulHa\)](https://open.spotify.com/track/53OitzmAKmu0m9pdOurszx) | [SIM2](https://open.spotify.com/artist/6RuP6GVxx8trGK6dINhoUR), [ByulHa](https://open.spotify.com/artist/0206jPAMaD9eYyqADY140j) | [Alone At Night](https://open.spotify.com/album/5OloxqiMnBSs2kcthpVrFE) | 3:40 | 2022-07-04 | 2022-07-29 |
@@ -116,6 +116,7 @@
 | [One another \- 2020](https://open.spotify.com/track/47XU3vkc7Y8Mx1qHDvh0hh) | [We Are The Night](https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw) | [One another \(2020\)](https://open.spotify.com/album/2bxPT0H1Dxyp0TIvjV5aP7) | 3:26 | 2022-06-29 | 2022-07-27 |
 | [Only Longing Grows](https://open.spotify.com/track/2crkSPXNfENoVob10TfTTh) | [O.WHEN](https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq) | [Love Interference 2022 \(Original Television Soundtrack\), Pt.15](https://open.spotify.com/album/58uielBksTKu8wfbWBfJxC) | 3:53 | 2022-08-02 | 2022-08-14 |
 | [Orchid](https://open.spotify.com/track/3SHWZfmeWMQ7nummOHjtLP) | [LEEHEESANG](https://open.spotify.com/artist/6zJiJ82GmaUZF8TwTPktsz) | [Orchid](https://open.spotify.com/album/5bgIq10LAmMuagnq8qOmiZ) | 4:05 | 2022-07-04 | 2022-07-06 |
+| [Our Forgiveness](https://open.spotify.com/track/6xVlRWDlQDna2yVCwOPE30) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Our Forgiveness](https://open.spotify.com/album/1K8aYJrq8a8WiwNniSuzrw) | 3:19 | 2022-09-05 |  |
 | [overdose](https://open.spotify.com/track/3B4Rxj4UItYuHyppE8S0gU) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5) | [overdose](https://open.spotify.com/album/7gWO40G0L1xaZ0wEmiLmr8) | 4:15 | 2022-06-20 |  |
 | [Overflow](https://open.spotify.com/track/4zf4gt42CLmQXakI2jzfy4) | [jeebanoff](https://open.spotify.com/artist/6FK6uP46ntwU9gaQQxTlDV) | [Overflow](https://open.spotify.com/album/1nwb0n8emaeZ6Y7CnA8TLh) | 3:29 | 2022-07-22 | 2022-08-14 |
 | [Overflow](https://open.spotify.com/track/5K04nRvbEVPSTbv4wjNSzw) | [jeebanoff](https://open.spotify.com/artist/6FK6uP46ntwU9gaQQxTlDV) | [Overflow](https://open.spotify.com/album/0cjjNELL17LadJWePUAh9b) | 3:29 | 2022-06-20 | 2022-07-27 |

@@ -1,12 +1,12 @@
 {
   "description": "Deja que el sentimiento de los boleros te enamore a la antigua.",
-  "num_followers": 36493,
+  "num_followers": 36543,
   "original_name": "B\u00e9same Mucho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDUyMTcxOCwwMDAwMDAwMDE1NzYxOGJmYzA4ZTI1MDQ5ZGM4ZDdmNzRkNWZmNDgy",
+  "snapshot_id": "MTY0MDUyMTcxOCwwMDAwMDAwMDM2MjRlNjVkM2UyOTg5M2E5ZWEwYzA1ODYyOGMxZDky",
   "tracks": [
     {
       "added_at": "2021-12-26 12:28:38",
@@ -212,7 +212,7 @@
       "added_at": "2021-12-26 12:28:38",
       "album": {
         "name": "Los Tres Caballeros",
-        "url": "https://open.spotify.com/album/0a7XFwltXqVxLHjgYp5rOQ"
+        "url": "https://open.spotify.com/album/0g3tdBXHTP9VgftkbXnVPI"
       },
       "artists": [
         {
@@ -220,9 +220,9 @@
           "url": "https://open.spotify.com/artist/0ou4IrIjMSANpaPTL8lC3F"
         }
       ],
-      "duration_ms": 178677,
-      "name": "Noche No Te Vayas",
-      "url": "https://open.spotify.com/track/5PG0KLm66uabwKFWSGNe5U"
+      "duration_ms": 182206,
+      "name": "El Reloj",
+      "url": "https://open.spotify.com/track/27u17peWruKyUe7RfBglZC"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -340,7 +340,7 @@
       "added_at": "2021-12-26 12:28:38",
       "album": {
         "name": "Los Tres Caballeros",
-        "url": "https://open.spotify.com/album/0g3tdBXHTP9VgftkbXnVPI"
+        "url": "https://open.spotify.com/album/0a7XFwltXqVxLHjgYp5rOQ"
       },
       "artists": [
         {
@@ -348,25 +348,9 @@
           "url": "https://open.spotify.com/artist/0ou4IrIjMSANpaPTL8lC3F"
         }
       ],
-      "duration_ms": 182206,
-      "name": "El Reloj",
-      "url": "https://open.spotify.com/track/27u17peWruKyUe7RfBglZC"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
-        "name": "Los Tecolines: Bolero Romantico",
-        "url": "https://open.spotify.com/album/2HaemXURrtkV1aOjGgXq2S"
-      },
-      "artists": [
-        {
-          "name": "Los Tecolines",
-          "url": "https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv"
-        }
-      ],
-      "duration_ms": 182151,
-      "name": "Cerezo Rosa",
-      "url": "https://open.spotify.com/track/37Z7PlwDB0OUv2VWHO3tPw"
+      "duration_ms": 178677,
+      "name": "Noche No Te Vayas",
+      "url": "https://open.spotify.com/track/5PG0KLm66uabwKFWSGNe5U"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -383,6 +367,22 @@
       "duration_ms": 118933,
       "name": "Contigo Aprend\u00ed",
       "url": "https://open.spotify.com/track/7IcqJ3eMGs7pJ1BOCgPSFu"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
+        "name": "Los Tecolines: Bolero Romantico",
+        "url": "https://open.spotify.com/album/2HaemXURrtkV1aOjGgXq2S"
+      },
+      "artists": [
+        {
+          "name": "Los Tecolines",
+          "url": "https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv"
+        }
+      ],
+      "duration_ms": 182151,
+      "name": "Cerezo Rosa",
+      "url": "https://open.spotify.com/track/37Z7PlwDB0OUv2VWHO3tPw"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -619,6 +619,22 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
+        "name": "Las 30 grandes de Chavela Vargas",
+        "url": "https://open.spotify.com/album/5PBV4NRJsndZpe2cbIejt2"
+      },
+      "artists": [
+        {
+          "name": "Chavela Vargas",
+          "url": "https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c"
+        }
+      ],
+      "duration_ms": 155773,
+      "name": "Toda una vida",
+      "url": "https://open.spotify.com/track/3uNjBiROyJVAz2ez2Qc4dD"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
         "name": "Canta",
         "url": "https://open.spotify.com/album/34SGNnZ6tCYw7v00Y0H6KZ"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 190760,
       "name": "Delirio",
       "url": "https://open.spotify.com/track/23lcRsgi0OWWUaUmpHctS8"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
-        "name": "Las 30 grandes de Chavela Vargas",
-        "url": "https://open.spotify.com/album/5PBV4NRJsndZpe2cbIejt2"
-      },
-      "artists": [
-        {
-          "name": "Chavela Vargas",
-          "url": "https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c"
-        }
-      ],
-      "duration_ms": 155773,
-      "name": "Toda una vida",
-      "url": "https://open.spotify.com/track/3uNjBiROyJVAz2ez2Qc4dD"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -755,6 +755,22 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
+        "name": "The Golden Record Vol. 2",
+        "url": "https://open.spotify.com/album/7yNwQGXtWVHxTqdXFf8eLf"
+      },
+      "artists": [
+        {
+          "name": "Los Tres Reyes",
+          "url": "https://open.spotify.com/artist/6QZS9lcGeckgZNy0PN7R7u"
+        }
+      ],
+      "duration_ms": 188773,
+      "name": "En Mi Viejo San Juan",
+      "url": "https://open.spotify.com/track/60fBitJmPKw266klMQ9hvm"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
         "name": "Latin Trumpets - Bolero",
         "url": "https://open.spotify.com/album/3E15XVDoZD3HO4rmbxN27K"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 231493,
       "name": "Veronica",
       "url": "https://open.spotify.com/track/4rEybMVb5H7glCSbezlEAL"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
-        "name": "The Golden Record Vol. 2",
-        "url": "https://open.spotify.com/album/7yNwQGXtWVHxTqdXFf8eLf"
-      },
-      "artists": [
-        {
-          "name": "Los Tres Reyes",
-          "url": "https://open.spotify.com/artist/6QZS9lcGeckgZNy0PN7R7u"
-        }
-      ],
-      "duration_ms": 188773,
-      "name": "En Mi Viejo San Juan",
-      "url": "https://open.spotify.com/track/60fBitJmPKw266klMQ9hvm"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -859,22 +859,6 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "Benny Mor\u00e9 M\u00e1gico",
-        "url": "https://open.spotify.com/album/6eR6hzbY2nRAOEn04Ckixb"
-      },
-      "artists": [
-        {
-          "name": "Beny Mor\u00e9",
-          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
-        }
-      ],
-      "duration_ms": 178626,
-      "name": "Como Fu\u00e9",
-      "url": "https://open.spotify.com/track/7yvBuMGvWigRvJgwtKEPLD"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
         "name": "Los Tecolines: Bolero Romantico",
         "url": "https://open.spotify.com/album/2HaemXURrtkV1aOjGgXq2S"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 140146,
       "name": "Albricias",
       "url": "https://open.spotify.com/track/2tp2urheCpgDbkqfoaD0U1"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
+        "name": "Benny Mor\u00e9 M\u00e1gico",
+        "url": "https://open.spotify.com/album/6eR6hzbY2nRAOEn04Ckixb"
+      },
+      "artists": [
+        {
+          "name": "Beny Mor\u00e9",
+          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
+        }
+      ],
+      "duration_ms": 178626,
+      "name": "Como Fu\u00e9",
+      "url": "https://open.spotify.com/track/7yvBuMGvWigRvJgwtKEPLD"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -999,22 +999,6 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "Lo Mejor De...",
-        "url": "https://open.spotify.com/album/11SbgUOwExKHYdsApzHSuP"
-      },
-      "artists": [
-        {
-          "name": "Agust\u00edn Lara",
-          "url": "https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop"
-        }
-      ],
-      "duration_ms": 178200,
-      "name": "Amor de Mis Amores",
-      "url": "https://open.spotify.com/track/5LI6baS6dpvHBDlQUzn1S7"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
         "name": "El Trovador Solitario",
         "url": "https://open.spotify.com/album/21bapb0tcYyoqzZuXP9Xze"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 166306,
       "name": "El Andariego",
       "url": "https://open.spotify.com/track/4ioxu5idXBbD7HOr5129Al"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
+        "name": "Lo Mejor De...",
+        "url": "https://open.spotify.com/album/11SbgUOwExKHYdsApzHSuP"
+      },
+      "artists": [
+        {
+          "name": "Agust\u00edn Lara",
+          "url": "https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop"
+        }
+      ],
+      "duration_ms": 178200,
+      "name": "Amor de Mis Amores",
+      "url": "https://open.spotify.com/track/5LI6baS6dpvHBDlQUzn1S7"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
+        "name": "Canciones De Amor",
+        "url": "https://open.spotify.com/album/0aqqz67nPmidIqCUfaO69n"
+      },
+      "artists": [
+        {
+          "name": "Los Tres Diamantes",
+          "url": "https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1"
+        }
+      ],
+      "duration_ms": 194466,
+      "name": "Usted",
+      "url": "https://open.spotify.com/track/20NBwMxhtHrNgnWFIlNeP4"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
         "name": "Eternamente",
         "url": "https://open.spotify.com/album/5DyJdvitTIEd4ncxUL0XHQ"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 183800,
       "name": "Cuando Ya No Me Quieras",
       "url": "https://open.spotify.com/track/1RfB1vZYB2mi6RSSwgMU6c"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
-        "name": "Canciones De Amor",
-        "url": "https://open.spotify.com/album/0aqqz67nPmidIqCUfaO69n"
-      },
-      "artists": [
-        {
-          "name": "Los Tres Diamantes",
-          "url": "https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1"
-        }
-      ],
-      "duration_ms": 194466,
-      "name": "Usted",
-      "url": "https://open.spotify.com/track/20NBwMxhtHrNgnWFIlNeP4"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "Antologia (Volumen 2)",
-        "url": "https://open.spotify.com/album/3CwmmU7lkxHxEOdynw1nLy"
-      },
-      "artists": [
-        {
-          "name": "Nelson Ned",
-          "url": "https://open.spotify.com/artist/1qBGWp46vgiATN7mfKJd3s"
-        }
-      ],
-      "duration_ms": 251600,
-      "name": "Mi Manera De Amar",
-      "url": "https://open.spotify.com/track/65JC1aD0zlq5RQ7Q8zQuss"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
         "name": "Serie 20 Exitos",
         "url": "https://open.spotify.com/album/2gwE57HQYUocdi8JvqYiIO"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 155733,
       "name": "Somos Novios",
       "url": "https://open.spotify.com/track/58Q3mAOtrZdSbwAu9i92j2"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
+        "name": "Antologia (Volumen 2)",
+        "url": "https://open.spotify.com/album/3CwmmU7lkxHxEOdynw1nLy"
+      },
+      "artists": [
+        {
+          "name": "Nelson Ned",
+          "url": "https://open.spotify.com/artist/1qBGWp46vgiATN7mfKJd3s"
+        }
+      ],
+      "duration_ms": 251600,
+      "name": "Mi Manera De Amar",
+      "url": "https://open.spotify.com/track/65JC1aD0zlq5RQ7Q8zQuss"
     },
     {
       "added_at": "2021-12-26 12:28:38",

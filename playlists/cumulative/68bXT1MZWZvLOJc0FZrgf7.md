@@ -2,15 +2,16 @@
 
 ### [Dance For Days](https://open.spotify.com/playlist/68bXT1MZWZvLOJc0FZrgf7)
 
-> Press play and dance away to your favorite electronic hits\. Featuring Rezz, Alan Walker, Kygo and more!
+> Press play and dance away to your favorite electronic hits\. Featuring Forester, Alan Walker, Kygo and more!
 
-192 songs - 10 hr 11 min - [published](https://open.spotify.com/playlist/74SA5dSHQsyFQAGAwDxA5d)
+193 songs - 10 hr 14 min - [published](https://open.spotify.com/playlist/74SA5dSHQsyFQAGAwDxA5d)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [24/7 \(feat\. JC Stewart\)](https://open.spotify.com/track/6J1mnTM2yGV7FsShNcCXB0) | [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82), [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [24/7 \(feat\. JC Stewart\)](https://open.spotify.com/album/30zhkm14VV1Llw59uYFt3G) | 2:55 | 2022-06-03 |  |
 | [Adicto \(feat\. Gigolo y La Exce\)](https://open.spotify.com/track/2L6rsP2nThuVySclwSUkBT) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Gigolo Y La Exce](https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i) | [ORRO](https://open.spotify.com/album/05DvB52So1wX0F8txvQDHB) | 3:20 | 2022-07-01 |  |
 | [Adidas & Pearls](https://open.spotify.com/track/2zME1tNgLyHCJ29E2uSeJM) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [LOWES](https://open.spotify.com/artist/1mbybf2CrAiwWiznqA8R3g) | [Adidas & Pearls](https://open.spotify.com/album/5zTHdYXq0ojTz7J4K2gCUN) | 3:29 | 2022-06-24 |  |
+| [All I Need](https://open.spotify.com/track/4qOErzIVJ5dGY9U0aAZhwz) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc) | [All I Need](https://open.spotify.com/album/2nCBGeudGkR5ZYFey8Ibix) | 3:06 | 2022-09-16 |  |
 | [All These Nights \- Fred V Remix](https://open.spotify.com/track/7vuvlQMfe6xvZemyXy61Y5) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv), [Fred V](https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4) | [All These Nights \(Fred V Remix\)](https://open.spotify.com/album/7atPB0QMX88r7Jakax8WlU) | 3:31 | 2022-08-26 |  |
 | [Alone \- Yves V Remix](https://open.spotify.com/track/6wgQ0Hmaypir61mK9vB6Vc) | [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT), [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV) | [Alone \(Remixes\)](https://open.spotify.com/album/35vrVpU1WHXQTK99ILFe2W) | 2:47 | 2022-06-03 |  |
 | [Another Love \- Tiësto Remix](https://open.spotify.com/track/4Et6tUEO7biKxZEfJXpNj1) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Another Love \(Tiësto Remix\)](https://open.spotify.com/album/1QltVGlNGbK94CKgUsYZGa) | 3:05 | 2022-06-03 |  |

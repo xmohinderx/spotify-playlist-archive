@@ -1,12 +1,12 @@
 {
   "description": "All new, all blues. Cover: Dylan Triplett",
-  "num_followers": 120298,
+  "num_followers": 120318,
   "original_name": "Nu-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5NjA2MCwwMDAwMDAwMDk1ZmU1ZDEwODYwZWZmNDAxZTEzN2U1OGE3OTVjOTk4",
+  "snapshot_id": "MTY2MzMwMDg2MCwwMDAwMDAwMDk5NDY5YjRhNDI1YjRlM2JiZDczN2MzM2QyMWE1Mzg1",
   "tracks": [
     {
       "added_at": "2022-08-26 04:02:00",
@@ -33,6 +33,34 @@
       "url": "https://open.spotify.com/track/0vM8fRYfCtW3VRbant8FnC"
     },
     {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "World on Fire (Warrior Remix)",
+        "url": "https://open.spotify.com/album/272hzAwKezSFfwYcH0uazk"
+      },
+      "artists": [
+        {
+          "name": "Micki Free",
+          "url": "https://open.spotify.com/artist/5aH6fiMaVOktSbo2CBcK5l"
+        },
+        {
+          "name": "Karl Perazzo",
+          "url": "https://open.spotify.com/artist/6YOWrQBPl6xB6yA73jqUny"
+        },
+        {
+          "name": "Andy Vargas",
+          "url": "https://open.spotify.com/artist/3oqXjhbfHHAkNaZLsP8qZH"
+        },
+        {
+          "name": "Cindy Blackman Santana",
+          "url": "https://open.spotify.com/artist/0sJ3AmpElEzlg5WjOHQYBF"
+        }
+      ],
+      "duration_ms": 313326,
+      "name": "World on Fire - Warrior Remix",
+      "url": "https://open.spotify.com/track/3CzTG4duyqR9YXXDK9k4pc"
+    },
+    {
       "added_at": "2022-08-26 04:02:00",
       "album": {
         "name": "I'll Be Glad",
@@ -47,6 +75,22 @@
       "duration_ms": 298773,
       "name": "I'll Be Glad",
       "url": "https://open.spotify.com/track/7kLR5l2d7Vz5kiJujbmY40"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "Rumpshaker",
+        "url": "https://open.spotify.com/album/2TAatpkEA5nQcZkh9AiW6g"
+      },
+      "artists": [
+        {
+          "name": "Crystal Shawanda",
+          "url": "https://open.spotify.com/artist/31X6W8Y4y9E0G78r5Y2rXG"
+        }
+      ],
+      "duration_ms": 203250,
+      "name": "Rumpshaker",
+      "url": "https://open.spotify.com/track/7ucZi9RuxviWkpDCJrpyjE"
     },
     {
       "added_at": "2022-09-09 04:01:00",

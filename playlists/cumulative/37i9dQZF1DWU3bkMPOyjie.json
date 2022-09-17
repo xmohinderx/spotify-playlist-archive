@@ -1576,6 +1576,24 @@
     },
     {
       "album": {
+        "name": "The Only Place (Deluxe)",
+        "url": "https://open.spotify.com/album/02gFZUaqAcQNtV6rmVIsN0"
+      },
+      "artists": [
+        {
+          "name": "Best Coast",
+          "url": "https://open.spotify.com/artist/5YkBrE0wF8cAlq3GCOw5Eu"
+        }
+      ],
+      "date_added": "2022-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162634,
+      "name": "The Only Place",
+      "url": "https://open.spotify.com/track/0NCcbiW3kiasTzgg3CiBrf"
+    },
+    {
+      "album": {
         "name": "The Only Place",
         "url": "https://open.spotify.com/album/3vTAcIRcaEwrdy5q8dXBYV"
       },
@@ -1605,7 +1623,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 162634,
       "name": "The Only Place",
       "url": "https://open.spotify.com/track/4nczzhe10DQGPUClkevmqB"

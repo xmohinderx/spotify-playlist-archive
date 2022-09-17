@@ -4,7 +4,7 @@
 
 > Dinner with Friends? Here's the perfect playlist.
 
-257 songs - 15 hr 10 min - [published](https://open.spotify.com/playlist/4lnCwDPNkx8SXhuHdTAQwD)
+259 songs - 15 hr 16 min - [published](https://open.spotify.com/playlist/4lnCwDPNkx8SXhuHdTAQwD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Come Away With Me](https://open.spotify.com/track/0Cvjlph1WGbwZY1PlMEtJY) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me](https://open.spotify.com/album/1JvoMzqg04nC29gam4Qaiq) | 3:18 | 2022-05-27 | 2022-07-29 |
 | [Come Away With Me](https://open.spotify.com/track/6jGnykaS6TkWp15utXSAeI) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Super Deluxe Edition\)](https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl) | 3:18 | 2022-07-22 |  |
 | [Come Home To Me](https://open.spotify.com/track/2K8elWg8ihrZRwZJ7Gy6L3) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [LÉON](https://open.spotify.com/album/4rH2e0qPw9MrwOSdk9rKNe) | 3:45 | 2021-06-22 |  |
-| [Confidant](https://open.spotify.com/track/5CRMZVNTo7AxJkWmIPehJQ) | [Blakey](https://open.spotify.com/artist/3cqjRMFHyTEbY3Gq1P7sAl) | [Embers Mixtape](https://open.spotify.com/album/558oOcAGpoyyjsVCPxD0gI) | 3:35 | 2022-09-13 |  |
+| [Confidant](https://open.spotify.com/track/5CRMZVNTo7AxJkWmIPehJQ) | [Blakey](https://open.spotify.com/artist/3cqjRMFHyTEbY3Gq1P7sAl) | [Embers Mixtape](https://open.spotify.com/album/558oOcAGpoyyjsVCPxD0gI) | 3:35 | 2022-09-13 | 2022-09-17 |
 | [Confidant](https://open.spotify.com/track/7zlckzgewNsSzwIwfmCeqG) | [Blakey](https://open.spotify.com/artist/3cqjRMFHyTEbY3Gq1P7sAl) | [Confidant](https://open.spotify.com/album/6q2QTDDF2WkZcIGS8ofPzx) | 3:35 | 2021-06-22 | 2022-07-29 |
 | [Cool Again \- Stripped](https://open.spotify.com/track/1sCqAU8UKMoRmcT7RdhtuP) | [Shoffy](https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG) | [Cool Again \(Stripped\)](https://open.spotify.com/album/1Nw273rJFagR1MtlqvG8Iy) | 3:03 | 2021-06-22 | 2022-07-29 |
 | [Crosswords](https://open.spotify.com/track/094OGVJzllUzmdLvA31GqU) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Crosswords](https://open.spotify.com/album/6rkKZqdkCYu2qb5w2gYWRp) | 2:33 | 2021-06-22 | 2022-07-29 |
@@ -73,6 +73,7 @@
 | [Easy](https://open.spotify.com/track/1pfYIi1N0t9g7WWZNLsde3) | [Simon Jefferis](https://open.spotify.com/artist/3pqAGIw1dthOiaFvDERi74), [Benedict Cork](https://open.spotify.com/artist/3x2c58AEVAjnJPpuz8ywTv) | [Easy](https://open.spotify.com/album/3etfw3EWe274S5SyajP8eW) | 3:08 | 2021-06-22 | 2022-07-29 |
 | [Eleven](https://open.spotify.com/track/1ToprX3cpBiXoAe5eNSk74) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Eleven](https://open.spotify.com/album/66o9dDjDduf6jpvZKzAXm4) | 3:26 | 2022-07-22 | 2022-09-10 |
 | [Endless Sadness](https://open.spotify.com/track/4A8EEoQq4MQt1NbcRQPMwf) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Endless Sadness](https://open.spotify.com/album/1R26FnkTe3zQVrlQFomYiz) | 3:17 | 2021-06-22 | 2022-05-28 |
+| [Evergreen \(You Didn’t Deserve Me At All\)](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 | 2022-09-16 |  |
 | [Every Time You Go Away](https://open.spotify.com/track/5OtvDpNhxUde1hkAjvzSzE) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot), [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Spotify Singles](https://open.spotify.com/album/0dlIoNzi1FAca3VcyPFj5S) | 4:25 | 2021-06-22 |  |
 | [Everyday Life](https://open.spotify.com/track/0h9fnCSnbUgOEgibnQByFv) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Everyday Life](https://open.spotify.com/album/2FeyIYDDAQqcOJKOKhvHdr) | 4:18 | 2022-07-22 |  |
 | [Everyday Life](https://open.spotify.com/track/6WMf0Om41Z6HlMzXFuZ4F0) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Everyday Life](https://open.spotify.com/album/2lbe1rWHU4a03qZipEaMDB) | 4:18 | 2021-06-22 | 2022-07-29 |
@@ -190,7 +191,7 @@
 | [Pinetrees](https://open.spotify.com/track/6VmKRiq18SDfzCfV2nXOSs) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai), [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Pinetrees](https://open.spotify.com/album/2hXdszF3JmErfOInSMV3hQ) | 3:24 | 2021-06-22 | 2022-05-14 |
 | [Please Keep Loving Me](https://open.spotify.com/track/1rp1lRbL41qnlw354j8iTp) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Please Keep Loving Me](https://open.spotify.com/album/57nyAsOzQc642JTGwioDli) | 3:15 | 2021-06-22 | 2022-07-29 |
 | [Please Keep Loving Me](https://open.spotify.com/track/78zUxUPvONPgMIt46q5be6) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Please Keep Loving Me](https://open.spotify.com/album/53ZfIHyk0AhUHeVRBCIl64) | 3:15 | 2022-07-22 |  |
-| [Problems](https://open.spotify.com/track/75ylrnob5O80WTKi9ugZ1Z) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [ASYLUM](https://open.spotify.com/album/1qnAzDoa24ZYCZDzmP74sL) | 2:51 | 2022-07-22 |  |
+| [Problems](https://open.spotify.com/track/75ylrnob5O80WTKi9ugZ1Z) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [ASYLUM](https://open.spotify.com/album/1qnAzDoa24ZYCZDzmP74sL) | 2:51 | 2022-07-22 | 2022-09-17 |
 | [Put Your Records On](https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Corinne Bailey Rae](https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg) | 3:35 | 2021-06-22 |  |
 | [Quietly Yours](https://open.spotify.com/track/52xFKeXEHm2fI8jpia0oUS) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Persuasion \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/66j8eOruoDph1NWL9vAI1W) | 3:54 | 2022-07-22 |  |
 | [Real Love Baby](https://open.spotify.com/track/0Z57YWES04xGh3AImDz6Qr) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Real Love Baby](https://open.spotify.com/album/75614DWrksimeV4oXUhaYP) | 3:09 | 2022-07-22 |  |
@@ -200,6 +201,7 @@
 | [shut up](https://open.spotify.com/track/4WQS72yCXQWBNcTzBzseEr) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [shut up](https://open.spotify.com/album/4fiiEOODQku0l6RvZSLrgL) | 2:50 | 2022-07-22 | 2022-07-24 |
 | [Sitting In The Corner \(feat\. Adriel Favela & Kacey Musgraves\)](https://open.spotify.com/track/1Cx5pTBRWI67JXVmMGJT23) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Fantasy Gateway](https://open.spotify.com/album/7JvjOgEBBcrLs9048x1QcM) | 3:52 | 2022-07-22 |  |
 | [Slow](https://open.spotify.com/track/1Ia95g66IhlAJ3qVI4qI8W) | [SHY Martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Slow](https://open.spotify.com/album/6u4ZwK6xSWHhREBVzhjQg6) | 2:43 | 2021-06-22 |  |
+| [Smiling All The Way Back Home](https://open.spotify.com/track/3jeYMY8wyibEfP8gsQ3TAS) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Smiling All The Way Back Home](https://open.spotify.com/album/4MhanVyOKDTIQs8ZhQqNe8) | 3:02 | 2022-09-16 |  |
 | [Smoke](https://open.spotify.com/track/1WVTi93gt1EofX4H7pmxTP) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Smoke](https://open.spotify.com/album/6iglrA3fJHVvRdXqQExRZx) | 3:35 | 2022-05-27 | 2022-07-28 |
 | [So Beautiful](https://open.spotify.com/track/1g9EdqVk89cz27yERaxSK2) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [You're Stronger Than You Know](https://open.spotify.com/album/5MSaKdet5kiMdSczHYxEmg) | 4:03 | 2021-06-22 | 2022-07-29 |
 | [So Good At Being in Trouble](https://open.spotify.com/track/2lwi35A2ym3FAmSlvOGnQp) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [II](https://open.spotify.com/album/2UrexGLK8RBKbv07j7ui19) | 3:50 | 2022-07-22 | 2022-09-10 |

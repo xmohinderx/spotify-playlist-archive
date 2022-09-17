@@ -4,7 +4,7 @@
 
 > Great food, good company and some soft music.
 
-414 songs - 1 day 1 hr 55 min - [published](https://open.spotify.com/playlist/1Dge1FHASpXA6Hu1SnM8w8)
+415 songs - 1 day 1 hr 59 min - [published](https://open.spotify.com/playlist/1Dge1FHASpXA6Hu1SnM8w8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,7 +145,7 @@
 | [Heartbreak Warfare](https://open.spotify.com/track/4gs07VlJST4bdxGbBsXVue) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Battle Studies](https://open.spotify.com/album/1V5vQRMWTNGmqwxY8jMVou) | 4:29 | 2022-01-27 | 2022-07-29 |
 | [Heaven](https://open.spotify.com/track/7EqgMVJIt8rUhf1OZJrxtx) | [Lily Papas](https://open.spotify.com/artist/2LDsVxtrG9fVXTNaL9oJNi) | [Encore](https://open.spotify.com/album/0yDrekG6pJ1jJyzc1wi9rK) | 3:28 | 2022-04-11 | 2022-07-29 |
 | [Heaven Knows, Right?](https://open.spotify.com/track/6ZxieV41UDyJEJhmPLFyPC) | [Benjamin Gustafsson](https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl) | [Heaven Knows, Right?](https://open.spotify.com/album/4aSYt36QkZJP5fGV1rYt9C) | 4:16 | 2022-01-27 | 2022-07-29 |
-| [Heaven Knows, Right?](https://open.spotify.com/track/4XJES8gXvP1HrkAfXWa97O) | [Benjamin Gustafsson](https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl) | [Dear Earth, I’m Lost](https://open.spotify.com/album/2FivUBt8rP3epBzyDhtoqE) | 4:20 | 2022-07-08 |  |
+| [Heaven Knows, Right?](https://open.spotify.com/track/4XJES8gXvP1HrkAfXWa97O) | [Benjamin Gustafsson](https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl) | [Dear Earth, I’m Lost](https://open.spotify.com/album/2FivUBt8rP3epBzyDhtoqE) | 4:20 | 2022-07-08 | 2022-09-17 |
 | [Help Me from There to Here](https://open.spotify.com/track/7qT8orb8ZiepyXRRNesXIW) | [M\. the Heir Apparent](https://open.spotify.com/artist/3CMBFjgMg5fFrXA0fA1L6d) | [Help Me from There to Here](https://open.spotify.com/album/210XI4xqa3TzkC5UgFv9CS) | 2:17 | 2022-01-27 | 2022-07-29 |
 | [Here With Me](https://open.spotify.com/track/02VOS5QRFc6i1XQVROAeDi) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Here With Me](https://open.spotify.com/album/2Lckft3XE6ElWoCny1h1Xo) | 3:16 | 2022-01-27 |  |
 | [Here, Right Now](https://open.spotify.com/track/0voYwjeuMfvXlF76oesZKu) | [Joshua Radin](https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34) | [Here, Right Now](https://open.spotify.com/album/0pz6QxOt98LbnryystoGza) | 3:03 | 2022-07-08 |  |
@@ -349,6 +349,7 @@
 | [Suitcase](https://open.spotify.com/track/5HlFO9E6TgsCpJWVjguZDl) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Suitcase](https://open.spotify.com/album/6h3PNka0gyNBOX2yVuW3JN) | 3:34 | 2022-01-27 | 2022-06-04 |
 | [Suitcase](https://open.spotify.com/track/6dQ1FEt4FByE6tU0dvQNmr) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Chapters](https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP) | 3:35 | 2022-05-11 |  |
 | [Sunrise](https://open.spotify.com/track/7zkLpY72g6lKQbiHDqri1S) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Feels Like Home](https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL) | 3:20 | 2022-01-27 |  |
+| [Sunsets For Somebody Else](https://open.spotify.com/track/41Az1BCotlAUt7Ud8k6H2Y) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [All The Light Above It Too](https://open.spotify.com/album/1a15dDOiwz5ebSxk1ZeFB5) | 3:30 | 2022-09-16 |  |
 | [Sweet Baby](https://open.spotify.com/track/5ZHjjyuxyAy93zs0XvVUcv) | [Bothnia](https://open.spotify.com/artist/6I1IQQD3XEEL7kiV2tYJv5), [Cody Francis](https://open.spotify.com/artist/1RKbW3DVPPhWHNfParfJ32) | [Sweet Baby](https://open.spotify.com/album/2NnrecYBvlBXG1DLpSPorn) | 3:04 | 2022-01-27 |  |
 | [Sweet Dream](https://open.spotify.com/track/7JRJOLKHz88pR0YS4pVCao) | [Greg Laswell](https://open.spotify.com/artist/2Mf99N2VcDEcVuocyBLhyC) | [Three Flights From Alto Nido](https://open.spotify.com/album/0ntXTGF1tGttAv0Tr077DH) | 1:07 | 2022-07-08 |  |
 | [T\-Shirts](https://open.spotify.com/track/1Ozmz8mMsPv6LlwcCW2U8l) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [T\-Shirts](https://open.spotify.com/album/11wuHldrnFEf8lLKhM9u9X) | 3:10 | 2022-01-27 |  |

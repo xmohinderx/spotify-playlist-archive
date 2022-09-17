@@ -4,7 +4,7 @@
 
 > Rock legends & epic songs that continue to inspire generations.
 
-280 songs - 20 hr 33 min - [published](https://open.spotify.com/playlist/0QZOz4xhBHfQBRKVMnekpO)
+281 songs - 20 hr 42 min - [published](https://open.spotify.com/playlist/0QZOz4xhBHfQBRKVMnekpO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [Iron Man \- 2012 \- Remaster](https://open.spotify.com/track/3IOQZRcEkplCXg6LofKqE9) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Paranoid \(Remaster\)](https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7) | 5:55 | 2021-12-14 |  |
 | [Jailbreak](https://open.spotify.com/track/4qbiCq2xkNPyojuZFeNeqx) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Jailbreak \(Deluxe Edition\)](https://open.spotify.com/album/6Cf545T4jkaiyvMnTRPOB2) | 4:00 | 2022-06-17 |  |
 | [Jane Says](https://open.spotify.com/track/7c1Dar0pIAW7w5TzaGjt9t) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Nothing's Shocking](https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa) | 4:47 | 2022-02-17 |  |
-| [Janie Jones \- Remastered](https://open.spotify.com/track/6ywRlumSQjOOkcSnJYAgHw) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [The Clash \(Remastered\)](https://open.spotify.com/album/49kzgMsxHU5CTeb2XmFHjo) | 2:08 | 2022-04-08 |  |
+| [Janie Jones \- Remastered](https://open.spotify.com/track/6ywRlumSQjOOkcSnJYAgHw) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [The Clash \(Remastered\)](https://open.spotify.com/album/49kzgMsxHU5CTeb2XmFHjo) | 2:08 | 2022-04-08 | 2022-09-17 |
 | [Jump \- 2015 Remaster](https://open.spotify.com/track/5FqYA8KfiwsQvyBI4IamnY) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [The Collection](https://open.spotify.com/album/2c965LEDRNrXXCeBOAAwns) | 4:01 | 2022-02-17 |  |
 | [Jump \- 2015 Remaster](https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [1984 \(Remastered\)](https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0) | 4:01 | 2021-12-14 | 2022-07-06 |
 | [Just What I Needed](https://open.spotify.com/track/4alHo6RGd0D3OUbTPExTHN) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [The Cars](https://open.spotify.com/album/4tJPWT4r4FSKwy784Qs1Fq) | 3:45 | 2021-12-14 |  |
@@ -152,6 +152,7 @@
 | [Man in the Box](https://open.spotify.com/track/6gZVQvQZOFpzIy3HblJ20F) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Facelift](https://open.spotify.com/album/5LbHbwejgZXRZAgzVAjkhj) | 4:45 | 2021-12-14 |  |
 | [Mary Jane's Last Dance](https://open.spotify.com/track/5eYwDBLucWfWI5KsV7oYX2) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Anthology: Through The Years](https://open.spotify.com/album/7ait6chB3O3C1fMGUDJhtu) | 4:32 | 2021-12-14 | 2022-07-29 |
 | [Mary Jane's Last Dance](https://open.spotify.com/track/3dmqIB2Qxe2XZobw9gXxJ6) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Greatest Hits](https://open.spotify.com/album/3q6Bz38jmqRDkXI7j5Hb9Y) | 4:33 | 2022-05-06 |  |
+| [Master of Puppets \(Remastered\)](https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master of Puppets \(Remastered Deluxe Box Set\)](https://open.spotify.com/album/7CGhx630DIjdJqaBDVKc5j) | 8:35 | 2022-09-16 |  |
 | [Me and Bobby McGee](https://open.spotify.com/track/1IqFh00G2kvvMm8pRMpehA) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Pearl \(Legacy Edition\)](https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf) | 4:31 | 2021-12-14 |  |
 | [Midnight Rider](https://open.spotify.com/track/7J4WbEdRTZGJDsSr5AACCw) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [Idlewild South](https://open.spotify.com/album/4W8IWA0MKZ9frtxspO2skD) | 2:59 | 2021-12-14 | 2022-07-29 |
 | [Midnight Rider](https://open.spotify.com/track/1hHGUdFaiJHw9hVZGJWYO2) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [Idlewild South \(Deluxe Edition Remastered\)](https://open.spotify.com/album/1K9yhJFW4FR8Rc1VURWA5T) | 3:00 | 2022-05-06 |  |

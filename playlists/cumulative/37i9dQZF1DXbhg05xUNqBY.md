@@ -4,7 +4,7 @@
 
 > Breathe deep, and relax with the softer side of Christian music.
 
-70 songs - 4 hr 42 min - not published yet
+71 songs - 4 hr 48 min - [published](https://open.spotify.com/playlist/4hszzPzSlNXEOlQljHhGJC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Helpless One](https://open.spotify.com/track/4DccX20AEk2LUgaDht4eHt) | [Joseph O'Brien](https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa) | [Helpless One](https://open.spotify.com/album/4MEBE9KVyYrQqDbUqZvyvN) | 3:15 | 2021-10-31 |  |
 | [Hold On](https://open.spotify.com/track/47GwIvmWNwmzurul1rFyJ2) | [Lydia Laird](https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y) | [Hold On](https://open.spotify.com/album/4UycA6we6inG3usBonCkN5) | 3:37 | 2021-10-31 |  |
 | [If I Had Stayed](https://open.spotify.com/track/5wWQWPXrFhGcs1qCZtSA8D) | [Gatton](https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE) | [If I Had Stayed](https://open.spotify.com/album/6LyuOSTe7Igm3efNqvOn4J) | 2:11 | 2021-10-31 |  |
-| [In Christ Alone \(En Jésus Seul\)](https://open.spotify.com/track/6Qn5PXBQQxfTeu7QT742MQ) | [Ri\-An](https://open.spotify.com/artist/0q8s2UD3GPKFfYuXWbvRVo), [Sebastien Corn](https://open.spotify.com/artist/601DNxtvVupKqvm3STxGTW) | [In Christ Alone \(En Jésus Seul\)](https://open.spotify.com/album/7H8MtnvyshMhC5LVKRqBQL) | 3:42 | 2021-10-31 |  |
+| [In Christ Alone \(En Jésus Seul\)](https://open.spotify.com/track/6Qn5PXBQQxfTeu7QT742MQ) | [Ri\-An](https://open.spotify.com/artist/0q8s2UD3GPKFfYuXWbvRVo), [Sebastien Corn](https://open.spotify.com/artist/601DNxtvVupKqvm3STxGTW) | [In Christ Alone \(En Jésus Seul\)](https://open.spotify.com/album/7H8MtnvyshMhC5LVKRqBQL) | 3:42 | 2021-10-31 | 2022-09-17 |
 | [It Is Well With My Soul](https://open.spotify.com/track/4aQ5Z7NMkYNFwwGKXc43Pe) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx) | [It Is Well With My Soul](https://open.spotify.com/album/5vuquqvqSQIH1Og1QkMnFu) | 6:08 | 2021-10-31 |  |
 | [It's a Wonderful Life](https://open.spotify.com/track/4ieeVg8E0Mws1kaSBoQZOj) | [John Lucas](https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk) | [It's a Wonderful Life](https://open.spotify.com/album/4IUddwGckU9duvn9dEQLnz) | 4:09 | 2021-10-31 |  |
 | [Jesus My Beloved](https://open.spotify.com/track/4EsYYFhkGUz9kxjQzMx1D3) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7), [Kindred Worship](https://open.spotify.com/artist/1oOjYMuuEgcp5h2bawP47T) | [Songs from Home](https://open.spotify.com/album/6jdZFEEGZA6KcSUiETNOUP) | 5:07 | 2021-10-31 |  |
@@ -54,6 +54,7 @@
 | [Peace Be Still](https://open.spotify.com/track/4epvekncJds5DpsOOjBT9B) | [Hope Darst](https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36) | [Peace Be Still](https://open.spotify.com/album/5NB3XmeK1ICymTWKPEWnSt) | 5:20 | 2021-10-31 |  |
 | [prove it](https://open.spotify.com/track/2lQzzCFOMzM1nrKPMH8eoG) | [Marie Love](https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h), [Faith Lofi](https://open.spotify.com/artist/3Mu22Y9BefRhJRYhyfP463) | [prove it](https://open.spotify.com/album/5iN9wvIKMNLlOw6es5Kc03) | 2:42 | 2021-10-31 |  |
 | [Providence](https://open.spotify.com/track/7G8ZEE8HmuPPfy5JE5PE8b) | [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo) | [Providence](https://open.spotify.com/album/16PEcahwDYpgyENSSIBPfN) | 6:18 | 2021-10-31 |  |
+| [Psalm 42 \(Loudest Praise\)](https://open.spotify.com/track/6x8yjJaCVAzjoSCD3MEOaJ) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalm 42 \(Loudest Praise\)](https://open.spotify.com/album/7lRjBY8NzfbMvNYijKMVgB) | 5:55 | 2021-10-31 |  |
 | [Quiet Talk](https://open.spotify.com/track/1T2Z13PDAqCE9pAyIOeAHg) | [Jillian Edwards](https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp) | [Quiet Talk](https://open.spotify.com/album/6T6uSJ7XppYHhopjg1AOdW) | 2:48 | 2021-10-31 |  |
 | [Rest On Us](https://open.spotify.com/track/4NPEyG5EK6PwJCBNr9phnE) | [Ben Potter](https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX), [Eric Gilmour](https://open.spotify.com/artist/6fVjCsKdS30DoRnMfOlG4j) | [Rest On Us](https://open.spotify.com/album/6CMg5UAglJqxvtWakN3YcF) | 3:29 | 2021-10-31 |  |
 | [Roses](https://open.spotify.com/track/3HnuBJfiwfMKaeunoyN4YA) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [Evergreen](https://open.spotify.com/album/7ebIxlhEADsL5NNiWmRRuk) | 4:02 | 2021-10-31 |  |

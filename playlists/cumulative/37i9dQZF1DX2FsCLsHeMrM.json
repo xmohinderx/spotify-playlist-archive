@@ -1320,6 +1320,24 @@
     },
     {
       "album": {
+        "name": "Summer Pack",
+        "url": "https://open.spotify.com/album/15k99o4mZJ9mfpQGIOrZ45"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297404,
+      "name": "Feels Like Summer",
+      "url": "https://open.spotify.com/track/7p4vHnYXkxlzvfePJVpcTr"
+    },
+    {
+      "album": {
         "name": "Subject",
         "url": "https://open.spotify.com/album/44knvMChf7CE5Jkg636gXy"
       },
@@ -2231,7 +2249,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 362600,
       "name": "Keep On Movin'",
       "url": "https://open.spotify.com/track/4NMtuxWfOPR6yNjAX0AWrR"
@@ -2451,7 +2469,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 194023,
       "name": "Lost in Paris",
       "url": "https://open.spotify.com/track/6lxcWIvMQK3yezxwFfZcKZ"
@@ -2948,6 +2966,24 @@
     },
     {
       "album": {
+        "name": "Late Nights: The Album",
+        "url": "https://open.spotify.com/album/7DMyQuDPe8xzjC0UDSDa96"
+      },
+      "artists": [
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238320,
+      "name": "oui",
+      "url": "https://open.spotify.com/track/0PJIbOdMs3bd5AT8liULMQ"
+    },
+    {
+      "album": {
         "name": "Ruby",
         "url": "https://open.spotify.com/album/3NaRWUhsOLdHsmqJON0aiv"
       },
@@ -2999,7 +3035,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 219963,
       "name": "Pass Time",
       "url": "https://open.spotify.com/track/7MuAIzPxVZwUNJgF9cGZr6"
@@ -3469,6 +3505,24 @@
       "duration_ms": 381626,
       "name": "Spinning the Wheel",
       "url": "https://open.spotify.com/track/4V4Ur4PJskr5vR2ek8VHWw"
+    },
+    {
+      "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316600,
+      "name": "Star People",
+      "url": "https://open.spotify.com/track/2x8rw8kMwjbxdThFw1NCIX"
     },
     {
       "album": {

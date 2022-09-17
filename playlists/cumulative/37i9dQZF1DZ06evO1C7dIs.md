@@ -4,7 +4,7 @@
 
 > This is Nightwish\. The essential tracks, all in one playlist.
 
-58 songs - 5 hr 26 min - [published](https://open.spotify.com/playlist/2MJVM40wk4kbPwCrOhCR9b)
+59 songs - 5 hr 30 min - [published](https://open.spotify.com/playlist/2MJVM40wk4kbPwCrOhCR9b)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Dark Chest of Wonders](https://open.spotify.com/track/4QCGfqoCLZ3x9iMgtzUMD9) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Once](https://open.spotify.com/album/2wM6svkNOCsYP8sr9gP2zc) | 4:28 | 2022-09-08 |  |
 | [Dead Gardens \- Remastered](https://open.spotify.com/track/6BjgGSC0hfQAHUztG6N23M) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Once \(Remastered\)](https://open.spotify.com/album/6qqKoGukMfzw9aYa2qaJOb) | 4:28 | 2022-09-08 |  |
 | [Dead To The World](https://open.spotify.com/track/53f1Zi9zTs0nw5DwzR0mQx) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Century Child](https://open.spotify.com/album/4FFDudC4xBVF6MYJUynRsN) | 4:19 | 2022-09-08 |  |
-| [Devil & The Deep Dark Ocean](https://open.spotify.com/track/6agCC7QMbOwFLNirnvK5de) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Oceanborn](https://open.spotify.com/album/37LveKPgKGwpuI0cEVbPj4) | 4:46 | 2022-09-15 |  |
+| [Deep Silent Complete](https://open.spotify.com/track/3G4Y8kAQlO6vmZ8vkH5Tw1) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Wishmaster](https://open.spotify.com/album/4u5Ik7NMYl3EITJngbMS4V) | 3:57 | 2022-09-16 |  |
+| [Devil & The Deep Dark Ocean](https://open.spotify.com/track/6agCC7QMbOwFLNirnvK5de) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Oceanborn](https://open.spotify.com/album/37LveKPgKGwpuI0cEVbPj4) | 4:46 | 2022-09-15 | 2022-09-17 |
 | [Elvenpath \- Remastered](https://open.spotify.com/track/1mRilVsFhkqCgUK44g9bB2) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Angels Fall First](https://open.spotify.com/album/5ijhla4go9hgv4TAz4lt5j) | 4:37 | 2022-09-08 |  |
 | [End Of All Hope](https://open.spotify.com/track/3RqTWAc3noEuDS5B0BimD7) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Century Child](https://open.spotify.com/album/4FFDudC4xBVF6MYJUynRsN) | 3:53 | 2022-09-08 |  |
 | [Eva](https://open.spotify.com/track/2HvpDl7hp6JLH4UtKp3fTp) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Dark Passion Play](https://open.spotify.com/album/23DKEup8CZAYeGdjtwnpEE) | 4:25 | 2022-09-08 |  |
@@ -39,9 +40,9 @@
 | [Noise](https://open.spotify.com/track/0RZVAhyB8vhxQz6ITjiuyA) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [HUMAN\. :II: NATURE.](https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li) | 5:40 | 2022-09-08 |  |
 | [Our Decades in the Sun](https://open.spotify.com/track/4ACKwaUN9klaKLnay8eZjf) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Endless Forms Most Beautiful \(Deluxe Version\)](https://open.spotify.com/album/1tVEWlyn2nsAke3Lp7HoZ0) | 6:38 | 2022-09-08 |  |
 | [Over The Hills And Far Away](https://open.spotify.com/track/4004xnMLj5QGxWvu6JPcJ7) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Over The Hills And Far Away](https://open.spotify.com/album/4sPRDVFW50ZnrKDlg9SwIG) | 5:02 | 2022-09-08 |  |
-| [Pan](https://open.spotify.com/track/1XcTT3XqNalzJMamAiIqOW) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [HUMAN\. :II: NATURE.](https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li) | 5:18 | 2022-09-08 | 2022-09-16 |
+| [Pan](https://open.spotify.com/track/1XcTT3XqNalzJMamAiIqOW) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [HUMAN\. :II: NATURE.](https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li) | 5:18 | 2022-09-08 |  |
 | [Planet Hell](https://open.spotify.com/track/4aOUcByFqMhdnMWZqUkogv) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Once](https://open.spotify.com/album/2wM6svkNOCsYP8sr9gP2zc) | 4:38 | 2022-09-08 |  |
-| [Procession](https://open.spotify.com/track/7aIxfEHjebCNbs6bpKv9Go) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [HUMAN\. :II: NATURE.](https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li) | 5:31 | 2022-09-15 |  |
+| [Procession](https://open.spotify.com/track/7aIxfEHjebCNbs6bpKv9Go) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [HUMAN\. :II: NATURE.](https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li) | 5:31 | 2022-09-15 | 2022-09-17 |
 | [Romanticide \- Live, at Wacken, 2013](https://open.spotify.com/track/7gKZSUpLRgX9wP4IhEVJhA) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Showtime, Storytime \(Live, at Wacken, 2013\)](https://open.spotify.com/album/2EIvvMqgrCHORCpQBmJDjm) | 5:39 | 2022-09-08 |  |
 | [She Is My Sin](https://open.spotify.com/track/7FMS5A5YzxUOMIzTCT6KkW) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Wishmaster](https://open.spotify.com/album/4u5Ik7NMYl3EITJngbMS4V) | 4:46 | 2022-09-08 |  |
 | [Shoemaker](https://open.spotify.com/track/5xITcnqoMdILDBNCwHGr5v) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [HUMAN\. :II: NATURE.](https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li) | 5:19 | 2022-09-08 |  |

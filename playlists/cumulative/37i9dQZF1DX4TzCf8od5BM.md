@@ -4,7 +4,7 @@
 
 > Celebrate Disney Junior and magical storytelling through music! All the Disney Junior favorites, including Marvel’s Spidey and His Amazing Friends in one playlist!
 
-157 songs - 3 hr 59 min - [published](https://open.spotify.com/playlist/35jziUyrve0Ka69ZTcrf6K)
+159 songs - 4 hr 1 min - [published](https://open.spotify.com/playlist/35jziUyrve0Ka69ZTcrf6K)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Hot Dog! \- From "Mickey Mouse Clubhouse"](https://open.spotify.com/track/7HbVnCiUwE9Web7ZL9xHbv) | [They Might Be Giants \(For Kids\)](https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O) | [Disney Junior Music Dance Party! The Album](https://open.spotify.com/album/4kq1XGnRO3PJMirraOUHvK) | 2:28 | 2022-03-18 |  |
 | [Hot Dog! Dance Break 2019 \- From "Mickey Mouse Mixed\-Up Adventures"](https://open.spotify.com/track/3496wR3HlANisZ2PnCSW7r) | [They Might Be Giants \(For Kids\)](https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O) | [Hot Dog! Dance Break 2019 \(From “Mickey Mouse Mixed\-Up Adventures”\)](https://open.spotify.com/album/0uPKxPvPWaKl5NvXwETJFA) | 1:23 | 2022-03-18 |  |
 | [I Brush My Teeth](https://open.spotify.com/track/21CcXAr0c0aXyq7wFRhw6t) | [Rob Cantor](https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I) | [Disney Junior Music: Ready for Preschool Vol\. 2](https://open.spotify.com/album/5pGWhGWIzd5AjlLDk6ZJuZ) | 1:25 | 2022-03-18 |  |
+| [I'm a Firefighter](https://open.spotify.com/track/6OWfse0RdCkZQn9zaxiolV) | [Firebuds \- Cast](https://open.spotify.com/artist/302laih82Q7GtW72QI8sGR), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: Firebuds](https://open.spotify.com/album/6lqxNL9iYLCkY2jomLgY0u) | 1:09 | 2022-09-16 |  |
 | [I've Got a Friend Named Bob](https://open.spotify.com/track/4dQ3mGRpf96cs44j9w2yDJ) | ["Puppy Dog Pals" Cast](https://open.spotify.com/artist/6XYqhT02pSA6p3BoYe9P63) | [Disney Junior Music: Puppy Dog Pals \- Pup\-tastic Party](https://open.spotify.com/album/3veVX6rvkJ01H7UcpyOIp7) | 1:22 | 2022-03-18 |  |
 | [In Your Paws \- From "Sofia the First"](https://open.spotify.com/track/7EgZBRXDVS5LEDAkUaN4Au) | [Cast \- Sofia the First](https://open.spotify.com/artist/2ItqDyOHeQBaOPeZmKVu2p), [Clover](https://open.spotify.com/artist/25wd2jHq2IQ1lE3OXwpV1Y), [Crackle](https://open.spotify.com/artist/0RH65hnjf5URwYDjoxQ6Gr) | [Disney Junior DJ Shuffle 2](https://open.spotify.com/album/7mkN6sP8t2aa9ReN8Ir1oR) | 1:56 | 2022-03-18 |  |
 | [It's Raining, It's Pouring](https://open.spotify.com/track/3POKZKjJdiJ8YhzASXHHKI) | [Genevieve Goings](https://open.spotify.com/artist/33FChbguJKySyP5Spe5jiN) | [Disney Junior Music: Nursery Rhymes Vol\. 4](https://open.spotify.com/album/0CEROqJxzE7OTEqw1Fj30v) | 1:23 | 2022-03-18 |  |
@@ -103,6 +104,7 @@
 | [Mystery in the Sky](https://open.spotify.com/track/5iKZAwDvrBQMCwJ7jnZjqG) | [Mira, Royal Detective \- Cast](https://open.spotify.com/artist/4wz6QHgIkdmvQwhEmzwWZj) | [Disney Junior Music: Mira, Royal Detective Vol\. 2](https://open.spotify.com/album/114Dr2e40MUQcClW6nEEK4) | 1:08 | 2022-03-18 |  |
 | [Never Too Late](https://open.spotify.com/track/2C068jzbxCUJIfDSYVq2RT) | ["Elena Of Avalor" Cast](https://open.spotify.com/artist/0p6iNlkB41r1JtxZ3F6JMJ) | [Disney Junior Music: Elena of Avalor \- A Royal Celebration](https://open.spotify.com/album/1KIyVsSMujyeSL8CROmi9I) | 3:35 | 2022-03-18 |  |
 | [Old MacDonald Had a Farm](https://open.spotify.com/track/2BOsNAgMkMV2IbVRh6DZmG) | [Rob Cantor](https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I) | [Disney Junior Music Nursery Rhymes Vol\. 1](https://open.spotify.com/album/281OtNjwUK3eZWhEyPp53X) | 1:23 | 2022-03-18 |  |
+| [On the Move](https://open.spotify.com/track/2Gdr98slaL73rUB7AC4IWC) | [Firebuds \- Cast](https://open.spotify.com/artist/302laih82Q7GtW72QI8sGR), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: Firebuds](https://open.spotify.com/album/6lqxNL9iYLCkY2jomLgY0u) | 0:47 | 2022-09-16 |  |
 | [One Potato, Two Potato](https://open.spotify.com/track/3bdY37qu59mFKskAeZx9qP) | [Rob Cantor](https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I) | [Disney Junior Music: Nursery Rhymes Vol\. 2](https://open.spotify.com/album/2XM2zUWnQNkPyxxA5iUlOc) | 1:24 | 2022-03-18 |  |
 | [Pajama Jam](https://open.spotify.com/track/7o15Cd75YcT2PAOYpURnx0) | [Genevieve Goings](https://open.spotify.com/artist/33FChbguJKySyP5Spe5jiN) | [Disney Junior Music: Ready for Preschool Vol\. 3](https://open.spotify.com/album/3C9z0vWCkWpd7L3l4k1COO) | 1:27 | 2022-03-18 |  |
 | [Plain and Fancy](https://open.spotify.com/track/3w92mWSiXZYfM8wyYar7m1) | [Fancy Nancy \- Cast](https://open.spotify.com/artist/4l4bo3QrT0fqA2brroiv34) | [Disney Junior Music: Fancy Nancy](https://open.spotify.com/album/1mMKPPInoqT49MtSQYZK5N) | 0:59 | 2022-03-18 |  |

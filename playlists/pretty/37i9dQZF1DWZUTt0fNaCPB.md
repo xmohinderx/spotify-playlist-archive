@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUTt0fNaCPB.md) - [plain]
 
 > No need for a gadget, just play these rock songs to set your pace!
 
-[Spotify](https://open.spotify.com/user/spotify) - 915,413 likes - 75 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 915,620 likes - 75 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUTt0fNaCPB.md) - [plain]
 | 52 | [When Legends Rise](https://open.spotify.com/track/1Si7crvw1M6Kgz9XiAtMiJ) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [When Legends Rise](https://open.spotify.com/album/1n5bxxxowQ8ufvx2DXKeEV) | 2:52 |
 | 53 | [Ten Thousand Fists](https://open.spotify.com/track/5hkgrWxkobGtg30I7DsfVu) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Ten Thousand Fists](https://open.spotify.com/album/0Te7OvzuUMnbsqCneIDUm6) | 3:32 |
 | 54 | [Black Wedding \(feat\. Rob Halford\)](https://open.spotify.com/track/3zUwwYcmob803s2Bkck8GY) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT), [Rob Halford](https://open.spotify.com/artist/7CTjkl9M3enzBBfm1u10Sy) | [Ritual](https://open.spotify.com/album/1JIIc6FIetBaCAzWkCSBjL) | 4:07 |
-| 55 | [Narcissistic Cannibal \(feat\. Skrillex & Kill the Noise\)](https://open.spotify.com/track/65XY6Cx0263J5BPnY8mPyE) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM) | [The Path of Totality \(Special Edition\)](https://open.spotify.com/album/3ARqpnmjMB5O8uihXOOxbW) | 3:10 |
-| 56 | [Rats](https://open.spotify.com/track/4u39IY2QjY1utpNCCF4is0) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm) | 4:21 |
+| 55 | [Rats](https://open.spotify.com/track/4u39IY2QjY1utpNCCF4is0) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm) | 4:21 |
+| 56 | [Narcissistic Cannibal \(feat\. Skrillex & Kill the Noise\)](https://open.spotify.com/track/65XY6Cx0263J5BPnY8mPyE) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM) | [The Path of Totality \(Special Edition\)](https://open.spotify.com/album/3ARqpnmjMB5O8uihXOOxbW) | 3:10 |
 | 57 | [Lift Me Up](https://open.spotify.com/track/3EO0js63QHQQPqJt1TgBLQ) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM), [Rob Halford](https://open.spotify.com/artist/7CTjkl9M3enzBBfm1u10Sy) | [The Wrong Side of Heaven and the Righteous Side of Hell, Vol\. 1 \(Deluxe Edition\)](https://open.spotify.com/album/1qfm8YhH28Bgs3e8hutsqw) | 4:06 |
 | 58 | [Kill The Noise](https://open.spotify.com/track/3xr0ZIYqXVKogVu00fJRBX) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Kill The Noise](https://open.spotify.com/album/5Ob0D7DLOzpHe0KcZb67Ky) | 3:08 |
 | 59 | [The Violence](https://open.spotify.com/track/12C6ufD5zOWsQGHQY7aXRM) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Wolves](https://open.spotify.com/album/4sz6Fn4BYORRLIc1AvQwQx) | 3:48 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUTt0fNaCPB.md) - [plain]
 | 65 | [From Hell with Love](https://open.spotify.com/track/3iKSyNDGzJ3FcjXoDKqehS) | [Beast In Black](https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH) | [From Hell with Love](https://open.spotify.com/album/3aT1PLgA6MomsX7MMlNRHr) | 3:55 |
 | 66 | [Eyes Of A Panther](https://open.spotify.com/track/68ZY22YJeDxvcpQCg6u6SX) | [Steel Panther](https://open.spotify.com/artist/3l02WF362j1oHOurzuseBv) | [Feel The Steel](https://open.spotify.com/album/6RqKEPUHvfSB7jhMomUv67) | 3:36 |
 | 67 | [Same Direction](https://open.spotify.com/track/4QVD4vVkYveZuO0xkyi6AX) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [The Reason \(15th Anniversary Deluxe\)](https://open.spotify.com/album/2zE1YKY7Okj10Tjl09jjth) | 3:15 |
-| 68 | [BURN IT](https://open.spotify.com/track/2j02RtZz6v53FRw4oWliZf) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [STRENGTH IN NUMB333RS](https://open.spotify.com/album/5PvosHtqCuqLK8A131lGZf) | 3:52 |
-| 69 | [At the Break of Dawn](https://open.spotify.com/track/7Afg7GsTbQa9WWbFQINevi) | [Arion](https://open.spotify.com/artist/0c09mxGbMHuFLpPJMY6JdA), [Elize Ryd](https://open.spotify.com/artist/4aHpq3SeE9HiKNft9Bcj55) | [Life Is Not Beautiful](https://open.spotify.com/album/37Kj4n1FrQ0mtDQdpN0KSt) | 3:31 |
+| 68 | [At the Break of Dawn](https://open.spotify.com/track/7Afg7GsTbQa9WWbFQINevi) | [Arion](https://open.spotify.com/artist/0c09mxGbMHuFLpPJMY6JdA), [Elize Ryd](https://open.spotify.com/artist/4aHpq3SeE9HiKNft9Bcj55) | [Life Is Not Beautiful](https://open.spotify.com/album/37Kj4n1FrQ0mtDQdpN0KSt) | 3:31 |
+| 69 | [BURN IT](https://open.spotify.com/track/2j02RtZz6v53FRw4oWliZf) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [STRENGTH IN NUMB333RS](https://open.spotify.com/album/5PvosHtqCuqLK8A131lGZf) | 3:52 |
 | 70 | [The Pretender](https://open.spotify.com/track/6HNruFQlzQx4ulL4ppRLYI) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Greatest Hits](https://open.spotify.com/album/1zCNrbPpz5OLSr6mSpPdKm) | 4:27 |
 | 71 | [Pirates](https://open.spotify.com/track/0L639McB94IkUvIgZKM1E5) | [Bullets And Octane](https://open.spotify.com/artist/6Ku6HNSfgFrk2c3KIlf2j9) | [The Revelry](https://open.spotify.com/album/3nmvg9pydv2QR8q1JV0fmp) | 2:19 |
 | 72 | [1234](https://open.spotify.com/track/19T79JA6PgqCbYOYZ3e1bV) | [Emigrate](https://open.spotify.com/artist/29fyAsYdzkCIH96xB40um1), [Benjamin Kowalewicz](https://open.spotify.com/artist/1ysul2Zu0lQs8JMWXSnEa9) | [A Million Degrees](https://open.spotify.com/album/1aqmmK0ORKz719r7MLMHQO) | 3:22 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUTt0fNaCPB.md) - [plain]
 | 74 | [Demon Speeding](https://open.spotify.com/track/605hJIiMrdsUjr4Vx4BFD6) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Sinister Urge](https://open.spotify.com/album/2ExOcLFwyExzkXK0ea180I) | 3:44 |
 | 75 | [Breathe Again](https://open.spotify.com/track/1NkHDIbGjHqFjZJrdHjQGZ) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Breathe Again](https://open.spotify.com/album/5S9HFBNWUGkRsurXXB6O0m) | 3:11 |
 
-Snapshot ID: `MTY2MjEwMjg4NiwwMDAwMDAwMDE5NDQxYmE5YzdhZmQ3ODgzMjExZWU1NzU4ZjNiMTNm`
+Snapshot ID: `MTY2MjEwMjg4NiwwMDAwMDAwMDkyOTE3MGU2NWYzODRkOTVhYmZmOGY1NDMyNTk3OTYx`

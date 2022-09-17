@@ -2,9 +2,9 @@
 
 ### [Punjabi Pyar](https://open.spotify.com/playlist/37i9dQZF1DWSKoG4oVafMt)
 
-> The very best of Punjabi romance featuring B Praak
+> The very best of Punjabi romance featuring Jas
 
-547 songs - 1 day 5 hr 34 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
+548 songs - 1 day 5 hr 38 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Aadi Ve](https://open.spotify.com/track/0aQCAqdET216JkGFOwZ0NL) | [Runbir](https://open.spotify.com/artist/5noqLj1lBL60sqwh4ydVch) | [Walking Alone](https://open.spotify.com/album/1n6rmODHCXkbTcHyg6HOXI) | 2:38 | 2022-02-04 | 2022-02-12 |
 | [Aakad](https://open.spotify.com/track/0DziIKzDddNVB14PevbpX0) | [JSL Singh](https://open.spotify.com/artist/1411qE3e3uMmyj0XQ2CeoA), [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [Harshit Tomar](https://open.spotify.com/artist/7kp8fEjy8zTWqhYuhJeEav), [Vishaka Raghav](https://open.spotify.com/artist/5fRXkp2HikAh7gLrfoUio9), [Iza Sethia & Shivani Taneja](https://open.spotify.com/artist/4pH5ROhadz4dvdLmuhTLLS) | [Aakad](https://open.spotify.com/album/6Tbf4XYkDcdqErrvvnLQg7) | 3:17 | 2022-08-19 | 2022-09-01 |
 | [Aakad](https://open.spotify.com/track/5LpaK0acRyI2s10rBQg7Gk) | [Kamal Khaira](https://open.spotify.com/artist/611kJcFqEoj80sHHFeDECi) | [Aakad](https://open.spotify.com/album/1vrZ966dlxBaZf3xC5tzzW) | 3:48 | 2022-02-04 | 2022-02-12 |
+| [Adhi Raat \- From "Love Thunder"](https://open.spotify.com/track/1aSnOIDf1IxVuSDNWmDkff) | [Jass Manak](https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8) | [Adhi Raat \(From "Love Thunder"\)](https://open.spotify.com/album/47vOI472akK6HkuR3Odtn5) | 3:33 | 2022-09-16 |  |
 | [Adore You](https://open.spotify.com/track/6O0tJTjpI99TQD8bvtM6HM) | [Kulwinder Billa](https://open.spotify.com/artist/0CP2yDO5i5Q2G1fRj6C8JV) | [Adore You](https://open.spotify.com/album/3XgsHoifkQL6F6K3kMwnYJ) | 2:59 | 2022-05-20 | 2022-07-06 |
 | [Adore You \- 1 Min Music](https://open.spotify.com/track/1pFOGFtQyqdlFgzmSVJ2fz) | [Prabh Gill](https://open.spotify.com/artist/4F5ZNBJDep3GTrMip2tpI4) | [Adore You \- 1 Min Music](https://open.spotify.com/album/52P5TmTNdXKwmOhy18cmrZ) | 1:00 | 2022-07-16 |  |
 | [Aj Kal Ve](https://open.spotify.com/track/0TYsZbl0ryJSUvyQeeLBRG) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Snitches Get Stitches](https://open.spotify.com/album/4lGKsta6BzDVgzKfcSCC7E) | 3:23 | 2021-12-02 |  |

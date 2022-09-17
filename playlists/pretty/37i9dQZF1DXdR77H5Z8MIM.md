@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdR77H5Z8MIM.md) - [plain]
 
 > Time to press play on these jaem jams from 2010 onwards! Cover: TWICE
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,392 likes - 70 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,524 likes - 70 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdR77H5Z8MIM.md) - [plain]
 | 55 | [Given\-Taken](https://open.spotify.com/track/69WpV0U7OMNFGyq8I63dcC) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : DAY ONE](https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH) | 3:03 |
 | 56 | [ASAP](https://open.spotify.com/track/5BXr7hYZQOeRttkeWYTq5S) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [STAYDOM](https://open.spotify.com/album/71hjsg660uio3Z8bnbB6fS) | 3:14 |
 | 57 | [Chicken Noodle Soup \(feat\. Becky G\)](https://open.spotify.com/track/2y6Ty2NPAsP84XJAtzLxuk) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Chicken Noodle Soup \(feat\. Becky G\)](https://open.spotify.com/album/2wwGHSWLwrlXDmi3DEaZ4A) | 3:55 |
-| 58 | [Not Shy](https://open.spotify.com/track/1ehags7lQMM1qX94VJkoaf) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Not Shy](https://open.spotify.com/album/5NN55LKbjzX16a7Uf8u7Os) | 2:57 |
-| 59 | [LOVE SCENARIO](https://open.spotify.com/track/3d3ELsqKlQ7WA0a10Isu3l) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [Return](https://open.spotify.com/album/7th9VLudqM04TpG8hNE1pb) | 3:29 |
+| 58 | [LOVE SCENARIO](https://open.spotify.com/track/3d3ELsqKlQ7WA0a10Isu3l) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [Return](https://open.spotify.com/album/7th9VLudqM04TpG8hNE1pb) | 3:29 |
+| 59 | [Not Shy](https://open.spotify.com/track/1ehags7lQMM1qX94VJkoaf) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Not Shy](https://open.spotify.com/album/5NN55LKbjzX16a7Uf8u7Os) | 2:57 |
 | 60 | [On The Ground](https://open.spotify.com/track/2pn8dNVSpYnAtlKFC8Q0DJ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [R](https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob) | 2:48 |
 | 61 | [Bad Boy](https://open.spotify.com/track/5GKwq4sO5ZHKuWaDmdwMQc) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Perfect Red Velvet \- The 2nd Album Repackage](https://open.spotify.com/album/0OkJThJls8FO1lutMzMDJ0) | 3:30 |
 | 62 | [MOMMAE](https://open.spotify.com/track/1LNlfvPQmB0cqYJQQskZ8x) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Ugly Duck](https://open.spotify.com/artist/0Qr4St9aCOLu41Nt5QZIz1) | [Worldwide](https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf) | 3:24 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdR77H5Z8MIM.md) - [plain]
 | 69 | [LA DI DA](https://open.spotify.com/track/6mIjJONoUMvGPT9Kzrab3L) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [\-77.82x\-78.29](https://open.spotify.com/album/4kMID9cggWEko9mOb1zisI) | 3:30 |
 | 70 | [러시안 룰렛 Russian Roulette](https://open.spotify.com/track/5HiSc2ZCGn8L3cH3qSwzBT) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Russian Roulette \- The 3rd Mini Album](https://open.spotify.com/album/6MNlcai3skKLKv5syzFwC3) | 3:31 |
 
-Snapshot ID: `MTY2MDEwNDA3NywwMDAwMDAwMDg0YWViMWY4MDY4MTIxNmIyZmI2NmZmZjcwMjFmMWJm`
+Snapshot ID: `MTY2MDEwNDA3NywwMDAwMDAwMGI3YzI4ZTUzN2Y4YTRjN2ZhYzI0NTliMmEwMGI5Yzhl`

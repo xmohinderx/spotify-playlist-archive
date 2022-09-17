@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 
 > Roots and acoustic tunes, for sun drenched days and balmy nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,223 likes - 55 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,221 likes - 55 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 | 12 | [Stoney Creek](https://open.spotify.com/track/0ik7YpGVcjTkXBrUv4SaqR) | [Xavier Rudd](https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD) | [Jan Juc Moon](https://open.spotify.com/album/0zXonPXtpDEb32sy6PkTsw) | 4:37 |
 | 13 | [Carry You With Me](https://open.spotify.com/track/2zwWemTFAsXkKZYa1MFvRF) | [Voyageur](https://open.spotify.com/artist/4e96iK3tKVtBuCdQPjoik8) | [Carry You With Me](https://open.spotify.com/album/0x0JjWPGNvgnJ4KhJRaXeD) | 4:18 |
 | 14 | [this is how you fall in love](https://open.spotify.com/track/0r9M8ibaXQcsRoODyUpZmi) | [Parker Rose](https://open.spotify.com/artist/1t08EEn6XWinnrPBMQzcwF) | [this is how you fall in love](https://open.spotify.com/album/1whjydDxsqNT56EuVTNxxp) | 2:41 |
-| 15 | [Stay Safe](https://open.spotify.com/track/6STzLUBbmGBh0DU143vkdI) | [Husky Gawenda](https://open.spotify.com/artist/1sNJ4MiIoUC38wEPkXdW1W) | [Stay Safe](https://open.spotify.com/album/636X3GYDc89jyQOSoQCSt8) | 1:55 |
+| 15 | [Stay Safe](https://open.spotify.com/track/2OyUCgOQnG9n4FZCCk0XD7) | [Husky Gawenda](https://open.spotify.com/artist/1sNJ4MiIoUC38wEPkXdW1W) | [Bedroom Ice Age](https://open.spotify.com/album/2EqclbDgaBBTn0SSQfDmcl) | 1:55 |
 | 16 | [Zombie](https://open.spotify.com/track/0LiD0XPrfp8dASlLaNKoGx) | [Lisa Mitchell](https://open.spotify.com/artist/53f2OKMfVLTsHFkGyA5dnz) | [Zombie](https://open.spotify.com/album/4kMsFylgetTOgEenaqqrUW) | 3:35 |
 | 17 | [Idiot Day](https://open.spotify.com/track/1Sizsyh5IFxCldO3vyNTn4) | [Antony Jeffares](https://open.spotify.com/artist/7iG6YfPIDZS6ZwbnCf56of) | [When Twilight Comes \(I Am Still Yearning\)](https://open.spotify.com/album/3z7s2nqsEcdmQiQzw5qaDm) | 2:36 |
 | 18 | [Kinder](https://open.spotify.com/track/3laEqX58fkjwQQeftYWtfu) | [Isaac Jensen](https://open.spotify.com/artist/2mUTW5cFUAQxpWOjq31yYb) | [Kinder](https://open.spotify.com/album/4klHqdr3ef7C3XvmUu0Cir) | 3:26 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 | 54 | [Morning Light](https://open.spotify.com/track/4WTshd9xB6Y3HHd8snMMQ1) | [Dusty Boots](https://open.spotify.com/artist/4f7aac6rSCC2VopLH049zY) | [Morning Light](https://open.spotify.com/album/78DnLLGhKsf0jgegmqSja9) | 3:11 |
 | 55 | [Midsummer](https://open.spotify.com/track/0WuXqVDS9LLN41RGSAXuVe) | [Paper Cranes 折り鶴](https://open.spotify.com/artist/5YZSzTjciJAaAek3ujVhpc) | [Voices](https://open.spotify.com/album/4MR4vc3bWQwAaZdbAmH7t9) | 2:45 |
 
-Snapshot ID: `MTYzODI1MzkyNiwwMDAwMDAwMDlmNzk2ZmZiYmI5Y2Q0NTcwOWNlMDgxNDI2NzE2N2Zh`
+Snapshot ID: `MTYzODI1MzkyNiwwMDAwMDAwMGQ0ODY4MGQzYzExNjVmNzhkMzE1MDcxMDkxZDBmOGFm`

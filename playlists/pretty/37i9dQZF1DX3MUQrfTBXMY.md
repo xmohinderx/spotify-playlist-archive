@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MUQrfTBXMY.md) - [plain]
 
 > Headbangers of Bangladesh\. Cover \- Meghdol
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,020 likes - 84 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,045 likes - 84 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

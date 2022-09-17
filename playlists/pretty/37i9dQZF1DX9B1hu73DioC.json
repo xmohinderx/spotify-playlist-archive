@@ -1,12 +1,12 @@
 {
   "description": "Chill. The best indie tracks for just hanging out.",
-  "num_followers": 742771,
+  "num_followers": 742830,
   "original_name": "Indie Chillout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzI2MDEwMSwwMDAwMDAwMDJhZWQ0MGE5NGFiY2ExYmFkNDkwYTZjZGVlNzBhZjNl",
+  "snapshot_id": "MTY2MzI2MDEwMSwwMDAwMDAwMDM1NzgwYjlmNzg3ZjE1M2E0NmM0OTlhMWNmMWFkOGEy",
   "tracks": [
     {
       "added_at": "2022-09-02 18:24:30",
@@ -301,6 +301,22 @@
       "url": "https://open.spotify.com/track/3pyyGVqWvRMq43qtJBzxe0"
     },
     {
+      "added_at": "2022-09-07 16:03:53",
+      "album": {
+        "name": "Ivory",
+        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 216680,
+      "name": "Evergreen (You Didn\u2019t Deserve Me At All)",
+      "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
+    },
+    {
       "added_at": "2022-09-02 18:24:30",
       "album": {
         "name": "Shadows",
@@ -331,22 +347,6 @@
       "duration_ms": 188453,
       "name": "Them Changes",
       "url": "https://open.spotify.com/track/7CH99b2i1TXS5P8UUyWtnM"
-    },
-    {
-      "added_at": "2022-09-07 16:03:53",
-      "album": {
-        "name": "Ivory",
-        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 216680,
-      "name": "Evergreen (You Didn\u2019t Deserve Me At All)",
-      "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
     },
     {
       "added_at": "2022-09-02 18:24:30",
@@ -671,22 +671,6 @@
     {
       "added_at": "2022-09-02 18:24:30",
       "album": {
-        "name": "Casita",
-        "url": "https://open.spotify.com/album/584aNZB5CF6IXG90Ch28KC"
-      },
-      "artists": [
-        {
-          "name": "Goth Babe",
-          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Casita",
-      "url": "https://open.spotify.com/track/3HjAGIYYXG7PS7OegQa0xM"
-    },
-    {
-      "added_at": "2022-09-02 18:24:30",
-      "album": {
         "name": "CDW",
         "url": "https://open.spotify.com/album/6gCycQSo1Yp503MXyvzSF9"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 224481,
       "name": "Work",
       "url": "https://open.spotify.com/track/1knUACOt5yfNAYn7gnYQVt"
+    },
+    {
+      "added_at": "2022-09-02 18:24:30",
+      "album": {
+        "name": "Casita",
+        "url": "https://open.spotify.com/album/584aNZB5CF6IXG90Ch28KC"
+      },
+      "artists": [
+        {
+          "name": "Goth Babe",
+          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Casita",
+      "url": "https://open.spotify.com/track/3HjAGIYYXG7PS7OegQa0xM"
     },
     {
       "added_at": "2022-09-02 18:24:30",
@@ -767,22 +767,6 @@
     {
       "added_at": "2022-09-02 18:24:30",
       "album": {
-        "name": "Blood Type",
-        "url": "https://open.spotify.com/album/1xpNb3oOnWsZJYQyomLe4Z"
-      },
-      "artists": [
-        {
-          "name": "Cautious Clay",
-          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
-        }
-      ],
-      "duration_ms": 202597,
-      "name": "Cold War",
-      "url": "https://open.spotify.com/track/6DwiGVCgXGREeCyJZtX7S1"
-    },
-    {
-      "added_at": "2022-09-02 18:24:30",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4yLdDDVmXRbB5q2hFGac4t"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 190392,
       "name": "Truly Madly Deeply - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/0ApIlfcdY0hVdVEVUyS2Zf"
+    },
+    {
+      "added_at": "2022-09-02 18:24:30",
+      "album": {
+        "name": "Blood Type",
+        "url": "https://open.spotify.com/album/1xpNb3oOnWsZJYQyomLe4Z"
+      },
+      "artists": [
+        {
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+        }
+      ],
+      "duration_ms": 202597,
+      "name": "Cold War",
+      "url": "https://open.spotify.com/track/6DwiGVCgXGREeCyJZtX7S1"
     },
     {
       "added_at": "2022-09-02 18:24:30",
@@ -951,22 +951,6 @@
     {
       "added_at": "2022-09-02 18:24:30",
       "album": {
-        "name": "Asc. Scorpio",
-        "url": "https://open.spotify.com/album/2Nsk6k3DXUFJ5sZifoM2fk"
-      },
-      "artists": [
-        {
-          "name": "Oracle Sisters",
-          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
-        }
-      ],
-      "duration_ms": 166601,
-      "name": "Asc. Scorpio",
-      "url": "https://open.spotify.com/track/13zkVsNIyXsagdlbg7ulWO"
-    },
-    {
-      "added_at": "2022-09-02 18:24:30",
-      "album": {
         "name": "I Don't Know",
         "url": "https://open.spotify.com/album/0C0Oq2jJhJ4Rs6IwgCe0Ob"
       },
@@ -983,18 +967,18 @@
     {
       "added_at": "2022-09-02 18:24:30",
       "album": {
-        "name": "Patience",
-        "url": "https://open.spotify.com/album/65siSh34OjZPMx0obk0YRj"
+        "name": "Asc. Scorpio",
+        "url": "https://open.spotify.com/album/2Nsk6k3DXUFJ5sZifoM2fk"
       },
       "artists": [
         {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+          "name": "Oracle Sisters",
+          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
         }
       ],
-      "duration_ms": 292267,
-      "name": "Patience",
-      "url": "https://open.spotify.com/track/2drEUEg0TYQR6dDEHkpuPE"
+      "duration_ms": 166601,
+      "name": "Asc. Scorpio",
+      "url": "https://open.spotify.com/track/13zkVsNIyXsagdlbg7ulWO"
     },
     {
       "added_at": "2022-09-02 18:24:30",
@@ -1011,6 +995,22 @@
       "duration_ms": 176146,
       "name": "Sarah",
       "url": "https://open.spotify.com/track/0Xmz2shisTG8peoqnFj5tu"
+    },
+    {
+      "added_at": "2022-09-02 18:24:30",
+      "album": {
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/65siSh34OjZPMx0obk0YRj"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 292267,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/2drEUEg0TYQR6dDEHkpuPE"
     },
     {
       "added_at": "2022-09-02 18:24:30",

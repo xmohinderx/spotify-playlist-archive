@@ -2,9 +2,9 @@
 
 ### [Internacional Mexicano](https://open.spotify.com/playlist/37i9dQZF1DXbApqiewDQsL)
 
-> The songs and collaborations pushing the Mexican sound to a global level\. Cover: Christian Nodal, Romeo Santos.
+> The songs and collaborations pushing the Mexican sound to a global level\. Cover: Piso 21 & Carin Leon
 
-61 songs - 3 hr 27 min - [published](https://open.spotify.com/playlist/6afbS8jMGP22mlmpnwyCdP)
+62 songs - 3 hr 31 min - [published](https://open.spotify.com/playlist/6afbS8jMGP22mlmpnwyCdP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [La Verdad](https://open.spotify.com/track/5XrRfnVqGtEhGjMqr9JtrQ) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [Drakeo the Ruler](https://open.spotify.com/artist/0p4ViyfJUTW0IT4SCBLexf) | [La Verdad](https://open.spotify.com/album/1ZbvuFVcUq5P15TqmYuVBA) | 2:21 | 2022-05-13 |  |
 | [Las Niñas Malas \(with Edwin Luna y La Trakalosa de Monterrey\)](https://open.spotify.com/track/3o9y6YJzOuWn6yB26AhiFW) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [Las Niñas Malas \(with Edwin Luna y La Trakalosa de Monterrey\)](https://open.spotify.com/album/0zdgLvmtc5MJmD8Xf8gwsX) | 3:03 | 2022-05-13 |  |
 | [Llorar y Llorar \- con Carin Leon](https://open.spotify.com/track/4YF13O2n16dcTyGgVmiGvN) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Llorar y Llorar \(con Carin Leon\)](https://open.spotify.com/album/3FytBDr6KeYhwstN8yanrn) | 2:49 | 2022-06-24 |  |
-| [Malas Decisiones](https://open.spotify.com/track/7uNwhb9YKbT8poWlUN1L46) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Matt Hunter](https://open.spotify.com/artist/20pVLDSueWpSOPCWnCWzIU) | [Vuelve](https://open.spotify.com/album/4cZukU1kJ55MUGKTRkgge2) | 2:59 | 2022-05-13 |  |
+| [Malas Decisiones](https://open.spotify.com/track/7uNwhb9YKbT8poWlUN1L46) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Matt Hunter](https://open.spotify.com/artist/20pVLDSueWpSOPCWnCWzIU) | [Vuelve](https://open.spotify.com/album/4cZukU1kJ55MUGKTRkgge2) | 2:59 | 2022-05-13 | 2022-09-17 |
 | [Me Extraño](https://open.spotify.com/track/3qx4POjFiODHPwCBjq8IEW) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Fórmula, Vol\. 3](https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF) | 3:11 | 2022-09-02 |  |
 | [Me Ven Manejando](https://open.spotify.com/track/2T52ALl72hzvYhYahoqBIK) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN), [Trae Tha Truth](https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy) | [Me Ven Manejando](https://open.spotify.com/album/4zdL0W4Jzfy4aKTSRpSP3S) | 3:25 | 2022-05-13 |  |
 | [Municiones](https://open.spotify.com/track/2nVOSrxGjCqblT9CKqEMHi) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Los Dioses](https://open.spotify.com/album/28adqly9V7wm5DFr7hlqtK) | 2:55 | 2022-05-13 |  |
@@ -57,6 +57,7 @@
 | [Poco](https://open.spotify.com/track/6VZMIyzOupI4vA68RaUgXb) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Poco](https://open.spotify.com/album/0rRmn2Y11t41spl9rYaxLC) | 3:45 | 2022-05-13 |  |
 | [Por Dentro](https://open.spotify.com/track/59Z1qb7vX4nMksBQ9vIkRr) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [$ad Boyz 4 Life](https://open.spotify.com/album/0X24VcVf6nQJ52c5QmncsO) | 5:14 | 2022-05-13 |  |
 | [Probablemente](https://open.spotify.com/track/3uc5bBXNRtCQGzRDqTPGNK) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Me Dejé Llevar](https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv) | 3:53 | 2022-05-13 |  |
+| [Que Triste](https://open.spotify.com/track/0smvBTED0Px0rqPf3tobpt) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Que Triste](https://open.spotify.com/album/36RNXuLE0BmLqqS36VDpWF) | 3:46 | 2022-09-16 |  |
 | [Qué Maldición \- Remix](https://open.spotify.com/track/0SWfXjPmLSUydYzwK9ct9F) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Qué Maldición \(Remix\)](https://open.spotify.com/album/4dQqCFHI3jRAdCWJHZ2n1L) | 3:44 | 2022-05-13 |  |
 | [Qué Maldición](https://open.spotify.com/track/2RxC2peY3FtrurYmbbmanr) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Qué Maldición](https://open.spotify.com/album/3w8ZmQeTQo1390hdupmxvJ) | 3:23 | 2022-05-13 |  |
 | [Saco La Paca](https://open.spotify.com/track/1OWYOkf5VApIjWnOynKFJH) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [Desde El Infierno](https://open.spotify.com/album/2GzPIRTuUasRgnSyvcSs7n) | 2:27 | 2022-05-13 | 2022-07-28 |

@@ -2,12 +2,13 @@
 
 ### [Heavy Metal](https://open.spotify.com/playlist/37i9dQZF1DX9qNs32fujYe)
 
-> Heavy Metal forever\. From classics to fresh new tracks, just play it loud! Cover: Lamb Of God
+> Heavy Metal forever\. From classics to fresh new tracks, just play it loud! Cover: Motörhead
 
-649 songs - 2 day 0 hr 33 min - [published](https://open.spotify.com/playlist/6NpBTQ0b3N3b1zdtxQGNsV)
+650 songs - 2 day 0 hr 36 min - [published](https://open.spotify.com/playlist/6NpBTQ0b3N3b1zdtxQGNsV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\(Don't Let 'Em\) Grind Ya Down \- Live at Glasgow Apollo, 18th March 1982](https://open.spotify.com/track/48dAc10HfSHfosBJM01QQ9) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [\(Don't Let 'Em\) Grind Ya Down \[Live at Glasgow Apollo, 18th March 1982\]](https://open.spotify.com/album/75gdLiRVeqWyS4YWJwF7XH) | 3:33 | 2022-09-16 |  |
 | [\(We make\) Sweden Rock](https://open.spotify.com/track/3N56fEJqHbCpcDav9wcThU) | [HammerFall](https://open.spotify.com/artist/2o18h28enlHxj887tATc58) | [\(We Make\) Sweden Rock](https://open.spotify.com/album/1k8eg8tVFM6NBEdeGTUopG) | 4:15 | 2021-12-29 | 2022-04-21 |
 | [111 – the Number of the Angels](https://open.spotify.com/track/3bbAEbvxWvrhSjYYPusrlo) | [Freedom Call](https://open.spotify.com/artist/55RDuy7cQW2Dqrcz3Jjl6F) | [111 – the Number of the Angels](https://open.spotify.com/album/7JAj5D6w9vUT3IkcG5iLs4) | 3:50 | 2022-03-22 | 2022-04-20 |
 | [112](https://open.spotify.com/track/6Ef5D1XQrboIMC4UY9jptf) | [Lost Society](https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN) | [112](https://open.spotify.com/album/0aq677QTRSYPj3sbsDGjKv) | 3:49 | 2022-05-20 | 2022-06-19 |
@@ -598,7 +599,7 @@
 | [Uranus \(feat\. Michael Starr\)](https://open.spotify.com/track/6F5OGRRIQDc5hF60mcjSTx) | [NanowaR of Steel](https://open.spotify.com/artist/7jw9vF1hFRp1k8dDRNRiC5), [Michael Starr](https://open.spotify.com/artist/6tTXfeP8gXGYMxWOz1Epwe) | [Uranus \(feat\. Michael Starr\)](https://open.spotify.com/album/5KquqpCt18zTEVgakTfLYz) | 4:13 | 2021-12-17 | 2022-07-29 |
 | [Valley of the Kings](https://open.spotify.com/track/3GM0xXSvZFcBspltFsLMS3) | [Saxon](https://open.spotify.com/artist/71vVmHeNgCVSa5SVmfvscU) | [Into The Labyrinth](https://open.spotify.com/album/1DWnVZr8DefUXkqSp5KPal) | 5:03 | 2021-12-17 | 2022-05-06 |
 | [Vanguards of the Dawn Wall](https://open.spotify.com/track/4XbwnpiUUsp4ZXlm0q2oni) | [Todd La Torre](https://open.spotify.com/artist/7j4Dx7ph7lqvcqDBsLXIdx) | [Vanguards of the Dawn Wall](https://open.spotify.com/album/4pwFiUCKIy2jJhF1QrGrh3) | 3:39 | 2021-12-29 | 2022-04-19 |
-| [Venerate Me](https://open.spotify.com/track/6D1i1hoMyjs843XbMhNq8J) | [HammerFall](https://open.spotify.com/artist/2o18h28enlHxj887tATc58) | [Venerate Me](https://open.spotify.com/album/31N7LU5QrRO1FffpS3oBH7) | 4:43 | 2022-01-21 |  |
+| [Venerate Me](https://open.spotify.com/track/6D1i1hoMyjs843XbMhNq8J) | [HammerFall](https://open.spotify.com/artist/2o18h28enlHxj887tATc58) | [Venerate Me](https://open.spotify.com/album/31N7LU5QrRO1FffpS3oBH7) | 4:43 | 2022-01-21 | 2022-09-17 |
 | [Vicious Cycle](https://open.spotify.com/track/0qF4xqpP1jTTmFLqgGPSYX) | [Slackjaw](https://open.spotify.com/artist/1Y4F23k7mxcA9Jxm9kpYlw) | [Vicious Cycle](https://open.spotify.com/album/5BIAY8cLV0a2hOrpp8Ss9n) | 6:10 | 2022-03-22 | 2022-04-01 |
 | [Victorious](https://open.spotify.com/track/5fj8gbxJ0LR464ylTwJPZ6) | [Psychework](https://open.spotify.com/artist/4uKphGSJb3SgI2gsAbcCPp) | [Victorious](https://open.spotify.com/album/3dYmEXVat2fvSDh0JimSjR) | 3:55 | 2021-12-17 | 2022-07-26 |
 | [Viva La Victoria](https://open.spotify.com/track/0TpukZ7KJGyxYGFe6AgtOD) | [Eclipse](https://open.spotify.com/artist/23ajwxFk5RBpPERZrcjHUr) | [Viva La Victoria](https://open.spotify.com/album/22VcmOjOj8Dx7GBcYmFu8A) | 3:11 | 2021-12-17 |  |

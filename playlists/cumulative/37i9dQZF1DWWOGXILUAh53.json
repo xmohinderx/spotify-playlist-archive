@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hottest new pop with the all the drops. Cover: Gryffin, Kygo & Calum Scott",
+  "description": "The hottest new pop with the all the drops. Cover: Daya",
   "name": "Fresh Dance Pop",
   "published_playlist_ids": [
     "0Wt1WNhsHEp62QHeiMAcMq"
@@ -964,6 +964,28 @@
     },
     {
       "album": {
+        "name": "Call It Love",
+        "url": "https://open.spotify.com/album/5c3YGhnf058Op4YviM73wn"
+      },
+      "artists": [
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "Ray Dalton",
+          "url": "https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154560,
+      "name": "Call It Love",
+      "url": "https://open.spotify.com/track/5YdnOm5990Kfq1Jodws98B"
+    },
+    {
+      "album": {
         "name": "Call On Me (feat. Georgia Ku)",
         "url": "https://open.spotify.com/album/5QMT9mIOJDWUfoDZwUKYvc"
       },
@@ -1217,7 +1239,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 231832,
       "name": "Colors (with Eyelar)",
       "url": "https://open.spotify.com/track/7tw2IW7jxu4v2t6pe5NlKK"
@@ -1502,6 +1524,24 @@
     },
     {
       "album": {
+        "name": "Deeper",
+        "url": "https://open.spotify.com/album/2kJhDwtK0JKXfp4mWKsec1"
+      },
+      "artists": [
+        {
+          "name": "Amari",
+          "url": "https://open.spotify.com/artist/7oUBfJfNM6Fh0pO5EdbM6P"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161208,
+      "name": "Deeper",
+      "url": "https://open.spotify.com/track/67HkdtQ3y89725CNHZ2oHt"
+    },
+    {
+      "album": {
         "name": "Deja Vu",
         "url": "https://open.spotify.com/album/1RDus4fqaHwhQzqRiidAEY"
       },
@@ -1579,7 +1619,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 190923,
       "name": "Didn't Know Lonely",
       "url": "https://open.spotify.com/track/1TVRKXD6RkBNTE7F11Pexm"
@@ -2227,6 +2267,46 @@
       "duration_ms": 208017,
       "name": "Forgive Me (feat. Izzy Bizu)",
       "url": "https://open.spotify.com/track/3IUiA6msgyFl3f8kzbdgQP"
+    },
+    {
+      "album": {
+        "name": "Hold The Girl",
+        "url": "https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192072,
+      "name": "Frankenstein",
+      "url": "https://open.spotify.com/track/4nYUJ36Qj9hIY9mKj8QZFF"
+    },
+    {
+      "album": {
+        "name": "From The Ashes (with Skylar Grey)",
+        "url": "https://open.spotify.com/album/3VH8ly1obBbFxSJodod4eD"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Skylar Grey",
+          "url": "https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253983,
+      "name": "From The Ashes (with Skylar Grey)",
+      "url": "https://open.spotify.com/track/3bEkAkaKjxaC7DubsfCo1t"
     },
     {
       "album": {
@@ -2919,7 +2999,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 207023,
       "name": "I Told You",
       "url": "https://open.spotify.com/track/42gwqd35893WOKpyNLRcCL"
@@ -2945,7 +3025,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 183709,
       "name": "I Want You Back",
       "url": "https://open.spotify.com/track/1XAS0CPe7qETERIEjqXBak"
@@ -5346,6 +5426,28 @@
     },
     {
       "album": {
+        "name": "Save Me (feat. Kiddo A.I.)",
+        "url": "https://open.spotify.com/album/1aBVzTtO3N59K3gJpyXIvM"
+      },
+      "artists": [
+        {
+          "name": "Lost Kings",
+          "url": "https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc"
+        },
+        {
+          "name": "Kiddo A.I.",
+          "url": "https://open.spotify.com/artist/4oVcSA60yk5jowh3pDMcR9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187747,
+      "name": "Save Me (feat. Kiddo A.I.)",
+      "url": "https://open.spotify.com/track/591wGDMg5Bnus2laEIK2Ac"
+    },
+    {
+      "album": {
         "name": "Sci-Fi",
         "url": "https://open.spotify.com/album/1aVp3b9xC3Wrc0du10sDBu"
       },
@@ -5387,6 +5489,24 @@
       "duration_ms": 250866,
       "name": "Scream Drive Faster - Teddy Geiger Remix",
       "url": "https://open.spotify.com/track/0mNDAxTlYYwftUS5FScuAD"
+    },
+    {
+      "album": {
+        "name": "In Between Dreams",
+        "url": "https://open.spotify.com/album/65aMVW2EfbGTgW9KvG2AMz"
+      },
+      "artists": [
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159608,
+      "name": "See You In My Dreams",
+      "url": "https://open.spotify.com/track/72NyOVk69pDEGQwe313bnC"
     },
     {
       "album": {

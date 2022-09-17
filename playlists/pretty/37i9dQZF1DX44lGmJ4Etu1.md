@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44lGmJ4Etu1.md) - [plain]
 
 > The Latin Pop hits of yesterday and today all in one place!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,134,260 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,134,268 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44lGmJ4Etu1.md) - [plain]
 | 58 | [Detente](https://open.spotify.com/track/0x1k6gSTSxaLxe0F2IThaX) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Navegando](https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0) | 3:01 |
 | 59 | [Mi primer millon](https://open.spotify.com/track/5fSDXbY8o9pA3TKwAbfwML) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Caraluna](https://open.spotify.com/album/2bM009J81OBNisrMbFwBJj) | 3:57 |
 | 60 | [Que Lo Nuestro Se Quede Nuestro](https://open.spotify.com/track/3rtxFFGZ10e2vYBo7PsPf2) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Yo Creo](https://open.spotify.com/album/3AprieF2G5BAcPGbeANZ6e) | 3:42 |
-| 61 | [BEBÉ](https://open.spotify.com/track/7D7EH7MGyNHWSkqrszerI1) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [BEBÉ](https://open.spotify.com/album/0krfGu8Xf8xZGOeEcQUjai) | 3:18 |
-| 62 | [A Puro Dolor \- Balada](https://open.spotify.com/track/28upjDakWVnHAgW2anm273) | [Son By Four](https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j) | [Son By 4](https://open.spotify.com/album/6FaDCE5IxXXMXVn3etukKq) | 3:30 |
+| 61 | [A Puro Dolor \- Balada](https://open.spotify.com/track/28upjDakWVnHAgW2anm273) | [Son By Four](https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j) | [Son By 4](https://open.spotify.com/album/6FaDCE5IxXXMXVn3etukKq) | 3:30 |
+| 62 | [BEBÉ](https://open.spotify.com/track/7D7EH7MGyNHWSkqrszerI1) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [BEBÉ](https://open.spotify.com/album/0krfGu8Xf8xZGOeEcQUjai) | 3:18 |
 | 63 | [ADMV](https://open.spotify.com/track/3eJMSq78dDaFb7VvhNFnq6) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [ADMV](https://open.spotify.com/album/6wUJI0qgwrwiYJhFr53Gaa) | 3:13 |
 | 64 | [Por Amarte Así](https://open.spotify.com/track/2bvO1KXbUd4vySCWGNqIIa) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Mi Vida Sin Tu Amor](https://open.spotify.com/album/4b7x5wHqzZETVAPcGIG5nl) | 4:32 |
 | 65 | [Color Esperanza](https://open.spotify.com/track/3T07pNAEVr9adeIG9i1ex4) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [Un Mundo Diferente](https://open.spotify.com/album/6lQH3MxpJygGIGs9mOZUNf) | 4:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44lGmJ4Etu1.md) - [plain]
 | 99 | [Al Lau](https://open.spotify.com/track/1oeIC89Q2kH7pBhUnGGFi0) | [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx) | [Al Lau](https://open.spotify.com/album/3ub3CVweJ2BJAZD1PTm4st) | 2:44 |
 | 100 | [No importa que llueva](https://open.spotify.com/track/1suTz9wOBk6pF2OAAgKFve) | [Efecto Pasillo](https://open.spotify.com/artist/6CSa1r92LtHHdLG6kRabU3) | [El misterioso caso de Efecto Pasillo](https://open.spotify.com/album/0eXjOfykk3LkiqPtFnFMji) | 3:21 |
 
-Snapshot ID: `MTY1Mjk5ODU1NiwwMDAwMDAwMDVmNTlkMjllOGU5ZTg3NWJjMWU1OGEzMWY3YTcyY2Ji`
+Snapshot ID: `MTY1Mjk5ODU1NiwwMDAwMDAwMDVkNGU1MTkwZDdiMzIzNGZjNTIxZjcwYzkzNjdmMjk3`

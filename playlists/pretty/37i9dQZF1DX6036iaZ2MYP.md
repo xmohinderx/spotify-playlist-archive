@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the global Afro scene\. Cover: Nnelg
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,671 likes - 59 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,791 likes - 59 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 8 | [Organise](https://open.spotify.com/track/2wgvxtggKVzPkl0smF2UzI) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Mr\. Money With The Vibe](https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI) | 2:03 |
 | 9 | [Champagne](https://open.spotify.com/track/76aYqlXTeHaYMunCPkm3qZ) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Champagne](https://open.spotify.com/album/5JBbEJHvC8ux9kYGbdu0od) | 2:28 |
 | 10 | [Control](https://open.spotify.com/track/33aYQD8u61dxbkvYatDWa5) | [Dante Moris](https://open.spotify.com/artist/7d42wwAzJlkmO6nvo70tTa) | [Control](https://open.spotify.com/album/6PDTbnQyukMCnD94FO1Uuu) | 2:22 |
-| 11 | [Soweto](https://open.spotify.com/track/6RbOyNeajWax51NtpO6WT8) | [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Outlaw](https://open.spotify.com/album/12iai3p96UYvcrDqlvvKFE) | 2:28 |
+| 11 | [Soweto](https://open.spotify.com/track/6RbOyNeajWax51NtpO6WT8) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4) | [Outlaw](https://open.spotify.com/album/12iai3p96UYvcrDqlvvKFE) | 2:28 |
 | 12 | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi) | 2:27 |
 | 13 | [Evidence](https://open.spotify.com/track/3BfUA5HYf8dtXvtnYqtvxw) | [This is Lema](https://open.spotify.com/artist/6xukNNXDc47oIMHVZR5SQv), [Travis Allen](https://open.spotify.com/artist/0l0pHgoBrCcr7wQTrBwbCp), [Saint Ronil](https://open.spotify.com/artist/1cnBbwuD3CUvOf981TFR34) | [Evidence](https://open.spotify.com/album/6xI9kUBYnKMVVtYH6Zj6Dz) | 2:57 |
 | 14 | [SETE \(feat\. Young Stunna & Blxckie\)](https://open.spotify.com/track/5mXZz0tXIToxu3HRohrdSK) | [K.O](https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z), [Young Stunna](https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [SETE \(feat\. Young Stunna & Blxckie\)](https://open.spotify.com/album/7ceVgKif2FV49HL1u7qxlG) | 4:09 |

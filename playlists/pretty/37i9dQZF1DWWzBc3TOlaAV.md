@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzBc3TOlaAV.md) - [plain]
 
 > These songs rocked the '60s\. Cover: Jimi Hendrix
 
-[Spotify](https://open.spotify.com/user/spotify) - 778,438 likes - 70 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 778,645 likes - 70 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzBc3TOlaAV.md) - [plain]
 | 64 | [Hello, I Love You](https://open.spotify.com/track/3bWGaqVeYKMlLss40mPgNn) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Waiting for the Sun](https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh) | 2:13 |
 | 65 | [Girl, You'll Be A Woman Soon](https://open.spotify.com/track/1BmVQ5RGqqtF5cnsv6cQYu) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes) | [The Bang Years 1966\-1968 \(The 23 Original Mono Recordings\)](https://open.spotify.com/album/512ipXtdhwJF52NTT2yryo) | 3:00 |
 | 66 | [I Wanna Be Your Dog](https://open.spotify.com/track/672N8DGGTOLCOgWe0koX5g) | [The Stooges](https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3) | [The Stooges](https://open.spotify.com/album/3MANoCcmaHWeXSuWiO3iVo) | 3:08 |
-| 67 | [Crying](https://open.spotify.com/track/6eLL7QTdMWdhhG4i3jHDR9) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [Crying](https://open.spotify.com/album/21REQ6X34DCAcoxtj654TI) | 2:46 |
-| 68 | [I Fought the Law \- Single Version](https://open.spotify.com/track/6Um3XCAxl9YfFmAnGl93xc) | [The Bobby Fuller Four](https://open.spotify.com/artist/5XoM6cP8fQykllfuK5V5TR) | [Never To Be Forgotten \- The Mustang Years](https://open.spotify.com/album/7KEDLBdqvyiV4D2uH9SgbV) | 2:18 |
+| 67 | [I Fought the Law \- Single Version](https://open.spotify.com/track/6Um3XCAxl9YfFmAnGl93xc) | [The Bobby Fuller Four](https://open.spotify.com/artist/5XoM6cP8fQykllfuK5V5TR) | [Never To Be Forgotten \- The Mustang Years](https://open.spotify.com/album/7KEDLBdqvyiV4D2uH9SgbV) | 2:18 |
+| 68 | [Crying](https://open.spotify.com/track/6eLL7QTdMWdhhG4i3jHDR9) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [Crying](https://open.spotify.com/album/21REQ6X34DCAcoxtj654TI) | 2:46 |
 | 69 | [Up On Cripple Creek](https://open.spotify.com/track/7aTCCNpHJD2Jgv0LLVJb8Y) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [The Band](https://open.spotify.com/album/4vXFiaDS8zuEl5bOUbW53x) | 4:30 |
 | 70 | [Good Lovin' \- Single Version](https://open.spotify.com/track/0XnhQGfqfi5CnZXcONJuI5) | [The Young Rascals](https://open.spotify.com/artist/5X3TuTi9OIsJXMGxPwTKM2) | [The Young Rascals](https://open.spotify.com/album/2ZhMMZobSh6Pkkv8EK82Fp) | 2:30 |
 
-Snapshot ID: `MTY1NzAzNjYwMSwwMDAwMDAwMDZhMTMyMTY5NjIzYTEwMzA2OTU0MjIyMTZlNzcwM2Jh`
+Snapshot ID: `MTY1NzAzNjYwMSwwMDAwMDAwMDdlZjc0NjlkYmIyZmNmYmI1MzNjM2JjNGMzMDI3ODhh`

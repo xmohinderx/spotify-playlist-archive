@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Reggaeton hits from Anuel AA, Bad Bunny and more.\ud83d\udd25\ud83e\udd75",
+  "description": "Reggaeton hits from Quevedo, Karol G, Bad Bunny and more.\ud83d\udd25\ud83e\udd75",
   "name": "Baila Reggaeton",
   "published_playlist_ids": [
     "0HEXy6qoPJDhzDX63XfHmx"
@@ -267,10 +267,28 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 199627,
       "name": "Apretaito",
       "url": "https://open.spotify.com/track/0cW5cXANjlv8hgLAQwdvgE"
+    },
+    {
+      "album": {
+        "name": "AUTOM\u00c1TICO",
+        "url": "https://open.spotify.com/album/5i8WdrKnzvMbujuJhkcFQn"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175317,
+      "name": "AUTOM\u00c1TICO",
+      "url": "https://open.spotify.com/track/3Ne5uYDFzHEFYAPbaBMIck"
     },
     {
       "album": {
@@ -495,7 +513,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 205142,
       "name": "Clito (feat. Lenny Tav\u00e1rez, Dalex & Brray)",
       "url": "https://open.spotify.com/track/5p9p6Z7WfvbztQ7eQa3qr0"
@@ -1739,7 +1757,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 249801,
       "name": "Llueve",
       "url": "https://open.spotify.com/track/5yDAnr9USNQTP6ojiWBCvv"
@@ -2636,6 +2654,24 @@
     },
     {
       "album": {
+        "name": "FELIZ CUMPLEA\u00d1OS FERXXO TE PIRATEAMOS EL \u00c1LBUM",
+        "url": "https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166253,
+      "name": "Prohibidox",
+      "url": "https://open.spotify.com/track/3PpWCS95gDUDRPko3u1MZ9"
+    },
+    {
+      "album": {
         "name": "P\u00e9gate",
         "url": "https://open.spotify.com/album/1jf9BeWRyKwxDmFN8Xzc8g"
       },
@@ -3301,7 +3337,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 234402,
       "name": "Tendencia Global",
       "url": "https://open.spotify.com/track/2iLegn1UOmpNpQAxcQoGJW"
@@ -3375,6 +3411,28 @@
       "duration_ms": 207266,
       "name": "TRANQUI",
       "url": "https://open.spotify.com/track/4U4oLQbcoVOGspDsl2bhsL"
+    },
+    {
+      "album": {
+        "name": "Barrio Fino (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205520,
+      "name": "Tu Pr\u00edncipe",
+      "url": "https://open.spotify.com/track/2FNqnsX74ZlwduUAcnmzee"
     },
     {
       "album": {
@@ -3607,6 +3665,24 @@
       "duration_ms": 186693,
       "name": "VACAXIONES",
       "url": "https://open.spotify.com/track/6DdC4I8ENm7zHH9Jy9pFg4"
+    },
+    {
+      "album": {
+        "name": "Vista Al Mar",
+        "url": "https://open.spotify.com/album/5ihYKNgcOMifCJmcGp7CkW"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180672,
+      "name": "Vista Al Mar",
+      "url": "https://open.spotify.com/track/7iwJOi3hlMqZt6pj1sQOBj"
     },
     {
       "album": {

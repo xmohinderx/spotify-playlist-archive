@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QB9Ys2nV17.md) - [plain]
 
 > The greatest female voices in blues today\. Cover: Amythyst Kiah
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,189 likes - 55 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,196 likes - 55 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,13 +55,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QB9Ys2nV17.md) - [plain]
 | 45 | [Masters of War](https://open.spotify.com/track/4KIpaOe8mx1Ss7THfddQCR) | [Dani Wilde](https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB) | [Masters of War](https://open.spotify.com/album/32L4ByoDGk3hSJTfXunr58) | 4:56 |
 | 46 | [Money Makes You Ugly](https://open.spotify.com/track/5niqr1DK4xpCGGcGH6Zk4P) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Uncivil War](https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM) | 3:36 |
 | 47 | [Unintended Consequence Of Love](https://open.spotify.com/track/0DSob5ze3sstCI5FFpCRwj) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Dig In Deep](https://open.spotify.com/album/5vN4mU8RJ1rllLYGlIuOKR) | 4:49 |
-| 48 | [Lodi](https://open.spotify.com/track/4dEgvYbysxyVEdn6oSupuy) | [Janiva Magness](https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg), [Sam Morrow](https://open.spotify.com/artist/5fHiDVbd5c6LzxbjRO8ZZs) | [Change in the Weather: Janiva Magness Sings John Fogerty](https://open.spotify.com/album/18GO2VNtW7TBm0X4Qk0uJ5) | 3:50 |
-| 49 | [You Ain't My Dog No More](https://open.spotify.com/track/054MF2HfHcqygtR0ikyOPq) | [Eliza Neals](https://open.spotify.com/artist/48XgWMevIvFi72xQFN2qqb) | [10,000 Feet Below](https://open.spotify.com/album/6qGoljg8VssC15xzOsr0C5) | 4:24 |
+| 48 | [You Ain't My Dog No More](https://open.spotify.com/track/054MF2HfHcqygtR0ikyOPq) | [Eliza Neals](https://open.spotify.com/artist/48XgWMevIvFi72xQFN2qqb) | [10,000 Feet Below](https://open.spotify.com/album/6qGoljg8VssC15xzOsr0C5) | 4:24 |
+| 49 | [Lodi](https://open.spotify.com/track/4dEgvYbysxyVEdn6oSupuy) | [Janiva Magness](https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg), [Sam Morrow](https://open.spotify.com/artist/5fHiDVbd5c6LzxbjRO8ZZs) | [Change in the Weather: Janiva Magness Sings John Fogerty](https://open.spotify.com/album/18GO2VNtW7TBm0X4Qk0uJ5) | 3:50 |
 | 50 | [It Hurts Me Too](https://open.spotify.com/track/7EFUJYLscAMh62ZkSUhZyc) | [Erja Lyytinen](https://open.spotify.com/artist/73i095FtGSlyCoudRYl6MD) | [The Sky Is Crying](https://open.spotify.com/album/3mQMXVI0HCbJ6yamBHpcBU) | 5:06 |
 | 51 | [Good Love Had To Die](https://open.spotify.com/track/3waUNDqqEcv8GFLr6w3YNz) | [Gráinne Duffy](https://open.spotify.com/artist/6Uz1iG3enjltFOqqwAhQ2Y) | [Out Of The Dark](https://open.spotify.com/album/00EueLV9XQ46OWV5EnOPlt) | 3:35 |
 | 52 | [Open Eyes](https://open.spotify.com/track/27Hps0EsBwR2ImKIiJfC95) | [Carolyn Wonderland](https://open.spotify.com/artist/0XhsEmCqMW2k9yMl4o8t4n) | [Moon Goes Missing](https://open.spotify.com/album/3HTWMRiLGpWPb0YYNAHprh) | 5:21 |
-| 53 | [They Never Pay Me](https://open.spotify.com/track/1o84dOcVPieSWx54D6Vpd2) | [Gina Sicilia](https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ) | [Tug of War](https://open.spotify.com/album/71JBQT7xsnizt4TYu0eUzY) | 3:33 |
-| 54 | [Geechee Woman](https://open.spotify.com/track/7KC0ebVIUOAlmCw83iWOYY) | [Shakura S'Aida](https://open.spotify.com/artist/1k7Twp5a4e1lULiRJy6BXw) | [Time...](https://open.spotify.com/album/66RPa84dHj7eHBG0f5MLsQ) | 4:37 |
+| 53 | [Geechee Woman](https://open.spotify.com/track/7KC0ebVIUOAlmCw83iWOYY) | [Shakura S'Aida](https://open.spotify.com/artist/1k7Twp5a4e1lULiRJy6BXw) | [Time...](https://open.spotify.com/album/66RPa84dHj7eHBG0f5MLsQ) | 4:37 |
+| 54 | [They Never Pay Me](https://open.spotify.com/track/1o84dOcVPieSWx54D6Vpd2) | [Gina Sicilia](https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ) | [Tug of War](https://open.spotify.com/album/71JBQT7xsnizt4TYu0eUzY) | 3:33 |
 | 55 | [Love's Truly Blind](https://open.spotify.com/track/6Sm45PLFiplvxlQuLnMUMC) | [Anni Piper](https://open.spotify.com/artist/3piOtc3OX0x7Z4rtdDuNBo) | [Texas Hold 'Em](https://open.spotify.com/album/2fUmLqaNyVUIRuIqUFFHui) | 3:27 |
 
-Snapshot ID: `MTY0Njc0ODA2OSwwMDAwMDAwMGYzMzFhNTQ1MzIwN2YwMTYzMjFjYmMyYmUxN2M3ZDM4`
+Snapshot ID: `MTY0Njc0ODA2OSwwMDAwMDAwMGIyYjdkZjI1NDM5MDllMjQ5NjIzYmEyOTJiNzc2OTIx`

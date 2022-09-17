@@ -1,12 +1,12 @@
 {
   "description": "Recordando el legado campirano y rancher\u00f3n con las cl\u00e1sicas del sierre\u00f1o. Ariel Camacho en portada.",
-  "num_followers": 28520,
+  "num_followers": 28574,
   "original_name": "Sierre\u00f1as Viejitas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzM0NTUyMywwMDAwMDAwMDIzYWU2M2E0Y2E1ZTZkYWNhOWY1ZWY1YmEzNGNmOTYy",
+  "snapshot_id": "MTY0MzM0NTUyMywwMDAwMDAwMGRkMjAzNTQ0N2Y1ZDQ5MDQ5NWFkZGEzNmFiMmZiYjNm",
   "tracks": [
     {
       "added_at": "2022-01-25 18:06:26",
@@ -559,22 +559,6 @@
     {
       "added_at": "2022-01-25 18:06:26",
       "album": {
-        "name": "Duelo De Shakas",
-        "url": "https://open.spotify.com/album/5PwL80iiZsnkoJDVSMXEPm"
-      },
-      "artists": [
-        {
-          "name": "El Tigrillo Palma",
-          "url": "https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek"
-        }
-      ],
-      "duration_ms": 225024,
-      "name": "El Bazucazo",
-      "url": "https://open.spotify.com/track/78JYoTnPfIqSvoNVGAPZux"
-    },
-    {
-      "added_at": "2022-01-25 18:06:26",
-      "album": {
         "name": "V\u00e1monos Pa'l R\u00edo",
         "url": "https://open.spotify.com/album/1dAgTGIJZ1KjXJLMU6wfi9"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 143133,
       "name": "La Machaca",
       "url": "https://open.spotify.com/track/5NzFXwJJX2NueTuXZuJuxq"
+    },
+    {
+      "added_at": "2022-01-25 18:06:26",
+      "album": {
+        "name": "Duelo De Shakas",
+        "url": "https://open.spotify.com/album/5PwL80iiZsnkoJDVSMXEPm"
+      },
+      "artists": [
+        {
+          "name": "El Tigrillo Palma",
+          "url": "https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek"
+        }
+      ],
+      "duration_ms": 225024,
+      "name": "El Bazucazo",
+      "url": "https://open.spotify.com/track/78JYoTnPfIqSvoNVGAPZux"
     },
     {
       "added_at": "2022-01-25 18:06:26",
@@ -1143,18 +1143,22 @@
     {
       "added_at": "2022-01-25 18:06:26",
       "album": {
-        "name": "Grandes Exitos con Tuba, Acorde\u00f3n y Guitarra Vol. 1",
-        "url": "https://open.spotify.com/album/2E9MK3bAEAJSpuyRqrSIb2"
+        "name": "El Diablo y el Federal",
+        "url": "https://open.spotify.com/album/2rcwazegT8e3JlhPPtHJYk"
       },
       "artists": [
         {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+          "name": "El Canelo De Sinaloa",
+          "url": "https://open.spotify.com/artist/5WyCFEWzY8eMcSOu0BFjhJ"
+        },
+        {
+          "name": "Los Dos Del Sitio",
+          "url": "https://open.spotify.com/artist/4fKzhjg1iCHqWvXBB1U6G2"
         }
       ],
-      "duration_ms": 146906,
-      "name": "Esta Cobardia",
-      "url": "https://open.spotify.com/track/3Rn0F5FIe6V4WtrUruFknR"
+      "duration_ms": 156942,
+      "name": "Rama Verde",
+      "url": "https://open.spotify.com/track/4ItuglUP2usKbAWKFcPZna"
     },
     {
       "added_at": "2022-01-25 18:06:26",
@@ -1175,22 +1179,18 @@
     {
       "added_at": "2022-01-25 18:06:26",
       "album": {
-        "name": "El Diablo y el Federal",
-        "url": "https://open.spotify.com/album/2rcwazegT8e3JlhPPtHJYk"
+        "name": "Grandes Exitos con Tuba, Acorde\u00f3n y Guitarra Vol. 1",
+        "url": "https://open.spotify.com/album/2E9MK3bAEAJSpuyRqrSIb2"
       },
       "artists": [
         {
-          "name": "El Canelo De Sinaloa",
-          "url": "https://open.spotify.com/artist/5WyCFEWzY8eMcSOu0BFjhJ"
-        },
-        {
-          "name": "Los Dos Del Sitio",
-          "url": "https://open.spotify.com/artist/4fKzhjg1iCHqWvXBB1U6G2"
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
         }
       ],
-      "duration_ms": 156942,
-      "name": "Rama Verde",
-      "url": "https://open.spotify.com/track/4ItuglUP2usKbAWKFcPZna"
+      "duration_ms": 146906,
+      "name": "Esta Cobardia",
+      "url": "https://open.spotify.com/track/3Rn0F5FIe6V4WtrUruFknR"
     },
     {
       "added_at": "2022-01-25 18:06:26",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2022-01-25 18:06:26",
       "album": {
-        "name": "Como Duele Saber",
-        "url": "https://open.spotify.com/album/3hvPmp7f7z0b7G9tbM60Fo"
-      },
-      "artists": [
-        {
-          "name": "Joel Elizalde",
-          "url": "https://open.spotify.com/artist/55EA5tfk6pyYA7L6Hgb5Nr"
-        }
-      ],
-      "duration_ms": 198586,
-      "name": "La Canelera",
-      "url": "https://open.spotify.com/track/4mHff3K0s1s8An8waTlHL1"
-    },
-    {
-      "added_at": "2022-01-25 18:06:26",
-      "album": {
         "name": "La Ley De Cupido",
         "url": "https://open.spotify.com/album/4PePlUaRlmzkdU6nStVX3c"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 291306,
       "name": "Llorar Llorar",
       "url": "https://open.spotify.com/track/0lCmiTqVKiamY3Gs1owCd7"
+    },
+    {
+      "added_at": "2022-01-25 18:06:26",
+      "album": {
+        "name": "Como Duele Saber",
+        "url": "https://open.spotify.com/album/3hvPmp7f7z0b7G9tbM60Fo"
+      },
+      "artists": [
+        {
+          "name": "Joel Elizalde",
+          "url": "https://open.spotify.com/artist/55EA5tfk6pyYA7L6Hgb5Nr"
+        }
+      ],
+      "duration_ms": 198586,
+      "name": "La Canelera",
+      "url": "https://open.spotify.com/track/4mHff3K0s1s8An8waTlHL1"
     },
     {
       "added_at": "2022-01-25 18:06:26",
@@ -1295,8 +1295,8 @@
     {
       "added_at": "2022-01-25 18:06:26",
       "album": {
-        "name": "Besos y Caricias",
-        "url": "https://open.spotify.com/album/5uvu6Ou4krCcb0GEkyuhI4"
+        "name": "Un Golpe Mas",
+        "url": "https://open.spotify.com/album/2Jbtm1hUa1M7tk3Ap7yNAu"
       },
       "artists": [
         {
@@ -1304,9 +1304,25 @@
           "url": "https://open.spotify.com/artist/5cxRMXREpTmtI6lFc5hE7W"
         }
       ],
-      "duration_ms": 130039,
-      "name": "Ya No Vuelvo a Molestarte",
-      "url": "https://open.spotify.com/track/7GOi2uDFPSc1pnq33KvgqW"
+      "duration_ms": 151813,
+      "name": "La Chuparrosa",
+      "url": "https://open.spotify.com/track/3LyJVnEf3n8VZE04tgRURd"
+    },
+    {
+      "added_at": "2022-01-25 18:06:26",
+      "album": {
+        "name": "La Vida Sigue Igual, el Dueto Consentido de Mexico",
+        "url": "https://open.spotify.com/album/3aE6CEBBJ3B1AhUElNAlHo"
+      },
+      "artists": [
+        {
+          "name": "Miguel Y Miguel",
+          "url": "https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm"
+        }
+      ],
+      "duration_ms": 172973,
+      "name": "A Cada Rato",
+      "url": "https://open.spotify.com/track/1sEm6lzFAAsvykwX5y6Nlr"
     },
     {
       "added_at": "2022-01-25 18:06:26",
@@ -1327,22 +1343,6 @@
     {
       "added_at": "2022-01-25 18:06:26",
       "album": {
-        "name": "Piel de Az\u00facar",
-        "url": "https://open.spotify.com/album/6LRYnSGOYJZufNSd5IscGV"
-      },
-      "artists": [
-        {
-          "name": "Los Gavilanes de la Sierra",
-          "url": "https://open.spotify.com/artist/1m41o6nhLXMVGGzz9kLgq1"
-        }
-      ],
-      "duration_ms": 203346,
-      "name": "Qui\u00e9reme Como Te Quiero",
-      "url": "https://open.spotify.com/track/5HOgr1vGGin7nicfjrylP6"
-    },
-    {
-      "added_at": "2022-01-25 18:06:26",
-      "album": {
         "name": "De La Sierra A La Playa",
         "url": "https://open.spotify.com/album/3T0EMRduGzvEHZgvftYTxc"
       },
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2022-01-25 18:06:26",
       "album": {
-        "name": "La Vida Sigue Igual, el Dueto Consentido de Mexico",
-        "url": "https://open.spotify.com/album/3aE6CEBBJ3B1AhUElNAlHo"
+        "name": "De Huarache Y Sombrero",
+        "url": "https://open.spotify.com/album/31MF32JeJx4ZCBVrDt92KA"
       },
       "artists": [
         {
-          "name": "Miguel Y Miguel",
-          "url": "https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm"
+          "name": "Daniel Ortiz",
+          "url": "https://open.spotify.com/artist/4uFtoGq7ttbGYMLsBZzGM8"
         }
       ],
-      "duration_ms": 172973,
-      "name": "A Cada Rato",
-      "url": "https://open.spotify.com/track/1sEm6lzFAAsvykwX5y6Nlr"
+      "duration_ms": 147880,
+      "name": "El Ranchero Afamado",
+      "url": "https://open.spotify.com/track/3rwY8ugSp7G5nRAIXiTlJZ"
     },
     {
       "added_at": "2022-01-25 18:06:26",
@@ -1395,8 +1395,8 @@
     {
       "added_at": "2022-01-25 18:06:26",
       "album": {
-        "name": "Un Golpe Mas",
-        "url": "https://open.spotify.com/album/2Jbtm1hUa1M7tk3Ap7yNAu"
+        "name": "Besos y Caricias",
+        "url": "https://open.spotify.com/album/5uvu6Ou4krCcb0GEkyuhI4"
       },
       "artists": [
         {
@@ -1404,9 +1404,9 @@
           "url": "https://open.spotify.com/artist/5cxRMXREpTmtI6lFc5hE7W"
         }
       ],
-      "duration_ms": 151813,
-      "name": "La Chuparrosa",
-      "url": "https://open.spotify.com/track/3LyJVnEf3n8VZE04tgRURd"
+      "duration_ms": 130039,
+      "name": "Ya No Vuelvo a Molestarte",
+      "url": "https://open.spotify.com/track/7GOi2uDFPSc1pnq33KvgqW"
     },
     {
       "added_at": "2022-01-25 18:06:26",
@@ -1427,34 +1427,18 @@
     {
       "added_at": "2022-01-25 18:06:26",
       "album": {
-        "name": "De Huarache Y Sombrero",
-        "url": "https://open.spotify.com/album/31MF32JeJx4ZCBVrDt92KA"
+        "name": "Piel de Az\u00facar",
+        "url": "https://open.spotify.com/album/6LRYnSGOYJZufNSd5IscGV"
       },
       "artists": [
         {
-          "name": "Daniel Ortiz",
-          "url": "https://open.spotify.com/artist/4uFtoGq7ttbGYMLsBZzGM8"
+          "name": "Los Gavilanes de la Sierra",
+          "url": "https://open.spotify.com/artist/1m41o6nhLXMVGGzz9kLgq1"
         }
       ],
-      "duration_ms": 147880,
-      "name": "El Ranchero Afamado",
-      "url": "https://open.spotify.com/track/3rwY8ugSp7G5nRAIXiTlJZ"
-    },
-    {
-      "added_at": "2022-01-25 18:06:26",
-      "album": {
-        "name": "Tu Lo Decidiste",
-        "url": "https://open.spotify.com/album/0JNCEzRPMSqwTTVh350Mj8"
-      },
-      "artists": [
-        {
-          "name": "Roman De Los Reyes",
-          "url": "https://open.spotify.com/artist/5fTnZFgNX2qnnYqGf3KubF"
-        }
-      ],
-      "duration_ms": 180819,
-      "name": "No Se Ha Dado Cuenta",
-      "url": "https://open.spotify.com/track/7fjHEYbzucBpM8GO7jgSqh"
+      "duration_ms": 203346,
+      "name": "Qui\u00e9reme Como Te Quiero",
+      "url": "https://open.spotify.com/track/5HOgr1vGGin7nicfjrylP6"
     },
     {
       "added_at": "2022-01-25 18:06:26",
@@ -1491,22 +1475,6 @@
     {
       "added_at": "2022-01-25 18:06:26",
       "album": {
-        "name": "Piel de Az\u00facar",
-        "url": "https://open.spotify.com/album/6LRYnSGOYJZufNSd5IscGV"
-      },
-      "artists": [
-        {
-          "name": "Los Gavilanes de la Sierra",
-          "url": "https://open.spotify.com/artist/1m41o6nhLXMVGGzz9kLgq1"
-        }
-      ],
-      "duration_ms": 184386,
-      "name": "Las Lluvias",
-      "url": "https://open.spotify.com/track/5JWnxJIBUa7bVHqaZIEoUy"
-    },
-    {
-      "added_at": "2022-01-25 18:06:26",
-      "album": {
         "name": "Los Cuen's De Sinaloa",
         "url": "https://open.spotify.com/album/0ySeNWEVo1p6JLkylvagO0"
       },
@@ -1519,6 +1487,22 @@
       "duration_ms": 168666,
       "name": "Amores Fingidos",
       "url": "https://open.spotify.com/track/7dHPgzcHDFq8s6B50H9bfn"
+    },
+    {
+      "added_at": "2022-01-25 18:06:26",
+      "album": {
+        "name": "Tu Lo Decidiste",
+        "url": "https://open.spotify.com/album/0JNCEzRPMSqwTTVh350Mj8"
+      },
+      "artists": [
+        {
+          "name": "Roman De Los Reyes",
+          "url": "https://open.spotify.com/artist/5fTnZFgNX2qnnYqGf3KubF"
+        }
+      ],
+      "duration_ms": 180819,
+      "name": "No Se Ha Dado Cuenta",
+      "url": "https://open.spotify.com/track/7fjHEYbzucBpM8GO7jgSqh"
     },
     {
       "added_at": "2022-01-25 18:06:26",
@@ -1539,6 +1523,22 @@
     {
       "added_at": "2022-01-25 18:06:26",
       "album": {
+        "name": "Piel de Az\u00facar",
+        "url": "https://open.spotify.com/album/6LRYnSGOYJZufNSd5IscGV"
+      },
+      "artists": [
+        {
+          "name": "Los Gavilanes de la Sierra",
+          "url": "https://open.spotify.com/artist/1m41o6nhLXMVGGzz9kLgq1"
+        }
+      ],
+      "duration_ms": 184386,
+      "name": "Las Lluvias",
+      "url": "https://open.spotify.com/track/5JWnxJIBUa7bVHqaZIEoUy"
+    },
+    {
+      "added_at": "2022-01-25 18:06:26",
+      "album": {
         "name": "Raza Pesada",
         "url": "https://open.spotify.com/album/5RPjZ9F7vHbXBDya9z9f8t"
       },
@@ -1551,22 +1551,6 @@
       "duration_ms": 194813,
       "name": "Ambicion",
       "url": "https://open.spotify.com/track/6UFTow898t6dbHb14FnKzk"
-    },
-    {
-      "added_at": "2022-01-25 18:06:26",
-      "album": {
-        "name": "Tu Lo Decidiste",
-        "url": "https://open.spotify.com/album/0JNCEzRPMSqwTTVh350Mj8"
-      },
-      "artists": [
-        {
-          "name": "Roman De Los Reyes",
-          "url": "https://open.spotify.com/artist/5fTnZFgNX2qnnYqGf3KubF"
-        }
-      ],
-      "duration_ms": 185756,
-      "name": "Cielo Azul, Cielo Nublado",
-      "url": "https://open.spotify.com/track/5GRe4EsGxq49GaxKYvWQoZ"
     },
     {
       "added_at": "2022-01-25 18:06:26",
@@ -1647,6 +1631,22 @@
       "duration_ms": 178706,
       "name": "Que Casualidad",
       "url": "https://open.spotify.com/track/1ARNcGlXQKky7zX4TZkCtx"
+    },
+    {
+      "added_at": "2022-01-25 18:06:26",
+      "album": {
+        "name": "Calles Enlodadas",
+        "url": "https://open.spotify.com/album/5X7AV8856QVjc7nsOSJivW"
+      },
+      "artists": [
+        {
+          "name": "Los Gallitos de Chihuahua",
+          "url": "https://open.spotify.com/artist/0uwdzlFGWhAaDmItgmaQOg"
+        }
+      ],
+      "duration_ms": 164211,
+      "name": "Basta ya",
+      "url": "https://open.spotify.com/track/2MlQFNJIcc8WpU0gX5Q6r1"
     }
   ],
   "unique_name": "Sierre\u00f1as Viejitas",

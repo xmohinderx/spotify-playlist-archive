@@ -23,7 +23,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 180624,
       "name": "4 Real",
       "url": "https://open.spotify.com/track/7teglbxzIoSAAVUptXThzh"
@@ -399,7 +399,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 182875,
       "name": "Backroad Flyin' - Matthew Parker Remix",
       "url": "https://open.spotify.com/track/4c1sQ9WPt5PAvPjNhbijVp"
@@ -657,7 +657,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 176427,
       "name": "Blue Dream Baby",
       "url": "https://open.spotify.com/track/2cHjdUBcdnnCGdubhCmLbM"
@@ -1568,6 +1568,24 @@
     },
     {
       "album": {
+        "name": "Eat Pray Drugs",
+        "url": "https://open.spotify.com/album/5prG4hTUYdc5db6QewYWwQ"
+      },
+      "artists": [
+        {
+          "name": "Pillbox Patti",
+          "url": "https://open.spotify.com/artist/1tAy2qZQdjG9ulfI9btLoO"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176480,
+      "name": "Eat Pray Drugs",
+      "url": "https://open.spotify.com/track/1Cmxg862124HUQNshfcYtO"
+    },
+    {
+      "album": {
         "name": "Effortless",
         "url": "https://open.spotify.com/album/2Afegl9NLgCYGQCHfYjSVd"
       },
@@ -2129,7 +2147,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 187016,
       "name": "HEARTFIRST",
       "url": "https://open.spotify.com/track/1S55d7hhptRt8PS6nC1fSY"
@@ -2983,6 +3001,28 @@
       "duration_ms": 144163,
       "name": "LEGENDS",
       "url": "https://open.spotify.com/track/15x3Tsc72Wjspe8DlsIRp2"
+    },
+    {
+      "album": {
+        "name": "Lets Go!",
+        "url": "https://open.spotify.com/album/440CLUzPDP9fm53GgsKBHu"
+      },
+      "artists": [
+        {
+          "name": "Ty March.",
+          "url": "https://open.spotify.com/artist/0h7b5szTqHKm5sJNkAGqfw"
+        },
+        {
+          "name": "Phillip Good",
+          "url": "https://open.spotify.com/artist/7IgNmZLjmhgaH3L83GPVeN"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154874,
+      "name": "Lets Go!",
+      "url": "https://open.spotify.com/track/4TlFm4IsztCzL26COpgOcw"
     },
     {
       "album": {

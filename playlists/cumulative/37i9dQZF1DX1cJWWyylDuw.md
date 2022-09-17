@@ -4,7 +4,7 @@
 
 > A collection of the best Deathcore tracks, mixing recent and fresh new tracks\. Cover: Suicide Silence
 
-398 songs - 1 day 2 hr 0 min - [published](https://open.spotify.com/playlist/4ZBLxm54bu7G3RGxe9bh9B)
+400 songs - 1 day 2 hr 8 min - [published](https://open.spotify.com/playlist/4ZBLxm54bu7G3RGxe9bh9B)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,10 +71,11 @@
 | [Bullets in My Teeth](https://open.spotify.com/track/5bZGe4dOdN52F1DgkeC9I9) | [Drag Me Out](https://open.spotify.com/artist/2dg4ezhcEZKGGNJkCqbvHB) | [Bullets in My Teeth](https://open.spotify.com/album/3NJhDpBpUGeDvuPru8Vou2) | 4:55 | 2022-04-01 |  |
 | [Catatonia](https://open.spotify.com/track/1yKyN555vTcZun8SLVDd8Y) | [Babirusa](https://open.spotify.com/artist/35yVMdlqtayJwkb192ePgh) | [Catatonia](https://open.spotify.com/album/7rdTTF62eg3jRAMcAamljf) | 3:44 | 2021-12-31 | 2022-07-28 |
 | [Cathedral](https://open.spotify.com/track/4Y5xe7x4gQkhgOwLvlGNY8) | [Ten Thousand Crows](https://open.spotify.com/artist/1wqp1GMAXOgBBnj7Ub2Wqd) | [Cathedral](https://open.spotify.com/album/7lms8BTHcXigzIUEkTNUmK) | 2:55 | 2022-04-15 | 2022-07-24 |
+| [Cathedrals of Blood \(Twilight of the Idols\)](https://open.spotify.com/track/7tyqpGsyDgCTL8EOcqhJt5) | [Phobophilic](https://open.spotify.com/artist/1cdxNUejlVcTwgWocqB3eF) | [Enveloping Absurdity](https://open.spotify.com/album/0ULfAaYkPeQfu3f64qNiuy) | 4:15 | 2022-09-16 |  |
 | [Caved In](https://open.spotify.com/track/2BAuNSD3o86LargMzbXNrQ) | [Spite](https://open.spotify.com/artist/2DynE7m1BMVl4hQMvCXXq0) | [Caved In](https://open.spotify.com/album/0pI5Rz0PX9eo0CxUulTOaG) | 2:58 | 2022-02-11 |  |
 | [Chainbreaker](https://open.spotify.com/track/7KkrCCOoddB1w1UvGhOZrD) | [Shrine of Malice](https://open.spotify.com/artist/6NPqqqYcR7tAEHL4ORm6pQ) | [Chainbreaker](https://open.spotify.com/album/6z2fHbf7Wvy93ZO4YN4H2B) | 4:35 | 2021-12-17 |  |
 | [Charlotte](https://open.spotify.com/track/1E0wg7h8fvowWXUOyrYose) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod) | [God Hand](https://open.spotify.com/album/64CVhMqlsSVEtCLDXCHvvB) | 3:16 | 2021-12-17 | 2022-07-29 |
-| [Chasm](https://open.spotify.com/track/6BHqiA6bAdo544sqdeCTvy) | [Then It Ends](https://open.spotify.com/artist/5TiYxejPE7S8iWdWtjqyQQ), [Michael Felker](https://open.spotify.com/artist/5Q2CFlnuEPJfch1ss5top8) | [Chasm](https://open.spotify.com/album/1Gtldn9jGWjonq7XNNOgYT) | 3:20 | 2022-07-29 |  |
+| [Chasm](https://open.spotify.com/track/6BHqiA6bAdo544sqdeCTvy) | [Then It Ends](https://open.spotify.com/artist/5TiYxejPE7S8iWdWtjqyQQ), [Michael Felker](https://open.spotify.com/artist/5Q2CFlnuEPJfch1ss5top8) | [Chasm](https://open.spotify.com/album/1Gtldn9jGWjonq7XNNOgYT) | 3:20 | 2022-07-29 | 2022-09-17 |
 | [Chimerical Reality](https://open.spotify.com/track/6sWKMPDGVA0sMS8ARy6OHL) | [And Hell Followed With](https://open.spotify.com/artist/7MnEOC6vXcGp5P8RiFrlCm) | [Chimerical Reality](https://open.spotify.com/album/06E6v6odTc637pyGiIHYAO) | 4:33 | 2021-12-17 | 2022-07-29 |
 | [Cicada](https://open.spotify.com/track/09XcghmEqtPUmGsXHy1VA7) | [Reflections](https://open.spotify.com/artist/0DTH9zFyvRb24bb8XN0iEr) | [Cicada](https://open.spotify.com/album/1gJQH2yB80CLagucfP6sze) | 3:01 | 2021-12-17 | 2022-07-29 |
 | [Civic Assault](https://open.spotify.com/track/1XHcJ9I73gB6uwKtryfC9B) | [Waking the Cadaver](https://open.spotify.com/artist/0Y7lDsDZc8qYny9MTq8xG2) | [Authority Through Intimidation](https://open.spotify.com/album/4vfoJ5Ixw4Ae8zQrKIPWWW) | 3:19 | 2021-12-17 | 2022-07-24 |
@@ -202,6 +203,7 @@
 | [Into the Earth](https://open.spotify.com/track/5XvkXB1vcquootiIcUOoTz) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Into the Earth](https://open.spotify.com/album/0PQMXfwJJUnLa3sPEDPbAL) | 5:12 | 2022-06-24 |  |
 | [Introspection \(Loathing\)](https://open.spotify.com/track/0UWiDloT2S7C1qL84U8Z3z) | [Dead/Awake](https://open.spotify.com/artist/2Mtcd92iGg5ZXYaSUhZEQm) | [Introspection \(Loathing\)](https://open.spotify.com/album/5q2xn0gUDH4TP8lN5UCeV2) | 2:44 | 2021-12-17 | 2022-07-27 |
 | [Invictus Unto Fire](https://open.spotify.com/track/671wVJrGptwhsVbxyGiMLg) | [The Last Ten Seconds of Life](https://open.spotify.com/artist/3AESf0xMv9HSc3svVqypnY) | [Invictus Unto Fire](https://open.spotify.com/album/3lAOXpQ0cqHwVfMbeSD26I) | 3:21 | 2021-12-17 | 2022-07-28 |
+| [It Stalks the Forest](https://open.spotify.com/track/4OF4Aqwtkqb7SdAfkpQgAt) | [Tearmyself](https://open.spotify.com/artist/29wILATaYUneAGI1ELlZ99) | [Where Life Withers](https://open.spotify.com/album/65HvrxKPfbs0yz8Cy6fZtV) | 3:51 | 2022-09-16 |  |
 | [iudicium per ignem](https://open.spotify.com/track/35ifxM5PBTxc871D29YJ27) | [Dead/Awake](https://open.spotify.com/artist/2Mtcd92iGg5ZXYaSUhZEQm) | [iudicium per ignem](https://open.spotify.com/album/2K3TiFdYJLqI7PNvh6VkDL) | 3:40 | 2022-06-24 | 2022-07-31 |
 | [Jewels of Urn](https://open.spotify.com/track/5CrjVMIGCa2VuL3XyzYkzj) | [And Hell Followed With](https://open.spotify.com/artist/7MnEOC6vXcGp5P8RiFrlCm), [Julian Kersey](https://open.spotify.com/artist/4etAcE7dK2BOFyn9FJLKLn) | [Jewels of Urn](https://open.spotify.com/album/2N4NtpcCAxgtqAUALCnNa3) | 3:25 | 2022-04-15 | 2022-07-24 |
 | [Journey](https://open.spotify.com/track/2V0KLKEURxZDQej0QgE1ql) | [FRCTRD](https://open.spotify.com/artist/7z9n8Q0icbgvXqx1RWoGrd) | [Journey](https://open.spotify.com/album/2noGL1xYyvyg19sESNA0Wm) | 4:49 | 2021-12-17 | 2022-07-28 |
@@ -292,7 +294,7 @@
 | [Reflections of a Monster](https://open.spotify.com/track/271q2bXjvyjZCL7wiTQXVk) | [Osiah](https://open.spotify.com/artist/4zdj6e05Eh8uLVJ6V0V3Mu) | [Reflections of a Monster](https://open.spotify.com/album/6ZPFa0dwjstnXkroKXM16j) | 3:59 | 2021-12-17 | 2022-06-28 |
 | [Remember Me](https://open.spotify.com/track/0ikvtIegu5Yh9vOOhCkc5L) | [Our Hollow, Our Home](https://open.spotify.com/artist/6zrSK4adBQJaCJuhGNKJEl), [Ryo Kinoshita](https://open.spotify.com/artist/0hFOSb4sdsDLsAhwwSheWH) | [Remember Me](https://open.spotify.com/album/5I3SxQcAEwoiiE6GQw2Ngz) | 3:30 | 2021-12-17 | 2022-04-29 |
 | [Remenissions](https://open.spotify.com/track/2Y8dLFDDhjOpBm0PitrieQ) | [Upon A Burning Body](https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7) | [Remenissions](https://open.spotify.com/album/24gge9fvwFfzWwV8ZV4j3D) | 6:04 | 2021-12-17 | 2022-04-09 |
-| [Remnants in Time](https://open.spotify.com/track/4QrLsP1ZpVLdEVpdS1AnXm) | [The Agonist](https://open.spotify.com/artist/3NrGqWwh6dKk99v1UFqQak) | [Days Before the World Wept](https://open.spotify.com/album/29uEQ1RoGjYPBXrZCUb6Ms) | 4:53 | 2022-07-08 |  |
+| [Remnants in Time](https://open.spotify.com/track/4QrLsP1ZpVLdEVpdS1AnXm) | [The Agonist](https://open.spotify.com/artist/3NrGqWwh6dKk99v1UFqQak) | [Days Before the World Wept](https://open.spotify.com/album/29uEQ1RoGjYPBXrZCUb6Ms) | 4:53 | 2022-07-08 | 2022-09-17 |
 | [Remnants in Time](https://open.spotify.com/track/5HlLaivd9yiou56KJFnkHz) | [The Agonist](https://open.spotify.com/artist/3NrGqWwh6dKk99v1UFqQak) | [Remnants in Time](https://open.spotify.com/album/6FdfWezc4GtIKEXuEkHM7b) | 4:53 | 2021-12-17 | 2022-07-26 |
 | [Resentment Always Simmers](https://open.spotify.com/track/1YoD30xA6djOwx65bUSgPc) | [Napalm Death](https://open.spotify.com/artist/3UqRgrDIQ208yNGiWKRMNt) | [Resentment is Always Seismic \- a final throw of Throes](https://open.spotify.com/album/59yT36yNUZcv2iY84QvUP1) | 4:16 | 2022-02-11 | 2022-07-24 |
 | [Rest Your Head](https://open.spotify.com/track/5odEwsdDs3TzkySwH3t78s) | [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk) | [And Dying Forever](https://open.spotify.com/album/3s8j7DemV6FuV0EyakQhEq) | 3:08 | 2022-07-08 |  |

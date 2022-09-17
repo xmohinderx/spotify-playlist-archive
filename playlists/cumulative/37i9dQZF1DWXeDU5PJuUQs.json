@@ -182,6 +182,24 @@
     },
     {
       "album": {
+        "name": "En Vivo en Pasi\u00f3n 2018",
+        "url": "https://open.spotify.com/album/7yQk4r7sdAn2lJ11C8Gskc"
+      },
+      "artists": [
+        {
+          "name": "El Pepo",
+          "url": "https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139800,
+      "name": "Amor de Papel - En Vivo",
+      "url": "https://open.spotify.com/track/2Y2BYPVVTKGqlx5FRFZ8HZ"
+    },
+    {
+      "album": {
         "name": "10 A\u00f1os Movistar Arena",
         "url": "https://open.spotify.com/album/0a08iXh2r7gh0BmS2ijuI4"
       },
@@ -413,7 +431,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 212266,
       "name": "Dime Si Eres Feliz - Vivo",
       "url": "https://open.spotify.com/track/2GZs2PsaucrkL1pBpA7Ym7"

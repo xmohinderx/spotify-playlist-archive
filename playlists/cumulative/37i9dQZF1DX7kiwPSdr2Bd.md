@@ -4,7 +4,7 @@
 
 > Ouça as principais vozes de adoradoras do gospel brasileiro\. Foto: Aline Barros
 
-75 songs - 6 hr 34 min - not published yet
+75 songs - 6 hr 34 min - [published](https://open.spotify.com/playlist/65FJ5aIMXCu7yCIPpdXqxC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

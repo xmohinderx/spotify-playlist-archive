@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "Singer-songwriters who colour outside the lines. Cover: Benjamin Dakota Rogers",
+  "description": "Singer-songwriters who colour outside the lines. Cover: Honey Harper",
   "name": "Renegade Folk",
   "published_playlist_ids": [
     "5h0SoEEkn4gAx7xRIlcPhO"
@@ -1163,7 +1163,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 264773,
       "name": "Grandfather",
       "url": "https://open.spotify.com/track/6Mf7qSGGEDuxV95aQpf9Ty"
@@ -1257,6 +1257,24 @@
       "duration_ms": 197516,
       "name": "Heaven's Touch",
       "url": "https://open.spotify.com/track/3bHfBsUAC23VN6oHwvLCwZ"
+    },
+    {
+      "album": {
+        "name": "Palace Waiting",
+        "url": "https://open.spotify.com/album/2sgxaCh1xIwbHoBsslHYuR"
+      },
+      "artists": [
+        {
+          "name": "Skinny Dyck",
+          "url": "https://open.spotify.com/artist/1saewocg14MmejEW9t4SZL"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177668,
+      "name": "Hey Who's Counting?",
+      "url": "https://open.spotify.com/track/2EddSxlJ381PsiQkEmZNeL"
     },
     {
       "album": {
@@ -2190,6 +2208,24 @@
     },
     {
       "album": {
+        "name": "Queen Of Spades",
+        "url": "https://open.spotify.com/album/3ypJf75RGg4YsxRF7T2qzO"
+      },
+      "artists": [
+        {
+          "name": "Julianna Riolino",
+          "url": "https://open.spotify.com/artist/4IkYUDeCe6OrwQhdSZZ81b"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246840,
+      "name": "Queen Of Spades",
+      "url": "https://open.spotify.com/track/7xsH1sQMp0wXYrREskS0JX"
+    },
+    {
+      "album": {
         "name": "Recyclers",
         "url": "https://open.spotify.com/album/1RRQsmBUCGLHQ2n22scgQs"
       },
@@ -2277,10 +2313,46 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 281853,
       "name": "Rise from the Wreck",
       "url": "https://open.spotify.com/track/2KkMtNzP3d0nlz9wgglYmt"
+    },
+    {
+      "album": {
+        "name": "River Rain",
+        "url": "https://open.spotify.com/album/0tnqzZJt70WBtxyTvC8u6W"
+      },
+      "artists": [
+        {
+          "name": "Kyle McKearney",
+          "url": "https://open.spotify.com/artist/7sAGzb8R5byxD1U13npShz"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298812,
+      "name": "River Rain",
+      "url": "https://open.spotify.com/track/4H8SuWRnIuMEO2S9HQJOeE"
+    },
+    {
+      "album": {
+        "name": "Rumpshaker",
+        "url": "https://open.spotify.com/album/2TAatpkEA5nQcZkh9AiW6g"
+      },
+      "artists": [
+        {
+          "name": "Crystal Shawanda",
+          "url": "https://open.spotify.com/artist/31X6W8Y4y9E0G78r5Y2rXG"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203250,
+      "name": "Rumpshaker",
+      "url": "https://open.spotify.com/track/7ucZi9RuxviWkpDCJrpyjE"
     },
     {
       "album": {
@@ -2349,7 +2421,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 243641,
       "name": "Seeds",
       "url": "https://open.spotify.com/track/0t47bIDjKLTxUSwtWGZcj6"
@@ -2803,7 +2875,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 191946,
       "name": "Tough or Die",
       "url": "https://open.spotify.com/track/0KKcazbwGXcSEdwXwhkWwN"

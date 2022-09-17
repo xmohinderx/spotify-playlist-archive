@@ -2,9 +2,9 @@
 
 ### [Top Latin Hits](https://open.spotify.com/playlist/3vWayw42WNrZX1NdMZBSgZ)
 
-> The perfect mix of the biggest <a href="https://www.instagram.com/sonymusiclatin/">Sony Music Latin</a> hits! Follow this playlist for hot new updates\. Cover: Camilo
+> The perfect mix of the biggest <a href="https://www.instagram.com/sonymusiclatin/">Sony Music Latin</a> hits! Follow this playlist for hot new updates\. Cover: Becky G, Daviles de Novelda
 
-291 songs - 16 hr 0 min - [published](https://open.spotify.com/playlist/0lGBO3myxqxYAzrucuf31y)
+292 songs - 16 hr 3 min - [published](https://open.spotify.com/playlist/0lGBO3myxqxYAzrucuf31y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Alaska](https://open.spotify.com/track/607ZGkxOxHJUVDEU3MZl86) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Alaska](https://open.spotify.com/album/6un8b7BMCwlYBFxbf3rSnZ) | 4:01 | 2022-08-18 |  |
 | [Alguien Más \- Versión Regional](https://open.spotify.com/track/3Br6gkQqhN4obEhaucA7Sh) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Alguien Más \(Versión Regional\)](https://open.spotify.com/album/6e6r99qv7LJue8WVljNOqk) | 2:16 | 2022-02-02 |  |
 | [Aloha](https://open.spotify.com/track/5RAIMjdrCEjpjaR5tBATXU) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Aloha \(feat\. Darell, Mambo Kingz & Dj Luian\)](https://open.spotify.com/album/7F8Usvm4Vj3XlRztSBRfEH) | 4:01 | 2022-02-02 |  |
+| [AMANTES](https://open.spotify.com/track/3Q7o2zzvXj7QiSCumjBpvu) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Daviles de Novelda](https://open.spotify.com/artist/6E94QKXZv8BbO6QQJxcxLI) | [AMANTES](https://open.spotify.com/album/2yEEceuPovV5sAoey4GUJF) | 3:00 | 2022-09-16 |  |
 | [Ambulancia](https://open.spotify.com/track/5OPte07J5hRK1pTn0f7ldr) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [De Adentro Pa Afuera](https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2) | 3:32 | 2022-09-06 |  |
 | [Amor en Coma](https://open.spotify.com/track/3RasiWohReHWYM1FJ9d1ZD) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Amor en Coma](https://open.spotify.com/album/0NHD8Het1Mqslp46azKDU2) | 3:19 | 2022-02-02 |  |
 | [ANTES QUE SALGA EL SOL](https://open.spotify.com/track/1vucS7X4otbyQSZ9RXYXFI) | [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [ANTES QUE SALGA EL SOL](https://open.spotify.com/album/1LRi8tnlnSaxAcffcxzhwi) | 3:03 | 2022-02-02 |  |

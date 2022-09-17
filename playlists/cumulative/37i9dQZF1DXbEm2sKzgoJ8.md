@@ -4,7 +4,7 @@
 
 > Set the mood just right...
 
-242 songs - 13 hr 23 min - [published](https://open.spotify.com/playlist/4zTYKLjx7UDt8CxQque0o1)
+244 songs - 13 hr 29 min - [published](https://open.spotify.com/playlist/4zTYKLjx7UDt8CxQque0o1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Fall in Love with You.](https://open.spotify.com/track/4kJT7Yj6Za01KfKHjb7mZE) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:12 | 2022-07-13 |  |
 | [Fallen Star](https://open.spotify.com/track/60F6pgM6H6miNr5AmjxwjL) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Fallen Star](https://open.spotify.com/album/6GzXN4CWv0p5jIMKRU0ZBZ) | 3:44 | 2021-12-10 |  |
 | [Falling \(Summer Walker Remix\)](https://open.spotify.com/track/3doHXO2n8mAW8XkIFeapTZ) | [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Falling \(Summer Walker Remix\)](https://open.spotify.com/album/3AbYioF6OiwhcMXZDdR394) | 2:53 | 2021-12-10 | 2022-04-19 |
-| [Falling For You](https://open.spotify.com/track/0jCbfcLupN9I5ILvNxMGty) | [Will Gittens](https://open.spotify.com/artist/2Guif3r6Ys8lL1H5aGyuh1) | [Love Songs](https://open.spotify.com/album/7tiLiMKiZ34qwvJQiuXfzN) | 3:15 | 2022-09-09 |  |
+| [Falling For You](https://open.spotify.com/track/0jCbfcLupN9I5ILvNxMGty) | [Will Gittens](https://open.spotify.com/artist/2Guif3r6Ys8lL1H5aGyuh1) | [Love Songs](https://open.spotify.com/album/7tiLiMKiZ34qwvJQiuXfzN) | 3:15 | 2022-09-09 | 2022-09-17 |
 | [Feels Like](https://open.spotify.com/track/2Hyaggl5zUVCwGSbJmkOs3) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candydrip](https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ) | 3:29 | 2022-03-11 | 2022-07-30 |
 | [Fingers Crossed](https://open.spotify.com/track/6OKod7wfu3y6h5Uj7VpzeI) | [Léonie Barbot](https://open.spotify.com/artist/3FtbcwEbxflXP8nItuw2rA) | [Fingers Crossed](https://open.spotify.com/album/10CJ52dMxyyLwI0X84oQzu) | 3:38 | 2022-01-14 | 2022-07-29 |
 | [Flightless Bird, American Mouth](https://open.spotify.com/track/1fEGtTZjrjJW8eUeewnNJR) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [The Shepherd's Dog](https://open.spotify.com/album/3fzjXU2SSKero9gVMcPivX) | 4:01 | 2022-03-25 |  |
@@ -101,6 +101,7 @@
 | [Honesty](https://open.spotify.com/track/19gCnDoMbugHhF7eMpLpe1) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [PINK PLANET](https://open.spotify.com/album/74UvOvL6L4tZbYFtY759ZG) | 3:09 | 2022-07-13 |  |
 | [Honesty](https://open.spotify.com/track/68vX3NqqjR7LVbyBd2EHF7) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Volume 1](https://open.spotify.com/album/7haisAWnBurqvjXerdrGzG) | 3:11 | 2021-12-10 | 2022-07-29 |
 | [Honey \(with Muni Long\)](https://open.spotify.com/track/5C93HMg6JWdTey2P717Ozq) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Honey](https://open.spotify.com/album/67b4tJxbnsJbbcTUjnlb3y) | 2:21 | 2022-06-17 |  |
+| [Hotel](https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Hotel](https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF) | 3:17 | 2022-09-16 |  |
 | [Hrs & Hrs](https://open.spotify.com/track/3M5azWqeZbfoVkGXygatlb) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection](https://open.spotify.com/album/2ngrG39dI2ofhCxjmFnKv5) | 3:24 | 2022-07-13 |  |
 | [Hrs and Hrs](https://open.spotify.com/track/3xRH6FPVtheDyNla3T1FE7) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection](https://open.spotify.com/album/4gECm6iRIuekmp8r6HIko0) | 3:24 | 2022-01-07 | 2022-07-29 |
 | [i wanna be your girlfriend](https://open.spotify.com/track/1MbEADz2hSkQAM2Yikfr9Y) | [gglum](https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO) | [i wanna be your girlfriend](https://open.spotify.com/album/5pIuwcGXWj9Vl2Ohz37XlH) | 5:11 | 2021-12-10 | 2022-07-29 |
@@ -153,9 +154,10 @@
 | [Not Around](https://open.spotify.com/track/1Adhz5VVDZxhojOLfQQUxa) | [Nova](https://open.spotify.com/artist/3J2OSq7G34UlfnNB6YuZCF) | [Not Around](https://open.spotify.com/album/1Sj2R7Zu0mYAPf5oCEnl2P) | 3:03 | 2021-12-10 |  |
 | [Novacane](https://open.spotify.com/track/4osgfFTICMkcGbbigdsa53) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Novacane](https://open.spotify.com/album/3RYdEXhGHojkTILUdtnRVJ) | 5:02 | 2022-08-16 |  |
 | [Off The Drugs](https://open.spotify.com/track/4YQl3QhsruxI4JABhRL5pN) | [Ash Leone](https://open.spotify.com/artist/434AIs2qYptNr3FFegjQaK) | [Off The Drugs](https://open.spotify.com/album/5b1nUTXxIuHDPmvrb1FEf5) | 2:49 | 2021-12-10 | 2022-07-29 |
-| [Off the Grid \(feat\. Khalid\)](https://open.spotify.com/track/3U62bHMhP7bKAFYMkn3fNx) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [It Was Divine](https://open.spotify.com/album/0nmCwOAFeqD69X1MWwKTS6) | 3:20 | 2021-12-10 |  |
+| [Off the Grid \(feat\. Khalid\)](https://open.spotify.com/track/3U62bHMhP7bKAFYMkn3fNx) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [It Was Divine](https://open.spotify.com/album/0nmCwOAFeqD69X1MWwKTS6) | 3:20 | 2021-12-10 | 2022-09-17 |
 | [One In A Million](https://open.spotify.com/track/24BkSXV9D9YYJU47EGFKCY) | [Jesse Gold](https://open.spotify.com/artist/0ScLk4lNexNrtkDmGQicRx), [Stefani Kimber](https://open.spotify.com/artist/4ePVAZ2pFMlU0aFbPc3qgF) | [One In A Million](https://open.spotify.com/album/0K8IkWqXMpb0gMo8gkbVYw) | 2:58 | 2021-12-10 | 2022-07-29 |
 | [One More](https://open.spotify.com/track/0HTnLvSyKpRgRXtiEX4bVZ) | [southernwade](https://open.spotify.com/artist/4AhmVfS4VIU9vQzElhRu2R) | [One More](https://open.spotify.com/album/2dj0bLZmleAnuRNRzH7a04) | 2:33 | 2021-12-10 | 2022-07-26 |
+| [ONLY ONE](https://open.spotify.com/track/04xnC2Uwq38RPrwCLv6f0G) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [YESSIE](https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV) | 3:03 | 2022-09-16 |  |
 | [Out Loud \(feat\. Kehlani\)](https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Broken Hearts Club](https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y) | 3:23 | 2022-04-08 | 2022-08-12 |
 | [Out of Me](https://open.spotify.com/track/4sBewbIfhhrl7GmkEfGPSz) | [Kevin Holliday](https://open.spotify.com/artist/30VidDqHTbEp8U7CBe1mX0) | [Out of Me](https://open.spotify.com/album/0e1vw04RIwrMjoXHboNUsO) | 2:50 | 2022-06-17 | 2022-07-14 |
 | [Outta This World](https://open.spotify.com/track/7G07BhMd2IrDD23C0MHsww) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Outta This World](https://open.spotify.com/album/4AQJLbmwplWDQ5KvU4WJFG) | 2:45 | 2022-05-17 | 2022-07-03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8YFRm3hen8.md) - [plain]
 
 > La banda de sonido de tu día.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,879 likes - 80 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,953 likes - 80 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,19 +65,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8YFRm3hen8.md) - [plain]
 | 55 | [Volver a Casa](https://open.spotify.com/track/7jFRaaxunWW0nFabUC5Omt) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr), [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Al Parecer Todo Ha Sido una Trampa](https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q) | 3:03 |
 | 56 | [Hablando a Tu Corazón](https://open.spotify.com/track/3k9dGCm2R2Y70e87aMHYC3) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo), [Pedro Aznar](https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6) | [García 87/93](https://open.spotify.com/album/7yNFDuCsXe2P0DSenIMKxk) | 4:15 |
 | 57 | [La Bestia Pop](https://open.spotify.com/track/5WeBnrDPyLhxruxVryHCkn) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [Gulp!](https://open.spotify.com/album/5UATn22oJa1cBrnbnZ88eA) | 4:07 |
-| 58 | [Magia Blanca](https://open.spotify.com/track/4PfoTZ8nDhWEZNeDpLxy7G) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [Para Mi Para Vos](https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu) | 4:20 |
+| 58 | [Magia Veneno](https://open.spotify.com/track/6zielPkg61vCK5DfqqvjE9) | [Catupecu Machu](https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc) | [El Número Imperfecto](https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn) | 3:58 |
 | 59 | [No llora](https://open.spotify.com/track/1kEoU9Dmivr2JoOf7ramyT) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [Habla Tu Espejo](https://open.spotify.com/album/1ffZ5xExmmOr15QQzYrXyf) | 4:19 |
-| 60 | [Magia Veneno](https://open.spotify.com/track/6zielPkg61vCK5DfqqvjE9) | [Catupecu Machu](https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc) | [El Número Imperfecto](https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn) | 3:58 |
+| 60 | [Magia Blanca](https://open.spotify.com/track/4PfoTZ8nDhWEZNeDpLxy7G) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [Para Mi Para Vos](https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu) | 4:20 |
 | 61 | [Va A Escampar](https://open.spotify.com/track/4MPwBYidOWnwpKlqQYJEzX) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [A Contraluz](https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL) | 4:41 |
 | 62 | [Tu Amor](https://open.spotify.com/track/3obYcaXHdTB1EvZE3PVQhd) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo), [Pedro Aznar](https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6) | [Tango 4](https://open.spotify.com/album/0JTWqpFlJobaZW5V0Y0R5T) | 3:06 |
 | 63 | [Descontrolado](https://open.spotify.com/track/3KDClBkoakbdF0pSdF2PP7) | [Jóvenes Pordioseros](https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4) | [Vicio](https://open.spotify.com/album/5GhW2V4FEHOHEeVydU7TxS) | 2:54 |
 | 64 | [Venganza](https://open.spotify.com/track/0QBMEboyu2DxFTKGbI5nl7) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Venganza](https://open.spotify.com/album/3tDmUK7yNLCQZF7e8kjiLZ) | 3:22 |
 | 65 | [Los Calientes](https://open.spotify.com/track/7L2arBxHMxVXbWQzaHKgnY) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Jessico](https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh) | 4:37 |
-| 66 | [Chino](https://open.spotify.com/track/3i22RR1yUia5ShKujgQcX3) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04) | [Espíritu](https://open.spotify.com/album/2ZG0Q9JOUIcQGyDOFTAKYm) | 3:22 |
-| 67 | [A Veces Vuelvo](https://open.spotify.com/track/2E2dLZK0gSTl6vjr53BfKM) | [Catupecu Machu](https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc) | [El Número Imperfecto](https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn) | 4:26 |
+| 66 | [A Veces Vuelvo](https://open.spotify.com/track/2E2dLZK0gSTl6vjr53BfKM) | [Catupecu Machu](https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc) | [El Número Imperfecto](https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn) | 4:26 |
+| 67 | [Chino](https://open.spotify.com/track/3i22RR1yUia5ShKujgQcX3) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04) | [Espíritu](https://open.spotify.com/album/2ZG0Q9JOUIcQGyDOFTAKYm) | 3:22 |
 | 68 | [No Me Dejan Salir](https://open.spotify.com/track/6P6rudfmKr7FyArdyEs0Mk) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Clics Modernos](https://open.spotify.com/album/3OyBf97NOuJjhEpQHY920H) | 4:23 |
-| 69 | [Con Vos](https://open.spotify.com/track/5DNRryBkStHmqKtwigXZFR) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Con Vos](https://open.spotify.com/album/7xHsHJ5JbDXhiHhoCfeiN9) | 2:42 |
-| 70 | [Ojos de Dragón!](https://open.spotify.com/track/1wLYrmTo3HtsoTzfQnRZUY) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca) | [Desafíos](https://open.spotify.com/album/07xfOC49t79t2o7HzauVK6) | 4:17 |
+| 69 | [Ojos de Dragón!](https://open.spotify.com/track/1wLYrmTo3HtsoTzfQnRZUY) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca) | [Desafíos](https://open.spotify.com/album/07xfOC49t79t2o7HzauVK6) | 4:17 |
+| 70 | [Con Vos](https://open.spotify.com/track/5DNRryBkStHmqKtwigXZFR) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Con Vos](https://open.spotify.com/album/7xHsHJ5JbDXhiHhoCfeiN9) | 2:42 |
 | 71 | [Como Alí](https://open.spotify.com/track/7Gjlbz4TEoeBGH43eEd3hs) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Máquina de Sangre](https://open.spotify.com/album/2CzDXrQbEVI5gJq79rvBZx) | 3:31 |
 | 72 | [Cállame](https://open.spotify.com/track/5woNfSOnZYbFbA94DqvJJG) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [El Big Blue](https://open.spotify.com/album/1K6DMhbzgcx1T8e4HPnOX4) | 3:07 |
 | 73 | [Al Vacío](https://open.spotify.com/track/2Et0SWz6wuSONAROBvCY71) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Aunque Cueste Ver El Sol](https://open.spotify.com/album/0hIeX3j63GPq4UvoGcA67J) | 4:23 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8YFRm3hen8.md) - [plain]
 | 79 | [Los Salieris De Charly](https://open.spotify.com/track/2Ur5w6pRsWBq5xnqiwhVgj) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Mensajes Del Alma](https://open.spotify.com/album/5N6dSqrWduJNntj4svDbfE) | 6:02 |
 | 80 | [La Ladrona](https://open.spotify.com/track/1Gyfg0uusL0jDRllWpwM72) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [La Ladrona](https://open.spotify.com/album/6xr5n3aPVt5KuerSkh86C5) | 3:19 |
 
-Snapshot ID: `MTY2MjY5MjQwMCwwMDAwMDAwMGQ3YTZkOTg1Mzk4NGJjYzZiZmE4YmM1MTgyNzI4NjBh`
+Snapshot ID: `MTY2MjY5MjQwMCwwMDAwMDAwMDk5MDM5MGJjYmZiN2QzZmE2MTkyMjMzYjg0N2JkMzA5`

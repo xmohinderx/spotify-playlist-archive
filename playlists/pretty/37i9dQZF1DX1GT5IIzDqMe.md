@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GT5IIzDqMe.md) - [plain]
 
 > Detroit <a href="spotify:genre:techno">Techno</a> Essentials\. Cover: DJ Minx.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,013 likes - 50 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,062 likes - 50 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GT5IIzDqMe.md) - [plain]
 | 33 | [Low Life](https://open.spotify.com/track/1MBHNJsI9KV84lxaV5bhVl) | [Robert Hood](https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8) | [Clocks / Low Life / Go](https://open.spotify.com/album/3mTABh6bXq2UMtpyxuvXI1) | 5:34 |
 | 34 | [Can You Feel It \- Kevin Saunderson Remix](https://open.spotify.com/track/7q7jB2AIEGwFhoin6sWHwr) | [Chez Damier](https://open.spotify.com/artist/6ElgoHFh30ap09Koe8jf7C), [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG) | [Can You Feel It \(Kevin Saunderson Remix\)](https://open.spotify.com/album/2u3BYiVEAS9WPBBeUUsiuh) | 3:28 |
 | 35 | [Into The Groove \- Extended Mix](https://open.spotify.com/track/6zTgrvY5YaGFvs8RrQDK3V) | [Blake Baxter](https://open.spotify.com/artist/3ZKUeqiV2UX5sKhOipqw1h), [Abe Duque](https://open.spotify.com/artist/1vT97kA0pAS6X4gyB7FIGp) | [Into The Groove](https://open.spotify.com/album/7IQCupztgZD0CkAp0ohAHf) | 6:36 |
-| 36 | [No Ufo's \- Vocal](https://open.spotify.com/track/1Ro7L7RPp5P8heOfW4EQKA) | [Model 500](https://open.spotify.com/artist/2Djz8cbEv5rtrYrJYdzQ20) | [No Ufo's \(Original Version\)](https://open.spotify.com/album/2HPsmy1REVIz76Ow7cEGWg) | 4:18 |
-| 37 | [Q](https://open.spotify.com/track/5aCcZlUVkBrkQyMl2owvWb) | [Kenny Larkin](https://open.spotify.com/artist/7A4qanEMCOPcywaqZ01yVV) | [Azimuth](https://open.spotify.com/album/3KsHkbdeGg3rnuYVRxWv53) | 6:23 |
+| 36 | [Q](https://open.spotify.com/track/5aCcZlUVkBrkQyMl2owvWb) | [Kenny Larkin](https://open.spotify.com/artist/7A4qanEMCOPcywaqZ01yVV) | [Azimuth](https://open.spotify.com/album/3KsHkbdeGg3rnuYVRxWv53) | 6:23 |
+| 37 | [No Ufo's \- Vocal](https://open.spotify.com/track/1Ro7L7RPp5P8heOfW4EQKA) | [Model 500](https://open.spotify.com/artist/2Djz8cbEv5rtrYrJYdzQ20) | [No Ufo's \(Original Version\)](https://open.spotify.com/album/2HPsmy1REVIz76Ow7cEGWg) | 4:18 |
 | 38 | [The Dance](https://open.spotify.com/track/3BcFcJUfnBh3nmwvg6ra3g) | [Derrick May](https://open.spotify.com/artist/0v6N0xV7AfHHKVcgUOjC51) | [Innovator \(Mayday\)](https://open.spotify.com/album/2DtFJsPFDFp8b8AebiZmIL) | 7:12 |
 | 39 | [I Can't Believe \- Extended Mix](https://open.spotify.com/track/6fj1GG580y5T60iCJ85anz) | [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu) | [I Can't Believe](https://open.spotify.com/album/34rEmZ1C0e7HQjZHNcENUW) | 6:09 |
 | 40 | [Just Want Another Chance \- Original Mix](https://open.spotify.com/track/2fLoViPlr6qskNBS19sO7j) | [Reese](https://open.spotify.com/artist/4VUUiDoySoS7LDboUOX5mv), [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG) | [Just Want Another Chance](https://open.spotify.com/album/4XagqaRMPdxYcBibgCgCWH) | 5:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GT5IIzDqMe.md) - [plain]
 | 49 | [On A Journey](https://open.spotify.com/track/1DzZRyXgpD3IlRqsC7fqzD) | [K\-Hand](https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G) | [On A Journey](https://open.spotify.com/album/1qg6gKQtN4rOrHQp1qv412) | 4:31 |
 | 50 | [Do It All Night \(C2 Edit\) \- Mixed](https://open.spotify.com/track/2FZ2tYMA7fyh8yeRigzU5s) | [DJ Minx](https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B), [Carl Craig](https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU) | [Detroit Love Vol\. 2 \(DJ Mix\)](https://open.spotify.com/album/4MxXFLaIRakukm7CiS60FQ) | 5:39 |
 
-Snapshot ID: `MTY1ODQ4MDI2OCwwMDAwMDAwMGU5NDM1OTZjZTNhNWQxOTJiMTdlYjdiNzNmNDI0Y2E4`
+Snapshot ID: `MTY1ODQ4MDI2OCwwMDAwMDAwMDBkMmY2NWY3NDJmMWI4YjcxMWFkOTc4OWQ3ZjEzNzk3`

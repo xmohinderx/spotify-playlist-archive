@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,235 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,249 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 20 | [I like you](https://open.spotify.com/track/0X5xuP3hkIMo86LpTCFGdb) | [Seo In Guk](https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1) | [Minamdang \(Original Television Soundtrack, Pt\. 6\)](https://open.spotify.com/album/2zIS0T0Kegw9sOh0YQXxqF) | 2:58 |
 | 21 | [IS THIS LOVE](https://open.spotify.com/track/7ssHGorhA1RFETKIufBFht) | [KIHYUN](https://open.spotify.com/artist/52MWHSohXVqTyGhBPRJepS) | [After School Lessons for Unripe Apples \(Original Webcomic Soundtrack\) Pt.2](https://open.spotify.com/album/6y8QtlbcnxTnBt1Sd4S4bS) | 3:24 |
 | 22 | [You, Who?](https://open.spotify.com/track/5WLLVrfFNbseupmtv0p2B1) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM), [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [You, Who?](https://open.spotify.com/album/2VJD2d4spfkILWzOmHEd4i) | 3:39 |
-| 23 | [Dive into you](https://open.spotify.com/track/1N81YOCHPvDFQfndFc6vT4) | [MOONBIN&SANHA\(ASTRO\)](https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h) | [Kakao Webtoon 〈Since I Met You〉 OST Part.1](https://open.spotify.com/album/5vv6Uiok957CzhUKPjMWj7) | 3:32 |
-| 24 | [A midsummer night's sweetness](https://open.spotify.com/track/3gug38ZhXQWJbwN7sh0YRR) | [San E](https://open.spotify.com/artist/61MMiylth1injW39oZBuYB), [Raina](https://open.spotify.com/artist/21dQ70DS91icGLN9J4mH7h) | [San E, Raina Project Single 'A midsummer night's sweetness'](https://open.spotify.com/album/1srZhGQymoN6YQksduox2J) | 3:53 |
+| 23 | [A midsummer night's sweetness](https://open.spotify.com/track/3gug38ZhXQWJbwN7sh0YRR) | [San E](https://open.spotify.com/artist/61MMiylth1injW39oZBuYB), [Raina](https://open.spotify.com/artist/21dQ70DS91icGLN9J4mH7h) | [San E, Raina Project Single 'A midsummer night's sweetness'](https://open.spotify.com/album/1srZhGQymoN6YQksduox2J) | 3:53 |
+| 24 | [Dive into you](https://open.spotify.com/track/1N81YOCHPvDFQfndFc6vT4) | [MOONBIN&SANHA\(ASTRO\)](https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h) | [Kakao Webtoon 〈Since I Met You〉 OST Part.1](https://open.spotify.com/album/5vv6Uiok957CzhUKPjMWj7) | 3:32 |
 | 25 | [2U](https://open.spotify.com/track/00S4PrcWUb3f3dQ9PuC0uy) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [CYAN](https://open.spotify.com/album/54mKbSh20yke318bPZMsjb) | 3:15 |
 | 26 | [so this is love](https://open.spotify.com/track/18xXVZwosvArMOJOs7wd6S) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [bimil:ier vol.1 "so this is love"](https://open.spotify.com/album/5uGkgOzshdeNMMsR34kucM) | 3:23 |
 | 27 | [Maybe](https://open.spotify.com/track/4PoMMt1P8TAIRbeAcY8PN3) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [Maybe](https://open.spotify.com/album/1rzf2NYL9t1iA9HE6MYYvs) | 3:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 49 | [Oh My Boy](https://open.spotify.com/track/3qsxjwVRHAu69j7LoglBEz) | [KWON EUN BI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [Oh My Boy](https://open.spotify.com/album/3wB6o7osE6fIGUBNG4dk1F) | 3:03 |
 | 50 | [Something Precious](https://open.spotify.com/track/7yoqiaAawHktS5Gao5rzLO) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Forecasting Love and Weather \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/5wEeXyJVwgTvVis9XPOs7Q) | 3:29 |
 
-Snapshot ID: `MTY2MjM5MzExMiwwMDAwMDAwMDI5NmRmYjMwNDljMmViM2ZmZWYwOWVhNmM2NzhjYTNm`
+Snapshot ID: `MTY2MjM5MzExMiwwMDAwMDAwMDYxY2Y5Njc5M2I1NWI1MWM1ODhhNTljMzBiNzk0MTgw`

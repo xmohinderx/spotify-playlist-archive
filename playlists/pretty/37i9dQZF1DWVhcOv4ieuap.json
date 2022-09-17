@@ -1,12 +1,12 @@
 {
   "description": "Alegra tu d\u00eda con lo m\u00e1s pop para la ma\u00f1ana.",
-  "num_followers": 978478,
+  "num_followers": 978580,
   "original_name": "Despierta y Sonr\u00ede",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY2Mjk2MywwMDAwMDAwMGY5NDVhY2QwMTQ3NmRhODVkMDI3NDg5Y2EyMGUwNDg1",
+  "snapshot_id": "MTY2MjY2Mjk2MywwMDAwMDAwMDJjOWNmYjM0YWUyZTQxZTc3ODg5ZDFkMWM1ODNiYTAw",
   "tracks": [
     {
       "added_at": "2022-09-08 18:49:23",
@@ -79,26 +79,6 @@
     {
       "added_at": "2022-09-08 18:49:23",
       "album": {
-        "name": "Te Felicito",
-        "url": "https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 172235,
-      "name": "Te Felicito",
-      "url": "https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt"
-    },
-    {
-      "added_at": "2022-09-08 18:49:23",
-      "album": {
         "name": "Twelve Carat Toothache",
         "url": "https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx"
       },
@@ -115,6 +95,26 @@
       "duration_ms": 192840,
       "name": "I Like You (A Happier Song) (with Doja Cat)",
       "url": "https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj"
+    },
+    {
+      "added_at": "2022-09-08 18:49:23",
+      "album": {
+        "name": "Te Felicito",
+        "url": "https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 172235,
+      "name": "Te Felicito",
+      "url": "https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt"
     },
     {
       "added_at": "2022-09-08 18:49:23",
@@ -431,22 +431,6 @@
     {
       "added_at": "2022-09-08 18:49:23",
       "album": {
-        "name": "BREAK MY SOUL",
-        "url": "https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 278281,
-      "name": "BREAK MY SOUL",
-      "url": "https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ"
-    },
-    {
-      "added_at": "2022-09-08 18:49:23",
-      "album": {
         "name": "Numb",
         "url": "https://open.spotify.com/album/3SBeYxkc3Ce7lanK0f3epk"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 155588,
       "name": "Numb",
       "url": "https://open.spotify.com/track/10xV5l9nhLvFpR8mqzs0bL"
+    },
+    {
+      "added_at": "2022-09-08 18:49:23",
+      "album": {
+        "name": "BREAK MY SOUL",
+        "url": "https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 278281,
+      "name": "BREAK MY SOUL",
+      "url": "https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ"
     },
     {
       "added_at": "2022-09-08 18:49:23",
@@ -827,6 +827,22 @@
     {
       "added_at": "2022-09-08 18:49:23",
       "album": {
+        "name": "El Madrile\u00f1o",
+        "url": "https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9"
+      },
+      "artists": [
+        {
+          "name": "C. Tangana",
+          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
+        }
+      ],
+      "duration_ms": 153960,
+      "name": "Demasiadas Mujeres",
+      "url": "https://open.spotify.com/track/3GaGWoU1KfVqgl7vnRHP55"
+    },
+    {
+      "added_at": "2022-09-08 18:49:23",
+      "album": {
         "name": "Potion (with Dua Lipa & Young Thug)",
         "url": "https://open.spotify.com/album/1V6HksALLzO5ihpU3YVqJc"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 214459,
       "name": "Potion (with Dua Lipa & Young Thug)",
       "url": "https://open.spotify.com/track/7fYRg3CEbk6rNCuzNzMT06"
-    },
-    {
-      "added_at": "2022-09-08 18:49:23",
-      "album": {
-        "name": "El Madrile\u00f1o",
-        "url": "https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9"
-      },
-      "artists": [
-        {
-          "name": "C. Tangana",
-          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
-        }
-      ],
-      "duration_ms": 153960,
-      "name": "Demasiadas Mujeres",
-      "url": "https://open.spotify.com/track/3GaGWoU1KfVqgl7vnRHP55"
     },
     {
       "added_at": "2022-09-08 18:49:23",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2022-09-08 18:49:23",
       "album": {
+        "name": "Loose",
+        "url": "https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT"
+      },
+      "artists": [
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        }
+      ],
+      "duration_ms": 223080,
+      "name": "Say It Right",
+      "url": "https://open.spotify.com/track/2aI21FnmY7TJVKeMaoQZ0t"
+    },
+    {
+      "added_at": "2022-09-08 18:49:23",
+      "album": {
         "name": "Tom's Diner",
         "url": "https://open.spotify.com/album/7ClPGbXY81egfNn8H1hDAg"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 269333,
       "name": "Tom's Diner",
       "url": "https://open.spotify.com/track/0oA9wBGDY4uyILLg4GymWP"
-    },
-    {
-      "added_at": "2022-09-08 18:49:23",
-      "album": {
-        "name": "Loose",
-        "url": "https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT"
-      },
-      "artists": [
-        {
-          "name": "Nelly Furtado",
-          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
-        }
-      ],
-      "duration_ms": 223080,
-      "name": "Say It Right",
-      "url": "https://open.spotify.com/track/2aI21FnmY7TJVKeMaoQZ0t"
     },
     {
       "added_at": "2022-09-08 18:49:23",
@@ -1263,6 +1263,30 @@
     {
       "added_at": "2022-09-08 18:49:23",
       "album": {
+        "name": "Una Vaina Loca",
+        "url": "https://open.spotify.com/album/1I92y0NxYT4cUYSQePekyM"
+      },
+      "artists": [
+        {
+          "name": "Fuego",
+          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 226187,
+      "name": "Una Vaina Loca",
+      "url": "https://open.spotify.com/track/2qEoAz0i6yEz5dPggABcLH"
+    },
+    {
+      "added_at": "2022-09-08 18:49:23",
+      "album": {
         "name": "Sigue/Forever My Love",
         "url": "https://open.spotify.com/album/5umofLk634QVTKYtt2Deoy"
       },
@@ -1299,30 +1323,6 @@
       "duration_ms": 158080,
       "name": "Fantasi",
       "url": "https://open.spotify.com/track/63GTuNSVLynH3n3PdqObgd"
-    },
-    {
-      "added_at": "2022-09-08 18:49:23",
-      "album": {
-        "name": "Una Vaina Loca",
-        "url": "https://open.spotify.com/album/1I92y0NxYT4cUYSQePekyM"
-      },
-      "artists": [
-        {
-          "name": "Fuego",
-          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 226187,
-      "name": "Una Vaina Loca",
-      "url": "https://open.spotify.com/track/2qEoAz0i6yEz5dPggABcLH"
     },
     {
       "added_at": "2022-09-08 18:49:23",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2022-09-08 18:49:23",
       "album": {
-        "name": "BAIL\u00c9 CON MI EX",
-        "url": "https://open.spotify.com/album/1Q2VAJl9617SehQItOqzqI"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 161880,
-      "name": "BAIL\u00c9 CON MI EX",
-      "url": "https://open.spotify.com/track/0Yc0ziTsyjahYqlWXVXlTU"
-    },
-    {
-      "added_at": "2022-09-08 18:49:23",
-      "album": {
         "name": "Bar",
         "url": "https://open.spotify.com/album/0QCHhR6WxpMZBbI33s1bAf"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 160212,
       "name": "Bar",
       "url": "https://open.spotify.com/track/0lJE8f0lx8mUSfMyxeYpiC"
+    },
+    {
+      "added_at": "2022-09-08 18:49:23",
+      "album": {
+        "name": "BAIL\u00c9 CON MI EX",
+        "url": "https://open.spotify.com/album/1Q2VAJl9617SehQItOqzqI"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 161880,
+      "name": "BAIL\u00c9 CON MI EX",
+      "url": "https://open.spotify.com/track/0Yc0ziTsyjahYqlWXVXlTU"
     },
     {
       "added_at": "2022-09-08 18:49:23",

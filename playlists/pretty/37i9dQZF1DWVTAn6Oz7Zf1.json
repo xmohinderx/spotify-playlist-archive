@@ -1,12 +1,12 @@
 {
   "description": "Cerchi energie e buona musica? Prova con la nostra playlist!",
-  "num_followers": 166276,
+  "num_followers": 166283,
   "original_name": "Una Carica di Espresso!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5NjA2MCwwMDAwMDAwMDFmOGQwYjI5NjIxNjE3YzA0MjBkNjY2ODZkNzdlZjRl",
+  "snapshot_id": "MTY2MjY5NjA2MCwwMDAwMDAwMDM0Nzk0ZTllMzllNGE2NjIwOTNlMDU5ODQ2ZDYwYWI4",
   "tracks": [
     {
       "added_at": "2022-09-09 04:01:00",
@@ -595,18 +595,22 @@
     {
       "added_at": "2022-09-09 04:01:00",
       "album": {
-        "name": "Black Magic",
-        "url": "https://open.spotify.com/album/5AK6JW4lDEomh8p9LdTSV3"
+        "name": "Hear Me Say",
+        "url": "https://open.spotify.com/album/0mTHF0Grl8yVxVZHAMZn9V"
       },
       "artists": [
         {
-          "name": "Jonasu",
-          "url": "https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT"
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "L\u00c9ON",
+          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
         }
       ],
-      "duration_ms": 174193,
-      "name": "Black Magic",
-      "url": "https://open.spotify.com/track/7zx1i0jGcFwMBurajgKlO7"
+      "duration_ms": 190772,
+      "name": "Hear Me Say",
+      "url": "https://open.spotify.com/track/7dk9EBvTbbKBbFxjCAJpwK"
     },
     {
       "added_at": "2022-09-09 04:01:00",
@@ -631,22 +635,18 @@
     {
       "added_at": "2022-09-09 04:01:00",
       "album": {
-        "name": "Hear Me Say",
-        "url": "https://open.spotify.com/album/0mTHF0Grl8yVxVZHAMZn9V"
+        "name": "Black Magic",
+        "url": "https://open.spotify.com/album/5AK6JW4lDEomh8p9LdTSV3"
       },
       "artists": [
         {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "L\u00c9ON",
-          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
+          "name": "Jonasu",
+          "url": "https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT"
         }
       ],
-      "duration_ms": 190772,
-      "name": "Hear Me Say",
-      "url": "https://open.spotify.com/track/7dk9EBvTbbKBbFxjCAJpwK"
+      "duration_ms": 174193,
+      "name": "Black Magic",
+      "url": "https://open.spotify.com/track/7zx1i0jGcFwMBurajgKlO7"
     },
     {
       "added_at": "2022-09-09 04:01:00",
@@ -951,6 +951,26 @@
     {
       "added_at": "2022-09-09 04:01:00",
       "album": {
+        "name": "Bruises EP",
+        "url": "https://open.spotify.com/album/3bAq5agU2IUDfDuO4w50aR"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        },
+        {
+          "name": "Steve Void",
+          "url": "https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt"
+        }
+      ],
+      "duration_ms": 212280,
+      "name": "Bruises - Steve Void Remix",
+      "url": "https://open.spotify.com/track/4raMIjIjMc8JohHth7l9lG"
+    },
+    {
+      "added_at": "2022-09-09 04:01:00",
+      "album": {
         "name": "Day N Night",
         "url": "https://open.spotify.com/album/7qjzUP0zERhX2SCx1EnBQk"
       },
@@ -971,26 +991,6 @@
       "duration_ms": 179199,
       "name": "Day N Night",
       "url": "https://open.spotify.com/track/3ehuQZkvZVeSgbshFFZKW2"
-    },
-    {
-      "added_at": "2022-09-09 04:01:00",
-      "album": {
-        "name": "Bruises EP",
-        "url": "https://open.spotify.com/album/3bAq5agU2IUDfDuO4w50aR"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        },
-        {
-          "name": "Steve Void",
-          "url": "https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt"
-        }
-      ],
-      "duration_ms": 212280,
-      "name": "Bruises - Steve Void Remix",
-      "url": "https://open.spotify.com/track/4raMIjIjMc8JohHth7l9lG"
     },
     {
       "added_at": "2022-09-09 04:01:00",
@@ -1499,26 +1499,6 @@
     {
       "added_at": "2022-09-09 04:01:00",
       "album": {
-        "name": "Something Stupid (feat. AWA)",
-        "url": "https://open.spotify.com/album/2dvjAWKAaelqsNiqRajGlP"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "AWA",
-          "url": "https://open.spotify.com/artist/0dR988NNn8lrFhXTOxyJfZ"
-        }
-      ],
-      "duration_ms": 176734,
-      "name": "Something Stupid (feat. AWA)",
-      "url": "https://open.spotify.com/track/2UCu2FoXFZpCT36lYzej4O"
-    },
-    {
-      "added_at": "2022-09-09 04:01:00",
-      "album": {
         "name": "FOR\u039eV\u039eR (D\u039eLUX\u039e \u039eDITION)",
         "url": "https://open.spotify.com/album/53F4qZCDBwulb9eoMuWHf2"
       },
@@ -1535,6 +1515,26 @@
       "duration_ms": 173658,
       "name": "Hot Air Balloon",
       "url": "https://open.spotify.com/track/67p96tIoC4ESrod9kW331R"
+    },
+    {
+      "added_at": "2022-09-09 04:01:00",
+      "album": {
+        "name": "Something Stupid (feat. AWA)",
+        "url": "https://open.spotify.com/album/2dvjAWKAaelqsNiqRajGlP"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "AWA",
+          "url": "https://open.spotify.com/artist/0dR988NNn8lrFhXTOxyJfZ"
+        }
+      ],
+      "duration_ms": 176734,
+      "name": "Something Stupid (feat. AWA)",
+      "url": "https://open.spotify.com/track/2UCu2FoXFZpCT36lYzej4O"
     },
     {
       "added_at": "2022-09-09 04:01:00",

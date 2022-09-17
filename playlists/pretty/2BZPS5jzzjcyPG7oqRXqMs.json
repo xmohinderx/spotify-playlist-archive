@@ -6,8 +6,24 @@
     "name": "SOZO Playlists ",
     "url": "https://open.spotify.com/user/sozoofficial"
   },
-  "snapshot_id": "MzIyNSw5OTIwNDc2MmUzYmUwZGUyZWVkY2YyMzI1Yjk3OTVkZmI5ZmEyY2Ni",
+  "snapshot_id": "MzIyNyw2NzllNWYyZDRmZjg3ZjQyYTYwZjM0MDk2YzYyOTlmMjY5ZTA2YjNl",
   "tracks": [
+    {
+      "added_at": "2022-09-16 17:08:01",
+      "album": {
+        "name": "We The Kingdom",
+        "url": "https://open.spotify.com/album/0gkEJZHlqciximZV1b9Drp"
+      },
+      "artists": [
+        {
+          "name": "We The Kingdom",
+          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
+        }
+      ],
+      "duration_ms": 229560,
+      "name": "Mine",
+      "url": "https://open.spotify.com/track/1IkXnZOpAy7rHbRlMpWov9"
+    },
     {
       "added_at": "2022-09-09 16:47:25",
       "album": {

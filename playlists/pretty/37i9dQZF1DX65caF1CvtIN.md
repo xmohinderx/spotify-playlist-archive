@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65caF1CvtIN.md) - [plain]
 
 > Quiet piano for hope and acceptance in times of hardship.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,516 likes - 121 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,564 likes - 121 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65caF1CvtIN.md) - [plain]
 | 16 | [Dear Mom](https://open.spotify.com/track/64OnVK4dInm0TVFzFPxCVV) | [Silke Böhm](https://open.spotify.com/artist/0Cl19kEnD1Zk5sVsrkaaM8) | [Dear Mom](https://open.spotify.com/album/1J4qdT4JnTedrMlTgxRoGm) | 2:40 |
 | 17 | [Trzymaj Mnie](https://open.spotify.com/track/75aSMYjVgAcknIrIJ9JEvA) | [Zygmunt Czarnecki](https://open.spotify.com/artist/1uKeHKFusnucKrl8BLDoXM) | [Trzymaj Mnie](https://open.spotify.com/album/6jDUMlLOOr5BU6O42NV8Ip) | 2:06 |
 | 18 | [The Piano Tuner](https://open.spotify.com/track/02xTpDXmKCTZnZMWQl8QV9) | [Jordi Forniés](https://open.spotify.com/artist/2XpDoARX6IQRx9w19lO62x) | [The Piano Tuner](https://open.spotify.com/album/5G4lLpLJ78QXxPLCgAND3N) | 2:08 |
-| 19 | [F Sharp For You](https://open.spotify.com/track/2J6iktYw8vLp2QzxffSNxV) | [Luis Berra](https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk) | [F Sharp For You](https://open.spotify.com/album/5X3DST59ra3NlevOvLCyyz) | 2:14 |
+| 19 | [F Sharp For You](https://open.spotify.com/track/5W0szJ8oYW28sGOtfUvYij) | [Luis Berra](https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk) | [Pieces For Claudia](https://open.spotify.com/album/50FfwgvW88CLcZUsRluNYD) | 2:14 |
 | 20 | [Plus Profond](https://open.spotify.com/track/7tEmaNEsEkAsYIcOvnPaa9) | [Nore April](https://open.spotify.com/artist/1kG5JVjVfcLdz5E97ZatfM) | [Plus Profond](https://open.spotify.com/album/7GksUrM626mfLSL5NFfFEY) | 1:54 |
 | 21 | [Tuesday](https://open.spotify.com/track/3TXgtWFkb8MlIqtzBtyI5D) | [Annelie](https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC) | [Hertz](https://open.spotify.com/album/7jmsYzJVkPjYDhsesqBqHD) | 3:11 |
 | 22 | [Singularities](https://open.spotify.com/track/0Tkj0zVric1PWv2NVauxdi) | [Constance Lucas](https://open.spotify.com/artist/3xe11Jl7vdO7Py3udTGzWq) | [Singularities](https://open.spotify.com/album/6S4hCHy5zVfBy0Ceauipg9) | 2:29 |
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65caF1CvtIN.md) - [plain]
 | 120 | [Last Waltz](https://open.spotify.com/track/1LJHL7STYRtnth0VHkANFf) | [Leon den Engelsen](https://open.spotify.com/artist/0SoSwLhB42eDxhzzy5CU3Y) | [Last Waltz](https://open.spotify.com/album/3NyiAsTrnAgIWmWyw60mgb) | 2:34 |
 | 121 | [Bastille](https://open.spotify.com/track/7BHadNj1tyvcUUtwAyaQMJ) | [Felix Tanguy](https://open.spotify.com/artist/5QzzsfAU8urvcZpr5OVeng) | [Bastille](https://open.spotify.com/album/3mIBkkGxrGtbHmCgKvDnDa) | 2:15 |
 
-Snapshot ID: `MTY2Mjk4ODk1MSwwMDAwMDAwMGIzYjcyMTcyZDAxMjY5MWE0OWM1ZGY0MDU0YzM4YWQ5`
+Snapshot ID: `MTY2Mjk4ODk1MSwwMDAwMDAwMDY2YmI0MTY4MDk5NWRkOWM5MmY2YjE0YWNmZjZkMzZh`

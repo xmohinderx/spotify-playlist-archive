@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 
 > Aumente o volume e ouça as bandas que estão com tudo no rock! Foto: Nickelback
 
-[Spotify](https://open.spotify.com/user/spotify) - 706,003 likes - 75 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 706,025 likes - 75 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,16 +44,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 | 34 | [Take What You Want](https://open.spotify.com/track/0frtdZ0KWaYQJGvPvsS6YO) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Diamond Star Halos](https://open.spotify.com/album/5arLkguGPIDSGzCT8Cjt6K) | 4:14 |
 | 35 | [Going Crazy](https://open.spotify.com/track/4roPy7UCHujegMBkutBawy) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Chaos In Bloom](https://open.spotify.com/album/2uHbskNXxJFARyl686aN6T) | 3:58 |
 | 36 | [Dad Vibes](https://open.spotify.com/track/3XM6V7K5nbZf5AQz20fDDb) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Dad Vibes](https://open.spotify.com/album/7tadqEjXzmv9fgy21AelkR) | 2:12 |
-| 37 | [Everything We Need](https://open.spotify.com/track/5oKBOiiJceLlAEQ4VaVe8p) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Everything We Need](https://open.spotify.com/album/45iFc2ouMdWTuxImSsjaJF) | 3:05 |
-| 38 | [Dregs of the Wine](https://open.spotify.com/track/1NLuc6L2PhmFiSJK1zoFb6) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Dregs of the Wine](https://open.spotify.com/album/7AqFnCeN3Q3wvSuw36cAfD) | 3:29 |
+| 37 | [Dregs of the Wine](https://open.spotify.com/track/1NLuc6L2PhmFiSJK1zoFb6) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Dregs of the Wine](https://open.spotify.com/album/7AqFnCeN3Q3wvSuw36cAfD) | 3:29 |
+| 38 | [Everything We Need](https://open.spotify.com/track/5oKBOiiJceLlAEQ4VaVe8p) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Everything We Need](https://open.spotify.com/album/45iFc2ouMdWTuxImSsjaJF) | 3:05 |
 | 39 | [Start The Healing](https://open.spotify.com/track/42qa1IoXDeSt0zzWTOuwyG) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Start The Healing](https://open.spotify.com/album/0u1tbNPEpP0a6it8o6KeOH) | 3:28 |
 | 40 | [Limbo](https://open.spotify.com/track/5nUrlBwZiaPcCKpBM7iT1W) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Limbo](https://open.spotify.com/album/0xzwaeIpyKeCIPKxSyhxNE) | 4:53 |
 | 41 | [Echo](https://open.spotify.com/track/5ghRFXY8wDBM3tht7Qvxp3) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Echo](https://open.spotify.com/album/5pCBuV5mhXIUonyuWL5EZd) | 3:19 |
 | 42 | [Taking Me Back](https://open.spotify.com/track/7s7m8L8NcIYzgw0qmoghA8) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Taking Me Back](https://open.spotify.com/album/5faWqAkH90FGt9KBwemQXw) | 4:05 |
 | 43 | [Heavy Is The Crown](https://open.spotify.com/track/4P5cw8rpwDAQdzIy5nltzj) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [Heavy Is The Crown](https://open.spotify.com/album/3PZhCt0gqzjDJLC8yKUohe) | 3:54 |
 | 44 | [Ready For Something](https://open.spotify.com/track/7jxszj5PkDm69WQGda2S21) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [Ready For Something](https://open.spotify.com/album/0kybYEkeYAZJDCzxqmrtvE) | 3:57 |
-| 45 | [The Saints Of Violence And Innuendo](https://open.spotify.com/track/3qdTM1rNjRUvmbuF4d82Mv) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [The Saints Of Violence And Innuendo](https://open.spotify.com/album/3WgIObFq2Z0z5ulE29sCw4) | 3:41 |
-| 46 | [Cut The Line](https://open.spotify.com/track/4NsPN2aQZCrgraYbKoMKsO) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Cut The Line](https://open.spotify.com/album/3rv2w5JJMNl3YCJXt5wPFw) | 3:29 |
+| 45 | [Cut The Line](https://open.spotify.com/track/4NsPN2aQZCrgraYbKoMKsO) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Cut The Line](https://open.spotify.com/album/3rv2w5JJMNl3YCJXt5wPFw) | 3:29 |
+| 46 | [The Saints Of Violence And Innuendo](https://open.spotify.com/track/3qdTM1rNjRUvmbuF4d82Mv) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [The Saints Of Violence And Innuendo](https://open.spotify.com/album/3WgIObFq2Z0z5ulE29sCw4) | 3:41 |
 | 47 | [As It Was](https://open.spotify.com/track/0qx8jeLEWfTApU1AGZa8Lf) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [As It Was](https://open.spotify.com/album/6Qt0Z3HlexskLMnUrpMtxa) | 2:39 |
 | 48 | [Wouldn't You Rather](https://open.spotify.com/track/2BJrrLbxGDM26fTpWqBMKU) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [Walk The Sky](https://open.spotify.com/album/3CDDZa8pfzfxfDdtm7g84B) | 3:49 |
 | 49 | [Typhoons](https://open.spotify.com/track/6BsZx9FarJrLddTNu2k6pU) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Typhoons](https://open.spotify.com/album/547UjN7nCN4L5rQgolzHQn) | 3:56 |
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 | 67 | [Peach](https://open.spotify.com/track/1OWNwD4n5bGm8CcH3uuQ3C) | [Chevelle](https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw) | [Peach](https://open.spotify.com/album/33LMoG1vTsoNnUy9vvy8t3) | 4:16 |
 | 68 | [Fortunate Son \- Nowhere Sessions](https://open.spotify.com/track/3cGCENd2skTiSOQjDNFpZo) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Nowhere Sessions](https://open.spotify.com/album/0kosDsw7YzVlvAeg2E7sbD) | 1:54 |
 | 69 | [A Beautiful Life](https://open.spotify.com/track/4lcQ64FgH8aBhBfx19jlA4) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [Gifts From The Holy Ghost](https://open.spotify.com/album/4kfE0W36et9sZgbRHNjHdl) | 3:35 |
-| 70 | [Daddy's Coming Home](https://open.spotify.com/track/3hEPgYSujPEuatqzNybeAH) | [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [Daddy's Coming Home](https://open.spotify.com/album/2Mfu4FHHdKiW6hBII5KtQ1) | 3:09 |
-| 71 | [Roses For You](https://open.spotify.com/track/0NRiFKtoYgflCzuCI8OG6t) | [Axty](https://open.spotify.com/artist/4zVeGdifjxGkC3eCSmCo0H) | [Roses For You](https://open.spotify.com/album/7qkjcLooZU0VyhhnbrxFUa) | 3:20 |
+| 70 | [Roses For You](https://open.spotify.com/track/0NRiFKtoYgflCzuCI8OG6t) | [Axty](https://open.spotify.com/artist/4zVeGdifjxGkC3eCSmCo0H) | [Roses For You](https://open.spotify.com/album/7qkjcLooZU0VyhhnbrxFUa) | 3:20 |
+| 71 | [Daddy's Coming Home](https://open.spotify.com/track/3hEPgYSujPEuatqzNybeAH) | [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [Daddy's Coming Home](https://open.spotify.com/album/2Mfu4FHHdKiW6hBII5KtQ1) | 3:09 |
 | 72 | [Looking Tragic](https://open.spotify.com/track/3Sacn9UUjr7ksQaTAoYIKg) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Looking Tragic / Begging For Trouble](https://open.spotify.com/album/1hKjd2OnD0fXSWVsl80M74) | 2:37 |
 | 73 | [Bitterness](https://open.spotify.com/track/570zBdab8qenUWMccosa9R) | [Mandragora](https://open.spotify.com/artist/2AJTjZn2L77z1FSxBasjhM) | [Nocturnal Rites](https://open.spotify.com/album/6v9DaYjPOaUgzIZtZtQ42q) | 7:16 |
 | 74 | [Keep It Away](https://open.spotify.com/track/4PBj43xrepBtpGDcrVewUf) | [Fuel](https://open.spotify.com/artist/0EyuKHE1AeE9lWUF8mzKVp) | [Keep It Away](https://open.spotify.com/album/56a0YTfgc8pSSmvdD381eB) | 3:41 |
 | 75 | [The People That We Love \- Golden Dub Remix](https://open.spotify.com/track/1QJpxlH4M7DmSFdIyE7Ekq) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa), [Greg Brimson](https://open.spotify.com/artist/52Fd5EqIgOlMWe3yqd1YMe) | [Golden State \(20th Anniversary Expanded Version\)](https://open.spotify.com/album/43TsRvNOblRitRDfdgu4VS) | 5:42 |
 
-Snapshot ID: `MTY2MjY5MjQ2MCwwMDAwMDAwMDEwNmU2ZmE3Njc2M2NmN2M3OTAzOTA1MjcyOGM2MzAz`
+Snapshot ID: `MTY2MjY5MjQ2MCwwMDAwMDAwMGY1YTBiNDJiYTcxZDU3ZTljZmE0N2YzODBhZGZmMjJk`

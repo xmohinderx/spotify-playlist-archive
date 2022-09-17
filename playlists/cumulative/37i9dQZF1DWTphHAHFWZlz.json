@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-30",
-  "description": "La nueva ola del rock argentino. Foto: El Mat\u00f3 a un Polic\u00eda Motorizado",
+  "description": "La nueva ola del rock argentino. Foto: El Plan De La Mariposa + Pedro Pastor",
   "name": "Rockola",
   "published_playlist_ids": [
     "0MtUXUcZ7oflfCxYvMhlyV"
@@ -2667,7 +2667,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 190306,
       "name": "Si Vienes",
       "url": "https://open.spotify.com/track/1n0N1bEYy0mgMQwAbnIyzZ"
@@ -3119,6 +3119,28 @@
       "duration_ms": 200318,
       "name": "Voy Girando",
       "url": "https://open.spotify.com/track/5Ru2w8lxXhYMLF8KAK46jU"
+    },
+    {
+      "album": {
+        "name": "Vuelvo a Caer en un T\u00fanel de Algod\u00f3n",
+        "url": "https://open.spotify.com/album/5hhS5mk04GItOMqPvrhV23"
+      },
+      "artists": [
+        {
+          "name": "El Plan De La Mariposa",
+          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
+        },
+        {
+          "name": "Pedro Pastor",
+          "url": "https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199266,
+      "name": "Vuelvo a Caer en un T\u00fanel de Algod\u00f3n",
+      "url": "https://open.spotify.com/track/3DIc5vKYOGk2NuRt38RW9L"
     },
     {
       "album": {

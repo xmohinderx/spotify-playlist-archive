@@ -3950,6 +3950,24 @@
     },
     {
       "album": {
+        "name": "When I'm With You",
+        "url": "https://open.spotify.com/album/4LxPVPgBo9EGncjqxWkrPW"
+      },
+      "artists": [
+        {
+          "name": "Arcando",
+          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "When I'm With You",
+      "url": "https://open.spotify.com/track/4IpHprcfDRMRjV1Vm2rr29"
+    },
+    {
+      "album": {
         "name": "When We Leavin",
         "url": "https://open.spotify.com/album/5OTxCckeiP4PErRyjIOU3W"
       },

@@ -4,7 +4,7 @@
 
 > Female\-identifying only grooves, with some of  <a href=“spotify:artist:3R80OE4RViOWbnuvqh0j8a”>Thuy's</a> inspirations\. Cover: Thuy
 
-499 songs - 1 day 3 hr 11 min - [published](https://open.spotify.com/playlist/1mPo8vNycnaROyFxw5QfNv)
+500 songs - 1 day 3 hr 16 min - [published](https://open.spotify.com/playlist/1mPo8vNycnaROyFxw5QfNv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,7 +179,7 @@
 | [Gorgeous Gorgeous Girls](https://open.spotify.com/track/5Ev5bb32kDL4Bdb2deG0G6) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [Gorgeous Gorgeous Girls](https://open.spotify.com/album/6qE9k5wB9ZfoWruZeDTMLh) | 1:56 | 2022-07-06 | 2022-08-04 |
 | [Greener Pasture](https://open.spotify.com/track/3fA0FKdkPmBa62MSxwewKE) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Greener Pasture](https://open.spotify.com/album/2ua2VjahAuE1LsjiGIQWu3) | 3:09 | 2022-03-08 | 2022-04-07 |
 | [Grow Up Tomorrow](https://open.spotify.com/track/6Anf5eqLfGEKoGy0iaKAOb) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Grow Up Tomorrow](https://open.spotify.com/album/12o1WJaINpfED7QgO1qR6A) | 3:12 | 2022-08-03 | 2022-09-09 |
-| [gurl](https://open.spotify.com/track/2tTTIbAAHYFgulsKMTTUkN) | [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn) | [cupids out tonight](https://open.spotify.com/album/3acMNe9M2nsFXtfMnAS4B3) | 2:36 | 2022-09-07 |  |
+| [gurl](https://open.spotify.com/track/2tTTIbAAHYFgulsKMTTUkN) | [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn) | [cupids out tonight](https://open.spotify.com/album/3acMNe9M2nsFXtfMnAS4B3) | 2:36 | 2022-09-07 | 2022-09-17 |
 | [GURÚ](https://open.spotify.com/track/0pZAXbsmAvNQvDAYHpXoCF) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [GOTEO](https://open.spotify.com/album/5ItnrdKLPrJzahQHZwjmYy) | 3:43 | 2022-07-06 | 2022-08-04 |
 | [Habit](https://open.spotify.com/track/5xL8e1wBrpqcMxMzeBDlWX) | [Leah Marie Mason](https://open.spotify.com/artist/0fubiYogCTeBykbgV7HGf6) | [Habit](https://open.spotify.com/album/0Mmppw4dHragYwpRhbhqhC) | 2:49 | 2022-05-04 | 2022-06-01 |
 | [Happening Again](https://open.spotify.com/track/1XYb7j151Uoan1RVDpt9F4) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Happening Again](https://open.spotify.com/album/6Kf3JOaJGuR058TJqrB4gM) | 2:53 | 2022-07-06 | 2022-08-04 |
@@ -406,6 +406,7 @@
 | [Softly](https://open.spotify.com/track/36Cs04fKrfupan7JZPBCYS) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Softly](https://open.spotify.com/album/7N39Fksc732Ab7A6dCqdQW) | 2:53 | 2022-01-05 | 2022-02-03 |
 | [Some Of Us Are Brave](https://open.spotify.com/track/076Ang4pgcByLvOEzNpW94) | [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Some Of Us Are Brave](https://open.spotify.com/album/7jvUHQQ7qlH4aymSXEDMkn) | 3:53 | 2022-08-03 | 2022-09-09 |
 | [Somebody I Fucked Once](https://open.spotify.com/track/6bk6CvEqTqXAnbRlSJtJqi) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Somebody I Fucked Once](https://open.spotify.com/album/2KtMH0vhN4mShuMxSf86wD) | 3:04 | 2021-12-01 | 2022-01-06 |
+| [Someone Like You](https://open.spotify.com/track/2ogZQLXNwWUnlgNDqeh7Cl) | [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Some Of Us Are Brave](https://open.spotify.com/album/2TETLoSHPG3KjGTHlMbFuQ) | 4:32 | 2022-09-16 |  |
 | [Somethin' Bout You](https://open.spotify.com/track/2hsarLx1u2OgOmkcJ8ejBm) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Somethin' Bout You](https://open.spotify.com/album/4ejJyrAvRvhVRadKmVPByS) | 2:36 | 2022-09-07 |  |
 | [Somewhere](https://open.spotify.com/track/08iNtav9HI11DXYv33dJc9) | [Nnena](https://open.spotify.com/artist/0PpiNNCSKFjchmyHuCe0Pj) | [...Just Cause](https://open.spotify.com/album/77Uf7Pe6japz6TwtFPrh2M) | 2:56 | 2022-01-05 | 2022-02-03 |
 | [Soul Full \(feat\. Joe Killington\)](https://open.spotify.com/track/4o8bcX3KzqCI09Xf4a37mJ) | [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d), [Mortimer](https://open.spotify.com/artist/7yJpTTkTOkN7pvn39nga98), [Joe Killington](https://open.spotify.com/artist/0QvtEuDIDAsKpfuOe2a237) | [Soul Full \(feat\. Joe Killington\)](https://open.spotify.com/album/0U7GxQHdZQB0nWrrWEOIEX) | 3:15 | 2022-02-02 | 2022-03-09 |

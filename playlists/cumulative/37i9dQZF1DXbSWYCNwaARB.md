@@ -4,7 +4,7 @@
 
 > All your girl crushes\(걸크러쉬\) in one place\. Cover: BLACKPINK
 
-316 songs - 17 hr 6 min - [published](https://open.spotify.com/playlist/1NPspPN8vwoPb2Vd2JfxrK)
+317 songs - 17 hr 9 min - [published](https://open.spotify.com/playlist/1NPspPN8vwoPb2Vd2JfxrK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [DOOMCHITA](https://open.spotify.com/track/3gLmJaolKWQGRT5xaS09JN) | [SECRET NUMBER](https://open.spotify.com/artist/7qxo9RTWfEoFKN7XGtNV6V) | [DOOMCHITA](https://open.spotify.com/album/10OdrpNsZ8FGFpWqsz7ujT) | 3:17 | 2022-06-18 | 2022-06-20 |
 | [Dramatic](https://open.spotify.com/track/4fAUUc8y2ZQcwKLGHidZsa) | [BVNDIT](https://open.spotify.com/artist/5dEBuZjTtE68uDgCs23Kuv) | [Dramatic](https://open.spotify.com/album/1NqeOZ3BmAoHN3Ml15gPYT) | 3:25 | 2021-01-15 | 2022-04-29 |
 | [Dream Line](https://open.spotify.com/track/2YSsmKzD15WOjIiQFfNgcO) | [PurpleBeck](https://open.spotify.com/artist/4Qmka95TrMVuv4UvYyj5iE) | [Dream Line](https://open.spotify.com/album/3MU2uTDCbyKPuphwGAl2Ja) | 3:27 | 2021-03-06 | 2022-05-30 |
-| [Dreams Come True](https://open.spotify.com/track/6rVCUwfnuYTAsX4P9fIdIu) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Dreams Come True \- SM STATION](https://open.spotify.com/album/4Jzx0XAORPKQ3v7EaL8Ful) | 3:24 | 2021-12-20 | 2022-09-13 |
+| [Dreams Come True](https://open.spotify.com/track/6rVCUwfnuYTAsX4P9fIdIu) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Dreams Come True \- SM STATION](https://open.spotify.com/album/4Jzx0XAORPKQ3v7EaL8Ful) | 3:24 | 2021-12-20 |  |
 | [DRIP](https://open.spotify.com/track/1UThkKR8w3WnA6lWCRhOJn) | [HINAPIA](https://open.spotify.com/artist/6bWaRj4L4PyJ4uv2wN47Ny) | [New Start](https://open.spotify.com/album/79I7ijWthvkwe4xOW0zzQh) | 3:20 | 2021-01-15 | 2022-04-03 |
 | [Dumb](https://open.spotify.com/track/1PNb8pRsZGa8XN1m5nJe70) | [BVNDIT](https://open.spotify.com/artist/5dEBuZjTtE68uDgCs23Kuv) | [BE!](https://open.spotify.com/album/6DX33GTGhfTLpQWzmHHgHA) | 3:10 | 2021-01-17 | 2022-06-13 |
 | [DUN DUN](https://open.spotify.com/track/3CyCjgTHFzqucmECajq8QA) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [reminiscence](https://open.spotify.com/album/5ByQ39IHGxrddAwQcnxvoj) | 3:12 | 2020-10-20 | 2022-04-20 |
@@ -125,7 +125,7 @@
 | [Hocus Pocus](https://open.spotify.com/track/4X0kjAmFgu6zX5Uwl4lnwa) | [BVNDIT](https://open.spotify.com/artist/5dEBuZjTtE68uDgCs23Kuv) | [BVNDIT, BE AMBITIOUS!](https://open.spotify.com/album/1HAL8eTzvFRxaMGjYybRG5) | 3:27 | 2021-03-01 | 2022-04-13 |
 | [HOME](https://open.spotify.com/track/7KrThgzyyulBjY9vEbqceh) | [YEZI](https://open.spotify.com/artist/6LPOT9C3gvGQHxlZtMLHHg) | [HOME](https://open.spotify.com/album/3npgimYVYM64IDAiLytb2l) | 3:16 | 2021-01-16 | 2022-05-07 |
 | [HONEY](https://open.spotify.com/track/7JDiC68AKimlvMCmZQuA9n) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) | [容 : FACE](https://open.spotify.com/album/6eSFX12WIqUtmGsD8UO3FT) | 2:47 | 2022-03-16 | 2022-07-28 |
-| [Honey Drop \(Feat\. Lil Cherry\)](https://open.spotify.com/track/6oDLaTN3k2g8n74Cyup2FO) | [Honey J](https://open.spotify.com/artist/7GLNucMzWyvNW8FAabALKi), [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4) | [Honey Drop](https://open.spotify.com/album/5kdXxKUQ3VaGOPEU8C3Hb5) | 2:38 | 2022-08-29 |  |
+| [Honey Drop \(Feat\. Lil Cherry\)](https://open.spotify.com/track/6oDLaTN3k2g8n74Cyup2FO) | [Honey J](https://open.spotify.com/artist/7GLNucMzWyvNW8FAabALKi), [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4) | [Honey Drop](https://open.spotify.com/album/5kdXxKUQ3VaGOPEU8C3Hb5) | 2:38 | 2022-08-29 | 2022-09-17 |
 | [How You Like That](https://open.spotify.com/track/3vAn0qZzdyuHamcrpkfiX3) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [How You Like That](https://open.spotify.com/album/19LMUlWN7xU2NW80pZSeuH) | 3:01 | 2020-10-13\* | 2022-05-21 |
 | [How You Like That](https://open.spotify.com/track/4SFknyjLcyTLJFPKD2m96o) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 3:02 | 2022-07-25 |  |
 | [HWAA](https://open.spotify.com/track/5FiXhM80sP4yg6tEnHkZZn) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I burn](https://open.spotify.com/album/3ma5amx5s3l1NKoWNHaMYe) | 3:17 | 2021-01-18 | 2022-07-29 |
@@ -136,7 +136,7 @@
 | [I'm so sick](https://open.spotify.com/track/3lSM3Wn3RJbzAAHzJ3sX1f) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [ONE & SIX](https://open.spotify.com/album/5xP2GsTFLRJCtAwYYaNKWh) | 3:19 | 2021-01-23 | 2022-07-03 |
 | [i'M THE TREND](https://open.spotify.com/track/5Fkkhd5Sy1dCBkKdXLQl4U) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [i'M THE TREND](https://open.spotify.com/album/03TbZLPSRsHWX11umzK4qf) | 3:25 | 2020-10-13\* | 2022-06-10 |
 | [Ice Cream \(with Selena Gomez\)](https://open.spotify.com/track/60jpDubMmVyR5molJp2TCm) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Ice Cream \(with Selena Gomez\)](https://open.spotify.com/album/0J1uiXQshfRtz2R8lgUlQk) | 2:55 | 2020-10-13\* | 2022-06-26 |
-| [Ice Cream \(with Selena Gomez\)](https://open.spotify.com/track/4JUPEh2DVSXFGExu4Uxevz) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 2:57 | 2022-07-25 |  |
+| [Ice Cream \(with Selena Gomez\)](https://open.spotify.com/track/4JUPEh2DVSXFGExu4Uxevz) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 2:57 | 2022-07-25 | 2022-09-17 |
 | [ICONS](https://open.spotify.com/track/0eYUPGR0tB6pP5YvE3zXaU) | [HOT ISSUE](https://open.spotify.com/artist/16C7FRln711ggylepawmpq) | [ICONS](https://open.spotify.com/album/4BuL7zE1QTDoSlij13X4XI) | 3:08 | 2021-10-01 | 2022-06-22 |
 | [ICY](https://open.spotify.com/track/7zFBtYAVURF3bUVqEQ6UUu) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z ICY](https://open.spotify.com/album/2y2Nuvvw5xNDYOunTSsgf1) | 3:11 | 2020-10-20 | 2022-07-13 |
 | [Illusion](https://open.spotify.com/track/5uFqjHOo3Sh0bVPCKf3DdH) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Illusion](https://open.spotify.com/album/4r815m6eq8OXYzfqtk3FST) | 3:15 | 2022-06-01 |  |
@@ -246,6 +246,7 @@
 | [Scream](https://open.spotify.com/track/3vPHCKu5UhbGLe9rs8dBGr) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [1st Album \[Dystopia : The Tree of Language\]](https://open.spotify.com/album/7no7EZnKgoRWBbGMjZo9gB) | 3:24 | 2020-10-20 | 2021-01-27 |
 | [Secret Story of the Swan](https://open.spotify.com/track/3FARQP8fA49bSsTWjNyWmY) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [Oneiric Diary](https://open.spotify.com/album/0Feph4xWbYik7e0oLR08sN) | 3:12 | 2020-10-13\* | 2022-07-28 |
 | [SET ME FREE](https://open.spotify.com/track/5uBj6dKskLCpUqLpsHDWQR) | [LADIES' CODE](https://open.spotify.com/artist/4epPY1AW9lQeVUM1XaFiwi) | [CODE\#03 SET ME FREE](https://open.spotify.com/album/5IucA8A0gP5gHptTSLJoP2) | 3:05 | 2021-02-26 | 2022-04-21 |
+| [Shut Down](https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 2:55 | 2022-09-16 |  |
 | [Silent Movie](https://open.spotify.com/track/4uu4bnkSI1JvTwKFUqq7Gp) | [Yubin](https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE), [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Start of the End](https://open.spotify.com/album/6hM2rd6v2VO3VUAyTW3GTm) | 3:20 | 2021-02-26 | 2022-04-16 |
 | [Snapping](https://open.spotify.com/track/7JCi89HGiURxFpr6NITY7q) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Flourishing](https://open.spotify.com/album/1lNM7RF1SVUs66OtLj4MQh) | 3:33 | 2020-10-20 | 2022-07-28 |
 | [So I Lie](https://open.spotify.com/track/6W3dOxHtG9BGSkCsIHZRVI) | [YerY](https://open.spotify.com/artist/4RnDWh3zemdMGubIQLeT6H) | [So I Lie](https://open.spotify.com/album/2KGPPS4bKfNA8ObCMx8jk1) | 3:00 | 2021-10-03 | 2022-04-18 |

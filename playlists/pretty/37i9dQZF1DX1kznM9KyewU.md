@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kznM9KyewU.md) - [plain]
 
 > Rock that was on repeat during the summers of the 1990s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,279 likes - 90 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,312 likes - 90 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,12 +91,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kznM9KyewU.md) - [plain]
 | 81 | [Selling The Drama](https://open.spotify.com/track/5y9ivD2g37FSCEJpfhG7d5) | [Live](https://open.spotify.com/artist/6eoJpTIlcuxJNjV5fDzDJH) | [Throwing Copper](https://open.spotify.com/album/4ZsG3ifn9sIcrFT1ecw0gF) | 3:25 |
 | 82 | [Cradle Of Love](https://open.spotify.com/track/5TSANSqPTD6nBG0NSJWmVB) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Charmed Life](https://open.spotify.com/album/4GCciwt8efweJZ4AEEvnTQ) | 4:41 |
 | 83 | [Hold Me, Thrill Me, Kiss Me, Kill Me \- From 'Batman Forever'](https://open.spotify.com/track/5TsHqbDKaSs4ECZX0045YS) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Best Of 1990\-2000](https://open.spotify.com/album/5I099NUhbRrXaxnxQagElv) | 4:44 |
-| 84 | [Driftwood](https://open.spotify.com/track/40l4DYTW2jfArPOL63YogV) | [Travis](https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh) | [The Man Who](https://open.spotify.com/album/1cUp1HbKtGF7CiSl962vH5) | 3:33 |
-| 85 | [Stupid Girl](https://open.spotify.com/track/3fNf71Ktya4CYMqGM6eRud) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Garbage \(20th Anniversary Deluxe Edition/Remastered\)](https://open.spotify.com/album/1Vze7jtjAVQOdIIQ8oO2X7) | 4:18 |
+| 84 | [Stupid Girl](https://open.spotify.com/track/3fNf71Ktya4CYMqGM6eRud) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Garbage \(20th Anniversary Deluxe Edition/Remastered\)](https://open.spotify.com/album/1Vze7jtjAVQOdIIQ8oO2X7) | 4:18 |
+| 85 | [Driftwood](https://open.spotify.com/track/40l4DYTW2jfArPOL63YogV) | [Travis](https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh) | [The Man Who](https://open.spotify.com/album/1cUp1HbKtGF7CiSl962vH5) | 3:33 |
 | 86 | [It's No Good](https://open.spotify.com/track/339PPSAl7Ta2CZ25YI7a7v) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [Q](https://open.spotify.com/artist/7HYjhgcTjrAIRBCACbSEqE), [Tim Simenon](https://open.spotify.com/artist/2yzxPcfb8JjrKKCIiLGWQW) | [Ultra \| The 12" Singles](https://open.spotify.com/album/3FRJU9jyS1gc71ha3leUp8) | 5:58 |
 | 87 | [Pick A Part That's New](https://open.spotify.com/track/5ENmb2WrPdGlSAYBaZrEoF) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Performance And Cocktails](https://open.spotify.com/album/3L8K0FWsWGSHvYj56skH00) | 3:33 |
 | 88 | [Even Better Than The Real Thing](https://open.spotify.com/track/4bK2vKMdkS0rNhbzRqAZe0) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Achtung Baby \(Deluxe Edition\)](https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe) | 3:41 |
 | 89 | [Secretly](https://open.spotify.com/track/0dw3ZgJ3h4ICWxGsoaz4dm) | [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF) | [Post Orgasmic Chill](https://open.spotify.com/album/4WznTvC9d1Oino7gLS8XHq) | 4:45 |
 | 90 | [All For You](https://open.spotify.com/track/5fwCxKVai3LszSWFZ9AyA8) | [Sister Hazel](https://open.spotify.com/artist/7m60UAnbgFFNuJbmS6OxTk) | [90s Mixtape](https://open.spotify.com/album/1CVJMhFsgCZeOMk2wQKnwL) | 3:39 |
 
-Snapshot ID: `MTY1MDkxNjAwNCwwMDAwMDAwMGVlNDNjMGRhNDgyZDhlNmNlZTZjZGZkYTJmNWI0Y2E2`
+Snapshot ID: `MTY1MDkxNjAwNCwwMDAwMDAwMGI5ZjU1YzJiNDQ3ZjNmNzc4MTZkM2Y2MjEwOWQxZGY3`

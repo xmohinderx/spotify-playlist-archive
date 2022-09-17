@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UnoGuyf388.md) - [plain]
 
 > Pop music driving the current, every week\. Cover Bree Runway
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,484 likes - 80 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,501 likes - 80 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UnoGuyf388.md) - [plain]
 | 21 | [Younger](https://open.spotify.com/track/3YF3WkYkHyiEk8sqhyE2VQ) | [Kayla Thompson](https://open.spotify.com/artist/0Sflq5MAqI4tTFfqIOpar3) | [Younger](https://open.spotify.com/album/592eABOwz4EtzLKV0KgUKF) | 3:32 |
 | 22 | [SAD GIRLZ LUV MONEY Remix \(feat\. Kali Uchis and Moliy\)](https://open.spotify.com/track/09gysnJpfQ3ublBmJDfcEC) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [SAD GIRLZ LUV MONEY Remix \(feat\. Kali Uchis and Moliy\)](https://open.spotify.com/album/4q4rHdKxyCzxuQrPcdjPyC) | 3:24 |
 | 23 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/748mdHapucXQri7IAO8yFK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt) | 3:28 |
-| 24 | [Essence \(feat\. Justin Bieber & Tems\)](https://open.spotify.com/track/1mSdbey7RstGLY2udgXv74) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Essence \(feat\. Justin Bieber & Tems\)](https://open.spotify.com/album/0Rn8NAh8NnoaCOt8r8Tc3e) | 4:23 |
+| 24 | [Essence \(feat\. Justin Bieber & Tems\)](https://open.spotify.com/track/1mSdbey7RstGLY2udgXv74) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Essence \(feat\. Justin Bieber & Tems\)](https://open.spotify.com/album/0Rn8NAh8NnoaCOt8r8Tc3e) | 4:23 |
 | 25 | [NASTY GIRL](https://open.spotify.com/track/6vxRwGCB5W01PzdEc8eyM4) | [Kalisway](https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK) | [HIT 'EM WITH THE FUNK](https://open.spotify.com/album/4wcUsSOAYh7RPG7aRNWfem) | 3:52 |
 | 26 | [Bitter Bitch](https://open.spotify.com/track/6SN58S8GAqUhl5SXcxmpiY) | [Helen](https://open.spotify.com/artist/0dKF6Q9Wz7Y3PKSNyaFpkM) | [Bitter Bitch](https://open.spotify.com/album/6Si3G23umj6SBMFGiUbTTm) | 2:17 |
 | 27 | [go](https://open.spotify.com/track/4VtRHZ4tBDHaWltVAytlLY) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [go](https://open.spotify.com/album/7KfrkeW0bJx9w3Wak4PGX2) | 3:35 |

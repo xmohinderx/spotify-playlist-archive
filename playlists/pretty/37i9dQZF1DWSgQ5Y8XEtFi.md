@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgQ5Y8XEtFi.md) - [plain]
 
 > songs that break bones
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,197 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,668 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgQ5Y8XEtFi.md) - [plain]
 | 12 | [HOT DEMON B!TCHES NEAR U ! ! !](https://open.spotify.com/track/7v4pPS4A7NgY7bxFA3Etv3) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW), [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [HOT DEMON B!TCHES NEAR U ! ! !](https://open.spotify.com/album/5kcBHP5GH7fsOJLwVfXmx3) | 1:36 |
 | 13 | [Take A Step Back](https://open.spotify.com/track/2gQYziDV5cSTRSqr6akzi5) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [You Will Regret \(Reloaded\)](https://open.spotify.com/album/2pTyjuQ1d1d79Chhknoa2h) | 3:30 |
 | 14 | [GOSHA](https://open.spotify.com/track/0j8ppsOOawdPCJnSTcXgOy) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [\- TRAGEDY +](https://open.spotify.com/album/4UNZOq7e8WjnfaYm2rkltE) | 2:00 |
-| 15 | [Punk Tactics](https://open.spotify.com/track/2KBYPTSTHjYYOPACrFTkPy) | [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh) | [Punk Tactics](https://open.spotify.com/album/7pG2QdrVFNTid1hqezx5dH) | 2:23 |
-| 16 | [Roll in Peace \(feat\. XXXTENTACION\)](https://open.spotify.com/track/40oKW22ZNNkEdZLJTScaQI) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Project Baby 2: All Grown Up](https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i) | 3:33 |
+| 15 | [Roll in Peace \(feat\. XXXTENTACION\)](https://open.spotify.com/track/40oKW22ZNNkEdZLJTScaQI) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Project Baby 2: All Grown Up](https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i) | 3:33 |
+| 16 | [Punk Tactics](https://open.spotify.com/track/2KBYPTSTHjYYOPACrFTkPy) | [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh) | [Punk Tactics](https://open.spotify.com/album/7pG2QdrVFNTid1hqezx5dH) | 2:23 |
 | 17 | [DIVE IN!](https://open.spotify.com/track/192DMwgDbgS8ghTKc0ACWq) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [DIVE IN! \(SPED UP! / SLOWED REVERB!\)](https://open.spotify.com/album/4IGyRFgzpVUXtcFdhUGiLP) | 1:40 |
 | 18 | [See Me Fall \- Y2K Remix](https://open.spotify.com/track/5MLreTrtwv7fGyyAy0RyeB) | [Ro Ransom](https://open.spotify.com/artist/5tLx2xpkiHdzvX9CIymCfR), [Y2K](https://open.spotify.com/artist/6USMTwO0MNDnKte5a5h0xx) | [Momentum \(Mixtape\)](https://open.spotify.com/album/20ZH0IHnyBagQUmOGcAHmp) | 3:21 |
 | 19 | [Stick \(with JID & J\. Cole feat\. Kenny Mason & Sheck Wes\)](https://open.spotify.com/track/1BzXvBpIFWJgu0P8P6xmP4) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv), [Sheck Wes](https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX) | [D\-Day: A Gangsta Grillz Mixtape](https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy) | 5:09 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgQ5Y8XEtFi.md) - [plain]
 | 46 | [Dr\. Suess](https://open.spotify.com/track/4nFAUqFou9ZbWNho3jeY1h) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [Sin City The Mixtape](https://open.spotify.com/album/60Od32zDXklGhsYo6ADaPG) | 2:33 |
 | 47 | [1539 N\. Calvert](https://open.spotify.com/track/6XyxCBp6x3jvtxXvMN5sAA) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [Veteran](https://open.spotify.com/album/51WLEfPEEkzAWurvuY6Gco) | 2:37 |
 | 48 | [Dat $tick](https://open.spotify.com/track/4bdJHQp90ymjEIkkYhcENB) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [Dat $tick](https://open.spotify.com/album/7AKJUjNR4hlNcbj55lP5LA) | 2:06 |
-| 49 | [BLACKOUT](https://open.spotify.com/track/0bGImSqDB2ebdeoCidUC8o) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:53 |
-| 50 | [Sanjuro \[Feat\. 454\]](https://open.spotify.com/track/1iBZqPmS2HjeTm9oRtvwqT) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [454](https://open.spotify.com/artist/29fUSOyH1ufr9HZbErHpc4) | [Melt My Eyez See Your Future](https://open.spotify.com/album/7KtyUeiJidoZO0ybxBXw0Q) | 2:07 |
+| 49 | [Sanjuro \[Feat\. 454\]](https://open.spotify.com/track/1iBZqPmS2HjeTm9oRtvwqT) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [454](https://open.spotify.com/artist/29fUSOyH1ufr9HZbErHpc4) | [Melt My Eyez See Your Future](https://open.spotify.com/album/7KtyUeiJidoZO0ybxBXw0Q) | 2:07 |
+| 50 | [BLACKOUT](https://open.spotify.com/track/0bGImSqDB2ebdeoCidUC8o) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:53 |
 
-Snapshot ID: `MTY2MzI4NDU2MSwwMDAwMDAwMGNjOGU3OGJjYzY4N2Y0ZmQ2NDg1YTRiYTcxZWMxZDhh`
+Snapshot ID: `MTY2MzI4NDU2MSwwMDAwMDAwMDJmMTU2NDc3NmRmYTE1ZTk4ZTVjMzFlYTZjZjQ2ZGFk`

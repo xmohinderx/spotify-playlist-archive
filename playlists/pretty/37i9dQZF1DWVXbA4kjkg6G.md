@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXbA4kjkg6G.md) - [plain]
 
 > Psychedelic beat science.
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,707 likes - 75 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,002 likes - 75 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,13 +48,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXbA4kjkg6G.md) - [plain]
 | 38 | [Turquoise Hexagon Sun](https://open.spotify.com/track/4xmce2Et7muv5rjmjBQq83) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) | 5:07 |
 | 39 | [Chocolate Elvis](https://open.spotify.com/track/2j8H3gIfjeBhB4pfudCBZX) | [Tosca](https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn) | [Opera](https://open.spotify.com/album/6TEEsZodjlgareaeIgBHQC) | 5:02 |
 | 40 | [The Rhyme Goes On](https://open.spotify.com/track/6P5Mhl2WB7HVXQ6Yil3coB) | [Poets of Thought](https://open.spotify.com/artist/1dU3l4m2BOP4QJuUstwPMZ) | [Earth, Vol\. 1](https://open.spotify.com/album/1xK2wmIA6nazBG1orPKB4y) | 4:15 |
-| 41 | [Bug Powder Dust \- Kruder & Dorfmeister Dub](https://open.spotify.com/track/1UMGeDMyMUj2agDjhkUUzx) | [Bomb The Bass](https://open.spotify.com/artist/1G3Eh23f2hwhEnAMw7HsZ6), [Peter Kruder](https://open.spotify.com/artist/47EuUa98YLFZ0nw2bMQKpC), [Richard Dorfmeister](https://open.spotify.com/artist/7kVSO9W0cZoyKBEG5o3E9h) | [Lifestyle2 \- Chill Lounge Vol 1](https://open.spotify.com/album/2c6jvwvpB6BxSt9GRpkgl9) | 6:14 |
-| 42 | [Trigger Hippie](https://open.spotify.com/track/4f3hGEjA7BnujnDYz7gHZ6) | [Morcheeba](https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd) | [Who Can You Trust? / Beats & B\-Sides](https://open.spotify.com/album/7JNlNgL1TlnWn669RaEKhr) | 5:32 |
+| 41 | [Trigger Hippie](https://open.spotify.com/track/4f3hGEjA7BnujnDYz7gHZ6) | [Morcheeba](https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd) | [Who Can You Trust? / Beats & B\-Sides](https://open.spotify.com/album/7JNlNgL1TlnWn669RaEKhr) | 5:32 |
+| 42 | [Bug Powder Dust \- Kruder & Dorfmeister Dub](https://open.spotify.com/track/1UMGeDMyMUj2agDjhkUUzx) | [Bomb The Bass](https://open.spotify.com/artist/1G3Eh23f2hwhEnAMw7HsZ6), [Peter Kruder](https://open.spotify.com/artist/47EuUa98YLFZ0nw2bMQKpC), [Richard Dorfmeister](https://open.spotify.com/artist/7kVSO9W0cZoyKBEG5o3E9h) | [Lifestyle2 \- Chill Lounge Vol 1](https://open.spotify.com/album/2c6jvwvpB6BxSt9GRpkgl9) | 6:14 |
 | 43 | [Spicy Snapper](https://open.spotify.com/track/1eXDhV76Gea8XuPqcAw0s5) | [Ian Pooley](https://open.spotify.com/artist/1m4GViPjIy4T8Pd0Iz6hRS) | [Since Then\. 2017](https://open.spotify.com/album/74FdEWxQOWLu9lBEuMmdmM) | 5:36 |
 | 44 | [Deep Shit, Pt\. 1 & 2](https://open.spotify.com/track/4p2AbJiH4eso5TE3wVqbV4) | [Kruder & Dorfmeister](https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L) | [G\-Stoned](https://open.spotify.com/album/4AKnOEd9fx1pj36xAq5eUN) | 6:21 |
 | 45 | [Stars](https://open.spotify.com/track/5RTi3ClzRwFsso3gfYppHO) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Smokers Delight](https://open.spotify.com/album/2kXJwEYQw7WD8cz8VAAcHm) | 6:59 |
-| 46 | [Dark Lady](https://open.spotify.com/track/2eALAfP2PfljNcjlHPXDQY) | [DJ Food](https://open.spotify.com/artist/4NZM5xKuDpGc4vEHDwGO1Q) | [Ninja Cuts \- Funkjazztical Tricknology](https://open.spotify.com/album/53H309agelso6rosSg8eKr) | 4:05 |
-| 47 | [Eine Kleine Hedmusik](https://open.spotify.com/track/3ViZpyzTm8JJ21Y7fSx2XK) | [Coldcut](https://open.spotify.com/artist/5wnhqlZzXIq8aO9awQO2ND) | [Ninja Cuts \- Funkjazztical Tricknology](https://open.spotify.com/album/53H309agelso6rosSg8eKr) | 4:10 |
+| 46 | [Eine Kleine Hedmusik](https://open.spotify.com/track/3ViZpyzTm8JJ21Y7fSx2XK) | [Coldcut](https://open.spotify.com/artist/5wnhqlZzXIq8aO9awQO2ND) | [Ninja Cuts \- Funkjazztical Tricknology](https://open.spotify.com/album/53H309agelso6rosSg8eKr) | 4:10 |
+| 47 | [Dark Lady](https://open.spotify.com/track/2eALAfP2PfljNcjlHPXDQY) | [DJ Food](https://open.spotify.com/artist/4NZM5xKuDpGc4vEHDwGO1Q) | [Ninja Cuts \- Funkjazztical Tricknology](https://open.spotify.com/album/53H309agelso6rosSg8eKr) | 4:05 |
 | 48 | [Legend of the Golden Snake \- Single Version](https://open.spotify.com/track/1LYMWLIvXHWehNAUUC32rO) | [Depth Charge](https://open.spotify.com/artist/7wFngDXS0agMESGg1qYM4u) | [Spill](https://open.spotify.com/album/49gzntLtRO6MdCYh6YfOfD) | 4:26 |
 | 49 | [In / Flux](https://open.spotify.com/track/54XieTFptuMH4PcjQMpqGn) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [Preemptive Strike](https://open.spotify.com/album/1TCu83avwEGwIVCAJ3mrP0) | 12:14 |
 | 50 | [Seashell](https://open.spotify.com/track/18pedqpot9iF1Z7Ol3YHmc) | [Skylab](https://open.spotify.com/artist/0mHp4gMrJbb2RkeSwQd9r7) | [\#1](https://open.spotify.com/album/5w6sVVqRxeq2eVQwWEP5en) | 5:39 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXbA4kjkg6G.md) - [plain]
 | 74 | [City Lights \- City of Starsigns](https://open.spotify.com/track/7w2ETRLrBKR5j8HaWvbKTX) | [Patrick Pulsinger](https://open.spotify.com/artist/3MXePESrFifdxyENQfsaid) | [Dogmatic Sequences, Vol\. 2](https://open.spotify.com/album/0dVkLBFLNIIyOT3kSL0oEi) | 5:58 |
 | 75 | [A Mother \(For Your Mind\)](https://open.spotify.com/track/5AenLCL5tkvwas8y8A0IU3) | [The Herbaliser](https://open.spotify.com/artist/1O7aMVbDeSXY2LiVBhb13w) | [Blow Your Headphones](https://open.spotify.com/album/2iITDFv9VGAjLMsIQBzGlh) | 6:48 |
 
-Snapshot ID: `MTY2MDIzNzc5MiwwMDAwMDAwMGZhNDg1ZWZlZWQyOGUxZTMzMGZlODNmZTNmZmU1OThl`
+Snapshot ID: `MTY2MDIzNzc5MiwwMDAwMDAwMGQyMTk1ZjZlYzlhMGMyYzE5ODVkMDBhMTNiYjgwNWJj`

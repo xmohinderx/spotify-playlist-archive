@@ -1,12 +1,12 @@
 {
   "description": "The home of Latin R&B. La casa del R&B Latino. Cover: LATENIGHTJIGGY",
-  "num_followers": 99923,
+  "num_followers": 99942,
   "original_name": "Latin R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzA3NzY0MCwwMDAwMDAwMDBhOTg3NWE4ODcyMmQ1YTc2ZDMzNTI4ZjJmMTJjNmI0",
+  "snapshot_id": "MTY2MzA3NzY0MCwwMDAwMDAwMDYxOWEzNTY0M2UwMDllMDAxNTQ4ZjUzZTNkZTExMGE2",
   "tracks": [
     {
       "added_at": "2022-09-13 14:00:40",
@@ -627,22 +627,6 @@
     {
       "added_at": "2022-09-13 14:00:40",
       "album": {
-        "name": "Una Ni\u00f1a In\u00fatil",
-        "url": "https://open.spotify.com/album/3cOK1UKpkM2v2xtcbNFzzc"
-      },
-      "artists": [
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        }
-      ],
-      "duration_ms": 189666,
-      "name": "Miedo",
-      "url": "https://open.spotify.com/track/7acURarwO3OFjtUKzzQq1T"
-    },
-    {
-      "added_at": "2022-09-13 14:00:40",
-      "album": {
         "name": "Chimbita",
         "url": "https://open.spotify.com/album/4q0baF6ACF19h9lFRz3Dit"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 165508,
       "name": "Chimbita",
       "url": "https://open.spotify.com/track/1s8LnjztT2IIxezpn0JP7H"
+    },
+    {
+      "added_at": "2022-09-13 14:00:40",
+      "album": {
+        "name": "Una Ni\u00f1a In\u00fatil",
+        "url": "https://open.spotify.com/album/3cOK1UKpkM2v2xtcbNFzzc"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        }
+      ],
+      "duration_ms": 189666,
+      "name": "Miedo",
+      "url": "https://open.spotify.com/track/7acURarwO3OFjtUKzzQq1T"
     },
     {
       "added_at": "2022-09-13 14:00:40",
@@ -1059,6 +1059,26 @@
     {
       "added_at": "2022-09-13 14:00:40",
       "album": {
+        "name": "Conoce",
+        "url": "https://open.spotify.com/album/7ecm1r41OIi5VDEwcVhs50"
+      },
+      "artists": [
+        {
+          "name": "Nohemy",
+          "url": "https://open.spotify.com/artist/4EinPz5K01c3pu8ufwvD3P"
+        },
+        {
+          "name": "LATENIGHTJIGGY",
+          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
+        }
+      ],
+      "duration_ms": 219130,
+      "name": "Conoce",
+      "url": "https://open.spotify.com/track/4B1LWPQeIOTVHsMNa3KBBg"
+    },
+    {
+      "added_at": "2022-09-13 14:00:40",
+      "album": {
         "name": "Supersad",
         "url": "https://open.spotify.com/album/2DP6dlnGbY9W2ZkH4BKCNh"
       },
@@ -1079,26 +1099,6 @@
       "duration_ms": 215777,
       "name": "Supersad",
       "url": "https://open.spotify.com/track/45GH9XOvr1OR5znGgqXyxW"
-    },
-    {
-      "added_at": "2022-09-13 14:00:40",
-      "album": {
-        "name": "Conoce",
-        "url": "https://open.spotify.com/album/7ecm1r41OIi5VDEwcVhs50"
-      },
-      "artists": [
-        {
-          "name": "Nohemy",
-          "url": "https://open.spotify.com/artist/4EinPz5K01c3pu8ufwvD3P"
-        },
-        {
-          "name": "LATENIGHTJIGGY",
-          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
-        }
-      ],
-      "duration_ms": 219130,
-      "name": "Conoce",
-      "url": "https://open.spotify.com/track/4B1LWPQeIOTVHsMNa3KBBg"
     },
     {
       "added_at": "2022-09-13 14:00:40",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2022-09-13 14:00:40",
       "album": {
-        "name": "sola",
-        "url": "https://open.spotify.com/album/2GNSbNAhGnNAIJ4AgLcTzc"
-      },
-      "artists": [
-        {
-          "name": "riela",
-          "url": "https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A"
-        }
-      ],
-      "duration_ms": 186664,
-      "name": "sola",
-      "url": "https://open.spotify.com/track/4P6SA3y5cogSCpp9vmabNX"
-    },
-    {
-      "added_at": "2022-09-13 14:00:40",
-      "album": {
         "name": "el vuelo",
         "url": "https://open.spotify.com/album/50fPKkTgYxNCIaoEWb3jU3"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 185293,
       "name": "el vuelo",
       "url": "https://open.spotify.com/track/2qtrDGVkMqKrcL44b8U4LG"
+    },
+    {
+      "added_at": "2022-09-13 14:00:40",
+      "album": {
+        "name": "sola",
+        "url": "https://open.spotify.com/album/2GNSbNAhGnNAIJ4AgLcTzc"
+      },
+      "artists": [
+        {
+          "name": "riela",
+          "url": "https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A"
+        }
+      ],
+      "duration_ms": 186664,
+      "name": "sola",
+      "url": "https://open.spotify.com/track/4P6SA3y5cogSCpp9vmabNX"
     },
     {
       "added_at": "2022-09-13 14:00:40",

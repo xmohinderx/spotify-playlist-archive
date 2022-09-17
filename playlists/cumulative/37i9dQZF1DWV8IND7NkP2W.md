@@ -4,7 +4,7 @@
 
 > The ultimate instrumental soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-499 songs - 22 hr 18 min - [published](https://open.spotify.com/playlist/6G1POdc4fbQZ6aBIV9rUMB)
+500 songs - 22 hr 21 min - [published](https://open.spotify.com/playlist/6G1POdc4fbQZ6aBIV9rUMB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,7 @@
 | [Float Islands](https://open.spotify.com/track/1QozoHCq8gUK4AsvEahI7g) | [Matsuyama](https://open.spotify.com/artist/3TgHi7FuyXPEN6IYCU8gvs), [Artsounds Chill](https://open.spotify.com/artist/3PV6UfM0IDdUodkwVieIJS) | [Reset](https://open.spotify.com/album/7LNFUCEHNL2sMlf0OFeKxL) | 1:59 | 2022-03-24 | 2022-05-04 |
 | [Flora](https://open.spotify.com/track/5RbIAZ0gCuUJ483Javg7SG) | [yuhei miura](https://open.spotify.com/artist/6p9EJBuYNleKnGIll5vHA5), [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K) | [Flora](https://open.spotify.com/album/6m6JcSTmUF4PB3wVWNraLP) | 2:08 | 2021-12-23 | 2022-07-28 |
 | [Flow State](https://open.spotify.com/track/3nUUkre1upy9SIsNCu9Dpj) | [Kicktracks](https://open.spotify.com/artist/2dGFrQsjmTaLK8o8aNuAeG) | [Flow State](https://open.spotify.com/album/1e9aWp1muTITwoJxZ65Mwc) | 2:33 | 2022-01-13 | 2022-04-17 |
-| [Flowers](https://open.spotify.com/track/06Jo0EAMAmfVOKr8frBpZE) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Flowers](https://open.spotify.com/album/3uHDpMZ9EqjglqDXWBbbpW) | 3:28 | 2022-07-28 | 2022-09-16 |
+| [Flowers](https://open.spotify.com/track/06Jo0EAMAmfVOKr8frBpZE) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Flowers](https://open.spotify.com/album/3uHDpMZ9EqjglqDXWBbbpW) | 3:28 | 2022-07-28 |  |
 | [Flowers](https://open.spotify.com/track/4f7J3uf3NbMluibhVHy1vR) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Flowers](https://open.spotify.com/album/4DCZnmEKuQveUtUYSKmuSw) | 3:28 | 2022-06-23 | 2022-07-29 |
 | [Focused](https://open.spotify.com/track/4mOPtlru2v8bz73iIblJtx) | [ynkmr.](https://open.spotify.com/artist/0zWJ8seaNkOrZYzmO0twXU) | [Focused](https://open.spotify.com/album/0on7B8tzhDPY7iZhAdQzrh) | 3:48 | 2022-07-21 | 2022-07-29 |
 | [fog morning](https://open.spotify.com/track/0yqBPILqRFi1yE7ci9o3vV) | [The LASTTRAK](https://open.spotify.com/artist/27tedpw5lwTFuWL8i8xVqT) | [fog morning](https://open.spotify.com/album/6LtosFxYlXKsLfN3PSWUd3) | 2:38 | 2022-02-10 | 2022-07-28 |
@@ -168,7 +168,8 @@
 | [Good Morning My Dear](https://open.spotify.com/track/4EQ5UCyLK2Qg1g3agHdlsO) | [sphontik](https://open.spotify.com/artist/27r4JWLsSQYgsQvnAdk0Zq) | [HOME](https://open.spotify.com/album/4saAi1XXXyNnwwIpnO6UDK) | 1:47 | 2022-06-02 | 2022-07-23 |
 | [Good song](https://open.spotify.com/track/1pdMs8HUL8udZMqbUaBtd6) | [SPECIAL OTHERS](https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5) | [WAVE](https://open.spotify.com/album/3oJNisRS39JpmBEmmL3X2B) | 3:22 | 2021-12-23 |  |
 | [goodbye](https://open.spotify.com/track/7lgBuXy8lmgaQ0rGTQRf6O) | [illmore](https://open.spotify.com/artist/6xLWs7PzOiPY2351KcoeGZ) | [goodbye](https://open.spotify.com/album/6OIpggxPPOAJ8bu0yU8wJ3) | 1:28 | 2022-01-27 | 2022-06-13 |
-| [Goodbye](https://open.spotify.com/track/2JuCeSYtgR8bCjzmfQikJU) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Goodbye](https://open.spotify.com/album/21p31pvhRnJuajkA9CqYEv) | 3:15 | 2022-09-15 |  |
+| [Goodbye](https://open.spotify.com/track/1oyrVPtes5mIqt3RNIOcGp) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Goodbye](https://open.spotify.com/album/1zEzeSY7dRs8tkKfDg5lQ0) | 3:15 | 2022-09-15 |  |
+| [Goodbye](https://open.spotify.com/track/2JuCeSYtgR8bCjzmfQikJU) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Goodbye](https://open.spotify.com/album/21p31pvhRnJuajkA9CqYEv) | 3:15 | 2022-09-15 | 2022-09-17 |
 | [Grandeur](https://open.spotify.com/track/0CjXWn8u6fg9z82AIuqW0L) | [Shinjuku Jumpshot](https://open.spotify.com/artist/3Tssruxt0wSeVhuGQzrpGx) | [Grandeur](https://open.spotify.com/album/5VlVy0FZJwFDfgmCx8NWIv) | 2:10 | 2021-12-23 | 2022-01-24 |
 | [Grasses](https://open.spotify.com/track/4lb9N5eEBiK5GkTvBSV7L4) | [呼煙魔](https://open.spotify.com/artist/6DCqyAIjEYMWaUbJExBBA5) | [Mr.PiCture](https://open.spotify.com/album/1ZK9ycZGj6BH9Lxc20v3Wx) | 2:04 | 2022-04-07 | 2022-06-30 |
 | [Gravity](https://open.spotify.com/track/6KH2q2oLgTVy5S4tBXdYJh) | [Blue In Green](https://open.spotify.com/artist/6tkPtKgggRAndEQc47Epms) | [Gravity](https://open.spotify.com/album/7nFmAYnzGaVRnDjNHdzM1q) | 3:36 | 2022-01-06 | 2022-04-20 |
@@ -193,7 +194,7 @@
 | [Icarus](https://open.spotify.com/track/530Xx6I8NFxfBJm0IoZnDv) | [Five Minutes More](https://open.spotify.com/artist/2BBOvNfq6baSF6uRp6EtmV), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Icarus](https://open.spotify.com/album/09RfzC0FMnsYD4GJsBjxIR) | 2:18 | 2022-03-24 | 2022-04-09 |
 | [Ice Cream](https://open.spotify.com/track/13GUhuKkw9e12Nwj54p0l3) | [Green Baron](https://open.spotify.com/artist/7Jk4hgstiIuLX4HjrQHLgE) | [Ice Cream](https://open.spotify.com/album/2G5AyPKcWJBeKpjPlpwMgM) | 3:00 | 2021-12-23 | 2022-07-28 |
 | [Ice Cream](https://open.spotify.com/track/1vn0Ps4qHeyaed9oPEDNOa) | [呼煙魔](https://open.spotify.com/artist/6DCqyAIjEYMWaUbJExBBA5) | [The Reflector](https://open.spotify.com/album/5ToeQ4GplISC4SxjZUMYR3) | 1:58 | 2022-01-06 | 2022-07-06 |
-| [Iceberg](https://open.spotify.com/track/53INdmp1OcnmziwVAmT5u8) | [ord minami](https://open.spotify.com/artist/7DkSVWqbEDgCB0EHWUe7FV) | [Iceberg](https://open.spotify.com/album/58wcc4X3Z3SqKk9HIxlvKf) | 2:15 | 2022-08-25 |  |
+| [Iceberg](https://open.spotify.com/track/53INdmp1OcnmziwVAmT5u8) | [ord minami](https://open.spotify.com/artist/7DkSVWqbEDgCB0EHWUe7FV) | [Iceberg](https://open.spotify.com/album/58wcc4X3Z3SqKk9HIxlvKf) | 2:15 | 2022-08-25 | 2022-09-17 |
 | [ICHIMONJI](https://open.spotify.com/track/626liCLxJ7TaxT3WByT2RW) | [Blooky Jeeky](https://open.spotify.com/artist/0vUFizCD32zqgWG2BYHYVn) | [Only Surface](https://open.spotify.com/album/4JsHKaH4j84GCEwGwQfa7X) | 1:53 | 2022-02-03 | 2022-07-29 |
 | [If Only](https://open.spotify.com/track/4H81g6tEZdLPkeP8ANMJBg) | [Yugo Ease](https://open.spotify.com/artist/3lm53S8BFfxuEVL7Nxn7FJ) | [Planta](https://open.spotify.com/album/6dI4qO3cnzlvKz0jXwVvrO) | 1:44 | 2021-12-23 | 2022-04-19 |
 | [IKA \(SOUND TOUR\)](https://open.spotify.com/track/5fUGnuMTQoRHcs3lF10zLu) | [Matt Cab](https://open.spotify.com/artist/5QdG7ZI7k64K5DLjOJgK31) | [IKA \(SOUND TOUR\)](https://open.spotify.com/album/2WBGivzgdwNUKKWj9NvAVs) | 1:27 | 2022-04-14 | 2022-07-13 |

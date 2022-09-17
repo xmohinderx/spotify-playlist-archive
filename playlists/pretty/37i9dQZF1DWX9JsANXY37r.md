@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9JsANXY37r.md) - [plain]
 
 > Conforto para beber gin tônica, mojito ou caipirinha sem precisar levantar do sofá.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,126 likes - 60 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,140 likes - 60 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9JsANXY37r.md) - [plain]
 | 53 | [i want war \(BUT I NEED PEACE\)](https://open.spotify.com/track/5Dx8iEsMuNrf7aF9TMV0Xe) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [TO FEEL ALIVE EP](https://open.spotify.com/album/2qn5Z50z9x2qAIyWV5lt9E) | 2:39 |
 | 54 | [Big Brown Eyes](https://open.spotify.com/track/19ovZMFSIQvehxLmvrRbBS) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Art](https://open.spotify.com/album/5VKMuDNl95bLr3xsfU2Owm) | 4:12 |
 | 55 | [I Don't Want It At All](https://open.spotify.com/track/4xhYxKvAxtrRd83MiqOy29) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [I Don't Want It At All](https://open.spotify.com/album/6TreAlV1VSMi8UmHl7byC4) | 4:10 |
-| 56 | [Anoti](https://open.spotify.com/track/60lUecrFeE2t6QMJ1Nmsve) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Made In Lagos: Deluxe Edition](https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD) | 3:01 |
+| 56 | [Anoti](https://open.spotify.com/track/60lUecrFeE2t6QMJ1Nmsve) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Made In Lagos: Deluxe Edition](https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD) | 3:01 |
 | 57 | [Love Song \(feat\. Glasses\)](https://open.spotify.com/track/0fD6vPYWty2Jy4VVozWzfp) | [Kazy Lambist](https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH), [Glasses](https://open.spotify.com/artist/1aZqKXeEfZFRR4QvKvqi1g) | [33 000 FT.](https://open.spotify.com/album/1DP1CM6GndWiLkYKMudhek) | 2:50 |
 | 58 | [Come Over](https://open.spotify.com/track/2hPNuVVSV1tqiD2uPlfehz) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Hive Mind](https://open.spotify.com/album/27ThgFMUAx3MXLQ297DzWF) | 5:21 |
 | 59 | [FIND YOUR WAY BACK](https://open.spotify.com/track/65kk9CAAqFI3LWBEhUwVqd) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [The Lion King: The Gift](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) | 2:42 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gHOTs8Y9XY.md) - [plain]
 
 > A beginners introduction to the beauty of Jazz\. Cover: Chet Baker
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,938 likes - 100 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,174 likes - 100 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gHOTs8Y9XY.md) - [plain]
 | 27 | [My Foolish Heart](https://open.spotify.com/track/6yKkA8HzwWTZ5taIMaG4Nm) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Waltz For Debby \[Original Jazz Classics Remasters\] \(OJC Remaster\)](https://open.spotify.com/album/0MjlKhtsyax9HSWNkYaWM2) | 4:57 |
 | 28 | [I Got It Bad And That Ain't Good](https://open.spotify.com/track/4ol2UyMTiklHVujAWg02nE) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Night Train \(Expanded Edition\)](https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v) | 5:06 |
 | 29 | [I Get Along Without You Very Well \(Except Sometimes\) \- Vocal Version](https://open.spotify.com/track/4gFlHAye7To29Fs4UszQUH) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings](https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4) | 2:59 |
-| 30 | [Cry Me A River](https://open.spotify.com/track/7f6AAixCrVar1ZY7RPHDfM) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [Julie Is Her Name](https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P) | 2:58 |
-| 31 | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/track/1xaTXPoDk4VOU9XhYX4KJM) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Bob Brookmeyer](https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN) | [Recorded Fall '61](https://open.spotify.com/album/4eujTUUqxbXKR0rSfwyw2h) | 6:59 |
+| 30 | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/track/1xaTXPoDk4VOU9XhYX4KJM) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Bob Brookmeyer](https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN) | [Recorded Fall '61](https://open.spotify.com/album/4eujTUUqxbXKR0rSfwyw2h) | 6:59 |
+| 31 | [Cry Me A River](https://open.spotify.com/track/7f6AAixCrVar1ZY7RPHDfM) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [Julie Is Her Name](https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P) | 2:58 |
 | 32 | [Teach Me Tonight](https://open.spotify.com/track/0Rk9byjmZksAJX15onGns5) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [The Complete Dinah Washington On Mercury, Vol.4 \(1954\-1956\)](https://open.spotify.com/album/7MpI5x3ALFKVNTO0OZ7NfB) | 2:47 |
 | 33 | [These Are The Days](https://open.spotify.com/track/1eWgwHZXvYG6Odpx7QwJmT) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Twentysomething](https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o) | 3:21 |
 | 34 | [Love Me Or Leave Me](https://open.spotify.com/track/2XzHou7MZzOBQBqjWw86Nt) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Let It All Out](https://open.spotify.com/album/4bGiPtwVEKcXbXs7oKCMqD) | 4:04 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gHOTs8Y9XY.md) - [plain]
 | 51 | [I Could Write a Book](https://open.spotify.com/track/2zSnnXvex1yMcPUn4mg27H) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [When Harry Met Sally..\. Music From The Motion Picture](https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv) | 2:27 |
 | 52 | [Autumn Leaves](https://open.spotify.com/track/0X5DcGkbxCXSadgj01ZXd7) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Somethin' Else \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/3Wu0chxAm4GxSeRnIIf2Om) | 10:59 |
 | 53 | [Beautiful Love](https://open.spotify.com/track/3lXgCSYCH9wCTHHLnpBzig) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [Anita](https://open.spotify.com/album/5ytkuJciMwGDXwQeLWbHCw) | 2:40 |
-| 54 | [You Go To My Head \- 2020 Mix](https://open.spotify.com/track/7KsJkshpIjjeIwyKnkhQUc) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Nice 'n' Easy \(2020 Mix\)](https://open.spotify.com/album/5myvnvNMM6RaI2as8s0KpW) | 4:26 |
-| 55 | [Tea For Two](https://open.spotify.com/track/6uWGcfyKS2bP63sd2zyswJ) | [BLOSSOM DEARIE](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Once Upon A Summertime](https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n) | 3:24 |
+| 54 | [Tea For Two](https://open.spotify.com/track/6uWGcfyKS2bP63sd2zyswJ) | [BLOSSOM DEARIE](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Once Upon A Summertime](https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n) | 3:24 |
+| 55 | [You Go To My Head \- 2020 Mix](https://open.spotify.com/track/7KsJkshpIjjeIwyKnkhQUc) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Nice 'n' Easy \(2020 Mix\)](https://open.spotify.com/album/5myvnvNMM6RaI2as8s0KpW) | 4:26 |
 | 56 | [Everything Happens to Me](https://open.spotify.com/track/4Y5fyQ5fBysC32Na5sZT3J) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings: It Could Happen To You \[Original Jazz Classics Remasters\] \(OJC Remaster\)](https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc) | 5:05 |
 | 57 | [Stompin At The Savoy](https://open.spotify.com/track/1xUJ1mdLAysxNBtO9w3J2g) | [Benny Goodman](https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve) | [B\. G\. In Hi Fi](https://open.spotify.com/album/33oCBSZiLbfqyOnTTQ4Tct) | 3:15 |
 | 58 | [Blue Bossa \- Remastered](https://open.spotify.com/track/6qqK0oeBRapZn8f9hJJENw) | [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt) | [Page One](https://open.spotify.com/album/7mQGTuvmdp56DNz0AmMwWi) | 8:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gHOTs8Y9XY.md) - [plain]
 | 99 | [The Way You Look Tonight](https://open.spotify.com/track/4jCoxXaEKeTWkQ7HL1d5de) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu), [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Two Of A Mind](https://open.spotify.com/album/0LAzSbiU7gVXh7uyvmXhTn) | 7:21 |
 | 100 | [A Foggy Day](https://open.spotify.com/track/13BAOu7oc99iPNC06ZpM0D) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Complete Ella And Louis On Verve](https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn) | 4:34 |
 
-Snapshot ID: `MTY2MzIzMTUyMiwwMDAwMDAwMDc4NzBiOTlmMDM3NmRjZWFmNjdlMjk1MGUzN2ExZWFh`
+Snapshot ID: `MTY2MzIzMTUyMiwwMDAwMDAwMGI1OTkxYmQ3NjFjNDg3NDdiMmVjNmUwNTdiMGVhZjI0`

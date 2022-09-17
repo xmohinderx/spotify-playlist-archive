@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 
 > 125%
 
-[Spotify](https://open.spotify.com/user/spotify) - 393,715 likes - 61 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 398,370 likes - 61 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 | 46 | [Desert Rose \- Sped Up \(high highs\)](https://open.spotify.com/track/5YLpkXL0fKNCEhke5ZXMV8) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Desert Rose \(The Remixes\)](https://open.spotify.com/album/5gBGLLbmbIMNfuiWSWB6He) | 3:25 |
 | 47 | [Wasted \(Nightcore\)](https://open.spotify.com/track/0zSDG1EI7SGhM62M5iBiGI) | [Murkish](https://open.spotify.com/artist/5anIaPEacO0S5sVfxg6cVw), [Huken](https://open.spotify.com/artist/2i5ApczYJfGAYrtf7QmjCV) | [Wasted \(Nightcore\)](https://open.spotify.com/album/338C6sxO1twtEJn8YqGeh4) | 3:14 |
 | 48 | [I'm so crazy for youuu </3](https://open.spotify.com/track/3uKqnQ0dGBcpovf9lV2nqg) | [Rebzyyx](https://open.spotify.com/artist/7GcVOOrldYLwxGrCkELOno) | [I'm so crazy for youuu </3](https://open.spotify.com/album/3uW306euM0l6tAJpae90LS) | 1:50 |
-| 49 | [why so srs?](https://open.spotify.com/track/0rifR43CptApOWLL8kMkcg) | [outer streets](https://open.spotify.com/artist/07Kya5CjMDo2yVV8YFJg9T) | [why so srs?](https://open.spotify.com/album/2cWHWaopqauQCtQYVnN9wC) | 1:35 |
+| 49 | [why so srs?](https://open.spotify.com/track/13laoPfypXtxTIy4zg9mhG) | [Rebeudeter](https://open.spotify.com/artist/74Yd3n0K6G3m6T32Bl2A5y), [outer streets](https://open.spotify.com/artist/07Kya5CjMDo2yVV8YFJg9T) | [why so srs?](https://open.spotify.com/album/1dA3OfbB8DUNk9w7d1Dwr1) | 1:35 |
 | 50 | [go \- Higher & Faster](https://open.spotify.com/track/4wOcRUtnpp75EEYUPkRPeY) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Go \(Remixes\)](https://open.spotify.com/album/1kGbwOHke3PrRnZAmlkoOu) | 2:51 |
 | 51 | [No Sl33p](https://open.spotify.com/track/6i6whmV36EJmxs5zFahMrb) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Whole Lotta Red](https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR) | 1:28 |
 | 52 | [money machine](https://open.spotify.com/track/61bwFjzXGG1x2aZsANdLyl) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [1000 gecs](https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu) | 1:54 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 | 60 | [home](https://open.spotify.com/track/0fAuuR5hoWZtTMpuqqxAGy) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [home](https://open.spotify.com/album/1mjbcrgdY8PNeFDGBLsa55) | 4:05 |
 | 61 | [zombie \(hyper\)](https://open.spotify.com/track/4YKfwSVcrK85r3TaUeUHGd) | [Ka$tro](https://open.spotify.com/artist/22AaKQKPmQXX1xFhc825rJ), [Keepitinside](https://open.spotify.com/artist/78cc6k0CLZpWYSO4x5xnro) | [reaper / zombie \(remixes\)](https://open.spotify.com/album/6rIGvpDxSbZABArWo8hwko) | 2:16 |
 
-Snapshot ID: `MTY2Mjc0Mzc4NCwwMDAwMDAwMDc0ZjMwZWM2ZjgwMjZmYWJlMzBmOWM3Mzc5NmQzZTQ5`
+Snapshot ID: `MTY2Mjc0Mzc4NCwwMDAwMDAwMDliNWIyZDQ0YzVlOWZjNGFmYjViN2NiNTg3MzcxMTRk`

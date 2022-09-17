@@ -4,7 +4,7 @@
 
 > All live, all jazz\. Cover: Erroll Garner
 
-87 songs - 13 hr 0 min - [published](https://open.spotify.com/playlist/3VbQK8yDqnUPiOBgrKfOqF)
+89 songs - 13 hr 20 min - [published](https://open.spotify.com/playlist/3VbQK8yDqnUPiOBgrKfOqF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Latino Suite \- Live](https://open.spotify.com/track/39d6rn4ftwAGaEOjDVqDdg) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr), [Freddie Hubbard Quartet](https://open.spotify.com/artist/2BP1CjtFdJwjtS082ptpSJ) | [Live at Fabrik Hamburg 1986](https://open.spotify.com/album/57TC45obhfyPmfCpoE9NcK) | 14:36 | 2022-04-08 |  |
 | [Love Is For Real \- Live in New York City, February 8, 1975](https://open.spotify.com/track/2T2VyRuyVlYt4uzy8ALJm6) | [Alan Braufman](https://open.spotify.com/artist/2e0U1o784LrLomZQcvKH6H) | [Love Is For Real \(Live in New York City, February 8, 1975\)](https://open.spotify.com/album/6YrBa9ZMQN2DkvvQAFaxFM) | 4:41 | 2022-02-18 |  |
 | [Mahogany Hall Stomp \- Live At Symphony Hall, Boston, MA/1947](https://open.spotify.com/track/1dmzpoQdOq11XR62yFxs4i) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Satchmo At Symphony Hall](https://open.spotify.com/album/3NksAuGTtVtAo1fYFwhO6D) | 3:53 | 2021-11-12 |  |
+| [Mali \(Live\)](https://open.spotify.com/track/7xgveO0ftVy4VcKt6gCGBu) | [John Patitucci](https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH) | [John Patitucci Trio: Live in Italy](https://open.spotify.com/album/3pxAc3Z4c4RX3y24cHJuA7) | 14:10 | 2022-09-16 |  |
 | [Mediterranean Sundance / Rio Ancho \- Live at Warfield Theatre, San Francisco, CA \- December 5, 1980](https://open.spotify.com/track/0og2U8tsBAR7NJysRR6uBU) | [Al Di Meola](https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q), [John McLaughlin](https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY), [Paco de Lucía](https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw) | [Friday Night in San Francisco](https://open.spotify.com/album/2zJMxui25tclR2FYj8jDYT) | 11:31 | 2021-11-12 |  |
 | [Medley: Vertical Invader / Seventh Arrow / T.H\. / Doctor Honoris Causa \- Live](https://open.spotify.com/track/5Eg09OqI1LB9P9EcozE2Mt) | [Weather Report](https://open.spotify.com/artist/162DCkd8aDKwvjBb74Gu8b) | [Live in Tokyo](https://open.spotify.com/album/0k2LseDR9ZTqlIeGt6t05u) | 26:11 | 2021-11-12 |  |
 | [Monaco \- Set 1 / Live From Cafe Bohemia/1956](https://open.spotify.com/track/3xPGQOckEwKVv4JpqcVLpi) | [Kenny Dorham](https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er) | [The Complete 'Round About Midnight At The Cafe Bohemia \(Live\)](https://open.spotify.com/album/5Ebfr97h9GFzqx68SXhKG0) | 5:38 | 2021-11-12 |  |
@@ -95,5 +96,6 @@
 | [What It Is \- Live In Montreal \- July 7, 1983](https://open.spotify.com/track/5daKUVUo5FVbXv6TF6Ic5D) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [What It Is \(Live In Montreal \- July 7, 1983\)](https://open.spotify.com/album/5iNscjGQmMygfbiWXJlpkx) | 6:45 | 2022-07-08 |  |
 | [Windjammer \- Live At The Lighthouse, Hermosa Beach, CA/1972](https://open.spotify.com/track/2JqnTQh5Shj7V5geLwXJZj) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k) | [Live At The Lighthouse](https://open.spotify.com/album/5Xe3jzd5GQMGVOrvTW1pUQ) | 12:15 | 2021-11-12 |  |
 | [Yesterdays \(Live\) \- Live At Cafe Bohemia, NY, 1955 / Remastered 2001](https://open.spotify.com/track/3261Vks4j8VomrwDXph9zB) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [At The Cafe Bohemia](https://open.spotify.com/album/7abhRrzWB22yrMLbp7HcMJ) | 4:18 | 2021-11-12 |  |
+| [マネー・ジャングル \- Live](https://open.spotify.com/track/72lmCMKToDf2R7vyeU5qbd) | [桑原あい](https://open.spotify.com/artist/6ATrUDyyYVTcuJPnlafenR) | [Money Jungle \(Live\)](https://open.spotify.com/album/48IZ2dCDjfGQ3jdg4jfCjO) | 5:47 | 2022-09-16 |  |
 
 \*This playlist was first scraped on 2022-04-20. Prior content cannot be recovered.

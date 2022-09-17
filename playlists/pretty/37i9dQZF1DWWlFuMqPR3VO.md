@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlFuMqPR3VO.md) - [plain]
 
 > From the jazzy, up\-beat New Orleans blues to the slower, zydeco and Cajun\-influenced Swamp blues\. Cover: Kenny Neal
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,054 likes - 40 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,072 likes - 40 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlFuMqPR3VO.md) - [plain]
 | 26 | [Brown Skin Woman](https://open.spotify.com/track/4t348UYDuSGPqVkmU1Dt9P) | [Snooks Eaglin](https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS) | [New Orleans Street Singer](https://open.spotify.com/album/0swNksscllX2uKAYfFoLuu) | 3:47 |
 | 27 | [Trick Bag](https://open.spotify.com/track/2rofi4Z4X7UdaMjKdraagu) | [Earl King](https://open.spotify.com/artist/76ox7koAGPytUmTZGU6zWn), [Sam Charters](https://open.spotify.com/artist/4P62HkfjQe9Ojf6YkILrbP) | [The Sonet Blues Story](https://open.spotify.com/album/4vANqROsyz5dkzlwnO6zwx) | 3:08 |
 | 28 | [Reconsider Me](https://open.spotify.com/track/6VB5qvDSykpoc8vON065d8) | [Johnny Adams](https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk) | [Heart and Soul](https://open.spotify.com/album/3zmz4edYCiggKrx4bMRTxb) | 3:55 |
-| 29 | [I've Grown So Ugly](https://open.spotify.com/track/0PvKsGeztxZYy4bpeAASHM) | [Robert Pete Williams](https://open.spotify.com/artist/2FUdiUbyZmIznvKtZcecib) | [Free Again](https://open.spotify.com/album/0dKhAtXVPeUZZxebx81HMD) | 2:47 |
+| 29 | [Old Friends](https://open.spotify.com/track/7vzerXDJCquhoncLgnJtHJ) | [Kenny Neal](https://open.spotify.com/artist/2YNoaobWamjDPop3nk9xMQ) | [Hooked On Your Love](https://open.spotify.com/album/53zsMq7ZaqjdF46y42ctJ1) | 4:37 |
 | 30 | [Boppin' The Rock](https://open.spotify.com/track/0pgep2XqOw4cR9IWtUs51R) | [Clifton Chenier](https://open.spotify.com/artist/3LzQVHowQWbzJBwBBNRPfY) | [Zodico Blues & Boogie](https://open.spotify.com/album/7FEkXD5ytxX2VSVES51rGC) | 2:21 |
-| 31 | [Old Friends](https://open.spotify.com/track/7vzerXDJCquhoncLgnJtHJ) | [Kenny Neal](https://open.spotify.com/artist/2YNoaobWamjDPop3nk9xMQ) | [Hooked On Your Love](https://open.spotify.com/album/53zsMq7ZaqjdF46y42ctJ1) | 4:37 |
+| 31 | [I've Grown So Ugly](https://open.spotify.com/track/0PvKsGeztxZYy4bpeAASHM) | [Robert Pete Williams](https://open.spotify.com/artist/2FUdiUbyZmIznvKtZcecib) | [Free Again](https://open.spotify.com/album/0dKhAtXVPeUZZxebx81HMD) | 2:47 |
 | 32 | [By the Water](https://open.spotify.com/track/51fWp2sgOhaWmnBGcaTKXk) | [Snooks Eaglin](https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS) | [The Imperial Recordings](https://open.spotify.com/album/3KUmrsZw8O08srFBL49qA3) | 2:39 |
 | 33 | [Accentuate The Positive](https://open.spotify.com/track/0ObsP7kGu8zGZHKbQh6xal) | [John Boutté](https://open.spotify.com/artist/1lGFrlrax8KaaYwF2WJnDo) | [Good Neighbor](https://open.spotify.com/album/0angfX8UOIjXxBKymsboIU) | 2:24 |
 | 34 | [One For The Highway](https://open.spotify.com/track/02wzvJWTzNPLrqqIamRkgb) | [James Booker](https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF) | [Classified \(Remixed & Expanded Edition\)](https://open.spotify.com/album/6VgQnvMaa5x8GEWaqUXSvo) | 2:34 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlFuMqPR3VO.md) - [plain]
 | 39 | [Let's Get High](https://open.spotify.com/track/2uYbT9w61amgpdsxN9Ozx3) | [Henry Gray](https://open.spotify.com/artist/08zDtD8xQDP3tDApCnxrvY), [Bob Corritore](https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH), [Bob Stroger](https://open.spotify.com/artist/1JjFeW5yiXLb18bozbG1pe), [Willie "Big Eyes" Smith](https://open.spotify.com/artist/17YszgQumE14Qyj0t2IGng) | [Vol\. 1: Blues Won't Let Me Take My Rest](https://open.spotify.com/album/6G2BuAE28vxLRAGJPgPBOb) | 3:52 |
 | 40 | [The Party's Still Going On](https://open.spotify.com/track/69vUnyBpWRNHf0MrlgqsQL) | [Marcia Ball](https://open.spotify.com/artist/0kK3ZgTw6mvlYgekz4xf18) | [Roadside Attractions](https://open.spotify.com/album/6FfHCnE5eMvEa3e1TnHnTj) | 3:25 |
 
-Snapshot ID: `MTY1MDYwMDA2MCwwMDAwMDAwMDYwNGI3YTFiMDU1NzAyMTUzMzBkZDc4ZDU2N2U2ZTVh`
+Snapshot ID: `MTY1MDYwMDA2MCwwMDAwMDAwMGViNzE5N2VmODkxNzY2N2U0NmIzNjk5ODQxMWJhNmYy`

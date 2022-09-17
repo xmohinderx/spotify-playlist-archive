@@ -196,6 +196,32 @@
     },
     {
       "album": {
+        "name": "The Disney Book",
+        "url": "https://open.spotify.com/album/6s4Nj1n5yQuyn6ML0Jjk3z"
+      },
+      "artists": [
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        },
+        {
+          "name": "Robert Ziegler",
+          "url": "https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249342,
+      "name": "Beauty and the Beast - From \"Beauty and the Beast\"",
+      "url": "https://open.spotify.com/track/4D8lQriIxEzw7JKboShO2X"
+    },
+    {
+      "album": {
         "name": "Disney Goes Classical",
         "url": "https://open.spotify.com/album/3HXbORoFcvwasbK11FdfKg"
       },

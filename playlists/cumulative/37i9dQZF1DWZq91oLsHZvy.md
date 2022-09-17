@@ -4,7 +4,7 @@
 
 > Run to indie and alternative hits.
 
-161 songs - 9 hr 35 min - [published](https://open.spotify.com/playlist/16tAbaDH2msClKjWgEvXJ3)
+162 songs - 9 hr 38 min - [published](https://open.spotify.com/playlist/16tAbaDH2msClKjWgEvXJ3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [7](https://open.spotify.com/track/1MoDk4XDqdX25GXaRfXY2O) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Ride](https://open.spotify.com/album/6PrcsM0LNzEYEmxvLNTJQN) | 4:16 | 2022-01-21 | 2022-07-29 |
 | [7](https://open.spotify.com/track/5ykbOijJEfRhuo2Td1m0Qd) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Ride](https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ) | 4:16 | 2022-03-31 |  |
 | [A Life in Color](https://open.spotify.com/track/70ppxZHlN9AC2kEALCJGD6) | [Ramsey the Fourth](https://open.spotify.com/artist/7KBDBiNPH6TqBilJMWaJxf) | [A Life in Color](https://open.spotify.com/album/1ry5ikCYhK3SZvaQYiaGIU) | 3:22 | 2022-03-24 |  |
+| [A Temporary High](https://open.spotify.com/track/02SgwZdog41hbpKX9aHA0c) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Gods We Can Touch](https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX) | 3:23 | 2022-08-12 |  |
 | [A Temporary High](https://open.spotify.com/track/0xTZXhs3eVb48PQNywMCdH) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Gods We Can Touch](https://open.spotify.com/album/2HPgGJnpimfmFPMjP0syqY) | 3:23 | 2022-01-21 | 2022-07-29 |
 | [A Temporary High](https://open.spotify.com/track/4tDr4ibocFSBY2Yy54hFpK) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Gods We Can Touch](https://open.spotify.com/album/04JQlhYtZwd9t2HTsxDKfr) | 3:23 | 2022-03-31 | 2022-09-15 |
 | [Ain't No Rest for the Wicked](https://open.spotify.com/track/3Pzh926pXggbMe2ZpXyMV7) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Cage The Elephant \(Expanded Edition\)](https://open.spotify.com/album/7H814Cg8HV0qpoMheYbhNn) | 2:55 | 2022-03-31 |  |
@@ -108,7 +109,7 @@
 | [Lo/Hi](https://open.spotify.com/track/25YlltWXRb9k7KbrEBRuhJ) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 2:57 | 2022-01-21 |  |
 | [Love Illumination](https://open.spotify.com/track/06Qha323s06okpZ4LmMX7P) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Right Thoughts, Right Words, Right Action \(Deluxe Edition\)](https://open.spotify.com/album/5W7631WJASasWPAFFzDpzi) | 3:42 | 2022-03-31 |  |
 | [Love Illumination](https://open.spotify.com/track/7i9dVsjX7Jv7woyqPpMJLn) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Right Thoughts, Right Words, Right Action \(Deluxe Edition\)](https://open.spotify.com/album/4X6YC6PgSMt5s7ARwGpLJ7) | 3:44 | 2022-01-21 | 2022-07-28 |
-| [Love Is An Only Child](https://open.spotify.com/track/2mKXwnyTLDOuZQz8vodLMh) | [Monico Blonde](https://open.spotify.com/artist/7sBhf0gQzkwJ4XZ4K8vWF1) | [Love Is An Only Child](https://open.spotify.com/album/0ocLHXKcQGYosbl8jgyAtw) | 2:24 | 2022-01-21 |  |
+| [Love Is An Only Child](https://open.spotify.com/track/2mKXwnyTLDOuZQz8vodLMh) | [Monico Blonde](https://open.spotify.com/artist/7sBhf0gQzkwJ4XZ4K8vWF1) | [Love Is An Only Child](https://open.spotify.com/album/0ocLHXKcQGYosbl8jgyAtw) | 2:24 | 2022-01-21 | 2022-09-17 |
 | [Medicine](https://open.spotify.com/track/3Kh2n3zlDSGUVlDM2sjkts) | [J4](https://open.spotify.com/artist/36Qkw8xpSta7ZunIBsdQvW) | [Medicine](https://open.spotify.com/album/4PsV0TGDBHtMwcc3rMyYaP) | 3:13 | 2022-08-16 |  |
 | [Midnight City](https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Hurry Up, We're Dreaming](https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR) | 4:01 | 2022-01-21 |  |
 | [Need You Now](https://open.spotify.com/track/5MRYyecW552BEq2nRBfIQX) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Why Make Sense? \(Definitive Version\)](https://open.spotify.com/album/1ID4yRgxYUutcLKzYDcln4) | 4:45 | 2022-01-21 |  |

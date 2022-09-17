@@ -4,7 +4,7 @@
 
 > Energy tracks to get your beast mode on.
 
-188 songs - 9 hr 20 min - [published](https://open.spotify.com/playlist/0WLElSVMWfSouxdVbhKXLZ)
+189 songs - 9 hr 22 min - [published](https://open.spotify.com/playlist/0WLElSVMWfSouxdVbhKXLZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Ambition For Cash](https://open.spotify.com/track/1tkipCYkIgti8f1tqjfcWe) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Ambition For Cash](https://open.spotify.com/album/3lMWNCoEQzdbb9lSZa5gv9) | 2:23 | 2021-10-01 |  |
 | [AP \- Music from the film Boogie](https://open.spotify.com/track/17vGPZ5EsdvtgAOCD4FLWI) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [AP \(Music from the film Boogie\)](https://open.spotify.com/album/2xAPKH0b7vGsyD5xzkPpnI) | 2:51 | 2021-02-26 |  |
 | [Back In Blood \(feat\. Lil Durk\)](https://open.spotify.com/track/7FGdjbZ32vMybPuP0IuE7d) | [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Shiesty Season](https://open.spotify.com/album/2UwJ4Nt10VStLczYefhcEV) | 3:04 | 2021-02-10 |  |
+| [Backstage Passes \(feat\. Jack Harlow\)](https://open.spotify.com/track/2BSl2gSFHdzJAMus74qzNj) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [I Never Felt Nun](https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn) | 2:38 | 2022-09-16 |  |
 | [Bad Man \(Smooth Criminal\)](https://open.spotify.com/track/6RfhBNU1FPWTG7VESlfgOl) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Bad Man \(Smooth Criminal\)](https://open.spotify.com/album/7riCJFypFAOsAHy4MTcNp5) | 1:46 | 2021-11-12 | 2022-01-29 |
 | [Bag Season \(feat\. Lil Tjay\)](https://open.spotify.com/track/28nUmOSSJQNIj7KJ9ux2QV) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [They Got Amnesia](https://open.spotify.com/album/0dMCnf42bF5BSLhDr2EMyl) | 2:41 | 2021-11-19 | 2022-07-05 |
 | [Ball If I Want To](https://open.spotify.com/track/0cu0rhnlCnJ7JIeHRiLpj3) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Ball If I Want To](https://open.spotify.com/album/6N9oICOUm4QT2YpWdKwUlu) | 1:52 | 2021-06-25 |  |
@@ -71,7 +72,7 @@
 | [Hot Shit \(feat\. Ye & Lil Durk\)](https://open.spotify.com/track/3uJFmluXzYedoJcvhpC1AW) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Hot Shit \(feat\. Ye & Lil Durk\)](https://open.spotify.com/album/2qTIltFPwJzsyssGeOwdRO) | 3:31 | 2022-07-01 |  |
 | [I Be](https://open.spotify.com/track/3p4YmRsO7aOu8PUbwdN3OB) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Yellow Tape 2 \(Deluxe\)](https://open.spotify.com/album/4qE9v3nK9IYXHu7LP8KSeB) | 3:13 | 2022-03-25 | 2022-08-07 |
 | [I Do This](https://open.spotify.com/track/7gcF9zyTczyx9aXtHOMsWJ) | [Paper Route EMPIRE](https://open.spotify.com/artist/65smG2lgnRmrDB8g7z1hG0), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [PAPER ROUTE iLLUMINATi](https://open.spotify.com/album/6WDlSPJvEMoZLHj9jJ1dhY) | 2:58 | 2021-07-30 | 2022-07-29 |
-| [I Get the Bag \(feat\. Migos\)](https://open.spotify.com/track/1XRgIKC5TPwo7nWGyKqgG0) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Mr\. Davis](https://open.spotify.com/album/2aTOwGU66ocsf8IQpOI0XZ) | 3:53 | 2021-01-04 |  |
+| [I Get the Bag \(feat\. Migos\)](https://open.spotify.com/track/1XRgIKC5TPwo7nWGyKqgG0) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Mr\. Davis](https://open.spotify.com/album/2aTOwGU66ocsf8IQpOI0XZ) | 3:53 | 2021-01-04 | 2022-09-17 |
 | [I.Y.B.](https://open.spotify.com/track/2sU586qrQQhByPLqEF7pLX) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [I.Y.B.](https://open.spotify.com/album/0Okv5s6Eu9ADmNTMJWXpuL) | 1:33 | 2021-11-19 | 2022-02-17 |
 | [Ice Cream \(feat\. Rick Ross\)](https://open.spotify.com/track/2S9oc7DcLyDxKfJ8vY7SDi) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Ice Cream \(feat\. Rick Ross\)](https://open.spotify.com/album/7ciCOxjckrARP4Ngk1bLb0) | 2:03 | 2022-04-01 | 2022-04-09 |
 | [IDGAF](https://open.spotify.com/track/3umPlMokEzAFxJO33tNdlY) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [IDGAF](https://open.spotify.com/album/2NC8n49lFlTCONmjtGb2fI) | 2:18 | 2022-08-19 |  |

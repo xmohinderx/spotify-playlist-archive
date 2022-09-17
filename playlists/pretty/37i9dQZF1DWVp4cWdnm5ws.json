@@ -1,13 +1,29 @@
 {
   "description": "Discover new artists on the horizon.",
-  "num_followers": 57303,
+  "num_followers": 57332,
   "original_name": "RADAR Philippines",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY1MjgwMCwwMDAwMDAwMDJmYzllN2YwOWYzNzIwZDhlMDA3MmZlZGViZTMxNTIw",
+  "snapshot_id": "MTY2MzMwNDgzOCwwMDAwMDAwMGQxYmFhODE2NzMyNjM5M2VmNGI3MGRhZDJlNGFjNmE4",
   "tracks": [
+    {
+      "added_at": "2022-09-16 05:07:18",
+      "album": {
+        "name": "Tayo Parin Talaga",
+        "url": "https://open.spotify.com/album/0l8XANffH6H749BxHExgDk"
+      },
+      "artists": [
+        {
+          "name": "raven",
+          "url": "https://open.spotify.com/artist/3Dr5ezvDdYsycy1gfaZWSL"
+        }
+      ],
+      "duration_ms": 175200,
+      "name": "Tayo Parin Talaga",
+      "url": "https://open.spotify.com/track/5Vpb78jHDtObL7BSvcuiUn"
+    },
     {
       "added_at": "2022-09-08 16:00:00",
       "album": {

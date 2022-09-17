@@ -4,7 +4,7 @@
 
 > Son jóvenes, guerreras y cool\. Foto: Delfina Campos
 
-432 songs - 1 day 1 hr 7 min - [published](https://open.spotify.com/playlist/3HX8jFotLiNc9gbpMw8vKv)
+433 songs - 1 day 1 hr 10 min - [published](https://open.spotify.com/playlist/3HX8jFotLiNc9gbpMw8vKv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [Cuando Sea Abuela](https://open.spotify.com/track/1m0cRuKnkpkfX68eF7fir0) | [Kurmi](https://open.spotify.com/artist/1BF5IPlIOTc6JJWQPuqG3W) | [Historias para Cuando Sea Abuela](https://open.spotify.com/album/0LtK9bUcKNtbu0iwZBgyGU) | 4:17 | 2022-01-21 | 2022-07-17 |
 | [Cuarto Creciente](https://open.spotify.com/track/2Qqaf2keyqm5IHbWVsVFjq) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Mi Primer Día Triste](https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo) | 2:58 | 2022-01-14 |  |
 | [Cuestiones Femeninas](https://open.spotify.com/track/3OxDhKeCqirHjLCrFeamnF) | [Marcela Viejo](https://open.spotify.com/artist/1j2sGZWC8B3TvIxsK7mVpx), [Andrea Franz](https://open.spotify.com/artist/50O6F9ntYmI2tUDY0dxr4G), [Alejandra Moreno](https://open.spotify.com/artist/7qpGpl8TSyFqGY9fX1uOqz), [Renee Mooi](https://open.spotify.com/artist/6pDpSqJDuF6J6jxfAz4sTB), [Madame Récamier](https://open.spotify.com/artist/2rNCZVyZwtSaTI1HGj8LFD) | [Cuestiones Femeninas](https://open.spotify.com/album/5qUuzkkrRsw7iH8AUEPZxF) | 3:37 | 2022-02-11 | 2022-07-24 |
-| [Culpa](https://open.spotify.com/track/6rCbWp5PpcHM01S75xdjED) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Culpa](https://open.spotify.com/album/39eLAGLNchxBaC2GQcH61K) | 3:21 | 2022-01-14 |  |
+| [Culpa](https://open.spotify.com/track/6rCbWp5PpcHM01S75xdjED) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Culpa](https://open.spotify.com/album/39eLAGLNchxBaC2GQcH61K) | 3:21 | 2022-01-14 | 2022-09-17 |
 | [Culpable](https://open.spotify.com/track/1F2MEdnUuZDV23rEFw6ZcM) | [Carolina Donati](https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT), [Jazmín Esquivel](https://open.spotify.com/artist/0wfckwaQiT9YWllkSO7oUU) | [Arde](https://open.spotify.com/album/2eZrZxOfzdQKvNthFD5IDJ) | 3:07 | 2022-01-21 | 2022-07-20 |
 | [Cuántas Veces](https://open.spotify.com/track/6uvvl0MaveeEQlxmeP1x5W) | [Martina Lluvias](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo) | [Recopilatorio](https://open.spotify.com/album/5GZRekxFsqDFURqsVitGxy) | 3:06 | 2022-02-11 | 2022-07-28 |
 | [Cuéntame](https://open.spotify.com/track/335hZySHS94UpZkHkIJaDq) | [Agustina Bécares](https://open.spotify.com/artist/6rC1DqYU1RqOE8aNV1RAf2) | [Breve Relato de un Suceso Irreversible](https://open.spotify.com/album/5bWAI4BhBPaRcHYECcEfYE) | 3:38 | 2022-04-01 | 2022-05-26 |
@@ -205,6 +205,7 @@
 | [La Torpeza](https://open.spotify.com/track/6JkMXKXwMZbaZ2LlHIcp1h) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [La Torpeza](https://open.spotify.com/album/1GolTdQ2ho0x06r8UYQid8) | 4:20 | 2022-05-06 | 2022-07-23 |
 | [La Verdad](https://open.spotify.com/track/2hDGEBrg5vyOFEsM0hvOnM) | [Micaela Salaverry](https://open.spotify.com/artist/2kihOo2Sxwt99sOHc7KFeo) | [Luna Nueva](https://open.spotify.com/album/5yQ9Q20mt43xcd3arHgB2L) | 3:06 | 2022-04-01 | 2022-06-25 |
 | [Laberinto](https://open.spotify.com/track/5sVf6iEfRPyyxaVyGSYHUO) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [Casero](https://open.spotify.com/artist/6RXmHX7FgxZz6ycoC6IgPy) | [ELETÉ](https://open.spotify.com/album/5TPygbVZFHfeYLwBGYVLm7) | 3:42 | 2022-01-14 | 2022-07-29 |
+| [Las Cosas Simples](https://open.spotify.com/track/7pTuLsDFrHXwuWddo1nnP7) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [Cecilia](https://open.spotify.com/album/04tPJyxfLKaTZ65DDZrd6p) | 3:10 | 2022-09-09 |  |
 | [Legionario](https://open.spotify.com/track/0b65Z7BqOl8Qyq8aRlfkP7) | [Romina Pechin](https://open.spotify.com/artist/7fzUQFFjRbuTNthKsJNEpk) | [Legionario](https://open.spotify.com/album/6VCFn5LoIqyYid7OpjCvAg) | 4:11 | 2022-01-21 | 2022-06-07 |
 | [Lejos Libre Sola](https://open.spotify.com/track/7BhaJfyOOvuzoznVNh1BoB) | [Lali Gaspari](https://open.spotify.com/artist/0IcHojewbT2XZUs7Sb2bTX) | [Nuevas Intenciones](https://open.spotify.com/album/4nJd7rSTeFOZnmwoWCUhmw) | 3:37 | 2022-04-01 | 2022-04-14 |
 | [Levantar](https://open.spotify.com/track/5kr0AHjyDgkXzGNVHJWs2f) | [Ev](https://open.spotify.com/artist/21EczEifDKebasemX58Jp8) | [Levantar](https://open.spotify.com/album/6b6pzWxfwOkwp3vMzt7U3m) | 3:50 | 2022-01-21 | 2022-07-24 |

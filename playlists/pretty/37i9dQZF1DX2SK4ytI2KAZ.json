@@ -1,12 +1,12 @@
 {
   "description": "alternative songs and a good time.",
-  "num_followers": 667815,
+  "num_followers": 667870,
   "original_name": "It's ALT Good!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3NjgwMCwwMDAwMDAwMGFjYmVlYmVmOWFkNDlkMmE3MjQ4ZWRiYWIxYWM4Y2Fj",
+  "snapshot_id": "MTY2MDI3NjgwMCwwMDAwMDAwMGMwZGI0YzU3ZDc3YzY1NzkwNzQ0NzU5YjhlOGRhNGZm",
   "tracks": [
     {
       "added_at": "2022-08-12 04:00:00",
@@ -227,22 +227,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Level of Concern",
-        "url": "https://open.spotify.com/album/4h3HXlnt6lryGzGbWmcFuY"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 220051,
-      "name": "Level of Concern",
-      "url": "https://open.spotify.com/track/6xZ4Q2k2ompmDppyeESIY8"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Dropout Boogie",
         "url": "https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 164866,
       "name": "Wild Child",
       "url": "https://open.spotify.com/track/02bJ6uGeHKfNOhIc9qyA8e"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Level of Concern",
+        "url": "https://open.spotify.com/album/4h3HXlnt6lryGzGbWmcFuY"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 220051,
+      "name": "Level of Concern",
+      "url": "https://open.spotify.com/track/6xZ4Q2k2ompmDppyeESIY8"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Shut Off The Lights",
-        "url": "https://open.spotify.com/album/3tCwAtRvtyPDYQnKPXnJD7"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 187363,
-      "name": "Shut Off The Lights",
-      "url": "https://open.spotify.com/track/6Au9UDzjeGFen7qMEDKju7"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Glitterbug (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0n5sLhq91buJwIW4j3Ji0I"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 209557,
       "name": "Greek Tragedy",
       "url": "https://open.spotify.com/track/28C4nmrd7BTu0XbOmaTHZr"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Shut Off The Lights",
+        "url": "https://open.spotify.com/album/3tCwAtRvtyPDYQnKPXnJD7"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 187363,
+      "name": "Shut Off The Lights",
+      "url": "https://open.spotify.com/track/6Au9UDzjeGFen7qMEDKju7"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "The Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/5aAfgCIEc9zBKbwFO6jixe"
+      },
+      "artists": [
+        {
+          "name": "Saint Motel",
+          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
+        }
+      ],
+      "duration_ms": 161120,
+      "name": "Van Horn",
+      "url": "https://open.spotify.com/track/78bsqObGFUD5ntweePBhIY"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "Pacific Coast Highway (with Trevor Hall)",
         "url": "https://open.spotify.com/album/2KzhabL9zxpSnPL6cq00Nc"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 227440,
       "name": "Pacific Coast Highway (with Trevor Hall)",
       "url": "https://open.spotify.com/track/6hazTlTm7MKamJWriYDa13"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "The Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/5aAfgCIEc9zBKbwFO6jixe"
-      },
-      "artists": [
-        {
-          "name": "Saint Motel",
-          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
-        }
-      ],
-      "duration_ms": 161120,
-      "name": "Van Horn",
-      "url": "https://open.spotify.com/track/78bsqObGFUD5ntweePBhIY"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Give Me Your Shoulders, Pt. 1",
-        "url": "https://open.spotify.com/album/07Ac7q2KMqblFcVfyWPmig"
-      },
-      "artists": [
-        {
-          "name": "half\u2022alive",
-          "url": "https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k"
-        }
-      ],
-      "duration_ms": 216533,
-      "name": "Move Me",
-      "url": "https://open.spotify.com/track/0vrGg6n72wLwgv32jeewgi"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Denial in Paradise",
         "url": "https://open.spotify.com/album/3K6MT6t6jipc02PfTMIHnY"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 192197,
       "name": "Sunroof",
       "url": "https://open.spotify.com/track/1zLEXRNVucrDxxI1qmGO9Z"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Give Me Your Shoulders, Pt. 1",
+        "url": "https://open.spotify.com/album/07Ac7q2KMqblFcVfyWPmig"
+      },
+      "artists": [
+        {
+          "name": "half\u2022alive",
+          "url": "https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k"
+        }
+      ],
+      "duration_ms": 216533,
+      "name": "Move Me",
+      "url": "https://open.spotify.com/track/0vrGg6n72wLwgv32jeewgi"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Brighter Day",
-        "url": "https://open.spotify.com/album/3WHIuZn32kLNVwQ1wIckKT"
+        "name": "Young Rising Sons",
+        "url": "https://open.spotify.com/album/5u2scbuAgP8wLhsKhMnr50"
       },
       "artists": [
         {
-          "name": "Michael Franti & Spearhead",
-          "url": "https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB"
+          "name": "Young Rising Sons",
+          "url": "https://open.spotify.com/artist/6ZUjdwG0NvY6MT7vvmluhV"
         }
       ],
-      "duration_ms": 193706,
-      "name": "Brighter Day",
-      "url": "https://open.spotify.com/track/1mS9SLlDMbUSjBHuJroaw9"
+      "duration_ms": 165720,
+      "name": "High",
+      "url": "https://open.spotify.com/track/4gTwPFGhIIlYtlo59jbVUB"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1427,18 +1427,18 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Young Rising Sons",
-        "url": "https://open.spotify.com/album/5u2scbuAgP8wLhsKhMnr50"
+        "name": "Brighter Day",
+        "url": "https://open.spotify.com/album/3WHIuZn32kLNVwQ1wIckKT"
       },
       "artists": [
         {
-          "name": "Young Rising Sons",
-          "url": "https://open.spotify.com/artist/6ZUjdwG0NvY6MT7vvmluhV"
+          "name": "Michael Franti & Spearhead",
+          "url": "https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB"
         }
       ],
-      "duration_ms": 165720,
-      "name": "High",
-      "url": "https://open.spotify.com/track/4gTwPFGhIIlYtlo59jbVUB"
+      "duration_ms": 193706,
+      "name": "Brighter Day",
+      "url": "https://open.spotify.com/track/1mS9SLlDMbUSjBHuJroaw9"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1747,6 +1747,22 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "Sonder",
+        "url": "https://open.spotify.com/album/4cKYUcPZBniJthOcf89r20"
+      },
+      "artists": [
+        {
+          "name": "The Wrecks",
+          "url": "https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34"
+        }
+      ],
+      "duration_ms": 182167,
+      "name": "I Love This Part",
+      "url": "https://open.spotify.com/track/3iyrYy4JJepuUCuS3u1vEX"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "Nice and Easy (with Mark McGrath of Sugar Ray)",
         "url": "https://open.spotify.com/album/4aUgmzsjVGFtRJChYnxzbw"
       },
@@ -1763,22 +1779,6 @@
       "duration_ms": 164774,
       "name": "Nice and Easy (with Mark McGrath of Sugar Ray)",
       "url": "https://open.spotify.com/track/1HX1XfDT5xL4uM3BKNrHPf"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Sonder",
-        "url": "https://open.spotify.com/album/4cKYUcPZBniJthOcf89r20"
-      },
-      "artists": [
-        {
-          "name": "The Wrecks",
-          "url": "https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34"
-        }
-      ],
-      "duration_ms": 182167,
-      "name": "I Love This Part",
-      "url": "https://open.spotify.com/track/3iyrYy4JJepuUCuS3u1vEX"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1887,18 +1887,18 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Body Language",
-        "url": "https://open.spotify.com/album/5TsfSsuDSUjNWuAJ3KoPdW"
+        "name": "Come To The Beach",
+        "url": "https://open.spotify.com/album/7zvkLdqZGE4L68lf37t53G"
       },
       "artists": [
         {
-          "name": "DREAMERS",
-          "url": "https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A"
+          "name": "Winnetka Bowling League",
+          "url": "https://open.spotify.com/artist/4ug3P1K8BaCdJXROrqHqhu"
         }
       ],
-      "duration_ms": 203651,
-      "name": "Body Language",
-      "url": "https://open.spotify.com/track/4bBmkUUotaleotNdgSwsen"
+      "duration_ms": 178920,
+      "name": "Come To The Beach",
+      "url": "https://open.spotify.com/track/3cwrYbdU4eJkVXiH2USGid"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1919,18 +1919,18 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Come To The Beach",
-        "url": "https://open.spotify.com/album/7zvkLdqZGE4L68lf37t53G"
+        "name": "Body Language",
+        "url": "https://open.spotify.com/album/5TsfSsuDSUjNWuAJ3KoPdW"
       },
       "artists": [
         {
-          "name": "Winnetka Bowling League",
-          "url": "https://open.spotify.com/artist/4ug3P1K8BaCdJXROrqHqhu"
+          "name": "DREAMERS",
+          "url": "https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A"
         }
       ],
-      "duration_ms": 178920,
-      "name": "Come To The Beach",
-      "url": "https://open.spotify.com/track/3cwrYbdU4eJkVXiH2USGid"
+      "duration_ms": 203651,
+      "name": "Body Language",
+      "url": "https://open.spotify.com/track/4bBmkUUotaleotNdgSwsen"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1983,22 +1983,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Do You Really Wanna Know?",
-        "url": "https://open.spotify.com/album/1gSZbzpl3w3wp2Lc4sl3l8"
-      },
-      "artists": [
-        {
-          "name": "Sea Girls",
-          "url": "https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe"
-        }
-      ],
-      "duration_ms": 178333,
-      "name": "Do You Really Wanna Know?",
-      "url": "https://open.spotify.com/track/43oSsb5boERcpfiuDJR3Kq"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Castlecomer",
         "url": "https://open.spotify.com/album/5DUFivlOxblQTTRTfrlT15"
       },
@@ -2011,6 +1995,22 @@
       "duration_ms": 166920,
       "name": "If I Could Be Like You",
       "url": "https://open.spotify.com/track/7nzYP2Eznmu83TFdB7wDE9"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Do You Really Wanna Know?",
+        "url": "https://open.spotify.com/album/1gSZbzpl3w3wp2Lc4sl3l8"
+      },
+      "artists": [
+        {
+          "name": "Sea Girls",
+          "url": "https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe"
+        }
+      ],
+      "duration_ms": 178333,
+      "name": "Do You Really Wanna Know?",
+      "url": "https://open.spotify.com/track/43oSsb5boERcpfiuDJR3Kq"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -2095,22 +2095,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Painting (Masterpiece)",
-        "url": "https://open.spotify.com/album/7jMTaMVtCLUU0jFtASijhC"
-      },
-      "artists": [
-        {
-          "name": "Lewis Del Mar",
-          "url": "https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR"
-        }
-      ],
-      "duration_ms": 243413,
-      "name": "Painting (Masterpiece)",
-      "url": "https://open.spotify.com/track/7kmSIKAk4VHP4QUjpBPbGg"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "I Don't Like Being Honest",
         "url": "https://open.spotify.com/album/5kZtMQfFg0BMibHRGi6ghX"
       },
@@ -2123,6 +2107,22 @@
       "duration_ms": 206466,
       "name": "Stuck",
       "url": "https://open.spotify.com/track/0x8VeSHmhbRl9EUAdsEx6A"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Painting (Masterpiece)",
+        "url": "https://open.spotify.com/album/7jMTaMVtCLUU0jFtASijhC"
+      },
+      "artists": [
+        {
+          "name": "Lewis Del Mar",
+          "url": "https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR"
+        }
+      ],
+      "duration_ms": 243413,
+      "name": "Painting (Masterpiece)",
+      "url": "https://open.spotify.com/track/7kmSIKAk4VHP4QUjpBPbGg"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -2143,6 +2143,22 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "Sonder",
+        "url": "https://open.spotify.com/album/4cKYUcPZBniJthOcf89r20"
+      },
+      "artists": [
+        {
+          "name": "The Wrecks",
+          "url": "https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34"
+        }
+      ],
+      "duration_ms": 179356,
+      "name": "Lone Survivor",
+      "url": "https://open.spotify.com/track/4xoMkzXVLIr2Lal6gIX18L"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "I Like to Hide in the Bathroom at Parties",
         "url": "https://open.spotify.com/album/0E5jbLqzY4KozTUhavTbdT"
       },
@@ -2159,22 +2175,6 @@
       "duration_ms": 166910,
       "name": "I Like to Hide in the Bathroom at Parties",
       "url": "https://open.spotify.com/track/5AlbjaOF6CTcAOcuav3pv1"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Sonder",
-        "url": "https://open.spotify.com/album/4cKYUcPZBniJthOcf89r20"
-      },
-      "artists": [
-        {
-          "name": "The Wrecks",
-          "url": "https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34"
-        }
-      ],
-      "duration_ms": 179356,
-      "name": "Lone Survivor",
-      "url": "https://open.spotify.com/track/4xoMkzXVLIr2Lal6gIX18L"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -2311,22 +2311,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Preacher Man",
-        "url": "https://open.spotify.com/album/41RoNnI0O7darplpv3D9Ha"
-      },
-      "artists": [
-        {
-          "name": "THE DRIVER ERA",
-          "url": "https://open.spotify.com/artist/5bmqhxWk9SEFDGIzWpSjVJ"
-        }
-      ],
-      "duration_ms": 219389,
-      "name": "Preacher Man",
-      "url": "https://open.spotify.com/track/25lrlvqhBed81hejnUIP5P"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Heart Baby",
         "url": "https://open.spotify.com/album/5Hub95rVF5waxlr8LWgTFq"
       },
@@ -2343,6 +2327,22 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "Preacher Man",
+        "url": "https://open.spotify.com/album/41RoNnI0O7darplpv3D9Ha"
+      },
+      "artists": [
+        {
+          "name": "THE DRIVER ERA",
+          "url": "https://open.spotify.com/artist/5bmqhxWk9SEFDGIzWpSjVJ"
+        }
+      ],
+      "duration_ms": 219389,
+      "name": "Preacher Man",
+      "url": "https://open.spotify.com/track/25lrlvqhBed81hejnUIP5P"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "When The Night",
         "url": "https://open.spotify.com/album/7fbye8EAeiLsiKAe2upMEh"
       },
@@ -2355,22 +2355,6 @@
       "duration_ms": 308360,
       "name": "Elevate",
       "url": "https://open.spotify.com/track/5BxVRqpZi6tIhAap1ZjzVD"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "The Hills",
-        "url": "https://open.spotify.com/album/1Une2l5LD0e7savosFt6Gz"
-      },
-      "artists": [
-        {
-          "name": "The Faim",
-          "url": "https://open.spotify.com/artist/6VsU92soWFLtVsSP65rkrN"
-        }
-      ],
-      "duration_ms": 217617,
-      "name": "The Hills",
-      "url": "https://open.spotify.com/track/47lwvfWsHDZJkCPeqVFrnJ"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -2415,18 +2399,18 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Take It Easy",
-        "url": "https://open.spotify.com/album/7g9U3VPeWOeWe6pP7Q4Ayu"
+        "name": "The Hills",
+        "url": "https://open.spotify.com/album/1Une2l5LD0e7savosFt6Gz"
       },
       "artists": [
         {
-          "name": "Cisco Adler",
-          "url": "https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW"
+          "name": "The Faim",
+          "url": "https://open.spotify.com/artist/6VsU92soWFLtVsSP65rkrN"
         }
       ],
-      "duration_ms": 163680,
-      "name": "Take It Easy",
-      "url": "https://open.spotify.com/track/1hshQOs2OcbICfroZCu1UD"
+      "duration_ms": 217617,
+      "name": "The Hills",
+      "url": "https://open.spotify.com/track/47lwvfWsHDZJkCPeqVFrnJ"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -2471,6 +2455,22 @@
       "duration_ms": 242053,
       "name": "PIERCED ARROWS",
       "url": "https://open.spotify.com/track/2wEYO3Vg0gv5xK4iAMfHBz"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Take It Easy",
+        "url": "https://open.spotify.com/album/7g9U3VPeWOeWe6pP7Q4Ayu"
+      },
+      "artists": [
+        {
+          "name": "Cisco Adler",
+          "url": "https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW"
+        }
+      ],
+      "duration_ms": 163680,
+      "name": "Take It Easy",
+      "url": "https://open.spotify.com/track/1hshQOs2OcbICfroZCu1UD"
     },
     {
       "added_at": "2022-08-12 04:00:00",

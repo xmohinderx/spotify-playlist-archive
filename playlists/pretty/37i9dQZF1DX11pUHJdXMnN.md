@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain]
 
 > House and disco jams with an 80s\-infused retro flavour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,094 likes - 45 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,118 likes - 45 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain]
 | 8 | [Groove Society](https://open.spotify.com/track/2nFHaucEPE1dJp6A1AaBgV) | [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Wongo](https://open.spotify.com/artist/7yx47vjNgvQXPtHis6Hi91) | [Groove Society](https://open.spotify.com/album/2Wo73jPoFsRo6LNldU3GnP) | 3:03 |
 | 9 | [Brain Machine](https://open.spotify.com/track/01CKAEZULi2Ddw4Xg4rDr7) | [Fideles](https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs) | [Brain Machine](https://open.spotify.com/album/2hZCIw0C4L89eTpCkwdkkA) | 5:48 |
 | 10 | [Love Divide](https://open.spotify.com/track/6ezKiq5uvUlNlxCzQzZZ9n) | [PADDY](https://open.spotify.com/artist/0Dcbqd0bkwytdhGS8Zvuky) | [Love Divide](https://open.spotify.com/album/362ceaJQRuOKtYw8xsGIa3) | 3:52 |
-| 11 | [Life Is A Song Worth Singing \- Jamie Jones Remix](https://open.spotify.com/track/3MN8hmy8vFs0GcZhVxWLlh) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ), [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji) | [Mixmag Presents Teddy Pendergrass: The Remixes \- EP](https://open.spotify.com/album/1pwd4Ug25kzaZbdHDhT1Ho) | 8:47 |
-| 12 | [First Wave](https://open.spotify.com/track/38MZpQ8TQxUPBWgXbgt1wx) | [Roland Tings](https://open.spotify.com/artist/0hTV7lch0OcKcMn6RYgOLR) | [First Wave](https://open.spotify.com/album/3loLbxl5tuqHnYxXx80VQ6) | 4:38 |
+| 11 | [First Wave](https://open.spotify.com/track/38MZpQ8TQxUPBWgXbgt1wx) | [Roland Tings](https://open.spotify.com/artist/0hTV7lch0OcKcMn6RYgOLR) | [First Wave](https://open.spotify.com/album/3loLbxl5tuqHnYxXx80VQ6) | 4:38 |
+| 12 | [Life Is A Song Worth Singing \- Jamie Jones Remix](https://open.spotify.com/track/3MN8hmy8vFs0GcZhVxWLlh) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ), [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji) | [Mixmag Presents Teddy Pendergrass: The Remixes \- EP](https://open.spotify.com/album/1pwd4Ug25kzaZbdHDhT1Ho) | 8:47 |
 | 13 | [Feels Right \- Gerd Janson Remix \- Radio Edit](https://open.spotify.com/track/0x7IgG3pJHBUoULcsaPFpr) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7), [Gerd Janson](https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO) | [Polydans Remixes](https://open.spotify.com/album/277wPb0R66H8K90bJMksyG) | 3:59 |
 | 14 | [Mexico \(Punctual Remix\)](https://open.spotify.com/track/5i37M8IkbCsqYLaPVg42Xh) | [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF) | [Mexico \(Punctual Remix\)](https://open.spotify.com/album/4jn3zCmDMQJRNPZPwkr6Mq) | 8:32 |
 | 15 | [Floppy \- Marlon Hoffstadt's Energy Bells Mix](https://open.spotify.com/track/05oMU1d1NpzI2JgOUZgbc9) | [Peak & Swift](https://open.spotify.com/artist/699xHTQaLrfHyQ66Jr4DOv), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Floppy Drive EP](https://open.spotify.com/album/0ErgbkothTs8lmPXfQ9jh0) | 5:42 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain]
 | 44 | [Roma](https://open.spotify.com/track/5TiwTIba6lYkRtv1IFxxIU) | [Lifelike](https://open.spotify.com/artist/3sa5sqxJqYjDZhGxmo4Ko5) | [Italo Disco](https://open.spotify.com/album/0vZrlHYbxOtIMjQUmPGshi) | 3:25 |
 | 45 | [Never Let You Go \- Skream Remix \(Edit\)](https://open.spotify.com/track/4XP3da5XVRN1eoTK91L4T8) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3), [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [Never Let You Go \(Skream Remix\)](https://open.spotify.com/album/2EcZfAmLrfH8UrVJeh2fxi) | 3:40 |
 
-Snapshot ID: `MTYzMDA3OTEwMSwwMDAwMDAwMGYxMGViNDRjZTYwNTMxMjFkNWMwZTgyNGU1NjY0MWZh`
+Snapshot ID: `MTYzMDA3OTEwMSwwMDAwMDAwMDdjNTAzMTgxZmE5ZWRlNGZkMDc5YjEyZjMwMjgxMWI5`

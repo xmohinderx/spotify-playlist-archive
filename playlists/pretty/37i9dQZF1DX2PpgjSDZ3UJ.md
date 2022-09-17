@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PpgjSDZ3UJ.md) - [plain]
 
 > Las mejores canciones de indie/alternativo durante el 2020\. En portada: Ela Minus
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,433 likes - 89 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,443 likes - 89 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PpgjSDZ3UJ.md) - [plain]
 | 40 | [Un Gatito](https://open.spotify.com/track/2d7au8a1ImPjzTp8EyNcoI) | [La Bien Querida](https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6), [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3) | [Un Gatito](https://open.spotify.com/album/37mDIREfofAksvorhbC64M) | 3:05 |
 | 41 | [Nómada](https://open.spotify.com/track/2J4drmgsDr6u7EP3DvyN9A) | [La Banda del Bisonte](https://open.spotify.com/artist/363z8t8XMXCozcLQorLiPD), [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [Nómada](https://open.spotify.com/album/4tUaCFfhnftL5Eg6li46K6) | 4:47 |
 | 42 | [Días Negros](https://open.spotify.com/track/7GggClJIZhrWpNYfFt5RAQ) | [Chango Menas](https://open.spotify.com/artist/02JOH3JikydGzqOEI7WzA9) | [Días Negros](https://open.spotify.com/album/5aAukLeOUD7CH1qE36t7mt) | 3:02 |
-| 43 | [Rush](https://open.spotify.com/track/5DwrfmCwc7ZtRl9vfYKOuv) | [Fiebre](https://open.spotify.com/artist/2C0r0f1ek76DLNLb6ls8ro) | [Petróleo](https://open.spotify.com/album/1nL346oiQcGOx91bEe3JQ0) | 3:15 |
-| 44 | [NTE](https://open.spotify.com/track/7p4C1w3JSmKVJXixBrtaKI) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Regresa](https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp) | 2:51 |
+| 43 | [NTE](https://open.spotify.com/track/7p4C1w3JSmKVJXixBrtaKI) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Regresa](https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp) | 2:51 |
+| 44 | [Rush](https://open.spotify.com/track/5DwrfmCwc7ZtRl9vfYKOuv) | [Fiebre](https://open.spotify.com/artist/2C0r0f1ek76DLNLb6ls8ro) | [Petróleo](https://open.spotify.com/album/1nL346oiQcGOx91bEe3JQ0) | 3:15 |
 | 45 | [Si te vas](https://open.spotify.com/track/6VzjDbTOkv4EVUVF7PorLi) | [dani](https://open.spotify.com/artist/4sYXzPulKYxOYuDKS1px8Y) | [veinte](https://open.spotify.com/album/1rAMdylzJZKDJgL200ivk5) | 3:43 |
 | 46 | [No Sentir Nada](https://open.spotify.com/track/5yO08ego5Exs0acRhxs6tn) | [Marem Ladson](https://open.spotify.com/artist/2Fzkri1PNqc9DsXUbRrNa0) | [No Sentir Nada](https://open.spotify.com/album/4hquSaJKohf2oE50JgOBo3) | 3:44 |
 | 47 | [Única](https://open.spotify.com/track/3BmtYNRAzVoKjfOccz83Es) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu) | [Única](https://open.spotify.com/album/6Abzs1QKczzZ2vVLSf1bH9) | 3:20 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PpgjSDZ3UJ.md) - [plain]
 | 49 | [Danza de Sol](https://open.spotify.com/track/2IHswTTnpUppvV8jn7PHqH) | [Los Cogelones](https://open.spotify.com/artist/0E6wzL7Jdd5XiLjadvcpKS) | [Hijos del Sol](https://open.spotify.com/album/0syY8WEuVTi39vVHfrCbjq) | 3:10 |
 | 50 | [Lo Que Vales \(Para Mí\)](https://open.spotify.com/track/03If5wA0g4z8C9qSw6hDK8) | [Pepe Pecas](https://open.spotify.com/artist/5TZkTvjOfTSsgBQVP7SDyq) | [Lo Que Vales \(Para Mí\)](https://open.spotify.com/album/60ki1aJySUjzhFLLnYMpJW) | 3:31 |
 | 51 | [Wow](https://open.spotify.com/track/6dH0yTwptrQIb6qMLPg1As) | [Margaritas Podridas](https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7) | [Wow](https://open.spotify.com/album/2h85rsLHSwAMdaBJvNnirH) | 5:16 |
-| 52 | [Joderlo Todo](https://open.spotify.com/track/1G93uVHCm8fegsmYKCsJTA) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Joderlo Todo](https://open.spotify.com/album/3a5u1dS9MeqrQtSLqrXxrs) | 3:47 |
-| 53 | [y arderán](https://open.spotify.com/track/1BQH4CK9tWxyOCxXWHdD77) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK) | [brotes \(florecen\)](https://open.spotify.com/album/0091N9PEv8YXYU351kmx5U) | 3:16 |
+| 52 | [y arderán](https://open.spotify.com/track/1BQH4CK9tWxyOCxXWHdD77) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK) | [brotes \(florecen\)](https://open.spotify.com/album/0091N9PEv8YXYU351kmx5U) | 3:16 |
+| 53 | [Joderlo Todo](https://open.spotify.com/track/1G93uVHCm8fegsmYKCsJTA) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Joderlo Todo](https://open.spotify.com/album/3a5u1dS9MeqrQtSLqrXxrs) | 3:47 |
 | 54 | [Delicadeza](https://open.spotify.com/track/2Yskv1YwRJfu6L7auWA34g) | [Mint Field](https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz) | [Sentimiento Mundial](https://open.spotify.com/album/5l42UGler5fwv207TkXYtI) | 2:58 |
 | 55 | [La Flor](https://open.spotify.com/track/36zwjrHtrOTS593mZiQz24) | [Francisca y Los Exploradores](https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf) | [La Flor](https://open.spotify.com/album/3KHUWqXRqY1F8Fh9MzbjmH) | 3:06 |
 | 56 | [Cuando Quieres Jugar Conmigo](https://open.spotify.com/track/7w7FKUvuYrXojcMjHyQbgc) | [Lolabúm](https://open.spotify.com/artist/1Smk5600sBY0IosFDG2zki), [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Verte Antes de Fin de Año](https://open.spotify.com/album/7koEe8boQfsuzueElXW1bb) | 3:38 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PpgjSDZ3UJ.md) - [plain]
 | 88 | [Honestidad](https://open.spotify.com/track/2TSGYYXqPLk1Xy6eTtlTmG) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [ELETÉ](https://open.spotify.com/album/2yrXDD1dTZFPVSKMp9ADpL) | 3:45 |
 | 89 | [Sabes](https://open.spotify.com/track/6DH8mb9KAv1dexrLgy9aS8) | [La Era de Gomes](https://open.spotify.com/artist/2JsaY1GQhGPbIlFSrAncg0) | [Sabes](https://open.spotify.com/album/6GUwOeqKSqk98yJK2dPkEr) | 3:25 |
 
-Snapshot ID: `MTYwNjg4NTczMSwwMDAwMDAwMDRjMDc0ODE4NDE4ZDVjY2JiZDhmMGNjOWRkY2Y4YmQw`
+Snapshot ID: `MTYwNjg4NTczMSwwMDAwMDAwMDZiNzJmZjVlZGM1OGFjZGY5Y2E3Nzg3OTVmOGQxZmQy`

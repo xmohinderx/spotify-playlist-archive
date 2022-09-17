@@ -1,11 +1,33 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Jazz voices of today. Cover: Samara Joy",
+  "description": "Jazz voices of today. Cover: Jazmine Sullivan",
   "name": "Vocal Jazz",
   "published_playlist_ids": [
     "1MJcLwlhyaudSQhL0k2nLU"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "'Round Midnight",
+        "url": "https://open.spotify.com/album/0AP435mSKEb4jF8D34nfkM"
+      },
+      "artists": [
+        {
+          "name": "Adam Blackstone",
+          "url": "https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs"
+        },
+        {
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252616,
+      "name": "'Round Midnight",
+      "url": "https://open.spotify.com/track/6rlqNxNTuK3elWsYjc4psh"
+    },
     {
       "album": {
         "name": "'Round Midnight",
@@ -584,6 +606,32 @@
     },
     {
       "album": {
+        "name": "As This Moment Slips Away (feat. Terri Lyne Carrington & Daniel Rotem)",
+        "url": "https://open.spotify.com/album/7LWt0mnltLKqvxhECUTJVT"
+      },
+      "artists": [
+        {
+          "name": "s\u00e4je",
+          "url": "https://open.spotify.com/artist/7iitvSs52z6e7UvIo2LCYi"
+        },
+        {
+          "name": "Terri Lyne Carrington",
+          "url": "https://open.spotify.com/artist/02HpkiuAylAwAnQBswaXlP"
+        },
+        {
+          "name": "Daniel Rotem",
+          "url": "https://open.spotify.com/artist/6GCr7w4KotyKmm7JeFPRfQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376647,
+      "name": "As This Moment Slips Away (feat. Terri Lyne Carrington)",
+      "url": "https://open.spotify.com/track/06Odwz1tS483XEyDrhUgfV"
+    },
+    {
+      "album": {
         "name": "As Time Goes By",
         "url": "https://open.spotify.com/album/0Oxzmmp66dQWm1NH2A3OCc"
       },
@@ -719,6 +767,28 @@
       "duration_ms": 263282,
       "name": "Autumn In New York (feat. Chris Potter, Bill Cunliffe & Vinnie Colaiuta)",
       "url": "https://open.spotify.com/track/6DwflQH9R5Y4hpJrGPeNsC"
+    },
+    {
+      "album": {
+        "name": "DEUX AMIES",
+        "url": "https://open.spotify.com/album/1xrqHfRFnrFSnntJTUaqA0"
+      },
+      "artists": [
+        {
+          "name": "Martina DaSilva",
+          "url": "https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F"
+        },
+        {
+          "name": "Laura Anglade",
+          "url": "https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236319,
+      "name": "Autumn Leaves",
+      "url": "https://open.spotify.com/track/6WPm9arPzfEBqlPo1gtMzb"
     },
     {
       "album": {
@@ -1167,7 +1237,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 254400,
       "name": "B\u00e9same Mucho - Special Edition",
       "url": "https://open.spotify.com/track/77so3u1Ms5JZXH4UqLEU27"
@@ -2086,6 +2156,28 @@
     },
     {
       "album": {
+        "name": "Don't Dream It's Over",
+        "url": "https://open.spotify.com/album/29DZZXyb7UbuBByWemVZAK"
+      },
+      "artists": [
+        {
+          "name": "Anthony Strong",
+          "url": "https://open.spotify.com/artist/6U57UDt8Ou4pLLvCSdvKHO"
+        },
+        {
+          "name": "Emmaline",
+          "url": "https://open.spotify.com/artist/4qCLr26rRwbXkdhcEBKjc5"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216173,
+      "name": "Don't Dream It's Over",
+      "url": "https://open.spotify.com/track/1vlEpTUKHga9wAxpQYcrvR"
+    },
+    {
+      "album": {
         "name": "Don't Go To Strangers",
         "url": "https://open.spotify.com/album/18vf3tVt6CZCJyaJ9Y3plh"
       },
@@ -2781,7 +2873,7 @@
       ],
       "date_added": "2021-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 379498,
       "name": "Getting to Know You",
       "url": "https://open.spotify.com/track/6W2bvbDFUNjEWm1EfAd34w"
@@ -4287,7 +4379,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 265000,
       "name": "It Was A Very Good Year",
       "url": "https://open.spotify.com/track/37vFLEQMtzQCnZC3Uy0Qtd"
@@ -4345,6 +4437,24 @@
       "duration_ms": 233893,
       "name": "It's A Wonderful Time For Love",
       "url": "https://open.spotify.com/track/5oPWYCHejJF8Jwj3hiaTeh"
+    },
+    {
+      "album": {
+        "name": "it's alright",
+        "url": "https://open.spotify.com/album/19roU5ecP9LrpQ8ulgTbq2"
+      },
+      "artists": [
+        {
+          "name": "Sirintip",
+          "url": "https://open.spotify.com/artist/6ZUFztmnNpggjzUXH4irFx"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213232,
+      "name": "it's alright",
+      "url": "https://open.spotify.com/track/0McrsC4SQOTU0tBrxZIaBV"
     },
     {
       "album": {
@@ -5224,6 +5334,28 @@
     },
     {
       "album": {
+        "name": "Love Story",
+        "url": "https://open.spotify.com/album/5oKYZptTBjlXmQKjkpwBrf"
+      },
+      "artists": [
+        {
+          "name": "Scott Bradlee's Postmodern Jukebox",
+          "url": "https://open.spotify.com/artist/5HYNPEO2NNBONQkp3Mvwvc"
+        },
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231487,
+      "name": "Love Story",
+      "url": "https://open.spotify.com/track/2wJeDPbOfGRhzVLSQdjSgS"
+    },
+    {
+      "album": {
         "name": "Love Tastes Like Strawberries",
         "url": "https://open.spotify.com/album/3oOqTn2s7bE9Ye7GTmKO6m"
       },
@@ -5257,7 +5389,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 221662,
       "name": "Love's Not Fair",
       "url": "https://open.spotify.com/track/1NENHY9ZNId9QP2NFs97xN"
@@ -6549,7 +6681,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 244453,
       "name": "Same Old Smile",
       "url": "https://open.spotify.com/track/1g3C3Kg792oT1b6eW2hRSk"
@@ -7021,7 +7153,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 312527,
       "name": "Something Cool - Brian Losch Remix",
       "url": "https://open.spotify.com/track/3f7cqY7cu3n1aMx01KfCnW"

@@ -4,7 +4,7 @@
 
 > ¡Disfruta con los grandes del rock colombiano! Foto: Oh'laville
 
-181 songs - 11 hr 24 min - [published](https://open.spotify.com/playlist/11Mc0pmsFxafTtRY7OU2qP)
+182 songs - 11 hr 27 min - [published](https://open.spotify.com/playlist/11Mc0pmsFxafTtRY7OU2qP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [La Juega](https://open.spotify.com/track/0I0eF8w8KGQNv6GloHx2FK) | [Ultrageno](https://open.spotify.com/artist/6qKcI08g7hZPQjduSjbKW7) | [Código Fuente](https://open.spotify.com/album/5lXXq90l5EvS2m2Lc7A6vx) | 3:28 | 2022-03-11 | 2022-07-27 |
 | [La Manifestacion](https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9) | [Skampida](https://open.spotify.com/artist/2gFTHPd5iboV0IvQgsATno) | [Inflammable](https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al) | 2:51 | 2022-03-11 |  |
 | [Las Calles del Mundo](https://open.spotify.com/track/5n51OYaZgE3QS8PPO0p1zH) | [Burning Caravan](https://open.spotify.com/artist/6EWzrar8NxPYxH9mLdgkat) | [Ciudad Faro](https://open.spotify.com/album/58sctZs8nWBBUJ8qY956Vk) | 3:35 | 2022-03-11 | 2022-07-29 |
-| [Lejos De Aqui](https://open.spotify.com/track/6nifdAaB5BMc69bzSbLYtV) | [Don Tetto](https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL) | [Grandes Exitos](https://open.spotify.com/album/7y8YhSMVq5hKIfbb3LdaaW) | 2:59 | 2022-03-11 | 2022-09-16 |
+| [Lejos De Aqui](https://open.spotify.com/track/6nifdAaB5BMc69bzSbLYtV) | [Don Tetto](https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL) | [Grandes Exitos](https://open.spotify.com/album/7y8YhSMVq5hKIfbb3LdaaW) | 2:59 | 2022-03-11 |  |
 | [Lenguaje de Mi Piel](https://open.spotify.com/track/2OzYLQAGN7VY1e3HEkvlzU) | [Kraken](https://open.spotify.com/artist/02OR1V0L1ODy7dDlBLTOvx) | [Piel de Cobre](https://open.spotify.com/album/4zYOTjZnyKCWLfqi91QbTx) | 4:38 | 2022-03-11 | 2022-07-29 |
 | [Lobo Hombre en Paris](https://open.spotify.com/track/6wHbkqzDJqUsuXAzQgWH87) | [The Mills](https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn) | [Babel \(Special Edition\)](https://open.spotify.com/album/1qDJZqRsBuvynficMP9CqK) | 3:47 | 2022-06-24 |  |
 | [Lobo Hombre en París](https://open.spotify.com/track/5b7PX1tG1RQ9msIRtXHalE) | [The Mills](https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn) | [Babel \(Special Edition\)](https://open.spotify.com/album/54FlK7Mg1gDyCpE11R0hEs) | 3:49 | 2022-03-11 | 2022-07-29 |
@@ -131,7 +131,7 @@
 | [Perfecto Error](https://open.spotify.com/track/5diqHYqIz4JfsbDztdeuJI) | [Tequendama](https://open.spotify.com/artist/5jtmZEtfuDg8on48lsLxmU) | [Perfecto Error](https://open.spotify.com/album/0PM4dmS8vkPgSQbIN2WJrT) | 3:55 | 2022-03-11 | 2022-07-29 |
 | [Perro Come Perro](https://open.spotify.com/track/6yFINQXuZLwCLgfHCtv2sv) | [Superlitio](https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB), [LosPetitFellas](https://open.spotify.com/artist/0KuSKX95imv2ymBDqrixLv) | [Perro Come Perro](https://open.spotify.com/album/7Bww9cUgtmlbdXpkSWp67A) | 3:17 | 2022-03-11 |  |
 | [Perro Gozque](https://open.spotify.com/track/4iaNd8M4Mgz4fX7C0hajeR) | [Pornomotora](https://open.spotify.com/artist/14SXRis11vJfEIdzqqV6a5) | [PORNOMOTORA](https://open.spotify.com/album/5pqsiSUd55b6uedgXKtaXo) | 3:49 | 2022-03-11 | 2022-07-21 |
-| [Pill](https://open.spotify.com/track/4OFNNqUrrX7WnjUNGk4MpD) | [The Mills](https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn) | [Pill](https://open.spotify.com/album/1xcILaWt6tBBVmLFCqDAag) | 3:00 | 2022-03-11 |  |
+| [Pill](https://open.spotify.com/track/4OFNNqUrrX7WnjUNGk4MpD) | [The Mills](https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn) | [Pill](https://open.spotify.com/album/1xcILaWt6tBBVmLFCqDAag) | 3:00 | 2022-03-11 | 2022-09-17 |
 | [Pimpinella](https://open.spotify.com/track/2AWR5s0EOIKrmKjh77hTDF) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx), [Francesca Collavini](https://open.spotify.com/artist/5v076gGHAwFFq2uAVPlHzg) | [Pimpinella](https://open.spotify.com/album/1JjSmuzofyycWZ3s6wJE56) | 4:13 | 2022-03-11 | 2022-07-29 |
 | [Planetas](https://open.spotify.com/track/3OAr3wALlfcBz88S1oyu0z) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7) | [Anaranjado](https://open.spotify.com/album/6pgtJt1lDEZmoOC2fhgD0Y) | 3:16 | 2022-03-11 |  |
 | [Polaroid](https://open.spotify.com/track/6MU2N7aFij1pjEQcjrIIQP) | [LAPM](https://open.spotify.com/artist/35JXVdeNoxBKqiP2e618h3) | [Polaroid](https://open.spotify.com/album/7GMQo4a2mKyJUSW18VlueH) | 3:10 | 2022-03-11 | 2022-07-13 |
@@ -146,7 +146,7 @@
 | [Rocal](https://open.spotify.com/track/2lYG5r6ahoFOknygopkjMr) | [Los Niños Telepaticos](https://open.spotify.com/artist/2XrYe0zAKNrysuK1IuatTU) | [Rocal](https://open.spotify.com/album/4ihD17BMxTDcCfwcC2TlfC) | 3:50 | 2022-03-11 | 2022-07-22 |
 | [Rock N' Love](https://open.spotify.com/track/3huPbQBjNT3Wc9NIs40euE) | [LosPetitFellas](https://open.spotify.com/artist/0KuSKX95imv2ymBDqrixLv) | [Ruido](https://open.spotify.com/album/6pq2VbtUzngE1H9fBlba0V) | 4:31 | 2022-03-11 | 2022-07-25 |
 | [Rock the Casbah](https://open.spotify.com/track/2qEd8UUUa8tgqBLKh2ojHh) | [Doctor Krápula](https://open.spotify.com/artist/6qr2W4OfZLCIC7gItc7j0r) | [Rock the Casbah](https://open.spotify.com/album/6QdgKWKyU4Ut7MdPynViir) | 3:30 | 2022-03-11 | 2022-07-25 |
-| [Salir Ileso](https://open.spotify.com/track/4iG7vsYRFNlDMaH69fuETH) | [Don Tetto](https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL), [Mëlmak 69](https://open.spotify.com/artist/4vvDpSyIco1oUkGqhJxWX8) | [Salir Ileso](https://open.spotify.com/album/7BYksiPvBb4HVobCBJqqWK) | 3:23 | 2022-03-11 |  |
+| [Salir Ileso](https://open.spotify.com/track/4iG7vsYRFNlDMaH69fuETH) | [Don Tetto](https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL), [Mëlmak 69](https://open.spotify.com/artist/4vvDpSyIco1oUkGqhJxWX8) | [Salir Ileso](https://open.spotify.com/album/7BYksiPvBb4HVobCBJqqWK) | 3:23 | 2022-03-11 | 2022-09-17 |
 | [Salvaje Vagabundo](https://open.spotify.com/track/0gOvLUA0IHMUiDFPPINFnr) | [1280 Almas](https://open.spotify.com/artist/5skZhjSLizA2G1bJQp2iNM) | [Marteko Euriak](https://open.spotify.com/album/6FD2WgISjrdvvr7XSjKgYT) | 3:07 | 2022-06-24 |  |
 | [Salvaje Vagabundo](https://open.spotify.com/track/5eePEucQO2cluD0ToDqnXK) | [1280 Almas](https://open.spotify.com/artist/5skZhjSLizA2G1bJQp2iNM) | [Salvaje Vagabundo](https://open.spotify.com/album/1HTvnF60Ik9GQXKIQIKJQG) | 3:16 | 2022-03-11 | 2022-07-27 |
 | [Sangre de Prófugo](https://open.spotify.com/track/09avsricP8Wl6MAB8F71vL) | [Lika Nova](https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy) | [Sangre de Prófugo](https://open.spotify.com/album/3bBvYcVnGmhsXE3U5cF7gY) | 3:31 | 2022-03-11 | 2022-07-28 |
@@ -156,6 +156,7 @@
 | [Sigo](https://open.spotify.com/track/2D9fsqNw4aMABpchC5Once) | [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD) | [Sigo](https://open.spotify.com/album/0XcwHtwzFbnrXuX1CzhFKQ) | 3:19 | 2022-03-11 |  |
 | [Sirenas](https://open.spotify.com/track/1PkGzHg95qINSbYbsQWr3u) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7) | [Soles Negros](https://open.spotify.com/album/3ofTHUW3ZUlEMBx10gidAG) | 4:00 | 2022-03-11 | 2022-07-20 |
 | [Soledad Criminal](https://open.spotify.com/track/0Ly8FMXLrMhiJW7kgECxPZ) | [1280 Almas](https://open.spotify.com/artist/5skZhjSLizA2G1bJQp2iNM) | [Aquí Vamos Otra Vez](https://open.spotify.com/album/5Ky4OYPxlJcZDvVsN2zANf) | 3:09 | 2022-03-11 | 2022-07-28 |
+| [Soledad Criminal](https://open.spotify.com/track/78JWLDL4fLdGNHT26IaEPS) | [1280 Almas](https://open.spotify.com/artist/5skZhjSLizA2G1bJQp2iNM) | [Aquí Vamos Otra Vez](https://open.spotify.com/album/5M58twn7mZ9tDQstqmH6nD) | 3:09 | 2022-06-24 |  |
 | [Solo](https://open.spotify.com/track/1YKizTW9cW02HAUdMgThf8) | [Ekhymosis](https://open.spotify.com/artist/4gOoiVWzfjPtXK3ohuEy0M) | [Niño Gigante](https://open.spotify.com/album/3ys3fHtdrDDjoWaS68k8jT) | 4:57 | 2022-06-24 |  |
 | [Solo](https://open.spotify.com/track/6TTUE8NOtD1SS08NiD6JjL) | [Ekhymosis](https://open.spotify.com/artist/4gOoiVWzfjPtXK3ohuEy0M), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [The Best of Ekhymosis](https://open.spotify.com/album/7v19h5ssvFws0EJrCw5bjP) | 5:03 | 2022-03-11 | 2022-07-29 |
 | [Somos Coyotes](https://open.spotify.com/track/0RGuPZmtJxMblQwZIvcNsQ) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI) | [Doce Vientos](https://open.spotify.com/album/7iJkzoo9QSgy0nW13uIohq) | 3:42 | 2022-06-24 |  |

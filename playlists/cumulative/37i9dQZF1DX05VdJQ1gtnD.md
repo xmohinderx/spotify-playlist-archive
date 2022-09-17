@@ -4,7 +4,7 @@
 
 > Warming instrumental guitar for sitting by the fire.
 
-174 songs - 8 hr 12 min - [published](https://open.spotify.com/playlist/6TRgNbMRFQsRi7cwbkVPjA)
+175 songs - 8 hr 15 min - [published](https://open.spotify.com/playlist/6TRgNbMRFQsRi7cwbkVPjA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Rest Sea](https://open.spotify.com/track/5UcoxNaxIuTV1WQ4eOzvYm) | [Glen Beasley](https://open.spotify.com/artist/46Xi2XceJCdHvaqnh55jyP) | [Rest Sea](https://open.spotify.com/album/1TXSpQbz2TlYhGxfh5eowq) | 2:13 | 2022-05-13 |  |
 | [Reunited](https://open.spotify.com/track/6eirYUJx3GarqrbDhgc51B) | [Daniel Fernando](https://open.spotify.com/artist/7KxUzzHsRoyRrtGMkYnH6y) | [Reunited](https://open.spotify.com/album/1WeMb5lu8JhRQrfNH4311X) | 3:02 | 2022-05-13 |  |
 | [Rising](https://open.spotify.com/track/7f7P35fclxpRqu19lDCMRi) | [Joseph Cline](https://open.spotify.com/artist/4I9DN3aBJSdzI26IuzVl0h) | [Rising](https://open.spotify.com/album/4sfK2xdbOgXf5MWYY20C9W) | 2:22 | 2022-05-13 |  |
+| [rising up](https://open.spotify.com/track/5RxLG7r3eNDNr063e55E0M) | [Juri van Saal](https://open.spotify.com/artist/4A2xXIV6Lb1Rn69X3sQanA) | [rising up](https://open.spotify.com/album/66RANndnyemYjUFz5k7pU1) | 2:13 | 2022-09-16 |  |
 | [Rivers of My Mind](https://open.spotify.com/track/4SG85w1dXOtZxCUW1BYe5M) | [Will Harrison](https://open.spotify.com/artist/01vcSVQOpFHutiYq0lrBwt) | [Hometown Glory](https://open.spotify.com/album/3d4YBR8sYyDxiaCfB2PK6l) | 3:04 | 2022-06-17 |  |
 | [Riviera Moon](https://open.spotify.com/track/437RdHmPqM2MC6DfmpGCxJ) | [Jessica Grange](https://open.spotify.com/artist/7xuui1WSiqWO67RrcHAGJh) | [Riviera Moon](https://open.spotify.com/album/3THNjZKsobzny5qV1XY8mR) | 1:58 | 2022-05-13 |  |
 | [Road to Aberdeen](https://open.spotify.com/track/2oNdTP5o9Ry3BWWpPFWrFq) | [Michalina Francis](https://open.spotify.com/artist/4tt13ZKdlzc6s98cdZGf81) | [Golden Opportunity](https://open.spotify.com/album/2fFwjpeF46udY3BXN0qiAn) | 3:47 | 2022-05-13 |  |

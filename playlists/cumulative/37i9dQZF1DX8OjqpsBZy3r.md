@@ -2,15 +2,16 @@
 
 ### [Viral Country](https://open.spotify.com/playlist/37i9dQZF1DX8OjqpsBZy3r)
 
-> The trending country songs and viral hits you need to know\. Cover: Mason Ramsey
+> The trending country songs and viral hits you need to know\. Cover: Hailey Whitters
 
-121 songs - 6 hr 42 min - [published](https://open.spotify.com/playlist/5RPUuOuY7lpUPnjhceluUd)
+123 songs - 6 hr 48 min - [published](https://open.spotify.com/playlist/5RPUuOuY7lpUPnjhceluUd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ["Beer Beer, Truck Truck"](https://open.spotify.com/track/5Vgfh5XyxNqcUG1sw9bj7k) | [George Birge](https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp) | ["Beer Beer, Truck Truck"](https://open.spotify.com/album/37UNLGhagCOwOKGkEEHqXV) | 2:26 | 2021-12-03 |  |
 | [2020](https://open.spotify.com/track/3OG2MwfPXYLvPMF4CK4Mo0) | [Mitch Rossell](https://open.spotify.com/artist/0cEVpgfIpUSsUKUMsRrhtZ) | [2020](https://open.spotify.com/album/0x4P3OHau9Y8JBYgt2lgCr) | 3:00 | 2021-12-03 | 2022-02-05 |
 | [5 Foot 9](https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [5 Foot 9](https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr) | 3:09 | 2022-06-01 |  |
+| [Ain't Missin' You](https://open.spotify.com/track/3XCsnZP8tL6fAbYofj9O0M) | [Dylan Schneider](https://open.spotify.com/artist/5lRB3MAJfKzlt7dgYMHWgY) | [Ain't Missin' You](https://open.spotify.com/album/79FH6zbP58c4ANd9udRiDc) | 2:56 | 2022-09-16 |  |
 | [All Too Well \(10 Minute Version\) \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/5enxwA8aAbwZbf5qCHORXi) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 10:13 | 2021-12-03 |  |
 | [Bad Things](https://open.spotify.com/track/4VIDVd87GQcBSbofvDp8Pj) | [Jace Everett](https://open.spotify.com/artist/47DQBkDU2VieRG0aJUcPJs) | [Jace Everett](https://open.spotify.com/album/2bxVJbSsv2ldVqjnX58DtE) | 2:44 | 2022-02-09 |  |
 | [Before He Could](https://open.spotify.com/track/1RQ38vNdWlETjupj9IXdQm) | [Halle Kearns](https://open.spotify.com/artist/1qhXfHiXKvDP2563X2uFpY) | [Finally](https://open.spotify.com/album/0HeTHWLmcrCShhRz79CKUe) | 3:30 | 2021-12-03 | 2022-02-05 |
@@ -20,6 +21,7 @@
 | [Boy](https://open.spotify.com/track/7A8OfzqXBHYGk61FZTHoeo) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Lee Brice](https://open.spotify.com/album/3GyH4lUfzEkbxlaW5xTYYL) | 3:18 | 2021-12-03 |  |
 | [breadwinner](https://open.spotify.com/track/2stbjvpFujerfDUuUUPX7o) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 3:20 | 2021-12-03 |  |
 | [Breakup Szn](https://open.spotify.com/track/5pQXzRh20OsQxMaTYhelm7) | [Gracie Carol](https://open.spotify.com/artist/24GbtL2XINFQxX2NxiTWSO) | [Breakup Szn](https://open.spotify.com/album/2axveu3fM08fxnR361iNwn) | 2:33 | 2021-12-03 |  |
+| [Bridesmaids](https://open.spotify.com/track/6qrJ2kxNvGey8ZEWii5teB) | [Kylie Morgan](https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV) | [Bridesmaids](https://open.spotify.com/album/0VdFcNM19RTRUlX59heg5A) | 2:50 | 2022-09-16 |  |
 | [Call Your Sister](https://open.spotify.com/track/4ZhULfF8Sto8LKYUgx1yU3) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Born in July](https://open.spotify.com/album/3Y22F7f6OISIYwTirf2E6R) | 3:00 | 2022-07-25 |  |
 | [Call Your Sister](https://open.spotify.com/track/6E7NIyFK1OYaG4fTyr8zX1) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Born in July](https://open.spotify.com/album/3FeBLXRG2x2SOz3hOoktdY) | 3:00 | 2021-12-03 | 2022-07-29 |
 | [Carrying Your Love](https://open.spotify.com/track/7vbBHT7dLLeYr1aR5whaNc) | [David Morris](https://open.spotify.com/artist/23Pb3oXBOQj9WEziS6laUW) | [Carrying Your Love](https://open.spotify.com/album/2oFeWNfRKYdtFYdgvDPxeP) | 2:35 | 2022-07-25 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89XXHpIgTCJ.md) - [plain]
 
 > When Rock meets Rap: covers, collabs, mashups and everything that rhymes\. Cover:  JAY\-Z & Linkin Park
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,163 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,381 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89XXHpIgTCJ.md) - [plain]
 | 47 | [Can't Get the Best of Me](https://open.spotify.com/track/4cmfwCjNRd7kOGlyM36pMw) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX) | [Skull & Bones](https://open.spotify.com/album/31XG9UWJIXSXSsPUEsh3D2) | 4:14 |
 | 48 | [King of Rock](https://open.spotify.com/track/7112WRQXlBGe4Os43yw8gV) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [King Of Rock \(Expanded Edition\)](https://open.spotify.com/album/57FQTvThrTFPrGPAvZCjw6) | 5:14 |
 | 49 | [Sunrise Trailer Park \(feat\. Machine Gun Kelly\)](https://open.spotify.com/track/19glo6zeI6mUdELLmCIYq8) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Crooked Teeth \(Deluxe\)](https://open.spotify.com/album/4KTUNKma9YpiSbioeui4pW) | 3:47 |
-| 50 | [Just Another Victim](https://open.spotify.com/track/4RLIujooyQaBKKLXPB5LnQ) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0), [House Of Pain](https://open.spotify.com/artist/0AuW7OCyKfFrsMbtHrYgIV) | [Unsung: The Best Of Helmet 1991\-1997](https://open.spotify.com/album/4bIeWZAXDv7oiFftbioHIO) | 4:22 |
+| 50 | [Let's Go](https://open.spotify.com/track/0vJ3WZ0Q6AdntTxQ384JQN) | [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX), [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57), [Twista](https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [Give The Drummer Some \(Deluxe\)](https://open.spotify.com/album/6t4AZ1h46ksEZiKLjh7oes) | 3:13 |
 
-Snapshot ID: `MTY1MTI2MzMxMCwwMDAwMDAwMDdkYTFlNjhjOWEyMTQ0ZGMwOGFjNDY2Y2M2YjM2NmRk`
+Snapshot ID: `MTY1MTI2MzMxMCwwMDAwMDAwMDY3YjQyMjExYTEzOTcyMTcwMDlmYTQ3MjQ2YmQzMjM3`

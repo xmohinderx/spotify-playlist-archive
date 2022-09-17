@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 
 > Descubre la escena del jazz en México en la curaduría de los expertos Mariana Pérez,  Juan Carlos Reyes, Erik Montenegro y José Enrique Fernández.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,059 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,080 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 | 44 | [Nada Es Para Siempre](https://open.spotify.com/track/33yU3BFOzegLinbxSAXLt8) | [Lalo Galván](https://open.spotify.com/artist/1Kt8hm3gbr57ixVzYXpzdc) | [KonFussion](https://open.spotify.com/album/0gnwRiISWgdgtwVASejiHu) | 5:04 |
 | 45 | [La Cigarra](https://open.spotify.com/track/5VoLcv7J5mAwcRANKImy4R) | [Adrián Oropeza Trío](https://open.spotify.com/artist/3kSQteccOICAnocbnba3yl) | [Mezcal](https://open.spotify.com/album/0siHdOQxgRjJBawzzQqksX) | 6:33 |
 | 46 | [Bad Hombres Y Mujeres](https://open.spotify.com/track/4NGb4Tkvgzqz58SA3NNl8W) | [Antonio Sánchez](https://open.spotify.com/artist/19KpCg8O15A2eZ416EyFdw), [John Escreet](https://open.spotify.com/artist/4Ije0Q0RlICc17Q7TDZof9), [Matt Brewer](https://open.spotify.com/artist/2lbkXLlMyaHxra7bczgRqU), [Thana Alexa](https://open.spotify.com/artist/6jvFT2wqxaFL9lcPTrzjyV), [Chase Baird](https://open.spotify.com/artist/6bOdATrvhzr4uWsePPqCwJ) | [Lines In The Sand](https://open.spotify.com/album/0rOMKaWPJScXu76Vm6GglX) | 8:43 |
-| 47 | [No Se que Pasa Entre Tú y Yo](https://open.spotify.com/track/4uwBouip1vHrpf4t6XSQiO) | [Ernesto Riestra Y Su Orquesta](https://open.spotify.com/artist/2mx2io8BZPgMRlY9MqmvZE) | [Las Puntadas de Ernesto Riesta](https://open.spotify.com/album/6pY9yWVRrry83vn5QooOOQ) | 2:58 |
-| 48 | [The Pink Panther](https://open.spotify.com/track/7MBf3mXChOZJW5ZZ8CI9at) | [Pavel Loaria Big Band](https://open.spotify.com/artist/2JrCiD3IZIa2ds3vl6bqkX) | [Pavel Loaria Big Band, Vol\. 1](https://open.spotify.com/album/0nQiE3rJ7zfl10ki3mM7Ff) | 3:53 |
+| 47 | [The Pink Panther](https://open.spotify.com/track/7MBf3mXChOZJW5ZZ8CI9at) | [Pavel Loaria Big Band](https://open.spotify.com/artist/2JrCiD3IZIa2ds3vl6bqkX) | [Pavel Loaria Big Band, Vol\. 1](https://open.spotify.com/album/0nQiE3rJ7zfl10ki3mM7Ff) | 3:53 |
+| 48 | [No Se que Pasa Entre Tú y Yo](https://open.spotify.com/track/4uwBouip1vHrpf4t6XSQiO) | [Ernesto Riestra Y Su Orquesta](https://open.spotify.com/artist/2mx2io8BZPgMRlY9MqmvZE) | [Las Puntadas de Ernesto Riesta](https://open.spotify.com/album/6pY9yWVRrry83vn5QooOOQ) | 2:58 |
 | 49 | [Las Pulgas Freeway](https://open.spotify.com/track/5AFlumcmhChuLqzrkPzj0M) | [Arturo Cipriano](https://open.spotify.com/artist/5MagvaL80lMCb6ZTiNHW0u), [Gerardo Batiz](https://open.spotify.com/artist/6xBEVM1pgWPp5v93sBVcm3), [Sacbe](https://open.spotify.com/artist/2UA1zpDaD5s3Uy5R7JzzOh) | [Sacbe: Sacbe \(Complete\)](https://open.spotify.com/album/3LhbAvlKoxmYCbagKUajAP) | 6:44 |
 | 50 | [Guapanguito](https://open.spotify.com/track/276aMT3jt0qKDT216Thn3c) | [Rosino Serrano](https://open.spotify.com/artist/1sTsepStQrm8ZVVL3z6VFJ), [Orquesta Moderna](https://open.spotify.com/artist/7hsk7R2qwQOJAdmpUH63ob), [Gianluca Littera](https://open.spotify.com/artist/3FQJWyPvR00JAfEL8TAsFo), [Alex Mercado](https://open.spotify.com/artist/7oVhQ1IHY6U2VfSqJl5cu1) | [Orquesta Moderna](https://open.spotify.com/album/60KHICOjM4zeffZYe3hk3i) | 4:45 |
 
-Snapshot ID: `MTY2MjA4OTQ2MiwwMDAwMDAwMGYyYzQ4MjAzZDFmMTFmZmYzYmRkZDVkNDVhYzU2YzQ4`
+Snapshot ID: `MTY2MjA4OTQ2MiwwMDAwMDAwMDMxZWEyMjdiYzBhZTNiNzdhMTZjYWQ5MmRhOGUyMzkz`

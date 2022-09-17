@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgqrBI8yRRa.md) - [plain]
 
 > iykyk
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,272 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,278 likes - 60 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,10 +13,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgqrBI8yRRa.md) - [plain]
 | 3 | [Under The Influence](https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Indigo \(Extended\)](https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww) | 3:04 |
 | 4 | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi) | 2:27 |
 | 5 | [Dada](https://open.spotify.com/track/6SLhDU3r8FLmESRyWZypjT) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Dada](https://open.spotify.com/album/0ogWb5mN0ZG6U1aMX7r4ai) | 2:41 |
-| 6 | [Majo \(feat\. Wizkid, Alpha P & Tay Iwar\)](https://open.spotify.com/track/0KLY7SCQuVA4Hk1nzk61p4) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Alpha P](https://open.spotify.com/artist/3dUPwMGYAsymFv80wkqEKl), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Majo \(feat\. Wizkid, Alpha P & Tay Iwar\)](https://open.spotify.com/album/3Rz3SAnhOnXaf2llHOBDCo) | 2:33 |
+| 6 | [Majo \(feat\. Wizkid, Alpha P & Tay Iwar\)](https://open.spotify.com/track/0KLY7SCQuVA4Hk1nzk61p4) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Alpha P](https://open.spotify.com/artist/3dUPwMGYAsymFv80wkqEKl), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Majo \(feat\. Wizkid, Alpha P & Tay Iwar\)](https://open.spotify.com/album/3Rz3SAnhOnXaf2llHOBDCo) | 2:33 |
 | 7 | [Playboy](https://open.spotify.com/track/1Cg51Jk6EoXBQ0KiwzWJfm) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Playboy](https://open.spotify.com/album/1H60asyrMtrrOlieQIPtrI) | 3:27 |
 | 8 | [Doja](https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Doja](https://open.spotify.com/album/6oECjagksATHu2UaclXrq1) | 1:37 |
-| 9 | [Soweto](https://open.spotify.com/track/6RbOyNeajWax51NtpO6WT8) | [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Outlaw](https://open.spotify.com/album/12iai3p96UYvcrDqlvvKFE) | 2:28 |
+| 9 | [Soweto](https://open.spotify.com/track/6RbOyNeajWax51NtpO6WT8) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4) | [Outlaw](https://open.spotify.com/album/12iai3p96UYvcrDqlvvKFE) | 2:28 |
 | 10 | [SQUID GAME \- AMAPIANO](https://open.spotify.com/track/4MEMzBWJ8HBwj66gCcgFeU) | [Kvng Vinci](https://open.spotify.com/artist/2toONwOXJt03vVKmJZs30X) | [SQUID GAME \(AMAPIANO\)](https://open.spotify.com/album/72vA6XYyOprPg4bwiKSDMd) | 1:46 |
 | 11 | [Baby Riddim](https://open.spotify.com/track/77eZIuMTB9HrQ86L4ljqEX) | [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Baby Riddim](https://open.spotify.com/album/6dCmbmHyfCQpmJGZW9Am3b) | 3:10 |
 | 12 | [Vigilante Bop](https://open.spotify.com/track/4ZY2w3IQ4dMwXDg0C0SdlB) | [Alpha Ojini](https://open.spotify.com/artist/6qawnc72hY3uiAVLDZa6Rc), [Odumodublvck](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Vigilante Bop](https://open.spotify.com/album/2W90ihxyThRpceuy94iejV) | 3:00 |

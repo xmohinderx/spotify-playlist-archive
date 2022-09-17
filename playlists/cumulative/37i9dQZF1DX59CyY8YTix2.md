@@ -4,7 +4,7 @@
 
 > Japanese female rock icons\. Cover: chilldspot
 
-582 songs - 1 day 13 hr 27 min - [published](https://open.spotify.com/playlist/5oLzS8mnacSvAW2zqgcbrN)
+583 songs - 1 day 13 hr 31 min - [published](https://open.spotify.com/playlist/5oLzS8mnacSvAW2zqgcbrN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,11 +144,12 @@
 | [morninglow](https://open.spotify.com/track/2aZXjw0geMCzrTBv9Z9WvB) | [AFTER SQUALL](https://open.spotify.com/artist/6NmGshcGuIkxttVAsEu8Ns) | [morninglow](https://open.spotify.com/album/50geS4DtoWu5fhI8lpkHar) | 3:50 | 2022-07-14 | 2022-07-19 |
 | [music](https://open.spotify.com/track/1my6WsRdwWkB8rNRL9U0wi) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4), [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT) | [music](https://open.spotify.com/album/74f2abiQasJUuM0HlRTjM8) | 3:41 | 2022-05-31 | 2022-09-16 |
 | [Myself](https://open.spotify.com/track/6goPRfxzG4tcPXOf0xcp9w) | [POLTA](https://open.spotify.com/artist/7AcpgsXKOWvTvlYmEJlw6X) | [Myself](https://open.spotify.com/album/7jAjFZgPDcFSvibxfCTSGp) | 3:21 | 2022-06-07 | 2022-07-15 |
+| [NEW ME](https://open.spotify.com/track/0essQdYYWaolOQq1MfVZ2o) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [NEW ME](https://open.spotify.com/album/1XhChLG0SmRFUKRvfws0JU) | 4:21 | 2022-09-15 |  |
 | [No kidding!](https://open.spotify.com/track/4XXGl9kXNXGIOexdZpL9MK) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [No kidding!](https://open.spotify.com/album/2hNCne7EoaNLmj2KOpM4La) | 2:14 | 2022-06-02 | 2022-07-24 |
 | [NO SWEAT](https://open.spotify.com/track/7qNKOY7KThQExK66yIi4Dj) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx) | [NO SWEAT](https://open.spotify.com/album/7mukzXWGZe0qrnwQ0QK4WE) | 2:18 | 2022-07-28 | 2022-08-18 |
 | [No Time to Cast Anchor](https://open.spotify.com/track/1fNDKKuErDdqMka5NhwkeF) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ) | [No Time to Cast Anchor](https://open.spotify.com/album/6zeWOVv8Kt4iI5wqCR4eYt) | 3:12 | 2022-05-31 |  |
 | [No, Thank U](https://open.spotify.com/track/5gOkgP1Bdg6AdZFYagNdZS) | [Heavenstamp](https://open.spotify.com/artist/72Ejp7y60pGCASGkZ8ZAzI) | [No, Thank U](https://open.spotify.com/album/5sEKAAsvOt4LRS60O3JvgS) | 3:33 | 2022-05-26 | 2022-07-01 |
-| [odoru yo\-ni](https://open.spotify.com/track/5i8DJaF9DX2zkxJaT1Rqva) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [踊る様に](https://open.spotify.com/album/3BJTUKmDayBruxO1l5bP5E) | 2:48 | 2022-09-06 |  |
+| [odoru yo\-ni](https://open.spotify.com/track/5i8DJaF9DX2zkxJaT1Rqva) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [踊る様に](https://open.spotify.com/album/3BJTUKmDayBruxO1l5bP5E) | 2:48 | 2022-09-06 | 2022-09-17 |
 | [OH HEY](https://open.spotify.com/track/6YZeMe9CGjpc6JG6JofwsU) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n), [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [OH HEY](https://open.spotify.com/album/1JlkxU3l8RV4whcN0nP1DD) | 3:57 | 2022-06-07 |  |
 | [ONE DAY](https://open.spotify.com/track/0sLwEZUUbfIunlbpP6Iigu) | [Bray me](https://open.spotify.com/artist/4xEsjzaqA3rvuB8eRBv95h) | [HELL\-BENT](https://open.spotify.com/album/4p3rkFMsVAgRbJkUPH12G6) | 4:09 | 2022-06-07 | 2022-07-20 |
 | [one more time](https://open.spotify.com/track/7Jxei7V1uUUIai2uPnMg7Z) | [SCANDAL](https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz) | [one more time](https://open.spotify.com/album/47KQgzJbmDW0v8Frn3kEvy) | 4:05 | 2022-06-02 | 2022-07-29 |

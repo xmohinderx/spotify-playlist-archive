@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-253 songs - 12 hr 25 min - [published](https://open.spotify.com/playlist/3x0R9H3q2apK7ItZZ2pCtQ)
+254 songs - 12 hr 29 min - [published](https://open.spotify.com/playlist/3x0R9H3q2apK7ItZZ2pCtQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [LIKE IT LIKE THAT](https://open.spotify.com/track/30rKQFJZCiC2fN0ONdBH2s) | [TELYKast](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz) | [LIKE IT LIKE THAT](https://open.spotify.com/album/5HS01UhpXnWSBEtUbvd62E) | 2:03 | 2021-10-29 | 2022-06-21 |
 | [Like That](https://open.spotify.com/track/0NUDi4qhj9lDtwNJqgFuXv) | [NUZB](https://open.spotify.com/artist/1whPdBCsbQv270FMoML1fa), [Noola](https://open.spotify.com/artist/5K7fwqqwElpjvTGk9rBetG) | [Like That](https://open.spotify.com/album/5zSaFQQH5vAw5TfaDYXj9U) | 2:27 | 2022-04-15 |  |
 | [Like This \(feat\. AMY MIYÚ\) \- Carta Edit](https://open.spotify.com/track/3Ej9gFp9x29QEpU0TDUueh) | [SMACK](https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug), [AMY MIYÚ](https://open.spotify.com/artist/5Cd6yDDRckU2zVyAzAMbLl), [Carta](https://open.spotify.com/artist/3MTk6MUbUmV5X0N04N56JF) | [Like This \(feat\. AMY MIYÚ\) \[Carta Edit\]](https://open.spotify.com/album/7E9ci5D1kdxQO9uPCRlKMI) | 2:22 | 2021-10-29 | 2022-05-15 |
+| [Like Wooh Wooh](https://open.spotify.com/track/2DjZ7Ytv2UDKXSoQXTXPkN) | [Rnbstylerz](https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg) | [Like Wooh Wooh](https://open.spotify.com/album/2tPlR2MrouxMfxuumYUzIb) | 3:16 | 2022-09-16 |  |
 | [Loca People](https://open.spotify.com/track/16Mkz5EQ6bPn3ZHDnEj1DP) | [NOBLEE](https://open.spotify.com/artist/2veJiijF2YrWL7N0fyflRN), [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady), [Gian Nobilee](https://open.spotify.com/artist/0FYEsVCXEH5elLi0K5uNAS), [Scarlet](https://open.spotify.com/artist/1k6Ysrllin4jVJ9D3SLM5Q) | [Loca People](https://open.spotify.com/album/68rTPtsV4Be5rmdMGiY6Fx) | 2:26 | 2021-10-29 | 2022-06-11 |
 | [Look at You](https://open.spotify.com/track/3qewOIG2TJlej6TOu6Tgiq) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Look at You](https://open.spotify.com/album/5uamDROrRYS2UObpW4WRhP) | 3:00 | 2021-10-29 | 2022-07-29 |
 | [Loose](https://open.spotify.com/track/5c2KynltsWD6agVEbaHwof) | [CLiQ](https://open.spotify.com/artist/2IQIEHvL14Tj7vOKHbIMMj), [Team Salut](https://open.spotify.com/artist/2QoOImOYDWU4i2DyQoLVAH) | [Loose](https://open.spotify.com/album/3aoDtHvUeQUpFcwBG5IeoD) | 2:31 | 2021-10-29 |  |
@@ -221,7 +222,7 @@
 | [Stockholm](https://open.spotify.com/track/1qbfDP2K3YhA02U1KX06UM) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Stockholm](https://open.spotify.com/album/6igOkvOpRiiJkQXj1454v2) | 3:17 | 2021-10-29 | 2022-07-29 |
 | [stop](https://open.spotify.com/track/6BM9s0Pqmj5mvHsrDvLozu) | [warner case](https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01), [Max Kaluza](https://open.spotify.com/artist/6lNLgymfWudNsbC0Vio7Qi) | [stop](https://open.spotify.com/album/4CbJbnUWtedRpgLGIgaEiw) | 3:18 | 2021-10-29 | 2022-08-06 |
 | [Stop Talkin \(feat\. ALMA\)](https://open.spotify.com/track/05r0Rw0wlUSC6Az3fssRlj) | [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh), [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Stop Talkin \(feat\. ALMA\)](https://open.spotify.com/album/55iVqhNXuBbgvx21VTDgdW) | 2:57 | 2021-10-29 |  |
-| [Strut \- Sofi Tukker Remix](https://open.spotify.com/track/2XUX1LmtKEISX9Xy0P9lq1) | [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Strut \(Sofi Tukker Remix\)](https://open.spotify.com/album/6ocuXtWD8MENZxginKNy7J) | 3:09 | 2021-10-29 |  |
+| [Strut \- Sofi Tukker Remix](https://open.spotify.com/track/2XUX1LmtKEISX9Xy0P9lq1) | [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Strut \(Sofi Tukker Remix\)](https://open.spotify.com/album/6ocuXtWD8MENZxginKNy7J) | 3:09 | 2021-10-29 | 2022-09-17 |
 | [Summertime](https://open.spotify.com/track/1CvHcYXfsJAtr5AQJEtaOW) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw), [Ocean Roses](https://open.spotify.com/artist/2Dob1DefkZcQ8G2rNQ4bT4) | [Summertime](https://open.spotify.com/album/0uhU246gSttDlBpz5OnQCS) | 2:16 | 2021-10-29 | 2022-02-02 |
 | [Switchblade](https://open.spotify.com/track/6TYgNHU24Cyqs3nsnJ8W8A) | [NIIKO X SWAE](https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz) | [Switchblade](https://open.spotify.com/album/4CR2mkqYixGmR0lU71R1dr) | 2:51 | 2021-10-29 | 2022-07-29 |
 | [Take A Chance](https://open.spotify.com/track/2Xf6k7niuuyfY1aiHTe52d) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Take A Chance](https://open.spotify.com/album/0uBardGEMaVtAwXv8lsKYP) | 3:40 | 2022-04-01 | 2022-04-20 |

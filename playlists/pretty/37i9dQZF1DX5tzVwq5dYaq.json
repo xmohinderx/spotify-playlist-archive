@@ -1,12 +1,12 @@
 {
   "description": "Musica che, come la primavera, rende tutto pi\u00f9 bello.",
-  "num_followers": 55662,
+  "num_followers": 55659,
   "original_name": "Primavera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyNDYwNjgwMywwMDAwMDAwMDU4ODNiYjBjZTUyZTgyNjg0NzM4YmE2YmE0Y2Y5Zjhj",
+  "snapshot_id": "MTYyNDYwNjgwMywwMDAwMDAwMDM3NjExMjRkODZlMDgwMGUwNTVhNzcwZjliODlmMmVl",
   "tracks": [
     {
       "added_at": "2021-06-25 07:40:03",
@@ -695,22 +695,6 @@
     {
       "added_at": "2021-06-25 07:40:03",
       "album": {
-        "name": "Black Pumas",
-        "url": "https://open.spotify.com/album/4KJGypBUe7ANibtri1msUe"
-      },
-      "artists": [
-        {
-          "name": "Black Pumas",
-          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
-        }
-      ],
-      "duration_ms": 246586,
-      "name": "Colors",
-      "url": "https://open.spotify.com/track/6d4FWjx72iuRWzn1HwywLK"
-    },
-    {
-      "added_at": "2021-06-25 07:40:03",
-      "album": {
         "name": "Busyhead",
         "url": "https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 213320,
       "name": "Mess",
       "url": "https://open.spotify.com/track/1BlQWQgGP84r4GYUVty4Ar"
+    },
+    {
+      "added_at": "2021-06-25 07:40:03",
+      "album": {
+        "name": "Black Pumas",
+        "url": "https://open.spotify.com/album/4KJGypBUe7ANibtri1msUe"
+      },
+      "artists": [
+        {
+          "name": "Black Pumas",
+          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
+        }
+      ],
+      "duration_ms": 246586,
+      "name": "Colors",
+      "url": "https://open.spotify.com/track/6d4FWjx72iuRWzn1HwywLK"
     },
     {
       "added_at": "2021-06-25 07:40:03",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2021-06-25 07:40:03",
       "album": {
-        "name": "love + everything else",
-        "url": "https://open.spotify.com/album/1LA3eirJ1NylPXjS1gbiD5"
-      },
-      "artists": [
-        {
-          "name": "John K",
-          "url": "https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE"
-        }
-      ],
-      "duration_ms": 199169,
-      "name": "cheap sunglasses",
-      "url": "https://open.spotify.com/track/2FwP6d7xG5Hch65LBsa7Zi"
-    },
-    {
-      "added_at": "2021-06-25 07:40:03",
-      "album": {
         "name": "Thoughts From Yesterday",
         "url": "https://open.spotify.com/album/21bHaOy9Gsbw9B2nC0o4Y1"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 219133,
       "name": "June, After Dark",
       "url": "https://open.spotify.com/track/1nSWQ5Y7OcuGiWGdA1UYlr"
+    },
+    {
+      "added_at": "2021-06-25 07:40:03",
+      "album": {
+        "name": "love + everything else",
+        "url": "https://open.spotify.com/album/1LA3eirJ1NylPXjS1gbiD5"
+      },
+      "artists": [
+        {
+          "name": "John K",
+          "url": "https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE"
+        }
+      ],
+      "duration_ms": 199169,
+      "name": "cheap sunglasses",
+      "url": "https://open.spotify.com/track/2FwP6d7xG5Hch65LBsa7Zi"
     },
     {
       "added_at": "2021-06-25 07:40:03",
@@ -1419,6 +1419,26 @@
     {
       "added_at": "2021-06-25 07:40:03",
       "album": {
+        "name": "Crocodile Tears (feat. Jens Hult)",
+        "url": "https://open.spotify.com/album/1Dgk26akkLrvGSsGdm2jH4"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        },
+        {
+          "name": "Jens Hult",
+          "url": "https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu"
+        }
+      ],
+      "duration_ms": 218800,
+      "name": "Crocodile Tears (feat. Jens Hult)",
+      "url": "https://open.spotify.com/track/2M7NfIlPjyGyepWVu3KVnY"
+    },
+    {
+      "added_at": "2021-06-25 07:40:03",
+      "album": {
         "name": "Less Is More",
         "url": "https://open.spotify.com/album/5HXThyoACKMuMdRU5HosWH"
       },
@@ -1451,26 +1471,6 @@
       "duration_ms": 205026,
       "name": "Summer Girl - Bonus Track",
       "url": "https://open.spotify.com/track/5pSRBmJhkfZm1eilG3VW3L"
-    },
-    {
-      "added_at": "2021-06-25 07:40:03",
-      "album": {
-        "name": "Crocodile Tears (feat. Jens Hult)",
-        "url": "https://open.spotify.com/album/1Dgk26akkLrvGSsGdm2jH4"
-      },
-      "artists": [
-        {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
-        },
-        {
-          "name": "Jens Hult",
-          "url": "https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu"
-        }
-      ],
-      "duration_ms": 218800,
-      "name": "Crocodile Tears (feat. Jens Hult)",
-      "url": "https://open.spotify.com/track/2M7NfIlPjyGyepWVu3KVnY"
     },
     {
       "added_at": "2021-06-25 07:40:03",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2021-06-25 07:40:03",
       "album": {
-        "name": "Off",
-        "url": "https://open.spotify.com/album/6i4QFrfQpEZhSlGjFcCMP8"
-      },
-      "artists": [
-        {
-          "name": "Jake Scott",
-          "url": "https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV"
-        }
-      ],
-      "duration_ms": 165604,
-      "name": "Off",
-      "url": "https://open.spotify.com/track/73Ilcr8ZN7m1tKXRGax5JO"
-    },
-    {
-      "added_at": "2021-06-25 07:40:03",
-      "album": {
         "name": "A Larum",
         "url": "https://open.spotify.com/album/4si1HNK1gPFAYfONE19eih"
       },
@@ -1555,18 +1539,18 @@
     {
       "added_at": "2021-06-25 07:40:03",
       "album": {
-        "name": "FEVER DREAM",
-        "url": "https://open.spotify.com/album/3jk6oyfKCny48ZYb1CPjLa"
+        "name": "Off",
+        "url": "https://open.spotify.com/album/6i4QFrfQpEZhSlGjFcCMP8"
       },
       "artists": [
         {
-          "name": "Of Monsters and Men",
-          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
+          "name": "Jake Scott",
+          "url": "https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV"
         }
       ],
-      "duration_ms": 242760,
-      "name": "Wild Roses",
-      "url": "https://open.spotify.com/track/7f8iBUiwio1oX5lAFwC5xI"
+      "duration_ms": 165604,
+      "name": "Off",
+      "url": "https://open.spotify.com/track/73Ilcr8ZN7m1tKXRGax5JO"
     },
     {
       "added_at": "2021-06-25 07:40:03",
@@ -1607,6 +1591,22 @@
     {
       "added_at": "2021-06-25 07:40:03",
       "album": {
+        "name": "FEVER DREAM",
+        "url": "https://open.spotify.com/album/3jk6oyfKCny48ZYb1CPjLa"
+      },
+      "artists": [
+        {
+          "name": "Of Monsters and Men",
+          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
+        }
+      ],
+      "duration_ms": 242760,
+      "name": "Wild Roses",
+      "url": "https://open.spotify.com/track/7f8iBUiwio1oX5lAFwC5xI"
+    },
+    {
+      "added_at": "2021-06-25 07:40:03",
+      "album": {
         "name": "ASYLUM",
         "url": "https://open.spotify.com/album/1qnAzDoa24ZYCZDzmP74sL"
       },
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2021-06-25 07:40:03",
       "album": {
-        "name": "Dynamite (DayTime Version)",
-        "url": "https://open.spotify.com/album/1Yo63a5AzPMyHiYMKYIrld"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 197993,
-      "name": "Dynamite - Acoustic Remix",
-      "url": "https://open.spotify.com/track/083PvB3ID4h3jiGJ1GbbPA"
-    },
-    {
-      "added_at": "2021-06-25 07:40:03",
-      "album": {
         "name": "ROOKERY",
         "url": "https://open.spotify.com/album/28WPMClVfDtMHaNrrjbPcX"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 194480,
       "name": "Wild Stare",
       "url": "https://open.spotify.com/track/6NZUOG0R0uxIBkcQ6BIqfq"
+    },
+    {
+      "added_at": "2021-06-25 07:40:03",
+      "album": {
+        "name": "Dynamite (DayTime Version)",
+        "url": "https://open.spotify.com/album/1Yo63a5AzPMyHiYMKYIrld"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 197993,
+      "name": "Dynamite - Acoustic Remix",
+      "url": "https://open.spotify.com/track/083PvB3ID4h3jiGJ1GbbPA"
     },
     {
       "added_at": "2021-06-25 07:40:03",

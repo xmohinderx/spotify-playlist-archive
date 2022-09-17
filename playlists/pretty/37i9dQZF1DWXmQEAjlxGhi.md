@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmQEAjlxGhi.md) - [plain]
 
 > Upbeat Latin songs to keep your heart rate up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,284,266 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,284,630 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmQEAjlxGhi.md) - [plain]
 | 38 | [Danza Kuduro](https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Lucenzo](https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E) | [Meet The Orphans](https://open.spotify.com/album/6mGDfbDErYIJsmSewvccWm) | 3:18 |
 | 39 | [La Difícil](https://open.spotify.com/track/6NfrH0ANGmgBXyxgV2PeXt) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 2:43 |
 | 40 | [RUMBATÓN](https://open.spotify.com/track/3XjN0mvFkQp1FMVM9Ro5hm) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 4:08 |
-| 41 | [Gogo Dance](https://open.spotify.com/track/6riuMNiPqRmE4LPJZGzIuv) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e) | [Sabiduria](https://open.spotify.com/album/2AEfHR7PKwnmLir5rWmMRU) | 2:53 |
+| 41 | [Si No Le Contesto](https://open.spotify.com/track/3XaWuYsTtnkzCSBr0RmROc) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/3WEwS5DLsagnqQtHP2oEEu) | 3:40 |
 | 42 | [Volare](https://open.spotify.com/track/6TCnhziFkBPhOTqvh8zVDU) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Volare](https://open.spotify.com/album/56qdykzNrRw4ls93MBNKZc) | 2:27 |
-| 43 | [Si No Le Contesto](https://open.spotify.com/track/3XaWuYsTtnkzCSBr0RmROc) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/3WEwS5DLsagnqQtHP2oEEu) | 3:40 |
+| 43 | [Gogo Dance](https://open.spotify.com/track/6riuMNiPqRmE4LPJZGzIuv) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e) | [Sabiduria](https://open.spotify.com/album/2AEfHR7PKwnmLir5rWmMRU) | 2:53 |
 | 44 | [Mujeriego](https://open.spotify.com/track/78kygHp1dvW1kncYjBgbe1) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Mujeriego](https://open.spotify.com/album/43sxUsU622oLloqafw61vN) | 2:22 |
 | 45 | [GIRL LIKE ME](https://open.spotify.com/track/1zLBsSVxETQOfINOLYvT5m) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [TRANSLATION](https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc) | 3:42 |
 | 46 | [Luces](https://open.spotify.com/track/77UICuAzXRYuJqdhcy6R3m) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Luces](https://open.spotify.com/album/33y9UsVrEeUltpFdq8aPxZ) | 2:52 |
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmQEAjlxGhi.md) - [plain]
 | 53 | [Nazareno](https://open.spotify.com/track/0RGpd5zCowfEItCUF7Itpr) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Nazareno](https://open.spotify.com/album/5PlrY1dbLY41xSjGykiGcU) | 3:43 |
 | 54 | [BAILÉ CON MI EX](https://open.spotify.com/track/0Yc0ziTsyjahYqlWXVXlTU) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [BAILÉ CON MI EX](https://open.spotify.com/album/1Q2VAJl9617SehQItOqzqI) | 2:41 |
 | 55 | [Mi Cuarto](https://open.spotify.com/track/6fmQjRuo7XvRFCK2qex5hQ) | [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT) | [DI LETRA](https://open.spotify.com/album/1NTAPW8MixdsXxAi4v9hBn) | 3:17 |
-| 56 | [Brisa](https://open.spotify.com/track/5xhFO6kaUjGcSezSp5hIhG) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Brisa](https://open.spotify.com/album/4ZYTZPdMVeOcEaKRhRKFbE) | 4:19 |
+| 56 | [X](https://open.spotify.com/track/5YUyW9opqNsMSEzzecZih1) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Intimo](https://open.spotify.com/album/1CYQlkKE5Q0khU6eMwVAVt) | 2:52 |
 | 57 | [In Da Getto](https://open.spotify.com/track/63aj87TQG6F3RVO5nbG2VQ) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [In Da Getto](https://open.spotify.com/album/2M7g0SNXnSq7j5BgYJYJsl) | 2:11 |
 | 58 | [AEIOU](https://open.spotify.com/track/1c2vVx6knoiZHXbJJ9Mk8L) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [AEIOU](https://open.spotify.com/album/4J8uihMqMcLWlhz6DsGdJK) | 2:41 |
-| 59 | [X](https://open.spotify.com/track/5YUyW9opqNsMSEzzecZih1) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Intimo](https://open.spotify.com/album/1CYQlkKE5Q0khU6eMwVAVt) | 2:52 |
+| 59 | [Brisa](https://open.spotify.com/track/5xhFO6kaUjGcSezSp5hIhG) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Brisa](https://open.spotify.com/album/4ZYTZPdMVeOcEaKRhRKFbE) | 4:19 |
 | 60 | [Nos Comemos Vivos](https://open.spotify.com/track/0bI5WRiDfU5BY38ufOJtGu) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [The Love & Sex Tape](https://open.spotify.com/album/1CppHlux7Tg0ZUhWEaUudh) | 3:45 |
 | 61 | [Dile Que Tu Me Quieres](https://open.spotify.com/track/5u5MvmVtitax9R1Mxh3reC) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Odisea](https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo) | 3:46 |
 | 62 | [Sensual Bebé](https://open.spotify.com/track/1xqbfjRuUw0ot43wgBuVkt) | [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Sensual Bebé](https://open.spotify.com/album/2k3Qqrw8oQT3lq4XPe1xWC) | 3:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmQEAjlxGhi.md) - [plain]
 | 99 | [Pal Suelo](https://open.spotify.com/track/1fp3eCxNkeUr8G41yUs44w) | [J Rythm](https://open.spotify.com/artist/0N3ASLPJ1rTh91tn7YJwNm), [Victor Magan](https://open.spotify.com/artist/6alFyA4PruPsPkMVpXgKdO), [Che Antonio](https://open.spotify.com/artist/61n81KpmKaGh9IHaZZe63V) | [Pal Suelo](https://open.spotify.com/album/1xknVOqEaNugsWTXUXft7X) | 2:55 |
 | 100 | [Si Tu Te Fuiste](https://open.spotify.com/track/7sWkziTgV3ywq360LoCKLY) | [Chucho Flash](https://open.spotify.com/artist/5pkJj3IFFJBgzNYJsGR57Y) | [Si Tu Te Fuiste](https://open.spotify.com/album/2K3mPc2cgJkUtH91wpGdDD) | 3:03 |
 
-Snapshot ID: `MTY2MDY2Nzk1MiwwMDAwMDAwMGNjMTE0ZWI4ZWRhOGJkMmZhYjE5NDE0MWRkYTdiNzI3`
+Snapshot ID: `MTY2MDY2Nzk1MiwwMDAwMDAwMDdiMjJjYjM0ZDBjYjU0MjlkYjk2YTQyNWRiZGU4OGRm`

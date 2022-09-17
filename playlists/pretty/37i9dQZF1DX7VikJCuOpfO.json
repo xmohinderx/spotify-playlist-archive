@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Luis R Conriquez, Jessie Uribe.",
-  "num_followers": 61576,
+  "num_followers": 61591,
   "original_name": "Mariachi 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzIwMCwwMDAwMDAwMDMzZjljNzQ2OGM4MWIzZGY5NTkwMjkyNmJlM2NiNWU4",
+  "snapshot_id": "MTY1OTA2NzIwMCwwMDAwMDAwMGU2OGE4ZWNmZjc4ZDRiMWYyMzJjOGY2M2Y2ZmExMTJi",
   "tracks": [
     {
       "added_at": "2022-07-29 04:00:00",
@@ -163,22 +163,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "El Malo",
-        "url": "https://open.spotify.com/album/4fvBzXczcpD346IFgtWnaI"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 232885,
-      "name": "Quisiera Saber",
-      "url": "https://open.spotify.com/track/4diIDbBQpsEQUiOt42VkGB"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "100 A\u00f1os",
         "url": "https://open.spotify.com/album/1LmIj33OFO9d1XMh9jRecz"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 185074,
       "name": "100 A\u00f1os",
       "url": "https://open.spotify.com/track/4XKC4nfeXgyd4KQDu8arKL"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "El Malo",
+        "url": "https://open.spotify.com/album/4fvBzXczcpD346IFgtWnaI"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 232885,
+      "name": "Quisiera Saber",
+      "url": "https://open.spotify.com/track/4diIDbBQpsEQUiOt42VkGB"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "La Fuerza",
-        "url": "https://open.spotify.com/album/10g6da1CbqB78EddjRvJK5"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 228635,
-      "name": "La Reina",
-      "url": "https://open.spotify.com/track/5hgtFPs0T9r4YQqLjmam3h"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "Hecho a Mano",
         "url": "https://open.spotify.com/album/4XQWbicaoDhiiqXEaxBciJ"
       },
@@ -779,22 +763,18 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Mejor Ni Me La Nombren",
-        "url": "https://open.spotify.com/album/5Q7i8xatCEmGh7wX81r4bw"
+        "name": "La Fuerza",
+        "url": "https://open.spotify.com/album/10g6da1CbqB78EddjRvJK5"
       },
       "artists": [
         {
-          "name": "Neto Bernal",
-          "url": "https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5"
-        },
-        {
-          "name": "La Maquinaria Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
         }
       ],
-      "duration_ms": 210586,
-      "name": "Mejor Ni Me La Nombren",
-      "url": "https://open.spotify.com/track/7y3TuUYfFzF7PgdSz3FplN"
+      "duration_ms": 228635,
+      "name": "La Reina",
+      "url": "https://open.spotify.com/track/5hgtFPs0T9r4YQqLjmam3h"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -815,6 +795,26 @@
       "duration_ms": 224533,
       "name": "Son Amores (That's Amore) (feat. Los Macorinos)",
       "url": "https://open.spotify.com/track/10HQmG706HZtAhXRypWw01"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Mejor Ni Me La Nombren",
+        "url": "https://open.spotify.com/album/5Q7i8xatCEmGh7wX81r4bw"
+      },
+      "artists": [
+        {
+          "name": "Neto Bernal",
+          "url": "https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5"
+        },
+        {
+          "name": "La Maquinaria Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+        }
+      ],
+      "duration_ms": 210586,
+      "name": "Mejor Ni Me La Nombren",
+      "url": "https://open.spotify.com/track/7y3TuUYfFzF7PgdSz3FplN"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
+        "name": "Antonio Aguilar con Mariachi",
+        "url": "https://open.spotify.com/album/1avd5vgMRyfa6YD4LuZh2n"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 183251,
+      "name": "Por Esa Calle Vive",
+      "url": "https://open.spotify.com/track/0vXXjS5lBwyQIjJBryh0ft"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
         "name": "Hazme Tuya",
         "url": "https://open.spotify.com/album/0a48C884SUXHbslHhIwlGI"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 144869,
       "name": "Hazme Tuya",
       "url": "https://open.spotify.com/track/7GbzKGxTsaNmvgnBhcnNP5"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
-        "name": "Si Hay Otra Vida",
-        "url": "https://open.spotify.com/album/5ovjcvynQP3szYkV6qZYXa"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 204692,
-      "name": "Si Hay Otra Vida",
-      "url": "https://open.spotify.com/track/73LgjavNB3XXOTpVx5pd53"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
+        "name": "Si Hay Otra Vida",
+        "url": "https://open.spotify.com/album/5ovjcvynQP3szYkV6qZYXa"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 204692,
+      "name": "Si Hay Otra Vida",
+      "url": "https://open.spotify.com/track/73LgjavNB3XXOTpVx5pd53"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
         "name": "Sinf\u00f3nico Desde el Palacio de Bellas Artes (En Vivo)",
         "url": "https://open.spotify.com/album/2SyOyd1McFv5i3m58pU1iD"
       },
@@ -1167,18 +1183,18 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Antonio Aguilar con Mariachi",
-        "url": "https://open.spotify.com/album/1avd5vgMRyfa6YD4LuZh2n"
+        "name": "La Tequilera",
+        "url": "https://open.spotify.com/album/2iENy4iizJb4kSR1Y0T2aR"
       },
       "artists": [
         {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+          "name": "Paulina Del Campo",
+          "url": "https://open.spotify.com/artist/43QA7bAAIZZHlwwZvctCUt"
         }
       ],
-      "duration_ms": 183251,
-      "name": "Por Esa Calle Vive",
-      "url": "https://open.spotify.com/track/0vXXjS5lBwyQIjJBryh0ft"
+      "duration_ms": 137257,
+      "name": "La Tequilera",
+      "url": "https://open.spotify.com/track/56SI5fgdbkPLXualiABtsa"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1215,22 +1231,6 @@
       "duration_ms": 335666,
       "name": "Hoy Te Manifiesto - En Vivo",
       "url": "https://open.spotify.com/track/2UQ5SfMKJHuSTc3lKu5PnD"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
-        "name": "La Tequilera",
-        "url": "https://open.spotify.com/album/2iENy4iizJb4kSR1Y0T2aR"
-      },
-      "artists": [
-        {
-          "name": "Paulina Del Campo",
-          "url": "https://open.spotify.com/artist/43QA7bAAIZZHlwwZvctCUt"
-        }
-      ],
-      "duration_ms": 137257,
-      "name": "La Tequilera",
-      "url": "https://open.spotify.com/track/56SI5fgdbkPLXualiABtsa"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Es Mejor Decir Adi\u00f3s",
-        "url": "https://open.spotify.com/album/5ULdbRI84YH7MWi21emnYP"
+        "name": "12 Exitos De Oro",
+        "url": "https://open.spotify.com/album/3Vw9kRLM5ahVvR1jj34INt"
       },
       "artists": [
         {
-          "name": "Neto Bernal",
-          "url": "https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5"
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
         }
       ],
-      "duration_ms": 272426,
-      "name": "Es Mejor Decir Adi\u00f3s",
-      "url": "https://open.spotify.com/track/5sI2Uak0Ma7wnYVypyjeT3"
+      "duration_ms": 193333,
+      "name": "Camino de Guanajuato",
+      "url": "https://open.spotify.com/track/3EmuCJLsfucbTDGHGLKAob"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1479,18 +1479,18 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "12 Exitos De Oro",
-        "url": "https://open.spotify.com/album/3Vw9kRLM5ahVvR1jj34INt"
+        "name": "Es Mejor Decir Adi\u00f3s",
+        "url": "https://open.spotify.com/album/5ULdbRI84YH7MWi21emnYP"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Alfredo Jimenez",
-          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+          "name": "Neto Bernal",
+          "url": "https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5"
         }
       ],
-      "duration_ms": 193333,
-      "name": "Camino de Guanajuato",
-      "url": "https://open.spotify.com/track/3EmuCJLsfucbTDGHGLKAob"
+      "duration_ms": 272426,
+      "name": "Es Mejor Decir Adi\u00f3s",
+      "url": "https://open.spotify.com/track/5sI2Uak0Ma7wnYVypyjeT3"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Antes",
-        "url": "https://open.spotify.com/album/4ngSFRnkWETqnzLbRWN0Tx"
-      },
-      "artists": [
-        {
-          "name": "Neto Bernal",
-          "url": "https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5"
-        }
-      ],
-      "duration_ms": 208746,
-      "name": "Antes",
-      "url": "https://open.spotify.com/track/2C92uAy0ZoaqmyVEXRbsat"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "Ya no me importa",
         "url": "https://open.spotify.com/album/5EWW8ZwEEPJmREjOhqUHyf"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 200493,
       "name": "Viento",
       "url": "https://open.spotify.com/track/5RnXVDdILr94evzMVEtFuH"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Antes",
+        "url": "https://open.spotify.com/album/4ngSFRnkWETqnzLbRWN0Tx"
+      },
+      "artists": [
+        {
+          "name": "Neto Bernal",
+          "url": "https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5"
+        }
+      ],
+      "duration_ms": 208746,
+      "name": "Antes",
+      "url": "https://open.spotify.com/track/2C92uAy0ZoaqmyVEXRbsat"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1867,6 +1867,22 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
+        "name": "Quiero Confesarte",
+        "url": "https://open.spotify.com/album/6fVcCypXww1kG7sDDtqIJe"
+      },
+      "artists": [
+        {
+          "name": "Wil Caro",
+          "url": "https://open.spotify.com/artist/0WmxPSzE2yXAEpVw1yA1A4"
+        }
+      ],
+      "duration_ms": 155365,
+      "name": "Quiero Confesarte",
+      "url": "https://open.spotify.com/track/3Di4B1oh9jcluoLRV2CnRU"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
         "name": "La Cama De Piedra - En Vivo",
         "url": "https://open.spotify.com/album/1ZbZ0QuREWjRNACbmpaDOs"
       },
@@ -1883,22 +1899,6 @@
       "duration_ms": 185893,
       "name": "La Cama De Piedra - En Vivo",
       "url": "https://open.spotify.com/track/7mE8wNvsolFyp1pCNVunvQ"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
-        "name": "Quiero Confesarte",
-        "url": "https://open.spotify.com/album/6fVcCypXww1kG7sDDtqIJe"
-      },
-      "artists": [
-        {
-          "name": "Wil Caro",
-          "url": "https://open.spotify.com/artist/0WmxPSzE2yXAEpVw1yA1A4"
-        }
-      ],
-      "duration_ms": 155365,
-      "name": "Quiero Confesarte",
-      "url": "https://open.spotify.com/track/3Di4B1oh9jcluoLRV2CnRU"
     },
     {
       "added_at": "2022-07-29 04:00:00",

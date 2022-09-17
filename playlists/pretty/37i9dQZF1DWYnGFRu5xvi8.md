@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnGFRu5xvi8.md) - [plain]
 
 > New arrival from FINAL FANTASY VII REMAKE Original Soundtrack + essential tracks from the series\. ©2019 SQUARE ENIX CO., LTD\. All Rights Reserved.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,807 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,861 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnGFRu5xvi8.md) - [plain]
 | 45 | [Stand Your Ground](https://open.spotify.com/track/238Owc9WvZ4HsUD57bcq8o) | [Yoko Shimomura](https://open.spotify.com/artist/2uDsUIyCIqk9wKj17I8WAH) | [FINAL FANTASY XV Original Soundtrack](https://open.spotify.com/album/2zKqD5DUNUE4isjGLixU8v) | 3:29 |
 | 46 | [Welcome Home \- Journey's End](https://open.spotify.com/track/74rgO4P5sXSmL2Cohs5l69) | [柴田 徹也](https://open.spotify.com/artist/52I37y2UE48RmajyAG2LMG) | [FINAL FANTASY XV Original Soundtrack \(Volume 2【2/2】\)](https://open.spotify.com/album/74zIzz2axfAFkEXeNozoau) | 3:19 |
 | 47 | [Locus](https://open.spotify.com/track/74h5EcwWQRyWwQG6ZcRYEd) | [Masayoshi Soken](https://open.spotify.com/artist/6NtwaHZLhTUvERKFbFqu8S) | [Heavensward: FINAL FANTASY XIV Original Soundtrack](https://open.spotify.com/album/6ok6JQ4pIIdniVz3lZHOoC) | 8:55 |
-| 48 | [CRISIS CORE Theme \- Under the Apple Tree](https://open.spotify.com/track/3LHo1P0OTS3u9INCq42xnr) | [石元 丈晴](https://open.spotify.com/artist/5vYF4AhjOGjiqxyBzeoDFf) | [CRISIS CORE \-FINAL FANTASY VII\- Original Soundtrack](https://open.spotify.com/album/5J7YFCUhQAptIixwtLhLEi) | 4:02 |
-| 49 | [Why \(CCFFVII Mix\)](https://open.spotify.com/track/0rKap0HkMA9bZ3BqHUb5UT) | [ayaka](https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi) | [CRISIS CORE \-FINAL FANTASY VII\- Original Soundtrack](https://open.spotify.com/album/5J7YFCUhQAptIixwtLhLEi) | 2:15 |
+| 48 | [Why \(CCFFVII Mix\)](https://open.spotify.com/track/0rKap0HkMA9bZ3BqHUb5UT) | [ayaka](https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi) | [CRISIS CORE \-FINAL FANTASY VII\- Original Soundtrack](https://open.spotify.com/album/5J7YFCUhQAptIixwtLhLEi) | 2:15 |
+| 49 | [CRISIS CORE Theme \- Under the Apple Tree](https://open.spotify.com/track/3LHo1P0OTS3u9INCq42xnr) | [石元 丈晴](https://open.spotify.com/artist/5vYF4AhjOGjiqxyBzeoDFf) | [CRISIS CORE \-FINAL FANTASY VII\- Original Soundtrack](https://open.spotify.com/album/5J7YFCUhQAptIixwtLhLEi) | 4:02 |
 | 50 | [Lightning's Theme](https://open.spotify.com/track/2yR1KxI9rCl28RsUjL5iJT) | [Masashi Hamauzu](https://open.spotify.com/artist/4xwBjyd53uiyfyUOkrpcvt) | [FINAL FANTASY XIII Original Soundtrack](https://open.spotify.com/album/5GkUPRHDvq179CmE9zXh4g) | 2:26 |
 | 51 | [Enemy Attack](https://open.spotify.com/track/7oQxntBpX9Fh6kO8njQpke) | [Junya Nakano](https://open.spotify.com/artist/6MmPy3kU5brlgFNlQP5ACa) | [FINAL FANTASY X Original Soundtrack](https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u) | 2:41 |
 | 52 | [Wayward Daughter](https://open.spotify.com/track/6XFeoBnO3gz1QHV9yUQdR0) | [Masayoshi Soken](https://open.spotify.com/artist/6NtwaHZLhTUvERKFbFqu8S) | [STORMBLOOD: FINAL FANTASY XIV Original SoundtrackVolume 2【1/2】](https://open.spotify.com/album/7q7Zkp7Hvq0iEhrLCVTTbA) | 5:51 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnGFRu5xvi8.md) - [plain]
 | 68 | [Luca](https://open.spotify.com/track/0ZWbnEsONhMZI7gpKOFMcu) | [Junya Nakano](https://open.spotify.com/artist/6MmPy3kU5brlgFNlQP5ACa) | [FINAL FANTASY X Original Soundtrack](https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u) | 3:41 |
 | 69 | [Sunset Path](https://open.spotify.com/track/75NI6pNNvOvpeb8SsBkedd) | [Naoshi Mizuta](https://open.spotify.com/artist/7EcpyneWBtxsJ9dyYrFrZe) | [LIGHTNING RETURNS:FINAL FANTASY XIII ORIGINAL SOUNDTRACK](https://open.spotify.com/album/5AAlUHdWLoL1ih4vroqWSI) | 5:43 |
 | 70 | [Burden to Bear](https://open.spotify.com/track/1HA3UM6kFI21ZMifahs09f) | [石元 丈晴](https://open.spotify.com/artist/5vYF4AhjOGjiqxyBzeoDFf) | [CRISIS CORE \-FINAL FANTASY VII\- Original Soundtrack](https://open.spotify.com/album/5J7YFCUhQAptIixwtLhLEi) | 1:35 |
-| 71 | [Melodies of Life \(The Layers of Harmony\)](https://open.spotify.com/track/3hEv7v0JaBnd2ozqUmjwct) | [Emiko Shiratori](https://open.spotify.com/artist/2l0RkPXVhAxkACI2dT7o8p) | [FINAL FANTASY IX Original Soundtrack](https://open.spotify.com/album/61z0CTrR8zhxdyOoieyMJi) | 3:21 |
-| 72 | [Peaceful Village](https://open.spotify.com/track/3dczGbKVYW0I8YAyn8fNOz) | [上松範康](https://open.spotify.com/artist/28dpEDaY49qLI1PYGoqDuy) | [FINAL FANTASY BRAVE EXVIUS Original Soundtrack](https://open.spotify.com/album/4An8BwZq3e4ufbs4JcP5Rq) | 2:27 |
+| 71 | [Peaceful Village](https://open.spotify.com/track/3dczGbKVYW0I8YAyn8fNOz) | [上松範康](https://open.spotify.com/artist/28dpEDaY49qLI1PYGoqDuy) | [FINAL FANTASY BRAVE EXVIUS Original Soundtrack](https://open.spotify.com/album/4An8BwZq3e4ufbs4JcP5Rq) | 2:27 |
+| 72 | [Melodies of Life \(The Layers of Harmony\)](https://open.spotify.com/track/3hEv7v0JaBnd2ozqUmjwct) | [Emiko Shiratori](https://open.spotify.com/artist/2l0RkPXVhAxkACI2dT7o8p) | [FINAL FANTASY IX Original Soundtrack](https://open.spotify.com/album/61z0CTrR8zhxdyOoieyMJi) | 3:21 |
 | 73 | [Kimi ga Irukara \- Long Version](https://open.spotify.com/track/1imcmfDpv4X4MO2tbYxMaY) | [Sayuri Sugawara](https://open.spotify.com/artist/5GpBU9V9SOJoWjZ6l1VMNa) | [FINAL FANTASY XIII Original Soundtrack](https://open.spotify.com/album/5GkUPRHDvq179CmE9zXh4g) | 6:22 |
 | 74 | [EPISODE IGNIS \- The Main Theme](https://open.spotify.com/track/449Oasrv2je2rsDaTp7dkS) | [Yasunori Mitsuda](https://open.spotify.com/artist/7cGkvEcOOYVtNdfkf3s1tK) | [FINAL FANTASY XV Original Soundtrack \(Volume 2【1/2】\)](https://open.spotify.com/album/1gg0RWUiWUCWnaxAi9W237) | 2:34 |
 | 75 | [Worlds Collide](https://open.spotify.com/track/5qTdP8gW21gOa8cNnb1Y4r) | [David Whitaker](https://open.spotify.com/artist/2YjhahZGNMCznxDKNNJ98Q) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 3:22 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnGFRu5xvi8.md) - [plain]
 | 99 | [Answers](https://open.spotify.com/track/1aXqHzRaSr9obayyq6Xg6b) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [Before Meteor: FINAL FANTASY XIV Original Soundtrack](https://open.spotify.com/album/0z7zOKNRHFIBwbuQttQQVc) | 7:08 |
 | 100 | [Dragonsong](https://open.spotify.com/track/0UVvQQdoeJeH7aDcgh9dVL) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [Heavensward: FINAL FANTASY XIV Original Soundtrack](https://open.spotify.com/album/6ok6JQ4pIIdniVz3lZHOoC) | 5:42 |
 
-Snapshot ID: `MTYxNDg2Nzg4MCwwMDAwMDAwMGFkMWFjOGQ2MzU3M2U4ODM5MzYzMGE1NjBlMDAyMjUz`
+Snapshot ID: `MTYxNDg2Nzg4MCwwMDAwMDAwMDg3MmVkOTRlNmUyMGU3ZTE2Y2UzMDRhNmMyYmY1NDUy`

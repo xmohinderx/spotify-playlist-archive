@@ -1,12 +1,12 @@
 {
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: aiko",
-  "num_followers": 83648,
+  "num_followers": 83686,
   "original_name": "Women's Voice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzI1NDAwMCwwMDAwMDAwMDhhZmNkMmQ5ZTk2YWE0Y2EyN2NiNGM3NTM2NWNmZWVm",
+  "snapshot_id": "MTY2MzI1NDAwMCwwMDAwMDAwMDVhZDgwMDA2ZDA2YTU4ODAzMGI1NmU4YzQ3MWM0MDU2",
   "tracks": [
     {
       "added_at": "2022-09-15 15:00:00",
@@ -130,6 +130,10 @@
         {
           "name": "eill",
           "url": "https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn"
+        },
+        {
+          "name": "\u2606Taku Takahashi",
+          "url": "https://open.spotify.com/artist/13FGWDOwAoQyIBuZLtCjN9"
         }
       ],
       "duration_ms": 192954,
@@ -919,18 +923,18 @@
     {
       "added_at": "2022-09-15 15:00:00",
       "album": {
-        "name": "Flare",
-        "url": "https://open.spotify.com/album/2GUZuMzXynqvT2uG34qvxz"
+        "name": "1999",
+        "url": "https://open.spotify.com/album/322uTZewuhwVaanjOO92Av"
       },
       "artists": [
         {
-          "name": "milet",
-          "url": "https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM"
+          "name": "\u306b\u3057\u306a",
+          "url": "https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70"
         }
       ],
-      "duration_ms": 234879,
-      "name": "Flare",
-      "url": "https://open.spotify.com/track/1qZC7gWAR5blkKT1DI4niR"
+      "duration_ms": 228013,
+      "name": "\u9752\u85cd\u904a\u6cf3",
+      "url": "https://open.spotify.com/track/2197fRE2IBsnja9r18RejV"
     },
     {
       "added_at": "2022-09-15 15:00:00",
@@ -951,18 +955,18 @@
     {
       "added_at": "2022-09-15 15:00:00",
       "album": {
-        "name": "1999",
-        "url": "https://open.spotify.com/album/322uTZewuhwVaanjOO92Av"
+        "name": "Flare",
+        "url": "https://open.spotify.com/album/2GUZuMzXynqvT2uG34qvxz"
       },
       "artists": [
         {
-          "name": "\u306b\u3057\u306a",
-          "url": "https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70"
+          "name": "milet",
+          "url": "https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM"
         }
       ],
-      "duration_ms": 228013,
-      "name": "\u9752\u85cd\u904a\u6cf3",
-      "url": "https://open.spotify.com/track/2197fRE2IBsnja9r18RejV"
+      "duration_ms": 234879,
+      "name": "Flare",
+      "url": "https://open.spotify.com/track/1qZC7gWAR5blkKT1DI4niR"
     },
     {
       "added_at": "2022-09-15 15:00:00",
@@ -1015,6 +1019,26 @@
     {
       "added_at": "2022-09-15 15:00:00",
       "album": {
+        "name": "One More Kiss (feat. \u3072\u304b\u308a)",
+        "url": "https://open.spotify.com/album/0qOjr2ynr5oVcJEmnCIJyE"
+      },
+      "artists": [
+        {
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        },
+        {
+          "name": "\u3072\u304b\u308a",
+          "url": "https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc"
+        }
+      ],
+      "duration_ms": 258168,
+      "name": "One More Kiss (feat. \u3072\u304b\u308a)",
+      "url": "https://open.spotify.com/track/2gL2T5zAaOwGnOMNUruFvu"
+    },
+    {
+      "added_at": "2022-09-15 15:00:00",
+      "album": {
         "name": "\u30d6\u30ec\u30b9",
         "url": "https://open.spotify.com/album/7HuXwSDz8oPRxu7qralaeq"
       },
@@ -1063,26 +1087,6 @@
     {
       "added_at": "2022-09-15 15:00:00",
       "album": {
-        "name": "One More Kiss (feat. \u3072\u304b\u308a)",
-        "url": "https://open.spotify.com/album/0qOjr2ynr5oVcJEmnCIJyE"
-      },
-      "artists": [
-        {
-          "name": "Tokimeki Records",
-          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
-        },
-        {
-          "name": "\u3072\u304b\u308a",
-          "url": "https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc"
-        }
-      ],
-      "duration_ms": 258168,
-      "name": "One More Kiss (feat. \u3072\u304b\u308a)",
-      "url": "https://open.spotify.com/track/2gL2T5zAaOwGnOMNUruFvu"
-    },
-    {
-      "added_at": "2022-09-15 15:00:00",
-      "album": {
         "name": "Hikare Inochi",
         "url": "https://open.spotify.com/album/6UoFSfFtSDp97egQC3Vnas"
       },
@@ -1119,22 +1123,6 @@
     {
       "added_at": "2022-09-15 15:00:00",
       "album": {
-        "name": "Spinning World",
-        "url": "https://open.spotify.com/album/3nxqM96vJyyjF8DMfYJBaQ"
-      },
-      "artists": [
-        {
-          "name": "Perfume",
-          "url": "https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr"
-        }
-      ],
-      "duration_ms": 240076,
-      "name": "Spinning World",
-      "url": "https://open.spotify.com/track/396RicrQNol7GhMCIfC6Cv"
-    },
-    {
-      "added_at": "2022-09-15 15:00:00",
-      "album": {
         "name": "\u3058\u3083\u3042\u306d\u3001\u307e\u305f\u306d\u3002",
         "url": "https://open.spotify.com/album/0YebkMmTNZYPMEvTPSv8RJ"
       },
@@ -1147,6 +1135,22 @@
       "duration_ms": 245962,
       "name": "\u3058\u3083\u3042\u306d\u3001\u307e\u305f\u306d\u3002",
       "url": "https://open.spotify.com/track/6hDhcQg11LxCk3rcaRlyb6"
+    },
+    {
+      "added_at": "2022-09-15 15:00:00",
+      "album": {
+        "name": "Spinning World",
+        "url": "https://open.spotify.com/album/3nxqM96vJyyjF8DMfYJBaQ"
+      },
+      "artists": [
+        {
+          "name": "Perfume",
+          "url": "https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr"
+        }
+      ],
+      "duration_ms": 240076,
+      "name": "Spinning World",
+      "url": "https://open.spotify.com/track/396RicrQNol7GhMCIfC6Cv"
     },
     {
       "added_at": "2022-09-15 15:00:00",
@@ -1319,22 +1323,6 @@
     {
       "added_at": "2022-09-15 15:00:00",
       "album": {
-        "name": "Another Day Goes By",
-        "url": "https://open.spotify.com/album/51MHPlXY74PzkYOkSSis15"
-      },
-      "artists": [
-        {
-          "name": "Lizabet",
-          "url": "https://open.spotify.com/artist/5n8wf5NM6vGUKNektTImzq"
-        }
-      ],
-      "duration_ms": 241043,
-      "name": "Another Day Goes By",
-      "url": "https://open.spotify.com/track/2LCTeMFvh069eICDpdoEZ6"
-    },
-    {
-      "added_at": "2022-09-15 15:00:00",
-      "album": {
         "name": "Good Morning",
         "url": "https://open.spotify.com/album/4HBA6vzBbAERjK1i10ja5R"
       },
@@ -1363,6 +1351,22 @@
       "duration_ms": 183260,
       "name": "Look At Me",
       "url": "https://open.spotify.com/track/7F38cYOAZBuCjf3YoAmIZn"
+    },
+    {
+      "added_at": "2022-09-15 15:00:00",
+      "album": {
+        "name": "Another Day Goes By",
+        "url": "https://open.spotify.com/album/51MHPlXY74PzkYOkSSis15"
+      },
+      "artists": [
+        {
+          "name": "Lizabet",
+          "url": "https://open.spotify.com/artist/5n8wf5NM6vGUKNektTImzq"
+        }
+      ],
+      "duration_ms": 241043,
+      "name": "Another Day Goes By",
+      "url": "https://open.spotify.com/track/2LCTeMFvh069eICDpdoEZ6"
     },
     {
       "added_at": "2022-09-15 15:00:00",
@@ -1451,22 +1455,6 @@
     {
       "added_at": "2022-09-15 15:00:00",
       "album": {
-        "name": "ONE AND LAST",
-        "url": "https://open.spotify.com/album/5jc9kybeA4JeT6xucySNte"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 287453,
-      "name": "ONE AND LAST",
-      "url": "https://open.spotify.com/track/52hEoJr9DL19p4BKGuvnfv"
-    },
-    {
-      "added_at": "2022-09-15 15:00:00",
-      "album": {
         "name": "Falling into your eyes Record",
         "url": "https://open.spotify.com/album/5KLZZ5X7b8eM8OXXUBYfgz"
       },
@@ -1479,6 +1467,22 @@
       "duration_ms": 251720,
       "name": "3636",
       "url": "https://open.spotify.com/track/2mHWjrN4rIL8vbWt0Od9Ux"
+    },
+    {
+      "added_at": "2022-09-15 15:00:00",
+      "album": {
+        "name": "ONE AND LAST",
+        "url": "https://open.spotify.com/album/5jc9kybeA4JeT6xucySNte"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 287453,
+      "name": "ONE AND LAST",
+      "url": "https://open.spotify.com/track/52hEoJr9DL19p4BKGuvnfv"
     },
     {
       "added_at": "2022-09-15 15:00:00",
@@ -1531,22 +1535,18 @@
     {
       "added_at": "2022-09-15 15:00:00",
       "album": {
-        "name": "\u900f\u660e\u306a\u30ac\u30fc\u30eb -Dye me- (feat. \u3072\u304b\u308a)",
-        "url": "https://open.spotify.com/album/0dJVYEeg3RoLXPcUcpVatv"
+        "name": "\u611b\u306e\u3057\u308b\u3057",
+        "url": "https://open.spotify.com/album/0E6klzABzldGWMc7DVYaEh"
       },
       "artists": [
         {
-          "name": "Tokimeki Records",
-          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
-        },
-        {
-          "name": "\u3072\u304b\u308a",
-          "url": "https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc"
+          "name": "\u68ee\u4e03\u83dc",
+          "url": "https://open.spotify.com/artist/1IDjyCsCk5Xjy7RA7AQ8vy"
         }
       ],
-      "duration_ms": 209620,
-      "name": "\u900f\u660e\u306a\u30ac\u30fc\u30eb -Dye me- (feat. \u3072\u304b\u308a)",
-      "url": "https://open.spotify.com/track/3MddMYGS4fdkcRnkFbz2PM"
+      "duration_ms": 170666,
+      "name": "\u611b\u306e\u3057\u308b\u3057",
+      "url": "https://open.spotify.com/track/7Huzhd3UpthiZIf1UzRcGA"
     },
     {
       "added_at": "2022-09-15 15:00:00",
@@ -1563,6 +1563,26 @@
       "duration_ms": 184900,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/6pt9fZEfESI6uluywicYnz"
+    },
+    {
+      "added_at": "2022-09-15 15:00:00",
+      "album": {
+        "name": "\u900f\u660e\u306a\u30ac\u30fc\u30eb -Dye me- (feat. \u3072\u304b\u308a)",
+        "url": "https://open.spotify.com/album/0dJVYEeg3RoLXPcUcpVatv"
+      },
+      "artists": [
+        {
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        },
+        {
+          "name": "\u3072\u304b\u308a",
+          "url": "https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc"
+        }
+      ],
+      "duration_ms": 209620,
+      "name": "\u900f\u660e\u306a\u30ac\u30fc\u30eb -Dye me- (feat. \u3072\u304b\u308a)",
+      "url": "https://open.spotify.com/track/3MddMYGS4fdkcRnkFbz2PM"
     },
     {
       "added_at": "2022-09-15 15:00:00",
@@ -1599,22 +1619,6 @@
     {
       "added_at": "2022-09-15 15:00:00",
       "album": {
-        "name": "\u611b\u306e\u3057\u308b\u3057",
-        "url": "https://open.spotify.com/album/0E6klzABzldGWMc7DVYaEh"
-      },
-      "artists": [
-        {
-          "name": "\u68ee\u4e03\u83dc",
-          "url": "https://open.spotify.com/artist/1IDjyCsCk5Xjy7RA7AQ8vy"
-        }
-      ],
-      "duration_ms": 170666,
-      "name": "\u611b\u306e\u3057\u308b\u3057",
-      "url": "https://open.spotify.com/track/7Huzhd3UpthiZIf1UzRcGA"
-    },
-    {
-      "added_at": "2022-09-15 15:00:00",
-      "album": {
         "name": "\u7a74\u7a7a\u304d\u306e\u7a7a",
         "url": "https://open.spotify.com/album/3lMML0Z6akQ8iIuHk61r8h"
       },
@@ -1631,26 +1635,6 @@
     {
       "added_at": "2022-09-15 15:00:00",
       "album": {
-        "name": "Summer in COLORZ",
-        "url": "https://open.spotify.com/album/0LXj4IGgYcx2SYd6ii7ybi"
-      },
-      "artists": [
-        {
-          "name": "OCEANS",
-          "url": "https://open.spotify.com/artist/6EKHqQatZAZ1SnuvkDXj9u"
-        },
-        {
-          "name": "YUI",
-          "url": "https://open.spotify.com/artist/5WBO8UyOuJ1l7ZBqqBimpO"
-        }
-      ],
-      "duration_ms": 262285,
-      "name": "Summer in COLORZ",
-      "url": "https://open.spotify.com/track/4ChCL6o0WsFvVSUKDdNmYj"
-    },
-    {
-      "added_at": "2022-09-15 15:00:00",
-      "album": {
         "name": "Life Road",
         "url": "https://open.spotify.com/album/4F5sszXsMnqUUYGwpfcOj9"
       },
@@ -1663,6 +1647,26 @@
       "duration_ms": 212559,
       "name": "Life Road",
       "url": "https://open.spotify.com/track/6B0h9SeRiGdT5dDgSwJXbT"
+    },
+    {
+      "added_at": "2022-09-15 15:00:00",
+      "album": {
+        "name": "\u30e9\u30c3\u30ad\u30fc\u30fb\u30c9\u30e9\u30a4\u30d6",
+        "url": "https://open.spotify.com/album/0M1Ss4ejW5LB3ZllXxNEuh"
+      },
+      "artists": [
+        {
+          "name": "Gimgigam",
+          "url": "https://open.spotify.com/artist/1LHF7KKnogex2qYTumsGiY"
+        },
+        {
+          "name": "\u3077\u306b\u3077\u306b\u96fb\u6a5f",
+          "url": "https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK"
+        }
+      ],
+      "duration_ms": 208853,
+      "name": "\u30e9\u30c3\u30ad\u30fc\u30fb\u30c9\u30e9\u30a4\u30d6",
+      "url": "https://open.spotify.com/track/2YgT34Ztg37oBspiPey1ho"
     }
   ],
   "unique_name": "Women's Voice",

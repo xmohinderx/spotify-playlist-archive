@@ -2,9 +2,9 @@
 
 ### [Rockola](https://open.spotify.com/playlist/37i9dQZF1DWTphHAHFWZlz)
 
-> La nueva ola del rock argentino\. Foto: El Mató a un Policía Motorizado
+> La nueva ola del rock argentino\. Foto: El Plan De La Mariposa + Pedro Pastor
 
-167 songs - 9 hr 50 min - [published](https://open.spotify.com/playlist/0MtUXUcZ7oflfCxYvMhlyV)
+168 songs - 9 hr 53 min - [published](https://open.spotify.com/playlist/0MtUXUcZ7oflfCxYvMhlyV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +148,7 @@
 | [Se Me Hizo Tarde](https://open.spotify.com/track/5iCQLeTVLauWAM3N0shr4P) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [La Dirección](https://open.spotify.com/album/3ittbXmzKeMVioLZ6aepfD) | 3:57 | 2022-07-19 |  |
 | [Se Va Lejos](https://open.spotify.com/track/1z6YhJS25796qL3BvWCjhG) | [Superchería](https://open.spotify.com/artist/357XNr9zK8hSYbqT6prx4v) | [Superchería](https://open.spotify.com/album/7AJDzOjQ47jiQ35HteffDM) | 2:35 | 2022-06-29 |  |
 | [Si No Te Tengo](https://open.spotify.com/track/0gNKibTjLyncHpWg9762P7) | [Tobías Arribillaga](https://open.spotify.com/artist/39Qb5pWWJrCaj7Ol7KTJPZ) | [Si No Te Tengo](https://open.spotify.com/album/1EMnEjwGfNDrzW5ZiFxAzL) | 2:52 | 2022-06-29 |  |
-| [Si Vienes](https://open.spotify.com/track/1n0N1bEYy0mgMQwAbnIyzZ) | [Vozenoff](https://open.spotify.com/artist/0hASTHk8Lmdj2zAHvkfsfW), [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [Si Vienes](https://open.spotify.com/album/1vZlWwBj4ptkA0tF0OOnrc) | 3:10 | 2022-07-22 |  |
+| [Si Vienes](https://open.spotify.com/track/1n0N1bEYy0mgMQwAbnIyzZ) | [Vozenoff](https://open.spotify.com/artist/0hASTHk8Lmdj2zAHvkfsfW), [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [Si Vienes](https://open.spotify.com/album/1vZlWwBj4ptkA0tF0OOnrc) | 3:10 | 2022-07-22 | 2022-09-17 |
 | [Si Vienes](https://open.spotify.com/track/5ALrML18YCwXe9u4SwMKqS) | [Vozenoff](https://open.spotify.com/artist/0hASTHk8Lmdj2zAHvkfsfW), [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [Si Vienes](https://open.spotify.com/album/5X2BAo2WXOz4pdacNwzK58) | 3:10 | 2022-06-29 | 2022-07-29 |
 | [Siguiendo la Huella No Llego a París](https://open.spotify.com/track/14G1wMnTXGuvPckgAoZmiw) | [Viva Elástico](https://open.spotify.com/artist/6dpGJKjrEet5TfcNTn2lZZ) | [Siguiendo la Huella No Llego a París](https://open.spotify.com/album/3AcIAJ1kHSJAAyl0Cu9n3P) | 2:58 | 2022-06-29 |  |
 | [Sin Rumbo](https://open.spotify.com/track/5joIidA3kxvecf66OB9B4f) | [Hollywood Bungalows](https://open.spotify.com/artist/4R8wRxSAhFbsZzHTScrFLv) | [Sin Rumbo](https://open.spotify.com/album/4chLnKWpCmDv2FP8rN4nsQ) | 3:24 | 2022-06-29 | 2022-07-20 |
@@ -173,6 +173,7 @@
 | [Voces](https://open.spotify.com/track/0luSXTXS78HvsXqDyIQF6Y) | [Ficción](https://open.spotify.com/artist/2JpGzW7UoWhl2OSlSM2GJD) | [TÍPICO](https://open.spotify.com/album/6rI8r23tsCQeOiuSXUggRk) | 3:04 | 2022-06-29 |  |
 | [Voladitos](https://open.spotify.com/track/5eumn808YBhmLoWyt24ADO) | [Malabares](https://open.spotify.com/artist/73IbUkj1P6fbxKRWWZdtRe) | [Radio Paranoide \(Lado A\)](https://open.spotify.com/album/09vHpUls4qg8xGZqhbXXkF) | 2:31 | 2022-06-29 | 2022-07-20 |
 | [Voy Girando](https://open.spotify.com/track/5Ru2w8lxXhYMLF8KAK46jU) | [Otra Gente](https://open.spotify.com/artist/7CljLF08vTg2nXLkXCB9H5) | [Voy Girando](https://open.spotify.com/album/7wOJNTfWHCyIwHJNJGpClg) | 3:20 | 2022-06-29 | 2022-07-20 |
+| [Vuelvo a Caer en un Túnel de Algodón](https://open.spotify.com/track/3DIc5vKYOGk2NuRt38RW9L) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir), [Pedro Pastor](https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP) | [Vuelvo a Caer en un Túnel de Algodón](https://open.spotify.com/album/5hhS5mk04GItOMqPvrhV23) | 3:19 | 2022-09-16 |  |
 | [Vértigo](https://open.spotify.com/track/5wi0wnl10vGat8O6SAkCLx) | [Hollywood Bungalows](https://open.spotify.com/artist/4R8wRxSAhFbsZzHTScrFLv) | [Hollywood Bungalows](https://open.spotify.com/album/5i5fjpRX6wAbjjUAj0siq1) | 4:03 | 2022-06-29 |  |
 | [Ya No](https://open.spotify.com/track/5tRWVChUhMaGXWUvHlkaUM) | [Caras Extrañas](https://open.spotify.com/artist/5Bc5XHQ2svsLbZjwQqEIEP), [Pato Fontanet](https://open.spotify.com/artist/1ZGMbSg4MnVbzPvkYLgrZi), [Mauricio Junior Lescano](https://open.spotify.com/artist/0InckL49BuCjxQZuSPg9DV) | [Ya No](https://open.spotify.com/album/4xTlycvNd0nZRQFZYnc8H7) | 3:53 | 2022-06-29 | 2022-07-20 |
 

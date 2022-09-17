@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 
 > ¡Sube el volumen y disfruta del pop más chicloso! Sofi Mata en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,193 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,232 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 23 | [Fue Lindo](https://open.spotify.com/track/7bMJX92st9uXhc4OuHDRG5) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Canciones Pa Mi Ex Vol.1](https://open.spotify.com/album/7iBIAxWWW0WhKnFnhHBfNh) | 2:28 |
 | 24 | [Carita Bonita](https://open.spotify.com/track/3a9LFom8qDQ7g4akARwnlR) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [Carita Bonita](https://open.spotify.com/album/5I7oeqHswqi53Sejh3TQNd) | 3:46 |
 | 25 | [T.A.C.O.](https://open.spotify.com/track/3BtvZuzvNbN7OIaUsWIM5M) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [K.O.](https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK) | 3:00 |
-| 26 | [NO ERES TÚ \(feat\. Gloria Trevi\)](https://open.spotify.com/track/1Ak0ucQzPS6mvMn1m8YQTY) | [Jennifer Rojo](https://open.spotify.com/artist/0SMyQijONSkk6q5UseJXEN), [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [NO ERES TÚ \(feat\. Gloria Trevi\)](https://open.spotify.com/album/7CEvogoNvFLnDR0z1nPw1k) | 3:49 |
-| 27 | [Quién lo diría](https://open.spotify.com/track/1l8QKeG1hH5nF5zpJWEBsR) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP), [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Quién lo diría](https://open.spotify.com/album/4PVhiDn8mvSj3aEAwz2ByX) | 2:39 |
+| 26 | [Quién lo diría](https://open.spotify.com/track/1l8QKeG1hH5nF5zpJWEBsR) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP), [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Quién lo diría](https://open.spotify.com/album/4PVhiDn8mvSj3aEAwz2ByX) | 2:39 |
+| 27 | [NO ERES TÚ \(feat\. Gloria Trevi\)](https://open.spotify.com/track/1Ak0ucQzPS6mvMn1m8YQTY) | [Jennifer Rojo](https://open.spotify.com/artist/0SMyQijONSkk6q5UseJXEN), [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [NO ERES TÚ \(feat\. Gloria Trevi\)](https://open.spotify.com/album/7CEvogoNvFLnDR0z1nPw1k) | 3:49 |
 | 28 | [TE PIENSO A CADA HORA](https://open.spotify.com/track/1J9wWlo3oI3HjPnp48L3XL) | [Dvicio](https://open.spotify.com/artist/2KxjMGXFgX1vt9grpbD3xI) | [TE PIENSO A CADA HORA](https://open.spotify.com/album/6jJJFLiYhv7LE1wvCZG5Z4) | 3:14 |
 | 29 | [TERMINAMOS](https://open.spotify.com/track/6QTzlTHcFxtfgULj70HYFL) | [Nina](https://open.spotify.com/artist/1m2sKm6i2WIAvWxRrqunWt) | [TERMINAMOS](https://open.spotify.com/album/0q65sLrCDryzRPoNexyXXu) | 2:37 |
 | 30 | [La Noche](https://open.spotify.com/track/16alCAQtM9TPU6FUexEUnh) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [La Noche](https://open.spotify.com/album/4LZmupArVMH708EjwPECO3) | 3:04 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 43 | [Frío](https://open.spotify.com/track/1p9vRub1lRUQDdFNxzJfCu) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Frío](https://open.spotify.com/album/52fZOIMpznnGr5pwXm2aMA) | 2:50 |
 | 44 | [Tan Bonita](https://open.spotify.com/track/7xyzefduQtdn4nxbT92T4G) | [Picus](https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt) | [Tan Bonita](https://open.spotify.com/album/527CairPtfgaEwJKH6sAmj) | 3:03 |
 | 45 | [Shot Shot](https://open.spotify.com/track/1T9uhHXZspigDRS10mzBmt) | [Lamentablemente Flow](https://open.spotify.com/artist/5b6Hl206aXLFcGUPx7DLSk) | [Shot Shot](https://open.spotify.com/album/5I0GqHbj7MEGF0RRd5haZF) | 2:58 |
-| 46 | [Eclipse de Luna \- Edición Especial](https://open.spotify.com/track/3kYAIegzm6Ounx1nFg2mxa) | [Playa Limbo](https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8), [Aleks Syntek](https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi) | [Eclipse de Luna \(Edición Especial\)](https://open.spotify.com/album/72B74qlICDqsf9R9mtSQWR) | 3:40 |
-| 47 | [Ya No Dueles](https://open.spotify.com/track/1CVaF9hZmlZWSDMM6tFdb3) | [Dennis Arana](https://open.spotify.com/artist/091aVX0Jur4ClmN1k1VJVw), [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh) | [Ya No Dueles](https://open.spotify.com/album/4MuZgMI05gSqTVkDXDsL7S) | 2:48 |
+| 46 | [Ya No Dueles](https://open.spotify.com/track/1CVaF9hZmlZWSDMM6tFdb3) | [Dennis Arana](https://open.spotify.com/artist/091aVX0Jur4ClmN1k1VJVw), [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh) | [Ya No Dueles](https://open.spotify.com/album/4MuZgMI05gSqTVkDXDsL7S) | 2:48 |
+| 47 | [Eclipse de Luna \- Edición Especial](https://open.spotify.com/track/3kYAIegzm6Ounx1nFg2mxa) | [Playa Limbo](https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8), [Aleks Syntek](https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi) | [Eclipse de Luna \(Edición Especial\)](https://open.spotify.com/album/72B74qlICDqsf9R9mtSQWR) | 3:40 |
 | 48 | [Nuestro Amor](https://open.spotify.com/track/4pVU2WuPxcJGwj4qLt1jwg) | [Moderatto](https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg), [Anahí](https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri) | [Nuestro Amor](https://open.spotify.com/album/6RpfB6bVBvtoroyzFNFRCp) | 3:42 |
 | 49 | [Despertar](https://open.spotify.com/track/2zvKyZEqzTHCFseMncakGl) | [Karen Polinesia](https://open.spotify.com/artist/1sl6PdP9LqFUWmrt7bV23E), [Los Polinesios](https://open.spotify.com/artist/089IZ7FwRjpOxPypnAG7kW) | [Despertar](https://open.spotify.com/album/1YLJe893LXBJ91Y9ZKOnfh) | 3:18 |
 | 50 | [Dime Dime](https://open.spotify.com/track/6LvGw0k9GkebNNajrSsyat) | [Karol Sevilla](https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3) | [Dime Dime](https://open.spotify.com/album/4u9rSMKrjy183jBqvXkOv2) | 3:09 |
 
-Snapshot ID: `MTY2MDg4NTIwMCwwMDAwMDAwMGVjMzhkYjliMjUxYjllODA0OWNhOTY0MmNlMTRhZjA4`
+Snapshot ID: `MTY2MDg4NTIwMCwwMDAwMDAwMDI0NGE1MDcwMDQ3MGYxNDBmOTg4MjdmNWNiZjI4MDc2`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-01",
-  "description": "From the Congo, to the world. / Du Congo, au monde. \ud83c\udf0d  Photo: Serge Ibaka",
+  "description": "From the Congo, to the world. / Du Congo, au monde. \ud83c\udf0d  Photo: Innoss'B",
   "name": "Biso Na Biso",
   "published_playlist_ids": [
     "0QsAyPkUkQJAP3188u2g45"
@@ -693,7 +693,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 245603,
       "name": "Elengi (feat. Koffi Olomide)",
       "url": "https://open.spotify.com/track/0TBRFyidKDV8Gswfc4haxh"
@@ -1334,6 +1334,28 @@
     },
     {
       "album": {
+        "name": "Muselu",
+        "url": "https://open.spotify.com/album/3c6N0JVOcFLrMMhFQOPoj3"
+      },
+      "artists": [
+        {
+          "name": "Innoss'B",
+          "url": "https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV"
+        },
+        {
+          "name": "Dj Izzo",
+          "url": "https://open.spotify.com/artist/11blWfNKSduuXQUmpMIve5"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208366,
+      "name": "Muselu",
+      "url": "https://open.spotify.com/track/3OkLPaGFAjbpCVC31V6pNL"
+    },
+    {
+      "album": {
         "name": "Mutu EBEBA",
         "url": "https://open.spotify.com/album/6ePKPQSOmiFxZYb9qyFemo"
       },
@@ -1495,6 +1517,28 @@
       "duration_ms": 325826,
       "name": "Ngwende",
       "url": "https://open.spotify.com/track/5aanLdGgQfMm3qUViDhw2i"
+    },
+    {
+      "album": {
+        "name": "Nina",
+        "url": "https://open.spotify.com/album/6gYE1CUrLLIVw0uMNoSB6b"
+      },
+      "artists": [
+        {
+          "name": "Stone Komo",
+          "url": "https://open.spotify.com/artist/30ZQRYlnhYefXWcsiNUvye"
+        },
+        {
+          "name": "Pson",
+          "url": "https://open.spotify.com/artist/1Fxk1V3Q9mWXoUKX1LnEAt"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172427,
+      "name": "Nina",
+      "url": "https://open.spotify.com/track/1W5DSRAV2v550mvABI4ALR"
     },
     {
       "album": {
@@ -2039,7 +2083,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 240707,
       "name": "Tu M'as Tout Donn\u00e9 - Extended Version",
       "url": "https://open.spotify.com/track/3jt07FhLh159y0nT9sjP7R"

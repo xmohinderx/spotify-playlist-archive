@@ -2380,6 +2380,24 @@
     },
     {
       "album": {
+        "name": "rising up",
+        "url": "https://open.spotify.com/album/66RANndnyemYjUFz5k7pU1"
+      },
+      "artists": [
+        {
+          "name": "Juri van Saal",
+          "url": "https://open.spotify.com/artist/4A2xXIV6Lb1Rn69X3sQanA"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133568,
+      "name": "rising up",
+      "url": "https://open.spotify.com/track/5RxLG7r3eNDNr063e55E0M"
+    },
+    {
+      "album": {
         "name": "Hometown Glory",
         "url": "https://open.spotify.com/album/3d4YBR8sYyDxiaCfB2PK6l"
       },

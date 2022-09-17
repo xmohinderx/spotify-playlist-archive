@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JHtri4qWRK.md) - [plain]
 
 > R&B jams for the brokenhearted.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,969 likes - 100 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,971 likes - 100 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,10 +27,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JHtri4qWRK.md) - [plain]
 | 17 | [No Air \(feat\. Chris Brown\)](https://open.spotify.com/track/1jUA4rb6ZCv4gby4YU53xq) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Jordin Sparks](https://open.spotify.com/album/6JCNOvp9UeMrFuXwNW0JW6) | 4:24 |
 | 18 | [Out Of Reach](https://open.spotify.com/track/0HKD13PLq2WicViBBhSrOl) | [Gabrielle](https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi) | [Rise](https://open.spotify.com/album/2KOwfgyufhsAO3Qaycw7sX) | 3:16 |
 | 19 | [Nobody But You](https://open.spotify.com/track/6VFKuuqSbA1GpMEosUgTwQ) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Nobody But You](https://open.spotify.com/album/0HaY1bBhaYUEXBOSva6Pf7) | 3:33 |
-| 20 | [Over](https://open.spotify.com/track/1DOgkaR5Gqa8JtPEIbQORC) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Over](https://open.spotify.com/album/5AnJbiMebwoHI7mwgbhv2H) | 3:25 |
+| 20 | [End Of The Road](https://open.spotify.com/track/3l3xTXsUXeWlkPqzMs7mPD) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Cooleyhighharmony \(Bonus Tracks Version\)](https://open.spotify.com/album/3jknvlUSe6D9Oyn2E3JBLO) | 5:51 |
 | 21 | [What Goes Around.../...Comes Around \(Interlude\)](https://open.spotify.com/track/3pD0f7hSJg2XdQ6udw5Tey) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [FutureSex/LoveSounds](https://open.spotify.com/album/2scB1uhcCI1TSf6b9TCZK3) | 7:28 |
 | 22 | [Session 32](https://open.spotify.com/track/2ktg2oZDyFAX3iY1QNkXl5) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Session 32](https://open.spotify.com/album/1q6DMLVcuKBfYpfJ1KWtKh) | 1:38 |
-| 23 | [End Of The Road](https://open.spotify.com/track/3l3xTXsUXeWlkPqzMs7mPD) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Cooleyhighharmony \(Bonus Tracks Version\)](https://open.spotify.com/album/3jknvlUSe6D9Oyn2E3JBLO) | 5:51 |
+| 23 | [Over](https://open.spotify.com/track/1DOgkaR5Gqa8JtPEIbQORC) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Over](https://open.spotify.com/album/5AnJbiMebwoHI7mwgbhv2H) | 3:25 |
 | 24 | [Irreplaceable](https://open.spotify.com/track/6RX5iL93VZ5fKmyvNXvF1r) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [B'Day Deluxe Edition](https://open.spotify.com/album/0Zd10MKN5j9KwUST0TdBBB) | 3:47 |
 | 25 | [Too Little Too Late](https://open.spotify.com/track/4T4NLIMypdmyUwK54jECk4) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [The High Road](https://open.spotify.com/album/3ym3JtyhWmVIJzEzTCCsHa) | 3:41 |
 | 26 | [B.S\. \(feat\. H.E.R.\)](https://open.spotify.com/track/63wx9vdskaXbYxyDx4oJCZ) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Chilombo](https://open.spotify.com/album/5jlE1zlhT3mEWw0mRpN920) | 3:32 |
@@ -74,14 +74,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JHtri4qWRK.md) - [plain]
 | 64 | [One Last Cry](https://open.spotify.com/track/3l9OCOG3Vt6c2lxeMyGSIY) | [Brian McKnight](https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9) | [Brian McKnight](https://open.spotify.com/album/2LftuOQxTIDRfHYOGaCJJG) | 4:55 |
 | 65 | [You Can't Save Me](https://open.spotify.com/track/5LKzqs734Xs528hqK8bGS1) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Chasing Summer](https://open.spotify.com/album/5zUDvKAyEKkrhYLWJJWGPQ) | 2:54 |
 | 66 | [Addicted](https://open.spotify.com/track/778x5bolqJeICcrtSBNrko) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Be Right Back](https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi) | 3:24 |
-| 67 | [Losing You](https://open.spotify.com/track/5bMSO2vubGmv2tFfXbLlY9) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [True](https://open.spotify.com/album/3r9UTfGCgZLCOhV7cz99YC) | 4:20 |
+| 67 | [Heard It All Before](https://open.spotify.com/track/0xikWgPgYN9BEes0ieZ8Co) | [Sunshine Anderson](https://open.spotify.com/artist/0hnmRa5ahunapQbPjKUbMK) | [Your Woman](https://open.spotify.com/album/2y7sSNd02a5uTfauRPY0lp) | 4:55 |
 | 68 | [Pray You Catch Me](https://open.spotify.com/track/7rLDARtJALM7QdiJDMXW7m) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Lemonade](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) | 3:15 |
-| 69 | [Heard It All Before](https://open.spotify.com/track/0xikWgPgYN9BEes0ieZ8Co) | [Sunshine Anderson](https://open.spotify.com/artist/0hnmRa5ahunapQbPjKUbMK) | [Your Woman](https://open.spotify.com/album/2y7sSNd02a5uTfauRPY0lp) | 4:55 |
+| 69 | [Losing You](https://open.spotify.com/track/5bMSO2vubGmv2tFfXbLlY9) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [True](https://open.spotify.com/album/3r9UTfGCgZLCOhV7cz99YC) | 4:20 |
 | 70 | [Torn](https://open.spotify.com/track/6GPiKalxD23rJirHKJm00X) | [LeToya](https://open.spotify.com/artist/5xenrbYhp4IRydrWpBe4Bx) | [Torn](https://open.spotify.com/album/0qEfwM5awxL1CIUXMDE1ah) | 4:09 |
 | 71 | [Missing You](https://open.spotify.com/track/0CmXXEwul09Kf8X68lPA5l) | [Case](https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy) | [Open Letter](https://open.spotify.com/album/5nfFCN6B0AhReHctfLi1vL) | 4:44 |
-| 72 | [LOST YOU](https://open.spotify.com/track/26aJMMLBSOQmiC4JenVjjl) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [TEMPORARY HIGHS IN THE VIOLET SKIES](https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3) | 2:57 |
+| 72 | [I Can Love You](https://open.spotify.com/track/4MTHIKGWNTBoubzDMkXFfa) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [Share My World](https://open.spotify.com/album/11s3RAPMk0LpsZhuniepSW) | 4:46 |
 | 73 | [Love Drought](https://open.spotify.com/track/2RQAG0wQt35UzAPEyVJFWN) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Lemonade](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) | 3:57 |
-| 74 | [I Can Love You](https://open.spotify.com/track/4MTHIKGWNTBoubzDMkXFfa) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [Share My World](https://open.spotify.com/album/11s3RAPMk0LpsZhuniepSW) | 4:46 |
+| 74 | [LOST YOU](https://open.spotify.com/track/26aJMMLBSOQmiC4JenVjjl) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [TEMPORARY HIGHS IN THE VIOLET SKIES](https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3) | 2:57 |
 | 75 | [It's Over Now](https://open.spotify.com/track/769geiA8btidGHda4BBDOJ) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [Part III](https://open.spotify.com/album/6QlbqTqKJt1UnuH3PLz9mb) | 4:24 |
 | 76 | [Emotion](https://open.spotify.com/track/01Aj44KIjCrPmZeXq4UOky) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Survivor](https://open.spotify.com/album/480AZOo2VQ1kf3GedAiKV9) | 3:56 |
 | 77 | [Promises](https://open.spotify.com/track/6aQ7nlAEOhhRnsHi6eY0zT) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Mother](https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR) | 4:24 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JHtri4qWRK.md) - [plain]
 | 82 | [Charlene](https://open.spotify.com/track/0xiuSFBOEHWaJ6rSuUbJWc) | [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [Comin' From Where I'm From](https://open.spotify.com/album/0qN4uk3SGen6vUOjImJ6em) | 4:06 |
 | 83 | [Need U Bad](https://open.spotify.com/track/0Ri0LzOMJmqi9HGZE5cRYV) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Fearless](https://open.spotify.com/album/2V99Z0aZgSK6XTbh19UYTU) | 4:17 |
 | 84 | [Make Me Cry](https://open.spotify.com/track/6zR3jAXgWCs9wmW1r4XGyk) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Make Me Cry](https://open.spotify.com/album/71SoFumWoKRAZkH2ekWYpF) | 2:42 |
-| 85 | [I Bet](https://open.spotify.com/track/20lNo44eUUCnyNNInzwkv9) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Jackie \(Deluxe\)](https://open.spotify.com/album/1vxEYHEzZI2l1AyZOtVHKJ) | 4:47 |
-| 86 | [No More \(Baby I'ma Do Right\)](https://open.spotify.com/track/5zn1hpm9N0ylKB7kOtpCw2) | [3LW](https://open.spotify.com/artist/2lFHVcUeJ9Gq6AZiU3ZAOa) | [3LW](https://open.spotify.com/album/7l1ra4zaCXyfr4yTby63t7) | 4:23 |
+| 85 | [No More \(Baby I'ma Do Right\)](https://open.spotify.com/track/5zn1hpm9N0ylKB7kOtpCw2) | [3LW](https://open.spotify.com/artist/2lFHVcUeJ9Gq6AZiU3ZAOa) | [3LW](https://open.spotify.com/album/7l1ra4zaCXyfr4yTby63t7) | 4:23 |
+| 86 | [I Bet](https://open.spotify.com/track/20lNo44eUUCnyNNInzwkv9) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Jackie \(Deluxe\)](https://open.spotify.com/album/1vxEYHEzZI2l1AyZOtVHKJ) | 4:47 |
 | 87 | [Officially Missing You](https://open.spotify.com/track/6CUTYJQKcDwcQ63EulINUo) | [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in) | [More](https://open.spotify.com/album/43QuYbSfbTjcsghwJyUnyP) | 4:02 |
 | 88 | [Sober](https://open.spotify.com/track/3C57ewlHARCVqeH3KiYkma) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Sober](https://open.spotify.com/album/7BCTfMzue11vOGekGO0xL0) | 4:26 |
 | 89 | [Think About Me](https://open.spotify.com/track/4LkLfPYc3yjOta7Gk8FDRB) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Morning After](https://open.spotify.com/album/6rXy4b147LkM3muZKuALSX) | 4:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JHtri4qWRK.md) - [plain]
 | 99 | [Soon as I Get Home](https://open.spotify.com/track/6SkGfPa77E4giShVbk9N6R) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Faith](https://open.spotify.com/album/36G7gDkkRckUGU7lgG6nev) | 5:24 |
 | 100 | [Fair Chance](https://open.spotify.com/track/7dZ83x0X0QnZfm1mvJ83bn) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Lil B](https://open.spotify.com/artist/4bbjivSh1oG4NOc7uYHfw5) | [It Is What It Is](https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9) | 3:57 |
 
-Snapshot ID: `MTYzOTQ4NjYxNiwwMDAwMDAwMDAzZmU3YmEzNzcxOWQ2YTEzY2U2MGNjM2Y3Y2YxNDk4`
+Snapshot ID: `MTYzOTQ4NjYxNiwwMDAwMDAwMGUwZDg2N2FmNjQzMDQ3NjA2MDJiMmIzN2VkZWM1ZWE2`

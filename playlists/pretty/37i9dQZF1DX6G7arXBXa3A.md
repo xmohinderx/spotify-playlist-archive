@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6G7arXBXa3A.md) - [plain]
 
 > Big bands, big sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,789 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,821 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6G7arXBXa3A.md) - [plain]
 | 27 | [Lullaby of Broadway \(with Harry James & His Orchestra\)](https://open.spotify.com/track/0qPeyVfebszZcHTUc48Lzl) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6), [Harry James](https://open.spotify.com/artist/5MpELOfAiq7aIBTij30phD) | [Golden Girl \(The Columbia Recordings 1944\-1966\)](https://open.spotify.com/album/5Vck2QyeSlhWymxrnQWpoM) | 2:51 |
 | 28 | [Honeysuckle Rose](https://open.spotify.com/track/10Hiskp06jZeXKjiYbkuj7) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32), [Hawkins C\. All Star Jam Band](https://open.spotify.com/artist/2a3WvnK2EAxYYXyJZ8OxVz) | [Djangologie Vol.4 / 1937](https://open.spotify.com/album/46Ffy1LBhLRzUAz53jMIVI) | 2:46 |
 | 29 | [Take The "A" Train](https://open.spotify.com/track/5OjlWOb1Iilm0QFLh17j3U) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Ella Fitzgerald Sings The Duke Ellington Song Book](https://open.spotify.com/album/2VgS17fUEsUer5nCbM2juj) | 6:44 |
-| 30 | [Whirly\-Bird](https://open.spotify.com/track/5YtcHwvM9O2BayUOsghqhO) | [Count Basie Orchestra](https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe) | [The Atomic Mr Basie](https://open.spotify.com/album/03M3VID0s2wANlxJIJBWKb) | 3:52 |
-| 31 | [Jazz Me Blues](https://open.spotify.com/track/1HCR0Img7vPgXCHxeSCtK6) | [Woody Herman](https://open.spotify.com/artist/2KSxJY1WxGGVYSmoM0N54P) | [Verve Jazz Masters 54](https://open.spotify.com/album/5VSUS19ItaqyZwSNV7CRuo) | 3:04 |
+| 30 | [Jazz Me Blues](https://open.spotify.com/track/1HCR0Img7vPgXCHxeSCtK6) | [Woody Herman](https://open.spotify.com/artist/2KSxJY1WxGGVYSmoM0N54P) | [Verve Jazz Masters 54](https://open.spotify.com/album/5VSUS19ItaqyZwSNV7CRuo) | 3:04 |
+| 31 | [Whirly\-Bird](https://open.spotify.com/track/5YtcHwvM9O2BayUOsghqhO) | [Count Basie Orchestra](https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe) | [The Atomic Mr Basie](https://open.spotify.com/album/03M3VID0s2wANlxJIJBWKb) | 3:52 |
 | 32 | [I Can't Believe That You're In Love With Me](https://open.spotify.com/track/57sdRcA5sfIFOKFjReXp2P) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Great American Songbook](https://open.spotify.com/album/3AiEMTv9oFDRaDjqv93mOU) | 3:03 |
 | 33 | [Let The Good Times Roll](https://open.spotify.com/track/2dFJA0ZQ2OjA8TWjEV6P5n) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK) | [Q's Jook Joint](https://open.spotify.com/album/5zq1m9RP5iwHBRQlgbROx1) | 2:55 |
 | 34 | [Jack, You're Dead!](https://open.spotify.com/track/1EbSCkFjbaTncuamPWPq11) | [Joe Jackson](https://open.spotify.com/artist/6KOqPxwfNAmZPkiCnDE9yT) | [Jumpin' Jive \(Remastered 1999\)](https://open.spotify.com/album/7spQJsP6dimhGMNgsBYaRO) | 2:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6G7arXBXa3A.md) - [plain]
 | 49 | [I Didn´t Tell Them Why](https://open.spotify.com/track/16yjO1COFYdqvjg0r6sweq) | [Andrea Motis](https://open.spotify.com/artist/6CEcslhZk3A6cnin9neg5j), [WDR Big Band](https://open.spotify.com/artist/5oldzkZrHypxJpr1ri05Fu) | [I Didn´t Tell Them Why](https://open.spotify.com/album/5MMnRfc7EhstEv91b1itP7) | 4:57 |
 | 50 | [Echelon](https://open.spotify.com/track/0GHiAT0RLCsrikRft0KWVC) | [Grace Fox](https://open.spotify.com/artist/4KElbiDxExy2tMzRY4Za4h), [Jade Elliott](https://open.spotify.com/artist/6ttM0s7Iwbj2AoLMYn439s) | [Eleven O' Seven](https://open.spotify.com/album/22QxiGLLD9fnMWupEw9x4v) | 9:25 |
 
-Snapshot ID: `MTY1ODQ2MjUyMCwwMDAwMDAwMDc5MGIwODUyNDNmYjI3NGE0YmVmZDQ5M2MzNDZjNjA3`
+Snapshot ID: `MTY1ODQ2MjUyMCwwMDAwMDAwMGQzOWM3ZjJjZjFhZDNkZjE1MDExNzc2Y2MwNWJlNTU1`

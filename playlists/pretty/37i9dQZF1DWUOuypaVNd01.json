@@ -1,12 +1,12 @@
 {
   "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: Nochica, Vitin, SD9, JEFFRO",
-  "num_followers": 18939,
+  "num_followers": 18989,
   "original_name": "Malandro Posturado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5MjQ2MCwwMDAwMDAwMDhkNzJlNzk2NzUyYTBiMzk1ZTE5M2Y3N2MzYTA0YWNl",
+  "snapshot_id": "MTY2MjY5MjQ2MCwwMDAwMDAwMGViZDE5NTA1ZWIzZThlMzRiNWViMzdmMWFlNWFmODVj",
   "tracks": [
     {
       "added_at": "2022-09-09 03:01:00",
@@ -143,30 +143,6 @@
     {
       "added_at": "2022-09-09 03:01:00",
       "album": {
-        "name": "Trof\u00e9u",
-        "url": "https://open.spotify.com/album/5M274S1cUS8suxN7aD4hvp"
-      },
-      "artists": [
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "Rock Danger",
-          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
-        },
-        {
-          "name": "El Lif Beatz",
-          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
-        }
-      ],
-      "duration_ms": 139328,
-      "name": "Como \u00c9 Que T\u00e1?",
-      "url": "https://open.spotify.com/track/64bJ83px2Htf20Eo3n9trz"
-    },
-    {
-      "added_at": "2022-09-09 03:01:00",
-      "album": {
         "name": "12",
         "url": "https://open.spotify.com/album/68m25Mk20x1Ux9gd9QSoPb"
       },
@@ -187,6 +163,30 @@
       "duration_ms": 120958,
       "name": "12",
       "url": "https://open.spotify.com/track/0o0wW2KjzK3Cg3RM29lCbI"
+    },
+    {
+      "added_at": "2022-09-09 03:01:00",
+      "album": {
+        "name": "Trof\u00e9u",
+        "url": "https://open.spotify.com/album/5M274S1cUS8suxN7aD4hvp"
+      },
+      "artists": [
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "El Lif Beatz",
+          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
+        }
+      ],
+      "duration_ms": 139328,
+      "name": "Como \u00c9 Que T\u00e1?",
+      "url": "https://open.spotify.com/track/64bJ83px2Htf20Eo3n9trz"
     },
     {
       "added_at": "2022-09-09 03:01:00",

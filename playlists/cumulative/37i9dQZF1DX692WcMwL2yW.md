@@ -4,7 +4,7 @@
 
 > Stay focused with electronic and trap beats.
 
-297 songs - 13 hr 53 min - [published](https://open.spotify.com/playlist/429tTbbut5PiLd9eaOOdPG)
+302 songs - 14 hr 6 min - [published](https://open.spotify.com/playlist/429tTbbut5PiLd9eaOOdPG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Aftershock](https://open.spotify.com/track/6X2DG2wogUVDPyKWkK8jBC) | [Auracane](https://open.spotify.com/artist/1iuQp6PLtiGhfyhFBacmT8) | [Quake](https://open.spotify.com/album/44V58chGzXo8ql3f0Ds9vX) | 2:42 | 2021-04-26\* |  |
 | [Ain't Shit Free](https://open.spotify.com/track/4RXpJgl2Q4ZEHaExw9YnzJ) | [Green Piccolo](https://open.spotify.com/artist/0Of8ndqAY23l2wV3sS6Zez) | [Ain't Shit Free](https://open.spotify.com/album/5KJhwBaUGaPhWCXiyo1Rzv) | 3:17 | 2021-05-07 | 2022-07-29 |
 | [Ain't Shit Free](https://open.spotify.com/track/5IfXAwIrFnymwN0RGaSIeT) | [Green Piccolo](https://open.spotify.com/artist/0Of8ndqAY23l2wV3sS6Zez) | [Ain't Shit Free](https://open.spotify.com/album/3TREMXQuq6rpRSnyzepFdH) | 3:17 | 2022-07-29 |  |
-| [All Of Them](https://open.spotify.com/track/2GmCYDUX9GR7XXBU76C0s9) | [M4YD4Y](https://open.spotify.com/artist/2kx8AVFwczHrxz0PLL25Qt) | [Imperfectionist](https://open.spotify.com/album/6Msn1kQREtbLla2wJTfDlZ) | 1:51 | 2021-04-26\* |  |
+| [All Of Them](https://open.spotify.com/track/2GmCYDUX9GR7XXBU76C0s9) | [M4YD4Y](https://open.spotify.com/artist/2kx8AVFwczHrxz0PLL25Qt) | [Imperfectionist](https://open.spotify.com/album/6Msn1kQREtbLla2wJTfDlZ) | 1:51 | 2021-04-26\* | 2022-09-17 |
 | [All the Frogs](https://open.spotify.com/track/5Zxcm8La3J8yCyPA4FpzAe) | [Freddy Peterson](https://open.spotify.com/artist/1RzMfKmdmXJb7xWw7GPAgt) | [Underwater Cactus](https://open.spotify.com/album/1rFPmXsf0UETLNia2pEfHm) | 2:03 | 2021-04-26\* | 2022-05-27 |
 | [Alright!!!](https://open.spotify.com/track/7nf0SbQqrLkwNOjLH6J4PO) | [Blu Beats](https://open.spotify.com/artist/4RGM8nv60UrFGArNSyCZdY) | [Butterscotch](https://open.spotify.com/album/2VO7rHl5HkUVeSU67nDOLI) | 3:30 | 2021-10-14 |  |
 | [Amber](https://open.spotify.com/track/1evwA28dL7t3r5eG3DOmmj) | [Fadez N Riser](https://open.spotify.com/artist/11RjmGA0jW6k35CqEGjl8n) | [Amber](https://open.spotify.com/album/5Ugj8cXqKSZ1YLNQ5dLTZT) | 2:48 | 2021-10-14 |  |
@@ -64,8 +64,9 @@
 | [Crusher](https://open.spotify.com/track/7cIq5PeAUnSUtRC2JXlkf9) | [Treyon Dubs](https://open.spotify.com/artist/4pI8EDlzNqCOIndxbX5RFo) | [Crusher](https://open.spotify.com/album/4vT7wnlg3P4XpCaEnmRlAB) | 3:00 | 2022-09-09 |  |
 | [Czar](https://open.spotify.com/track/6yZHd3WftNMEkQK51mQMrq) | [Slim Rex](https://open.spotify.com/artist/1HuOkLUeW7mCWXf8ZnEVNX) | [Czar](https://open.spotify.com/album/5k2PGTZx2rzpEubPeA0a2r) | 2:39 | 2022-09-02 |  |
 | [Dante's Debacle](https://open.spotify.com/track/1NaxaiFHVO21x2yNF7EdQn) | [FØRTE](https://open.spotify.com/artist/46vhqe1g0BJGdspci0dwbF) | [Dante's Debacle](https://open.spotify.com/album/1SF7PpYlqXHzBXCmGQQVJI) | 3:09 | 2021-04-26\* | 2022-05-14 |
+| [danyyye](https://open.spotify.com/track/5gJ9rmN0ix8XkyX7FhxTso) | [Lukas Got Lucky](https://open.spotify.com/artist/1XlWDjMcmW7HVs9m5BjGDF) | [danyyye / rowdy](https://open.spotify.com/album/0Rtjj04prMwTFjlREiwKHH) | 2:44 | 2022-09-16 |  |
 | [Dark Driller](https://open.spotify.com/track/5oV8ZbsR5V3qYosiPanwn0) | [Fathomist B't](https://open.spotify.com/artist/7rPDCHQp2TrTEwaZRLvVD8) | [Dark Driller](https://open.spotify.com/album/1kDL8AlPDymFcCbq0XWJZb) | 3:44 | 2022-05-20 |  |
-| [Daz](https://open.spotify.com/track/6P4UKqyzjaIXSVgaBKy2pn) | [Manonesque](https://open.spotify.com/artist/1QJoPaMpPM8VAYEFzKJSLG) | [Daz](https://open.spotify.com/album/5Y6wMfvkvKWYyHhhSaXpmH) | 2:47 | 2021-11-10 |  |
+| [Daz](https://open.spotify.com/track/6P4UKqyzjaIXSVgaBKy2pn) | [Manonesque](https://open.spotify.com/artist/1QJoPaMpPM8VAYEFzKJSLG) | [Daz](https://open.spotify.com/album/5Y6wMfvkvKWYyHhhSaXpmH) | 2:47 | 2021-11-10 | 2022-09-17 |
 | [Diamond](https://open.spotify.com/track/76eugDRGuXdmmewhJtCuU0) | [DJ M](https://open.spotify.com/artist/3P5DeQSZXl547HcStiUkoY) | [Diamond](https://open.spotify.com/album/3RVyMhWyrEqRwkWkaBD2cI) | 2:36 | 2021-04-26\* | 2021-08-26 |
 | [Dimes](https://open.spotify.com/track/0lvgCep2yv7x6eQlT5Xanu) | [Lazy Lovers](https://open.spotify.com/artist/1HMmdYdBAElZlWljQBAoCq) | [Big Little Man](https://open.spotify.com/album/22DORZ7yDp2y3bu4hIw7Wc) | 3:36 | 2021-11-10 | 2022-07-22 |
 | [Dior](https://open.spotify.com/track/5taACEkO7njxSO6J6vJKvN) | [Lofi Chill Hip Hop Beat](https://open.spotify.com/artist/67zHwgyDYiE73CKWv5rMHT) | [Certified Lover Boy](https://open.spotify.com/album/2gY1mHdwqG8sA9lkaBMbiA) | 3:39 | 2021-07-09 | 2021-10-14 |
@@ -119,6 +120,7 @@
 | [Gangster Rap Beat](https://open.spotify.com/track/1qJvHwzLoPVQRe0tALYSO5) | [Suhail Ahmad](https://open.spotify.com/artist/2ZpK8jtlu8EnNAZZnMyYLk) | [Gangster Rap Beat](https://open.spotify.com/album/34qjwTwdASTioqGE00HMEb) | 3:19 | 2021-05-07 | 2021-06-18 |
 | [Gogh](https://open.spotify.com/track/5vyVUBGUkdlIvSCVyLhlz6) | [Slim Rex](https://open.spotify.com/artist/1HuOkLUeW7mCWXf8ZnEVNX) | [Gogh](https://open.spotify.com/album/63sPq8YeeaClKpUy9m2zpn) | 2:37 | 2021-11-10 |  |
 | [GQ](https://open.spotify.com/track/1u1Vm4cXZC6obgukTjYPX7) | [BLUE STEEL](https://open.spotify.com/artist/41OiR6DTlbgJtrvqjKioMb) | [Starpower](https://open.spotify.com/album/2Pnt9baDF2LhYGqXAmrvaH) | 2:22 | 2021-06-04 | 2021-10-14 |
+| [Happy Trap](https://open.spotify.com/track/3NKRNH11HPKqw9LUC7QeVR) | [Electro Ponzu](https://open.spotify.com/artist/7p1sA3P2zp1rIrkr9DNxfz) | [Happy Trap](https://open.spotify.com/album/3VK7GQ7jFQSU5JsiruhBrM) | 2:14 | 2022-09-16 |  |
 | [Haute](https://open.spotify.com/track/3lvxTsa881E4gc6GHEOKGL) | [BLUE STEEL](https://open.spotify.com/artist/41OiR6DTlbgJtrvqjKioMb) | [Haute](https://open.spotify.com/album/0Y5EmDx0BdNzVkZxyGGy5i) | 2:05 | 2022-08-12 |  |
 | [Hear Me](https://open.spotify.com/track/7dAzaQXqBqSTPfzC1rINqB) | [Sonliks](https://open.spotify.com/artist/2Y4KIlGIRi4REFRLuJ3uiq) | [Hear Me](https://open.spotify.com/album/4w1IUNKohLCeMuBoS3Svw1) | 2:48 | 2021-08-26 |  |
 | [Hear Me Now](https://open.spotify.com/track/42Le6tvNm5uoO2XLutwPeG) | [Ahmet Sarlak](https://open.spotify.com/artist/2zrnDU6HAQ6gRiTY3EKFKh) | [Wrong Time](https://open.spotify.com/album/5YWKhzrtxDX5MdxnTf9Kmo) | 2:16 | 2021-04-26\* | 2021-08-26 |
@@ -134,6 +136,7 @@
 | [I See it Coming](https://open.spotify.com/track/48Xm5taNqpo0JoeWToC3RR) | [Moni Section](https://open.spotify.com/artist/7JRvm5GQzBVLrq7nqFgUpS) | [I See it Coming](https://open.spotify.com/album/6sNaXLan0jNEamLBKjmr0N) | 1:40 | 2021-04-26\* | 2022-05-14 |
 | [Iacta](https://open.spotify.com/track/13Ko7UiTNt5B8NfXcRLcVQ) | [palence](https://open.spotify.com/artist/2hP9ky7jNcqy6F3nYKSGt8) | [Telophase](https://open.spotify.com/album/0cIOvhDeIbCLAVOLZaToIY) | 2:45 | 2021-08-26 |  |
 | [Ice Rink](https://open.spotify.com/track/7kqeab2d9HlSk4KRSlogXB) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [Big Sal](https://open.spotify.com/album/6QMP7CSxNbl7nPCK8fqSTJ) | 2:18 | 2021-04-26\* | 2021-06-18 |
+| [In Da Pot](https://open.spotify.com/track/4rii3ggIUkSgDoVU6FnFyC) | [Triangle Spirits](https://open.spotify.com/artist/2JoSNJu22yWingeosZDvxs) | [In Da Pot](https://open.spotify.com/album/07LTbLOWIB40xH0SLFsAX4) | 2:53 | 2022-09-16 |  |
 | [Intrepid](https://open.spotify.com/track/4FF2yXuwxAVwQzCyDj0rRU) | [Screwbar](https://open.spotify.com/artist/4wFYoFRNMyPuk7YbtENoz9) | [Intrepid](https://open.spotify.com/album/2tjwpsIYUyYPrTEeHpMf9B) | 2:54 | 2021-11-10 |  |
 | [Ipanema](https://open.spotify.com/track/35wMZtYtVpNS1sVATrU5H5) | [Elixrr River](https://open.spotify.com/artist/1PwXZbR5QgqYL93wbnBzah) | [Pad Guy](https://open.spotify.com/album/3Q3gMjDdZ9BpZhz05TqL1s) | 4:29 | 2021-10-14 |  |
 | [Jaxxon](https://open.spotify.com/track/0AhsGBXcirKOnkoOnATDuI) | [Hillside Reds](https://open.spotify.com/artist/2UPmPftzM6G8utXa3RQ2MB) | [Jaxxon](https://open.spotify.com/album/2uQPnSPTSyBx4uOd7UyFQY) | 2:57 | 2022-03-04 |  |
@@ -298,7 +301,9 @@
 | [Whis](https://open.spotify.com/track/1KswaDddiXqRnneChbrOwL) | [Charles M](https://open.spotify.com/artist/20rOuJzUYSNKfaWM69IZb3) | [Hunter Z](https://open.spotify.com/album/6w4N0qQOoZUqg0xB6Swlbg) | 2:00 | 2021-06-18 | 2022-05-27 |
 | [White Dunes](https://open.spotify.com/track/1jJl0ktn8NMZyFPxsvYegs) | [Silvana](https://open.spotify.com/artist/6DZ0eHndSzs3pEznIu5OXi) | [White Dunes](https://open.spotify.com/album/3w6V1qsear1D59Enm5TeAZ) | 1:43 | 2022-04-22 |  |
 | [WHOOP](https://open.spotify.com/track/3PGz3wX33EZtd50ImTp6th) | [Polis Sitz](https://open.spotify.com/artist/2GHmWUuciILR03aob99yj1) | [Gumley](https://open.spotify.com/album/12xQ09YFisnLeTNB6ANwBB) | 2:36 | 2022-07-22 |  |
+| [why it can't be](https://open.spotify.com/track/2OtHVCoDfgVML6XtAOyBaF) | [Toby Tranter](https://open.spotify.com/artist/6jQ21P9GEZfQf4aOMoTYDj) | [why it can't be](https://open.spotify.com/album/5BC8qtNQap7ekRV5LaV6jW) | 3:04 | 2022-09-16 |  |
 | [Wilhelm](https://open.spotify.com/track/4vQVNL13OHXdXSMtYSChcg) | [Neon Lighthouse](https://open.spotify.com/artist/3EwvgZOFqqGPO7Xfgw4wcg) | [Wilhelm](https://open.spotify.com/album/2KiHSDtLfCc0WJsISOF3Hd) | 3:01 | 2022-06-10 |  |
+| [Won't Stop](https://open.spotify.com/track/05oxpaq92ctovhIcYlApbm) | [Amarie Beniot](https://open.spotify.com/artist/1JIWMKBNh5VIRh2kudpEMO) | [Won't Stop](https://open.spotify.com/album/6wBYCPMlXwPlmUM1GhvrRV) | 2:32 | 2022-09-16 |  |
 | [Wonderland](https://open.spotify.com/track/7IpMCQSwhwQOjb8cHr7ViV) | [Djsneverendingstory](https://open.spotify.com/artist/5H53Vq7VfrqjdEMX3mx5Xp) | [Wonderland](https://open.spotify.com/album/3dL5EuR6gRlgWhmMbWId0i) | 4:03 | 2021-04-26\* | 2022-09-09 |
 | [Worth It](https://open.spotify.com/track/79s7lALWj5I5LS2v37APK3) | [Fadez N Rizer](https://open.spotify.com/artist/0Byvk0rx8JPDyTBHKnIfbP) | [Worth It](https://open.spotify.com/album/7rix5AYPgRpy0AD9EfUT9x) | 2:46 | 2022-05-20 |  |
 | [Write Off](https://open.spotify.com/track/621MnT5Wi73X0Gp2lmwZ0M) | [Charles Hewits](https://open.spotify.com/artist/2ZvZcOt4Ybj9aTI4FZ1amd) | [Write Off](https://open.spotify.com/album/3pgXKSIeRbS7RLbeLnubHd) | 2:44 | 2021-11-10 |  |

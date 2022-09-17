@@ -1,12 +1,12 @@
 {
   "description": "The feelings you can't put into words...only songs. Cover: Brent Faiyaz",
-  "num_followers": 34284,
+  "num_followers": 34351,
   "original_name": "Some Kinda Way",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5NjU3MCwwMDAwMDAwMDE5ZTgxNTU3ZWI4MjIwMjllNzMxMjk1NjliMWZjMjBl",
+  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMDZkNzM1ODU0YTM0NGQ5NzZhNTc0NTg3MDA1NWI0MWFi",
   "tracks": [
     {
       "added_at": "2022-07-15 04:00:00",
@@ -209,6 +209,22 @@
       "url": "https://open.spotify.com/track/5uXO1sjZ7VbNKexKaFRna3"
     },
     {
+      "added_at": "2022-09-09 04:09:30",
+      "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/2Wm8mlkUTt3yzDZ3qrPIe6"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 188579,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/4VY32hdU4byJ6cpEBAXRul"
+    },
+    {
       "added_at": "2022-07-15 04:00:00",
       "album": {
         "name": "Heart On My Sleeve",
@@ -227,22 +243,6 @@
       "duration_ms": 218320,
       "name": "How (feat. Roddy Ricch)",
       "url": "https://open.spotify.com/track/6w93UfN5MeXXQTrVIf5V6x"
-    },
-    {
-      "added_at": "2022-09-09 04:09:30",
-      "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/2Wm8mlkUTt3yzDZ3qrPIe6"
-      },
-      "artists": [
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 188579,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/4VY32hdU4byJ6cpEBAXRul"
     },
     {
       "added_at": "2022-09-09 04:09:30",
@@ -353,22 +353,6 @@
       "url": "https://open.spotify.com/track/7newfXclX39UwWTw2gDswM"
     },
     {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "Not Another Love Song",
-        "url": "https://open.spotify.com/album/5QJAMz9LqY5DC2BAjLmO7p"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 217801,
-      "name": "Not Another Love Song",
-      "url": "https://open.spotify.com/track/5XqDJFVCyRTm5J7cIfRmR1"
-    },
-    {
       "added_at": "2022-08-05 04:11:54",
       "album": {
         "name": "Good & Plenty (Remix)",
@@ -399,6 +383,22 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
+        "name": "Alone With You",
+        "url": "https://open.spotify.com/album/310ZzmkHr5zvYyqMkNhXlm"
+      },
+      "artists": [
+        {
+          "name": "Alina Baraz",
+          "url": "https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1"
+        }
+      ],
+      "duration_ms": 226278,
+      "name": "Alone With You",
+      "url": "https://open.spotify.com/track/0jHVNBt8A9L8qEAB8XxGuB"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
         "name": "Breezy",
         "url": "https://open.spotify.com/album/31U6s6obQrBLTqyvqfqzlM"
       },
@@ -419,18 +419,18 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "Alone With You",
-        "url": "https://open.spotify.com/album/310ZzmkHr5zvYyqMkNhXlm"
+        "name": "Not Another Love Song",
+        "url": "https://open.spotify.com/album/5QJAMz9LqY5DC2BAjLmO7p"
       },
       "artists": [
         {
-          "name": "Alina Baraz",
-          "url": "https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1"
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
         }
       ],
-      "duration_ms": 226278,
-      "name": "Alone With You",
-      "url": "https://open.spotify.com/track/0jHVNBt8A9L8qEAB8XxGuB"
+      "duration_ms": 217801,
+      "name": "Not Another Love Song",
+      "url": "https://open.spotify.com/track/5XqDJFVCyRTm5J7cIfRmR1"
     },
     {
       "added_at": "2022-09-09 04:09:30",
@@ -757,6 +757,30 @@
       "url": "https://open.spotify.com/track/6aQ7nlAEOhhRnsHi6eY0zT"
     },
     {
+      "added_at": "2022-09-09 04:09:30",
+      "album": {
+        "name": "LEGEND",
+        "url": "https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 234498,
+      "name": "Splash (feat. Jhen\u00e9 Aiko & Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/5Ip2VxpYt1dCD7MKmjrw52"
+    },
+    {
       "added_at": "2022-07-15 04:00:00",
       "album": {
         "name": "When It's All Said And Done",
@@ -825,28 +849,20 @@
       "url": "https://open.spotify.com/track/3xfz3yzwXhSQCSvJXoM7fY"
     },
     {
-      "added_at": "2022-09-09 04:09:30",
+      "added_at": "2022-08-05 04:11:54",
       "album": {
-        "name": "LEGEND",
-        "url": "https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT"
+        "name": "The Lead",
+        "url": "https://open.spotify.com/album/04wFsn459A8leDKrydRK56"
       },
       "artists": [
         {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        },
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
         }
       ],
-      "duration_ms": 234498,
-      "name": "Splash (feat. Jhen\u00e9 Aiko & Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/5Ip2VxpYt1dCD7MKmjrw52"
+      "duration_ms": 201621,
+      "name": "Feature Me",
+      "url": "https://open.spotify.com/track/1CcorUngVSo7k2GX8GLB53"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -863,22 +879,6 @@
       "duration_ms": 153226,
       "name": "Pain",
       "url": "https://open.spotify.com/track/51Q4Pn44Ys7D8GCNzVLDmg"
-    },
-    {
-      "added_at": "2022-08-05 04:11:54",
-      "album": {
-        "name": "The Lead",
-        "url": "https://open.spotify.com/album/04wFsn459A8leDKrydRK56"
-      },
-      "artists": [
-        {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        }
-      ],
-      "duration_ms": 201621,
-      "name": "Feature Me",
-      "url": "https://open.spotify.com/track/1CcorUngVSo7k2GX8GLB53"
     },
     {
       "added_at": "2022-08-05 04:11:54",
@@ -917,26 +917,6 @@
       "url": "https://open.spotify.com/track/2rZQC2Hwy4sClylYHg2MXI"
     },
     {
-      "added_at": "2022-08-05 04:11:54",
-      "album": {
-        "name": "Marigold",
-        "url": "https://open.spotify.com/album/5hMEASKNPus4JjSIO5BCqz"
-      },
-      "artists": [
-        {
-          "name": "Alex Isley",
-          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
-        },
-        {
-          "name": "Jack Dine",
-          "url": "https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE"
-        }
-      ],
-      "duration_ms": 205479,
-      "name": "Such A Thing",
-      "url": "https://open.spotify.com/track/7dAtplicSnwRymddH1qmpC"
-    },
-    {
       "added_at": "2022-07-15 04:00:00",
       "album": {
         "name": "KIKI",
@@ -957,6 +937,26 @@
       "url": "https://open.spotify.com/track/4uMvvCwqs046uxyJiFJTT1"
     },
     {
+      "added_at": "2022-08-05 04:11:54",
+      "album": {
+        "name": "Marigold",
+        "url": "https://open.spotify.com/album/5hMEASKNPus4JjSIO5BCqz"
+      },
+      "artists": [
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        },
+        {
+          "name": "Jack Dine",
+          "url": "https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE"
+        }
+      ],
+      "duration_ms": 205479,
+      "name": "Such A Thing",
+      "url": "https://open.spotify.com/track/7dAtplicSnwRymddH1qmpC"
+    },
+    {
       "added_at": "2022-08-26 04:41:34",
       "album": {
         "name": "Love Quotes",
@@ -975,22 +975,6 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "Dead To Me",
-        "url": "https://open.spotify.com/album/34Uw23xppTz4RJoZvxwSdY"
-      },
-      "artists": [
-        {
-          "name": "DaniLeigh",
-          "url": "https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d"
-        }
-      ],
-      "duration_ms": 133671,
-      "name": "Dead To Me",
-      "url": "https://open.spotify.com/track/38k5xUTekY8K6yVqHkbgIo"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
         "name": "Gaslight",
         "url": "https://open.spotify.com/album/4FxyBQB6mQTPWcyxoVZSrY"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 156121,
       "name": "Gaslight",
       "url": "https://open.spotify.com/track/64jK5HLnuxyCv4tYODdBXx"
+    },
+    {
+      "added_at": "2022-08-05 04:11:54",
+      "album": {
+        "name": "Still Over It",
+        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 200472,
+      "name": "You Don\u2019t Know Me",
+      "url": "https://open.spotify.com/track/7gpIj4wMeTKptFxetrNKzY"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -1025,20 +1025,20 @@
       "url": "https://open.spotify.com/track/0OixmRL2iIbWyDH6rn77M7"
     },
     {
-      "added_at": "2022-08-05 04:11:54",
+      "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "Still Over It",
-        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
+        "name": "Dead To Me",
+        "url": "https://open.spotify.com/album/34Uw23xppTz4RJoZvxwSdY"
       },
       "artists": [
         {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+          "name": "DaniLeigh",
+          "url": "https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d"
         }
       ],
-      "duration_ms": 200472,
-      "name": "You Don\u2019t Know Me",
-      "url": "https://open.spotify.com/track/7gpIj4wMeTKptFxetrNKzY"
+      "duration_ms": 133671,
+      "name": "Dead To Me",
+      "url": "https://open.spotify.com/track/38k5xUTekY8K6yVqHkbgIo"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2022-08-05 04:11:54",
       "album": {
-        "name": "DAY PARTY",
-        "url": "https://open.spotify.com/album/5EsYiXCWkKzcUfSsDvIBNG"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "DAY PARTY",
-      "url": "https://open.spotify.com/track/11MSMTqJHzwI67SXaaCKpi"
-    },
-    {
-      "added_at": "2022-08-05 04:11:54",
-      "album": {
         "name": "Love Letterz (Deluxe)",
         "url": "https://open.spotify.com/album/4QjiMgXdGCo8R2RPEqTjer"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 165813,
       "name": "Countless Times",
       "url": "https://open.spotify.com/track/4Dy5oXGqZZLzOumW6Jho7o"
+    },
+    {
+      "added_at": "2022-08-05 04:11:54",
+      "album": {
+        "name": "DAY PARTY",
+        "url": "https://open.spotify.com/album/5EsYiXCWkKzcUfSsDvIBNG"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "DAY PARTY",
+      "url": "https://open.spotify.com/track/11MSMTqJHzwI67SXaaCKpi"
     },
     {
       "added_at": "2022-07-15 04:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "This fun, upbeat playlist will help get you up and ready to start your day! ",
-  "num_followers": 234363,
+  "num_followers": 234364,
   "original_name": "Ready for the Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5NjAwMCwwMDAwMDAwMDU4NzY5YmMzZjM2Njk5YTljNmQ5MzlhMTYxZWYxOWQ0",
+  "snapshot_id": "MTY2MjY5NjAwMCwwMDAwMDAwMGJjYWQ2NmIyNjNiNjdlODg0ZTY3ZjUyMDZkNjVkMmMw",
   "tracks": [
     {
       "added_at": "2022-09-09 04:00:00",
@@ -40,12 +40,12 @@
           "url": "https://open.spotify.com/artist/2iSbupdaMW303tk8tqdCv5"
         },
         {
-          "name": "JUJO",
-          "url": "https://open.spotify.com/artist/6lUuCxT476utVj3g9IUaFF"
-        },
-        {
           "name": "Dallas Woods",
           "url": "https://open.spotify.com/artist/7AlRsfXxw5GcXNob86rgnH"
+        },
+        {
+          "name": "JUJO",
+          "url": "https://open.spotify.com/artist/6lUuCxT476utVj3g9IUaFF"
         }
       ],
       "duration_ms": 177735,
@@ -561,28 +561,20 @@
       "url": "https://open.spotify.com/track/08G63QA6FMXwaABEN6syRb"
     },
     {
-      "added_at": "2022-01-21 05:01:00",
+      "added_at": "2022-06-24 04:02:00",
       "album": {
-        "name": "Chicken Wings (Remix)",
-        "url": "https://open.spotify.com/album/5XKAwSs3UlIsnkMCbD83op"
+        "name": "Lunar Eclipse",
+        "url": "https://open.spotify.com/album/40SlzaFKQTtGh2vOv1BPAC"
       },
       "artists": [
         {
-          "name": "Samm Henshaw",
-          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
-        },
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        },
-        {
-          "name": "Bando.",
-          "url": "https://open.spotify.com/artist/5kkpDTQbRC2UCCCUhF6j90"
+          "name": "Fulton Lee",
+          "url": "https://open.spotify.com/artist/5CAvR9koH16JpcoTxUoeyS"
         }
       ],
-      "duration_ms": 165565,
-      "name": "Chicken Wings - Remix",
-      "url": "https://open.spotify.com/track/0GwHL1n6fdRba5e5Vt5lnK"
+      "duration_ms": 194498,
+      "name": "Lunar Eclipse",
+      "url": "https://open.spotify.com/track/5LeKKDF7i65mQ3NIW8mkwP"
     },
     {
       "added_at": "2022-09-02 04:02:00",
@@ -621,20 +613,28 @@
       "url": "https://open.spotify.com/track/27KqSOzLiN6p9sjs95MnZg"
     },
     {
-      "added_at": "2022-06-24 04:02:00",
+      "added_at": "2022-01-21 05:01:00",
       "album": {
-        "name": "Lunar Eclipse",
-        "url": "https://open.spotify.com/album/40SlzaFKQTtGh2vOv1BPAC"
+        "name": "Chicken Wings (Remix)",
+        "url": "https://open.spotify.com/album/5XKAwSs3UlIsnkMCbD83op"
       },
       "artists": [
         {
-          "name": "Fulton Lee",
-          "url": "https://open.spotify.com/artist/5CAvR9koH16JpcoTxUoeyS"
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+        },
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        },
+        {
+          "name": "Bando.",
+          "url": "https://open.spotify.com/artist/5kkpDTQbRC2UCCCUhF6j90"
         }
       ],
-      "duration_ms": 194498,
-      "name": "Lunar Eclipse",
-      "url": "https://open.spotify.com/track/5LeKKDF7i65mQ3NIW8mkwP"
+      "duration_ms": 165565,
+      "name": "Chicken Wings - Remix",
+      "url": "https://open.spotify.com/track/0GwHL1n6fdRba5e5Vt5lnK"
     },
     {
       "added_at": "2022-06-03 04:01:00",
@@ -653,22 +653,6 @@
       "url": "https://open.spotify.com/track/12spArvPaLxK6deo7ikvnZ"
     },
     {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
-        "name": "Never Seen You Dance",
-        "url": "https://open.spotify.com/album/73VzHaRZwnn6YkkfCYFGh6"
-      },
-      "artists": [
-        {
-          "name": "Totally Enormous Extinct Dinosaurs",
-          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
-        }
-      ],
-      "duration_ms": 288062,
-      "name": "Never Seen You Dance",
-      "url": "https://open.spotify.com/track/5mdOo5OClzyz4kgdiek8Pu"
-    },
-    {
       "added_at": "2021-02-19 05:01:00",
       "album": {
         "name": "Sweet Side",
@@ -683,6 +667,22 @@
       "duration_ms": 185716,
       "name": "You",
       "url": "https://open.spotify.com/track/53pplXFpGH6RPPvf0aCdnQ"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "Never Seen You Dance",
+        "url": "https://open.spotify.com/album/73VzHaRZwnn6YkkfCYFGh6"
+      },
+      "artists": [
+        {
+          "name": "Totally Enormous Extinct Dinosaurs",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        }
+      ],
+      "duration_ms": 288062,
+      "name": "Never Seen You Dance",
+      "url": "https://open.spotify.com/track/5mdOo5OClzyz4kgdiek8Pu"
     },
     {
       "added_at": "2022-05-27 04:01:00",
@@ -1353,22 +1353,6 @@
       "url": "https://open.spotify.com/track/5x2BKKfwtydW0HO6NgH2Pi"
     },
     {
-      "added_at": "2022-05-20 04:01:00",
-      "album": {
-        "name": "All Day Long",
-        "url": "https://open.spotify.com/album/2HktzXlF3iNo6C0uQ3vP9Z"
-      },
-      "artists": [
-        {
-          "name": "Mega",
-          "url": "https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg"
-        }
-      ],
-      "duration_ms": 169433,
-      "name": "All Day Long",
-      "url": "https://open.spotify.com/track/2D3JB5Bs5ut4czq9Xt3PA3"
-    },
-    {
       "added_at": "2022-07-29 04:02:00",
       "album": {
         "name": "Dreamboat",
@@ -1387,6 +1371,22 @@
       "duration_ms": 187412,
       "name": "Monica",
       "url": "https://open.spotify.com/track/0bXnX6oozY4qDbNTBqdJwe"
+    },
+    {
+      "added_at": "2022-05-20 04:01:00",
+      "album": {
+        "name": "All Day Long",
+        "url": "https://open.spotify.com/album/2HktzXlF3iNo6C0uQ3vP9Z"
+      },
+      "artists": [
+        {
+          "name": "Mega",
+          "url": "https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg"
+        }
+      ],
+      "duration_ms": 169433,
+      "name": "All Day Long",
+      "url": "https://open.spotify.com/track/2D3JB5Bs5ut4czq9Xt3PA3"
     },
     {
       "added_at": "2022-09-02 04:02:00",
@@ -1481,20 +1481,24 @@
       "url": "https://open.spotify.com/track/0ghnwFrfblAPwGxsNlasOd"
     },
     {
-      "added_at": "2022-05-13 04:02:00",
+      "added_at": "2021-11-19 05:02:00",
       "album": {
-        "name": "Good Time",
-        "url": "https://open.spotify.com/album/3CkPs129sbs0ZHfKYELc7V"
+        "name": "Overthinking",
+        "url": "https://open.spotify.com/album/2SLw9BV4zJ2wRVKOPVYBDm"
       },
       "artists": [
         {
-          "name": "Anthony Ramos",
-          "url": "https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse"
+          "name": "HARLOE",
+          "url": "https://open.spotify.com/artist/6iyadmF41vqU7NnBaVabfL"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
         }
       ],
-      "duration_ms": 166888,
-      "name": "Good Time",
-      "url": "https://open.spotify.com/track/4UiovBMIFb0EwICzNzvh0h"
+      "duration_ms": 241799,
+      "name": "Overthinking",
+      "url": "https://open.spotify.com/track/1fWCiAD2ZRN9LNdpzYwQo0"
     }
   ],
   "unique_name": "Ready for the Day",

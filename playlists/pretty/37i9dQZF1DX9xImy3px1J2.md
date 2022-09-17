@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xImy3px1J2.md) - [plain]
 
 > Questa è la tua notte, balla fino al mattino tra hit dance e ritmi latini.
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,862 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,890 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xImy3px1J2.md) - [plain]
 | 12 | [Calm Down](https://open.spotify.com/track/6hgoYQDUcPyCz7LcTUHKxa) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Calm Down](https://open.spotify.com/album/37iaWiKMa9YBbEDlw5c3Qh) | 3:39 |
 | 13 | [B.O.T.A\. \(Baddest Of Them All\) \- Edit](https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [B.O.T.A\. \(Baddest Of Them All\)](https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK) | 3:46 |
 | 14 | [Friday \(feat\. Mufasa & Hypeman\) \- Dopamine Re\-Edit](https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Nightcrawlers](https://open.spotify.com/artist/1gALaWbNDnwS2ECV09sn2A), [Mufasa & Hypeman](https://open.spotify.com/artist/4L2dV3zY7RmkeiNO035Fi0), [Dopamine](https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN) | [Friday \(feat\. Mufasa & Hypeman\) \[Dopamine Re\-Edit\]](https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j) | 2:49 |
-| 15 | [OUT OUT \(feat\. Charli XCX & Saweetie\)](https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [OUT OUT \(feat\. Charli XCX & Saweetie\)](https://open.spotify.com/album/5wJb3DBSoSMKYJA8TrNKi8) | 2:42 |
-| 16 | [Love Tonight \- David Guetta Remix Edit](https://open.spotify.com/track/2prnn41CblB8B4yWACDljP) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Love Tonight \(David Guetta Remix\)](https://open.spotify.com/album/2HYufzr6XUqSurRZdY0D9w) | 2:38 |
+| 15 | [Love Tonight \- David Guetta Remix Edit](https://open.spotify.com/track/2prnn41CblB8B4yWACDljP) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Love Tonight \(David Guetta Remix\)](https://open.spotify.com/album/2HYufzr6XUqSurRZdY0D9w) | 2:38 |
+| 16 | [OUT OUT \(feat\. Charli XCX & Saweetie\)](https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [OUT OUT \(feat\. Charli XCX & Saweetie\)](https://open.spotify.com/album/5wJb3DBSoSMKYJA8TrNKi8) | 2:42 |
 | 17 | [Clap Your Hands](https://open.spotify.com/track/7g7OshelYRRnOSEMmisJVI) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Clap Your Hands](https://open.spotify.com/album/2Uxn2xBab5Sjo3gnfuir7q) | 3:09 |
 | 18 | [Acapulco](https://open.spotify.com/track/3eJH2nAjvNXdmPfBkALiPZ) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Acapulco](https://open.spotify.com/album/76f2Wq7QxiHImxzsYwiXWW) | 2:19 |
 | 19 | [Kings & Queens](https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xImy3px1J2.md) - [plain]
 | 49 | [Baila Conmigo](https://open.spotify.com/track/3KruoUtSkm84Az0bJunnxl) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Baila Conmigo](https://open.spotify.com/album/00RgZ3hZH9WpvBksu2hx5G) | 2:26 |
 | 50 | [Family Affair \(Dance For Me\)](https://open.spotify.com/track/1dP519dbEob8H6wiouRdaY) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Family Affair \(Dance For Me\)](https://open.spotify.com/album/4Od76Fafa1rc89D7yLBfVH) | 2:38 |
 
-Snapshot ID: `MTY2Mjk4NDcxOSwwMDAwMDAwMDg2YWU1MjkxOGYzZTNjZjI0NGNhYmQ1YmFhYTEwNTI0`
+Snapshot ID: `MTY2Mjk4NDcxOSwwMDAwMDAwMGE4MTE4ODg1Y2MxNTIyMTYyN2RkM2M5YTkyYTU5N2Zh`

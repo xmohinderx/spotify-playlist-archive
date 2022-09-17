@@ -4,7 +4,7 @@
 
 > it's scary hours...⛈ cover: Outkast
 
-178 songs - 11 hr 56 min - [published](https://open.spotify.com/playlist/5JxuVXVwLcumgmoRyl2uUE)
+179 songs - 11 hr 59 min - [published](https://open.spotify.com/playlist/5JxuVXVwLcumgmoRyl2uUE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,13 +105,14 @@
 | [I Used to Love Him \(feat\. Mary J\. Blige\)](https://open.spotify.com/track/3IRdgbdqDcmJBIa6TY2mKX) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:39 | 2022-05-13 |  |
 | [I'll Be](https://open.spotify.com/track/6Ag4SYLUGFdnJrCwUIb4mT) | [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Ill Na Na](https://open.spotify.com/album/6qLC4weRVEetELyQQgkAMk) | 2:58 | 2022-06-24 |  |
 | [I'll Be There For You/You're All I Need To Get By \- Puff Daddy Mix](https://open.spotify.com/track/6C3yPXYG2NJYlIYVe5J7hv) | [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Tical \(Deluxe Edition\)](https://open.spotify.com/album/7DyAbrlPQTi2v6DAmgC8Qa) | 5:09 | 2022-05-06 |  |
+| [I'm Gonna Be \(feat\. Jhené Aiko\)](https://open.spotify.com/track/16C6yAxcA3GCtoXbq3dUYl) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Detroit](https://open.spotify.com/album/4XXX0W3F9QNxtkofgUbxaj) | 3:07 | 2022-09-16 |  |
 | [Ice Box](https://open.spotify.com/track/5qhlC4Rzals34zxovrPzKp) | [Omarion](https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT) | [21](https://open.spotify.com/album/2dGxINFRaJEwDRXohf5gTE) | 4:16 | 2022-06-17 |  |
 | [In The Morning](https://open.spotify.com/track/4OkiWfrZKmmVoILXk8JEtl) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Cole World: The Sideline Story](https://open.spotify.com/album/0fhmJYVhW0e4i33pCLPA5i) | 3:54 | 2022-05-06 |  |
 | [Into You \(feat\. Fabolous\)](https://open.spotify.com/track/0ceeRNqbOzRiGE42KWSrRa) | [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [More](https://open.spotify.com/album/43QuYbSfbTjcsghwJyUnyP) | 4:54 | 2022-05-06 |  |
 | [It's Over Now](https://open.spotify.com/track/769geiA8btidGHda4BBDOJ) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [Part III](https://open.spotify.com/album/6QlbqTqKJt1UnuH3PLz9mb) | 4:24 | 2022-06-03 |  |
 | [Keep Me Around](https://open.spotify.com/track/7kQ5eCSvLropJUPuEYaUbX) | [AUGUST 08](https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi) | [Keep Me Around](https://open.spotify.com/album/3MPbBDFqY66cvdC68ddmpx) | 2:22 | 2022-05-06 | 2022-05-20 |
 | [Keeps On Fallin' \(with Ella Mai\)](https://open.spotify.com/track/5FD2dCAmjm3yVJRRfLPda4) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Keeps On Fallin' \(with Ella Mai\)](https://open.spotify.com/album/7F7rLsGp8CNeRE4wI0WMMI) | 2:55 | 2022-06-17 |  |
-| [Know](https://open.spotify.com/track/4uij1uhS9gnTFfg4kPIRfN) | [ELHAE](https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY) | [Know](https://open.spotify.com/album/2i0YV5xzjVa51onaAMtuBi) | 3:00 | 2022-06-17 |  |
+| [Know](https://open.spotify.com/track/4uij1uhS9gnTFfg4kPIRfN) | [ELHAE](https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY) | [Know](https://open.spotify.com/album/2i0YV5xzjVa51onaAMtuBi) | 3:00 | 2022-06-17 | 2022-09-17 |
 | [Let It Burn](https://open.spotify.com/track/6KOc6ViZB8NtfCVABmTe66) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Reality Show](https://open.spotify.com/album/682dnvSPZ6lwCNodfMVcbh) | 3:43 | 2022-05-13 |  |
 | [Let Me Love You](https://open.spotify.com/track/3ibKnFDaa3GhpPGlOUj7ff) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Let Me Love You](https://open.spotify.com/album/7EXstuWka51pNFzEAidEol) | 4:16 | 2022-08-19 |  |
 | [Let's Get Blown](https://open.spotify.com/track/28SBsuXY18udxwV60GDaV7) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [Let's Get Blown](https://open.spotify.com/album/6Dyal2JxXDxSGLEuPhaDjs) | 3:03 | 2022-05-06 | 2022-05-20 |

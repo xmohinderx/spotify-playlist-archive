@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 
 > A playlist driven from the islands, take the front seat as Soca meets Bashment
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,796 likes - 68 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,802 likes - 68 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 | 52 | [Down in de Meat](https://open.spotify.com/track/53vZJIaSsJW6VE5qMwuA8a) | [Lednek](https://open.spotify.com/artist/0zjsPa0DklEYp44vmnEMCj) | [Smoke Mask Riddim](https://open.spotify.com/album/3y8wtlDAAWDehbuJCaZG3Q) | 3:22 |
 | 53 | [Issa Snack](https://open.spotify.com/track/5YpSruBBOaIHNGu5aNDeT9) | [Travis World](https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd), [Nessa Preppy](https://open.spotify.com/artist/17pN02mO1kZSkaic9K3ipT) | [Do This Riddim](https://open.spotify.com/album/1cvkRbxgIbpekbmOoxbrYh) | 3:03 |
 | 54 | [Stink Behavior](https://open.spotify.com/track/5XxrykKafHg34icuJEN5tf) | [Teddy Rhymez](https://open.spotify.com/artist/2gFphsuTLIhXahR31Dba3p), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Stink Behavior](https://open.spotify.com/album/65lZPDKwuVzWbdxrQ0xH8T) | 3:31 |
-| 55 | [Who Pay!? \(Big Bumpa\) \[feat\. Salty & Sekon Sta\]](https://open.spotify.com/track/1NXihWA24LSLJGWbkmK4D8) | [Skorch Bun It](https://open.spotify.com/artist/7ylwp2wfBZGg6NhrqTKFqZ), [CoolBlaze](https://open.spotify.com/artist/7MfpWE7ToeVCeyyQdcEdkf), [Salty](https://open.spotify.com/artist/5wTiDWdoGJYXviy2rK8Out), [Sekon Sta](https://open.spotify.com/artist/6Q08wCr0QX7xdn58DFJKLZ) | [Baby Bells Riddim](https://open.spotify.com/album/71I3LHledB7nFklXLc0GCY) | 3:47 |
-| 56 | [Feeling It](https://open.spotify.com/track/4NpXmgdiPB75BvFr8C07qD) | [Swappi](https://open.spotify.com/artist/1FXS9zsrivPmCwagsuhPdJ), [Ultimate Rejects](https://open.spotify.com/artist/5XwdTXM2AN5sMV7Su8dUZA) | [Feeling It](https://open.spotify.com/album/0P6SHtWPIF5mAa88FfzDJL) | 4:07 |
+| 55 | [Feeling It](https://open.spotify.com/track/4NpXmgdiPB75BvFr8C07qD) | [Swappi](https://open.spotify.com/artist/1FXS9zsrivPmCwagsuhPdJ), [Ultimate Rejects](https://open.spotify.com/artist/5XwdTXM2AN5sMV7Su8dUZA) | [Feeling It](https://open.spotify.com/album/0P6SHtWPIF5mAa88FfzDJL) | 4:07 |
+| 56 | [Who Pay!? \(Big Bumpa\) \[feat\. Salty & Sekon Sta\]](https://open.spotify.com/track/1NXihWA24LSLJGWbkmK4D8) | [Skorch Bun It](https://open.spotify.com/artist/7ylwp2wfBZGg6NhrqTKFqZ), [CoolBlaze](https://open.spotify.com/artist/7MfpWE7ToeVCeyyQdcEdkf), [Salty](https://open.spotify.com/artist/5wTiDWdoGJYXviy2rK8Out), [Sekon Sta](https://open.spotify.com/artist/6Q08wCr0QX7xdn58DFJKLZ) | [Baby Bells Riddim](https://open.spotify.com/album/71I3LHledB7nFklXLc0GCY) | 3:47 |
 | 57 | [Sexin](https://open.spotify.com/track/15mEe2BeW0SOuAisCv4h5Q) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Soca Virgin](https://open.spotify.com/album/6dVd6U3r4uwDSXBjUNyK05) | 3:05 |
 | 58 | [Rough Wine](https://open.spotify.com/track/7lpwFH6GQr6q6A3nZKPwBH) | [Precision Productions](https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Physique Riddim \(Soca 2018 Trinidad and Tobago Carnival\)](https://open.spotify.com/album/3CIwIu98V54pWArwDuLvAG) | 3:23 |
 | 59 | [Bad in Bum Bum / Back Bend](https://open.spotify.com/track/2H1pDTHPj2RiaPKToUn73E) | [Subance](https://open.spotify.com/artist/0OjTKknaOkq9QvKKffPdpU), [Mighty](https://open.spotify.com/artist/3PnlA98s6IiZBAg6sIF8ju) | [Bad in Bum Bum / Back Bend](https://open.spotify.com/album/6JUFe9DFTZpLvvPn8eaw2Q) | 2:31 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 | 67 | [Tombstone](https://open.spotify.com/track/5y3BRj2jk5ifjwRmPvrNk6) | [Mandella Linkz](https://open.spotify.com/artist/6pU2OStuhrBqzG7J1ibOIm) | [Mandrakes Riddim](https://open.spotify.com/album/4JufEdzLQ2yJkXOlXknrLG) | 3:50 |
 | 68 | [Skill & Steady](https://open.spotify.com/track/65dhZDMJ4eifxYqJjERBFW) | [Kevyn V](https://open.spotify.com/artist/3Ny44fCQVoy3gEwdyMqAUu), [DancehallRulerz](https://open.spotify.com/artist/7vKTly2ufzt1vPBUKvuuDh), [2Fik](https://open.spotify.com/artist/3TmucDSfk9ChMNebAXrYyO), [Dj Tades](https://open.spotify.com/artist/1zkwng6zki0lHoikDdfsHf) | [Skill & Steady](https://open.spotify.com/album/4hOYiwVEgniVVhVSC1Sflg) | 2:38 |
 
-Snapshot ID: `MTY0NTcyNTYwMCwwMDAwMDAwMGFmODUzMjMyNjI2ZGY2NmY1YTg5NjlmMjE4OWM2YWJh`
+Snapshot ID: `MTY0NTcyNTYwMCwwMDAwMDAwMDJjNDdkN2Q4ZWNhZTU2MzE4MTdkZDMyNzI1MGMzNTc5`

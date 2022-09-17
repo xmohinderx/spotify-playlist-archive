@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUhWIpUC7Aq1.md) - [plain]
 
 > Not your manic pixie dream girl, just twee af\. Cover: Zooey Deschanel
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,244 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,486 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,10 +41,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUhWIpUC7Aq1.md) - [plain]
 | 31 | [Nine in the Afternoon \- Single Mix](https://open.spotify.com/track/1S30kHvkkdMkcuCTGSgS41) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pretty\. Odd.](https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw) | 3:11 |
 | 32 | [Sea of Love](https://open.spotify.com/track/33kKcOJoyNduHwXhEnga8X) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [The Covers Record](https://open.spotify.com/album/4dZBOO1PjjmtPA974xHMND) | 2:19 |
 | 33 | [Mountain Sound](https://open.spotify.com/track/60ZGteAEtPCnGE6zevgUcd) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [My Head Is An Animal](https://open.spotify.com/album/6uD3oJCWT1gtlSCg5lDiNF) | 3:31 |
-| 34 | [Naked as We Came](https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Our Endless Numbered Days \(Deluxe Edition\)](https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m) | 2:32 |
+| 34 | [Michigan](https://open.spotify.com/track/6RGGOBfNQLOvQhyl1oG2oD) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [Prologue](https://open.spotify.com/album/1FlNkbhrTnMma2VkDY6t9Q) | 5:30 |
 | 35 | [Re: Stacks](https://open.spotify.com/track/20AC70RUlVz6A6dCcQ5tRS) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM) | 6:41 |
-| 36 | [The Girl](https://open.spotify.com/track/1IFRVS4t1olI0XG9RBWdKH) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [Bring Me Your Love \(Special Edition\)](https://open.spotify.com/album/1GYDVFWPK1HFI3TRWmj7hr) | 6:00 |
-| 37 | [Michigan](https://open.spotify.com/track/6RGGOBfNQLOvQhyl1oG2oD) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [Prologue](https://open.spotify.com/album/1FlNkbhrTnMma2VkDY6t9Q) | 5:30 |
+| 36 | [Naked as We Came](https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Our Endless Numbered Days \(Deluxe Edition\)](https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m) | 2:32 |
+| 37 | [The Girl](https://open.spotify.com/track/1IFRVS4t1olI0XG9RBWdKH) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [Bring Me Your Love \(Special Edition\)](https://open.spotify.com/album/1GYDVFWPK1HFI3TRWmj7hr) | 6:00 |
 | 38 | [America](https://open.spotify.com/track/6dfhF1BDGmhM69fnCb6wSC) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bookends](https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2) | 3:35 |
 | 39 | [Mercy](https://open.spotify.com/track/78twQ5XCFJMTE37ZSU0gsj) | [Duffy](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) | [Rockferry](https://open.spotify.com/album/6freV6eqxuFjSr3E93Oqtz) | 3:39 |
 | 40 | [For Emma](https://open.spotify.com/track/2nilAlGEZmwyaLTMMyDdLo) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM) | 3:40 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUhWIpUC7Aq1.md) - [plain]
 | 54 | [Say Yes](https://open.spotify.com/track/3XtkcPHbYX0BImTQLlbSVN) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/6KMdn9HDIqcBPaaok0K34K) | 2:19 |
 | 55 | [Title and Registration](https://open.spotify.com/track/0hgEsoAu23ap8V5GFX9Y3i) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Transatlanticism \(10th Anniversary Edition\)](https://open.spotify.com/album/4jQW2mhMH3TxtAOol3Djuf) | 3:39 |
 | 56 | [The District Sleeps Alone Tonight \- Remastered](https://open.spotify.com/track/3l14MJpQB4tFFgKLqUqtV3) | [The Postal Service](https://open.spotify.com/artist/5yV1qdnmxyIYiSFB02wpDj) | [Give Up \(Deluxe 10th Anniversary Edition\)](https://open.spotify.com/album/5MoaDbFw4nrm2P7Om1on3b) | 4:43 |
-| 57 | [Cut Your Bangs](https://open.spotify.com/track/1JdGVa0eAPovycGrGV03SS) | [Radiator Hospital](https://open.spotify.com/artist/0HMLp79IAd9Z8zMgxqpyxn) | [Torch Song](https://open.spotify.com/album/6droeVoJ4xuxhzLT1FBGgu) | 2:06 |
-| 58 | [All I Want Is You](https://open.spotify.com/track/2t0Ci12vaJaYzEmsJL2S1X) | [Barry Louis Polisar](https://open.spotify.com/artist/6MUxF4ehonXZ8Q6YMFI2xb) | [Naturally Sweetened](https://open.spotify.com/album/1hKnmfw153bNCqN37f7Qx3) | 2:37 |
+| 57 | [All I Want Is You](https://open.spotify.com/track/2t0Ci12vaJaYzEmsJL2S1X) | [Barry Louis Polisar](https://open.spotify.com/artist/6MUxF4ehonXZ8Q6YMFI2xb) | [Naturally Sweetened](https://open.spotify.com/album/1hKnmfw153bNCqN37f7Qx3) | 2:37 |
+| 58 | [Cut Your Bangs](https://open.spotify.com/track/1JdGVa0eAPovycGrGV03SS) | [Radiator Hospital](https://open.spotify.com/artist/0HMLp79IAd9Z8zMgxqpyxn) | [Torch Song](https://open.spotify.com/album/6droeVoJ4xuxhzLT1FBGgu) | 2:06 |
 | 59 | [Go Outside](https://open.spotify.com/track/0V8jGgK39sLsj2yAHHPigU) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Cults](https://open.spotify.com/album/0OvMqTVXYlNpWbGuxQrt6M) | 3:23 |
 | 60 | [Us](https://open.spotify.com/track/6zJms3MX11Qu1IKF44LoRW) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Soviet Kitsch](https://open.spotify.com/album/0HeAK5QnrTRrksc2WuTYgy) | 4:52 |
 | 61 | [Anthems For A Seventeen Year\-Old Girl](https://open.spotify.com/track/0VXp4zDspR993l2hIKW17g) | [Broken Social Scene](https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd) | [You Forgot It In People](https://open.spotify.com/album/6nL0U84JsEJ0cRsGCnsDnJ) | 4:35 |
@@ -82,15 +82,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUhWIpUC7Aq1.md) - [plain]
 | 72 | [The Boy With The Arab Strap](https://open.spotify.com/track/2PV8oZJo3K3bXENO7FRRtp) | [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [The Boy With The Arab Strap](https://open.spotify.com/album/4AChnLbiWqxiotXz8kv6D7) | 5:14 |
 | 73 | [Atop a Cake](https://open.spotify.com/track/2d4VlnTyBVserhtyH3b9BZ) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Alvvays](https://open.spotify.com/album/4PrBMzWzzoMOwm55Bfo3dt) | 3:19 |
 | 74 | [Seventeen](https://open.spotify.com/track/2CQZalbSGicedttPGtY06n) | [Haley Blais](https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT) | [Let Yourself Go](https://open.spotify.com/album/3Aoh7HqQtugqVcHGDbkRjP) | 3:28 |
-| 75 | [Heart It Races](https://open.spotify.com/track/6SHYWXOqmf0fBWO1k0Zz2k) | [Architecture In Helsinki](https://open.spotify.com/artist/60eT7q88iLWKnuSXed1AGr) | [Places Like This](https://open.spotify.com/album/1b4lom8FxPZKDw21uWK5aM) | 3:14 |
-| 76 | [LDN](https://open.spotify.com/track/48T3AtfhOgz3euMEO2Z4hS) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Alright, Still \(Bonus Track Version\)](https://open.spotify.com/album/3nxPzWEJBjzonYWtTNb0uY) | 3:12 |
+| 75 | [LDN](https://open.spotify.com/track/48T3AtfhOgz3euMEO2Z4hS) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Alright, Still \(Bonus Track Version\)](https://open.spotify.com/album/3nxPzWEJBjzonYWtTNb0uY) | 3:12 |
+| 76 | [Heart It Races](https://open.spotify.com/track/6SHYWXOqmf0fBWO1k0Zz2k) | [Architecture In Helsinki](https://open.spotify.com/artist/60eT7q88iLWKnuSXed1AGr) | [Places Like This](https://open.spotify.com/album/1b4lom8FxPZKDw21uWK5aM) | 3:14 |
 | 77 | [With Arms Outstretched](https://open.spotify.com/track/0EKUJ4OqrNWaHpNPODNTaf) | [Rilo Kiley](https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA) | [The Execution Of All Things](https://open.spotify.com/album/1aFyAtSRxLNzSTGwHMRvWj) | 3:43 |
 | 78 | [Clementine](https://open.spotify.com/track/0nUPuUnqVLOZFayUzxi1JG) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Elliott Smith](https://open.spotify.com/album/60C4r1YwIxsliktUL6eXfw) | 2:46 |
 | 79 | [Elephant Gun](https://open.spotify.com/track/52Nm0n6chJlGJJqhiZ6oMz) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [Elephant Gun](https://open.spotify.com/album/6nGeQUOXlKSENB3A9ijD20) | 5:48 |
 | 80 | [Foundations](https://open.spotify.com/track/1wi4ti9BYUbwoGJ1EBUVtv) | [Kate Nash](https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg) | [Made of Bricks](https://open.spotify.com/album/4KNq0XtAJOTRKIA6W5zRsY) | 4:05 |
-| 81 | [Cinnamon](https://open.spotify.com/track/4l9fOpDy6cqwaXSsl5l48v) | [The Long Winters](https://open.spotify.com/artist/6zdwVjGPgGGZ7W5oBcisP2) | [When I Pretend To Fall](https://open.spotify.com/album/1ZfxdY1K1fDyRQywHtgLVQ) | 4:12 |
-| 82 | [You, Me and the Bourgeoisie](https://open.spotify.com/track/46tMEl4m47ef5XYcWuWLbw) | [The Submarines](https://open.spotify.com/artist/6D9Y5lqXKgJv8CV6Ur59oS) | [Honeysuckle Weeks](https://open.spotify.com/album/7geqXLdppeJRIbHVugtXpC) | 3:24 |
-| 83 | [What's Important](https://open.spotify.com/track/4lCzawVrcHNxiH9qyBWAd3) | [Beat Happening](https://open.spotify.com/artist/1qHR9DMfOJQjvWLEfMZQlG) | [Beat Happening](https://open.spotify.com/album/4kjtvHzMCqvSmxOo436NwM) | 2:02 |
+| 81 | [What's Important](https://open.spotify.com/track/4lCzawVrcHNxiH9qyBWAd3) | [Beat Happening](https://open.spotify.com/artist/1qHR9DMfOJQjvWLEfMZQlG) | [Beat Happening](https://open.spotify.com/album/4kjtvHzMCqvSmxOo436NwM) | 2:02 |
+| 82 | [Cinnamon](https://open.spotify.com/track/4l9fOpDy6cqwaXSsl5l48v) | [The Long Winters](https://open.spotify.com/artist/6zdwVjGPgGGZ7W5oBcisP2) | [When I Pretend To Fall](https://open.spotify.com/album/1ZfxdY1K1fDyRQywHtgLVQ) | 4:12 |
+| 83 | [You, Me and the Bourgeoisie](https://open.spotify.com/track/46tMEl4m47ef5XYcWuWLbw) | [The Submarines](https://open.spotify.com/artist/6D9Y5lqXKgJv8CV6Ur59oS) | [Honeysuckle Weeks](https://open.spotify.com/album/7geqXLdppeJRIbHVugtXpC) | 3:24 |
 | 84 | [Your Ex\-Lover Is Dead](https://open.spotify.com/track/6XGKlssGb3oE9IUCvjLthd) | [Stars](https://open.spotify.com/artist/2EO56JK4txid1Pss9GVbOL) | [Set Yourself On Fire](https://open.spotify.com/album/6CYTAXBPYJ43irABGOJmIw) | 4:16 |
 | 85 | [Hideaway](https://open.spotify.com/track/3SCtycBwTTM49VNNuXwp4Z) | [Karen O](https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz), [The Kids](https://open.spotify.com/artist/5ITDRCbxYSx3gd19M8DFVx) | [Where The Wild Things Are Motion Picture Soundtrack: Original Songs By Karen O And The Kids](https://open.spotify.com/album/58lyF4XIJENuFrTI0W2wXf) | 5:10 |
 | 86 | [A Teenager in Love](https://open.spotify.com/track/03h8yG6LxpmSLgeSJXQDeu) | [The Pains Of Being Pure At Heart](https://open.spotify.com/artist/3zmmBJseZelpVEHj8S6Dek) | [The Pains of Being Pure at Heart](https://open.spotify.com/album/02JZJfj0sLbHBVRNi232XI) | 3:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUhWIpUC7Aq1.md) - [plain]
 | 99 | [Glow Worms](https://open.spotify.com/track/4jovm2cvQh5HqTlH7xksdL) | [Vashti Bunyan](https://open.spotify.com/artist/4chuPfKtATDZvbRLExsTp2) | [Just Another Diamond Day](https://open.spotify.com/album/6BjFznpsyrxCFMpp3hzlD2) | 2:16 |
 | 100 | [Bobby Malone Moves Home](https://open.spotify.com/track/3hAh0e2keWsI8iY9BqFXqe) | [Casiotone For The Painfully Alone](https://open.spotify.com/artist/4FdSsjcX7vzOnN5zNqQWAy) | [Etiquette](https://open.spotify.com/album/1fMaPBDIcOsEpW4tz6gUhi) | 3:14 |
 
-Snapshot ID: `MTY2MzAwMDg5MSwwMDAwMDAwMGQxYTkyYzYxYzA2ZmMyMzJkMmI1NDMxYzY1MDU3ZTM2`
+Snapshot ID: `MTY2MzAwMDg5MSwwMDAwMDAwMDFhNDhmNTQwMjVmZWY3MmI2MTZkYTFhN2M3OWI3MTkz`

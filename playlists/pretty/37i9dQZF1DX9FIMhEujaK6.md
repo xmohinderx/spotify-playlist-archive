@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 
 > The ultimate chilled soundtrack to bring your day to a close.
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,335 likes - 50 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,399 likes - 50 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 | 37 | [Be Patient](https://open.spotify.com/track/0HWtI9cjfnVzU0q3hHc0ph) | [Loverground](https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z) | [Be Patient](https://open.spotify.com/album/1308SRdLd2pP79I3DBnr4a) | 3:36 |
 | 38 | [2daBeat](https://open.spotify.com/track/1BpG59DLyW6jZxN2PYiUA3) | [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW) | [Musik 3](https://open.spotify.com/album/7vHtRLKLA8ZkNBN3kNwlT6) | 5:29 |
 | 39 | [Your Girl](https://open.spotify.com/track/4iBqN4fvv1j9mvc8sHp8Nu) | [Blue States](https://open.spotify.com/artist/2wlTl7AyP0icYtAsmPylw6) | [Nothing Changes Under The Sun](https://open.spotify.com/album/6RQQ8KVvHBburwHP0zpLfK) | 5:04 |
-| 40 | [Keep You Kimi](https://open.spotify.com/track/3PlISmMU7prdRBG6zLcGfi) | [Hird](https://open.spotify.com/artist/33nGdwPVGbU7cFuIh9OnTu), [Yukimi Nagano](https://open.spotify.com/artist/34U611pEEfxLSRX3NIPcHf) | [Moving On](https://open.spotify.com/album/6GNseXyli2wXaeg7LMJVat) | 6:28 |
-| 41 | [Suzuki](https://open.spotify.com/track/7DBBuzCuZQaWNRix9ys6UB) | [Tosca](https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn) | [Suzuki](https://open.spotify.com/album/3mMCQiZaRbwPhn1I3vdFRP) | 6:04 |
-| 42 | [Calm](https://open.spotify.com/track/3uHdKaAsG53vKxp5hKYxYU) | [Govinda](https://open.spotify.com/artist/0il1nryhnpaNrP63qYWWCC) | [Worlds Within](https://open.spotify.com/album/6ckfZUWTBzZGKzEzNLToET) | 5:12 |
+| 40 | [Suzuki](https://open.spotify.com/track/7DBBuzCuZQaWNRix9ys6UB) | [Tosca](https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn) | [Suzuki](https://open.spotify.com/album/3mMCQiZaRbwPhn1I3vdFRP) | 6:04 |
+| 41 | [Calm](https://open.spotify.com/track/3uHdKaAsG53vKxp5hKYxYU) | [Govinda](https://open.spotify.com/artist/0il1nryhnpaNrP63qYWWCC) | [Worlds Within](https://open.spotify.com/album/6ckfZUWTBzZGKzEzNLToET) | 5:12 |
+| 42 | [Keep You Kimi](https://open.spotify.com/track/3PlISmMU7prdRBG6zLcGfi) | [Hird](https://open.spotify.com/artist/33nGdwPVGbU7cFuIh9OnTu), [Yukimi Nagano](https://open.spotify.com/artist/34U611pEEfxLSRX3NIPcHf) | [Moving On](https://open.spotify.com/album/6GNseXyli2wXaeg7LMJVat) | 6:28 |
 | 43 | [The Sea](https://open.spotify.com/track/7MRI6ZNv3neLVYy2kQ91nQ) | [Morcheeba](https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd) | [Big Calm](https://open.spotify.com/album/7rjjFxMFZjPzQzBMj6mXr2) | 5:48 |
 | 44 | [Resynthesis 3D \(Binaural Version \- Headphones Only\)](https://open.spotify.com/track/1c7inucFjGndMO3QTsl0lg) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [3D Reworks 001](https://open.spotify.com/album/15PC8OBWZycbckdl1VOYle) | 4:56 |
 | 45 | [Is It True \- Four Tet Remix](https://open.spotify.com/track/5Yc2SVCeXXcDdALmmXIslb) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Is It True \(Four Tet Remix\)](https://open.spotify.com/album/35qrfQOhXIFZoLq9gNEUXM) | 5:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 | 49 | [Sacred](https://open.spotify.com/track/3scH3LfC2eyoX4zd5sp759) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Sacred](https://open.spotify.com/album/4DEhXZRlriX0ZRJvE5dU9i) | 5:47 |
 | 50 | [The Child](https://open.spotify.com/track/43sGFmqBOGGUmCu51nEU6K) | [Alex Gopher](https://open.spotify.com/artist/0ADS8B9CUYtbFLvjT99Ktw) | [You My Baby And I](https://open.spotify.com/album/1OljO7oStiLQ8f1etN8S8U) | 4:34 |
 
-Snapshot ID: `MTY1ODMwMzk3NSwwMDAwMDAwMDgxYTJlN2QyNTc5MGJmODU3MmUyNjFhNWQ0ZjMzOTQw`
+Snapshot ID: `MTY1ODMwMzk3NSwwMDAwMDAwMDkyMzAxYWNkMTA3YmU1YmJkODA2M2FkYzgwMTIyM2Fl`

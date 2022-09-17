@@ -1,11 +1,29 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Heavy Metal forever. From classics to fresh new tracks, just play it loud! Cover: Lamb Of God",
+  "description": "Heavy Metal forever. From classics to fresh new tracks, just play it loud! Cover: Mot\u00f6rhead",
   "name": "Heavy Metal",
   "published_playlist_ids": [
     "6NpBTQ0b3N3b1zdtxQGNsV"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "(Don't Let 'Em) Grind Ya Down [Live at Glasgow Apollo, 18th March 1982]",
+        "url": "https://open.spotify.com/album/75gdLiRVeqWyS4YWJwF7XH"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213693,
+      "name": "(Don't Let 'Em) Grind Ya Down - Live at Glasgow Apollo, 18th March 1982",
+      "url": "https://open.spotify.com/track/48dAc10HfSHfosBJM01QQ9"
+    },
     {
       "album": {
         "name": "(We Make) Sweden Rock",
@@ -10815,7 +10833,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 283338,
       "name": "Venerate Me",
       "url": "https://open.spotify.com/track/6D1i1hoMyjs843XbMhNq8J"

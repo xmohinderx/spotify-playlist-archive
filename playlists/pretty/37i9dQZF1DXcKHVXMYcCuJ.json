@@ -1,12 +1,12 @@
 {
   "description": "Favorite rock and gems.",
-  "num_followers": 66464,
+  "num_followers": 66539,
   "original_name": "Alternative Rock's Most Precious Gems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTk5NjAyNCwwMDAwMDAwMDc5MjdlMjdjZGE5MDllNjVhZTdhN2Q0NDYxOGMwZGZk",
+  "snapshot_id": "MTY1NTk5NjAyNCwwMDAwMDAwMDQ4ZDI4MjE4Y2MwYzJhNTQ4OWNlZTJiNzVlZjIyZWYw",
   "tracks": [
     {
       "added_at": "2022-06-23 14:53:44",
@@ -379,22 +379,6 @@
     {
       "added_at": "2022-06-23 14:53:44",
       "album": {
-        "name": "Shed",
-        "url": "https://open.spotify.com/album/1vA4pfmBUT9ei4Ukq8uTx1"
-      },
-      "artists": [
-        {
-          "name": "Title Fight",
-          "url": "https://open.spotify.com/artist/2CnhqfjUG0qzsru0SMuhrk"
-        }
-      ],
-      "duration_ms": 136826,
-      "name": "Shed",
-      "url": "https://open.spotify.com/track/1csPfS6y1zVsZx7SbXJDXJ"
-    },
-    {
-      "added_at": "2022-06-23 14:53:44",
-      "album": {
         "name": "Buds",
         "url": "https://open.spotify.com/album/3aPtrtMapoYJdzVa7Jkc3M"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 97543,
       "name": "Baby Shea",
       "url": "https://open.spotify.com/track/1rfPkAinCwapsCXV5KTTGq"
+    },
+    {
+      "added_at": "2022-06-23 14:53:44",
+      "album": {
+        "name": "Shed",
+        "url": "https://open.spotify.com/album/1vA4pfmBUT9ei4Ukq8uTx1"
+      },
+      "artists": [
+        {
+          "name": "Title Fight",
+          "url": "https://open.spotify.com/artist/2CnhqfjUG0qzsru0SMuhrk"
+        }
+      ],
+      "duration_ms": 136826,
+      "name": "Shed",
+      "url": "https://open.spotify.com/track/1csPfS6y1zVsZx7SbXJDXJ"
     },
     {
       "added_at": "2022-06-23 14:53:44",
@@ -475,22 +475,6 @@
     {
       "added_at": "2022-06-23 14:53:44",
       "album": {
-        "name": "We Don't Need To Whisper",
-        "url": "https://open.spotify.com/album/55drvPTRV1FgJkuaztyS5X"
-      },
-      "artists": [
-        {
-          "name": "Angels & Airwaves",
-          "url": "https://open.spotify.com/artist/7xklw3WodFZiNNmQt3DIgp"
-        }
-      ],
-      "duration_ms": 307933,
-      "name": "The War",
-      "url": "https://open.spotify.com/track/6cz4r94FQEZMy7dC5wtL1E"
-    },
-    {
-      "added_at": "2022-06-23 14:53:44",
-      "album": {
         "name": "Anymore",
         "url": "https://open.spotify.com/album/1MtHTmOWEN7bpDj8sgCmHt"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 195320,
       "name": "Come Down",
       "url": "https://open.spotify.com/track/6aoslVx9b2J5tbYvbp3TbD"
+    },
+    {
+      "added_at": "2022-06-23 14:53:44",
+      "album": {
+        "name": "We Don't Need To Whisper",
+        "url": "https://open.spotify.com/album/55drvPTRV1FgJkuaztyS5X"
+      },
+      "artists": [
+        {
+          "name": "Angels & Airwaves",
+          "url": "https://open.spotify.com/artist/7xklw3WodFZiNNmQt3DIgp"
+        }
+      ],
+      "duration_ms": 307933,
+      "name": "The War",
+      "url": "https://open.spotify.com/track/6cz4r94FQEZMy7dC5wtL1E"
     },
     {
       "added_at": "2022-06-23 14:53:44",
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-06-23 14:53:44",
       "album": {
-        "name": "You'd Prefer An Astronaut",
-        "url": "https://open.spotify.com/album/2qx0YtBEDcbpclLlqzRi2o"
-      },
-      "artists": [
-        {
-          "name": "Hum",
-          "url": "https://open.spotify.com/artist/6sM2JCBjZprP7JLMTZZSxX"
-        }
-      ],
-      "duration_ms": 277560,
-      "name": "The Pod",
-      "url": "https://open.spotify.com/track/5eGfO6X1Vvpgb5LFaL5rLF"
-    },
-    {
-      "added_at": "2022-06-23 14:53:44",
-      "album": {
         "name": "Tune in, Drop Out",
         "url": "https://open.spotify.com/album/3BmgXTaQ92JQCrlPu6pMxX"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 170161,
       "name": "Tune in, Drop Out",
       "url": "https://open.spotify.com/track/7z6SewNpOG8GI85z5GbxaB"
+    },
+    {
+      "added_at": "2022-06-23 14:53:44",
+      "album": {
+        "name": "You'd Prefer An Astronaut",
+        "url": "https://open.spotify.com/album/2qx0YtBEDcbpclLlqzRi2o"
+      },
+      "artists": [
+        {
+          "name": "Hum",
+          "url": "https://open.spotify.com/artist/6sM2JCBjZprP7JLMTZZSxX"
+        }
+      ],
+      "duration_ms": 277560,
+      "name": "The Pod",
+      "url": "https://open.spotify.com/track/5eGfO6X1Vvpgb5LFaL5rLF"
     },
     {
       "added_at": "2022-06-23 14:53:44",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2022-06-23 14:53:44",
       "album": {
-        "name": "Open Book",
-        "url": "https://open.spotify.com/album/3QtRa1ioVt6XegDsxMK8MH"
-      },
-      "artists": [
-        {
-          "name": "Fatherson",
-          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
-        }
-      ],
-      "duration_ms": 191657,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/7ARF5nMaEIwAvGNoY5V5DT"
-    },
-    {
-      "added_at": "2022-06-23 14:53:44",
-      "album": {
         "name": "The Vertigo of Bliss",
         "url": "https://open.spotify.com/album/5gFvzz68wze0kCwbkIwWeW"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 242693,
       "name": "Questions and Answers",
       "url": "https://open.spotify.com/track/6acLYdlH82V0GczGpIVuvi"
+    },
+    {
+      "added_at": "2022-06-23 14:53:44",
+      "album": {
+        "name": "Open Book",
+        "url": "https://open.spotify.com/album/3QtRa1ioVt6XegDsxMK8MH"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "duration_ms": 191657,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/7ARF5nMaEIwAvGNoY5V5DT"
     },
     {
       "added_at": "2022-06-23 14:53:44",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2022-06-23 14:53:44",
       "album": {
-        "name": "Number One",
-        "url": "https://open.spotify.com/album/1ebPLIDXDzTqLlRlizuZ8Z"
-      },
-      "artists": [
-        {
-          "name": "Pist.On",
-          "url": "https://open.spotify.com/artist/7i5SNZSnLm9J4QImRyS3Pr"
-        }
-      ],
-      "duration_ms": 237893,
-      "name": "Grey Flap",
-      "url": "https://open.spotify.com/track/2sNc1BGA2hqnGLHLNfRHQO"
-    },
-    {
-      "added_at": "2022-06-23 14:53:44",
-      "album": {
         "name": "Be Your Man",
         "url": "https://open.spotify.com/album/7vuZMf0cXrAKVVXAz6Gaq1"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 217733,
       "name": "Be Your Man",
       "url": "https://open.spotify.com/track/4OE8lJeG82iSDhHo3reh1N"
+    },
+    {
+      "added_at": "2022-06-23 14:53:44",
+      "album": {
+        "name": "Number One",
+        "url": "https://open.spotify.com/album/1ebPLIDXDzTqLlRlizuZ8Z"
+      },
+      "artists": [
+        {
+          "name": "Pist.On",
+          "url": "https://open.spotify.com/artist/7i5SNZSnLm9J4QImRyS3Pr"
+        }
+      ],
+      "duration_ms": 237893,
+      "name": "Grey Flap",
+      "url": "https://open.spotify.com/track/2sNc1BGA2hqnGLHLNfRHQO"
     },
     {
       "added_at": "2022-06-23 14:53:44",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2022-06-23 14:53:44",
       "album": {
-        "name": "Monolith",
-        "url": "https://open.spotify.com/album/4HQRSjBvCGeyKlxfVl5XyS"
-      },
-      "artists": [
-        {
-          "name": "Hobosexual",
-          "url": "https://open.spotify.com/artist/2iR3PsmigYfqj8EdkIwsJK"
-        }
-      ],
-      "duration_ms": 353582,
-      "name": "Trans Am Sunday",
-      "url": "https://open.spotify.com/track/72pKKGbVrb8tk0jpf1OCsF"
-    },
-    {
-      "added_at": "2022-06-23 14:53:44",
-      "album": {
         "name": "Effloresce",
         "url": "https://open.spotify.com/album/6yY6v4JnwTQGo5w9IZqTRu"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 400680,
       "name": "Catalyst - Remastered",
       "url": "https://open.spotify.com/track/5SCCzPzozC2v2wqHev6M0M"
+    },
+    {
+      "added_at": "2022-06-23 14:53:44",
+      "album": {
+        "name": "Monolith",
+        "url": "https://open.spotify.com/album/4HQRSjBvCGeyKlxfVl5XyS"
+      },
+      "artists": [
+        {
+          "name": "Hobosexual",
+          "url": "https://open.spotify.com/artist/2iR3PsmigYfqj8EdkIwsJK"
+        }
+      ],
+      "duration_ms": 353582,
+      "name": "Trans Am Sunday",
+      "url": "https://open.spotify.com/track/72pKKGbVrb8tk0jpf1OCsF"
     },
     {
       "added_at": "2022-06-23 14:53:44",

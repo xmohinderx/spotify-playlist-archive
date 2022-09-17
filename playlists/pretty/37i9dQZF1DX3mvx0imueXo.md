@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3mvx0imueXo.md) - [plain]
 
 > Let the music lift your soul\. Vibes from the different islands in the Caribbean
 
-[Spotify](https://open.spotify.com/user/spotify) - 380,333 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 380,373 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3mvx0imueXo.md) - [plain]
 | 45 | [Country For Sale](https://open.spotify.com/track/68oDnG7v4aBLMuv1eai4Wz) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Country For Sale](https://open.spotify.com/album/3XuNfGRXqZu5Io2clP5RUd) | 4:00 |
 | 46 | [Lots Of Sign](https://open.spotify.com/track/4RNgiFBdRT9e8NRLoNdlwu) | [Wayne Marshall](https://open.spotify.com/artist/1L9hOwgmwVUkUftkPH0JU1) | [Lots Of Sign](https://open.spotify.com/album/6svqHHx9tpGobba8ZBlxR4) | 3:47 |
 | 47 | [Maths Test](https://open.spotify.com/track/0v2Krzg5HdHleXGoM6mEv1) | [Claye](https://open.spotify.com/artist/5cxA5TNOxf4h9Y9btuxpCG) | [Maths Test](https://open.spotify.com/album/6Wae1ovQK64eevnfafvonv) | 2:52 |
-| 48 | [Plastic Smile](https://open.spotify.com/track/55cJxAVdfFkkoavazIsqev) | [Sizzla](https://open.spotify.com/artist/72T7x96EAqN2UWvAgobYfv), [Bakersteez](https://open.spotify.com/artist/7ME0YHfCVRdZOfApJmHGhh) | [Plastic Smile](https://open.spotify.com/album/75XgUIt3RiQTe9KMFJ8Yns) | 3:43 |
-| 49 | [Good Love \(feat\. General Levy\)](https://open.spotify.com/track/46En06kODv5V6uj9nwoLmj) | [Reggae Roast](https://open.spotify.com/artist/6X9sCKOanZEWlaDnFw24Ed), [General Levy](https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I) | [Good Love \(feat\. General Levy\)](https://open.spotify.com/album/6JRuF0Vy647e0oeqEZTA7b) | 3:03 |
-| 50 | [Well Excellent](https://open.spotify.com/track/2Hx9cYkT5WGVEwx0CgZluk) | [Mr\. Williamz](https://open.spotify.com/artist/3iL52u3kr14P6cTpB0VuEs) | [Soundkilla Mindset](https://open.spotify.com/album/43b7p4ETTf4892gZ3UmO8K) | 3:36 |
+| 48 | [Well Excellent](https://open.spotify.com/track/2Hx9cYkT5WGVEwx0CgZluk) | [Mr\. Williamz](https://open.spotify.com/artist/3iL52u3kr14P6cTpB0VuEs) | [Soundkilla Mindset](https://open.spotify.com/album/43b7p4ETTf4892gZ3UmO8K) | 3:36 |
+| 49 | [Plastic Smile](https://open.spotify.com/track/55cJxAVdfFkkoavazIsqev) | [Sizzla](https://open.spotify.com/artist/72T7x96EAqN2UWvAgobYfv), [Bakersteez](https://open.spotify.com/artist/7ME0YHfCVRdZOfApJmHGhh) | [Plastic Smile](https://open.spotify.com/album/75XgUIt3RiQTe9KMFJ8Yns) | 3:43 |
+| 50 | [Good Love \(feat\. General Levy\)](https://open.spotify.com/track/46En06kODv5V6uj9nwoLmj) | [Reggae Roast](https://open.spotify.com/artist/6X9sCKOanZEWlaDnFw24Ed), [General Levy](https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I) | [Good Love \(feat\. General Levy\)](https://open.spotify.com/album/6JRuF0Vy647e0oeqEZTA7b) | 3:03 |
 
-Snapshot ID: `MTY1NTc0NzYzNiwwMDAwMDAwMGJhZWZlNTVkZGM5OGJjOWFlNmMyZTcwNTdjZTBhNTlk`
+Snapshot ID: `MTY1NTc0NzYzNiwwMDAwMDAwMDZmNDRkM2VlMDdkNWYwODk3ODE2MDBmMmU2N2M5ZTA0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,172 likes - 66 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,284 likes - 66 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 | 25 | [Limbo](https://open.spotify.com/track/2yeVKV31JmQFH97Kok32xh) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE) | [Limbo](https://open.spotify.com/album/65h4tA2Hfuse7IxxeXtBi1) | 3:15 |
 | 26 | [Superpower \(KM Remix\)](https://open.spotify.com/track/7srrFIxUG3AqUwVf5GQS5K) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [Superpower \(KM Remix\)](https://open.spotify.com/album/2MinXn5C1XQ9NN75AOTU1X) | 4:33 |
 | 27 | [Sherbet](https://open.spotify.com/track/56jXepSKHL0ZiIstrSpoMz) | [Sala](https://open.spotify.com/artist/6PCEjMwZEdp6lUJv7z2prW), [Tio](https://open.spotify.com/artist/7LzfAWU6jvqg8fVeNc0fqB), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [Sherbet](https://open.spotify.com/album/4KhKPafupvHCvSb8lt6CAj) | 3:25 |
-| 28 | [Daydream Believer feat\. Bim](https://open.spotify.com/track/4fA0MAm36U4x4B3gb9qE36) | [No Buses](https://open.spotify.com/artist/5Tj6sv1bYiB4PqvvXcTSr6), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [Sweet Home](https://open.spotify.com/album/6U8mea9zHq3z2yJmx8wKA7) | 2:56 |
+| 28 | [Daydream Believer feat\. BIM](https://open.spotify.com/track/4fA0MAm36U4x4B3gb9qE36) | [No Buses](https://open.spotify.com/artist/5Tj6sv1bYiB4PqvvXcTSr6), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [Sweet Home](https://open.spotify.com/album/6U8mea9zHq3z2yJmx8wKA7) | 2:56 |
 | 29 | [REAL U](https://open.spotify.com/track/2JypeIwdyi8h4nPDQW37XZ) | [藤田織也](https://open.spotify.com/artist/1gjcLvf9YDsoMiLWQT6spd) | [REAL U](https://open.spotify.com/album/1SkiWJuQFETQaarWcCZTqh) | 3:33 |
 | 30 | [MAGIC WAYS](https://open.spotify.com/track/783nZiDSXc4qLTXwx5t04g) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD) | [MAGIC WAYS](https://open.spotify.com/album/6ABM2rD5JvdwPGZDQ3bNEw) | 4:29 |
 | 31 | [真夏の恋は気まぐれ](https://open.spotify.com/track/3DYLsJ0hAzbVGCOIWN011L) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [真夏の恋は気まぐれ](https://open.spotify.com/album/6B0YhBGykGrRAfkgCe2ODk) | 4:09 |

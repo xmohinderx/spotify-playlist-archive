@@ -4,7 +4,7 @@
 
 > The best new tracks every week\. Cover: Maggie Lindemann
 
-1,937 songs - 4 day 14 hr 40 min - [published](https://open.spotify.com/playlist/48vgkrE0s2mfpgNewZs3ZM)
+1,939 songs - 4 day 14 hr 48 min - [published](https://open.spotify.com/playlist/48vgkrE0s2mfpgNewZs3ZM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,7 +163,8 @@
 | [Benediction \(I Hope that You Feel Loved\)](https://open.spotify.com/track/1HLGJHRDJjNPjOapXHaZuo) | [When the Clock Strikes](https://open.spotify.com/artist/3n7oA0vf8A2X0GqEv2GDDy) | [Benediction \(I Hope that You Feel Loved\)](https://open.spotify.com/album/2Bci2GwXjJIukZs3ba9cOm) | 4:13 | 2021-12-16 | 2022-01-07 |
 | [Best of Me](https://open.spotify.com/track/0tC3aKyxTuy4lahcB6Rqb2) | [Reef](https://open.spotify.com/artist/191Koh7PSIi28IrGAGoINO) | [Best Of Me](https://open.spotify.com/album/79P5oUNpNzSt2h46jX0QKi) | 4:12 | 2022-03-24 | 2022-04-01 |
 | [BETTER](https://open.spotify.com/track/2QgZpszbkDWUYtf0Khmrge) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [IF I DIED WOULD ANYONE CARE](https://open.spotify.com/album/0Ze8BkvkvoZ9VmiIM7s2hQ) | 2:57 | 2022-01-27 | 2022-02-04 |
-| [Better Angels](https://open.spotify.com/track/1WckQ5AxU2e4lvZ5aR845A) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [\(self\-titled\)](https://open.spotify.com/album/2PVuzlWu3Z7Af2y9O2Gppk) | 3:25 | 2022-09-15 |  |
+| [Better Angels](https://open.spotify.com/track/1WckQ5AxU2e4lvZ5aR845A) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [\(self\-titled\)](https://open.spotify.com/album/2PVuzlWu3Z7Af2y9O2Gppk) | 3:25 | 2022-09-15 | 2022-09-17 |
+| [Better Angels](https://open.spotify.com/track/4ea8UWKf6mWySfzddxfKfE) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [\(self\-titled\)](https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE) | 3:25 | 2022-09-15 |  |
 | [Better Days](https://open.spotify.com/track/5tarIM9VB3BpdIkNrZ3rt1) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [Better Days](https://open.spotify.com/album/69pEA76PQuoWNb3GQyixD9) | 4:19 | 2022-04-22 | 2022-04-29 |
 | [Better Dayz](https://open.spotify.com/track/4FCsd4YCpWIk5INu62aYPx) | [Art Of Dying](https://open.spotify.com/artist/28DlNBW2UlEVVgTuCcYtTe) | [Better Dayz](https://open.spotify.com/album/2lSEaJEqr7hmvX7oyREwOr) | 3:17 | 2022-06-16 | 2022-06-24 |
 | [Better Friend](https://open.spotify.com/track/6KfQ8vcjvMH87mrD96WFSC) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Better Friend](https://open.spotify.com/album/75XZVRTJTmmVIpicxZLRuL) | 4:17 | 2022-02-24 | 2022-03-04 |
@@ -1256,7 +1257,8 @@
 | [Perfectly Imperfect](https://open.spotify.com/track/3dWy0VondkohX7GE6aOI3c) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Perfectly Imperfect](https://open.spotify.com/album/0mXpWAdx70cPnVJIkEDDsx) | 2:24 | 2022-06-09 | 2022-06-17 |
 | [Permanent Rebellion](https://open.spotify.com/track/2Ot85xcajHDvU7cD2BdR2M) | [L.S\. Dunes](https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG) | [Permanent Rebellion](https://open.spotify.com/album/2LbVe89xE3nidK1eYLwrfH) | 3:13 | 2022-08-26 | 2022-09-09 |
 | [Permanently Sealed \- Bonus Track](https://open.spotify.com/track/2KEbK50PjCZKdbaycJkYy1) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Below \(Deluxe\)](https://open.spotify.com/album/4vgHXHbrOmKsNBb4icJJ6G) | 3:08 | 2022-03-18 | 2022-03-25 |
-| [Personality Disorder](https://open.spotify.com/track/3Si1CN1khI5LRvwqUX1e2u) | [Suede](https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS) | [Autofiction](https://open.spotify.com/album/6wwmFYghPYQzY9BP7uiZFs) | 4:00 | 2022-09-15 |  |
+| [Personality Disorder](https://open.spotify.com/track/3Si1CN1khI5LRvwqUX1e2u) | [Suede](https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS) | [Autofiction](https://open.spotify.com/album/6wwmFYghPYQzY9BP7uiZFs) | 4:00 | 2022-09-15 | 2022-09-17 |
+| [Personality Disorder](https://open.spotify.com/track/7noQsk2Wm00f5HlH2Zmume) | [The London Suede](https://open.spotify.com/artist/6GuRYj1MEnu1WZhDA2Xy0t) | [Autofiction](https://open.spotify.com/album/6yLKyq7x7ZCpL7p99smtsO) | 4:00 | 2022-09-15 |  |
 | [Pessimist](https://open.spotify.com/track/1Gb6CzcZQbQR0Abno1bLIu) | [Telltale](https://open.spotify.com/artist/6bmGjHSXH8rPaZ2iQhgNQ0) | [Lie Your Way Out](https://open.spotify.com/album/4jrqL89L1mezhs2NG3yCb8) | 3:00 | 2022-03-24 | 2022-04-01 |
 | [Petrichor](https://open.spotify.com/track/5cMoth993LZmKWhWx1rkjp) | [Brandon Boyd](https://open.spotify.com/artist/0QmjlE852mAIaEt2IpBquO) | [Petrichor](https://open.spotify.com/album/4vGt9ABvSz8IYyVmqkcx13) | 4:03 | 2021-12-16 | 2022-01-07 |
 | [pg.4 a picture of three hedges](https://open.spotify.com/track/4qtRBRNDFVbZ2kk3BEaRf3) | [julie](https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW) | [pg.4 a picture of three hedges/through your window](https://open.spotify.com/album/12TPSTIy5SbQnGRirNzNcB) | 4:09 | 2022-08-12 | 2022-08-20 |

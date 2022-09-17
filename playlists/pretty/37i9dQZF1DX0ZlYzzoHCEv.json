@@ -1,12 +1,12 @@
 {
   "description": "musica per quando non sai insomma come",
-  "num_followers": 15522,
+  "num_followers": 15594,
   "original_name": "la mia testa:",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY3NDQ2MCwwMDAwMDAwMDNhYjYyMjE4MzhkY2E5NDU1NzY5NTNiNTVmYzNhYzU2",
+  "snapshot_id": "MTY2MjY3NDQ2MCwwMDAwMDAwMGQ1ZDdkYWY2ODE1MjgzYmQwMmU0M2NmZjY1OTlmMDNj",
   "tracks": [
     {
       "added_at": "2022-09-08 22:01:00",
@@ -399,22 +399,6 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "Close Eyes",
-        "url": "https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF"
-      },
-      "artists": [
-        {
-          "name": "DVRST",
-          "url": "https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5"
-        }
-      ],
-      "duration_ms": 132346,
-      "name": "Close Eyes",
-      "url": "https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
         "name": "HELP EVER HURT NEVER",
         "url": "https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 185573,
       "name": "\u6b7b\u306c\u306e\u304c\u3044\u3044\u308f",
       "url": "https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
+        "name": "Close Eyes",
+        "url": "https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF"
+      },
+      "artists": [
+        {
+          "name": "DVRST",
+          "url": "https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5"
+        }
+      ],
+      "duration_ms": 132346,
+      "name": "Close Eyes",
+      "url": "https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -467,22 +467,6 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "IGOR",
-        "url": "https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        }
-      ],
-      "duration_ms": 195320,
-      "name": "NEW MAGIC WAND",
-      "url": "https://open.spotify.com/track/0fv2KH6hac06J86hBUTcSf"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
         "name": "Blonde",
         "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
       },
@@ -499,18 +483,18 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "Be the Cowboy",
-        "url": "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq"
+        "name": "IGOR",
+        "url": "https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE"
       },
       "artists": [
         {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
         }
       ],
-      "duration_ms": 128198,
-      "name": "Washing Machine Heart",
-      "url": "https://open.spotify.com/track/3jjsRKEsF42ccXf8kWR3nu"
+      "duration_ms": 195320,
+      "name": "NEW MAGIC WAND",
+      "url": "https://open.spotify.com/track/0fv2KH6hac06J86hBUTcSf"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -527,6 +511,22 @@
       "duration_ms": 151776,
       "name": "Dah Dah DahDah",
       "url": "https://open.spotify.com/track/2TSfStvlAMLw89u3tali79"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
+        "name": "Be the Cowboy",
+        "url": "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 128198,
+      "name": "Washing Machine Heart",
+      "url": "https://open.spotify.com/track/3jjsRKEsF42ccXf8kWR3nu"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "Salad Days",
-        "url": "https://open.spotify.com/album/2sij95QgjmgrhNv33achzn"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 231723,
-      "name": "Chamber Of Reflection",
-      "url": "https://open.spotify.com/track/7H7NyZ3G075GqPx2evsfeb"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
         "name": "Talk",
         "url": "https://open.spotify.com/album/7dMwNA2bcmk60N4s27fk5e"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 174857,
       "name": "Talk",
       "url": "https://open.spotify.com/track/0ypjMI7vHiDP4sLB1C0Qna"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
+        "name": "Salad Days",
+        "url": "https://open.spotify.com/album/2sij95QgjmgrhNv33achzn"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 231723,
+      "name": "Chamber Of Reflection",
+      "url": "https://open.spotify.com/track/7H7NyZ3G075GqPx2evsfeb"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "ZOOM",
-        "url": "https://open.spotify.com/album/57dUGxpMd89tEkY3ZVwfKz"
-      },
-      "artists": [
-        {
-          "name": "Jessi",
-          "url": "https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37"
-        }
-      ],
-      "duration_ms": 174840,
-      "name": "ZOOM",
-      "url": "https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
         "name": "My Ordinary Life",
         "url": "https://open.spotify.com/album/4AmFZET7RGujQAhG80kjwu"
       },
@@ -827,22 +811,6 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "Bubble Gum",
-        "url": "https://open.spotify.com/album/4IlnBRDEsHcr9EWxmbgMC2"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 175960,
-      "name": "Bubble Gum",
-      "url": "https://open.spotify.com/track/3zksbXteOCeSusJ5Xltr3t"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
         "name": "Up 2 M\u00eb",
         "url": "https://open.spotify.com/album/1x55Z0fYARLdeJVjG2UESs"
       },
@@ -855,6 +823,38 @@
       "duration_ms": 160052,
       "name": "Mon\u00eby so big",
       "url": "https://open.spotify.com/track/7BbaIYAdi3pg4MGl6PHwPv"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
+        "name": "ZOOM",
+        "url": "https://open.spotify.com/album/57dUGxpMd89tEkY3ZVwfKz"
+      },
+      "artists": [
+        {
+          "name": "Jessi",
+          "url": "https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37"
+        }
+      ],
+      "duration_ms": 174840,
+      "name": "ZOOM",
+      "url": "https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
+        "name": "Bubble Gum",
+        "url": "https://open.spotify.com/album/4IlnBRDEsHcr9EWxmbgMC2"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 175960,
+      "name": "Bubble Gum",
+      "url": "https://open.spotify.com/track/3zksbXteOCeSusJ5Xltr3t"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "masquerade",
-        "url": "https://open.spotify.com/album/1hfRW8Q9CbSzVaKCbaFMxB"
-      },
-      "artists": [
-        {
-          "name": "siouxxie sixxsta",
-          "url": "https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr"
-        }
-      ],
-      "duration_ms": 144535,
-      "name": "masquerade",
-      "url": "https://open.spotify.com/track/0RYHqnmtNRfbYxP6Dn8Vse"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
         "name": "SHADOW",
         "url": "https://open.spotify.com/album/4w0uRvtIjqipuoZ7ngqqcV"
       },
@@ -1203,6 +1187,22 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
+        "name": "masquerade",
+        "url": "https://open.spotify.com/album/1hfRW8Q9CbSzVaKCbaFMxB"
+      },
+      "artists": [
+        {
+          "name": "siouxxie sixxsta",
+          "url": "https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr"
+        }
+      ],
+      "duration_ms": 144535,
+      "name": "masquerade",
+      "url": "https://open.spotify.com/track/0RYHqnmtNRfbYxP6Dn8Vse"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
         "name": "TROUBLED MEMORIES!",
         "url": "https://open.spotify.com/album/3OFuRXFkPOzEZbFp3Os28q"
       },
@@ -1215,6 +1215,22 @@
       "duration_ms": 137806,
       "name": "MEMORIES!",
       "url": "https://open.spotify.com/track/27XMmSWSOXJ7eVb40tH93T"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
+        "name": "BABYDOLL (Speed)",
+        "url": "https://open.spotify.com/album/0qMwROWsV0fT5hBqkH1per"
+      },
+      "artists": [
+        {
+          "name": "Ari Abdul",
+          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
+        }
+      ],
+      "duration_ms": 156650,
+      "name": "BABYDOLL (Speed)",
+      "url": "https://open.spotify.com/track/5K3SJuYEkvvrLbzOjPyRi1"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -1239,22 +1255,6 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "BABYDOLL (Speed)",
-        "url": "https://open.spotify.com/album/0qMwROWsV0fT5hBqkH1per"
-      },
-      "artists": [
-        {
-          "name": "Ari Abdul",
-          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
-        }
-      ],
-      "duration_ms": 156650,
-      "name": "BABYDOLL (Speed)",
-      "url": "https://open.spotify.com/track/5K3SJuYEkvvrLbzOjPyRi1"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
         "name": "to hell with it",
         "url": "https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe"
       },
@@ -1267,22 +1267,6 @@
       "duration_ms": 98544,
       "name": "Pain",
       "url": "https://open.spotify.com/track/4S4QJfBGGrC8jRIjJHf1Ka"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
-        "name": "engravings",
-        "url": "https://open.spotify.com/album/2SbLcM1nwlKO76evmEuX6w"
-      },
-      "artists": [
-        {
-          "name": "Ethan Bortnick",
-          "url": "https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY"
-        }
-      ],
-      "duration_ms": 180186,
-      "name": "engravings",
-      "url": "https://open.spotify.com/track/4u5CfuAGAHNYDIHSSW7BiY"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -1303,6 +1287,22 @@
       "duration_ms": 180690,
       "name": "Play with Fire (feat. Yacht Money)",
       "url": "https://open.spotify.com/track/7vguMCv8uVuZLiQJ156u3Z"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
+        "name": "engravings",
+        "url": "https://open.spotify.com/album/2SbLcM1nwlKO76evmEuX6w"
+      },
+      "artists": [
+        {
+          "name": "Ethan Bortnick",
+          "url": "https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY"
+        }
+      ],
+      "duration_ms": 180186,
+      "name": "engravings",
+      "url": "https://open.spotify.com/track/4u5CfuAGAHNYDIHSSW7BiY"
     }
   ],
   "unique_name": "la mia testa:",

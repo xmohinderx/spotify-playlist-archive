@@ -212,6 +212,28 @@
     },
     {
       "album": {
+        "name": "Baller",
+        "url": "https://open.spotify.com/album/44aCFqUbG06fL58kqpMp8p"
+      },
+      "artists": [
+        {
+          "name": "Shubh",
+          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
+        },
+        {
+          "name": "Ikky",
+          "url": "https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148188,
+      "name": "Baller",
+      "url": "https://open.spotify.com/track/42TMa2hgBNjte4uV7jNCnQ"
+    },
+    {
+      "album": {
         "name": "Barood Wargi",
         "url": "https://open.spotify.com/album/3mELIQNKJF2jSZmPL086Jm"
       },
@@ -1947,7 +1969,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 162346,
       "name": "Plug Talk",
       "url": "https://open.spotify.com/track/4HKbWbn8acXeTq6j0rqO5z"

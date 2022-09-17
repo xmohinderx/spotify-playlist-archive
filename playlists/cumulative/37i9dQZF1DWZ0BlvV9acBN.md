@@ -4,7 +4,7 @@
 
 > Grandes sucessos e novidades do rock Cristão\. Foto: Theo Rubia, Felipe Vilela
 
-70 songs - 5 hr 53 min - not published yet
+70 songs - 5 hr 53 min - [published](https://open.spotify.com/playlist/7oTc2fOi3oZW5UpwamTP2u)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

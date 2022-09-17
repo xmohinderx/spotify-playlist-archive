@@ -1,12 +1,12 @@
 {
   "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: Wet Bed Gang",
-  "num_followers": 30911,
+  "num_followers": 30962,
   "original_name": "Rap Tuga Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY3ODAwMCwwMDAwMDAwMDdjZjI0MjFlMGExZTEyZTRjZjA1YzNhZjcwODUyMDhk",
+  "snapshot_id": "MTY2MjY3ODAwMCwwMDAwMDAwMDYzY2E4Njg1YTk5NjkwYmMxMGNiNTE1ZTYwNTIxZmQ1",
   "tracks": [
     {
       "added_at": "2022-09-08 23:00:00",
@@ -595,26 +595,18 @@
     {
       "added_at": "2022-09-08 23:00:00",
       "album": {
-        "name": "Vivi Good",
-        "url": "https://open.spotify.com/album/2bqAN9XzrQnnspO2LBfMVp"
+        "name": "HEI",
+        "url": "https://open.spotify.com/album/6bDFFQM5OGIerK8zwL2j9F"
       },
       "artists": [
         {
-          "name": "Julinho Ksd",
-          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
-        },
-        {
-          "name": "Yuran",
-          "url": "https://open.spotify.com/artist/3zvbATHitSjEZ54l7QnJN0"
-        },
-        {
-          "name": "Trista",
-          "url": "https://open.spotify.com/artist/1hsrQJC4A7sVS6wOwTxRxw"
+          "name": "ProfJam",
+          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
         }
       ],
-      "duration_ms": 214872,
-      "name": "Vivi Good",
-      "url": "https://open.spotify.com/track/6MLQRF8D7LsOvZwkt1UcZP"
+      "duration_ms": 208000,
+      "name": "HEI",
+      "url": "https://open.spotify.com/track/5IsQNZTVP4Lkfn2eMVE0nt"
     },
     {
       "added_at": "2022-09-08 23:00:00",
@@ -655,22 +647,6 @@
     {
       "added_at": "2022-09-08 23:00:00",
       "album": {
-        "name": "HEI",
-        "url": "https://open.spotify.com/album/6bDFFQM5OGIerK8zwL2j9F"
-      },
-      "artists": [
-        {
-          "name": "ProfJam",
-          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "HEI",
-      "url": "https://open.spotify.com/track/5IsQNZTVP4Lkfn2eMVE0nt"
-    },
-    {
-      "added_at": "2022-09-08 23:00:00",
-      "album": {
         "name": "Bolero",
         "url": "https://open.spotify.com/album/5rRtrYZiRhOcj6WDD4BhuT"
       },
@@ -687,6 +663,30 @@
       "duration_ms": 260301,
       "name": "Bolero",
       "url": "https://open.spotify.com/track/7mdE30Ov4in9UOCUcQiIK0"
+    },
+    {
+      "added_at": "2022-09-08 23:00:00",
+      "album": {
+        "name": "Vivi Good",
+        "url": "https://open.spotify.com/album/2bqAN9XzrQnnspO2LBfMVp"
+      },
+      "artists": [
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        },
+        {
+          "name": "Yuran",
+          "url": "https://open.spotify.com/artist/3zvbATHitSjEZ54l7QnJN0"
+        },
+        {
+          "name": "Trista",
+          "url": "https://open.spotify.com/artist/1hsrQJC4A7sVS6wOwTxRxw"
+        }
+      ],
+      "duration_ms": 214872,
+      "name": "Vivi Good",
+      "url": "https://open.spotify.com/track/6MLQRF8D7LsOvZwkt1UcZP"
     },
     {
       "added_at": "2022-09-08 23:00:00",
@@ -739,18 +739,22 @@
     {
       "added_at": "2022-09-08 23:00:00",
       "album": {
-        "name": "Sentimento Safari",
-        "url": "https://open.spotify.com/album/4Oy7rehFfj44km84s11jUv"
+        "name": "#FFFFFF",
+        "url": "https://open.spotify.com/album/4OltHlGzkBCjBkbWtJyO5E"
       },
       "artists": [
         {
-          "name": "Julinho Ksd",
-          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+          "name": "ProfJam",
+          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
+        },
+        {
+          "name": "F\u00ednix MG",
+          "url": "https://open.spotify.com/artist/7dwz1nJE4Twe22y0rnYg8u"
         }
       ],
-      "duration_ms": 205217,
-      "name": "Sentimento Safari",
-      "url": "https://open.spotify.com/track/2t98sYRAQZAXqdwi3Sf6pQ"
+      "duration_ms": 336528,
+      "name": "\u00c0 Vontade (feat. F\u00ednix MG)",
+      "url": "https://open.spotify.com/track/68VCmJEV8PFoOPGE1ALxtM"
     },
     {
       "added_at": "2022-09-08 23:00:00",
@@ -803,26 +807,6 @@
     {
       "added_at": "2022-09-08 23:00:00",
       "album": {
-        "name": "#FFFFFF",
-        "url": "https://open.spotify.com/album/4OltHlGzkBCjBkbWtJyO5E"
-      },
-      "artists": [
-        {
-          "name": "ProfJam",
-          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
-        },
-        {
-          "name": "F\u00ednix MG",
-          "url": "https://open.spotify.com/artist/7dwz1nJE4Twe22y0rnYg8u"
-        }
-      ],
-      "duration_ms": 336528,
-      "name": "\u00c0 Vontade (feat. F\u00ednix MG)",
-      "url": "https://open.spotify.com/track/68VCmJEV8PFoOPGE1ALxtM"
-    },
-    {
-      "added_at": "2022-09-08 23:00:00",
-      "album": {
         "name": "P de Pablito",
         "url": "https://open.spotify.com/album/7BkBkdAwb0X7pbIBjP9zzF"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 182000,
       "name": "P de Pablito",
       "url": "https://open.spotify.com/track/5iZdN7FwGMBBaYsPP5DO8l"
+    },
+    {
+      "added_at": "2022-09-08 23:00:00",
+      "album": {
+        "name": "Sentimento Safari",
+        "url": "https://open.spotify.com/album/4Oy7rehFfj44km84s11jUv"
+      },
+      "artists": [
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        }
+      ],
+      "duration_ms": 205217,
+      "name": "Sentimento Safari",
+      "url": "https://open.spotify.com/track/2t98sYRAQZAXqdwi3Sf6pQ"
     },
     {
       "added_at": "2022-09-08 23:00:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2022-09-08 23:00:00",
       "album": {
-        "name": "Conclus\u00e3o",
-        "url": "https://open.spotify.com/album/44Hs7uBI8i9aJlDp2nkQxE"
-      },
-      "artists": [
-        {
-          "name": "Julinho Ksd",
-          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
-        }
-      ],
-      "duration_ms": 147820,
-      "name": "Conclus\u00e3o",
-      "url": "https://open.spotify.com/track/3POu1ffLnehBhpNGuaaOG3"
-    },
-    {
-      "added_at": "2022-09-08 23:00:00",
-      "album": {
         "name": "N\u00f3s",
         "url": "https://open.spotify.com/album/3Nhv7u22lQ4LieQlR7l4Lz"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 209882,
       "name": "SAFE (feat. Lhast, LON3R JOHNY & 9 Miller)",
       "url": "https://open.spotify.com/track/2DFM9kky0Jp7C4VSPspR2i"
+    },
+    {
+      "added_at": "2022-09-08 23:00:00",
+      "album": {
+        "name": "Conclus\u00e3o",
+        "url": "https://open.spotify.com/album/44Hs7uBI8i9aJlDp2nkQxE"
+      },
+      "artists": [
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        }
+      ],
+      "duration_ms": 147820,
+      "name": "Conclus\u00e3o",
+      "url": "https://open.spotify.com/track/3POu1ffLnehBhpNGuaaOG3"
     },
     {
       "added_at": "2022-09-08 23:00:00",
@@ -1015,30 +1015,6 @@
     {
       "added_at": "2022-09-08 23:00:00",
       "album": {
-        "name": "Hospedeira",
-        "url": "https://open.spotify.com/album/70RrsVJWce6JhWGVG4vDgm"
-      },
-      "artists": [
-        {
-          "name": "Julinho Ksd",
-          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
-        },
-        {
-          "name": "Deezy",
-          "url": "https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN"
-        },
-        {
-          "name": "T-Rex",
-          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
-        }
-      ],
-      "duration_ms": 265631,
-      "name": "Hospedeira",
-      "url": "https://open.spotify.com/track/3M0jzvLAw4gfwm8VOyIJE9"
-    },
-    {
-      "added_at": "2022-09-08 23:00:00",
-      "album": {
         "name": "Deixar Rolar",
         "url": "https://open.spotify.com/album/3GqwReTKFEXIEhXko2DxYD"
       },
@@ -1071,6 +1047,26 @@
       "duration_ms": 304600,
       "name": "O Re$To",
       "url": "https://open.spotify.com/track/6Esm2XoX3JwEkCQLybx03R"
+    },
+    {
+      "added_at": "2022-09-08 23:00:00",
+      "album": {
+        "name": "2020 (feat. Slow J)",
+        "url": "https://open.spotify.com/album/41L3sIZeJUDGhh2xMsSlEQ"
+      },
+      "artists": [
+        {
+          "name": "Lhast",
+          "url": "https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw"
+        },
+        {
+          "name": "Slow J",
+          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+        }
+      ],
+      "duration_ms": 203812,
+      "name": "2020 (feat. Slow J)",
+      "url": "https://open.spotify.com/track/19J1fuhnZdlDM7UNM7SUjS"
     }
   ],
   "unique_name": "Rap Tuga Hits",

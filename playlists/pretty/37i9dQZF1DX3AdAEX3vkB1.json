@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1960s.",
-  "num_followers": 138897,
+  "num_followers": 139031,
   "original_name": "60s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTM0MTM0NywwMDAwMDAwMDE1ZjU0NGIxYWZkY2NmMzhkOTRlOGVmY2U4OGY5Nzg4",
+  "snapshot_id": "MTY1OTM0MTM0NywwMDAwMDAwMDM3NTg4M2UyN2Y1MjU3YTE1ZTUwYTA5NWViNDUzZmZm",
   "tracks": [
     {
       "added_at": "2022-06-16 22:02:00",
@@ -303,22 +303,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Smiley Smile (Remastered)",
-        "url": "https://open.spotify.com/album/37rNuexqEXWeSIOiJtn3A9"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 219026,
-      "name": "Good Vibrations - Remastered 2001",
-      "url": "https://open.spotify.com/track/5t9KYe0Fhd5cW6UYT4qP8f"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "I Got You (I Feel Good)",
         "url": "https://open.spotify.com/album/5UqTOjkfRMzkORwpeOWtt3"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 165800,
       "name": "I Got You (I Feel Good)",
       "url": "https://open.spotify.com/track/5haXbSJqjjM0TCJ5XkfEaC"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Smiley Smile (Remastered)",
+        "url": "https://open.spotify.com/album/37rNuexqEXWeSIOiJtn3A9"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 219026,
+      "name": "Good Vibrations - Remastered 2001",
+      "url": "https://open.spotify.com/track/5t9KYe0Fhd5cW6UYT4qP8f"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "All Summer Long (Mono & Stereo)",
-        "url": "https://open.spotify.com/album/6GnzWMUyNEETCq6eftD98v"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 134386,
-      "name": "I Get Around (Mono)",
-      "url": "https://open.spotify.com/track/3v9xlH6BpmRbqL7hgNJhfT"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Do You Love Me (Now That I Can Dance)",
         "url": "https://open.spotify.com/album/0lsPVVIQ2e9CzDZCTtQB89"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 172946,
       "name": "Do You Love Me - Mono Single",
       "url": "https://open.spotify.com/track/0Omt3rVppHIlYFXNL1VWgL"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "All Summer Long (Mono & Stereo)",
+        "url": "https://open.spotify.com/album/6GnzWMUyNEETCq6eftD98v"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 134386,
+      "name": "I Get Around (Mono)",
+      "url": "https://open.spotify.com/track/3v9xlH6BpmRbqL7hgNJhfT"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Come A Little Bit Closer: The Best Of Jay & The Americans",
-        "url": "https://open.spotify.com/album/0LMJo3p9QqRjaap3qvlTY6"
-      },
-      "artists": [
-        {
-          "name": "Jay & The Americans",
-          "url": "https://open.spotify.com/artist/0DAqhikcMKLo2lPADVz2fs"
-        }
-      ],
-      "duration_ms": 166666,
-      "name": "Come A Little Bit Closer",
-      "url": "https://open.spotify.com/track/252YuUdUaC5OojaBU0H1CP"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "The Exciting Wilson Pickett",
         "url": "https://open.spotify.com/album/3fxWzXNMhTz01uShzMARnm"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 146973,
       "name": "Land of 1000 Dances",
       "url": "https://open.spotify.com/track/76ICmoJ4PcoMWoooaTxnQs"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Come A Little Bit Closer: The Best Of Jay & The Americans",
+        "url": "https://open.spotify.com/album/0LMJo3p9QqRjaap3qvlTY6"
+      },
+      "artists": [
+        {
+          "name": "Jay & The Americans",
+          "url": "https://open.spotify.com/artist/0DAqhikcMKLo2lPADVz2fs"
+        }
+      ],
+      "duration_ms": 166666,
+      "name": "Come A Little Bit Closer",
+      "url": "https://open.spotify.com/track/252YuUdUaC5OojaBU0H1CP"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Hey! Baby (Deluxe Edition Remastered)",
-        "url": "https://open.spotify.com/album/09YAng6bZ2wJVcL3MWVCri"
-      },
-      "artists": [
-        {
-          "name": "Bruce Channel",
-          "url": "https://open.spotify.com/artist/5Do19ow5oRPYYU46jqdkwh"
-        }
-      ],
-      "duration_ms": 143627,
-      "name": "Hey! Baby - Remastered",
-      "url": "https://open.spotify.com/track/0obIo2GEab6qqms6t3JaMY"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Take Two",
         "url": "https://open.spotify.com/album/0My58U9zPnyq4TIZOr7brK"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 177666,
       "name": "It Takes Two",
       "url": "https://open.spotify.com/track/0UERoCKd24PKovd4BwRzBQ"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Hey! Baby (Deluxe Edition Remastered)",
+        "url": "https://open.spotify.com/album/09YAng6bZ2wJVcL3MWVCri"
+      },
+      "artists": [
+        {
+          "name": "Bruce Channel",
+          "url": "https://open.spotify.com/artist/5Do19ow5oRPYYU46jqdkwh"
+        }
+      ],
+      "duration_ms": 143627,
+      "name": "Hey! Baby - Remastered",
+      "url": "https://open.spotify.com/track/0obIo2GEab6qqms6t3JaMY"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "The Very Best of Solomon Burke",
-        "url": "https://open.spotify.com/album/6qnOfoAUz11fZ98GFilmKE"
-      },
-      "artists": [
-        {
-          "name": "Solomon Burke",
-          "url": "https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb"
-        }
-      ],
-      "duration_ms": 166066,
-      "name": "Everybody Needs Somebody to Love",
-      "url": "https://open.spotify.com/track/4NL8D4RQsC6ux6eI3m3Lg5"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Up-Tight",
         "url": "https://open.spotify.com/album/0qnHA4SDco9mPuWGzDqVDK"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 174400,
       "name": "Uptight (Everything's Alright)",
       "url": "https://open.spotify.com/track/0Hw6SCrtU9pFCjgAONpnGZ"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "The Very Best of Solomon Burke",
+        "url": "https://open.spotify.com/album/6qnOfoAUz11fZ98GFilmKE"
+      },
+      "artists": [
+        {
+          "name": "Solomon Burke",
+          "url": "https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb"
+        }
+      ],
+      "duration_ms": 166066,
+      "name": "Everybody Needs Somebody to Love",
+      "url": "https://open.spotify.com/track/4NL8D4RQsC6ux6eI3m3Lg5"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Circulate (Expanded Edition)",
-        "url": "https://open.spotify.com/album/66qxRQqOy7kVcsVpT0OVFZ"
-      },
-      "artists": [
-        {
-          "name": "Neil Sedaka",
-          "url": "https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL"
-        }
-      ],
-      "duration_ms": 139200,
-      "name": "Breaking Up Is Hard to Do",
-      "url": "https://open.spotify.com/track/2x6pbpjVGjiWCcH89IK8AX"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Comin' Home Baby",
         "url": "https://open.spotify.com/album/5OtQlb0pY3Xkg0teNeVm22"
       },
@@ -1383,6 +1367,22 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
+        "name": "Circulate (Expanded Edition)",
+        "url": "https://open.spotify.com/album/66qxRQqOy7kVcsVpT0OVFZ"
+      },
+      "artists": [
+        {
+          "name": "Neil Sedaka",
+          "url": "https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL"
+        }
+      ],
+      "duration_ms": 139200,
+      "name": "Breaking Up Is Hard to Do",
+      "url": "https://open.spotify.com/track/2x6pbpjVGjiWCcH89IK8AX"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
         "name": "My Boy Lollipop: The Best Of Millie Small",
         "url": "https://open.spotify.com/album/18Qjvcq1V56GELsTi4fIdS"
       },
@@ -1395,6 +1395,22 @@
       "duration_ms": 120466,
       "name": "My Boy Lollipop",
       "url": "https://open.spotify.com/track/5IM6psLoDLytszopZz9ZOm"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "The Chiffons Absolutely The Best!",
+        "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
+      },
+      "artists": [
+        {
+          "name": "The Chiffons",
+          "url": "https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj"
+        }
+      ],
+      "duration_ms": 112520,
+      "name": "He's So Fine - Remastered 2000",
+      "url": "https://open.spotify.com/track/2Bs1Lw9LX8hBm70t1iGdlh"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1427,22 +1443,6 @@
       "duration_ms": 138546,
       "name": "Hello Mary Lou, Goodbye Heart - Remastered",
       "url": "https://open.spotify.com/track/6ImmlZj8ysK2jDnqqbKp60"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "The Chiffons Absolutely The Best!",
-        "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
-      },
-      "artists": [
-        {
-          "name": "The Chiffons",
-          "url": "https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj"
-        }
-      ],
-      "duration_ms": 112520,
-      "name": "He's So Fine - Remastered 2000",
-      "url": "https://open.spotify.com/track/2Bs1Lw9LX8hBm70t1iGdlh"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "The EP Collection",
-        "url": "https://open.spotify.com/album/1bCXn9wG3R40gzR5hwRWmP"
-      },
-      "artists": [
-        {
-          "name": "Lulu",
-          "url": "https://open.spotify.com/artist/0jYKX08u1XxmHrl5TdM2QZ"
-        }
-      ],
-      "duration_ms": 172133,
-      "name": "Shout",
-      "url": "https://open.spotify.com/track/317IZhdCGvInrl3vcmxOlq"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Full Metal Jacket (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3tpJtzZm4Urb0n2ITN5mwF"
       },
@@ -1611,18 +1595,18 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "The Monkees (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1q1LuLo92N5cl5e0GKRq7h"
+        "name": "The EP Collection",
+        "url": "https://open.spotify.com/album/1bCXn9wG3R40gzR5hwRWmP"
       },
       "artists": [
         {
-          "name": "The Monkees",
-          "url": "https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck"
+          "name": "Lulu",
+          "url": "https://open.spotify.com/artist/0jYKX08u1XxmHrl5TdM2QZ"
         }
       ],
-      "duration_ms": 164093,
-      "name": "Last Train to Clarksville - Original Stereo Version; 2006 Remaster",
-      "url": "https://open.spotify.com/track/3h4t9qpFktohHeUQc3hZCa"
+      "duration_ms": 172133,
+      "name": "Shout",
+      "url": "https://open.spotify.com/track/317IZhdCGvInrl3vcmxOlq"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1639,6 +1623,22 @@
       "duration_ms": 153093,
       "name": "Speedy Gonzales",
       "url": "https://open.spotify.com/track/3TmnUIbelFiDzrhZqavHU0"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "The Monkees (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1q1LuLo92N5cl5e0GKRq7h"
+      },
+      "artists": [
+        {
+          "name": "The Monkees",
+          "url": "https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck"
+        }
+      ],
+      "duration_ms": 164093,
+      "name": "Last Train to Clarksville - Original Stereo Version; 2006 Remaster",
+      "url": "https://open.spotify.com/track/3h4t9qpFktohHeUQc3hZCa"
     },
     {
       "added_at": "2022-06-16 22:02:00",

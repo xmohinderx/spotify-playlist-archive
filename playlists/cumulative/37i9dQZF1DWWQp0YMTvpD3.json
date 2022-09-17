@@ -982,6 +982,24 @@
     },
     {
       "album": {
+        "name": "DayNight",
+        "url": "https://open.spotify.com/album/1BE0wCj8cXgr2N6q1ozNhV"
+      },
+      "artists": [
+        {
+          "name": "Togo Bao",
+          "url": "https://open.spotify.com/artist/6iLiH4i8sPHd7x1RvS5Fqn"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163846,
+      "name": "DayNight",
+      "url": "https://open.spotify.com/track/2avFBTHnq0gF9Rd1M0Rrs9"
+    },
+    {
+      "album": {
         "name": "Deep Mind",
         "url": "https://open.spotify.com/album/0qtGM2MhLj7A8v3BUpbOz2"
       },
@@ -4367,6 +4385,24 @@
       "duration_ms": 233357,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/7DblgaQvteV6wLOldSb4bb"
+    },
+    {
+      "album": {
+        "name": "Wonder",
+        "url": "https://open.spotify.com/album/7HYwr2EaibMllKpOano9At"
+      },
+      "artists": [
+        {
+          "name": "shandr",
+          "url": "https://open.spotify.com/artist/2DNdJPmAKrAOWKBTvyTsJU"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132265,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/0VFXwg439NhTgmO7uw1Kft"
     },
     {
       "album": {

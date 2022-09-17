@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 
 > The hottest hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。毎週月曜日更新。Cover:back number
 
-[Spotify](https://open.spotify.com/user/spotify) - 641,799 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 641,946 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 | 14 | [チノカテ](https://open.spotify.com/track/7w1taFiEu8GGQJkzQaEWpx) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [チノカテ](https://open.spotify.com/album/1ItS3Da6sbCmwwTgkBHttk) | 4:08 |
 | 15 | [3636](https://open.spotify.com/track/2mHWjrN4rIL8vbWt0Od9Ux) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Falling into your eyes Record](https://open.spotify.com/album/5KLZZ5X7b8eM8OXXUBYfgz) | 4:11 |
 | 16 | [夜をループ](https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [NIGHT TAPE](https://open.spotify.com/album/3FIYJQnPsIVBQiorttCmAB) | 4:26 |
-| 17 | [Pre\-Romance](https://open.spotify.com/track/6x3x09Wq9Ae81dvMSA0N4I) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [Pre\-Romance](https://open.spotify.com/album/27K1okvCknZXHbEwTU0qL2) | 3:12 |
+| 17 | [Pre\-Romance](https://open.spotify.com/track/6x3x09Wq9Ae81dvMSA0N4I) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn), [☆Taku Takahashi](https://open.spotify.com/artist/13FGWDOwAoQyIBuZLtCjN9) | [Pre\-Romance](https://open.spotify.com/album/27K1okvCknZXHbEwTU0qL2) | 3:12 |
 | 18 | [堕天](https://open.spotify.com/track/1ndUYRPchJVNQCM7XwN7Hq) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [堕天](https://open.spotify.com/album/6TyquheH5JW6c5YuZ4ectA) | 2:52 |
 | 19 | [Celebrate](https://open.spotify.com/track/5ZwlnR8yGofZ0669mEh8Xm) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Celebrate](https://open.spotify.com/album/3JWwlQso9kjpJ7q7aw8C2F) | 3:08 |
 | 20 | [あいもかわらず](https://open.spotify.com/track/5LCHehf37b64IBHggD6xQf) | [Huwie Ishizaki](https://open.spotify.com/artist/4NZJF1Qong0IAWBRE2EjTr), [Masaki Suda](https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX) | [あいもかわらず](https://open.spotify.com/album/15nCW8kn6TVp1ZZphcBa0p) | 4:30 |

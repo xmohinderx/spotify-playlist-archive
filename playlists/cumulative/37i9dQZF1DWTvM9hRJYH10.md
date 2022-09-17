@@ -4,11 +4,12 @@
 
 > Music from Nashville's emerging Singers and Songwriters across the musical spectrum\.  Cover: Hannah Ellis
 
-224 songs - 11 hr 52 min - [published](https://open.spotify.com/playlist/3ZmZ8VTqhMzD1YGM4aAkJ4)
+225 songs - 11 hr 55 min - [published](https://open.spotify.com/playlist/3ZmZ8VTqhMzD1YGM4aAkJ4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1%](https://open.spotify.com/track/01AN52vVHlK1yAaLRmzhYg) | [Madeline Consoer](https://open.spotify.com/artist/1bw2RHxmR0mo75zcrlarDo) | [1%](https://open.spotify.com/album/416Dl4wvYbJOLSWzXwfrUr) | 2:49 | 2021-12-31 |  |
+| [18](https://open.spotify.com/track/2UiAhExxpMfBODuhZITng7) | [Jennifer Hart](https://open.spotify.com/artist/7CtoMP5ulZz7vn2Sdj3Hiu) | [18](https://open.spotify.com/album/5or963yixy9GLAOjcmpkRt) | 2:54 | 2022-09-16 |  |
 | [22 Red Flags](https://open.spotify.com/track/5PZYR79HGE6k3giI384I7w) | [Presley & Taylor](https://open.spotify.com/artist/5H6ZPpGKLbtB3O8idjxIZy) | [22 Red Flags](https://open.spotify.com/album/7pS5QcODadoyl9Y05FKAl7) | 2:51 | 2021-12-31 | 2022-01-08 |
 | [Addicted](https://open.spotify.com/track/5SZRA1aAqnHBUt5edqY8OM) | [Marisa McKaye](https://open.spotify.com/artist/0fHHqRhyzE4VquF6JrYGar) | [Addicted](https://open.spotify.com/album/5K8BnbzuEmhfWDkj4m6gzU) | 3:36 | 2021-12-31 | 2022-02-12 |
 | [Ain't Gonna Lie](https://open.spotify.com/track/1htLrwuSGkNj90H9u6tSQx) | [Lauren Hall](https://open.spotify.com/artist/2Qb27JzTmCKVBDmeaiEvCf) | [Ain't Gonna Lie](https://open.spotify.com/album/0pZrdfFqbFsHu9UZG99M5O) | 3:10 | 2021-12-31 |  |

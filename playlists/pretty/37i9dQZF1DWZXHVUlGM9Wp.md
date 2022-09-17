@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZXHVUlGM9Wp.md) - [plain]
 
 > Keep on skating to the groovy boogie
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,703 likes - 75 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,901 likes - 75 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,10 +43,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZXHVUlGM9Wp.md) - [plain]
 | 33 | [Greek Tragedy \- Oliver Nelson TikTok Remix](https://open.spotify.com/track/64rqvMhAPLLEag310IG3z9) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB), [Oliver Nelson](https://open.spotify.com/artist/4QAp87iZerUP9PKxtLhmW1) | [Greek Tragedy \(Oliver Nelson TikTok Remix\)](https://open.spotify.com/album/1UglarHubZKdQNBzRLF7dt) | 5:06 |
 | 34 | [Show Me Love](https://open.spotify.com/track/4t0UsYzmmmZRMTWn77jiGF) | [Robin S](https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3) | [Show Me Love](https://open.spotify.com/album/2xpjgSvZVYjzdlWxeAJFy8) | 4:12 |
 | 35 | [Lose Yourself to Dance \(feat\. Pharrell Williams\)](https://open.spotify.com/track/5CMjjywI0eZMixPeqNd75R) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Random Access Memories](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) | 5:53 |
-| 36 | [Virtual Insanity \- Remastered](https://open.spotify.com/track/49TQfrsm60j5ZFKS59JOdU) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [High Times: Singles 1992\-2006](https://open.spotify.com/album/290mciLlwjKmpNgv95xTSO) | 3:49 |
-| 37 | [Can't Get Enough Of Your Love, Babe](https://open.spotify.com/track/3mWpUEBYnv9SIFWfixSJFx) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Can't Get Enough](https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG) | 4:34 |
-| 38 | [Check Out](https://open.spotify.com/track/2n6qz4opcJlHsEpI8030YM) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0) | [Check Out](https://open.spotify.com/album/1i9flcfwW08i5ynf4YZHsb) | 2:54 |
-| 39 | [The Way You Move \(feat\. Sleepy Brown\)](https://open.spotify.com/track/5z7mYFfhw6N6f23VwrokJD) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Sleepy Brown](https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 3:54 |
+| 36 | [Can't Get Enough Of Your Love, Babe](https://open.spotify.com/track/3mWpUEBYnv9SIFWfixSJFx) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Can't Get Enough](https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG) | 4:34 |
+| 37 | [Virtual Insanity \- Remastered](https://open.spotify.com/track/49TQfrsm60j5ZFKS59JOdU) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [High Times: Singles 1992\-2006](https://open.spotify.com/album/290mciLlwjKmpNgv95xTSO) | 3:49 |
+| 38 | [The Way You Move \(feat\. Sleepy Brown\)](https://open.spotify.com/track/5z7mYFfhw6N6f23VwrokJD) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Sleepy Brown](https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 3:54 |
+| 39 | [Check Out](https://open.spotify.com/track/2n6qz4opcJlHsEpI8030YM) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0) | [Check Out](https://open.spotify.com/album/1i9flcfwW08i5ynf4YZHsb) | 2:54 |
 | 40 | [Feel so Good](https://open.spotify.com/track/7hfRrdFJgFKK3cJ4rmkecE) | [Mase](https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6) | [Harlem World](https://open.spotify.com/album/21YtqAiqXNGuvWNBS0JvOy) | 3:23 |
 | 41 | [Groove Is in the Heart](https://open.spotify.com/track/2He3NOyqtLNE3RQPpeDdSb) | [Deee\-Lite](https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5) | [World Clique](https://open.spotify.com/album/4sTAgYLZy5zwqR3kT1g0oh) | 3:51 |
 | 42 | [Free Yourself](https://open.spotify.com/track/1BXAyGazbybUVNQ0VmGsdl) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Free Yourself](https://open.spotify.com/album/4uslfFMaS0bfVnuM7MuQ7K) | 3:54 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZXHVUlGM9Wp.md) - [plain]
 | 57 | [Free \- Mood II Swing Radio Edit](https://open.spotify.com/track/0dc6CJ6BsiKxyPvW4yABLo) | [Ultra Naté](https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN) | [Free](https://open.spotify.com/album/6TpwXfNBW8BSwCAuBDjJSN) | 3:53 |
 | 58 | [Get Down Saturday Night](https://open.spotify.com/track/0awG4a7t5UrmZZ4PZVNav3) | [Oliver Cheatham](https://open.spotify.com/artist/25MNkA39C5jjxApUl812ic) | [Disco Essentials](https://open.spotify.com/album/5aVya3XGTKxxuOA4LT5Ayz) | 4:01 |
 | 59 | [Flash Light](https://open.spotify.com/track/1v1PV2wERHiMPesMWX0qmO) | [Parliament](https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH) | [Funkentelechy Vs\. The Placebo Syndrome](https://open.spotify.com/album/7Kv0H0XMdIyRs41a6USzrd) | 5:46 |
-| 60 | [Every 1's a Winner \- Single Version](https://open.spotify.com/track/5MXXbGYNmRHR7ULMvZYo5R) | [Hot Chocolate](https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi) | [Every 1's a Winner](https://open.spotify.com/album/2MdCe2CS9EcdJ9V20TKzxo) | 4:49 |
-| 61 | [Experience](https://open.spotify.com/track/2oap3QptGISyIvwKpnJJId) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [JAGUAR](https://open.spotify.com/album/6aW67R0sshdUwtbJEG2uQR) | 2:56 |
+| 60 | [Experience](https://open.spotify.com/track/2oap3QptGISyIvwKpnJJId) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [JAGUAR](https://open.spotify.com/album/6aW67R0sshdUwtbJEG2uQR) | 2:56 |
+| 61 | [Every 1's a Winner \- Single Version](https://open.spotify.com/track/5MXXbGYNmRHR7ULMvZYo5R) | [Hot Chocolate](https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi) | [Every 1's a Winner](https://open.spotify.com/album/2MdCe2CS9EcdJ9V20TKzxo) | 4:49 |
 | 62 | [Hollywood Swinging](https://open.spotify.com/track/6igsoAR6Co9u7Rq3U7mlOD) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Wild And Peaceful](https://open.spotify.com/album/3MRgojA0LfPka4RG7aRjsI) | 4:39 |
 | 63 | [I Feel Love](https://open.spotify.com/track/1vCBk33l9HaWp5FOnhSGxk) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [I Remember Yesterday](https://open.spotify.com/album/04nlrp346ZfIBhxsNOxpqe) | 5:55 |
 | 64 | [Am I Wrong \(feat\. ScHoolboy Q\)](https://open.spotify.com/track/1UjyF6okUHhnVxaLV8ojsA) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Malibu](https://open.spotify.com/album/4VFG1DOuTeDMBjBLZT7hCK) | 4:13 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZXHVUlGM9Wp.md) - [plain]
 | 74 | [Kiss It Better \- KAYTRANADA Edition](https://open.spotify.com/track/62tnsScYuep18LnQiQqHmX) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Kiss It Better \(Dance Remix\)](https://open.spotify.com/album/0S5abZEIJQhjcKcyFvHhp4) | 5:25 |
 | 75 | [EASE YOUR MIND](https://open.spotify.com/track/7IRyfeJIBmi08GYgEZwWMM) | [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK), [Devin Tracy](https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT) | [OASIS](https://open.spotify.com/album/6e74y0B8zXO3CEtVVFihd8) | 3:57 |
 
-Snapshot ID: `MTY2MDIzODIwNiwwMDAwMDAwMDhmYjUzODI2MDgyZjdhNDFmZDk1MjVhNGZjNjRlOTc3`
+Snapshot ID: `MTY2MDIzODIwNiwwMDAwMDAwMDY0MDgyN2FiNDU5NTViZmJiMDlkNDhjZTgwMzRmOTcz`

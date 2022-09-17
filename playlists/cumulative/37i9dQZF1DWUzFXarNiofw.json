@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The newest, freshest R&B tunes.  Cover: John Legend",
+  "description": "The newest, freshest R&B tunes.  Cover: Jessie Reyez",
   "name": "New Jams",
   "published_playlist_ids": [
     "2y3HQxunEcE7pPAyHu4buJ"
@@ -303,6 +303,28 @@
       "duration_ms": 175557,
       "name": "Alarming",
       "url": "https://open.spotify.com/track/2UoJrCdK3wjkRO5eI2Nq6E"
+    },
+    {
+      "album": {
+        "name": "All Along (Kaytranada Remix)",
+        "url": "https://open.spotify.com/album/3UtKaTe3ZGpNo0cVdffTCi"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284606,
+      "name": "All Along (Kaytranada Remix)",
+      "url": "https://open.spotify.com/track/35WIVWDcONu3B64ZcYbPX6"
     },
     {
       "album": {
@@ -695,6 +717,24 @@
       "duration_ms": 171764,
       "name": "Bad Man Wicked",
       "url": "https://open.spotify.com/track/7FMQObjJyy8iEOnhgrjRyb"
+    },
+    {
+      "album": {
+        "name": "Bad To Me",
+        "url": "https://open.spotify.com/album/15hz0gTEdD5H9taOgDdrfJ"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176850,
+      "name": "Bad To Me",
+      "url": "https://open.spotify.com/track/2pUlBBWq8R10ylbBvZJV9j"
     },
     {
       "album": {
@@ -1496,6 +1536,28 @@
     },
     {
       "album": {
+        "name": "Clout Chaser",
+        "url": "https://open.spotify.com/album/3QEYT46N9Wr5tlLp9Fx7s4"
+      },
+      "artists": [
+        {
+          "name": "Karun",
+          "url": "https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC"
+        },
+        {
+          "name": "Jojo SK",
+          "url": "https://open.spotify.com/artist/3keXwyX1v81VvVXzBZIcvq"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206500,
+      "name": "Clout Chaser",
+      "url": "https://open.spotify.com/track/753lMBAbrX5fgX0N8ZcDAA"
+    },
+    {
+      "album": {
         "name": "Coastin'",
         "url": "https://open.spotify.com/album/5yoCMolsZFuzsrWK8LAKin"
       },
@@ -1555,7 +1617,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 208149,
       "name": "Come First",
       "url": "https://open.spotify.com/track/0j6q1acgHc1gNkTiepU5LV"
@@ -1643,7 +1705,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 195939,
       "name": "Compromise (feat. Rema)",
       "url": "https://open.spotify.com/track/2dG1cXdbEPKEOyUq96R9xz"
@@ -1759,7 +1821,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 225388,
       "name": "CUFF IT",
       "url": "https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS"
@@ -2622,6 +2684,28 @@
     },
     {
       "album": {
+        "name": "YESSIE",
+        "url": "https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223160,
+      "name": "FOREVER (with 6LACK)",
+      "url": "https://open.spotify.com/track/2lVYLiHGIX6GajMqYXF1Un"
+    },
+    {
+      "album": {
         "name": "Forward / Wreck Dive",
         "url": "https://open.spotify.com/album/0bEsbKQeZyI4W473lga8CN"
       },
@@ -2709,7 +2793,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 211626,
       "name": "Future Lover",
       "url": "https://open.spotify.com/track/73sJYNNftZeqUxHu5l4w1z"
@@ -2753,6 +2837,28 @@
       "duration_ms": 187066,
       "name": "G Love (feat. Nippa)",
       "url": "https://open.spotify.com/track/7soiVKuzcPN27yw54lQ6f9"
+    },
+    {
+      "album": {
+        "name": "Game Over (with Queen Naija)",
+        "url": "https://open.spotify.com/album/6UtOcqphciSIZPqkl66UqR"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        },
+        {
+          "name": "Queen Naija",
+          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208777,
+      "name": "Game Over (with Queen Naija)",
+      "url": "https://open.spotify.com/track/1l6NtBAh7CHmV4OY4PZZs8"
     },
     {
       "album": {
@@ -3091,7 +3197,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 173072,
       "name": "Hate to see it",
       "url": "https://open.spotify.com/track/5Q76gpvb59oQ8nRrTBKFXu"
@@ -3615,7 +3721,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 230680,
       "name": "I WANT YOU BUT YOU'LL NEVER KNOW...",
       "url": "https://open.spotify.com/track/6GkzW1afOfnnNGhEMrA5ct"
@@ -3952,6 +4058,24 @@
     },
     {
       "album": {
+        "name": "Irresponsible",
+        "url": "https://open.spotify.com/album/5Mv9dyRbKf8x90M86mibc0"
+      },
+      "artists": [
+        {
+          "name": "Kiana Led\u00e9",
+          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192545,
+      "name": "Irresponsible",
+      "url": "https://open.spotify.com/track/3PIDY9vzQP6U8OLTYlcA50"
+    },
+    {
+      "album": {
         "name": "Is It Enough",
         "url": "https://open.spotify.com/album/6zmkcJhd5cv7pBrQYPDYfY"
       },
@@ -4140,6 +4264,24 @@
     },
     {
       "album": {
+        "name": "004DAISY",
+        "url": "https://open.spotify.com/album/24e0sHcaegLydaqZGRwJ1e"
+      },
+      "artists": [
+        {
+          "name": "DIXSON",
+          "url": "https://open.spotify.com/artist/61677A13kBwbTfqECI65p8"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178466,
+      "name": "LA NOCTURNE",
+      "url": "https://open.spotify.com/track/46C0fDpfFVWE4ExACLctZl"
+    },
+    {
+      "album": {
         "name": "Lap Dance (feat. Eric Bellinger)",
         "url": "https://open.spotify.com/album/2s6fqn074gBXWLr6qviHsu"
       },
@@ -4305,6 +4447,24 @@
       "duration_ms": 180494,
       "name": "Lay It Down",
       "url": "https://open.spotify.com/track/2NpA9AfF5Bqg8XTMrrYQWw"
+    },
+    {
+      "album": {
+        "name": "LEADER!",
+        "url": "https://open.spotify.com/album/5ECNF38ye7R9LlzZRgp9YC"
+      },
+      "artists": [
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141958,
+      "name": "LEADER!",
+      "url": "https://open.spotify.com/track/60VJ0CZ1bV5Ln2n3H1Xo1F"
     },
     {
       "album": {
@@ -4671,7 +4831,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 183589,
       "name": "Love Jones (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/1X2Ec2pLTtapRlpECgnGdN"
@@ -5080,6 +5240,28 @@
     },
     {
       "album": {
+        "name": "Miss My Dawgs",
+        "url": "https://open.spotify.com/album/3yeL1kWdc6fCSLzefpQC4r"
+      },
+      "artists": [
+        {
+          "name": "Kaash Paige",
+          "url": "https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205788,
+      "name": "Miss My Dawgs (with 6LACK)",
+      "url": "https://open.spotify.com/track/7L2Nh4EsaETigImpQKvSoc"
+    },
+    {
+      "album": {
         "name": "Miss U",
         "url": "https://open.spotify.com/album/6EInKwjhMtF3zGFE04NpKL"
       },
@@ -5303,6 +5485,28 @@
       "duration_ms": 302952,
       "name": "New To You (with Normani, Tinashe, & Offset)",
       "url": "https://open.spotify.com/track/22PTmk4mzAVi92WiQPAcFp"
+    },
+    {
+      "album": {
+        "name": "My Way (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/3ideAfrVvWpeZkKB9fOz81"
+      },
+      "artists": [
+        {
+          "name": "Usher",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "Ryan James Carr",
+          "url": "https://open.spotify.com/artist/5V5f4rVZkRnl5O17X1vDM1"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192064,
+      "name": "Nice & Slow - Ryan James Carr Remake",
+      "url": "https://open.spotify.com/track/31YudjfCQCpRYDeDMskWGh"
     },
     {
       "album": {
@@ -5634,6 +5838,24 @@
     },
     {
       "album": {
+        "name": "One 4 U",
+        "url": "https://open.spotify.com/album/0ZKzGLUdPNcbVvDUbVUycX"
+      },
+      "artists": [
+        {
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148817,
+      "name": "One 4 U",
+      "url": "https://open.spotify.com/track/0rrUIAypiKTdpLw4A80ti3"
+    },
+    {
+      "album": {
         "name": "One Night Ting (feat. Saweetie)",
         "url": "https://open.spotify.com/album/5dzapwbVC7KYnvUB5zZlTB"
       },
@@ -5921,7 +6143,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 173646,
       "name": "Personal Baby",
       "url": "https://open.spotify.com/track/67bOItGZHSECTH9LffxpUm"
@@ -6266,6 +6488,32 @@
     },
     {
       "album": {
+        "name": "Four Songs",
+        "url": "https://open.spotify.com/album/4hsC2oeoSkJiULLob8zM98"
+      },
+      "artists": [
+        {
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+        },
+        {
+          "name": "Erika de Casier",
+          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
+        },
+        {
+          "name": "Eva Tolkin",
+          "url": "https://open.spotify.com/artist/3Vo834c5EcKKZfy5ZvaP5I"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184600,
+      "name": "Relax and Run (feat. Erika de Casier & Eva Tolkin)",
+      "url": "https://open.spotify.com/track/5s3mhLIMAUxDeTELjS8gVT"
+    },
+    {
+      "album": {
         "name": "Rent Money (feat. Dave East)",
         "url": "https://open.spotify.com/album/2e6qv6myguUFVoLfsjHZ1w"
       },
@@ -6541,7 +6789,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 195265,
       "name": "Seamless (with Kehlani)",
       "url": "https://open.spotify.com/track/2UqMwz0vqVDdkLHZrzSLOp"
@@ -6589,7 +6837,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 194550,
       "name": "Sex With My Ex",
       "url": "https://open.spotify.com/track/4KXWgElzP8YlTgrOaq3VFZ"
@@ -6709,7 +6957,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 208000,
       "name": "Slow Jam",
       "url": "https://open.spotify.com/track/6lRVYHkmpifUVyEKIkgAub"
@@ -7183,7 +7431,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 177738,
       "name": "sweetie (feat. Scribz Riley)",
       "url": "https://open.spotify.com/track/77iUKhwSNgWFkELiAkW7Rq"
@@ -7249,6 +7497,24 @@
       "duration_ms": 200066,
       "name": "Talk Quiet",
       "url": "https://open.spotify.com/track/7sdWbnUGRzpWJmupEpXJiP"
+    },
+    {
+      "album": {
+        "name": "Talkin",
+        "url": "https://open.spotify.com/album/3nHJDlDfY5j2jTbfyzAmQs"
+      },
+      "artists": [
+        {
+          "name": "Alex Vaughn",
+          "url": "https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115843,
+      "name": "Talkin",
+      "url": "https://open.spotify.com/track/0u1VMv2aVqY1AC9qkCdZUH"
     },
     {
       "album": {
@@ -7361,6 +7627,28 @@
       "duration_ms": 204000,
       "name": "The Reason",
       "url": "https://open.spotify.com/track/1JKH156F7aeqFLjHK892H6"
+    },
+    {
+      "album": {
+        "name": "Butterfly: 25th Anniversary Expanded Edition",
+        "url": "https://open.spotify.com/album/3VOqo81Nwyx8rcZEc2l379"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        },
+        {
+          "name": "Brandy",
+          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294103,
+      "name": "The Roof (When I Feel the Need) (feat. Brandy)",
+      "url": "https://open.spotify.com/track/3rptYWhwQWNWcACrYu4CGg"
     },
     {
       "album": {
@@ -7852,6 +8140,24 @@
     },
     {
       "album": {
+        "name": "Washed Away",
+        "url": "https://open.spotify.com/album/1GqPpESoA8N9DvPWtzaFMG"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216178,
+      "name": "Washed Away",
+      "url": "https://open.spotify.com/track/4Ci2V1PsULUIdpcd4YVlLg"
+    },
+    {
+      "album": {
         "name": "age/sex/location",
         "url": "https://open.spotify.com/album/7dE9Pf7HRgMOCeVSWnA9ZC"
       },
@@ -8215,6 +8521,28 @@
       "duration_ms": 178200,
       "name": "Xtasy",
       "url": "https://open.spotify.com/track/7yJ1KekatthELLQTE1VRc7"
+    },
+    {
+      "album": {
+        "name": "Xtasy (Remix) [feat. Doechii]",
+        "url": "https://open.spotify.com/album/4Wofyf34UgjYpqwPAELW7n"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        },
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270497,
+      "name": "Xtasy (Remix) [feat. Doechii]",
+      "url": "https://open.spotify.com/track/610faOY46uYOBi3KXazpSj"
     },
     {
       "album": {

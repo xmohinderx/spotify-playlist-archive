@@ -1,12 +1,12 @@
 {
   "description": "Den perfekta mixade spellistan f\u00f6r tr\u00e4ningspasset.",
-  "num_followers": 157182,
+  "num_followers": 157179,
   "original_name": "Tr\u00e4ning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg5NDI0NCwwMDAwMDAwMDhlZGFjNjI0MGQyNGU4MjkwNDI5ZDIzZWRkNzhhYTg1",
+  "snapshot_id": "MTY1Nzg5NDI0NCwwMDAwMDAwMDdkM2U2OTA0MjkyZWRjOWU5OWIyZmFmNWVjZjA5OGE5",
   "tracks": [
     {
       "added_at": "2022-07-15 14:10:44",
@@ -247,6 +247,26 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
+        "name": "Sweater Weather",
+        "url": "https://open.spotify.com/album/3cPk3K7p6FB7OVEBoNxuW2"
+      },
+      "artists": [
+        {
+          "name": "Gaullin",
+          "url": "https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K"
+        },
+        {
+          "name": "Julian Perretta",
+          "url": "https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG"
+        }
+      ],
+      "duration_ms": 171133,
+      "name": "Sweater Weather",
+      "url": "https://open.spotify.com/track/6siDDghVE7fxel5o7fE4OF"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
         "name": "Close Your Eyes",
         "url": "https://open.spotify.com/album/0PhTTyRWpJVlg4F5RC0xmE"
       },
@@ -267,26 +287,6 @@
       "duration_ms": 160794,
       "name": "Close Your Eyes",
       "url": "https://open.spotify.com/track/7N06jo3EnV792VFaG8vuW6"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
-        "name": "Sweater Weather",
-        "url": "https://open.spotify.com/album/3cPk3K7p6FB7OVEBoNxuW2"
-      },
-      "artists": [
-        {
-          "name": "Gaullin",
-          "url": "https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K"
-        },
-        {
-          "name": "Julian Perretta",
-          "url": "https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG"
-        }
-      ],
-      "duration_ms": 171133,
-      "name": "Sweater Weather",
-      "url": "https://open.spotify.com/track/6siDDghVE7fxel5o7fE4OF"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -1007,26 +1007,18 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Monkey Mind",
-        "url": "https://open.spotify.com/album/3hLeZkaUdjiEc3jo0Mb9U1"
+        "name": "In My Head (On My Mind)",
+        "url": "https://open.spotify.com/album/2kHF4Kt6da7GupfAzPcMrA"
       },
       "artists": [
         {
-          "name": "LIZOT",
-          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
-        },
-        {
-          "name": "Paradigm",
-          "url": "https://open.spotify.com/artist/6WamMeXO2jN9tUYxSBUclQ"
-        },
-        {
-          "name": "AMELY",
-          "url": "https://open.spotify.com/artist/1hZHcJTY2MYNhTqlrfgobM"
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
         }
       ],
-      "duration_ms": 126511,
-      "name": "Monkey Mind",
-      "url": "https://open.spotify.com/track/2PltG4dbyC0pxwjmWBFixT"
+      "duration_ms": 153442,
+      "name": "In My Head (On My Mind)",
+      "url": "https://open.spotify.com/track/6VXRlDvbQbZg8k4TplGW3J"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -1055,18 +1047,26 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "In My Head (On My Mind)",
-        "url": "https://open.spotify.com/album/2kHF4Kt6da7GupfAzPcMrA"
+        "name": "Monkey Mind",
+        "url": "https://open.spotify.com/album/3hLeZkaUdjiEc3jo0Mb9U1"
       },
       "artists": [
         {
-          "name": "MOTi",
-          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+          "name": "LIZOT",
+          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
+        },
+        {
+          "name": "Paradigm",
+          "url": "https://open.spotify.com/artist/6WamMeXO2jN9tUYxSBUclQ"
+        },
+        {
+          "name": "AMELY",
+          "url": "https://open.spotify.com/artist/1hZHcJTY2MYNhTqlrfgobM"
         }
       ],
-      "duration_ms": 153442,
-      "name": "In My Head (On My Mind)",
-      "url": "https://open.spotify.com/track/6VXRlDvbQbZg8k4TplGW3J"
+      "duration_ms": 126511,
+      "name": "Monkey Mind",
+      "url": "https://open.spotify.com/track/2PltG4dbyC0pxwjmWBFixT"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
+        "name": "Have You Never Been Mellow",
+        "url": "https://open.spotify.com/album/2ogR1UtExIIzxEfKZekFjg"
+      },
+      "artists": [
+        {
+          "name": "Keanu Silva",
+          "url": "https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y"
+        }
+      ],
+      "duration_ms": 147742,
+      "name": "Have You Never Been Mellow",
+      "url": "https://open.spotify.com/track/6a92Xzgq2rDcISB4St84Bs"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
         "name": "Born With It",
         "url": "https://open.spotify.com/album/6LBjVgwft3Uj4FNo4fVk2N"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 197686,
       "name": "Born With It",
       "url": "https://open.spotify.com/track/4jC0Qm0RMIJDKLjh0DrTY1"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
-        "name": "Have You Never Been Mellow",
-        "url": "https://open.spotify.com/album/2ogR1UtExIIzxEfKZekFjg"
-      },
-      "artists": [
-        {
-          "name": "Keanu Silva",
-          "url": "https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y"
-        }
-      ],
-      "duration_ms": 147742,
-      "name": "Have You Never Been Mellow",
-      "url": "https://open.spotify.com/track/6a92Xzgq2rDcISB4St84Bs"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -1663,26 +1663,6 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Million Ways (Remixes)",
-        "url": "https://open.spotify.com/album/6RKJnTD9NaJBQN4Bb9t33s"
-      },
-      "artists": [
-        {
-          "name": "HRVY",
-          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
-        },
-        {
-          "name": "Steve Void",
-          "url": "https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt"
-        }
-      ],
-      "duration_ms": 142120,
-      "name": "Million Ways - Steve Void Remix",
-      "url": "https://open.spotify.com/track/7Jp1D99U01dG9Wwoa4el7j"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
         "name": "How Can I Forget Her",
         "url": "https://open.spotify.com/album/5aQRDDXZIkYpKkkBQPwwSQ"
       },
@@ -1703,6 +1683,26 @@
       "duration_ms": 168216,
       "name": "How Can I Forget Her",
       "url": "https://open.spotify.com/track/4IfArE62kl6LifwebDZkCe"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
+        "name": "Million Ways (Remixes)",
+        "url": "https://open.spotify.com/album/6RKJnTD9NaJBQN4Bb9t33s"
+      },
+      "artists": [
+        {
+          "name": "HRVY",
+          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
+        },
+        {
+          "name": "Steve Void",
+          "url": "https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt"
+        }
+      ],
+      "duration_ms": 142120,
+      "name": "Million Ways - Steve Void Remix",
+      "url": "https://open.spotify.com/track/7Jp1D99U01dG9Wwoa4el7j"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -1899,26 +1899,6 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Nobody Else",
-        "url": "https://open.spotify.com/album/2ZqMhkbspVAsie11ovkCb0"
-      },
-      "artists": [
-        {
-          "name": "Wahlstedt",
-          "url": "https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP"
-        },
-        {
-          "name": "Sara Sangfelt",
-          "url": "https://open.spotify.com/artist/0j0pG4N3F9hf9dC9gZnOTC"
-        }
-      ],
-      "duration_ms": 179756,
-      "name": "Nobody Else",
-      "url": "https://open.spotify.com/track/4h2ohOfzR74qDhUmeYE2za"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
         "name": "Can't Get Over You",
         "url": "https://open.spotify.com/album/0AfivxxYsD8r0S8fiO4mZR"
       },
@@ -1935,6 +1915,26 @@
       "duration_ms": 123870,
       "name": "Can't Get Over You",
       "url": "https://open.spotify.com/track/4fcckOQKfQRyTGUXOtDCge"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
+        "name": "Nobody Else",
+        "url": "https://open.spotify.com/album/2ZqMhkbspVAsie11ovkCb0"
+      },
+      "artists": [
+        {
+          "name": "Wahlstedt",
+          "url": "https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP"
+        },
+        {
+          "name": "Sara Sangfelt",
+          "url": "https://open.spotify.com/artist/0j0pG4N3F9hf9dC9gZnOTC"
+        }
+      ],
+      "duration_ms": 179756,
+      "name": "Nobody Else",
+      "url": "https://open.spotify.com/track/4h2ohOfzR74qDhUmeYE2za"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -2019,26 +2019,6 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Survivors",
-        "url": "https://open.spotify.com/album/5oT45tItMl80sXZ5GqNP0V"
-      },
-      "artists": [
-        {
-          "name": "Wahlstedt",
-          "url": "https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP"
-        },
-        {
-          "name": "Next to Neon",
-          "url": "https://open.spotify.com/artist/4pooXkYjBxl4t18gUeTQxa"
-        }
-      ],
-      "duration_ms": 177560,
-      "name": "Survivors",
-      "url": "https://open.spotify.com/track/6oHDvsaiXRQIpWigtWUP9D"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
         "name": "Revival (R3HAB Remix)",
         "url": "https://open.spotify.com/album/6qXhVPnUWh9AeY4NyJp4dO"
       },
@@ -2083,26 +2063,6 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Magic",
-        "url": "https://open.spotify.com/album/78qCT4QKVUaXZwJGtPfAb1"
-      },
-      "artists": [
-        {
-          "name": "Zookeepers",
-          "url": "https://open.spotify.com/artist/1frSJ3BwjRHE9jgMRQV5wC"
-        },
-        {
-          "name": "TOOMANYLEFTHANDS",
-          "url": "https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT"
-        }
-      ],
-      "duration_ms": 194220,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/5qLK7mVhmrqZ1KV0Wn1tU5"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
         "name": "When Someone Leaves (Sofus Wiene Remix)",
         "url": "https://open.spotify.com/album/3kZnLF4J0m8pENkcGjB0C4"
       },
@@ -2119,6 +2079,46 @@
       "duration_ms": 179047,
       "name": "When Someone Leaves - Sofus Wiene Remix",
       "url": "https://open.spotify.com/track/6b1P0WPHCgKBa7Dl3GHceJ"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
+        "name": "Survivors",
+        "url": "https://open.spotify.com/album/5oT45tItMl80sXZ5GqNP0V"
+      },
+      "artists": [
+        {
+          "name": "Wahlstedt",
+          "url": "https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP"
+        },
+        {
+          "name": "Next to Neon",
+          "url": "https://open.spotify.com/artist/4pooXkYjBxl4t18gUeTQxa"
+        }
+      ],
+      "duration_ms": 177560,
+      "name": "Survivors",
+      "url": "https://open.spotify.com/track/6oHDvsaiXRQIpWigtWUP9D"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/78qCT4QKVUaXZwJGtPfAb1"
+      },
+      "artists": [
+        {
+          "name": "Zookeepers",
+          "url": "https://open.spotify.com/artist/1frSJ3BwjRHE9jgMRQV5wC"
+        },
+        {
+          "name": "TOOMANYLEFTHANDS",
+          "url": "https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT"
+        }
+      ],
+      "duration_ms": 194220,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/5qLK7mVhmrqZ1KV0Wn1tU5"
     }
   ],
   "unique_name": "Tr\u00e4ning",

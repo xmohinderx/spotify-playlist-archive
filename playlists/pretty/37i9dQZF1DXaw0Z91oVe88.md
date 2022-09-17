@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaw0Z91oVe88.md) - [plain]
 
 > 우산을 던지고 빗 속으로 뛰어들고 싶은 날에 들으세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,553 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,555 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaw0Z91oVe88.md) - [plain]
 | 13 | [Beautiful Night](https://open.spotify.com/track/6w5I5eJCuNSNa3FdEq4sfs) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Seoul Check\-in OST Part 5](https://open.spotify.com/album/2deDzuHfGo5kH9tKBvm8jD) | 3:20 |
 | 14 | [Sool \(Feat\. THAMA\)](https://open.spotify.com/track/2wLsNE3k1TGAMm5JSqsYUX) | [snzae](https://open.spotify.com/artist/55l6wA0gGh2Y1OpE5lUYLc), [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [Sool](https://open.spotify.com/album/1afTZ3mebjnJsWkg8n8WS7) | 3:50 |
 | 15 | [surf.](https://open.spotify.com/track/6fhtB9Qf8vkJLPL88WMylY) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [surf.](https://open.spotify.com/album/0ZbnD6CJpKcj0m4Zde5XFm) | 3:45 |
-| 16 | [BETTER \(with MINO\)](https://open.spotify.com/track/4xE1oTctITcdrkddbVafGT) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [PAGE](https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g) | 3:41 |
-| 17 | [MERRY GO ROUND](https://open.spotify.com/track/2wAoIkP1XpMeAAnGSH4Drv) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4) | [MERRY GO ROUND](https://open.spotify.com/album/4OgB9RaPgJZrll8DjBpxfM) | 3:20 |
+| 16 | [MERRY GO ROUND](https://open.spotify.com/track/2wAoIkP1XpMeAAnGSH4Drv) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4) | [MERRY GO ROUND](https://open.spotify.com/album/4OgB9RaPgJZrll8DjBpxfM) | 3:20 |
+| 17 | [BETTER \(with MINO\)](https://open.spotify.com/track/4xE1oTctITcdrkddbVafGT) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [PAGE](https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g) | 3:41 |
 | 18 | [How Do You Think](https://open.spotify.com/track/1xfu5RELA5t2E2KeOG2ePD) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Q](https://open.spotify.com/album/18QFWd8sXbRzeviP7ND7mr) | 3:25 |
 | 19 | [All I Have](https://open.spotify.com/track/6GJJ8nmShJUDSIyyjl9yqv) | [soowoo](https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo) | [All I Have](https://open.spotify.com/album/1i69rOSur7z9iARKyz0tZZ) | 2:48 |
 | 20 | [Numb](https://open.spotify.com/track/67eJLGtHOUmoNXRYnkedwG) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [WATERFALL](https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu) | 3:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaw0Z91oVe88.md) - [plain]
 | 49 | [Go Your Way](https://open.spotify.com/track/5CKEQUucs3M5To1LqfC8Qq) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [STELLA I](https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN) | 1:56 |
 | 50 | [MIRROR](https://open.spotify.com/track/50yugvQfKMyDyL2hEOxf9G) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [MIRROR](https://open.spotify.com/album/7gXO4iJkFBA3PUxDofF3E9) | 4:42 |
 
-Snapshot ID: `MTY2MjM5MzM5MiwwMDAwMDAwMDBlNDU5NTM0OTIyM2E3Mjg4ZmQyMzY2OWUzMDUzZTI2`
+Snapshot ID: `MTY2MjM5MzM5MiwwMDAwMDAwMDc1OWE1ZTY2ZmFhMzNhYmUzY2ZlYzI1ZTRlNmM5ZDZl`

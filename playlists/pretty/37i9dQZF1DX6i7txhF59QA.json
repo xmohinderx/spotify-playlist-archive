@@ -1,12 +1,12 @@
 {
   "description": "Let's party with cheerful Korean trot medley. Cover: \bYOUNGTAK(\uc601\ud0c1) (\uc2e0\ub098\ub294 \ud2b8\ub85c\ud2b8 \uba5c\ub85c\ub514\ub97c \uc990\uaca8\ubcf4\uc138\uc694!)",
-  "num_followers": 15834,
+  "num_followers": 15850,
   "original_name": "K-Trot Stars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDA2NDM0MCwwMDAwMDAwMDUyM2U4ZTU4OTMwNmI1MTlhZDEyOGUyZTM2MjQ2OGE3",
+  "snapshot_id": "MTY2MDA2NDM0MCwwMDAwMDAwMDZkNmQ0Zjg0YzU0OWFjNzYwNTVkY2E2NThhYmY5NmFl",
   "tracks": [
     {
       "added_at": "2022-08-09 16:59:00",
@@ -951,6 +951,22 @@
     {
       "added_at": "2022-08-09 16:59:00",
       "album": {
+        "name": "Gimme Gimme",
+        "url": "https://open.spotify.com/album/0UPav2rFyYj36nC9lxDZp3"
+      },
+      "artists": [
+        {
+          "name": "Second Aunt KimDaVi",
+          "url": "https://open.spotify.com/artist/2XrCYhwuq6x15QFddD1gQv"
+        }
+      ],
+      "duration_ms": 175693,
+      "name": "Gimme Gimme",
+      "url": "https://open.spotify.com/track/63mAJxQc6MHRJ5Zw9NGkMf"
+    },
+    {
+      "added_at": "2022-08-09 16:59:00",
+      "album": {
         "name": "Bongsungah school PART11",
         "url": "https://open.spotify.com/album/5m6Y65eU3N3LmBJlzh0fzo"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 264466,
       "name": "For Your Soul",
       "url": "https://open.spotify.com/track/35t583wCAY9JBgjIHpcjJx"
-    },
-    {
-      "added_at": "2022-08-09 16:59:00",
-      "album": {
-        "name": "Gimme Gimme",
-        "url": "https://open.spotify.com/album/0UPav2rFyYj36nC9lxDZp3"
-      },
-      "artists": [
-        {
-          "name": "Second Aunt KimDaVi",
-          "url": "https://open.spotify.com/artist/2XrCYhwuq6x15QFddD1gQv"
-        }
-      ],
-      "duration_ms": 175693,
-      "name": "Gimme Gimme",
-      "url": "https://open.spotify.com/track/63mAJxQc6MHRJ5Zw9NGkMf"
     },
     {
       "added_at": "2022-08-09 16:59:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2022-08-09 16:59:00",
       "album": {
-        "name": "Music source of Mr.Trot FINAL BEST",
-        "url": "https://open.spotify.com/album/0QihgqNlbkIYFtUm0An8Ie"
-      },
-      "artists": [
-        {
-          "name": "Kim Ho Joong",
-          "url": "https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH"
-        }
-      ],
-      "duration_ms": 296240,
-      "name": "Thank you",
-      "url": "https://open.spotify.com/track/06GizNxrmgbwhIFq00Divq"
-    },
-    {
-      "added_at": "2022-08-09 16:59:00",
-      "album": {
         "name": "\ud2b8\ub86f\uac00\uc655",
         "url": "https://open.spotify.com/album/2GhSslxollNuNr8Q94sa4b"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 164773,
       "name": "\ud0dc\ud074\uc744 \uac78\uc9c0\ub9c8",
       "url": "https://open.spotify.com/track/2ZE58r2vseLLeSr152ce7s"
+    },
+    {
+      "added_at": "2022-08-09 16:59:00",
+      "album": {
+        "name": "Music source of Mr.Trot FINAL BEST",
+        "url": "https://open.spotify.com/album/0QihgqNlbkIYFtUm0An8Ie"
+      },
+      "artists": [
+        {
+          "name": "Kim Ho Joong",
+          "url": "https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH"
+        }
+      ],
+      "duration_ms": 296240,
+      "name": "Thank you",
+      "url": "https://open.spotify.com/track/06GizNxrmgbwhIFq00Divq"
     },
     {
       "added_at": "2022-08-09 16:59:00",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2022-08-09 16:59:00",
       "album": {
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/0dpDBAo9MQgmbkz5yF9LGZ"
+      },
+      "artists": [
+        {
+          "name": "Jang Yoon-Jeong",
+          "url": "https://open.spotify.com/artist/1zeaekWal9sG8T6INxaeQM"
+        }
+      ],
+      "duration_ms": 195160,
+      "name": "I love you.",
+      "url": "https://open.spotify.com/track/3d9eSFbuAJzFNHf1ZUHS7X"
+    },
+    {
+      "added_at": "2022-08-09 16:59:00",
+      "album": {
         "name": "MISS TROT2 PRELIMINARY BEST PART1",
         "url": "https://open.spotify.com/album/3WBSmNsFrRZSV1PsvOHbaU"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 206506,
       "name": "Period of spring poverty",
       "url": "https://open.spotify.com/track/1LggILZOGP60h73FgLPGpX"
-    },
-    {
-      "added_at": "2022-08-09 16:59:00",
-      "album": {
-        "name": "Woman",
-        "url": "https://open.spotify.com/album/0dpDBAo9MQgmbkz5yF9LGZ"
-      },
-      "artists": [
-        {
-          "name": "Jang Yoon-Jeong",
-          "url": "https://open.spotify.com/artist/1zeaekWal9sG8T6INxaeQM"
-        }
-      ],
-      "duration_ms": 195160,
-      "name": "I love you.",
-      "url": "https://open.spotify.com/track/3d9eSFbuAJzFNHf1ZUHS7X"
     },
     {
       "added_at": "2022-08-09 16:59:00",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2022-08-09 16:59:00",
       "album": {
-        "name": "\uae40\uc6a9\uc784 \uc2a4\ud398\uc15c \ubca0\uc2a4\ud2b8 76",
-        "url": "https://open.spotify.com/album/2ik5jCob6eBOWwn0j2oPYh"
-      },
-      "artists": [
-        {
-          "name": "\uae40\uc6a9\uc784",
-          "url": "https://open.spotify.com/artist/1yQDZDUxKlzAerBjjztpkV"
-        }
-      ],
-      "duration_ms": 169914,
-      "name": "\uc0bc\uac01\uad00\uacc4",
-      "url": "https://open.spotify.com/track/7km9uEfaIcN3ZKFmSe57rD"
-    },
-    {
-      "added_at": "2022-08-09 16:59:00",
-      "album": {
         "name": "Music source of <MissTrot2> FINAL Songwriter Mission",
         "url": "https://open.spotify.com/album/55myCPZ3HKzK1yXcw7AGG6"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 248693,
       "name": "Don't Cross That River",
       "url": "https://open.spotify.com/track/7A03yyubZKMSkSpZTI48cG"
+    },
+    {
+      "added_at": "2022-08-09 16:59:00",
+      "album": {
+        "name": "\uae40\uc6a9\uc784 \uc2a4\ud398\uc15c \ubca0\uc2a4\ud2b8 76",
+        "url": "https://open.spotify.com/album/2ik5jCob6eBOWwn0j2oPYh"
+      },
+      "artists": [
+        {
+          "name": "\uae40\uc6a9\uc784",
+          "url": "https://open.spotify.com/artist/1yQDZDUxKlzAerBjjztpkV"
+        }
+      ],
+      "duration_ms": 169914,
+      "name": "\uc0bc\uac01\uad00\uacc4",
+      "url": "https://open.spotify.com/track/7km9uEfaIcN3ZKFmSe57rD"
     },
     {
       "added_at": "2022-08-09 16:59:00",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2022-08-09 16:59:00",
       "album": {
+        "name": "MISS TROT2 Legendary Mission Best Semi-Final 1",
+        "url": "https://open.spotify.com/album/1zAZbX0fXTXbFdVS26noHA"
+      },
+      "artists": [
+        {
+          "name": "Tae Yeon Kim",
+          "url": "https://open.spotify.com/artist/1fj59ljd3doYrhH7iCaEVd"
+        }
+      ],
+      "duration_ms": 235520,
+      "name": "Wind road",
+      "url": "https://open.spotify.com/track/1ScaL6JTiXR5YVL8Vwp958"
+    },
+    {
+      "added_at": "2022-08-09 16:59:00",
+      "album": {
         "name": "Love call center PART12",
         "url": "https://open.spotify.com/album/7vdNO3BqQGSSFXkA9ryB9H"
       },
@@ -1463,6 +1479,22 @@
       "duration_ms": 188693,
       "name": "Maria",
       "url": "https://open.spotify.com/track/3zC2aZKFM0syGLz92BMaeL"
+    },
+    {
+      "added_at": "2022-08-09 16:59:00",
+      "album": {
+        "name": "YOU & ME",
+        "url": "https://open.spotify.com/album/0q4sYU8XM5uy9HYZlJ7k2G"
+      },
+      "artists": [
+        {
+          "name": "KIM SOO CHAN",
+          "url": "https://open.spotify.com/artist/2lk4sQjFOSEwPD25NXuMbf"
+        }
+      ],
+      "duration_ms": 192703,
+      "name": "YOU & ME",
+      "url": "https://open.spotify.com/track/2HVR58hpYOXJH7JSOWe4Sk"
     },
     {
       "added_at": "2022-08-09 16:59:00",
@@ -1483,38 +1515,6 @@
       "duration_ms": 197493,
       "name": "Partner",
       "url": "https://open.spotify.com/track/1JdfrvQ9Thd92cfTon49b8"
-    },
-    {
-      "added_at": "2022-08-09 16:59:00",
-      "album": {
-        "name": "MISS TROT2 Legendary Mission Best Semi-Final 1",
-        "url": "https://open.spotify.com/album/1zAZbX0fXTXbFdVS26noHA"
-      },
-      "artists": [
-        {
-          "name": "Tae Yeon Kim",
-          "url": "https://open.spotify.com/artist/1fj59ljd3doYrhH7iCaEVd"
-        }
-      ],
-      "duration_ms": 235520,
-      "name": "Wind road",
-      "url": "https://open.spotify.com/track/1ScaL6JTiXR5YVL8Vwp958"
-    },
-    {
-      "added_at": "2022-08-09 16:59:00",
-      "album": {
-        "name": "YOU & ME",
-        "url": "https://open.spotify.com/album/0q4sYU8XM5uy9HYZlJ7k2G"
-      },
-      "artists": [
-        {
-          "name": "KIM SOO CHAN",
-          "url": "https://open.spotify.com/artist/2lk4sQjFOSEwPD25NXuMbf"
-        }
-      ],
-      "duration_ms": 192703,
-      "name": "YOU & ME",
-      "url": "https://open.spotify.com/track/2HVR58hpYOXJH7JSOWe4Sk"
     },
     {
       "added_at": "2022-08-09 16:59:00",
@@ -1567,18 +1567,18 @@
     {
       "added_at": "2022-08-09 16:59:00",
       "album": {
-        "name": "Best of Mr. Trot Preliminary",
-        "url": "https://open.spotify.com/album/22SUPxLxO7DUsKnf0b4qAb"
+        "name": "MISS TROT2 PRELIMINARY BEST PART1",
+        "url": "https://open.spotify.com/album/3WBSmNsFrRZSV1PsvOHbaU"
       },
       "artists": [
         {
-          "name": "Kim Heejae",
-          "url": "https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5"
+          "name": "Tae Hwa Yoon",
+          "url": "https://open.spotify.com/artist/2D8TOjwm9HxmUClDQC7S5M"
         }
       ],
-      "duration_ms": 154680,
-      "name": "Turn",
-      "url": "https://open.spotify.com/track/7nx7ExJ2PUYEBZ05atB5aq"
+      "duration_ms": 140453,
+      "name": "You are",
+      "url": "https://open.spotify.com/track/1aoJu3dxezGb6D7AZIKHXL"
     },
     {
       "added_at": "2022-08-09 16:59:00",
@@ -1599,34 +1599,18 @@
     {
       "added_at": "2022-08-09 16:59:00",
       "album": {
-        "name": "Best of Mr. Trot Preliminary",
-        "url": "https://open.spotify.com/album/22SUPxLxO7DUsKnf0b4qAb"
+        "name": "Music source of Mr.Trot Trot Aid Best",
+        "url": "https://open.spotify.com/album/14UvNhswZOXciZ2nH0d9uR"
       },
       "artists": [
         {
-          "name": "Hong Jameon",
-          "url": "https://open.spotify.com/artist/3YSBPOvl1LuFvA2BsuQkJP"
+          "name": "Noh Jihun",
+          "url": "https://open.spotify.com/artist/0hKPEEvGtYQOod7pjcaJ1D"
         }
       ],
-      "duration_ms": 108333,
-      "name": "Man of harbor",
-      "url": "https://open.spotify.com/track/6k2uEsC4enRSqgf3utAltW"
-    },
-    {
-      "added_at": "2022-08-09 16:59:00",
-      "album": {
-        "name": "Love call center PART13",
-        "url": "https://open.spotify.com/album/4yKuRJirB0B52jwjVYoJ17"
-      },
-      "artists": [
-        {
-          "name": "Jang Minho",
-          "url": "https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v"
-        }
-      ],
-      "duration_ms": 206786,
-      "name": "Barefooted youth",
-      "url": "https://open.spotify.com/track/2quEJ0O0lsvl46cyvCiiaJ"
+      "duration_ms": 190160,
+      "name": "I happened to see her",
+      "url": "https://open.spotify.com/track/2dJWB9GmhYlQGSr2gbuH8q"
     },
     {
       "added_at": "2022-08-09 16:59:00",
@@ -1647,6 +1631,38 @@
     {
       "added_at": "2022-08-09 16:59:00",
       "album": {
+        "name": "Best of Mr. Trot Preliminary",
+        "url": "https://open.spotify.com/album/22SUPxLxO7DUsKnf0b4qAb"
+      },
+      "artists": [
+        {
+          "name": "Kim Heejae",
+          "url": "https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5"
+        }
+      ],
+      "duration_ms": 154680,
+      "name": "Turn",
+      "url": "https://open.spotify.com/track/7nx7ExJ2PUYEBZ05atB5aq"
+    },
+    {
+      "added_at": "2022-08-09 16:59:00",
+      "album": {
+        "name": "Love call center PART13",
+        "url": "https://open.spotify.com/album/4yKuRJirB0B52jwjVYoJ17"
+      },
+      "artists": [
+        {
+          "name": "Jang Minho",
+          "url": "https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v"
+        }
+      ],
+      "duration_ms": 206786,
+      "name": "Barefooted youth",
+      "url": "https://open.spotify.com/track/2quEJ0O0lsvl46cyvCiiaJ"
+    },
+    {
+      "added_at": "2022-08-09 16:59:00",
+      "album": {
         "name": "We Are Family",
         "url": "https://open.spotify.com/album/4e0v16WqKxXCl822Srrkeq"
       },
@@ -1659,22 +1675,6 @@
       "duration_ms": 251133,
       "name": "In full bloom (Prod. Shin Ji Hoo)",
       "url": "https://open.spotify.com/track/5qx9HlOWS0rpr78joROqEI"
-    },
-    {
-      "added_at": "2022-08-09 16:59:00",
-      "album": {
-        "name": "\ud2b8\ub85c\ud2b8 \uc5ec\uc778 1, 2",
-        "url": "https://open.spotify.com/album/3sEDwOKMX6sMOn2iP9H4Hk"
-      },
-      "artists": [
-        {
-          "name": "\uc774\uc218\uc9c4",
-          "url": "https://open.spotify.com/artist/6hiE7snEBARzwmjdzjoggP"
-        }
-      ],
-      "duration_ms": 156356,
-      "name": "\ubaa9\uacc4\ub098\ub8e8",
-      "url": "https://open.spotify.com/track/4kMFwlv0Njwnakcy473jw3"
     }
   ],
   "unique_name": "K-Trot Stars",

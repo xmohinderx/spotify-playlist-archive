@@ -1,13 +1,29 @@
 {
   "description": "ft. Ninajirachi ",
-  "num_followers": 338093,
+  "num_followers": 338245,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzAwODU3MSwwMDAwMDAwMDA4ZTY4MWU1NjIzNTA3YzE5YjMzYzkwNWYwNmUxMmNk",
+  "snapshot_id": "MTY2MzM1NDQ5MCwwMDAwMDAwMDJhNGZmODUwNDY5N2ZkYmM4Njg0OTQwODQ2NGI3MDA5",
   "tracks": [
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "DRAIN STORY",
+        "url": "https://open.spotify.com/album/5QREUQq9c50HA4ObUAl7Og"
+      },
+      "artists": [
+        {
+          "name": "Bladee",
+          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
+        }
+      ],
+      "duration_ms": 110875,
+      "name": "DRAIN STORY",
+      "url": "https://open.spotify.com/track/3FkKsImisypEJBOkFWBM2B"
+    },
     {
       "added_at": "2022-09-10 02:10:00",
       "album": {
@@ -23,38 +39,6 @@
       "duration_ms": 96880,
       "name": "AGNES KRUEL",
       "url": "https://open.spotify.com/track/4UzgDdX1pcbUYisiqSaIEF"
-    },
-    {
-      "added_at": "2022-09-10 02:10:00",
-      "album": {
-        "name": "SUMMER GIRL",
-        "url": "https://open.spotify.com/album/1DsE77o6wyp3Ozp6QFGHXI"
-      },
-      "artists": [
-        {
-          "name": "glue70",
-          "url": "https://open.spotify.com/artist/3AsWxxZTFPoCFxM1s8Lg1J"
-        }
-      ],
-      "duration_ms": 152727,
-      "name": "SUMMER GIRL",
-      "url": "https://open.spotify.com/track/49ytn2JKSw0cv0zX4Taws3"
-    },
-    {
-      "added_at": "2022-09-10 02:10:00",
-      "album": {
-        "name": "stay away (do you think it gets better?)",
-        "url": "https://open.spotify.com/album/0WKkH7ThSeVmk94kQ4vaHJ"
-      },
-      "artists": [
-        {
-          "name": "Ravenna Golden",
-          "url": "https://open.spotify.com/artist/27Od4Wz93nItXglC5t5GuC"
-        }
-      ],
-      "duration_ms": 93048,
-      "name": "stay away (do you think it gets better?)",
-      "url": "https://open.spotify.com/track/2gexTEQ9VoVvVq776ImBUQ"
     },
     {
       "added_at": "2022-09-12 18:49:31",
@@ -73,24 +57,104 @@
       "url": "https://open.spotify.com/track/4jcIsQPXUXp866w3lT5AzO"
     },
     {
-      "added_at": "2022-09-10 02:10:00",
+      "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "connect, breathe",
-        "url": "https://open.spotify.com/album/5IMtBSgWcwRGey0gCB5yHg"
+        "name": "CASPER",
+        "url": "https://open.spotify.com/album/53Sna9Tafisltp1jSrEPTy"
       },
       "artists": [
         {
-          "name": "CMTEN",
-          "url": "https://open.spotify.com/artist/3ReVTyprRfKmKquryr9UeA"
-        },
-        {
-          "name": "Musa",
-          "url": "https://open.spotify.com/artist/4YNFxyTiP2AS188pQ2eKQE"
+          "name": "Jeffrey Eli",
+          "url": "https://open.spotify.com/artist/7y2o4IQi5QnL6PbsOYuNp5"
         }
       ],
-      "duration_ms": 225346,
-      "name": "what comes around goes around (feat. musa)",
-      "url": "https://open.spotify.com/track/3QaKCllt6TtSUGp3UEmbaW"
+      "duration_ms": 183699,
+      "name": "CASPER",
+      "url": "https://open.spotify.com/track/2HYoorelMBHn5BwagU2Cka"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "welcome to the plant cell bath",
+        "url": "https://open.spotify.com/album/6e5AMsxeDPv4obos0QpjmT"
+      },
+      "artists": [
+        {
+          "name": "gabby start",
+          "url": "https://open.spotify.com/artist/33L1klom7IXmoAP8fjrGm9"
+        }
+      ],
+      "duration_ms": 180800,
+      "name": "welcome to the plant cell bath",
+      "url": "https://open.spotify.com/track/0ZcfKkYG7QcXouXpPNhiDo"
+    },
+    {
+      "added_at": "2022-09-10 02:10:00",
+      "album": {
+        "name": "SUMMER GIRL",
+        "url": "https://open.spotify.com/album/1DsE77o6wyp3Ozp6QFGHXI"
+      },
+      "artists": [
+        {
+          "name": "glue70",
+          "url": "https://open.spotify.com/artist/3AsWxxZTFPoCFxM1s8Lg1J"
+        }
+      ],
+      "duration_ms": 152727,
+      "name": "SUMMER GIRL",
+      "url": "https://open.spotify.com/track/49ytn2JKSw0cv0zX4Taws3"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "prone2leave",
+        "url": "https://open.spotify.com/album/0F7C8WV3T2RJR9jRW1dIph"
+      },
+      "artists": [
+        {
+          "name": "aldrch",
+          "url": "https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em"
+        },
+        {
+          "name": "Voda Fuji",
+          "url": "https://open.spotify.com/artist/5jEpeMsWMRhprOFhAkIWIO"
+        }
+      ],
+      "duration_ms": 140831,
+      "name": "prone2leave",
+      "url": "https://open.spotify.com/track/7MT7P3vYraNsvVsXTkaE3b"
+    },
+    {
+      "added_at": "2022-09-10 02:10:00",
+      "album": {
+        "name": "stay away (do you think it gets better?)",
+        "url": "https://open.spotify.com/album/0WKkH7ThSeVmk94kQ4vaHJ"
+      },
+      "artists": [
+        {
+          "name": "Ravenna Golden",
+          "url": "https://open.spotify.com/artist/27Od4Wz93nItXglC5t5GuC"
+        }
+      ],
+      "duration_ms": 93048,
+      "name": "stay away (do you think it gets better?)",
+      "url": "https://open.spotify.com/track/2gexTEQ9VoVvVq776ImBUQ"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "exit life",
+        "url": "https://open.spotify.com/album/4uvTUbN7nlJaNzIeXGPVP3"
+      },
+      "artists": [
+        {
+          "name": "funeral",
+          "url": "https://open.spotify.com/artist/3f0Mhz0oXmnsnehuEGTrfd"
+        }
+      ],
+      "duration_ms": 110982,
+      "name": "exit life",
+      "url": "https://open.spotify.com/track/1YKq9aptgpNiyfoMSWXIFr"
     },
     {
       "added_at": "2022-09-03 16:19:48",
@@ -111,6 +175,78 @@
       "duration_ms": 178844,
       "name": "cut the cable",
       "url": "https://open.spotify.com/track/6UpaLVTz3vZH37cAZ7XfYl"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "cling to the edge",
+        "url": "https://open.spotify.com/album/19s7WU6yfcLh32emhWshGy"
+      },
+      "artists": [
+        {
+          "name": "meat computer",
+          "url": "https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN"
+        }
+      ],
+      "duration_ms": 54118,
+      "name": "cling to the edge",
+      "url": "https://open.spotify.com/track/7uFRdMNsnPHKoiqmSkVz2O"
+    },
+    {
+      "added_at": "2022-09-03 16:19:48",
+      "album": {
+        "name": "ABC (feat. Sophia Black)",
+        "url": "https://open.spotify.com/album/4NC0LlM8LuF9ol77V63QtJ"
+      },
+      "artists": [
+        {
+          "name": "Polyphia",
+          "url": "https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ"
+        },
+        {
+          "name": "Sophia Black",
+          "url": "https://open.spotify.com/artist/3wdXgSpjbbU3tX9KasdxMh"
+        }
+      ],
+      "duration_ms": 152361,
+      "name": "ABC (feat. Sophia Black)",
+      "url": "https://open.spotify.com/track/7D4lgMbSs10AQ0zX3ZldJc"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "live life fast",
+        "url": "https://open.spotify.com/album/57E7drfNI9rULYdGbuXZga"
+      },
+      "artists": [
+        {
+          "name": "akii.",
+          "url": "https://open.spotify.com/artist/73uHep84clr8KRoSCaqQgS"
+        }
+      ],
+      "duration_ms": 116026,
+      "name": "live life fast",
+      "url": "https://open.spotify.com/track/0uCdH3hhvzoJo4T6Zpd8lZ"
+    },
+    {
+      "added_at": "2022-09-10 02:10:00",
+      "album": {
+        "name": "connect, breathe",
+        "url": "https://open.spotify.com/album/5IMtBSgWcwRGey0gCB5yHg"
+      },
+      "artists": [
+        {
+          "name": "CMTEN",
+          "url": "https://open.spotify.com/artist/3ReVTyprRfKmKquryr9UeA"
+        },
+        {
+          "name": "Musa",
+          "url": "https://open.spotify.com/artist/4YNFxyTiP2AS188pQ2eKQE"
+        }
+      ],
+      "duration_ms": 225346,
+      "name": "what comes around goes around (feat. musa)",
+      "url": "https://open.spotify.com/track/3QaKCllt6TtSUGp3UEmbaW"
     },
     {
       "added_at": "2022-09-10 02:10:00",
@@ -147,6 +283,22 @@
       "duration_ms": 142260,
       "name": "KARMA",
       "url": "https://open.spotify.com/track/3B8TETauXY7EUslHzJsTvC"
+    },
+    {
+      "added_at": "2022-09-16 18:54:50",
+      "album": {
+        "name": "MAKE U 3 ME",
+        "url": "https://open.spotify.com/album/6A68pudOFLyCfYCVpG7LaS"
+      },
+      "artists": [
+        {
+          "name": "Alice Longyu Gao",
+          "url": "https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL"
+        }
+      ],
+      "duration_ms": 182089,
+      "name": "MAKE U 3 ME",
+      "url": "https://open.spotify.com/track/0OWLrL8FBvdxUmW0875LIx"
     },
     {
       "added_at": "2022-08-26 05:41:00",
@@ -187,26 +339,6 @@
       "duration_ms": 188569,
       "name": "CYBERKISS 2 U*",
       "url": "https://open.spotify.com/track/5qQdnjzgJjTHBjZxO1nWbf"
-    },
-    {
-      "added_at": "2022-09-03 16:19:48",
-      "album": {
-        "name": "ABC (feat. Sophia Black)",
-        "url": "https://open.spotify.com/album/4NC0LlM8LuF9ol77V63QtJ"
-      },
-      "artists": [
-        {
-          "name": "Polyphia",
-          "url": "https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ"
-        },
-        {
-          "name": "Sophia Black",
-          "url": "https://open.spotify.com/artist/3wdXgSpjbbU3tX9KasdxMh"
-        }
-      ],
-      "duration_ms": 152361,
-      "name": "ABC (feat. Sophia Black)",
-      "url": "https://open.spotify.com/track/7D4lgMbSs10AQ0zX3ZldJc"
     },
     {
       "added_at": "2022-09-10 02:10:00",
@@ -275,22 +407,6 @@
       "duration_ms": 130250,
       "name": "Bury It - Alice Longyu Gao Remix",
       "url": "https://open.spotify.com/track/6KIP5nzxAA5zWzFQCGQwns"
-    },
-    {
-      "added_at": "2022-09-03 16:19:48",
-      "album": {
-        "name": "emotional trap",
-        "url": "https://open.spotify.com/album/4cdU2gjBC7yLhs7tZCR2jB"
-      },
-      "artists": [
-        {
-          "name": "she loves boon",
-          "url": "https://open.spotify.com/artist/6is8aeGtatwbYEiamvsp23"
-        }
-      ],
-      "duration_ms": 142914,
-      "name": "everything ab u",
-      "url": "https://open.spotify.com/track/1KFM9g1C6GHuUGtTUETo66"
     },
     {
       "added_at": "2022-09-03 16:19:48",
@@ -389,6 +505,22 @@
       "url": "https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n"
     },
     {
+      "added_at": "2022-09-03 16:19:48",
+      "album": {
+        "name": "emotional trap",
+        "url": "https://open.spotify.com/album/4cdU2gjBC7yLhs7tZCR2jB"
+      },
+      "artists": [
+        {
+          "name": "she loves boon",
+          "url": "https://open.spotify.com/artist/6is8aeGtatwbYEiamvsp23"
+        }
+      ],
+      "duration_ms": 142914,
+      "name": "everything ab u",
+      "url": "https://open.spotify.com/track/1KFM9g1C6GHuUGtTUETo66"
+    },
+    {
       "added_at": "2022-08-12 05:19:00",
       "album": {
         "name": "boythots",
@@ -403,6 +535,22 @@
       "duration_ms": 137844,
       "name": "boythots",
       "url": "https://open.spotify.com/track/57miWCpd7kX78sbys9uWRg"
+    },
+    {
+      "added_at": "2022-09-03 16:19:48",
+      "album": {
+        "name": "reasons",
+        "url": "https://open.spotify.com/album/40sr27kGtmGVDRY9TLAyVg"
+      },
+      "artists": [
+        {
+          "name": "Jay Kim",
+          "url": "https://open.spotify.com/artist/6imBIUT38VebSD6K6N6cN6"
+        }
+      ],
+      "duration_ms": 147133,
+      "name": "reasons",
+      "url": "https://open.spotify.com/track/4WAIFENQf7136CqB1zdm2s"
     },
     {
       "added_at": "2022-09-03 16:19:48",
@@ -467,22 +615,6 @@
       "duration_ms": 148285,
       "name": "safety",
       "url": "https://open.spotify.com/track/03kK8LS0pKlOpfaqJA5PsQ"
-    },
-    {
-      "added_at": "2022-09-03 16:19:48",
-      "album": {
-        "name": "reasons",
-        "url": "https://open.spotify.com/album/40sr27kGtmGVDRY9TLAyVg"
-      },
-      "artists": [
-        {
-          "name": "Jay Kim",
-          "url": "https://open.spotify.com/artist/6imBIUT38VebSD6K6N6cN6"
-        }
-      ],
-      "duration_ms": 147133,
-      "name": "reasons",
-      "url": "https://open.spotify.com/track/4WAIFENQf7136CqB1zdm2s"
     },
     {
       "added_at": "2022-08-26 05:41:00",
@@ -1895,26 +2027,6 @@
       "duration_ms": 190695,
       "name": "verdant green",
       "url": "https://open.spotify.com/track/460h55NFlMCLiX1LWZKp5V"
-    },
-    {
-      "added_at": "2022-07-15 17:24:45",
-      "album": {
-        "name": "Tramal",
-        "url": "https://open.spotify.com/album/0iUZrL7KopTaRJo5KcEZn0"
-      },
-      "artists": [
-        {
-          "name": "Colm",
-          "url": "https://open.spotify.com/artist/78l4EfrLQMmhAvNxoGQ2UW"
-        },
-        {
-          "name": "Hello Hannes",
-          "url": "https://open.spotify.com/artist/0NUCZzalRW9dNTTBzP19pi"
-        }
-      ],
-      "duration_ms": 187124,
-      "name": "Tramal",
-      "url": "https://open.spotify.com/track/1xYstYDswMkdSHDswY4x7D"
     }
   ],
   "unique_name": "hyperpop",

@@ -4,7 +4,7 @@
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Ally Evenson \| Visual Artist: Bailey Elder
 
-193 songs - 11 hr 35 min - [published](https://open.spotify.com/playlist/4p9gFX9hA25IbWFzEcHGmF)
+194 songs - 11 hr 39 min - [published](https://open.spotify.com/playlist/4p9gFX9hA25IbWFzEcHGmF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,8 @@
 | [Jetpack](https://open.spotify.com/track/1Ze0kJhl57LHrJwqzc7IUB) | [Evan Crommett](https://open.spotify.com/artist/21OzUs4uoYF0xoBHHI4f1M) | [Jetpack](https://open.spotify.com/album/4HIiMkPp3hTPWNLpds5M68) | 3:35 | 2022-09-14 |  |
 | [Jigsaw](https://open.spotify.com/track/16NDgpxqIktl0Uluplcz9A) | [Emma Worley](https://open.spotify.com/artist/4uKFpcmOUIswqq7B1c1Zdv) | [Sentimentalist](https://open.spotify.com/album/3iFfF1trCX7iUwWf28iJ2w) | 3:26 | 2022-06-15 |  |
 | [Just Pick One](https://open.spotify.com/track/1ItOJBHm862L9pnbqKhNTq) | [Mama's Broke](https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k) | [Narrow Line](https://open.spotify.com/album/7dep5AUJI4Hso2xZrRCI6I) | 3:01 | 2022-05-25 | 2022-09-15 |
-| [Just Take Love, for Example](https://open.spotify.com/track/2bjzpFwGIjF9J2Yznu83JJ) | [Jordie Lane](https://open.spotify.com/artist/5exAkC90ITNJz5trrpuYsa) | [Just Take Love, for Example](https://open.spotify.com/album/01CllUR6h31HwefmRdaLs9) | 4:18 | 2022-09-07 |  |
+| [Just Take Love, for Example](https://open.spotify.com/track/2bjzpFwGIjF9J2Yznu83JJ) | [Jordie Lane](https://open.spotify.com/artist/5exAkC90ITNJz5trrpuYsa) | [Just Take Love, for Example](https://open.spotify.com/album/01CllUR6h31HwefmRdaLs9) | 4:18 | 2022-09-07 | 2022-09-17 |
+| [Just Take Love, for Example](https://open.spotify.com/track/79WTsOWzsiCeyhq9OxkqzC) | [Jordie Lane](https://open.spotify.com/artist/5exAkC90ITNJz5trrpuYsa) | [The Empty House Tapes, Vol\. 1](https://open.spotify.com/album/6YK7uXBuM58fpmvc9l1N1Y) | 4:18 | 2022-09-07 |  |
 | [Lady Kisses](https://open.spotify.com/track/56pooaog8QbBvLsDJBjJVj) | [Lydia von Hof](https://open.spotify.com/artist/5ftWyvUrcDmg9JHHlEaR8e) | [Lady Kisses](https://open.spotify.com/album/2ra5DZgpnSIVcNJJXg24oZ) | 4:01 | 2022-05-25 | 2022-08-11 |
 | [Lady Moon](https://open.spotify.com/track/4B4u6cdQQcVFWhMUGGDnZk) | [Lady Moon](https://open.spotify.com/artist/4NMxUgqHqC9XlgSRGqqrqc) | [Lady Moon](https://open.spotify.com/album/02rBCSQBqZxwMLjJB6l1FG) | 2:33 | 2022-08-10 |  |
 | [Lavender](https://open.spotify.com/track/4de2JSToOh98pnNxgDier8) | [Gemma Laurence](https://open.spotify.com/artist/2sNPTD3BelCCJaH18PmeKm) | [Lavender](https://open.spotify.com/album/7bhq8QWXhDkmRnP0WX5LK0) | 3:36 | 2022-08-10 |  |

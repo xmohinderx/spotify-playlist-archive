@@ -1,12 +1,12 @@
 {
   "description": "lista na dm",
-  "num_followers": 44944,
+  "num_followers": 44978,
   "original_name": "minha party pfta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTU1MTgyOCwwMDAwMDAwMDViYmE1N2U2YTBmZjQ0NGU4YmVjNzYyMWY4YThjMTNk",
+  "snapshot_id": "MTY1OTU1MTgyOCwwMDAwMDAwMDRiYjYyOTA5YmYzYWQ4Yjg5MTRlOTNhZjZlNjliNTJl",
   "tracks": [
     {
       "added_at": "2022-08-03 18:37:08",
@@ -131,18 +131,22 @@
     {
       "added_at": "2022-08-03 18:37:08",
       "album": {
-        "name": "Planet Her",
-        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
+        "name": "STAY (with Justin Bieber)",
+        "url": "https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ"
       },
       "artists": [
         {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 172626,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
+      "duration_ms": 141805,
+      "name": "STAY (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20"
     },
     {
       "added_at": "2022-08-03 18:37:08",
@@ -163,22 +167,18 @@
     {
       "added_at": "2022-08-03 18:37:08",
       "album": {
-        "name": "STAY (with Justin Bieber)",
-        "url": "https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ"
+        "name": "Planet Her",
+        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
       },
       "artists": [
         {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         }
       ],
-      "duration_ms": 141805,
-      "name": "STAY (with Justin Bieber)",
-      "url": "https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20"
+      "duration_ms": 172626,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
     },
     {
       "added_at": "2022-08-03 18:37:08",
@@ -467,6 +467,22 @@
     {
       "added_at": "2022-08-03 18:37:08",
       "album": {
+        "name": "Unorthodox Jukebox",
+        "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 233478,
+      "name": "Locked out of Heaven",
+      "url": "https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh"
+    },
+    {
+      "added_at": "2022-08-03 18:37:08",
+      "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 198081,
       "name": "Peaches (feat. Daniel Caesar & Giveon)",
       "url": "https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI"
-    },
-    {
-      "added_at": "2022-08-03 18:37:08",
-      "album": {
-        "name": "Unorthodox Jukebox",
-        "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 233478,
-      "name": "Locked out of Heaven",
-      "url": "https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh"
     },
     {
       "added_at": "2022-08-03 18:37:08",
@@ -679,30 +679,6 @@
     {
       "added_at": "2022-08-03 18:37:08",
       "album": {
-        "name": "Views",
-        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "WizKid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Kyla",
-          "url": "https://open.spotify.com/artist/77DAFfvm3O9zT5dIoG0eIO"
-        }
-      ],
-      "duration_ms": 173986,
-      "name": "One Dance",
-      "url": "https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0"
-    },
-    {
-      "added_at": "2022-08-03 18:37:08",
-      "album": {
         "name": "JORDI (Deluxe)",
         "url": "https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU"
       },
@@ -715,6 +691,30 @@
       "duration_ms": 189486,
       "name": "Memories",
       "url": "https://open.spotify.com/track/4cktbXiXOapiLBMprHFErI"
+    },
+    {
+      "added_at": "2022-08-03 18:37:08",
+      "album": {
+        "name": "Views",
+        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Kyla",
+          "url": "https://open.spotify.com/artist/77DAFfvm3O9zT5dIoG0eIO"
+        }
+      ],
+      "duration_ms": 173986,
+      "name": "One Dance",
+      "url": "https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0"
     },
     {
       "added_at": "2022-08-03 18:37:08",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2022-08-03 18:37:08",
       "album": {
+        "name": "Happier Than Ever (Edit)",
+        "url": "https://open.spotify.com/album/2kzPJWrTjVKEYWWhowXLnz"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 151444,
+      "name": "Happier Than Ever - Edit",
+      "url": "https://open.spotify.com/track/32BeYxKPrig1LefHsC0Xuo"
+    },
+    {
+      "added_at": "2022-08-03 18:37:08",
+      "album": {
         "name": "Global Warming: Meltdown (Deluxe Version)",
         "url": "https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 204160,
       "name": "Timber (feat. Ke$ha)",
       "url": "https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS"
-    },
-    {
-      "added_at": "2022-08-03 18:37:08",
-      "album": {
-        "name": "Happier Than Ever (Edit)",
-        "url": "https://open.spotify.com/album/2kzPJWrTjVKEYWWhowXLnz"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 151444,
-      "name": "Happier Than Ever - Edit",
-      "url": "https://open.spotify.com/track/32BeYxKPrig1LefHsC0Xuo"
     },
     {
       "added_at": "2022-08-03 18:37:08",

@@ -11834,24 +11834,24 @@
     },
     {
       "album": {
-        "name": "Zombie",
+        "name": "Zombie (feat. LAUF)",
         "url": "https://open.spotify.com/album/0g0KAy1S6lLxbL84HL6C6V"
       },
       "artists": [
         {
-          "name": "LAUF",
-          "url": "https://open.spotify.com/artist/5ZTKDvzvC98RpTs4TUbilD"
-        },
-        {
           "name": "We Said",
           "url": "https://open.spotify.com/artist/7ECRPQYavYtQFH6gprw7YY"
+        },
+        {
+          "name": "LAUF",
+          "url": "https://open.spotify.com/artist/5ZTKDvzvC98RpTs4TUbilD"
         }
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 158900,
-      "name": "Zombie",
+      "name": "Zombie (feat. LAUF)",
       "url": "https://open.spotify.com/track/4QmTyWBkweHWUCyrBl8n7l"
     }
   ],

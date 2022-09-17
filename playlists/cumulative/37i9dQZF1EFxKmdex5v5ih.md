@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/04m0BRLb94VPV1VP1UqK36">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-184 songs - 9 hr 56 min - [published](https://open.spotify.com/playlist/0rdAoqaS1oWHzYCCSmlmau)
+185 songs - 9 hr 59 min - [published](https://open.spotify.com/playlist/0rdAoqaS1oWHzYCCSmlmau)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,8 @@
 | [fuck, i'm lonely \(with Anne\-Marie\)](https://open.spotify.com/track/09PGubKAMryhOWv1LHpCYz) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [\~how i'm feeling\~](https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP) | 3:18 | 2021-12-27 |  |
 | [Funny](https://open.spotify.com/track/4FYbo4yQzu3hGkj2Ix4ucW) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Funny](https://open.spotify.com/album/5Q8Uyc3KUlPhPtMQDY5SWm) | 3:41 | 2021-12-27 |  |
 | [Ghost](https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:33 | 2021-12-27 |  |
-| [Happy Sad Song Feat\. Symon](https://open.spotify.com/track/1IiWTBrfSe9oDbZvnLEavH) | [ChampionsLeak](https://open.spotify.com/artist/5VMgZIvjxtR9SNvroVpEm4), [Symon](https://open.spotify.com/artist/0Yi8b2U9AemQbI0dj0jtRE) | [Championsleak \- Happy Sad Song](https://open.spotify.com/album/4n5vtJ81nC2br4fPmVRSwY) | 3:06 | 2021-12-27 |  |
+| [Happy Sad Song \(feat\. Symon\)](https://open.spotify.com/track/1mOuCPWI181DXmEy50CKzf) | [ChampionsLeak](https://open.spotify.com/artist/5VMgZIvjxtR9SNvroVpEm4), [Symon](https://open.spotify.com/artist/0Yi8b2U9AemQbI0dj0jtRE) | [Happy Sad Song \(feat\. Symon\)](https://open.spotify.com/album/7sX0J1Xxms0zq5fHANdGkl) | 3:06 | 2022-09-16 |  |
+| [Happy Sad Song Feat\. Symon](https://open.spotify.com/track/1IiWTBrfSe9oDbZvnLEavH) | [ChampionsLeak](https://open.spotify.com/artist/5VMgZIvjxtR9SNvroVpEm4), [Symon](https://open.spotify.com/artist/0Yi8b2U9AemQbI0dj0jtRE) | [Championsleak \- Happy Sad Song](https://open.spotify.com/album/4n5vtJ81nC2br4fPmVRSwY) | 3:06 | 2021-12-27 | 2022-09-17 |
 | [happy to be sad](https://open.spotify.com/track/5zcPCsnVQ6shFeknvs5HBu) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 4:24 | 2021-12-27 |  |
 | [Heat](https://open.spotify.com/track/1zv5ce0HHLD90EByNsgBfD) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Meaning of Life](https://open.spotify.com/album/6GBu7GU6dztLYlZuUHiwA2) | 3:10 | 2021-12-27 |  |
 | [Holy \(feat\. Chance The Rapper\)](https://open.spotify.com/track/6Xgq7MvZiet0hVi3KaDSgJ) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:32 | 2021-12-27 |  |

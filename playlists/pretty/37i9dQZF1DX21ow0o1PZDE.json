@@ -1,12 +1,12 @@
 {
   "description": "Todos los grandes \u00e9xitos del a\u00f1o, reunidos en un solo lugar. Foto: Manuel Turizo",
-  "num_followers": 586996,
+  "num_followers": 587607,
   "original_name": "Mega \u00c9xitos 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzE3ODEzNCwwMDAwMDAwMGM1ODY0MjBjN2RhMzgxMzg0YWFlMDkxOGM4YzNiNGY4",
+  "snapshot_id": "MTY2MzE3ODEzNCwwMDAwMDAwMGQzN2M2MzM3ZTgzMGU1NWZmNTE4NmRlNmE5MjgyNDll",
   "tracks": [
     {
       "added_at": "2022-09-14 17:55:34",
@@ -331,6 +331,30 @@
     {
       "added_at": "2022-09-14 17:55:34",
       "album": {
+        "name": "LOKERA",
+        "url": "https://open.spotify.com/album/4vJcqwIGUuk5TeP29OPovU"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        }
+      ],
+      "duration_ms": 195294,
+      "name": "LOKERA",
+      "url": "https://open.spotify.com/track/79HZAZNnOE97rb2hnI0XQr"
+    },
+    {
+      "added_at": "2022-09-14 17:55:34",
+      "album": {
         "name": "La Llevo Al Cielo (Ft. \u00d1engo Flow)",
         "url": "https://open.spotify.com/album/0WEtvlRZhn9bZLHbjCLSv2"
       },
@@ -359,46 +383,6 @@
     {
       "added_at": "2022-09-14 17:55:34",
       "album": {
-        "name": "LOKERA",
-        "url": "https://open.spotify.com/album/4vJcqwIGUuk5TeP29OPovU"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Lyanno",
-          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
-        },
-        {
-          "name": "Brray",
-          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
-        }
-      ],
-      "duration_ms": 195294,
-      "name": "LOKERA",
-      "url": "https://open.spotify.com/track/79HZAZNnOE97rb2hnI0XQr"
-    },
-    {
-      "added_at": "2022-09-14 17:55:34",
-      "album": {
-        "name": "Planet Her",
-        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 172626,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
-    },
-    {
-      "added_at": "2022-09-14 17:55:34",
-      "album": {
         "name": "STAY (with Justin Bieber)",
         "url": "https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 141805,
       "name": "STAY (with Justin Bieber)",
       "url": "https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20"
+    },
+    {
+      "added_at": "2022-09-14 17:55:34",
+      "album": {
+        "name": "Planet Her",
+        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 172626,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
     },
     {
       "added_at": "2022-09-14 17:55:34",
@@ -439,22 +439,6 @@
     {
       "added_at": "2022-09-14 17:55:34",
       "album": {
-        "name": "Hounds of Love (2018 Remaster)",
-        "url": "https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 300840,
-      "name": "Running Up That Hill (A Deal With God) - 2018 Remaster",
-      "url": "https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP"
-    },
-    {
-      "added_at": "2022-09-14 17:55:34",
-      "album": {
         "name": "Parachutes",
         "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
       },
@@ -471,6 +455,22 @@
     {
       "added_at": "2022-09-14 17:55:34",
       "album": {
+        "name": "Hounds of Love (2018 Remaster)",
+        "url": "https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 300840,
+      "name": "Running Up That Hill (A Deal With God) - 2018 Remaster",
+      "url": "https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP"
+    },
+    {
+      "added_at": "2022-09-14 17:55:34",
+      "album": {
         "name": "=",
         "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
       },
@@ -483,6 +483,26 @@
       "duration_ms": 230746,
       "name": "Bad Habits",
       "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
+    },
+    {
+      "added_at": "2022-09-14 17:55:34",
+      "album": {
+        "name": "GAT\u00daBELA",
+        "url": "https://open.spotify.com/album/5FdSjtKiymlHrdbXDyXcxA"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Maldy",
+          "url": "https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9"
+        }
+      ],
+      "duration_ms": 209160,
+      "name": "GAT\u00daBELA",
+      "url": "https://open.spotify.com/track/1ga4PztXOIw1yBbdUt2X8v"
     },
     {
       "added_at": "2022-09-14 17:55:34",
@@ -507,26 +527,6 @@
       "duration_ms": 202735,
       "name": "Cold Heart - PNAU Remix",
       "url": "https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz"
-    },
-    {
-      "added_at": "2022-09-14 17:55:34",
-      "album": {
-        "name": "GAT\u00daBELA",
-        "url": "https://open.spotify.com/album/5FdSjtKiymlHrdbXDyXcxA"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Maldy",
-          "url": "https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9"
-        }
-      ],
-      "duration_ms": 209160,
-      "name": "GAT\u00daBELA",
-      "url": "https://open.spotify.com/track/1ga4PztXOIw1yBbdUt2X8v"
     },
     {
       "added_at": "2022-09-14 17:55:34",
@@ -587,6 +587,22 @@
     {
       "added_at": "2022-09-14 17:55:34",
       "album": {
+        "name": "Normal",
+        "url": "https://open.spotify.com/album/3xbevf88sEI6l01P9dApmu"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 171986,
+      "name": "Normal",
+      "url": "https://open.spotify.com/track/2z9YkcLojiOE7Eu2p9lPZR"
+    },
+    {
+      "added_at": "2022-09-14 17:55:34",
+      "album": {
         "name": "Villano Antillano: Bzrp Music Sessions, Vol. 51",
         "url": "https://open.spotify.com/album/1tjIQcE1WoeRfI7t5QFRgR"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 187500,
       "name": "Villano Antillano: Bzrp Music Sessions, Vol. 51",
       "url": "https://open.spotify.com/track/4hceSKjrkDTO0nMKFcb3sj"
-    },
-    {
-      "added_at": "2022-09-14 17:55:34",
-      "album": {
-        "name": "Normal",
-        "url": "https://open.spotify.com/album/3xbevf88sEI6l01P9dApmu"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 171986,
-      "name": "Normal",
-      "url": "https://open.spotify.com/track/2z9YkcLojiOE7Eu2p9lPZR"
     },
     {
       "added_at": "2022-09-14 17:55:34",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2022-09-14 17:55:34",
       "album": {
-        "name": "GIVENCHY",
-        "url": "https://open.spotify.com/album/4yNnIoQh8y1uDB6ScOS2vx"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 182610,
-      "name": "GIVENCHY",
-      "url": "https://open.spotify.com/track/6bTVP50bbtMtD6RGe2cUoQ"
-    },
-    {
-      "added_at": "2022-09-14 17:55:34",
-      "album": {
         "name": "Chale",
         "url": "https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 170744,
       "name": "Chale",
       "url": "https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6"
+    },
+    {
+      "added_at": "2022-09-14 17:55:34",
+      "album": {
+        "name": "GIVENCHY",
+        "url": "https://open.spotify.com/album/4yNnIoQh8y1uDB6ScOS2vx"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 182610,
+      "name": "GIVENCHY",
+      "url": "https://open.spotify.com/track/6bTVP50bbtMtD6RGe2cUoQ"
     },
     {
       "added_at": "2022-09-14 17:55:34",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2022-09-14 17:55:34",
       "album": {
-        "name": "En El Radio Un Cochinero",
-        "url": "https://open.spotify.com/album/6fCSthptZ0wBlpqeSlUKHy"
-      },
-      "artists": [
-        {
-          "name": "Victor Cibrian",
-          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
-        }
-      ],
-      "duration_ms": 223431,
-      "name": "En El Radio Un Cochinero",
-      "url": "https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy"
-    },
-    {
-      "added_at": "2022-09-14 17:55:34",
-      "album": {
         "name": "Si Fuera F\u00e1cil",
         "url": "https://open.spotify.com/album/3CUu8nxAMyjCiTeGyiBOKE"
       },
@@ -1231,6 +1215,22 @@
     {
       "added_at": "2022-09-14 17:55:34",
       "album": {
+        "name": "En El Radio Un Cochinero",
+        "url": "https://open.spotify.com/album/6fCSthptZ0wBlpqeSlUKHy"
+      },
+      "artists": [
+        {
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
+        }
+      ],
+      "duration_ms": 223431,
+      "name": "En El Radio Un Cochinero",
+      "url": "https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy"
+    },
+    {
+      "added_at": "2022-09-14 17:55:34",
+      "album": {
         "name": "Teatro d'ira - Vol. I",
         "url": "https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A"
       },
@@ -1243,6 +1243,22 @@
       "duration_ms": 173346,
       "name": "I WANNA BE YOUR SLAVE",
       "url": "https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk"
+    },
+    {
+      "added_at": "2022-09-14 17:55:34",
+      "album": {
+        "name": "XT4S1S",
+        "url": "https://open.spotify.com/album/2SGONYwprYHZruYFhQYiFC"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 219320,
+      "name": "XT4S1S",
+      "url": "https://open.spotify.com/track/7dMTCS9BLzBqYTlAuHP8TM"
     },
     {
       "added_at": "2022-09-14 17:55:34",
@@ -1267,18 +1283,22 @@
     {
       "added_at": "2022-09-14 17:55:34",
       "album": {
-        "name": "XT4S1S",
-        "url": "https://open.spotify.com/album/2SGONYwprYHZruYFhQYiFC"
+        "name": "Paradise Again",
+        "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
       },
       "artists": [
         {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
-      "duration_ms": 219320,
-      "name": "XT4S1S",
-      "url": "https://open.spotify.com/track/7dMTCS9BLzBqYTlAuHP8TM"
+      "duration_ms": 234000,
+      "name": "Moth To A Flame (with The Weeknd)",
+      "url": "https://open.spotify.com/track/0VO8gYVDSwM1Qdd2GsMoYK"
     },
     {
       "added_at": "2022-09-14 17:55:34",
@@ -1303,26 +1323,6 @@
     {
       "added_at": "2022-09-14 17:55:34",
       "album": {
-        "name": "Paradise Again",
-        "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Moth To A Flame (with The Weeknd)",
-      "url": "https://open.spotify.com/track/0VO8gYVDSwM1Qdd2GsMoYK"
-    },
-    {
-      "added_at": "2022-09-14 17:55:34",
-      "album": {
         "name": "San Lucas",
         "url": "https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1"
       },
@@ -1339,8 +1339,8 @@
     {
       "added_at": "2022-09-14 17:55:34",
       "album": {
-        "name": "MICRODOSIS",
-        "url": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC"
+        "name": "Volando (Remix)",
+        "url": "https://open.spotify.com/album/4MCZWUKxkvdMITh4KapBKX"
       },
       "artists": [
         {
@@ -1348,13 +1348,17 @@
           "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
         },
         {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
           "name": "Sech",
           "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
         }
       ],
-      "duration_ms": 174482,
-      "name": "TUS L\u00c1GRIMAS",
-      "url": "https://open.spotify.com/track/30W8VKHrAZmHzObnwAoc1u"
+      "duration_ms": 273474,
+      "name": "Volando - Remix",
+      "url": "https://open.spotify.com/track/0G2zPzWqVjR68iNPmx2TBe"
     },
     {
       "added_at": "2022-09-14 17:55:34",
@@ -1419,6 +1423,26 @@
     {
       "added_at": "2022-09-14 17:55:34",
       "album": {
+        "name": "Calidad",
+        "url": "https://open.spotify.com/album/2ZaaYylAxHJ6sPJe9mHwHb"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Luis Mexia",
+          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
+        }
+      ],
+      "duration_ms": 170053,
+      "name": "Calidad",
+      "url": "https://open.spotify.com/track/0uBcoM4zxRXk7kmsmxoiFS"
+    },
+    {
+      "added_at": "2022-09-14 17:55:34",
+      "album": {
         "name": "Nos Comemos Vivos",
         "url": "https://open.spotify.com/album/5aBWDVvyEWx7XFz7Isvgww"
       },
@@ -1451,26 +1475,6 @@
       "duration_ms": 153960,
       "name": "Demasiadas Mujeres",
       "url": "https://open.spotify.com/track/3GaGWoU1KfVqgl7vnRHP55"
-    },
-    {
-      "added_at": "2022-09-14 17:55:34",
-      "album": {
-        "name": "Calidad",
-        "url": "https://open.spotify.com/album/2ZaaYylAxHJ6sPJe9mHwHb"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Luis Mexia",
-          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
-        }
-      ],
-      "duration_ms": 170053,
-      "name": "Calidad",
-      "url": "https://open.spotify.com/track/0uBcoM4zxRXk7kmsmxoiFS"
     },
     {
       "added_at": "2022-09-14 17:55:34",
@@ -1531,8 +1535,8 @@
     {
       "added_at": "2022-09-14 17:55:34",
       "album": {
-        "name": "Volando (Remix)",
-        "url": "https://open.spotify.com/album/4MCZWUKxkvdMITh4KapBKX"
+        "name": "MICRODOSIS",
+        "url": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC"
       },
       "artists": [
         {
@@ -1540,33 +1544,13 @@
           "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
         },
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
           "name": "Sech",
           "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
         }
       ],
-      "duration_ms": 273474,
-      "name": "Volando - Remix",
-      "url": "https://open.spotify.com/track/0G2zPzWqVjR68iNPmx2TBe"
-    },
-    {
-      "added_at": "2022-09-14 17:55:34",
-      "album": {
-        "name": "Sobrio",
-        "url": "https://open.spotify.com/album/0R1Ygba9KBj95maQnUvZm5"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 201180,
-      "name": "Sobrio",
-      "url": "https://open.spotify.com/track/4HzqWEdAbzcVFDv0pvxV4w"
+      "duration_ms": 174482,
+      "name": "TUS L\u00c1GRIMAS",
+      "url": "https://open.spotify.com/track/30W8VKHrAZmHzObnwAoc1u"
     },
     {
       "added_at": "2022-09-14 17:55:34",
@@ -1635,22 +1619,18 @@
     {
       "added_at": "2022-09-14 17:55:34",
       "album": {
-        "name": "Par\u00eds",
-        "url": "https://open.spotify.com/album/2dhk2kLdjVxWps1PW9WSTj"
+        "name": "Sobrio",
+        "url": "https://open.spotify.com/album/0R1Ygba9KBj95maQnUvZm5"
       },
       "artists": [
         {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 182187,
-      "name": "Par\u00eds",
-      "url": "https://open.spotify.com/track/3ehHqgYRzmeUi345MfHS2N"
+      "duration_ms": 201180,
+      "name": "Sobrio",
+      "url": "https://open.spotify.com/track/4HzqWEdAbzcVFDv0pvxV4w"
     },
     {
       "added_at": "2022-09-14 17:55:34",
@@ -1671,6 +1651,26 @@
     {
       "added_at": "2022-09-14 17:55:34",
       "album": {
+        "name": "Par\u00eds",
+        "url": "https://open.spotify.com/album/2dhk2kLdjVxWps1PW9WSTj"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 182187,
+      "name": "Par\u00eds",
+      "url": "https://open.spotify.com/track/3ehHqgYRzmeUi345MfHS2N"
+    },
+    {
+      "added_at": "2022-09-14 17:55:34",
+      "album": {
         "name": "12x3",
         "url": "https://open.spotify.com/album/2yTsZhJ86LtD1hvl8wSRPr"
       },
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2022-09-14 17:55:34",
       "album": {
-        "name": "Pari\u0301s",
-        "url": "https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD"
-      },
-      "artists": [
-        {
-          "name": "Ingratax",
-          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
-        }
-      ],
-      "duration_ms": 151428,
-      "name": "Pari\u0301s",
-      "url": "https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3"
-    },
-    {
-      "added_at": "2022-09-14 17:55:34",
-      "album": {
         "name": "Vamos Bien",
         "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 156266,
       "name": "A La Antig\u00fcita",
       "url": "https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT"
+    },
+    {
+      "added_at": "2022-09-14 17:55:34",
+      "album": {
+        "name": "Pari\u0301s",
+        "url": "https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD"
+      },
+      "artists": [
+        {
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+        }
+      ],
+      "duration_ms": 151428,
+      "name": "Pari\u0301s",
+      "url": "https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3"
     },
     {
       "added_at": "2022-09-14 17:55:34",
@@ -1743,6 +1743,42 @@
       "duration_ms": 260000,
       "name": "Entre Nosotros (Remix) [con Nicki Nicole]",
       "url": "https://open.spotify.com/track/4TGwERXRlyQtBdggYTHo6j"
+    },
+    {
+      "added_at": "2022-09-14 17:55:34",
+      "album": {
+        "name": "No Es Por Ac\u00e1",
+        "url": "https://open.spotify.com/album/452R0kJudc73I2N1hxhL7k"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 167692,
+      "name": "No Es Por Ac\u00e1",
+      "url": "https://open.spotify.com/track/3bvJftZKZe5QKz433NczyV"
+    },
+    {
+      "added_at": "2022-09-14 17:55:34",
+      "album": {
+        "name": "Llorar y Llorar (con Carin Leon)",
+        "url": "https://open.spotify.com/album/3FytBDr6KeYhwstN8yanrn"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 169705,
+      "name": "Llorar y Llorar - con Carin Leon",
+      "url": "https://open.spotify.com/track/4YF13O2n16dcTyGgVmiGvN"
     },
     {
       "added_at": "2022-09-14 17:55:34",
@@ -1783,42 +1819,6 @@
       "duration_ms": 258540,
       "name": "Paulo Londra: Bzrp Music Sessions, Vol. 23",
       "url": "https://open.spotify.com/track/2uky0VCI2EZni0nArOPznM"
-    },
-    {
-      "added_at": "2022-09-14 17:55:34",
-      "album": {
-        "name": "Llorar y Llorar (con Carin Leon)",
-        "url": "https://open.spotify.com/album/3FytBDr6KeYhwstN8yanrn"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        },
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 169705,
-      "name": "Llorar y Llorar - con Carin Leon",
-      "url": "https://open.spotify.com/track/4YF13O2n16dcTyGgVmiGvN"
-    },
-    {
-      "added_at": "2022-09-14 17:55:34",
-      "album": {
-        "name": "No Es Por Ac\u00e1",
-        "url": "https://open.spotify.com/album/452R0kJudc73I2N1hxhL7k"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 167692,
-      "name": "No Es Por Ac\u00e1",
-      "url": "https://open.spotify.com/track/3bvJftZKZe5QKz433NczyV"
     },
     {
       "added_at": "2022-09-14 17:55:34",

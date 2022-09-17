@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 
 > A collection of the best Metal covers out there\. Cover: Metallica
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,277 likes - 75 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,515 likes - 75 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 | 32 | [Creeping Death](https://open.spotify.com/track/6onRH7iyBTjrm2GXGrSXUp) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Meanwhile in Burbank...](https://open.spotify.com/album/4WSCUCjHrIRTRkMy1TqI8X) | 6:35 |
 | 33 | [Drowning in the Sound](https://open.spotify.com/track/4nnoWkdf9ZSQJnMQhmxyMj) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Drowning in the Sound](https://open.spotify.com/album/2NpAvxFCF4HHkLn8VfuNJo) | 3:43 |
 | 34 | [The Devil Went Down to Georgia](https://open.spotify.com/track/7z3yEMhxw6ggDA9MjBqXow) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD), [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57) | [The Devil Went Down to Georgia](https://open.spotify.com/album/6WMyuY1fcOfwMcjLqI3X1W) | 3:51 |
-| 35 | [Aerials](https://open.spotify.com/track/0qAi6FKsbiGXAkk6Sx4mVn) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Surtur Rising](https://open.spotify.com/album/6bz1yWjzSUlsXXlih2fjyB) | 3:39 |
-| 36 | [Cinnamon Girl](https://open.spotify.com/track/7DeR4JkyfQHmUja3XC5oR9) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [October Rust \(Special Edition\)](https://open.spotify.com/album/6BkeUWI72Lssc077AxqQek) | 4:08 |
+| 35 | [Cinnamon Girl](https://open.spotify.com/track/7DeR4JkyfQHmUja3XC5oR9) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [October Rust \(Special Edition\)](https://open.spotify.com/album/6BkeUWI72Lssc077AxqQek) | 4:08 |
+| 36 | [Aerials](https://open.spotify.com/track/0qAi6FKsbiGXAkk6Sx4mVn) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Surtur Rising](https://open.spotify.com/album/6bz1yWjzSUlsXXlih2fjyB) | 3:39 |
 | 37 | [Enter Sandman](https://open.spotify.com/track/0YatuNVDfq8a2VoYlPka9k) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Enter Sandman](https://open.spotify.com/album/5833BTHlYCmErR58ED2wmu) | 3:51 |
 | 38 | [Enemy](https://open.spotify.com/track/0tobjNbP51FMlEUslgm9CR) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [Enemy](https://open.spotify.com/album/6wgIIWbiJM5SajVwzIw898) | 2:51 |
 | 39 | [Stairway to Heaven](https://open.spotify.com/track/0il7xIzXf94gNmYw2tnsUI) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Stairway to Nick John](https://open.spotify.com/album/1fifpfPsjplmA61cZcxN1e) | 8:05 |
@@ -52,13 +52,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 | 42 | [Lovely \(feat\. Charlotte Buchholz\)](https://open.spotify.com/track/73lnNys5DP9GOM2YKqNkQz) | [Time, The Valuator](https://open.spotify.com/artist/5XMVfR85CUqujqUkN9c9VQ), [Charlotte Buchholz](https://open.spotify.com/artist/6wkvIFk3Ao7Rjr2cUdJ8Kc) | [Lovely \(feat\. Charlotte Buchholz\)](https://open.spotify.com/album/2zXwjDE1op3goWSzN31I4G) | 3:58 |
 | 43 | [Let It Go](https://open.spotify.com/track/0XUBVMTYG5YFdbUstP34EC) | [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6) | [Let It Go](https://open.spotify.com/album/5ACse9gOjTzWMuJQoJjDwR) | 3:11 |
 | 44 | [Lose Yourself](https://open.spotify.com/track/7wKLhqM1eZHAB3W8GBFV6W) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [Lose Yourself](https://open.spotify.com/album/36LDkbYemz8vhelZvh3b9F) | 3:27 |
-| 45 | [No More Mr\. Nice Guy](https://open.spotify.com/track/48xclRgatXaAZQVIc6DYcT) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Hidden Treasures](https://open.spotify.com/album/3jfeL3OUh2Kimx9ZKja8fY) | 3:03 |
-| 46 | [If You Want Blood \(You Got It\)](https://open.spotify.com/track/6TWhvdum4pJxzka53znStD) | [Gwar](https://open.spotify.com/artist/3dnH7fdVm2X07MK6Fkbhbt) | [The Blood of Gods](https://open.spotify.com/album/4Ps3txaybLW14aDROZ48sL) | 5:05 |
+| 45 | [If You Want Blood \(You Got It\)](https://open.spotify.com/track/6TWhvdum4pJxzka53znStD) | [Gwar](https://open.spotify.com/artist/3dnH7fdVm2X07MK6Fkbhbt) | [The Blood of Gods](https://open.spotify.com/album/4Ps3txaybLW14aDROZ48sL) | 5:05 |
+| 46 | [No More Mr\. Nice Guy](https://open.spotify.com/track/48xclRgatXaAZQVIc6DYcT) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Hidden Treasures](https://open.spotify.com/album/3jfeL3OUh2Kimx9ZKja8fY) | 3:03 |
 | 47 | [Toss A Coin To Your Witcher](https://open.spotify.com/track/3Oz3R5UH9ynO4h1dcpEey1) | [Matthew K\. Heafy](https://open.spotify.com/artist/2YRpsoIsb4KGe66E7hfEx5) | [Toss A Coin To Your Witcher](https://open.spotify.com/album/2O8wiCuevOATbL5OJRYLP0) | 2:59 |
 | 48 | [Chop Suey!](https://open.spotify.com/track/6mAtV1MrrpaAFtcUgSj3q0) | [Nekrogoblikon](https://open.spotify.com/artist/3FILKvtNoiEfCJO9qVNCNF) | [Chop Suey!](https://open.spotify.com/album/6FDx7On1oIaLAn95L3Swhx) | 3:34 |
 | 49 | [God of Thunder](https://open.spotify.com/track/1nkGGFxYkC4JQRvTF80zDo) | [Death](https://open.spotify.com/artist/4f5V3PQ66nIrBCqugJtaGn) | [Human \(Deluxe Version\)](https://open.spotify.com/album/2bzV4j7nfY676RDSmxs0rc) | 4:00 |
-| 50 | [TNT](https://open.spotify.com/track/0Ox3pTGk5Dg3iN9neOJ8kP) | [Six Feet Under](https://open.spotify.com/artist/4pFAF1L1tYnJHLe5hgyKuI) | [Graveyard Classics](https://open.spotify.com/album/6xAD5ZjKofuXaFi7sR79IV) | 3:28 |
-| 51 | [My Heart Will Go On](https://open.spotify.com/track/2XdidRMHUsStcYW1Gujcry) | [DragonForce](https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR) | [Extreme Power Metal](https://open.spotify.com/album/0xgC478TCYgc4BaO7nAheO) | 3:24 |
+| 50 | [My Heart Will Go On](https://open.spotify.com/track/2XdidRMHUsStcYW1Gujcry) | [DragonForce](https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR) | [Extreme Power Metal](https://open.spotify.com/album/0xgC478TCYgc4BaO7nAheO) | 3:24 |
+| 51 | [TNT](https://open.spotify.com/track/0Ox3pTGk5Dg3iN9neOJ8kP) | [Six Feet Under](https://open.spotify.com/artist/4pFAF1L1tYnJHLe5hgyKuI) | [Graveyard Classics](https://open.spotify.com/album/6xAD5ZjKofuXaFi7sR79IV) | 3:28 |
 | 52 | [Voyage Voyage](https://open.spotify.com/track/4LINHMbBmU74hxAENodgh3) | [Sirenia](https://open.spotify.com/artist/5FXMcILCOMjljRTV6cLoiE) | [Riddles, Ruins & Revelations](https://open.spotify.com/album/3nsfNu84qheLQ4GeJ8XSUm) | 4:18 |
 | 53 | [Hunting High and Low](https://open.spotify.com/track/15W0PcvB3DWsgbvWLsYU5A) | [Metalite](https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg) | [Hunting High and Low](https://open.spotify.com/album/6Q564q0CmThXMx6rGrqPEf) | 4:37 |
 | 54 | [Gimme! Gimme! Gimme! \(A Man After Midnight\)](https://open.spotify.com/track/0d76QXv2R4RIvWWb2y1MIu) | [Unfound Reliance](https://open.spotify.com/artist/1I7qaL2lIjPmA84PPyenBq) | [Gimme! Gimme! Gimme! \(A Man After Midnight\)](https://open.spotify.com/album/4LSbhtzHdQtsE6XPF4xNdy) | 4:24 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 | 74 | [Devil Inside](https://open.spotify.com/track/2kzVZTBUQG3CzuFTUknaRo) | [Wednesday 13](https://open.spotify.com/artist/6Cvzf33JDzCIw2eJU8npQo) | [Devil Inside](https://open.spotify.com/album/42VxwbDQ4YorE3wuS7ofYq) | 5:14 |
 | 75 | [Mambo No\. 5 \- Cover](https://open.spotify.com/track/6zVPxBtCzKMewKLC9OOfcx) | [COMETRON](https://open.spotify.com/artist/3zlHrJ9PNVZzqy7qobJFIi) | [Mambo No\. 5 \(Cover\)](https://open.spotify.com/album/5Ng9lsJwo1waGpQhSOMBSn) | 3:30 |
 
-Snapshot ID: `MTY2MTUxODgwMCwwMDAwMDAwMDM3YjViNTJlMWUwODJiYTllOWZiNjkwZDU3OTI3MzUx`
+Snapshot ID: `MTY2MTUxODgwMCwwMDAwMDAwMGVkYmQ1ZDliYmE5YzUyNTIyYTg4OThjNGZjYmNjYjIw`

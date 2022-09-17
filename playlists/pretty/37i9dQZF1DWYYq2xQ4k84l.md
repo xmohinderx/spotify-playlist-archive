@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYq2xQ4k84l.md) - [plain]
 
 > The biggest songs in Latin America in 2004\. Cover: Juanes
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,608 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,629 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYq2xQ4k84l.md) - [plain]
 | 38 | [Siempre me quedará](https://open.spotify.com/track/3iHJm7dUroZYvbqrhobLZs) | [Bebe](https://open.spotify.com/artist/2byU53ebtTxcAnIRE814Ts) | [Pafuera Telarañas](https://open.spotify.com/album/3B8sRsQWEcVVeo3msMowPB) | 3:49 |
 | 39 | [Arde la Ciudad](https://open.spotify.com/track/3SyKG06yOK3omo29EwZ8dP) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04) | [Viaje](https://open.spotify.com/album/795wm7ucRpHjqdyIPUAd0i) | 4:12 |
 | 40 | [Las Avispas](https://open.spotify.com/track/1oInQX1RuH1TcHuDv8Gvw3) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Coleccion Cristiana](https://open.spotify.com/album/4u3f2d7j7SUlPh5dGaJf1v) | 3:15 |
-| 41 | [No Me Quiero Enamorar](https://open.spotify.com/track/6LUWcw7HapRK92mQI42Tzp) | [Kalimba](https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv) | [Aerosoul](https://open.spotify.com/album/2sIZCYi1DM51AheC1HiqgG) | 3:37 |
-| 42 | [A Veces Vuelvo](https://open.spotify.com/track/2E2dLZK0gSTl6vjr53BfKM) | [Catupecu Machu](https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc) | [El Número Imperfecto](https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn) | 4:26 |
-| 43 | [Cielo Rojo](https://open.spotify.com/track/6z2gdbLv44WxTfpsnvoPLI) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Mexico en la Piel \(edicion diamante\)](https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM) | 2:55 |
+| 41 | [Cielo Rojo](https://open.spotify.com/track/6z2gdbLv44WxTfpsnvoPLI) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Mexico en la Piel \(edicion diamante\)](https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM) | 2:55 |
+| 42 | [No Me Quiero Enamorar](https://open.spotify.com/track/6LUWcw7HapRK92mQI42Tzp) | [Kalimba](https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv) | [Aerosoul](https://open.spotify.com/album/2sIZCYi1DM51AheC1HiqgG) | 3:37 |
+| 43 | [A Veces Vuelvo](https://open.spotify.com/track/2E2dLZK0gSTl6vjr53BfKM) | [Catupecu Machu](https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc) | [El Número Imperfecto](https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn) | 4:26 |
 | 44 | [Va A Escampar](https://open.spotify.com/track/4MPwBYidOWnwpKlqQYJEzX) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [A Contraluz](https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL) | 4:41 |
 | 45 | [Vamos Fugir](https://open.spotify.com/track/5a008ecFPEypprh1yOg1bM) | [Skank](https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU) | [\#1 Hits](https://open.spotify.com/album/0DABfstwprmJLBSv5n8Wft) | 4:00 |
 | 46 | [Algo Más](https://open.spotify.com/track/1L8RiMflaEtWqg6GtRQNAF) | [La Quinta Estacion](https://open.spotify.com/artist/7FZj349hdLfD6qzXkJLuAh) | [Recuérdame Con Cartas Y Algo Más..\. Los Exitos \(Deluxe Edition\)](https://open.spotify.com/album/3PXv5uwPtZmtg0Qq6PxAgm) | 4:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYq2xQ4k84l.md) - [plain]
 | 49 | [Llenos De Magia](https://open.spotify.com/track/2q0k5EsonFQ2dgzpfUJRpu) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [A Contraluz](https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL) | 3:52 |
 | 50 | [Duele El Amor!](https://open.spotify.com/track/2SfWO6xWCJd7q5oiUcphyi) | [Aleks Syntek](https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi), [Ana Torroja](https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124) | [1989\-2009](https://open.spotify.com/album/19I8hvP9qeZOudvIPd7Gv5) | 4:35 |
 
-Snapshot ID: `MTY2MDEwODU5OCwwMDAwMDAwMDVjZTUwOGU4NzVkZDY2ZTIxZmFkMWNmMzk4MzlhNThk`
+Snapshot ID: `MTY2MDEwODU5OCwwMDAwMDAwMGZjZWZjMmJhOTI3YTZmNmM4MDVkNmU0ZmIwMzgzOTY4`

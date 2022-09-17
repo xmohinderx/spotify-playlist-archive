@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWValJmYBKiAM.md) - [plain]
 
 > Relax to the the rhythm of these smooth Latin tunes of the 2000s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,682 likes - 100 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,813 likes - 100 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWValJmYBKiAM.md) - [plain]
 | 36 | [Volverte A Ver](https://open.spotify.com/track/2ZqFfDwNjKvPu3USx3onhO) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Mi Sangre](https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne) | 3:37 |
 | 37 | [Sin miedo a nada \(feat\. Amaia Montero\)](https://open.spotify.com/track/02bKaAG61tMw9c63fzKXal) | [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X), [Amaia Montero](https://open.spotify.com/artist/4LbuSjHhhAddvN44qXpRJo) | [¿Qué pides tú? \(Argentina\)](https://open.spotify.com/album/7cJiLvzLDaEhi2K4pfPYjl) | 5:10 |
 | 38 | [Ya Nada Queda](https://open.spotify.com/track/3zN6kV9JWuQYVqXPtNvZku) | [Kudai](https://open.spotify.com/artist/0Wnd6L0qEnk8jiCIHrWXaC) | [Vuelo](https://open.spotify.com/album/08KOgBq2xXcfunaEs3Nf2P) | 3:44 |
-| 39 | [Desde Que Llegaste](https://open.spotify.com/track/4iuQ88fgaqBRkzb1JWKUbZ) | [Reyli Barba](https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ) | [Reyli En La Luna](https://open.spotify.com/album/3BLkomoXh6O4Sp2m9z4tiY) | 3:33 |
-| 40 | [Aunque no sea conmigo \(feat\. Café Tacvba\)](https://open.spotify.com/track/199gJ6b1aihvmEqdQZr0qT) | [Celso Piña](https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi), [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Barrio Bravo](https://open.spotify.com/album/0ZCip2zkf5EGx7j4QeRRUD) | 3:33 |
+| 39 | [Aunque no sea conmigo \(feat\. Café Tacvba\)](https://open.spotify.com/track/199gJ6b1aihvmEqdQZr0qT) | [Celso Piña](https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi), [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Barrio Bravo](https://open.spotify.com/album/0ZCip2zkf5EGx7j4QeRRUD) | 3:33 |
+| 40 | [Desde Que Llegaste](https://open.spotify.com/track/4iuQ88fgaqBRkzb1JWKUbZ) | [Reyli Barba](https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ) | [Reyli En La Luna](https://open.spotify.com/album/3BLkomoXh6O4Sp2m9z4tiY) | 3:33 |
 | 41 | [Que Me Alcance la Vida](https://open.spotify.com/track/0doPUFYZPjLAFNfqoZy7Jw) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Mañana](https://open.spotify.com/album/5pbMJWLEzbU0HNQBffJyRx) | 3:48 |
 | 42 | [El Loco](https://open.spotify.com/track/2jEjxOyKqMpkcThWl697hf) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Jessico](https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh) | 3:05 |
 | 43 | [Desde cuando](https://open.spotify.com/track/38EI0NudWZT1qFuhEafIHh) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Paraiso Express](https://open.spotify.com/album/0WSmZjtSlfaMoJjrhj7R7z) | 3:55 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWValJmYBKiAM.md) - [plain]
 | 92 | [Momento](https://open.spotify.com/track/1eQU5ex4RcVjz55hWPeJzc) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Barrilete](https://open.spotify.com/album/68CATT5x7h27zl3KKnLM3g) | 5:49 |
 | 93 | [Amores Prohibidos](https://open.spotify.com/track/3vJM77KoiopgMv32I5fejb) | [Elefante](https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb) | [El Que Busca Encuentra](https://open.spotify.com/album/0fuY5UnmF59L4xKeRSZFbm) | 4:07 |
 | 94 | [Tu Hombre Perfecto](https://open.spotify.com/track/2AvMmfkHClBKVfoDpYAXx2) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Más De Mi Alma](https://open.spotify.com/album/6Wu8bNDDeQb0mLXYstVAjh) | 4:21 |
-| 95 | [Amor de Madre](https://open.spotify.com/track/7Ka96TnEA9S6aWG4pIS9RW) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [We Broke The Rules](https://open.spotify.com/album/5QdYO6Q2POaG7dhVIsJeWd) | 5:50 |
-| 96 | [Bésame](https://open.spotify.com/track/15eXfjBk8M8L0aKJXe5YnG) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Besame](https://open.spotify.com/album/0Q8YqUymZLPDwUwfAHqZHg) | 3:56 |
+| 95 | [Bésame](https://open.spotify.com/track/15eXfjBk8M8L0aKJXe5YnG) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Besame](https://open.spotify.com/album/0Q8YqUymZLPDwUwfAHqZHg) | 3:56 |
+| 96 | [Amor de Madre](https://open.spotify.com/track/7Ka96TnEA9S6aWG4pIS9RW) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [We Broke The Rules](https://open.spotify.com/album/5QdYO6Q2POaG7dhVIsJeWd) | 5:50 |
 | 97 | [Noviembre Sin Ti](https://open.spotify.com/track/63EzbC00mdZurdZzRcO4w3) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Reik](https://open.spotify.com/album/16QRglfvF1gpz6GLsBC1gU) | 3:23 |
 | 98 | [Nada Es Para Siempre](https://open.spotify.com/track/5ToI5oXnUmX5Nsmg8enL1N) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Paso A Paso](https://open.spotify.com/album/43GuWlqbeht6837v73SsMw) | 3:59 |
 | 99 | [Para Qué La Vida](https://open.spotify.com/track/4ZwU8VMYnkigKVJgSgTBtK) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Quizás](https://open.spotify.com/album/4yZ94VdhoJGQMz6aNUlcc0) | 4:05 |
 | 100 | [Asignatura Pendiente](https://open.spotify.com/track/4nYE8K5ozd9HNfB2RC8o2c) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Almas Del Silencio](https://open.spotify.com/album/5ME0ACeS6VWaqTOCpsoFT2) | 3:56 |
 
-Snapshot ID: `MTY2MTkzMDEyNSwwMDAwMDAwMGE2YzQxOTdhZDA1MWU4MzlmMTk5MjUxMmYxZjcxOGIy`
+Snapshot ID: `MTY2MTkzMDEyNSwwMDAwMDAwMDRhNTcyMmY0N2FkNmUxNjg4YzY4ZGU2ODgyZTQzZWE1`

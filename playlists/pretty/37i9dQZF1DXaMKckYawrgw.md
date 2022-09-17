@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMKckYawrgw.md) - [plain]
 
 > Ska con cuadritos blancos, negros, y tricolores\. La Tremenda Korte en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,607 likes - 120 songs - 7 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,619 likes - 120 songs - 7 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMKckYawrgw.md) - [plain]
 | 73 | [Quédate](https://open.spotify.com/track/2nOKzJ1jKPU4YTgIUAaKxo) | [Girls Go Ska](https://open.spotify.com/artist/0jLRSH7uzp7DAbl3vfBhjo) | [Frente al Mar](https://open.spotify.com/album/5mo377nus6GhMWCoPMhi7n) | 3:16 |
 | 74 | [Jamaica Ska](https://open.spotify.com/track/0TC4bsmObl4K0tbI5IFcTD) | [Toño Quirazco](https://open.spotify.com/artist/2uu3Ci708BPlF2oXSCeSeo) | [Jamaica Ska](https://open.spotify.com/album/6DDi0g2UP6IYKTY8xyT2Xq) | 2:15 |
 | 75 | [Sweet Loneliness](https://open.spotify.com/track/2Cn1tMwzh9CIss44E57mwj) | [Travelers All Stars](https://open.spotify.com/artist/7DZB5WWuNnc86cwhzv7Uuj) | [Birth of the Fourth Wave of Ska](https://open.spotify.com/album/2yeVq9vmJ4Xto4Lnqjw6eB) | 4:09 |
-| 76 | [Pepepez](https://open.spotify.com/track/37h8TmRSPfWKL7ahi8ckSU) | [Los De Abajo](https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW) | [Los De Abajo](https://open.spotify.com/album/0eGanROLjAFIUSTGk0kYZR) | 4:25 |
-| 77 | [Otros Nosotros](https://open.spotify.com/track/7Klq4wBMnMUeBADEBYfKPf) | [Sax](https://open.spotify.com/artist/5h0ng91IU5Pv8LDpamqVN1), [Salvador Moreno](https://open.spotify.com/artist/3SjK2DHQbnpcAHyebi1UPs) | [Otros Nosotros](https://open.spotify.com/album/6nLleEGPcDbvgiNxa392nQ) | 3:34 |
+| 76 | [Otros Nosotros](https://open.spotify.com/track/7Klq4wBMnMUeBADEBYfKPf) | [Sax](https://open.spotify.com/artist/5h0ng91IU5Pv8LDpamqVN1), [Salvador Moreno](https://open.spotify.com/artist/3SjK2DHQbnpcAHyebi1UPs) | [Otros Nosotros](https://open.spotify.com/album/6nLleEGPcDbvgiNxa392nQ) | 3:34 |
+| 77 | [Pepepez](https://open.spotify.com/track/37h8TmRSPfWKL7ahi8ckSU) | [Los De Abajo](https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW) | [Los De Abajo](https://open.spotify.com/album/0eGanROLjAFIUSTGk0kYZR) | 4:25 |
 | 78 | [Para Andar Igual](https://open.spotify.com/track/6TOnvwLPwT71WAXzeR1haR) | [Los Skarnales](https://open.spotify.com/artist/0Fs8ncEYnVSmzepxUocr5n) | [Vatos Rudos Forever! \(1994\-2014\)](https://open.spotify.com/album/73GO7U8UfkyfRcTe2Al0yt) | 3:22 |
 | 79 | [Amor tóxico](https://open.spotify.com/track/75GSBXTLE2TCAOvttgl3vf) | [Paco Ellington](https://open.spotify.com/artist/2GJeoAx45CGPveeIWVD8Hg), [New Lion Ska](https://open.spotify.com/artist/6wlAS7ETMMuzJiwEIHzFII) | [Amor tóxico](https://open.spotify.com/album/1rxsQtHulC55OUfd74A0nq) | 3:29 |
 | 80 | [Bum Bum](https://open.spotify.com/track/2qJVf6eIISbjq21DYHauO3) | [Buena Vibra Social Sound](https://open.spotify.com/artist/5qUgKXhgE42KrDsz6K4m01) | [Buena Vibra Social Sound, Vol\. 1](https://open.spotify.com/album/6gPi5aG2BtnE1gBVWUDCAu) | 3:53 |
@@ -116,8 +116,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMKckYawrgw.md) - [plain]
 | 106 | [Pequeño Tratado de un Adiós](https://open.spotify.com/track/2eAAwvxPdqDchQ1DBSdZNe) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [A la Izquierda de la Tierra](https://open.spotify.com/album/4H2Qf4zgMbm6np5JU3z9Qd) | 4:06 |
 | 107 | [Música Guerrera](https://open.spotify.com/track/7no56lxy8LQY6zHWNmGqIG) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT), [Roco Pachukote](https://open.spotify.com/artist/2ODbtFkjehgsWGLhybegVA), [Leones Negros & Atletas Campesinos](https://open.spotify.com/artist/5VpBGIOS8GhQx0NVwa1Tkm) | [Música Guerrera](https://open.spotify.com/album/0kOxkSeQ6cmmCHdTq52JSK) | 3:06 |
 | 108 | [Ska Voovee Boobie Baby](https://open.spotify.com/track/5Eq47jirNdRQFGilmUJMVe) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Unidad, Cerveza y Ska](https://open.spotify.com/album/54LTjGhFJR2kn8gqlQTgGd) | 3:23 |
-| 109 | [Como Te Extraño](https://open.spotify.com/track/0ObAdS3tZTk8rcutC67rlR) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Unidad, Cerveza y Ska](https://open.spotify.com/album/54LTjGhFJR2kn8gqlQTgGd) | 3:46 |
-| 110 | [Besame Mucho](https://open.spotify.com/track/4XMGgtLvkOOfNzS3PNcsvY) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Inspector](https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB) | 3:43 |
+| 109 | [Besame Mucho](https://open.spotify.com/track/4XMGgtLvkOOfNzS3PNcsvY) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Inspector](https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB) | 3:43 |
+| 110 | [Como Te Extraño](https://open.spotify.com/track/0ObAdS3tZTk8rcutC67rlR) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Unidad, Cerveza y Ska](https://open.spotify.com/album/54LTjGhFJR2kn8gqlQTgGd) | 3:46 |
 | 111 | [Abajo y a la Izquierda](https://open.spotify.com/track/3AQbm1gIpyyqIV1MSyERkE) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Ejército de Paz](https://open.spotify.com/album/31M3drSiYALJMah8o3PGke) | 3:45 |
 | 112 | [Borracho Drunk Steady Beer](https://open.spotify.com/track/2zl3Y1AorHtOI8KNbTT1DA) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [A la Izquierda de la Tierra](https://open.spotify.com/album/4H2Qf4zgMbm6np5JU3z9Qd) | 3:47 |
 | 113 | [Estrella Roja](https://open.spotify.com/track/6sNGJP7X3DSmQsdSD91Eu0) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Panteón Rococó](https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg) | 3:17 |
@@ -126,7 +126,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMKckYawrgw.md) - [plain]
 | 116 | [Condenado a Muerte](https://open.spotify.com/track/3p3NU6zPzsAxYSwDufIjWL) | [La Tremenda Korte](https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt) | [Venga la Sentencia](https://open.spotify.com/album/0x38zEUnqO1aQQtsVEQ6Wd) | 3:29 |
 | 117 | [Cómo Te Extraño](https://open.spotify.com/track/6nQE34XyP1UwtvaNoqBsyR) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [San Pascualito Rey](https://open.spotify.com/artist/3y4u1V2WmArOAws2yjRVi6) | [Cómo Te Extraño](https://open.spotify.com/album/1RSFqw2Te37UhUaXeUSxtm) | 4:39 |
 | 118 | [El Dejado](https://open.spotify.com/track/1SLeMtVgr6TJMmuPjCPgxv) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Los Skarnales](https://open.spotify.com/artist/0Fs8ncEYnVSmzepxUocr5n) | [A2Í 5Uena!, Vol 2](https://open.spotify.com/album/2Fbw8FPgMnce7PN46CAjNW) | 4:56 |
-| 119 | [Skápate](https://open.spotify.com/track/7yMqPgzklmMsyzIgcnMzof) | [Los De Abajo](https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW) | [Alicia](https://open.spotify.com/album/5uTKnp8Vp2JcNyZAaw238b) | 4:59 |
-| 120 | [Ni un paso atras](https://open.spotify.com/track/18IS6FcCXbJODmeWrM7uAf) | [La Tremenda Korte](https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt) | [Canciones de Carretera: Conducir Por España](https://open.spotify.com/album/1B7nU2MOVmYdivGbfhoBj9) | 3:37 |
+| 119 | [Ni un paso atras](https://open.spotify.com/track/18IS6FcCXbJODmeWrM7uAf) | [La Tremenda Korte](https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt) | [Canciones de Carretera: Conducir Por España](https://open.spotify.com/album/1B7nU2MOVmYdivGbfhoBj9) | 3:37 |
+| 120 | [Skápate](https://open.spotify.com/track/7yMqPgzklmMsyzIgcnMzof) | [Los De Abajo](https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW) | [Alicia](https://open.spotify.com/album/5uTKnp8Vp2JcNyZAaw238b) | 4:59 |
 
-Snapshot ID: `MTY2MjcyOTUyMCwwMDAwMDAwMGRkZWQyOWNkZmVkOTgzM2M4OTNiYTQ3OTBhNjNiMTg0`
+Snapshot ID: `MTY2MjcyOTUyMCwwMDAwMDAwMGYyZDAzMTZmNGJlYmUwNTM2MTIyNWMxMTFjMmNmODVl`

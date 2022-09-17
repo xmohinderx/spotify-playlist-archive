@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5moqgdeY56a.md) - [plain]
 
 > Antonio, Pepe, Ángela, Majo & Leonardo..\. Los Aguilar a través de las generaciones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,123 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,142 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5moqgdeY56a.md) - [plain]
 | 22 | [Amigos Nada Más](https://open.spotify.com/track/56flGLpXk65jcXDKirq75B) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [De Plaza En Plaza \(Cumbia Sinfónica/Deluxe\)](https://open.spotify.com/album/7oxd8r5ovhnE67VLXEXS5M) | 3:31 |
 | 23 | [Cien Años](https://open.spotify.com/track/4SL8wbnGRP0nkIYyjeIKRU) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Un Canto por México, Vol\. II](https://open.spotify.com/album/0Ece1my4kjbR0frvMUzRT0) | 3:42 |
 | 24 | [Ni Contigo, Ni Sin Ti](https://open.spotify.com/track/6Y7W7sn8mT1C6FatpoPhhd) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Negociaré Con la Pena](https://open.spotify.com/album/1D6HaQjqbn7B3r2jsZalIx) | 4:31 |
-| 25 | [Fruta Prohibida](https://open.spotify.com/track/5SXHKeVmlPxpP5jNkOXo1B) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Que No Se Apague La Música](https://open.spotify.com/album/11TUtenhdCYRiv1xEQxaZl) | 2:53 |
+| 25 | [La Llorona](https://open.spotify.com/track/7L3borCR5Izc7zJjFpjjhh) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Primero Soy Mexicana](https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh) | 8:10 |
 | 26 | [Nadie Es Eterno](https://open.spotify.com/track/4i3uCgeimloYd8UgEj8Rkl) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar Con Tambora, Vol\. 6](https://open.spotify.com/album/4KtbBbWdNmdbuNZj4QO3Ca) | 2:52 |
 | 27 | [No Voy A Llorar](https://open.spotify.com/track/3v6f1Bn9Pyz6NkI2ISINPt) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [No Voy A Llorar](https://open.spotify.com/album/7BP2b79XEPJYHEgChKkiF6) | 3:17 |
 | 28 | [Una y Mil Razones](https://open.spotify.com/track/4GYEw1rccnn36siGuvhxEn) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Una y Mil Razones](https://open.spotify.com/album/6D2xGN02Ea4nv97JtzlMFz) | 3:03 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5moqgdeY56a.md) - [plain]
 | 34 | [Así Es La Vida](https://open.spotify.com/track/3c8lIXaRUGniycNN1Mz2i7) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Así Es La Vida](https://open.spotify.com/album/5ygmzSeurGyRn57a5XAJNp) | 3:07 |
 | 35 | [Me Vas A Extrañar](https://open.spotify.com/track/47UjuR24Bp3LgCTHNTynXu) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Lo Mejor De Nosotros](https://open.spotify.com/album/6DKj6CdMCUYRYJ4BnJnjd0) | 4:20 |
 | 36 | [Por Una Mujer Bonita](https://open.spotify.com/track/0ttipGf9tKRBGayR53Zy79) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Por Una Mujer Bonita](https://open.spotify.com/album/575z6jPePLhrgIlIeaKflS) | 2:44 |
-| 37 | [Perdóname](https://open.spotify.com/track/5Ss6PEMm27CQUCotqWLKe6) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Por Una Mujer Bonita](https://open.spotify.com/album/575z6jPePLhrgIlIeaKflS) | 3:31 |
-| 38 | [La Llorona](https://open.spotify.com/track/7L3borCR5Izc7zJjFpjjhh) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Primero Soy Mexicana](https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh) | 8:10 |
+| 37 | [Fruta Prohibida](https://open.spotify.com/track/5SXHKeVmlPxpP5jNkOXo1B) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Que No Se Apague La Música](https://open.spotify.com/album/11TUtenhdCYRiv1xEQxaZl) | 2:53 |
+| 38 | [Perdóname](https://open.spotify.com/track/5Ss6PEMm27CQUCotqWLKe6) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Por Una Mujer Bonita](https://open.spotify.com/album/575z6jPePLhrgIlIeaKflS) | 3:31 |
 | 39 | [Lamberto Quintero](https://open.spotify.com/track/5FWViyEsDYr3hkYmj10GxZ) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar con Mariachi](https://open.spotify.com/album/1avd5vgMRyfa6YD4LuZh2n) | 3:04 |
 | 40 | [Gabino Barrera](https://open.spotify.com/track/2QSvl8WTIffnGgCvvlpixE) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Corridos](https://open.spotify.com/album/6Au63pdf8vjOy905MVQEeq) | 2:57 |
 | 41 | [Me Estoy Acostumbrando A Ti](https://open.spotify.com/track/5oZa1smfDqlY8E2rfUgUEl) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Por El Amor De Siempre](https://open.spotify.com/album/3anZPZONnJphGTJxmFCfPC) | 3:46 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5moqgdeY56a.md) - [plain]
 | 45 | [Tus Desprecios](https://open.spotify.com/track/6gyPojQkJawXsMryAeu5Se) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Tus Desprecios](https://open.spotify.com/album/3si2q6g6Mw94o5wsftqXH6) | 2:22 |
 | 46 | [El Moro De Cumpas](https://open.spotify.com/track/7saMayhJnkuIf0dosuuWH4) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [15 Éxitos: Corridos de Caballos Famosos](https://open.spotify.com/album/3WUnXpC1xyvjORAFOym30X) | 3:15 |
 | 47 | [Busca Otro Amor](https://open.spotify.com/track/0d70DBNHHVgJC0GQ90BIrY) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar Con Tambora](https://open.spotify.com/album/32INMqlpUFKi3ve7m9H7nM) | 3:15 |
-| 48 | [La Martina](https://open.spotify.com/track/34uNgYubjTKtgslAceJELk) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [15 Éxitos: Corridos Famosos](https://open.spotify.com/album/4zViKwboAczInCqS6EP1Y7) | 3:17 |
-| 49 | [Fue un Placer Conocerte](https://open.spotify.com/track/2keN15BswHOxejdRAaMT8s) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Fue un Placer Conocerte: Gracias Juan Gabriel, Vol\. 1](https://open.spotify.com/album/53mW1mcrK5HCENdQKkwVtV) | 3:30 |
+| 48 | [Fue un Placer Conocerte](https://open.spotify.com/track/2keN15BswHOxejdRAaMT8s) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Fue un Placer Conocerte: Gracias Juan Gabriel, Vol\. 1](https://open.spotify.com/album/53mW1mcrK5HCENdQKkwVtV) | 3:30 |
+| 49 | [La Martina](https://open.spotify.com/track/34uNgYubjTKtgslAceJELk) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [15 Éxitos: Corridos Famosos](https://open.spotify.com/album/4zViKwboAczInCqS6EP1Y7) | 3:17 |
 | 50 | [En Realidad](https://open.spotify.com/track/2m7I1EX7ogZVHFow6Q1jeC) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Mexicana Enamorada](https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX) | 3:25 |
 
-Snapshot ID: `MTYzOTQyMTQ1MCwwMDAwMDAwMGYwM2I1ZGE0ODU4YmJkMDk3ZDNlMTc1ZWVjOTA3NWZk`
+Snapshot ID: `MTYzOTQyMTQ1MCwwMDAwMDAwMDg5OTViMjZmMzg3YTVlMzE1N2UyZGJiMDE3OTIwYTE0`

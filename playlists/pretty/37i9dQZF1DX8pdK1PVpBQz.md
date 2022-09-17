@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: Yb\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,561 likes - 110 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,567 likes - 110 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [GUAP POP](https://open.spotify.com/track/5fO0HCT842t1Uh01mI4hYu) | [Agung Mango](https://open.spotify.com/artist/1XXBwJeXvPE1PdXWjJLuXf), [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [GUAP POP](https://open.spotify.com/album/3id0ljW668YT6O3feu9wnz) | 3:37 |
 | 2 | [Dreams](https://open.spotify.com/track/3Xeh5UjgDMFEk3VaY4PBmU) | [Caroline & Claude](https://open.spotify.com/artist/31KYVnV5N4VuzjfBXPZMMl) | [Dreams](https://open.spotify.com/album/7BtC5wUYfab3eIsfBACAVU) | 2:25 |
-| 3 | [SNOW](https://open.spotify.com/track/7MUKTjyG2zHN2tLaiTzBjf) | [FLY BOY JACK](https://open.spotify.com/artist/35GAPh9jdXm4l3KLXCBQFJ), [Jordan Dennis](https://open.spotify.com/artist/2iSbupdaMW303tk8tqdCv5), [JUJO](https://open.spotify.com/artist/6lUuCxT476utVj3g9IUaFF), [Dallas Woods](https://open.spotify.com/artist/7AlRsfXxw5GcXNob86rgnH) | [SNOW](https://open.spotify.com/album/6N1EWAyHaxsPxkVor08KSc) | 2:57 |
+| 3 | [SNOW](https://open.spotify.com/track/7MUKTjyG2zHN2tLaiTzBjf) | [FLY BOY JACK](https://open.spotify.com/artist/35GAPh9jdXm4l3KLXCBQFJ), [Jordan Dennis](https://open.spotify.com/artist/2iSbupdaMW303tk8tqdCv5), [Dallas Woods](https://open.spotify.com/artist/7AlRsfXxw5GcXNob86rgnH), [JUJO](https://open.spotify.com/artist/6lUuCxT476utVj3g9IUaFF) | [SNOW](https://open.spotify.com/album/6N1EWAyHaxsPxkVor08KSc) | 2:57 |
 | 4 | [over the moon](https://open.spotify.com/track/69rnafcTbBRUEOVywWS0YH) | [Myles Cotton](https://open.spotify.com/artist/2w5jXRTaNmFZdkZCaPXS2o) | [over the moon](https://open.spotify.com/album/5FAnWwR7K1eMLq8i45ENRH) | 2:53 |
 | 5 | [Sandra](https://open.spotify.com/track/5ICH7ngVufTeW8sBCCl2GN) | [Yb.](https://open.spotify.com/artist/3grUv9qZhOiskIVa9fff8i) | [Sandra](https://open.spotify.com/album/3diUwioN2XksdXKERc4rxi) | 3:54 |
 | 6 | [All I See Is You](https://open.spotify.com/track/6OOE20Txlvpu1FOF4dxj8I) | [Achingdrum](https://open.spotify.com/artist/7JYSNyL7lYRsQHAfxQkIie), [Tim Shiel](https://open.spotify.com/artist/4s4HQb53CQx8x9GlWJ5Ocy) | [Something To Give](https://open.spotify.com/album/2l8TYvZ91Vn9rb2KqtaV4L) | 2:25 |

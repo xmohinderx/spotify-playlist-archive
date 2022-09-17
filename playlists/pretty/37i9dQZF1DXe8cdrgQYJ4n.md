@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe8cdrgQYJ4n.md) - [plain]
 
 > 솔로여도 괜찮은 나를 위한 노래들
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,980 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,015 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,16 +44,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe8cdrgQYJ4n.md) - [plain]
 | 34 | [Dear, Beloved \- Original Version](https://open.spotify.com/track/5AwhDE42bfgFw9Nm5iv66T) | [HYOJUNG](https://open.spotify.com/artist/6seuyGQ3Fq56sS06YVPsOk) | [Dear X Who Doesn't Love Me, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/3ydjTxtIV74JPcsXff9hoh) | 3:23 |
 | 35 | [Sorry](https://open.spotify.com/track/3OYuHSIBy3KrBDXG9Au5r8) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Wish & Wind](https://open.spotify.com/album/5Fs2dlwUz1zkNcUPu6KaKF) | 3:37 |
 | 36 | [HAPPY](https://open.spotify.com/track/5UteR9bUlDg8I70brft1Vh) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [CRUSH](https://open.spotify.com/album/4OviNx5CqaeGhARVtHYtDL) | 3:36 |
-| 37 | [LEGO\(Let's Go\)](https://open.spotify.com/track/6LBaBhUnFywBr4HP6a5RDM) | [curv moon](https://open.spotify.com/artist/5Lv4ukV1IsTbFO3WupJRL4) | [LEGO\(Let's Go\)](https://open.spotify.com/album/7IMiyn6pyeKOX4GXTIk4M8) | 1:53 |
-| 38 | [Fuxk off](https://open.spotify.com/track/50ThLixmp3d9GGtyZtqZmu) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [In My Room](https://open.spotify.com/album/6kEpx1z9uVAWuTkHY1bdKG) | 3:02 |
+| 37 | [Fuxk off](https://open.spotify.com/track/50ThLixmp3d9GGtyZtqZmu) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [In My Room](https://open.spotify.com/album/6kEpx1z9uVAWuTkHY1bdKG) | 3:02 |
+| 38 | [LEGO\(Let's Go\)](https://open.spotify.com/track/6LBaBhUnFywBr4HP6a5RDM) | [curv moon](https://open.spotify.com/artist/5Lv4ukV1IsTbFO3WupJRL4) | [LEGO\(Let's Go\)](https://open.spotify.com/album/7IMiyn6pyeKOX4GXTIk4M8) | 1:53 |
 | 39 | [Bad Girls](https://open.spotify.com/track/2IrmdHJjwBH1pFIMcTJ1xq) | [Lee Hyori](https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5) | [MONOCHROME](https://open.spotify.com/album/7Bhg7EOxBASEzLV3U6DnjK) | 3:27 |
 | 40 | [SOLO DAY](https://open.spotify.com/track/58wbNn4eEsvAqTz4JJxn9L) | [B1A4](https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG) | [SOLO DAY](https://open.spotify.com/album/5bzGBXIqZIiqKJHDTNP8ix) | 3:19 |
 | 41 | [CAVIAR](https://open.spotify.com/track/2aGMvjT2nOUiPM5IcHrCR5) | [CocaNButter](https://open.spotify.com/artist/2S9wwY3J0HrwZHZ6vRPl2q), [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | [Street Woman Fighter\(SWF\) Special](https://open.spotify.com/album/3iW6rZmhiSLNveTOrX26z6) | 2:27 |
 | 42 | [HeartBROKEN PlaYBoY](https://open.spotify.com/track/4zcoVOaN97y4WPUUAtDu0j) | [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS) | [LUCKY MAN](https://open.spotify.com/album/2dY5DQcOw6DiVpmbDNRm5e) | 3:36 |
-| 43 | [Check\-In](https://open.spotify.com/track/6W6UgkbWs1O5MCdt4M9aP5) | [ソヌ・ジョンア](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Seoul Check\-in OST Part 6](https://open.spotify.com/album/6fma7QBBD2qxShJv2jKPcy) | 3:11 |
-| 44 | [20MIN](https://open.spotify.com/track/1Wl9MPBkb50b4uevY6sxkA) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [24℃](https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5) | 2:56 |
-| 45 | [FREAK](https://open.spotify.com/track/2oldaTAUfGvTXxPZVwvsyu) | [KimYeji](https://open.spotify.com/artist/3XyqYcDNFPFWbyGn8pFTf9) | [TURNED](https://open.spotify.com/album/2HDaGdvnCgxiyUuOIUtm4u) | 3:19 |
-| 46 | [Do Not Want To Do It](https://open.spotify.com/track/5LhlnraUYxYccDUqnEayri) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [Do Not Want To Do It](https://open.spotify.com/album/1QGkSuxkIqUmnX2r2Vdr95) | 3:52 |
+| 43 | [Do Not Want To Do It](https://open.spotify.com/track/5LhlnraUYxYccDUqnEayri) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [Do Not Want To Do It](https://open.spotify.com/album/1QGkSuxkIqUmnX2r2Vdr95) | 3:52 |
+| 44 | [Check\-In](https://open.spotify.com/track/6W6UgkbWs1O5MCdt4M9aP5) | [ソヌ・ジョンア](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Seoul Check\-in OST Part 6](https://open.spotify.com/album/6fma7QBBD2qxShJv2jKPcy) | 3:11 |
+| 45 | [20MIN](https://open.spotify.com/track/1Wl9MPBkb50b4uevY6sxkA) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [24℃](https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5) | 2:56 |
+| 46 | [FREAK](https://open.spotify.com/track/2oldaTAUfGvTXxPZVwvsyu) | [KimYeji](https://open.spotify.com/artist/3XyqYcDNFPFWbyGn8pFTf9) | [TURNED](https://open.spotify.com/album/2HDaGdvnCgxiyUuOIUtm4u) | 3:19 |
 | 47 | [Fashion Hoarder](https://open.spotify.com/track/74yV7OO9okeK2VROw9k8aq) | [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg), [ZENE THE ZILLA](https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN) | [Fashion Hoarder](https://open.spotify.com/album/54raPqsVO70w92rOVD1plB) | 3:07 |
 | 48 | [GOOD](https://open.spotify.com/track/4erhEGuOGQgjv3p1bccnpn) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W), [ELO](https://open.spotify.com/artist/15KDb2KpZRvX1updtyinK1) | [GOOD](https://open.spotify.com/album/4UlGIso11ixt3WiNUPZ4kT) | 3:00 |
 | 49 | [lazygirl](https://open.spotify.com/track/0esXzdqhlme2yoddwCxFKK) | [Chuther](https://open.spotify.com/artist/3CiocMn9SHnAzKqqPa8mnQ) | [lazygirl](https://open.spotify.com/album/1U3SqPnlfdCLepaAqG9QtQ) | 2:46 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe8cdrgQYJ4n.md) - [plain]
 | 55 | [My Move](https://open.spotify.com/track/5PyfW50o3iKQ1rfvBNIYPC) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18) | [My Move](https://open.spotify.com/album/7fcDWzalNj9GIV3D17DJIH) | 3:40 |
 | 56 | [i](https://open.spotify.com/track/4h9jlv3tO0gm0i1mQ7o6hZ) | [Lee Aram](https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1) | [i](https://open.spotify.com/album/4bXJUWoEn4L5fk0hwE0BPD) | 2:40 |
 | 57 | [Solo \(Feat\. Alex\)](https://open.spotify.com/track/3kVPDzRJKBVeqepc439JtZ) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [Alex](https://open.spotify.com/artist/5QQQPF4hsHCa8LCczzSapo) | [Last Days](https://open.spotify.com/album/68lIkpI3rmCFbjR0FKytTp) | 3:52 |
-| 58 | [So What](https://open.spotify.com/track/3WMD2h62I69xh47NHCBMGG) | [Vincent Blue](https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ) | [So What](https://open.spotify.com/album/5aVi44dgMvYWOUL59ZzBKl) | 3:05 |
-| 59 | [I AM FINE](https://open.spotify.com/track/3B7f8nNtTeZ2KGwnK2Yc9Q) | [Ulala Session](https://open.spotify.com/artist/2EFJSNZzGSfLXMfAaxbK2A) | [I AM FINE](https://open.spotify.com/album/4e29onVlOB70Pr4fsO7yJX) | 2:47 |
+| 58 | [I AM FINE](https://open.spotify.com/track/3B7f8nNtTeZ2KGwnK2Yc9Q) | [Ulala Session](https://open.spotify.com/artist/2EFJSNZzGSfLXMfAaxbK2A) | [I AM FINE](https://open.spotify.com/album/4e29onVlOB70Pr4fsO7yJX) | 2:47 |
+| 59 | [So What](https://open.spotify.com/track/3WMD2h62I69xh47NHCBMGG) | [Vincent Blue](https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ) | [So What](https://open.spotify.com/album/5aVi44dgMvYWOUL59ZzBKl) | 3:05 |
 | 60 | [I’ll just smile](https://open.spotify.com/track/3yQDvoUWr6e3cY5R1dBzzG) | [Arttichoke](https://open.spotify.com/artist/2d50bxrNeeo226v4VaEje9) | [Tang Tang!](https://open.spotify.com/album/0K7e3vLuZqHDkBGrD2KMAF) | 2:30 |
 
-Snapshot ID: `MTY2MDgzMjc3NSwwMDAwMDAwMGViZDMzM2RjOWQyNzE1MTE2ZmQyOGQxYzQyYjA4N2Nm`
+Snapshot ID: `MTY2MDgzMjc3NSwwMDAwMDAwMDZjMzA1Zjg3ZWU3NjdjYzg1M2E4N2UzMzU5OWYyZmY0`

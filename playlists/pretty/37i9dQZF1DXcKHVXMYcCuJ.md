@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKHVXMYcCuJ.md) - [plain]
 
 > Favorite rock and gems.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,464 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,539 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,14 +31,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKHVXMYcCuJ.md) - [plain]
 | 21 | [Neurotic](https://open.spotify.com/track/2xQoftRvm3Uk1V77dcArB3) | [Hundredth](https://open.spotify.com/artist/2rtsR8zno5naTxY0iJr7M0) | [RARE](https://open.spotify.com/album/7cO0T3BJ6xAkv0BX3TXFAp) | 3:37 |
 | 22 | [Berlin Chair](https://open.spotify.com/track/1fhLBWJ39ihyjEqgPiUf6B) | [You Am I](https://open.spotify.com/artist/7GvCdRq4iHNQDsGlPWOycw) | [Sound As Ever](https://open.spotify.com/album/2azj62n7MH5r8ikwa0c6ay) | 2:34 |
 | 23 | [Control](https://open.spotify.com/track/0ILT475efW2vVY5pxvCj0m) | [Tigercub](https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw) | [Abstract Figures in the Dark](https://open.spotify.com/album/4Wv5cp4Y9zk9ebuXOIGcpe) | 4:06 |
-| 24 | [Shed](https://open.spotify.com/track/1csPfS6y1zVsZx7SbXJDXJ) | [Title Fight](https://open.spotify.com/artist/2CnhqfjUG0qzsru0SMuhrk) | [Shed](https://open.spotify.com/album/1vA4pfmBUT9ei4Ukq8uTx1) | 2:16 |
-| 25 | [Baby Shea](https://open.spotify.com/track/1rfPkAinCwapsCXV5KTTGq) | [Ovlov](https://open.spotify.com/artist/2Iy7tZpp5qQudlg5cbcgH8) | [Buds](https://open.spotify.com/album/3aPtrtMapoYJdzVa7Jkc3M) | 1:37 |
+| 24 | [Baby Shea](https://open.spotify.com/track/1rfPkAinCwapsCXV5KTTGq) | [Ovlov](https://open.spotify.com/artist/2Iy7tZpp5qQudlg5cbcgH8) | [Buds](https://open.spotify.com/album/3aPtrtMapoYJdzVa7Jkc3M) | 1:37 |
+| 25 | [Shed](https://open.spotify.com/track/1csPfS6y1zVsZx7SbXJDXJ) | [Title Fight](https://open.spotify.com/artist/2CnhqfjUG0qzsru0SMuhrk) | [Shed](https://open.spotify.com/album/1vA4pfmBUT9ei4Ukq8uTx1) | 2:16 |
 | 26 | [Cool in Motion](https://open.spotify.com/track/21yuHrj83KWSLRsCvDN7Ul) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Satisfaction](https://open.spotify.com/album/0m3hGU2BkS3t3zBdavqmNg) | 3:05 |
 | 27 | [Weed Pin](https://open.spotify.com/track/2waOg6GgfdfqMgbdK2qsQk) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Cheer](https://open.spotify.com/album/2pQ3HNNkj7o2RJTguqfqO2) | 4:42 |
 | 28 | [Snake Oil](https://open.spotify.com/track/7mDibyukIVdLYFJPLJxf0u) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [What Went Down](https://open.spotify.com/album/0RyCpIKlCV0kgEuzrmp73O) | 4:21 |
 | 29 | [June](https://open.spotify.com/track/4ztx0lpE5Vx3yg7FereOtS) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [spin](https://open.spotify.com/album/2xSppFiPUTWqZ9cdF6CQnY) | 3:23 |
-| 30 | [The War](https://open.spotify.com/track/6cz4r94FQEZMy7dC5wtL1E) | [Angels & Airwaves](https://open.spotify.com/artist/7xklw3WodFZiNNmQt3DIgp) | [We Don't Need To Whisper](https://open.spotify.com/album/55drvPTRV1FgJkuaztyS5X) | 5:07 |
-| 31 | [Come Down](https://open.spotify.com/track/6aoslVx9b2J5tbYvbp3TbD) | [Gleemer](https://open.spotify.com/artist/4UjrcYERvCDC44O0uBSOFa) | [Anymore](https://open.spotify.com/album/1MtHTmOWEN7bpDj8sgCmHt) | 3:15 |
+| 30 | [Come Down](https://open.spotify.com/track/6aoslVx9b2J5tbYvbp3TbD) | [Gleemer](https://open.spotify.com/artist/4UjrcYERvCDC44O0uBSOFa) | [Anymore](https://open.spotify.com/album/1MtHTmOWEN7bpDj8sgCmHt) | 3:15 |
+| 31 | [The War](https://open.spotify.com/track/6cz4r94FQEZMy7dC5wtL1E) | [Angels & Airwaves](https://open.spotify.com/artist/7xklw3WodFZiNNmQt3DIgp) | [We Don't Need To Whisper](https://open.spotify.com/album/55drvPTRV1FgJkuaztyS5X) | 5:07 |
 | 32 | [The Stone](https://open.spotify.com/track/2TM6fTuwo1ZjMfvFfcFVDA) | [ASHES dIVIDE](https://open.spotify.com/artist/7cNHQN4eCc7nud8htPxHBy) | [Keep Telling Myself It's Alright](https://open.spotify.com/album/1eEdZy4kjI5kZCDPLl9gFH) | 3:49 |
 | 33 | [Neon Brother](https://open.spotify.com/track/3onvqHzdPZXZrPo5GfLqGE) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Nothing But Thieves \(Deluxe\)](https://open.spotify.com/album/3q4BkDV5B7sczFcfrIl2a2) | 3:55 |
 | 34 | [Holy](https://open.spotify.com/track/2irFDtyw34II0pdCWIOBaN) | [Frightened Rabbit](https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr) | [Pedestrian Verse](https://open.spotify.com/album/63F9BBf5YCiPQrpndWA50x) | 3:39 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKHVXMYcCuJ.md) - [plain]
 | 36 | [Snail \- Remastered 2011](https://open.spotify.com/track/1Y67fOHM7hb04jj6FLBWDQ) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Gish \(Deluxe Edition\)](https://open.spotify.com/album/14gI3ml0wxlgVrX1ve8zyJ) | 5:08 |
 | 37 | [Body Language](https://open.spotify.com/track/2CzfhFkxJZjdr6kNRUw8IM) | [Balance And Composure](https://open.spotify.com/artist/2fgl3me4n9diODTrVfruF3) | [Slow Heart](https://open.spotify.com/album/7K7AuoZ1mMIaPiDZSvhCsU) | 4:09 |
 | 38 | [Dogwalk](https://open.spotify.com/track/669JWthnxk4uSsnnDhEnu8) | [Pity Sex](https://open.spotify.com/artist/7zYojeiCfuseHGA4IJ8qSk) | [Dark World](https://open.spotify.com/album/1KYhQv6jxV95Pwpv57vj1S) | 4:42 |
-| 39 | [The Pod](https://open.spotify.com/track/5eGfO6X1Vvpgb5LFaL5rLF) | [Hum](https://open.spotify.com/artist/6sM2JCBjZprP7JLMTZZSxX) | [You'd Prefer An Astronaut](https://open.spotify.com/album/2qx0YtBEDcbpclLlqzRi2o) | 4:37 |
-| 40 | [Tune in, Drop Out](https://open.spotify.com/track/7z6SewNpOG8GI85z5GbxaB) | [Beach Riot](https://open.spotify.com/artist/55bBJNuY224tmQf4odUqXV) | [Tune in, Drop Out](https://open.spotify.com/album/3BmgXTaQ92JQCrlPu6pMxX) | 2:50 |
+| 39 | [Tune in, Drop Out](https://open.spotify.com/track/7z6SewNpOG8GI85z5GbxaB) | [Beach Riot](https://open.spotify.com/artist/55bBJNuY224tmQf4odUqXV) | [Tune in, Drop Out](https://open.spotify.com/album/3BmgXTaQ92JQCrlPu6pMxX) | 2:50 |
+| 40 | [The Pod](https://open.spotify.com/track/5eGfO6X1Vvpgb5LFaL5rLF) | [Hum](https://open.spotify.com/artist/6sM2JCBjZprP7JLMTZZSxX) | [You'd Prefer An Astronaut](https://open.spotify.com/album/2qx0YtBEDcbpclLlqzRi2o) | 4:37 |
 | 41 | [Heartbeat in the Brain](https://open.spotify.com/track/6rCQnAXP0UKEGKPZF8u5iL) | [The World Is A Beautiful Place & I Am No Longer Afraid To Die](https://open.spotify.com/artist/5bCNJ1ICzdnzK0yoCIP2Ip) | [Whenever, If Ever](https://open.spotify.com/album/40C7bBDW77dS5BBbNzcdmm) | 5:41 |
 | 42 | [Something Right](https://open.spotify.com/track/1QdijT3d4feqhc39m9Wm6a) | [Microwave](https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD) | [Stovall](https://open.spotify.com/album/5UE6N0IU0pfG18urYs44Wp) | 3:21 |
 | 43 | [Something Better](https://open.spotify.com/track/49p2lVw2SIn1cCfjaBptQo) | [Canterbury](https://open.spotify.com/artist/2xnkhppPrflQ02TWRtIthQ) | [Heavy in the Day](https://open.spotify.com/album/281202APzTHOf2hs6RFcmr) | 3:30 |
@@ -84,23 +84,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKHVXMYcCuJ.md) - [plain]
 | 74 | [Moving Out](https://open.spotify.com/track/6weN1MT4nIA3CYt2oO0mk4) | [West Thebarton](https://open.spotify.com/artist/6ZQNx5JnPy6CmVur8jRPrv) | [Different Beings Being Different](https://open.spotify.com/album/6c66rOTBmzqYLdmE1suvBd) | 2:52 |
 | 75 | [Long Way Down](https://open.spotify.com/track/0brsE4TsZc6yyj9BVnrYpm) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Celebrity Mansions](https://open.spotify.com/album/3sWXuwJFtO7LkD4FPrJSFu) | 4:33 |
 | 76 | [Used For Glue](https://open.spotify.com/track/766xo3dFJmkqc9a4tPSlBH) | [Rival Schools](https://open.spotify.com/artist/558fch9H4BrW99aTfvtYrz) | [United By Fate](https://open.spotify.com/album/37TcohvwaAgxmhgqtf7rxC) | 3:18 |
-| 77 | [Always](https://open.spotify.com/track/7ARF5nMaEIwAvGNoY5V5DT) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Open Book](https://open.spotify.com/album/3QtRa1ioVt6XegDsxMK8MH) | 3:11 |
-| 78 | [Questions and Answers](https://open.spotify.com/track/6acLYdlH82V0GczGpIVuvi) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [The Vertigo of Bliss](https://open.spotify.com/album/5gFvzz68wze0kCwbkIwWeW) | 4:02 |
+| 77 | [Questions and Answers](https://open.spotify.com/track/6acLYdlH82V0GczGpIVuvi) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [The Vertigo of Bliss](https://open.spotify.com/album/5gFvzz68wze0kCwbkIwWeW) | 4:02 |
+| 78 | [Always](https://open.spotify.com/track/7ARF5nMaEIwAvGNoY5V5DT) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Open Book](https://open.spotify.com/album/3QtRa1ioVt6XegDsxMK8MH) | 3:11 |
 | 79 | [Pushing The Senses](https://open.spotify.com/track/5KLTqUuLMQzTFmUydRh1Ud) | [Feeder](https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR) | [Pushing the Senses](https://open.spotify.com/album/2Vd4HdtGhozi5Ky7gzSqNC) | 3:27 |
 | 80 | [Cosmonauts](https://open.spotify.com/track/0IAF0KIM3Cnp7WhOVJfFuS) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Interiors](https://open.spotify.com/album/0kqHdaOSkbZePBPZPvIcqW) | 4:08 |
 | 81 | [Unreal Is Here](https://open.spotify.com/track/2cD2UxUf2DyO0Uu4WAH07a) | [Chavez](https://open.spotify.com/artist/0GXsDnyvpjRO46Cgv3w5KS) | [Ride The Fader](https://open.spotify.com/album/6TVssOdPDvNa1wtIUZyab2) | 2:31 |
 | 82 | [Driving Nowhere](https://open.spotify.com/track/1AUpcok7lM4KriGjzur4O3) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Aftertaste](https://open.spotify.com/album/1JdPCcQirTIcxXIDIQZtUQ) | 4:19 |
 | 83 | [Narrow Mouth](https://open.spotify.com/track/2iyoZuHyuaaBGmLbl6eIEY) | [The Early November](https://open.spotify.com/artist/2rxtSTPBJawYhQAXIpgEAi) | [Imbue](https://open.spotify.com/album/6NnNzBbQKK59S2x6KJzQjI) | 4:30 |
-| 84 | [Grey Flap](https://open.spotify.com/track/2sNc1BGA2hqnGLHLNfRHQO) | [Pist.On](https://open.spotify.com/artist/7i5SNZSnLm9J4QImRyS3Pr) | [Number One](https://open.spotify.com/album/1ebPLIDXDzTqLlRlizuZ8Z) | 3:57 |
-| 85 | [Be Your Man](https://open.spotify.com/track/4OE8lJeG82iSDhHo3reh1N) | [Demob Happy](https://open.spotify.com/artist/6FKokxvL5PCWIxrVhMyDgI) | [Be Your Man](https://open.spotify.com/album/7vuZMf0cXrAKVVXAz6Gaq1) | 3:37 |
+| 84 | [Be Your Man](https://open.spotify.com/track/4OE8lJeG82iSDhHo3reh1N) | [Demob Happy](https://open.spotify.com/artist/6FKokxvL5PCWIxrVhMyDgI) | [Be Your Man](https://open.spotify.com/album/7vuZMf0cXrAKVVXAz6Gaq1) | 3:37 |
+| 85 | [Grey Flap](https://open.spotify.com/track/2sNc1BGA2hqnGLHLNfRHQO) | [Pist.On](https://open.spotify.com/artist/7i5SNZSnLm9J4QImRyS3Pr) | [Number One](https://open.spotify.com/album/1ebPLIDXDzTqLlRlizuZ8Z) | 3:57 |
 | 86 | [Swallow](https://open.spotify.com/track/5zodPVnHmq8hOERLIDBmpC) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Chrome Neon Jesus](https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw) | 3:50 |
 | 87 | [Smokescreen](https://open.spotify.com/track/0uZPyOmjILhz4FGREgec6j) | [Amusement Parks On Fire](https://open.spotify.com/artist/6l2cddhlFnBmaLiUM4TyTx) | [Amusement Parks On Fire](https://open.spotify.com/album/0RDF4hnIcT0xwpQhN15VP0) | 4:11 |
 | 88 | [The Hey Man!](https://open.spotify.com/track/2L3nP5MydvAh79nFo38eLd) | [Emanuel](https://open.spotify.com/artist/4uv4EEYdWrejczjqB8GGUO) | [Soundtrack to a Headrush](https://open.spotify.com/album/0KQXjbh2Yh3pfoGpHrXyml) | 3:48 |
 | 89 | [Vacation Forever](https://open.spotify.com/track/0MkH3VaXZB98jWQ5JnDeu9) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Everything Is A\-OK](https://open.spotify.com/album/4IayAjHP3LfFZZ79jetguT) | 4:28 |
 | 90 | [Medicine](https://open.spotify.com/track/704NoIIW2Jo98WFUViSqk1) | [The Pale White](https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0) | [Medicine](https://open.spotify.com/album/6ueu2LGKB7iuUZ6Gyz44CX) | 4:07 |
 | 91 | [Honky's Ladder](https://open.spotify.com/track/0IndpEG2dVS0rZS5xsLNXe) | [The Afghan Whigs](https://open.spotify.com/artist/7IDrRpDz0cOuUVC32c8PKD) | [Black Love](https://open.spotify.com/album/2Plr11K7q3joEjDFSAOqvO) | 4:16 |
-| 92 | [Trans Am Sunday](https://open.spotify.com/track/72pKKGbVrb8tk0jpf1OCsF) | [Hobosexual](https://open.spotify.com/artist/2iR3PsmigYfqj8EdkIwsJK) | [Monolith](https://open.spotify.com/album/4HQRSjBvCGeyKlxfVl5XyS) | 5:53 |
-| 93 | [Catalyst \- Remastered](https://open.spotify.com/track/5SCCzPzozC2v2wqHev6M0M) | [Oceansize](https://open.spotify.com/artist/0Opj9xi9HHrH0L9uHAKnKm) | [Effloresce](https://open.spotify.com/album/6yY6v4JnwTQGo5w9IZqTRu) | 6:40 |
+| 92 | [Catalyst \- Remastered](https://open.spotify.com/track/5SCCzPzozC2v2wqHev6M0M) | [Oceansize](https://open.spotify.com/artist/0Opj9xi9HHrH0L9uHAKnKm) | [Effloresce](https://open.spotify.com/album/6yY6v4JnwTQGo5w9IZqTRu) | 6:40 |
+| 93 | [Trans Am Sunday](https://open.spotify.com/track/72pKKGbVrb8tk0jpf1OCsF) | [Hobosexual](https://open.spotify.com/artist/2iR3PsmigYfqj8EdkIwsJK) | [Monolith](https://open.spotify.com/album/4HQRSjBvCGeyKlxfVl5XyS) | 5:53 |
 | 94 | [Hunstanton Pier](https://open.spotify.com/track/2y0rF0qJm5dHpdQbmufS0Q) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [Fools and Worthless Liars \(Deluxe Edition\)](https://open.spotify.com/album/6hwf5oAm91GFtMGnuJ3l4I) | 4:49 |
 | 95 | [Kettling](https://open.spotify.com/track/2LSE4990srPxQHyPhMOL3w) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Four](https://open.spotify.com/album/24mE0f0UXWd9YEpmKC3JtJ) | 3:41 |
 | 96 | [Needles](https://open.spotify.com/track/6try2MFpWKn55HnMNS7vZz) | [Handsome](https://open.spotify.com/artist/3HAILRXvRhFoBrlYv8be3V) | [Handsome](https://open.spotify.com/album/4Erk4K1hOnmQbfamo4xgid) | 3:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKHVXMYcCuJ.md) - [plain]
 | 99 | [Trick of the Light](https://open.spotify.com/track/5XT1xMhjkezsYacZ6nwhGm) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Day's War \(Victory Edition\)](https://open.spotify.com/album/4Wj1eRz1I5uHtDpTOmuDCh) | 3:38 |
 | 100 | [Bloodsports](https://open.spotify.com/track/2zn3hrsi0nrTe42JJxMgC8) | [Drenge](https://open.spotify.com/artist/1bqX4oZFTWIQFk90AwKfnC) | [Drenge](https://open.spotify.com/album/0Wrn6T6l8C2zPtnuOUQtmB) | 2:32 |
 
-Snapshot ID: `MTY1NTk5NjAyNCwwMDAwMDAwMDc5MjdlMjdjZGE5MDllNjVhZTdhN2Q0NDYxOGMwZGZk`
+Snapshot ID: `MTY1NTk5NjAyNCwwMDAwMDAwMDQ4ZDI4MjE4Y2MwYzJhNTQ4OWNlZTJiNzVlZjIyZWYw`

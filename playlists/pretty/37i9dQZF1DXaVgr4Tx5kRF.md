@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaVgr4Tx5kRF.md) - [plain]
 
 > The songs that defined a golden era of British indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 557,347 likes - 65 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 557,510 likes - 65 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,25 +53,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaVgr4Tx5kRF.md) - [plain]
 | 43 | [Brimful Of Asha \- Norman Cook Remix Single Version](https://open.spotify.com/track/6gbdLLUhocAjThL3GvV6Lx) | [Cornershop](https://open.spotify.com/artist/3Kf7VEIRWquxrNIuyJZnfF) | [The Greatest Hits: Why Try Harder](https://open.spotify.com/album/6GSF3YIop0uuOUkSx8n9QJ) | 4:00 |
 | 44 | [Ready to Go](https://open.spotify.com/track/2bEbTqj36jmuwMhvvCRC2y) | [Republica](https://open.spotify.com/artist/06YQ6XwCdPUn8rAXV70gge) | [Ready To Go](https://open.spotify.com/album/2lxv4za6tEk3J8vN73NWHp) | 5:01 |
 | 45 | [Going For Gold](https://open.spotify.com/track/5TBXjIlpKHlVrUVwlpY5e5) | [Shed Seven](https://open.spotify.com/artist/3iejrAcqxYoVgyxp6zkWgs) | [Going For Gold](https://open.spotify.com/album/4LtKB45GXvEsbZV9tKEEn3) | 4:25 |
-| 46 | [All You Good Good People](https://open.spotify.com/track/72TPbqNS18yOlXa5USPSSo) | [Embrace](https://open.spotify.com/artist/74K7bX12L8GBAWvPuyIgJ7) | [The Good Will Out](https://open.spotify.com/album/3eNC1W7Y3mkEVA10eTojFK) | 6:06 |
-| 47 | [Richard III](https://open.spotify.com/track/3p0rnbnQc8WPJjcMyUsglj) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [In It For The Money](https://open.spotify.com/album/67qnhGyaN6Z0PYJMEePzjW) | 3:12 |
+| 46 | [Richard III](https://open.spotify.com/track/3p0rnbnQc8WPJjcMyUsglj) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [In It For The Money](https://open.spotify.com/album/67qnhGyaN6Z0PYJMEePzjW) | 3:12 |
+| 47 | [All You Good Good People](https://open.spotify.com/track/72TPbqNS18yOlXa5USPSSo) | [Embrace](https://open.spotify.com/artist/74K7bX12L8GBAWvPuyIgJ7) | [The Good Will Out](https://open.spotify.com/album/3eNC1W7Y3mkEVA10eTojFK) | 6:06 |
 | 48 | [She Said](https://open.spotify.com/track/5J7l2wE9wxqod7xIP0jyAB) | [Longpigs](https://open.spotify.com/artist/1o7zIbVAgDDHKijLVuLASg) | [The Sun Is Often Out](https://open.spotify.com/album/1QQKv2Y9uONbj8Dw6GUMB6) | 4:24 |
 | 49 | [The Life Of Riley](https://open.spotify.com/track/6uAoFqSLH9UjCPn4yo4HMh) | [The Lightning Seeds](https://open.spotify.com/artist/67YNiSqhrx1P8oPvIIvbP5) | [Life Of Riley \- The Lightning Seeds Collection](https://open.spotify.com/album/0akFniXaXu6PZb8o7VUGZd) | 4:04 |
 | 50 | [Rocks](https://open.spotify.com/track/2MjYMvn7PlS4HAE1EtP7BJ) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Give Out But Don't Give Up](https://open.spotify.com/album/51wKnaqc8kVTPeR99dpXg8) | 3:37 |
 | 51 | [Kinky Afro \- 2007 Remaster](https://open.spotify.com/track/3OSJIs8o7v3reK5DHJrG48) | [Happy Mondays](https://open.spotify.com/artist/339DNkQkuhHKEcHw6oK8f0) | [Pills 'N' Thrills And Bellyaches \(Collector's Edition\)](https://open.spotify.com/album/2Qo9lJydzuAmcBUjGOvrMQ) | 3:59 |
-| 52 | [Come Back To What You Know](https://open.spotify.com/track/2BjvbCwtueWDGi0QKgT3yy) | [Embrace](https://open.spotify.com/artist/74K7bX12L8GBAWvPuyIgJ7) | [The Good Will Out](https://open.spotify.com/album/3eNC1W7Y3mkEVA10eTojFK) | 4:10 |
-| 53 | [Inbetweener](https://open.spotify.com/track/4GoqaAdOZqS1lyYODRwxlO) | [Sleeper](https://open.spotify.com/artist/0NbfEPYRgMczimdfM3skmH) | [Smart](https://open.spotify.com/album/4b6QlQpazyHULH2nmJTPcT) | 3:19 |
-| 54 | [Beautiful Ones](https://open.spotify.com/track/7lYkggWrQNo4tsGpY4yOOG) | [The London Suede](https://open.spotify.com/artist/6GuRYj1MEnu1WZhDA2Xy0t) | [Coming up \- 20th Anniversary Edition \(Audio Version\)](https://open.spotify.com/album/3YBbEumtx9naxbCQWoeu41) | 3:50 |
-| 55 | [This Is How It Feels \- Radio Mix](https://open.spotify.com/track/0LEiOVuG6xjdsjhVNTavfb) | [Inspiral Carpets](https://open.spotify.com/artist/66GWpx9iLxrvvfhDsG9STP) | [This Is How It Feels](https://open.spotify.com/album/3ucH3ja1FUFk9sNwp4DP54) | 3:14 |
-| 56 | [Crystal](https://open.spotify.com/track/2M4PVaTJGjXV91X8HAVQEx) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Get Ready](https://open.spotify.com/album/6V0NOI7IaZDO9mBvHNc1jt) | 6:50 |
-| 57 | [Tattva](https://open.spotify.com/track/4i29BhzyX52me3XNatwkWe) | [Kula Shaker](https://open.spotify.com/artist/6bGcpvHbRHg8s0wiNyIZK1) | [Kollected \- The Best Of Kula Shaker](https://open.spotify.com/album/6TTUtIFLwkgKJGrjoAbq8q) | 3:44 |
+| 52 | [Inbetweener](https://open.spotify.com/track/4GoqaAdOZqS1lyYODRwxlO) | [Sleeper](https://open.spotify.com/artist/0NbfEPYRgMczimdfM3skmH) | [Smart](https://open.spotify.com/album/4b6QlQpazyHULH2nmJTPcT) | 3:19 |
+| 53 | [Beautiful Ones](https://open.spotify.com/track/7lYkggWrQNo4tsGpY4yOOG) | [The London Suede](https://open.spotify.com/artist/6GuRYj1MEnu1WZhDA2Xy0t) | [Coming up \- 20th Anniversary Edition \(Audio Version\)](https://open.spotify.com/album/3YBbEumtx9naxbCQWoeu41) | 3:50 |
+| 54 | [This Is How It Feels \- Radio Mix](https://open.spotify.com/track/0LEiOVuG6xjdsjhVNTavfb) | [Inspiral Carpets](https://open.spotify.com/artist/66GWpx9iLxrvvfhDsG9STP) | [This Is How It Feels](https://open.spotify.com/album/3ucH3ja1FUFk9sNwp4DP54) | 3:14 |
+| 55 | [Crystal](https://open.spotify.com/track/2M4PVaTJGjXV91X8HAVQEx) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Get Ready](https://open.spotify.com/album/6V0NOI7IaZDO9mBvHNc1jt) | 6:50 |
+| 56 | [Tattva](https://open.spotify.com/track/4i29BhzyX52me3XNatwkWe) | [Kula Shaker](https://open.spotify.com/artist/6bGcpvHbRHg8s0wiNyIZK1) | [Kollected \- The Best Of Kula Shaker](https://open.spotify.com/album/6TTUtIFLwkgKJGrjoAbq8q) | 3:44 |
+| 57 | [Come Back To What You Know](https://open.spotify.com/track/2BjvbCwtueWDGi0QKgT3yy) | [Embrace](https://open.spotify.com/artist/74K7bX12L8GBAWvPuyIgJ7) | [The Good Will Out](https://open.spotify.com/album/3eNC1W7Y3mkEVA10eTojFK) | 4:10 |
 | 58 | [Loaded](https://open.spotify.com/track/7dSBZzVmyBaLDxT2v3EJHB) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Screamadelica](https://open.spotify.com/album/4TECsw2dFHZ1ULrT7OA3OL) | 7:02 |
 | 59 | [The Day We Caught The Train](https://open.spotify.com/track/4oPF43XotiOin8UroIsE0t) | [Ocean Colour Scene](https://open.spotify.com/artist/5vIOGcdmx1eIkq3ZtuS12U) | [Moseley Shoals](https://open.spotify.com/album/2z6VxH2NdkmxYpTygmlI0W) | 3:06 |
-| 60 | [Trash](https://open.spotify.com/track/4QJgpPPICeOLx2u1P3C53D) | [The London Suede](https://open.spotify.com/artist/6GuRYj1MEnu1WZhDA2Xy0t) | [Coming up \- 20th Anniversary Edition \(Audio Version\)](https://open.spotify.com/album/3YBbEumtx9naxbCQWoeu41) | 4:05 |
-| 61 | [I Want to Be There \- When You Come](https://open.spotify.com/track/471Zj8j2ioowDrIhOzaZdy) | [Echo & the Bunnymen](https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z) | [Evergreen \(Expanded\)](https://open.spotify.com/album/7ynWqEk1YxxZ2TYf1v6imE) | 3:38 |
-| 62 | [You Stole The Sun From My Heart](https://open.spotify.com/track/2couS7LmXsbTaTJWVzk1KS) | [Manic Street Preachers](https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX) | [This Is My Truth Tell Me Yours](https://open.spotify.com/album/7CCkQQvhSAUjuzLQAV8S5a) | 4:20 |
-| 63 | [Slight Return](https://open.spotify.com/track/6Pmr3g62IviFy4sBVII5Jp) | [The Bluetones](https://open.spotify.com/artist/66nOkPJTFgK25NMmojG04V) | [The Singles](https://open.spotify.com/album/3R9Lp4s38Y9pMfcwG9YP27) | 3:19 |
+| 60 | [I Want to Be There \- When You Come](https://open.spotify.com/track/471Zj8j2ioowDrIhOzaZdy) | [Echo & the Bunnymen](https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z) | [Evergreen \(Expanded\)](https://open.spotify.com/album/7ynWqEk1YxxZ2TYf1v6imE) | 3:38 |
+| 61 | [You Stole The Sun From My Heart](https://open.spotify.com/track/2couS7LmXsbTaTJWVzk1KS) | [Manic Street Preachers](https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX) | [This Is My Truth Tell Me Yours](https://open.spotify.com/album/7CCkQQvhSAUjuzLQAV8S5a) | 4:20 |
+| 62 | [Slight Return](https://open.spotify.com/track/6Pmr3g62IviFy4sBVII5Jp) | [The Bluetones](https://open.spotify.com/artist/66nOkPJTFgK25NMmojG04V) | [The Singles](https://open.spotify.com/album/3R9Lp4s38Y9pMfcwG9YP27) | 3:19 |
+| 63 | [Trash](https://open.spotify.com/track/4QJgpPPICeOLx2u1P3C53D) | [The London Suede](https://open.spotify.com/artist/6GuRYj1MEnu1WZhDA2Xy0t) | [Coming up \- 20th Anniversary Edition \(Audio Version\)](https://open.spotify.com/album/3YBbEumtx9naxbCQWoeu41) | 4:05 |
 | 64 | [One To Another](https://open.spotify.com/track/0svfKznUXTbPhqGi2v9uDc) | [The Charlatans](https://open.spotify.com/artist/5fScAXreYFnuqwOgBsJgSd) | [Tellin' Stories](https://open.spotify.com/album/2JcSP59a6uz4xrtfF5ysgv) | 4:29 |
 | 65 | [The Riverboat Song](https://open.spotify.com/track/29cKAB63SRhL2GZdMHmQON) | [Ocean Colour Scene](https://open.spotify.com/artist/5vIOGcdmx1eIkq3ZtuS12U) | [Moseley Shoals](https://open.spotify.com/album/2z6VxH2NdkmxYpTygmlI0W) | 4:52 |
 
-Snapshot ID: `MTY1MTY4NDMwOSwwMDAwMDAwMDRhYWVjMGQwOGU5OTcwNjdiYWM3YWQzOTFmNTMyMTI5`
+Snapshot ID: `MTY1MTY4NDMwOSwwMDAwMDAwMDE2ZDhkZTVjYTJkM2NlMjkzMzU3NzE5NTM1OTNjYjY3`

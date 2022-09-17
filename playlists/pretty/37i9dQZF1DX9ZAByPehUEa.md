@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 
 > A happy place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,902 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,964 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 | 15 | [Out The Fire \(At The Hotel\) \- Radio Edit](https://open.spotify.com/track/1xZOYV0Z6i7z0nAnyL1zmT) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl), [Ros T](https://open.spotify.com/artist/4sG0aI4xrubRmrdWBIn4RO), [Eunice Collins](https://open.spotify.com/artist/0gr9XCDIeAGLE77V58XLyN) | [Out The Fire \(At The Hotel\)](https://open.spotify.com/album/7n456SX833Pv7NyjcZoLis) | 3:34 |
 | 16 | [Techno Disco Tool \- Radio Edit](https://open.spotify.com/track/3qqEFTIFcZuWJYBtshrxca) | [Mella Dee](https://open.spotify.com/artist/2iT8KIetokMHRjhj8dJuNn) | [Techno Disco Tool \(Radio Edit\)](https://open.spotify.com/album/5yadKU4m0Q0AIKxbN9qQIq) | 3:14 |
 | 17 | [Better Day \(feat\. Nile Rodgers & Josh Barry\)](https://open.spotify.com/track/3PdLMTut7spFf9leWqBrjK) | [Wh0](https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [Josh Barry](https://open.spotify.com/artist/6oruQTIjrgFYzOSKhp7Kt6) | [Better Day \(feat\. Nile Rodgers & Josh Barry\)](https://open.spotify.com/album/67B57RL961NRFHyce5dYEK) | 2:29 |
-| 18 | [Like A Fool](https://open.spotify.com/track/5wTv501Kl9wLABLwHo11RJ) | [Crazy P](https://open.spotify.com/artist/6jOz2B9qeID4dLP1o8bFGf) | [Walk Dance Talk Sing](https://open.spotify.com/album/2xHHmfzza35KfhlgOOc3y4) | 5:05 |
-| 19 | [Let Me Love U](https://open.spotify.com/track/0GXeIYIvVgQIwAZ70Udnxb) | [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [Let Me Love U](https://open.spotify.com/album/2IvjJ52cELQb89dchfEG7p) | 3:09 |
+| 18 | [Let Me Love U](https://open.spotify.com/track/0GXeIYIvVgQIwAZ70Udnxb) | [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [Let Me Love U](https://open.spotify.com/album/2IvjJ52cELQb89dchfEG7p) | 3:09 |
+| 19 | [Like A Fool](https://open.spotify.com/track/5wTv501Kl9wLABLwHo11RJ) | [Crazy P](https://open.spotify.com/artist/6jOz2B9qeID4dLP1o8bFGf) | [Walk Dance Talk Sing](https://open.spotify.com/album/2xHHmfzza35KfhlgOOc3y4) | 5:05 |
 | 20 | [Surrender \(feat\. PRICIE\)](https://open.spotify.com/track/6seDjSbkqKkOUsHjhhHMJw) | [Tseba](https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf), [PRICIE](https://open.spotify.com/artist/74qq2TFVWRaySx8MVjKelJ) | [Surrender \(feat\. PRICIE\)](https://open.spotify.com/album/37hBfo5a5MO72OgX37K3KC) | 3:57 |
 | 21 | [Street Dancer \- Sgt Slick's Discotizer 2022 Remix](https://open.spotify.com/track/5DLEOfuHbW3S6YXNKUX8h8) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Sgt Slick](https://open.spotify.com/artist/64rqoVt9ShRtUCU0bPKQll) | [Street Dancer \(Sgt Slick's Discotizer 2022 Remix\)](https://open.spotify.com/album/2fhQ63mzH0H68B0xpIbLqC) | 2:53 |
 | 22 | [Infinity](https://open.spotify.com/track/1pfhurHQnm3xRFYjiNUIWK) | [SHEE](https://open.spotify.com/artist/1jrRLqDsOOKIagQXYPq2Iv) | [Infinity](https://open.spotify.com/album/6fK2iNnPSjak23iOthPngs) | 6:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 | 49 | [Sometimes The Going Gets A Little Tough \- Mella Dee Going Got A Bit Tougher Mix](https://open.spotify.com/track/0sseNUohdOMxlKtLHGxNH1) | [Finn](https://open.spotify.com/artist/4p8fvQcLMWToTpmezUb8T5), [Mella Dee](https://open.spotify.com/artist/2iT8KIetokMHRjhj8dJuNn) | [Sometimes The Going Gets A Little Tough](https://open.spotify.com/album/7hk8GE39ew5hvnrPPlhng9) | 5:39 |
 | 50 | [Money Money](https://open.spotify.com/track/5Y1hXyy0XdX8R3sY3FAR3q) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Pink Flamingo Rhythm Revue](https://open.spotify.com/artist/6Mm5YKoIXU6lHig5U82KFp) | [Exotica](https://open.spotify.com/album/4LIWp0dSuFmtNJrxdegyOG) | 3:30 |
 
-Snapshot ID: `MTY2MjEyNDI4MiwwMDAwMDAwMDA2NmMwNmNiMTJmNWM0NmJjODVjY2MyZmFmY2YzZGVi`
+Snapshot ID: `MTY2MjEyNDI4MiwwMDAwMDAwMGYyZGI3NDViZDU0MjJiMDg4YWYxNjYwOTNhNmE4NzFk`

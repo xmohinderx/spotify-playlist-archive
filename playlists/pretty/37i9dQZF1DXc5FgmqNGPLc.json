@@ -1,13 +1,29 @@
 {
   "description": "All live, all jazz. Cover: Erroll Garner",
-  "num_followers": 3294,
+  "num_followers": 3298,
   "original_name": "Jazz Live & Loud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3NjkyMCwwMDAwMDAwMDk2YzNkNzc4ZGE5ZGFjNDJlYjZhY2ZmZjM1NmNlNGE4",
+  "snapshot_id": "MTY2MzMwMDg2MCwwMDAwMDAwMDViZGVlNzliNzIwYWM0MTc3YmMwNzBiODFmYWI0MDVh",
   "tracks": [
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "John Patitucci Trio: Live in Italy",
+        "url": "https://open.spotify.com/album/3pxAc3Z4c4RX3y24cHJuA7"
+      },
+      "artists": [
+        {
+          "name": "John Patitucci",
+          "url": "https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH"
+        }
+      ],
+      "duration_ms": 850557,
+      "name": "Mali (Live)",
+      "url": "https://open.spotify.com/track/7xgveO0ftVy4VcKt6gCGBu"
+    },
     {
       "added_at": "2022-08-12 04:02:00",
       "album": {
@@ -83,6 +99,22 @@
       "duration_ms": 518093,
       "name": "Sierre - Live",
       "url": "https://open.spotify.com/track/0na21NgHCDoPzS5Mjl9gMz"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "Money Jungle (Live)",
+        "url": "https://open.spotify.com/album/48IZ2dCDjfGQ3jdg4jfCjO"
+      },
+      "artists": [
+        {
+          "name": "\u6851\u539f\u3042\u3044",
+          "url": "https://open.spotify.com/artist/6ATrUDyyYVTcuJPnlafenR"
+        }
+      ],
+      "duration_ms": 347573,
+      "name": "\u30de\u30cd\u30fc\u30fb\u30b8\u30e3\u30f3\u30b0\u30eb - Live",
+      "url": "https://open.spotify.com/track/72lmCMKToDf2R7vyeU5qbd"
     },
     {
       "added_at": "2022-05-20 04:02:00",

@@ -4,7 +4,7 @@
 
 > This is Stevie Ray Vaughan\. The essential tracks, all in one playlist.
 
-56 songs - 4 hr 24 min - [published](https://open.spotify.com/playlist/2sTCeRqFZP7FBgs84k9rr5)
+57 songs - 4 hr 28 min - [published](https://open.spotify.com/playlist/2sTCeRqFZP7FBgs84k9rr5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [First We Take Manhattan \- Digitally Remastered](https://open.spotify.com/track/6IRkoSxV526waQU14HQ3cE) | [Jennifer Warnes](https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Famous Blue Raincoat: 20th Anniversary Edition \(Digitally Remastered\)](https://open.spotify.com/album/3658N94yX3heWmnz4BToOA) | 3:46 | 2022-08-05 |  |
 | [Give Me Back My Wig](https://open.spotify.com/track/61DnwvyCzQXWLK29HVfgJO) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [The Essential Stevie Ray Vaughan And Double Trouble](https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r) | 4:07 | 2022-08-05 |  |
 | [Goin' Down \- Live](https://open.spotify.com/track/6gAmnT5I6MCFQPbp1ghZ1o) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Solos, Sessions & Encores](https://open.spotify.com/album/34moluVsUish03HIUdzSze) | 5:27 | 2022-08-05 | 2022-08-22 |
-| [Gone Home](https://open.spotify.com/track/7v8sDW9FgPTLl7Qq3g5qgl) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Soul to Soul](https://open.spotify.com/album/2WYvNaZ68vRmun6Jy0Qp1e) | 3:04 | 2022-08-22 | 2022-09-10 |
+| [Gone Home](https://open.spotify.com/track/7v8sDW9FgPTLl7Qq3g5qgl) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Soul to Soul](https://open.spotify.com/album/2WYvNaZ68vRmun6Jy0Qp1e) | 3:04 | 2022-08-22 |  |
 | [I'm Cryin'](https://open.spotify.com/track/1oLVPN07o3aAgKAVWjhRRn) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Texas Flood \(Legacy Edition\)](https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ) | 3:43 | 2022-08-07 | 2022-08-09 |
 | [I'm Leaving You \(Commit A Crime\) \- Live](https://open.spotify.com/track/2z9BPNJ7YgANyqBEEU07ur) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Live Alive](https://open.spotify.com/album/7pAjlt1BWH880YZhpT1OyW) | 5:35 | 2022-08-05 |  |
 | [Iced Over \- Live at Carnegie Hall, New York, NY \- October 1984](https://open.spotify.com/track/4Hfdbs9kVpEMCqehzqAcDs) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Live at Carnegie Hall](https://open.spotify.com/album/5Q0OpLSi7q2fKcHQHVeBGd) | 5:11 | 2022-08-05 |  |
@@ -41,8 +41,8 @@
 | [Match Box Blues](https://open.spotify.com/track/0ucfROd1kaXBwNG2AJUIzM) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Session](https://open.spotify.com/album/0NVSx5grH054ZMpiOYieyb) | 7:39 | 2022-09-04 | 2022-09-15 |
 | [May I Have a Talk with You](https://open.spotify.com/track/01CIueRxPGWmkQjjzT70wi) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [The Sky Is Crying](https://open.spotify.com/album/7pBJuCKTNKFLf6JztTYv6B) | 5:48 | 2022-08-05 |  |
 | [On The Run \- Live](https://open.spotify.com/track/0gmMJ7GXPFTZv4kLMbHGyn) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Solos, Sessions & Encores](https://open.spotify.com/album/34moluVsUish03HIUdzSze) | 5:33 | 2022-08-05 |  |
-| [Pipeline](https://open.spotify.com/track/38woaO9J9HFdlL5qBdAm68) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1), [Dick Dale](https://open.spotify.com/artist/6Ycrt8OjGSSFihsb0446eg) | [Solos, Sessions & Encores](https://open.spotify.com/album/34moluVsUish03HIUdzSze) | 2:59 | 2022-08-05 |  |
-| [Pride And Joy](https://open.spotify.com/track/5LNkpie03tsGvZgFxc2R0P) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Session](https://open.spotify.com/album/0NVSx5grH054ZMpiOYieyb) | 5:59 | 2022-08-05 |  |
+| [Pipeline](https://open.spotify.com/track/38woaO9J9HFdlL5qBdAm68) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1), [Dick Dale](https://open.spotify.com/artist/6Ycrt8OjGSSFihsb0446eg) | [Solos, Sessions & Encores](https://open.spotify.com/album/34moluVsUish03HIUdzSze) | 2:59 | 2022-08-05 | 2022-09-17 |
+| [Pride And Joy](https://open.spotify.com/track/5LNkpie03tsGvZgFxc2R0P) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Session](https://open.spotify.com/album/0NVSx5grH054ZMpiOYieyb) | 5:59 | 2022-08-05 | 2022-09-17 |
 | [Pride and Joy](https://open.spotify.com/track/1a2iF9XymafjRk56q7oCxo) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Texas Flood \(Legacy Edition\)](https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ) | 3:39 | 2022-08-05 |  |
 | [Riviera Paradise](https://open.spotify.com/track/4LSu0MjxfmqMgEJf4GMnlU) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Step](https://open.spotify.com/album/1d3gakptaQZQ4zw9YbOagk) | 8:48 | 2022-08-05 |  |
 | [Rude Mood](https://open.spotify.com/track/03NejRMxYMMCFo2Ylsia6l) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Texas Flood \(Legacy Edition\)](https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ) | 4:39 | 2022-08-05 |  |
@@ -63,6 +63,7 @@
 | [Voodoo Child \(Slight Return\)](https://open.spotify.com/track/1kY6OOTBmRNzhYmu9xSH3a) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Couldn't Stand The Weather \(Legacy Edition\)](https://open.spotify.com/album/5vxBOzakDbJleNA1rbA7FQ) | 7:58 | 2022-08-05 |  |
 | [Wall of Denial](https://open.spotify.com/track/02yhpGmQpkuYMDh6BRnDZA) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Step](https://open.spotify.com/album/1d3gakptaQZQ4zw9YbOagk) | 5:35 | 2022-08-05 |  |
 | [Wham](https://open.spotify.com/track/42DFAOfH92om07FwNqX2Ye) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [The Sky Is Crying](https://open.spotify.com/album/7pBJuCKTNKFLf6JztTYv6B) | 2:24 | 2022-08-05 |  |
+| [Willie The Wimp \- Live](https://open.spotify.com/track/1nwXca4jNGWDpowRQnEiEv) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [The Essential Stevie Ray Vaughan And Double Trouble](https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r) | 4:34 | 2022-09-16 |  |
 | [You'll Be Mine](https://open.spotify.com/track/39XMzGy9hJHGVHgUy8uPhE) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Soul to Soul](https://open.spotify.com/album/2WYvNaZ68vRmun6Jy0Qp1e) | 3:43 | 2022-08-20 | 2022-08-27 |
 
 \*This playlist was first scraped on 2022-08-06. Prior content cannot be recovered.

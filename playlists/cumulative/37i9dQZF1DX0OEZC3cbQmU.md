@@ -4,7 +4,7 @@
 
 > A palavra do Senhor na voz dos grandes adoradores do Brasil\. Foto: Gabriela Rocha
 
-75 songs - 7 hr 25 min - not published yet
+75 songs - 7 hr 25 min - [published](https://open.spotify.com/playlist/77mvdIhvEtSHIOmonSSyen)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -2,9 +2,9 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> because a little left of center is best\. cover: magdalena bay
+> because a little left of center is best\. cover: weyes blood
 
-1,840 songs - 4 day 2 hr 30 min - [published](https://open.spotify.com/playlist/2xUOX5SyncubeZSn9gFeBN)
+1,844 songs - 4 day 2 hr 43 min - [published](https://open.spotify.com/playlist/2xUOX5SyncubeZSn9gFeBN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,13 +243,14 @@
 | [BULL$HIT](https://open.spotify.com/track/7lADpzPifJz9k2XcX8r9P7) | [Evann McIntosh](https://open.spotify.com/artist/2YSzmcSn7vQaFiB2B5LpCB) | [BULL$HIT](https://open.spotify.com/album/2bEu0wvV7dkvVUAMxLTrPz) | 3:19 | 2020-10-24 | 2020-11-27 |
 | [BULLDOG](https://open.spotify.com/track/0kj8iOWDgQqiRbDWQSJsWb) | [LAUNDRY DAY](https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk) | [LIGHT UP SHOES 2](https://open.spotify.com/album/70sJtyCdOQKbjDSOu9mXAQ) | 4:52 | 2019-12-04 | 2020-02-05 |
 | [Bumblebee](https://open.spotify.com/track/6OBQJkM9RtQXcYL26Az2Pg) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Bumblebee](https://open.spotify.com/album/2pypkUrkyPB6sWXzeIuEPF) | 3:20 | 2022-07-29 |  |
+| [Bump](https://open.spotify.com/track/4rsuE0qXgtKUCVV1dIQFYd) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Bump](https://open.spotify.com/album/0BbQhd9LzpcdZJ5fn7WhaV) | 3:22 | 2022-09-16 |  |
 | [Bunk Beds](https://open.spotify.com/track/4T8OtUOyImRoxbkLnFdHje) | [Dori Valentine](https://open.spotify.com/artist/3uS3Hqh4mAJgkucQlbDz0w) | [Bunk Beds](https://open.spotify.com/album/1FZR1HvpKtzW47Wl5JQbXr) | 2:46 | 2021-02-06 | 2021-04-16 |
 | [Burial](https://open.spotify.com/track/3hAISHuncayUMztDDvkwmS) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J) | [Miike Snow \(Deluxe Edition\)](https://open.spotify.com/album/60qoUhwjHanuH4uO7ik4r5) | 4:21 | 2021-12-22 | 2022-01-08 |
 | [Busy](https://open.spotify.com/track/1ZOvGngH4YojNtbhtzJCZs) | [Middle Part](https://open.spotify.com/artist/73QtCj6d6vlI7qkLDDJJx8) | [Busy](https://open.spotify.com/album/3bvUadr6ldYuCapGdpOjC9) | 2:23 | 2020-12-18 | 2021-02-02 |
 | [Butter](https://open.spotify.com/track/1uPDP9EN6EFvKcDr0gtBiP) | [Huron John](https://open.spotify.com/artist/3CfbFUXY5EE7NmKE4n1Q3v), [Claire Ernst](https://open.spotify.com/artist/2WFgy3nW0RPCr856bifSkY) | [Butter](https://open.spotify.com/album/3NG0DSdRV90B5aC4fsgr95) | 3:25 | 2020-04-14 | 2020-07-01 |
 | [Buttercup](https://open.spotify.com/track/2mlGPkAx4kwF8Df0GlScsC) | [Jack Stauber](https://open.spotify.com/artist/1vVHevk2PD45epYnDi9CCc) | [Pop Food](https://open.spotify.com/album/1RHa1VdX6lsLbeedgsV1cb) | 3:28 | 2019-09-20 | 2020-01-28 |
 | [Butterflies](https://open.spotify.com/track/1nUzZ1rxEQBHdxiUL9mj9i) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [The Greatest Hits](https://open.spotify.com/album/0TVzUmZ0PC3iE9Ctpr0XM5) | 3:06 | 2020-03-27 | 2020-08-20 |
-| [Buttons](https://open.spotify.com/track/4CzLJ2wsrk1QdhXXuT16gx) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 3:04 | 2022-07-18 |  |
+| [Buttons](https://open.spotify.com/track/4CzLJ2wsrk1QdhXXuT16gx) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 3:04 | 2022-07-18 | 2022-09-17 |
 | [by the way](https://open.spotify.com/track/17xOw3AysUwcuQSlBF5MGk) | [pizzagirl](https://open.spotify.com/artist/0ef7Q5r0NAMicEugmtYxjA) | [by the way](https://open.spotify.com/album/0MPLvOSvvBVjwoh0vGye1u) | 3:44 | 2021-07-17 | 2021-08-14 |
 | [By Your Side](https://open.spotify.com/track/7H3ojI1BsVy0dEJENqMt1k) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Lovers Rock](https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9) | 4:34 | 2022-06-21 | 2022-06-28 |
 | [BYE](https://open.spotify.com/track/3OUyyDN7EZrL7i0Sbi5SVd) | [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT) | [BYE](https://open.spotify.com/album/4TVz7u3xhjsYYI2Ir8ZUbW) | 4:56 | 2021-06-26 | 2021-12-02 |
@@ -307,6 +308,7 @@
 | [Cherry Blossom Girl](https://open.spotify.com/track/4m8ttWM8IKXyhpv89E867J) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Talkie Walkie](https://open.spotify.com/album/0hQOqvZv1nQvPiBjzyn363) | 3:39 | 2021-08-24 | 2021-09-04 |
 | [Cherry Bomb](https://open.spotify.com/track/3MyuOZO9kWyvluRgxBoMus) | [Finn Askew](https://open.spotify.com/artist/0ZYv8jRFp5YAC29bfjaP9X) | [Cherry Bomb](https://open.spotify.com/album/78a6SHXF3uUFDqZ1FBCS7h) | 3:17 | 2021-05-03 | 2021-08-14 |
 | [Cherry Flavoured](https://open.spotify.com/track/5ZawGS5kFVVxEZrN7FshIk) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Cherry Flavoured](https://open.spotify.com/album/0ZupZSrJqTChpZ5PMoBB0u) | 3:28 | 2020-08-04 | 2021-12-02 |
+| [Cherub](https://open.spotify.com/track/68awbivFFbRan2kPKRmzUG) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ) | [Cherub](https://open.spotify.com/album/6f2FqUeAYVrYuXiFdE2wzg) | 1:50 | 2022-09-16 |  |
 | [Chicken Tenders](https://open.spotify.com/track/3D8sT8D3f5egWSQnF0fbqu) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Chicken Tenders](https://open.spotify.com/album/6Hlyw2Jvzz7BnIQQYzSXVZ) | 2:50 | 2020-06-29 | 2021-01-23 |
 | [chinatown](https://open.spotify.com/track/7y9McRKnL5wrKXwbsGrS4U) | [taia](https://open.spotify.com/artist/1t84tnhmmcxVfAkJCGloOp) | [chinatown](https://open.spotify.com/album/0eU10itRZokBvXLAT7zRNX) | 4:08 | 2020-12-18 | 2021-02-02 |
 | [Chinatown \(feat\. Bruce Springsteen\)](https://open.spotify.com/track/7IY2JF7AlVN5uvIUBVnSJd) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Chinatown \(feat\. Bruce Springsteen\)](https://open.spotify.com/album/10fSu9RLAJlasIup4ylHPM) | 4:07 | 2020-11-20 | 2021-01-12 |
@@ -1281,7 +1283,7 @@
 | [Poor Boy](https://open.spotify.com/track/6Wvi3W1wCzyLzVSD8g7JTQ) | [CARR](https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ) | [Poor Boy](https://open.spotify.com/album/3vqeCysvSQsTrwIEaEZns6) | 2:44 | 2021-01-15 | 2021-03-06 |
 | [Poor Fake](https://open.spotify.com/track/0X1VFWzml1YdSOOkxzOK0G) | [Kelsey Lu](https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5) | [Blood](https://open.spotify.com/album/6NLWgp3R9U9v8KMueE6i9C) | 4:41 | 2019-08-02 | 2019-08-21 |
 | [Pope Is a Rockstar](https://open.spotify.com/track/0So2sgVa8aJiARPl2P29u2) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [SALES LP](https://open.spotify.com/album/7ywSMs3G2OWOGVKMqc7KsE) | 3:07 | 2021-12-15 | 2022-02-26 |
-| [POSE](https://open.spotify.com/track/1Mf7qE54NoBp5hrZV2iPrX) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [POSE](https://open.spotify.com/album/2N3NGQjuCC1B7qPiY7saGG) | 3:13 | 2022-03-02 |  |
+| [POSE](https://open.spotify.com/track/1Mf7qE54NoBp5hrZV2iPrX) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [POSE](https://open.spotify.com/album/2N3NGQjuCC1B7qPiY7saGG) | 3:13 | 2022-03-02 | 2022-09-17 |
 | [Post Humorous](https://open.spotify.com/track/59BJgnWKzFnh5TGkhHfmod) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Post Humorous](https://open.spotify.com/album/3Gk3QuFFF4zi4RdyYhBkpy) | 4:39 | 2020-07-02 | 2020-12-04 |
 | [Post Mates \(feat\. Cautious Clay\)](https://open.spotify.com/track/4JclCBySJNsUApnATXnhNS) | [Jarami](https://open.spotify.com/artist/1iwseab2dozTUHoF5taAdf), [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Post Mates \(feat\. Cautious Clay\)](https://open.spotify.com/album/7js7SzuPMf0qIJqnoLUoDz) | 2:35 | 2019-07-30\* | 2020-02-20 |
 | [pouring outside](https://open.spotify.com/track/6IW56BQYrmMniYZBwGCNeL) | [dyl dion](https://open.spotify.com/artist/6oqHT4S7trO98T8NkbQJ4h) | [pouring outside](https://open.spotify.com/album/3tD59sMsBsem82vGGVRRim) | 2:36 | 2022-02-11 | 2022-05-19 |
@@ -1327,6 +1329,7 @@
 | [Renee](https://open.spotify.com/track/5MeUMSRreLHYLhw8ZTyqpk) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [Renee](https://open.spotify.com/album/4qR0co1PeeQSsqHF9xTeGn) | 2:59 | 2020-06-30 | 2022-03-18 |
 | [Resale](https://open.spotify.com/track/0bOtCEAC896V7Zq1usRIKu) | [The Aubreys](https://open.spotify.com/artist/7ijkc3O3uxDdAmSuQUg2f2) | [Resale](https://open.spotify.com/album/6prjDU0P65HlZT3pAkPfJU) | 3:11 | 2021-10-20 | 2021-12-02 |
 | [Revolver](https://open.spotify.com/track/3alJBylWqwz6zFDhzT9xO3) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Revolver](https://open.spotify.com/album/5h5Phe6GYcTrFRyjfDcNPv) | 2:48 | 2021-06-09 | 2022-04-09 |
+| [rewind \[Feat\. PawPaw Rod\]](https://open.spotify.com/track/23tcm2RHu5zkvqVHjqLK4A) | [Miloe](https://open.spotify.com/artist/3HdQTgQSncptIPjDgskWbu), [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [gaps](https://open.spotify.com/album/0nF2zDporBR4PpkDJEoyOy) | 3:27 | 2022-09-16 |  |
 | [Rich Girls](https://open.spotify.com/track/58F6iKkYdIccktJ8i8BuQQ) | [The Virgins](https://open.spotify.com/artist/6RNuLHIAlLt1FQHm03oEru) | [The Virgins](https://open.spotify.com/album/2u24W1w4uHRgPUka8xhIvj) | 3:00 | 2021-01-29 | 2021-02-06 |
 | [Riding With Me](https://open.spotify.com/track/2gZCXOYWtv3i7bhl870Bqa) | [Froogle](https://open.spotify.com/artist/1SoqIsFiUIuOm401HsEQso) | [Riding With Me](https://open.spotify.com/album/3v1hXdqqnxJkVDZi9R1pjB) | 2:56 | 2019-09-24 | 2020-05-05 |
 | [Right Down the Line](https://open.spotify.com/track/2Xb6wJYGi0QXwURw5WWvI5) | [Gerry Rafferty](https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb) | [City to City](https://open.spotify.com/album/35yZZTWeSrszSKjRlFETwf) | 4:27 | 2022-01-10 | 2022-05-07 |
@@ -1656,6 +1659,7 @@
 | [this is me trying](https://open.spotify.com/track/0j5renyfv1ChCoe1ca7bDP) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/0xS0iOtxQRoJvfcFcJA5Gv) | 3:15 | 2021-04-30 | 2021-05-08 |
 | [This Kiss](https://open.spotify.com/track/5EYWGM3Ns3iYew8ws0FatB) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Faith](https://open.spotify.com/album/2lKDDrmx5aqyBRkho5ljn5) | 3:14 | 2021-08-21 | 2021-08-24 |
 | [This Town](https://open.spotify.com/track/4iDbH9ySrDlg7iBA0tq7Eq) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Super Monster](https://open.spotify.com/album/1S0ZLW9sEo7yb5wKxYSeYp) | 2:44 | 2021-02-12 | 2021-03-06 |
+| [Threads](https://open.spotify.com/track/2SJ0exVB6NRWLbdjCsNWAd) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [Threads](https://open.spotify.com/album/1SZmDUuIlro250y8TPMMbd) | 3:52 | 2022-09-16 |  |
 | [THREAT](https://open.spotify.com/track/3mWUqIz228lrdC5ZSkpjUG) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [THREAT](https://open.spotify.com/album/3fK4ZsyiwR1SICiufV1woO) | 2:50 | 2022-08-09 |  |
 | [THREE HEADS\*](https://open.spotify.com/track/4apXjryIqMFUdOjWMM6zZp) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [THREE HEADS\*](https://open.spotify.com/album/02BIHNzIl0WCC17CPM83gN) | 2:51 | 2022-08-19 |  |
 | [Thunder](https://open.spotify.com/track/0afGLa6wcYiLLXFZ48ZQpY) | [Roy Blair](https://open.spotify.com/artist/6Sa4YbwEdGlfVSJMF1Lp67) | [Cat Heaven](https://open.spotify.com/album/0Z9NeEvqeecaLCFUmI4uDw) | 5:13 | 2021-08-05 | 2021-11-13 |

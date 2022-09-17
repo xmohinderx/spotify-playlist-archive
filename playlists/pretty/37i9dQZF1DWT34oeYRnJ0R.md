@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 
 > Just vibes\. Cover: paopao
 
-[Spotify](https://open.spotify.com/user/spotify) - 696,450 likes - 80 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 696,443 likes - 80 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 | 20 | [For Ya](https://open.spotify.com/track/02qrtIRuwbGgs2wCvdOFme) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Sueños de Dalí](https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK) | 2:27 |
 | 21 | [Otra Noche Sin Ti](https://open.spotify.com/track/6xvaSd27eSA5kQlFRYhWZF) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [JOSE](https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP) | 3:48 |
 | 22 | [Gatita Gangster](https://open.spotify.com/track/1xbJZcVJjRvlDWG3TFgBIZ) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Gatita Gangster](https://open.spotify.com/album/6sFIObMoQlkk3lFqt926dB) | 3:56 |
-| 23 | [Monte Carlo](https://open.spotify.com/track/0vV9YneKNzEEsAxQBFfOzp) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Amor En Español](https://open.spotify.com/album/1e8k4kAKtcC5GIjfP4JDdR) | 3:07 |
-| 24 | [LA CANCIÓN](https://open.spotify.com/track/2wIgWVIyA4bzRW6RmdXMoI) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [LA CANCIÓN](https://open.spotify.com/album/775HIr3RQ0ZfqLVrHr69aI) | 3:32 |
+| 23 | [LA CANCIÓN](https://open.spotify.com/track/2wIgWVIyA4bzRW6RmdXMoI) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [LA CANCIÓN](https://open.spotify.com/album/775HIr3RQ0ZfqLVrHr69aI) | 3:32 |
+| 24 | [Monte Carlo](https://open.spotify.com/track/0vV9YneKNzEEsAxQBFfOzp) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Amor En Español](https://open.spotify.com/album/1e8k4kAKtcC5GIjfP4JDdR) | 3:07 |
 | 25 | [Nena](https://open.spotify.com/track/5kJrMogX8dnZvwJVRQct8l) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [Nena](https://open.spotify.com/album/5eYJgVtDk7Az1vRWKNfuzY) | 2:33 |
 | 26 | [Otro Día Lluvioso \(with Lenny Tavarez & Becky G feat\. Dalex\)](https://open.spotify.com/track/2qhcTAKmpFNXBEu1FYo69t) | [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Otro Día Lluvioso \(with Lenny Tavarez & Becky G feat\. Dalex\)](https://open.spotify.com/album/6MGhjZ5uPXwciHnjOGUIxK) | 4:25 |
 | 27 | [Ojos Negros](https://open.spotify.com/track/0hjbmFnvWmn9QPlEUKJUK3) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [Ojos Negros](https://open.spotify.com/album/1GpskTNrGXAlgg63EOMANt) | 3:19 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 | 79 | [yourplace](https://open.spotify.com/track/3zahH6mfmPZz4q038rk3Hu) | [riela](https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A) | [tranquila y tropical](https://open.spotify.com/album/24SzPSINiQWmIu84VfkC5a) | 2:29 |
 | 80 | [LULLABY](https://open.spotify.com/track/1yXYxa3O00Gcxy6XqGRhpE) | [COASTCITY](https://open.spotify.com/artist/3U6AuiLSmMwlxgEDGZz9xj) | [Wild Americanos](https://open.spotify.com/album/7vkUNL3WH7fg4PwqQlM0fJ) | 3:44 |
 
-Snapshot ID: `MTY2MjQ5NTQ3NywwMDAwMDAwMDI1ZmMyMzQxMTY4OTkxMTE2ZjRhYjkyMDc0MGRiMWFj`
+Snapshot ID: `MTY2MjQ5NTQ3NywwMDAwMDAwMDM4NGEzZDgxNzExZDU4MDU1YzUwN2ZjN2Y3NzQzYmRk`

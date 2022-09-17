@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAWtyHQImlQ.md) - [plain]
 
 > All 60s, all ballads\. Cover: Etta James
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,373 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,462 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAWtyHQImlQ.md) - [plain]
 | 5 | [Little Wing](https://open.spotify.com/track/1Eolhana7nKHYpcYpdVcT5) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Axis: Bold As Love](https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r) | 2:25 |
 | 6 | [I'd Rather Go Blind](https://open.spotify.com/track/1kPBT8S2wJFNAyBMnGVZgL) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Tell Mama](https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr) | 2:36 |
 | 7 | [A Whiter Shade of Pale \- Original Single Version](https://open.spotify.com/track/78ZqE2tjAxbqEGGlvGnQfT) | [Procol Harum](https://open.spotify.com/artist/0GbqW5TJr7n4is453VOY4C) | [Hits'n'Flips](https://open.spotify.com/album/4fKEheMhcigQBenkttp5CU) | 4:08 |
-| 8 | [God Only Knows \- Mono / 1997 Remastered](https://open.spotify.com/track/6iGU74CwXuT4XVepjc9Emf) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Pet Sounds \(Original Mono & Stereo Mix Versions\)](https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8) | 2:53 |
-| 9 | [\(You Make Me Feel Like\) A Natural Woman](https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Lady Soul \(With Bonus Selections\)](https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG) | 2:45 |
+| 8 | [\(You Make Me Feel Like\) A Natural Woman](https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Lady Soul \(With Bonus Selections\)](https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG) | 2:45 |
+| 9 | [God Only Knows \- Mono / 1997 Remastered](https://open.spotify.com/track/6iGU74CwXuT4XVepjc9Emf) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Pet Sounds \(Original Mono & Stereo Mix Versions\)](https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8) | 2:53 |
 | 10 | [Nights In White Satin \- Single Version / Mono](https://open.spotify.com/track/6L5BZEcZmD6RBJnimzlyKr) | [The Moody Blues](https://open.spotify.com/artist/5BcZ22XONcRoLhTbZRuME1) | [Days Of Future Passed \(Deluxe Version\)](https://open.spotify.com/album/3JyYXOBRAuc3XFQxFxrEcM) | 4:29 |
 | 11 | [All I Have to Do Is Dream](https://open.spotify.com/track/7dblNGnRXEBrVJunazs2U5) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The Very Best of The Everly Brothers](https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT) | 2:23 |
 | 12 | [A Change Is Gonna Come](https://open.spotify.com/track/0KOE1hat4SIer491XKk4Pa) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Ain't That Good News](https://open.spotify.com/album/2NFd4ApYFitFtJhGTSfDdP) | 3:11 |
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAWtyHQImlQ.md) - [plain]
 | 16 | [I Can't Stop Loving You](https://open.spotify.com/track/79nJj5dMyTsUzKvN5jUXsJ) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Modern Sounds in Country and Western Music, Vols 1 & 2](https://open.spotify.com/album/4j4w5DDWMKD7ePStAl19OF) | 4:16 |
 | 17 | [Moon River \(From "Breakfast at Tiffany's"\)](https://open.spotify.com/track/24AIahNHzBxm9S12peXbnG) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [Moon River And Other Great Movie Themes](https://open.spotify.com/album/1RLfn8e4cQvC0WsYJM6rh2) | 2:42 |
 | 18 | [These Arms of Mine](https://open.spotify.com/track/4skknrc3sJqaPTtUr2cwFq) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Pain in My Heart](https://open.spotify.com/album/2BFOk5b8jjm2xmsbx7qXq3) | 2:34 |
-| 19 | [Here, There And Everywhere \- Remastered 2009](https://open.spotify.com/track/2B4Y9u4ERAFiMo13XPJyGP) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Revolver \(Remastered\)](https://open.spotify.com/album/3PRoXYsngSwjEQWR5PsHWR) | 2:24 |
-| 20 | [It's A Man's, Man's, Man's World](https://open.spotify.com/track/3SQ9Hb9rfpJ02AWfaOPhpy) | [James Brown & The Famous Flames](https://open.spotify.com/artist/32r72WOqqRO1DtSznId7Lr) | [It's A Man's Man's Man's World](https://open.spotify.com/album/3WQOQKNq8COxy0Ozv6YBb1) | 2:47 |
+| 19 | [It's A Man's, Man's, Man's World](https://open.spotify.com/track/3SQ9Hb9rfpJ02AWfaOPhpy) | [James Brown & The Famous Flames](https://open.spotify.com/artist/32r72WOqqRO1DtSznId7Lr) | [It's A Man's Man's Man's World](https://open.spotify.com/album/3WQOQKNq8COxy0Ozv6YBb1) | 2:47 |
+| 20 | [Here, There And Everywhere \- Remastered 2009](https://open.spotify.com/track/2B4Y9u4ERAFiMo13XPJyGP) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Revolver \(Remastered\)](https://open.spotify.com/album/3PRoXYsngSwjEQWR5PsHWR) | 2:24 |
 | 21 | [Ooo Baby Baby](https://open.spotify.com/track/3nsJGZ5RV2ZHkbKvD771gU) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [Going To A Go\-Go](https://open.spotify.com/album/2NT1Pc0MXlXORHLBkHyKQW) | 2:44 |
 | 22 | [Unchained Melody](https://open.spotify.com/track/1jFhnVoJkcB4lf9tT0rSZS) | [The Righteous Brothers](https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX) | [The Very Best Of The Righteous Brothers \- Unchained Melody](https://open.spotify.com/album/5CFmNamq1ceXn8RFJ9i7p6) | 3:36 |
 | 23 | [Never My Love \- Remastered Version](https://open.spotify.com/track/32ssNweOtmacNBEC2kHzA8) | [The Association](https://open.spotify.com/artist/2kuNswDC82PL9xRbfaZJaS) | [Insight Out](https://open.spotify.com/album/1VsmbYW4XCdWje8ii0Yuta) | 3:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAWtyHQImlQ.md) - [plain]
 | 49 | [Skyline Pigeon](https://open.spotify.com/track/5MimWt53Ukh0gcv7mC0Rnx) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Empty Sky](https://open.spotify.com/album/2AWW5zXJBwLeroqj9D5oWV) | 3:37 |
 | 50 | [Losing You](https://open.spotify.com/track/78HTdAIfx2UBmFWZN4s7A6) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [..."Let Me Sing"](https://open.spotify.com/album/4oC3Mh9wD9vaZIvlxTsdX4) | 2:34 |
 
-Snapshot ID: `MTY1ODg0ODI3MiwwMDAwMDAwMDM1ZjY2ZGJiYWE2NWRjNTJkM2UzMzZhNjUyMjM2ZGQ4`
+Snapshot ID: `MTY1ODg0ODI3MiwwMDAwMDAwMDcwNGM2NTU4ZTcyZDlkNmMzMTk2MzZkM2YzOGJlZDRm`

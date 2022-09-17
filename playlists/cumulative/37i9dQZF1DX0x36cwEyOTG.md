@@ -155,7 +155,7 @@
 | [Regenerative Being](https://open.spotify.com/track/7kmdM9DytC01GsvctF6beZ) | [Eluvium](https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV) | [False Readings On](https://open.spotify.com/album/3dMHJ1fnsUNjt8LtH8IjMS) | 7:21 | 2018-11-26 |  |
 | [Sapsorrow](https://open.spotify.com/track/2JMQgYjMgCM2I8RTC4BU9b) | [Lanterns on the Lake](https://open.spotify.com/artist/7sx3r4lMo079vO7lIi0fng) | [Lungs Quicken](https://open.spotify.com/album/2HK44OdvH7XiGLDo0BGlvN) | 2:53 | 2018-11-26 | 2022-07-28 |
 | [Save Me \- Skeleton Mix](https://open.spotify.com/track/6INlCF3Ru7CqLnIf2GNKKC) | [Majik](https://open.spotify.com/artist/7cY6Wh3h8rcLp62AhYKhy9) | [Save Me \(Skeleton Mix\)](https://open.spotify.com/album/5ZVarZLlOmGvC1dTvyfNWt) | 4:09 | 2018-11-26 | 2022-07-29 |
-| [Scenescof](https://open.spotify.com/track/3ZY8cSF7Xy6BDZo8GpQfv2) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Scenescof](https://open.spotify.com/album/3rkipOsGRgmHfcxydgwlAr) | 2:36 | 2020-10-15 | 2022-07-29 |
+| [Scenescof](https://open.spotify.com/track/3ZY8cSF7Xy6BDZo8GpQfv2) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Scenescof](https://open.spotify.com/album/3rkipOsGRgmHfcxydgwlAr) | 2:36 | 2020-10-15 |  |
 | [Silent from Above](https://open.spotify.com/track/04ohpWQHENREA5pmiIvrNB) | [Mirrorring](https://open.spotify.com/artist/2M8pAavH6JayxeN0HfQzBv) | [Foreign Body](https://open.spotify.com/album/15OVBQYlldnAnwLnEywCJA) | 4:58 | 2018-11-26 | 2022-07-28 |
 | [Sister](https://open.spotify.com/track/5amf0Fkdt3Mu6cdvXhKgOq) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [All We've Known](https://open.spotify.com/album/5kFNVejPETepNP6mrsoeox) | 2:13 | 2018-11-26 |  |
 | [Sister](https://open.spotify.com/track/69oIKolU1h4YFPo4nKwHvZ) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [All We've Known](https://open.spotify.com/album/42rcRgzjouEjRA4Qhp9iqC) | 2:13 | 2018-11-26 | 2022-07-29 |
@@ -216,7 +216,7 @@
 | [X\-Ray](https://open.spotify.com/track/0rOSE6B6ame2XNCzm4ZJQu) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [Savage Hills Ballroom](https://open.spotify.com/album/2REi0vGs8rCaFms8lVwZzk) | 2:42 | 2018-11-26 |  |
 | [You](https://open.spotify.com/track/3LAqlsucNdQnRARPxCK7Bm) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Screws](https://open.spotify.com/album/2jp10nhpPcZkuUaFougyN3) | 3:06 | 2018-11-26 |  |
 | [You](https://open.spotify.com/track/6H179fTdaQXT4QHnNxNX4D) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Screws](https://open.spotify.com/album/2EaigzcT1RHV3ILasIOfJz) | 3:09 | 2018-11-26 | 2022-07-29 |
-| [Your Love Is an Island](https://open.spotify.com/track/79irqIr5JmGSHeLtu8tntd) | [Talos](https://open.spotify.com/artist/5pdzKTGQAcRcxDOfN4mXSc) | [Your Love Is an Island](https://open.spotify.com/album/5k6cxdLfxmu1cIcgCInAkB) | 4:05 | 2018-11-26 |  |
+| [Your Love Is an Island](https://open.spotify.com/track/79irqIr5JmGSHeLtu8tntd) | [Talos](https://open.spotify.com/artist/5pdzKTGQAcRcxDOfN4mXSc) | [Your Love Is an Island](https://open.spotify.com/album/5k6cxdLfxmu1cIcgCInAkB) | 4:05 | 2018-11-26 | 2022-09-17 |
 | [Zombies](https://open.spotify.com/track/2ig5YxSVKUgd4nxIDLcvZC) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Zombies](https://open.spotify.com/album/0a2bolGRmUpWKlS9h7wJGs) | 3:12 | 2020-10-15 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

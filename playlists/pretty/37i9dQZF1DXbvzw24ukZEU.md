@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvzw24ukZEU.md) - [plain]
 
 > Relax to the the rhythm of these smooth Latin tunes of the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,277 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,362 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [No Se Va](https://open.spotify.com/track/4khWEpnaijN0G1x019Uzdr) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Balas Perdidas](https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8) | 3:36 |
 | 2 | [Si Estuviésemos Juntos](https://open.spotify.com/track/35wvL50xvKpCHEJPxLOLPI) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 2:49 |
 | 3 | [Fuentes de Ortiz](https://open.spotify.com/track/0akyEssGRVHstqCSWXusJL) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [mix pa llorar en tu cuarto](https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW) | 3:27 |
-| 4 | [Chachachá](https://open.spotify.com/track/6aommJFM8i3iT4inKuDSXh) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Háblate de Mí](https://open.spotify.com/album/5DtrZ74RgqpVVqLWncmqyZ) | 3:35 |
-| 5 | [Fuiste Tú \(feat\. Gaby Moreno\)](https://open.spotify.com/track/29csiYMOfBmLmGwxmISrMy) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD), [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Independiente + Demos](https://open.spotify.com/album/3LrWQfyoO7cEc7ZGkWqHgy) | 4:25 |
+| 4 | [Fuiste Tú \(feat\. Gaby Moreno\)](https://open.spotify.com/track/29csiYMOfBmLmGwxmISrMy) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD), [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Independiente + Demos](https://open.spotify.com/album/3LrWQfyoO7cEc7ZGkWqHgy) | 4:25 |
+| 5 | [Chachachá](https://open.spotify.com/track/6aommJFM8i3iT4inKuDSXh) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Háblate de Mí](https://open.spotify.com/album/5DtrZ74RgqpVVqLWncmqyZ) | 3:35 |
 | 6 | [Ella Quiere Beber \- Remix](https://open.spotify.com/track/3f5lA8nnc4YYF1qf78WpHw) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Ella Quiere Beber \(Remix\)](https://open.spotify.com/album/58NQUIHQRJnXyBUeGtG8KG) | 3:39 |
 | 7 | [Ya Me Enteré](https://open.spotify.com/track/0lPXFrKyl8HkdQ2E6NmNja) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Des/Amor](https://open.spotify.com/album/6Tap30zqzXj22sVKoy1GUj) | 3:24 |
 | 8 | [Otra Noche en Miami](https://open.spotify.com/track/4vCAzANUWDE24URV6wQ4ra) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 3:53 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvzw24ukZEU.md) - [plain]
 | 47 | [Puntos Suspensivos](https://open.spotify.com/track/04cd1MHVq1D8v1nuTZoCdv) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Ubuntu](https://open.spotify.com/album/0sGGdQF7f03jwgaD9qhtUQ) | 3:06 |
 | 48 | [Sigues Con El](https://open.spotify.com/track/7sQKy5vlPQllr0k9IjYJv3) | [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx) | [Sigues Con El](https://open.spotify.com/album/1y0pdsLO6cixGzAv7Sf8rf) | 3:46 |
 | 49 | [Ecos De Amor](https://open.spotify.com/track/3lI5dscCDez8cF6LF3Me7F) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Un Besito Más](https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3) | 3:35 |
-| 50 | [Promise \(feat\. Usher\)](https://open.spotify.com/track/0jr6tT2vc4cIFPHb6wufG3) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Fórmula Vol\. 1 \(Deluxe Edition\)](https://open.spotify.com/album/6a3RDPcFamZvFCi8VeXWkK) | 4:12 |
+| 50 | [Hoja en Blanco](https://open.spotify.com/track/3yjU1r7jlFvZHeidCjulpq) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [10 Años \(En Vivo\)](https://open.spotify.com/album/3TqROuIEoAYivO3pCfiiBA) | 4:42 |
 
-Snapshot ID: `MTY2MTkzMDU4MiwwMDAwMDAwMGNiNjk3YWZmYmNhYWI1M2Y3NTMwMmIwMjM0ZDhmOGJj`
+Snapshot ID: `MTY2MTkzMDU4MiwwMDAwMDAwMGE3MTMyMWZmZTAyYjRlYmFmMGZmZmU5ZWU3YjUxZDVm`

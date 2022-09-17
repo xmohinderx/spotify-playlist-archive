@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafD1g5rer7q.md) - [plain]
 
 > Create the new vibe by mixing in the retro sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,567 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,725 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafD1g5rer7q.md) - [plain]
 | 2 | [Always Feel Like](https://open.spotify.com/track/7rt3hHR1meaDWFqQygtZrS) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Always Feel Like](https://open.spotify.com/album/4kCNzICullbugxM6oBG2G1) | 3:01 |
 | 3 | [Friday \(feat\. Mufasa & Hypeman\) \- Dopamine Re\-Edit](https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Nightcrawlers](https://open.spotify.com/artist/1gALaWbNDnwS2ECV09sn2A), [Mufasa & Hypeman](https://open.spotify.com/artist/4L2dV3zY7RmkeiNO035Fi0), [Dopamine](https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN) | [Friday \(feat\. Mufasa & Hypeman\) \[Dopamine Re\-Edit\]](https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j) | 2:49 |
 | 4 | [Your Love \(9PM\)](https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx) | [ATB](https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Your Love \(9PM\)](https://open.spotify.com/album/7F9yYqHRtIZnEGF2tANI4b) | 2:30 |
-| 5 | [My Head & My Heart](https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:54 |
-| 6 | [Kernkraft 400 \(A Better Day\)](https://open.spotify.com/track/3kcKlOkQQEPVwxwljbGJ5p) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Kernkraft 400 \(A Better Day\)](https://open.spotify.com/album/2NIChqkijGw4r4Dqfmg0A3) | 2:45 |
+| 5 | [Kernkraft 400 \(A Better Day\)](https://open.spotify.com/track/3kcKlOkQQEPVwxwljbGJ5p) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Kernkraft 400 \(A Better Day\)](https://open.spotify.com/album/2NIChqkijGw4r4Dqfmg0A3) | 2:45 |
+| 6 | [My Head & My Heart](https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:54 |
 | 7 | [Break My Heart](https://open.spotify.com/track/017PF4Q3l4DBUiWoXk4OWT) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:41 |
 | 8 | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Emilee](https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE) | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/album/4MHHajvRTUHItDsvfdIC8B) | 2:56 |
 | 9 | [2 Die 4](https://open.spotify.com/track/3QK2bbLCTGoFXFt64e5TBY) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [2 Die 4](https://open.spotify.com/album/6p4OKNrv71scAKjHZ16G5t) | 3:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafD1g5rer7q.md) - [plain]
 | 49 | [I Wanna Dance With Somebody \(Who Loves Me\)](https://open.spotify.com/track/0ZFzV813vzKHfEYWX9gIeE) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [I Wanna Dance With Somebody \(Who Loves Me\)](https://open.spotify.com/album/2IE2txqJnXeZhVMiQmemKP) | 2:32 |
 | 50 | [Split \(Only U\)](https://open.spotify.com/track/1Q4jb2UjtWUDUojHsB8mLY) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Split \(Only U\)](https://open.spotify.com/album/0WTYsW1iJz4NQqdclJ4gcd) | 4:16 |
 
-Snapshot ID: `MTY2MTQ0NDQ0NiwwMDAwMDAwMDIwNWMyNGUwNzljMWZkY2JmYTliOWRiNTkzOWYyZGI2`
+Snapshot ID: `MTY2MTQ0NDQ0NiwwMDAwMDAwMGYyZjBjMzkxNDZkMmEzMjQzMTQ3M2MwZmI1OGRiOWVk`

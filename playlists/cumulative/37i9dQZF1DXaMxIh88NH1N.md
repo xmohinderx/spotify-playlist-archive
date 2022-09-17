@@ -4,7 +4,7 @@
 
 > Al cien con los corridos ¡Para un buen ejercicio!
 
-336 songs - 17 hr 18 min - [published](https://open.spotify.com/playlist/1DOweYuVVKrE9ujdDdWPfp)
+337 songs - 17 hr 21 min - [published](https://open.spotify.com/playlist/1DOweYuVVKrE9ujdDdWPfp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [El Mencho](https://open.spotify.com/track/0BKT1Ax1zwnpHkOxDvztS1) | [Grupo Renuente](https://open.spotify.com/artist/5XeyfGFfJRKI2nCtxjlZTE) | [El Mencho](https://open.spotify.com/album/5J4dl2J6TPSs9oYmPdfomH) | 2:14 | 2022-02-14 |  |
 | [El Mensaje](https://open.spotify.com/track/0kI4ECAdY6qItGhPa3TgJy) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [El Mensaje](https://open.spotify.com/album/4boHu426ldWkKuKjrDq4Mv) | 3:13 | 2022-02-14 |  |
 | [El Mes de Mayo](https://open.spotify.com/track/0Tgis2qMYPuHlfy51KzHkF) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Mes de Mayo](https://open.spotify.com/album/5bTElT6qrMfPRvHRkOLrpp) | 2:47 | 2022-02-14 | 2022-07-29 |
+| [El Mochomo](https://open.spotify.com/track/4I7UKv1Cg5Feote1cQHSEM) | [Los Canelos De Durango](https://open.spotify.com/artist/4XAsg7uclewySpdLcD81LJ) | [Celos del Viento y Corridos Impactantes](https://open.spotify.com/album/0taQnd9YyP7HL8nKc1buow) | 2:32 | 2022-06-10 |  |
 | [El Mochomo](https://open.spotify.com/track/4I7v9Wht7b1MlHaTQA0fD3) | [Los Canelos De Durango](https://open.spotify.com/artist/4XAsg7uclewySpdLcD81LJ) | [Más Impactantes](https://open.spotify.com/album/6n5t0vh961jJmlY8jivjw9) | 2:34 | 2022-02-14 | 2022-09-11 |
 | [El Monstro 7](https://open.spotify.com/track/21jEIOf3pXF1EOb9n0vZJf) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda Vol.2](https://open.spotify.com/album/4lPJVD5JmytPu0jnJAU7PS) | 3:22 | 2022-05-27 |  |
 | [El Morrillo](https://open.spotify.com/track/55w875DW7VyHwDAyK8h0tt) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu), [Lexis](https://open.spotify.com/artist/24tCinyw2ozAKBjWTLDTep) | [El Morrillo](https://open.spotify.com/album/0lLu8phIQOZm8PJ250JxLy) | 3:05 | 2022-05-27 | 2022-06-01 |
@@ -252,7 +253,7 @@
 | [Me Fui Del Penal](https://open.spotify.com/track/4EUolsqWvS17XfpnC8GeYg) | [Grupo 360](https://open.spotify.com/artist/2h9VgLswbVrXfdjW8UVqHC) | [Seguimos En El Juego](https://open.spotify.com/album/6MkGJgdEtxs3ruRqM2iT0R) | 3:34 | 2022-05-27 | 2022-09-13 |
 | [Me Metí En El Ruedo](https://open.spotify.com/track/7KNSQcLwrl3bNEuV1OVHtv) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Bélicos, Vol\. 2](https://open.spotify.com/album/5WWAwbRCM3CyiZNO9rsfWS) | 2:54 | 2022-02-14 |  |
 | [Me Metí En El Ruedo \(En Vivo\)](https://open.spotify.com/track/69fR39dr6KuJhBr6C9y7Vn) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Me Metí En El Ruedo \(En Vivo\)](https://open.spotify.com/album/0Nx0NCr9BmvR1UFjzZ5Jb2) | 2:54 | 2022-02-14 | 2022-07-29 |
-| [Me Va Bien](https://open.spotify.com/track/5DLtu45AngDmPhN8lQJx6A) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [Angel Tumbado](https://open.spotify.com/artist/6Vlv2tBpKw6ib5C7DHkOfq), [Uriel Gaxiola](https://open.spotify.com/artist/4fQPqLk2LwWrrc6OBMzXZj) | [Me Va Bien](https://open.spotify.com/album/6HNQJHvwkyjZJ156EyRepm) | 2:26 | 2022-05-27 |  |
+| [Me Va Bien](https://open.spotify.com/track/5DLtu45AngDmPhN8lQJx6A) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [Angel Tumbado](https://open.spotify.com/artist/6Vlv2tBpKw6ib5C7DHkOfq), [Uriel Gaxiola](https://open.spotify.com/artist/4fQPqLk2LwWrrc6OBMzXZj) | [Me Va Bien](https://open.spotify.com/album/6HNQJHvwkyjZJ156EyRepm) | 2:26 | 2022-05-27 | 2022-09-17 |
 | [Mente Positiva](https://open.spotify.com/track/3WQilym5Vi4ypxb70vx0eY) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Atrapado en un Sueño](https://open.spotify.com/album/4UmrKzDJX0agxs2VF9lkaF) | 3:12 | 2022-02-14 |  |
 | [Mi 45](https://open.spotify.com/track/4Q2xPu7B9e3PDnIUMXHw29) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Equipo Armado](https://open.spotify.com/album/1xTOE6MCUeSYrI62QrbJpt) | 2:31 | 2022-06-10 | 2022-07-20 |
 | [Mi Nueva Familia](https://open.spotify.com/track/4JNEp47KO7F69MjLt61J21) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Mi Nueva Familia](https://open.spotify.com/album/1PkLp7f8coVDklhVhEQSvS) | 2:55 | 2022-05-27 |  |

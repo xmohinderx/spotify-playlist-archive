@@ -4,7 +4,7 @@
 
 > Electronic music with caffeine.
 
-495 songs - 1 day 8 hr 12 min - [published](https://open.spotify.com/playlist/4yzYNda5nlPjjTxwWfgbGS)
+496 songs - 1 day 8 hr 15 min - [published](https://open.spotify.com/playlist/4yzYNda5nlPjjTxwWfgbGS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -438,6 +438,7 @@
 | [Take Me Away \- Edit](https://open.spotify.com/track/1YgJO76UTJIy4z5xOsqCgC) | [Bon Lui](https://open.spotify.com/artist/2NORrxtxRnvCca00Mb2CPg) | [Take Me Away \(Edit\)](https://open.spotify.com/album/5oEZBJrcsENQHwjiPkfGyV) | 2:59 | 2021-01-07 | 2021-01-15 |
 | [Tekapo \- Edit](https://open.spotify.com/track/7nvTywXHEfa4Kb6W9cUhqJ) | [Walter Woods](https://open.spotify.com/artist/1k1WrqbhNylomjfqZ0lq4D) | [Tekapo \(Edit\)](https://open.spotify.com/album/4M8lta7iSWNHxh7eHMpY8Y) | 2:28 | 2021-01-07 | 2022-04-15 |
 | [Telemagenta](https://open.spotify.com/track/6dIZ5m5HodQA0dv43zFbaQ) | [Mystic Maroon](https://open.spotify.com/artist/6OZYmsIeL1bCzCEgavYXXO) | [Telemagenta](https://open.spotify.com/album/1T42FTkfEl38GaONIK8qkh) | 3:02 | 2021-11-10 |  |
+| [Telescope](https://open.spotify.com/track/3daZM9Bj2Xh9oylPvXq2Ow) | [PZA BIANCO](https://open.spotify.com/artist/4AR6Ql1R3ElQIJB8ZnqggH) | [Telescope](https://open.spotify.com/album/17L1SqxSVbUQKyxZKVFbKt) | 2:46 | 2022-09-16 |  |
 | [Tell Myself](https://open.spotify.com/track/0v5CztUDsQmzQkpsp6DpcT) | [Col Lawton](https://open.spotify.com/artist/1KoBr4hgTMG3lPR353sNqm) | [Tell Myself](https://open.spotify.com/album/52DBSglKd7dgSizhwSIF93) | 6:44 | 2021-01-29 | 2021-02-12 |
 | [Textural](https://open.spotify.com/track/3Jf28CilrIK9DNjKJUJYVg) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX), [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE), [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs) | [Verbatim](https://open.spotify.com/album/7esDhF6HdN6Va3K6YXoBAB) | 2:26 | 2020-10-20\* | 2021-06-23 |
 | [That Feeling](https://open.spotify.com/track/3VidwztVBAJmMlkQHpokNV) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Blueblurry](https://open.spotify.com/album/36wHGtWT1IY7gHFC1QYdfw) | 4:34 | 2020-10-20\* | 2020-10-30 |

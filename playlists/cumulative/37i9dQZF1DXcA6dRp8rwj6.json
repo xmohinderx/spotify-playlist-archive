@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "The hottest Hip-Hop of today all over the world.  (Cover:  Big Sean)",
+  "description": "The hottest Hip-Hop of today all over the world.  (R.I.P. PnB Rock)",
   "name": "Beats & Rhymes",
   "published_playlist_ids": [
     "5iCL6Bkh9tey5devRFvQcq"
@@ -173,7 +173,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 182400,
       "name": "23 (with Sweet The Kid)",
       "url": "https://open.spotify.com/track/7p5e7s9VK9Xn08p1IMp0OP"
@@ -2069,7 +2069,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 176551,
       "name": "Blue",
       "url": "https://open.spotify.com/track/47wJ3E7U150odlv00y3Zxt"
@@ -2471,7 +2471,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 157261,
       "name": "Bullseye 2 (with Future)",
       "url": "https://open.spotify.com/track/1glNxnW018oGrJoYRHQV9Q"
@@ -2986,6 +2986,28 @@
     },
     {
       "album": {
+        "name": "City Lights",
+        "url": "https://open.spotify.com/album/1ERqcew3rdwwhaLQUPpOfp"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "Hash Swan",
+          "url": "https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229173,
+      "name": "City Lights (Feat. Hash Swan)",
+      "url": "https://open.spotify.com/track/02X3xsCCCtW0jwAXgvu5Mk"
+    },
+    {
+      "album": {
         "name": "B.I.B.L.E.",
         "url": "https://open.spotify.com/album/6np2Ix6RidhSseqw2dZovP"
       },
@@ -3313,7 +3335,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 173573,
       "name": "Crack",
       "url": "https://open.spotify.com/track/1kdiThPrcCVfd7OPuXi7qf"
@@ -5375,7 +5397,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 135600,
       "name": "Girls Back Home (Feat. Lee Young Ji)",
       "url": "https://open.spotify.com/track/4FJ3U3FHXPdIOSP6e1tQfb"
@@ -5813,7 +5835,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 145245,
       "name": "Haitian Scarface",
       "url": "https://open.spotify.com/track/6HW0HSK7j7FHeFlxqNdKR4"
@@ -7654,6 +7676,28 @@
     },
     {
       "album": {
+        "name": "Love In The Way",
+        "url": "https://open.spotify.com/album/4sc3Nc9o5sCni7SCPsKE4t"
+      },
+      "artists": [
+        {
+          "name": "BLEU",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221534,
+      "name": "Love In The Way",
+      "url": "https://open.spotify.com/track/3fWchdm3NfLb4licNeIhV7"
+    },
+    {
+      "album": {
         "name": "Love Like You",
         "url": "https://open.spotify.com/album/1omPIAZK12fqM3qxcwdfQK"
       },
@@ -8362,6 +8406,24 @@
     },
     {
       "album": {
+        "name": "Move",
+        "url": "https://open.spotify.com/album/1KaLxqjf1O9xnxS5Z3G1ga"
+      },
+      "artists": [
+        {
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196573,
+      "name": "Move",
+      "url": "https://open.spotify.com/track/5FoSDKPB0QufTlGbOBye0F"
+    },
+    {
+      "album": {
         "name": "MR. BAD",
         "url": "https://open.spotify.com/album/71KOTVJkEhbXVLNdZGKe9a"
       },
@@ -8461,7 +8523,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 198056,
       "name": "My G (feat. Ed Sheeran)",
       "url": "https://open.spotify.com/track/6Iqz3QB6zSdn1N61acinau"
@@ -8823,7 +8885,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 206626,
       "name": "Next Up (feat. Street Baby, Skinny Brown) (Prod. Lean$moke)",
       "url": "https://open.spotify.com/track/37ojGlXjGtZyzSPKYYTpcC"
@@ -11056,6 +11118,24 @@
     },
     {
       "album": {
+        "name": "sailormoonkicks!",
+        "url": "https://open.spotify.com/album/2jVVl98PpuQLcq4d9XNXEz"
+      },
+      "artists": [
+        {
+          "name": "Nhelson",
+          "url": "https://open.spotify.com/artist/5IcjBunAPqrymBPxDoCW21"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115567,
+      "name": "sailormoonkicks!",
+      "url": "https://open.spotify.com/track/3Kqekwxf2Uc2Nsvf5I3NUl"
+    },
+    {
+      "album": {
         "name": "DAFT LOVE",
         "url": "https://open.spotify.com/album/4SCzzeU2S6AyWEixWrvBjX"
       },
@@ -13105,7 +13185,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 625793,
       "name": "The Black Slim Shady",
       "url": "https://open.spotify.com/track/42DZT2eoL7rJBw21f3sb0h"
@@ -14418,6 +14498,24 @@
     },
     {
       "album": {
+        "name": "Walk/Spin",
+        "url": "https://open.spotify.com/album/54x77I85ZNITP0wvN07CVT"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166039,
+      "name": "Walk",
+      "url": "https://open.spotify.com/track/3wspfG772mi1c25JpnNOVP"
+    },
+    {
+      "album": {
         "name": "Walkin",
         "url": "https://open.spotify.com/album/71o4vJ8Jvn43iSqidJGDhO"
       },
@@ -15145,6 +15243,24 @@
       "duration_ms": 267173,
       "name": "Zipcodes",
       "url": "https://open.spotify.com/track/7klycPYjcy8FSQcIZTAVNy"
+    },
+    {
+      "album": {
+        "name": "BUT FOR NOW LEAVE ME ALONE",
+        "url": "https://open.spotify.com/album/5HUdhu9p2kVPQ8g56woOQn"
+      },
+      "artists": [
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184600,
+      "name": "ZOMBIES",
+      "url": "https://open.spotify.com/track/2Q1EVavjMH8XrRvHbVRTpc"
     },
     {
       "album": {

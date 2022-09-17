@@ -4,7 +4,7 @@
 
 > The jam scene is alive and well\. Cover: Papadosio
 
-67 songs - 6 hr 43 min - [published](https://open.spotify.com/playlist/1MZeQVXDEN8ttDWSeIbiNY)
+68 songs - 6 hr 50 min - [published](https://open.spotify.com/playlist/1MZeQVXDEN8ttDWSeIbiNY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Kitty Chaser \(Explosions\)](https://open.spotify.com/track/31prZotiPV46jh06xCTop4) | [Aqueous](https://open.spotify.com/artist/74d8upOdwQZyoDGXWEguMn) | [Cycles](https://open.spotify.com/album/2Q4TCChrfQOSkHoOj3bce1) | 9:39 | 2022-06-23 |  |
 | [Left Behind](https://open.spotify.com/track/160RJAfQ71LcES9hN06z3b) | [Bywater Call](https://open.spotify.com/artist/1bhk3AmtYKQAcDzbDyWG4M) | [Remain](https://open.spotify.com/album/6Ra2EYAa2ZUGMdFDOwPrgj) | 5:54 | 2022-09-02 |  |
 | [Lemon Haze](https://open.spotify.com/track/5xxDOqegRiTJ5n1LwePJx0) | [Frequilibrium](https://open.spotify.com/artist/0JNcTTdEYtUhOfoWdhRbXM) | [Frequilibrium](https://open.spotify.com/album/1iyratUHXjtigpYB9CWRI0) | 4:38 | 2022-06-23 | 2022-07-29 |
-| [Lessons](https://open.spotify.com/track/5iVNIJ2EE9JS7KVLxwWSFC) | [WIZRD](https://open.spotify.com/artist/1PJytjaK6elVRZ7ZI3u3lr) | [Lessons](https://open.spotify.com/album/3nTwX55ca9E75rrRXjbD27) | 4:10 | 2022-09-02 |  |
+| [Lessons](https://open.spotify.com/track/5iVNIJ2EE9JS7KVLxwWSFC) | [WIZRD](https://open.spotify.com/artist/1PJytjaK6elVRZ7ZI3u3lr) | [Lessons](https://open.spotify.com/album/3nTwX55ca9E75rrRXjbD27) | 4:10 | 2022-09-02 | 2022-09-17 |
 | [Lily's Tiger](https://open.spotify.com/track/1wEt9nM5wq2U5RNuWBxnyA) | [Great Blue](https://open.spotify.com/artist/1LlkBNUOz29oWc0IeX0lXc) | [Great Blue](https://open.spotify.com/album/3EuzVI8uESnKwlOOdh4wr6) | 4:57 | 2022-06-23 |  |
 | [Mcmansion](https://open.spotify.com/track/3bFDEWT2lFhBMM6cxcBEGY) | [The Trichomes](https://open.spotify.com/artist/0Z7aFWvcTx8NhWRUfTInfz) | [Jazz Cabbage Soiree](https://open.spotify.com/album/1eBGpVUNZptUK32L7YG2XO) | 7:51 | 2022-06-23 | 2022-07-25 |
 | [Mokuba](https://open.spotify.com/track/58Ge6PmTc9PfP0mK5GC8Mk) | [Tauk](https://open.spotify.com/artist/6qauwCj8W2mTcDGbyDGo6O) | [Collisions](https://open.spotify.com/album/0Hzx5qahFYpoxFlNz0iHrK) | 5:27 | 2022-06-23 |  |
@@ -71,6 +71,7 @@
 | [The Road](https://open.spotify.com/track/3F2SdHEBSOZZPDKfkiP0k8) | [Backup Planet](https://open.spotify.com/artist/1Jc3wYtJwv8KMbo3Ct7aLD) | [Element](https://open.spotify.com/album/1M8jFuVLqJOlqYtOv1cdAI) | 7:13 | 2022-06-23 | 2022-08-27 |
 | [The World Is A Ghetto](https://open.spotify.com/track/5yiEFVz2RhuNvi9msiw3oI) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [Native Sons](https://open.spotify.com/album/2AH53pDM2S1jAggLLAueAM) | 8:33 | 2022-06-23 |  |
 | [Time Dilates](https://open.spotify.com/track/2rGANn1EnbCGUC0oftuwW9) | [Lotus ](https://open.spotify.com/artist/1a4N2lwra7WGjwCDJS1Dkk) | [Time Dilates](https://open.spotify.com/album/6fPbxh0gX0GZl4Ppy8pJ29) | 5:21 | 2022-08-26 |  |
+| [Trouble Overnight](https://open.spotify.com/track/6QOm9noD8jybvD4dKGrHM4) | [Zach Nugent](https://open.spotify.com/artist/3h9hfCvOqWdPszABGZmPUn) | [Trouble Overnight](https://open.spotify.com/album/38F1jSais8Vxq0qpKiQQle) | 6:48 | 2022-09-16 |  |
 | [Tumbleweed](https://open.spotify.com/track/1DWPCV6sKNGnzn4ypzDIcm) | [Big Something](https://open.spotify.com/artist/3kzqfNqrlEwieWGqRFiQso) | [Tumbleweed](https://open.spotify.com/album/0Wdd7IhlwI1uGNIeJayzM4) | 6:40 | 2022-06-23 |  |
 | [What'cha Gonna Do](https://open.spotify.com/track/54LhVzJOJxT2S6Nl30wPBs) | [Skyfoot](https://open.spotify.com/artist/5Igs9PLJ9qlRa627kIjTH0) | [What'cha Gonna Do](https://open.spotify.com/album/6aHGit3gxe7m5iSlbAi6vD) | 5:46 | 2022-06-23 | 2022-09-03 |
 | [Whiskey](https://open.spotify.com/track/3q4QhuBKrbdBw55m1JC2T0) | [The Jauntee](https://open.spotify.com/artist/79iSQLNRiPa93oo3yYxAmN) | [Enjoy the Ride](https://open.spotify.com/album/5CfoFSPM4KCVjS6MbIEDZr) | 3:20 | 2022-06-23 | 2022-07-29 |

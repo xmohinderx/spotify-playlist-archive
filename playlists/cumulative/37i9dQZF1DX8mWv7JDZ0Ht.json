@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-27",
-  "description": "Sucessos e novidades do pop calminho pra relaxar o seu dia! Foto: Priscilla Alcantara, Vitor Kley",
+  "description": "Sucessos e novidades do pop calminho pra relaxar o seu dia! Foto: Sandy, Ludmilla\n",
   "name": "Pop Leve",
   "published_playlist_ids": [
     "5tkcffSh1F75PZZSEVmuv8"
@@ -975,7 +975,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 229786,
       "name": "Desapaixonar",
       "url": "https://open.spotify.com/track/4GL2GTaFhPInsjmhNMSFd9"
@@ -1805,6 +1805,24 @@
       "duration_ms": 213351,
       "name": "Miragem",
       "url": "https://open.spotify.com/track/23hHJyj6LwcJtzvu9vVhZT"
+    },
+    {
+      "album": {
+        "name": "Aquino e a Orquestra Invis\u00edvel",
+        "url": "https://open.spotify.com/album/39FjAAoFhZFSZhyl63dlqe"
+      },
+      "artists": [
+        {
+          "name": "Aquino e a Orquestra Invis\u00edvel",
+          "url": "https://open.spotify.com/artist/52fjZORhR21B9pR9kORRTA"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173880,
+      "name": "MTV",
+      "url": "https://open.spotify.com/track/33fnVp55zYGLfhWBgl2j9O"
     },
     {
       "album": {
@@ -2867,6 +2885,28 @@
       "duration_ms": 171642,
       "name": "Voc\u00ea Me Acertou",
       "url": "https://open.spotify.com/track/77SQvL1cG5KLshO822Xkct"
+    },
+    {
+      "album": {
+        "name": "Voltar Pra Mim",
+        "url": "https://open.spotify.com/album/4Am10gzo9ekcZjZODwUxsY"
+      },
+      "artists": [
+        {
+          "name": "Sandy",
+          "url": "https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192857,
+      "name": "Voltar Pra Mim",
+      "url": "https://open.spotify.com/track/2WNQken5d0Po7nHkv2xTKR"
     },
     {
       "album": {

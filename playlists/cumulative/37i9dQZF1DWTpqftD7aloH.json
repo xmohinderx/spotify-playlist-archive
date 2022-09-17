@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-09-15",
   "description": "No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo.",
   "name": "Louvando no Tr\u00e2nsito",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "66Rf5KyLWIyP5JnY8b9KB3"
+  ],
   "tracks": [
     {
       "album": {
@@ -115,7 +117,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 348364,
       "name": "Aba - Ao Vivo",
       "url": "https://open.spotify.com/track/5zfFRWu8IjmH6g84pBOHbO"
@@ -1877,6 +1879,24 @@
       "duration_ms": 285624,
       "name": "Vai Passar - Ac\u00fastico",
       "url": "https://open.spotify.com/track/1hFe34pro0Dt4a74njqOhB"
+    },
+    {
+      "album": {
+        "name": "Pra que outros possam viver",
+        "url": "https://open.spotify.com/album/0hPCxbrJbUeArwhQpBbq2h"
+      },
+      "artists": [
+        {
+          "name": "Juliano Son",
+          "url": "https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386560,
+      "name": "Vai Valer a Pena",
+      "url": "https://open.spotify.com/track/7fzImqefMkagp3jEeKtdVy"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Finest collection of Tamil Music from the past 5 years<br/>Cover : Vendhu Thanindhathu Kaadu
 
-105 songs - 6 hr 56 min - [published](https://open.spotify.com/playlist/69GF5UsinX4QRifDXRVvJk)
+106 songs - 7 hr 0 min - [published](https://open.spotify.com/playlist/69GF5UsinX4QRifDXRVvJk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Kurumugil](https://open.spotify.com/track/1xtlT8C62HToUvB0xmwvyi) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [Sai Vignesh](https://open.spotify.com/artist/3cGZqGPKhq8ChGYotV0mlS) | [Sita Ramam \(Tamil\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/61k6yRsDzYJwMQWsaZV2Q9) | 3:38 | 2022-09-14 |  |
 | [Life of Pazham \(From "Thiruchitrambalam"\)](https://open.spotify.com/track/6A6mDExVoAEJmc5JyVSQeK) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Life of Pazham \(From "Thiruchitrambalam"\)](https://open.spotify.com/album/5jZCyxy9WjBt4EjVaX6akb) | 3:54 | 2022-08-24 |  |
 | [Lokiverse \- Background Score](https://open.spotify.com/track/209pScL6fUhISxcLWkB6rf) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 2:36 | 2022-07-13 |  |
+| [Mallipoo](https://open.spotify.com/track/3i7qScF9Oyp31O9bAutJez) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Madhushree](https://open.spotify.com/artist/1EKK9k0IAwV1oeJfZITSYo) | [Vendhu Thanindhathu Kaadu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6ID1od4fd4L19s7ZjoCeW4) | 4:05 | 2022-09-16 |  |
 | [Mangalyam](https://open.spotify.com/track/7n5Jcqw85WSfJHrMXsk5N2) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Silambarasan TR](https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS), [Roshini JKV](https://open.spotify.com/artist/5e7jC00VGhxRpK5f9ahXhX) | [Eeswaran \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/01o6a3aUODtx67UiWJnABf) | 4:20 | 2022-01-04 | 2022-08-10 |
 | [Marakkuma Nenjam \- From "Vendhu Thanindhathu Kaadu"](https://open.spotify.com/track/4Jr0O3zgoKEk71sIlABkLp) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Thamarai](https://open.spotify.com/artist/6z3KmBBSYseegqLrRZXZxe) | [Marakkuma Nenjam \(From "Vendhu Thanindhathu Kaadu"\)](https://open.spotify.com/album/27abynwxVqQdw5HxC54tHJ) | 4:18 | 2022-09-05 |  |
 | [Maruvaarthai](https://open.spotify.com/track/6A79kP682lpUXnwcl5575F) | [Darbuka Siva](https://open.spotify.com/artist/5t97rjifUl8d4HNwSzbCv9), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Enai Noki Paayum Thota \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/45bGofpPXb9IrX5gpp9Lgx) | 5:56 | 2022-01-04 | 2022-07-14 |

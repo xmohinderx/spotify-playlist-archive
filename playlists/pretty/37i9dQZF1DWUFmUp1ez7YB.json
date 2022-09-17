@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Quiero Salsa, dame Salsa! Foto: Marc Anthony",
-  "num_followers": 310784,
+  "num_followers": 311197,
   "original_name": "Dame Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ1NzI5NSwwMDAwMDAwMDliOGVmZWZhZmEyNmIxOGJiYTFiMmYxYjQ3MjQyODU0",
+  "snapshot_id": "MTY1OTQ1NzI5NSwwMDAwMDAwMGYyMTBhMDk3YWNkY2ZjOTZjYzk5ZWIwYTljNTBkZDJj",
   "tracks": [
     {
       "added_at": "2022-08-02 16:21:34",
@@ -435,22 +435,6 @@
     {
       "added_at": "2022-08-02 16:21:34",
       "album": {
-        "name": "Lo Esencial",
-        "url": "https://open.spotify.com/album/0xgbPkhH5Hvuqa0hBGjpj3"
-      },
-      "artists": [
-        {
-          "name": "DLG",
-          "url": "https://open.spotify.com/artist/0z0w28IvsF1gsKhVAMbh9p"
-        }
-      ],
-      "duration_ms": 302320,
-      "name": "La Quiero A Morir",
-      "url": "https://open.spotify.com/track/3rsVX2Pd8UkjqF2MAZqeif"
-    },
-    {
-      "added_at": "2022-08-02 16:21:34",
-      "album": {
         "name": "Fabricando Fantas\u00edas",
         "url": "https://open.spotify.com/album/3Gxrf8cYKgle42MdOOxqu8"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 272266,
       "name": "Fabricando Fantas\u00edas - Salsa Version",
       "url": "https://open.spotify.com/track/5bkWgrKyNhMcriQP3CrHEA"
+    },
+    {
+      "added_at": "2022-08-02 16:21:34",
+      "album": {
+        "name": "Lo Esencial",
+        "url": "https://open.spotify.com/album/0xgbPkhH5Hvuqa0hBGjpj3"
+      },
+      "artists": [
+        {
+          "name": "DLG",
+          "url": "https://open.spotify.com/artist/0z0w28IvsF1gsKhVAMbh9p"
+        }
+      ],
+      "duration_ms": 302320,
+      "name": "La Quiero A Morir",
+      "url": "https://open.spotify.com/track/3rsVX2Pd8UkjqF2MAZqeif"
     },
     {
       "added_at": "2022-08-02 16:21:34",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2022-08-02 16:21:34",
       "album": {
-        "name": "Esto Fu\u00e9 Lo Que Trajo El Barco",
-        "url": "https://open.spotify.com/album/5EPIgQStd9oMGLf6BIgSEf"
-      },
-      "artists": [
-        {
-          "name": "Ismael Rivera",
-          "url": "https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ"
-        }
-      ],
-      "duration_ms": 214320,
-      "name": "Dime Por Qu\u00e9",
-      "url": "https://open.spotify.com/track/2sw9MhaAR1tOLIzmMwyU4Y"
-    },
-    {
-      "added_at": "2022-08-02 16:21:34",
-      "album": {
         "name": "La-33",
         "url": "https://open.spotify.com/album/38sJtIZtuLAMfphGWBtHSt"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 285546,
       "name": "Soledad",
       "url": "https://open.spotify.com/track/3bpqoOSDwdaK003DPMvDJQ"
+    },
+    {
+      "added_at": "2022-08-02 16:21:34",
+      "album": {
+        "name": "Esto Fu\u00e9 Lo Que Trajo El Barco",
+        "url": "https://open.spotify.com/album/5EPIgQStd9oMGLf6BIgSEf"
+      },
+      "artists": [
+        {
+          "name": "Ismael Rivera",
+          "url": "https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ"
+        }
+      ],
+      "duration_ms": 214320,
+      "name": "Dime Por Qu\u00e9",
+      "url": "https://open.spotify.com/track/2sw9MhaAR1tOLIzmMwyU4Y"
     },
     {
       "added_at": "2022-08-02 16:21:34",

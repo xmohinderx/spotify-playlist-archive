@@ -4,7 +4,7 @@
 
 > This is MILOŠ\. The essential tracks, all in one playlist.
 
-133 songs - 8 hr 47 min - [published](https://open.spotify.com/playlist/57Tzrtx4jHxJk32TpJwQHo)
+134 songs - 8 hr 50 min - [published](https://open.spotify.com/playlist/57Tzrtx4jHxJk32TpJwQHo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [Besame mucho](https://open.spotify.com/track/2MZzby1632wlzMSimTRSKg) | [Consuelo Velázquez](https://open.spotify.com/artist/3LXU2rvQWxMGvbmnoAqRMU), [Miloš Karadaglić](https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4) | [Latino Gold](https://open.spotify.com/album/4Psjj0vm9diuPFGJCXX3fg) | 3:28 | 2021-04-23 | 2022-07-29 |
 | [Blackbird](https://open.spotify.com/track/2ZyU8CQHDDiI8MPfJh9k6R) | [Miloš Karadaglić](https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4) | [Blackbird \- The Beatles Album](https://open.spotify.com/album/4fJbW2aN9c9zSN8qWVEcWe) | 2:32 | 2021-04-23 |  |
 | [Bolero](https://open.spotify.com/track/5QuZbNBmeevHkDljUXQSoe) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Miloš Karadaglić](https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4) | [Latino Gold](https://open.spotify.com/album/4Psjj0vm9diuPFGJCXX3fg) | 3:02 | 2021-04-23 | 2022-07-29 |
-| [Bolero](https://open.spotify.com/track/7vXo0cZeJ7KVwQVU1AAUUt) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Miloš Karadaglić](https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4) | [Canción](https://open.spotify.com/album/6yvrS8yYXlTIyUBxyBP7Yy) | 3:02 | 2021-04-23 |  |
+| [Bolero](https://open.spotify.com/track/41ZcfzXUQs6juxswiZ6GqT) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Miloš Karadaglić](https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4) | [Ravel: Classical Creations](https://open.spotify.com/album/4rKQ7b27v4d3KCz72mubGx) | 3:02 | 2021-04-23 |  |
+| [Bolero](https://open.spotify.com/track/7vXo0cZeJ7KVwQVU1AAUUt) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Miloš Karadaglić](https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4) | [Canción](https://open.spotify.com/album/6yvrS8yYXlTIyUBxyBP7Yy) | 3:02 | 2021-04-23 | 2022-09-17 |
 | [Canción de Cuna \(Berceuse\) \- Leo Brouwer](https://open.spotify.com/track/0bf7rlm39EQaplXzpRcEhS) | [Miloš Karadaglić](https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4) | [Sound Of Silence](https://open.spotify.com/album/4Q7bymRWchAbS8vUKMlqt3) | 3:22 | 2021-04-23 |  |
 | [Capricho Arabe Serenata](https://open.spotify.com/track/4t6AHXyr1CycjVcafJjpML) | [Francisco Tárrega](https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t), [Miloš Karadaglić](https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4) | [Mediterráneo](https://open.spotify.com/album/59wykB5aKaXRudvU8VTo6h) | 5:39 | 2021-04-23 | 2022-07-29 |
 | [Capricho Arabe Serenata](https://open.spotify.com/track/7kNp76YlROUXje9Uvl6FPG) | [Francisco Tárrega](https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t), [Miloš Karadaglić](https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4) | [Mediterráneo](https://open.spotify.com/album/4LRKRHpmuGqsKeLwARyTHy) | 5:39 | 2021-04-23 |  |

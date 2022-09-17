@@ -2198,6 +2198,24 @@
     },
     {
       "album": {
+        "name": "Mr. Sun",
+        "url": "https://open.spotify.com/album/1zb7kVc7JA7ew7OIdj0wOB"
+      },
+      "artists": [
+        {
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233826,
+      "name": "Three Whiskeys And The Truth",
+      "url": "https://open.spotify.com/track/2PMtsOOk1JD7yGT7E1ZK6Q"
+    },
+    {
+      "album": {
         "name": "The Weight of These Wings",
         "url": "https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG"
       },
@@ -2281,7 +2299,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 176087,
       "name": "Villain",
       "url": "https://open.spotify.com/track/6PXUv7YuTC2Ua1rowd9Uql"

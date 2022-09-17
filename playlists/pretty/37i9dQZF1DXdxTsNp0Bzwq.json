@@ -1,12 +1,12 @@
 {
   "description": "Turn up for the big game!",
-  "num_followers": 564815,
+  "num_followers": 564972,
   "original_name": "Gameday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA5MTI2MCwwMDAwMDAwMGE4YTc2N2MzZWY0NjA4M2Q0NjY4YzA0YmRiZmExZWRk",
+  "snapshot_id": "MTY2MjA5MTI2MCwwMDAwMDAwMDEzZDQ0ODk0NmI0YjUwN2ViYTllZTFjNzkwYmQ5ZmNl",
   "tracks": [
     {
       "added_at": "2022-09-02 04:01:00",
@@ -135,6 +135,22 @@
     {
       "added_at": "2022-09-02 04:01:00",
       "album": {
+        "name": "Hall of Fame",
+        "url": "https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "duration_ms": 165925,
+      "name": "RAPSTAR",
+      "url": "https://open.spotify.com/track/18vXApRmJSgQ6wG2ll9AOg"
+    },
+    {
+      "added_at": "2022-09-02 04:01:00",
+      "album": {
         "name": "Cash In Cash Out",
         "url": "https://open.spotify.com/album/4YV8SurDnk8sctOOZzYtbH"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 216135,
       "name": "Cash In Cash Out",
       "url": "https://open.spotify.com/track/3S68RFe1lsdCdTMPIMJM3X"
-    },
-    {
-      "added_at": "2022-09-02 04:01:00",
-      "album": {
-        "name": "Hall of Fame",
-        "url": "https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT"
-      },
-      "artists": [
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        }
-      ],
-      "duration_ms": 165925,
-      "name": "RAPSTAR",
-      "url": "https://open.spotify.com/track/18vXApRmJSgQ6wG2ll9AOg"
     },
     {
       "added_at": "2022-09-02 04:01:00",
@@ -383,26 +383,6 @@
     {
       "added_at": "2022-09-02 04:01:00",
       "album": {
-        "name": "Sleazy Flow (Remix)",
-        "url": "https://open.spotify.com/album/4N1yQmAeHbswH8jbcRnsEG"
-      },
-      "artists": [
-        {
-          "name": "SleazyWorld Go",
-          "url": "https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 161355,
-      "name": "Sleazy Flow (with Lil Baby) - Remix",
-      "url": "https://open.spotify.com/track/5cx7vkF8BQ0iOsVpfvZbnz"
-    },
-    {
-      "added_at": "2022-09-02 04:01:00",
-      "album": {
         "name": "SAVAGE MODE II",
         "url": "https://open.spotify.com/album/6wTyGUWGCilBFZ837k5aRi"
       },
@@ -419,6 +399,26 @@
       "duration_ms": 195906,
       "name": "Runnin",
       "url": "https://open.spotify.com/track/5SWnsxjhdcEDc7LJjq9UHk"
+    },
+    {
+      "added_at": "2022-09-02 04:01:00",
+      "album": {
+        "name": "Sleazy Flow (Remix)",
+        "url": "https://open.spotify.com/album/4N1yQmAeHbswH8jbcRnsEG"
+      },
+      "artists": [
+        {
+          "name": "SleazyWorld Go",
+          "url": "https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 161355,
+      "name": "Sleazy Flow (with Lil Baby) - Remix",
+      "url": "https://open.spotify.com/track/5cx7vkF8BQ0iOsVpfvZbnz"
     },
     {
       "added_at": "2022-09-02 04:01:00",

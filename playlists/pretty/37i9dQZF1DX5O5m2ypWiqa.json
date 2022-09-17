@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Y qu\u00e9 retumbe la bandona, pariente! Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda en portada. ",
-  "num_followers": 1481921,
+  "num_followers": 1482694,
   "original_name": "Cl\u00e1sicas de Banda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODE4NTAwOCwwMDAwMDAwMDEyOTJmM2YzN2YyNjRjNTFhNTA0YTlmMzkzMmQwMjQ4",
+  "snapshot_id": "MTY1ODE4NTAwOCwwMDAwMDAwMGNlOWQ1YTQzZjIzNjE3YjAzOGVkYWRmY2M0MWY1NmIx",
   "tracks": [
     {
       "added_at": "2022-06-20 21:21:51",
@@ -351,22 +351,6 @@
     {
       "added_at": "2021-12-09 18:03:27",
       "album": {
-        "name": "La Mejor De Todas",
-        "url": "https://open.spotify.com/album/6YeSYcQwO0BYw0bABVuGKW"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "La Mejor De Todas",
-      "url": "https://open.spotify.com/track/1F6BAyY4iIzHiZCnUIZDbn"
-    },
-    {
-      "added_at": "2021-12-09 18:03:27",
-      "album": {
         "name": "De Monterrey a Sinaloa",
         "url": "https://open.spotify.com/album/1RVvXaNvZedvPDVQfozH1I"
       },
@@ -383,18 +367,34 @@
     {
       "added_at": "2021-12-09 18:03:27",
       "album": {
-        "name": "Un Cantautor Con Alma de Triunfador",
-        "url": "https://open.spotify.com/album/4g2vkEYYuBVP72ZHbcxnU2"
+        "name": "La Mejor De Todas",
+        "url": "https://open.spotify.com/album/6YeSYcQwO0BYw0bABVuGKW"
       },
       "artists": [
         {
-          "name": "Mariano Barba",
-          "url": "https://open.spotify.com/artist/0UOSIKhi6uZP7SVEJKYRMo"
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
         }
       ],
-      "duration_ms": 272920,
-      "name": "Aliado Del Tiempo",
-      "url": "https://open.spotify.com/track/1rEdvfLrkCB4RqxI8D6ZNR"
+      "duration_ms": 207000,
+      "name": "La Mejor De Todas",
+      "url": "https://open.spotify.com/track/1F6BAyY4iIzHiZCnUIZDbn"
+    },
+    {
+      "added_at": "2021-12-09 18:03:27",
+      "album": {
+        "name": "\u00bfQui\u00e9n Es Usted?",
+        "url": "https://open.spotify.com/album/3NoapLHvTH6AlaSczk2e3o"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 213280,
+      "name": "Qui\u00e9n Es Usted",
+      "url": "https://open.spotify.com/track/4lac6b0JIjh4hQiW9IGKea"
     },
     {
       "added_at": "2021-12-09 18:03:27",
@@ -415,18 +415,18 @@
     {
       "added_at": "2021-12-09 18:03:27",
       "album": {
-        "name": "\u00bfQui\u00e9n Es Usted?",
-        "url": "https://open.spotify.com/album/3NoapLHvTH6AlaSczk2e3o"
+        "name": "Un Cantautor Con Alma de Triunfador",
+        "url": "https://open.spotify.com/album/4g2vkEYYuBVP72ZHbcxnU2"
       },
       "artists": [
         {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+          "name": "Mariano Barba",
+          "url": "https://open.spotify.com/artist/0UOSIKhi6uZP7SVEJKYRMo"
         }
       ],
-      "duration_ms": 213280,
-      "name": "Qui\u00e9n Es Usted",
-      "url": "https://open.spotify.com/track/4lac6b0JIjh4hQiW9IGKea"
+      "duration_ms": 272920,
+      "name": "Aliado Del Tiempo",
+      "url": "https://open.spotify.com/track/1rEdvfLrkCB4RqxI8D6ZNR"
     },
     {
       "added_at": "2021-12-09 18:03:27",
@@ -495,6 +495,22 @@
     {
       "added_at": "2021-12-09 18:03:27",
       "album": {
+        "name": "Me Gusta Estar Contigo",
+        "url": "https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 220586,
+      "name": "Due\u00f1o de Ti",
+      "url": "https://open.spotify.com/track/7j9iuJvGg8Ve2O20CO8Oho"
+    },
+    {
+      "added_at": "2021-12-09 18:03:27",
+      "album": {
         "name": "Cada Vez Te Extra\u00f1o M\u00e1s",
         "url": "https://open.spotify.com/album/6VmAsJkmfT8qjXbJH5QOQN"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 250160,
       "name": "Una Noche Mas Contigo",
       "url": "https://open.spotify.com/track/0kOTspv4AkZbfUDcsPI6I9"
-    },
-    {
-      "added_at": "2021-12-09 18:03:27",
-      "album": {
-        "name": "Me Gusta Estar Contigo",
-        "url": "https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 220586,
-      "name": "Due\u00f1o de Ti",
-      "url": "https://open.spotify.com/track/7j9iuJvGg8Ve2O20CO8Oho"
     },
     {
       "added_at": "2022-06-20 21:21:51",
@@ -923,18 +923,18 @@
     {
       "added_at": "2021-12-09 18:03:27",
       "album": {
-        "name": "Dany, Te Dedico Esta Canci\u00f3n Con Todo Mi Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/5Zm6BtWH4CgLV83H2nWBsL"
+        "name": "Yo No Canto Pero Lo Intentamos",
+        "url": "https://open.spotify.com/album/3M0CcOWFI6hwxNB8gr03hm"
       },
       "artists": [
         {
-          "name": "Banda Sinaloense MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/6Y6rrQjzcZhaM4RXusI8UP"
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
         }
       ],
-      "duration_ms": 209906,
-      "name": "Mi Raz\u00f3n De Ser",
-      "url": "https://open.spotify.com/track/7EDEbNBsxgsTOfrOifN37a"
+      "duration_ms": 197122,
+      "name": "Lo Intentamos",
+      "url": "https://open.spotify.com/track/0TE6IiCnzQdFTwnWZ84JOq"
     },
     {
       "added_at": "2021-12-09 18:03:27",
@@ -955,18 +955,18 @@
     {
       "added_at": "2021-12-09 18:03:27",
       "album": {
-        "name": "Yo No Canto Pero Lo Intentamos",
-        "url": "https://open.spotify.com/album/3M0CcOWFI6hwxNB8gr03hm"
+        "name": "Dany, Te Dedico Esta Canci\u00f3n Con Todo Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/5Zm6BtWH4CgLV83H2nWBsL"
       },
       "artists": [
         {
-          "name": "Espinoza Paz",
-          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+          "name": "Banda Sinaloense MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/6Y6rrQjzcZhaM4RXusI8UP"
         }
       ],
-      "duration_ms": 197122,
-      "name": "Lo Intentamos",
-      "url": "https://open.spotify.com/track/0TE6IiCnzQdFTwnWZ84JOq"
+      "duration_ms": 209906,
+      "name": "Mi Raz\u00f3n De Ser",
+      "url": "https://open.spotify.com/track/7EDEbNBsxgsTOfrOifN37a"
     },
     {
       "added_at": "2021-12-09 18:03:27",
@@ -1389,22 +1389,6 @@
       "url": "https://open.spotify.com/track/2uEqb2TEV29ktnJl8DyObt"
     },
     {
-      "added_at": "2022-01-20 23:03:47",
-      "album": {
-        "name": "El Malo",
-        "url": "https://open.spotify.com/album/4fvBzXczcpD346IFgtWnaI"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 161944,
-      "name": "Un Pinchi Beso",
-      "url": "https://open.spotify.com/track/0Z5AEusPk1YNrBXj0vIn5b"
-    },
-    {
       "added_at": "2021-12-09 18:03:27",
       "album": {
         "name": "Disfrut\u00e9 Enga\u00f1arte",
@@ -1419,6 +1403,22 @@
       "duration_ms": 197066,
       "name": "Hombre Libre",
       "url": "https://open.spotify.com/track/6K9EwMrbfVGN6p7LrQW42e"
+    },
+    {
+      "added_at": "2022-01-20 23:03:47",
+      "album": {
+        "name": "El Malo",
+        "url": "https://open.spotify.com/album/4fvBzXczcpD346IFgtWnaI"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 161944,
+      "name": "Un Pinchi Beso",
+      "url": "https://open.spotify.com/track/0Z5AEusPk1YNrBXj0vIn5b"
     },
     {
       "added_at": "2021-12-09 18:03:27",

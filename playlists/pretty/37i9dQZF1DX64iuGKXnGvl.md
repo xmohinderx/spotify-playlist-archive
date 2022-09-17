@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64iuGKXnGvl.md) - [plain]
 
 > Lo mejor del pop en español en la década de los 80.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,475 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,600 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64iuGKXnGvl.md) - [plain]
 | 17 | [Querida](https://open.spotify.com/track/5ySxlyvySBhIEvoO2xx7uT) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Recuerdos II](https://open.spotify.com/album/1xrQ48Vvnvm3SmAbnIukGt) | 5:28 |
 | 18 | [Yo no te pido la luna \(Non voglio mica la luna\)](https://open.spotify.com/track/09uE7kHv2ESkvtInKugpGM) | [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y) | [Amor prohibido](https://open.spotify.com/album/6rV8qvncvelhF14cffRfun) | 3:56 |
 | 19 | [Sera Porque Te Amo](https://open.spotify.com/track/04Xdk7F9HgyHBcAwO7KE3F) | [Ricchi E Poveri](https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv) | [Exclusive Ricchi E Poveri \- 15 Exitos](https://open.spotify.com/album/3MfTllqbkiNWZuaxoenGhC) | 3:10 |
-| 20 | [A quién le importa](https://open.spotify.com/track/7Eb5AYiiGWItBNddlmxvnh) | [Alaska Y Dinarama](https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh) | [No Es Pecado \-Remasters](https://open.spotify.com/album/4WVr9fj0yFPIUbyb9tjOQh) | 3:25 |
+| 20 | [Te Amo](https://open.spotify.com/track/3vxsXUUU9jUJrGNP4APtj3) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Al Norte Del Sur](https://open.spotify.com/album/6i3LZIVP1qEDdN6UM3zK3W) | 3:47 |
 | 21 | [La Fuerza del Destino](https://open.spotify.com/track/0fKqhLgg5CYEW2fLlhtWRj) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [Descanso Dominical \(Bonus Tracks Edition\)](https://open.spotify.com/album/5E4nBdPPUynTOEOG7Lj4yA) | 5:11 |
-| 22 | [Te Amo](https://open.spotify.com/track/3vxsXUUU9jUJrGNP4APtj3) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Al Norte Del Sur](https://open.spotify.com/album/6i3LZIVP1qEDdN6UM3zK3W) | 3:47 |
+| 22 | [A quién le importa](https://open.spotify.com/track/7Eb5AYiiGWItBNddlmxvnh) | [Alaska Y Dinarama](https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh) | [No Es Pecado \-Remasters](https://open.spotify.com/album/4WVr9fj0yFPIUbyb9tjOQh) | 3:25 |
 | 23 | [¡Oh Mamá! Ella Me Ha Besado](https://open.spotify.com/track/5tQj4QVkWpb0EqfpVaOYBk) | [Pablo Ruiz](https://open.spotify.com/artist/5BLxach4cxTAK3Pg0Nu2r2) | [Un Angel](https://open.spotify.com/album/3KRX9wsF1xs0BaIQldrhp2) | 3:31 |
 | 24 | [Si No Es Ahora](https://open.spotify.com/track/1SugSbcbW78x4VAgixwiG0) | [Timbiriche](https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO) | [Timbiriche 7](https://open.spotify.com/album/5srfo2XTGJPW9EAiky3TdM) | 3:53 |
 | 25 | [Sueños Compartidos](https://open.spotify.com/track/70ZDTO70VvcVBQB3ibtP3m) | [Laureano Brizuela](https://open.spotify.com/artist/5388C04OP0Fc6xqbvct7kv) | [El Angel Del Rock Vol\. 2](https://open.spotify.com/album/5ym9ffMyvW91QBixRrcS9x) | 4:14 |
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64iuGKXnGvl.md) - [plain]
 | 29 | [Tan Enamorados \(Nina Bonita\)](https://open.spotify.com/track/5s1iyXPMky0HrAgVViB1L9) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Haciendo Camino](https://open.spotify.com/album/5bnl9ilE3a6GjeIJa662dz) | 4:12 |
 | 30 | [Louis](https://open.spotify.com/track/4yK3AVfdhq9SqCzuLJwYOW) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Al Norte Del Sur](https://open.spotify.com/album/6i3LZIVP1qEDdN6UM3zK3W) | 5:09 |
 | 31 | [Amante Bandido](https://open.spotify.com/track/1wJneaMg40pI9qxGXPxG9X) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Bravo Bosé \- 30 Grandes Exitos](https://open.spotify.com/album/2CGUVc0znuuZlW0pAAk4aS) | 4:23 |
-| 32 | [Cuéntame](https://open.spotify.com/track/1T1nYfU115UL2LhwTMyWr6) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Cuéntame](https://open.spotify.com/album/7eGbFOJExPRkAsDQCeThFc) | 3:35 |
+| 32 | [Rueda Mi Mente](https://open.spotify.com/track/6lqiIrjtFMYjYRCpHMJFzG) | [Sasha](https://open.spotify.com/artist/3cVANA4xg8pLvSvg943xCU) | [Sasha](https://open.spotify.com/album/30qYT3ZFG5YyodUxuEXcNh) | 3:07 |
 | 33 | [Tú Y Yo Somos Uno Mismo](https://open.spotify.com/track/1K7bwHdwsTjt9YiNmiib0P) | [Timbiriche](https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO) | [Timbiriche 8](https://open.spotify.com/album/5MlF6ZpIIpoNYY7S9SKKxU) | 4:20 |
-| 34 | [Rueda Mi Mente](https://open.spotify.com/track/6lqiIrjtFMYjYRCpHMJFzG) | [Sasha](https://open.spotify.com/artist/3cVANA4xg8pLvSvg943xCU) | [Sasha](https://open.spotify.com/album/30qYT3ZFG5YyodUxuEXcNh) | 3:07 |
+| 34 | [Cuéntame](https://open.spotify.com/track/1T1nYfU115UL2LhwTMyWr6) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Cuéntame](https://open.spotify.com/album/7eGbFOJExPRkAsDQCeThFc) | 3:35 |
 | 35 | [Me Colé en una Fiesta](https://open.spotify.com/track/170mnGhvEfUmWMuwfhCKaU) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [Mecano](https://open.spotify.com/album/1OWPlRO2vf9QFXqw4uPy8D) | 4:16 |
 | 36 | [No Controles](https://open.spotify.com/track/19guCNWcPMOzwRN44FmpDb) | [Flans](https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT) | [Flans](https://open.spotify.com/album/1otqQgjwtYN6jQR61jaE4A) | 3:28 |
 | 37 | [Claridad](https://open.spotify.com/track/2Rh8bcrw6tt8wrRM8NljN0) | [Menudo](https://open.spotify.com/artist/3Edq1eT7m7GX0PvHW7yEDF) | [15 Años De Historia](https://open.spotify.com/album/4b1Ou1qQJRq6SvS18o0Vyp) | 4:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64iuGKXnGvl.md) - [plain]
 | 49 | [Déjame Vivir \(with Juan Gabriel\)](https://open.spotify.com/track/0voqOa0RHLxuo5mNQ1PTaj) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB), [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Duetos](https://open.spotify.com/album/4PCfCY3SQkDFq2DkF6zYLt) | 3:43 |
 | 50 | [Palabra De Honor](https://open.spotify.com/track/0LSEkDVm6fvO5Cyi5OVofE) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [El Idolo De Mexico](https://open.spotify.com/album/28KtwGLD5soKpzJyP1tGUo) | 3:38 |
 
-Snapshot ID: `MTY1MDkxNjEwMywwMDAwMDAwMDRmZGYxOWJhZTJlNzgyNjQyNTFlZjBlYjg2NmY0MjQ2`
+Snapshot ID: `MTY1MDkxNjEwMywwMDAwMDAwMDI5ODgwZGZlOTc1NzIyMzdiZGVhYWJjM2M3Y2FhNjgz`

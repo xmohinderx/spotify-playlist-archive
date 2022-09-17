@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DxcHtn4Hwo.md) - [plain]
 
 > Soothing instrumental music for sleepy babies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 569,329 likes - 378 songs - 11 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 569,535 likes - 378 songs - 11 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

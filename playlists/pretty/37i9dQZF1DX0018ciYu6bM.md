@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0018ciYu6bM.md) - [plain]
 
 > Rolling with the 'bops' in your Kimbap\. Bringing you the songs that are currently trending and everything else in between\. Cover: NewJeans
 
-[Spotify](https://open.spotify.com/user/spotify) - 587,255 likes - 54 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 588,194 likes - 54 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0018ciYu6bM.md) - [plain]
 | 10 | [SNEAKERS](https://open.spotify.com/track/2WoluqyWzsgRmFCeHeGlnm) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHECKMATE](https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK) | 2:59 |
 | 11 | [Gasoline](https://open.spotify.com/track/59WDxA3UxKvJDIJcK6dVZv) | [KEY](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v) | [Gasoline \- The 2nd Album](https://open.spotify.com/album/1STTad4531T7StJ4EiVwAG) | 3:11 |
 | 12 | [LOVE DIVE](https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [LOVE DIVE](https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p) | 2:57 |
-| 13 | [Better \(Feat\. BIG Naughty\)](https://open.spotify.com/track/6JO6fHEpjYE8ILDhweIqQj) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Better](https://open.spotify.com/album/65RvaP3P2DdeC0QoL0eean) | 3:06 |
+| 13 | [Better \(Feat\. BIG Naughty\)](https://open.spotify.com/track/6JO6fHEpjYE8ILDhweIqQj) | [MAMAMOO+](https://open.spotify.com/artist/2uGx10VkBrI3GBvnQl81du), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Better](https://open.spotify.com/album/65RvaP3P2DdeC0QoL0eean) | 3:06 |
 | 14 | [Like a Bird](https://open.spotify.com/track/7qNGHALgM8RPLQDGVt6rok) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [PLAYLIST \(Original Soundtrack\), Pt.1](https://open.spotify.com/album/1jXIHAXoA7oz18tsTh4jw4) | 4:41 |
 | 15 | [Run BTS](https://open.spotify.com/track/69xohKu8C1fsflYAiSNbwM) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:24 |
 | 16 | [Attention](https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:00 |

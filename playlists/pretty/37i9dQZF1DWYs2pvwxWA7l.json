@@ -1,13 +1,29 @@
 {
-  "description": "The hottest Afropop records on the planet. Cover:  <a href=\"https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq?si=5eE28uOETA6Vb-YYoKh-Yg\"> Patoranking </a>  and <a href=\"https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod?si=zc3U4CnUR46hu5asFi04WQ\"> Diamond Platnumz </a>  ",
-  "num_followers": 356287,
+  "description": "The hottest Afropop records on the planet. Cover:  <a href=\"https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq?si=mXeuCyu0SQ6c2J_lRozDdw\"> Ayra Starr </a>  ",
+  "num_followers": 356746,
   "original_name": "Afropop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjcxODM1NCwwMDAwMDAwMGZjY2I4NDdmNDU2ZmVkOTI1ODJlMTBlZDc3Yjc0NGY0",
+  "snapshot_id": "MTY2MzMwMjQ5OSwwMDAwMDAwMGVkNGI2YWM1OTgyODNjOGExNTgxOGIxMjMzMmI2ZGU3",
   "tracks": [
+    {
+      "added_at": "2022-09-16 04:28:19",
+      "album": {
+        "name": "Rush",
+        "url": "https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 185093,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB"
+    },
     {
       "added_at": "2022-06-16 23:00:00",
       "album": {
@@ -23,26 +39,6 @@
       "duration_ms": 147580,
       "name": "KU LO SA - A COLORS SHOW",
       "url": "https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn"
-    },
-    {
-      "added_at": "2022-09-08 23:00:00",
-      "album": {
-        "name": "Kolo Kolo",
-        "url": "https://open.spotify.com/album/6o46JSSqZAcJSma0j37t4u"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        },
-        {
-          "name": "Diamond Platnumz",
-          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
-        }
-      ],
-      "duration_ms": 195135,
-      "name": "Kolo Kolo",
-      "url": "https://open.spotify.com/track/2RnkJgwCzgvQU3MUysO1fG"
     },
     {
       "added_at": "2022-07-14 23:00:00",
@@ -61,24 +57,20 @@
       "url": "https://open.spotify.com/track/65v99AWZyNz3aRmfrT2I7N"
     },
     {
-      "added_at": "2022-08-18 23:00:00",
+      "added_at": "2022-09-16 04:28:19",
       "album": {
-        "name": "Electricity",
-        "url": "https://open.spotify.com/album/5vOpDVowekdCylaDIiV5We"
+        "name": "Bad To Me",
+        "url": "https://open.spotify.com/album/15hz0gTEdD5H9taOgDdrfJ"
       },
       "artists": [
         {
-          "name": "Pheelz",
-          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 132912,
-      "name": "Electricity",
-      "url": "https://open.spotify.com/track/6McBvfxgkVfREmQPwTKBUn"
+      "duration_ms": 176850,
+      "name": "Bad To Me",
+      "url": "https://open.spotify.com/track/2pUlBBWq8R10ylbBvZJV9j"
     },
     {
       "added_at": "2022-08-05 04:33:56",
@@ -97,24 +89,20 @@
       "url": "https://open.spotify.com/track/6459gZKddpOoPIH8PAcCwS"
     },
     {
-      "added_at": "2022-09-01 23:00:00",
+      "added_at": "2022-09-16 04:28:19",
       "album": {
-        "name": "Wait On Me",
-        "url": "https://open.spotify.com/album/2RtxSIZ156yT9DSAQS2BBE"
+        "name": "LEADER!",
+        "url": "https://open.spotify.com/album/5ECNF38ye7R9LlzZRgp9YC"
       },
       "artists": [
         {
-          "name": "Mayten",
-          "url": "https://open.spotify.com/artist/2qr7RzXXdIkZfcjsw5oA6K"
-        },
-        {
-          "name": "Blxckie",
-          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
         }
       ],
-      "duration_ms": 247337,
-      "name": "Wait On Me",
-      "url": "https://open.spotify.com/track/5o79AnyhGqX0LlBb1am1pV"
+      "duration_ms": 141958,
+      "name": "LEADER!",
+      "url": "https://open.spotify.com/track/60VJ0CZ1bV5Ln2n3H1Xo1F"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -128,7 +116,7 @@
           "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         },
         {
-          "name": "WizKid",
+          "name": "Wizkid",
           "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
@@ -235,22 +223,22 @@
     {
       "added_at": "2022-06-08 08:17:45",
       "album": {
-        "name": "Made In Lagos",
-        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
+        "name": "Finesse",
+        "url": "https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1"
       },
       "artists": [
         {
-          "name": "WizKid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
         },
         {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 248040,
-      "name": "Essence (feat. Tems)",
-      "url": "https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm"
+      "duration_ms": 155293,
+      "name": "Finesse",
+      "url": "https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8"
     },
     {
       "added_at": "2022-06-08 08:17:45",
@@ -271,22 +259,22 @@
     {
       "added_at": "2022-06-08 08:17:45",
       "album": {
-        "name": "Finesse",
-        "url": "https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1"
+        "name": "Made In Lagos",
+        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
       },
       "artists": [
         {
-          "name": "Pheelz",
-          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         },
         {
-          "name": "BNXN fka Buju",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
         }
       ],
-      "duration_ms": 155293,
-      "name": "Finesse",
-      "url": "https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8"
+      "duration_ms": 248040,
+      "name": "Essence (feat. Tems)",
+      "url": "https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm"
     },
     {
       "added_at": "2022-08-05 04:33:56",
@@ -513,6 +501,26 @@
       "url": "https://open.spotify.com/track/1U2fUzMkgprQoocKlYu3Oj"
     },
     {
+      "added_at": "2022-08-18 23:00:00",
+      "album": {
+        "name": "Electricity",
+        "url": "https://open.spotify.com/album/5vOpDVowekdCylaDIiV5We"
+      },
+      "artists": [
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 132912,
+      "name": "Electricity",
+      "url": "https://open.spotify.com/track/6McBvfxgkVfREmQPwTKBUn"
+    },
+    {
       "added_at": "2022-06-08 08:17:45",
       "album": {
         "name": "No Wahala",
@@ -547,22 +555,6 @@
     {
       "added_at": "2022-06-08 08:17:45",
       "album": {
-        "name": "Boy Alone",
-        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "understand",
-      "url": "https://open.spotify.com/track/6oOCGD2Sp9UTcDsuDz8Hdu"
-    },
-    {
-      "added_at": "2022-06-08 08:17:45",
-      "album": {
         "name": "Playboy",
         "url": "https://open.spotify.com/album/1H60asyrMtrrOlieQIPtrI"
       },
@@ -575,6 +567,22 @@
       "duration_ms": 207474,
       "name": "Playboy",
       "url": "https://open.spotify.com/track/1Cg51Jk6EoXBQ0KiwzWJfm"
+    },
+    {
+      "added_at": "2022-06-08 08:17:45",
+      "album": {
+        "name": "Boy Alone",
+        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "understand",
+      "url": "https://open.spotify.com/track/6oOCGD2Sp9UTcDsuDz8Hdu"
     },
     {
       "added_at": "2022-07-07 23:00:00",
@@ -813,22 +821,6 @@
       "url": "https://open.spotify.com/track/3yCYQ0uzJyX0GwJoF3QvAe"
     },
     {
-      "added_at": "2022-07-14 23:00:00",
-      "album": {
-        "name": "5 Star",
-        "url": "https://open.spotify.com/album/7sL2HnpqLO8uAdV6YlHLl4"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        }
-      ],
-      "duration_ms": 150280,
-      "name": "5 Star",
-      "url": "https://open.spotify.com/track/5l6ZVWdSdot8a1FjPBiXvz"
-    },
-    {
       "added_at": "2022-06-09 23:00:00",
       "album": {
         "name": "SOMETHING",
@@ -863,22 +855,6 @@
       "duration_ms": 213600,
       "name": "Kenkele",
       "url": "https://open.spotify.com/track/6u1Hciw2SSywNhnrjvZPhp"
-    },
-    {
-      "added_at": "2022-06-08 08:17:45",
-      "album": {
-        "name": "Danger",
-        "url": "https://open.spotify.com/album/2mDEg7Kh7jjaypZ5WxBxNo"
-      },
-      "artists": [
-        {
-          "name": "Terri",
-          "url": "https://open.spotify.com/artist/6h3iqdnfBKV2jRhUJz0oto"
-        }
-      ],
-      "duration_ms": 157648,
-      "name": "Danger",
-      "url": "https://open.spotify.com/track/7aeIvptSeWBdtuPyyjM3wM"
     },
     {
       "added_at": "2022-06-08 08:17:45",
@@ -923,6 +899,38 @@
     {
       "added_at": "2022-06-08 08:17:45",
       "album": {
+        "name": "Danger",
+        "url": "https://open.spotify.com/album/2mDEg7Kh7jjaypZ5WxBxNo"
+      },
+      "artists": [
+        {
+          "name": "Terri",
+          "url": "https://open.spotify.com/artist/6h3iqdnfBKV2jRhUJz0oto"
+        }
+      ],
+      "duration_ms": 157648,
+      "name": "Danger",
+      "url": "https://open.spotify.com/track/7aeIvptSeWBdtuPyyjM3wM"
+    },
+    {
+      "added_at": "2022-07-14 23:00:00",
+      "album": {
+        "name": "5 Star",
+        "url": "https://open.spotify.com/album/7sL2HnpqLO8uAdV6YlHLl4"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 150280,
+      "name": "5 Star",
+      "url": "https://open.spotify.com/track/5l6ZVWdSdot8a1FjPBiXvz"
+    },
+    {
+      "added_at": "2022-06-08 08:17:45",
+      "album": {
         "name": "Foreigner",
         "url": "https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ"
       },
@@ -935,6 +943,22 @@
       "duration_ms": 234384,
       "name": "Foreigner",
       "url": "https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN"
+    },
+    {
+      "added_at": "2022-06-08 08:17:45",
+      "album": {
+        "name": "The Second Wave",
+        "url": "https://open.spotify.com/album/2X0RCBDJankvvvaJgMUUHD"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "duration_ms": 206775,
+      "name": "Snapchat",
+      "url": "https://open.spotify.com/track/10m1yYuud3w7bb43srjbWi"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -955,22 +979,6 @@
     {
       "added_at": "2022-06-08 08:17:45",
       "album": {
-        "name": "The Second Wave",
-        "url": "https://open.spotify.com/album/2X0RCBDJankvvvaJgMUUHD"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        }
-      ],
-      "duration_ms": 206775,
-      "name": "Snapchat",
-      "url": "https://open.spotify.com/track/10m1yYuud3w7bb43srjbWi"
-    },
-    {
-      "added_at": "2022-06-08 08:17:45",
-      "album": {
         "name": "PAMI (feat. Wizkid, Adekunle Gold & Omah Lay)",
         "url": "https://open.spotify.com/album/6OTNestAuAxK7wytwRiq9q"
       },
@@ -980,7 +988,7 @@
           "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
         },
         {
-          "name": "WizKid",
+          "name": "Wizkid",
           "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         },
         {
@@ -995,26 +1003,6 @@
       "duration_ms": 213599,
       "name": "PAMI (feat. Wizkid, Adekunle Gold & Omah Lay)",
       "url": "https://open.spotify.com/track/6iC4xfqow6iAsRhPh5IrWz"
-    },
-    {
-      "added_at": "2022-06-08 08:17:45",
-      "album": {
-        "name": "Sinner",
-        "url": "https://open.spotify.com/album/1kpkSvYRz40cdD1GvfN7OJ"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        },
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 174117,
-      "name": "Sinner",
-      "url": "https://open.spotify.com/track/3k6Y1ESBwF1low4hHsY4wu"
     },
     {
       "added_at": "2022-06-08 08:17:45",
@@ -1065,6 +1053,42 @@
       "url": "https://open.spotify.com/track/5jVpi3fFf5OGAZ5bpe4Bhy"
     },
     {
+      "added_at": "2022-06-08 08:17:45",
+      "album": {
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/1kpkSvYRz40cdD1GvfN7OJ"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 174117,
+      "name": "Sinner",
+      "url": "https://open.spotify.com/track/3k6Y1ESBwF1low4hHsY4wu"
+    },
+    {
+      "added_at": "2022-06-30 23:00:00",
+      "album": {
+        "name": "Many Man - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/7j3undJfNrbm3uOboIvpNI"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 190621,
+      "name": "Many Man - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV"
+    },
+    {
       "added_at": "2022-08-12 05:23:24",
       "album": {
         "name": "Nice (Kiss)",
@@ -1091,42 +1115,6 @@
       "duration_ms": 297857,
       "name": "Nice (Kiss)",
       "url": "https://open.spotify.com/track/2FPOpkUFjQBzJVxK8zF2DA"
-    },
-    {
-      "added_at": "2022-06-30 23:00:00",
-      "album": {
-        "name": "Many Man - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/7j3undJfNrbm3uOboIvpNI"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 190621,
-      "name": "Many Man - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV"
-    },
-    {
-      "added_at": "2022-06-08 08:17:45",
-      "album": {
-        "name": "Water & Garri",
-        "url": "https://open.spotify.com/album/4kaFvICfRtvFJawQ6p7VSW"
-      },
-      "artists": [
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        },
-        {
-          "name": "Brandy",
-          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
-        }
-      ],
-      "duration_ms": 218130,
-      "name": "Somebody\u2019s Son (Ft Brandy)",
-      "url": "https://open.spotify.com/track/3Z9B9GQ2fFx4IRCG8bbWys"
     }
   ],
   "unique_name": "Afropop",

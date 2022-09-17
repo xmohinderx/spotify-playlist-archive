@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dPxJstGRJY.md) - [plain]
 
 > Pop classics and show tunes, sung by legendary classical voices\. Cover: Andrea Bocelli
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,104 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,381 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dPxJstGRJY.md) - [plain]
 | 49 | [Beau Soir \- Voice](https://open.spotify.com/track/0gikrP8DY96Q6Xo08bIYWL) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6), [Claus Ogerman](https://open.spotify.com/artist/3lZyF2ZG6fZLQvxgJU0y5r) | [Classical Barbra \(Re\-Mastered\)](https://open.spotify.com/album/2oO80GRPrKiWzAiOoXg3xp) | 2:41 |
 | 50 | [Never Say Goodbye \(Adapted from "Pavane, M\. 19"\)](https://open.spotify.com/track/3I31KiGNOh9uelfmpAjCGE) | [Hayley Westenra](https://open.spotify.com/artist/7Jotu5LupekFt00kZZZ7C6) | [River Of Dreams \- The Very Best of Hayley Westenra](https://open.spotify.com/album/2mTBvr7If9pz5DplK6bE9r) | 3:13 |
 
-Snapshot ID: `MTY2MjY5NjA2MCwwMDAwMDAwMDJkNjdlODZkZGUxNTRhZWFiZGJiYjE5YmYwYmFkYTI0`
+Snapshot ID: `MTY2MzMwMDg2MCwwMDAwMDAwMDVmMDRkMTk5NTg5YjJjNmE5ZGYyYzk3ZjhkYzM5ZjFj`

@@ -4,7 +4,7 @@
 
 > Chill house beats for hanging out in the sun.
 
-291 songs - 15 hr 4 min - [published](https://open.spotify.com/playlist/3gS1uwa5p82hAorYspvcTo)
+293 songs - 15 hr 9 min - [published](https://open.spotify.com/playlist/3gS1uwa5p82hAorYspvcTo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,6 +217,7 @@
 | [Rose](https://open.spotify.com/track/0bEixfuWUAwzt6Khi1ccgn) | [Drofty](https://open.spotify.com/artist/0RVQAq5SiopM6KTV68p7FM) | [Rose](https://open.spotify.com/album/6O3C5aOvvsqxAVfcyL1nvV) | 2:59 | 2022-04-05 |  |
 | [Rotary](https://open.spotify.com/track/4VIR3YOwgtTMRg70zCVpJV) | [Tonalize](https://open.spotify.com/artist/3wF1K5F8RQSOeWtYkMjySH) | [Rotary](https://open.spotify.com/album/1K2WTHESLtZG8OC4vFpmQg) | 3:40 | 2022-04-05 |  |
 | [Sail Away](https://open.spotify.com/track/15SEpL0rQ6lPo0sK04ZuP1) | [80s Kids](https://open.spotify.com/artist/3qyrHRM9yQ3L4z0InY4T8x) | [Sail Away](https://open.spotify.com/album/3vfYXMKNGBmDmbABG73VLE) | 2:00 | 2022-05-13 | 2022-07-29 |
+| [Saint](https://open.spotify.com/track/28HAQ14CuQBdYXVDaiLnNI) | [Drunk Archer](https://open.spotify.com/artist/0AMvlHlc7WpjNyZSmAfTIQ) | [Saint](https://open.spotify.com/album/1PJZR969k2nt3tD8a376XK) | 2:59 | 2022-09-16 |  |
 | [Saint Tropez](https://open.spotify.com/track/4JO8HC0O0wJAjjiC01OISb) | [Blush Waves](https://open.spotify.com/artist/5gCmQS9fhEvfPQaXXhNzuj) | [Saint Tropez](https://open.spotify.com/album/3zvW548gu7s9f5k2fndTej) | 2:35 | 2022-04-05 | 2022-05-20 |
 | [Saints & Tropez](https://open.spotify.com/track/08SKC2H1MDH2WmTjLIoLcs) | [Alinno](https://open.spotify.com/artist/43Sajp33BHbRnUaDUrWQn7) | [Saints & Tropez](https://open.spotify.com/album/4L9IvFRId2lprKiP84acjy) | 3:48 | 2022-04-05 | 2022-05-27 |
 | [Salty Tales](https://open.spotify.com/track/5Gy3t7t0vEsxFEMux3dX3X) | [Dye O](https://open.spotify.com/artist/3AihmaPi9Wr3O7z578f6mH) | [Salty Tales](https://open.spotify.com/album/52JSePvlPgJ8YN9sPZK0D5) | 4:50 | 2022-04-05 | 2022-05-11 |
@@ -262,7 +263,7 @@
 | [sweaty palms](https://open.spotify.com/track/4nRP3DPkiZICuDpYlliATw) | [Manic Twister](https://open.spotify.com/artist/2PhILsiPfdlMu8brbtXvh7) | [sweaty palms](https://open.spotify.com/album/00gsJW5JdlirXTyipA6XkX) | 2:40 | 2022-06-24 | 2022-07-29 |
 | [Swoosh](https://open.spotify.com/track/2d5fQd2dmrPfWd0CCqelkP) | [SoN](https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE) | [Swoosh](https://open.spotify.com/album/3WUfj10ZPtllBAqGRsnQGu) | 3:02 | 2022-04-05 | 2022-07-08 |
 | [Taking Polaris](https://open.spotify.com/track/4PkVCSor0FoPx1X2FGJ9gR) | [DEX 1200](https://open.spotify.com/artist/2roONpdgmZHRTpr1IFNw0d) | [Taking Polaris EP](https://open.spotify.com/album/0mIW9wjcZgEg57Nz957jYP) | 4:43 | 2022-04-05 | 2022-07-29 |
-| [Talk To Me](https://open.spotify.com/track/0LaErT2gDG7iZhHDKrrb2v) | [Egelloc](https://open.spotify.com/artist/03zsYt1vzRxmXN0OUhCr7g) | [Talk To Me](https://open.spotify.com/album/53caWippf1sBtHtsD2qEKL) | 2:59 | 2022-04-05 |  |
+| [Talk To Me](https://open.spotify.com/track/0LaErT2gDG7iZhHDKrrb2v) | [Egelloc](https://open.spotify.com/artist/03zsYt1vzRxmXN0OUhCr7g) | [Talk To Me](https://open.spotify.com/album/53caWippf1sBtHtsD2qEKL) | 2:59 | 2022-04-05 | 2022-09-17 |
 | [Tekapo \- Edit](https://open.spotify.com/track/7nvTywXHEfa4Kb6W9cUhqJ) | [Walter Woods](https://open.spotify.com/artist/1k1WrqbhNylomjfqZ0lq4D) | [Tekapo \(Edit\)](https://open.spotify.com/album/4M8lta7iSWNHxh7eHMpY8Y) | 2:28 | 2022-04-05 | 2022-04-15 |
 | [The Fire](https://open.spotify.com/track/30Zqlt51wOzUe2y9gdY8Yl) | [Cogitation](https://open.spotify.com/artist/03cw3islnFkglHBqaVuDMq) | [The Fire](https://open.spotify.com/album/2y9uoXSbJbulLgiqZIM0FH) | 2:42 | 2022-04-05 |  |
 | [Those Hazel Eyes](https://open.spotify.com/track/2KK10rRx9UrGc2ryjsL2Jh) | [Kubicova](https://open.spotify.com/artist/4ml57BmL2HqNklJZjCbqYr) | [Those Hazel Eyes](https://open.spotify.com/album/0hPDBdazEBgdE8dS2Ch5SN) | 2:27 | 2022-04-05 | 2022-07-29 |
@@ -294,6 +295,7 @@
 | [Wet Bravado](https://open.spotify.com/track/0ENdomkBjCzYQbHP0ITm6L) | [R Y K](https://open.spotify.com/artist/52GuEcwja1RpI2x3lVaotA) | [Wet Bravado](https://open.spotify.com/album/34q74YXjIBzBlvcOvnEoIV) | 2:43 | 2022-04-05 |  |
 | [What Tomorrow Brings](https://open.spotify.com/track/2faQoV4rpd3K9BxwbPbwYO) | [Drunk Archer](https://open.spotify.com/artist/0AMvlHlc7WpjNyZSmAfTIQ) | [What Tomorrow Brings](https://open.spotify.com/album/73ICYc63au29eIOddxyus7) | 2:51 | 2022-07-08 |  |
 | [White Dust](https://open.spotify.com/track/2zlmxxH4eHn2rmBZRQRwEY) | [Sun Mirage](https://open.spotify.com/artist/3wqjOyUcOsV0wSLgCsGwf4) | [It's all clear now](https://open.spotify.com/album/4nZ4IAl00PTqsNs0AmC0GA) | 4:02 | 2022-04-05 | 2022-05-20 |
+| [With My Whole Heart](https://open.spotify.com/track/0qlYDp90Fu3Lpmp47PKUco) | [Aliassime](https://open.spotify.com/artist/65WqXbSddn4P1GiACs8GT5) | [With My Whole Heart](https://open.spotify.com/album/1IowasV6lzpLW6kGZm1dNJ) | 2:32 | 2022-09-16 |  |
 | [Woodpecker \(Call Me\)](https://open.spotify.com/track/3pSOSLJY99p8aAY3QWM8x5) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Fragmented Memories / Woodpecker \(Call Me\)](https://open.spotify.com/album/5AraItM2Vq2MPBeUA4YpIg) | 5:04 | 2022-05-10 | 2022-07-08 |
 | [Yesterday's Dream](https://open.spotify.com/track/3eb9HO1cq8uzEmUdU7mNvs) | [Catalina En Collins](https://open.spotify.com/artist/6oaPME8tL5UOyja7VEvx0J) | [Yesterday's Dream](https://open.spotify.com/album/0ebm4T6CGvYIIharGfIftv) | 2:31 | 2022-04-05 |  |
 | [Yin Yan Tonic](https://open.spotify.com/track/3YdhEnt94pDDzwZheiJdJ3) | [Son\-us](https://open.spotify.com/artist/7IVjn6HqeD4DGearUhx5YY) | [Yin Yan Tonic](https://open.spotify.com/album/2cGFqAL2ttK8IrsC3s7n3U) | 2:50 | 2022-08-05 |  |

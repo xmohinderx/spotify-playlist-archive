@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZsLcak1FuUD.md) - [plain]
 
 > Fue durante los '70 que el Rock se manifestó como un gigante a nivel mundial\. Argentina no fue la excepción\.  Foto: <a href="spotify:artist:10vtHOCA3qPLmrGylgO2F1">Manal</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,614 likes - 55 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,622 likes - 55 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,31 +37,31 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZsLcak1FuUD.md) - [plain]
 | 27 | [Canto, desde el fondo de las ruinas](https://open.spotify.com/track/0bVpPI7PzrScltqKCm5DKp) | [Aquelarre](https://open.spotify.com/artist/3cG8AMyTTUk3Y6LIqyjOxc) | [Aquelarre](https://open.spotify.com/album/21k9Lf53dN3pCJ8JZsk81p) | 4:00 |
 | 28 | [El Oso](https://open.spotify.com/track/42WA51ZqDPtp4ZhJj2ngAB) | [Moris](https://open.spotify.com/artist/6nDtQCSWqly8rUM8s0JZa5) | [Treinta Minutos de Vida](https://open.spotify.com/album/68sHSdp4YABOmihgZ3ATNT) | 2:54 |
 | 29 | [Sueltate Rock And Roll](https://open.spotify.com/track/1HbLdtZvbp8JRVAJhlktfK) | [Polifemo](https://open.spotify.com/artist/5kt7SkycNsq8vbKoFb3QxO) | [Serie De Oro](https://open.spotify.com/album/0K5znMCZ80jQtl2zqMCoyE) | 3:33 |
-| 30 | [En el país de la libertad](https://open.spotify.com/track/1oiMVZp0WcRmsxdfHdoRwb) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [León Gieco](https://open.spotify.com/album/61O3RcbSiFklK1N9SC5LCd) | 3:13 |
+| 30 | [Casa Con Diez Pinos](https://open.spotify.com/track/2Ras7UcXvzenVmkyVMibdh) | [Manal](https://open.spotify.com/artist/10vtHOCA3qPLmrGylgO2F1) | [Manal](https://open.spotify.com/album/1VoglV38RPcTn7P9yZxO4C) | 4:14 |
 | 31 | [Post\-Crucifixion](https://open.spotify.com/track/2ri0lTjVeBkWAmRVkJoHXL) | [Pescado Rabioso](https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9) | [Lo Mejor de Pescado Rabioso](https://open.spotify.com/album/3XxDmLiEBKqFu1MiZ3fayw) | 3:46 |
-| 32 | [Casa Con Diez Pinos](https://open.spotify.com/track/2Ras7UcXvzenVmkyVMibdh) | [Manal](https://open.spotify.com/artist/10vtHOCA3qPLmrGylgO2F1) | [Manal](https://open.spotify.com/album/1VoglV38RPcTn7P9yZxO4C) | 4:14 |
+| 32 | [En el país de la libertad](https://open.spotify.com/track/1oiMVZp0WcRmsxdfHdoRwb) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [León Gieco](https://open.spotify.com/album/61O3RcbSiFklK1N9SC5LCd) | 3:13 |
 | 33 | [A Dieciocho Minutos del Sol](https://open.spotify.com/track/7ze8PcVXJzcAfCQ0Etjp6v) | [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [A 18' Del Sol](https://open.spotify.com/album/1uZafurVG5V3TZDqEnVmeR) | 5:31 |
 | 34 | [Blues de Dana](https://open.spotify.com/track/32Du6z7oXiowmiZCPpnLj5) | [Arco Iris](https://open.spotify.com/artist/1fl6UrQ5p2aQQwKfkrPNpW) | [Arco Iris \- Cronología I](https://open.spotify.com/album/1vNUHRvUEXMmcjAzFW4b5m) | 5:47 |
 | 35 | [Caras en el Parque](https://open.spotify.com/track/3yvbu9332UXDudzznrTuGw) | [Pappo's Blues](https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB) | [Pappo's Blues, Vol\. 3](https://open.spotify.com/album/3TIorpubpykzUFdUNBLOdp) | 3:49 |
 | 36 | [Mi Cuarto](https://open.spotify.com/track/1eD4rXi4Orx0b3k5an1LBL) | [Vivencia](https://open.spotify.com/artist/65IXQZtLc1OfW8H9YxRFwY) | [Mi Cuarto](https://open.spotify.com/album/5bvtHEGG4MGEGkGTFw1lv6) | 3:35 |
-| 37 | [La mamá de Jimmy \- Leí](https://open.spotify.com/track/34MKQgDEwYzDer6VZKIGhZ) | [Porsuigieco](https://open.spotify.com/artist/4LoFcBNitqIC130rvzS6BG) | [PorSuiGieco](https://open.spotify.com/album/7ug5TR3GSr8nmDWLaOQ93r) | 3:39 |
-| 38 | [Donde Va la Gente Cuando Llueve](https://open.spotify.com/track/2JjB7P18oOeqpWKGsUGINy) | [Pedro Y Pablo](https://open.spotify.com/artist/5YDpwWFLxk3wmHBKqAcfiI) | [Yo Vivo en Esta Ciudad](https://open.spotify.com/album/5rpMRdL6IxV1obCxjf4q5i) | 4:44 |
+| 37 | [No Pibe](https://open.spotify.com/track/1XjCxUmgXzqLEGzqUse3qK) | [Manal](https://open.spotify.com/artist/10vtHOCA3qPLmrGylgO2F1) | [Manal](https://open.spotify.com/album/1VoglV38RPcTn7P9yZxO4C) | 3:50 |
+| 38 | [La mamá de Jimmy \- Leí](https://open.spotify.com/track/34MKQgDEwYzDer6VZKIGhZ) | [Porsuigieco](https://open.spotify.com/artist/4LoFcBNitqIC130rvzS6BG) | [PorSuiGieco](https://open.spotify.com/album/7ug5TR3GSr8nmDWLaOQ93r) | 3:39 |
 | 39 | [Oye Dios Que Me Has Dado](https://open.spotify.com/track/7xfYEIvk2qRxODCefqdOuR) | [Polifemo](https://open.spotify.com/artist/5kt7SkycNsq8vbKoFb3QxO) | [Serie De Oro](https://open.spotify.com/album/0K5znMCZ80jQtl2zqMCoyE) | 3:49 |
-| 40 | [Ana No Duerme](https://open.spotify.com/track/4ev0iQn9HTKQHxcSDxklhu) | [Almendra](https://open.spotify.com/artist/7x2a9uyqlWbE9LwcoQWDTo) | [El 1er Álbum Más los Singles](https://open.spotify.com/album/2Syxpgpva5hDmqCZpmmJHp) | 2:46 |
-| 41 | [No Pibe](https://open.spotify.com/track/1XjCxUmgXzqLEGzqUse3qK) | [Manal](https://open.spotify.com/artist/10vtHOCA3qPLmrGylgO2F1) | [Manal](https://open.spotify.com/album/1VoglV38RPcTn7P9yZxO4C) | 3:50 |
+| 40 | [Donde Va la Gente Cuando Llueve](https://open.spotify.com/track/2JjB7P18oOeqpWKGsUGINy) | [Pedro Y Pablo](https://open.spotify.com/artist/5YDpwWFLxk3wmHBKqAcfiI) | [Yo Vivo en Esta Ciudad](https://open.spotify.com/album/5rpMRdL6IxV1obCxjf4q5i) | 4:44 |
+| 41 | [Ana No Duerme](https://open.spotify.com/track/4ev0iQn9HTKQHxcSDxklhu) | [Almendra](https://open.spotify.com/artist/7x2a9uyqlWbE9LwcoQWDTo) | [El 1er Álbum Más los Singles](https://open.spotify.com/album/2Syxpgpva5hDmqCZpmmJHp) | 2:46 |
 | 42 | [Hoy Te Queremos Cantar](https://open.spotify.com/track/6O036ngVof8dIfCILsJkVv) | [Alma Y Vida](https://open.spotify.com/artist/6Qv7PzO62iPNtE9jNTPGDG) | [Alma y Vida, Vol\. 2](https://open.spotify.com/album/7MHEzCpcFrBeVBaqzM6cSl) | 2:45 |
 | 43 | [Violencia En El Parque](https://open.spotify.com/track/79Endo4IymZMWDQ0wk116S) | [Aquelarre](https://open.spotify.com/artist/3cG8AMyTTUk3Y6LIqyjOxc) | [Otras Pistas](https://open.spotify.com/album/4vNaQkW0hQORx5gVi0WFJV) | 5:22 |
-| 44 | [Apocalipsis](https://open.spotify.com/track/1BOrWWE3wANOCYFn6p2Z9Y) | [Vox Dei](https://open.spotify.com/artist/1sTOtMflHQ1ULtuozST5RR) | [La Biblia](https://open.spotify.com/album/5rTDeb1l0Mj4vNDKfvCRd6) | 4:47 |
+| 44 | [Avellaneda Blues](https://open.spotify.com/track/2SeUS7JmN0oLjHPHGvDZFA) | [Manal](https://open.spotify.com/artist/10vtHOCA3qPLmrGylgO2F1) | [Manal](https://open.spotify.com/album/1VoglV38RPcTn7P9yZxO4C) | 5:33 |
 | 45 | [Los Juguetes Y Los Niños](https://open.spotify.com/track/3xNyKcQM5nMB3gY6XDvYpF) | [Vivencia](https://open.spotify.com/artist/65IXQZtLc1OfW8H9YxRFwY) | [Mi Cuarto](https://open.spotify.com/album/5bvtHEGG4MGEGkGTFw1lv6) | 3:57 |
-| 46 | [Los Delirios del Mariscal](https://open.spotify.com/track/56vhyP9UvLtGYUbeBBxqke) | [Crucis](https://open.spotify.com/artist/3PN8odvj48fnALdAsCKG3g) | [Los Delirios del Mariscal](https://open.spotify.com/album/1IQKV1zaM2GihjCXjZTdeJ) | 10:03 |
-| 47 | [Avellaneda Blues](https://open.spotify.com/track/2SeUS7JmN0oLjHPHGvDZFA) | [Manal](https://open.spotify.com/artist/10vtHOCA3qPLmrGylgO2F1) | [Manal](https://open.spotify.com/album/1VoglV38RPcTn7P9yZxO4C) | 5:33 |
-| 48 | [La marcha de la bronca](https://open.spotify.com/track/1yLrOgpKQpLjfW9yO1j40Y) | [Pedro Y Pablo](https://open.spotify.com/artist/5YDpwWFLxk3wmHBKqAcfiI) | [En vivo](https://open.spotify.com/album/1Z6aEZAVsSppuDJhQmkCne) | 4:04 |
+| 46 | [La marcha de la bronca](https://open.spotify.com/track/1yLrOgpKQpLjfW9yO1j40Y) | [Pedro Y Pablo](https://open.spotify.com/artist/5YDpwWFLxk3wmHBKqAcfiI) | [En vivo](https://open.spotify.com/album/1Z6aEZAVsSppuDJhQmkCne) | 4:04 |
+| 47 | [Apocalipsis](https://open.spotify.com/track/1BOrWWE3wANOCYFn6p2Z9Y) | [Vox Dei](https://open.spotify.com/artist/1sTOtMflHQ1ULtuozST5RR) | [La Biblia](https://open.spotify.com/album/5rTDeb1l0Mj4vNDKfvCRd6) | 4:47 |
+| 48 | [Los Delirios del Mariscal](https://open.spotify.com/track/56vhyP9UvLtGYUbeBBxqke) | [Crucis](https://open.spotify.com/artist/3PN8odvj48fnALdAsCKG3g) | [Los Delirios del Mariscal](https://open.spotify.com/album/1IQKV1zaM2GihjCXjZTdeJ) | 10:03 |
 | 49 | [Alguien Más en Quien Confiar \- '74 Single Version](https://open.spotify.com/track/10F81E1vPGGROdMHyVthSh) | [El Reloj](https://open.spotify.com/artist/4qZeDZdBD3NiWVbkwX2Lpx) | [El Reloj](https://open.spotify.com/album/3xIkQ0YsEyRvjEY1a8KdXc) | 4:02 |
 | 50 | [Sólo le pido a dios](https://open.spotify.com/track/5JNZh5pSVcqgacUDd41rTy) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [lV](https://open.spotify.com/album/2NoClUagMc6dN9g3KOm4PQ) | 5:03 |
-| 51 | [Todo Tiempo Posible](https://open.spotify.com/track/0aF2ape2b7Tzgo1GLs9re3) | [Crucis](https://open.spotify.com/artist/3PN8odvj48fnALdAsCKG3g) | [Crucis](https://open.spotify.com/album/7q4FDjboZh9zLPRqIxdWng) | 4:06 |
-| 52 | [Figuración](https://open.spotify.com/track/2ZXPZV2w9KSEH6YXJQwFBP) | [Almendra](https://open.spotify.com/artist/7x2a9uyqlWbE9LwcoQWDTo) | [El 1er Álbum Más los Singles](https://open.spotify.com/album/2Syxpgpva5hDmqCZpmmJHp) | 3:32 |
-| 53 | [En El Hospicio](https://open.spotify.com/track/6NZ2OTfVCJ9rf6hm6tpJxh) | [Pastoral](https://open.spotify.com/artist/3budmcJD4fTyytFVDp5lud) | [Oro](https://open.spotify.com/album/67TJF7Es43tCAfZtWv5kiq) | 3:37 |
+| 51 | [Figuración](https://open.spotify.com/track/2ZXPZV2w9KSEH6YXJQwFBP) | [Almendra](https://open.spotify.com/artist/7x2a9uyqlWbE9LwcoQWDTo) | [El 1er Álbum Más los Singles](https://open.spotify.com/album/2Syxpgpva5hDmqCZpmmJHp) | 3:32 |
+| 52 | [En El Hospicio](https://open.spotify.com/track/6NZ2OTfVCJ9rf6hm6tpJxh) | [Pastoral](https://open.spotify.com/artist/3budmcJD4fTyytFVDp5lud) | [Oro](https://open.spotify.com/album/67TJF7Es43tCAfZtWv5kiq) | 3:37 |
+| 53 | [Todo Tiempo Posible](https://open.spotify.com/track/0aF2ape2b7Tzgo1GLs9re3) | [Crucis](https://open.spotify.com/artist/3PN8odvj48fnALdAsCKG3g) | [Crucis](https://open.spotify.com/album/7q4FDjboZh9zLPRqIxdWng) | 4:06 |
 | 54 | [Envases de Todo](https://open.spotify.com/track/7gIUh5iGYpTagqtq74hvs0) | [David Lebón](https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E) | [David Lebon](https://open.spotify.com/album/2sVpQXYG4nKgpJ5F3Q84RC) | 7:11 |
 | 55 | [Más Fuerte Que El Hombre](https://open.spotify.com/track/0kCvymt8ka2hQqecsJDC4h) | [El Reloj](https://open.spotify.com/artist/4qZeDZdBD3NiWVbkwX2Lpx) | [El Reloj](https://open.spotify.com/album/3xIkQ0YsEyRvjEY1a8KdXc) | 3:09 |
 
-Snapshot ID: `MTU4MjczNDMyMiwwMDAwMDAwMGE0ODIwZDVhNzc5OTI4MDY5M2UyYmNiNmU5ZTAwYTBh`
+Snapshot ID: `MTU4MjczNDMyMiwwMDAwMDAwMDc5NDRmOTExOWQ5ODdiZDkzYzRjNTBhMzdjYmFjN2M4`

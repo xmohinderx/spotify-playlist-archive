@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pbGJDhTXK3.md) - [plain]
 
 > A celebration of Norway's dance scene!
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,856 likes - 50 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,880 likes - 50 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pbGJDhTXK3.md) - [plain]
 | 4 | [Inspector Norse](https://open.spotify.com/track/2pucDx5Wyz9uHCou4wntHa) | [Todd Terje](https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw) | [It's the Arps](https://open.spotify.com/album/68zh8sbZPMeJb7GnqomRJS) | 6:40 |
 | 5 | [Boney M Down](https://open.spotify.com/track/4o4lNCu3RYVl7B9BB3YEzF) | [Lindstrøm](https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB), [Prins Thomas](https://open.spotify.com/artist/4rsEVNO1tGTY0beCnsnHi6) | [Lindstrom & Prins Thomas](https://open.spotify.com/album/0wjx77A92ow66hxXmwapcM) | 3:49 |
 | 6 | [Balearic Incarnation](https://open.spotify.com/track/67xQFI4hUMJWLlaR6H0PHH) | [Dølle Jølle](https://open.spotify.com/artist/1UbgLp0E5zKU0BAhpPp59B) | [Balearic Incarnation \(Todd Terje Rmx\)](https://open.spotify.com/album/4S71fM2WtlFSnQZdIvcMcV) | 6:19 |
-| 7 | [Feel The Love](https://open.spotify.com/track/39b8jAuutK8EZl0PwAawGC) | [Prins Thomas](https://open.spotify.com/artist/4rsEVNO1tGTY0beCnsnHi6) | [Ambitions](https://open.spotify.com/album/3XNnlYzgbQSc4IP6OSfGZY) | 4:25 |
-| 8 | [Clean Air](https://open.spotify.com/track/4EdyO4xkUucQiXbuLpSgmo) | [Bjørn Torske](https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68) | [Byen](https://open.spotify.com/album/1QBlMByP8mgFqlLPIzstKD) | 7:54 |
+| 7 | [Clean Air](https://open.spotify.com/track/4EdyO4xkUucQiXbuLpSgmo) | [Bjørn Torske](https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68) | [Byen](https://open.spotify.com/album/1QBlMByP8mgFqlLPIzstKD) | 7:54 |
+| 8 | [Feel The Love](https://open.spotify.com/track/39b8jAuutK8EZl0PwAawGC) | [Prins Thomas](https://open.spotify.com/artist/4rsEVNO1tGTY0beCnsnHi6) | [Ambitions](https://open.spotify.com/album/3XNnlYzgbQSc4IP6OSfGZY) | 4:25 |
 | 9 | [Sadsongwtf](https://open.spotify.com/track/2zA7dBlE6tarkCzK2Rsi3o) | [Jerry Folk](https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv) | [Sadsongwtf](https://open.spotify.com/album/0snl6gC7BXLFyK1MJjWy42) | 2:53 |
 | 10 | [Strandbar](https://open.spotify.com/track/6reLfBSO38qmFgHgz6kAs0) | [Todd Terje](https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw) | [It's Album Time](https://open.spotify.com/album/4pefQ21iSk8hdnxw3WSB5Y) | 4:28 |
 | 11 | [Impossible](https://open.spotify.com/track/4n8wv8NZB3HgMXYzszEDWm) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Alison Goldfrapp](https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS) | [Impossible](https://open.spotify.com/album/7nVorCP3wTcYLnvJHtURKX) | 6:27 |
@@ -32,10 +32,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pbGJDhTXK3.md) - [plain]
 | 22 | [This Time, This Place…](https://open.spotify.com/track/4JGxZc0tsSVQx2gw7rOQSz) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Beki Mari](https://open.spotify.com/artist/4z9AKehWvtxINEbu8aQGO6) | [This Time, This Place…](https://open.spotify.com/album/0C8AjuFDeY8LVpEMH3DR25) | 7:44 |
 | 23 | [Tyrkisk Pepper \- Dolle Jolle Remix](https://open.spotify.com/track/38KKAivesNw1zoh8eshIZX) | [Blackbelt Andersen](https://open.spotify.com/artist/67qty1jpSV57pPDYDTDUgL), [Dølle Jølle](https://open.spotify.com/artist/1UbgLp0E5zKU0BAhpPp59B) | [Tyrkisk Pepper](https://open.spotify.com/album/2KUdBmCPOBpD2YweRXPAMt) | 8:02 |
 | 24 | [Transit \- Radio Edit](https://open.spotify.com/track/6xX3DLq6CqH54lcNRzCGnu) | [Third Attempt](https://open.spotify.com/artist/1tsNLehJWv67iMipy0WwQR) | [Transit](https://open.spotify.com/album/2xGTUrOe1vH974ZuWfGp54) | 2:30 |
-| 25 | [The Walk](https://open.spotify.com/track/0PNpTYNySZMLu8sFbznKiN) | [Frede](https://open.spotify.com/artist/6KSw87A52Tjr4BRotQCn56) | [The Walk](https://open.spotify.com/album/7m5rLSCixXObpvrZaXIMoG) | 4:24 |
-| 26 | [Hard Trafikk](https://open.spotify.com/track/5jJuwmQ8Jdfx08F9hAx5tg) | [Bjørn Torske](https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68) | [Trøbbel](https://open.spotify.com/album/1Es585IxIHauFNjCaRoRyU) | 4:42 |
-| 27 | [This Time \- Lindstrøm Remix](https://open.spotify.com/track/17i25eEW6w8zuunLzgsKni) | [Nina Kraviz](https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE), [Lindstrøm](https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB) | [This Time \(Lindstrøm Remix\)](https://open.spotify.com/album/3X6t27Kq0J2aK7nLFUe9bX) | 9:29 |
-| 28 | [Ok, Kjor Romskip \- Original Mix](https://open.spotify.com/track/1i7POakPGDR8Z7PJEGDp5P) | [Rune Lindbaek](https://open.spotify.com/artist/6SXxObLtqUzAjJGtMwgsbk) | [Sondag](https://open.spotify.com/album/1LdfVewFu5TLTgaxFCyABn) | 5:30 |
+| 25 | [Hard Trafikk](https://open.spotify.com/track/5jJuwmQ8Jdfx08F9hAx5tg) | [Bjørn Torske](https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68) | [Trøbbel](https://open.spotify.com/album/1Es585IxIHauFNjCaRoRyU) | 4:42 |
+| 26 | [The Walk](https://open.spotify.com/track/0PNpTYNySZMLu8sFbznKiN) | [Frede](https://open.spotify.com/artist/6KSw87A52Tjr4BRotQCn56) | [The Walk](https://open.spotify.com/album/7m5rLSCixXObpvrZaXIMoG) | 4:24 |
+| 27 | [Ok, Kjor Romskip \- Original Mix](https://open.spotify.com/track/1i7POakPGDR8Z7PJEGDp5P) | [Rune Lindbaek](https://open.spotify.com/artist/6SXxObLtqUzAjJGtMwgsbk) | [Sondag](https://open.spotify.com/album/1LdfVewFu5TLTgaxFCyABn) | 5:30 |
+| 28 | [This Time \- Lindstrøm Remix](https://open.spotify.com/track/17i25eEW6w8zuunLzgsKni) | [Nina Kraviz](https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE), [Lindstrøm](https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB) | [This Time \(Lindstrøm Remix\)](https://open.spotify.com/album/3X6t27Kq0J2aK7nLFUe9bX) | 9:29 |
 | 29 | [Andromeda \(Prelude to the Future\)](https://open.spotify.com/track/7fBOoxCd7EOueVPd0rfN5D) | [Meanderthals](https://open.spotify.com/artist/6gWgAcsn746qDWvkkuX5Is) | [Desire Lines](https://open.spotify.com/album/0hUC2a4dsq8z6637JruBtn) | 4:34 |
 | 30 | [A City So Convenient](https://open.spotify.com/track/6Tlxp0jf4hOmSeOiuhnM5v) | [Mungolian Jetset](https://open.spotify.com/artist/3we4aZ9sQc0tp8UOyOEtpt) | [A City So Convenient](https://open.spotify.com/album/61GhllHN2g6exhlV6dTx9J) | 6:26 |
 | 31 | [Be A Man You Ant \- Original Mix](https://open.spotify.com/track/380B4H9JdSzDqjdJFtTykb) | [André Bratten](https://open.spotify.com/artist/4JumlwBeaIE16moHUv3xzZ) | [Be A Man You Ant](https://open.spotify.com/album/5PNdVI9kYjjyda8J7fuxig) | 6:24 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pbGJDhTXK3.md) - [plain]
 | 39 | [Formanta](https://open.spotify.com/track/2EsksidmH4QLEEWxFH1X9I) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shortwave Memories](https://open.spotify.com/album/67qmzR9XdcpPAoqBJIgzdy) | 4:09 |
 | 40 | [HS](https://open.spotify.com/track/1R5dYnxQDgeceQA6mmdk9Q) | [André Bratten](https://open.spotify.com/artist/4JumlwBeaIE16moHUv3xzZ) | [Pax Americana](https://open.spotify.com/album/58JeZwpWQCpzZZeNJIlDFF) | 4:51 |
 | 41 | [Kuk Av Stal](https://open.spotify.com/track/1gK0m17kzMese8TyEDCi4p) | [Blackbelt Andersen](https://open.spotify.com/artist/67qty1jpSV57pPDYDTDUgL) | [Kuk Av Stal / November](https://open.spotify.com/album/7gwgWGGKyazdpIYE5L4T6Z) | 12:22 |
-| 42 | [Nitten Nitti \- Harvey's Not Normal Mix](https://open.spotify.com/track/0pQ56PL4N5p5yl6L1vluwr) | [Bjørn Torske](https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68) | [Oppkok](https://open.spotify.com/album/1Ez5JV6xCESNKfZlyGYLfR) | 5:03 |
-| 43 | [Low](https://open.spotify.com/track/5SBlfw8rNCcerJxbNUGxue) | [Jerry Folk](https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv), [Tilla](https://open.spotify.com/artist/27POB5qIrVHNFFjz56PRVI) | [Moving Points](https://open.spotify.com/album/5eQvhdesnKTbBVxBPJuBJE) | 2:07 |
+| 42 | [Low](https://open.spotify.com/track/5SBlfw8rNCcerJxbNUGxue) | [Jerry Folk](https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv), [Tilla](https://open.spotify.com/artist/27POB5qIrVHNFFjz56PRVI) | [Moving Points](https://open.spotify.com/album/5eQvhdesnKTbBVxBPJuBJE) | 2:07 |
+| 43 | [Nitten Nitti \- Harvey's Not Normal Mix](https://open.spotify.com/track/0pQ56PL4N5p5yl6L1vluwr) | [Bjørn Torske](https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68) | [Oppkok](https://open.spotify.com/album/1Ez5JV6xCESNKfZlyGYLfR) | 5:03 |
 | 44 | [Baby Can't Stop](https://open.spotify.com/track/4vDhfpbTaN2DScjCWdzBOx) | [Lindstrøm](https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB), [Christabelle](https://open.spotify.com/artist/1tGGx3MFXshoO5UyPyk1re) | [Baby Can't Stop](https://open.spotify.com/album/5VLSsw5p70usZesWIq4UwG) | 6:11 |
 | 45 | [Italian Stallion](https://open.spotify.com/track/6SQiiwKY6DwT0jcwpejmcn) | [Todd Terje](https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw) | [Eurodans](https://open.spotify.com/album/27Pe6yBUgKYYXILiT7Cj5u) | 6:27 |
 | 46 | [Apex \- Live](https://open.spotify.com/track/5stm0hFXNYDoXKbcKamH95) | [Jaga Jazzist](https://open.spotify.com/artist/68HFSFMCZzyRjkkm9bv5Vt) | [The Tower](https://open.spotify.com/album/4M2fF5bRBP8Gi5Bi2EccFg) | 7:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pbGJDhTXK3.md) - [plain]
 | 49 | [Bommelom](https://open.spotify.com/track/1Xi4PSk3kXmv5iXort9Jaa) | [Bjørn Torske](https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68) | [Ramma EP](https://open.spotify.com/album/4UiQU657e5Uirz7XD6sTMG) | 7:06 |
 | 50 | [Perseverance](https://open.spotify.com/track/1S2N8e03dQC5Hs8OC141PE) | [Niilas](https://open.spotify.com/artist/1qAHgylFxv2gU6bXAQEM2P) | [Perseverance](https://open.spotify.com/album/3mppadjAyaa5NGmMRDSQIS) | 2:46 |
 
-Snapshot ID: `MTY2MjA2OTYwMCwwMDAwMDAwMGQzZGE2MmE1N2E1MTJmMTI1M2MzMTZhZTg2ZmZkYmVl`
+Snapshot ID: `MTY2MjA2OTYwMCwwMDAwMDAwMGNlMWZlNGViM2Y3MDBhN2FmZGU5MjUzNzVlOTk2M2M3`

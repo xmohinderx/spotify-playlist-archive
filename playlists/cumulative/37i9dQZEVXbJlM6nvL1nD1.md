@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ecuador.
 
-381 songs - 21 hr 33 min - [published](https://open.spotify.com/playlist/2nfraeUpUcnlrxcwWo1re5)
+382 songs - 21 hr 37 min - [published](https://open.spotify.com/playlist/2nfraeUpUcnlrxcwWo1re5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,7 +175,7 @@
 | [L\-Gante: RKT SESSIONS \#1](https://open.spotify.com/track/4A9u8OrzFYbxdjiydkNdUi) | [Papu DJ](https://open.spotify.com/artist/1Z7q2glJYLsPpPoPIgBjdE), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [L\-Gante: RKT SESSIONS \#1](https://open.spotify.com/album/530tno9W2FoIzPffRMOyGG) | 3:01 | 2021-04-16 | 2021-05-28 |
 | [La Bachata](https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [La Bachata](https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2) | 2:42 | 2022-06-28 |  |
 | [La Botella](https://open.spotify.com/track/6GPBXtnSepHovJi1uD1Ggj) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [La Última Promesa](https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ) | 3:46 | 2021-08-23 | 2021-11-24 |
-| [La Buena Fai](https://open.spotify.com/track/188Iohmux4LrDaj6e6eeEx) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM](https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9) | 2:24 | 2022-09-15 |  |
+| [La Buena Fai](https://open.spotify.com/track/188Iohmux4LrDaj6e6eeEx) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM](https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9) | 2:24 | 2022-09-15 | 2022-09-17 |
 | [LA CANCIÓN](https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [OASIS](https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN) | 4:02 | 2021-04-18 |  |
 | [La Corriente](https://open.spotify.com/track/1797zYiX4cKosMH836X9Gt) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:18 | 2022-05-07 |  |
 | [La Curiosidad](https://open.spotify.com/track/4HYDUMY0xSpeBr0AMY9cUz) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Platonicos](https://open.spotify.com/album/5sEpXan86hEcM8eZSAoWhw) | 3:39 | 2021-03-27\* | 2022-05-08 |
@@ -264,6 +264,7 @@
 | [Pareja Del Año](https://open.spotify.com/track/655JkvIwu2rDCaD1hPf04g) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Dharma](https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8) | 3:15 | 2022-01-29 | 2022-03-26 |
 | [París](https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [París](https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD) | 2:31 | 2021-07-19 | 2021-12-26 |
 | [Party](https://open.spotify.com/track/4tYFy8ALRjIZvnvSLw5lxN) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:47 | 2022-05-07 |  |
+| [Party en el Barrio \(feat\. Duki\)](https://open.spotify.com/track/5GF0X7GdNmnouKcdhhRmtm) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Party en el Barrio \(feat\. Duki\)](https://open.spotify.com/album/2alxO71ik8lO8YIuNT2LKn) | 3:56 | 2022-09-16 |  |
 | [París](https://open.spotify.com/track/3ehHqgYRzmeUi345MfHS2N) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [París](https://open.spotify.com/album/2dhk2kLdjVxWps1PW9WSTj) | 3:02 | 2022-05-21 | 2022-06-03 |
 | [PASATIEMPO](https://open.spotify.com/track/3qUdysxsu5FDvOl7nR5vln) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 3:24 | 2022-03-26 | 2022-03-30 |
 | [Paulo Londra: Bzrp Music Sessions, Vol\. 23](https://open.spotify.com/track/2uky0VCI2EZni0nArOPznM) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Paulo Londra: Bzrp Music Sessions, Vol\. 23](https://open.spotify.com/album/0nLqHiDWHpK33b9lVJMss5) | 4:18 | 2022-04-26 | 2022-05-29 |

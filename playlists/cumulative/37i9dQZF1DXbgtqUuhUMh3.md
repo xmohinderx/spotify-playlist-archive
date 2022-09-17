@@ -4,7 +4,7 @@
 
 > Listen to Arab women, at full volume\. Cover: Noel Kharman
 
-300 songs - 17 hr 44 min - [published](https://open.spotify.com/playlist/6cCioutZKMerUfIqu6fEVt)
+301 songs - 17 hr 47 min - [published](https://open.spotify.com/playlist/6cCioutZKMerUfIqu6fEVt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,10 +300,11 @@
 | [مقصوده](https://open.spotify.com/track/1A8vh1a3SWiHTpi6VhupOy) | [Sola Omar](https://open.spotify.com/artist/5f4fUKsYW1NtyCjgwTVI6k) | [مقصوده](https://open.spotify.com/album/5s317YC0Mp2Dm5HPYFhPpv) | 3:19 | 2021-12-23 | 2022-03-02 |
 | [مليون وش](https://open.spotify.com/track/2ta3ozfEJ2O9162Wy2EcEh) | [Nagwan](https://open.spotify.com/artist/6PBrwzHpDQDtenQ0SZo6ou) | [مليون وش](https://open.spotify.com/album/3tjB3hMfLxTTbf6kIOGg3t) | 1:50 | 2021-12-23 | 2022-03-02 |
 | [من أنا](https://open.spotify.com/track/3OscCnbSCyJQiHzN9zhang) | [Alsarah](https://open.spotify.com/artist/44xvhsoOZU4Tmr5maR79mS), [Alsarah & The Nubatones](https://open.spotify.com/artist/7xGVP8NTuOKRVkNMl2fv7n) | [من أنا](https://open.spotify.com/album/3jjB43pfvp1v3ZH55nYBNV) | 5:08 | 2021-12-23 | 2022-03-01 |
+| [نحنوح](https://open.spotify.com/track/1lcoflpxNSJR8U0gzVY6xq) | [Donia Samir Ghanem](https://open.spotify.com/artist/1ieloBuwzXdMn9VPOufDvB) | [نحنوح](https://open.spotify.com/album/7KNPArvrYE01FNciIiERE0) | 3:25 | 2022-09-16 |  |
 | [هاجر نعمان \- مسعود هجر](https://open.spotify.com/track/7jA6AqFb0h95bne8OAFQyj) | [هاجر نعمان](https://open.spotify.com/artist/6SeRGZj4fBqstC7JBv2Rb8) | [هاجر نعمان \- مسعود هجر](https://open.spotify.com/album/1aQuxtQPo3W1PNRUKkYT8u) | 6:45 | 2021-12-23 | 2022-03-02 |
 | [وذا مارحت](https://open.spotify.com/track/0yBbI752cyXl1lioeMrn1v) | [ضحى ذاكر](https://open.spotify.com/artist/2YscB4ch7eFXGvGiv6uSV5) | [واذا مارحت \- Single](https://open.spotify.com/album/0rga8umlOMLhiJ6deifelZ) | 2:47 | 2021-12-23 | 2022-03-02 |
 | [ولو](https://open.spotify.com/track/4YkNQggwRFNWBxCOrNf7nj) | [Maritta Hallani](https://open.spotify.com/artist/6m7sil7DZpW1PDsVfkAOMP) | [ولو](https://open.spotify.com/album/44ixYLqJfjnmY5UKLOpbgf) | 2:58 | 2022-03-01 | 2022-08-05 |
-| [يا صبر الليل](https://open.spotify.com/track/4HUyAHEUantmDNuAl6puVy) | [Walaa Jundi](https://open.spotify.com/artist/1gyhxMT4OsXujzd3pcgdR5) | [يا صبر الليل](https://open.spotify.com/album/1eJTKJZZ8DwHTS2bB9aphX) | 4:22 | 2022-03-01 |  |
+| [يا صبر الليل](https://open.spotify.com/track/4HUyAHEUantmDNuAl6puVy) | [Walaa Jundi](https://open.spotify.com/artist/1gyhxMT4OsXujzd3pcgdR5) | [يا صبر الليل](https://open.spotify.com/album/1eJTKJZZ8DwHTS2bB9aphX) | 4:22 | 2022-03-01 | 2022-09-17 |
 | [يا طير السنونو](https://open.spotify.com/track/7uJYDaD71XHFUCcm3CDOZV) | [Rola Azar](https://open.spotify.com/artist/17WvUHY56BGNm6i6uTqyj1) | [يا طير السنونو](https://open.spotify.com/album/6y4JKfeGDumM3k7OVgoYST) | 1:52 | 2021-12-23 | 2022-03-02 |
 | [يا متيم](https://open.spotify.com/track/7w7GSGMmMGFJa7jIXOkTXz) | [مروة سالم](https://open.spotify.com/artist/5T8HcA0hsPwLvdejz6NKJj) | [يا متيم \- Single](https://open.spotify.com/album/7dwA6hXAiRBvPG11tyAdwM) | 4:34 | 2021-12-30 | 2022-03-02 |
 | [يالأيام](https://open.spotify.com/track/0irTKPA6HKoBqS84qzfImN) | [Meriem Nourdine](https://open.spotify.com/artist/3Kh8dQTSIfbZ0f4ZHvm9al) | [يالأيام](https://open.spotify.com/album/4Zcqp2T7U2AmG5tII9nw7p) | 4:48 | 2021-12-23 | 2022-02-28 |

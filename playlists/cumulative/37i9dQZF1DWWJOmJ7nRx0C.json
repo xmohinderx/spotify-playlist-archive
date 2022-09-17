@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hardest songs, loud. Very loud. Cover:  ONE OK ROCK",
+  "description": "The hardest songs, loud. Very loud. Cover:  STARSET",
   "name": "Rock Hard",
   "published_playlist_ids": [
     "2UlZpIm54Pz4o9EirPo1mN"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 159832,
       "name": "<maybe> it's my fault",
       "url": "https://open.spotify.com/track/4w5wkuwuCByenZ6QufdeQN"
@@ -916,6 +916,24 @@
     },
     {
       "album": {
+        "name": "Broken",
+        "url": "https://open.spotify.com/album/1bQ2X4FqjxcFwGUwyeQTu7"
+      },
+      "artists": [
+        {
+          "name": "The Devil Wears Prada",
+          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228600,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/3XofThdII94fVjvIj2QUci"
+    },
+    {
+      "album": {
         "name": "Earthling",
         "url": "https://open.spotify.com/album/47mMVL72wEPG0li4VTtHzM"
       },
@@ -1003,6 +1021,24 @@
       "duration_ms": 181849,
       "name": "Buried in the Sun",
       "url": "https://open.spotify.com/track/1RwZqkzexsLSf7aONgcpoi"
+    },
+    {
+      "album": {
+        "name": "Burn It Up",
+        "url": "https://open.spotify.com/album/05ufuvHmeSOSvGUFra5tPj"
+      },
+      "artists": [
+        {
+          "name": "Cory Marks",
+          "url": "https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206038,
+      "name": "Burn It Up",
+      "url": "https://open.spotify.com/track/0E9cZM5tqkk0KDSqHsx4p6"
     },
     {
       "album": {
@@ -1389,7 +1425,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 194654,
       "name": "Classless Act (feat. Vince Neil of Motley Crue)",
       "url": "https://open.spotify.com/track/05liOVVybQw3UyyrEOAcSw"
@@ -1701,7 +1737,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 177789,
       "name": "Dark Side",
       "url": "https://open.spotify.com/track/1ovFnZv6mUe0LzAbfVqOmh"
@@ -2247,7 +2283,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 269480,
       "name": "Dreams of Nowhere",
       "url": "https://open.spotify.com/track/0XagPzF4JY9rxH8wZ0Qzv9"
@@ -2413,7 +2449,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 268921,
       "name": "Epiphany",
       "url": "https://open.spotify.com/track/4YczLxtXC35D5KniPzAzPJ"
@@ -2915,7 +2951,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 205108,
       "name": "Ghosted",
       "url": "https://open.spotify.com/track/5uCwn6J8fJnppTPGcfFWqQ"
@@ -4149,7 +4185,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 180211,
       "name": "Let Me Let You Go",
       "url": "https://open.spotify.com/track/1l6fmXCPtTpJrKpYBe9bBw"
@@ -4716,6 +4752,24 @@
     },
     {
       "album": {
+        "name": "Hell Paso",
+        "url": "https://open.spotify.com/album/5seABmIu2cnoRMDoVHZvOD"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156610,
+      "name": "Money Spent",
+      "url": "https://open.spotify.com/track/1HxcB2FgfYVhkbqNMCmq1O"
+    },
+    {
+      "album": {
         "name": "More Than Machines",
         "url": "https://open.spotify.com/album/3h4MWIFNt3pb3IHaifAW83"
       },
@@ -4731,6 +4785,24 @@
       "duration_ms": 201541,
       "name": "More Than Machines",
       "url": "https://open.spotify.com/track/1y1l61KJCj8EDE35iS4ZgC"
+    },
+    {
+      "album": {
+        "name": "My Own Device",
+        "url": "https://open.spotify.com/album/6V035P8rKn8whAVj0DDbEs"
+      },
+      "artists": [
+        {
+          "name": "Archetypes Collide",
+          "url": "https://open.spotify.com/artist/6Gnk08ItppARKX1z1EW3Vn"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186889,
+      "name": "My Own Device",
+      "url": "https://open.spotify.com/track/1oOKI3gpk9skLhK54CQrwf"
     },
     {
       "album": {
@@ -6068,6 +6140,24 @@
     },
     {
       "album": {
+        "name": "SAY",
+        "url": "https://open.spotify.com/album/6mXPbUWAiKuMklIf64Jgv6"
+      },
+      "artists": [
+        {
+          "name": "RedHook",
+          "url": "https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179088,
+      "name": "SAY",
+      "url": "https://open.spotify.com/track/7t8yNLOj8NSUxALwftaF7r"
+    },
+    {
+      "album": {
         "name": "Say It",
         "url": "https://open.spotify.com/album/5XCCFDHcIswJ3d0vhGeC8g"
       },
@@ -6942,6 +7032,24 @@
     },
     {
       "album": {
+        "name": "Talk & Walk",
+        "url": "https://open.spotify.com/album/6jJpnrltVW9zHyfBSNk2FE"
+      },
+      "artists": [
+        {
+          "name": "Mammoth WVH",
+          "url": "https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275494,
+      "name": "Talk & Walk",
+      "url": "https://open.spotify.com/track/0BvFgXSJZ1irgFEbhHT5hc"
+    },
+    {
+      "album": {
         "name": "Nowhere Generation",
         "url": "https://open.spotify.com/album/4t8eylrNR3Z5kYc7VEENLW"
       },
@@ -7217,6 +7325,24 @@
       "duration_ms": 228834,
       "name": "The Liars Club",
       "url": "https://open.spotify.com/track/3cgasmbjpM2TMfsH0plAwt"
+    },
+    {
+      "album": {
+        "name": "The Optimist",
+        "url": "https://open.spotify.com/album/4rkuMkZkDrZ4ls8cWe0lN9"
+      },
+      "artists": [
+        {
+          "name": "10 Years",
+          "url": "https://open.spotify.com/artist/0REMf7H0VP6DwfZ9MbuWph"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178415,
+      "name": "The Optimist",
+      "url": "https://open.spotify.com/track/55ET0bFCVKpGJOXATqLe0x"
     },
     {
       "album": {
@@ -7757,7 +7883,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 169128,
       "name": "Up",
       "url": "https://open.spotify.com/track/2wzNQYX6veNM0AJncAV75v"
@@ -8067,6 +8193,24 @@
       "duration_ms": 190926,
       "name": "We Are No Saints",
       "url": "https://open.spotify.com/track/3BPdKJxzfJX63N7LYLDpI6"
+    },
+    {
+      "album": {
+        "name": "We Came To Play",
+        "url": "https://open.spotify.com/album/2JCF0uPKnJCJdQ7C5acVFr"
+      },
+      "artists": [
+        {
+          "name": "Show Me the Body",
+          "url": "https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135208,
+      "name": "We Came To Play",
+      "url": "https://open.spotify.com/track/41zQURNrqtia1f2xXfZkUP"
     },
     {
       "album": {

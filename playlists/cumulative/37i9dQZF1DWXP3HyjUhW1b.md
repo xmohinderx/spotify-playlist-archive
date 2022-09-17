@@ -4,7 +4,7 @@
 
 > Aquí están las meras\-meras de nuestro cancionero\. Pedro Infante en portada.
 
-189 songs - 10 hr 43 min - [published](https://open.spotify.com/playlist/60XC9Gg1KRiP0TwNvVrnnp)
+190 songs - 10 hr 46 min - [published](https://open.spotify.com/playlist/60XC9Gg1KRiP0TwNvVrnnp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [En Peligro de Extinción](https://open.spotify.com/track/4wZqjBJCs2tD7AV3c2UUh5) | [La Adictiva](https://open.spotify.com/artist/5U8FVQFiugMolJ7DEEDOdf) | [30 Aniversario](https://open.spotify.com/album/6R0zUtsEyeLEPmWBhVmenf) | 3:54 | 2021-11-12 |  |
 | [En Peligro de Extinción](https://open.spotify.com/track/45sVRPegWSGpIcsrDoaaCY) | [La Adictiva Banda San José de Mesillas](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [En Peligro de Extinción](https://open.spotify.com/album/4wVjFDQvkAMizWIlA4gTdp) | 3:54 | 2021-11-12 | 2022-07-29 |
 | [En Tu Pelo](https://open.spotify.com/track/4leHHwUSR0Vm5rjYvHhBEU) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Vida De Bohemio](https://open.spotify.com/album/0ufPamcshkfTyzmIJp9Efi) | 3:00 | 2021-11-12 | 2022-09-13 |
-| [Entrega Total](https://open.spotify.com/track/6aeFjCaoAx6hKbdie8avjV) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Serie De Coleccion 15 Autenticos](https://open.spotify.com/album/48lUrzO92SmHoSfpqNkbbl) | 2:30 | 2022-09-12 |  |
+| [Entrega Total](https://open.spotify.com/track/6aeFjCaoAx6hKbdie8avjV) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Serie De Coleccion 15 Autenticos](https://open.spotify.com/album/48lUrzO92SmHoSfpqNkbbl) | 2:30 | 2022-09-12 | 2022-09-17 |
 | [Entrega Total](https://open.spotify.com/track/1Hh7gEOhoCBG1ob7Aw6biK) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Canciones De Sus Peliculas](https://open.spotify.com/album/4b0LLrVt3PWfWBV1Oz4fjL) | 2:30 | 2021-11-12 | 2022-07-29 |
 | [Eres Mi Droga](https://open.spotify.com/track/3t4BZRyfrZGgICZGyNewyi) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [IV](https://open.spotify.com/album/43UFBkcvSy10IIqsGIJzUw) | 3:27 | 2022-09-12 |  |
 | [Es Demasiado Tarde \- Remasterizado](https://open.spotify.com/track/7wt6xHEIxuKlqCq2YurOLO) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Amores](https://open.spotify.com/album/6Ly5W4bSP2Ouud8yYP2VtU) | 4:10 | 2021-11-12 |  |
@@ -181,6 +181,7 @@
 | [Una Página Más](https://open.spotify.com/track/2eVPRDZqjO0sMD32ecDPyP) | [Ezequiel Peña](https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty) | [A Todas Las Que Amé](https://open.spotify.com/album/3mPYmDJtfS7QiqWJ1OtIeA) | 2:41 | 2021-11-12 |  |
 | [Vete Ya](https://open.spotify.com/track/3gqgSM82j6NMAj4Jllr06T) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Mi Satisfacción](https://open.spotify.com/album/2uJ0YxszsHKfS14kOPmAFl) | 2:37 | 2021-11-12 |  |
 | [Viva Mexico](https://open.spotify.com/track/3ZRgamsK7FMscsCuY1gDV0) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Canto A Mi Tierra](https://open.spotify.com/album/2Eb5ypWm78gpcbnBGHbCMW) | 2:28 | 2021-11-12 | 2022-07-29 |
+| [Viva Mexico](https://open.spotify.com/track/6v6FAme3KtLO1wEh5abAzi) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Canto A Mi Tierra](https://open.spotify.com/album/5bmZkJbgxYkQHlgGIAs9GK) | 2:28 | 2022-09-12 |  |
 | [Vuelve](https://open.spotify.com/track/1w2Gr1SgOn8M148CPT7IMW) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9), [Instituto Mexicano del Mariachi](https://open.spotify.com/artist/0xpviNXW8uTS205NAe02Ff) | [Vuelve](https://open.spotify.com/album/4mFUF8YVCKdNUZVKNq2vL0) | 3:29 | 2021-11-12 | 2022-07-24 |
 | [Y Así Fue](https://open.spotify.com/track/6rmVv5Nh80OfI8qWxHiyY2) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Soy Lo Que Quiero..\. Indispensable \(Edición Especial\)](https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb) | 2:46 | 2022-09-12 |  |
 | [Y...](https://open.spotify.com/track/0wuSvq7ZYwAcW2d86hyshh) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Javier Solis Con Acoo De Mariachi](https://open.spotify.com/album/0mo4FKlS0n0NtMAQw8SdNn) | 2:39 | 2021-11-12 |  |

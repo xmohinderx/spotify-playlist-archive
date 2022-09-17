@@ -1,11 +1,29 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "For the Hard Rock and full volume lovers. Cover: Adelitas Way",
+  "description": "For the Hard Rock and full volume lovers. Cover: Clutch",
   "name": "Hard Rock",
   "published_playlist_ids": [
     "2HA2QQOzqVmyF0ys9hz4Cw"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "(Don't Let 'Em) Grind Ya Down [Live at Glasgow Apollo, 18th March 1982]",
+        "url": "https://open.spotify.com/album/75gdLiRVeqWyS4YWJwF7XH"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213693,
+      "name": "(Don't Let 'Em) Grind Ya Down - Live at Glasgow Apollo, 18th March 1982",
+      "url": "https://open.spotify.com/track/48dAc10HfSHfosBJM01QQ9"
+    },
     {
       "album": {
         "name": "21ST CENTURY BITCH",
@@ -165,7 +183,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 243560,
       "name": "AfterLife",
       "url": "https://open.spotify.com/track/51lcM37Li2HOhk8F8kPwUv"
@@ -1451,7 +1469,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 185542,
       "name": "Faded Out (feat. Within Temptation)",
       "url": "https://open.spotify.com/track/5l4DU5tgUtLqFSxir6y0dp"
@@ -2725,7 +2743,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 205826,
       "name": "Natural Born Killer",
       "url": "https://open.spotify.com/track/6zF7mIV7Yx74FALTZh3UMZ"
@@ -3554,6 +3572,24 @@
     },
     {
       "album": {
+        "name": "TRUE POWER",
+        "url": "https://open.spotify.com/album/6SjY4WK6VMFYEINGVOHzGa"
+      },
+      "artists": [
+        {
+          "name": "I Prevail",
+          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146176,
+      "name": "Self-Destruction",
+      "url": "https://open.spotify.com/track/4UhMvTR5tHf2ecfoz0KV92"
+    },
+    {
+      "album": {
         "name": "Feel This",
         "url": "https://open.spotify.com/album/1KRDInixnT3AO7K6HQkKty"
       },
@@ -3677,6 +3713,24 @@
       "duration_ms": 268760,
       "name": "Signed in Blood",
       "url": "https://open.spotify.com/track/4oPUKqsYlQbuKAEjsuZCcq"
+    },
+    {
+      "album": {
+        "name": "Sunrise on Slaughter Beach",
+        "url": "https://open.spotify.com/album/2u8g60vELeT5gjh1aZRzO5"
+      },
+      "artists": [
+        {
+          "name": "Clutch",
+          "url": "https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250011,
+      "name": "Skeletons on Mars",
+      "url": "https://open.spotify.com/track/70mqWI6J3BseJrWA81EVkk"
     },
     {
       "album": {
@@ -4123,7 +4177,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 237291,
       "name": "Tear It Down",
       "url": "https://open.spotify.com/track/7heofhlS2Al1h56tb7Hoo8"
@@ -5131,6 +5185,24 @@
       "duration_ms": 175835,
       "name": "We Strive for Excellence",
       "url": "https://open.spotify.com/track/7Kjxo3ZGH9s2OzvxQIIhQ2"
+    },
+    {
+      "album": {
+        "name": "AfterLife",
+        "url": "https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256741,
+      "name": "Welcome To The Circus",
+      "url": "https://open.spotify.com/track/1linrfCmITmQHs4enAxTUY"
     },
     {
       "album": {

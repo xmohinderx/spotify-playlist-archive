@@ -2,9 +2,9 @@
 
 ### [Renegade Folk](https://open.spotify.com/playlist/37i9dQZF1DWWHw0yK8z3Pm)
 
-> Singer\-songwriters who colour outside the lines\. Cover: Benjamin Dakota Rogers
+> Singer\-songwriters who colour outside the lines\. Cover: Honey Harper
 
-168 songs - 10 hr 28 min - [published](https://open.spotify.com/playlist/5h0SoEEkn4gAx7xRIlcPhO)
+172 songs - 10 hr 44 min - [published](https://open.spotify.com/playlist/5h0SoEEkn4gAx7xRIlcPhO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,12 +70,13 @@
 | [Give and Take](https://open.spotify.com/track/1m1yaWUGx0qQgl5bqGrcZm) | [Amy Blake](https://open.spotify.com/artist/3mgJBpa8Mp23JoxA1CWxol) | [Give and Take](https://open.spotify.com/album/6uiekTC9PgG5afPi4OWrNo) | 4:28 | 2022-05-13 |  |
 | [Goodbye Mr\. Blue](https://open.spotify.com/track/6b97su2rHlDZm0aiyGQCaw) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Goodbye Mr\. Blue](https://open.spotify.com/album/4S8GgZhOvktzQZWA2NXHAX) | 5:00 | 2022-05-13 | 2022-07-29 |
 | [Goodbye Mr\. Blue](https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Chloë and the Next 20th Century](https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz) | 5:00 | 2022-07-22 |  |
-| [Grandfather](https://open.spotify.com/track/6Mf7qSGGEDuxV95aQpf9Ty) | [Kyle McKearney](https://open.spotify.com/artist/7sAGzb8R5byxD1U13npShz) | [Grandfather](https://open.spotify.com/album/4FcEruvFCCjxQ4GyikOUFX) | 4:24 | 2022-05-20 |  |
+| [Grandfather](https://open.spotify.com/track/6Mf7qSGGEDuxV95aQpf9Ty) | [Kyle McKearney](https://open.spotify.com/artist/7sAGzb8R5byxD1U13npShz) | [Grandfather](https://open.spotify.com/album/4FcEruvFCCjxQ4GyikOUFX) | 4:24 | 2022-05-20 | 2022-09-17 |
 | [Greyhound](https://open.spotify.com/track/2c7BU7qdz3xGSndyj5OQKN) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [Greyhound](https://open.spotify.com/album/65CRcFpY94KnI8NGo6Ezq5) | 4:15 | 2022-08-26 |  |
 | [Headlines](https://open.spotify.com/track/0RIVsm9eMXUAhUgrQ7NeFj) | [Charlotte Cornfield](https://open.spotify.com/artist/59aqTTQGnvttJ4BCThaABZ) | [Highs in the Minuses](https://open.spotify.com/album/2zR97oZdXueACHFn00iuR7) | 3:41 | 2022-05-13 | 2022-07-29 |
 | [Headlines](https://open.spotify.com/track/2fFsZaYABWElJixFWJkqlN) | [Charlotte Cornfield](https://open.spotify.com/artist/59aqTTQGnvttJ4BCThaABZ) | [Highs in the Minuses](https://open.spotify.com/album/1Az1xkr19Qdy3guiCl7YyF) | 3:41 | 2022-07-22 | 2022-08-27 |
 | [Heaven and Light](https://open.spotify.com/track/1MDJjLqAdQ7anWrYvDVOZ1) | [River Whyless](https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH) | [Heaven and Light](https://open.spotify.com/album/7vRJrhetiOy3OurJ2Gqw0o) | 3:15 | 2022-05-13 | 2022-06-25 |
 | [Heaven's Touch](https://open.spotify.com/track/3bHfBsUAC23VN6oHwvLCwZ) | [Carsen Gray](https://open.spotify.com/artist/2Rghdsv4GA0dvKqLAnAWZs) | [Heaven's Touch](https://open.spotify.com/album/2ebFuRMHOl8YI6pH6cZAJx) | 3:17 | 2022-05-13 | 2022-08-13 |
+| [Hey Who's Counting?](https://open.spotify.com/track/2EddSxlJ381PsiQkEmZNeL) | [Skinny Dyck](https://open.spotify.com/artist/1saewocg14MmejEW9t4SZL) | [Palace Waiting](https://open.spotify.com/album/2sgxaCh1xIwbHoBsslHYuR) | 2:57 | 2022-09-16 |  |
 | [Hot Sun](https://open.spotify.com/track/7boU5TwZT4PNnBFKvj64i0) | [Daniel James McFadyen](https://open.spotify.com/artist/5MUdSu3xqIVIDS5TtJrEB9) | [Hot Sun](https://open.spotify.com/album/5zsMjaSXlfETTQhVwDHnMj) | 3:01 | 2022-06-27 |  |
 | [How Do You Love with a Broken Heart?](https://open.spotify.com/track/5VFIPHbkvSyVp2kANgpSVg) | [Leeroy Stagger](https://open.spotify.com/artist/3ltVtf7QHIwJBNQHqjb9UI) | [Dystopian Weekends](https://open.spotify.com/album/6nA8bcaAUOF4iTEtIPWjk2) | 3:48 | 2022-05-13 | 2022-08-27 |
 | [I Was Born To Love You](https://open.spotify.com/track/3PG6V5yuFfo4APiovOQoRv) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [I Was Born To Love You](https://open.spotify.com/album/7cwHkTgTHLbCUFB6hRi9QQ) | 4:25 | 2022-07-22 |  |
@@ -127,15 +128,18 @@
 | [Pitch Black](https://open.spotify.com/track/24v9Z8Q7Ohbee93YyPns0m) | [Jadea Kelly](https://open.spotify.com/artist/3ro4f3VnPO6PiAah0POgwD) | [Roses](https://open.spotify.com/album/0t2iOdlsZEn4DmXMkRKBIe) | 3:58 | 2022-05-13 |  |
 | [Post Breakup Bender](https://open.spotify.com/track/2Iwy8pzOjT67hB7nxS3v8G) | [Sean Watson Graham](https://open.spotify.com/artist/6S7fQrvmDgkoTQHHQiExI6) | [Post Breakup Bender](https://open.spotify.com/album/5mZw0HlcrXRGcWyFK6rks6) | 3:44 | 2022-05-13 |  |
 | [Prairie](https://open.spotify.com/track/0LGUqza1L9nPakX9UXi5B4) | [Meredith Lazowski](https://open.spotify.com/artist/2ArYHxQyNMtWFI7YpkQWPP) | [Prairie](https://open.spotify.com/album/41NAidTgQgMILE22jFjsu7) | 4:59 | 2022-05-13 | 2022-06-04 |
+| [Queen Of Spades](https://open.spotify.com/track/7xsH1sQMp0wXYrREskS0JX) | [Julianna Riolino](https://open.spotify.com/artist/4IkYUDeCe6OrwQhdSZZ81b) | [Queen Of Spades](https://open.spotify.com/album/3ypJf75RGg4YsxRF7T2qzO) | 4:06 | 2022-09-16 |  |
 | [Recyclers](https://open.spotify.com/track/5GATa8dqT4peA3867Sv5f3) | [Jagguar](https://open.spotify.com/artist/5SuTZQIfFe0gtEyVojQ0vF) | [Recyclers](https://open.spotify.com/album/1RRQsmBUCGLHQ2n22scgQs) | 4:12 | 2022-05-13 |  |
 | [Red Moon](https://open.spotify.com/track/3AqSeHqtg45ddsAYJeuCqm) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 4:19 | 2022-05-13 |  |
 | [Remember Me For Me](https://open.spotify.com/track/144sfZcukffgbgyIWvSnV8) | [SonReal](https://open.spotify.com/artist/2OlZK0VIzr7wQYSrj9bOvF), [Lily Moore](https://open.spotify.com/artist/1SQeTDXO492WB6aFvrntSS) | [Remember Me For Me](https://open.spotify.com/album/0iMAEuqBVOORBmW4CVSeF6) | 3:41 | 2022-08-20 |  |
 | [Ride the Lightning \- 717 Tapes](https://open.spotify.com/track/1JTQG8J8jN8tjDTyUWnaRe) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Ride the Lightning \(717 Tapes\)](https://open.spotify.com/album/3467Wn1M2kESux2YS9Rczi) | 3:06 | 2022-05-13 |  |
-| [Rise from the Wreck](https://open.spotify.com/track/2KkMtNzP3d0nlz9wgglYmt) | [Mentana](https://open.spotify.com/artist/7s1t2dwRy92CkE8IrCwC6u) | [Rise from the Wreck](https://open.spotify.com/album/13v4v7CGKvH6Iap0p2d5SF) | 4:41 | 2022-06-03 |  |
+| [Rise from the Wreck](https://open.spotify.com/track/2KkMtNzP3d0nlz9wgglYmt) | [Mentana](https://open.spotify.com/artist/7s1t2dwRy92CkE8IrCwC6u) | [Rise from the Wreck](https://open.spotify.com/album/13v4v7CGKvH6Iap0p2d5SF) | 4:41 | 2022-06-03 | 2022-09-17 |
+| [River Rain](https://open.spotify.com/track/4H8SuWRnIuMEO2S9HQJOeE) | [Kyle McKearney](https://open.spotify.com/artist/7sAGzb8R5byxD1U13npShz) | [River Rain](https://open.spotify.com/album/0tnqzZJt70WBtxyTvC8u6W) | 4:58 | 2022-09-16 |  |
+| [Rumpshaker](https://open.spotify.com/track/7ucZi9RuxviWkpDCJrpyjE) | [Crystal Shawanda](https://open.spotify.com/artist/31X6W8Y4y9E0G78r5Y2rXG) | [Rumpshaker](https://open.spotify.com/album/2TAatpkEA5nQcZkh9AiW6g) | 3:23 | 2022-09-16 |  |
 | [Sandy \(Wrangler in the Badlands\)](https://open.spotify.com/track/2X2KFZio004eItvRC9ECOZ) | [Mentana](https://open.spotify.com/artist/7s1t2dwRy92CkE8IrCwC6u) | [Sandy \(Wrangler in the Badlands\)](https://open.spotify.com/album/6unm7HfVeFeblNky9xXvp7) | 4:34 | 2022-08-05 |  |
 | [Seasons](https://open.spotify.com/track/6E04ZDC2zmiBNonSpjVCe8) | [Blackbird Valley](https://open.spotify.com/artist/44Q243Ct8zD0pJAT6v4jGV) | [Seasons](https://open.spotify.com/album/3Wuu6SCOFRfoo0NVf40lef) | 5:01 | 2022-07-22 |  |
 | [Second Thought](https://open.spotify.com/track/6aVcvW1HA1hEblYlJM8hAN) | [Aiden Ayers](https://open.spotify.com/artist/7yF4b51na3Wdeyiid9h4c2) | [Second Thought](https://open.spotify.com/album/0eMOa6K8m3LyiOUozJLrri) | 3:29 | 2022-08-26 |  |
-| [Seeds](https://open.spotify.com/track/0t47bIDjKLTxUSwtWGZcj6) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6) | [Seeds](https://open.spotify.com/album/2UWDJDoJRSgCyYpH333UlV) | 4:03 | 2022-06-29 |  |
+| [Seeds](https://open.spotify.com/track/0t47bIDjKLTxUSwtWGZcj6) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6) | [Seeds](https://open.spotify.com/album/2UWDJDoJRSgCyYpH333UlV) | 4:03 | 2022-06-29 | 2022-09-17 |
 | [She Calls Me](https://open.spotify.com/track/7M86EjRimOoo0BGWZckC4X) | [Digging Roots](https://open.spotify.com/artist/6jXRPYI1uhTRJKuetXMRpj) | [Zhawenim](https://open.spotify.com/album/4cktud6ZSAorujL3Ft3Bnw) | 3:54 | 2022-06-24 |  |
 | [Shooting at the Moon](https://open.spotify.com/track/6BiT0rQrxNTbglW7jBPd5D) | [Mariel Buckley](https://open.spotify.com/artist/7lghcHbrdt7sqHWeya15aV) | [Shooting at the Moon](https://open.spotify.com/album/1WoVKktys2ml21iQ7nPFum) | 3:19 | 2022-06-03 | 2022-07-09 |
 | [Shreveport to L.A.](https://open.spotify.com/track/71HLRGiyMmw9G3dUeDDDJz) | [Mike Plume](https://open.spotify.com/artist/2bTUu34JOWSVnqOSeFmCcr) | [Shreveport to L.A.](https://open.spotify.com/album/0O6x0qmrGiS0FGYavcaCQH) | 3:59 | 2022-05-13 | 2022-08-13 |
@@ -160,7 +164,7 @@
 | [To Die For](https://open.spotify.com/track/3jrhymhDIXEzFCIGXVYjVH) | [Arlo McKinley](https://open.spotify.com/artist/4bnCmwKU89Rt1zWnRIdSUa) | [This Mess We're In](https://open.spotify.com/album/5CK0pgc09TdzFBkNUQ5GR9) | 3:23 | 2022-07-22 |  |
 | [Top Down](https://open.spotify.com/track/44Lxf5akfAz3A9Su0MFB7K) | [Georgia Harmer](https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4) | [Top Down](https://open.spotify.com/album/1OLO1IBqSnjI1NNBBt1CGW) | 3:18 | 2022-05-13 | 2022-07-29 |
 | [Top Down](https://open.spotify.com/track/4azTAgJjMQ8bjR08CYQQAy) | [Georgia Harmer](https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4) | [Stay In Touch](https://open.spotify.com/album/3FocbWHJtfvMRhUWmhJTh4) | 3:18 | 2022-07-22 |  |
-| [Tough or Die](https://open.spotify.com/track/0KKcazbwGXcSEdwXwhkWwN) | [Kyle McKearney](https://open.spotify.com/artist/7sAGzb8R5byxD1U13npShz) | [Down\-Home](https://open.spotify.com/album/23oKMLD2iem0u13XqIIYQh) | 3:11 | 2022-05-13 |  |
+| [Tough or Die](https://open.spotify.com/track/0KKcazbwGXcSEdwXwhkWwN) | [Kyle McKearney](https://open.spotify.com/artist/7sAGzb8R5byxD1U13npShz) | [Down\-Home](https://open.spotify.com/album/23oKMLD2iem0u13XqIIYQh) | 3:11 | 2022-05-13 | 2022-09-17 |
 | [Two Shots](https://open.spotify.com/track/1mauqJ16bq02UNpTw2IysI) | [John Muirhead](https://open.spotify.com/artist/5LbFyIkuT9CraXUmsARWX0) | [Traveller](https://open.spotify.com/album/7aEPFKcRZg2lDCzE5FGtSX) | 4:09 | 2022-05-13 |  |
 | [Unlucky Skin](https://open.spotify.com/track/6lFoLANp9f1mETEyxp3sCE) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [Unlucky Skin / Roll The Bones](https://open.spotify.com/album/6mWrmigd6yuj5142g0f8Vo) | 3:18 | 2022-05-13 | 2022-05-20 |
 | [Up To You](https://open.spotify.com/track/6NpXHoyenMiNwXvOocSPkk) | [Aiden Ayers](https://open.spotify.com/artist/7yF4b51na3Wdeyiid9h4c2) | [Up To You](https://open.spotify.com/album/3SJsVvtNTvD8UqHztTFWs0) | 3:12 | 2022-07-29 | 2022-08-27 |

@@ -1,12 +1,12 @@
 {
   "description": "This is the Latin soundtrack of the 60s! Cover: Roc\u00edo D\u00farcal",
-  "num_followers": 16658,
+  "num_followers": 16687,
   "original_name": "60s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkzMTk0MSwwMDAwMDAwMDk3MGVkYjgyZTEyOTk1MzUxNDE3MDRkZTMwZDg3NzM3",
+  "snapshot_id": "MTY2MTkzMTk0MSwwMDAwMDAwMDhlOTJmMTQ0ZTdmMGNhNmI5ZjU3ZTljMjVmMmI0NjQ1",
   "tracks": [
     {
       "added_at": "2022-08-31 07:45:41",
@@ -259,22 +259,6 @@
     {
       "added_at": "2022-08-31 07:45:41",
       "album": {
-        "name": "Guantanamera",
-        "url": "https://open.spotify.com/album/6GJ2oQ4v90ylX6WQTobmd5"
-      },
-      "artists": [
-        {
-          "name": "The Sandpipers",
-          "url": "https://open.spotify.com/artist/3iBuBivHItWMpdiVmLT0uB"
-        }
-      ],
-      "duration_ms": 193720,
-      "name": "Guantanamera",
-      "url": "https://open.spotify.com/track/6Z6bFqqxhHS53Z5SqT0exe"
-    },
-    {
-      "added_at": "2022-08-31 07:45:41",
-      "album": {
         "name": "Las 100 Clasicas Vol. 2",
         "url": "https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 141240,
       "name": "Muchacha Bonita",
       "url": "https://open.spotify.com/track/1NHgA6aEhQmy9lnrEuGHy2"
+    },
+    {
+      "added_at": "2022-08-31 07:45:41",
+      "album": {
+        "name": "Guantanamera",
+        "url": "https://open.spotify.com/album/6GJ2oQ4v90ylX6WQTobmd5"
+      },
+      "artists": [
+        {
+          "name": "The Sandpipers",
+          "url": "https://open.spotify.com/artist/3iBuBivHItWMpdiVmLT0uB"
+        }
+      ],
+      "duration_ms": 193720,
+      "name": "Guantanamera",
+      "url": "https://open.spotify.com/track/6Z6bFqqxhHS53Z5SqT0exe"
     },
     {
       "added_at": "2022-08-31 07:45:41",
@@ -807,18 +807,18 @@
     {
       "added_at": "2022-08-31 07:45:41",
       "album": {
-        "name": "Grandes \u00c9xitos de Lucho Gatica",
-        "url": "https://open.spotify.com/album/56zOTEFBTqMxQQ1LHUAWpc"
+        "name": "RCA 100 A\u00f1os de M\u00fasica",
+        "url": "https://open.spotify.com/album/5BbFGTn3ycNbdhVxL4etdm"
       },
       "artists": [
         {
-          "name": "Lucho Gatica",
-          "url": "https://open.spotify.com/artist/4LCEJ7K3OmivUPkYYH9iZK"
+          "name": "Mayte Gaos",
+          "url": "https://open.spotify.com/artist/2nWZrWrYWk8Y9gBtprx8Hb"
         }
       ],
-      "duration_ms": 215306,
-      "name": "La Monta\u00f1a",
-      "url": "https://open.spotify.com/track/6ZKTF8RYIZuoANeYoBH752"
+      "duration_ms": 136280,
+      "name": "El Gran Tom\u00e1s (Norman)",
+      "url": "https://open.spotify.com/track/6VCBvR4ciiZrvHgn7KbapE"
     },
     {
       "added_at": "2022-08-31 07:45:41",
@@ -839,18 +839,18 @@
     {
       "added_at": "2022-08-31 07:45:41",
       "album": {
-        "name": "RCA 100 A\u00f1os de M\u00fasica",
-        "url": "https://open.spotify.com/album/5BbFGTn3ycNbdhVxL4etdm"
+        "name": "Grandes \u00c9xitos de Lucho Gatica",
+        "url": "https://open.spotify.com/album/56zOTEFBTqMxQQ1LHUAWpc"
       },
       "artists": [
         {
-          "name": "Mayte Gaos",
-          "url": "https://open.spotify.com/artist/2nWZrWrYWk8Y9gBtprx8Hb"
+          "name": "Lucho Gatica",
+          "url": "https://open.spotify.com/artist/4LCEJ7K3OmivUPkYYH9iZK"
         }
       ],
-      "duration_ms": 136280,
-      "name": "El Gran Tom\u00e1s (Norman)",
-      "url": "https://open.spotify.com/track/6VCBvR4ciiZrvHgn7KbapE"
+      "duration_ms": 215306,
+      "name": "La Monta\u00f1a",
+      "url": "https://open.spotify.com/track/6ZKTF8RYIZuoANeYoBH752"
     },
     {
       "added_at": "2022-08-31 07:45:41",
@@ -1140,9 +1140,9 @@
           "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
         }
       ],
-      "duration_ms": 163866,
-      "name": "Pajarito Cantor",
-      "url": "https://open.spotify.com/track/2uYnJvPPcYFk8m1tnWPlCV"
+      "duration_ms": 188373,
+      "name": "Las Rejas No Matan",
+      "url": "https://open.spotify.com/track/5Nrth69udEhInDTBDN643P"
     },
     {
       "added_at": "2022-08-31 07:45:41",
@@ -1156,9 +1156,9 @@
           "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
         }
       ],
-      "duration_ms": 188373,
-      "name": "Las Rejas No Matan",
-      "url": "https://open.spotify.com/track/5Nrth69udEhInDTBDN643P"
+      "duration_ms": 163866,
+      "name": "Pajarito Cantor",
+      "url": "https://open.spotify.com/track/2uYnJvPPcYFk8m1tnWPlCV"
     },
     {
       "added_at": "2022-08-31 07:45:41",

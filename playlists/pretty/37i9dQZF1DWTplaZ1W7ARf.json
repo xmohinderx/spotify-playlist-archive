@@ -1,33 +1,13 @@
 {
   "description": "Neighborhood Storytellers. Cover: Hotboii",
-  "num_followers": 51619,
+  "num_followers": 51657,
   "original_name": "Street Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5NjAwMCwwMDAwMDAwMDdjOTAwMmE5YWNmOTVkYTczMGQzY2MyZTQxMzFlZGRi",
+  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMDY1MDFiZjY5YTdjMDllODAzODE5N2FkM2EzOWI2Zjdi",
   "tracks": [
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Me, Myself & I",
-        "url": "https://open.spotify.com/album/1DPEBGUF1in1fQwA5VoQsL"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        },
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 221468,
-      "name": "Me, Myself & I (with A Boogie wit da Hoodie)",
-      "url": "https://open.spotify.com/track/02sYTqX64iVIIHCNA9hWyh"
-    },
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
@@ -45,6 +25,26 @@
       "url": "https://open.spotify.com/track/0eUP5Pyd69bv6uqTLFgF3m"
     },
     {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/7yf3T5Ga0DpWFjqzoMkXK2"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 145862,
+      "name": "Blues (feat. Future)",
+      "url": "https://open.spotify.com/track/28gBJ6GG1orRuc4Ck3y45n"
+    },
+    {
       "added_at": "2022-09-09 04:00:00",
       "album": {
         "name": "Hell",
@@ -59,6 +59,26 @@
       "duration_ms": 139265,
       "name": "Hell",
       "url": "https://open.spotify.com/track/5X79uZsOrtg2iolPYhqeUa"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Never Change (feat. Roddy Ricch)",
+        "url": "https://open.spotify.com/album/04owA5C5mh4CyXzpHgFchJ"
+      },
+      "artists": [
+        {
+          "name": "Symba",
+          "url": "https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 239073,
+      "name": "Never Change (feat. Roddy Ricch)",
+      "url": "https://open.spotify.com/track/5LMk48NX7yjNfN30PP4OQ6"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -117,6 +137,42 @@
       "url": "https://open.spotify.com/track/6PnLDjMT0PtVIZ1kLNcZYv"
     },
     {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Risk Takers",
+        "url": "https://open.spotify.com/album/4zcudfEaBMysM9hvHiLRN1"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 141888,
+      "name": "Risk Takers",
+      "url": "https://open.spotify.com/track/6BJGlhrDS2mKteYz7o2bt6"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Me, Myself & I",
+        "url": "https://open.spotify.com/album/1DPEBGUF1in1fQwA5VoQsL"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 221468,
+      "name": "Me, Myself & I (with A Boogie wit da Hoodie)",
+      "url": "https://open.spotify.com/track/02sYTqX64iVIIHCNA9hWyh"
+    },
+    {
       "added_at": "2022-09-09 04:00:00",
       "album": {
         "name": "Black Heart",
@@ -131,6 +187,22 @@
       "duration_ms": 245153,
       "name": "Rumors",
       "url": "https://open.spotify.com/track/5HmhRq9DfQy66F27HzxIor"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Master P",
+        "url": "https://open.spotify.com/album/0BOgBcsOtJJrEySOygBMt9"
+      },
+      "artists": [
+        {
+          "name": "Hotboy Wes",
+          "url": "https://open.spotify.com/artist/2Lgyk37aJufoDDSoU4S5nO"
+        }
+      ],
+      "duration_ms": 109810,
+      "name": "Master P",
+      "url": "https://open.spotify.com/track/3k06dCqFtiwY1EY32LcS7r"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -169,26 +241,6 @@
       "url": "https://open.spotify.com/track/0MdtZDKBvzwKbc9slla0zJ"
     },
     {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "State of Emergency",
-        "url": "https://open.spotify.com/album/5tOj5H8wMh9GbkUBsthsgl"
-      },
-      "artists": [
-        {
-          "name": "Hurricane Wisdom",
-          "url": "https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7"
-        },
-        {
-          "name": "NoCap",
-          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
-        }
-      ],
-      "duration_ms": 192004,
-      "name": "Patience (feat. NoCap)",
-      "url": "https://open.spotify.com/track/5vLhwjO78xVltDhUvrtCCJ"
-    },
-    {
       "added_at": "2022-08-05 04:00:00",
       "album": {
         "name": "The Last Slimeto",
@@ -207,22 +259,6 @@
       "duration_ms": 141166,
       "name": "Home Ain't Home (feat. Rod Wave)",
       "url": "https://open.spotify.com/track/0oPpchtgx4hZ2J246g5mqn"
-    },
-    {
-      "added_at": "2022-08-26 08:25:37",
-      "album": {
-        "name": "Wrong Decisions",
-        "url": "https://open.spotify.com/album/77P2YNeTVk6kXjgEsz6dCD"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 179826,
-      "name": "Wrong Decisions",
-      "url": "https://open.spotify.com/track/51tMT5eSEaUo40GcSjTZZt"
     },
     {
       "added_at": "2022-07-08 01:21:55",
@@ -295,6 +331,22 @@
       "duration_ms": 142226,
       "name": "livin wild",
       "url": "https://open.spotify.com/track/13LrJDJhegSLCZzqd5InmU"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Heart Detox",
+        "url": "https://open.spotify.com/album/4L5ic3dwoJZdmAJ5ced90Y"
+      },
+      "artists": [
+        {
+          "name": "Lil Donald",
+          "url": "https://open.spotify.com/artist/73E6GkhXR5Zzj2zbdIWnfm"
+        }
+      ],
+      "duration_ms": 176702,
+      "name": "1738",
+      "url": "https://open.spotify.com/track/4JASPSRsT40EJVQM9NjcJP"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -817,26 +869,6 @@
       "url": "https://open.spotify.com/track/1NYJ8olXaPcCp45wfKfUun"
     },
     {
-      "added_at": "2022-02-25 05:09:00",
-      "album": {
-        "name": "Slums",
-        "url": "https://open.spotify.com/album/4p498ruZiGZNe5q1AzNpP3"
-      },
-      "artists": [
-        {
-          "name": "100k Track",
-          "url": "https://open.spotify.com/artist/1egKFNqREi1l3EsTwRrvVR"
-        },
-        {
-          "name": "YNW Melly",
-          "url": "https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Slums",
-      "url": "https://open.spotify.com/track/71gCSQlGoGC2N9BOGAjbk5"
-    },
-    {
       "added_at": "2022-03-04 05:00:00",
       "album": {
         "name": "Realer and Realer (feat. Jackboy)",
@@ -873,22 +905,6 @@
       "url": "https://open.spotify.com/track/1uPxCL3bvUZKMnwXmAz6rM"
     },
     {
-      "added_at": "2022-02-18 05:01:00",
-      "album": {
-        "name": "Soul Bleed",
-        "url": "https://open.spotify.com/album/74S4OzUeGxO911OCx638cM"
-      },
-      "artists": [
-        {
-          "name": "Mooski",
-          "url": "https://open.spotify.com/artist/4NqH3V7GS0Igs1VyGMXEi8"
-        }
-      ],
-      "duration_ms": 171195,
-      "name": "Soul Bleed",
-      "url": "https://open.spotify.com/track/4jHz6x0LTLdRsAnWWlVx5w"
-    },
-    {
       "added_at": "2022-03-11 05:00:00",
       "album": {
         "name": "7220",
@@ -903,26 +919,6 @@
       "duration_ms": 151340,
       "name": "Federal Nightmares",
       "url": "https://open.spotify.com/track/4W730PJT4aw79pZ9D8BLhl"
-    },
-    {
-      "added_at": "2022-03-04 05:00:00",
-      "album": {
-        "name": "Street Poetry",
-        "url": "https://open.spotify.com/album/424KidkXx9YRSRIEqJwQzy"
-      },
-      "artists": [
-        {
-          "name": "Hunxho",
-          "url": "https://open.spotify.com/artist/508weSx4HBumrGggFmc7br"
-        },
-        {
-          "name": "NoCap",
-          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
-        }
-      ],
-      "duration_ms": 180186,
-      "name": "Made Me (feat. NoCap)",
-      "url": "https://open.spotify.com/track/3Vgihc6vWAzDroeW43oB6O"
     }
   ],
   "unique_name": "Street Soul",

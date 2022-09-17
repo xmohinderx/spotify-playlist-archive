@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAdqTQgzvYM.md) - [plain]
 
 > Because everyone else is already taken!
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,881 likes - 88 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,886 likes - 88 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAdqTQgzvYM.md) - [plain]
 | 41 | [Celebrate \(There's No One Like You\)](https://open.spotify.com/track/62JR4lc8LufyOClzuoOrRx) | [The Quokkas](https://open.spotify.com/artist/41y8Sg5SccQXAn7JpkQDIg) | [Be Kind EP](https://open.spotify.com/album/5jdgjnN42Y3EitwLkAkNtG) | 2:09 |
 | 42 | [Square Root of Possible](https://open.spotify.com/track/3CtWaE1HvafkhAdau5Nuez) | [Madalen Mills](https://open.spotify.com/artist/2WZwUfbQPLXMSKy71YcTsh) | [Jingle Jangle: A Christmas Journey \(Music From The Netflix Original Film\)](https://open.spotify.com/album/3zFlBt4RbyvuVvlhFT9mDv) | 4:04 |
 | 43 | [Things I Can Say](https://open.spotify.com/track/2RzZrBcTjnukMFw1m9m33T) | [Teeny Tiny Stevies](https://open.spotify.com/artist/6hhqb0X8Jas5jt96Okhjov) | [Thoughtful Songs for Little People](https://open.spotify.com/album/7f8sw4jRMSFZoAykCkd7CA) | 3:28 |
-| 44 | [BROWN SKIN GIRL](https://open.spotify.com/track/0B3FovCVaGKS5w1FTidEUP) | [Blue Ivy](https://open.spotify.com/artist/3XV0lFzNs8BCTwhJTcMiBr), [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [The Lion King: The Gift](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) | 4:08 |
+| 44 | [BROWN SKIN GIRL](https://open.spotify.com/track/0B3FovCVaGKS5w1FTidEUP) | [Blue Ivy](https://open.spotify.com/artist/3XV0lFzNs8BCTwhJTcMiBr), [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [The Lion King: The Gift](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) | 4:08 |
 | 45 | [Stronger \(What Doesn't Kill You\)](https://open.spotify.com/track/6D60klaHqbCl9ySc8VcRss) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Stronger \(Deluxe Version\)](https://open.spotify.com/album/1MNvMtEmMMdBXZBDcFNcWj) | 3:41 |
 | 46 | [Video](https://open.spotify.com/track/3H5pp4f0rvJ72AB7UHswY8) | [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Dinner Party](https://open.spotify.com/album/55BxFSeJAUHIIzctEAGBOb) | 4:06 |
 | 47 | [Daisies](https://open.spotify.com/track/4uqh9bualXNHXXwO2wPorc) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Daisies](https://open.spotify.com/album/2m5J1DUH7hJpPSOromIqpN) | 2:53 |

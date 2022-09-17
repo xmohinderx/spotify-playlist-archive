@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。cover: 秩父英里
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,924 likes - 50 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,946 likes - 50 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,11 +32,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 22 | [マネー・ジャングル \- Live](https://open.spotify.com/track/72lmCMKToDf2R7vyeU5qbd) | [桑原あい](https://open.spotify.com/artist/6ATrUDyyYVTcuJPnlafenR) | [Money Jungle \(Live\)](https://open.spotify.com/album/48IZ2dCDjfGQ3jdg4jfCjO) | 5:47 |
 | 23 | [やわらかな夜](https://open.spotify.com/track/4C2QmZ97vRkzXOiWTwn6FL) | [Orange Pekoe](https://open.spotify.com/artist/0C9HwsaagMBxCdG43F9A0l) | [Organic Plastic Music](https://open.spotify.com/album/0CFCsLMHqaByFkM5USUOfP) | 4:00 |
 | 24 | [Blackbird](https://open.spotify.com/track/1NpTkYFGPrYb9FRNGjLVyJ) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc) | [Spectrum](https://open.spotify.com/album/6nWNBeeFpGrFEu9CDeZJbH) | 5:21 |
-| 25 | [パスワード](https://open.spotify.com/track/58Dl8RRRMlXiXJ3pZzjxGY) | [Tomita Lab.](https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD), [長岡亮介](https://open.spotify.com/artist/18rZSYLeI8QvUrWsfv5frK) | [M\-P\-C "Mentality, Physicality, Computer"](https://open.spotify.com/album/2k3yTcmXaR1tDH8QUiG3dD) | 4:32 |
-| 26 | [ボッサ・リーブラ](https://open.spotify.com/track/0zNmAn4rFZIsP8kpvzobbC) | [Yoshiko Kishino](https://open.spotify.com/artist/1K83c657exrC5Wac0yfJc0) | [ボッサ・ノスタルジア](https://open.spotify.com/album/1KgZkzALP8AlIebiFjccWg) | 4:47 |
+| 25 | [ボッサ・リーブラ](https://open.spotify.com/track/0zNmAn4rFZIsP8kpvzobbC) | [Yoshiko Kishino](https://open.spotify.com/artist/1K83c657exrC5Wac0yfJc0) | [ボッサ・ノスタルジア](https://open.spotify.com/album/1KgZkzALP8AlIebiFjccWg) | 4:47 |
+| 26 | [パスワード](https://open.spotify.com/track/58Dl8RRRMlXiXJ3pZzjxGY) | [Tomita Lab.](https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD), [長岡亮介](https://open.spotify.com/artist/18rZSYLeI8QvUrWsfv5frK) | [M\-P\-C "Mentality, Physicality, Computer"](https://open.spotify.com/album/2k3yTcmXaR1tDH8QUiG3dD) | 4:32 |
 | 27 | [The Unknown](https://open.spotify.com/track/3b4t9KTy40eagXOvLavU1U) | [Hiromuトリオ](https://open.spotify.com/artist/3fzQgygmoz4JfqJXQT6NPN) | [The Unknown](https://open.spotify.com/album/5HDcwGJboLB2BG1qAtYRaq) | 7:54 |
-| 28 | [Moonlight Syndrome](https://open.spotify.com/track/7EkfLobuyqgITbfn3BFmXh) | [ADAM at](https://open.spotify.com/artist/7D67zF9RCypjeEGvnZLKGo) | [トワイライトシンドローム](https://open.spotify.com/album/4b3k9LC24PNvgX9ExlAS8K) | 4:07 |
-| 29 | [regalecus glesne \- feat.元晴 & 柴田亮](https://open.spotify.com/track/21VomxDANSnbiaVzcqaNC7) | [BimBomBam Orchestra](https://open.spotify.com/artist/6LglW9con0IEpWmE6XjvT6), [元晴](https://open.spotify.com/artist/4O9JglJVkDAOWTC5kNO04L), [柴田亮](https://open.spotify.com/artist/0sKQ57LUMTe7U2v15D3lXu) | [regalecus glesne \(feat.元晴 & 柴田亮\)](https://open.spotify.com/album/0jbynTtZoFFmrUyL9OD6SZ) | 7:07 |
+| 28 | [regalecus glesne \- feat.元晴 & 柴田亮](https://open.spotify.com/track/21VomxDANSnbiaVzcqaNC7) | [BimBomBam Orchestra](https://open.spotify.com/artist/6LglW9con0IEpWmE6XjvT6), [元晴](https://open.spotify.com/artist/4O9JglJVkDAOWTC5kNO04L), [柴田亮](https://open.spotify.com/artist/0sKQ57LUMTe7U2v15D3lXu) | [regalecus glesne \(feat.元晴 & 柴田亮\)](https://open.spotify.com/album/0jbynTtZoFFmrUyL9OD6SZ) | 7:07 |
+| 29 | [Moonlight Syndrome](https://open.spotify.com/track/7EkfLobuyqgITbfn3BFmXh) | [ADAM at](https://open.spotify.com/artist/7D67zF9RCypjeEGvnZLKGo) | [トワイライトシンドローム](https://open.spotify.com/album/4b3k9LC24PNvgX9ExlAS8K) | 4:07 |
 | 30 | [It's just love](https://open.spotify.com/track/4yqpJakTlgryUCYpgkl8qv) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [MISIA SOUL JAZZ SESSION](https://open.spotify.com/album/0lAWJPnLw3LQYqPV86qKhd) | 5:50 |
 | 31 | [まるくなって](https://open.spotify.com/track/4Ygoj6ygvEYM5Msadc3Ko8) | [矢崎恵理](https://open.spotify.com/artist/5u29jSzmiMAB7bfz8kroxU) | [it](https://open.spotify.com/album/1Lm5y4PE7Ld6lMHtOPfRgN) | 4:10 |
 | 32 | [Confirmation](https://open.spotify.com/track/4hT1CgkQIlhmA1DIVYrLx8) | [MONKY](https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O), [re os \- REO MATSUMOTO](https://open.spotify.com/artist/4501R3d8kL9mW1JgkPvlUW) | [Confirmation](https://open.spotify.com/album/5k4X1OKVhx8GWWaxgdfPej) | 4:55 |
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 37 | [MotherLake](https://open.spotify.com/track/4uRF6ePZegS9RLDRzTDaRp) | [JABBERLOOP](https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2) | [NEW](https://open.spotify.com/album/3LjmipAvJQoPzlHN22YpYB) | 4:53 |
 | 38 | [残酷な天使のテーゼ](https://open.spotify.com/track/2qsEXWB1PgF9cYFvryo7F2) | [Anime That Jazz](https://open.spotify.com/artist/0AmBT7fJDVHS4BshgbY8Aw) | [EVENING!](https://open.spotify.com/album/6Fx9cVaFK9sjeXjQbPoOrf) | 4:23 |
 | 39 | [最後の夜汽車](https://open.spotify.com/track/6zQvFxPFLSmisCA1UYAr4c) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [MISIA SOUL JAZZ SESSION](https://open.spotify.com/album/0lAWJPnLw3LQYqPV86qKhd) | 4:54 |
-| 40 | [乙女の祈り](https://open.spotify.com/track/1vdO8aMVXs3OqGkwEmjA2f) | [Chihiro Yamanaka](https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD) | [ユートピア](https://open.spotify.com/album/5dyet4VQmQe4iqoxTqtZT2) | 4:16 |
-| 41 | [Squall](https://open.spotify.com/track/68jH0QV84eVWbqLP2AjAni) | [INO hidefumi](https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S) | [Squall](https://open.spotify.com/album/5MEucUHOxsXdbhzB2Szdyj) | 3:56 |
+| 40 | [Squall](https://open.spotify.com/track/68jH0QV84eVWbqLP2AjAni) | [INO hidefumi](https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S) | [Squall](https://open.spotify.com/album/5MEucUHOxsXdbhzB2Szdyj) | 3:56 |
+| 41 | [乙女の祈り](https://open.spotify.com/track/1vdO8aMVXs3OqGkwEmjA2f) | [Chihiro Yamanaka](https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD) | [ユートピア](https://open.spotify.com/album/5dyet4VQmQe4iqoxTqtZT2) | 4:16 |
 | 42 | [Voice](https://open.spotify.com/track/0XRBOfz9bPhjazuQCcRkbJ) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [Anthony Jackson](https://open.spotify.com/artist/4jSvNq6yedPhkC4p3zlznC), [Simon Phillips](https://open.spotify.com/artist/6pPx8jYe1vzHuQea1st8Iy) | [Voice](https://open.spotify.com/album/26WGFrTj3fwGJysohbdK04) | 9:13 |
 | 43 | [アイ・ミス・ユー](https://open.spotify.com/track/3CSI0s3623E1ExOVG0fQus) | [akiko](https://open.spotify.com/artist/27ykGL8CGbRE5LOT3K9IUp) | [ムード・インディゴ](https://open.spotify.com/album/79DUHlyE8a7R77ETOVCyDM) | 4:47 |
 | 44 | [Red Ocean](https://open.spotify.com/track/3fIy6Di6WTYZQqOy5SjcHk) | [JABBERLOOP](https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2) | [NEW](https://open.spotify.com/album/3LjmipAvJQoPzlHN22YpYB) | 5:00 |
 | 45 | [石の教会](https://open.spotify.com/track/17UXJldxw6BDUxVoDjemkK) | [bohemianvoodoo](https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS) | [MOMENTS](https://open.spotify.com/album/1O302L03rMX6CR86W0OfuD) | 4:37 |
 | 46 | [83](https://open.spotify.com/track/75R36NibuUqvqaksKHAhLn) | [THE BED ROOM TAPE](https://open.spotify.com/artist/6FQe8UCJgRKmFoInsr0Sjk) | [83](https://open.spotify.com/album/5Y9LSZnzVuGGW61KdcYdI4) | 3:27 |
-| 47 | [DAN DA DAN \~Nikujiru Juicy\~](https://open.spotify.com/track/6bU0xA0rcv4BUhiCUeSpga) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [DAN DA DAN \~Nikujiru Juicy\~](https://open.spotify.com/album/1DRsv2J8yzJqte4iM47vP7) | 4:10 |
-| 48 | [If Sea Could Sing](https://open.spotify.com/track/2NGtsSSgjvq2ZbFxDDnAUT) | [Okada Takuro](https://open.spotify.com/artist/4d4VL0LIBWkVXAq4YZ07wm) | [Betsu No Jikan](https://open.spotify.com/album/6osbGxXryMZUWTlysq7Tcu) | 5:45 |
-| 49 | [SAMURAI \- 2022 version](https://open.spotify.com/track/3lr6p7ELCMXMfxGJgh3FBu) | [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM) | [SAMURAI](https://open.spotify.com/album/5QbYqorcvgyLIGjKcsm02e) | 11:56 |
-| 50 | [Spartacus](https://open.spotify.com/track/7J51umZEfClAyNDLPiuemB) | [INO hidefumi](https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S) | [Satisfaction](https://open.spotify.com/album/0j9epI3pFTdwfQa5PfiYSV) | 4:07 |
+| 47 | [Spartacus](https://open.spotify.com/track/7J51umZEfClAyNDLPiuemB) | [INO hidefumi](https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S) | [Satisfaction](https://open.spotify.com/album/0j9epI3pFTdwfQa5PfiYSV) | 4:07 |
+| 48 | [DAN DA DAN \~Nikujiru Juicy\~](https://open.spotify.com/track/6bU0xA0rcv4BUhiCUeSpga) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [DAN DA DAN \~Nikujiru Juicy\~](https://open.spotify.com/album/1DRsv2J8yzJqte4iM47vP7) | 4:10 |
+| 49 | [If Sea Could Sing](https://open.spotify.com/track/2NGtsSSgjvq2ZbFxDDnAUT) | [Okada Takuro](https://open.spotify.com/artist/4d4VL0LIBWkVXAq4YZ07wm) | [Betsu No Jikan](https://open.spotify.com/album/6osbGxXryMZUWTlysq7Tcu) | 5:45 |
+| 50 | [SAMURAI \- 2022 version](https://open.spotify.com/track/3lr6p7ELCMXMfxGJgh3FBu) | [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM) | [SAMURAI](https://open.spotify.com/album/5QbYqorcvgyLIGjKcsm02e) | 11:56 |
 
-Snapshot ID: `MTY2MzA4MTIwMCwwMDAwMDAwMDRlYmNiNDcyYzM5ZGQwOThhMDg1MDVmMWRjNjU5YTA2`
+Snapshot ID: `MTY2MzA4MTIwMCwwMDAwMDAwMGQ3ZTJkY2U3ZTJjNDQwMGY5MzI0OGI0YWYwMWU0YmJh`

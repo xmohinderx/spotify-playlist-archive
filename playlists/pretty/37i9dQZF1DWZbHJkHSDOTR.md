@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZbHJkHSDOTR.md) - [plain]
 
 > Our editorial picks for R&B’s best of 2021 in Canada\. Cover: The Weeknd
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,347 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,349 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZbHJkHSDOTR.md) - [plain]
 | 20 | [Video Games](https://open.spotify.com/track/7yyYmGQXSyrH7kLALSTFjg) | [Sun](https://open.spotify.com/artist/37AvA9c8rndxYbojqst9At) | [Video Games](https://open.spotify.com/album/3YGJzBM5MTgaFyJ4KUi1jQ) | 3:40 |
 | 21 | [Wild Side \(feat\. Cardi B\)](https://open.spotify.com/track/2vXgyN14LX2zl7JEASw242) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Wild Side \(feat\. Cardi B\)](https://open.spotify.com/album/16maAu5lqvFBSEEHyB5GzV) | 3:29 |
 | 22 | [Found \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/0GGfGINoVYiSFXPOjg3RHj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Found \(feat\. Brent Faiyaz\)](https://open.spotify.com/album/6nuNgD841boUffjDiI8et4) | 3:29 |
-| 23 | [Essence \(feat\. Justin Bieber & Tems\)](https://open.spotify.com/track/1MZtr7IH5qtjIkqrXj8WOJ) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Made In Lagos: Deluxe Edition](https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD) | 4:23 |
+| 23 | [Essence \(feat\. Justin Bieber & Tems\)](https://open.spotify.com/track/1MZtr7IH5qtjIkqrXj8WOJ) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Made In Lagos: Deluxe Edition](https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD) | 4:23 |
 | 24 | [SAD GIRLZ LUV MONEY Remix \(feat\. Kali Uchis and Moliy\)](https://open.spotify.com/track/09gysnJpfQ3ublBmJDfcEC) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [SAD GIRLZ LUV MONEY Remix \(feat\. Kali Uchis and Moliy\)](https://open.spotify.com/album/4q4rHdKxyCzxuQrPcdjPyC) | 3:24 |
 | 25 | [Mystery Lady \- Scorpion Kings Remix](https://open.spotify.com/track/0nx8uE4jpVqMF2kIRWW98W) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Mystery Lady \(Scorpion Kings Remix\)](https://open.spotify.com/album/4VGeapArZuyjTw7rcIXjmi) | 7:30 |
 | 26 | [Intimidated \(feat\. H.E.R.\)](https://open.spotify.com/track/0dFdGPVLs3k0z9ezYWZzUa) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Intimidated](https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g) | 3:27 |

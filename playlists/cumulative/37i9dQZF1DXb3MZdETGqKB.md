@@ -4,7 +4,7 @@
 
 > All new, all blues\. Cover: Dylan Triplett
 
-153 songs - 8 hr 56 min - [published](https://open.spotify.com/playlist/4T4Ls1NqL9xqUmBTXE8Kgz)
+155 songs - 9 hr 4 min - [published](https://open.spotify.com/playlist/4T4Ls1NqL9xqUmBTXE8Kgz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Riding Out The Storm](https://open.spotify.com/track/0l0wYl68QJuudGMyG7tlEu) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Riding Out The Storm](https://open.spotify.com/album/2dNNevpsGablniVIMdhEEC) | 4:38 | 2022-02-18 | 2022-02-26 |
 | [Rollin' On](https://open.spotify.com/track/6ol3k9BqQi7tOX98KPnVPa) | [Jackie Venson](https://open.spotify.com/artist/2HlgRiOR33BVVE9hdEftxg) | [Rollin' On](https://open.spotify.com/album/4MREwsWckfOXSbAjNd1c3N) | 5:08 | 2021-08-20 |  |
 | [Rolling Around in It](https://open.spotify.com/track/5612f3JIJJmcUsauIUYdbP) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Rolling Around in It](https://open.spotify.com/album/4NQBdWlyIvwhINkgBg2TD4) | 3:22 | 2022-05-20 | 2022-08-27 |
+| [Rumpshaker](https://open.spotify.com/track/7ucZi9RuxviWkpDCJrpyjE) | [Crystal Shawanda](https://open.spotify.com/artist/31X6W8Y4y9E0G78r5Y2rXG) | [Rumpshaker](https://open.spotify.com/album/2TAatpkEA5nQcZkh9AiW6g) | 3:23 | 2022-09-16 |  |
 | [Sanitarium Lovesick Blues \#4702](https://open.spotify.com/track/4LXdNt8mbZIJD6LXBxFS1W) | [Josh Morningstar](https://open.spotify.com/artist/2mGDvM39bEKWuSNd9H7Prm) | [Sanitarium Lovesick Blues \#4702](https://open.spotify.com/album/5N6B3t4lNcsuUe2lZn3GF4) | 2:49 | 2021-03-26 | 2022-03-26 |
 | [See the Moon \(featuring Lamar Williams Jr\. and Sharisse Norman\)](https://open.spotify.com/track/6XYkGbWTkF3IUThub6DVfh) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY), [Lamar Williams Jr.](https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4), [Sharisse Norman](https://open.spotify.com/artist/6PvWgYjRE5t62DQFGc9diL) | [Set Sail](https://open.spotify.com/album/12psJfvIqIEwGY6JNuQMzF) | 3:21 | 2021-12-03 |  |
 | [See the Moon \(featuring Lamar Williams Jr\. and Sharisse Norman\)](https://open.spotify.com/track/7JD8dY7gEQEArHha4Qar6B) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY), [Lamar Williams Jr.](https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4), [Sharisse Norman](https://open.spotify.com/artist/6PvWgYjRE5t62DQFGc9diL) | [See the Moon](https://open.spotify.com/album/7ne1A974f725ICMswwvG3e) | 3:21 | 2021-12-03 | 2022-07-29 |
@@ -159,6 +160,7 @@
 | [Wintertime](https://open.spotify.com/track/2GuN81w2lPTNfMiKyMLnLR) | [Adam Douglas](https://open.spotify.com/artist/2Qwxl6F6JSkr546OaCsgOG), [TORA](https://open.spotify.com/artist/7wml1FKnTWVEj05OrqIVUg) | [Wintertime](https://open.spotify.com/album/7x0QccFsF6oUTHCeaJ3wRf) | 3:59 | 2021-11-12 |  |
 | [Wolves All Around Me](https://open.spotify.com/track/5yX5XWU1JaOq3tYeuqGfVE) | [Hebron Shane](https://open.spotify.com/artist/3wVOcyphZAxmjMtasFzsJ2) | [Wolves All Around Me](https://open.spotify.com/album/4K7QDZ8Fldny1DYn9C5nbN) | 3:27 | 2021-03-19 | 2022-03-26 |
 | [Workin' Man](https://open.spotify.com/track/3vlialdlumHyXrZq6Em5Tq) | [Ryan Innes](https://open.spotify.com/artist/0vBolemsRxQhb3TFeM4C79) | [Workin' Man](https://open.spotify.com/album/3awKF4xhQXpiPCGNten5ts) | 3:52 | 2022-03-25 |  |
+| [World on Fire \- Warrior Remix](https://open.spotify.com/track/3CzTG4duyqR9YXXDK9k4pc) | [Micki Free](https://open.spotify.com/artist/5aH6fiMaVOktSbo2CBcK5l), [Karl Perazzo](https://open.spotify.com/artist/6YOWrQBPl6xB6yA73jqUny), [Andy Vargas](https://open.spotify.com/artist/3oqXjhbfHHAkNaZLsP8qZH), [Cindy Blackman Santana](https://open.spotify.com/artist/0sJ3AmpElEzlg5WjOHQYBF) | [World on Fire \(Warrior Remix\)](https://open.spotify.com/album/272hzAwKezSFfwYcH0uazk) | 5:13 | 2022-09-16 |  |
 | [Yada Yada](https://open.spotify.com/track/2IXvJ4KQFzo1TnqMgTk12w) | [The Suffers](https://open.spotify.com/artist/73ncl3RMnT90eLFhZdO2WU) | [Yada Yada](https://open.spotify.com/album/2CbfiGqSkYci5rPVgYRUGk) | 2:35 | 2022-05-06 |  |
 | [You Was Born To Die \(feat\. Kyshona Armstrong, Margo Price & Jason Isbell\)](https://open.spotify.com/track/2SVuc7b7qwCcDX4rCAqkyJ) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl), [Kyshona](https://open.spotify.com/artist/6W2VAlwJmXUkGwOmtFCFUA), [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [You Was Born To Die \(feat\. Kyshona Armstrong, Margo Price & Jason Isbell\)](https://open.spotify.com/album/6r1arc3ykrvuOfit3ezIoR) | 3:01 | 2021-09-17 |  |
 

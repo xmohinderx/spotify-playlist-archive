@@ -4852,6 +4852,24 @@
     },
     {
       "album": {
+        "name": "Pirati",
+        "url": "https://open.spotify.com/album/1DXxshEJz5EEX8aJyU29XI"
+      },
+      "artists": [
+        {
+          "name": "Barberini",
+          "url": "https://open.spotify.com/artist/2jOreV30iFYcXc8qEzt9yH"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301855,
+      "name": "Pirati",
+      "url": "https://open.spotify.com/track/5ipWXlmwltaLQCsBzoRizT"
+    },
+    {
+      "album": {
         "name": "Controluce",
         "url": "https://open.spotify.com/album/1zu61ZwipzAOrHSbDXsG1I"
       },

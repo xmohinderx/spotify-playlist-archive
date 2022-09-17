@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nqy6pUAoUv.md) - [plain]
 
 > New music and recent favorites from rising and iconic songsmiths and storytellers\. Cover: Jake Blount
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,193 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,210 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,16 +64,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nqy6pUAoUv.md) - [plain]
 | 54 | [Crooked Tree](https://open.spotify.com/track/1NlwiyN4GGn3gVgyZ8T5AW) | [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Crooked Tree](https://open.spotify.com/album/1lIZUzexPXR4Q7exPmNqCc) | 3:52 |
 | 55 | [Answers \- Acoustic](https://open.spotify.com/track/2EGmolGiLgX4i34ceFZfIc) | [Brooke Annibale](https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3) | [Answers \(Acoustic\)](https://open.spotify.com/album/0s0Zix6OHOS5RqaEmPijh0) | 3:10 |
 | 56 | [Barbaro](https://open.spotify.com/track/3ftFR3uG7hCJJ7kQOlSAlg) | [Barbaro](https://open.spotify.com/artist/56xyoM0kp95h5kVkAjoOMq) | [Dressed in Roses](https://open.spotify.com/album/0qdMxhmhBONYgZJEbQiYjG) | 3:26 |
-| 57 | [Medicine Woman](https://open.spotify.com/track/3S9rZU1GDPhs8WNDv5HQSs) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Goin' Platinum!](https://open.spotify.com/album/6M5DQTTp3zGaWOH6hXsYJV) | 2:37 |
-| 58 | [The Morning Song](https://open.spotify.com/track/1idjvenidUlcO6e7rsqo9P) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Souvenir](https://open.spotify.com/album/2kDauY3LahKExPQgfdKGPY) | 4:38 |
+| 57 | [The Morning Song](https://open.spotify.com/track/1idjvenidUlcO6e7rsqo9P) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Souvenir](https://open.spotify.com/album/2kDauY3LahKExPQgfdKGPY) | 4:38 |
+| 58 | [Medicine Woman](https://open.spotify.com/track/3S9rZU1GDPhs8WNDv5HQSs) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Goin' Platinum!](https://open.spotify.com/album/6M5DQTTp3zGaWOH6hXsYJV) | 2:37 |
 | 59 | [You And I](https://open.spotify.com/track/2KY7UK4IBIXjUya41cMnYl) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers](https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO) | 3:39 |
-| 60 | [Wild Turkey](https://open.spotify.com/track/4aX4dqpYXTxRMTcjekxPyp) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wild Turkey](https://open.spotify.com/album/7iaq4ZxNNKZl9v92lOxQ7N) | 4:32 |
-| 61 | [Seven Words](https://open.spotify.com/track/3UpZZWAFQlWTQM8xl4UlOW) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Front Row Seat to Earth](https://open.spotify.com/album/7ia3sdSdfdSeew9n4IEEnP) | 4:37 |
+| 60 | [Seven Words](https://open.spotify.com/track/3UpZZWAFQlWTQM8xl4UlOW) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Front Row Seat to Earth](https://open.spotify.com/album/7ia3sdSdfdSeew9n4IEEnP) | 4:37 |
+| 61 | [Wild Turkey](https://open.spotify.com/track/4aX4dqpYXTxRMTcjekxPyp) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wild Turkey](https://open.spotify.com/album/7iaq4ZxNNKZl9v92lOxQ7N) | 4:32 |
 | 62 | [Eleanor Rigby](https://open.spotify.com/track/1iaM7chr2wSLLZXg8UxFkG) | [Tété](https://open.spotify.com/artist/0eykNIBJy8E8Cyd00Y5fqx) | [L'air de rien](https://open.spotify.com/album/4VVAoEKNpdeKpOoQE5NqSW) | 4:24 |
 | 63 | [Church Street Blues](https://open.spotify.com/track/7az05FAMuX2E4vWo3gQoPS) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [Hell on Church Street](https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA) | 2:33 |
 | 64 | [Too Late Babe](https://open.spotify.com/track/1WLsC1nDz2w78EpVRgLqWf) | [The Lowest Pair](https://open.spotify.com/artist/0q9jV5Ht9bBTX6pHgzRjRg) | [The Perfect Plan](https://open.spotify.com/album/2UeJbrZMJSAJ7qadAbEOuW) | 4:49 |
-| 65 | [Save My Life \- Radio Edit](https://open.spotify.com/track/2s5QYW4Ls3GsxWKhEKGraJ) | [John Smith](https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2) | [Save My Life \(Radio Edit\)](https://open.spotify.com/album/20BcK0UDu480rOworsrKLF) | 3:37 |
-| 66 | [Millennial](https://open.spotify.com/track/0UVjJZjlZiOB9pVd9wWABs) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Transcendence](https://open.spotify.com/album/4pJ1cAVfgvAIJLWLO0zpuQ) | 2:53 |
+| 65 | [Millennial](https://open.spotify.com/track/0UVjJZjlZiOB9pVd9wWABs) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Transcendence](https://open.spotify.com/album/4pJ1cAVfgvAIJLWLO0zpuQ) | 2:53 |
+| 66 | [Save My Life \- Radio Edit](https://open.spotify.com/track/2s5QYW4Ls3GsxWKhEKGraJ) | [John Smith](https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2) | [Save My Life \(Radio Edit\)](https://open.spotify.com/album/20BcK0UDu480rOworsrKLF) | 3:37 |
 | 67 | [Lockdown On Date Night Tuesday](https://open.spotify.com/track/5l4KZmLaiImt906CJxl5nv) | [Ondara](https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W) | [Folk n’ Roll Vol\. 1: Tales Of Isolation](https://open.spotify.com/album/5rxYtc0dKFxROEin9UkD9d) | 5:03 |
 | 68 | [Endless Running Out of Time](https://open.spotify.com/track/5tFzdiTH94JMk66e7tDh01) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [Quicksand EP](https://open.spotify.com/album/6EEjDp42XbAqZBSVFPBSiK) | 3:58 |
 | 69 | [Visions](https://open.spotify.com/track/3jJL66ZyGqky4smfnWZr9I) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Local Valley](https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m) | 3:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nqy6pUAoUv.md) - [plain]
 | 99 | [Breakin' Ground](https://open.spotify.com/track/2yi1jPkYB2WVdC2z9uNxyG) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Breakin' Ground](https://open.spotify.com/album/55tT9zsQepZmarLKDYFTcl) | 3:04 |
 | 100 | [Walk Through Fire](https://open.spotify.com/track/3IvY3M6RYfVWTquUxrBudU) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Walk Through Fire \(Deluxe Edition\)](https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL) | 3:47 |
 
-Snapshot ID: `MTY0Nzg4OTUyOCwwMDAwMDAwMDU1NTRiNjJkYjg5ZTFjMTI2YTI0NGZiYWQ4MWRkMjNh`
+Snapshot ID: `MTY0Nzg4OTUyOCwwMDAwMDAwMDE3YzIxNDA4YjdmYzhhYTljMTJjZWVmMzgyZGQxNGQ4`

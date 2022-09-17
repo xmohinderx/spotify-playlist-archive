@@ -1,13 +1,65 @@
 {
-  "description": "New music breaking waves.  Cover: Amindi",
-  "num_followers": 18650,
+  "description": "New music breaking waves.  Cover: Ice Spice",
+  "num_followers": 18688,
   "original_name": "Ripple Effect",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5NjAwMCwwMDAwMDAwMGE5Y2Y0ZjZmMzE1N2RiMjQxODIxOTQyZmQ2NDUxNjcz",
+  "snapshot_id": "MTY2MzM2OTkzOSwwMDAwMDAwMGZiZDk1Njk4ZTZiZWMwN2JkM2YxM2I5OTZlNWYzYTk4",
   "tracks": [
+    {
+      "added_at": "2022-09-16 23:12:18",
+      "album": {
+        "name": "Euphoric",
+        "url": "https://open.spotify.com/album/4Myiyj4LgdPiGZg2BzOtt5"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 113424,
+      "name": "Euphoric",
+      "url": "https://open.spotify.com/track/7eVMSaoemrk7HiuZp33A3l"
+    },
+    {
+      "added_at": "2022-09-16 23:12:18",
+      "album": {
+        "name": "NO PLACE TO GO",
+        "url": "https://open.spotify.com/album/59wuLv8LEXoekRowJwkpYp"
+      },
+      "artists": [
+        {
+          "name": "Gengis Don",
+          "url": "https://open.spotify.com/artist/4R4iFqELWPg6TAnnD6ccpI"
+        },
+        {
+          "name": "witSmusic",
+          "url": "https://open.spotify.com/artist/6H4uK8igktMYWfXX3PNEEW"
+        }
+      ],
+      "duration_ms": 201923,
+      "name": "NO PLACE TO GO",
+      "url": "https://open.spotify.com/track/6aBMG5bq5CsCsVg7O1UJ6L"
+    },
+    {
+      "added_at": "2022-09-16 23:12:18",
+      "album": {
+        "name": "WEIGHT",
+        "url": "https://open.spotify.com/album/0YqnECe3ON7UVZUA8Lg2RX"
+      },
+      "artists": [
+        {
+          "name": "Dre Wave$",
+          "url": "https://open.spotify.com/artist/1JmCy4jQegbbMjBWRI0iCt"
+        }
+      ],
+      "duration_ms": 130516,
+      "name": "WEIGHT",
+      "url": "https://open.spotify.com/track/4HBxL7AzSpmObNgIUR8CO9"
+    },
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
@@ -53,6 +105,22 @@
       "url": "https://open.spotify.com/track/7mbWZGbClvFlJnI1wbFlTE"
     },
     {
+      "added_at": "2022-09-16 23:12:18",
+      "album": {
+        "name": "SINCERELY",
+        "url": "https://open.spotify.com/album/11QTrObNHlnSkUjXVOM0b0"
+      },
+      "artists": [
+        {
+          "name": "Al-Doms",
+          "url": "https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb"
+        }
+      ],
+      "duration_ms": 184186,
+      "name": "SINCERELY",
+      "url": "https://open.spotify.com/track/31N4z5XiavBEOjPiliJss7"
+    },
+    {
       "added_at": "2022-09-09 04:00:00",
       "album": {
         "name": "Disturb / Pablo Moves",
@@ -67,6 +135,38 @@
       "duration_ms": 172000,
       "name": "Disturb",
       "url": "https://open.spotify.com/track/2R3CNCOX4wqB1goYTh1h0U"
+    },
+    {
+      "added_at": "2022-09-16 23:12:18",
+      "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/3gbs7YXcIZ9LkZRa5tAuzn"
+      },
+      "artists": [
+        {
+          "name": "Kenny",
+          "url": "https://open.spotify.com/artist/4S4rq4o8gDqTqVKPA7zJmY"
+        }
+      ],
+      "duration_ms": 123000,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/29P1QyEgirfz0pJ31npUQx"
+    },
+    {
+      "added_at": "2022-09-16 23:12:18",
+      "album": {
+        "name": "Sway",
+        "url": "https://open.spotify.com/album/7uxnk6j0snMV0K99bWfO4N"
+      },
+      "artists": [
+        {
+          "name": "Reggie Becton",
+          "url": "https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC"
+        }
+      ],
+      "duration_ms": 174843,
+      "name": "Sway",
+      "url": "https://open.spotify.com/track/5vjfKzxJpDGawFtTq8f4dj"
     },
     {
       "added_at": "2022-08-19 06:43:13",
@@ -787,106 +887,6 @@
       "duration_ms": 255094,
       "name": "Somebody Told Me",
       "url": "https://open.spotify.com/track/72elEHWSWoCcQZaHCfdeyh"
-    },
-    {
-      "added_at": "2022-05-20 08:09:06",
-      "album": {
-        "name": "Someone Who Knows",
-        "url": "https://open.spotify.com/album/5P6FYHPjKPVSVNSdWZDsfe"
-      },
-      "artists": [
-        {
-          "name": "Mychelle",
-          "url": "https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71"
-        }
-      ],
-      "duration_ms": 181890,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/1CCzCMKgPsm27LgUWhP4Up"
-    },
-    {
-      "added_at": "2022-05-20 08:09:06",
-      "album": {
-        "name": "Perfect Nature",
-        "url": "https://open.spotify.com/album/249AgQEmB6ZfgHHNL3AB1q"
-      },
-      "artists": [
-        {
-          "name": "SAUCITO",
-          "url": "https://open.spotify.com/artist/5haQqpRZ1ZqP8ZVcXDGzlK"
-        }
-      ],
-      "duration_ms": 152967,
-      "name": "Perfect Nature",
-      "url": "https://open.spotify.com/track/3FAWQ9ajByND1Ygb1LWqe4"
-    },
-    {
-      "added_at": "2022-05-27 04:27:09",
-      "album": {
-        "name": "Pretty In Black",
-        "url": "https://open.spotify.com/album/0zGITDnaDBlBAyixXP7gJi"
-      },
-      "artists": [
-        {
-          "name": "Joony",
-          "url": "https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35"
-        }
-      ],
-      "duration_ms": 158236,
-      "name": "ON DAT SHIT",
-      "url": "https://open.spotify.com/track/2EydGl5jyjAPC4vAfRHm2U"
-    },
-    {
-      "added_at": "2022-05-20 08:09:06",
-      "album": {
-        "name": "Rich Forever (Mixtape)",
-        "url": "https://open.spotify.com/album/5esVu79F6yi7lCRSNUayoS"
-      },
-      "artists": [
-        {
-          "name": "$ir Abe",
-          "url": "https://open.spotify.com/artist/0uY7BTLDOC5WbA3SlZYUV8"
-        }
-      ],
-      "duration_ms": 145448,
-      "name": "1500 $ir",
-      "url": "https://open.spotify.com/track/20kQ5m2CKltcaEnzmfuSDV"
-    },
-    {
-      "added_at": "2022-05-27 04:27:09",
-      "album": {
-        "name": "NOT 4 NOTHIN",
-        "url": "https://open.spotify.com/album/30hwDLUSj4GDp5qiMKmkt0"
-      },
-      "artists": [
-        {
-          "name": "Thouxanbanfauni",
-          "url": "https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr"
-        }
-      ],
-      "duration_ms": 122383,
-      "name": "NOT 4 NOTHIN",
-      "url": "https://open.spotify.com/track/2vq2kV32I8xqpifY2p4Trs"
-    },
-    {
-      "added_at": "2022-05-27 04:27:09",
-      "album": {
-        "name": "Try Hard",
-        "url": "https://open.spotify.com/album/0HEoy02ph3KqkAg5OW5iIH"
-      },
-      "artists": [
-        {
-          "name": "Idontknowjeffery",
-          "url": "https://open.spotify.com/artist/7Fx7ZCiOsh5eVpFuK25VD6"
-        },
-        {
-          "name": "Denaro Love",
-          "url": "https://open.spotify.com/artist/3UQ4t7zbgnxHGuNuuVlewc"
-        }
-      ],
-      "duration_ms": 148607,
-      "name": "Try Hard",
-      "url": "https://open.spotify.com/track/1Y0WL6KqYm78Fn8eIlStyR"
     }
   ],
   "unique_name": "Ripple Effect",

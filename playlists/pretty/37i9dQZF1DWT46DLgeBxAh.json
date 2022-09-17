@@ -1,12 +1,12 @@
 {
   "description": "La mezcla perfecta, picosita y refrescante.",
-  "num_followers": 177204,
+  "num_followers": 177508,
   "original_name": "Las Micheladas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI4MDQwMCwwMDAwMDAwMDBkYmY3MTE3MzI3YWU1NDM4ZTFiNGNmMDIyYzAzNzQx",
+  "snapshot_id": "MTY2MDI4MDQwMCwwMDAwMDAwMDAyOTFhNWU3OGViMzIwZTgxOWYwMmQxZmRmMmIwMDE5",
   "tracks": [
     {
       "added_at": "2022-08-03 16:03:52",
@@ -207,22 +207,6 @@
     {
       "added_at": "2022-08-03 16:03:52",
       "album": {
-        "name": "En El Radio Un Cochinero",
-        "url": "https://open.spotify.com/album/6fCSthptZ0wBlpqeSlUKHy"
-      },
-      "artists": [
-        {
-          "name": "Victor Cibrian",
-          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
-        }
-      ],
-      "duration_ms": 223431,
-      "name": "En El Radio Un Cochinero",
-      "url": "https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy"
-    },
-    {
-      "added_at": "2022-08-03 16:03:52",
-      "album": {
         "name": "Si Fuera F\u00e1cil",
         "url": "https://open.spotify.com/album/3CUu8nxAMyjCiTeGyiBOKE"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 170496,
       "name": "Si Fuera F\u00e1cil",
       "url": "https://open.spotify.com/track/7Jph6HJbfURt4Fea19IED3"
+    },
+    {
+      "added_at": "2022-08-03 16:03:52",
+      "album": {
+        "name": "En El Radio Un Cochinero",
+        "url": "https://open.spotify.com/album/6fCSthptZ0wBlpqeSlUKHy"
+      },
+      "artists": [
+        {
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
+        }
+      ],
+      "duration_ms": 223431,
+      "name": "En El Radio Un Cochinero",
+      "url": "https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy"
     },
     {
       "added_at": "2022-08-03 16:03:52",
@@ -407,18 +407,18 @@
     {
       "added_at": "2022-08-03 16:03:52",
       "album": {
-        "name": "Pari\u0301s",
-        "url": "https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD"
+        "name": "Vamos Bien",
+        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
       },
       "artists": [
         {
-          "name": "Ingratax",
-          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
         }
       ],
-      "duration_ms": 151428,
-      "name": "Pari\u0301s",
-      "url": "https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3"
+      "duration_ms": 156266,
+      "name": "A La Antig\u00fcita",
+      "url": "https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT"
     },
     {
       "added_at": "2022-08-03 16:03:52",
@@ -443,18 +443,18 @@
     {
       "added_at": "2022-08-03 16:03:52",
       "album": {
-        "name": "Vamos Bien",
-        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
+        "name": "Pari\u0301s",
+        "url": "https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD"
       },
       "artists": [
         {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
         }
       ],
-      "duration_ms": 156266,
-      "name": "A La Antig\u00fcita",
-      "url": "https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT"
+      "duration_ms": 151428,
+      "name": "Pari\u0301s",
+      "url": "https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3"
     },
     {
       "added_at": "2022-08-03 16:03:52",
@@ -531,22 +531,6 @@
     {
       "added_at": "2022-08-03 16:03:52",
       "album": {
-        "name": "KG0516",
-        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 217213,
-      "name": "200 COPAS",
-      "url": "https://open.spotify.com/track/0aZnyTWJNgdzYoOiaW8HKG"
-    },
-    {
-      "added_at": "2022-08-03 16:03:52",
-      "album": {
         "name": "Ya Sup\u00e9rame (En Vivo)",
         "url": "https://open.spotify.com/album/1Aiov6IELpNAdCHMzbz6Ml"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 189050,
       "name": "Ya Sup\u00e9rame (En Vivo)",
       "url": "https://open.spotify.com/track/6HIIuuUIEzH1meVdGbMXyf"
+    },
+    {
+      "added_at": "2022-08-03 16:03:52",
+      "album": {
+        "name": "KG0516",
+        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 217213,
+      "name": "200 COPAS",
+      "url": "https://open.spotify.com/track/0aZnyTWJNgdzYoOiaW8HKG"
     },
     {
       "added_at": "2022-08-03 16:03:52",
@@ -1247,22 +1247,18 @@
     {
       "added_at": "2022-08-03 16:03:52",
       "album": {
-        "name": "Te Marqu\u00e9 Pedo",
-        "url": "https://open.spotify.com/album/5RY8g4VHQsgPDxewtnPIEX"
+        "name": "Ahora",
+        "url": "https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS"
       },
       "artists": [
         {
-          "name": "Alex Luna",
-          "url": "https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2"
-        },
-        {
-          "name": "DAAZ",
-          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
         }
       ],
-      "duration_ms": 216000,
-      "name": "Te Marqu\u00e9 Pedo",
-      "url": "https://open.spotify.com/track/4hAYQuavbB0FYhyxBTbVal"
+      "duration_ms": 167373,
+      "name": "De Los Besos Que Te Di",
+      "url": "https://open.spotify.com/track/1qfoq1qvZT7VwDVeekCJ97"
     },
     {
       "added_at": "2022-08-03 16:03:52",
@@ -1283,18 +1279,22 @@
     {
       "added_at": "2022-08-03 16:03:52",
       "album": {
-        "name": "Ahora",
-        "url": "https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS"
+        "name": "Te Marqu\u00e9 Pedo",
+        "url": "https://open.spotify.com/album/5RY8g4VHQsgPDxewtnPIEX"
       },
       "artists": [
         {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+          "name": "Alex Luna",
+          "url": "https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2"
+        },
+        {
+          "name": "DAAZ",
+          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
         }
       ],
-      "duration_ms": 167373,
-      "name": "De Los Besos Que Te Di",
-      "url": "https://open.spotify.com/track/1qfoq1qvZT7VwDVeekCJ97"
+      "duration_ms": 216000,
+      "name": "Te Marqu\u00e9 Pedo",
+      "url": "https://open.spotify.com/track/4hAYQuavbB0FYhyxBTbVal"
     },
     {
       "added_at": "2022-08-03 16:03:52",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2022-08-03 16:03:52",
       "album": {
-        "name": "Amanec\u00ed Contigo Y Sin Tab\u00fa",
-        "url": "https://open.spotify.com/album/40PyxT3MBm2aGxKLKKBfBB"
-      },
-      "artists": [
-        {
-          "name": "Hildemaro",
-          "url": "https://open.spotify.com/artist/2jc6xa4fD1dcYzuzGadGic"
-        }
-      ],
-      "duration_ms": 242648,
-      "name": "Desde El Fondo De Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/3rQndjZ676PPjV9QvL42te"
-    },
-    {
-      "added_at": "2022-08-03 16:03:52",
-      "album": {
         "name": "La Gran Se\u00f1ora",
         "url": "https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 194946,
       "name": "No Llega el Olvido",
       "url": "https://open.spotify.com/track/2l8QQVT6hYdnT79kKCU6p6"
+    },
+    {
+      "added_at": "2022-08-03 16:03:52",
+      "album": {
+        "name": "Amanec\u00ed Contigo Y Sin Tab\u00fa",
+        "url": "https://open.spotify.com/album/40PyxT3MBm2aGxKLKKBfBB"
+      },
+      "artists": [
+        {
+          "name": "Hildemaro",
+          "url": "https://open.spotify.com/artist/2jc6xa4fD1dcYzuzGadGic"
+        }
+      ],
+      "duration_ms": 242648,
+      "name": "Desde El Fondo De Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/3rQndjZ676PPjV9QvL42te"
     },
     {
       "added_at": "2022-08-03 16:03:52",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2022-08-03 16:03:52",
       "album": {
-        "name": "Cumbia Buena",
-        "url": "https://open.spotify.com/album/2hKZd4cGeRpBrO8R8YegAB"
-      },
-      "artists": [
-        {
-          "name": "Grupo la Cumbia",
-          "url": "https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s"
-        }
-      ],
-      "duration_ms": 213791,
-      "name": "Cumbia Buena",
-      "url": "https://open.spotify.com/track/74pSi4Ukm4geJABToCxGgr"
-    },
-    {
-      "added_at": "2022-08-03 16:03:52",
-      "album": {
         "name": "Lo Mejor De Nosotros",
         "url": "https://open.spotify.com/album/6DKj6CdMCUYRYJ4BnJnjd0"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 260829,
       "name": "Me Vas A Extra\u00f1ar",
       "url": "https://open.spotify.com/track/47UjuR24Bp3LgCTHNTynXu"
+    },
+    {
+      "added_at": "2022-08-03 16:03:52",
+      "album": {
+        "name": "Cumbia Buena",
+        "url": "https://open.spotify.com/album/2hKZd4cGeRpBrO8R8YegAB"
+      },
+      "artists": [
+        {
+          "name": "Grupo la Cumbia",
+          "url": "https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s"
+        }
+      ],
+      "duration_ms": 213791,
+      "name": "Cumbia Buena",
+      "url": "https://open.spotify.com/track/74pSi4Ukm4geJABToCxGgr"
     },
     {
       "added_at": "2022-08-03 16:03:52",

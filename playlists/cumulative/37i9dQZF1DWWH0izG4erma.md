@@ -4,7 +4,7 @@
 
 > Country Music that ROCKS!!  <br/>Cover: Kendall Marvel
 
-182 songs - 10 hr 44 min - [published](https://open.spotify.com/playlist/7v4qYnm74BZdCShzbtN9G4)
+183 songs - 10 hr 47 min - [published](https://open.spotify.com/playlist/7v4qYnm74BZdCShzbtN9G4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [For The Last Time](https://open.spotify.com/track/1hftvuPphPqruhvXQSup0O) | [Melissa Etheridge](https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA) | [For The Last Time](https://open.spotify.com/album/2TSPaOEeaHV8bZ7GMbsdZa) | 3:17 | 2021-11-01 | 2022-07-09 |
 | [Fuss & Fight](https://open.spotify.com/track/0NCnQYoe5YdxFjJQgEM5rX) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Noise Complaint](https://open.spotify.com/album/3O0ADFFtbXVRMf1x2fiClS) | 4:00 | 2021-11-01 |  |
 | [Gasoline](https://open.spotify.com/track/7GPTK0ueaymxm8UUvYyP2l) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Gasoline](https://open.spotify.com/album/4DtfJUBNYhBvh9ahqIsKsd) | 3:59 | 2021-11-01 | 2022-06-11 |
-| [Get After It](https://open.spotify.com/track/0Lb9pl5Sxj0C7LB2dt6hDH) | [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x) | [Get After It](https://open.spotify.com/album/3atYZNtxrFtTNj9qDb34Om) | 2:51 | 2021-11-01 |  |
+| [Get After It](https://open.spotify.com/track/0Lb9pl5Sxj0C7LB2dt6hDH) | [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x) | [Get After It](https://open.spotify.com/album/3atYZNtxrFtTNj9qDb34Om) | 2:51 | 2021-11-01 | 2022-09-17 |
 | [Get Em Up](https://open.spotify.com/track/17B1eRYbcpI808XW81JnMw) | [Tim Montana](https://open.spotify.com/artist/5RM955coCWa6UkFtlMapwC) | [Long Shots](https://open.spotify.com/album/2wIIIZwinQQ2ieKTL3iqjs) | 3:05 | 2021-11-01 |  |
 | [GIVE HEAVEN SOME HELL](https://open.spotify.com/track/2bVeUlOC5JjTpkQXuUUoYm) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [A ROCK](https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ) | 3:37 | 2021-11-01 |  |
 | [Go To Town](https://open.spotify.com/track/6e0yZu2RjDEMaTzjVizc4C) | [Dusty Black](https://open.spotify.com/artist/3f1bjQS5unVeAeUFWrb5DO) | [Go To Town](https://open.spotify.com/album/5Hl88l5hDmr3O7RVQJBIlE) | 3:01 | 2022-05-06 | 2022-07-18 |
@@ -110,6 +110,7 @@
 | [Lowdown & Lonesome](https://open.spotify.com/track/3MDC1gVjBJJdThcWMCgLhp) | [Kendell Marvel](https://open.spotify.com/artist/7l77Y7qC5sVTsVoU2MymGX) | [Lowdown & Lonesome](https://open.spotify.com/album/7CwnSqmzKopo0pmwYCPSwz) | 4:23 | 2021-11-01 | 2022-01-22 |
 | [Met the Devil in Oklahoma](https://open.spotify.com/track/32GtaR8mm14DOmhWzG8Jik) | [Josh Meloy](https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq) | [Oklahoma](https://open.spotify.com/album/0WiOb4EttRiuPO0C9Ofoxh) | 3:56 | 2021-11-01 |  |
 | [Midnight Train To Memphis](https://open.spotify.com/track/6tInq1Sn2eehdsQGA9Aafh) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [From A Room: Volume 2](https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5) | 3:42 | 2021-11-01 |  |
+| [Money Spent](https://open.spotify.com/track/1HxcB2FgfYVhkbqNMCmq1O) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Hell Paso](https://open.spotify.com/album/5seABmIu2cnoRMDoVHZvOD) | 2:36 | 2022-09-16 |  |
 | [My Ex Came Over](https://open.spotify.com/track/1DZjxXWHlbbADBfCYME9EK) | [Trey Lewis](https://open.spotify.com/artist/15tTVhFpH8EFXeDgO9xkRO) | [My Ex Came Over](https://open.spotify.com/album/41dWvxkKc9C4LXkj040o13) | 2:55 | 2022-07-22 |  |
 | [My Son](https://open.spotify.com/track/2boCkY7uQ3bIqkxPuiSja2) | [Eddie Montgomery](https://open.spotify.com/artist/7GD3LkyvAOcPgtrXeFc73p) | [Old Henry \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7kkXBo9F0PBrR6s2iNaT1c) | 3:17 | 2021-11-01 | 2022-01-22 |
 | [Never Change](https://open.spotify.com/track/6PuM7qkapYCJsN45KMMOwR) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ) | [Never Change](https://open.spotify.com/album/0c4zjlkdnOEYt5sfrLuJee) | 3:10 | 2021-11-12 |  |

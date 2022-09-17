@@ -1,12 +1,12 @@
 {
   "description": "Para los enamorados y despechados.",
-  "num_followers": 10978,
+  "num_followers": 10993,
   "original_name": "Merengue De Amor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNDY2NDUwMiwwMDAwMDAwMGYxMGU1M2I2YmZiN2NhMzZjZjA2ZTgzODU5Y2MwYTA3",
+  "snapshot_id": "MTYzNDY2NDUwMiwwMDAwMDAwMDY0MjIxZmEzYzczZDQ4NjViNzJmZmI0MmE2Y2UyMTgw",
   "tracks": [
     {
       "added_at": "2021-10-19 17:28:22",
@@ -471,22 +471,6 @@
     {
       "added_at": "2021-10-19 17:28:22",
       "album": {
-        "name": "Acusame",
-        "url": "https://open.spotify.com/album/13GSJCMgDOtnLQXvl6fkiI"
-      },
-      "artists": [
-        {
-          "name": "Raffy Matias",
-          "url": "https://open.spotify.com/artist/29DVZ3OIDobBN5xH7It79l"
-        }
-      ],
-      "duration_ms": 281400,
-      "name": "Quiero Saber de T\u00ed",
-      "url": "https://open.spotify.com/track/3kiQ59TqSkTxGNMXm4mVfw"
-    },
-    {
-      "added_at": "2021-10-19 17:28:22",
-      "album": {
         "name": "Homenaje a Benny Sadel",
         "url": "https://open.spotify.com/album/1FBkxyRCgqPiua8ZPAwIk5"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 363520,
       "name": "Popurri de Exitos",
       "url": "https://open.spotify.com/track/0efgwb66083LCAI2OQb1C6"
+    },
+    {
+      "added_at": "2021-10-19 17:28:22",
+      "album": {
+        "name": "Acusame",
+        "url": "https://open.spotify.com/album/13GSJCMgDOtnLQXvl6fkiI"
+      },
+      "artists": [
+        {
+          "name": "Raffy Matias",
+          "url": "https://open.spotify.com/artist/29DVZ3OIDobBN5xH7It79l"
+        }
+      ],
+      "duration_ms": 281400,
+      "name": "Quiero Saber de T\u00ed",
+      "url": "https://open.spotify.com/track/3kiQ59TqSkTxGNMXm4mVfw"
     },
     {
       "added_at": "2021-10-19 17:28:22",

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\-Amit Trivedi
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,632 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,663 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Dhol](https://open.spotify.com/track/5VPmgcbmfHZc8ZvdqTEC86) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES), [Aamir Mir](https://open.spotify.com/artist/2HKugUQUEhJYeVkgveEfH6) | [Dhol](https://open.spotify.com/album/4oQf1J1frkkiyxUU88Xgoi) | 3:28 |
 | 2 | [Dhol Bajaa](https://open.spotify.com/track/6JJaxPziuyO8FVfYHLaLG1) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS), [Prakriti Giri](https://open.spotify.com/artist/0dzcXimfMVH1JQawG72WJJ), [Javed\-Mohsin](https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8) | [Dhol Bajaa](https://open.spotify.com/album/5bbdEtbsOMk2FfXyic0Rwi) | 3:46 |
-| 3 | [Boom Padi \(From "Maja Ma"\)](https://open.spotify.com/track/737AP6EH4PvRzBNfBipaK2) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Osman Mir](https://open.spotify.com/artist/20w1cujlzVI3LA0dItmMg1), [Soumil Shringarpure \- Siddharth Mahadevan](https://open.spotify.com/artist/3KNL1bYLuLsQTFNmPGckkv) | [Boom Padi \(From "Maja Ma"\)](https://open.spotify.com/album/2ZV6AT7yHofFyJtTzqL9Fd) | 4:05 |
+| 3 | [Boom Padi \(From "Maja Ma"\)](https://open.spotify.com/track/737AP6EH4PvRzBNfBipaK2) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Osman Mir](https://open.spotify.com/artist/20w1cujlzVI3LA0dItmMg1), [Souumil Shringarpure](https://open.spotify.com/artist/5pyeAGPwGXVYaoodLVgjHS), [Siddharth Mahadevan](https://open.spotify.com/artist/7hwEGO7U6JwQ7M1teoO8GW) | [Boom Padi \(From "Maja Ma"\)](https://open.spotify.com/album/2ZV6AT7yHofFyJtTzqL9Fd) | 4:05 |
 | 4 | [Bharosa](https://open.spotify.com/track/3pYe2NYbHcabSrfbKxWoS6) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Nishawn Bhullar](https://open.spotify.com/artist/0PSwUlsuLrXzPlWIMW8wFZ), [Kaushal Kishore](https://open.spotify.com/artist/2ZbZdSpizGtV1e5lmfWbBg) | [Bharosa](https://open.spotify.com/album/2Uy2JxwpkLsWxKu8nGue95) | 2:55 |
 | 5 | [Mazaak](https://open.spotify.com/track/6BvRzfqi3sMAoQYnRpMVL0) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Mazaak](https://open.spotify.com/album/4Z5Z0qWzKvTgv7XRnodjNU) | 3:32 |
 | 6 | [Duur](https://open.spotify.com/track/0SyiAZbVrpAEgBY30wKyCQ) | [KASYAP](https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP) | [Duur](https://open.spotify.com/album/7umyKBGexCa1DL6rfp4FmA) | 3:13 |

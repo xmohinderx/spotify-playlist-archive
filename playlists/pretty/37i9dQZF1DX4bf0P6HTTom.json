@@ -1,12 +1,12 @@
 {
   "description": "Eagles, The Byrds and all your favorite country rock",
-  "num_followers": 117338,
+  "num_followers": 117424,
   "original_name": "Country Rock Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzA0ODI5NCwwMDAwMDAwMDYyMWI4N2UxYzZhNWI1NGRhMDMxYTBlOGU4ZDU1NDA0",
+  "snapshot_id": "MTY1NzA0ODI5NCwwMDAwMDAwMDA1N2YwYTg0Njg1YTAwN2RhMDUzYWRiMmE4NTg2NDFm",
   "tracks": [
     {
       "added_at": "2020-08-05 15:52:11",
@@ -367,18 +367,18 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "The Adventures Of Panama Red",
-        "url": "https://open.spotify.com/album/1O9T5fjUzGfSa609GiDEJY"
+        "name": "Through The Morning, Through The Night",
+        "url": "https://open.spotify.com/album/4iClwik4oQvlJ9wFujkmiQ"
       },
       "artists": [
         {
-          "name": "New Riders of the Purple Sage",
-          "url": "https://open.spotify.com/artist/2D3v3HJ9k3UzehaewnT3QA"
+          "name": "Dillard & Clark",
+          "url": "https://open.spotify.com/artist/3QcM2tU8CDY3LyzvwCj1CI"
         }
       ],
-      "duration_ms": 243000,
-      "name": "Lonesome L.A. Cowboy",
-      "url": "https://open.spotify.com/track/6vOV8fmbk16LYgL2CQ64ih"
+      "duration_ms": 232400,
+      "name": "Don't Let Me Down",
+      "url": "https://open.spotify.com/track/1PsDNPG1j7ySpFpxjHB5xb"
     },
     {
       "added_at": "2022-06-01 14:20:20",
@@ -399,34 +399,18 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "Through The Morning, Through The Night",
-        "url": "https://open.spotify.com/album/4iClwik4oQvlJ9wFujkmiQ"
+        "name": "The Adventures Of Panama Red",
+        "url": "https://open.spotify.com/album/1O9T5fjUzGfSa609GiDEJY"
       },
       "artists": [
         {
-          "name": "Dillard & Clark",
-          "url": "https://open.spotify.com/artist/3QcM2tU8CDY3LyzvwCj1CI"
+          "name": "New Riders of the Purple Sage",
+          "url": "https://open.spotify.com/artist/2D3v3HJ9k3UzehaewnT3QA"
         }
       ],
-      "duration_ms": 232400,
-      "name": "Don't Let Me Down",
-      "url": "https://open.spotify.com/track/1PsDNPG1j7ySpFpxjHB5xb"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
-        "name": "Grievous Angel",
-        "url": "https://open.spotify.com/album/6UQujMGmR5MbFsML9amCuN"
-      },
-      "artists": [
-        {
-          "name": "Gram Parsons",
-          "url": "https://open.spotify.com/artist/1KA3WXYMPLxomNuoE22LYd"
-        }
-      ],
-      "duration_ms": 266226,
-      "name": "Return of the Grievous Angel - 2006 Remaster",
-      "url": "https://open.spotify.com/track/7vOYp7KJ8gVmVbcatSVf9J"
+      "duration_ms": 243000,
+      "name": "Lonesome L.A. Cowboy",
+      "url": "https://open.spotify.com/track/6vOV8fmbk16LYgL2CQ64ih"
     },
     {
       "added_at": "2020-08-05 15:52:11",
@@ -443,6 +427,22 @@
       "duration_ms": 176640,
       "name": "Still Right Here In My Heart",
       "url": "https://open.spotify.com/track/5HZchgrpAreegk6UGs0zHr"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
+        "name": "Grievous Angel",
+        "url": "https://open.spotify.com/album/6UQujMGmR5MbFsML9amCuN"
+      },
+      "artists": [
+        {
+          "name": "Gram Parsons",
+          "url": "https://open.spotify.com/artist/1KA3WXYMPLxomNuoE22LYd"
+        }
+      ],
+      "duration_ms": 266226,
+      "name": "Return of the Grievous Angel - 2006 Remaster",
+      "url": "https://open.spotify.com/track/7vOYp7KJ8gVmVbcatSVf9J"
     },
     {
       "added_at": "2022-06-01 14:18:36",
@@ -511,6 +511,26 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
+        "name": "Grievous Angel",
+        "url": "https://open.spotify.com/album/6UQujMGmR5MbFsML9amCuN"
+      },
+      "artists": [
+        {
+          "name": "Gram Parsons",
+          "url": "https://open.spotify.com/artist/1KA3WXYMPLxomNuoE22LYd"
+        },
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+        }
+      ],
+      "duration_ms": 212893,
+      "name": "Ooh Las Vegas (feat. Emmylou Harris) - 2007 Remaster",
+      "url": "https://open.spotify.com/track/7kJpAkJSFMCkM6T4plsRLd"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
         "name": "Hotel California (40th Anniversary Expanded Edition)",
         "url": "https://open.spotify.com/album/5NMAdQPrKw5nutWnGEzfpn"
       },
@@ -541,42 +561,6 @@
       "url": "https://open.spotify.com/track/5z3kHR2Gh892XGcYuln1Gf"
     },
     {
-      "added_at": "2022-06-01 14:18:36",
-      "album": {
-        "name": "The Fantastic Expedition Of Dillard & Clark",
-        "url": "https://open.spotify.com/album/6SaetmQc4GCTzdZuW7khKx"
-      },
-      "artists": [
-        {
-          "name": "Dillard & Clark",
-          "url": "https://open.spotify.com/artist/3QcM2tU8CDY3LyzvwCj1CI"
-        }
-      ],
-      "duration_ms": 228493,
-      "name": "Train Leaves Here This Mornin",
-      "url": "https://open.spotify.com/track/3QakrNWYNgZ89by21ImeBN"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
-        "name": "Grievous Angel",
-        "url": "https://open.spotify.com/album/6UQujMGmR5MbFsML9amCuN"
-      },
-      "artists": [
-        {
-          "name": "Gram Parsons",
-          "url": "https://open.spotify.com/artist/1KA3WXYMPLxomNuoE22LYd"
-        },
-        {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
-        }
-      ],
-      "duration_ms": 212893,
-      "name": "Ooh Las Vegas (feat. Emmylou Harris) - 2007 Remaster",
-      "url": "https://open.spotify.com/track/7kJpAkJSFMCkM6T4plsRLd"
-    },
-    {
       "added_at": "2020-08-05 15:52:11",
       "album": {
         "name": "Safe at Home",
@@ -591,6 +575,22 @@
       "duration_ms": 175240,
       "name": "Luxury Liner",
       "url": "https://open.spotify.com/track/69WQgn5cXFhtwbDGBHOzxS"
+    },
+    {
+      "added_at": "2022-06-01 14:18:36",
+      "album": {
+        "name": "The Fantastic Expedition Of Dillard & Clark",
+        "url": "https://open.spotify.com/album/6SaetmQc4GCTzdZuW7khKx"
+      },
+      "artists": [
+        {
+          "name": "Dillard & Clark",
+          "url": "https://open.spotify.com/artist/3QcM2tU8CDY3LyzvwCj1CI"
+        }
+      ],
+      "duration_ms": 228493,
+      "name": "Train Leaves Here This Mornin",
+      "url": "https://open.spotify.com/track/3QakrNWYNgZ89by21ImeBN"
     },
     {
       "added_at": "2020-08-05 15:52:11",
@@ -657,22 +657,6 @@
       "url": "https://open.spotify.com/track/3vvceIDWVANlLWKoJUzBn6"
     },
     {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/41AdLTdErVUwftvr1dUVAf"
-      },
-      "artists": [
-        {
-          "name": "Pure Prairie League",
-          "url": "https://open.spotify.com/artist/1MXwwmS2JpmsHZhdMeOL2s"
-        }
-      ],
-      "duration_ms": 246693,
-      "name": "Two Lane Highway",
-      "url": "https://open.spotify.com/track/0tcq9tNIw5JHUywymB07OA"
-    },
-    {
       "added_at": "2022-06-01 14:18:36",
       "album": {
         "name": "The Flying Burrito Brothers",
@@ -687,6 +671,22 @@
       "duration_ms": 188706,
       "name": "Tried So Hard",
       "url": "https://open.spotify.com/track/4v4ssibf1FAkxisrqeMPhh"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/41AdLTdErVUwftvr1dUVAf"
+      },
+      "artists": [
+        {
+          "name": "Pure Prairie League",
+          "url": "https://open.spotify.com/artist/1MXwwmS2JpmsHZhdMeOL2s"
+        }
+      ],
+      "duration_ms": 246693,
+      "name": "Two Lane Highway",
+      "url": "https://open.spotify.com/track/0tcq9tNIw5JHUywymB07OA"
     },
     {
       "added_at": "2020-08-05 15:52:11",

@@ -4,7 +4,7 @@
 
 > Top country hits you know and love! Cover: Little Big Town
 
-154 songs - 8 hr 23 min - [published](https://open.spotify.com/playlist/78pqwl0BWOSiN7uMej6HJy)
+156 songs - 8 hr 30 min - [published](https://open.spotify.com/playlist/78pqwl0BWOSiN7uMej6HJy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Come In \(But Don't Make Yourself Comfortable\)](https://open.spotify.com/track/6W8ip4419k9qTlOAkAU4uN) | [Caroline Jones](https://open.spotify.com/artist/3xl6isKUFqJNui79kpdT0Y) | [Come In \(But Don't Make Yourself Comfortable\)](https://open.spotify.com/album/2dA4e6yg8TumkbOWZJYunN) | 3:07 | 2021-12-28 | 2022-04-05 |
 | [Country Boy Do \(feat\. Tyler Hubbard\)](https://open.spotify.com/track/24MH7MzHl5XAYlmMdn85CF) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Heartland](https://open.spotify.com/album/1a7BlXLCqjTxQh6X8L9JBL) | 2:56 | 2022-07-22 |  |
 | [Country On](https://open.spotify.com/track/1tRxwf8Q0AcshfHuaD86Yt) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Country On](https://open.spotify.com/album/3XgzAqjFk10Vyspx8c7OEm) | 3:56 | 2022-07-11 |  |
-| [Country'd Look Good On You](https://open.spotify.com/track/6d7k8PoVEnBgwBsPvKsubp) | [Frank Ray](https://open.spotify.com/artist/0LsBi7JKqWFCiFi0FsTbXF) | [Country'd Look Good On You](https://open.spotify.com/album/1GfpqxHYA7uOiIw3jA0jVO) | 3:22 | 2021-12-28 |  |
+| [Country'd Look Good On You](https://open.spotify.com/track/6d7k8PoVEnBgwBsPvKsubp) | [Frank Ray](https://open.spotify.com/artist/0LsBi7JKqWFCiFi0FsTbXF) | [Country'd Look Good On You](https://open.spotify.com/album/1GfpqxHYA7uOiIw3jA0jVO) | 3:22 | 2021-12-28 | 2022-09-17 |
 | [Cross Country](https://open.spotify.com/track/2YgwcrRc33vIWgv5n2TNZ9) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Cross Country](https://open.spotify.com/album/7jXPuZKd5DMTZGzwucgne4) | 3:26 | 2022-07-15 | 2022-09-03 |
 | [Damn Strait](https://open.spotify.com/track/4jp9FimhP2bQ93vR0A5r7b) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [Damn Strait](https://open.spotify.com/album/3WOFt4KvKhIeHN4fckCf5y) | 3:50 | 2021-12-28 |  |
 | [Dates In Pickup Trucks](https://open.spotify.com/track/5U4iPIXYJ5h6H7zJhx6VVF) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Dates In Pickup Trucks](https://open.spotify.com/album/6zE2YtMcQHpgK2HQKr86UK) | 2:45 | 2022-05-16 |  |
@@ -59,6 +59,8 @@
 | [Gold](https://open.spotify.com/track/4iy69rTUn8cAY8Q8q9vfOw) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Gold](https://open.spotify.com/album/2NLp3E2m7Z9JnoLR6eOJYI) | 2:47 | 2022-08-12 |  |
 | [Good Beer](https://open.spotify.com/track/55M9eKCXJFCpid6WBVyEct) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG), [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Good Beer](https://open.spotify.com/album/3PuVtau24hELLklY6dcd3q) | 2:54 | 2022-07-15 |  |
 | [Good Day for Living](https://open.spotify.com/track/1KpUbzeaGFdcBD7aeEj0k9) | [Joe Nichols](https://open.spotify.com/artist/4aJTB79uwT4sP0Nb8QGWHc) | [Good Day for Living](https://open.spotify.com/album/6Y9RRHDLpK5OGPcS1rbTNa) | 3:10 | 2022-05-16 | 2022-07-16 |
+| [Good Friends](https://open.spotify.com/track/5HVc3YeNKDFomPhXBKE90U) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Humble Quest](https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw) | 3:28 | 2022-09-16 |  |
+| [Good Ol' Man](https://open.spotify.com/track/106WZMD4t61E3WIBPtXTDK) | [Drew Green](https://open.spotify.com/artist/7xZTozOYTK6YKaxcQxeBdP) | [Good Ol' Man](https://open.spotify.com/album/1AUKevdHLZT2YYJqv3mf2s) | 3:22 | 2022-09-16 |  |
 | [Greener Pasture](https://open.spotify.com/track/3fA0FKdkPmBa62MSxwewKE) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Greener Pasture](https://open.spotify.com/album/2ua2VjahAuE1LsjiGIQWu3) | 3:09 | 2022-07-29 | 2022-08-26 |
 | [Growing Old With You](https://open.spotify.com/track/5n4kMW5dn7MHFhXQuJb9zG) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Growing Old With You](https://open.spotify.com/album/161OJ4mZwXGzdeLI2jibXZ) | 3:16 | 2022-05-31 | 2022-08-26 |
 | [Half Of Me](https://open.spotify.com/track/11kskoMyNDumaR30CI6rRv) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Where We Started](https://open.spotify.com/album/794M3R461sLnY042CsB3xW) | 3:03 | 2022-06-21 |  |
@@ -159,7 +161,7 @@
 | [You](https://open.spotify.com/track/2xPV95cfbyusygMTxpa3SW) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Good Things](https://open.spotify.com/album/7L8IHgiomfEpxOm61vgPTm) | 3:16 | 2022-08-12 |  |
 | [You Ain't Pretty](https://open.spotify.com/track/6tDHV2IZGoEBR2iYSw0lOb) | [Nate Barnes](https://open.spotify.com/artist/2BtTAfI93v4WeSEubKCL6h) | [You Ain't Pretty](https://open.spotify.com/album/769C4QBVH3AVOUKwpQmGZF) | 3:20 | 2021-12-28 | 2022-01-04 |
 | [You Didn’t](https://open.spotify.com/track/5Jwcv2Le3Klwgrgyqa12ZA) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Weekends Look A Little Different These Days](https://open.spotify.com/album/2JJ2v7A5nR6HaYxyO2T0PX) | 3:45 | 2022-02-07 |  |
-| [You Got a Small Town](https://open.spotify.com/track/0uxbkVqzKkxeVszRa0LFnb) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [You Got a Small Town](https://open.spotify.com/album/2dRiCtzyR2XKR4mwwU370t) | 2:58 | 2022-07-15 |  |
+| [You Got a Small Town](https://open.spotify.com/track/0uxbkVqzKkxeVszRa0LFnb) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [You Got a Small Town](https://open.spotify.com/album/2dRiCtzyR2XKR4mwwU370t) | 2:58 | 2022-07-15 | 2022-09-17 |
 | [You Proof](https://open.spotify.com/track/5uU1uuyaUIBOiiUSQG7Wl3) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [You Proof](https://open.spotify.com/album/2ORO3nNnFXxsvz9Pcd9RdI) | 2:37 | 2022-07-05 |  |
 | [You Should Probably Leave](https://open.spotify.com/track/2UikqkwBv7aIvlixeVXHWt) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW) | 3:33 | 2021-12-28 | 2022-03-01 |
 

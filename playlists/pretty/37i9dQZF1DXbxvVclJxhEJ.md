@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbxvVclJxhEJ.md) - [plain]
 
 > Iconic women from the history of the Blues\. Cover: Bessie Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,117 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,164 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbxvVclJxhEJ.md) - [plain]
 | 15 | [Boogie In "G"](https://open.spotify.com/track/3yY7zC0l6XJTub645Wa6uZ) | [Camille Howard](https://open.spotify.com/artist/0QFOmSTku0zPMVoawXFCXX) | [Rock Me Daddy, Vol\. 1](https://open.spotify.com/album/1sz7BU4ZYeAJwQTfNzyxQD) | 2:34 |
 | 16 | [Don't Mess With My Man](https://open.spotify.com/track/5fAWSK7rw20ilX3N1XmZjP) | [Irma Thomas](https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv) | [New Orleans Ladies: Rhythm And Blues From The Vaults Of Ric And Ron](https://open.spotify.com/album/2pbjXy9Oen6U5ZoeSrxcYM) | 2:19 |
 | 17 | [Wang Dang Doodle](https://open.spotify.com/track/6BRPW9P9EfuesEenxbM6zj) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [What It Takes: The Chess Years](https://open.spotify.com/album/4w1M6BA0n3LB2GhlZXzQbC) | 3:01 |
-| 18 | [I Want To Know](https://open.spotify.com/track/47pZYMmD7HBV6WWI5qK6zb) | [Sugar Pie DeSanto](https://open.spotify.com/artist/3xIkJAnwLy7NwZpPwvaSPc) | [In The Basement: The Chess Recordings](https://open.spotify.com/album/0LH0ZJuhr4TJMWud6K6qdy) | 3:00 |
-| 19 | [I'm A Little Mixed Up](https://open.spotify.com/track/4cLPvcojgZHpaxP7d5akhG) | [Betty James](https://open.spotify.com/artist/4aBu3Gcusv3NI99mFiMI6v) | [The Chess Story 1957\-1964](https://open.spotify.com/album/6hLDuFXaABk2LySPldc5CB) | 2:51 |
+| 18 | [I'm A Little Mixed Up](https://open.spotify.com/track/4cLPvcojgZHpaxP7d5akhG) | [Betty James](https://open.spotify.com/artist/4aBu3Gcusv3NI99mFiMI6v) | [The Chess Story 1957\-1964](https://open.spotify.com/album/6hLDuFXaABk2LySPldc5CB) | 2:51 |
+| 19 | [I Want To Know](https://open.spotify.com/track/47pZYMmD7HBV6WWI5qK6zb) | [Sugar Pie DeSanto](https://open.spotify.com/artist/3xIkJAnwLy7NwZpPwvaSPc) | [In The Basement: The Chess Recordings](https://open.spotify.com/album/0LH0ZJuhr4TJMWud6K6qdy) | 3:00 |
 | 20 | [Little Red Rooster](https://open.spotify.com/track/0zIJi6fLCA0e11rBZ20Z2X) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Ball n' Chain](https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl) | 4:28 |
 | 21 | [My Daddy Rocks Me](https://open.spotify.com/track/4cputOB2WH8qeKRVafoopX) | [Trixie Smith](https://open.spotify.com/artist/2PZOCtYZ3hDMpMVN8yIHc9) | [Trixie Smith Vol\. 2 1925\-1929](https://open.spotify.com/album/2qHLqftCshlkkR8ydCXPGI) | 2:54 |
 | 22 | [Born Under A Bad Sign](https://open.spotify.com/track/2dkdv8XcCNZZiHUIB1nxB0) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [Deluxe Edition](https://open.spotify.com/album/0Jvj3KAEiuS4bAFiPmiNFH) | 4:56 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbxvVclJxhEJ.md) - [plain]
 | 31 | [I'm a Mighty Tight Woman](https://open.spotify.com/track/5DFa43O7ulUb7m093PAQH9) | [Sippie Wallace](https://open.spotify.com/artist/1MzNMhcJhkG0pCk2sg3PTR) | [First Time I Met the Blues \(When the Sun Goes Down series\)](https://open.spotify.com/album/1uaBcAlIjRVuNcsx1zLayL) | 2:50 |
 | 32 | [Keep A Song In Your Soul](https://open.spotify.com/track/0cS0A1fUEUd1EW3FcF8AEI) | [Mamie Smith](https://open.spotify.com/artist/2HS2wQTJXpA65XWOKlAVxk) | [Crazy Blues: The Best Of Mamie Smith](https://open.spotify.com/album/6os2Mv58OYnQClPf7B9E1s) | 2:48 |
 | 33 | [Billie's Blues](https://open.spotify.com/track/0ABtCIHJudiNuykVHk0eug) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [The Definitive Collection](https://open.spotify.com/album/08dcy2id7A5FGQXzBoG4cC) | 3:07 |
-| 34 | [Dead Drunk Blues](https://open.spotify.com/track/0Cd4ddM6nSG3Wteu5tj8zg) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Mother Of The Blues, CD D](https://open.spotify.com/album/1XAB9VeZFpioCCx2TqG4rh) | 2:52 |
-| 35 | [Back Water Blues](https://open.spotify.com/track/2ABW9AYFdHh1QTGYNVmurr) | [LaVern Baker](https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw) | [Sings Bessie Smith](https://open.spotify.com/album/2Em2NnnKeKydoEMzlcSHr4) | 4:45 |
+| 34 | [Back Water Blues](https://open.spotify.com/track/2ABW9AYFdHh1QTGYNVmurr) | [LaVern Baker](https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw) | [Sings Bessie Smith](https://open.spotify.com/album/2Em2NnnKeKydoEMzlcSHr4) | 4:45 |
+| 35 | [Dead Drunk Blues](https://open.spotify.com/track/0Cd4ddM6nSG3Wteu5tj8zg) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Mother Of The Blues, CD D](https://open.spotify.com/album/1XAB9VeZFpioCCx2TqG4rh) | 2:52 |
 | 36 | [Tease Your Man](https://open.spotify.com/track/06hFEQu1PismBzyS3gg11U) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [What It Takes: The Chess Years \(Expanded Edition\)](https://open.spotify.com/album/5cqkfEOV7du3ynBO7EENMp) | 4:20 |
 | 37 | [Sloppy Drunk Blues](https://open.spotify.com/track/5EFrtsQf7xh2Tdjlp1nYgx) | [Lucille Bogan](https://open.spotify.com/artist/2cDKW2JF97WZ5ruG9Obfdf) | [Barrelhouse Mamas: Born In The Alley, Raised Up In The Slum](https://open.spotify.com/album/1jQF6oxXe5QodlJwRfwOV3) | 3:15 |
 | 38 | [Haunted House Blues](https://open.spotify.com/track/0GHJuqABJchfWPdLHBnwII) | [Bessie Smith](https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg) | [The Complete Recordings, Vol\. 1](https://open.spotify.com/album/3A3NisOqKWuird6mnMtPU7) | 3:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbxvVclJxhEJ.md) - [plain]
 | 49 | [Moanin' Low](https://open.spotify.com/track/2Eqx8kcEyuHkresgSFePM6) | [Eva Taylor](https://open.spotify.com/artist/4tcdCfYOTLmHkjzfIIHocL) | [The First Torch Singers, Vol\. I: The Twenties](https://open.spotify.com/album/2i5G9rq9OB4pBCFz1ul0im) | 3:31 |
 | 50 | [Crazy Blues \(Alternate Take\)](https://open.spotify.com/track/1ligDVAloDQL9v7vQzGN6p) | [Mamie Smith](https://open.spotify.com/artist/2HS2wQTJXpA65XWOKlAVxk) | [Presenting Mamie Smith](https://open.spotify.com/album/5uHc3ZtdzPgRH4Jea9Yo7F) | 3:24 |
 
-Snapshot ID: `MTY2Mjk5NDkyMSwwMDAwMDAwMGYwZjFlNmJjZDQyNDVlMWMxMTFmN2ZiZjY3ZTVjM2Mz`
+Snapshot ID: `MTY2Mjk5NDkyMSwwMDAwMDAwMGE2YTAxODBmYTk5NzZhNTJiNjEyOWQwODNiN2FmOGQ0`

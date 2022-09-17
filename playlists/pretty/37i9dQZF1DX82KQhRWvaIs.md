@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82KQhRWvaIs.md) - [plain]
 
 > This is MILOŠ\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,500 likes - 84 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,507 likes - 84 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82KQhRWvaIs.md) - [plain]
 | 62 | [Scherzino Mexicano](https://open.spotify.com/track/7lFQ1M8ftfO7OCwKbwVPyq) | [Manuel Ponce](https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK), [Miloš Karadaglić](https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4) | [Pasión](https://open.spotify.com/album/1gMK7D6ShAzxp8QP295exg) | 2:47 |
 | 63 | [Sonata No\. 3: 2\. Canción\. Andante](https://open.spotify.com/track/4JzVYFXZV3aavd2gtc822u) | [Manuel Ponce](https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK), [Miloš Karadaglić](https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4) | [Pasión](https://open.spotify.com/album/1gMK7D6ShAzxp8QP295exg) | 4:09 |
 | 64 | [Una limosna por el amor de Dios](https://open.spotify.com/track/48iMxCPBGHTy4wafnqE8Zz) | [Agustín Barrios Mangoré](https://open.spotify.com/artist/5cOuSl6E1SSG9oPcOYRZQR), [Miloš Karadaglić](https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4) | [Pasión](https://open.spotify.com/album/1gMK7D6ShAzxp8QP295exg) | 3:21 |
-| 65 | [Bolero](https://open.spotify.com/track/7vXo0cZeJ7KVwQVU1AAUUt) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Miloš Karadaglić](https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4) | [Canción](https://open.spotify.com/album/6yvrS8yYXlTIyUBxyBP7Yy) | 3:02 |
+| 65 | [Bolero](https://open.spotify.com/track/41ZcfzXUQs6juxswiZ6GqT) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Miloš Karadaglić](https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4) | [Ravel: Classical Creations](https://open.spotify.com/album/4rKQ7b27v4d3KCz72mubGx) | 3:02 |
 | 66 | [Suite española, Op.47: No.5 Asturias](https://open.spotify.com/track/4P1BxcsONgq9UWvb6DuR45) | [Isaac Albéniz](https://open.spotify.com/artist/4sbcjbyksdT4dJ5Lh0SvZp), [Miloš Karadaglić](https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4) | [Mediterráneo](https://open.spotify.com/album/4LRKRHpmuGqsKeLwARyTHy) | 6:30 |
 | 67 | [Recuerdos De La Alhambra](https://open.spotify.com/track/1To77ikzEqliG40MCiceOk) | [Francisco Tárrega](https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t), [Miloš Karadaglić](https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4) | [Mediterráneo](https://open.spotify.com/album/4LRKRHpmuGqsKeLwARyTHy) | 3:46 |
 | 68 | [Suite española, Op.47: No\. 3 Sevilla](https://open.spotify.com/track/7Km1JSyaMo7Uj6B9Xdf4Mp) | [Isaac Albéniz](https://open.spotify.com/artist/4sbcjbyksdT4dJ5Lh0SvZp), [Miloš Karadaglić](https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4) | [Mediterráneo](https://open.spotify.com/album/4LRKRHpmuGqsKeLwARyTHy) | 5:11 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82KQhRWvaIs.md) - [plain]
 | 83 | [Quintet No\. 4 for Guitar and Strings in D G.448 \- "Fandango": 4\. Fandango](https://open.spotify.com/track/3GnkqoLXYUxFkjAbNntdCB) | [Luigi Boccherini](https://open.spotify.com/artist/2l4vGfFV7e46yO8lxfxR76), [Miloš Karadaglić](https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4), [English Chamber Orchestra](https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF), [Paul Watkins](https://open.spotify.com/artist/7qE0skIc5hRIkJ5nyZe0t0) | [Luigi Boccherini \- Great Recordings](https://open.spotify.com/album/5qcFvUorYrRyI7X0lZW9ZU) | 4:01 |
 | 84 | [Theme From Stephen Ward](https://open.spotify.com/track/57MiqNSEWsjRklOOZTxki4) | [Miloš Karadaglić](https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4) | [Theme From Stephen Ward](https://open.spotify.com/album/6drLiLowExvNdrPOSpDBNq) | 3:05 |
 
-Snapshot ID: `MTYxOTE1MDQ2MCwwMDAwMDAwMDZlMTUzNTYwN2VhODgyOTliMThkYzk2MDk1NzFlZmVh`
+Snapshot ID: `MTYxOTE1MDQ2MCwwMDAwMDAwMGZmOTJlZGFlNWQyMTcwZGQ4NzI3MTgzNjhmODk2ZTky`

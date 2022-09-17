@@ -4,7 +4,7 @@
 
 > The beautiful sound of the Spanish guitar to help you wind down.
 
-148 songs - 7 hr 1 min - [published](https://open.spotify.com/playlist/5vDhhJLUXvegKwwtL6H3y2)
+150 songs - 7 hr 5 min - [published](https://open.spotify.com/playlist/5vDhhJLUXvegKwwtL6H3y2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Manhã de Carnaval](https://open.spotify.com/track/0G4qFYtNPWpYvk9RfGAOs1) | [Filip Benedetto](https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7) | [Manhã de Carnaval](https://open.spotify.com/album/06PgdMpQa7mfoKK5odLA2g) | 3:52 | 2022-07-29 |  |
 | [Medianoche](https://open.spotify.com/track/1UAlByio9nRgNa1eIMvdtr) | [Barracuda Sound](https://open.spotify.com/artist/7kh6kV95YvmhBPmbi2tIRU) | [Medianoche](https://open.spotify.com/album/16jVhTdkRtcfjnCWnOnmbL) | 2:19 | 2022-06-17 |  |
 | [Mediterranean Flavour Outro](https://open.spotify.com/track/7xrYy1Wp8drWIsUMVk8qhk) | [Matiacardia](https://open.spotify.com/artist/0yHitjtcKBLXaA8PYshhjj), [Stefan Postoronca](https://open.spotify.com/artist/3P1y51qedu9y9O8UVmRMxR), [John Wolfcub](https://open.spotify.com/artist/5V8x1ZKfWI0eqZ5ejRBD9G) | [World & Music](https://open.spotify.com/album/2j9sg3MHsfjfO3D7Qx0RDr) | 2:11 | 2022-06-17 | 2022-07-29 |
+| [Memories of San Isidro](https://open.spotify.com/track/54Yse6pF3DrMcmPWm00361) | [Barry O'sullivan](https://open.spotify.com/artist/3vjTXSmiHkMA1EpHccmuW2) | [Memories of San Isidro](https://open.spotify.com/album/63bsQLEu2S7jErqakHmpV3) | 1:42 | 2022-09-16 |  |
 | [Mime](https://open.spotify.com/track/3V6amXCAJ43nMu9D2cheyv) | [Kee Marcello Nylon Nation](https://open.spotify.com/artist/6nr71zoxIIzQndEmpvyuiN) | [Mime](https://open.spotify.com/album/2HVnBQwJ22pUVBeCIPqhF6) | 3:13 | 2022-06-17 |  |
 | [Mirada](https://open.spotify.com/track/3PDsnkJXHj4eTPkCuhfTBS) | [Julian Mari](https://open.spotify.com/artist/4F0VCWk7SLkuBevjKJEw8e) | [Mirada](https://open.spotify.com/album/1Mc3fzPLnPs3aLkmI15MNK) | 2:22 | 2022-06-17 |  |
 | [Montevideo](https://open.spotify.com/track/275koCzLil06PwQOAuRGvI) | [Julian Vigil](https://open.spotify.com/artist/37iIAObpTKbDOZ9BjSrmMv) | [Montevideo](https://open.spotify.com/album/2bYa90u46gvqghDV3MHQzs) | 3:27 | 2022-06-17 |  |
@@ -128,6 +129,7 @@
 | [Spanish Ballad](https://open.spotify.com/track/0pdKzWmhMFWcC2UQiFz2gY) | [Benedict Larsen](https://open.spotify.com/artist/0RoZ3QmDJXP7peJyvnDxwC) | [Spanish Ballad](https://open.spotify.com/album/6KiDH7Wp4lrFqiY8nnWFSz) | 2:58 | 2022-07-15 |  |
 | [Speak Once More](https://open.spotify.com/track/2HUIWdVfSsoLeC20cgX7YB) | [Katharina Becquer](https://open.spotify.com/artist/5BT146Y5PHI3f8l5ocNQCC) | [Speak Once More](https://open.spotify.com/album/4n0apJdJD2i8Z2xajNujPb) | 1:51 | 2022-07-01 |  |
 | [Spero Ancora In Un Tuo Ritorno](https://open.spotify.com/track/2rARKDKGUhZshI910DTnZJ) | [Valerio Castilla](https://open.spotify.com/artist/4kot0Uzr67BAdjYsmnUczI) | [Spero Ancora In Un Tuo Ritorno](https://open.spotify.com/album/2q5ZGA1ohBaWg4kNVbMAvt) | 3:58 | 2022-06-17 |  |
+| [Stockholm Waltz](https://open.spotify.com/track/4qH4Otl7cbyUjg7kshFzUr) | [Julian Vigil](https://open.spotify.com/artist/37iIAObpTKbDOZ9BjSrmMv) | [Stockholm Waltz](https://open.spotify.com/album/0Vl8Nl9s21QHz3fSk3U623) | 2:20 | 2022-09-16 |  |
 | [Sua Flor](https://open.spotify.com/track/0392xui5zL1nRux90JIPuv) | [Humberto Montoya](https://open.spotify.com/artist/62gwHrOGPCG9ZTH8HJpFde) | [Sua Flor](https://open.spotify.com/album/0HYEHpNnG4gvnH7JchXalD) | 1:45 | 2022-07-08 |  |
 | [Sunshine In Her Hair](https://open.spotify.com/track/6Ji4I94StmYhrkNrubHCeF) | [Jim Nash](https://open.spotify.com/artist/5Q8X9eQtzN2M4kpgxOMp2m) | [Sunshine In Her Hair](https://open.spotify.com/album/6w6lRqVy3bx8ObKV5mJ11K) | 1:56 | 2022-06-17 |  |
 | [Tahmina](https://open.spotify.com/track/4mNxFvcJoW90QeKkxQkmfW) | [Christian Lindquist](https://open.spotify.com/artist/2QiW536ikg1NgIkaCvRg8s) | [Tahmina](https://open.spotify.com/album/59VV54issBKB9UgscAGq8x) | 3:32 | 2022-06-17 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLsFIeybF20.md) - [plain]
 
 > Get into the spirit of New Orleans
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,641 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,647 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLsFIeybF20.md) - [plain]
 | 43 | [Watcha Workin It Fa \(feat\. 5th Ward Weebie\)](https://open.spotify.com/track/1iESx5RZ9TSYK2tq4dTyhV) | [New Breed Brass Band](https://open.spotify.com/artist/1o460hybHU3bpJUsu7Rko5), [5th Ward Weebie](https://open.spotify.com/artist/1Gd5PupkpVsM1OvgVDUvmH) | [Watcha Workin It Fa \(feat\. 5th Ward Weebie\)](https://open.spotify.com/album/2aNXVYXFaEPgNVOXjMPuOK) | 4:36 |
 | 44 | [Pennies from Heaven](https://open.spotify.com/track/7pwaLS4RMfIgait3uNhmcs) | [Leroy Jones](https://open.spotify.com/artist/4FJeAiorEH5xbMX5fJbQjB) | [Back to My Roots](https://open.spotify.com/album/3h80PQZuBjr2FCMbXdCFio) | 4:14 |
 | 45 | [Foot Of Canal Street](https://open.spotify.com/track/1S2yETvOEBPi7oGECTzbnd) | [John Boutté](https://open.spotify.com/artist/1lGFrlrax8KaaYwF2WJnDo) | [Good Neighbor](https://open.spotify.com/album/0angfX8UOIjXxBKymsboIU) | 3:38 |
-| 46 | [I Gotta Woman \- Bonus Track](https://open.spotify.com/track/5k6egEOSbEBGzqCftoeH1J) | [Dejan's Olympia Brass Band](https://open.spotify.com/artist/2u07jyEJFucPWFXTz0E7Tk) | [Here Come da Great Olympia Band](https://open.spotify.com/album/7b5Jsswa0Z83csOFj6Sn17) | 6:25 |
-| 47 | [Don't You Think I Love You](https://open.spotify.com/track/66XzlLhhDDBVPIF0GTcivt) | [King Oliver](https://open.spotify.com/artist/24PJRbYtu3Cq5CuF24c1QZ), [King Oliver Orchestra](https://open.spotify.com/artist/1IbLwRHEw4pcpSaIAH56HM) | [New Orleans Shout \- The Complete Victor Recordings, Vol\. 2](https://open.spotify.com/album/6UVV9UfTiyy75RLufKmUeY) | 2:48 |
+| 46 | [Don't You Think I Love You](https://open.spotify.com/track/66XzlLhhDDBVPIF0GTcivt) | [King Oliver](https://open.spotify.com/artist/24PJRbYtu3Cq5CuF24c1QZ), [King Oliver Orchestra](https://open.spotify.com/artist/1IbLwRHEw4pcpSaIAH56HM) | [New Orleans Shout \- The Complete Victor Recordings, Vol\. 2](https://open.spotify.com/album/6UVV9UfTiyy75RLufKmUeY) | 2:48 |
+| 47 | [I Gotta Woman \- Bonus Track](https://open.spotify.com/track/5k6egEOSbEBGzqCftoeH1J) | [Dejan's Olympia Brass Band](https://open.spotify.com/artist/2u07jyEJFucPWFXTz0E7Tk) | [Here Come da Great Olympia Band](https://open.spotify.com/album/7b5Jsswa0Z83csOFj6Sn17) | 6:25 |
 | 48 | [Down by the Old Mill Stream](https://open.spotify.com/track/27WzDGEB8iqGVSQhzZabBD) | [Chester Zardis](https://open.spotify.com/artist/3majGyUaFd1gTXhLtv4xOL), [Sammy Rimington](https://open.spotify.com/artist/3702astwMNkkYTOHIyl7iq), [Cliff'Kid'Bastien](https://open.spotify.com/artist/73h2V3iw1tcd1jTnBKNpwi), [Fredrik John](https://open.spotify.com/artist/4iidJfOVWQJdBef7MdsG7R), [Jon Marks](https://open.spotify.com/artist/7lRtDnRD2Ms6Wa3cG8JsDP), [Sven Stahlberg](https://open.spotify.com/artist/6lx7rmfwTNb6ZP4HMILwLh) | [New Orleans Footwarmers](https://open.spotify.com/album/2nakJy1gcGQ6clhoVvwQoZ) | 4:18 |
 | 49 | [Somebody Stole My Gal](https://open.spotify.com/track/6djAMSikLSwnAuKA4nnsMb) | [Johnny St\. Cyr](https://open.spotify.com/artist/4LVSbS8nWTaRm6G5XKueKN) | [Johnny St\. Cyr](https://open.spotify.com/album/6IkguZ3dD5fce9lfHRmelf) | 3:38 |
 | 50 | [Tiger Rag 3](https://open.spotify.com/track/4GHM6gF3ajMxUyRKfYRApf) | [Original Dixieland Jazz Band](https://open.spotify.com/artist/112yP6AwAT6QG34fiGGpmh) | [The Best of Dixieland](https://open.spotify.com/album/6cwK33nXxr4ijR6rsy7RZd) | 2:36 |
 
-Snapshot ID: `MTY0MzM0NjEyMCwwMDAwMDAwMDI4NzFhOTAxMDBiZDA5ZTcxYTU5Yjc2MTAwYmM4OGRj`
+Snapshot ID: `MTY0MzM0NjEyMCwwMDAwMDAwMDIzNGFhYWM5OWRlOTNlNGJkNDhlZDdjNmJjNzUzYzU3`

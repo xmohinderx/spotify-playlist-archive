@@ -1,12 +1,12 @@
 {
   "description": "P fkn R. Esto llega al choliiiii. Cover: Young Miko",
-  "num_followers": 220565,
+  "num_followers": 220562,
   "original_name": "Rompiendo: Puerto Rico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDc2MDY4MiwwMDAwMDAwMGM4NTZiMmJlYzRlZjRjNTg2NTdhODNmZjkyYTAwMmM0",
+  "snapshot_id": "MTY2MDc2MDY4MiwwMDAwMDAwMDNmZDZiYzAyYjI0YWY2NTRjOTgzNDhlNjExNjRmZmJi",
   "tracks": [
     {
       "added_at": "2022-08-17 18:24:42",
@@ -1011,6 +1011,26 @@
     {
       "added_at": "2022-08-17 18:24:42",
       "album": {
+        "name": "Nube",
+        "url": "https://open.spotify.com/album/1Isa3aYWmtcpoT4d2yh7ku"
+      },
+      "artists": [
+        {
+          "name": "Chucky73",
+          "url": "https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 187050,
+      "name": "Nube",
+      "url": "https://open.spotify.com/track/4fSp56ULFfajEsX0rNRu2D"
+    },
+    {
+      "added_at": "2022-08-17 18:24:42",
+      "album": {
         "name": "Extra\u00f1andote (Remix)",
         "url": "https://open.spotify.com/album/2XKNkQrc7QT9ouEyuk89f8"
       },
@@ -1035,26 +1055,6 @@
       "duration_ms": 275217,
       "name": "Extra\u00f1andote - Remix",
       "url": "https://open.spotify.com/track/0sNRkMXnwgJgGWEb1ntpHj"
-    },
-    {
-      "added_at": "2022-08-17 18:24:42",
-      "album": {
-        "name": "Nube",
-        "url": "https://open.spotify.com/album/1Isa3aYWmtcpoT4d2yh7ku"
-      },
-      "artists": [
-        {
-          "name": "Chucky73",
-          "url": "https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 187050,
-      "name": "Nube",
-      "url": "https://open.spotify.com/track/4fSp56ULFfajEsX0rNRu2D"
     },
     {
       "added_at": "2022-08-17 18:24:42",
@@ -1383,30 +1383,22 @@
     {
       "added_at": "2022-08-17 18:24:42",
       "album": {
-        "name": "Jangueo",
-        "url": "https://open.spotify.com/album/5IlQPzzI4ighOkZCiCWwmi"
+        "name": "Pa' la Calle",
+        "url": "https://open.spotify.com/album/3VdE4tEwl2bs4IGjkshN0K"
       },
       "artists": [
         {
-          "name": "Arkey-O",
-          "url": "https://open.spotify.com/artist/4IiSkchFzuQDd1Y5gOQozC"
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
         },
         {
-          "name": "Almighty",
-          "url": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
-        },
-        {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
-        },
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
         }
       ],
-      "duration_ms": 212727,
-      "name": "Jangueo",
-      "url": "https://open.spotify.com/track/6mgNiJ6pJS5SwvqxhEiMHj"
+      "duration_ms": 179032,
+      "name": "Estamos Arriba",
+      "url": "https://open.spotify.com/track/4K5cnD7P21Ny0hvbFKXIBc"
     }
   ],
   "unique_name": "Rompiendo: Puerto Rico",

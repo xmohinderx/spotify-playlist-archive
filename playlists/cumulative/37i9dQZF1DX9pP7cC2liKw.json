@@ -2188,6 +2188,28 @@
     },
     {
       "album": {
+        "name": "Me Duele",
+        "url": "https://open.spotify.com/album/3erPSNvC7zUmex1wdqc4uV"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        },
+        {
+          "name": "Manu Chao",
+          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196733,
+      "name": "Me Duele",
+      "url": "https://open.spotify.com/track/2jG2P21A1c45YU0Z1euaNB"
+    },
+    {
+      "album": {
         "name": "Me veo volar",
         "url": "https://open.spotify.com/album/692XQsxRU27ZorpAlWhStR"
       },
@@ -2573,7 +2595,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 340720,
       "name": "Nineteen Hundred and Eighty Five",
       "url": "https://open.spotify.com/track/65KrPjUkVnvUUfQaDGn6n7"
@@ -2915,7 +2937,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-13",
+      "date_removed": null,
       "duration_ms": 220463,
       "name": "Quemonito",
       "url": "https://open.spotify.com/track/7BpJ0z0MG7aAOeQfudwFpJ"
@@ -3071,7 +3093,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 178823,
       "name": "R\u00fambala",
       "url": "https://open.spotify.com/track/0YjGcWlFaksNtsCIxfrmur"

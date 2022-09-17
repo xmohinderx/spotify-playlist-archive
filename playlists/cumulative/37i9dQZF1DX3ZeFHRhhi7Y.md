@@ -4,7 +4,7 @@
 
 > Workout to K\-Pop? Count me in! \(Cover: IVE\(아이브\)\) \(신나는 케이팝 댄스 음악과 함께 운동을 즐겨보세요!\)
 
-393 songs - 21 hr 46 min - [published](https://open.spotify.com/playlist/1QV1rd0Jl2Uv3EQB0qMIsR)
+394 songs - 21 hr 49 min - [published](https://open.spotify.com/playlist/1QV1rd0Jl2Uv3EQB0qMIsR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,7 +203,7 @@
 | [Love Me \(Level Up\)](https://open.spotify.com/track/0x08oB09lbvR6Bu5YMuRwQ) | [WABISABI](https://open.spotify.com/artist/2s3oGSEgPzVTPojLcUTyCG) | [Love Me \(Level Up\)](https://open.spotify.com/album/4yOjFDzoA0uqYrF4RaHi2c) | 2:47 | 2021-12-20 | 2022-04-12 |
 | [LOVE ME LIKE](https://open.spotify.com/track/3IXSxojIjh3YuVK53HJQUN) | [OMEGA X](https://open.spotify.com/artist/2FJYWlqgtoiBtXpOy9GGIF) | [LOVE ME LIKE](https://open.spotify.com/album/0N8lx0LEnJuXuccK3utCgw) | 2:54 | 2022-03-22 | 2022-04-12 |
 | [LOVEADE](https://open.spotify.com/track/0q7U1KqAYPGHdwC8HVw67y) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [The 2nd Mini Album 'Summer Vibe'](https://open.spotify.com/album/3C9klin5PNVtOaR91eqEGz) | 3:38 | 2022-07-06 | 2022-08-19 |
-| [Lovesick Girls](https://open.spotify.com/track/4Ws314Ylb27BVsvlZOy30C) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 3:14 | 2021-12-20 |  |
+| [Lovesick Girls](https://open.spotify.com/track/4Ws314Ylb27BVsvlZOy30C) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 3:14 | 2021-12-20 | 2022-09-17 |
 | [Lovin' your scene](https://open.spotify.com/track/4W1VrYNHZBiaonutVabi8m) | [divin’](https://open.spotify.com/artist/5ewYTRNVNIrOclhsz84UkH) | [Lovin' your scene](https://open.spotify.com/album/0OmNivFkztMCrqsEhMjPqN) | 3:09 | 2021-12-20 | 2022-06-03 |
 | [MADE FOR TWO](https://open.spotify.com/track/7LcCJJqGAsjIRebidgbjJz) | [VAV](https://open.spotify.com/artist/3riGN5iBVBk5naQxUDr5fk) | [MADE FOR TWO](https://open.spotify.com/album/78MNrJUp3uHLX9DWS7YEjU) | 3:33 | 2021-12-20 | 2022-05-27 |
 | [Madonna](https://open.spotify.com/track/4EhsQ3MCiCbdvHIcOZ4YKk) | [LUNA](https://open.spotify.com/artist/56HZvtrzD82YKMGGJTlIG2) | [Madonna](https://open.spotify.com/album/7vKfoQdDR2rj2S8jkVJf0s) | 2:51 | 2022-01-03 | 2022-07-24 |
@@ -311,6 +311,7 @@
 | [Shine](https://open.spotify.com/track/7nkp1uuSbKkoxMvEs8cSw0) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [Positive](https://open.spotify.com/album/1ZRmLzZWvOkSqWePzFeekO) | 3:18 | 2021-12-20 | 2022-08-19 |
 | [Shoot Out](https://open.spotify.com/track/55Md5fnLfCpXzUATASy6Rk) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Take.1 Are You There?](https://open.spotify.com/album/1mJf2cC6TfClR8cICGZP7I) | 3:27 | 2022-03-22 | 2022-04-16 |
 | [SHOT CLOCK](https://open.spotify.com/track/35J5q8vdObi345b8NKm1CX) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes wide open](https://open.spotify.com/album/77irgFZWRDU0jkUCYvLiua) | 3:29 | 2022-03-22 | 2022-04-13 |
+| [Shut Down](https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 2:55 | 2022-09-16 |  |
 | [Side Effect \(feat\. MIYEON \(\(G\)I\-DLE\)\)](https://open.spotify.com/track/4bEQRIAxd6pRg4t32yzdge) | [Raiden](https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ), [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [Love Right Back \- The 1st Mini Album](https://open.spotify.com/album/06qTl39RYzpAI13SUQzwvV) | 2:56 | 2022-01-18 | 2022-07-23 |
 | [Siren](https://open.spotify.com/track/2EK48RuuE8HHMDzD2rEDqL) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [WARNING](https://open.spotify.com/album/7KU9xZLinCIIHBDmeQbeDp) | 3:19 | 2022-03-22 | 2022-04-16 |
 | [SMILEY\(Feat\. BIBI\)](https://open.spotify.com/track/4zCIxSnVWpGNghERX4uWZF) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [ˣ‿ˣ \(SMiLEY\)](https://open.spotify.com/album/7qldKtsOWklzmwgll5NjCw) | 2:53 | 2022-01-18 |  |

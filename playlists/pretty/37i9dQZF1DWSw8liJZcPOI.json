@@ -1,12 +1,12 @@
 {
   "description": "The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.",
-  "num_followers": 387522,
+  "num_followers": 387729,
   "original_name": "Not Quite Classical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5NjA2MCwwMDAwMDAwMGU0N2UwMDQ0M2E1YWE1MDM0ODBiMDk2M2ZkOTJjNGQ0",
+  "snapshot_id": "MTY2MjY5NjA2MCwwMDAwMDAwMDFkZTIwNDdjZTJiZjYzZTE5MWJjZjE5OWRlYmY5OWI3",
   "tracks": [
     {
       "added_at": "2022-09-09 04:01:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-09-09 04:01:00",
       "album": {
-        "name": "Somnia",
-        "url": "https://open.spotify.com/album/7dtv2mPeog1e4VssWa3zh4"
-      },
-      "artists": [
-        {
-          "name": "Peter Gregson",
-          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
-        }
-      ],
-      "duration_ms": 198323,
-      "name": "Somnia",
-      "url": "https://open.spotify.com/track/3Q1jt1WHNwsszyEAJmyaRL"
-    },
-    {
-      "added_at": "2022-09-09 04:01:00",
-      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/2IZYzC0D0efP2obfPhvClq"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 137500,
       "name": "Timeless",
       "url": "https://open.spotify.com/track/6CWhGUsfC69T6E2IHrpmrO"
+    },
+    {
+      "added_at": "2022-09-09 04:01:00",
+      "album": {
+        "name": "Somnia",
+        "url": "https://open.spotify.com/album/7dtv2mPeog1e4VssWa3zh4"
+      },
+      "artists": [
+        {
+          "name": "Peter Gregson",
+          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
+        }
+      ],
+      "duration_ms": 198323,
+      "name": "Somnia",
+      "url": "https://open.spotify.com/track/3Q1jt1WHNwsszyEAJmyaRL"
     },
     {
       "added_at": "2022-09-09 04:01:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2022-09-09 04:01:00",
       "album": {
-        "name": "The Open",
-        "url": "https://open.spotify.com/album/2AcC9SJ0mMyKGJLONZx6lt"
-      },
-      "artists": [
-        {
-          "name": "Lambert",
-          "url": "https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK"
-        }
-      ],
-      "duration_ms": 214862,
-      "name": "The Open",
-      "url": "https://open.spotify.com/track/2sSzhlTz0N1HlSuoLLxv8z"
-    },
-    {
-      "added_at": "2022-09-09 04:01:00",
-      "album": {
         "name": "BLOMMA",
         "url": "https://open.spotify.com/album/3ZkfxERiMWA5EBPqZSLgEc"
       },
@@ -731,30 +715,6 @@
     {
       "added_at": "2022-09-09 04:01:00",
       "album": {
-        "name": "Take 5 - Solips (Klaus Sahm Rework)",
-        "url": "https://open.spotify.com/album/5q6uytSRIIvNQdk9crGS96"
-      },
-      "artists": [
-        {
-          "name": "Kevin Imbrechts",
-          "url": "https://open.spotify.com/artist/4IEPEjmBa0rkMZQhv5gYNu"
-        },
-        {
-          "name": "Klaus Sahm",
-          "url": "https://open.spotify.com/artist/4QXX28RTVLhnQmHTfQNnHK"
-        },
-        {
-          "name": "Illuminine",
-          "url": "https://open.spotify.com/artist/2JgcaYYHEGDqrKKJzuVda5"
-        }
-      ],
-      "duration_ms": 175346,
-      "name": "Take 5 - Solips - Klaus Sahm Rework",
-      "url": "https://open.spotify.com/track/6pcjJAP1f8RHRvfW5kLmEm"
-    },
-    {
-      "added_at": "2022-09-09 04:01:00",
-      "album": {
         "name": "Longhope",
         "url": "https://open.spotify.com/album/4lSb0FHWXuVNF4aQCSJqI0"
       },
@@ -775,6 +735,46 @@
       "duration_ms": 211000,
       "name": "Longhope - Edit",
       "url": "https://open.spotify.com/track/3KewUrX9nBSs6KMtFvw6wq"
+    },
+    {
+      "added_at": "2022-09-09 04:01:00",
+      "album": {
+        "name": "The Open",
+        "url": "https://open.spotify.com/album/2AcC9SJ0mMyKGJLONZx6lt"
+      },
+      "artists": [
+        {
+          "name": "Lambert",
+          "url": "https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK"
+        }
+      ],
+      "duration_ms": 214862,
+      "name": "The Open",
+      "url": "https://open.spotify.com/track/2sSzhlTz0N1HlSuoLLxv8z"
+    },
+    {
+      "added_at": "2022-09-09 04:01:00",
+      "album": {
+        "name": "Take 5 - Solips (Klaus Sahm Rework)",
+        "url": "https://open.spotify.com/album/5q6uytSRIIvNQdk9crGS96"
+      },
+      "artists": [
+        {
+          "name": "Kevin Imbrechts",
+          "url": "https://open.spotify.com/artist/4IEPEjmBa0rkMZQhv5gYNu"
+        },
+        {
+          "name": "Klaus Sahm",
+          "url": "https://open.spotify.com/artist/4QXX28RTVLhnQmHTfQNnHK"
+        },
+        {
+          "name": "Illuminine",
+          "url": "https://open.spotify.com/artist/2JgcaYYHEGDqrKKJzuVda5"
+        }
+      ],
+      "duration_ms": 175346,
+      "name": "Take 5 - Solips - Klaus Sahm Rework",
+      "url": "https://open.spotify.com/track/6pcjJAP1f8RHRvfW5kLmEm"
     },
     {
       "added_at": "2022-09-09 04:01:00",
@@ -827,6 +827,26 @@
     {
       "added_at": "2022-09-09 04:01:00",
       "album": {
+        "name": "A Lifetime Rolls By (annasara Rework)",
+        "url": "https://open.spotify.com/album/06d6otha9XjgY2QWtB05Xo"
+      },
+      "artists": [
+        {
+          "name": "BPMoore",
+          "url": "https://open.spotify.com/artist/7IZYQVOMyQi55ytXjYoXrP"
+        },
+        {
+          "name": "annasara",
+          "url": "https://open.spotify.com/artist/77UdbRpv75Hby0KyMASqJJ"
+        }
+      ],
+      "duration_ms": 176120,
+      "name": "A Lifetime Rolls By - annasara Rework",
+      "url": "https://open.spotify.com/track/0r3ROaj4TrysELcI4LHODu"
+    },
+    {
+      "added_at": "2022-09-09 04:01:00",
+      "album": {
         "name": "No Ball Games (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0mAh7l6iuv2vGhJXeCQJFn"
       },
@@ -855,26 +875,6 @@
       "duration_ms": 238333,
       "name": "Enigma",
       "url": "https://open.spotify.com/track/5rmSiOcI7xPIOhMTakVxa0"
-    },
-    {
-      "added_at": "2022-09-09 04:01:00",
-      "album": {
-        "name": "A Lifetime Rolls By (annasara Rework)",
-        "url": "https://open.spotify.com/album/06d6otha9XjgY2QWtB05Xo"
-      },
-      "artists": [
-        {
-          "name": "BPMoore",
-          "url": "https://open.spotify.com/artist/7IZYQVOMyQi55ytXjYoXrP"
-        },
-        {
-          "name": "annasara",
-          "url": "https://open.spotify.com/artist/77UdbRpv75Hby0KyMASqJJ"
-        }
-      ],
-      "duration_ms": 176120,
-      "name": "A Lifetime Rolls By - annasara Rework",
-      "url": "https://open.spotify.com/track/0r3ROaj4TrysELcI4LHODu"
     },
     {
       "added_at": "2022-09-09 04:01:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2022-09-09 04:01:00",
       "album": {
-        "name": "October",
-        "url": "https://open.spotify.com/album/4YhjuXwBlF265iUJkCr0Db"
-      },
-      "artists": [
-        {
-          "name": "Annelie",
-          "url": "https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC"
-        }
-      ],
-      "duration_ms": 177186,
-      "name": "October",
-      "url": "https://open.spotify.com/track/0qJkni7fSqPAim9WFO4qUh"
-    },
-    {
-      "added_at": "2022-09-09 04:01:00",
-      "album": {
         "name": "Clouds in the Mirror (This Is Not a Safe Place Reimagined by P\u00eatr Aleks\u00e4nder) [Instrumentals]",
         "url": "https://open.spotify.com/album/6hXYP3ljDTYrudMF9hyuLb"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 183186,
       "name": "Future Love (Reimagined by P\u00eatr Aleks\u00e4nder) - Instrumental",
       "url": "https://open.spotify.com/track/683mwxOizslObemAVOmvH4"
+    },
+    {
+      "added_at": "2022-09-09 04:01:00",
+      "album": {
+        "name": "October",
+        "url": "https://open.spotify.com/album/4YhjuXwBlF265iUJkCr0Db"
+      },
+      "artists": [
+        {
+          "name": "Annelie",
+          "url": "https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC"
+        }
+      ],
+      "duration_ms": 177186,
+      "name": "October",
+      "url": "https://open.spotify.com/track/0qJkni7fSqPAim9WFO4qUh"
     },
     {
       "added_at": "2022-09-09 04:01:00",
@@ -1095,38 +1095,6 @@
     {
       "added_at": "2022-09-09 04:01:00",
       "album": {
-        "name": "Parliament Of Owls",
-        "url": "https://open.spotify.com/album/3cs2v3m4bPWdYB3C76tw2A"
-      },
-      "artists": [
-        {
-          "name": "Agnes Obel",
-          "url": "https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms"
-        }
-      ],
-      "duration_ms": 149751,
-      "name": "Parliament Of Owls",
-      "url": "https://open.spotify.com/track/0mNCNmylxTWB9GrFw4RVf6"
-    },
-    {
-      "added_at": "2022-09-09 04:01:00",
-      "album": {
-        "name": "Empty",
-        "url": "https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI"
-      },
-      "artists": [
-        {
-          "name": "Nils Frahm",
-          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
-        }
-      ],
-      "duration_ms": 286986,
-      "name": "No Step on Wing",
-      "url": "https://open.spotify.com/track/2DmIDwMhMA3V0KipI78nM1"
-    },
-    {
-      "added_at": "2022-09-09 04:01:00",
-      "album": {
         "name": "Music For Growing Flowers",
         "url": "https://open.spotify.com/album/7nlNFxFHuJxLHtfGM2mAkD"
       },
@@ -1155,6 +1123,38 @@
       "duration_ms": 225400,
       "name": "New World",
       "url": "https://open.spotify.com/track/0ZYyAD3ZFssmqUrfBhjQst"
+    },
+    {
+      "added_at": "2022-09-09 04:01:00",
+      "album": {
+        "name": "Parliament Of Owls",
+        "url": "https://open.spotify.com/album/3cs2v3m4bPWdYB3C76tw2A"
+      },
+      "artists": [
+        {
+          "name": "Agnes Obel",
+          "url": "https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms"
+        }
+      ],
+      "duration_ms": 149751,
+      "name": "Parliament Of Owls",
+      "url": "https://open.spotify.com/track/0mNCNmylxTWB9GrFw4RVf6"
+    },
+    {
+      "added_at": "2022-09-09 04:01:00",
+      "album": {
+        "name": "Empty",
+        "url": "https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "duration_ms": 286986,
+      "name": "No Step on Wing",
+      "url": "https://open.spotify.com/track/2DmIDwMhMA3V0KipI78nM1"
     },
     {
       "added_at": "2022-09-09 04:01:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2022-09-09 04:01:00",
       "album": {
-        "name": "Old Friends New Friends",
-        "url": "https://open.spotify.com/album/1Urrycrm9pFy2F3xSoQ3fj"
-      },
-      "artists": [
-        {
-          "name": "Nils Frahm",
-          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
-        }
-      ],
-      "duration_ms": 244919,
-      "name": "Corn",
-      "url": "https://open.spotify.com/track/7jH6HaPyBRL2SH1AvzVe6h"
-    },
-    {
-      "added_at": "2022-09-09 04:01:00",
-      "album": {
         "name": "Haar over Hamnavoe (Bill Ryder-Jones Rework)",
         "url": "https://open.spotify.com/album/20ek3LDlmNsbU44XmMP6cb"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 233253,
       "name": "Haar over Hamnavoe - Bill Ryder-Jones Rework",
       "url": "https://open.spotify.com/track/5Fe2pvSESMAop2EP1b2f3l"
+    },
+    {
+      "added_at": "2022-09-09 04:01:00",
+      "album": {
+        "name": "Old Friends New Friends",
+        "url": "https://open.spotify.com/album/1Urrycrm9pFy2F3xSoQ3fj"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "duration_ms": 244919,
+      "name": "Corn",
+      "url": "https://open.spotify.com/track/7jH6HaPyBRL2SH1AvzVe6h"
     },
     {
       "added_at": "2022-09-09 04:01:00",
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2022-09-09 04:01:00",
       "album": {
-        "name": "The Wind",
-        "url": "https://open.spotify.com/album/4Ud5YQc9KHMuj0TQQfvnnj"
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/6JLS96rMyyFzQTlpNuRV51"
       },
       "artists": [
         {
-          "name": "Balmorhea",
-          "url": "https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9"
+          "name": "Pablo Nouvelle",
+          "url": "https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P"
         }
       ],
-      "duration_ms": 81641,
-      "name": "Nos",
-      "url": "https://open.spotify.com/track/5QIm5UVUJhPrpXwfFXAgKI"
+      "duration_ms": 247600,
+      "name": "Ave",
+      "url": "https://open.spotify.com/track/1uIjVysHAMBXEr8Arx7tfT"
     },
     {
       "added_at": "2022-09-09 04:01:00",
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2022-09-09 04:01:00",
       "album": {
-        "name": "All I Need",
-        "url": "https://open.spotify.com/album/6JLS96rMyyFzQTlpNuRV51"
+        "name": "The Wind",
+        "url": "https://open.spotify.com/album/4Ud5YQc9KHMuj0TQQfvnnj"
       },
       "artists": [
         {
-          "name": "Pablo Nouvelle",
-          "url": "https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P"
+          "name": "Balmorhea",
+          "url": "https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9"
         }
       ],
-      "duration_ms": 247600,
-      "name": "Ave",
-      "url": "https://open.spotify.com/track/1uIjVysHAMBXEr8Arx7tfT"
+      "duration_ms": 81641,
+      "name": "Nos",
+      "url": "https://open.spotify.com/track/5QIm5UVUJhPrpXwfFXAgKI"
     },
     {
       "added_at": "2022-09-09 04:01:00",

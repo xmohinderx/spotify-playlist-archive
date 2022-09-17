@@ -2,9 +2,9 @@
 
 ### [La Reina: Éxitos de la Música Mexicana](https://open.spotify.com/playlist/37i9dQZF1DX905zIRtblN3)
 
-> ¡Las más poderosas y llegadoras de nuestra música! Al millón con Yuridia, al millón con La Reina.
+> ¡Las más poderosas y llegadoras de nuestra música! Al millón con Edén Muñoz, al millón con La Reina.
 
-168 songs - 9 hr 0 min - [published](https://open.spotify.com/playlist/4HXTR8NnDEpNDyLbDZVUDI)
+169 songs - 9 hr 2 min - [published](https://open.spotify.com/playlist/4HXTR8NnDEpNDyLbDZVUDI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [Los Mire Con Talento](https://open.spotify.com/track/1trAoZKkvVjuuQpUzTI6KV) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Los Mire Con Talento](https://open.spotify.com/album/55ALbKLzliLSlrbVRcWft9) | 2:43 | 2021-12-17 | 2022-03-08 |
 | [Me Acostumbre A Lo Bueno](https://open.spotify.com/track/1hHnCReCPe1FUkGLTeuCaC) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Del Barrio Hasta Aquí, Vol\. 2](https://open.spotify.com/album/1UtMaTZl4kau9NSFqc8wHp) | 2:20 | 2022-01-03 | 2022-02-23 |
 | [Me Extraño](https://open.spotify.com/track/49A0SKbXyTUyk5uw8fXzFi) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Me Extraño](https://open.spotify.com/album/0fuHe4cJQ677flvGr2QLN1) | 3:11 | 2022-09-02 |  |
-| [Me Hace Tanto Bien](https://open.spotify.com/track/21D2EZmXoJYccfgeZndtOg) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Me Hace Tanto Bien](https://open.spotify.com/album/40IOas3f9rXV6CfpHZ6PjV) | 3:51 | 2022-07-08 |  |
+| [Me Hace Tanto Bien](https://open.spotify.com/track/21D2EZmXoJYccfgeZndtOg) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Me Hace Tanto Bien](https://open.spotify.com/album/40IOas3f9rXV6CfpHZ6PjV) | 3:51 | 2022-07-08 | 2022-09-17 |
 | [Me Metí En El Ruedo](https://open.spotify.com/track/7KNSQcLwrl3bNEuV1OVHtv) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Bélicos, Vol\. 2](https://open.spotify.com/album/5WWAwbRCM3CyiZNO9rsfWS) | 2:54 | 2021-12-17 | 2022-04-02 |
 | [Mente Positiva](https://open.spotify.com/track/3WQilym5Vi4ypxb70vx0eY) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Atrapado en un Sueño](https://open.spotify.com/album/4UmrKzDJX0agxs2VF9lkaF) | 3:12 | 2021-12-17 | 2022-01-29 |
 | [Mi Amuleto Eres Tú](https://open.spotify.com/track/3unSYVLOSglxPFNOwYXRA0) | [Vagon Chicano](https://open.spotify.com/artist/2yK0OH7d55O2eZNcBTB19k) | [Mi Amuleto Eres Tu](https://open.spotify.com/album/2V6WGHF2zycmbSwpGaWlJp) | 3:30 | 2022-01-21 | 2022-02-05 |
@@ -112,6 +112,7 @@
 | [No Sabía Cuánto](https://open.spotify.com/track/4gBxREFDhxi8Hw4qeiYt7B) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6) | [No Sabía Cuánto](https://open.spotify.com/album/73ldGcnuZUBccjAhd4jgXZ) | 2:45 | 2022-05-06 | 2022-09-03 |
 | [No Se Va](https://open.spotify.com/track/5TXLMRrIet3CQxkyBZc3yE) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [No Se Va](https://open.spotify.com/album/4doKN48F7hHYG3WOujGP0F) | 3:14 | 2022-07-15 |  |
 | [Nunca Dudes En Llamarme](https://open.spotify.com/track/2cS7uDj2vfJeUazHoKJnyu) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Nunca Dudes En Llamarme](https://open.spotify.com/album/3fahKcjOep1m0j2jovzx96) | 3:24 | 2022-07-15 | 2022-09-03 |
+| [Oficialmente en Soltería](https://open.spotify.com/track/63BZhuQ6OZQmxy2RERMHko) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Oficialmente en Soltería](https://open.spotify.com/album/6PVL1eOWGgrULXTd6diUxe) | 2:02 | 2022-09-16 |  |
 | [Ojos Cerrados](https://open.spotify.com/track/4OVpyR6yhYyVoRj9D7CERz) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Ojos Cerrados](https://open.spotify.com/album/0bmO2mhykyBDs7jt1ftQe0) | 3:00 | 2022-01-07 |  |
 | [Ojos Verdes](https://open.spotify.com/track/6981hdSOqG8tP6xTqaySa1) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Soy Lo Que Quiero..\. Indispensable \(Edición Especial\)](https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb) | 3:57 | 2022-06-20 | 2022-07-09 |
 | [Otra Noche](https://open.spotify.com/track/2nwHN5TM4OBdrwCUSx0wnE) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Otra Noche](https://open.spotify.com/album/2b4wYjErjhZ0U05XpOnsoC) | 3:18 | 2022-03-03 | 2022-04-02 |

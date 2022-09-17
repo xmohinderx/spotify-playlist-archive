@@ -967,7 +967,7 @@
     {
       "album": {
         "name": "Sorted Noise Records: A Holiday Album, Vol. 2",
-        "url": "https://open.spotify.com/album/18GWTfG4zqCiTR3mxtDwqY"
+        "url": "https://open.spotify.com/album/5Mj8SnxH6mYUdEIV7w6sbT"
       },
       "artists": [
         {
@@ -978,6 +978,24 @@
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 192772,
+      "name": "I Saw Three Ships",
+      "url": "https://open.spotify.com/track/3A6vKBC4EV4LKOY8QKgUtP"
+    },
+    {
+      "album": {
+        "name": "Sorted Noise Records: A Holiday Album, Vol. 2",
+        "url": "https://open.spotify.com/album/18GWTfG4zqCiTR3mxtDwqY"
+      },
+      "artists": [
+        {
+          "name": "Perrin Lamb",
+          "url": "https://open.spotify.com/artist/7CfcrGoabPfkAToFD8oBF3"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-17",
       "duration_ms": 192772,
       "name": "I Saw Three Ships",
       "url": "https://open.spotify.com/track/6VzAK6UZ7kjw8KssxOMwzP"

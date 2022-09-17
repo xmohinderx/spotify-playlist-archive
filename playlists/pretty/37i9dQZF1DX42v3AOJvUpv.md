@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42v3AOJvUpv.md) - [plain]
 
 > Entre peinados, maquillajes y vestimentas exóticas, la estética dominó la escena musical de los años ’80\. Foto:<a href="spotify:user:spotify:playlist:37i9dQZF1DWThxX36B17XL"> Soda Stereo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,278 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,289 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42v3AOJvUpv.md) - [plain]
 | 47 | [Ricardo Ruben](https://open.spotify.com/track/5cVj2BJzyg29FstVdSDaGS) | [Los Twist](https://open.spotify.com/artist/5m0J5lv69wHuzD3Fvb50tn) | [Cataratas Musicales](https://open.spotify.com/album/2f3g5aLQ7f02ZhMZniS7oq) | 3:23 |
 | 48 | [Vía México](https://open.spotify.com/track/2F1vbTtyEC531VQhqh2LlK) | [Suéter](https://open.spotify.com/artist/6YbPwijYI1KH2v4aPzAORT) | [20 Caras Bonitas](https://open.spotify.com/album/7jNFPw0fZoJVM4DoOfi8Lg) | 3:30 |
 | 49 | [Corazones Muertos](https://open.spotify.com/track/4UgtuMtQBOHTSJktZgwQvV) | [Raul Porchetto](https://open.spotify.com/artist/3WoxTj3fh8I58MpnwZyYyL) | [Noche y Día](https://open.spotify.com/album/0FWccOOClD62jDsDvqj6Gl) | 3:46 |
-| 50 | [Varias Horas Soñando](https://open.spotify.com/track/3ZPt1cQUUdaplow6lqXirs) | [Identikit](https://open.spotify.com/artist/5v4okqoEFb82y0x5WnJg5i) | [Identikit](https://open.spotify.com/album/4QW2T17PbPWQUAG6A2vMjy) | 4:35 |
+| 50 | [Solo En Una Noche De Jazz](https://open.spotify.com/track/7nZvD8LeEV8S6LFvUPZjPW) | [Identikit](https://open.spotify.com/artist/5v4okqoEFb82y0x5WnJg5i) | [Identikit](https://open.spotify.com/album/4QW2T17PbPWQUAG6A2vMjy) | 3:16 |
 
-Snapshot ID: `MTU4NDM3NTE2MiwwMDAwMDAwMGMxY2RjMDRiYTE3Y2JkMzk4NDkxNTA0OWNmZWRkMDYy`
+Snapshot ID: `MTU4NDM3NTE2MiwwMDAwMDAwMDM0ODFmYzhjYWE0ZjNhZmQwNDgzMmIzMzI5MmVlM2U2`

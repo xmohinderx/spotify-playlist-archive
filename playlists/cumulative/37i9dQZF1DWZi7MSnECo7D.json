@@ -626,6 +626,24 @@
     },
     {
       "album": {
+        "name": "(self-titled)",
+        "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
+      },
+      "artists": [
+        {
+          "name": "Marcus Mumford",
+          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205600,
+      "name": "Better Angels",
+      "url": "https://open.spotify.com/track/4ea8UWKf6mWySfzddxfKfE"
+    },
+    {
+      "album": {
         "name": "Bicho Pap\u00e3o",
         "url": "https://open.spotify.com/album/3jHc6Yn0a3Nwk50r413tSG"
       },
@@ -1173,7 +1191,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 163636,
       "name": "Dan\u00e7ando Assim",
       "url": "https://open.spotify.com/track/5Z05YrmWq85lEae2WUraSH"
@@ -3200,6 +3218,24 @@
     },
     {
       "album": {
+        "name": "O Sol e a Lua",
+        "url": "https://open.spotify.com/album/7hChsKkWkPFxWWsxkHSdER"
+      },
+      "artists": [
+        {
+          "name": "kamaitachi",
+          "url": "https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157781,
+      "name": "O Sol e a Lua",
+      "url": "https://open.spotify.com/track/2Nv6y9yuUqgQYnExL5m7xe"
+    },
+    {
+      "album": {
         "name": "Self",
         "url": "https://open.spotify.com/album/6KOuaiicX4JZwEf20FWGuK"
       },
@@ -3733,7 +3769,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 170148,
       "name": "Quando",
       "url": "https://open.spotify.com/track/1wCWq966JTPrEilK0uqqht"
@@ -5205,7 +5241,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 167914,
       "name": "V\u00eanus",
       "url": "https://open.spotify.com/track/15aq8H2UxtbVCr5MEY37YO"

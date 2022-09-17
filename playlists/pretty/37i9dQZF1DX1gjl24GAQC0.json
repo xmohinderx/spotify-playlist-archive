@@ -1,12 +1,12 @@
 {
   "description": "Is it your favorite oppa or dongsaeng? Cover: \bONEUS(\uc6d0\uc5b4\uc2a4) [\ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?]",
-  "num_followers": 752153,
+  "num_followers": 752416,
   "original_name": "Hallyu Boy Bands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM2OTY3OSwwMDAwMDAwMDU1Nzg3OWM0NjZhOWI5OTNkZTYzYjYzYzc2ZGNkMTA1",
+  "snapshot_id": "MTY2MjM2OTY3OSwwMDAwMDAwMDY5Mjc1MmUyM2YwNDNiMzY4ODEwOWU1ZDFlZjQ4YTZk",
   "tracks": [
     {
       "added_at": "2022-09-05 09:21:19",
@@ -595,18 +595,18 @@
     {
       "added_at": "2022-09-05 09:21:19",
       "album": {
-        "name": "GOT7",
-        "url": "https://open.spotify.com/album/3vIVsuFU7ZKCwKB2Yri8lM"
+        "name": "Cl\u00e9 1 : MIROH",
+        "url": "https://open.spotify.com/album/3s6RbqkTprnGwKpoUSYL00"
       },
       "artists": [
         {
-          "name": "GOT7",
-          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
         }
       ],
-      "duration_ms": 187466,
-      "name": "NANANA",
-      "url": "https://open.spotify.com/track/2tEMbypmvYhf84mzVbhxwZ"
+      "duration_ms": 207617,
+      "name": "MIROH",
+      "url": "https://open.spotify.com/track/2sFWzfV3kqAwXEWM9BjzwH"
     },
     {
       "added_at": "2022-09-05 09:21:19",
@@ -627,18 +627,18 @@
     {
       "added_at": "2022-09-05 09:21:19",
       "album": {
-        "name": "Cl\u00e9 1 : MIROH",
-        "url": "https://open.spotify.com/album/3s6RbqkTprnGwKpoUSYL00"
+        "name": "GOT7",
+        "url": "https://open.spotify.com/album/3vIVsuFU7ZKCwKB2Yri8lM"
       },
       "artists": [
         {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
         }
       ],
-      "duration_ms": 207617,
-      "name": "MIROH",
-      "url": "https://open.spotify.com/track/2sFWzfV3kqAwXEWM9BjzwH"
+      "duration_ms": 187466,
+      "name": "NANANA",
+      "url": "https://open.spotify.com/track/2tEMbypmvYhf84mzVbhxwZ"
     },
     {
       "added_at": "2022-09-05 09:21:19",
@@ -791,22 +791,6 @@
     {
       "added_at": "2022-09-05 09:21:19",
       "album": {
-        "name": "The Road : Keep on Going - The 11th Album Vol.1",
-        "url": "https://open.spotify.com/album/31WEkr0PFjRjRWszhYchtp"
-      },
-      "artists": [
-        {
-          "name": "SUPER JUNIOR",
-          "url": "https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV"
-        }
-      ],
-      "duration_ms": 199213,
-      "name": "Mango",
-      "url": "https://open.spotify.com/track/1VJdjvyLMRUQ0HH8byGDZt"
-    },
-    {
-      "added_at": "2022-09-05 09:21:19",
-      "album": {
         "name": "RED",
         "url": "https://open.spotify.com/album/5CrMZwZuJcDpzFmMO35vxN"
       },
@@ -819,6 +803,26 @@
       "duration_ms": 176466,
       "name": "RED",
       "url": "https://open.spotify.com/track/1JsBcVdlKZJmDPJWu4wJPC"
+    },
+    {
+      "added_at": "2022-09-05 09:21:19",
+      "album": {
+        "name": "NCT 2018 EMPATHY",
+        "url": "https://open.spotify.com/album/3KAJvo62RNQEtXwIyB5rzX"
+      },
+      "artists": [
+        {
+          "name": "NCT",
+          "url": "https://open.spotify.com/artist/48eO052eSDcn8aTxiv6QaG"
+        },
+        {
+          "name": "NCT U",
+          "url": "https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ"
+        }
+      ],
+      "duration_ms": 183019,
+      "name": "Baby Don\u2019t Stop",
+      "url": "https://open.spotify.com/track/1EYSS9Lp7a9f20C3FaOVgI"
     }
   ],
   "unique_name": "Hallyu Boy Bands",

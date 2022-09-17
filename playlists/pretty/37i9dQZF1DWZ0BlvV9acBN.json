@@ -1,12 +1,12 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Theo Rubia, Felipe Vilela",
-  "num_followers": 107073,
+  "num_followers": 107089,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjE0MjQ4NywwMDAwMDAwMDIzZTYwMWI0M2JjOTVlNWNkZjA0YTIzNWYwZmUyNTY2",
+  "snapshot_id": "MTY2MjE0MjQ4NywwMDAwMDAwMGRhNDNkNWMzZDZkNWZmMWI5YWVhNGUxMmQ0ZDg2NmZj",
   "tracks": [
     {
       "added_at": "2022-09-02 03:00:00",
@@ -235,22 +235,6 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Retrato",
-        "url": "https://open.spotify.com/album/1Dcw4IIzGiGcKFk8vVw5u8"
-      },
-      "artists": [
-        {
-          "name": "Oficina G3",
-          "url": "https://open.spotify.com/artist/0gO5Vbklho8yrBrUdHhuLH"
-        }
-      ],
-      "duration_ms": 333250,
-      "name": "Retrato",
-      "url": "https://open.spotify.com/track/6jzcEtCzGYnslrheybOMoc"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
         "name": "justi\u00e7a, paz, alegria",
         "url": "https://open.spotify.com/album/2xtFRJflfGl6hkMIoZ1fKS"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 270996,
       "name": "justi\u00e7a, paz, alegria",
       "url": "https://open.spotify.com/track/0uFxeF9GqOOOlYAwHQVOjW"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
+        "name": "Retrato",
+        "url": "https://open.spotify.com/album/1Dcw4IIzGiGcKFk8vVw5u8"
+      },
+      "artists": [
+        {
+          "name": "Oficina G3",
+          "url": "https://open.spotify.com/artist/0gO5Vbklho8yrBrUdHhuLH"
+        }
+      ],
+      "duration_ms": 333250,
+      "name": "Retrato",
+      "url": "https://open.spotify.com/track/6jzcEtCzGYnslrheybOMoc"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -375,6 +375,26 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
+        "name": "Assume a Responsa",
+        "url": "https://open.spotify.com/album/2Z8TDPzD9x6rDB1VSRtFm8"
+      },
+      "artists": [
+        {
+          "name": "Julliany Souza",
+          "url": "https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq"
+        },
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 259862,
+      "name": "Assume a Responsa",
+      "url": "https://open.spotify.com/track/1QsGZr3d0O0vqJhJr1QZQg"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
         "name": "Masmorra",
         "url": "https://open.spotify.com/album/3K7ntpjUHLXD6jm3unf5kj"
       },
@@ -395,22 +415,6 @@
       "duration_ms": 248008,
       "name": "Masmorra",
       "url": "https://open.spotify.com/track/3lRbeTTIUBS9xeBbdknpSB"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
-        "name": "Luz (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1TXYUnt8wrLDvKfROV0bxF"
-      },
-      "artists": [
-        {
-          "name": "Os Arrais",
-          "url": "https://open.spotify.com/artist/1Ja8qReIBoi7Z6ik0AQ6zS"
-        }
-      ],
-      "duration_ms": 220128,
-      "name": "Luz - Ao Vivo",
-      "url": "https://open.spotify.com/track/2JMaIeyJ1Fa4ASLJCZRW6i"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -467,6 +471,22 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
+        "name": "Luz (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1TXYUnt8wrLDvKfROV0bxF"
+      },
+      "artists": [
+        {
+          "name": "Os Arrais",
+          "url": "https://open.spotify.com/artist/1Ja8qReIBoi7Z6ik0AQ6zS"
+        }
+      ],
+      "duration_ms": 220128,
+      "name": "Luz - Ao Vivo",
+      "url": "https://open.spotify.com/track/2JMaIeyJ1Fa4ASLJCZRW6i"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
         "name": "Eu Vou Amanhecer (ao Vivo)",
         "url": "https://open.spotify.com/album/0puuCUbHqQAhodavAxZbkj"
       },
@@ -479,26 +499,6 @@
       "duration_ms": 341789,
       "name": "Eu Vou Amanhecer - Ao Vivo",
       "url": "https://open.spotify.com/track/7MUFfFp3Voeu9N8hBBm960"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
-        "name": "Assume a Responsa",
-        "url": "https://open.spotify.com/album/2Z8TDPzD9x6rDB1VSRtFm8"
-      },
-      "artists": [
-        {
-          "name": "Julliany Souza",
-          "url": "https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq"
-        },
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 259862,
-      "name": "Assume a Responsa",
-      "url": "https://open.spotify.com/track/1QsGZr3d0O0vqJhJr1QZQg"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -615,26 +615,6 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Mente Brilhante",
-        "url": "https://open.spotify.com/album/5c35wXVbHDGXhnY84WFmSy"
-      },
-      "artists": [
-        {
-          "name": "Palankin",
-          "url": "https://open.spotify.com/artist/796gkD2e78sHPMakFcnqUJ"
-        },
-        {
-          "name": "Ana Rock",
-          "url": "https://open.spotify.com/artist/7hh91Pi4y3ey6t0m8I0P5U"
-        }
-      ],
-      "duration_ms": 307533,
-      "name": "Mente Brilhante",
-      "url": "https://open.spotify.com/track/7GJdlUbMQHcAS9ztW6YFZ7"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
         "name": "Santo (Ao Vivo)",
         "url": "https://open.spotify.com/album/3ZvYugynlgc6iZbK0esYQP"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 251707,
       "name": "O que o c\u00e9u come\u00e7a o c\u00e9u termina - Ao Vivo",
       "url": "https://open.spotify.com/track/2G8YIlCvrzyoTUxODWWWBw"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
+        "name": "Mente Brilhante",
+        "url": "https://open.spotify.com/album/5c35wXVbHDGXhnY84WFmSy"
+      },
+      "artists": [
+        {
+          "name": "Palankin",
+          "url": "https://open.spotify.com/artist/796gkD2e78sHPMakFcnqUJ"
+        },
+        {
+          "name": "Ana Rock",
+          "url": "https://open.spotify.com/artist/7hh91Pi4y3ey6t0m8I0P5U"
+        }
+      ],
+      "duration_ms": 307533,
+      "name": "Mente Brilhante",
+      "url": "https://open.spotify.com/track/7GJdlUbMQHcAS9ztW6YFZ7"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -719,26 +719,6 @@
       "duration_ms": 261500,
       "name": "Resist\u00eancia",
       "url": "https://open.spotify.com/track/1xgOmlVKi42RFa0diXjjZM"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
-        "name": "No Jardim Parte 1/3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1iSiezemfGT9mCzLzATNVX"
-      },
-      "artists": [
-        {
-          "name": "Palankin",
-          "url": "https://open.spotify.com/artist/796gkD2e78sHPMakFcnqUJ"
-        },
-        {
-          "name": "Ana Rock",
-          "url": "https://open.spotify.com/artist/7hh91Pi4y3ey6t0m8I0P5U"
-        }
-      ],
-      "duration_ms": 313397,
-      "name": "Novo G\u00eanesis - Ao Vivo",
-      "url": "https://open.spotify.com/track/1iWwHkE9rUvbDbiascv1LF"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -803,6 +783,26 @@
       "duration_ms": 205479,
       "name": "Sempre Foi Deus",
       "url": "https://open.spotify.com/track/5aJiKvmw8KvEMhlxh3rTLj"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
+        "name": "No Jardim Parte 1/3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1iSiezemfGT9mCzLzATNVX"
+      },
+      "artists": [
+        {
+          "name": "Palankin",
+          "url": "https://open.spotify.com/artist/796gkD2e78sHPMakFcnqUJ"
+        },
+        {
+          "name": "Ana Rock",
+          "url": "https://open.spotify.com/artist/7hh91Pi4y3ey6t0m8I0P5U"
+        }
+      ],
+      "duration_ms": 313397,
+      "name": "Novo G\u00eanesis - Ao Vivo",
+      "url": "https://open.spotify.com/track/1iWwHkE9rUvbDbiascv1LF"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -891,18 +891,18 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Pura Luz",
-        "url": "https://open.spotify.com/album/5dC3nxKgPPfZJD0ZJxTE5D"
+        "name": "Caminho Sem Volta",
+        "url": "https://open.spotify.com/album/7mzXUBD7si5aoKWckv7gJR"
       },
       "artists": [
         {
-          "name": "Os Bravos",
-          "url": "https://open.spotify.com/artist/1fR2eijp4FoQX7RmBUeyEm"
+          "name": "Stone Worship",
+          "url": "https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf"
         }
       ],
-      "duration_ms": 345000,
-      "name": "Pura Luz",
-      "url": "https://open.spotify.com/track/4ueM9Lm7cMB68qkveLIFG0"
+      "duration_ms": 215064,
+      "name": "Caminho Sem Volta",
+      "url": "https://open.spotify.com/track/0KyqZzXWJSInwvSlCkFvUh"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -923,18 +923,18 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Caminho Sem Volta",
-        "url": "https://open.spotify.com/album/7mzXUBD7si5aoKWckv7gJR"
+        "name": "Pura Luz",
+        "url": "https://open.spotify.com/album/5dC3nxKgPPfZJD0ZJxTE5D"
       },
       "artists": [
         {
-          "name": "Stone Worship",
-          "url": "https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf"
+          "name": "Os Bravos",
+          "url": "https://open.spotify.com/artist/1fR2eijp4FoQX7RmBUeyEm"
         }
       ],
-      "duration_ms": 215064,
-      "name": "Caminho Sem Volta",
-      "url": "https://open.spotify.com/track/0KyqZzXWJSInwvSlCkFvUh"
+      "duration_ms": 345000,
+      "name": "Pura Luz",
+      "url": "https://open.spotify.com/track/4ueM9Lm7cMB68qkveLIFG0"
     },
     {
       "added_at": "2022-09-02 03:00:00",

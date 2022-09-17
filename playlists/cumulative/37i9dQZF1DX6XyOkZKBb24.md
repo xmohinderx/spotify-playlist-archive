@@ -4,12 +4,12 @@
 
 > Lying flat on the sofa scrolling but with a nice soundtrack.
 
-137 songs - 8 hr 27 min - [published](https://open.spotify.com/playlist/6KOmfB8LJCCp07mWRDkpos)
+138 songs - 8 hr 30 min - [published](https://open.spotify.com/playlist/6KOmfB8LJCCp07mWRDkpos)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Good Love, Pt\. 2](https://open.spotify.com/track/7I2PEItnKfXLY4JTDYlSGY) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi), [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [A Good Love, Pt\. 2](https://open.spotify.com/album/76CfuswZ7S6qJJSNQY5BPt) | 3:33 | 2022-07-08 | 2022-07-29 |
-| [A Lack of Color](https://open.spotify.com/track/6LNwTodkmxsc2dKRJWQr6y) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Transatlanticism \(10th Anniversary Edition\)](https://open.spotify.com/album/4jQW2mhMH3TxtAOol3Djuf) | 3:35 | 2022-09-09 |  |
+| [A Lack of Color](https://open.spotify.com/track/6LNwTodkmxsc2dKRJWQr6y) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Transatlanticism \(10th Anniversary Edition\)](https://open.spotify.com/album/4jQW2mhMH3TxtAOol3Djuf) | 3:35 | 2022-09-09 | 2022-09-17 |
 | [A Little Bit Yours](https://open.spotify.com/track/1vjQHBoJWpQ3rAPRDVjrxA) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Dangerous Levels of Introspection](https://open.spotify.com/album/538BxdI7oOQykSkEtyjhUD) | 3:48 | 2022-05-25 |  |
 | [A Love That Will Last](https://open.spotify.com/track/4bJbSERtCqK9D6DRUPMmMh) | [Renee Olstead](https://open.spotify.com/artist/19B0pJt4UEl3fUijGTRzxB) | [Renee Olstead](https://open.spotify.com/album/0xBTBaqqZd6Vnmp0tJ3g42) | 3:32 | 2022-05-25 |  |
 | [A Moment Of Mystery \(feat\. Toro y Moi\)](https://open.spotify.com/track/32pVUCXOGXGaRey5i03owa) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [A Moment Of Mystery \(feat\. Toro y Moi\)](https://open.spotify.com/album/1t12ZzaOf2r1v47MlqzOEM) | 3:25 | 2022-05-26 | 2022-07-29 |
@@ -56,6 +56,7 @@
 | [Falling](https://open.spotify.com/track/1ZMiCix7XSAbfAJlEZWMCp) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 4:00 | 2022-05-25 |  |
 | [Fast Car](https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Tracy Chapman](https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8) | 4:56 | 2022-05-25 |  |
 | [Give You Love](https://open.spotify.com/track/0H4yyuVRMIXT9hkDZMc6D6) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [Give You Love](https://open.spotify.com/album/307eCZ5BF0wjOmE29qDiUj) | 2:53 | 2022-05-25 |  |
+| [Go In Light \(feat\. Monica Martin\)](https://open.spotify.com/track/4gWSTEBZxAvH1cKq2u8jfQ) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB), [Monica Martin](https://open.spotify.com/artist/2Oq3sgFa2HSvRY0vL6bDxN) | [\(self\-titled\)](https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE) | 3:01 | 2022-09-16 |  |
 | [Goodnight](https://open.spotify.com/track/69jstgacdd40OwG9cLl45r) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Three\. Two\. One.](https://open.spotify.com/album/3nP0DOBWPfEToiDGMXZCAb) | 2:56 | 2022-05-25 |  |
 | [Grow As We Go](https://open.spotify.com/track/6hYvw3LLTViP2mT4MpDNmT) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Sing To Me Instead](https://open.spotify.com/album/2AluSp6sapRu17yc4r2a5F) | 4:09 | 2022-05-25 |  |
 | [Hallelujah \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/33ZIaxsct3MDc0oSPxgY76) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Spotify Singles](https://open.spotify.com/album/1Q7HOVDbx5pHCROjFc2NDK) | 5:46 | 2022-05-27 | 2022-07-09 |

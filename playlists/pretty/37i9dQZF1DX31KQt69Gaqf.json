@@ -1,12 +1,12 @@
 {
   "description": "Let us take care of your workday soundtrack.",
-  "num_followers": 181507,
+  "num_followers": 181502,
   "original_name": "Your Office Stereo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMzk1MDI1NCwwMDAwMDAwMGJiYTRkOTM0ZjAyZDE0MjlhYWE4ZGI1MDg2ZWRlMDIx",
+  "snapshot_id": "MTYzMzk1MDI1NCwwMDAwMDAwMDRlZmJlOWNlYTZiM2UwOTFmNGMyOTg5YzI0ZDFhOTAy",
   "tracks": [
     {
       "added_at": "2021-08-12 14:57:38",
@@ -459,22 +459,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Begin Again - EP",
-        "url": "https://open.spotify.com/album/78GfKzBtwL7C9D7nWp31PN"
-      },
-      "artists": [
-        {
-          "name": "Nick Mulvey",
-          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
-        }
-      ],
-      "duration_ms": 275280,
-      "name": "Begin Again",
-      "url": "https://open.spotify.com/track/2ksgMG1hHFHV979phZ2lkd"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Eyes On You",
         "url": "https://open.spotify.com/album/3NtZnt7iqak8rIW5o1BYkd"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 136954,
       "name": "Eyes On You",
       "url": "https://open.spotify.com/track/5yGD15DsGXfiNDg9d7fXmY"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Begin Again - EP",
+        "url": "https://open.spotify.com/album/78GfKzBtwL7C9D7nWp31PN"
+      },
+      "artists": [
+        {
+          "name": "Nick Mulvey",
+          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+        }
+      ],
+      "duration_ms": 275280,
+      "name": "Begin Again",
+      "url": "https://open.spotify.com/track/2ksgMG1hHFHV979phZ2lkd"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -631,6 +631,22 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
+        "name": "I Do Love a Good Sandwich",
+        "url": "https://open.spotify.com/album/2mYyy4WDJ0wegNinX4I3i8"
+      },
+      "artists": [
+        {
+          "name": "dexter",
+          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
+        }
+      ],
+      "duration_ms": 181293,
+      "name": "Still Got Time",
+      "url": "https://open.spotify.com/track/3H7y8eYjCj9gVVg7HFdDOj"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
         "name": "dusk",
         "url": "https://open.spotify.com/album/6oCFVNkKjrFRmieVbpQa3s"
       },
@@ -643,26 +659,6 @@
       "duration_ms": 196440,
       "name": "bon iver",
       "url": "https://open.spotify.com/track/2A6GfKINLJ2oN4sjUWj0g2"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
-        "name": "Sweeter (feat. Terrace Martin)",
-        "url": "https://open.spotify.com/album/7MEVKXLS3YOlaz3kXexPeM"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        },
-        {
-          "name": "Terrace Martin",
-          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
-        }
-      ],
-      "duration_ms": 167468,
-      "name": "Sweeter (feat. Terrace Martin)",
-      "url": "https://open.spotify.com/track/1ehhGlTvjtHo2e4xJFB0SZ"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -683,18 +679,22 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "I Do Love a Good Sandwich",
-        "url": "https://open.spotify.com/album/2mYyy4WDJ0wegNinX4I3i8"
+        "name": "Sweeter (feat. Terrace Martin)",
+        "url": "https://open.spotify.com/album/7MEVKXLS3YOlaz3kXexPeM"
       },
       "artists": [
         {
-          "name": "dexter",
-          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        },
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
         }
       ],
-      "duration_ms": 181293,
-      "name": "Still Got Time",
-      "url": "https://open.spotify.com/track/3H7y8eYjCj9gVVg7HFdDOj"
+      "duration_ms": 167468,
+      "name": "Sweeter (feat. Terrace Martin)",
+      "url": "https://open.spotify.com/track/1ehhGlTvjtHo2e4xJFB0SZ"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -839,22 +839,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Greener",
-        "url": "https://open.spotify.com/album/6pEe6ykp15A2SRDqWm5PKK"
-      },
-      "artists": [
-        {
-          "name": "Jade Emperor",
-          "url": "https://open.spotify.com/artist/22x4ObzsgLRlFkoqsZ00Lo"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Greener",
-      "url": "https://open.spotify.com/track/3y51IDTIvdRJAwzZOhYHqB"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Sunshine State",
         "url": "https://open.spotify.com/album/7EWBIDFpNqrkZgN6UduHij"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 138756,
       "name": "Sunshine State",
       "url": "https://open.spotify.com/track/4fdnzqkyETaIfre0df8FHk"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Greener",
+        "url": "https://open.spotify.com/album/6pEe6ykp15A2SRDqWm5PKK"
+      },
+      "artists": [
+        {
+          "name": "Jade Emperor",
+          "url": "https://open.spotify.com/artist/22x4ObzsgLRlFkoqsZ00Lo"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Greener",
+      "url": "https://open.spotify.com/track/3y51IDTIvdRJAwzZOhYHqB"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -887,22 +887,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "My House",
-        "url": "https://open.spotify.com/album/7sSEGFxjJTaT1amaNYOmWD"
-      },
-      "artists": [
-        {
-          "name": "Declan McKenna",
-          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
-        }
-      ],
-      "duration_ms": 256639,
-      "name": "My House",
-      "url": "https://open.spotify.com/track/5kuSneVOTmvanncpK3RZcl"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "color theory",
         "url": "https://open.spotify.com/album/2CISL0rSGzbO0MbQMlqBez"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 337426,
       "name": "bloodstream",
       "url": "https://open.spotify.com/track/3VJ8JnA1femj0x5KCcfBpT"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "My House",
+        "url": "https://open.spotify.com/album/7sSEGFxjJTaT1amaNYOmWD"
+      },
+      "artists": [
+        {
+          "name": "Declan McKenna",
+          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
+        }
+      ],
+      "duration_ms": 256639,
+      "name": "My House",
+      "url": "https://open.spotify.com/track/5kuSneVOTmvanncpK3RZcl"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -967,22 +967,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Freckle Season",
-        "url": "https://open.spotify.com/album/4emwoxUmeMCYHSsYosCdOW"
-      },
-      "artists": [
-        {
-          "name": "Orla Gartland",
-          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
-        }
-      ],
-      "duration_ms": 166413,
-      "name": "Oh GOD",
-      "url": "https://open.spotify.com/track/6b7P9ZrNbF7WNczuIJqJL1"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Butterfly Blue",
         "url": "https://open.spotify.com/album/52jN5oOP2tn7TnL8PNoT8Z"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 208988,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/6PwwPfIpqnQOVJUCkYUJcH"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Freckle Season",
+        "url": "https://open.spotify.com/album/4emwoxUmeMCYHSsYosCdOW"
+      },
+      "artists": [
+        {
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+        }
+      ],
+      "duration_ms": 166413,
+      "name": "Oh GOD",
+      "url": "https://open.spotify.com/track/6b7P9ZrNbF7WNczuIJqJL1"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Your Hero Is Not Dead",
-        "url": "https://open.spotify.com/album/6zSzwpkKgNJfQWwCEQTQDv"
-      },
-      "artists": [
-        {
-          "name": "Westerman",
-          "url": "https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA"
-        }
-      ],
-      "duration_ms": 258266,
-      "name": "Confirmation (SSBD)",
-      "url": "https://open.spotify.com/track/3Pqy5RRW33bhxYXN0ZZNXG"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Slow Reveal: Chapter One",
         "url": "https://open.spotify.com/album/5iTODzVpwUxEctZCqOo15s"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 195954,
       "name": "Tethered, Wrapped Around",
       "url": "https://open.spotify.com/track/3GVmuXATyp9JAiAcwASlTJ"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Your Hero Is Not Dead",
+        "url": "https://open.spotify.com/album/6zSzwpkKgNJfQWwCEQTQDv"
+      },
+      "artists": [
+        {
+          "name": "Westerman",
+          "url": "https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA"
+        }
+      ],
+      "duration_ms": 258266,
+      "name": "Confirmation (SSBD)",
+      "url": "https://open.spotify.com/track/3Pqy5RRW33bhxYXN0ZZNXG"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Something Good Will Happen",
-        "url": "https://open.spotify.com/album/73NXw8O4hc5Uqbx1D4cYNK"
-      },
-      "artists": [
-        {
-          "name": "MarthaGunn",
-          "url": "https://open.spotify.com/artist/4Rt63oQJifMiMbQEcmeqK8"
-        }
-      ],
-      "duration_ms": 204440,
-      "name": "Caught Up & Confused",
-      "url": "https://open.spotify.com/track/3qS0ySnwtPC2JvTnr4x9KO"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Girlhood",
         "url": "https://open.spotify.com/album/36pD53bU7Igw82ZHD4Herb"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 190960,
       "name": "It Might Take a Woman",
       "url": "https://open.spotify.com/track/6iHhkXBS6HIkzaQ0IKAdIS"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Something Good Will Happen",
+        "url": "https://open.spotify.com/album/73NXw8O4hc5Uqbx1D4cYNK"
+      },
+      "artists": [
+        {
+          "name": "MarthaGunn",
+          "url": "https://open.spotify.com/artist/4Rt63oQJifMiMbQEcmeqK8"
+        }
+      ],
+      "duration_ms": 204440,
+      "name": "Caught Up & Confused",
+      "url": "https://open.spotify.com/track/3qS0ySnwtPC2JvTnr4x9KO"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
+        "name": "Different Kinds of Light",
+        "url": "https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9"
+      },
+      "artists": [
+        {
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+        }
+      ],
+      "duration_ms": 142818,
+      "name": "Headstart",
+      "url": "https://open.spotify.com/track/7pwv5cbW7hj4HVv3US4XUT"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
         "name": "JOY (journal.30.03.2020)",
         "url": "https://open.spotify.com/album/61RjvAdIxRfGijHvmVRgb7"
       },
@@ -1595,22 +1611,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Different Kinds of Light",
-        "url": "https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9"
-      },
-      "artists": [
-        {
-          "name": "Jade Bird",
-          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
-        }
-      ],
-      "duration_ms": 142818,
-      "name": "Headstart",
-      "url": "https://open.spotify.com/track/7pwv5cbW7hj4HVv3US4XUT"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "So Simpatico",
         "url": "https://open.spotify.com/album/3T6jlI15kmoraxuM5AvGkR"
       },
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Treat You Right",
-        "url": "https://open.spotify.com/album/3F91sv7XPeK9JYQdpXktd2"
+        "name": "Solstice",
+        "url": "https://open.spotify.com/album/6jPO2gtwitpbmkEDD0kYLn"
       },
       "artists": [
         {
-          "name": "Yellow Days",
-          "url": "https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY"
+          "name": "Ted Jasper",
+          "url": "https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW"
         }
       ],
-      "duration_ms": 261012,
-      "name": "Treat You Right",
-      "url": "https://open.spotify.com/track/7ItOfW0Phlgis72tCdIcsw"
+      "duration_ms": 150091,
+      "name": "Higher Plain",
+      "url": "https://open.spotify.com/track/4jVkkMuhZscX5F7BIbDVBR"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1659,18 +1659,18 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Solstice",
-        "url": "https://open.spotify.com/album/6jPO2gtwitpbmkEDD0kYLn"
+        "name": "Treat You Right",
+        "url": "https://open.spotify.com/album/3F91sv7XPeK9JYQdpXktd2"
       },
       "artists": [
         {
-          "name": "Ted Jasper",
-          "url": "https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW"
+          "name": "Yellow Days",
+          "url": "https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY"
         }
       ],
-      "duration_ms": 150091,
-      "name": "Higher Plain",
-      "url": "https://open.spotify.com/track/4jVkkMuhZscX5F7BIbDVBR"
+      "duration_ms": 261012,
+      "name": "Treat You Right",
+      "url": "https://open.spotify.com/track/7ItOfW0Phlgis72tCdIcsw"
     }
   ],
   "unique_name": "Your Office Stereo",

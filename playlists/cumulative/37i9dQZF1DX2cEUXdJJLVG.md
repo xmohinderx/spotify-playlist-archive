@@ -4,7 +4,7 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-168 songs - 9 hr 58 min - not published yet
+168 songs - 9 hr 58 min - [published](https://open.spotify.com/playlist/578neCDuWLyeGQpOdBBB8u)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

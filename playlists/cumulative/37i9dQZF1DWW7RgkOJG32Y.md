@@ -4,7 +4,7 @@
 
 > Top trending new and recent tracks from the last few months\. Cover: Lauren Alaina & Chris Lane
 
-221 songs - 11 hr 45 min - [published](https://open.spotify.com/playlist/3oudbJWMXta4beE8xnLWw8)
+223 songs - 11 hr 51 min - [published](https://open.spotify.com/playlist/3oudbJWMXta4beE8xnLWw8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [AA](https://open.spotify.com/track/77oKig47u34qCCFWKMfu1e) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [AA](https://open.spotify.com/album/7m5hJYb9a0sxNstIKm3PPz) | 3:09 | 2021-12-17 | 2022-01-22 |
 | [All About It](https://open.spotify.com/track/0j2e7Gu19gy0ZqIOQyN4xj) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [Dylan Marlowe](https://open.spotify.com/album/1Cn8tdli6qxfcmhTQ8RcnY) | 3:05 | 2021-12-17 | 2022-03-26 |
 | [All Night](https://open.spotify.com/track/00M4nXSbx8r50N3pk9SHoc) | [SixForty1](https://open.spotify.com/artist/4dcnHUWXWZAHfA8FvQBtJS) | [All Night](https://open.spotify.com/album/5IdxyA4s48j99gdMI3vB8Q) | 2:23 | 2021-12-17 | 2022-04-09 |
+| [Always Something With You](https://open.spotify.com/track/52xwCsWMq3PGWWKAH6bNvJ) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Always Something With You](https://open.spotify.com/album/1D5Nj0MYi7BfIrtWidEcdo) | 2:49 | 2022-09-16 |  |
 | [Amen To That](https://open.spotify.com/track/7yNI84vfJ6O86F1S1l6iKD) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Amen To That](https://open.spotify.com/album/3U0z6prNw1u6HgoibSmzj7) | 2:52 | 2022-07-29 |  |
 | [Angels](https://open.spotify.com/track/2PhJC1jsvVIbpbBjDs9Bkv) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Angels](https://open.spotify.com/album/4HHsYvJLSiZ8f7WnU6Xiie) | 3:34 | 2022-01-21 | 2022-06-18 |
 | [Any Day Now](https://open.spotify.com/track/5agWi0xnqABWE51rrBz9oz) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Comeback](https://open.spotify.com/album/3HAqDprp8YxHEguHkCcfOC) | 3:13 | 2021-12-31 | 2022-02-12 |
@@ -97,7 +98,7 @@
 | [I Can't Love You Any More](https://open.spotify.com/track/3Sm47s5VbZs7cHzEdqC4Tc) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Midtown Diaries](https://open.spotify.com/album/50zMs3AwxduoOoQoN17955) | 3:14 | 2021-12-17 | 2022-03-26 |
 | [I Don't Wanna Go To Heaven](https://open.spotify.com/track/55lJN2gIzJM9SCfwzxAEjf) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [I Don't Wanna Go To Heaven](https://open.spotify.com/album/34SxCd3VfttsdTekzG6ROb) | 3:21 | 2021-12-17 | 2022-02-19 |
 | [I Don’t Smoke](https://open.spotify.com/track/4Qp7t5e0oDrYbdgOaLLpOt) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [Stronger Than I Am \(Repack\)](https://open.spotify.com/album/3D6sOqU3M5mTEX8o7DFFSw) | 3:00 | 2022-02-18 | 2022-07-23 |
-| [I Hate Alabama](https://open.spotify.com/track/2j0rISwZE6tichIrU5SZ78) | [Conner Smith](https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk) | [I Hate Alabama](https://open.spotify.com/album/2bCz5dI9f3wy25himhvKiL) | 3:33 | 2022-03-11 |  |
+| [I Hate Alabama](https://open.spotify.com/track/2j0rISwZE6tichIrU5SZ78) | [Conner Smith](https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk) | [I Hate Alabama](https://open.spotify.com/album/2bCz5dI9f3wy25himhvKiL) | 3:33 | 2022-03-11 | 2022-09-17 |
 | [I Want It All](https://open.spotify.com/track/1Td2fjoRbqG8TKAe2sjqS1) | [Kat & Alex](https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg) | [I Want It All](https://open.spotify.com/album/4UtZVkoehTswX1XyGvgT6X) | 3:21 | 2022-03-04 |  |
 | [I'd Be You](https://open.spotify.com/track/3Yach59menOOaF34Qdfiuh) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [I'd Be You](https://open.spotify.com/album/4hPICUHhNOwxjcMlNlbzLE) | 2:58 | 2022-07-22 |  |
 | [I'm Gonna Let Her](https://open.spotify.com/track/0ypM45MRlc73Uttz1ddn9o) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [I'm Gonna Let Her](https://open.spotify.com/album/2Ief9TGkBjEaOD1soie5NC) | 2:56 | 2022-02-18 | 2022-04-16 |
@@ -146,11 +147,12 @@
 | [Not Supposed To Know Each Other](https://open.spotify.com/track/2K52TQ4HqTz2ZbCrhkFw0p) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Born in July](https://open.spotify.com/album/3Y22F7f6OISIYwTirf2E6R) | 2:41 | 2022-07-22 |  |
 | [Not Supposed To Know Each Other](https://open.spotify.com/track/5B5ToRmXjXYXdShfi8Yx0s) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Born in July](https://open.spotify.com/album/3FeBLXRG2x2SOz3hOoktdY) | 2:41 | 2022-03-04 | 2022-07-29 |
 | [Oklahoma Smokeshow](https://open.spotify.com/track/0OWhKvvsHptt6vnnNUSM9a) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Summertime Blues](https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA) | 3:31 | 2022-08-05 |  |
+| [One Day Tonight](https://open.spotify.com/track/45MQs7EiPglAvyYg9fkjzA) | [Noah Thompson](https://open.spotify.com/artist/38dDBc8guRXP1fjvothwyi) | [One Day Tonight](https://open.spotify.com/album/2MphzYOblUXTBfdWzYxtbl) | 2:45 | 2022-09-16 |  |
 | [Only Us](https://open.spotify.com/track/4k98tAWO0N5hMkZnx13TfJ) | [Clayton Anderson](https://open.spotify.com/artist/3jYolGVCwXgJYEr3GL8FCb) | [Only Us](https://open.spotify.com/album/3BfpheJUxjdVBG51HHIeUD) | 2:42 | 2021-12-17 | 2022-05-14 |
 | [Out in the Middle](https://open.spotify.com/track/2Dacmfq3VLY1miVcU2SMIt) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Comeback](https://open.spotify.com/album/3HAqDprp8YxHEguHkCcfOC) | 2:46 | 2022-06-17 | 2022-06-25 |
 | [Out In The Middle](https://open.spotify.com/track/1pbUfl4W9KtQ5hNkT6RiXp) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Out in the Middle](https://open.spotify.com/album/3MVvgTvhFQrHXE6coxwl6I) | 2:46 | 2022-06-24 |  |
 | [Over You is You \(feat\. Matt Stell\)](https://open.spotify.com/track/4q6ZkvXOCdKaGFBwTWj7nY) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu), [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy) | [Over You is You \(feat\. Matt Stell\)](https://open.spotify.com/album/7JEzTYAS3ESDm5fL3PbsK7) | 3:04 | 2021-12-17 | 2022-05-07 |
-| [Pick Me Up](https://open.spotify.com/track/7xNYZeFtrB05pi9tc6lEeb) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Pick Me Up](https://open.spotify.com/album/0AFaIppKjr2lO1pCjx1wK5) | 2:49 | 2021-12-17 |  |
+| [Pick Me Up](https://open.spotify.com/track/7xNYZeFtrB05pi9tc6lEeb) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Pick Me Up](https://open.spotify.com/album/0AFaIppKjr2lO1pCjx1wK5) | 2:49 | 2021-12-17 | 2022-09-17 |
 | [Pickup](https://open.spotify.com/track/2kEhQe0BVtY8IIaFE5ALA0) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Pickup](https://open.spotify.com/album/75yTVtHRGlobA0IvgGG59X) | 2:48 | 2021-12-17 |  |
 | [Praise The Lord \(feat\. Thomas Rhett\)](https://open.spotify.com/track/4ELynSlkV4OHcBCFenFJ7U) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Praise The Lord \(feat\. Thomas Rhett\)](https://open.spotify.com/album/19IBYeeXLti2wekxA8913l) | 2:40 | 2022-03-18 | 2022-09-03 |
 | [Prayin' For You](https://open.spotify.com/track/4WrWLZznbRu0gv0v2N9IE1) | [Tucker Beathard](https://open.spotify.com/artist/1FQXio7XougvCvKLIu0CCk) | [Prayin' For You](https://open.spotify.com/album/7JkOPzOGGiQOVcPsJn3rO8) | 3:49 | 2022-01-07 | 2022-03-18 |

@@ -1,12 +1,12 @@
 {
   "description": "nos fuimos de fiesta \ud83c\udf89 \nCover: Farruko",
-  "num_followers": 941060,
+  "num_followers": 941101,
   "original_name": "Fiesta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTcxNzM0NywwMDAwMDAwMDc0MmU1MzBlNWY5NjliNmQ5YmQ1Y2IxZmRjYTA4ZGEw",
+  "snapshot_id": "MTY1OTcxNzM0NywwMDAwMDAwMDFiZTc1NTRkYmFjNjUyMmI2MmI3ZGIyMWFlYWExOGQ5",
   "tracks": [
     {
       "added_at": "2022-08-05 16:35:47",
@@ -1111,26 +1111,6 @@
     {
       "added_at": "2022-08-05 16:35:47",
       "album": {
-        "name": "Se Te Nota (with Guaynaa)",
-        "url": "https://open.spotify.com/album/4XiHCUNnGgnnN5xkGue4RF"
-      },
-      "artists": [
-        {
-          "name": "Lele Pons",
-          "url": "https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx"
-        },
-        {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
-        }
-      ],
-      "duration_ms": 155825,
-      "name": "Se Te Nota (with Guaynaa)",
-      "url": "https://open.spotify.com/track/11EnQRgRMJwMAesfkB5pnu"
-    },
-    {
-      "added_at": "2022-08-05 16:35:47",
-      "album": {
         "name": "FRIKI",
         "url": "https://open.spotify.com/album/7LlTjovytMWtPVHm7cJku2"
       },
@@ -1147,6 +1127,26 @@
       "duration_ms": 144986,
       "name": "FRIKI",
       "url": "https://open.spotify.com/track/3No3zHVwKadKDR00kZdmAB"
+    },
+    {
+      "added_at": "2022-08-05 16:35:47",
+      "album": {
+        "name": "Se Te Nota (with Guaynaa)",
+        "url": "https://open.spotify.com/album/4XiHCUNnGgnnN5xkGue4RF"
+      },
+      "artists": [
+        {
+          "name": "Lele Pons",
+          "url": "https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx"
+        },
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        }
+      ],
+      "duration_ms": 155825,
+      "name": "Se Te Nota (with Guaynaa)",
+      "url": "https://open.spotify.com/track/11EnQRgRMJwMAesfkB5pnu"
     },
     {
       "added_at": "2022-08-05 16:35:47",
@@ -1519,6 +1519,26 @@
     {
       "added_at": "2022-08-05 16:35:47",
       "album": {
+        "name": "Me Llamas (feat. Maluma) [Remix]",
+        "url": "https://open.spotify.com/album/2mqj8lMnZRYR5hapcNVpRq"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 210322,
+      "name": "Me llamas (feat. Maluma) - Remix",
+      "url": "https://open.spotify.com/track/5hEM0JchdVzQ5PwvSfITeX"
+    },
+    {
+      "added_at": "2022-08-05 16:35:47",
+      "album": {
         "name": "La Curiosidad (Blue Grand Prix Remix) [feat. Dj Nelson, Jhay Cortez, Lunay & Kendo Kaponi]",
         "url": "https://open.spotify.com/album/0KhKYoSXQqEnXDRmIKMmGm"
       },
@@ -1555,26 +1575,6 @@
       "duration_ms": 382555,
       "name": "La Curiosidad (feat. Dj Nelson, Jhay Cortez, Lunay & Kendo Kaponi) - Blue Grand Prix Remix",
       "url": "https://open.spotify.com/track/7LE1K0lZyRFZjSlrnm7lfD"
-    },
-    {
-      "added_at": "2022-08-05 16:35:47",
-      "album": {
-        "name": "Me Llamas (feat. Maluma) [Remix]",
-        "url": "https://open.spotify.com/album/2mqj8lMnZRYR5hapcNVpRq"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 210322,
-      "name": "Me llamas (feat. Maluma) - Remix",
-      "url": "https://open.spotify.com/track/5hEM0JchdVzQ5PwvSfITeX"
     },
     {
       "added_at": "2022-08-05 16:35:47",
@@ -1975,6 +1975,26 @@
     {
       "added_at": "2022-08-05 16:35:47",
       "album": {
+        "name": "PORFA",
+        "url": "https://open.spotify.com/album/0FtoBBioPqwfaFNRhvv0dc"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "PORFA",
+      "url": "https://open.spotify.com/track/3iQOfefMGDVDwo8dZoco8T"
+    },
+    {
+      "added_at": "2022-08-05 16:35:47",
+      "album": {
         "name": "Emojis de Corazones (feat. Los Legendarios)",
         "url": "https://open.spotify.com/album/6hdSXoNAfGg4cRUzM94EBR"
       },
@@ -2003,26 +2023,6 @@
     {
       "added_at": "2022-08-05 16:35:47",
       "album": {
-        "name": "PORFA",
-        "url": "https://open.spotify.com/album/0FtoBBioPqwfaFNRhvv0dc"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "PORFA",
-      "url": "https://open.spotify.com/track/3iQOfefMGDVDwo8dZoco8T"
-    },
-    {
-      "added_at": "2022-08-05 16:35:47",
-      "album": {
         "name": "Dale",
         "url": "https://open.spotify.com/album/5PZWGWwRwA0PJCET9BwBAm"
       },
@@ -2047,26 +2047,6 @@
     {
       "added_at": "2022-08-05 16:35:47",
       "album": {
-        "name": "Qu\u00e9 Pena",
-        "url": "https://open.spotify.com/album/1Db95k6t4rCPHSmdfsTeDl"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 212711,
-      "name": "Qu\u00e9 Pena",
-      "url": "https://open.spotify.com/track/5099x34vBakWpGkHourFxP"
-    },
-    {
-      "added_at": "2022-08-05 16:35:47",
-      "album": {
         "name": "Definitivamente",
         "url": "https://open.spotify.com/album/6pJLqbnEE1gjMZ15dpi1cH"
       },
@@ -2083,6 +2063,26 @@
       "duration_ms": 217773,
       "name": "Definitivamente",
       "url": "https://open.spotify.com/track/113PlnpZbHd3WIqeYjhZWv"
+    },
+    {
+      "added_at": "2022-08-05 16:35:47",
+      "album": {
+        "name": "Qu\u00e9 Pena",
+        "url": "https://open.spotify.com/album/1Db95k6t4rCPHSmdfsTeDl"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 212711,
+      "name": "Qu\u00e9 Pena",
+      "url": "https://open.spotify.com/track/5099x34vBakWpGkHourFxP"
     },
     {
       "added_at": "2022-08-05 16:35:47",

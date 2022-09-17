@@ -4,7 +4,7 @@
 
 > No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo.
 
-100 songs - 9 hr 26 min - not published yet
+101 songs - 9 hr 32 min - [published](https://open.spotify.com/playlist/66Rf5KyLWIyP5JnY8b9KB3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [A Casa É Sua](https://open.spotify.com/track/1OGtusmbhssNPdnDxqol0P) | [Casa Worship](https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs) | [A Casa É Sua](https://open.spotify.com/album/5LxNxpv73DPN54DAbtcntR) | 9:22 | 2022-09-09 |  |
 | [A Ele a Glória \- Ao Vivo](https://open.spotify.com/track/5aH9yQIcGLtxjDBUhMRkSi) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [A Ele a Glória \(Ao Vivo\)](https://open.spotify.com/album/72mzPRnaOjSY2uWdMqChwY) | 7:17 | 2022-09-09 |  |
 | [A Resposta](https://open.spotify.com/track/5QiHzqXsMhaDNuBGgSjtSO) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Essência](https://open.spotify.com/album/6gh1cKg6cQvjSSmJMKVPhm) | 6:38 | 2022-09-09 |  |
-| [Aba \- Ao Vivo](https://open.spotify.com/track/5zfFRWu8IjmH6g84pBOHbO) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm), [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756) | [Aba \(Ao Vivo\)](https://open.spotify.com/album/7HVM6QUSNxfbnnxYoS0Xey) | 5:48 | 2022-09-09 |  |
+| [Aba \- Ao Vivo](https://open.spotify.com/track/5zfFRWu8IjmH6g84pBOHbO) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm), [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756) | [Aba \(Ao Vivo\)](https://open.spotify.com/album/7HVM6QUSNxfbnnxYoS0Xey) | 5:48 | 2022-09-09 | 2022-09-17 |
 | [Acalma o Meu Coração](https://open.spotify.com/track/3VYgop8eTvEitSxxKc6jGp) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Raridade](https://open.spotify.com/album/1PqKeJJ5C79S4FfLvvFJtc) | 4:21 | 2022-09-09 |  |
 | [Algo Novo \(feat\. Lukas Agustinho\) \- Ao Vivo](https://open.spotify.com/track/2fvwEBdCFhFD7IO3IX3bIw) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm), [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O) | [Algo Novo \(feat\. Lukas Agustinho\) \[Ao Vivo\]](https://open.spotify.com/album/6NnwfOWxraoq915Cj4fQIh) | 6:48 | 2022-09-09 |  |
 | [Aquieta Minh'alma](https://open.spotify.com/track/2pfh4FmcvPTqBYApHaV6p3) | [Ministério Zoe](https://open.spotify.com/artist/6bxqwbU9pD8GXcuSmNSSHU) | [Eu Me Atrevi a Te Chamar de Abba](https://open.spotify.com/album/2QgaEgtRuW1EZ3zk7J4oNd) | 7:05 | 2022-09-09 |  |
@@ -103,6 +103,7 @@
 | [Um Refrão Pra Sua Alma](https://open.spotify.com/track/4wQtpt8H34SIyIvz4FG5Mx) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Um Refrão Pra Sua Alma](https://open.spotify.com/album/4ZutxcTq9XmVHdKhGto4OI) | 4:16 | 2022-09-09 |  |
 | [Uma Nova História \- Acústico](https://open.spotify.com/track/2xyhQb4ybKZzd8AdtqDEcB) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Acústico](https://open.spotify.com/album/5WSufwHXuerKqxUiLZQ5To) | 4:38 | 2022-09-09 |  |
 | [Vai Passar \- Acústico](https://open.spotify.com/track/1hFe34pro0Dt4a74njqOhB) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Vai Passar \(Acústico\)](https://open.spotify.com/album/7fstEEn2fBN6WM4zE12Ovm) | 4:45 | 2022-09-09 |  |
+| [Vai Valer a Pena](https://open.spotify.com/track/7fzImqefMkagp3jEeKtdVy) | [Juliano Son](https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P) | [Pra que outros possam viver](https://open.spotify.com/album/0hPCxbrJbUeArwhQpBbq2h) | 6:26 | 2022-09-09 |  |
 | [Way Maker \- Single Version](https://open.spotify.com/track/0H4BGX7L8UfoD0g4wgXd0D) | [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Way Maker](https://open.spotify.com/album/2qPWe6Pl4Xh6L58ooHfXDm) | 3:26 | 2022-09-09 |  |
 | [Who You Say I Am \- Live](https://open.spotify.com/track/2lUgap86Pux7qAgvWzuJWs) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC), [Reuben Morgan](https://open.spotify.com/artist/1pSefalk3Yw0CblqfLvy05) | [There Is More \(Live\)](https://open.spotify.com/album/69o0gRM65PIT2vgZ72XTZm) | 5:29 | 2022-09-09 |  |
 | [Yes I Will](https://open.spotify.com/track/1sF4VadVaVTvp9WTEy79JT) | [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o) | [Bright Faith Bold Future](https://open.spotify.com/album/4jrX2w9Y3shbQNVhT43jbj) | 3:54 | 2022-09-09 |  |

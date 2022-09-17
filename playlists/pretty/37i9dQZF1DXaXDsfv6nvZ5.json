@@ -1,12 +1,12 @@
 {
   "description": "The soulful tunes to ease you into your day.",
-  "num_followers": 712480,
+  "num_followers": 712647,
   "original_name": "Soul Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5NjQ5OSwwMDAwMDAwMDI2MDMyZjMyZjAwNTFmYzVkOTM0OGU0YjRjMjhhMDYx",
+  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMGEzODQxZWNmNmQyNmYwYWMxOTU4ZGFjMTI3NDMxNjE1",
   "tracks": [
     {
       "added_at": "2022-03-11 05:00:00",
@@ -73,6 +73,26 @@
       "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
     },
     {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "'Round Midnight",
+        "url": "https://open.spotify.com/album/0AP435mSKEb4jF8D34nfkM"
+      },
+      "artists": [
+        {
+          "name": "Adam Blackstone",
+          "url": "https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs"
+        },
+        {
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+        }
+      ],
+      "duration_ms": 252616,
+      "name": "'Round Midnight",
+      "url": "https://open.spotify.com/track/6rlqNxNTuK3elWsYjc4psh"
+    },
+    {
       "added_at": "2022-03-11 05:00:00",
       "album": {
         "name": "Geography",
@@ -91,22 +111,6 @@
       "duration_ms": 261881,
       "name": "It Runs Through Me",
       "url": "https://open.spotify.com/track/02CygBCQOIyEuhNZqHHcNx"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Division",
-        "url": "https://open.spotify.com/album/2VG4oj0kGjOydr6j8deI7Z"
-      },
-      "artists": [
-        {
-          "name": "Jenevieve",
-          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
-        }
-      ],
-      "duration_ms": 176760,
-      "name": "Baby Powder",
-      "url": "https://open.spotify.com/track/4Nw7kywWurWS6ceinn1cHK"
     },
     {
       "added_at": "2022-09-09 04:08:19",
@@ -131,18 +135,18 @@
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "Coastin\u2019",
-        "url": "https://open.spotify.com/album/6PVTVZo9iYmpcQucpIN9Kr"
+        "name": "Division",
+        "url": "https://open.spotify.com/album/2VG4oj0kGjOydr6j8deI7Z"
       },
       "artists": [
         {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+          "name": "Jenevieve",
+          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
         }
       ],
-      "duration_ms": 175319,
-      "name": "Coastin\u2019",
-      "url": "https://open.spotify.com/track/1IjeGPU5hqHlJpm00zObN7"
+      "duration_ms": 176760,
+      "name": "Baby Powder",
+      "url": "https://open.spotify.com/track/4Nw7kywWurWS6ceinn1cHK"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -179,6 +183,38 @@
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
+        "name": "Coastin\u2019",
+        "url": "https://open.spotify.com/album/6PVTVZo9iYmpcQucpIN9Kr"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 175319,
+      "name": "Coastin\u2019",
+      "url": "https://open.spotify.com/track/1IjeGPU5hqHlJpm00zObN7"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "004DAISY",
+        "url": "https://open.spotify.com/album/24e0sHcaegLydaqZGRwJ1e"
+      },
+      "artists": [
+        {
+          "name": "DIXSON",
+          "url": "https://open.spotify.com/artist/61677A13kBwbTfqECI65p8"
+        }
+      ],
+      "duration_ms": 218040,
+      "name": "ONLY-1",
+      "url": "https://open.spotify.com/track/38N8M1Zr80OELCoPelAUBP"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
         "name": "A Seat at the Table",
         "url": "https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM"
       },
@@ -211,6 +247,22 @@
     {
       "added_at": "2022-09-09 04:08:19",
       "album": {
+        "name": "GREENZONE 108",
+        "url": "https://open.spotify.com/album/2ygXPIqdYAq3qiTHjkPH0a"
+      },
+      "artists": [
+        {
+          "name": "Greentea Peng",
+          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
+        }
+      ],
+      "duration_ms": 250506,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/5MzQInSkVMQhfrSGIPE2JT"
+    },
+    {
+      "added_at": "2022-09-09 04:08:19",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/28wKxlJocWCrrxUgYC2zEQ"
       },
@@ -223,6 +275,26 @@
       "duration_ms": 189462,
       "name": "DO 4 LOVE",
       "url": "https://open.spotify.com/track/3FImu2LpSuH6gDHBuFgIbS"
+    },
+    {
+      "added_at": "2022-09-09 04:08:19",
+      "album": {
+        "name": "Queen Space (with Summer Walker)",
+        "url": "https://open.spotify.com/album/6juUcr1BHeBUg2ipoLI0mV"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 230841,
+      "name": "Queen Space (with Summer Walker)",
+      "url": "https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -239,22 +311,6 @@
       "duration_ms": 346266,
       "name": "Lady",
       "url": "https://open.spotify.com/track/7AjfklMN4WpQYz5FkT4E66"
-    },
-    {
-      "added_at": "2022-09-09 04:08:19",
-      "album": {
-        "name": "GREENZONE 108",
-        "url": "https://open.spotify.com/album/2ygXPIqdYAq3qiTHjkPH0a"
-      },
-      "artists": [
-        {
-          "name": "Greentea Peng",
-          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
-        }
-      ],
-      "duration_ms": 250506,
-      "name": "My Love",
-      "url": "https://open.spotify.com/track/5MzQInSkVMQhfrSGIPE2JT"
     },
     {
       "added_at": "2022-09-09 04:08:19",
@@ -277,24 +333,20 @@
       "url": "https://open.spotify.com/track/4Nk5iJrw4u7vJ6nGXosuxk"
     },
     {
-      "added_at": "2022-09-09 04:08:19",
+      "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "Queen Space (with Summer Walker)",
-        "url": "https://open.spotify.com/album/6juUcr1BHeBUg2ipoLI0mV"
+        "name": "a tree planted by water",
+        "url": "https://open.spotify.com/album/5bl22ODAmnzfJ35n52vAQB"
       },
       "artists": [
         {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        },
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+          "name": "Eryn Allen Kane",
+          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
         }
       ],
-      "duration_ms": 230841,
-      "name": "Queen Space (with Summer Walker)",
-      "url": "https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C"
+      "duration_ms": 189185,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/63LhjHIJFprgGjfxhuhF4K"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -327,22 +379,6 @@
       "duration_ms": 280760,
       "name": "Tell Him",
       "url": "https://open.spotify.com/track/7iCs98iS5n6KCI4q3H7zp9"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "a tree planted by water",
-        "url": "https://open.spotify.com/album/5bl22ODAmnzfJ35n52vAQB"
-      },
-      "artists": [
-        {
-          "name": "Eryn Allen Kane",
-          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
-        }
-      ],
-      "duration_ms": 189185,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/63LhjHIJFprgGjfxhuhF4K"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -473,22 +509,6 @@
       "url": "https://open.spotify.com/track/2LUTN2pDXUplYlc7WjE1Mm"
     },
     {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "When I Get Home",
-        "url": "https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w"
-      },
-      "artists": [
-        {
-          "name": "Solange",
-          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
-        }
-      ],
-      "duration_ms": 148253,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/0deHsjyrgcKGMZzIuvawq3"
-    },
-    {
       "added_at": "2022-08-26 04:46:22",
       "album": {
         "name": "Thee Sacred Souls",
@@ -507,6 +527,22 @@
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
+        "name": "When I Get Home",
+        "url": "https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w"
+      },
+      "artists": [
+        {
+          "name": "Solange",
+          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
+        }
+      ],
+      "duration_ms": 148253,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/0deHsjyrgcKGMZzIuvawq3"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
         "name": "Good Morning Gorgeous",
         "url": "https://open.spotify.com/album/0mDZswykT2LDXe3YGWZgbc"
       },
@@ -519,6 +555,22 @@
       "duration_ms": 174728,
       "name": "Good Morning Gorgeous",
       "url": "https://open.spotify.com/track/77z6mJeFcHlRWVfbOdBCtc"
+    },
+    {
+      "added_at": "2022-08-26 04:46:22",
+      "album": {
+        "name": "The Reason",
+        "url": "https://open.spotify.com/album/6B7oBbXH4oKMnq9ep5xEBA"
+      },
+      "artists": [
+        {
+          "name": "James Vickery",
+          "url": "https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "The Reason",
+      "url": "https://open.spotify.com/track/1JKH156F7aeqFLjHK892H6"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -539,22 +591,6 @@
       "duration_ms": 205453,
       "name": "Collide - From \"Queen & Slim: The Soundtrack\"",
       "url": "https://open.spotify.com/track/1mEO3xiJqEWXYIdZalDzHR"
-    },
-    {
-      "added_at": "2022-08-26 04:46:22",
-      "album": {
-        "name": "The Reason",
-        "url": "https://open.spotify.com/album/6B7oBbXH4oKMnq9ep5xEBA"
-      },
-      "artists": [
-        {
-          "name": "James Vickery",
-          "url": "https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "The Reason",
-      "url": "https://open.spotify.com/track/1JKH156F7aeqFLjHK892H6"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -599,6 +635,26 @@
       "duration_ms": 363240,
       "name": "Everything You Touch Is Gold",
       "url": "https://open.spotify.com/track/38eB2BbrR7PLK7zyQYgBDx"
+    },
+    {
+      "added_at": "2022-09-09 04:08:19",
+      "album": {
+        "name": "LEGEND",
+        "url": "https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+        }
+      ],
+      "duration_ms": 173123,
+      "name": "Love (feat. Jazmine Sullivan)",
+      "url": "https://open.spotify.com/track/2K5CdJb1IkAlsT108wRxYP"
     },
     {
       "added_at": "2022-09-09 04:08:19",
@@ -651,26 +707,6 @@
       "duration_ms": 255800,
       "name": "Distance",
       "url": "https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF"
-    },
-    {
-      "added_at": "2022-09-09 04:08:19",
-      "album": {
-        "name": "LEGEND",
-        "url": "https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        },
-        {
-          "name": "Jazmine Sullivan",
-          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
-        }
-      ],
-      "duration_ms": 173123,
-      "name": "Love (feat. Jazmine Sullivan)",
-      "url": "https://open.spotify.com/track/2K5CdJb1IkAlsT108wRxYP"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -915,6 +951,38 @@
     {
       "added_at": "2022-09-09 04:08:19",
       "album": {
+        "name": "Angels & Queens",
+        "url": "https://open.spotify.com/album/1KIvBCWJuLhFYdXPvE8ExK"
+      },
+      "artists": [
+        {
+          "name": "Gabriels",
+          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
+        }
+      ],
+      "duration_ms": 199796,
+      "name": "Angels & Queens",
+      "url": "https://open.spotify.com/track/4KpqdNIQw7S6DlZz8RjBzO"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "Stay Where You Are",
+        "url": "https://open.spotify.com/album/1Mun53MZEPEfXJpHbCArDJ"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "duration_ms": 209205,
+      "name": "Stay Where You Are",
+      "url": "https://open.spotify.com/track/68GFZFc2Fa5HLdv6TXziSD"
+    },
+    {
+      "added_at": "2022-09-09 04:08:19",
+      "album": {
         "name": "Foolish",
         "url": "https://open.spotify.com/album/2HRhfhmcfGOTefEgQgXTdH"
       },
@@ -951,22 +1019,6 @@
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "Stay Where You Are",
-        "url": "https://open.spotify.com/album/1Mun53MZEPEfXJpHbCArDJ"
-      },
-      "artists": [
-        {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
-        }
-      ],
-      "duration_ms": 209205,
-      "name": "Stay Where You Are",
-      "url": "https://open.spotify.com/track/68GFZFc2Fa5HLdv6TXziSD"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
         "name": "Like You'll Never See Me Again",
         "url": "https://open.spotify.com/album/5jXpTr504jjizPvcn9FnZP"
       },
@@ -979,22 +1031,6 @@
       "duration_ms": 238033,
       "name": "Like You'll Never See Me Again",
       "url": "https://open.spotify.com/track/0KQ6GRR5qKY3XrdsEHU5hT"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Rare Changes",
-        "url": "https://open.spotify.com/album/7pue5cbfa0TUgCUth2KFr8"
-      },
-      "artists": [
-        {
-          "name": "Mayer Hawthorne",
-          "url": "https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O"
-        }
-      ],
-      "duration_ms": 194072,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/5MUvzjJ2XXvPZq3KU6znpP"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -1013,20 +1049,36 @@
       "url": "https://open.spotify.com/track/2f9mmR37OEceYERbXml0Nj"
     },
     {
-      "added_at": "2022-09-09 04:08:19",
+      "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "Angels & Queens",
-        "url": "https://open.spotify.com/album/1KIvBCWJuLhFYdXPvE8ExK"
+        "name": "Rare Changes",
+        "url": "https://open.spotify.com/album/7pue5cbfa0TUgCUth2KFr8"
       },
       "artists": [
         {
-          "name": "Gabriels",
-          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
+          "name": "Mayer Hawthorne",
+          "url": "https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O"
         }
       ],
-      "duration_ms": 199796,
-      "name": "Angels & Queens",
-      "url": "https://open.spotify.com/track/4KpqdNIQw7S6DlZz8RjBzO"
+      "duration_ms": 194072,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/5MUvzjJ2XXvPZq3KU6znpP"
+    },
+    {
+      "added_at": "2022-09-09 04:08:19",
+      "album": {
+        "name": "Heal",
+        "url": "https://open.spotify.com/album/3vnXX5XQdwyGS79vZKIKfh"
+      },
+      "artists": [
+        {
+          "name": "Pip Millett",
+          "url": "https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR"
+        }
+      ],
+      "duration_ms": 256853,
+      "name": "Heal",
+      "url": "https://open.spotify.com/track/4UndAnl9tL4hHiYOuufIJk"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -1075,22 +1127,6 @@
       "duration_ms": 182751,
       "name": "Same Girl",
       "url": "https://open.spotify.com/track/7oKmQiRPMWLrhp1vhlmTRn"
-    },
-    {
-      "added_at": "2022-09-09 04:08:19",
-      "album": {
-        "name": "Heal",
-        "url": "https://open.spotify.com/album/3vnXX5XQdwyGS79vZKIKfh"
-      },
-      "artists": [
-        {
-          "name": "Pip Millett",
-          "url": "https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR"
-        }
-      ],
-      "duration_ms": 256853,
-      "name": "Heal",
-      "url": "https://open.spotify.com/track/4UndAnl9tL4hHiYOuufIJk"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -1159,6 +1195,22 @@
       "duration_ms": 185129,
       "name": "Addicted (Acoustic)",
       "url": "https://open.spotify.com/track/7HQc8ITNpm2NaIdLcKLDAY"
+    },
+    {
+      "added_at": "2022-09-09 04:08:19",
+      "album": {
+        "name": "Love Songs",
+        "url": "https://open.spotify.com/album/7tiLiMKiZ34qwvJQiuXfzN"
+      },
+      "artists": [
+        {
+          "name": "Will Gittens",
+          "url": "https://open.spotify.com/artist/2Guif3r6Ys8lL1H5aGyuh1"
+        }
+      ],
+      "duration_ms": 195817,
+      "name": "Falling For You",
+      "url": "https://open.spotify.com/track/0jCbfcLupN9I5ILvNxMGty"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -1235,18 +1287,18 @@
     {
       "added_at": "2022-09-09 04:08:19",
       "album": {
-        "name": "Love Songs",
-        "url": "https://open.spotify.com/album/7tiLiMKiZ34qwvJQiuXfzN"
+        "name": "Thinking of You",
+        "url": "https://open.spotify.com/album/79rtD8Fb3cam1TlbEeQOw0"
       },
       "artists": [
         {
-          "name": "Will Gittens",
-          "url": "https://open.spotify.com/artist/2Guif3r6Ys8lL1H5aGyuh1"
+          "name": "Kwaku Asante",
+          "url": "https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M"
         }
       ],
-      "duration_ms": 195817,
-      "name": "Falling For You",
-      "url": "https://open.spotify.com/track/0jCbfcLupN9I5ILvNxMGty"
+      "duration_ms": 201836,
+      "name": "Thinking of You",
+      "url": "https://open.spotify.com/track/7uJdcCDuGFWBUWEkAeukb6"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -1271,54 +1323,6 @@
       "duration_ms": 387210,
       "name": "Shine [Feat. D Smoke + Tiffany Gouch\u00e9]",
       "url": "https://open.spotify.com/track/2mHenqaNpcU7q3JP4V4Oee"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Never My Love: The Anthology",
-        "url": "https://open.spotify.com/album/4kINvyMdIqyuXAtpoCKGIO"
-      },
-      "artists": [
-        {
-          "name": "Donny Hathaway",
-          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
-        }
-      ],
-      "duration_ms": 204055,
-      "name": "Love, Love, Love",
-      "url": "https://open.spotify.com/track/3Tc6dHggtSaZqlKRhzkeub"
-    },
-    {
-      "added_at": "2022-09-09 04:08:19",
-      "album": {
-        "name": "Thinking of You",
-        "url": "https://open.spotify.com/album/79rtD8Fb3cam1TlbEeQOw0"
-      },
-      "artists": [
-        {
-          "name": "Kwaku Asante",
-          "url": "https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M"
-        }
-      ],
-      "duration_ms": 201836,
-      "name": "Thinking of You",
-      "url": "https://open.spotify.com/track/7uJdcCDuGFWBUWEkAeukb6"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Innervisions",
-        "url": "https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 323266,
-      "name": "Visions",
-      "url": "https://open.spotify.com/track/43LDXcy86qmEgfy6Wd2AZk"
     }
   ],
   "unique_name": "Soul Coffee",

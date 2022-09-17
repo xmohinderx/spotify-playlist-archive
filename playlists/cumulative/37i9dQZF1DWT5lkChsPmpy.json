@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "A beautiful day",
+        "url": "https://open.spotify.com/album/2YFg6gt0UE5yo3E3z6cs0P"
+      },
+      "artists": [
+        {
+          "name": "Silk Soul",
+          "url": "https://open.spotify.com/artist/2DgL3THTMvM0MfSTaYYMAI"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183250,
+      "name": "A beautiful day",
+      "url": "https://open.spotify.com/track/5Ds5ComUHGwbYVolYDGxlR"
+    },
+    {
+      "album": {
         "name": "A Better Tomorrow",
         "url": "https://open.spotify.com/album/5V6RPQfkM51G2tO7V3VHuT"
       },
@@ -761,7 +779,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 166000,
       "name": "Chasing Cool",
       "url": "https://open.spotify.com/track/5kPPTVaz00DgTvAVDy2Ixl"
@@ -1042,6 +1060,28 @@
     },
     {
       "album": {
+        "name": "Daisy-Chain",
+        "url": "https://open.spotify.com/album/3cKoDYDdo4OnTRWydsyWCt"
+      },
+      "artists": [
+        {
+          "name": "Lou Filou",
+          "url": "https://open.spotify.com/artist/6CUArmqtKpviCeaJS2QUzH"
+        },
+        {
+          "name": "vlows",
+          "url": "https://open.spotify.com/artist/1I8vSPgZriud0yvXK55JHt"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130500,
+      "name": "Daisy-Chain",
+      "url": "https://open.spotify.com/track/6Bk42XX8jPED540IlNEvsr"
+    },
+    {
+      "album": {
         "name": "A Good Place To Hide",
         "url": "https://open.spotify.com/album/2INkfFj1vBZsdDRWImey95"
       },
@@ -1305,7 +1345,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 192142,
       "name": "Elements",
       "url": "https://open.spotify.com/track/2QW3U3MpayM3QMk67Ut99J"
@@ -1345,6 +1385,28 @@
       "duration_ms": 224228,
       "name": "Embedded",
       "url": "https://open.spotify.com/track/6kpr58zL1OMSikCZgSZ9mz"
+    },
+    {
+      "album": {
+        "name": "END OF AN ERA",
+        "url": "https://open.spotify.com/album/3C1PAj2sewEbNdIs8axBAM"
+      },
+      "artists": [
+        {
+          "name": "The Kount",
+          "url": "https://open.spotify.com/artist/24OnVX6EYwtu7P3jpMenPY"
+        },
+        {
+          "name": "Kaelin Ellis",
+          "url": "https://open.spotify.com/artist/0QalUUx2C9F1PGbfQVcHAd"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116789,
+      "name": "END OF AN ERA",
+      "url": "https://open.spotify.com/track/4hE5FiwnpFjG6PEWF9SbED"
     },
     {
       "album": {
@@ -1849,7 +1911,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 247000,
       "name": "Forever Yours",
       "url": "https://open.spotify.com/track/6uviz3fvF7MzJobVeJCXsZ"
@@ -3363,7 +3425,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 176495,
       "name": "milanaze",
       "url": "https://open.spotify.com/track/54vcW7KBQULivUu32NZ7ot"
@@ -3443,10 +3505,28 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 135211,
       "name": "Montreux",
       "url": "https://open.spotify.com/track/5BCogYGUcjCVn7u6aYarva"
+    },
+    {
+      "album": {
+        "name": "Moon Rail",
+        "url": "https://open.spotify.com/album/0in1WOZ5qmJhS5slUKPhPq"
+      },
+      "artists": [
+        {
+          "name": "Chillsmoke\u10bf",
+          "url": "https://open.spotify.com/artist/50PNApaaFiGIOQhsposZnn"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160676,
+      "name": "Moon Rail",
+      "url": "https://open.spotify.com/track/6dlj2eOaBGOnSZCR1uj0hK"
     },
     {
       "album": {
@@ -4062,6 +4142,24 @@
     },
     {
       "album": {
+        "name": "Purity",
+        "url": "https://open.spotify.com/album/7MqAJ6JKmdhqgb5TZyNK5u"
+      },
+      "artists": [
+        {
+          "name": "Xack",
+          "url": "https://open.spotify.com/artist/3Tg2AlVypH64iuYosDtyHj"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225125,
+      "name": "Purity",
+      "url": "https://open.spotify.com/track/4Tb8x8lYQsKzXHsC71Xm20"
+    },
+    {
+      "album": {
         "name": "Above And Under",
         "url": "https://open.spotify.com/album/6MhDonImkRWQrCvpYb3EHa"
       },
@@ -4289,7 +4387,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 142833,
       "name": "Rooftop Grill",
       "url": "https://open.spotify.com/track/61MsjQN0Q7KahSXROkTuCT"
@@ -4729,10 +4827,28 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 160000,
       "name": "So Be It",
       "url": "https://open.spotify.com/track/0W0nUfbrPMHfjx2W1rtmQR"
+    },
+    {
+      "album": {
+        "name": "soft bay",
+        "url": "https://open.spotify.com/album/5O3Ki1xAAGOh3mTaXhJFxr"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Citrine",
+          "url": "https://open.spotify.com/artist/3v9QBUh3xv6Nmh8fc7BGox"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174521,
+      "name": "soft bay",
+      "url": "https://open.spotify.com/track/04efmW6Lew9Gtx5Ob1kiwL"
     },
     {
       "album": {
@@ -5136,6 +5252,24 @@
     },
     {
       "album": {
+        "name": "The Simplest Things",
+        "url": "https://open.spotify.com/album/4aSBkBh9c126FxY1EHvgT9"
+      },
+      "artists": [
+        {
+          "name": "Ambient Solle",
+          "url": "https://open.spotify.com/artist/34ScNK2ccDxZim8TVcqWXT"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186937,
+      "name": "The Simplest Things",
+      "url": "https://open.spotify.com/track/3Ze6UW8ab1IpF7W7BieBgC"
+    },
+    {
+      "album": {
         "name": "Left on Read",
         "url": "https://open.spotify.com/album/0p3KQ3yiMRA82ueeUAdcIq"
       },
@@ -5165,7 +5299,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 130743,
       "name": "Through The Grains",
       "url": "https://open.spotify.com/track/33wjqtVpWOcvX8uUrOzzyJ"

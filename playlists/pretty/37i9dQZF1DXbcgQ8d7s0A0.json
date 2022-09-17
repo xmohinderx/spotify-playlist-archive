@@ -1,12 +1,12 @@
 {
   "description": "Chill out to the sweetest soul songs.",
-  "num_followers": 1135209,
+  "num_followers": 1135449,
   "original_name": "Sweet Soul Chillout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxMzY0MzkzNiwwMDAwMDAwMDM5N2JlOTE1YzFlOGQ4NTU5M2FjMjY1NjE0ZWMxOWQ1",
+  "snapshot_id": "MTYxMzY0MzkzNiwwMDAwMDAwMDlmMmExZDRmZDZhMWM0OGY1MzgzYmQ5Yjg2MWQyZjVk",
   "tracks": [
     {
       "added_at": "2021-02-18 10:25:36",
@@ -127,22 +127,6 @@
     {
       "added_at": "2021-02-18 10:25:36",
       "album": {
-        "name": "Aretha Now",
-        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 216773,
-      "name": "I Say a Little Prayer",
-      "url": "https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba"
-    },
-    {
-      "added_at": "2021-02-18 10:25:36",
-      "album": {
         "name": "Back To Black (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 233733,
       "name": "Valerie - Live At BBC Radio 1 Live Lounge, London / 2007",
       "url": "https://open.spotify.com/track/6nLvaCZFR1wEzW3sIKpsnr"
+    },
+    {
+      "added_at": "2021-02-18 10:25:36",
+      "album": {
+        "name": "Aretha Now",
+        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 216773,
+      "name": "I Say a Little Prayer",
+      "url": "https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba"
     },
     {
       "added_at": "2021-02-18 10:25:36",
@@ -783,22 +783,6 @@
     {
       "added_at": "2021-02-18 10:25:36",
       "album": {
-        "name": "The First Family of Soul: The Best of The Five Stairsteps",
-        "url": "https://open.spotify.com/album/5RDrnVcOfimhUGIx84Uoid"
-      },
-      "artists": [
-        {
-          "name": "The Five Stairsteps",
-          "url": "https://open.spotify.com/artist/3Inrg8cs8oc4q8oPES4a6S"
-        }
-      ],
-      "duration_ms": 197160,
-      "name": "O-o-h Child",
-      "url": "https://open.spotify.com/track/74JdR9aXE6I74oS1BVRsvb"
-    },
-    {
-      "added_at": "2021-02-18 10:25:36",
-      "album": {
         "name": "The Velvet Rope",
         "url": "https://open.spotify.com/album/6ZANEjETQ9L9pjBuvOAhCQ"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 241760,
       "name": "Got 'Til It's Gone",
       "url": "https://open.spotify.com/track/6jUyYHDikmw9WltPojSR37"
+    },
+    {
+      "added_at": "2021-02-18 10:25:36",
+      "album": {
+        "name": "The First Family of Soul: The Best of The Five Stairsteps",
+        "url": "https://open.spotify.com/album/5RDrnVcOfimhUGIx84Uoid"
+      },
+      "artists": [
+        {
+          "name": "The Five Stairsteps",
+          "url": "https://open.spotify.com/artist/3Inrg8cs8oc4q8oPES4a6S"
+        }
+      ],
+      "duration_ms": 197160,
+      "name": "O-o-h Child",
+      "url": "https://open.spotify.com/track/74JdR9aXE6I74oS1BVRsvb"
     },
     {
       "added_at": "2021-02-18 10:25:36",

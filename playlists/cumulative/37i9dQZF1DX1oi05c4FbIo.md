@@ -4,7 +4,7 @@
 
 > Our picks of the top Christian Hip\-Hop songs of the week!  Cover: 1K Phew
 
-20 songs - 1 hr 3 min - not published yet
+20 songs - 1 hr 3 min - [published](https://open.spotify.com/playlist/5CcJgRoOvqGUwqMITVgR3E)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "Perfect sunshiney indie tracks for summer.",
-  "num_followers": 67879,
+  "num_followers": 68227,
   "original_name": "Indie Sunshine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjEwOTgwMCwwMDAwMDAwMDc2MDVkMDkzNTY0YjY1MzE2NTZlMTk4YmM2YTVhYzZh",
+  "snapshot_id": "MTY2MjEwOTgwMCwwMDAwMDAwMGU3ZjVjNzI0MWI4MTYwMmY5NjBlZTM0MDczMmVmNTc0",
   "tracks": [
     {
       "added_at": "2022-09-02 09:10:00",
@@ -939,22 +939,18 @@
     {
       "added_at": "2022-09-02 09:10:00",
       "album": {
-        "name": "Serotonin Dreams",
-        "url": "https://open.spotify.com/album/1I79ZTFJ5FVLwMYRWvhk73"
+        "name": "6 Of A Billion",
+        "url": "https://open.spotify.com/album/00XbpqjUL8dH40s3vGltsV"
       },
       "artists": [
         {
-          "name": "BoyWithUke",
-          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
-        },
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+          "name": "Claire Rosinkranz",
+          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
         }
       ],
-      "duration_ms": 191973,
-      "name": "Prairies (with mxmtoon)",
-      "url": "https://open.spotify.com/track/7w2iqaRxQgAGnkOdMhsiqu"
+      "duration_ms": 134781,
+      "name": "Hotel",
+      "url": "https://open.spotify.com/track/3xyr2xfbSZiZWWGsjLyMFh"
     },
     {
       "added_at": "2022-09-02 09:10:00",
@@ -975,18 +971,38 @@
     {
       "added_at": "2022-09-02 09:10:00",
       "album": {
-        "name": "6 Of A Billion",
-        "url": "https://open.spotify.com/album/00XbpqjUL8dH40s3vGltsV"
+        "name": "Serotonin Dreams",
+        "url": "https://open.spotify.com/album/1I79ZTFJ5FVLwMYRWvhk73"
       },
       "artists": [
         {
-          "name": "Claire Rosinkranz",
-          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
+          "name": "BoyWithUke",
+          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
+        },
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
         }
       ],
-      "duration_ms": 134781,
-      "name": "Hotel",
-      "url": "https://open.spotify.com/track/3xyr2xfbSZiZWWGsjLyMFh"
+      "duration_ms": 191973,
+      "name": "Prairies (with mxmtoon)",
+      "url": "https://open.spotify.com/track/7w2iqaRxQgAGnkOdMhsiqu"
+    },
+    {
+      "added_at": "2022-09-02 09:10:00",
+      "album": {
+        "name": "Pebble Brain",
+        "url": "https://open.spotify.com/album/5FjI8XVSj9YAmGAlZub7Bo"
+      },
+      "artists": [
+        {
+          "name": "Lovejoy",
+          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
+        }
+      ],
+      "duration_ms": 207010,
+      "name": "Perfume",
+      "url": "https://open.spotify.com/track/4OJC6NJCMyvjX0pENJhSrL"
     },
     {
       "added_at": "2022-09-02 09:10:00",
@@ -1007,18 +1023,18 @@
     {
       "added_at": "2022-09-02 09:10:00",
       "album": {
-        "name": "Pebble Brain",
-        "url": "https://open.spotify.com/album/5FjI8XVSj9YAmGAlZub7Bo"
+        "name": "don\u2019t miss me",
+        "url": "https://open.spotify.com/album/2uXE0PE2nWgjXDV6nZi1l0"
       },
       "artists": [
         {
-          "name": "Lovejoy",
-          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
+          "name": "Claire Rosinkranz",
+          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
         }
       ],
-      "duration_ms": 207010,
-      "name": "Perfume",
-      "url": "https://open.spotify.com/track/4OJC6NJCMyvjX0pENJhSrL"
+      "duration_ms": 123949,
+      "name": "don't miss me",
+      "url": "https://open.spotify.com/track/5MG69A9XyXDbBbeOxdR3Tl"
     },
     {
       "added_at": "2022-09-02 09:10:00",
@@ -1087,22 +1103,6 @@
     {
       "added_at": "2022-09-02 09:10:00",
       "album": {
-        "name": "don\u2019t miss me",
-        "url": "https://open.spotify.com/album/2uXE0PE2nWgjXDV6nZi1l0"
-      },
-      "artists": [
-        {
-          "name": "Claire Rosinkranz",
-          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
-        }
-      ],
-      "duration_ms": 123949,
-      "name": "don't miss me",
-      "url": "https://open.spotify.com/track/5MG69A9XyXDbBbeOxdR3Tl"
-    },
-    {
-      "added_at": "2022-09-02 09:10:00",
-      "album": {
         "name": "Chinese New Year",
         "url": "https://open.spotify.com/album/4x41gTsgkdYoEZvBPPeVhi"
       },
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2022-09-02 09:10:00",
       "album": {
-        "name": "Caravelle",
-        "url": "https://open.spotify.com/album/0SuFqlCe5i30Fr75ZlPQVT"
-      },
-      "artists": [
-        {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
-        }
-      ],
-      "duration_ms": 276293,
-      "name": "Canop\u00e9e",
-      "url": "https://open.spotify.com/track/260V7huyJrXnyYe0dFv2Fa"
-    },
-    {
-      "added_at": "2022-09-02 09:10:00",
-      "album": {
         "name": "Juno",
         "url": "https://open.spotify.com/album/7tJ8Wtej161vR0uCbGDiDR"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 188500,
       "name": "Sexy Villain",
       "url": "https://open.spotify.com/track/27sBcXtgTBSJRdUxei1a7J"
+    },
+    {
+      "added_at": "2022-09-02 09:10:00",
+      "album": {
+        "name": "Caravelle",
+        "url": "https://open.spotify.com/album/0SuFqlCe5i30Fr75ZlPQVT"
+      },
+      "artists": [
+        {
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        }
+      ],
+      "duration_ms": 276293,
+      "name": "Canop\u00e9e",
+      "url": "https://open.spotify.com/track/260V7huyJrXnyYe0dFv2Fa"
     },
     {
       "added_at": "2022-09-02 09:10:00",

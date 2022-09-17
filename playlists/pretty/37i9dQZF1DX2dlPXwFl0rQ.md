@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 
 > Estas son las indomables del Regional Mexicano\. Cheli Madrid en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,158 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,180 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,18 +52,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 | 42 | [Morí](https://open.spotify.com/track/2ysxv5DXuosxjvaGItVn1E) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Morí](https://open.spotify.com/album/0yexjHqn8yMIgpxNxJqVQ0) | 3:44 |
 | 43 | [Qué Me Vas a Dar](https://open.spotify.com/track/1dqURLZC3n4EL6lPUF2DHx) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Parrandera, Rebelde y Atrevida](https://open.spotify.com/album/2I50wzYim7XrZhBSrolmzs) | 3:15 |
 | 44 | [Yo Sin Tu Amor](https://open.spotify.com/track/1dRk52eZwBlyJVdPajfBp4) | [Grupo Limite](https://open.spotify.com/artist/2qWNYueLfc979iEdLOIK2C) | [Por Puro Amor](https://open.spotify.com/album/0WsszKdBU8ZgICPUvrvIb6) | 2:57 |
-| 45 | [Tambien Las Mujeres Pueden \(En Vivo\)](https://open.spotify.com/track/0EwW3CpYxYmiwa4LHOmbxY) | [Janely Rosa](https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [Tambien Las Mujeres Pueden \(En Vivo\)](https://open.spotify.com/album/0A9jc2mNfi0CeYveDasqI3) | 3:02 |
-| 46 | [Para No Pensar en Ti](https://open.spotify.com/track/0R8fg6Kf7VCjQLU1vTrTCb) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Para No Pensar en Ti](https://open.spotify.com/album/3M12MLKuvzlOXkNij49MFw) | 3:29 |
-| 47 | [No que no](https://open.spotify.com/track/2rWePwaFVD8ukg8qimS3lP) | [Griss Romero](https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA) | [No que no](https://open.spotify.com/album/0epUaxYXXwj70sm73aYpSF) | 3:09 |
+| 45 | [No que no](https://open.spotify.com/track/2rWePwaFVD8ukg8qimS3lP) | [Griss Romero](https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA) | [No que no](https://open.spotify.com/album/0epUaxYXXwj70sm73aYpSF) | 3:09 |
+| 46 | [Tambien Las Mujeres Pueden \(En Vivo\)](https://open.spotify.com/track/0EwW3CpYxYmiwa4LHOmbxY) | [Janely Rosa](https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [Tambien Las Mujeres Pueden \(En Vivo\)](https://open.spotify.com/album/0A9jc2mNfi0CeYveDasqI3) | 3:02 |
+| 47 | [Para No Pensar en Ti](https://open.spotify.com/track/0R8fg6Kf7VCjQLU1vTrTCb) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Para No Pensar en Ti](https://open.spotify.com/album/3M12MLKuvzlOXkNij49MFw) | 3:29 |
 | 48 | [Que Poquito Me Conoces](https://open.spotify.com/track/3rxafxANDFSkB2onHUBUe6) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Confidente](https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP) | 2:30 |
 | 49 | [Qué Bonito](https://open.spotify.com/track/1LITSGGVyVIyYzfEv9hAdi) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Mi Herencia, Mi Sangre](https://open.spotify.com/album/7Fx68oIAPZovKJIIzaL1OH) | 3:05 |
 | 50 | [Si Tu Te Vas](https://open.spotify.com/track/0zt7aMpLsOcckqSxqedrwt) | [Jennifer Peña](https://open.spotify.com/artist/7FOLqljSYieJbPEpq3I5Qf) | [Mis 20 Éxitos](https://open.spotify.com/album/3qI4cBRQr7DIMOEY7eXfHn) | 3:04 |
 | 51 | [Pobre Corazón](https://open.spotify.com/track/4pqwjUljhAaxFPW9fmOGLC) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By) | [Pobre Corazón](https://open.spotify.com/album/1wKf4J6fA55pKnRRXHZU9c) | 3:18 |
 | 52 | [Ahora Que Te Vas](https://open.spotify.com/track/72Bk8T5DRTHa9nkcUBHkQL) | [Francy](https://open.spotify.com/artist/5pAEGsouhZbgSqJMTmEXoT) | [Ahora Que Te Vas](https://open.spotify.com/album/6Dmyw5ljilipCMu1rHo5Ua) | 2:22 |
-| 53 | [Hazme Tuya](https://open.spotify.com/track/7GbzKGxTsaNmvgnBhcnNP5) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Hazme Tuya](https://open.spotify.com/album/0a48C884SUXHbslHhIwlGI) | 2:24 |
+| 53 | [Cuando Caiga la Noche](https://open.spotify.com/track/15mqnAeCOQXcMB3u48RIin) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuando Caiga la Noche](https://open.spotify.com/album/366Q6rUOSrYDXjrDiuL1lU) | 3:21 |
 | 54 | [Te Aprovechas](https://open.spotify.com/track/4IBhHhbBSGRGrP6wXzRK2v) | [Grupo Limite](https://open.spotify.com/artist/2qWNYueLfc979iEdLOIK2C) | [Por Puro Amor](https://open.spotify.com/album/0WsszKdBU8ZgICPUvrvIb6) | 3:07 |
-| 55 | [Es Cosa De El](https://open.spotify.com/track/0ftCOyTnNeeLhlIuMPR3op) | [Graciela Beltran](https://open.spotify.com/artist/7HcFX1LEnI6zHIHCt8olTl) | [Promesas No](https://open.spotify.com/album/17cEzhYbgpZ3MBf6K9l0Y3) | 3:26 |
-| 56 | [Cuando Caiga la Noche](https://open.spotify.com/track/15mqnAeCOQXcMB3u48RIin) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuando Caiga la Noche](https://open.spotify.com/album/366Q6rUOSrYDXjrDiuL1lU) | 3:21 |
+| 55 | [Hazme Tuya](https://open.spotify.com/track/7GbzKGxTsaNmvgnBhcnNP5) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Hazme Tuya](https://open.spotify.com/album/0a48C884SUXHbslHhIwlGI) | 2:24 |
+| 56 | [Es Cosa De El](https://open.spotify.com/track/0ftCOyTnNeeLhlIuMPR3op) | [Graciela Beltran](https://open.spotify.com/artist/7HcFX1LEnI6zHIHCt8olTl) | [Promesas No](https://open.spotify.com/album/17cEzhYbgpZ3MBf6K9l0Y3) | 3:26 |
 | 57 | [Ya Te Olvidé](https://open.spotify.com/track/6AQmEy0PpEHNb72Pz94sMD) | [Grace Guillén](https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD) | [Ya Te Olvidé](https://open.spotify.com/album/5naqdFvqwIyTVEcLdUmPrV) | 3:40 |
 | 58 | [Y Sigues Siendo Tú](https://open.spotify.com/track/0aoR2KYk8JJDDaKwSeP4Y8) | [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [Y Sigues Siendo Tú](https://open.spotify.com/album/0pTTS2mSMDlhPHTYRkgwv7) | 3:31 |
 | 59 | [Te Lo Dije](https://open.spotify.com/track/1qIzFCCra5oghKuOwygbxm) | [Nabález](https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Te Lo Dije](https://open.spotify.com/album/6L4FZy4urqYOoXG7QCJvGt) | 2:33 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 | 76 | [La Que Sigue de Mi](https://open.spotify.com/track/0wDeNyKJ1Nbn6TRqqtL4Il) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Contundente](https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm) | 3:15 |
 | 77 | [Lo Mal Que Me Trataste](https://open.spotify.com/track/0Tfr04oA2EPOTovHiM5lqK) | [Marilyn Odessa](https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w) | [Cinco Razones](https://open.spotify.com/album/5lFmabGSRMh7o8GHntGeqZ) | 3:40 |
 | 78 | [No Te Dejes Engañar](https://open.spotify.com/track/1DDqAJ6VPBqB8mBi64B7jf) | [Sandra Echeverria](https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31) | [No Te Dejes Engañar](https://open.spotify.com/album/5r2bpBBDDMPEenUASbVGME) | 3:13 |
-| 79 | [Say Something](https://open.spotify.com/track/2lSxeetRgtPeFU67Rh5IIC) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9) | [Say Something](https://open.spotify.com/album/7mccDUNdVOGhegPqSc3hGm) | 3:33 |
-| 80 | [Maldito](https://open.spotify.com/track/6JzlLBMnXEZH3EfSYPh6OG) | [Irene del Rosario](https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN) | [Maldito](https://open.spotify.com/album/7KkWixraD8HlazYsyrj9Ij) | 3:40 |
+| 79 | [Maldito](https://open.spotify.com/track/6JzlLBMnXEZH3EfSYPh6OG) | [Irene del Rosario](https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN) | [Maldito](https://open.spotify.com/album/7KkWixraD8HlazYsyrj9Ij) | 3:40 |
+| 80 | [Say Something](https://open.spotify.com/track/2lSxeetRgtPeFU67Rh5IIC) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9) | [Say Something](https://open.spotify.com/album/7mccDUNdVOGhegPqSc3hGm) | 3:33 |
 | 81 | [De Ti No Lo Esperaba](https://open.spotify.com/track/6JMJKfwi2UiDsCvAlaOH4x) | [Janeth Valenzuela](https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G) | [De Ti No Lo Esperaba](https://open.spotify.com/album/5WWN1xJb84SCDRx3kll6E0) | 3:13 |
 | 82 | [Perdóname](https://open.spotify.com/track/0VGHUbRgbbiMNcsE5QErKG) | [Janely Rosa](https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF) | [Perdóname](https://open.spotify.com/album/70k3vqW5xmIMhKMzSRzG1a) | 2:24 |
 | 83 | [Hoy Dame el Gusto](https://open.spotify.com/track/5bYDZac40Gh7u7MdOm2RlI) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Hoy Dame el Gusto](https://open.spotify.com/album/3kRufiPZq2VFnS6EhFqUwF) | 3:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 | 99 | [Ovarios](https://open.spotify.com/track/5M0xCMnbD2gDUfhRo5pvlT) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Misma Gran Señora](https://open.spotify.com/album/4JckvbYfeoqro9OfNM87y5) | 2:52 |
 | 100 | [Mariposa de Barrio](https://open.spotify.com/track/02ykJXbTaAyxPgaicIRxo4) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Mi Vida Loca](https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM) | 3:58 |
 
-Snapshot ID: `MTY2MjA5NDgwMCwwMDAwMDAwMDc0ZjQzYTNkMzRlMjQyMDE1OWQyN2Y1ZWY2OGIwODlj`
+Snapshot ID: `MTY2MjA5NDgwMCwwMDAwMDAwMDRjNWQxZDU2NGJjMDc3MDI3ZDgzY2ZlYWNjMDU0ZjY2`

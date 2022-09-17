@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SE5tIsUWTD.md) - [plain]
 
 > A playlist for your Arab hipster starter kit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,922 likes - 50 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,973 likes - 50 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SE5tIsUWTD.md) - [plain]
 | 14 | [Rouhi Ya Hafida](https://open.spotify.com/track/6OkP3MSzo9ZSb4h9VrswjF) | [Mallek Mohamed](https://open.spotify.com/artist/2wF5QoyZWf6qbi3C0vbor4) | [Habibi Funk: An Eclectic Selection of Music from the Arab World \(Habibi Funk 007\)](https://open.spotify.com/album/1B3W5u06uIB7Elyk70pt9R) | 4:02 |
 | 15 | [Alech](https://open.spotify.com/track/6tSmqzaXZUOooPfGg3Ibhd) | [Carthago](https://open.spotify.com/artist/5VXwGdDD7KI0NrlT4EzNzU) | [Alech \(Habibi Funk 004\)](https://open.spotify.com/album/6aWbhj0AFwifo0K7ebOWuh) | 3:26 |
 | 16 | [Sid Redad](https://open.spotify.com/track/4cQKZXBIHEkrtOV6tnL4nS) | [Fadoul](https://open.spotify.com/artist/2SCAwDNVflhhFVo1s01Xc9) | [Al Zman Saib \(Habibi Funk 002\)](https://open.spotify.com/album/782K2oVoHhbLwQQ2M7CQWr) | 3:02 |
-| 17 | [Al Asafir](https://open.spotify.com/track/38tuJECMzicYOgIgRbWDYu) | [Kamal Keila](https://open.spotify.com/artist/3hvpB2JNbOGd2NTjdaDMGl) | [Habibi Funk: An Eclectic Selection of Music from the Arab World \(Habibi Funk 007\)](https://open.spotify.com/album/1B3W5u06uIB7Elyk70pt9R) | 5:20 |
-| 18 | [La silence des cendres](https://open.spotify.com/track/6zqBhNJQsiv5a7gdLofSIW) | [Ahmed Malek](https://open.spotify.com/artist/1F5NAWDKvoYJU3mEZQUFsB) | [Musique originale de films \(Habibi Funk 003\)](https://open.spotify.com/album/6IbSMUM51EtNdEmXZ0BHPJ) | 3:14 |
+| 17 | [La silence des cendres](https://open.spotify.com/track/6zqBhNJQsiv5a7gdLofSIW) | [Ahmed Malek](https://open.spotify.com/artist/1F5NAWDKvoYJU3mEZQUFsB) | [Musique originale de films \(Habibi Funk 003\)](https://open.spotify.com/album/6IbSMUM51EtNdEmXZ0BHPJ) | 3:14 |
+| 18 | [Al Asafir](https://open.spotify.com/track/38tuJECMzicYOgIgRbWDYu) | [Kamal Keila](https://open.spotify.com/artist/3hvpB2JNbOGd2NTjdaDMGl) | [Habibi Funk: An Eclectic Selection of Music from the Arab World \(Habibi Funk 007\)](https://open.spotify.com/album/1B3W5u06uIB7Elyk70pt9R) | 5:20 |
 | 19 | [Saat Alfarah](https://open.spotify.com/track/3NPihbT6fMGMCY1D58PA3m) | [The Scorpions](https://open.spotify.com/artist/0nV4gg0Bp7hJOYCFFMVNzb), [Saif Abu Bakr](https://open.spotify.com/artist/6gA3mg8N7XGRwY1WwKcm8D) | [Jazz, Jazz, Jazz \(Habibi Funk 009\)](https://open.spotify.com/album/46zogVWfGDNCxsJud1x9KV) | 4:46 |
 | 20 | [Mafatshi Leh](https://open.spotify.com/track/520RV8A1weQ6gQLsOyO7zw) | [Al Massrieen](https://open.spotify.com/artist/7t3VJCyz87PJLqHM3mOt3I) | [Modern Music \(Habibi Funk 006\)](https://open.spotify.com/album/74cn65iezZxZZ6GxSHN01y) | 2:50 |
 | 21 | [I Want to Be](https://open.spotify.com/track/2os8JMsxtbpFo53e2r9TUa) | [Elias Rahbani and His Orchestra](https://open.spotify.com/artist/61GwuFGBjJmXtIwNlvYqLo) | [Elias Rahbani and His Orchestra](https://open.spotify.com/album/4mzbT1iZ1BIBxSZ6PlrYqr) | 3:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SE5tIsUWTD.md) - [plain]
 | 49 | [Music Laounga 79](https://open.spotify.com/track/11AzUEPBJuCG5F0DvRI7n8) | [Hany Shnoda Ferqet Masr](https://open.spotify.com/artist/1qeimvAZjU4Y8Rvlz31kSV) | [Ashhar Aghany El Masreen](https://open.spotify.com/album/7bqepNvmYdtejNq9Dh9rcw) | 3:33 |
 | 50 | [Mabruk \- aJan Remix](https://open.spotify.com/track/3PHxtuVhigaZtNouOl2aFW) | [Ali Hassan Kuban](https://open.spotify.com/artist/4dVQ9H8M0hxoRqAsnCGnMm), [aJan](https://open.spotify.com/artist/70F0gnTzCFcxOVgbibWTxr) | [Mabruk \(aJan Remix\)](https://open.spotify.com/album/7xv9PpIsK6nwn0N9oRDDcO) | 3:10 |
 
-Snapshot ID: `MTYwNTIwNDkwMSwwMDAwMDAwMGQyYzE1MWY5NmFkYTBkYzE0NGI1MzZlZmJlZjFmZWZi`
+Snapshot ID: `MTYwNTIwNDkwMSwwMDAwMDAwMGNmNDFlY2NjMzNkODY0MGYxNmVjYjUzNzRiMGQxM2Nj`

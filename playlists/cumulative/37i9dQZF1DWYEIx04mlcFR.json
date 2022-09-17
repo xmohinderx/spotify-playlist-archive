@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-10",
-  "description": "la nueva ola de artistas con Kevin Kaarl en portada. \ud83c\udf0a\u2728 ",
+  "description": "la nueva ola de artistas con Dannylux en portada. \ud83c\udf0a\u2728 ",
   "name": "la pop~wave",
   "published_playlist_ids": [
     "6I4k19QivQTwxJMIU1FW10"
@@ -907,6 +907,28 @@
       "duration_ms": 174000,
       "name": "Dueles Tan Bien",
       "url": "https://open.spotify.com/track/75ncCwXqalTnnl6t1ruQRq"
+    },
+    {
+      "album": {
+        "name": "Dueles Tan Bien (Donovan's Playground Remix)",
+        "url": "https://open.spotify.com/album/5y09I1r5zOh9Fsbbm8AUir"
+      },
+      "artists": [
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        },
+        {
+          "name": "Donovan's Playground",
+          "url": "https://open.spotify.com/artist/67tuLuJ6EoOTR1KntyUnHQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168642,
+      "name": "Dueles Tan Bien (Donovan's Playground Remix)",
+      "url": "https://open.spotify.com/track/62MO58gO3RjXkydHvn8UnS"
     },
     {
       "album": {
@@ -2661,7 +2683,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 189310,
       "name": "Quiero Quedarme para Siempre",
       "url": "https://open.spotify.com/track/3du9ocej65TycajaDfw8j9"

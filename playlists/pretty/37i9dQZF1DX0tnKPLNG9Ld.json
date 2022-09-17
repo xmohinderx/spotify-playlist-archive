@@ -1,12 +1,12 @@
 {
   "description": "Blue skies, nothing but blue skies. Sun in your eyes and uplifting jazz in your ears on a sunny day.",
-  "num_followers": 35351,
+  "num_followers": 35411,
   "original_name": "Sunny Day Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzA3MjUyNywwMDAwMDAwMGIzYWMxNjZjMjZmOTNlNzFhZDllOTRjZjJmYTFhZTRi",
+  "snapshot_id": "MTY2MzA3MjUyNywwMDAwMDAwMDU0M2FiMjIzMjY0N2ZlNzI3ZDQ3MjI2MTc1MWIzYjJk",
   "tracks": [
     {
       "added_at": "2022-09-13 12:35:27",
@@ -511,6 +511,22 @@
     {
       "added_at": "2022-09-13 12:35:27",
       "album": {
+        "name": "Broadway, Right Now!",
+        "url": "https://open.spotify.com/album/5ZIEB6I2Ei1ijuI8X3G2iw"
+      },
+      "artists": [
+        {
+          "name": "Margaret Whiting",
+          "url": "https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87"
+        }
+      ],
+      "duration_ms": 132773,
+      "name": "Make Someone Happy - From \"Do Re Mi\"",
+      "url": "https://open.spotify.com/track/0vFP6jMvrIsmxdwVdza7GA"
+    },
+    {
+      "added_at": "2022-09-13 12:35:27",
+      "album": {
         "name": "Anita O'Day Swings Cole Porter With Billy May",
         "url": "https://open.spotify.com/album/7fW57iJNSmeL29fUnBTTIO"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 147666,
       "name": "What A Little Moonlight Can Do - Remastered",
       "url": "https://open.spotify.com/track/0KDn1UsD2ym34dCT4P9ebj"
-    },
-    {
-      "added_at": "2022-09-13 12:35:27",
-      "album": {
-        "name": "Sings The Jerome Kern Song Book, Vol.1 & 2",
-        "url": "https://open.spotify.com/album/7lK3JDdKHJGdKZcTFodGcd"
-      },
-      "artists": [
-        {
-          "name": "Margaret Whiting",
-          "url": "https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87"
-        }
-      ],
-      "duration_ms": 122800,
-      "name": "You Couldn't Be Cuter",
-      "url": "https://open.spotify.com/track/5wK0I2nGDosuttrhkVHZnO"
     },
     {
       "added_at": "2022-09-13 12:35:27",
@@ -643,6 +643,22 @@
     {
       "added_at": "2022-09-13 12:35:27",
       "album": {
+        "name": "Sings The Jerome Kern Song Book, Vol.1 & 2",
+        "url": "https://open.spotify.com/album/7lK3JDdKHJGdKZcTFodGcd"
+      },
+      "artists": [
+        {
+          "name": "Margaret Whiting",
+          "url": "https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87"
+        }
+      ],
+      "duration_ms": 122800,
+      "name": "You Couldn't Be Cuter",
+      "url": "https://open.spotify.com/track/5wK0I2nGDosuttrhkVHZnO"
+    },
+    {
+      "added_at": "2022-09-13 12:35:27",
+      "album": {
         "name": "September In The Rain",
         "url": "https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 118000,
       "name": "As Long As I'm In Your Arms",
       "url": "https://open.spotify.com/track/77fsTNViSLqcwuSMQhSwB0"
-    },
-    {
-      "added_at": "2022-09-13 12:35:27",
-      "album": {
-        "name": "Broadway, Right Now!",
-        "url": "https://open.spotify.com/album/5ZIEB6I2Ei1ijuI8X3G2iw"
-      },
-      "artists": [
-        {
-          "name": "Margaret Whiting",
-          "url": "https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87"
-        }
-      ],
-      "duration_ms": 132773,
-      "name": "Make Someone Happy - From \"Do Re Mi\"",
-      "url": "https://open.spotify.com/track/0vFP6jMvrIsmxdwVdza7GA"
     },
     {
       "added_at": "2022-09-13 12:35:27",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-09-13 12:35:27",
       "album": {
-        "name": "Mr. Top Hat",
-        "url": "https://open.spotify.com/album/0eNmpX93xeVCWWuNnKE7Oz"
-      },
-      "artists": [
-        {
-          "name": "Fred Astaire",
-          "url": "https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX"
-        }
-      ],
-      "duration_ms": 175386,
-      "name": "'S Wonderful",
-      "url": "https://open.spotify.com/track/2ijBcYi7FZXt7bvuVb7NQz"
-    },
-    {
-      "added_at": "2022-09-13 12:35:27",
-      "album": {
         "name": "Gemini Changes",
         "url": "https://open.spotify.com/album/5HN2TpEnroUaWuWwPQovBB"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 130506,
       "name": "Sunny",
       "url": "https://open.spotify.com/track/5WTduEM9fllIf3eBmfGuOX"
+    },
+    {
+      "added_at": "2022-09-13 12:35:27",
+      "album": {
+        "name": "Mr. Top Hat",
+        "url": "https://open.spotify.com/album/0eNmpX93xeVCWWuNnKE7Oz"
+      },
+      "artists": [
+        {
+          "name": "Fred Astaire",
+          "url": "https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX"
+        }
+      ],
+      "duration_ms": 175386,
+      "name": "'S Wonderful",
+      "url": "https://open.spotify.com/track/2ijBcYi7FZXt7bvuVb7NQz"
     },
     {
       "added_at": "2022-09-13 12:35:27",
@@ -919,22 +919,6 @@
     {
       "added_at": "2022-09-13 12:35:27",
       "album": {
-        "name": "Lady Sings The Blues",
-        "url": "https://open.spotify.com/album/4Es5UWdUtj8CYn99AqCWPo"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 132160,
-      "name": "Too Marvelous For Words",
-      "url": "https://open.spotify.com/track/2XOXYNVmg0Mpm6WlLC0LHx"
-    },
-    {
-      "added_at": "2022-09-13 12:35:27",
-      "album": {
         "name": "Anita",
         "url": "https://open.spotify.com/album/5ytkuJciMwGDXwQeLWbHCw"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 145160,
       "name": "You're The Top",
       "url": "https://open.spotify.com/track/1RLrKHljWXVJ8cWQKd0zHn"
+    },
+    {
+      "added_at": "2022-09-13 12:35:27",
+      "album": {
+        "name": "Lady Sings The Blues",
+        "url": "https://open.spotify.com/album/4Es5UWdUtj8CYn99AqCWPo"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 132160,
+      "name": "Too Marvelous For Words",
+      "url": "https://open.spotify.com/track/2XOXYNVmg0Mpm6WlLC0LHx"
     },
     {
       "added_at": "2022-09-13 12:35:27",
@@ -1015,26 +1015,6 @@
     {
       "added_at": "2022-09-13 12:35:27",
       "album": {
-        "name": "A Musical Romance",
-        "url": "https://open.spotify.com/album/4WmDWM4jSLl3EcJ716V1cu"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        },
-        {
-          "name": "Teddy Wilson",
-          "url": "https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii"
-        }
-      ],
-      "duration_ms": 169466,
-      "name": "When You're Smiling (The Whole World Smiles with You) (with Teddy Wilson & His Orchestra) - Take 3",
-      "url": "https://open.spotify.com/track/61rbcfCY9ldEZYGCzpvfSt"
-    },
-    {
-      "added_at": "2022-09-13 12:35:27",
-      "album": {
         "name": "A Treasury Of Golden Hits",
         "url": "https://open.spotify.com/album/5mrfc7SCLpfQG5IvrBzrby"
       },
@@ -1071,6 +1051,22 @@
     {
       "added_at": "2022-09-13 12:35:27",
       "album": {
+        "name": "For Those In Love (Expanded Edition)",
+        "url": "https://open.spotify.com/album/79co4mGqrQdDK93j5ZuqH2"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 381373,
+      "name": "I Get A Kick Out Of You",
+      "url": "https://open.spotify.com/track/2nik1V49EZiLQd2XkTpR2T"
+    },
+    {
+      "added_at": "2022-09-13 12:35:27",
+      "album": {
         "name": "Quartet / Quintet / Sextet",
         "url": "https://open.spotify.com/album/2Aflwf98ECEhjpowdENj7d"
       },
@@ -1087,34 +1083,22 @@
     {
       "added_at": "2022-09-13 12:35:27",
       "album": {
-        "name": "Things Are Swingin'",
-        "url": "https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT"
+        "name": "A Musical Romance",
+        "url": "https://open.spotify.com/album/4WmDWM4jSLl3EcJ716V1cu"
       },
       "artists": [
         {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
-        }
-      ],
-      "duration_ms": 130199,
-      "name": "Ridin' High",
-      "url": "https://open.spotify.com/track/531BfkXiRcoBDqRaJWKfqT"
-    },
-    {
-      "added_at": "2022-09-13 12:35:27",
-      "album": {
-        "name": "For Those In Love (Expanded Edition)",
-        "url": "https://open.spotify.com/album/79co4mGqrQdDK93j5ZuqH2"
-      },
-      "artists": [
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        },
         {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+          "name": "Teddy Wilson",
+          "url": "https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii"
         }
       ],
-      "duration_ms": 381373,
-      "name": "I Get A Kick Out Of You",
-      "url": "https://open.spotify.com/track/2nik1V49EZiLQd2XkTpR2T"
+      "duration_ms": 169466,
+      "name": "When You're Smiling (The Whole World Smiles with You) (with Teddy Wilson & His Orchestra) - Take 3",
+      "url": "https://open.spotify.com/track/61rbcfCY9ldEZYGCzpvfSt"
     },
     {
       "added_at": "2022-09-13 12:35:27",
@@ -1171,26 +1155,6 @@
     {
       "added_at": "2022-09-13 12:35:27",
       "album": {
-        "name": "Ella And Basie",
-        "url": "https://open.spotify.com/album/752AJr22BFy9yubj4XJauv"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        },
-        {
-          "name": "Count Basie",
-          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
-        }
-      ],
-      "duration_ms": 195960,
-      "name": "Tea For Two",
-      "url": "https://open.spotify.com/track/3Li4NJba2DNAXGvjILomAN"
-    },
-    {
-      "added_at": "2022-09-13 12:35:27",
-      "album": {
         "name": "The Essential Benny Goodman",
         "url": "https://open.spotify.com/album/7ykWEOYdt8gyA4seOlwtWK"
       },
@@ -1203,6 +1167,22 @@
       "duration_ms": 152960,
       "name": "Let's Dance",
       "url": "https://open.spotify.com/track/6DjOS2PYRPQ8amyhSpdErX"
+    },
+    {
+      "added_at": "2022-09-13 12:35:27",
+      "album": {
+        "name": "Things Are Swingin'",
+        "url": "https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT"
+      },
+      "artists": [
+        {
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+        }
+      ],
+      "duration_ms": 130199,
+      "name": "Ridin' High",
+      "url": "https://open.spotify.com/track/531BfkXiRcoBDqRaJWKfqT"
     },
     {
       "added_at": "2022-09-13 12:35:27",
@@ -1255,6 +1235,22 @@
     {
       "added_at": "2022-09-13 12:35:27",
       "album": {
+        "name": "Something Wonderful",
+        "url": "https://open.spotify.com/album/7HtSgNU7pzv4zeMldVdHav"
+      },
+      "artists": [
+        {
+          "name": "Nancy Wilson",
+          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
+        }
+      ],
+      "duration_ms": 139906,
+      "name": "This Time The Dream's On Me - Remastered",
+      "url": "https://open.spotify.com/track/0lpb1PV5pCTLhpRJILti7E"
+    },
+    {
+      "added_at": "2022-09-13 12:35:27",
+      "album": {
         "name": "Ring-A-Ding-Ding! (50th Anniversary Edition)",
         "url": "https://open.spotify.com/album/1SQS7CS79nPTPosf9cgCb0"
       },
@@ -1283,22 +1279,6 @@
       "duration_ms": 266000,
       "name": "What Game Shall We Play Today",
       "url": "https://open.spotify.com/track/0mC8MfVqQ1pHGKCdfhiHye"
-    },
-    {
-      "added_at": "2022-09-13 12:35:27",
-      "album": {
-        "name": "Something Wonderful",
-        "url": "https://open.spotify.com/album/7HtSgNU7pzv4zeMldVdHav"
-      },
-      "artists": [
-        {
-          "name": "Nancy Wilson",
-          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
-        }
-      ],
-      "duration_ms": 139906,
-      "name": "This Time The Dream's On Me - Remastered",
-      "url": "https://open.spotify.com/track/0lpb1PV5pCTLhpRJILti7E"
     },
     {
       "added_at": "2022-09-13 12:35:27",
@@ -1335,26 +1315,6 @@
     {
       "added_at": "2022-09-13 12:35:27",
       "album": {
-        "name": "Ella Fitzgerald Sings The Johnny Mercer Songbook",
-        "url": "https://open.spotify.com/album/5VJsQkXJzKppUdjQCa07QX"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        },
-        {
-          "name": "Nelson Riddle",
-          "url": "https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb"
-        }
-      ],
-      "duration_ms": 151093,
-      "name": "Too Marvelous For Words",
-      "url": "https://open.spotify.com/track/4ZXPJ8Se9PUMm59rm6ohfd"
-    },
-    {
-      "added_at": "2022-09-13 12:35:27",
-      "album": {
         "name": "Brown And Roach Incorporated",
         "url": "https://open.spotify.com/album/6Wub7N4F0jXoqt66E5j2ql"
       },
@@ -1375,6 +1335,26 @@
       "duration_ms": 387000,
       "name": "Stompin' At The Savoy",
       "url": "https://open.spotify.com/track/2VaOoXFfdlrHyhORSq9H1v"
+    },
+    {
+      "added_at": "2022-09-13 12:35:27",
+      "album": {
+        "name": "Ella Fitzgerald Sings The Johnny Mercer Songbook",
+        "url": "https://open.spotify.com/album/5VJsQkXJzKppUdjQCa07QX"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Nelson Riddle",
+          "url": "https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb"
+        }
+      ],
+      "duration_ms": 151093,
+      "name": "Too Marvelous For Words",
+      "url": "https://open.spotify.com/track/4ZXPJ8Se9PUMm59rm6ohfd"
     },
     {
       "added_at": "2022-09-13 12:35:27",
@@ -1495,6 +1475,22 @@
     {
       "added_at": "2022-09-13 12:35:27",
       "album": {
+        "name": "Julie... At Home",
+        "url": "https://open.spotify.com/album/5HZ1xJmZ47Gt9sW4OJMtr0"
+      },
+      "artists": [
+        {
+          "name": "Julie London",
+          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
+        }
+      ],
+      "duration_ms": 125946,
+      "name": "Give Me The Simple Life",
+      "url": "https://open.spotify.com/track/4cndS1r6nH04gOVaRHVB8U"
+    },
+    {
+      "added_at": "2022-09-13 12:35:27",
+      "album": {
         "name": "Petite Fleur",
         "url": "https://open.spotify.com/album/0NuIQgu6wfFEQ7gyKsgnh2"
       },
@@ -1519,22 +1515,6 @@
     {
       "added_at": "2022-09-13 12:35:27",
       "album": {
-        "name": "Julie... At Home",
-        "url": "https://open.spotify.com/album/5HZ1xJmZ47Gt9sW4OJMtr0"
-      },
-      "artists": [
-        {
-          "name": "Julie London",
-          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
-        }
-      ],
-      "duration_ms": 125946,
-      "name": "Give Me The Simple Life",
-      "url": "https://open.spotify.com/track/4cndS1r6nH04gOVaRHVB8U"
-    },
-    {
-      "added_at": "2022-09-13 12:35:27",
-      "album": {
         "name": "Stardust: The Music Of Hoagy Carmichael",
         "url": "https://open.spotify.com/album/13m4PuHeRYI7FyfSGmnTiT"
       },
@@ -1551,22 +1531,6 @@
     {
       "added_at": "2022-09-13 12:35:27",
       "album": {
-        "name": "Whisper For You",
-        "url": "https://open.spotify.com/album/6bF3D6lN2SkAH0ZGaWccd7"
-      },
-      "artists": [
-        {
-          "name": "BLOSSOM DEARIE",
-          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
-        }
-      ],
-      "duration_ms": 146173,
-      "name": "Between The Devil And The Deep Blue Sea",
-      "url": "https://open.spotify.com/track/6INVoNpTuZ2Uqi588Y5Fi2"
-    },
-    {
-      "added_at": "2022-09-13 12:35:27",
-      "album": {
         "name": "The Complete Dinah Washington On Mercury, Vol.4 (1954-1956)",
         "url": "https://open.spotify.com/album/7MpI5x3ALFKVNTO0OZ7NfB"
       },
@@ -1579,6 +1543,22 @@
       "duration_ms": 164000,
       "name": "Wishing Well",
       "url": "https://open.spotify.com/track/3Wfs3Gz0mKCkQY318FcUjG"
+    },
+    {
+      "added_at": "2022-09-13 12:35:27",
+      "album": {
+        "name": "Whisper For You",
+        "url": "https://open.spotify.com/album/6bF3D6lN2SkAH0ZGaWccd7"
+      },
+      "artists": [
+        {
+          "name": "BLOSSOM DEARIE",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+        }
+      ],
+      "duration_ms": 146173,
+      "name": "Between The Devil And The Deep Blue Sea",
+      "url": "https://open.spotify.com/track/6INVoNpTuZ2Uqi588Y5Fi2"
     },
     {
       "added_at": "2022-09-13 12:35:27",
@@ -1687,6 +1667,22 @@
       "duration_ms": 167853,
       "name": "Happy Little Sunbeam",
       "url": "https://open.spotify.com/track/2ffSVIHPaQaHCDxkXXnJDn"
+    },
+    {
+      "added_at": "2022-09-13 12:35:27",
+      "album": {
+        "name": "Dinah '62",
+        "url": "https://open.spotify.com/album/2k6aNn1NaZPqko2mOtCZwu"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Destination Moon - 1997 Remaster",
+      "url": "https://open.spotify.com/track/0pkIyrSYE0BRpw4nNsBlmq"
     },
     {
       "added_at": "2022-09-13 12:35:27",

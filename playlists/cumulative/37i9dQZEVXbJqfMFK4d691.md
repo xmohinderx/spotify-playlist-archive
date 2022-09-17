@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Bolivia.
 
-354 songs - 20 hr 2 min - [published](https://open.spotify.com/playlist/6wKb6lZkewpScjRRlWsOPZ)
+355 songs - 20 hr 6 min - [published](https://open.spotify.com/playlist/6wKb6lZkewpScjRRlWsOPZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,6 +250,7 @@
 | [Pareja Del Año](https://open.spotify.com/track/655JkvIwu2rDCaD1hPf04g) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Dharma](https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8) | 3:15 | 2022-01-29 | 2022-09-04 |
 | [París](https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [París](https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD) | 2:31 | 2021-07-17 | 2022-02-13 |
 | [Party](https://open.spotify.com/track/4tYFy8ALRjIZvnvSLw5lxN) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:47 | 2022-05-07 |  |
+| [Party en el Barrio \(feat\. Duki\)](https://open.spotify.com/track/5GF0X7GdNmnouKcdhhRmtm) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Party en el Barrio \(feat\. Duki\)](https://open.spotify.com/album/2alxO71ik8lO8YIuNT2LKn) | 3:56 | 2022-09-16 |  |
 | [París](https://open.spotify.com/track/3ehHqgYRzmeUi345MfHS2N) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [París](https://open.spotify.com/album/2dhk2kLdjVxWps1PW9WSTj) | 3:02 | 2022-05-22 | 2022-07-17 |
 | [París](https://open.spotify.com/track/4QOvBEPji1o8Wku7C1VwYQ) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Canta con MORAT](https://open.spotify.com/album/2TEOH1JrVdntMuZpomaC1d) | 3:02 | 2022-07-16 | 2022-07-19 |
 | [PASATIEMPO](https://open.spotify.com/track/3qUdysxsu5FDvOl7nR5vln) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 3:24 | 2022-03-26 | 2022-03-28 |
@@ -311,7 +312,7 @@
 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [F\*CK LOVE 3: OVER YOU](https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2) | 2:21 | 2021-08-04 | 2022-01-31 |
 | [Stay Alive \(Prod\. SUGA of BTS\)](https://open.spotify.com/track/7CAdT0HdiQNlt1C7xk2hep) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Stay Alive \(Prod\. SUGA of BTS\)](https://open.spotify.com/album/6nvSZLAsbg56fGSCVm8fL9) | 3:30 | 2022-02-12 | 2022-02-27 |
 | [Tacones Rojos](https://open.spotify.com/track/0Be7sopyKMv8Y8npsUkax2) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Tacones Rojos](https://open.spotify.com/album/4mdWMx4VouAqsIqgLt3R6S) | 3:09 | 2021-10-23 | 2022-01-30 |
-| [Tacones Rojos](https://open.spotify.com/track/6ylDpki1VpIsc525KC1ojF) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Dharma](https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8) | 3:09 | 2022-01-29 |  |
+| [Tacones Rojos](https://open.spotify.com/track/6ylDpki1VpIsc525KC1ojF) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Dharma](https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8) | 3:09 | 2022-01-29 | 2022-09-17 |
 | [Tal Vez](https://open.spotify.com/track/5jW3rF4URMdK7tO2xjS5EI) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Homerun](https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn) | 4:23 | 2022-03-25 | 2022-04-11 |
 | [Tarot](https://open.spotify.com/track/41oY4WCTj5kccfesTVFnvN) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:57 | 2022-05-07 |  |
 | [Tattoo \- Remix with Camilo](https://open.spotify.com/track/4G3PTss3mU33Tau7t4KbwE) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Afrodisíaco](https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v) | 3:42 | 2021-03-27\* | 2021-04-26 |

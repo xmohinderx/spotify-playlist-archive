@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZufbpO1g3tw.md) - [plain]
 
 > ¡Trompetas, piano y timbal para darle sazón a tu mediodía!
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,511 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,522 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZufbpO1g3tw.md) - [plain]
 | 24 | [Nariz Con Raíz](https://open.spotify.com/track/5ijJhZPMHeDljcpmgC2lLp) | [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [TEMPLO KOMODO](https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA) | 5:10 |
 | 25 | [Para Elisa](https://open.spotify.com/track/6t6QEaiKAXtVOORoNbGR9O) | [Los Destellos](https://open.spotify.com/artist/2xfdrsA1TWrKlaEfQQbbmf) | [En Orbita](https://open.spotify.com/album/0jzpJgWjBGLxQsGbwKT7TB) | 2:49 |
 | 26 | [Chucusteady](https://open.spotify.com/track/1mUPcRmSmi2XsKAOWFKAF1) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6), [Mad Professor](https://open.spotify.com/artist/3hbnUwHvxyFxeJ9veCzOE7) | [Frente Cumbiero Meets Mad Professor](https://open.spotify.com/album/1dnal49FIWH19CsWYjYMOV) | 4:23 |
-| 27 | [Samba del Arenal](https://open.spotify.com/track/4etH0m0htL9X8uHEWRIsIx) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [Cinemar](https://open.spotify.com/artist/2t96uQP8to5GTqfwPJ9T37) | [Samba del Arenal](https://open.spotify.com/album/6ZCVkOvf6wk9h5KLNs21Fk) | 4:13 |
-| 28 | [Cumbia Sobre el Mar](https://open.spotify.com/track/0xi0Z6QaaoeHWPahfTiISG) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Flowering Inferno](https://open.spotify.com/artist/2JLqcc3mwS4Xf7xZuYwK0p) | [Dog With a Rope](https://open.spotify.com/album/1DKfTnMLIUo2yXXSrfwVNH) | 6:17 |
+| 27 | [Cumbia Sobre el Mar](https://open.spotify.com/track/0xi0Z6QaaoeHWPahfTiISG) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Flowering Inferno](https://open.spotify.com/artist/2JLqcc3mwS4Xf7xZuYwK0p) | [Dog With a Rope](https://open.spotify.com/album/1DKfTnMLIUo2yXXSrfwVNH) | 6:17 |
+| 28 | [Samba del Arenal](https://open.spotify.com/track/4etH0m0htL9X8uHEWRIsIx) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [Cinemar](https://open.spotify.com/artist/2t96uQP8to5GTqfwPJ9T37) | [Samba del Arenal](https://open.spotify.com/album/6ZCVkOvf6wk9h5KLNs21Fk) | 4:13 |
 | 29 | [Atómico](https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw) | [Jungle Fire](https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby) | [Jungle Fire](https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7) | 3:49 |
 | 30 | [Babalu](https://open.spotify.com/track/1B6eTnzTdnL1FH94eRT5pQ) | [Ska Cubano](https://open.spotify.com/artist/6lmoqMxughzdlxvQTsUXjF) | [Ska Cubano](https://open.spotify.com/album/1Sry0mamK4yz2Khmmtm1DA) | 4:31 |
 | 31 | [Dónde Va Chichi?](https://open.spotify.com/track/7xpJQcmsnGG9ojztoCNe54) | [Sierra Maestra](https://open.spotify.com/artist/04azg2bFlSz46nOe03VY2w) | [Tibiri Tabara](https://open.spotify.com/album/22HGndY6yvYJbtySZCkHt4) | 5:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZufbpO1g3tw.md) - [plain]
 | 49 | [Salsa Caliente \(Versión Aumentada\)](https://open.spotify.com/track/3qMRDghhgm2V3be7a3yxnn) | [Meridian Brothers](https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow) | [Desesperanza](https://open.spotify.com/album/5Kz98hHeSt1Qokhc6rZd83) | 4:43 |
 | 50 | [Lazalypso](https://open.spotify.com/track/73nwZubj4lYdp7MfDZO47a) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh) | [Baile Bucanero](https://open.spotify.com/album/1jBC2RT7oXRkOqHrfoZCI3) | 3:33 |
 
-Snapshot ID: `MTY1MDQzMDgwMCwwMDAwMDAwMGUyNGUzZGI2MmY2NTFlNjBhOWIwN2RhODNjMDViMDEw`
+Snapshot ID: `MTY1MDQzMDgwMCwwMDAwMDAwMDdlNGU4NDM4NTU1MmIyYjY5NDY0MWFjZTU5ODQ5NjAw`

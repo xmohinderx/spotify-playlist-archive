@@ -4,7 +4,7 @@
 
 > This is Megadeth\. The essential tracks, all in one playlist.
 
-80 songs - 5 hr 49 min - [published](https://open.spotify.com/playlist/141W4WWrwkoW2aNnv9xRdi)
+81 songs - 5 hr 54 min - [published](https://open.spotify.com/playlist/141W4WWrwkoW2aNnv9xRdi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Conquer Or Die](https://open.spotify.com/track/1xdmx0UEYQE5Wl7D7UUt5U) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Dystopia](https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV) | 3:33 | 2022-05-30 |  |
 | [Countdown To Extinction](https://open.spotify.com/track/1Mt6BsusgJJln2FMyGFLg1) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Countdown To Extinction](https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e) | 4:19 | 2022-05-30 |  |
 | [Crush 'Em \- Remastered](https://open.spotify.com/track/6q1aLwkZm2f36t1yr9JMVn) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Risk \(Remastered\)](https://open.spotify.com/album/0iI53eVNLCjdlfcdngAUyH) | 4:54 | 2022-05-30 | 2022-09-09 |
-| [Célebutante](https://open.spotify.com/track/721NPizRZdbG2h06au80UA) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [The Sick, The Dying… And The Dead!](https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC) | 3:51 | 2022-09-10 | 2022-09-16 |
+| [Célebutante](https://open.spotify.com/track/721NPizRZdbG2h06au80UA) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [The Sick, The Dying… And The Dead!](https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC) | 3:51 | 2022-09-10 |  |
 | [Death From Within](https://open.spotify.com/track/7IcKHPLfhvdfSBYTPMAbga) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Dystopia](https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV) | 4:47 | 2022-06-02 | 2022-08-30 |
 | [Devils Island \- Remastered](https://open.spotify.com/track/009aJqwtazpcpmOW3YbwDx) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Peace Sells...But Who's Buying?](https://open.spotify.com/album/4U8ZF5zDIRy4lBnnXBN2uO) | 5:05 | 2022-05-30 |  |
 | [Dialectic Chaos](https://open.spotify.com/track/2Sl9U6mLbNeaE9lT9C32Td) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [ENDGAME](https://open.spotify.com/album/0G5qC48D3MI8YBKTVwIiz1) | 2:25 | 2022-05-30 | 2022-09-07 |
@@ -40,10 +40,10 @@
 | [I Ain't Superstitious \- Remastered](https://open.spotify.com/track/43gM0PIvpgqv19nFZWRlN3) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Peace Sells...But Who's Buying?](https://open.spotify.com/album/4U8ZF5zDIRy4lBnnXBN2uO) | 2:45 | 2022-06-12 | 2022-08-11 |
 | [In My Darkest Hour \- Remastered](https://open.spotify.com/track/5LO0sJCkNMZYLYeGOvblLu) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [So Far, So Good...So What! \(2004 Remaster\)](https://open.spotify.com/album/5f4vbRLrRmoDH0zpdQnyrE) | 6:26 | 2022-05-30 |  |
 | [Into The Lungs Of Hell \- Remastered](https://open.spotify.com/track/7hriWWyB26C1mgdnn6pbgm) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [So Far, So Good...So What! \(2004 Remaster\)](https://open.spotify.com/album/5f4vbRLrRmoDH0zpdQnyrE) | 3:22 | 2022-06-01 | 2022-09-05 |
-| [Junkie](https://open.spotify.com/track/6yLhhkZNfyG2xCBFXLoE2i) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [The Sick, The Dying… And The Dead!](https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC) | 3:39 | 2022-09-04 |  |
+| [Junkie](https://open.spotify.com/track/6yLhhkZNfyG2xCBFXLoE2i) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [The Sick, The Dying… And The Dead!](https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC) | 3:39 | 2022-09-04 | 2022-09-17 |
 | [Kill The King](https://open.spotify.com/track/3S9DHHYpM6KW1oqvrN8Lix) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Warchest](https://open.spotify.com/album/0hjcoB3dyY4BNonhEqdoRq) | 3:44 | 2022-09-15 |  |
 | [Killing Is My Business...And Business Is Good!](https://open.spotify.com/track/7ouSZGlGdhFjgbQpB7TZ1m) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Killing Is My Business...And Business Is Good!](https://open.spotify.com/album/0TFQuO4m3XR5pTJCFS88Qk) | 3:07 | 2022-05-30 |  |
-| [Killing Time](https://open.spotify.com/track/5Y15AQnjSQwX5790ZP8OJm) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [The Sick, The Dying… And The Dead!](https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC) | 5:12 | 2022-09-03 |  |
+| [Killing Time](https://open.spotify.com/track/5Y15AQnjSQwX5790ZP8OJm) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [The Sick, The Dying… And The Dead!](https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC) | 5:12 | 2022-09-03 | 2022-09-17 |
 | [Last Rites / Loved to Deth](https://open.spotify.com/track/4uAcTDOyAy9T0T5Yw2Z3CC) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf), [Bill Kennedy](https://open.spotify.com/artist/5Dm0dq1qSRHVJebBc3w7x8) | [Killing Is My Business...And Business Is Good!](https://open.spotify.com/album/0TFQuO4m3XR5pTJCFS88Qk) | 4:41 | 2022-05-30 |  |
 | [Liar \- Remastered](https://open.spotify.com/track/5JFaPs5z9eQgj9zqQB8wGQ) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [So Far, So Good...So What! \(2004 Remaster\)](https://open.spotify.com/album/5f4vbRLrRmoDH0zpdQnyrE) | 3:20 | 2022-07-02 | 2022-09-03 |
 | [Life In Hell](https://open.spotify.com/track/1wObJxo4kYisj7tot8PVvT) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [The Sick, The Dying… And The Dead!](https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC) | 4:12 | 2022-09-03 |  |
@@ -68,6 +68,7 @@
 | [Set The World Afire \- Remastered](https://open.spotify.com/track/2TLNPA3qCpcVor2cuMZ3RA) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [So Far, So Good...So What! \(2004 Remaster\)](https://open.spotify.com/album/5f4vbRLrRmoDH0zpdQnyrE) | 5:48 | 2022-05-30 |  |
 | [She\-Wolf \- Remastered 2004 / Remixed](https://open.spotify.com/track/5MhNgheI9IjDxQS5XQ3Ojo) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Cryptic Writings \(Remastered 2004 / Remixed / Expanded Edition\)](https://open.spotify.com/album/208z3e7R5PgavBMdEZQcvL) | 3:37 | 2022-05-30 |  |
 | [Skin O' My Teeth \- Remastered](https://open.spotify.com/track/7EFho37SrizYaQ2NVxLejd) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Countdown To Extinction](https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e) | 3:15 | 2022-05-30 |  |
+| [Soldier On!](https://open.spotify.com/track/4jj9IDO2tCu7OuSop8vTxt) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [The Sick, The Dying… And The Dead!](https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC) | 4:54 | 2022-09-16 |  |
 | [Soldier On!](https://open.spotify.com/track/7spRyvnK00GrJ3f4iJrkvt) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Soldier On! / Night Stalkers / We’ll Be Back](https://open.spotify.com/album/2qS54pyHeqvTvzdWAo91rv) | 4:54 | 2022-08-13 | 2022-09-15 |
 | [Sudden Death](https://open.spotify.com/track/2DbEz7cLYTUu48o5D6iCP4) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Th1rt3en](https://open.spotify.com/album/7CnEVIOvZSfTF2srdqjxay) | 5:09 | 2022-05-30 |  |
 | [Sweating Bullets \- Remastered 2004](https://open.spotify.com/track/6i7IXg8j7ZngiEOgBYjkhw) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Countdown To Extinction](https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e) | 5:27 | 2022-05-30 |  |

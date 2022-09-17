@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0URqd6gYywe.md) - [plain]
 
 > Dejate llevar por los mejores lentos del rock\. Foto: Babasónicos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,121 likes - 75 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,199 likes - 75 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0URqd6gYywe.md) - [plain]
 | 23 | [Juntos a la Par](https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc) | [Pappo](https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2) | [Buscando un Amor](https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw) | 2:41 |
 | 24 | [Campanas en la Noche](https://open.spotify.com/track/0C9V5jMElp7laZZdsCHufD) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt) | [Armando Camaleón](https://open.spotify.com/album/1d8IGsUrIw7cXqFcwUM5pP) | 3:57 |
 | 25 | [Será](https://open.spotify.com/track/60IzIxSuVAtU71yCmHjxHH) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Esperando el Milagro](https://open.spotify.com/album/7nXlmH0p6PfgKTsxy3DzCT) | 3:01 |
-| 26 | [Veneno](https://open.spotify.com/track/3qSsdVel7dNcpW4khZejHa) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Despedazado Por Mil Partes](https://open.spotify.com/album/0eH6ICTcUbNqjplgRISQEg) | 4:08 |
-| 27 | [Esa Estrella Era Mi Lujo](https://open.spotify.com/track/5exsngywf8qMS6f00gKVWY) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [¡Bang! ¡Bang!..\. Estás Liquidado](https://open.spotify.com/album/07hue2DRapyJHxGJBROTYb) | 2:56 |
+| 26 | [Esa Estrella Era Mi Lujo](https://open.spotify.com/track/5exsngywf8qMS6f00gKVWY) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [¡Bang! ¡Bang!..\. Estás Liquidado](https://open.spotify.com/album/07hue2DRapyJHxGJBROTYb) | 2:56 |
+| 27 | [Veneno](https://open.spotify.com/track/3qSsdVel7dNcpW4khZejHa) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Despedazado Por Mil Partes](https://open.spotify.com/album/0eH6ICTcUbNqjplgRISQEg) | 4:08 |
 | 28 | [La Soledad](https://open.spotify.com/track/56mbNpJVn5WQhOlsOvb2A0) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [La Argentinidad Al Palo](https://open.spotify.com/album/2jc4dbkhewS896fajyR7hZ) | 4:23 |
 | 29 | [Me Quedo Aquí](https://open.spotify.com/track/6lUBD8XA38zIFt6C0giPsP) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Ahí Vamos](https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP) | 3:37 |
 | 30 | [Bajan](https://open.spotify.com/track/6hmYi0E6EBEmDeztQHaH0C) | [Pescado Rabioso](https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9) | [Artaud](https://open.spotify.com/album/5MJR9j21vjEi4ODxzhvoTA) | 3:24 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0URqd6gYywe.md) - [plain]
 | 74 | [Cielo Todo Gris](https://open.spotify.com/track/5kDOkt2XCum4V4mlITOX7u) | [La Triple Nelson](https://open.spotify.com/artist/1vs5Ejn8M22dZKl4oLcvgM), [Emiliano Brancciari](https://open.spotify.com/artist/6Xdjhy4MawcCmBq5MYM5N8) | [La Sed](https://open.spotify.com/album/5bOQcSrMniUTGZq4Np1zjT) | 3:39 |
 | 75 | [Y Quemás](https://open.spotify.com/track/499kpq8yWHsIWhWrM0Wk6v) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Azul](https://open.spotify.com/album/0ryyNNi9K5iLu7v4uQSJ4c) | 4:52 |
 
-Snapshot ID: `MTY1NzEzNjcxMiwwMDAwMDAwMDMyN2U1MGU3NTA0ZjJkM2U3NDMwMzI4OTExMWNmOTBi`
+Snapshot ID: `MTY1NzEzNjcxMiwwMDAwMDAwMDk4YjIxNTg2ZjMwNTUwMDYzMmI2YzUxODM0NzkwYzM0`

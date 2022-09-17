@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 
 > De réu a ref \- o filho deles quer viver essa vida\. Foto: Nochica, Vitin, SD9, JEFFRO
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,939 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,989 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 | 4 | [Mais Que Isso](https://open.spotify.com/track/7cwOSjgr1DexGiCOeO4mAK) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Mais Que Isso](https://open.spotify.com/album/1K7HUVEUPfDuai2PY91Hfa) | 2:42 |
 | 5 | [Faixa Preta](https://open.spotify.com/track/15mfSyeqvnqu8HThdlGjg3) | [Yung Nobre](https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB), [Martelin](https://open.spotify.com/artist/1qYCFTfaAPk15UPO93sStr), [Puterrier](https://open.spotify.com/artist/0zbO4WWM2wJM3ulFmCbMwB) | [Faixa Preta](https://open.spotify.com/album/0XxLomO3lIEIFrEe0lTVtH) | 2:49 |
 | 6 | [Nós é Ruim e o Cabelo Ajuda](https://open.spotify.com/track/0WGiVPRKaQHsBVk21nV05K) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Nós é Ruim e o Cabelo Ajuda](https://open.spotify.com/album/2AgCmiFrUKSt5e9BplxhSY) | 2:35 |
-| 7 | [Como É Que Tá?](https://open.spotify.com/track/64bJ83px2Htf20Eo3n9trz) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k) | [Troféu](https://open.spotify.com/album/5M274S1cUS8suxN7aD4hvp) | 2:19 |
-| 8 | [12](https://open.spotify.com/track/0o0wW2KjzK3Cg3RM29lCbI) | [DEGE](https://open.spotify.com/artist/3lrVtMWQakf49Evasc4FFW), [Pedrin](https://open.spotify.com/artist/7nhTCM7Tuu7NRQZsmpBIBg), [jess beats](https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD) | [12](https://open.spotify.com/album/68m25Mk20x1Ux9gd9QSoPb) | 2:00 |
+| 7 | [12](https://open.spotify.com/track/0o0wW2KjzK3Cg3RM29lCbI) | [DEGE](https://open.spotify.com/artist/3lrVtMWQakf49Evasc4FFW), [Pedrin](https://open.spotify.com/artist/7nhTCM7Tuu7NRQZsmpBIBg), [jess beats](https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD) | [12](https://open.spotify.com/album/68m25Mk20x1Ux9gd9QSoPb) | 2:00 |
+| 8 | [Como É Que Tá?](https://open.spotify.com/track/64bJ83px2Htf20Eo3n9trz) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k) | [Troféu](https://open.spotify.com/album/5M274S1cUS8suxN7aD4hvp) | 2:19 |
 | 9 | [Dia de Baile](https://open.spotify.com/track/3dYN651z0KSUQnC0fxCKWN) | [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Massaru](https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU) | [Rock Danger, Vol\. 1](https://open.spotify.com/album/10NgAPEXrO27p2uhmuZgyu) | 2:58 |
 | 10 | [Os Pitbull do Ano, Pt\. 2](https://open.spotify.com/track/2WLjFfNF7aIdTk6SVVo6NR) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Baviera](https://open.spotify.com/artist/6cUTkFvlPW27lYc3qcoOgy), [KOPO](https://open.spotify.com/artist/3vSHkuSE00R9QBkm5SByaA) | [Os Pitbull do Ano, Pt\. 2](https://open.spotify.com/album/6dI7q22ZoKPIzWuWDVoawl) | 3:27 |
 | 11 | [Lembro](https://open.spotify.com/track/7mXmhgvonsRxbKp6Sp2SIZ) | [Thxuzz](https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q) | [Lembro](https://open.spotify.com/album/7eKlRGjlczwo6038CxZfeT) | 2:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 | 49 | [Quebrando Regras](https://open.spotify.com/track/1khFaNabDuHN814N0ww0Mj) | [Xandy MC](https://open.spotify.com/artist/5oQnCQtwReXr4ai56qGWMC), [Chris Beats Zn](https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW) | [Quebrando Regras](https://open.spotify.com/album/24kyFBNUZsYmm19GISzgoW) | 2:26 |
 | 50 | [Riqueza](https://open.spotify.com/track/3YfHTvRU8S08RL3UWUEiEr) | [Dendê](https://open.spotify.com/artist/306dURz1s90QIIZaVusODl), [Vinão Beats](https://open.spotify.com/artist/6z3MdWWG4r2vJivLpHV9WH) | [Riqueza](https://open.spotify.com/album/0ReYt8t0Bttf1Y6dDnimjs) | 2:20 |
 
-Snapshot ID: `MTY2MjY5MjQ2MCwwMDAwMDAwMDhkNzJlNzk2NzUyYTBiMzk1ZTE5M2Y3N2MzYTA0YWNl`
+Snapshot ID: `MTY2MjY5MjQ2MCwwMDAwMDAwMGViZDE5NTA1ZWIzZThlMzRiNWViMzdmMWFlNWFmODVj`

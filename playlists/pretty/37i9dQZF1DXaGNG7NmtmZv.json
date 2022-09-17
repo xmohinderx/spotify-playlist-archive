@@ -1,12 +1,12 @@
 {
   "description": "Classic songs from the legends of the hardcore scene.",
-  "num_followers": 165382,
+  "num_followers": 165456,
   "original_name": "Classic Hardcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNzQ0MDMzMSwwMDAwMDAwMGE1NzAxMDI5NmU0MTcwMmUyMTAyNzEzODlhZmUzNjE5",
+  "snapshot_id": "MTYwNzQ0MDMzMSwwMDAwMDAwMGM2NjMwYWUzNTYwNzU4OWUzODQwNWU1YTU5ODczZjFk",
   "tracks": [
     {
       "added_at": "2020-12-08 15:12:11",
@@ -251,22 +251,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Voice of Rebellion",
-        "url": "https://open.spotify.com/album/51TN24k8XMS8vQ98aUshFR"
-      },
-      "artists": [
-        {
-          "name": "Pro-Pain",
-          "url": "https://open.spotify.com/artist/56F64pmwSSCcmS1CxAnPk8"
-        }
-      ],
-      "duration_ms": 241343,
-      "name": "Voice of Rebellion",
-      "url": "https://open.spotify.com/track/2BNshqUpO2WSXRpp3lP37y"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "Check Your People",
         "url": "https://open.spotify.com/album/0kFn5JKSC76NteLv33NyVe"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 153173,
       "name": "Pure Trauma",
       "url": "https://open.spotify.com/track/7FpFV1oQhhZm6Vyj7K5FcS"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "Voice of Rebellion",
+        "url": "https://open.spotify.com/album/51TN24k8XMS8vQ98aUshFR"
+      },
+      "artists": [
+        {
+          "name": "Pro-Pain",
+          "url": "https://open.spotify.com/artist/56F64pmwSSCcmS1CxAnPk8"
+        }
+      ],
+      "duration_ms": 241343,
+      "name": "Voice of Rebellion",
+      "url": "https://open.spotify.com/track/2BNshqUpO2WSXRpp3lP37y"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -315,22 +315,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Cognicide",
-        "url": "https://open.spotify.com/album/1GQrz6GLWJ9WNijMQH4MzH"
-      },
-      "artists": [
-        {
-          "name": "Western Addiction",
-          "url": "https://open.spotify.com/artist/7xnD2Codf7FyLxsqPh8CIA"
-        }
-      ],
-      "duration_ms": 97266,
-      "name": "Mailer, Meet Jim",
-      "url": "https://open.spotify.com/track/0jxUbJ6Yoj74NqXuOTkI6a"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "What Doesn't Kill You Will Make You Stronger",
         "url": "https://open.spotify.com/album/4TOosWzdrqh1WxHkRbvxMZ"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 196720,
       "name": "Blood",
       "url": "https://open.spotify.com/track/0ai9xvb85BylFJ9JP2ogxe"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "Cognicide",
+        "url": "https://open.spotify.com/album/1GQrz6GLWJ9WNijMQH4MzH"
+      },
+      "artists": [
+        {
+          "name": "Western Addiction",
+          "url": "https://open.spotify.com/artist/7xnD2Codf7FyLxsqPh8CIA"
+        }
+      ],
+      "duration_ms": 97266,
+      "name": "Mailer, Meet Jim",
+      "url": "https://open.spotify.com/track/0jxUbJ6Yoj74NqXuOTkI6a"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -443,22 +443,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Bulldog Edition",
-        "url": "https://open.spotify.com/album/6Q1Y7gyccEvxvYl698G2iy"
-      },
-      "artists": [
-        {
-          "name": "Sheer Terror",
-          "url": "https://open.spotify.com/artist/2AFPWhrVDLjiVNMpbou4jU"
-        }
-      ],
-      "duration_ms": 104600,
-      "name": "Just Can't Hate Enough",
-      "url": "https://open.spotify.com/track/1qrzQuZ0CegX3PQtrsek7R"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "For Those Who Were Crucified",
         "url": "https://open.spotify.com/album/5N0Ufg2dKqaXwwdNnbID7m"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 116173,
       "name": "Burning Season",
       "url": "https://open.spotify.com/track/5h55QONg24me5Vw4JMYlaJ"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "Bulldog Edition",
+        "url": "https://open.spotify.com/album/6Q1Y7gyccEvxvYl698G2iy"
+      },
+      "artists": [
+        {
+          "name": "Sheer Terror",
+          "url": "https://open.spotify.com/artist/2AFPWhrVDLjiVNMpbou4jU"
+        }
+      ],
+      "duration_ms": 104600,
+      "name": "Just Can't Hate Enough",
+      "url": "https://open.spotify.com/track/1qrzQuZ0CegX3PQtrsek7R"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -747,22 +747,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Dedication",
-        "url": "https://open.spotify.com/album/5snErIyF82CrqTpnvLQ32G"
-      },
-      "artists": [
-        {
-          "name": "Raised Fist",
-          "url": "https://open.spotify.com/artist/7ik758oYwkKmQtbZtAdOOm"
-        }
-      ],
-      "duration_ms": 210626,
-      "name": "Get This Right!",
-      "url": "https://open.spotify.com/track/7y952AaC6SYiWlNwuC3Rfv"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "Merciless",
         "url": "https://open.spotify.com/album/6JmRIhTDgoZG1fy8UahchU"
       },
@@ -779,18 +763,18 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Proud To Be",
-        "url": "https://open.spotify.com/album/7LgklKSetpWGxBnFHwHP1P"
+        "name": "Dedication",
+        "url": "https://open.spotify.com/album/5snErIyF82CrqTpnvLQ32G"
       },
       "artists": [
         {
-          "name": "DFL",
-          "url": "https://open.spotify.com/artist/6y4bvr8bJvqFuOzG6FcABb"
+          "name": "Raised Fist",
+          "url": "https://open.spotify.com/artist/7ik758oYwkKmQtbZtAdOOm"
         }
       ],
-      "duration_ms": 85800,
-      "name": "Proud To Be DFL",
-      "url": "https://open.spotify.com/track/4cOG1ei21V0EsLRM0lFeL0"
+      "duration_ms": 210626,
+      "name": "Get This Right!",
+      "url": "https://open.spotify.com/track/7y952AaC6SYiWlNwuC3Rfv"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -807,6 +791,22 @@
       "duration_ms": 238333,
       "name": "Let's Pretend",
       "url": "https://open.spotify.com/track/2fnHEggVPhncefeyheMsfw"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "Proud To Be",
+        "url": "https://open.spotify.com/album/7LgklKSetpWGxBnFHwHP1P"
+      },
+      "artists": [
+        {
+          "name": "DFL",
+          "url": "https://open.spotify.com/artist/6y4bvr8bJvqFuOzG6FcABb"
+        }
+      ],
+      "duration_ms": 85800,
+      "name": "Proud To Be DFL",
+      "url": "https://open.spotify.com/track/4cOG1ei21V0EsLRM0lFeL0"
     }
   ],
   "unique_name": "Classic Hardcore",

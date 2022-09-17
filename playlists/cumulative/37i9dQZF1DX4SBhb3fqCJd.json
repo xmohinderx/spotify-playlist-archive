@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The pulse of R&B music today.  Cover: Ari Lennox",
+  "description": "The pulse of R&B music today.  Cover: Kiana Led\u00e9",
   "name": "Are & Be",
   "published_playlist_ids": [
     "5zrlCMCGUGIh9pkJp17t53"
@@ -195,6 +195,24 @@
       "duration_ms": 216000,
       "name": "Bad Idea (feat. Blxst)",
       "url": "https://open.spotify.com/track/0igni3l2TL5YMWiTa2b1Qb"
+    },
+    {
+      "album": {
+        "name": "Bad To Me",
+        "url": "https://open.spotify.com/album/15hz0gTEdD5H9taOgDdrfJ"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176850,
+      "name": "Bad To Me",
+      "url": "https://open.spotify.com/track/2pUlBBWq8R10ylbBvZJV9j"
     },
     {
       "album": {
@@ -411,7 +429,7 @@
           "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         },
         {
-          "name": "WizKid",
+          "name": "Wizkid",
           "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
@@ -457,7 +475,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 196641,
       "name": "Cartier",
       "url": "https://open.spotify.com/track/1A07u1T45HV84tT33UpVSB"
@@ -730,6 +748,24 @@
     },
     {
       "album": {
+        "name": "Starboy",
+        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260253,
+      "name": "Die For You",
+      "url": "https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/28wKxlJocWCrrxUgYC2zEQ"
       },
@@ -993,7 +1029,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 153724,
       "name": "Fake Love In LA",
       "url": "https://open.spotify.com/track/3JpStMOHR7ypvk1TvkF3sg"
@@ -1106,6 +1142,28 @@
     },
     {
       "album": {
+        "name": "YESSIE",
+        "url": "https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223160,
+      "name": "FOREVER (with 6LACK)",
+      "url": "https://open.spotify.com/track/2lVYLiHGIX6GajMqYXF1Un"
+    },
+    {
+      "album": {
         "name": "Found (feat. Brent Faiyaz)",
         "url": "https://open.spotify.com/album/6nuNgD841boUffjDiI8et4"
       },
@@ -1179,6 +1237,28 @@
       "duration_ms": 196656,
       "name": "FWM",
       "url": "https://open.spotify.com/track/7aJwamBFV2pjHTXUnlDgZb"
+    },
+    {
+      "album": {
+        "name": "Game Over (with Queen Naija)",
+        "url": "https://open.spotify.com/album/6UtOcqphciSIZPqkl66UqR"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        },
+        {
+          "name": "Queen Naija",
+          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208777,
+      "name": "Game Over (with Queen Naija)",
+      "url": "https://open.spotify.com/track/1l6NtBAh7CHmV4OY4PZZs8"
     },
     {
       "album": {
@@ -1804,6 +1884,24 @@
     },
     {
       "album": {
+        "name": "Irresponsible",
+        "url": "https://open.spotify.com/album/5Mv9dyRbKf8x90M86mibc0"
+      },
+      "artists": [
+        {
+          "name": "Kiana Led\u00e9",
+          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192545,
+      "name": "Irresponsible",
+      "url": "https://open.spotify.com/track/3PIDY9vzQP6U8OLTYlcA50"
+    },
+    {
+      "album": {
         "name": "Dawn FM",
         "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
       },
@@ -2123,7 +2221,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 226011,
       "name": "LOOSE CHANGE",
       "url": "https://open.spotify.com/track/00imgaPlYRrMGn9o83hfmk"
@@ -2255,7 +2353,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 314424,
       "name": "Make Me Say It Again, Girl",
       "url": "https://open.spotify.com/track/4hv0hmUjhAqvAPGCHP4EaE"
@@ -2353,7 +2451,7 @@
       ],
       "date_added": "2022-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 174175,
       "name": "Mine",
       "url": "https://open.spotify.com/track/7opxatMp7hibegdRc3Vnid"
@@ -3719,6 +3817,28 @@
       "duration_ms": 207880,
       "name": "wish that i could",
       "url": "https://open.spotify.com/track/5w4q9Es264UdYYr2AjnPhU"
+    },
+    {
+      "album": {
+        "name": "Xtasy (Remix) [feat. Doechii]",
+        "url": "https://open.spotify.com/album/4Wofyf34UgjYpqwPAELW7n"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        },
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270497,
+      "name": "Xtasy (Remix) [feat. Doechii]",
+      "url": "https://open.spotify.com/track/610faOY46uYOBi3KXazpSj"
     },
     {
       "album": {

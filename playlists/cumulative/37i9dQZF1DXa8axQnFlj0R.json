@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Favourite Worst Nightmare (Standard Version)",
+        "url": "https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253586,
+      "name": "505",
+      "url": "https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS"
+    },
+    {
+      "album": {
         "name": "Do You Love Me, or Are You Just Lonely?",
         "url": "https://open.spotify.com/album/28B3NkA4cyPjPH0EJJTsN3"
       },
@@ -109,10 +127,64 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 245535,
       "name": "ANSWERS",
       "url": "https://open.spotify.com/track/6bm9OoERWQ8zfnIcN0pykg"
+    },
+    {
+      "album": {
+        "name": "Cigarettes After Sex",
+        "url": "https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290146,
+      "name": "Apocalypse",
+      "url": "https://open.spotify.com/track/3AVrVz5rK8Hrqo9YGiVGN5"
+    },
+    {
+      "album": {
+        "name": "folklore",
+        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261922,
+      "name": "august",
+      "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
+    },
+    {
+      "album": {
+        "name": "+",
+        "url": "https://open.spotify.com/album/02pi98kE0nra0yBqCStzbC"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200755,
+      "name": "Autumn Leaves - Deluxe Edition",
+      "url": "https://open.spotify.com/track/7iBSkXB0pTvZasOLf0Qxk9"
     },
     {
       "album": {
@@ -221,7 +293,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 192893,
       "name": "Both All The Time",
       "url": "https://open.spotify.com/track/1NhwcAlWb4lY68d2bHBdGx"
@@ -365,7 +437,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 207598,
       "name": "Coffee Cups and Cigarettes",
       "url": "https://open.spotify.com/track/27rlIFzVI6vn4zj4GeiTI8"
@@ -441,7 +513,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 204317,
       "name": "Crush",
       "url": "https://open.spotify.com/track/2O1bAhJCHW0E3uuoWzRrGi"
@@ -481,6 +553,24 @@
       "duration_ms": 143966,
       "name": "Dancing in the Moonlight (It's Caught Me in Its Spotlight) - Live from Spotify Studios, New York City, NY",
       "url": "https://open.spotify.com/track/2fpfApt0LZiOWybYfRVXTB"
+    },
+    {
+      "album": {
+        "name": "Dark Red",
+        "url": "https://open.spotify.com/album/5fvUFzgVEni3L7769OabqQ"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173104,
+      "name": "Dark Red",
+      "url": "https://open.spotify.com/track/37y7iDayfwm3WXn5BiAoRk"
     },
     {
       "album": {
@@ -1004,6 +1094,24 @@
     },
     {
       "album": {
+        "name": "AM",
+        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183956,
+      "name": "I Wanna Be Yours",
+      "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
+    },
+    {
+      "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/6HDqgrcQJjK2tckVLCDfvp"
       },
@@ -1095,7 +1203,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 264006,
       "name": "Jesus Christ 2005 God Bless America",
       "url": "https://open.spotify.com/track/6zjBevD0Y6eCbOXaqQ79Xj"
@@ -1113,7 +1221,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 278991,
       "name": "Juliet",
       "url": "https://open.spotify.com/track/45ROR8UMn60YEVQnDy0uVF"
@@ -1236,6 +1344,24 @@
     },
     {
       "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245964,
+      "name": "Matilda",
+      "url": "https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O"
+    },
+    {
+      "album": {
         "name": "Cavetown",
         "url": "https://open.spotify.com/album/0ZyaO9oGhq7blYJzo3l65t"
       },
@@ -1319,7 +1445,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 208973,
       "name": "mirrorball",
       "url": "https://open.spotify.com/track/5jQyGzcwqAxwT5QUIMivoX"
@@ -1507,6 +1633,24 @@
       "duration_ms": 167341,
       "name": "Old Flame",
       "url": "https://open.spotify.com/track/23KrgrkSQN9rY3DWbklgMc"
+    },
+    {
+      "album": {
+        "name": "Cleopatra",
+        "url": "https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160097,
+      "name": "Ophelia",
+      "url": "https://open.spotify.com/track/3d8y0t70g7hw2FOWl9Z4Fm"
     },
     {
       "album": {
@@ -1799,7 +1943,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 157801,
       "name": "Shoot",
       "url": "https://open.spotify.com/track/3gy65ZTYP90rbEhHsHzcM0"
@@ -1907,7 +2051,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 230146,
       "name": "So Good At Being in Trouble",
       "url": "https://open.spotify.com/track/2lwi35A2ym3FAmSlvOGnQp"
@@ -1929,6 +2073,42 @@
       "duration_ms": 230146,
       "name": "So Good At Being in Trouble",
       "url": "https://open.spotify.com/track/5VarZFY00sO54HErJ3TPCI"
+    },
+    {
+      "album": {
+        "name": "Depression Cherry",
+        "url": "https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr"
+      },
+      "artists": [
+        {
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320466,
+      "name": "Space Song",
+      "url": "https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow"
+    },
+    {
+      "album": {
+        "name": "Parachutes",
+        "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227093,
+      "name": "Sparks",
+      "url": "https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod"
     },
     {
       "album": {
@@ -2023,10 +2203,28 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 291106,
       "name": "Suzanne",
       "url": "https://open.spotify.com/track/0K9iwmos5IKhO7kK4sQJwl"
+    },
+    {
+      "album": {
+        "name": "I Love You.",
+        "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
+      },
+      "artists": [
+        {
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240400,
+      "name": "Sweater Weather",
+      "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
     },
     {
       "album": {
@@ -2373,7 +2571,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 212634,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/5RgQixDEabaSuMdeT5Hf7l"
@@ -2431,6 +2629,24 @@
       "duration_ms": 295265,
       "name": "Warped Window",
       "url": "https://open.spotify.com/track/7jd2h2mIeyKpqkFsrl5EHN"
+    },
+    {
+      "album": {
+        "name": "we fell in love in october / forget her",
+        "url": "https://open.spotify.com/album/4oRcMHsdNG9IAF3xwv1kWu"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184153,
+      "name": "we fell in love in october",
+      "url": "https://open.spotify.com/track/1BYZxKSf0aTxp8ZFoeyM3d"
     },
     {
       "album": {
@@ -2517,7 +2733,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 257426,
       "name": "White Blood",
       "url": "https://open.spotify.com/track/3sZfQB5uYTJmA4QnB8dv7P"

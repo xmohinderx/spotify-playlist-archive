@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSfa3jsASp1.md) - [plain]
 
 > Rock that was on repeat during the summers of the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,451 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,470 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,22 +62,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSfa3jsASp1.md) - [plain]
 | 52 | [Uma Thurman](https://open.spotify.com/track/5PUawWFG1oIS2NwEcyHaCr) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [American Beauty/American Psycho](https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT) | 3:31 |
 | 53 | [It's Time](https://open.spotify.com/track/6BtmXhTJMM9sBTHeYYASGz) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Night Visions](https://open.spotify.com/album/6htgf3qv7vGcsdxLCDxKp8) | 3:57 |
 | 54 | [Wish I Knew You](https://open.spotify.com/track/2EWpa5XnAuSn0sIkSSIhYk) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Men Amongst Mountains](https://open.spotify.com/album/4d40uSufPdCDGGedQGCdGn) | 4:34 |
-| 55 | [Come with Me Now](https://open.spotify.com/track/2kWowW0k4oFymhkr7LmvzO) | [KONGOS](https://open.spotify.com/artist/58R5LHkK3vkmEyGUPOR5kS) | [Lunatic](https://open.spotify.com/album/71C65HI7THrlkpHHa24YJX) | 3:31 |
-| 56 | [Jekyll and Hyde](https://open.spotify.com/track/5MjkeHk6I0JA0q13eqtnJP) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Got Your Six \(Deluxe\)](https://open.spotify.com/album/36S44cV7Qq3EN9dnnZj407) | 3:26 |
+| 55 | [Jekyll and Hyde](https://open.spotify.com/track/5MjkeHk6I0JA0q13eqtnJP) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Got Your Six \(Deluxe\)](https://open.spotify.com/album/36S44cV7Qq3EN9dnnZj407) | 3:26 |
+| 56 | [Come with Me Now](https://open.spotify.com/track/2kWowW0k4oFymhkr7LmvzO) | [KONGOS](https://open.spotify.com/artist/58R5LHkK3vkmEyGUPOR5kS) | [Lunatic](https://open.spotify.com/album/71C65HI7THrlkpHHa24YJX) | 3:31 |
 | 57 | [MONSTERS](https://open.spotify.com/track/1qAuIPMALdFtGv2Ymjy5l0) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [ATTENTION ATTENTION](https://open.spotify.com/album/0dtwIycvTaFNjo44QRwWz7) | 4:08 |
 | 58 | [The Adventures of Rain Dance Maggie](https://open.spotify.com/track/0PgNhIg5n0UAOBVn43b8b6) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [I'm with You](https://open.spotify.com/album/5wZtSIvijWCMc1vlPFqAyB) | 4:42 |
 | 59 | [HandClap](https://open.spotify.com/track/4qRaZYiaOsSvWC7VgcxrI0) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Fitz and The Tantrums \(Deluxe Edition\)](https://open.spotify.com/album/4eoIRaV8z8v2LaXQSWy2LC) | 3:13 |
 | 60 | [Howlin' for You](https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 3:11 |
 | 61 | [This Is War](https://open.spotify.com/track/2D52zjCyqEIQa221lhw6uk) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [This Is War](https://open.spotify.com/album/6OlCoydaNFUU7v1Xo5ZJPx) | 5:26 |
 | 62 | [Country Song](https://open.spotify.com/track/2abHKI9Oox4NBEhOh3HMbq) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Holding Onto Strings Better Left To Fray](https://open.spotify.com/album/1Bjmcy5hWGdGQ0zANfgIzh) | 3:49 |
-| 63 | [The Man](https://open.spotify.com/track/5aWhs651KYM26HYM16kRdk) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Wonderful Wonderful](https://open.spotify.com/album/72ZfMxLCPG8mlWC0TXfZQi) | 4:10 |
-| 64 | [These Days](https://open.spotify.com/track/2kN05N1AQQplsgFweFAqYb) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Wasting Light](https://open.spotify.com/album/5lnQLEUiVDkLbFJHXHQu9m) | 4:58 |
+| 63 | [These Days](https://open.spotify.com/track/2kN05N1AQQplsgFweFAqYb) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Wasting Light](https://open.spotify.com/album/5lnQLEUiVDkLbFJHXHQu9m) | 4:58 |
+| 64 | [The Man](https://open.spotify.com/track/5aWhs651KYM26HYM16kRdk) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Wonderful Wonderful](https://open.spotify.com/album/72ZfMxLCPG8mlWC0TXfZQi) | 4:10 |
 | 65 | [Lydia](https://open.spotify.com/track/7yoBjKO6cCnK3zV8gr1k4e) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [Mister Asylum](https://open.spotify.com/album/7wGLeeJt18EBjc181FP2cM) | 4:02 |
 | 66 | [DEVIL](https://open.spotify.com/track/2hEYslbdYWFSIA6JboUvnR) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [ATTENTION ATTENTION](https://open.spotify.com/album/0dtwIycvTaFNjo44QRwWz7) | 3:27 |
 | 67 | [Angel](https://open.spotify.com/track/2qJkesdHu9sMMVFgkRkqhQ) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Savages](https://open.spotify.com/album/6SfhyLVugAsXYDvs966WBn) | 3:22 |
 | 68 | [Bulletproof](https://open.spotify.com/track/6w7ily4cFWEPO0XWFQYeUO) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [When Legends Rise](https://open.spotify.com/album/1n5bxxxowQ8ufvx2DXKeEV) | 2:57 |
-| 69 | [Anna Sun](https://open.spotify.com/track/3e0yTP5trHBBVvV32jwXqF) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [Walk The Moon](https://open.spotify.com/album/1QhonXpNQq8wrGEKX0ofbk) | 5:21 |
-| 70 | [This Means War](https://open.spotify.com/track/2NImo2MajNai4CLk35wMut) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Hail to the King](https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA) | 6:09 |
+| 69 | [This Means War](https://open.spotify.com/track/2NImo2MajNai4CLk35wMut) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Hail to the King](https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA) | 6:09 |
+| 70 | [Anna Sun](https://open.spotify.com/track/3e0yTP5trHBBVvV32jwXqF) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [Walk The Moon](https://open.spotify.com/album/1QhonXpNQq8wrGEKX0ofbk) | 5:21 |
 | 71 | [The Good Life](https://open.spotify.com/track/55KYlnsC6nYnr3IykbmJwE) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Life Starts Now](https://open.spotify.com/album/0vv1zKShlm7WuawEup5Mf4) | 2:53 |
 | 72 | [This Life](https://open.spotify.com/track/4dRqYKhLVujxiBXcq50YzG) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Father of the Bride](https://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ) | 4:28 |
 | 73 | [Mountain Sound](https://open.spotify.com/track/3SPVZJzf1Hs30rB6yXVf2y) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [My Head Is An Animal](https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy) | 3:31 |
@@ -91,12 +91,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSfa3jsASp1.md) - [plain]
 | 81 | [Dangerous \(feat\. Joywave\)](https://open.spotify.com/track/3y8AEUef1AVfr0npU5UOa9) | [Big Data](https://open.spotify.com/artist/4S1nvNHWiZLP4rzwmULmUa), [Joywave](https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m) | [2.0](https://open.spotify.com/album/7MvpqHRTRxHu7QoPiYnmzH) | 4:40 |
 | 82 | [Cecilia And The Satellite](https://open.spotify.com/track/1MSM3Fo2fvnwVqMcz8Jhjq) | [Andrew McMahon in the Wilderness](https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM) | [Andrew McMahon In The Wilderness](https://open.spotify.com/album/4IVdl0FxI7cpwyLh8JWOdG) | 3:43 |
 | 83 | [She's so Mean](https://open.spotify.com/track/2toY6JyyfKy9TwNk3Ou2XG) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [North \(Deluxe Edition\)](https://open.spotify.com/album/3JdxPzUYUcVeRgfdOGXZLC) | 3:52 |
-| 84 | [Lo/Hi](https://open.spotify.com/track/25YlltWXRb9k7KbrEBRuhJ) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 2:57 |
-| 85 | [Failure](https://open.spotify.com/track/4wh0E9OwMCxcaIKTg0Mts9) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Dark Before Dawn](https://open.spotify.com/album/09asAAZJ7rXedp9J8wqvBR) | 3:34 |
+| 84 | [Failure](https://open.spotify.com/track/4wh0E9OwMCxcaIKTg0Mts9) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Dark Before Dawn](https://open.spotify.com/album/09asAAZJ7rXedp9J8wqvBR) | 3:34 |
+| 85 | [Lo/Hi](https://open.spotify.com/track/25YlltWXRb9k7KbrEBRuhJ) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 2:57 |
 | 86 | [Shake Me Down](https://open.spotify.com/track/1Hb1IJ9bBCa6wo3fRtexnJ) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Thank You Happy Birthday](https://open.spotify.com/album/0WizSRN8LuMWhliou9PFlg) | 3:31 |
 | 87 | [Crystals](https://open.spotify.com/track/5wU6jk9kxYzFGUpeE6T2Q5) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Beneath The Skin](https://open.spotify.com/album/2mD97VgxTRfwB8F5tvkwrL) | 4:03 |
-| 88 | [The Sound](https://open.spotify.com/track/316r1KLN0bcmpr7TZcMCXT) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4) | 4:08 |
-| 89 | [I'll Follow You](https://open.spotify.com/track/0ILR5GMSzBRp2LrI8GX1Si) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Amaryllis](https://open.spotify.com/album/2WvIDc4wdKshyFh2EzLAs0) | 3:58 |
+| 88 | [I'll Follow You](https://open.spotify.com/track/0ILR5GMSzBRp2LrI8GX1Si) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Amaryllis](https://open.spotify.com/album/2WvIDc4wdKshyFh2EzLAs0) | 3:58 |
+| 89 | [The Sound](https://open.spotify.com/track/316r1KLN0bcmpr7TZcMCXT) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4) | 4:08 |
 | 90 | [Runaways](https://open.spotify.com/track/62BxlOvQCjLNQA5ARA4Dug) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Battle Born](https://open.spotify.com/album/3bvS3DlTwV35j2qwFhDvxx) | 4:03 |
 | 91 | [Lift Me Up](https://open.spotify.com/track/3EO0js63QHQQPqJt1TgBLQ) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM), [Rob Halford](https://open.spotify.com/artist/7CTjkl9M3enzBBfm1u10Sy) | [The Wrong Side of Heaven and the Righteous Side of Hell, Vol\. 1 \(Deluxe Edition\)](https://open.spotify.com/album/1qfm8YhH28Bgs3e8hutsqw) | 4:06 |
 | 92 | [Hallelujah](https://open.spotify.com/track/6TzJLISIitIzn1WtjDY0Op) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Death of a Bachelor](https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj) | 3:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSfa3jsASp1.md) - [plain]
 | 99 | [Lazaretto](https://open.spotify.com/track/3T76zPJz3tWL27FrjJe2ot) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Lazaretto](https://open.spotify.com/album/36LXzRarDP8TU8K0REGpt6) | 3:39 |
 | 100 | [Old Man](https://open.spotify.com/track/0sfaeSQbFHecFbc1JOqdN4) | [Redlight King](https://open.spotify.com/artist/6hha7AM7ao3kNpN0VwOXgD) | [Something For The Pain](https://open.spotify.com/album/50dBOUiqWBDeThvL0wWDII) | 3:01 |
 
-Snapshot ID: `MTY1MDkxNjc1OCwwMDAwMDAwMDhkYjk4MThkMWZmYjJhNjg2OTJjMTdmNjcyNjgyZmYy`
+Snapshot ID: `MTY1MDkxNjc1OCwwMDAwMDAwMDI3MzJhYTExNzAzNTE1YTc0YzdmMjJkMWIwOTAxMTJi`

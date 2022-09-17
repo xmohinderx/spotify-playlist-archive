@@ -2,9 +2,9 @@
 
 ### [Los Que Mandan](https://open.spotify.com/playlist/37i9dQZF1DXb0COFso7q0D)
 
-> Música Mexicana hits of today! The playlist sin fronteras\. Cover: Christian Nodal, Romeo Santos.
+> Música Mexicana hits of today! The playlist sin fronteras\. Cover: Fuerza Regida & Snoop Dogg..
 
-210 songs - 11 hr 11 min - [published](https://open.spotify.com/playlist/0V871kSfrlE3mK4NJAUl7m)
+211 songs - 11 hr 14 min - [published](https://open.spotify.com/playlist/0V871kSfrlE3mK4NJAUl7m)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Los Mire Con Talento](https://open.spotify.com/track/1trAoZKkvVjuuQpUzTI6KV) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Los Mire Con Talento](https://open.spotify.com/album/55ALbKLzliLSlrbVRcWft9) | 2:43 | 2021-12-21 | 2022-02-26 |
 | [Lágrimas De Miel](https://open.spotify.com/track/5xxWDPW1I0aHAt3twyXAPy) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Lágrimas De Miel](https://open.spotify.com/album/1tTolYWqffkyFE64kvjlkh) | 3:48 | 2021-12-21 | 2022-03-18 |
 | [Me Acostumbre A Lo Bueno](https://open.spotify.com/track/1hHnCReCPe1FUkGLTeuCaC) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Del Barrio Hasta Aquí, Vol\. 2](https://open.spotify.com/album/1UtMaTZl4kau9NSFqc8wHp) | 2:20 | 2021-12-31 |  |
+| [Me Acostumbre A Lo Bueno \(Remix\)](https://open.spotify.com/track/31BLeQC9tZ4hTFoAhg3oBw) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Corridos 100% Callejeros \(Vol\. 1\)](https://open.spotify.com/album/1QJNsUY91B4otPtYRbjwcP) | 2:18 | 2022-09-16 |  |
 | [Me Estoy Enamorando \- en Vivo](https://open.spotify.com/track/43UQAAZQB9eVlZhdz5pnt1) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Desde El Cantón \(en Vivo\)](https://open.spotify.com/album/2c3E1sKcWvcIt1lxYbiqgv) | 2:53 | 2022-01-28 | 2022-04-29 |
 | [Me Extraño](https://open.spotify.com/track/49A0SKbXyTUyk5uw8fXzFi) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Me Extraño](https://open.spotify.com/album/0fuHe4cJQ677flvGr2QLN1) | 3:11 | 2022-09-02 |  |
 | [Me Metí En El Ruedo](https://open.spotify.com/track/7KNSQcLwrl3bNEuV1OVHtv) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Bélicos, Vol\. 2](https://open.spotify.com/album/5WWAwbRCM3CyiZNO9rsfWS) | 2:54 | 2021-12-21 |  |
@@ -173,7 +174,7 @@
 | [Se Manda Sola](https://open.spotify.com/track/2ZyqVjfaWdbXogeNjwrLgo) | [La Adictiva Banda San José de Mesillas](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Se Manda Sola](https://open.spotify.com/album/6JEaPc6iKUgI3YrDUGxJDk) | 2:34 | 2022-08-19 |  |
 | [Seguimos Más Fuertes](https://open.spotify.com/track/64fKfz7LgBeIUrPBhLrtj7) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Seguimos Más Fuertes](https://open.spotify.com/album/6xliwTuuud43NH2EhqxXrP) | 3:20 | 2022-05-13 | 2022-08-06 |
 | [Sencillo Soy](https://open.spotify.com/track/5XWPoQ2lS8qgaf5aeDwBmh) | [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6) | [Sencillo Soy](https://open.spotify.com/album/2VTl4zpY1zYRj1KXGTHLFv) | 2:52 | 2021-12-21 | 2022-03-12 |
-| [Señor Miedo](https://open.spotify.com/track/1FnswOpXkrROzW2mFCF1BE) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Señor Miedo](https://open.spotify.com/album/7prCMJKiHc8r3WOS82bZVJ) | 2:52 | 2022-07-15 |  |
+| [Señor Miedo](https://open.spotify.com/track/1FnswOpXkrROzW2mFCF1BE) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Señor Miedo](https://open.spotify.com/album/7prCMJKiHc8r3WOS82bZVJ) | 2:52 | 2022-07-15 | 2022-09-17 |
 | [Si Fuera Fácil](https://open.spotify.com/track/7Jph6HJbfURt4Fea19IED3) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Si Fuera Fácil](https://open.spotify.com/album/3CUu8nxAMyjCiTeGyiBOKE) | 2:50 | 2022-06-03 |  |
 | [Si Me Ven](https://open.spotify.com/track/5SkLd0qWWqYtv3Ry0dIyIh) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Si Me Ven](https://open.spotify.com/album/5Z16tpUTnDDwejC6Dvad5r) | 2:54 | 2022-01-14 | 2022-07-09 |
 | [Si Respetan, Respeto](https://open.spotify.com/track/0aaodlJgJ1NriUhyt1K6Sn) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Si Respetan, Respeto](https://open.spotify.com/album/4Ug2MkxrrHtdgx6Qg59KUi) | 3:36 | 2022-04-01 | 2022-07-09 |

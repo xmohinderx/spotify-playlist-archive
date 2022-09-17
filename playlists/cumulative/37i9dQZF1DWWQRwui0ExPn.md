@@ -4,7 +4,7 @@
 
 > The chillest beats to help you relax, study, code, and focus.
 
-3,760 songs - 5 day 23 hr 17 min - [published](https://open.spotify.com/playlist/5NoFcGR8fbqWzjFatWkJo3)
+3,760 songs - 5 day 23 hr 16 min - [published](https://open.spotify.com/playlist/5NoFcGR8fbqWzjFatWkJo3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -368,7 +368,6 @@
 | [Blankets](https://open.spotify.com/track/4frub0bqoOD2CqYBFXSd5O) | [.Sinh](https://open.spotify.com/artist/0qRgQLC8mPlcJ5Zo6mlcuG), [Cantsleep](https://open.spotify.com/artist/3NnWw90HvNCWgNi7vtKg4C), [Massaman](https://open.spotify.com/artist/1PmYWFfzWs4mfVBHxEUut9) | [Blankets](https://open.spotify.com/album/7sLnvmsfP4s0sRBPluGvvg) | 1:12 | 2019-11-08 | 2021-01-16 |
 | [bleed 4 you \- Lofi Remix](https://open.spotify.com/track/0I6m27GhfXKVeJ6vFdyxbq) | [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc), [Mik](https://open.spotify.com/artist/5rQt28kugM2JTzkJtgNovi) | [bleed 4 you \(Lofi Remix\)](https://open.spotify.com/album/4Maen5k3zocjmf8IW58QuY) | 2:55 | 2021-12-03 | 2022-05-27 |
 | [bleep](https://open.spotify.com/track/0VutyxcmjtC8Bs0QLcyIhb) | [tori yami](https://open.spotify.com/artist/3ZjRFcfag9ETSC777HOBDx) | [bleep](https://open.spotify.com/album/2MnmOWac8GbeCedTkbGldw) | 2:07 | 2022-08-26 |  |
-| [Bless U](https://open.spotify.com/track/428XVwBl5Fb7INjU72Po14) | [Thelonious Coltrane](https://open.spotify.com/artist/6iXZPP5qLB2dtIQ4WuNk9M) | [Bless U](https://open.spotify.com/album/4nqypFxRgnryfWJqXkv3av) | 3:06 | 2022-09-16 |  |
 | [Bless U](https://open.spotify.com/track/4ToHGNtxz68JX74Q15PM8v) | [Twit One](https://open.spotify.com/artist/38OPqGlHHCPAsL87VM10Su) | [Objets Trouvés \(Deluxe\)](https://open.spotify.com/album/4GtSksLYFCEGv58Gw75C8O) | 2:25 | 2021-07-04 | 2022-03-12 |
 | [blessin](https://open.spotify.com/track/1BFk18jaOtzLU8wKycdXyJ) | [evän](https://open.spotify.com/artist/2VNtLWlwWghbNHvtPcM69G) | [roomnights.2](https://open.spotify.com/album/1SAPjjPRRZWoFCOl8QhMoz) | 1:36 | 2019-05-26\* | 2020-08-30 |
 | [blind blossom](https://open.spotify.com/track/5R3LL4RqH7fCgpKAjsZajO) | [Emperose](https://open.spotify.com/artist/0BRMPrv2B9YgQuYQ3H4fja) | [blind blossom](https://open.spotify.com/album/4Atoilf40kAURLuQi10QpV) | 3:16 | 2019-12-20 | 2021-07-01 |
@@ -3095,6 +3094,7 @@
 | [Strawberry Milkshake](https://open.spotify.com/track/2ctz9N2BtI5OAwspStKkLC) | [Mister Decaf](https://open.spotify.com/artist/5JWChP6Y4Ae3sQ0FQeviKY), [soave lofi](https://open.spotify.com/artist/0QuTX3mzksvtwoQru6tiF8) | [Strawberry Milkshake](https://open.spotify.com/album/5QebQh3ubARVUvFo8x9JsI) | 2:51 | 2022-06-17 |  |
 | [Strawberry Mojito](https://open.spotify.com/track/4tv0OtMtBA5l12gmw20HpO) | [Baby Peppers](https://open.spotify.com/artist/6brahtsoEAq3syNfD48Ovx) | [Drizzle Weather](https://open.spotify.com/album/2i6h4wpnqljpXQwJMLQPSQ) | 1:46 | 2022-08-19 |  |
 | [Stream of Consciousness](https://open.spotify.com/track/5zCwGSdX2et9QL5bvCNEp3) | [Lightover](https://open.spotify.com/artist/3YArYgoxRyJPcpSLjKJeX3) | [Stream of Consciousness](https://open.spotify.com/album/4dKDzOF6I8IMZqKFEInpcn) | 2:32 | 2022-06-10 |  |
+| [Stressed Out](https://open.spotify.com/track/428XVwBl5Fb7INjU72Po14) | [Thelonious Coltrane](https://open.spotify.com/artist/6iXZPP5qLB2dtIQ4WuNk9M) | [Stressed Out](https://open.spotify.com/album/4nqypFxRgnryfWJqXkv3av) | 2:10 | 2022-09-16 |  |
 | [Streuende Hunde](https://open.spotify.com/track/1XDqCTvcNdBlTInzddQ568) | [FLAME](https://open.spotify.com/artist/51p6dDt2ZdCX994xyeXdzu), [Twit One](https://open.spotify.com/artist/38OPqGlHHCPAsL87VM10Su) | [Streuende Hunde](https://open.spotify.com/album/4jnXu57WLZneXtBmdtRtUv) | 4:09 | 2021-10-02 | 2022-04-08 |
 | [Stripe Two](https://open.spotify.com/track/4AXc2D9pa1uttadN9MowI3) | [Tom Oswald](https://open.spotify.com/artist/0h8JdYna5YWfPvyw3YaBVN) | [Stripe One](https://open.spotify.com/album/6gaMaWFWEZTl6kwel3RRp1) | 1:46 | 2020-06-18 | 2021-10-02 |
 | [Strive](https://open.spotify.com/track/43LF4H7u7x8OnDlSkhh2ar) | [Ollie Morris](https://open.spotify.com/artist/0vOJttjiMGGOBRPhzl8FKt) | [Strive](https://open.spotify.com/album/6u3pAUdtvtsiBjY39lG7dI) | 2:03 | 2019-06-21 | 2020-01-04 |

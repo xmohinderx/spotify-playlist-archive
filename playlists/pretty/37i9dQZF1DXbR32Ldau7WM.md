@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 
 > The biggest rock artists in Japan right now! Cover: ELLEGARDEN
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,446 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,489 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 2 | [Mountain Top](https://open.spotify.com/track/2VZsN0yEEVmEsohRi56wEm) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [Mountain Top](https://open.spotify.com/album/02S7xatuIOTEWNgLAfKh34) | 4:06 |
 | 3 | [The Haunted](https://open.spotify.com/track/0onxAgb0IFzPdzZh947SWj) | [METAFIVE](https://open.spotify.com/artist/5bIZrkukT53Jqrc4Vl4dvI) | [METAATEM](https://open.spotify.com/album/1qURL5FFneLcsfIMwIYWO2) | 4:22 |
 | 4 | [暁](https://open.spotify.com/track/1JXoBwo67DqPB1d5v1NPRC) | [PornoGraffitti](https://open.spotify.com/artist/5jQa0f5MIMPEK7udL7UpI6) | [暁](https://open.spotify.com/album/0jp4zHCCFZZ3v5RtzbgeMm) | 4:10 |
-| 5 | [八月は僕の名前](https://open.spotify.com/track/5S57CHTpUpaceN58EP3Mn7) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [八月は僕の名前](https://open.spotify.com/album/7i4Z0kxoGUN4Ol3sLVOZeU) | 3:52 |
+| 5 | [August](https://open.spotify.com/track/2iORIDxw0qWn5ezfmG4Crv) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [August](https://open.spotify.com/album/6jMFeJN63salxChERxBq2z) | 3:52 |
 | 6 | [From Today](https://open.spotify.com/track/7qLbPd5yhm0Vne45PXPabV) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Nonnegative](https://open.spotify.com/album/2XA78l6T2geC3hfxcnOs6V) | 3:53 |
 | 7 | [残響散歌](https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [残響散歌](https://open.spotify.com/album/1gfSftIuafqkGu28ely5z6) | 3:04 |
 | 8 | [Unleash!!!!!](https://open.spotify.com/track/2XQF5hFvxyzzAkGWb3sQFM) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Unleash!!!!!](https://open.spotify.com/album/3gwgfh9R9KL1m1YOqnVh3G) | 3:10 |
@@ -45,18 +45,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 35 | [鳴り響く限り](https://open.spotify.com/track/1AudHfLgLyJoDvqBTZBtSU) | [YUKI](https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII) | [鳴り響く限り](https://open.spotify.com/album/6NDdztWIUAsK2pbmDvWjND) | 3:53 |
 | 36 | [なないろ](https://open.spotify.com/track/5LOISm9qukDm7veN4Fqgnc) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [なないろ](https://open.spotify.com/album/3AlWWIGwJoaTuSMa9epb3e) | 4:22 |
 | 37 | [PARADISE \(Kill The Silence\)](https://open.spotify.com/track/1YLnHvUtdMN91dmwFE5ueh) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [PARADISE \(Kill The Silence\)](https://open.spotify.com/album/6SdcvS3W4Rhs36uOpb3gb7) | 3:43 |
-| 38 | [Secret Ceremony](https://open.spotify.com/track/4H0jA4BmoPsR1g0YojlYKV) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ) | [Secret Ceremony](https://open.spotify.com/album/79uzDTAtLl2kp5bskMLgtQ) | 3:40 |
-| 39 | [Freaks](https://open.spotify.com/track/7IdKSSqLyFsDCe5wKYe0aG) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ), [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [Freaks](https://open.spotify.com/album/31KJXQUrbyRqkNJxKHYQB0) | 2:13 |
+| 38 | [Freaks](https://open.spotify.com/track/7IdKSSqLyFsDCe5wKYe0aG) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ), [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [Freaks](https://open.spotify.com/album/31KJXQUrbyRqkNJxKHYQB0) | 2:13 |
+| 39 | [Secret Ceremony](https://open.spotify.com/track/4H0jA4BmoPsR1g0YojlYKV) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ) | [Secret Ceremony](https://open.spotify.com/album/79uzDTAtLl2kp5bskMLgtQ) | 3:40 |
 | 40 | [Papersky](https://open.spotify.com/track/27Aet7xWrKxC6Yvw6S6Si3) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [Papersky](https://open.spotify.com/album/0O07iy0DxbwL1TGOntCBIq) | 4:16 |
-| 41 | [ODORO!\(feat.MIHO FUKUHARA\)](https://open.spotify.com/track/3CNiAI3yOlCmjjTpv6xH5J) | [Pyramid](https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy), [Miho Fukuhara](https://open.spotify.com/artist/7CM9T52YxOcACiOK2sqHqe) | [ODORO!\(feat.MIHO FUKUHARA\)](https://open.spotify.com/album/6rZjtBvAUd2AS6Hzks3vYc) | 4:03 |
-| 42 | [More Than Words](https://open.spotify.com/track/4mvTOCXzPHBmLT5IJLUHJ5) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [More Than Words](https://open.spotify.com/album/479BpYjSqpTRKX4DjmIbQC) | 3:50 |
+| 41 | [More Than Words](https://open.spotify.com/track/4mvTOCXzPHBmLT5IJLUHJ5) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [More Than Words](https://open.spotify.com/album/479BpYjSqpTRKX4DjmIbQC) | 3:50 |
+| 42 | [ODORO!\(feat.MIHO FUKUHARA\)](https://open.spotify.com/track/3CNiAI3yOlCmjjTpv6xH5J) | [Pyramid](https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy), [Miho Fukuhara](https://open.spotify.com/artist/7CM9T52YxOcACiOK2sqHqe) | [ODORO!\(feat.MIHO FUKUHARA\)](https://open.spotify.com/album/6rZjtBvAUd2AS6Hzks3vYc) | 4:03 |
 | 43 | [Future Tone Bender](https://open.spotify.com/track/5Ed03SNdYyL69YsW0pOfEz) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS), [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [egomaniac feedback](https://open.spotify.com/album/3XBNvPlVMRZkS10ssu1iRF) | 3:52 |
 | 44 | [Before I Go](https://open.spotify.com/track/5tqZBgS6Db32QHXquR1QvM) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Before I Go](https://open.spotify.com/album/7tbqzoPJNMs8oEk2OnYTjo) | 4:06 |
 | 45 | [原罪と福音](https://open.spotify.com/track/3N8YigCwZIgIH8IKzlw6V9) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [総合](https://open.spotify.com/album/2jYrSjiB2tmFZ8jKZLuhrp) | 4:40 |
-| 46 | [SummerDay](https://open.spotify.com/track/6Mstbao3J36dXocCdZfKqD) | [androp](https://open.spotify.com/artist/7n437ZdDaCzqjJDJ7WmbyX) | [SummerDay](https://open.spotify.com/album/1RyjFEI2GMTIAvkPH3SdGL) | 3:06 |
-| 47 | [VIBES BY VIBES](https://open.spotify.com/track/4IQ8TRkM7s24li5Y6xbEtp) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h), [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [10\-feat](https://open.spotify.com/album/0fEuThtACeHQcSULrDR1ma) | 3:56 |
-| 48 | [yoake](https://open.spotify.com/track/71wrW2jUPnOX48WfMZRFfA) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [yoake](https://open.spotify.com/album/5jugeblIbCduKGADB7Y09A) | 4:49 |
-| 49 | [Be The One](https://open.spotify.com/track/2qsCq95jjiHvlpAT7fsMQm) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Be The One](https://open.spotify.com/album/5242skyRrpMPFR9dYgFZpq) | 3:06 |
+| 46 | [VIBES BY VIBES](https://open.spotify.com/track/4IQ8TRkM7s24li5Y6xbEtp) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h), [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [10\-feat](https://open.spotify.com/album/0fEuThtACeHQcSULrDR1ma) | 3:56 |
+| 47 | [SummerDay](https://open.spotify.com/track/6Mstbao3J36dXocCdZfKqD) | [androp](https://open.spotify.com/artist/7n437ZdDaCzqjJDJ7WmbyX) | [SummerDay](https://open.spotify.com/album/1RyjFEI2GMTIAvkPH3SdGL) | 3:06 |
+| 48 | [Be The One](https://open.spotify.com/track/2qsCq95jjiHvlpAT7fsMQm) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Be The One](https://open.spotify.com/album/5242skyRrpMPFR9dYgFZpq) | 3:06 |
+| 49 | [yoake](https://open.spotify.com/track/71wrW2jUPnOX48WfMZRFfA) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [yoake](https://open.spotify.com/album/5jugeblIbCduKGADB7Y09A) | 4:49 |
 | 50 | [閃光 \- English ver.](https://open.spotify.com/track/3qDky2Jzzp4MQ2dKTNfVLe) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [閃光](https://open.spotify.com/album/4g7RyFbsJV7WSxBKvialqK) | 4:25 |
 
-Snapshot ID: `MTY2MzI1NDAwMCwwMDAwMDAwMDNlMThkZWE3ZWU5Njg3YjBjZDE0ZDM0NTRiOTAzZTg3`
+Snapshot ID: `MTY2MzI1NDAwMCwwMDAwMDAwMGY0NWQ3ODViNTEzYWQwMDM2YjczMWJhNTM1OGE4YzY5`

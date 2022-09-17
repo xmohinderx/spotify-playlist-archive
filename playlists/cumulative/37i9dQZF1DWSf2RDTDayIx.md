@@ -4,7 +4,7 @@
 
 > Feel\-good <a href="spotify:genre:edm\_dance">dance music</a>!
 
-286 songs - 15 hr 20 min - [published](https://open.spotify.com/playlist/4dBUFd3W9UPSAiQUVToAFF)
+287 songs - 15 hr 23 min - [published](https://open.spotify.com/playlist/4dBUFd3W9UPSAiQUVToAFF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,7 @@
 | [If There is Love](https://open.spotify.com/track/5ngkOLKzDPNoYEXN0snzq3) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Raphi](https://open.spotify.com/artist/5uRAMorzqKiss3EUQPVDD4) | [If There is Love](https://open.spotify.com/album/5pfpy8N2przMVV6cOqiDAe) | 2:35 | 2021-12-03 |  |
 | [If We’ll Ever Be Remembered](https://open.spotify.com/track/6wnzt59p7i8cAyuWl1avwr) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Shaun Farrugia](https://open.spotify.com/artist/4ukUyiEoZi8QxibfjuUsEw) | [If We’ll Ever Be Remembered](https://open.spotify.com/album/39oISAQPcYRNjQqKvYroME) | 3:30 | 2022-05-27 |  |
 | [In My Zone](https://open.spotify.com/track/3LR2EPyj36gxYgCYbC0au0) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [In My Zone](https://open.spotify.com/album/78t3QrtBcUZhthPk0ROf2r) | 2:41 | 2022-01-28 |  |
-| [Infinity](https://open.spotify.com/track/5ZOHDJ5u6pHTvw1gT2SBRn) | [Borgeous](https://open.spotify.com/artist/4uiMn2g0pgTrhN096QJhbp), [Kastra](https://open.spotify.com/artist/6sQYSV8XvcA9CQZb6OBHHC), [Luxtides](https://open.spotify.com/artist/22bKgyDEmDgPhvSBYklJBe) | [Infinity](https://open.spotify.com/album/0hDRdaNZPdfRDWbThYA8LI) | 3:10 | 2022-05-06 |  |
+| [Infinity](https://open.spotify.com/track/5ZOHDJ5u6pHTvw1gT2SBRn) | [Borgeous](https://open.spotify.com/artist/4uiMn2g0pgTrhN096QJhbp), [Kastra](https://open.spotify.com/artist/6sQYSV8XvcA9CQZb6OBHHC), [Luxtides](https://open.spotify.com/artist/22bKgyDEmDgPhvSBYklJBe) | [Infinity](https://open.spotify.com/album/0hDRdaNZPdfRDWbThYA8LI) | 3:10 | 2022-05-06 | 2022-09-17 |
 | [James Brown](https://open.spotify.com/track/225vG9vU7QrnjJARJXnSpd) | [SNBRN](https://open.spotify.com/artist/2zJ8chFLjiBHRNchfevMRI), [Malcolm Anthony](https://open.spotify.com/artist/6PyeXqjH8OMGnt1IOhWgrQ), [Anthony Isaiah](https://open.spotify.com/artist/6ma9LIyEylZ3lxprV7cV3f) | [James Brown](https://open.spotify.com/album/34ERnQhCoW5y7mLA4yLzFK) | 3:28 | 2021-12-03 | 2022-01-08 |
 | [Joy](https://open.spotify.com/track/17E3lZxFJnO49Gb0tdgVn0) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Joy](https://open.spotify.com/album/76GgZZUHQu2VQRLMXEIQcL) | 4:41 | 2022-01-07 |  |
 | [Just Can't Get Enough](https://open.spotify.com/track/2SlZsV3sXc69uhUNBQNgkD) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Just Can't Get Enough](https://open.spotify.com/album/4ZAfYKXDMGE7FJEMFGNbmu) | 5:03 | 2022-07-22 |  |
@@ -158,6 +158,7 @@
 | [Lonely](https://open.spotify.com/track/2ZEq4HT450Ye9IFGPTl9qV) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Lonely](https://open.spotify.com/album/3zxRCukRL1NQC4vo7ipUet) | 3:10 | 2021-12-03 | 2022-01-03 |
 | [Long Summer Nights](https://open.spotify.com/track/3sYbnk1vLjNMxevpne08ts) | [Oliver Nelson](https://open.spotify.com/artist/4QAp87iZerUP9PKxtLhmW1), [Lilla Vargen](https://open.spotify.com/artist/1bYTiIHnxEdBncCHYCfE4j) | [Long Summer Nights](https://open.spotify.com/album/2pyz3hqxKFFJ1rg2diDWoT) | 2:54 | 2022-05-27 |  |
 | [Love For The Summer \(feat\. Loren Gray\)](https://open.spotify.com/track/4WpLRgfjvPKvt1vt37z7Wk) | [Deacon](https://open.spotify.com/artist/4rK6HLvoZhLFUTcUhG9WfC), [Loren Gray](https://open.spotify.com/artist/3MbrazQE12UdSdFunXcft1) | [Love For The Summer \(feat\. Loren Gray\)](https://open.spotify.com/album/6MoLzqdqFdDKG6OuLaktRS) | 3:08 | 2021-12-03 | 2022-01-08 |
+| [Love Is Real](https://open.spotify.com/track/7nZNvE2EdKrH127yzBMW8E) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Love Is Real](https://open.spotify.com/album/2zQJvUy9Cw6BGlYBBL4f8X) | 3:17 | 2022-09-16 |  |
 | [Love the Way \(Happiness\)](https://open.spotify.com/track/1okhlrAG0YsKTx9PpPprXv) | [Mojjo](https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j), [Meca](https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ), [LUISAH](https://open.spotify.com/artist/2jbmRtqNLORtXQWb8s9RFG) | [Love the Way \(Happiness\)](https://open.spotify.com/album/4qCfn7HrbThJdvhzh66g8R) | 3:35 | 2021-12-03 | 2022-01-08 |
 | [Love You Back](https://open.spotify.com/track/5wM6LOw2U6XeIFHfsgI6wU) | [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc) | [Love You Back](https://open.spotify.com/album/3RfQXBQeOMWJPwsy4BO2Na) | 3:34 | 2022-04-29 |  |
 | [Loved By U](https://open.spotify.com/track/1SldN7GTd0ADTjspv96wCl) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [Loved By U](https://open.spotify.com/album/3ZWTn4QQX16aHY64yVeC1D) | 3:27 | 2022-05-27 |  |

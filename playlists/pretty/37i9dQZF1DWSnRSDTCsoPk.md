@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnRSDTCsoPk.md) - [plain]
 
 > Need to get your energy level up? This will help!
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,819 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 360,570 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnRSDTCsoPk.md) - [plain]
 | 51 | [Hello Future](https://open.spotify.com/track/332GJ8ykVuEt3jOT1sy7j6) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hello Future \- The 1st Album Repackage](https://open.spotify.com/album/1fRqXYwoLDxG3EwP70qnjM) | 3:40 |
 | 52 | [NUNU NANA](https://open.spotify.com/track/2cUzIBGMvx2BZ2Q1fzjdl1) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [NUNA](https://open.spotify.com/album/6XBIkDFhDgc3PQOUEcO2fd) | 3:15 |
 | 53 | [Test Me](https://open.spotify.com/track/3MU7mQWCeNx7m75r1107Ds) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Hello, world!](https://open.spotify.com/album/0Z5qdttvpyXKKNLdqeEs27) | 3:19 |
-| 54 | [Nabillera](https://open.spotify.com/track/0m3BNGjvpYtxywepORwT6N) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [Nabillera](https://open.spotify.com/album/7lmFcQr3449htbZzcWRzOL) | 2:48 |
-| 55 | [Pretty U](https://open.spotify.com/track/1117juaaAkSIUsQxTmmcKM) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 1ST ALBUM \[FIRST ‘LOVE&LETTER’\]](https://open.spotify.com/album/50BrkBakrLWufmTLjCVBwn) | 3:27 |
+| 54 | [Pretty U](https://open.spotify.com/track/1117juaaAkSIUsQxTmmcKM) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 1ST ALBUM \[FIRST ‘LOVE&LETTER’\]](https://open.spotify.com/album/50BrkBakrLWufmTLjCVBwn) | 3:27 |
+| 55 | [Nabillera](https://open.spotify.com/track/0m3BNGjvpYtxywepORwT6N) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [Nabillera](https://open.spotify.com/album/7lmFcQr3449htbZzcWRzOL) | 2:48 |
 | 56 | [BANG BANG BANG](https://open.spotify.com/track/3dI59jLoFMjMAyUAyRZnkE) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [MADE](https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY) | 3:40 |
 | 57 | [GingaMingaYo \(the strange world\)](https://open.spotify.com/track/3jHg6QE70y2FTdnsxSrCbv) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [the collective soul and unconscious: chapter one](https://open.spotify.com/album/4ophrgcnwWi1I5nWYImyhw) | 3:35 |
 | 58 | [Cold Blooded](https://open.spotify.com/track/34JfHOd0fcefm4FSPSrIhF) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [Cold Blooded](https://open.spotify.com/album/4CTDrZw6m0dTJX17OCEbfZ) | 2:30 |
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnRSDTCsoPk.md) - [plain]
 | 74 | [DUMB DUMB](https://open.spotify.com/track/5VXSt0cvi5wtJTox0wKI4x) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [XOXO](https://open.spotify.com/album/63pvOn2B5pUUcUKUwIEg9m) | 2:27 |
 | 75 | [Lotto](https://open.spotify.com/track/6ukWoX4AHV76JdYVdKRPk8) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [LOTTO \- The 3rd Album Repackage](https://open.spotify.com/album/4e75ohAqqgV3zgLn8qMxki) | 3:09 |
 | 76 | [BOP BOP!](https://open.spotify.com/track/3FNuG1PjKcOu7tAqZKB4kZ) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [The 1st Mini Album 'Beam Of Prism'](https://open.spotify.com/album/1SO45pKRdNI74Rdx7Hynh2) | 3:39 |
-| 77 | [Nillili Mambo](https://open.spotify.com/track/4fZYGHiRcKxwVSnF498uaE) | [Block B](https://open.spotify.com/artist/4RnezwRV7VBJUCI1S0AE5u) | [BLOCKBUSTER \(1\)](https://open.spotify.com/album/5humkj69QwOd1wBwmmMZq6) | 3:25 |
-| 78 | [GOT MY NUMBER](https://open.spotify.com/track/2QI91Tq1F2Tl0slIaSegs1) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [ALL ABOUT LUV](https://open.spotify.com/album/2O5KXxROQOR8WOdB8fgTCp) | 2:51 |
-| 79 | [Favorite \(Vampire\)](https://open.spotify.com/track/2R8MZR1RCP4cIJITHDPRbY) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Favorite \- The 3rd Album Repackage](https://open.spotify.com/album/5LbnQtyHBfJUCigA08llHX) | 3:35 |
+| 77 | [Favorite \(Vampire\)](https://open.spotify.com/track/2R8MZR1RCP4cIJITHDPRbY) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Favorite \- The 3rd Album Repackage](https://open.spotify.com/album/5LbnQtyHBfJUCigA08llHX) | 3:35 |
+| 78 | [Nillili Mambo](https://open.spotify.com/track/4fZYGHiRcKxwVSnF498uaE) | [Block B](https://open.spotify.com/artist/4RnezwRV7VBJUCI1S0AE5u) | [BLOCKBUSTER \(1\)](https://open.spotify.com/album/5humkj69QwOd1wBwmmMZq6) | 3:25 |
+| 79 | [GOT MY NUMBER](https://open.spotify.com/track/2QI91Tq1F2Tl0slIaSegs1) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [ALL ABOUT LUV](https://open.spotify.com/album/2O5KXxROQOR8WOdB8fgTCp) | 2:51 |
 | 80 | [gogobebe](https://open.spotify.com/track/6E7jAJN2e3znSHyPCdQqx8) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [White Wind](https://open.spotify.com/album/60m09rutmwj5ewOJoFIAVY) | 3:15 |
 | 81 | [Nonstop](https://open.spotify.com/track/5joNJn9LUvYcamWwa2iYCL) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [NONSTOP](https://open.spotify.com/album/7J8Kp48L7RdLkpjSVrO5PY) | 3:22 |
 | 82 | [The Boys](https://open.spotify.com/track/0Me6SI6hgowLrZAKvtyVOg) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [The Boys](https://open.spotify.com/album/3RlHApvIdfDGHXNHgzMlCw) | 3:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnRSDTCsoPk.md) - [plain]
 | 99 | [RHYTHM TA](https://open.spotify.com/track/5T7NN5LxcfMEudEbya2wcE) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [WELCOME BACK](https://open.spotify.com/album/7ucQWqF05jeaZiqCSI0L85) | 3:46 |
 | 100 | [View](https://open.spotify.com/track/46E1ic6n099e76t5J1TbHn) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Odd \- The 4th Album](https://open.spotify.com/album/47zSQLQWjPLmiEbCpOOEJa) | 3:10 |
 
-Snapshot ID: `MTY2MDEyMTUzMywwMDAwMDAwMDRlMTc1ZGQ0YWFjMDA4YzM0MzdmODZkZjA4Njc0YzM1`
+Snapshot ID: `MTY2MDEyMTUzMywwMDAwMDAwMGU5YmJhZmVjZDY3ZjY0MjYzOGM5ZGU2NGEzNjhmYzcw`

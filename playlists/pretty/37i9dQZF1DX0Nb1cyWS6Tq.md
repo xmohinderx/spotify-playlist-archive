@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 
 > Release The Bats! Cover: Siouxsie and the Banshees
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,404 likes - 80 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,863 likes - 80 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 | 54 | [Break The Chain](https://open.spotify.com/track/19ZQ1EOicYOZn5eamUrWFQ) | [Gene Loves Jezebel](https://open.spotify.com/artist/4Egyhh5C7MvfJaWXFx1qc4) | [Heavenly Bodies](https://open.spotify.com/album/0xJ8E1zEm9QBkzfEXP3agI) | 4:48 |
 | 55 | [Holiday on the Moon](https://open.spotify.com/track/6Tmvb9B7cFnTJXr2L2MCd8) | [Love and Rockets](https://open.spotify.com/artist/09mvgMBvJkxarNIDGdwPWg) | [Express](https://open.spotify.com/album/0frqimF9uZsUooB7DEUYgv) | 6:05 |
 | 56 | [Alice](https://open.spotify.com/track/4PbxSwW7CxxYIFINPjuTnd) | [Sisters of Mercy](https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR) | [Some Girls Wander by Mistake](https://open.spotify.com/album/42HVWb7R8TxLHgVjc2OOIV) | 3:34 |
-| 57 | [Ghost Rider \- 2019 \- Remaster](https://open.spotify.com/track/0SlVvyU9LWTzsnPc8lcoUs) | [Suicide](https://open.spotify.com/artist/6uVeWolwyRDrT84lLsaZyW) | [Suicide \(2019 \- Remaster\)](https://open.spotify.com/album/0wKU4153oTf5Ne3Wbbcykd) | 2:33 |
-| 58 | [Dance With Me](https://open.spotify.com/track/1AhLr3bpGIfeHUZ18WCpPV) | [Lords Of The New Church](https://open.spotify.com/artist/5JEhWD9S2znCiQRiGj2OUk) | [Is Nothing Sacred?](https://open.spotify.com/album/2VgrqPs1veikehj6Vc0JS8) | 3:25 |
+| 57 | [Dance With Me](https://open.spotify.com/track/1AhLr3bpGIfeHUZ18WCpPV) | [Lords Of The New Church](https://open.spotify.com/artist/5JEhWD9S2znCiQRiGj2OUk) | [Is Nothing Sacred?](https://open.spotify.com/album/2VgrqPs1veikehj6Vc0JS8) | 3:25 |
+| 58 | [Ghost Rider \- 2019 \- Remaster](https://open.spotify.com/track/0SlVvyU9LWTzsnPc8lcoUs) | [Suicide](https://open.spotify.com/artist/6uVeWolwyRDrT84lLsaZyW) | [Suicide \(2019 \- Remaster\)](https://open.spotify.com/album/0wKU4153oTf5Ne3Wbbcykd) | 2:33 |
 | 59 | [Blasphemous Rumours \- 2006 Remaster](https://open.spotify.com/track/5KjueTOwREhwpEcYrzD0Fz) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Some Great Reward \(2006 Remaster\)](https://open.spotify.com/album/7DbpWj9i5uZ1UggeGRo1LZ) | 6:21 |
 | 60 | [Twenty Four Hours \- 2007 Remaster](https://open.spotify.com/track/36HznXQNGoen7dwq4Vv6nP) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Closer \(Collector's Edition\)](https://open.spotify.com/album/1HnxC8MLDciii5LebJ09Ko) | 4:28 |
 | 61 | [Wasteland](https://open.spotify.com/track/4kiVRcINxpbNTbmEbePXQL) | [The Mission](https://open.spotify.com/artist/4SAdMucvHyws4QTeAUsPtE) | [Gods Own Medicine](https://open.spotify.com/album/4kBti1HGfkIg1Q9XWeTtHV) | 5:40 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 | 79 | [I Walk the Line](https://open.spotify.com/track/6kJoVUIqzlkjNeVGatlGKB) | [Alien Sex Fiend](https://open.spotify.com/artist/6WVnBgqJfj9Iw9gpBed9fJ) | [The Singles 1983\-1995](https://open.spotify.com/album/23bJrYWdTWLUlBdtgCMMCp) | 4:51 |
 | 80 | [Somewhere](https://open.spotify.com/track/5XYCe2ek8lMcTQXYDgQAGG) | [The Danse Society](https://open.spotify.com/artist/0WkypWGtWi9gAlB6aIKESl) | [Seduction \(The Society Collection\)](https://open.spotify.com/album/0NbtabKulAdSkbnzu94bJ9) | 4:20 |
 
-Snapshot ID: `MTY2MDAwOTA2OCwwMDAwMDAwMDdlMjcyMGJmYTMxYmFjMzFjOWVkNzdmZDZhNDU1NmM4`
+Snapshot ID: `MTY2MDAwOTA2OCwwMDAwMDAwMDQ0MTVlNGE5MzRiYjY5MjhkMTQzYmE5OTg1YTc3MTA1`

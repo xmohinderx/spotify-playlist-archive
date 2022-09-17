@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GnjlK17CLK.md) - [plain]
 
 > Plugged in and cranked up; the hottest Blues records from an amplified era\. Cover: B.B\. King.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,651 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,813 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GnjlK17CLK.md) - [plain]
 | 47 | [No Good](https://open.spotify.com/track/1YAqMv5kabudsXnTrCj9KL) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Completely Well](https://open.spotify.com/album/7gzkgAWjOjEf5o6sIvBvT1) | 4:35 |
 | 48 | [Jelly Bread](https://open.spotify.com/track/2eaAUnd8AKIFD0RAfPiW3z) | [Booker T\. & the M.G.'s](https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5) | [Green Onions](https://open.spotify.com/album/2sSDqJOZ7gea3yMbqPUrhq) | 2:30 |
 | 49 | [The Super\-Natural](https://open.spotify.com/track/5WralwF47zqlIgIzxYburB) | [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC) | [A Hard Road \(Deluxe Edition\)](https://open.spotify.com/album/0DMfmALbvN3V0GAkzpeRw1) | 2:55 |
-| 50 | [Sweet Home Chicago](https://open.spotify.com/track/1vshrZ49jUnyLM6udiv2vo) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Buddy Guy/ Freddie King/ Sonny Boy Williamson](https://open.spotify.com/album/0K4t8v6w7lXab6n0yTNkA9) | 4:24 |
+| 50 | [I'm A Little Mixed Up](https://open.spotify.com/track/4cLPvcojgZHpaxP7d5akhG) | [Betty James](https://open.spotify.com/artist/4aBu3Gcusv3NI99mFiMI6v) | [The Chess Story 1957\-1964](https://open.spotify.com/album/6hLDuFXaABk2LySPldc5CB) | 2:51 |
 
-Snapshot ID: `MTY2MzAwMDgwMiwwMDAwMDAwMDE0NGM2ODRjYzU2N2M5YzQ4NzY1MmQ4NmJlZWNmNDYz`
+Snapshot ID: `MTY2MzAwMDgwMiwwMDAwMDAwMDZlYzU0OTczMTU1MjU3MjUzODA0NmNkMzYwZGU5ZTBm`

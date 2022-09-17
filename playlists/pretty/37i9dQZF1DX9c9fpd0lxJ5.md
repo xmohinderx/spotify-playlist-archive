@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c9fpd0lxJ5.md) - [plain]
 
 > indie tunes to make you shine bby:\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 446,934 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 446,929 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,15 +50,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c9fpd0lxJ5.md) - [plain]
 | 40 | [No Hard Feelings](https://open.spotify.com/track/4dXF3hwLihDt8OiZNIWDQV) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka) | [No Hard Feelings](https://open.spotify.com/album/3Y12HLP1kn6YjpsJmPJY3E) | 2:33 |
 | 41 | [Aguaceros](https://open.spotify.com/track/69dAmQimqO0HFs9AQI0EDX) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Iridiscente](https://open.spotify.com/album/6PksDOysvcluD0wAfNSCxB) | 3:38 |
 | 42 | [tdbn](https://open.spotify.com/track/3fLmwbhdw0dgBYYSTvT3v5) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn](https://open.spotify.com/album/6bdoqQybs5gW8m92VMwVPJ) | 3:19 |
-| 43 | [TBT 4 EVER 2.0 \(feat\. Jesse Baez\)](https://open.spotify.com/track/7EW1QpUaFRKwsMQvr6rJoC) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [TBT 4 EVER 2.0 \(feat\. Jesse Baez\)](https://open.spotify.com/album/2HnrU7teXQDKv65s8OoWZY) | 2:47 |
+| 43 | [No Sé \(feat\. Girl Ultra\)](https://open.spotify.com/track/00bdtvYtc1OTsMqIDyB9VJ) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1), [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [¿Dónde Bailarán Las Niñas?](https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa) | 3:38 |
 | 44 | [Te Quiero Olvidar](https://open.spotify.com/track/3fQr5yEzrOis5U7klzyKql) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [CARISMA](https://open.spotify.com/album/62TQ8Q7gaq5T4eUzYr3YXQ) | 3:22 |
-| 45 | [qué bueno!](https://open.spotify.com/track/5oxWWmZLJIH0y6v2isD7Lt) | [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [qué bueno!](https://open.spotify.com/album/5NF8Q7vFhmT1RJ15czoEL7) | 2:37 |
-| 46 | [Copy Paste](https://open.spotify.com/track/4rF5XqE4UUVM1AtYV5wRfw) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Puro Teatro](https://open.spotify.com/album/0omCx2FvDNSj9i6J0KHp3P) | 3:01 |
+| 45 | [Copy Paste](https://open.spotify.com/track/4rF5XqE4UUVM1AtYV5wRfw) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Puro Teatro](https://open.spotify.com/album/0omCx2FvDNSj9i6J0KHp3P) | 3:01 |
+| 46 | [qué bueno!](https://open.spotify.com/track/5oxWWmZLJIH0y6v2isD7Lt) | [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [qué bueno!](https://open.spotify.com/album/5NF8Q7vFhmT1RJ15czoEL7) | 2:37 |
 | 47 | [Puente](https://open.spotify.com/track/1KmEEVfPbIfOqXdVxr8gm2) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Puente](https://open.spotify.com/album/3fFFuFzU8vpMbOhxDVCzBj) | 3:00 |
 | 48 | [Todo Is Gonna Be Alright, Mi Amor](https://open.spotify.com/track/12MFhpEpwzmtNkO1r8Kqxa) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Todo Is Gonna Be Alright, Mi Amor](https://open.spotify.com/album/544UD49q01Pe3ItnRi0tRw) | 3:12 |
-| 49 | [Hasta Que](https://open.spotify.com/track/0F2t2RRkSJVLETwtpfiJth) | [Tatiana Hazel](https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU) | [Hasta Que](https://open.spotify.com/album/61cYa3yCAug08umgvtyv0J) | 3:13 |
-| 50 | [No Sé \(feat\. Girl Ultra\)](https://open.spotify.com/track/00bdtvYtc1OTsMqIDyB9VJ) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1), [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [¿Dónde Bailarán Las Niñas?](https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa) | 3:38 |
-| 51 | [Eso Que Me Das](https://open.spotify.com/track/76Xv0phxmn6MyCxY3K00Wa) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Eso Que Me Das](https://open.spotify.com/album/0WQ1ixBjLMPw4uK0vZnIh3) | 3:47 |
+| 49 | [Eso Que Me Das](https://open.spotify.com/track/76Xv0phxmn6MyCxY3K00Wa) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Eso Que Me Das](https://open.spotify.com/album/0WQ1ixBjLMPw4uK0vZnIh3) | 3:47 |
+| 50 | [TBT 4 EVER 2.0 \(feat\. Jesse Baez\)](https://open.spotify.com/track/7EW1QpUaFRKwsMQvr6rJoC) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [TBT 4 EVER 2.0 \(feat\. Jesse Baez\)](https://open.spotify.com/album/2HnrU7teXQDKv65s8OoWZY) | 2:47 |
+| 51 | [Hasta Que](https://open.spotify.com/track/0F2t2RRkSJVLETwtpfiJth) | [Tatiana Hazel](https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU) | [Hasta Que](https://open.spotify.com/album/61cYa3yCAug08umgvtyv0J) | 3:13 |
 | 52 | [Story To Tell](https://open.spotify.com/track/3iRKNC4HKum4pEalSb5NxI) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Garden of Lucid](https://open.spotify.com/album/1ysIsiNZ4iKrrXjVu85wGp) | 3:15 |
 | 53 | [Días Negros](https://open.spotify.com/track/7GggClJIZhrWpNYfFt5RAQ) | [Chango Menas](https://open.spotify.com/artist/02JOH3JikydGzqOEI7WzA9) | [Días Negros](https://open.spotify.com/album/5aAukLeOUD7CH1qE36t7mt) | 3:02 |
 | 54 | [haciendo discos](https://open.spotify.com/track/5ezQlaBRGmaFzYB9FtMiOd) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [cuatro veces 10](https://open.spotify.com/album/41aX0tVfd2qygS1LN570s1) | 2:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c9fpd0lxJ5.md) - [plain]
 | 99 | [Si Te Portas Mal \(Be Bad\)](https://open.spotify.com/track/5cxGETg09kiVEMDMJ3qW0G) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Everlasting](https://open.spotify.com/album/2PQOF8sJwxJODZ4MZ97mYn) | 3:37 |
 | 100 | [Dónde estás](https://open.spotify.com/track/3xG8DnokACoP2e4Q83PY21) | [dani](https://open.spotify.com/artist/4sYXzPulKYxOYuDKS1px8Y) | [veinte](https://open.spotify.com/album/1rAMdylzJZKDJgL200ivk5) | 3:24 |
 
-Snapshot ID: `MTY2MDc2MjM4OSwwMDAwMDAwMGRjY2RmNWY0YjNkYWY0ZGRjY2QzYjg1MmEzOTE2NTAz`
+Snapshot ID: `MTY2MDc2MjM4OSwwMDAwMDAwMDA5ZWQwZWE3ZDEzMTdlZmNiZTg5N2ViNzUwNGE2YjY0`

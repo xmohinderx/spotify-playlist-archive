@@ -4,7 +4,7 @@
 
 > Nothing but precious sounds from the 90s & 2000s\. Cover: Snow
 
-115 songs - 7 hr 32 min - [published](https://open.spotify.com/playlist/0rXoGbjDMsfaWXFMqBwgOM)
+116 songs - 7 hr 36 min - [published](https://open.spotify.com/playlist/0rXoGbjDMsfaWXFMqBwgOM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,8 +99,9 @@
 | [Seven Day Fool](https://open.spotify.com/track/68Vb8dhUtY7xXgAc9WONXc) | [Jully Black](https://open.spotify.com/artist/781516XewTgtGAnpg6dlmd) | [Revival](https://open.spotify.com/album/2PpxaPsS6U1bhDNG2sMf2q) | 3:25 | 2022-07-01 | 2022-07-29 |
 | [Seven Day Fool](https://open.spotify.com/track/2PL3PBj9UUJzU3O3M85nIj) | [Jully Black](https://open.spotify.com/artist/781516XewTgtGAnpg6dlmd) | [Revival](https://open.spotify.com/album/7fjR0khZYoo95oW4RtHOkg) | 3:25 | 2022-07-01 |  |
 | [Smile For Me](https://open.spotify.com/track/6Wr6zw5Njbmez9ADv1R68N) | [Massari](https://open.spotify.com/artist/0Jzbm3ifxDNLxxS8M4BS51) | [Massari](https://open.spotify.com/album/52O0aB268Q9aMJfMCmBOdE) | 4:22 | 2022-07-01 | 2022-07-29 |
-| [Smile for Me](https://open.spotify.com/track/4LyDqOK3iH791vvfiCOoEP) | [Massari](https://open.spotify.com/artist/0Jzbm3ifxDNLxxS8M4BS51), [Loon](https://open.spotify.com/artist/2gie1bU1LwnxdFAJoTLjzT) | [Massari](https://open.spotify.com/album/2CpA2pY3wtEp4VBRW15Zvz) | 4:22 | 2022-08-19 |  |
+| [Smile for Me](https://open.spotify.com/track/4LyDqOK3iH791vvfiCOoEP) | [Massari](https://open.spotify.com/artist/0Jzbm3ifxDNLxxS8M4BS51), [Loon](https://open.spotify.com/artist/2gie1bU1LwnxdFAJoTLjzT) | [Massari](https://open.spotify.com/album/2CpA2pY3wtEp4VBRW15Zvz) | 4:22 | 2022-08-19 | 2022-09-17 |
 | [Smile For Me](https://open.spotify.com/track/4g3pq8WKIeXJF3ogSxjPt3) | [Massari](https://open.spotify.com/artist/0Jzbm3ifxDNLxxS8M4BS51), [Loon](https://open.spotify.com/artist/2gie1bU1LwnxdFAJoTLjzT) | [Massari](https://open.spotify.com/album/6SAaxSKtAf5ZQUEEs73l36) | 4:22 | 2022-07-01 | 2022-08-20 |
+| [Smile For Me](https://open.spotify.com/track/525X9t8doCdiFVpsAIScX7) | [Massari](https://open.spotify.com/artist/0Jzbm3ifxDNLxxS8M4BS51), [Loon](https://open.spotify.com/artist/2gie1bU1LwnxdFAJoTLjzT) | [Massari](https://open.spotify.com/album/25X7WTyOdq1j7PMjq86zPK) | 4:22 | 2022-09-16 |  |
 | [Sometimes](https://open.spotify.com/track/121Q3ApTES4wi5uMo9dewE) | [Kim Davis](https://open.spotify.com/artist/0lR9PoH2KAqso7wAip3PJc) | [Live, Love, Learn](https://open.spotify.com/album/5accTko0jgyk3fXM8BxZw6) | 3:32 | 2022-08-31 |  |
 | [Stay with Me \(Always\)](https://open.spotify.com/track/5ZfayXikF8vAT4EgMD5T8t) | [Dru](https://open.spotify.com/artist/0HScSUVfUii78Ir9Wv263A) | [The One](https://open.spotify.com/album/6CiWebqzDVRTWCiLK4QOwR) | 3:48 | 2022-08-31 |  |
 | [Steppin Thru \(feat\. Moka Only\)](https://open.spotify.com/track/2HeuwaGl0RTrdhZzsIOL5d) | [Swollen Members](https://open.spotify.com/artist/30QbUq31PEXAT4QFYZyBAM) | [Monsters in the Closet](https://open.spotify.com/album/2zaHwAWL8g21luLKss2qXr) | 3:25 | 2022-07-01 |  |

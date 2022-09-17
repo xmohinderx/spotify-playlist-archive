@@ -4,7 +4,7 @@
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-198 songs - 8 hr 36 min - [published](https://open.spotify.com/playlist/7jgB2m9mBTWEbhTLrW7Tf4)
+202 songs - 8 hr 47 min - [published](https://open.spotify.com/playlist/7jgB2m9mBTWEbhTLrW7Tf4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Aeonian](https://open.spotify.com/track/5t5afa9dRzW41gHbAvUfHQ) | [Ron Well](https://open.spotify.com/artist/3SEmNWyAadupLPO2WOcw0W) | [Aeonian](https://open.spotify.com/album/10TTVSf5z979cewemtMlep) | 2:46 | 2022-06-17 |  |
 | [Agricola Pamtillan](https://open.spotify.com/track/6oespGB8uH8MnFMPncsOiQ) | [Michele Leao](https://open.spotify.com/artist/6FjXAOfjiavprwnGzY0YvF) | [Agricola Pamtillan](https://open.spotify.com/album/1n0hHrMp1GmcW02jCTeGMJ) | 2:07 | 2022-06-17 | 2022-09-09 |
 | [Aguado Study in E Minor](https://open.spotify.com/track/0AekdP1XOJxU4a7zMt290r) | [Dionisio Aguado](https://open.spotify.com/artist/15q3kA3H1abSb5saHZuqeN), [Bill Russell](https://open.spotify.com/artist/7ilKUFoBWbdNujwb6t0PKe) | [Aguado Study in E Minor](https://open.spotify.com/album/5kIrekj3gTeKdDNj5CZ56c) | 2:43 | 2022-09-09 |  |
+| [Air on the G String \- Arr\. for Guitar](https://open.spotify.com/track/6OQxG5XYAuSb5Pn0rZDlcV) | [Martin Statham](https://open.spotify.com/artist/2syH3uHsABXUXdl3DCJDUy) | [Air on the G String \(Arr\. for Guitar\)](https://open.spotify.com/album/10TMvL2gfIRut012LqWH6Z) | 2:59 | 2022-09-16 |  |
 | [Albarracín](https://open.spotify.com/track/1Syf6EfG7o04qESj65mxOv) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Albarracín](https://open.spotify.com/album/3xlEDW390BcYtfFMesVcv8) | 1:42 | 2022-08-12 |  |
 | [Arbonne](https://open.spotify.com/track/39lP6wfJd0sADo8QQVNuPo) | [Frederic Dupont](https://open.spotify.com/artist/1kG7NP29tzvsYI6dEmOZFF) | [Iara](https://open.spotify.com/album/0gPVXKxCJ2nkXFiG1HPMtb) | 3:17 | 2022-06-17 |  |
 | [Aria Amore](https://open.spotify.com/track/2gbiV6hshIr99CuE8Jmc1J) | [Sergei Baronin](https://open.spotify.com/artist/43F9YqxW89cDIMwYv7Ruoy) | [Aria Amore](https://open.spotify.com/album/0dZ1cH2oc1byH1xvEMkwhE) | 2:36 | 2022-06-17 |  |
@@ -62,6 +63,7 @@
 | [En el Bosque](https://open.spotify.com/track/3cNTUgA4X4iMdiOKWNY8RE) | [Agustín Amigó](https://open.spotify.com/artist/3hUFjtgMr2bvq6E6tY7yQB) | [En el Bosque](https://open.spotify.com/album/7ijqMqYhGpd67PAZ9rlfyw) | 3:29 | 2022-06-17 |  |
 | [Endless Sun](https://open.spotify.com/track/5rX1CjuBtcbgVG9wthzuKx) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Endless Sun](https://open.spotify.com/album/27256ie5J0EmEgh2U8eZlf) | 1:44 | 2022-06-17 |  |
 | [Entwined In Time](https://open.spotify.com/track/0CFbpv9WulwdXB8rC2iqMC) | [Alan Shoesmith](https://open.spotify.com/artist/7wa9AhhXtpXyN7huAtsgiC) | [Entwined In Time](https://open.spotify.com/album/38GoFbry09VPVpnckYyNCa) | 2:51 | 2022-06-17 | 2022-09-03 |
+| [Epilogue](https://open.spotify.com/track/3Nt4wp8TBemJLhPkBlf01y) | [Leonardo Agusti](https://open.spotify.com/artist/7pxsTVW2UD2bzGfq8WzaMj) | [Believe](https://open.spotify.com/album/0Iutlc6WCFQ64TZrdQUECo) | 2:49 | 2022-09-16 |  |
 | [Equinox](https://open.spotify.com/track/1RzcnkPzR9MTeBl58XXw1I) | [Stephen Wake](https://open.spotify.com/artist/2cJYFSoLAYw942cLIRPGK7) | [Equinox](https://open.spotify.com/album/1ij3V4AE7Vnogsxb3kNTlc) | 2:30 | 2022-06-17 |  |
 | [Etude in E Minor](https://open.spotify.com/track/3u45JX41lqnh8WzV8ikoTG) | [Benedict Larsen](https://open.spotify.com/artist/0RoZ3QmDJXP7peJyvnDxwC), [Francisco Tárrega](https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t) | [Etude in E Minor](https://open.spotify.com/album/28eDubaBkCUwj6Q78b6F20) | 1:12 | 2022-06-17 |  |
 | [eye of the beholder](https://open.spotify.com/track/5qj92VufB9JpS83gJh73up) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [eye of the beholder](https://open.spotify.com/album/6Ml03ImtzdZLRHmb2pa3Yn) | 3:01 | 2022-07-15 |  |
@@ -131,6 +133,7 @@
 | [No Me Olvides](https://open.spotify.com/track/5162v3QjSylfbHbAPvT9BX) | [Darla Churce](https://open.spotify.com/artist/0dQyC5qPStQj4m8Rc0pGN0) | [No Me Olvides](https://open.spotify.com/album/5uzZHlnaykyyrYaXCTk5o0) | 2:31 | 2022-06-17 |  |
 | [Noon](https://open.spotify.com/track/5xiAGmZz9dYSHOl1QCBTn6) | [Rick Alexander](https://open.spotify.com/artist/11k1IQi1sxPpXfDnLy78Se) | [Noon](https://open.spotify.com/album/16lrP8mrOWybTmxg04xn98) | 2:47 | 2022-06-17 | 2022-08-05 |
 | [Notturno No\. 3](https://open.spotify.com/track/7LUEs2TTMSiQiZAEYhOI63) | [Andreas Heuser](https://open.spotify.com/artist/1TPRvsNV32KEuCAYTh9mg6) | [Notturno No\. 3](https://open.spotify.com/album/019lCBtr2ly5sXuIFzc5Du) | 2:16 | 2022-09-02 |  |
+| [Now You Are Here](https://open.spotify.com/track/12D3dmsQyd3pLT7O9hcJk3) | [Wolfgang Vrecun](https://open.spotify.com/artist/3CXmNX9aJWp1FDQn1XDDbo) | [Modern Classical Guitar, Vol\. 2](https://open.spotify.com/album/33PydvV4ZnXjfrHTauT5vv) | 2:20 | 2022-09-16 |  |
 | [Ode](https://open.spotify.com/track/2Hoxt6py7gP6fmV8Mh9OOm) | [Elson Complex](https://open.spotify.com/artist/1zy5PFSUkeOY7g6bM3vooX) | [Ode](https://open.spotify.com/album/7hAG7HHYB00bdiz4T2C6TO) | 2:40 | 2022-06-17 | 2022-09-09 |
 | [Olivar de los Padres](https://open.spotify.com/track/3wp1BYW2oP8kfXcKld2FtD) | [Regina Costa](https://open.spotify.com/artist/5HTYfcxPnPgnplg9GvUIEr) | [Olivar de los Padres](https://open.spotify.com/album/2OxKeAL3VTsGxJte3qs2OS) | 3:25 | 2022-06-17 |  |
 | [On the Yorkshire Moors](https://open.spotify.com/track/127OCZgkNOhXGJdKWX64hF) | [Art Davis](https://open.spotify.com/artist/2zetqgnvUDWRP4Ug8XyUOd) | [On the Yorkshire Moors](https://open.spotify.com/album/6trFUMDDYQJpqzON6WWlXt) | 2:41 | 2022-07-22 |  |
@@ -168,6 +171,7 @@
 | [Solitaire](https://open.spotify.com/track/78z9A93mkKiW9QyhWazsli) | [Anayah Burke](https://open.spotify.com/artist/56snJZ1Nb0tP4197xTHV68) | [Solitaire](https://open.spotify.com/album/4pgQkUGJx1hijH9zqfun2f) | 3:01 | 2022-06-17 |  |
 | [Spring Song](https://open.spotify.com/track/52n5yfjlyiJoFZjTOQKTN6) | [Rick Alexander](https://open.spotify.com/artist/11k1IQi1sxPpXfDnLy78Se) | [Spring Song](https://open.spotify.com/album/2L66m0ySBM5BfEjugxT0LZ) | 2:51 | 2022-06-17 |  |
 | [St\. Joseph](https://open.spotify.com/track/62DYASAsGeiIs4wIRjzuy8) | [Lee Howard\-Taylor](https://open.spotify.com/artist/3fewyiCJIgYVzSHCnDjlgM) | [Faith](https://open.spotify.com/album/1OVjzueVwUxHfVZKb7zbTP) | 2:37 | 2022-06-17 |  |
+| [Stargazing](https://open.spotify.com/track/1mmbyz9ozdscOnBm2A8lY1) | [Thomas Eder](https://open.spotify.com/artist/2krrSbwXMkf0UncTYMR1qY) | [Stargazing](https://open.spotify.com/album/4iKix895yw4BjGUysZXtCU) | 2:42 | 2022-09-16 |  |
 | [Stones](https://open.spotify.com/track/3YKRLvwTVd61lcgM1En09p) | [The Bare Bones](https://open.spotify.com/artist/2NKYLVOD0HH7O1anuALOBU) | [Stones](https://open.spotify.com/album/1ejYgT85tPxlEWBYn5jjpP) | 2:24 | 2022-06-17 |  |
 | [Sunday Breeze](https://open.spotify.com/track/0F2WP7hiDgw6rbFCxE1eyl) | [Cordell Zoe](https://open.spotify.com/artist/1HVeNsc2IF1ob1427YyiRc) | [Sunday Breeze](https://open.spotify.com/album/2fsb3S8QguRHHvLOzHLSLH) | 1:37 | 2022-09-02 |  |
 | [Sunset In Alcudia](https://open.spotify.com/track/24LazZmLViVcjOHPCeJikj) | [Tim Philis](https://open.spotify.com/artist/1OFXBk4WZ7ZF3I98uJ9T6j) | [Sunset In Alcudia](https://open.spotify.com/album/7CjwSRVXRjNBBEaCZHVaR5) | 2:00 | 2022-06-17 |  |

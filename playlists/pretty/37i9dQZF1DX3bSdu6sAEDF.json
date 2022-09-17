@@ -6,39 +6,23 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5NjA2MCwwMDAwMDAwMDc5MDhlY2JjNmU0ZjFkZjNlMmFjZTZmNGIwYTE1NzI4",
+  "snapshot_id": "MTY2MzMwMDg2MCwwMDAwMDAwMGYxZWUxY2QzYjA0YzY3ZWNiZDRhNDFmN2I1YWZmYzBh",
   "tracks": [
     {
-      "added_at": "2022-09-02 04:02:00",
+      "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "In The Night",
-        "url": "https://open.spotify.com/album/2tG3UA2b0uZhVge9N7bR0Z"
+        "name": "Talking to Yourself",
+        "url": "https://open.spotify.com/album/03O3E9D52ADAd2nzr3wCtb"
       },
       "artists": [
         {
-          "name": "Fly By Midnight",
-          "url": "https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ"
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
         }
       ],
-      "duration_ms": 206000,
-      "name": "In The Night",
-      "url": "https://open.spotify.com/track/30Lcy59RiXJKMVVkwhfdle"
-    },
-    {
-      "added_at": "2022-09-09 04:01:00",
-      "album": {
-        "name": "Forget Me",
-        "url": "https://open.spotify.com/album/50IWCes196EP2nWO6i4I67"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 203472,
-      "name": "Forget Me",
-      "url": "https://open.spotify.com/track/5uSFGgIfHMT3osrAd9n9ym"
+      "duration_ms": 173200,
+      "name": "Talking to Yourself",
+      "url": "https://open.spotify.com/track/1sEBlj6fYXiiaGR8XrLSbr"
     },
     {
       "added_at": "2022-04-01 04:02:00",
@@ -57,36 +41,56 @@
       "url": "https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7"
     },
     {
-      "added_at": "2022-09-09 04:01:00",
+      "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "Happening Again",
-        "url": "https://open.spotify.com/album/1a5EdAP8QdSVwIhYYiF2G4"
+        "name": "Third Wheel (JACK-O Remix)",
+        "url": "https://open.spotify.com/album/2Wiv3N1azJh9IQnSN95hj5"
       },
       "artists": [
         {
-          "name": "Katherine Li",
-          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
+          "name": "Zoe Wees",
+          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
+        },
+        {
+          "name": "JACK-O",
+          "url": "https://open.spotify.com/artist/6ZmyBg7cppMrS2n9T3dzVQ"
         }
       ],
-      "duration_ms": 173951,
-      "name": "Happening Again",
-      "url": "https://open.spotify.com/track/0AHKkQET4CwFDD2TXQi7Tc"
+      "duration_ms": 142000,
+      "name": "Third Wheel - JACK-O Remix",
+      "url": "https://open.spotify.com/track/0wg73ZCjX3uamQZiF94K0K"
     },
     {
-      "added_at": "2022-08-19 04:02:00",
+      "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "YOU AGAINST YOURSELF",
-        "url": "https://open.spotify.com/album/4ICdRtrHEOUftxkU4inMc5"
+        "name": "Carving Canyons",
+        "url": "https://open.spotify.com/album/0keDX0kFNMMZtGWK3YP5GO"
       },
       "artists": [
         {
-          "name": "Ruel",
-          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
+          "name": "Lissie",
+          "url": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
         }
       ],
-      "duration_ms": 146096,
-      "name": "YOU AGAINST YOURSELF",
-      "url": "https://open.spotify.com/track/3Cozx0ZC9RjHOPhW8VOdXC"
+      "duration_ms": 228177,
+      "name": "Hearts on Fire",
+      "url": "https://open.spotify.com/track/5HkslahmVaoXXjbphnlYmZ"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "In Between Dreams",
+        "url": "https://open.spotify.com/album/65aMVW2EfbGTgW9KvG2AMz"
+      },
+      "artists": [
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "duration_ms": 159608,
+      "name": "See You In My Dreams",
+      "url": "https://open.spotify.com/track/72NyOVk69pDEGQwe313bnC"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -109,20 +113,20 @@
       "url": "https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8"
     },
     {
-      "added_at": "2022-09-09 04:01:00",
+      "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "Arizona",
-        "url": "https://open.spotify.com/album/5mIY4ShCactjPKntsiRcHZ"
+        "name": "Nothing Lasts Forever",
+        "url": "https://open.spotify.com/album/0eeLFV76Mnl91MEXf893YQ"
       },
       "artists": [
         {
-          "name": "Nate Good",
-          "url": "https://open.spotify.com/artist/2OPyK48uFk5aZ8GKWa5FPl"
+          "name": "Dylan",
+          "url": "https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk"
         }
       ],
-      "duration_ms": 131249,
-      "name": "Arizona",
-      "url": "https://open.spotify.com/track/63nK13LZrRDdKpLRSj4uca"
+      "duration_ms": 167550,
+      "name": "Nothing Lasts Forever",
+      "url": "https://open.spotify.com/track/6IzTSuvoY6w3QAhCfN1Sgb"
     },
     {
       "added_at": "2022-01-19 18:36:18",
@@ -205,6 +209,22 @@
       "url": "https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX"
     },
     {
+      "added_at": "2022-09-09 04:01:00",
+      "album": {
+        "name": "Forget Me",
+        "url": "https://open.spotify.com/album/50IWCes196EP2nWO6i4I67"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 203472,
+      "name": "Forget Me",
+      "url": "https://open.spotify.com/track/5uSFGgIfHMT3osrAd9n9ym"
+    },
+    {
       "added_at": "2022-01-19 18:36:18",
       "album": {
         "name": "Dawn FM",
@@ -219,6 +239,22 @@
       "duration_ms": 188918,
       "name": "Sacrifice",
       "url": "https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU"
+    },
+    {
+      "added_at": "2022-01-19 18:36:18",
+      "album": {
+        "name": "=",
+        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 236906,
+      "name": "Overpass Graffiti",
+      "url": "https://open.spotify.com/track/4btFHqumCO31GksfuBLLv3"
     },
     {
       "added_at": "2022-01-19 18:36:18",
@@ -243,22 +279,6 @@
       "duration_ms": 197442,
       "name": "Smokin Out The Window",
       "url": "https://open.spotify.com/track/3xVZYkcuWalGudeKl861wb"
-    },
-    {
-      "added_at": "2022-01-19 18:36:18",
-      "album": {
-        "name": "=",
-        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 236906,
-      "name": "Overpass Graffiti",
-      "url": "https://open.spotify.com/track/4btFHqumCO31GksfuBLLv3"
     },
     {
       "added_at": "2022-02-18 05:02:00",
@@ -295,6 +315,22 @@
       "duration_ms": 213750,
       "name": "Cracker Island (feat. Thundercat)",
       "url": "https://open.spotify.com/track/2W3ZpQg9i6lE6kmHbcdu9N"
+    },
+    {
+      "added_at": "2022-01-19 18:36:18",
+      "album": {
+        "name": "Dawn FM",
+        "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 211814,
+      "name": "Less Than Zero",
+      "url": "https://open.spotify.com/track/2D4dV2KXDTszzJ3p3cFqhA"
     },
     {
       "added_at": "2022-01-19 18:36:18",
@@ -375,22 +411,6 @@
       "duration_ms": 211167,
       "name": "Remind Me",
       "url": "https://open.spotify.com/track/6VIYEyjNW71NnIGEduf8D8"
-    },
-    {
-      "added_at": "2022-01-19 18:36:18",
-      "album": {
-        "name": "Dawn FM",
-        "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 211814,
-      "name": "Less Than Zero",
-      "url": "https://open.spotify.com/track/2D4dV2KXDTszzJ3p3cFqhA"
     },
     {
       "added_at": "2022-04-08 04:01:00",
@@ -489,20 +509,20 @@
       "url": "https://open.spotify.com/track/6o8tRLnKNSVoBHCTfiFdBA"
     },
     {
-      "added_at": "2022-08-05 04:02:00",
+      "added_at": "2022-08-19 04:02:00",
       "album": {
-        "name": "All 4 Nothing",
-        "url": "https://open.spotify.com/album/3edu0vIRVJ6vcK3yagi6oS"
+        "name": "YOU AGAINST YOURSELF",
+        "url": "https://open.spotify.com/album/4ICdRtrHEOUftxkU4inMc5"
       },
       "artists": [
         {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+          "name": "Ruel",
+          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
         }
       ],
-      "duration_ms": 164688,
-      "name": "Stranger",
-      "url": "https://open.spotify.com/track/3aUD2nXnCYiGd9V1UhfyRz"
+      "duration_ms": 146096,
+      "name": "YOU AGAINST YOURSELF",
+      "url": "https://open.spotify.com/track/3Cozx0ZC9RjHOPhW8VOdXC"
     },
     {
       "added_at": "2022-05-06 04:02:00",
@@ -521,22 +541,6 @@
       "url": "https://open.spotify.com/track/2eWOo3ooHrVezj2pmapV8X"
     },
     {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
-        "name": "Nicole",
-        "url": "https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx"
-      },
-      "artists": [
-        {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-        }
-      ],
-      "duration_ms": 177720,
-      "name": "Keeping Tabs",
-      "url": "https://open.spotify.com/track/2zz4plJxtgMIsQg5SMl2Bg"
-    },
-    {
       "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "dying on the inside",
@@ -551,6 +555,38 @@
       "duration_ms": 204847,
       "name": "dying on the inside",
       "url": "https://open.spotify.com/track/6h1s7cKnUtsbRpE5bwnUTf"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "All 4 Nothing",
+        "url": "https://open.spotify.com/album/3edu0vIRVJ6vcK3yagi6oS"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "duration_ms": 164688,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/3aUD2nXnCYiGd9V1UhfyRz"
+    },
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "Nicole",
+        "url": "https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "duration_ms": 177720,
+      "name": "Keeping Tabs",
+      "url": "https://open.spotify.com/track/2zz4plJxtgMIsQg5SMl2Bg"
     },
     {
       "added_at": "2022-02-11 05:02:00",
@@ -765,22 +801,6 @@
       "url": "https://open.spotify.com/track/5DTBPQRHrBOnvzIF5XLBPq"
     },
     {
-      "added_at": "2022-06-03 04:01:00",
-      "album": {
-        "name": "Want Want",
-        "url": "https://open.spotify.com/album/4hHUyNuLV7kIyHh4pBQNCE"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        }
-      ],
-      "duration_ms": 188520,
-      "name": "Want Want",
-      "url": "https://open.spotify.com/track/5fmaigGNZqMUv3bW6FCs2L"
-    },
-    {
       "added_at": "2022-01-19 18:36:18",
       "album": {
         "name": "Private Space",
@@ -801,6 +821,22 @@
       "url": "https://open.spotify.com/track/6W9rbkBueZQrwuzO24GHZ2"
     },
     {
+      "added_at": "2022-06-03 04:01:00",
+      "album": {
+        "name": "Want Want",
+        "url": "https://open.spotify.com/album/4hHUyNuLV7kIyHh4pBQNCE"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "duration_ms": 188520,
+      "name": "Want Want",
+      "url": "https://open.spotify.com/track/5fmaigGNZqMUv3bW6FCs2L"
+    },
+    {
       "added_at": "2022-04-15 04:02:00",
       "album": {
         "name": "Love Like That",
@@ -815,38 +851,6 @@
       "duration_ms": 194840,
       "name": "Love Like That",
       "url": "https://open.spotify.com/track/5FkMAjNnp34RGJJj9TTY2A"
-    },
-    {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "Give Me The Reason",
-        "url": "https://open.spotify.com/album/2IKvoLYI5mb0eyKWiB2G2z"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 234186,
-      "name": "Give Me The Reason",
-      "url": "https://open.spotify.com/track/5viz8trU1uh1pngW0hWr3l"
-    },
-    {
-      "added_at": "2022-01-19 18:36:18",
-      "album": {
-        "name": "Obviously",
-        "url": "https://open.spotify.com/album/2Zi7uv234eNZJfLPGUIkSD"
-      },
-      "artists": [
-        {
-          "name": "Lake Street Dive",
-          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
-        }
-      ],
-      "duration_ms": 230178,
-      "name": "Hypotheticals",
-      "url": "https://open.spotify.com/track/5lE2EFXt4muvLFMGQg4hZN"
     }
   ],
   "unique_name": "Evening Commute",

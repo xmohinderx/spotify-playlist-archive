@@ -1649,7 +1649,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 112572,
       "name": "c\u00f3mo dormiste?",
       "url": "https://open.spotify.com/track/3fjN3y5x4hN53rykAN2LHQ"
@@ -1859,7 +1859,7 @@
       ],
       "date_added": "2022-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 224996,
       "name": "Desesperados",
       "url": "https://open.spotify.com/track/6mmPpaltUZK7xjNlBPQQ0p"
@@ -3659,7 +3659,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-09-19",
+      "date_removed": null,
       "duration_ms": 179040,
       "name": "La bikina - En vivo",
       "url": "https://open.spotify.com/track/1jxO9AwMqYynDsuMWKrPvi"
@@ -3677,7 +3677,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-15",
+      "date_removed": null,
       "duration_ms": 188416,
       "name": "La Boda Del Huitlacoche - Live",
       "url": "https://open.spotify.com/track/1Tcm4Qi0lbzXofH11MIzJs"
@@ -4623,7 +4623,7 @@
       ],
       "date_added": "2022-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 226093,
       "name": "MAMIII",
       "url": "https://open.spotify.com/track/7FlQk2gJ6TBrHHiidvdR2O"
@@ -5103,7 +5103,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-09-19",
+      "date_removed": null,
       "duration_ms": 209213,
       "name": "M\u00e9xico En La Piel",
       "url": "https://open.spotify.com/track/5BPq1UQa1NSN647R6IzD3n"
@@ -5555,7 +5555,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 244444,
       "name": "Otro Atardecer",
       "url": "https://open.spotify.com/track/0E0DRHf5PfMeor0ZCwB3oT"
@@ -5709,6 +5709,28 @@
       "duration_ms": 227628,
       "name": "Party",
       "url": "https://open.spotify.com/track/4tYFy8ALRjIZvnvSLw5lxN"
+    },
+    {
+      "album": {
+        "name": "Party en el Barrio (feat. Duki)",
+        "url": "https://open.spotify.com/album/2alxO71ik8lO8YIuNT2LKn"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236143,
+      "name": "Party en el Barrio (feat. Duki)",
+      "url": "https://open.spotify.com/track/5GF0X7GdNmnouKcdhhRmtm"
     },
     {
       "album": {
@@ -6473,7 +6495,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-09-19",
+      "date_removed": null,
       "duration_ms": 200386,
       "name": "Sabes Una Cosa",
       "url": "https://open.spotify.com/track/21Ullb4TU8qMsQd0Iselng"
@@ -8543,7 +8565,7 @@
       ],
       "date_added": "2021-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 206710,
       "name": "Yonaguni",
       "url": "https://open.spotify.com/track/2JPLbjOn0wPCngEot2STUS"

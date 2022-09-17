@@ -4,7 +4,7 @@
 
 > Trending lofi beats from across the World Wide Web.
 
-82 songs - 3 hr 15 min - [published](https://open.spotify.com/playlist/7rmX5cFyNiQXXEqbWIw0Ho)
+85 songs - 3 hr 22 min - [published](https://open.spotify.com/playlist/7rmX5cFyNiQXXEqbWIw0Ho)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [i'm tired of feeling this way](https://open.spotify.com/track/0A6dTlWYD2magT5bqUyZLM) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [i'm tired of feeling this way / lychee juice](https://open.spotify.com/album/2H51wbj4LoKu3MS1enfhFd) | 2:28 | 2022-09-09 |  |
 | [Iktara \- Lofi Flip](https://open.spotify.com/track/7JOFplrLQfYkuEcWCASZDo) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx), [VIBIE](https://open.spotify.com/artist/1btklM4yoTaKiVjLodLrOh) | [Iktara \(Lofi Flip\)](https://open.spotify.com/album/21bNH0z2JgCevs7f6gNRgJ) | 2:53 | 2022-09-09 |  |
 | [Imagination](https://open.spotify.com/track/5bttUhX2smfy7urwlidPfG) | [CORBAL](https://open.spotify.com/artist/2jjSx5EpZwv9iBAgFkGWPh), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r), [Patient Zero](https://open.spotify.com/artist/7z6qM92XcUIwugTRs2PcmZ) | [Imagination](https://open.spotify.com/album/4Mm3zqe5BaCECuV8spp9ZG) | 1:44 | 2022-09-09 |  |
-| [Insomnia Dream](https://open.spotify.com/track/4rtJXaHdYeaSOlWnka0xnP) | [colours in the dark](https://open.spotify.com/artist/4lRRwA3JsWrOD8f47gI2iI) | [Insomnia Dream](https://open.spotify.com/album/4FANqNso2mEWdYcc2Ji4H3) | 2:42 | 2022-09-09 |  |
+| [Insomnia Dream](https://open.spotify.com/track/1wkD1pgESRrQysLpioCew3) | [colours in the dark](https://open.spotify.com/artist/4lRRwA3JsWrOD8f47gI2iI) | [Insomnia Dream](https://open.spotify.com/album/6gjd1kVza1OQREmtvcGUC7) | 2:42 | 2022-09-16 |  |
+| [Insomnia Dream](https://open.spotify.com/track/4rtJXaHdYeaSOlWnka0xnP) | [colours in the dark](https://open.spotify.com/artist/4lRRwA3JsWrOD8f47gI2iI) | [Insomnia Dream](https://open.spotify.com/album/4FANqNso2mEWdYcc2Ji4H3) | 2:42 | 2022-09-09 | 2022-09-17 |
 | [Is It Too Much to Ask For](https://open.spotify.com/track/5KPSKv02jtAsI7fmpT7enC) | [me7k](https://open.spotify.com/artist/5yXMtEjaBVEtGSyICT1w2b) | [Is It Too Much to Ask For](https://open.spotify.com/album/0IzYrQln8FJY0XwfYq3X6c) | 1:40 | 2022-09-09 |  |
 | [Jashne Bahara \- Lofi Flip](https://open.spotify.com/track/21hHDH6amg7qm9QR9vfqb9) | [Jammy Weirdo](https://open.spotify.com/artist/64QCKFA8kD38Waf5EXbSRp), [Mig](https://open.spotify.com/artist/7omB2Vc993xt3mpwAcosYe) | [Jashne Bahara \(Lofi Flip\)](https://open.spotify.com/album/55bGbfX2eC1SECIotOJrD2) | 3:04 | 2022-09-09 |  |
 | [just friends](https://open.spotify.com/track/5Mn3siu0XehRb9kTEPqotX) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [just friends](https://open.spotify.com/album/16Plc6F8ZjKVlaqEkbCKfr) | 2:52 | 2022-09-09 |  |
@@ -63,7 +64,8 @@
 | [my new love](https://open.spotify.com/track/23gcQr3NRKzLXsP9H5jFQ1) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [Gentle Boy](https://open.spotify.com/album/2Ap5vMlN2HZQjTyohlapPA) | 1:05 | 2022-09-09 |  |
 | [Oblivion](https://open.spotify.com/track/2zhPy8zbBf53XgTtkEbnbO) | [Rufi\-O](https://open.spotify.com/artist/5GKakcgOxfujEnTZOffcRn), [Lily Potter](https://open.spotify.com/artist/2ICXkeX9vhcboodu8Auv8p) | [Oblivion](https://open.spotify.com/album/0Oa8rgpPA3gskDwdjpQBHp) | 2:32 | 2022-09-09 |  |
 | [One Summer Day \(Spirited Away\)](https://open.spotify.com/track/7eo2HVkRxrDU3bQPwEiIBT) | [Kato](https://open.spotify.com/artist/3yTNaLgtCufxUYDsWa5MpA) | [Sleep Anime Lofi Beats](https://open.spotify.com/album/2ztCJz2gwfKnjwuyKBbcqZ) | 1:25 | 2022-09-09 |  |
-| [one year has passed \(look at all we've been through\)](https://open.spotify.com/track/4MrNe6NofqZExVXkbkTysk) | [colours in the dark](https://open.spotify.com/artist/4lRRwA3JsWrOD8f47gI2iI) | [one year has passed \(look at all we've been through\)](https://open.spotify.com/album/5uZYl8Jhiwz2D1EJRfSd1E) | 2:21 | 2022-09-09 |  |
+| [one year has passed \(look at all we've been through\)](https://open.spotify.com/track/40MySZuE1XLm9ytnL3qDqy) | [colours in the dark](https://open.spotify.com/artist/4lRRwA3JsWrOD8f47gI2iI) | [one year has passed \(look at all we've been through\)](https://open.spotify.com/album/4R4XVKZaOXM88yX8W2YBIX) | 2:21 | 2022-09-16 |  |
+| [one year has passed \(look at all we've been through\)](https://open.spotify.com/track/4MrNe6NofqZExVXkbkTysk) | [colours in the dark](https://open.spotify.com/artist/4lRRwA3JsWrOD8f47gI2iI) | [one year has passed \(look at all we've been through\)](https://open.spotify.com/album/5uZYl8Jhiwz2D1EJRfSd1E) | 2:21 | 2022-09-09 | 2022-09-17 |
 | [over u](https://open.spotify.com/track/6dMnsLoJPFfXIxcsDqjGiZ) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [over u](https://open.spotify.com/album/0ldYR1JTxCkRm1V6F8w8mS) | 2:59 | 2022-09-09 |  |
 | [Perspective](https://open.spotify.com/track/14ckoOlSTdYVDURRxlpHrW) | [CaliCronk](https://open.spotify.com/artist/7IWTF2SJ9kPwh5YH92KF9q), [middt](https://open.spotify.com/artist/3u78iBx7E3vzHHhc47gdTf) | [Perspective](https://open.spotify.com/album/3O4tupQbNSUo0w7XZNsR34) | 1:49 | 2022-09-09 |  |
 | [Pokémon Theme Lofi](https://open.spotify.com/track/59dMMxNmcPXPKa4S0vYi1j) | [Kato](https://open.spotify.com/artist/3yTNaLgtCufxUYDsWa5MpA) | [Sleep Anime Lofi Beats](https://open.spotify.com/album/2ztCJz2gwfKnjwuyKBbcqZ) | 1:20 | 2022-09-09 |  |
@@ -88,6 +90,7 @@
 | [Waalian \(Lo\-Fi\)](https://open.spotify.com/track/1FTiraMT2EX2zX1445zmWD) | [Sanjay S Yadav](https://open.spotify.com/artist/6rgc6AL16aoiwofPPzsoLU) | [Waalian \(Lo\-Fi\)](https://open.spotify.com/album/2moppEz2KPZAFIY63zjoaq) | 2:55 | 2022-09-09 |  |
 | [Wake Up](https://open.spotify.com/track/73SyPIx501G3211y3oTYns) | [moow](https://open.spotify.com/artist/4dGUoQuMs1zVpafybz4O9d), [Lotte Kestner](https://open.spotify.com/artist/0LmmhAkoebSsbFfgCybcGI) | [I Can't Tell You How Much It Hurts](https://open.spotify.com/album/3f046S4KzdvS5pEmSDMofP) | 1:22 | 2022-09-09 |  |
 | [walk but in a garden](https://open.spotify.com/track/0p1oF94MG2dOCbMSDsGMDj) | [LLusion](https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb) | [walk but in a garden](https://open.spotify.com/album/03Glq418UekVfi6ud34yeg) | 1:54 | 2022-09-09 |  |
+| [Watercolors](https://open.spotify.com/track/1Pc51j567gmnRvTBQuChYY) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O) | [Watercolors](https://open.spotify.com/album/0s4uklHAfPCgyHwqJ3hYh7) | 1:53 | 2022-09-16 |  |
 | [Woh Lamhe Woh Baatein \- LoFi](https://open.spotify.com/track/0nBF9RgXqVi1oiQL6JSigs) | [Poorvesh Dave](https://open.spotify.com/artist/3U4ZRBChsjzagb4wcEXutU) | [Lofi Songs](https://open.spotify.com/album/3QuunYLIrBCrdrDlQgaLAe) | 2:21 | 2022-09-09 |  |
 | [Yellow](https://open.spotify.com/track/3S9kCBYnWg7jSSV1XAYL6Q) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Chill Fruits Music](https://open.spotify.com/artist/34b7j3TqM5ramjmt2mc8tB) | [Yellow](https://open.spotify.com/album/4C5iCxq8RjQOqLoXaBXWLO) | 1:42 | 2022-09-09 |  |
 

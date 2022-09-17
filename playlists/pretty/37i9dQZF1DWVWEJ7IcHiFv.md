@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWEJ7IcHiFv.md) - [plain]
 
 > This is the Latin soundtrack of the 80s! Cover: Gloria Estefan
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,001 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,055 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,10 +12,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWEJ7IcHiFv.md) - [plain]
 | 2 | [Ahora Te Puedes Marchar](https://open.spotify.com/track/1uKjQoh8JZj9ryuYRhpd7E) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Soy Como Quiero Ser](https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z) | 3:11 |
 | 3 | [Devuélveme a mi chica](https://open.spotify.com/track/1Wrzhfa5bNlqvsnCztz190) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Hombres G \(Edición 30 Aniversario\)](https://open.spotify.com/album/2iMF2NlOZMfBTdHyubrg6y) | 3:14 |
 | 4 | [Con Todos Menos Conmigo](https://open.spotify.com/track/4d7N2lqEJMbQwVy1LCqhXv) | [Timbiriche](https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO) | [Timbiriche 7](https://open.spotify.com/album/5srfo2XTGJPW9EAiky3TdM) | 3:04 |
-| 5 | [Lambada \- Original Version 1989](https://open.spotify.com/track/6xepovPqjvrkEw9Y5AMmTm) | [Kaoma](https://open.spotify.com/artist/1LsXqDdYVyONhrjAORENbu) | [Lambada \- Les originaux No\. 1 de l'été \(Original 1989\)](https://open.spotify.com/album/0Lku5Y0I5aGcRSgeo2mOJm) | 3:27 |
-| 6 | [Lobo\-hombre en París](https://open.spotify.com/track/3M1H1CWjrSq7nxABHc8EXv) | [La Unión](https://open.spotify.com/artist/2Ax9wZpdlg4r2zkc3pcI8U) | [Grandes Exitos](https://open.spotify.com/album/7bYD4tCxzQOzGZmKBKtT3m) | 3:53 |
-| 7 | [Como Fui A Enamorarme De Ti](https://open.spotify.com/track/6CxvpsqUxUD5xSrYCA8JHr) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Y Para Siempre ...](https://open.spotify.com/album/4moS1H6d049CbtVXZwd4rs) | 4:29 |
-| 8 | [La Muralla Verde](https://open.spotify.com/track/6OKhBvddAlWxxFnjbpilhu) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Contrareloj](https://open.spotify.com/album/3e86fuFCEkoo3c2BESiLvd) | 2:41 |
+| 5 | [Lobo\-hombre en París](https://open.spotify.com/track/3M1H1CWjrSq7nxABHc8EXv) | [La Unión](https://open.spotify.com/artist/2Ax9wZpdlg4r2zkc3pcI8U) | [Grandes Exitos](https://open.spotify.com/album/7bYD4tCxzQOzGZmKBKtT3m) | 3:53 |
+| 6 | [Lambada \- Original Version 1989](https://open.spotify.com/track/6xepovPqjvrkEw9Y5AMmTm) | [Kaoma](https://open.spotify.com/artist/1LsXqDdYVyONhrjAORENbu) | [Lambada \- Les originaux No\. 1 de l'été \(Original 1989\)](https://open.spotify.com/album/0Lku5Y0I5aGcRSgeo2mOJm) | 3:27 |
+| 7 | [La Muralla Verde](https://open.spotify.com/track/6OKhBvddAlWxxFnjbpilhu) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Contrareloj](https://open.spotify.com/album/3e86fuFCEkoo3c2BESiLvd) | 2:41 |
+| 8 | [Como Fui A Enamorarme De Ti](https://open.spotify.com/track/6CxvpsqUxUD5xSrYCA8JHr) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Y Para Siempre ...](https://open.spotify.com/album/4moS1H6d049CbtVXZwd4rs) | 4:29 |
 | 9 | [La Bamba](https://open.spotify.com/track/0uMMLry3hzWGn3q3loqMkm) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [La Bamba / Charlena](https://open.spotify.com/album/0FPwLfwQWd91kV5rZTzMlZ) | 2:54 |
 | 10 | [Marta tiene un marcapasos](https://open.spotify.com/track/1XvfncS1t4BNkh37klHeqj) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [La Cagaste..\. Burt Lancaster](https://open.spotify.com/album/6clqMga4PMBcBlWCR6idis) | 2:12 |
 | 11 | [La Incondicional](https://open.spotify.com/track/6F9yAYUaNbUhdlQyt5uZ3b) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Busca Una Mujer](https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo) | 4:17 |
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWEJ7IcHiFv.md) - [plain]
 | 22 | [Dr\. Psiquiatra](https://open.spotify.com/track/6FmwfLbteUqHfcz10Ab9yY) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Que Hago Aquí?](https://open.spotify.com/album/6CQphijyJq4b6slAFrRXf6) | 3:41 |
 | 23 | [A quién le importa](https://open.spotify.com/track/7Eb5AYiiGWItBNddlmxvnh) | [Alaska Y Dinarama](https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh) | [No Es Pecado \-Remasters](https://open.spotify.com/album/4WVr9fj0yFPIUbyb9tjOQh) | 3:25 |
 | 24 | [Querida](https://open.spotify.com/track/3UHfhZ4MZfwfSJDw9DhspX) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Juan Gabriel \- 40 Aniversario](https://open.spotify.com/album/1Iofb00kc6shksa6a7wSah) | 5:23 |
-| 25 | [Tu Pirata Soy Yo](https://open.spotify.com/track/2bHEObIToIMkdZRXsC04Kt) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Chayanne](https://open.spotify.com/album/20LKBgzwk7zrSSn0N8ukFV) | 2:53 |
-| 26 | [Maquillaje](https://open.spotify.com/track/5OiU5DLjmMBF7ELAjIKxCZ) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [Mecano](https://open.spotify.com/album/1OWPlRO2vf9QFXqw4uPy8D) | 2:32 |
+| 25 | [Maquillaje](https://open.spotify.com/track/5OiU5DLjmMBF7ELAjIKxCZ) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [Mecano](https://open.spotify.com/album/1OWPlRO2vf9QFXqw4uPy8D) | 2:32 |
+| 26 | [Tu Pirata Soy Yo](https://open.spotify.com/track/2bHEObIToIMkdZRXsC04Kt) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Chayanne](https://open.spotify.com/album/20LKBgzwk7zrSSn0N8ukFV) | 2:53 |
 | 27 | [Bazar](https://open.spotify.com/track/7CLxH03q65I3aktL79k4vE) | [Flans](https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT) | [Flans](https://open.spotify.com/album/1otqQgjwtYN6jQR61jaE4A) | 3:29 |
 | 28 | [Cada Vez Que Digo Adiós](https://open.spotify.com/track/2WKWskcwqz0KKFRDkQleda) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Contrareloj](https://open.spotify.com/album/3e86fuFCEkoo3c2BESiLvd) | 3:52 |
 | 29 | [No Voy en Tren](https://open.spotify.com/track/0rliTXrA8nLBuJcxDuueWU) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Parte De La Religion](https://open.spotify.com/album/4MrFVzdNEgxfZbJyC2RQt9) | 3:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWEJ7IcHiFv.md) - [plain]
 | 49 | [Get on Your Feet](https://open.spotify.com/track/7awBgmQ3B0YscMXPBwE1gQ) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Cuts Both Ways](https://open.spotify.com/album/4rPsV2qfjewaH9tAidFVv9) | 3:38 |
 | 50 | [Rhythm Is Gonna Get You](https://open.spotify.com/track/6302KY4zq4Bpx823hyk4Kk) | [Gloria Estefan And Miami Sound Machine](https://open.spotify.com/artist/2Gop8SbSVt5SaJzuaRFa7D), [Miami Sound Machine](https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F) | [Greatest Hits](https://open.spotify.com/album/5wkQo9u8qrKOdfGqoizWPo) | 3:55 |
 
-Snapshot ID: `MTY2MTkzMDg2OSwwMDAwMDAwMDVmMjExNDE0MDVlMTgzOTFlZDk5MzhlZTgxYTg5OTVl`
+Snapshot ID: `MTY2MTkzMDg2OSwwMDAwMDAwMDZmNzQxYWYwYWQwYTAwNGRjMmM1YjBjZDNlM2ZmN2Nk`

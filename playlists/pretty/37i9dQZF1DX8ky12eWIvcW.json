@@ -1,12 +1,12 @@
 {
   "description": "Turn up with the biggest party tracks of the '90s and '00s.",
-  "num_followers": 2114327,
+  "num_followers": 2114939,
   "original_name": "Throwback Jams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjQ3ODc5OSwwMDAwMDAwMDY0NGM2ZmZkZWI4ODI4ODE2ZDhmOTIxMGJiZjYzYTJl",
+  "snapshot_id": "MTY2MjQ3ODc5OSwwMDAwMDAwMDliYjkxYTkwZDk0ZWNiNGY0YmIwMmU5ZmE4MTJkY2E3",
   "tracks": [
     {
       "added_at": "2022-09-06 15:39:59",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2022-09-06 15:39:59",
       "album": {
+        "name": "Stankonia",
+        "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 240026,
+      "name": "So Fresh, So Clean",
+      "url": "https://open.spotify.com/track/6glsMWIMIxQ4BedzLqGVi4"
+    },
+    {
+      "added_at": "2022-09-06 15:39:59",
+      "album": {
         "name": "Street Love",
         "url": "https://open.spotify.com/album/6Lq7nLkIq7C0zVJp0OGSGO"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 229866,
       "name": "Run It! (feat. Juelz Santana)",
       "url": "https://open.spotify.com/track/7xYnUQigPoIDAMPVK79NEq"
-    },
-    {
-      "added_at": "2022-09-06 15:39:59",
-      "album": {
-        "name": "Stankonia",
-        "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        }
-      ],
-      "duration_ms": 240026,
-      "name": "So Fresh, So Clean",
-      "url": "https://open.spotify.com/track/6glsMWIMIxQ4BedzLqGVi4"
     },
     {
       "added_at": "2022-09-06 15:39:59",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2022-09-06 15:39:59",
       "album": {
+        "name": "Speakerboxxx/The Love Below",
+        "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 369573,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/6bUNEbXT7HovLW6BgPCBsb"
+    },
+    {
+      "added_at": "2022-09-06 15:39:59",
+      "album": {
         "name": "Big Willie Style",
         "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
       },
@@ -1267,22 +1283,6 @@
     {
       "added_at": "2022-09-06 15:39:59",
       "album": {
-        "name": "Speakerboxxx/The Love Below",
-        "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        }
-      ],
-      "duration_ms": 369573,
-      "name": "Roses",
-      "url": "https://open.spotify.com/track/6bUNEbXT7HovLW6BgPCBsb"
-    },
-    {
-      "added_at": "2022-09-06 15:39:59",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg"
       },
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2022-09-06 15:39:59",
       "album": {
-        "name": "Big Willie Style",
-        "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
-      },
-      "artists": [
-        {
-          "name": "Will Smith",
-          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
-        }
-      ],
-      "duration_ms": 227933,
-      "name": "Gettin' Jiggy Wit It",
-      "url": "https://open.spotify.com/track/0weAUscowxeqDtpCgtbpgp"
-    },
-    {
-      "added_at": "2022-09-06 15:39:59",
-      "album": {
         "name": "Black On Both Sides",
         "url": "https://open.spotify.com/album/5gK2l2LgWY0BA4p9uy27z6"
       },
@@ -1347,18 +1331,18 @@
     {
       "added_at": "2022-09-06 15:39:59",
       "album": {
-        "name": "Survivor",
-        "url": "https://open.spotify.com/album/2HcjLD0ButtKsQYqzoyOx9"
+        "name": "Big Willie Style",
+        "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
       },
       "artists": [
         {
-          "name": "Destiny's Child",
-          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+          "name": "Will Smith",
+          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
         }
       ],
-      "duration_ms": 254026,
-      "name": "Survivor",
-      "url": "https://open.spotify.com/track/2Mpj1Ul5OFPyyP4wB62Rvi"
+      "duration_ms": 227933,
+      "name": "Gettin' Jiggy Wit It",
+      "url": "https://open.spotify.com/track/0weAUscowxeqDtpCgtbpgp"
     },
     {
       "added_at": "2022-09-06 15:39:59",
@@ -1375,6 +1359,22 @@
       "duration_ms": 286266,
       "name": "Where The Hood At",
       "url": "https://open.spotify.com/track/6RUpJeXT6U4SPEafnr9Wr7"
+    },
+    {
+      "added_at": "2022-09-06 15:39:59",
+      "album": {
+        "name": "Survivor",
+        "url": "https://open.spotify.com/album/2HcjLD0ButtKsQYqzoyOx9"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        }
+      ],
+      "duration_ms": 254026,
+      "name": "Survivor",
+      "url": "https://open.spotify.com/track/2Mpj1Ul5OFPyyP4wB62Rvi"
     },
     {
       "added_at": "2022-09-06 15:39:59",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2022-09-06 15:39:59",
       "album": {
-        "name": "Country Grammar",
-        "url": "https://open.spotify.com/album/5v7Icroz1sQsK2sQyLrWzE"
-      },
-      "artists": [
-        {
-          "name": "Nelly",
-          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
-        }
-      ],
-      "duration_ms": 287000,
-      "name": "Country Grammar (Hot Shit)",
-      "url": "https://open.spotify.com/track/3wMUvT6eIw2L5cZFG1yH9j"
-    },
-    {
-      "added_at": "2022-09-06 15:39:59",
-      "album": {
         "name": "People's Instinctive Travels and the Paths of Rhythm (25th Anniversary Edition)",
         "url": "https://open.spotify.com/album/3kV0i1qqudjf0PGawJ4jck"
       },
@@ -1451,18 +1435,18 @@
     {
       "added_at": "2022-09-06 15:39:59",
       "album": {
-        "name": "The Writing's On The Wall",
-        "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
+        "name": "Country Grammar",
+        "url": "https://open.spotify.com/album/5v7Icroz1sQsK2sQyLrWzE"
       },
       "artists": [
         {
-          "name": "Destiny's Child",
-          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
         }
       ],
-      "duration_ms": 230200,
-      "name": "Jumpin', Jumpin'",
-      "url": "https://open.spotify.com/track/4pmc2AxSEq6g7hPVlJCPyP"
+      "duration_ms": 287000,
+      "name": "Country Grammar (Hot Shit)",
+      "url": "https://open.spotify.com/track/3wMUvT6eIw2L5cZFG1yH9j"
     },
     {
       "added_at": "2022-09-06 15:39:59",
@@ -1547,6 +1531,22 @@
     {
       "added_at": "2022-09-06 15:39:59",
       "album": {
+        "name": "The Writing's On The Wall",
+        "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        }
+      ],
+      "duration_ms": 230200,
+      "name": "Jumpin', Jumpin'",
+      "url": "https://open.spotify.com/track/4pmc2AxSEq6g7hPVlJCPyP"
+    },
+    {
+      "added_at": "2022-09-06 15:39:59",
+      "album": {
         "name": "It Ain't Safe No More. . .",
         "url": "https://open.spotify.com/album/3cBk22r1tb6omRQ4jr6SE8"
       },
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2022-09-06 15:39:59",
       "album": {
-        "name": "So Blu",
-        "url": "https://open.spotify.com/album/3EIwRVOXjqWAxVLt7raduU"
-      },
-      "artists": [
-        {
-          "name": "Blu Cantrell",
-          "url": "https://open.spotify.com/artist/6vytZ677lz4LzCrUDcDokM"
-        }
-      ],
-      "duration_ms": 250706,
-      "name": "Hit 'Em Up Style (Oops!)",
-      "url": "https://open.spotify.com/track/4zYTZvtcww7OWKie7fxA9E"
-    },
-    {
-      "added_at": "2022-09-06 15:39:59",
-      "album": {
         "name": "Get Rich Or Die Tryin'",
         "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 249466,
       "name": "P.I.M.P.",
       "url": "https://open.spotify.com/track/2D1hlMwWWXpkc3CZJ5U351"
+    },
+    {
+      "added_at": "2022-09-06 15:39:59",
+      "album": {
+        "name": "So Blu",
+        "url": "https://open.spotify.com/album/3EIwRVOXjqWAxVLt7raduU"
+      },
+      "artists": [
+        {
+          "name": "Blu Cantrell",
+          "url": "https://open.spotify.com/artist/6vytZ677lz4LzCrUDcDokM"
+        }
+      ],
+      "duration_ms": 250706,
+      "name": "Hit 'Em Up Style (Oops!)",
+      "url": "https://open.spotify.com/track/4zYTZvtcww7OWKie7fxA9E"
     },
     {
       "added_at": "2022-09-06 15:39:59",
@@ -1691,18 +1691,18 @@
     {
       "added_at": "2022-09-06 15:39:59",
       "album": {
-        "name": "Rappa Ternt Sanga (Expanded Edition)",
-        "url": "https://open.spotify.com/album/21dqbZplVbX1gMMdqOLvWI"
+        "name": "Lovers Rock",
+        "url": "https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9"
       },
       "artists": [
         {
-          "name": "T-Pain",
-          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
         }
       ],
-      "duration_ms": 231040,
-      "name": "I'm Sprung",
-      "url": "https://open.spotify.com/track/0DLOyyQvwPTSDKuhpzMMwA"
+      "duration_ms": 274933,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/7H3ojI1BsVy0dEJENqMt1k"
     }
   ],
   "unique_name": "Throwback Jams",

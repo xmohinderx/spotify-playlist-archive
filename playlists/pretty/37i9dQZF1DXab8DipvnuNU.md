@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXab8DipvnuNU.md) - [plain]
 
 > Essential tunes for time with the family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,025 likes - 57 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,049 likes - 57 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXab8DipvnuNU.md) - [plain]
 | 7 | [That's What I Like](https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [24K Magic](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) | 3:26 |
 | 8 | [Before I Let Go \- Homecoming Live Bonus Track](https://open.spotify.com/track/7LikBkHerFGZ58QHVOKp1t) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [HOMECOMING: THE LIVE ALBUM](https://open.spotify.com/album/35S1JCj5paIfElT2GODl6x) | 4:00 |
 | 9 | [Candy](https://open.spotify.com/track/0Aj8EagrPfDoOe5OlUdrLC) | [Cameo](https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2) | [Word Up](https://open.spotify.com/album/1W8kHQQC7DXg1inR7ZWqhA) | 5:39 |
-| 10 | [Essence \(feat\. Tems\)](https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 4:08 |
+| 10 | [Essence \(feat\. Tems\)](https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 4:08 |
 | 11 | [Angles \(feat\. Chris Brown\)](https://open.spotify.com/track/1rdTdOTRfGXjQ9Auwn1gzx) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Angles \(feat\. Chris Brown\)](https://open.spotify.com/album/1j97eqxFc3mF43hZ60NmnS) | 3:28 |
 | 12 | [I Wanna Be Down \(feat\. Queen Latifah, Yo\-Yo & MC Lyte\) \- Remix](https://open.spotify.com/track/3OZs6tgXsBmb3TWPn07YCF) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee), [MC Lyte](https://open.spotify.com/artist/2ZbWlThDW0qSbI3hinpl0w), [Queen Latifah](https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt), [Yo Yo](https://open.spotify.com/artist/7ryn5ZubA9mvjd1EJsFLHY) | [The Best of Brandy](https://open.spotify.com/album/2W8fU1wJz9sGDmwMBcQBRX) | 4:16 |
 | 13 | [Shoop](https://open.spotify.com/track/0Pu71wxadDlB8fJXfjIjeJ) | [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ) | [Very Necessary](https://open.spotify.com/album/2W2EmEpud13QHlhCFS9P8g) | 4:08 |

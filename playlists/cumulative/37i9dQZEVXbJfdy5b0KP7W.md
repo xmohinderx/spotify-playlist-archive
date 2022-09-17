@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Peru.
 
-353 songs - 20 hr 34 min - [published](https://open.spotify.com/playlist/5vi5P9XAfzKe30tgFRMu63)
+354 songs - 20 hr 38 min - [published](https://open.spotify.com/playlist/5vi5P9XAfzKe30tgFRMu63)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [Fiel](https://open.spotify.com/track/7Bk0uXKk1uPT0XuQbpFzvs) | [Los Legendarios](https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Los Legendarios 001](https://open.spotify.com/album/7g5WqPI4CdA22Cy8LxRXCf) | 4:21 | 2021-03-27\* | 2021-10-03 |
 | [Fiel \- Remix](https://open.spotify.com/track/43qcs9NpJhDxtG91zxFkj7) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Los Legendarios](https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Fiel \(Remix\)](https://open.spotify.com/album/1jBESH0DEFN7z8WH8B0B5c) | 5:49 | 2021-06-18 | 2021-11-17 |
 | [Film out](https://open.spotify.com/track/3UHPGOkUcE4hE7sqBF4Snt) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Film out](https://open.spotify.com/album/2jae5Jx8Yh1WjP1K4wTFUa) | 3:34 | 2021-04-03 | 2021-05-24 |
-| [Fix You](https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [X&Y](https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6) | 4:55 | 2022-09-15 |  |
+| [Fix You](https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [X&Y](https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6) | 4:55 | 2022-09-15 | 2022-09-17 |
 | [For Youth](https://open.spotify.com/track/4JzCFEc3O2UEdjKzevvFH5) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 4:24 | 2022-06-11 | 2022-06-13 |
 | [FRIKI](https://open.spotify.com/track/2WrqTrNIHqfcMCgmEo0A7E) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [INTER SHIBUYA \(FERXXO EDITION\)](https://open.spotify.com/album/0kI46dzlikgAVpJ6LdkbJE) | 2:25 | 2022-02-11 | 2022-04-13 |
 | [Fuera del mercado](https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [@dannocean](https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I) | 2:39 | 2022-03-08 |  |
@@ -247,6 +247,7 @@
 | [Pareja Del Año](https://open.spotify.com/track/655JkvIwu2rDCaD1hPf04g) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Dharma](https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8) | 3:15 | 2022-01-29 | 2022-04-26 |
 | [París](https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [París](https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD) | 2:31 | 2021-07-19 | 2021-12-26 |
 | [Party](https://open.spotify.com/track/4tYFy8ALRjIZvnvSLw5lxN) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:47 | 2022-05-07 |  |
+| [Party en el Barrio \(feat\. Duki\)](https://open.spotify.com/track/5GF0X7GdNmnouKcdhhRmtm) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Party en el Barrio \(feat\. Duki\)](https://open.spotify.com/album/2alxO71ik8lO8YIuNT2LKn) | 3:56 | 2022-09-16 |  |
 | [París](https://open.spotify.com/track/3ehHqgYRzmeUi345MfHS2N) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [París](https://open.spotify.com/album/2dhk2kLdjVxWps1PW9WSTj) | 3:02 | 2022-05-22 | 2022-06-21 |
 | [PASATIEMPO](https://open.spotify.com/track/3qUdysxsu5FDvOl7nR5vln) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 3:24 | 2022-03-26 | 2022-03-28 |
 | [Paulo Londra: Bzrp Music Sessions, Vol\. 23](https://open.spotify.com/track/2uky0VCI2EZni0nArOPznM) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Paulo Londra: Bzrp Music Sessions, Vol\. 23](https://open.spotify.com/album/0nLqHiDWHpK33b9lVJMss5) | 4:18 | 2022-04-26 | 2022-06-03 |

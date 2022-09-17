@@ -4,7 +4,7 @@
 
 > All the essentials, one playlist.
 
-67 songs - 5 hr 13 min - not published yet
+67 songs - 5 hr 13 min - [published](https://open.spotify.com/playlist/7neakOR61Ym3UnE4uzFRQx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

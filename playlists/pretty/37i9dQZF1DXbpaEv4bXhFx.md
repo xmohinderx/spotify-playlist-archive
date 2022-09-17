@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpaEv4bXhFx.md) - [plain]
 
 > 빗방울대신 감성을 맞는 시간.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,237 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,264 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpaEv4bXhFx.md) - [plain]
 | 47 | [When The Rain Stops](https://open.spotify.com/track/5UvS2soEVuRr4SFpvB09KJ) | [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [D\-day](https://open.spotify.com/album/6FAG9dF5HWKlUALQeLYWpt) | 3:01 |
 | 48 | [MISSING U](https://open.spotify.com/track/4uk677I1lb0ZPSXGhL2FcA) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [SEOULITE](https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb) | 4:08 |
 | 49 | [Lost Way](https://open.spotify.com/track/19h2GgTMiwp0pkcZoB0cZr) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [Lost Way \(Good Doctor X Gaho\)](https://open.spotify.com/album/6dAFSut5NhJhMJcTyHzYEL) | 3:04 |
-| 50 | [Alive with you \(feat\. SFC.JGR\)](https://open.spotify.com/track/3jLd5QpiODmjFrZnDj32o4) | [Yel](https://open.spotify.com/artist/6vz9KUVgEo1gXIobqiwJ15), [SFC.JGR](https://open.spotify.com/artist/6Ia8wkjjUXRx9jqFsVJqHQ) | [Alive with you](https://open.spotify.com/album/7cQ8kH5jyOLLZuAJUhccUT) | 3:23 |
+| 50 | [Our Forgiveness](https://open.spotify.com/track/6xVlRWDlQDna2yVCwOPE30) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Our Forgiveness](https://open.spotify.com/album/1K8aYJrq8a8WiwNniSuzrw) | 3:19 |
 
-Snapshot ID: `MTY2MjM5MzM3MywwMDAwMDAwMDU0YjFjNTlkNGJmMDMwNGExNzE1ZWE2N2JkZGY4NzEz`
+Snapshot ID: `MTY2MjM5MzM3MywwMDAwMDAwMDVhMTY5MzlmZjQxMjc1ZDMyMWZhNjc5M2E0MDFkNWU1`

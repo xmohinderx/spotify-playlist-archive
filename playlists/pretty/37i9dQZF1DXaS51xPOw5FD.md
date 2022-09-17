@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaS51xPOw5FD.md) - [plain]
 
 > Euphoric drum & bass tracks for raving in the sunshine!
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,740 likes - 75 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,786 likes - 75 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaS51xPOw5FD.md) - [plain]
 | 59 | [My Love \(feat\. Jess Glynne\) \- Sigma Remix](https://open.spotify.com/track/4gjTpaz6WRV9nX7q4fHwRp) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO), [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS) | [My Love \(feat\. Jess Glynne\) \[Remixes\]](https://open.spotify.com/album/4zQRCFEwZX7qvPij5qWlVW) | 4:30 |
 | 60 | [Feeling High \(Lenzman Remix\)](https://open.spotify.com/track/6gs7Dy6ayB5PXEHpQxzaaZ) | [The Mouse Outfit](https://open.spotify.com/artist/3fZgTHf9UHEA1oLYLEhnk2), [Lenzman](https://open.spotify.com/artist/4IKdJSimREJMIKDfvYvJHF), [IAMDDB](https://open.spotify.com/artist/7za6M9P94wuMsOVCHopTsI), [KinKai](https://open.spotify.com/artist/2v3z0sSTauju6TA1GMqiQj) | [Feeling High \(Lenzman Remix\)](https://open.spotify.com/album/3W0HtxZIUVjn04YaW4T5x0) | 4:48 |
 | 61 | [We All Need Someone](https://open.spotify.com/track/6w7lAYEIwnV5R0FxmgmGFP) | [1991](https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy), [Empara Mi](https://open.spotify.com/artist/2nhyc8aipr32vUz8Sd5Gp6) | [We All Need Someone](https://open.spotify.com/album/7zIEQjvo9fnhRvUIKv0dpK) | 3:54 |
-| 62 | [Heater](https://open.spotify.com/track/7joCfNdhgBuBYVquBQPHLq) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [General Levy](https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I) | [RTRN II JUNGLE](https://open.spotify.com/album/5TL5mPJjOPiQCcZzEpfuaU) | 3:15 |
-| 63 | [Sweet Harmony](https://open.spotify.com/track/6RDkBlNaNqhHBiS7bxUo3D) | [Danny Byrd](https://open.spotify.com/artist/7iczgrgAFILjQVGzLsUzbG), [Liquid](https://open.spotify.com/artist/3Hg4YYMKR6fMvkBj6SBuPo) | [Rave Digger \(Special Edition\)](https://open.spotify.com/album/6l4XPeThEaqucO0F00lUuc) | 6:08 |
+| 62 | [Sweet Harmony](https://open.spotify.com/track/6RDkBlNaNqhHBiS7bxUo3D) | [Danny Byrd](https://open.spotify.com/artist/7iczgrgAFILjQVGzLsUzbG), [Liquid](https://open.spotify.com/artist/3Hg4YYMKR6fMvkBj6SBuPo) | [Rave Digger \(Special Edition\)](https://open.spotify.com/album/6l4XPeThEaqucO0F00lUuc) | 6:08 |
+| 63 | [Heater](https://open.spotify.com/track/7joCfNdhgBuBYVquBQPHLq) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [General Levy](https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I) | [RTRN II JUNGLE](https://open.spotify.com/album/5TL5mPJjOPiQCcZzEpfuaU) | 3:15 |
 | 64 | [Atlantis \(I Need You\)](https://open.spotify.com/track/2527WUoKIauHY1tx5TCetu) | [LTJ Bukem](https://open.spotify.com/artist/5Wfn5sc1w3DhMTpU7oPJZL) | [Producer 01](https://open.spotify.com/album/2YgeSuxQWw3NjUPYhjoTFl) | 6:34 |
 | 65 | [Maximum Style \(Lover To Lover\)](https://open.spotify.com/track/5aqLROQOpWX2H8Q3b0IB6b) | [Tom & Jerry](https://open.spotify.com/artist/11XdPK1p3uSxX0qiBy5WBZ) | [Jungle Hits, Vol\. 1](https://open.spotify.com/album/6ajFWIR0zVPWu3cBj68B4z) | 4:05 |
 | 66 | [Hold On \- Extended Mix](https://open.spotify.com/track/3PjEGu42RJ2sCWVWovlOGV) | [Matrix](https://open.spotify.com/artist/1HxzLy3xmo2yu77YUnAXgF), [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [Hold On \[UKF10\] \(Extended Mix\)](https://open.spotify.com/album/7fmARIqEp8YsMMWm2J7QXC) | 3:54 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaS51xPOw5FD.md) - [plain]
 | 70 | [Dahlia](https://open.spotify.com/track/1DCYNMKp5yziQ48dh4t0Hz) | [Etherwood](https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX) | [Dahlia](https://open.spotify.com/album/3gvw724Y4YB3HMLrVSgCOV) | 5:06 |
 | 71 | [Devil's Night](https://open.spotify.com/track/6JRzMirHyMNFOezS9kbtcl) | [Dawn Wall](https://open.spotify.com/artist/6gnohqGISFUVpTSqT3TtiO) | [Devil's Night EP](https://open.spotify.com/album/7GhVfkNBfwR8cmbIC6qjMa) | 4:45 |
 | 72 | [I Refuse](https://open.spotify.com/track/1OBi4IRkuVOCegnDHG3xhj) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP) | [I Refuse / Midnight Express](https://open.spotify.com/album/6Bi0LU2EWGrSRybRuYsScL) | 5:55 |
-| 73 | [Can't Destroy Love](https://open.spotify.com/track/25uYgeEbQmZdQVd0xQQzMn) | [Atlantic Connection](https://open.spotify.com/artist/323BD4mjoLA1ajX6zjIe2q) | [Digital Landscape](https://open.spotify.com/album/2aeWA7Sqbo9cnnPbggxCaZ) | 6:03 |
-| 74 | [Open Page](https://open.spotify.com/track/0iqT5BeQEHBds5RSsJDMJL) | [Lenzman](https://open.spotify.com/artist/4IKdJSimREJMIKDfvYvJHF), [Riya](https://open.spotify.com/artist/5XPW5vMGMW4tA1Z3qosShb) | [Open Page](https://open.spotify.com/album/6fmfcUWI0g4HqXrqdNlfzq) | 5:44 |
-| 75 | [Tides](https://open.spotify.com/track/7A99JonAe94FLm6DqNIpS8) | [Nu:Tone](https://open.spotify.com/artist/7pDBRy9uWy1zq5b0uXIABQ), [Lea Lea](https://open.spotify.com/artist/2rr4WqfAdv4xEi5YyXdPQb) | [Future History](https://open.spotify.com/album/2vNhhg37RTwKA66V8yyk0q) | 5:43 |
+| 73 | [Tides](https://open.spotify.com/track/7A99JonAe94FLm6DqNIpS8) | [Nu:Tone](https://open.spotify.com/artist/7pDBRy9uWy1zq5b0uXIABQ), [Lea Lea](https://open.spotify.com/artist/2rr4WqfAdv4xEi5YyXdPQb) | [Future History](https://open.spotify.com/album/2vNhhg37RTwKA66V8yyk0q) | 5:43 |
+| 74 | [Can't Destroy Love](https://open.spotify.com/track/25uYgeEbQmZdQVd0xQQzMn) | [Atlantic Connection](https://open.spotify.com/artist/323BD4mjoLA1ajX6zjIe2q) | [Digital Landscape](https://open.spotify.com/album/2aeWA7Sqbo9cnnPbggxCaZ) | 6:03 |
+| 75 | [Open Page](https://open.spotify.com/track/0iqT5BeQEHBds5RSsJDMJL) | [Lenzman](https://open.spotify.com/artist/4IKdJSimREJMIKDfvYvJHF), [Riya](https://open.spotify.com/artist/5XPW5vMGMW4tA1Z3qosShb) | [Open Page](https://open.spotify.com/album/6fmfcUWI0g4HqXrqdNlfzq) | 5:44 |
 
-Snapshot ID: `MTY1OTY5MDM0NywwMDAwMDAwMDUxZTdjODg1NDdkNzFlYzM5MTQ2YTdmMGUwZjk2MTZm`
+Snapshot ID: `MTY1OTY5MDM0NywwMDAwMDAwMGU5MmRjYzEyNTY3ZDMwN2NlYWQ3ZWZhZGZlOWQ1M2Mz`

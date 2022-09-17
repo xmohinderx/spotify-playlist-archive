@@ -1,12 +1,12 @@
 {
   "description": "The songs from the 2000s that will make you dance all summer long!",
-  "num_followers": 215174,
+  "num_followers": 215408,
   "original_name": "Summer Hits of the 00s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTMyMzIwMCwwMDAwMDAwMDk0Y2EwNGMyOGY1YWJlNDBhMzc3ZGI4ZWZmZWY4ZmZi",
+  "snapshot_id": "MTY1NTMyMzIwMCwwMDAwMDAwMDA3YmU1NzQzMzQwYjc3MDJiOTA4OTZiYWNkN2Q0ZTU0",
   "tracks": [
     {
       "added_at": "2022-05-14 23:40:23",
@@ -647,22 +647,6 @@
     {
       "added_at": "2022-05-14 23:40:23",
       "album": {
-        "name": "Stadium Arcadium",
-        "url": "https://open.spotify.com/album/7xl50xr9NDkd3i2kBbzsNZ"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 282160,
-      "name": "Dani California",
-      "url": "https://open.spotify.com/track/10Nmj3JCNoMeBQ87uw5j8k"
-    },
-    {
-      "added_at": "2022-05-14 23:40:23",
-      "album": {
         "name": "So Far Gone",
         "url": "https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 257690,
       "name": "Best I Ever Had",
       "url": "https://open.spotify.com/track/3QLjDkgLh9AOEHlhQtDuhs"
+    },
+    {
+      "added_at": "2022-05-14 23:40:23",
+      "album": {
+        "name": "Stadium Arcadium",
+        "url": "https://open.spotify.com/album/7xl50xr9NDkd3i2kBbzsNZ"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 282160,
+      "name": "Dani California",
+      "url": "https://open.spotify.com/track/10Nmj3JCNoMeBQ87uw5j8k"
     },
     {
       "added_at": "2022-05-14 23:40:23",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2022-05-14 23:40:23",
       "album": {
-        "name": "Pocketful Of Sunshine",
-        "url": "https://open.spotify.com/album/6D1YpObdaha620Tm54WbIw"
-      },
-      "artists": [
-        {
-          "name": "Natasha Bedingfield",
-          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
-        }
-      ],
-      "duration_ms": 202906,
-      "name": "Pocketful of Sunshine",
-      "url": "https://open.spotify.com/track/1uigwk5hNV84zRd5YQQRTk"
-    },
-    {
-      "added_at": "2022-05-14 23:40:23",
-      "album": {
         "name": "Get Rich Or Die Tryin'",
         "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
       },
@@ -1483,18 +1467,34 @@
     {
       "added_at": "2022-05-14 23:40:23",
       "album": {
-        "name": "The Road To Here",
-        "url": "https://open.spotify.com/album/54vjTimZqQsDgXYVJFDJqm"
+        "name": "Pocketful Of Sunshine",
+        "url": "https://open.spotify.com/album/6D1YpObdaha620Tm54WbIw"
       },
       "artists": [
         {
-          "name": "Little Big Town",
-          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+          "name": "Natasha Bedingfield",
+          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
         }
       ],
-      "duration_ms": 272346,
-      "name": "Boondocks",
-      "url": "https://open.spotify.com/track/3duP6mBVDsHM8ioN7o7dAK"
+      "duration_ms": 202906,
+      "name": "Pocketful of Sunshine",
+      "url": "https://open.spotify.com/track/1uigwk5hNV84zRd5YQQRTk"
+    },
+    {
+      "added_at": "2022-05-14 23:40:23",
+      "album": {
+        "name": "Jackpot",
+        "url": "https://open.spotify.com/album/0Hv5X7RRaM7F3hfAq0YmzB"
+      },
+      "artists": [
+        {
+          "name": "Chingy",
+          "url": "https://open.spotify.com/artist/3s2wTjWxK8NOX09dmsvVOh"
+        }
+      ],
+      "duration_ms": 250746,
+      "name": "Right Thurr",
+      "url": "https://open.spotify.com/track/0l3GEbH3CviUytD6iX4wzg"
     },
     {
       "added_at": "2022-05-14 23:40:23",
@@ -1515,18 +1515,18 @@
     {
       "added_at": "2022-05-14 23:40:23",
       "album": {
-        "name": "Jackpot",
-        "url": "https://open.spotify.com/album/0Hv5X7RRaM7F3hfAq0YmzB"
+        "name": "The Road To Here",
+        "url": "https://open.spotify.com/album/54vjTimZqQsDgXYVJFDJqm"
       },
       "artists": [
         {
-          "name": "Chingy",
-          "url": "https://open.spotify.com/artist/3s2wTjWxK8NOX09dmsvVOh"
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
         }
       ],
-      "duration_ms": 250746,
-      "name": "Right Thurr",
-      "url": "https://open.spotify.com/track/0l3GEbH3CviUytD6iX4wzg"
+      "duration_ms": 272346,
+      "name": "Boondocks",
+      "url": "https://open.spotify.com/track/3duP6mBVDsHM8ioN7o7dAK"
     },
     {
       "added_at": "2022-05-14 23:40:23",
@@ -1727,26 +1727,6 @@
     {
       "added_at": "2022-05-14 23:40:23",
       "album": {
-        "name": "Nina Sky",
-        "url": "https://open.spotify.com/album/15Zjx7K5ifTVmXa3Nk5B88"
-      },
-      "artists": [
-        {
-          "name": "Nina Sky",
-          "url": "https://open.spotify.com/artist/6eBYLQONaYZhZNAVK061t6"
-        },
-        {
-          "name": "Jabba",
-          "url": "https://open.spotify.com/artist/6TL5LD7Gqmo99xssJEbQpA"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Move Ya Body",
-      "url": "https://open.spotify.com/track/2ndnVdR8si7CW9T8vJRHyW"
-    },
-    {
-      "added_at": "2022-05-14 23:40:23",
-      "album": {
         "name": "Jagged Little Thrill",
         "url": "https://open.spotify.com/album/2LFRjzwf61Y7CIl54Kiq8j"
       },
@@ -1763,6 +1743,26 @@
       "duration_ms": 232573,
       "name": "Where the Party At (feat. Nelly)",
       "url": "https://open.spotify.com/track/5mNV8Mz59bzyuQ53gTw0c0"
+    },
+    {
+      "added_at": "2022-05-14 23:40:23",
+      "album": {
+        "name": "Nina Sky",
+        "url": "https://open.spotify.com/album/15Zjx7K5ifTVmXa3Nk5B88"
+      },
+      "artists": [
+        {
+          "name": "Nina Sky",
+          "url": "https://open.spotify.com/artist/6eBYLQONaYZhZNAVK061t6"
+        },
+        {
+          "name": "Jabba",
+          "url": "https://open.spotify.com/artist/6TL5LD7Gqmo99xssJEbQpA"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Move Ya Body",
+      "url": "https://open.spotify.com/track/2ndnVdR8si7CW9T8vJRHyW"
     }
   ],
   "unique_name": "Summer Hits of the 00s",

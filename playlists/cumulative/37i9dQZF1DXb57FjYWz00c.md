@@ -4,7 +4,7 @@
 
 > Nothing but unforgettable songs from the 80s.
 
-100 songs - 6 hr 48 min - [published](https://open.spotify.com/playlist/4C0kE2G0iduh3H69khkkrO)
+101 songs - 6 hr 53 min - [published](https://open.spotify.com/playlist/4C0kE2G0iduh3H69khkkrO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,8 @@
 | [Walk This Way \(feat\. Aerosmith\)](https://open.spotify.com/track/6qUEOWqOzu1rLPUPQ1ECpx) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA), [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Raising Hell](https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg) | 5:10 | 2022-01-07 |  |
 | [Walking On Sunshine](https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0) | [Katrina & The Waves](https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3) | [Katrina & The Waves](https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7) | 3:58 | 2022-01-07 |  |
 | [We Built This City](https://open.spotify.com/track/6OnfBiiSc9RGKiBKKtZXgQ) | [Starship](https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf) | [Knee Deep In The Hoopla](https://open.spotify.com/album/0YCraVqAWvJHiBYP2AXgV6) | 4:56 | 2022-01-07 |  |
-| [West End Girls \- 2001 Remaster](https://open.spotify.com/track/2yzPBlE5UXK2sqvnNM9QQ0) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Please](https://open.spotify.com/album/0AwBxVtsvLVwmaVwwe5beS) | 4:45 | 2022-01-07 |  |
+| [West End Girls \- 2001 Remaster](https://open.spotify.com/track/2yzPBlE5UXK2sqvnNM9QQ0) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Please](https://open.spotify.com/album/0AwBxVtsvLVwmaVwwe5beS) | 4:45 | 2022-01-07 | 2022-09-17 |
+| [West End Girls \- 2018 Remaster](https://open.spotify.com/track/2Di0qFNb7ATroCGB3q0Ka7) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Please: Further Listening 1984 \- 1986 \(2018 Remaster\)](https://open.spotify.com/album/47fRf3JwriMUPPzFjdvNS6) | 4:45 | 2022-01-07 |  |
 | [What A Feeling](https://open.spotify.com/track/0aAR5HogGoT68EWFbyRFqx) | [Irene Cara](https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G) | [What A Feeling](https://open.spotify.com/album/7C65CLdoGCQZ739kfYVcwY) | 4:04 | 2022-01-07 |  |
 | [What's Love Got to Do with It](https://open.spotify.com/track/4kOfxxnW1ukZdsNbCKY9br) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [What's Love Got to Do with It?](https://open.spotify.com/album/5HmYiJnUkFuciiqRrAAv4o) | 3:46 | 2022-01-07 |  |
 | [White Wedding \(Parts 1 And 2\) \- Shotgun Mix / 24\-Bit Digitally Remastered 2001](https://open.spotify.com/track/4OYRJv1tcOEPe38Fwc7y1m) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Vital Idol](https://open.spotify.com/album/0XGgMqKNcQgd0i9YHFiPei) | 8:25 | 2022-01-07 |  |

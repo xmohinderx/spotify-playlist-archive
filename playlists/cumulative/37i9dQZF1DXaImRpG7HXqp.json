@@ -1299,7 +1299,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 197407,
       "name": "Diguil",
       "url": "https://open.spotify.com/track/0vCsBc2Br8EXzrSgNiMB4t"
@@ -2225,7 +2225,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 203634,
       "name": "I'd Rather Sit In The Shadow",
       "url": "https://open.spotify.com/track/654XQa26b3ginvX2hDqcgK"
@@ -2981,7 +2981,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 188000,
       "name": "Malinconia",
       "url": "https://open.spotify.com/track/6sLcVBEcHjENFjn4cmkcmH"
@@ -3363,7 +3363,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 123500,
       "name": "Natsunoyo",
       "url": "https://open.spotify.com/track/177z4X3Na4sE1Hgf9IWfOH"
@@ -4443,7 +4443,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 98684,
       "name": "Sleepover",
       "url": "https://open.spotify.com/track/3qQ1RkMq1Fc3Kf1beqcZDZ"
@@ -4483,6 +4483,24 @@
       "duration_ms": 137507,
       "name": "Sombras Brillantes",
       "url": "https://open.spotify.com/track/3NR3svuOAd8gH6ZdJWLJhb"
+    },
+    {
+      "album": {
+        "name": "Someday",
+        "url": "https://open.spotify.com/album/6z07JJdKjK6KQTLdc4Abw6"
+      },
+      "artists": [
+        {
+          "name": "Floritatura",
+          "url": "https://open.spotify.com/artist/5nLzQ8oEKZ4BK73olozSSc"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154464,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/40Prhj76wY4JkKWl130prE"
     },
     {
       "album": {
@@ -4915,6 +4933,24 @@
       "duration_ms": 198437,
       "name": "Sweet Harbour",
       "url": "https://open.spotify.com/track/4Vn3gAiJNQdmlwW2OuXJCZ"
+    },
+    {
+      "album": {
+        "name": "Sweet Ride",
+        "url": "https://open.spotify.com/album/2Mf9bQgJEiq4lHzaQYvMxw"
+      },
+      "artists": [
+        {
+          "name": "Lance Takamiya",
+          "url": "https://open.spotify.com/artist/7FaPxwleV4FLc7PRiyUYmS"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158380,
+      "name": "Sweet Ride",
+      "url": "https://open.spotify.com/track/5dRPiskVbrnc8fINiwrWy0"
     },
     {
       "album": {
@@ -5541,7 +5577,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 226000,
       "name": "Waltz from Eikr Eyia",
       "url": "https://open.spotify.com/track/2IRlO6UaWmiu8EDJyREsKB"

@@ -1,12 +1,12 @@
 {
   "description": "All 80s, all ballads. Cover: Whitney Houston",
-  "num_followers": 234545,
+  "num_followers": 234712,
   "original_name": "80s Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTM1MjE1NCwwMDAwMDAwMDhmYmYwMTdiOGExY2EyMWJiZTAzYjU5Y2VjM2QxNGNk",
+  "snapshot_id": "MTY1NTM1MjE1NCwwMDAwMDAwMGU1OGJiOTA5OTNlMGQxMjk1NGFhODNhODI4MmRhNmRj",
   "tracks": [
     {
       "added_at": "2022-06-16 04:02:34",
@@ -123,22 +123,6 @@
     {
       "added_at": "2022-06-16 04:02:34",
       "album": {
-        "name": "Into The Light",
-        "url": "https://open.spotify.com/album/5Yi08NDFoVAnvHoXqpp9O5"
-      },
-      "artists": [
-        {
-          "name": "Chris de Burgh",
-          "url": "https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U"
-        }
-      ],
-      "duration_ms": 256173,
-      "name": "The Lady In Red",
-      "url": "https://open.spotify.com/track/1GeNWyZtCHbcp3ZWp8GTOO"
-    },
-    {
-      "added_at": "2022-06-16 04:02:34",
-      "album": {
         "name": "Reckless (30th Anniversary / Deluxe Edition)",
         "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 243360,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/7Ewz6bJ97vUqk5HdkvguFQ"
+    },
+    {
+      "added_at": "2022-06-16 04:02:34",
+      "album": {
+        "name": "Into The Light",
+        "url": "https://open.spotify.com/album/5Yi08NDFoVAnvHoXqpp9O5"
+      },
+      "artists": [
+        {
+          "name": "Chris de Burgh",
+          "url": "https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U"
+        }
+      ],
+      "duration_ms": 256173,
+      "name": "The Lady In Red",
+      "url": "https://open.spotify.com/track/1GeNWyZtCHbcp3ZWp8GTOO"
     },
     {
       "added_at": "2022-06-16 04:02:34",
@@ -507,22 +507,6 @@
     {
       "added_at": "2022-06-16 04:02:34",
       "album": {
-        "name": "Arthur - The Album [Original Soundtrack]",
-        "url": "https://open.spotify.com/album/0QXYfxXpKeLlr3hueenIHB"
-      },
-      "artists": [
-        {
-          "name": "Christopher Cross",
-          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
-        }
-      ],
-      "duration_ms": 234493,
-      "name": "Arthur's Theme (Best That You Can Do)",
-      "url": "https://open.spotify.com/track/5fnOrhQ4KgT5irGCjIccGH"
-    },
-    {
-      "added_at": "2022-06-16 04:02:34",
-      "album": {
         "name": "The Anthology",
         "url": "https://open.spotify.com/album/0OdFUi5lSenjXrgy4dVAP8"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 232666,
       "name": "Up Where We Belong - From \"An Officer And A Gentleman\"",
       "url": "https://open.spotify.com/track/4U6mBgGP8FXN6UH4T3AJhu"
+    },
+    {
+      "added_at": "2022-06-16 04:02:34",
+      "album": {
+        "name": "Arthur - The Album [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/0QXYfxXpKeLlr3hueenIHB"
+      },
+      "artists": [
+        {
+          "name": "Christopher Cross",
+          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
+        }
+      ],
+      "duration_ms": 234493,
+      "name": "Arthur's Theme (Best That You Can Do)",
+      "url": "https://open.spotify.com/track/5fnOrhQ4KgT5irGCjIccGH"
     },
     {
       "added_at": "2022-06-16 04:02:34",
@@ -779,18 +779,18 @@
     {
       "added_at": "2022-06-16 04:02:34",
       "album": {
-        "name": "Beaches (Original Soundtrack Recording)",
-        "url": "https://open.spotify.com/album/7hKfx1hjTjzdU4SysDMNc9"
+        "name": "It's Your Night",
+        "url": "https://open.spotify.com/album/28XSg8Y5N9pwKrSrMiwmbs"
       },
       "artists": [
         {
-          "name": "Bette Midler",
-          "url": "https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W"
+          "name": "James Ingram",
+          "url": "https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo"
         }
       ],
-      "duration_ms": 293853,
-      "name": "Wind Beneath My Wings",
-      "url": "https://open.spotify.com/track/2Pxqs0WmxxHTV5QaTdmt3Q"
+      "duration_ms": 227293,
+      "name": "There's No Easy Way",
+      "url": "https://open.spotify.com/track/7ePEIbrsRXk9En7noiLAo7"
     },
     {
       "added_at": "2022-06-16 04:02:34",
@@ -811,18 +811,18 @@
     {
       "added_at": "2022-06-16 04:02:34",
       "album": {
-        "name": "It's Your Night",
-        "url": "https://open.spotify.com/album/28XSg8Y5N9pwKrSrMiwmbs"
+        "name": "Beaches (Original Soundtrack Recording)",
+        "url": "https://open.spotify.com/album/7hKfx1hjTjzdU4SysDMNc9"
       },
       "artists": [
         {
-          "name": "James Ingram",
-          "url": "https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo"
+          "name": "Bette Midler",
+          "url": "https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W"
         }
       ],
-      "duration_ms": 227293,
-      "name": "There's No Easy Way",
-      "url": "https://open.spotify.com/track/7ePEIbrsRXk9En7noiLAo7"
+      "duration_ms": 293853,
+      "name": "Wind Beneath My Wings",
+      "url": "https://open.spotify.com/track/2Pxqs0WmxxHTV5QaTdmt3Q"
     },
     {
       "added_at": "2022-06-16 04:02:34",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2022-06-16 04:02:34",
       "album": {
-        "name": "Can't Slow Down",
-        "url": "https://open.spotify.com/album/3alZBOvPaK3hgMEEymw4Yr"
-      },
-      "artists": [
-        {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
-        }
-      ],
-      "duration_ms": 251106,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/0mHyWYXmmCB9iQyK18m3FQ"
-    },
-    {
-      "added_at": "2022-06-16 04:02:34",
-      "album": {
         "name": "It's Real",
         "url": "https://open.spotify.com/album/5gN7Im7VUNQm7sJnmdofMc"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 253506,
       "name": "I Don't Have the Heart",
       "url": "https://open.spotify.com/track/5In7xBveNACCRX2uWNoPuW"
+    },
+    {
+      "added_at": "2022-06-16 04:02:34",
+      "album": {
+        "name": "Can't Slow Down",
+        "url": "https://open.spotify.com/album/3alZBOvPaK3hgMEEymw4Yr"
+      },
+      "artists": [
+        {
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+        }
+      ],
+      "duration_ms": 251106,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/0mHyWYXmmCB9iQyK18m3FQ"
     },
     {
       "added_at": "2022-06-16 04:02:34",
@@ -1251,8 +1251,8 @@
     {
       "added_at": "2022-06-16 04:02:34",
       "album": {
-        "name": "Dirty Dancing: Anniversary Edition",
-        "url": "https://open.spotify.com/album/3LRhyjBARwKrCp28rmcmAM"
+        "name": "Radio Hits Of the '80s",
+        "url": "https://open.spotify.com/album/4OhFkx7dTPfj0BXerfldyk"
       },
       "artists": [
         {
@@ -1264,9 +1264,9 @@
           "url": "https://open.spotify.com/artist/2oSO8nxMHKOJKj7v8l0zWh"
         }
       ],
-      "duration_ms": 230866,
+      "duration_ms": 231546,
       "name": "She's Like the Wind (feat. Wendy Fraser)",
-      "url": "https://open.spotify.com/track/36EWx5B78n8sSfpmtKrUUV"
+      "url": "https://open.spotify.com/track/63Nvv3yXMosxHpQzNsNBOp"
     },
     {
       "added_at": "2022-06-16 04:02:34",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2022-06-16 04:02:34",
       "album": {
+        "name": "Upstairs At Eric's",
+        "url": "https://open.spotify.com/album/47FOg0GaQDPGTbBTHDXg9V"
+      },
+      "artists": [
+        {
+          "name": "Yazoo",
+          "url": "https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs"
+        }
+      ],
+      "duration_ms": 195506,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/3mGwufkovVPrzsJaXWg8PU"
+    },
+    {
+      "added_at": "2022-06-16 04:02:34",
+      "album": {
         "name": "The Definitive Collection",
         "url": "https://open.spotify.com/album/1W1b52vaEcE3wfWk4WQH6q"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 266266,
       "name": "Endless Love - From \"The Endless Love\" Soundtrack",
       "url": "https://open.spotify.com/track/0FGxAEMIE5GhyFqFMHRWaO"
-    },
-    {
-      "added_at": "2022-06-16 04:02:34",
-      "album": {
-        "name": "Upstairs At Eric's",
-        "url": "https://open.spotify.com/album/47FOg0GaQDPGTbBTHDXg9V"
-      },
-      "artists": [
-        {
-          "name": "Yazoo",
-          "url": "https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs"
-        }
-      ],
-      "duration_ms": 195506,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/3mGwufkovVPrzsJaXWg8PU"
     },
     {
       "added_at": "2022-06-16 04:02:34",

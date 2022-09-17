@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxLagECufdp.md) - [plain]
 
 > Fanfarrias y ritmos clown para gozar las tragicomedias de la vida
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,806 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,832 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxLagECufdp.md) - [plain]
 | 38 | [Misourlou](https://open.spotify.com/track/5oxVimkWhxcePBKHoLGGLz) | [Klezmerson](https://open.spotify.com/artist/6zbs9O1YV39e8F2ZR7RQqL) | [Klezmerson](https://open.spotify.com/album/3CnREo12brFqZFotExitha) | 6:57 |
 | 39 | [Annyit ittam / Drunk of Sorrow](https://open.spotify.com/track/007XTE3Ua8JVzxW8bGwPwb) | [Parno Graszt](https://open.spotify.com/artist/5hBCfYFEDK8otrksMYuzoL) | [Ez a világ nekem való / This World Is Made For Me](https://open.spotify.com/album/47yWcxAHMpajgxnHVTaxJP) | 3:22 |
 | 40 | [Bella Ciao \(Goodbye Beautiful\)](https://open.spotify.com/track/1Lf4Dp7RTPwNI1pw9uOLrK) | [Marc Ribot](https://open.spotify.com/artist/7jAeRfT8LYCxydM2Y1Egvn), [Tom Waits](https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM) | [Bella Ciao \(Goodbye Beautiful\)](https://open.spotify.com/album/29eTnHPHnGirFCGrmApdAG) | 3:37 |
-| 41 | [The Revenge \- Juan Velázquez Dub Mix](https://open.spotify.com/track/1EQTAtzVmAtDyi2gCoUIuc) | [Dancing Mood](https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F), [Juan Velázquez Dub Mix](https://open.spotify.com/artist/5M5lqIObIGdQfb3yQvC3db) | [The Revenge](https://open.spotify.com/album/0E2eMtNlLia0cb1jVF7yIt) | 4:59 |
-| 42 | [Estos Celos](https://open.spotify.com/track/4d51QRhki1EM2qaNYYjfvK) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [Estos Celos](https://open.spotify.com/album/2E1f852SuXQRCGGh9ml4Hf) | 3:29 |
+| 41 | [Estos Celos](https://open.spotify.com/track/4d51QRhki1EM2qaNYYjfvK) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [Estos Celos](https://open.spotify.com/album/2E1f852SuXQRCGGh9ml4Hf) | 3:29 |
+| 42 | [The Revenge \- Juan Velázquez Dub Mix](https://open.spotify.com/track/1EQTAtzVmAtDyi2gCoUIuc) | [Dancing Mood](https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F), [Juan Velázquez Dub Mix](https://open.spotify.com/artist/5M5lqIObIGdQfb3yQvC3db) | [The Revenge](https://open.spotify.com/album/0E2eMtNlLia0cb1jVF7yIt) | 4:59 |
 | 43 | [A Tapdancer's Dilema](https://open.spotify.com/track/3RJtaxRtxOvvIj6DESm4gh) | [Diablo Swing Orchestra](https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r) | [Sing\-Along Songs for the Damned and Delirious](https://open.spotify.com/album/36j0yWKLk5a6rLgJEhUghU) | 5:12 |
 | 44 | [Pa' Bailar \(Siempre Quiero Mas\)](https://open.spotify.com/track/33bj2sNF5xk3oeFnyMfc0s) | [Bajofondo](https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Mar Dulce](https://open.spotify.com/album/1tEqTQTkgGkvQBIQZzggFA) | 3:37 |
 | 45 | [Just the Two of Us \- Borat Version](https://open.spotify.com/track/3vlX8DYLjmo7tzGeNBSVoG) | [Fanfare Ciocarlia](https://open.spotify.com/artist/40iJCAOCz6nhRs6CbsAtOg) | [It Wasn't Hard to Love You](https://open.spotify.com/album/2U1gmHeaRx1E8VaB7wO13R) | 2:56 |
-| 46 | [Pastelito De Piña](https://open.spotify.com/track/5vniH12f4XPDvlVJLtcOl7) | [Klezmerson](https://open.spotify.com/artist/6zbs9O1YV39e8F2ZR7RQqL) | [Klezmerol](https://open.spotify.com/album/0WDKrFndSnTYgDNB2S065Z) | 4:45 |
-| 47 | [Gopher](https://open.spotify.com/track/01hqaLJ7lsOf5w0zTysbGD) | [Bombay Rickey](https://open.spotify.com/artist/25K3DdUbAxFXeydGHPoyPz) | [Electric Bhairavi](https://open.spotify.com/album/6h5WjOpelHPgjr1OjCm1tm) | 3:59 |
+| 46 | [Gopher](https://open.spotify.com/track/01hqaLJ7lsOf5w0zTysbGD) | [Bombay Rickey](https://open.spotify.com/artist/25K3DdUbAxFXeydGHPoyPz) | [Electric Bhairavi](https://open.spotify.com/album/6h5WjOpelHPgjr1OjCm1tm) | 3:59 |
+| 47 | [Pastelito De Piña](https://open.spotify.com/track/5vniH12f4XPDvlVJLtcOl7) | [Klezmerson](https://open.spotify.com/artist/6zbs9O1YV39e8F2ZR7RQqL) | [Klezmerol](https://open.spotify.com/album/0WDKrFndSnTYgDNB2S065Z) | 4:45 |
 | 48 | [Oh My Girl \- French Version](https://open.spotify.com/track/6d2AYwXli3hQpnLyg1cfvl) | [Club des Belugas](https://open.spotify.com/artist/3ea1ZpptTqS5pwYYpQQVCo), [Antoine Villoutreix](https://open.spotify.com/artist/1LeuN4Zsd04HulaBIIRYVb) | [Strange Things Beyond the Sunny Side](https://open.spotify.com/album/2SpUhxXyFjsSS0XomMSUZw) | 3:31 |
 | 49 | [Constelación](https://open.spotify.com/track/58yXDaeNbIqbbAkFH8or6a) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Constelación](https://open.spotify.com/album/5hXsDY407wtAlm5W81aM1F) | 3:09 |
 | 50 | [Bailando Con las Farolas](https://open.spotify.com/track/6L50NoOHzsy4nqgqMjTU09) | [Jenny And The Mexicats](https://open.spotify.com/artist/2faVKByk0IA651ICKyYYOa), [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [Bailando Con las Farolas](https://open.spotify.com/album/7JdYoEGug2CawZ409DG1U0) | 3:00 |
 
-Snapshot ID: `MTY1OTQ4OTQ5MSwwMDAwMDAwMDVmYTRhM2E1NzVhNzk1ZWQxMjMxMTIxNjE3MzczODVk`
+Snapshot ID: `MTY1OTQ4OTQ5MSwwMDAwMDAwMDMwZmVmNzk4NWZjMDIzY2ZjYTQ1ZWVhN2I3YTNjZDNj`

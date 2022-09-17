@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 
 > De aquí y de allá\. A mixture of sounds and artists\. Cover: Cuco
 
-[Spotify](https://open.spotify.com/user/spotify) - 748,927 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 748,974 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 59 | [Si nos vamos](https://open.spotify.com/track/1PssPMY2c6vBIdfipUMR3X) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [Si nos vamos](https://open.spotify.com/album/4KtiEBfQhipRwX7jzaSdLJ) | 2:46 |
 | 60 | [La vie \- A COLORS SHOW](https://open.spotify.com/track/6Xuz1r6GgUXgYZPn8XEFAV) | [Ichon](https://open.spotify.com/artist/5MJkroCz5vy8h3LeDsN1vu) | [La vie \- A COLORS SHOW](https://open.spotify.com/album/5IdRMFYaJOclQaE3xChUUh) | 3:49 |
 | 61 | [Bedtime Story](https://open.spotify.com/track/2OmdXyjwfOQGsVdTUCRDwv) | [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [Constellations](https://open.spotify.com/album/0X4X4hGytNt85z9zZQW8F9) | 2:59 |
-| 62 | [FEEL SOMETHING DIFFERENT](https://open.spotify.com/track/5Q4UX8hxcaJEtAE9RtsmSY) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [FEEL SOMETHING DIFFERENT](https://open.spotify.com/album/3FheSC4Vgn2ASKTyYt9WcA) | 3:27 |
-| 63 | [Fogata](https://open.spotify.com/track/0jniFtpAyWN1hCtQdTllSg) | [XAXO](https://open.spotify.com/artist/04QAHqsyX2YvreBDLkgpXb), [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT) | [Fogata](https://open.spotify.com/album/0BEdljhMIuLrTrulOoT0ry) | 2:53 |
+| 62 | [Fogata](https://open.spotify.com/track/0jniFtpAyWN1hCtQdTllSg) | [XAXO](https://open.spotify.com/artist/04QAHqsyX2YvreBDLkgpXb), [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT) | [Fogata](https://open.spotify.com/album/0BEdljhMIuLrTrulOoT0ry) | 2:53 |
+| 63 | [FEEL SOMETHING DIFFERENT](https://open.spotify.com/track/5Q4UX8hxcaJEtAE9RtsmSY) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [FEEL SOMETHING DIFFERENT](https://open.spotify.com/album/3FheSC4Vgn2ASKTyYt9WcA) | 3:27 |
 | 64 | [Timeless](https://open.spotify.com/track/7KlW2RiPAWFNT75f216VgH) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Timeless](https://open.spotify.com/album/4LQTxLRClMkSo9df6X8S1g) | 3:38 |
 | 65 | [Maybe Baby](https://open.spotify.com/track/2SAIOfbBGw6Vvt8sW3qkP2) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Maybe Baby](https://open.spotify.com/album/3Nv4qF7y94KVdKMXoBYW1B) | 3:13 |
 | 66 | [you are, you are \- demo](https://open.spotify.com/track/58Tdz2gduIKxLT9852hQxc) | [f\. fin](https://open.spotify.com/artist/44GRwsM3LDG7zZqTUVbp60) | [V](https://open.spotify.com/album/4fx1cV8otauzkVrC91SpP3) | 2:17 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 69 | [Only One](https://open.spotify.com/track/65Xycqq3KSaLmEIbWszegR) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Di Genius](https://open.spotify.com/artist/08erObvNX7rs7d4pbuaRCQ) | [Only One](https://open.spotify.com/album/0PGUfPHlpE3MeYZgRsbWhw) | 3:38 |
 | 70 | [DOLORES](https://open.spotify.com/track/1OOiw7ttMNKjp8BTeH2QaV) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [ESQUEMAS](https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC) | 3:19 |
 | 71 | [Call](https://open.spotify.com/track/7hn0tcCa9akW2BYWTedLer) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC), [Nana](https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu) | [Call](https://open.spotify.com/album/5S1HHEHZqYEuCd7X0HKLPa) | 2:56 |
-| 72 | [Deja](https://open.spotify.com/track/70um118ETgSKTghQNF9iEC) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Agua](https://open.spotify.com/album/37RnWMoZSgAtUKLmeslblE) | 3:50 |
-| 73 | [Fresh Water](https://open.spotify.com/track/2q8EbgPUw6bCQjVyfGoytw) | [PAMÉ](https://open.spotify.com/artist/5ZSOXLTnZcSjdVCIdjnq03), [Floyd Fuji](https://open.spotify.com/artist/0glUNuyGWUn70JhLMARseD) | [Fresh Water](https://open.spotify.com/album/49y4Fp6dj9ElCGJmEQN7DH) | 2:37 |
+| 72 | [Fresh Water](https://open.spotify.com/track/2q8EbgPUw6bCQjVyfGoytw) | [PAMÉ](https://open.spotify.com/artist/5ZSOXLTnZcSjdVCIdjnq03), [Floyd Fuji](https://open.spotify.com/artist/0glUNuyGWUn70JhLMARseD) | [Fresh Water](https://open.spotify.com/album/49y4Fp6dj9ElCGJmEQN7DH) | 2:37 |
+| 73 | [Deja](https://open.spotify.com/track/70um118ETgSKTghQNF9iEC) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Agua](https://open.spotify.com/album/37RnWMoZSgAtUKLmeslblE) | 3:50 |
 | 74 | [H2O](https://open.spotify.com/track/3S6dUc6K59ciPiOuNH57Xr) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [H2O](https://open.spotify.com/album/4afpvkbRnopag8f3lEP3XE) | 3:05 |
 | 75 | [All Damn Day!](https://open.spotify.com/track/54CuNYfGsUsVWIYpkBiPb2) | [Ant Saunders](https://open.spotify.com/artist/4jpsw9CQS439N0B7SecMgf) | [All Damn Day!](https://open.spotify.com/album/1DjiwvABujSgFYXyD2IbFy) | 2:48 |
 | 76 | [TEK](https://open.spotify.com/track/1OmTOjoKCxury3uR767fQO) | [DEVA](https://open.spotify.com/artist/0EdwY8DfBqB83R45WnHJDg), [KICKBOMBO](https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh) | [TEK](https://open.spotify.com/album/56q5LmxtmHhdiPQ4w4EXJA) | 2:43 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 78 | [el sofá](https://open.spotify.com/track/6gpTColYGFZ1q0isxHoE0u) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [tenemos que quedar](https://open.spotify.com/album/7vUAVFwLNWAazVVZOwQtc4) | 3:11 |
 | 79 | [Mascarade \(feat\. Lous and The Yakuza\) \- A COLORS SHOW](https://open.spotify.com/track/7eBQnUcKDi9S3ChSvGZIMg) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw), [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [Mascarade \(feat\. Lous and The Yakuza\)](https://open.spotify.com/album/2YR8IS9wuFnWN8qIjXVmd2) | 2:38 |
 | 80 | [Fashion Freak](https://open.spotify.com/track/1uCEBYwOdBLs8cyVsL35L2) | [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt) | [Fashion Freak](https://open.spotify.com/album/5c5LCZOKndw0LRyyY2R890) | 2:30 |
-| 81 | [Nela](https://open.spotify.com/track/1E1TL6lHV2jwnuqRbzSAKx) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Nela](https://open.spotify.com/album/4nf0rIuMZG82HUKYWCzzID) | 2:43 |
-| 82 | [Nubes](https://open.spotify.com/track/0btkyN6uJvHFdRxlVrUaJv) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [Nubes](https://open.spotify.com/album/1k9UpjPJHSvjCPIoeGRPgR) | 2:54 |
+| 81 | [Nubes](https://open.spotify.com/track/0btkyN6uJvHFdRxlVrUaJv) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [Nubes](https://open.spotify.com/album/1k9UpjPJHSvjCPIoeGRPgR) | 2:54 |
+| 82 | [Nela](https://open.spotify.com/track/1E1TL6lHV2jwnuqRbzSAKx) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Nela](https://open.spotify.com/album/4nf0rIuMZG82HUKYWCzzID) | 2:43 |
 | 83 | [Someone Like You](https://open.spotify.com/track/4zWRy2rJL6sdy7k8XBq7lb) | [KAIRO](https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v) | [Love Letters From Houston](https://open.spotify.com/album/1i0V76TeMcJdy8G5jcMjkI) | 2:52 |
 | 84 | [Californication \(Feels Like I'm Falling In Love\)](https://open.spotify.com/track/3J2k1thSgkkd3BOZSZPEuW) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc) | [Californication \(Feels Like I'm Falling In Love\)](https://open.spotify.com/album/1OY6knghBPwPAdfh0AoIQe) | 3:00 |
 | 85 | [Algo Mejor](https://open.spotify.com/track/4ISEWl5YiCC8AYUYmiwoZF) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Algo Mejor](https://open.spotify.com/album/1lAepSHOIFa0GLKL8gklPT) | 2:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 99 | [No Es Normal](https://open.spotify.com/track/6rJ7uCWB1yivhVmqFNDPfM) | [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r) | [Se Siente Diferente](https://open.spotify.com/album/06A2wi6Je4oNabYpaw5h1y) | 3:32 |
 | 100 | [Direction](https://open.spotify.com/track/3K2PkX4J57HRMdjchzhV2x) | [Aniya Teno](https://open.spotify.com/artist/3tQk5O9Q3HKn7wA7yAl8MW), [Ivan Orozco](https://open.spotify.com/artist/0YtSuW7FvS3jNpb8dkc2Sl) | [Direction](https://open.spotify.com/album/07oAGIjAdGLI4RAFgPZ3UM) | 3:45 |
 
-Snapshot ID: `MTY2MjQ4MjQ0MywwMDAwMDAwMDA2MWIyYzllNGI0ZDJhMTQxNzJmYzdkOTQ1YTcwNmQ5`
+Snapshot ID: `MTY2MjQ4MjQ0MywwMDAwMDAwMDZmM2Q1MmJiZTBjOTBlZTlkOWY1MDdhOTExNTQ5NTQ4`

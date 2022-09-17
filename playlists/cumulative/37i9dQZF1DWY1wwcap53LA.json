@@ -1590,6 +1590,24 @@
     },
     {
       "album": {
+        "name": "Tequila Money",
+        "url": "https://open.spotify.com/album/6IE2KcXgRn1q1QNMWXLdoK"
+      },
+      "artists": [
+        {
+          "name": "Zinn",
+          "url": "https://open.spotify.com/artist/5mGMpDd5gyYAXp9Goofy6D"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139588,
+      "name": "Tequila Money",
+      "url": "https://open.spotify.com/track/1wZkPgmHtAiSAeo6dymYC6"
+    },
+    {
+      "album": {
         "name": "The Flame",
         "url": "https://open.spotify.com/album/6Sw8xNbH0mApwadnpyyCFA"
       },

@@ -4,7 +4,7 @@
 
 > Super mega hits! Foto: Harry Styles.
 
-215 songs - 11 hr 52 min - [published](https://open.spotify.com/playlist/7gRGNt2lEYEUllsk5m0BDL)
+216 songs - 11 hr 55 min - [published](https://open.spotify.com/playlist/7gRGNt2lEYEUllsk5m0BDL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Honest \(feat\. Don Toliver\)](https://open.spotify.com/track/2KdKh9vHbKW0tZLqtpxxI0) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Honest](https://open.spotify.com/album/2luYA3MBCKI7SfK3K0U3xf) | 3:13 | 2022-04-29 | 2022-05-28 |
 | [How Do You Sleep?](https://open.spotify.com/track/34pRqzRiFcIuyRMuuEayzY) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Love Goes](https://open.spotify.com/album/5XCBX16KNYsAe7V5hQV9mC) | 3:22 | 2022-01-07 | 2022-02-19 |
 | [I Ain't Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2) | 2:28 | 2022-05-13 |  |
-| [I AM WOMAN](https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb) | [Emmy Meli](https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k) | [I AM WOMAN](https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n) | 3:52 | 2022-01-07 |  |
+| [I AM WOMAN](https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb) | [Emmy Meli](https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k) | [I AM WOMAN](https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n) | 3:52 | 2022-01-07 | 2022-09-17 |
 | [i can't help it](https://open.spotify.com/track/1HkRnB3c6aVMJxAryrsMsc) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [i can't help it](https://open.spotify.com/album/1vJ1jmaxBT3tHp54igkrmK) | 2:57 | 2022-08-26 |  |
 | [I Don't Care \(with Justin Bieber\)](https://open.spotify.com/track/3HVWdVOQ0ZA45FuZGSfvns) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [I Don't Care \(with Justin Bieber\)](https://open.spotify.com/album/5Nux7ozBJ5KJ02QYWwrneR) | 3:39 | 2022-01-07 |  |
 | [I Like You \(A Happier Song\) \(with Doja Cat\)](https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 3:12 | 2022-06-03 | 2022-07-08 |
@@ -175,6 +175,7 @@
 | [she's all i wanna be](https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [she's all i wanna be](https://open.spotify.com/album/51oWPUjnGhecw62V8LDXK8) | 3:26 | 2022-04-08 | 2022-05-14 |
 | [Shivers](https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:27 | 2022-07-21 |  |
 | [Shivers](https://open.spotify.com/track/6bQfNiqyCX7UaQSvVVGo4I) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Shivers](https://open.spotify.com/album/5kFCfioZraFsRWpoitQjmx) | 3:27 | 2022-01-07 | 2022-07-29 |
+| [Shut Down](https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 2:55 | 2022-09-16 |  |
 | [Sin Fin](https://open.spotify.com/track/3qaHzxjNtFU7QiEuhGx70x) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Sin Fin](https://open.spotify.com/album/6bcsXfLlMTAWGWdWofzM2l) | 3:54 | 2022-09-02 | 2022-09-10 |
 | [SNAP](https://open.spotify.com/track/0QPRDC97rIQB3Jh3hrVJoH) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP](https://open.spotify.com/album/4Cv9qCS1q3FDyyRFHGyc1g) | 2:59 | 2022-08-05 | 2022-08-19 |
 | [SNAP](https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP](https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR) | 2:59 | 2022-08-05 |  |

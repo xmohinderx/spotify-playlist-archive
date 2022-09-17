@@ -265,7 +265,7 @@
       ],
       "date_added": "2022-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-10",
+      "date_removed": null,
       "duration_ms": 184826,
       "name": "Gone Home",
       "url": "https://open.spotify.com/track/7v8sDW9FgPTLl7Qq3g5qgl"
@@ -633,7 +633,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 179826,
       "name": "Pipeline",
       "url": "https://open.spotify.com/track/38woaO9J9HFdlL5qBdAm68"
@@ -655,7 +655,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 359266,
       "name": "Pride And Joy",
       "url": "https://open.spotify.com/track/5LNkpie03tsGvZgFxc2R0P"
@@ -1019,6 +1019,24 @@
       "duration_ms": 144600,
       "name": "Wham",
       "url": "https://open.spotify.com/track/42DFAOfH92om07FwNqX2Ye"
+    },
+    {
+      "album": {
+        "name": "The Essential Stevie Ray Vaughan And Double Trouble",
+        "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274800,
+      "name": "Willie The Wimp - Live",
+      "url": "https://open.spotify.com/track/1nwXca4jNGWDpowRQnEiEv"
     },
     {
       "album": {

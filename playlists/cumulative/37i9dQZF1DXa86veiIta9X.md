@@ -4,7 +4,7 @@
 
 > take over the aux cord and scream sing down Broadway
 
-123 songs - 7 hr 5 min - [published](https://open.spotify.com/playlist/7EiBtGZmlpvFcE8sLPd28j)
+124 songs - 7 hr 8 min - [published](https://open.spotify.com/playlist/7EiBtGZmlpvFcE8sLPd28j)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,8 @@
 | [Since U Been Gone](https://open.spotify.com/track/3xrn9i8zhNZsTtcoWgQEAd) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Breakaway](https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq) | 3:08 | 2022-04-13 |  |
 | [Single Ladies \(Put a Ring on It\)](https://open.spotify.com/track/557un1HgwYMuqfWGSTmnxw) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE \- Platinum Edition](https://open.spotify.com/album/3ROfBX6lJLnCmaw1NrP5K9) | 3:12 | 2022-04-13 | 2022-07-29 |
 | [Single Ladies \(Put a Ring on It\)](https://open.spotify.com/track/2ZBNclC5wm4GtiWaeh0DMx) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE](https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU) | 3:13 | 2022-06-06 |  |
-| [Sit Still, Look Pretty](https://open.spotify.com/track/0EGuSSpuu9wmHCtvb4PdLO) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Sit Still, Look Pretty](https://open.spotify.com/album/0T8SCja56F4lhZXyOcBTIV) | 3:22 | 2022-04-13 |  |
+| [Sit Still, Look Pretty](https://open.spotify.com/track/0EGuSSpuu9wmHCtvb4PdLO) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Sit Still, Look Pretty](https://open.spotify.com/album/0T8SCja56F4lhZXyOcBTIV) | 3:22 | 2022-04-13 | 2022-09-17 |
+| [Sit Still, Look Pretty](https://open.spotify.com/track/6ZtiywT2Qm50a1uR0jlY35) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Sit Still, Look Pretty](https://open.spotify.com/album/3NoYyHEGIa8as1c0cisZAt) | 3:27 | 2022-06-06 |  |
 | [Somebody Like That](https://open.spotify.com/track/3hboOw4dS0aXGuP0fyyvbC) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Love, Heartbreak, & Everything in Between](https://open.spotify.com/album/1H7PmO9d4fsHghlYXDRlWG) | 3:18 | 2022-06-06 |  |
 | [Somebody Like That](https://open.spotify.com/track/62SvLj5dBDI9Ee3eBA0BxL) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Love, Heartbreak, & Everything in Between](https://open.spotify.com/album/6Jetxgkv7jYVQJhyOBqAPa) | 3:18 | 2022-04-13 | 2022-07-29 |
 | [Somethin' Bad \(with Carrie Underwood\) \- Duet with Carrie Underwood \[Album\]](https://open.spotify.com/track/6s9m5J92By7jii22Q2XtY2) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Platinum](https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw) | 2:49 | 2022-04-13 |  |

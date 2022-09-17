@@ -2,9 +2,9 @@
 
 ### [Sólo Pop](https://open.spotify.com/playlist/37i9dQZF1DX4YhSbTs17ha)
 
-> Escucha las canciones de pop más exitosas en México\. Ha\*Ash y Kenia OS en portada.
+> Escucha las canciones de pop más exitosas en México\. Juanes y Morat en portada.
 
-209 songs - 11 hr 30 min - [published](https://open.spotify.com/playlist/1nDBCqiK6HvT2BsLItZYgM)
+210 songs - 11 hr 34 min - [published](https://open.spotify.com/playlist/1nDBCqiK6HvT2BsLItZYgM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Buenos Días](https://open.spotify.com/track/2MxHuZWC99rsELX9SrCW7K) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Los Legendarios](https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke) | [Buenos Días](https://open.spotify.com/album/4bmS0E4xk96TPMC9MXc9Xv) | 3:19 | 2022-02-04 | 2022-09-06 |
 | [Cachito](https://open.spotify.com/track/5S4rNAIyjLyUVdrGWy48Ub) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Cachito](https://open.spotify.com/album/0OcBXPOOzTDvQKUJxnQSvf) | 3:08 | 2022-02-04 | 2022-04-23 |
 | [Caja](https://open.spotify.com/track/0U2GMzCpEOl25moMM3qfBF) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Caja](https://open.spotify.com/album/5w35vhKYFsJNo9My9N2Gh1) | 3:27 | 2022-02-04 | 2022-02-19 |
-| [Caminar Sola](https://open.spotify.com/track/1ZGTVVXlL3FkaTGyNQey2P) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Caminar Sola](https://open.spotify.com/album/5MJYQdDfWT6r77caberwu2) | 3:18 | 2022-06-03 |  |
+| [Caminar Sola](https://open.spotify.com/track/1ZGTVVXlL3FkaTGyNQey2P) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Caminar Sola](https://open.spotify.com/album/5MJYQdDfWT6r77caberwu2) | 3:18 | 2022-06-03 | 2022-09-17 |
 | [Canción Bonita](https://open.spotify.com/track/5iF33sXejXwfTuidVHMll0) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Canción Bonita](https://open.spotify.com/album/0MykRhKNiatX85K4bCHL8U) | 2:49 | 2022-02-04 | 2022-04-23 |
 | [Carretera y manta](https://open.spotify.com/track/4RgqBP0RY3pQY3Z3d3fKnf) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Carretera y manta](https://open.spotify.com/album/3DlIRvWPWudQaYZOclzabT) | 2:43 | 2022-07-19 |  |
 | [Casualidad](https://open.spotify.com/track/5FcT2TuosRkokjn3xyncER) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Casualidad](https://open.spotify.com/album/2TMrMWOfJY01n2MRhANkWi) | 3:13 | 2022-02-04 | 2022-05-20 |
@@ -157,6 +157,7 @@
 | [Perfecta](https://open.spotify.com/track/6VOb0Kkrd45Bp5RHYSla2J) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Perfecta](https://open.spotify.com/album/5ON2micjtMSXspIHMxh5gc) | 2:54 | 2022-02-04 | 2022-05-20 |
 | [Pesadilla](https://open.spotify.com/track/2mCefaKSDuz6S50YIS57wR) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Pesadilla](https://open.spotify.com/album/3b2z5O7s1vxHaaTsn1J1Cz) | 3:08 | 2022-02-04 | 2022-02-26 |
 | [PROVENZA](https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [PROVENZA](https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y) | 3:30 | 2022-04-22 |  |
+| [Que Triste](https://open.spotify.com/track/0smvBTED0Px0rqPf3tobpt) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Que Triste](https://open.spotify.com/album/36RNXuLE0BmLqqS36VDpWF) | 3:46 | 2022-09-16 |  |
 | [Quédate](https://open.spotify.com/track/4qaZgDX8Yp9iwboMUZaQgu) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Quédate](https://open.spotify.com/album/711RfL6UNIcE0yoFGJTRSO) | 3:15 | 2022-02-18 |  |
 | [Respirar](https://open.spotify.com/track/2vEWdPXczuJoK6cim5jxK5) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Respirar](https://open.spotify.com/album/5tMtH0kJcq8yPCTBTyIWWN) | 3:19 | 2022-02-04 |  |
 | [Salvaje](https://open.spotify.com/track/0KLIB8E9BhIE9FTqFeu3a7) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [Ely Blancarte](https://open.spotify.com/artist/1IncEJiDn0fbUO0rDQkqB2) | [Salvaje](https://open.spotify.com/album/52ZUclHV8eBvrdRMsfGjkb) | 2:57 | 2022-02-04 | 2022-04-19 |

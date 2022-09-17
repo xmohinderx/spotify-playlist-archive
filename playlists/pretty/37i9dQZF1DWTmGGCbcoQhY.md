@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmGGCbcoQhY.md) - [plain]
 
 > ¡Un sa\-sa\-saludo a todos los amantes de la cu\-cu\-cumbia!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,124,103 likes - 125 songs - 8 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,124,519 likes - 125 songs - 8 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmGGCbcoQhY.md) - [plain]
 | 54 | [El Verde De Tus Ojos \- Remix](https://open.spotify.com/track/1Nl4EXAxSulKlbiro793i4) | [Los Yes Yes](https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q) | [Trayectoria](https://open.spotify.com/album/0YtGKnOCOt9IYnHDsuJwQt) | 5:15 |
 | 55 | [Rumba Frenesi](https://open.spotify.com/track/1nASPG3ZiLBi3fJMOZmRsJ) | [Grupo Kual? Dinastia Pedraza](https://open.spotify.com/artist/5PjsLo3UsW3pdl1z6I4hWq) | [El Poder de la Cumbia](https://open.spotify.com/album/79LPQTAIJn9zkZbQxjijae) | 5:11 |
 | 56 | [Estupido](https://open.spotify.com/track/1hA3c7Rf0oLHFNR4ZVL030) | [Los Papis RA7](https://open.spotify.com/artist/1y7GWTEfMzxafQ4mL0uZpq) | [Tonto Cariño](https://open.spotify.com/album/1jsyIp7OFTpIHDkKXl0kgS) | 4:59 |
-| 57 | [Cosas Bonitas](https://open.spotify.com/track/75VDWiZEfAt3dL49kASgvi) | [Grupo Maravilla](https://open.spotify.com/artist/0Ur2HPuhb0mRnXFPOsCFB7) | [De Reventon](https://open.spotify.com/album/4qzxNsbEaoBc4M2ZFEyFoU) | 4:14 |
-| 58 | [Nunca Pense Llorar](https://open.spotify.com/track/3oXF0sRycbyJUDRd5BqTUw) | [Rossy War y Su Banda Kaliente](https://open.spotify.com/artist/04laTTTa6l3hNn8a1EG7UQ) | [Como un Dulce Poema, Vol\. 3](https://open.spotify.com/album/0XdMiGlG64yiq2Np190XbY) | 4:09 |
+| 57 | [Nunca Pense Llorar](https://open.spotify.com/track/3oXF0sRycbyJUDRd5BqTUw) | [Rossy War y Su Banda Kaliente](https://open.spotify.com/artist/04laTTTa6l3hNn8a1EG7UQ) | [Como un Dulce Poema, Vol\. 3](https://open.spotify.com/album/0XdMiGlG64yiq2Np190XbY) | 4:09 |
+| 58 | [Cosas Bonitas](https://open.spotify.com/track/75VDWiZEfAt3dL49kASgvi) | [Grupo Maravilla](https://open.spotify.com/artist/0Ur2HPuhb0mRnXFPOsCFB7) | [De Reventon](https://open.spotify.com/album/4qzxNsbEaoBc4M2ZFEyFoU) | 4:14 |
 | 59 | [Soy Soltero](https://open.spotify.com/track/09bBwB9wctmnYtxMOdNGRd) | [El Dipy](https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw) | [No Lo Compren](https://open.spotify.com/album/31nDorIqLwLOrjNtf31zGR) | 3:37 |
 | 60 | [Que calor](https://open.spotify.com/track/0RDDMvevLZkkBhAHP2mNpb) | [Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Pibes Chorros \- Criando Cuervos](https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs) | 3:45 |
 | 61 | [Cumbia Del Chinito](https://open.spotify.com/track/761FhLirwe3hFnJKgHUN8y) | [Super Grupo Colombia](https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi) | [Super Grupo Colombia](https://open.spotify.com/album/16b1llxcevVntDsf1HLbtK) | 4:12 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmGGCbcoQhY.md) - [plain]
 | 70 | [Me Volví A Acordar De Ti](https://open.spotify.com/track/6z4LGme7tL991yvpk1gURW) | [Los Angeles De Charly](https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR) | [Serie Diamante \- 15 Súper Exitos](https://open.spotify.com/album/6CbDYnfZuYfuC9aKn9LcSq) | 3:55 |
 | 71 | [Palabras No](https://open.spotify.com/track/75LiifjwTF6cpyVILANf4q) | [Grupo Quintanna](https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc) | [Palabras No](https://open.spotify.com/album/6nyVwXMNI2h6NdbpKB11av) | 4:09 |
 | 72 | [Nuestra Historia Termino](https://open.spotify.com/track/3BrU3r6HIJI9zmk1rZ7ucg) | [ICC](https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF), [Grupo Quintanna](https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc), [Los Tepoz](https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW) | [Nuestra Historia Termino](https://open.spotify.com/album/1iFOgtTfccrwup6iq06dvf) | 3:54 |
-| 73 | [Amor Carnal](https://open.spotify.com/track/2BvixI7ri9MTF60jLSZLGW) | [Grupo Karo's](https://open.spotify.com/artist/3wOf6DlTkRycQcnlDrTe2x) | [Locura De Amor](https://open.spotify.com/album/5EDey3kMxdheEFK69Tq8EF) | 3:57 |
-| 74 | [Ven a Mi](https://open.spotify.com/track/0taanVJBn0nEAYU7qz69fl) | [Grupo Kachimba](https://open.spotify.com/artist/7p6rCOCEPeP1K4QQ8MwtKS) | [Que Te Vaya Mal](https://open.spotify.com/album/5pvpAvUiTk2slwnMDSp4A6) | 5:27 |
+| 73 | [Ven a Mi](https://open.spotify.com/track/0taanVJBn0nEAYU7qz69fl) | [Grupo Kachimba](https://open.spotify.com/artist/7p6rCOCEPeP1K4QQ8MwtKS) | [Que Te Vaya Mal](https://open.spotify.com/album/5pvpAvUiTk2slwnMDSp4A6) | 5:27 |
+| 74 | [Amor Carnal](https://open.spotify.com/track/2BvixI7ri9MTF60jLSZLGW) | [Grupo Karo's](https://open.spotify.com/artist/3wOf6DlTkRycQcnlDrTe2x) | [Locura De Amor](https://open.spotify.com/album/5EDey3kMxdheEFK69Tq8EF) | 3:57 |
 | 75 | [Todo Lo Encuentro En Ti](https://open.spotify.com/track/5qzX9hy9D3LSHESgvszFds) | [Super Lamas](https://open.spotify.com/artist/0A8eZ8ou3msWR8xVkJOFXe) | [Lo Más Escuchado De](https://open.spotify.com/album/6eRgsSSeFZMtgZAu2s6qoR) | 4:13 |
 | 76 | [Abandonado](https://open.spotify.com/track/3zTtqNPnbLUKTmj69JapdD) | [Efrén David](https://open.spotify.com/artist/5j8A0drRTB6kfW70XY9J2g) | [Recuerdos](https://open.spotify.com/album/3bvSVLCNLuiBqLiXt6bAN5) | 4:32 |
 | 77 | [Tú Eres La Razón \- Electrocumbia Remake](https://open.spotify.com/track/3ZPIjIpVU6vh5gf3DvSV3a) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Tú Eres La Razón \(Electrocumbia Remake\)](https://open.spotify.com/album/2Ym9wv4J5XWjnkeWmG5r3w) | 3:15 |
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmGGCbcoQhY.md) - [plain]
 | 91 | [Lagrimas de Escarcha](https://open.spotify.com/track/4rRX8M117ii4lulb7Iw379) | [Tiberio Y Sus Gatos Negros](https://open.spotify.com/artist/6a5iqJmvklikJ2kUIl2xl1) | [Los Exitos de Tiberio y Sus Gatos Negros](https://open.spotify.com/album/2zUls9Mq7XLfndfTtKeynj) | 3:44 |
 | 92 | [Muñeca Esquiva](https://open.spotify.com/track/4ggg2LHw1hxissztRc2Iga) | [Los Dinamiteros de Colombia](https://open.spotify.com/artist/0OJXBz0TBaRCbyDpx62nZW) | [Sabor A Cumbia](https://open.spotify.com/album/0Fx3NFasbLGE619e3M6LP2) | 3:27 |
 | 93 | [El Viejo Panzón](https://open.spotify.com/track/3Dj3PRVWbPlCSaWeA0DBRM) | [Grupo G](https://open.spotify.com/artist/4zKNSiS1LD7OT0z3hTqRE8) | [Triste y Vacía](https://open.spotify.com/album/2bPp7IIAG9esCZClq0l6yV) | 3:14 |
-| 94 | [Embrujo de Cumbia](https://open.spotify.com/track/4RHwuJ7oskqoI0LqMY9RfD) | [Pepe Gomez Jr\. y su Grupo Union 82](https://open.spotify.com/artist/3aiiZsdJHqXrPkYOBQI0Uo) | [Vaya Que Sabor!!](https://open.spotify.com/album/5ekGtbNe6EW4omlCEKZBSL) | 3:19 |
-| 95 | [Negrita](https://open.spotify.com/track/2Bei9aVd6E0PejqXO5VArJ) | [Los Yes Yes](https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q) | [Trayectoria](https://open.spotify.com/album/0YtGKnOCOt9IYnHDsuJwQt) | 4:07 |
+| 94 | [Negrita](https://open.spotify.com/track/2Bei9aVd6E0PejqXO5VArJ) | [Los Yes Yes](https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q) | [Trayectoria](https://open.spotify.com/album/0YtGKnOCOt9IYnHDsuJwQt) | 4:07 |
+| 95 | [Embrujo de Cumbia](https://open.spotify.com/track/4RHwuJ7oskqoI0LqMY9RfD) | [Pepe Gomez Jr\. y su Grupo Union 82](https://open.spotify.com/artist/3aiiZsdJHqXrPkYOBQI0Uo) | [Vaya Que Sabor!!](https://open.spotify.com/album/5ekGtbNe6EW4omlCEKZBSL) | 3:19 |
 | 96 | [Lucerito](https://open.spotify.com/track/3xJaqmggvkerhccRZC4Yyg) | [Chucho Ponce Los Daddys de Chinantla](https://open.spotify.com/artist/5Jvzp2OQHVKVVRNwrIJ9im) | [Solo Exitos](https://open.spotify.com/album/5gGkPK9scAgvwiCwC1c0Bg) | 5:22 |
 | 97 | [Me Vas A Recordar](https://open.spotify.com/track/5Nh4sheOYL11EWJzxhRu5c) | [Los Angeles De Charly](https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR) | [Serie Diamante \- 15 Súper Exitos](https://open.spotify.com/album/6CbDYnfZuYfuC9aKn9LcSq) | 3:00 |
 | 98 | [¡Ay! El Amor](https://open.spotify.com/track/6PAUYlcbuqx6s2MC5RAGLJ) | [Los Askis](https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi) | [Grandes Éxitos Remezclados Y Masterizados](https://open.spotify.com/album/6gecuyIGvYoTOQdyZkovhS) | 3:31 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmGGCbcoQhY.md) - [plain]
 | 124 | [Que Lastima](https://open.spotify.com/track/7lBAwDdNz4aui6HPLWmnBF) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [No Mientas Mas](https://open.spotify.com/album/0QhW8Dh9oguR6NzoK2GmuB) | 3:51 |
 | 125 | [Copos de Nieve](https://open.spotify.com/track/6pKKY70MelQKN7LPF0g3SY) | [Grupo Los Grafiteros](https://open.spotify.com/artist/0ID6bV8B2psmBdf8kfHN7C) | [Copos de Nieve](https://open.spotify.com/album/05uNVPmIyUgxVaaQvqktsi) | 3:47 |
 
-Snapshot ID: `MTY1NDY0MDUxNSwwMDAwMDAwMDJiODg0ZTFmYTBjOTZkNjk5MWU4MDQ0NWI3M2VkY2Vk`
+Snapshot ID: `MTY1NDY0MDUxNSwwMDAwMDAwMDNhMjY1NmExMTRjOTgzNDhhZjI5MThlM2Y5OTYyYWUx`

@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6wMr4zKPrrR0UVz08WtUWc">Black Coffee</a>'s favorite tracks\. Updated regularly\. Curated by Black Coffee\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-80 songs - 8 hr 29 min - not published yet
+80 songs - 8 hr 29 min - [published](https://open.spotify.com/playlist/5WZUrSohLNzhcvgYmsX579)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

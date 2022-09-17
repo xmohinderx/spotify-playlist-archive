@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5biIUI9J7lF.md) - [plain]
 
 > more than just a lifestyle
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,302 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,317 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5biIUI9J7lF.md) - [plain]
 | 6 | [Kenkele](https://open.spotify.com/track/6u1Hciw2SSywNhnrjvZPhp) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Kenkele](https://open.spotify.com/album/6Jm4FSKWl5NL5m5gF9954m) | 3:33 |
 | 7 | [Bloody Samaritan](https://open.spotify.com/track/1OoPhcM78evXIxjmSzCnmf) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [19 & Dangerous](https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv) | 3:07 |
 | 8 | [CHOPLIFE \(feat\. Patoranking\)](https://open.spotify.com/track/5F5OkyidOWn8gj4vQhD7QM) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [CHOPLIFE \(feat\. Patoranking\)](https://open.spotify.com/album/04UO0sJC1oRi1N8kpRKiWf) | 3:33 |
-| 9 | [Call Me Every Day \(feat\. Wizkid\)](https://open.spotify.com/track/7vVs4XCsQyGn1Au3drvo9Z) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Call Me Every Day \(feat\. Wizkid\)](https://open.spotify.com/album/6FKhBgElPu5RBHlarPE1aO) | 2:26 |
+| 9 | [Call Me Every Day \(feat\. Wizkid\)](https://open.spotify.com/track/7vVs4XCsQyGn1Au3drvo9Z) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Call Me Every Day \(feat\. Wizkid\)](https://open.spotify.com/album/6FKhBgElPu5RBHlarPE1aO) | 2:26 |
 | 10 | [Enjoy](https://open.spotify.com/track/1LCy7LSknQSMxxflErjKqO) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Enjoy](https://open.spotify.com/album/1MbsUNijqaPrfESRq6jz7c) | 2:16 |
 | 11 | [FANCY](https://open.spotify.com/track/5qnG5K46AMldqlO96i5pKA) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [THE ANGEL YOU DON'T KNOW](https://open.spotify.com/album/1cceIhCQ8R79pwy8jbZFqE) | 2:23 |
 | 12 | [Material Girl](https://open.spotify.com/track/6nQ1B216Liiydhgn2gar0o) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [Imma Celebrity](https://open.spotify.com/album/1bdjA6LpTF8vkWLK983MRx) | 3:08 |
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5biIUI9J7lF.md) - [plain]
 | 17 | [Ye](https://open.spotify.com/track/3FskQrDXcY24ur2fCvz35O) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Outside](https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D) | 3:51 |
 | 18 | [Cash](https://open.spotify.com/track/24Du4ldzPI7PVfuaB45JHV) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [Enjoy Your Life](https://open.spotify.com/album/1tbGvVPTxiB6eZUbDjbSvv) | 3:07 |
 | 19 | [Have Fun](https://open.spotify.com/track/0lfDJO9YpO6LdPAmeZSy50) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS) | [Have Fun](https://open.spotify.com/album/3oGGPxoSSnThtJaFp210lv) | 2:16 |
-| 20 | [Mood \(feat\. BNXN\)](https://open.spotify.com/track/6jdTkoEaer7XNGSblczoSu) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Made In Lagos: Deluxe Edition](https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD) | 3:29 |
+| 20 | [Mood \(feat\. BNXN\)](https://open.spotify.com/track/6jdTkoEaer7XNGSblczoSu) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Made In Lagos: Deluxe Edition](https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD) | 3:29 |
 | 21 | [It's Plenty](https://open.spotify.com/track/5hVjoL3sHepZROri63wBxP) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:36 |
 | 22 | [Just Because](https://open.spotify.com/track/0YL65Oqm2oVKSC2GIdZf69) | [kadiata](https://open.spotify.com/artist/3fRPt5kKn2lETY48z6kigv), [Shamiya Battles](https://open.spotify.com/artist/3NTdPQSh0JSz5c5AGngQyE) | [Just Because](https://open.spotify.com/album/1nNcCg5KTRsySgCji6NvcS) | 3:12 |
 | 23 | [Feeling Myself](https://open.spotify.com/track/5fyIGoaaKelzdyW8ELhYJZ) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [The Pinkprint \(Deluxe\)](https://open.spotify.com/album/5ooCuPIk58IwSo6DRr1JCu) | 3:57 |
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5biIUI9J7lF.md) - [plain]
 | 48 | [Dinaledi](https://open.spotify.com/track/0kNOuZYnpu1RiQTWXUUzE8) | [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Abidoza](https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33), [Mpho Sebina](https://open.spotify.com/artist/3Z2T6mI5rrWuijYZkclFEN) | [Pianochella!](https://open.spotify.com/album/0xdssKV7YH5OSpIp4hQVOI) | 8:15 |
 | 49 | [Lifestyle](https://open.spotify.com/track/5hXEPdj7dDxfKcowpjiVwf) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [APOLLO](https://open.spotify.com/album/6HdrMYu33mRMYPEDB8MbPq) | 2:32 |
 | 50 | [Feeling](https://open.spotify.com/track/29e2gdZN35wxeGgDtkXjIa) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Feeling](https://open.spotify.com/album/7HUbrb8z5gdwm9OoPEDh5A) | 3:44 |
-| 51 | [No Stress](https://open.spotify.com/track/5C3vZiMOn2KHMbNQOhL6oQ) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 3:22 |
+| 51 | [No Stress](https://open.spotify.com/track/5C3vZiMOn2KHMbNQOhL6oQ) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 3:22 |
 | 52 | [FYN](https://open.spotify.com/track/0kmVNMFtYuiN3vjyxsyZZS) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Rave & Roses](https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG) | 3:27 |
 | 53 | [Free Mind](https://open.spotify.com/track/2mzM4Y0Rnx2BDZqRnhQ5Q6) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [For Broken Ears](https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV) | 4:07 |
 | 54 | [Proper Enjoyment](https://open.spotify.com/track/4QkjkDGed9G61Ondbtg5ON) | [Tunji Ige](https://open.spotify.com/artist/5fW1JQP4DfDyNqvYQ5m4Ju) | [Proper Enjoyment](https://open.spotify.com/album/6Zud8nl3jWGp7M80X3zJMY) | 3:45 |

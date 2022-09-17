@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1F8iyK0PtpY1EAYBTssIaz">Billy Strayhorn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 423 likes - 140 songs - 10 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 425 likes - 140 songs - 10 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 | 139 | [Juanita](https://open.spotify.com/track/4MkCMbWsZ1J3MSkc5EAn1l) | [Ray Charles Singers](https://open.spotify.com/artist/716xTLDou3FHSi9mXOMU1Z) | [In the Evening by the Moonlight](https://open.spotify.com/album/6Gm70RcgXviUTf189V247x) | 3:22 |
 | 140 | [Suite For The Duo](https://open.spotify.com/track/2LhGv7K7runCfDvvacEs9L) | [The Mitchell\-Ruff Duo](https://open.spotify.com/artist/6EuDBKUzhOpVFircumtEz6) | [Strayhorn: A Mitchell\-Ruff Interpretation](https://open.spotify.com/album/5ZAbG3O5SXsmw9U7szA1Sq) | 12:42 |
 
-Snapshot ID: `Mjc3MjE1NjEsMDAwMDAwMDBmOWZjMjUyNjhmMGEzNzM5NGU4OTkwZTU3N2ZlZmY1MQ==`
+Snapshot ID: `Mjc3MjMwMDEsMDAwMDAwMDA2M2IzODM1YzcyMDA0YTVhODYzZTNmOWY4MjcxYTcyMw==`

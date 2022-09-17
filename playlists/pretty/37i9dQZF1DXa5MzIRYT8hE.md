@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5MzIRYT8hE.md) - [plain]
 
 > Si estuviésemo' en el kínder te enviaba cartita'...
 
-[Spotify](https://open.spotify.com/user/spotify) - 434 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 462 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,16 +36,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5MzIRYT8hE.md) - [plain]
 | 26 | [Quiéreme Así](https://open.spotify.com/track/2bOw3b1eAOtYXzyaB63KXK) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Quiéreme Así](https://open.spotify.com/album/5ugHOB3qvt50RpLkuoIYYN) | 3:08 |
 | 27 | [Emojis de Corazones \(feat\. Los Legendarios\)](https://open.spotify.com/track/5Mw46yRtdiOdjqSG0eDItr) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Los Legendarios](https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke) | [Emojis de Corazones \(feat\. Los Legendarios\)](https://open.spotify.com/album/6hdSXoNAfGg4cRUzM94EBR) | 5:03 |
 | 28 | [Cositas de la USA](https://open.spotify.com/track/5c4KBG3ATUOmP8y2KHGGoI) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Cositas de la USA](https://open.spotify.com/album/4EwZe3wzi0JWMdobUrpHIs) | 3:09 |
-| 29 | [No Bailes Sola](https://open.spotify.com/track/1GNSWpe2SB30zYGbNTD96b) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [No Bailes Sola](https://open.spotify.com/album/2fDBlYHy3clr2Q3JRq89Rd) | 3:00 |
-| 30 | [Algo Mágico](https://open.spotify.com/track/7D93pJcwymzaZx8WgBo2zG) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Afrodisíaco](https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v) | 4:21 |
+| 29 | [Algo Mágico](https://open.spotify.com/track/7D93pJcwymzaZx8WgBo2zG) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Afrodisíaco](https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v) | 4:21 |
+| 30 | [No Bailes Sola](https://open.spotify.com/track/1GNSWpe2SB30zYGbNTD96b) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [No Bailes Sola](https://open.spotify.com/album/2fDBlYHy3clr2Q3JRq89Rd) | 3:00 |
 | 31 | [Casualidad](https://open.spotify.com/track/5FcT2TuosRkokjn3xyncER) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Casualidad](https://open.spotify.com/album/2TMrMWOfJY01n2MRhANkWi) | 3:13 |
 | 32 | [La Funka](https://open.spotify.com/track/0XpMTExp5q4nLZZZ3msDGn) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [La Funka](https://open.spotify.com/album/0EN9tz6tsXi8MOUjNLVf1G) | 3:18 |
 | 33 | [Machu Picchu](https://open.spotify.com/track/6RV9pRLIQiXm3qTGeyQluf) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Mis Manos](https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA) | 2:59 |
 | 34 | [Bebé Que Bien Te Ves](https://open.spotify.com/track/6Se3CKRvYOyuzHGdHAooem) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [JOSE](https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP) | 3:46 |
 | 35 | [Fresa](https://open.spotify.com/track/4BCPItsB94KDLuERZT3aNM) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj) | [Fresa](https://open.spotify.com/album/2v2CUuzRvsBNb4c5Rj8nqi) | 2:45 |
 | 36 | [Tírame Un Hello](https://open.spotify.com/track/3QaVdI6ZgQ3d4VJOscCH1s) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP) | [Tírame Un Hello](https://open.spotify.com/album/5TMEMbki3PdX1SnjaxZP1g) | 2:49 |
-| 37 | [Carita Linda](https://open.spotify.com/track/4xWJF4R96jAOpKJ1epgb1V) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [Carita Linda](https://open.spotify.com/album/1jUiXH21xkPzuRFI6Cghxu) | 3:19 |
-| 38 | [Reina Pepiada](https://open.spotify.com/track/3yJ8buQlPzQtHyCicOGDJ0) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [Diaz Antes](https://open.spotify.com/album/5gk9ozZKJuosICdYgwa5JW) | 4:04 |
+| 37 | [Reina Pepiada](https://open.spotify.com/track/3yJ8buQlPzQtHyCicOGDJ0) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [Diaz Antes](https://open.spotify.com/album/5gk9ozZKJuosICdYgwa5JW) | 4:04 |
+| 38 | [Carita Linda](https://open.spotify.com/track/4xWJF4R96jAOpKJ1epgb1V) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [Carita Linda](https://open.spotify.com/album/1jUiXH21xkPzuRFI6Cghxu) | 3:19 |
 | 39 | [Besándote](https://open.spotify.com/track/43jclIPKJv9iFiYWVyWqsb) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Ubuntu](https://open.spotify.com/album/0sGGdQF7f03jwgaD9qhtUQ) | 3:01 |
 | 40 | [Nenita](https://open.spotify.com/track/6Bwu10ojlaFg7BGfHxvTWO) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Eterno](https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi) | 3:23 |
 | 41 | [ADMV \- Versión Urbana](https://open.spotify.com/track/3wBKCNw7BFIalnqe4VXzdK) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [ADMV \(Versión Urbana\)](https://open.spotify.com/album/2icmaSfpEsztZeSqmlOOtz) | 3:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5MzIRYT8hE.md) - [plain]
 | 49 | [Amándote](https://open.spotify.com/track/0FpOSszlI29MFCyzTjCSXb) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [Jd Pantoja](https://open.spotify.com/artist/7yjRUA0Iz3VI4Kqa5oPJZK) | [Amándote](https://open.spotify.com/album/2uVA35O8O1eqJtCjI3c1KY) | 2:51 |
 | 50 | [Repítelo](https://open.spotify.com/track/5IDjFFu1TMknvgKVAQ1CRX) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1), [Joey Montana](https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX) | [Repítelo](https://open.spotify.com/album/1DNsExIHCqxBbQci0Qc5h3) | 3:21 |
 
-Snapshot ID: `MTY2MjM5NzI0MywwMDAwMDAwMDEwNmM1OTU2MThkNjZlYzkwODMwMThmOTU4NDY4YTIy`
+Snapshot ID: `MTY2MjM5NzI0MywwMDAwMDAwMDQ2N2QzYzI0ODJmMzRkNGVhZmQ0MTdiOWVkYTQ0Y2Vj`

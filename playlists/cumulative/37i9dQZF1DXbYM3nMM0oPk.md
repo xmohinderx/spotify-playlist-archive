@@ -4,7 +4,7 @@
 
 > A mega mix of 75 favorites from the last few years!
 
-313 songs - 17 hr 0 min - [published](https://open.spotify.com/playlist/653GHkpxw7GmjVxcOlv7fz)
+314 songs - 17 hr 2 min - [published](https://open.spotify.com/playlist/653GHkpxw7GmjVxcOlv7fz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,7 @@
 | [Hawái](https://open.spotify.com/track/4uoR6qeWeuL4Qeu2qJzkuG) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Hawái](https://open.spotify.com/album/3GrNH56DyfyEvBAZ3Otptm) | 3:20 | 2021-02-23 | 2021-03-15 |
 | [Hawái \- Remix](https://open.spotify.com/track/0GzuHFG4Ql6DoyxFRnIk3F) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hawái \(Remix\)](https://open.spotify.com/album/1Ag9EPbzibwzz0S0WpgX3v) | 3:20 | 2021-03-18 | 2022-04-20 |
 | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/track/4wosxLl0mAqhneDzya2MfY) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/album/4w554Y1ts3lmzhn7hpfLBJ) | 2:46 | 2021-04-09 | 2022-04-17 |
-| [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO) | 2:46 | 2022-07-01 |  |
+| [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO) | 2:46 | 2022-07-01 | 2022-09-17 |
 | [Heartbreak Anniversary](https://open.spotify.com/track/27tDoZsybt3KvJWTDoW9id) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [When It's All Said And Done..\. Take Time](https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd) | 3:18 | 2021-09-18 | 2022-07-29 |
 | [Heartless](https://open.spotify.com/track/6bnF93Rx87YqUBLSgjiMU8) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:18 | 2020-10-13\* | 2021-05-21 |
 | [Heather](https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:18 | 2021-02-28 |  |
@@ -304,6 +304,7 @@
 | [WHATS POPPIN \(feat\. DaBaby, Tory Lanez & Lil Wayne\) \- Remix](https://open.spotify.com/track/2MbdDtCv5LUVjYy9RuGTgC) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [WHATS POPPIN \(feat\. DaBaby, Tory Lanez & Lil Wayne\) \[Remix\]](https://open.spotify.com/album/36jrqYRpGVpJqztuqCii22) | 3:47 | 2021-02-23 | 2021-12-21 |
 | [when the party's over](https://open.spotify.com/track/43zdsphuZLzwA9k4DJhU0I) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 3:16 | 2022-07-01 |  |
 | [when the party's over](https://open.spotify.com/track/14JzyD6FlBD5z0wV5P07YI) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [when the party's over](https://open.spotify.com/album/2DfPdWWXknoGKrfa2Eicyw) | 3:19 | 2021-02-23 | 2022-04-20 |
+| [Where Are You Now](https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Where Are You Now](https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD) | 2:28 | 2022-09-16 |  |
 | [Who Do You Love](https://open.spotify.com/track/5QiNbIilmMiMBXvaAlf7lN) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [World War Joy...Do You Mean](https://open.spotify.com/album/17knWaxhmQjegn5eJgGVyL) | 3:46 | 2020-10-20 | 2022-05-10 |
 | [Whoopty](https://open.spotify.com/track/1t9WgS8FN0534tLBRwbaxO) | [CJ](https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb) | [Loyalty Over Royalty](https://open.spotify.com/album/0kHRftVXaiRHgQdtviml0G) | 2:03 | 2021-04-22 | 2021-05-25 |
 | [willow](https://open.spotify.com/track/0lx2cLdOt3piJbcaXIV74f) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [evermore](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) | 3:34 | 2021-04-10 | 2022-07-29 |

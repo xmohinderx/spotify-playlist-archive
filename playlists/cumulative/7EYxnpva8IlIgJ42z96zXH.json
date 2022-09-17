@@ -321,7 +321,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 233218,
       "name": "Alright",
       "url": "https://open.spotify.com/track/0erkfOrhEHd40xipSC8vqi"
@@ -879,7 +879,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 146666,
       "name": "Booty (feat. Latto)",
       "url": "https://open.spotify.com/track/3Ca24oa8tofPtGYuULHXHI"
@@ -1167,7 +1167,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 187500,
       "name": "Calor",
       "url": "https://open.spotify.com/track/5AYOeIifgqYqlASl8f9V3S"
@@ -4434,6 +4434,24 @@
     },
     {
       "album": {
+        "name": "I'm Too Much",
+        "url": "https://open.spotify.com/album/2UO9evsFwViITYI0zm6CrW"
+      },
+      "artists": [
+        {
+          "name": "Saucy Santana",
+          "url": "https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "I'm Too Much",
+      "url": "https://open.spotify.com/track/3maIQrrrYfP5QxU9cgm0YZ"
+    },
+    {
+      "album": {
         "name": "Ice Cream (feat. Nakamura Minami)",
         "url": "https://open.spotify.com/album/1C6r8pCKmaTVYIP4MyupZB"
       },
@@ -4581,6 +4599,24 @@
       "duration_ms": 200028,
       "name": "It's A Killa",
       "url": "https://open.spotify.com/track/2cAYjs1WvosMFadzTDmmzD"
+    },
+    {
+      "album": {
+        "name": "Jesper",
+        "url": "https://open.spotify.com/album/4VSoAgoOCnHThOIgGgx77C"
+      },
+      "artists": [
+        {
+          "name": "2XM",
+          "url": "https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261333,
+      "name": "Jesper",
+      "url": "https://open.spotify.com/track/7JNwNDg2I9SS79aGm6cxvF"
     },
     {
       "album": {
@@ -9825,6 +9861,28 @@
       "duration_ms": 170022,
       "name": "Weekend",
       "url": "https://open.spotify.com/track/6G3t9WroSJiK5S66umOfIA"
+    },
+    {
+      "album": {
+        "name": "What About Me",
+        "url": "https://open.spotify.com/album/1OXrzIHJ0CjVHMTLkY9m4V"
+      },
+      "artists": [
+        {
+          "name": "Sunset Bros",
+          "url": "https://open.spotify.com/artist/2LNuTYPmlmFYnti5EJQoKQ"
+        },
+        {
+          "name": "Shannon Noll",
+          "url": "https://open.spotify.com/artist/2JQme5IJ3U7SRVQqHGN2fG"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184862,
+      "name": "What About Me",
+      "url": "https://open.spotify.com/track/59Qmojg2j7JFwb0lJwE3np"
     },
     {
       "album": {

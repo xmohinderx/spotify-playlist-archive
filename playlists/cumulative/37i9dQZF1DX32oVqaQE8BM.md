@@ -4,7 +4,7 @@
 
 > The ultimate chill out playlist.
 
-377 songs - 16 hr 14 min - [published](https://open.spotify.com/playlist/7jgVc9y4snu47roHOSBA7u)
+386 songs - 16 hr 39 min - [published](https://open.spotify.com/playlist/7jgVc9y4snu47roHOSBA7u)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Creation](https://open.spotify.com/track/3wTo5rcassS8R6L1EzKSCF) | [Wishard](https://open.spotify.com/artist/6yHjaHwGhawtwP93NcKs81) | [Creation](https://open.spotify.com/album/7Dv1BGiYX6n1zGjK8DmZ5j) | 2:00 | 2021-11-10 |  |
 | [Creative Waves](https://open.spotify.com/track/3sWTzfo52MU2OXp0MkOsDn) | [Art of November](https://open.spotify.com/artist/1jLcY4U2jXPcyzUg6FANBq) | [Creative Waves](https://open.spotify.com/album/6vRILbTFu1ArfbdVdrRzDB) | 3:16 | 2022-05-20 |  |
 | [crispy snacks](https://open.spotify.com/track/7lYOXFgCFNd5rvBkU2LZQZ) | [cudlz](https://open.spotify.com/artist/4heHOS8ybxsPh3TBtw9gf0) | [crispy snacks](https://open.spotify.com/album/4nvHX1HwzfGFXQxSXVeGMA) | 2:21 | 2021-11-10 | 2022-07-22 |
+| [Croix Coast](https://open.spotify.com/track/0jcpgo5z47py0nTtl77Hi5) | [Bluet](https://open.spotify.com/artist/5embwI2sWarwmiyd82DNtI) | [Croix Coast](https://open.spotify.com/album/6gRyaztUc8C29WRQ4kWwuA) | 3:11 | 2022-09-16 |  |
 | [Crystal Clear Water](https://open.spotify.com/track/1BMd4TcCW38UQnBePJXNoY) | [Dennis Duzhmer](https://open.spotify.com/artist/6RA3xcEXEOH5i5EW8hC7cv) | [Crystal Clear Water](https://open.spotify.com/album/6GrpYe9yKzBVXAsnQbewUt) | 2:07 | 2021-11-10 | 2022-01-22 |
 | [Crystal Cove](https://open.spotify.com/track/0yYIIB8T7xqEEzU9OaiBoy) | [Amoni](https://open.spotify.com/artist/4Z0C1HBoGZVlJenbBxwZK0) | [Crystal Cove](https://open.spotify.com/album/2LAjL7RIenYm4LzBRggBI6) | 2:36 | 2021-11-10 | 2022-05-14 |
 | [Dazzle](https://open.spotify.com/track/7wivunAmLKAfZ9j2fQrt31) | [dreem](https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG) | [Radiance](https://open.spotify.com/album/3bU4iy7ozrDdFKvxehO0me) | 3:12 | 2021-11-10 | 2022-06-03 |
@@ -146,6 +147,7 @@
 | [Human](https://open.spotify.com/track/1OdyF8TKLozvztgR4Mwy0w) | [Ebende](https://open.spotify.com/artist/0DOiT9J5OrviDfUhBAkJAE) | [Human](https://open.spotify.com/album/5lQJwFSf6G5RTpyCYt5kSW) | 4:13 | 2022-05-20 |  |
 | [hymn](https://open.spotify.com/track/2fstidjX52u0PGrvEf00Ox) | [Da Sacnite](https://open.spotify.com/artist/3qaJDADj8HdXCWcYL7O6g9) | [hymn](https://open.spotify.com/album/6gyrxxudYoLOll7qWRWWHM) | 1:44 | 2021-11-10 |  |
 | [I Am Here With You](https://open.spotify.com/track/1cQCJHU2UkaaUEKqCZjpXT) | [Some Guy I Know](https://open.spotify.com/artist/04PHmOO2YEDLmkcuEM8vzP) | [I Feel Like Flying](https://open.spotify.com/album/5hO3Y5UmKSHnagOsZabvUn) | 1:53 | 2022-04-15 |  |
+| [I Think It Was In June](https://open.spotify.com/track/5ILMxmLYnmIcnjkNbWn3b0) | [1930](https://open.spotify.com/artist/04qLskUo3x0vMixvZxCK78) | [I Think It Was In June](https://open.spotify.com/album/5sMFY17vv0LVna3tHIzgub) | 2:02 | 2022-09-16 |  |
 | [i tried](https://open.spotify.com/track/6W7hFzh8GNeSTljK7qzCsT) | [ELEWAKA](https://open.spotify.com/artist/3bT6shoIAYz5Flwmni0gnq) | [i tried](https://open.spotify.com/album/3WyFAmRvYnIo7c3ZzyL7uo) | 3:12 | 2022-07-29 |  |
 | [Iampredotto don](https://open.spotify.com/track/0gqQB2GBIyprIf4qJYvOHJ) | [SpizyAnice](https://open.spotify.com/artist/2EfobqosVRmphWbrOEIn0Q) | [Iampredotto don](https://open.spotify.com/album/1NDMmgKNdAaPQp7dETbSaK) | 2:30 | 2022-01-21 |  |
 | [Ice Castle](https://open.spotify.com/track/3yrRhxtZO4sxsAkviHFwZd) | [o k h o](https://open.spotify.com/artist/427e5CiqmL4TmWb5Zvax7U) | [Ice Castle](https://open.spotify.com/album/26iomIRqL35QWNpjGTTLDS) | 2:24 | 2021-11-10 | 2022-07-01 |
@@ -215,6 +217,7 @@
 | [Moist](https://open.spotify.com/track/5tksNcpfwHBDXo3xufof0P) | [Blacc Keys](https://open.spotify.com/artist/50GnA7N9EkfJ3PivwXwa8m) | [Moist](https://open.spotify.com/album/4Mn79gFmJ3SEx50s4esIDu) | 2:08 | 2022-07-08 |  |
 | [Molecular Force](https://open.spotify.com/track/15cnM6N7rgjv7mBAHLiG63) | [Blue Cousins](https://open.spotify.com/artist/5xTmsiaHwO4F5BolRtmvCY) | [Molecular Force](https://open.spotify.com/album/4av4XmjYKDALjdQKSTozLZ) | 1:42 | 2021-11-10 | 2022-04-15 |
 | [Montreux](https://open.spotify.com/track/5BCogYGUcjCVn7u6aYarva) | [Desoncote](https://open.spotify.com/artist/5aMtYcDTbmtmG2VeCDq0zi) | [Montreux](https://open.spotify.com/album/6DNfPtbVjz5s4qoOIttveN) | 2:15 | 2021-11-10 | 2022-07-01 |
+| [Moon Rail](https://open.spotify.com/track/6dlj2eOaBGOnSZCR1uj0hK) | [ChillsmokeႿ](https://open.spotify.com/artist/50PNApaaFiGIOQhsposZnn) | [Moon Rail](https://open.spotify.com/album/0in1WOZ5qmJhS5slUKPhPq) | 2:40 | 2022-09-16 |  |
 | [More of this, Please](https://open.spotify.com/track/1rpgqpnLdGtsYl4ySLoH58) | [U\-kata](https://open.spotify.com/artist/2K78Mcf0SeQlIy2QCtjqcn) | [More of this, Please](https://open.spotify.com/album/1Fho1AQFCUj9wQYi7RNt8A) | 4:25 | 2022-08-19 |  |
 | [Morning Dew](https://open.spotify.com/track/7s58sYNKRFrmmg1jrVI4zv) | [Black Phaze](https://open.spotify.com/artist/4Xm7EYlYJm4EqciSxo5emO), [cakofonik](https://open.spotify.com/artist/5QoNyFJzZLKJyQYrEP5cor), [Olivier Abeille](https://open.spotify.com/artist/43d1D4ncfmUYZCkZsxvfEy) | [Morning Dew](https://open.spotify.com/album/0UezO0jwUObQ6dfl0Lk4XT) | 1:54 | 2022-01-21 |  |
 | [Moving Sidewalks](https://open.spotify.com/track/5mU0aCoAfVlxsRRyQyz5v9) | [The Samplers](https://open.spotify.com/artist/1Db3RMEbPReWKVLfsitK40) | [Moving Sidewalks](https://open.spotify.com/album/4w6kOiFn2YqnH22UwL5ivc) | 1:37 | 2022-07-01 |  |
@@ -232,6 +235,7 @@
 | [Ocean Avenue](https://open.spotify.com/track/5Bv8KRYPE7w6S9bZfrUYiz) | [Vanilla Beach](https://open.spotify.com/artist/4gJj9oQfNWsfgwKYeUdlCe), [Ashley Orikami](https://open.spotify.com/artist/3g8971KIYlPDlZWnU5Mlof) | [Ocean Avenue](https://open.spotify.com/album/26MxpI4CnZlMXJoD7IoiGU) | 3:53 | 2021-11-10 | 2022-05-20 |
 | [Ocean Waves](https://open.spotify.com/track/6Z8BFdxpHomsS388wpif8M) | [Ocean Waves](https://open.spotify.com/artist/3iIXOS6cHowvBms5msvdJf) | [Ocean Waves](https://open.spotify.com/album/3gkDYbiHQFES7zAdI2gbpV) | 2:19 | 2022-06-03 |  |
 | [Oceans](https://open.spotify.com/track/3xnwGCg63UVgiS6P412mmN) | [Circle Soda](https://open.spotify.com/artist/3g9nH3mgwpI5wuHkeio1vK) | [Oceans](https://open.spotify.com/album/3mmvw87WMayIVdsfWsqbCY) | 4:05 | 2021-11-10 | 2022-07-08 |
+| [odd mission.](https://open.spotify.com/track/4mX3OJPLl9cZjSgf1NJskT) | [igory](https://open.spotify.com/artist/1TPZvujEmCbb9Yw7QwoTH9) | [ocean view](https://open.spotify.com/album/09qPZN3vWFh7ffSjr2GIZZ) | 2:09 | 2022-09-16 |  |
 | [Only Through Enlightenment](https://open.spotify.com/track/4YK0viVtLMNg58qQs10rF1) | [Spinning Eye](https://open.spotify.com/artist/1bBb8bJslH6Z4JUr2DgaCU) | [Old School Beats](https://open.spotify.com/album/2ImM3in9ITJOxD3euym4tN) | 1:41 | 2022-04-15 |  |
 | [Out Of Nothing](https://open.spotify.com/track/1JT9cRJV8IyQT1aWKV0cxM) | [the beats of...](https://open.spotify.com/artist/6xI7tRm64d9dwDuXrSv1Kr) | [Out Of Nothing](https://open.spotify.com/album/0qieGIV1ehZACjDA04nTST) | 2:58 | 2021-11-10 | 2022-04-15 |
 | [Out Of Nowhere](https://open.spotify.com/track/1X7SwXy7095XlufeAKwAfP) | [robomoque](https://open.spotify.com/artist/2ebmZztT6aXM00u6MEnD5v) | [Out Of Nowhere](https://open.spotify.com/album/2Xda4z1VMnhUT5EUa94m9q) | 2:01 | 2021-11-10 | 2022-01-22 |
@@ -250,6 +254,8 @@
 | [Prayers](https://open.spotify.com/track/3JQxZ1RsHmDp2NYlWFrFWs) | [Cal Credence](https://open.spotify.com/artist/0T64wysQFvIl2GXHa1XRY7) | [Prayers](https://open.spotify.com/album/4xC3jUh93PIE9hcOjFVZ5u) | 3:41 | 2021-11-10 | 2022-02-11 |
 | [Puente Aéreo](https://open.spotify.com/track/6CRnWfWQuBdomKKZELkxtK) | [Senoidal](https://open.spotify.com/artist/6r9s2iVXnrwENfSRUUtxpa) | [Puente Aéreo](https://open.spotify.com/album/66R0udn5QbbdTX6G2z1ODs) | 1:55 | 2022-05-10 | 2022-08-20 |
 | [Pulse](https://open.spotify.com/track/4Wei2xM1ylJMPC8m4gS7jb) | [Kripto](https://open.spotify.com/artist/0VdlvJNWbvKfguCf7tdgop) | [Pulse](https://open.spotify.com/album/0qw2Z5e22Ncizew1ilSAX9) | 2:06 | 2021-11-10 | 2022-07-08 |
+| [pulse rusher](https://open.spotify.com/track/5Ne7dzH1rPr07xZ9fR0u8n) | [stil de grain](https://open.spotify.com/artist/7MtqDjgMm4TTIYrsEVLeqZ) | [pulse rusher](https://open.spotify.com/album/3S3Py6qJTUToP1RbKmGXsc) | 2:29 | 2022-09-16 |  |
+| [Purity](https://open.spotify.com/track/4Tb8x8lYQsKzXHsC71Xm20) | [Xack](https://open.spotify.com/artist/3Tg2AlVypH64iuYosDtyHj) | [Purity](https://open.spotify.com/album/7MqAJ6JKmdhqgb5TZyNK5u) | 3:45 | 2022-09-16 |  |
 | [Purple Beach](https://open.spotify.com/track/3zxGVoaYUMzKTVqLYBwUt9) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [Purple Beach](https://open.spotify.com/album/3enWSoGm1E6TXXbcPsvsh6) | 3:51 | 2022-05-10 | 2022-08-20 |
 | [Purrple Moon](https://open.spotify.com/track/6MwmKaO7GP7S4lvBVih5ed) | [Pearldiver](https://open.spotify.com/artist/4e9BBDC8gDwj2WVADiqyVQ) | [Purple Moon](https://open.spotify.com/album/2QOvtEbjkx6Lr0jLNS2rAn) | 1:56 | 2022-09-02 |  |
 | [Quest](https://open.spotify.com/track/5sf0Xc3p18BDmu3oGDqyoP) | [Wishard](https://open.spotify.com/artist/6yHjaHwGhawtwP93NcKs81) | [Quest](https://open.spotify.com/album/4VTCHFe7m7mgFfMnXxtkTX) | 2:37 | 2021-11-10 |  |
@@ -275,6 +281,7 @@
 | [Rosenwinkle](https://open.spotify.com/track/2rO7QbPdO9mNOA75fg9CNy) | [Chill Bakery](https://open.spotify.com/artist/1BGXk4Rmi8LYtLm5aWV6AT) | [Rosenwinkle](https://open.spotify.com/album/5Rhy8gzvspiTr2TuNvXPUI) | 3:04 | 2022-01-21 |  |
 | [Roses are Pink](https://open.spotify.com/track/1Q1cgTXvpnwQ8Kd3jb0gMC) | [Royal 63](https://open.spotify.com/artist/3uacTioaRYR9HiighlkFqJ) | [Roses are Pink](https://open.spotify.com/album/1T4fZKskN0Pigykr6opSkA) | 2:27 | 2022-09-02 |  |
 | [Row](https://open.spotify.com/track/1DUOaKbG2qAbRYgOlQMBah) | [Elton Baptiste](https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS) | [Row](https://open.spotify.com/album/7zeALtA6XRlLZQIlFapcDO) | 1:49 | 2022-02-10 |  |
+| [Rue Joanès](https://open.spotify.com/track/2XKfAl37vACwwrdATKAkE7) | [Mindscape](https://open.spotify.com/artist/53cpLThSPfsGFP7J1B3NL6) | [Rue Joanès](https://open.spotify.com/album/3FIa8WmpzO8Qw3z35WpZZ5) | 2:27 | 2022-09-16 |  |
 | [Sadness in your eyes](https://open.spotify.com/track/5SONQFGFvhmjpfP2O2QEmO) | [vort vort](https://open.spotify.com/artist/46mWoMwui62bv2s52HiSO8) | [Lo\-Fi Mystery](https://open.spotify.com/album/0OjDjwweT8a6TxBli4lXjR) | 1:57 | 2022-04-15 |  |
 | [Saeti](https://open.spotify.com/track/33pQ0Ab4hb0gZIuFmxstQS) | [Sebastián Escofet](https://open.spotify.com/artist/4YufEYOotwxOrZxtzdPgS3) | [Saeti](https://open.spotify.com/album/1W9hJSSrJcaknCU4DFkico) | 2:06 | 2021-11-10 |  |
 | [Satellit](https://open.spotify.com/track/1cMQgz4TXYfWT3aTDDNpR1) | [Åström](https://open.spotify.com/artist/6yRr5aXym7ilgJIX8wciFC) | [Satellit](https://open.spotify.com/album/2Nx5o71yeqes2Q722XOsjN) | 2:09 | 2021-11-10 | 2022-05-20 |
@@ -301,6 +308,7 @@
 | [smet](https://open.spotify.com/track/7EW0u8DM1elNsehpykrhcu) | [ding m](https://open.spotify.com/artist/3YpyfRGmyOjU5Sdx6xMwBn) | [smet](https://open.spotify.com/album/5f8UFfSgkJ6PN8ClaqnNvb) | 2:32 | 2021-11-10 | 2022-07-01 |
 | [Smooth Mind](https://open.spotify.com/track/3l0bF4yF0PyovHRFcWN7He) | [Safe Tock](https://open.spotify.com/artist/2Wz1Gs5fSAP2v31hzx113t) | [Smooth Mind](https://open.spotify.com/album/5uQibIak3bvGti5AEvePm5) | 2:58 | 2021-11-10 | 2022-07-08 |
 | [So Be It](https://open.spotify.com/track/0W0nUfbrPMHfjx2W1rtmQR) | [Mr Muddy](https://open.spotify.com/artist/2SE4xWBKS86MFe82bCqBgE) | [So Be It](https://open.spotify.com/album/4hVT7AuO0urPieBLyJiZ9y) | 2:40 | 2021-11-10 | 2022-05-11 |
+| [soft bay](https://open.spotify.com/track/04efmW6Lew9Gtx5Ob1kiwL) | [Cosmic Citrine](https://open.spotify.com/artist/3v9QBUh3xv6Nmh8fc7BGox) | [soft bay](https://open.spotify.com/album/5O3Ki1xAAGOh3mTaXhJFxr) | 2:54 | 2022-09-16 |  |
 | [solid](https://open.spotify.com/track/3RA7YvkiNGn00EPpTaJlOI) | [Chalk Gang](https://open.spotify.com/artist/7nKTvkyNv3iatiJ0A4lBr7) | [solid](https://open.spotify.com/album/3kPyEu3buiPL6B26xv8TjO) | 3:03 | 2022-05-10 | 2022-07-01 |
 | [Solitude](https://open.spotify.com/track/6RFLSE0NrQcqI6VePKbTV2) | [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe) | [Below Zero](https://open.spotify.com/album/7m7LousVX8BnbNtuVJjg07) | 2:40 | 2022-05-10 | 2022-07-08 |
 | [Solo](https://open.spotify.com/track/5BRzc91LVmsK6ol09JRG0h) | [Isaac DePersig](https://open.spotify.com/artist/15j4fRWm7gaHJMbO3D3tC7) | [Solo](https://open.spotify.com/album/7igEvrgGJBDMs6xAd4TosI) | 2:43 | 2021-11-10 | 2022-05-20 |
@@ -335,6 +343,7 @@
 | [The Kings Horses](https://open.spotify.com/track/2rbIqTAqj2NF8XfmRwTDnb) | [Izzy Cook](https://open.spotify.com/artist/5ciUW6dsaE0fWHtsV2nMYs) | [The Kings Horses](https://open.spotify.com/album/0X1dgdy4QN8EwRqVmtwhRh) | 2:37 | 2021-11-10 | 2022-05-11 |
 | [The Overjoyed](https://open.spotify.com/track/2uLmM7PTshDOdjjfzVqm8u) | [Lovetime Rhapsody](https://open.spotify.com/artist/1khPvt8OPAxBnQTIZ0kHJi) | [Famous](https://open.spotify.com/album/56AG1YCUB35Mbe8rqJV2iH) | 2:48 | 2022-06-10 | 2022-07-01 |
 | [The Refined Man](https://open.spotify.com/track/5UuUrMvPPVfYMTG349zKfs) | [dogphase](https://open.spotify.com/artist/2PhI5ndGzuBaGWTPadjj4g) | [Wanderlust](https://open.spotify.com/album/0K7VVnjrbKfCFHw2FnjIjs) | 2:16 | 2021-11-10 | 2022-07-29 |
+| [The Simplest Things](https://open.spotify.com/track/3Ze6UW8ab1IpF7W7BieBgC) | [Ambient Solle](https://open.spotify.com/artist/34ScNK2ccDxZim8TVcqWXT) | [The Simplest Things](https://open.spotify.com/album/4aSBkBh9c126FxY1EHvgT9) | 3:06 | 2022-09-16 |  |
 | [the state of groove](https://open.spotify.com/track/7MwxJqKGa0Lk5yIRgqRPXg) | [bonecatcher](https://open.spotify.com/artist/4w8UEShgdyDVYlKAAFfNNW) | [the state of groove](https://open.spotify.com/album/0iULvFHTqopiDgIgzY181i) | 1:45 | 2021-11-10 | 2022-04-15 |
 | [The Yellow Taxi](https://open.spotify.com/track/2t7CtXjvm9a4tVl8rj6O05) | [Tethered Ghosts](https://open.spotify.com/artist/4tMeBDw2jUzYYCxx4MqlVM) | [Left on Read](https://open.spotify.com/album/0p3KQ3yiMRA82ueeUAdcIq) | 2:44 | 2022-01-21 | 2022-08-20 |
 | [Thinkin' About Me](https://open.spotify.com/track/5wKVYtnhyqZfCGv0iqUGwW) | [Fulton St Brunch Club](https://open.spotify.com/artist/1grsC7ugHHrEGvwQI4o0OT) | [Fulton St Brunch Club](https://open.spotify.com/album/6MXluQZL5j8X5IBv8bj24Z) | 2:37 | 2022-05-10 | 2022-07-01 |

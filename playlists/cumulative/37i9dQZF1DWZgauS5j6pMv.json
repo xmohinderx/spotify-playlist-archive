@@ -516,6 +516,32 @@
     },
     {
       "album": {
+        "name": "Breakthrough",
+        "url": "https://open.spotify.com/album/7vLtnkheg9udjZyXGYeZAx"
+      },
+      "artists": [
+        {
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+        },
+        {
+          "name": "SIRUP",
+          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
+        },
+        {
+          "name": "Shin Sakiura",
+          "url": "https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "BREAKTHROUGH",
+      "url": "https://open.spotify.com/track/3bfn8rA63B8QbqJjES4s4M"
+    },
+    {
+      "album": {
         "name": "BURN YOU OUT",
         "url": "https://open.spotify.com/album/72Om2D1HRrWEfVqgqsRJU4"
       },
@@ -1945,7 +1971,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 163066,
       "name": "I Found You (feat. Benjamin Ingrosso) - Dimitri From Paris Remix",
       "url": "https://open.spotify.com/track/08Cws0E0tiHfm18dQINYvZ"
@@ -2957,7 +2983,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 210500,
       "name": "Pick Up",
       "url": "https://open.spotify.com/track/40zIrmsbbjNBLm8s2bCUx3"
@@ -3677,6 +3703,24 @@
       "duration_ms": 185293,
       "name": "Trust Me",
       "url": "https://open.spotify.com/track/07o395Wrt3pGfyh7ZWFrCz"
+    },
+    {
+      "album": {
+        "name": "Turn Me Around",
+        "url": "https://open.spotify.com/album/0Ts3tXNheajRfq7vOFzivD"
+      },
+      "artists": [
+        {
+          "name": "STR4TA",
+          "url": "https://open.spotify.com/artist/5HintvHxi0uDBgNaRKWZOt"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315939,
+      "name": "Turn Me Around",
+      "url": "https://open.spotify.com/track/71lKKdPXCH32BawD9OkuwQ"
     },
     {
       "album": {

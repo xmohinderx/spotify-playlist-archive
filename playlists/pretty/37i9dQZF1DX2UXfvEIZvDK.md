@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UXfvEIZvDK.md) - [plain]
 
 > Rock to relax\. Enjoy!
 
-[Spotify](https://open.spotify.com/user/spotify) - 585,108 likes - 60 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 585,263 likes - 60 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UXfvEIZvDK.md) - [plain]
 | 49 | [Make It Wit Chu](https://open.spotify.com/track/0Cgd3CK6D2hhbwmLRvtscH) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Era Vulgaris](https://open.spotify.com/album/64SL0QEXxulD2QgwJmJbUL) | 4:50 |
 | 50 | [Northern Downpour](https://open.spotify.com/track/49SL9f1Kz73p0bzsNPTY4l) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pretty\. Odd.](https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw) | 4:07 |
 | 51 | [Hey Julie](https://open.spotify.com/track/2LGAbm0xHNu7scBDVCkFwN) | [Fountains Of Wayne](https://open.spotify.com/artist/1pgtr4nhBQjp9oCUBPyYWh) | [Welcome Interstate Managers](https://open.spotify.com/album/6TZp52tXShLQbq8yNMxqNT) | 2:36 |
-| 52 | [Conversation Piece](https://open.spotify.com/track/6qV3OEpN6uFCZnzNSslbn1) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [WALLS](https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm) | 4:59 |
-| 53 | [Way down We Go \- Stripped](https://open.spotify.com/track/1YA7YUyrxgSzf7IQDX1xcl) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Way down We Go \(Stripped\)](https://open.spotify.com/album/7n2OEdfF8dac71VQEekeP0) | 3:28 |
+| 52 | [Way down We Go \- Stripped](https://open.spotify.com/track/1YA7YUyrxgSzf7IQDX1xcl) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Way down We Go \(Stripped\)](https://open.spotify.com/album/7n2OEdfF8dac71VQEekeP0) | 3:28 |
+| 53 | [Conversation Piece](https://open.spotify.com/track/6qV3OEpN6uFCZnzNSslbn1) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [WALLS](https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm) | 4:59 |
 | 54 | [Everything We Need](https://open.spotify.com/track/5oKBOiiJceLlAEQ4VaVe8p) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Everything We Need](https://open.spotify.com/album/45iFc2ouMdWTuxImSsjaJF) | 3:05 |
 | 55 | [Fly Like an Eagle](https://open.spotify.com/track/0SiS1Iud2fNazdtccUxE7m) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Fly Like an Eagle](https://open.spotify.com/album/3YJD5f1gXAZo08syETdfmq) | 4:32 |
 | 56 | [Chasing Birds](https://open.spotify.com/track/2jKnUcyrCADkeSy6gcN1qa) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Medicine At Midnight](https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc) | 4:12 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UXfvEIZvDK.md) - [plain]
 | 59 | [Two People](https://open.spotify.com/track/0htjtrOVbQpWoDYYwPIrWY) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Hypersonic Missiles](https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m) | 3:56 |
 | 60 | [If I Get High](https://open.spotify.com/track/15I2gq8Nill5zwxabTFD6f) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Nothing But Thieves \(Track by Track\)](https://open.spotify.com/album/0vBxqUHwetFn5jCwAKX7Uk) | 3:26 |
 
-Snapshot ID: `MTY1NTQxNjkyMCwwMDAwMDAwMGM4OTFjNjkzMzEwNmVmNmI2MGY0N2RlMTBjNzYxNjM0`
+Snapshot ID: `MTY1NTQxNjkyMCwwMDAwMDAwMDJiNjIwY2NkNzhhNTcxMzNjNGYxMmFkMjk3MGZlYWZh`

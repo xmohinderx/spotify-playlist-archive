@@ -4,7 +4,7 @@
 
 > The most interesting tracks in the current world of pop music.
 
-593 songs - 1 day 6 hr 25 min - [published](https://open.spotify.com/playlist/69q7Enb8pVVf5rCvGWee3I)
+594 songs - 1 day 6 hr 30 min - [published](https://open.spotify.com/playlist/69q7Enb8pVVf5rCvGWee3I)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,6 +276,7 @@
 | [I Want Love](https://open.spotify.com/track/4DqXhYryASlQ2W6IAZF8Un) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [I Want Love](https://open.spotify.com/album/0UoYRs1WP7625dmeOsY3Zn) | 3:17 | 2022-03-24 | 2022-04-19 |
 | [I Wish \(feat\. Mabel\)](https://open.spotify.com/track/0YORgvqP1MotwCnDZzOwII) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [I Wish \(feat\. Mabel\)](https://open.spotify.com/album/1gklzdwNQPtt0Z7SwgR1vH) | 3:01 | 2022-03-24 | 2022-04-11 |
 | [I'm Good \(Blue\)](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3) | 2:55 | 2022-08-25 |  |
+| [I'm In Love With You](https://open.spotify.com/track/0uBdQzKghx88d2Lp8SLFKJ) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I'm In Love With You](https://open.spotify.com/album/3TI3FFFz3hKQfsL0izZ8JS) | 4:22 | 2022-09-15 |  |
 | [I'm Tired \- From "Euphoria" An Original HBO Series](https://open.spotify.com/track/2QH0jR41d11GTubjRSRdJo) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Yeh I Fuckin' Did It / I'm Tired \(From "Euphoria" An Original HBO Series\)](https://open.spotify.com/album/48kRTccY4Ii9qyoT6fxRVh) | 2:37 | 2022-03-24 | 2022-04-01 |
 | [IDGAF \(with blackbear\)](https://open.spotify.com/track/6Jrdb6CFOJEGaHjaa6c4WR) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [IDGAF](https://open.spotify.com/album/3XEOlBcb076IIUTSr98AMu) | 2:20 | 2022-03-24 | 2022-04-15 |
 | [If I Didn't Have You](https://open.spotify.com/track/7Etf7VJoXNJlO4oMJRUDlT) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [If I Didn't Have You](https://open.spotify.com/album/0hAjEsCTpZDTEO6303SEla) | 3:45 | 2022-01-06 | 2022-01-11 |
@@ -442,7 +443,7 @@
 | [Record Player \(with AJR\)](https://open.spotify.com/track/4jYt1pQqg2mIZmY4FWCZEM) | [Daisy the Great](https://open.spotify.com/artist/0SrIPejckovMwhrN3MZFPB), [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [Record Player \(with AJR\)](https://open.spotify.com/album/0zs9o2NkQxcRTlGlcOteP5) | 2:29 | 2022-03-24 | 2022-04-08 |
 | [Red Eye \(feat\. TroyBoi\)](https://open.spotify.com/track/24OeEKPQ8qqNZnPevRHxUT) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [Justice \(The Complete Edition\)](https://open.spotify.com/album/3uPnO1aZBwMgWK1DI5zve9) | 3:07 | 2021-12-16 | 2022-07-11 |
 | [Remedy](https://open.spotify.com/track/5JVA0t7r2Y7m9NaHmgaeiC) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Remedy](https://open.spotify.com/album/4nKguZWie1WQuxFspIwHOY) | 2:27 | 2022-03-24 | 2022-04-20 |
-| [Remember](https://open.spotify.com/track/4laAKIq9ZxBCwf99rauPYb) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Remember](https://open.spotify.com/album/6DHfD3rZapWFmEKX1FNNZF) | 2:40 | 2022-03-24 |  |
+| [Remember](https://open.spotify.com/track/4laAKIq9ZxBCwf99rauPYb) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Remember](https://open.spotify.com/album/6DHfD3rZapWFmEKX1FNNZF) | 2:40 | 2022-03-24 | 2022-09-17 |
 | [Remember \- Acoustic](https://open.spotify.com/track/5aXfGM7WVcqyAvqnL7k0y3) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Remember \(Acoustic\)](https://open.spotify.com/album/6tMWod3p4ojBLD8g2KzhtM) | 2:58 | 2022-04-14 | 2022-04-17 |
 | [Remember That Night?](https://open.spotify.com/track/1nYzjrdVQ8RpF93M0jPFW7) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Remember That Night?](https://open.spotify.com/album/239r63fqY8PyWX9WcgwNzP) | 3:47 | 2021-12-16 | 2022-07-20 |
 | [Remember This](https://open.spotify.com/track/6nACZEZIt1CIBmF09r5Pb5) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Remember This](https://open.spotify.com/album/5sIvIsXTXfwoMEBVk1xCqm) | 2:58 | 2021-12-16 | 2022-04-12 |

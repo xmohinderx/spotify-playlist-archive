@@ -14136,6 +14136,28 @@
     },
     {
       "album": {
+        "name": "In Mind",
+        "url": "https://open.spotify.com/album/486byo9bJVlyeDuDYmGFcO"
+      },
+      "artists": [
+        {
+          "name": "Jxxiii",
+          "url": "https://open.spotify.com/artist/113kBSC3YgWt3UurDPS5oY"
+        },
+        {
+          "name": "S777",
+          "url": "https://open.spotify.com/artist/5bszpFR3JiegMCAgSyXtOH"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136445,
+      "name": "In Mind",
+      "url": "https://open.spotify.com/track/7JteYveBhNs4qGQpDH1i99"
+    },
+    {
+      "album": {
         "name": "First Step",
         "url": "https://open.spotify.com/album/33rpvpKbxMQvdJXIslaVkp"
       },
@@ -14275,6 +14297,28 @@
       "duration_ms": 291039,
       "name": "In Your Head",
       "url": "https://open.spotify.com/track/1uAN0osR1nGVefLLMhoiwA"
+    },
+    {
+      "album": {
+        "name": "Insane",
+        "url": "https://open.spotify.com/album/2tbc41gI2eMktaqBYzpzGV"
+      },
+      "artists": [
+        {
+          "name": "Pherris",
+          "url": "https://open.spotify.com/artist/7BMxEbTyuQcM3UWaWBvfN7"
+        },
+        {
+          "name": "Justy",
+          "url": "https://open.spotify.com/artist/2upp4AIQDeplGEXTv4LGXv"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149538,
+      "name": "Insane",
+      "url": "https://open.spotify.com/track/4Sfd9ejOFnEvnh11IdkY4f"
     },
     {
       "album": {
@@ -17442,24 +17486,6 @@
     },
     {
       "album": {
-        "name": "M.Y.M.",
-        "url": "https://open.spotify.com/album/3Tccb3fdj1hckLvHG9iYCA"
-      },
-      "artists": [
-        {
-          "name": "Trilla da Vinci",
-          "url": "https://open.spotify.com/artist/0ot3tViQujUGlIKjd31NQU"
-        }
-      ],
-      "date_added": "2022-09-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 173052,
-      "name": "M.Y.M.",
-      "url": "https://open.spotify.com/track/0pbq8UdSJYBMVhTQPsM1CR"
-    },
-    {
-      "album": {
         "name": "The Album",
         "url": "https://open.spotify.com/album/11QKDc8OK4rnD3uBs7wKmR"
       },
@@ -19305,6 +19331,24 @@
       "duration_ms": 280466,
       "name": "My Sweet Lord",
       "url": "https://open.spotify.com/track/6u9pmFX8oAmaUyQ6k8gEkw"
+    },
+    {
+      "album": {
+        "name": "MYM",
+        "url": "https://open.spotify.com/album/3Tccb3fdj1hckLvHG9iYCA"
+      },
+      "artists": [
+        {
+          "name": "Trilla da Vinci",
+          "url": "https://open.spotify.com/artist/0ot3tViQujUGlIKjd31NQU"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173052,
+      "name": "MYM",
+      "url": "https://open.spotify.com/track/0pbq8UdSJYBMVhTQPsM1CR"
     },
     {
       "album": {
@@ -23730,6 +23774,24 @@
     },
     {
       "album": {
+        "name": "Salty Crush",
+        "url": "https://open.spotify.com/album/0fLDQTCAyK7CByF9V95Z6v"
+      },
+      "artists": [
+        {
+          "name": "Jet Vesper",
+          "url": "https://open.spotify.com/artist/7dDrxUbMYVOPZ81c5ofzb2"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185770,
+      "name": "Salty Crush",
+      "url": "https://open.spotify.com/track/2S5epseQ2G6beM33fvNgrU"
+    },
+    {
+      "album": {
         "name": "Salty, Sweet, and Bitter Rain",
         "url": "https://open.spotify.com/album/49RKnHDmzxfY1sweDAmQD4"
       },
@@ -24919,7 +24981,7 @@
       },
       "artists": [
         {
-          "name": "WizKid",
+          "name": "Wizkid",
           "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         },
         {
@@ -25283,7 +25345,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 213333,
       "name": "Something New",
       "url": "https://open.spotify.com/track/3XTvUMiBWAF3ydoaikW4D6"

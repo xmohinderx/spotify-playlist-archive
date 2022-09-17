@@ -4,7 +4,7 @@
 
 > the songs that we care about rn! Cover: Nessa Barrett
 
-438 songs - 22 hr 34 min - [published](https://open.spotify.com/playlist/39O9POiBLV6pa1bW5ngppg)
+441 songs - 22 hr 43 min - [published](https://open.spotify.com/playlist/39O9POiBLV6pa1bW5ngppg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Fingers Crossed](https://open.spotify.com/track/5S9Zs5g9lTWnLIboN1pdlU) | [Lauren Spencer\-Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Fingers Crossed](https://open.spotify.com/album/1UPlwdM0JYNwlDcKbeXrKZ) | 2:55 | 2022-01-06 | 2022-03-26 |
 | [First Class](https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [First Class](https://open.spotify.com/album/4uVXrwE4aSV2L2aqAHSOXa) | 2:53 | 2022-04-12 | 2022-06-25 |
 | [Flowers](https://open.spotify.com/track/6Z165JvPnS8PYvGW8oLGLc) | [Lauren Spencer\-Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Flowers](https://open.spotify.com/album/03sQVTmOjeFVi8GsSaJSNV) | 2:37 | 2022-04-15 | 2022-07-04 |
+| [fmk \(with blackbear\)](https://open.spotify.com/track/1hhMX7QQIhBsXjFmTK7owB) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [fmk \(with blackbear\)](https://open.spotify.com/album/2JATwGH1Izmuu47IcnfzSO) | 3:09 | 2022-09-16 |  |
 | [Formula](https://open.spotify.com/track/6EtKlIQmGPB9SX8UjDJG5s) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Euphoria \(Original Score from the HBO Series\)](https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea) | 1:31 | 2022-01-14 | 2022-05-28 |
 | [Freaks](https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Freaks](https://open.spotify.com/album/5WjaIWthUR3AjA0UYG3jR5) | 2:27 | 2021-07-09 | 2022-04-15 |
 | [Frozen](https://open.spotify.com/track/6lknMmJZALXxx7emwwZWLX) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Sickick](https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS) | [Frozen](https://open.spotify.com/album/2GAIUdfLIFtxDty42RowjE) | 2:00 | 2021-12-03 | 2022-05-07 |
@@ -298,6 +299,7 @@
 | [NOT AGAIN](https://open.spotify.com/track/6HXvariUkMlkUgg9qzLTc2) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [NOT AGAIN](https://open.spotify.com/album/5PYdawNgLyNhuJ3pp7xrvQ) | 3:36 | 2022-05-27 | 2022-06-18 |
 | [Not Into You](https://open.spotify.com/track/1eFYbcVZBTKcE0iFIYU5qk) | [Brooksie](https://open.spotify.com/artist/597h7tVXuB7UPU6uWKhRkO) | [Not Into You](https://open.spotify.com/album/5JG9GZ1BSc223HhQAAHbCX) | 2:37 | 2022-03-18 | 2022-05-28 |
 | [not my job anymore](https://open.spotify.com/track/4i7mcbkECX4kqRvfjbBGQz) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [not my job anymore](https://open.spotify.com/album/4q2D6dkCSdkkTQ8Jqvh6VI) | 3:08 | 2022-07-18 |  |
+| [Nothing Lasts Forever](https://open.spotify.com/track/6IzTSuvoY6w3QAhCfN1Sgb) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Nothing Lasts Forever](https://open.spotify.com/album/0eeLFV76Mnl91MEXf893YQ) | 2:47 | 2022-09-16 |  |
 | [Notion](https://open.spotify.com/track/4cHKd6qPMR1TMx55KHlida) | [The Rare Occasions](https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt) | [Futureproof](https://open.spotify.com/album/3SmiRZtLKHDHk5bmLpOvtg) | 3:15 | 2022-02-04 | 2022-07-01 |
 | [Numb Little Bug](https://open.spotify.com/track/3o9kpgkIcffx0iSwxhuNI2) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Numb Little Bug](https://open.spotify.com/album/20zaiRxxUfDqdCKsdSo7HM) | 2:49 | 2022-01-28 | 2022-05-10 |
 | [One Kiss \(with Dua Lipa\)](https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [One Kiss \(with Dua Lipa\)](https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581) | 3:34 | 2022-06-03 |  |
@@ -309,7 +311,7 @@
 | [People You Know](https://open.spotify.com/track/63mdJr3NMY3wReOkNE6c6W) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare](https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx) | 3:14 | 2022-09-15 |  |
 | [Peter Pan Was Right](https://open.spotify.com/track/2At18rPHOuTEjGEppwGV0A) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Peter Pan Was Right](https://open.spotify.com/album/7qrZu53xdYZvbCrLpoA92t) | 3:12 | 2022-05-01 | 2022-09-15 |
 | [Pink Rover](https://open.spotify.com/track/5oqVAub4vyUVoxHXZSP7LR) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Pink Rover](https://open.spotify.com/album/6S0LmXm7aFz2dfDJVN1WXq) | 1:58 | 2022-03-18 | 2022-04-23 |
-| [Pink Venom](https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Pink Venom](https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1) | 3:06 | 2022-08-19 |  |
+| [Pink Venom](https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Pink Venom](https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1) | 3:06 | 2022-08-19 | 2022-09-17 |
 | [Polaroid Love](https://open.spotify.com/track/5elW2CKSoqjYoJ32AGDxf1) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : ANSWER](https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5) | 3:04 | 2022-02-18 | 2022-03-18 |
 | [Pope Is a Rockstar](https://open.spotify.com/track/0So2sgVa8aJiARPl2P29u2) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [SALES LP](https://open.spotify.com/album/7ywSMs3G2OWOGVKMqc7KsE) | 3:07 | 2021-12-17 | 2022-02-26 |
 | [Post Party Trauma](https://open.spotify.com/track/1tgAuknhoJhAtNFeXf0AZu) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [Post Party Trauma](https://open.spotify.com/album/6vy8LmzdyUO6r0DmqCXutl) | 3:11 | 2022-07-08 | 2022-08-20 |
@@ -338,6 +340,7 @@
 | [Shadow Of Mine](https://open.spotify.com/track/0uth6JMSGzbmREU9esuWX5) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Shadow Of Mine](https://open.spotify.com/album/1WOXEZWW81y830KHdqOdVG) | 2:45 | 2022-02-25 | 2022-03-18 |
 | [she's all i wanna be](https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [she's all i wanna be](https://open.spotify.com/album/51oWPUjnGhecw62V8LDXK8) | 3:26 | 2022-02-04 | 2022-05-28 |
 | [Show & Tell](https://open.spotify.com/track/7po7c8LzxTZ0ybU41qT5gD) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [K\-12](https://open.spotify.com/album/1KerGJUScYGffP3Mjmjz8c) | 3:35 | 2022-02-04 | 2022-02-26 |
+| [Shut Down](https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 2:55 | 2022-09-16 |  |
 | [Shut up My Moms Calling](https://open.spotify.com/track/3hxIUxnT27p5WcmjGUXNwx) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [Shut up My Moms Calling](https://open.spotify.com/album/4qVzNqB4cskFInYfrC7P0S) | 2:44 | 2022-09-07 |  |
 | [Skeletons \(Lexi Needed a Break\)](https://open.spotify.com/track/2E8PpcxzMRAv2YdqRxg0jR) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [EUPHORIA SEASON 2 OFFICIAL SCORE \(FROM THE HBO ORIGINAL SERIES\)](https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1) | 2:22 | 2022-04-22 | 2022-06-17 |
 | [Smells Like Me](https://open.spotify.com/track/6LXIhiXK8z1KLd3giR904b) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Smells Like Me](https://open.spotify.com/album/3XvDbxerzYjQZRc6JfF9jY) | 3:24 | 2022-09-02 |  |

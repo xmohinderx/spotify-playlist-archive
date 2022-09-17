@@ -178,6 +178,24 @@
     },
     {
       "album": {
+        "name": "August",
+        "url": "https://open.spotify.com/album/6jMFeJN63salxChERxBq2z"
+      },
+      "artists": [
+        {
+          "name": "Quruli",
+          "url": "https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232100,
+      "name": "August",
+      "url": "https://open.spotify.com/track/2iORIDxw0qWn5ezfmG4Crv"
+    },
+    {
+      "album": {
         "name": "AVALANCHE",
         "url": "https://open.spotify.com/album/1rQTIzd2E969GJjCIv3sGR"
       },
@@ -4715,7 +4733,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 232100,
       "name": "\u516b\u6708\u306f\u50d5\u306e\u540d\u524d",
       "url": "https://open.spotify.com/track/5S57CHTpUpaceN58EP3Mn7"

@@ -1,12 +1,12 @@
 {
   "description": "No tags, no labels - just free form. Cover: Miles From Kinshasa",
-  "num_followers": 125172,
+  "num_followers": 125257,
   "original_name": "Free Form",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTE2NjM3MiwwMDAwMDAwMGQ0NDJmNmU1NTdkOGM5MGRmNGE3MDk0MjM1OTczZTYy",
+  "snapshot_id": "MTY2MTE2NjM3MiwwMDAwMDAwMDFlNGYwMDM0ZTgzM2I3YWFkYWI1MDQ2Y2I3MjU2MzEz",
   "tracks": [
     {
       "added_at": "2022-08-22 11:06:12",
@@ -335,6 +335,22 @@
     {
       "added_at": "2022-08-22 11:06:12",
       "album": {
+        "name": "A N N I V E R S A R Y (Deluxe)",
+        "url": "https://open.spotify.com/album/272GPDEjWzJtyZfHDWFXBy"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 188293,
+      "name": "7:00",
+      "url": "https://open.spotify.com/track/7LJZyNjN5U0LdYSBQ9hlLz"
+    },
+    {
+      "added_at": "2022-08-22 11:06:12",
+      "album": {
         "name": "Sometimes I Might Be Introvert",
         "url": "https://open.spotify.com/album/0DBoWQ52XUHtrZQdfAqOVj"
       },
@@ -355,34 +371,18 @@
     {
       "added_at": "2022-08-22 11:06:12",
       "album": {
-        "name": "A N N I V E R S A R Y (Deluxe)",
-        "url": "https://open.spotify.com/album/272GPDEjWzJtyZfHDWFXBy"
+        "name": "Wild West",
+        "url": "https://open.spotify.com/album/0aAVMtHuK9wX1mQozWvdSZ"
       },
       "artists": [
         {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
         }
       ],
-      "duration_ms": 188293,
-      "name": "7:00",
-      "url": "https://open.spotify.com/track/7LJZyNjN5U0LdYSBQ9hlLz"
-    },
-    {
-      "added_at": "2022-08-22 11:06:12",
-      "album": {
-        "name": "Zipcodes",
-        "url": "https://open.spotify.com/album/49OiilOMo4qUuaIpNhc00S"
-      },
-      "artists": [
-        {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
-        }
-      ],
-      "duration_ms": 267173,
-      "name": "Zipcodes",
-      "url": "https://open.spotify.com/track/7klycPYjcy8FSQcIZTAVNy"
+      "duration_ms": 152112,
+      "name": "Hate It Or Luv It",
+      "url": "https://open.spotify.com/track/5CpnjR6DE6X3PFvmKqrw1l"
     },
     {
       "added_at": "2022-08-22 11:06:12",
@@ -403,18 +403,18 @@
     {
       "added_at": "2022-08-22 11:06:12",
       "album": {
-        "name": "Wild West",
-        "url": "https://open.spotify.com/album/0aAVMtHuK9wX1mQozWvdSZ"
+        "name": "Zipcodes",
+        "url": "https://open.spotify.com/album/49OiilOMo4qUuaIpNhc00S"
       },
       "artists": [
         {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
         }
       ],
-      "duration_ms": 152112,
-      "name": "Hate It Or Luv It",
-      "url": "https://open.spotify.com/track/5CpnjR6DE6X3PFvmKqrw1l"
+      "duration_ms": 267173,
+      "name": "Zipcodes",
+      "url": "https://open.spotify.com/track/7klycPYjcy8FSQcIZTAVNy"
     },
     {
       "added_at": "2022-08-22 11:06:12",
@@ -595,22 +595,22 @@
     {
       "added_at": "2022-08-22 11:06:12",
       "album": {
-        "name": "Never Leave",
-        "url": "https://open.spotify.com/album/1uHkmdfOvhr3Jj7mdLIIkp"
+        "name": "Antidote (feat. Adekunle Gold)",
+        "url": "https://open.spotify.com/album/3KQZiAYQg3kXCKPKKNDdbX"
       },
       "artists": [
         {
-          "name": "WSTRN",
-          "url": "https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs"
+          "name": "Nao",
+          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
         },
         {
-          "name": "Lila Ik\u00e9",
-          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
         }
       ],
-      "duration_ms": 196153,
-      "name": "Never Leave",
-      "url": "https://open.spotify.com/track/6d5E28VYwyws9CY00lwxfq"
+      "duration_ms": 202626,
+      "name": "Antidote (feat. Adekunle Gold)",
+      "url": "https://open.spotify.com/track/1ndeyZurGdaWqLh3srX0ia"
     },
     {
       "added_at": "2022-08-22 11:06:12",
@@ -631,22 +631,22 @@
     {
       "added_at": "2022-08-22 11:06:12",
       "album": {
-        "name": "Antidote (feat. Adekunle Gold)",
-        "url": "https://open.spotify.com/album/3KQZiAYQg3kXCKPKKNDdbX"
+        "name": "Never Leave",
+        "url": "https://open.spotify.com/album/1uHkmdfOvhr3Jj7mdLIIkp"
       },
       "artists": [
         {
-          "name": "Nao",
-          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
+          "name": "WSTRN",
+          "url": "https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs"
         },
         {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+          "name": "Lila Ik\u00e9",
+          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
         }
       ],
-      "duration_ms": 202626,
-      "name": "Antidote (feat. Adekunle Gold)",
-      "url": "https://open.spotify.com/track/1ndeyZurGdaWqLh3srX0ia"
+      "duration_ms": 196153,
+      "name": "Never Leave",
+      "url": "https://open.spotify.com/track/6d5E28VYwyws9CY00lwxfq"
     },
     {
       "added_at": "2022-08-22 11:06:12",
@@ -903,22 +903,6 @@
     {
       "added_at": "2022-08-22 11:06:12",
       "album": {
-        "name": "Incient Stepping",
-        "url": "https://open.spotify.com/album/6ibpBLrRUvcEaMX66fvDD4"
-      },
-      "artists": [
-        {
-          "name": "Protoje",
-          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
-        }
-      ],
-      "duration_ms": 229168,
-      "name": "Incient Stepping",
-      "url": "https://open.spotify.com/track/2ZMrQpLGv3H10PeNDEL1UF"
-    },
-    {
-      "added_at": "2022-08-22 11:06:12",
-      "album": {
         "name": "93",
         "url": "https://open.spotify.com/album/03MwMSmZU4Sj1uuxEKDATS"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 166066,
       "name": "93",
       "url": "https://open.spotify.com/track/15sxM45PYiyOKk64nxCvbK"
+    },
+    {
+      "added_at": "2022-08-22 11:06:12",
+      "album": {
+        "name": "Incient Stepping",
+        "url": "https://open.spotify.com/album/6ibpBLrRUvcEaMX66fvDD4"
+      },
+      "artists": [
+        {
+          "name": "Protoje",
+          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+        }
+      ],
+      "duration_ms": 229168,
+      "name": "Incient Stepping",
+      "url": "https://open.spotify.com/track/2ZMrQpLGv3H10PeNDEL1UF"
     },
     {
       "added_at": "2022-08-22 11:06:12",
@@ -1031,26 +1031,6 @@
     {
       "added_at": "2022-08-22 11:06:12",
       "album": {
-        "name": "To The Floor",
-        "url": "https://open.spotify.com/album/1kFVmxdH3QCMjHe5oMBBBp"
-      },
-      "artists": [
-        {
-          "name": "Lil Silva",
-          "url": "https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn"
-        },
-        {
-          "name": "BADBADNOTGOOD",
-          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
-        }
-      ],
-      "duration_ms": 189422,
-      "name": "To The Floor",
-      "url": "https://open.spotify.com/track/7huFrzl3tBNxSr8tp6zyDf"
-    },
-    {
-      "added_at": "2022-08-22 11:06:12",
-      "album": {
         "name": "Spilligion",
         "url": "https://open.spotify.com/album/2L13Kv0sx6GPAHo7QTZLAy"
       },
@@ -1075,6 +1055,26 @@
       "duration_ms": 242099,
       "name": "Oshun (with EARTHGANG & 6LACK feat. Jurdan Bryant)",
       "url": "https://open.spotify.com/track/1ohxmwWvLNWIlt0kUo8kZF"
+    },
+    {
+      "added_at": "2022-08-22 11:06:12",
+      "album": {
+        "name": "To The Floor",
+        "url": "https://open.spotify.com/album/1kFVmxdH3QCMjHe5oMBBBp"
+      },
+      "artists": [
+        {
+          "name": "Lil Silva",
+          "url": "https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn"
+        },
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        }
+      ],
+      "duration_ms": 189422,
+      "name": "To The Floor",
+      "url": "https://open.spotify.com/track/7huFrzl3tBNxSr8tp6zyDf"
     },
     {
       "added_at": "2022-08-22 11:06:12",

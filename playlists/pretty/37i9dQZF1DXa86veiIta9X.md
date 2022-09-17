@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa86veiIta9X.md) - [plain]
 
 > take over the aux cord and scream sing down Broadway
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,405 likes - 105 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,435 likes - 105 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa86veiIta9X.md) - [plain]
 | 68 | [Something Like That](https://open.spotify.com/track/6leiB1fEsTnVCuPiielde5) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [A Place In The Sun](https://open.spotify.com/album/2EkJjknrgd5DeIH2x9HLjD) | 3:03 |
 | 69 | [Good as Hell](https://open.spotify.com/track/3Yh9lZcWyKrK9GjbhuS0hR) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Good as Hell](https://open.spotify.com/album/4CA8GvVF7swZafg0zYh9qq) | 2:39 |
 | 70 | [Higher Love](https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Higher Love](https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE) | 3:48 |
-| 71 | [Sit Still, Look Pretty](https://open.spotify.com/track/0EGuSSpuu9wmHCtvb4PdLO) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Sit Still, Look Pretty](https://open.spotify.com/album/0T8SCja56F4lhZXyOcBTIV) | 3:22 |
+| 71 | [Sit Still, Look Pretty](https://open.spotify.com/track/6ZtiywT2Qm50a1uR0jlY35) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Sit Still, Look Pretty](https://open.spotify.com/album/3NoYyHEGIa8as1c0cisZAt) | 3:27 |
 | 72 | [Crazy In Love \(feat\. Jay\-Z\)](https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Dangerously In Love](https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf) | 3:56 |
 | 73 | [It's A Great Day To Be Alive](https://open.spotify.com/track/3oW6SWwGqiZSPTiAp7ZQoH) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Down The Road I Go](https://open.spotify.com/album/2ewYJg5AuA9bXWrvOs1mtB) | 4:01 |
 | 74 | [The Bones](https://open.spotify.com/track/7yFhA2fUsL2oIMWlw5DaHQ) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf) | 3:17 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa86veiIta9X.md) - [plain]
 | 104 | [Everybody \(Backstreet's Back\) \- Radio Edit](https://open.spotify.com/track/4rTeOSYqwXNz5qPR2DUTFZ) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [This Is The End: Original Motion Picture Soundtrack](https://open.spotify.com/album/1SFKmqhTTEkE3PmSBEMpa3) | 3:44 |
 | 105 | [Girl In A Country Song](https://open.spotify.com/track/1GRiBe0kNCNYpjwCHIyynI) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Start Here](https://open.spotify.com/album/3MpmJPwKgMQ6hkGVlRwOpj) | 3:37 |
 
-Snapshot ID: `MTY1NDUzMzc5OSwwMDAwMDAwMDVhZTkyYzkyZDVhMTQxNDJiYzZiZWE2MmM0NzgxN2Y1`
+Snapshot ID: `MTY1NDUzMzc5OSwwMDAwMDAwMDVhYWYyMDQ5Y2NkYjdjMTQ4OTkxZjQxNGJhMzhjOWIx`

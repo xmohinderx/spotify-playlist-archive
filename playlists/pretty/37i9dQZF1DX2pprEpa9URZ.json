@@ -1,12 +1,12 @@
 {
   "description": "A deep tribal sound, combining electronic elements and organic instrumentation, stemming from the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 641894,
+  "num_followers": 642098,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjczOTIwMCwwMDAwMDAwMDg2MzhmZDdiYWJiYjlkYTJiMGFkODM4ZDQwY2FlZWEz",
+  "snapshot_id": "MTY2MjczOTIwMCwwMDAwMDAwMGUxMTI0YzQ3NjRhMGEyOTkxMzgxYzA0NjI0YWNiNzY3",
   "tracks": [
     {
       "added_at": "2022-09-09 16:00:00",
@@ -151,26 +151,6 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "Drum 'N' Feels",
-        "url": "https://open.spotify.com/album/5t2hYyJ6Rf0lSTTthWW2h8"
-      },
-      "artists": [
-        {
-          "name": "Kleintierschaukel",
-          "url": "https://open.spotify.com/artist/1IaccfV9FzIR8Iax4cZ5Fn"
-        },
-        {
-          "name": "Badau",
-          "url": "https://open.spotify.com/artist/1N1rW3pjM2BnVAeuTTLjSU"
-        }
-      ],
-      "duration_ms": 362411,
-      "name": "Kidz of Tibet",
-      "url": "https://open.spotify.com/track/6bexT12e03xTtGzBgNe0dE"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
         "name": "Aruna Chandra",
         "url": "https://open.spotify.com/album/09jd5geuKV6itKwcvamNEn"
       },
@@ -191,6 +171,26 @@
       "duration_ms": 538000,
       "name": "Aruna Chandra",
       "url": "https://open.spotify.com/track/20qCEmcOcBQC7DS2T70Pz4"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
+        "name": "Drum 'N' Feels",
+        "url": "https://open.spotify.com/album/5t2hYyJ6Rf0lSTTthWW2h8"
+      },
+      "artists": [
+        {
+          "name": "Kleintierschaukel",
+          "url": "https://open.spotify.com/artist/1IaccfV9FzIR8Iax4cZ5Fn"
+        },
+        {
+          "name": "Badau",
+          "url": "https://open.spotify.com/artist/1N1rW3pjM2BnVAeuTTLjSU"
+        }
+      ],
+      "duration_ms": 362411,
+      "name": "Kidz of Tibet",
+      "url": "https://open.spotify.com/track/6bexT12e03xTtGzBgNe0dE"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -223,22 +223,18 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "Milambi",
-        "url": "https://open.spotify.com/album/4D4QOUYRQ98dXcmNHAAS7q"
+        "name": "Amazon",
+        "url": "https://open.spotify.com/album/2c3Jig1ItqfgOFQLwT0b9z"
       },
       "artists": [
         {
-          "name": "Pablo Nouvelle",
-          "url": "https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P"
-        },
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+          "name": "Beyhude",
+          "url": "https://open.spotify.com/artist/65orViGnlMcbptdIGceZzo"
         }
       ],
-      "duration_ms": 193278,
-      "name": "Milambi",
-      "url": "https://open.spotify.com/track/6Bg9rnY8OXQZOG79lCveyu"
+      "duration_ms": 544182,
+      "name": "Amazon",
+      "url": "https://open.spotify.com/track/1shr9FbwrECsQ3i9hJtz5y"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -259,18 +255,22 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "Amazon",
-        "url": "https://open.spotify.com/album/2c3Jig1ItqfgOFQLwT0b9z"
+        "name": "Milambi",
+        "url": "https://open.spotify.com/album/4D4QOUYRQ98dXcmNHAAS7q"
       },
       "artists": [
         {
-          "name": "Beyhude",
-          "url": "https://open.spotify.com/artist/65orViGnlMcbptdIGceZzo"
+          "name": "Pablo Nouvelle",
+          "url": "https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
         }
       ],
-      "duration_ms": 544182,
-      "name": "Amazon",
-      "url": "https://open.spotify.com/track/1shr9FbwrECsQ3i9hJtz5y"
+      "duration_ms": 193278,
+      "name": "Milambi",
+      "url": "https://open.spotify.com/track/6Bg9rnY8OXQZOG79lCveyu"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -619,6 +619,22 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
+        "name": "Astavakra",
+        "url": "https://open.spotify.com/album/1UjQXx7W5aoyUJi0wBgHZo"
+      },
+      "artists": [
+        {
+          "name": "Sadhu Sensi",
+          "url": "https://open.spotify.com/artist/3Muhm9HEowEpdC0i6NuW3P"
+        }
+      ],
+      "duration_ms": 420215,
+      "name": "Astavakra",
+      "url": "https://open.spotify.com/track/2vW8K1C2Vj81beuKOvBdf9"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
         "name": "Velvet Desert Music Vol. 2",
         "url": "https://open.spotify.com/album/1RBXK7nKxoZMKWPT2fexBW"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 453717,
       "name": "Monterrey Paris Texas",
       "url": "https://open.spotify.com/track/6MOgIsFOhxqKIodm1V5dd7"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
-        "name": "Astavakra",
-        "url": "https://open.spotify.com/album/1UjQXx7W5aoyUJi0wBgHZo"
-      },
-      "artists": [
-        {
-          "name": "Sadhu Sensi",
-          "url": "https://open.spotify.com/artist/3Muhm9HEowEpdC0i6NuW3P"
-        }
-      ],
-      "duration_ms": 420215,
-      "name": "Astavakra",
-      "url": "https://open.spotify.com/track/2vW8K1C2Vj81beuKOvBdf9"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/3q7mbrmrkvkmAJNz9aRW1h"
-      },
-      "artists": [
-        {
-          "name": "Planet Caravan",
-          "url": "https://open.spotify.com/artist/1vL80BIxkjefhlD5Gc88r5"
-        }
-      ],
-      "duration_ms": 385702,
-      "name": "Flou",
-      "url": "https://open.spotify.com/track/6srLB9vOq6BxQmxYAVH0xy"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
         "name": "Izivunguvungu (Chlo\u00e9 Remix)",
         "url": "https://open.spotify.com/album/4WMhthWOI1jzCIuRoP0jwB"
       },
@@ -739,6 +723,38 @@
       "duration_ms": 384330,
       "name": "Izivunguvungu - Chlo\u00e9 Remix",
       "url": "https://open.spotify.com/track/4smPVWbEXf5aq92BcNevXu"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/3q7mbrmrkvkmAJNz9aRW1h"
+      },
+      "artists": [
+        {
+          "name": "Planet Caravan",
+          "url": "https://open.spotify.com/artist/1vL80BIxkjefhlD5Gc88r5"
+        }
+      ],
+      "duration_ms": 385702,
+      "name": "Flou",
+      "url": "https://open.spotify.com/track/6srLB9vOq6BxQmxYAVH0xy"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
+        "name": "Osam",
+        "url": "https://open.spotify.com/album/48YFswdVKWAErJjA6IArbb"
+      },
+      "artists": [
+        {
+          "name": "Tosca",
+          "url": "https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn"
+        }
+      ],
+      "duration_ms": 482715,
+      "name": "Entrecote",
+      "url": "https://open.spotify.com/track/2MBPUcMpWL4EJ709876js0"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -771,22 +787,6 @@
       "duration_ms": 115090,
       "name": "Terra",
       "url": "https://open.spotify.com/track/13JC5nvIbCbxTrHqFLvwPM"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
-        "name": "Osam",
-        "url": "https://open.spotify.com/album/48YFswdVKWAErJjA6IArbb"
-      },
-      "artists": [
-        {
-          "name": "Tosca",
-          "url": "https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn"
-        }
-      ],
-      "duration_ms": 482715,
-      "name": "Entrecote",
-      "url": "https://open.spotify.com/track/2MBPUcMpWL4EJ709876js0"
     },
     {
       "added_at": "2022-09-09 16:00:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2022-09-09 16:00:00",
       "album": {
-        "name": "Eliso",
-        "url": "https://open.spotify.com/album/3YJAnKGQpddtp0dSp8YkTD"
-      },
-      "artists": [
-        {
-          "name": "Pablo Nouvelle",
-          "url": "https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P"
-        }
-      ],
-      "duration_ms": 176839,
-      "name": "Eliso Lyamu Katata",
-      "url": "https://open.spotify.com/track/4sAXWtXJa4XO3oFt9Bhrk0"
-    },
-    {
-      "added_at": "2022-09-09 16:00:00",
-      "album": {
         "name": "Graceland",
         "url": "https://open.spotify.com/album/389FTo58PpF3FBb8rh7IlV"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 405213,
       "name": "Graceland",
       "url": "https://open.spotify.com/track/4blmNPKr7Nkfaj6GDAKU5P"
+    },
+    {
+      "added_at": "2022-09-09 16:00:00",
+      "album": {
+        "name": "Eliso",
+        "url": "https://open.spotify.com/album/3YJAnKGQpddtp0dSp8YkTD"
+      },
+      "artists": [
+        {
+          "name": "Pablo Nouvelle",
+          "url": "https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P"
+        }
+      ],
+      "duration_ms": 176839,
+      "name": "Eliso Lyamu Katata",
+      "url": "https://open.spotify.com/track/4sAXWtXJa4XO3oFt9Bhrk0"
     },
     {
       "added_at": "2022-09-09 16:00:00",

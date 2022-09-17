@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3wjPs3pZiBROjNC2sgWJbN.md) - [plain]
 
 > A collection of R&amp;B jams and viral trends featuring Summer Walker, Muni Long &amp; Diddy Updated weekly! Cover: Ari Lennox
 
-[digster.fm](https://open.spotify.com/user/digster.fm) - 8,054 likes - 51 songs - 3 hr 1 min
+[digster.fm](https://open.spotify.com/user/digster.fm) - 8,053 likes - 51 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/3wjPs3pZiBROjNC2sgWJbN.md) - [plain]
 | 33 | [Worth It](https://open.spotify.com/track/7yeAu4xPWoTOGwQlQpgNZA) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Worth It](https://open.spotify.com/album/4gA30BEiTEYzHesXLSBbJc) | 4:18 |
 | 34 | [Switch A Nigga Out](https://open.spotify.com/track/5Mv7yjian35AddlklJgg1v) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 2:57 |
 | 35 | [IN YOUR EYES](https://open.spotify.com/track/1wjDFBUOMuZKm1eJ8GzRBX) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [TEMPORARY HIGHS IN THE VIOLET SKIES](https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3) | 3:34 |
-| 36 | [Essence \(feat\. Justin Bieber & Tems\)](https://open.spotify.com/track/1mSdbey7RstGLY2udgXv74) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Essence \(feat\. Justin Bieber & Tems\)](https://open.spotify.com/album/0Rn8NAh8NnoaCOt8r8Tc3e) | 4:23 |
+| 36 | [Essence \(feat\. Justin Bieber & Tems\)](https://open.spotify.com/track/1mSdbey7RstGLY2udgXv74) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Essence \(feat\. Justin Bieber & Tems\)](https://open.spotify.com/album/0Rn8NAh8NnoaCOt8r8Tc3e) | 4:23 |
 | 37 | [Most Men \- A COLORS SHOW](https://open.spotify.com/track/6oNlhbPtDLVMcSKzloa3WO) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Most Men \- A COLORS SHOW](https://open.spotify.com/album/4Ll6gnAL7gDjnZM8tOEndi) | 4:13 |
 | 38 | [For Tonight](https://open.spotify.com/track/61Emqg95O9zo1GNOcyxq4Y) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [For Tonight](https://open.spotify.com/album/5cAd6WOG1zVNQ2KDCOLtuf) | 3:13 |
 | 39 | [Ease My Mind \(Come Over\)](https://open.spotify.com/track/1FmZC1z76lUOwi2PwdBihB) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Ease My Mind \(Come Over\)](https://open.spotify.com/album/76PRb1DA17GoOZTExCjnpj) | 2:46 |

@@ -292,6 +292,28 @@
     },
     {
       "album": {
+        "name": "Adios",
+        "url": "https://open.spotify.com/album/50Jia45UGODmMpts9hRFD7"
+      },
+      "artists": [
+        {
+          "name": "BNJA KING",
+          "url": "https://open.spotify.com/artist/0UApOzMWy5APrqjhtL1QyD"
+        },
+        {
+          "name": "Bayriton",
+          "url": "https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213770,
+      "name": "Adios",
+      "url": "https://open.spotify.com/track/41P6ybfLDI9qb7ZhAYlKMT"
+    },
+    {
+      "album": {
         "name": "Time",
         "url": "https://open.spotify.com/album/0PLo7Nd9uUa6shrWWOmJsQ"
       },
@@ -615,6 +637,24 @@
       "duration_ms": 261922,
       "name": "august",
       "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
+    },
+    {
+      "album": {
+        "name": "Las Mejores Cuecas Con Maihuen de los Angeles",
+        "url": "https://open.spotify.com/album/5ZPsIKHvrhsNl9KTDNsUBP"
+      },
+      "artists": [
+        {
+          "name": "Maihuen de los Angeles",
+          "url": "https://open.spotify.com/artist/4vkOLg1AyJgDqF9xwLsgXR"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140013,
+      "name": "Ay Cari\u00f1o",
+      "url": "https://open.spotify.com/track/05GZJN3FA5uHicXdJGpj7i"
     },
     {
       "album": {
@@ -1065,7 +1105,7 @@
       ],
       "date_added": "2022-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 141340,
       "name": "Caile",
       "url": "https://open.spotify.com/track/6i1g5ZRmJZAkDwBaUZ3f2i"
@@ -1855,6 +1895,24 @@
       "duration_ms": 213061,
       "name": "Efecto",
       "url": "https://open.spotify.com/track/5Eax0qFko2dh7Rl2lYs3bx"
+    },
+    {
+      "album": {
+        "name": "Folklore en Mi Escuela. Danzas y Cantos de Am\u00e9rica, Vol. 1",
+        "url": "https://open.spotify.com/album/0u9kzGk1hFTp5ITUQye2ww"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Alerce",
+          "url": "https://open.spotify.com/artist/2pqwxwD3MCX4dM9OSdVoWb"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113400,
+      "name": "El Costillar",
+      "url": "https://open.spotify.com/track/6iFPOUYTO1HUs3sDGBjM7Y"
     },
     {
       "album": {
@@ -2713,7 +2771,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 199453,
       "name": "God Save The Queen",
       "url": "https://open.spotify.com/track/2mHchPRtQWet3iIS3jANr1"
@@ -3234,7 +3292,7 @@
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 163253,
+      "duration_ms": 163282,
       "name": "La Consentida",
       "url": "https://open.spotify.com/track/1lm6LUpH5muKFa2voR3Hyf"
     },
@@ -3251,7 +3309,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-11",
+      "date_removed": null,
       "duration_ms": 127613,
       "name": "La Consentida",
       "url": "https://open.spotify.com/track/4TUMZBtQISdb2NUiaEMemd"
@@ -4181,6 +4239,24 @@
       "duration_ms": 180929,
       "name": "Me Fui de Vacaciones",
       "url": "https://open.spotify.com/track/28GCbKgjlVD9eDmasGbe0T"
+    },
+    {
+      "album": {
+        "name": "Me Gusta el Vino",
+        "url": "https://open.spotify.com/album/700KGlUtUOTmecSTZmQNFc"
+      },
+      "artists": [
+        {
+          "name": "Tito Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6Km7WV9r7ozleZwjX1armg"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236066,
+      "name": "Me Gusta el Vino",
+      "url": "https://open.spotify.com/track/4phiyACOmjHDWImFfi99Fi"
     },
     {
       "album": {
@@ -5125,7 +5201,7 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 137000,
       "name": "Ojos Llorosos",
       "url": "https://open.spotify.com/track/6MCb9dUGR4Oq4xKV1phz0z"
@@ -6242,6 +6318,24 @@
     },
     {
       "album": {
+        "name": "Las Mejores Cuecas Con Maihuen de los Angeles",
+        "url": "https://open.spotify.com/album/5ZPsIKHvrhsNl9KTDNsUBP"
+      },
+      "artists": [
+        {
+          "name": "Maihuen de los Angeles",
+          "url": "https://open.spotify.com/artist/4vkOLg1AyJgDqF9xwLsgXR"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138160,
+      "name": "Seremos Uno",
+      "url": "https://open.spotify.com/track/0oeW47eszlvyvMG7OVogGM"
+    },
+    {
+      "album": {
         "name": "Session #1",
         "url": "https://open.spotify.com/album/0G4UDKaq5780x10NOIiWcK"
       },
@@ -6787,7 +6881,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 173877,
       "name": "Tarima",
       "url": "https://open.spotify.com/track/5yNlgsdQ7LsysOVhxYn5yk"
@@ -6919,6 +7013,24 @@
       "duration_ms": 172259,
       "name": "Te Mentir\u00eda Remix",
       "url": "https://open.spotify.com/track/1txrFHh4XUU3Kp8HcD2TFW"
+    },
+    {
+      "album": {
+        "name": "30 Cuecas",
+        "url": "https://open.spotify.com/album/6p2coYM4I9zqnkSvpfa1lK"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Campos",
+          "url": "https://open.spotify.com/artist/25iPZnrdjEMSYXjUxdfgc6"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110053,
+      "name": "Te Miro la Cara y Me Da Sed",
+      "url": "https://open.spotify.com/track/11fJouJwR4m6A48CC40qHi"
     },
     {
       "album": {
@@ -7147,7 +7259,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 387146,
       "name": "The Queen Is Dead - 2011 Remaster",
       "url": "https://open.spotify.com/track/03ZwNF6FTvazNuOXNQf8k8"
@@ -7747,7 +7859,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 184613,
       "name": "Under The Influence",
       "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
@@ -7957,7 +8069,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 180476,
       "name": "Visto",
       "url": "https://open.spotify.com/track/77dnbVCFQJSvQN7RDgtAaw"

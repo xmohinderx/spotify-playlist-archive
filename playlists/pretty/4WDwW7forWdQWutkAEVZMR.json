@@ -6,8 +6,140 @@
     "name": "Columbia Records",
     "url": "https://open.spotify.com/user/columbiarecords_us"
   },
-  "snapshot_id": "NTU0Nyw3YTI0ZDA2OWQxZTU3MGRkNGM1ZmZlZmIyNmRmYTE1YzNiNWYzNzkz",
+  "snapshot_id": "NTU2MCwzOGE2NmY1ZDY1Y2I3Y2ZlMjE5ZTlkN2E1ZmVkYTdiYWZhYTBmYzI4",
   "tracks": [
+    {
+      "added_at": "2022-09-16 14:50:11",
+      "album": {
+        "name": "Hell Paso",
+        "url": "https://open.spotify.com/album/5seABmIu2cnoRMDoVHZvOD"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 156610,
+      "name": "Money Spent",
+      "url": "https://open.spotify.com/track/1HxcB2FgfYVhkbqNMCmq1O"
+    },
+    {
+      "added_at": "2022-09-16 14:50:23",
+      "album": {
+        "name": "The Hardest Part",
+        "url": "https://open.spotify.com/album/0CIYj6AV180SmLAEONb2DW"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "duration_ms": 201463,
+      "name": "I Just Want a Lover",
+      "url": "https://open.spotify.com/track/1rwMM6ixKWnsRQMUeRbXeT"
+    },
+    {
+      "added_at": "2022-09-16 14:50:37",
+      "album": {
+        "name": "Buku Bandz",
+        "url": "https://open.spotify.com/album/7c6a5SYxA8AFzUd7kaPyfk"
+      },
+      "artists": [
+        {
+          "name": "Onlybino!",
+          "url": "https://open.spotify.com/artist/2kdZj6QvBXkeo95aio52pF"
+        },
+        {
+          "name": "sgpwes",
+          "url": "https://open.spotify.com/artist/7gUzdJiUbJWKf81FsUWes3"
+        }
+      ],
+      "duration_ms": 162485,
+      "name": "Buku Bandz",
+      "url": "https://open.spotify.com/track/3cn3dY4iOcBTECh2hpVS45"
+    },
+    {
+      "added_at": "2022-09-16 14:49:53",
+      "album": {
+        "name": "Finally Fine",
+        "url": "https://open.spotify.com/album/60YVVq3JqH321hltQuKXlr"
+      },
+      "artists": [
+        {
+          "name": "Jack Kays",
+          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Finally Fine",
+      "url": "https://open.spotify.com/track/6JQlOSz9Jd03zn7C3aq0TU"
+    },
+    {
+      "added_at": "2022-09-16 14:51:08",
+      "album": {
+        "name": "One 4 U",
+        "url": "https://open.spotify.com/album/0ZKzGLUdPNcbVvDUbVUycX"
+      },
+      "artists": [
+        {
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+        }
+      ],
+      "duration_ms": 148817,
+      "name": "One 4 U",
+      "url": "https://open.spotify.com/track/0rrUIAypiKTdpLw4A80ti3"
+    },
+    {
+      "added_at": "2022-09-16 16:11:56",
+      "album": {
+        "name": "One Time (feat. Ice Spice, Skillibeng & J.I the Prince of N.Y)",
+        "url": "https://open.spotify.com/album/7FX6vTJxAvOSM7DIpFCHRC"
+      },
+      "artists": [
+        {
+          "name": "B-Lovee",
+          "url": "https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y"
+        },
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        },
+        {
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+        },
+        {
+          "name": "J.I the Prince of N.Y",
+          "url": "https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h"
+        }
+      ],
+      "duration_ms": 196884,
+      "name": "One Time (feat. Ice Spice, Skillibeng & J.I the Prince of N.Y)",
+      "url": "https://open.spotify.com/track/5c1veUUGWMIxFv84E5P9uH"
+    },
+    {
+      "added_at": "2022-09-16 14:51:24",
+      "album": {
+        "name": "Cappers (feat. Lil Roc4TS)",
+        "url": "https://open.spotify.com/album/59qjjC7OA13ooKDUYKMkEV"
+      },
+      "artists": [
+        {
+          "name": "Scorey",
+          "url": "https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb"
+        },
+        {
+          "name": "Lil Roc4TS",
+          "url": "https://open.spotify.com/artist/6yrvvcwhHZ8sJmaIXatnYN"
+        }
+      ],
+      "duration_ms": 144905,
+      "name": "Cappers (feat. Lil Roc4TS)",
+      "url": "https://open.spotify.com/track/4aLoOmwOZO464cyCdzigPq"
+    },
     {
       "added_at": "2022-09-09 13:57:45",
       "album": {
@@ -39,90 +171,6 @@
       "duration_ms": 127293,
       "name": "While You're At It",
       "url": "https://open.spotify.com/track/0hfHF0FsMNyLoaqsvJmqfq"
-    },
-    {
-      "added_at": "2022-09-09 13:59:10",
-      "album": {
-        "name": "Kill For Your Love",
-        "url": "https://open.spotify.com/album/3EEpn39R3tZZnBiaWJFyfQ"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 192170,
-      "name": "Kill For Your Love",
-      "url": "https://open.spotify.com/track/4eaynYNbGdL9F90LGLcUsU"
-    },
-    {
-      "added_at": "2022-09-09 13:57:56",
-      "album": {
-        "name": "caffeine",
-        "url": "https://open.spotify.com/album/1ZcAQOVdLvndR6ffu9BYq2"
-      },
-      "artists": [
-        {
-          "name": "brakence",
-          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
-        }
-      ],
-      "duration_ms": 198346,
-      "name": "caffeine",
-      "url": "https://open.spotify.com/track/4jcIsQPXUXp866w3lT5AzO"
-    },
-    {
-      "added_at": "2022-09-09 13:58:55",
-      "album": {
-        "name": "my baby (feat. Emilia Ali)",
-        "url": "https://open.spotify.com/album/0gRckJA3t8HtEMUPpHTQXe"
-      },
-      "artists": [
-        {
-          "name": "Kina",
-          "url": "https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF"
-        },
-        {
-          "name": "Emilia Ali",
-          "url": "https://open.spotify.com/artist/4k5j2KkfsE7yGO46C0Hm1G"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "my baby (feat. Emilia Ali)",
-      "url": "https://open.spotify.com/track/5mKcwkUfjG9PaQ4KywZxVx"
-    },
-    {
-      "added_at": "2022-09-09 13:59:44",
-      "album": {
-        "name": "Luv U Back",
-        "url": "https://open.spotify.com/album/6n4BMT8epRMopMEfyTbOiw"
-      },
-      "artists": [
-        {
-          "name": "SSGKobe",
-          "url": "https://open.spotify.com/artist/1NHCwCMqV9oNQJXl16IltL"
-        }
-      ],
-      "duration_ms": 139354,
-      "name": "Luv U Back",
-      "url": "https://open.spotify.com/track/2Srbi3OwVYT4l2MDXxPUGa"
-    },
-    {
-      "added_at": "2022-09-09 13:59:59",
-      "album": {
-        "name": "Kerosene",
-        "url": "https://open.spotify.com/album/6ZZJgVir4fSS9inF2IFoU9"
-      },
-      "artists": [
-        {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
-        }
-      ],
-      "duration_ms": 149840,
-      "name": "Kerosene",
-      "url": "https://open.spotify.com/track/1uPRLmmA2YGNItLRp3BgFO"
     },
     {
       "added_at": "2022-05-20 04:16:34",

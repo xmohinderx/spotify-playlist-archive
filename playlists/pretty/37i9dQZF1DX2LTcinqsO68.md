@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LTcinqsO68.md) - [plain]
 
 > Like the old school sound of metal? Then you'll love this playlist! Cover: Megadeth
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,308,296 likes - 125 songs - 9 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,309,175 likes - 125 songs - 9 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LTcinqsO68.md) - [plain]
 | 68 | [I Surrender](https://open.spotify.com/track/2dHjSNCw10clC9oOld8tPn) | [Rainbow](https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m) | [Difficult To Cure](https://open.spotify.com/album/6bLrltddpgzAPMlefww9Ex) | 4:01 |
 | 69 | [Bringin' On The Heartbreak](https://open.spotify.com/track/7iEVmnzJr1V7duYKPWplzp) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [High 'N' Dry](https://open.spotify.com/album/2FC50FeHFVmksOYX1cymxr) | 4:33 |
 | 70 | [Children of the Grave \- 2014 Remaster](https://open.spotify.com/track/5clz8BOBulxx7q2yHxqOCk) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Master of Reality \(2014 Remaster\)](https://open.spotify.com/album/7pGb2cOGVz6vLyaZaKOQ7D) | 5:17 |
-| 71 | [Seventeen](https://open.spotify.com/track/2ZS0wDcdfrJPC86u5aJGo9) | [Winger](https://open.spotify.com/artist/2qQeKHrQJHLLbvDAOSO874) | [Winger](https://open.spotify.com/album/4aMtQDeDMAHBfh7cE87PWo) | 4:05 |
-| 72 | [Big City Nights](https://open.spotify.com/track/5LDZbklcDwQeeScf7dUlo4) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Love At First Sting](https://open.spotify.com/album/71cfSO0iO1fjgQLEb3Wc6C) | 4:09 |
+| 71 | [Big City Nights](https://open.spotify.com/track/5LDZbklcDwQeeScf7dUlo4) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Love At First Sting](https://open.spotify.com/album/71cfSO0iO1fjgQLEb3Wc6C) | 4:09 |
+| 72 | [Seventeen](https://open.spotify.com/track/2ZS0wDcdfrJPC86u5aJGo9) | [Winger](https://open.spotify.com/artist/2qQeKHrQJHLLbvDAOSO874) | [Winger](https://open.spotify.com/album/4aMtQDeDMAHBfh7cE87PWo) | 4:05 |
 | 73 | [Highway Star](https://open.spotify.com/track/4gVTozEmzwAUXpwj3jEetX) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Machine Head](https://open.spotify.com/album/1EK3a0Yctg4d3nGQzE4Uty) | 6:08 |
 | 74 | [The Kids Are Back](https://open.spotify.com/track/7xzmJPFQAn0O1ZYYtbGRlz) | [Twisted Sister](https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut) | [You Can't Stop Rock 'N' Roll](https://open.spotify.com/album/3KW5iWFnvhHtFoMHwWnUr5) | 3:18 |
 | 75 | [Alone Again](https://open.spotify.com/track/1j06ieEC2BOCM0fTmYhn2l) | [Dokken](https://open.spotify.com/artist/09hNSPPOxDop4FRdr6UEnq) | [Tooth and Nail](https://open.spotify.com/album/0opFMR8DprHzu1nPHhoHuL) | 4:22 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LTcinqsO68.md) - [plain]
 | 124 | [Phantom of the Opera \- 2015 Remaster](https://open.spotify.com/track/5dtdDxI45qW6GRr2YyC0mX) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Iron Maiden \(2015 \- Remaster\)](https://open.spotify.com/album/5nyyw7ThJdClJ0jPisOta3) | 7:21 |
 | 125 | [Tomorrow's Dream \- 2021 Remaster](https://open.spotify.com/track/07f9Uh1cWqH8ggfcEYeC1l) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Tomorrow's Dream \(2021 Remaster\)](https://open.spotify.com/album/6Zzss0gwhwdizR2JIoSUa7) | 3:08 |
 
-Snapshot ID: `MTY2MjY1MDE1OCwwMDAwMDAwMDY0ZjhlN2FjZTMzODUzOTIwZWQ0M2Y4YmY3ZTdhNTNk`
+Snapshot ID: `MTY2MjY1MDE1OCwwMDAwMDAwMDViZmY1MzQ2ZDQxNmEwYzY1NTgyZWEwMzhmY2NiMDIz`

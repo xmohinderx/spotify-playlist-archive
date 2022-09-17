@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTW0xDxScH.md) - [plain]
 
 > Where everything is lovely and snuggly <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 597,199 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 597,300 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,12 +32,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTW0xDxScH.md) - [plain]
 | 22 | [recently,](https://open.spotify.com/track/1djCoU5rvnq2zXFyD2iqq4) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [recently](https://open.spotify.com/album/295qW3R6DSM1WfePwUpgux) | 2:55 |
 | 23 | [Ladyfingers](https://open.spotify.com/track/7ubd6wvhN4TKMwQUy6hR69) | [Herb Alpert & The Tijuana Brass](https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I) | [Whipped Cream & Other Delights](https://open.spotify.com/album/7DxaerKtPdBxBZLwlgGcqP) | 2:44 |
 | 24 | [Cigarettes and Coffee](https://open.spotify.com/track/4PFiLGx8jAzcAJxwPLUeZ9) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [The Soul Album](https://open.spotify.com/album/3YKQkIPHtWGuvkBeVNIMhg) | 4:00 |
-| 25 | [That Was Yesterday](https://open.spotify.com/track/3gwfEBrFpzEFCZMjw7mqxA) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [That Was Yesterday](https://open.spotify.com/album/2GYGaipOwfLGveAF3ta6Iv) | 3:50 |
-| 26 | [jordan](https://open.spotify.com/track/2BGyfq5k9xGO9019bUsYFk) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 4:01 |
+| 25 | [jordan](https://open.spotify.com/track/2BGyfq5k9xGO9019bUsYFk) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 4:01 |
+| 26 | [That Was Yesterday](https://open.spotify.com/track/3gwfEBrFpzEFCZMjw7mqxA) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [That Was Yesterday](https://open.spotify.com/album/2GYGaipOwfLGveAF3ta6Iv) | 3:50 |
 | 27 | [Take Some Time](https://open.spotify.com/track/7sgecWk9KRFYXk7lokoF4z) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Wilderado](https://open.spotify.com/album/27PS3oqiVzOqqAT04Ku6at) | 3:30 |
 | 28 | [When the Night is Over](https://open.spotify.com/track/4FE9SgxcOoCNuGnaaU8TXz) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Vide Noir](https://open.spotify.com/album/2oiJM8vFGpxrtGtFfJWhJv) | 5:11 |
-| 29 | [Guilty](https://open.spotify.com/track/3MLwKelG4PQ7rXkd8Qjz4g) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Queen Alone](https://open.spotify.com/album/6k2kl7wWK57baFDPkpN9It) | 3:34 |
-| 30 | [Oh No](https://open.spotify.com/track/5OplD6jkrUT7XJFFIM6mph) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Oh No / Liahr](https://open.spotify.com/album/1w2W9vCxa8rEZQc13qjE3f) | 2:44 |
+| 29 | [Oh No](https://open.spotify.com/track/5OplD6jkrUT7XJFFIM6mph) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Oh No / Liahr](https://open.spotify.com/album/1w2W9vCxa8rEZQc13qjE3f) | 2:44 |
+| 30 | [Guilty](https://open.spotify.com/track/3MLwKelG4PQ7rXkd8Qjz4g) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Queen Alone](https://open.spotify.com/album/6k2kl7wWK57baFDPkpN9It) | 3:34 |
 | 31 | [Everything Is Just a Mess](https://open.spotify.com/track/61wUA5kA0F88dsakAPSjPg) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [First Place](https://open.spotify.com/album/5SMIvs45B5BN5ES3qqiblH) | 4:43 |
 | 32 | [This Too Shall Last](https://open.spotify.com/track/0CuXzMEgFzuQhLEYQHYas4) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Encore](https://open.spotify.com/album/6EIlfHDKZxmDMjcaRbFj8d) | 3:42 |
 | 33 | [It's Our Love](https://open.spotify.com/track/2ZA4tDZvsxFO6Yw5OENin7) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Will I See You Again?](https://open.spotify.com/album/7yp4ZtP97mPJTdmRjHaiaH) | 3:47 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTW0xDxScH.md) - [plain]
 | 47 | [There Is Something on Your Mind](https://open.spotify.com/track/2zBY88nji53AVJ2kczRvBO) | [Big Jay McNeely](https://open.spotify.com/artist/5K3FOIJ4gEZlPaJJpqaXmm) | [Nervous](https://open.spotify.com/album/0vNGXCP2gfCjlkYB0ktiri) | 3:22 |
 | 48 | [Sexy Weekend](https://open.spotify.com/track/3tjnCI2F64MOrRzi3NgXCA) | [Scoundrels](https://open.spotify.com/artist/4gk4lhkLjXnM1P7DT0TSuj) | [Sexy Weekend EP](https://open.spotify.com/album/0ELpN09jwSKKGQAtMTvdcY) | 4:11 |
 | 49 | [Lightning Of July](https://open.spotify.com/track/3Q4WTzhqY25Y7aVCmYt4TJ) | [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO) | [Lightning Of July](https://open.spotify.com/album/7tCSAe5FtwRJmQZgLE24EG) | 2:56 |
-| 50 | [Have You Ever Seen the Rain \(feat\. Paula Nelson\)](https://open.spotify.com/track/7ys0hKbMBZ0m7eQ4iR1hHU) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Paula Nelson](https://open.spotify.com/artist/5uhowxcNLDhc0qsmXWaOHV) | [To All The Girls...](https://open.spotify.com/album/3ztZ9tYkxsTYPp9LQ4qeMx) | 4:38 |
-| 51 | [Boy With The Blues](https://open.spotify.com/track/60r07P2OrlvVAUR8p3RRHE) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Boy With The Blues](https://open.spotify.com/album/3tKn8nZYwdJdocwmQhxT2T) | 2:55 |
+| 50 | [Boy With The Blues](https://open.spotify.com/track/60r07P2OrlvVAUR8p3RRHE) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Boy With The Blues](https://open.spotify.com/album/3tKn8nZYwdJdocwmQhxT2T) | 2:55 |
+| 51 | [Have You Ever Seen the Rain \(feat\. Paula Nelson\)](https://open.spotify.com/track/7ys0hKbMBZ0m7eQ4iR1hHU) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Paula Nelson](https://open.spotify.com/artist/5uhowxcNLDhc0qsmXWaOHV) | [To All The Girls...](https://open.spotify.com/album/3ztZ9tYkxsTYPp9LQ4qeMx) | 4:38 |
 | 52 | [Honey Dove](https://open.spotify.com/track/1emxi7e5EWFsJmwSKTuUDH) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K), [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [My World](https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc) | 4:06 |
 | 53 | [Out Of The Blue](https://open.spotify.com/track/3aV4xJGmhJHnyRhnzx5iHE) | [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Expectations](https://open.spotify.com/album/1v30ZLtb2nYIWqDto4GuIP) | 5:12 |
 | 54 | [Sunblind](https://open.spotify.com/track/308prODCCD0O660tIktbUi) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 4:13 |
@@ -86,13 +86,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTW0xDxScH.md) - [plain]
 | 76 | [Grass Is Greener](https://open.spotify.com/track/2rNVmfuyXAfmvZfg8O9D92) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Half The City](https://open.spotify.com/album/6BN0KczNzSrfmKoQzd6lMS) | 4:14 |
 | 77 | [Like a Ship](https://open.spotify.com/track/2g6aIBdprkYt5mNFjY6HAz) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Keite Young](https://open.spotify.com/artist/2euNKUC2iR9HRDVjLbhNdn) | [Like a Ship](https://open.spotify.com/album/3FEpG0GuwgCz8wNBkmQY7I) | 5:53 |
 | 78 | [Far Out](https://open.spotify.com/track/3FBisbTYZcpmPPAjnXE7w9) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Collections From The Whiteout](https://open.spotify.com/album/09P40BHcaue9iF4QasXMTK) | 4:18 |
-| 79 | [Lotta Love](https://open.spotify.com/track/4xPoGj1cAY9v5AGardly8e) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ), [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [Lotta Love](https://open.spotify.com/album/5x4bbGHyxTYhEnhXXmN2OE) | 3:17 |
+| 79 | [True Love](https://open.spotify.com/track/77YpxagBmCQV9cVzSi284F) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [True Love](https://open.spotify.com/album/1rUuIrTj6F1PHo3v9Vlbl6) | 4:11 |
 | 80 | [Rae Street](https://open.spotify.com/track/4DtQQ82VSTgYfsCBSxvK9k) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Things Take Time, Take Time](https://open.spotify.com/album/3InSvUCYvJ5XWg6PegGNCv) | 4:31 |
-| 81 | [True Love](https://open.spotify.com/track/77YpxagBmCQV9cVzSi284F) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [True Love](https://open.spotify.com/album/1rUuIrTj6F1PHo3v9Vlbl6) | 4:11 |
-| 82 | [Fruits of My Labor](https://open.spotify.com/track/6qWQRmO2za1TpP0tHYLhXw) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Saint Cloud +3](https://open.spotify.com/album/7kIdOOz6yIvEP6Z5RjhrCw) | 5:05 |
-| 83 | [Until You Came into My Life](https://open.spotify.com/track/2kyFN7sfxOgNLkxw66c1Ij) | [Ann Peebles](https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB) | [I Can't Stand the Rain](https://open.spotify.com/album/67Sjm7EwrWbnnyojmhP4KL) | 3:12 |
-| 84 | [Don't Bother Calling](https://open.spotify.com/track/133w2I6NKpvzmQ6XkrWfdN) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Aromanticism](https://open.spotify.com/album/3GEa8PdRoag1vtVUQCAla1) | 3:59 |
-| 85 | [Sorry I Am](https://open.spotify.com/track/2XbtAowMkaRMktJFII7h0Y) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Sorry I Am](https://open.spotify.com/album/1OckLS0LTnxNRWqGJ8ojoy) | 4:02 |
+| 81 | [Lotta Love](https://open.spotify.com/track/4xPoGj1cAY9v5AGardly8e) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ), [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [Lotta Love](https://open.spotify.com/album/5x4bbGHyxTYhEnhXXmN2OE) | 3:17 |
+| 82 | [Until You Came into My Life](https://open.spotify.com/track/2kyFN7sfxOgNLkxw66c1Ij) | [Ann Peebles](https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB) | [I Can't Stand the Rain](https://open.spotify.com/album/67Sjm7EwrWbnnyojmhP4KL) | 3:12 |
+| 83 | [Fruits of My Labor](https://open.spotify.com/track/6qWQRmO2za1TpP0tHYLhXw) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Saint Cloud +3](https://open.spotify.com/album/7kIdOOz6yIvEP6Z5RjhrCw) | 5:05 |
+| 84 | [Sorry I Am](https://open.spotify.com/track/2XbtAowMkaRMktJFII7h0Y) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Sorry I Am](https://open.spotify.com/album/1OckLS0LTnxNRWqGJ8ojoy) | 4:02 |
+| 85 | [Don't Bother Calling](https://open.spotify.com/track/133w2I6NKpvzmQ6XkrWfdN) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Aromanticism](https://open.spotify.com/album/3GEa8PdRoag1vtVUQCAla1) | 3:59 |
 | 86 | [Running from Home \- 2015 Remaster](https://open.spotify.com/track/5I4LTcEg5nFSnuMzAQumh5) | [Bert Jansch](https://open.spotify.com/artist/1FqG6mhiJbhbMg43ohCT6D) | [Bert Jansch](https://open.spotify.com/album/2Fqo2YzPayuwaiUJEqUMGy) | 2:20 |
 | 87 | [Adeline](https://open.spotify.com/track/0zGT1LYrHksqJkupsazmKb) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Adeline](https://open.spotify.com/album/0FpjVDZbJCK19vglA6T8B1) | 3:08 |
 | 88 | [either side](https://open.spotify.com/track/6ktq7bBlxFi3aPexm5N31m) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [either side](https://open.spotify.com/album/7EcfkZxkjFLn0FASWQmFkX) | 2:47 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTW0xDxScH.md) - [plain]
 | 99 | [Lost](https://open.spotify.com/track/25JOOXgL3bVkBzjzGvcLoE) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Sour Lemon](https://open.spotify.com/album/2gl1YvNVNAd1DdV3r7rOQ0) | 3:56 |
 | 100 | [Movie](https://open.spotify.com/track/6pcED19DVN2Coh4tmmgHH6) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Movie](https://open.spotify.com/album/7l6WtR1PQw7lw2K1uwd5Jv) | 5:57 |
 
-Snapshot ID: `MTY2MjE0MzE2OCwwMDAwMDAwMGQ1YmE1YzBkNmIzZGVlMjI1ZmZhMTNhMTU3MjNjM2Uz`
+Snapshot ID: `MTY2MjE0MzE2OCwwMDAwMDAwMDljNDZkYWE5MjFjZDFhMDFhM2NmZWM4YWQ5NzZmMWU4`

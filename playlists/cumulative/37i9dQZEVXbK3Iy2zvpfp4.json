@@ -717,7 +717,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 124273,
       "name": "BAGIRA",
       "url": "https://open.spotify.com/track/18DVypBkvcJtVFzQr5Ly7J"
@@ -811,7 +811,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 134857,
       "name": "Below the Surface",
       "url": "https://open.spotify.com/track/5f1j3h5DBkLpGfb90QGFvR"
@@ -2175,7 +2175,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 199453,
       "name": "God Save The Queen",
       "url": "https://open.spotify.com/track/2mHchPRtQWet3iIS3jANr1"
@@ -3100,6 +3100,32 @@
     },
     {
       "album": {
+        "name": "MAGNUM OPU$",
+        "url": "https://open.spotify.com/album/2SzzFkS6o5yARaOGUhWCZs"
+      },
+      "artists": [
+        {
+          "name": "EL$E",
+          "url": "https://open.spotify.com/artist/36zaLvAR3hvPMtlSqgQs2i"
+        },
+        {
+          "name": "MoonDeity",
+          "url": "https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY"
+        },
+        {
+          "name": "SAOTOMAMORE",
+          "url": "https://open.spotify.com/artist/4MxJYU17fdqZ9tzK1d7aeM"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164932,
+      "name": "MAGNUM OPU$",
+      "url": "https://open.spotify.com/track/6xTLv1jodtGuUUIxtT1yYz"
+    },
+    {
+      "album": {
         "name": "Ch\u00fdba\u0161 mi",
         "url": "https://open.spotify.com/album/2OJ26HYxSjkzfKf62ilFCv"
       },
@@ -3962,6 +3988,24 @@
     },
     {
       "album": {
+        "name": "DMZ",
+        "url": "https://open.spotify.com/album/0k7dBuSv2qW747vD7XGGEr"
+      },
+      "artists": [
+        {
+          "name": "Kinneret",
+          "url": "https://open.spotify.com/artist/5pnHmnSlN4hJqjG3VWtdYJ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198922,
+      "name": "No Wind Resistance!",
+      "url": "https://open.spotify.com/track/5zgkOLH6HfY5w8thZoS2jP"
+    },
+    {
+      "album": {
         "name": "Not Over Yet (feat. Tom Grennan)",
         "url": "https://open.spotify.com/album/2JwhadQOv6ZEnpuWkZNNFh"
       },
@@ -4205,7 +4249,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-16",
+      "date_removed": null,
       "duration_ms": 131657,
       "name": "PART OF ME HARDSTYLE",
       "url": "https://open.spotify.com/track/19gnl7xN5xAEwDquLNKl76"
@@ -5113,7 +5157,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-01",
+      "date_removed": null,
       "duration_ms": 124065,
       "name": "snowfall",
       "url": "https://open.spotify.com/track/4xF4ZBGPZKxECeDFrqSAG4"
@@ -5157,7 +5201,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-28",
+      "date_removed": null,
       "duration_ms": 224727,
       "name": "SOS",
       "url": "https://open.spotify.com/track/0fThlG4YBkCsRVSJkGpWAX"
@@ -5387,7 +5431,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-16",
+      "date_removed": null,
       "duration_ms": 170977,
       "name": "Super Freaky Girl",
       "url": "https://open.spotify.com/track/2yjlYDiNiQkdxVqTlaSrlX"
@@ -5551,7 +5595,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 387146,
       "name": "The Queen Is Dead - 2011 Remaster",
       "url": "https://open.spotify.com/track/03ZwNF6FTvazNuOXNQf8k8"
@@ -5825,7 +5869,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 107044,
       "name": "vendetta!",
       "url": "https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum"
@@ -6035,7 +6079,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 233379,
       "name": "Xenogenesis",
       "url": "https://open.spotify.com/track/5iRVNYbhfWNO2VzBykX7GS"

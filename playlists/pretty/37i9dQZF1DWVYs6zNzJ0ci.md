@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 
 > Vibraciones rastafari en español\. Foto: Los Cafres
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,203,385 likes - 100 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,203,462 likes - 100 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 | 26 | [Cómo Te Hago Entender](https://open.spotify.com/track/2SWT2A1MuCYPBxT0UxzqQZ) | [Alkilados](https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB) | [Cómo Te Hago Entender](https://open.spotify.com/album/0VsdN2UHYW5fzQbFpeLxGg) | 2:39 |
 | 27 | [Momento](https://open.spotify.com/track/1eQU5ex4RcVjz55hWPeJzc) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Barrilete](https://open.spotify.com/album/68CATT5x7h27zl3KKnLM3g) | 5:49 |
 | 28 | [Véngase I](https://open.spotify.com/track/1kOzw10XqOtFA7Qar4Bjpu) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Trippy Caribbean](https://open.spotify.com/album/31sc4BgFQxSnnYtzjZMCmG) | 4:22 |
-| 29 | [Verde, amarillo y rojo](https://open.spotify.com/track/4Gu3btu3WVhofFBbSyrwBC) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Gondwana En Vivo En Buenos Aires](https://open.spotify.com/album/5gF3S3q98Noxe5ECtnUN9K) | 5:38 |
-| 30 | [En el Aire](https://open.spotify.com/track/6tT7NZT9kUGcntWb7yFX0C) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe) | [Activistas](https://open.spotify.com/album/3VdCyzaFr6nOz358VpRGaH) | 4:17 |
+| 29 | [En el Aire](https://open.spotify.com/track/6tT7NZT9kUGcntWb7yFX0C) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe) | [Activistas](https://open.spotify.com/album/3VdCyzaFr6nOz358VpRGaH) | 4:17 |
+| 30 | [Verde, amarillo y rojo](https://open.spotify.com/track/4Gu3btu3WVhofFBbSyrwBC) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Gondwana En Vivo En Buenos Aires](https://open.spotify.com/album/5gF3S3q98Noxe5ECtnUN9K) | 5:38 |
 | 31 | [Aire](https://open.spotify.com/track/2QzZbHq663tcsRK39ptX4Y) | [Golden Ganga](https://open.spotify.com/artist/54P0u0BOmRdmtEVPgcoZy0) | [Música Libre](https://open.spotify.com/album/6e2HWh7tBqocDo2QLW04Sx) | 4:10 |
 | 32 | [Todo Lo Que Se Fue](https://open.spotify.com/track/4B7SpIO8nXOzz8I8tkovqW) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [Todo Lo Que Se Fue](https://open.spotify.com/album/5b6PeL5h1CFlENO13RKt4r) | 3:21 |
 | 33 | [Sigo Caminando](https://open.spotify.com/track/1Po5Jxjh5gHCFiKIt6AQZR) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Alas Canciones](https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8) | 5:02 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 | 90 | [Whatta Life](https://open.spotify.com/track/3zKsf9udDfKsu4bv7v8HaO) | [Antidoping](https://open.spotify.com/artist/3gNRdx3DyEnckHDCmVwwnY) | [Esfuerzo Universal](https://open.spotify.com/album/0Kw6qKktEcAe5gzLrFd9au) | 4:52 |
 | 91 | [Ready](https://open.spotify.com/track/105s2PTUiEcGtKsL1rl0Fl) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [Ready](https://open.spotify.com/album/6eSOrBQDFoAT27MUPHW5d4) | 2:30 |
 | 92 | [Cocomango](https://open.spotify.com/track/1v1WSCFVUyCYQe0g9zdBlY) | [Sie7e](https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz), [The Islanauts](https://open.spotify.com/artist/3Fes3iYQgBEocYeRIFOwqx) | [Gaia](https://open.spotify.com/album/4PYQYYOE41VWrnr9OqqYYY) | 3:15 |
-| 93 | [Normal](https://open.spotify.com/track/7coiBABUHNhnrtwartgZyV) | [Laguna Pai](https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS) | [Normal](https://open.spotify.com/album/4TDHPkZFHmvX2NM5S6y73c) | 4:27 |
+| 93 | [Mira Bien](https://open.spotify.com/track/55QuN0qYc4pnb001Ns8ZsK) | [Cestar](https://open.spotify.com/artist/1p5MGlN01vwR008ce7818d), [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Mira Bien](https://open.spotify.com/album/1dGNnwFx3AGB9cl38NQjf3) | 3:19 |
 | 94 | [Quién Sos?](https://open.spotify.com/track/2iq53i4P2VSj3Qc3DYbQTH) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP), [Julieta Rada](https://open.spotify.com/artist/5KA95SZBQeMgNMTuqnxzJd) | [Quién Sos?](https://open.spotify.com/album/3ciuW3aqUEX2Yx76S6ZrEA) | 3:51 |
-| 95 | [Mira Bien](https://open.spotify.com/track/55QuN0qYc4pnb001Ns8ZsK) | [Cestar](https://open.spotify.com/artist/1p5MGlN01vwR008ce7818d), [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Mira Bien](https://open.spotify.com/album/1dGNnwFx3AGB9cl38NQjf3) | 3:19 |
+| 95 | [Normal](https://open.spotify.com/track/7coiBABUHNhnrtwartgZyV) | [Laguna Pai](https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS) | [Normal](https://open.spotify.com/album/4TDHPkZFHmvX2NM5S6y73c) | 4:27 |
 | 96 | [Laba Laba Craven](https://open.spotify.com/track/3hd9TlZsdqhnzdndCbT1Kz) | [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN) | [Neigborhood Rules](https://open.spotify.com/album/2JyFsrq6OkrfH0mBRRYAiu) | 3:52 |
 | 97 | [Quemando Tu Pecho](https://open.spotify.com/track/5MRAyyeWEQvcsf9BdruIIY) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Carpe Diem](https://open.spotify.com/album/0hjSy3tFI2uK4RcppyNASu) | 4:19 |
 | 98 | [All Night Long](https://open.spotify.com/track/4hgda2zsC0CPHtxT55FJho) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l), [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [All Night Long](https://open.spotify.com/album/2PuKW3LCrVlfbIY1u4RoMe) | 4:20 |
 | 99 | [Mi Niña](https://open.spotify.com/track/32dbDZjc45fBUUFaSU3DMg) | [Spiritual Reggae Band](https://open.spotify.com/artist/1NsI01VINwVZh1Au2lfbAS) | [Ruge](https://open.spotify.com/album/05KcuSthgbWCRQkV8liSvJ) | 4:03 |
 | 100 | [Medicina](https://open.spotify.com/track/4zRbnZkeN4TNBJgGcTDMqG) | [Antidoping](https://open.spotify.com/artist/3gNRdx3DyEnckHDCmVwwnY) | [Esfuerzo Universal](https://open.spotify.com/album/0Kw6qKktEcAe5gzLrFd9au) | 6:22 |
 
-Snapshot ID: `MTY2MDc1NzE3MiwwMDAwMDAwMDlkOTlhYWYxM2FkMWNjYTc3OWRmZjMxMTcyZTI3ZWI4`
+Snapshot ID: `MTY2MDc1NzE3MiwwMDAwMDAwMGNiNzVjYzQ0ZWNkOWQ4YWEyZjE3N2I2YTExNzdmMzA1`

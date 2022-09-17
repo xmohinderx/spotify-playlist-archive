@@ -4,7 +4,7 @@
 
 > Relaxe com hinos acústicos\. Foto: Gabriel Guedes de Almeida
 
-80 songs - 6 hr 10 min - not published yet
+80 songs - 6 hr 10 min - [published](https://open.spotify.com/playlist/2qVFdBscejCMla6A7JhqfJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Great chilled house.
 
-224 songs - 11 hr 31 min - [published](https://open.spotify.com/playlist/2QLzNojNqX37dNI8xGhwt0)
+226 songs - 11 hr 37 min - [published](https://open.spotify.com/playlist/2QLzNojNqX37dNI8xGhwt0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [marquee](https://open.spotify.com/track/3bQqaKhQjfdgOZyGgwi6jy) | [Parker Son](https://open.spotify.com/artist/3ID3ZMg7Mf5wRvqFJwF82r) | [marquee](https://open.spotify.com/album/4bH7olhBkbIkXA7Id0f3ku) | 2:38 | 2022-08-19 |  |
 | [Mellow Flow](https://open.spotify.com/track/71mNlLD1Aq01GOkyR2besV) | [Marzell Paris](https://open.spotify.com/artist/7qzHrRTMwAhRARXZ2v0rwc) | [Mellow Flow](https://open.spotify.com/album/3Kpo78HLS8dxwSqrdH7gzS) | 3:33 | 2022-05-20 | 2022-07-29 |
 | [Meridian](https://open.spotify.com/track/6g2qNlGpizqh0K05nxLNqf) | [Del Risa](https://open.spotify.com/artist/4gzZiN07Ka3Idx3QvR1ZuS) | [Meridian](https://open.spotify.com/album/6YEdcoWIiIjzUcqr11W2C0) | 3:42 | 2022-05-20 | 2022-06-03 |
-| [Miami Haze](https://open.spotify.com/track/3YqeefMfmwnYaWVezGn8lq) | [Dekance](https://open.spotify.com/artist/44KGRSo2bpi5LUlIw52lvD) | [Miami Haze](https://open.spotify.com/album/6HBSaCYkpxvnFi6PlGQ8xF) | 4:04 | 2022-05-20 |  |
+| [Miami Haze](https://open.spotify.com/track/3YqeefMfmwnYaWVezGn8lq) | [Dekance](https://open.spotify.com/artist/44KGRSo2bpi5LUlIw52lvD) | [Miami Haze](https://open.spotify.com/album/6HBSaCYkpxvnFi6PlGQ8xF) | 4:04 | 2022-05-20 | 2022-09-17 |
 | [milanaze](https://open.spotify.com/track/54vcW7KBQULivUu32NZ7ot) | [qorfu](https://open.spotify.com/artist/4RThihZi1QaMBUHyFpu3pY) | [milanaze](https://open.spotify.com/album/1ahaxm7I0wNWesi6fwvaS3) | 2:56 | 2022-05-20 |  |
 | [Monday Beat](https://open.spotify.com/track/4LmN2h64LJHhN8ZiiwiwOY) | [Carl & Calitto](https://open.spotify.com/artist/4tMgaZrsUhfgvphSrUDEiD) | [Monday Beat](https://open.spotify.com/album/6eQDuOdTk1UOXNRdQ0cHNX) | 2:55 | 2022-05-20 |  |
 | [Moot](https://open.spotify.com/track/2l8i114g3bZrpwO9EgFNsH) | [The Pleasure Principle](https://open.spotify.com/artist/2P9Z65sQszXemqiA6s71es) | [Moot](https://open.spotify.com/album/2x00k3LmpeSpfH9GcwwUHP) | 3:05 | 2022-08-19 |  |
@@ -174,12 +174,13 @@
 | [Rooftop](https://open.spotify.com/track/2ebN0r76upG4bTetGQk996) | [Logozzi](https://open.spotify.com/artist/1unZMtDEa8VfpVnkTEHCaI) | [Rooftop](https://open.spotify.com/album/6CIk1vRJBoBq0bzDnRnY8o) | 3:10 | 2022-05-20 | 2022-09-09 |
 | [Rose](https://open.spotify.com/track/0bEixfuWUAwzt6Khi1ccgn) | [Drofty](https://open.spotify.com/artist/0RVQAq5SiopM6KTV68p7FM) | [Rose](https://open.spotify.com/album/6O3C5aOvvsqxAVfcyL1nvV) | 2:59 | 2022-05-20 |  |
 | [Rotary](https://open.spotify.com/track/4VIR3YOwgtTMRg70zCVpJV) | [Tonalize](https://open.spotify.com/artist/3wF1K5F8RQSOeWtYkMjySH) | [Rotary](https://open.spotify.com/album/1K2WTHESLtZG8OC4vFpmQg) | 3:40 | 2022-05-20 | 2022-09-09 |
+| [Saint](https://open.spotify.com/track/28HAQ14CuQBdYXVDaiLnNI) | [Drunk Archer](https://open.spotify.com/artist/0AMvlHlc7WpjNyZSmAfTIQ) | [Saint](https://open.spotify.com/album/1PJZR969k2nt3tD8a376XK) | 2:59 | 2022-09-16 |  |
 | [Saints](https://open.spotify.com/track/5SV96TXvKqxuwNxNmvbq1X) | [Asha Lin](https://open.spotify.com/artist/3n5KctQ0kr7y2FQs57lE2H) | [Saints](https://open.spotify.com/album/2cUal4h6gvOSWY3tCc6eOK) | 2:49 | 2022-05-20 |  |
-| [Saints & Tropez](https://open.spotify.com/track/08SKC2H1MDH2WmTjLIoLcs) | [Alinno](https://open.spotify.com/artist/43Sajp33BHbRnUaDUrWQn7) | [Saints & Tropez](https://open.spotify.com/album/4L9IvFRId2lprKiP84acjy) | 3:48 | 2022-05-20 |  |
+| [Saints & Tropez](https://open.spotify.com/track/08SKC2H1MDH2WmTjLIoLcs) | [Alinno](https://open.spotify.com/artist/43Sajp33BHbRnUaDUrWQn7) | [Saints & Tropez](https://open.spotify.com/album/4L9IvFRId2lprKiP84acjy) | 3:48 | 2022-05-20 | 2022-09-17 |
 | [Salt Water Taffy](https://open.spotify.com/track/7qja5koXB0YyXvP0lDLia6) | [Drofty](https://open.spotify.com/artist/0RVQAq5SiopM6KTV68p7FM) | [Salt Water Taffy](https://open.spotify.com/album/0Or7Az6koTg3dizh2hbNrU) | 3:08 | 2022-05-20 |  |
 | [Saltwater](https://open.spotify.com/track/2yKuBIhdZNhIB4V8VpITqm) | [Bejnou](https://open.spotify.com/artist/2ACa9uyntS1aSduemgNj5k) | [Saltwater](https://open.spotify.com/album/5sPsJOKPYyPNwRScvaOxn0) | 2:27 | 2022-05-20 |  |
 | [Saudade Tropical](https://open.spotify.com/track/1bpkuAmt6pHXBMFMPOnkPX) | [Aristo Jazz](https://open.spotify.com/artist/6goQroMbD9fZKxMewqgseO) | [Saudade Tropical](https://open.spotify.com/album/1oppe5zZJqwXACTIlDYuZT) | 3:34 | 2022-05-20 |  |
-| [scent of you](https://open.spotify.com/track/3KOkrFg9xm462HinmQ94N0) | [Mateo Hill](https://open.spotify.com/artist/6ZwI5BEf3SVNDkdOKFpxKQ) | [scent of you](https://open.spotify.com/album/31BhSIIoSeqb1ZdRpdlYVX) | 2:59 | 2022-07-29 |  |
+| [scent of you](https://open.spotify.com/track/3KOkrFg9xm462HinmQ94N0) | [Mateo Hill](https://open.spotify.com/artist/6ZwI5BEf3SVNDkdOKFpxKQ) | [scent of you](https://open.spotify.com/album/31BhSIIoSeqb1ZdRpdlYVX) | 2:59 | 2022-07-29 | 2022-09-17 |
 | [Sea To Sky \- Parra For Cuva Remix](https://open.spotify.com/track/3MZoVNwQG5SCfLqGtpbbJt) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm), [Murge](https://open.spotify.com/artist/3ykuLH14n05EsgIRDZER5W), [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Sea To Sky \(Parra For Cuva Remix\)](https://open.spotify.com/album/7JImJ5SHOXJawrhfmB7COU) | 3:46 | 2022-05-20 | 2022-06-10 |
 | [Sea Ya](https://open.spotify.com/track/4eftVZJINpVQjJPF2cEBaL) | [Pink Beaches](https://open.spotify.com/artist/4BD1682O6X6qea7XWlo6tq) | [Sea Ya](https://open.spotify.com/album/7j0QI0It6JlIO7JUqGYMj8) | 3:56 | 2022-05-20 |  |
 | [Seala](https://open.spotify.com/track/1BL2QYqKsUqMHMpFswdXRD) | [Kellen Berrios](https://open.spotify.com/artist/0tTc6Q8lb2dB4Atl12F4Zp) | [Seala](https://open.spotify.com/album/3wFkbVpZwahPZXOWZfIhia) | 2:24 | 2022-09-02 |  |
@@ -190,7 +191,7 @@
 | [Skates](https://open.spotify.com/track/6Z0TyMJQSNAVJcLuUMVCPp) | [Kleo](https://open.spotify.com/artist/24jRJ4wKE0RC9c8M4CUyuK) | [Skates](https://open.spotify.com/album/03cXL0nQ5J3J83Xd4bglkE) | 3:00 | 2022-09-02 |  |
 | [Solar Sun](https://open.spotify.com/track/5VErwAfMIPinJbosqnkBrf) | [Kate Paul](https://open.spotify.com/artist/1anQkfV3WidZBDrdAQwAsx) | [Solar Sun](https://open.spotify.com/album/5MZJD2cd91PXyxZmS6qUnh) | 3:52 | 2022-05-20 |  |
 | [Something Smooth](https://open.spotify.com/track/4OzBqACAPAF6mc2kFj0JRS) | [Col Wright](https://open.spotify.com/artist/3N4pZH3LcxBjfnxb5IKeo9) | [Something Smooth](https://open.spotify.com/album/34WBzOs4NqxyrmvwNq7qnx) | 2:43 | 2022-05-20 |  |
-| [Sommarvind](https://open.spotify.com/track/6ujiFW9V5Q3eRIhA8nYbqf) | [Konrad Wijk](https://open.spotify.com/artist/7bGBkxzCyn9FMjY2g1LMp2) | [Sommarvind](https://open.spotify.com/album/5q8bT1e9p1I33DsBu0hzCI) | 2:14 | 2022-05-20 |  |
+| [Sommarvind](https://open.spotify.com/track/6ujiFW9V5Q3eRIhA8nYbqf) | [Konrad Wijk](https://open.spotify.com/artist/7bGBkxzCyn9FMjY2g1LMp2) | [Sommarvind](https://open.spotify.com/album/5q8bT1e9p1I33DsBu0hzCI) | 2:14 | 2022-05-20 | 2022-09-17 |
 | [Souls](https://open.spotify.com/track/3ChoL4frV5kJSk0C9F3IWz) | [Del Risa](https://open.spotify.com/artist/4gzZiN07Ka3Idx3QvR1ZuS) | [Souls](https://open.spotify.com/album/118kdRwrFscCUlo9bSr096) | 4:14 | 2022-05-20 |  |
 | [Spinn](https://open.spotify.com/track/0fyQrTaCAbbbTmRBbMxICv) | [Off Grand](https://open.spotify.com/artist/1O3Vddh08h7H2GWTqxbZ77) | [Spinn](https://open.spotify.com/album/46UKdbMr79aySMIiL5wXqd) | 2:52 | 2022-05-20 |  |
 | [Spirit Lovers](https://open.spotify.com/track/2TEI2zNtxUL2XOrIZP9Lil) | [Snowman vs](https://open.spotify.com/artist/0YPrHloQKCZTqyxG4fFAuv) | [Spirit Lovers](https://open.spotify.com/album/6P9OnTlNLSvIlHHyDMRrkn) | 2:11 | 2022-05-20 |  |
@@ -207,6 +208,7 @@
 | [Sunset Serene](https://open.spotify.com/track/2qTWVbYFS5yFAI0fCF1S2B) | [Znoijk](https://open.spotify.com/artist/2NINUmgwSwe4logL3qBNVl) | [Sunset Serene](https://open.spotify.com/album/0pvv7It7LHOlqSOKEamkRG) | 2:06 | 2022-05-20 |  |
 | [Surface](https://open.spotify.com/track/3cYoFTvBceHnBJrepK9zoC) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Alike / Surface](https://open.spotify.com/album/7bW443i5eXrdKMV2bXtOLk) | 3:49 | 2022-05-20 |  |
 | [sweaty palms](https://open.spotify.com/track/4nRP3DPkiZICuDpYlliATw) | [Manic Twister](https://open.spotify.com/artist/2PhILsiPfdlMu8brbtXvh7) | [sweaty palms](https://open.spotify.com/album/00gsJW5JdlirXTyipA6XkX) | 2:40 | 2022-06-24 | 2022-09-09 |
+| [Tell Me It's Not Over](https://open.spotify.com/track/4Ul7JjcgyD8BmIZkloRlKu) | [Robo Rat](https://open.spotify.com/artist/2PMOIIBqxXT4hr76dZPItk) | [Tell Me It's Not Over](https://open.spotify.com/album/6lzQfNbnGiljpubcYSFdhQ) | 3:05 | 2022-09-16 |  |
 | [The Fire](https://open.spotify.com/track/30Zqlt51wOzUe2y9gdY8Yl) | [Cogitation](https://open.spotify.com/artist/03cw3islnFkglHBqaVuDMq) | [The Fire](https://open.spotify.com/album/2y9uoXSbJbulLgiqZIM0FH) | 2:42 | 2022-05-20 | 2022-06-03 |
 | [The Heavens](https://open.spotify.com/track/2BQPwEDYM8KLUaKncKQiZA) | [Ely Lite](https://open.spotify.com/artist/33OqIEJdwN1tqfJeRap2QY) | [The Heavens](https://open.spotify.com/album/4SfOQIO0DjTwSYAzMGlyC1) | 3:36 | 2022-05-20 | 2022-08-05 |
 | [The Lighthouse](https://open.spotify.com/track/4C8vDZVeXTs4coyFq914Wh) | [Nitta' Gritta'](https://open.spotify.com/artist/55psXqpj00WvVubriLCEet) | [The Lighthouse](https://open.spotify.com/album/5jVus1wCuzCbYKI8VFA9IN) | 2:12 | 2022-05-20 | 2022-09-09 |
@@ -225,12 +227,12 @@
 | [Velvet Skies](https://open.spotify.com/track/0HBQ7cU8gPitLvHX8nQ3DH) | [VILT](https://open.spotify.com/artist/4VzZG2yIlxLmbilBTDlEb0) | [Velvet Skies](https://open.spotify.com/album/3LAJb6QHo5QkgoW0T2vJNT) | 3:05 | 2022-05-20 |  |
 | [Venice](https://open.spotify.com/track/29SgYi3K9xTnueAOdJCGf8) | [Parker Wilkins](https://open.spotify.com/artist/6igZZYtkBvDiAl9KF34BD4) | [Venice](https://open.spotify.com/album/6IzdxPmeIKK5BFZkmDxR0R) | 2:57 | 2022-05-20 |  |
 | [vibing out](https://open.spotify.com/track/4DUkt7qqbKcVjWLuRUY2QF) | [Manic Twister](https://open.spotify.com/artist/2PhILsiPfdlMu8brbtXvh7) | [vibing out](https://open.spotify.com/album/2s1jVVP4h8moCR68wfKqAg) | 3:12 | 2022-09-02 |  |
-| [Vice Versa](https://open.spotify.com/track/47dhXoqYUeOuk7QsTE4YKb) | [Vintage Vanity](https://open.spotify.com/artist/6SBEoQGRoWffIQOkxDJLmM) | [Vice Versa](https://open.spotify.com/album/21tozXtoTgDWVZFEbJsGFt) | 2:32 | 2022-05-20 |  |
+| [Vice Versa](https://open.spotify.com/track/47dhXoqYUeOuk7QsTE4YKb) | [Vintage Vanity](https://open.spotify.com/artist/6SBEoQGRoWffIQOkxDJLmM) | [Vice Versa](https://open.spotify.com/album/21tozXtoTgDWVZFEbJsGFt) | 2:32 | 2022-05-20 | 2022-09-17 |
 | [Vista Del Mar](https://open.spotify.com/track/30WPOz4hvOElMMayVMnPyo) | [Mano Manana](https://open.spotify.com/artist/3g70CxwtUMFpp9T8GdhNTG) | [Vista Del Mar](https://open.spotify.com/album/2uXLOxgkD7kJq4gBnHt8nX) | 3:18 | 2022-05-20 |  |
 | [Wave Machine](https://open.spotify.com/track/2BaPjgVI7EidIAo6fajVr3) | [Florem Ipsum](https://open.spotify.com/artist/594PMnBcYcEU1sTCC75Iir) | [Wave Machine](https://open.spotify.com/album/3Gkho3YVfoF6t2sE9yWGic) | 2:41 | 2022-05-20 | 2022-09-02 |
 | [We Go Away](https://open.spotify.com/track/17o75NcuAZ7BkajsD9fUp4) | [Archie Wells](https://open.spotify.com/artist/41DGrcpJmTy48eilLb8MGl) | [We Go Away](https://open.spotify.com/album/3GnzsuiimsoskGd7ewgeC8) | 2:04 | 2022-09-02 |  |
 | [Wet Bravado](https://open.spotify.com/track/0ENdomkBjCzYQbHP0ITm6L) | [R Y K](https://open.spotify.com/artist/52GuEcwja1RpI2x3lVaotA) | [Wet Bravado](https://open.spotify.com/album/34q74YXjIBzBlvcOvnEoIV) | 2:43 | 2022-05-20 |  |
-| [Yeesh Euphemism](https://open.spotify.com/track/5XE4be6dC1jBUIfVNceNxx) | [LeeDee](https://open.spotify.com/artist/4kMBrFLqXw4zXeowx6GwcL) | [OMG Coffee](https://open.spotify.com/album/0VA0nwREAwUZ2QBdRoTPa5) | 3:05 | 2022-07-29 |  |
+| [Yeesh Euphemism](https://open.spotify.com/track/5XE4be6dC1jBUIfVNceNxx) | [LeeDee](https://open.spotify.com/artist/4kMBrFLqXw4zXeowx6GwcL) | [OMG Coffee](https://open.spotify.com/album/0VA0nwREAwUZ2QBdRoTPa5) | 3:05 | 2022-07-29 | 2022-09-17 |
 | [Zeta Reticuli](https://open.spotify.com/track/0prUbL2i0fL0uNC4lpxxoy) | [Dennis Straat](https://open.spotify.com/artist/2QclRlSL9gUvxOoFVr9PA8) | [Zeta Reticuli](https://open.spotify.com/album/4AVxhau0FPh5Yr1GKf3TAI) | 3:19 | 2022-05-20 | 2022-09-09 |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

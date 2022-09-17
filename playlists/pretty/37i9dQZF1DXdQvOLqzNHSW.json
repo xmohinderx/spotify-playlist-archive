@@ -1,12 +1,12 @@
 {
   "description": "Slow burners for late nights.",
-  "num_followers": 774055,
+  "num_followers": 774674,
   "original_name": "late night vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzI3MDkxOCwwMDAwMDAwMGZhN2Y3OWMyMmEyOTlkNjk2NjQ4YjYzMjk1Y2MxYWNm",
+  "snapshot_id": "MTY2MzI3MDkxOCwwMDAwMDAwMDM2MDlmM2FjZWNiYmQ2MWQ4ODcwMWQyNTgyNjg4YjY1",
   "tracks": [
     {
       "added_at": "2022-09-09 18:53:21",
@@ -483,6 +483,22 @@
     {
       "added_at": "2022-09-09 18:53:21",
       "album": {
+        "name": "Drukqs",
+        "url": "https://open.spotify.com/album/1maoQPAmw44bbkNOxKlwsx"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 125520,
+      "name": "Avril 14th",
+      "url": "https://open.spotify.com/track/2MZSXhq4XDJWu6coGoXX1V"
+    },
+    {
+      "added_at": "2022-09-09 18:53:21",
+      "album": {
         "name": "Instrumental Relics",
         "url": "https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 277710,
       "name": "I'm God",
       "url": "https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ"
-    },
-    {
-      "added_at": "2022-09-09 18:53:21",
-      "album": {
-        "name": "Drukqs",
-        "url": "https://open.spotify.com/album/1maoQPAmw44bbkNOxKlwsx"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 125520,
-      "name": "Avril 14th",
-      "url": "https://open.spotify.com/track/2MZSXhq4XDJWu6coGoXX1V"
     },
     {
       "added_at": "2022-09-09 18:53:21",
@@ -603,22 +603,6 @@
     {
       "added_at": "2022-09-09 18:53:21",
       "album": {
-        "name": "Care For You",
-        "url": "https://open.spotify.com/album/4ENFZsf6OIKxck9I6gUwrk"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 156026,
-      "name": "Care For You",
-      "url": "https://open.spotify.com/track/2CBtdZVcpSwaxOcLUi1AGo"
-    },
-    {
-      "added_at": "2022-09-09 18:53:21",
-      "album": {
         "name": "Puddles",
         "url": "https://open.spotify.com/album/5W2iq2ETvFF72M8QZiluMM"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 109800,
       "name": "Puddles",
       "url": "https://open.spotify.com/track/1HIkv4ULSAxJZPt2PYdYoV"
+    },
+    {
+      "added_at": "2022-09-09 18:53:21",
+      "album": {
+        "name": "Care For You",
+        "url": "https://open.spotify.com/album/4ENFZsf6OIKxck9I6gUwrk"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 156026,
+      "name": "Care For You",
+      "url": "https://open.spotify.com/track/2CBtdZVcpSwaxOcLUi1AGo"
     },
     {
       "added_at": "2022-09-09 18:53:21",
@@ -943,22 +943,6 @@
     {
       "added_at": "2022-09-09 18:53:21",
       "album": {
-        "name": "The Moon and the Mind",
-        "url": "https://open.spotify.com/album/6EzlIIHKHZtnpdiTmDLZ9X"
-      },
-      "artists": [
-        {
-          "name": "Laffey",
-          "url": "https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7"
-        }
-      ],
-      "duration_ms": 153728,
-      "name": "Drifting Off",
-      "url": "https://open.spotify.com/track/6zDFxF2Mxow4rU9pc7dn7V"
-    },
-    {
-      "added_at": "2022-09-09 18:53:21",
-      "album": {
         "name": "Migration",
         "url": "https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ"
       },
@@ -995,6 +979,22 @@
     {
       "added_at": "2022-09-09 18:53:21",
       "album": {
+        "name": "The Moon and the Mind",
+        "url": "https://open.spotify.com/album/6EzlIIHKHZtnpdiTmDLZ9X"
+      },
+      "artists": [
+        {
+          "name": "Laffey",
+          "url": "https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7"
+        }
+      ],
+      "duration_ms": 153728,
+      "name": "Drifting Off",
+      "url": "https://open.spotify.com/track/6zDFxF2Mxow4rU9pc7dn7V"
+    },
+    {
+      "added_at": "2022-09-09 18:53:21",
+      "album": {
         "name": "Music Has The Right To Children",
         "url": "https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a"
       },
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2022-09-09 18:53:21",
       "album": {
-        "name": "Wild",
-        "url": "https://open.spotify.com/album/2oegpcBiGzsD1JBXKZ9nWD"
-      },
-      "artists": [
-        {
-          "name": "Tourist",
-          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
-        }
-      ],
-      "duration_ms": 324266,
-      "name": "Kin",
-      "url": "https://open.spotify.com/track/3RID7FNOsH3XqUcEsgpq5v"
-    },
-    {
-      "added_at": "2022-09-09 18:53:21",
-      "album": {
         "name": "If It Comes Down To It",
         "url": "https://open.spotify.com/album/5V68mtjh04q5DvhyYnmmBw"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 158810,
       "name": "Quantum Physics",
       "url": "https://open.spotify.com/track/4y9OmPdcd9qSECK7Daz588"
+    },
+    {
+      "added_at": "2022-09-09 18:53:21",
+      "album": {
+        "name": "Wild",
+        "url": "https://open.spotify.com/album/2oegpcBiGzsD1JBXKZ9nWD"
+      },
+      "artists": [
+        {
+          "name": "Tourist",
+          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
+        }
+      ],
+      "duration_ms": 324266,
+      "name": "Kin",
+      "url": "https://open.spotify.com/track/3RID7FNOsH3XqUcEsgpq5v"
     },
     {
       "added_at": "2022-09-09 18:53:21",
@@ -1215,8 +1215,8 @@
     {
       "added_at": "2022-09-09 18:53:21",
       "album": {
-        "name": "You're Too Precious",
-        "url": "https://open.spotify.com/album/0hs2pdNq5QXYWsEcAFVO9q"
+        "name": "Assume Form",
+        "url": "https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L"
       },
       "artists": [
         {
@@ -1224,9 +1224,9 @@
           "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
         }
       ],
-      "duration_ms": 223900,
-      "name": "You're Too Precious",
-      "url": "https://open.spotify.com/track/5teYCP3pROESCEaASCVf5w"
+      "duration_ms": 222400,
+      "name": "I'll Come Too",
+      "url": "https://open.spotify.com/track/6EvUAsfncetT0RcWshHCbl"
     },
     {
       "added_at": "2022-09-09 18:53:21",

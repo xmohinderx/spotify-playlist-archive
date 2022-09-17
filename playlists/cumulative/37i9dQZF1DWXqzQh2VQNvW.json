@@ -80,6 +80,24 @@
     },
     {
       "album": {
+        "name": "5 MO' MINUTES",
+        "url": "https://open.spotify.com/album/5lHWEDIn7EzoD7bRvlpnE5"
+      },
+      "artists": [
+        {
+          "name": "Noah Guy",
+          "url": "https://open.spotify.com/artist/0Cj5PLNNGVOsXUig1ic4s5"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161142,
+      "name": "5 MO' MINUTES",
+      "url": "https://open.spotify.com/track/2IqisFTp3FOh9w7BN4d2dF"
+    },
+    {
+      "album": {
         "name": "abcdefu",
         "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
       },
@@ -113,6 +131,24 @@
       "duration_ms": 149180,
       "name": "Addicted to Losing You",
       "url": "https://open.spotify.com/track/3H0zg6Ds3b54ogapWxya7Q"
+    },
+    {
+      "album": {
+        "name": "Ain't Got Nothin' Figured Out",
+        "url": "https://open.spotify.com/album/0oTaygkYZPGj8dOvRqW6IB"
+      },
+      "artists": [
+        {
+          "name": "MAGIC!",
+          "url": "https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205396,
+      "name": "Ain't Got Nothin' Figured Out",
+      "url": "https://open.spotify.com/track/7K8Rw4AUsIVPGSBdzII44L"
     },
     {
       "album": {
@@ -2705,7 +2741,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 253202,
       "name": "Stars In The Sky (feat. Jhen\u00e9 Aiko)",
       "url": "https://open.spotify.com/track/4gKCKkQbtejYebL9Km5cu1"
@@ -2919,6 +2955,28 @@
       "duration_ms": 155205,
       "name": "Teenage Mind",
       "url": "https://open.spotify.com/track/70vdb3Nf9sUaOax5c6phOT"
+    },
+    {
+      "album": {
+        "name": "Different Man",
+        "url": "https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        },
+        {
+          "name": "Katelyn Brown",
+          "url": "https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174560,
+      "name": "Thank God",
+      "url": "https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8"
     },
     {
       "album": {
@@ -3175,7 +3233,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 212577,
       "name": "When A Girl",
       "url": "https://open.spotify.com/track/7jpcFYI4AEimC0kkFwMiJX"

@@ -4,7 +4,7 @@
 
 > Set it off with these epic anthems\. Only good vibes here!
 
-454 songs - 1 day 0 hr 33 min - [published](https://open.spotify.com/playlist/3Pr9JoGRoGnme0v3kuZyYS)
+455 songs - 1 day 0 hr 35 min - [published](https://open.spotify.com/playlist/3Pr9JoGRoGnme0v3kuZyYS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -303,6 +303,7 @@
 | [OK](https://open.spotify.com/track/0APAKxMXB7jdDs4kw1l30y) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [OK](https://open.spotify.com/album/6AMTezrkvSp7i1PqL0Mb7F) | 3:13 | 2020-04-10 | 2021-08-28 |
 | [OK \- with Remi Wolf & Solomonophonic](https://open.spotify.com/track/2LqczHHyVkIN9WlaQyFG1R) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d), [Solomonophonic](https://open.spotify.com/artist/4Ino9RgrdzNW29Ycx3xxwU) | [OK \(with Remi Wolf & Solomonophonic\)](https://open.spotify.com/album/0MsM0ZsU68EiOBrwtt0Lbz) | 2:42 | 2021-02-19 | 2022-03-05 |
 | [One More \(feat\. Nile Rodgers\)](https://open.spotify.com/track/5bZlKUqFIf0uM3MW03bhlG) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [One More \(feat\. Nile Rodgers\)](https://open.spotify.com/album/4K0AuBe1Mhq8ocmC0bDn6T) | 3:16 | 2021-03-19 | 2021-08-28 |
+| [Only Fan \(feat\. Cordae\)](https://open.spotify.com/track/6514uhzGpeyocCHv5kBih4) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Infinite Dream](https://open.spotify.com/album/7CY2Iv5eX7eGAOdRNHfIBr) | 2:33 | 2022-09-16 |  |
 | [Only for Tonight](https://open.spotify.com/track/6sUsqQGpxgCDBAo1DLUn6s) | [Pearl Charles](https://open.spotify.com/artist/5PWyKTCk0kzNytmI0NI2JX) | [Magic Mirror](https://open.spotify.com/album/2SCEZjr0rIXfh4EfDmkpqI) | 4:32 | 2022-01-05 | 2022-02-01 |
 | [Only You](https://open.spotify.com/track/0bPjOJdD1OV1x3ihKbJMBS) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn), [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Only You](https://open.spotify.com/album/38mvnqi7nhoyC9UXaOwrJQ) | 2:44 | 2022-06-10 | 2022-07-30 |
 | [options](https://open.spotify.com/track/25OHd4BcTuhkeDCxKuCFAm) | [again&again](https://open.spotify.com/artist/3CIq9N0VQGWfBpCAMzMZZN) | [options](https://open.spotify.com/album/5oMug9PYFxLqmj5wstpWgc) | 2:29 | 2020-11-13 | 2021-08-28 |
@@ -446,7 +447,7 @@
 | [Washing Machine Heart](https://open.spotify.com/track/3jjsRKEsF42ccXf8kWR3nu) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq) | 2:08 | 2022-03-28 | 2022-07-09 |
 | [Watermelon Sugar](https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 2:54 | 2022-04-19 |  |
 | [Wave of You](https://open.spotify.com/track/0KfNomDfIkM7suIHb105Oi) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Pacifico](https://open.spotify.com/album/5PrhnVNOKoJC2aLLfabxuB) | 3:33 | 2021-07-01 | 2021-10-05 |
-| [Weatherman](https://open.spotify.com/track/5CmIIBRVQWLX2uXAkuBlS8) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn) | [Weatherman](https://open.spotify.com/album/1zyIXJ3Y7IRMaCbIVAgHYq) | 2:25 | 2022-02-18 |  |
+| [Weatherman](https://open.spotify.com/track/5CmIIBRVQWLX2uXAkuBlS8) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn) | [Weatherman](https://open.spotify.com/album/1zyIXJ3Y7IRMaCbIVAgHYq) | 2:25 | 2022-02-18 | 2022-09-17 |
 | [Weekend](https://open.spotify.com/track/0qPeakaeFndczx9OhJIFp6) | [Clubhouse](https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX) | [Weekend](https://open.spotify.com/album/5vREvSe0O7QJeXhT3OaTLS) | 3:08 | 2020-05-22 | 2021-10-30 |
 | [West Coast](https://open.spotify.com/track/0sBJA2OCEECMs0HsdIQhvR) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [West Coast](https://open.spotify.com/album/1EM2RddQo9GGjrCsE1bk7a) | 3:12 | 2022-02-25 |  |
 | [Western Wind](https://open.spotify.com/track/0Q2FDq304w57PGAKKcC3Qk) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Western Wind](https://open.spotify.com/album/5WCdg2iITZNONNV8Wp5P7M) | 3:45 | 2022-05-06 | 2022-06-11 |

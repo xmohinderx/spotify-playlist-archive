@@ -4,7 +4,7 @@
 
 > Drift away with enthralling instrumentals.
 
-133 songs - 7 hr 6 min - [published](https://open.spotify.com/playlist/0yLqmxmaa7qrm1xUP9mC5t)
+134 songs - 7 hr 10 min - [published](https://open.spotify.com/playlist/0yLqmxmaa7qrm1xUP9mC5t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,10 +33,10 @@
 | [Closer \- Stripped](https://open.spotify.com/track/59ear5ueSaAwD24en6HlIP) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Closer](https://open.spotify.com/album/0xFhKcMfVpMaKd9OK8GNq5) | 5:03 | 2021-12-09 | 2022-05-20 |
 | [Conifer](https://open.spotify.com/track/6gVrAqhSIPSh9iVRa6lgPH) | [Permaculti](https://open.spotify.com/artist/0uHSkfvCjMNDIW6DKaixo4) | [Conifer](https://open.spotify.com/album/2DFrfDDsktqqW94ZgPFEtS) | 3:22 | 2021-12-09 | 2022-09-10 |
 | [Darashinai Beach](https://open.spotify.com/track/6k9EQcMdqJRtmIM3fwy9vW) | [Kenichiban](https://open.spotify.com/artist/1itUqhqM3DvzOekyR0MFva) | [Darashinai Beach](https://open.spotify.com/album/68t75psR1Te5qVxWdhvDoc) | 3:39 | 2021-12-09 |  |
-| [Dedication](https://open.spotify.com/track/21MMzJpLrZ2Ib0nxlQzGvj) | [Hans Johansen](https://open.spotify.com/artist/6mCxkqJgErnJ1HmseA4qsM) | [Dedication](https://open.spotify.com/album/67JarFlTD4R1wIvwAV9ZUD) | 3:24 | 2021-12-09 |  |
+| [Dedication](https://open.spotify.com/track/21MMzJpLrZ2Ib0nxlQzGvj) | [Hans Johansen](https://open.spotify.com/artist/6mCxkqJgErnJ1HmseA4qsM) | [Dedication](https://open.spotify.com/album/67JarFlTD4R1wIvwAV9ZUD) | 3:24 | 2021-12-09 | 2022-09-17 |
 | [Deep Thoughts](https://open.spotify.com/track/3FVd5GGOeJFvU97JFH7jMH) | [Danny Shamoun](https://open.spotify.com/artist/4X9F4TkZ1jKZfWJOTpeb3F) | [Deep Thoughts](https://open.spotify.com/album/3Hrxi0EvyWfNyA3l86ZCBI) | 3:12 | 2021-12-09 |  |
 | [Distant Voices](https://open.spotify.com/track/3eR65X6SJv94InSu0RCqMf) | [Billie Mercedez](https://open.spotify.com/artist/6bERRNVRJkiIq1kChAyaQG) | [Distant Voices](https://open.spotify.com/album/7awFxbltxhtOq6iakKUof5) | 2:56 | 2021-12-09 |  |
-| [Divine Light \- Studio Edit](https://open.spotify.com/track/76b4OvaMSGspOtxlQ7v7Eh) | [NAYAT](https://open.spotify.com/artist/3JjhxaFpKE0rfGl5ik6gNC) | [Lucent Path](https://open.spotify.com/album/3vhS8GgA3Fu9VPS7alGF9d) | 4:00 | 2021-12-09 | 2022-09-16 |
+| [Divine Light \- Studio Edit](https://open.spotify.com/track/76b4OvaMSGspOtxlQ7v7Eh) | [NAYAT](https://open.spotify.com/artist/3JjhxaFpKE0rfGl5ik6gNC) | [Lucent Path](https://open.spotify.com/album/3vhS8GgA3Fu9VPS7alGF9d) | 4:00 | 2021-12-09 |  |
 | [Dreams of Mercury](https://open.spotify.com/track/2M6elrz0YlVFCH4VW7cs6o) | [Chim Suri](https://open.spotify.com/artist/42gcYwvtpQqAOqTarrqiKg) | [Dreams of Mercury](https://open.spotify.com/album/20w0DgJyuI0CcvKQ5CukmL) | 3:12 | 2021-12-09 |  |
 | [Elder From Sabha](https://open.spotify.com/track/71pxVmA8KLRan0jiy8wQOM) | [Witch Soup](https://open.spotify.com/artist/1jNOARYSWbl7xffJBcKxR5) | [Trust and Ritual](https://open.spotify.com/album/7kYBaUfFo6CCBsEgdacAJj) | 3:09 | 2021-12-09 |  |
 | [Elementary Grounds](https://open.spotify.com/track/1dNqMaHUuT86QMuOAKCZvC) | [Michel LeBond](https://open.spotify.com/artist/49r28kFLIBUEgxnjLUvUwA), [Max Schrammel](https://open.spotify.com/artist/02urVxAvr1s1zcKdVaGjpg) | [Elementaries](https://open.spotify.com/album/2g6zhcNijAdGtozLJlYpAI) | 3:40 | 2021-12-09 | 2022-07-29 |
@@ -77,7 +77,7 @@
 | [Luminescent](https://open.spotify.com/track/5OWhqrWWxTYmbYbIpAmE4u) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Luminescent](https://open.spotify.com/album/64UGm861qokqOZbmpjR6du) | 4:24 | 2021-12-09 |  |
 | [Lumineux](https://open.spotify.com/track/6KSBZVXd7VlaiF0tdcZnJz) | [Alice Rolande](https://open.spotify.com/artist/0z2to7jTZIdleuywyDi8zC) | [Lumineux](https://open.spotify.com/album/1X7uHbofmLyvKIWjfSZWqt) | 3:37 | 2021-12-09 |  |
 | [Maitri Lake \(432hz\)](https://open.spotify.com/track/5dXCkj7h7B1Hg4MwTHcixd) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Maitri Lake \(432hz\)](https://open.spotify.com/album/71rEntjg6kz31bN6xUrAHe) | 3:43 | 2021-12-09 | 2022-08-18 |
-| [Masandra Turnings](https://open.spotify.com/track/24QVOrVKmWaFGcWKX9zoyI) | [Tribal Tranquility](https://open.spotify.com/artist/3kqCmBNUxv4gydsfojdTgS) | [Masandra Turnings](https://open.spotify.com/album/4qgEEqId4Jt9s8keIpKv26) | 2:46 | 2021-12-09 |  |
+| [Masandra Turnings](https://open.spotify.com/track/24QVOrVKmWaFGcWKX9zoyI) | [Tribal Tranquility](https://open.spotify.com/artist/3kqCmBNUxv4gydsfojdTgS) | [Masandra Turnings](https://open.spotify.com/album/4qgEEqId4Jt9s8keIpKv26) | 2:46 | 2021-12-09 | 2022-09-17 |
 | [Meditations](https://open.spotify.com/track/1MHEMARc3VukbGGn4pc1oE) | [Drift Far Away](https://open.spotify.com/artist/05QqQCiZ0kiF1jRCm6YRT2) | [Open Sky](https://open.spotify.com/album/6OFXea6xNBtFBbCNXFVaQD) | 4:27 | 2021-12-09 |  |
 | [Mindcrafters](https://open.spotify.com/track/2Z52IJPhFot0N5l61lfSXt) | [Blu Tortle](https://open.spotify.com/artist/031BRepXAp6dkFtycUUs5X) | [Mindcrafters](https://open.spotify.com/album/4FvdLZNZlMMECgYv5f7pWb) | 4:08 | 2021-12-09 | 2022-09-11 |
 | [Minism](https://open.spotify.com/track/2yAb7Su6vkaBvnhCkkBQFx) | [Taylor Deupree](https://open.spotify.com/artist/4X3dUbGsTpVH6EbxtWnj6T) | [Somi](https://open.spotify.com/album/5lZVMWi7YF0XBeRqDlRojo) | 3:47 | 2021-12-09 |  |
@@ -92,6 +92,7 @@
 | [Oriental Journey](https://open.spotify.com/track/5qMWKiZ8NELjkXmCiMf0BX) | [Northern Lights](https://open.spotify.com/artist/0pJ7c6jclXmQmxW4Doz1Ny) | [Meditations for Woods & Winds](https://open.spotify.com/album/6z79twbAshQfUTVxUW8oJH) | 3:25 | 2021-12-09 |  |
 | [Our Powers](https://open.spotify.com/track/1CbxWhH2cl3PXf0Re0TkZD) | [Ramel Alloy](https://open.spotify.com/artist/6cpOQo8qfc2RKZRRvZ5Hkc) | [Our Powers](https://open.spotify.com/album/436sBZ537kyua9vyTdZMQ6) | 2:36 | 2022-07-22 |  |
 | [Pavane, Op\. 50](https://open.spotify.com/track/2cvTKsArRvSBWid2gRrJxo) | [Marcel Depuis](https://open.spotify.com/artist/6rWVhqYY4PMyTdfA48grAa) | [Dramatique Musique Classique](https://open.spotify.com/album/77tCQQ2AjoNlye3AgO7jV4) | 3:28 | 2022-03-25 |  |
+| [Perception](https://open.spotify.com/track/43uAtp536KbblbYD1K6h99) | [Olivier Lupin](https://open.spotify.com/artist/3ho5RtJG5r5HUTsUC7ZLSN) | [Axiom](https://open.spotify.com/album/6LaTHlGk5uI1GZ2R5Hy3RW) | 3:11 | 2022-09-13 |  |
 | [Piano Eléctrico](https://open.spotify.com/track/658ysPC6WdtiRSQjiv2AJZ) | [Rancul](https://open.spotify.com/artist/7cVXjdkl7yJQfp2a76guvf) | [Rancul](https://open.spotify.com/album/30dDuezgO9cqoTGi0cMhPn) | 1:45 | 2021-12-09 |  |
 | [Placidity \- Studio Edit](https://open.spotify.com/track/0vsCKqIDPPFpFgAZdKe0XV) | [SARAB](https://open.spotify.com/artist/6PM7BEoNAzJtH7BRBgagYI) | [Placidity](https://open.spotify.com/album/5JPweRKouRByGPkZZRZ2C2) | 3:01 | 2021-12-09 | 2022-07-29 |
 | [Porte Ma Croix](https://open.spotify.com/track/7LwsgrwaA4eOAEGMGJGmFw) | [Joux](https://open.spotify.com/artist/0TLw363ALNpf7U4FpayQKc) | [Le Petite Prince](https://open.spotify.com/album/7cuyQpOs4rnFmfKi8bZeUz) | 2:58 | 2021-12-09 |  |

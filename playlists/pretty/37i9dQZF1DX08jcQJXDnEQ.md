@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08jcQJXDnEQ.md) - [plain]
 
 > A collection of the biggest Metal classics of the 90s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 666,522 likes - 150 songs - 11 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 666,967 likes - 150 songs - 11 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,15 +91,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08jcQJXDnEQ.md) - [plain]
 | 81 | [Green Machine](https://open.spotify.com/track/6nxHMqTNKWlQnx5AFxz1iX) | [Kyuss](https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs) | [Blues for the Red Sun](https://open.spotify.com/album/7wXj8GxTkGAUU99DXR7n2f) | 3:37 |
 | 82 | [Dead Skin Mask](https://open.spotify.com/track/0t1lDXmMWBzF6mfnQ6KwqZ) | [Slayer](https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk) | [Seasons In The Abyss](https://open.spotify.com/album/49QJ9TAWNqZGbFUvadXPgT) | 5:20 |
 | 83 | [Orgasmatron](https://open.spotify.com/track/5RKNHGP5Nv526dJ5LmgcjX) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Arise](https://open.spotify.com/album/7hgWmH16eu70yqrg5Pc3SM) | 4:14 |
-| 84 | [Love Me Forever](https://open.spotify.com/track/7akyedgeVgZeT6oD77nyHn) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [1916](https://open.spotify.com/album/6mvrfjdgSvwcDXhxyVjWTx) | 5:27 |
-| 85 | [Rust In Peace...Polaris \- Remastered 2004](https://open.spotify.com/track/0803SWqmIJGvZ15B8zsewn) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Rust In Peace \(Expanded Edition\)](https://open.spotify.com/album/0qaLL09EtF1hiUis7PRvaJ) | 5:44 |
+| 84 | [Rust In Peace...Polaris \- Remastered 2004](https://open.spotify.com/track/0803SWqmIJGvZ15B8zsewn) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Rust In Peace \(Expanded Edition\)](https://open.spotify.com/album/0qaLL09EtF1hiUis7PRvaJ) | 5:44 |
+| 85 | [Love Me Forever](https://open.spotify.com/track/7akyedgeVgZeT6oD77nyHn) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [1916](https://open.spotify.com/album/6mvrfjdgSvwcDXhxyVjWTx) | 5:27 |
 | 86 | [Jesus Built My Hotrod](https://open.spotify.com/track/0BX3ysoHJvxmLEhPMAfb2z) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [KE\*A\*H\*\* \(Psalm 69\)](https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5) | 4:52 |
 | 87 | [I'm With Stupid](https://open.spotify.com/track/6uOzYMGucTA0MAFwS2FNB2) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Wisconsin Death Trip](https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5) | 3:24 |
 | 88 | [Monkey Business](https://open.spotify.com/track/57IEwDDEj8q9UQKc0MNR2x) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Slave to the Grind](https://open.spotify.com/album/0AiXcZbksZoX2pSe2384Z3) | 4:18 |
 | 89 | [Counterfeit](https://open.spotify.com/track/2nMN06ZdkOyGrhSDt9CKah) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Three Dollar Bill, Y'all $](https://open.spotify.com/album/3I34EprFC0rlAO4pKNeX1t) | 5:08 |
-| 90 | [Hellraiser](https://open.spotify.com/track/65JrmVnWM5KzM1WrXIY0tI) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [March Or Die](https://open.spotify.com/album/3pbbbyxPPgBTAMbAcVzjex) | 4:35 |
+| 90 | [Space Lord](https://open.spotify.com/track/09bkkXFpOVi3aPLvByyWD5) | [Monster Magnet](https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q) | [Powertrip](https://open.spotify.com/album/67m0zWBKfOzvUmw9UaegiI) | 5:55 |
 | 91 | [Arise](https://open.spotify.com/track/1erRDf98WX0VllciGPYO1H) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Arise](https://open.spotify.com/album/7hgWmH16eu70yqrg5Pc3SM) | 3:18 |
-| 92 | [Space Lord](https://open.spotify.com/track/09bkkXFpOVi3aPLvByyWD5) | [Monster Magnet](https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q) | [Powertrip](https://open.spotify.com/album/67m0zWBKfOzvUmw9UaegiI) | 5:55 |
+| 92 | [Hellraiser](https://open.spotify.com/track/65JrmVnWM5KzM1WrXIY0tI) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [March Or Die](https://open.spotify.com/album/3pbbbyxPPgBTAMbAcVzjex) | 4:35 |
 | 93 | [Pushit](https://open.spotify.com/track/4CbHM5bpfOfMNxNgVDHJRw) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Ænima](https://open.spotify.com/album/6yWMN087PgSimbcVmHLEwG) | 9:55 |
 | 94 | [Dragonaut](https://open.spotify.com/track/6qLgGLeawKyhMFJ848XtYD) | [Sleep](https://open.spotify.com/artist/4Mt6w4tDGiPgV5q6JWPlrI) | [Sleep's Holy Mountain](https://open.spotify.com/album/6L7ENQZtfSKVAq1CIRZSxs) | 5:43 |
 | 95 | [Slaughter Of The Soul](https://open.spotify.com/track/2Vy4z1ZUN7RvN7syWI2yef) | [At The Gates](https://open.spotify.com/artist/6YXarbjg36ODFPez0PnOlD) | [Slaughter Of The Soul](https://open.spotify.com/album/1m0px7K5tJndjxU6RIuL8U) | 3:03 |
@@ -117,8 +117,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08jcQJXDnEQ.md) - [plain]
 | 107 | [Vote with a Bullet](https://open.spotify.com/track/5Z7U8TRHAlX2uL2lVYv5Wa) | [Corrosion Of Conformity](https://open.spotify.com/artist/1BBIIH0h76KN8gYeXFcPjR) | [Blind](https://open.spotify.com/album/7kLqk3fireCdZxAZmCud3k) | 3:25 |
 | 108 | [Body Count's in the House](https://open.spotify.com/track/0ei5rAVjRCUQATivnVwkLN) | [Body Count](https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i) | [Body Count](https://open.spotify.com/album/2J5Lf1s0Q42e31xjSwVd8J) | 3:24 |
 | 109 | [Only](https://open.spotify.com/track/6Aq0Lm7wQRRFYzBQz7pukW) | [Anthrax](https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP) | [Sound of White Noise \- Expanded Edition](https://open.spotify.com/album/0d2JYDKMatUzGPSKo62hza) | 4:56 |
-| 110 | [How The Gods Kill](https://open.spotify.com/track/5w8agmmSkjBh4ScKCAtWqx) | [Danzig](https://open.spotify.com/artist/34c4iQ5tkaZKu6Sv28BTde) | [Danzig III: How The Gods Kill](https://open.spotify.com/album/5FRzKiBPlUkfULxupLXK53) | 5:56 |
-| 111 | [Sick of You](https://open.spotify.com/track/3wYGlCudjkMRvgSC2UqfWS) | [Gwar](https://open.spotify.com/artist/3dnH7fdVm2X07MK6Fkbhbt) | [Scumdogs of the Universe](https://open.spotify.com/album/2rwHhGJXMCY7IkpnWYV11C) | 3:08 |
+| 110 | [Sick of You](https://open.spotify.com/track/3wYGlCudjkMRvgSC2UqfWS) | [Gwar](https://open.spotify.com/artist/3dnH7fdVm2X07MK6Fkbhbt) | [Scumdogs of the Universe](https://open.spotify.com/album/2rwHhGJXMCY7IkpnWYV11C) | 3:08 |
+| 111 | [How The Gods Kill](https://open.spotify.com/track/5w8agmmSkjBh4ScKCAtWqx) | [Danzig](https://open.spotify.com/artist/34c4iQ5tkaZKu6Sv28BTde) | [Danzig III: How The Gods Kill](https://open.spotify.com/album/5FRzKiBPlUkfULxupLXK53) | 5:56 |
 | 112 | [Midlife Crisis](https://open.spotify.com/track/62HyVeSK4fpxjKj6dsI5MP) | [Faith No More](https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5) | [Angel Dust](https://open.spotify.com/album/59GwovfBk0Kp2HJw1G7E5Q) | 4:19 |
 | 113 | [N.W.O.](https://open.spotify.com/track/2D9LxUcR9zWxQtxiHsMA0n) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [KE\*A\*H\*\* \(Psalm 69\)](https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5) | 5:30 |
 | 114 | [Spacegrass](https://open.spotify.com/track/2Mor7Tp1w61mPKozLewqey) | [Clutch](https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ) | [Clutch](https://open.spotify.com/album/5snxt6YTFHrBD8ACd0hPJA) | 6:31 |
@@ -139,8 +139,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08jcQJXDnEQ.md) - [plain]
 | 129 | [Ashes to Ashes](https://open.spotify.com/track/0FxRbTtlo8AutEbifokqGf) | [Faith No More](https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5) | [Album of the Year](https://open.spotify.com/album/15eiCGvldXlDbIz9ZQLmw6) | 3:37 |
 | 130 | [Electric Crown](https://open.spotify.com/track/5gnjaZqOaqE5GZKjby8KoT) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [The Ritual](https://open.spotify.com/album/6YXf0vbjFhURCPUewYhVWE) | 5:30 |
 | 131 | [Powertrip](https://open.spotify.com/track/2855a8NCBwEAAdnJftGizK) | [Monster Magnet](https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q) | [Powertrip](https://open.spotify.com/album/67m0zWBKfOzvUmw9UaegiI) | 3:31 |
-| 132 | [Nobody Hears](https://open.spotify.com/track/2YWneK5JPbsfYuFMFgEon7) | [Suicidal Tendencies](https://open.spotify.com/artist/3WPKDlucMsXH6FC1XaclZC) | [The Art Of Rebellion](https://open.spotify.com/album/0YuCx3bdCJG3n2kuQOhiWL) | 5:32 |
-| 133 | [New Millennium Cyanide Christ](https://open.spotify.com/track/0vpLgxoX2cpJM0Fvxwbw84) | [Meshuggah](https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY) | [Chaosphere \(Reloaded\)](https://open.spotify.com/album/6iqYmBmkI5UcCsTKmhCqSw) | 5:35 |
+| 132 | [New Millennium Cyanide Christ](https://open.spotify.com/track/0vpLgxoX2cpJM0Fvxwbw84) | [Meshuggah](https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY) | [Chaosphere \(Reloaded\)](https://open.spotify.com/album/6iqYmBmkI5UcCsTKmhCqSw) | 5:35 |
+| 133 | [Nobody Hears](https://open.spotify.com/track/2YWneK5JPbsfYuFMFgEon7) | [Suicidal Tendencies](https://open.spotify.com/artist/3WPKDlucMsXH6FC1XaclZC) | [The Art Of Rebellion](https://open.spotify.com/album/0YuCx3bdCJG3n2kuQOhiWL) | 5:32 |
 | 134 | [Cockroaches](https://open.spotify.com/track/6jIVLU8ewF4pWLojWLUca1) | [Nailbomb](https://open.spotify.com/artist/4Q6EFOghPrRjdwsF4p7Nzm) | [Point Blank](https://open.spotify.com/album/0CcgwAkqiglrLu6lH5lrSU) | 5:10 |
 | 135 | [More Human Than Human](https://open.spotify.com/track/6JgxvNYi44NFHCtQmZncTv) | [White Zombie](https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8) | [Astro Creep: 2000 Songs Of Love, Destruction And Other Synthetic Delusions Of The Electric Head](https://open.spotify.com/album/4U9gI7vQHDDo651yYJo02O) | 4:28 |
 | 136 | [Closer](https://open.spotify.com/track/2Mv8In1IykWH5oLDc66PRC) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Downward Spiral](https://open.spotify.com/album/7a7arAXDE0BiaMgHLhdjGF) | 6:13 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08jcQJXDnEQ.md) - [plain]
 | 149 | [Ramones](https://open.spotify.com/track/2Q0Tw6meB6xfZ4ONeIL35j) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [1916](https://open.spotify.com/album/6mvrfjdgSvwcDXhxyVjWTx) | 1:25 |
 | 150 | [Old](https://open.spotify.com/track/5oi4f6KLBORQhQoYNhaPmQ) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Burn My Eyes](https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ) | 4:05 |
 
-Snapshot ID: `MTY2MjAzNzIwMCwwMDAwMDAwMGI0MzgzZDJlYzA0NmM1YTJjNzc1MDgwZGJiMzRkMGRm`
+Snapshot ID: `MTY2MjAzNzIwMCwwMDAwMDAwMDY4ODE1OGYyYjdiMjVmMmFiZDBiNjJkNjdiZWRkOTFh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0prPGsXNyt4.md) - [plain]
 
 > você e ele, você e ela, pique o casal mais mandrake da quebra tlgd\. Foto: MC Paulin da Capital, Mc Dricka
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,525 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,580 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0prPGsXNyt4.md) - [plain]
 | 31 | [Trinta Minutos](https://open.spotify.com/track/09otOI8Suk88Lg1MJmZJPE) | [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Kevin](https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa) | [Hat\-Trick do Tubarão](https://open.spotify.com/album/4tTPMZJo3j4DpD2PbaWUOu) | 3:25 |
 | 32 | [Morena](https://open.spotify.com/track/2W0VenqvlMW4c65YsxT5zu) | [MC Paulin da Capital](https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2), [Dj GM](https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628) | [Morena](https://open.spotify.com/album/7v5z2GBVV7qcIv3Amvn1l0) | 3:17 |
 | 33 | [Amor de Fim de Noite](https://open.spotify.com/track/0nDnvGagGAQP5vpgCyS5yH) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv) | [Amor de Fim de Noite](https://open.spotify.com/album/0ZR4TfAlmGulel1uFDDxRM) | 3:41 |
-| 34 | [Provocando](https://open.spotify.com/track/0PanANwAb7ojeeHjJJI4BG) | [MC Mirella](https://open.spotify.com/artist/57FU7zh1oXdQMT4XhjSsHL), [Mc Gabzin](https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K), [Kotim](https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Provocando](https://open.spotify.com/album/4WuVhChDFRJCtY1FoJkazO) | 2:46 |
-| 35 | [Tudo No Privê](https://open.spotify.com/track/53DZTymdCwUwL9yJdqSLjR) | [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo) | [Tudo No Privê](https://open.spotify.com/album/2QQXWeBTbUpJ6TxUbGL2qn) | 3:31 |
+| 34 | [Tudo No Privê](https://open.spotify.com/track/53DZTymdCwUwL9yJdqSLjR) | [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo) | [Tudo No Privê](https://open.spotify.com/album/2QQXWeBTbUpJ6TxUbGL2qn) | 3:31 |
+| 35 | [Provocando](https://open.spotify.com/track/0PanANwAb7ojeeHjJJI4BG) | [MC Mirella](https://open.spotify.com/artist/57FU7zh1oXdQMT4XhjSsHL), [Mc Gabzin](https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K), [Kotim](https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Provocando](https://open.spotify.com/album/4WuVhChDFRJCtY1FoJkazO) | 2:46 |
 | 36 | [Nosso Flow](https://open.spotify.com/track/2uK2zK0CBh8w2C4Uq8qo7z) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [Nosso Flow](https://open.spotify.com/album/6dqKRg8kzuAiWzFt6pj7JY) | 4:41 |
 | 37 | [Culpa](https://open.spotify.com/track/1FmcDuK4BmnUZ0rXDFsJbX) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW) | [PELE](https://open.spotify.com/album/57LANvZ85BtVlj31EAY7EK) | 2:56 |
 | 38 | [Plano Perfeito](https://open.spotify.com/track/0pihhHbzZ3EhrQj2brZpep) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Haga](https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL) | [Plano Perfeito](https://open.spotify.com/album/3r50qLuSjGVwtSBCAmcRx2) | 3:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0prPGsXNyt4.md) - [plain]
 | 49 | [Pretinha](https://open.spotify.com/track/1aJKGjRUYuuPzQxXwhfhWa) | [MC Marks](https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h) | [Pretinha](https://open.spotify.com/album/37IJvH1R66xwTDAIvrIkcB) | 2:25 |
 | 50 | [Jogo Sujo \(ATO I\)](https://open.spotify.com/track/0d6T67z5wBofFyqmtFzNJg) | [Elli Gomes](https://open.spotify.com/artist/0OFsWETMLou9cRVE45KRqD), [Mop](https://open.spotify.com/artist/7bTwe8ZOLnUGdpX0d9JLzT) | [Jogo Sujo \(ATO I\)](https://open.spotify.com/album/7vLQsKtEo0Wv6lfB3PjWJl) | 2:27 |
 
-Snapshot ID: `MTY2MDI3MzI2MCwwMDAwMDAwMDExMTI1YjBiZTc3NDNjYTdkZDVjMjNhMGEyNDkwZDUx`
+Snapshot ID: `MTY2MDI3MzI2MCwwMDAwMDAwMDJjZTJlMzZhYjlmMWVlZDAzN2Q1YTcxZDBkZDI4ZmI4`

@@ -1,12 +1,12 @@
 {
   "description": "You say guilty, we say non stop bangers!",
-  "num_followers": 3227783,
+  "num_followers": 3228383,
   "original_name": "Guilty Pleasures",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM5MTQ1NywwMDAwMDAwMGM4ZjBlZGY5MmQ5YzVkMjIwYzViODZiYTU2NmFkZjVm",
+  "snapshot_id": "MTY2MjM5MTQ1NywwMDAwMDAwMDI0NjM0Yzg2M2JmMzA3OGNlYWUwOTUxMGFmNzgwMDEy",
   "tracks": [
     {
       "added_at": "2022-09-05 15:24:17",
@@ -291,22 +291,6 @@
     {
       "added_at": "2022-09-05 15:24:17",
       "album": {
-        "name": "Dynasty",
-        "url": "https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 271240,
-      "name": "I Was Made For Lovin' You",
-      "url": "https://open.spotify.com/track/07q0QVgO56EorrSGHC48y3"
-    },
-    {
-      "added_at": "2022-09-05 15:24:17",
-      "album": {
         "name": "The Best Of Earth, Wind & Fire Vol. 1",
         "url": "https://open.spotify.com/album/2FW0uQ4WL25umm5p2VrZO7"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 215093,
       "name": "September",
       "url": "https://open.spotify.com/track/2grjqo0Frpf2okIBiifQKs"
+    },
+    {
+      "added_at": "2022-09-05 15:24:17",
+      "album": {
+        "name": "Dynasty",
+        "url": "https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 271240,
+      "name": "I Was Made For Lovin' You",
+      "url": "https://open.spotify.com/track/07q0QVgO56EorrSGHC48y3"
     },
     {
       "added_at": "2022-09-05 15:24:17",
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-09-05 15:24:17",
       "album": {
-        "name": "1984 (Remastered)",
-        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
-      },
-      "artists": [
-        {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
-        }
-      ],
-      "duration_ms": 241599,
-      "name": "Jump - 2015 Remaster",
-      "url": "https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j"
-    },
-    {
-      "added_at": "2022-09-05 15:24:17",
-      "album": {
         "name": "Meet The Orphans",
         "url": "https://open.spotify.com/album/6mGDfbDErYIJsmSewvccWm"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 214440,
       "name": "All The Things She Said",
       "url": "https://open.spotify.com/track/4bJygwUKrRgq1stlNXcgMg"
+    },
+    {
+      "added_at": "2022-09-05 15:24:17",
+      "album": {
+        "name": "1984 (Remastered)",
+        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "duration_ms": 241599,
+      "name": "Jump - 2015 Remaster",
+      "url": "https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j"
     },
     {
       "added_at": "2022-09-05 15:24:17",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2022-09-05 15:24:17",
       "album": {
+        "name": "Get Rich Or Die Tryin'",
+        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "duration_ms": 193466,
+      "name": "In Da Club",
+      "url": "https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8"
+    },
+    {
+      "added_at": "2022-09-05 15:24:17",
+      "album": {
         "name": "Europop",
         "url": "https://open.spotify.com/album/54vbD17F1t5q3yHkj1cX37"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 283747,
       "name": "Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio",
       "url": "https://open.spotify.com/track/2yAVzRiEQooPEJ9SYx11L3"
-    },
-    {
-      "added_at": "2022-09-05 15:24:17",
-      "album": {
-        "name": "Get Rich Or Die Tryin'",
-        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
-      },
-      "artists": [
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        }
-      ],
-      "duration_ms": 193466,
-      "name": "In Da Club",
-      "url": "https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8"
     },
     {
       "added_at": "2022-09-05 15:24:17",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2022-09-05 15:24:17",
       "album": {
+        "name": "Americana",
+        "url": "https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 188666,
+      "name": "Pretty Fly (For A White Guy)",
+      "url": "https://open.spotify.com/track/3SFXsFpeGmBTtQvKiwYMDA"
+    },
+    {
+      "added_at": "2022-09-05 15:24:17",
+      "album": {
         "name": "Epiphany (Expanded Edition)",
         "url": "https://open.spotify.com/album/6CrSEKCF4TYrbSIitegb3h"
       },
@@ -1359,18 +1375,18 @@
     {
       "added_at": "2022-09-05 15:24:17",
       "album": {
-        "name": "Americana",
-        "url": "https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5"
+        "name": "20th Century Masters: The Millennium Collection: Best Of Semisonic",
+        "url": "https://open.spotify.com/album/4JDBx5wQ82jb8PjLYPBP8L"
       },
       "artists": [
         {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+          "name": "Semisonic",
+          "url": "https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0"
         }
       ],
-      "duration_ms": 188666,
-      "name": "Pretty Fly (For A White Guy)",
-      "url": "https://open.spotify.com/track/3SFXsFpeGmBTtQvKiwYMDA"
+      "duration_ms": 274160,
+      "name": "Closing Time",
+      "url": "https://open.spotify.com/track/1A5V1sxyCLpKJezp75tUXn"
     },
     {
       "added_at": "2022-09-05 15:24:17",
@@ -1387,22 +1403,6 @@
       "duration_ms": 228240,
       "name": "Hot In Herre",
       "url": "https://open.spotify.com/track/04KTF78FFg8sOHC1BADqbY"
-    },
-    {
-      "added_at": "2022-09-05 15:24:17",
-      "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best Of Semisonic",
-        "url": "https://open.spotify.com/album/4JDBx5wQ82jb8PjLYPBP8L"
-      },
-      "artists": [
-        {
-          "name": "Semisonic",
-          "url": "https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0"
-        }
-      ],
-      "duration_ms": 274160,
-      "name": "Closing Time",
-      "url": "https://open.spotify.com/track/1A5V1sxyCLpKJezp75tUXn"
     },
     {
       "added_at": "2022-09-05 15:24:17",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2022-09-05 15:24:17",
       "album": {
-        "name": "The Raw & The Cooked",
-        "url": "https://open.spotify.com/album/6CoeDRu0SmpFtLZMcRTO2F"
-      },
-      "artists": [
-        {
-          "name": "Fine Young Cannibals",
-          "url": "https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp"
-        }
-      ],
-      "duration_ms": 215773,
-      "name": "She Drives Me Crazy",
-      "url": "https://open.spotify.com/track/4d6eqRtpDX7tydHJGDZUBQ"
-    },
-    {
-      "added_at": "2022-09-05 15:24:17",
-      "album": {
         "name": "Stay Hungry",
         "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 219666,
       "name": "We're Not Gonna Take It",
       "url": "https://open.spotify.com/track/1hlveB9M6ijHZRbzZ2teyh"
+    },
+    {
+      "added_at": "2022-09-05 15:24:17",
+      "album": {
+        "name": "The Raw & The Cooked",
+        "url": "https://open.spotify.com/album/6CoeDRu0SmpFtLZMcRTO2F"
+      },
+      "artists": [
+        {
+          "name": "Fine Young Cannibals",
+          "url": "https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp"
+        }
+      ],
+      "duration_ms": 215773,
+      "name": "She Drives Me Crazy",
+      "url": "https://open.spotify.com/track/4d6eqRtpDX7tydHJGDZUBQ"
     },
     {
       "added_at": "2022-09-05 15:24:17",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2022-09-05 15:24:17",
       "album": {
-        "name": "The Sign",
-        "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
-      },
-      "artists": [
-        {
-          "name": "Ace of Base",
-          "url": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
-        }
-      ],
-      "duration_ms": 211213,
-      "name": "All That She Wants",
-      "url": "https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9"
-    },
-    {
-      "added_at": "2022-09-05 15:24:17",
-      "album": {
         "name": "Jealous Ones Still Envy (J.O.S.E)",
         "url": "https://open.spotify.com/album/6vMgb2mih3pPiWUxF8VEdI"
       },
@@ -1819,18 +1803,18 @@
     {
       "added_at": "2022-09-05 15:24:17",
       "album": {
-        "name": "THE E.N.D. (THE ENERGY NEVER DIES)",
-        "url": "https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB"
+        "name": "The Sign",
+        "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
       },
       "artists": [
         {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+          "name": "Ace of Base",
+          "url": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
         }
       ],
-      "duration_ms": 289133,
-      "name": "I Gotta Feeling",
-      "url": "https://open.spotify.com/track/2H1047e0oMSj10dgp7p2VG"
+      "duration_ms": 211213,
+      "name": "All That She Wants",
+      "url": "https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9"
     },
     {
       "added_at": "2022-09-05 15:24:17",
@@ -1851,6 +1835,22 @@
       "duration_ms": 334066,
       "name": "Get Low",
       "url": "https://open.spotify.com/track/0r2Bul2NuCViraT2zX1l5j"
+    },
+    {
+      "added_at": "2022-09-05 15:24:17",
+      "album": {
+        "name": "THE E.N.D. (THE ENERGY NEVER DIES)",
+        "url": "https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "duration_ms": 289133,
+      "name": "I Gotta Feeling",
+      "url": "https://open.spotify.com/track/2H1047e0oMSj10dgp7p2VG"
     },
     {
       "added_at": "2022-09-05 15:24:17",
@@ -1911,6 +1911,22 @@
     {
       "added_at": "2022-09-05 15:24:17",
       "album": {
+        "name": "D-12 World",
+        "url": "https://open.spotify.com/album/61EgDesQnFVyYf2UneM9PQ"
+      },
+      "artists": [
+        {
+          "name": "D12",
+          "url": "https://open.spotify.com/artist/5Qi4Bb7a8C0a00NZcA77L0"
+        }
+      ],
+      "duration_ms": 298773,
+      "name": "My Band",
+      "url": "https://open.spotify.com/track/4XHQyvbrBsQaaBUW1VvmsL"
+    },
+    {
+      "added_at": "2022-09-05 15:24:17",
+      "album": {
         "name": "Whatever",
         "url": "https://open.spotify.com/album/0UkgnXc0w7qiRE2X086BdN"
       },
@@ -1927,18 +1943,18 @@
     {
       "added_at": "2022-09-05 15:24:17",
       "album": {
-        "name": "D-12 World",
-        "url": "https://open.spotify.com/album/61EgDesQnFVyYf2UneM9PQ"
+        "name": "Stay Hungry",
+        "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
       },
       "artists": [
         {
-          "name": "D12",
-          "url": "https://open.spotify.com/artist/5Qi4Bb7a8C0a00NZcA77L0"
+          "name": "Twisted Sister",
+          "url": "https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut"
         }
       ],
-      "duration_ms": 298773,
-      "name": "My Band",
-      "url": "https://open.spotify.com/track/4XHQyvbrBsQaaBUW1VvmsL"
+      "duration_ms": 179760,
+      "name": "I Wanna Rock",
+      "url": "https://open.spotify.com/track/70Z9t1qhytWtG4cCmmi7mU"
     },
     {
       "added_at": "2022-09-05 15:24:17",
@@ -1971,22 +1987,6 @@
       "duration_ms": 187920,
       "name": "All About That Bass",
       "url": "https://open.spotify.com/track/5jE48hhRu8E6zBDPRSkEq7"
-    },
-    {
-      "added_at": "2022-09-05 15:24:17",
-      "album": {
-        "name": "Stay Hungry",
-        "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
-      },
-      "artists": [
-        {
-          "name": "Twisted Sister",
-          "url": "https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut"
-        }
-      ],
-      "duration_ms": 179760,
-      "name": "I Wanna Rock",
-      "url": "https://open.spotify.com/track/70Z9t1qhytWtG4cCmmi7mU"
     },
     {
       "added_at": "2022-09-05 15:24:17",
@@ -2107,22 +2107,6 @@
     {
       "added_at": "2022-09-05 15:24:17",
       "album": {
-        "name": "R&B: From Doo-Wop To Hip-Hop",
-        "url": "https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8"
-      },
-      "artists": [
-        {
-          "name": "Ginuwine",
-          "url": "https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP"
-        }
-      ],
-      "duration_ms": 251733,
-      "name": "Pony",
-      "url": "https://open.spotify.com/track/6mz1fBdKATx6qP4oP1I65G"
-    },
-    {
-      "added_at": "2022-09-05 15:24:17",
-      "album": {
         "name": "A Place In The Sun",
         "url": "https://open.spotify.com/album/3w5Uz3q4SJze14P60ZChsp"
       },
@@ -2135,6 +2119,22 @@
       "duration_ms": 169026,
       "name": "My Own Worst Enemy",
       "url": "https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z"
+    },
+    {
+      "added_at": "2022-09-05 15:24:17",
+      "album": {
+        "name": "R&B: From Doo-Wop To Hip-Hop",
+        "url": "https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8"
+      },
+      "artists": [
+        {
+          "name": "Ginuwine",
+          "url": "https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP"
+        }
+      ],
+      "duration_ms": 251733,
+      "name": "Pony",
+      "url": "https://open.spotify.com/track/6mz1fBdKATx6qP4oP1I65G"
     },
     {
       "added_at": "2022-09-05 15:24:17",
@@ -2155,22 +2155,6 @@
     {
       "added_at": "2022-09-05 15:24:17",
       "album": {
-        "name": "The Essential Journey",
-        "url": "https://open.spotify.com/album/5pfpXvoJtSIFrbPIoBEv3R"
-      },
-      "artists": [
-        {
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
-        }
-      ],
-      "duration_ms": 248906,
-      "name": "Don't Stop Believin'",
-      "url": "https://open.spotify.com/track/77NNZQSqzLNqh2A9JhLRkg"
-    },
-    {
-      "added_at": "2022-09-05 15:24:17",
-      "album": {
         "name": "Girls, Girls, Girls",
         "url": "https://open.spotify.com/album/2KT9tWALjIRjnaGYDYPg3k"
       },
@@ -2187,6 +2171,22 @@
     {
       "added_at": "2022-09-05 15:24:17",
       "album": {
+        "name": "The Essential Journey",
+        "url": "https://open.spotify.com/album/5pfpXvoJtSIFrbPIoBEv3R"
+      },
+      "artists": [
+        {
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        }
+      ],
+      "duration_ms": 248906,
+      "name": "Don't Stop Believin'",
+      "url": "https://open.spotify.com/track/77NNZQSqzLNqh2A9JhLRkg"
+    },
+    {
+      "added_at": "2022-09-05 15:24:17",
+      "album": {
         "name": "On How Life Is",
         "url": "https://open.spotify.com/album/50DkoLL4ArRVXhWx9ssQSe"
       },
@@ -2199,22 +2199,6 @@
       "duration_ms": 239440,
       "name": "I Try",
       "url": "https://open.spotify.com/track/5TAf4lnZCZTLlZHNZMLFLi"
-    },
-    {
-      "added_at": "2022-09-05 15:24:17",
-      "album": {
-        "name": "Blazzin' Fire",
-        "url": "https://open.spotify.com/album/0zLd8jpRt4m6FWCu81Fb9n"
-      },
-      "artists": [
-        {
-          "name": "Inner Circle",
-          "url": "https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx"
-        }
-      ],
-      "duration_ms": 227067,
-      "name": "Sweat (A La La La La Long)",
-      "url": "https://open.spotify.com/track/1SssFw74DdHVjRa6ADggdD"
     },
     {
       "added_at": "2022-09-05 15:24:17",
@@ -2247,6 +2231,22 @@
       "duration_ms": 224693,
       "name": "She's so High",
       "url": "https://open.spotify.com/track/7mnGQesk1TzQLzQ9bYWZPR"
+    },
+    {
+      "added_at": "2022-09-05 15:24:17",
+      "album": {
+        "name": "Blazzin' Fire",
+        "url": "https://open.spotify.com/album/0zLd8jpRt4m6FWCu81Fb9n"
+      },
+      "artists": [
+        {
+          "name": "Inner Circle",
+          "url": "https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx"
+        }
+      ],
+      "duration_ms": 227067,
+      "name": "Sweat (A La La La La Long)",
+      "url": "https://open.spotify.com/track/1SssFw74DdHVjRa6ADggdD"
     },
     {
       "added_at": "2022-09-05 15:24:17",

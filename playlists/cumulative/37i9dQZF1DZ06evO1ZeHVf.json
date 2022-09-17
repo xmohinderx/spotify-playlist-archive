@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-09-15",
   "description": "This is CeCe Winans. The essential tracks, all in one playlist.",
   "name": "This Is CeCe Winans",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "4GNN9EtwRM1Eshpu0xwF9x"
+  ],
   "tracks": [
     {
       "album": {
@@ -267,7 +269,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-16",
+      "date_removed": null,
       "duration_ms": 250266,
       "name": "Hallelujah Praise (The Highest Praise)",
       "url": "https://open.spotify.com/track/4YTCoAFZ03GBHCdoZh0KGl"

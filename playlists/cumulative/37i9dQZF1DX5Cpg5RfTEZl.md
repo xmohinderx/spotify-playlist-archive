@@ -4,13 +4,14 @@
 
 > ¿A vuelta de rueda? Con esta playlist el camino será más ligero.
 
-151 songs - 8 hr 48 min - [published](https://open.spotify.com/playlist/1LEmf4BEmZLASdw3vzJnQn)
+152 songs - 8 hr 51 min - [published](https://open.spotify.com/playlist/1LEmf4BEmZLASdw3vzJnQn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1, 2, 3 \(feat\. Jason Derulo & De La Ghetto\)](https://open.spotify.com/track/4QtiVmuA88tPQiCOHZuQ5b) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [1, 2, 3 \(feat\. Jason Derulo & De La Ghetto\)](https://open.spotify.com/album/1jHSAfCHKUFx5imuezI7HE) | 3:21 | 2022-07-18 |  |
 | [12x3](https://open.spotify.com/track/0HINQFSerZ6iMfSsaTO3G5) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [12x3](https://open.spotify.com/album/2yTsZhJ86LtD1hvl8wSRPr) | 2:39 | 2022-02-25 |  |
 | [3 A.M.](https://open.spotify.com/track/0yyZN5ASdrYu0XYWFzfxUu) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [3 A.M.](https://open.spotify.com/album/6DAFWiPpok2nZEtjdSZO3X) | 3:03 | 2021-12-17 | 2022-07-29 |
+| [5 Estrellas](https://open.spotify.com/track/3XbzMSWKdp8FzcQHA9BeXw) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [5 Estrellas](https://open.spotify.com/album/2yANiBjyI4vqHfUax5a8RF) | 3:11 | 2022-08-30 |  |
 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2022-03-29 | 2022-04-21 |
 | [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 | 2022-06-27 |  |
 | [Ahora Te Puedes Marchar](https://open.spotify.com/track/1uKjQoh8JZj9ryuYRhpd7E) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Soy Como Quiero Ser](https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z) | 3:11 | 2021-12-17 |  |
@@ -131,7 +132,7 @@
 | [Tattoo \- Remix with Camilo](https://open.spotify.com/track/4G3PTss3mU33Tau7t4KbwE) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Afrodisíaco](https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v) | 3:42 | 2021-12-17 | 2022-07-29 |
 | [Te Felicito](https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Te Felicito](https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH) | 2:52 | 2022-06-06 |  |
 | [Te Lloré Un Río](https://open.spotify.com/track/6uYtv0KmSNBGFfaY7yW8tY) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Te Lloré Un Río](https://open.spotify.com/album/7GV5uaJVmICyAAdEoUgKbd) | 3:50 | 2022-03-11 | 2022-08-03 |
-| [Te Marqué Pedo](https://open.spotify.com/track/4hAYQuavbB0FYhyxBTbVal) | [Alex Luna](https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2), [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [Te Marqué Pedo](https://open.spotify.com/album/5RY8g4VHQsgPDxewtnPIEX) | 3:36 | 2022-02-25 |  |
+| [Te Marqué Pedo](https://open.spotify.com/track/4hAYQuavbB0FYhyxBTbVal) | [Alex Luna](https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2), [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [Te Marqué Pedo](https://open.spotify.com/album/5RY8g4VHQsgPDxewtnPIEX) | 3:36 | 2022-02-25 | 2022-09-17 |
 | [Te Vi](https://open.spotify.com/track/059bcIhyc2SBwm6sw2AZzd) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Te Vi](https://open.spotify.com/album/02XOoh8XrlCc466QkkjGk5) | 3:51 | 2021-12-17 |  |
 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 | 2021-12-17 | 2022-06-07 |
 | [Thunder](https://open.spotify.com/track/1zB4vmk8tFRmM9UULNzbLB) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) | 3:07 | 2022-03-29 | 2022-04-21 |

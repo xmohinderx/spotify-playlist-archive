@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MXH7aN4Pxn.md) - [plain]
 
 > Turn the energy levels up and join the party wherever you are!
 
-[Spotify](https://open.spotify.com/user/spotify) - 688,611 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 688,590 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MXH7aN4Pxn.md) - [plain]
 | 96 | [Look Into My Eyes](https://open.spotify.com/track/4XjwHKoDGFWHFi45edRl7y) | [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE) | [Look Into My Eyes](https://open.spotify.com/album/4beerxXaNWkQKZfXSEjGZq) | 2:34 |
 | 97 | [Tell It To My Heart \(feat\. Hozier\) \- KVSH Remix](https://open.spotify.com/track/0AxvmNaxYKmO4xPptkKsnZ) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS), [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB) | [Tell It To My Heart \(KVSH Remix\)](https://open.spotify.com/album/1mH6foqOI76VKUn1RvAFYb) | 3:03 |
 | 98 | [Erase Me](https://open.spotify.com/track/73CRQe51UEpa3B6ZG7QEsl) | [Ben Hemsley](https://open.spotify.com/artist/366L4EjZXBPYbHs9XDQILZ) | [Erase Me](https://open.spotify.com/album/2uWVzN9RsU8Wf1secl0sdX) | 4:03 |
-| 99 | [Too Many Nights \(with JC Stewart\)](https://open.spotify.com/track/13YIDpKrL2caqJ3YF52uzJ) | [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs), [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [Too Many Nights \(with JC Stewart\)](https://open.spotify.com/album/3LpBXkbjSgFi8wnWionndt) | 3:08 |
-| 100 | [There For You](https://open.spotify.com/track/4Qv71lFPCObf7zol1uWCJb) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [There For You](https://open.spotify.com/album/6NzQodogOTKSt76iDpZgpK) | 3:06 |
+| 99 | [There For You](https://open.spotify.com/track/4Qv71lFPCObf7zol1uWCJb) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [There For You](https://open.spotify.com/album/6NzQodogOTKSt76iDpZgpK) | 3:06 |
+| 100 | [Too Many Nights \(with JC Stewart\)](https://open.spotify.com/track/13YIDpKrL2caqJ3YF52uzJ) | [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs), [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [Too Many Nights \(with JC Stewart\)](https://open.spotify.com/album/3LpBXkbjSgFi8wnWionndt) | 3:08 |
 
-Snapshot ID: `MTY2MTE5MDk2NSwwMDAwMDAwMDI2ZDJlMDYyZWQ1Y2E0MTdkMWY3ZmJlMzJjYjU4MGQ0`
+Snapshot ID: `MTY2MTE5MDk2NSwwMDAwMDAwMDE1OTAxZGE1NDk2OGQ2OWRhOTZjNTU3ZDA1NmI3ZmEx`

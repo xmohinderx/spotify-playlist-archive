@@ -125,7 +125,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 182693,
       "name": "4Real",
       "url": "https://open.spotify.com/track/5BITVk0U3V7Q8DRaQSJTCr"
@@ -410,6 +410,32 @@
     },
     {
       "album": {
+        "name": "Believe (Stimulator Jones Remix)",
+        "url": "https://open.spotify.com/album/0BVAjSv4kEmopbL8Elklv4"
+      },
+      "artists": [
+        {
+          "name": "B. Bravo",
+          "url": "https://open.spotify.com/artist/7xc31aDpVtMW34JWjZvAG4"
+        },
+        {
+          "name": "Chuck Inglish",
+          "url": "https://open.spotify.com/artist/64MoApwh8MFMHUarm13lrv"
+        },
+        {
+          "name": "Stimulator Jones",
+          "url": "https://open.spotify.com/artist/7uuvPwRD3I1UHDPNnbaY6C"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173742,
+      "name": "Believe - Stimulator Jones Remix",
+      "url": "https://open.spotify.com/track/2U77XlwVr3PLiSeiW92J2K"
+    },
+    {
+      "album": {
         "name": "Dangerous (Deluxe Edition)",
         "url": "https://open.spotify.com/album/57B9Y6aPOvsBg4bAHyydN4"
       },
@@ -495,6 +521,28 @@
       "duration_ms": 173139,
       "name": "Blues",
       "url": "https://open.spotify.com/track/0hXgSNOJ5P1ha2uNPa3yzo"
+    },
+    {
+      "album": {
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/7yf3T5Ga0DpWFjqzoMkXK2"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145862,
+      "name": "Blues (feat. Future)",
+      "url": "https://open.spotify.com/track/28gBJ6GG1orRuc4Ck3y45n"
     },
     {
       "album": {
@@ -787,7 +835,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 187000,
       "name": "COCO BADASS (feat. Ki\u00e9la Adira)",
       "url": "https://open.spotify.com/track/3KMTZV1aEMrzrObovCpf6d"
@@ -886,6 +934,24 @@
     },
     {
       "album": {
+        "name": "Dance",
+        "url": "https://open.spotify.com/album/68Fi9xhCZN2WCQpCQthoLY"
+      },
+      "artists": [
+        {
+          "name": "Rockie Fresh",
+          "url": "https://open.spotify.com/artist/5Joy3NHmxKQGEOnjxtaMz3"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120048,
+      "name": "Dance",
+      "url": "https://open.spotify.com/track/6lQIvzV8RmhUeIEjmNeSgK"
+    },
+    {
+      "album": {
         "name": "Praise & Worship",
         "url": "https://open.spotify.com/album/09AhjqYpkeVim8uln6uD5U"
       },
@@ -901,7 +967,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 172800,
       "name": "Dark Man X",
       "url": "https://open.spotify.com/track/7CG8yhP3ybtiNsZjfyjOv0"
@@ -1453,7 +1519,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 150746,
       "name": "Freak Nasty",
       "url": "https://open.spotify.com/track/6FQrsqNNyWbRAn4pIpcjPG"
@@ -1479,6 +1545,28 @@
       "duration_ms": 194560,
       "name": "Fuck My Cousin, Pt. II (feat. Lil Durk)",
       "url": "https://open.spotify.com/track/6QCWPC6OFUxuoaMtRe573z"
+    },
+    {
+      "album": {
+        "name": "Game Over (with Queen Naija)",
+        "url": "https://open.spotify.com/album/6UtOcqphciSIZPqkl66UqR"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        },
+        {
+          "name": "Queen Naija",
+          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208777,
+      "name": "Game Over (with Queen Naija)",
+      "url": "https://open.spotify.com/track/1l6NtBAh7CHmV4OY4PZZs8"
     },
     {
       "album": {
@@ -1581,7 +1669,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 135440,
       "name": "GO GO GO!",
       "url": "https://open.spotify.com/track/6WBOshy2g5d3HiFMCRmsoF"
@@ -1759,6 +1847,32 @@
       "duration_ms": 226373,
       "name": "Hate Our Love (with Big Sean)",
       "url": "https://open.spotify.com/track/3pEINn37iH5fx8TpXYNGIO"
+    },
+    {
+      "album": {
+        "name": "HDBG (Shemix)",
+        "url": "https://open.spotify.com/album/6ol7utlb56Owco0kPzLhbt"
+      },
+      "artists": [
+        {
+          "name": "cupcakKe",
+          "url": "https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM"
+        },
+        {
+          "name": "Erica Banks",
+          "url": "https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM"
+        },
+        {
+          "name": "Tweeday",
+          "url": "https://open.spotify.com/artist/6X94tEGcPVz8dyYUZqUHWj"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141453,
+      "name": "HDBG (Shemix)",
+      "url": "https://open.spotify.com/track/2A59foYLjX4iUuvtncE8BZ"
     },
     {
       "album": {
@@ -2611,7 +2725,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 163850,
       "name": "Looking for Water (feat. Boldy James)",
       "url": "https://open.spotify.com/track/3d7ElSqY4RDoqSWe5rJCAc"
@@ -3037,7 +3151,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 136258,
       "name": "No Cap",
       "url": "https://open.spotify.com/track/4wLWQs5JlZ8NvPzrRepgER"
@@ -3151,6 +3265,36 @@
       "duration_ms": 235346,
       "name": "Nothing For Free",
       "url": "https://open.spotify.com/track/4tfmH97RvIxvgqwvuwcs3l"
+    },
+    {
+      "album": {
+        "name": "Real Bad Flights",
+        "url": "https://open.spotify.com/album/5IzL4SNjpC0xWGSmXoPy3o"
+      },
+      "artists": [
+        {
+          "name": "Pink Siifu",
+          "url": "https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh"
+        },
+        {
+          "name": "Real Bad Man",
+          "url": "https://open.spotify.com/artist/1AmknJ29fbA6ahZXxFCNLE"
+        },
+        {
+          "name": "EZ",
+          "url": "https://open.spotify.com/artist/4a1e24ig2L5QRg85bpKxU3"
+        },
+        {
+          "name": "Kari Faux",
+          "url": "https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209934,
+      "name": "Off the Plane (feat. EZ & Kari Faux)",
+      "url": "https://open.spotify.com/track/0UIz7wMSXJdAd59NSZScLA"
     },
     {
       "album": {
@@ -3309,7 +3453,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 112175,
       "name": "Pages",
       "url": "https://open.spotify.com/track/10yOU0oIfzz7SxdlQjtBKo"
@@ -3795,6 +3939,28 @@
       "duration_ms": 173987,
       "name": "Save Me (feat. Lil Durk)",
       "url": "https://open.spotify.com/track/5HN3ikspb1MOyJ0MMjn55I"
+    },
+    {
+      "album": {
+        "name": "Say Datt",
+        "url": "https://open.spotify.com/album/5pbbxNP5PcmG8lh0iZx0f0"
+      },
+      "artists": [
+        {
+          "name": "Fastmoney Ant",
+          "url": "https://open.spotify.com/artist/1r1AoJILFfEvsqNiG85zwL"
+        },
+        {
+          "name": "Lil Zay Osama",
+          "url": "https://open.spotify.com/artist/7rkcFChEJ9tCLcVevtu0Nt"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151227,
+      "name": "Say Datt",
+      "url": "https://open.spotify.com/track/14Rg3f4eF9LoVZObgxkKiP"
     },
     {
       "album": {
@@ -5047,6 +5213,28 @@
       "duration_ms": 210410,
       "name": "Xo",
       "url": "https://open.spotify.com/track/5YucInFTnFthEkJi7MY4y7"
+    },
+    {
+      "album": {
+        "name": "Xtasy (Remix) [feat. Doechii]",
+        "url": "https://open.spotify.com/album/4Wofyf34UgjYpqwPAELW7n"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        },
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270497,
+      "name": "Xtasy (Remix) [feat. Doechii]",
+      "url": "https://open.spotify.com/track/610faOY46uYOBi3KXazpSj"
     },
     {
       "album": {

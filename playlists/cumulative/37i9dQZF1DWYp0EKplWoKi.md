@@ -2,9 +2,9 @@
 
 ### [El Junte](https://open.spotify.com/playlist/37i9dQZF1DWYp0EKplWoKi)
 
-> La esquina donde la Música Mexicana se junta con los ritmos urbanos\. Flyboiz & Luis Alfonso Partida El Yaki en portada.
+> La esquina donde la Música Mexicana se junta con los ritmos urbanos\. Luis R Conriquez, Tony Aguirre, Rod Contreras & Jay Silva en portada.
 
-64 songs - 3 hr 28 min - [published](https://open.spotify.com/playlist/12peez7nV9NUKo6SrNqY8h)
+65 songs - 3 hr 30 min - [published](https://open.spotify.com/playlist/12peez7nV9NUKo6SrNqY8h)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [De A De Veras](https://open.spotify.com/track/21aZ4e4lJiFmqRzNiPXqhP) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [De A De Veras](https://open.spotify.com/album/3NgALGjGhMc27JBclVPTBV) | 3:42 | 2022-03-16 |  |
 | [Desde Morro](https://open.spotify.com/track/5u6lAvdS8mmHHTHQlC3TtN) | [Justin Morales](https://open.spotify.com/artist/5D7x9esAF6twPxuOqSMkeO) | [Desde Morro](https://open.spotify.com/album/6ruqxBlrH2BEZKZjgG3hSS) | 2:26 | 2021-12-17 |  |
 | [Desvielados](https://open.spotify.com/track/3N1D4VrIeFeZyraFaIOakm) | [Remik Gonzalez](https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6), [BeeJay](https://open.spotify.com/artist/2Ki5IbMaLO1tpVSOBItanZ) | [IceWeed\-Man](https://open.spotify.com/album/3q5JdUUCimWQCm9bRsxcD8) | 4:12 | 2021-12-17 |  |
-| [Dos Mundos](https://open.spotify.com/track/5bcwDKs6i2A4FQWRlPTvDA) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Dos Mundos](https://open.spotify.com/album/0fK7EQycUMyl2lCiIaxltA) | 3:16 | 2021-12-17 |  |
+| [Dos Mundos](https://open.spotify.com/track/5bcwDKs6i2A4FQWRlPTvDA) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Dos Mundos](https://open.spotify.com/album/0fK7EQycUMyl2lCiIaxltA) | 3:16 | 2021-12-17 | 2022-09-17 |
 | [El Belicon](https://open.spotify.com/track/15UfWisTMmHsMjkUUEAoAa) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Raul Vega](https://open.spotify.com/artist/3RG6ihKgeBkOsLAPZxoPp9) | [El Belicon](https://open.spotify.com/album/6l45wmyk7pToSObs3qSl94) | 3:34 | 2022-02-04 |  |
 | [El Canelo](https://open.spotify.com/track/6QS5NH5nsU6WT5rOc2HMSp) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P), [Emmanuel Delgado](https://open.spotify.com/artist/0DdtXiP9thBdEr62EwYYOy) | [El Canelo](https://open.spotify.com/album/6SM6UFkLSFLL8MKKyvDOCU) | 2:38 | 2022-09-09 |  |
 | [El Mero Mero](https://open.spotify.com/track/1kOzNZLM7Hmdfl7mm3IEpd) | [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [El Mero Mero](https://open.spotify.com/album/0ZYDVpUhNqMIXdqAv1lrEw) | 3:06 | 2022-08-05 |  |
@@ -38,6 +38,7 @@
 | [Estamos Aquí](https://open.spotify.com/track/74Ubz79KvXRUZWoJIIZl7f) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Estamos Aquí](https://open.spotify.com/album/6IbnsjiPCSJwhALs37S2Mu) | 3:02 | 2022-04-22 |  |
 | [Estrellas](https://open.spotify.com/track/0lEhCYREsnlzPTDFVWgSCv) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Estrellas](https://open.spotify.com/album/0bO3g7DlawvGhpl4jpRU06) | 3:06 | 2022-04-01 | 2022-09-10 |
 | [Falso Amigo](https://open.spotify.com/track/7Gmh0Emb8tt5XKCavZZfvD) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Falso Amigo](https://open.spotify.com/album/7iKG6XMWGzrz8OpST6DjRL) | 3:15 | 2022-08-05 |  |
+| [Guisao](https://open.spotify.com/track/0FPDGbsYjSZUJljhz6FewQ) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Rod Contreras](https://open.spotify.com/artist/4SbYUG4R0ZDhpDZaJqap9Y), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Jay Silva](https://open.spotify.com/artist/4WUY2d3N6bKRs8rGh6xamn) | [Guisao](https://open.spotify.com/album/2llE874y2h7CZWyMeTfbAo) | 2:19 | 2022-09-16 |  |
 | [Hoy Se Amerita](https://open.spotify.com/track/2cnxxpTjSby0FmV2FnhjxA) | [Flyboiz](https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [Hoy Se Amerita](https://open.spotify.com/album/4Bw3M3YZnEULlh1OQYtmWH) | 3:26 | 2022-09-09 |  |
 | [Humo](https://open.spotify.com/track/5PnXwGXWNHK0jJhKpeyg88) | [Flyboiz](https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V), [Jessy Castillo](https://open.spotify.com/artist/6MPmMMvkDjhd2SxWm8jQ61) | [Humo](https://open.spotify.com/album/6U3xMwALsK9e4B8OFgVW92) | 3:24 | 2022-08-05 |  |
 | [Híbrido](https://open.spotify.com/track/5iBBLeUl4UfynWgcJWVGsU) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Híbrido](https://open.spotify.com/album/165Qn8sAYgcxfNvDKFD9kv) | 2:54 | 2021-12-17 | 2022-08-06 |

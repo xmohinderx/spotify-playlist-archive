@@ -3090,6 +3090,28 @@
     },
     {
       "album": {
+        "name": "Outside the Box",
+        "url": "https://open.spotify.com/album/7n8oIGDVjdkgiRql7hPwbT"
+      },
+      "artists": [
+        {
+          "name": "Gene Watson",
+          "url": "https://open.spotify.com/artist/3VQfHuqrRK1CNXR1V8PeR9"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174080,
+      "name": "Wonderful Future",
+      "url": "https://open.spotify.com/track/0FVX4SksBjtW12WwXmaTvA"
+    },
+    {
+      "album": {
         "name": "Promised Land: The Lost Album",
         "url": "https://open.spotify.com/album/6Jiv6V6D16E3SkkIcqCY77"
       },

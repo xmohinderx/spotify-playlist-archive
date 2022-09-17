@@ -1,12 +1,12 @@
 {
   "description": "Spillelisten som byr p\u00e5 en rekke b\u00f8gdebangers du liker \u00e5 spelle i kjerra! Cover: Den BB & Oskar Westerlin",
-  "num_followers": 88050,
+  "num_followers": 88107,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzI3OTIwMCwwMDAwMDAwMGU4YTg0M2IyY2VmODhkMjQ3ZGYwNjIzMTk5OTQzMmQ5",
+  "snapshot_id": "MTY2MzI3OTIwMCwwMDAwMDAwMDZkYzdhODEwNmYzODc5Nzk1MWQ0YWM0Y2M2ZTA4ZGU3",
   "tracks": [
     {
       "added_at": "2022-09-15 22:00:00",
@@ -195,6 +195,22 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
+        "name": "Geasseijat",
+        "url": "https://open.spotify.com/album/3shwdZY9LBfiRuAHpt3TNT"
+      },
+      "artists": [
+        {
+          "name": "rOlfFa",
+          "url": "https://open.spotify.com/artist/4Rdh0AevBwePcuPgt8fNeM"
+        }
+      ],
+      "duration_ms": 263226,
+      "name": "Hjerteknuser",
+      "url": "https://open.spotify.com/track/6D2Hxj0e7gZojlFBV1fKBx"
+    },
+    {
+      "added_at": "2022-09-15 22:00:00",
+      "album": {
         "name": "Block Party",
         "url": "https://open.spotify.com/album/6zkX0G2P3biWJLOCTf0KIj"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 125555,
       "name": "Block Party",
       "url": "https://open.spotify.com/track/26d3s0266f5EwHuRr5CxPi"
-    },
-    {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
-        "name": "Geasseijat",
-        "url": "https://open.spotify.com/album/3shwdZY9LBfiRuAHpt3TNT"
-      },
-      "artists": [
-        {
-          "name": "rOlfFa",
-          "url": "https://open.spotify.com/artist/4Rdh0AevBwePcuPgt8fNeM"
-        }
-      ],
-      "duration_ms": 263226,
-      "name": "Hjerteknuser",
-      "url": "https://open.spotify.com/track/6D2Hxj0e7gZojlFBV1fKBx"
     },
     {
       "added_at": "2022-09-15 22:00:00",
@@ -319,22 +319,22 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
-        "name": "Gatebil",
-        "url": "https://open.spotify.com/album/5iFNfypkmE4SFFbcaG84uH"
+        "name": "Kj\u00e6re Alkohol feat. Roc Boyz (Hall of Fame)",
+        "url": "https://open.spotify.com/album/6d0YHvx8Sq39C1c2j8kpXy"
       },
       "artists": [
         {
-          "name": "Hagle",
-          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+          "name": "Ballinciaga",
+          "url": "https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv"
         },
         {
-          "name": "TIX",
-          "url": "https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9"
+          "name": "Roc Boyz",
+          "url": "https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa"
         }
       ],
-      "duration_ms": 128284,
-      "name": "Gatebil",
-      "url": "https://open.spotify.com/track/0YlfDO5PU8KDmkNOuC4Dpe"
+      "duration_ms": 120312,
+      "name": "Kj\u00e6re Alkohol feat. Roc Boyz (Hall of Fame)",
+      "url": "https://open.spotify.com/track/35Wj4BI93AUX20ZIXsKJHy"
     },
     {
       "added_at": "2022-09-15 22:00:00",
@@ -359,26 +359,6 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
-        "name": "Kj\u00e6re Alkohol feat. Roc Boyz (Hall of Fame)",
-        "url": "https://open.spotify.com/album/6d0YHvx8Sq39C1c2j8kpXy"
-      },
-      "artists": [
-        {
-          "name": "Ballinciaga",
-          "url": "https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv"
-        },
-        {
-          "name": "Roc Boyz",
-          "url": "https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa"
-        }
-      ],
-      "duration_ms": 120312,
-      "name": "Kj\u00e6re Alkohol feat. Roc Boyz (Hall of Fame)",
-      "url": "https://open.spotify.com/track/35Wj4BI93AUX20ZIXsKJHy"
-    },
-    {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
         "name": "En g\u00e5ng till",
         "url": "https://open.spotify.com/album/2g1GNjRGreJp22uF1ZUIAy"
       },
@@ -391,6 +371,26 @@
       "duration_ms": 163346,
       "name": "En g\u00e5ng till",
       "url": "https://open.spotify.com/track/0FupHylTHhYVgWAwzq5h58"
+    },
+    {
+      "added_at": "2022-09-15 22:00:00",
+      "album": {
+        "name": "Gatebil",
+        "url": "https://open.spotify.com/album/5iFNfypkmE4SFFbcaG84uH"
+      },
+      "artists": [
+        {
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+        },
+        {
+          "name": "TIX",
+          "url": "https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9"
+        }
+      ],
+      "duration_ms": 128284,
+      "name": "Gatebil",
+      "url": "https://open.spotify.com/track/0YlfDO5PU8KDmkNOuC4Dpe"
     },
     {
       "added_at": "2022-09-15 22:00:00",
@@ -511,26 +511,6 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
-        "name": "B\u00f8gda",
-        "url": "https://open.spotify.com/album/2FlHmlFjUImjvasA84suRu"
-      },
-      "artists": [
-        {
-          "name": "Hagle",
-          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
-        },
-        {
-          "name": "Staysman",
-          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
-        }
-      ],
-      "duration_ms": 164127,
-      "name": "B\u00f8gda",
-      "url": "https://open.spotify.com/track/1MpCvOlkM8VbH50AL7mAUm"
-    },
-    {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
         "name": "Du kan inte f\u00e5 min \u00f6l",
         "url": "https://open.spotify.com/album/5mC9mcXhQFXcGUuyyuMdcN"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 151411,
       "name": "Ligga low",
       "url": "https://open.spotify.com/track/507T2C0pVA8P4cElwhfEuV"
+    },
+    {
+      "added_at": "2022-09-15 22:00:00",
+      "album": {
+        "name": "B\u00f8gda",
+        "url": "https://open.spotify.com/album/2FlHmlFjUImjvasA84suRu"
+      },
+      "artists": [
+        {
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+        },
+        {
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+        }
+      ],
+      "duration_ms": 164127,
+      "name": "B\u00f8gda",
+      "url": "https://open.spotify.com/track/1MpCvOlkM8VbH50AL7mAUm"
     },
     {
       "added_at": "2022-09-15 22:00:00",
@@ -627,6 +627,22 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
+        "name": "Kompis",
+        "url": "https://open.spotify.com/album/1VzzEbtAMX3anDMFlIWWeE"
+      },
+      "artists": [
+        {
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+        }
+      ],
+      "duration_ms": 161493,
+      "name": "Kompis",
+      "url": "https://open.spotify.com/track/0S1czUi29BRmzhNHO84EHf"
+    },
+    {
+      "added_at": "2022-09-15 22:00:00",
+      "album": {
         "name": "N\u00e5 Koser Vi Oss",
         "url": "https://open.spotify.com/album/4xXIxalm2k3gzYDPxBUgaF"
       },
@@ -643,34 +659,18 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
-        "name": "\u00c6rbesk\u00e6r",
-        "url": "https://open.spotify.com/album/2Wq5na5n7xXDAjeybcS8Ds"
+        "name": "Flaska",
+        "url": "https://open.spotify.com/album/6OI7fl4jpZBEiEGWwTyK9I"
       },
       "artists": [
         {
-          "name": "Hagle",
-          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
         }
       ],
-      "duration_ms": 135542,
-      "name": "\u00c6rbesk\u00e6r",
-      "url": "https://open.spotify.com/track/1KKqiE7UtShqsjZwYvWpm8"
-    },
-    {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
-        "name": "Kompis",
-        "url": "https://open.spotify.com/album/1VzzEbtAMX3anDMFlIWWeE"
-      },
-      "artists": [
-        {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
-        }
-      ],
-      "duration_ms": 161493,
-      "name": "Kompis",
-      "url": "https://open.spotify.com/track/0S1czUi29BRmzhNHO84EHf"
+      "duration_ms": 151304,
+      "name": "Flaska",
+      "url": "https://open.spotify.com/track/5PIXzeI6g83I0QkD7z7orD"
     },
     {
       "added_at": "2022-09-15 22:00:00",
@@ -691,18 +691,18 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
-        "name": "Flaska",
-        "url": "https://open.spotify.com/album/6OI7fl4jpZBEiEGWwTyK9I"
+        "name": "\u00c6rbesk\u00e6r",
+        "url": "https://open.spotify.com/album/2Wq5na5n7xXDAjeybcS8Ds"
       },
       "artists": [
         {
-          "name": "Ringnes-Ronny",
-          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
         }
       ],
-      "duration_ms": 151304,
-      "name": "Flaska",
-      "url": "https://open.spotify.com/track/5PIXzeI6g83I0QkD7z7orD"
+      "duration_ms": 135542,
+      "name": "\u00c6rbesk\u00e6r",
+      "url": "https://open.spotify.com/track/1KKqiE7UtShqsjZwYvWpm8"
     },
     {
       "added_at": "2022-09-15 22:00:00",
@@ -799,6 +799,30 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
+        "name": "RAGGA V\u00c4RLDEN RUNT",
+        "url": "https://open.spotify.com/album/7q8TSeI9J4fxBNP7CoWJKZ"
+      },
+      "artists": [
+        {
+          "name": "Rasmus Gozzi",
+          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
+        },
+        {
+          "name": "Lurifaks",
+          "url": "https://open.spotify.com/artist/7KV5PbIYtOc7F3bzH0v8dK"
+        },
+        {
+          "name": "Hugge",
+          "url": "https://open.spotify.com/artist/1U17tqE6Kaphway5gmRD9g"
+        }
+      ],
+      "duration_ms": 150142,
+      "name": "RAGGA V\u00c4RLDEN RUNT",
+      "url": "https://open.spotify.com/track/6PTD6A0ttYfoAoOHkzu1Ba"
+    },
+    {
+      "added_at": "2022-09-15 22:00:00",
+      "album": {
         "name": "S\u00e6la P\u00e5",
         "url": "https://open.spotify.com/album/5k5wI5T9kZWKSqgYsP5hsh"
       },
@@ -887,30 +911,6 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
-        "name": "RAGGA V\u00c4RLDEN RUNT",
-        "url": "https://open.spotify.com/album/7q8TSeI9J4fxBNP7CoWJKZ"
-      },
-      "artists": [
-        {
-          "name": "Rasmus Gozzi",
-          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
-        },
-        {
-          "name": "Lurifaks",
-          "url": "https://open.spotify.com/artist/7KV5PbIYtOc7F3bzH0v8dK"
-        },
-        {
-          "name": "Hugge",
-          "url": "https://open.spotify.com/artist/1U17tqE6Kaphway5gmRD9g"
-        }
-      ],
-      "duration_ms": 150142,
-      "name": "RAGGA V\u00c4RLDEN RUNT",
-      "url": "https://open.spotify.com/track/6PTD6A0ttYfoAoOHkzu1Ba"
-    },
-    {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
         "name": "Jag Vill Vara Din Margareta",
         "url": "https://open.spotify.com/album/6QJVx7H5M4barKMggXATqm"
       },
@@ -947,26 +947,6 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
-        "name": "Fylleangst",
-        "url": "https://open.spotify.com/album/5qBlO7VFJFPzDet3AZ1Q74"
-      },
-      "artists": [
-        {
-          "name": "Oskar Westerlin",
-          "url": "https://open.spotify.com/artist/0oXnxfuBoIz4DlUCbvxWxd"
-        },
-        {
-          "name": "Den BB",
-          "url": "https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651"
-        }
-      ],
-      "duration_ms": 118125,
-      "name": "Fylleangst",
-      "url": "https://open.spotify.com/track/1gcTGGDqXQWe97FMTUxPP9"
-    },
-    {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
         "name": "Ola",
         "url": "https://open.spotify.com/album/6aSofv0Ux8UAd2d9SLjgFG"
       },
@@ -983,22 +963,22 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
-        "name": "Hytta Mi",
-        "url": "https://open.spotify.com/album/5JRkrEQSgGTQqjSYDDk4Oc"
+        "name": "Fylleangst",
+        "url": "https://open.spotify.com/album/5qBlO7VFJFPzDet3AZ1Q74"
       },
       "artists": [
         {
-          "name": "Staysman",
-          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+          "name": "Oskar Westerlin",
+          "url": "https://open.spotify.com/artist/0oXnxfuBoIz4DlUCbvxWxd"
         },
         {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+          "name": "Den BB",
+          "url": "https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651"
         }
       ],
-      "duration_ms": 138454,
-      "name": "Hytta Mi",
-      "url": "https://open.spotify.com/track/7y2Zz2AytRttQLdCjwRQ15"
+      "duration_ms": 118125,
+      "name": "Fylleangst",
+      "url": "https://open.spotify.com/track/1gcTGGDqXQWe97FMTUxPP9"
     },
     {
       "added_at": "2022-09-15 22:00:00",
@@ -1039,6 +1019,26 @@
       "duration_ms": 124661,
       "name": "Svensk i kv\u00e4ll",
       "url": "https://open.spotify.com/track/0C2UfLRDNB0oOt8nYyJRYu"
+    },
+    {
+      "added_at": "2022-09-15 22:00:00",
+      "album": {
+        "name": "Hytta Mi",
+        "url": "https://open.spotify.com/album/5JRkrEQSgGTQqjSYDDk4Oc"
+      },
+      "artists": [
+        {
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+        },
+        {
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+        }
+      ],
+      "duration_ms": 138454,
+      "name": "Hytta Mi",
+      "url": "https://open.spotify.com/track/7y2Zz2AytRttQLdCjwRQ15"
     },
     {
       "added_at": "2022-09-15 22:00:00",

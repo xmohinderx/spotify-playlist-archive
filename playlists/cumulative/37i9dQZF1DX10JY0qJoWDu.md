@@ -4,13 +4,14 @@
 
 > Holiday cheer from your Disney favorites!
 
-84 songs - 3 hr 52 min - [published](https://open.spotify.com/playlist/3IDYKnsQlFyTJMC7VBMRHz)
+86 songs - 3 hr 58 min - [published](https://open.spotify.com/playlist/3IDYKnsQlFyTJMC7VBMRHz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['Zat You, Santa Claus?](https://open.spotify.com/track/71CYeO8QuGeIyCAdk1eTeH) | [Dr\. Teeth and The Electric Mayhem](https://open.spotify.com/artist/2ga7tr3zy7iQ9r2VQ6AMGF) | [The Muppets: A Green and Red Christmas](https://open.spotify.com/album/2SRnKY8vy3G72k8D55tWoA) | 2:34 | 2021-12-03 |  |
 | [All I Want for Christmas Is You](https://open.spotify.com/track/0yJI0V4U9cy59pGFR7SQui) | [DCappella](https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm) | [Rockin' Holiday](https://open.spotify.com/album/2yKCih4uWRew4GFBpWDdTA) | 3:47 | 2021-12-03 |  |
 | [Ariel's Christmas Island](https://open.spotify.com/track/0aCVcGoCbdnfFowNu6IzvU) | [Ariel](https://open.spotify.com/artist/1RJ9qwSsCfnOcTXBSqotNk), [Sebastian](https://open.spotify.com/artist/3SDQzHnLxVFNK6hvg9Lrks) | [Princess Christmas](https://open.spotify.com/album/1WJHhN69hjNuQPG2iJ36BY) | 2:53 | 2021-12-03 |  |
+| [Bring on Christmas Day](https://open.spotify.com/track/4aBOiLLaZesaTEYPItY8A9) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Bring on Christmas Day](https://open.spotify.com/album/40jWI7gm77i5F32eXQiIwK) | 3:48 | 2022-09-16 |  |
 | [Candlelight Overture](https://open.spotify.com/track/0x3ZtKQ5V6VSkAKx5GwIku) | [Massed Choir](https://open.spotify.com/artist/0aCR3bf6V9FySG3cJWbogr) | [Candlelight Processional](https://open.spotify.com/album/0avfdTE7RNtvrH1E56vfTy) | 5:24 | 2021-12-03 |  |
 | [Carol of the Bells](https://open.spotify.com/track/1JkD85e8leiLWPwW4b0qWa) | [The Disney Holiday Chorus](https://open.spotify.com/artist/4ag7CRSzcTZQX2Bter3fLR) | [Disney's Family Christmas Collection](https://open.spotify.com/album/5zeGI3fFVGKZ8DBMC6vuQg) | 1:33 | 2021-12-03 |  |
 | [Celebrate \(It's Christmas\)](https://open.spotify.com/track/12blByfqH50AD5VZnRZukS) | [Forever in Your Mind](https://open.spotify.com/artist/6gQnbY1egUGK5llcWsrwgE) | [Disney Channel Holiday Hits](https://open.spotify.com/album/0mbCOOXGsz6SLRTopXAUF9) | 3:10 | 2021-12-03 |  |
@@ -34,6 +35,7 @@
 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/7pDQSx6Gee0ZTpLE41ZtXR) | [Kermit the Frog](https://open.spotify.com/artist/1PGjAoXiKP1Hcx788WVFx9) | [The Muppets: A Green and Red Christmas](https://open.spotify.com/album/2SRnKY8vy3G72k8D55tWoA) | 3:49 | 2021-12-03 |  |
 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/3raNSxsive7mKRQvSAoAmE) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/78ghmfG83tQUF43coZ6FiH) | 3:46 | 2021-12-03 |  |
 | [Holidays At Home](https://open.spotify.com/track/6FQSGMx4izRscahI2z0YVl) | [Belle](https://open.spotify.com/artist/0PPpKyvqALNTHqNCkPh9WM) | [Princess Christmas](https://open.spotify.com/album/1WJHhN69hjNuQPG2iJ36BY) | 2:31 | 2021-12-03 |  |
+| [Home for Christmas](https://open.spotify.com/track/1dQj0qJwCccf6b9f7zJST5) | [DCappella](https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Home for the Holidays with DCappella](https://open.spotify.com/album/3FHCtrY8Pu5KfPfvNSMmcZ) | 2:36 | 2022-09-16 |  |
 | [I Love Christmas](https://open.spotify.com/track/39rTGk6MVeykS2Z8FJkYdl) | [Austin Moon](https://open.spotify.com/artist/1eBGyqw9kLsidL0q2dimWF), [Laura Marano](https://open.spotify.com/artist/21mgsWjJ4TmBxsUKexjJPT) | [I Love Christmas](https://open.spotify.com/album/6qn2TGYSCLeHCkk6t71Nk1) | 2:56 | 2021-12-03 |  |
 | [I See the Light \- From "Tangled" / Soundtrack Version](https://open.spotify.com/track/6klpXs2uAjagnZMFkt4qkl) | [Mandy Moore](https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu), [Zachary Levi](https://open.spotify.com/artist/3XSyTI9ct70ZheMESAv2st) | [Tangled](https://open.spotify.com/album/1l0aFrH24oPrQSqGtfeFyE) | 3:44 | 2021-12-03 |  |
 | [I Wish I Could Be Santa Claus](https://open.spotify.com/track/1IL3cX5wKaahkzLvIxvgpj) | [Gonzo](https://open.spotify.com/artist/5HYbLJiXakWkswW7XNfVAC), [Fozzie](https://open.spotify.com/artist/7l1UtP9HDcanyFwHs3abSw) | [A Muppets Christmas: Letters to Santa](https://open.spotify.com/album/7ioIJ7nA0LziUkEEPy6fci) | 2:26 | 2021-12-03 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 
 > 🩹 \(in cover, kid vice\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,427 likes - 114 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,452 likes - 114 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 | 86 | [Più del fuoco \(feat\. Shade & Yota Damore\)](https://open.spotify.com/track/3toYq1FSFwc7KNTv7Bg8WR) | [Blue Virus](https://open.spotify.com/artist/7H9TcusDoz60eSTxB0Avxn), [Shade](https://open.spotify.com/artist/1xqolkIzTFMmqgCuD48WNt), [Yota Damore](https://open.spotify.com/artist/5F1YTUQDAFUPjuW4Vf2b6u) | [Magliette Che Diventano Pigiami \- EP](https://open.spotify.com/album/2HUAaHdSS9cmx8i0ZE0vvR) | 3:07 |
 | 87 | [Per il mio bene](https://open.spotify.com/track/1j4rTqIygJuZsmfO04UqFT) | [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB) | [Per il mio bene](https://open.spotify.com/album/1Z8F4vFqjLEYOBqpgHBqto) | 2:35 |
 | 88 | [Forse Dio](https://open.spotify.com/track/0aeQSTW65FQr7N6uV6zk1n) | [Emit](https://open.spotify.com/artist/4SLnd4pMUfLJd502s60Zpk) | [Forse Dio](https://open.spotify.com/album/3SfrCKr0YMTucKcLtUrgt6) | 3:20 |
-| 89 | [NON PIANGERE](https://open.spotify.com/track/0IVsYyzXsH5QZNMNxO8LfT) | [Venz](https://open.spotify.com/artist/5VUUgGokjuoDnst6gNRZO5), [Thierry](https://open.spotify.com/artist/1vuHBEX5c5OA25opDvY3hx) | [NON PIANGERE](https://open.spotify.com/album/60rupYxX1cyqiXYltdInJl) | 2:45 |
+| 89 | [NON PIANGERE](https://open.spotify.com/track/0aF8dGSr4JxGrNiCLYKydt) | [Venz](https://open.spotify.com/artist/5VUUgGokjuoDnst6gNRZO5), [Thierry](https://open.spotify.com/artist/1vuHBEX5c5OA25opDvY3hx) | [NON PIANGERE](https://open.spotify.com/album/3POuzBmU79UAhUbtXjp0IM) | 2:45 |
 | 90 | [Parole al vento](https://open.spotify.com/track/64xBkN33zcDvijtU7X0pkN) | [Maru](https://open.spotify.com/artist/3L5BWOU9ujyIpycmCweRan) | [Parole al vento](https://open.spotify.com/album/22vc0d22zRLd3rjicn67kJ) | 2:02 |
 | 91 | [Ti Sposo](https://open.spotify.com/track/2C0tlqwcvVGuNox39uQgpC) | [Avoia](https://open.spotify.com/artist/2AOUNkpPPnWNXIU2NafS8I), [Candle Lights](https://open.spotify.com/artist/4ei52BXEiHeAYGVczk43vI) | [Ti Sposo](https://open.spotify.com/album/7zToEpET8GvtBkJQbafNsI) | 2:24 |
 | 92 | [x dimenticarti](https://open.spotify.com/track/36yVUCU4BXMPTlZKXTLNAS) | [Dasplan](https://open.spotify.com/artist/3NTgDjVbLSiv0d7NW6MGhP) | [x dimenticarti](https://open.spotify.com/album/4Yqn5A7LPALVKi4rOcPXMu) | 2:16 |
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 | 113 | [frantumi](https://open.spotify.com/track/3UvV9yZNhfhCyJ2vb99egC) | [junksleep](https://open.spotify.com/artist/7A34sA473n97mgts6lGL8m) | [frantumi](https://open.spotify.com/album/24x1yXLHqq5T8lNh78SbuU) | 1:30 |
 | 114 | [Orgia](https://open.spotify.com/track/7bJiGfQ6oH8IPm41BTMtSc) | [Tripolare](https://open.spotify.com/artist/4QOWxkUYIKvnV7AcjF4k6w) | [Acne](https://open.spotify.com/album/4p88bKpzYsdGIVUtkQUsby) | 2:06 |
 
-Snapshot ID: `MTY2MjY3NDQ2MCwwMDAwMDAwMGRkYTRhNWFjMzFjMDUyZjM0NjkwYmJhM2U2NzA2MGM0`
+Snapshot ID: `MTY2MjY3NDQ2MCwwMDAwMDAwMDg4NzkxMmI4NjczYzkyYTEyMjg1YmE0M2VlYzNhMGQ4`

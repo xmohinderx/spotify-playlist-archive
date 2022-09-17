@@ -1,12 +1,12 @@
 {
   "description": "\u00bfA vuelta de rueda? Con esta playlist el camino ser\u00e1 m\u00e1s ligero. ",
-  "num_followers": 200611,
+  "num_followers": 200782,
   "original_name": "Pa'l Tr\u00e1fico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTg4MjkyNCwwMDAwMDAwMDJjY2RhZjY0YzM1YTExZTRlZDgzYTJhMjg1NGMyNTAx",
+  "snapshot_id": "MTY2MTg4MjkyNCwwMDAwMDAwMGMwMmY4YTMwNWYxYTBkZGU1OWFlZTIxNTQxOGI1ZmEx",
   "tracks": [
     {
       "added_at": "2022-08-30 18:08:44",
@@ -715,6 +715,22 @@
     {
       "added_at": "2022-08-30 18:08:44",
       "album": {
+        "name": "Pari\u0301s",
+        "url": "https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD"
+      },
+      "artists": [
+        {
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+        }
+      ],
+      "duration_ms": 151428,
+      "name": "Pari\u0301s",
+      "url": "https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3"
+    },
+    {
+      "added_at": "2022-08-30 18:08:44",
+      "album": {
         "name": "1, 2, 3 (feat. Jason Derulo & De La Ghetto)",
         "url": "https://open.spotify.com/album/1jHSAfCHKUFx5imuezI7HE"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 201526,
       "name": "1, 2, 3 (feat. Jason Derulo & De La Ghetto)",
       "url": "https://open.spotify.com/track/4QtiVmuA88tPQiCOHZuQ5b"
-    },
-    {
-      "added_at": "2022-08-30 18:08:44",
-      "album": {
-        "name": "Pari\u0301s",
-        "url": "https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD"
-      },
-      "artists": [
-        {
-          "name": "Ingratax",
-          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
-        }
-      ],
-      "duration_ms": 151428,
-      "name": "Pari\u0301s",
-      "url": "https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3"
     },
     {
       "added_at": "2022-08-30 18:08:44",
@@ -1383,22 +1383,22 @@
     {
       "added_at": "2022-08-30 18:08:44",
       "album": {
-        "name": "Te Marqu\u00e9 Pedo",
-        "url": "https://open.spotify.com/album/5RY8g4VHQsgPDxewtnPIEX"
+        "name": "5 Estrellas",
+        "url": "https://open.spotify.com/album/2yANiBjyI4vqHfUax5a8RF"
       },
       "artists": [
         {
-          "name": "Alex Luna",
-          "url": "https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2"
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
         },
         {
-          "name": "DAAZ",
-          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
         }
       ],
-      "duration_ms": 216000,
-      "name": "Te Marqu\u00e9 Pedo",
-      "url": "https://open.spotify.com/track/4hAYQuavbB0FYhyxBTbVal"
+      "duration_ms": 191094,
+      "name": "5 Estrellas",
+      "url": "https://open.spotify.com/track/3XbzMSWKdp8FzcQHA9BeXw"
     }
   ],
   "unique_name": "Pa'l Tr\u00e1fico",

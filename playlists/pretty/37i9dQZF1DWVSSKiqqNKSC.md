@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 
 > ¡Lo mejor de la Salsa Cubana! Cover: Celia Cruz
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,037 likes - 48 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,158 likes - 48 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,10 +51,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 | 41 | [Historia de un Amor](https://open.spotify.com/track/5YkbsYoT60QOccHeKbDnUY) | [Leo Marini](https://open.spotify.com/artist/3Y5vifXLGyyHfY99BH73Ld), [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Latin Trumpets \- Bolero](https://open.spotify.com/album/3E15XVDoZD3HO4rmbxN27K) | 2:48 |
 | 42 | [Qué Sorpresa](https://open.spotify.com/track/0WEUAHwL8buyzLIM5NMgN5) | [Alexander Abreu and Havana D' Primera](https://open.spotify.com/artist/6SE3JOfUEXlxp0iUKzzLLI) | [Qué Sorpresa](https://open.spotify.com/album/6rUbV5YhPvlqsYTXO3Mjig) | 6:00 |
 | 43 | [Bailando \- Official Salsa Version](https://open.spotify.com/track/2CyRtX6QaCnaDtbqNo9aGU) | [Issac Delgado](https://open.spotify.com/artist/2NssDL7cTwvfQm01xvepBQ), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Descemer Bueno](https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl) | [Latin Fitness 2015 \(Workout Party Music \- Latin Hits ideal for Running, Fat Burning, Aerobic, Gym, Cardio, Training, Exercise\)](https://open.spotify.com/album/16tOGqmdb9JZMykQt8HBCH) | 4:33 |
-| 44 | [Dónde Va Chichi?](https://open.spotify.com/track/7xpJQcmsnGG9ojztoCNe54) | [Sierra Maestra](https://open.spotify.com/artist/04azg2bFlSz46nOe03VY2w) | [Tibiri Tabara](https://open.spotify.com/album/22HGndY6yvYJbtySZCkHt4) | 5:13 |
-| 45 | [El Dueno del Party](https://open.spotify.com/track/3dSfzMb6yzfofd6llvvVnk) | [Juan Guillermo](https://open.spotify.com/artist/2a6asokZtIXtp4pxTLvTvq), [Los Extraterrestres](https://open.spotify.com/artist/3G65Io9sxcoeyBVip1ruau) | [Que No Me Controlen](https://open.spotify.com/album/3T7xTNUfhefkNlgynjE4GN) | 4:39 |
+| 44 | [El Dueno del Party](https://open.spotify.com/track/3dSfzMb6yzfofd6llvvVnk) | [Juan Guillermo](https://open.spotify.com/artist/2a6asokZtIXtp4pxTLvTvq), [Los Extraterrestres](https://open.spotify.com/artist/3G65Io9sxcoeyBVip1ruau) | [Que No Me Controlen](https://open.spotify.com/album/3T7xTNUfhefkNlgynjE4GN) | 4:39 |
+| 45 | [Dónde Va Chichi?](https://open.spotify.com/track/7xpJQcmsnGG9ojztoCNe54) | [Sierra Maestra](https://open.spotify.com/artist/04azg2bFlSz46nOe03VY2w) | [Tibiri Tabara](https://open.spotify.com/album/22HGndY6yvYJbtySZCkHt4) | 5:13 |
 | 46 | [Consumelo](https://open.spotify.com/track/5QB5D24Q2ZExArP6fG9BQh) | [TIMBALIVE](https://open.spotify.com/artist/5skRgtmxRx7ukwds6UlS7R) | [Consumelo](https://open.spotify.com/album/1suANlvy8VuPkA2Vb7pvHK) | 4:41 |
 | 47 | [Temba, Tumba, Timba](https://open.spotify.com/track/621LLhcTYkEbt1fwJuSdWi) | [Los Van Van](https://open.spotify.com/artist/4B5PkQ1wMjo1siTN9yD9Ds) | [Llego..\. Van Van](https://open.spotify.com/album/39Bn2tQqMTFkJvPPPKkiwW) | 4:48 |
 | 48 | [Qué Pasa Loco](https://open.spotify.com/track/5evx5is4W5iLY7A5zv82Ut) | [Issac Delgado](https://open.spotify.com/artist/2NssDL7cTwvfQm01xvepBQ) | [Grandes Exitos Vol\. 1](https://open.spotify.com/album/2qIauTRLruweUbBVZrQkF9) | 6:18 |
 
-Snapshot ID: `MTU5ODM3NDY2NiwwMDAwMDAwMDA2NjQ3ZjFjZWRlNDgxNzM0MDc4NmEwNzJlOGUyZDBl`
+Snapshot ID: `MTU5ODM3NDY2NiwwMDAwMDAwMGNmYjU3ZTBjNThiMmQxNzU2NTg3MWFhYjg3OGNhOGUw`

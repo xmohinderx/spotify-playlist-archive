@@ -4,7 +4,7 @@
 
 > Throw the weights around with your favorite uptempo pop songs!
 
-231 songs - 12 hr 28 min - [published](https://open.spotify.com/playlist/2PdN5idnlpDGB9nQ1OsLKL)
+232 songs - 12 hr 31 min - [published](https://open.spotify.com/playlist/2PdN5idnlpDGB9nQ1OsLKL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,6 +194,7 @@
 | [Salt](https://open.spotify.com/track/5iyZwawawLjHYpX4MxUKVF) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 3:00 | 2022-03-24 | 2022-04-21 |
 | [Save Your Tears \(with Ariana Grande\) \(Remix\)](https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Save Your Tears \(Remix\)](https://open.spotify.com/album/2fyOpT5c9kxR8zbDh6UtXh) | 3:11 | 2022-01-28 |  |
 | [Say So](https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 3:57 | 2022-03-24 | 2022-08-20 |
+| [Serial Heartbreaker](https://open.spotify.com/track/1UmFLqmTmgHoSyvss6Q7gw) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Girl Of My Dreams](https://open.spotify.com/album/38aH4OObJSjtO48q2eNoA4) | 2:13 | 2022-09-16 |  |
 | [Shape of You](https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 3:53 | 2022-03-24 | 2022-04-16 |
 | [SHOW OFF \(feat\. Nicole Scherzinger\)](https://open.spotify.com/track/1jpnnxTKqfvSWl6MccJjAd) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH), [Nicole Scherzinger](https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP) | [FEMULINE](https://open.spotify.com/album/5HMKe2aSQafz0Oix7nePGT) | 3:40 | 2022-01-28 | 2022-07-29 |
 | [Since U Been Gone](https://open.spotify.com/track/3xrn9i8zhNZsTtcoWgQEAd) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Breakaway](https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq) | 3:08 | 2022-03-24 | 2022-09-03 |
@@ -235,7 +236,7 @@
 | [World Hold On \- FISHER Rework](https://open.spotify.com/track/2YDOjCfkGciEXxSutB6LJR) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Steve Edwards](https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC) | [World Hold On \(FISHER Rework\)](https://open.spotify.com/album/4Z6joMam5q6D8khEfuaCWD) | 2:58 | 2022-08-19 |  |
 | [X \(with KAROL G\)](https://open.spotify.com/track/77fvnWALKJR0ws1VUx09CY) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [XV](https://open.spotify.com/album/0i96PtPJV65ddxsfMfo45F) | 3:05 | 2022-03-24 | 2022-04-21 |
 | [yoga \(feat\. Rebecca Black\)](https://open.spotify.com/track/584h0fUq9maZhErREt79EA) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [yoga \(feat\. Rebecca Black\)](https://open.spotify.com/album/2Aj08j8VPdBBnGLQlXem78) | 2:37 | 2022-03-24 | 2022-04-15 |
-| [You for Me](https://open.spotify.com/track/73QyyUMMvtNELmULI4FOsp) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [You for Me](https://open.spotify.com/album/2iylTVQEMYGQ9CUgn9MAAT) | 2:55 | 2022-01-28 |  |
+| [You for Me](https://open.spotify.com/track/73QyyUMMvtNELmULI4FOsp) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [You for Me](https://open.spotify.com/album/2iylTVQEMYGQ9CUgn9MAAT) | 2:55 | 2022-01-28 | 2022-09-17 |
 | [You Need To Calm Down](https://open.spotify.com/track/6RRNNciQGZEXnqk8SQ9yv5) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:51 | 2022-07-28 |  |
 | [You Need To Calm Down](https://open.spotify.com/track/29fRTIKsJhLUJoldM89GZS) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [You Need To Calm Down](https://open.spotify.com/album/21dd5QyItuoqvPkViQXlKf) | 2:51 | 2022-01-28 | 2022-07-29 |
 | [Your Man](https://open.spotify.com/track/6Vgtvd7I5yopJdBuxqjBd2) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Nectar](https://open.spotify.com/album/6YKk4wlKdACRITGKmGnoIm) | 2:43 | 2022-02-07 | 2022-04-20 |

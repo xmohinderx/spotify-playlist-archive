@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Vd1jJ7X9H8.md) - [plain]
 
 > it's not just an indie kid with an aux, it's \*chic\*
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,563 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,759 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Vd1jJ7X9H8.md) - [plain]
 | 58 | [Vampire](https://open.spotify.com/track/0SRPuTnr5QOKRoIxMvvlgK) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [What Could Possibly Go Wrong](https://open.spotify.com/album/1BubKJqf6Uc4fNae5kLJJ7) | 3:06 |
 | 59 | [Gamesofluck](https://open.spotify.com/track/0rdWkO7ncrh1lrJGDmLq9L) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Gamesofluck](https://open.spotify.com/album/0ugE0qpkFDNLYFmNiUOOKA) | 5:48 |
 | 60 | [Crave You](https://open.spotify.com/track/4ESWJepzBtY2lR9oZDYVaP) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Giselle](https://open.spotify.com/artist/5cxol8ruhBU1QpUick7A42) | [Down To Earth](https://open.spotify.com/album/5V8798yQx7GwVCXQTyIOJz) | 3:54 |
-| 61 | [Gold](https://open.spotify.com/track/5Dz6wdHlI45KAOBAfMSJRS) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Gold](https://open.spotify.com/album/7jlUFBjbua4L7eZXpncXIG) | 2:55 |
-| 62 | [Ungodly Hour](https://open.spotify.com/track/4SJRgLsuBKTEBEl9n6JsNu) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW) | [Ungodly Hour](https://open.spotify.com/album/1ReoUTt497nUg3u1ERgYwS) | 4:15 |
+| 61 | [Ungodly Hour](https://open.spotify.com/track/4SJRgLsuBKTEBEl9n6JsNu) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW) | [Ungodly Hour](https://open.spotify.com/album/1ReoUTt497nUg3u1ERgYwS) | 4:15 |
+| 62 | [Gold](https://open.spotify.com/track/5Dz6wdHlI45KAOBAfMSJRS) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Gold](https://open.spotify.com/album/7jlUFBjbua4L7eZXpncXIG) | 2:55 |
 | 63 | [Both Of Us \- Edit](https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Both Of Us](https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA) | 3:49 |
 | 64 | [Peaceful Life](https://open.spotify.com/track/1oqcT3rKnuyGf7gcQU8IXx) | [Guts](https://open.spotify.com/artist/5mMkUZv8uUrlH0SHX89BeS), [Lorine Chia](https://open.spotify.com/artist/6NnWCx7mer62qXytwEKZm9) | [Eternal](https://open.spotify.com/album/59JNcEwaQUyC2xQzBJTHF9) | 4:06 |
 | 65 | [Turn Up The Sunshine \- From 'Minions: The Rise of Gru' Soundtrack](https://open.spotify.com/track/5FH5U5zlicxKUXK6DruWKM) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Turn Up The Sunshine \(From 'Minions: The Rise of Gru' Soundtrack\)](https://open.spotify.com/album/2q70l752ZOyY6kr7PZjAex) | 3:49 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Vd1jJ7X9H8.md) - [plain]
 | 99 | [Save A Kiss](https://open.spotify.com/track/6rlQYRWG6ZN5X89LA0zBE7) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [What's Your Pleasure?](https://open.spotify.com/album/1CTm3ARqDETSm7GfvNYNJp) | 4:02 |
 | 100 | [The Sun](https://open.spotify.com/track/2hhVlIZmGEGfNeVIYnMUAG) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [All Inclusive](https://open.spotify.com/album/3poeqbKVhcXTRFoOMzwiQS) | 3:28 |
 
-Snapshot ID: `MTY2MjA5ODI4MCwwMDAwMDAwMDhmYzc3OTkwN2Q5OGI4ODA5ZDI0M2EyOTc4ZDA1NmNk`
+Snapshot ID: `MTY2MjA5ODI4MCwwMDAwMDAwMDhmZDBmYmRjOTU5NjliMzlmYmE5YjA0OTg3YzhhM2Zl`

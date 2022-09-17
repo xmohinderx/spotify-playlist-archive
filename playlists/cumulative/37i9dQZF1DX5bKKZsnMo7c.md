@@ -4,12 +4,12 @@
 
 > All eyes on you\. Cover: Bo Burnham
 
-165 songs - 9 hr 7 min - [published](https://open.spotify.com/playlist/04RUTcmGoLXt8vaCbdBnpU)
+166 songs - 9 hr 11 min - [published](https://open.spotify.com/playlist/04RUTcmGoLXt8vaCbdBnpU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1985](https://open.spotify.com/track/2FdzIRCqzjhdxP5W99FSvS) | [Bo Burnham](https://open.spotify.com/artist/2Waw2sSbqvAwK8NwACNjVo) | [THE INSIDE OUTTAKES](https://open.spotify.com/album/1m44SygOrmURyQXnYYq59H) | 2:26 | 2022-06-03 |  |
-| [29 Palms](https://open.spotify.com/track/0UR1lesYoawHMS3GMOTcG5) | [bennytheghost](https://open.spotify.com/artist/2RhVihxqFGSR3bDu32i9B2), [MyKey](https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9) | [29 Palms](https://open.spotify.com/album/5Q4wjlWCX95OYwVv8uUkqT) | 3:21 | 2022-05-20 |  |
+| [29 Palms](https://open.spotify.com/track/0UR1lesYoawHMS3GMOTcG5) | [bennytheghost](https://open.spotify.com/artist/2RhVihxqFGSR3bDu32i9B2), [MyKey](https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9) | [29 Palms](https://open.spotify.com/album/5Q4wjlWCX95OYwVv8uUkqT) | 3:21 | 2022-05-20 | 2022-09-17 |
 | [2econd 2ight 2eer \(that was fun, goodbye.\)](https://open.spotify.com/track/4jd13hFvWAZKZpomQleZ8L) | [Will Wood](https://open.spotify.com/artist/1VQ8riQ31zVHtlxiCC9EZE) | [The Normal Album](https://open.spotify.com/album/3e4el0X3Rqx0Lms74bUrkJ) | 3:26 | 2022-05-17 |  |
 | [30/90](https://open.spotify.com/track/55MIRLbZzpYSmMlRt9ZDWM) | [Andrew Garfield](https://open.spotify.com/artist/2garjIdgTW5i89s4Z3UT72), [Joshua Henry](https://open.spotify.com/artist/2WHbNs4WT5ZN7rbjDqbyEE), [Vanessa Hudgens](https://open.spotify.com/artist/6G9bygHlCyPgNGxK2l3YdE), [Robin de Jesus](https://open.spotify.com/artist/6mXcTwoata1hkaDMbkzw32), [Alexandra Shipp](https://open.spotify.com/artist/6RKS67sIPOW16NcGWkgdzF), [MJ Rodriguez](https://open.spotify.com/artist/5jMxsWwmiQl6lRo01xHMmG) | [tick, tick..\. BOOM! \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/4d1XaejoQ5r4jdkV8k5SNJ) | 4:22 | 2022-05-17 |  |
 | [Ain't No Crying](https://open.spotify.com/track/18wSH9W51fEBd9qrUAb9aW) | [Derivakat](https://open.spotify.com/artist/4T7KICeQg50AwFzauMCR9C) | [Songs of the SMP](https://open.spotify.com/album/6ks45W8ykLFRr1lgoUj9mW) | 2:36 | 2022-05-17 |  |
@@ -150,6 +150,7 @@
 | [Teenagers](https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 2:41 | 2022-05-17 |  |
 | [The Foundations of Decay](https://open.spotify.com/track/6Pif6RkFoYzLygdqktus4Q) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Foundations of Decay](https://open.spotify.com/album/28SHC2Kn35Nl9yd94CbF3q) | 6:00 | 2022-05-17 | 2022-07-25 |
 | [The Last Goodbye](https://open.spotify.com/track/4p6xj4kIpEfmgpYe3C90MW) | [The Gregory Brothers](https://open.spotify.com/artist/0V8tQXWkKPD5SxsB2moGew), [Markiplier](https://open.spotify.com/artist/65BxFegOKWTiwG3DGCckef) | [The Last Goodbye](https://open.spotify.com/album/1MZuMWFfaOJ2s2hvmreyIn) | 3:18 | 2022-06-08 | 2022-06-25 |
+| [The Place To Be](https://open.spotify.com/track/2Y8D1aBfSngGN41XnOwydy) | [The Scarlet Opera](https://open.spotify.com/artist/331esE1oEqzbQQGZPJ4Yix) | [The Place To Be](https://open.spotify.com/album/6L31U4bZtscOccwZbnIvXm) | 3:28 | 2022-09-16 |  |
 | [The Red Means I Love You](https://open.spotify.com/track/5pLbM4PU1wZyMvoQyEAorp) | [Madds Buckley](https://open.spotify.com/artist/4BLdbgVNetzII3ggCMsNtq) | [The Red Means I Love You](https://open.spotify.com/album/0m4Okss4lEAUYKrrXxIy1E) | 3:53 | 2022-05-17 |  |
 | [The View From Halfway Down \- Spotify Singles](https://open.spotify.com/track/3E4gPkcqnyaAnv1nrdukwp) | [Jhariah](https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP), [Henry D'Arthenay](https://open.spotify.com/artist/25Dx0mB7FWXFxNjsYVfcCL) | [The View From Halfway Down \- Spotify Singles](https://open.spotify.com/album/1S08DnwybFOPu8wswBn5gj) | 3:50 | 2022-05-27 | 2022-06-11 |
 | [The Widow](https://open.spotify.com/track/5meJWQuHyHDsOjWF8AtSDe) | [The Mars Volta](https://open.spotify.com/artist/75U40yZLLPglFgXbDVnmVs) | [Frances the Mute](https://open.spotify.com/album/30iqYID1JMBXLVFfErwTSd) | 5:50 | 2022-05-25 | 2022-06-02 |

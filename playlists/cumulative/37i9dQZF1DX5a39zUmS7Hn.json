@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "New music and timeless tracks from legends only. Cover: Billy Idol",
+  "description": "New music and timeless tracks from legends only. Cover: Joe Strummer",
   "name": "Legends Only",
   "published_playlist_ids": [
     "4sJNNOXti6LqdxGyE3CdfI"
@@ -715,7 +715,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 168669,
       "name": "Cage",
       "url": "https://open.spotify.com/track/5PRqhBkoni3TrJSUqpnyKa"
@@ -2468,6 +2468,24 @@
     },
     {
       "album": {
+        "name": "Autofiction",
+        "url": "https://open.spotify.com/album/6yLKyq7x7ZCpL7p99smtsO"
+      },
+      "artists": [
+        {
+          "name": "The London Suede",
+          "url": "https://open.spotify.com/artist/6GuRYj1MEnu1WZhDA2Xy0t"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240200,
+      "name": "Personality Disorder",
+      "url": "https://open.spotify.com/track/7noQsk2Wm00f5HlH2Zmume"
+    },
+    {
+      "album": {
         "name": "Fear Inoculum",
         "url": "https://open.spotify.com/album/7acEciVtnuTzmwKptkjth5"
       },
@@ -2551,7 +2569,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 217466,
       "name": "Realize",
       "url": "https://open.spotify.com/track/4JDjZ2AzlHnde5uUy0TveV"
@@ -2747,6 +2765,24 @@
       "duration_ms": 224293,
       "name": "Scarlet",
       "url": "https://open.spotify.com/track/3vSXV46H3bSmJHX79NV9Zu"
+    },
+    {
+      "album": {
+        "name": "Joe Strummer 002: The Mescaleros Years",
+        "url": "https://open.spotify.com/album/0jt3CZHQ5jpzzu5eT7F98x"
+      },
+      "artists": [
+        {
+          "name": "Joe Strummer",
+          "url": "https://open.spotify.com/artist/2A09V0kHlETOFfT8Hz8oba"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191957,
+      "name": "Secret Agent Man",
+      "url": "https://open.spotify.com/track/69AXRF37Va3JP772FJAPLD"
     },
     {
       "album": {

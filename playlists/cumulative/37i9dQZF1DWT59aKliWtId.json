@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "A quality alternative blend. Cover: Madison Cunningham",
+  "description": "A quality alternative blend. Cover: Danielle Ponder",
   "name": "Grade A",
   "published_playlist_ids": [
     "5atRHR4vc4jlkDH31Rwpnd"
@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 195066,
       "name": "10:36",
       "url": "https://open.spotify.com/track/0P4OHmZ7t092na79ElH7F5"
@@ -1168,6 +1168,28 @@
     },
     {
       "album": {
+        "name": "Brown Sugar Queen [Feat. Janice]",
+        "url": "https://open.spotify.com/album/7gd3JStkef9zd2CV9Et7BF"
+      },
+      "artists": [
+        {
+          "name": "Devon Gilfillian",
+          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
+        },
+        {
+          "name": "Janice",
+          "url": "https://open.spotify.com/artist/1uKR3ihZmv8a93heLPYKQ8"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208511,
+      "name": "Brown Sugar Queen [Feat. Janice]",
+      "url": "https://open.spotify.com/track/4IBA7iay6sycCsopkXqpII"
+    },
+    {
+      "album": {
         "name": "Bucktooth",
         "url": "https://open.spotify.com/album/4bx5GYQvnyDQtav2gpzEIW"
       },
@@ -1907,6 +1929,24 @@
       "duration_ms": 203547,
       "name": "Doobie Bronson",
       "url": "https://open.spotify.com/track/4kyNjgLHuGVyGsuBAqaFxK"
+    },
+    {
+      "album": {
+        "name": "Double Blind",
+        "url": "https://open.spotify.com/album/53LHhE4JeFHvpuPwTGMCNa"
+      },
+      "artists": [
+        {
+          "name": "Tropical Gothclub",
+          "url": "https://open.spotify.com/artist/2xTveN5GIbAP7sHYpUm7W9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239148,
+      "name": "Double Blind",
+      "url": "https://open.spotify.com/track/6cNNEIV8nghL2uLU0ftNXg"
     },
     {
       "album": {
@@ -3071,7 +3111,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 119590,
       "name": "Hey Julia",
       "url": "https://open.spotify.com/track/4ITcbrMbYwD3kuIG304nxO"
@@ -3223,10 +3263,28 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 202776,
       "name": "Holy Water Hangover",
       "url": "https://open.spotify.com/track/0eSwwBWKoxbAje61SkGhKn"
+    },
+    {
+      "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/37OWM40EuYKeBHWCBHJyq9"
+      },
+      "artists": [
+        {
+          "name": "The Lone Bellow",
+          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276760,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/1ALH9oRd8FqjfsSH0d8Ft4"
     },
     {
       "album": {
@@ -4905,7 +4963,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 163648,
       "name": "My Boy",
       "url": "https://open.spotify.com/track/5ndSLoHMt298BYsru2seYK"
@@ -5128,6 +5186,42 @@
     },
     {
       "album": {
+        "name": "Northern Attitude",
+        "url": "https://open.spotify.com/album/6DSEPejAMWGNfTyVAp4nA4"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267256,
+      "name": "Northern Attitude",
+      "url": "https://open.spotify.com/track/5hAFKx1IMhvx73JA6MSkIP"
+    },
+    {
+      "album": {
+        "name": "Oh Cecilia",
+        "url": "https://open.spotify.com/album/7DwaW8e6bF7dVm2eMtpxAF"
+      },
+      "artists": [
+        {
+          "name": "Born Ruffians",
+          "url": "https://open.spotify.com/artist/7wGrLSB3v7jkV3fSsjYwtv"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200336,
+      "name": "Oh Cecilia",
+      "url": "https://open.spotify.com/track/6diHlXYoz0YgK3mZ8o1HNT"
+    },
+    {
+      "album": {
         "name": "Take In The Roses",
         "url": "https://open.spotify.com/album/5eIYEqnWX9NaWSCm2GG8pU"
       },
@@ -5269,10 +5363,46 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 232297,
       "name": "Only The Lonely",
       "url": "https://open.spotify.com/track/2vf6KIEKiEEyc1OGr97TII"
+    },
+    {
+      "album": {
+        "name": "Some Of Us Are Brave",
+        "url": "https://open.spotify.com/album/2TETLoSHPG3KjGTHlMbFuQ"
+      },
+      "artists": [
+        {
+          "name": "Danielle Ponder",
+          "url": "https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232297,
+      "name": "Only The Lonely",
+      "url": "https://open.spotify.com/track/4oXzEYYm7ZQ3CCmSukXOmo"
+    },
+    {
+      "album": {
+        "name": "Open Arms",
+        "url": "https://open.spotify.com/album/5ppWXVOvEfdqOwCW9h7fbh"
+      },
+      "artists": [
+        {
+          "name": "Ruby Waters",
+          "url": "https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152362,
+      "name": "Open Arms",
+      "url": "https://open.spotify.com/track/5zWJcSvfHDRuOqf0RrjwV7"
     },
     {
       "album": {
@@ -6381,7 +6511,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 250053,
       "name": "Shotgun",
       "url": "https://open.spotify.com/track/5gG1tBzjqPWXTevct5kaLX"
@@ -6801,7 +6931,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 182346,
       "name": "Stick Season",
       "url": "https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5"
@@ -7897,7 +8027,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 273693,
       "name": "Unconditional I (Lookout Kid)",
       "url": "https://open.spotify.com/track/6xcrYjTKuONMfC1Qoc6Bdy"
@@ -8066,6 +8196,24 @@
     },
     {
       "album": {
+        "name": "Very Fine, Pts. 1 & 2 b/w Strawberry Letter 23",
+        "url": "https://open.spotify.com/album/07SAHKc8swr296nZdY2Bu8"
+      },
+      "artists": [
+        {
+          "name": "Neal Francis",
+          "url": "https://open.spotify.com/artist/2e5y5Gs5lgnDmiY4TKLsq3"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337826,
+      "name": "Very Fine - Pts. 1 & 2",
+      "url": "https://open.spotify.com/track/3NGlYT0YnxSL3tF0F7bBWV"
+    },
+    {
+      "album": {
         "name": "Virginia (Wind In The Night)",
         "url": "https://open.spotify.com/album/0NgrmQ40zdQLLqZF09wiIx"
       },
@@ -8189,7 +8337,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 216547,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/2JLhVqWY3tzTwtjZXbUdnQ"
@@ -8207,7 +8355,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 260866,
       "name": "Warning Signs",
       "url": "https://open.spotify.com/track/4Ip0oLPBQq9jbzEuR1foRV"

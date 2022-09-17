@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35qF4A5M9ux.md) - [plain]
 
 > ¡Éxitos salseros para prenderle fuego a la pista de baile!
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,790 likes - 100 songs - 8 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,023 likes - 100 songs - 8 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35qF4A5M9ux.md) - [plain]
 | 25 | [Ven Devórame Otra Vez](https://open.spotify.com/track/2HbmLkHkkI15eES8kpWRuI) | [Lalo Rodriguez](https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U) | [Oro Salsero](https://open.spotify.com/album/21W5Yp75UyOaWI2QALA7PS) | 5:11 |
 | 26 | [Cuenta Conmigo](https://open.spotify.com/track/1F1VPI3wUKEKA1DPx5Y9Fy) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [No Me Olvidaras](https://open.spotify.com/album/3nPnMxM4svBJpKF2UwtnRD) | 3:50 |
 | 27 | [Oiga, Mire, Vea](https://open.spotify.com/track/17Sfr3T1chYPGcmM4VlhCh) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [Sentimental de Punta a Punta](https://open.spotify.com/album/0MMzGqy6fMEb6ktGTuxEm2) | 5:25 |
-| 28 | [Si Me Ves Llorar](https://open.spotify.com/track/2CQJlWoNln1bdobttQ4znq) | [David Pabon](https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE) | [Mejor Que Ayer](https://open.spotify.com/album/2zf6kWIBrE5NOGLmy9vjCr) | 5:26 |
-| 29 | [Desde El Fondo De Mi Corazón](https://open.spotify.com/track/3rQndjZ676PPjV9QvL42te) | [Hildemaro](https://open.spotify.com/artist/2jc6xa4fD1dcYzuzGadGic) | [Amanecí Contigo Y Sin Tabú](https://open.spotify.com/album/40PyxT3MBm2aGxKLKKBfBB) | 4:02 |
+| 28 | [Desde El Fondo De Mi Corazón](https://open.spotify.com/track/3rQndjZ676PPjV9QvL42te) | [Hildemaro](https://open.spotify.com/artist/2jc6xa4fD1dcYzuzGadGic) | [Amanecí Contigo Y Sin Tabú](https://open.spotify.com/album/40PyxT3MBm2aGxKLKKBfBB) | 4:02 |
+| 29 | [Si Me Ves Llorar](https://open.spotify.com/track/2CQJlWoNln1bdobttQ4znq) | [David Pabon](https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE) | [Mejor Que Ayer](https://open.spotify.com/album/2zf6kWIBrE5NOGLmy9vjCr) | 5:26 |
 | 30 | [Nuestro Sueño](https://open.spotify.com/track/0g9d2hcBECm8eOuxG9w5kH) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [The Best](https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm) | 5:59 |
 | 31 | [Pequeñas Cosas](https://open.spotify.com/track/36T4XY4vbxmw40XMJPe3zw) | [Willie Gonzalez](https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z) | [Grandes Exitos](https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo) | 5:07 |
 | 32 | [Pedro Navaja](https://open.spotify.com/track/7aKs8kWKKau0SDgaeyZMAX) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Siembra](https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy) | 7:25 |
@@ -73,10 +73,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35qF4A5M9ux.md) - [plain]
 | 63 | [Y Qué Me Pasa](https://open.spotify.com/track/3h00Mu0HcUdCNaxxNoWB3B) | [Mickey Taveras](https://open.spotify.com/artist/1iVpMZKqpnZWfCXO2vIozm) | [Y Qué Me Pasa](https://open.spotify.com/album/7y91WmADTOR396FZe5KJGn) | 5:05 |
 | 64 | [A Puro Dolor](https://open.spotify.com/track/3BmwNuqx9pCqjLplOVNBLY) | [Son By Four](https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j) | [Son By 4](https://open.spotify.com/album/6FaDCE5IxXXMXVn3etukKq) | 4:21 |
 | 65 | [Si Volvieras A Mi](https://open.spotify.com/track/7FntdQdzMcHcD4QhItlq9s) | [Maelo Ruiz](https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw) | [En Tiempo De Amor](https://open.spotify.com/album/6oSejW0PK0YiKXj5YPm1tl) | 4:50 |
-| 66 | [Cara de Niño](https://open.spotify.com/track/4qsrxXxk4GCGih80VGmaAl) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Mis 30 Mejores Canciones](https://open.spotify.com/album/6fuOt44vgqDnAnZguOJecP) | 4:55 |
+| 66 | [Desnúdate Mujer](https://open.spotify.com/track/65nL3OLuHHfEYxKkHMQ1fL) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Voy Pa'Encima](https://open.spotify.com/album/6EMYCH8HyTiX5KSav7RTML) | 4:47 |
 | 67 | [Quiero Morir En Tu Piel](https://open.spotify.com/track/3t3jGDeU3t1ro51C3x2pPR) | [Willie Gonzalez](https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z) | [Grandes Exitos](https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo) | 6:17 |
 | 68 | [Ojos Chinos](https://open.spotify.com/track/4zOZQdgs7nSjMkqB7keSM5) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [20th Anniversary](https://open.spotify.com/album/3pYgBhT551TztQNYbXqB26) | 4:21 |
-| 69 | [Desnúdate Mujer](https://open.spotify.com/track/65nL3OLuHHfEYxKkHMQ1fL) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Voy Pa'Encima](https://open.spotify.com/album/6EMYCH8HyTiX5KSav7RTML) | 4:47 |
+| 69 | [Cara de Niño](https://open.spotify.com/track/4qsrxXxk4GCGih80VGmaAl) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Mis 30 Mejores Canciones](https://open.spotify.com/album/6fuOt44vgqDnAnZguOJecP) | 4:55 |
 | 70 | [Mi Cuerpo No Esta Hecho de Metal](https://open.spotify.com/track/6wtEHJnbvFFfjoxachlbR6) | [Los Titanes de la Salsa](https://open.spotify.com/artist/3hoC2n2vPN7VcWloMOocBi) | [Mi Cuerpo No Esta Hecho de Metal](https://open.spotify.com/album/7BWj5xz4UjKFk2VL1MQVq0) | 4:39 |
 | 71 | [Quien Entiende Este Amor](https://open.spotify.com/track/5MVbhLRhOLCifhbjwVyZPX) | [Galy Galiano](https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT) | [Serie Platino](https://open.spotify.com/album/76LbBAaJ1PqZU9fADHiqqt) | 5:03 |
 | 72 | [De Punta a Punta](https://open.spotify.com/track/1nB9ydATeeVCG3wrre1jcH) | [Grupo Caneo](https://open.spotify.com/artist/3dI63iYqCLcCokRcedC58Z) | [Original](https://open.spotify.com/album/10qbEhy86blV66VOIVuxw6) | 4:25 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35qF4A5M9ux.md) - [plain]
 | 99 | [Mascaras](https://open.spotify.com/track/7zKD27zr6GGvmnftzyze8O) | [El Inspector De La Salsa](https://open.spotify.com/artist/3jakCpqlxelvHkdvhPWl2p) | [Salsa Estelar](https://open.spotify.com/album/00TVXvhvENeaYgeHGzH157) | 5:26 |
 | 100 | [Dime Que Pasó](https://open.spotify.com/track/65D6E7asOuIcW8MQWaRCV2) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK), [Morist Jimenez](https://open.spotify.com/artist/5aGvZHNmq1JOt3vaEPDI2t) | [¡Para Bailar!](https://open.spotify.com/album/371uwra4kQVB4GyUxSSHGs) | 3:32 |
 
-Snapshot ID: `MTY1OTY0NDA5MSwwMDAwMDAwMGNlYTFkM2NhZDNhMjVlYzIxZWVhOTg3ZGQ5YTNiYzc2`
+Snapshot ID: `MTY1OTY0NDA5MSwwMDAwMDAwMDg5MmIyOWE5M2E1NTRkYTRjZTZiYmY4ZGM4NDgzYzRl`

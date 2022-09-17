@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 
 > Take a break from distorted guitars and enjoy punk's mellow side\. Cover: Avril Lavigne
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,248 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,296 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 | 30 | [Long Night](https://open.spotify.com/track/6bBpZU1qSbgkmjYTTFVr8m) | [With Confidence](https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav) | [Better Weather](https://open.spotify.com/album/4CRY2jHrlELIVgKfoFVBq9) | 3:33 |
 | 31 | [Jasey Rae \(Acoustic\)](https://open.spotify.com/track/1LrjSX2lQ7CeLb611nmqi7) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Put Up or Shut Up \(Deluxe Version\)](https://open.spotify.com/album/3xuCwUsfeMX6roY0s9SSmJ) | 3:33 |
 | 32 | [End of a Good Thing](https://open.spotify.com/track/24lepQuZF60EYEoYrBHVvW) | [Cory Wells](https://open.spotify.com/artist/4iLkUR4VnW577DOxOYjxwG) | [The Way We Are](https://open.spotify.com/album/35Gpjsc0v57PxfeCNL8ovv) | 4:38 |
-| 33 | [It Don't Exist](https://open.spotify.com/track/2NWzOzEnfD5dc4SEgUkgY7) | [Bayside](https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk) | [Acoustic Volume 2](https://open.spotify.com/album/0XIVAebYjcGqbWVHdVLLKD) | 3:35 |
-| 34 | [Novocaine](https://open.spotify.com/track/0WlfydvmDWXRdPSqbcjmLR) | [Boys of Fall](https://open.spotify.com/artist/0ILEjQuglCTYQkTrKGQvj5) | [Chasing Lonely](https://open.spotify.com/album/4nTEp8V1ov0Z47RT1XMmQJ) | 3:08 |
+| 33 | [Novocaine](https://open.spotify.com/track/0WlfydvmDWXRdPSqbcjmLR) | [Boys of Fall](https://open.spotify.com/artist/0ILEjQuglCTYQkTrKGQvj5) | [Chasing Lonely](https://open.spotify.com/album/4nTEp8V1ov0Z47RT1XMmQJ) | 3:08 |
+| 34 | [It Don't Exist](https://open.spotify.com/track/2NWzOzEnfD5dc4SEgUkgY7) | [Bayside](https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk) | [Acoustic Volume 2](https://open.spotify.com/album/0XIVAebYjcGqbWVHdVLLKD) | 3:35 |
 | 35 | [Who I Am Hates Who I've Been \- Acoustic](https://open.spotify.com/track/2sP6Ne0hozVjqZAhTzvjgi) | [Relient K](https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN) | [The Bird and the Bee Sides](https://open.spotify.com/album/7uiqOhZuzWcCl3WOS5R2jz) | 3:25 |
 | 36 | [Knuckles \(Acoustic\)](https://open.spotify.com/track/3HhBtAj2VzPfZMMklUIIed) | [Moose Blood](https://open.spotify.com/artist/5fEKZRCUa0JApec5Xy095q) | [Stay Beautiful](https://open.spotify.com/album/08fP12tMKq9moZ0LgJtpkd) | 3:47 |
 | 37 | [Take My Breath Away](https://open.spotify.com/track/7wtmaB8TOVjItfBcBP59TL) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [Sunnyland](https://open.spotify.com/album/55sUM2N9C0vUHeqc1C6xEZ) | 3:54 |
@@ -68,20 +68,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 | 58 | [Hunnie](https://open.spotify.com/track/0AL6tELBUTtpU4g4jChm5B) | [Locket](https://open.spotify.com/artist/7crTC2do2Rk3CXIO9cPJOf) | [All Out](https://open.spotify.com/album/2Yzoe2L70kwHWcDenjmrJm) | 3:35 |
 | 59 | [Right Here \(Acoustic\)](https://open.spotify.com/track/5UMNl7HXpYBFrgNC8ko6Jc) | [Chase Your Words](https://open.spotify.com/artist/6gph7xmxgbQ5dxhgxIjNKC) | [Right Here \(Acoustic\)](https://open.spotify.com/album/4mX8bQn7N85MziPkBeoNxr) | 3:49 |
 | 60 | [Wax Poetic \(Acoustic\)](https://open.spotify.com/track/62BBvS1Wr9Uw9IoSbumxxK) | [Capstan](https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE) | [Haunted](https://open.spotify.com/album/3Nhu3uQ7njNRKdQXz2HUhC) | 3:29 |
-| 61 | [The Eulogy of You and Me \- Acoustic](https://open.spotify.com/track/4TiXtzotMUHwn8ylMowMNl) | [Huddy](https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f) | [The Eulogy of You and Me \(Acoustic\)](https://open.spotify.com/album/7LkoDMiD7dXSQF6tyYt6OR) | 3:11 |
-| 62 | [“sometimes you meet the right people at the wrong times” \- Revisited](https://open.spotify.com/track/60fAMBBIVvW6mao5zVkzIZ) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [When the Dust Settles](https://open.spotify.com/album/2vsNr3uR7EfWMj2Qqt0i4U) | 3:08 |
-| 63 | [Empty Throne \- Acoustic](https://open.spotify.com/track/6ENH2r9VtuBrPmAV5R7t1f) | [Alazka](https://open.spotify.com/artist/1cvDsLFdRXfZQ1cdRteec7) | [Empty Throne \(Acoustic\)](https://open.spotify.com/album/5Oad5COo5IwNpeqDsWedmg) | 4:55 |
+| 61 | [Empty Throne \- Acoustic](https://open.spotify.com/track/6ENH2r9VtuBrPmAV5R7t1f) | [Alazka](https://open.spotify.com/artist/1cvDsLFdRXfZQ1cdRteec7) | [Empty Throne \(Acoustic\)](https://open.spotify.com/album/5Oad5COo5IwNpeqDsWedmg) | 4:55 |
+| 62 | [10 Am](https://open.spotify.com/track/104sjKzfCfEVL3ppGjOah2) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr) | [Unplugged](https://open.spotify.com/album/0PEFBp4wzBigHBO36a8ETV) | 3:34 |
+| 63 | [The Eulogy of You and Me \- Acoustic](https://open.spotify.com/track/4TiXtzotMUHwn8ylMowMNl) | [Huddy](https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f) | [The Eulogy of You and Me \(Acoustic\)](https://open.spotify.com/album/7LkoDMiD7dXSQF6tyYt6OR) | 3:11 |
 | 64 | [Disarm](https://open.spotify.com/track/4n3rvg5uxv56KS2ZX5OJHO) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Disarm](https://open.spotify.com/album/2Ph5PEPGxZx1QjRGE7Scgq) | 3:19 |
-| 65 | [10 Am](https://open.spotify.com/track/104sjKzfCfEVL3ppGjOah2) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr) | [Unplugged](https://open.spotify.com/album/0PEFBp4wzBigHBO36a8ETV) | 3:34 |
+| 65 | [“sometimes you meet the right people at the wrong times” \- Revisited](https://open.spotify.com/track/60fAMBBIVvW6mao5zVkzIZ) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [When the Dust Settles](https://open.spotify.com/album/2vsNr3uR7EfWMj2Qqt0i4U) | 3:08 |
 | 66 | [Losing Sleep](https://open.spotify.com/track/4prBT2FQAEMMXUXn40pwRf) | [Hazel](https://open.spotify.com/artist/5Ls4sckgFadMXSnhQCOEvX) | [Losing Sleep](https://open.spotify.com/album/3haT6irm5636PSIscDmtWp) | 3:57 |
 | 67 | [A Decade Under The Influence \- Acoustic](https://open.spotify.com/track/6c6vG7r3RWpiuIrawHNpd7) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Punk Goes Acoustic, Vol\. 3](https://open.spotify.com/album/51ltci877NFn74Zi9NCVy6) | 4:12 |
 | 68 | [sleepwalking](https://open.spotify.com/track/4VLX1i52yOU3uDUz3xYNgz) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE), [Owen](https://open.spotify.com/artist/4PJbP0dXALttfo1PFPY1Pt), [Mike Kinsella](https://open.spotify.com/artist/65MqFenJZqxNAPxnEATV8U) | [sleepwalking](https://open.spotify.com/album/7iNFE8xqEEOBl6gOwcDFoI) | 3:35 |
 | 69 | [I'll Be a Mess Without You](https://open.spotify.com/track/1tEHryc3JtijgvhpXetnSm) | [Chief State](https://open.spotify.com/artist/3BgSkC40Vy5XIcu6MKIYv5) | [I'll Be a Mess Without You](https://open.spotify.com/album/5OzUFzQTXROxNoSgRIBb6Z) | 4:37 |
 | 70 | [Leave It All Behind \- Acoustic](https://open.spotify.com/track/021zb89IodxPOcPZheUwVl) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [How It Feels to Be Lost \(Deluxe\)](https://open.spotify.com/album/3bd1MdHvtWscI301qFWQlH) | 2:59 |
-| 71 | [Every Little Thing, but More Chill](https://open.spotify.com/track/6uBlr9arbchJmmFBjDle0F) | [Midfield](https://open.spotify.com/artist/397cx9Xajaj4QpGMh5b7fY) | [Every Little Thing, but More Chill](https://open.spotify.com/album/7tN8iVp8XRBm9hNdropyX3) | 4:04 |
-| 72 | [Limits \- Unplugged](https://open.spotify.com/track/3Z06DUeSPpGqqVKoOa9Czi) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Limits](https://open.spotify.com/album/13Kz5MQJaH2Gz74OidluA5) | 3:16 |
+| 71 | [Limits \- Unplugged](https://open.spotify.com/track/3Z06DUeSPpGqqVKoOa9Czi) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Limits](https://open.spotify.com/album/13Kz5MQJaH2Gz74OidluA5) | 3:16 |
+| 72 | [Every Little Thing, but More Chill](https://open.spotify.com/track/6uBlr9arbchJmmFBjDle0F) | [Midfield](https://open.spotify.com/artist/397cx9Xajaj4QpGMh5b7fY) | [Every Little Thing, but More Chill](https://open.spotify.com/album/7tN8iVp8XRBm9hNdropyX3) | 4:04 |
 | 73 | [Still Dreaming \(Acoustic\)](https://open.spotify.com/track/78eBbSqWSyC3huP0YMPoKQ) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Redux: The First 10 Years](https://open.spotify.com/album/4OrWqio8gZ77ewMw7UtZ8l) | 4:16 |
 | 74 | [Dial Tones \- Acoustic Version](https://open.spotify.com/track/79hjAXUXQsWzfG6A7Lom1x) | [AS IT IS](https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y) | [Never Happy, Ever After \(Deluxe Edition\)](https://open.spotify.com/album/1yQpnfhLfNZTZi85osX4W4) | 3:24 |
 | 75 | [A Wasted Hymn \- Acoustic](https://open.spotify.com/track/43IHWxGlVL2SdtOqjkGUTx) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [A Wasted Hymn \(Acoustic\)](https://open.spotify.com/album/7KRlYg5KtNGgxtOlFmtmFg) | 4:05 |
 
-Snapshot ID: `MTY0OTA4NDYzMywwMDAwMDAwMDU3Y2E5Y2NlYjRlMDc5ZjQ2ZTI5OTMxNTUwMzUxY2Fi`
+Snapshot ID: `MTY0OTA4NDYzMywwMDAwMDAwMGNkOGI0M2EzYjU3MmVhOTQ4NDJmNTRiMTllODM5NTVi`

@@ -1,12 +1,12 @@
 {
   "description": "Sapphic songs that defined your music taste as \"yearning\" ",
-  "num_followers": 813658,
+  "num_followers": 816298,
   "original_name": "sad girl starter pack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzI3NDI1OCwwMDAwMDAwMGZkMTBmNTQ1ZGI1YjdmNGU0YjY4MGM5NTlkNzQxZGRm",
+  "snapshot_id": "MTY2MzI3NDI1OCwwMDAwMDAwMGEyNDJkNDRjNmQ5MDMwMmRjYzI1YmU3MTFlNmRlYjg1",
   "tracks": [
     {
       "added_at": "2022-06-10 20:37:57",
@@ -931,22 +931,6 @@
     {
       "added_at": "2022-06-10 20:37:57",
       "album": {
-        "name": "Human",
-        "url": "https://open.spotify.com/album/6Kr92CEAh6YLlEO8ubps17"
-      },
-      "artists": [
-        {
-          "name": "dodie",
-          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
-        }
-      ],
-      "duration_ms": 213611,
-      "name": "She",
-      "url": "https://open.spotify.com/track/45h4w81P5iJJTSeR0jJUQ8"
-    },
-    {
-      "added_at": "2022-06-10 20:37:57",
-      "album": {
         "name": "Numb",
         "url": "https://open.spotify.com/album/1HMR6PG5Su7p0JjRws7NBb"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 219340,
       "name": "Numb",
       "url": "https://open.spotify.com/track/6Ijmj8Z0L31hCp5pLZnT5U"
+    },
+    {
+      "added_at": "2022-06-10 20:37:57",
+      "album": {
+        "name": "Human",
+        "url": "https://open.spotify.com/album/6Kr92CEAh6YLlEO8ubps17"
+      },
+      "artists": [
+        {
+          "name": "dodie",
+          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+        }
+      ],
+      "duration_ms": 213611,
+      "name": "She",
+      "url": "https://open.spotify.com/track/45h4w81P5iJJTSeR0jJUQ8"
     },
     {
       "added_at": "2022-06-10 20:37:57",
@@ -1041,22 +1041,6 @@
       "url": "https://open.spotify.com/track/4PDJDIdWxNN1AlnbrKkoPf"
     },
     {
-      "added_at": "2022-06-10 20:37:57",
-      "album": {
-        "name": "Being So Normal",
-        "url": "https://open.spotify.com/album/6xduu32sm4aidoLhaxYkUA"
-      },
-      "artists": [
-        {
-          "name": "Peach Pit",
-          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
-        }
-      ],
-      "duration_ms": 361760,
-      "name": "Tommy's Party",
-      "url": "https://open.spotify.com/track/5OuJTtNve7FxUX82eEBupN"
-    },
-    {
       "added_at": "2022-08-26 04:01:00",
       "album": {
         "name": "In the Aeroplane Over the Sea",
@@ -1071,6 +1055,22 @@
       "duration_ms": 202346,
       "name": "In the Aeroplane Over the Sea",
       "url": "https://open.spotify.com/track/5rfT032kGmLvbxZzfHlu5D"
+    },
+    {
+      "added_at": "2022-06-10 20:37:57",
+      "album": {
+        "name": "Being So Normal",
+        "url": "https://open.spotify.com/album/6xduu32sm4aidoLhaxYkUA"
+      },
+      "artists": [
+        {
+          "name": "Peach Pit",
+          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
+        }
+      ],
+      "duration_ms": 361760,
+      "name": "Tommy's Party",
+      "url": "https://open.spotify.com/track/5OuJTtNve7FxUX82eEBupN"
     },
     {
       "added_at": "2022-07-20 22:11:26",

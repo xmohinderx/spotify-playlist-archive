@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UetYTdFoTk.md) - [plain]
 
 > To all the 7abieb out there\. Cover: Siilawy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,105 likes - 60 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,182 likes - 60 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UetYTdFoTk.md) - [plain]
 | 38 | [Shou Bado](https://open.spotify.com/track/2JPuzf3Fh445IZhJJsngw1) | [Yara](https://open.spotify.com/artist/46FJPTBdnCK0GMd76nil6e) | [Shou Bado](https://open.spotify.com/album/6151WNydXX3f5cJ5YtbnF3) | 3:24 |
 | 39 | [حبيبي](https://open.spotify.com/track/3Yptsq9Cjwju63hG5g3gXj) | [Carla Chamoun](https://open.spotify.com/artist/0StdV1uuvaOhOG4xR6lynG) | [حبيبي](https://open.spotify.com/album/0CxCavLJaPpt5vmxDWM6Bd) | 3:51 |
 | 40 | [Nami Aa Sadri](https://open.spotify.com/track/5f7CeTgKBeZiknrIGGKYIP) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Toul Al Yom](https://open.spotify.com/album/0fEk2u9h2WZa8tB6prjewu) | 3:15 |
-| 41 | [Howa Nafs El Shouk](https://open.spotify.com/track/6T2rewl8ekzcdP5KQGW5K1) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [Howa Nafs El Shouk](https://open.spotify.com/album/6wWHzbMgBnZoZAPsGUlAiM) | 5:17 |
-| 42 | [Ouloulou](https://open.spotify.com/track/40zTo5mvJkAcuJwbXnOk2L) | [Maritta Hallani](https://open.spotify.com/artist/6m7sil7DZpW1PDsVfkAOMP) | [Ouloulou](https://open.spotify.com/album/3cBrY3ZEt3CQEeTpW3Gr3m) | 3:23 |
+| 41 | [Ouloulou](https://open.spotify.com/track/40zTo5mvJkAcuJwbXnOk2L) | [Maritta Hallani](https://open.spotify.com/artist/6m7sil7DZpW1PDsVfkAOMP) | [Ouloulou](https://open.spotify.com/album/3cBrY3ZEt3CQEeTpW3Gr3m) | 3:23 |
+| 42 | [Howa Nafs El Shouk](https://open.spotify.com/track/6T2rewl8ekzcdP5KQGW5K1) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [Howa Nafs El Shouk](https://open.spotify.com/album/6wWHzbMgBnZoZAPsGUlAiM) | 5:17 |
 | 43 | [Aleb Albi](https://open.spotify.com/track/36jmUC55efoLTEheXaNZOp) | [Karim Nour](https://open.spotify.com/artist/5HArEmaE0ebTGJnUpurfIo) | [Aleb Albi](https://open.spotify.com/album/6bmVNmHt840K2iWz3F4UN4) | 3:39 |
 | 44 | [Wen Wen](https://open.spotify.com/track/3EN1SgNhN2VzewMpYglMKh) | [Saif Nabeel](https://open.spotify.com/artist/2i8aIAYY0wCKbFYWiihztK) | [Wen Wen](https://open.spotify.com/album/1WZvUCn06pvksWG9ZNHata) | 3:15 |
 | 45 | [Habibi Wayno](https://open.spotify.com/track/2nZKHO69mzHL9GtNWzAKpy) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [Habibi Wayno](https://open.spotify.com/album/4zx5oNdg8pKaq6NbD3ZYJI) | 4:46 |
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UetYTdFoTk.md) - [plain]
 | 53 | [Erjaa Shoufak](https://open.spotify.com/track/1b7XaGjQ8dGQMP4sVuOgHO) | [Dana Hourani](https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6) | [Ensanein](https://open.spotify.com/album/38MJVqssjkHcmUZKM9ERUt) | 3:47 |
 | 54 | [و انا معاك](https://open.spotify.com/track/36ekrEyHv96RLDSoQFbBot) | [Mohammed Alsahli](https://open.spotify.com/artist/7c7hybwd6CtpDhi0Imsppx), [زينة عماد](https://open.spotify.com/artist/7DhHYTuGOB46RI0zG0UVXa) | [و انا معاك](https://open.spotify.com/album/5ONxpuGaRJfwR69fSc1bAN) | 3:01 |
 | 55 | [Ana Maik](https://open.spotify.com/track/4yPhaq2WJyOvTmgbImV5fG) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Ana Maik](https://open.spotify.com/album/5DSufZLwmcV60H7V47eZp2) | 3:15 |
-| 56 | [شِمالي](https://open.spotify.com/track/196CcGNeJ0poBVJlIvnPUr) | [Joseph Attieh](https://open.spotify.com/artist/5DPb3SKW8QZFwkRlmt7Gvo) | [الاغاني اللي عملتا الك](https://open.spotify.com/album/3fwpj2fEjO7ZR9CWrOWtPQ) | 3:31 |
-| 57 | [Majnounik](https://open.spotify.com/track/1N7leiwIOMHcMV3ikRgIkB) | [Rabih Baroud](https://open.spotify.com/artist/3KNh2bgk3J2OGvzt0LJbrM) | [Majnounik](https://open.spotify.com/album/5Ux1hgdVaogAR5XuxGD2SI) | 2:59 |
+| 56 | [Majnounik](https://open.spotify.com/track/1N7leiwIOMHcMV3ikRgIkB) | [Rabih Baroud](https://open.spotify.com/artist/3KNh2bgk3J2OGvzt0LJbrM) | [Majnounik](https://open.spotify.com/album/5Ux1hgdVaogAR5XuxGD2SI) | 2:59 |
+| 57 | [شِمالي](https://open.spotify.com/track/196CcGNeJ0poBVJlIvnPUr) | [Joseph Attieh](https://open.spotify.com/artist/5DPb3SKW8QZFwkRlmt7Gvo) | [الاغاني اللي عملتا الك](https://open.spotify.com/album/3fwpj2fEjO7ZR9CWrOWtPQ) | 3:31 |
 | 58 | [Khodni Eleik](https://open.spotify.com/track/35NvGLU38ElWqhd7NW659s) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Kol Yom Men Dah](https://open.spotify.com/album/5jLCYOiVF1KkRjDJl10r4f) | 3:32 |
 | 59 | [هي الي](https://open.spotify.com/track/5gsySuD8jP4quf9HHmBpeZ) | [Melhem Zein](https://open.spotify.com/artist/3pCdpK2DVRSs77L9RtxFy0) | [الجرح اللي بعدو](https://open.spotify.com/album/43YudfflH4ShSAe4FFX2OI) | 3:54 |
 | 60 | [Ma Nesitak](https://open.spotify.com/track/1A32gfZPQjn4CJojB8Q08w) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Ma Nesitak](https://open.spotify.com/album/0dnleJmfjPjiH9iDeCUIwn) | 6:26 |
 
-Snapshot ID: `MTY2MTE1MTU2OCwwMDAwMDAwMDhlYjVkYmU2YzgyY2Y0ZjAxNjc5MDVlNTZhYzA1NDJm`
+Snapshot ID: `MTY2MTE1MTU2OCwwMDAwMDAwMDE0YzcyYzNjMDIyOTY1YTEzNjI1YTJjMzU1MzVkN2Ez`

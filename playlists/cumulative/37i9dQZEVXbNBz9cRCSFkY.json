@@ -5214,6 +5214,28 @@
     },
     {
       "album": {
+        "name": "Mood",
+        "url": "https://open.spotify.com/album/1KCy0t9OekxUxwTxfIHrbA"
+      },
+      "artists": [
+        {
+          "name": "Al James",
+          "url": "https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm"
+        },
+        {
+          "name": "Muric",
+          "url": "https://open.spotify.com/artist/48K8I2AZGPknyk914KtMzO"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "Mood",
+      "url": "https://open.spotify.com/track/27kaeLB6wRVvsaORS8O96F"
+    },
+    {
+      "album": {
         "name": "Mood (Remix) feat. Justin Bieber, J Balvin & iann dior",
         "url": "https://open.spotify.com/album/4PTxbJPI4jj0Kx8hwr1v0T"
       },
@@ -6485,7 +6507,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 298933,
       "name": "Running Up That Hill (A Deal With God)",
       "url": "https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR"

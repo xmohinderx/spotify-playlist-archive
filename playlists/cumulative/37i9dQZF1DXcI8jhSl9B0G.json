@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-09-15",
   "description": "Roots and acoustic tunes, for sun drenched days and balmy nights.",
   "name": "Summer Waves",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "00T5sUZpIOM8SUBV1DQ66W"
+  ],
   "tracks": [
     {
       "album": {
@@ -770,6 +772,24 @@
     },
     {
       "album": {
+        "name": "Bedroom Ice Age",
+        "url": "https://open.spotify.com/album/2EqclbDgaBBTn0SSQfDmcl"
+      },
+      "artists": [
+        {
+          "name": "Husky Gawenda",
+          "url": "https://open.spotify.com/artist/1sNJ4MiIoUC38wEPkXdW1W"
+        }
+      ],
+      "date_added": "2021-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115200,
+      "name": "Stay Safe",
+      "url": "https://open.spotify.com/track/2OyUCgOQnG9n4FZCCk0XD7"
+    },
+    {
+      "album": {
         "name": "Stay Safe",
         "url": "https://open.spotify.com/album/636X3GYDc89jyQOSoQCSt8"
       },
@@ -781,7 +801,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 115248,
       "name": "Stay Safe",
       "url": "https://open.spotify.com/track/6STzLUBbmGBh0DU143vkdI"

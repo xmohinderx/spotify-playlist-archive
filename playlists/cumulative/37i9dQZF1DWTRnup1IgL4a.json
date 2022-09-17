@@ -325,7 +325,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 108255,
       "name": "Doing Better",
       "url": "https://open.spotify.com/track/2pmjcW00KX4kdVeNBoU4wo"
@@ -415,7 +415,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 140849,
       "name": "Dulces alegr\u00edas",
       "url": "https://open.spotify.com/track/5PSOuj6VsXy6eXhBkBHqEr"
@@ -944,6 +944,24 @@
     },
     {
       "album": {
+        "name": "Kalon",
+        "url": "https://open.spotify.com/album/3lfOzzTyavf27SUAy3zyss"
+      },
+      "artists": [
+        {
+          "name": "Jose Luis Minguez",
+          "url": "https://open.spotify.com/artist/6SGQqtwYmt7PRq59A3N0kY"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142029,
+      "name": "Kalon",
+      "url": "https://open.spotify.com/track/3kVLbsa0LduXAdna4E8VI6"
+    },
+    {
+      "album": {
         "name": "Segovia & Contemporaries, Vol. 3: Luise Walker",
         "url": "https://open.spotify.com/album/2O9whRvwQ5Mdq0T3q2lMP3"
       },
@@ -1380,6 +1398,28 @@
     },
     {
       "album": {
+        "name": "Ninna Nanna",
+        "url": "https://open.spotify.com/album/37Vx9gzUIWcVBMMPZXDT6o"
+      },
+      "artists": [
+        {
+          "name": "Benvenuto Terzi",
+          "url": "https://open.spotify.com/artist/11clFa5g42IhNMUfqrxi6J"
+        },
+        {
+          "name": "Antonio D'Alessandro",
+          "url": "https://open.spotify.com/artist/6asVCY3psUdoSCrdGB4vON"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110250,
+      "name": "Ninna Nanna",
+      "url": "https://open.spotify.com/track/0X8rmh6dy3ihea34AS4Rzg"
+    },
+    {
+      "album": {
         "name": "Somewhere Ahead",
         "url": "https://open.spotify.com/album/5qoSYzAjuuMXA6AaIn5YJT"
       },
@@ -1391,7 +1431,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 171624,
       "name": "Northern",
       "url": "https://open.spotify.com/track/5orWjiWXDD8C4a0hBmhNDC"
@@ -1593,6 +1633,24 @@
       "duration_ms": 133206,
       "name": "Rest Sea",
       "url": "https://open.spotify.com/track/5UcoxNaxIuTV1WQ4eOzvYm"
+    },
+    {
+      "album": {
+        "name": "Restless Sea",
+        "url": "https://open.spotify.com/album/4AMOZFHaOtTz5Y36mTdZxt"
+      },
+      "artists": [
+        {
+          "name": "Alexa Popov",
+          "url": "https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123932,
+      "name": "Restless Sea",
+      "url": "https://open.spotify.com/track/1F8c9YGJjGXnSWhSoZedyH"
     },
     {
       "album": {
@@ -2115,7 +2173,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 120447,
       "name": "Unelaul Mina Ei Taha Veel Magama J\u00e4\u00e4da",
       "url": "https://open.spotify.com/track/76L57RAbQpGIva8HavRLwn"

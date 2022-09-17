@@ -4,7 +4,7 @@
 
 > TECHNO / GABBER / RAVE / APOCALYPSE
 
-165 songs - 12 hr 21 min - [published](https://open.spotify.com/playlist/29PkKU4dABal1uW4g9jRz9)
+166 songs - 12 hr 24 min - [published](https://open.spotify.com/playlist/29PkKU4dABal1uW4g9jRz9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Blika](https://open.spotify.com/track/5Jo4Y3kS3o6uXmtw5gHI2Z) | [Blawan](https://open.spotify.com/artist/64kN9EkSTHYhda2FupL0KI) | [Woke Up Right Handed](https://open.spotify.com/album/6aK9NotwcbuNOwn6i6aUdH) | 4:03 | 2022-05-23 |  |
 | [Blood For Tears](https://open.spotify.com/track/4Tp7bWQcVZddJ74vOQEo7y) | [Dirrek](https://open.spotify.com/artist/3XBCrAGxXQOATQN8v7CRK6) | [Blood For Tears](https://open.spotify.com/album/6vF8s4FcZtn9o1xkOaGC7E) | 4:17 | 2022-02-18 | 2022-07-25 |
 | [Bloto](https://open.spotify.com/track/0CqXIsqFJakfr2AN5NRCUa) | [Rapala700](https://open.spotify.com/artist/2HXbJNbekm1NSPEhrW7iQ4) | [Barotrauma](https://open.spotify.com/album/79IMXVfdJVO1LGkiDpgQiK) | 3:22 | 2022-02-18 |  |
+| [Blush Me Out!](https://open.spotify.com/track/7At2LwoalVOj9MY9GH1EST) | [LYZZA](https://open.spotify.com/artist/57xaBKepmdqQ6BjXkiHa4B) | [MOSQUITO](https://open.spotify.com/album/4Kn8Km3RZWAM7LfK3bfrKK) | 3:26 | 2022-09-16 |  |
 | [Boing Beat \- VTSS Remix](https://open.spotify.com/track/2tDrNpxe5PboAmdXTASPdA) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [MC Boing](https://open.spotify.com/artist/76PsQmabD32wQz48hYBV8F), [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Boing Beat \(VTSS Remix\)](https://open.spotify.com/album/3zEjavmRXcTecpqk6TCAa5) | 2:56 | 2022-02-18 | 2022-07-30 |
 | [But Show DD 1 Mix](https://open.spotify.com/track/4asS6rBuMnIhCaWbJZnhBg) | [Dj DIaki](https://open.spotify.com/artist/0LKQ9Iu5eujfbCBEQgZryn) | [Balani Fou](https://open.spotify.com/album/7oipozB6QfNqfvgQ3xgaqh) | 6:13 | 2022-05-23 | 2022-07-30 |
 | [But Show DD 1 Mix](https://open.spotify.com/track/5OhVdSWE4GjpkGViC7qLlj) | [Dj DIaki](https://open.spotify.com/artist/0LKQ9Iu5eujfbCBEQgZryn) | [Balani Fou](https://open.spotify.com/album/7ETPCmrsaEg5SAR7DQxF2F) | 6:13 | 2022-02-18 | 2022-07-29 |
@@ -71,7 +72,7 @@
 | [GMHDisciple Tech \- Extended Mix](https://open.spotify.com/track/0z1PWtKuENGEWEogvz94H3) | [Hotwaxx Hale](https://open.spotify.com/artist/0SvsDWCtBw4aI5QlNdK6mp) | [GMHDisciple Tech](https://open.spotify.com/album/2GOksubi8JDPd4N9HEqhhV) | 5:00 | 2022-02-18 | 2022-07-29 |
 | [Green Ice Cream](https://open.spotify.com/track/1OnHdMknOl7jLcbADu0TbN) | [Master Thunderous](https://open.spotify.com/artist/3kjKOkeAKBxhprr1LOrM2Q) | [Green Ice Cream](https://open.spotify.com/album/05YxbntNOnKSFLv4Xz0GMJ) | 5:15 | 2022-02-18 | 2022-07-27 |
 | [Groove Alert \- Alarm Mix](https://open.spotify.com/track/79vAMz8olTgiMKB8LsUGCD) | [DJ Disrespect](https://open.spotify.com/artist/7pYWyaWDxwNFySF8tutXwI) | [Classic Cuts Vol\. 2](https://open.spotify.com/album/3awgzwVt09xnq5Pr0T8fUJ) | 7:21 | 2022-02-18 | 2022-07-28 |
-| [Grotto](https://open.spotify.com/track/7AzuzLx3KbomYpBbed83Fx) | [Loppy B](https://open.spotify.com/artist/4e594LAfePGRGVcgQ1Uk2Y), [Air Max '97](https://open.spotify.com/artist/5DTUVDQxl5fDiY2plzFP9R), [SCAM](https://open.spotify.com/artist/0vyKPWjgqGEUgkMqhrcaim) | [Grotto](https://open.spotify.com/album/3iO9fAhL7ehzoulpBl0ems) | 3:49 | 2022-02-18 |  |
+| [Grotto](https://open.spotify.com/track/7AzuzLx3KbomYpBbed83Fx) | [Loppy B](https://open.spotify.com/artist/4e594LAfePGRGVcgQ1Uk2Y), [Air Max '97](https://open.spotify.com/artist/5DTUVDQxl5fDiY2plzFP9R), [SCAM](https://open.spotify.com/artist/0vyKPWjgqGEUgkMqhrcaim) | [Grotto](https://open.spotify.com/album/3iO9fAhL7ehzoulpBl0ems) | 3:49 | 2022-02-18 | 2022-09-17 |
 | [Gunjula \- Metrist Remix](https://open.spotify.com/track/45QvvNFHcZpIYTRGdbWp4s) | [Nihiloxica](https://open.spotify.com/artist/5jh8Bu4TjUGzixND0q0mGL), [Metrist](https://open.spotify.com/artist/2EaMCfkZ07OvRk0w2UOEwg) | [Kaloli Recycled](https://open.spotify.com/album/27T0AEWnQ6RD554Qg40kLI) | 3:52 | 2022-07-29 |  |
 | [Hard Tarantella](https://open.spotify.com/track/178YagFa1fETe8OgcscaOw) | [NZIRIA](https://open.spotify.com/artist/4bt8JAxE4tksg2VBgMCvIe) | [XXYBRID](https://open.spotify.com/album/7HZLxzOOyomjSwoJA0bvKL) | 5:05 | 2022-05-23 |  |
 | [Harder Yodel](https://open.spotify.com/track/5fvU2UZPOZVEsGNrbYhdW5) | [Maissouille](https://open.spotify.com/artist/1aQbGaag8KEI8kKtY37UQU), [D\-Frek](https://open.spotify.com/artist/72qaltoVzJ2iwZThuIxACd) | [Harder Yodel](https://open.spotify.com/album/4IUDCmHByiDLlPvUEGeSA9) | 3:13 | 2022-02-18 | 2022-07-30 |
@@ -87,7 +88,7 @@
 | [Istana \(IDM RMX\)](https://open.spotify.com/track/6foMpRRFNAYDF7Urp1U0S0) | [Senyawa](https://open.spotify.com/artist/0F0QctWhGzgl1Ih560JzWJ), [Ichu](https://open.spotify.com/artist/4Nrx4iYjUxWY5oDUjYsSCP) | [Istana \(IDM RMX\)](https://open.spotify.com/album/0eWA0KAahNuDD0pozptZDO) | 2:47 | 2022-02-18 |  |
 | [iteritax](https://open.spotify.com/track/0sDHfAWQpBazIpEAscxhPy) | [Cerrot](https://open.spotify.com/artist/0WWsZjbyYAPcxSFXvPY7Cx) | [Iteritax](https://open.spotify.com/album/4KF2LwQELhcBPbRmJDuaRu) | 5:54 | 2022-02-18 | 2022-07-30 |
 | [Jumpin'](https://open.spotify.com/track/3CjqPzG6sUMTzVAcA2bdKS) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Jumpin'](https://open.spotify.com/album/2KGsOHUVxwWMfJ8g3WtTER) | 5:25 | 2022-07-29 |  |
-| [JUNGLE TEKNAH](https://open.spotify.com/track/68TFG76EGGL6WZ5NlSu0fo) | [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO) | [JUNGLE TEKNAH](https://open.spotify.com/album/5CiPiMVy48leoaMEdzz9df) | 4:01 | 2022-07-29 |  |
+| [JUNGLE TEKNAH](https://open.spotify.com/track/68TFG76EGGL6WZ5NlSu0fo) | [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO) | [JUNGLE TEKNAH](https://open.spotify.com/album/5CiPiMVy48leoaMEdzz9df) | 4:01 | 2022-07-29 | 2022-09-17 |
 | [Kekuasaan \(Prontaxan Remix\)](https://open.spotify.com/track/5ZCUAO9sJoRi6t9g8k91Mg) | [Senyawa](https://open.spotify.com/artist/0F0QctWhGzgl1Ih560JzWJ) | [Alkisah Dikisahkan](https://open.spotify.com/album/2vWMINv5ZtiZsfiG2chFKI) | 6:34 | 2022-02-18 |  |
 | [Kombatan Aspal Gronjal](https://open.spotify.com/track/0EwXkPonit3IPkvy7qq0aG) | [Y\-DRA](https://open.spotify.com/artist/1msY5JlNLb9RszpNTUSSEO) | [No\-brain Dance](https://open.spotify.com/album/5Ym0DBVjNV1lbCMeHcS2bd) | 4:39 | 2022-02-18 | 2022-07-29 |
 | [La Parole](https://open.spotify.com/track/0Ro5RaxVlrskJdoVN3LB0G) | [Nkisi](https://open.spotify.com/artist/06egMm0xwc1DYUaApCCKiH) | [Berlin Atonal: More Light](https://open.spotify.com/album/5oZRcQW7SpQqefRotC20tA) | 7:44 | 2022-02-18 | 2022-07-29 |

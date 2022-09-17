@@ -4,7 +4,7 @@
 
 > Classic rockabilly and early rock 'n' roll.
 
-50 songs - 1 hr 56 min - not published yet
+50 songs - 1 hr 56 min - [published](https://open.spotify.com/playlist/1d77hCkF1D5MSOcxUCFlYa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -7088,24 +7088,6 @@
     },
     {
       "album": {
-        "name": "Bless U",
-        "url": "https://open.spotify.com/album/4nqypFxRgnryfWJqXkv3av"
-      },
-      "artists": [
-        {
-          "name": "Thelonious Coltrane",
-          "url": "https://open.spotify.com/artist/6iXZPP5qLB2dtIQ4WuNk9M"
-        }
-      ],
-      "date_added": "2022-09-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 186303,
-      "name": "Bless U",
-      "url": "https://open.spotify.com/track/428XVwBl5Fb7INjU72Po14"
-    },
-    {
-      "album": {
         "name": "Objets Trouv\u00e9s (Deluxe)",
         "url": "https://open.spotify.com/album/4GtSksLYFCEGv58Gw75C8O"
       },
@@ -60419,6 +60401,24 @@
       "duration_ms": 152000,
       "name": "Stream of Consciousness",
       "url": "https://open.spotify.com/track/5zCwGSdX2et9QL5bvCNEp3"
+    },
+    {
+      "album": {
+        "name": "Stressed Out",
+        "url": "https://open.spotify.com/album/4nqypFxRgnryfWJqXkv3av"
+      },
+      "artists": [
+        {
+          "name": "Thelonious Coltrane",
+          "url": "https://open.spotify.com/artist/6iXZPP5qLB2dtIQ4WuNk9M"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130675,
+      "name": "Stressed Out",
+      "url": "https://open.spotify.com/track/428XVwBl5Fb7INjU72Po14"
     },
     {
       "album": {

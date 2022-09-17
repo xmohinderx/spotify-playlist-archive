@@ -4,7 +4,7 @@
 
 > The biggest rock artists in Japan right now! Cover: ELLEGARDEN
 
-322 songs - 21 hr 14 min - [published](https://open.spotify.com/playlist/58cr9qiZRcBgGXeUmGq6P3)
+323 songs - 21 hr 18 min - [published](https://open.spotify.com/playlist/58cr9qiZRcBgGXeUmGq6P3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Apophenia](https://open.spotify.com/track/3QeJpeJmuIHnggfh17S42U) | [The Ravens](https://open.spotify.com/artist/3me3XE0gkkSvPUQAZtdP1r) | [ANTHEMICS](https://open.spotify.com/album/71bWcbfdQt3vuKxYCrAYfy) | 4:06 | 2022-08-30 | 2022-09-07 |
 | [aRIVAL](https://open.spotify.com/track/4DOTv4dTELFaVLl3cofJXV) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [aRIVAL](https://open.spotify.com/album/0YdPexNcKm8QsOOXc0mcij) | 2:50 | 2022-06-21 | 2022-07-06 |
 | [As long as I love](https://open.spotify.com/track/4Ffc5nmb7MkNyLLpSAH2er) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS), [Koshi Inaba](https://open.spotify.com/artist/0EvnQ89Ry2DPyn2xYAH9Ls) | [As long as I love / Scratch](https://open.spotify.com/album/0MSYKvvoxhGFpMykGLUCVF) | 4:10 | 2022-06-02 | 2022-07-28 |
+| [August](https://open.spotify.com/track/2iORIDxw0qWn5ezfmG4Crv) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [August](https://open.spotify.com/album/6jMFeJN63salxChERxBq2z) | 3:52 | 2022-09-15 |  |
 | [AVALANCHE](https://open.spotify.com/track/5j5GxdQl506TDP8nSkRD8x) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [AVALANCHE](https://open.spotify.com/album/1rQTIzd2E969GJjCIv3sGR) | 4:13 | 2022-05-24 | 2022-08-31 |
 | [Baby's Alright](https://open.spotify.com/track/5jFKVJxMWo7ieMI6TZFkCO) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [Baby's Alright](https://open.spotify.com/album/6X4Uwd6AcExE9pK9yXymFy) | 2:43 | 2022-07-12 |  |
 | [BackBeat](https://open.spotify.com/track/6ttx0DBQOzlAtPCuJUSP8V) | [DOES](https://open.spotify.com/artist/2zwGPEFviyaICCDiAWxLjy) | [BackBeat](https://open.spotify.com/album/20Kzp3sMbCnigdUkxbq6rj) | 3:50 | 2022-05-12 | 2022-07-29 |
@@ -260,7 +261,7 @@
 | [俺様バカ一代・改 \(2021 Mix\)](https://open.spotify.com/track/5QsUPtSbursmJkZTWttlqm) | [Dohatsuten](https://open.spotify.com/artist/2UUHBIbp6MHWflVwNbPUOE) | [リズム&ビートニク ’21 & ヤングデイズソング](https://open.spotify.com/album/5gi2XlxABHsg6ztt6sHn2H) | 4:39 | 2022-05-19 | 2022-06-10 |
 | [倍で返せ!](https://open.spotify.com/track/7DkNvI8C53akPoTvlS57Pg) | [Straightener](https://open.spotify.com/artist/4q5fHrf0Q0R6imQ3etjXEG) | [Crank Up](https://open.spotify.com/album/01EQVPGQUMByR3n7Iw1Wbw) | 3:14 | 2022-05-22 | 2022-07-14 |
 | [僕的地](https://open.spotify.com/track/4R254nmfaMgvgZH0cwSZf9) | [Tamio Okuda](https://open.spotify.com/artist/3ZWE1TnryM03rfzVin17K0) | [僕的地](https://open.spotify.com/album/7GegHcxnmBQT0yFxrVbPqp) | 4:41 | 2022-05-17 | 2022-07-11 |
-| [八月は僕の名前](https://open.spotify.com/track/5S57CHTpUpaceN58EP3Mn7) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [八月は僕の名前](https://open.spotify.com/album/7i4Z0kxoGUN4Ol3sLVOZeU) | 3:52 | 2022-09-15 |  |
+| [八月は僕の名前](https://open.spotify.com/track/5S57CHTpUpaceN58EP3Mn7) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [八月は僕の名前](https://open.spotify.com/album/7i4Z0kxoGUN4Ol3sLVOZeU) | 3:52 | 2022-09-15 | 2022-09-17 |
 | [勃](https://open.spotify.com/track/3X5FxxEUNq1tExNUZXgcEc) | [ENDRECHERI](https://open.spotify.com/artist/2Xe4i1wmyan14oNqhrTS78) | [勃](https://open.spotify.com/album/2nmxQfw5q7YIZ7EHsb2bwQ) | 3:22 | 2022-05-22 | 2022-06-09 |
 | [北極星のメロディー](https://open.spotify.com/track/1no67Xem769Zp65uuD3D8z) | [a flood of circle](https://open.spotify.com/artist/1BydOOxI2QltpphEOkKHgl) | [北極星のメロディー](https://open.spotify.com/album/4ei1drG1Zg6yhDwRlGwwPZ) | 4:28 | 2022-05-24 | 2022-06-17 |
 | [十匹の熊 \- ZERO TAKES Ver.](https://open.spotify.com/track/5FDAp7KH8l9CYlpD7gImdm) | [THE PINBALLS](https://open.spotify.com/artist/2Y0WFXb0NqTAv5DpLaUR4M) | [ZERO TAKES](https://open.spotify.com/album/64oIZKL8yH08Uh11YD5DJM) | 3:29 | 2022-05-19 | 2022-07-29 |

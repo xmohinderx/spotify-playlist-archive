@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0U9uWXLno47.md) - [plain]
 
 > Clásicos que no sabías que eran covers para disfrutar con papá.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,308 likes - 75 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,323 likes - 75 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0U9uWXLno47.md) - [plain]
 | 17 | [Dazed and Confused \- 1990 Remaster](https://open.spotify.com/track/6hu1f1cXSw7OAqhpSQ2zDy) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin](https://open.spotify.com/album/3ycjBixZf7S3WpC5WZhhUK) | 6:26 |
 | 18 | [China Girl \- 2018 Remaster](https://open.spotify.com/track/5Ei9o2fHEnfHb84YrPuz4v) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Let's Dance \(2018 Remaster\)](https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV) | 5:33 |
 | 19 | [I Will Survive](https://open.spotify.com/track/4THrHKyBL0yaDDw9yg37Zk) | [CAKE](https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV) | [Fashion Nugget](https://open.spotify.com/album/6kPOXxCYCdXBzEbb9dqE90) | 5:10 |
-| 20 | [We Can Work It Out](https://open.spotify.com/track/41q8ZiB3LZl4HRmmzUTIo4) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Signed, Sealed And Delivered](https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO) | 3:19 |
-| 21 | [I Put A Spell On You](https://open.spotify.com/track/4SDywo3ykB2PEthjXvo1UP) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Creedence Clearwater Revival \(Expanded Edition\)](https://open.spotify.com/album/7oIftk0P8cViwNpNEdCYl2) | 4:31 |
+| 20 | [I Put A Spell On You](https://open.spotify.com/track/4SDywo3ykB2PEthjXvo1UP) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Creedence Clearwater Revival \(Expanded Edition\)](https://open.spotify.com/album/7oIftk0P8cViwNpNEdCYl2) | 4:31 |
+| 21 | [We Can Work It Out](https://open.spotify.com/track/41q8ZiB3LZl4HRmmzUTIo4) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Signed, Sealed And Delivered](https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO) | 3:19 |
 | 22 | [Baby I'm Yours](https://open.spotify.com/track/6FLqFu1ApSkUddZ9P4H6Io) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Leave Before The Lights Come On](https://open.spotify.com/album/7zGAOSaUjqWdwyYtQvnqWy) | 2:32 |
 | 23 | [Personal Jesus](https://open.spotify.com/track/5dcwiQFqn0mTcWewYIv7MV) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American IV: The Man Comes Around](https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9) | 3:19 |
 | 24 | [Soldier of Love](https://open.spotify.com/track/0ll4shInilQVdYVrVVHpjB) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Last Kiss](https://open.spotify.com/album/11BDZR6NRHwPiPy1WQr4Jf) | 2:54 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0U9uWXLno47.md) - [plain]
 | 70 | [Grease](https://open.spotify.com/track/2a2apdi8RxYyUgMkHWIbM6) | [Flo Morrissey](https://open.spotify.com/artist/3qM2kgxt87sXgP2ytxZZv2), [Matthew E\. White](https://open.spotify.com/artist/58mMrwemoGIcDpvfHe46u4) | [Gentlewoman, Ruby Man](https://open.spotify.com/album/4F0zRJTpOsSvHQdtqdw6h5) | 4:21 |
 | 71 | [Zombie](https://open.spotify.com/track/1oPMTvVb57KNBV354DxsX9) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [The City Holds My Heart](https://open.spotify.com/album/0YCSQTk2QkPkHVHeGo1Pbu) | 3:24 |
 | 72 | [Golden Years](https://open.spotify.com/track/34PRFgMjpf1mTiIDIve6Sz) | [Car Seat Headrest](https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf) | [MADLO: Influences](https://open.spotify.com/album/4iIgfgwD4rgVNpGhOkAwyd) | 4:34 |
-| 73 | [Eyes Without A Face](https://open.spotify.com/track/48TH4snarSvpIF6559Gjry) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Aisles](https://open.spotify.com/album/6yp8LzFMaKy0WyPpTyYEB7) | 4:40 |
-| 74 | [Killing Me Softly](https://open.spotify.com/track/33JtNLiczBlcVTAzxRqXEv) | [Scary Pockets](https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN), [India Carney](https://open.spotify.com/artist/1P3aWqFIk6jRJ2IpxlHvGy) | [Nu Funk](https://open.spotify.com/album/4m0tTmOODI4Is44HefPOYk) | 3:20 |
+| 73 | [Killing Me Softly](https://open.spotify.com/track/33JtNLiczBlcVTAzxRqXEv) | [Scary Pockets](https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN), [India Carney](https://open.spotify.com/artist/1P3aWqFIk6jRJ2IpxlHvGy) | [Nu Funk](https://open.spotify.com/album/4m0tTmOODI4Is44HefPOYk) | 3:20 |
+| 74 | [Eyes Without A Face](https://open.spotify.com/track/48TH4snarSvpIF6559Gjry) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Aisles](https://open.spotify.com/album/6yp8LzFMaKy0WyPpTyYEB7) | 4:40 |
 | 75 | [Everybody Wants to Rule the World](https://open.spotify.com/track/75lEtKX3MoBmnUSmXn75E2) | [Brothertiger](https://open.spotify.com/artist/2MaMzvFmtu68r9zpdJ4tLE) | [Brothertiger Plays: Tears for Fears' Songs from the Big Chair](https://open.spotify.com/album/2Zv6ExetUe6w00tINrreEO) | 4:21 |
 
-Snapshot ID: `MTYzNTUyNTA3NiwwMDAwMDAwMGNiYWJiYTA1OTMyZjUxYTJkMmViMDdkODY0ZWRkZmE0`
+Snapshot ID: `MTYzNTUyNTA3NiwwMDAwMDAwMGFlNTRmNjRkNmNiMTFhMGE2OWI2NTJjMDE1NjhkOWJj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6W96LPxlVEm.md) - [plain]
 
 > Los mejores nuevos y viejos temas para cantar y perrear detrás del volante.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,578 likes - 80 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,657 likes - 80 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6W96LPxlVEm.md) - [plain]
 | 35 | [Te Vi](https://open.spotify.com/track/059bcIhyc2SBwm6sw2AZzd) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Te Vi](https://open.spotify.com/album/02XOoh8XrlCc466QkkjGk5) | 3:51 |
 | 36 | [Una Locura](https://open.spotify.com/track/5y7DaS3jAc9eZzcSOoUIwU) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Enoc](https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q) | 3:50 |
 | 37 | [TE MUDASTE](https://open.spotify.com/track/5RubKOuDoPn5Kj5TLVxSxY) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 2:10 |
-| 38 | [BICHOTA](https://open.spotify.com/track/1WvrDdouh6C51In1SdATbq) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [KG0516](https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW) | 2:58 |
+| 38 | [Tal Vez](https://open.spotify.com/track/5jW3rF4URMdK7tO2xjS5EI) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Homerun](https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn) | 4:23 |
 | 39 | [Con Altura](https://open.spotify.com/track/2qG5sZ7Si6sdK74qLxedYM) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [El Guincho](https://open.spotify.com/artist/1oMiDFyAgmIzw9ZBQYHOJI) | [Con Altura](https://open.spotify.com/album/4bxHLppgdmaYJk0yfdcP0l) | 2:41 |
-| 40 | [Tal Vez](https://open.spotify.com/track/5jW3rF4URMdK7tO2xjS5EI) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Homerun](https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn) | 4:23 |
+| 40 | [BICHOTA](https://open.spotify.com/track/1WvrDdouh6C51In1SdATbq) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [KG0516](https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW) | 2:58 |
 | 41 | [Mi Gata](https://open.spotify.com/track/6J8lLpZoRCmB5pTrnB5jpV) | [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz), [El Barto](https://open.spotify.com/artist/5RnwLXlnWPF57yzdmUnnvP) | [Mi Gata](https://open.spotify.com/album/3q8hLBzvjSHKczrS3ScvSO) | 3:22 |
 | 42 | [Fiel](https://open.spotify.com/track/7Bk0uXKk1uPT0XuQbpFzvs) | [Los Legendarios](https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Los Legendarios 001](https://open.spotify.com/album/7g5WqPI4CdA22Cy8LxRXCf) | 4:21 |
 | 43 | [Sexo Virtual](https://open.spotify.com/track/1lV3QHHMAQt0Kc1ioZq2MP) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh) | 3:28 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6W96LPxlVEm.md) - [plain]
 | 46 | [Secreto](https://open.spotify.com/track/5W83ErFkO3aKAIS1WMi6u0) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Secreto](https://open.spotify.com/album/6owzcG80ifZRDApCpzJYK1) | 4:18 |
 | 47 | [Yo x Ti, Tu x Mi](https://open.spotify.com/track/7BlBVFwvbWvcwNcUarQmjk) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Yo x Ti, Tu x Mi](https://open.spotify.com/album/3844bY26oeSkqd06th4EYp) | 3:21 |
 | 48 | [Baila Conmigo \(with Rauw Alejandro\)](https://open.spotify.com/track/079Ey5uxL04AKPQgVQwx5h) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Revelación \- EP](https://open.spotify.com/album/2jGa3OwXatFYQAIS7OV7k9) | 3:06 |
-| 49 | [Bandido](https://open.spotify.com/track/1xK1Gg9SxG8fy2Ya373oqb) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr) | [Bandido](https://open.spotify.com/album/5sIyJyOgwEIOgBhLxIGG3t) | 3:52 |
-| 50 | [Mi Cuarto](https://open.spotify.com/track/6fmQjRuo7XvRFCK2qex5hQ) | [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT) | [DI LETRA](https://open.spotify.com/album/1NTAPW8MixdsXxAi4v9hBn) | 3:17 |
+| 49 | [Mi Cuarto](https://open.spotify.com/track/6fmQjRuo7XvRFCK2qex5hQ) | [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT) | [DI LETRA](https://open.spotify.com/album/1NTAPW8MixdsXxAi4v9hBn) | 3:17 |
+| 50 | [Bandido](https://open.spotify.com/track/1xK1Gg9SxG8fy2Ya373oqb) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr) | [Bandido](https://open.spotify.com/album/5sIyJyOgwEIOgBhLxIGG3t) | 3:52 |
 | 51 | [Hola \- Remix](https://open.spotify.com/track/5stPVcRqb4qixbafP9e8lt) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr), [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx) | [Hola \(Remix\)](https://open.spotify.com/album/65Pp2tO1Ul66KcCmmkRGWZ) | 4:09 |
 | 52 | [Tan Bonita](https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [El Amor En Los Tiempos Del Perreo](https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE) | 3:31 |
 | 53 | [Salimo de Noche](https://open.spotify.com/track/6P096SaOzrgGxs8NWOfX7M) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [Salimo de Noche](https://open.spotify.com/album/0S3Zf8tQnpcnRbzY9qJ2x8) | 2:57 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6W96LPxlVEm.md) - [plain]
 | 79 | [Dream Girl \- Remix](https://open.spotify.com/track/099tjv6oy2opbpCOA3nBwX) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Dream Girl \(Remix\)](https://open.spotify.com/album/0BeosbWOaMfZ5itwYQfw86) | 3:12 |
 | 80 | [Detente](https://open.spotify.com/track/0x1k6gSTSxaLxe0F2IThaX) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Navegando](https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0) | 3:01 |
 
-Snapshot ID: `MTY2MjM1MTUwNiwwMDAwMDAwMGFkMWU4ZmY4M2Y2N2I5MTk0ZjJjZjgwYmVjZjExMjM3`
+Snapshot ID: `MTY2MjM1MTUwNiwwMDAwMDAwMDI5NmFlMTRhZTZkYjI0ZGM2ODlkNWZiNGRkMzY5NmEw`

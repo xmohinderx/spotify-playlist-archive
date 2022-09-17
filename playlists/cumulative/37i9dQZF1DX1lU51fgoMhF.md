@@ -4,7 +4,7 @@
 
 > Be cool with refreshing Tropical K\-Pop dance music! \(시원청량한 국내 댄스곡을 즐겨보세요!\) \(Cover: NAYEON\(나연\)\)
 
-279 songs - 15 hr 29 min - [published](https://open.spotify.com/playlist/4I910OciKq3ClAvBAI2YCq)
+280 songs - 15 hr 33 min - [published](https://open.spotify.com/playlist/4I910OciKq3ClAvBAI2YCq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,6 +236,7 @@
 | [SEE SEA](https://open.spotify.com/track/6UMAXSwjuP9YPlObKugTO9) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [SAY MY NAME](https://open.spotify.com/album/0ZqsXIBaGGO8I1AbCxAdyt) | 3:20 | 2022-01-09 | 2022-07-28 |
 | [See Sea, BAE](https://open.spotify.com/track/1FaFCInUMdizjVUKkMZxro) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [<Queendom2> FANtastic QUEENDOM 1\-2](https://open.spotify.com/album/4WdZvIgh5ok6IrTKBx1UFA) | 3:27 | 2022-06-08 | 2022-07-29 |
 | [SHAKE IT](https://open.spotify.com/track/1ezubi9SlRqI3fHoGXjuP7) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [<Queendom2> Part.2\-1](https://open.spotify.com/album/4UhIreAIqRgp2l8PlMGqH0) | 4:14 | 2022-06-09 | 2022-08-13 |
+| [Shining Love Song](https://open.spotify.com/track/0DFSFBB4faitgBed2IJ4O5) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [Shining Love Song](https://open.spotify.com/album/7n2p500IY7UeU9NlgFFeV0) | 3:11 | 2022-09-05 |  |
 | [Skip Skip](https://open.spotify.com/track/2Zb4ieqfoCB6WP5LO2NmCK) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [INTO VIOLET](https://open.spotify.com/album/3CjwKaPAPzaHgivlGFjsp4) | 3:22 | 2021-11-17 | 2022-07-29 |
 | [So What](https://open.spotify.com/track/2O6xWo72i6URMHmWVu4zgy) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [<Queendom2> Part.2\-2](https://open.spotify.com/album/5ftR2nskDFsLbszHNIiYJp) | 4:03 | 2022-06-08 | 2022-09-12 |
 | [SOS](https://open.spotify.com/track/0HqzhHq24yCgB9gz5dVFn8) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Taste of Love](https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4) | 2:53 | 2021-11-17 |  |
@@ -250,7 +251,7 @@
 | [Summer or Summer](https://open.spotify.com/track/6tU92qp9bJWAW86IHUggUa) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ), [DASOM](https://open.spotify.com/artist/6xxFNpc17jiiVZzOCgdLyv) | [Summer or Summer](https://open.spotify.com/album/5Sxd8gbumDCdcmq6M24eJV) | 3:19 | 2021-11-17 |  |
 | [SUMMER PUNCH!](https://open.spotify.com/track/1DS55QyHMFDkNySaPe7hB5) | [Rocket Punch](https://open.spotify.com/artist/4hozqATxbpy9TwKWRT8QVO) | [BLUE PUNCH](https://open.spotify.com/album/1V1QotYL18t1kflVEcVLxd) | 3:15 | 2021-11-17 | 2022-06-13 |
 | [SUMMERIDE](https://open.spotify.com/track/4M9NbNJnOpVCN5jbNln2TJ) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [SUMMERIDE](https://open.spotify.com/album/5mZSzANMkDsJlbTTxugNNo) | 3:38 | 2021-11-17 |  |
-| [Summertime \(feat\. Ashley Alisha\)](https://open.spotify.com/track/7Iik4joMVkfqrMMCDwFe3W) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk) | [Summertime](https://open.spotify.com/album/0r9E2hgF8kZ4k9zDk72CbK) | 3:01 | 2022-06-18 |  |
+| [Summertime \(feat\. Ashley Alisha\)](https://open.spotify.com/track/7Iik4joMVkfqrMMCDwFe3W) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk) | [Summertime](https://open.spotify.com/album/0r9E2hgF8kZ4k9zDk72CbK) | 3:01 | 2022-06-18 | 2022-09-17 |
 | [Summertime \(Feat\. Keem Hyoeun\)](https://open.spotify.com/track/7oK8KEekZqC9aHmFiKS1i9) | [HA:TFELT](https://open.spotify.com/artist/3Mrp5B6JdfoiObgY0WR8lF), [Keem Hyo\-Eun](https://open.spotify.com/artist/59KuGY6nfY3w39O0qYVA7p) | [Summertime](https://open.spotify.com/album/4NrnglBZ27dnRl3VCTpG3B) | 3:44 | 2021-11-17 | 2022-07-28 |
 | [SUNDAY MOON](https://open.spotify.com/track/0wwpe1nbFJgvSJhlpcJBce) | [Yoon Jisung](https://open.spotify.com/artist/336NKYVCHaJbC8RrMEO8NM) | [Temperature of Love](https://open.spotify.com/album/243WfskVKVmbYsRLsMnhhV) | 3:34 | 2022-01-09 | 2022-05-10 |
 | [SWEET SUMMER DAY](https://open.spotify.com/track/6UrML9LyuaBWgZV3nFLLGl) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MORE & MORE](https://open.spotify.com/album/5KsduuDNWzt65TaHzmtciv) | 3:11 | 2021-11-17 | 2022-07-18 |

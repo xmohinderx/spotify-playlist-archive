@@ -2,9 +2,9 @@
 
 ### [This Is BLACKPINK](https://open.spotify.com/playlist/37i9dQZF1DX8kP0ioXjxIA)
 
-> BLACKPINK in our area! Taste that Pink Venom!
+> BLACKPINK in our area! Are you ready to Shut Down?
 
-64 songs - 3 hr 32 min - [published](https://open.spotify.com/playlist/4rpz4c4LPfQuPugTkBiX1N)
+71 songs - 3 hr 53 min - [published](https://open.spotify.com/playlist/4rpz4c4LPfQuPugTkBiX1N)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Forever Young](https://open.spotify.com/track/6veFyjNycn6EaNCKhkPXUY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE UP](https://open.spotify.com/album/0wOiWrujRbxlKEGWRQpKYc) | 3:59 | 2020-08-28 |  |
 | [FOREVER YOUNG \- Japanese Version](https://open.spotify.com/track/02h4inVwwNX1cMuGCDtsgV) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BLACKPINK IN YOUR AREA \(Japanese Version\)](https://open.spotify.com/album/4cpZazoKuj3jD6x2GrSX2w) | 3:57 | 2020-08-28 |  |
 | [Gone](https://open.spotify.com/track/2dHoVW9AxJVSRebPRyV2aA) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [R](https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob) | 3:27 | 2021-03-12 |  |
+| [Hard to Love](https://open.spotify.com/track/3MJhPqL2IgGs7gHEB2M35q) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 2:42 | 2022-09-16 |  |
 | [Hope Not](https://open.spotify.com/track/3eZD5DZGibwxMAOaCMBg3k) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [KILL THIS LOVE](https://open.spotify.com/album/3PNxZ3BELbUXJ1XLktXiHz) | 3:11 | 2020-08-28 |  |
 | [Hope Not](https://open.spotify.com/track/6euC2yxyQA6uztolUYnhiW) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Kill This Love](https://open.spotify.com/album/2Pz8VAMiGc9UW1rrbBRDuO) | 3:11 | 2020-08-28 | 2022-07-29 |
 | [How You Like That](https://open.spotify.com/track/3vAn0qZzdyuHamcrpkfiX3) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [How You Like That](https://open.spotify.com/album/19LMUlWN7xU2NW80pZSeuH) | 3:01 | 2020-08-28 | 2022-07-29 |
@@ -54,6 +55,7 @@
 | [PLAYING WITH FIRE](https://open.spotify.com/track/7qmvLmX9tyaTiBAVNI6YEn) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE TWO](https://open.spotify.com/album/2Fna4Tb7fme5aHsNMJtVtp) | 3:17 | 2020-08-28 |  |
 | [PLAYING WITH FIRE](https://open.spotify.com/track/7e7VjLxO5xJINHvnRytrqi) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE TWO](https://open.spotify.com/album/2s27rRgZswwbRJUQXSGTLf) | 3:17 | 2020-08-28 | 2022-07-29 |
 | [Pretty Savage](https://open.spotify.com/track/1XnpzbOGptRwfJhZgLbmSr) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 3:21 | 2020-10-02 |  |
+| [Ready For Love](https://open.spotify.com/track/1Wwh6gmMeolwzbRzfZMY5b) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 3:04 | 2022-09-16 |  |
 | [Really](https://open.spotify.com/track/2URMA0ap6SAI8wFmcY1yta) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE UP](https://open.spotify.com/album/0wOiWrujRbxlKEGWRQpKYc) | 3:17 | 2020-08-28 |  |
 | [Really](https://open.spotify.com/track/2r5oD7twaQTsv5KoRS6v16) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE UP](https://open.spotify.com/album/1HwIUaaEuRsxsIyssqtGLH) | 3:17 | 2020-08-28 | 2022-07-29 |
 | [REALLY \- Japanese Version](https://open.spotify.com/track/6OKXcx7tClGAS0o2cOTl2v) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BLACKPINK IN YOUR AREA \(Japanese Version\)](https://open.spotify.com/album/4cpZazoKuj3jD6x2GrSX2w) | 3:17 | 2020-08-28 |  |
@@ -61,15 +63,20 @@
 | [See U Later](https://open.spotify.com/track/3AyLh4R4D3fQfyqCsTdFf3) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE UP](https://open.spotify.com/album/1HwIUaaEuRsxsIyssqtGLH) | 3:18 | 2020-08-28 | 2022-07-29 |
 | [SEE U LATER \- Japanese Version](https://open.spotify.com/track/7IS4NciwYPs1wMywOKx69z) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BLACKPINK IN YOUR AREA \(Japanese Version\)](https://open.spotify.com/album/4cpZazoKuj3jD6x2GrSX2w) | 3:19 | 2020-08-28 |  |
 | [SG \(with Ozuna, Megan Thee Stallion & LISA of BLACKPINK\)](https://open.spotify.com/track/6IPNp9PfaEqrzotY47TIWy) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [SG \(with Ozuna, Megan Thee Stallion & LISA of BLACKPINK\)](https://open.spotify.com/album/2TGtXG18s21Q1jnY2TC39M) | 3:45 | 2021-11-01 |  |
+| [Shut Down](https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 2:55 | 2022-09-16 |  |
 | [SOLO](https://open.spotify.com/track/2XIaetAZTyR7oQfHh8DZ2B) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [SOLO](https://open.spotify.com/album/68GNh1ZjfSewE8uBCH3UnR) | 2:49 | 2020-08-28 | 2022-07-29 |
 | [SOLO](https://open.spotify.com/track/2wVDWtLKXunswWecARNILj) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [SOLO](https://open.spotify.com/album/7qAJpYeABXN9ZV5wOOX59k) | 2:49 | 2020-08-28 |  |
 | [Sour Candy \(with BLACKPINK\)](https://open.spotify.com/track/6R6ZoHTypt5lt68MWbzZXv) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Sour Candy \(with BLACKPINK\)](https://open.spotify.com/album/6y6lP1WRfqEhv8RLy4ufZB) | 2:37 | 2020-08-28 |  |
 | [STAY](https://open.spotify.com/track/3tP6QKbXvtrxiDI7QwKyUf) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE TWO](https://open.spotify.com/album/2Fna4Tb7fme5aHsNMJtVtp) | 3:50 | 2020-08-28 |  |
 | [STAY](https://open.spotify.com/track/4TWHREp4wv0TmewqR6rgRd) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE TWO](https://open.spotify.com/album/2s27rRgZswwbRJUQXSGTLf) | 3:50 | 2020-08-28 | 2022-07-29 |
+| [Tally](https://open.spotify.com/track/0bYVPJvXr8ACmw313cVvhB) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 3:04 | 2022-09-16 |  |
+| [The Happiest Girl](https://open.spotify.com/track/1XoY4WZrvPIphBaikXGjF8) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 3:42 | 2022-09-16 |  |
+| [Typa Girl](https://open.spotify.com/track/0L8LOav65XwLjCLS11gNPD) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 2:59 | 2022-09-16 |  |
 | [WHISTLE](https://open.spotify.com/track/6NEoeBLQbOMw92qMeLfI40) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE ONE](https://open.spotify.com/album/0FOOodYRlj7gzh7q7IjmNZ) | 3:31 | 2020-08-28 |  |
 | [WHISTLE](https://open.spotify.com/track/7HWmJ1wBecOAMNGjC6SmKE) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE ONE](https://open.spotify.com/album/0AcFaK32ui9rF2ySEdXrv4) | 3:31 | 2020-08-28 | 2022-07-29 |
 | [WHISTLE \- Acoustic Ver.](https://open.spotify.com/track/20MOKIGONywL5xIoB7RRAR) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE TWO](https://open.spotify.com/album/2Fna4Tb7fme5aHsNMJtVtp) | 3:32 | 2020-08-28 |  |
 | [WHISTLE \- Acoustic Ver.](https://open.spotify.com/track/0doLJjIDrYkoXDb4b9Qa8n) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE TWO](https://open.spotify.com/album/2s27rRgZswwbRJUQXSGTLf) | 3:32 | 2020-08-28 | 2022-07-29 |
+| [Yeah Yeah Yeah](https://open.spotify.com/track/5y4WmuvFX1t3NdSId0MFOh) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 2:58 | 2022-09-16 |  |
 | [You Never Know](https://open.spotify.com/track/1b0PG9Zd1HhOwq3n9QNkDg) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/5jI79QM3CJiSELceqwVe78) | 3:49 | 2020-10-02 | 2022-07-29 |
 | [You Never Know](https://open.spotify.com/track/39kzWAiVPpycdMpr745oPj) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 3:51 | 2020-10-02 |  |
 

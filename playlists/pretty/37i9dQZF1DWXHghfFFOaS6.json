@@ -1,12 +1,12 @@
 {
   "description": "Where hip-hop and soul meets jazz. Cover: Digable Planets",
-  "num_followers": 222657,
+  "num_followers": 222833,
   "original_name": "Acid Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDIzODM1MywwMDAwMDAwMDY5NjBkYWY1Mzc3MGRmNGVlNWJmZWY1NDI4N2MyOTg5",
+  "snapshot_id": "MTY2MDIzODM1MywwMDAwMDAwMDI0YmIxODI2Nzc0OTRkZDE3NGE2ZjIyMTVkNGE2MGQ4",
   "tracks": [
     {
       "added_at": "2022-07-14 19:24:43",
@@ -75,22 +75,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Drive-Thru Booty",
-        "url": "https://open.spotify.com/album/30CvHpK3jlKpgndhjOx3n2"
-      },
-      "artists": [
-        {
-          "name": "Freak Power",
-          "url": "https://open.spotify.com/artist/0uh9TDn4yP8gqCmrnIcOPJ"
-        }
-      ],
-      "duration_ms": 264093,
-      "name": "Turn On, Tune In, Cop Out - Radio Edit",
-      "url": "https://open.spotify.com/track/2SC4TS2QvUcKvXRFGgyyDc"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "The LP",
         "url": "https://open.spotify.com/album/7hzM3Sa8BoCKrNqrKJqyz1"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 208866,
       "name": "I Juswanna Chill",
       "url": "https://open.spotify.com/track/3ipzZgH1766XXRamVwk1Iw"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Drive-Thru Booty",
+        "url": "https://open.spotify.com/album/30CvHpK3jlKpgndhjOx3n2"
+      },
+      "artists": [
+        {
+          "name": "Freak Power",
+          "url": "https://open.spotify.com/artist/0uh9TDn4yP8gqCmrnIcOPJ"
+        }
+      ],
+      "duration_ms": 264093,
+      "name": "Turn On, Tune In, Cop Out - Radio Edit",
+      "url": "https://open.spotify.com/track/2SC4TS2QvUcKvXRFGgyyDc"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -771,22 +771,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Keep On Movin'",
-        "url": "https://open.spotify.com/album/1y3jN9LkTstdnogs1Xywni"
-      },
-      "artists": [
-        {
-          "name": "Soul II Soul",
-          "url": "https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf"
-        }
-      ],
-      "duration_ms": 157640,
-      "name": "Jazzie's Groove",
-      "url": "https://open.spotify.com/track/0HGxuuv3WdVpIFZeIepoUq"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Once In The Life (Original Motion Picture Soundtrack) [Digitally Remastered]",
         "url": "https://open.spotify.com/album/1OZ06WuBDhR2fS4r5huztx"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 354640,
       "name": "Breakfast At Denny's",
       "url": "https://open.spotify.com/track/7uLrf2TyeptKCxsAVRIsXi"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Keep On Movin'",
+        "url": "https://open.spotify.com/album/1y3jN9LkTstdnogs1Xywni"
+      },
+      "artists": [
+        {
+          "name": "Soul II Soul",
+          "url": "https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf"
+        }
+      ],
+      "duration_ms": 157640,
+      "name": "Jazzie's Groove",
+      "url": "https://open.spotify.com/track/0HGxuuv3WdVpIFZeIepoUq"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Bon Voyage",
-        "url": "https://open.spotify.com/album/5NFauXmMJwlk20UOtkUWJh"
-      },
-      "artists": [
-        {
-          "name": "United Future Organization",
-          "url": "https://open.spotify.com/artist/0V4fAktrp2psvXpQb2KSWh"
-        }
-      ],
-      "duration_ms": 327133,
-      "name": "Good Luck Shore",
-      "url": "https://open.spotify.com/track/2hrJhwVInTOFaXcCuFzRl9"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "In the Hand of the Inevitable",
         "url": "https://open.spotify.com/album/4XTXpbLvjAvzyzInkgK992"
       },
@@ -1135,22 +1119,18 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Afro-Funk",
-        "url": "https://open.spotify.com/album/2Qrd99xe9fSKbErdIeYE8k"
+        "name": "Bon Voyage",
+        "url": "https://open.spotify.com/album/5NFauXmMJwlk20UOtkUWJh"
       },
       "artists": [
         {
-          "name": "T. P. Orchestre Poly-Rythmo",
-          "url": "https://open.spotify.com/artist/0eJnyYv95cVqWkoujUq7kb"
-        },
-        {
-          "name": "Gabo Brown",
-          "url": "https://open.spotify.com/artist/4611pTtcuyslFogumDsWzP"
+          "name": "United Future Organization",
+          "url": "https://open.spotify.com/artist/0V4fAktrp2psvXpQb2KSWh"
         }
       ],
-      "duration_ms": 262893,
-      "name": "It's A Vanity",
-      "url": "https://open.spotify.com/track/0MiEkTtkvhohBIG2C7NdPh"
+      "duration_ms": 327133,
+      "name": "Good Luck Shore",
+      "url": "https://open.spotify.com/track/2hrJhwVInTOFaXcCuFzRl9"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1175,18 +1155,38 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "True Spirit",
-        "url": "https://open.spotify.com/album/6GxnHqovqi1yRhCpLQ9LPp"
+        "name": "Afro-Funk",
+        "url": "https://open.spotify.com/album/2Qrd99xe9fSKbErdIeYE8k"
       },
       "artists": [
         {
-          "name": "Carleen Anderson",
-          "url": "https://open.spotify.com/artist/6thyqrW8SkVY11NUqTyCI6"
+          "name": "T. P. Orchestre Poly-Rythmo",
+          "url": "https://open.spotify.com/artist/0eJnyYv95cVqWkoujUq7kb"
+        },
+        {
+          "name": "Gabo Brown",
+          "url": "https://open.spotify.com/artist/4611pTtcuyslFogumDsWzP"
         }
       ],
-      "duration_ms": 247893,
-      "name": "Mama Said",
-      "url": "https://open.spotify.com/track/7MITu04P3bpWgI1IBdmhYf"
+      "duration_ms": 262893,
+      "name": "It's A Vanity",
+      "url": "https://open.spotify.com/track/0MiEkTtkvhohBIG2C7NdPh"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Cosmic Vortex (Justice Divine)",
+        "url": "https://open.spotify.com/album/0dLKIaUvIDgBtvndoOvz52"
+      },
+      "artists": [
+        {
+          "name": "Weldon Irvine",
+          "url": "https://open.spotify.com/artist/05BX9gTvlalkzuFVg3CqyL"
+        }
+      ],
+      "duration_ms": 470520,
+      "name": "Walk That Walk, Talk That Talk",
+      "url": "https://open.spotify.com/track/5j67zBPrFyvQPvdZP9qYMp"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Cosmic Vortex (Justice Divine)",
-        "url": "https://open.spotify.com/album/0dLKIaUvIDgBtvndoOvz52"
+        "name": "True Spirit",
+        "url": "https://open.spotify.com/album/6GxnHqovqi1yRhCpLQ9LPp"
       },
       "artists": [
         {
-          "name": "Weldon Irvine",
-          "url": "https://open.spotify.com/artist/05BX9gTvlalkzuFVg3CqyL"
+          "name": "Carleen Anderson",
+          "url": "https://open.spotify.com/artist/6thyqrW8SkVY11NUqTyCI6"
         }
       ],
-      "duration_ms": 470520,
-      "name": "Walk That Walk, Talk That Talk",
-      "url": "https://open.spotify.com/track/5j67zBPrFyvQPvdZP9qYMp"
+      "duration_ms": 247893,
+      "name": "Mama Said",
+      "url": "https://open.spotify.com/track/7MITu04P3bpWgI1IBdmhYf"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Southern Comfort",
-        "url": "https://open.spotify.com/album/25x6id3ewH7i0pJDbDcdcD"
-      },
-      "artists": [
-        {
-          "name": "The Crusaders",
-          "url": "https://open.spotify.com/artist/3Bhgbs9kIwl8SuU0eIqN6b"
-        }
-      ],
-      "duration_ms": 348760,
-      "name": "Stomp And Buck Dance",
-      "url": "https://open.spotify.com/track/3yGxCCz7pMaZtSALVNcvtp"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Disposable Arts",
         "url": "https://open.spotify.com/album/6oBCrRVCWpqR4YpNIqQRlN"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 228466,
       "name": "Block Episode",
       "url": "https://open.spotify.com/track/1axCLL1W1NiOVz32Dnf2Ie"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Southern Comfort",
+        "url": "https://open.spotify.com/album/25x6id3ewH7i0pJDbDcdcD"
+      },
+      "artists": [
+        {
+          "name": "The Crusaders",
+          "url": "https://open.spotify.com/artist/3Bhgbs9kIwl8SuU0eIqN6b"
+        }
+      ],
+      "duration_ms": 348760,
+      "name": "Stomp And Buck Dance",
+      "url": "https://open.spotify.com/track/3yGxCCz7pMaZtSALVNcvtp"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1417,22 +1417,6 @@
       "url": "https://open.spotify.com/track/1dbvZy2hAtgDyL4oiSyyJ4"
     },
     {
-      "added_at": "2022-07-18 17:17:22",
-      "album": {
-        "name": "Black Rhythm Happening",
-        "url": "https://open.spotify.com/album/5L1apjgVkSAKuWQZyuqmRz"
-      },
-      "artists": [
-        {
-          "name": "Makaya McCraven",
-          "url": "https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa"
-        }
-      ],
-      "duration_ms": 214880,
-      "name": "Black Rhythm Happening",
-      "url": "https://open.spotify.com/track/1OBGwJ6cCv4QYRcPlb67IQ"
-    },
-    {
       "added_at": "2022-07-14 19:24:43",
       "album": {
         "name": "Check The Pulse",
@@ -1455,6 +1439,22 @@
       "duration_ms": 154520,
       "name": "Check The Pulse",
       "url": "https://open.spotify.com/track/1JW36QtBxE4usZnSjYJz8W"
+    },
+    {
+      "added_at": "2022-07-18 17:17:22",
+      "album": {
+        "name": "Black Rhythm Happening",
+        "url": "https://open.spotify.com/album/5L1apjgVkSAKuWQZyuqmRz"
+      },
+      "artists": [
+        {
+          "name": "Makaya McCraven",
+          "url": "https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa"
+        }
+      ],
+      "duration_ms": 214880,
+      "name": "Black Rhythm Happening",
+      "url": "https://open.spotify.com/track/1OBGwJ6cCv4QYRcPlb67IQ"
     },
     {
       "added_at": "2022-07-14 19:24:43",

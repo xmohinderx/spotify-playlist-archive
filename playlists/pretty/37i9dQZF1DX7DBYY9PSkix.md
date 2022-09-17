@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7DBYY9PSkix.md) - [plain]
 
 > Music to get your heart started.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,729 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,732 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7DBYY9PSkix.md) - [plain]
 | 13 | [Cruise](https://open.spotify.com/track/0i5el041vd6nxrGEU8QRxy) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Here's To The Good Times](https://open.spotify.com/album/5MH765pytbQasmDxXArTah) | 3:28 |
 | 14 | [The Way I Talk](https://open.spotify.com/track/21LRaD9rB3v7p7DDCZsW4y) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [If I Know Me](https://open.spotify.com/album/1IR2nlwX6YVTXXeu2qzoWO) | 3:28 |
 | 15 | [Life is a Highway](https://open.spotify.com/track/5gB2IrxOCX2j9bMnHKP38i) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Cars \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Xiz5kq12VOzTw9Kun7m0f) | 4:35 |
-| 16 | [American Kids](https://open.spotify.com/track/1dgWTMoHwTUnQhOQ8SR5fV) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [The Big Revival](https://open.spotify.com/album/2R5PAxygJ4YeRuSwoalKam) | 3:02 |
-| 17 | [I Hope You’re Happy Now](https://open.spotify.com/track/0Al3wN3keprGTSgG8NBwjr) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Carly Pearce](https://open.spotify.com/album/44gX26I9jSjyy1KXAgquPc) | 3:18 |
+| 16 | [I Hope You’re Happy Now](https://open.spotify.com/track/0Al3wN3keprGTSgG8NBwjr) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Carly Pearce](https://open.spotify.com/album/44gX26I9jSjyy1KXAgquPc) | 3:18 |
+| 17 | [American Kids](https://open.spotify.com/track/1dgWTMoHwTUnQhOQ8SR5fV) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [The Big Revival](https://open.spotify.com/album/2R5PAxygJ4YeRuSwoalKam) | 3:02 |
 | 18 | [Heartache On The Dance Floor](https://open.spotify.com/track/0w3Q14i073jLoew1hgJkwD) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [California Sunrise](https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ) | 3:25 |
 | 19 | [One Of Them Girls](https://open.spotify.com/track/6uyiyatWPCqC59Mm4rO8xL) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Hey World](https://open.spotify.com/album/7zhKZcqIJkkeqrswshd15r) | 3:08 |
 | 20 | [GOOD TIME](https://open.spotify.com/track/2S8UMuLJ0z8agFgFGJ6Ztt) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU) | [GOOD TIME](https://open.spotify.com/album/5WvmRAsjmB3uPLoFeCioC5) | 3:34 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7DBYY9PSkix.md) - [plain]
 | 70 | [Beer In Mexico](https://open.spotify.com/track/5pgmgHNxiq9w9XuthMKzJS) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [The Road And The Radio](https://open.spotify.com/album/5uMLCobPh02IG3fyH0Dzec) | 4:31 |
 | 71 | [Take A Little Ride](https://open.spotify.com/track/2o5mwv7hvas1jdUg14Nihv) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Night Train](https://open.spotify.com/album/2uXHwdc2aTcUP2EhXKhPRu) | 3:07 |
 | 72 | [Jump Right In](https://open.spotify.com/track/6czEmVcntPHqHBYt2eRpgY) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Uncaged](https://open.spotify.com/album/1s8rmXFgIuXVpUach3s2V7) | 3:00 |
-| 73 | [In Between](https://open.spotify.com/track/2IuazAsyvbb3fFZb0Uvsmk) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [Seasons Change](https://open.spotify.com/album/2DFoTBlnZYCW4FuHAZxJMj) | 3:41 |
-| 74 | [Hell On The Heart](https://open.spotify.com/track/6wo9obXjAhA8Yc90sswR56) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Carolina](https://open.spotify.com/album/37iovsHz9HV9PPR2DLbNnC) | 2:44 |
+| 73 | [Hell On The Heart](https://open.spotify.com/track/6wo9obXjAhA8Yc90sswR56) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Carolina](https://open.spotify.com/album/37iovsHz9HV9PPR2DLbNnC) | 2:44 |
+| 74 | [In Between](https://open.spotify.com/track/2IuazAsyvbb3fFZb0Uvsmk) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [Seasons Change](https://open.spotify.com/album/2DFoTBlnZYCW4FuHAZxJMj) | 3:41 |
 | 75 | [Somewhere In My Car](https://open.spotify.com/track/3MFV4DgrAOXz6KURPQxRj9) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Somewhere In My Car](https://open.spotify.com/album/2WrjahkTYLrJe93TxCGIuM) | 3:15 |
 | 76 | [Stay A Little Longer](https://open.spotify.com/track/6rqxivjFHp8K0yMiefG56g) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Stay A Little Longer](https://open.spotify.com/album/35Xy4nfPeJxythKy00E0Vq) | 5:35 |
 | 77 | [Alone Together](https://open.spotify.com/track/3ZsLuJ8uU0lE6rGTkDaqEg) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Dan + Shay](https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE) | 2:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7DBYY9PSkix.md) - [plain]
 | 99 | [Thought This Through \(Talegate Remix\)](https://open.spotify.com/track/53TqaPbE50nemoHs23g5ca) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi), [Talegate](https://open.spotify.com/artist/00IczxaF2dh2W68AutGoC6) | [Thought This Through \(Talegate Remix\)](https://open.spotify.com/album/3n3qky3fUqU7XnHno66e9P) | 2:49 |
 | 100 | [Be Like That \(feat\. Swae Lee & Khalid\) \[Matt Medved Remix\]](https://open.spotify.com/track/5wQTZOgVfHHVi51ejIOCkl) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Matt Medved](https://open.spotify.com/artist/5xmKSoBLGN455TjWbaFcZa) | [Be Like That \(Remixes\) \- EP](https://open.spotify.com/album/1K2v28dprTdyqm7QF0ffP3) | 3:24 |
 
-Snapshot ID: `MTY0MDE5NTI4NCwwMDAwMDAwMDkyNTQxN2I1YmY2ZTMyMTRiNTI2NjQxOWZiYzQ2NzVm`
+Snapshot ID: `MTY0MDE5NTI4NCwwMDAwMDAwMGNlNzUxN2YyMDEzZTIyNmE5NTUwYTE5NTYyMDdhZmNi`

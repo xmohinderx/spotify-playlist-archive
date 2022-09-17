@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYaxoJ3YwOh3.md) - [plain]
 
 > Enchanting vibes to help you find peace and tranquillity.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,524 likes - 62 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,536 likes - 62 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

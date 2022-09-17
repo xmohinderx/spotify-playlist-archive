@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Agnes
 
-108 songs - 6 hr 33 min - [published](https://open.spotify.com/playlist/3MDELIW3DwuUOwrVCjFaSM)
+109 songs - 6 hr 36 min - [published](https://open.spotify.com/playlist/3MDELIW3DwuUOwrVCjFaSM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Groovejet \(If This Ain't Love\) \[feat\. Sophie Ellis\-Bextor\] \- Harvey Sutherland Remix](https://open.spotify.com/track/7m02XUSTZiS3NlLmmNpbCP) | [DJ Spiller](https://open.spotify.com/artist/6Ai7Oi56rJwoPAG8N2jsv6), [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE), [Harvey Sutherland](https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf) | [Groovejet \(If This Ain't Love\) \[feat\. Sophie Ellis\-Bextor\] \[Harvey Sutherland Remix\]](https://open.spotify.com/album/1F8boVPj0u2N926VIyVZfX) | 4:07 | 2022-03-04 |  |
 | [Heavenly](https://open.spotify.com/track/4HQj53RJeJ0hah1i8qF068) | [Little Boots](https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30) | [Tomorrow's Yesterdays](https://open.spotify.com/album/20YnSENPukDCIyjvNxAZvW) | 3:44 | 2022-03-18 |  |
 | [Highway Runner \- Ladies on Mars "Street Race" Remix](https://open.spotify.com/track/21BXst2WHRctU1BoynqJQH) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U), [Ladies On Mars](https://open.spotify.com/artist/6tJrp4FYVXfFRZ3oIBD4SU) | [I'm a Rainbow: Recovered & Recoloured](https://open.spotify.com/album/4TJZ8pzdWWXMDNYAJX7Psy) | 3:11 | 2021-11-19 | 2022-09-10 |
+| [I Ran \(So Far Away\) \- Liongold Remix](https://open.spotify.com/track/3wj9rjR2F7kxkZFuNkuj28) | [Dinah Eastwood](https://open.spotify.com/artist/0fEmrjJq8kgO5Vuomz0FJ9), [Liongold](https://open.spotify.com/artist/1QzMZ0QwJRo3LJ474BiODq) | [I Ran \(So Far Away\) \[The Liongold Remixes\]](https://open.spotify.com/album/6QPjxeuvnjre45AeuEA6iy) | 3:07 | 2022-09-16 |  |
 | [I Still Believe \- Purple Disco Machine Remix](https://open.spotify.com/track/40uD8YIrDmTuFFPNYp3ovN) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [I Still Believe \(Purple Disco Machine Remix\)](https://open.spotify.com/album/4vRTaNLGafRDnsuQfyetJY) | 3:39 | 2022-03-11 |  |
 | [I Won't Walk Away](https://open.spotify.com/track/1s3v94X2Y4GSAetgiWZxx4) | [Samantha LaPorta](https://open.spotify.com/artist/0PT3uYshYiUCfK0jxYKMqb) | [I Won't Walk Away](https://open.spotify.com/album/24ntKGAFS4II7wLzkhrIba) | 3:03 | 2021-10-29 |  |
 | [Imagine You](https://open.spotify.com/track/02zo8sphd3hpK65FyJolj9) | [Jennifer Jess](https://open.spotify.com/artist/5DoU3HuEcF6GTXe7CzYY7U) | [Imagine You](https://open.spotify.com/album/5NzJP5J3nsrxSCcKhMjphI) | 3:36 | 2022-04-15 |  |
@@ -114,7 +115,7 @@
 | [When Someone Loves You](https://open.spotify.com/track/6Z0OTy3hVXDPxskcc262JH) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [When Someone Loves You](https://open.spotify.com/album/24WbV4OTp6wQ0BLA9BD8DP) | 4:15 | 2022-09-02 |  |
 | [why don't you come on over?](https://open.spotify.com/track/6t5uDwqa7AalPzQY1fDivT) | [Sita](https://open.spotify.com/artist/3xaMeif5BSoyYAqHneI2T2) | [why don't you come on over?](https://open.spotify.com/album/2slwiCDPuD1wFhsqmA5hKX) | 2:36 | 2022-02-25 |  |
 | [Wishing Well](https://open.spotify.com/track/161KhiTvj9JwoO7uzorjGo) | [Rodney Hunter](https://open.spotify.com/artist/3TD8t9L7Mpi6S72O9MOxm3), [IVAR](https://open.spotify.com/artist/78Nkh6ogSZKHX0s3WLU0dk) | [Wishing Well](https://open.spotify.com/album/75bgX4B8rcP8FseJ7YVoho) | 4:30 | 2022-02-25 |  |
-| [You Keep Saying](https://open.spotify.com/track/7ebT6YZGAkTCRyCbfGX0I4) | [Ollie Olivia](https://open.spotify.com/artist/2VTVGDfP4tK769da9YbgHu) | [You Keep Saying](https://open.spotify.com/album/4nboI3WcxLnsbGtACuKaJA) | 3:31 | 2021-11-19 |  |
+| [You Keep Saying](https://open.spotify.com/track/7ebT6YZGAkTCRyCbfGX0I4) | [Ollie Olivia](https://open.spotify.com/artist/2VTVGDfP4tK769da9YbgHu) | [You Keep Saying](https://open.spotify.com/album/4nboI3WcxLnsbGtACuKaJA) | 3:31 | 2021-11-19 | 2022-09-17 |
 | [You Should Be Dancing](https://open.spotify.com/track/1Iu66OVgb8wioY6tpesoQS) | [Dee Gees](https://open.spotify.com/artist/0mCTPQ5oa1lbPvbw4kc0eX) | [Dee Gees / Hail Satin \- Foo Fighters / Live](https://open.spotify.com/album/50QMS2zosvUxhucf6zMRUy) | 3:52 | 2021-07-23 |  |
 
 \*This playlist was first scraped on 2022-08-06. Prior content cannot be recovered.

@@ -1144,6 +1144,24 @@
     },
     {
       "album": {
+        "name": "004DAISY",
+        "url": "https://open.spotify.com/album/24e0sHcaegLydaqZGRwJ1e"
+      },
+      "artists": [
+        {
+          "name": "DIXSON",
+          "url": "https://open.spotify.com/artist/61677A13kBwbTfqECI65p8"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218040,
+      "name": "ONLY-1",
+      "url": "https://open.spotify.com/track/38N8M1Zr80OELCoPelAUBP"
+    },
+    {
+      "album": {
         "name": "Eddie",
         "url": "https://open.spotify.com/album/5FTrv0ut24vm76hx1WuWSN"
       },

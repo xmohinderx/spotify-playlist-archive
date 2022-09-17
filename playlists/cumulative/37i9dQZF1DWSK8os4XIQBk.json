@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Nothing but the best modern country music. Cover: Kane Brown",
+  "description": "Nothing but the best modern country music. Cover: Bailey Zimmerman",
   "name": "All About Country",
   "published_playlist_ids": [
     "2VWEcpbjTChxEwyaD5k1kM"
@@ -225,7 +225,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 188573,
       "name": "Ain't the Same (feat. 98\u00b0)",
       "url": "https://open.spotify.com/track/4FDqGpgmiLddHnsObLOtME"
@@ -261,7 +261,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 171773,
       "name": "All Summer",
       "url": "https://open.spotify.com/track/4MA8WJAhL0P3hbD5SrZUUv"
@@ -337,7 +337,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 182666,
       "name": "Back Then, Right Now",
       "url": "https://open.spotify.com/track/3wAKfgic0OANcWf2QBxT8t"
@@ -1651,7 +1651,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 183444,
       "name": "Found It In You",
       "url": "https://open.spotify.com/track/35zkYE4siFuNCJgcbI1nlt"
@@ -2404,6 +2404,24 @@
     },
     {
       "album": {
+        "name": "IF YOU GO DOWN (I'M GOIN' DOWN TOO)",
+        "url": "https://open.spotify.com/album/7FE1lCQJo6eqLL7dKCyDH0"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166035,
+      "name": "IF YOU GO DOWN (I'M GOIN' DOWN TOO)",
+      "url": "https://open.spotify.com/track/6KryVEgkMGOWZHQLwTbU7E"
+    },
+    {
+      "album": {
         "name": "Fall",
         "url": "https://open.spotify.com/album/7g3DsAEopcZCixfP46bODY"
       },
@@ -3146,6 +3164,24 @@
     },
     {
       "album": {
+        "name": "Never Leave",
+        "url": "https://open.spotify.com/album/7okh01uYgCUb6VxU5k4CR3"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207567,
+      "name": "Never Leave",
+      "url": "https://open.spotify.com/track/1rWoeYw0Vnnj8BLH6ECoiB"
+    },
+    {
+      "album": {
         "name": "Never Met A Beer",
         "url": "https://open.spotify.com/album/6Xn7RynwBkQup3YmWgzpGZ"
       },
@@ -3245,7 +3281,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 214416,
       "name": "Never Wanted To Be That Girl",
       "url": "https://open.spotify.com/track/7yRJMLG9ja0fBVVEmV6vcT"
@@ -4722,6 +4758,24 @@
     },
     {
       "album": {
+        "name": "Mr. Sun",
+        "url": "https://open.spotify.com/album/1zb7kVc7JA7ew7OIdj0wOB"
+      },
+      "artists": [
+        {
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233826,
+      "name": "Three Whiskeys And The Truth",
+      "url": "https://open.spotify.com/track/2PMtsOOk1JD7yGT7E1ZK6Q"
+    },
+    {
+      "album": {
         "name": "Throw It Back (feat. Keith Urban)",
         "url": "https://open.spotify.com/album/56rScV2lFznLUGxqYYwUpo"
       },
@@ -5054,6 +5108,24 @@
     },
     {
       "album": {
+        "name": "This Is the Heavy",
+        "url": "https://open.spotify.com/album/7hWoBHqzfN4QMcVPFSqbBS"
+      },
+      "artists": [
+        {
+          "name": "Mitchell Tenpenny",
+          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203680,
+      "name": "We Got History",
+      "url": "https://open.spotify.com/track/6Awl7JBDQjfm7xkS3LkhDi"
+    },
+    {
+      "album": {
         "name": "What A Song Can Do",
         "url": "https://open.spotify.com/album/6WFBqvXyejttGfBbyJllyd"
       },
@@ -5083,7 +5155,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 191226,
       "name": "What He Didn't Do",
       "url": "https://open.spotify.com/track/5OLaVCAM2pqg7X9mAM2W8M"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5NXVhu59GCz.md) - [plain]
 
 > Acid blues, psy\-blues and the early pioneers of psychedelic rock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,238 likes - 50 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,265 likes - 50 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5NXVhu59GCz.md) - [plain]
 | 44 | [Charlie](https://open.spotify.com/track/6FNHbGuJ8GkB0bty9Jm3c6) | [The Deviants](https://open.spotify.com/artist/6gFbwCDrKMQJpxSPclIUnu) | [Ptoof!](https://open.spotify.com/album/4fWuFitMDgLkzDLIpu8Tzr) | 3:58 |
 | 45 | [I Put a Spell on You](https://open.spotify.com/track/4mLPC3KlU71mb4eDMddLmT) | [The Crazy World Of Arthur Brown](https://open.spotify.com/artist/2LpdhgwN0mYKMjnzrBQU8H) | [The Crazy World of Arthur Brown](https://open.spotify.com/album/6wPnXZPPznO6pG86IqAVxr) | 3:44 |
 | 46 | [Cheshire](https://open.spotify.com/track/4KWLEtCcc13YDp6YogeVMB) | [Frumious Bandersnatch](https://open.spotify.com/artist/6oGriTn7yPNEco3WkbNqS9) | [The Studio Outtakes](https://open.spotify.com/album/0rXM1CIG0xeDoHABrXHACR) | 9:42 |
-| 47 | [It's Only Love](https://open.spotify.com/track/7mFaMrnsaE9YdZrZYyllUI) | [International Harvester](https://open.spotify.com/artist/1RVXcYQXUeC2pPHINEJcWA) | [Sov Gott Rose\-Mari](https://open.spotify.com/album/5zAAhGhqKvtOyseYGIbF6f) | 1:40 |
-| 48 | [Grandmother Hooker](https://open.spotify.com/track/6LzjPE9lvGc6xCXdvgf0VO) | [The Apple Pie Motherhood Band](https://open.spotify.com/artist/174pJcct3i25tITNgPxnFO) | [Apple Pie](https://open.spotify.com/album/0eom2ZJPDeUyS4XTaDpAXR) | 3:00 |
-| 49 | [Trials of a City](https://open.spotify.com/track/3b5jvjpB3Uf88uilq0aGLF) | [Mighty Baby](https://open.spotify.com/artist/0OCbY2Rzt59ilutteUnG8I) | [Mighty Baby](https://open.spotify.com/album/32ZtQafs8OxDkFTOFvprN7) | 6:01 |
-| 50 | [I Can't Dance](https://open.spotify.com/track/4MT7JJWn6AOcUHvakxSbpN) | [Barry Melton](https://open.spotify.com/artist/1ugWCcIaInMcgJN2ghXfXi) | [Level with Me](https://open.spotify.com/album/0hURuklitZ9QZFg6OBnWCM) | 2:39 |
+| 47 | [Grandmother Hooker](https://open.spotify.com/track/6LzjPE9lvGc6xCXdvgf0VO) | [The Apple Pie Motherhood Band](https://open.spotify.com/artist/174pJcct3i25tITNgPxnFO) | [Apple Pie](https://open.spotify.com/album/0eom2ZJPDeUyS4XTaDpAXR) | 3:00 |
+| 48 | [Trials of a City](https://open.spotify.com/track/3b5jvjpB3Uf88uilq0aGLF) | [Mighty Baby](https://open.spotify.com/artist/0OCbY2Rzt59ilutteUnG8I) | [Mighty Baby](https://open.spotify.com/album/32ZtQafs8OxDkFTOFvprN7) | 6:01 |
+| 49 | [I Can't Dance](https://open.spotify.com/track/4MT7JJWn6AOcUHvakxSbpN) | [Barry Melton](https://open.spotify.com/artist/1ugWCcIaInMcgJN2ghXfXi) | [Level with Me](https://open.spotify.com/album/0hURuklitZ9QZFg6OBnWCM) | 2:39 |
+| 50 | [It's Only Love](https://open.spotify.com/track/1rxnKNmNwu6LSEKZ71LFBQ) | [International Harvester](https://open.spotify.com/artist/1RVXcYQXUeC2pPHINEJcWA) | [Sov Gott Rose\-Mari](https://open.spotify.com/album/4ORvCABBxkkKdYS2TCYIeQ) | 1:40 |
 
-Snapshot ID: `MTY0ODQ5NTUwNCwwMDAwMDAwMDhmNTQzYWZlZWM0ZDcwM2U2NTE1YzhhMTU3NzVlZTEz`
+Snapshot ID: `MTY0ODQ5NTUwNCwwMDAwMDAwMDk3NDZmZGRjNjkxZWYyNDczODliNjE5NzY3ZDQ4YmRj`

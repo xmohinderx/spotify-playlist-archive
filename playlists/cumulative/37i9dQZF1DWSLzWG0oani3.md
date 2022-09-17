@@ -4,7 +4,7 @@
 
 > Suena en el barrio, suena acá\. Foto: DT.Bilardo
 
-90 songs - 4 hr 29 min - [published](https://open.spotify.com/playlist/08wPNXaQ2kxk28fUrtfLBd)
+91 songs - 4 hr 31 min - [published](https://open.spotify.com/playlist/08wPNXaQ2kxk28fUrtfLBd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [El Barrio](https://open.spotify.com/track/1C99AXjM9atPNIgm3JwE3t) | [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [El Mas Berrako](https://open.spotify.com/artist/4QCMJeV5aPlZCswgzTyX2X), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [El Barrio](https://open.spotify.com/album/7e6QkedF9KH6dsW8McP29w) | 2:35 | 2021-12-24 | 2022-07-29 |
 | [El Barrio](https://open.spotify.com/track/56HxJH9N2DcRj0taX9mjb5) | [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [El Mas Berrako](https://open.spotify.com/artist/4QCMJeV5aPlZCswgzTyX2X), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [El Barrio](https://open.spotify.com/album/74nNhOfUeGDK98WrqaOlGd) | 2:35 | 2022-07-22 |  |
 | [El Mas Piola](https://open.spotify.com/track/25782MLWDupkChIl8kGJFZ) | [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [El Mas Piola](https://open.spotify.com/album/4W6N2aH9z7564n5CVyn3Ml) | 3:37 | 2021-12-24 |  |
+| [El Mas Que Tose](https://open.spotify.com/track/3iU3iJipsY8v5oZLiCV5CQ) | [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [El Mas Que Tose](https://open.spotify.com/album/38H3YlYq6BSauDCi2NgftH) | 1:40 | 2022-09-16 |  |
 | [EL NOBA \| DJ TAO Turreo Sessions \#7](https://open.spotify.com/track/5oLWzTgq6WsZyMF16IiN7R) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [EL NOBA](https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [EL NOBA \| DJ TAO Turreo Sessions \#7](https://open.spotify.com/album/7bQ39IUdJuoNSZYRkJ9xYs) | 2:09 | 2021-12-24 |  |
 | [EL TIRRI \| DJ TAO Turreo Sessions \#8](https://open.spotify.com/track/0HghA8NwsiFcgROYKFjX3W) | [Tirri La Roca](https://open.spotify.com/artist/3fUItdzxV5l9jupo5FkFwB), [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU) | [EL TIRRI \| DJ TAO Turreo Sessions \#8](https://open.spotify.com/album/4cQBFUMTxNTejT7TVZv958) | 3:04 | 2022-05-14 |  |
 | [Encapsulado en el Bm](https://open.spotify.com/track/6I0p6Tm3Dmw2g15PMuA5ww) | [Anthony MM](https://open.spotify.com/artist/3L0TDlLE2v4lWjz5vw3vE8), [Lucho23](https://open.spotify.com/artist/77GkTRXzckRvljR84wWvYh) | [Encapsulado en el Bm](https://open.spotify.com/album/2UyZ6ZD9zeuebVsAdAnmYi) | 2:18 | 2021-12-24 | 2022-04-02 |

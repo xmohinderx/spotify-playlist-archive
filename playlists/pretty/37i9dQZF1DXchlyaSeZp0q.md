@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXchlyaSeZp0q.md) - [plain]
 
 > Soul for the blues\. Cover: Otis Redding.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,024 likes - 40 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,269 likes - 40 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXchlyaSeZp0q.md) - [plain]
 | 16 | [How Can You Mend a Broken Heart](https://open.spotify.com/track/6lUXneXZ9jc3HSMHgd8oqh) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Let's Stay Together](https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0) | 6:23 |
 | 17 | [These Arms of Mine](https://open.spotify.com/track/4skknrc3sJqaPTtUr2cwFq) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Pain in My Heart](https://open.spotify.com/album/2BFOk5b8jjm2xmsbx7qXq3) | 2:34 |
 | 18 | [I Wish I Knew How It Would Feel to Be Free](https://open.spotify.com/track/5CKHhg31HcYYhwUeeGqvhq) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Silk & Soul \(Expanded Edition\)](https://open.spotify.com/album/2miVfa78vOd0o8Vbsgd7g3) | 3:08 |
-| 19 | [I Can't Stand the Rain](https://open.spotify.com/track/0CcL4kSHKIEwF3IW0BGgb6) | [Ann Peebles](https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB) | [I Can't Stand the Rain](https://open.spotify.com/album/67Sjm7EwrWbnnyojmhP4KL) | 2:30 |
-| 20 | [The World \(Is Going Up in Flames\)](https://open.spotify.com/track/7a5xvCgoD8qFEQmO8Jjvtf) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [No Time For Dreaming](https://open.spotify.com/album/6llfJp31mi9r7swqmSAwuK) | 3:22 |
+| 19 | [The World \(Is Going Up in Flames\)](https://open.spotify.com/track/7a5xvCgoD8qFEQmO8Jjvtf) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [No Time For Dreaming](https://open.spotify.com/album/6llfJp31mi9r7swqmSAwuK) | 3:22 |
+| 20 | [I Can't Stand the Rain](https://open.spotify.com/track/0CcL4kSHKIEwF3IW0BGgb6) | [Ann Peebles](https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB) | [I Can't Stand the Rain](https://open.spotify.com/album/67Sjm7EwrWbnnyojmhP4KL) | 2:30 |
 | 21 | [If You Don't Know Me by Now \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/3NElqDNNnzvWYOwsbxLQKN) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Harold Melvin & The Blue Notes \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/3Yqyi7rmyXYDbcc0qJzXef) | 3:25 |
 | 22 | [Love T.K.O.](https://open.spotify.com/track/3IVaPHncIZWWNjfg29HVLq) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [TP \(Expanded Edition\)](https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO) | 4:59 |
 | 23 | [Cry to Me](https://open.spotify.com/track/2sCf9tz6LHByczuVT7rqIx) | [Solomon Burke](https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb) | [The Very Best of Solomon Burke](https://open.spotify.com/album/6qnOfoAUz11fZ98GFilmKE) | 2:34 |
@@ -41,12 +41,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXchlyaSeZp0q.md) - [plain]
 | 31 | [Who Can I Run To](https://open.spotify.com/track/3sFoSCg2KoaCUrOeKYMqvI) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [The Jones Girls](https://open.spotify.com/album/4ZhVgoPq9B9emWRsMcT6cD) | 3:24 |
 | 32 | [It Should Have Been Me](https://open.spotify.com/track/3lQNVAMwqcxFCJj8mI1izh) | [Yvonne Fair](https://open.spotify.com/artist/4mGB0olhR5RpsEZWn0cqA8) | [The Bitch Is Black](https://open.spotify.com/album/0ehXIeOOjIrlCFXv7Bv8CS) | 3:33 |
 | 33 | [The Dark End of the Street](https://open.spotify.com/track/5vWMCGVeGxp3PEdvpDN3a0) | [James Carr](https://open.spotify.com/artist/59fzcTUsoozikLmRY1SwHS) | [You Got My Mind Messed Up](https://open.spotify.com/album/1akOJm6k5Y4Kp0NdoBNa8j) | 2:33 |
-| 34 | [Why Can't We Live Together](https://open.spotify.com/track/722E6CPY8biq4sUnf40u6Y) | [Timmy Thomas](https://open.spotify.com/artist/7JLwBH0X2G8tgHceqvOu5B) | [Why Can't We Live Together](https://open.spotify.com/album/0HN6yWzRIaLKPnSFdeBtAO) | 4:37 |
-| 35 | [I Miss You \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/5y0yvFr9dAsT1ycNUYSRPl) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Harold Melvin & The Blue Notes \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/3Yqyi7rmyXYDbcc0qJzXef) | 8:38 |
+| 34 | [I Miss You \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/5y0yvFr9dAsT1ycNUYSRPl) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Harold Melvin & The Blue Notes \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/3Yqyi7rmyXYDbcc0qJzXef) | 8:38 |
+| 35 | [Why Can't We Live Together](https://open.spotify.com/track/722E6CPY8biq4sUnf40u6Y) | [Timmy Thomas](https://open.spotify.com/artist/7JLwBH0X2G8tgHceqvOu5B) | [Why Can't We Live Together](https://open.spotify.com/album/0HN6yWzRIaLKPnSFdeBtAO) | 4:37 |
 | 36 | [He Called Me Baby](https://open.spotify.com/track/3zIiZrCROmhS9ERPdEHXYa) | [Candi Staton](https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et) | [Stand By Your Man](https://open.spotify.com/album/5FSETqzUj1EAlIVvPYmv5r) | 3:33 |
 | 37 | [One Step Ahead](https://open.spotify.com/track/0dSRoWYf0GOzX9L44g53sZ) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [A Bit Of Soul](https://open.spotify.com/album/2RmmiMocgFh0MxSeUy6D0S) | 2:33 |
 | 38 | [Hurry Up This Way Again](https://open.spotify.com/track/7fAe2PjWPfVdEur3xUCcvt) | [The Stylistics](https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3) | [Hurry Up This Way Again](https://open.spotify.com/album/3733Xb7Z6mY9dwMDkWg3cK) | 5:53 |
 | 39 | [I've Got Dreams to Remember](https://open.spotify.com/track/4Ym0HjYfgEaUgjI3WuDqMK) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [The Very Best of Otis Redding](https://open.spotify.com/album/28Pt7Q4ikXNPOEbtGnKlFA) | 3:15 |
 | 40 | [Wish You Were Here](https://open.spotify.com/track/2BZjcbZpQyyhpVr3gMGPn6) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K), [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Faithful Man](https://open.spotify.com/album/38vdzwOSCNDvh81G0QmGfk) | 4:12 |
 
-Snapshot ID: `MTY2MjY0OTA4NCwwMDAwMDAwMDY1OWY2MWViNWNlMWYwODJiYWIzYTk4YmRkNDM3ZjM0`
+Snapshot ID: `MTY2MjY0OTA4NCwwMDAwMDAwMDNkNjliNWQwZDA1OWY2MThhNDhhZjFiMTZjYjcyNmNj`

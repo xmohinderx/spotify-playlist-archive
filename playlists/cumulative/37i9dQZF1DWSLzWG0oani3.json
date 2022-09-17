@@ -560,6 +560,28 @@
     },
     {
       "album": {
+        "name": "El Mas Que Tose",
+        "url": "https://open.spotify.com/album/38H3YlYq6BSauDCi2NgftH"
+      },
+      "artists": [
+        {
+          "name": "Perro Primo",
+          "url": "https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA"
+        },
+        {
+          "name": "DT.Bilardo",
+          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100277,
+      "name": "El Mas Que Tose",
+      "url": "https://open.spotify.com/track/3iU3iJipsY8v5oZLiCV5CQ"
+    },
+    {
+      "album": {
         "name": "EL NOBA | DJ TAO Turreo Sessions #7",
         "url": "https://open.spotify.com/album/7bQ39IUdJuoNSZYRkJ9xYs"
       },

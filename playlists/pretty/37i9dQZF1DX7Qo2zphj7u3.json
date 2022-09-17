@@ -1,12 +1,12 @@
 {
   "description": "\u00c9xitos rom\u00e1nticos y eternos. Foto: Alejandro Sanz",
-  "num_followers": 1992273,
+  "num_followers": 1992325,
   "original_name": "Hits Rom\u00e1nticos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTcxNjY1NiwwMDAwMDAwMDI1NDE0MzUwYWUyOGI0ZWEzMDVmMjk1NjEyMDY4NDBh",
+  "snapshot_id": "MTY1OTcxNjY1NiwwMDAwMDAwMDM3MDQzODRiZjlhMzEwZmViY2Q5OWE3MTk2M2YwOGUw",
   "tracks": [
     {
       "added_at": "2022-08-05 16:24:16",
@@ -307,6 +307,22 @@
     {
       "added_at": "2022-08-05 16:24:16",
       "album": {
+        "name": "Abr\u00e1zame Muy Fuerte",
+        "url": "https://open.spotify.com/album/2ERJFuFlmwOV0bxl8VOtdU"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 239426,
+      "name": "Abr\u00e1zame Muy Fuerte",
+      "url": "https://open.spotify.com/track/2nejvFyJeTDtMRP2nUMt0J"
+    },
+    {
+      "added_at": "2022-08-05 16:24:16",
+      "album": {
         "name": "Rompiendo Fronteras",
         "url": "https://open.spotify.com/album/48XvYOTsoGV3Juk0OY7PDp"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 228146,
       "name": "S\u00e9 Que Te Duele",
       "url": "https://open.spotify.com/track/1OJkKHmXsZVKtWlECdpDAe"
-    },
-    {
-      "added_at": "2022-08-05 16:24:16",
-      "album": {
-        "name": "Abr\u00e1zame Muy Fuerte",
-        "url": "https://open.spotify.com/album/2ERJFuFlmwOV0bxl8VOtdU"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 239426,
-      "name": "Abr\u00e1zame Muy Fuerte",
-      "url": "https://open.spotify.com/track/2nejvFyJeTDtMRP2nUMt0J"
     },
     {
       "added_at": "2022-08-05 16:24:16",
@@ -815,22 +815,6 @@
     {
       "added_at": "2022-08-05 16:24:16",
       "album": {
-        "name": "Drama Y Luz",
-        "url": "https://open.spotify.com/album/1sqgDb8MhdXgKAdGGLny9g"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 291866,
-      "name": "Amor Clandestino",
-      "url": "https://open.spotify.com/track/5etssK2rpk4SnHWWD1Q6xn"
-    },
-    {
-      "added_at": "2022-08-05 16:24:16",
-      "album": {
         "name": "Un Dia Mas (Edicion Especial)",
         "url": "https://open.spotify.com/album/0DFhIlgm33q5dTFoz5uH1v"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 222986,
       "name": "Inolvidable",
       "url": "https://open.spotify.com/track/22seP38foydqUMp5Fvkcjm"
+    },
+    {
+      "added_at": "2022-08-05 16:24:16",
+      "album": {
+        "name": "Drama Y Luz",
+        "url": "https://open.spotify.com/album/1sqgDb8MhdXgKAdGGLny9g"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 291866,
+      "name": "Amor Clandestino",
+      "url": "https://open.spotify.com/track/5etssK2rpk4SnHWWD1Q6xn"
     },
     {
       "added_at": "2022-08-05 16:24:16",
@@ -975,22 +975,6 @@
     {
       "added_at": "2022-08-05 16:24:16",
       "album": {
-        "name": "Todo Historias",
-        "url": "https://open.spotify.com/album/6nWZLgTAuIgulKZcJxgsg4"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 281226,
-      "name": "Otra Como Tu",
-      "url": "https://open.spotify.com/track/2cSXotAohYx0EWCNljCzs7"
-    },
-    {
-      "added_at": "2022-08-05 16:24:16",
-      "album": {
         "name": "Confidencias",
         "url": "https://open.spotify.com/album/3g2uS0IsIdaKqRiBSFrbBk"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 291106,
       "name": "Hoy Tengo Ganas De Ti",
       "url": "https://open.spotify.com/track/0qO4GfXADY9QfgcgtrasT9"
+    },
+    {
+      "added_at": "2022-08-05 16:24:16",
+      "album": {
+        "name": "Todo Historias",
+        "url": "https://open.spotify.com/album/6nWZLgTAuIgulKZcJxgsg4"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 281226,
+      "name": "Otra Como Tu",
+      "url": "https://open.spotify.com/track/2cSXotAohYx0EWCNljCzs7"
     },
     {
       "added_at": "2022-08-05 16:24:16",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2022-08-05 16:24:16",
       "album": {
+        "name": "Pensamientos",
+        "url": "https://open.spotify.com/album/48zTdk2DxqybNPEJfL6Mnl"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 435493,
+      "name": "Hasta Que Te Conoc\u00ed",
+      "url": "https://open.spotify.com/track/6XLobzCdi98lFcxG3eGYNr"
+    },
+    {
+      "added_at": "2022-08-05 16:24:16",
+      "album": {
         "name": "Guerra (+ Sessions Recorded at Abbey Road)",
         "url": "https://open.spotify.com/album/0sGgHg4QRIBACnetu6z45Z"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 247866,
       "name": "Tu Recuerdo (feat. La Mari De Chambao & Tommy Torres) - MTV Unplugged Version",
       "url": "https://open.spotify.com/track/61hJK3EfAd1LDk7x5OrCTc"
-    },
-    {
-      "added_at": "2022-08-05 16:24:16",
-      "album": {
-        "name": "Pensamientos",
-        "url": "https://open.spotify.com/album/48zTdk2DxqybNPEJfL6Mnl"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 435493,
-      "name": "Hasta Que Te Conoc\u00ed",
-      "url": "https://open.spotify.com/track/6XLobzCdi98lFcxG3eGYNr"
     },
     {
       "added_at": "2022-08-05 16:24:16",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2022-08-05 16:24:16",
       "album": {
-        "name": "Grandes Hits",
-        "url": "https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL"
-      },
-      "artists": [
-        {
-          "name": "Cristian Castro",
-          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
-        }
-      ],
-      "duration_ms": 256133,
-      "name": "Lloviendo Estrellas",
-      "url": "https://open.spotify.com/track/5b00r2xveYfVIOExZJJ395"
-    },
-    {
-      "added_at": "2022-08-05 16:24:16",
-      "album": {
         "name": "Sin Mirar Atr\u00e1s",
         "url": "https://open.spotify.com/album/1xW38xA3oVHef1d8FdIZs6"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 202853,
       "name": "Mi Princesa",
       "url": "https://open.spotify.com/track/16kJ8NqNdHbwJe9kf1TJLe"
+    },
+    {
+      "added_at": "2022-08-05 16:24:16",
+      "album": {
+        "name": "Grandes Hits",
+        "url": "https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL"
+      },
+      "artists": [
+        {
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+        }
+      ],
+      "duration_ms": 256133,
+      "name": "Lloviendo Estrellas",
+      "url": "https://open.spotify.com/track/5b00r2xveYfVIOExZJJ395"
     },
     {
       "added_at": "2022-08-05 16:24:16",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2022-08-05 16:24:16",
       "album": {
+        "name": "Cosas De Enamorados",
+        "url": "https://open.spotify.com/album/7iSjsRvQupUm7MxWGxrbzG"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 222946,
+      "name": "Ya Lo S\u00e9 Que T\u00fa Te Vas",
+      "url": "https://open.spotify.com/track/5KSwwf96ITyukZpWfazLzS"
+    },
+    {
+      "added_at": "2022-08-05 16:24:16",
+      "album": {
         "name": "Laundry Service",
         "url": "https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 235906,
       "name": "Desde cuando",
       "url": "https://open.spotify.com/track/38EI0NudWZT1qFuhEafIHh"
-    },
-    {
-      "added_at": "2022-08-05 16:24:16",
-      "album": {
-        "name": "Cosas De Enamorados",
-        "url": "https://open.spotify.com/album/7iSjsRvQupUm7MxWGxrbzG"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 222946,
-      "name": "Ya Lo S\u00e9 Que T\u00fa Te Vas",
-      "url": "https://open.spotify.com/track/5KSwwf96ITyukZpWfazLzS"
     },
     {
       "added_at": "2022-08-05 16:24:16",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2022-08-05 16:24:16",
       "album": {
-        "name": "Alejandro Sanz 3",
-        "url": "https://open.spotify.com/album/6iQUPW8yGLQdbf3JXmNA8N"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 307053,
-      "name": "La fuerza del coraz\u00f3n",
-      "url": "https://open.spotify.com/track/5c1w6xM8pFvXhMXQVUY42Q"
-    },
-    {
-      "added_at": "2022-08-05 16:24:16",
-      "album": {
         "name": "Begin the Beguine",
         "url": "https://open.spotify.com/album/5siSTOhozc4kGQxQgbFhvS"
       },
@@ -1655,6 +1639,22 @@
     {
       "added_at": "2022-08-05 16:24:16",
       "album": {
+        "name": "Dos Mundos",
+        "url": "https://open.spotify.com/album/65go3XkEnCQoFByHvFLcDD"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 195906,
+      "name": "Estuve",
+      "url": "https://open.spotify.com/track/4AZFdWGuK1VfUpvPBUM7pv"
+    },
+    {
+      "added_at": "2022-08-05 16:24:16",
+      "album": {
         "name": "Pimpinela",
         "url": "https://open.spotify.com/album/2NYXeeATmC1K9FUhKlP0id"
       },
@@ -1667,6 +1667,22 @@
       "duration_ms": 185800,
       "name": "Olv\u00eddame y Pega la Vuelta",
       "url": "https://open.spotify.com/track/4FdwRmlzP5KGM7OewGBYiu"
+    },
+    {
+      "added_at": "2022-08-05 16:24:16",
+      "album": {
+        "name": "Alejandro Sanz 3",
+        "url": "https://open.spotify.com/album/6iQUPW8yGLQdbf3JXmNA8N"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 307053,
+      "name": "La fuerza del coraz\u00f3n",
+      "url": "https://open.spotify.com/track/5c1w6xM8pFvXhMXQVUY42Q"
     },
     {
       "added_at": "2022-08-05 16:24:16",
@@ -1723,22 +1739,6 @@
     {
       "added_at": "2022-08-05 16:24:16",
       "album": {
-        "name": "Dos Mundos",
-        "url": "https://open.spotify.com/album/65go3XkEnCQoFByHvFLcDD"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 195906,
-      "name": "Estuve",
-      "url": "https://open.spotify.com/track/4AZFdWGuK1VfUpvPBUM7pv"
-    },
-    {
-      "added_at": "2022-08-05 16:24:16",
-      "album": {
         "name": "Tiempo de oto\u00f1o",
         "url": "https://open.spotify.com/album/4VBcX1U9nmizKpTSlcrXua"
       },
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2022-08-05 16:24:16",
       "album": {
-        "name": "No Hay Imposibles",
-        "url": "https://open.spotify.com/album/2Z1OKCVyqJ1lMHTU612E07"
-      },
-      "artists": [
-        {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
-        }
-      ],
-      "duration_ms": 263666,
-      "name": "Me Enamor\u00e9 de Ti",
-      "url": "https://open.spotify.com/track/1sJFu2pvYJhtEOo9oVe1TZ"
-    },
-    {
-      "added_at": "2022-08-05 16:24:16",
-      "album": {
         "name": "Solo Exitos",
         "url": "https://open.spotify.com/album/5b01rzpRKnF0NZXgdcgcA1"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 241226,
       "name": "Quiero Dormir Cansado",
       "url": "https://open.spotify.com/track/6LmKDVBBlMsWqUbuNTeCuF"
+    },
+    {
+      "added_at": "2022-08-05 16:24:16",
+      "album": {
+        "name": "No Hay Imposibles",
+        "url": "https://open.spotify.com/album/2Z1OKCVyqJ1lMHTU612E07"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        }
+      ],
+      "duration_ms": 263666,
+      "name": "Me Enamor\u00e9 de Ti",
+      "url": "https://open.spotify.com/track/1sJFu2pvYJhtEOo9oVe1TZ"
     },
     {
       "added_at": "2022-08-05 16:24:16",
@@ -2243,22 +2243,6 @@
     {
       "added_at": "2022-08-05 16:24:16",
       "album": {
-        "name": "Diez A\u00f1os Cantandole Al Amor",
-        "url": "https://open.spotify.com/album/7m0U4kGO3H4QUw5W75HsQ8"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel",
-          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
-        }
-      ],
-      "duration_ms": 222933,
-      "name": "Este Terco Corazon",
-      "url": "https://open.spotify.com/track/1iN1knAnE9tgY3FipGocKX"
-    },
-    {
-      "added_at": "2022-08-05 16:24:16",
-      "album": {
         "name": "Personalidad",
         "url": "https://open.spotify.com/album/7KvMyEYFd70S7ywbxhzleY"
       },
@@ -2271,6 +2255,22 @@
       "duration_ms": 188106,
       "name": "A Esa",
       "url": "https://open.spotify.com/track/42QWOsW1f9uDu9zsoUAE73"
+    },
+    {
+      "added_at": "2022-08-05 16:24:16",
+      "album": {
+        "name": "Diez A\u00f1os Cantandole Al Amor",
+        "url": "https://open.spotify.com/album/7m0U4kGO3H4QUw5W75HsQ8"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel",
+          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
+        }
+      ],
+      "duration_ms": 222933,
+      "name": "Este Terco Corazon",
+      "url": "https://open.spotify.com/track/1iN1knAnE9tgY3FipGocKX"
     },
     {
       "added_at": "2022-08-05 16:24:16",
@@ -2863,22 +2863,6 @@
     {
       "added_at": "2022-08-05 16:24:16",
       "album": {
-        "name": "Mis Mas Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/28E8gaViYOVOVNz1OQUHD8"
-      },
-      "artists": [
-        {
-          "name": "Mijares",
-          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
-        }
-      ],
-      "duration_ms": 224080,
-      "name": "Bella",
-      "url": "https://open.spotify.com/track/6NEZnVWFbIRfLLibyIxNNW"
-    },
-    {
-      "added_at": "2022-08-05 16:24:16",
-      "album": {
         "name": "Pimpinela",
         "url": "https://open.spotify.com/album/2NYXeeATmC1K9FUhKlP0id"
       },
@@ -2891,6 +2875,22 @@
       "duration_ms": 156306,
       "name": "D\u00edmelo Delante de Ella",
       "url": "https://open.spotify.com/track/37amjDwMG9SQQ1xQETzBm9"
+    },
+    {
+      "added_at": "2022-08-05 16:24:16",
+      "album": {
+        "name": "Mis Mas Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/28E8gaViYOVOVNz1OQUHD8"
+      },
+      "artists": [
+        {
+          "name": "Mijares",
+          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
+        }
+      ],
+      "duration_ms": 224080,
+      "name": "Bella",
+      "url": "https://open.spotify.com/track/6NEZnVWFbIRfLLibyIxNNW"
     },
     {
       "added_at": "2022-08-05 16:24:16",
@@ -3095,22 +3095,6 @@
     {
       "added_at": "2022-08-05 16:24:16",
       "album": {
-        "name": "Lo mejor de Laura Pausini - Volver\u00e9 junto a ti",
-        "url": "https://open.spotify.com/album/0myaHlqK31HgqSV2k6Caqj"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 263493,
-      "name": "La soledad - Versi\u00f3n 2001",
-      "url": "https://open.spotify.com/track/75OneVe1xHrgSiVEOiLGxb"
-    },
-    {
-      "added_at": "2022-08-05 16:24:16",
-      "album": {
         "name": "El Dorado",
         "url": "https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN"
       },
@@ -3127,6 +3111,22 @@
       "duration_ms": 196466,
       "name": "Deja vu",
       "url": "https://open.spotify.com/track/5clmffOxeckeJ2e3GMy6UZ"
+    },
+    {
+      "added_at": "2022-08-05 16:24:16",
+      "album": {
+        "name": "Lo mejor de Laura Pausini - Volver\u00e9 junto a ti",
+        "url": "https://open.spotify.com/album/0myaHlqK31HgqSV2k6Caqj"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 263493,
+      "name": "La soledad - Versi\u00f3n 2001",
+      "url": "https://open.spotify.com/track/75OneVe1xHrgSiVEOiLGxb"
     },
     {
       "added_at": "2022-08-05 16:24:16",
@@ -3259,18 +3259,18 @@
     {
       "added_at": "2022-08-05 16:24:16",
       "album": {
-        "name": "Sandro de Am\u00e9rica",
-        "url": "https://open.spotify.com/album/5KWGSBbAvNO1ycytBsPiT9"
+        "name": "Laura Pausini: 25 Aniversario (Spanish Version)",
+        "url": "https://open.spotify.com/album/0EXcVDePo397i4Um4vGxGs"
       },
       "artists": [
         {
-          "name": "Sandro",
-          "url": "https://open.spotify.com/artist/5srsgtoePlsp0eQIXmta1O"
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
         }
       ],
-      "duration_ms": 153026,
-      "name": "Rosa... Rosa",
-      "url": "https://open.spotify.com/track/2xWNLtRPgcQwjTWjhncnJF"
+      "duration_ms": 280666,
+      "name": "Se fu\u00e9",
+      "url": "https://open.spotify.com/track/6LU8uRM2fPgaHKD18I0Azk"
     },
     {
       "added_at": "2022-08-05 16:24:16",
@@ -3291,18 +3291,18 @@
     {
       "added_at": "2022-08-05 16:24:16",
       "album": {
-        "name": "Laura Pausini: 25 Aniversario (Spanish Version)",
-        "url": "https://open.spotify.com/album/0EXcVDePo397i4Um4vGxGs"
+        "name": "Sandro de Am\u00e9rica",
+        "url": "https://open.spotify.com/album/5KWGSBbAvNO1ycytBsPiT9"
       },
       "artists": [
         {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+          "name": "Sandro",
+          "url": "https://open.spotify.com/artist/5srsgtoePlsp0eQIXmta1O"
         }
       ],
-      "duration_ms": 280666,
-      "name": "Se fu\u00e9",
-      "url": "https://open.spotify.com/track/6LU8uRM2fPgaHKD18I0Azk"
+      "duration_ms": 153026,
+      "name": "Rosa... Rosa",
+      "url": "https://open.spotify.com/track/2xWNLtRPgcQwjTWjhncnJF"
     },
     {
       "added_at": "2022-08-05 16:24:16",
@@ -4079,22 +4079,6 @@
     {
       "added_at": "2022-08-05 16:24:16",
       "album": {
-        "name": "Un Besito M\u00e1s",
-        "url": "https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3"
-      },
-      "artists": [
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        }
-      ],
-      "duration_ms": 229933,
-      "name": "Me Soltaste",
-      "url": "https://open.spotify.com/track/02yD6Wmpx5kLAoXLQOnuEb"
-    },
-    {
-      "added_at": "2022-08-05 16:24:16",
-      "album": {
         "name": "Aries",
         "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
       },
@@ -4107,6 +4091,22 @@
       "duration_ms": 289600,
       "name": "Suave",
       "url": "https://open.spotify.com/track/4p7XH4NhQ25iGYrrbg93gt"
+    },
+    {
+      "added_at": "2022-08-05 16:24:16",
+      "album": {
+        "name": "Un Besito M\u00e1s",
+        "url": "https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3"
+      },
+      "artists": [
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        }
+      ],
+      "duration_ms": 229933,
+      "name": "Me Soltaste",
+      "url": "https://open.spotify.com/track/02yD6Wmpx5kLAoXLQOnuEb"
     },
     {
       "added_at": "2022-08-05 16:24:16",

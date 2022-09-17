@@ -4,7 +4,7 @@
 
 > Get on down the road with these classic country tunes\. Cover: Johnny Cash
 
-100 songs - 5 hr 20 min - not published yet
+100 songs - 5 hr 20 min - [published](https://open.spotify.com/playlist/1ITekc4Nu1jto5msNE6Yd5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

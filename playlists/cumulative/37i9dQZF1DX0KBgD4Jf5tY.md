@@ -4,7 +4,7 @@
 
 > Nuove scoperte dalla scena indipendente italiana, senza etichette di genere\. Cover: <a href="spotify:artist:6TWgi8oIy1OFh9P7EglVUt">Arieti Rilassati</a>
 
-367 songs - 18 hr 38 min - [published](https://open.spotify.com/playlist/7DW4xNQc4jVEAVd25UPTmP)
+368 songs - 18 hr 43 min - [published](https://open.spotify.com/playlist/7DW4xNQc4jVEAVd25UPTmP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,6 +254,7 @@
 | [Piatti Sporchi](https://open.spotify.com/track/6QliTzcKrwZDZ4riRy7IL8) | [Mattino](https://open.spotify.com/artist/6AWJDRkGAulcoS0K1fChAT) | [Piatti Sporchi](https://open.spotify.com/album/3MTwNIztPZS019lqYKKuUP) | 2:28 | 2022-05-05 | 2022-06-10 |
 | [Piccoli problemi](https://open.spotify.com/track/0l4AdVfyK4ZI1aNqomkrqA) | [Schiuma](https://open.spotify.com/artist/3HjRoFEZwL58GYiXQ0KNlD) | [Piccoli problemi](https://open.spotify.com/album/4fdrb9tRtt4mfIFCzBGzZ2) | 2:59 | 2022-04-19 | 2022-05-28 |
 | [Picture Frame](https://open.spotify.com/track/2t64xZv8rVX11pF1uBVzcM) | [Nene](https://open.spotify.com/artist/4PqWaoSD27Qq1Zn5MXie8c), [Stellina Malinconica](https://open.spotify.com/artist/08oc2ijiHHssDF1GxDpG3E) | [Picture Frame](https://open.spotify.com/album/1taYB2FCjFwPRHHmP3GvcF) | 2:40 | 2022-07-29 | 2022-09-12 |
+| [Pirati](https://open.spotify.com/track/5ipWXlmwltaLQCsBzoRizT) | [Barberini](https://open.spotify.com/artist/2jOreV30iFYcXc8qEzt9yH) | [Pirati](https://open.spotify.com/album/1DXxshEJz5EEX8aJyU29XI) | 5:01 | 2022-09-15 |  |
 | [Plastica](https://open.spotify.com/track/1P7eaFyOFgj6hLIEgTWKRh) | [Brividee](https://open.spotify.com/artist/3Aii0XCq5MDf7ZlxK0ZNHo) | [Controluce](https://open.spotify.com/album/1zu61ZwipzAOrHSbDXsG1I) | 3:27 | 2022-01-06 | 2022-02-18 |
 | [Plata o Plomo](https://open.spotify.com/track/6df02d2Z4huWdCHC3Z11za) | [Lefar](https://open.spotify.com/artist/6SNUCXTHmzFQayw62hSCcV) | [Plata o Plomo](https://open.spotify.com/album/1xwusIAkk54BU8cuDJJqSQ) | 2:15 | 2022-03-03 | 2022-03-25 |
 | [Politecnico Poliamore](https://open.spotify.com/track/1yUM7puCgxMvx4xrNn9VCe) | [Grill Boys](https://open.spotify.com/artist/7bhEp7R7GJ7fKHbocwhq9h), [Aegeminus](https://open.spotify.com/artist/2UJLlfZSc3wzkT5PVG8zRN) | [Politecnico Poliamore](https://open.spotify.com/album/5rDxDO36cXKDuHo6kbw4aT) | 3:14 | 2022-06-23 | 2022-07-15 |

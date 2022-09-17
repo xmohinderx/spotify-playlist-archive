@@ -4,7 +4,7 @@
 
 > Soulful Hindi songs for your nostalgic journey
 
-120 songs - 8 hr 58 min - [published](https://open.spotify.com/playlist/1UiXnI1qTnq267ePzvA7OR)
+121 songs - 9 hr 2 min - [published](https://open.spotify.com/playlist/1UiXnI1qTnq267ePzvA7OR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [Jaata Kahanhai Diwane](https://open.spotify.com/track/5nWMAyvfVkvu7TOtVhGLqM) | [Geeta Dutt](https://open.spotify.com/artist/0QsbYX8XslSSUcztc6u4pO) | [C.I.D\. \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0gOsGGhRWVBJytSiuDTYa6) | 3:20 | 2021-09-29 | 2022-07-09 |
 | [Jadugar Saiyan Chhod Mori Baiyan](https://open.spotify.com/track/0rTwRCSgDMMk1FuvpWosv6) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Nagin \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Tawm1VKjcxrx7DYXTFbl4) | 2:53 | 2022-01-05 | 2022-01-06 |
 | [Jane Kahan Mera Jigar Gaya Ji](https://open.spotify.com/track/4aE7oc6DyiMvNWutwblivY) | [Geeta Dutt](https://open.spotify.com/artist/0QsbYX8XslSSUcztc6u4pO), [Mohammed Rafi](https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J) | [Mr\. And Mrs\. 55 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6JWQn4k7t6Wx6YzjI1JQpZ) | 3:38 | 2021-09-29 |  |
-| [Jane Woh Kaise Log The](https://open.spotify.com/track/64xC67m2VV24RykHrBH1kw) | [Hemant Kumar](https://open.spotify.com/artist/02Um2HIOrUdsy3wqPBZwsj) | [Pyaasa \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3UQouhwVrvetrQfBRNsAZn) | 4:19 | 2022-01-05 |  |
+| [Jane Woh Kaise Log The](https://open.spotify.com/track/1raJfrE4ArlwIGgFGZ0LEw) | [Hemant Kumar](https://open.spotify.com/artist/02Um2HIOrUdsy3wqPBZwsj) | [Best of Guru Dutt Songs](https://open.spotify.com/album/1Llba1Ang0TGaohV3yxG36) | 4:19 | 2022-01-05 |  |
+| [Jane Woh Kaise Log The](https://open.spotify.com/track/64xC67m2VV24RykHrBH1kw) | [Hemant Kumar](https://open.spotify.com/artist/02Um2HIOrUdsy3wqPBZwsj) | [Pyaasa \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3UQouhwVrvetrQfBRNsAZn) | 4:19 | 2022-01-05 | 2022-09-17 |
 | [Jane Woh Kaise Log The](https://open.spotify.com/track/1KaNtSpU12ZFyTPc07gTht) | [Hemant Kumar](https://open.spotify.com/artist/02Um2HIOrUdsy3wqPBZwsj), [S\. D\. Burman](https://open.spotify.com/artist/4vMKEXQ4cU5hb2BL4omVrT) | [Pyaasa](https://open.spotify.com/album/7asgJzEDDF5u4gGgsjvjW9) | 4:19 | 2021-09-29 | 2022-07-29 |
 | [Jata Kahan Hai Diwane](https://open.spotify.com/track/5cQzW3GYUl3TidsZr9Lb4t) | [Geeta Dutt](https://open.spotify.com/artist/0QsbYX8XslSSUcztc6u4pO) | [History of Indian Film Music: \[C.I.D\. \(1956\), Dastan \(1950\)\], Vol\. 20](https://open.spotify.com/album/7H9bbhuHcPkESCnIIosyTG) | 3:17 | 2021-09-29 | 2022-07-28 |
 | [Jhuki Jhuki Si Nazar](https://open.spotify.com/track/5PWQsLrymwQbCVYOO70Vfd) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Arth \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0awQFrzYaUGPkilq1gGrXF) | 5:02 | 2021-09-29 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24s7wiZ6iNt.md) - [plain]
 
 > Our editorial picks for Indie's best of 2021 in Canada\. Cover: EKKSTACY
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,109 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,110 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24s7wiZ6iNt.md) - [plain]
 | 52 | [Everything](https://open.spotify.com/track/7htpUANwMWFNWxSLPLNYuF) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [Everything](https://open.spotify.com/album/3u1SEl8ukaL4B5MZitSatD) | 3:20 |
 | 53 | [Tongues](https://open.spotify.com/track/4cdatGZQkKpBKZOiXptz5I) | [Tanya Tagaq](https://open.spotify.com/artist/2WIb75pwIt78VCAhAtPObY) | [Tongues](https://open.spotify.com/album/565j8hb4CaU9pWZSz7tVMh) | 3:22 |
 | 54 | [finding rhythm](https://open.spotify.com/track/4Y5xx6F2NhaxJ0D5fzgKXB) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [finding rhythm](https://open.spotify.com/album/7thqwj3Pm1u50w4v3mIMIx) | 3:47 |
-| 55 | [Nothing Less, Nothing More](https://open.spotify.com/track/6GYsooXBA2y4ICjPgCPE4k) | [Reno McCarthy](https://open.spotify.com/artist/1JdFzT3HVVdNNvpdIyfOPS) | [Run up River](https://open.spotify.com/album/3HXVfCJIxqcphgtwxSMvtd) | 4:19 |
+| 55 | [Nothing Less, Nothing More](https://open.spotify.com/track/6GYsooXBA2y4ICjPgCPE4k) | [Reno McCarthy](https://open.spotify.com/artist/1JdFzT3HVVdNNvpdIyfOPS) | [Run Up River](https://open.spotify.com/album/3HXVfCJIxqcphgtwxSMvtd) | 4:19 |
 | 56 | [Your Life Your Time](https://open.spotify.com/track/1HWkMkgqKMLqsAPRh0KNmE) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Your Life Your Time](https://open.spotify.com/album/4EZaBjrZvPKOch67xp0E3J) | 2:40 |
 | 57 | [Lost Angeles](https://open.spotify.com/track/7HcXYiiZVtXm8lt4AYffm7) | [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP) | [WOIIYOIE TAPES Vol.1](https://open.spotify.com/album/6jqwzjUeXAJdUBKZ0KqtGO) | 3:07 |
 | 58 | [Good Kinda High \(feat\. U.S\. Girls\)](https://open.spotify.com/track/1yITtkfWioB4wVYfIzlhDJ) | [Glenn Gould](https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP), [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA) | [Uninvited Guests \- Deluxe](https://open.spotify.com/album/659Zidfi4wFlIwI4kR2l10) | 2:48 |

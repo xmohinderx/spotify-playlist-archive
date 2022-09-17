@@ -4,7 +4,7 @@
 
 > Bailando de caballito, aunque se enoje tu mamá\. Mi Banda El Mexicano en portada.
 
-86 songs - 4 hr 26 min - [published](https://open.spotify.com/playlist/6lQGShtqHlUTR1KQhiWK9V)
+87 songs - 4 hr 29 min - [published](https://open.spotify.com/playlist/6lQGShtqHlUTR1KQhiWK9V)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [La cuca](https://open.spotify.com/track/6fAgsEWreF327VmKHhKQYf) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Mix movidas románticas \(USA\)](https://open.spotify.com/album/6XhzyrKMawpGgrMm32F70e) | 2:55 | 2022-04-13 |  |
 | [La cuca](https://open.spotify.com/track/7xnM2mrHUyb1Lr8gUhj4j7) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [En grande](https://open.spotify.com/album/5J6wDtwCGok12ta08ixCsA) | 2:55 | 2022-04-13 | 2022-07-29 |
 | [La culebra](https://open.spotify.com/track/6bJlR3XVNgAOIkKdiKkZz4) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [25 Bandazos de Machos \(Vol\. 1\) \[USA\]](https://open.spotify.com/album/641IjGwd385qV3RVouieUv) | 3:08 | 2022-04-13 |  |
-| [La Danza Del Coyote](https://open.spotify.com/track/2mIy6LxmVeUS0WKSclC81G) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Medias Negras](https://open.spotify.com/album/2H4kDjp9o09GAy3BYh61dr) | 3:03 | 2022-04-13 |  |
+| [La Danza Del Coyote](https://open.spotify.com/track/2mIy6LxmVeUS0WKSclC81G) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Medias Negras](https://open.spotify.com/album/2H4kDjp9o09GAy3BYh61dr) | 3:03 | 2022-04-13 | 2022-09-17 |
+| [La Danza del Coyote](https://open.spotify.com/track/2k8uSmaLryu83VrICrhOjS) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Las Medias Negras](https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3) | 3:07 | 2022-04-13 |  |
 | [La Danza del Coyote](https://open.spotify.com/track/4q7QCuZStwhymthrUmN3Ve) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Las Medias Negras](https://open.spotify.com/album/1WdlcwzVMGHrW2vnktTK68) | 3:07 | 2022-04-13 | 2022-07-29 |
 | [La nena](https://open.spotify.com/track/5OwFcVt4icprLmc5bO9ruK) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [25 Bandazos de Pequeños Musical \(Vol\. 1\) \[USA\]](https://open.spotify.com/album/7g3IdcuzbSoWHVKWfKIY2x) | 2:54 | 2022-04-13 |  |
 | [La nena](https://open.spotify.com/track/11nbpj3Am8EBgjdGw3dqjY) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Banda Pequeños Musical](https://open.spotify.com/album/7M8M3UTkpnW9EZ6Lq4fdpY) | 2:54 | 2022-04-13 | 2022-07-29 |

@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03VbhoH7arm.md) - [plain]
 
 > Os grandes hits do momento estão aqui! Foto: Anitta, L7NNON
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,160,464 likes - 52 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,160,975 likes - 52 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Yo No Se \(feat\. L7NNON & Maffio\)](https://open.spotify.com/track/2K176iGMIBESoxbTzyoFsH) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV) | [Versions of Me \(Deluxe\)](https://open.spotify.com/album/7mJHNN7NNnPBofreezMbef) | 3:01 |
-| 2 | [DESPECHÁ](https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [DESPECHÁ](https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv) | 2:37 |
-| 3 | [Pipoco](https://open.spotify.com/track/7AwVSKaQxpidrtYBerkHKk) | [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex), [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI), [Dj Chris No Beat](https://open.spotify.com/artist/0vdcZzmneH0nK9CYFHQBjk) | [Pipoco](https://open.spotify.com/album/00C8jeBlMsEwhksDe34e6E) | 3:14 |
-| 4 | [Hotel Caro](https://open.spotify.com/track/6BF3nZQkAg9qvE0DLVSfyH) | [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Hotel Caro](https://open.spotify.com/album/2rnjCy8GYIemnJTPz6dnlU) | 3:41 |
-| 5 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 |
-| 6 | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh) | 3:32 |
-| 7 | [ACORDA PEDRINHO](https://open.spotify.com/track/2sUhjzuc6w4SRFwoC3LvXZ) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [ACORDA PEDRINHO](https://open.spotify.com/album/3zYKRs5QY4f5B66TTAg3p6) | 2:53 |
-| 8 | [Running Up That Hill \(A Deal With God\) \- 2018 Remaster](https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds of Love \(2018 Remaster\)](https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH) | 5:00 |
-| 9 | [El Que Espera](https://open.spotify.com/track/2oNSHvGBGZIrZouRAA1eaX) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [El Que Espera](https://open.spotify.com/album/1iouSXg5RihFIXRvZFJyTa) | 2:50 |
-| 10 | [29](https://open.spotify.com/track/3gXWe15nwrjfhjYQ5RqLx7) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [29](https://open.spotify.com/album/4SCO1XGo1Lv43OighlwqsL) | 2:43 |
-| 11 | [Beggin'](https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 3:31 |
+| 2 | [Hotel Caro](https://open.spotify.com/track/6BF3nZQkAg9qvE0DLVSfyH) | [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Hotel Caro](https://open.spotify.com/album/2rnjCy8GYIemnJTPz6dnlU) | 3:41 |
+| 3 | [DESPECHÁ](https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [DESPECHÁ](https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv) | 2:37 |
+| 4 | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh) | 3:32 |
+| 5 | [Pipoco](https://open.spotify.com/track/7AwVSKaQxpidrtYBerkHKk) | [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex), [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI), [Dj Chris No Beat](https://open.spotify.com/artist/0vdcZzmneH0nK9CYFHQBjk) | [Pipoco](https://open.spotify.com/album/00C8jeBlMsEwhksDe34e6E) | 3:14 |
+| 6 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 |
+| 7 | [Beggin'](https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 3:31 |
+| 8 | [ACORDA PEDRINHO](https://open.spotify.com/track/2sUhjzuc6w4SRFwoC3LvXZ) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [ACORDA PEDRINHO](https://open.spotify.com/album/3zYKRs5QY4f5B66TTAg3p6) | 2:53 |
+| 9 | [Running Up That Hill \(A Deal With God\) \- 2018 Remaster](https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds of Love \(2018 Remaster\)](https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH) | 5:00 |
+| 10 | [El Que Espera](https://open.spotify.com/track/2oNSHvGBGZIrZouRAA1eaX) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [El Que Espera](https://open.spotify.com/album/1iouSXg5RihFIXRvZFJyTa) | 2:50 |
+| 11 | [29](https://open.spotify.com/track/3gXWe15nwrjfhjYQ5RqLx7) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [29](https://open.spotify.com/album/4SCO1XGo1Lv43OighlwqsL) | 2:43 |
 | 12 | [VERMELHO](https://open.spotify.com/track/4EVzu5mYyigjyLrryKbZs7) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [LADY LESTE](https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ) | 2:32 |
 | 13 | [Mole](https://open.spotify.com/track/1mXJe2PaWhSNWXvNIZKpqX) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [TRÊS](https://open.spotify.com/album/3QiDWIyxyDbRfMsgZJrdCV) | 2:10 |
 | 14 | [CACHORRINHAS](https://open.spotify.com/track/7KWKWJnbGJ3Soag6Oopion) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [CACHORRINHAS](https://open.spotify.com/album/290wcRNv42S3KICKFYmTu6) | 2:14 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03VbhoH7arm.md) - [plain]
 | 51 | [Don't Start Now](https://open.spotify.com/track/3PfIrDoz19wz7qK7tYeu62) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:03 |
 | 52 | [BONEKINHA](https://open.spotify.com/track/79Djb1E319BwnYZ8cEA1mQ) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [BONEKINHA](https://open.spotify.com/album/21YCUy1thmnxAbcIOsJy8y) | 2:48 |
 
-Snapshot ID: `MTY2MjY5MjQwMCwwMDAwMDAwMDk0ZWZmZDlmOTZlNWJjZTQ4OTllYWExMzVmZjc0MzJl`
+Snapshot ID: `MTY2MzI5OTE5MiwwMDAwMDAwMDc0NzFkZDFjN2I2ODYyZTFmOWRjNGNjNWQ4OTVhMmI5`

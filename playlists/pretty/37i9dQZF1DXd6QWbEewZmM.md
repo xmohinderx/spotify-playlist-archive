@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 
 > For the Sad Cuhs and anyone in their feelings.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,936 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,125 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 | 38 | [Estás en Mí Pasado](https://open.spotify.com/track/6ztAOF9gzTWhF4IHW0Sclj) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Alma Vacía](https://open.spotify.com/album/4DmITPOATTsiWEWtJrPqkk) | 3:57 |
 | 39 | [Tristeza Y Traicion](https://open.spotify.com/track/6dRAEG6dmMfP5SS9Vh1s56) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Love </3](https://open.spotify.com/album/6dgBlaN3n2sALXgwzIRmBn) | 3:39 |
 | 40 | [DOS MORRITAS](https://open.spotify.com/track/2gpaJPUWNx2xmOwy2NNLu8) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [NOSTALGIA](https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd) | 3:58 |
-| 41 | [Piel de Seda](https://open.spotify.com/track/5BGVjoFtSSYov2pMpmo1La) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Tragos y Cigarros](https://open.spotify.com/album/7yeopeDDLOvHmgtgyTYG9S) | 2:46 |
+| 41 | [Labios Rojos](https://open.spotify.com/track/1NPk0Y7AkLvirhSg4oI0bM) | [LDNE](https://open.spotify.com/artist/5hkcGbdTv8nC62vVT7RJmZ) | [La Empresa Music Presenta: Volando](https://open.spotify.com/album/5M4aigT49Vo7KHyB29dQjF) | 4:01 |
 | 42 | [Mil Gracias Por Existir](https://open.spotify.com/track/1HAvMItHMFRlnrbOXZBL8X) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Mil Gracias Por Existir](https://open.spotify.com/album/6jVnCF1Qar2w4ZuAVkxKb6) | 3:45 |
-| 43 | [Labios Rojos](https://open.spotify.com/track/1NPk0Y7AkLvirhSg4oI0bM) | [LDNE](https://open.spotify.com/artist/5hkcGbdTv8nC62vVT7RJmZ) | [La Empresa Music Presenta: Volando](https://open.spotify.com/album/5M4aigT49Vo7KHyB29dQjF) | 4:01 |
+| 43 | [Piel de Seda](https://open.spotify.com/track/5BGVjoFtSSYov2pMpmo1La) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Tragos y Cigarros](https://open.spotify.com/album/7yeopeDDLOvHmgtgyTYG9S) | 2:46 |
 | 44 | [La Vi Llorar](https://open.spotify.com/track/3G8WaQkwVSwlcDGRHniG3w) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Cruisin' with Junior H](https://open.spotify.com/album/0HANqWtJABVpAWVrQzE2XM) | 4:45 |
 | 45 | [No Eres La Oficial](https://open.spotify.com/track/7qWvY6pXosRyh86pGKhXr5) | [David Santos](https://open.spotify.com/artist/3sc9qeCcbKwYiiBspwVUzU) | [No Eres La Oficial](https://open.spotify.com/album/7AjLQs5QZBduKDXxb8lYwh) | 3:20 |
 | 46 | [Llamadas Perdidas](https://open.spotify.com/track/3KrbX6XhTdxeIckOgjygMc) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Alma Vacía](https://open.spotify.com/album/4DmITPOATTsiWEWtJrPqkk) | 4:21 |
@@ -78,9 +78,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 | 68 | [Perfecta En Mis Ojos](https://open.spotify.com/track/6j6JokKNpHSiCqEX5eJf2Z) | [Angel Perez](https://open.spotify.com/artist/39dTY1F07rdtbJ1zgjDQOe) | [Perfecta En Mis Ojos](https://open.spotify.com/album/6kG1TQCFmtbs0V7GuqurRp) | 2:45 |
 | 69 | [Te Regalo](https://open.spotify.com/track/7c36pInnsI3DzAGDQcTW99) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Andamos En El Ruedo](https://open.spotify.com/album/6bpWzCTfuvRJ0ZHyTmRS3R) | 3:14 |
 | 70 | [Enamorado](https://open.spotify.com/track/1JZ9TyZKqNZlCuDiySq9Ra) | [Giovanni Y Su Equipo Escoltado](https://open.spotify.com/artist/10skaFqBCaTCTmxh3kjFRe) | [Malandro Enamorado](https://open.spotify.com/album/5IJUKPReC7LRXf75P9kGvA) | 3:36 |
-| 71 | [Nomás Este Rey \- Bonus Track](https://open.spotify.com/track/2hUWaQPqogx8GeD9G0P2NA) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [De Corazon Bohemio](https://open.spotify.com/album/05jXRbAmwH2b3XTRfKC0j5) | 3:36 |
+| 71 | [Platicame De Ti](https://open.spotify.com/track/2e7vV4s0ex45qsLcmXcnP4) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [En La Fuga](https://open.spotify.com/album/4TLsRBy0U6InnsvEeZ7cNq) | 2:55 |
 | 72 | [Siendo Sincero](https://open.spotify.com/track/6HgiRuV6ITWQBGsJ1HDjz1) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [Siendo Sincero](https://open.spotify.com/album/2BR0AvmJPy9VyRWm5nFC7j) | 2:54 |
-| 73 | [Platicame De Ti](https://open.spotify.com/track/2e7vV4s0ex45qsLcmXcnP4) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [En La Fuga](https://open.spotify.com/album/4TLsRBy0U6InnsvEeZ7cNq) | 2:55 |
+| 73 | [Nomás Este Rey \- Bonus Track](https://open.spotify.com/track/2hUWaQPqogx8GeD9G0P2NA) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [De Corazon Bohemio](https://open.spotify.com/album/05jXRbAmwH2b3XTRfKC0j5) | 3:36 |
 | 74 | [Amor](https://open.spotify.com/track/35CpkPPqi9RXlETJZw5BYS) | [Alta Elegancia](https://open.spotify.com/artist/7EOpIcFOVG2PedJgVbCHJ2), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [856 para el Mundo](https://open.spotify.com/album/2CPwUEgvViKF6S7LAchZAZ) | 4:41 |
 | 75 | [Infeliz](https://open.spotify.com/track/1HfkiyazS6licNey0lz01N) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Perdido En Ti](https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg) | 3:19 |
 | 76 | [Ninguna Como Ella](https://open.spotify.com/track/14m4h509A1JJojv3eDxUDe) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [A Mis 20](https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR) | 3:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 | 99 | [Tu Mirada](https://open.spotify.com/track/1Ks6qonhq4VOzYvvFPmppi) | [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ) | [Tu Mirada](https://open.spotify.com/album/2lCDLXSdE6An4aVSuvPBPd) | 2:29 |
 | 100 | [Recuerdos](https://open.spotify.com/track/3Q1E7EfAN0lXgsoxkhROdR) | [Alejandroo](https://open.spotify.com/artist/4wHL1OX8yZPTXoRrIycyYQ) | [Recuerdos](https://open.spotify.com/album/3Qoz6D1Wow3kfNLe75xHws) | 3:11 |
 
-Snapshot ID: `MTY2Mjg2MjE3MiwwMDAwMDAwMDc0NDdmNDM3YjcwZGY5OWJhYmM0MzMyNmY4YzhlYWZi`
+Snapshot ID: `MTY2Mjg2MjE3MiwwMDAwMDAwMDkyMjc5MTYzN2IxN2U5M2M5YzkyZmZkMmU3YzQ1ODA0`

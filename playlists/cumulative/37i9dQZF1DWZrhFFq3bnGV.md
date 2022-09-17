@@ -4,7 +4,7 @@
 
 > Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Sequoia Project
 
-75 songs - 5 hr 7 min - [published](https://open.spotify.com/playlist/50nx8bYWnlzdoNtPoX5a5I)
+76 songs - 5 hr 11 min - [published](https://open.spotify.com/playlist/50nx8bYWnlzdoNtPoX5a5I)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Swarna Jingga](https://open.spotify.com/track/3PfgXEKgkEP1pAcFvOP4oy) | [Dewa Budjana](https://open.spotify.com/artist/1DvbGHKUGTOIns3BXzyKhB), [Dave Weck](https://open.spotify.com/artist/4oCrrQt5LOsudylDqLHLgq), [Jimmy Johnson](https://open.spotify.com/artist/4piaw0UhXEi9S0G5CyJo2B), [Mateus Asato](https://open.spotify.com/artist/4en3qu5SDsPtBcTkXasukc) | [Naurora](https://open.spotify.com/album/4WJmpMeNY0dKGGxbt5ovox) | 6:51 | 2022-09-02 |  |
 | [Talking to Myself](https://open.spotify.com/track/72hbDZ7MMYjweTu3ItXysl) | [Adrian Setiawan](https://open.spotify.com/artist/39XX7BNu95xOOxusr1BzFn) | [Talking to Myself](https://open.spotify.com/album/181Fo4Z0LGLGVTjy2VPm2n) | 3:23 | 2022-09-02 |  |
 | [Terjebak Rasa](https://open.spotify.com/track/1mCbEnBemrfcJlOVBzDKbm) | [Dony Koeswinarno](https://open.spotify.com/artist/2Hayo3Hkb9m2qOcyRKkzFG), [Tompi](https://open.spotify.com/artist/3FxQst3IlItxaNPGzjl17G) | [Terjebak Rasa](https://open.spotify.com/album/1JZnaNG5spkRUh7eV8y99e) | 3:41 | 2022-09-02 |  |
+| [The Way You Make Me Feel](https://open.spotify.com/track/7sncCClNIeE5i54JrkirGI) | [Nenei](https://open.spotify.com/artist/7675AXKo73FqKM9RDrGbf7), [Jazzystics](https://open.spotify.com/artist/593TG88zhlcUxEYmhMYeIG) | [The Way You Make Me Feel](https://open.spotify.com/album/3RjLQCopcBOikdCe19NVtH) | 3:40 | 2022-09-16 |  |
 | [Time](https://open.spotify.com/track/2uNW6w5uHdgUktt8vFz0Pq) | [tjdika](https://open.spotify.com/artist/3c4CUqxqmYrhu6lw5DsrE7), [Jessie Tanoko](https://open.spotify.com/artist/2QHCr14mVb7OaFLCu6bDnI) | [Time](https://open.spotify.com/album/43UmfySArofutUhY1bKzkb) | 2:59 | 2022-09-02 |  |
 | [Tune for Lovely Souls](https://open.spotify.com/track/26UE9dPxITf8w5MeXNajx4) | [Anastasya Poetri](https://open.spotify.com/artist/6e2MbJs1OWfSbaCCkJybNt), [Musiversal](https://open.spotify.com/artist/0CKghiJKtmUuuPZHFOiwlW) | [Tune for Lovely Souls](https://open.spotify.com/album/3VsWmqZ6JHs4Enq0vdtePx) | 2:37 | 2022-09-02 |  |
 | [Wait for the Dawn](https://open.spotify.com/track/5xXqZbC3DMdMRUAgMHWDnK) | [Echa Soemantri](https://open.spotify.com/artist/4iiKBvCYsDz8Jes3XX04JX) | [Wait for the Dawn](https://open.spotify.com/album/2H8Q69oCxEXHGQR5cRx4Ee) | 4:58 | 2022-09-02 |  |

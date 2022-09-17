@@ -156,6 +156,24 @@
     },
     {
       "album": {
+        "name": "Mister Nice Guy",
+        "url": "https://open.spotify.com/album/2tsLR3WeXcm7obFh3ZNNn5"
+      },
+      "artists": [
+        {
+          "name": "Friend",
+          "url": "https://open.spotify.com/artist/6a89shmNCtjzoMMX47z2Iq"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101550,
+      "name": "Braces",
+      "url": "https://open.spotify.com/track/3oYAMcCA1J8QGzz1q0CPHF"
+    },
+    {
+      "album": {
         "name": "Burning Throne",
         "url": "https://open.spotify.com/album/7banxw62PIcV3P4My3qr3k"
       },
@@ -174,6 +192,32 @@
     },
     {
       "album": {
+        "name": "BUST IT",
+        "url": "https://open.spotify.com/album/1JaVsCab59Ls8hIjSMg6Eg"
+      },
+      "artists": [
+        {
+          "name": "Sadzilla",
+          "url": "https://open.spotify.com/artist/6B6IodMdAjoGX2fZuYyGpc"
+        },
+        {
+          "name": "Ras Bootin'",
+          "url": "https://open.spotify.com/artist/1waYSMSmhL2nSqLb3XBRSh"
+        },
+        {
+          "name": "EMMETH",
+          "url": "https://open.spotify.com/artist/1C4YaCx7UmWLQrycPwu7Dy"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171100,
+      "name": "BUST IT",
+      "url": "https://open.spotify.com/track/2VR50MI5hLSYnYRC1mAQOx"
+    },
+    {
+      "album": {
         "name": "Call of the Witch",
         "url": "https://open.spotify.com/album/10FJOcVWSolAkejeUxpPSA"
       },
@@ -189,6 +233,24 @@
       "duration_ms": 74000,
       "name": "Call of the Witch",
       "url": "https://open.spotify.com/track/5THPCPokg7K1oN9VkT10nl"
+    },
+    {
+      "album": {
+        "name": "Enveloping Absurdity",
+        "url": "https://open.spotify.com/album/0ULfAaYkPeQfu3f64qNiuy"
+      },
+      "artists": [
+        {
+          "name": "Phobophilic",
+          "url": "https://open.spotify.com/artist/1cdxNUejlVcTwgWocqB3eF"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255186,
+      "name": "Cathedrals of Blood (Twilight of the Idols)",
+      "url": "https://open.spotify.com/track/7tyqpGsyDgCTL8EOcqhJt5"
     },
     {
       "album": {
@@ -743,7 +805,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 226200,
       "name": "Misanthropist",
       "url": "https://open.spotify.com/track/0SK1Z1ewBm4jpfOJWTisIt"
@@ -1307,7 +1369,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 218503,
       "name": "The Future Says Thank You",
       "url": "https://open.spotify.com/track/0ZJ2BP0U1H8uhy0LnYDXjk"
@@ -1433,7 +1495,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 156347,
       "name": "Trench",
       "url": "https://open.spotify.com/track/3AGnINkl4SvfDoXIDfnR2f"
@@ -1527,6 +1589,24 @@
       "duration_ms": 280826,
       "name": "Wavery",
       "url": "https://open.spotify.com/track/3gDn9Om6fPNJ11NILNA4gF"
+    },
+    {
+      "album": {
+        "name": "We Came To Play",
+        "url": "https://open.spotify.com/album/2JCF0uPKnJCJdQ7C5acVFr"
+      },
+      "artists": [
+        {
+          "name": "Show Me the Body",
+          "url": "https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135208,
+      "name": "We Came To Play",
+      "url": "https://open.spotify.com/track/41zQURNrqtia1f2xXfZkUP"
     },
     {
       "album": {

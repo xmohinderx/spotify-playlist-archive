@@ -1,12 +1,12 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \ub2f9\uc2e0\uc744 \uc704\ub85c\ud558\ub294 \uac00\uc0ac\uc640 \ub530\ub73b\ud55c \ube44\ud2b8.",
-  "num_followers": 4817,
+  "num_followers": 4821,
   "original_name": "\ud790\ub9c1 \ud799\ud569",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM1OTA4MSwwMDAwMDAwMDAwZDJiNzA2NTg2N2VmYzgxZTQxZTEzNzQyOThmNzgz",
+  "snapshot_id": "MTY2MjM1OTA4MSwwMDAwMDAwMDUyMWU3MDBmOTIyNzMyMGRiOTBiMmQ4YjgwODhkYmJi",
   "tracks": [
     {
       "added_at": "2022-09-05 06:24:41",
@@ -491,6 +491,26 @@
     {
       "added_at": "2022-09-05 06:24:41",
       "album": {
+        "name": "Show Me the Money 8 Episode 4",
+        "url": "https://open.spotify.com/album/4NP4DI5Afz9qz1NyMnxHUp"
+      },
+      "artists": [
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        },
+        {
+          "name": "Coogie",
+          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+        }
+      ],
+      "duration_ms": 228607,
+      "name": "Problems",
+      "url": "https://open.spotify.com/track/66x69sbYKTKrQG5rVnbepA"
+    },
+    {
+      "added_at": "2022-09-05 06:24:41",
+      "album": {
         "name": "Primary and Pphk Pt.1",
         "url": "https://open.spotify.com/album/5CCVroCLwjRk4GDTwCaX4t"
       },
@@ -511,26 +531,6 @@
       "duration_ms": 248000,
       "name": "Seat Belt (Feat. Dynamic Duo)",
       "url": "https://open.spotify.com/track/2WcMriAJ84pN5ZW8cBiUnQ"
-    },
-    {
-      "added_at": "2022-09-05 06:24:41",
-      "album": {
-        "name": "Show Me the Money 8 Episode 4",
-        "url": "https://open.spotify.com/album/4NP4DI5Afz9qz1NyMnxHUp"
-      },
-      "artists": [
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        },
-        {
-          "name": "Coogie",
-          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
-        }
-      ],
-      "duration_ms": 228607,
-      "name": "Problems",
-      "url": "https://open.spotify.com/track/66x69sbYKTKrQG5rVnbepA"
     },
     {
       "added_at": "2022-09-05 06:24:41",
@@ -623,30 +623,6 @@
     {
       "added_at": "2022-09-05 06:24:41",
       "album": {
-        "name": "Kang's Kitchen3",
-        "url": "https://open.spotify.com/album/6I5jZ0dOJLoyyiPvYEtbst"
-      },
-      "artists": [
-        {
-          "name": "MINO",
-          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
-        },
-        {
-          "name": "P.O",
-          "url": "https://open.spotify.com/artist/6mTcXVXmCixpsVnYDUpCnY"
-        },
-        {
-          "name": "KYUHYUN",
-          "url": "https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln"
-        }
-      ],
-      "duration_ms": 182671,
-      "name": "Pat Pat",
-      "url": "https://open.spotify.com/track/6lejhkABV4Hns2v1ZJjPwJ"
-    },
-    {
-      "added_at": "2022-09-05 06:24:41",
-      "album": {
         "name": "Dingo X DAMOIM Pt. 2",
         "url": "https://open.spotify.com/album/7u4kbKGYSYvRcdfSlkHPAB"
       },
@@ -695,22 +671,26 @@
     {
       "added_at": "2022-09-05 06:24:41",
       "album": {
-        "name": "HALO",
-        "url": "https://open.spotify.com/album/557aGJNY6gixheNKVOs8Mi"
+        "name": "Kang's Kitchen3",
+        "url": "https://open.spotify.com/album/6I5jZ0dOJLoyyiPvYEtbst"
       },
       "artists": [
         {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
         },
         {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+          "name": "P.O",
+          "url": "https://open.spotify.com/artist/6mTcXVXmCixpsVnYDUpCnY"
+        },
+        {
+          "name": "KYUHYUN",
+          "url": "https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln"
         }
       ],
-      "duration_ms": 233013,
-      "name": "Til I Die",
-      "url": "https://open.spotify.com/track/0hAkJkaTMKEK5KEKAm0719"
+      "duration_ms": 182671,
+      "name": "Pat Pat",
+      "url": "https://open.spotify.com/track/6lejhkABV4Hns2v1ZJjPwJ"
     },
     {
       "added_at": "2022-09-05 06:24:41",
@@ -727,6 +707,26 @@
       "duration_ms": 209086,
       "name": "home sh*t home",
       "url": "https://open.spotify.com/track/3di8ahVaBcZg9OPq1JYa85"
+    },
+    {
+      "added_at": "2022-09-05 06:24:41",
+      "album": {
+        "name": "HALO",
+        "url": "https://open.spotify.com/album/557aGJNY6gixheNKVOs8Mi"
+      },
+      "artists": [
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 233013,
+      "name": "Til I Die",
+      "url": "https://open.spotify.com/track/0hAkJkaTMKEK5KEKAm0719"
     },
     {
       "added_at": "2022-09-05 06:24:41",
@@ -799,26 +799,6 @@
     {
       "added_at": "2022-09-05 06:24:41",
       "album": {
-        "name": "HELLP",
-        "url": "https://open.spotify.com/album/1XV4Tae3eibi8dM3igtbgM"
-      },
-      "artists": [
-        {
-          "name": "RYNO",
-          "url": "https://open.spotify.com/artist/5rIOZ6g7qSlq60wITUUle2"
-        },
-        {
-          "name": "MELOH",
-          "url": "https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg"
-        }
-      ],
-      "duration_ms": 206625,
-      "name": "HELLP",
-      "url": "https://open.spotify.com/track/2D3rC3VmUhf3fVZeRbAwcC"
-    },
-    {
-      "added_at": "2022-09-05 06:24:41",
-      "album": {
         "name": "Still",
         "url": "https://open.spotify.com/album/1hn2ZGbHCcJE8AsAVph2QI"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 276612,
       "name": "Still (feat.Crush)",
       "url": "https://open.spotify.com/track/6z7gU9SBoBdqEaMi4jPKc2"
+    },
+    {
+      "added_at": "2022-09-05 06:24:41",
+      "album": {
+        "name": "HELLP",
+        "url": "https://open.spotify.com/album/1XV4Tae3eibi8dM3igtbgM"
+      },
+      "artists": [
+        {
+          "name": "RYNO",
+          "url": "https://open.spotify.com/artist/5rIOZ6g7qSlq60wITUUle2"
+        },
+        {
+          "name": "MELOH",
+          "url": "https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg"
+        }
+      ],
+      "duration_ms": 206625,
+      "name": "HELLP",
+      "url": "https://open.spotify.com/track/2D3rC3VmUhf3fVZeRbAwcC"
     },
     {
       "added_at": "2022-09-05 06:24:41",

@@ -4,7 +4,7 @@
 
 > Grooves so crispy you can snack on them\. Cover: Donny Benét
 
-71 songs - 4 hr 21 min - [published](https://open.spotify.com/playlist/2Sf77s0V1avylGCj2mU7cJ)
+72 songs - 4 hr 24 min - [published](https://open.spotify.com/playlist/2Sf77s0V1avylGCj2mU7cJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Fool For You](https://open.spotify.com/track/0urYHfuvFbdwOA1SYX4yvJ) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc), [NanaBcool](https://open.spotify.com/artist/3I1oZvnUZuHgJXSeNUy6Dq) | [Fool For You](https://open.spotify.com/album/7nNMfOWUpvnIpGDMXb0Z0L) | 2:55 | 2021-07-26 |  |
 | [Get It Together](https://open.spotify.com/track/6VR6zbx4S7eFDRGYGlGqd4) | [Moniquea](https://open.spotify.com/artist/755CaPd9SRvZdhHKBzBY28), [XL Middleton](https://open.spotify.com/artist/6jvRzmQ1J8Kr2QEi6JzQmh) | [Get It Together](https://open.spotify.com/album/76koL38pnB1jvkcszC6ITI) | 3:35 | 2022-08-19 |  |
 | [Girls](https://open.spotify.com/track/1LFu0JwC7x6CFLc6jpRKzH) | [Vetta Borne](https://open.spotify.com/artist/1abBE3BrkgQYrBpcgqrAws) | [Girls](https://open.spotify.com/album/5pmNkvkpQCHdFvdbwEM2aa) | 3:24 | 2021-07-26 |  |
+| [give me your love](https://open.spotify.com/track/1DSP5hDksP9AzPrL5NkHwi) | [Kelechi](https://open.spotify.com/artist/0c62xvYMgfzgFPOXg8uhEU) | [give me your love](https://open.spotify.com/album/2fmz2aj1SENvYnc3Gl7Qko) | 3:27 | 2022-09-16 |  |
 | [Good Fever](https://open.spotify.com/track/64dBx9RrZFa2abQePFWxUv) | [Johnny Burgos](https://open.spotify.com/artist/1dmBfZXCP98HFGOl5zgOWe), [Jonny Tobin](https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO) | [Good Fever](https://open.spotify.com/album/4W97F7B5XosEJ64aUiYHo5) | 3:19 | 2022-02-18 |  |
 | [Hotter \(feat\. Laura Jackson\) \[T\-Groove Remix\]](https://open.spotify.com/track/0WF0028K8mwsg2A4C1cm6p) | [The Doggett Brothers](https://open.spotify.com/artist/5JRS1wbye5NN8Pfgixxofg), [Laura Jackson](https://open.spotify.com/artist/4nNJsw5eLM1kBcGMMZJOAu), [T\-Groove](https://open.spotify.com/artist/2Ky7DbgmIlA47OpDx5KzNt) | [Hotter \(feat\. Laura Jackson\) \[T\-Groove Remix\]](https://open.spotify.com/album/21zO039GPjGBWUdzowcofq) | 5:36 | 2021-07-26 |  |
 | [HUH?](https://open.spotify.com/track/2hWOnCuZo2Js7o0UbDa8m4) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [HUH?](https://open.spotify.com/album/5deDzBsXuhqGnI4eT0z05t) | 2:43 | 2021-07-26 | 2022-09-03 |

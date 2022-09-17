@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKunwBLkjR6.md) - [plain]
 
 > Soundtrack your 2022 resolutions with Joie Chavis.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,831 likes - 40 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,830 likes - 40 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,6 +47,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKunwBLkjR6.md) - [plain]
 | 37 | [All The Way Up \(feat\. Infared\)](https://open.spotify.com/track/61QSuw5VlC0LTS8WMO356g) | [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [Remy Ma](https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [InfaRed](https://open.spotify.com/artist/4R529xQ7WQfRpSEXaHFbRg) | [All The Way Up \(feat\. Infared\)](https://open.spotify.com/album/7vzvohRzBtrnr3miUJrpAk) | 3:11 |
 | 38 | [The New Workout Plan](https://open.spotify.com/track/1Vp4St7JcXaUoJcIahtf3L) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The College Dropout](https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F) | 5:22 |
 | 39 | [NEON PEACH feat\. Tyler, The Creator](https://open.spotify.com/track/5PF2WtSZV4EtmGx4oER1zt) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [TEMPORARY HIGHS IN THE VIOLET SKIES](https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3) | 3:12 |
-| 40 | [Essence \(feat\. Tems\)](https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 4:08 |
+| 40 | [Essence \(feat\. Tems\)](https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 4:08 |
 
 Snapshot ID: `MTY0MjAwMDc2NywwMDAwMDAwMDkwZTdjMDg4ZDQ3ZjUwMjJiZTcxZjBjZTEzMmU0OWE5`

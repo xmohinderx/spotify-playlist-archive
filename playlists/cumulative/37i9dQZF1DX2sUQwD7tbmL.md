@@ -4,13 +4,14 @@
 
 > The best indie rock vibes — classic and current.
 
-466 songs - 1 day 2 hr 36 min - [published](https://open.spotify.com/playlist/34b8Kse0gQlLcdKWiNlqDt)
+468 songs - 1 day 2 hr 42 min - [published](https://open.spotify.com/playlist/34b8Kse0gQlLcdKWiNlqDt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#1 Dad](https://open.spotify.com/track/28A3SDCg24urXGdC2pAntq) | [Jonathan Something](https://open.spotify.com/artist/1jFjZeZbSmgLEtzv9kC8bM) | [Art So Small You Can Hardly See It](https://open.spotify.com/album/6oVM57Eye6Mx9kmqvfDr5E) | 4:36 | 2021-05-01 | 2022-04-14 |
 | [1901](https://open.spotify.com/track/3FM33HqRlV7J1QJoPOnd2u) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0IQbQC6V4UuHLcgO9Yt3uu) | 3:13 | 2022-07-22 |  |
 | [1901](https://open.spotify.com/track/1mvyqSb1tOvtVP1qfWEyPa) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/2TVvPbLNPTCZS8lPHs1rZW) | 3:13 | 2021-06-04 | 2022-04-21 |
+| [1994](https://open.spotify.com/track/42kWSGSJu0tXXt3e2Guvsm) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [1994](https://open.spotify.com/album/2a20lEnbWdct9J2wI0J6lH) | 3:23 | 2022-09-16 |  |
 | [23](https://open.spotify.com/track/23KrCGwx1EedHUaZsQe6H5) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [23](https://open.spotify.com/album/57q2kosvxOb8SfHusM99zM) | 2:44 | 2021-05-01 |  |
 | [3 Nights](https://open.spotify.com/track/0uI7yAKUf52Cn7y3sYyjiX) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 2:57 | 2022-04-13 |  |
 | [A Low](https://open.spotify.com/track/4hyAvXnUZwgOSDGf59fYTG) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Host](https://open.spotify.com/album/135aX76dOE47h7XVPuTzEb) | 4:03 | 2022-04-13 | 2022-04-21 |
@@ -94,7 +95,7 @@
 | [Cigarette Daydreams](https://open.spotify.com/track/2tznHmp70DxMyr2XhWLOW0) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Melophobia](https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz) | 3:28 | 2022-04-13 |  |
 | [circle the drain](https://open.spotify.com/track/2drtd6SptpMJ1KylMQ7mrE) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [color theory](https://open.spotify.com/album/2CISL0rSGzbO0MbQMlqBez) | 4:40 | 2022-04-13 | 2022-07-29 |
 | [City Kitty](https://open.spotify.com/track/46tYLLzHq8ipzBq6X7W9YI) | [French Cassettes](https://open.spotify.com/artist/0VcpOwnjkQaqDeEiVa9cu5) | [City Kitty](https://open.spotify.com/album/3dNUFNvSOl0cg9B2FgpGER) | 3:36 | 2021-05-01 | 2022-04-13 |
-| [Cloud 9 \(feat\. Tegan and Sara\)](https://open.spotify.com/track/2pGXCabl4UlMiskwh7evDq) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H), [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Cloud 9 \(feat\. Tegan and Sara\)](https://open.spotify.com/album/7mtW3i89gUuP9A0dLYZ7BO) | 2:28 | 2021-05-01 |  |
+| [Cloud 9 \(feat\. Tegan and Sara\)](https://open.spotify.com/track/2pGXCabl4UlMiskwh7evDq) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H), [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Cloud 9 \(feat\. Tegan and Sara\)](https://open.spotify.com/album/7mtW3i89gUuP9A0dLYZ7BO) | 2:28 | 2021-05-01 | 2022-09-17 |
 | [Cold Blood](https://open.spotify.com/track/1ah7QJ4UsxhGedu7QhmX44) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [Cold Blood](https://open.spotify.com/album/7lUc1rvCShf2ydND7z6Glk) | 2:44 | 2022-04-13 | 2022-04-21 |
 | [Control](https://open.spotify.com/track/4a4MRG8IkOqik0TSCHjeqY) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66) | [Birthday Boy](https://open.spotify.com/album/7sF981dmDpo9bQZhbkDwZi) | 3:04 | 2021-05-01 | 2022-04-13 |
 | [Control](https://open.spotify.com/track/6jKOxnQ1Pdsr4KblSSeA0j) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66) | [Birthday Boy](https://open.spotify.com/album/0cyNgrx98dRKCnNLKTl9u1) | 3:04 | 2022-04-13 | 2022-04-21 |
@@ -220,6 +221,7 @@
 | [Imagination](https://open.spotify.com/track/2flxduIqEbsicdmPyj1WVW) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Imagination](https://open.spotify.com/album/5LbiR8iqC4hYeIKifnmVqc) | 4:16 | 2022-04-13 |  |
 | [In the Meantime](https://open.spotify.com/track/7Mrb9CEAmEtPUaet43XZCw) | [Major Murphy](https://open.spotify.com/artist/5ly0mPdto6iDfI6X2Q4K6B) | [In the Meantime](https://open.spotify.com/album/5v70tpqXr8diSOsABLEJAq) | 3:46 | 2021-05-01 | 2022-04-14 |
 | [Insomnia](https://open.spotify.com/track/4WTcpYfuTzxlWjffzeUjah) | [the moss](https://open.spotify.com/artist/4wPeDqxPKkBN50kr8XhEma) | [Insomnia](https://open.spotify.com/album/2G3tS2k6gUuO14Y4fDxw4l) | 3:12 | 2022-07-22 |  |
+| [Is This What It Feels Like to Feel Like This?](https://open.spotify.com/track/2qiYy5k1mDAOpegYqv00wG) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Is This What It Feels Like to Feel Like This?](https://open.spotify.com/album/53FpLc8sSUmGGb0OY6cZKG) | 2:45 | 2022-09-16 |  |
 | [It's Still Cool If You Don't](https://open.spotify.com/track/1WfnPoIGJ4ea2O8JlbGQkp) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [It's Still Cool If You Don't](https://open.spotify.com/album/2IunAIq4FrNDFwqe4DmvoU) | 3:57 | 2021-05-01 | 2022-07-29 |
 | [its alright :\)](https://open.spotify.com/track/0ITjrJTxJWUVqthwUIOKPZ) | [Kevin Walkman](https://open.spotify.com/artist/0Q1Xt8JEFDwfiuNBIM60E4) | [its alright :\)](https://open.spotify.com/album/4x8tDeytfMzIVZMrDwlF0Y) | 3:22 | 2021-09-03 | 2022-07-29 |
 | [Japanese](https://open.spotify.com/track/5mVKOml3VuRIe4Y5pPyyYx) | [Worry Club](https://open.spotify.com/artist/7Fkc1Q81Zy25eZ5dmnURGl) | [Japanese / A Whole Month Of You](https://open.spotify.com/album/3QvqkEYqLwoEWrAPSQulNY) | 3:12 | 2022-04-13 | 2022-04-19 |
@@ -427,7 +429,7 @@
 | [Time to Pretend](https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 4:21 | 2022-04-13 |  |
 | [To Seattle](https://open.spotify.com/track/3aJECP6Q5TsoGixvgU5dhp) | [Morningsiders](https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl) | [Pollen](https://open.spotify.com/album/1BsPPyv9hzDSyvyFin3WKT) | 3:26 | 2021-05-01 | 2022-04-14 |
 | [Tongue Tied](https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N) | [Grouplove](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Never Trust a Happy Song](https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc) | 3:38 | 2022-04-13 |  |
-| [Too Good](https://open.spotify.com/track/1HHIv96gVeVkoOBzQeH9d8) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:41 | 2021-05-01 |  |
+| [Too Good](https://open.spotify.com/track/1HHIv96gVeVkoOBzQeH9d8) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:41 | 2021-05-01 | 2022-09-17 |
 | [Too Many Problems \(feat\. Powfu\)](https://open.spotify.com/track/4NY3dbgimhDmj4tFt4tIzS) | [Ouse](https://open.spotify.com/artist/6R29RU7eyQHSNc5kaHPWJn), [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [Too Many Problems \(feat\. Powfu\)](https://open.spotify.com/album/1w8SeeBNLtPMoIBfgzHKcv) | 2:24 | 2021-05-01 | 2022-04-14 |
 | [Training Montage](https://open.spotify.com/track/6NFUlJU8cFmys9mUpUNbiq) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Training Montage](https://open.spotify.com/album/2iUJhqOwLcqQD7gdrhCxvV) | 4:28 | 2022-06-03 | 2022-06-18 |
 | [Trajic Majic](https://open.spotify.com/track/42wRZeLbhzR3Fv7pMndCUQ) | [Stop Light Observations](https://open.spotify.com/artist/2EOIjdzbFGRM87IvJU34JJ) | [Trajic Majic](https://open.spotify.com/album/2TPO59tl3MweoBbXgpTPAg) | 3:13 | 2022-07-01 | 2022-07-07 |

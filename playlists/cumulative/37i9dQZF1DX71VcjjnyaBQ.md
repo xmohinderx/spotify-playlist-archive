@@ -4,7 +4,7 @@
 
 > Jazz for breakfast to start your day right.
 
-144 songs - 12 hr 38 min - [published](https://open.spotify.com/playlist/00KxmXWSXPzcN3QrlgmEa1)
+145 songs - 12 hr 44 min - [published](https://open.spotify.com/playlist/00KxmXWSXPzcN3QrlgmEa1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [No Problem](https://open.spotify.com/track/0yFNLTyXf0xln5RBR89LVt) | [Tristan Mélia Trio](https://open.spotify.com/artist/53vjuckPtvOJEfvd5gvlqz) | [No Problem](https://open.spotify.com/album/16yLczfC6BVSCaNW8oHTnz) | 7:02 | 2021-12-21 |  |
 | [On The Second Day](https://open.spotify.com/track/7xM0zRlSfbnHHq16CoN9ye) | [Jørgen Emborg](https://open.spotify.com/artist/33HADTIIVWw1K8x6ykb9xS) | [On the Second Day](https://open.spotify.com/album/3fhhihPsKUiDQ1USgJMXff) | 4:32 | 2021-12-21 |  |
 | [Oscarlypso](https://open.spotify.com/track/7uslfUYQ7fOwaKLBwUw7B0) | [Yusef Lateef](https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq) | [World Jazz](https://open.spotify.com/album/0kuMIGBvbeMDfP7raCXh91) | 7:46 | 2021-12-21 | 2022-06-01 |
+| [Pannonica](https://open.spotify.com/track/1gyHEnqX09wctbRdqO6HUc) | [Spike Wilner Trio](https://open.spotify.com/artist/2IsQRgCkOiPQwg0sKFLAJQ) | [Pannonica](https://open.spotify.com/album/2yuuyMO0wzr2pbku1Wurd1) | 6:43 | 2022-09-15 |  |
 | [Peaceful Paranoia](https://open.spotify.com/track/2oTKvPW7xQCJArXNDDfJd6) | [Niclas Knudsen Trio](https://open.spotify.com/artist/2Z3lQTlj6dkxFg1RwLfwEn), [Kresten Osgood](https://open.spotify.com/artist/41MI7s5qtXYNCp7Ev8T5LN), [Anders Christensen](https://open.spotify.com/artist/21LcuBnhMZZraq4AB6mgwM), [Niclas Knudsen](https://open.spotify.com/artist/7ErSwiH3ISJy905okfPJU5) | [Peaceful Paranoia](https://open.spotify.com/album/3kNuLBmAPGG41sQtAj29Ph) | 4:25 | 2021-12-21 | 2022-07-29 |
 | [Peaceful Paranoia](https://open.spotify.com/track/1P9zMTrGMBPTDr0A4MU7cd) | [Niclas Knudsen Trio](https://open.spotify.com/artist/2Z3lQTlj6dkxFg1RwLfwEn), [Kresten Osgood](https://open.spotify.com/artist/41MI7s5qtXYNCp7Ev8T5LN), [Niclas Knudsen](https://open.spotify.com/artist/7ErSwiH3ISJy905okfPJU5), [Anders Christensen](https://open.spotify.com/artist/21LcuBnhMZZraq4AB6mgwM) | [Times Revisited](https://open.spotify.com/album/5EKzqYzzf5GHNBo9iRVZAM) | 4:25 | 2022-06-30 |  |
 | [Play The 4th Prime](https://open.spotify.com/track/3HpW5YWatfVXULfzQAEXms) | [Barrett Martin Group](https://open.spotify.com/artist/0m2tJDhw7jrEj9qjVxIWRK) | [Transcendence](https://open.spotify.com/album/6gAtbVMWzbdLKhDR0Kblm2) | 4:24 | 2021-12-21 |  |
@@ -150,7 +151,7 @@
 | [Wolves](https://open.spotify.com/track/6swC1FhShFOBw1WelyqIfZ) | [Foehn Trio](https://open.spotify.com/artist/71YdDTi8qnsYcgSEnTI3et) | [Highlines](https://open.spotify.com/album/0ONIe9ezp42TGsOjz7n9pF) | 6:02 | 2021-12-21 | 2022-06-01 |
 | [Yardley Suite](https://open.spotify.com/track/2u9mRfYp5vzMCCSLxS85X9) | [Ruby Rushton](https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF) | [Yardley Suite](https://open.spotify.com/album/1MVB8WaiCepzmHVvX741WN) | 3:55 | 2021-12-21 | 2022-07-28 |
 | [Yardley Suite](https://open.spotify.com/track/3FLsuVjJ5Ioqb1hgst8N1b) | [Ruby Rushton](https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF) | [Yardley Suite](https://open.spotify.com/album/6GYzn93otdQDLDrlHx3mSX) | 3:55 | 2022-06-30 |  |
-| [Yesterday's Dreams](https://open.spotify.com/track/2PeJWalk3QIOZbf9Z90M16) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [First Light \(CTI Records 40th Anniversary Edition\)](https://open.spotify.com/album/7EKI2xGm95sooPhcZ6wYGu) | 3:56 | 2022-09-13 |  |
+| [Yesterday's Dreams](https://open.spotify.com/track/2PeJWalk3QIOZbf9Z90M16) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [First Light \(CTI Records 40th Anniversary Edition\)](https://open.spotify.com/album/7EKI2xGm95sooPhcZ6wYGu) | 3:56 | 2022-09-13 | 2022-09-17 |
 | [Yesterday's Dreams](https://open.spotify.com/track/0rT1BwALaymdi8Ivsl0Oew) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [First Light](https://open.spotify.com/album/1FziKW5OiiPik3VeXFhtf2) | 3:56 | 2021-12-21 | 2022-07-29 |
 
 \*This playlist was first scraped on 2022-01-01. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawcx4otNoU1.md) - [plain]
 
 > For those cozy moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 433,688 likes - 150 songs - 9 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 433,912 likes - 150 songs - 9 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawcx4otNoU1.md) - [plain]
 | 29 | [Beyond](https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 4:00 |
 | 30 | [You Are The Reason \- Duet Version](https://open.spotify.com/track/1x3W8RZxW94lrVGhP95qA6) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX), [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Only Human \(Special Edition\)](https://open.spotify.com/album/1RcwvxkvyE60CTFNagElek) | 3:10 |
 | 31 | [Feelings](https://open.spotify.com/track/0s26En1JoJhVj32vizElpA) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~](https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP) | 3:09 |
-| 32 | [Ride](https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Ride](https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs) | 3:01 |
-| 33 | [Better Together](https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo) | 3:27 |
+| 32 | [Better Together](https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo) | 3:27 |
+| 33 | [Ride](https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Ride](https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs) | 3:01 |
 | 34 | [Only Love](https://open.spotify.com/track/2uhEKg8kIzpdvz4gyy6x8W) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom](https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce) | 4:09 |
 | 35 | [I Knew I Loved You](https://open.spotify.com/track/6nozDLxeL0TE4MS9GqYU1v) | [Savage Garden](https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek) | [Affirmation](https://open.spotify.com/album/3w69KK7uEA8OsKuW3OeQcC) | 4:10 |
 | 36 | [Beautiful](https://open.spotify.com/track/3TCauNPqFiniaYHBvEVoHG) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Stripped](https://open.spotify.com/album/2USigX9DhGuAini71XZEEK) | 3:58 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawcx4otNoU1.md) - [plain]
 | 56 | [True](https://open.spotify.com/track/0jdeV5dSB3kUBRqe1xQJbh) | [Ryan Cabrera](https://open.spotify.com/artist/3C4t1usFGoKHCSRdujm2GN) | [Take It All Away \(U.S\. Version\)](https://open.spotify.com/album/78IbgGcKueK33SETMOQfaj) | 3:24 |
 | 57 | [Save Room](https://open.spotify.com/track/3sTc75CCyIw4FPs6cXkOe7) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Once Again](https://open.spotify.com/album/1ZWwFwSKaREGLWxpGiPAoF) | 3:55 |
 | 58 | [People Change](https://open.spotify.com/track/5VYOUBkObeGOnCt30YDTJ3) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Edges Run](https://open.spotify.com/album/4GwbUoWi1Tn42nSfbiBIGk) | 3:32 |
-| 59 | [It's Gotta Be You](https://open.spotify.com/track/6cAKeFFYW2aClZSUyvqAEW) | [Isaiah Firebrace](https://open.spotify.com/artist/5lXfVoQxVgC5fpjkVqvNYn) | [Isaiah](https://open.spotify.com/album/0Mcl4Qm47aTgoJ35CFGsQv) | 3:13 |
-| 60 | [How Long Will I Love You \- Bonus Track](https://open.spotify.com/track/0ZPfDxZn5O0L84wvPSN2iG) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Halcyon Days](https://open.spotify.com/album/3KVeczHxWg5YFKb0gS62f2) | 2:34 |
+| 59 | [How Long Will I Love You \- Bonus Track](https://open.spotify.com/track/0ZPfDxZn5O0L84wvPSN2iG) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Halcyon Days](https://open.spotify.com/album/3KVeczHxWg5YFKb0gS62f2) | 2:34 |
+| 60 | [It's Gotta Be You](https://open.spotify.com/track/6cAKeFFYW2aClZSUyvqAEW) | [Isaiah Firebrace](https://open.spotify.com/artist/5lXfVoQxVgC5fpjkVqvNYn) | [Isaiah](https://open.spotify.com/album/0Mcl4Qm47aTgoJ35CFGsQv) | 3:13 |
 | 61 | [Flashlight \- From "Pitch Perfect 2" Soundtrack](https://open.spotify.com/track/6SkoBaMd0lzoQjID5aV2d9) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Pitch Perfect 2 \- Special Edition \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ZeHAc9olOJ70wqPjHXhZE) | 3:29 |
 | 62 | [Wherever You Will Go](https://open.spotify.com/track/0IF7bHzCXCZoKNog5vBC4g) | [Charlene Soraia](https://open.spotify.com/artist/0qk8MxMzgnfFECvDO3cc0X) | [Wherever You Will Go](https://open.spotify.com/album/3cp5RYHZb5KUyglxaHd3Lh) | 3:17 |
 | 63 | [Song for Zula](https://open.spotify.com/track/6Thn8AOHIwPCkf2O4ZgfC2) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [Muchacho](https://open.spotify.com/album/6rAJ4I8SpPMJj0guCZiAI8) | 6:10 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawcx4otNoU1.md) - [plain]
 | 79 | [Take Me Home](https://open.spotify.com/track/5SIe3gy33G2i0oMexandjR) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [I Cry When I Laugh](https://open.spotify.com/album/6AGmGousDdMGevlVZO04LO) | 4:25 |
 | 80 | [Last One](https://open.spotify.com/track/4BMhlUG6LpQhcpvRuvfQRM) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s), [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [Last One](https://open.spotify.com/album/3tBjEC0oobiXFkfl6e9Qwq) | 3:01 |
 | 81 | [Once In a While \- Acoustic](https://open.spotify.com/track/78loPG2VNA0Lg0vjumMfeD) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Once In a While \(Acoustic\)](https://open.spotify.com/album/2Hd0yZLIGOSm99clpEv5JQ) | 3:51 |
-| 82 | [Midnight Train](https://open.spotify.com/track/6hPFEpT7bVguj9aCFLOmiz) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK) | 3:27 |
-| 83 | [Just The Same](https://open.spotify.com/track/5hmjpbBTy8TxV9wDKifSub) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [A Song For Every Moon](https://open.spotify.com/album/5UFBJXQtytWA9vfaO2DxLx) | 3:25 |
+| 82 | [Just The Same](https://open.spotify.com/track/5hmjpbBTy8TxV9wDKifSub) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [A Song For Every Moon](https://open.spotify.com/album/5UFBJXQtytWA9vfaO2DxLx) | 3:25 |
+| 83 | [Midnight Train](https://open.spotify.com/track/6hPFEpT7bVguj9aCFLOmiz) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK) | 3:27 |
 | 84 | [Wait](https://open.spotify.com/track/3hqJFkxeobh6Y9mOL37NLx) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Raised Under Grey Skies \(Deluxe\)](https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo) | 3:51 |
 | 85 | [Home](https://open.spotify.com/track/3X1R2hYu7PeUNG2rOd9b7w) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [Proverb](https://open.spotify.com/album/0UGslTI60Tlnf3nRga8znK) | 3:21 |
 | 86 | [reverie](https://open.spotify.com/track/56iI6wwW6Lm2DzRxl0TFqH) | [isaac gracie](https://open.spotify.com/artist/5Smb3KB29epOb92Btsxulb) | [isaac gracie \(extended edition\)](https://open.spotify.com/album/0WhOJJJZPWfefjJogtinkD) | 5:43 |
@@ -138,8 +138,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawcx4otNoU1.md) - [plain]
 | 128 | [Joshua](https://open.spotify.com/track/6bgoagsYAQaPn8vTP5uaJ1) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [Baby Teeth](https://open.spotify.com/album/4VwxhbPs1JBTsjZH9dcTht) | 3:31 |
 | 129 | [High Tide](https://open.spotify.com/track/0eWVJ7gQPP0HcZOAuAzzi4) | [Nick Yoon](https://open.spotify.com/artist/0RFlTR5N3zJ9tmEvBn6Af2) | [High Tide](https://open.spotify.com/album/4Ch60olKAVGKPhHtSPrmKx) | 3:35 |
 | 130 | [Risking It All](https://open.spotify.com/track/1YzOPWIImEHR9MBSOsy3xN) | [Romeyo Wilson](https://open.spotify.com/artist/2dlixKsISNrgfVBQJzg3VJ), [Kiki Rowe](https://open.spotify.com/artist/3FHeKI9kIuqPffmhyrcHuP) | [Risking It All](https://open.spotify.com/album/4ZeKP8mcR8tkpiKcIqIgeB) | 3:10 |
-| 131 | [Timeless](https://open.spotify.com/track/01DZmwlwEM41LThtOOapZM) | [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth), [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [The More](https://open.spotify.com/album/2LjnDM6eo9JKIJ7E9rn6Np) | 3:50 |
-| 132 | [Animals \- Unplugged Version](https://open.spotify.com/track/2B4aEk81BPoL658L1XYG8y) | [Chris Call](https://open.spotify.com/artist/2VG4hPDzupCJX6q4sy1lRg) | [Animals](https://open.spotify.com/album/6DtdsdwOV5h6wG17vSpgn1) | 3:50 |
+| 131 | [Animals \- Unplugged Version](https://open.spotify.com/track/2B4aEk81BPoL658L1XYG8y) | [Chris Call](https://open.spotify.com/artist/2VG4hPDzupCJX6q4sy1lRg) | [Animals](https://open.spotify.com/album/6DtdsdwOV5h6wG17vSpgn1) | 3:50 |
+| 132 | [Timeless](https://open.spotify.com/track/01DZmwlwEM41LThtOOapZM) | [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth), [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [The More](https://open.spotify.com/album/2LjnDM6eo9JKIJ7E9rn6Np) | 3:50 |
 | 133 | [Shelter](https://open.spotify.com/track/5JdnVXe1i6CI8a0cdPtLOc) | [David Ryan Harris](https://open.spotify.com/artist/3wnsAakCkhyU3yKQYMZmGo) | [Lightyears](https://open.spotify.com/album/7cVQV3nQQebitwdDJMKmT9) | 4:10 |
 | 134 | [Heights](https://open.spotify.com/track/4HhiuiQftydGvLIIzM8tn5) | [Only Girl](https://open.spotify.com/artist/2ZkQAcKkFO60QQybtXDStt) | [Heights](https://open.spotify.com/album/6mfFBO0ksZJTg3mNc4wfjf) | 3:46 |
 | 135 | [Fantasy](https://open.spotify.com/track/4rbF4dsT1wGGBfzYD5QvlY) | [dia maté](https://open.spotify.com/artist/4UcpNyDTbuLdGygQNjuXfd) | [Fantasy](https://open.spotify.com/album/1c6rZYnAwbqtP143pk75SL) | 3:41 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawcx4otNoU1.md) - [plain]
 | 149 | [I Want You](https://open.spotify.com/track/4vNKn8JtZrcwn7aR3x1unv) | [Amari Noelle](https://open.spotify.com/artist/0oOSUbpeJXzsaPm0x7wBF7) | [Amari' SZN 1](https://open.spotify.com/album/7xHdTbAn5n1xFyW6afp5m4) | 3:05 |
 | 150 | [Lion](https://open.spotify.com/track/29fBKVsA6W7etY7W2P7sS9) | [Samuel Gajicki](https://open.spotify.com/artist/0lXF2cCg1bzrguJVr4GhqO) | [Lion](https://open.spotify.com/album/1tfz53aOx3BveGngGj3K3l) | 3:42 |
 
-Snapshot ID: `MTY2MjcyNDgwMCwwMDAwMDAwMDNmOWY2YjJhMDRjYWVkMWU2YTRiMTE3NDNhMTAxZTZl`
+Snapshot ID: `MTY2MjcyNDgwMCwwMDAwMDAwMGVkN2NiNTYzOWExNTQwYmU4YzhlODE2OTkxZGU5MDQz`

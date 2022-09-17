@@ -1,12 +1,12 @@
 {
   "description": "Experience music from some of your favorite Gospel artists and those they've influenced.  Cover: Naomi Raine",
-  "num_followers": 160759,
+  "num_followers": 160808,
   "original_name": "Rhythm & Praise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODAzNjMxMSwwMDAwMDAwMDdhYjQ1N2M1NzQxMjc0Y2RiOWYxNmJkMjg2NmE4MmNm",
+  "snapshot_id": "MTY1ODAzNjMxMSwwMDAwMDAwMGQxYzE2ZmRjYWMzOGIzZDdhMDhjNjllNDZkMWY1ZmM0",
   "tracks": [
     {
       "added_at": "2022-07-17 05:38:31",
@@ -683,6 +683,22 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
+        "name": "Come Home",
+        "url": "https://open.spotify.com/album/6tatgifNJ5FMNp7UmkAF3X"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "duration_ms": 237537,
+      "name": "Come Home",
+      "url": "https://open.spotify.com/track/5TBHXqbrK6YDOwn2VIjmpp"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
         "name": "Tell That (feat. Mr. Talkbox)",
         "url": "https://open.spotify.com/album/2RczJovTuF0oVegnr2XNRV"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 179840,
       "name": "Tell That (feat. Mr. Talkbox)",
       "url": "https://open.spotify.com/track/20VrIu8vQJIgcdcWbz1ISh"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
-        "name": "Come Home",
-        "url": "https://open.spotify.com/album/6tatgifNJ5FMNp7UmkAF3X"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        }
-      ],
-      "duration_ms": 237537,
-      "name": "Come Home",
-      "url": "https://open.spotify.com/track/5TBHXqbrK6YDOwn2VIjmpp"
     },
     {
       "added_at": "2022-07-17 05:38:31",
@@ -947,22 +947,6 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
-        "name": "New Me",
-        "url": "https://open.spotify.com/album/7F9M7rpvq0FAqV28Ho1coj"
-      },
-      "artists": [
-        {
-          "name": "Asha Elia",
-          "url": "https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "New Me",
-      "url": "https://open.spotify.com/track/12oWCWi8KOmUWITBxRoqBc"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/36GXbwa9TQmAQ8BfCaU1y5"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 255008,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/5b5Pi5oP4FWNcEPVmr8MIa"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
+        "name": "New Me",
+        "url": "https://open.spotify.com/album/7F9M7rpvq0FAqV28Ho1coj"
+      },
+      "artists": [
+        {
+          "name": "Asha Elia",
+          "url": "https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "New Me",
+      "url": "https://open.spotify.com/track/12oWCWi8KOmUWITBxRoqBc"
     },
     {
       "added_at": "2022-07-17 05:38:31",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
-        "name": "Tale of a Free Man",
-        "url": "https://open.spotify.com/album/486Jn45SQX3AOPeWjw0XKh"
-      },
-      "artists": [
-        {
-          "name": "Phil J.",
-          "url": "https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9"
-        }
-      ],
-      "duration_ms": 222157,
-      "name": "Cheers",
-      "url": "https://open.spotify.com/track/5KOiFHii9i6Ly8l0h3iSFL"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
         "name": "GUIDE MY HEART",
         "url": "https://open.spotify.com/album/7EnV7Wi07R4Vm8T8Gn0iCG"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 143671,
       "name": "GUIDE MY HEART",
       "url": "https://open.spotify.com/track/3cvS3ZYNjqF5LAQbW3vCPj"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
+        "name": "Tale of a Free Man",
+        "url": "https://open.spotify.com/album/486Jn45SQX3AOPeWjw0XKh"
+      },
+      "artists": [
+        {
+          "name": "Phil J.",
+          "url": "https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9"
+        }
+      ],
+      "duration_ms": 222157,
+      "name": "Cheers",
+      "url": "https://open.spotify.com/track/5KOiFHii9i6Ly8l0h3iSFL"
     },
     {
       "added_at": "2022-07-17 05:38:31",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
-        "name": "This Is Love",
-        "url": "https://open.spotify.com/album/4aExnwAGR6qJ8wgMmVf4VY"
-      },
-      "artists": [
-        {
-          "name": "Stars Go Dim",
-          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
-        }
-      ],
-      "duration_ms": 191476,
-      "name": "This Is Love",
-      "url": "https://open.spotify.com/track/5fqaHMgEw4LWZvcD3Em2UH"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
         "name": "God of Dreams",
         "url": "https://open.spotify.com/album/7AyJ6DJld2Dff5BZoCTgf0"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 161454,
       "name": "God of Dreams",
       "url": "https://open.spotify.com/track/6OD33offEicVtdSPeqh2UN"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
+        "name": "This Is Love",
+        "url": "https://open.spotify.com/album/4aExnwAGR6qJ8wgMmVf4VY"
+      },
+      "artists": [
+        {
+          "name": "Stars Go Dim",
+          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
+        }
+      ],
+      "duration_ms": 191476,
+      "name": "This Is Love",
+      "url": "https://open.spotify.com/track/5fqaHMgEw4LWZvcD3Em2UH"
     },
     {
       "added_at": "2022-07-17 05:38:31",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
-        "name": "Rescue (Reimagined)",
-        "url": "https://open.spotify.com/album/022ehc5YpTikEsYXysMeun"
-      },
-      "artists": [
-        {
-          "name": "Antoine Bradford",
-          "url": "https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl"
-        }
-      ],
-      "duration_ms": 195679,
-      "name": "Rescue (Reimagined)",
-      "url": "https://open.spotify.com/track/3WIhBPVP3v9O7rXserceei"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
         "name": "Thank You",
         "url": "https://open.spotify.com/album/58Rs0Hr1q87t7lsA0DFeLR"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 205618,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/3xPHSL8ciVL7fqIrcMQpLy"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
+        "name": "Rescue (Reimagined)",
+        "url": "https://open.spotify.com/album/022ehc5YpTikEsYXysMeun"
+      },
+      "artists": [
+        {
+          "name": "Antoine Bradford",
+          "url": "https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl"
+        }
+      ],
+      "duration_ms": 195679,
+      "name": "Rescue (Reimagined)",
+      "url": "https://open.spotify.com/track/3WIhBPVP3v9O7rXserceei"
     },
     {
       "added_at": "2022-07-17 05:38:31",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
-        "name": "Grace",
-        "url": "https://open.spotify.com/album/1PlYeaM005XFc1ggzEjllS"
-      },
-      "artists": [
-        {
-          "name": "Kevin Downswell",
-          "url": "https://open.spotify.com/artist/19yI5UdtGvSKDu23hoG3K4"
-        }
-      ],
-      "duration_ms": 255579,
-      "name": "Grace",
-      "url": "https://open.spotify.com/track/1hCa15BtSKMQGa4iDcnV3S"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
         "name": "Godfidence",
         "url": "https://open.spotify.com/album/6H6B0z1SFnGFclDLWKu1ku"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 196500,
       "name": "Godfidence",
       "url": "https://open.spotify.com/track/28N2L4CON8Z5VOHu5e7GAH"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/1PlYeaM005XFc1ggzEjllS"
+      },
+      "artists": [
+        {
+          "name": "Kevin Downswell",
+          "url": "https://open.spotify.com/artist/19yI5UdtGvSKDu23hoG3K4"
+        }
+      ],
+      "duration_ms": 255579,
+      "name": "Grace",
+      "url": "https://open.spotify.com/track/1hCa15BtSKMQGa4iDcnV3S"
     },
     {
       "added_at": "2022-07-17 05:38:31",

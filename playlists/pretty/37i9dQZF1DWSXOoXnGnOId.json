@@ -1,12 +1,12 @@
 {
   "description": "A new take on the freshest dance tracks with remixes from Dubdogz & J\u00d8RD, Sonny Fodera, LP Giobbi and more!",
-  "num_followers": 14085,
+  "num_followers": 14091,
   "original_name": "mint Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMDk0YzEyYWIwYzAyMzQ2ODE2NmM3MzlkMDU1OWRjYjJh",
+  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMGY0ZmM0MTBlNDkzNmY2YzA4ZDE0YjU3YmEyZjQ0NjFi",
   "tracks": [
     {
       "added_at": "2021-07-30 04:00:00",
@@ -195,6 +195,26 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "Take Your Time (D.O.D Remix)",
+        "url": "https://open.spotify.com/album/4O3plD4j9hEQiFr5DkISNB"
+      },
+      "artists": [
+        {
+          "name": "ARTY",
+          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
+        },
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        }
+      ],
+      "duration_ms": 197402,
+      "name": "Take Your Time - D.O.D Remix",
+      "url": "https://open.spotify.com/track/3hmOHDyG0ar79kBeRwD2V4"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "SAD (Imanbek xxx Remix)",
         "url": "https://open.spotify.com/album/0MoT8k5F7qoeCcP2DfW8GF"
       },
@@ -215,26 +235,6 @@
       "duration_ms": 174720,
       "name": "SAD - Imanbek xxx Remix",
       "url": "https://open.spotify.com/track/4x5ymi4akay9Fq5Xm1PW3E"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "Take Your Time (D.O.D Remix)",
-        "url": "https://open.spotify.com/album/4O3plD4j9hEQiFr5DkISNB"
-      },
-      "artists": [
-        {
-          "name": "ARTY",
-          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
-        },
-        {
-          "name": "D.O.D",
-          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
-        }
-      ],
-      "duration_ms": 197402,
-      "name": "Take Your Time - D.O.D Remix",
-      "url": "https://open.spotify.com/track/3hmOHDyG0ar79kBeRwD2V4"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -567,8 +567,8 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "One By One (Remixes)",
-        "url": "https://open.spotify.com/album/614ec6ooX47MdISZgGPiMO"
+        "name": "Diplo (Deluxe)",
+        "url": "https://open.spotify.com/album/6zPSpPHyyOkbT8zDy7Kzl7"
       },
       "artists": [
         {
@@ -576,21 +576,17 @@
           "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
         },
         {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
         },
         {
-          "name": "andhim",
-          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
-        },
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
         }
       ],
-      "duration_ms": 215000,
-      "name": "One By One - Vintage Culture Remix",
-      "url": "https://open.spotify.com/track/5VCgIfcYdAvsWzJvMwYyKL"
+      "duration_ms": 263414,
+      "name": "On My Mind - Purple Disco Machine Remix",
+      "url": "https://open.spotify.com/track/6geg6XWPAxmwlVl8ZNYns0"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -743,8 +739,8 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Diplo (Deluxe)",
-        "url": "https://open.spotify.com/album/6zPSpPHyyOkbT8zDy7Kzl7"
+        "name": "One By One (Remixes)",
+        "url": "https://open.spotify.com/album/614ec6ooX47MdISZgGPiMO"
       },
       "artists": [
         {
@@ -752,17 +748,21 @@
           "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
         },
         {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
         },
         {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+          "name": "andhim",
+          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
         }
       ],
-      "duration_ms": 263414,
-      "name": "On My Mind - Purple Disco Machine Remix",
-      "url": "https://open.spotify.com/track/6geg6XWPAxmwlVl8ZNYns0"
+      "duration_ms": 215000,
+      "name": "One By One - Vintage Culture Remix",
+      "url": "https://open.spotify.com/track/5VCgIfcYdAvsWzJvMwYyKL"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1463,30 +1463,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Safe With Me (feat. Audrey Mika) [TELYKast Remix]",
-        "url": "https://open.spotify.com/album/5pL739VFxeeskpvmeZm0Wm"
-      },
-      "artists": [
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "Audrey Mika",
-          "url": "https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp"
-        },
-        {
-          "name": "TELYKast",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Safe With Me (feat. Audrey Mika) - TELYKast Remix",
-      "url": "https://open.spotify.com/track/7anpvzufgVXCtL0Z84UPGp"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Spa (James Hype Remix)",
         "url": "https://open.spotify.com/album/0hr6AGuFA7IzkjyfyOAKH7"
       },
@@ -1507,6 +1483,30 @@
       "duration_ms": 266666,
       "name": "Spa - James Hype Remix",
       "url": "https://open.spotify.com/track/2i6DHR3kZmxqZFFiADXPEc"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Safe With Me (feat. Audrey Mika) [TELYKast Remix]",
+        "url": "https://open.spotify.com/album/5pL739VFxeeskpvmeZm0Wm"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Audrey Mika",
+          "url": "https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp"
+        },
+        {
+          "name": "TELYKast",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Safe With Me (feat. Audrey Mika) - TELYKast Remix",
+      "url": "https://open.spotify.com/track/7anpvzufgVXCtL0Z84UPGp"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1867,26 +1867,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Rise (twocolors Remix)",
-        "url": "https://open.spotify.com/album/1kwLiKZ1Q7q9WWR6zVzGGA"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "twocolors",
-          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
-        }
-      ],
-      "duration_ms": 231840,
-      "name": "Rise - twocolors Remix",
-      "url": "https://open.spotify.com/track/00Q3p30h2z7so7MBzmS3cQ"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Hearts on Fire (The Remixes)",
         "url": "https://open.spotify.com/album/2V9a4XGtFOYI8UyAwHnYjn"
       },
@@ -1919,6 +1899,26 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "Rise (twocolors Remix)",
+        "url": "https://open.spotify.com/album/1kwLiKZ1Q7q9WWR6zVzGGA"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "twocolors",
+          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
+        }
+      ],
+      "duration_ms": 231840,
+      "name": "Rise - twocolors Remix",
+      "url": "https://open.spotify.com/track/00Q3p30h2z7so7MBzmS3cQ"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "Nobody (Devault Remix)",
         "url": "https://open.spotify.com/album/01OOT3N1D5E07vEapwcwDN"
       },
@@ -1943,26 +1943,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Hadal Ahbek (R3HAB Club Remix)",
-        "url": "https://open.spotify.com/album/4kPXQR5D2nzv37h8IVKFpd"
-      },
-      "artists": [
-        {
-          "name": "Issam Alnajjar",
-          "url": "https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 176343,
-      "name": "Hadal Ahbek - R3HAB Club Remix",
-      "url": "https://open.spotify.com/track/13zJwfXz28yYz16vjZBpon"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Space (Remixes)",
         "url": "https://open.spotify.com/album/4s8FtZOAWCXamQjW4SXNpc"
       },
@@ -1979,6 +1959,26 @@
       "duration_ms": 143139,
       "name": "Space - Nathan Dawe Remix",
       "url": "https://open.spotify.com/track/32WJqqRF1bvWG9EAF54siR"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Hadal Ahbek (R3HAB Club Remix)",
+        "url": "https://open.spotify.com/album/4kPXQR5D2nzv37h8IVKFpd"
+      },
+      "artists": [
+        {
+          "name": "Issam Alnajjar",
+          "url": "https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 176343,
+      "name": "Hadal Ahbek - R3HAB Club Remix",
+      "url": "https://open.spotify.com/track/13zJwfXz28yYz16vjZBpon"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2171,26 +2171,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "You've Done Enough (with DRAMA) [The Purple Prince Version]",
-        "url": "https://open.spotify.com/album/2bmFRz4d6TzkxrYLF89Mcn"
-      },
-      "artists": [
-        {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        },
-        {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
-        }
-      ],
-      "duration_ms": 185652,
-      "name": "You've Done Enough (with DRAMA) - The Purple Prince Version",
-      "url": "https://open.spotify.com/track/4lxbbQi7S7wVZCuY34xRjv"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "1 Day 2 Nights (Billen Ted Remix)",
         "url": "https://open.spotify.com/album/1QPi1PkxnAODE6FU7JmcOD"
       },
@@ -2207,6 +2187,26 @@
       "duration_ms": 134892,
       "name": "1 Day 2 Nights - Billen Ted Remix",
       "url": "https://open.spotify.com/track/26JFTc3vuL7SaThskNTneM"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "You've Done Enough (with DRAMA) [The Purple Prince Version]",
+        "url": "https://open.spotify.com/album/2bmFRz4d6TzkxrYLF89Mcn"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        }
+      ],
+      "duration_ms": 185652,
+      "name": "You've Done Enough (with DRAMA) - The Purple Prince Version",
+      "url": "https://open.spotify.com/track/4lxbbQi7S7wVZCuY34xRjv"
     },
     {
       "added_at": "2021-07-30 04:00:00",

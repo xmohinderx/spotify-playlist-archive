@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjmJmeiazwd.md) - [plain]
 
 > Rock out while you game.
 
-[Spotify](https://open.spotify.com/user/spotify) - 428,541 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 428,559 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjmJmeiazwd.md) - [plain]
 | 69 | [Hills Have Eyes](https://open.spotify.com/track/3HUB8GPbaGpIpjRoONLJP4) | [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [Hills Have Eyes](https://open.spotify.com/album/1h7CsqmCV5QFpLJKWwoUY8) | 2:10 |
 | 70 | [Into The Dark \(feat\. Kellin Quinn\)](https://open.spotify.com/track/7qCzenL7S1onPt6QdRsDsd) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Brand New Vision](https://open.spotify.com/album/33c3LDySpfYMOEwfu1eUU1) | 3:18 |
 | 71 | [Adrenaline](https://open.spotify.com/track/5iaTwwgtEyJ7cy6lLTlGBb) | [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [...If You Don’t Save Yourself](https://open.spotify.com/album/3k7YVehp4DBwLxQlRAQOAL) | 3:24 |
-| 72 | [Young Lady, You're Scaring Me](https://open.spotify.com/track/6PtIXICwmoxCgLjw2zApDs) | [Ron Gallo](https://open.spotify.com/artist/4rfE3kN2zKNC9L9tt3iVOg) | [HEAVY META](https://open.spotify.com/album/6w5N3oL83KiitLdFcCrzTj) | 3:40 |
-| 73 | [If Tomorrow Never Comes](https://open.spotify.com/track/0OzYhueF403FBct7orzGEg) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Dear Monsters](https://open.spotify.com/album/4yXFKYXTfZ92kX1ucyIh1o) | 3:08 |
+| 72 | [If Tomorrow Never Comes](https://open.spotify.com/track/0OzYhueF403FBct7orzGEg) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Dear Monsters](https://open.spotify.com/album/4yXFKYXTfZ92kX1ucyIh1o) | 3:08 |
+| 73 | [Young Lady, You're Scaring Me](https://open.spotify.com/track/6PtIXICwmoxCgLjw2zApDs) | [Ron Gallo](https://open.spotify.com/artist/4rfE3kN2zKNC9L9tt3iVOg) | [HEAVY META](https://open.spotify.com/album/6w5N3oL83KiitLdFcCrzTj) | 3:40 |
 | 74 | [Disease](https://open.spotify.com/track/1hkm127hnTSa2xjGNw8IAE) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Disease](https://open.spotify.com/album/1EFr8cW4waL1ASHS1RdmhF) | 3:48 |
 | 75 | [Flames \(feat\. Avril Lavigne\)](https://open.spotify.com/track/6z7mOTf4O20AApGsTNn7fC) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Flames \(feat\. Avril Lavigne\)](https://open.spotify.com/album/3woElJWz4XHbRXbKm9kKgH) | 2:31 |
 | 76 | [Footsteps](https://open.spotify.com/track/7IEpEB1hnFW67S2FTi8eyw) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [UP](https://open.spotify.com/album/6uyRHyNcSbGZZCP2JxaMrZ) | 4:22 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjmJmeiazwd.md) - [plain]
 | 93 | [Something to Believe In](https://open.spotify.com/track/6L3VWDPDTQkQFkqvmpAUMU) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Home of the Strange](https://open.spotify.com/album/3PYk8e7eo2t5CA1Y3AvhaG) | 3:48 |
 | 94 | [Trip Switch](https://open.spotify.com/track/1uqU0nq6DCbJMktSlUvQV8) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Nothing But Thieves \(Deluxe\)](https://open.spotify.com/album/3q4BkDV5B7sczFcfrIl2a2) | 3:01 |
 | 95 | [Alone Again](https://open.spotify.com/track/7JP8lWYrxpA8luKU8IPd3Y) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [See What’s On The Inside](https://open.spotify.com/album/11gvWPhkQyVoYIJgVsojmm) | 3:48 |
-| 96 | [Heat Seeker](https://open.spotify.com/track/7noHzxuNmeIwYftylZfVRT) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Heat Seeker](https://open.spotify.com/album/56XJWuqnHhxXsM73y8ecZM) | 2:55 |
-| 97 | [I Am the Fire](https://open.spotify.com/track/5MapUlM1un2Kh4aZ3IyWcL) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Into the Wild Life \(Deluxe\)](https://open.spotify.com/album/6jPjpEJBxT0HN71TAEohZ0) | 3:37 |
+| 96 | [I Am the Fire](https://open.spotify.com/track/5MapUlM1un2Kh4aZ3IyWcL) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Into the Wild Life \(Deluxe\)](https://open.spotify.com/album/6jPjpEJBxT0HN71TAEohZ0) | 3:37 |
+| 97 | [Heat Seeker](https://open.spotify.com/track/7noHzxuNmeIwYftylZfVRT) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Heat Seeker](https://open.spotify.com/album/56XJWuqnHhxXsM73y8ecZM) | 2:55 |
 | 98 | [Up In The Air](https://open.spotify.com/track/0zqwz7SNny9fwqSDpIu4qN) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [LOVE LUST FAITH + DREAMS](https://open.spotify.com/album/4JbJCZWuB0iuCZZt8ZISih) | 4:35 |
 | 99 | [Come Around](https://open.spotify.com/track/6Mf8ozEDo35UcgKgKajrBY) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Who Do You Trust?](https://open.spotify.com/album/4o6vvGb6VGYz725fP45kAx) | 3:30 |
 | 100 | [Unforgettable](https://open.spotify.com/track/1184omF5xTwYyI6fMijVrr) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [When Legends Rise](https://open.spotify.com/album/1n5bxxxowQ8ufvx2DXKeEV) | 3:28 |
 
-Snapshot ID: `MTY2MjIyMDU5NiwwMDAwMDAwMGE5ZjUwMjQ0ZGIwODYxMzgxYTczZDJjMTIxNjcyZTBi`
+Snapshot ID: `MTY2MjIyMDU5NiwwMDAwMDAwMDg2MzM3ODFhMDAzZDhjYWQwNWI2YTJhOGIzN2JlNGM4`

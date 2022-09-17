@@ -1376,6 +1376,24 @@
     },
     {
       "album": {
+        "name": "(self-titled)",
+        "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
+      },
+      "artists": [
+        {
+          "name": "Marcus Mumford",
+          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267640,
+      "name": "Only Child",
+      "url": "https://open.spotify.com/track/2h5ojbptFkRmt4f6PIFmSf"
+    },
+    {
+      "album": {
         "name": "Other Side of Goodbye",
         "url": "https://open.spotify.com/album/1tDJWBen4t2O0QHOHsChrQ"
       },
@@ -2201,7 +2219,7 @@
       ],
       "date_added": "2021-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 185190,
       "name": "There You Are",
       "url": "https://open.spotify.com/track/0djPvkGasHhmWE61SVL5ZN"

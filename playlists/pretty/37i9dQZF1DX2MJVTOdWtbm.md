@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJVTOdWtbm.md) - [plain]
 
 > The home of Latin R&B\. La casa del R&B Latino\. Cover: LATENIGHTJIGGY
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,923 likes - 85 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,942 likes - 85 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJVTOdWtbm.md) - [plain]
 | 35 | [TOSCANA](https://open.spotify.com/track/6ejAYAdo08qbPLrH4FEfYe) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Cardellino](https://open.spotify.com/album/43ngUKpEMUdgNv3cHaWGKC) | 2:49 |
 | 36 | [Podemos Intentar](https://open.spotify.com/track/3Mi8RoaiZ6jmPIFkuNkYAg) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [Amor En Español](https://open.spotify.com/album/1e8k4kAKtcC5GIjfP4JDdR) | 4:11 |
 | 37 | [Ajá](https://open.spotify.com/track/7B0Vml7GTmw8ffpfSUjVzl) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Ajá](https://open.spotify.com/album/71gL6gQiyTWMmbLcsn0MS4) | 2:22 |
-| 38 | [Miedo](https://open.spotify.com/track/7acURarwO3OFjtUKzzQq1T) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Una Niña Inútil](https://open.spotify.com/album/3cOK1UKpkM2v2xtcbNFzzc) | 3:09 |
-| 39 | [Chimbita](https://open.spotify.com/track/1s8LnjztT2IIxezpn0JP7H) | [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf) | [Chimbita](https://open.spotify.com/album/4q0baF6ACF19h9lFRz3Dit) | 2:45 |
+| 38 | [Chimbita](https://open.spotify.com/track/1s8LnjztT2IIxezpn0JP7H) | [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf) | [Chimbita](https://open.spotify.com/album/4q0baF6ACF19h9lFRz3Dit) | 2:45 |
+| 39 | [Miedo](https://open.spotify.com/track/7acURarwO3OFjtUKzzQq1T) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Una Niña Inútil](https://open.spotify.com/album/3cOK1UKpkM2v2xtcbNFzzc) | 3:09 |
 | 40 | [Corre](https://open.spotify.com/track/1guHjbt0T9U3p7JfW91ISA) | [Melodico](https://open.spotify.com/artist/0S6XZyWww6AyEUfk62wRJg) | [Corre](https://open.spotify.com/album/3zKO6vZTet1vKtoZDXM1Io) | 2:53 |
 | 41 | [Summer Nights](https://open.spotify.com/track/2J6KEv2z0LWUsMc2bHBAOR) | [Destiny Rogers](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu) | [Summer Nights](https://open.spotify.com/album/3noBkmNZz14QcgIRgIzAZQ) | 2:31 |
 | 42 | [Pleasure \(feat\. RINI\)](https://open.spotify.com/track/6vZVtJgg7G16h2XxSa2mKI) | [Abrina](https://open.spotify.com/artist/3FfeeQuvoeef4F19qixt58), [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [Pleasure \(feat\. RINI\)](https://open.spotify.com/album/3FeCrMtnuv4FZiSc3EHeEz) | 2:41 |
@@ -70,16 +70,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJVTOdWtbm.md) - [plain]
 | 60 | [Señales](https://open.spotify.com/track/4JxWLbQM9XrPDK1vghEjaY) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf), [Ana Mancebo](https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd) | [Señales](https://open.spotify.com/album/79rbLkI6PIg2VmANXERMqB) | 3:03 |
 | 61 | [A la Mitad \(Suceso 1\)](https://open.spotify.com/track/6nrLzFpL4xUclXvJfTaVgN) | [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK) | [Roxanne](https://open.spotify.com/album/0FG7jxl8cTYpORVr4d5MVo) | 3:33 |
 | 62 | [Úsame](https://open.spotify.com/track/5sODCvqrHPSSQAOgKnUv3d) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Úsame](https://open.spotify.com/album/72g5DJ2ieqtlXxH1AEz1TV) | 3:23 |
-| 63 | [Supersad](https://open.spotify.com/track/45GH9XOvr1OR5znGgqXyxW) | [Georgel](https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j), [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Supersad](https://open.spotify.com/album/2DP6dlnGbY9W2ZkH4BKCNh) | 3:35 |
-| 64 | [Conoce](https://open.spotify.com/track/4B1LWPQeIOTVHsMNa3KBBg) | [Nohemy](https://open.spotify.com/artist/4EinPz5K01c3pu8ufwvD3P), [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Conoce](https://open.spotify.com/album/7ecm1r41OIi5VDEwcVhs50) | 3:39 |
+| 63 | [Conoce](https://open.spotify.com/track/4B1LWPQeIOTVHsMNa3KBBg) | [Nohemy](https://open.spotify.com/artist/4EinPz5K01c3pu8ufwvD3P), [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Conoce](https://open.spotify.com/album/7ecm1r41OIi5VDEwcVhs50) | 3:39 |
+| 64 | [Supersad](https://open.spotify.com/track/45GH9XOvr1OR5znGgqXyxW) | [Georgel](https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j), [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Supersad](https://open.spotify.com/album/2DP6dlnGbY9W2ZkH4BKCNh) | 3:35 |
 | 65 | [De Na'](https://open.spotify.com/track/4BRHC01xlK80uTBdz0NGhD) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5) | [i hope you're very unhappy without me](https://open.spotify.com/album/579UaafRX8pIuyEaFsupQN) | 2:05 |
 | 66 | [Trebol](https://open.spotify.com/track/35CU2ZcMhXIrfhVR93zs3o) | [Ben Aler](https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R) | [Trebol](https://open.spotify.com/album/6dt3VZujKnHrJGRZyGZzzD) | 3:46 |
 | 67 | [Na Pa Ti \(feat\. Kofi\)](https://open.spotify.com/track/0BdFIT81iB6Irf3XjiBUjk) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG), [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld) | [Na Pa Ti \(feat\. Kofi\)](https://open.spotify.com/album/3UefdYQA4lzyOOZ8SHFSyr) | 2:53 |
 | 68 | [diario](https://open.spotify.com/track/5sd1wfUgXN5bBuoAUYaD2c) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9), [La Gabi](https://open.spotify.com/artist/3WsE5ectfizV81CnVMkbbi), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq), [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X), [Cami Da Baby](https://open.spotify.com/artist/6tbQMAawwUkpHdPelM84DE) | [hembrismo](https://open.spotify.com/album/1BI2alnlw8r7uaFFjDGZur) | 3:50 |
 | 69 | [Ninfómanos](https://open.spotify.com/track/7dsCME5KU7kN9Cwo3CO3wA) | [Moffa](https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC) | [Ninfómanos](https://open.spotify.com/album/5KAXW9PX9uqiepPG9wCtac) | 3:11 |
 | 70 | [Butterfly](https://open.spotify.com/track/3UqhjhMekGBxHoJI1AWPdx) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT), [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [Butterfly](https://open.spotify.com/album/1Jrsb1j2AqUHGq0fzVtvRW) | 3:08 |
-| 71 | [sola](https://open.spotify.com/track/4P6SA3y5cogSCpp9vmabNX) | [riela](https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A) | [sola](https://open.spotify.com/album/2GNSbNAhGnNAIJ4AgLcTzc) | 3:06 |
-| 72 | [el vuelo](https://open.spotify.com/track/2qtrDGVkMqKrcL44b8U4LG) | [Yarge](https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4) | [el vuelo](https://open.spotify.com/album/50fPKkTgYxNCIaoEWb3jU3) | 3:05 |
+| 71 | [el vuelo](https://open.spotify.com/track/2qtrDGVkMqKrcL44b8U4LG) | [Yarge](https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4) | [el vuelo](https://open.spotify.com/album/50fPKkTgYxNCIaoEWb3jU3) | 3:05 |
+| 72 | [sola](https://open.spotify.com/track/4P6SA3y5cogSCpp9vmabNX) | [riela](https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A) | [sola](https://open.spotify.com/album/2GNSbNAhGnNAIJ4AgLcTzc) | 3:06 |
 | 73 | [PAELLA](https://open.spotify.com/track/7dNWiBVwwHf2umIvUyj2aW) | [Manu Manzo](https://open.spotify.com/artist/7EbduPILtytQAiMYt3nBb3) | [PAELLA](https://open.spotify.com/album/2EWUyaXUMoz1OIHZ888CZM) | 3:02 |
 | 74 | [Dolor](https://open.spotify.com/track/0q1qAGERR453ach2swvAza) | [MKY](https://open.spotify.com/artist/1PqHnWEPEpvvqbNYgMPcxX) | [Perdón](https://open.spotify.com/album/5PIZDkH2AgYl5dLYSVN2yo) | 3:05 |
 | 75 | [Cerquita del Mar](https://open.spotify.com/track/5l6VAepfKDFDa2sR0fAELo) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Cerquita del Mar](https://open.spotify.com/album/5GouiabFEFinoSTOy0DqQM) | 3:21 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJVTOdWtbm.md) - [plain]
 | 84 | [me piensas ;\)](https://open.spotify.com/track/15o9c1gTVDxkGxq74lrgO9) | [Carlos Unger](https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf) | [me piensas ;\)](https://open.spotify.com/album/2m35VBQZcCZqBnKzgEbP4N) | 2:52 |
 | 85 | [Diferente](https://open.spotify.com/track/1kjcjFtHnRkyMEbfhpw3bR) | [Andre TG](https://open.spotify.com/artist/2OHDHtDUjiP1K0rUXDC3vm) | [Diferente](https://open.spotify.com/album/2cDwDzzvit1Aoy6x9iBYVD) | 2:53 |
 
-Snapshot ID: `MTY2MzA3NzY0MCwwMDAwMDAwMDBhOTg3NWE4ODcyMmQ1YTc2ZDMzNTI4ZjJmMTJjNmI0`
+Snapshot ID: `MTY2MzA3NzY0MCwwMDAwMDAwMDYxOWEzNTY0M2UwMDllMDAxNTQ4ZjUzZTNkZTExMGE2`

@@ -107,6 +107,24 @@
     {
       "album": {
         "name": "The Gods We Can Touch",
+        "url": "https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203066,
+      "name": "A Temporary High",
+      "url": "https://open.spotify.com/track/02SgwZdog41hbpKX9aHA0c"
+    },
+    {
+      "album": {
+        "name": "The Gods We Can Touch",
         "url": "https://open.spotify.com/album/2HPgGJnpimfmFPMjP0syqY"
       },
       "artists": [
@@ -1831,7 +1849,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 144921,
       "name": "Love Is An Only Child",
       "url": "https://open.spotify.com/track/2mKXwnyTLDOuZQz8vodLMh"

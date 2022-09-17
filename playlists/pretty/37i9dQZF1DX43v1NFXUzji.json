@@ -1,12 +1,12 @@
 {
   "description": "Latin music to game to! Cover: Bizarrap",
-  "num_followers": 125333,
+  "num_followers": 125392,
   "original_name": "Latin Gaming",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDc3MTEzMSwwMDAwMDAwMDIyODQ1YmZjM2Q2ZDI4YThmZjYzNjJmYWUyMmRjNjc3",
+  "snapshot_id": "MTY2MDc3MTEzMSwwMDAwMDAwMGM2NDg1ZTYxNjNlMzQxYzRiMDU2NmQ3OTBjMzJhZWY2",
   "tracks": [
     {
       "added_at": "2022-08-17 21:18:51",
@@ -915,6 +915,26 @@
     {
       "added_at": "2022-08-17 21:18:51",
       "album": {
+        "name": "NataKong",
+        "url": "https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Nataaoki",
+      "url": "https://open.spotify.com/track/7w47Qtyrw5y4w5Qa0wNjco"
+    },
+    {
+      "added_at": "2022-08-17 21:18:51",
+      "album": {
         "name": "Malo",
         "url": "https://open.spotify.com/album/2QSruqPqOwNMatpfOPmgEd"
       },
@@ -935,26 +955,6 @@
       "duration_ms": 255363,
       "name": "Malo",
       "url": "https://open.spotify.com/track/4xkQvF1yHZFN3lxDFj4qW1"
-    },
-    {
-      "added_at": "2022-08-17 21:18:51",
-      "album": {
-        "name": "NataKong",
-        "url": "https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Nataaoki",
-      "url": "https://open.spotify.com/track/7w47Qtyrw5y4w5Qa0wNjco"
     },
     {
       "added_at": "2022-08-17 21:18:51",
@@ -1339,70 +1339,18 @@
     {
       "added_at": "2022-08-17 21:18:51",
       "album": {
-        "name": "FRIKI",
-        "url": "https://open.spotify.com/album/7LlTjovytMWtPVHm7cJku2"
+        "name": "INTER SHIBUYA - LA MAFIA",
+        "url": "https://open.spotify.com/album/4hUQ4FB9GD5oDmw3XHIr0G"
       },
       "artists": [
         {
           "name": "Feid",
           "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         }
       ],
-      "duration_ms": 144986,
-      "name": "FRIKI",
-      "url": "https://open.spotify.com/track/3No3zHVwKadKDR00kZdmAB"
-    },
-    {
-      "added_at": "2022-08-17 21:18:51",
-      "album": {
-        "name": "Borracho",
-        "url": "https://open.spotify.com/album/0DzwLlhnxgjPgL3uWNZTWG"
-      },
-      "artists": [
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        },
-        {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        }
-      ],
-      "duration_ms": 219750,
-      "name": "Borracho",
-      "url": "https://open.spotify.com/track/0rsTDgGRlXKuzSAxcdb4Ns"
-    },
-    {
-      "added_at": "2022-08-17 21:18:51",
-      "album": {
-        "name": "La Mam\u00e1 de la Mam\u00e1",
-        "url": "https://open.spotify.com/album/2WG76KEpCWL8c790ZIEXk7"
-      },
-      "artists": [
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        },
-        {
-          "name": "Chael Produciendo",
-          "url": "https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e"
-        },
-        {
-          "name": "CJ",
-          "url": "https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb"
-        },
-        {
-          "name": "El Cherry Scom",
-          "url": "https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "La Mam\u00e1 de la Mam\u00e1",
-      "url": "https://open.spotify.com/track/2L95U6syP0bV3fkYYOzmiW"
+      "duration_ms": 196373,
+      "name": "SI T\u00da SUPIERAS - Bonus Track",
+      "url": "https://open.spotify.com/track/1SCYfmGM5ueb6YiiQbLXVn"
     },
     {
       "added_at": "2022-08-17 21:18:51",
@@ -1443,6 +1391,54 @@
     {
       "added_at": "2022-08-17 21:18:51",
       "album": {
+        "name": "La Mam\u00e1 de la Mam\u00e1",
+        "url": "https://open.spotify.com/album/2WG76KEpCWL8c790ZIEXk7"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Chael Produciendo",
+          "url": "https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e"
+        },
+        {
+          "name": "CJ",
+          "url": "https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb"
+        },
+        {
+          "name": "El Cherry Scom",
+          "url": "https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "La Mam\u00e1 de la Mam\u00e1",
+      "url": "https://open.spotify.com/track/2L95U6syP0bV3fkYYOzmiW"
+    },
+    {
+      "added_at": "2022-08-17 21:18:51",
+      "album": {
+        "name": "Borracho",
+        "url": "https://open.spotify.com/album/0DzwLlhnxgjPgL3uWNZTWG"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        }
+      ],
+      "duration_ms": 219750,
+      "name": "Borracho",
+      "url": "https://open.spotify.com/track/0rsTDgGRlXKuzSAxcdb4Ns"
+    },
+    {
+      "added_at": "2022-08-17 21:18:51",
+      "album": {
         "name": "Sensual Beb\u00e9",
         "url": "https://open.spotify.com/album/2k3Qqrw8oQT3lq4XPe1xWC"
       },
@@ -1479,42 +1475,6 @@
     {
       "added_at": "2022-08-17 21:18:51",
       "album": {
-        "name": "TKN (feat. Travis Scott)",
-        "url": "https://open.spotify.com/album/4KEOAWBMpvJrIZ7tQfx44i"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 129370,
-      "name": "TKN (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/4w47S36wQGBhGg073q3nt7"
-    },
-    {
-      "added_at": "2022-08-17 21:18:51",
-      "album": {
-        "name": "INTER SHIBUYA - LA MAFIA",
-        "url": "https://open.spotify.com/album/4hUQ4FB9GD5oDmw3XHIr0G"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 196373,
-      "name": "SI T\u00da SUPIERAS - Bonus Track",
-      "url": "https://open.spotify.com/track/1SCYfmGM5ueb6YiiQbLXVn"
-    },
-    {
-      "added_at": "2022-08-17 21:18:51",
-      "album": {
         "name": "Haw\u00e1i (Remix)",
         "url": "https://open.spotify.com/album/1Ag9EPbzibwzz0S0WpgX3v"
       },
@@ -1531,6 +1491,46 @@
       "duration_ms": 200481,
       "name": "Haw\u00e1i - Remix",
       "url": "https://open.spotify.com/track/0GzuHFG4Ql6DoyxFRnIk3F"
+    },
+    {
+      "added_at": "2022-08-17 21:18:51",
+      "album": {
+        "name": "FRIKI",
+        "url": "https://open.spotify.com/album/7LlTjovytMWtPVHm7cJku2"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 144986,
+      "name": "FRIKI",
+      "url": "https://open.spotify.com/track/3No3zHVwKadKDR00kZdmAB"
+    },
+    {
+      "added_at": "2022-08-17 21:18:51",
+      "album": {
+        "name": "TKN (feat. Travis Scott)",
+        "url": "https://open.spotify.com/album/4KEOAWBMpvJrIZ7tQfx44i"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 129370,
+      "name": "TKN (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/4w47S36wQGBhGg073q3nt7"
     },
     {
       "added_at": "2022-08-17 21:18:51",
@@ -1691,6 +1691,22 @@
     {
       "added_at": "2022-08-17 21:18:51",
       "album": {
+        "name": "ALMAS GEMELAS",
+        "url": "https://open.spotify.com/album/3DcHy54Up1gEXKXbsv8xeT"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 235411,
+      "name": "ALMAS GEMELAS",
+      "url": "https://open.spotify.com/track/2KcNrONbZ0hvBPjvrDO2tx"
+    },
+    {
+      "added_at": "2022-08-17 21:18:51",
+      "album": {
         "name": "Aloha (feat. Darell, Mambo Kingz & Dj Luian)",
         "url": "https://open.spotify.com/album/7F8Usvm4Vj3XlRztSBRfEH"
       },
@@ -1723,22 +1739,6 @@
       "duration_ms": 241659,
       "name": "Aloha",
       "url": "https://open.spotify.com/track/5RAIMjdrCEjpjaR5tBATXU"
-    },
-    {
-      "added_at": "2022-08-17 21:18:51",
-      "album": {
-        "name": "ALMAS GEMELAS",
-        "url": "https://open.spotify.com/album/3DcHy54Up1gEXKXbsv8xeT"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 235411,
-      "name": "ALMAS GEMELAS",
-      "url": "https://open.spotify.com/track/2KcNrONbZ0hvBPjvrDO2tx"
     },
     {
       "added_at": "2022-08-17 21:18:51",
@@ -1851,6 +1851,22 @@
     {
       "added_at": "2022-08-17 21:18:51",
       "album": {
+        "name": "Easy Money Baby",
+        "url": "https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 214013,
+      "name": "Diosa",
+      "url": "https://open.spotify.com/track/3JHpk0DOTOzyh0777JFAky"
+    },
+    {
+      "added_at": "2022-08-17 21:18:51",
+      "album": {
         "name": "Enoc",
         "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
       },
@@ -1947,22 +1963,6 @@
       "duration_ms": 324426,
       "name": "Travesuras - Remix",
       "url": "https://open.spotify.com/track/0VWLId2RwPCno9s1cJm2Vy"
-    },
-    {
-      "added_at": "2022-08-17 21:18:51",
-      "album": {
-        "name": "Easy Money Baby",
-        "url": "https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 214013,
-      "name": "Diosa",
-      "url": "https://open.spotify.com/track/3JHpk0DOTOzyh0777JFAky"
     },
     {
       "added_at": "2022-08-17 21:18:51",
@@ -2103,6 +2103,26 @@
     {
       "added_at": "2022-08-17 21:18:51",
       "album": {
+        "name": "AM",
+        "url": "https://open.spotify.com/album/3dGUvydBX9qhg2YBMsVope"
+      },
+      "artists": [
+        {
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+        },
+        {
+          "name": "Flow La Movie",
+          "url": "https://open.spotify.com/artist/2oT7xd9iTO2ejLsNGIMa5f"
+        }
+      ],
+      "duration_ms": 182496,
+      "name": "AM",
+      "url": "https://open.spotify.com/track/2dNhNlpZAtV4lwAFW45LIv"
+    },
+    {
+      "added_at": "2022-08-17 21:18:51",
+      "album": {
         "name": "4K",
         "url": "https://open.spotify.com/album/2w8ok8XKZXEgyRozx2MNNQ"
       },
@@ -2123,26 +2143,6 @@
       "duration_ms": 201500,
       "name": "4K",
       "url": "https://open.spotify.com/track/4xI3U4sDj1TPmO9Iz5TkYp"
-    },
-    {
-      "added_at": "2022-08-17 21:18:51",
-      "album": {
-        "name": "AM",
-        "url": "https://open.spotify.com/album/3dGUvydBX9qhg2YBMsVope"
-      },
-      "artists": [
-        {
-          "name": "Nio Garcia",
-          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
-        },
-        {
-          "name": "Flow La Movie",
-          "url": "https://open.spotify.com/artist/2oT7xd9iTO2ejLsNGIMa5f"
-        }
-      ],
-      "duration_ms": 182496,
-      "name": "AM",
-      "url": "https://open.spotify.com/track/2dNhNlpZAtV4lwAFW45LIv"
     },
     {
       "added_at": "2022-08-17 21:18:51",
@@ -2227,22 +2227,6 @@
     {
       "added_at": "2022-08-17 21:18:51",
       "album": {
-        "name": "De Mi Para Ti",
-        "url": "https://open.spotify.com/album/1GYQWPYnUhpVP2yJ4e8hFK"
-      },
-      "artists": [
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 200328,
-      "name": "Anda Sola",
-      "url": "https://open.spotify.com/track/2wyw4eQ2SfIYfm1vxCgYI0"
-    },
-    {
-      "added_at": "2022-08-17 21:18:51",
-      "album": {
         "name": "D\u00eda De Pago",
         "url": "https://open.spotify.com/album/267aSH2QW3J5PwVuq1NxJe"
       },
@@ -2259,6 +2243,46 @@
       "duration_ms": 187295,
       "name": "D\u00eda De Pago",
       "url": "https://open.spotify.com/track/56CnVxbOqzOXBJrVxnMTtk"
+    },
+    {
+      "added_at": "2022-08-17 21:18:51",
+      "album": {
+        "name": "De Mi Para Ti",
+        "url": "https://open.spotify.com/album/1GYQWPYnUhpVP2yJ4e8hFK"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 200328,
+      "name": "Anda Sola",
+      "url": "https://open.spotify.com/track/2wyw4eQ2SfIYfm1vxCgYI0"
+    },
+    {
+      "added_at": "2022-08-17 21:18:51",
+      "album": {
+        "name": "Curazao",
+        "url": "https://open.spotify.com/album/6uzezSBR2loiWEjeRFu8VM"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Chael Produciendo",
+          "url": "https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 239577,
+      "name": "Curazao",
+      "url": "https://open.spotify.com/track/2gMau9LsRZtWOrq5cBGywB"
     },
     {
       "added_at": "2022-08-17 21:18:51",
@@ -2295,46 +2319,6 @@
     {
       "added_at": "2022-08-17 21:18:51",
       "album": {
-        "name": "Deprimida",
-        "url": "https://open.spotify.com/album/0dOBkQ254idF8FLdnwkZZ3"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 217627,
-      "name": "Deprimida",
-      "url": "https://open.spotify.com/track/41yHlQmNvtjRpoexYcSyJp"
-    },
-    {
-      "added_at": "2022-08-17 21:18:51",
-      "album": {
-        "name": "Curazao",
-        "url": "https://open.spotify.com/album/6uzezSBR2loiWEjeRFu8VM"
-      },
-      "artists": [
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        },
-        {
-          "name": "Chael Produciendo",
-          "url": "https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 239577,
-      "name": "Curazao",
-      "url": "https://open.spotify.com/track/2gMau9LsRZtWOrq5cBGywB"
-    },
-    {
-      "added_at": "2022-08-17 21:18:51",
-      "album": {
         "name": "Air Drop",
         "url": "https://open.spotify.com/album/3KxXkPVVFrxP8V11o3cgLf"
       },
@@ -2347,6 +2331,22 @@
       "duration_ms": 205565,
       "name": "Air Drop",
       "url": "https://open.spotify.com/track/1WUUjDzH1ZMIPz3194CLid"
+    },
+    {
+      "added_at": "2022-08-17 21:18:51",
+      "album": {
+        "name": "Deprimida",
+        "url": "https://open.spotify.com/album/0dOBkQ254idF8FLdnwkZZ3"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 217627,
+      "name": "Deprimida",
+      "url": "https://open.spotify.com/track/41yHlQmNvtjRpoexYcSyJp"
     },
     {
       "added_at": "2022-08-17 21:18:51",
@@ -3139,26 +3139,6 @@
     {
       "added_at": "2022-08-17 21:18:51",
       "album": {
-        "name": "Que Es Esto?",
-        "url": "https://open.spotify.com/album/403RuP73HHLsBDajXsIhku"
-      },
-      "artists": [
-        {
-          "name": "Ovi",
-          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
-        },
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        }
-      ],
-      "duration_ms": 194197,
-      "name": "Que Es Esto?",
-      "url": "https://open.spotify.com/track/1xdoPfonxRbT79RCiMC975"
-    },
-    {
-      "added_at": "2022-08-17 21:18:51",
-      "album": {
         "name": "Una Vaina Loca (R3HAB Remix)",
         "url": "https://open.spotify.com/album/789Tz3KmAjB9iYUkRw8myS"
       },
@@ -3183,6 +3163,26 @@
       "duration_ms": 177391,
       "name": "Una Vaina Loca (R3HAB Remix)",
       "url": "https://open.spotify.com/track/65SZzxum2FuIUFIIVQH1g6"
+    },
+    {
+      "added_at": "2022-08-17 21:18:51",
+      "album": {
+        "name": "Que Es Esto?",
+        "url": "https://open.spotify.com/album/403RuP73HHLsBDajXsIhku"
+      },
+      "artists": [
+        {
+          "name": "Ovi",
+          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        }
+      ],
+      "duration_ms": 194197,
+      "name": "Que Es Esto?",
+      "url": "https://open.spotify.com/track/1xdoPfonxRbT79RCiMC975"
     },
     {
       "added_at": "2022-08-17 21:18:51",

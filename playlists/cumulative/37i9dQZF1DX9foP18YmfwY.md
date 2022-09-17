@@ -4,7 +4,7 @@
 
 > Os padres e nomes que movem multidões pelo país\. Foto: Thiago Brado
 
-70 songs - 5 hr 38 min - not published yet
+70 songs - 5 hr 38 min - [published](https://open.spotify.com/playlist/1J3fnV789dttTCU7WX2Grj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

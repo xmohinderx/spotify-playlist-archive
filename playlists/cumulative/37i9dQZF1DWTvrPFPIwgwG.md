@@ -4,7 +4,7 @@
 
 > Ouça as novidades e grandes louvores Pentecostais\. Foto: Damares, Canção & Louvor
 
-85 songs - 7 hr 1 min - not published yet
+85 songs - 7 hr 1 min - [published](https://open.spotify.com/playlist/2TO2MpzJje9bKw3Lpv5pLG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

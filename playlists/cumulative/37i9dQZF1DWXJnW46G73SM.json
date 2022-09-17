@@ -1464,6 +1464,24 @@
     },
     {
       "album": {
+        "name": "Hansib Lmin El Ghona",
+        "url": "https://open.spotify.com/album/7w5C251YO38CC4rOiy3JiY"
+      },
+      "artists": [
+        {
+          "name": "Mohamed Tharwat",
+          "url": "https://open.spotify.com/artist/2HXbhVP4olOQ9T3n9ViN2y"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225166,
+      "name": "Hansib Lmin El Ghona",
+      "url": "https://open.spotify.com/track/6Ft4bv4Ibfkeq7sAnP58Vx"
+    },
+    {
+      "album": {
         "name": "Hateshtaou",
         "url": "https://open.spotify.com/album/4w4I8NPdmNrAmdqb4aV3ZM"
       },
@@ -2261,7 +2279,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 211674,
       "name": "Maraseel",
       "url": "https://open.spotify.com/track/0u9aJyzc9Cxx7NRY8YFLwZ"

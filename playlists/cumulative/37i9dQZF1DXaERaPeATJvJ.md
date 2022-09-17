@@ -2,9 +2,9 @@
 
 ### [Memorindie](https://open.spotify.com/playlist/37i9dQZF1DXaERaPeATJvJ)
 
-> Penggalan lagu lama dari kancah musik independen\. Cover: whisperdesire
+> Penggalan lagu lama dari kancah musik independen\. Cover: Bangkutaman
 
-96 songs - 6 hr 38 min - [published](https://open.spotify.com/playlist/5N2buI7pPNVlHhACwo8R0D)
+98 songs - 6 hr 46 min - [published](https://open.spotify.com/playlist/5N2buI7pPNVlHhACwo8R0D)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [I'm OK](https://open.spotify.com/track/69xEITRbwTnRYEBGTdy3Kp) | [Goodnight Electric](https://open.spotify.com/artist/01mXW5OUPBFLlEDcYwD3zE) | [Electroduce Yourself](https://open.spotify.com/album/2BhBRPic40xAcJMKMt8Fzk) | 3:51 | 2021-11-25 |  |
 | [I've Got Johnny in My Head](https://open.spotify.com/track/5QPa0rmNEhWGjOChRu5EYS) | [Teenage Death Star](https://open.spotify.com/artist/0IawwTkzo4Y48AuJawFBCE) | [Longway to Nowhere](https://open.spotify.com/album/49y6mQksPVUliQNHhULU8n) | 2:59 | 2021-11-25 |  |
 | [Jatuh Cinta Itu Biasa Saja](https://open.spotify.com/track/0IrujRv0WMILH3wlFKndh6) | [Efek Rumah Kaca](https://open.spotify.com/artist/3uSvD31crYEsBLuiAFD02b) | [Efek Rumah Kaca](https://open.spotify.com/album/5PENwZWWNzHhPfYcvvv2Kf) | 5:14 | 2021-11-25 |  |
+| [Kabut](https://open.spotify.com/track/7Id4XS3OoIh7XpMf7mwBya) | [Bangkutaman](https://open.spotify.com/artist/241HQhMPjYIvEBJgh78302) | [Love Among the Ruins](https://open.spotify.com/album/0284ZoFuKRZAHPAVwKtOGo) | 3:26 | 2022-09-16 |  |
 | [Kelopak Angsa \- Remastered](https://open.spotify.com/track/0YyNk502FhwF3KjTbyAMsb) | [Sieve](https://open.spotify.com/artist/6UtGpQD2GgpZBkU3WlqcJB) | [Kelopak Angsa \(Remastered\)](https://open.spotify.com/album/4LLtGY51tbEFAxAT82dAjb) | 4:11 | 2021-11-25 |  |
 | [Kisah Dari Selatan Jakarta](https://open.spotify.com/track/20qm0yBgr7ylY91vKp7SpY) | [White Shoes & The Couples Company](https://open.spotify.com/artist/5wm369wshLgPTaW2TDwkus) | [Together Whatever Sessions \(Live Version\)](https://open.spotify.com/album/0eXX7sZMrUItp9FT6FTWdl) | 4:15 | 2021-11-25 |  |
 | [Kissh Kissh \(Accoustic Version\)](https://open.spotify.com/track/2MuNPjvtdsIIX46Felbx82) | [Baby Eats Crackers](https://open.spotify.com/artist/5ToCo2V5mapXG8lnr9mV3e) | [Kissh Kissh \(Accoustic Version\)](https://open.spotify.com/album/0MBi0mMMAW1YoPWyLAtNGl) | 3:16 | 2022-08-04 |  |
@@ -84,6 +85,7 @@
 | [Satu Mimpi](https://open.spotify.com/track/4xbWESPCXzpARtbmb5hqp5) | [Waiting Room](https://open.spotify.com/artist/720vBDH1DJ0UaLXmfTMs46) | [Propaganda](https://open.spotify.com/album/6qTGWkGYvVv3Y5HtJ10cpi) | 3:19 | 2021-11-25 |  |
 | [Semu](https://open.spotify.com/track/1h3HK2bwZ5TEgBB3A06L6i) | [Homogenic](https://open.spotify.com/artist/1MqptwxFPHFg3RwJryKono) | [Epic Symphony](https://open.spotify.com/album/75CIJQq7AocsTVcnYdEERz) | 3:10 | 2021-11-25 |  |
 | [Sepasang Kekasih Yang Pertama Bercinta Di Luar Angkasa](https://open.spotify.com/track/7pXbfo5RqiKu8ojg6qJCpX) | [Frau](https://open.spotify.com/artist/57aIUWdoh4cKqfr78UksRS), [Ugoran Prasad](https://open.spotify.com/artist/0pLLozVOEXjYuEu4c4vuE8) | [Starlit Carousel](https://open.spotify.com/album/7xqaytUNMT0NZ14KMYAI1M) | 6:27 | 2021-11-25 |  |
+| [She Burns the Disco](https://open.spotify.com/track/745CC7dQTxGJgTyZPpNjSs) | [Bangkutaman](https://open.spotify.com/artist/241HQhMPjYIvEBJgh78302) | [Garage of the Soul](https://open.spotify.com/album/4WNPu3Ook98eQCR5HB4HWW) | 3:43 | 2022-09-16 |  |
 | [She Pretends](https://open.spotify.com/track/7EBjzSq8dyhwZvNsDtdOjY) | [cscd](https://open.spotify.com/artist/7bKRgEFmYuAzF3xSbI5ftZ) | [Pieces Of The World](https://open.spotify.com/album/6tDKVE1hkmrXUD87JJe0F7) | 4:23 | 2021-11-25 |  |
 | [Sinar](https://open.spotify.com/track/3cMF1tldglDmE2udf39mDe) | [Piknik](https://open.spotify.com/artist/74AhmSuxlU6ydRZwlyr9we) | [Sinar](https://open.spotify.com/album/1MvTs8cmhLpF22hsYkUjqs) | 4:20 | 2022-05-12 |  |
 | [Something Like Your Smile](https://open.spotify.com/track/2DX71CNkwE5WssGevAbbxZ) | [Blossom Diary](https://open.spotify.com/artist/4wHBQaI9R90O4bhl71Sppp) | [About The Poor Boy](https://open.spotify.com/album/3p3u7UdtVzii1F5HfX1q3w) | 4:39 | 2022-06-03 |  |

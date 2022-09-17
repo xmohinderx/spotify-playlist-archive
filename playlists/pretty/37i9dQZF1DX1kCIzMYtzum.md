@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCIzMYtzum.md) - [plain]
 
 > The latest hits from your favourite festival legends\. Peace, love, unity, respect\. 💗
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,539 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,879 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCIzMYtzum.md) - [plain]
 | 43 | [Nobody](https://open.spotify.com/track/7GiozRoMk95aFl1WbrDdjX) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Catello](https://open.spotify.com/artist/4cpqUkL78IoYnEvYj440WE) | [Nobody](https://open.spotify.com/album/0n1BagGDuJad065Qjb7enT) | 2:23 |
 | 44 | [Wish It Was You](https://open.spotify.com/track/3Dr0xDJwXy6JkiHNJfv5zd) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [Cate Downey](https://open.spotify.com/artist/3SHmKHBjw1ks5yXtblJWPn) | [Wish It Was You](https://open.spotify.com/album/75wWmFkPXHTTbw47RRvuvb) | 3:12 |
 | 45 | [Shivering \(feat\. Spiritbox\)](https://open.spotify.com/track/10Q3ASy9okYt85040yV46c) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Shivering \(feat\. Spiritbox\)](https://open.spotify.com/album/2dRmLEMsxRhidLzay43XP5) | 5:00 |
-| 46 | [Breathe \(feat\. kaspara\)](https://open.spotify.com/track/7pDdE5FLqcNCvjxzRzm80r) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH), [Kaspara](https://open.spotify.com/artist/4DTvSNQv43222tg1K7C8k2) | [Breathe \(feat\. kaspara\)](https://open.spotify.com/album/5MYFonEyI51lu0JHBpSRfK) | 2:55 |
-| 47 | [Future In Your Hands \(feat\. Aloe Blacc\)](https://open.spotify.com/track/5A52bfa9VVfTTfwLpxopz6) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [David Solomon](https://open.spotify.com/artist/3fzRb5i8Wn7ao2KPDxEiTR), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Future In Your Hands \(feat\. Aloe Blacc\)](https://open.spotify.com/album/7s2UFHl1FHu2AkD6pVXxMn) | 3:41 |
-| 48 | [Ready To Love](https://open.spotify.com/track/0cvMWzztDy1wNQkBqae8w4) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Ready To Love](https://open.spotify.com/album/2DZEdOT8Y9knkZAUjpG7mT) | 3:08 |
+| 46 | [Future In Your Hands \(feat\. Aloe Blacc\)](https://open.spotify.com/track/5A52bfa9VVfTTfwLpxopz6) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [David Solomon](https://open.spotify.com/artist/3fzRb5i8Wn7ao2KPDxEiTR), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Future In Your Hands \(feat\. Aloe Blacc\)](https://open.spotify.com/album/7s2UFHl1FHu2AkD6pVXxMn) | 3:41 |
+| 47 | [Breathe \(feat\. kaspara\)](https://open.spotify.com/track/7pDdE5FLqcNCvjxzRzm80r) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH), [Kaspara](https://open.spotify.com/artist/4DTvSNQv43222tg1K7C8k2) | [Breathe \(feat\. kaspara\)](https://open.spotify.com/album/5MYFonEyI51lu0JHBpSRfK) | 2:55 |
+| 48 | [Yeah The Girls](https://open.spotify.com/track/2ST4u9GusI2ddDfuMvXA5l) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [Yeah The Girls](https://open.spotify.com/album/6yxWTg8P4cAJ0gyPHUqPfv) | 3:14 |
 | 49 | [Gotta Be You](https://open.spotify.com/track/2Q8fFORnsDE6I3RNvSLXSf) | [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK), [Carla Monroe](https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB) | [Gotta Be You](https://open.spotify.com/album/2zzcyknjN9v95n0OYg8paf) | 2:29 |
-| 50 | [Yeah The Girls](https://open.spotify.com/track/2ST4u9GusI2ddDfuMvXA5l) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [Yeah The Girls](https://open.spotify.com/album/6yxWTg8P4cAJ0gyPHUqPfv) | 3:14 |
+| 50 | [Ready To Love](https://open.spotify.com/track/0cvMWzztDy1wNQkBqae8w4) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Ready To Love](https://open.spotify.com/album/2DZEdOT8Y9knkZAUjpG7mT) | 3:08 |
 
-Snapshot ID: `MTY2MjY5NjAwMCwwMDAwMDAwMGI0MGFhMmYyZTJkODNhYzViMmE2MmFkNGM3OTg2ZDIz`
+Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMDE5ZjEwYTNlMTk1ODg5ZmMxMGViMmY5OTRkZmQwODZj`

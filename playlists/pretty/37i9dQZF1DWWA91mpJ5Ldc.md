@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA91mpJ5Ldc.md) - [plain]
 
 > Música brasileira para temperar as receitas do dia\-a\-dia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,668 likes - 60 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,705 likes - 60 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,13 +29,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA91mpJ5Ldc.md) - [plain]
 | 19 | [Bédi Beat](https://open.spotify.com/track/7qaYhfTkekBcIm8q9Mewjd) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Sinto Muito](https://open.spotify.com/album/5fu7gooH6bp15cPuYGfGvx) | 3:20 |
 | 20 | [Fiz Pra Você](https://open.spotify.com/track/3p6dUNJX2labiQY6TqZcGW) | [João Bragança](https://open.spotify.com/artist/5rPBZBLffKhkIY4o0dGOry) | [Fiz Pra Você](https://open.spotify.com/album/0RjkvhVvbkRRxaKKG5MF9H) | 3:12 |
 | 21 | [+ 1 Minuto](https://open.spotify.com/track/31UbXsSRMDhTnue6NAw22i) | [Jean Tassy](https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L), [Iuri Rio Branco](https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC) | [Amanhã](https://open.spotify.com/album/7AWmeGS2m6VEeAAUbW4upq) | 2:52 |
-| 22 | [Barato Total](https://open.spotify.com/track/6zz0dj3H9Q7JJlB6BHIhva) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Em Casa Com os Gil](https://open.spotify.com/album/3n7esvSbuawAdZkDcxIsOE) | 3:54 |
-| 23 | [Céu da Boca](https://open.spotify.com/track/1tqio9a4FxPi01E1NDII3U) | [Castello Branco](https://open.spotify.com/artist/18mXdMHUw1ULPaeW1DNy90), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Serviço](https://open.spotify.com/album/5WCVs6FJvyIH9Zr0ZVGmge) | 3:03 |
+| 22 | [Céu da Boca](https://open.spotify.com/track/1tqio9a4FxPi01E1NDII3U) | [Castello Branco](https://open.spotify.com/artist/18mXdMHUw1ULPaeW1DNy90), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Serviço](https://open.spotify.com/album/5WCVs6FJvyIH9Zr0ZVGmge) | 3:03 |
+| 23 | [Barato Total](https://open.spotify.com/track/6zz0dj3H9Q7JJlB6BHIhva) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Em Casa Com os Gil](https://open.spotify.com/album/3n7esvSbuawAdZkDcxIsOE) | 3:54 |
 | 24 | [Onde Estará](https://open.spotify.com/track/0hbNJXcaPK4cQD78fh8uSR) | [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4) | [Nonsense, Vol\. 1](https://open.spotify.com/album/0psPVRixSPuaBChZnZ9Eot) | 3:37 |
 | 25 | [Calma](https://open.spotify.com/track/1IcI7zO7RvGKGWx5jRNouz) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Calma](https://open.spotify.com/album/4NnapYcmIcnlJXB22BPve5) | 3:06 |
 | 26 | [Decisão de Te Amar](https://open.spotify.com/track/6iyBtf6dboO5YVYS3XUbVC) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Te Amo Lá Fora](https://open.spotify.com/album/5o6MJpi6Y4fQwI8gmv0oZc) | 4:06 |
-| 27 | [Areia Fina](https://open.spotify.com/track/5UmNv7EMn8Re0LTNMDSUNE) | [Tiago Nacarato](https://open.spotify.com/artist/3mwYj8Nb9VZbAnLpli7l8X), [Fran](https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1) | [Areia Fina](https://open.spotify.com/album/5u12FbXvV6Fs2fqGPngRbg) | 3:31 |
-| 28 | [Num Mundo de Paz](https://open.spotify.com/track/6zZbf1v1Ngdc52IzlVCPUP) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Num Mundo de Paz](https://open.spotify.com/album/4qp1Py4SsDovYGY21R3fKu) | 5:42 |
+| 27 | [Num Mundo de Paz](https://open.spotify.com/track/6zZbf1v1Ngdc52IzlVCPUP) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Num Mundo de Paz](https://open.spotify.com/album/4qp1Py4SsDovYGY21R3fKu) | 5:42 |
+| 28 | [Areia Fina](https://open.spotify.com/track/5UmNv7EMn8Re0LTNMDSUNE) | [Tiago Nacarato](https://open.spotify.com/artist/3mwYj8Nb9VZbAnLpli7l8X), [Fran](https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1) | [Areia Fina](https://open.spotify.com/album/5u12FbXvV6Fs2fqGPngRbg) | 3:31 |
 | 29 | [Sonar](https://open.spotify.com/track/7sBW1PIwPe0RhgkQByk0EG) | [BaianaSystem](https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5), [Curumin](https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI), [Edgar](https://open.spotify.com/artist/0ZeTpaHiNCZFAuQ7v1fZ7Z) | [O Futuro Não Demora](https://open.spotify.com/album/195RDcBkD9dUqWBO75eCgQ) | 2:50 |
 | 30 | [Me Toca](https://open.spotify.com/track/2uSeVS09DW8FnBgc61eHDW) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Me Toca](https://open.spotify.com/album/7n5J2k1hvnJ9UZ1BGBBLrU) | 3:06 |
 | 31 | [Alumiô](https://open.spotify.com/track/1wBZJA59toDn4TESZRPxs3) | [Luiza Lian](https://open.spotify.com/artist/0mqrSBamArf14pPZE2Q9kW), [Bixiga 70](https://open.spotify.com/artist/6rUeHFntOV8tgpoUJvEthU) | [Alumiô](https://open.spotify.com/album/358AvliXpqAtQY1grWwuQ1) | 3:24 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA91mpJ5Ldc.md) - [plain]
 | 43 | [Dias de Janeiro](https://open.spotify.com/track/05m3Pl8gI9JiySe6IoISa5) | [Otto](https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK) | [Condom Black](https://open.spotify.com/album/79PfK4UpwBYNTmfb3OQEas) | 5:42 |
 | 44 | [Seu Fim em Mim](https://open.spotify.com/track/2n64LKXEAzaSTzFpjckJh5) | [Clara x Sofia](https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0) | [Seu Fim em Mim](https://open.spotify.com/album/2Az8o0aheRMnNhCZrL1mAC) | 3:38 |
 | 45 | [Olha a Pipa](https://open.spotify.com/track/68pDys3d4esHKAntxrVFW5) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Alô Alô, Como Vai?](https://open.spotify.com/album/0FUD8ug6knwMxpVzAQRmEi) | 4:22 |
-| 46 | [Gold Coast](https://open.spotify.com/track/27hudnRUnesKNOZoiuLPVs) | [Marcelo Falcão](https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr) | [Viver \(Mais leve que o ar\)](https://open.spotify.com/album/2TSwxXVstj31Js9PAgJ55u) | 4:19 |
-| 47 | [Rua Três](https://open.spotify.com/track/4vyaIWwgD7hVwiQK2WFHlj) | [Magi](https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy) | [Rua Três](https://open.spotify.com/album/1ZPbCMJ85qF2d3VpUn9z6C) | 2:34 |
+| 46 | [Rua Três](https://open.spotify.com/track/4vyaIWwgD7hVwiQK2WFHlj) | [Magi](https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy) | [Rua Três](https://open.spotify.com/album/1ZPbCMJ85qF2d3VpUn9z6C) | 2:34 |
+| 47 | [Gold Coast](https://open.spotify.com/track/27hudnRUnesKNOZoiuLPVs) | [Marcelo Falcão](https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr) | [Viver \(Mais leve que o ar\)](https://open.spotify.com/album/2TSwxXVstj31Js9PAgJ55u) | 4:19 |
 | 48 | [Bom Mesmo É Estar Debaixo D'Água](https://open.spotify.com/track/4juBGpkEJrSbWUPUW0prlA) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Bom Mesmo É Estar Debaixo D'Água](https://open.spotify.com/album/1hPfRy9zgpPB9KTlcB9dlM) | 4:31 |
 | 49 | [Carinhoso](https://open.spotify.com/track/6VjeeVYWXVUn3bA8sfxQAE) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Carinhoso](https://open.spotify.com/album/0rJHcHo2NIgsVWRs4PcBpE) | 4:25 |
 | 50 | [Boa Noite](https://open.spotify.com/track/45wdrnx5rxfh9uPMQcYIZV) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Coisa de Acender](https://open.spotify.com/album/6RnT2W5jK3g7ETuQHv1U5F) | 5:47 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA91mpJ5Ldc.md) - [plain]
 | 57 | [Andar Sozinho \(feat\. Jão\)](https://open.spotify.com/track/6VgqKm7c4chTnDmyInAxPS) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD), [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [Andar Sozinho \(feat\. Jão\)](https://open.spotify.com/album/1hwlO0NqvY5Lpsynz93sVP) | 3:00 |
 | 58 | [Chororô](https://open.spotify.com/track/2Q8gzfsNUErbquwqiWGu9w) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Bom Mesmo É Estar Debaixo D'Água](https://open.spotify.com/album/72RsVQVhqVjyBfsTCThFpq) | 3:29 |
 | 59 | [Mais Uma de Carnaval](https://open.spotify.com/track/2xWRAo3t3gFZr05I9yC8WM) | [Gabriel Coelho](https://open.spotify.com/artist/6DsLWHhRTF9iOzDJ1UCELx) | [O Funk Mais Triste da Cidade](https://open.spotify.com/album/1xqqsPHIOiruUb2eDsQdYs) | 2:50 |
-| 60 | [O Tambor](https://open.spotify.com/track/7ARjyeK4lXOwKzQu7c2Xvz) | [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM), [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Existe Amor](https://open.spotify.com/album/0SeIP7LbyFTNlmdFKH8zHi) | 3:25 |
+| 60 | [Parafuso](https://open.spotify.com/track/6EEglMg2h3npZVTQQzIOeX) | [Qinhones](https://open.spotify.com/artist/0pcMoyp7o9Fv8sGMm9rjAU) | [Parafuso](https://open.spotify.com/album/76F6NYWGJgkqU3WbR9Mo3F) | 4:39 |
 
-Snapshot ID: `MTY2MjQ4NjA4OSwwMDAwMDAwMDgwZGU3ODJmOWYyMDhhZjIyNGE5YmViYjRlNTA2MTcy`
+Snapshot ID: `MTY2MjQ4NjA4OSwwMDAwMDAwMGYyYTY2ZWYwYWM1YTk0YzE0ODhhYzA3OTFmMWJiM2M2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZprlljz35Gr.md) - [plain]
 
 > Bluesy blips and blops
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,324 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,342 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZprlljz35Gr.md) - [plain]
 | 20 | [Stand Together \- Original Mix](https://open.spotify.com/track/2C2G0ZtrQhBa9X6XcbWRH4) | [Jamie Berry](https://open.spotify.com/artist/5sM4cZ9MHihs0tbmkiE9n8), [Paul Naylor](https://open.spotify.com/artist/5oIDnYdFJFobh1AMGFdfm5) | [This Is For Everyone](https://open.spotify.com/album/1QHlV8vwF7QQjYXO7J2sS7) | 4:15 |
 | 21 | [Tale of A.G\. Smith](https://open.spotify.com/track/5aurQvInAVl4pdWzCXvlWM) | [Charlie Beale](https://open.spotify.com/artist/5BO1F2wBHUCoX02ZdPP23o) | [Deja Booze](https://open.spotify.com/album/7Lt0wInlc4Axf66ch2WyD2) | 3:37 |
 | 22 | [The Fire](https://open.spotify.com/track/5Opv3rAPRL93wJ9yXGJPiM) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Human \(Deluxe\)](https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng) | 3:42 |
-| 23 | [Shake 'Em on Down](https://open.spotify.com/track/1yxCax1l0O8p3lik3WvamC) | [R.L\. Burnside](https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip) | [A Bothered Mind](https://open.spotify.com/album/19ox7nB02O5mCJtjqzoqGm) | 3:29 |
+| 23 | [Shuck Dub](https://open.spotify.com/track/7lNr4eqSP7MCUCbDUGHWRo) | [R.L\. Burnside](https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip) | [Come on In](https://open.spotify.com/album/6QyepVbPWpjsQZAEgqmDsJ) | 4:28 |
 | 24 | [Sunroof Diesel Blues](https://open.spotify.com/track/2dymAGQ2kTrnNDbL2xcvDr) | [MY BABY](https://open.spotify.com/artist/0c103ZyWDycpfVxR0lNrjm) | [Prehistoric Rhythm](https://open.spotify.com/album/4iPWsm1A64k2xzydc0SmWc) | 3:44 |
 | 25 | [Black Blood](https://open.spotify.com/track/3xQSVngL4OJu5RXAchFQPm) | [R3YAN](https://open.spotify.com/artist/6oRmvag0pQojcoSnLNsZel), [Lukasoprom](https://open.spotify.com/artist/3d8NwLM2U7JYt2H97W5ls1), [Like Lions](https://open.spotify.com/artist/5E8xNHdbVoxGqLd4SAMgKo) | [Black Blood](https://open.spotify.com/album/1455tyjIuvboNbV6mAYSiZ) | 2:26 |
 | 26 | [Roy's Toy](https://open.spotify.com/track/1kwHwsKwvZJugHc9rqBeaC) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [You Had It Coming](https://open.spotify.com/album/2VKdeHabc3wTmiQBd8yGft) | 3:35 |
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZprlljz35Gr.md) - [plain]
 | 30 | [Electrified](https://open.spotify.com/track/3LAyeN6fnP8Hxd9uNszLsp) | [MY BABY](https://open.spotify.com/artist/0c103ZyWDycpfVxR0lNrjm) | [Prehistoric Rhythm](https://open.spotify.com/album/4iPWsm1A64k2xzydc0SmWc) | 6:38 |
 | 31 | [Heavy On My Heart](https://open.spotify.com/track/3EaoAfUtmDpe3DEtmEmCQf) | [Caiti Baker](https://open.spotify.com/artist/05eqfIcVnnc9zywXVdHv1P) | [Heavy On My Heart](https://open.spotify.com/album/55tjr8iorhH3OJUlT60Emf) | 3:30 |
 | 32 | [Right Now](https://open.spotify.com/track/2CPIE5QUfKjUKFNcKQXgnU) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf), [Leaf Dog](https://open.spotify.com/artist/3m634B61sWwR5xhu3lCyK6) | [Dog 'n' Bone](https://open.spotify.com/album/3pnmwntXRlUrBVvxabteEa) | 2:37 |
-| 33 | [Shuck Dub](https://open.spotify.com/track/7lNr4eqSP7MCUCbDUGHWRo) | [R.L\. Burnside](https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip) | [Come on In](https://open.spotify.com/album/6QyepVbPWpjsQZAEgqmDsJ) | 4:28 |
+| 33 | [Shake 'Em on Down](https://open.spotify.com/track/1yxCax1l0O8p3lik3WvamC) | [R.L\. Burnside](https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip) | [A Bothered Mind](https://open.spotify.com/album/19ox7nB02O5mCJtjqzoqGm) | 3:29 |
 | 34 | [Ride On](https://open.spotify.com/track/4sEDI5vsiNsdefE0K93181) | [Little Axe](https://open.spotify.com/artist/0ZLV7I1vDpjO5IIDTYfeGJ) | [Return](https://open.spotify.com/album/7CVCVJP0FuNBdtOCqd4jD3) | 5:21 |
 | 35 | [Dirty Blues](https://open.spotify.com/track/41N9M3HeIQWcS63XAiWOqJ) | [Riff Kitten](https://open.spotify.com/artist/2dWWUgJS0zdhV2Bu4WGF6a) | [Dirty Blues](https://open.spotify.com/album/5izZcttoL7uPSrAosqObkb) | 2:46 |
 | 36 | [Daddy Was a Wolfman](https://open.spotify.com/track/7i10VbOnkG09EuZuOkz3gO) | [Son Of Dave](https://open.spotify.com/artist/5t81Dbcvlm5J7YP7cI2kae) | [Music for Cop Shows](https://open.spotify.com/album/5BXskRJFE9uS1C0K1hZtqE) | 2:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZprlljz35Gr.md) - [plain]
 | 49 | [Idol \(Should I Know\)](https://open.spotify.com/track/676LOrrQHW9WOz8VL5LYVC) | [Mississippi Big Beat](https://open.spotify.com/artist/430DMjWZpbtg2tt64FynYH) | [Delta Disco](https://open.spotify.com/album/3SDDZMhIy357UN63KjpJP8) | 5:19 |
 | 50 | [Can't Help Myself \- E\-Z Rollers Remix](https://open.spotify.com/track/2e8IYlqaTSYo7zNR0DTi5m) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j), [E\-Z Rollers](https://open.spotify.com/artist/2DRV8CWHnuapa1bpbvHjCl) | [A Different Beat](https://open.spotify.com/album/3FgB6MV0HuR9Ie8057mamx) | 12:18 |
 
-Snapshot ID: `MTY1OTA2NzMyMCwwMDAwMDAwMDY5MjE1ZTJkZWFiNTQxMTlmNmU5MWM2ODY1YTVlZTcz`
+Snapshot ID: `MTY1OTA2NzMyMCwwMDAwMDAwMDE5OWNmYWJhMDU0NGMxYTJhZDI0YTUxMzE0ZWY5NGM4`

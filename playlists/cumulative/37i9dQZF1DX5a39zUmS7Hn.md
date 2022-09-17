@@ -2,9 +2,9 @@
 
 ### [Legends Only](https://open.spotify.com/playlist/37i9dQZF1DX5a39zUmS7Hn)
 
-> New music and timeless tracks from legends only\. Cover: Billy Idol
+> New music and timeless tracks from legends only\. Cover: Joe Strummer
 
-203 songs - 14 hr 54 min - [published](https://open.spotify.com/playlist/4sJNNOXti6LqdxGyE3CdfI)
+205 songs - 15 hr 1 min - [published](https://open.spotify.com/playlist/4sJNNOXti6LqdxGyE3CdfI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Buck Rogers](https://open.spotify.com/track/0ySYUxaTxfN8Kd6nuNY6bY) | [Feeder](https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR) | [Echo Park](https://open.spotify.com/album/2AqgHBVRkki14FLTOK2eU7) | 3:13 | 2022-08-18 | 2022-08-22 |
 | [Bulls On Parade](https://open.spotify.com/track/0tZ3mElWcr74OOhKEiNz1x) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Evil Empire](https://open.spotify.com/album/24E6rDvGDuYFjlGewp4ntF) | 3:49 | 2022-07-28 |  |
 | [C'mon People \(We're Making It Now\) \[feat\. Liam Gallagher\]](https://open.spotify.com/track/3ZGOhkbH5bQqorcBvB26pP) | [Richard Ashcroft](https://open.spotify.com/artist/1HGTHrRQkw0BtevSo1jucU), [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [Acoustic Hymns Vol\. 1](https://open.spotify.com/album/6IQVY1RqbUdX77kiHfUPMu) | 4:54 | 2022-04-08 | 2022-07-29 |
-| [Cage](https://open.spotify.com/track/5PRqhBkoni3TrJSUqpnyKa) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Cage](https://open.spotify.com/album/7uRq2XCxf2m2tVEexsSCyJ) | 2:48 | 2022-08-18 |  |
+| [Cage](https://open.spotify.com/track/5PRqhBkoni3TrJSUqpnyKa) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Cage](https://open.spotify.com/album/7uRq2XCxf2m2tVEexsSCyJ) | 2:48 | 2022-08-18 | 2022-09-17 |
 | [Can't Help Thinking About Me](https://open.spotify.com/track/2MZykOE6SZ4uWxKrgdGoq8) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Can’t Help Thinking About Me](https://open.spotify.com/album/5VNFo7F2uZtXYmpW2uu4Cp) | 3:25 | 2022-04-08 | 2022-07-04 |
 | [Can't Let Go](https://open.spotify.com/track/5SMb9DajcX67GuiL4urSjp) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Can't Let Go](https://open.spotify.com/album/4FI4jvFk534aeIQXvyzNZr) | 3:41 | 2022-04-08 | 2022-07-29 |
 | [Can't Stop](https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [By the Way \(Deluxe Edition\)](https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1) | 4:29 | 2022-07-28 |  |
@@ -142,11 +142,12 @@
 | [Parklife](https://open.spotify.com/track/3mqRLlD9j92BBv1ueFhJ1l) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur: The Best Of](https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x) | 3:07 | 2022-04-08 | 2022-07-23 |
 | [Parklife \- 2012 Remaster](https://open.spotify.com/track/7FSzJQV6thyoQptFCUTV9c) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Parklife \(Special Edition\)](https://open.spotify.com/album/0DBkFC6739trhCoVreZyds) | 3:05 | 2022-04-08 |  |
 | [Patient Number 9 \(feat\. Jeff Beck\)](https://open.spotify.com/track/6kAOsnRUgp21bPiUoVZeuJ) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Patient Number 9 \(feat\. Jeff Beck\)](https://open.spotify.com/album/6ofIoMgNMIM7cvlxjWNcpN) | 7:21 | 2022-07-08 |  |
+| [Personality Disorder](https://open.spotify.com/track/7noQsk2Wm00f5HlH2Zmume) | [The London Suede](https://open.spotify.com/artist/6GuRYj1MEnu1WZhDA2Xy0t) | [Autofiction](https://open.spotify.com/album/6yLKyq7x7ZCpL7p99smtsO) | 4:00 | 2022-09-16 |  |
 | [Pneuma](https://open.spotify.com/track/03sEzk1VyrUZSgyhoQR0LZ) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Fear Inoculum](https://open.spotify.com/album/7acEciVtnuTzmwKptkjth5) | 11:53 | 2022-07-28 |  |
 | [Protect The Land](https://open.spotify.com/track/11ajcVj3qSyyMPUpTJUP3y) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Protect The Land / Genocidal Humanoidz](https://open.spotify.com/album/00OQIrRjQgZmacSnjK8L7M) | 5:07 | 2022-07-28 |  |
 | [Pumping On Your Stereo](https://open.spotify.com/track/4pCfNA9bjI3pccG5s9fm7J) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [Supergrass](https://open.spotify.com/album/7fAfHvKNHlQav4CtSN7Iqz) | 3:20 | 2022-04-08 | 2022-07-26 |
 | [Range Rover Bitch](https://open.spotify.com/track/0CgJ1v2IDbrp4JAYeGhfYz) | [Taylor Hawkins](https://open.spotify.com/artist/6bI8H2TnlKYGJSo52wcTP4) | [Kota](https://open.spotify.com/album/0NpLbHiynJPixcHeGdd2Kb) | 2:49 | 2022-04-08 | 2022-05-28 |
-| [Realize](https://open.spotify.com/track/4JDjZ2AzlHnde5uUy0TveV) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [POWER UP](https://open.spotify.com/album/3bTNxJYk2bwdWBMtrjBxb0) | 3:37 | 2022-08-18 |  |
+| [Realize](https://open.spotify.com/track/4JDjZ2AzlHnde5uUy0TveV) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [POWER UP](https://open.spotify.com/album/3bTNxJYk2bwdWBMtrjBxb0) | 3:37 | 2022-08-18 | 2022-09-17 |
 | [Remember We Were Lovers](https://open.spotify.com/track/51TM4SSltkpKkL0ZlrpfCg) | [Bobby Gillespie](https://open.spotify.com/artist/77aJXR27gzqvC7CEko5h3o), [Jehnny Beth](https://open.spotify.com/artist/2WOMBqEsllg2ICn7D2L8ta), [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Remember We Were Lovers](https://open.spotify.com/album/4nqCtPyJLpPpr2H087hKNC) | 4:16 | 2022-06-06 | 2022-07-05 |
 | [Road to Nowhere \- 2005 Remaster](https://open.spotify.com/track/2co8fDyaVmxv8xruQWORnC) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Little Creatures](https://open.spotify.com/album/5Dja2ASXd7MOM628iwYdtA) | 4:20 | 2022-04-08 | 2022-07-29 |
 | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy) | 4:58 | 2022-04-08 | 2022-07-29 |
@@ -157,6 +158,7 @@
 | [Satellite of Love](https://open.spotify.com/track/5WyuRWUcOOhAic0tj9Pl28) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Transformer](https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St) | 3:41 | 2022-04-08 |  |
 | [Say Hi](https://open.spotify.com/track/2ZlkSwGFFuKgbJiiHVAw4j) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Matter of Time / Say Hi](https://open.spotify.com/album/6Z6fyPwQzpp0XO9HvQH1d6) | 2:48 | 2022-05-27 | 2022-07-20 |
 | [Scarlet](https://open.spotify.com/track/3vSXV46H3bSmJHX79NV9Zu) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe), [Jimmy Page](https://open.spotify.com/artist/55bGuHb50r5c0PeqqMeNBV) | [Goats Head Soup \(Deluxe\)](https://open.spotify.com/album/5Q7oMv5dx9VinYxveFZNsn) | 3:44 | 2022-04-08 | 2022-07-29 |
+| [Secret Agent Man](https://open.spotify.com/track/69AXRF37Va3JP772FJAPLD) | [Joe Strummer](https://open.spotify.com/artist/2A09V0kHlETOFfT8Hz8oba) | [Joe Strummer 002: The Mescaleros Years](https://open.spotify.com/album/0jt3CZHQ5jpzzu5eT7F98x) | 3:11 | 2022-09-16 |  |
 | [Shout](https://open.spotify.com/track/2gQaQUhDCNGfBVXTvxAmXQ) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair](https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5) | 6:33 | 2022-04-08 |  |
 | [Slidin' \- EOB Remix](https://open.spotify.com/track/7qCm38KsAwzB0A9INFVNWP) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [EOB](https://open.spotify.com/artist/4CX6yOoTFQeiwL5yxuFuIG) | [Slidin' \(EOB Remix\)](https://open.spotify.com/album/6i0EU18nKFbeRUtnmTvTyW) | 2:39 | 2022-06-06 | 2022-07-04 |
 | [Slow Down](https://open.spotify.com/track/1t6iqwiBtWXRrZZqZsud56) | [Gerry Rafferty](https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb) | [Slow Down](https://open.spotify.com/album/1qp3gPaDHiq6OSLC3Bui80) | 4:52 | 2022-04-08 | 2022-07-23 |

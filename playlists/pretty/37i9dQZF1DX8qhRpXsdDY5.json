@@ -1,12 +1,12 @@
 {
   "description": "The perfect Latin tunes to get in the Christmas spirit. Cover: Luis Miguel",
-  "num_followers": 187375,
+  "num_followers": 187369,
   "original_name": "Latin Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDU3MzAwNywwMDAwMDAwMGE3ZGIzNWRiYWYzNjY1NjgzNjk1NGViMTZmMmZmN2Rh",
+  "snapshot_id": "MTY2MDU3MzAwNywwMDAwMDAwMDJmZmQ5MDMyZDkwNWRjZWY0ZTdhNTNmY2Y1NTQ2NTU4",
   "tracks": [
     {
       "added_at": "2021-12-17 05:01:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Amor Real (Holiday Song)",
-        "url": "https://open.spotify.com/album/0X4nxSqynfCpG9LMJ9jK13"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 185454,
-      "name": "Amor Real - Holiday Song",
-      "url": "https://open.spotify.com/track/6532nOWtuYIzYaN44pcrHy"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
         "name": "Santa la noche",
         "url": "https://open.spotify.com/album/3JQymi6jdlocnrFuPfVBcG"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 253571,
       "name": "Santa la noche",
       "url": "https://open.spotify.com/track/34OQJBdPvh88lHD6Oiuwc1"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Amor Real (Holiday Song)",
+        "url": "https://open.spotify.com/album/0X4nxSqynfCpG9LMJ9jK13"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 185454,
+      "name": "Amor Real - Holiday Song",
+      "url": "https://open.spotify.com/track/6532nOWtuYIzYaN44pcrHy"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -1123,46 +1123,6 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "El Regalo",
-        "url": "https://open.spotify.com/album/6luSgjekfdeAJ6Ft4Jdm6s"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Daza",
-          "url": "https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a"
-        }
-      ],
-      "duration_ms": 203147,
-      "name": "El Regalo",
-      "url": "https://open.spotify.com/track/1BndjPxH015h5UraXPJFN7"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Arre Borriquito",
-        "url": "https://open.spotify.com/album/2QdgwjVEg1UVHBLatGgoM1"
-      },
-      "artists": [
-        {
-          "name": "Kalimba",
-          "url": "https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv"
-        },
-        {
-          "name": "Nicole Favre",
-          "url": "https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1"
-        },
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 190546,
-      "name": "Arre Borriquito",
-      "url": "https://open.spotify.com/track/7Adw0mNfmb0knPSYPwky39"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
         "name": "Navidad",
         "url": "https://open.spotify.com/album/1ka6zJZBNKDyV1nKk7N9SR"
       },
@@ -1175,6 +1135,22 @@
       "duration_ms": 145898,
       "name": "D\u00f3nde Est\u00e1 La Nieve En Navidad",
       "url": "https://open.spotify.com/track/3OzLDDrhnx5PqdrNQYQm7i"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "El Regalo",
+        "url": "https://open.spotify.com/album/6luSgjekfdeAJ6Ft4Jdm6s"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Daza",
+          "url": "https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a"
+        }
+      ],
+      "duration_ms": 203147,
+      "name": "El Regalo",
+      "url": "https://open.spotify.com/track/1BndjPxH015h5UraXPJFN7"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -1203,6 +1179,30 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
+        "name": "Arre Borriquito",
+        "url": "https://open.spotify.com/album/2QdgwjVEg1UVHBLatGgoM1"
+      },
+      "artists": [
+        {
+          "name": "Kalimba",
+          "url": "https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv"
+        },
+        {
+          "name": "Nicole Favre",
+          "url": "https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1"
+        },
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 190546,
+      "name": "Arre Borriquito",
+      "url": "https://open.spotify.com/track/7Adw0mNfmb0knPSYPwky39"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
         "name": "Top Latino Navidad",
         "url": "https://open.spotify.com/album/3bc8ZLlpXr0neQalIgRMnE"
       },
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Navidad Latina 2021 (Streaming)",
-        "url": "https://open.spotify.com/album/0szE9YO0h3e4C99oVAx6H1"
-      },
-      "artists": [
-        {
-          "name": "Los Del Rio",
-          "url": "https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk"
-        }
-      ],
-      "duration_ms": 254293,
-      "name": "Macarena Christmas - Joy Mix",
-      "url": "https://open.spotify.com/track/0tfORpCYcR3aX6K8URKzRI"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
         "name": "Navidad con Pandora",
         "url": "https://open.spotify.com/album/6A6jIdmnSirfsVE8D8ONJV"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 182000,
       "name": "Campana Sobre Campana",
       "url": "https://open.spotify.com/track/6dt6s7OPMXcdcPUqRJJg9c"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Navidad Latina 2021 (Streaming)",
+        "url": "https://open.spotify.com/album/0szE9YO0h3e4C99oVAx6H1"
+      },
+      "artists": [
+        {
+          "name": "Los Del Rio",
+          "url": "https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk"
+        }
+      ],
+      "duration_ms": 254293,
+      "name": "Macarena Christmas - Joy Mix",
+      "url": "https://open.spotify.com/track/0tfORpCYcR3aX6K8URKzRI"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -1343,26 +1343,6 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Duende",
-        "url": "https://open.spotify.com/album/2w5Retn8950UJiwf09tFJq"
-      },
-      "artists": [
-        {
-          "name": "Georgel",
-          "url": "https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j"
-        },
-        {
-          "name": "La Marisoul",
-          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
-        }
-      ],
-      "duration_ms": 166891,
-      "name": "Duende",
-      "url": "https://open.spotify.com/track/4YOZ3RFiqr4SiPpQ3MMBot"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
         "name": "I'll Be Home For Christmas/Estar\u00e9 En Mi Casa Esta Navidad",
         "url": "https://open.spotify.com/album/0c4qQwNuYDVtcde6xDmNeS"
       },
@@ -1379,6 +1359,26 @@
       "duration_ms": 238480,
       "name": "I'll Be Home For Christmas/Estar\u00e9 En Mi Casa Esta Navidad",
       "url": "https://open.spotify.com/track/1ZJxkMIYK2a681oSqG1QNi"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Duende",
+        "url": "https://open.spotify.com/album/2w5Retn8950UJiwf09tFJq"
+      },
+      "artists": [
+        {
+          "name": "Georgel",
+          "url": "https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j"
+        },
+        {
+          "name": "La Marisoul",
+          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
+        }
+      ],
+      "duration_ms": 166891,
+      "name": "Duende",
+      "url": "https://open.spotify.com/track/4YOZ3RFiqr4SiPpQ3MMBot"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Lleg\u00f3 la Navidad",
-        "url": "https://open.spotify.com/album/7Hzii1J4Rqkleye5rg57KJ"
-      },
-      "artists": [
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        }
-      ],
-      "duration_ms": 129194,
-      "name": "Lleg\u00f3 la Navidad",
-      "url": "https://open.spotify.com/track/4NJS1xksQ2p0nJ5yNWx8Ak"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
         "name": "Nuestra Navidad",
         "url": "https://open.spotify.com/album/1O7QyLYHlgNncDGgjaDvR4"
       },
@@ -1635,18 +1619,18 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Top Latino Navidad",
-        "url": "https://open.spotify.com/album/3bc8ZLlpXr0neQalIgRMnE"
+        "name": "Lleg\u00f3 la Navidad",
+        "url": "https://open.spotify.com/album/7Hzii1J4Rqkleye5rg57KJ"
       },
       "artists": [
         {
-          "name": "Oscar D'Le\u00f3n",
-          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
         }
       ],
-      "duration_ms": 304706,
-      "name": "Cantares de Navidad",
-      "url": "https://open.spotify.com/track/3CBwkURhT0xqoDCJQAoSZe"
+      "duration_ms": 129194,
+      "name": "Lleg\u00f3 la Navidad",
+      "url": "https://open.spotify.com/track/4NJS1xksQ2p0nJ5yNWx8Ak"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -1663,6 +1647,22 @@
       "duration_ms": 182000,
       "name": "Este Diciembre",
       "url": "https://open.spotify.com/track/0ZmIPz8CGosi4bwranJTbT"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Top Latino Navidad",
+        "url": "https://open.spotify.com/album/3bc8ZLlpXr0neQalIgRMnE"
+      },
+      "artists": [
+        {
+          "name": "Oscar D'Le\u00f3n",
+          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
+        }
+      ],
+      "duration_ms": 304706,
+      "name": "Cantares de Navidad",
+      "url": "https://open.spotify.com/track/3CBwkURhT0xqoDCJQAoSZe"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -1699,6 +1699,22 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
+        "name": "Navidades En Puerto Rico",
+        "url": "https://open.spotify.com/album/6FdVveHqsMNEPXFjvw18wZ"
+      },
+      "artists": [
+        {
+          "name": "Daniel Santos",
+          "url": "https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2"
+        }
+      ],
+      "duration_ms": 182933,
+      "name": "A los Santos Reyes",
+      "url": "https://open.spotify.com/track/7Jfu8UvOHm76l4EtnujLkH"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
         "name": "Nuestra Navidad",
         "url": "https://open.spotify.com/album/1O7QyLYHlgNncDGgjaDvR4"
       },
@@ -1731,22 +1747,6 @@
       "duration_ms": 176786,
       "name": "El Mejor Regalo",
       "url": "https://open.spotify.com/track/1HlS59V3jDAQx9VWfj1Ztm"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Navidades En Puerto Rico",
-        "url": "https://open.spotify.com/album/6FdVveHqsMNEPXFjvw18wZ"
-      },
-      "artists": [
-        {
-          "name": "Daniel Santos",
-          "url": "https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2"
-        }
-      ],
-      "duration_ms": 182933,
-      "name": "A los Santos Reyes",
-      "url": "https://open.spotify.com/track/7Jfu8UvOHm76l4EtnujLkH"
     },
     {
       "added_at": "2021-12-17 05:01:00",

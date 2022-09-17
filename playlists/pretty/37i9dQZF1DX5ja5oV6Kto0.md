@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: <a href="https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW?si=H4w\_nQr4RZOhsez2IxiPDg"> Odunsi \(The Engine\) </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,678 likes - 80 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,707 likes - 80 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 75 | [Passenger 555](https://open.spotify.com/track/1uzIRwVybr2mBvJSnQItnQ) | [Jinku](https://open.spotify.com/artist/3gkk18CqFxsmkZkGyYZKqo), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Passenger 555](https://open.spotify.com/album/5kvhkBw0dqS3hAcpTblmKS) | 3:15 |
 | 76 | [DO ME JEJE](https://open.spotify.com/track/761wgf2fyosAixTxmR5dpZ) | [Teezee](https://open.spotify.com/artist/6qgNjbWXJ9mbqKwznBLj5B), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [Arrested by Love](https://open.spotify.com/album/0zejTpsTCCZlAHUfdHyDQ8) | 3:00 |
 | 77 | [Bad4u](https://open.spotify.com/track/47MrcI6SgwA4FRvURaaaZ1) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Bad4u](https://open.spotify.com/album/6oWQWuCF0BGQSkGCVnzQN8) | 2:59 |
-| 78 | [Awolowo](https://open.spotify.com/track/33ZP3qMoSn7Qm8aJhGbPK0) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [Zamir](https://open.spotify.com/artist/17AnjHQ3k75QgyzY97V15q) | [Gbagada Express](https://open.spotify.com/album/71t8ET4M40jagPMwWtGDAd) | 2:48 |
+| 78 | [Awolowo](https://open.spotify.com/track/33ZP3qMoSn7Qm8aJhGbPK0) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [Zamir](https://open.spotify.com/artist/17AnjHQ3k75QgyzY97V15q) | [Gbagada Express](https://open.spotify.com/album/71t8ET4M40jagPMwWtGDAd) | 2:48 |
 | 79 | [Gkw](https://open.spotify.com/track/7iP4xI5k3ofKaaUzY1dxNk) | [Dwin, The Stoic](https://open.spotify.com/artist/4G4MrV1YIxHLGXRlhrIPmC) | [Gkw / Winning Bread](https://open.spotify.com/album/511ZnBegulQv9yKnYlb3NQ) | 2:59 |
 | 80 | [Detonate](https://open.spotify.com/track/6ufuzc7b2zgkpK22dPcmti) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd), [Zirra](https://open.spotify.com/artist/3ygMZBYwEeR5Vd5Qze8IYl) | [For Good Reasons](https://open.spotify.com/album/7zDDdXCpkiw7NjP8yh5TNt) | 2:06 |
 

@@ -2,9 +2,9 @@
 
 ### [la pop\~wave](https://open.spotify.com/playlist/37i9dQZF1DWYEIx04mlcFR)
 
-> la nueva ola de artistas con Kevin Kaarl en portada\. 🌊✨
+> la nueva ola de artistas con Dannylux en portada\. 🌊✨
 
-209 songs - 10 hr 58 min - [published](https://open.spotify.com/playlist/6I4k19QivQTwxJMIU1FW10)
+210 songs - 11 hr 1 min - [published](https://open.spotify.com/playlist/6I4k19QivQTwxJMIU1FW10)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [DIADREAMER](https://open.spotify.com/track/7MFWP8pH2bSMvDeCdijnVv) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1), [Ana Mancebo](https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd) | [DIADREAMER](https://open.spotify.com/album/3dMeA8bEA9Ianbh9mnyhU9) | 3:04 | 2022-05-09 | 2022-07-23 |
 | [DQNE](https://open.spotify.com/track/6Kzc5Z4Cha5s4Wb0J8CLnf) | [NETO ROXS](https://open.spotify.com/artist/72tQXlolJ2rcObhahYgIvJ) | [I AM DIABLO, Pt\. 1](https://open.spotify.com/album/1tGUkSyRlVtGiOFDtGRRjD) | 2:42 | 2022-07-18 | 2022-08-27 |
 | [Dueles Tan Bien](https://open.spotify.com/track/75ncCwXqalTnnl6t1ruQRq) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Dueles Tan Bien](https://open.spotify.com/album/4EFml19fOt7aLf4EMhg8jq) | 2:54 | 2021-12-10 | 2022-03-26 |
+| [Dueles Tan Bien \(Donovan's Playground Remix\)](https://open.spotify.com/track/62MO58gO3RjXkydHvn8UnS) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y), [Donovan's Playground](https://open.spotify.com/artist/67tuLuJ6EoOTR1KntyUnHQ) | [Dueles Tan Bien \(Donovan's Playground Remix\)](https://open.spotify.com/album/5y09I1r5zOh9Fsbbm8AUir) | 2:48 | 2022-09-16 |  |
 | [efectos secundarios](https://open.spotify.com/track/7E8tm3aTajBw9a3CkjfuBD) | [Salma](https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0) | [efectos secundarios](https://open.spotify.com/album/7sUapRkZsZTV4sBVxlcfpT) | 2:42 | 2021-12-10 | 2022-02-19 |
 | [El Café No Sabe Igual Sin Ti](https://open.spotify.com/track/5EksyYBHY38ERxBH5oLfi2) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq) | [¿Te Puedo Llamar?](https://open.spotify.com/album/70tqqAbqB3ial4rZZVzmDz) | 1:56 | 2022-07-18 |  |
 | [Elefante Rosado](https://open.spotify.com/track/6gAvKn225q8bNOG5HwvNhu) | [Yukun](https://open.spotify.com/artist/4ov9qGZvnL4JWyKXDYSCPB) | [Elefante Rosado](https://open.spotify.com/album/7zd0rhMzLcO242yOC1niFl) | 2:13 | 2022-02-18 | 2022-05-07 |
@@ -145,7 +146,7 @@
 | [Psicodélico](https://open.spotify.com/track/7GprGO8qLpEV3siK25CJV1) | [seye](https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT), [Giorgio Siladi](https://open.spotify.com/artist/70yXUWs47Ej8wyiChPutgj) | [Psicodélico](https://open.spotify.com/album/32NylJJcCTzZbH821CtedC) | 4:18 | 2021-12-10 | 2022-02-12 |
 | [Punk](https://open.spotify.com/track/28fb2X931nhjyCHMKbNOPt) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Punk](https://open.spotify.com/album/0ALZJahmwF0u1AReCWtiZP) | 3:13 | 2022-02-11 | 2022-08-27 |
 | [Que Te Parece](https://open.spotify.com/track/0Uyo3tsKFD735CfP3UmOsP) | [Matias Juarez](https://open.spotify.com/artist/0DTBJHXaPCzSHR5aa0ezZf), [Trapzongo](https://open.spotify.com/artist/2z2643JYOEICXjihraM16g) | [Que Te Parece](https://open.spotify.com/album/18j8Z3zWIibYQe0vwEeiQA) | 3:03 | 2022-05-09 | 2022-06-25 |
-| [Quiero Quedarme para Siempre](https://open.spotify.com/track/3du9ocej65TycajaDfw8j9) | [La La Love You](https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Quiero Quedarme para Siempre](https://open.spotify.com/album/7AQmikvyjRWLYx5cey4JIG) | 3:09 | 2022-04-13 |  |
+| [Quiero Quedarme para Siempre](https://open.spotify.com/track/3du9ocej65TycajaDfw8j9) | [La La Love You](https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Quiero Quedarme para Siempre](https://open.spotify.com/album/7AQmikvyjRWLYx5cey4JIG) | 3:09 | 2022-04-13 | 2022-09-17 |
 | [Qué Jodido](https://open.spotify.com/track/5ILOjHzlwbtGC2mfxh7nHn) | [Giorgio Siladi](https://open.spotify.com/artist/70yXUWs47Ej8wyiChPutgj) | [Qué Jodido](https://open.spotify.com/album/3LXfwJbgciZfXUMOLiTpTs) | 4:06 | 2022-02-11 | 2022-03-26 |
 | [Qué Maldición](https://open.spotify.com/track/4DNnkNigVl4Dc5Ja4BvKH9) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY), [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg) | [Qué Maldición](https://open.spotify.com/album/34b6Qme3ZOs6jrgx0BWV3O) | 3:09 | 2022-02-25 | 2022-08-20 |
 | [qué voy a hacer conmigo???](https://open.spotify.com/track/6SXIsiIfGdhs2zOr4Tg9aS) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [qué voy a hacer conmigo???](https://open.spotify.com/album/2yfEIEiNip2zD2cO8kl1lg) | 2:45 | 2022-03-25 | 2022-09-10 |

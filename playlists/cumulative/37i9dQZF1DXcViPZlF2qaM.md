@@ -4,7 +4,7 @@
 
 > Abajo y a la izquierda.
 
-179 songs - 11 hr 11 min - [published](https://open.spotify.com/playlist/6dA0HeDmTyKtqD8bj9rk8f)
+180 songs - 11 hr 15 min - [published](https://open.spotify.com/playlist/6dA0HeDmTyKtqD8bj9rk8f)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Guerrera](https://open.spotify.com/track/3SXXaaifuIWCaqAwopfPmY) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W) | [Guerrera](https://open.spotify.com/album/37tmDnR0p0ABwvtHfECzdD) | 4:11 | 2021-11-10 | 2022-07-29 |
 | [Harta](https://open.spotify.com/track/1J4xv5V5dzkA8UGtXSbCNU) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Harta](https://open.spotify.com/album/7xxEXEwifY6NE0sEmIybSg) | 3:05 | 2021-10-16 | 2022-07-29 |
 | [Hasta la Raíz](https://open.spotify.com/track/47KRnXQdhZvTdWyQZUTqiG) | [Isaac & Nora](https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls), [Feten Feten](https://open.spotify.com/artist/2jA6wEXprTZysvomP2krp8) | [Latin & Love Studies](https://open.spotify.com/album/771YlZnyW3Dhj8n9X4wMWM) | 4:00 | 2021-10-16 | 2022-08-15 |
-| [Hasta siempre](https://open.spotify.com/track/4f131ZKqnk9SudTFYcnJU7) | [Soledad Bravo](https://open.spotify.com/artist/6wrOOWIlmDTI9G5MSpAuh2) | [Cantos revolucionarios de america latina](https://open.spotify.com/album/2bD2Qk8NESRcHDcMmoHg9k) | 4:30 | 2022-03-30 |  |
+| [Hasta siempre](https://open.spotify.com/track/4f131ZKqnk9SudTFYcnJU7) | [Soledad Bravo](https://open.spotify.com/artist/6wrOOWIlmDTI9G5MSpAuh2) | [Cantos revolucionarios de america latina](https://open.spotify.com/album/2bD2Qk8NESRcHDcMmoHg9k) | 4:30 | 2022-03-30 | 2022-09-17 |
 | [Japonesita](https://open.spotify.com/track/4mbfsepM9hLmTe8jXyFyrI) | [Guillermo Perata](https://open.spotify.com/artist/1dxRH5SIYTk5nVqLKHRfU9), [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Japonesita](https://open.spotify.com/album/4sZiO9rwaQTAGmxoEBpO2c) | 2:49 | 2021-10-16 | 2022-07-20 |
 | [Juana Azurduy](https://open.spotify.com/track/1xbpUvFjNmx7lv0IpiQoUn) | [Nación Ekeko](https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Miss Bolivia](https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx), [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn), [Estela de Carlotto](https://open.spotify.com/artist/3iRYSRX3m5TOt8wz26xx32) | [Juana Azurduy](https://open.spotify.com/album/2iTeE4WVvIMNbSyJ0dlGOH) | 3:38 | 2022-03-11 | 2022-07-29 |
 | [Jugar Conmigo](https://open.spotify.com/track/4tvIaq3vauMJWSzZIN1m8F) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Sorpresa](https://open.spotify.com/album/4clIaqyIpJOku2E6VNnwy2) | 3:42 | 2022-04-23 | 2022-07-28 |
@@ -170,6 +170,7 @@
 | [Te Venero](https://open.spotify.com/track/4JdoNXs8MyxoovRv4g9udm) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [El Madrileño \(La Sobremesa\)](https://open.spotify.com/album/650sLMsoWUJ6AsjW2YvhCz) | 3:07 | 2022-02-17 |  |
 | [Tijuana Taxi](https://open.spotify.com/track/2vLgPIAJj1Z7fd69QoFxqK) | [Herb Alpert & The Tijuana Brass](https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I) | [!!Going Places!!](https://open.spotify.com/album/3y7ArxHNtZoTVWSwR4lkQT) | 2:05 | 2021-10-16 |  |
 | [Todo Cambia](https://open.spotify.com/track/2f3mTJUP0bhLf9q9jgfIeQ) | [Son de Aquí](https://open.spotify.com/artist/1LY5S6drcTyXaGRQSuv3mJ) | [Al Otro Lado del Mar](https://open.spotify.com/album/1cMLf2f5pP1TDA5z0sGi8G) | 4:18 | 2022-09-03 |  |
+| [traguito](https://open.spotify.com/track/3t2nOnte5Wp9jbvMenZedH) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [traguito](https://open.spotify.com/album/3w6RnyVHOO4xHAGzO9iOmB) | 3:56 | 2022-09-16 |  |
 | [Tu Misterio](https://open.spotify.com/track/6ozWgkrFGyKPYevScZExbn) | [Rulo](https://open.spotify.com/artist/1hESVb5p8cUHjbj9YzfklQ) | [Vendaval](https://open.spotify.com/album/3snpTfE8NJhpBiA09n2OZp) | 3:37 | 2021-10-16 | 2022-07-28 |
 | [Té de Malvón](https://open.spotify.com/track/3BYSoeWlqUgIwfY77C8VgE) | [La Bruja de Texcoco](https://open.spotify.com/artist/7gnuQGVeNQv0QTjZ5QLHpu) | [De Brujas, Peteneras y Chachalacas](https://open.spotify.com/album/1oqhkbPFH04GnzVwO3nFJX) | 6:37 | 2021-10-16 | 2022-07-29 |
 | [Tú Ve](https://open.spotify.com/track/2rJnYvUiEstXyk5nSvbLpI) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Tú Ve](https://open.spotify.com/album/2KTXvlbVXi7rxEHWi0ePv4) | 3:58 | 2022-04-23 |  |

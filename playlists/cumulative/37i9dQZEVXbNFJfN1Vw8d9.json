@@ -1117,7 +1117,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 155533,
       "name": "Belixe",
       "url": "https://open.spotify.com/track/0S4w5ZBEbxYxiygvz9wWdK"
@@ -4667,7 +4667,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-16",
+      "date_removed": null,
       "duration_ms": 181986,
       "name": "La Prendo",
       "url": "https://open.spotify.com/track/6t48UVZvQWh5wWfWlCZfzY"
@@ -4721,7 +4721,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 147066,
       "name": "Lady Mi Amor",
       "url": "https://open.spotify.com/track/30Xh83fw03PZ2Wfm36H4EZ"
@@ -5274,6 +5274,24 @@
     },
     {
       "album": {
+        "name": "Luces De Ne\u00f3n",
+        "url": "https://open.spotify.com/album/03XRoR4NgKM7VHiXzDW2wS"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219789,
+      "name": "Luces De Ne\u00f3n",
+      "url": "https://open.spotify.com/track/5B60XFKzm8WsJTdVyt4u4I"
+    },
+    {
+      "album": {
         "name": "Mis Manos",
         "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
       },
@@ -5377,7 +5395,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-16",
+      "date_removed": null,
       "duration_ms": 168367,
       "name": "Mami",
       "url": "https://open.spotify.com/track/4FjkjrvfbB3C4eUqWlw3vB"
@@ -6778,6 +6796,28 @@
     },
     {
       "album": {
+        "name": "Party en el Barrio (feat. Duki)",
+        "url": "https://open.spotify.com/album/2alxO71ik8lO8YIuNT2LKn"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236143,
+      "name": "Party en el Barrio (feat. Duki)",
+      "url": "https://open.spotify.com/track/5GF0X7GdNmnouKcdhhRmtm"
+    },
+    {
+      "album": {
         "name": "Par\u00eds",
         "url": "https://open.spotify.com/album/2dhk2kLdjVxWps1PW9WSTj"
       },
@@ -7291,7 +7331,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 182506,
       "name": "Quemando Calor\u00edas",
       "url": "https://open.spotify.com/track/3ss6y0Id5Iwk2L5MIZp4xF"
@@ -7925,7 +7965,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-16",
+      "date_removed": null,
       "duration_ms": 209531,
       "name": "She Don't Give a Fo",
       "url": "https://open.spotify.com/track/03a359wbiUsjN9h6yzXvmS"
@@ -9583,7 +9623,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 103240,
       "name": "X20X",
       "url": "https://open.spotify.com/track/1lqJic7VMR7PBlwpPrZuPK"
@@ -9605,7 +9645,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 218693,
       "name": "XQ Te Pones As\u00ed",
       "url": "https://open.spotify.com/track/6JUMswocQ7Hp46kj9kyljT"

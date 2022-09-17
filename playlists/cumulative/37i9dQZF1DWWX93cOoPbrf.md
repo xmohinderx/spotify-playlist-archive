@@ -2,9 +2,9 @@
 
 ### [Corridos Nuevos 2022](https://open.spotify.com/playlist/37i9dQZF1DWWX93cOoPbrf)
 
-> Lo más fresco de la cosecha 2022\. Grupo Recluta en portada.
+> Lo más fresco de la cosecha 2022\. Beto Vega en portada.
 
-147 songs - 7 hr 26 min - [published](https://open.spotify.com/playlist/3NcL9qMtEpCLAYx2RQtV9b)
+148 songs - 7 hr 30 min - [published](https://open.spotify.com/playlist/3NcL9qMtEpCLAYx2RQtV9b)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [50 Pesos](https://open.spotify.com/track/3R2TtSkWnYsUmhvZFjiM7f) | [Los Nuevos Escoltas](https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm) | [50 Pesos](https://open.spotify.com/album/3ZA0P6yWdgfSg92lF3hAeB) | 3:11 | 2022-09-09 |  |
 | [6 impactos](https://open.spotify.com/track/5n2E8f03RUn95MhFGi6Vc9) | [Bocho Ramos](https://open.spotify.com/artist/45aWiKy36SDBTyqsU3lt1R) | [6 impactos](https://open.spotify.com/album/40llY7qNHPo4sGkcvdthRX) | 3:00 | 2022-09-09 |  |
 | [A La Orden \(El Menor\)](https://open.spotify.com/track/6KSUBF2lLNzsPGiy8bV95y) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac) | [A La Orden \(El Menor\)](https://open.spotify.com/album/4nA6tCmBMPlaj1cHDc3iWL) | 3:04 | 2022-09-02 |  |
+| [A Puño Limpio](https://open.spotify.com/track/3tJLTDDCh4azEGhktksiLw) | [Beto Vega](https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak) | [A Puño Limpio](https://open.spotify.com/album/0kHtPbrj4TjfCNMFwLCHVY) | 3:31 | 2022-09-16 |  |
 | [Aguas Turbulentas](https://open.spotify.com/track/290Ug0y2nZJ8bamtgu435i) | [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [Aguas Turbulentas](https://open.spotify.com/album/69wLMt4yFfuHuueICXyo44) | 2:16 | 2022-07-22 | 2022-09-03 |
 | [Ando en el Caloron](https://open.spotify.com/track/2bu2siQAht5AGdhL2Ey8u2) | [Legion RG](https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V) | [Andamos por Todos Lados](https://open.spotify.com/album/1kfxk0qGBxeZcv9qeAx2Rp) | 3:43 | 2022-08-29 |  |
 | [Ando en la Fea \(En Vivo\)](https://open.spotify.com/track/5ed9exnSCZn7OVxLYcHuRb) | [Legion RG](https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V), [Los Nuevos Ilegales](https://open.spotify.com/artist/0dAcy3ayJIW98jdHTacqac), [Banda La Veintona](https://open.spotify.com/artist/22mUBA7P0AY1inU2zHAicS) | [Ando en la Fea \(En Vivo\)](https://open.spotify.com/album/5wb3Aa6Q3iFieGD9zhSgnd) | 3:26 | 2022-07-15 | 2022-09-03 |
@@ -33,7 +34,7 @@
 | [De Ladrillo a Ladrillo](https://open.spotify.com/track/2V3zb4cQ9uUUlD1817CKLH) | [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ) | [El Traje Naranja](https://open.spotify.com/album/2TbFYhfR18s3thSXeswrjD) | 2:57 | 2022-07-15 |  |
 | [Del Area 209 \(En Vivo\)](https://open.spotify.com/track/4N73Woetk9Gm4dbJyZgPWh) | [Bajo Perfil](https://open.spotify.com/artist/04CzckYeljqT6be7fR954D) | [Del Area 209 \(En Vivo\)](https://open.spotify.com/album/06TdmgUOV5suuNrSF0Wu77) | 2:23 | 2022-07-15 | 2022-08-06 |
 | [Dinero, Fama y Poder](https://open.spotify.com/track/6DVZzhCzexaB2Bs73c7CM3) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Dinero, Fama y Poder](https://open.spotify.com/album/0trMnLMQ6UW9XiOkwqLrhL) | 2:34 | 2022-08-29 |  |
-| [DOCTOR DEL BARRIO](https://open.spotify.com/track/4qYYPkAWSwCnOEvvRrNaWj) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [DOCTOR DEL BARRIO](https://open.spotify.com/album/655hE0RKEAe5CkBJ2USxwf) | 2:21 | 2022-09-02 |  |
+| [DOCTOR DEL BARRIO](https://open.spotify.com/track/4qYYPkAWSwCnOEvvRrNaWj) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [DOCTOR DEL BARRIO](https://open.spotify.com/album/655hE0RKEAe5CkBJ2USxwf) | 2:21 | 2022-09-02 | 2022-09-17 |
 | [Don Javier](https://open.spotify.com/track/67itWL3fAichn37PsSmIBp) | [Los Parras](https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp), [Jesús Ojeda y Sus Parientes](https://open.spotify.com/artist/3DVNivnmWy2nzzIneVr4Yk) | [Don Javier](https://open.spotify.com/album/1A3iSOAxrkPLr7RvUm52Cg) | 3:02 | 2022-07-15 | 2022-08-09 |
 | [Don R](https://open.spotify.com/track/2qkzRsnFh9bPtN4On5wcxK) | [Grupo Delta Norteño](https://open.spotify.com/artist/3sHpO1q6h5hNmEhhXtR7ZG) | [Don R](https://open.spotify.com/album/0rugpaMoxTJCQrOjp0nhlL) | 2:29 | 2022-07-15 |  |
 | [El 48 100k](https://open.spotify.com/track/4FNXVJlR2SWgLnWzIGkEGK) | [Nuevo Armamento](https://open.spotify.com/artist/4o79cu081HcLofFuq2eKy8) | [El 48 100k](https://open.spotify.com/album/4a7tinJzbB87g2qp8KWCxX) | 3:34 | 2022-07-15 | 2022-07-30 |

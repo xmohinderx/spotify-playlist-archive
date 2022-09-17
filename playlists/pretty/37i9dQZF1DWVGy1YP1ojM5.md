@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 
 > Sensual silky sounds for the sheets.
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,785 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 385,884 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 | 20 | [Touch Me](https://open.spotify.com/track/4U9gm9Icd8rzJoVb8siDED) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR](https://open.spotify.com/album/6aW67R0sshdUwtbJEG2uQR) | 3:11 |
 | 21 | [Stars In The Sky \(feat\. Jhené Aiko\)](https://open.spotify.com/track/4gKCKkQbtejYebL9Km5cu1) | [Phora](https://open.spotify.com/artist/5XDJlfdfbGNJrOJJNxTcdq), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Stars In The Sky \(feat\. Jhené Aiko\)](https://open.spotify.com/album/1RdBxItI4IlFJkHuoaT16y) | 4:13 |
 | 22 | [Skin Tight \(feat\. Steve Lacy\)](https://open.spotify.com/track/5qrPtPZ0o6pXIwdJrzASTs) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Skin Tight \(feat\. Steve Lacy\)](https://open.spotify.com/album/26eVDoCWYUMJ42dEAlsgDe) | 3:47 |
-| 23 | [Face Down](https://open.spotify.com/track/78XffyRIuVtqiYAZY6VzyW) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL), [OG Parker](https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I) | [Face Down](https://open.spotify.com/album/4HHcIQeI1O1QouiYCzROZN) | 2:48 |
-| 24 | [Better Than I Imagined \(Feat\. H.E.R\. & Meshell Ndegeocello\)](https://open.spotify.com/track/04vYVsWbhkQaTLx2kgVNks) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [Better Than I Imagined \(Feat\. H.E.R\. & Meshell Ndegeocello\)](https://open.spotify.com/album/2AS4H3CIUtrIzrK1UbsvWW) | 4:59 |
+| 23 | [Better Than I Imagined \(Feat\. H.E.R\. & Meshell Ndegeocello\)](https://open.spotify.com/track/04vYVsWbhkQaTLx2kgVNks) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [Better Than I Imagined \(Feat\. H.E.R\. & Meshell Ndegeocello\)](https://open.spotify.com/album/2AS4H3CIUtrIzrK1UbsvWW) | 4:59 |
+| 24 | [Face Down](https://open.spotify.com/track/78XffyRIuVtqiYAZY6VzyW) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL), [OG Parker](https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I) | [Face Down](https://open.spotify.com/album/4HHcIQeI1O1QouiYCzROZN) | 2:48 |
 | 25 | [single af](https://open.spotify.com/track/3LcFNj04sHJson5SIrRPAe) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [single af](https://open.spotify.com/album/0NVib4XqpW1Yx4nOtbCDyh) | 3:06 |
 | 26 | [Tweety](https://open.spotify.com/track/2NDMLu8ZNrAsAsPAoW5VOx) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Tweety](https://open.spotify.com/album/275j6uhDFzJkQZEaRcZZ0T) | 3:52 |
 | 27 | [My World](https://open.spotify.com/track/5wXQFi7alwkKVf7PdYb3Co) | [Asiahn](https://open.spotify.com/artist/1mKtlPrXjWK6oIdk9cSOjs) | [The Interlude](https://open.spotify.com/album/6bZ7XNBJFwmpOdAp9xZkoX) | 3:11 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 | 40 | [Me & Mrs\. Wong](https://open.spotify.com/track/1f4azUUkHGvH43cbnp1Mca) | [Slodown](https://open.spotify.com/artist/3bdade2XqS9F4378nhCNcl), [Dumbfoundead](https://open.spotify.com/artist/7LTShHcq1KdTrWeLvWoYed) | [Under The Rose](https://open.spotify.com/album/4AftlAP5Qsw1CJAyRDz3rT) | 3:50 |
 | 41 | [Slow Down](https://open.spotify.com/track/5nRm6kz4ntiBGtygxGg5Dy) | [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [Slow Down](https://open.spotify.com/album/4iDt95eDvKRfuf8fsVXNzl) | 3:48 |
 | 42 | [Alone](https://open.spotify.com/track/6t5cacQjKUVzNqN4kJSaV2) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [The Shave Experiment \(Director's Cut\)](https://open.spotify.com/album/6Q3iHNU0fOwOxoCvyteue0) | 2:15 |
-| 43 | [Lucky](https://open.spotify.com/track/6SHuwpzmG1QRujJggCOiOP) | [Njomza](https://open.spotify.com/artist/3zOUpziwcfY2bCh4VyJ4Am) | [Lucky](https://open.spotify.com/album/1mTpH3zLPA4hiN8KUsHe0k) | 3:22 |
-| 44 | [Lucky Me](https://open.spotify.com/track/0Ztok1tyr8YbgTi6iUJM9X) | [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ), [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [Lucky Me](https://open.spotify.com/album/34Kos9rX5MrGc0MXDnOZ2K) | 3:42 |
+| 43 | [Lucky Me](https://open.spotify.com/track/0Ztok1tyr8YbgTi6iUJM9X) | [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ), [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [Lucky Me](https://open.spotify.com/album/34Kos9rX5MrGc0MXDnOZ2K) | 3:42 |
+| 44 | [Lucky](https://open.spotify.com/track/6SHuwpzmG1QRujJggCOiOP) | [Njomza](https://open.spotify.com/artist/3zOUpziwcfY2bCh4VyJ4Am) | [Lucky](https://open.spotify.com/album/1mTpH3zLPA4hiN8KUsHe0k) | 3:22 |
 | 45 | [Know My Place](https://open.spotify.com/track/0V4htNEkO8aPlPSZZ5XHdx) | [Nápoles](https://open.spotify.com/artist/3Dobjv7S9rOSiQMb1Jjnk1) | [Know My Place](https://open.spotify.com/album/4ElozCyJA6lnyll0H4FdTR) | 2:43 |
 | 46 | [Caught Up](https://open.spotify.com/track/2Bm2pjLh2wlYwZ4nrcY6wU) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Caught Up](https://open.spotify.com/album/2h8lT0Ffh2eHz87LXY40v2) | 2:12 |
 | 47 | [TOO SWEET \(feat\. Unknown Mortal Orchestra\)](https://open.spotify.com/track/60lNUvQVzMnORIJvDEZG8Z) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL), [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [BEFORE WE GO](https://open.spotify.com/album/1MnOpmiIDEfloQektuOGkr) | 3:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 | 49 | [City Girl](https://open.spotify.com/track/7HaAuZBOJTp0bpZPnccBUm) | [Ari PenSmith](https://open.spotify.com/artist/4e8ULyN5otwmBHxanRiBnP), [Jonah Christian](https://open.spotify.com/artist/6pDfhbJGBQJ22SvibycTYb) | [City Girl](https://open.spotify.com/album/6Yb2iAl9GFYc0QjurOGgsn) | 2:39 |
 | 50 | [Heaven](https://open.spotify.com/track/1OOZ7HK33XptwtvGuKmb5s) | [Amaal](https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz) | [Milly](https://open.spotify.com/album/0ybPRt9okiivYSRzyyv1Yd) | 3:03 |
 
-Snapshot ID: `MTY2MjY5NjQ4MywwMDAwMDAwMDAyMWVlNzRmMTJlMTdlMDI2MWRjN2JmODY2MjMwNDA2`
+Snapshot ID: `MTY2MjY5NjQ4MywwMDAwMDAwMGUyZjdhMzc2MmFlMzBiNjU0YmFjYzE5N2Q4ZGQ0NjQy`

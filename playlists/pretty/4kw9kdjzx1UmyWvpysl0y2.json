@@ -1,13 +1,53 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127244,
+  "num_followers": 127243,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzYyNSw2ZjQyZmU2NTdmNTkxODZlMjUzZWRkODAzMmExMmJiMjgzZGRlZmVj",
+  "snapshot_id": "MzYzMSxmN2ZkYTJlMTQ5ZTYxM2YyMmY2MjFkMDdiYzU2M2Q0MjNiOWM1NDI5",
   "tracks": [
+    {
+      "added_at": "2022-09-16 16:45:32",
+      "album": {
+        "name": "IM25",
+        "url": "https://open.spotify.com/album/6YEjK95sgoXQn1yGbYjHsp"
+      },
+      "artists": [
+        {
+          "name": "Infected Mushroom",
+          "url": "https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI"
+        },
+        {
+          "name": "May Sfadia",
+          "url": "https://open.spotify.com/artist/4Bl08QHOgjjt8Hcg53iq0j"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Zazim Beyhad (We Move Together)",
+      "url": "https://open.spotify.com/track/2CAejyWEtCiscWvgvCYSDK"
+    },
+    {
+      "added_at": "2022-09-16 16:45:19",
+      "album": {
+        "name": "I Love You",
+        "url": "https://open.spotify.com/album/4mk78tvVOFI787pk2SsYMs"
+      },
+      "artists": [
+        {
+          "name": "Direct",
+          "url": "https://open.spotify.com/artist/5eOyDcFvvdc7D7BD6gCdsi"
+        },
+        {
+          "name": "Harvey",
+          "url": "https://open.spotify.com/artist/4p5OJUjMqi3l98prXVbGC9"
+        }
+      ],
+      "duration_ms": 182686,
+      "name": "I Love You",
+      "url": "https://open.spotify.com/track/4HPbP9zVWY7f0Ji5Y6cL6y"
+    },
     {
       "added_at": "2022-09-15 16:50:21",
       "album": {
@@ -1063,82 +1103,6 @@
       "duration_ms": 214500,
       "name": "Parhelion",
       "url": "https://open.spotify.com/track/15wsMaJCE6nZQgpivhk46A"
-    },
-    {
-      "added_at": "2022-07-07 16:37:29",
-      "album": {
-        "name": "A Cookie From Space",
-        "url": "https://open.spotify.com/album/1QbTncSh1e7wfVvJXLEX4G"
-      },
-      "artists": [
-        {
-          "name": "Infected Mushroom",
-          "url": "https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI"
-        },
-        {
-          "name": "Bliss",
-          "url": "https://open.spotify.com/artist/5kCxDwD2rjY6lKSGdAW7Lk"
-        }
-      ],
-      "duration_ms": 619715,
-      "name": "A Cookie From Space",
-      "url": "https://open.spotify.com/track/7q2h3i7mn0mpO847Yo4rUC"
-    },
-    {
-      "added_at": "2022-07-05 14:52:49",
-      "album": {
-        "name": "Daisies",
-        "url": "https://open.spotify.com/album/37kDHVg9VwJgW5fbKkwzls"
-      },
-      "artists": [
-        {
-          "name": "yetep",
-          "url": "https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC"
-        },
-        {
-          "name": "Olmos",
-          "url": "https://open.spotify.com/artist/60cVbnHVILVFAO7tl3crPV"
-        }
-      ],
-      "duration_ms": 219870,
-      "name": "Daisies",
-      "url": "https://open.spotify.com/track/67k9neQm9nlnMnejMpRXSN"
-    },
-    {
-      "added_at": "2022-07-04 17:16:28",
-      "album": {
-        "name": "Grimoire",
-        "url": "https://open.spotify.com/album/5PnPerL51mnpKq9HOo7vS0"
-      },
-      "artists": [
-        {
-          "name": "Caster",
-          "url": "https://open.spotify.com/artist/4z7OnrBHTHdfpjNKl7NGox"
-        }
-      ],
-      "duration_ms": 231017,
-      "name": "Grimoire",
-      "url": "https://open.spotify.com/track/7fa5wc6BKbAvEHrV2muKGx"
-    },
-    {
-      "added_at": "2022-07-01 05:06:36",
-      "album": {
-        "name": "Moment",
-        "url": "https://open.spotify.com/album/4RZPytmLloX8b4U8MuKZT8"
-      },
-      "artists": [
-        {
-          "name": "Athena",
-          "url": "https://open.spotify.com/artist/35e9lLLCAkexOFe3m0pK0W"
-        },
-        {
-          "name": "smle",
-          "url": "https://open.spotify.com/artist/1JV42BPeocUJ0EyQh8ug6V"
-        }
-      ],
-      "duration_ms": 162525,
-      "name": "Moment",
-      "url": "https://open.spotify.com/track/0NWoUXhNcS7vih0UUkF5IT"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

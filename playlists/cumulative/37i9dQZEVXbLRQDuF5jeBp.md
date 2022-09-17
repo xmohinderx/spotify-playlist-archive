@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- USA.
 
-2,299 songs - 5 day 6 hr 25 min - [published](https://open.spotify.com/playlist/4luieFDtvEoTyoNndcCLdN)
+2,300 songs - 5 day 6 hr 29 min - [published](https://open.spotify.com/playlist/4luieFDtvEoTyoNndcCLdN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -603,6 +603,7 @@
 | [Está Dañada](https://open.spotify.com/track/6G2xXQRSZlEzYsUEb3uvuR) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Alma Vacía](https://open.spotify.com/album/4DmITPOATTsiWEWtJrPqkk) | 3:34 | 2021-10-13 | 2021-10-30 |
 | [Euthanasia](https://open.spotify.com/track/7JyFwJC3uRpiNfq7oKafgn) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 2:25 | 2022-06-04 | 2022-06-07 |
 | [Even Though I'm Leaving](https://open.spotify.com/track/5aZQrb2TXWEh9uZR4HEY3r) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Is What You Get](https://open.spotify.com/album/1LVNYhjG7hkowdUwgwOdXj) | 3:45 | 2019-11-10 | 2019-11-11 |
+| [Evergreen \(You Didn’t Deserve Me At All\)](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 | 2022-09-16 |  |
 | [Everlong](https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Colour And The Shape](https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv) | 4:10 | 2022-03-27 | 2022-03-30 |
 | [evermore \(feat\. Bon Iver\)](https://open.spotify.com/track/0AaV4MJrgmLV3XhoiWXjjb) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [evermore](https://open.spotify.com/album/5jmVg7rwRcgd6ARPAeYNSm) | 5:04 | 2020-12-13 | 2020-12-19 |
 | [Every Angel is Terrifying](https://open.spotify.com/track/3vJcz8exedHCjQ9ed95NqU) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 2:47 | 2022-01-08 | 2022-01-13 |
@@ -1833,7 +1834,7 @@
 | [Static](https://open.spotify.com/track/4OmfWzukSVD140NiAIEjem) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 2:36 | 2022-07-16 |  |
 | [Status \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/6KhmSJf9FvdAcq1tr8LcYD) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Good Intentions](https://open.spotify.com/album/0jk3nAmtiIfwLU4CvDDMaS) | 2:54 | 2020-05-10 | 2020-05-11 |
 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [STAY \(with Justin Bieber\)](https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ) | 2:21 | 2021-07-11 | 2021-07-25 |
-| [STAY \(with Justin Bieber\)](https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [F\*CK LOVE 3: OVER YOU](https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2) | 2:21 | 2021-07-25 |  |
+| [STAY \(with Justin Bieber\)](https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [F\*CK LOVE 3: OVER YOU](https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2) | 2:21 | 2021-07-25 | 2022-09-17 |
 | [Stay Alive \(Prod\. SUGA of BTS\)](https://open.spotify.com/track/7CAdT0HdiQNlt1C7xk2hep) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Stay Alive \(Prod\. SUGA of BTS\)](https://open.spotify.com/album/6nvSZLAsbg56fGSCVm8fL9) | 3:30 | 2022-02-12 | 2022-02-14 |
 | [Stay High](https://open.spotify.com/track/1AnkdcHl86kEhDvhaKDuIe) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Legends Never Die](https://open.spotify.com/album/1R6vbGGXSEZZmTGn7ewwRL) | 2:48 | 2020-07-12 | 2020-07-26 |
 | [Stay High \- Childish Gambino Version](https://open.spotify.com/track/6LmNmPxViPRou1YAvyg1OS) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Jaime \(Reimagined\)](https://open.spotify.com/album/5FwiNeZyBHQXH1ppbXqxe0) | 3:38 | 2021-07-25 | 2021-07-26 |

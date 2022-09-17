@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHqd3RfK9kX.md) - [plain]
 
 > Il sound giusto per creare in cucina!
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,651 likes - 80 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,658 likes - 80 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHqd3RfK9kX.md) - [plain]
 | 11 | [Candela](https://open.spotify.com/track/1eHGsCdAWh1Ffowzacpfoi) | [Buena Vista Social Club](https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW) | [Buena Vista Social Club](https://open.spotify.com/album/6DPdEaZ0KDBCCgXyy4q8bi) | 5:27 |
 | 12 | [Bossa For Sol](https://open.spotify.com/track/5i8wZCyQ2DQT7RiUUVeHfF) | [Rua Do Sol](https://open.spotify.com/artist/6H6xSboY4n7uDxqgRaBBL4) | [Traveler](https://open.spotify.com/album/5sI1NOyb5qvkUHaZTxYDYo) | 2:46 |
 | 13 | [El Día De Mi Suerte](https://open.spotify.com/track/7Kmfjms3yyhg2y56mN7EfZ) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Lo Mato](https://open.spotify.com/album/4TzXeIsjyPLaNvgOd84bwr) | 5:28 |
-| 14 | [Só Danço Samba](https://open.spotify.com/track/5je0CDv1Z1hT82Nek1Fjhl) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Luiz Bonfá](https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb) | [Jazz Samba Encore!](https://open.spotify.com/album/1JDkIxq4xRW7ySH89sGflc) | 3:36 |
-| 15 | [Chove Chuva](https://open.spotify.com/track/6mTfOxORhYlpnTvm7VrL6b) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Samba Esquema Novo](https://open.spotify.com/album/3xWp6y0HGsHZlXljNs7VRy) | 3:04 |
+| 14 | [Chove Chuva](https://open.spotify.com/track/6mTfOxORhYlpnTvm7VrL6b) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Samba Esquema Novo](https://open.spotify.com/album/3xWp6y0HGsHZlXljNs7VRy) | 3:04 |
+| 15 | [Só Danço Samba](https://open.spotify.com/track/5je0CDv1Z1hT82Nek1Fjhl) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Luiz Bonfá](https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb) | [Jazz Samba Encore!](https://open.spotify.com/album/1JDkIxq4xRW7ySH89sGflc) | 3:36 |
 | 16 | [Bossa de Leblon](https://open.spotify.com/track/3Ct1gUurY7Wp0UAylTAnxW) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV) | [Guitarras Latinas](https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD) | 4:01 |
 | 17 | [\(What A\) Wonderful World](https://open.spotify.com/track/7N15WWy12QAMpGAh6QMAej) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [The Best of Sam Cooke](https://open.spotify.com/album/2Dpw2XUAsBvuNdNLarNzz8) | 2:09 |
 | 18 | [I Get The Sweetest Feeling](https://open.spotify.com/track/7F1eoVZd2ySSJ70iP3PN1m) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [I Get The Sweetest Feeling](https://open.spotify.com/album/35PUYxZnmBjyVSbw5ictX6) | 2:58 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHqd3RfK9kX.md) - [plain]
 | 51 | [You Really Got a Hold on Me](https://open.spotify.com/track/1kz3vwmLiBlW3A73exQSNx) | [Percy Sledge](https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO) | [Warm & Tender Soul](https://open.spotify.com/album/2PDg8ZGUuCxr0PQ7eyY750) | 2:53 |
 | 52 | [Guajira guantanamera](https://open.spotify.com/track/2Vy9F0mp0gcj9NxzfVDcQm) | [Compay Segundo](https://open.spotify.com/artist/2wpr4ILskkRzPBGodmbMs1) | [Coleccion](https://open.spotify.com/album/4JnzA5hRujlF3yG3OeOltp) | 5:12 |
 | 53 | [Wanna Be](https://open.spotify.com/track/5GjisoOfsN8qagrax01T4y) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Hive Mind](https://open.spotify.com/album/27ThgFMUAx3MXLQ297DzWF) | 4:27 |
-| 54 | [O Bêbado e a Equilibrista](https://open.spotify.com/track/3bgRCx8adxUZT7It3ryrWU) | [João Bosco](https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH), [Angela Maria](https://open.spotify.com/artist/4SKChJZZUJd8fD4ZbkpL6l) | [Linha De Passe](https://open.spotify.com/album/5hP8pHRsoC1ySE4wVc9wcH) | 3:20 |
-| 55 | [Beggin' \- 2007 Remaster](https://open.spotify.com/track/4LQtQV5HHTdVBCBJYaEuUr) | [Frankie Valli & The Four Seasons](https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou) | [Jersey Beat: The Music Of Frankie Valli and The Four Seasons](https://open.spotify.com/album/0sEAJ8QdJQPRNL2km3NYqg) | 2:48 |
+| 54 | [Beggin' \- 2007 Remaster](https://open.spotify.com/track/4LQtQV5HHTdVBCBJYaEuUr) | [Frankie Valli & The Four Seasons](https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou) | [Jersey Beat: The Music Of Frankie Valli and The Four Seasons](https://open.spotify.com/album/0sEAJ8QdJQPRNL2km3NYqg) | 2:48 |
+| 55 | [O Bêbado e a Equilibrista](https://open.spotify.com/track/3bgRCx8adxUZT7It3ryrWU) | [João Bosco](https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH), [Angela Maria](https://open.spotify.com/artist/4SKChJZZUJd8fD4ZbkpL6l) | [Linha De Passe](https://open.spotify.com/album/5hP8pHRsoC1ySE4wVc9wcH) | 3:20 |
 | 56 | [Bebete Vãobora](https://open.spotify.com/track/3vST7tho4iT90949PEtM7i) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Jorge Ben](https://open.spotify.com/album/3V3XJ3Sh62jPUYUMSQ1Tsf) | 2:35 |
 | 57 | [Saudade Vem Correndo](https://open.spotify.com/track/3QxAadrRx8aSEVd6Qzr8KF) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Luiz Bonfá](https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb), [Maria Toledo](https://open.spotify.com/artist/6snRLiVZyEVuH73LLGamvi) | [Jazz Samba Encore!](https://open.spotify.com/album/1JDkIxq4xRW7ySH89sGflc) | 3:39 |
 | 58 | [A Rã](https://open.spotify.com/track/0vZwdJBXOGppAMLjwDUNWg) | [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi) | [Blue Note Trip 7: Birds / Beats](https://open.spotify.com/album/6Z4rwujDTEf2nBEc0eZqJF) | 2:15 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHqd3RfK9kX.md) - [plain]
 | 61 | [Elsa](https://open.spotify.com/track/04ZstZIjwSRoXAGix50GPT) | [Los Destellos](https://open.spotify.com/artist/2xfdrsA1TWrKlaEfQQbbmf) | [Mundial....](https://open.spotify.com/album/3gT44BsjTWWgIZvItinJSH) | 3:40 |
 | 62 | [De Noite Na Cama](https://open.spotify.com/track/2LkrJ2aF0k50l8JNrqw4KK) | [Erasmo Carlos](https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz) | [Carlos, Erasmo \[Versão Com Bônus \(1971\)\]](https://open.spotify.com/album/2qimhNvbQmkAxG9GS8wj5M) | 3:17 |
 | 63 | [In The Morning](https://open.spotify.com/track/49q1cx7bCJ53daNU3lENe7) | [Jay Prince](https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj) | [CHERISH](https://open.spotify.com/album/37dn4xzwTrFIcD6pCCuAAM) | 3:32 |
-| 64 | [Você Não Presta](https://open.spotify.com/track/67sKMKtqVthTb45IAxLoZO) | [Mallu Magalhães](https://open.spotify.com/artist/1m00QT2CkW6rHi4dly8rVN) | [Vem](https://open.spotify.com/album/1Oh3hIwfnqoNUWhZ8ksB5e) | 3:55 |
-| 65 | [Bésame Mucho](https://open.spotify.com/track/1HlX3tDP7eJBs5CJx4XIIk) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Tesoros De Coleccion](https://open.spotify.com/album/5fvc3yXYkuFeutWruzxCTk) | 3:00 |
+| 64 | [Bésame Mucho](https://open.spotify.com/track/1HlX3tDP7eJBs5CJx4XIIk) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Tesoros De Coleccion](https://open.spotify.com/album/5fvc3yXYkuFeutWruzxCTk) | 3:00 |
+| 65 | [Você Não Presta](https://open.spotify.com/track/67sKMKtqVthTb45IAxLoZO) | [Mallu Magalhães](https://open.spotify.com/artist/1m00QT2CkW6rHi4dly8rVN) | [Vem](https://open.spotify.com/album/1Oh3hIwfnqoNUWhZ8ksB5e) | 3:55 |
 | 66 | [O Pato \- Ultimate Mix](https://open.spotify.com/track/5nHimcXKoQiJtKytX9Gx21) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [O Amor, O Sorriso e a Flor \(Ultimate Mix\)](https://open.spotify.com/album/31wFbkHhgPP1c8S3wYx7it) | 1:58 |
 | 67 | [Bang! Bang!](https://open.spotify.com/track/0gbeHMR4ESdykYOwWQ3PBw) | [Joe Cuba Sextet](https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj) | [Wanted Dead Or Alive \(Bang Bang Push Push Push\)](https://open.spotify.com/album/4W0zbRYPZqZgxzjQDVA63H) | 4:06 |
 | 68 | [Una De Mambo](https://open.spotify.com/track/7hN3hV0zgaqD6g6CYFezpB) | [Kelvis Ochoa](https://open.spotify.com/artist/3Q2MVC1NWIzEyUytnlFBKm) | [Curanderas](https://open.spotify.com/album/7D0DDG3yg2JAaQHNmAjNAF) | 3:36 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHqd3RfK9kX.md) - [plain]
 | 79 | [Que Beleza](https://open.spotify.com/track/0IY5lHDP46LTWfEwu66TZd) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [World Psychedelic Classics 4: Nobody Can Live Forever: The Existential Soul of Tim Maia](https://open.spotify.com/album/0q41u8oMFT9Ewr2tqGnmL8) | 3:28 |
 | 80 | [Call](https://open.spotify.com/track/4tvw503IOIq9uc0QNYVey2) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Painted](https://open.spotify.com/album/0sxfu0XUwHOtnKiZgkTQwk) | 3:31 |
 
-Snapshot ID: `MTYwNTAzNDA0MiwwMDAwMDAwMDRiNjhjZTQ4M2YwM2RkZGE0ZmEyNTA1ODE4NzMzZWE0`
+Snapshot ID: `MTYwNTAzNDA0MiwwMDAwMDAwMDlkZWE2ODY2YWQzYzY2NzQ0YTFjYWI2ZGE1YmE5Zjcx`

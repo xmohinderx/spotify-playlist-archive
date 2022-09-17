@@ -137,7 +137,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 220000,
       "name": "297 Parkside",
       "url": "https://open.spotify.com/track/2Rsie0RsUDFt3NRBM94gUM"
@@ -191,7 +191,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 158386,
       "name": "50K or Brunch",
       "url": "https://open.spotify.com/track/3Ibuz2B3qy9a6EJBdwC8UV"
@@ -1148,6 +1148,28 @@
     },
     {
       "album": {
+        "name": "Checkmate",
+        "url": "https://open.spotify.com/album/092m8BBfQD4WLKfZXkD2PI"
+      },
+      "artists": [
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        },
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170373,
+      "name": "Checkmate",
+      "url": "https://open.spotify.com/track/3KYTIo9pu84SbLL53iGew4"
+    },
+    {
+      "album": {
         "name": "Chicken N Dumplins",
         "url": "https://open.spotify.com/album/3eJJmcOAr0FVxGgQM5nUJi"
       },
@@ -1981,7 +2003,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 274848,
       "name": "FOUL",
       "url": "https://open.spotify.com/track/1vSswbc405HtunKunj9UnM"
@@ -2897,7 +2919,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 177946,
       "name": "Is What It Is",
       "url": "https://open.spotify.com/track/1hKMOXgE5jEgGPNSPerDem"
@@ -3874,6 +3896,24 @@
     },
     {
       "album": {
+        "name": "Moonshooter",
+        "url": "https://open.spotify.com/album/0e59aDltSERCndLyQwiBlb"
+      },
+      "artists": [
+        {
+          "name": "Ab-Soul",
+          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182926,
+      "name": "Moonshooter",
+      "url": "https://open.spotify.com/track/4Js5w5HGoSdv7O79RmmEXr"
+    },
+    {
+      "album": {
         "name": "Quick Escape",
         "url": "https://open.spotify.com/album/2adxeISk06Yqt7RmLgKBVt"
       },
@@ -4467,6 +4507,36 @@
       "duration_ms": 188418,
       "name": "Outside (with Joey Bada$$)",
       "url": "https://open.spotify.com/track/1es7SpekMUeMAIlG4iEJKX"
+    },
+    {
+      "album": {
+        "name": "Long Live DJ Shay",
+        "url": "https://open.spotify.com/album/0L9rBwT5kUeKlwg7HOqwUU"
+      },
+      "artists": [
+        {
+          "name": "Black Soprano Family",
+          "url": "https://open.spotify.com/artist/3s7WzrEs4FkNObqj4WyfQm"
+        },
+        {
+          "name": "Rick Hyde",
+          "url": "https://open.spotify.com/artist/5bgr1sPXFeiNuS4vARMZp1"
+        },
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        },
+        {
+          "name": "Cory Gunz",
+          "url": "https://open.spotify.com/artist/7BAaznGSsqcksud4R5ou5z"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217872,
+      "name": "Pandemic Flow",
+      "url": "https://open.spotify.com/track/4gEgs7S6XAT4dxgOXaMYJ9"
     },
     {
       "album": {
@@ -6725,6 +6795,28 @@
       "duration_ms": 267120,
       "name": "Vlad TV (feat. Stove God Cooks, Symba & Major Myjah)",
       "url": "https://open.spotify.com/track/1X1a1NKvRjNA7U0jlGTHbL"
+    },
+    {
+      "album": {
+        "name": "Walk Out (feat. DJ Premier)",
+        "url": "https://open.spotify.com/album/2pSTB0VfDjWUifm3rf9QGt"
+      },
+      "artists": [
+        {
+          "name": "Prodigy",
+          "url": "https://open.spotify.com/artist/1GwxXgEc6oxCKQ5wykWXFs"
+        },
+        {
+          "name": "DJ Premier",
+          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161315,
+      "name": "Walk Out (feat. DJ Premier)",
+      "url": "https://open.spotify.com/track/1iOrYWTaQGJN3BieqlHEcX"
     },
     {
       "album": {

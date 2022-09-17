@@ -2395,7 +2395,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-12",
+      "date_removed": null,
       "duration_ms": 164952,
       "name": "Butter",
       "url": "https://open.spotify.com/track/6jjYDGxVJsWS0a5wlVF5vS"
@@ -7235,7 +7235,7 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 183956,
       "name": "I Wanna Be Yours",
       "url": "https://open.spotify.com/track/7a8GawTVgHZvBLQOh46he7"
@@ -13100,6 +13100,28 @@
     },
     {
       "album": {
+        "name": "Sangele Frate Nu Te Face",
+        "url": "https://open.spotify.com/album/4nCUpEPuE7nyUAnEAf4ewL"
+      },
+      "artists": [
+        {
+          "name": "Theo Rose",
+          "url": "https://open.spotify.com/artist/264Be2Waq137vybMlFYCnu"
+        },
+        {
+          "name": "Ian",
+          "url": "https://open.spotify.com/artist/53c7iBt9bubnmBu1CcKfoq"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178823,
+      "name": "Sangele Frate Nu Te Face",
+      "url": "https://open.spotify.com/track/3DBLUk2LjwjBak3dN3qvRz"
+    },
+    {
+      "album": {
         "name": "Merry Christmas",
         "url": "https://open.spotify.com/album/3w6QeihCf2l0zZMBLagxDj"
       },
@@ -14131,7 +14153,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 230453,
       "name": "Starboy",
       "url": "https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A new shade of Country. Cover: Charley Crockett",
+  "description": "A new shade of Country. Cover: Flatland Cavalry",
   "name": "Indigo",
   "published_playlist_ids": [
     "3YetB26RqGyFH6Ypx3VTr9"
@@ -591,10 +591,32 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 247293,
       "name": "Big Time",
       "url": "https://open.spotify.com/track/1K2Hql13Y6fcOSy2Y15qNm"
+    },
+    {
+      "album": {
+        "name": "Big Time",
+        "url": "https://open.spotify.com/album/5UsuKQY3qOMAYyuwaxH4Lx"
+      },
+      "artists": [
+        {
+          "name": "Angel Olsen",
+          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
+        },
+        {
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247666,
+      "name": "Big Time",
+      "url": "https://open.spotify.com/track/3RZ5VvBcCQgrRl8XaKZLa4"
     },
     {
       "album": {
@@ -1061,6 +1083,24 @@
       "duration_ms": 157080,
       "name": "Colorado Blues",
       "url": "https://open.spotify.com/track/2uug7N1S3J0IXW8LaytlDO"
+    },
+    {
+      "album": {
+        "name": "Comeback Kid",
+        "url": "https://open.spotify.com/album/7vs8zVEytvdxIhIsgVYWgl"
+      },
+      "artists": [
+        {
+          "name": "Town Mountain",
+          "url": "https://open.spotify.com/artist/5cudslRGWg0GsXaN79Wifs"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256053,
+      "name": "Comeback Kid",
+      "url": "https://open.spotify.com/track/1ViNv171bw5aC5rcD9MC4M"
     },
     {
       "album": {
@@ -3383,7 +3423,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 183371,
       "name": "Love You Tonight",
       "url": "https://open.spotify.com/track/6eB1ykuJXmtoJ8CmHra4ip"
@@ -3535,6 +3575,24 @@
       "duration_ms": 249920,
       "name": "Mountain Song",
       "url": "https://open.spotify.com/track/2mDdkeVuUsyIepwzLCxuu6"
+    },
+    {
+      "album": {
+        "name": "Movin' On",
+        "url": "https://open.spotify.com/album/2udPmoj4l0rBZ6HlsxQpY6"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Tyler",
+          "url": "https://open.spotify.com/artist/5p6wXe8rGh3RBbhZlLj9qU"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227498,
+      "name": "Movin' On",
+      "url": "https://open.spotify.com/track/5pVzFUkzm4MSTNwlvyaNbu"
     },
     {
       "album": {
@@ -4417,7 +4475,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 275686,
       "name": "Silver Valley",
       "url": "https://open.spotify.com/track/2FbPOBRlg3s36jfEC2vAGj"
@@ -4461,6 +4519,24 @@
       "duration_ms": 241899,
       "name": "Small Town Hypocrite",
       "url": "https://open.spotify.com/track/7Bpivl6q9y2FgSp1nr5MZ8"
+    },
+    {
+      "album": {
+        "name": "Social Skills",
+        "url": "https://open.spotify.com/album/6pQ5s6xzxHukAt8yWHxJWr"
+      },
+      "artists": [
+        {
+          "name": "John Fullbright",
+          "url": "https://open.spotify.com/artist/2CpofTykBhdsrOuy9WA3YA"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144132,
+      "name": "Social Skills",
+      "url": "https://open.spotify.com/track/0O4ydjVdSxl8WeG3w8cltv"
     },
     {
       "album": {
@@ -4819,7 +4895,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 222186,
       "name": "Texas",
       "url": "https://open.spotify.com/track/3XIfx3GzMzoEXUDF2vEbBZ"

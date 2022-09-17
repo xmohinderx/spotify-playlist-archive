@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Explore a genre bending universe centered around jazz. Cover: Butcher Brown",
+  "description": "Explore a genre bending universe centered around jazz. Cover: Braxton Cook",
   "name": "Orbit",
   "published_playlist_ids": [
     "1HzUqJHRCll2EIj4taxTFD"
@@ -343,7 +343,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 188396,
       "name": "alright",
       "url": "https://open.spotify.com/track/1Krmuryy2a0MG3SQDlxM0T"
@@ -565,7 +565,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 190153,
       "name": "better",
       "url": "https://open.spotify.com/track/3SSYNtpoHkaGs4TYux2KGH"
@@ -649,7 +649,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 175406,
       "name": "BLACK MAN",
       "url": "https://open.spotify.com/track/1rDg5VhMEq3BsUQ2PNVeFi"
@@ -861,6 +861,24 @@
       "duration_ms": 237973,
       "name": "Breathe In",
       "url": "https://open.spotify.com/track/1mdJafthfNamlzyZayaOVM"
+    },
+    {
+      "album": {
+        "name": "Butcher Brown Presents Triple Trey",
+        "url": "https://open.spotify.com/album/6KPa5VJzFraZ3RUZksMb23"
+      },
+      "artists": [
+        {
+          "name": "Butcher Brown",
+          "url": "https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204093,
+      "name": "Breevin\u2019",
+      "url": "https://open.spotify.com/track/3gtXEtHVTc6uBytakGwrUq"
     },
     {
       "album": {
@@ -1281,7 +1299,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 212388,
       "name": "Code Green",
       "url": "https://open.spotify.com/track/14Vu90dQFVyiUBvlMrl1uK"
@@ -1794,6 +1812,32 @@
     },
     {
       "album": {
+        "name": "Down This Path",
+        "url": "https://open.spotify.com/album/47pnzCgYCKlZpp5MfzDAQW"
+      },
+      "artists": [
+        {
+          "name": "Edmund Paquin",
+          "url": "https://open.spotify.com/artist/1sj2E6vznD7CD6tbImjcOh"
+        },
+        {
+          "name": "Lofty",
+          "url": "https://open.spotify.com/artist/0WgGNGfn5nr4B1d5nhn4r0"
+        },
+        {
+          "name": "Owen Chow",
+          "url": "https://open.spotify.com/artist/5KINTUf4vKBPacOKbjV7R7"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202075,
+      "name": "Down This Path",
+      "url": "https://open.spotify.com/track/0lpVYjvv6KxqIK2tzjxURU"
+    },
+    {
+      "album": {
         "name": "Down to Earth",
         "url": "https://open.spotify.com/album/4smcIFiMaa5cnFpLIwX4OB"
       },
@@ -2141,6 +2185,28 @@
       "duration_ms": 233696,
       "name": "Fix It",
       "url": "https://open.spotify.com/track/6A4IsE49xSN07NqbXiUMFc"
+    },
+    {
+      "album": {
+        "name": "Flavour",
+        "url": "https://open.spotify.com/album/3iaJaxFS5BF00zRD1AIzCD"
+      },
+      "artists": [
+        {
+          "name": "Arjuna Oakes",
+          "url": "https://open.spotify.com/artist/724Bei6TsAHJYvnLHGdEAF"
+        },
+        {
+          "name": "Serebii",
+          "url": "https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194374,
+      "name": "Flavour",
+      "url": "https://open.spotify.com/track/1rD65i5JVAK5xOthYiPXok"
     },
     {
       "album": {
@@ -2624,6 +2690,24 @@
     },
     {
       "album": {
+        "name": "Head Over Heels",
+        "url": "https://open.spotify.com/album/3Z8cqJPS7K0QjNhc2f3IWv"
+      },
+      "artists": [
+        {
+          "name": "Apollo Bebop",
+          "url": "https://open.spotify.com/artist/5Ar4PuRM6i2krbQ8QduUFG"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159130,
+      "name": "Head Over Heels",
+      "url": "https://open.spotify.com/track/6Na5SH1jPHninkLsfn8ADB"
+    },
+    {
+      "album": {
         "name": "HAN",
         "url": "https://open.spotify.com/album/5lNkWEQ3JI2nrJL07xjbTh"
       },
@@ -3035,7 +3119,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 135000,
       "name": "Joint 3",
       "url": "https://open.spotify.com/track/3E0qbzENHXGixehNHr6Hsr"
@@ -3886,6 +3970,24 @@
     },
     {
       "album": {
+        "name": "No Regrets",
+        "url": "https://open.spotify.com/album/1nG5HOKAHkjfKat3fvNOek"
+      },
+      "artists": [
+        {
+          "name": "Kieron Boothe",
+          "url": "https://open.spotify.com/artist/5lQKyehhkfirgUVh9U0k0W"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179253,
+      "name": "No Regrets",
+      "url": "https://open.spotify.com/track/22EVXdUTZEN5N9AFHoSYPb"
+    },
+    {
+      "album": {
         "name": "Process",
         "url": "https://open.spotify.com/album/5Wj92R0pQY8wgncGuEAD2h"
       },
@@ -4015,7 +4117,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 189677,
       "name": "Odyssey",
       "url": "https://open.spotify.com/track/09zdQ3gVrTRkDx5AXmBoUO"
@@ -4897,7 +4999,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 190192,
       "name": "Shelter",
       "url": "https://open.spotify.com/track/2szKOGtUOfm9cg4dkiIA6x"
@@ -5145,6 +5247,24 @@
       "duration_ms": 206637,
       "name": "Spirit Speak",
       "url": "https://open.spotify.com/track/1d5iBVkBll0xhKH0jk9qaj"
+    },
+    {
+      "album": {
+        "name": "Black Mona Lisa",
+        "url": "https://open.spotify.com/album/1FFEcyvXKJQEJ78DK2knZg"
+      },
+      "artists": [
+        {
+          "name": "Braxton Cook",
+          "url": "https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209076,
+      "name": "Statistics",
+      "url": "https://open.spotify.com/track/4MhO110MAsJJfTqwv5EVKY"
     },
     {
       "album": {
@@ -5866,6 +5986,24 @@
     },
     {
       "album": {
+        "name": "Till I'm Ghost",
+        "url": "https://open.spotify.com/album/7AStAo6VRvwxCMsckF4aB2"
+      },
+      "artists": [
+        {
+          "name": "Warner Meadows",
+          "url": "https://open.spotify.com/artist/0FzMywSPPmb2hqv2gvcIFk"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203758,
+      "name": "Till I'm Ghost",
+      "url": "https://open.spotify.com/track/3xhhaNc4ll9z7KdaHMDaek"
+    },
+    {
+      "album": {
         "name": "NU NU",
         "url": "https://open.spotify.com/album/1TCQSxwN2JldGR9jD0x2m2"
       },
@@ -6223,6 +6361,28 @@
       "duration_ms": 129287,
       "name": "waiting all night - A.N.T.E Remix A.N.T.E Remix",
       "url": "https://open.spotify.com/track/1Lqe4dwE7iDeDxkMrbdhoS"
+    },
+    {
+      "album": {
+        "name": "Watching Me / Energy",
+        "url": "https://open.spotify.com/album/0niOnhlSQAnnTuqIQDvBcu"
+      },
+      "artists": [
+        {
+          "name": "Sly5thAve",
+          "url": "https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi"
+        },
+        {
+          "name": "JSWISS",
+          "url": "https://open.spotify.com/artist/4Gvi0aCKhLNHWzHnhvV1e4"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250129,
+      "name": "Watching Me",
+      "url": "https://open.spotify.com/track/3xY1Aje8Jkur905F4XKgTx"
     },
     {
       "album": {

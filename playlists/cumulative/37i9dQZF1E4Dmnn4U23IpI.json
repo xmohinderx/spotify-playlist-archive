@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-01",
-  "description": "With Dream Fiend, September 87, IndiGhost and more",
+  "description": "With IndiGhost, Maxthor, n8walker and more",
   "name": "The Midnight Radio",
   "published_playlist_ids": [
     "2T4bEFEfvvK4qvB1iHmD1n"
@@ -77,7 +77,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-09",
+      "date_removed": null,
       "duration_ms": 209500,
       "name": "1984",
       "url": "https://open.spotify.com/track/1mNU4DPNqZ8eSboAlpwEsd"
@@ -1449,7 +1449,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-06",
+      "date_removed": null,
       "duration_ms": 239000,
       "name": "Artifact",
       "url": "https://open.spotify.com/track/5ucZXugbbzRvVTLhqejnvv"
@@ -2585,7 +2585,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-13",
+      "date_removed": null,
       "duration_ms": 253448,
       "name": "Bright Lights",
       "url": "https://open.spotify.com/track/1bIQXObn7Mra0f7cp63GtQ"
@@ -2831,7 +2831,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-11",
+      "date_removed": null,
       "duration_ms": 147692,
       "name": "Calling Back Tonight",
       "url": "https://open.spotify.com/track/7zsTeCQtZRUVYKT9miLaLc"
@@ -3355,7 +3355,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-15",
+      "date_removed": null,
       "duration_ms": 344516,
       "name": "Come Alive",
       "url": "https://open.spotify.com/track/3nBQY9Y6KCA544jCILsMGK"
@@ -3373,7 +3373,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 317109,
       "name": "Comet (Bonus Track)",
       "url": "https://open.spotify.com/track/4HHOLKcCb52sm5FCJWGU6u"
@@ -4373,7 +4373,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": "2022-09-16",
+      "date_removed": null,
       "duration_ms": 296546,
       "name": "Devil Make a Deal",
       "url": "https://open.spotify.com/track/0p4rVpy5DAL6JIIneGUugm"
@@ -4623,7 +4623,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-06",
+      "date_removed": null,
       "duration_ms": 332158,
       "name": "Don't Fear the Sun",
       "url": "https://open.spotify.com/track/3Odolk2vCbIRBHC7PhQRCp"
@@ -7221,7 +7221,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 289897,
       "name": "Gloria",
       "url": "https://open.spotify.com/track/2R3v2gnBITuIi5yfuEHMnQ"
@@ -7459,7 +7459,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 217153,
       "name": "Growing Apart",
       "url": "https://open.spotify.com/track/5MJ0dvRaRU2RWdpVFWP4jm"
@@ -7477,7 +7477,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 183529,
       "name": "Gunstar",
       "url": "https://open.spotify.com/track/099wbUowjRErelSCqD6aDd"
@@ -8679,7 +8679,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-05",
+      "date_removed": null,
       "duration_ms": 224913,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/5g8PS58Kq2tecJH972heC1"
@@ -9529,7 +9529,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 242498,
       "name": "Just Fine",
       "url": "https://open.spotify.com/track/3SZXgB9ejmmRP72dauh4Ee"
@@ -10301,7 +10301,7 @@
       ],
       "date_added": "2022-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-13",
+      "date_removed": null,
       "duration_ms": 170072,
       "name": "Like A Light - Radio Edit",
       "url": "https://open.spotify.com/track/0MlcA3NpROkJBy1bSZE5Mo"
@@ -10337,7 +10337,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 230847,
       "name": "like stars - Radio Edit",
       "url": "https://open.spotify.com/track/3r6pzoEUlxoPCJRvBcCk07"
@@ -11745,7 +11745,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-11",
+      "date_removed": null,
       "duration_ms": 399293,
       "name": "Moonwalker",
       "url": "https://open.spotify.com/track/7qTp6XCW4h6oBC6SfL7emi"
@@ -12025,7 +12025,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-16",
+      "date_removed": null,
       "duration_ms": 305466,
       "name": "Neon Medusa",
       "url": "https://open.spotify.com/track/05eH3a4zbU169X2X7PuWfM"
@@ -12061,7 +12061,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 253220,
       "name": "Neon Medusa - Edit",
       "url": "https://open.spotify.com/track/7y1WaVLlJHSpkn3Libyq7r"
@@ -12253,7 +12253,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 234345,
       "name": "Never Live Without You",
       "url": "https://open.spotify.com/track/06Mu4dzNZDxsMkFK5iAmpe"
@@ -12485,7 +12485,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-13",
+      "date_removed": null,
       "duration_ms": 184573,
       "name": "Night Skies",
       "url": "https://open.spotify.com/track/2NKPXLNPfa7jHQHl250iPz"
@@ -13795,7 +13795,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-13",
+      "date_removed": null,
       "duration_ms": 271200,
       "name": "Oxygen",
       "url": "https://open.spotify.com/track/3tDqX5PVQNSEMhI2CIq3Wf"
@@ -14181,7 +14181,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 209399,
       "name": "Pixelated",
       "url": "https://open.spotify.com/track/6IE68R9bLkl99JOeyA3akF"
@@ -14603,7 +14603,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 307545,
       "name": "Rasengan",
       "url": "https://open.spotify.com/track/05RMPtk5ybYhkuY3qjlaHa"
@@ -15281,7 +15281,7 @@
       ],
       "date_added": "2022-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 229000,
       "name": "Run",
       "url": "https://open.spotify.com/track/6AA6iCGPxTLdwEPlbIbugh"
@@ -17605,7 +17605,7 @@
       ],
       "date_added": "2022-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 268500,
       "name": "Summer Heat",
       "url": "https://open.spotify.com/track/1hFmntG7KJjeFwklRVkhUh"
@@ -17909,7 +17909,7 @@
       ],
       "date_added": "2022-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 251209,
       "name": "Synthetic Life",
       "url": "https://open.spotify.com/track/1mLfugX4HiaQtdXDvJYyu3"
@@ -18079,7 +18079,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-09",
+      "date_removed": null,
       "duration_ms": 159384,
       "name": "Takeoff",
       "url": "https://open.spotify.com/track/0arPXiG9R6d6gJokFBujIu"
@@ -18097,7 +18097,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-15",
+      "date_removed": null,
       "duration_ms": 201230,
       "name": "Takes All Night",
       "url": "https://open.spotify.com/track/1RIoZEbu440mUWBEqyMGlc"
@@ -18719,7 +18719,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 243379,
       "name": "The Last Enemy",
       "url": "https://open.spotify.com/track/0yUcOl8wcFzuUBmrlVRj9t"
@@ -19413,7 +19413,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 260210,
       "name": "Time After Time",
       "url": "https://open.spotify.com/track/1unNKc7jp1oga8FmajlKxq"
@@ -19449,7 +19449,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-06",
+      "date_removed": null,
       "duration_ms": 209280,
       "name": "Time Will Tell",
       "url": "https://open.spotify.com/track/6qdCviuIYnUxpSC8YGBN1Y"
@@ -19717,7 +19717,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 144656,
       "name": "Type",
       "url": "https://open.spotify.com/track/0EoB26L0lF8lb7bHEeXUgs"
@@ -19793,7 +19793,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-05",
+      "date_removed": null,
       "duration_ms": 285230,
       "name": "Under Control (feat. Tommy Reeve)",
       "url": "https://open.spotify.com/track/34jfOrLOEF2yO73GGbXijv"
@@ -20769,7 +20769,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 274219,
       "name": "Who You Run To",
       "url": "https://open.spotify.com/track/7gJyqHkm6sCcagFvyat3zC"
@@ -20929,7 +20929,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-05",
+      "date_removed": null,
       "duration_ms": 368168,
       "name": "Without You (feat. Tommy Reeve)",
       "url": "https://open.spotify.com/track/632WIrdZ9EkjdvURPTmORZ"
@@ -20983,7 +20983,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 280000,
       "name": "Worlds Apart",
       "url": "https://open.spotify.com/track/2BKA962NnkhUt0HwtWIv3t"

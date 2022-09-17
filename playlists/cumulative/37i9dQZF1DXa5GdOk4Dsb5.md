@@ -4,7 +4,7 @@
 
 > Para ahogar las penas en el fondo de una botella.
 
-251 songs - 13 hr 26 min - [published](https://open.spotify.com/playlist/3TYdhPxDiPoy7PDMRCl5B2)
+252 songs - 13 hr 29 min - [published](https://open.spotify.com/playlist/3TYdhPxDiPoy7PDMRCl5B2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Creo en Ti](https://open.spotify.com/track/417X6wL1dS22GIqC84qaKD) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Creo en Ti](https://open.spotify.com/album/4OAhS55Tzp3M936vF9xkga) | 2:57 | 2022-06-08 | 2022-07-27 |
 | [Creo en Ti](https://open.spotify.com/track/6HOOykUGBMv3LFsR9gObw5) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Creo en Ti](https://open.spotify.com/album/3spEvK7Mc5ITcn1SuuViNd) | 2:57 | 2022-06-08 |  |
 | [Cruz de Madera](https://open.spotify.com/track/2bX9t6jrugPfkoZ5NzyLTi) | [Los Rayos De Mexico](https://open.spotify.com/artist/2r0Q6ZtWBdaokSNqCCBR3t) | [Los Rayos de Mexico](https://open.spotify.com/album/5qs9Mlc3PJItSaLkRwzdqZ) | 3:12 | 2022-06-08 | 2022-07-27 |
+| [Cruz De Olvido](https://open.spotify.com/track/43U31uHEKbHdrvjIJuvkGa) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Mexico en la Piel \(edicion diamante\)](https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM) | 3:30 | 2022-06-08 |  |
 | [Cuando Me Tenías](https://open.spotify.com/track/4bPKM2jZ9PU1uzANyOC0G7) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Nos Divertimos Logrando Lo Imposible](https://open.spotify.com/album/5zUXAGfz0d2WXpxTeXjVSP) | 4:07 | 2022-06-08 | 2022-09-13 |
 | [Cupido Falló](https://open.spotify.com/track/42RKuMMmSjr4AX3m5RRm8L) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Cupido Falló](https://open.spotify.com/album/5dhqkA6KOXgukDTilRTAj0) | 3:17 | 2022-06-08 | 2022-07-29 |
 | [De Bar en Bar](https://open.spotify.com/track/6FVyuuLZaSBIgt5xfyrQ4F) | [Jhon Alex Castaño](https://open.spotify.com/artist/5pbzj8JGUpUCMHESd1yHFv) | [Exitos de la Cantina](https://open.spotify.com/album/5C9Os3GY90kJoiTmgWKU9O) | 2:47 | 2022-06-08 | 2022-07-28 |
@@ -97,7 +98,7 @@
 | [En el Último Trago](https://open.spotify.com/track/6i6tTUmg1i9PDwETgb5v7J) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Gracias \(with Mariachi Vargas de Tecalitlán\)](https://open.spotify.com/album/6nhkBmPqfBjoJwLMVClgxH) | 2:17 | 2022-06-08 |  |
 | [En Tu Pelo](https://open.spotify.com/track/4leHHwUSR0Vm5rjYvHhBEU) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Vida De Bohemio](https://open.spotify.com/album/0ufPamcshkfTyzmIJp9Efi) | 3:00 | 2022-06-08 |  |
 | [Entre Comillas](https://open.spotify.com/track/6HhOgGZWmN5DqqsdJGfhUK) | [Darío Gómez](https://open.spotify.com/artist/3JCyEziWwDZksR1WY8EckM) | [El Rey del Despecho \- Internacional](https://open.spotify.com/album/6MbEqKty9qMnsBtiklzbtR) | 3:10 | 2022-06-08 | 2022-07-29 |
-| [Entre Comillas](https://open.spotify.com/track/4EllcwhWBlSSbwEsZKu1eG) | [Darío Gómez](https://open.spotify.com/artist/3JCyEziWwDZksR1WY8EckM) | [El Rey del Despecho \- Internacional](https://open.spotify.com/album/4XdAY43mi3P37ptEGWI1K0) | 3:16 | 2022-06-08 |  |
+| [Entre Comillas](https://open.spotify.com/track/4EllcwhWBlSSbwEsZKu1eG) | [Darío Gómez](https://open.spotify.com/artist/3JCyEziWwDZksR1WY8EckM) | [El Rey del Despecho \- Internacional](https://open.spotify.com/album/4XdAY43mi3P37ptEGWI1K0) | 3:16 | 2022-06-08 | 2022-09-17 |
 | [Eres Mi Droga](https://open.spotify.com/track/3jWMdxA8deSoncSMcnihjJ) | [Gency Ramírez](https://open.spotify.com/artist/5UFyg4bZE7EiscLZT4SMPF) | [Eres Mi Droga](https://open.spotify.com/album/76AKJnA2e1zZYGxlebgv9F) | 3:14 | 2022-06-08 | 2022-07-29 |
 | [Esclavo y Amo](https://open.spotify.com/track/6FdA99MiSW1e18f2vEAx27) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Los Boleros Morunos Solis](https://open.spotify.com/album/5fJVD81W2XvK9a2IBHyEjq) | 2:57 | 2022-06-08 |  |
 | [Estos Celos](https://open.spotify.com/track/6u6kH7V7Tx5xDJtF82vVw0) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez Para Siempre](https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203) | 3:10 | 2022-06-08 |  |
@@ -134,7 +135,7 @@
 | [Me Atrapaste](https://open.spotify.com/track/6LgRkAObJJUQEqV41szQ0R) | [Darío Gómez](https://open.spotify.com/artist/3JCyEziWwDZksR1WY8EckM) | [Nuestro Idolo](https://open.spotify.com/album/7eLhBVsqWVafqjsprtH6wH) | 3:46 | 2022-06-08 | 2022-07-29 |
 | [Me Bebi Lo del Mercado](https://open.spotify.com/track/4AQgGqE4gfkTy3Lr80QJh5) | [Jimmy Gutierrez](https://open.spotify.com/artist/7syZwIuF9tAkKQxNQLCosV) | [Pa' las Que Sea](https://open.spotify.com/album/2hqhyjxyk4pg98zs5jclim) | 3:39 | 2022-06-08 | 2022-07-29 |
 | [Me Bebí Tu Recuerdo](https://open.spotify.com/track/4qDw65LRA3tT1ZDmghkgFA) | [Galy Galiano](https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT) | [Me Bebi Tu Recuerdo](https://open.spotify.com/album/3th8wWPqpBjw4pzGuf0OqS) | 3:19 | 2022-06-08 |  |
-| [Me Caí De La Nube](https://open.spotify.com/track/3ZLsDOTN8cFjtQ9ctntKCC) | [Cornelio Reyna](https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx) | [15 Éxitazos](https://open.spotify.com/album/5mmZxvjnPHDjasQQ1F9514) | 2:49 | 2022-06-08 | 2022-09-16 |
+| [Me Caí De La Nube](https://open.spotify.com/track/3ZLsDOTN8cFjtQ9ctntKCC) | [Cornelio Reyna](https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx) | [15 Éxitazos](https://open.spotify.com/album/5mmZxvjnPHDjasQQ1F9514) | 2:49 | 2022-06-08 |  |
 | [Me Caí de la Nube](https://open.spotify.com/track/0mfb8sbASYjzvo2FDopyzl) | [Cornelio Reyna](https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx) | [Me Cai De La Nube](https://open.spotify.com/album/1L2kAZeGLcTnNuv4IVE5Tm) | 2:55 | 2022-06-08 | 2022-07-28 |
 | [Me Da Lo Mismo](https://open.spotify.com/track/220yXgkadQ5amhAdgRAlnl) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Me Da Lo Mismo](https://open.spotify.com/album/3gyF757c6nzibRCWttR1nS) | 4:06 | 2022-06-08 |  |
 | [Me Dices Que Te Vas](https://open.spotify.com/track/6VXqzMnQikuRryFNGDNCj5) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Me Dices Que Te Vas](https://open.spotify.com/album/3S3WtNgkODlIRcqcLMwo9a) | 2:25 | 2022-06-08 | 2022-07-28 |
@@ -194,7 +195,7 @@
 | [Quererte Fue un Error](https://open.spotify.com/track/5h61BLRZDG7Jbu6CMcICdq) | [El Charrito Negro](https://open.spotify.com/artist/4e8vIrZBkqRocfY0TrT0s6) | [Mi Vida, Vol\. 1](https://open.spotify.com/album/2nyOU4QP9ba0hNUWfC2xkn) | 2:58 | 2022-06-08 | 2022-07-29 |
 | [Quién De Los Dos Será](https://open.spotify.com/track/66veRqqrxhfa1Q9088RmPS) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Mexicano Hasta Las Pampas](https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q) | 3:33 | 2022-06-08 |  |
 | [Qué de Raro Tiene](https://open.spotify.com/track/1MCzu21HiIsX4SQ0kqUpT9) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [La Historia De Un Idolo](https://open.spotify.com/album/7HgnENwYD1XHwIMdZLIkhU) | 3:19 | 2022-06-08 | 2022-07-29 |
-| [Qué Mal Te Ves Sin Mí](https://open.spotify.com/track/4lc3SmNj0FBtPGygUfeGc4) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [No Pongan Esas Canciones](https://open.spotify.com/album/0NTVddhlKzjxGdCAdWR80h) | 3:17 | 2022-06-08 |  |
+| [Qué Mal Te Ves Sin Mí](https://open.spotify.com/track/4lc3SmNj0FBtPGygUfeGc4) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [No Pongan Esas Canciones](https://open.spotify.com/album/0NTVddhlKzjxGdCAdWR80h) | 3:17 | 2022-06-08 | 2022-09-17 |
 | [Recostada en la Cama](https://open.spotify.com/track/1NZIazQ93YNlaWJEhCioFM) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Pipe Bueno](https://open.spotify.com/album/6UXWX4wfVveTCal4MwxCEk) | 3:11 | 2022-06-08 | 2022-07-29 |
 | [Renunciación](https://open.spotify.com/track/1hGx333PlqfWtTuPdyKmY6) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Rancheras](https://open.spotify.com/album/0DUcKDUj3TmpxJtoxVmhle) | 2:57 | 2022-06-08 |  |
 | [Repítela](https://open.spotify.com/track/6syqaRHW4FsOgdGgoWvAb1) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Repítela](https://open.spotify.com/album/1S3Ao9VsfFF9v8azLqaM29) | 3:29 | 2022-06-08 | 2022-07-28 |

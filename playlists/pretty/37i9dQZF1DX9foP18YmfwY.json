@@ -1,12 +1,12 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Thiago Brado",
-  "num_followers": 275907,
+  "num_followers": 275992,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjE0MTk1MywwMDAwMDAwMDBkMGY1YWQ3ZmYzMGMxMzcwYjBmYmMzYjQ5MzhiMTdl",
+  "snapshot_id": "MTY2MjE0MTk1MywwMDAwMDAwMDE1MzYxODcyNzQ0YjE5MGY0MGU1NmE4ZjEzYmVkYjhk",
   "tracks": [
     {
       "added_at": "2022-09-02 03:00:00",
@@ -295,18 +295,22 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Gratid\u00e3o",
-        "url": "https://open.spotify.com/album/2noPc51yFBvs8Zhmg9j63G"
+        "name": "Quero Nascer de Novo",
+        "url": "https://open.spotify.com/album/5m2smuppJg7pYpgVmNIFhO"
       },
       "artists": [
         {
           "name": "Aline Brasil",
           "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
+        },
+        {
+          "name": "Frei Gilson",
+          "url": "https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX"
         }
       ],
-      "duration_ms": 237000,
-      "name": "Gratid\u00e3o",
-      "url": "https://open.spotify.com/track/7HNWsPfEjtkQmxMG4FysJE"
+      "duration_ms": 370000,
+      "name": "Quero Nascer de Novo",
+      "url": "https://open.spotify.com/track/4PtTdxYMkEoOy67iRkOW1v"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -443,22 +447,18 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Quero Nascer de Novo",
-        "url": "https://open.spotify.com/album/5m2smuppJg7pYpgVmNIFhO"
+        "name": "Gratid\u00e3o",
+        "url": "https://open.spotify.com/album/2noPc51yFBvs8Zhmg9j63G"
       },
       "artists": [
         {
           "name": "Aline Brasil",
           "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
-        },
-        {
-          "name": "Frei Gilson",
-          "url": "https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX"
         }
       ],
-      "duration_ms": 370000,
-      "name": "Quero Nascer de Novo",
-      "url": "https://open.spotify.com/track/4PtTdxYMkEoOy67iRkOW1v"
+      "duration_ms": 237000,
+      "name": "Gratid\u00e3o",
+      "url": "https://open.spotify.com/track/7HNWsPfEjtkQmxMG4FysJE"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -555,6 +555,22 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
+        "name": "Esp\u00edrito da Verdade",
+        "url": "https://open.spotify.com/album/4guZ7UXX6uK21iSRk0bV2P"
+      },
+      "artists": [
+        {
+          "name": "Tony Allysson",
+          "url": "https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU"
+        }
+      ],
+      "duration_ms": 287303,
+      "name": "Se Eu Tocar",
+      "url": "https://open.spotify.com/track/5xLXpAF0N21W3CuJSfJ39R"
+    },
+    {
+      "added_at": "2022-09-02 03:00:00",
+      "album": {
         "name": "Cora\u00e7\u00e3o de Pai",
         "url": "https://open.spotify.com/album/72xUT7yjz9qGAunIC8BDWQ"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 222298,
       "name": "Cora\u00e7\u00e3o de Pai",
       "url": "https://open.spotify.com/track/2VMevRdI4SH5RxktSlH97X"
-    },
-    {
-      "added_at": "2022-09-02 03:00:00",
-      "album": {
-        "name": "Esp\u00edrito da Verdade",
-        "url": "https://open.spotify.com/album/4guZ7UXX6uK21iSRk0bV2P"
-      },
-      "artists": [
-        {
-          "name": "Tony Allysson",
-          "url": "https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU"
-        }
-      ],
-      "duration_ms": 287303,
-      "name": "Se Eu Tocar",
-      "url": "https://open.spotify.com/track/5xLXpAF0N21W3CuJSfJ39R"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Seja Bem-Vindo Jesus",
-        "url": "https://open.spotify.com/album/3FGzwFzkHg7zBriuyLpJua"
+        "name": "Reinflama",
+        "url": "https://open.spotify.com/album/2D8RWVo0qdvwm3zu8Kvt9I"
       },
       "artists": [
         {
-          "name": "Alvaro & Daniel",
-          "url": "https://open.spotify.com/artist/72DDtEqR9o0XW2lla6tiW2"
+          "name": "Flavinho",
+          "url": "https://open.spotify.com/artist/3H7Mab3ekd2nFkjy9n6co4"
         }
       ],
-      "duration_ms": 310704,
-      "name": "Seja Bem-Vindo Jesus",
-      "url": "https://open.spotify.com/track/2zjzKtTpDToXVkGLVFeHnd"
+      "duration_ms": 231796,
+      "name": "Reinflama",
+      "url": "https://open.spotify.com/track/60jwaZ07sq7shi91okXDQL"
     },
     {
       "added_at": "2022-09-02 03:00:00",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2022-09-02 03:00:00",
       "album": {
-        "name": "Reinflama",
-        "url": "https://open.spotify.com/album/2D8RWVo0qdvwm3zu8Kvt9I"
+        "name": "Seja Bem-Vindo Jesus",
+        "url": "https://open.spotify.com/album/3FGzwFzkHg7zBriuyLpJua"
       },
       "artists": [
         {
-          "name": "Flavinho",
-          "url": "https://open.spotify.com/artist/3H7Mab3ekd2nFkjy9n6co4"
+          "name": "Alvaro & Daniel",
+          "url": "https://open.spotify.com/artist/72DDtEqR9o0XW2lla6tiW2"
         }
       ],
-      "duration_ms": 231796,
-      "name": "Reinflama",
-      "url": "https://open.spotify.com/track/60jwaZ07sq7shi91okXDQL"
+      "duration_ms": 310704,
+      "name": "Seja Bem-Vindo Jesus",
+      "url": "https://open.spotify.com/track/2zjzKtTpDToXVkGLVFeHnd"
     },
     {
       "added_at": "2022-09-02 03:00:00",

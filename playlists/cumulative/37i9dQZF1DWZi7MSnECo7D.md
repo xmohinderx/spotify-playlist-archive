@@ -4,7 +4,7 @@
 
 > Novidades e destaques do indie nacional\. Foto: kamaitachi
 
-271 songs - 15 hr 31 min - [published](https://open.spotify.com/playlist/6JgS0nFYvZfSw5mDRlDbjL)
+273 songs - 15 hr 37 min - [published](https://open.spotify.com/playlist/6JgS0nFYvZfSw5mDRlDbjL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [BB \(Garupa de Moto Amarela\)](https://open.spotify.com/track/4urIUktF6jtKJhvjFU5hwy) | [Tim Bernardes](https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4) | [BB \(Garupa de Moto Amarela\)](https://open.spotify.com/album/7ExE0OsPgAEOywkveeWoeL) | 2:46 | 2022-05-20 |  |
 | [Beat](https://open.spotify.com/track/2D5qQa9nFYKwax9V7LNUBH) | [Mariana Cavanellas](https://open.spotify.com/artist/4XBAtMS0mrX2bQipALDthL), [Faew](https://open.spotify.com/artist/2wc2o0xe5pjBkzgMMt3Py9) | [Kintsugi](https://open.spotify.com/album/2FFM0AsTpvCC5Q6jLxAG3n) | 2:41 | 2022-04-29 | 2022-05-14 |
 | [bem vindo, amanhecer](https://open.spotify.com/track/7mWaj5XGPlLn26oz8Ml5WT) | [saudade](https://open.spotify.com/artist/5vjVK0Y2CBuicKqg4BgryA) | [bem vindo, amanhecer](https://open.spotify.com/album/3NIuGYI8AlF2z29olKZo3e) | 3:21 | 2022-04-08 | 2022-07-23 |
+| [Better Angels](https://open.spotify.com/track/4ea8UWKf6mWySfzddxfKfE) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [\(self\-titled\)](https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE) | 3:25 | 2022-09-16 |  |
 | [Bicho Papão](https://open.spotify.com/track/6Dks697XrhDdbVfSydNAyQ) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [Bicho Papão](https://open.spotify.com/album/3jHc6Yn0a3Nwk50r413tSG) | 3:31 | 2022-01-14 | 2022-02-12 |
 | [Blue Butterfly](https://open.spotify.com/track/5pxljqGTHVo2p4Y532ohQL) | [sofi frozza](https://open.spotify.com/artist/7ycozuv4AEKRZ85WLz6tEy) | [esqueci meu nome](https://open.spotify.com/album/6dyEbp6CRPnAMEdFZqgAvU) | 3:58 | 2022-09-09 |  |
 | [Bolero](https://open.spotify.com/track/3OkBD3fUCvAR8PKC14n1av) | [Andrea Martins](https://open.spotify.com/artist/60Qv0Cy0hpcfkHcYI13kxG) | [Bolero](https://open.spotify.com/album/1vFlWGmTgzSQmoviObW7iY) | 3:57 | 2022-09-02 |  |
@@ -69,7 +70,7 @@
 | [Costura](https://open.spotify.com/track/2dQ8R8tf0v6QNofVh18oAX) | [Antonia Morais](https://open.spotify.com/artist/544m4EMPSYu3v4FNoGYWQf) | [Costura](https://open.spotify.com/album/0f8PNEzWM2DaZe0MZ8HLd6) | 2:58 | 2022-03-25 | 2022-04-29 |
 | [Cê me viu ontem](https://open.spotify.com/track/6Iprd2vrpBI06WoN73BMVO) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Cê me viu ontem](https://open.spotify.com/album/5oVdbLtt5DHqphA3xevV6N) | 3:08 | 2022-01-14 | 2022-06-04 |
 | [Cósmico](https://open.spotify.com/track/4hIBfMhwc5s9e0WJd5hEOo) | [NAVE MÃE](https://open.spotify.com/artist/3C8DoOi5SypwXYUNQ6YnK8) | [Cósmico](https://open.spotify.com/album/2EVyRqqr8j8vAXPreNsEwp) | 3:37 | 2022-01-14 | 2022-03-26 |
-| [Dançando Assim](https://open.spotify.com/track/5Z05YrmWq85lEae2WUraSH) | [Tupi](https://open.spotify.com/artist/4VPfdVmQ3Lm86SOPgaCsCf) | [Dançando Assim](https://open.spotify.com/album/5UqBuGZLeKv2Q1yXqFyv73) | 2:43 | 2022-08-05 |  |
+| [Dançando Assim](https://open.spotify.com/track/5Z05YrmWq85lEae2WUraSH) | [Tupi](https://open.spotify.com/artist/4VPfdVmQ3Lm86SOPgaCsCf) | [Dançando Assim](https://open.spotify.com/album/5UqBuGZLeKv2Q1yXqFyv73) | 2:43 | 2022-08-05 | 2022-09-17 |
 | [Das coisas que se perdem](https://open.spotify.com/track/6Hpque3mLD1UQFOkJPDYMx) | [Bomfim](https://open.spotify.com/artist/2e8cQfFufvGVSoEATHH8Cx) | [Todos os conselhos que não segui](https://open.spotify.com/album/2zVPyiDlZdTj5lyyMXVClN) | 4:20 | 2022-07-22 |  |
 | [Decidez](https://open.spotify.com/track/42fbMR2dkMat25LlLFRJ20) | [Otto](https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK) | [Canicule Sauvage](https://open.spotify.com/album/3mJT2eEgCOvLYpilkrR2Bl) | 3:47 | 2022-04-29 | 2022-05-20 |
 | [Desagradar](https://open.spotify.com/track/7qhbm7QvRktr6ZwDZzWmG1) | [bule](https://open.spotify.com/artist/0G0UBEMCXDj4UWnT3BeBoS) | [Desagradar](https://open.spotify.com/album/49PztzwJqsj3Ini8umF67R) | 3:24 | 2022-01-14 | 2022-01-22 |
@@ -172,6 +173,7 @@
 | [O Que Eu Vou Levar Quando Eu For](https://open.spotify.com/track/6N1PV55RcI141zHTrRAxTp) | [Vanguart](https://open.spotify.com/artist/0rexWKb4rBwWS07SoHqsX0) | [O Que Eu Vou Levar Quando Eu For](https://open.spotify.com/album/2eqjBo30J652ViNP9QXpou) | 3:59 | 2022-07-29 |  |
 | [O Que É](https://open.spotify.com/track/7k5BUux0pDo8OtRH2YHnK7) | [LAZÚLI](https://open.spotify.com/artist/5IilR9x7kwVvC9MkAnprVP), [Mc Tha](https://open.spotify.com/artist/0fpg4Y7Q6ZRDSppLLt7G0n) | [O Que É](https://open.spotify.com/album/50paoVozSUVrqInbWnl3mk) | 3:53 | 2022-03-11 | 2022-03-26 |
 | [O Seu Amor](https://open.spotify.com/track/1zwyRV5lzk7EdmVa9rR6tN) | [Malu Maria](https://open.spotify.com/artist/7o2VDcKMqBIc304KCwEBBt), [Tatá Aeroplano](https://open.spotify.com/artist/78zrcYeAIou4XXyCyc7r8U) | [O Seu Amor](https://open.spotify.com/album/65ojqlctQXLh8xDyuq1Mq6) | 4:17 | 2022-05-06 | 2022-05-20 |
+| [O Sol e a Lua](https://open.spotify.com/track/2Nv6y9yuUqgQYnExL5m7xe) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [O Sol e a Lua](https://open.spotify.com/album/7hChsKkWkPFxWWsxkHSdER) | 2:37 | 2022-09-16 |  |
 | [O Som Dos Golfinhos](https://open.spotify.com/track/5W0m2UCowu8lY8anIFQHyO) | [Walfredo em Busca da Simbiose](https://open.spotify.com/artist/6PzQC3kTcWcJcH8p4d7yJl) | [Self](https://open.spotify.com/album/6KOuaiicX4JZwEf20FWGuK) | 4:53 | 2022-05-13 | 2022-07-23 |
 | [O Teste](https://open.spotify.com/track/1WDvirXKvsQWaM2RK8jD1A) | [Gabriel Ventura](https://open.spotify.com/artist/5wiFildiVwY61nSDG2ZNIC) | [O Teste](https://open.spotify.com/album/1yKzHbiYpGdUpQfDoi3EBt) | 3:13 | 2022-02-11 | 2022-04-09 |
 | [O Treco](https://open.spotify.com/track/6Wm2WXD8wzTAUmhV3ApGaX) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [O Treco](https://open.spotify.com/album/2GocsqkouIMlVXmEZxofp2) | 4:20 | 2022-04-08 |  |
@@ -199,7 +201,7 @@
 | [Projeto Psiquiatria](https://open.spotify.com/track/2Z5oPMEQgBdfj1tLS8HIp5) | [Do Amor](https://open.spotify.com/artist/2dQAz3jNlenyLHfeknfNsn) | [Projeto Psiquiatria](https://open.spotify.com/album/5r4sReyehHwEXuTM5wJQJ5) | 2:36 | 2022-04-29 | 2022-05-07 |
 | [Pulsar](https://open.spotify.com/track/75sJgyyoWq8Hz8793E1oIO) | [Arequipa](https://open.spotify.com/artist/0pnDB20LmxCVBhFuFAIcWw) | [Um Novo Caminho](https://open.spotify.com/album/1xYId2qIZVZ3EnGLp88BCN) | 3:27 | 2022-01-14 | 2022-08-06 |
 | [pé na areia](https://open.spotify.com/track/2n2NLaRHgCUNIK6vQIyVEu) | [Matheus Who](https://open.spotify.com/artist/7dk9vFezaTtPWPnygmbWgf) | [pé na areia](https://open.spotify.com/album/7KSE8ieGnZgM8gfDH0WyYR) | 4:16 | 2022-01-28 | 2022-02-12 |
-| [Quando](https://open.spotify.com/track/1wCWq966JTPrEilK0uqqht) | [Ombu](https://open.spotify.com/artist/5Md89pcwawc564wNKNNG0b) | [Quando](https://open.spotify.com/album/4b1wNEf2S1mFCfsLFaQTWG) | 2:50 | 2022-08-05 |  |
+| [Quando](https://open.spotify.com/track/1wCWq966JTPrEilK0uqqht) | [Ombu](https://open.spotify.com/artist/5Md89pcwawc564wNKNNG0b) | [Quando](https://open.spotify.com/album/4b1wNEf2S1mFCfsLFaQTWG) | 2:50 | 2022-08-05 | 2022-09-17 |
 | [Quarta Obra](https://open.spotify.com/track/5rqGTsecw0HNMwOC3j3yCb) | [Saskia](https://open.spotify.com/artist/2kcQw1XkWgIMzF2sArt6NT) | [Quartas](https://open.spotify.com/album/0CJn9AMkYslFvMEWM9W4x1) | 3:55 | 2022-04-29 | 2022-05-14 |
 | [Quarto Sem Janela](https://open.spotify.com/track/2CNpYIScasnONCyhsxV1KJ) | [Revna](https://open.spotify.com/artist/5euRHFqQ2U4fCCctRKkpf0) | [Quarto Sem Janela](https://open.spotify.com/album/00oztNjsDIsSItMlifZWrK) | 3:04 | 2022-01-14 | 2022-02-26 |
 | [Quem somos nós](https://open.spotify.com/track/1GqXsiusqMiPmZtjnBfL6t) | [Playmoboys](https://open.spotify.com/artist/0s8qjO7TpmquR2AvmtjTzw), [Oh! I Kill](https://open.spotify.com/artist/0oc4L7WmNWpJmFtKT0RkbI) | [Ressaca](https://open.spotify.com/album/3rkkLKfD5NpXDnwxQU79y3) | 3:41 | 2022-01-14 | 2022-08-06 |
@@ -275,7 +277,7 @@
 | [Vou Ter Que Me Virar \- Mu540 FUNK RITMADO](https://open.spotify.com/track/3Femu5oJJpDjwG7rRqvvvy) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [VTQMV RMXS 01](https://open.spotify.com/album/22SwyqFqkdfIc6uPXtC9tK) | 3:14 | 2022-02-25 | 2022-03-12 |
 | [vou\-me embora de mim](https://open.spotify.com/track/1f8ZogeEUhm1Nv84LsoJxQ) | [saudade](https://open.spotify.com/artist/5vjVK0Y2CBuicKqg4BgryA) | [vou\-me embora de mim](https://open.spotify.com/album/54ai34YMvhpux2FLnjWGsz) | 3:06 | 2022-01-14 |  |
 | [Vozes](https://open.spotify.com/track/3HiUwqHR8mma38Oq6dBZmS) | [Hiran](https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW), [Zé Nigro](https://open.spotify.com/artist/2gPKUWOiCVJK5v1yJUHTpj), [Livia Nery](https://open.spotify.com/artist/2jgNIddZBgTiswbLmv91Qu) | [Vozes](https://open.spotify.com/album/03IpiS4Ezq1YgLAxjLeK1i) | 3:42 | 2022-03-18 | 2022-04-09 |
-| [Vênus](https://open.spotify.com/track/15aq8H2UxtbVCr5MEY37YO) | [Vítor Guima](https://open.spotify.com/artist/1hqTe0OBdC5nKA5Av8oiRe) | [Vênus](https://open.spotify.com/album/2ZMVEWBLpT3Dc4fsHZmROs) | 2:47 | 2022-01-21 |  |
+| [Vênus](https://open.spotify.com/track/15aq8H2UxtbVCr5MEY37YO) | [Vítor Guima](https://open.spotify.com/artist/1hqTe0OBdC5nKA5Av8oiRe) | [Vênus](https://open.spotify.com/album/2ZMVEWBLpT3Dc4fsHZmROs) | 2:47 | 2022-01-21 | 2022-09-17 |
 | [Zelo](https://open.spotify.com/track/3oMIke70o3excmdrw3e2g9) | [LUIZGA](https://open.spotify.com/artist/2805s9LKfRvmaFi6eK6L0f) | [Zelo](https://open.spotify.com/album/6KFN7xhPi1XJc30uvDJjBS) | 3:07 | 2022-08-26 |  |
 | [Ímpar](https://open.spotify.com/track/4Qo4YT6wQz4EkguY7KAINQ) | [Antonia Morais](https://open.spotify.com/artist/544m4EMPSYu3v4FNoGYWQf) | [ÍMPAR 60](https://open.spotify.com/album/4zqy15IdFuUcqBO1jEEuLN) | 3:00 | 2022-07-08 |  |
 | [Última Vez](https://open.spotify.com/track/4215lJTemWhVIkb47BMTwZ) | [Tim Bernardes](https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4) | [Última Vez](https://open.spotify.com/album/1IYWQ7VreE5z8uWCgbH59A) | 5:22 | 2022-06-10 |  |

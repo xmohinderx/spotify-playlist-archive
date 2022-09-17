@@ -1,12 +1,12 @@
 {
   "description": "Avant-garde, experimental and free jazz.",
-  "num_followers": 34659,
+  "num_followers": 34672,
   "original_name": "Avant-Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ4NjUyMCwwMDAwMDAwMDFhZTQxYjUwNzcyNjU1Yjk2ZDhlOTg3NWE2ZmFkOGM1",
+  "snapshot_id": "MTY2MTQ4NjUyMCwwMDAwMDAwMGMxYjI4ZWY2NmYwMzdlNTU5MzFkM2VkNmUwZGE5NDYz",
   "tracks": [
     {
       "added_at": "2020-08-25 21:55:35",
@@ -269,6 +269,22 @@
       "url": "https://open.spotify.com/track/1vgyXQyuvQHXWfQwprXBKc"
     },
     {
+      "added_at": "2020-11-06 04:01:00",
+      "album": {
+        "name": "Blind Fury",
+        "url": "https://open.spotify.com/album/6kC17nZeXdCQooTRQSzX8a"
+      },
+      "artists": [
+        {
+          "name": "AKU!",
+          "url": "https://open.spotify.com/artist/4YL5YNoHnTi00OL2cXpUQM"
+        }
+      ],
+      "duration_ms": 369172,
+      "name": "Dub Ting",
+      "url": "https://open.spotify.com/track/2DBwIY8YEXqTKjUWFEvKbg"
+    },
+    {
       "added_at": "2022-08-26 04:02:00",
       "album": {
         "name": "Dolunay",
@@ -341,22 +357,6 @@
       "url": "https://open.spotify.com/track/2VqEeQ1BvCK1VfYH3ww4I0"
     },
     {
-      "added_at": "2020-11-06 04:01:00",
-      "album": {
-        "name": "Blind Fury",
-        "url": "https://open.spotify.com/album/6kC17nZeXdCQooTRQSzX8a"
-      },
-      "artists": [
-        {
-          "name": "AKU!",
-          "url": "https://open.spotify.com/artist/4YL5YNoHnTi00OL2cXpUQM"
-        }
-      ],
-      "duration_ms": 369172,
-      "name": "Dub Ting",
-      "url": "https://open.spotify.com/track/2DBwIY8YEXqTKjUWFEvKbg"
-    },
-    {
       "added_at": "2020-08-25 21:55:35",
       "album": {
         "name": "Where Is Brooklyn",
@@ -375,22 +375,6 @@
     {
       "added_at": "2020-08-25 21:55:35",
       "album": {
-        "name": "Life Between The Exit Signs",
-        "url": "https://open.spotify.com/album/1PluOanzqH0rOxjiAJV5Oq"
-      },
-      "artists": [
-        {
-          "name": "Keith Jarrett",
-          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
-        }
-      ],
-      "duration_ms": 273973,
-      "name": "Everything I Love",
-      "url": "https://open.spotify.com/track/1eBwxDeN0OjfRGcFSE0YxY"
-    },
-    {
-      "added_at": "2020-08-25 21:55:35",
-      "album": {
         "name": "Arms & Hands",
         "url": "https://open.spotify.com/album/0Z0dUTd0016S6bI132kL50"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 153000,
       "name": "Safety Shoes",
       "url": "https://open.spotify.com/track/5z0fXBlI6jsmUVdgRg9yIg"
+    },
+    {
+      "added_at": "2020-08-25 21:55:35",
+      "album": {
+        "name": "Life Between The Exit Signs",
+        "url": "https://open.spotify.com/album/1PluOanzqH0rOxjiAJV5Oq"
+      },
+      "artists": [
+        {
+          "name": "Keith Jarrett",
+          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+        }
+      ],
+      "duration_ms": 273973,
+      "name": "Everything I Love",
+      "url": "https://open.spotify.com/track/1eBwxDeN0OjfRGcFSE0YxY"
     },
     {
       "added_at": "2020-08-25 21:55:35",
@@ -453,22 +453,6 @@
       "url": "https://open.spotify.com/track/720v6LmyIQQq3NXxkLdCvi"
     },
     {
-      "added_at": "2021-10-01 04:02:00",
-      "album": {
-        "name": "Winns Win",
-        "url": "https://open.spotify.com/album/0E9mxK9RuUzjHFkKmBnQlb"
-      },
-      "artists": [
-        {
-          "name": "Evan Parker",
-          "url": "https://open.spotify.com/artist/42WVIJPKijZYsOWhNqnAke"
-        }
-      ],
-      "duration_ms": 200570,
-      "name": "WW1",
-      "url": "https://open.spotify.com/track/4SG33WjhoWeytudIUA6vMn"
-    },
-    {
       "added_at": "2022-04-29 04:02:00",
       "album": {
         "name": "Bold Dream",
@@ -491,6 +475,22 @@
       "duration_ms": 372440,
       "name": "Bold Dream",
       "url": "https://open.spotify.com/track/0x9UCjrqI1D3pBeGDqxRk9"
+    },
+    {
+      "added_at": "2021-10-01 04:02:00",
+      "album": {
+        "name": "Winns Win",
+        "url": "https://open.spotify.com/album/0E9mxK9RuUzjHFkKmBnQlb"
+      },
+      "artists": [
+        {
+          "name": "Evan Parker",
+          "url": "https://open.spotify.com/artist/42WVIJPKijZYsOWhNqnAke"
+        }
+      ],
+      "duration_ms": 200570,
+      "name": "WW1",
+      "url": "https://open.spotify.com/track/4SG33WjhoWeytudIUA6vMn"
     },
     {
       "added_at": "2020-08-25 21:55:35",
@@ -567,22 +567,6 @@
     {
       "added_at": "2020-08-25 21:55:35",
       "album": {
-        "name": "Translinear Light",
-        "url": "https://open.spotify.com/album/3lJXKLvs6ZZrBDgje4cx8B"
-      },
-      "artists": [
-        {
-          "name": "Alice Coltrane",
-          "url": "https://open.spotify.com/artist/0oKYiTD5CdNbrofRvM1dIr"
-        }
-      ],
-      "duration_ms": 382693,
-      "name": "Crescent",
-      "url": "https://open.spotify.com/track/5zRFHuczWKsSmtvMaLceXp"
-    },
-    {
-      "added_at": "2020-08-25 21:55:35",
-      "album": {
         "name": "Four For Trane",
         "url": "https://open.spotify.com/album/2bZJE5GJyEH2l60yMvbC4n"
       },
@@ -599,18 +583,18 @@
     {
       "added_at": "2020-08-25 21:55:35",
       "album": {
-        "name": "Argonautica",
-        "url": "https://open.spotify.com/album/779K5iF5o1GS0GR0v1YUEu"
+        "name": "Translinear Light",
+        "url": "https://open.spotify.com/album/3lJXKLvs6ZZrBDgje4cx8B"
       },
       "artists": [
         {
-          "name": "Nate Wooley",
-          "url": "https://open.spotify.com/artist/151kdGxCPmdZZqaYsd79F5"
+          "name": "Alice Coltrane",
+          "url": "https://open.spotify.com/artist/0oKYiTD5CdNbrofRvM1dIr"
         }
       ],
-      "duration_ms": 2573175,
-      "name": "Argonautica",
-      "url": "https://open.spotify.com/track/0GJKX05V9I7tOtGeGlUkWA"
+      "duration_ms": 382693,
+      "name": "Crescent",
+      "url": "https://open.spotify.com/track/5zRFHuczWKsSmtvMaLceXp"
     },
     {
       "added_at": "2020-10-23 19:03:00",
@@ -627,6 +611,22 @@
       "duration_ms": 221520,
       "name": "Canopy",
       "url": "https://open.spotify.com/track/2h9BKEX4eg6SCiwllNxc2T"
+    },
+    {
+      "added_at": "2020-08-25 21:55:35",
+      "album": {
+        "name": "Argonautica",
+        "url": "https://open.spotify.com/album/779K5iF5o1GS0GR0v1YUEu"
+      },
+      "artists": [
+        {
+          "name": "Nate Wooley",
+          "url": "https://open.spotify.com/artist/151kdGxCPmdZZqaYsd79F5"
+        }
+      ],
+      "duration_ms": 2573175,
+      "name": "Argonautica",
+      "url": "https://open.spotify.com/track/0GJKX05V9I7tOtGeGlUkWA"
     },
     {
       "added_at": "2020-08-25 21:55:35",
@@ -669,22 +669,6 @@
       "url": "https://open.spotify.com/track/6KAn7LuDV3SYpINmzl8bMM"
     },
     {
-      "added_at": "2020-08-25 21:55:35",
-      "album": {
-        "name": "Poetry in Motion",
-        "url": "https://open.spotify.com/album/0Y20dYkp1wEb5d4lvLtOLW"
-      },
-      "artists": [
-        {
-          "name": "Conference Call",
-          "url": "https://open.spotify.com/artist/7nhPj7gM7iUwU72LPRtFx0"
-        }
-      ],
-      "duration_ms": 258333,
-      "name": "The Path",
-      "url": "https://open.spotify.com/track/4T5BNirZQn8jjEcjNPMnQ5"
-    },
-    {
       "added_at": "2020-10-02 04:02:00",
       "album": {
         "name": "On Common Ground",
@@ -707,6 +691,22 @@
       "duration_ms": 476000,
       "name": "Equation",
       "url": "https://open.spotify.com/track/53BmPoPyhQwscQJcy32ly7"
+    },
+    {
+      "added_at": "2020-08-25 21:55:35",
+      "album": {
+        "name": "Poetry in Motion",
+        "url": "https://open.spotify.com/album/0Y20dYkp1wEb5d4lvLtOLW"
+      },
+      "artists": [
+        {
+          "name": "Conference Call",
+          "url": "https://open.spotify.com/artist/7nhPj7gM7iUwU72LPRtFx0"
+        }
+      ],
+      "duration_ms": 258333,
+      "name": "The Path",
+      "url": "https://open.spotify.com/track/4T5BNirZQn8jjEcjNPMnQ5"
     },
     {
       "added_at": "2021-12-03 05:02:00",
@@ -787,18 +787,18 @@
     {
       "added_at": "2020-08-25 21:55:35",
       "album": {
-        "name": "Spring (Remastered)",
-        "url": "https://open.spotify.com/album/7IikPqlk47jXyUaXYJmM10"
+        "name": "Alexander Hawkins Trio",
+        "url": "https://open.spotify.com/album/0PuuU5hvA2CRAedC8xHEAq"
       },
       "artists": [
         {
-          "name": "Anthony Williams",
-          "url": "https://open.spotify.com/artist/0FO6iwNxAbcjc8IStwizj6"
+          "name": "Alexander Hawkins",
+          "url": "https://open.spotify.com/artist/5odU2GyEFgXZzhs1nfdu7r"
         }
       ],
-      "duration_ms": 412026,
-      "name": "From Before - Rudy Van Gelder Edition/2009 Digital Remaster",
-      "url": "https://open.spotify.com/track/5RrbXcAuz20QkziDZAHS08"
+      "duration_ms": 329760,
+      "name": "One Tree Found",
+      "url": "https://open.spotify.com/track/7pR9ESwH8E0Y8z79PflnZY"
     },
     {
       "added_at": "2020-08-25 21:55:35",
@@ -845,6 +845,22 @@
       "url": "https://open.spotify.com/track/1gSwFnKQa7E5Etks6oXlzM"
     },
     {
+      "added_at": "2020-08-25 21:55:35",
+      "album": {
+        "name": "Spring (Remastered)",
+        "url": "https://open.spotify.com/album/7IikPqlk47jXyUaXYJmM10"
+      },
+      "artists": [
+        {
+          "name": "Anthony Williams",
+          "url": "https://open.spotify.com/artist/0FO6iwNxAbcjc8IStwizj6"
+        }
+      ],
+      "duration_ms": 412026,
+      "name": "From Before - Rudy Van Gelder Edition/2009 Digital Remaster",
+      "url": "https://open.spotify.com/track/5RrbXcAuz20QkziDZAHS08"
+    },
+    {
       "added_at": "2021-11-19 05:02:00",
       "album": {
         "name": "Playing Retention",
@@ -863,6 +879,22 @@
       "duration_ms": 458760,
       "name": "Playing Retention",
       "url": "https://open.spotify.com/track/3fWp8KYdXpJpdXODLXSnjE"
+    },
+    {
+      "added_at": "2020-08-25 21:55:35",
+      "album": {
+        "name": "Albert Mangelsdorff and His Friends",
+        "url": "https://open.spotify.com/album/4RJhjS7m0WZqlXBss7dz8k"
+      },
+      "artists": [
+        {
+          "name": "Albert Mangelsdorff",
+          "url": "https://open.spotify.com/artist/6smduqXQTpYLxA6MKAJ7pw"
+        }
+      ],
+      "duration_ms": 347092,
+      "name": "Way Beyond Cave",
+      "url": "https://open.spotify.com/track/5uKsWL6LKETa5xKizE04TZ"
     },
     {
       "added_at": "2020-08-25 21:55:35",
@@ -891,18 +923,46 @@
     {
       "added_at": "2020-08-25 21:55:35",
       "album": {
-        "name": "Alexander Hawkins Trio",
-        "url": "https://open.spotify.com/album/0PuuU5hvA2CRAedC8xHEAq"
+        "name": "Rome",
+        "url": "https://open.spotify.com/album/6C3eLGlifDvM09GaJBu5tl"
       },
       "artists": [
         {
-          "name": "Alexander Hawkins",
-          "url": "https://open.spotify.com/artist/5odU2GyEFgXZzhs1nfdu7r"
+          "name": "Rob Mazurek",
+          "url": "https://open.spotify.com/artist/7uWd7df9GwjSZqo1cVF7Qs"
         }
       ],
-      "duration_ms": 329760,
-      "name": "One Tree Found",
-      "url": "https://open.spotify.com/track/7pR9ESwH8E0Y8z79PflnZY"
+      "duration_ms": 563400,
+      "name": "Twombly at New Church",
+      "url": "https://open.spotify.com/track/5hr1OI7kdIRsplcc4i1nA5"
+    },
+    {
+      "added_at": "2021-01-29 05:01:00",
+      "album": {
+        "name": "Ars Transmutatoria Bleu",
+        "url": "https://open.spotify.com/album/7JN9wfjViqGbhNXLDoQHIB"
+      },
+      "artists": [
+        {
+          "name": "Michel Lambert",
+          "url": "https://open.spotify.com/artist/6wFJMSmNda7ijEwiKkEinm"
+        },
+        {
+          "name": "Adrian Northover",
+          "url": "https://open.spotify.com/artist/6tvX3XArnkloqYWpKpfipR"
+        },
+        {
+          "name": "Susanna Ferrar",
+          "url": "https://open.spotify.com/artist/41czcSnPZdIJlkGfkYcfm3"
+        },
+        {
+          "name": "Hyelim Kim",
+          "url": "https://open.spotify.com/artist/5Pct3KTj2tVIwsBu6Vtxeq"
+        }
+      ],
+      "duration_ms": 335256,
+      "name": "Haie d'eau II",
+      "url": "https://open.spotify.com/track/40gD1hE47Zwows0Wy5JVI6"
     },
     {
       "added_at": "2020-08-25 21:55:35",
@@ -923,62 +983,6 @@
       "duration_ms": 1224332,
       "name": "The Eyes Moving. Slowly.",
       "url": "https://open.spotify.com/track/1zMyY8zxLsJq344QaoKfP0"
-    },
-    {
-      "added_at": "2020-08-25 21:55:35",
-      "album": {
-        "name": "Rome",
-        "url": "https://open.spotify.com/album/6C3eLGlifDvM09GaJBu5tl"
-      },
-      "artists": [
-        {
-          "name": "Rob Mazurek",
-          "url": "https://open.spotify.com/artist/7uWd7df9GwjSZqo1cVF7Qs"
-        }
-      ],
-      "duration_ms": 563400,
-      "name": "Twombly at New Church",
-      "url": "https://open.spotify.com/track/5hr1OI7kdIRsplcc4i1nA5"
-    },
-    {
-      "added_at": "2020-08-25 21:55:35",
-      "album": {
-        "name": "Albert Mangelsdorff and His Friends",
-        "url": "https://open.spotify.com/album/4RJhjS7m0WZqlXBss7dz8k"
-      },
-      "artists": [
-        {
-          "name": "Albert Mangelsdorff",
-          "url": "https://open.spotify.com/artist/6smduqXQTpYLxA6MKAJ7pw"
-        }
-      ],
-      "duration_ms": 347092,
-      "name": "Way Beyond Cave",
-      "url": "https://open.spotify.com/track/5uKsWL6LKETa5xKizE04TZ"
-    },
-    {
-      "added_at": "2021-02-27 05:01:00",
-      "album": {
-        "name": "Live at the 55 Bar",
-        "url": "https://open.spotify.com/album/1ee4YOkRpLaauwDd7Ai8VH"
-      },
-      "artists": [
-        {
-          "name": "Ben Monder",
-          "url": "https://open.spotify.com/artist/2CH9bD5RtnDcm9O23JByN7"
-        },
-        {
-          "name": "Tony Malaby",
-          "url": "https://open.spotify.com/artist/6woeo15v4gYqiegGAknRm0"
-        },
-        {
-          "name": "Tom Rainey",
-          "url": "https://open.spotify.com/artist/3GLpFMa3feEODjzWx0XSIO"
-        }
-      ],
-      "duration_ms": 1013476,
-      "name": "Suite 3320, Pt. I - Live",
-      "url": "https://open.spotify.com/track/3yt7rjEyVLYWGZ2307OSNI"
     }
   ],
   "unique_name": "Avant-Jazz",

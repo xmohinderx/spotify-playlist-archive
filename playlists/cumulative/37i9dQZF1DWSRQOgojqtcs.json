@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-09-15",
   "description": "Love, sex, and heartbreak. Listen to the official playlist for Heartbreak High, now on Netflix.\n",
   "name": "Heartbreak High: Official Playlist",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "3fSz2XAu4QpDesLVlBr0GV"
+  ],
   "tracks": [
     {
       "album": {
@@ -476,6 +478,24 @@
     },
     {
       "album": {
+        "name": "Foreign Language",
+        "url": "https://open.spotify.com/album/5a2yMZjCdVXllxAwymNCUL"
+      },
+      "artists": [
+        {
+          "name": "1300",
+          "url": "https://open.spotify.com/artist/34dKvFZNwGaM0NMDtZaJ0P"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169029,
+      "name": "Come On",
+      "url": "https://open.spotify.com/track/7I0X2MQkZDngxQ2NDMOfWP"
+    },
+    {
+      "album": {
         "name": "Country Music - A Film by Ken Burns (The Soundtrack) [Deluxe]",
         "url": "https://open.spotify.com/album/3ZAFnRYQRAiBplISQFj7nC"
       },
@@ -696,6 +716,24 @@
     },
     {
       "album": {
+        "name": "Ego",
+        "url": "https://open.spotify.com/album/4o7EqM5k7ybSZqkWWkHuuv"
+      },
+      "artists": [
+        {
+          "name": "Strawbz",
+          "url": "https://open.spotify.com/artist/7w2jkQBOxdnwUOLxom93l3"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186964,
+      "name": "Ego",
+      "url": "https://open.spotify.com/track/698bVkLUnvCIVrpPv2pHgC"
+    },
+    {
+      "album": {
         "name": "Eshay",
         "url": "https://open.spotify.com/album/0QfGGytvuz1ORWR5kZRiZJ"
       },
@@ -783,6 +821,28 @@
       "duration_ms": 416607,
       "name": "Falling (II)",
       "url": "https://open.spotify.com/track/5JCUiQ994E1EKbBak6bJqw"
+    },
+    {
+      "album": {
+        "name": "FEAST",
+        "url": "https://open.spotify.com/album/2SNp7R18YlGO9Mo7HLJFYv"
+      },
+      "artists": [
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        },
+        {
+          "name": "notsick",
+          "url": "https://open.spotify.com/artist/0LIittGjyw9kSH8YAo9HGq"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123904,
+      "name": "FEAST",
+      "url": "https://open.spotify.com/track/3smTeRQ3qxUvC8Gf4ckUEs"
     },
     {
       "album": {
@@ -1231,6 +1291,24 @@
     {
       "album": {
         "name": "Bloody Lovely",
+        "url": "https://open.spotify.com/album/0sotdV1cZoGfaDDUPIwtDu"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241756,
+      "name": "Like People",
+      "url": "https://open.spotify.com/track/0o9h7u6AC9Ztiyw8Y0S4dV"
+    },
+    {
+      "album": {
+        "name": "Bloody Lovely",
         "url": "https://open.spotify.com/album/39Ax1ljxVnhuC4BTVcXWNU"
       },
       "artists": [
@@ -1241,7 +1319,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 241756,
       "name": "Like People",
       "url": "https://open.spotify.com/track/4Pa9lwNySYtucuHEsCyA1R"

@@ -1082,6 +1082,24 @@
     },
     {
       "album": {
+        "name": "Bump",
+        "url": "https://open.spotify.com/album/0BbQhd9LzpcdZJ5fn7WhaV"
+      },
+      "artists": [
+        {
+          "name": "Dora Jar",
+          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202260,
+      "name": "Bump",
+      "url": "https://open.spotify.com/track/4rsuE0qXgtKUCVV1dIQFYd"
+    },
+    {
+      "album": {
         "name": "Art Angels",
         "url": "https://open.spotify.com/album/7J84ixPVFehy6FcLk8rhk3"
       },
@@ -3197,7 +3215,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 222021,
       "name": "Hold It Together",
       "url": "https://open.spotify.com/track/6gJ2H930mAD1zRqmoFiE4W"
@@ -3631,6 +3649,24 @@
       "duration_ms": 221117,
       "name": "it's happening again (feat. KU\u010cKA)",
       "url": "https://open.spotify.com/track/7bir6lHXKRp0DTPHPwvOgW"
+    },
+    {
+      "album": {
+        "name": "It's Not Just Me, It's Everybody",
+        "url": "https://open.spotify.com/album/0OFDZTYgwiuv7a4CZEVAsR"
+      },
+      "artists": [
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376520,
+      "name": "It's Not Just Me, It's Everybody",
+      "url": "https://open.spotify.com/track/2OcLJRW0pTyYAxT43N5ccm"
     },
     {
       "album": {
@@ -5999,7 +6035,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 206600,
       "name": "See you Soon",
       "url": "https://open.spotify.com/track/5W5N23Xz1Zk6Qi8wkP8UPM"

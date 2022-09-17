@@ -1,12 +1,12 @@
 {
   "description": "Las mejores canciones de septiembre 2022.",
-  "num_followers": 1493463,
+  "num_followers": 1493559,
   "original_name": "Lo mejor del mes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mjk5MzcyNCwwMDAwMDAwMDQ2YWFkMjcyMDM5NTcyNDFkYzM0YzhiNGQ1NTlkMDA5",
+  "snapshot_id": "MTY2Mjk5MzcyNCwwMDAwMDAwMGRhMWQxOWFjYzY3NjQ2MTY5YmRiYjg4NjdmZjQ1MmE3",
   "tracks": [
     {
       "added_at": "2022-09-12 14:42:04",
@@ -183,6 +183,22 @@
     {
       "added_at": "2022-09-12 14:42:04",
       "album": {
+        "name": "Vista Al Mar",
+        "url": "https://open.spotify.com/album/5ihYKNgcOMifCJmcGp7CkW"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 180672,
+      "name": "Vista Al Mar",
+      "url": "https://open.spotify.com/track/7iwJOi3hlMqZt6pj1sQOBj"
+    },
+    {
+      "added_at": "2022-09-12 14:42:04",
+      "album": {
         "name": "506",
         "url": "https://open.spotify.com/album/38coX6excq4obQR4Z7sww7"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 180546,
       "name": "506",
       "url": "https://open.spotify.com/track/4scwMEdlKi8qWJzzyDB8Z3"
-    },
-    {
-      "added_at": "2022-09-12 14:42:04",
-      "album": {
-        "name": "Vista Al Mar",
-        "url": "https://open.spotify.com/album/5ihYKNgcOMifCJmcGp7CkW"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 180672,
-      "name": "Vista Al Mar",
-      "url": "https://open.spotify.com/track/7iwJOi3hlMqZt6pj1sQOBj"
     },
     {
       "added_at": "2022-09-12 14:42:04",
@@ -399,6 +399,22 @@
     {
       "added_at": "2022-09-12 14:42:04",
       "album": {
+        "name": "Luces De Ne\u00f3n",
+        "url": "https://open.spotify.com/album/03XRoR4NgKM7VHiXzDW2wS"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 219789,
+      "name": "Luces De Ne\u00f3n",
+      "url": "https://open.spotify.com/track/5B60XFKzm8WsJTdVyt4u4I"
+    },
+    {
+      "added_at": "2022-09-12 14:42:04",
+      "album": {
         "name": "Bonita",
         "url": "https://open.spotify.com/album/5S7g9lFAwX5rUAM2I4idTS"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 250082,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/7p5s4J9dNNYpZdAgJIOH6Z"
-    },
-    {
-      "added_at": "2022-09-12 14:42:04",
-      "album": {
-        "name": "Luces De Ne\u00f3n",
-        "url": "https://open.spotify.com/album/03XRoR4NgKM7VHiXzDW2wS"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 219789,
-      "name": "Luces De Ne\u00f3n",
-      "url": "https://open.spotify.com/track/5B60XFKzm8WsJTdVyt4u4I"
     },
     {
       "added_at": "2022-09-12 14:42:04",
@@ -479,26 +479,6 @@
     {
       "added_at": "2022-09-12 14:42:04",
       "album": {
-        "name": "Fuego",
-        "url": "https://open.spotify.com/album/1tsrmxpNWTOr3WMX7cmVd3"
-      },
-      "artists": [
-        {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
-        },
-        {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
-        }
-      ],
-      "duration_ms": 199357,
-      "name": "Fuego",
-      "url": "https://open.spotify.com/track/6iDZO7Qbi9R0L54D7DiJVV"
-    },
-    {
-      "added_at": "2022-09-12 14:42:04",
-      "album": {
         "name": "Bellacon",
         "url": "https://open.spotify.com/album/6BkZqvJEJ9moiKKP0yXgce"
       },
@@ -519,18 +499,22 @@
     {
       "added_at": "2022-09-12 14:42:04",
       "album": {
-        "name": "solo x ti",
-        "url": "https://open.spotify.com/album/0x9tjfkTjrYiQuTAflIiNe"
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/1tsrmxpNWTOr3WMX7cmVd3"
       },
       "artists": [
         {
-          "name": "Pol Granch",
-          "url": "https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0"
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
         }
       ],
-      "duration_ms": 198758,
-      "name": "solo x ti",
-      "url": "https://open.spotify.com/track/5DhPx1cy248eVvTBoTVrrB"
+      "duration_ms": 199357,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/6iDZO7Qbi9R0L54D7DiJVV"
     },
     {
       "added_at": "2022-09-12 14:42:04",
@@ -551,6 +535,22 @@
       "duration_ms": 203571,
       "name": "Fumando",
       "url": "https://open.spotify.com/track/7J02hWxvWMi026FUPXU4nq"
+    },
+    {
+      "added_at": "2022-09-12 14:42:04",
+      "album": {
+        "name": "solo x ti",
+        "url": "https://open.spotify.com/album/0x9tjfkTjrYiQuTAflIiNe"
+      },
+      "artists": [
+        {
+          "name": "Pol Granch",
+          "url": "https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0"
+        }
+      ],
+      "duration_ms": 198758,
+      "name": "solo x ti",
+      "url": "https://open.spotify.com/track/5DhPx1cy248eVvTBoTVrrB"
     },
     {
       "added_at": "2022-09-12 14:42:04",

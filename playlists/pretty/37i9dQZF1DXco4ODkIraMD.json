@@ -1,12 +1,12 @@
 {
   "description": "Esos \u00e9xitos que todav\u00eda quieres seguir escuchando. Foto: J Balvin & Bad Bunny",
-  "num_followers": 460088,
+  "num_followers": 460340,
   "original_name": "Reggaet\u00f3n Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDc0ODY5NywwMDAwMDAwMGJjMzNjMDhlYjQ3YjQ1YmU1YzJlNDYyZTA0OTFiYmEy",
+  "snapshot_id": "MTY2MDc0ODY5NywwMDAwMDAwMGZlYzg1ZDE4NTU3OTQ1MWQ1OGM2MGQ0NjdjODZhMzM2",
   "tracks": [
     {
       "added_at": "2022-08-17 15:04:55",
@@ -927,26 +927,6 @@
     {
       "added_at": "2022-08-17 15:04:55",
       "album": {
-        "name": "RITMO (Bad Boys For Life)",
-        "url": "https://open.spotify.com/album/6EobpC5SDFy5DF50dWNVGF"
-      },
-      "artists": [
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 221714,
-      "name": "RITMO (Bad Boys For Life)",
-      "url": "https://open.spotify.com/track/6cy3ki60hLwimwIje7tALf"
-    },
-    {
-      "added_at": "2022-08-17 15:04:55",
-      "album": {
         "name": "Hola (Remix)",
         "url": "https://open.spotify.com/album/65Pp2tO1Ul66KcCmmkRGWZ"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 249520,
       "name": "Hola - Remix",
       "url": "https://open.spotify.com/track/5stPVcRqb4qixbafP9e8lt"
+    },
+    {
+      "added_at": "2022-08-17 15:04:55",
+      "album": {
+        "name": "RITMO (Bad Boys For Life)",
+        "url": "https://open.spotify.com/album/6EobpC5SDFy5DF50dWNVGF"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 221714,
+      "name": "RITMO (Bad Boys For Life)",
+      "url": "https://open.spotify.com/track/6cy3ki60hLwimwIje7tALf"
     },
     {
       "added_at": "2022-08-17 15:04:55",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2022-08-17 15:04:55",
       "album": {
-        "name": "Dura",
-        "url": "https://open.spotify.com/album/1copqxpiZy0dn219MSyPR7"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 200480,
-      "name": "Dura",
-      "url": "https://open.spotify.com/track/6KuqAtoeVzxAYOaMveLNpH"
-    },
-    {
-      "added_at": "2022-08-17 15:04:55",
-      "album": {
         "name": "Sigue Bailandome",
         "url": "https://open.spotify.com/album/7v95vtyP4yh88N5fx5rYdB"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 352441,
       "name": "Sigue Bailandome",
       "url": "https://open.spotify.com/track/0GmiGIxXDNrePrHBpijYDp"
+    },
+    {
+      "added_at": "2022-08-17 15:04:55",
+      "album": {
+        "name": "Dura",
+        "url": "https://open.spotify.com/album/1copqxpiZy0dn219MSyPR7"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 200480,
+      "name": "Dura",
+      "url": "https://open.spotify.com/track/6KuqAtoeVzxAYOaMveLNpH"
     },
     {
       "added_at": "2022-08-17 15:04:55",
@@ -2379,22 +2379,6 @@
     {
       "added_at": "2022-08-17 15:04:55",
       "album": {
-        "name": "Love And Sex",
-        "url": "https://open.spotify.com/album/2nyw6aQu85kFb3mYb4vWwE"
-      },
-      "artists": [
-        {
-          "name": "Plan B",
-          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
-        }
-      ],
-      "duration_ms": 240320,
-      "name": "Fan\u00e1tica Sensual",
-      "url": "https://open.spotify.com/track/5ZFpEsxK5VlLkJi3v7ar2Y"
-    },
-    {
-      "added_at": "2022-08-17 15:04:55",
-      "album": {
         "name": "+Linda",
         "url": "https://open.spotify.com/album/5ka8beHlVQAFdRm6IaZ9JQ"
       },
@@ -2407,6 +2391,22 @@
       "duration_ms": 161748,
       "name": "+Linda",
       "url": "https://open.spotify.com/track/5cBrOhKDyiJF9bPGUHKkG0"
+    },
+    {
+      "added_at": "2022-08-17 15:04:55",
+      "album": {
+        "name": "Love And Sex",
+        "url": "https://open.spotify.com/album/2nyw6aQu85kFb3mYb4vWwE"
+      },
+      "artists": [
+        {
+          "name": "Plan B",
+          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
+        }
+      ],
+      "duration_ms": 240320,
+      "name": "Fan\u00e1tica Sensual",
+      "url": "https://open.spotify.com/track/5ZFpEsxK5VlLkJi3v7ar2Y"
     },
     {
       "added_at": "2022-08-17 15:04:55",
@@ -2499,26 +2499,6 @@
     {
       "added_at": "2022-08-17 15:04:55",
       "album": {
-        "name": "CNCO",
-        "url": "https://open.spotify.com/album/0YCyFUN3ihGbP2x9C09NF6"
-      },
-      "artists": [
-        {
-          "name": "CNCO",
-          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 206920,
-      "name": "Hey DJ",
-      "url": "https://open.spotify.com/track/1XgpK29CGGjZnxPYkiRbh4"
-    },
-    {
-      "added_at": "2022-08-17 15:04:55",
-      "album": {
         "name": "ADN",
         "url": "https://open.spotify.com/album/0CUMVFalkFhZM6Xo0ErxLi"
       },
@@ -2535,6 +2515,26 @@
       "duration_ms": 199090,
       "name": "Te Quemaste",
       "url": "https://open.spotify.com/track/4fj7e6Tc48Bmomwyz2Z2XC"
+    },
+    {
+      "added_at": "2022-08-17 15:04:55",
+      "album": {
+        "name": "CNCO",
+        "url": "https://open.spotify.com/album/0YCyFUN3ihGbP2x9C09NF6"
+      },
+      "artists": [
+        {
+          "name": "CNCO",
+          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 206920,
+      "name": "Hey DJ",
+      "url": "https://open.spotify.com/track/1XgpK29CGGjZnxPYkiRbh4"
     },
     {
       "added_at": "2022-08-17 15:04:55",
@@ -2639,22 +2639,6 @@
     {
       "added_at": "2022-08-17 15:04:55",
       "album": {
-        "name": "Picky Back To The Roots",
-        "url": "https://open.spotify.com/album/5Y0jPLZZEf179dwwq4iEmN"
-      },
-      "artists": [
-        {
-          "name": "Joey Montana",
-          "url": "https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX"
-        }
-      ],
-      "duration_ms": 182746,
-      "name": "Picky",
-      "url": "https://open.spotify.com/track/4tPL9PeVZY4c0jUPtSD5nx"
-    },
-    {
-      "added_at": "2022-08-17 15:04:55",
-      "album": {
         "name": "Mir\u00e1ndote",
         "url": "https://open.spotify.com/album/7xnKqGbHSMxldHS5AcCn08"
       },
@@ -2667,6 +2651,22 @@
       "duration_ms": 135914,
       "name": "Mir\u00e1ndote",
       "url": "https://open.spotify.com/track/6wywJ7RutAY0JL7cMP7uFN"
+    },
+    {
+      "added_at": "2022-08-17 15:04:55",
+      "album": {
+        "name": "Picky Back To The Roots",
+        "url": "https://open.spotify.com/album/5Y0jPLZZEf179dwwq4iEmN"
+      },
+      "artists": [
+        {
+          "name": "Joey Montana",
+          "url": "https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX"
+        }
+      ],
+      "duration_ms": 182746,
+      "name": "Picky",
+      "url": "https://open.spotify.com/track/4tPL9PeVZY4c0jUPtSD5nx"
     },
     {
       "added_at": "2022-08-17 15:04:55",

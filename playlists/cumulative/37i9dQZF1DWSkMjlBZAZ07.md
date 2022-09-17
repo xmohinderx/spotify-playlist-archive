@@ -4,7 +4,7 @@
 
 > Brighten your day with a mix of folksy mood boosters.
 
-182 songs - 10 hr 46 min - [published](https://open.spotify.com/playlist/4lWrIHnS7oBXtFO6UQpyPP)
+183 songs - 10 hr 49 min - [published](https://open.spotify.com/playlist/4lWrIHnS7oBXtFO6UQpyPP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,8 +26,9 @@
 | [Back to You](https://open.spotify.com/track/6iB4FVNBjXR9M5nhvSlZde) | [Twin Forks](https://open.spotify.com/artist/6GwNGuDRNbx5XwoHQA3QiD) | [Twin Forks](https://open.spotify.com/album/5RtOloqFxDxiJJgAkDqrvZ) | 2:50 | 2022-06-21 |  |
 | [Back to You](https://open.spotify.com/track/7nlGMUcyIGWZQFkOOxOWl5) | [WILD](https://open.spotify.com/artist/0jcaMhfyinUx3Pj8w4nmWZ) | [Back to You](https://open.spotify.com/album/4cTUFRQRiMo5ubMtQLaFCG) | 3:15 | 2021-11-12 | 2022-06-24 |
 | [Believe](https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Believe](https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo) | 3:15 | 2022-06-21 |  |
+| [Better Angels](https://open.spotify.com/track/4ea8UWKf6mWySfzddxfKfE) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [\(self\-titled\)](https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE) | 3:25 | 2022-09-16 |  |
 | [Brazil](https://open.spotify.com/track/5ftdTvmQjjsL23t7jxADfI) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Brazil](https://open.spotify.com/album/38qaYdCiewb6NrRvVxWTe4) | 4:12 | 2021-11-12 |  |
-| [Bride](https://open.spotify.com/track/258ONJcunOE7KA225pLP2x) | [San Fermin](https://open.spotify.com/artist/7fSnislKgW9Mz0YIqWQmGt) | [Belong](https://open.spotify.com/album/22sKyWyE7QGrAtfPHDboXV) | 3:49 | 2022-06-21 |  |
+| [Bride](https://open.spotify.com/track/258ONJcunOE7KA225pLP2x) | [San Fermin](https://open.spotify.com/artist/7fSnislKgW9Mz0YIqWQmGt) | [Belong](https://open.spotify.com/album/22sKyWyE7QGrAtfPHDboXV) | 3:49 | 2022-06-21 | 2022-09-17 |
 | [Bride](https://open.spotify.com/track/6IG4Z0sKhLG7MaXOgPCaa8) | [San Fermin](https://open.spotify.com/artist/7fSnislKgW9Mz0YIqWQmGt) | [Bride](https://open.spotify.com/album/28owF5FXqCYlH1nfT09uVU) | 3:49 | 2021-11-12 | 2022-07-29 |
 | [BRIGHTSIDE](https://open.spotify.com/track/1TX0ImiGMYiikRash29a2b) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/35oJ7lIOHpQtRxr4QiCK5j) | 3:49 | 2021-11-12 | 2022-06-22 |
 | [By and By](https://open.spotify.com/track/75nZ4W6quZhI55LKiqCXWh) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [By and By](https://open.spotify.com/album/4Ib3LE6FimfhNVnY7Tc1zM) | 4:40 | 2021-11-12 |  |

@@ -4,7 +4,7 @@
 
 > Las canciones de reggaetón que marcaron el año, con Myke Towers en portada.
 
-53 songs - 3 hr 9 min - [published](https://open.spotify.com/playlist/7FdxNB3nYpH9CWeuAB2zln)
+54 songs - 3 hr 14 min - [published](https://open.spotify.com/playlist/7FdxNB3nYpH9CWeuAB2zln)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [Ella \- Remix](https://open.spotify.com/track/7iHHlCbsFou5DZSW5HCPfs) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Ella \(Remix\)](https://open.spotify.com/album/1XWOwAxb9awdotZSHQnAMH) | 5:30 | 2021-12-01 |  |
 | [Fan de Tus Fotos](https://open.spotify.com/track/6rIql0inorjJoC5Fxye5e9) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Infinity](https://open.spotify.com/album/2nRRfeEazBN10vZdPFmQME) | 3:17 | 2021-12-01 |  |
 | [Fiel](https://open.spotify.com/track/7Bk0uXKk1uPT0XuQbpFzvs) | [Los Legendarios](https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Los Legendarios 001](https://open.spotify.com/album/7g5WqPI4CdA22Cy8LxRXCf) | 4:21 | 2021-12-01 |  |
-| [Flow HP](https://open.spotify.com/track/2wspc75R45gvwJCZOorAqv) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS) | [Flow HP](https://open.spotify.com/album/36ZKw8lFS9awLSyvnGkc5S) | 4:08 | 2021-12-01 |  |
+| [Flow HP](https://open.spotify.com/track/2wspc75R45gvwJCZOorAqv) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS) | [Flow HP](https://open.spotify.com/album/36ZKw8lFS9awLSyvnGkc5S) | 4:08 | 2021-12-01 | 2022-09-17 |
+| [Flow HP](https://open.spotify.com/track/44ndoilnBkP6bV3r7JKcv8) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS) | [Flow HP](https://open.spotify.com/album/3ExAyJjuHEUDxCgpFJ6Sqp) | 4:08 | 2021-12-01 |  |
 | [Hecha Pa' Mi](https://open.spotify.com/track/3VvA1wSxukMLsvXoXtlwWx) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Más Negro Que Rojo](https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU) | 3:06 | 2021-12-01 |  |
 | [IMPOSIBLE \- REMIX](https://open.spotify.com/track/5eaLGyPrVG7FbZ5vVnBm93) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [IMPOSIBLE \(REMIX\)](https://open.spotify.com/album/6TxOo9xRjrNPyNSHLtMpIR) | 3:41 | 2021-12-01 |  |
 | [LA NOCHE DE ANOCHE](https://open.spotify.com/track/2XIc1pqjXV3Cr2BQUGNBck) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 3:23 | 2021-12-01 |  |

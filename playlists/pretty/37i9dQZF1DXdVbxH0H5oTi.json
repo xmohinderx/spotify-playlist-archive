@@ -1,12 +1,12 @@
 {
   "description": "No procrastination allowed. Only fun songs to help you get chores done.",
-  "num_followers": 408781,
+  "num_followers": 408923,
   "original_name": "Get Chores Done",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTU1OTgwOCwwMDAwMDAwMDBkYzllMTQwNzkwOTdlZTFlZDMyNzNmZWU5MmM5NGJi",
+  "snapshot_id": "MTY0NTU1OTgwOCwwMDAwMDAwMGMzMjg5ZTQ1YjU5YmFlMGY1MmI5MmY3ZjU4ZjY5OTMw",
   "tracks": [
     {
       "added_at": "2021-09-23 19:39:00",
@@ -259,22 +259,6 @@
     {
       "added_at": "2021-09-23 19:39:00",
       "album": {
-        "name": "Dynasty",
-        "url": "https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 271240,
-      "name": "I Was Made For Lovin' You",
-      "url": "https://open.spotify.com/track/07q0QVgO56EorrSGHC48y3"
-    },
-    {
-      "added_at": "2021-09-23 19:39:00",
-      "album": {
         "name": "The Best Of Earth, Wind & Fire Vol. 1",
         "url": "https://open.spotify.com/album/2FW0uQ4WL25umm5p2VrZO7"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 215093,
       "name": "September",
       "url": "https://open.spotify.com/track/2grjqo0Frpf2okIBiifQKs"
+    },
+    {
+      "added_at": "2021-09-23 19:39:00",
+      "album": {
+        "name": "Dynasty",
+        "url": "https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 271240,
+      "name": "I Was Made For Lovin' You",
+      "url": "https://open.spotify.com/track/07q0QVgO56EorrSGHC48y3"
     },
     {
       "added_at": "2021-09-23 19:39:00",

@@ -4,7 +4,7 @@
 
 > A 100\-track collection of insanely good progressive rock creations, from classic acts like Rush, Yes, and Genesis to lesser\-known international gems\. Cover: Rush
 
-145 songs - 22 hr 7 min - [published](https://open.spotify.com/playlist/2rdAvTDYuWVwQMDSQjVRa5)
+146 songs - 22 hr 18 min - [published](https://open.spotify.com/playlist/2rdAvTDYuWVwQMDSQjVRa5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,8 +46,9 @@
 | [Cloudburst Flight \- 1995 Remaster](https://open.spotify.com/track/2IbRbFFOTu3e1uswub6FPo) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [Force Majeure \(1995 \- Remaster\)](https://open.spotify.com/album/6NGGfMRPtvshivFJWwSjza) | 7:28 | 2018-09-28 | 2022-07-29 |
 | [Diary Of An Empty Day](https://open.spotify.com/track/40WmNpvY3JG9aIpdFueJOf) | [The Nice](https://open.spotify.com/artist/5oHYrXNyCSEdacKCCrteMX) | [Five Bridges](https://open.spotify.com/album/33URnP2kyItDfs8xDhxKAH) | 3:58 | 2018-09-28 | 2022-07-29 |
 | [Diary Of An Empty Day \- 2009 Digital Remaster](https://open.spotify.com/track/38er4l8Kt39Nvu3oE11dsR) | [The Nice](https://open.spotify.com/artist/5oHYrXNyCSEdacKCCrteMX) | [Autumn 1967 And Spring 1968](https://open.spotify.com/album/3K1odp989BdGYu2hZvd2ZQ) | 3:58 | 2018-09-28 |  |
+| [Dundrets Fröjder](https://open.spotify.com/track/023wFbs9wpg3MXv4Vit7TS) | [Samla Mammas Manna](https://open.spotify.com/artist/2YHHo7UJ5bZOWUu2SDVSy3) | [Måltid](https://open.spotify.com/album/22kgwJs6uV82ck3s1q7l8a) | 10:46 | 2018-09-28 |  |
 | [Dundrets Fröjder](https://open.spotify.com/track/1S2C36zZO4D7ooh0ZFYdkJ) | [Samla Mammas Manna](https://open.spotify.com/artist/2YHHo7UJ5bZOWUu2SDVSy3) | [Måltid](https://open.spotify.com/album/3fVhJ1HiYlwRqtDbegL4oA) | 10:46 | 2018-09-28 | 2022-07-29 |
-| [Dundrets Fröjder](https://open.spotify.com/track/4a5Il8dMAS1IpVnUs0o4a1) | [Samla Mammas Manna](https://open.spotify.com/artist/2YHHo7UJ5bZOWUu2SDVSy3) | [Måltid](https://open.spotify.com/album/7kqeIfYqzhmeogLP1CtqYX) | 10:46 | 2018-09-28 |  |
+| [Dundrets Fröjder](https://open.spotify.com/track/4a5Il8dMAS1IpVnUs0o4a1) | [Samla Mammas Manna](https://open.spotify.com/artist/2YHHo7UJ5bZOWUu2SDVSy3) | [Måltid](https://open.spotify.com/album/7kqeIfYqzhmeogLP1CtqYX) | 10:46 | 2018-09-28 | 2022-09-17 |
 | [Echoes](https://open.spotify.com/track/3qEKk7UlpfPPMyfouHhgi6) | [Camel](https://open.spotify.com/artist/3Uz6jx81OY2J5K8Z4wmy2P) | [Breathless](https://open.spotify.com/album/1YRwNrwQKhQpEBUeLCtucL) | 7:20 | 2018-09-28 |  |
 | [Echoes](https://open.spotify.com/track/7kriFJLY2KOhw5en9iI2jb) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Meddle](https://open.spotify.com/album/468ZwCchVtzEbt9BHmXopb) | 23:32 | 2021-05-05 |  |
 | [Evil Woman](https://open.spotify.com/track/3ZLqxVQpxOe1uKyL4qZDZC) | [Spooky Tooth](https://open.spotify.com/artist/5YE3Wwk5wqQmFXM5qyaM6u) | [Spooky Two](https://open.spotify.com/album/7Ehr4tstOQtGR8SILkfhsn) | 9:08 | 2018-09-28 | 2022-07-29 |

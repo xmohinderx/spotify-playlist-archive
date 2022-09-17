@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Ally Evenson \| Visual Artist: Bailey Elder
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,945 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,985 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 9 | [Uncovered](https://open.spotify.com/track/0u3Ck6jifvedbQL0ZjBP1l) | [Max Helgemo](https://open.spotify.com/artist/25tISYfzQFqAvNdmWPspGS) | [Uncovered](https://open.spotify.com/album/7A8zAcXTRDKJdt7HpRmwAT) | 3:44 |
 | 10 | [Skips & Rings](https://open.spotify.com/track/0ZTlgV36p87YUL0qSslr04) | [Crane Like the Bird](https://open.spotify.com/artist/1i9TpycvQFCCyoOgqjevil), [Luke Steele](https://open.spotify.com/artist/5GtP5i2ZL7bU7gNuw4AC4e) | [Skips & Rings](https://open.spotify.com/album/4lo79kLIQmIeou8KyV8eR8) | 3:11 |
 | 11 | [Preoccupied](https://open.spotify.com/track/7jcBE4X9AbH5KnxFkiFzJG) | [Tarune](https://open.spotify.com/artist/2tIerRKCwa3Zz1oVBDOUlq) | [Preoccupied](https://open.spotify.com/album/6E07nHKqRmmxGbnbxAqEaj) | 3:31 |
-| 12 | [Just Take Love, for Example](https://open.spotify.com/track/2bjzpFwGIjF9J2Yznu83JJ) | [Jordie Lane](https://open.spotify.com/artist/5exAkC90ITNJz5trrpuYsa) | [Just Take Love, for Example](https://open.spotify.com/album/01CllUR6h31HwefmRdaLs9) | 4:18 |
+| 12 | [Just Take Love, for Example](https://open.spotify.com/track/79WTsOWzsiCeyhq9OxkqzC) | [Jordie Lane](https://open.spotify.com/artist/5exAkC90ITNJz5trrpuYsa) | [The Empty House Tapes, Vol\. 1](https://open.spotify.com/album/6YK7uXBuM58fpmvc9l1N1Y) | 4:18 |
 | 13 | [Ironbound](https://open.spotify.com/track/4BJg7wj5kDXS0PDn3OA0TM) | [War Is Over](https://open.spotify.com/artist/2U5DM6NI5RqAsRyfgFZwiU) | [Ironbound](https://open.spotify.com/album/5pNTSJBJhhwgXS21TggvFF) | 4:08 |
 | 14 | [I'm On Your Team](https://open.spotify.com/track/69jT12rES32If7pt7tC6SK) | [Babehoven](https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70) | [I'm On Your Team](https://open.spotify.com/album/4vreIPwo6krkOo8bwRXjJl) | 4:18 |
 | 15 | [The Ghost of Me](https://open.spotify.com/track/5ZfIKnOgvBmHNj8s3g5nKd) | [Barbra Lica](https://open.spotify.com/artist/1LWWCHWErOO9KZfcwrmS9D) | [The Ghost of Me](https://open.spotify.com/album/0SbXNQyZQgx5uyWSL7OVCo) | 3:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 99 | [Jigsaw](https://open.spotify.com/track/16NDgpxqIktl0Uluplcz9A) | [Emma Worley](https://open.spotify.com/artist/4uKFpcmOUIswqq7B1c1Zdv) | [Sentimentalist](https://open.spotify.com/album/3iFfF1trCX7iUwWf28iJ2w) | 3:26 |
 | 100 | [Clockwork](https://open.spotify.com/track/3aSdRudIrqMCoa4teNQDRq) | [Ghost Woman](https://open.spotify.com/artist/4IEpQR24sUgq6BQw2MdZIy) | [Ghost Woman](https://open.spotify.com/album/3czqc1XrxY4pT1kXzoRY4i) | 2:21 |
 
-Snapshot ID: `MTY2MzE3MTIwMCwwMDAwMDAwMGZkMGUwMzk5YWVkZDQ0MDlhNWNhYjUzMWRlNGVkMTVi`
+Snapshot ID: `MTY2MzE3MTIwMCwwMDAwMDAwMDM0Y2EyYzZkM2Y5OWI1ZTUxMjllZjNmMWQyYTYzNDA0`

@@ -1,12 +1,12 @@
 {
   "description": "When the dance floor calls your name, that's amore.",
-  "num_followers": 46364,
+  "num_followers": 46487,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY3NDQ2MCwwMDAwMDAwMGEyZTk1N2M4YjZjNGFkYzQzYTM0ZjM4OGUwNTk5ZTQ5",
+  "snapshot_id": "MTY2MjY3NDQ2MCwwMDAwMDAwMDNmYWJjN2Y4NGVmNTYwNTYwNTdkNWNmZjNmMzM3ZDE0",
   "tracks": [
     {
       "added_at": "2022-09-08 22:01:00",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
+        "name": "Caf\u00e8",
+        "url": "https://open.spotify.com/album/1vv5SsVv82uIMDMme0ow28"
+      },
+      "artists": [
+        {
+          "name": "Dd Sound",
+          "url": "https://open.spotify.com/artist/7q9FUGUCmVh5kVfXJyCADD"
+        }
+      ],
+      "duration_ms": 393773,
+      "name": "Caf\u00e8 - Original 1979 Version",
+      "url": "https://open.spotify.com/track/6bKOUB4zXxYFhG4a3x6JGZ"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
         "name": "Under the Ice - Single",
         "url": "https://open.spotify.com/album/3vMFalOaP1bCRm8HVFQOAk"
       },
@@ -1107,18 +1123,18 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "Caf\u00e8",
-        "url": "https://open.spotify.com/album/1vv5SsVv82uIMDMme0ow28"
+        "name": "Bambina c/o Bye Bye Mi Amor",
+        "url": "https://open.spotify.com/album/1fA8zx1Var0vhNP2uqMfcb"
       },
       "artists": [
         {
-          "name": "Dd Sound",
-          "url": "https://open.spotify.com/artist/7q9FUGUCmVh5kVfXJyCADD"
+          "name": "David Lyme",
+          "url": "https://open.spotify.com/artist/7dkuwtOl8Y2O2fcWy1vtV1"
         }
       ],
-      "duration_ms": 393773,
-      "name": "Caf\u00e8 - Original 1979 Version",
-      "url": "https://open.spotify.com/track/6bKOUB4zXxYFhG4a3x6JGZ"
+      "duration_ms": 331200,
+      "name": "Bambina (Original 12-Inch Version)",
+      "url": "https://open.spotify.com/track/4x4Ip4xOCRGIBNsts7GUBD"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -1135,22 +1151,6 @@
       "duration_ms": 224000,
       "name": "Discamore",
       "url": "https://open.spotify.com/track/6Kviwj20NGF2KQQ2Jke1cB"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
-        "name": "Bambina c/o Bye Bye Mi Amor",
-        "url": "https://open.spotify.com/album/1fA8zx1Var0vhNP2uqMfcb"
-      },
-      "artists": [
-        {
-          "name": "David Lyme",
-          "url": "https://open.spotify.com/artist/7dkuwtOl8Y2O2fcWy1vtV1"
-        }
-      ],
-      "duration_ms": 331200,
-      "name": "Bambina (Original 12-Inch Version)",
-      "url": "https://open.spotify.com/track/4x4Ip4xOCRGIBNsts7GUBD"
     },
     {
       "added_at": "2022-09-08 22:01:00",

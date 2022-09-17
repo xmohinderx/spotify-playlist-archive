@@ -85,6 +85,28 @@
     {
       "album": {
         "name": "2077 (Slowed + Reverb)",
+        "url": "https://open.spotify.com/album/0P2qRYsHnnSHWDcgxuZ1HW"
+      },
+      "artists": [
+        {
+          "name": "slowed down music",
+          "url": "https://open.spotify.com/artist/0To1rYNCQCQNqWr6mnboFi"
+        },
+        {
+          "name": "do not resurrect",
+          "url": "https://open.spotify.com/artist/0QRp7CyL31iErUn6cX0YU3"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156823,
+      "name": "2077 (Slowed + Reverb)",
+      "url": "https://open.spotify.com/track/4oKjiIqpMpvglxaNUm3VYn"
+    },
+    {
+      "album": {
+        "name": "2077 (Slowed + Reverb)",
         "url": "https://open.spotify.com/album/2pk9bxFgWz6Sa9FBVpuwLI"
       },
       "artists": [
@@ -1165,7 +1187,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-13",
+      "date_removed": null,
       "duration_ms": 217200,
       "name": "Feel Like (Slowed)",
       "url": "https://open.spotify.com/track/5tyiYmxmihXZi0ASdPqsTo"
@@ -1515,7 +1537,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 95108,
       "name": "I Don't Trust Nobody - Slowed and Reverb",
       "url": "https://open.spotify.com/track/5kFWqLVb9idG4f52ZVD99r"
@@ -2341,7 +2363,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 180403,
       "name": "Righteous - SLOW & REVERB",
       "url": "https://open.spotify.com/track/7nXhtM9iHmF8Cffte2nhGo"

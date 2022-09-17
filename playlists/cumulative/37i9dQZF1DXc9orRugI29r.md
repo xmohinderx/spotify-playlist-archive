@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXc9orRugI29r.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXc9orRugI29r) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXc9orRugI29r)
 
-### [HOT NOW: Paulo Londra, Duki \- Party en el Barrio](https://open.spotify.com/playlist/37i9dQZF1DXc9orRugI29r)
+### [HOT NOW: BLACKPINK \- Shut Down](https://open.spotify.com/playlist/37i9dQZF1DXc9orRugI29r)
 
 > ¡No busques más! La música del momento está aquí.
 
-131 songs - 7 hr 2 min - [published](https://open.spotify.com/playlist/5mEHUPoU1CDbg5pwZcKW2e)
+132 songs - 7 hr 5 min - [published](https://open.spotify.com/playlist/5mEHUPoU1CDbg5pwZcKW2e)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Sentido](https://open.spotify.com/track/5omDX9Ne3KCDCSOMFJJkpB) | [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Sentido](https://open.spotify.com/album/6aaV7ZSqieuAVIhaFlkBAJ) | 4:07 | 2022-05-13 |  |
 | [Sex & Love](https://open.spotify.com/track/3ylhgzhvSICQcyv0U3Ozwv) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Portales](https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx) | 2:25 | 2022-07-23 |  |
 | [SG \(with Ozuna, Megan Thee Stallion & LISA of BLACKPINK\)](https://open.spotify.com/track/6IPNp9PfaEqrzotY47TIWy) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [SG \(with Ozuna, Megan Thee Stallion & LISA of BLACKPINK\)](https://open.spotify.com/album/2TGtXG18s21Q1jnY2TC39M) | 3:45 | 2022-01-27 | 2022-03-04 |
+| [Shut Down](https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 2:55 | 2022-09-16 |  |
 | [siente más](https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Paris Texas](https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8) | 4:00 | 2022-08-26 | 2022-09-15 |
 | [Sigo Esperando Que Vuelvas \(feat\. Los Golpes\)](https://open.spotify.com/track/1rdkLyIU3b9LTX1a6RrP5M) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Eirian Music](https://open.spotify.com/artist/4hMiTS2vx4r1mJbR4VUzn4), [Los Golpes](https://open.spotify.com/artist/7vyUXV67P88Hxq4Q5cpC1j) | [Sigo Esperando Que Vuelvas \(feat\. Los Golpes\)](https://open.spotify.com/album/58a7npneCuVfs5wqIT64TY) | 3:16 | 2022-05-25 | 2022-07-14 |
 | [Sigue](https://open.spotify.com/track/0bBd6K5X4W7t9GyXcaVOA7) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sigue/Forever My Love](https://open.spotify.com/album/5umofLk634QVTKYtt2Deoy) | 2:39 | 2022-03-25 |  |
@@ -128,7 +129,7 @@
 | [Todo My Love](https://open.spotify.com/track/0XOr0FAZIbUaxyU84o9AWJ) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Todo My Love](https://open.spotify.com/album/3gdPLbvBV3OAqigyVaV7Lt) | 3:20 | 2022-08-05 | 2022-09-09 |
 | [TV](https://open.spotify.com/track/7umNRgkjLJEnGF8Iq8f2rI) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [TV](https://open.spotify.com/album/1QlWbtKAAJnMTxYnLcRupx) | 2:45 | 2022-06-10 |  |
 | [Tú no me conoces](https://open.spotify.com/track/2ENHU0Zzp2BwZLr3Cyesc1) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Tú no me conoces](https://open.spotify.com/album/5EYJpGVbasJMWtbgLmTDQI) | 2:29 | 2022-01-27 | 2022-03-04 |
-| [Un Chingazo](https://open.spotify.com/track/2BZo8z5xUPzrj4dhxulJYh) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Un Chingazo](https://open.spotify.com/album/6yIjtEXYE92H1czjpyq2VG) | 3:09 | 2022-06-23 |  |
+| [Un Chingazo](https://open.spotify.com/track/2BZo8z5xUPzrj4dhxulJYh) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Un Chingazo](https://open.spotify.com/album/6yIjtEXYE92H1czjpyq2VG) | 3:09 | 2022-06-23 | 2022-09-17 |
 | [Una Noche en Medellín](https://open.spotify.com/track/1O2pcBJGej0pmH2Y9XZMs6) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Una Noche en Medellín](https://open.spotify.com/album/455Vc66bPFRI5D0zDEDn46) | 2:33 | 2022-03-04 |  |
 | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3) | 3:02 | 2022-05-06 | 2022-09-02 |
 | [Vegas \(I Wanna Ride\)](https://open.spotify.com/track/2bId06MUsxJqO7LoeLZoq5) | [Joseline Hernandez](https://open.spotify.com/artist/2PRMdXcZ3cQu57agSO2zDn) | [Vegas \(I Wanna Ride\)](https://open.spotify.com/album/0Jjnv5tSd8p8HW7PCwSiHa) | 3:40 | 2022-04-06 | 2022-07-16 |

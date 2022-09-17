@@ -4,25 +4,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7YUDFu8f.md) - [plain]
 
 > Lekker rustig aan doen op zaterdag met deze zachte pop liedjes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,157 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,159 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Slow Love \- Acoustic](https://open.spotify.com/track/79ZmAU7DaOEm7etd0mRkKT) | [FRIDAY](https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX) | [2 degrees](https://open.spotify.com/album/5VaSkpAV6yLSudbdkHtjlB) | 3:19 |
 | 2 | [Wishes](https://open.spotify.com/track/1kSBUhFBZT6z62eTTjeJLi) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Snowdrop \(Original Television Soundtrack, Pt\. 4\)](https://open.spotify.com/album/2rR3MvjhEL8Cd0IauUCZTg) | 3:59 |
-| 3 | [if i wasn't made for love](https://open.spotify.com/track/0gTQHu2jECAp9qSw1t5dkr) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [if i wasn't made for love](https://open.spotify.com/album/3zLvfi1YxYdN0YwgIc8vDA) | 3:56 |
-| 4 | [When Times Get Rough](https://open.spotify.com/track/6g23580DTtKk71sSGiX3fM) | [Jana Mila](https://open.spotify.com/artist/1roi4E4kE3vXaKxQ2n5aKB) | [When Times Get Rough](https://open.spotify.com/album/1CihsEE3OM3dAV4lviQGui) | 2:16 |
-| 5 | [Realize It All \- Acoustic](https://open.spotify.com/track/608CINyj8dNwdOWUKgkyNs) | [Lila Dupont](https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32) | [Realize It All \(Acoustic\)](https://open.spotify.com/album/4Ywiib2uibpXnvFFmYVDRg) | 3:36 |
-| 6 | [Just Come Home](https://open.spotify.com/track/1k35C50wOx6bpMMFfQFv9O) | [The Starlings](https://open.spotify.com/artist/1eWulCragj6PpUGCgMt6M8) | [Just Come Home](https://open.spotify.com/album/26hzd1T6i4e6zvxaTyy9yp) | 3:23 |
-| 7 | [Quietly Yours](https://open.spotify.com/track/52xFKeXEHm2fI8jpia0oUS) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Persuasion \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/66j8eOruoDph1NWL9vAI1W) | 3:54 |
-| 8 | [Letters](https://open.spotify.com/track/5II1sTlUHO9QAZBbxFUm8C) | [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr) | [Letters](https://open.spotify.com/album/4yl0l9uQmFY69HEABZ2IbA) | 3:01 |
-| 9 | [For All You Give](https://open.spotify.com/track/6LLb6rVMgQnGNZwwHSxTzn) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy), [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Roses](https://open.spotify.com/album/6w6TexLleVpQxVzOKOBaOD) | 3:11 |
-| 10 | [Sister](https://open.spotify.com/track/1IKMzW0NMEWOgNO3LVFZbe) | [Tomas Ferdinand](https://open.spotify.com/artist/04wssUBpRPfy8WOL1JKaLf) | [Airplanes](https://open.spotify.com/album/5Nm3G5vPdDf9hxo11dQiEZ) | 3:25 |
-| 11 | [To Be Loved](https://open.spotify.com/track/10ImcQk9tihY1EKMDIbvXJ) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:43 |
+| 3 | [For All You Give](https://open.spotify.com/track/6LLb6rVMgQnGNZwwHSxTzn) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy), [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Roses](https://open.spotify.com/album/6w6TexLleVpQxVzOKOBaOD) | 3:11 |
+| 4 | [if i wasn't made for love](https://open.spotify.com/track/0gTQHu2jECAp9qSw1t5dkr) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [if i wasn't made for love](https://open.spotify.com/album/3zLvfi1YxYdN0YwgIc8vDA) | 3:56 |
+| 5 | [When Times Get Rough](https://open.spotify.com/track/6g23580DTtKk71sSGiX3fM) | [Jana Mila](https://open.spotify.com/artist/1roi4E4kE3vXaKxQ2n5aKB) | [When Times Get Rough](https://open.spotify.com/album/1CihsEE3OM3dAV4lviQGui) | 2:16 |
+| 6 | [Realize It All \- Acoustic](https://open.spotify.com/track/608CINyj8dNwdOWUKgkyNs) | [Lila Dupont](https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32) | [Realize It All \(Acoustic\)](https://open.spotify.com/album/4Ywiib2uibpXnvFFmYVDRg) | 3:36 |
+| 7 | [Just Come Home](https://open.spotify.com/track/1k35C50wOx6bpMMFfQFv9O) | [The Starlings](https://open.spotify.com/artist/1eWulCragj6PpUGCgMt6M8) | [Just Come Home](https://open.spotify.com/album/26hzd1T6i4e6zvxaTyy9yp) | 3:23 |
+| 8 | [Magnetic Fields](https://open.spotify.com/track/0X9LxiGZ1yu8YqR3RGQdQQ) | [The Analogues Sideshow](https://open.spotify.com/artist/2cwQ2aJ650PUpQmq3aT4kO), [The Analogues](https://open.spotify.com/artist/5kGU4SsIURP34e0AraFpQ2) | [Magnetic Fields](https://open.spotify.com/album/5sEAAWAprzf2j6PW8SgXed) | 2:33 |
+| 9 | [Quietly Yours](https://open.spotify.com/track/52xFKeXEHm2fI8jpia0oUS) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Persuasion \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/66j8eOruoDph1NWL9vAI1W) | 3:54 |
+| 10 | [Letters](https://open.spotify.com/track/5II1sTlUHO9QAZBbxFUm8C) | [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr) | [Letters](https://open.spotify.com/album/4yl0l9uQmFY69HEABZ2IbA) | 3:01 |
+| 11 | [Sister](https://open.spotify.com/track/1IKMzW0NMEWOgNO3LVFZbe) | [Tomas Ferdinand](https://open.spotify.com/artist/04wssUBpRPfy8WOL1JKaLf) | [Airplanes](https://open.spotify.com/album/5Nm3G5vPdDf9hxo11dQiEZ) | 3:25 |
 | 12 | [Just Tell Him It's Over \- Acoustic](https://open.spotify.com/track/1WV6hBQhyC6PAE7ey7YjXc) | [Emil Landman](https://open.spotify.com/artist/0TaelSp6OIZw6mzikDmDrB) | [Brooklyn Sessions](https://open.spotify.com/album/1GNZp65P7xWcRfzRfbP1Mj) | 3:01 |
 | 13 | [Anny](https://open.spotify.com/track/0F7QiOGkU5JeHe6hNC0s4Z) | [Will Knox](https://open.spotify.com/artist/2e0OOXFJ610jkry76XceeS) | [Anny](https://open.spotify.com/album/3N7s6qaUZINJn1QEcfJHe9) | 4:03 |
 | 14 | [Is It Really Over](https://open.spotify.com/track/6iu2xELNP7DX9XPG3kl58q) | [Paper Towns](https://open.spotify.com/artist/5ofMaKibg1xntezRb8Og2U), [Rosemary & Garlic](https://open.spotify.com/artist/7MZvYitgCWAOaKjxdm2S17) | [Is It Really Over](https://open.spotify.com/album/5giATgpzWHU0d0N48oRdIa) | 3:38 |
-| 15 | [Magnetic Fields](https://open.spotify.com/track/0X9LxiGZ1yu8YqR3RGQdQQ) | [The Analogues Sideshow](https://open.spotify.com/artist/2cwQ2aJ650PUpQmq3aT4kO), [The Analogues](https://open.spotify.com/artist/5kGU4SsIURP34e0AraFpQ2) | [Magnetic Fields](https://open.spotify.com/album/5sEAAWAprzf2j6PW8SgXed) | 2:33 |
+| 15 | [To Be Loved](https://open.spotify.com/track/10ImcQk9tihY1EKMDIbvXJ) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:43 |
 | 16 | [Little Birds](https://open.spotify.com/track/3mgFa4MC92Q6iaT1fLKJkm) | [Midas](https://open.spotify.com/artist/7eNngegCrDK76btqeQ78wD) | [Little Birds](https://open.spotify.com/album/3pwDJLTeuu2f1JAkWS6Vnj) | 3:19 |
 | 17 | [Passport Home](https://open.spotify.com/track/4DzgGTs7eaS6DHHOp1xcyj) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Raised Under Grey Skies \(Deluxe\)](https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo) | 3:00 |
 | 18 | [Hold On To The Night](https://open.spotify.com/track/7nFG13NCU0gUY1RV8h1kDe) | [Roy van Maren](https://open.spotify.com/artist/7JkafgaIW0izdL74lbCkX6), [FLORE](https://open.spotify.com/artist/5IcU8YO2wyVss4vdA5AN2h) | [Hold On To The Night](https://open.spotify.com/album/2frOup854eahgacwS4TJfj) | 2:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7YUDFu8f.md) - [plain]
 | 99 | [Days of Old](https://open.spotify.com/track/7EUoHpKl506IJQlpYQUBsc) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [Days of Old](https://open.spotify.com/album/6WUfZhaL11rvcFlgLtvQJP) | 3:15 |
 | 100 | [Right Through Me](https://open.spotify.com/track/7HQ0kkdIswgLxz2X9Qm4ci) | [Marnix Emanuel](https://open.spotify.com/artist/6KGuYVnF7JVw7WpKPdfkvr) | [Right Through Me](https://open.spotify.com/album/60916foyRWkGRNvS0pDcEa) | 3:33 |
 
-Snapshot ID: `MTY2MTI1NjMxNSwwMDAwMDAwMDczMWYyMzJlYzAzMzkxNzZjZTIzZTMyNGEzZDQzOWUz`
+Snapshot ID: `MTY2MzMzOTU2MiwwMDAwMDAwMDAyMWFiZDc2MjAyMGIxNjMzNGY4MTUyZDQ2OGFjNGQ4`

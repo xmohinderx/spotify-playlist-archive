@@ -1,12 +1,12 @@
 {
   "description": "Get your Sunday sound right with this collection of current Gospel essentials.",
-  "num_followers": 70945,
+  "num_followers": 70958,
   "original_name": "Sundays Best",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MTE5NDc5MCwwMDAwMDAwMDBjODIwYzRjODY3NTNkODQyYjU4MDUzMTBlMzM1YmFh",
+  "snapshot_id": "MTU5MTE5NDc5MCwwMDAwMDAwMDJjYzY4YjExZTc3NmYxOGFlOTNhMTY3Yjc1YjJkMzVh",
   "tracks": [
     {
       "added_at": "2020-06-03 14:33:10",
@@ -563,22 +563,6 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
-        "name": "You Shall Live",
-        "url": "https://open.spotify.com/album/3TKtaibpr6H09j4z7QHaU8"
-      },
-      "artists": [
-        {
-          "name": "Marvin Sapp",
-          "url": "https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo"
-        }
-      ],
-      "duration_ms": 318186,
-      "name": "Live",
-      "url": "https://open.spotify.com/track/6Oc3UJgFdqv7WDKgl3x5CI"
-    },
-    {
-      "added_at": "2020-06-03 14:33:10",
-      "album": {
         "name": "Listen",
         "url": "https://open.spotify.com/album/5YChjVISCxpP25SXcAeEQm"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 295213,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/0RZfOr4ZxPJYOGqfhSQqoo"
+    },
+    {
+      "added_at": "2020-06-03 14:33:10",
+      "album": {
+        "name": "You Shall Live",
+        "url": "https://open.spotify.com/album/3TKtaibpr6H09j4z7QHaU8"
+      },
+      "artists": [
+        {
+          "name": "Marvin Sapp",
+          "url": "https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo"
+        }
+      ],
+      "duration_ms": 318186,
+      "name": "Live",
+      "url": "https://open.spotify.com/track/6Oc3UJgFdqv7WDKgl3x5CI"
     },
     {
       "added_at": "2020-06-03 14:33:10",
@@ -675,22 +675,6 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
-        "name": "Fearless (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2VZ2wxXREyzvLSGDdQtDsD"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Nelson",
-          "url": "https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa"
-        }
-      ],
-      "duration_ms": 485026,
-      "name": "Anything Can Happen",
-      "url": "https://open.spotify.com/track/7MKlnlo5PZalGfC0HSwUIU"
-    },
-    {
-      "added_at": "2020-06-03 14:33:10",
-      "album": {
         "name": "I Need You (Live)",
         "url": "https://open.spotify.com/album/4SlkxSSyXxnx9y0qpVlaH8"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 323877,
       "name": "I Need You (Live)",
       "url": "https://open.spotify.com/track/5nNZ8eGlitET1yeFHvizpI"
+    },
+    {
+      "added_at": "2020-06-03 14:33:10",
+      "album": {
+        "name": "Fearless (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2VZ2wxXREyzvLSGDdQtDsD"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Nelson",
+          "url": "https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa"
+        }
+      ],
+      "duration_ms": 485026,
+      "name": "Anything Can Happen",
+      "url": "https://open.spotify.com/track/7MKlnlo5PZalGfC0HSwUIU"
     },
     {
       "added_at": "2020-06-03 14:33:10",
@@ -767,6 +767,22 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
+        "name": "WOW Gospel 2016",
+        "url": "https://open.spotify.com/album/6MA7ireN4cN0GxrfL2IHVV"
+      },
+      "artists": [
+        {
+          "name": "William Murphy",
+          "url": "https://open.spotify.com/artist/1FQJqgKQDNLWfeLBQoQLmD"
+        }
+      ],
+      "duration_ms": 242893,
+      "name": "Already Getting Better",
+      "url": "https://open.spotify.com/track/6qCzqsSB1FLP3pr5fIrrAL"
+    },
+    {
+      "added_at": "2020-06-03 14:33:10",
+      "album": {
         "name": "If God / Nothing But the Blood (Studio Version)",
         "url": "https://open.spotify.com/album/7jQPc5YniQzkR0ucMuJHMY"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 585080,
       "name": "God Is My Refuge (Live)",
       "url": "https://open.spotify.com/track/0DTCdLczLgxt8EXrQFgnQV"
-    },
-    {
-      "added_at": "2020-06-03 14:33:10",
-      "album": {
-        "name": "WOW Gospel 2016",
-        "url": "https://open.spotify.com/album/6MA7ireN4cN0GxrfL2IHVV"
-      },
-      "artists": [
-        {
-          "name": "William Murphy",
-          "url": "https://open.spotify.com/artist/1FQJqgKQDNLWfeLBQoQLmD"
-        }
-      ],
-      "duration_ms": 242893,
-      "name": "Already Getting Better",
-      "url": "https://open.spotify.com/track/6qCzqsSB1FLP3pr5fIrrAL"
     },
     {
       "added_at": "2020-06-03 14:33:10",
@@ -863,22 +863,6 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
-        "name": "The Truth (Standard)",
-        "url": "https://open.spotify.com/album/2PN0icbfw6JsxnWrNmksuO"
-      },
-      "artists": [
-        {
-          "name": "Casey J",
-          "url": "https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd"
-        }
-      ],
-      "duration_ms": 469631,
-      "name": "I'm Yours",
-      "url": "https://open.spotify.com/track/1Le6O6aIBN69wCWL1psmLR"
-    },
-    {
-      "added_at": "2020-06-03 14:33:10",
-      "album": {
         "name": "I Am (Radio Edit)",
         "url": "https://open.spotify.com/album/5xnXnNzG7FUUrIZdiTxYot"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 287674,
       "name": "I Am - Radio Edit",
       "url": "https://open.spotify.com/track/1X2DFg7sUV1ajTbsJFJKqx"
+    },
+    {
+      "added_at": "2020-06-03 14:33:10",
+      "album": {
+        "name": "The Truth (Standard)",
+        "url": "https://open.spotify.com/album/2PN0icbfw6JsxnWrNmksuO"
+      },
+      "artists": [
+        {
+          "name": "Casey J",
+          "url": "https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd"
+        }
+      ],
+      "duration_ms": 469631,
+      "name": "I'm Yours",
+      "url": "https://open.spotify.com/track/1Le6O6aIBN69wCWL1psmLR"
     },
     {
       "added_at": "2020-06-03 14:33:10",

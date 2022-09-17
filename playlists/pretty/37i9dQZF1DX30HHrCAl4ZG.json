@@ -1,12 +1,12 @@
 {
   "description": "The pulse of new indie rock. Cover: EKKSTACY\n",
-  "num_followers": 834706,
+  "num_followers": 834737,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjQ5MDcwMCwwMDAwMDAwMDYxODM3MjM3MzNiMjg1MjAxZmRjYTFkZDU3NDZkYzk1",
+  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMGE3MTA0YTI0Y2I3YTNiMzE0YmUyMjIxOTI5NWU5YzRh",
   "tracks": [
     {
       "added_at": "2022-07-18 20:46:02",
@@ -23,6 +23,22 @@
       "duration_ms": 145634,
       "name": "i walk this earth all by myself",
       "url": "https://open.spotify.com/track/5a8QUc4ubHJqQm7vzs2YhA"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Eggshells",
+        "url": "https://open.spotify.com/album/1a7DBuyuqgQA7cGLvkiJVN"
+      },
+      "artists": [
+        {
+          "name": "Dehd",
+          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
+        }
+      ],
+      "duration_ms": 151149,
+      "name": "Eggshells",
+      "url": "https://open.spotify.com/track/2JXsy8qz9PzqDwX7ozd4Go"
     },
     {
       "added_at": "2022-08-26 05:12:00",
@@ -89,6 +105,22 @@
       "url": "https://open.spotify.com/track/1gH1h30wkQdd9zhY3j7a8T"
     },
     {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "What Do We Do Now?",
+        "url": "https://open.spotify.com/album/6xRTvgiVIkBPIZH8IzGBUR"
+      },
+      "artists": [
+        {
+          "name": "Charlie Houston",
+          "url": "https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR"
+        }
+      ],
+      "duration_ms": 247893,
+      "name": "What Do We Do Now?",
+      "url": "https://open.spotify.com/track/06HgiR8nOgQaXuQQdGQbS9"
+    },
+    {
       "added_at": "2022-09-02 10:00:00",
       "album": {
         "name": "New Gold (feat. Tame Impala and Bootie Brown)",
@@ -111,6 +143,22 @@
       "duration_ms": 215149,
       "name": "New Gold (feat. Tame Impala and Bootie Brown)",
       "url": "https://open.spotify.com/track/64dLd6rVqDLtkXFYrEUHIU"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "i just want to hide my face",
+        "url": "https://open.spotify.com/album/0mPO0i23qRLIkp5DgmpFkB"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "duration_ms": 132840,
+      "name": "i just want to hide my face",
+      "url": "https://open.spotify.com/track/1xDZoTi6F9wZtpcQ1dlyE7"
     },
     {
       "added_at": "2022-08-26 05:12:00",
@@ -159,6 +207,26 @@
       "duration_ms": 190916,
       "name": "The Other Way",
       "url": "https://open.spotify.com/track/72tFZO4vGmXJvjG62rnpWI"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "First Time Caller",
+        "url": "https://open.spotify.com/album/2mxrENnX1AxQO4iyLxUvA6"
+      },
+      "artists": [
+        {
+          "name": "Jaguar Sun",
+          "url": "https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC"
+        },
+        {
+          "name": "Husbands",
+          "url": "https://open.spotify.com/artist/2FUIaEhxMNdiBpO8ykabdP"
+        }
+      ],
+      "duration_ms": 317279,
+      "name": "First Time Caller",
+      "url": "https://open.spotify.com/track/3pJ1EjeERFlGkj93KWp2Fi"
     },
     {
       "added_at": "2022-08-26 05:12:00",
@@ -771,22 +839,6 @@
     {
       "added_at": "2022-07-29 04:20:00",
       "album": {
-        "name": "wish i was dead",
-        "url": "https://open.spotify.com/album/3B4UmoO1zRScG8X8MSDHy4"
-      },
-      "artists": [
-        {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
-        }
-      ],
-      "duration_ms": 98800,
-      "name": "wish i was dead",
-      "url": "https://open.spotify.com/track/16dzo8i1mlh2AkmQ4DhwXH"
-    },
-    {
-      "added_at": "2022-07-29 04:20:00",
-      "album": {
         "name": "No More Excuses",
         "url": "https://open.spotify.com/album/0gTTJMJoKsDBZMOj66JISv"
       },
@@ -999,22 +1051,6 @@
       "duration_ms": 145718,
       "name": "take it back (feat. Beck)",
       "url": "https://open.spotify.com/track/3CBYEnqoS93EUKx4XrHYUE"
-    },
-    {
-      "added_at": "2022-07-01 14:01:58",
-      "album": {
-        "name": "The Dream",
-        "url": "https://open.spotify.com/album/5ogYKSRRlVAgMzv09HFeIn"
-      },
-      "artists": [
-        {
-          "name": "alt-J",
-          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
-        }
-      ],
-      "duration_ms": 198840,
-      "name": "U&ME",
-      "url": "https://open.spotify.com/track/3i4ColsuZEvjeLz63m0jPt"
     },
     {
       "added_at": "2022-07-01 14:01:58",

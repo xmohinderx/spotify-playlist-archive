@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWaD7ByJaBc.md) - [plain]
 
 > Artist, producer and writer behind many of your favourite songs makes his Pride selection for you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,342 likes - 23 songs - 1 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,341 likes - 23 songs - 1 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWaD7ByJaBc.md) - [plain]
 | 8 | [Nobody](https://open.spotify.com/track/4V3AFyNbIcTFCHGB0BtlSL) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R), [Gold Link](https://open.spotify.com/artist/5ejcLivtopCjlEYaC5QK82) | [Leisure](https://open.spotify.com/album/1rGGYPdkJpabSlwScxK8fO) | 3:20 |
 | 9 | [LITE SPOTS](https://open.spotify.com/track/3Fc7k96EGOGiJBMZUxbpq7) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [99.9%](https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa) | 3:50 |
 | 10 | [YOUTH](https://open.spotify.com/track/1cOyWWUr3oXJIxY0AjJEx9) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Blue Neighbourhood \(Deluxe\)](https://open.spotify.com/album/5ouTDazE4LF9bVJPx1nlgW) | 3:05 |
-| 11 | [One Dance](https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Kyla](https://open.spotify.com/artist/77DAFfvm3O9zT5dIoG0eIO) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 2:53 |
+| 11 | [One Dance](https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Kyla](https://open.spotify.com/artist/77DAFfvm3O9zT5dIoG0eIO) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 2:53 |
 | 12 | [At Night \(I Think About You\)](https://open.spotify.com/track/4lwthdbsRkAnZhFunjjgrs) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [At Night \(I Think About You\)](https://open.spotify.com/album/5v636i01urX364kKa6vtqw) | 3:35 |
 | 13 | [MNEK: Intro \- \#PressPlayForPride](https://open.spotify.com/track/0ULUk1ZukEuiFhceG48dO7) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [\#PressPlayForPride](https://open.spotify.com/album/3pjz5PfLYPdrxQfHuM7nao) | 0:20 |
 | 14 | [5050](https://open.spotify.com/track/2Lgnw8C0L1EaaENqCx1lAA) | [RAY BLK](https://open.spotify.com/artist/0CkbPVBpOwwz9NPPglFKyq) | [Durt](https://open.spotify.com/album/1P29D0CPo7YeQnUUL13SEh) | 3:15 |

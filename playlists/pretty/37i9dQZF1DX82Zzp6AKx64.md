@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82Zzp6AKx64.md) - [plain]
 
 > Emotional and powerful \- let your feelings out with these classic power ballads\. Cover: Meat Loaf
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,061,263 likes - 100 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,061,416 likes - 100 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82Zzp6AKx64.md) - [plain]
 | 8 | [Babe](https://open.spotify.com/track/5W7YROOF6bFfBexY81LFjt) | [Styx](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) | [Cornerstone](https://open.spotify.com/album/0RhPpU4BvtF44qdvFnGQuh) | 4:25 |
 | 9 | [Every Rose Has Its Thorn \- Remastered 2003](https://open.spotify.com/track/43GS3mtezoIFiuIZCLLiDY) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Open Up And Say...Ahh! \(20th Anniversary Edition\)](https://open.spotify.com/album/2AMWVB3FWknjcMeb6hMZnd) | 4:20 |
 | 10 | [More Than a Feeling](https://open.spotify.com/track/1QEEqeFIZktqIpPI4jSVSF) | [Boston](https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK) | [Boston](https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC) | 4:45 |
-| 11 | [Wind Of Change](https://open.spotify.com/track/3ovjw5HZZv43SxTwApooCM) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Crazy World](https://open.spotify.com/album/3dLKM8bD8R3H3XnSOXGjTF) | 5:12 |
-| 12 | [I Want to Know What Love Is \- 1999 Remaster](https://open.spotify.com/track/1JLn8RhQzHz3qDqsChcmBl) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [Agent Provocateur](https://open.spotify.com/album/4oQhDQDKMeI6IMlwpXt3j8) | 5:04 |
+| 11 | [I Want to Know What Love Is \- 1999 Remaster](https://open.spotify.com/track/1JLn8RhQzHz3qDqsChcmBl) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [Agent Provocateur](https://open.spotify.com/album/4oQhDQDKMeI6IMlwpXt3j8) | 5:04 |
+| 12 | [Wind Of Change](https://open.spotify.com/track/3ovjw5HZZv43SxTwApooCM) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Crazy World](https://open.spotify.com/album/3dLKM8bD8R3H3XnSOXGjTF) | 5:12 |
 | 13 | [Free Fallin'](https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Full Moon Fever](https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093) | 4:16 |
 | 14 | [\(I Just\) Died In Your Arms](https://open.spotify.com/track/4ByEFOBuLXpCqvO1kw8Wdm) | [Cutting Crew](https://open.spotify.com/artist/3cniTumSiUysiPWXapGx1i) | [Broadcast](https://open.spotify.com/album/3wCe8HjHk6QNGcf5D3jgW1) | 4:40 |
 | 15 | [Always](https://open.spotify.com/track/2RChe0r2cMoyOvuKobZy44) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Cross Road](https://open.spotify.com/album/0tBfLeYdX3oBnl5NVpot4m) | 5:53 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82Zzp6AKx64.md) - [plain]
 | 91 | [Life Goes On \- Remastered](https://open.spotify.com/track/2OWKsyrgUINadOG21dR0Fh) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Flesh & Blood](https://open.spotify.com/album/7alngtync76VqYWSKxcBhB) | 4:47 |
 | 92 | [Oh! Darling \- 2019 Mix](https://open.spotify.com/track/3UHv8SSIkNUDRBUHJx3Cg6) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Super Deluxe Edition\)](https://open.spotify.com/album/5iT3F2EhjVQVrO4PKhsP8c) | 3:27 |
 | 93 | [Heaven in Your Eyes](https://open.spotify.com/track/1sMhhVoD3ExOFTeh70EqNe) | [Loverboy](https://open.spotify.com/artist/2CLVPk9FcywjClBcTvWPkT) | [Big Ones](https://open.spotify.com/album/5IYNDR7BraRrltWJLefkuV) | 4:03 |
-| 94 | [Edge Of A Broken Heart](https://open.spotify.com/track/2mEk0VdrbDJ11DBC6Y92mh) | [Vixen](https://open.spotify.com/artist/4wlPkvHKZzP2K8wtBzFRyY) | [Vixen](https://open.spotify.com/album/51aj98h378eXQJZXtIZKjK) | 4:25 |
-| 95 | [Empty Rooms](https://open.spotify.com/track/21hvIW7umCAu3dWab4MYR1) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [Run For Cover](https://open.spotify.com/album/5L7OArC51NP8i6EswjugZI) | 4:17 |
+| 94 | [Goodbye](https://open.spotify.com/track/50vyUOJM5ncJ6Y5YWZzXvX) | [Night Ranger](https://open.spotify.com/artist/1Ha0Fz4i0d4gu5fZbhBCtH) | [7 Wishes](https://open.spotify.com/album/6zVZkndp9OBVwLrZoOzyLB) | 4:19 |
+| 95 | [Edge Of A Broken Heart](https://open.spotify.com/track/2mEk0VdrbDJ11DBC6Y92mh) | [Vixen](https://open.spotify.com/artist/4wlPkvHKZzP2K8wtBzFRyY) | [Vixen](https://open.spotify.com/album/51aj98h378eXQJZXtIZKjK) | 4:25 |
 | 96 | [Show Me The Way](https://open.spotify.com/track/2upjcGvuiTCGSaGPZZ2dtD) | [Styx](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) | [Edge Of The Century](https://open.spotify.com/album/6dLlnu5TPxD74g7w8SfnqF) | 4:37 |
-| 97 | [Goodbye](https://open.spotify.com/track/50vyUOJM5ncJ6Y5YWZzXvX) | [Night Ranger](https://open.spotify.com/artist/1Ha0Fz4i0d4gu5fZbhBCtH) | [7 Wishes](https://open.spotify.com/album/6zVZkndp9OBVwLrZoOzyLB) | 4:19 |
+| 97 | [Empty Rooms](https://open.spotify.com/track/21hvIW7umCAu3dWab4MYR1) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [Run For Cover](https://open.spotify.com/album/5L7OArC51NP8i6EswjugZI) | 4:17 |
 | 98 | [Goodbye to Romance](https://open.spotify.com/track/44iFQNDCVfv2WHPdn7Wy1R) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Blizzard Of Ozz \(40th Anniversary Expanded Edition\)](https://open.spotify.com/album/4qUMByJ3Pk94BFnCmGaUPS) | 5:35 |
 | 99 | [Stone Cold](https://open.spotify.com/track/7HXYoe65kmrPrJR1r0DGtW) | [Rainbow](https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m) | [Straight Between The Eyes](https://open.spotify.com/album/2TjkjpMXM0fsgmmVjmxNmI) | 5:17 |
 | 100 | [Givin' Yourself Away](https://open.spotify.com/track/066s12j61ZlXnMDtnUiDbP) | [Ratt](https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn) | [Detonator](https://open.spotify.com/album/1I8TqSMkoRvF4xZSvuFDiq) | 5:26 |
 
-Snapshot ID: `MTY2MzAxMDE4MywwMDAwMDAwMGEzN2Y2YjUyMGIwZTgyNDYxNmY4OWMwMTEzNjNiMGM4`
+Snapshot ID: `MTY2MzAxMDE4MywwMDAwMDAwMGFiYzA5OGEwNTk0OTExY2QxM2I2ZDgxYTMxMDBmZDg0`

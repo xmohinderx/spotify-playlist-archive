@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYwMzXER4RFF.md) - [plain]
 
 > New no wave, post\-punk, and anything else\. Cover: Viagra Boys
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,409 likes - 55 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,478 likes - 55 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,13 +41,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYwMzXER4RFF.md) - [plain]
 | 31 | [Rhythm Is Our Business \- Edit](https://open.spotify.com/track/0nSKPt85T4Y3PFKe9U1AoJ) | [Snapped Ankles](https://open.spotify.com/artist/4iWOyexPqcvgycdx7mLUcl) | [Rhythm Is Our Business \(Edit\)](https://open.spotify.com/album/31BcuNn55HiyGfZNumnzgO) | 3:43 |
 | 32 | [Sweet](https://open.spotify.com/track/31urhIUG28rfxy6PzU6hQq) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [Every Bad \(Expanded Edition\)](https://open.spotify.com/album/5SyZ2QPyDPteAM9i1AYlfA) | 3:42 |
 | 33 | [Wharf \(ii\)](https://open.spotify.com/track/6KKtTJAgNLCW7LAtuI9Dwy) | [Horsey](https://open.spotify.com/artist/3ey9OSASkq8HNPh0u7jjfO) | [Debonair](https://open.spotify.com/album/1z6VwFw428tUIrrEqKktEn) | 4:25 |
-| 34 | [Ann](https://open.spotify.com/track/0g2kZvRKJ2AZfUmqR6eCGZ) | [Tropical Fuck Storm](https://open.spotify.com/artist/0mL6LBSQ4bHe6hWq90KzHL) | [Ann](https://open.spotify.com/album/1TKU3jbLcpXbTx9OqjGejM) | 4:04 |
-| 35 | [I Don't Belong](https://open.spotify.com/track/6WoKLs9kOA7I9RJtVYr6MQ) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [A Hero's Death](https://open.spotify.com/album/1TG1jA82COlOCK63DjmiT3) | 4:31 |
+| 34 | [I Don't Belong](https://open.spotify.com/track/6WoKLs9kOA7I9RJtVYr6MQ) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [A Hero's Death](https://open.spotify.com/album/1TG1jA82COlOCK63DjmiT3) | 4:31 |
+| 35 | [Ann](https://open.spotify.com/track/0g2kZvRKJ2AZfUmqR6eCGZ) | [Tropical Fuck Storm](https://open.spotify.com/artist/0mL6LBSQ4bHe6hWq90KzHL) | [Ann](https://open.spotify.com/album/1TKU3jbLcpXbTx9OqjGejM) | 4:04 |
 | 36 | [Feel Nothing](https://open.spotify.com/track/2xLhpVdgziewWHydp0csEn) | [Amen Dunes](https://open.spotify.com/artist/1jwOuEBcOKq0BeudSarbEM), [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh) | [Feel Nothing](https://open.spotify.com/album/2KYtRpM7ONr6kRJnta41Pf) | 5:31 |
 | 37 | [Stick](https://open.spotify.com/track/1PiA3Z5eT98iz6my4yVpn4) | [Ovlov](https://open.spotify.com/artist/2Iy7tZpp5qQudlg5cbcgH8) | [TRU](https://open.spotify.com/album/5NBOm2pyKCOqt8iYwgMYnH) | 3:22 |
 | 38 | [South](https://open.spotify.com/track/2U4ssOuiGX9QC0Z1K1BI8z) | [Wu\-Lu](https://open.spotify.com/artist/5yRolHpTcDas7KX7KiH6Wd), [Lex Amor](https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14) | [LOGGERHEAD](https://open.spotify.com/album/47XvaxAeDolqhNOnGYLxEk) | 3:54 |
-| 39 | [Tennis](https://open.spotify.com/track/3cJH8XcTtrdB1VcCYFdv82) | [Courting](https://open.spotify.com/artist/3oLTaC5QBOH96VbxMAafpZ) | [Tennis](https://open.spotify.com/album/0e8QilyTd0atf4T6fk59Jr) | 4:01 |
-| 40 | [Suntan](https://open.spotify.com/track/3dX7k03fCG9VANcuLDiomu) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Suntan](https://open.spotify.com/album/4kaozidUUVbgoyxIEge7qm) | 4:59 |
+| 39 | [Suntan](https://open.spotify.com/track/3dX7k03fCG9VANcuLDiomu) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Suntan](https://open.spotify.com/album/4kaozidUUVbgoyxIEge7qm) | 4:59 |
+| 40 | [Tennis](https://open.spotify.com/track/3cJH8XcTtrdB1VcCYFdv82) | [Courting](https://open.spotify.com/artist/3oLTaC5QBOH96VbxMAafpZ) | [Tennis](https://open.spotify.com/album/0e8QilyTd0atf4T6fk59Jr) | 4:01 |
 | 41 | [Paddling](https://open.spotify.com/track/4bk6zQvr1tEokVjLJ7xZfz) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Bright Green Field](https://open.spotify.com/album/4z44Wir05QzQYSCs0KwsKX) | 6:15 |
 | 42 | [Little Fix](https://open.spotify.com/track/10kO3DBfY2UJSeYOuxDZPd) | [Sprints](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Little Fix](https://open.spotify.com/album/2Hw3eI5w9JgGXqgnAS0rAi) | 3:16 |
 | 43 | [Water in the Well](https://open.spotify.com/track/0gaecBSDgVDjHs3JrWgr5e) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Drunk Tank Pink \(Deluxe Edition\)](https://open.spotify.com/album/07FItTfHsxADQ4sLDxqgFA) | 3:07 |
@@ -62,6 +62,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYwMzXER4RFF.md) - [plain]
 | 52 | [Nigel Hitter](https://open.spotify.com/track/6Zvl7vyrM8U6fFJR9swMfX) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Drunk Tank Pink \(Deluxe Edition\)](https://open.spotify.com/album/07FItTfHsxADQ4sLDxqgFA) | 3:24 |
 | 53 | [Saturn](https://open.spotify.com/track/31FslokX6FqQWVHIaVy4hY) | [Ghum](https://open.spotify.com/artist/41yzFXg6iuyDfw0PYviMHs) | [The Coldest Fire](https://open.spotify.com/album/7jZmxRxG89gyfb5W0beTdW) | 3:52 |
 | 54 | [B Boys Anthem](https://open.spotify.com/track/3vMZ1zERSM8QbPW8aA0t49) | [B Boys](https://open.spotify.com/artist/5q3Rqu9idb7essQqKJ7SOa) | [Dada](https://open.spotify.com/album/2dC0CxwPb1YjjB9Ergw2fG) | 1:23 |
-| 55 | [Concorde](https://open.spotify.com/track/4Lq00qcqHANbxFUeq2ORCk) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Concorde](https://open.spotify.com/album/0xDUwM9EVHyOmUhL9KGOwa) | 6:03 |
+| 55 | [Avoidarama](https://open.spotify.com/track/1nS6ebZc8rmr9l5d9NpLqJ) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Cheer](https://open.spotify.com/album/2pQ3HNNkj7o2RJTguqfqO2) | 2:58 |
 
-Snapshot ID: `MTY2Mjk4MjIxOSwwMDAwMDAwMDZmMjkxMmI2ZWJjOTYzMDY0MGMzZTE0MDM4ZWU0NjMz`
+Snapshot ID: `MTY2Mjk4MjIxOSwwMDAwMDAwMGM2MzBkNDlhYTRmMmE0NDU3NDQ4YmE1ZTBiMGJjMDM0`

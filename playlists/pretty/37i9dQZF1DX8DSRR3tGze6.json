@@ -1,12 +1,12 @@
 {
   "description": "Let these Latin hits guide you through your daily commute!",
-  "num_followers": 191112,
+  "num_followers": 191165,
   "original_name": "Latin Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDc1ODIxMCwwMDAwMDAwMDVlYWEyNThhZDg0NDVhMTM5ZGIwZDFmZGM4N2UzYWRm",
+  "snapshot_id": "MTY2MDc1ODIxMCwwMDAwMDAwMGQ0MmI3ZDFkNmU3MzkwYWMyYTg3OGUwMTZhZTFkYWJm",
   "tracks": [
     {
       "added_at": "2022-08-17 17:43:30",
@@ -279,42 +279,6 @@
     {
       "added_at": "2022-08-17 17:43:30",
       "album": {
-        "name": "Sigue/Forever My Love",
-        "url": "https://open.spotify.com/album/5umofLk634QVTKYtt2Deoy"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 159386,
-      "name": "Sigue",
-      "url": "https://open.spotify.com/track/0bBd6K5X4W7t9GyXcaVOA7"
-    },
-    {
-      "added_at": "2022-08-17 17:43:30",
-      "album": {
-        "name": "X 100PRE",
-        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 169247,
-      "name": "Si Estuvi\u00e9semos Juntos",
-      "url": "https://open.spotify.com/track/35wvL50xvKpCHEJPxLOLPI"
-    },
-    {
-      "added_at": "2022-08-17 17:43:30",
-      "album": {
         "name": "Una Vaina Loca",
         "url": "https://open.spotify.com/album/1I92y0NxYT4cUYSQePekyM"
       },
@@ -335,6 +299,42 @@
       "duration_ms": 226187,
       "name": "Una Vaina Loca",
       "url": "https://open.spotify.com/track/2qEoAz0i6yEz5dPggABcLH"
+    },
+    {
+      "added_at": "2022-08-17 17:43:30",
+      "album": {
+        "name": "X 100PRE",
+        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 169247,
+      "name": "Si Estuvi\u00e9semos Juntos",
+      "url": "https://open.spotify.com/track/35wvL50xvKpCHEJPxLOLPI"
+    },
+    {
+      "added_at": "2022-08-17 17:43:30",
+      "album": {
+        "name": "Sigue/Forever My Love",
+        "url": "https://open.spotify.com/album/5umofLk634QVTKYtt2Deoy"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 159386,
+      "name": "Sigue",
+      "url": "https://open.spotify.com/track/0bBd6K5X4W7t9GyXcaVOA7"
     },
     {
       "added_at": "2022-08-17 17:43:30",
@@ -667,22 +667,26 @@
     {
       "added_at": "2022-08-17 17:43:30",
       "album": {
-        "name": "Mal Acostumbrao (con Maria Becerra)",
-        "url": "https://open.spotify.com/album/1UEzLJ7ykAt3pwIznJrI8Q"
+        "name": "Ahora",
+        "url": "https://open.spotify.com/album/4BvD9caT3ZohqNQFcR8dVD"
       },
       "artists": [
         {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
         },
         {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
         }
       ],
-      "duration_ms": 190405,
-      "name": "Mal Acostumbrao - con Maria Becerra",
-      "url": "https://open.spotify.com/track/1wcE84DVQUF16xudVFzezL"
+      "duration_ms": 221653,
+      "name": "Me Niego (feat. Ozuna & Wisin)",
+      "url": "https://open.spotify.com/track/4ggiDYAkJ7Yk8d5xOr7Xjo"
     },
     {
       "added_at": "2022-08-17 17:43:30",
@@ -707,26 +711,22 @@
     {
       "added_at": "2022-08-17 17:43:30",
       "album": {
-        "name": "Ahora",
-        "url": "https://open.spotify.com/album/4BvD9caT3ZohqNQFcR8dVD"
+        "name": "Mal Acostumbrao (con Maria Becerra)",
+        "url": "https://open.spotify.com/album/1UEzLJ7ykAt3pwIznJrI8Q"
       },
       "artists": [
         {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
         },
         {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
         }
       ],
-      "duration_ms": 221653,
-      "name": "Me Niego (feat. Ozuna & Wisin)",
-      "url": "https://open.spotify.com/track/4ggiDYAkJ7Yk8d5xOr7Xjo"
+      "duration_ms": 190405,
+      "name": "Mal Acostumbrao - con Maria Becerra",
+      "url": "https://open.spotify.com/track/1wcE84DVQUF16xudVFzezL"
     },
     {
       "added_at": "2022-08-17 17:43:30",
@@ -819,6 +819,26 @@
     {
       "added_at": "2022-08-17 17:43:30",
       "album": {
+        "name": "Ahora",
+        "url": "https://open.spotify.com/album/4BvD9caT3ZohqNQFcR8dVD"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 227480,
+      "name": "Amigos Con Derechos",
+      "url": "https://open.spotify.com/track/4yVO0wOhXsZC1RuPgHP524"
+    },
+    {
+      "added_at": "2022-08-17 17:43:30",
+      "album": {
         "name": "La Nota",
         "url": "https://open.spotify.com/album/61qU7ompl7BKKGEgsbO4Ly"
       },
@@ -879,26 +899,6 @@
       "duration_ms": 222680,
       "name": "Tattoo - Remix with Camilo",
       "url": "https://open.spotify.com/track/4ZRrLHqzhGRXYj2qcB4s5S"
-    },
-    {
-      "added_at": "2022-08-17 17:43:30",
-      "album": {
-        "name": "Ahora",
-        "url": "https://open.spotify.com/album/4BvD9caT3ZohqNQFcR8dVD"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 227480,
-      "name": "Amigos Con Derechos",
-      "url": "https://open.spotify.com/track/4yVO0wOhXsZC1RuPgHP524"
     },
     {
       "added_at": "2022-08-17 17:43:30",
@@ -979,6 +979,22 @@
     {
       "added_at": "2022-08-17 17:43:30",
       "album": {
+        "name": "Qui\u00e9reme Mientras Se Pueda",
+        "url": "https://open.spotify.com/album/7cd7ofPesyBoPDb2dtUbj5"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 191945,
+      "name": "Qui\u00e9reme Mientras Se Pueda",
+      "url": "https://open.spotify.com/track/34LI7rwi9H8w2S5KTHnv1M"
+    },
+    {
+      "added_at": "2022-08-17 17:43:30",
+      "album": {
         "name": "Bubalu",
         "url": "https://open.spotify.com/album/6JEvViJkAj8GjJbTeU5I7q"
       },
@@ -1007,42 +1023,6 @@
       "duration_ms": 228493,
       "name": "Bubalu",
       "url": "https://open.spotify.com/track/7dNwJbsT0sg1le5kVugGJb"
-    },
-    {
-      "added_at": "2022-08-17 17:43:30",
-      "album": {
-        "name": "Ya No Tiene Novio",
-        "url": "https://open.spotify.com/album/7yFrNYBdjgAeUKflMGtU8l"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        },
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 198933,
-      "name": "Ya No Tiene Novio",
-      "url": "https://open.spotify.com/track/7uQmJ1jgNzBpATSoWKSPFu"
-    },
-    {
-      "added_at": "2022-08-17 17:43:30",
-      "album": {
-        "name": "Qui\u00e9reme Mientras Se Pueda",
-        "url": "https://open.spotify.com/album/7cd7ofPesyBoPDb2dtUbj5"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 191945,
-      "name": "Qui\u00e9reme Mientras Se Pueda",
-      "url": "https://open.spotify.com/track/34LI7rwi9H8w2S5KTHnv1M"
     },
     {
       "added_at": "2022-08-17 17:43:30",
@@ -1079,6 +1059,26 @@
       "duration_ms": 231594,
       "name": "Reloj",
       "url": "https://open.spotify.com/track/7r9ZhitdQBONTFOiJW5mr8"
+    },
+    {
+      "added_at": "2022-08-17 17:43:30",
+      "album": {
+        "name": "Ya No Tiene Novio",
+        "url": "https://open.spotify.com/album/7yFrNYBdjgAeUKflMGtU8l"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 198933,
+      "name": "Ya No Tiene Novio",
+      "url": "https://open.spotify.com/track/7uQmJ1jgNzBpATSoWKSPFu"
     },
     {
       "added_at": "2022-08-17 17:43:30",
@@ -1155,26 +1155,6 @@
     {
       "added_at": "2022-08-17 17:43:30",
       "album": {
-        "name": "Un A\u00f1o",
-        "url": "https://open.spotify.com/album/4Vtx3PxyOfBUBuEYAIocsP"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        },
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 164440,
-      "name": "Un A\u00f1o",
-      "url": "https://open.spotify.com/track/5BDP2tky8oMQJPS33frKVp"
-    },
-    {
-      "added_at": "2022-08-17 17:43:30",
-      "album": {
         "name": "Cr\u00e9eme",
         "url": "https://open.spotify.com/album/0bVsozItEQQVu2M5FnpnrG"
       },
@@ -1191,22 +1171,6 @@
       "duration_ms": 212493,
       "name": "Cr\u00e9eme",
       "url": "https://open.spotify.com/track/1mT47pKLXUwPYGwB91GcNz"
-    },
-    {
-      "added_at": "2022-08-17 17:43:30",
-      "album": {
-        "name": "54+1",
-        "url": "https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 155058,
-      "name": "Swing",
-      "url": "https://open.spotify.com/track/4DbhxwlkhTbCTqlZptxmI6"
     },
     {
       "added_at": "2022-08-17 17:43:30",
@@ -1235,6 +1199,22 @@
     {
       "added_at": "2022-08-17 17:43:30",
       "album": {
+        "name": "54+1",
+        "url": "https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 155058,
+      "name": "Swing",
+      "url": "https://open.spotify.com/track/4DbhxwlkhTbCTqlZptxmI6"
+    },
+    {
+      "added_at": "2022-08-17 17:43:30",
+      "album": {
         "name": "Algo M\u00e1gico",
         "url": "https://open.spotify.com/album/3wsTXNRun4T7fhNoSAG0dP"
       },
@@ -1247,6 +1227,26 @@
       "duration_ms": 261603,
       "name": "Algo M\u00e1gico",
       "url": "https://open.spotify.com/track/0zlnHTHiBQ68ZCAmTw5ozm"
+    },
+    {
+      "added_at": "2022-08-17 17:43:30",
+      "album": {
+        "name": "Un A\u00f1o",
+        "url": "https://open.spotify.com/album/4Vtx3PxyOfBUBuEYAIocsP"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 164440,
+      "name": "Un A\u00f1o",
+      "url": "https://open.spotify.com/track/5BDP2tky8oMQJPS33frKVp"
     },
     {
       "added_at": "2022-08-17 17:43:30",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2022-08-17 17:43:30",
       "album": {
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/1uFr2PCsnDVZ71AiJnZYrb"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/2J9B63FawlTaPdg4eH5X03"
+    },
+    {
+      "added_at": "2022-08-17 17:43:30",
+      "album": {
         "name": "Clandestino",
         "url": "https://open.spotify.com/album/1h1hnfRyc45IIDnxUCaGIf"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 231920,
       "name": "Clandestino",
       "url": "https://open.spotify.com/track/7DrluKkTviBwCc8AV3VGmf"
-    },
-    {
-      "added_at": "2022-08-17 17:43:30",
-      "album": {
-        "name": "Loco",
-        "url": "https://open.spotify.com/album/1uFr2PCsnDVZ71AiJnZYrb"
-      },
-      "artists": [
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/2J9B63FawlTaPdg4eH5X03"
     },
     {
       "added_at": "2022-08-17 17:43:30",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2022-08-17 17:43:30",
       "album": {
-        "name": "Cristina",
-        "url": "https://open.spotify.com/album/5lhQfarxkGkFATjitVSHC6"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 202040,
-      "name": "Cristina",
-      "url": "https://open.spotify.com/track/1Kjer1JoWuJGNwGV6Pbgv1"
-    },
-    {
-      "added_at": "2022-08-17 17:43:30",
-      "album": {
         "name": "Qu\u00e9 Rico Fuera",
         "url": "https://open.spotify.com/album/2Xk9iyx7nSm6evrOKCAypb"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 195044,
       "name": "Sola",
       "url": "https://open.spotify.com/track/0KHhNlHN5lWn7q332PiPys"
+    },
+    {
+      "added_at": "2022-08-17 17:43:30",
+      "album": {
+        "name": "Cristina",
+        "url": "https://open.spotify.com/album/5lhQfarxkGkFATjitVSHC6"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 202040,
+      "name": "Cristina",
+      "url": "https://open.spotify.com/track/1Kjer1JoWuJGNwGV6Pbgv1"
     },
     {
       "added_at": "2022-08-17 17:43:30",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2022-08-17 17:43:30",
       "album": {
-        "name": "Culpables",
-        "url": "https://open.spotify.com/album/0ojcVRT3LvPrnuTP2VUaSA"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 233929,
-      "name": "Culpables",
-      "url": "https://open.spotify.com/track/3RD0PGolM0mETGHaprwgMn"
-    },
-    {
-      "added_at": "2022-08-17 17:43:30",
-      "album": {
         "name": "Baby",
         "url": "https://open.spotify.com/album/2yPS6CKbVjymgg7W9yuSxi"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 235973,
       "name": "Baby",
       "url": "https://open.spotify.com/track/2IA8cFA46DkjgbsRG7kKbp"
+    },
+    {
+      "added_at": "2022-08-17 17:43:30",
+      "album": {
+        "name": "Culpables",
+        "url": "https://open.spotify.com/album/0ojcVRT3LvPrnuTP2VUaSA"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 233929,
+      "name": "Culpables",
+      "url": "https://open.spotify.com/track/3RD0PGolM0mETGHaprwgMn"
     },
     {
       "added_at": "2022-08-17 17:43:30",

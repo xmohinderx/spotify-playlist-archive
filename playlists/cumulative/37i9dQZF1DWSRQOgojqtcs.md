@@ -4,7 +4,7 @@
 
 > Love, sex, and heartbreak\. Listen to the official playlist for Heartbreak High, now on Netflix.
 
-122 songs - 7 hr 37 min - not published yet
+126 songs - 7 hr 49 min - [published](https://open.spotify.com/playlist/3fSz2XAu4QpDesLVlBr0GV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Centrefold](https://open.spotify.com/track/2120KPNVl3vALmvodMyu83) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Smiling with No Teeth](https://open.spotify.com/album/4j7wEZWND7GIh918rLgYHQ) | 3:16 | 2022-09-14 |  |
 | [Cherry Lips \(Go Baby Go\)](https://open.spotify.com/track/2fNYai3gXuzpLFm0549Nin) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Beautiful Garbage \(Remastered\)](https://open.spotify.com/album/0NVuRvkKyJU72UAADRQ1nq) | 3:11 | 2022-09-14 |  |
 | [Christine](https://open.spotify.com/track/6tNDVXXaYWsBd3Mqhfelvl) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Chaleur Humaine](https://open.spotify.com/album/326nKcn9e238BwduPDzld7) | 3:54 | 2022-09-14 |  |
+| [Come On](https://open.spotify.com/track/7I0X2MQkZDngxQ2NDMOfWP) | [1300](https://open.spotify.com/artist/34dKvFZNwGaM0NMDtZaJ0P) | [Foreign Language](https://open.spotify.com/album/5a2yMZjCdVXllxAwymNCUL) | 2:49 | 2022-09-16 |  |
 | [Crazy](https://open.spotify.com/track/5UIq2zbapMbSU7Z2SEq8j0) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK) | [Country Music \- A Film by Ken Burns \(The Soundtrack\) \[Deluxe\]](https://open.spotify.com/album/3ZAFnRYQRAiBplISQFj7nC) | 2:42 | 2022-09-14 |  |
 | [Crowd Pleaza](https://open.spotify.com/track/4GQlFXjf4QoiUaRbM1jmGy) | [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g) | [Crowd Pleaza](https://open.spotify.com/album/0t73VwBeypyUR77hfITjak) | 3:26 | 2022-09-14 |  |
 | [D.Y.S\. \(Defend Your Situation\)](https://open.spotify.com/track/5Td3xKQXxOkQBLYcLucJMY) | [CLYPSO](https://open.spotify.com/artist/0PLRwyoWBDRiK3QnflnDbd) | [D.Y.S\. \(Defend Your Situation\)](https://open.spotify.com/album/5ruET6Mgzqi9namZ7q4rwP) | 3:19 | 2022-09-14 |  |
@@ -45,11 +46,13 @@
 | [Downtown](https://open.spotify.com/track/4o9umFsPZmwRT5lve7QAps) | [Majical Cloudz](https://open.spotify.com/artist/4BEYBN6NCPrFk3sOLMTby3) | [Are You Alone?](https://open.spotify.com/album/732AeYhmKrOSU0G3pPnlkB) | 4:09 | 2022-09-14 |  |
 | [Dribble](https://open.spotify.com/track/1mQmVfIUWi6Yx50l59TpKU) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Dribble](https://open.spotify.com/album/3irvKBxgn7l3j49OqRLwx1) | 4:00 | 2022-09-14 |  |
 | [ECC](https://open.spotify.com/track/7CLQc8p4EMUFUH7HqCMbcs) | [Jennifer Loveless](https://open.spotify.com/artist/2Vsiki0qM11ADccRwwvS1c) | [Water](https://open.spotify.com/album/6u23yJ4d4RawFlNGLsomot) | 6:59 | 2022-09-14 |  |
+| [Ego](https://open.spotify.com/track/698bVkLUnvCIVrpPv2pHgC) | [Strawbz](https://open.spotify.com/artist/7w2jkQBOxdnwUOLxom93l3) | [Ego](https://open.spotify.com/album/4o7EqM5k7ybSZqkWWkHuuv) | 3:06 | 2022-09-16 |  |
 | [Eshay](https://open.spotify.com/track/3mDL5BWuaVwXFAhZMWp88E) | [Gucci Dassy](https://open.spotify.com/artist/4xhGRFsiALp1uDKt0FMaGf) | [Eshay](https://open.spotify.com/album/0QfGGytvuz1ORWR5kZRiZJ) | 3:09 | 2022-09-14 |  |
 | [Every Hour](https://open.spotify.com/track/7EB73Nrmwa7WsuTYJiPV1m) | [KIAN](https://open.spotify.com/artist/1TulCA2zO3YxAjQ7ZsvtDq) | [Every Hour](https://open.spotify.com/album/144pUjsOWPXqbMkArgeOqC) | 3:22 | 2022-09-14 |  |
 | [Everyday](https://open.spotify.com/track/5JrAgmqJ7WFVZ50qf5X3lI) | [Youngn Lipz](https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV) | [Area Baby](https://open.spotify.com/album/722ZytuYgZwwGZLF04HPog) | 2:51 | 2022-09-14 |  |
 | [Evoke the Sleep](https://open.spotify.com/track/4mtxoRjuufQebBDrZGeBHI) | [Nun](https://open.spotify.com/artist/32FbyysOUhfSFw2DgGNshC) | [Nun](https://open.spotify.com/album/7JRk6JUMshWJnhJwgSOGUH) | 2:55 | 2022-09-14 |  |
 | [Falling \(II\)](https://open.spotify.com/track/5JCUiQ994E1EKbBak6bJqw) | [Lace Curtain](https://open.spotify.com/artist/4j09ESFbTVflGGIU9l9IJ1) | [Falling / Running EP](https://open.spotify.com/album/1O8OEGnOLX4enDJCYTTmKg) | 6:56 | 2022-09-14 |  |
+| [FEAST](https://open.spotify.com/track/3smTeRQ3qxUvC8Gf4ckUEs) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX), [notsick](https://open.spotify.com/artist/0LIittGjyw9kSH8YAo9HGq) | [FEAST](https://open.spotify.com/album/2SNp7R18YlGO9Mo7HLJFYv) | 2:03 | 2022-09-16 |  |
 | [Final Form](https://open.spotify.com/track/6nUXH6o7OXDVykgwAtIIFU) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [The Return](https://open.spotify.com/album/1HxsSJHTqeUxDoKN26h8pB) | 3:36 | 2022-09-14 |  |
 | [Firefly](https://open.spotify.com/track/5xySUQUYwB4uGxJpLaxjLh) | [Jonny Kosmo](https://open.spotify.com/artist/6VyZH1zto2r7gkSYsUUBEx) | [Pastry](https://open.spotify.com/album/1pL2NNdOk64nvn6KgIPIPe) | 3:01 | 2022-09-14 |  |
 | [Flex](https://open.spotify.com/track/2T2RnC6fdRTE3z41tz4i2e) | [Komang](https://open.spotify.com/artist/56MwiXqdnILouLqFJPx3nT) | [Flex](https://open.spotify.com/album/3J8qf7WLuEAIKLTVojjQ2U) | 3:47 | 2022-09-14 |  |
@@ -74,7 +77,8 @@
 | [Les Fleurs](https://open.spotify.com/track/4XCGfHpGVq8xw800o5cwWs) | [Minnie Riperton](https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj) | [Come To My Garden](https://open.spotify.com/album/3FuJjgDLCnwRgnRLfjjGPV) | 3:19 | 2022-09-14 |  |
 | [Let It Happen](https://open.spotify.com/track/2X485T9Z5Ly0xyaghN73ed) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 7:47 | 2022-09-14 |  |
 | [Levitating](https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:23 | 2022-09-14 |  |
-| [Like People](https://open.spotify.com/track/4Pa9lwNySYtucuHEsCyA1R) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloody Lovely](https://open.spotify.com/album/39Ax1ljxVnhuC4BTVcXWNU) | 4:01 | 2022-09-14 |  |
+| [Like People](https://open.spotify.com/track/0o9h7u6AC9Ztiyw8Y0S4dV) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloody Lovely](https://open.spotify.com/album/0sotdV1cZoGfaDDUPIwtDu) | 4:01 | 2022-09-15 |  |
+| [Like People](https://open.spotify.com/track/4Pa9lwNySYtucuHEsCyA1R) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloody Lovely](https://open.spotify.com/album/39Ax1ljxVnhuC4BTVcXWNU) | 4:01 | 2022-09-14 | 2022-09-17 |
 | [LOVE AGAIN](https://open.spotify.com/track/0ybsf6Z9tIIKBplSkvbDox) | [ASHWARYA](https://open.spotify.com/artist/4meOm0fRIyy8gmJ9QVpGpk) | [NOCTURNAL HOURS \- EP](https://open.spotify.com/album/64mvQfaTJ2xyqJDMNpK78C) | 3:14 | 2022-09-14 |  |
 | [Love Whatcha Doin To Me](https://open.spotify.com/track/0HvwTJKj0oCOl67HHkEJPb) | [Robert Luke Harshman](https://open.spotify.com/artist/4EtkYbJx7o70koLTkzok8s) | [Rockabilly Pioneers: The Origins of Rockabilly](https://open.spotify.com/album/3LFHxKzfoMceMqhIKRQ2LU) | 1:56 | 2022-09-14 |  |
 | [Lung](https://open.spotify.com/track/04oeGmus2VnjkBRNIU15qa) | [Teether](https://open.spotify.com/artist/4rWywJgjoeVMO8LY87xYZo), [Kuya Neil](https://open.spotify.com/artist/2VOung9TCgKNkNNnRklTAY) | [GLYPH](https://open.spotify.com/album/01ukt6uUhOmr6N9TvAsUrE) | 3:44 | 2022-09-14 |  |

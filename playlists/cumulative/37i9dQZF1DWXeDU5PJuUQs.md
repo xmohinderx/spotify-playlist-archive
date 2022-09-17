@@ -4,7 +4,7 @@
 
 > Unas buenas cumbias con el calor de la gente! <br/>Foto: Pablo Lescano & El Mago.
 
-113 songs - 7 hr 40 min - [published](https://open.spotify.com/playlist/2wJPFQSijKKEawsi9DOknr)
+114 songs - 7 hr 42 min - [published](https://open.spotify.com/playlist/2wJPFQSijKKEawsi9DOknr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Amiga Traidora \- En Vivo](https://open.spotify.com/track/7CGJrAl10qYGJo4cOC9xuM) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [Amiga Traidora \(En Vivo\)](https://open.spotify.com/album/1GPlgIs9LniORYNJYlYitd) | 3:56 | 2021-12-10 |  |
 | [Amor \(Ft\. Mon Laferte\) \- MTV Unplugged](https://open.spotify.com/track/1QjfU3jkGInap7Vm9lVJIQ) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Fiesta Nacional \(Mtv Unplugged\)](https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7) | 5:12 | 2021-12-10 |  |
 | [Amor de Papel \- En Vivo](https://open.spotify.com/track/1FFFfPx7oO3909DZm51yOS) | [El Pepo](https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25) | [En Vivo en Pasión 2018](https://open.spotify.com/album/11aXTkgfRtDuNKGDpS608U) | 2:19 | 2021-12-10 | 2022-07-28 |
+| [Amor de Papel \- En Vivo](https://open.spotify.com/track/2Y2BYPVVTKGqlx5FRFZ8HZ) | [El Pepo](https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25) | [En Vivo en Pasión 2018](https://open.spotify.com/album/7yQk4r7sdAn2lJ11C8Gskc) | 2:19 | 2022-08-26 |  |
 | [Amor Sin Fronteras](https://open.spotify.com/track/6xXAMSAUOuVpmwgwBNuzfQ) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [10 Años Movistar Arena](https://open.spotify.com/album/0a08iXh2r7gh0BmS2ijuI4) | 4:03 | 2022-07-15 |  |
 | [Amor Sin Fronteras \(En Vivo Movistar Arena Santiago, Chile\)](https://open.spotify.com/track/3R9DduZt1LR0yVrevy2mRE) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [10 Años Santaferia \(En Vivo Movistar Arena Santiago, Chile\)](https://open.spotify.com/album/0Ue9qza4OSxJXFVooMjhnq) | 4:03 | 2021-12-10 | 2022-07-29 |
 | [Atrapado en Tus Redes / En Este Mundo / La Que Me Pudo Enamorar/ Amor, Amor](https://open.spotify.com/track/3CQTlvddBStyQqsChwzpvc) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [En Vivo en el Teatro](https://open.spotify.com/album/1vvB4ZiqQrtrt0xBrh96qW) | 7:42 | 2022-01-03 | 2022-07-27 |
@@ -29,7 +30,7 @@
 | [Damas Gratis Mix](https://open.spotify.com/track/2zJ5HUOwz7eX21MVLG9DG8) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [Damas Gratis Mix](https://open.spotify.com/album/5yS2IHOvthngA9QJM59NYb) | 5:17 | 2021-12-10 | 2022-07-28 |
 | [Decir Adiós \- En Vivo](https://open.spotify.com/track/3CBdi6o9Egg357jbpxBi60) | [Sebastian Mendoza](https://open.spotify.com/artist/2CEKDXUTkOu4LnGFysySTg) | [Show En Parque Recondo](https://open.spotify.com/album/5olJyfS4YAdQJk6wiNmLDG) | 2:11 | 2022-06-03 |  |
 | [Después De Ti](https://open.spotify.com/track/0cdCBqWbgvtRu7e5IMkoNd) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Ay, Amor \(En Vivo\)](https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ) | 1:21 | 2021-12-10 | 2022-07-29 |
-| [Dime Si Eres Feliz \- Vivo](https://open.spotify.com/track/2GZs2PsaucrkL1pBpA7Ym7) | [Hernan y La Champion's Liga](https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt) | [Crecer \(En Vivo\)](https://open.spotify.com/album/6GB3GNXuINYpN8MxBNTe2E) | 3:32 | 2021-12-10 |  |
+| [Dime Si Eres Feliz \- Vivo](https://open.spotify.com/track/2GZs2PsaucrkL1pBpA7Ym7) | [Hernan y La Champion's Liga](https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt) | [Crecer \(En Vivo\)](https://open.spotify.com/album/6GB3GNXuINYpN8MxBNTe2E) | 3:32 | 2021-12-10 | 2022-09-17 |
 | [Duraznito](https://open.spotify.com/track/13xbFcvbDsX8ataeaXtInL) | [Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [En Vivo...Hasta la Muerte](https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4) | 2:48 | 2021-12-10 |  |
 | [El Tano Pastita](https://open.spotify.com/track/6Xk9yjvrPD4UgLqzZc3hVO) | [Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [En Vivo...Hasta la Muerte](https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4) | 1:57 | 2021-12-10 | 2022-07-24 |
 | [El vago fumanchu \- En Vivo](https://open.spotify.com/track/19UnqDxb33wJ9tPowoVRLh) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [100% Negro Cumbiero](https://open.spotify.com/album/1sbZFQTIJl41nnRvXYI4gf) | 2:19 | 2022-03-25 | 2022-04-21 |

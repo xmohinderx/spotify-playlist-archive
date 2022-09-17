@@ -1,12 +1,12 @@
 {
   "description": "The best in Indie in one place. Cover: Men I Trust",
-  "num_followers": 25315,
+  "num_followers": 25322,
   "original_name": "Indie Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA5MTIwMCwwMDAwMDAwMDQ1M2ZjODA1NTZkOTQ2Y2QxZWMwMDgwMzczNWZhZTIz",
+  "snapshot_id": "MTY2MjA5MTIwMCwwMDAwMDAwMDE3MjcxODgzNTdjNjg5MTczZjM2NTQwOGI2OTU0ZDFj",
   "tracks": [
     {
       "added_at": "2022-09-02 04:00:00",
@@ -551,22 +551,6 @@
     {
       "added_at": "2022-09-02 04:00:00",
       "album": {
-        "name": "Jubilee",
-        "url": "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 195370,
-      "name": "Be Sweet",
-      "url": "https://open.spotify.com/track/0dpyzcT3RMNNSd2xKBf35I"
-    },
-    {
-      "added_at": "2022-09-02 04:00:00",
-      "album": {
         "name": "Friends That Break Your Heart",
         "url": "https://open.spotify.com/album/1zNtJFMCNIyT0X19jpcI3j"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 195905,
       "name": "Coming Back (feat. SZA)",
       "url": "https://open.spotify.com/track/2pSsHnjAgEPjHmet7ChlHQ"
+    },
+    {
+      "added_at": "2022-09-02 04:00:00",
+      "album": {
+        "name": "Jubilee",
+        "url": "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 195370,
+      "name": "Be Sweet",
+      "url": "https://open.spotify.com/track/0dpyzcT3RMNNSd2xKBf35I"
     },
     {
       "added_at": "2022-09-02 04:00:00",
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2022-09-02 04:00:00",
       "album": {
-        "name": "The Dream",
-        "url": "https://open.spotify.com/album/5ogYKSRRlVAgMzv09HFeIn"
+        "name": "Once Twice Melody",
+        "url": "https://open.spotify.com/album/79NySyjxJ8xric31mXKMAo"
       },
       "artists": [
         {
-          "name": "alt-J",
-          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
         }
       ],
-      "duration_ms": 198840,
-      "name": "U&ME",
-      "url": "https://open.spotify.com/track/3i4ColsuZEvjeLz63m0jPt"
+      "duration_ms": 284906,
+      "name": "Once Twice Melody",
+      "url": "https://open.spotify.com/track/057rZ21MDp8Ld0TgQndNcv"
     },
     {
       "added_at": "2022-09-02 04:00:00",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2022-09-02 04:00:00",
       "album": {
-        "name": "Once Twice Melody",
-        "url": "https://open.spotify.com/album/79NySyjxJ8xric31mXKMAo"
+        "name": "The Dream",
+        "url": "https://open.spotify.com/album/5ogYKSRRlVAgMzv09HFeIn"
       },
       "artists": [
         {
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
         }
       ],
-      "duration_ms": 284906,
-      "name": "Once Twice Melody",
-      "url": "https://open.spotify.com/track/057rZ21MDp8Ld0TgQndNcv"
+      "duration_ms": 198840,
+      "name": "U&ME",
+      "url": "https://open.spotify.com/track/3i4ColsuZEvjeLz63m0jPt"
     },
     {
       "added_at": "2022-09-02 04:00:00",

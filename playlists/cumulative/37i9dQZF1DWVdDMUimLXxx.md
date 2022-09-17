@@ -4,7 +4,7 @@
 
 > Add dramatic flair to your strategy game.
 
-74 songs - 3 hr 49 min - [published](https://open.spotify.com/playlist/7chXrYGnaDM6wXcboPhu0N)
+76 songs - 3 hr 55 min - [published](https://open.spotify.com/playlist/7chXrYGnaDM6wXcboPhu0N)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Cloudsailing](https://open.spotify.com/track/7aHbZez2yeqJFJWalKL0WH) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Windflower](https://open.spotify.com/album/5pMpxNkROAIq7wygp4oHbl) | 3:19 | 2022-04-22 |  |
 | [Crossing Paths](https://open.spotify.com/track/6gN8d0TrjwkcVgrZpFyp3c) | [Elinaura](https://open.spotify.com/artist/1PHMZ5pRjowUYaUCXtOYVd) | [Crossing Paths](https://open.spotify.com/album/6tDR44G5XlTW1n5YxhX29c) | 3:01 | 2022-04-22 |  |
 | [Crossroad at Dawn](https://open.spotify.com/track/0THdfQgMIwHSJ0zlowjpLP) | [Bill Brown](https://open.spotify.com/artist/0hpjPGgPQW9o5veEihASNJ) | [Lineage 2 \- Chaotic Chronicle](https://open.spotify.com/album/0BawDoh2xMnec8hK6XkQ2L) | 2:00 | 2022-04-22 |  |
+| [Crowned Kings](https://open.spotify.com/track/2XB9XKY0yXwkuKTTEShGhn) | [Dream Cave](https://open.spotify.com/artist/6Ga6q3KSIGpJt2H1vbtTI0) | [Crowned Kings](https://open.spotify.com/album/0xesiYFMK9bL67CAH3Y0Gs) | 3:30 | 2022-09-16 |  |
 | [Desert Hideout](https://open.spotify.com/track/0UMo22CzNzglVuQypNq3E5) | [Christoffer Moe Ditlevsen](https://open.spotify.com/artist/1byqtZiN0rWjNg7kXy5j3S) | [Partners in Crime](https://open.spotify.com/album/0ntMgYnq6D9hswNnEwy3PP) | 3:29 | 2022-04-22 |  |
 | [Dust Turns to Gold](https://open.spotify.com/track/0PAlIXkZ3DXJqAmx1BAXMX) | [Hampus Naeselius](https://open.spotify.com/artist/1M3REpihyqFCmBRC9sMzp5) | [The Final Cut](https://open.spotify.com/album/744UTU1JhhXLIqSAF4Q6kp) | 3:14 | 2022-04-22 |  |
 | [Endeavour](https://open.spotify.com/track/6v3flfFyiewX4uhtefPYKP) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [Endeavour](https://open.spotify.com/album/3MwtBdr2Ohdg6TCtHoZDAH) | 4:27 | 2022-04-22 |  |
@@ -80,6 +81,7 @@
 | [Valiant](https://open.spotify.com/track/1yDH9vW8GboBkqNJujPiF6) | [Dream Cave](https://open.spotify.com/artist/6Ga6q3KSIGpJt2H1vbtTI0) | [Valiant](https://open.spotify.com/album/6PqElyGUMeroZmARx67gXj) | 2:17 | 2022-04-22 |  |
 | [Wayfinders](https://open.spotify.com/track/6rEF3F1fu6SPyEbzRGxUKr) | [Trevor Kowalski](https://open.spotify.com/artist/4vPiZNfnHqzN52FOn38BEv) | [Nocturne](https://open.spotify.com/album/0r8EWo5tLMJoOLNhystGx1) | 2:51 | 2022-04-22 |  |
 | [Where Heroes Come to Die](https://open.spotify.com/track/1paOx5tHH937AcHuWjgEa8) | [Hampus Naeselius](https://open.spotify.com/artist/1M3REpihyqFCmBRC9sMzp5) | [Where Heroes Come to Die](https://open.spotify.com/album/6oWPtpkD348BpY3ZTxWOzp) | 3:51 | 2022-04-22 |  |
+| [Wicked Games](https://open.spotify.com/track/3PGVbJM9JUwSgdPvo9kv3B) | [Philip Ayers](https://open.spotify.com/artist/1IJx884XVtl5mWZhINoRSj) | [Wicked Games](https://open.spotify.com/album/3pa29qhrTUyRYd7O29nmJk) | 2:44 | 2022-09-16 |  |
 | [Yearning Hearts](https://open.spotify.com/track/2GTaqPwHbtHb6Co8tIbUim) | [Eternal Eclipse](https://open.spotify.com/artist/2mudOp0EB2SFnG0mVazTJs) | [Forgotten Odes](https://open.spotify.com/album/3KT3DRHJdpEZD5OxSK7hj0) | 2:35 | 2022-04-22 |  |
 | [Zion](https://open.spotify.com/track/2QLu8c1L4Sr3HwQez9GVdc) | [Edgar Hopp](https://open.spotify.com/artist/5nn0v7ZNnO4cY7TEAjjfSx) | [In Abundance](https://open.spotify.com/album/6GIEUr2Nhe8E37amFtuAcv) | 3:36 | 2022-04-22 |  |
 

@@ -4,13 +4,13 @@
 
 > The best of modern blues rock\. Cover: Anthony Gomes
 
-122 songs - 7 hr 34 min - [published](https://open.spotify.com/playlist/2ytdQyvJSh0gNxZ2IJT8lV)
+124 songs - 7 hr 44 min - [published](https://open.spotify.com/playlist/2ytdQyvJSh0gNxZ2IJT8lV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1984](https://open.spotify.com/track/3fj0DAZAGzvwG1Qj59Q8eO) | [The Last Internationale](https://open.spotify.com/artist/2K9hz9205EQR7KkKNdyXFc) | [1984](https://open.spotify.com/album/6GqFl8SgvirIfO71cqh7aI) | 4:31 | 2022-05-13 | 2022-07-16 |
 | [Ain't None Watered Down](https://open.spotify.com/track/3vlkTPYYJ91dZyQYAci4rD) | [Tyler Bryant & the Shakedown](https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo) | [Ain't None Watered Down](https://open.spotify.com/album/3wdCBshRudtkeU21nlGgk2) | 3:12 | 2022-08-12 |  |
-| [All Alone](https://open.spotify.com/track/4QcFM4sEayM4QjvIQjF3bE) | [John The Conqueror](https://open.spotify.com/artist/1PEYH4hqPi7Wqa4qNV4184) | [John The Conqueror](https://open.spotify.com/album/5J05LEDQP5q6wzJWuXO1Sp) | 3:49 | 2020-10-16 |  |
+| [All Alone](https://open.spotify.com/track/4QcFM4sEayM4QjvIQjF3bE) | [John The Conqueror](https://open.spotify.com/artist/1PEYH4hqPi7Wqa4qNV4184) | [John The Conqueror](https://open.spotify.com/album/5J05LEDQP5q6wzJWuXO1Sp) | 3:49 | 2020-10-16 | 2022-09-17 |
 | [All I See Is You](https://open.spotify.com/track/6dNvCU9OcpWbDTR47d1ECP) | [Wight Lighters](https://open.spotify.com/artist/1MekQ13GRqKYQYrcJCx988) | [All I See Is You](https://open.spotify.com/album/5wl0osC3IOVFcFoFO02FMD) | 4:20 | 2022-06-10 | 2022-07-23 |
 | [All I've Got is You](https://open.spotify.com/track/0DdDbFj0v5UlXC8j2CxJg6) | [J.D\. Simo](https://open.spotify.com/artist/443OoeHtWnNdDNKN4xgkeg) | [All I've Got is You](https://open.spotify.com/album/1ZsdIxjdTXmPS7QLWKRtBA) | 2:41 | 2020-10-16 | 2022-07-19 |
 | [Alright](https://open.spotify.com/track/5h30PUy2sOIFysmZmCGlMK) | [Dirty Streets](https://open.spotify.com/artist/34iizXl7oXappF8Fpl27ST) | [Alright](https://open.spotify.com/album/1rV0bbF8kXoT2xrEBUbTgX) | 2:55 | 2022-04-29 | 2022-07-25 |
@@ -85,8 +85,9 @@
 | [Painted Horse](https://open.spotify.com/track/2FWKa4zEa6lrdTDuGNMur9) | [Anthony Gomes](https://open.spotify.com/artist/0aBEiafPqEJ3o0yp6gFsHg) | [Painted Horse](https://open.spotify.com/album/0KFGI2lrMjXjq1w74dfDkz) | 3:45 | 2022-08-26 |  |
 | [Pick Your Poison](https://open.spotify.com/track/7wcqevEd92JZsAb62zJ3uu) | [Black Pistol Fire](https://open.spotify.com/artist/0Nrwy16xCPXG8AwkMbcVvo) | [Look Alive](https://open.spotify.com/album/0DnJstuYf8Bdj6DFpdtIEy) | 3:45 | 2020-10-16 |  |
 | [Pick Your Poison](https://open.spotify.com/track/2oXl8o2g4iPAEZL1YbmYVH) | [Black Pistol Fire](https://open.spotify.com/artist/0Nrwy16xCPXG8AwkMbcVvo) | [Pick Your Poison](https://open.spotify.com/album/7DVKYtrPILCQxbUgP7EJ0a) | 3:45 | 2020-10-16 | 2022-07-27 |
+| [Poison the Water](https://open.spotify.com/track/4FZTgKUSqTsZ2oSNpHl0O4) | [David Starr](https://open.spotify.com/artist/6PJuDsfOF3dpzVpdrUIRw1) | [Poison the Water](https://open.spotify.com/album/0Hl9xfHPd8mm0JTBBf7T9H) | 3:51 | 2022-09-16 |  |
 | [Prosecution Blues](https://open.spotify.com/track/6DdX7BH2VJzfcjIAlyyPzk) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Prosecution Blues](https://open.spotify.com/album/3GvnjHR6Vm28smZDaxS0Ww) | 3:53 | 2021-07-16 | 2022-07-29 |
-| [Ride](https://open.spotify.com/track/0FwmAMxNdTC515HY3lexJR) | [Tyler Bryant & the Shakedown](https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo) | [Truth And Lies](https://open.spotify.com/album/7KAu22Uam2on7ZzDp41w72) | 3:26 | 2020-10-16 |  |
+| [Ride](https://open.spotify.com/track/0FwmAMxNdTC515HY3lexJR) | [Tyler Bryant & the Shakedown](https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo) | [Truth And Lies](https://open.spotify.com/album/7KAu22Uam2on7ZzDp41w72) | 3:26 | 2020-10-16 | 2022-09-17 |
 | [Roll Bones](https://open.spotify.com/track/4YAcRalM7dHtbbSRHwF92p) | [The Record Company](https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX) | [All Of This Life](https://open.spotify.com/album/0Xe0NMbJ7t8dTv0wiTH3wi) | 3:41 | 2020-10-16 | 2022-09-03 |
 | [Rollin 'N Tumblin](https://open.spotify.com/track/02V2PwXfovnT03QPHpp1SF) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY) | [World Boogie Is Coming](https://open.spotify.com/album/46nKDUcNFmBL8ASwFH3P94) | 2:35 | 2020-10-16 |  |
 | [Rubberband](https://open.spotify.com/track/597NMs0QRqHKrkj5e8pvHH) | [Jesse Redwing](https://open.spotify.com/artist/7E2iToLix5cqUAgbR7zswK) | [Rubberband](https://open.spotify.com/album/1jdW9CDZQtIRFb4ReH2XcB) | 3:38 | 2020-10-16 | 2022-07-25 |
@@ -121,6 +122,7 @@
 | [Them That Matter Don't Mind](https://open.spotify.com/track/4MkZfEypSZvaODh7OKhKLK) | [Rehab](https://open.spotify.com/artist/1qh1aHXy7LRcb7eyriuJTS) | [Them That Matter Don't Mind](https://open.spotify.com/album/7M77ODabY87tVTnfnPLscn) | 2:49 | 2021-11-12 | 2022-07-09 |
 | [Third Eye Witness](https://open.spotify.com/track/0nDWq31XCAiMjiFowRy8J8) | [Scott McKeon](https://open.spotify.com/artist/1sfTHUBg3CWHk2cU3Mle9S), [Gavin Conder](https://open.spotify.com/artist/6GWDbdcSJn1PByFJyxuSDb) | [Third Eye Witness](https://open.spotify.com/album/5stY57R9CRn0feCybn8JGa) | 5:10 | 2021-02-19 | 2022-06-30 |
 | [Too Bad](https://open.spotify.com/track/6CCkq87g6MxHZ5uCYCqdk1) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Feral Roots](https://open.spotify.com/album/2OsED4DmBABqdP9NwGUpAu) | 4:44 | 2020-10-16 |  |
+| [True Lies](https://open.spotify.com/track/77Xto82GKsFGtx3yDvY10C) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [True Lies](https://open.spotify.com/album/1fNI29m6d0M5c14Lklf0dV) | 5:51 | 2022-09-16 |  |
 | [Waiting For Your Man](https://open.spotify.com/track/1WYzyPQIEAGd8pZU6RlGdK) | [Robert Jon & the Wreck](https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC) | [Waiting For Your Man](https://open.spotify.com/album/05WV45ZfdyQxM2cJ4NRgkd) | 3:35 | 2022-04-08 | 2022-07-29 |
 | [Well Wasted](https://open.spotify.com/track/4S8WK43eMxManxzewCswet) | [Black Pistol Fire](https://open.spotify.com/artist/0Nrwy16xCPXG8AwkMbcVvo) | [Well Wasted](https://open.spotify.com/album/26rXDFayFu0pANaa174xu7) | 3:25 | 2020-10-16 |  |
 | [Westbound](https://open.spotify.com/track/5UJTAeX6bJC9lKi7kgLI6y) | [Howlin' Sun](https://open.spotify.com/artist/4BH1zbJ2HjPh8g3yrUEcTw) | [Howlin' Sun](https://open.spotify.com/album/2lWyPYPhVuPEd0fOTRHUwS) | 2:12 | 2020-10-16 | 2022-06-01 |

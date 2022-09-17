@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX23YPJntYMnh.md) - [plain]
 
 > Funk\. But heavier\. Cover: King's X
 
-[Spotify](https://open.spotify.com/user/spotify) - 448,308 likes - 60 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 448,375 likes - 60 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX23YPJntYMnh.md) - [plain]
 | 26 | [Suck My Kiss](https://open.spotify.com/track/0psB5QzGb4653K0uaPgEyh) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Blood Sugar Sex Magik \(Deluxe Edition\)](https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg) | 3:37 |
 | 27 | [Summer Romance \(Anti\-Gravity Love Song\)](https://open.spotify.com/track/4O1aEPLNamT9ZuClNZi2KM) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [S.C.I.E.N.C.E.](https://open.spotify.com/album/0XC5hMpEFLDSuRxc5bVtIZ) | 4:25 |
 | 28 | [Tahitian Moon](https://open.spotify.com/track/3DwzYRgOgojl0EcdOaJLYr) | [Porno for Pyros](https://open.spotify.com/artist/58etTNn7xmsQZhjnfjpAXL) | [Good God's Urge](https://open.spotify.com/album/6Sa5vHSMHnIm1m0LG82xBM) | 3:47 |
-| 29 | [Little Miss Can't Be Wrong](https://open.spotify.com/track/4mFIxFJg3Di1OIyVs7mcYh) | [Spin Doctors](https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m) | [Pocket Full Of Kryptonite](https://open.spotify.com/album/2TWdmpnFNCMlZDQROleupK) | 3:53 |
-| 30 | [Love Rears Its Ugly Head](https://open.spotify.com/track/5huSgTVqBdIJTFhpShJfcg) | [Living Colour](https://open.spotify.com/artist/6Uhp7WA6sjm5ZL6Xz561de) | [Time'S Up](https://open.spotify.com/album/2rNAZnGy5aH1enh3NRn6IA) | 4:19 |
+| 29 | [Love Rears Its Ugly Head](https://open.spotify.com/track/5huSgTVqBdIJTFhpShJfcg) | [Living Colour](https://open.spotify.com/artist/6Uhp7WA6sjm5ZL6Xz561de) | [Time'S Up](https://open.spotify.com/album/2rNAZnGy5aH1enh3NRn6IA) | 4:19 |
+| 30 | [Little Miss Can't Be Wrong](https://open.spotify.com/track/4mFIxFJg3Di1OIyVs7mcYh) | [Spin Doctors](https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m) | [Pocket Full Of Kryptonite](https://open.spotify.com/album/2TWdmpnFNCMlZDQROleupK) | 3:53 |
 | 31 | [They Say I'm Different](https://open.spotify.com/track/7yQpHgbDPweCZhTD5ZtXES) | [Betty Davis](https://open.spotify.com/artist/5Ryxgm3uLvQOsw4H5ZpHDn) | [They Say I'm Different](https://open.spotify.com/album/6cnH06Wxjb2QqUHFa8PEwc) | 4:15 |
 | 32 | [Courage](https://open.spotify.com/track/7tlou9CjCXkaMfza2oq0GX) | [Alien Ant Farm](https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO) | [Anthology](https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5) | 3:30 |
 | 33 | [I Know Somethin \(Bout You\)](https://open.spotify.com/track/358XBWJ3pa71P4U89v393N) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Facelift](https://open.spotify.com/album/5LbHbwejgZXRZAgzVAjkhj) | 4:22 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX23YPJntYMnh.md) - [plain]
 | 59 | [Rain Will Fall](https://open.spotify.com/track/2fJHXL82X3wtyXMzcSifdj) | [I Mother Earth](https://open.spotify.com/artist/3zEJAyZ1qSHSx9936UfXuM) | [Dig](https://open.spotify.com/album/0nUW7lioZIQNMXlsXjaOxy) | 5:19 |
 | 60 | [Good Grief](https://open.spotify.com/track/4uNr9f4s35mXouHntXwVl6) | [Urban Dance Squad](https://open.spotify.com/artist/0Vo614yFlepUdpdbkggrmC) | [The Singles Collection](https://open.spotify.com/album/6MIl1ERfeaobCbKVAG7y3i) | 4:24 |
 
-Snapshot ID: `MTY2MDg4MTcyMCwwMDAwMDAwMGY0NmE0ZDc5ODc1M2RlYjRhMjllN2ZhNWQ2MzVhZDhk`
+Snapshot ID: `MTY2MDg4MTcyMCwwMDAwMDAwMDc4ZDgxOTc0ODU5Y2U3N2VmNWQ1ZDVkZWUwNmE4NTUx`

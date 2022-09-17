@@ -4,7 +4,7 @@
 
 > your guide for a peaceful night.
 
-129 songs - 7 hr 49 min - [published](https://open.spotify.com/playlist/0yF840QYUl7VX4uOhnIVSI)
+130 songs - 7 hr 52 min - [published](https://open.spotify.com/playlist/0yF840QYUl7VX4uOhnIVSI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [For You](https://open.spotify.com/track/4439aAX3jNkNKx1ygUr9WC) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Song For Our Daughter](https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu) | 3:57 | 2022-01-12 |  |
 | [Forget About](https://open.spotify.com/track/00epdG9ONPL8KkErbmKW8o) | [Sibylle Baier](https://open.spotify.com/artist/2ckfYpz65ZueWZa2dB6yXC) | [Colour Green](https://open.spotify.com/album/1lf3rLmrO0ObMieg4YqEuB) | 2:31 | 2022-01-12 |  |
 | [Give Me A Minute](https://open.spotify.com/track/0d0iBmyaaywSWyEjN9NQla) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/2PullXMROSpzCdFdzEmFhy) | 2:37 | 2022-01-12 |  |
+| [Grow into Love](https://open.spotify.com/track/52AthVA2opex8NcLSwtO8n) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Seasons of Change](https://open.spotify.com/album/74fRgN21qhhAQv43mbCJFq) | 2:42 | 2022-01-12 |  |
 | [Grow into Love](https://open.spotify.com/track/6FloUWDjW3r51mRYyw0vv5) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Seasons of Change](https://open.spotify.com/album/2dyKBgz9mbVHUbeX2lbd8p) | 2:42 | 2022-01-12 | 2022-09-15 |
 | [Halo Light](https://open.spotify.com/track/6T6elHOwbZDoZauaaJF82F) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Halo Light](https://open.spotify.com/album/41CYReG61asU0xASMmhg16) | 3:50 | 2022-01-12 | 2022-07-29 |
 | [Haunted House](https://open.spotify.com/track/4vNxFySlHhuWuxOHvphZuP) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Haunted House](https://open.spotify.com/album/35Qo3iBJ04Num2L8NCOJWz) | 2:13 | 2022-01-12 | 2022-07-29 |
@@ -74,7 +75,7 @@
 | [Maggie](https://open.spotify.com/track/7lKYYw41WOOx87Jf139st5) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [World On The Ground](https://open.spotify.com/album/7vI29Msu8k0wpFUittUvAH) | 3:29 | 2022-01-12 | 2022-07-29 |
 | [Marrow](https://open.spotify.com/track/4j8EP3Us4LpzLu1dpsMwZa) | [Courtney Hartman](https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7) | [Glade](https://open.spotify.com/album/2jLbcCta4ORz1pnrSR24dj) | 3:14 | 2022-01-12 | 2022-07-13 |
 | [Masterfade](https://open.spotify.com/track/7s9lVgi9Hxt1vbfndtJIYG) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [The Mysterious Production of Eggs](https://open.spotify.com/album/1YbPpWqyIoqEgt2QY90yXy) | 4:10 | 2022-01-12 | 2022-09-09 |
-| [May Flowers](https://open.spotify.com/track/6ONUQ2TUUjRVlERNRxztz1) | [Charlie Brennan](https://open.spotify.com/artist/3YzXK1DQ9EkWqwmUkk6yc8) | [May Flowers](https://open.spotify.com/album/6b6lr7abIADkzifUd8gNfE) | 3:30 | 2022-01-12 |  |
+| [May Flowers](https://open.spotify.com/track/6ONUQ2TUUjRVlERNRxztz1) | [Charlie Brennan](https://open.spotify.com/artist/3YzXK1DQ9EkWqwmUkk6yc8) | [May Flowers](https://open.spotify.com/album/6b6lr7abIADkzifUd8gNfE) | 3:30 | 2022-01-12 | 2022-09-17 |
 | [Medicine](https://open.spotify.com/track/4TxJQDtvYHJcOBH6ONi6q2) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Wild Youth](https://open.spotify.com/album/3k1RJDh4AnciWhtXm8fymT) | 4:18 | 2022-01-12 |  |
 | [Mint Condition](https://open.spotify.com/track/3k0YUWIovSt3e6BRsERRPA) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [Mint Condition](https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794) | 4:02 | 2022-01-12 |  |
 | [Montana](https://open.spotify.com/track/1kodYJ3wtJuVozLPRKWDOR) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Moveys](https://open.spotify.com/album/3RVAiBjIsu9OSYPWo6dcDq) | 3:20 | 2022-01-12 | 2022-07-29 |

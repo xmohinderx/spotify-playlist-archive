@@ -4,7 +4,7 @@
 
 > Ponle actitud a tu comida.
 
-76 songs - 3 hr 48 min - [published](https://open.spotify.com/playlist/4V2yOSsSxqVivO6mUzi8DS)
+77 songs - 3 hr 51 min - [published](https://open.spotify.com/playlist/4V2yOSsSxqVivO6mUzi8DS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Gangsters \- 2015 Remaster](https://open.spotify.com/track/6S5hWl5wCTGO3qrNw9QO8R) | [The Specials](https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3) | [The Specials \(Deluxe Version\)](https://open.spotify.com/album/438rUpZvWR5C1O2piZn1Ui) | 2:50 | 2020-05-22 | 2022-07-29 |
 | [God Save The Queen](https://open.spotify.com/track/2mHchPRtQWet3iIS3jANr1) | [Sex Pistols](https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR) | [Never Mind The Bollocks, Here’s The Sex Pistols](https://open.spotify.com/album/6ggO3YVhyonYuFWUPBRyIv) | 3:19 | 2020-05-22 | 2022-07-29 |
 | [God Save the Queen](https://open.spotify.com/track/6ui6l3ZNvlrGQZArwo8195) | [Sex Pistols](https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR) | [Never Mind The Bollocks, Here's The Sex Pistols](https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2) | 3:20 | 2020-05-22 |  |
-| [Gotta Go](https://open.spotify.com/track/4cMbAP64BETo4dBW8GUwYD) | [Agnostic Front](https://open.spotify.com/artist/3zDvanHxaETiHltPkKKYhT) | [Something's Gotta Give](https://open.spotify.com/album/41VrNLnQFFvhhga4iURHNQ) | 3:34 | 2020-05-22 |  |
+| [Gotta Go](https://open.spotify.com/track/4cMbAP64BETo4dBW8GUwYD) | [Agnostic Front](https://open.spotify.com/artist/3zDvanHxaETiHltPkKKYhT) | [Something's Gotta Give](https://open.spotify.com/album/41VrNLnQFFvhhga4iURHNQ) | 3:34 | 2020-05-22 | 2022-09-17 |
 | [Hate To Say I Told You So](https://open.spotify.com/track/6xxXrNJnnsQNLdgNk8S4y8) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Veni Vidi Vicious](https://open.spotify.com/album/7lbksDekncvHf1FfZ5y1li) | 3:19 | 2020-05-22 |  |
 | [Hate To Say I Told You So](https://open.spotify.com/track/20j7B6mL9gnNvG3ic6Vwh5) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Veni Vidi Vicious](https://open.spotify.com/album/1C4UGzx5gD9b3X0UfAhY7z) | 3:20 | 2020-05-22 | 2022-07-29 |
 | [Holiday in Cambodia](https://open.spotify.com/track/2OuNnwnNQyWrF47pthWxNb) | [Dead Kennedys](https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV) | [Give Me Convenience or Give Me Death](https://open.spotify.com/album/5Xv8PCJ7ZMmRd3jXnJqg3V) | 3:44 | 2020-05-22 |  |
@@ -72,6 +72,7 @@
 | [Superman](https://open.spotify.com/track/4X3qGigyU6ARi3HP4lWD95) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [Hang\-Ups](https://open.spotify.com/album/3htGAnJ90pQHse0tRzxC56) | 3:05 | 2020-05-22 |  |
 | [Teenage Kicks](https://open.spotify.com/track/4wNATViXFXHOKsGgEehnBT) | [The Undertones](https://open.spotify.com/artist/2WRStKp4ihGVUzlzWfv1Qt) | [The Anthology](https://open.spotify.com/album/5lVtnzCHr3IAncUK710Mkv) | 2:28 | 2020-05-22 | 2022-07-28 |
 | [The '59 Sound](https://open.spotify.com/track/4T1PtJLCbe7MIsvhQZURXL) | [The Gaslight Anthem](https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo) | [The '59 Sound](https://open.spotify.com/album/0S0T225M4VIc2Dxxba5RJc) | 3:09 | 2020-05-22 | 2022-07-28 |
+| [The '59 Sound](https://open.spotify.com/track/5872goUpkJgh11uslHaa2G) | [The Gaslight Anthem](https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo) | [The '59 Sound](https://open.spotify.com/album/3iC6u4b7pxcrreH1w5C5HD) | 3:09 | 2020-05-22 |  |
 | [The House That Heaven Built](https://open.spotify.com/track/2dcmQJCw1INGn7yR2KHx0U) | [Japandroids](https://open.spotify.com/artist/2WcCoPxAWFNSCvsFPrpf30) | [Celebration Rock](https://open.spotify.com/album/2sY9WYVH022ulyAYaqvXLW) | 4:49 | 2020-05-22 | 2022-07-29 |
 | [The Impression That I Get](https://open.spotify.com/track/1ru5R5iSawvuMELqKXxLjS) | [The Mighty Mighty Bosstones](https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK) | [Let's Face It](https://open.spotify.com/album/5yBYSnmpRANjb99msqeCee) | 3:14 | 2020-05-22 |  |
 | [The Kids Aren't Alright](https://open.spotify.com/track/4EchqUKQ3qAQuRNKmeIpnf) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Americana](https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5) | 3:00 | 2020-05-22 |  |

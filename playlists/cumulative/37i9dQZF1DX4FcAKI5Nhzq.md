@@ -2,9 +2,9 @@
 
 ### [K\-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
-> Future K\-Pop hits! Cover: Balming Tiger
+> Future K\-Pop hits! Cover: CHOI YOOJUNG
 
-645 songs - 1 day 11 hr 57 min - [published](https://open.spotify.com/playlist/365X6AQFdYqkXtDjWksHVf)
+646 songs - 1 day 12 hr 0 min - [published](https://open.spotify.com/playlist/365X6AQFdYqkXtDjWksHVf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Beauty and the Beast](https://open.spotify.com/track/6cLwgFQvn69ATT9GX7hCIs) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Beauty and the Beast](https://open.spotify.com/album/1y4bPlGZWzzZtVCuHbQ8gS) | 4:24 | 2022-01-03 | 2022-03-17 |
 | [BEcause](https://open.spotify.com/track/3L74uwShK0JqEUZ5Y2JoDW) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Summer Holiday\]](https://open.spotify.com/album/1JOpx5eL6Rb3vRC9epERQD) | 3:11 | 2021-07-31 | 2021-09-18 |
 | [Better](https://open.spotify.com/track/2k44rKotfi2k55hwwiCImN) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [BETTER \- The 10th Album](https://open.spotify.com/album/3YXfuI3E6OxcrtXnjAgNkM) | 3:19 | 2020-12-01 | 2021-03-18 |
-| [Better \(Feat\. BIG Naughty\)](https://open.spotify.com/track/6JO6fHEpjYE8ILDhweIqQj) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Better](https://open.spotify.com/album/65RvaP3P2DdeC0QoL0eean) | 3:06 | 2022-09-01 |  |
+| [Better \(Feat\. BIG Naughty\)](https://open.spotify.com/track/6JO6fHEpjYE8ILDhweIqQj) | [MAMAMOO+](https://open.spotify.com/artist/2uGx10VkBrI3GBvnQl81du), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Better](https://open.spotify.com/album/65RvaP3P2DdeC0QoL0eean) | 3:06 | 2022-09-01 |  |
 | [Beyond Love \(Feat\. 10CM\)](https://open.spotify.com/track/0HsRZwZzHoZ5AM5W2ZYI5c) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Beyond Love](https://open.spotify.com/album/5Gp70tE4qrzx93UkoqP5QA) | 3:08 | 2022-06-29 | 2022-08-13 |
 | [Bicycle](https://open.spotify.com/track/7wDVvxMUdW5MtJUqFtuXUz) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Querencia](https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3) | 2:59 | 2021-02-15 | 2021-05-18 |
 | [Bird](https://open.spotify.com/track/0ePOUs38vMTdOVjvqVHXu1) | [Kim NamJoo](https://open.spotify.com/artist/1coxOrU1nr3pjo8KgThKFS) | [Bird](https://open.spotify.com/album/57l0cgANptjE4xJZzflLPR) | 3:04 | 2020-10-13\* | 2021-01-11 |
@@ -449,7 +449,7 @@
 | [Ready Or Not](https://open.spotify.com/track/0Sp0RwhaE0CdJE8ctmXk4U) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) | [Ready Or Not](https://open.spotify.com/album/6uFRDoLaMdhTSDOOp5xW1z) | 3:20 | 2020-11-17 | 2021-04-22 |
 | [Real Love](https://open.spotify.com/track/5jjTsBPfe6u9sD9u4CSvjr) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Real Love](https://open.spotify.com/album/0at0j5nXz7gxEBiz2Goh6s) | 3:21 | 2022-03-28 | 2022-06-18 |
 | [Remember](https://open.spotify.com/track/2MO6sxfNbVBkGvZRPJCPbe) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Hometown, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/7B7whF7sfWLeuCngNAiEu0) | 3:31 | 2021-10-06 | 2021-12-02 |
-| [Replay](https://open.spotify.com/track/4b33wUnbWt4YSZLWkwtlds) | [Golden Child](https://open.spotify.com/artist/5zShiwTHlygdfsXj6eavTu) | [AURA](https://open.spotify.com/album/3lWLkdPRedaFQGuC4qQpKm) | 3:27 | 2022-08-12 |  |
+| [Replay](https://open.spotify.com/track/4b33wUnbWt4YSZLWkwtlds) | [Golden Child](https://open.spotify.com/artist/5zShiwTHlygdfsXj6eavTu) | [AURA](https://open.spotify.com/album/3lWLkdPRedaFQGuC4qQpKm) | 3:27 | 2022-08-12 | 2022-09-17 |
 | [Revolution](https://open.spotify.com/track/59jcTRUaGUbKAjjmguiINC) | [AleXa](https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU) | [DECOHERENCE](https://open.spotify.com/album/5xobv4mIR1C2BiSts7WDxL) | 3:09 | 2020-10-22 | 2021-01-18 |
 | [riBBon](https://open.spotify.com/track/1Y8KxQUmP1xuaF5mNTYE0x) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [riBBon](https://open.spotify.com/album/4257hXQ3Msts5H4RZGrVHw) | 3:07 | 2021-06-16 | 2021-08-25 |
 | [RIDE](https://open.spotify.com/track/6kEZ2GttdwQeAj7lz58vkh) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [RIDE](https://open.spotify.com/album/6IRkfG9VKLl8sil1EgEwvV) | 3:03 | 2021-08-25 | 2021-10-28 |
@@ -483,7 +483,7 @@
 | [Scared](https://open.spotify.com/track/4qQ3e0YD83kblcnb8R0sIw) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [DISHARMONY : BREAK OUT](https://open.spotify.com/album/2QBdsbcBsTHVLlbAXBxaey) | 3:08 | 2021-04-22 | 2021-06-25 |
 | [SCIENTIST](https://open.spotify.com/track/0BJMgVrnWIvgYsjq8KaPeh) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 3:14 | 2021-11-13 | 2022-01-20 |
 | [SCREAM](https://open.spotify.com/track/0FaeA2jhqji5fwSdIavSyU) | [SF9](https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X) | [THE WAVE OF9](https://open.spotify.com/album/4bE85rfnrEXYRvqrEhEJAn) | 3:08 | 2022-07-15 | 2022-09-09 |
-| [Sea of Moonlight](https://open.spotify.com/track/58UmvrTOMdJpqJlD0U4MuE) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Sea of Moonlight](https://open.spotify.com/album/6YoagDSCACpp8wElCNBCXC) | 3:08 | 2022-07-29 |  |
+| [Sea of Moonlight](https://open.spotify.com/track/58UmvrTOMdJpqJlD0U4MuE) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Sea of Moonlight](https://open.spotify.com/album/6YoagDSCACpp8wElCNBCXC) | 3:08 | 2022-07-29 | 2022-09-17 |
 | [Second \(feat\. BIBI\)](https://open.spotify.com/track/4ghTyKLeMMTZQ85LwRbej0) | [HYO](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Second](https://open.spotify.com/album/0Nck83Sjn5RfHsITpO8GuZ) | 3:38 | 2021-08-11 | 2021-10-30 |
 | [SECRET LOVE REMIX \(Feat\. Chancellor, Damo, Brwn, Knave, Jhnovr\) \[Prod\. Doomsday\]](https://open.spotify.com/track/0pwBbccjxSv1RcyGL1HIAR) | [Horim](https://open.spotify.com/artist/4ewZPWfaF9tFfnX1bPVI6A), [Chancellor](https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx), [DAMO](https://open.spotify.com/artist/3NsU8hHRfNmuAHERfQLS1e), [BRWN](https://open.spotify.com/artist/6pH5e4QpMdXPvvEGCVaHPn), [Knave](https://open.spotify.com/artist/1bf9ZQrjTNV4yITb8KK9aB), [Jhnovr](https://open.spotify.com/artist/4GqXWudNdgIhuDnYHFnQez) | [SECRET LOVE REMIX \(Feat\. Chancellor, Damo, Brwn, Knave, Jhnovr\) \[Prod\. Doomsday\]](https://open.spotify.com/album/1HNQS0tGkP1YaYA4LFKX8R) | 6:05 | 2021-06-09 | 2021-06-25 |
 | [See you again](https://open.spotify.com/track/5Ekrh9NPmLMPJaAewqkauN) | [Han Seungwoo](https://open.spotify.com/artist/2RSsuFG2pkU9sGZ85UzFgl) | [Fade](https://open.spotify.com/album/2g8uiZCLtbI2FYgW1OfoiA) | 3:33 | 2021-07-01 | 2021-08-11 |
@@ -532,6 +532,7 @@
 | [Summer day summer night](https://open.spotify.com/track/7C9JbPpqtVK1tjMbDQR5EE) | [Sandeul](https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx) | [My Little Thought](https://open.spotify.com/album/0uH4sHGp8WT9KyK5d8Ge8g) | 2:59 | 2020-10-13\* | 2020-11-05 |
 | [Summer or Summer](https://open.spotify.com/track/6tU92qp9bJWAW86IHUggUa) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ), [DASOM](https://open.spotify.com/artist/6xxFNpc17jiiVZzOCgdLyv) | [Summer or Summer](https://open.spotify.com/album/5Sxd8gbumDCdcmq6M24eJV) | 3:19 | 2021-08-14 | 2021-10-28 |
 | [Summertime \(Feat\. Keem Hyoeun\)](https://open.spotify.com/track/7oK8KEekZqC9aHmFiKS1i9) | [HA:TFELT](https://open.spotify.com/artist/3Mrp5B6JdfoiObgY0WR8lF), [Keem Hyo\-Eun](https://open.spotify.com/artist/59KuGY6nfY3w39O0qYVA7p) | [Summertime](https://open.spotify.com/album/4NrnglBZ27dnRl3VCTpG3B) | 3:44 | 2021-07-16 | 2021-08-25 |
+| [Sunflower \(P.E.L\)](https://open.spotify.com/track/3lLCAFzZqA7B3OQl6yfYCM) | [CHOI YOOJUNG](https://open.spotify.com/artist/1ygbGmBWGTX0llbLrD9648) | [Sunflower](https://open.spotify.com/album/08tTGoLXNw5OaEUOJFIBe6) | 3:01 | 2022-09-16 |  |
 | [SUNSET WITH YOU](https://open.spotify.com/track/7AOtWjLx5SaKVVGzberZ7i) | [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [LOVE.](https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU) | 3:23 | 2022-02-03 | 2022-04-09 |
 | [SUPADUPA](https://open.spotify.com/track/0rzOt0WKIC2JcMD06OHWsQ) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [PO\~MYGIRL](https://open.spotify.com/album/5XsxSx1C8PSdv9ygcqtL6v) | 2:57 | 2020-10-13\* | 2020-11-05 |
 | [SURRENDER](https://open.spotify.com/track/0CwQeOWyrm26zRfYxqhn7q) | [LEE CHANGSUB](https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U) | [SURRENDER](https://open.spotify.com/album/2nbrVdm3DhZjZxEIrL28ox) | 2:50 | 2022-09-08 |  |

@@ -4,7 +4,7 @@
 
 > Ibiza season is back for 2022\. Let's dance!
 
-100 songs - 6 hr 22 min - not published yet
+100 songs - 6 hr 22 min - [published](https://open.spotify.com/playlist/6Sj7A3m3iitpInsJSHHl3W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

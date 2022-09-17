@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 
 > A mix of electric roots rock and folk\-infused alternative\. Cover: Nathaniel Rateliff & the Night Sweats
 
-[Spotify](https://open.spotify.com/user/spotify) - 479,562 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 479,620 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 | 9 | [Surefire](https://open.spotify.com/track/6iWvETAILWAYOdm2DioSEF) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Wilderado](https://open.spotify.com/album/27PS3oqiVzOqqAT04Ku6at) | 4:01 |
 | 10 | [You Worry Me](https://open.spotify.com/track/7ADBL3WZ9Oyj7zgkg7ODT8) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [Tearing At The Seams](https://open.spotify.com/album/6d0PPZVxoyKN3VlFrzsKYp) | 3:34 |
 | 11 | [Every Time the Sun Comes Up](https://open.spotify.com/track/61qxP4Vs5DVX0Ic4GnBklu) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4) | 4:22 |
-| 12 | [The Joke](https://open.spotify.com/track/18k8IlS52uxRWObykDUZFG) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By The Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 4:39 |
-| 13 | [Phoenix \(feat\. Fleet Foxes & Anaïs Mitchell\)](https://open.spotify.com/track/4Vs2i8GdP5s7vd8vfSRcDk) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 4:15 |
+| 12 | [Phoenix \(feat\. Fleet Foxes & Anaïs Mitchell\)](https://open.spotify.com/track/4Vs2i8GdP5s7vd8vfSRcDk) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 4:15 |
+| 13 | [The Joke](https://open.spotify.com/track/18k8IlS52uxRWObykDUZFG) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By The Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 4:39 |
 | 14 | [Can I Believe You](https://open.spotify.com/track/3pYB28IRzhtR5cHXLINchp) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 4:04 |
 | 15 | [All We Ever Knew](https://open.spotify.com/track/72zmwnbXjx9fMUjw3mbDSs) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Signs of Light](https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM) | 3:45 |
 | 16 | [Bethel Woods](https://open.spotify.com/track/2fbXenv8BnYOhxJk0CxwFD) | [Midlake](https://open.spotify.com/artist/4YsP5zmteLQ7etNjHAOu30) | [Bethel Woods](https://open.spotify.com/album/6FHo7FsoDgcn3BBC9yYX1l) | 4:23 |
@@ -55,10 +55,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 | 45 | [Spirit Cold](https://open.spotify.com/track/5HVHYpNllysLkUEduWKqlg) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Holding On, Holding Out](https://open.spotify.com/album/0BmHDh5DQcdfUUGzvQ3pPR) | 3:38 |
 | 46 | [Stand For Myself](https://open.spotify.com/track/6Oxs28sGtuS3RYlOmIu5K7) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Stand For Myself](https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV) | 4:13 |
 | 47 | [Black Myself](https://open.spotify.com/track/2BbFd78ykW1pnR5vZreQkr) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wary + Strange](https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda) | 3:21 |
-| 48 | [The Balcony](https://open.spotify.com/track/27GaPhdSkbvrfPTKZk2C6V) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [The Pet Parade](https://open.spotify.com/album/4fyZyhtsOevsFYLbLitaHZ) | 4:08 |
-| 49 | [Get Down](https://open.spotify.com/track/5NFHQLN5tdjkTdUBkNGDEo) | [Susto](https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt) | [Get Down](https://open.spotify.com/album/4li8nEW2egUoMBzWkKbHHQ) | 2:31 |
-| 50 | [The Ripple](https://open.spotify.com/track/6EfxByCmL6EYCtnLIKCOy6) | [Grizfolk](https://open.spotify.com/artist/6Xa4nbrSTfbioA4lLShbjh) | [Grizfolk](https://open.spotify.com/album/0AfobQJbuAN9JgfcTvF20R) | 3:24 |
-| 51 | [Lose My Mind](https://open.spotify.com/track/7djjzziCovlTf0yXGIArWS) | [The Wild Reeds](https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH) | [Cheers](https://open.spotify.com/album/449AwHLbBwEzRvAqIQr5mB) | 3:48 |
+| 48 | [Get Down](https://open.spotify.com/track/5NFHQLN5tdjkTdUBkNGDEo) | [Susto](https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt) | [Get Down](https://open.spotify.com/album/4li8nEW2egUoMBzWkKbHHQ) | 2:31 |
+| 49 | [The Balcony](https://open.spotify.com/track/27GaPhdSkbvrfPTKZk2C6V) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [The Pet Parade](https://open.spotify.com/album/4fyZyhtsOevsFYLbLitaHZ) | 4:08 |
+| 50 | [Lose My Mind](https://open.spotify.com/track/7djjzziCovlTf0yXGIArWS) | [The Wild Reeds](https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH) | [Cheers](https://open.spotify.com/album/449AwHLbBwEzRvAqIQr5mB) | 3:48 |
+| 51 | [The Ripple](https://open.spotify.com/track/6EfxByCmL6EYCtnLIKCOy6) | [Grizfolk](https://open.spotify.com/artist/6Xa4nbrSTfbioA4lLShbjh) | [Grizfolk](https://open.spotify.com/album/0AfobQJbuAN9JgfcTvF20R) | 3:24 |
 | 52 | [Good Woman](https://open.spotify.com/track/6hZ3wAZGh5yQcZMxDXnTL3) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/6b3CgvhvJFT6asCeHiOF3M) | 3:17 |
 | 53 | [Born To Die](https://open.spotify.com/track/54F7uOTyfsusa19TjEcHW9) | [JJ Wilde](https://open.spotify.com/artist/1pLZeUSXJwVVJSPhmBSwf6), [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [Born To Die](https://open.spotify.com/album/4P19H9TULgF2zUxNGPkBoK) | 2:52 |
 | 54 | [Let Go](https://open.spotify.com/track/3qV8W6cytQG53azQ5FnSE4) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Let Go](https://open.spotify.com/album/5NRQoXu68ypYS1QUyZc1Yx) | 4:42 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 | 94 | [Evergreen](https://open.spotify.com/track/0rDOZAwa5hpOIFvej2yBIU) | [Bendigo Fletcher](https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM) | [Evergreen](https://open.spotify.com/album/00MHXpbaXylI2b4eQ5b5SB) | 4:40 |
 | 95 | [Statues in the Garden \(Arras\)](https://open.spotify.com/track/14BcEAdv3OkOXYjGIk7jTZ) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Statues in the Garden \(Arras\)](https://open.spotify.com/album/4Cf7oXjw0tqlDEdAqqOlLM) | 3:56 |
 | 96 | [In My Room](https://open.spotify.com/track/5E8QUJdklLph2tK9qb4vDx) | [Shovels & Rope](https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Busted Jukebox Volume 3](https://open.spotify.com/album/7285ENYt9kasAtvUsTcC3s) | 2:45 |
-| 97 | [Old Sob Story](https://open.spotify.com/track/7Akh76oQE1crm0aIz9B7IK) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [Old Sob Story](https://open.spotify.com/album/3fnFtGjNgtLYd0CSnYp3Z9) | 3:16 |
-| 98 | [Complex](https://open.spotify.com/track/61H97kuKIpi6kJQRnUEIlh) | [Tristen](https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo) | [Aquatic Flowers](https://open.spotify.com/album/47NZrIYd31OR7PJQioOkWV) | 3:48 |
+| 97 | [Complex](https://open.spotify.com/track/61H97kuKIpi6kJQRnUEIlh) | [Tristen](https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo) | [Aquatic Flowers](https://open.spotify.com/album/47NZrIYd31OR7PJQioOkWV) | 3:48 |
+| 98 | [Old Sob Story](https://open.spotify.com/track/7Akh76oQE1crm0aIz9B7IK) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [Old Sob Story](https://open.spotify.com/album/3fnFtGjNgtLYd0CSnYp3Z9) | 3:16 |
 | 99 | [Oh Dear Brother](https://open.spotify.com/track/27TIWKzBDkahxcjKUmthdw) | [Howard](https://open.spotify.com/artist/7kfaJkEGQmDhceMYvn9Ax5) | [Oh Dear Brother](https://open.spotify.com/album/3Pue2ojjST8Vq2m8y2EppZ) | 3:58 |
 | 100 | [Elastic Heart](https://open.spotify.com/track/2EqFvg1GaWik5nwCmnZVN1) | [Longfellow](https://open.spotify.com/artist/6sn1KjI14lIWWSd3IJm5bU) | [Elastic Heart](https://open.spotify.com/album/1Y50NzwC91YDY4fqTv3gpC) | 4:17 |
 
-Snapshot ID: `MTY0NjM3MDAwMCwwMDAwMDAwMDc0NjExZTQ4ZmZmYzg2MzdjOTRjMTM4MGZkOWY3NzNm`
+Snapshot ID: `MTY0NjM3MDAwMCwwMDAwMDAwMGVkOWFjM2Y5NDA5OGUyZTVkNjhiZTIyYmRmODYzNzk5`

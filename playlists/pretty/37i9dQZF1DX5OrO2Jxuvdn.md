@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OrO2Jxuvdn.md) - [plain]
 
 > Sweat it out with your favorite country workout songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,829 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,911 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OrO2Jxuvdn.md) - [plain]
 | 67 | [Road Less Traveled](https://open.spotify.com/track/4nxgA1nvXvTkmsBY0vJV57) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Road Less Traveled](https://open.spotify.com/album/296hswDnxvymjboFBxvmI5) | 3:36 |
 | 68 | [The Fighter](https://open.spotify.com/track/5OUSPcqhYTOzpbXzoEvKim) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Ripcord](https://open.spotify.com/album/1IbfOjLqUSkhtXLpX31WZq) | 3:04 |
 | 69 | [If You're Going Through Hell \(Before The Devil Even Knows\)](https://open.spotify.com/track/7vSn3VNbzOtPebdj6ZSebj) | [Rodney Atkins](https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2) | [If You're Going Through Hell](https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ) | 3:36 |
-| 70 | [Cowboy Casanova](https://open.spotify.com/track/6OqdF0vHI9xkqswI7EK0cD) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Play On](https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u) | 3:56 |
-| 71 | [When She Says Baby](https://open.spotify.com/track/3gVRILe7XCyNakb6sy5umX) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Night Train](https://open.spotify.com/album/2uXHwdc2aTcUP2EhXKhPRu) | 2:51 |
+| 70 | [When She Says Baby](https://open.spotify.com/track/3gVRILe7XCyNakb6sy5umX) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Night Train](https://open.spotify.com/album/2uXHwdc2aTcUP2EhXKhPRu) | 2:51 |
+| 71 | [Cowboy Casanova](https://open.spotify.com/track/6OqdF0vHI9xkqswI7EK0cD) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Play On](https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u) | 3:56 |
 | 72 | [80s Mercedes](https://open.spotify.com/track/58spuRyMUsjKHQHEGwLC99) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [HERO \(Deluxe Edition\)](https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK) | 3:31 |
 | 73 | [Back Then, Right Now](https://open.spotify.com/track/1AIlY4mVcOY34SNA4CTVbC) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Back Then, Right Now](https://open.spotify.com/album/2u0a18UWbvHn1shNtkNbJD) | 3:02 |
 | 74 | [Flatliner \(feat\. Dierks Bentley\)](https://open.spotify.com/track/0WyFpxYlBCgH1gMXd26OOr) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW), [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [You Should Be Here](https://open.spotify.com/album/7EZEhfO3ULNRHwX2jaiGei) | 2:57 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OrO2Jxuvdn.md) - [plain]
 | 95 | [Last Name](https://open.spotify.com/track/44xWtabQzBHKXxD0UVLSNQ) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Carnival Ride](https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX) | 4:01 |
 | 96 | [Save a Horse \(Ride a Cowboy\)](https://open.spotify.com/track/7ngLY64yLCFIRaybpIYKJz) | [Big & Rich](https://open.spotify.com/artist/0oBEeN6BCxEgMogzThqrPf) | [Greatest Hits](https://open.spotify.com/album/5SvITt1qWQTDbUyA9wDFsK) | 3:20 |
 | 97 | [Girl In A Country Song](https://open.spotify.com/track/1GRiBe0kNCNYpjwCHIyynI) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Start Here](https://open.spotify.com/album/3MpmJPwKgMQ6hkGVlRwOpj) | 3:37 |
-| 98 | [You Look Good](https://open.spotify.com/track/1dFLowBW25EaL2OC7eKEa2) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Heart Break](https://open.spotify.com/album/4WZZDzGqjvw4bRwrp56U24) | 3:01 |
-| 99 | [Hell Of A Night](https://open.spotify.com/track/4x7Di9FZJXJoxHjLxjImmp) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Where It's At](https://open.spotify.com/album/4ZSQEnZOGWEW3XQOAzt477) | 3:10 |
+| 98 | [Hell Of A Night](https://open.spotify.com/track/4x7Di9FZJXJoxHjLxjImmp) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Where It's At](https://open.spotify.com/album/4ZSQEnZOGWEW3XQOAzt477) | 3:10 |
+| 99 | [You Look Good](https://open.spotify.com/track/1dFLowBW25EaL2OC7eKEa2) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Heart Break](https://open.spotify.com/album/4WZZDzGqjvw4bRwrp56U24) | 3:01 |
 | 100 | [You Look Good In My Shirt](https://open.spotify.com/track/4O4hiA7KxHhzv3s0QIHDlz) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Golden Road](https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7) | 3:47 |
 
-Snapshot ID: `MTY0MDE5NTE4OSwwMDAwMDAwMDhhOTU4Y2QzM2RhOTg5MWNkMjc2YzEzNTdmMGNiOTMy`
+Snapshot ID: `MTY0MDE5NTE4OSwwMDAwMDAwMDkzZDUwOTMxOWI1ZjI5YTMxMTBiNWMxYjQwNDJmNzYz`

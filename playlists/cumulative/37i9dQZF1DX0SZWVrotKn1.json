@@ -881,7 +881,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 107572,
       "name": "No Es Culpa M\u00eda",
       "url": "https://open.spotify.com/track/4YAcCjGlRfpcFLyxiI54K7"
@@ -899,9 +899,9 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-15",
+      "date_removed": null,
       "duration_ms": 107572,
-      "name": "No Es Culpa M\u00eda - Bonus Track",
+      "name": "No Es Culpa M\u00eda (Bonus Track) (Bonus Track)",
       "url": "https://open.spotify.com/track/0937oNIIoi0sDwjJ6z0Wnz"
     },
     {
@@ -1220,6 +1220,32 @@
     },
     {
       "album": {
+        "name": "Reggaeton & Urban Classics",
+        "url": "https://open.spotify.com/album/3m0ng1A75bfRqlQD6fjeT9"
+      },
+      "artists": [
+        {
+          "name": "Tony Dize",
+          "url": "https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW"
+        },
+        {
+          "name": "Ken-Y",
+          "url": "https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ"
+        },
+        {
+          "name": "Marioso",
+          "url": "https://open.spotify.com/artist/3vK6vMiSDE0xwZXm1Z2bRz"
+        }
+      ],
+      "date_added": "2022-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240200,
+      "name": "Quizas - Remix",
+      "url": "https://open.spotify.com/track/1XzaRqSUawqiutMdA5RRNZ"
+    },
+    {
+      "album": {
         "name": "Los cl\u00e1sicos de sal\u00f3n comunal",
         "url": "https://open.spotify.com/album/4UHJUOLJNaaip7Kjj1DGxY"
       },
@@ -1265,7 +1291,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 240200,
       "name": "Quizas - Remix",
       "url": "https://open.spotify.com/track/4YFoQUkj0XXJgTiHp8d61y"

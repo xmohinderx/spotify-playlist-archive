@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover:  Israel & New Breed",
+  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover:  Zacardi Cortez",
   "name": "Fresh Gospel",
   "published_playlist_ids": [
     "6tbQcvssGqLrTKMvWwo62Y"
@@ -272,6 +272,28 @@
     },
     {
       "album": {
+        "name": "Imprint (Live in Memphis)",
+        "url": "https://open.spotify.com/album/2J5NM9D4nvG4qyqVxRyuGk"
+      },
+      "artists": [
+        {
+          "name": "Zacardi Cortez",
+          "url": "https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp"
+        },
+        {
+          "name": "Pastor Kim Burrell",
+          "url": "https://open.spotify.com/artist/68czRHT7ESRhXEWjOlTnQ7"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 503126,
+      "name": "Anyway - Live",
+      "url": "https://open.spotify.com/track/3klr7dov2vjJyjbakp7iDc"
+    },
+    {
+      "album": {
         "name": "Back To Love (Live)",
         "url": "https://open.spotify.com/album/154Y0bbRNmM9Gpgo62ffnf"
       },
@@ -353,6 +375,32 @@
       "duration_ms": 381323,
       "name": "Best Days - Live",
       "url": "https://open.spotify.com/track/2XEHQi8lPcqxYpsANPmQUj"
+    },
+    {
+      "album": {
+        "name": "Bigger (feat. Travis Greene & Donishisa Ballard)",
+        "url": "https://open.spotify.com/album/21L9nVPupSXq9c2ju4SdNf"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        },
+        {
+          "name": "Donishisa Ballard",
+          "url": "https://open.spotify.com/artist/1DvT4SMxc9Myoo6sBTGzOq"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 502359,
+      "name": "Bigger (feat. Travis Greene & Donishisa Ballard)",
+      "url": "https://open.spotify.com/track/60J6sh0s2jibaDOxDnK01Y"
     },
     {
       "album": {
@@ -1835,6 +1883,28 @@
       "duration_ms": 300422,
       "name": "Jesus",
       "url": "https://open.spotify.com/track/5j5gClRuI3NAh8SRcrtYZv"
+    },
+    {
+      "album": {
+        "name": "Jesus Lover Of My Soul (Live)",
+        "url": "https://open.spotify.com/album/2nIy4tVIY02SlqsmpjtVp0"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        },
+        {
+          "name": "The Walls Group",
+          "url": "https://open.spotify.com/artist/3UZQmKr3fkPDCdIRtdX1RV"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 539136,
+      "name": "Jesus Lover Of My Soul - Live",
+      "url": "https://open.spotify.com/track/5ndRS9n7ojy6IoAQZ9R5n7"
     },
     {
       "album": {
@@ -3375,7 +3445,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 710916,
       "name": "Thankful",
       "url": "https://open.spotify.com/track/2FwCB8L7sokQegvJC7VC0j"
@@ -3489,7 +3559,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 441386,
       "name": "The Moment - Live",
       "url": "https://open.spotify.com/track/4ZpWNJauplyo3AnV8LlJdw"
@@ -3649,7 +3719,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 334681,
       "name": "Victory, No Defeat",
       "url": "https://open.spotify.com/track/7xzuUKuFt40bl1gpCGdgHZ"

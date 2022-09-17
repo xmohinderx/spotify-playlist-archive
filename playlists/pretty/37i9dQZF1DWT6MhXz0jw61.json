@@ -1,28 +1,32 @@
 {
   "description": "Chillout hip-hop vibes. Cover: Larry June",
-  "num_followers": 1117526,
+  "num_followers": 1117785,
   "original_name": "Mellow Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5NjAwMCwwMDAwMDAwMDgzMmUyZDBjMmYyMWI4MzJjMjk2OWYxNDc0MGQyMTZi",
+  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMDYyNjE0NmQ1NzJmM2VmY2QwMGI2NmM2ZjgwNjAyMzAw",
   "tracks": [
     {
-      "added_at": "2022-09-09 04:00:00",
+      "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Detroit",
-        "url": "https://open.spotify.com/album/4XXX0W3F9QNxtkofgUbxaj"
+        "name": "Never Change (feat. Roddy Ricch)",
+        "url": "https://open.spotify.com/album/04owA5C5mh4CyXzpHgFchJ"
       },
       "artists": [
         {
-          "name": "Big Sean",
-          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+          "name": "Symba",
+          "url": "https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
         }
       ],
-      "duration_ms": 156843,
-      "name": "More Thoughts (2019)",
-      "url": "https://open.spotify.com/track/5NFEYDjRq8kmPVQiUdixBp"
+      "duration_ms": 239073,
+      "name": "Never Change (feat. Roddy Ricch)",
+      "url": "https://open.spotify.com/track/5LMk48NX7yjNfN30PP4OQ6"
     },
     {
       "added_at": "2022-09-02 04:00:00",
@@ -101,78 +105,6 @@
       "url": "https://open.spotify.com/track/2sOj9vyd6yiss9W1IK6chU"
     },
     {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "YAMI YUGI MOTO",
-        "url": "https://open.spotify.com/album/6ElRJqOiiUC2UgaSjzaKz3"
-      },
-      "artists": [
-        {
-          "name": "Khary",
-          "url": "https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ"
-        }
-      ],
-      "duration_ms": 117600,
-      "name": "YAMI YUGI MOTO",
-      "url": "https://open.spotify.com/track/1ASAX1Yk2LGl2Jt1GNS4ft"
-    },
-    {
-      "added_at": "2022-09-02 04:00:00",
-      "album": {
-        "name": "Looking for Water (feat. Boldy James)",
-        "url": "https://open.spotify.com/album/3xeIVO8AdEG1Xhga373Xi6"
-      },
-      "artists": [
-        {
-          "name": "Pink Siifu",
-          "url": "https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh"
-        },
-        {
-          "name": "Real Bad Man",
-          "url": "https://open.spotify.com/artist/1AmknJ29fbA6ahZXxFCNLE"
-        },
-        {
-          "name": "Boldy James",
-          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
-        }
-      ],
-      "duration_ms": 163850,
-      "name": "Looking for Water (feat. Boldy James)",
-      "url": "https://open.spotify.com/track/3d7ElSqY4RDoqSWe5rJCAc"
-    },
-    {
-      "added_at": "2022-09-02 04:00:00",
-      "album": {
-        "name": "Flying High",
-        "url": "https://open.spotify.com/album/76BINBQvavXWT13Hax9eXF"
-      },
-      "artists": [
-        {
-          "name": "LMD",
-          "url": "https://open.spotify.com/artist/4D5BJQmdXcLgnHcq1ImHn9"
-        },
-        {
-          "name": "Madlib",
-          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
-        },
-        {
-          "name": "MED",
-          "url": "https://open.spotify.com/artist/36zSkwftotDHslP3KUQpew"
-        },
-        {
-          "name": "Fly Anakin",
-          "url": "https://open.spotify.com/artist/5WybyjV2fRyRQcJrmmiifF"
-        },
-        {
-          "name": "J Rocc",
-          "url": "https://open.spotify.com/artist/76Bkn226zbX3IMiEiLC2h2"
-        }
-      ],
-      "duration_ms": 225303,
-      "name": "Kool",
-      "url": "https://open.spotify.com/track/5YkeyUlwClpOR8297j0uK8"
-    },
-    {
       "added_at": "2022-08-15 22:02:32",
       "album": {
         "name": "Cheat Codes",
@@ -207,18 +139,34 @@
     {
       "added_at": "2022-09-02 04:00:00",
       "album": {
-        "name": "Find Hope",
-        "url": "https://open.spotify.com/album/7ryWT82hHjprBUjvQNFbMt"
+        "name": "Flying High",
+        "url": "https://open.spotify.com/album/76BINBQvavXWT13Hax9eXF"
       },
       "artists": [
         {
-          "name": "Phora",
-          "url": "https://open.spotify.com/artist/5XDJlfdfbGNJrOJJNxTcdq"
+          "name": "LMD",
+          "url": "https://open.spotify.com/artist/4D5BJQmdXcLgnHcq1ImHn9"
+        },
+        {
+          "name": "Madlib",
+          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
+        },
+        {
+          "name": "MED",
+          "url": "https://open.spotify.com/artist/36zSkwftotDHslP3KUQpew"
+        },
+        {
+          "name": "Fly Anakin",
+          "url": "https://open.spotify.com/artist/5WybyjV2fRyRQcJrmmiifF"
+        },
+        {
+          "name": "J Rocc",
+          "url": "https://open.spotify.com/artist/76Bkn226zbX3IMiEiLC2h2"
         }
       ],
-      "duration_ms": 208962,
-      "name": "Find Hope",
-      "url": "https://open.spotify.com/track/4qZmVQw7vABIHChMfaUeZ6"
+      "duration_ms": 225303,
+      "name": "Kool",
+      "url": "https://open.spotify.com/track/5YkeyUlwClpOR8297j0uK8"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -235,6 +183,86 @@
       "duration_ms": 193619,
       "name": "Alone Time",
       "url": "https://open.spotify.com/track/0knsgVVnCGgbzvk43iv6j9"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Baking Soda",
+        "url": "https://open.spotify.com/album/6CnnMDogxrn5NfOJWzGFI9"
+      },
+      "artists": [
+        {
+          "name": "MAVI",
+          "url": "https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ"
+        }
+      ],
+      "duration_ms": 190103,
+      "name": "Baking Soda",
+      "url": "https://open.spotify.com/track/2oGM0DK6IVPBlByWalmMFI"
+    },
+    {
+      "added_at": "2022-08-19 04:01:32",
+      "album": {
+        "name": "Spaceships on the Blade",
+        "url": "https://open.spotify.com/album/2aydhloXt99nJk9Nsu5AV4"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Don't Check Me",
+      "url": "https://open.spotify.com/track/3rG6VPI8QPN64ER0QOUqUL"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "YAMI YUGI MOTO",
+        "url": "https://open.spotify.com/album/6ElRJqOiiUC2UgaSjzaKz3"
+      },
+      "artists": [
+        {
+          "name": "Khary",
+          "url": "https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ"
+        }
+      ],
+      "duration_ms": 117600,
+      "name": "YAMI YUGI MOTO",
+      "url": "https://open.spotify.com/track/1ASAX1Yk2LGl2Jt1GNS4ft"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Detroit",
+        "url": "https://open.spotify.com/album/4XXX0W3F9QNxtkofgUbxaj"
+      },
+      "artists": [
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        }
+      ],
+      "duration_ms": 156843,
+      "name": "More Thoughts (2019)",
+      "url": "https://open.spotify.com/track/5NFEYDjRq8kmPVQiUdixBp"
+    },
+    {
+      "added_at": "2022-09-02 04:00:00",
+      "album": {
+        "name": "Find Hope",
+        "url": "https://open.spotify.com/album/7ryWT82hHjprBUjvQNFbMt"
+      },
+      "artists": [
+        {
+          "name": "Phora",
+          "url": "https://open.spotify.com/artist/5XDJlfdfbGNJrOJJNxTcdq"
+        }
+      ],
+      "duration_ms": 208962,
+      "name": "Find Hope",
+      "url": "https://open.spotify.com/track/4qZmVQw7vABIHChMfaUeZ6"
     },
     {
       "added_at": "2022-09-02 04:00:00",
@@ -281,22 +309,6 @@
       "url": "https://open.spotify.com/track/17PBGFi8cRuahLFErgN0Cj"
     },
     {
-      "added_at": "2022-08-19 04:01:32",
-      "album": {
-        "name": "Spaceships on the Blade",
-        "url": "https://open.spotify.com/album/2aydhloXt99nJk9Nsu5AV4"
-      },
-      "artists": [
-        {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Don't Check Me",
-      "url": "https://open.spotify.com/track/3rG6VPI8QPN64ER0QOUqUL"
-    },
-    {
       "added_at": "2022-09-02 04:00:00",
       "album": {
         "name": "cracked screen",
@@ -315,6 +327,46 @@
       "duration_ms": 212282,
       "name": "cracked screen",
       "url": "https://open.spotify.com/track/74iw3OCAb3it0SjOVw4Dnq"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Racketeer Influenced and Corrupt Organizations",
+        "url": "https://open.spotify.com/album/3vTnjUeipikb2PXuRQAS90"
+      },
+      "artists": [
+        {
+          "name": "Sy Ari Da Kid",
+          "url": "https://open.spotify.com/artist/5ZI5pbnKxA6Qy1fVNsjCp0"
+        }
+      ],
+      "duration_ms": 258032,
+      "name": "Racketeering Influenced and Corrupt Organizations",
+      "url": "https://open.spotify.com/track/5iFmwkyfWOcsStwdQBRY61"
+    },
+    {
+      "added_at": "2022-09-02 04:00:00",
+      "album": {
+        "name": "Looking for Water (feat. Boldy James)",
+        "url": "https://open.spotify.com/album/3xeIVO8AdEG1Xhga373Xi6"
+      },
+      "artists": [
+        {
+          "name": "Pink Siifu",
+          "url": "https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh"
+        },
+        {
+          "name": "Real Bad Man",
+          "url": "https://open.spotify.com/artist/1AmknJ29fbA6ahZXxFCNLE"
+        },
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        }
+      ],
+      "duration_ms": 163850,
+      "name": "Looking for Water (feat. Boldy James)",
+      "url": "https://open.spotify.com/track/3d7ElSqY4RDoqSWe5rJCAc"
     },
     {
       "added_at": "2022-08-26 04:00:00",
@@ -403,6 +455,26 @@
       "duration_ms": 252934,
       "name": "Pour the Wine (feat. Peso Gordon & Chuck Strangers)",
       "url": "https://open.spotify.com/track/46tM4XygxfD3CdtFCCJMrX"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Results Take Time",
+        "url": "https://open.spotify.com/album/4pbph4ZWAanvsHlqztlFU9"
+      },
+      "artists": [
+        {
+          "name": "Symba",
+          "url": "https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay"
+        },
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        }
+      ],
+      "duration_ms": 247661,
+      "name": "Sacrifices (feat. Fridayy)",
+      "url": "https://open.spotify.com/track/3jSGgwZMCfdEOOIxP8JkC2"
     },
     {
       "added_at": "2022-09-02 04:00:00",
@@ -1629,22 +1701,6 @@
       "url": "https://open.spotify.com/track/3SSYNtpoHkaGs4TYux2KGH"
     },
     {
-      "added_at": "2022-01-28 20:30:35",
-      "album": {
-        "name": "Walkin",
-        "url": "https://open.spotify.com/album/71o4vJ8Jvn43iSqidJGDhO"
-      },
-      "artists": [
-        {
-          "name": "Denzel Curry",
-          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
-        }
-      ],
-      "duration_ms": 280004,
-      "name": "Walkin",
-      "url": "https://open.spotify.com/track/646sbFnyVg1trhqqxqFUJg"
-    },
-    {
       "added_at": "2022-03-11 05:00:00",
       "album": {
         "name": "Heaven's Sky (feat. Rae Khalil)",
@@ -1697,22 +1753,6 @@
       "url": "https://open.spotify.com/track/1EX11t2KcrBqQmi5v3AyuG"
     },
     {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
-        "name": "SICK!",
-        "url": "https://open.spotify.com/album/51heTwkSfb4Z5dRIgwU2bd"
-      },
-      "artists": [
-        {
-          "name": "Earl Sweatshirt",
-          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
-        }
-      ],
-      "duration_ms": 112787,
-      "name": "Lye",
-      "url": "https://open.spotify.com/track/0uSVWoWfql3wPIMlJqBbOS"
-    },
-    {
       "added_at": "2022-04-15 04:01:00",
       "album": {
         "name": "Ups & Downs",
@@ -1747,22 +1787,6 @@
       "duration_ms": 212800,
       "name": "Ballin in Newport (with Omen)",
       "url": "https://open.spotify.com/track/1KsHmftDAysEtLpDK1o6Y9"
-    },
-    {
-      "added_at": "2022-01-21 05:00:00",
-      "album": {
-        "name": "When I'm Gone",
-        "url": "https://open.spotify.com/album/5K3nW7r2TR5BE0ws6Xpats"
-      },
-      "artists": [
-        {
-          "name": "Jesse Boone",
-          "url": "https://open.spotify.com/artist/6aQVqPrSgYTlUKGI5lD5NO"
-        }
-      ],
-      "duration_ms": 138857,
-      "name": "When I'm Gone",
-      "url": "https://open.spotify.com/track/3M2gIudnbke08mHonTJE4h"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -1855,22 +1879,6 @@
       "duration_ms": 231801,
       "name": "Late Nights (feat. Jim Jones)",
       "url": "https://open.spotify.com/track/40i123eK1z1saRvFPPX8YV"
-    },
-    {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
-        "name": "From a Birds Eye View",
-        "url": "https://open.spotify.com/album/3N3alcn9EvmanafUt70Vxh"
-      },
-      "artists": [
-        {
-          "name": "Cordae",
-          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
-        }
-      ],
-      "duration_ms": 193168,
-      "name": "C Carter",
-      "url": "https://open.spotify.com/track/37kW9eEI0EJFM0ip2mf1Wy"
     },
     {
       "added_at": "2022-02-18 05:01:00",

@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 403760,
       "name": "'Round Midnight - Live At Palais Des Congres, Paris / 1999",
       "url": "https://open.spotify.com/track/55dXdlQMp4kxbN3z50CYJq"
@@ -582,6 +582,24 @@
     },
     {
       "album": {
+        "name": "Soular Energy",
+        "url": "https://open.spotify.com/album/35X3ykw0Ysj1Epv9Vx8uo8"
+      },
+      "artists": [
+        {
+          "name": "Ray Brown Trio",
+          "url": "https://open.spotify.com/artist/3kcjzDWaSVR3VqgEIBZIdo"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344213,
+      "name": "Cry Me A River",
+      "url": "https://open.spotify.com/track/4z5tPOBoKRIgCRVJMPPnoH"
+    },
+    {
+      "album": {
         "name": "Progression: The Art of the Trio, Vol. 5",
         "url": "https://open.spotify.com/album/6b6b4JqCmmzwD4enWK8lf0"
       },
@@ -895,7 +913,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 265400,
       "name": "Every Time We Say Goodbye",
       "url": "https://open.spotify.com/track/1wiuECsyvTaiaHxdnuXzm9"
@@ -1980,6 +1998,24 @@
     },
     {
       "album": {
+        "name": "Ballads (Deluxe Edition - Rudy Van Gelder Remaster)",
+        "url": "https://open.spotify.com/album/0Ydakb7npXmyTwFLvKc5qt"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane Quartet",
+          "url": "https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165560,
+      "name": "It's Easy To Remember",
+      "url": "https://open.spotify.com/track/1lZ41PumDFX0e82XTGx4sE"
+    },
+    {
+      "album": {
         "name": "Tribute",
         "url": "https://open.spotify.com/album/2AUplxqaiqTaDpY9QsCgPx"
       },
@@ -2285,9 +2321,31 @@
           "url": "https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin"
         }
       ],
-      "date_added": "2022-09-13",
+      "date_added": "2022-09-16",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 618733,
+      "name": "My Old Flame",
+      "url": "https://open.spotify.com/track/5yZSSjUOsrp36P5uKdvuj8"
+    },
+    {
+      "album": {
+        "name": "Last Dance",
+        "url": "https://open.spotify.com/album/6SeF9urdp6Cw8aL11XwVEa"
+      },
+      "artists": [
+        {
+          "name": "Keith Jarrett",
+          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+        },
+        {
+          "name": "Charlie Haden",
+          "url": "https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-17",
       "duration_ms": 576560,
       "name": "My Ship",
       "url": "https://open.spotify.com/track/7gapLLf7TnXBg6NnT3kH8e"

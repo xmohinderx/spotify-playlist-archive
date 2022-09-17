@@ -6866,6 +6866,24 @@
     },
     {
       "album": {
+        "name": "I Feel Fantastic",
+        "url": "https://open.spotify.com/album/7EK9acXyOaMuemZA2rRqqz"
+      },
+      "artists": [
+        {
+          "name": "Riovaz",
+          "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146938,
+      "name": "I Feel Fantastic",
+      "url": "https://open.spotify.com/track/2CMq2UImv0YssAzKb95YBH"
+    },
+    {
+      "album": {
         "name": "I FEEL LIKE DANCING",
         "url": "https://open.spotify.com/album/0qoQyU6bl0V7EeRaSscyZi"
       },
@@ -8505,6 +8523,24 @@
       "duration_ms": 163854,
       "name": "Like This",
       "url": "https://open.spotify.com/track/1vV4T6tvTn4FIrwdvom3rf"
+    },
+    {
+      "album": {
+        "name": "Like Wooh Wooh",
+        "url": "https://open.spotify.com/album/2tPlR2MrouxMfxuumYUzIb"
+      },
+      "artists": [
+        {
+          "name": "Rnbstylerz",
+          "url": "https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196044,
+      "name": "Like Wooh Wooh",
+      "url": "https://open.spotify.com/track/2DjZ7Ytv2UDKXSoQXTXPkN"
     },
     {
       "album": {
@@ -10801,7 +10837,7 @@
       ],
       "date_added": "2021-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 151312,
       "name": "Okay",
       "url": "https://open.spotify.com/track/71H8k9qe7DersxR6KyhUnI"
@@ -12735,6 +12771,32 @@
       "duration_ms": 338417,
       "name": "Runnin'",
       "url": "https://open.spotify.com/track/4b6mADxnmXq2bbhJJQx8Ac"
+    },
+    {
+      "album": {
+        "name": "Sad Girls (feat. Rema)",
+        "url": "https://open.spotify.com/album/0NZbQYjlvpJpiCVOGgXQXH"
+      },
+      "artists": [
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "name": "French The Kid",
+          "url": "https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163472,
+      "name": "Sad Girls (feat. Rema)",
+      "url": "https://open.spotify.com/track/2lN5P2zk7ZHpxCutNHSndT"
     },
     {
       "album": {
@@ -15793,7 +15855,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 170022,
       "name": "Weekend",
       "url": "https://open.spotify.com/track/6G3t9WroSJiK5S66umOfIA"
@@ -16477,7 +16539,7 @@
       ],
       "date_added": "2021-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 157160,
       "name": "You - Topic Remix",
       "url": "https://open.spotify.com/track/5bbtc9t6FcerXp732H2XNu"

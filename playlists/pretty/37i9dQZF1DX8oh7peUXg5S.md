@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 
 > El don de cantar y componer, una playlist llena de talento\. Foto: Joan Manuel Serrat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,003 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,098 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,12 +59,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 | 49 | [Soñar Contigo](https://open.spotify.com/track/5PyDjh950FnFbibipV2RoS) | [Zenet](https://open.spotify.com/artist/2s7td67DdtSXTx2TGzs01i) | [Los Mares De China](https://open.spotify.com/album/6BrFNm0d7rZZCnKYHxm4LA) | 3:06 |
 | 50 | [Fina Estampa](https://open.spotify.com/track/7COfZjseddNFUpZcONru4M) | [Ana Belén](https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t), [Niña Pastori](https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8), [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz), [India Martinez](https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV), [Vanesa Martín](https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN), [Pastora Soler](https://open.spotify.com/artist/6nh96lsvDLuCVpgpfjeYnM), [Beatriz Luengo](https://open.spotify.com/artist/23cijmutocNvhM5xkcyyFF), [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Mujeres de Fina Estampa](https://open.spotify.com/album/5YmzTZ5AVgpJmKLTfSviCF) | 3:07 |
 | 51 | [Qué Bello Es Vivir](https://open.spotify.com/track/2CD5TesE5cPyhWxXxz3qIE) | [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [Lo Mal Que Estoy y Lo Poco Que Me Quejo](https://open.spotify.com/album/7auuEfoSwTUYponi3cKCuG) | 3:58 |
-| 52 | [Sin Tu Latido \- Remasterizado](https://open.spotify.com/track/7jlfZZgaO0xPRdPMP9jezb) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Cuerpo a Cuerpo \(Remasterizado\)](https://open.spotify.com/album/01jUeKcwiAdFp8iLa0HnI4) | 5:02 |
-| 53 | [Contigo](https://open.spotify.com/track/7uoynvwsKMefF60kNjByC6) | [La Otra](https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7) | [Pa'fuera y Pa'dentro](https://open.spotify.com/album/32MUPpQPG9ZkTXRRHXehUr) | 3:20 |
-| 54 | [Gracias a la Vida](https://open.spotify.com/track/5U7MyRNbuZrWkyAI4bm3Ja) | [Violeta Parra](https://open.spotify.com/artist/4ejp2yEDQIIJIy0iFpoI5B) | [Mi Chile Lindo](https://open.spotify.com/album/16KWkUYL6MuyJwzyO5onbl) | 4:38 |
+| 52 | [Gracias a la Vida](https://open.spotify.com/track/5U7MyRNbuZrWkyAI4bm3Ja) | [Violeta Parra](https://open.spotify.com/artist/4ejp2yEDQIIJIy0iFpoI5B) | [Mi Chile Lindo](https://open.spotify.com/album/16KWkUYL6MuyJwzyO5onbl) | 4:38 |
+| 53 | [Sin Tu Latido \- Remasterizado](https://open.spotify.com/track/7jlfZZgaO0xPRdPMP9jezb) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Cuerpo a Cuerpo \(Remasterizado\)](https://open.spotify.com/album/01jUeKcwiAdFp8iLa0HnI4) | 5:02 |
+| 54 | [Contigo](https://open.spotify.com/track/7uoynvwsKMefF60kNjByC6) | [La Otra](https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7) | [Pa'fuera y Pa'dentro](https://open.spotify.com/album/32MUPpQPG9ZkTXRRHXehUr) | 3:20 |
 | 55 | [Unicornio](https://open.spotify.com/track/0lxu1Pmegx2SELobpAXzz4) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Unicornio](https://open.spotify.com/album/26CzBExUPuHvrmXsC4HlBT) | 5:08 |
-| 56 | [No soy de aquí](https://open.spotify.com/track/54vgIR3osHwRywPcBxVrv3) | [Alberto Cortez](https://open.spotify.com/artist/0Iww53p8UY2oYtQhfzsSY9) | [No soy de aquí](https://open.spotify.com/album/07EmD7JlrejszTq3aGWA53) | 4:07 |
-| 57 | [Desde Que Te Perdí](https://open.spotify.com/track/3kfXwiFSsdqyWG5C7PULIZ) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [City Zen](https://open.spotify.com/album/37dsJwV9mJUYSOjeUHif3L) | 3:48 |
+| 56 | [Desde Que Te Perdí](https://open.spotify.com/track/3kfXwiFSsdqyWG5C7PULIZ) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [City Zen](https://open.spotify.com/album/37dsJwV9mJUYSOjeUHif3L) | 3:48 |
+| 57 | [No soy de aquí](https://open.spotify.com/track/54vgIR3osHwRywPcBxVrv3) | [Alberto Cortez](https://open.spotify.com/artist/0Iww53p8UY2oYtQhfzsSY9) | [No soy de aquí](https://open.spotify.com/album/07EmD7JlrejszTq3aGWA53) | 4:07 |
 | 58 | [Solo Otra Vez \- Alone Again](https://open.spotify.com/track/2Oeu9Qz2fRSgtKohOvGgEP) | [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [Último Acto](https://open.spotify.com/album/3ZwIwLuB8YNlhwV2xuGWbt) | 3:26 |
 | 59 | [Yo no soy esa](https://open.spotify.com/track/4wJNcICQAv1ZNj8tkoMJab) | [Mari Trini](https://open.spotify.com/artist/0CVHw8AAgA5brxfblp1lsQ) | [Escúchame](https://open.spotify.com/album/6xFDhmKZHP8nnUewCwcnTu) | 2:32 |
 | 60 | [El Baile](https://open.spotify.com/track/6ABaTYAx9k8d0v9NSZ9uYS) | [Pedro Pastor](https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP), [Los Locos Descalzos](https://open.spotify.com/artist/2EPApWYEyXYCw5YbtADEWS), [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Vulnerables](https://open.spotify.com/album/7sJGGvXAGPGDjqzgzjlDIl) | 3:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 | 99 | [Contigo](https://open.spotify.com/track/5XBY1Hxg0L6Cf3wyjCGftT) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Contigo](https://open.spotify.com/album/0g7NM1WVbqY8nK8mJTbXvQ) | 4:54 |
 | 100 | [Conviene Saber \(feat\. Rozalén\)](https://open.spotify.com/track/0c3pK1QgN3Lv1o1P4GMNPU) | [Marwán](https://open.spotify.com/artist/6mR7YwqzUTv6hnbySnXIEO), [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz) | [Conviene Saber \(feat\. Rozalén\)](https://open.spotify.com/album/3Ip09RVhwrMrf6oIzhZTiU) | 4:10 |
 
-Snapshot ID: `MTY2MjY3NDQ2MCwwMDAwMDAwMDRkZTE5MDZhNTkxYTFhM2Y4MDUxNjZjN2ZhZjYwMjA5`
+Snapshot ID: `MTY2MjY3NDQ2MCwwMDAwMDAwMDljZDBkNDYwYzJlMTE4MTY3YzVlYTlmNWRmNjg2YjI0`

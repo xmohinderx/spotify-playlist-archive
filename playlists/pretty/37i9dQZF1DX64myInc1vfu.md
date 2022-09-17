@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 
 > The new bolero era just for you\. Los boleritos de hoy\. Cover: Yoss Bones
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,005 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,064 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,10 +48,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 | 38 | [Ojos de Serpiente](https://open.spotify.com/track/4SutBECg5t8YqY1hz8SbwX) | [DORA](https://open.spotify.com/artist/5RHjYsmfT5IskZMoU6UuCj) | [Ojos de Serpiente](https://open.spotify.com/album/2aGMr5JwOn5wMRFn4wWSwt) | 2:51 |
 | 39 | [Amor En Cuarentena](https://open.spotify.com/track/2siIxRukc4AFw9rxeE9La8) | [Raquel Sofía](https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4) | [Amor En Cuarentena](https://open.spotify.com/album/0NDsxPkfntANuEyF5NpMHW) | 2:45 |
 | 40 | [Pajaritos](https://open.spotify.com/track/2wrXCzqFhTrUiLx1Xra1zN) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Pajaritos](https://open.spotify.com/album/25sQj4ycXmGdHFu1TNn1r5) | 2:24 |
-| 41 | [Lo Mismo Que Usted](https://open.spotify.com/track/031dcODCuFUQAyQ38PkdlU) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc) | [Lo Mismo Que Usted](https://open.spotify.com/album/68bhYAXXLFt0gp866clvtQ) | 3:09 |
-| 42 | [En las Noches](https://open.spotify.com/track/6rs3m0e1GYVFjLQaUXAiZ6) | [Daniela Escalante](https://open.spotify.com/artist/00YbcwdtRDXKGvdpBsUfkd) | [En las Noches](https://open.spotify.com/album/2CPuqoB1XiRqOmmX6MUa5e) | 3:59 |
-| 43 | [Si Tú Me Quisieras](https://open.spotify.com/track/3XWCZdvN55Rjly1sSxrXqh) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8), [Nia Vanie](https://open.spotify.com/artist/2AAkCTYG2KE8Ocl7JK97wD) | [Si Tú Me Quisieras](https://open.spotify.com/album/5jS82FjoNBNMEmcoILh0uE) | 4:21 |
-| 44 | [Veracruz](https://open.spotify.com/track/6QlEtyGqmX4dXASVeEEEDH) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Un Canto por México, Vol\. 1](https://open.spotify.com/album/6yDcHjoEqNkkl9UC6KSlFE) | 4:03 |
+| 41 | [Veracruz](https://open.spotify.com/track/6QlEtyGqmX4dXASVeEEEDH) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Un Canto por México, Vol\. 1](https://open.spotify.com/album/6yDcHjoEqNkkl9UC6KSlFE) | 4:03 |
+| 42 | [Lo Mismo Que Usted](https://open.spotify.com/track/031dcODCuFUQAyQ38PkdlU) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc) | [Lo Mismo Que Usted](https://open.spotify.com/album/68bhYAXXLFt0gp866clvtQ) | 3:09 |
+| 43 | [En las Noches](https://open.spotify.com/track/6rs3m0e1GYVFjLQaUXAiZ6) | [Daniela Escalante](https://open.spotify.com/artist/00YbcwdtRDXKGvdpBsUfkd) | [En las Noches](https://open.spotify.com/album/2CPuqoB1XiRqOmmX6MUa5e) | 3:59 |
+| 44 | [Si Tú Me Quisieras](https://open.spotify.com/track/3XWCZdvN55Rjly1sSxrXqh) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8), [Nia Vanie](https://open.spotify.com/artist/2AAkCTYG2KE8Ocl7JK97wD) | [Si Tú Me Quisieras](https://open.spotify.com/album/5jS82FjoNBNMEmcoILh0uE) | 4:21 |
 | 45 | [Salvavidas](https://open.spotify.com/track/1ZVvO03ypa1pSC1WHnHPEx) | [Yoly Saa](https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW) | [Salvavidas](https://open.spotify.com/album/6MnxF6Qm6HVXUXtzsrm7MX) | 2:52 |
 | 46 | [Amor de Bolero](https://open.spotify.com/track/3XZEt7mxd5C5Ur05j1dfZr) | [Pedrina](https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1) | [Amor de Bolero](https://open.spotify.com/album/7GQCGDiH41ovnH6yQJYr7G) | 2:24 |
 | 47 | [Como Fue](https://open.spotify.com/track/1FEeJpSdoPfsTZk9AGqOcN) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [Amores Ajenos](https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT) | 2:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 | 49 | [Apasionadamente](https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Apasionadamente](https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks) | 3:00 |
 | 50 | [Tú](https://open.spotify.com/track/6OQWXsydNnIVHfbJrTMNer) | [Elisa](https://open.spotify.com/artist/1Rz2UCxkUlzuT6Kxe47wxc), [Cristobal Sarmiento](https://open.spotify.com/artist/2AIg5VYeWoMaGDuINUQwKC) | [Tú](https://open.spotify.com/album/1O88OBOAtX6c8DUMEkq5HY) | 2:51 |
 
-Snapshot ID: `MTY1OTcxNjcxNSwwMDAwMDAwMDIxNTZmODkwOTgyYjc1Zjg2YzY1MzNiMzEyYmI2OTkw`
+Snapshot ID: `MTY1OTcxNjcxNSwwMDAwMDAwMDUxMjMyYzIyZDdiNzJkMmZkOTA4ZGEyNzFlOTBmNDQ3`

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2I2nyOA0zG.md) - [plain]
 
 > Cool vibes from the African continent.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,619 likes - 70 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,630 likes - 70 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [It's Plenty](https://open.spotify.com/track/5hVjoL3sHepZROri63wBxP) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:36 |
 | 2 | [Blow My Mind](https://open.spotify.com/track/1xJTW86sJ1OoloXeOret6t) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Blow My Mind](https://open.spotify.com/album/31Z5vOXMKPSZjpERQHtaSp) | 3:19 |
-| 3 | [I Like \(feat\. WizKid\)](https://open.spotify.com/track/5s7j77zpP6e9uz2Q1DU851) | [Kojo Funds](https://open.spotify.com/artist/2o9hRZ3xI27UQpHT61A4Mm), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [I Like \(feat\. WizKid\)](https://open.spotify.com/album/7b57oWMZmdG8wjwjtRiKSO) | 3:12 |
+| 3 | [I Like \(feat\. WizKid\)](https://open.spotify.com/track/5s7j77zpP6e9uz2Q1DU851) | [Kojo Funds](https://open.spotify.com/artist/2o9hRZ3xI27UQpHT61A4Mm), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [I Like \(feat\. WizKid\)](https://open.spotify.com/album/7b57oWMZmdG8wjwjtRiKSO) | 3:12 |
 | 4 | [Bank On It](https://open.spotify.com/track/7862flGk6U3tiWs2m2aUzH) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Twice As Tall](https://open.spotify.com/album/4moiYbxseWbPD2moVhOYje) | 4:36 |
 | 5 | [Pana](https://open.spotify.com/track/3ddd0nUY2jZtPYzg0r0wTb) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Pana](https://open.spotify.com/album/62sUZK9tqrSH3AMg4gOSmz) | 4:02 |
 | 6 | [Soweto Blues](https://open.spotify.com/track/6l5WDlZzjAXWEA47969TXI) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Busiswa](https://open.spotify.com/artist/3RThWxnHbyN5Hvkr66eYj7), [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Soweto Blues](https://open.spotify.com/album/2tLxWdcRPF3V05kX1TLb40) | 4:58 |
@@ -72,10 +72,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2I2nyOA0zG.md) - [plain]
 | 62 | [Yes I Do](https://open.spotify.com/track/1ggByUxl4VQJFOaDYWEMf7) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN), [Arabi](https://open.spotify.com/artist/6VrXIP3nJGtGwRL8jcdTyu) | [Made For Love](https://open.spotify.com/album/5QERzxJ3zro4qe4zQ3zbqp) | 3:23 |
 | 63 | [Good Lovin'](https://open.spotify.com/track/4wAedCvD43jQ2jnl9ADEgk) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [Rhita Nattah](https://open.spotify.com/artist/5JLjlEpNZTK5CTJdvpKZVr) | [Anchor Baby](https://open.spotify.com/album/2FA3MmXyGWjL0IhoCdktU1) | 2:39 |
 | 64 | [Amantombazane](https://open.spotify.com/track/1RqcDJwjeSGIODmbiEaEKo) | [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [Samthing Soweto](https://open.spotify.com/artist/6HwxMgE895sejjGFin9Gvm), [Mfr Souls](https://open.spotify.com/artist/6oVuIgUWHJFOGb26gVuGsX) | [Scorpion Kings](https://open.spotify.com/album/2DLpZOdmIA3uvM4EqM67hd) | 5:55 |
-| 65 | [No Stress](https://open.spotify.com/track/5C3vZiMOn2KHMbNQOhL6oQ) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 3:22 |
+| 65 | [No Stress](https://open.spotify.com/track/5C3vZiMOn2KHMbNQOhL6oQ) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 3:22 |
 | 66 | [Miss You Bad](https://open.spotify.com/track/54UrIc5qQRjX128jcvMKIT) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Life is Eazi, Vol\. 2 \- Lagos to London](https://open.spotify.com/album/76ONwEklilRE14yBV1e5td) | 2:56 |
 | 67 | [Ubala \(feat\. Sun\-El Musician\)](https://open.spotify.com/track/0n7R3uOg9iZI3vNm7yHSAf) | [Simmy](https://open.spotify.com/artist/3MjlXVCfmLdY9QQ2GCd7iA), [Sun\-El Musician](https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6) | [Tugela Fairy](https://open.spotify.com/album/3MlcN8FdjM15IID3d9Jxqk) | 4:08 |
-| 68 | [Joro](https://open.spotify.com/track/3Yt1ovsh3v3VEzRuhI1TL5) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Joro](https://open.spotify.com/album/1Mj4mLvCC9P4b167keUsRh) | 4:22 |
+| 68 | [Joro](https://open.spotify.com/track/3Yt1ovsh3v3VEzRuhI1TL5) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Joro](https://open.spotify.com/album/1Mj4mLvCC9P4b167keUsRh) | 4:22 |
 | 69 | [Spend Some Time](https://open.spotify.com/track/0NMfKNtRnvyF9QjlRvnv0I) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Spend Some Time](https://open.spotify.com/album/6vLqNvKJdKPqIvDcwwuvEg) | 2:48 |
 | 70 | [Jealous \(feat\. Fire Boy\)](https://open.spotify.com/track/7Ewd1NIKEKM1VokE0QeraM) | [YBNL MaFia Family](https://open.spotify.com/artist/1MUPBuckdoveSDQgvkm9jC), [Fireboy](https://open.spotify.com/artist/4fCdQD5D2T7BRESZrYaCFu) | [YBNL MaFia Family](https://open.spotify.com/album/5amg42JxXc1hBnRDs0PAmB) | 3:36 |
 

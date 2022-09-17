@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5voeWIyAtr.md) - [plain]
 
 > pongámonos de acuerdo: nos vamos a querer o ahí la vamos a dejar o de nuevo aparentar que aquí no ha pasado nada 💔
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,231 likes - 77 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,322 likes - 77 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

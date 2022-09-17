@@ -1,12 +1,12 @@
 {
   "description": "La playlist id\u00e9ale pour vos f\u00eates cette ann\u00e9e! Photo: Alexandra Streliski",
-  "num_followers": 43265,
+  "num_followers": 43262,
   "original_name": "No\u00ebl, No\u00ebl, No\u00ebl",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzOTcxNzI2MCwwMDAwMDAwMDExOThkZmMzNTllOTY4MTVlZDU0YTU5NjYxZmUzZWM4",
+  "snapshot_id": "MTYzOTcxNzI2MCwwMDAwMDAwMGIzMWY1MmIxNmQyMGJlYTVhNDMyMmVlMmE5ZjJjOGNl",
   "tracks": [
     {
       "added_at": "2021-12-17 05:01:00",
@@ -183,18 +183,18 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Merry Christmas From Brenda Lee",
-        "url": "https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG"
+        "name": "Jingle Bell Rock/Captain Santa Claus (And His Reindeer Space Patrol)",
+        "url": "https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT"
       },
       "artists": [
         {
-          "name": "Brenda Lee",
-          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
+          "name": "Bobby Helms",
+          "url": "https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC"
         }
       ],
-      "duration_ms": 126266,
-      "name": "Rockin' Around The Christmas Tree",
-      "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
+      "duration_ms": 130973,
+      "name": "Jingle Bell Rock",
+      "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -215,18 +215,18 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Jingle Bell Rock/Captain Santa Claus (And His Reindeer Space Patrol)",
-        "url": "https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT"
+        "name": "Merry Christmas From Brenda Lee",
+        "url": "https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG"
       },
       "artists": [
         {
-          "name": "Bobby Helms",
-          "url": "https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC"
+          "name": "Brenda Lee",
+          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
         }
       ],
-      "duration_ms": 130973,
-      "name": "Jingle Bell Rock",
-      "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
+      "duration_ms": 126266,
+      "name": "Rockin' Around The Christmas Tree",
+      "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Wintersong",
-        "url": "https://open.spotify.com/album/66TijPOdbkKqENLhOuDUhJ"
-      },
-      "artists": [
-        {
-          "name": "Sarah McLachlan",
-          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
-        }
-      ],
-      "duration_ms": 242013,
-      "name": "River",
-      "url": "https://open.spotify.com/track/3yLCQ4GRSFlg3GmwlYQlzX"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
         "name": "These are Special Times",
         "url": "https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 204266,
       "name": "Another Year Has Gone By",
       "url": "https://open.spotify.com/track/014An8mZt6hTR6bsN9fo2u"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Wintersong",
+        "url": "https://open.spotify.com/album/66TijPOdbkKqENLhOuDUhJ"
+      },
+      "artists": [
+        {
+          "name": "Sarah McLachlan",
+          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
+        }
+      ],
+      "duration_ms": 242013,
+      "name": "River",
+      "url": "https://open.spotify.com/track/3yLCQ4GRSFlg3GmwlYQlzX"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Santa Baby",
-        "url": "https://open.spotify.com/album/3CreiqJnwLy65rMoLv2bPT"
-      },
-      "artists": [
-        {
-          "name": "La Zarra",
-          "url": "https://open.spotify.com/artist/0NkmvuSD5Pm8zucjwIpChS"
-        }
-      ],
-      "duration_ms": 208806,
-      "name": "Santa Baby",
-      "url": "https://open.spotify.com/track/4rAwprLoQULEVb1UrGx9dW"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
         "name": "Have Yourself a Merry Little Christmas / Bring Me Love",
         "url": "https://open.spotify.com/album/32m4D8KcGLcqAvTVIi90P1"
       },
@@ -1271,6 +1255,38 @@
       "duration_ms": 223240,
       "name": "Have Yourself a Merry Little Christmas (feat. Esperanza Spalding)",
       "url": "https://open.spotify.com/track/67XXGKQrlBLCAg3gmHkamP"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Santa Baby",
+        "url": "https://open.spotify.com/album/3CreiqJnwLy65rMoLv2bPT"
+      },
+      "artists": [
+        {
+          "name": "La Zarra",
+          "url": "https://open.spotify.com/artist/0NkmvuSD5Pm8zucjwIpChS"
+        }
+      ],
+      "duration_ms": 208806,
+      "name": "Santa Baby",
+      "url": "https://open.spotify.com/track/4rAwprLoQULEVb1UrGx9dW"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "These are Special Times",
+        "url": "https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 212240,
+      "name": "Brahms' Lullaby",
+      "url": "https://open.spotify.com/track/45WmAAkZYLAwXtwwHVoaWv"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -1355,22 +1371,6 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "These are Special Times",
-        "url": "https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 212240,
-      "name": "Brahms' Lullaby",
-      "url": "https://open.spotify.com/track/45WmAAkZYLAwXtwwHVoaWv"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
         "name": "My Kind Of Christmas",
         "url": "https://open.spotify.com/album/0EmIJRj74RImuDbGJh4iOu"
       },
@@ -1383,6 +1383,22 @@
       "duration_ms": 264960,
       "name": "The Christmas Song",
       "url": "https://open.spotify.com/track/2BNV1D5X4ioefyOE0uDFOL"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "These are Special Times",
+        "url": "https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 199760,
+      "name": "I Met an Angel (on Christmas Day)",
+      "url": "https://open.spotify.com/track/6PiOlFSX06npr0YXexWkrg"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -1455,38 +1471,6 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "A Very Special Christmas 3",
-        "url": "https://open.spotify.com/album/1Esu95dAPjDnjQi9KrlQ45"
-      },
-      "artists": [
-        {
-          "name": "Tracy Chapman",
-          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
-        }
-      ],
-      "duration_ms": 268800,
-      "name": "O Holy Night",
-      "url": "https://open.spotify.com/track/2Ykid5zsdq57bc9km6fDub"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "These are Special Times",
-        "url": "https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 199760,
-      "name": "I Met an Angel (on Christmas Day)",
-      "url": "https://open.spotify.com/track/6PiOlFSX06npr0YXexWkrg"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
         "name": "No\u00ebl",
         "url": "https://open.spotify.com/album/4kqXw1yf9EKamws0zCarGt"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 244466,
       "name": "Petit Papa No\u00ebl",
       "url": "https://open.spotify.com/track/0w2OW2wHawQ08AYBaHlxgL"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "A Very Special Christmas 3",
+        "url": "https://open.spotify.com/album/1Esu95dAPjDnjQi9KrlQ45"
+      },
+      "artists": [
+        {
+          "name": "Tracy Chapman",
+          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
+        }
+      ],
+      "duration_ms": 268800,
+      "name": "O Holy Night",
+      "url": "https://open.spotify.com/track/2Ykid5zsdq57bc9km6fDub"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Robert Charlebois",
-        "url": "https://open.spotify.com/album/72BjupmR4TFq32qnJp3Pct"
-      },
-      "artists": [
-        {
-          "name": "Robert Charlebois",
-          "url": "https://open.spotify.com/artist/1862NkVrufCFJZkZJMfftO"
-        }
-      ],
-      "duration_ms": 149133,
-      "name": "Marie-No\u00ebl",
-      "url": "https://open.spotify.com/track/7416vFT1GFAiB5SCfwreB8"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
         "name": "Joyeux No\u00ebl",
         "url": "https://open.spotify.com/album/3rXFr1d41AbHmCAl59aPwT"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 138560,
       "name": "Vive le vent",
       "url": "https://open.spotify.com/track/4V9Af9RIbI5V9KjiiFtWqx"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Robert Charlebois",
+        "url": "https://open.spotify.com/album/72BjupmR4TFq32qnJp3Pct"
+      },
+      "artists": [
+        {
+          "name": "Robert Charlebois",
+          "url": "https://open.spotify.com/artist/1862NkVrufCFJZkZJMfftO"
+        }
+      ],
+      "duration_ms": 149133,
+      "name": "Marie-No\u00ebl",
+      "url": "https://open.spotify.com/track/7416vFT1GFAiB5SCfwreB8"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
+        "name": "Joyeux No\u00ebl",
+        "url": "https://open.spotify.com/album/3rXFr1d41AbHmCAl59aPwT"
+      },
+      "artists": [
+        {
+          "name": "Ginette Reno",
+          "url": "https://open.spotify.com/artist/6ApzBusQnGyfdiQ63CBLon"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Promenade en tra\u00eeneau",
+      "url": "https://open.spotify.com/track/7fwzmmganYLIMBP9rmrAAw"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
         "name": "No\u00ebl en famille avec Fernand Gignac",
         "url": "https://open.spotify.com/album/0nk2eojsQE0RQ3RvfHAadZ"
       },
@@ -1643,22 +1659,6 @@
       "duration_ms": 140466,
       "name": "C'est No\u00ebl",
       "url": "https://open.spotify.com/track/4US3M3oVGLNUNvIRAPfQcE"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Cheers",
-        "url": "https://open.spotify.com/album/4UuwrpTwXbglkg5CggqnFT"
-      },
-      "artists": [
-        {
-          "name": "Laurence St-Martin",
-          "url": "https://open.spotify.com/artist/1DAZpwKWPQ4VnPSD2RcpgG"
-        }
-      ],
-      "duration_ms": 146904,
-      "name": "Cheers",
-      "url": "https://open.spotify.com/track/6aSOOOlwOm9HdvobCda3Er"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -1679,18 +1679,18 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "No\u00ebl dans la t\u00eate",
-        "url": "https://open.spotify.com/album/29vexLuZGEVEQD5xh3440z"
+        "name": "Cheers",
+        "url": "https://open.spotify.com/album/4UuwrpTwXbglkg5CggqnFT"
       },
       "artists": [
         {
-          "name": "Melissa Ouimet",
-          "url": "https://open.spotify.com/artist/2VcWCneechtPXpyO6l7eth"
+          "name": "Laurence St-Martin",
+          "url": "https://open.spotify.com/artist/1DAZpwKWPQ4VnPSD2RcpgG"
         }
       ],
-      "duration_ms": 202730,
-      "name": "No\u00ebl dans la t\u00eate",
-      "url": "https://open.spotify.com/track/0b7SiLDZJ66bMu6xdEUoNf"
+      "duration_ms": 146904,
+      "name": "Cheers",
+      "url": "https://open.spotify.com/track/6aSOOOlwOm9HdvobCda3Er"
     }
   ],
   "unique_name": "No\u00ebl, No\u00ebl, No\u00ebl",

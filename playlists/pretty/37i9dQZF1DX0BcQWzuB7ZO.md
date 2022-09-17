@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BcQWzuB7ZO.md) - [plain]
 
 > All the <a href="spotify:genre:edm\_dance">big ones</a> with Fred again..
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,603,165 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,603,921 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BcQWzuB7ZO.md) - [plain]
 | 55 | [Signals](https://open.spotify.com/track/3Zs7UPRJeoy3uycdPHVfwv) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Kwabs](https://open.spotify.com/artist/0r0KdmVS1Er3kaFnl1KPog) | [Signals](https://open.spotify.com/album/51cQuF5mmlX5cHRVIbOBYE) | 2:47 |
 | 56 | [Sete](https://open.spotify.com/track/5B4gUqNKYgU38ULSWP5Bzj) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Sete](https://open.spotify.com/album/2dUSIzfLEgYB3QJB2Vt8j3) | 3:29 |
 | 57 | [Dopamine \(feat\. Eyelar\)](https://open.spotify.com/track/4gGWAqJkd3HyvJJZa4CXqN) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Exotica](https://open.spotify.com/album/4LIWp0dSuFmtNJrxdegyOG) | 3:36 |
-| 58 | [Fall Into Me](https://open.spotify.com/track/5y4mybqlVC1UxShjqkdjgF) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Dylan Matthew](https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX) | [Fall Into Me](https://open.spotify.com/album/7pydg30ApU7ce5KzBeIiET) | 3:51 |
+| 58 | [Fall Into Me](https://open.spotify.com/track/1iA7DyrJbukpd4X2EcT9Xd) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Dylan Matthew](https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX) | [DRMVRSE](https://open.spotify.com/album/11pjcRObX2pkqo9oczv5Gb) | 3:51 |
 | 59 | [Won't Forget You \- Edit](https://open.spotify.com/track/3I10tZ5MgEMo4WryCNJkZQ) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Won't Forget You](https://open.spotify.com/album/36b1UkMwoVCfTVlRqgkp3J) | 3:50 |
 | 60 | [When I’m Gone \(with Katy Perry\)](https://open.spotify.com/track/5902W4uHWzhtOff1UK7the) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [When I’m Gone \(with Katy Perry\)](https://open.spotify.com/album/5itVTi6rI3MlOcWBxROxd9) | 2:41 |
 | 61 | [Tell It To My Heart](https://open.spotify.com/track/46nvQpUDsxpS08UTFOeKTA) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Tell It To My Heart](https://open.spotify.com/album/27rVuwJ0g0eKRpnvEhQl3G) | 2:45 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BcQWzuB7ZO.md) - [plain]
 | 74 | [Give It To Me \- Full Vocal Mix](https://open.spotify.com/track/5ZduaRci3iNUiDfJbBfAaf) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS) | [Give It To Me \(Full Vocal Mix\)](https://open.spotify.com/album/1jbRY71konakrKvDUiW7Rp) | 1:42 |
 | 75 | [Rasputin](https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Rasputin](https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd) | 3:06 |
 
-Snapshot ID: `MTY2MjY5NjAwMCwwMDAwMDAwMGU4OTcwMjE0ZWQwZGY5MjA5ZDhjYzMyOTI2ZWJkMzk4`
+Snapshot ID: `MTY2MjY5NjAwMCwwMDAwMDAwMGZlOGIwYjM1Y2Y3YjljYThlNTJiZmZkYzg2ZWNiMmFh`

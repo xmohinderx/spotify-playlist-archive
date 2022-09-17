@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXs1L3AC0Xio.md) - [plain]
 
 > lighters up for these awesome rock ballads.
 
-[Spotify](https://open.spotify.com/user/spotify) - 619,539 likes - 100 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 619,673 likes - 100 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXs1L3AC0Xio.md) - [plain]
 | 29 | [Bother](https://open.spotify.com/track/0AfIsqZ4gTUg9CwwW2jLeK) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Stone Sour](https://open.spotify.com/album/1zxVmbhE7PevJT8Z6w6upn) | 4:00 |
 | 30 | [Disarm \- Remastered](https://open.spotify.com/track/6YIggUJW3ttAAPRdnki8RM) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Siamese Dream \(Deluxe Edition\)](https://open.spotify.com/album/0bQglEvsHphrS19FGODEGo) | 3:16 |
 | 31 | [Call Me](https://open.spotify.com/track/2nBWxgSZ79w9l6t2rUg6pl) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [The Sound of Madness](https://open.spotify.com/album/4PeRcYNYVB1mD4wemj5zld) | 3:42 |
-| 32 | [You \- Live](https://open.spotify.com/track/66MhEsUuahsQOxNR4RJv9Z) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [ATTENTION: MILEY LIVE](https://open.spotify.com/album/534enKHcsPhMQOc0TM2yhw) | 3:01 |
-| 33 | [Ashes of Eden](https://open.spotify.com/track/7HjNOz8Y7H7uSySXuHNg1Y) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Dark Before Dawn](https://open.spotify.com/album/09asAAZJ7rXedp9J8wqvBR) | 4:53 |
+| 32 | [Ashes of Eden](https://open.spotify.com/track/7HjNOz8Y7H7uSySXuHNg1Y) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Dark Before Dawn](https://open.spotify.com/album/09asAAZJ7rXedp9J8wqvBR) | 4:53 |
+| 33 | [You \- Live](https://open.spotify.com/track/66MhEsUuahsQOxNR4RJv9Z) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [ATTENTION: MILEY LIVE](https://open.spotify.com/album/534enKHcsPhMQOc0TM2yhw) | 3:01 |
 | 34 | [Watch Over You](https://open.spotify.com/track/7kxfWvj6u9oWQ5C36kMtGb) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [Blackbird](https://open.spotify.com/album/21lOBQT94kjWSiYQbpm3RG) | 4:19 |
 | 35 | [Over You](https://open.spotify.com/track/7mXmxXLAnsvXKt4Q37KoMI) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [Daughtry](https://open.spotify.com/album/7MEQdKzqoG2QJYcT2XEKsW) | 3:24 |
 | 36 | [Sorry](https://open.spotify.com/track/0EbnUc05YEKhZRKgbrZWpq) | [Buckcherry](https://open.spotify.com/artist/0yN7xI1blow9nYIK0R8nM7) | [15](https://open.spotify.com/album/7JzpvpbhqCCS4f54rkU1yV) | 3:48 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXs1L3AC0Xio.md) - [plain]
 | 58 | [Last Stand](https://open.spotify.com/track/27TPpj59ml6N7las1h696d) | [Adelitas Way](https://open.spotify.com/artist/1ZjAT2nTrzDIXFfsQ2hWJk) | [Adelitas Way](https://open.spotify.com/album/5P5ckQNn8AibK7TVTVrUoC) | 3:44 |
 | 59 | [Stars \- The Shack Film Version](https://open.spotify.com/track/2KPjz1SM7AWC9GxXHmRucG) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Stars \(The Shack Film Version\)](https://open.spotify.com/album/65VDJ8KgsyQ4NnBc6d1K2d) | 3:44 |
 | 60 | [Love Falls](https://open.spotify.com/track/4fFx9gzhfhSNu71e4tveEN) | [HELLYEAH](https://open.spotify.com/artist/4hxDvVq5t8ebPYPdBl1F9f) | [UNDEN!ABLE](https://open.spotify.com/album/5H9cH0ZFEwiJQFPCXiXzxd) | 4:34 |
-| 61 | [Broken Heart of Gold](https://open.spotify.com/track/1puWjVZrdvVGsR6RFz14Ca) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Broken Heart of Gold](https://open.spotify.com/album/2sX77wIPm2vTTQMdC81ND9) | 4:13 |
-| 62 | [How Did You Love \- Piano Version](https://open.spotify.com/track/5QLUdCEJ1oJkFPiPg7sEdd) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [How Did You Love](https://open.spotify.com/album/0PFYjO7SxBpUUtwR91gvJP) | 3:05 |
+| 61 | [How Did You Love \- Piano Version](https://open.spotify.com/track/5QLUdCEJ1oJkFPiPg7sEdd) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [How Did You Love](https://open.spotify.com/album/0PFYjO7SxBpUUtwR91gvJP) | 3:05 |
+| 62 | [Broken Heart of Gold](https://open.spotify.com/track/1puWjVZrdvVGsR6RFz14Ca) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Broken Heart of Gold](https://open.spotify.com/album/2sX77wIPm2vTTQMdC81ND9) | 4:13 |
 | 63 | [Nevermind](https://open.spotify.com/track/25cgB8QvrmNetiG5Q0YB3g) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [Nevermind](https://open.spotify.com/album/7CHjGNDrCPUppVXm3lX2Gi) | 3:52 |
 | 64 | [Dear Agony \- Aurora Version](https://open.spotify.com/track/5l3W66TDufGaj6lfSA5LRZ) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP), [Lacey Sturm](https://open.spotify.com/artist/09LCTrVGnMsGbxexUFJoap) | [Aurora](https://open.spotify.com/album/3pfiqQljVzq48rfw0bNdpz) | 4:15 |
 | 65 | [Don't Change](https://open.spotify.com/track/6do9iwoqKRIvEvRTsXlOoZ) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [STILL SUCKS](https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ) | 2:55 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXs1L3AC0Xio.md) - [plain]
 | 91 | [Stealing Life](https://open.spotify.com/track/2rrNJZvWS6SNmm3CdpJkHu) | [Red Sun Rising](https://open.spotify.com/artist/01ZtptlLUxoAbJDrS9fTqX) | [THREAD](https://open.spotify.com/album/7vsDcG5am0MDIlKYr5HBOT) | 5:04 |
 | 92 | [Hear Me Now \(feat\. DIAMANTE\)](https://open.spotify.com/track/51qppaTjmtD3fclww1e8W1) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1), [DIAMANTE](https://open.spotify.com/artist/6jMXENspOIBHOTQNQDTxsW) | [Hear Me Now \(feat\. DIAMANTE\)](https://open.spotify.com/album/74tazqoF1ry3hGIhXZXKUt) | 3:39 |
 | 93 | [Quiet Now](https://open.spotify.com/track/41ZjzkJRYKHo4seEv9MSBI) | [Cold](https://open.spotify.com/artist/0Gw3a3BkWLwsMLFbOBmo6Q) | [The Things We Can´t Stop](https://open.spotify.com/album/6Y269q2NP4FXullO3NxBDE) | 4:14 |
-| 94 | [The Hard Way](https://open.spotify.com/track/6pfAOm26gNA5j9B15Ln2gq) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [The Hard Way](https://open.spotify.com/album/047c12RSNKQoatoNBjSegE) | 3:26 |
-| 95 | [Til Kingdom Come](https://open.spotify.com/track/34DkG8okUA8MhwbAwqc1wy) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [UP](https://open.spotify.com/album/6uyRHyNcSbGZZCP2JxaMrZ) | 5:39 |
+| 94 | [Til Kingdom Come](https://open.spotify.com/track/34DkG8okUA8MhwbAwqc1wy) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [UP](https://open.spotify.com/album/6uyRHyNcSbGZZCP2JxaMrZ) | 5:39 |
+| 95 | [The Hard Way](https://open.spotify.com/track/6pfAOm26gNA5j9B15Ln2gq) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [The Hard Way](https://open.spotify.com/album/047c12RSNKQoatoNBjSegE) | 3:26 |
 | 96 | [Our Loved Ones](https://open.spotify.com/track/1Fekh45eTzyteap9YgmOr1) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Outlaw Gentlemen & Shady Ladies](https://open.spotify.com/album/5SBrIIYCvThaqN9r1SV2pv) | 4:50 |
 | 97 | [Lost In You](https://open.spotify.com/track/2B49LNSMgjaQJOa5fTml4M) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [Black and White Rainbows \(Deluxe Edition\)](https://open.spotify.com/album/6vTCF4XPp3BCSmV3KDbitv) | 4:19 |
 | 98 | [Roman Sky](https://open.spotify.com/track/06r4cRb2dnmCSyZ5MgEUGY) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [The Stage](https://open.spotify.com/album/0vINJeraREv5ySgWs57Dko) | 5:00 |
-| 99 | [All I Had To Lose \(feat\. Mark Morales\)](https://open.spotify.com/track/3t9seJl7Y0B556M2ndthl1) | [Mark Morton](https://open.spotify.com/artist/5w09r1HW3Dc8BMYIvqbnnF), [Mark Morales](https://open.spotify.com/artist/5QPc5gUxdETGecetdI8o8O) | [All I Had To Lose \(feat\. Mark Morales\)](https://open.spotify.com/album/3pvMWJSHWaSjFMDkk93JAE) | 3:15 |
-| 100 | [Wake Up Call](https://open.spotify.com/track/1AXMG1DXnkXlUufkMwcS9A) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Wake Up Call](https://open.spotify.com/album/1P2L7DD1DCqb0VfpMyByLl) | 3:55 |
+| 99 | [If Only For Now](https://open.spotify.com/track/2paOAPUdPfiPPUVQ8I5epX) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [UP](https://open.spotify.com/album/6uyRHyNcSbGZZCP2JxaMrZ) | 3:50 |
+| 100 | [All I Had To Lose \(feat\. Mark Morales\)](https://open.spotify.com/track/3t9seJl7Y0B556M2ndthl1) | [Mark Morton](https://open.spotify.com/artist/5w09r1HW3Dc8BMYIvqbnnF), [Mark Morales](https://open.spotify.com/artist/5QPc5gUxdETGecetdI8o8O) | [All I Had To Lose \(feat\. Mark Morales\)](https://open.spotify.com/album/3pvMWJSHWaSjFMDkk93JAE) | 3:15 |
 
-Snapshot ID: `MTY2MjczNTM2MCwwMDAwMDAwMGEyMGZhZWYzMGE2NTM4MmQ0ZDlmNmU2MTQ2YTkxMmYx`
+Snapshot ID: `MTY2MjczNTM2MCwwMDAwMDAwMDlkY2JiMDRkOGE1M2FiZWE5ZTM5NDNhOTZkMjA3MTNm`

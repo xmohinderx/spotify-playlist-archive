@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BDEbdcUkP2.md) - [plain]
 
 > The songs of the 1960s that will make you dance all summer long!
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,002 likes - 75 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,028 likes - 75 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,14 +74,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BDEbdcUkP2.md) - [plain]
 | 64 | [My Guy](https://open.spotify.com/track/4591VqUIXysNlmI5NcAIUd) | [Mary Wells](https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7) | [Mary Wells Sings My Guy](https://open.spotify.com/album/6pUoPt9A6P1G8YJ5vw6GBP) | 2:54 |
 | 65 | [Runaway](https://open.spotify.com/track/45Szkclj1lt4ubm7RFK68t) | [Del Shannon](https://open.spotify.com/artist/3c8WoNjBfyLJhFObE6RHgs) | [Runaway with Del Shannon](https://open.spotify.com/album/6dWi04y7CwB5M0XvzAewKT) | 2:17 |
 | 66 | [The Locomotion](https://open.spotify.com/track/5xzdDMhFYiuUONB0Mha9VS) | [Little Eva](https://open.spotify.com/artist/4S76LQXJD6N2uPcLhKejG8) | [Llllloco\-Motion](https://open.spotify.com/album/1e6fzvmRJi8r6TInJhimdj) | 2:19 |
-| 67 | [One Fine Day](https://open.spotify.com/track/6vcG9EgeqJUSmmF65lxUm6) | [The Chiffons](https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj) | [The Chiffons Absolutely The Best!](https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq) | 2:08 |
-| 68 | [You've Really Got A Hold On Me](https://open.spotify.com/track/7wLRmjiDYI6flIVzboUqSV) | [The Miracles](https://open.spotify.com/artist/6TqQLejnHXMGr7KcegxUND) | [The Fabulous Miracles](https://open.spotify.com/album/6WXuBDGbgFKz4rYLVC9a0W) | 2:57 |
+| 67 | [You've Really Got A Hold On Me](https://open.spotify.com/track/7wLRmjiDYI6flIVzboUqSV) | [The Miracles](https://open.spotify.com/artist/6TqQLejnHXMGr7KcegxUND) | [The Fabulous Miracles](https://open.spotify.com/album/6WXuBDGbgFKz4rYLVC9a0W) | 2:57 |
+| 68 | [One Fine Day](https://open.spotify.com/track/6vcG9EgeqJUSmmF65lxUm6) | [The Chiffons](https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj) | [The Chiffons Absolutely The Best!](https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq) | 2:08 |
 | 69 | [Only the Lonely](https://open.spotify.com/track/0PkBTqRtN25z3oKasWoKlj) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [Sings Lonely and Blue](https://open.spotify.com/album/5txtL5NwxbzS5ENtNEWGpS) | 2:25 |
 | 70 | [Groovin'](https://open.spotify.com/track/3c2kMiSB86tVq1J4oULmvL) | [The Young Rascals](https://open.spotify.com/artist/5X3TuTi9OIsJXMGxPwTKM2) | [Groovin' \(Mono\)](https://open.spotify.com/album/5aQE05ji4wayN65QCZkl0U) | 2:31 |
 | 71 | [Mais Que Nada](https://open.spotify.com/track/6YTBfxkdGce9pLEy9jG9Jo) | [Sergio Mendes & Brasil '66](https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL) | [Foursider](https://open.spotify.com/album/7sLtxMp2mLbxHermdVqYD0) | 2:39 |
 | 72 | [One \- Single Version](https://open.spotify.com/track/4ME2YQNThxEW63fxojzHvN) | [Three Dog Night](https://open.spotify.com/artist/4FAEZeJcsYYBkNq2D3KGTV) | [Three Dog Night](https://open.spotify.com/album/3EQ412rAdAuGsxADDEarJ4) | 3:05 |
-| 73 | [Da Doo Ron Ron \(When He Walked Me Home\)](https://open.spotify.com/track/0fonScmHUzC0MglSLn9saA) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [Da Doo Ron Ron: The Very Best of The Crystals](https://open.spotify.com/album/11ho9FxQbJjMbQn1P1yWpm) | 2:20 |
-| 74 | [I Fought the Law \- Single Version](https://open.spotify.com/track/6Um3XCAxl9YfFmAnGl93xc) | [The Bobby Fuller Four](https://open.spotify.com/artist/5XoM6cP8fQykllfuK5V5TR) | [Never To Be Forgotten \- The Mustang Years](https://open.spotify.com/album/7KEDLBdqvyiV4D2uH9SgbV) | 2:18 |
+| 73 | [I Fought the Law \- Single Version](https://open.spotify.com/track/6Um3XCAxl9YfFmAnGl93xc) | [The Bobby Fuller Four](https://open.spotify.com/artist/5XoM6cP8fQykllfuK5V5TR) | [Never To Be Forgotten \- The Mustang Years](https://open.spotify.com/album/7KEDLBdqvyiV4D2uH9SgbV) | 2:18 |
+| 74 | [Da Doo Ron Ron \(When He Walked Me Home\)](https://open.spotify.com/track/0fonScmHUzC0MglSLn9saA) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [Da Doo Ron Ron: The Very Best of The Crystals](https://open.spotify.com/album/11ho9FxQbJjMbQn1P1yWpm) | 2:20 |
 | 75 | [Everlasting Love](https://open.spotify.com/track/40XXjm2pU6LGZkLq5VmkaQ) | [Love Affair](https://open.spotify.com/artist/7aXDGr3cUBmH2Kx1yBC7Ux) | [The Everlasting Love Affair](https://open.spotify.com/album/2BX02XIupm6Sw7cdaT7gVX) | 3:02 |
 
-Snapshot ID: `MTY1NTMyMzIwMCwwMDAwMDAwMGRlZWE1MWZjODhlYWEyY2RiOWQ0MzQzM2U3ZjdhZjkx`
+Snapshot ID: `MTY1NTMyMzIwMCwwMDAwMDAwMGY4MTc0NGJlOWFkOWZmNzJkN2I5OTUwZTA5NTg0YTdj`

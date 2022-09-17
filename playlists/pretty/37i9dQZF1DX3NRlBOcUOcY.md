@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NRlBOcUOcY.md) - [plain]
 
 > Good vibes only! Aquí solo hay buena vibra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 442,862 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 442,884 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NRlBOcUOcY.md) - [plain]
 | 29 | [Plan A](https://open.spotify.com/track/2gpQi3hbcUAcEG8m2dlgfB) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Plan A](https://open.spotify.com/album/2ZcdUwSYlt9fX8OPWX9Scg) | 2:58 |
 | 30 | [Ramona Flowers](https://open.spotify.com/track/0zvj4JsD8fAV35vLTCdKWQ) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [Ramona Flowers](https://open.spotify.com/album/0yw9ssvV1xfHZGdsZAp3Am) | 3:01 |
 | 31 | [BBB](https://open.spotify.com/track/6210ziGEzjh0YY2y9JlGfi) | [Carmen DeLeon](https://open.spotify.com/artist/6vVKjeD0dvsg5EVMEUxI1l) | [BBB](https://open.spotify.com/album/5RHyPiHNjAGcCq3KraVSYf) | 2:34 |
-| 32 | [RUMBATÓN](https://open.spotify.com/track/3XjN0mvFkQp1FMVM9Ro5hm) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 4:08 |
-| 33 | [Tendencia Global](https://open.spotify.com/track/2iLegn1UOmpNpQAxcQoGJW) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Tendencia Global](https://open.spotify.com/album/1bYuhFXTzF4CLwGOVQlqKk) | 3:54 |
+| 32 | [Tendencia Global](https://open.spotify.com/track/2iLegn1UOmpNpQAxcQoGJW) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Tendencia Global](https://open.spotify.com/album/1bYuhFXTzF4CLwGOVQlqKk) | 3:54 |
+| 33 | [RUMBATÓN](https://open.spotify.com/track/3XjN0mvFkQp1FMVM9Ro5hm) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 4:08 |
 | 34 | [Después de la Playa](https://open.spotify.com/track/1dm6z1fWB0cErMszU25dy2) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:50 |
 | 35 | [Tusa](https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Tusa](https://open.spotify.com/album/7mKevNHhVnZER3BLgI8O4F) | 3:20 |
 | 36 | [Pegao](https://open.spotify.com/track/7Dk8r4VR5NoveUvTiCKEXC) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Pegao](https://open.spotify.com/album/2BzQoZdHURkzdFErSQ2Qll) | 2:40 |
@@ -98,15 +98,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NRlBOcUOcY.md) - [plain]
 | 88 | [CHASING THE SUN](https://open.spotify.com/track/4ld5JAPiiU0O4smQ0j4pAd) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [FINAL \(Vol.1\)](https://open.spotify.com/album/61a4XyIj98CGrUnKy8Hu4Z) | 2:31 |
 | 89 | [Me Tienes](https://open.spotify.com/track/6gOsbSsolvkGLvalNpIQ1O) | [õndas](https://open.spotify.com/artist/2C5bspfGva39DUPg5ZYJ4p) | [Me Tienes](https://open.spotify.com/album/4FKgvX4aa1XS0VLAjV4vrS) | 3:03 |
 | 90 | [Otra Vez](https://open.spotify.com/track/5iwezY285OvcvpWZ5DOwHc) | [Chavi Leons](https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx) | [Otra Vez](https://open.spotify.com/album/1b50tBHDr0LWi7GAOHPwey) | 2:30 |
-| 91 | [Tu2Ru \- Pop Version](https://open.spotify.com/track/0gymP6ODZgwAIixsY1MJ7t) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0) | [Tu2Ru \(with Nio Garcia\)](https://open.spotify.com/album/7INP6va1mqzHgLUwqXPIgi) | 2:45 |
-| 92 | [Poema](https://open.spotify.com/track/4ki07OxnhAu6PT5iViZxye) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [Flow Romántico](https://open.spotify.com/album/4r0PI0BKDrDhftCfvFjxWT) | 2:35 |
+| 91 | [Poema](https://open.spotify.com/track/4ki07OxnhAu6PT5iViZxye) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [Flow Romántico](https://open.spotify.com/album/4r0PI0BKDrDhftCfvFjxWT) | 2:35 |
+| 92 | [Tu2Ru \- Pop Version](https://open.spotify.com/track/0gymP6ODZgwAIixsY1MJ7t) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0) | [Tu2Ru \(with Nio Garcia\)](https://open.spotify.com/album/7INP6va1mqzHgLUwqXPIgi) | 2:45 |
 | 93 | [123 Enemies](https://open.spotify.com/track/5j29ypXI3IDDGkUppjZtu1) | [Andrez Babii](https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8) | [123 Enemies](https://open.spotify.com/album/0KJsakvLSRRxiJJ91P8qSW) | 3:30 |
 | 94 | [Antónimos](https://open.spotify.com/track/66mA8bN15swKsFoeyHLJTT) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [Antónimos](https://open.spotify.com/album/1awxHDaPvY65gcHl8JBx6B) | 2:59 |
 | 95 | [Eso Es Un Vibe](https://open.spotify.com/track/4Z3yu3oJUD1KTHEUMYMsds) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [Eso Es Un Vibe](https://open.spotify.com/album/6vxJlS069h6IIflq0LPQIq) | 3:32 |
 | 96 | [Problemas](https://open.spotify.com/track/0ibM1mZeNP37EH0aijBZed) | [GALE](https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM) | [Problemas](https://open.spotify.com/album/7D0hDhJZc5MHZVWxmzuCUv) | 3:16 |
 | 97 | [Otra Botella](https://open.spotify.com/track/7B6aEwgsjVLGrXn11mbyRe) | [Victor & Gabo](https://open.spotify.com/artist/1jF1NAxfzCf1PeWzmVvqsx), [Itzza Primera](https://open.spotify.com/artist/0PlTbBrPOOOmJzprmZ4cdM) | [Otra Botella](https://open.spotify.com/album/1x1l4HTXeFzxKcRovL23h3) | 2:46 |
 | 98 | [DIADREAMER](https://open.spotify.com/track/7MFWP8pH2bSMvDeCdijnVv) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1), [Ana Mancebo](https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd) | [DIADREAMER](https://open.spotify.com/album/3dMeA8bEA9Ianbh9mnyhU9) | 3:04 |
-| 99 | [Bad Kiss](https://open.spotify.com/track/1pXdYW93QYTfReu4hhXozQ) | [Samantha Sánchez](https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ) | [Bad Kiss](https://open.spotify.com/album/6k9wPtpVp9mfAOwp56g5LJ) | 2:22 |
-| 100 | [I've Seen Better Days](https://open.spotify.com/track/0c6I474Mfy2VEDD80Yinhi) | [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck) | [I've Seen Better Days](https://open.spotify.com/album/7mYHrBhLey9y1r5TpL05cL) | 3:04 |
+| 99 | [Calor](https://open.spotify.com/track/4YGFWYHhXfCmZ3zOC22AyT) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP) | [Calor](https://open.spotify.com/album/7gWwq96ivfK76zTC8howhG) | 2:34 |
+| 100 | [Bad Kiss](https://open.spotify.com/track/1pXdYW93QYTfReu4hhXozQ) | [Samantha Sánchez](https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ) | [Bad Kiss](https://open.spotify.com/album/6k9wPtpVp9mfAOwp56g5LJ) | 2:22 |
 
-Snapshot ID: `MTY2MjQ4MDYxNCwwMDAwMDAwMDIzYjFiZjU4ZDVkNDM2OTU0Y2NmNmU1OTM5NjBlNTY0`
+Snapshot ID: `MTY2MjQ4MDYxNCwwMDAwMDAwMDk2NTE4MzZiZjYzYTNkMmNkZWRkZDU5MTNkY2U4NzBk`

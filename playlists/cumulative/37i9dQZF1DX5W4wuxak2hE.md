@@ -4,7 +4,7 @@
 
 > Here's a taste of power pop\. <a href="spotify:genre:0JQ5IMCbQBLk5woFi85yOT">Click here for further discovery.</a> Cover: Cheap Trick
 
-102 songs - 6 hr 9 min - [published](https://open.spotify.com/playlist/2YOkhgiX4mtX981PcVEeLB)
+103 songs - 6 hr 13 min - [published](https://open.spotify.com/playlist/2YOkhgiX4mtX981PcVEeLB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Local Girls \- Digitally Remastered 1996](https://open.spotify.com/track/63lZR6NrvsosUAFwXSE63E) | [Graham Parker](https://open.spotify.com/artist/6c8INA1EQQe9TkukfEdiCA) | [Squeezing Out Sparks + Live Sparks](https://open.spotify.com/album/4ZImzDF35hQWiN5FdAqQbN) | 3:43 | 2021-12-16 | 2022-07-29 |
 | [Lola](https://open.spotify.com/track/0UAJH0k4k3slcE83a9UGCe) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Lola Versus Powerman and the Moneygoround, Pt\. One](https://open.spotify.com/album/4jaLfcNpIrOgcPyXuuiHTi) | 4:01 | 2021-12-16 | 2022-09-04 |
 | [Lola \(Mono Single Version "Cherry Cola"\) \- 2014 Remastered Version](https://open.spotify.com/track/0c2ta2eSTOMDpGHsitgb5c) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Lola vs\. Powerman and the Moneygoround, Pt\. One + Percy \(Super Deluxe\)](https://open.spotify.com/album/6lL6HugNEN4Vlc8sj0Zcse) | 4:05 | 2021-12-16 | 2022-09-12 |
+| [Lola \- 2020 Stereo Remaster](https://open.spotify.com/track/4ZKgPZ9d4V5WW6H2s4qMD3) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Lola Versus Powerman and the Moneygoround, Pt\. 1](https://open.spotify.com/album/70kpGi2o0I7NY4DfwIN2p0) | 4:01 | 2021-12-16 |  |
 | [Look Sharp!](https://open.spotify.com/track/1PXshYSkA3gGYOrInU3lRE) | [Joe Jackson](https://open.spotify.com/artist/6KOqPxwfNAmZPkiCnDE9yT) | [Look Sharp!](https://open.spotify.com/album/6Bt6KjNfoCp6UbYVFGH4FH) | 3:22 | 2021-12-16 | 2022-07-29 |
 | [Making Plans For Nigel](https://open.spotify.com/track/1XT5kxg6Tk0ukCO2vBQN4v) | [XTC](https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz) | [Drums And Wires](https://open.spotify.com/album/4S6y2iTYbGONSlNJHYyrVl) | 4:13 | 2021-12-16 |  |
 | [My Best Friend's Girl](https://open.spotify.com/track/1SRkKyJ2JjMZgyDWC30zKv) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [The Cars](https://open.spotify.com/album/4tJPWT4r4FSKwy784Qs1Fq) | 3:43 | 2021-12-16 |  |
@@ -74,7 +75,7 @@
 | [One Way Or Another](https://open.spotify.com/track/3DiRdaZtPrVdb4U2RIuRWm) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Greatest Hits: Blondie](https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW) | 3:28 | 2021-12-16 | 2022-09-13 |
 | [Parklife \- 2012 Remaster](https://open.spotify.com/track/7FSzJQV6thyoQptFCUTV9c) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Parklife \(Special Edition\)](https://open.spotify.com/album/0DBkFC6739trhCoVreZyds) | 3:05 | 2021-12-16 |  |
 | [Pop Song 89 \- Remastered](https://open.spotify.com/track/0pxpo14jvnN33Ej7xHV8TK) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Green \(Remastered\)](https://open.spotify.com/album/7rfKAiPs9ToZP9zEJDBqBH) | 3:04 | 2021-12-16 | 2022-07-29 |
-| [Pulling Mussels \(From The Shell\)](https://open.spotify.com/track/2TjXzbUt5zQ4PpHG0dEaT1) | [Squeeze](https://open.spotify.com/artist/6Jrj26oAY96EEC2lqC6fua) | [Argybargy](https://open.spotify.com/album/7Me29nlWdDxCGAAwupHfSV) | 3:58 | 2021-12-16 |  |
+| [Pulling Mussels \(From The Shell\)](https://open.spotify.com/track/2TjXzbUt5zQ4PpHG0dEaT1) | [Squeeze](https://open.spotify.com/artist/6Jrj26oAY96EEC2lqC6fua) | [Argybargy](https://open.spotify.com/album/7Me29nlWdDxCGAAwupHfSV) | 3:58 | 2021-12-16 | 2022-09-17 |
 | [Roxanne](https://open.spotify.com/track/3EYOJ48Et32uATr9ZmLnAo) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Outlandos D'Amour \(Remastered 2003\)](https://open.spotify.com/album/1H9g6j4Wwj6wh6p8YHVtkf) | 3:11 | 2021-12-16 |  |
 | [Runaway Train](https://open.spotify.com/track/3TW48DvQ7ChwY1Yy1tkMaP) | [Soul Asylum](https://open.spotify.com/artist/02da1vDJ2hWqfK7aJL6SJm) | [Grave Dancers Union](https://open.spotify.com/album/3EFhsxrJoH3yE3r8bHheE6) | 4:25 | 2021-12-16 |  |
 | [Rush \- Single Version](https://open.spotify.com/track/4u8Rsnp8Pzvui3WaTWasyY) | [Big Audio Dynamite](https://open.spotify.com/artist/7hqZBHSgDs1odG9aupMzEI) | [Planet Bad Greatest Hits](https://open.spotify.com/album/3KwVr850vZfjrKJb72lQnU) | 3:08 | 2021-12-16 | 2022-07-28 |

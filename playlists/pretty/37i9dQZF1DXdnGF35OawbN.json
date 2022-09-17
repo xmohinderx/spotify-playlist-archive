@@ -1,12 +1,12 @@
 {
   "description": "The best season of the year, wherever you are! Cover: Karol G",
-  "num_followers": 3855552,
+  "num_followers": 3855614,
   "original_name": "Verano Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjQ4MTA1MiwwMDAwMDAwMGRkNmI2YWYxNTU4NTYyZTQ3ZTY2ZmU0ZGNhNzAwYjcw",
+  "snapshot_id": "MTY2MjQ4MTA1MiwwMDAwMDAwMGZkNTQ3MTBiM2I3ZGRkOGI0ODlkNzljNTZhZWNlZmE2",
   "tracks": [
     {
       "added_at": "2022-08-02 14:56:20",
@@ -155,22 +155,6 @@
     {
       "added_at": "2022-08-02 14:56:20",
       "album": {
-        "name": "About Damn Time",
-        "url": "https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 191822,
-      "name": "About Damn Time",
-      "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
-    },
-    {
-      "added_at": "2022-08-02 14:56:20",
-      "album": {
         "name": "After Hours",
         "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 200040,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
+    },
+    {
+      "added_at": "2022-08-02 14:56:20",
+      "album": {
+        "name": "About Damn Time",
+        "url": "https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 191822,
+      "name": "About Damn Time",
+      "url": "https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3"
     },
     {
       "added_at": "2022-08-02 14:56:20",
@@ -223,18 +223,22 @@
     {
       "added_at": "2022-08-02 14:56:20",
       "album": {
-        "name": "Planet Her",
-        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
+        "name": "STAY (with Justin Bieber)",
+        "url": "https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ"
       },
       "artists": [
         {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 172626,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
+      "duration_ms": 141805,
+      "name": "STAY (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20"
     },
     {
       "added_at": "2022-08-02 14:56:20",
@@ -255,22 +259,18 @@
     {
       "added_at": "2022-08-02 14:56:20",
       "album": {
-        "name": "STAY (with Justin Bieber)",
-        "url": "https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ"
+        "name": "Planet Her",
+        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
       },
       "artists": [
         {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         }
       ],
-      "duration_ms": 141805,
-      "name": "STAY (with Justin Bieber)",
-      "url": "https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20"
+      "duration_ms": 172626,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
     },
     {
       "added_at": "2022-08-02 14:56:20",
@@ -1527,30 +1527,6 @@
     {
       "added_at": "2022-08-02 14:56:20",
       "album": {
-        "name": "WOW BB",
-        "url": "https://open.spotify.com/album/09qDFWKi7sDxRV8l40osDR"
-      },
-      "artists": [
-        {
-          "name": "Natti Natasha",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        },
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        },
-        {
-          "name": "Chimbala",
-          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
-        }
-      ],
-      "duration_ms": 191250,
-      "name": "WOW BB",
-      "url": "https://open.spotify.com/track/4fQAjk5sPe6ay04m5slBlU"
-    },
-    {
-      "added_at": "2022-08-02 14:56:20",
-      "album": {
         "name": "Indeciso",
         "url": "https://open.spotify.com/album/4qecT0ZJrf35thz2WaEm6P"
       },
@@ -1571,6 +1547,30 @@
       "duration_ms": 217253,
       "name": "Indeciso",
       "url": "https://open.spotify.com/track/59s0s39NFWScuHDbHytI14"
+    },
+    {
+      "added_at": "2022-08-02 14:56:20",
+      "album": {
+        "name": "WOW BB",
+        "url": "https://open.spotify.com/album/09qDFWKi7sDxRV8l40osDR"
+      },
+      "artists": [
+        {
+          "name": "Natti Natasha",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+        }
+      ],
+      "duration_ms": 191250,
+      "name": "WOW BB",
+      "url": "https://open.spotify.com/track/4fQAjk5sPe6ay04m5slBlU"
     },
     {
       "added_at": "2022-08-02 14:56:20",
@@ -1727,6 +1727,26 @@
     {
       "added_at": "2022-08-02 14:56:20",
       "album": {
+        "name": "Loquita",
+        "url": "https://open.spotify.com/album/5GjwudL8UiuD9wsRNSBHgZ"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 199551,
+      "name": "Loquita",
+      "url": "https://open.spotify.com/track/2OTULPNeQUkwQ0tNzcG7tj"
+    },
+    {
+      "added_at": "2022-08-02 14:56:20",
+      "album": {
         "name": "Mala Costumbre",
         "url": "https://open.spotify.com/album/1YJjyV8YutIhzL4MWAB1LY"
       },
@@ -1763,26 +1783,6 @@
       "duration_ms": 181573,
       "name": "ME PASE (feat. Farruko)",
       "url": "https://open.spotify.com/track/4JgSGk8yY0hQE9aENUSqVm"
-    },
-    {
-      "added_at": "2022-08-02 14:56:20",
-      "album": {
-        "name": "Loquita",
-        "url": "https://open.spotify.com/album/5GjwudL8UiuD9wsRNSBHgZ"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 199551,
-      "name": "Loquita",
-      "url": "https://open.spotify.com/track/2OTULPNeQUkwQ0tNzcG7tj"
     },
     {
       "added_at": "2022-08-02 14:56:20",
@@ -1911,26 +1911,6 @@
     {
       "added_at": "2022-08-02 14:56:20",
       "album": {
-        "name": "Amor en Coma",
-        "url": "https://open.spotify.com/album/0NHD8Het1Mqslp46azKDU2"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 199881,
-      "name": "Amor en Coma",
-      "url": "https://open.spotify.com/track/3RasiWohReHWYM1FJ9d1ZD"
-    },
-    {
-      "added_at": "2022-08-02 14:56:20",
-      "album": {
         "name": "Un beso de improviso",
         "url": "https://open.spotify.com/album/53V1gf1MCqS2qog22jKe9P"
       },
@@ -1967,6 +1947,26 @@
       "duration_ms": 236731,
       "name": "M\u00e1s De La Una",
       "url": "https://open.spotify.com/track/69Y5IZuBvGyzySFt5x7kCq"
+    },
+    {
+      "added_at": "2022-08-02 14:56:20",
+      "album": {
+        "name": "Amor en Coma",
+        "url": "https://open.spotify.com/album/0NHD8Het1Mqslp46azKDU2"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 199881,
+      "name": "Amor en Coma",
+      "url": "https://open.spotify.com/track/3RasiWohReHWYM1FJ9d1ZD"
     },
     {
       "added_at": "2022-08-02 14:56:20",

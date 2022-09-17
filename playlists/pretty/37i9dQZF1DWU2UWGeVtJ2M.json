@@ -1,12 +1,12 @@
 {
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
-  "num_followers": 134925,
+  "num_followers": 134970,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mjk2MzIyOCwwMDAwMDAwMGVjNDIzNmRmNWE5YzFlNGE4YWQ2OWFlZjc1MjJlZjRi",
+  "snapshot_id": "MTY2Mjk2MzIyOCwwMDAwMDAwMGMwMTc0ZjE3YzllMTE4MjExN2U2ZTlhZjUwZmNiZTFh",
   "tracks": [
     {
       "added_at": "2022-09-12 06:13:48",
@@ -455,6 +455,22 @@
     {
       "added_at": "2022-09-12 06:13:48",
       "album": {
+        "name": "Ivory",
+        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 165320,
+      "name": "Killing Me",
+      "url": "https://open.spotify.com/track/5BhK8Mho223YLPQOLfzWNP"
+    },
+    {
+      "added_at": "2022-09-12 06:13:48",
+      "album": {
         "name": "Heart On My Sleeve",
         "url": "https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 184012,
       "name": "Fair",
       "url": "https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo"
-    },
-    {
-      "added_at": "2022-09-12 06:13:48",
-      "album": {
-        "name": "Ivory",
-        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 165320,
-      "name": "Killing Me",
-      "url": "https://open.spotify.com/track/5BhK8Mho223YLPQOLfzWNP"
     },
     {
       "added_at": "2022-09-12 06:13:48",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2022-09-12 06:13:48",
       "album": {
+        "name": "Don't Give In",
+        "url": "https://open.spotify.com/album/4nkVzPcDX2u2X9NDM2bTck"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "duration_ms": 209749,
+      "name": "Don't Give In",
+      "url": "https://open.spotify.com/track/62aWvmFONlusEPthH5CmA2"
+    },
+    {
+      "added_at": "2022-09-12 06:13:48",
+      "album": {
         "name": "Naturally",
         "url": "https://open.spotify.com/album/3iAuliy1vZqifIJEfXRbK3"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 195952,
       "name": "2021",
       "url": "https://open.spotify.com/track/5DlXq40tjFwd3SFp55AfKp"
-    },
-    {
-      "added_at": "2022-09-12 06:13:48",
-      "album": {
-        "name": "Don't Give In",
-        "url": "https://open.spotify.com/album/4nkVzPcDX2u2X9NDM2bTck"
-      },
-      "artists": [
-        {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
-        }
-      ],
-      "duration_ms": 209749,
-      "name": "Don't Give In",
-      "url": "https://open.spotify.com/track/62aWvmFONlusEPthH5CmA2"
     },
     {
       "added_at": "2022-09-12 06:13:48",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2022-09-12 06:13:48",
       "album": {
+        "name": "So Sunshine",
+        "url": "https://open.spotify.com/album/3tw7ZPvVJo1DqIZvdE6cos"
+      },
+      "artists": [
+        {
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+        }
+      ],
+      "duration_ms": 136007,
+      "name": "So",
+      "url": "https://open.spotify.com/track/3fDHHkOEw2Fr8km3T4ixYQ"
+    },
+    {
+      "added_at": "2022-09-12 06:13:48",
+      "album": {
         "name": "Gone 2 Long",
         "url": "https://open.spotify.com/album/7qMx6YrIMl5XjjZLRyR9OZ"
       },
@@ -1571,18 +1587,18 @@
     {
       "added_at": "2022-09-12 06:13:48",
       "album": {
-        "name": "So Sunshine",
-        "url": "https://open.spotify.com/album/3tw7ZPvVJo1DqIZvdE6cos"
+        "name": "Slowing Down",
+        "url": "https://open.spotify.com/album/2lrfa5zP2yemij6X7P3ExK"
       },
       "artists": [
         {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+          "name": "Bronze Whale",
+          "url": "https://open.spotify.com/artist/448VwSmqc6SpRDqK5WYXIt"
         }
       ],
-      "duration_ms": 136007,
-      "name": "So",
-      "url": "https://open.spotify.com/track/3fDHHkOEw2Fr8km3T4ixYQ"
+      "duration_ms": 175500,
+      "name": "Slowing Down",
+      "url": "https://open.spotify.com/track/3oGvRB0MAfPseLw39gVzGg"
     },
     {
       "added_at": "2022-09-12 06:13:48",
@@ -1627,38 +1643,6 @@
     {
       "added_at": "2022-09-12 06:13:48",
       "album": {
-        "name": "Slowing Down",
-        "url": "https://open.spotify.com/album/2lrfa5zP2yemij6X7P3ExK"
-      },
-      "artists": [
-        {
-          "name": "Bronze Whale",
-          "url": "https://open.spotify.com/artist/448VwSmqc6SpRDqK5WYXIt"
-        }
-      ],
-      "duration_ms": 175500,
-      "name": "Slowing Down",
-      "url": "https://open.spotify.com/track/3oGvRB0MAfPseLw39gVzGg"
-    },
-    {
-      "added_at": "2022-09-12 06:13:48",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/5zk4TC5hFLU8psFiQl8A5S"
-      },
-      "artists": [
-        {
-          "name": "GANGGA",
-          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
-        }
-      ],
-      "duration_ms": 253927,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/7otwxbmB0dVdjdOAhOmUG6"
-    },
-    {
-      "added_at": "2022-09-12 06:13:48",
-      "album": {
         "name": "Build",
         "url": "https://open.spotify.com/album/6ASizE9wRKuBUsgARpMrkh"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 231910,
       "name": "heights",
       "url": "https://open.spotify.com/track/5BUG8bEiTNV44s2SCFML0V"
+    },
+    {
+      "added_at": "2022-09-12 06:13:48",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/5zk4TC5hFLU8psFiQl8A5S"
+      },
+      "artists": [
+        {
+          "name": "GANGGA",
+          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
+        }
+      ],
+      "duration_ms": 253927,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/7otwxbmB0dVdjdOAhOmUG6"
     },
     {
       "added_at": "2022-09-12 06:13:48",

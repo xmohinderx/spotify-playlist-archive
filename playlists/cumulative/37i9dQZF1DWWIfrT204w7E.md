@@ -4,7 +4,7 @@
 
 > Drill scenes connect\. Cover: 22Gz
 
-392 songs - 18 hr 0 min - [published](https://open.spotify.com/playlist/7CePQXk9T7nhNQbo5PKUkn)
+393 songs - 18 hr 2 min - [published](https://open.spotify.com/playlist/7CePQXk9T7nhNQbo5PKUkn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | ["BOP"](https://open.spotify.com/track/07VOlyshShGMYBPgjTIZoz) | [CJ](https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb) | ["BOP"](https://open.spotify.com/album/4PqPRLbVtxL2aF1GZG8tJy) | 1:50 | 2021-10-05 | 2022-07-24 |
 | [10 TO DA O](https://open.spotify.com/track/55msAMkK3Ib7tmwapXEjBS) | [M1llionz](https://open.spotify.com/artist/5ZD4VhNTUEnEBTlWQPeyzq), [Munna Duke](https://open.spotify.com/artist/403lMsKoyQOINNf5T26h1C) | [10 TO DA O](https://open.spotify.com/album/3Y3XWzWvMNUcrM6XDLU76t) | 2:38 | 2022-04-22 | 2022-07-29 |
 | [18HUNNA \(feat\. Dave\)](https://open.spotify.com/track/2tC6dm3WkOKYcgS2nZybmg) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Music x Road](https://open.spotify.com/album/6J41exElcUa6rK5SJmjV6S) | 3:09 | 2021-10-05 | 2022-07-23 |
+| [2 Mins of Pain](https://open.spotify.com/track/2NVXBBbO4xGO851zrMfCFi) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [2 Mins of Pain](https://open.spotify.com/album/43AaQNHNlJlf8F2iQkivyx) | 2:16 | 2022-09-16 |  |
 | [2 Sauce](https://open.spotify.com/track/63Jvn7uWSPe71I9I3H4U1q) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Still Sleep?](https://open.spotify.com/album/38nZLvJx8A9p4YYpTG5iFP) | 3:08 | 2022-06-10 | 2022-06-25 |
 | [2 Slimed Out](https://open.spotify.com/track/32W3LRPntEXgODlqHZjaNi) | [Set Da Trend](https://open.spotify.com/artist/4dtz0vRRNPW7J2N94X85eB), [Fr33Bandit](https://open.spotify.com/artist/2R936aaHdj7jhxjhg1Z83I) | [2 Slimed Out](https://open.spotify.com/album/1I0topzPrnwtw5Z9cWxGji) | 1:49 | 2022-06-10 | 2022-06-17 |
 | [2020K](https://open.spotify.com/track/10iZ6s2RgDGs6BOijgEE4E) | [Qrunitup](https://open.spotify.com/artist/3NPT1Lma5oOwAocqpDDcr9) | [2020K](https://open.spotify.com/album/0V8dzpVoyN215gUPntoEh6) | 2:13 | 2021-10-05 | 2022-07-15 |
@@ -235,7 +236,7 @@
 | [No Ceilings \(feat\. Lil Wayne & Jay Gwuapo\)](https://open.spotify.com/track/1K2JtjX3s8QaEKvsbC1UXX) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Jay Gwuapo](https://open.spotify.com/artist/5qrzeukNCU5ixZH3LhQi2j) | [No Ceilings \(feat\. Lil Wayne & Jay Gwuapo\)](https://open.spotify.com/album/7bwhQ4ir83KULY8HnhhpJm) | 4:03 | 2021-10-05 | 2022-07-26 |
 | [No Chorus](https://open.spotify.com/track/25JRyuLsCus2fzuemAeVMS) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw), [M1llionz](https://open.spotify.com/artist/5ZD4VhNTUEnEBTlWQPeyzq) | [Made In The Pyrex \(Bonus Track\)](https://open.spotify.com/album/659HHNEhpkkMd96Klbdrl4) | 3:37 | 2021-10-05 | 2022-07-25 |
 | [No Coming Back](https://open.spotify.com/track/75dGh2Wlh0Kogp9DTQS1WX) | [917 Rackz](https://open.spotify.com/artist/7unGZ3Xv59pTPK7eMq7JqY) | [No Coming Back](https://open.spotify.com/album/2rWY0yI8pzhPmjFKd64s8z) | 1:44 | 2022-06-24 | 2022-07-22 |
-| [No Diet](https://open.spotify.com/track/3HUb7feX3gdnzZVEHy5yFj) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [Double Tap Diaries](https://open.spotify.com/album/4On8nxuf68aMTWz8ohnbWQ) | 3:12 | 2021-10-05 |  |
+| [No Diet](https://open.spotify.com/track/3HUb7feX3gdnzZVEHy5yFj) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [Double Tap Diaries](https://open.spotify.com/album/4On8nxuf68aMTWz8ohnbWQ) | 3:12 | 2021-10-05 | 2022-09-17 |
 | [NO LOCATION](https://open.spotify.com/track/3fJt1Ln0gx10mc1trlrsFE) | [Curly Savv](https://open.spotify.com/artist/3DDlyCYQLZS5OGVJ2gCK0c), [Rah Swish](https://open.spotify.com/artist/4FeLiFUPdxVfFo8oOfA4BH), [Dread Woo](https://open.spotify.com/artist/6ZXm3DzqsaTZSNQrNseQYG), [Quelly Woo](https://open.spotify.com/artist/5PPetvBg4hGBkco4Y267hd) | [GLOCKY SZN 2](https://open.spotify.com/album/7I0eIv5C8BNspddeRqtzqV) | 2:15 | 2022-06-10 | 2022-06-25 |
 | [No Ozone \(feat\. Set Da Trend\)](https://open.spotify.com/track/2gEOTHHkFa55tOia0l2KOa) | [C Blu](https://open.spotify.com/artist/2OjTwiWZJUuKNcNRPC0VTE), [Set Da Trend](https://open.spotify.com/artist/4dtz0vRRNPW7J2N94X85eB) | [No Ozone \(feat\. Set Da Trend\)](https://open.spotify.com/album/42Tcmir9TCSiSoTJ697oDO) | 2:25 | 2022-06-10 | 2022-06-25 |
 | [No Power](https://open.spotify.com/track/6Kl7TpNLXs0rlvYLaNZlR0) | [Shawny Binladen](https://open.spotify.com/artist/0JfrGVffhKwF36QHW9HXOL) | [Wikipedia \(Deluxe\)](https://open.spotify.com/album/53u1FqUmCWhx128l8mHRsX) | 1:56 | 2022-06-10 | 2022-06-25 |

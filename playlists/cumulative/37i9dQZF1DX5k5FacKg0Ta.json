@@ -556,6 +556,44 @@
     },
     {
       "album": {
+        "name": "Flores",
+        "url": "https://open.spotify.com/album/0YaGa6g2ntjSlBqfYb580T"
+      },
+      "artists": [
+        {
+          "name": "Max Zenger",
+          "url": "https://open.spotify.com/artist/4BQaIjXZ3I0j8rDThV7C2b"
+        },
+        {
+          "name": "Globus",
+          "url": "https://open.spotify.com/artist/18F5bmmZmitWWqYTkJqq95"
+        },
+        {
+          "name": "Kasperi Sarikoski",
+          "url": "https://open.spotify.com/artist/1yNUIy8ESiCTqEcCcf0snT"
+        },
+        {
+          "name": "Mikael Myrskog",
+          "url": "https://open.spotify.com/artist/3pzdD5EnatdGM1OMZFuABN"
+        },
+        {
+          "name": "Kaisa M\u00e4ensivu",
+          "url": "https://open.spotify.com/artist/7LueFk6L7bLSNynsATb1ck"
+        },
+        {
+          "name": "Anssi Tirkkonen",
+          "url": "https://open.spotify.com/artist/49dmNgQJQPyyNdujxcaqLF"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 904933,
+      "name": "Flores",
+      "url": "https://open.spotify.com/track/11og6Mc6Zrz6mDULVTYppk"
+    },
+    {
+      "album": {
         "name": "Last Dance",
         "url": "https://open.spotify.com/album/1wf2PGDEaRQcc8NUIOX0lH"
       },
@@ -1173,7 +1211,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 230250,
       "name": "Rise By Descent",
       "url": "https://open.spotify.com/track/60Kj5zxGAJaASNjMLZzq0a"

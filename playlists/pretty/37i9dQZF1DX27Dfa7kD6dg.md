@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Dfa7kD6dg.md) - [plain]
 
 > New York salsa...it's home.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,886 likes - 126 songs - 9 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,954 likes - 126 songs - 9 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Dfa7kD6dg.md) - [plain]
 | 57 | [Un Verano en NY](https://open.spotify.com/track/7paJ4Dsm2SWJvqRwpDnxrL) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [25th Anniversary](https://open.spotify.com/album/7GO5kZOp732nPbwGVsQePn) | 4:57 |
 | 58 | [Mambo Gozon](https://open.spotify.com/track/0hk1gSyn3wKgdxqF6qaKUZ) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Hoy y Ayer](https://open.spotify.com/album/1Gg0LMPxbrR8SCXtAMveyG) | 2:48 |
 | 59 | [Puerto Rico](https://open.spotify.com/track/4doloJKKvqdQTlId3BWMWk) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [El Papá De La Salsa](https://open.spotify.com/album/7qVMjFoNbVzaUwU2vapE9h) | 4:34 |
-| 60 | [Hermano](https://open.spotify.com/track/0odZdAJaLd4NEyYXb3t1Wc) | [El Timba](https://open.spotify.com/artist/0O0OynmaAvfmXAsBwNHBwi) | [Descargando](https://open.spotify.com/album/4EuoJF1Bd372NCI5C2fH4z) | 4:54 |
-| 61 | [A Las Seis](https://open.spotify.com/track/1Nh64nfJthF7mqw5SXABex) | [Joe Cuba Sextet](https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj) | [Steppin' Out](https://open.spotify.com/album/3Mp9G6tYLsGvft2FUw8FEI) | 2:43 |
+| 60 | [A Las Seis](https://open.spotify.com/track/1Nh64nfJthF7mqw5SXABex) | [Joe Cuba Sextet](https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj) | [Steppin' Out](https://open.spotify.com/album/3Mp9G6tYLsGvft2FUw8FEI) | 2:43 |
+| 61 | [Hermano](https://open.spotify.com/track/0odZdAJaLd4NEyYXb3t1Wc) | [El Timba](https://open.spotify.com/artist/0O0OynmaAvfmXAsBwNHBwi) | [Descargando](https://open.spotify.com/album/4EuoJF1Bd372NCI5C2fH4z) | 4:54 |
 | 62 | [El Cantante](https://open.spotify.com/track/6wUm4Hpp5LchMaiNhZ6JpX) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Doble Filo](https://open.spotify.com/album/0Dc2VpMZLD3dg7yZD7oTUA) | 6:20 |
 | 63 | [Amor Perfecto](https://open.spotify.com/track/6aceQoxzSrHTvrmcAEOXaY) | [Alex Matos](https://open.spotify.com/artist/4nwpr7Msz5dvHftcPNkDRC) | [El Salsero De Ahora](https://open.spotify.com/album/3assxvTXExDZ6uxjvxojvQ) | 4:35 |
 | 64 | [Lupita](https://open.spotify.com/track/65ozlDhNyDL0JsZvPCwMjP) | [Chiquito Team Band](https://open.spotify.com/artist/0vEYOFlkqy2FUy1UOF7RiV) | [La Industria Salsera](https://open.spotify.com/album/7yR0GaIJhP25tHzD0lQVzq) | 3:48 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Dfa7kD6dg.md) - [plain]
 | 87 | [La Lotería](https://open.spotify.com/track/1i8gsWMG0WxYoPMw498quW) | [Andy Harlow](https://open.spotify.com/artist/0OLtqzqTcmE2LTN8t5CacG) | [Sorpresa La Flauta](https://open.spotify.com/album/54Isd9McgLu4F3BuV06MZJ) | 3:16 |
 | 88 | [Para Chango](https://open.spotify.com/track/7nabjegyfwRCiFX11anzb1) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Con Bajo Y Todo](https://open.spotify.com/album/6ftic7itzGAW7BDdvi2PMx) | 3:35 |
 | 89 | [Tutuneco](https://open.spotify.com/track/2rGtqPVV2JQPkuxH3HRiu2) | [Cortijo Y Su Combo](https://open.spotify.com/artist/4S3JIryQM3mFVhXmQKjtma), [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [La Epoca de Oro, Vol\. 1](https://open.spotify.com/album/3DeeTSAsbputi8InQLDtui) | 2:38 |
-| 90 | [Me Voy Pa Las Villas](https://open.spotify.com/track/5HCX01ucQXm6DQBO3z0aTh) | [La Playa Sextet](https://open.spotify.com/artist/2sOjbVJo60mStZl19NDcUn), [Tito Rodriguez](https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS) | [Separala También! Cantando Tito Rodríguez](https://open.spotify.com/album/0NnMASskJ96x4sESAFpMCR) | 2:53 |
-| 91 | [Mambo Gozón](https://open.spotify.com/track/2P12SmID74922J8JwQd90j) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Here comes..\. Tito Puente!](https://open.spotify.com/album/4MOl4SznY1dtfg7MZYfROw) | 2:47 |
+| 90 | [Mambo Gozón](https://open.spotify.com/track/2P12SmID74922J8JwQd90j) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Here comes..\. Tito Puente!](https://open.spotify.com/album/4MOl4SznY1dtfg7MZYfROw) | 2:47 |
+| 91 | [Me Voy Pa Las Villas](https://open.spotify.com/track/5HCX01ucQXm6DQBO3z0aTh) | [La Playa Sextet](https://open.spotify.com/artist/2sOjbVJo60mStZl19NDcUn), [Tito Rodriguez](https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS) | [Separala También! Cantando Tito Rodríguez](https://open.spotify.com/album/0NnMASskJ96x4sESAFpMCR) | 2:53 |
 | 92 | [Salsa Na' Ma'](https://open.spotify.com/track/2ltnuPephnEI9MTjcRfvto) | [Azuquita Y Su Orquesta Melao](https://open.spotify.com/artist/4DRX9H3y8WLxqYspsWHpFR) | [Pura Salsa](https://open.spotify.com/album/7riHCrKoLv3Y0Vg9tnDWg1) | 4:35 |
 | 93 | [Quiéreme Tal Como Soy](https://open.spotify.com/track/1KbbxKaj3LK7z8nC3TawqF) | [El Gran Combo De New York](https://open.spotify.com/artist/10fmLCyVtSdgMCYnjIPCpu) | [Salsa Sensual, Vol\. 1](https://open.spotify.com/album/5d1h1b8M4qsCFjt1Tg8Edj) | 4:52 |
 | 94 | [Puerto Rico 2006 \(feat\. Eddie Palmieri\)](https://open.spotify.com/track/2ZDRSkczBnN0i1l4Ofybg9) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2), [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C) | [Decision Unanime](https://open.spotify.com/album/3koPizaQfKKMX9Fbp8j7fz) | 5:23 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Dfa7kD6dg.md) - [plain]
 | 125 | [Conciencia](https://open.spotify.com/track/05K2YWeCYYBgPWFj8TT4uK) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [El Caballero De La Salsa \- La Historia Tropical](https://open.spotify.com/album/4AKdvM4gN7a6EWtBywDVcA) | 5:33 |
 | 126 | [Casi Te Envidio](https://open.spotify.com/track/14ZtWHRc05sX1qy4dL89ID) | [Andy Montañez](https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v) | [Serie Millennium](https://open.spotify.com/album/7FCjuXUkL6AgssIVl57z7C) | 5:20 |
 
-Snapshot ID: `MTY2MDc2MTAyOSwwMDAwMDAwMDBiMTY3ODFmY2ViMzZjZmQ5YzQ2MmE0ZTMxNzgyOGVl`
+Snapshot ID: `MTY2MDc2MTAyOSwwMDAwMDAwMDM5Y2RiYjRhN2RlMWU2NzdmODkzM2YzZDIzNzM1NTQz`

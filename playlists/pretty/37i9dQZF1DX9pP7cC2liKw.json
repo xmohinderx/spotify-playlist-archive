@@ -1,12 +1,12 @@
 {
   "description": "Immerse yourself in the mysticism of Tulum!",
-  "num_followers": 51982,
+  "num_followers": 52200,
   "original_name": "Tulum Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzAxNTczNCwwMDAwMDAwMDllZjYzY2UxMTUyZmFkMmZkMDU3YmQwMTViOWVmNTdi",
+  "snapshot_id": "MTY2MzMwMzc0OCwwMDAwMDAwMGM5MmRiYzNmMDRkYjgxMzUyM2E1NTgzYjIwNTA3ZTNk",
   "tracks": [
     {
       "added_at": "2022-06-15 04:26:09",
@@ -29,10 +29,10 @@
       "url": "https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW"
     },
     {
-      "added_at": "2022-06-15 04:26:09",
+      "added_at": "2022-09-16 04:49:08",
       "album": {
-        "name": "Amanecer (Remixed)",
-        "url": "https://open.spotify.com/album/7jo5KFYHLHpbVX0glLHiIA"
+        "name": "Me Duele",
+        "url": "https://open.spotify.com/album/3erPSNvC7zUmex1wdqc4uV"
       },
       "artists": [
         {
@@ -40,13 +40,13 @@
           "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
         },
         {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+          "name": "Manu Chao",
+          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
         }
       ],
-      "duration_ms": 251773,
-      "name": "To My Love - Tainy Remix",
-      "url": "https://open.spotify.com/track/5LciLoxa1gK70yIUeoHgRx"
+      "duration_ms": 196733,
+      "name": "Me Duele",
+      "url": "https://open.spotify.com/track/2jG2P21A1c45YU0Z1euaNB"
     },
     {
       "added_at": "2022-08-03 03:35:17",
@@ -211,6 +211,26 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
+        "name": "Amanecer (Remixed)",
+        "url": "https://open.spotify.com/album/7jo5KFYHLHpbVX0glLHiIA"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        }
+      ],
+      "duration_ms": 251773,
+      "name": "To My Love - Tainy Remix",
+      "url": "https://open.spotify.com/track/5LciLoxa1gK70yIUeoHgRx"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
         "name": "Dancy Party",
         "url": "https://open.spotify.com/album/3hifRrzUOFSl3BJo2JUqBE"
       },
@@ -249,22 +269,6 @@
       "url": "https://open.spotify.com/track/1wXeMZqegwYZ2zWtrwvXab"
     },
     {
-      "added_at": "2022-07-01 02:43:42",
-      "album": {
-        "name": "Sacatela",
-        "url": "https://open.spotify.com/album/06nue4Ry0BmfBW1aX3RWNe"
-      },
-      "artists": [
-        {
-          "name": "La Femme",
-          "url": "https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI"
-        }
-      ],
-      "duration_ms": 172026,
-      "name": "Sacatela",
-      "url": "https://open.spotify.com/track/7AQSnI0NylqRyXJTvN1Aku"
-    },
-    {
       "added_at": "2022-09-03 03:55:19",
       "album": {
         "name": "Al Otro Lado del Mar",
@@ -281,20 +285,20 @@
       "url": "https://open.spotify.com/track/2f3mTJUP0bhLf9q9jgfIeQ"
     },
     {
-      "added_at": "2022-06-15 04:26:09",
+      "added_at": "2022-07-01 02:43:42",
       "album": {
-        "name": "Amanecer",
-        "url": "https://open.spotify.com/album/7GQzUp6R1CtA9CmsVZg090"
+        "name": "Sacatela",
+        "url": "https://open.spotify.com/album/06nue4Ry0BmfBW1aX3RWNe"
       },
       "artists": [
         {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+          "name": "La Femme",
+          "url": "https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI"
         }
       ],
-      "duration_ms": 269346,
-      "name": "Algo Est\u00e1 Cambiando",
-      "url": "https://open.spotify.com/track/5dLz5CRzW8RcNEptn0NtOi"
+      "duration_ms": 172026,
+      "name": "Sacatela",
+      "url": "https://open.spotify.com/track/7AQSnI0NylqRyXJTvN1Aku"
     },
     {
       "added_at": "2022-08-19 01:51:18",
@@ -311,6 +315,22 @@
       "duration_ms": 266401,
       "name": "Ain't Nobody - 12\" Mix",
       "url": "https://open.spotify.com/track/6RJp9ofpbFw1HCZ2gW3YrU"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Amanecer",
+        "url": "https://open.spotify.com/album/7GQzUp6R1CtA9CmsVZg090"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        }
+      ],
+      "duration_ms": 269346,
+      "name": "Algo Est\u00e1 Cambiando",
+      "url": "https://open.spotify.com/track/5dLz5CRzW8RcNEptn0NtOi"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -405,22 +425,6 @@
       "url": "https://open.spotify.com/track/5WgW9bG91h4zRUnBr97d6c"
     },
     {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Chan Chan",
-        "url": "https://open.spotify.com/album/4i8oCrEGBTqhFW4rjTPkgp"
-      },
-      "artists": [
-        {
-          "name": "Iseo & Dodosound",
-          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
-        }
-      ],
-      "duration_ms": 260320,
-      "name": "Chan Chan",
-      "url": "https://open.spotify.com/track/7wQ3PHT0oNWwjPuTZ2z7cS"
-    },
-    {
       "added_at": "2022-08-19 02:17:00",
       "album": {
         "name": "Wish Wish",
@@ -435,6 +439,22 @@
       "duration_ms": 254709,
       "name": "Estupor",
       "url": "https://open.spotify.com/track/6h6GKLDOKNfdDMTZa24GGF"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Chan Chan",
+        "url": "https://open.spotify.com/album/4i8oCrEGBTqhFW4rjTPkgp"
+      },
+      "artists": [
+        {
+          "name": "Iseo & Dodosound",
+          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
+        }
+      ],
+      "duration_ms": 260320,
+      "name": "Chan Chan",
+      "url": "https://open.spotify.com/track/7wQ3PHT0oNWwjPuTZ2z7cS"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -473,6 +493,22 @@
       "url": "https://open.spotify.com/track/7kNUjyZQ1YWN1Nv4JvTaiD"
     },
     {
+      "added_at": "2022-08-19 02:57:24",
+      "album": {
+        "name": "Spin",
+        "url": "https://open.spotify.com/album/6GejDhVjHKAmQnPkyW6csf"
+      },
+      "artists": [
+        {
+          "name": "Triathalon",
+          "url": "https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3"
+        }
+      ],
+      "duration_ms": 175250,
+      "name": "XP",
+      "url": "https://open.spotify.com/track/6wYZP0PNiWW5LaAB9JNyQb"
+    },
+    {
       "added_at": "2022-06-15 04:26:09",
       "album": {
         "name": "V I N C E N T",
@@ -491,22 +527,6 @@
       "duration_ms": 234213,
       "name": "Greener",
       "url": "https://open.spotify.com/track/63m0IDtaFrriTDW9vDqoXy"
-    },
-    {
-      "added_at": "2022-08-19 02:57:24",
-      "album": {
-        "name": "Spin",
-        "url": "https://open.spotify.com/album/6GejDhVjHKAmQnPkyW6csf"
-      },
-      "artists": [
-        {
-          "name": "Triathalon",
-          "url": "https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3"
-        }
-      ],
-      "duration_ms": 175250,
-      "name": "XP",
-      "url": "https://open.spotify.com/track/6wYZP0PNiWW5LaAB9JNyQb"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -853,22 +873,6 @@
       "url": "https://open.spotify.com/track/1jGkLUJCl46NmXIM6rUghn"
     },
     {
-      "added_at": "2022-08-08 21:58:41",
-      "album": {
-        "name": "Ven Vamos",
-        "url": "https://open.spotify.com/album/3E8idq0ECWEwgb8FpbZCdG"
-      },
-      "artists": [
-        {
-          "name": "Mula",
-          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
-        }
-      ],
-      "duration_ms": 203265,
-      "name": "Ven Vamos",
-      "url": "https://open.spotify.com/track/0cHpCzglPxJodZNGM5DsRD"
-    },
-    {
       "added_at": "2022-06-15 04:26:09",
       "album": {
         "name": "Turn Around",
@@ -883,6 +887,22 @@
       "duration_ms": 437241,
       "name": "Turn Around",
       "url": "https://open.spotify.com/track/3C8jZgiUP0pP1l58837NzH"
+    },
+    {
+      "added_at": "2022-08-08 21:58:41",
+      "album": {
+        "name": "Ven Vamos",
+        "url": "https://open.spotify.com/album/3E8idq0ECWEwgb8FpbZCdG"
+      },
+      "artists": [
+        {
+          "name": "Mula",
+          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
+        }
+      ],
+      "duration_ms": 203265,
+      "name": "Ven Vamos",
+      "url": "https://open.spotify.com/track/0cHpCzglPxJodZNGM5DsRD"
     },
     {
       "added_at": "2022-08-11 18:18:05",
@@ -971,26 +991,6 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Ch'usay Remixes",
-        "url": "https://open.spotify.com/album/246AUaB8i3CzFdfpSZHcBX"
-      },
-      "artists": [
-        {
-          "name": "Novalima",
-          "url": "https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI"
-        },
-        {
-          "name": "Captain Planet",
-          "url": "https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi"
-        }
-      ],
-      "duration_ms": 207621,
-      "name": "Paso a Huella - Captain Planet Remix",
-      "url": "https://open.spotify.com/track/31riMJMbPsDBPpHS5Yi0Ja"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
         "name": "Balance",
         "url": "https://open.spotify.com/album/2nwchash9HLqv22iAUBrKx"
       },
@@ -1011,6 +1011,26 @@
       "duration_ms": 268956,
       "name": "Xica Xica",
       "url": "https://open.spotify.com/track/1IkN4xIoHRSkk0j5t50S42"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Ch'usay Remixes",
+        "url": "https://open.spotify.com/album/246AUaB8i3CzFdfpSZHcBX"
+      },
+      "artists": [
+        {
+          "name": "Novalima",
+          "url": "https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI"
+        },
+        {
+          "name": "Captain Planet",
+          "url": "https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi"
+        }
+      ],
+      "duration_ms": 207621,
+      "name": "Paso a Huella - Captain Planet Remix",
+      "url": "https://open.spotify.com/track/31riMJMbPsDBPpHS5Yi0Ja"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1051,6 +1071,22 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
+        "name": "Batuco",
+        "url": "https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX"
+      },
+      "artists": [
+        {
+          "name": "Son Rompe Pera",
+          "url": "https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V"
+        }
+      ],
+      "duration_ms": 220866,
+      "name": "P\u00e1jaro Cenzontle",
+      "url": "https://open.spotify.com/track/3QYQIrQ5ccLToSwFJ1cZcW"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
         "name": "Amansara",
         "url": "https://open.spotify.com/album/14DTBgOPUSBQwiK0DCzaLl"
       },
@@ -1067,22 +1103,6 @@
       "duration_ms": 286000,
       "name": "Jardines",
       "url": "https://open.spotify.com/track/7at4rkvJsE7CO1gXlcJpDM"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Batuco",
-        "url": "https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX"
-      },
-      "artists": [
-        {
-          "name": "Son Rompe Pera",
-          "url": "https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V"
-        }
-      ],
-      "duration_ms": 220866,
-      "name": "P\u00e1jaro Cenzontle",
-      "url": "https://open.spotify.com/track/3QYQIrQ5ccLToSwFJ1cZcW"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1107,22 +1127,6 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Xaxoeira",
-        "url": "https://open.spotify.com/album/0T1MHuHlxRGyGqZT1KGubi"
-      },
-      "artists": [
-        {
-          "name": "Xique-Xique",
-          "url": "https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp"
-        }
-      ],
-      "duration_ms": 347600,
-      "name": "1542",
-      "url": "https://open.spotify.com/track/10glJ8ARN1G9ESFF9s00yk"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
         "name": "Cantos de Vision",
         "url": "https://open.spotify.com/album/2FFMtf8Log72Ow5A3ExNv5"
       },
@@ -1135,6 +1139,22 @@
       "duration_ms": 329719,
       "name": "Danza de Vision",
       "url": "https://open.spotify.com/track/00GwxMge3vIOMeV43Erckc"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Xaxoeira",
+        "url": "https://open.spotify.com/album/0T1MHuHlxRGyGqZT1KGubi"
+      },
+      "artists": [
+        {
+          "name": "Xique-Xique",
+          "url": "https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp"
+        }
+      ],
+      "duration_ms": 347600,
+      "name": "1542",
+      "url": "https://open.spotify.com/track/10glJ8ARN1G9ESFF9s00yk"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1227,6 +1247,22 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
+        "name": "Forevernevermore",
+        "url": "https://open.spotify.com/album/2NhQapO6mTOWbip0fvru36"
+      },
+      "artists": [
+        {
+          "name": "Moodymann",
+          "url": "https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX"
+        }
+      ],
+      "duration_ms": 264360,
+      "name": "Don\u2019t You Want My Love",
+      "url": "https://open.spotify.com/track/4L60ULqvJpqFReaNwmq8F0"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
         "name": "La Cura",
         "url": "https://open.spotify.com/album/0SMT9ClQIEh49gPEIPH1Nf"
       },
@@ -1245,52 +1281,24 @@
       "url": "https://open.spotify.com/track/0UVwUs9TMKgee3kvE2uMxC"
     },
     {
-      "added_at": "2022-06-15 04:26:09",
+      "added_at": "2022-08-05 19:16:49",
       "album": {
-        "name": "Forevernevermore",
-        "url": "https://open.spotify.com/album/2NhQapO6mTOWbip0fvru36"
+        "name": "Quemonito",
+        "url": "https://open.spotify.com/album/1YglhALq6PbY7GjqO1rKVb"
       },
       "artists": [
         {
-          "name": "Moodymann",
-          "url": "https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX"
-        }
-      ],
-      "duration_ms": 264360,
-      "name": "Don\u2019t You Want My Love",
-      "url": "https://open.spotify.com/track/4L60ULqvJpqFReaNwmq8F0"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "R\u00fambala",
-        "url": "https://open.spotify.com/album/4yf3TyT75f33sAq1o1ORuR"
-      },
-      "artists": [
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+        },
         {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+          "name": "Raylen",
+          "url": "https://open.spotify.com/artist/0Xt8WVzuoVq7yf1z4RuX0l"
         }
       ],
-      "duration_ms": 178823,
-      "name": "R\u00fambala",
-      "url": "https://open.spotify.com/track/0YjGcWlFaksNtsCIxfrmur"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Theme from Selva",
-        "url": "https://open.spotify.com/album/6ht7LwHxyNVk8gkqGaK6mM"
-      },
-      "artists": [
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        }
-      ],
-      "duration_ms": 340720,
-      "name": "Nineteen Hundred and Eighty Five",
-      "url": "https://open.spotify.com/track/65KrPjUkVnvUUfQaDGn6n7"
+      "duration_ms": 220463,
+      "name": "Quemonito",
+      "url": "https://open.spotify.com/track/7BpJ0z0MG7aAOeQfudwFpJ"
     }
   ],
   "unique_name": "Tulum Vibes",

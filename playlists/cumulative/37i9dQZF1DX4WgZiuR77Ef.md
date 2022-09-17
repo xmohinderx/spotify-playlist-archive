@@ -4,7 +4,7 @@
 
 > New funky songs with a classic funky sound\. Cover: Lettuce
 
-169 songs - 11 hr 48 min - [published](https://open.spotify.com/playlist/2eceFp3qX8eTXa9OinhIeU)
+170 songs - 11 hr 53 min - [published](https://open.spotify.com/playlist/2eceFp3qX8eTXa9OinhIeU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [The Wolf](https://open.spotify.com/track/27iGHkO0uIiMgHuwLNlPup) | [The Spencer Lee Band](https://open.spotify.com/artist/3nIzSJRQzH8v2DFs7iaXDi) | [The Spencer Lee Band](https://open.spotify.com/album/2TuywyPv1tT2IglXMUQFCf) | 2:54 | 2020-10-30 | 2022-04-09 |
 | [Turn up the Sound](https://open.spotify.com/track/3xDvyv5KF5Jvnycgutrgb9) | [The Brooks](https://open.spotify.com/artist/7GnRzYsBXvLyhcdFEtCAei) | [Turn up the Sound](https://open.spotify.com/album/29y8juHtLWWahTrNE7A6uz) | 3:49 | 2020-10-30 |  |
 | [Until I Met You](https://open.spotify.com/track/7uil4nygkuyV7Fnv3ujt7f) | [cleaveland jones](https://open.spotify.com/artist/0sCCnNKvvYWRFZqJQRoiqM) | [Heart & Sol](https://open.spotify.com/album/4vMxEkLHiF6ETEtqB85EmD) | 3:20 | 2020-10-30 |  |
+| [Very Fine \- Pts\. 1 & 2](https://open.spotify.com/track/3NGlYT0YnxSL3tF0F7bBWV) | [Neal Francis](https://open.spotify.com/artist/2e5y5Gs5lgnDmiY4TKLsq3) | [Very Fine, Pts\. 1 & 2 b/w Strawberry Letter 23](https://open.spotify.com/album/07SAHKc8swr296nZdY2Bu8) | 5:37 | 2022-09-16 |  |
 | [Vodka & Tonic](https://open.spotify.com/track/0EzHA0WMp6WkyVjSbHK1ul) | [Mashup & Cozy Condition](https://open.spotify.com/artist/4Xgz0ZH1mIhD1E5wSjrj1V) | [Vodka & Tonic](https://open.spotify.com/album/4PjqWdyFYyPxBwN789OLFR) | 3:31 | 2022-02-25 |  |
 | [Wanna Do \(Funk With You\)](https://open.spotify.com/track/7Mg0Lbc0ehV83usNMmZlKi) | [The Aquaducks](https://open.spotify.com/artist/1gODfHkJMTmn5Kmyy3M6LW) | [Wanna Do \(Funk With You\)](https://open.spotify.com/album/1bLTjPXpIsnU3WqBwxM5hH) | 3:21 | 2020-10-30 |  |
 | [Watcha Want From Me](https://open.spotify.com/track/1E6CbYhTHxWgRk9ZIH4Gj5) | [Brooklyn Funk Essentials](https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA), [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69), [Desmond Foster](https://open.spotify.com/artist/3qqFMYoELTj4g9yzuQEALf) | [Watcha Want From Me / Miss Mess](https://open.spotify.com/album/118Ow1hO2UfQbiZjeEPAcj) | 4:28 | 2020-10-30 | 2022-04-09 |

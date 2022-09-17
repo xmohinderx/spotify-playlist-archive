@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "The latest tracks from Mad Decent and friends. New Deluxe album from Diplo, plus the latest cuts from Korn\u00e9l Kov\u00e1cs and Aluna, Lolahol, TDJ, niina, Ayra Star, Noizu, and more.",
+  "description": "The latest tracks from Mad Decent and friends. New Life and Death remixes of Diplo, plus the latest cuts from NxxxxxS, Lolahol, TDJ, niina, Ayra Star, and more.",
   "name": "Mad Decent Weekly",
   "published_playlist_ids": [
     "1Yjpd6pirY2pY0xv9m96EC"
@@ -848,6 +848,24 @@
     },
     {
       "album": {
+        "name": "Cutie",
+        "url": "https://open.spotify.com/album/0xhMSimANUFkwXpS5n1HSl"
+      },
+      "artists": [
+        {
+          "name": "Shanti Celeste",
+          "url": "https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384495,
+      "name": "Cutie",
+      "url": "https://open.spotify.com/track/4JdUdTVkEDNFZtzyW8hBZH"
+    },
+    {
+      "album": {
         "name": "Dancing In The Dark",
         "url": "https://open.spotify.com/album/1GK3SLO7vfSFtRbNL2tPJh"
       },
@@ -1033,6 +1051,40 @@
       "duration_ms": 197276,
       "name": "Don't Be Afraid - Blu DeTiger Remix",
       "url": "https://open.spotify.com/track/0t1ba5M0QkP1Jh1rg3BKCk"
+    },
+    {
+      "album": {
+        "name": "Diplo (Life and Death Remixes)",
+        "url": "https://open.spotify.com/album/2upODwjr88W3EhHghbEtDv"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Damian Lazarus",
+          "url": "https://open.spotify.com/artist/3EIJ8wiUHbgkRCt5cpRrQv"
+        },
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        },
+        {
+          "name": "DJ Tennis",
+          "url": "https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t"
+        },
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232279,
+      "name": "Don't Be Afraid - DJ Tennis & Carlita Remix",
+      "url": "https://open.spotify.com/track/6Vu7uVbGQBCR5S051RPEEF"
     },
     {
       "album": {
@@ -2382,6 +2434,28 @@
     },
     {
       "album": {
+        "name": "\u2661",
+        "url": "https://open.spotify.com/album/2VyYH4z9IR5IBSc3To5cQ0"
+      },
+      "artists": [
+        {
+          "name": "Ela Minus",
+          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
+        },
+        {
+          "name": "DJ Python",
+          "url": "https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335043,
+      "name": "Kiss U",
+      "url": "https://open.spotify.com/track/5FnDR13ZiaiQcYk8oIHTuo"
+    },
+    {
+      "album": {
         "name": "lavender's love",
         "url": "https://open.spotify.com/album/13yS7mBNx7vaVK92kNokbo"
       },
@@ -2453,7 +2527,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 233462,
       "name": "Let You Go - Sebastian Ingrosso & Desembra Remix",
       "url": "https://open.spotify.com/track/0nMwQVS9TDSMdg9cI0HCzA"
@@ -2961,7 +3035,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 120077,
       "name": "NIKE DRIP",
       "url": "https://open.spotify.com/track/1HVxpIsL3bvJ7p47VLW62x"
@@ -2987,6 +3061,28 @@
       "duration_ms": 231111,
       "name": "No One Dies From Love (DJ_Dave Edit)",
       "url": "https://open.spotify.com/track/20q0OglvgOtzxH2YexMNXl"
+    },
+    {
+      "album": {
+        "name": "No Witness",
+        "url": "https://open.spotify.com/album/0HsG2moofrvt0hGo2iYuLb"
+      },
+      "artists": [
+        {
+          "name": "NxxxxxS",
+          "url": "https://open.spotify.com/artist/36r4ltZmLqtiDBdAs9XSqn"
+        },
+        {
+          "name": "Apoc Krysis",
+          "url": "https://open.spotify.com/artist/5FWqTrWj74TUJLstHwCDQE"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168311,
+      "name": "No Witness",
+      "url": "https://open.spotify.com/track/0GGepyK375cp1jN8Z9ZTK8"
     },
     {
       "album": {
@@ -3259,6 +3355,50 @@
       "duration_ms": 205000,
       "name": "Overloading (OVERDOSE)",
       "url": "https://open.spotify.com/track/4lVEVXrlQlXPdYWMGTwrFe"
+    },
+    {
+      "album": {
+        "name": "Ping Pong",
+        "url": "https://open.spotify.com/album/5B6FH2f4rOJb9xFndwd05e"
+      },
+      "artists": [
+        {
+          "name": "Kaydy Cain",
+          "url": "https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA"
+        },
+        {
+          "name": "La Zowi",
+          "url": "https://open.spotify.com/artist/1jB62pOe5WpGiHOBDtKBBG"
+        },
+        {
+          "name": "Kabasaki",
+          "url": "https://open.spotify.com/artist/4rO00pQq33bIv73QyJdivX"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154434,
+      "name": "Ping Pong",
+      "url": "https://open.spotify.com/track/2nsYdAiS7abEcku6JAw8Zs"
+    },
+    {
+      "album": {
+        "name": "PIRATE RADIO*",
+        "url": "https://open.spotify.com/album/039CFhV3mgb8ujdSz0Kpp3"
+      },
+      "artists": [
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189440,
+      "name": "PIRATE RADIO*",
+      "url": "https://open.spotify.com/track/04sZfyhVJs0feZjVDq53Y8"
     },
     {
       "album": {
@@ -4093,7 +4233,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 176000,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/0DT6WIxX1xYS4aaMhnle3e"
@@ -4133,7 +4273,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 173826,
       "name": "Ten\u00eda Raz\u00f3n",
       "url": "https://open.spotify.com/track/13byK69wHdWtPt0QdgDPfw"
@@ -4191,7 +4331,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 241654,
       "name": "The Way You Say",
       "url": "https://open.spotify.com/track/5EaL52RxTRkEkNIxMN50tc"
@@ -4328,6 +4468,24 @@
     },
     {
       "album": {
+        "name": "Held My Gaze",
+        "url": "https://open.spotify.com/album/0kOq0DzYEC6XhX7BZ0kwPd"
+      },
+      "artists": [
+        {
+          "name": "Lecx Stacy",
+          "url": "https://open.spotify.com/artist/3hf2fbkCVahsazNW73SovO"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150509,
+      "name": "Undone",
+      "url": "https://open.spotify.com/track/0t4xvKr8ZXHrcHKuNVKjst"
+    },
+    {
+      "album": {
         "name": "Vest & Boxers",
         "url": "https://open.spotify.com/album/1Grk1vw2BVPcwvci9xcHy1"
       },
@@ -4412,6 +4570,36 @@
     },
     {
       "album": {
+        "name": "Diplo (Life and Death Remixes)",
+        "url": "https://open.spotify.com/album/2upODwjr88W3EhHghbEtDv"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Seth Troxler",
+          "url": "https://open.spotify.com/artist/3JkLFcTej6tdwZoQT6Nx4B"
+        },
+        {
+          "name": "Desire",
+          "url": "https://open.spotify.com/artist/2OuSnRT9BKAvFuw0yoTim0"
+        },
+        {
+          "name": "Danny Daze",
+          "url": "https://open.spotify.com/artist/6xYBrFTJUOzyzMvhUiFHuB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243857,
+      "name": "Waiting For You - Danny Daze Sun & Waves Mix",
+      "url": "https://open.spotify.com/track/2rxymIokJQQ8QqiGZpCVvb"
+    },
+    {
+      "album": {
         "name": "Welcome To The People",
         "url": "https://open.spotify.com/album/7HZzmPZE3gKxhzVaIJ11KF"
       },
@@ -4453,7 +4641,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 225800,
       "name": "Waterfall - TOKiMONSTA Remix",
       "url": "https://open.spotify.com/track/6mFlyvOviPhIS0K0QLCpVp"

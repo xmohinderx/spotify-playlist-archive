@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 
 > A soundscape of chilled electronic and compositional ambient music, to help you unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,120 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,137 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 | 42 | [Chaos](https://open.spotify.com/track/7BBZ6Il2sGyuNaaHiUJS83) | [Fletcher Reed](https://open.spotify.com/artist/2sQKM93VxtEcafQ1f1ukgl) | [Chaos & Clarity](https://open.spotify.com/album/3K9vnQRCyyNbOMHLAh3wvV) | 2:28 |
 | 43 | [Brotherhood](https://open.spotify.com/track/035qofHWoDag0pg1e8gY73) | [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3) | [Brotherhood](https://open.spotify.com/album/6mUllKS0OUyGGwso5gr9vP) | 6:10 |
 | 44 | [Sacred \- Radio Edit](https://open.spotify.com/track/5gL8tr0Fr2oao8bE8epUXO) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Sacred](https://open.spotify.com/album/4DEhXZRlriX0ZRJvE5dU9i) | 3:26 |
-| 45 | [Adderall](https://open.spotify.com/track/0pAGo08jBvebuxMUoqvulX) | [Asierhans](https://open.spotify.com/artist/4hN3QFUZ6g9QKTvy5TI0qU) | [Day One](https://open.spotify.com/album/2ltWCghk7udj6KAhKxJZnb) | 4:56 |
-| 46 | [Tottertot](https://open.spotify.com/track/3MTwJVEBKql21xN1hdSLlp) | [Inwards](https://open.spotify.com/artist/542nHHjo4wRmP3AbeJWkse) | [Bright Serpent](https://open.spotify.com/album/5qi4aoHpcDfsoTbVsjPXwI) | 4:15 |
+| 45 | [Tottertot](https://open.spotify.com/track/3MTwJVEBKql21xN1hdSLlp) | [Inwards](https://open.spotify.com/artist/542nHHjo4wRmP3AbeJWkse) | [Bright Serpent](https://open.spotify.com/album/5qi4aoHpcDfsoTbVsjPXwI) | 4:15 |
+| 46 | [Adderall](https://open.spotify.com/track/0pAGo08jBvebuxMUoqvulX) | [Asierhans](https://open.spotify.com/artist/4hN3QFUZ6g9QKTvy5TI0qU) | [Day One](https://open.spotify.com/album/2ltWCghk7udj6KAhKxJZnb) | 4:56 |
 | 47 | [Opals](https://open.spotify.com/track/0g9lBzTwOmnx3zLUTR9x62) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Opals](https://open.spotify.com/album/6MBYve8rGo30nOvcnYMZ8x) | 2:24 |
 | 48 | [El Azul del Cielo \- Mente Orgánica Remix](https://open.spotify.com/track/0J6AcQFq8RnR4jWYYZNPbm) | [Buendia](https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH), [De Juepuchas](https://open.spotify.com/artist/7oVSI0ddXNkjEtvLoh0SRC), [Mente Orgánica](https://open.spotify.com/artist/1wfwGvcBGamXiXxuaExHRT), [Romboi](https://open.spotify.com/artist/7AevNCcvxBEy5z42d2A2RO) | [El Azul del Cielo \(Remix\)](https://open.spotify.com/album/7qYsWtbEwidXgIjiiZ0u1I) | 7:00 |
 | 49 | [Love Is Alive](https://open.spotify.com/track/4NRWOq8GohOo62jFxIzMF8) | [Mozez](https://open.spotify.com/artist/3r6uJM01I6meTehVwh0q2b), [DJ Celeste Lear](https://open.spotify.com/artist/6Z8VsD3APPWszUaJi65y9d) | [Love Is Alive](https://open.spotify.com/album/02dSIhVa4IQs0xHxOsgHUt) | 3:42 |
 | 50 | [Soft Yellow](https://open.spotify.com/track/4b1QBUZ4hJrJkyOgODZLu9) | [Feather Beds](https://open.spotify.com/artist/5LCKLQeNgnfx4MnJ0ywbK6) | [Blooming](https://open.spotify.com/album/0Nn94kNY014MAvNTuVV9j7) | 3:45 |
 
-Snapshot ID: `MTYzNDMwNTY0NywwMDAwMDAwMDc3ODhjYzkxZjhiMDAxNzBkYjcyOGQ5MmM4MDExZDUw`
+Snapshot ID: `MTYzNDMwNTY0NywwMDAwMDAwMDk0ZmI1NTFlY2UyY2YwZGM5OGFkM2M5MTRhNTY5YzAy`

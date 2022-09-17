@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 
 > The iconic songs celebrating love across the African continent from the 2000's to date
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,582 likes - 100 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,600 likes - 100 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 | 70 | [You're the One](https://open.spotify.com/track/4fxwbUSI6jF4XdnvCUVG97) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Elements](https://open.spotify.com/album/4qe0NJuKzO5iWPv1aFl3l3) | 3:20 |
 | 71 | [Aye](https://open.spotify.com/track/7wh3ROxsX7i6GflbQGhGo7) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Aye](https://open.spotify.com/album/54KREqr92Gm0dbTLGHp0JE) | 3:55 |
 | 72 | [Eminado \(feat\. Don Jazzy\)](https://open.spotify.com/track/3Gxold2xHisD55irEJ7du7) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Don Jazzy](https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a) | [Once Upon a Time](https://open.spotify.com/album/26VFfANkR1FYyyTwtCi4eG) | 3:50 |
-| 73 | [True Love \(feat\. Tay Iwar & Projexx\)](https://open.spotify.com/track/4204hwPYuToiuSunPFUoML) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 4:07 |
-| 74 | [Love My Baby](https://open.spotify.com/track/7xdHQUxVj0aOAvUOGLCYj3) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Superstar](https://open.spotify.com/album/16xW2AvG6yVXJJ0ZYJ5Dlb) | 4:06 |
+| 73 | [True Love \(feat\. Tay Iwar & Projexx\)](https://open.spotify.com/track/4204hwPYuToiuSunPFUoML) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 4:07 |
+| 74 | [Love My Baby](https://open.spotify.com/track/7xdHQUxVj0aOAvUOGLCYj3) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Superstar](https://open.spotify.com/album/16xW2AvG6yVXJJ0ZYJ5Dlb) | 4:06 |
 | 75 | [Turn You On](https://open.spotify.com/track/1Bh3o07Kfua1iTnxuWDwnp) | [Mi Casa](https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0) | [Su Casa](https://open.spotify.com/album/4Dey5FtFdBPkU1uxJ45DL8) | 5:02 |
 | 76 | [Khaleny Fe Hodnak](https://open.spotify.com/track/6yVGUtmHwDsqqXs1Lak423) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Tegy Ntrahn](https://open.spotify.com/album/45VciPIELkkQgWSkS2QLlq) | 3:16 |
 | 77 | [Yes/No](https://open.spotify.com/track/47wpq9ChR1Oh4SgXuM0SwD) | [Banky W.](https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3) | [R & BW](https://open.spotify.com/album/1AsBBWRFndiye1Z4oPEXyt) | 4:07 |

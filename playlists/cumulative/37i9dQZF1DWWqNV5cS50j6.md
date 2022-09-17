@@ -4,7 +4,7 @@
 
 > Gorillaz make anti pop.
 
-1,075 songs - 2 day 4 hr 16 min - [published](https://open.spotify.com/playlist/6mIA8qAabkwc8qms18iOYE)
+1,076 songs - 2 day 4 hr 19 min - [published](https://open.spotify.com/playlist/6mIA8qAabkwc8qms18iOYE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,7 +156,7 @@
 | [Carefree \(with Femdot & Mick Jenkins\)](https://open.spotify.com/track/5B6EIqgRxNOU08BgyKNQSS) | [KingTrey](https://open.spotify.com/artist/5dMrRJRJsvS36Mp8u2i7kv), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [Femdot](https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS) | [Carefree \(with Femdot & Mick Jenkins\)](https://open.spotify.com/album/6JnfvhlcNqcMaDA5lTqs7t) | 4:01 | 2022-09-02 |  |
 | [CASTLE](https://open.spotify.com/track/7oEQApCP6NihfIYfNqlYlw) | [Ramzoid](https://open.spotify.com/artist/2Ci3Sflo2BfC77wTwn2hbH) | [CASTLE](https://open.spotify.com/album/4bBkAvyBa03RflwiflLN8h) | 2:32 | 2020-11-13 | 2022-02-05 |
 | [Caught Up](https://open.spotify.com/track/2q6U5nhaGir7u5JdDlyBcE) | [Hans.](https://open.spotify.com/artist/41azuh0IUq4g2UPySoYp8A) | [Caught Up](https://open.spotify.com/album/3wS0gOhNVeC22pYC7OlTSn) | 2:14 | 2020-10-13\* | 2021-03-26 |
-| [cbd](https://open.spotify.com/track/00iYCxpoIxtyBr2JzhIpxx) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [cbd](https://open.spotify.com/album/4rEY8UXU7WajkXrkPdGluV) | 2:41 | 2022-01-21 |  |
+| [cbd](https://open.spotify.com/track/00iYCxpoIxtyBr2JzhIpxx) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [cbd](https://open.spotify.com/album/4rEY8UXU7WajkXrkPdGluV) | 2:41 | 2022-01-21 | 2022-09-17 |
 | [Centauri](https://open.spotify.com/track/2gRRFco9B1M912c7wX5Nhg) | [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6) | [Xeno](https://open.spotify.com/album/3coE5Zmvd7zx2LYX6tIkOV) | 2:35 | 2022-07-08 | 2022-08-06 |
 | [Chandelier](https://open.spotify.com/track/5H8jHmABa01Y7RSL8tejgh) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Chandelier](https://open.spotify.com/album/5KFOZx4trm0m4BPQ2HzrZ1) | 3:09 | 2021-08-06 | 2021-09-03 |
 | [CHANGE THE CHANNEL](https://open.spotify.com/track/7jCwlREfUpw0NCIU23hMhx) | [MIA GLADSTONE](https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF) | [CHANGE THE CHANNEL](https://open.spotify.com/album/2Gl4wXz0O0MOGAAWyEHfs6) | 2:35 | 2020-10-16 | 2021-10-16 |
@@ -855,6 +855,7 @@
 | [SNOWCONE](https://open.spotify.com/track/1VBcGsab5bnDFr319bzSWO) | [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [SNOWCONE](https://open.spotify.com/album/4niafdNQY4a0pNDNFQq4vv) | 2:35 | 2020-10-13\* | 2020-11-03 |
 | [So Good](https://open.spotify.com/track/0jcD9vl0QmFFhgIwVBvVd9) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [So Good](https://open.spotify.com/album/2khXQjXIz7YqLlkqlnE2z3) | 2:35 | 2021-09-03 | 2021-10-16 |
 | [Social Cues](https://open.spotify.com/track/7MG77R5GjIEWkAhtCdvs6v) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Social Cues](https://open.spotify.com/album/72McTB3Zkf7Jek6iKiT5zV) | 3:10 | 2021-10-15 | 2022-02-23 |
+| [SOCIAL MEDIA \(feat\. Trent the HOOLiGAN\)](https://open.spotify.com/track/2avHLHsmBA9QU97o0DrN02) | [MIA GLADSTONE](https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF), [Trent the HOOLiGAN](https://open.spotify.com/artist/2LqdHOzQiJd0WRn0dcTDe9) | [SOCIAL MEDIA \(feat\. Trent the HOOLiGAN\)](https://open.spotify.com/album/40pw9GBH8CYNjb4tVeLOA8) | 2:39 | 2022-09-16 |  |
 | [SOHO HOUSE \(feat\. Hello O'shay\)](https://open.spotify.com/track/2f6O9Os5EDdTHGvc1P4efs) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Hello O'shay](https://open.spotify.com/artist/3YzuOhp0V0YIuaukc7U3Rp) | [MEMO](https://open.spotify.com/album/6LiZ2IqRLAb9uqz6NEMsdT) | 4:28 | 2022-07-08 | 2022-08-23 |
 | [Solar System](https://open.spotify.com/track/6NrBfYq03RzmwIaBPIEmOt) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE), [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx), [Pi Ja Ma](https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA), [Boa Constrictors](https://open.spotify.com/artist/5pF04WnpEzab0at7YVjixz) | [World Wide Pop](https://open.spotify.com/album/6iUUKuRHlCy9GeKmIwbPRu) | 3:32 | 2022-07-15 | 2022-08-26 |
 | [Some Type of Way \(feat\. Savage Ga$p, Salina Killa & Valentine\)](https://open.spotify.com/track/2F1qP6hBiaBeHjwDtBdVPP) | [LLusion](https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb), [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [Salina Killa](https://open.spotify.com/artist/5dmNompaODMC0v2jhwEzS0), [Valentine](https://open.spotify.com/artist/4K3iYJtLjJcsfUlODo4bzS) | [BUFFET](https://open.spotify.com/album/2rcWSO4RL6mtSA6kGjz6hV) | 2:26 | 2021-11-19 | 2022-02-05 |

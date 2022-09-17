@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "18",
+        "url": "https://open.spotify.com/album/5or963yixy9GLAOjcmpkRt"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Hart",
+          "url": "https://open.spotify.com/artist/7CtoMP5ulZz7vn2Sdj3Hiu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174732,
+      "name": "18",
+      "url": "https://open.spotify.com/track/2UiAhExxpMfBODuhZITng7"
+    },
+    {
+      "album": {
         "name": "22 Red Flags",
         "url": "https://open.spotify.com/album/7pS5QcODadoyl9Y05FKAl7"
       },

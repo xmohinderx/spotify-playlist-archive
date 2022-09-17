@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5ITI6SEoUZMIXXkzCfr4oE">Aluna</a>'s favorite tracks\. Updated regularly\. Curated by Aluna\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-78 songs - 4 hr 50 min - not published yet
+78 songs - 4 hr 50 min - [published](https://open.spotify.com/playlist/5JHMYs72YwVvrpNONBNFT3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

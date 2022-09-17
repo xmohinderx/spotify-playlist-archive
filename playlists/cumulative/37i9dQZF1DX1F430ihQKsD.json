@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "La cr\u00e8me de la cr\u00e8me of Montr\u00e9al's music scene. Photo: Gab Bouchard",
+  "description": "La cr\u00e8me de la cr\u00e8me of Montr\u00e9al's music scene. Photo: Anatole",
   "name": "Montr\u00e9al Chill",
   "published_playlist_ids": [
     "4x7dCsK0Zzpdb88Niig3QN"
@@ -568,6 +568,24 @@
     },
     {
       "album": {
+        "name": "Cavalier solitaire",
+        "url": "https://open.spotify.com/album/3QT0rWa8ozRgt8UKxFkBHe"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e9 Napol\u00e9on",
+          "url": "https://open.spotify.com/artist/510udNBCzJbWbwV3013dIf"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224120,
+      "name": "Cavalier solitaire",
+      "url": "https://open.spotify.com/track/6dZoIrZRD5nlpRK7zI4eMA"
+    },
+    {
+      "album": {
         "name": "medium plaisir",
         "url": "https://open.spotify.com/album/1Uq4V1N2AL1eI3M4cqq9sr"
       },
@@ -797,7 +815,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 166530,
       "name": "C\u00f4te \u00e0 c\u00f4te",
       "url": "https://open.spotify.com/track/0HOam65TS747Pobhfj8qai"
@@ -1127,7 +1145,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 200253,
       "name": "Entre ici et les jours heureux",
       "url": "https://open.spotify.com/track/2PRJifg7tusptRu0HiodTt"
@@ -1395,6 +1413,24 @@
       "duration_ms": 137142,
       "name": "Free Grillz",
       "url": "https://open.spotify.com/track/60YGUQOa2e5BwtDgfltZvQ"
+    },
+    {
+      "album": {
+        "name": "Fuel",
+        "url": "https://open.spotify.com/album/5qSAmaMFLK5Cu8TliExrhe"
+      },
+      "artists": [
+        {
+          "name": "Ev Bird",
+          "url": "https://open.spotify.com/artist/5ZLnYZBRZimCRU1vJzzGsI"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132573,
+      "name": "Fuel",
+      "url": "https://open.spotify.com/track/4QeienZEwF2dZ09pIvDllc"
     },
     {
       "album": {
@@ -2480,6 +2516,24 @@
     },
     {
       "album": {
+        "name": "Sade Sati Deluxe",
+        "url": "https://open.spotify.com/album/4tkmcZ4KlP5bSM64k5xFUf"
+      },
+      "artists": [
+        {
+          "name": "Paupi\u00e8re",
+          "url": "https://open.spotify.com/artist/7tzLFQFi3BoEjtMMLztOwq"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208754,
+      "name": "Nue",
+      "url": "https://open.spotify.com/track/7wI0SPXLQ7sUFfIJ7PkLxk"
+    },
+    {
+      "album": {
         "name": "Nuit",
         "url": "https://open.spotify.com/album/2I8svUiy9H9b4IIAZKfTtj"
       },
@@ -2743,7 +2797,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 230466,
       "name": "Pendant que tu dors",
       "url": "https://open.spotify.com/track/6YoHe3OIqQEFcSFJ7sYm22"
@@ -2916,6 +2970,24 @@
     },
     {
       "album": {
+        "name": "Pourtant",
+        "url": "https://open.spotify.com/album/4EQZ4Z6OniZVeYjfSkaxHx"
+      },
+      "artists": [
+        {
+          "name": "Pierre Guitard",
+          "url": "https://open.spotify.com/artist/03LGhX9g2OH4XqnMBPB1mS"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342280,
+      "name": "Pourtant",
+      "url": "https://open.spotify.com/track/1npKOQwxUWDGKQr10Rd8I9"
+    },
+    {
+      "album": {
         "name": "Prends \u00e7a doux",
         "url": "https://open.spotify.com/album/6Hl0yM1LMl41PsS9hL7gfc"
       },
@@ -2981,7 +3053,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 152577,
       "name": "Quand je veux je dors",
       "url": "https://open.spotify.com/track/2KXPeTD74nhijWrY9Qy539"
@@ -3271,7 +3343,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 224490,
       "name": "STP",
       "url": "https://open.spotify.com/track/64XbzMVPTMR2cvtOwgzRlw"
@@ -3408,6 +3480,24 @@
     },
     {
       "album": {
+        "name": "Toune 1",
+        "url": "https://open.spotify.com/album/4up15itKNiWEDZYtmTcMof"
+      },
+      "artists": [
+        {
+          "name": "Anatole",
+          "url": "https://open.spotify.com/artist/7Bbf1C1upxNS3U8GypL396"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257021,
+      "name": "Toune 1",
+      "url": "https://open.spotify.com/track/3v1mSem8vZUTBJutzWOWXQ"
+    },
+    {
+      "album": {
         "name": "Toune 2",
         "url": "https://open.spotify.com/album/4D1iaqCVxIq7Za3dk2Gfiz"
       },
@@ -3419,7 +3509,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 231230,
       "name": "Toune 2",
       "url": "https://open.spotify.com/track/0McnGxQOn78rzxXZvuNfKe"
@@ -3513,6 +3603,24 @@
       "duration_ms": 206256,
       "name": "Un homme sans visage",
       "url": "https://open.spotify.com/track/5j7agNHBVTcKA8QW4aWTF8"
+    },
+    {
+      "album": {
+        "name": "Un soleil toujours",
+        "url": "https://open.spotify.com/album/6avw1J81JLd37DlFUY2wqh"
+      },
+      "artists": [
+        {
+          "name": "Maude Audet",
+          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193781,
+      "name": "Un soleil toujours",
+      "url": "https://open.spotify.com/track/5KhCP2DLXDDU9tafzlIBkx"
     },
     {
       "album": {

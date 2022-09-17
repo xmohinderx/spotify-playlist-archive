@@ -910,6 +910,36 @@
     },
     {
       "album": {
+        "name": "BABY OTAKU",
+        "url": "https://open.spotify.com/album/7HUH0lFoay2KzGEZqGp55G"
+      },
+      "artists": [
+        {
+          "name": "Pablo Pesadilla",
+          "url": "https://open.spotify.com/artist/41vcoPejPG3vv8emJ2R5Ox"
+        },
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        },
+        {
+          "name": "Nickoog Clk",
+          "url": "https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj"
+        },
+        {
+          "name": "Fran C",
+          "url": "https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176470,
+      "name": "BABY OTAKU",
+      "url": "https://open.spotify.com/track/0kTMK4gNFfLXaTb62w1UaJ"
+    },
+    {
+      "album": {
         "name": "Bad Decisions (with BTS & Snoop Dogg)",
         "url": "https://open.spotify.com/album/2km2gV8HN1lk1e1GEDl7SN"
       },
@@ -5263,7 +5293,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 231304,
       "name": "Me Hace Tanto Bien",
       "url": "https://open.spotify.com/track/21D2EZmXoJYccfgeZndtOg"
@@ -8257,7 +8287,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 179551,
       "name": "SNAP",
       "url": "https://open.spotify.com/track/6zJejIfVYLgjud3lTk4DLB"
@@ -9827,6 +9857,24 @@
       "duration_ms": 187500,
       "name": "Villano Antillano: Bzrp Music Sessions, Vol. 51",
       "url": "https://open.spotify.com/track/4hceSKjrkDTO0nMKFcb3sj"
+    },
+    {
+      "album": {
+        "name": "Canciones de Mi Pueblo",
+        "url": "https://open.spotify.com/album/7ACSF32tvdNiJLp6bxxaZh"
+      },
+      "artists": [
+        {
+          "name": "Aida Cuevas",
+          "url": "https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195586,
+      "name": "Viva Mexico",
+      "url": "https://open.spotify.com/track/6Ax9ldRfQH3RDAmBZGBkiA"
     },
     {
       "album": {

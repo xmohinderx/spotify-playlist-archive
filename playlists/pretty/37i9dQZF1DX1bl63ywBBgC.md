@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1bl63ywBBgC.md) - [plain]
 
 > Aquí le ponemos ritmo a las tareas del hogar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,896 likes - 90 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,005 likes - 90 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1bl63ywBBgC.md) - [plain]
 | 54 | [Amor Regresa](https://open.spotify.com/track/3nbCTU4k0l68vml8nDajwU) | [Los Askis](https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi) | [Pasión Y Cumbia](https://open.spotify.com/album/6DPWLpcFLqrD50JfN6NOk1) | 3:33 |
 | 55 | [Volverte A Ver](https://open.spotify.com/track/2ZqFfDwNjKvPu3USx3onhO) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Mi Sangre](https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne) | 3:37 |
 | 56 | [Dos Locos](https://open.spotify.com/track/3mx8WfEOjeUB1a0fpFxQmi) | [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Confesiones](https://open.spotify.com/album/4QVEewz5D2YmstuFp83v0e) | 4:06 |
-| 57 | [Caminar de Tu Mano \(feat\. Fonseca\)](https://open.spotify.com/track/0IWBTieCc6wQZ0C4kCHP9q) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt), [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [Eres la Persona Correcta en el Momento Equivocado \(Deluxe Edition\)](https://open.spotify.com/album/4yLZWoiV6At9flI5Qcyagr) | 3:26 |
-| 58 | [Cuando Calienta El Sol](https://open.spotify.com/track/3hVaK0zn3sVWWY8TvN1Te5) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Soy Como Quiero Ser](https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z) | 3:56 |
+| 57 | [Cuando Calienta El Sol](https://open.spotify.com/track/3hVaK0zn3sVWWY8TvN1Te5) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Soy Como Quiero Ser](https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z) | 3:56 |
+| 58 | [Caminar de Tu Mano \(feat\. Fonseca\)](https://open.spotify.com/track/0IWBTieCc6wQZ0C4kCHP9q) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt), [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [Eres la Persona Correcta en el Momento Equivocado \(Deluxe Edition\)](https://open.spotify.com/album/4yLZWoiV6At9flI5Qcyagr) | 3:26 |
 | 59 | [Tu Eres Ajena](https://open.spotify.com/track/1jD48pmiHMSVHHPzKLi4P3) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Atrevido](https://open.spotify.com/album/4DKgafmoXFZmhi73FJ0UQt) | 4:53 |
 | 60 | [Entrega De Amor](https://open.spotify.com/track/2SNP0sm56HwUvZh7bL66pi) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Entrega De Amor](https://open.spotify.com/album/5RskNC4hvSZfi1b2k1tFPw) | 2:56 |
 | 61 | [Que Te Vaya Bien](https://open.spotify.com/track/5IdaVuUzEDF3T56U5vS5ck) | [Grupo Jalado](https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM) | [Que Te Vaya Bien](https://open.spotify.com/album/40Dl0QnoNEuO3tsbftHtIS) | 3:37 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1bl63ywBBgC.md) - [plain]
 | 65 | [Pequeñas Cosas](https://open.spotify.com/track/36T4XY4vbxmw40XMJPe3zw) | [Willie Gonzalez](https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z) | [Grandes Exitos](https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo) | 5:07 |
 | 66 | [Bonita](https://open.spotify.com/track/6HNsJQihjxODgGWQafAJau) | [Cabas](https://open.spotify.com/artist/3W4lVkySjtIvd67UUg0F3i) | [Amores Difíciles](https://open.spotify.com/album/01oAsRFo8FXUuvGt16vI8P) | 3:57 |
 | 67 | [El Día De Mi Suerte](https://open.spotify.com/track/7Kmfjms3yyhg2y56mN7EfZ) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Lo Mato](https://open.spotify.com/album/4TzXeIsjyPLaNvgOd84bwr) | 5:28 |
-| 68 | [Es Mejor Así](https://open.spotify.com/track/1LUIgyVglAOLb3AtA9ZgYb) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Un Segundo En El Tiempo](https://open.spotify.com/album/2cdfwA47UN9VUx0Vnc6YNw) | 3:57 |
-| 69 | [Corazón En La Maleta](https://open.spotify.com/track/3ljr9ATeLs2BY9gNp7vm62) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [8](https://open.spotify.com/album/3dnAanoquMtbaksF7pUjyI) | 3:41 |
+| 68 | [Corazón En La Maleta](https://open.spotify.com/track/3ljr9ATeLs2BY9gNp7vm62) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [8](https://open.spotify.com/album/3dnAanoquMtbaksF7pUjyI) | 3:41 |
+| 69 | [Es Mejor Así](https://open.spotify.com/track/1LUIgyVglAOLb3AtA9ZgYb) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Un Segundo En El Tiempo](https://open.spotify.com/album/2cdfwA47UN9VUx0Vnc6YNw) | 3:57 |
 | 70 | [Los Caminos De La Vida](https://open.spotify.com/track/1layZXCAmJ84fi21OmnTt5) | [La Tropa Vallenata](https://open.spotify.com/artist/6ESzKdcEDKvhUek4ZaHruk) | [Los Caminos De La Vida](https://open.spotify.com/album/2I72wA4qxK4ur3biscv0hv) | 4:51 |
 | 71 | [Vienes y Te Vas](https://open.spotify.com/track/0sVeyTEVECTBiBdx9u7VUj) | [Los Askis](https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi) | [Con la Fuerza de un Volcán](https://open.spotify.com/album/1AIWTMWJGvs517UpZtQ09y) | 3:48 |
 | 72 | [Qué Hay de Malo](https://open.spotify.com/track/7t5cskTjWtXVQ6h1yI69op) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Cara De Niño](https://open.spotify.com/album/0QH703ohOGjIj2EYeBUTr0) | 4:58 |
@@ -91,12 +91,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1bl63ywBBgC.md) - [plain]
 | 81 | [Pa' Bravo Yo](https://open.spotify.com/track/5kzoRHOhLIGVQGsxi8fWpy) | [Justo Betancourt](https://open.spotify.com/artist/1Mq5Rgvn4D37tQdwuFL689) | [Pa' Bravo Yo](https://open.spotify.com/album/0Ggehw0oAdAUNoipqO2Sqh) | 3:44 |
 | 82 | [Cómo Te Extraño Mi Amor \(En Vivo\) \(feat\. Rubén Albarrán\)](https://open.spotify.com/track/4KTSH9v9nm4e2oiXa699aC) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2), [Rubén Albarrán](https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0) | [Celebrando a una Leyenda \(En Vivo\)](https://open.spotify.com/album/0Cq5RogZ5q5WfXRYGOIN98) | 3:15 |
 | 83 | [Pasos de gigantes](https://open.spotify.com/track/5cfyheAkmqThtjovwfQnD4) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Sinverguenza](https://open.spotify.com/album/7adZK0OmOhHL3DnEL5qWKb) | 3:55 |
-| 84 | [Sueños \(with Julieta Venegas\) \- MTV Unplugged](https://open.spotify.com/track/1NuWMB7R2FHid46XQYkFUV) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [MTV Unplugged](https://open.spotify.com/album/3xB3SzIEkry77YmregfUHZ) | 4:35 |
-| 85 | [Mi Bombom](https://open.spotify.com/track/29ET4ONM7UGb5fIbLfHoDK) | [Cabas](https://open.spotify.com/artist/3W4lVkySjtIvd67UUg0F3i) | [Cabas](https://open.spotify.com/album/3zOiYPGZRhvWJioOQh4O8s) | 3:13 |
+| 84 | [Mi Bombom](https://open.spotify.com/track/29ET4ONM7UGb5fIbLfHoDK) | [Cabas](https://open.spotify.com/artist/3W4lVkySjtIvd67UUg0F3i) | [Cabas](https://open.spotify.com/album/3zOiYPGZRhvWJioOQh4O8s) | 3:13 |
+| 85 | [Sueños \(with Julieta Venegas\) \- MTV Unplugged](https://open.spotify.com/track/1NuWMB7R2FHid46XQYkFUV) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [MTV Unplugged](https://open.spotify.com/album/3xB3SzIEkry77YmregfUHZ) | 4:35 |
 | 86 | [Sirena](https://open.spotify.com/track/1fjB9hdAjlHSS9oH5z63qt) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Sin Bandera](https://open.spotify.com/album/01vioqAF5o29uDHYhXs6Vo) | 4:26 |
 | 87 | [Como Tú](https://open.spotify.com/track/1Zv7PhLP7ohXZ2rIrsnT3R) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [La Vida Al Viento](https://open.spotify.com/album/01DlTlGo79EZmSX0QIqTtp) | 3:37 |
 | 88 | [Periódico De Ayer](https://open.spotify.com/track/0A6uCqTC2RS0x7lyDTIend) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [De Ti Depende](https://open.spotify.com/album/01TXLHVDAd53Nr0YBSas2N) | 6:49 |
 | 89 | [Ella](https://open.spotify.com/track/1DOuHBUpfN1GwDsZOZkwgO) | [Bebe](https://open.spotify.com/artist/2byU53ebtTxcAnIRE814Ts) | [Pafuera Telarañas](https://open.spotify.com/album/3B8sRsQWEcVVeo3msMowPB) | 3:35 |
 | 90 | [Sola](https://open.spotify.com/track/4etqoFocnO9gSKtqtQbwXh) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064), [ATL](https://open.spotify.com/artist/7moaTmrKrxOnFYW07pMEpg) | [Oye Mujer \(Deluxe Edition\)](https://open.spotify.com/album/3CzeG68WKVXRMumlmwoCfl) | 2:59 |
 
-Snapshot ID: `MTY2MTMwNTE5NiwwMDAwMDAwMDYzNTE2OWQ4YzlhNjYyNzcwNzdiNThmZGE5NmQ3YzE4`
+Snapshot ID: `MTY2MTMwNTE5NiwwMDAwMDAwMDUyMDJkZjg5ZDYzYzE3M2U2MGNmZGEwOTg4MDk2ZDNl`

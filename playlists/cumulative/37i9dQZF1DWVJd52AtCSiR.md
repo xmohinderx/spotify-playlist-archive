@@ -4,7 +4,7 @@
 
 > Discover the classical side of your favourite Disney soundtracks.
 
-122 songs - 6 hr 15 min - [published](https://open.spotify.com/playlist/0vmRJRYwOgFfUhgFl1I2vw)
+123 songs - 6 hr 19 min - [published](https://open.spotify.com/playlist/0vmRJRYwOgFfUhgFl1I2vw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Abre Los Ojos](https://open.spotify.com/track/06H5BeXjWXqjslelYiLuB7) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 3:16 | 2022-01-07 |  |
 | [Aladdin's Second Wish](https://open.spotify.com/track/4MzHU4LNdG2dmfNo5gytip) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ) | [Aladdin \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4WGcPCflN9FNccSu7tE9iS) | 2:08 | 2021-10-07 | 2022-07-16 |
 | [Almost There \- From "Princess and the Frog"](https://open.spotify.com/track/6x1pCJudgIS8Gak9ONrg82) | [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [Disney Goes Classical](https://open.spotify.com/album/3HXbORoFcvwasbK11FdfKg) | 2:26 | 2021-10-07 |  |
+| [Beauty and the Beast \- From "Beauty and the Beast"](https://open.spotify.com/track/4D8lQriIxEzw7JKboShO2X) | [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [Robert Ziegler](https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx) | [The Disney Book](https://open.spotify.com/album/6s4Nj1n5yQuyn6ML0Jjk3z) | 4:09 | 2022-09-16 |  |
 | [Beauty and the Beast \- From "Beauty and the Beast"](https://open.spotify.com/track/13GQAPoUkyZTE8oJV3Uy2L) | [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [Disney Goes Classical](https://open.spotify.com/album/3HXbORoFcvwasbK11FdfKg) | 2:46 | 2021-10-07 |  |
 | [Bedtime](https://open.spotify.com/track/6Fk3FHkenVKzkppY122Jsr) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [The Little Mermaid Special Edition](https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6) | 1:22 | 2021-10-07 |  |
 | [Bibbidi\-Bobbidi\-Boo \(The Magic Song\) \- Instrumental Version](https://open.spotify.com/track/3QAVDFM3uoPvuWTjAuNGuR) | [Mack David](https://open.spotify.com/artist/4tMrFa88Ah85DwbtjQjohF), [Al Hoffman](https://open.spotify.com/artist/2bOYhu5rjw0HUYzJC9Plv7), [Jerry Livingston](https://open.spotify.com/artist/7wRCKMWe6GQPUDr8CauOmf) | [Cinderella \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4MaXQAzgpi1UGNNia9r7fx) | 1:21 | 2021-10-07 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WDAdlq5HvZ.md) - [plain]
 
 > Happy Mother's Day!  Send love to all the mothers and remind them what a blessing they are with these songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,120 likes - 80 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,126 likes - 80 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,10 +46,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WDAdlq5HvZ.md) - [plain]
 | 36 | [Better](https://open.spotify.com/track/6f2YcFaM5NaDoKbKyMwiCm) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Pat Barrett](https://open.spotify.com/album/0aN0xAIaYHQDj63QrgvJJ5) | 4:57 |
 | 37 | [A Song For Mama](https://open.spotify.com/track/6FuJokk9FHx0E00SZ8ib8X) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Evolution](https://open.spotify.com/album/4zLchzG29ngh0MJgiy5GQx) | 5:03 |
 | 38 | [Nobody Loves Me Like You](https://open.spotify.com/track/2UNSjAMTbEYRVgj0VscPEA) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Holy Roar](https://open.spotify.com/album/2MsjmtZb4JVzmQ2kmS6dVq) | 4:26 |
-| 39 | [Don't Forget to Remember Me](https://open.spotify.com/track/0SCtEUwSkgavjuzebBznX5) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Some Hearts](https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg) | 4:00 |
+| 39 | [A Mother Like You](https://open.spotify.com/track/4Vnbh54MMkRf2uZXcON3Av) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [A Mother Like You](https://open.spotify.com/album/7DrWjwgmmTZPGdQxfP8qi6) | 3:54 |
 | 40 | [Infinite Love](https://open.spotify.com/track/7nSi8zg7M36sQ8X65CG1q4) | [Orlando Vick](https://open.spotify.com/artist/3MZY2J55U6iYpPB5A7BCyE) | [Infinite Love](https://open.spotify.com/album/5xY3XsSsbDpF5UBQzgGTWu) | 3:43 |
 | 41 | [Love Me Like I Am](https://open.spotify.com/track/60GTOisUSdUksjMzq17XvO) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [What Are We Waiting For?](https://open.spotify.com/album/6h95CVsuRQt0SHA0MtjpWW) | 3:04 |
-| 42 | [A Mother Like You](https://open.spotify.com/track/4Vnbh54MMkRf2uZXcON3Av) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [A Mother Like You](https://open.spotify.com/album/7DrWjwgmmTZPGdQxfP8qi6) | 3:54 |
+| 42 | [Don't Forget to Remember Me](https://open.spotify.com/track/0SCtEUwSkgavjuzebBznX5) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Some Hearts](https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg) | 4:00 |
 | 43 | [Watch You Be a Mother](https://open.spotify.com/track/3rnXcaQ10ZQ4e0aVbsufmV) | [Jonny Diaz](https://open.spotify.com/artist/4HKCjseZVD2vG7EJG3yLwt) | [Watch You Be a Mother](https://open.spotify.com/album/2lyjklRTRuWMeRiL16XOf9) | 3:15 |
 | 44 | [Love Lifting Me](https://open.spotify.com/track/4O8TOAWNMGrvpY3bn0SO3y) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [Love Running Wild](https://open.spotify.com/album/2vebwQ9kyBdhWLz3cayGS7) | 3:19 |
 | 45 | [Jesus & You](https://open.spotify.com/track/3zCBJdGlTNTASR6VXo9HUQ) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [All In](https://open.spotify.com/album/4Qb7av34wG5v22LIV5IN9g) | 3:22 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WDAdlq5HvZ.md) - [plain]
 | 48 | [Fearless](https://open.spotify.com/track/23rnAadbz4rxHZNEZoW1Ao) | [Jasmine Murray](https://open.spotify.com/artist/3RsGHkHYZW0WkXcEf0CRdR) | [Fearless](https://open.spotify.com/album/3Da7uQ0supGljmcN9WERGY) | 3:03 |
 | 49 | [Sweet Love of Mine \(Acoustic\)](https://open.spotify.com/track/1d4QAtlNQCnMARsacnkoyC) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Venus \(Acoustic\)](https://open.spotify.com/album/2Qet80S6mts6V5dWy4y1sj) | 2:55 |
 | 50 | [What I Never Knew I Always Wanted](https://open.spotify.com/track/5b0QOGqikWl9VZ3H3uHrUb) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Storyteller](https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4) | 3:35 |
-| 51 | [Slow Down](https://open.spotify.com/track/5ih42me52UDonDOMv1gl7o) | [Nichole Nordeman](https://open.spotify.com/artist/0KSjxPoT71Dq8qcgfWTdHh) | [The Unmaking](https://open.spotify.com/album/5Hbn1AQBK8wzLX5OBe0v0x) | 3:58 |
-| 52 | [Whole Heart \(Hold Me Now\) \- Acoustic](https://open.spotify.com/track/2ZUlzVNFZz359SJ3tfHhL7) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [People \(Live\)](https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD) | 5:40 |
+| 51 | [Whole Heart \(Hold Me Now\) \- Acoustic](https://open.spotify.com/track/2ZUlzVNFZz359SJ3tfHhL7) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [People \(Live\)](https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD) | 5:40 |
+| 52 | [Slow Down](https://open.spotify.com/track/5ih42me52UDonDOMv1gl7o) | [Nichole Nordeman](https://open.spotify.com/artist/0KSjxPoT71Dq8qcgfWTdHh) | [The Unmaking](https://open.spotify.com/album/5Hbn1AQBK8wzLX5OBe0v0x) | 3:58 |
 | 53 | [More Beautiful You](https://open.spotify.com/track/0BD6kjnLp2CGYAY3Vb6bUY) | [Jonny Diaz](https://open.spotify.com/artist/4HKCjseZVD2vG7EJG3yLwt) | [More Beautiful You](https://open.spotify.com/album/27qh9LZsrPEPAdxKvbUPBp) | 3:51 |
 | 54 | [Love God Love People \- Radio Version](https://open.spotify.com/track/4AzZt81qe4U17x6LFBj10S) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Love God Love People \(Radio Version\)](https://open.spotify.com/album/1vopwBYonLDhkmOfDcJGNG) | 3:12 |
 | 55 | [Spend a Life](https://open.spotify.com/track/0YrLt5LEmJ8SqGnEmXzll7) | [David Dunn](https://open.spotify.com/artist/57ZPJfidpxGJGkyjcmz68v) | [Perspectives](https://open.spotify.com/album/7JacApKikA6YgXD2zq785n) | 3:28 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WDAdlq5HvZ.md) - [plain]
 | 79 | [After The Fire](https://open.spotify.com/track/4Gqx9729vziD22mSmqAewG) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Simple Things](https://open.spotify.com/album/0hx7o90RXZZtJ6MS5nvxjF) | 3:21 |
 | 80 | [You Have Provided](https://open.spotify.com/track/00bTXTGgdFZDo46TmY52Rv) | [David Walker](https://open.spotify.com/artist/5EnYAzla5xYZmVnTyx7qv4), [10,000 Fathers](https://open.spotify.com/artist/48jeM9IfFZT9LpKKkN076l) | [You Have Provided](https://open.spotify.com/album/5eecteiGogxClzN7fKHQkE) | 3:47 |
 
-Snapshot ID: `MTY1MTgwOTcyMCwwMDAwMDAwMDdiZjc0NzFiNTNiZTE4MWU1N2RhNDNiMzQ2MzdhNGQz`
+Snapshot ID: `MTY1MTgwOTcyMCwwMDAwMDAwMDIxNDZjNmZkMjQzYjZhZGFjN2RmMDQwZGU2YmEyYjNh`

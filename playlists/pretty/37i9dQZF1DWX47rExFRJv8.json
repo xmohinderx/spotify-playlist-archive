@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs in Latin America in 2018. Cover: Bad Bunny",
-  "num_followers": 26545,
+  "num_followers": 26665,
   "original_name": "Latin Hits 2018",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzOTYxNzA5MiwwMDAwMDAwMDljOWExOTdkYjJkNWI3ZTYyNjc5NjQ1MGMyOTVmNTY1",
+  "snapshot_id": "MTYzOTYxNzA5MiwwMDAwMDAwMGExYWU5NmYxYjYwZGExNGY5ODc4NGE0ZmI0ZDBlZDYy",
   "tracks": [
     {
       "added_at": "2021-12-16 01:11:32",
@@ -179,22 +179,22 @@
     {
       "added_at": "2021-12-16 01:11:32",
       "album": {
-        "name": "Intimo",
-        "url": "https://open.spotify.com/album/1CYQlkKE5Q0khU6eMwVAVt"
+        "name": "Homerun",
+        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
       },
       "artists": [
         {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
         },
         {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
         }
       ],
-      "duration_ms": 172854,
-      "name": "X",
-      "url": "https://open.spotify.com/track/5YUyW9opqNsMSEzzecZih1"
+      "duration_ms": 227518,
+      "name": "Nena Maldici\u00f3n (feat. Lenny Tav\u00e1rez)",
+      "url": "https://open.spotify.com/track/77dMSg2VHi2wwXjXNrmcrZ"
     },
     {
       "added_at": "2021-12-16 01:11:32",
@@ -219,22 +219,22 @@
     {
       "added_at": "2021-12-16 01:11:32",
       "album": {
-        "name": "Homerun",
-        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
+        "name": "Intimo",
+        "url": "https://open.spotify.com/album/1CYQlkKE5Q0khU6eMwVAVt"
       },
       "artists": [
         {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
         },
         {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         }
       ],
-      "duration_ms": 227518,
-      "name": "Nena Maldici\u00f3n (feat. Lenny Tav\u00e1rez)",
-      "url": "https://open.spotify.com/track/77dMSg2VHi2wwXjXNrmcrZ"
+      "duration_ms": 172854,
+      "name": "X",
+      "url": "https://open.spotify.com/track/5YUyW9opqNsMSEzzecZih1"
     },
     {
       "added_at": "2021-12-16 01:11:32",
@@ -319,26 +319,6 @@
     {
       "added_at": "2021-12-16 01:11:32",
       "album": {
-        "name": "Te Amo",
-        "url": "https://open.spotify.com/album/0sF2dhoiBLVMvuv6qRIpYI"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        },
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 201122,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/2RVrdr062uLFxXwIxwdXPH"
-    },
-    {
-      "added_at": "2021-12-16 01:11:32",
-      "album": {
         "name": "Amanece",
         "url": "https://open.spotify.com/album/464FQ8gr0oKlQ1a0TCK4Yj"
       },
@@ -355,6 +335,26 @@
       "duration_ms": 190004,
       "name": "Amanece",
       "url": "https://open.spotify.com/track/1LiN0Z98FkR1t0m8KmLcAH"
+    },
+    {
+      "added_at": "2021-12-16 01:11:32",
+      "album": {
+        "name": "Te Amo",
+        "url": "https://open.spotify.com/album/0sF2dhoiBLVMvuv6qRIpYI"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 201122,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/2RVrdr062uLFxXwIxwdXPH"
     },
     {
       "added_at": "2021-12-16 01:11:32",
@@ -495,18 +495,18 @@
     {
       "added_at": "2021-12-16 01:11:32",
       "album": {
-        "name": "Ubuntu",
-        "url": "https://open.spotify.com/album/0sGGdQF7f03jwgaD9qhtUQ"
+        "name": "Adan y Eva",
+        "url": "https://open.spotify.com/album/1XBTyV1if5X9sU4IhpfH5R"
       },
       "artists": [
         {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
         }
       ],
-      "duration_ms": 186315,
-      "name": "Puntos Suspensivos",
-      "url": "https://open.spotify.com/track/04cd1MHVq1D8v1nuTZoCdv"
+      "duration_ms": 258638,
+      "name": "Adan y Eva",
+      "url": "https://open.spotify.com/track/6FyRXC8tJUh863JCkyWqtk"
     },
     {
       "added_at": "2021-12-16 01:11:32",
@@ -547,18 +547,18 @@
     {
       "added_at": "2021-12-16 01:11:32",
       "album": {
-        "name": "Adan y Eva",
-        "url": "https://open.spotify.com/album/1XBTyV1if5X9sU4IhpfH5R"
+        "name": "Ubuntu",
+        "url": "https://open.spotify.com/album/0sGGdQF7f03jwgaD9qhtUQ"
       },
       "artists": [
         {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
         }
       ],
-      "duration_ms": 258638,
-      "name": "Adan y Eva",
-      "url": "https://open.spotify.com/track/6FyRXC8tJUh863JCkyWqtk"
+      "duration_ms": 186315,
+      "name": "Puntos Suspensivos",
+      "url": "https://open.spotify.com/track/04cd1MHVq1D8v1nuTZoCdv"
     },
     {
       "added_at": "2021-12-16 01:11:32",
@@ -591,6 +591,22 @@
       "duration_ms": 307435,
       "name": "La Forma en Que Me Miras",
       "url": "https://open.spotify.com/track/6t94PGXYAuo9GbJEnMpPcW"
+    },
+    {
+      "added_at": "2021-12-16 01:11:32",
+      "album": {
+        "name": "Homerun",
+        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 221083,
+      "name": "Chica Paranormal",
+      "url": "https://open.spotify.com/track/3krzcyMKlRXjVkJFZqMN4t"
     },
     {
       "added_at": "2021-12-16 01:11:32",
@@ -691,6 +707,26 @@
     {
       "added_at": "2021-12-16 01:11:32",
       "album": {
+        "name": "X 100PRE",
+        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "duration_ms": 300579,
+      "name": "La Romana",
+      "url": "https://open.spotify.com/track/1khmgu0pveJbkbpbkyvcQv"
+    },
+    {
+      "added_at": "2021-12-16 01:11:32",
+      "album": {
         "name": "Dura (Remix)",
         "url": "https://open.spotify.com/album/5XGcXkkiPQIgaNSDANurj7"
       },
@@ -715,42 +751,6 @@
       "duration_ms": 242160,
       "name": "Dura - Remix",
       "url": "https://open.spotify.com/track/6U2NuJILEOEpW2tVCuqKHb"
-    },
-    {
-      "added_at": "2021-12-16 01:11:32",
-      "album": {
-        "name": "X 100PRE",
-        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        }
-      ],
-      "duration_ms": 300579,
-      "name": "La Romana",
-      "url": "https://open.spotify.com/track/1khmgu0pveJbkbpbkyvcQv"
-    },
-    {
-      "added_at": "2021-12-16 01:11:32",
-      "album": {
-        "name": "Homerun",
-        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 221083,
-      "name": "Chica Paranormal",
-      "url": "https://open.spotify.com/track/3krzcyMKlRXjVkJFZqMN4t"
     },
     {
       "added_at": "2021-12-16 01:11:32",
@@ -839,26 +839,6 @@
     {
       "added_at": "2021-12-16 01:11:32",
       "album": {
-        "name": "Cr\u00e9eme",
-        "url": "https://open.spotify.com/album/0bVsozItEQQVu2M5FnpnrG"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 212493,
-      "name": "Cr\u00e9eme",
-      "url": "https://open.spotify.com/track/1mT47pKLXUwPYGwB91GcNz"
-    },
-    {
-      "added_at": "2021-12-16 01:11:32",
-      "album": {
         "name": "Cuando Te Bes\u00e9",
         "url": "https://open.spotify.com/album/1rNj1DvnXIH5irucrzT4zo"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 254383,
       "name": "Cuando Te Bes\u00e9",
       "url": "https://open.spotify.com/track/2XXMDz7SPZ4mSFN1PXfHUy"
+    },
+    {
+      "added_at": "2021-12-16 01:11:32",
+      "album": {
+        "name": "Cr\u00e9eme",
+        "url": "https://open.spotify.com/album/0bVsozItEQQVu2M5FnpnrG"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 212493,
+      "name": "Cr\u00e9eme",
+      "url": "https://open.spotify.com/track/1mT47pKLXUwPYGwB91GcNz"
     },
     {
       "added_at": "2021-12-16 01:11:32",
@@ -1003,26 +1003,6 @@
     {
       "added_at": "2021-12-16 01:11:32",
       "album": {
-        "name": "Culpables",
-        "url": "https://open.spotify.com/album/0WmqKVGQgIYleOI8gtWP1w"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 226626,
-      "name": "Culpables",
-      "url": "https://open.spotify.com/track/6q8Lb50EtqNeeJXXe8mMAH"
-    },
-    {
-      "added_at": "2021-12-16 01:11:32",
-      "album": {
         "name": "Est\u00e1 Rico",
         "url": "https://open.spotify.com/album/3ztJAikTd2AHTixfSPG185"
       },
@@ -1043,6 +1023,22 @@
       "duration_ms": 215151,
       "name": "Est\u00e1 Rico",
       "url": "https://open.spotify.com/track/2wRkBumdItthjYP9XknImg"
+    },
+    {
+      "added_at": "2021-12-16 01:11:32",
+      "album": {
+        "name": "Mar De Colores (Versi\u00f3n Extendida)",
+        "url": "https://open.spotify.com/album/66IXFg1AukADK41CP0xANr"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Soler",
+          "url": "https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe"
+        }
+      ],
+      "duration_ms": 204666,
+      "name": "La Cintura",
+      "url": "https://open.spotify.com/track/6VUJQqyeQhAZHkQbSDqLtI"
     }
   ],
   "unique_name": "Latin Hits 2018",

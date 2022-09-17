@@ -1,12 +1,12 @@
 {
   "description": "Soul, R'n'B all with a tinge of electronic goodness. Cover: Jitwam",
-  "num_followers": 280565,
+  "num_followers": 280666,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTczNDc4MiwwMDAwMDAwMGY2MDY0NGQyYzQ1OTExY2M5M2JkYWY2YTNhNmRhMTZi",
+  "snapshot_id": "MTY1NTczNDc4MiwwMDAwMDAwMDhmMTVjYTY2NTBhYjFhYzEzOWIxMjEwOTJmZGY5MTE5",
   "tracks": [
     {
       "added_at": "2022-06-20 14:19:42",
@@ -711,6 +711,22 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
+        "name": "Passion Controller",
+        "url": "https://open.spotify.com/album/43G6peF9DcpFseLV2b5KQL"
+      },
+      "artists": [
+        {
+          "name": "Khazali",
+          "url": "https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd"
+        }
+      ],
+      "duration_ms": 172219,
+      "name": "Passion Controller",
+      "url": "https://open.spotify.com/track/5QoWB3fZCKdwWkKFagoFI4"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
         "name": "We Are",
         "url": "https://open.spotify.com/album/1HXbty0Qf4fnZR4l72UqnR"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 255500,
       "name": "We Are",
       "url": "https://open.spotify.com/track/6Lxi9O5CWRgjrqvWdbn2lT"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
-        "name": "Passion Controller",
-        "url": "https://open.spotify.com/album/43G6peF9DcpFseLV2b5KQL"
-      },
-      "artists": [
-        {
-          "name": "Khazali",
-          "url": "https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd"
-        }
-      ],
-      "duration_ms": 172219,
-      "name": "Passion Controller",
-      "url": "https://open.spotify.com/track/5QoWB3fZCKdwWkKFagoFI4"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -851,26 +851,6 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "LowKey (feat. Jayd Ink)",
-        "url": "https://open.spotify.com/album/5IymapBkxovOp4ELc4sQNy"
-      },
-      "artists": [
-        {
-          "name": "Full Crate",
-          "url": "https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g"
-        },
-        {
-          "name": "Jayd Ink",
-          "url": "https://open.spotify.com/artist/6TfJcKCr5hFsYZkq2k1Pac"
-        }
-      ],
-      "duration_ms": 173420,
-      "name": "LowKey (feat. Jayd Ink)",
-      "url": "https://open.spotify.com/track/1esyt62pq02xPShuaK5OpA"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
         "name": "Believe (feat. Fredwave & Jeshi)",
         "url": "https://open.spotify.com/album/0u1IdlsVv5D33d3aPKEZrL"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 208439,
       "name": "Believe (feat. Fredwave & Jeshi)",
       "url": "https://open.spotify.com/track/2DLxohwNmcbWktWGVG0dN7"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
+        "name": "LowKey (feat. Jayd Ink)",
+        "url": "https://open.spotify.com/album/5IymapBkxovOp4ELc4sQNy"
+      },
+      "artists": [
+        {
+          "name": "Full Crate",
+          "url": "https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g"
+        },
+        {
+          "name": "Jayd Ink",
+          "url": "https://open.spotify.com/artist/6TfJcKCr5hFsYZkq2k1Pac"
+        }
+      ],
+      "duration_ms": 173420,
+      "name": "LowKey (feat. Jayd Ink)",
+      "url": "https://open.spotify.com/track/1esyt62pq02xPShuaK5OpA"
     },
     {
       "added_at": "2022-06-20 14:19:42",

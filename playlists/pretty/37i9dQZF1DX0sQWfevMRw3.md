@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > Jag vill vara den som tar hela staden hem och tillbaka!
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,810 likes - 50 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,185 likes - 50 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 45 | [Ooa hela natten](https://open.spotify.com/track/2pa73fbZD7ltJ09AB0Teox) | [Attack](https://open.spotify.com/artist/7xDHTY5TFdVXbIt961koTh) | [Rätt stuk](https://open.spotify.com/album/0mCkxwfQqeZw72kKV59TfW) | 4:13 |
 | 46 | [VI SKA BLI FULLA](https://open.spotify.com/track/37EyJVC84SzAVpSf3h4792) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Danspunk](https://open.spotify.com/album/6A1xmfg6FIEavYK0mmEswK) | 2:45 |
 | 47 | [Trombone](https://open.spotify.com/track/3vYP0NDCcoPiUHpmtq9YIq) | [AronChupa](https://open.spotify.com/artist/5vCOdeiQt9LyzdI87kt5Sh), [Little Sis Nora](https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9) | [Trombone](https://open.spotify.com/album/6VPECzab2eRuuUBRtBmvUT) | 2:46 |
-| 48 | [IN I DIMMAN](https://open.spotify.com/track/6ybANkthoBzXZYhu42xQ4m) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [IN I DIMMAN](https://open.spotify.com/album/0R8t3ww2gmqP8YXW7zY87x) | 2:00 |
+| 48 | [RAGGA VÄRLDEN RUNT](https://open.spotify.com/track/6PTD6A0ttYfoAoOHkzu1Ba) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [Lurifaks](https://open.spotify.com/artist/7KV5PbIYtOc7F3bzH0v8dK), [Hugge](https://open.spotify.com/artist/1U17tqE6Kaphway5gmRD9g) | [RAGGA VÄRLDEN RUNT](https://open.spotify.com/album/7q8TSeI9J4fxBNP7CoWJKZ) | 2:30 |
 | 49 | [Varje gång jag ser dig \- Ullared \- EPA Remix \- Dansbandsrave](https://open.spotify.com/track/1c4ux2SjsIZ2Z2mH8SFaCQ) | [Fernandoz](https://open.spotify.com/artist/3HMZ4Ui5A6SEFgTkWzaMhv), [J.O.X](https://open.spotify.com/artist/1MF8pP2ATm53GpUJ9xIaS9) | [Nu tar vi nya tag \(Deluxe Version\)](https://open.spotify.com/album/2g973QdyTS21AKuObwBRX2) | 2:29 |
 | 50 | [SNABB](https://open.spotify.com/track/23Aq54DbkbK2Bo1PicKxF2) | [250 kg kärlek](https://open.spotify.com/artist/4zLti6k7kpm9jwOVJv7wtT), [Erik Meduza](https://open.spotify.com/artist/4zZY1aZuZugxyhDzZlMphr), [Julia Kedhammar](https://open.spotify.com/artist/24JKr8xzxciKUmpx8fu8AY) | [SNABB](https://open.spotify.com/album/3Of7CxWmAnTswawayj6X6I) | 2:24 |
 
-Snapshot ID: `MTY2MzI3OTIwMCwwMDAwMDAwMDdhMGUyYTZhMmYyODFhMjE0MWExMTVhM2Q4MDk5MWU0`
+Snapshot ID: `MTY2MzI3OTIwMCwwMDAwMDAwMDIyZjg1OWZhYTVhODAxMWEyNmNjMjQ4YWVlZTViMWNm`

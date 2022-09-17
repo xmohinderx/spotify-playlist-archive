@@ -1,12 +1,12 @@
 {
   "description": "De beste norske l\u00e5tene fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 63140,
+  "num_followers": 63164,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY3NDQwMCwwMDAwMDAwMDUwYmFjYWE0Y2RmZDdlYWFmNGFjNjUyZjMwZDE4ZmEx",
+  "snapshot_id": "MTY2MjY3NDQwMCwwMDAwMDAwMDYzNGI2MTQ2ZDU3OGViNGFjMTU4OTYxMzdmMWNiNTVj",
   "tracks": [
     {
       "added_at": "2022-09-08 22:00:00",
@@ -383,22 +383,6 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
-        "name": "1988 EP",
-        "url": "https://open.spotify.com/album/74LpfW8LrYQp2PNRHfjgaU"
-      },
-      "artists": [
-        {
-          "name": "Daniel Kvammen",
-          "url": "https://open.spotify.com/artist/1c9LVBvYq58ViD8qdLml7A"
-        }
-      ],
-      "duration_ms": 257906,
-      "name": "Du fortenar ein som meg - klineversjon",
-      "url": "https://open.spotify.com/track/1v4hTCaKOr5qVothIsL9er"
-    },
-    {
-      "added_at": "2022-09-08 22:00:00",
-      "album": {
         "name": "Det jeg vil ha (fra deg)",
         "url": "https://open.spotify.com/album/0oRXCrnDAsKWQg6XoOvf0i"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 203263,
       "name": "Det jeg vil ha (fra deg)",
       "url": "https://open.spotify.com/track/7FzPmvCXC8CqwP9AkIkPA9"
+    },
+    {
+      "added_at": "2022-09-08 22:00:00",
+      "album": {
+        "name": "1988 EP",
+        "url": "https://open.spotify.com/album/74LpfW8LrYQp2PNRHfjgaU"
+      },
+      "artists": [
+        {
+          "name": "Daniel Kvammen",
+          "url": "https://open.spotify.com/artist/1c9LVBvYq58ViD8qdLml7A"
+        }
+      ],
+      "duration_ms": 257906,
+      "name": "Du fortenar ein som meg - klineversjon",
+      "url": "https://open.spotify.com/track/1v4hTCaKOr5qVothIsL9er"
     },
     {
       "added_at": "2022-09-08 22:00:00",
@@ -459,6 +459,22 @@
       "duration_ms": 191053,
       "name": "Lite og stort",
       "url": "https://open.spotify.com/track/1v3Npr2wwGA3k9402ueIVH"
+    },
+    {
+      "added_at": "2022-09-08 22:00:00",
+      "album": {
+        "name": "I g\u00e5r",
+        "url": "https://open.spotify.com/album/0gFxGgdtrkaPVZ3DzyJGaN"
+      },
+      "artists": [
+        {
+          "name": "Odd Nordstoga",
+          "url": "https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv"
+        }
+      ],
+      "duration_ms": 338866,
+      "name": "I g\u00e5r",
+      "url": "https://open.spotify.com/track/6U9GnMuoiUJnsw1JIMrTi1"
     },
     {
       "added_at": "2022-09-08 22:00:00",
@@ -515,18 +531,18 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
-        "name": "I g\u00e5r",
-        "url": "https://open.spotify.com/album/0gFxGgdtrkaPVZ3DzyJGaN"
+        "name": "Har det no \u00e5 si",
+        "url": "https://open.spotify.com/album/0mK8M00xyAiyUVyIS5UFyT"
       },
       "artists": [
         {
-          "name": "Odd Nordstoga",
-          "url": "https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv"
+          "name": "Inge Bremnes",
+          "url": "https://open.spotify.com/artist/4lgiQEUzN7K9IsXDXpHkVB"
         }
       ],
-      "duration_ms": 338866,
-      "name": "I g\u00e5r",
-      "url": "https://open.spotify.com/track/6U9GnMuoiUJnsw1JIMrTi1"
+      "duration_ms": 225626,
+      "name": "Himmelbl\u00e5",
+      "url": "https://open.spotify.com/track/4RaqQE80M1OGyQvkQs7JTS"
     },
     {
       "added_at": "2022-09-08 22:00:00",
@@ -543,22 +559,6 @@
       "duration_ms": 168373,
       "name": "Alle Snakker Sant",
       "url": "https://open.spotify.com/track/34gxnmqg4Nbzziv265qul7"
-    },
-    {
-      "added_at": "2022-09-08 22:00:00",
-      "album": {
-        "name": "Har det no \u00e5 si",
-        "url": "https://open.spotify.com/album/0mK8M00xyAiyUVyIS5UFyT"
-      },
-      "artists": [
-        {
-          "name": "Inge Bremnes",
-          "url": "https://open.spotify.com/artist/4lgiQEUzN7K9IsXDXpHkVB"
-        }
-      ],
-      "duration_ms": 225626,
-      "name": "Himmelbl\u00e5",
-      "url": "https://open.spotify.com/track/4RaqQE80M1OGyQvkQs7JTS"
     },
     {
       "added_at": "2022-09-08 22:00:00",
@@ -595,18 +595,18 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
-        "name": "Fingeravtrykk",
-        "url": "https://open.spotify.com/album/4LQ9X3yVtTvsR7zx0GyRyW"
+        "name": "Alt slik det var laga",
+        "url": "https://open.spotify.com/album/0fIYDEa2RR461qmtpaJjUM"
       },
       "artists": [
         {
-          "name": "Ane Brun",
-          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+          "name": "Odd Nordstoga",
+          "url": "https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv"
         }
       ],
-      "duration_ms": 421054,
-      "name": "Fingeravtrykk",
-      "url": "https://open.spotify.com/track/7176c184pups4Q02ZPhTAl"
+      "duration_ms": 234496,
+      "name": "Alt slik det var laga",
+      "url": "https://open.spotify.com/track/3nfuXqTSLAAyVDMgZgjHpc"
     },
     {
       "added_at": "2022-09-08 22:00:00",
@@ -627,6 +627,22 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
+        "name": "Fingeravtrykk",
+        "url": "https://open.spotify.com/album/4LQ9X3yVtTvsR7zx0GyRyW"
+      },
+      "artists": [
+        {
+          "name": "Ane Brun",
+          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+        }
+      ],
+      "duration_ms": 421054,
+      "name": "Fingeravtrykk",
+      "url": "https://open.spotify.com/track/7176c184pups4Q02ZPhTAl"
+    },
+    {
+      "added_at": "2022-09-08 22:00:00",
+      "album": {
         "name": "V\u00e5r beste dag",
         "url": "https://open.spotify.com/album/72dAuYKSanaCXmsLzS7eUN"
       },
@@ -639,6 +655,22 @@
       "duration_ms": 202588,
       "name": "V\u00e5r beste dag",
       "url": "https://open.spotify.com/track/2RssYUkYzmEtvxmUX0C19A"
+    },
+    {
+      "added_at": "2022-09-08 22:00:00",
+      "album": {
+        "name": "Under deg",
+        "url": "https://open.spotify.com/album/7aCZa7V8vkhBKJ1Fbfe7el"
+      },
+      "artists": [
+        {
+          "name": "No. 4",
+          "url": "https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J"
+        }
+      ],
+      "duration_ms": 244266,
+      "name": "Under deg",
+      "url": "https://open.spotify.com/track/7bCWY2qgzjKMhTc0Tr2IO0"
     },
     {
       "added_at": "2022-09-08 22:00:00",
@@ -663,8 +695,8 @@
     {
       "added_at": "2022-09-08 22:00:00",
       "album": {
-        "name": "Alt slik det var laga",
-        "url": "https://open.spotify.com/album/0fIYDEa2RR461qmtpaJjUM"
+        "name": "S\u00e5 lett som ingenting",
+        "url": "https://open.spotify.com/album/4Llt3WbptcCMt6NjBUEge3"
       },
       "artists": [
         {
@@ -672,25 +704,9 @@
           "url": "https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv"
         }
       ],
-      "duration_ms": 234496,
-      "name": "Alt slik det var laga",
-      "url": "https://open.spotify.com/track/3nfuXqTSLAAyVDMgZgjHpc"
-    },
-    {
-      "added_at": "2022-09-08 22:00:00",
-      "album": {
-        "name": "Under deg",
-        "url": "https://open.spotify.com/album/7aCZa7V8vkhBKJ1Fbfe7el"
-      },
-      "artists": [
-        {
-          "name": "No. 4",
-          "url": "https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J"
-        }
-      ],
-      "duration_ms": 244266,
-      "name": "Under deg",
-      "url": "https://open.spotify.com/track/7bCWY2qgzjKMhTc0Tr2IO0"
+      "duration_ms": 229209,
+      "name": "S\u00e5 lett som ingenting",
+      "url": "https://open.spotify.com/track/0yscIkhw37rF1gDK0LfwJ9"
     },
     {
       "added_at": "2022-09-08 22:00:00",
@@ -739,22 +755,6 @@
       "duration_ms": 254380,
       "name": "Det Hainnle Om \u00c5 Leve",
       "url": "https://open.spotify.com/track/53EbOd2bdKu4oNEkCKAfOX"
-    },
-    {
-      "added_at": "2022-09-08 22:00:00",
-      "album": {
-        "name": "S\u00e5 lett som ingenting",
-        "url": "https://open.spotify.com/album/4Llt3WbptcCMt6NjBUEge3"
-      },
-      "artists": [
-        {
-          "name": "Odd Nordstoga",
-          "url": "https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv"
-        }
-      ],
-      "duration_ms": 229209,
-      "name": "S\u00e5 lett som ingenting",
-      "url": "https://open.spotify.com/track/0yscIkhw37rF1gDK0LfwJ9"
     },
     {
       "added_at": "2022-09-08 22:00:00",

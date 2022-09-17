@@ -4,7 +4,7 @@
 
 > A palavra do Senhor pra você dançar\. Foto: DJ Roger Vale, Brunno Ramos
 
-70 songs - 3 hr 50 min - not published yet
+70 songs - 3 hr 50 min - [published](https://open.spotify.com/playlist/5BZh37EBVCBsouojMwfrbZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

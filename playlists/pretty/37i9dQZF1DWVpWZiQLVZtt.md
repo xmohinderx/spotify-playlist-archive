@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpWZiQLVZtt.md) - [plain]
 
 > Pop Latino de los 80 y 90\. Canciones que quedarán para siempre\. Foto: Luis Miguel
 
-[Spotify](https://open.spotify.com/user/spotify) - 435,055 likes - 132 songs - 9 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 435,607 likes - 132 songs - 9 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,20 +77,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpWZiQLVZtt.md) - [plain]
 | 67 | [Me quedaré solo](https://open.spotify.com/track/4I3rLiNr4xgRT5dRpFOltS) | [Amistades Peligrosas](https://open.spotify.com/artist/15FscPIs0VO23BCCMaPglf) | [La Profecía](https://open.spotify.com/album/2k691jOhcg4Hj89qp9OLzY) | 4:21 |
 | 68 | [Fuego de Noche, Nieve de Día](https://open.spotify.com/track/1f6XyjXx6wUb7zdk9JWzl9) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [A Medio Vivir](https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM) | 5:35 |
 | 69 | [Si Tú Te Vas](https://open.spotify.com/track/7A1V7IEbwn2nuFGreV8DNv) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Enrique Iglesias](https://open.spotify.com/album/18FB0rct42g5hNr14l70GK) | 4:04 |
-| 70 | [¡Oh Mamá! Ella Me Ha Besado](https://open.spotify.com/track/5tQj4QVkWpb0EqfpVaOYBk) | [Pablo Ruiz](https://open.spotify.com/artist/5BLxach4cxTAK3Pg0Nu2r2) | [Un Angel](https://open.spotify.com/album/3KRX9wsF1xs0BaIQldrhp2) | 3:31 |
+| 70 | [Piel Morena](https://open.spotify.com/track/2Lv1EpgTXrZ2gzJfoNGVnw) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [En Extasis](https://open.spotify.com/album/48Squ1oYsMrjEGUKnmEHyp) | 4:42 |
 | 71 | [Ave María](https://open.spotify.com/track/5U4pDBaeq2Jl2dKuWWUSsh) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Corazon Latino](https://open.spotify.com/album/2uwVT3EKTVmI3ik9yqsyMl) | 3:29 |
-| 72 | [Piel Morena](https://open.spotify.com/track/2Lv1EpgTXrZ2gzJfoNGVnw) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [En Extasis](https://open.spotify.com/album/48Squ1oYsMrjEGUKnmEHyp) | 4:42 |
-| 73 | [Mío](https://open.spotify.com/track/77GJz1FIKgjIp9KtnGc8Fl) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [La Chica Dorada](https://open.spotify.com/album/4zHy5B4JqOi7LaHkzWf57c) | 3:45 |
+| 72 | [Mío](https://open.spotify.com/track/77GJz1FIKgjIp9KtnGc8Fl) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [La Chica Dorada](https://open.spotify.com/album/4zHy5B4JqOi7LaHkzWf57c) | 3:45 |
+| 73 | [¡Oh Mamá! Ella Me Ha Besado](https://open.spotify.com/track/5tQj4QVkWpb0EqfpVaOYBk) | [Pablo Ruiz](https://open.spotify.com/artist/5BLxach4cxTAK3Pg0Nu2r2) | [Un Angel](https://open.spotify.com/album/3KRX9wsF1xs0BaIQldrhp2) | 3:31 |
 | 74 | [Déjame llorar](https://open.spotify.com/track/3dH0WIQ1noUsRvA4OtHSrl) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Ricardo Montaner Con La London Metropolitan Orchestra](https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE) | 5:12 |
 | 75 | [Penelope](https://open.spotify.com/track/7imPloXAqWjd1UdUdJEAXF) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [Luna Nueva](https://open.spotify.com/album/1IrGYjnsdUyC8wEw9ffBIA) | 5:19 |
 | 76 | [Levantando las Manos](https://open.spotify.com/track/6aIOfv9A3FZtQjMjyWNiJJ) | [El Simbolo](https://open.spotify.com/artist/276SjaOhqPfWqk3eDTDrz3) | [Éxitos](https://open.spotify.com/album/39823i6I0X4cFWoCQPZWOd) | 4:25 |
 | 77 | [Completamente Enamorados](https://open.spotify.com/track/3pz19CAY4yX7FSnTWDu3La) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Tiempo De Vals](https://open.spotify.com/album/5vdBZ9BMY2tZbvxYmKsGUR) | 4:18 |
 | 78 | [Kilómetros](https://open.spotify.com/track/1AfAFpHJ7s4unBIhe3NM5j) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Sin Bandera](https://open.spotify.com/album/01vioqAF5o29uDHYhXs6Vo) | 3:41 |
 | 79 | [No Le Dijo Nada](https://open.spotify.com/track/6zfTUzKLKRXeSzIl7DYPvq) | [Los Ladrones Sueltos](https://open.spotify.com/artist/27MSpvbWdva4rfi0kD07fF) | [Los Ladrones Sueltos](https://open.spotify.com/album/0mxTNx34dkX5uBPWu0pu1u) | 3:42 |
-| 80 | [Señora de las Cuatro Décadas](https://open.spotify.com/track/2neWsabATpEgR8XBv4Hqwo) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Quién Dijo Ayer](https://open.spotify.com/album/1icNy43dW75nSFOkucRFJZ) | 5:04 |
-| 81 | [Arrasando](https://open.spotify.com/track/1EhDeCHd34jt7dMDqkGQBC) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Arrasando](https://open.spotify.com/album/2PA0R3BGC5ZGCAR6G23sqO) | 3:59 |
+| 80 | [Arrasando](https://open.spotify.com/track/1EhDeCHd34jt7dMDqkGQBC) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Arrasando](https://open.spotify.com/album/2PA0R3BGC5ZGCAR6G23sqO) | 3:59 |
+| 81 | [Y Yo Sigo Aqui](https://open.spotify.com/track/2Ma2f8jV8VKMJoAcnCvZ8h) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Paulina](https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB) | 4:14 |
 | 82 | [Salomé](https://open.spotify.com/track/4dtlsMh8wam865qaU4WEnM) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Atado A Tu Amor](https://open.spotify.com/album/3liBiZNxZoEkcv9ooLM20i) | 4:13 |
-| 83 | [Y Yo Sigo Aqui](https://open.spotify.com/track/2Ma2f8jV8VKMJoAcnCvZ8h) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Paulina](https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB) | 4:14 |
+| 83 | [Señora de las Cuatro Décadas](https://open.spotify.com/track/2neWsabATpEgR8XBv4Hqwo) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Quién Dijo Ayer](https://open.spotify.com/album/1icNy43dW75nSFOkucRFJZ) | 5:04 |
 | 84 | [Solo Se Vive una Vez](https://open.spotify.com/track/0ATzislS5SvAp69hjHczej) | [Azucar Moreno](https://open.spotify.com/artist/2WrKqjMRKr5MitNYaNgvl3) | [Esclava De Tu Piel](https://open.spotify.com/album/4cllWOyTixZqsWOLj5BvPB) | 3:31 |
 | 85 | [Tratar de Estar Mejor](https://open.spotify.com/track/0ylZTq7l4Oij4dHhu9at7n) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [Tratar De Estar Mejor](https://open.spotify.com/album/4iq0kaBaXcV6YzgbuulMgj) | 3:35 |
 | 86 | [Traición a la Mejicana](https://open.spotify.com/track/4M7pLnko9ZAbjNnXTlXAVR) | [La Zimbabwe](https://open.spotify.com/artist/2fJMTjBspUhQcZYEtZoyVc) | [Cuestión de Honor](https://open.spotify.com/album/4zKi74rzwxJysMbX4xsGa9) | 4:13 |
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpWZiQLVZtt.md) - [plain]
 | 131 | [Fuego Contra Fuego](https://open.spotify.com/track/6Sbzcag4QwyIRhMSpRmlLW) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Ricky Martin](https://open.spotify.com/album/2RUhYJK4Ho2uDNhyZSJsOg) | 4:14 |
 | 132 | [Me Amaras](https://open.spotify.com/track/5ovv05x6qsMfipkdutRKbD) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Me Amaras](https://open.spotify.com/album/5CgOx7gxM9Xv90PcF5JuTH) | 4:27 |
 
-Snapshot ID: `MTY0NzMxNjE2MiwwMDAwMDAwMDQ0Yzg0ZjExMDVhMGUzMzkzOGQ4ZDFjZDUzYzU4MWY0`
+Snapshot ID: `MTY0NzMxNjE2MiwwMDAwMDAwMDI3OTUwOTc0NDA0M2UyN2RkNzVlZDIzNThjZmUxNGIw`

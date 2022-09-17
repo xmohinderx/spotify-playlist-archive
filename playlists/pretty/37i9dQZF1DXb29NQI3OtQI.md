@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb29NQI3OtQI.md) - [plain]
 
 > The best soft rock from the 2000s\. Cover: Lifehouse.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,703 likes - 80 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,888 likes - 80 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb29NQI3OtQI.md) - [plain]
 | 39 | [Love on the Weekend](https://open.spotify.com/track/0oiCeOPwm4zhwfyIpAE37y) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Search for Everything](https://open.spotify.com/album/0jZFu2tihRJ65iYAo0oOtP) | 3:32 |
 | 40 | [Simple Man \- Acoustic](https://open.spotify.com/track/4VuKGQiCzE5BdSdvp6Hjoh) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Leave a Whisper \(Deluxe Edition\)](https://open.spotify.com/album/0gLVNSNAW4ghjFqHMDFA3l) | 5:20 |
 | 41 | [Dear Agony](https://open.spotify.com/track/0c3fJd2HRi6uHWgTljIae5) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Dear Agony](https://open.spotify.com/album/0mBvlBWI6TMDrWvQ8bKOKV) | 4:18 |
-| 42 | [Here I Am \- End Title](https://open.spotify.com/track/0gJBPDy458wPeWGHei3TvO) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Spirit: Stallion Of The Cimarron \(Music From The Original Motion Picture\)](https://open.spotify.com/album/3pDG0vQ5LfL2BQZJJtkbg8) | 4:44 |
-| 43 | [Only Ones Who Know](https://open.spotify.com/track/7ABWRukVQcXrIrDKDx5Gek) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare \(Standard Version\)](https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw) | 3:01 |
+| 42 | [Only Ones Who Know](https://open.spotify.com/track/7ABWRukVQcXrIrDKDx5Gek) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare \(Standard Version\)](https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw) | 3:01 |
+| 43 | [Here I Am \- End Title](https://open.spotify.com/track/0gJBPDy458wPeWGHei3TvO) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Spirit: Stallion Of The Cimarron \(Music From The Original Motion Picture\)](https://open.spotify.com/album/3pDG0vQ5LfL2BQZJJtkbg8) | 4:44 |
 | 44 | [Heartbreak Warfare](https://open.spotify.com/track/4gs07VlJST4bdxGbBsXVue) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Battle Studies](https://open.spotify.com/album/1V5vQRMWTNGmqwxY8jMVou) | 4:29 |
 | 45 | [Closer](https://open.spotify.com/track/7jP2937OACDPrN53DzO0Ye) | [Travis](https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh) | [The Boy With No Name](https://open.spotify.com/album/0uR1cnrej7aGnRIptQxVaR) | 4:00 |
 | 46 | [Only The Young](https://open.spotify.com/track/4pOnY9Cbr16N3w0yDkUae8) | [Brandon Flowers](https://open.spotify.com/artist/18Zv2g2vUcEGqJf6WnjfXN) | [Flamingo](https://open.spotify.com/album/7zKxFkMyehmw9u3MhLpMPK) | 4:18 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb29NQI3OtQI.md) - [plain]
 | 79 | [Grazed Knees](https://open.spotify.com/track/0RwZ0ZBJ7BOROv4JkewvKK) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Final Straw](https://open.spotify.com/album/6rnHGj9PUHcEQCp4xdjbeJ) | 2:54 |
 | 80 | [Falling Down \(feat\. Justin Timberlake\)](https://open.spotify.com/track/39Fp08QFko8zyYjNbuhJJf) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Red Carpet Massacre](https://open.spotify.com/album/7I7gJPIDgmdaMnHlUJi9AO) | 5:39 |
 
-Snapshot ID: `MTY1NDcyMDg2NiwwMDAwMDAwMGE5ZjZlMDQ0M2MzNDUwYjdlNDJkNGU3Y2Q0ZDFkY2Nl`
+Snapshot ID: `MTY1NDcyMDg2NiwwMDAwMDAwMDQ0ZDAxODg1MTYwYjFlNjQwNmUzMjU5NTI4OWJkYzcz`

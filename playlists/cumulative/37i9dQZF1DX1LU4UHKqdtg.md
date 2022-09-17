@@ -2,9 +2,9 @@
 
 ### [K\-Pop Fresh](https://open.spotify.com/playlist/37i9dQZF1DX1LU4UHKqdtg)
 
-> 最先端のK\-Popをピックアップ！// The freshest K\-Pop of today! cover: Kep1er
+> 最先端のK\-Popをピックアップ！// The freshest K\-Pop of today! cover: BLACKPINK
 
-353 songs - 19 hr 33 min - [published](https://open.spotify.com/playlist/7M2UzkWe0rrHEXaOnPr3Xw)
+356 songs - 19 hr 42 min - [published](https://open.spotify.com/playlist/7M2UzkWe0rrHEXaOnPr3Xw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [DM](https://open.spotify.com/track/7B9W7Qsy5M2kyUNjQYIEG8) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Midnight Guest](https://open.spotify.com/album/2WT1URsANJa9zhPsqzspMR) | 3:24 | 2022-01-18 | 2022-04-01 |
 | [Do It Like This](https://open.spotify.com/track/0aW4RWeGekBfU2NhREc5kL) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [DISHARMONY : FIND OUT](https://open.spotify.com/album/13kHQp4zyK5jBpsFZmTvHz) | 3:12 | 2022-01-06 | 2022-03-16 |
 | [Do It Like This \- English Version](https://open.spotify.com/track/5Z0k8KRK0Xy0metItGplGo) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [Do It Like This \(English Version\)](https://open.spotify.com/album/4L12vI7rtyBFmYOWZYtOi6) | 3:12 | 2022-03-10 | 2022-05-11 |
+| [Don't](https://open.spotify.com/track/54XEKEtqGf1id0Dj0yVNyX) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [Feelin' Like](https://open.spotify.com/album/6aHqtqYMafUMboxW0xMhdM) | 2:45 | 2022-09-16 |  |
 | [DON'T DANCE](https://open.spotify.com/track/27Xr5Ty5TCABfJg01wGcJh) | [Amber Liu](https://open.spotify.com/artist/4ZpzgTOUAznSK70KdPbJHf) | [DON'T DANCE](https://open.spotify.com/album/25VBcFAuHR0NXGYXNcP1wc) | 2:32 | 2021-12-23 | 2022-01-19 |
 | [Don't hesitate](https://open.spotify.com/track/0bh2STGfDf1LuZBHL2eRGU) | [WONHO](https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D) | [Don't hesitate](https://open.spotify.com/album/05g8jnH2x9k8Lj25jFznyC) | 3:23 | 2022-08-19 |  |
 | [Don't Stop](https://open.spotify.com/track/1BrZwASv0NW4L61k4IJU3k) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Don't Stop](https://open.spotify.com/album/3YxouNqtb28l4XYOehopZF) | 3:10 | 2022-02-01 | 2022-04-20 |
@@ -151,7 +152,7 @@
 | [I LOVE U](https://open.spotify.com/track/02Vb9vfZUmqAKNhQwFjPSZ) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [HOLIDAY](https://open.spotify.com/album/6DuGgrykXd5DVx3aznyYqH) | 2:56 | 2022-07-28 | 2022-08-31 |
 | [I LOVE U](https://open.spotify.com/track/5C4LYdOg6MoaRcuPFnu7CC) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [HOLIDAY](https://open.spotify.com/album/7GzeKow6a3UwRNvJESxl3m) | 2:56 | 2022-07-05 | 2022-07-29 |
 | [I want you to be happy](https://open.spotify.com/track/3VaPpNx6tSFotl2NywDpiy) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [I want you to be happy](https://open.spotify.com/album/3G6X4oBhIf8Xqgg8vxirjv) | 3:47 | 2022-04-19 | 2022-06-29 |
-| [If with U](https://open.spotify.com/track/0Qqo0BxJWQGdvYWLoIOWq2) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [If with U](https://open.spotify.com/album/7pxzFpELZglI6l6Ssw5lcw) | 3:07 | 2022-07-08 |  |
+| [If with U](https://open.spotify.com/track/0Qqo0BxJWQGdvYWLoIOWq2) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [If with U](https://open.spotify.com/album/7pxzFpELZglI6l6Ssw5lcw) | 3:07 | 2022-07-08 | 2022-09-17 |
 | [Illusion](https://open.spotify.com/track/5uFqjHOo3Sh0bVPCKf3DdH) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Illusion](https://open.spotify.com/album/4r815m6eq8OXYzfqtk3FST) | 3:15 | 2022-06-01 |  |
 | [imysm](https://open.spotify.com/track/1fnzWwpiHUxppDQ8EQccvW) | [Mark Tuan](https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB) | [imysm](https://open.spotify.com/album/77f8dmnqzJfEHel3QxTbsB) | 2:27 | 2022-06-30 | 2022-08-20 |
 | [INVU](https://open.spotify.com/track/7rXcCpIAoOUCydkVDMcoPV) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [INVU \- The 3rd Album](https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9) | 3:24 | 2022-02-14 | 2022-05-03 |
@@ -199,6 +200,7 @@
 | [memeM](https://open.spotify.com/track/2fjBCcElSYOt5LN9GeuB5P) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [memeM](https://open.spotify.com/album/0cu9atEEYjquZCh3qTMgza) | 2:52 | 2022-03-30 | 2022-06-29 |
 | [Memu Aagamu](https://open.spotify.com/track/4C81bkQ2tkMmYk4bGFCrv5) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a), [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi) | [Memu Aagamu](https://open.spotify.com/album/3c7ooAYb67kWlfNC3DpMjh) | 2:47 | 2022-08-23 |  |
 | [Mixtape : Time Out](https://open.spotify.com/track/0OCDOcvQvozjsivREMojzx) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Mixtape : Time Out](https://open.spotify.com/album/6Sr3My17NKn1g1zIFclPoS) | 2:55 | 2022-08-01 |  |
+| [Moonlight](https://open.spotify.com/track/5FMaHFAPTjeWvym1F3IoGb) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g), [Reiley](https://open.spotify.com/artist/1nHcGkMVml7a44TVwfrAN8) | [Moonlight](https://open.spotify.com/album/3Bs3EaKLhOE2wQMriF5hRo) | 3:08 | 2022-09-16 |  |
 | [MORE](https://open.spotify.com/track/4XKXphKH76W4zNpkgFS5o2) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [MORE](https://open.spotify.com/album/5Sk4Inca1WZhP7VLuD7DOi) | 3:00 | 2022-06-30 | 2022-08-30 |
 | [my life](https://open.spotify.com/track/53Iv4XnDyFKnMXVaiiCcdv) | [Mark Tuan](https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB) | [my life](https://open.spotify.com/album/1JzvEZ8BtBvjwrqOj0OdLS) | 2:54 | 2022-01-20 | 2022-04-06 |
 | [My My](https://open.spotify.com/track/6GAkM249WkoA8d0kJArZAp) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [My My](https://open.spotify.com/album/5pwj7F9Rmmc47XDMduN3jJ) | 3:28 | 2021-12-23 | 2022-01-28 |
@@ -214,7 +216,7 @@
 | [Oh Sorry Ya](https://open.spotify.com/track/03HYOtfzbzx0HPHMcfLFOe) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Oh Sorry Ya](https://open.spotify.com/album/4LKKDcLPX4aZXGfnlpFPi7) | 2:35 | 2022-03-08 | 2022-05-18 |
 | [One In A Billion](https://open.spotify.com/track/66wQlkJP6zHNOzRkyo5yZS) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [One In A Billion](https://open.spotify.com/album/19Jm8Jk0zQYs6zMaxhYJFd) | 3:16 | 2022-09-06 |  |
 | [Oort Cloud](https://open.spotify.com/track/7bKcCs0Lvg00wFNkq3EPIx) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [YOUNHA 6th Album Repackage 'END THEORY : Final Edition'](https://open.spotify.com/album/63mur6I6yCG9cOxOst3i7c) | 3:26 | 2022-03-30 | 2022-06-01 |
-| [Over you](https://open.spotify.com/track/5XA1Budg4PZMx2P3kyDfM1) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [iCE](https://open.spotify.com/album/6Bmm0yb59VBvI7ozMOQZoB) | 3:28 | 2022-07-20 |  |
+| [Over you](https://open.spotify.com/track/5XA1Budg4PZMx2P3kyDfM1) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [iCE](https://open.spotify.com/album/6Bmm0yb59VBvI7ozMOQZoB) | 3:28 | 2022-07-20 | 2022-09-17 |
 | [Patbingsu](https://open.spotify.com/track/3B6t6zKMa959qbWvLUWxxl) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0), [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [track by YOON: Patbingsu](https://open.spotify.com/album/6c6wbjLgOX3crURuTPfaL8) | 3:29 | 2022-07-15 | 2022-08-26 |
 | [Peaches](https://open.spotify.com/track/237OjBs3wvamAFpHp0yItw) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Peaches \- The 2nd Mini Album](https://open.spotify.com/album/1meyTrwRpRw7RnD8aoFfj0) | 3:18 | 2021-12-23 | 2022-01-26 |
 | [Pink Venom](https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Pink Venom](https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1) | 3:06 | 2022-08-19 |  |
@@ -258,6 +260,7 @@
 | [Second](https://open.spotify.com/track/06airWVL4vpd8lNKQP9wMx) | [HYO](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [DEEP \- The 1st Mini Album](https://open.spotify.com/album/2qa6E3bEJ5OqwVgbfWOeF4) | 3:38 | 2022-05-16 | 2022-07-20 |
 | [Shark](https://open.spotify.com/track/76XT86YEJq9vGQljItY6gw) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Shark](https://open.spotify.com/album/104jjlIreYgxI8FofxpaFz) | 3:23 | 2021-12-23 | 2022-03-09 |
 | [SHE'S THE BOSS](https://open.spotify.com/track/1C2P1QRhkrAQHTq3j1YfM1) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [SHE'S THE BOSS](https://open.spotify.com/album/6kPf5szTsKC6OMX3YPuxcS) | 3:47 | 2022-05-13 | 2022-07-27 |
+| [Shut Down](https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 2:55 | 2022-09-16 |  |
 | [SHUT DOWN \- JP Ver.](https://open.spotify.com/track/5PvVq0PXbiRXzveh3xXeJr) | [CLASS:y](https://open.spotify.com/artist/3jcfHmXvjOgHzfyVE55GzZ) | [SHUT DOWN \(JP Ver.\)](https://open.spotify.com/album/7vwaP19jaG87FAp42Id6Hq) | 3:26 | 2022-06-21 | 2022-08-20 |
 | [Shut up Kiss Me Feat\. Lil Cherry \- Japanese Version](https://open.spotify.com/track/0EFOGdOhRiPPcEmohA4nXs) | [APOKI](https://open.spotify.com/artist/0JVB3oaSxGrbnhzIiKwiR9), [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4) | [Shut up Kiss Me Feat\. Lil Cherry \(Japanese Version\)](https://open.spotify.com/album/574ZVaoEUhFaArM7BDjoIm) | 3:20 | 2022-06-16 | 2022-07-23 |
 | [SICK LOVE](https://open.spotify.com/track/4h2fIodPmm0JCSp7VI8JGJ) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [SICK LOVE](https://open.spotify.com/album/6e01ZcUqdaVxS8boKn9irm) | 3:37 | 2022-09-04 |  |
@@ -290,7 +293,7 @@
 | [Tear Drop \- Japanese Version](https://open.spotify.com/track/1okHSSD84n50gQ6NzamOxh) | [SF9](https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X) | [Tear Drop \(Japanese Version\)](https://open.spotify.com/album/3RMKTbstlXbblJ5U8CQSuh) | 3:18 | 2022-06-07 | 2022-07-21 |
 | [Tell me this is real](https://open.spotify.com/track/4O9vCvUz8fSJHJVvXKiBMp) | [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) | [My chilling roommate \(Original Television Soundtrack, Pt\. 1\)](https://open.spotify.com/album/3JJWRFZW2JRUrPK1DCeFQa) | 3:38 | 2022-06-14 | 2022-08-04 |
 | [Test Me](https://open.spotify.com/track/2bbqzrgy0lwuNmzUpFNDjQ) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Hello, world!](https://open.spotify.com/album/3cVSTqje6SLgIafmwJEPFE) | 3:19 | 2022-07-20 | 2022-07-29 |
-| [Test Me](https://open.spotify.com/track/3MU7mQWCeNx7m75r1107Ds) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Hello, world!](https://open.spotify.com/album/0Z5qdttvpyXKKNLdqeEs27) | 3:19 | 2022-07-28 |  |
+| [Test Me](https://open.spotify.com/track/3MU7mQWCeNx7m75r1107Ds) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Hello, world!](https://open.spotify.com/album/0Z5qdttvpyXKKNLdqeEs27) | 3:19 | 2022-07-28 | 2022-09-17 |
 | [Thank You](https://open.spotify.com/track/08rg9OloHTHRsk9evNPpnd) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [THANK YOU](https://open.spotify.com/album/5RaqvFt71ro3Y8nngoucv6) | 3:15 | 2022-03-14 | 2022-05-24 |
 | [That That \(prod\. & feat\. SUGA of BTS\)](https://open.spotify.com/track/5oH4DQAuu1J1800RzUsBWa) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [PSY 9th](https://open.spotify.com/album/0v4swbfO7N9WyJkUo465C4) | 2:54 | 2022-04-29 | 2022-07-29 |
 | [That That \(prod\. & feat\. SUGA of BTS\)](https://open.spotify.com/track/7GNRUsU3M4XNDDB9xle5Dz) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [PSY 9th](https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB) | 2:54 | 2022-07-28 | 2022-09-07 |

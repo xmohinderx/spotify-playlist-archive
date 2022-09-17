@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Philippines.
 
-471 songs - 1 day 4 hr 13 min - [published](https://open.spotify.com/playlist/52xjh3mn7JrwUE3L9gYvc3)
+472 songs - 1 day 4 hr 17 min - [published](https://open.spotify.com/playlist/52xjh3mn7JrwUE3L9gYvc3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -283,6 +283,7 @@
 | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/track/1SC5rEoYDGUK4NfG82494W) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:17 | 2021-09-19 | 2021-10-03 |
 | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/track/3BZEcbdtXQSo7OrvKRJ6mb) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/album/5iZytG7j5DDp9RlsmkGI97) | 2:17 | 2021-04-03 | 2021-04-14 |
 | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/track/67BtfxlNbhBmCDR2L2l8qd) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/album/2Hjcfw8zHN4dJDZJGOzLd6) | 2:17 | 2021-04-14 | 2021-09-19 |
+| [Mood](https://open.spotify.com/track/27kaeLB6wRVvsaORS8O96F) | [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm), [Muric](https://open.spotify.com/artist/48K8I2AZGPknyk914KtMzO) | [Mood](https://open.spotify.com/album/1KCy0t9OekxUxwTxfIHrbA) | 3:50 | 2022-09-16 |  |
 | [Mood \(Remix\) feat\. Justin Bieber, J Balvin & iann dior](https://open.spotify.com/track/6FuGJB290AQMAHTfjOYVaK) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [Mood \(Remix\) feat\. Justin Bieber, J Balvin & iann dior](https://open.spotify.com/album/4PTxbJPI4jj0Kx8hwr1v0T) | 3:12 | 2021-03-27\* | 2021-07-04 |
 | [MOON](https://open.spotify.com/track/2oupN96VwNrbONyMtTWGjH) | [Nik Makino](https://open.spotify.com/artist/3lFMRWaEWZlfXdBig97kks), [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh) | [HYPE ONE'S](https://open.spotify.com/album/16mhf5yYPCUXCr3zUrmBkO) | 3:31 | 2022-07-07 |  |
 | [MORE](https://open.spotify.com/track/4XKXphKH76W4zNpkgFS5o2) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [MORE](https://open.spotify.com/album/5Sk4Inca1WZhP7VLuD7DOi) | 3:00 | 2022-07-02 | 2022-07-06 |
@@ -349,7 +350,7 @@
 | [Run \(feat\. Ed Sheeran\) \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/4IQkfUsrwXol38VV3U7t7T) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 4:00 | 2021-11-14 | 2021-11-21 |
 | [Run BTS](https://open.spotify.com/track/69xohKu8C1fsflYAiSNbwM) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:24 | 2022-06-11 | 2022-06-24 |
 | [Runaway](https://open.spotify.com/track/238Ra1ggmx3wUkHyZ8EjST) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [DON'T FIGHT THE FEELING \- Special Album](https://open.spotify.com/album/7Jw48lPmYuYftfQv5LmAzI) | 3:27 | 2021-06-09 | 2021-06-12 |
-| [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy) | 4:58 | 2022-06-03 |  |
+| [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy) | 4:58 | 2022-06-03 | 2022-09-17 |
 | [Sa Susunod na Habang Buhay](https://open.spotify.com/track/3PgjBOoA5OytNGkglObpOd) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Sa Susunod na Habang Buhay](https://open.spotify.com/album/0U3q2NgWn97Fsns6dg7CzD) | 4:48 | 2022-05-02 |  |
 | [Sad Beautiful Tragic \(Taylor's Version\)](https://open.spotify.com/track/21SralRv4ucDT3i1rYrr85) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6x9s2ObPdpATZgrwxsk9c0) | 4:44 | 2021-11-14 | 2021-11-14 |
 | [Sad Beautiful Tragic \(Taylor's Version\)](https://open.spotify.com/track/73qMN9bXy7MSPwwGfH3wQr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 4:44 | 2021-11-14 | 2021-11-17 |

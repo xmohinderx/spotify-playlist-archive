@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2cYklA89lm.md) - [plain]
 
 > Fast cars, zombie love, and psychobilly freakouts!
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,732 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,802 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,19 +27,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2cYklA89lm.md) - [plain]
 | 17 | [Nightmare on Elm Street](https://open.spotify.com/track/3GeIm6HhGv6k6yBxoFqQy4) | [Misfits](https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey) | [Friday The 13th](https://open.spotify.com/album/5lWhwbVAq6NJY1FkRcIybm) | 2:53 |
 | 18 | [Miss Take](https://open.spotify.com/track/4ooN58vt6HJdTH5QxPzQ5y) | [Horrorpops](https://open.spotify.com/artist/7MvgOAoxA9ZgOxtRBYxLWJ) | [Hell Yeah!](https://open.spotify.com/album/0VOcNE4u7ADFpWm5AG7gDC) | 3:58 |
 | 19 | [Who Killed The Cheerleader](https://open.spotify.com/track/3Ero9C3m7RlEf1xu5XhFDC) | [Nekromantix](https://open.spotify.com/artist/3KPGTmc7LTodUo6mG4KvzQ) | [Return Of The Loving Dead](https://open.spotify.com/album/7dr1Aqdu3jMjHKC8J3QCvd) | 4:09 |
-| 20 | [Last Ride](https://open.spotify.com/track/7vW7D1uPPSw6V7kt9VJL6S) | [Tiger Army](https://open.spotify.com/artist/7ivKiS6TITQYizkbUUahbi) | [Retrofuture](https://open.spotify.com/album/5DbBmt6CrKpGsWnhgYKPX1) | 3:16 |
-| 21 | [The Way Of The Road](https://open.spotify.com/track/0hRw07bcnbOUhlLHem7Bs9) | [Koffin Kats](https://open.spotify.com/artist/5SlxIxRqgFVFeSfpG6SHdf) | [Our Way & The Highway](https://open.spotify.com/album/3csHpaafwVPG118KJFaibU) | 2:24 |
+| 20 | [The Way Of The Road](https://open.spotify.com/track/0hRw07bcnbOUhlLHem7Bs9) | [Koffin Kats](https://open.spotify.com/artist/5SlxIxRqgFVFeSfpG6SHdf) | [Our Way & The Highway](https://open.spotify.com/album/3csHpaafwVPG118KJFaibU) | 2:24 |
+| 21 | [Last Ride](https://open.spotify.com/track/7vW7D1uPPSw6V7kt9VJL6S) | [Tiger Army](https://open.spotify.com/artist/7ivKiS6TITQYizkbUUahbi) | [Retrofuture](https://open.spotify.com/album/5DbBmt6CrKpGsWnhgYKPX1) | 3:16 |
 | 22 | [Kiss me now](https://open.spotify.com/track/5MZbDFmM6KMMXwRu5JIIez) | [Batmobile](https://open.spotify.com/artist/7qkq2G92f2yMJVejh6NBEJ) | [Bail set at $6M](https://open.spotify.com/album/7KOJg4C1DjxJH5PM4waUSL) | 3:15 |
 | 23 | [Death at My Door](https://open.spotify.com/track/3YY9GOjWTzEYwptFfomE1L) | [The Creepshow](https://open.spotify.com/artist/7rHGFWPlIoy2qOWBDLAWNt) | [Death at My Door](https://open.spotify.com/album/0LbmGABwr2WGTzNObgorLu) | 2:10 |
 | 24 | [Decompose](https://open.spotify.com/track/6NexeDn8Jgd0q5owW8EgLi) | [Wednesday 13](https://open.spotify.com/artist/6Cvzf33JDzCIw2eJU8npQo) | [Necrophaze](https://open.spotify.com/album/6PsN3csRxymw0Qoykup69Q) | 4:25 |
 | 25 | [Enjoy the Silence](https://open.spotify.com/track/2kL439jP9YGWZ6hdGDDE6l) | [The Brains](https://open.spotify.com/artist/0ujJcXFGHsPI1zGj4UoTKH) | [Psychobilly Goes Pop](https://open.spotify.com/album/7zHdZsf31n2zvmm5FmxHZ0) | 2:09 |
-| 26 | [Rebirth](https://open.spotify.com/track/5HrTdDEXCIvDw8hpVizq1E) | [The Crimson Ghosts](https://open.spotify.com/artist/23lnhRafqD5vQdQJbJ7Iam) | [Yet Not Human](https://open.spotify.com/album/5NbtaLyBInCV08m1qqayUn) | 3:05 |
-| 27 | [A Night to Dismember](https://open.spotify.com/track/6Oz1iTAMTFQiOVxHZhNlYQ) | [Bloody Hammers](https://open.spotify.com/artist/6MC1i9hToT9dRxdN4hIHEW) | [Songs of Unspeakable Terror](https://open.spotify.com/album/18WFSTsaFEFNG9P5jM5gxM) | 3:18 |
+| 26 | [A Night to Dismember](https://open.spotify.com/track/6Oz1iTAMTFQiOVxHZhNlYQ) | [Bloody Hammers](https://open.spotify.com/artist/6MC1i9hToT9dRxdN4hIHEW) | [Songs of Unspeakable Terror](https://open.spotify.com/album/18WFSTsaFEFNG9P5jM5gxM) | 3:18 |
+| 27 | [Rebirth](https://open.spotify.com/track/5HrTdDEXCIvDw8hpVizq1E) | [The Crimson Ghosts](https://open.spotify.com/artist/23lnhRafqD5vQdQJbJ7Iam) | [Yet Not Human](https://open.spotify.com/album/5NbtaLyBInCV08m1qqayUn) | 3:05 |
 | 28 | [Graveyard Girlfriend](https://open.spotify.com/track/4hyBfSiH8h6xe5MagKN9Aw) | [Kepi Ghoulie & The Copyrights](https://open.spotify.com/artist/07ilVTX7rWZkHA8IIEwogC) | [Re\-Animation Festival](https://open.spotify.com/album/4wTOb6aleIGvVYywjfavKe) | 2:25 |
 | 29 | [Gargoyles Over Copenhagen](https://open.spotify.com/track/7HtSPzWtfn0PWY2NkWGYvq) | [Nekromantix](https://open.spotify.com/artist/3KPGTmc7LTodUo6mG4KvzQ) | [Return Of The Loving Dead](https://open.spotify.com/album/7dr1Aqdu3jMjHKC8J3QCvd) | 3:56 |
 | 30 | [Monster Mutant Boogie](https://open.spotify.com/track/52DIHgGz4qDzxIYBS1EzmS) | [Bloodsucking Zombies from outer Space](https://open.spotify.com/artist/0KqznEOu3uw5H643xIvlq9) | [Decade of Decay – the Gravest Hits of Bzfos](https://open.spotify.com/album/7Lvr4EH8brRQ2iO2MGA3IE) | 3:47 |
-| 31 | [Stars Are Falling](https://open.spotify.com/track/49aaN0x4nDDLgB3zOqZFii) | [The Rosedales](https://open.spotify.com/artist/1GCXkPIyVrSK5Xyitgw1dU) | [Stereoghost](https://open.spotify.com/album/2bK56ZDB5cHluxzAUGtF6l) | 4:03 |
-| 32 | [Beyond The Veil](https://open.spotify.com/track/5wW50T3h2AnaQXp6rUALtg) | [Tiger Army](https://open.spotify.com/artist/7ivKiS6TITQYizkbUUahbi) | [Retrofuture](https://open.spotify.com/album/5DbBmt6CrKpGsWnhgYKPX1) | 2:38 |
+| 31 | [Beyond The Veil](https://open.spotify.com/track/5wW50T3h2AnaQXp6rUALtg) | [Tiger Army](https://open.spotify.com/artist/7ivKiS6TITQYizkbUUahbi) | [Retrofuture](https://open.spotify.com/album/5DbBmt6CrKpGsWnhgYKPX1) | 2:38 |
+| 32 | [Stars Are Falling](https://open.spotify.com/track/49aaN0x4nDDLgB3zOqZFii) | [The Rosedales](https://open.spotify.com/artist/1GCXkPIyVrSK5Xyitgw1dU) | [Stereoghost](https://open.spotify.com/album/2bK56ZDB5cHluxzAUGtF6l) | 4:03 |
 | 33 | [Red Sky](https://open.spotify.com/track/0G3PNHYZlGdGqL2AUGjNip) | [The Hellfreaks](https://open.spotify.com/artist/2gwo7JN0Ug8xOQZKevs5Pr) | [Red Sky](https://open.spotify.com/album/3ZjHe6g42gDQcvCzGB56LI) | 3:13 |
 | 34 | [Hellbound Heart](https://open.spotify.com/track/44qkYytrjp1w9Dy1Q4kGEV) | [Stellar Corpses](https://open.spotify.com/artist/1hw7xcATBmW7H2Ub7MRk7J), [Jimmy Calabrese](https://open.spotify.com/artist/6KoBsgEcgUi4hUkVZiAgiH) | [Hellbound Heart](https://open.spotify.com/album/7nLqF6LpGmCJD74orPRgrP) | 3:46 |
 | 35 | [Sticks & Stones](https://open.spotify.com/track/6afQKJhKqdqTGomP1bbRT5) | [The Creepshow](https://open.spotify.com/artist/7rHGFWPlIoy2qOWBDLAWNt) | [Death at My Door](https://open.spotify.com/album/0LbmGABwr2WGTzNObgorLu) | 3:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2cYklA89lm.md) - [plain]
 | 49 | [King of the Waves](https://open.spotify.com/track/2H9eYf6J7fRcgOm4MJrpfI) | [Johnny and the Rotten](https://open.spotify.com/artist/0UxpQSNKdoqA1TOdFnAcng) | [Down the Rabbit Hole](https://open.spotify.com/album/5bRbNwr5O2YUwOYuxf3Fq7) | 3:35 |
 | 50 | [Black Jack Death Bet](https://open.spotify.com/track/6LH2ljS7gXAhWA7o6qoCLz) | [The Brains](https://open.spotify.com/artist/0ujJcXFGHsPI1zGj4UoTKH) | [No Brain, No Pain](https://open.spotify.com/album/2rZ5qNRkmfs9bTaz0bx7Az) | 3:05 |
 
-Snapshot ID: `MTYxMDgxNTY3NSwwMDAwMDAwMDY4ZjAwNTVjYTg3ZDYyNzJjNWU2Y2RiZjFmNTliNzQ2`
+Snapshot ID: `MTYxMDgxNTY3NSwwMDAwMDAwMDY2NjY5ZThhNDM2ZGNlMTRjYWFjNzA2NDk0NWZhOTkx`

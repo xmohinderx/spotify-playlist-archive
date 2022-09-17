@@ -4,7 +4,7 @@
 
 > Classic soft rock for a nice and easy drive.
 
-80 songs - 5 hr 26 min - not published yet
+80 songs - 5 hr 26 min - [published](https://open.spotify.com/playlist/3OchtZtRRSTJjBGa1WgVzc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

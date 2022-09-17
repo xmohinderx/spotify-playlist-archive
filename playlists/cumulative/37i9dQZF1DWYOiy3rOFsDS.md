@@ -4,7 +4,7 @@
 
 > Romance antigüito en voz de tus artistas pop con Fernanda Ulibarri y Leiden en portada.
 
-220 songs - 13 hr 9 min - [published](https://open.spotify.com/playlist/4BSRRbWHbtCycrKZ946Plx)
+221 songs - 13 hr 13 min - [published](https://open.spotify.com/playlist/4BSRRbWHbtCycrKZ946Plx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [No Sabía](https://open.spotify.com/track/7pk6N0rE7NcfDYryeqsAHn) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Niño de Elche](https://open.spotify.com/artist/5IbUz6BcOu6IVY512oxavP) | [No Sabía](https://open.spotify.com/album/2gOm3N82lznLwNw58asTBL) | 3:05 | 2021-10-29 | 2022-07-29 |
 | [No Soy de Aquí, Ni Soy de Allá](https://open.spotify.com/track/5rCvtkwn4Y30lfhis5s2aw) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [No Soy de Aquí, Ni Soy de Allá](https://open.spotify.com/album/7dqlEsABmYafODMP9hlNw9) | 3:27 | 2021-10-16 | 2022-07-28 |
 | [No Sé Tú](https://open.spotify.com/track/2DAsLftcRKP3iarCPmI1RY) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romance](https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP) | 3:49 | 2021-10-16 |  |
-| [Noche No Te Vayas](https://open.spotify.com/track/6qUvXLmgxFLxWpK4zitltx) | [Manolo Muñoz](https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu) | [Los Éxitos de Manolo Muñoz](https://open.spotify.com/album/46tQkwTb6a16ZAyMEoZFeY) | 2:50 | 2021-10-16 |  |
+| [Noche No Te Vayas](https://open.spotify.com/track/6qUvXLmgxFLxWpK4zitltx) | [Manolo Muñoz](https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu) | [Los Éxitos de Manolo Muñoz](https://open.spotify.com/album/46tQkwTb6a16ZAyMEoZFeY) | 2:50 | 2021-10-16 | 2022-09-17 |
 | [Noche No Te Vayas](https://open.spotify.com/track/5rtZvX3I8Rx6WfGmRgipBE) | [Manolo Muñoz](https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu) | [Frente a Frente](https://open.spotify.com/album/3V65u48vO1TBvNsMncg8rK) | 2:51 | 2021-10-16 | 2022-07-29 |
 | [Noche Sensacional](https://open.spotify.com/track/6L2rOHvZAwPCp2FqYmyvZ5) | [Chabuco](https://open.spotify.com/artist/7iVnPo1i10De0UGQz5eDsl), [Dayhan Díaz](https://open.spotify.com/artist/3L2JdDvaqkXdtw0DTnxLSa) | [Noche Sensacional](https://open.spotify.com/album/7zWTzor9FhwJC513rjjMda) | 3:17 | 2022-04-23 | 2022-07-30 |
 | [Nunca vas a comprender](https://open.spotify.com/track/2OlU9hHw5so2hAKYvO9unb) | [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM), [Elisabeth Roma](https://open.spotify.com/artist/4YU7oWQY1EZzkkMVK4dJHm) | [COMO LA PIEL](https://open.spotify.com/album/10dIiIjAArMNO3PCLtex1H) | 4:04 | 2021-10-16 | 2022-07-27 |
@@ -207,6 +207,7 @@
 | [Toda una Vida](https://open.spotify.com/track/5wQsHNpF6ivosuimPeo7Lo) | [Pedro Guerra](https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c) | [Contigo En La Distancia](https://open.spotify.com/album/7bouBjt8bjfdAHivSZ6hui) | 1:55 | 2021-10-16 |  |
 | [Todo por Amor](https://open.spotify.com/track/5xiFpATgA9Myx10Qv3Uwda) | [Rocio Banquells](https://open.spotify.com/artist/0WaPMyYYZZ7yxzG1qhZ5kz) | [Las Mujeres de Manzanero..\. Mis Nuevos Boleros](https://open.spotify.com/album/4vCLdaO8JOFjxfuN3qEwEe) | 3:18 | 2021-10-16 | 2022-07-20 |
 | [Torpe](https://open.spotify.com/track/7K1fAw9P8R73Sc6CpgIgJH) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip), [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Torpe](https://open.spotify.com/album/0V3VrTi9ioSHgy4kM9aRf4) | 4:12 | 2022-02-22 |  |
+| [traguito](https://open.spotify.com/track/3t2nOnte5Wp9jbvMenZedH) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [traguito](https://open.spotify.com/album/3w6RnyVHOO4xHAGzO9iOmB) | 3:56 | 2022-09-16 |  |
 | [Tu Amor No Vale un Bolero](https://open.spotify.com/track/0hKJCsS3XUVEECfslnauKv) | [Pilar Cabrera](https://open.spotify.com/artist/5gutZJ2QQFov3bjvQftsva), [Lorena Jimenez](https://open.spotify.com/artist/4DdnLfUESB3baPYYdT0sNu) | [Tu Amor No Vale un Bolero](https://open.spotify.com/album/66x0bo3TSXpCZLKMF4NjzQ) | 3:26 | 2021-10-16 |  |
 | [Tu Amor No Vale un Bolero](https://open.spotify.com/track/1tgoKrE09TkNaE6YDrkql6) | [Pilar Cabrera](https://open.spotify.com/artist/5gutZJ2QQFov3bjvQftsva), [Lorena Jiménez](https://open.spotify.com/artist/5RXUVELzcZVPK7ZN0TJVUa) | [Tu Amor No Vale un Bolero](https://open.spotify.com/album/3V5MpKVSZXseNFep9w8UFL) | 3:26 | 2021-10-16 | 2022-07-29 |
 | [Tu Y Yo \- En Vivo Los Estudios Churubusco México DF/2011](https://open.spotify.com/track/0MSiaDzdvvyWWN8RbijtW9) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Acústico En Vivo Edición Especial](https://open.spotify.com/album/3UT78KFaMa9cr1hdSSWUUl) | 4:18 | 2021-10-16 | 2022-07-29 |

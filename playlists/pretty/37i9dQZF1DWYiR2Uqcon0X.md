@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiR2Uqcon0X.md) - [plain]
 
 > The Country Coffeehouse is open! Grab a cup and lean back to some low\-key country.
 
-[Spotify](https://open.spotify.com/user/spotify) - 684,539 likes - 83 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 684,703 likes - 83 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiR2Uqcon0X.md) - [plain]
 | 26 | [Lost in Your Love](https://open.spotify.com/track/6rNQl7PtVwGEEF0PuauOAr) | [Music Travel Love](https://open.spotify.com/artist/2qNrJcE9LjzPdiXbrjkqFa) | [Originals](https://open.spotify.com/album/2bskuDoaEKsMP5lLvE6U7C) | 2:45 |
 | 27 | [Eyes Fall](https://open.spotify.com/track/1i7xvrUa72MKMhnQcYSZxx) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [A Place](https://open.spotify.com/album/2hPqFV54abYxY8dcaF4Xmu) | 3:20 |
 | 28 | [Run of Good Luck](https://open.spotify.com/track/4Px5YO3pRfrswEkVWxXhz8) | [Rob Baird](https://open.spotify.com/artist/1eE9EMjfAxDNT22LXc4Xpt) | [Wrong Side of the River](https://open.spotify.com/album/1AXj9UBEn0GtuR2nNBu2WB) | 3:45 |
-| 29 | [The Time I've Wasted](https://open.spotify.com/track/1JtvwshkJMxfm4oRhJp93C) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [Numbered Doors](https://open.spotify.com/album/0nCbtAU3ojDJz83Cx0iD8y) | 3:33 |
-| 30 | [Forgiveness](https://open.spotify.com/track/0uEqGj52IUFOcVXb4nK0sz) | [David Nail](https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6) | [Oh, Mother](https://open.spotify.com/album/0F6OzF79qmK77Kd7LfzCgL) | 4:07 |
+| 29 | [Forgiveness](https://open.spotify.com/track/0uEqGj52IUFOcVXb4nK0sz) | [David Nail](https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6) | [Oh, Mother](https://open.spotify.com/album/0F6OzF79qmK77Kd7LfzCgL) | 4:07 |
+| 30 | [The Time I've Wasted](https://open.spotify.com/track/1JtvwshkJMxfm4oRhJp93C) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [Numbered Doors](https://open.spotify.com/album/0nCbtAU3ojDJz83Cx0iD8y) | 3:33 |
 | 31 | [Louise](https://open.spotify.com/track/6iAu1ZHWQT8VmSQWZM40m7) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Dark Holler Pop](https://open.spotify.com/album/5f7goe6S1zLnEdSuIisROm) | 4:24 |
 | 32 | [Girl Goin' Nowhere](https://open.spotify.com/track/2lyEpuvVOnNGzV5c89Vnpf) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Girl Going Nowhere](https://open.spotify.com/album/2FeaUU9jFydTIsVO5F8rNU) | 3:27 |
 | 33 | [Wings](https://open.spotify.com/track/0UU1opJqwJtFvHpCrWK1Mq) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [Greenbroke](https://open.spotify.com/album/4Y0V2f8zZ53O0mF9nL1ine) | 4:24 |
@@ -67,9 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiR2Uqcon0X.md) - [plain]
 | 57 | [half of my hometown \- ballerini album version](https://open.spotify.com/track/3YJOCGSlrb78vNwu6meBSf) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [ballerini](https://open.spotify.com/album/6VHAJu9jfrIAubwug9riDk) | 3:56 |
 | 58 | [War](https://open.spotify.com/track/1UxeYs0x9oyJtCpmH0QbvL) | [The Dryes](https://open.spotify.com/artist/0npnqS0C9n5uuuBQC4oEWE) | [War](https://open.spotify.com/album/5BGimDYo0GQML8zT2gTeJK) | 3:47 |
 | 59 | [St\. Louis](https://open.spotify.com/track/1sJ3GTTKEThu9LuQ2gUWku) | [David Nail](https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6) | [St\. Louis](https://open.spotify.com/album/5e0JbK04Ky16eiEkULAN7n) | 4:34 |
-| 60 | [Sunday Best \- Acoustic](https://open.spotify.com/track/05MAs5o6TxAmADc3JJmkv9) | [Smithfield](https://open.spotify.com/artist/1aPmWgDU4JXEWg1d2BwH5M) | [Sunday Best \(Acoustic\)](https://open.spotify.com/album/59oCat0Wfu0qZyUV1AqcA4) | 2:47 |
+| 60 | [Without A Word](https://open.spotify.com/track/4e6dpHanuFVUxou9bKkLDN) | [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [Without A Word](https://open.spotify.com/album/1rzbmMngXvWTlfm2FyMFbr) | 3:58 |
 | 61 | [Because Of Yours](https://open.spotify.com/track/71gcKI3CKHIrkJPkk20USG) | [Jeffrey East](https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S) | [Because Of Yours](https://open.spotify.com/album/1brc4oeT2JHZmmVXXTrrrS) | 4:00 |
-| 62 | [Without A Word](https://open.spotify.com/track/4e6dpHanuFVUxou9bKkLDN) | [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [Without A Word](https://open.spotify.com/album/1rzbmMngXvWTlfm2FyMFbr) | 3:58 |
+| 62 | [Sunday Best \- Acoustic](https://open.spotify.com/track/05MAs5o6TxAmADc3JJmkv9) | [Smithfield](https://open.spotify.com/artist/1aPmWgDU4JXEWg1d2BwH5M) | [Sunday Best \(Acoustic\)](https://open.spotify.com/album/59oCat0Wfu0qZyUV1AqcA4) | 2:47 |
 | 63 | [Cheap Suit](https://open.spotify.com/track/2yWTcrs09YISrT3yXZB5Bp) | [Jeffrey Foucault](https://open.spotify.com/artist/7i36YYqKiSqVihxTcvLSBK) | [Blood Brothers](https://open.spotify.com/album/4DsOKCHNJ2RHA24Dlz68uN) | 2:38 |
 | 64 | [This Town Still Talks About You](https://open.spotify.com/track/7yPmspgKN5MPOVlyAWFtsa) | [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw) | [Puxico](https://open.spotify.com/album/24wTPEb0rJiR9RdVBv9EQA) | 4:28 |
 | 65 | [Anyone](https://open.spotify.com/track/7rDz9WrGq1mCxgXZl3D0r2) | [Eric Van Houten](https://open.spotify.com/artist/4FQ4J66lTV5bpVtEKjiGeK) | [Anyone](https://open.spotify.com/album/6Mbu76NbGkVPIDF4XTBJWu) | 2:51 |
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiR2Uqcon0X.md) - [plain]
 | 82 | [Back to You](https://open.spotify.com/track/5tXygo2KgUWVhpvYW7r0I5) | [Jedd Hughes](https://open.spotify.com/artist/6aZmqT6ycUdRsm7fF7ndwH) | [Back to You](https://open.spotify.com/album/6oKON9XPW9sB4CBnrQL3rs) | 3:44 |
 | 83 | [Breaking Hearts The Hard Way](https://open.spotify.com/track/4bhDhtSwRVRNoLZIy5cbfM) | [Kenton Bryant](https://open.spotify.com/artist/2RAufxLZxgdARBDirloCoB) | [Small Town Lyric: Side B](https://open.spotify.com/album/4uIM8wOcL3tU7F44o29LMs) | 3:09 |
 
-Snapshot ID: `MTY2MjA5MTIwMCwwMDAwMDAwMDRmZWE4YzU0OGU2ZTY1YTNkZDAzNDFhMDA2Mjc4YjI5`
+Snapshot ID: `MTY2MjA5MTIwMCwwMDAwMDAwMGVlZTQzMzlmNzcyOWM1ZGUyNWVmOGI0YzJhZDgzNmMx`

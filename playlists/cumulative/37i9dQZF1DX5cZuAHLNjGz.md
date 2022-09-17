@@ -4,7 +4,7 @@
 
 > Ultimate 101 Punjabi hits with AP Dhillon
 
-140 songs - 7 hr 30 min - [published](https://open.spotify.com/playlist/65mo2NWVu4B5tAS7KU5k4E)
+141 songs - 7 hr 32 min - [published](https://open.spotify.com/playlist/65mo2NWVu4B5tAS7KU5k4E)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [All Aces](https://open.spotify.com/track/6LZys87Q37Jr3RKWDFUkRF) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Byg Byrd](https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT), [Blamo](https://open.spotify.com/artist/217YiebQLxLOSubsItInzR) | [All Aces](https://open.spotify.com/album/58xwAleBBDucWbz7xukMsh) | 3:21 | 2022-05-29 |  |
 | [Arrogant](https://open.spotify.com/track/2jt9VV6QGn0tbwkrr26OO6) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS) | [Arrogant](https://open.spotify.com/album/71G8NXRzRio8JvT8og5zcL) | 1:42 | 2022-05-29 |  |
 | [Baapu](https://open.spotify.com/track/5fGH7wUp2unAd9UxbA4eGq) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Snitches Get Stitches](https://open.spotify.com/album/4lGKsta6BzDVgzKfcSCC7E) | 6:06 | 2022-06-20 | 2022-08-18 |
+| [Baller](https://open.spotify.com/track/42TMa2hgBNjte4uV7jNCnQ) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Baller](https://open.spotify.com/album/44aCFqUbG06fL58kqpMp8p) | 2:28 | 2022-09-16 |  |
 | [Barood Wargi](https://open.spotify.com/track/5BWIrdXMuMewFbyXBntyjA) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9) | [Barood Wargi](https://open.spotify.com/album/3mELIQNKJF2jSZmPL086Jm) | 3:51 | 2022-05-29 | 2022-08-20 |
 | [Bhalwani Gedi](https://open.spotify.com/track/6v1eVFNX8VmZQHY4woM9R6) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Above All](https://open.spotify.com/album/5MIukl4CU37RkKANzs0UbG) | 3:27 | 2022-05-29 |  |
 | [Bijlee Bijlee](https://open.spotify.com/track/1iZLpuGMr4tn1F5bZu32Kb) | [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo) | [Bijlee Bijlee](https://open.spotify.com/album/3tG0IGB24sRhGFLs5F1Km8) | 2:48 | 2022-05-29 |  |
@@ -102,7 +103,7 @@
 | [Pasoori](https://open.spotify.com/track/7lvDsmTRXFE3dK4OjvRiWB) | [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP), [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Pasoori](https://open.spotify.com/album/7wgrW5XyZdtk0K8PkW5A7h) | 3:44 | 2022-05-29 |  |
 | [Peaches](https://open.spotify.com/track/3mZLiEDAHIjZ8ms5Lxq33F) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Drive Thru](https://open.spotify.com/album/6KgPhunJItRDOhJFh6Sy78) | 3:09 | 2022-07-15 |  |
 | [Phulkari](https://open.spotify.com/track/1f660M0jwz7F4qlDjTSLmO) | [Karan Randhawa](https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9) | [Phulkari](https://open.spotify.com/album/3skDjGnv85nUKxVQknCk2B) | 3:16 | 2022-05-29 |  |
-| [Plug Talk](https://open.spotify.com/track/4HKbWbn8acXeTq6j0rqO5z) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1) | [Plug Talk](https://open.spotify.com/album/3U8R6hOmgBXVxoxii9NBt7) | 2:42 | 2022-08-17 |  |
+| [Plug Talk](https://open.spotify.com/track/4HKbWbn8acXeTq6j0rqO5z) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1) | [Plug Talk](https://open.spotify.com/album/3U8R6hOmgBXVxoxii9NBt7) | 2:42 | 2022-08-17 | 2022-09-17 |
 | [Raule](https://open.spotify.com/track/7HNlOqClNtvQxwC4JENKvn) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Raule](https://open.spotify.com/album/5dcstuQwgiMe0z2tQ7uNy0) | 3:15 | 2022-05-29 |  |
 | [Red Chilli](https://open.spotify.com/track/2ZxdwRUfd0LiAshQclfQZb) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Drive Thru](https://open.spotify.com/album/6KgPhunJItRDOhJFh6Sy78) | 2:32 | 2022-07-15 |  |
 | [Roll Deep](https://open.spotify.com/track/4jRoXx97M0sSZBfwMkBEDV) | [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [Roll Deep](https://open.spotify.com/album/0cQDo3urPpbh6QAawatABo) | 3:02 | 2022-05-29 |  |

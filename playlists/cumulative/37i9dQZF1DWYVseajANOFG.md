@@ -4,7 +4,7 @@
 
 > Así suena la música urbana de Panamá hoy\. Foto: Tachi
 
-104 songs - 6 hr 13 min - [published](https://open.spotify.com/playlist/79dWlZ80QnS0vL3EFzUJSz)
+105 songs - 6 hr 20 min - [published](https://open.spotify.com/playlist/79dWlZ80QnS0vL3EFzUJSz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,8 @@
 | [TOP MODEL](https://open.spotify.com/track/3N7ylprsYVhBncJIZhKy1G) | [BCA](https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf), [Jorkan](https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm), [T.O.T](https://open.spotify.com/artist/0KEa1ChgXvRCPL9Jju7cbw) | [TOP MODEL](https://open.spotify.com/album/78jgM3gvcgqdo6dJn42Fij) | 3:08 | 2022-03-11 |  |
 | [Tu Aroma](https://open.spotify.com/track/45pzGKuqIBaazzW8bPO87F) | [El Zeta](https://open.spotify.com/artist/24iSgjiesQ2bhUsHsav2uk), [Chamaco](https://open.spotify.com/artist/1xCbQhtV5c1Vc1I1n2jyv0), [Eiby](https://open.spotify.com/artist/09hiuib0jApNPaf9sDXlSn) | [Tu Aroma](https://open.spotify.com/album/1jp0g5lnkp5rHmSWitsXao) | 4:45 | 2022-03-11 | 2022-06-04 |
 | [TU NO TA LINDO RMX](https://open.spotify.com/track/2XV6pyJyineBFSxR73BWAQ) | [Mista Bombo](https://open.spotify.com/artist/0dOCP5MXmqLp0fNfN0mL3V), [Akanni](https://open.spotify.com/artist/0wgIOP9UaikBczBsamAyFh), [Yemil](https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4), [Chamaco](https://open.spotify.com/artist/1xCbQhtV5c1Vc1I1n2jyv0), [Italian Somali](https://open.spotify.com/artist/0Jke1IdFus3BTqdprlpIi3), [T.O.T](https://open.spotify.com/artist/0vrFM3YVw7VifP7cATMbkd) | [TU NO TA LINDO RMX](https://open.spotify.com/album/2tsQAkFL0mxJXy4t9A347Y) | 3:45 | 2022-03-11 | 2022-07-30 |
-| [TUS FALLOS](https://open.spotify.com/track/1Q5ccy6FsY9LIrXebNYOXF) | [Jorkan](https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm), [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ), [El Tachi](https://open.spotify.com/artist/18rdlyUjloy7fRK1g62tUt) | [NOW OR NEVER](https://open.spotify.com/album/6Acc7psb5dKniQEOBBtl5x) | 6:24 | 2022-03-11 |  |
+| [TUS FALLOS](https://open.spotify.com/track/1Q5ccy6FsY9LIrXebNYOXF) | [Jorkan](https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm), [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ), [El Tachi](https://open.spotify.com/artist/18rdlyUjloy7fRK1g62tUt) | [NOW OR NEVER](https://open.spotify.com/album/6Acc7psb5dKniQEOBBtl5x) | 6:24 | 2022-03-11 | 2022-09-17 |
+| [TUS FALLOS](https://open.spotify.com/track/5Hps3yUtidx9sRv9pBpp6Y) | [Jorkan](https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm), [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ), [Tachi](https://open.spotify.com/artist/4rGGVLUW4jKwW7HVwTr40U) | [NOW OR NEVER](https://open.spotify.com/album/1wOulBM8dCd21Wn0WHWWcJ) | 6:24 | 2022-09-09 |  |
 | [TUS LÁGRIMAS](https://open.spotify.com/track/30W8VKHrAZmHzObnwAoc1u) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [MICRODOSIS](https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC) | 2:54 | 2022-04-21 |  |
 | [Un Ghetto](https://open.spotify.com/track/5E436xsqi5Ak5KOqiesx0n) | [Danny Yash](https://open.spotify.com/artist/3tULsHfYJH7joHTmn5vLNn) | [Un Ghetto](https://open.spotify.com/album/4KcXo9upSBiiaYDeXho5RG) | 3:52 | 2022-03-11 | 2022-07-30 |
 

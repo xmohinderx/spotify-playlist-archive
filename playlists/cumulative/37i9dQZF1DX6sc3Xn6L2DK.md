@@ -4,7 +4,7 @@
 
 > Explore the stellar corners of the genre's expansive and marvelous universe.
 
-128 songs - 8 hr 7 min - [published](https://open.spotify.com/playlist/5Ymp5r0Wpvihvt8IezwUoh)
+129 songs - 8 hr 11 min - [published](https://open.spotify.com/playlist/5Ymp5r0Wpvihvt8IezwUoh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Keeps Me Running](https://open.spotify.com/track/3MJM0c97VJbp061g2FoiJ3) | [Esther Rose](https://open.spotify.com/artist/2oHUiSQkf9M1TELQvNJJPs) | [Keeps Me Running](https://open.spotify.com/album/5rJSvgyPCRU2GXtjkRYhCY) | 3:57 | 2021-12-15 | 2022-07-29 |
 | [Keeps Me Running](https://open.spotify.com/track/5QAcy8RQZQl0qzn7V1KavG) | [Esther Rose](https://open.spotify.com/artist/2oHUiSQkf9M1TELQvNJJPs) | [How Many Times](https://open.spotify.com/album/2bYiApCo4Y1wJgngiKcwmy) | 3:57 | 2021-12-15 |  |
 | [L.A\. Freeway](https://open.spotify.com/track/0HFu4LUT4kKxwIPFnS7UGz) | [Guy Clark](https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq) | [Old No\. 1](https://open.spotify.com/album/0tBjzfZrOEXzj1wcM5HphZ) | 4:56 | 2021-12-15 |  |
-| [Let it Roll](https://open.spotify.com/track/78CNAJZ7Cx1nUjyPoOPU03) | [Sam Doores](https://open.spotify.com/artist/7eL3G7djTXKmQ6AUmOwhkj) | [Sam Doores](https://open.spotify.com/album/1SrA1hRiA8P3eKcsE5daLt) | 3:58 | 2021-12-15 |  |
+| [Let it Roll](https://open.spotify.com/track/78CNAJZ7Cx1nUjyPoOPU03) | [Sam Doores](https://open.spotify.com/artist/7eL3G7djTXKmQ6AUmOwhkj) | [Sam Doores](https://open.spotify.com/album/1SrA1hRiA8P3eKcsE5daLt) | 3:58 | 2021-12-15 | 2022-09-17 |
 | [Letting Go](https://open.spotify.com/track/0hsN9kGuV9J9KLcaB2l6Es) | [Hayden Pedigo](https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ) | [Letting Go](https://open.spotify.com/album/1uxQAxembtxvtTk1AoS7KQ) | 3:24 | 2021-12-15 | 2022-07-29 |
 | [Letting Go](https://open.spotify.com/track/2sYKMfMLXwmK6idbtpxYTD) | [Hayden Pedigo](https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ) | [Letting Go](https://open.spotify.com/album/46N1u5BuUGsZlj7pij2JRK) | 3:24 | 2021-12-15 |  |
 | [Lonesome City](https://open.spotify.com/track/3GK8qlVjiLpdmcw6bvLYaF) | [The Black Canyon Gang](https://open.spotify.com/artist/4Qk3TBIbLIydpukG1TerQe) | [Wayfaring Strangers: Cosmic American Music](https://open.spotify.com/album/5uFF8Q8WlrvtK2WfK9VupC) | 3:34 | 2021-12-15 | 2022-07-29 |
@@ -64,6 +64,7 @@
 | [Long Game](https://open.spotify.com/track/0fE8J2qGiRxq2ybixfBygG) | [Emily Nenni](https://open.spotify.com/artist/63BuZ8jcRTEc8SLZdGlXQy) | [Long Game](https://open.spotify.com/album/0FbB9CA6nnPmFmz1Ka0zQy) | 3:00 | 2021-12-15 |  |
 | [Los Angeles](https://open.spotify.com/track/04DwnERkZbFbkWGWHMLCw1) | [Dougie Poole](https://open.spotify.com/artist/2GubanPI94YiSAy9uVC51y) | [The Freelancer's Blues](https://open.spotify.com/album/6ntgA36GdxubP36vQrAbjm) | 4:37 | 2021-12-15 | 2022-07-29 |
 | [Los Angeles](https://open.spotify.com/track/5DQFjLWTW7AGqaPLdeXCTz) | [Dougie Poole](https://open.spotify.com/artist/2GubanPI94YiSAy9uVC51y) | [The Freelancer's Blues](https://open.spotify.com/album/4UxVJzE5iHPxl2mBWlEqC1) | 4:37 | 2021-12-15 |  |
+| [Los Chicos Tristes](https://open.spotify.com/track/6X0Q2zxM4kiNDk1CY2vkZJ) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Los Chicos Tristes](https://open.spotify.com/album/6upoRZFXdq7bMsdDcqQ1Oa) | 3:49 | 2022-09-16 |  |
 | [Love Can Find You Anywhere](https://open.spotify.com/track/7fxxqxe5EAp0dQ674C6g2b) | [Jonathan Terrell](https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3) | [Love Can Find You Anywhere](https://open.spotify.com/album/2nDKXMbt6lOU460Yi30M24) | 3:39 | 2021-12-15 |  |
 | [Luck of the Draw](https://open.spotify.com/track/37WNhzp7wOKMuMsByEsUF2) | [Daniel Donato](https://open.spotify.com/artist/0BPT9SFoQzi6Pfk387jLE8) | [Luck of the Draw](https://open.spotify.com/album/0N7kbieW6rfTyVPxtshZ7N) | 2:47 | 2021-12-15 | 2022-07-26 |
 | [Make My Mind Up](https://open.spotify.com/track/1xCLVikxgsHqwKjGCrqAyB) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [When You're Ready](https://open.spotify.com/album/1w0K4edsnTTxo2p6ZCErUV) | 3:31 | 2021-12-15 | 2022-07-23 |

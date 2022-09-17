@@ -4,7 +4,7 @@
 
 > Play these festive songs upon a winter's night, and have yourself a folksy little Christmas now\. Cover: She & Him
 
-219 songs - 12 hr 59 min - [published](https://open.spotify.com/playlist/7FfL6kxJ46PiydiUpSfDYM)
+221 songs - 13 hr 6 min - [published](https://open.spotify.com/playlist/7FfL6kxJ46PiydiUpSfDYM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,7 +196,8 @@
 | [The Light Of Christmas Day \- From "Love The Coopers" Soundtrack](https://open.spotify.com/track/0bJ8bS3aRtsA3zIIjr7Ool) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [The Light Of Christmas Day \(From "Love The Coopers" Soundtrack\)](https://open.spotify.com/album/5rp19EkSJSBvezc0b0Z2an) | 3:26 | 2021-12-24 | 2022-07-29 |
 | [The Light Of Christmas Day \- From "Love The Coopers" Soundtrack](https://open.spotify.com/track/1UwnjTHeagqBKTmFMe9CwF) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [The Light Of Christmas Day \(From "Love The Coopers" Soundtrack\)](https://open.spotify.com/album/3B9kzvGmlBGIe7OBKpo5xJ) | 3:26 | 2021-12-24 |  |
 | [This Christmas Is for Us](https://open.spotify.com/track/2bZFe1ofcf8XwudrXSGcaN) | [Shelby Earl](https://open.spotify.com/artist/6PIo5nhCQJbR0NfxPdGnGC) | [This Christmas Is for Us](https://open.spotify.com/album/4IgwaaTNfjvTACJedSKnZp) | 4:19 | 2021-12-24 |  |
-| [This December](https://open.spotify.com/track/1SNpdbPokipmCJ8rTqbnrm) | [Holley Maher](https://open.spotify.com/artist/3GDAPdQP9OYzIlhd7HkbJj) | [Sorted Noise Records: A Holiday Album, Vol\. 2](https://open.spotify.com/album/18GWTfG4zqCiTR3mxtDwqY) | 3:56 | 2021-12-24 |  |
+| [This December](https://open.spotify.com/track/03jjfF3WRY8cUOsf8yFIVw) | [Holley Maher](https://open.spotify.com/artist/3GDAPdQP9OYzIlhd7HkbJj) | [Sorted Noise Records: A Holiday Album, Vol\. 2](https://open.spotify.com/album/5Mj8SnxH6mYUdEIV7w6sbT) | 3:56 | 2021-12-24 |  |
+| [This December](https://open.spotify.com/track/1SNpdbPokipmCJ8rTqbnrm) | [Holley Maher](https://open.spotify.com/artist/3GDAPdQP9OYzIlhd7HkbJj) | [Sorted Noise Records: A Holiday Album, Vol\. 2](https://open.spotify.com/album/18GWTfG4zqCiTR3mxtDwqY) | 3:56 | 2021-12-24 | 2022-09-17 |
 | [This December](https://open.spotify.com/track/40YdqaqZx7PIhFerYClk45) | [Holley Maher](https://open.spotify.com/artist/3GDAPdQP9OYzIlhd7HkbJj) | [Sorted Noise Records: A Holiday Album, Vol\. 2](https://open.spotify.com/album/2V6uNEivEnQZnKV97bdgBx) | 3:56 | 2021-12-24 | 2022-07-29 |
 | [This Holiday](https://open.spotify.com/track/4lnCnaLrmoTWrlIzB7Zx4B) | [Brooke Annibale](https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3) | [This Holiday](https://open.spotify.com/album/0QkbSvfIbbmzw429CnkdrU) | 4:33 | 2021-12-24 |  |
 | [This Holiday](https://open.spotify.com/track/6zeGEI2xy5wqBIkK2yyJxT) | [Brooke Annibale](https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3) | [This Holiday](https://open.spotify.com/album/5jsFoeZseiv7E2lEkOtlP2) | 4:33 | 2021-12-24 | 2022-07-29 |
@@ -220,8 +221,9 @@
 | [Winter Song](https://open.spotify.com/track/01NSrsQkOZ3PgRcGLGrOT5) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head and the Heart](https://open.spotify.com/album/0xWfhCMYmaiCXtLOuyPoLF) | 2:43 | 2021-12-24 | 2022-07-29 |
 | [Winter Song](https://open.spotify.com/track/4kVq0EOO5xmczwrXjRcaeI) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head And The Heart](https://open.spotify.com/album/0HOYbncHll4TcojWXrfYfV) | 2:43 | 2021-12-24 |  |
 | [Winter Wonderland](https://open.spotify.com/track/6zC0LT2m43A8J23VN83TKv) | [Lucie Silvas](https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju) | [Winter Wonderland](https://open.spotify.com/album/0luikuvuNw0YQcgkKgyFx5) | 3:00 | 2021-12-24 |  |
+| [Winter Wonderland](https://open.spotify.com/track/1Eb21hL7z70CSuqIgMufBf) | [The Sweeplings](https://open.spotify.com/artist/3fTedgf4fh8D3s41dP0HWt) | [Sorted Noise Records: A Holiday Album, Vol\. 1](https://open.spotify.com/album/08dRs9SE1pmfV5pmGZsCwt) | 3:10 | 2021-12-24 |  |
 | [Winter Wonderland](https://open.spotify.com/track/2WXdf7FI66qbra5dtyPTVS) | [The Sweeplings](https://open.spotify.com/artist/3fTedgf4fh8D3s41dP0HWt) | [Sorted Noise Records: A Holiday Album, Vol\. 1](https://open.spotify.com/album/1NRKEQ2RWHcmQ1A81beXio) | 3:10 | 2021-12-24 | 2022-07-29 |
-| [Winter Wonderland](https://open.spotify.com/track/4sA8dwT4MU0uUGPVLXVZhK) | [The Sweeplings](https://open.spotify.com/artist/3fTedgf4fh8D3s41dP0HWt) | [Sorted Noise Records: A Holiday Album, Vol\. 1](https://open.spotify.com/album/6x2knTjVr1yyrLXV23Rgwn) | 3:10 | 2021-12-24 |  |
+| [Winter Wonderland](https://open.spotify.com/track/4sA8dwT4MU0uUGPVLXVZhK) | [The Sweeplings](https://open.spotify.com/artist/3fTedgf4fh8D3s41dP0HWt) | [Sorted Noise Records: A Holiday Album, Vol\. 1](https://open.spotify.com/album/6x2knTjVr1yyrLXV23Rgwn) | 3:10 | 2021-12-24 | 2022-09-17 |
 | [Winter's Night](https://open.spotify.com/track/1MCjBbGWBgQoRhHP1nuVD0) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Isn't This World Enough?? A Nettwerk Christmas](https://open.spotify.com/album/3o2aareSZ1ku3Sw0BCixcT) | 2:34 | 2021-12-24 | 2022-07-29 |
 | [Winter's Night](https://open.spotify.com/track/6bKVEFrrlJa6YfdsRZqvic) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [O Holy Night](https://open.spotify.com/album/6gqhPighIztVIp72MbJfYv) | 2:34 | 2021-12-24 |  |
 | [Xmas Song \(War is Over\)](https://open.spotify.com/track/4tf0qvezl6A4n9Gvx81NBr) | [Venus and the Moon](https://open.spotify.com/artist/2wHuSfI5SnRFuRsaCKJRL3) | [Xmas Song \(War is Over\)](https://open.spotify.com/album/1eeLBPQvUc4g9lTy44LSHR) | 4:04 | 2021-12-24 |  |

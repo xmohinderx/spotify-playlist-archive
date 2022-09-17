@@ -3815,7 +3815,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 208539,
       "name": "Dump It Dummy (feat. 2rare)",
       "url": "https://open.spotify.com/track/7MODHYi60npkw5bgBStqV3"
@@ -3931,7 +3931,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 179610,
       "name": "El Jami",
       "url": "https://open.spotify.com/track/05DOiyiRvyed2Kd5Z1sV7S"
@@ -6721,7 +6721,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-15",
+      "date_removed": null,
       "duration_ms": 192134,
       "name": "Insomnia",
       "url": "https://open.spotify.com/track/4WTcpYfuTzxlWjffzeUjah"
@@ -8615,6 +8615,24 @@
       "duration_ms": 254080,
       "name": "Messages from the Stars",
       "url": "https://open.spotify.com/track/6lYY2HktYKpV1pUamfRlU1"
+    },
+    {
+      "album": {
+        "name": "METAMORPHOSIS",
+        "url": "https://open.spotify.com/album/3apQZbgVql9mHJlp43jk5D"
+      },
+      "artists": [
+        {
+          "name": "INTERWORLD",
+          "url": "https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142839,
+      "name": "METAMORPHOSIS",
+      "url": "https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz"
     },
     {
       "album": {
@@ -14327,7 +14345,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 244135,
       "name": "Waiting On The Sky To Change",
       "url": "https://open.spotify.com/track/5qMSuD0mfQVQSA0CjifBi0"
@@ -15277,6 +15295,28 @@
       "duration_ms": 196253,
       "name": "You",
       "url": "https://open.spotify.com/track/2xPV95cfbyusygMTxpa3SW"
+    },
+    {
+      "album": {
+        "name": "Jesse Powell",
+        "url": "https://open.spotify.com/album/280dlb1eZeAvo8Gnfe80nE"
+      },
+      "artists": [
+        {
+          "name": "Jesse Powell",
+          "url": "https://open.spotify.com/artist/4ryyCNxkhfBSXHx4k2lo3T"
+        },
+        {
+          "name": "Gerald Albright",
+          "url": "https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318466,
+      "name": "You",
+      "url": "https://open.spotify.com/track/0hcW7qPqWWJc8189OaqQvX"
     },
     {
       "album": {

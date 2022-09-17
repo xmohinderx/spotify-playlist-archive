@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- United Kingdom.
 
-902 songs - 2 day 4 hr 28 min - [published](https://open.spotify.com/playlist/7KdcJDqdyq8EPaSWsoIlNq)
+903 songs - 2 day 4 hr 30 min - [published](https://open.spotify.com/playlist/7KdcJDqdyq8EPaSWsoIlNq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [1989](https://open.spotify.com/track/5LgopqF6Rqfp8cWdj9XzCM) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [1989](https://open.spotify.com/album/5L6AKgaJyex0tb5TfdsF6S) | 2:17 | 2022-05-21 | 2022-05-28 |
 | [2000 Miles \- 2007 Remaster](https://open.spotify.com/track/5wTM2Bm8phDwHAuOsfBwhU) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Learning to Crawl \(Expanded & Remastered\)](https://open.spotify.com/album/48NYXFdasUBuSeO3RAolt3) | 3:40 | 2021-12-07 | 2021-12-27 |
 | [2055](https://open.spotify.com/track/4XvcHTUfIlWfyJTRG0aqlo) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Still Sleep?](https://open.spotify.com/album/38nZLvJx8A9p4YYpTG5iFP) | 2:03 | 2021-08-03 | 2022-01-07 |
-| [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/track/1RF02Cf80mTaeNXG2P2boR) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/album/118PKNjhP4NWcrW5OjMwzc) | 2:35 | 2022-05-20 |  |
+| [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/track/1RF02Cf80mTaeNXG2P2boR) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/album/118PKNjhP4NWcrW5OjMwzc) | 2:35 | 2022-05-20 | 2022-09-17 |
 | [22 \(Taylor's Version\)](https://open.spotify.com/track/2T9WeqSMJJb8YBDHPYGU4p) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6x9s2ObPdpATZgrwxsk9c0) | 3:50 | 2021-11-14 | 2021-11-14 |
 | [22 \(Taylor's Version\)](https://open.spotify.com/track/3yII7UwgLF6K5zW3xad3MP) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 3:50 | 2021-11-14 | 2021-11-19 |
 | [24](https://open.spotify.com/track/7DBFslKWQzoRgO0HBBkL3u) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:17 | 2021-08-31 | 2021-09-05 |
@@ -667,6 +667,7 @@
 | [Riptide](https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away](https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg) | 3:24 | 2022-07-11 | 2022-07-20 |
 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Merry Christmas From Brenda Lee](https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG) | 2:06 | 2021-11-23 | 2021-12-30 |
 | [Rolling in the Deep](https://open.spotify.com/track/6IAZHEBUIGJ6NJKxxOBIEr) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/4HYlttFwVHZaz7gguxaN9H) | 3:48 | 2021-10-12 | 2021-11-28 |
+| [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2022-09-16 |  |
 | [Rumors \(feat\. Cardi B\)](https://open.spotify.com/track/6KgtcmCF9Ky68XC7ezxl3s) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Rumors \(feat\. Cardi B\)](https://open.spotify.com/album/7jMo8dhMIorHoLlzTisjJy) | 2:52 | 2021-08-15 | 2021-08-31 |
 | [Rumour Has It](https://open.spotify.com/track/4roNDqb3Mm6EUAPCtW0Sct) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/4HYlttFwVHZaz7gguxaN9H) | 3:43 | 2021-10-17 | 2021-10-21 |
 | [Run \(feat\. Ed Sheeran\) \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/4IQkfUsrwXol38VV3U7t7T) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 4:00 | 2021-11-14 | 2021-11-21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39ATYW02fre.md) - [plain]
 
 > Beautiful electronic music for melancholy moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,168 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,198 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39ATYW02fre.md) - [plain]
 | 45 | [Loom \(feat\. Bonobo\)](https://open.spotify.com/track/3Yagxg6rtkwN01AYzA862i) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Loom](https://open.spotify.com/album/2kfPunUS5HqupNVAueFmgM) | 3:46 |
 | 46 | [Her Revolution](https://open.spotify.com/track/2MhDAsciLk9txdni5CL8iw) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh), [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [Her Revolution / His Rope](https://open.spotify.com/album/4ciK8DtBglOBd0FYznsg98) | 5:48 |
 | 47 | [Howling](https://open.spotify.com/track/34hMOtKwf5nm8tjvkGV0Dk) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Dawn](https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv) | 5:09 |
-| 48 | [Kyle \(i found you\)](https://open.spotify.com/track/0v1g5U1OAb0XBjKyA8R36i) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Kyle \(i found you\)](https://open.spotify.com/album/2myK0q2FH45JQRUxepp4en) | 3:16 |
-| 49 | [Pastoral](https://open.spotify.com/track/19vWDttuR4ZVBzUfQFsfPS) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Pastoral](https://open.spotify.com/album/7e79YQn5tWC0LL9M2SFtde) | 3:40 |
+| 48 | [Pastoral](https://open.spotify.com/track/19vWDttuR4ZVBzUfQFsfPS) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Pastoral](https://open.spotify.com/album/7e79YQn5tWC0LL9M2SFtde) | 3:40 |
+| 49 | [Kyle \(i found you\)](https://open.spotify.com/track/0v1g5U1OAb0XBjKyA8R36i) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Kyle \(i found you\)](https://open.spotify.com/album/2myK0q2FH45JQRUxepp4en) | 3:16 |
 | 50 | [Atlas](https://open.spotify.com/track/664jBL8NgKFYdiMK9bnCcz) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Atlas](https://open.spotify.com/album/7g8PeQGSlZUlWCr3heIJJb) | 5:52 |
 
-Snapshot ID: `MTY1MzkwMTkzMiwwMDAwMDAwMGQxMzkzY2ZjM2E5M2UzN2I3YTEyYWIxYzkyYWYzYTZj`
+Snapshot ID: `MTY1MzkwMTkzMiwwMDAwMDAwMDQzZTcxN2M0ZjQ5NzRlMjJlOTlkZGMwZWIwZjY2YmY3`

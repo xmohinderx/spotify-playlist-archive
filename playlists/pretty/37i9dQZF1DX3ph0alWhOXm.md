@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ph0alWhOXm.md) - [plain]
 
 > There's no such thing as "too much fun." Let these country songs keep the party going!
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,287 likes - 95 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,375 likes - 95 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ph0alWhOXm.md) - [plain]
 | 3 | [Tennessee Whiskey](https://open.spotify.com/track/3fqwjXwUGN6vbzIwvyFMhx) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Traveller](https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7) | 4:53 |
 | 4 | [When It Rains It Pours](https://open.spotify.com/track/1mMLMZYXkMueg65jRRWG1l) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [This One's for You](https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj) | 4:00 |
 | 5 | [Whiskey On You](https://open.spotify.com/track/6Tm4Io4ct4w14nB1EUzsY3) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Whiskey On You](https://open.spotify.com/album/3MrvNAqlEsm5iScBAf9Cfm) | 3:03 |
-| 6 | [Chicken Fried](https://open.spotify.com/track/0LQtEJt7x0s6knb6RKdRYc) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Foundation](https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT) | 3:58 |
-| 7 | [Wagon Wheel](https://open.spotify.com/track/3xdjjKMcMOFgo1eQrfbogM) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [True Believers](https://open.spotify.com/album/6cowf7fdb5dgKoglTekOK8) | 4:58 |
+| 6 | [Wagon Wheel](https://open.spotify.com/track/3xdjjKMcMOFgo1eQrfbogM) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [True Believers](https://open.spotify.com/album/6cowf7fdb5dgKoglTekOK8) | 4:58 |
+| 7 | [Chicken Fried](https://open.spotify.com/track/0LQtEJt7x0s6knb6RKdRYc) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Foundation](https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT) | 3:58 |
 | 8 | [Day Drinking](https://open.spotify.com/track/1pxXqJZBrCREdC0s4Xs6Xz) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Pain Killer](https://open.spotify.com/album/49lwR8y1i51wrQRnhw5C3H) | 2:58 |
 | 9 | [Country Girl \(Shake It For Me\)](https://open.spotify.com/track/0JbSghVDghtFEurrSO8JrC) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Tailgates & Tanlines](https://open.spotify.com/album/5IyIjKnGkQbYGVpWenblSe) | 3:45 |
 | 10 | [Night Shift](https://open.spotify.com/track/0bPnT6i9H1p8Vd85GS6Z7I) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [California Sunrise](https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ) | 2:52 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ph0alWhOXm.md) - [plain]
 | 80 | [Am I The Only One](https://open.spotify.com/track/59tUXZ9dL0qkaa18WCfUnZ) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Home](https://open.spotify.com/album/4WYx3Z81yhA09dBIAktauv) | 3:11 |
 | 81 | [Long Haired Country Boy \(feat\. The Rockin' CJB\)](https://open.spotify.com/track/4j6mrg4fGP1MVfOPN740VJ) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I), [The Rockin' CJB](https://open.spotify.com/artist/29MrkEEHOU5icmFXxLe0OV) | [Ain't Nothin' to It](https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob) | 4:17 |
 | 82 | [Zero Trucks](https://open.spotify.com/track/3bF0cfm6aZ7rQlZAyklEeb) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [Zero Trucks](https://open.spotify.com/album/1zVnFzjzIPZzijLT6ibqKi) | 2:42 |
-| 83 | [Alcohol You Later](https://open.spotify.com/track/5SO7pvSFiXwU0e1z7C4X7H) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Telling All My Secrets](https://open.spotify.com/album/4ZRa15xusMfr3hLWUNGBG0) | 3:06 |
-| 84 | [Too Much Fun](https://open.spotify.com/track/38CnG9HxpVtqXVqpESBr6H) | [Daryle Singletary](https://open.spotify.com/artist/1mQ9wgWshECdFsDbT7ATzT) | [Daryle Singletary](https://open.spotify.com/album/6d8s6lmfqYvcrp4GC5n6E0) | 2:45 |
+| 83 | [Too Much Fun](https://open.spotify.com/track/38CnG9HxpVtqXVqpESBr6H) | [Daryle Singletary](https://open.spotify.com/artist/1mQ9wgWshECdFsDbT7ATzT) | [Daryle Singletary](https://open.spotify.com/album/6d8s6lmfqYvcrp4GC5n6E0) | 2:45 |
+| 84 | [Alcohol You Later](https://open.spotify.com/track/5SO7pvSFiXwU0e1z7C4X7H) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Telling All My Secrets](https://open.spotify.com/album/4ZRa15xusMfr3hLWUNGBG0) | 3:06 |
 | 85 | [Pop a Top](https://open.spotify.com/track/3KIUKvwteP1HFA5UcvvL11) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [16 Biggest Hits](https://open.spotify.com/album/07KOJyGSNCoYVoWZafFt5W) | 3:05 |
 | 86 | [Neon Light](https://open.spotify.com/track/289hx4t6fH2BBe8p6cnXo1) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [BRINGING BACK THE SUNSHINE](https://open.spotify.com/album/0daIqjuhsQqXoeII3pBSeT) | 3:41 |
 | 87 | [Tequila Makes Her Clothes Fall Off](https://open.spotify.com/track/33AQv3sfvHmtGfYNIJpi96) | [Joe Nichols](https://open.spotify.com/artist/4aJTB79uwT4sP0Nb8QGWHc) | [Greatest Hits](https://open.spotify.com/album/6nnI4w6ogIVZLeNJgLmu94) | 3:07 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ph0alWhOXm.md) - [plain]
 | 94 | [Ain't My Day](https://open.spotify.com/track/6xscb3IfPqwanr2IoG5c8d) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc), [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Ain't My Day](https://open.spotify.com/album/1aJj0KP16u9ksUixsCAJ61) | 3:21 |
 | 95 | [Pour Whiskey on My Grave](https://open.spotify.com/track/3fHhEDmEFKI8BlZMlrcHgT) | [Jacob Bryant](https://open.spotify.com/artist/53Pdb9rdy3SWEzBtyKk1om) | [Practice What I Preach](https://open.spotify.com/album/6ruP878JYgaWhlxgBOdC3M) | 5:04 |
 
-Snapshot ID: `MTY2MjA5MTI2MCwwMDAwMDAwMDVkODIwNTM1YjY1ZjhkODA1MTE4ZmVhNTFiNmVhZGIx`
+Snapshot ID: `MTY2MjA5MTI2MCwwMDAwMDAwMDYxMDRlZGJiMGE1MTA5NjVhYzdiOTQwM2Q0YmVlYTQ0`

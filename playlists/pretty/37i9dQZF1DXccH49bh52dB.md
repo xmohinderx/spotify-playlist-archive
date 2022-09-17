@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccH49bh52dB.md) - [plain]
 
 > The softer side of dance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 358,575 likes - 107 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 358,774 likes - 107 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccH49bh52dB.md) - [plain]
 | 8 | [Dancing In The Moonlight \(feat\. NEIMY\)](https://open.spotify.com/track/4GSDkZt7GcmzBWmsMcpaVO) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X), [NEIMY](https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO) | [Dancing In The Moonlight \(feat\. NEIMY\)](https://open.spotify.com/album/577x4v0DO2oQcymLzdAyQ8) | 2:44 |
 | 9 | [My Love \(feat\. Jess Glynne\)](https://open.spotify.com/track/61UQzeiIluhpzpMdY4ag3q) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [My Love \(feat\. Jess Glynne\)](https://open.spotify.com/album/63WK5Kd7J5kp7ctAC4l92Q) | 4:19 |
 | 10 | [Roses](https://open.spotify.com/track/3vv9phIu6Y1vX3jcqaGz5Z) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [ROZES](https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA) | [Roses](https://open.spotify.com/album/2GFflENKz28RcMoSuulPZC) | 3:46 |
-| 11 | [Ain't Nobody \(Loves Me Better\) \(feat\. Jasmine Thompson\)](https://open.spotify.com/track/3c8iiZGfEammKJuWTErE5x) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [I](https://open.spotify.com/album/2S56F6bIk01HboGbJJJ1IQ) | 3:06 |
-| 12 | [Lean On](https://open.spotify.com/track/1Lim1Py7xBgbAkAys3AGAG) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Peace Is The Mission \(Extended\)](https://open.spotify.com/album/4pCLlUxlKj3pNVdBtFyhrU) | 2:56 |
+| 11 | [Lean On](https://open.spotify.com/track/1Lim1Py7xBgbAkAys3AGAG) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Peace Is The Mission \(Extended\)](https://open.spotify.com/album/4pCLlUxlKj3pNVdBtFyhrU) | 2:56 |
+| 12 | [Ain't Nobody \(Loves Me Better\) \(feat\. Jasmine Thompson\)](https://open.spotify.com/track/3c8iiZGfEammKJuWTErE5x) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [I](https://open.spotify.com/album/2S56F6bIk01HboGbJJJ1IQ) | 3:06 |
 | 13 | [Ocean Drive](https://open.spotify.com/track/0b6wdul3A5sQNpIOv03OxP) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E) | [Ocean Drive](https://open.spotify.com/album/5APvbPGki6FOQO6rNEuXCv) | 3:26 |
 | 14 | [Tuesday \(feat\. Danelle Sandoval\)](https://open.spotify.com/track/7EVk9tRb6beJLTHrg6AkY9) | [Burak Yeter](https://open.spotify.com/artist/4ON1ruy5ijE7ZPQthbrkgI), [Danelle Sandoval](https://open.spotify.com/artist/7Dz9goFmVZZqvJxZoKg7pF) | [Tuesday \(feat\. Danelle Sandoval\)](https://open.spotify.com/album/6TvNvQ8DNIFyOMMksmKVDB) | 4:01 |
 | 15 | [Faded](https://open.spotify.com/track/7gHs73wELdeycvS48JfIos) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Faded](https://open.spotify.com/album/5HMjpBO0v78ayq5lreAyDd) | 3:32 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccH49bh52dB.md) - [plain]
 | 46 | [Nobody](https://open.spotify.com/track/2qfEcCkEo5NscA9GL7ER72) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Nobody](https://open.spotify.com/album/3qAWioFdKw27uQvHloas7l) | 3:31 |
 | 47 | [Headlights \(feat\. Ilsey\)](https://open.spotify.com/track/0tDC3KJPPu5eonGTtCURpq) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [Sugar](https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt) | 3:29 |
 | 48 | [Crazy](https://open.spotify.com/track/64fwanXDvwmsQrLsDSVHMv) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Zonderling](https://open.spotify.com/artist/0bMKf3lIYR9GaNTdFKkTOr) | [Crazy](https://open.spotify.com/album/6SysUU95ns1m8xfNrLCWDx) | 2:33 |
-| 49 | [Sad Machine](https://open.spotify.com/track/1JY6B9ILvmRla2IKKRZvnH) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Worlds](https://open.spotify.com/album/7AJPV0L05IyIBid97AvwVD) | 5:50 |
-| 50 | [Oceans Away](https://open.spotify.com/track/6A8dnC0xkiuWN4BshmTB2I) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [GALLERY](https://open.spotify.com/album/2FNk380jCQyICbwtkOdEHE) | 3:14 |
+| 49 | [Oceans Away](https://open.spotify.com/track/6A8dnC0xkiuWN4BshmTB2I) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [GALLERY](https://open.spotify.com/album/2FNk380jCQyICbwtkOdEHE) | 3:14 |
+| 50 | [Sad Machine](https://open.spotify.com/track/1JY6B9ILvmRla2IKKRZvnH) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Worlds](https://open.spotify.com/album/7AJPV0L05IyIBid97AvwVD) | 5:50 |
 | 51 | [Young](https://open.spotify.com/track/1KeZgPUr54C8iz3FjqzVoz) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Memories...Do Not Open](https://open.spotify.com/album/4JPguzRps3kuWDD5GS6oXr) | 3:44 |
 | 52 | [Working For It](https://open.spotify.com/track/2HJQcyUpmUuvzS5vBAICIc) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [THEY.](https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx) | [GENERATIONWHY](https://open.spotify.com/album/6Xhb46t8f3z8FkuXQAj4UV) | 3:51 |
 | 53 | [Sex](https://open.spotify.com/track/4CGGIk81BvfCZiscwFP6t0) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R) | [Sex](https://open.spotify.com/album/10DpegJFVLDxbKyNUqeCrG) | 3:48 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccH49bh52dB.md) - [plain]
 | 106 | [Carry Me \(feat\. Julia Michaels\)](https://open.spotify.com/track/3FZEv9JddkjHNFiMVxJYpS) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Cloud Nine](https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8) | 3:53 |
 | 107 | [ID \- Ultra Music Festival Anthem](https://open.spotify.com/track/4SBqydJCEhcroni09XgT2c) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [ID \(Ultra Music Festival Anthem\)](https://open.spotify.com/album/08lvNATRudyG5K7eEjWk1t) | 4:49 |
 
-Snapshot ID: `MTY0MjUxNzY0NCwwMDAwMDAwMDI2NjY3OTdiYjMyOWI1M2MyYTcwYTEyM2RmNmVmZDY0`
+Snapshot ID: `MTY0MjUxNzY0NCwwMDAwMDAwMGI3N2RjMzEzM2IzZGUxMmU4NTU5NDM0ZjAyNmIxMmQ2`

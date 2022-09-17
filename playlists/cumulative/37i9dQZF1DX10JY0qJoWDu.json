@@ -66,6 +66,24 @@
     },
     {
       "album": {
+        "name": "Bring on Christmas Day",
+        "url": "https://open.spotify.com/album/40jWI7gm77i5F32eXQiIwK"
+      },
+      "artists": [
+        {
+          "name": "Joss Stone",
+          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228860,
+      "name": "Bring on Christmas Day",
+      "url": "https://open.spotify.com/track/4aBOiLLaZesaTEYPItY8A9"
+    },
+    {
+      "album": {
         "name": "Candlelight Processional",
         "url": "https://open.spotify.com/album/0avfdTE7RNtvrH1E56vfTy"
       },
@@ -513,6 +531,28 @@
       "duration_ms": 151293,
       "name": "Holidays At Home",
       "url": "https://open.spotify.com/track/6FQSGMx4izRscahI2z0YVl"
+    },
+    {
+      "album": {
+        "name": "Home for the Holidays with DCappella",
+        "url": "https://open.spotify.com/album/3FHCtrY8Pu5KfPfvNSMmcZ"
+      },
+      "artists": [
+        {
+          "name": "DCappella",
+          "url": "https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156360,
+      "name": "Home for Christmas",
+      "url": "https://open.spotify.com/track/1dQj0qJwCccf6b9f7zJST5"
     },
     {
       "album": {

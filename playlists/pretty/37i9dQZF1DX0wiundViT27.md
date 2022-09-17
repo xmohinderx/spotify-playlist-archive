@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wiundViT27.md) - [plain]
 
 > A dose of high\-energy, feel\-good rock tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 611,884 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 611,880 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,12 +47,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wiundViT27.md) - [plain]
 | 37 | [Natural Born Killer](https://open.spotify.com/track/78wMThFTNKThsWq19o0F1H) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [Natural Born Killer/Pink Lullabye](https://open.spotify.com/album/379z7WiokF2pa4kKUgVjRF) | 3:16 |
 | 38 | [The Way You Used To Do](https://open.spotify.com/track/52LL3IFB8N3PaJmoZ8Xii1) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Villains](https://open.spotify.com/album/7vuIN24G18PAUAvjnICyA6) | 4:34 |
 | 39 | [Fallout](https://open.spotify.com/track/2JBk2XZLjS0N4x3mFHINM6) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Fallout](https://open.spotify.com/album/74K2vGYMdCCO29n4s4Y41h) | 3:14 |
-| 40 | [MYSTERY](https://open.spotify.com/track/5iXnD2VizcAbErpkcuNQ6I) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:35 |
-| 41 | [The Hand That Feeds](https://open.spotify.com/track/5ugzDiilhy6ILKmKfhEzd7) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [With Teeth](https://open.spotify.com/album/56Us3Q6UIM4jKJZlWhqddL) | 3:31 |
+| 40 | [The Hand That Feeds](https://open.spotify.com/track/5ugzDiilhy6ILKmKfhEzd7) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [With Teeth](https://open.spotify.com/album/56Us3Q6UIM4jKJZlWhqddL) | 3:31 |
+| 41 | [MYSTERY](https://open.spotify.com/track/5iXnD2VizcAbErpkcuNQ6I) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:35 |
 | 42 | [The Emperor](https://open.spotify.com/track/1Gkfh1jNNFJPh3vcCSGi3J) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [The Emperor](https://open.spotify.com/album/48QqIBzNdsmVimYeINIAxt) | 2:55 |
 | 43 | [Bored To Death](https://open.spotify.com/track/44TuSOP6xIAEeJmZsN3nXO) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [California](https://open.spotify.com/album/4wuYQ9hyF1EGmrtjMpgpE9) | 3:55 |
-| 44 | [FUNERAL GREY](https://open.spotify.com/track/29zvr7PRPQhE8plnBZ44nZ) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [FUNERAL GREY](https://open.spotify.com/album/4BCWDiQzz9tE9KilNixcld) | 2:44 |
-| 45 | [2am](https://open.spotify.com/track/0Tyi56S51KsufCIcqRHWCN) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Life Is Yours](https://open.spotify.com/album/7CBK26TFXHyt2l6NQcXIsq) | 3:44 |
+| 44 | [2am](https://open.spotify.com/track/0Tyi56S51KsufCIcqRHWCN) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Life Is Yours](https://open.spotify.com/album/7CBK26TFXHyt2l6NQcXIsq) | 3:44 |
+| 45 | [FUNERAL GREY](https://open.spotify.com/track/29zvr7PRPQhE8plnBZ44nZ) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [FUNERAL GREY](https://open.spotify.com/album/4BCWDiQzz9tE9KilNixcld) | 2:44 |
 | 46 | [Run For Cover](https://open.spotify.com/track/5NAiPIEzxAexFE3ucV18Q8) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Wonderful Wonderful](https://open.spotify.com/album/72ZfMxLCPG8mlWC0TXfZQi) | 3:42 |
 | 47 | [Karma](https://open.spotify.com/track/7vXtuHrqgzQi58ihUO7L2d) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Internet Killed The Rockstar](https://open.spotify.com/album/2XeTY6zdUIUfItgZxXKsiO) | 2:39 |
 | 48 | [Ramon Ayala](https://open.spotify.com/track/7oRlqeavsFnEtKoUueqyiL) | [Giovannie and the Hired Guns](https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94) | [Ramon Ayala](https://open.spotify.com/album/0uDXEh8zPFRjAGizuol1EI) | 2:48 |
@@ -60,10 +60,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wiundViT27.md) - [plain]
 | 50 | [Life's Coming in Slow \- from GRAN TURISMO 7](https://open.spotify.com/track/24SyVpif5eshcNmLKdvOcj) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Life's Coming in Slow \(from GRAN TURISMO 7\)](https://open.spotify.com/album/6SCFmqcXOVneLBo6eks8k1) | 2:49 |
 | 51 | [Don't Miss](https://open.spotify.com/track/1XS9ZXy3Z17ptOVRO3i02e) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Don't Miss](https://open.spotify.com/album/5yHrrUGbMoZxefRxJY1LN9) | 3:06 |
 | 52 | [hometown](https://open.spotify.com/track/6p8DGrcAUBuLUgDIKcUn0P) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [hometown](https://open.spotify.com/album/3vYwarsz5qWMYHL3B9b5ni) | 4:16 |
-| 53 | [you're not special](https://open.spotify.com/track/6Mc1snn8uClt3FzkUREymB) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [you're not special](https://open.spotify.com/album/7vvGNS9MRPrzfi0cHbDeQC) | 2:46 |
-| 54 | [Eye of the Storm](https://open.spotify.com/track/0TTSQeJnGnpCxX7LWsdD9F) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Eye of the Storm](https://open.spotify.com/album/6qqCXmeilVuyFxSaOpp59b) | 3:54 |
-| 55 | [My Body](https://open.spotify.com/track/1KDYN3odJHnj9pqGHN3FVs) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Young The Giant \(Special Edition\)](https://open.spotify.com/album/2ww7MYrkExsljnKhcINDse) | 4:04 |
-| 56 | [TIRED OF WINNING](https://open.spotify.com/track/0PZrUz3FLIkW8j7GaFbYBO) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [TIRED OF WINNING](https://open.spotify.com/album/7zH2ySKpWjzJHX76zWG7SY) | 3:26 |
+| 53 | [Eye of the Storm](https://open.spotify.com/track/0TTSQeJnGnpCxX7LWsdD9F) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Eye of the Storm](https://open.spotify.com/album/6qqCXmeilVuyFxSaOpp59b) | 3:54 |
+| 54 | [you're not special](https://open.spotify.com/track/6Mc1snn8uClt3FzkUREymB) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [you're not special](https://open.spotify.com/album/7vvGNS9MRPrzfi0cHbDeQC) | 2:46 |
+| 55 | [TIRED OF WINNING](https://open.spotify.com/track/0PZrUz3FLIkW8j7GaFbYBO) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [TIRED OF WINNING](https://open.spotify.com/album/7zH2ySKpWjzJHX76zWG7SY) | 3:26 |
+| 56 | [My Body](https://open.spotify.com/track/1KDYN3odJHnj9pqGHN3FVs) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Young The Giant \(Special Edition\)](https://open.spotify.com/album/2ww7MYrkExsljnKhcINDse) | 4:04 |
 | 57 | [Kill The Noise](https://open.spotify.com/track/3xr0ZIYqXVKogVu00fJRBX) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Kill The Noise](https://open.spotify.com/album/5Ob0D7DLOzpHe0KcZb67Ky) | 3:08 |
 | 58 | [Planet Zero](https://open.spotify.com/track/3GL1RQKHV0TDRq8EXHMhGq) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Planet Zero](https://open.spotify.com/album/2p732bJ3OshHkiQGJfz1Jo) | 3:42 |
 | 59 | [DIE OUT HERE \(feat\. POORSTACY\)](https://open.spotify.com/track/3PqpLZTiiwJjYD1uSvQoCC) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O), [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [DIE OUT HERE \(feat\. POORSTACY\)](https://open.spotify.com/album/4agLeYDJ434nJLLvM4uJWJ) | 2:14 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wiundViT27.md) - [plain]
 | 68 | [•NOTDEAD!•](https://open.spotify.com/track/1c30r2e9SgkvjikuJBR7ms) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [•NOTDEAD!•](https://open.spotify.com/album/3wSkJjnc6ayPUKr8X8ucUK) | 3:10 |
 | 69 | [Be Legendary](https://open.spotify.com/track/3pOMQhSSzx6IZ96kMef6i1) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Pop Evil](https://open.spotify.com/album/5F9U13GyT071nXmYf13VI9) | 3:23 |
 | 70 | [Freeze Me](https://open.spotify.com/track/50jXnyrzW4mcBBqFTMEoAC) | [Death From Above 1979](https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj) | [Outrage! Is Now](https://open.spotify.com/album/4kKKH6cFBtNd9etSJzkMjZ) | 3:18 |
-| 71 | [Enemies](https://open.spotify.com/track/5g9I9uYUcbvtkAuZXjqGfP) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Enemies](https://open.spotify.com/album/0FaEN18H11E8YUwFeOzibR) | 2:41 |
-| 72 | [Miracle Mile](https://open.spotify.com/track/4RvmQ5qbP5PxgJD0BN4EZK) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Dear Miss Lonelyhearts](https://open.spotify.com/album/3InEURs5PQ2CMrnvzSVaPy) | 3:00 |
+| 71 | [Miracle Mile](https://open.spotify.com/track/4RvmQ5qbP5PxgJD0BN4EZK) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Dear Miss Lonelyhearts](https://open.spotify.com/album/3InEURs5PQ2CMrnvzSVaPy) | 3:00 |
+| 72 | [Enemies](https://open.spotify.com/track/5g9I9uYUcbvtkAuZXjqGfP) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Enemies](https://open.spotify.com/album/0FaEN18H11E8YUwFeOzibR) | 2:41 |
 | 73 | [All Comes Crashing](https://open.spotify.com/track/1gKLWryPONC9dyrx5fX3Dr) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [All Comes Crashing](https://open.spotify.com/album/7uOTYWH3RBce6YFD7hRnvY) | 4:23 |
 | 74 | [Raised By Wolves](https://open.spotify.com/track/4lUubz3TMfHfQDJl0mAo2l) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [In The Wild](https://open.spotify.com/album/3kY1OhkaStCboWLSBTIfvg) | 3:01 |
 | 75 | [Heat Seeker](https://open.spotify.com/track/7noHzxuNmeIwYftylZfVRT) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Heat Seeker](https://open.spotify.com/album/56XJWuqnHhxXsM73y8ecZM) | 2:55 |
 
-Snapshot ID: `MTY2MDg4MTYwMCwwMDAwMDAwMGE3ODA5ZWNiOWFkMmRkYjZlY2ViYzkxMGM5NzM0NmMy`
+Snapshot ID: `MTY2MDg4MTYwMCwwMDAwMDAwMDk2ZTcyYzI4MTU5MTc1MzgwMDdiNjMwYmFkMzE1MGM2`

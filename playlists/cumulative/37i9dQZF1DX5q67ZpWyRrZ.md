@@ -2,9 +2,9 @@
 
 ### [Indie India ](https://open.spotify.com/playlist/37i9dQZF1DX5q67ZpWyRrZ)
 
-> 'Ritviz' is on the cover of Indie India.
+> 'Anuv Jain'  is on the cover of Indie India.
 
-156 songs - 9 hr 3 min - [published](https://open.spotify.com/playlist/5J0oFaPhwRhYmz4fIMaWG7)
+157 songs - 9 hr 7 min - [published](https://open.spotify.com/playlist/5J0oFaPhwRhYmz4fIMaWG7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Koi Jaane Na](https://open.spotify.com/track/1qJEPAY2PNphzM8o1VFEtt) | [Raghav Kaushik](https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H) | [Koi Jaane Na](https://open.spotify.com/album/5tazHyKeXejqqmwDIziUkU) | 4:16 | 2021-12-06 |  |
 | [KTMBK](https://open.spotify.com/track/1XmoGNf6OVs6N251UejkbN) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2), [Hanita Bhambri](https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n) | [KTMBK](https://open.spotify.com/album/2KH6uB4BxcBqcBfZ5Rh7Pr) | 2:34 | 2022-01-05 |  |
 | [KTMBK](https://open.spotify.com/track/4R8VBRb5nKbEfi1EIA2B7p) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2), [Hanita Bhambri](https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n) | [Genesis 1:1](https://open.spotify.com/album/2YhSRDucqtADBF45V9Ak9f) | 2:34 | 2021-12-06 | 2022-01-06 |
-| [Kya Tum Naraaz Ho? \(Raw\)](https://open.spotify.com/track/2rjCLFdX8n9xLoMZgdMMxt) | [Tanmaya Bhatnagar](https://open.spotify.com/artist/1kzKlwoZunQPBWRLCZ7ZvS) | [Kya Tum Naraaz Ho? \(Raw\)](https://open.spotify.com/album/6jN4E5miEwdQBUqU0HP0Dg) | 3:32 | 2021-12-06 |  |
+| [Kya Tum Naraaz Ho? \(Raw\)](https://open.spotify.com/track/2rjCLFdX8n9xLoMZgdMMxt) | [Tanmaya Bhatnagar](https://open.spotify.com/artist/1kzKlwoZunQPBWRLCZ7ZvS) | [Kya Tum Naraaz Ho? \(Raw\)](https://open.spotify.com/album/6jN4E5miEwdQBUqU0HP0Dg) | 3:32 | 2021-12-06 | 2022-09-17 |
 | [Lage Nahi Man](https://open.spotify.com/track/6sdird6R3Bl7KXbCXpnPVy) | [Vismay Patel](https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs) | [Lage Nahi Man](https://open.spotify.com/album/1EKU9Nm6UNHQJg8F46agRR) | 3:11 | 2022-05-23 |  |
 | [Le Chal](https://open.spotify.com/track/7dNQpEI1bOetj5XZqpKU5M) | [Himonshu Parikh](https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX) | [Le Chal](https://open.spotify.com/album/3eQWv1miydlthQgTOsgCwn) | 3:16 | 2022-07-13 |  |
 | [Leftovers](https://open.spotify.com/track/514yEEVqyRwV90BSezTLtU) | [Kalumé](https://open.spotify.com/artist/5p9hcmZfvnNdDLLWt5NzxZ) | [Leftovers](https://open.spotify.com/album/2ahNr4xlqGaK106um9nayR) | 3:16 | 2021-12-06 | 2022-01-06 |
@@ -98,6 +98,7 @@
 | [Mai Ni Meriye](https://open.spotify.com/track/0zFcYzwaLbJAhg7bvSVavv) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Ashwin Adwani](https://open.spotify.com/artist/5kiwICyQNDmCtwOPLvgY04) | [Mai Ni Meriye](https://open.spotify.com/album/0ihCuXL4ZcE0FKqRwyithU) | 2:52 | 2022-01-05 |  |
 | [Manzil](https://open.spotify.com/track/5fPWflMcJ7zT8BSnHQD9Wh) | [Anupam Roy](https://open.spotify.com/artist/5LZ894xYE9MG1sal0gjt5L) | [Manzil](https://open.spotify.com/album/690gJ0guvYLVbS9nkT5Mnp) | 3:11 | 2021-12-06 |  |
 | [Matwari](https://open.spotify.com/track/2B6uLeBwpBVBLu1xaXyoG5) | [Samahita Narang](https://open.spotify.com/artist/4EBQpbs8lhMmXp1ZLNAQl4) | [Matwari](https://open.spotify.com/album/0KUsDc3GaU9R1i4GGaYaC9) | 3:20 | 2021-12-06 | 2022-02-15 |
+| [Mazaak](https://open.spotify.com/track/6BvRzfqi3sMAoQYnRpMVL0) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Mazaak](https://open.spotify.com/album/4Z5Z0qWzKvTgv7XRnodjNU) | 3:32 | 2022-09-16 |  |
 | [Mehfooz](https://open.spotify.com/track/36jYuqoGDDlfZBst0p4JGy) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Mimmi](https://open.spotify.com/album/1AproDt63gOfSf7AhNzlmG) | 2:22 | 2022-09-03 |  |
 | [Mera Safar](https://open.spotify.com/track/2AB7fsbG0eZJjDGile69CQ) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk) | [Mera Safar](https://open.spotify.com/album/5MaDDfFcO8Eao37Crt324Q) | 3:10 | 2022-09-05 |  |
 | [Meri Baaton Mein Tu](https://open.spotify.com/track/5nTbPFqLKmQdIg1SD8KgG4) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Meri Baaton Mein Tu](https://open.spotify.com/album/4L79tNWi1gfRrbuzW0Vwfn) | 3:33 | 2022-03-06 |  |

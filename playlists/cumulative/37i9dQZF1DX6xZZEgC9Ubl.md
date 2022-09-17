@@ -4,7 +4,7 @@
 
 > Emo rap feels for the misunderstood\. Cover: 347aidan
 
-716 songs - 1 day 8 hr 39 min - [published](https://open.spotify.com/playlist/0iUS4WRaLWFNRyPELzsm9Z)
+717 songs - 1 day 8 hr 42 min - [published](https://open.spotify.com/playlist/0iUS4WRaLWFNRyPELzsm9Z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -535,7 +535,7 @@
 | [Sad Nibba Hours](https://open.spotify.com/track/2TfoabXa0CbEwcqpxOn9z3) | [Papithbk](https://open.spotify.com/artist/33r8rPgsHXfVN1r3adlrWw) | [EP](https://open.spotify.com/album/6dQAUhE6oE6YgxD0GPdEzF) | 2:30 | 2022-04-22 |  |
 | [SAD!](https://open.spotify.com/track/3ee8Jmje8o58CHK66QrVC2) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [?](https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm) | 2:46 | 2022-07-22 |  |
 | [Safe Zone](https://open.spotify.com/track/6JzZwGyrjWIAZrVoAjSMw2) | [Lonr.](https://open.spotify.com/artist/2FIGTfXnX4gR3ypjQVPVlJ) | [Safe Zone](https://open.spotify.com/album/0oYq4KPQO3VBWQpNF8eI4a) | 2:35 | 2021-01-15 | 2021-04-24 |
-| [Salt](https://open.spotify.com/track/6zYuVQdkZNbeqx5UMmoAOH) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Salt](https://open.spotify.com/album/6ups5M7odd5WAoRPBa6QVk) | 2:45 | 2022-05-27 |  |
+| [Salt](https://open.spotify.com/track/6zYuVQdkZNbeqx5UMmoAOH) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Salt](https://open.spotify.com/album/6ups5M7odd5WAoRPBa6QVk) | 2:45 | 2022-05-27 | 2022-09-17 |
 | [Same Room](https://open.spotify.com/track/6cUwBCnf5yiBkUwExpcni2) | [Ferdous](https://open.spotify.com/artist/1ihKKcrzAd68ftS7adfOtM) | [Same Room](https://open.spotify.com/album/5YkVPpSWxikAxEn48uU6Mp) | 3:22 | 2022-05-13 | 2022-05-17 |
 | [Sarcoma](https://open.spotify.com/track/6gTbAJOvivFXwkOEhSIOtS) | [Killstation](https://open.spotify.com/artist/0zPILh9oEH0fDagpkHTQQ8) | [The Two of Us Are Dying](https://open.spotify.com/album/6vEqNDFYyv3rakykPzpYwu) | 2:14 | 2022-07-22 |  |
 | [Saturn](https://open.spotify.com/track/1a9rOeuuSEYpyRupt4D1Po) | [6 Dogs](https://open.spotify.com/artist/3Ps6le7tj5BdNtdnfNgTU4) | [Saturn](https://open.spotify.com/album/5RfXww7Xb62g8KlCdXPIoI) | 1:36 | 2021-01-27 | 2021-03-26 |
@@ -595,6 +595,7 @@
 | [Start Over](https://open.spotify.com/track/6baV0bSCJuC1lQcIsi25NN) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Start Over](https://open.spotify.com/album/63J6S7tAXtUUPOaOBAfip8) | 2:53 | 2021-01-15 | 2021-03-14 |
 | [Stay Away \(feat\. Machine Gun Kelly & Goody Grace\)](https://open.spotify.com/track/00okrW9OfjmG0PZJSY3fJd) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30) | [Stay Away \(feat\. Machine Gun Kelly & Goody Grace\)](https://open.spotify.com/album/6zZPJvmylSQbrCYsWwW5rK) | 2:31 | 2021-01-15 | 2021-04-24 |
 | [stay4ever \(feat\. Mounika.\)](https://open.spotify.com/track/2KX7ZC9JL8BAeFnCrcVRHE) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Mounika.](https://open.spotify.com/artist/2FdGoGN8SKxgxhUlP9aMDO) | [stay4ever \(feat\. Mounika.\)](https://open.spotify.com/album/0I62XvuIfBKTRWRNrlbSxJ) | 2:20 | 2020-12-13\* | 2021-07-01 |
+| [STEP BACK \(FEAT\. MIKE DIMES\)](https://open.spotify.com/track/1OwD4SeTFdUYZaJkbGcPuv) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R), [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [LOST IN HERE](https://open.spotify.com/album/4URIzfA3qieoUfUmBRTwFS) | 2:56 | 2022-09-16 |  |
 | [Stereo](https://open.spotify.com/track/4EvPNp6cTwmKuPd0JvYbwM) | [cxldface](https://open.spotify.com/artist/1iJd70hmuFd2Xw38LM94hm) | [Stereo](https://open.spotify.com/album/3RcIirgroF9HERMG8MDE1M) | 1:42 | 2022-01-28 | 2022-04-18 |
 | [Story's End](https://open.spotify.com/track/6IFH7XewQfEn1veLWxKzoI) | [Indii G.](https://open.spotify.com/artist/0Y1jPi8CQWV56rdS9FQonN) | [Story's End](https://open.spotify.com/album/34MWHRFW6e9L1zGOMUiIJB) | 3:06 | 2020-12-13\* | 2021-02-27 |
 | [straight jacket](https://open.spotify.com/track/0cCBS2VBF1h9NU33wExRDO) | [guccihighwaters](https://open.spotify.com/artist/7EIOmfcBRSR63ZaUptkD09) | [straight jacket](https://open.spotify.com/album/0ntsdyWn2rB63dcb6qNeF2) | 3:03 | 2020-12-13\* | 2021-03-26 |

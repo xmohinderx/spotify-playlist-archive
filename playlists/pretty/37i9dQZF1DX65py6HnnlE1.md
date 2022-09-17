@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65py6HnnlE1.md) - [plain]
 
 > Clásicos de la bachata\. Timeless bachata hits\. Cover: Aventura
 
-[Spotify](https://open.spotify.com/user/spotify) - 529,875 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 530,248 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,12 +19,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65py6HnnlE1.md) - [plain]
 | 9 | [Darte un Beso](https://open.spotify.com/track/6cJLfIqwh0tCKRjYM3WpZ5) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Soy el Mismo](https://open.spotify.com/album/4o8ZyBzwPxPVc2bqNG5Xfe) | 3:26 |
 | 10 | [Dile al Amor](https://open.spotify.com/track/2Bhmj4XK33InfhqKPxcJ1v) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [The Last](https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe) | 3:49 |
 | 11 | [Que Vuelva](https://open.spotify.com/track/0ndYI8UT0PMaJzKLJbFr35) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Corazón Duro](https://open.spotify.com/album/3C5eb62kdgXXv8ZLzfGkiB) | 4:47 |
-| 12 | [Medicina De Amor](https://open.spotify.com/track/0OgX5NA7KFx8FCr5W0HYl9) | [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | [Medicina De Amor](https://open.spotify.com/album/1NpEJb5OJqbZ6UZTZBdqdz) | 6:00 |
+| 12 | [Te Quiero Igual Que Ayer \- Bachata](https://open.spotify.com/track/1YrZktczkzn59XaWXMCYY2) | [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Confesiones](https://open.spotify.com/album/4QVEewz5D2YmstuFp83v0e) | 4:19 |
 | 13 | [Eres Mía](https://open.spotify.com/track/6I86RF3odBlcuZA9Vfjzeq) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Fórmula, Vol\. 2 \(Deluxe Edition\)](https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L) | 4:10 |
 | 14 | [Rechazame](https://open.spotify.com/track/07p0kLnvfQQ2bLujHyzSGK) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Prince Royce](https://open.spotify.com/album/5zEFCJy9kAyD8rMbBESdYh) | 3:43 |
 | 15 | [Un Beso](https://open.spotify.com/track/1SaEt8dwTuLDzenUu5BqI6) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [God's Project](https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5) | 4:23 |
 | 16 | [Burbujas de Amor](https://open.spotify.com/track/0TarPYIjJndYucFUOMce8P) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Bachata Rosa](https://open.spotify.com/album/3lRQHKkCpntPvEoqh3C3B0) | 4:10 |
-| 17 | [Te Quiero Igual Que Ayer \- Bachata](https://open.spotify.com/track/1YrZktczkzn59XaWXMCYY2) | [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Confesiones](https://open.spotify.com/album/4QVEewz5D2YmstuFp83v0e) | 4:19 |
+| 17 | [Medicina De Amor](https://open.spotify.com/track/0OgX5NA7KFx8FCr5W0HYl9) | [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | [Medicina De Amor](https://open.spotify.com/album/1NpEJb5OJqbZ6UZTZBdqdz) | 6:00 |
 | 18 | [Tu Eres Ajena](https://open.spotify.com/track/64zjvItFmkY8Q96tcmGQ6n) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Amor En Silencio](https://open.spotify.com/album/02IKI6J5vzzTZ0DC2yWNcu) | 3:59 |
 | 19 | [Corazón Culpable](https://open.spotify.com/track/4ZcjNfK9Df94vbT43Gm8dt) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Cojelo Ahí](https://open.spotify.com/album/3DMQ0XGeZlnUJtqHU8kDWm) | 5:59 |
 | 20 | [Odio \(feat\. Drake\)](https://open.spotify.com/track/1iLv1ieT9BZ3qsti9yTCnG) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Fórmula, Vol\. 2 \(Deluxe Edition\)](https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L) | 3:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65py6HnnlE1.md) - [plain]
 | 49 | [Llora Alma Mía](https://open.spotify.com/track/6KioOiN7xTcjhlYC88qkgb) | [Yoskar Sarante](https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4) | [Llora Alma Mia](https://open.spotify.com/album/4NCFudOnqbnak0laoZN2so) | 4:21 |
 | 50 | [Antología De Caricias](https://open.spotify.com/track/2jEgfmOjkzmdI8FFqNHrrf) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [La Batalla](https://open.spotify.com/album/2SoC60zXrZBkx0Q8CP8hPb) | 3:57 |
 
-Snapshot ID: `MTY2MTkyODE4NCwwMDAwMDAwMDgyNDUzYTg4YTAwNzM1YjQyMjIzMDE0MDYxZDBiMTMy`
+Snapshot ID: `MTY2MTkyODE4NCwwMDAwMDAwMGQ0N2E1MzQ5NGIyNzgxYzNiYTQ5MDIyYWE0OWFmZWZl`

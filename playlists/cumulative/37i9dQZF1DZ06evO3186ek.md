@@ -4,7 +4,7 @@
 
 > This is Maverick City Music\. The essential tracks, all in one playlist.
 
-50 songs - 7 hr 22 min - not published yet
+50 songs - 7 hr 22 min - [published](https://open.spotify.com/playlist/7hnlG97ZL9paORifZ3L9sn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

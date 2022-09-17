@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-599 songs - 1 day 16 hr 0 min - [published](https://open.spotify.com/playlist/13FLvUS6p460Alut0P8FWR)
+600 songs - 1 day 16 hr 5 min - [published](https://open.spotify.com/playlist/13FLvUS6p460Alut0P8FWR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,6 +257,7 @@
 | [Ideas](https://open.spotify.com/track/1ujR3cGRlQJjGqEI7UQHsB) | [Tibetan Miracle Seeds](https://open.spotify.com/artist/71W1vz4yilHIyFTQaoeBZI) | [Inca Missiles](https://open.spotify.com/album/4nc3ugTyC8Mxpcr6zGndGA) | 5:48 | 2022-04-20 | 2022-07-28 |
 | [IDGAF](https://open.spotify.com/track/6UtMa53IrX3wYcRaecUN5t) | [Sam Evian](https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu) | [IDGAF](https://open.spotify.com/album/2HdS37KRVEQUOUhi1XZwzT) | 3:16 | 2021-04-02 | 2022-05-08 |
 | [If I Had My Way](https://open.spotify.com/track/6140Uf7R4cNyHUJnhYG5h7) | [Osees](https://open.spotify.com/artist/0Ynh5WKqwbdYqJUpVpfEGS), [Thee Oh Sees](https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh) | [Protean Threat](https://open.spotify.com/album/16l3FJwjZooUHbU37sdeeI) | 2:47 | 2022-04-20 | 2022-07-30 |
+| [If I Were A Butterfly \- Single Version](https://open.spotify.com/track/6inkWeYbXK6IuhCALR379j) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [If I Were A Butterfly](https://open.spotify.com/album/5zF48gx3TWHg2Mi8nFrtpn) | 5:11 | 2022-09-02 |  |
 | [If You Don't Wanna Know](https://open.spotify.com/track/6u2sNdU0FNLbtZypNb2ubE) | [Fake Laugh](https://open.spotify.com/artist/0T9yyggayix1EKjiq3hW2m) | [If You Don't Wanna Know](https://open.spotify.com/album/2bhkXqzbP7wROlIJPe0BE9) | 3:27 | 2021-04-02 | 2022-04-21 |
 | [ILLUSIONS](https://open.spotify.com/track/5brlbAE683E1wEzKDNT3B8) | [Gavin Turek](https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG) | [ILLUSIONS](https://open.spotify.com/album/4hBStZD5wKMAlhylLMACpT) | 3:58 | 2021-06-25 | 2022-04-21 |
 | [Imaginary Girl](https://open.spotify.com/track/0dXdVTTo1hVSWvqEJQ04Gy) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [SongBook](https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0) | 4:21 | 2022-04-22 | 2022-07-30 |
@@ -517,7 +518,7 @@
 | [The Light](https://open.spotify.com/track/64R2n9O7Aif7YP3ivkOWYS) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [Metronomy Forever](https://open.spotify.com/album/7IzNAyOsxeWhKPyNNz1urS) | 4:32 | 2022-07-11 |  |
 | [The Look](https://open.spotify.com/track/6cGdaUtU9aPow49qHXOqMt) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [The Look](https://open.spotify.com/album/313WijyC82LvkasvfcRbSD) | 3:56 | 2021-04-02 | 2022-07-10 |
 | [The Loon](https://open.spotify.com/track/4ZrpeLF9VBKSJQ00UDxu7Q) | [Caleb Landry Jones](https://open.spotify.com/artist/736HHrEfkWjQB7zYV2aeXV) | [The Loon](https://open.spotify.com/album/3qdcsgPvZEgyal2LWwbGQC) | 3:01 | 2021-08-20 | 2022-04-14 |
-| [The Loop](https://open.spotify.com/track/0IqNIctRdh2N9OecaZTDDd) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [The Loop](https://open.spotify.com/album/2YHQXXuvlQ3AzQOj4NHjgF) | 4:01 | 2022-03-08 |  |
+| [The Loop](https://open.spotify.com/track/0IqNIctRdh2N9OecaZTDDd) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [The Loop](https://open.spotify.com/album/2YHQXXuvlQ3AzQOj4NHjgF) | 4:01 | 2022-03-08 | 2022-09-17 |
 | [The Medium](https://open.spotify.com/track/3LtlQb74pLqC5KsllxIXoV) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp), [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [MAHAL](https://open.spotify.com/album/16AQyjz1z9rOsTm6iVrBUR) | 3:07 | 2022-07-11 |  |
 | [The Melting Of The Sun](https://open.spotify.com/track/4unEJMppi4oB9yoYRnTnq7) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [The Melting Of The Sun](https://open.spotify.com/album/0mOmcNkbEpgXvSWlhrHtdj) | 4:17 | 2021-04-02 | 2022-07-30 |
 | [The Night Has Missed Me](https://open.spotify.com/track/0tH8LYAaoTsPWmFeEUEnIF) | [Aprile](https://open.spotify.com/artist/7oEYc5uIsL3oSolbDkG39P) | [From Heaven](https://open.spotify.com/album/260smJl1zubR2fxh8OD0rz) | 3:49 | 2022-05-09 | 2022-07-30 |

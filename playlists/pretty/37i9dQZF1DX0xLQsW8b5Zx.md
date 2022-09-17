@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 
 > Live fast, die awesome! A great mix of the best rockabilly tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 505,058 likes - 60 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 505,158 likes - 60 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 | 13 | [Blue Suede Shoes](https://open.spotify.com/track/5d6ZRqgbz26Sg4bk1oifQw) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [The Dance Album](https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK) | 2:14 |
 | 14 | [Whole Lot Of Shakin' Going On \- Single Version](https://open.spotify.com/track/7Fyo9lTrk6pjT1rVW3GlBG) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [Original Golden Hits \- Volume 1 \(Vol\. 1\)](https://open.spotify.com/album/22cLZV8YJhDZzJ7lvJQXZj) | 2:53 |
 | 15 | [Baby Did A Bad Bad Thing](https://open.spotify.com/track/116Qy7Q95zaZgVUc5Z03wp) | [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx) | [Forever Blue](https://open.spotify.com/album/5j0gG8sv3zqZhpW5e4HlvY) | 2:54 |
-| 16 | [Stray Cat Strut](https://open.spotify.com/track/5yogRsv5ggT6iCnFgvdpho) | [Stray Cats](https://open.spotify.com/artist/2ibPkysx2PXqWLmxFD7jSg) | [Built For Speed](https://open.spotify.com/album/65PptxxbOFNvpAK9oBeVV1) | 3:18 |
+| 16 | [Get Rhythm](https://open.spotify.com/track/2aq1oBnP7Q176mZw5P6eUk) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [The Tennessee Two](https://open.spotify.com/artist/3iGdenNgbzOak86BHrx0Nt) | [Greatest](https://open.spotify.com/album/1tfvwgjJHU9zYWy4qIHZsV) | 2:12 |
 | 17 | [Good Golly, Miss Molly](https://open.spotify.com/track/0ZvgXNstN4o2ZXPomtBYVp) | [Little Richard](https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm) | [Good Golly!](https://open.spotify.com/album/18VnWTsdEcofimkOHcWBAu) | 2:09 |
-| 18 | [Get Rhythm](https://open.spotify.com/track/2aq1oBnP7Q176mZw5P6eUk) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [The Tennessee Two](https://open.spotify.com/artist/3iGdenNgbzOak86BHrx0Nt) | [Greatest](https://open.spotify.com/album/1tfvwgjJHU9zYWy4qIHZsV) | 2:12 |
+| 18 | [Stray Cat Strut](https://open.spotify.com/track/5yogRsv5ggT6iCnFgvdpho) | [Stray Cats](https://open.spotify.com/artist/2ibPkysx2PXqWLmxFD7jSg) | [Built For Speed](https://open.spotify.com/album/65PptxxbOFNvpAK9oBeVV1) | 3:18 |
 | 19 | [Rip It Up](https://open.spotify.com/track/242E7zj2wWWegVlurGpaVz) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis](https://open.spotify.com/album/4BxOdLUpWYFL0mfdYiukyQ) | 1:52 |
 | 20 | [Rebel Rouser](https://open.spotify.com/track/7jZwak3w1Sbwkb8aqusUwi) | [Duane Eddy](https://open.spotify.com/artist/1I5Cu7bqjkRg85idwYsD91) | [Twangin' The Golden Hits](https://open.spotify.com/album/5Q1rt5amRpPHzxAQnJkmd0) | 2:33 |
 | 21 | [Frankie Please](https://open.spotify.com/track/6jDm8LTMY13EzzIu5FNzYq) | [Rodney Crowell](https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY) | [Tarpaper Sky](https://open.spotify.com/album/5ZLE1zSmmqjOaurNc191uw) | 2:43 |
@@ -48,16 +48,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 | 38 | [Everybody's Trying to Be My Baby](https://open.spotify.com/track/75MzeS5tyJDX7a5ZytcqS8) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [The Dance Album](https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK) | 2:13 |
 | 39 | [Jungle Rock](https://open.spotify.com/track/6dA1oRPKhfAm1hHO6sKrGy) | [Hank Mizell](https://open.spotify.com/artist/3RGF93b8Qtz77GLJBgdBH6) | [Windy City Bop \- Chicago Rockabilly 1945\-1958](https://open.spotify.com/album/1cqS5uzgVFJLhGuP7G089N) | 2:46 |
 | 40 | [Welcome to My Hell](https://open.spotify.com/track/5UDbp5XoKm8UornXTFQk8D) | [The Go Getters](https://open.spotify.com/artist/5UR2Ohlvs9osiEwbJVQHiq) | [Hot Rod Roadeo](https://open.spotify.com/album/3HMxOidYsEt6ayuiJALN0k) | 3:08 |
-| 41 | [You Belong to Me](https://open.spotify.com/track/1yZj1ACstOv0jRgFuKolxI) | [John Lindberg Trio](https://open.spotify.com/artist/1WycSxPCDVrFmadezeD8sO) | [Straight from the Heart](https://open.spotify.com/album/2krRyJn2KAXcknNdDV6ask) | 2:18 |
-| 42 | [Tiger Twist \- 2007 Remaster](https://open.spotify.com/track/0WZiGJT2NawjIySdHLzhMx) | [Teddy & The Tigers](https://open.spotify.com/artist/1vKtKEWbJ3NcT14A49sBbb) | [Burn It Up](https://open.spotify.com/album/7mqE83mgUVFGH58PShzMBg) | 2:05 |
+| 41 | [Tiger Twist \- 2007 Remaster](https://open.spotify.com/track/0WZiGJT2NawjIySdHLzhMx) | [Teddy & The Tigers](https://open.spotify.com/artist/1vKtKEWbJ3NcT14A49sBbb) | [Burn It Up](https://open.spotify.com/album/7mqE83mgUVFGH58PShzMBg) | 2:05 |
+| 42 | [You Belong to Me](https://open.spotify.com/track/1yZj1ACstOv0jRgFuKolxI) | [John Lindberg Trio](https://open.spotify.com/artist/1WycSxPCDVrFmadezeD8sO) | [Straight from the Heart](https://open.spotify.com/album/2krRyJn2KAXcknNdDV6ask) | 2:18 |
 | 43 | [Help Me Out](https://open.spotify.com/track/6qgKJxzgWqPyoHJaoDAnGE) | [The Hotlips](https://open.spotify.com/artist/1WNWaC0lAc3o5ODUvRfOo6) | [Help Me Out](https://open.spotify.com/album/1OiLEuPXzmyiPDUZtAQZYc) | 2:59 |
 | 44 | [New Rock The Joint](https://open.spotify.com/track/2msqQpB7YcypMKIx6W5qG5) | [Bill Haley & His Comets](https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr) | [Rockin' The Joint](https://open.spotify.com/album/0N5EMEMyYN6BW9R3PjCxxz) | 2:18 |
 | 45 | [Black Slacks](https://open.spotify.com/track/0nRR6eQMDYkIFmn8c9Rwga) | [Joe Bennett & The Sparkletones](https://open.spotify.com/artist/7jXrEnMAd3ExygGvV3ZGhP) | [1957\-1959](https://open.spotify.com/album/5jRYbndM2M3Z5tzDJDLzNp) | 2:09 |
 | 46 | [Rock Around With Ollie Vee \- Alternate Version](https://open.spotify.com/track/5b0KMebx2ZOPv91U42xOSv) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D) | [That'll Be The Day](https://open.spotify.com/album/0KHc3cD7pAOAieo9lPWXkY) | 2:18 |
 | 47 | [Chevy 55](https://open.spotify.com/track/79K5pAjftYuDRdxRksHddu) | [The Playtones](https://open.spotify.com/artist/4UThQDoYdZatw3BH5zZIne) | [In the Mood](https://open.spotify.com/album/2sUh5PyADSSgduPJgCeYwu) | 2:55 |
 | 48 | [Everybody's Movin'](https://open.spotify.com/track/4NnJxkpRJzfKMJM1H3VlYt) | [Glen Glenn](https://open.spotify.com/artist/4HA1v7Kj8foWKczaOUbxQx) | [Glen Rocks](https://open.spotify.com/album/7lm2w3HxZcXE1V2tvscmBv) | 2:42 |
-| 49 | [Rich Little Bitch](https://open.spotify.com/track/12680M4NXeEB27oywHfCxg) | [Melrose](https://open.spotify.com/artist/7wEF4N6aICDlkHnCy3PLan) | [Melrose](https://open.spotify.com/album/4RE5Q4pm0CqEXpfva5NoXz) | 3:51 |
-| 50 | [Rocky Road Blues](https://open.spotify.com/track/3BnAAC5tXSJgv2FnQdB0Fx) | [The Lennerockers](https://open.spotify.com/artist/4vc23SWZ3Lws9afk9sJun9), [Freddie Fingers Lee](https://open.spotify.com/artist/0zbAwBACoFK4620DPiqRnz) | [The Lennerockers and Friends](https://open.spotify.com/album/5isCgworJE2qqtIyx4K4Vr) | 3:27 |
+| 49 | [Rocky Road Blues](https://open.spotify.com/track/3BnAAC5tXSJgv2FnQdB0Fx) | [The Lennerockers](https://open.spotify.com/artist/4vc23SWZ3Lws9afk9sJun9), [Freddie Fingers Lee](https://open.spotify.com/artist/0zbAwBACoFK4620DPiqRnz) | [The Lennerockers and Friends](https://open.spotify.com/album/5isCgworJE2qqtIyx4K4Vr) | 3:27 |
+| 50 | [Rich Little Bitch](https://open.spotify.com/track/12680M4NXeEB27oywHfCxg) | [Melrose](https://open.spotify.com/artist/7wEF4N6aICDlkHnCy3PLan) | [Melrose](https://open.spotify.com/album/4RE5Q4pm0CqEXpfva5NoXz) | 3:51 |
 | 51 | [Bad News From Pretty Red Lips](https://open.spotify.com/track/1jy0EJerJqjpwdGHkUrZQd) | [Fatboy](https://open.spotify.com/artist/5vK6yZH3E1wOYY93NHZwJT) | [Overdrive](https://open.spotify.com/album/1PfyEOST0PpaP4c258vF0E) | 2:46 |
 | 52 | [Hello Mary Lou](https://open.spotify.com/track/0YOasUp8fxPk3FXEa3fZ9z) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Legacy](https://open.spotify.com/album/1bZHbHtUvjGqUOKNla4lo0) | 2:18 |
 | 53 | [Chalk It Up to the Blues](https://open.spotify.com/track/3GjdLiQyrIDArRUHHsE93v) | [Big Sandy & His Fly\-Rite Boys](https://open.spotify.com/artist/2LOf1HpUxBqvz3WIdNPdBv) | [It's Time!](https://open.spotify.com/album/0F9FXQPcSj82bp4SnDeA7A) | 3:12 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 | 59 | [Northern Girl](https://open.spotify.com/track/3ddovtNdDK3nrseLGpI4hV) | [Lee Ericson](https://open.spotify.com/artist/4i9dZAd8B1gXWY8iyPdgnY), [The Kingbees](https://open.spotify.com/artist/4cu77OuihTaUDYozqa2u9G) | [Stockholm Blue](https://open.spotify.com/album/7xFg94LOru7QaN5couhbh1) | 3:30 |
 | 60 | [Devil On My Shoulder](https://open.spotify.com/track/3UZo90wgkXdNPtSVIMYfdu) | [Kim Lenz & Her Jaguars](https://open.spotify.com/artist/2yG5isAT56JzRO1qpmmwnB) | [Kim Lenz And Her Jaguars](https://open.spotify.com/album/1S8GKcUi2QMBDN6AtSZLOL) | 2:37 |
 
-Snapshot ID: `MTY2MjEwMzE5NSwwMDAwMDAwMDEwMTIzOGI3NDk4MGEwYmJmNzFkYmRiODA4Yzc2ZTE1`
+Snapshot ID: `MTY2MjEwMzE5NSwwMDAwMDAwMGMxNDk0MGI2ZGJiZjg4ZGNmOWJkN2JjOTEwZTJmYzQx`

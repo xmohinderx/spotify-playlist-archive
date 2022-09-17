@@ -4,12 +4,13 @@
 
 > Degusta de lo más delicioso para cenar.
 
-188 songs - 12 hr 51 min - [published](https://open.spotify.com/playlist/47Huh5UiGAGys8xAYxZSoJ)
+189 songs - 12 hr 54 min - [published](https://open.spotify.com/playlist/47Huh5UiGAGys8xAYxZSoJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['Round Midnight](https://open.spotify.com/track/1FOI8dkOH27cv1FC7ZFOEp) | [Corey Christopher Wright](https://open.spotify.com/artist/76chtyg3RNKYtVaNv2waQk) | ['Round Midnight](https://open.spotify.com/album/78X3XqhFT1W9qTUO506Bm9) | 5:21 | 2022-06-29 | 2022-09-02 |
 | [A Flower is a Lonesome Thing](https://open.spotify.com/track/75M8G3DXdEqW3jJI4OyI5r) | [Lauren Richardson](https://open.spotify.com/artist/22cERTGpksi71aIOeGVYf6) | [A Flower is a Lonesome Thing](https://open.spotify.com/album/1lyGazJswD2YoFvtE2hSCV) | 5:26 | 2022-06-29 | 2022-07-28 |
+| [A Future With You](https://open.spotify.com/track/0iIxcgkANZfp1Mk4Es1OUw) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [A Future With You](https://open.spotify.com/album/6BQydkNHQgsSwEhsFm1YUf) | 3:05 | 2022-09-14 |  |
 | [A Life Remembered](https://open.spotify.com/track/1Z2syyXirlJMUq8NRh6r3t) | [Bridgerton Vail](https://open.spotify.com/artist/258zL72kPsK1Y6IqgdoPDC) | [A Life Remembered](https://open.spotify.com/album/787bxoPDOcR9LASFyyWlHA) | 2:56 | 2022-06-29 |  |
 | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/track/1xaTXPoDk4VOU9XhYX4KJM) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Bob Brookmeyer](https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN) | [Recorded Fall '61](https://open.spotify.com/album/4eujTUUqxbXKR0rSfwyw2h) | 6:59 | 2022-06-29 |  |
 | [A Time For Love](https://open.spotify.com/track/1lj6MFAyOG9mlwmp0EkBAF) | [Mandevilla](https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk) | [On A Misty Night](https://open.spotify.com/album/4wOwSu9EKBoAywQp51RVV9) | 5:08 | 2022-06-29 |  |
@@ -73,7 +74,7 @@
 | [Honey, You Are My Everything](https://open.spotify.com/track/2dXBcXQmElv95h7Fl0P623) | [Danny Ryan Jazz Band](https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j) | [Honey, You Are My Everything](https://open.spotify.com/album/7bYo0AjbiwMLJJqYyVuGID) | 4:19 | 2022-06-29 |  |
 | [Hoping](https://open.spotify.com/track/6RhZRRN9d78ef1Qhevnxkk) | [Tom Stills Quartet](https://open.spotify.com/artist/2AE39jS64KnonFYcLHAUv0) | [Hoping](https://open.spotify.com/album/4fSuViLnkUt5fKf6w3SxtC) | 3:23 | 2022-06-29 | 2022-09-02 |
 | [Hoppet](https://open.spotify.com/track/50QdRhmKuE8C2z1NGkiKxB) | [Måns & Dotter](https://open.spotify.com/artist/2p01LeKL4qyvQ5xKWs9S40) | [Hoppet](https://open.spotify.com/album/6IOoncN42rM25gZJx0rp8J) | 2:35 | 2022-06-29 |  |
-| [How Deep Is The Ocean \(How High Is The Sky\)](https://open.spotify.com/track/2yVSmhgifg9zyolZ2FOgPM) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Ben Webster Meets Oscar Peterson](https://open.spotify.com/album/52vxvueV32JO6tZHaSojRZ) | 2:33 | 2022-06-29 |  |
+| [How Deep Is The Ocean \(How High Is The Sky\)](https://open.spotify.com/track/2yVSmhgifg9zyolZ2FOgPM) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Ben Webster Meets Oscar Peterson](https://open.spotify.com/album/52vxvueV32JO6tZHaSojRZ) | 2:33 | 2022-06-29 | 2022-09-17 |
 | [I Could Write A Book](https://open.spotify.com/track/7nbQBpnj4CfKEycYy1dNLT) | [Jacob Schwarz Trio](https://open.spotify.com/artist/4xN1VyTbKQakR98CT0NNfY) | [Jazz Nights](https://open.spotify.com/album/6RT1EEN4J9A229oyoZ6jHM) | 3:09 | 2022-06-29 |  |
 | [I Didn't Know About You](https://open.spotify.com/track/4n3zpZjTVMy3GbguVibX0g) | [Figgy Mold](https://open.spotify.com/artist/1nr44rcCUJR2qL0SKfCOYF) | [I Didn't Know About You](https://open.spotify.com/album/1DArZKNaRwXBjvjY7U9UX4) | 3:50 | 2022-06-29 | 2022-07-28 |
 | [I Fall in Love Too Easily](https://open.spotify.com/track/7kdPpPFzjLo8piKWbuQ0e4) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [The Art of the Trio, Vol\. 1](https://open.spotify.com/album/3MIOYuA2uqGXFiwDbBK9Fc) | 7:18 | 2022-06-29 |  |

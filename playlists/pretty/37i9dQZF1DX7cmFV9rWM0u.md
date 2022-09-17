@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cmFV9rWM0u.md) - [plain]
 
 > Break a sweat with this Zumba\-inspired playlist! Find a class at Zumba.Dance
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,839,193 likes - 65 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,839,298 likes - 65 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cmFV9rWM0u.md) - [plain]
 | 22 | [KESI \- Remix](https://open.spotify.com/track/0IqCoZ168iRc9LqfrYgpZy) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [KESI \(Remix\)](https://open.spotify.com/album/00R62QqtlwSpAuwkS5kxB3) | 2:56 |
 | 23 | [Brisa](https://open.spotify.com/track/5xhFO6kaUjGcSezSp5hIhG) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Brisa](https://open.spotify.com/album/4ZYTZPdMVeOcEaKRhRKFbE) | 4:19 |
 | 24 | [Loco Contigo \(feat\. J\. Balvin & Tyga\)](https://open.spotify.com/track/6osaMSJh9NguagEDQcZaKx) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Carte Blanche](https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR) | 3:05 |
-| 25 | [Se Te Nota \(with Guaynaa\)](https://open.spotify.com/track/11EnQRgRMJwMAesfkB5pnu) | [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Se Te Nota \(with Guaynaa\)](https://open.spotify.com/album/4XiHCUNnGgnnN5xkGue4RF) | 2:35 |
-| 26 | [FRIKI](https://open.spotify.com/track/3No3zHVwKadKDR00kZdmAB) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [FRIKI](https://open.spotify.com/album/7LlTjovytMWtPVHm7cJku2) | 2:24 |
+| 25 | [FRIKI](https://open.spotify.com/track/3No3zHVwKadKDR00kZdmAB) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [FRIKI](https://open.spotify.com/album/7LlTjovytMWtPVHm7cJku2) | 2:24 |
+| 26 | [Se Te Nota \(with Guaynaa\)](https://open.spotify.com/track/11EnQRgRMJwMAesfkB5pnu) | [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Se Te Nota \(with Guaynaa\)](https://open.spotify.com/album/4XiHCUNnGgnnN5xkGue4RF) | 2:35 |
 | 27 | [La Mamá de la Mamá](https://open.spotify.com/track/2L95U6syP0bV3fkYYOzmiW) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e), [CJ](https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb), [El Cherry Scom](https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY) | [La Mamá de la Mamá](https://open.spotify.com/album/2WG76KEpCWL8c790ZIEXk7) | 3:39 |
 | 28 | [Sal y Perrea](https://open.spotify.com/track/5u7twkeask1VIyDeNTElSU) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [42](https://open.spotify.com/album/3tRrovXWGrSfBU3MYHqsVJ) | 3:36 |
 | 29 | [In Da Getto](https://open.spotify.com/track/63aj87TQG6F3RVO5nbG2VQ) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [In Da Getto](https://open.spotify.com/album/2M7g0SNXnSq7j5BgYJYJsl) | 2:11 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cmFV9rWM0u.md) - [plain]
 | 64 | [La Mitad](https://open.spotify.com/track/0129zNnaJ2w1eXqKxjMRI4) | [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [La Mitad](https://open.spotify.com/album/58yoUfo0t6EqVrJCPGdKSe) | 3:01 |
 | 65 | [Hora Loca](https://open.spotify.com/track/2E5NKtMEuJoDkbWTRbRuXy) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [Hora Loca](https://open.spotify.com/album/10Z3jEKBIQs2xzzOB4VfYc) | 3:30 |
 
-Snapshot ID: `MTY2MDU3MTk5MSwwMDAwMDAwMDZmNzQ0MGY0NzFhN2ViNTJhYjgxMTc0ZDg2N2JlNzY2`
+Snapshot ID: `MTY2MDU3MTk5MSwwMDAwMDAwMGEwYzRjOWUzYTIyYzIyZWU1YTU2NDk5YTU4OTgyZmJm`

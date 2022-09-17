@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33TfGBYPkRQ.md) - [plain]
 
 > That feeling of being punched in the gut by a song.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,063 likes - 100 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,102 likes - 100 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33TfGBYPkRQ.md) - [plain]
 | 4 | [Hurt](https://open.spotify.com/track/28cnXtME493VX9NOw9cIUh) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American IV: The Man Comes Around](https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9) | 3:36 |
 | 5 | [Where’s My Love \- Alternate Version](https://open.spotify.com/track/5IH7HQEWhToZnMQTZRzp1H) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Hurt for Me](https://open.spotify.com/album/6lwJbpuuA8wENZOuYDVRc8) | 4:08 |
 | 6 | [Rivers and Roads](https://open.spotify.com/track/3nzXs8ynjIwQvmxjogvCYx) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head And The Heart](https://open.spotify.com/album/0HOYbncHll4TcojWXrfYfV) | 4:44 |
-| 7 | [Your Best American Girl](https://open.spotify.com/track/7g5qe8VITjr13RIe8uM2p6) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Puberty 2](https://open.spotify.com/album/4Coa8Eb9SzjrkwWEom963Q) | 3:32 |
-| 8 | [Please, Please, Please, Let Me Get What I Want \- 2011 Remaster](https://open.spotify.com/track/6BrMEbPSSj55nQhkgf6DnE) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Hatful of Hollow](https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv) | 1:52 |
+| 7 | [Please, Please, Please, Let Me Get What I Want \- 2011 Remaster](https://open.spotify.com/track/6BrMEbPSSj55nQhkgf6DnE) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Hatful of Hollow](https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv) | 1:52 |
+| 8 | [Your Best American Girl](https://open.spotify.com/track/7g5qe8VITjr13RIe8uM2p6) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Puberty 2](https://open.spotify.com/album/4Coa8Eb9SzjrkwWEom963Q) | 3:32 |
 | 9 | [Mad World](https://open.spotify.com/track/3JOVTQ5h8HGFnDdp4VT3MP) | [Gary Jules](https://open.spotify.com/artist/5oRnbmgqvvq7fVlgk4vcEa), [Michael Andrews](https://open.spotify.com/artist/0RkqytrwoGyXGvDiZwT6i2) | [Trading Snakeoil for Wolftickets](https://open.spotify.com/album/1OydCrx4m7fguwcX4stR9z) | 3:09 |
 | 10 | [Night Shift](https://open.spotify.com/track/1yYlpGuBiRRf33e1gY61bN) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Historian](https://open.spotify.com/album/0LqhbUfmHsxovfSirhEIGu) | 6:31 |
 | 11 | [Carry You](https://open.spotify.com/track/0u4rkpmNtgcFxYHepnVF4v) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Bathing Beach](https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN) | 4:33 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33TfGBYPkRQ.md) - [plain]
 | 65 | [Thingamajig](https://open.spotify.com/track/5jQ5iwHkqyk6HgxLOFdJo1) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [Premonitions](https://open.spotify.com/album/3nWDfV4stC2VQopcuHjJmO) | 4:12 |
 | 66 | [Quiver](https://open.spotify.com/track/0yPm9Wg6qcTwLZIXweNGpA) | [Lonas](https://open.spotify.com/artist/4IK8Q9friPfYKvX4n83vYL) | [Quiver](https://open.spotify.com/album/3iJqPoSepf0oHwIWd7K83f) | 4:11 |
 | 67 | [Real Death](https://open.spotify.com/track/4RLr8yJXuhJ6ZrIQkZ4JlA) | [Mount Eerie](https://open.spotify.com/artist/4Sw0SFu1fFdYXdAEVdrqnO) | [A Crow Looked at Me](https://open.spotify.com/album/5p64XgvFREt1P6mC7Xl6XN) | 2:27 |
-| 68 | [Foreground](https://open.spotify.com/track/2MTQDSB9XLD1ejc6tAMQfv) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Veckatimest](https://open.spotify.com/album/6FIFqclBriPCb0SjWDaHIk) | 3:35 |
-| 69 | [Heal](https://open.spotify.com/track/1xVF9wZZ87uAz0bw6jT4sH) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down](https://open.spotify.com/album/3oEqMQVxXfn2jGRaauU2iv) | 3:15 |
+| 68 | [Heal](https://open.spotify.com/track/1xVF9wZZ87uAz0bw6jT4sH) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down](https://open.spotify.com/album/3oEqMQVxXfn2jGRaauU2iv) | 3:15 |
+| 69 | [Foreground](https://open.spotify.com/track/2MTQDSB9XLD1ejc6tAMQfv) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Veckatimest](https://open.spotify.com/album/6FIFqclBriPCb0SjWDaHIk) | 3:35 |
 | 70 | [Dominos](https://open.spotify.com/track/5JquknF5yqKV2lZFeffMIQ) | [Better Oblivion Community Center](https://open.spotify.com/artist/3NBmfDV6Yh3hjuQUBVvYgO), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Conor Oberst](https://open.spotify.com/artist/2Z7gV3uEh1ckIaBzTUCE6R) | [Better Oblivion Community Center](https://open.spotify.com/album/0uJIxkI8D0rR4shEIKeiDs) | 4:32 |
 | 71 | [I Went To The Store One Day](https://open.spotify.com/track/46OdBjlDe1JVm81dmNYdyX) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [I Love You, Honeybear](https://open.spotify.com/album/4vTEFCLgDEgKIQXTrsmS6F) | 4:26 |
 | 72 | [The Valley](https://open.spotify.com/track/0YBApL73BbXpxEJKREFOUF) | [Ethan Gruska](https://open.spotify.com/artist/1zkHConahaP6T8EBpg8BeE) | [Slowmotionary](https://open.spotify.com/album/3Ral8vi8Cc0uCtp0Zg0A7x) | 2:45 |
@@ -95,18 +95,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33TfGBYPkRQ.md) - [plain]
 | 85 | [A Case Of You](https://open.spotify.com/track/6tNrUI6H15kqWBff0HcEZr) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Enough Thunder](https://open.spotify.com/album/4Ss3RK7115gnEY66i7C5dG) | 2:57 |
 | 86 | [Historians](https://open.spotify.com/track/6OYOfYGfaAe8A9T1lhC13b) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Historian](https://open.spotify.com/album/0LqhbUfmHsxovfSirhEIGu) | 3:56 |
 | 87 | [Riding For The Feeling](https://open.spotify.com/track/6qo9HElLHUptcwpVprsS4C) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Apocalypse](https://open.spotify.com/album/13VVtuvboNAaPFcKsQsjLP) | 6:05 |
-| 88 | [It's A Motherfucker](https://open.spotify.com/track/7KFcK6EDxAl0HrFoFhTsuC) | [Eels](https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl) | [Daisies Of The Galaxy](https://open.spotify.com/album/1myZZzfBVfMo7t4yvgAXte) | 2:11 |
-| 89 | [Comfort](https://open.spotify.com/track/2xG8KBQ5oxjpprQ5IXhXNw) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Crushing](https://open.spotify.com/album/4u3aIyQbywYaxgF7TcXuIu) | 3:07 |
+| 88 | [Comfort](https://open.spotify.com/track/2xG8KBQ5oxjpprQ5IXhXNw) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Crushing](https://open.spotify.com/album/4u3aIyQbywYaxgF7TcXuIu) | 3:07 |
+| 89 | [It's A Motherfucker](https://open.spotify.com/track/7KFcK6EDxAl0HrFoFhTsuC) | [Eels](https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl) | [Daisies Of The Galaxy](https://open.spotify.com/album/1myZZzfBVfMo7t4yvgAXte) | 2:11 |
 | 90 | [placeholder](https://open.spotify.com/track/0p0BfeqMWoToqbPVzXxAIZ) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [placeholder](https://open.spotify.com/album/5MByQp3pFETiRZxcwnZsZz) | 3:50 |
 | 91 | [Keep Me in Your Heart](https://open.spotify.com/track/1fRv46UIwPMVNZGMZR6ymI) | [The Wailin' Jennys](https://open.spotify.com/artist/331QVEZKK1yz5KhYiR2pBj) | [Fifteen](https://open.spotify.com/album/119HRNCY7xfA3R218gtspV) | 3:37 |
 | 92 | [Think Twice](https://open.spotify.com/track/3AUUytODwlkGAeQa7yfkfr) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF) | [Think Twice](https://open.spotify.com/album/5MfzmKy0kDnz0KntikIFxP) | 3:31 |
 | 93 | [Joshua](https://open.spotify.com/track/6bgoagsYAQaPn8vTP5uaJ1) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [Baby Teeth](https://open.spotify.com/album/4VwxhbPs1JBTsjZH9dcTht) | 3:31 |
 | 94 | [Heart In My Hands](https://open.spotify.com/track/218cVN5U8vVxHNXMQp6zEu) | [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [Giants](https://open.spotify.com/album/5jZ99kZu474tcvbhzBuqHI) | 3:39 |
 | 95 | [The Pieces Don't Fit Anymore](https://open.spotify.com/track/05muUAppQeMnnVxH8lVsw9) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Undiscovered](https://open.spotify.com/album/00QEcKEqSmwP8odEMImIuz) | 4:15 |
-| 96 | [One Last Wedding](https://open.spotify.com/track/5QQ7uBiclcWSecFk1IQr27) | [Thad Kopec](https://open.spotify.com/artist/3o1tKzbhMLOZzGlkeLz3No) | [One Last Wedding](https://open.spotify.com/album/5h76Hfvi71bYGnAiSJdgbF) | 3:42 |
-| 97 | [She Went Quietly](https://open.spotify.com/track/57YSZBFJIHvWa7TusTx6Nx) | [Charlie Winston](https://open.spotify.com/artist/7xQTON6uj7akAGzlanUzy3) | [Running Still](https://open.spotify.com/album/4R1Y35ZyPOxcvoOD1bAE1U) | 3:59 |
+| 96 | [She Went Quietly](https://open.spotify.com/track/57YSZBFJIHvWa7TusTx6Nx) | [Charlie Winston](https://open.spotify.com/artist/7xQTON6uj7akAGzlanUzy3) | [Running Still](https://open.spotify.com/album/4R1Y35ZyPOxcvoOD1bAE1U) | 3:59 |
+| 97 | [One Last Wedding](https://open.spotify.com/track/5QQ7uBiclcWSecFk1IQr27) | [Thad Kopec](https://open.spotify.com/artist/3o1tKzbhMLOZzGlkeLz3No) | [One Last Wedding](https://open.spotify.com/album/5h76Hfvi71bYGnAiSJdgbF) | 3:42 |
 | 98 | [Fireworks \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/0tiQwGcxR0W5E7jLqbK3iA) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Spotify Singles](https://open.spotify.com/album/4DyuXP04lvFmYh01L94WH2) | 4:37 |
 | 99 | [Basket Case](https://open.spotify.com/track/7AXUdQmZMA5u221iv6gB0m) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Kaleidoscope Heart](https://open.spotify.com/album/627ukPRwYxyBREHxBq0vGJ) | 4:11 |
 | 100 | [No Need To Argue](https://open.spotify.com/track/6bMtHFNzq1PU6HD7h8SUkd) | [Hannah Georgas](https://open.spotify.com/artist/1ZBR8sri8ddYowXDENBwKS), [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [No Need To Argue](https://open.spotify.com/album/7gQuPkANfJX8bHWJypWDlX) | 3:13 |
 
-Snapshot ID: `MTYxOTgwMzc4NywwMDAwMDAwMGY2YzAwNjVhMzJmYzA0NDA4ZWUyY2RmMjNlMTIxMTk2`
+Snapshot ID: `MTYxOTgwMzc4NywwMDAwMDAwMDQyZWUzZGFhN2QyMTcxZjE3OWNlODdjYTA3MDMxZmM1`

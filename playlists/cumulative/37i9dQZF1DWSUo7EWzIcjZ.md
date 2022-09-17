@@ -4,7 +4,7 @@
 
 > ¡Merengue de los 80 y 90! Portada: Johnny Ventura
 
-317 songs - 23 hr 27 min - [published](https://open.spotify.com/playlist/183mhwZXE4Kk3Wza9Sli0B)
+318 songs - 23 hr 32 min - [published](https://open.spotify.com/playlist/183mhwZXE4Kk3Wza9Sli0B)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [A Usted Lo Botan](https://open.spotify.com/track/3QAIfuTqnJ1UiEq2TJHLqG) | [Pochy Y Su Cocoband](https://open.spotify.com/artist/5AWKC0rd625VHM69d7X2tu) | [El Arrollador](https://open.spotify.com/album/2JWLAvJiDRdUJfrr2Xhfju) | 4:17 | 2021-02-02 |  |
 | [Abusadora](https://open.spotify.com/track/5mCvkhkAvwNnUsIt2PN9Al) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Serie 2000](https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m) | 4:09 | 2021-02-02 | 2022-09-13 |
 | [Adolescente](https://open.spotify.com/track/5KqK2s5ZYMLFFNXjJSNgCc) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [20 Aniversario, Vol\. 2](https://open.spotify.com/album/02KQw70TLIeWFvInj3h4Ac) | 4:24 | 2021-02-02 | 2022-07-29 |
-| [Adolescente Tu](https://open.spotify.com/track/4SYDVdaVe7JoGP9eh1wewN) | [Monchy Capricho](https://open.spotify.com/artist/0R8lrNHlo9m4xovk3wbBua) | [Ineditos](https://open.spotify.com/album/4KgURbQPHQi1qOn2tY9Ra1) | 4:54 | 2021-02-02 |  |
+| [Adolescente Tu](https://open.spotify.com/track/4SYDVdaVe7JoGP9eh1wewN) | [Monchy Capricho](https://open.spotify.com/artist/0R8lrNHlo9m4xovk3wbBua) | [Ineditos](https://open.spotify.com/album/4KgURbQPHQi1qOn2tY9Ra1) | 4:54 | 2021-02-02 | 2022-09-17 |
 | [Alegria](https://open.spotify.com/track/51VCeHkyRAaY8wUbsU66Ix) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Lo Mejor De...Toño Rosario](https://open.spotify.com/album/475agtJk3uN4dSg38QKx5t) | 5:22 | 2021-02-02 | 2022-07-29 |
 | [Alza Tu Copa](https://open.spotify.com/track/1ut8r7VkR4KxauGzNHOLd5) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [Exitos Inolvidables de Benny Sadel](https://open.spotify.com/album/0Hefxkwhqkvx6Q61hzZkmM) | 3:40 | 2021-02-02 | 2022-07-29 |
 | [Amaneciendo](https://open.spotify.com/track/3mxl5Y9skPEFKdnQWYcmOF) | [Fernando Villalona](https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu) | [El Gran Mayimbe](https://open.spotify.com/album/3YcXVczErplYfnXgiNNCjg) | 4:14 | 2021-02-02 |  |
@@ -159,7 +159,8 @@
 | [La Travesia](https://open.spotify.com/track/7BL1WTerk9Upwd5Xj4LGLi) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [La Llave De Mi Corazon](https://open.spotify.com/album/1xdl8xYY54gDXuTVhOxNSc) | 3:25 | 2021-02-02 |  |
 | [La Varita](https://open.spotify.com/track/39wIxFjHfiqYqTyRhJZaZR) | [Aramis Camilo](https://open.spotify.com/artist/2uXrtZz6GmQnXEJR1eh97C) | [La Organizacion Secreta](https://open.spotify.com/album/1oX3sKhJkR1nkV6hjLz1AJ) | 4:09 | 2021-02-02 | 2022-07-26 |
 | [La Varita](https://open.spotify.com/track/2zp5lkyP0FPbCOxBdiYT4h) | [Aramis Camilo](https://open.spotify.com/artist/2uXrtZz6GmQnXEJR1eh97C) | [Merengues Limpio](https://open.spotify.com/album/771HsH0BQNvh1S8iYiX1Ss) | 4:10 | 2021-02-02 |  |
-| [La Ventanita](https://open.spotify.com/track/6VjR5nMX70LuBpfMMo2tTU) | [Mickey Taveras](https://open.spotify.com/artist/1iVpMZKqpnZWfCXO2vIozm) | [Vamos a Darlo Todo](https://open.spotify.com/album/3BgDMBLh8A0ckMRhIVY6nW) | 4:44 | 2021-02-02 |  |
+| [La Ventanita](https://open.spotify.com/track/6VjR5nMX70LuBpfMMo2tTU) | [Mickey Taveras](https://open.spotify.com/artist/1iVpMZKqpnZWfCXO2vIozm) | [Vamos a Darlo Todo](https://open.spotify.com/album/3BgDMBLh8A0ckMRhIVY6nW) | 4:44 | 2021-02-02 | 2022-09-17 |
+| [La Ventanita](https://open.spotify.com/track/323yKu4gsmbZQsFADHYZxA) | [Mickey Taveras](https://open.spotify.com/artist/1iVpMZKqpnZWfCXO2vIozm) | [Latino! Grandes Éxitos \- Juan Luis Guerra / Karen Records](https://open.spotify.com/album/2zjk3XQqUgGB8Mh7pkcP49) | 4:44 | 2021-02-02 |  |
 | [La Ventanita](https://open.spotify.com/track/3jrbhJwKcWYgRPyNGXLhXz) | [Mickey Taveras](https://open.spotify.com/artist/1iVpMZKqpnZWfCXO2vIozm) | [Lucharé](https://open.spotify.com/album/6D1EQ3P1Rma06b68UPZCNe) | 4:44 | 2021-02-02 | 2022-09-03 |
 | [La Ventanita](https://open.spotify.com/track/7hhJ95zPooNzgSLVFRuzSp) | [Mickey Taveras](https://open.spotify.com/artist/1iVpMZKqpnZWfCXO2vIozm) | [16 Merengues de Oro](https://open.spotify.com/album/6XAKkXGOcBzBfvx7rmawRd) | 4:45 | 2021-02-02 | 2022-07-29 |
 | [La Ventanita](https://open.spotify.com/track/5CmVYFZinikaqh9Mf2J1Xl) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Grandes Exitos](https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN) | 4:46 | 2021-02-02 |  |
@@ -283,7 +284,7 @@
 | [Te He Prometido \- Original](https://open.spotify.com/track/0rjpsMXTngdK71MXIC9Bal) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [Exitos Inolvidables de Benny Sadel](https://open.spotify.com/album/0Hefxkwhqkvx6Q61hzZkmM) | 3:48 | 2021-02-02 | 2022-07-29 |
 | [Te Odio y Te Quiero](https://open.spotify.com/track/1a9bWvRtaqgErUasfIpjRZ) | [Rubby Pérez](https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx) | [Buscando Tus Besos](https://open.spotify.com/album/1Dt4NG0wlRXIgSBwzxaFb0) | 3:26 | 2021-02-02 |  |
 | [Te Odio y Te Quiero](https://open.spotify.com/track/3HFIedY9NGMoQ1AZHiQsft) | [Rubby Pérez](https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx) | [Con Mucho Swing](https://open.spotify.com/album/2ZvJyNrDflkpMlo02c4wSV) | 3:26 | 2021-02-02 | 2022-07-28 |
-| [Te Quiero](https://open.spotify.com/track/5Tk8DkD7gyfOaEkbd6DoRW) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [Los Toros Band..\. "Pa' La Calle"](https://open.spotify.com/album/6iXKTogNUFHBIkJcC2U7lO) | 3:54 | 2021-02-02 | 2022-09-15 |
+| [Te Quiero](https://open.spotify.com/track/5Tk8DkD7gyfOaEkbd6DoRW) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [Los Toros Band..\. "Pa' La Calle"](https://open.spotify.com/album/6iXKTogNUFHBIkJcC2U7lO) | 3:54 | 2021-02-02 |  |
 | [Te Seguire Queriendo](https://open.spotify.com/track/54ouu383uMbIMLOuMOecSf) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [Majao Majao](https://open.spotify.com/album/77Jccvo9WY5L7OXepwpDOo) | 4:59 | 2021-02-02 |  |
 | [Te Seguire Queriendo](https://open.spotify.com/track/4dyoXAd6lu1ng18Y8HAG7L) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [Majao, Majao](https://open.spotify.com/album/6nqYQngi8OjY7KzQxJwdbe) | 4:59 | 2021-02-02 | 2022-07-29 |
 | [Todo Aquello Que Escribí](https://open.spotify.com/track/44g3IuSUbFt0NmuFHZ9tJ0) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Los Años Dorados](https://open.spotify.com/album/3qvDNquco8SgclYBqUadWh) | 4:30 | 2021-02-02 | 2022-07-29 |

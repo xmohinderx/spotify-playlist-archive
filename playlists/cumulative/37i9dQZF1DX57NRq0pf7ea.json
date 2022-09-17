@@ -129,7 +129,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 177626,
       "name": "Aeropuerto",
       "url": "https://open.spotify.com/track/4v7riPZWyAclrOfUSwD0zp"
@@ -837,7 +837,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 169559,
       "name": "Canci\u00f3n Bonita",
       "url": "https://open.spotify.com/track/5iF33sXejXwfTuidVHMll0"
@@ -1057,7 +1057,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 236156,
       "name": "CXO (A Qui\u00e9n No Le Gusta)",
       "url": "https://open.spotify.com/track/5Oticg4aAjACVhbzqe6KDY"
@@ -1476,6 +1476,28 @@
     },
     {
       "album": {
+        "name": "El Pa\u00f1uelo",
+        "url": "https://open.spotify.com/album/6UHVdZCYgXo8xeSCw4RXp5"
+      },
+      "artists": [
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234706,
+      "name": "El Pa\u00f1uelo",
+      "url": "https://open.spotify.com/track/3c7H5RL3H6jFgDTbMxGBe9"
+    },
+    {
+      "album": {
         "name": "El Que Espera",
         "url": "https://open.spotify.com/album/1iouSXg5RihFIXRvZFJyTa"
       },
@@ -1521,6 +1543,28 @@
       "duration_ms": 177636,
       "name": "El Teke Teke",
       "url": "https://open.spotify.com/track/13N3Nd6nQMe5yDgo9wzUuV"
+    },
+    {
+      "album": {
+        "name": "El \u00daltimo Beso",
+        "url": "https://open.spotify.com/album/1humxYpKb5wRgIUqVdJmKg"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197647,
+      "name": "El \u00daltimo Beso",
+      "url": "https://open.spotify.com/track/1gYtMKmICjH8KQG3MheNJt"
     },
     {
       "album": {
@@ -1639,6 +1683,36 @@
       "duration_ms": 168520,
       "name": "Esta Noche",
       "url": "https://open.spotify.com/track/4vhkI8x68EaGQR3Kn7Pwhc"
+    },
+    {
+      "album": {
+        "name": "Est\u00e1 Claro (Remix Los Calder\u00f3n)",
+        "url": "https://open.spotify.com/album/69wVwIJC8dqyeRMV0cgphH"
+      },
+      "artists": [
+        {
+          "name": "Pipe Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/50TqpjP2iRI4hR1wCfVj3w"
+        },
+        {
+          "name": "Daniel Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/2O76CmUXGThMPPImBOnbUA"
+        },
+        {
+          "name": "Lunaty",
+          "url": "https://open.spotify.com/artist/1ioIJEt6VBdMiQxOTL8Bmv"
+        },
+        {
+          "name": "Edu Calderon",
+          "url": "https://open.spotify.com/artist/3wR2Mz2368i5xxDusXP7cH"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228666,
+      "name": "Est\u00e1 Claro - Remix Los Calder\u00f3n",
+      "url": "https://open.spotify.com/track/61mjJCpWmMIRGHWE5cwbgB"
     },
     {
       "album": {
@@ -1863,6 +1937,28 @@
       "duration_ms": 249520,
       "name": "Hola - Remix",
       "url": "https://open.spotify.com/track/5stPVcRqb4qixbafP9e8lt"
+    },
+    {
+      "album": {
+        "name": "Hung Up on Tokischa",
+        "url": "https://open.spotify.com/album/0lJ8KgNF2nzGoCv2yfrBxQ"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206315,
+      "name": "Hung Up on Tokischa",
+      "url": "https://open.spotify.com/track/3oJzE5dSRl51xxzLeih0sy"
     },
     {
       "album": {
@@ -2119,10 +2215,28 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 192286,
       "name": "La Chama",
       "url": "https://open.spotify.com/track/2nK8tfg8lRVrzy8IOr5O3Z"
+    },
+    {
+      "album": {
+        "name": "La Copa",
+        "url": "https://open.spotify.com/album/2PC6PCA91NxKDtuV63i0rF"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154628,
+      "name": "La Copa",
+      "url": "https://open.spotify.com/track/2gdBsRfuWGwJwe3X5XwZuI"
     },
     {
       "album": {
@@ -2661,7 +2775,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 221270,
       "name": "MAL DE AMOR",
       "url": "https://open.spotify.com/track/0j15NSe9m6egjzJXXn1QXQ"
@@ -3689,7 +3803,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 393280,
       "name": "Poblado - Remix",
       "url": "https://open.spotify.com/track/1WedZeiezCmCEOzLwhx0hV"
@@ -3753,6 +3867,46 @@
       "duration_ms": 250933,
       "name": "PRENDE OTRO",
       "url": "https://open.spotify.com/track/1PNNztcJlNIcThPBs9lKBi"
+    },
+    {
+      "album": {
+        "name": "PREND\u00cdA",
+        "url": "https://open.spotify.com/album/19CwkPD1Ap9F5WzaPAAzEO"
+      },
+      "artists": [
+        {
+          "name": "Jotaerre",
+          "url": "https://open.spotify.com/artist/1pEqLDmVTqmfwfywlwL7wL"
+        },
+        {
+          "name": "Corina Smith",
+          "url": "https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164957,
+      "name": "PREND\u00cdA",
+      "url": "https://open.spotify.com/track/5SQapEf7ZQMMxXa6Rvw7os"
+    },
+    {
+      "album": {
+        "name": "FELIZ CUMPLEA\u00d1OS FERXXO TE PIRATEAMOS EL \u00c1LBUM",
+        "url": "https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166253,
+      "name": "Prohibidox",
+      "url": "https://open.spotify.com/track/3PpWCS95gDUDRPko3u1MZ9"
     },
     {
       "album": {
@@ -4408,6 +4562,28 @@
     },
     {
       "album": {
+        "name": "Soltera",
+        "url": "https://open.spotify.com/album/1LpGk730HxND92t3AW8Jee"
+      },
+      "artists": [
+        {
+          "name": "Cali Y El Dandee",
+          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
+        },
+        {
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171400,
+      "name": "Soltera",
+      "url": "https://open.spotify.com/track/41ffIDkb10CvzGNBYXm498"
+    },
+    {
+      "album": {
         "name": "Somos Iguales",
         "url": "https://open.spotify.com/album/3Q9cZSRC2at6mZjfdOlVJ3"
       },
@@ -4582,6 +4758,28 @@
     },
     {
       "album": {
+        "name": "Te Perd\u00ed",
+        "url": "https://open.spotify.com/album/7kYuBysyq8f3BfcV3jJ7J7"
+      },
+      "artists": [
+        {
+          "name": "Andy Rivera",
+          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "Te Perd\u00ed",
+      "url": "https://open.spotify.com/track/3ODWjPcN2heqjInFGpH2KU"
+    },
+    {
+      "album": {
         "name": "Te Robar\u00e9",
         "url": "https://open.spotify.com/album/72oDgyFaTCOPpqA3fDwCmZ"
       },
@@ -4667,7 +4865,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 226120,
       "name": "Tiempo",
       "url": "https://open.spotify.com/track/79wZgmcWFMYPjV6Ty58t8b"
@@ -4911,7 +5109,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 285746,
       "name": "Un Viaje",
       "url": "https://open.spotify.com/track/3huLeBRjZPOzkePH7ph91y"
@@ -5039,7 +5237,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 187426,
       "name": "Vida de Rico",
       "url": "https://open.spotify.com/track/73nAK3HgQK8dak83Y2WQ8F"

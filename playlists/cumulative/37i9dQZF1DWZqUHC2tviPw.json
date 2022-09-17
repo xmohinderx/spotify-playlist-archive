@@ -484,6 +484,24 @@
     },
     {
       "album": {
+        "name": "Cloak and Dagger",
+        "url": "https://open.spotify.com/album/6RxO1WGSpFM6BdlbzYkkEb"
+      },
+      "artists": [
+        {
+          "name": "Ballpoint",
+          "url": "https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149370,
+      "name": "Cloak and Dagger",
+      "url": "https://open.spotify.com/track/1xUGxXkQk894LVQptxTMcq"
+    },
+    {
+      "album": {
         "name": "Club404",
         "url": "https://open.spotify.com/album/2U40p12v8l8eyiZ4fE4dDq"
       },
@@ -575,6 +593,24 @@
       "duration_ms": 137697,
       "name": "Criminal",
       "url": "https://open.spotify.com/track/76zhOrQn8dhBnyFTeteLaJ"
+    },
+    {
+      "album": {
+        "name": "danyyye / rowdy",
+        "url": "https://open.spotify.com/album/0Rtjj04prMwTFjlREiwKHH"
+      },
+      "artists": [
+        {
+          "name": "Lukas Got Lucky",
+          "url": "https://open.spotify.com/artist/1XlWDjMcmW7HVs9m5BjGDF"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164874,
+      "name": "danyyye",
+      "url": "https://open.spotify.com/track/5gJ9rmN0ix8XkyX7FhxTso"
     },
     {
       "album": {
@@ -1237,7 +1273,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 89244,
       "name": "Loading",
       "url": "https://open.spotify.com/track/3WVicQ4glIQr9TzyfzAe97"
@@ -1579,7 +1615,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 141207,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/1bFbRcEr176gytK7jpXZy3"
@@ -2031,6 +2067,28 @@
       "duration_ms": 166956,
       "name": "Scam",
       "url": "https://open.spotify.com/track/0UCx2yz0P5Am3tDEZMlaLR"
+    },
+    {
+      "album": {
+        "name": "Unfold",
+        "url": "https://open.spotify.com/album/3MWWoyTPwnuhND8LMOAyse"
+      },
+      "artists": [
+        {
+          "name": "IMANU",
+          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
+        },
+        {
+          "name": "DROELOE",
+          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141951,
+      "name": "Shoyu",
+      "url": "https://open.spotify.com/track/7ammiC4TKHgMXP8RnccYcA"
     },
     {
       "album": {
@@ -2511,7 +2569,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 106973,
       "name": "There",
       "url": "https://open.spotify.com/track/3QVT6KNsMdDK1FvHeSGRiC"
@@ -2857,7 +2915,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 243937,
       "name": "Wonderland",
       "url": "https://open.spotify.com/track/7IpMCQSwhwQOjb8cHr7ViV"

@@ -88,6 +88,24 @@
     },
     {
       "album": {
+        "name": "2 Mins of Pain",
+        "url": "https://open.spotify.com/album/43AaQNHNlJlf8F2iQkivyx"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136695,
+      "name": "2 Mins of Pain",
+      "url": "https://open.spotify.com/track/2NVXBBbO4xGO851zrMfCFi"
+    },
+    {
+      "album": {
         "name": "24",
         "url": "https://open.spotify.com/album/0A9OoTlDkyq72dcmrgctyw"
       },
@@ -3010,6 +3028,32 @@
     },
     {
       "album": {
+        "name": "Ghetto Superstar (feat. G Herbo & Doe Boy)",
+        "url": "https://open.spotify.com/album/2MTfZnikwjrMJ20QSomF5j"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Doe Boy",
+          "url": "https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244853,
+      "name": "Ghetto Superstar (feat. G Herbo & Doe Boy)",
+      "url": "https://open.spotify.com/track/5QdVpZhASstTN4BBwglPz6"
+    },
+    {
+      "album": {
         "name": "Gifted",
         "url": "https://open.spotify.com/album/17Lk80XEECR75E2A0AAWmu"
       },
@@ -3043,7 +3087,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 169010,
       "name": "Give Me A Sign",
       "url": "https://open.spotify.com/track/5jghmO5j7lvR10i0WrWZpg"
@@ -3097,7 +3141,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 139358,
       "name": "Go In",
       "url": "https://open.spotify.com/track/5zi3dnuyXnGbtVdfvBKrqL"
@@ -3177,6 +3221,28 @@
       "duration_ms": 114580,
       "name": "Golden Child",
       "url": "https://open.spotify.com/track/0SCbpbPIjHh90v4hsp8ohl"
+    },
+    {
+      "album": {
+        "name": "Good On Love (with Future)",
+        "url": "https://open.spotify.com/album/2yuC60EDQbXHoLEU6KwKoB"
+      },
+      "artists": [
+        {
+          "name": "Lil Double 0",
+          "url": "https://open.spotify.com/artist/4uKEP0JYfpFtngWlgViewd"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200958,
+      "name": "Good On Love (with Future)",
+      "url": "https://open.spotify.com/track/4aPjhAeHtS0eturdD1dk78"
     },
     {
       "album": {
@@ -3369,7 +3435,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 139265,
       "name": "Hell",
       "url": "https://open.spotify.com/track/5X79uZsOrtg2iolPYhqeUa"
@@ -3615,7 +3681,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 142657,
       "name": "HOTEL LOBBY (Unc & Phew)",
       "url": "https://open.spotify.com/track/0QNNd0qMCDbraS1nQPg3aA"
@@ -3695,7 +3761,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 191170,
       "name": "How It Go",
       "url": "https://open.spotify.com/track/6ib1c99Cryx0n13G88NAqZ"
@@ -3809,7 +3875,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 139370,
       "name": "I Ain\u2019t Gon Hold Ya",
       "url": "https://open.spotify.com/track/2jCQXY0zjBdSpp12egn0Wo"
@@ -4803,7 +4869,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 157354,
       "name": "Love Is Blind",
       "url": "https://open.spotify.com/track/0TaoUjbYZUEKK20zgy4bca"
@@ -4979,7 +5045,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 171200,
       "name": "Major League",
       "url": "https://open.spotify.com/track/75DBnjEjZ9c7mF6x9ZTKoe"
@@ -5027,6 +5093,24 @@
       "duration_ms": 159116,
       "name": "Make No Sense (feat. Babyface Ray)",
       "url": "https://open.spotify.com/track/53ysMUPpl1Sq6FwWy0GGtA"
+    },
+    {
+      "album": {
+        "name": "Master P",
+        "url": "https://open.spotify.com/album/0BOgBcsOtJJrEySOygBMt9"
+      },
+      "artists": [
+        {
+          "name": "Hotboy Wes",
+          "url": "https://open.spotify.com/artist/2Lgyk37aJufoDDSoU4S5nO"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109810,
+      "name": "Master P",
+      "url": "https://open.spotify.com/track/3k06dCqFtiwY1EY32LcS7r"
     },
     {
       "album": {
@@ -5552,6 +5636,28 @@
     },
     {
       "album": {
+        "name": "Never Change (feat. Roddy Ricch)",
+        "url": "https://open.spotify.com/album/04owA5C5mh4CyXzpHgFchJ"
+      },
+      "artists": [
+        {
+          "name": "Symba",
+          "url": "https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239073,
+      "name": "Never Change (feat. Roddy Ricch)",
+      "url": "https://open.spotify.com/track/5LMk48NX7yjNfN30PP4OQ6"
+    },
+    {
+      "album": {
         "name": "Never End Up Broke",
         "url": "https://open.spotify.com/album/540ZUOz3g4xw4mokGA0R4K"
       },
@@ -5979,6 +6085,24 @@
       "duration_ms": 165876,
       "name": "On God (feat. Gucci Mane & Cootie)",
       "url": "https://open.spotify.com/track/0wtZkvnQhOdsDx99OMyFuI"
+    },
+    {
+      "album": {
+        "name": "On My Mama",
+        "url": "https://open.spotify.com/album/06RJFLDhyqbZWchervXQU1"
+      },
+      "artists": [
+        {
+          "name": "BIG30",
+          "url": "https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165795,
+      "name": "On My Mama",
+      "url": "https://open.spotify.com/track/5uKaDwrqiCfXMGR2auRqG4"
     },
     {
       "album": {
@@ -6884,6 +7008,24 @@
     },
     {
       "album": {
+        "name": "Risk Takers",
+        "url": "https://open.spotify.com/album/4zcudfEaBMysM9hvHiLRN1"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141888,
+      "name": "Risk Takers",
+      "url": "https://open.spotify.com/track/6BJGlhrDS2mKteYz7o2bt6"
+    },
+    {
+      "album": {
         "name": "Robbery",
         "url": "https://open.spotify.com/album/5Fr4WRmEtwWsIxvexjotiy"
       },
@@ -6899,6 +7041,24 @@
       "duration_ms": 144630,
       "name": "Robbery",
       "url": "https://open.spotify.com/track/4fHwoYTU9sy539FSX7fv1j"
+    },
+    {
+      "album": {
+        "name": "Robbery Part 4",
+        "url": "https://open.spotify.com/album/6yd1SzofJJmS7mEGwkZRCM"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180344,
+      "name": "Robbery Part 4",
+      "url": "https://open.spotify.com/track/4CKAeNUTMTnvzpYGKZmQZa"
     },
     {
       "album": {
@@ -6921,7 +7081,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 178948,
       "name": "Rocky Road (with Kodak Black)",
       "url": "https://open.spotify.com/track/7quesdAv9sxXO0oUOApmIo"
@@ -7222,6 +7382,28 @@
     },
     {
       "album": {
+        "name": "Say Datt",
+        "url": "https://open.spotify.com/album/5pbbxNP5PcmG8lh0iZx0f0"
+      },
+      "artists": [
+        {
+          "name": "Fastmoney Ant",
+          "url": "https://open.spotify.com/artist/1r1AoJILFfEvsqNiG85zwL"
+        },
+        {
+          "name": "Lil Zay Osama",
+          "url": "https://open.spotify.com/artist/7rkcFChEJ9tCLcVevtu0Nt"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151227,
+      "name": "Say Datt",
+      "url": "https://open.spotify.com/track/14Rg3f4eF9LoVZObgxkKiP"
+    },
+    {
+      "album": {
         "name": "Scared Money",
         "url": "https://open.spotify.com/album/3TsYjPFN8qCxcYWHL3DtL8"
       },
@@ -7491,6 +7673,28 @@
       "duration_ms": 182533,
       "name": "She Know It",
       "url": "https://open.spotify.com/track/07L33zaQbYewmYsNSSOxtf"
+    },
+    {
+      "album": {
+        "name": "Shoot It Myself (feat. Future)",
+        "url": "https://open.spotify.com/album/0afoo6vjuoRwsWH60vsbwN"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187843,
+      "name": "Shoot It Myself (feat. Future)",
+      "url": "https://open.spotify.com/track/1PeDMQb4OIt2QBVvvXUd15"
     },
     {
       "album": {
@@ -8361,7 +8565,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 202666,
       "name": "Tell The Truth (with Shordie Shordie)",
       "url": "https://open.spotify.com/track/4Q5qDYtCM3W9IlU64OTRAh"
@@ -8467,6 +8671,28 @@
       "duration_ms": 194751,
       "name": "The One",
       "url": "https://open.spotify.com/track/42p3DhJW9tC9YRvMsSd8VT"
+    },
+    {
+      "album": {
+        "name": "I Never Felt Nun",
+        "url": "https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "Jeezy",
+          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195298,
+      "name": "The Realest (feat. Jeezy)",
+      "url": "https://open.spotify.com/track/4NMsGNHtpsNJVmKVCkKrnc"
     },
     {
       "album": {
@@ -8922,6 +9148,24 @@
     },
     {
       "album": {
+        "name": "Uncle Tommy",
+        "url": "https://open.spotify.com/album/1D1Cn0FPzUT1xaGuONoX7m"
+      },
+      "artists": [
+        {
+          "name": "BigWalkDog",
+          "url": "https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212650,
+      "name": "Uncle Tommy",
+      "url": "https://open.spotify.com/track/6BDANe68PkkUUbqa7CZDPC"
+    },
+    {
+      "album": {
         "name": "Up There",
         "url": "https://open.spotify.com/album/29hfwE0CF1DUhaXv6rbUih"
       },
@@ -9192,6 +9436,24 @@
     },
     {
       "album": {
+        "name": "Walk/Spin",
+        "url": "https://open.spotify.com/album/54x77I85ZNITP0wvN07CVT"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166039,
+      "name": "Walk",
+      "url": "https://open.spotify.com/track/3wspfG772mi1c25JpnNOVP"
+    },
+    {
+      "album": {
         "name": "Walk Em",
         "url": "https://open.spotify.com/album/5SAkuoaJVtQkzNCeA7EN8L"
       },
@@ -9265,7 +9527,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 149461,
       "name": "War Cries",
       "url": "https://open.spotify.com/track/5K04xQn30QaNp4WyT8DDic"
@@ -9405,7 +9667,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 129269,
       "name": "What It Is",
       "url": "https://open.spotify.com/track/7D4HOXBTsFfC8IJc6UfjsY"
@@ -9441,7 +9703,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 122624,
       "name": "What's Beef",
       "url": "https://open.spotify.com/track/3x9HWnPwhVCDHbfFCHqXZf"

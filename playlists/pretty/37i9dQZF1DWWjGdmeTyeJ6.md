@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Updates every Wednesday\. Cover: George Riley, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,105,902 likes - 49 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,105,846 likes - 49 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,6 +56,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 46 | [Your Favourite Dancer](https://open.spotify.com/track/5a1Um0n7VDkan2B9aQY97e) | [BOABOA](https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o), [Combat Casper](https://open.spotify.com/artist/4F5nr65YNenAEQ6vRQj1cC) | [Your Favourite Dancer](https://open.spotify.com/album/2zNIvcHxVvyQBFWdb7jC7h) | 2:53 |
 | 47 | [Skateboard](https://open.spotify.com/track/4Vg3peP6paF5ryINcenQlq) | [Safiyah Hernandez](https://open.spotify.com/artist/7lxy3cv38d6mcGj1gRqsgK) | [Skateboard](https://open.spotify.com/album/2BQOPucIyzNEgmSviMa5fn) | 2:44 |
 | 48 | [10/10](https://open.spotify.com/track/4oAK2KzG31bqlbJBpoP0kz) | [Booter](https://open.spotify.com/artist/6DMPeswHF4nj7s82hygDjq) | [10/10](https://open.spotify.com/album/7tg8e48iTJUhDBbyTpsADe) | 2:55 |
-| 49 | [SNOW](https://open.spotify.com/track/7MUKTjyG2zHN2tLaiTzBjf) | [FLY BOY JACK](https://open.spotify.com/artist/35GAPh9jdXm4l3KLXCBQFJ), [Jordan Dennis](https://open.spotify.com/artist/2iSbupdaMW303tk8tqdCv5), [JUJO](https://open.spotify.com/artist/6lUuCxT476utVj3g9IUaFF), [Dallas Woods](https://open.spotify.com/artist/7AlRsfXxw5GcXNob86rgnH) | [SNOW](https://open.spotify.com/album/6N1EWAyHaxsPxkVor08KSc) | 2:57 |
+| 49 | [SNOW](https://open.spotify.com/track/7MUKTjyG2zHN2tLaiTzBjf) | [FLY BOY JACK](https://open.spotify.com/artist/35GAPh9jdXm4l3KLXCBQFJ), [Jordan Dennis](https://open.spotify.com/artist/2iSbupdaMW303tk8tqdCv5), [Dallas Woods](https://open.spotify.com/artist/7AlRsfXxw5GcXNob86rgnH), [JUJO](https://open.spotify.com/artist/6lUuCxT476utVj3g9IUaFF) | [SNOW](https://open.spotify.com/album/6N1EWAyHaxsPxkVor08KSc) | 2:57 |
 
 Snapshot ID: `MTY2MzE3MjQ1NCwwMDAwMDAwMGI1NjAxNTViMDg1ZTc4OGE3ZTFjNGM0MjhhYmYwNWE0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsE9t090bJT.md) - [plain]
 
 > Amor a la mexicana, canciones para dedicarle al amor de tu vida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,078 likes - 117 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,103 likes - 117 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsE9t090bJT.md) - [plain]
 | 69 | [Amor Del Bueno](https://open.spotify.com/track/5ZyWRrIdTZx4TneEv0FklV) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Amor Del Bueno](https://open.spotify.com/album/2DU3xMuP9OOOzVNMgsTJ1h) | 3:13 |
 | 70 | [Cómo No Quererte](https://open.spotify.com/track/7kAIDORxyLYGjp6t3p4w1z) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Cómo No Quererte](https://open.spotify.com/album/5lmQBx2ASnM6YDHjcVwoCp) | 2:55 |
 | 71 | [Mi Amor](https://open.spotify.com/track/5Vt0uiNvaZNPCqeoDSTavW) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Lluvia Y Sol](https://open.spotify.com/album/7A2PTwonSaI9wGZj2Te7K8) | 3:36 |
-| 72 | [El Privilegio de Amar](https://open.spotify.com/track/05lhZ4XA7TVvRvgK7MSQKp) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [El Privilegio de Amar](https://open.spotify.com/album/6uAUmc8sBlagwyjSYAM58I) | 3:35 |
-| 73 | [Te Acostumbré A Mis Besos](https://open.spotify.com/track/3Zj6ZHiLwbKW1DvtcAf1sG) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Perfecta](https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm) | 2:39 |
+| 72 | [Te Acostumbré A Mis Besos](https://open.spotify.com/track/3Zj6ZHiLwbKW1DvtcAf1sG) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Perfecta](https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm) | 2:39 |
+| 73 | [El Privilegio de Amar](https://open.spotify.com/track/05lhZ4XA7TVvRvgK7MSQKp) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [El Privilegio de Amar](https://open.spotify.com/album/6uAUmc8sBlagwyjSYAM58I) | 3:35 |
 | 74 | [Dios No Se Equivoca](https://open.spotify.com/track/5tqQBihI3m9p8WHp58f8Pg) | [Luis Coronel](https://open.spotify.com/artist/5DlVR9AUTrBgXWN4wiy5aL) | [Dios No Se Equivoca](https://open.spotify.com/album/58qPlE33MUg9wk4INcEHC2) | 3:25 |
 | 75 | [Labios Rojos](https://open.spotify.com/track/5M28eAihmoCNseTTPF5IWO) | [LDNE](https://open.spotify.com/artist/5hkcGbdTv8nC62vVT7RJmZ) | [Labios Rojos](https://open.spotify.com/album/1ATbGzrsWcBOktM0CGYwEC) | 4:01 |
 | 76 | [Mi Chula](https://open.spotify.com/track/4hOXWazvMtaijxQYkbooNG) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [AYAYAY! \(Súper Deluxe\)](https://open.spotify.com/album/6aUbcanpJvwQqa7hs2mxoL) | 2:42 |
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsE9t090bJT.md) - [plain]
 | 116 | [Broche de Oro](https://open.spotify.com/track/1TLyjsg5KO501z8CBgxaHl) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [10+10](https://open.spotify.com/album/6v6mwOBX5lbL9XTPqKFivJ) | 3:34 |
 | 117 | [Ella Es Mi Mujer](https://open.spotify.com/track/3qUU5im2iV5eWOtkWz6ykQ) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Banda \#1's 2017](https://open.spotify.com/album/0MUo7KxW4ZkYt5pKETaAeO) | 2:43 |
 
-Snapshot ID: `MTY0NDYxMTA5NCwwMDAwMDAwMGQyNWM1MDAzM2NkY2NlMjA5YjExZDZhOWRmZGYyMjYx`
+Snapshot ID: `MTY0NDYxMTA5NCwwMDAwMDAwMDMyYTcxNGE5ZGMzYjBmOThlMWYyZjdmMmVlNDlkNWY2`

@@ -581,7 +581,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 303230,
       "name": "Besties - Remix",
       "url": "https://open.spotify.com/track/1ac7A5aXklR4RttUlaMRcI"
@@ -621,7 +621,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 193400,
       "name": "Bichotes Con Clase",
       "url": "https://open.spotify.com/track/6iOf4LH1POCgTQV3Goiguj"
@@ -785,7 +785,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 196849,
       "name": "Castigada",
       "url": "https://open.spotify.com/track/3j6Ad8n9AYj2YjMXvDkZOk"
@@ -1249,7 +1249,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 167994,
       "name": "Dol\u00eda (feat. Las Villa)",
       "url": "https://open.spotify.com/track/6tgn0I6tgzX9n38whF5Xc8"
@@ -1271,6 +1271,32 @@
       "duration_ms": 159218,
       "name": "Duelo",
       "url": "https://open.spotify.com/track/23fULt6bWn6VC58bKZQSVj"
+    },
+    {
+      "album": {
+        "name": "Dura",
+        "url": "https://open.spotify.com/album/3WX2grfkRPayqPlDGgAUms"
+      },
+      "artists": [
+        {
+          "name": "Jey G",
+          "url": "https://open.spotify.com/artist/3O5TMxEbadMK1xbBuK5kd4"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        },
+        {
+          "name": "Juanka",
+          "url": "https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238305,
+      "name": "Dura",
+      "url": "https://open.spotify.com/track/0QDc73zt34RicpTSQTohWl"
     },
     {
       "album": {
@@ -1678,6 +1704,28 @@
     },
     {
       "album": {
+        "name": "Fumando",
+        "url": "https://open.spotify.com/album/26gxlnGOcwQsUheyskEuMV"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203571,
+      "name": "Fumando",
+      "url": "https://open.spotify.com/track/7J02hWxvWMi026FUPXU4nq"
+    },
+    {
+      "album": {
         "name": "G&P3",
         "url": "https://open.spotify.com/album/4O2bbARYjOpydvQppaTSpQ"
       },
@@ -2036,6 +2084,28 @@
     },
     {
       "album": {
+        "name": "La Cruda",
+        "url": "https://open.spotify.com/album/366zUrsS9K3kjpJ6WMvg00"
+      },
+      "artists": [
+        {
+          "name": "ATL",
+          "url": "https://open.spotify.com/artist/7moaTmrKrxOnFYW07pMEpg"
+        },
+        {
+          "name": "Kapla y Miky",
+          "url": "https://open.spotify.com/artist/4dhKkIzf9LXogFL1NXfQc1"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240938,
+      "name": "La Cruda",
+      "url": "https://open.spotify.com/track/3ge38cOt8kMlf5n0ga1fxB"
+    },
+    {
+      "album": {
         "name": "MICRODOSIS",
         "url": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC"
       },
@@ -2103,10 +2173,28 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 162286,
       "name": "LALALA",
       "url": "https://open.spotify.com/track/0vjqOn8iw1jQygL4KK2JCu"
+    },
+    {
+      "album": {
+        "name": "Las Cartas",
+        "url": "https://open.spotify.com/album/7fctld92LQsFJrmqliUMYu"
+      },
+      "artists": [
+        {
+          "name": "Kamm",
+          "url": "https://open.spotify.com/artist/1TedHsnAVELVd0b5N8nbFh"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212456,
+      "name": "Las Cartas",
+      "url": "https://open.spotify.com/track/1pOa85FwiJcbwyYTQFAZUM"
     },
     {
       "album": {
@@ -3194,6 +3282,28 @@
     },
     {
       "album": {
+        "name": "Party en el Barrio (feat. Duki)",
+        "url": "https://open.spotify.com/album/2alxO71ik8lO8YIuNT2LKn"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236143,
+      "name": "Party en el Barrio (feat. Duki)",
+      "url": "https://open.spotify.com/track/5GF0X7GdNmnouKcdhhRmtm"
+    },
+    {
+      "album": {
         "name": "Pasajero",
         "url": "https://open.spotify.com/album/6Pg8TU5UxCuINCTWTZbmZa"
       },
@@ -3243,6 +3353,32 @@
       "duration_ms": 199760,
       "name": "Paz y Bendiciones",
       "url": "https://open.spotify.com/track/1l13Q1jtQzKiMtn5cBoyIa"
+    },
+    {
+      "album": {
+        "name": "Perfect",
+        "url": "https://open.spotify.com/album/46aful2GWny0ItyMEkXz3F"
+      },
+      "artists": [
+        {
+          "name": "lil joujou",
+          "url": "https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F"
+        },
+        {
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+        },
+        {
+          "name": "Moffa",
+          "url": "https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221123,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/0tOWRZCnNe1ZYxHT8MnbhP"
     },
     {
       "album": {
@@ -3301,10 +3437,32 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 182400,
       "name": "Piensas En Mi",
       "url": "https://open.spotify.com/track/4aZXV9vBzJlwAd54GGZdGY"
+    },
+    {
+      "album": {
+        "name": "Pi\u00f1a",
+        "url": "https://open.spotify.com/album/13THScuZXfrxk3jyDmpoZG"
+      },
+      "artists": [
+        {
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+        },
+        {
+          "name": "Lauren Jauregui",
+          "url": "https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144691,
+      "name": "Pi\u00f1a",
+      "url": "https://open.spotify.com/track/27WpmDE56W905AhSoaNIkx"
     },
     {
       "album": {
@@ -3393,6 +3551,24 @@
       "duration_ms": 250933,
       "name": "PRENDE OTRO",
       "url": "https://open.spotify.com/track/1PNNztcJlNIcThPBs9lKBi"
+    },
+    {
+      "album": {
+        "name": "FELIZ CUMPLEA\u00d1OS FERXXO TE PIRATEAMOS EL \u00c1LBUM",
+        "url": "https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166253,
+      "name": "Prohibidox",
+      "url": "https://open.spotify.com/track/3PpWCS95gDUDRPko3u1MZ9"
     },
     {
       "album": {
@@ -4053,7 +4229,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 151076,
       "name": "SUSANA",
       "url": "https://open.spotify.com/track/7EnZaT7BlPSRORrWdmAaIS"
@@ -4403,7 +4579,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 163541,
       "name": "Uh Huh",
       "url": "https://open.spotify.com/track/7L5xzfKz9Lich6YoaDTTfX"

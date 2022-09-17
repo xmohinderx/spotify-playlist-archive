@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEZt3tTR001.md) - [plain]
 
 > Lay back\. Chill out.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,855 likes - 70 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,969 likes - 70 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEZt3tTR001.md) - [plain]
 | 32 | [Fortunate](https://open.spotify.com/track/2RtvkLz5tmOXlzz918It6E) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Fortunate](https://open.spotify.com/album/59f5YlSvsyT1Wa5Df1277H) | 5:01 |
 | 33 | [Sending My Love](https://open.spotify.com/track/7f5dRZ6W2Si4SoPLQxNHbm) | [Zhané](https://open.spotify.com/artist/6cjSmkVvMvyE6tCAo1M9Is) | [Pronounced Jah\-Nay](https://open.spotify.com/album/4Rj3sxQFk2chQQqfad4siz) | 3:40 |
 | 34 | [Get to You Again](https://open.spotify.com/track/5pNiAcguRrBdYf5V0QXdir) | [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL) | [Something to Feel](https://open.spotify.com/album/02dq5KH5htRQNedTyplLu8) | 4:27 |
-| 35 | [Send It On](https://open.spotify.com/track/5LIwaG8Wl9LfExcmiRQm7J) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Voodoo](https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8) | 5:56 |
-| 36 | [Fallen](https://open.spotify.com/track/75pAfYEpRXZf7GVORGhOgz) | [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF) | [Moodring](https://open.spotify.com/album/2syvgyDNiIraR35ncupC0H) | 3:34 |
+| 35 | [Fallen](https://open.spotify.com/track/75pAfYEpRXZf7GVORGhOgz) | [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF) | [Moodring](https://open.spotify.com/album/2syvgyDNiIraR35ncupC0H) | 3:34 |
+| 36 | [Send It On](https://open.spotify.com/track/5LIwaG8Wl9LfExcmiRQm7J) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Voodoo](https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8) | 5:56 |
 | 37 | [For Real](https://open.spotify.com/track/0sxEHZ8WEPPTWGFXYBdB3O) | [Amel Larrieux](https://open.spotify.com/artist/4hVcxmC7igpot32EzQf7IR) | [Bravebird](https://open.spotify.com/album/4ifJLmQAJIUsAPmm6pnxJw) | 3:46 |
 | 38 | [Distance](https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Distance](https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC) | 4:15 |
 | 39 | [He Loves Me \(Lyzel in E Flat\)](https://open.spotify.com/track/2PzYqACbv12FNhrlHPfJEH) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Who Is Jill Scott? \- Words and Sounds, Vol\. 1](https://open.spotify.com/album/620y2xi6SkUb6IZlnnWxuG) | 4:45 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEZt3tTR001.md) - [plain]
 | 50 | [Alright](https://open.spotify.com/track/1wRQqmZwiF4thdQ8N7FiNv) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [Lost And Found](https://open.spotify.com/album/0CMYJkOIYIZjo6wCJtlZNq) | 4:37 |
 | 51 | [Livid](https://open.spotify.com/track/6cYqxLD2d6zdNXIJU3CAbR) | [ELIZA](https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8) | [A Real Romantic](https://open.spotify.com/album/19ircUdNQ6aoqelvZJf2vC) | 4:29 |
 | 52 | [Read My Mind](https://open.spotify.com/track/18yYhT8fTVjFK9IBPiows6) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Lianne La Havas](https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV) | 4:48 |
-| 53 | [SULA \(Paperback\)](https://open.spotify.com/track/1RwK5al4DKxgHQ234mKbwB) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [SULA \(Paperback\)](https://open.spotify.com/album/54gPc2awVOFQyZjJi6dB3s) | 4:15 |
-| 54 | [Fool of Me](https://open.spotify.com/track/3Fw7pl6UpksTfmYcXLbvx3) | [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [Bitter](https://open.spotify.com/album/3acZy0MqbDAet78jYKYOyR) | 3:32 |
+| 53 | [Fool of Me](https://open.spotify.com/track/3Fw7pl6UpksTfmYcXLbvx3) | [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [Bitter](https://open.spotify.com/album/3acZy0MqbDAet78jYKYOyR) | 3:32 |
+| 54 | [SULA \(Paperback\)](https://open.spotify.com/track/1RwK5al4DKxgHQ234mKbwB) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [SULA \(Paperback\)](https://open.spotify.com/album/54gPc2awVOFQyZjJi6dB3s) | 4:15 |
 | 55 | [Keep Your Head Up](https://open.spotify.com/track/7LKeX6HZw7lSSlaLRGMWWY) | [Khi Infinite](https://open.spotify.com/artist/6wthNkb9tOcsMdNtrHI5vs) | [Keep Your Head Up](https://open.spotify.com/album/5iigwSrb7BkMa9Flopzkr8) | 2:43 |
 | 56 | [So Good](https://open.spotify.com/track/6IitCjxg3AQvuQEdN3gzl6) | [Davina](https://open.spotify.com/artist/13gLWDdUjHWnK0XWn3gZMP) | [Best Of Both Worlds](https://open.spotify.com/album/7xapjTJctomHjCQI8bNSXP) | 4:34 |
 | 57 | [If](https://open.spotify.com/track/2tOvXXicPq04q6Pk28O47m) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Destiny Fulfilled](https://open.spotify.com/album/0b6ivSFfDs38MG7aLn9rvO) | 4:15 |
@@ -70,13 +70,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEZt3tTR001.md) - [plain]
 | 60 | [Only With Time \- A COLORS SHOW](https://open.spotify.com/track/17fEBNv11IqWe4O9592GvU) | [Adria Kain](https://open.spotify.com/artist/2egizXtrbzmhjs0SgViG8y) | [Only With Time \- A COLORS SHOW](https://open.spotify.com/album/2m68gpBt70o4bo4NJxkl78) | 5:04 |
 | 61 | [Backinluv](https://open.spotify.com/track/0k3WtyxIG1Hvv5nn6BwhfX) | [Clairmont The Second](https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7) | [Full Circle](https://open.spotify.com/album/61T2bvjnhjUEmucspVNvtE) | 4:30 |
 | 62 | [Still Wonder](https://open.spotify.com/track/48Ni2LTyeTjTzWBD69q9Dm) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [Still Wonder](https://open.spotify.com/album/2UUBiQAfkxgPcMGBbfy5zi) | 3:58 |
-| 63 | [Jill Scott \(feat\. Jill Scott\)](https://open.spotify.com/track/7ajm1QlAaMFkNFlpZbcceL) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 4:05 |
-| 64 | [Lullaby \(feat\. Syd\)](https://open.spotify.com/track/56cPHHY51YpcD4OwU42GS3) | [Amaal](https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Milly](https://open.spotify.com/album/0ybPRt9okiivYSRzyyv1Yd) | 2:31 |
-| 65 | [Movies](https://open.spotify.com/track/7lBETHInBVdFrKhC9J24H0) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Ashanti](https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X) | 4:09 |
+| 63 | [Movies](https://open.spotify.com/track/7lBETHInBVdFrKhC9J24H0) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Ashanti](https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X) | 4:09 |
+| 64 | [Jill Scott \(feat\. Jill Scott\)](https://open.spotify.com/track/7ajm1QlAaMFkNFlpZbcceL) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 4:05 |
+| 65 | [Lullaby \(feat\. Syd\)](https://open.spotify.com/track/56cPHHY51YpcD4OwU42GS3) | [Amaal](https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Milly](https://open.spotify.com/album/0ybPRt9okiivYSRzyyv1Yd) | 2:31 |
 | 66 | [Lay](https://open.spotify.com/track/3lKPcUIf29EDNES4vCYxmb) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/5qJ0CnwfIUUgcKFdrjRP6v) | 3:31 |
 | 67 | [Distant Lady](https://open.spotify.com/track/61mkzcrrV7CfpggUuCNMib) | [Adriana Evans](https://open.spotify.com/artist/6sCf6HW9zBhLN64XC8tRdv) | [Lost and Found](https://open.spotify.com/album/7Je3fpcl3IE4Labowc1y8S) | 4:58 |
 | 68 | [GIFTED](https://open.spotify.com/track/6jCvpNfDksF9ociFet0nE3) | [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [sounds of so\(u\)litude](https://open.spotify.com/album/6AWmEQFkIdkoQGaJkDCQj9) | 4:30 |
 | 69 | [Love In Full Bloom](https://open.spotify.com/track/4LCxUSGC5gg291GXE0CUwL) | [Karla Felecia Scaife](https://open.spotify.com/artist/10cEgWO5EK436JaZkGQUKj) | [Love in Full Bloom](https://open.spotify.com/album/4cEfTkaA9FcgZOuyjVkiZG) | 3:51 |
 | 70 | [elephant in the room](https://open.spotify.com/track/1N3br7Nh0Dz80SjntIRDIG) | [untradition](https://open.spotify.com/artist/14iZPa9FB6NBz4t5mR0oFe) | [elephant in the room](https://open.spotify.com/album/1PK3LYFEFFBEq7SiqqF39y) | 3:19 |
 
-Snapshot ID: `MTY2MTQ3OTc1MywwMDAwMDAwMDJiN2JlMzFlYTg1YjcwYjE0NWZjMTUxZWUxYWZjNTQy`
+Snapshot ID: `MTY2MTQ3OTc1MywwMDAwMDAwMDZjMWNkNmM4NWZjYmNlMDhhZWI1NDJmMjg3N2RkZGUy`

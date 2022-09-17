@@ -4,7 +4,7 @@
 
 > Euphoric drum & bass tracks for raving in the sunshine!
 
-76 songs - 5 hr 13 min - not published yet
+76 songs - 5 hr 13 min - [published](https://open.spotify.com/playlist/2GeJYMZ5IxReZIlK4ofYil)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

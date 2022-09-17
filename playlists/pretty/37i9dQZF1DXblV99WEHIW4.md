@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblV99WEHIW4.md) - [plain]
 
 > Heavy music that understands.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,825 likes - 80 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,058 likes - 80 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblV99WEHIW4.md) - [plain]
 | 63 | [Anthem](https://open.spotify.com/track/23Z6JttaqkoqxqbAWArFqO) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu), [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Seize the Power](https://open.spotify.com/album/2QgPGKzoN51qcEzGlHYk7j) | 3:48 |
 | 64 | [Toothpick](https://open.spotify.com/track/6mJcgp0qBS1sGqgYsOIpvr) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [Skinny Dipping](https://open.spotify.com/album/5SsU0tZD4YMXJZqHzUsd0F) | 3:35 |
 | 65 | [And All That Could Have Been](https://open.spotify.com/track/5UMsIIsvwkuIK3AeV7WhAW) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [Still](https://open.spotify.com/album/15lT31vL53ez4CQ41t26aK) | 6:14 |
-| 66 | [Anxiety](https://open.spotify.com/track/0nSo7AFdw4vrz7nPGKMOWr) | [Frank Carter & The Rattlesnakes](https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc) | [End of Suffering](https://open.spotify.com/album/1KS8HJ4sPoHFnryujTqXIf) | 3:38 |
-| 67 | [Your Love \(Has Ruined My Life\)](https://open.spotify.com/track/10JEOrrLhzEGQm1HgFnrpN) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU) | [Holding Absence](https://open.spotify.com/album/6xEQWs9XbaJBGAy4Jv7piM) | 4:27 |
+| 66 | [Your Love \(Has Ruined My Life\)](https://open.spotify.com/track/10JEOrrLhzEGQm1HgFnrpN) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU) | [Holding Absence](https://open.spotify.com/album/6xEQWs9XbaJBGAy4Jv7piM) | 4:27 |
+| 67 | [Anxiety](https://open.spotify.com/track/0nSo7AFdw4vrz7nPGKMOWr) | [Frank Carter & The Rattlesnakes](https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc) | [End of Suffering](https://open.spotify.com/album/1KS8HJ4sPoHFnryujTqXIf) | 3:38 |
 | 68 | [Whatever Lets You Cope](https://open.spotify.com/track/1GlQsidelzGk9ljW0DQH4n) | [Black Foxxes](https://open.spotify.com/artist/0rkzatSSd1Dh41phOf4qFT) | [I'm Not Well](https://open.spotify.com/album/39GHKYD9zdoF78P1Ms0xgB) | 3:56 |
 | 69 | [Ripple Water Shine](https://open.spotify.com/track/7rPpErLCzp22gTrEmx4XYb) | [Pianos Become The Teeth](https://open.spotify.com/artist/5gbwngeG3dwS4ARmtgud9C) | [Keep You](https://open.spotify.com/album/6FIG1qaWuCW4SiY2EtLJE7) | 3:29 |
 | 70 | [Pretender](https://open.spotify.com/track/2KG2YRCeF0aIuTErlZkF2j) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [XOXO: From Love & Anxiety In Real Time](https://open.spotify.com/album/0XFA5pfYjdDx6tnPLEaeDz) | 3:05 |
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblV99WEHIW4.md) - [plain]
 | 73 | [Everyone Else Is Just Noise](https://open.spotify.com/track/3Hf8aGNAN6WGshVEUjIZek) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [All The Truth That I Can Tell](https://open.spotify.com/album/1kzA5gBC9bgVLBENxgBAWr) | 3:13 |
 | 74 | [I'm Sorry](https://open.spotify.com/track/1krv4gCltfB9nF1iWzAaLC) | [VUKOVI](https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt) | [Fall Better](https://open.spotify.com/album/75caqQ4HQYSxr9Ke6tFrUD) | 3:35 |
 | 75 | [Bad At Love](https://open.spotify.com/track/3MwjVy96d2KNl99nrFPxmh) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [Bad At Love](https://open.spotify.com/album/0nPFXbRDNvRH0297jTqgTh) | 3:22 |
-| 76 | [Come Down](https://open.spotify.com/track/2UfhoAL6KofiiqDVFLub1W) | [The Dangerous Summer](https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj) | [All That Is Left of the Blue Sky](https://open.spotify.com/album/2uqJYiKPfh8bECEnZ7nYkw) | 3:24 |
-| 77 | [Perish](https://open.spotify.com/track/2SsrRygE0VPkjFrtcV4PL8) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU) | [Holding Absence](https://open.spotify.com/album/6xEQWs9XbaJBGAy4Jv7piM) | 5:28 |
+| 76 | [Perish](https://open.spotify.com/track/2SsrRygE0VPkjFrtcV4PL8) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU) | [Holding Absence](https://open.spotify.com/album/6xEQWs9XbaJBGAy4Jv7piM) | 5:28 |
+| 77 | [Come Down](https://open.spotify.com/track/2UfhoAL6KofiiqDVFLub1W) | [The Dangerous Summer](https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj) | [All That Is Left of the Blue Sky](https://open.spotify.com/album/2uqJYiKPfh8bECEnZ7nYkw) | 3:24 |
 | 78 | [I Heard That You Died](https://open.spotify.com/track/1oZSmPhctg5pEDUrvC1Kpw) | [Secret Keeper](https://open.spotify.com/artist/1PTWE7Ai94DpmZGoZ3I7RA) | [Losing Sleep](https://open.spotify.com/album/46RGSr1CHy2jWrnxt5LFgA) | 3:01 |
-| 79 | [Graduating Life](https://open.spotify.com/track/18mzsMdTswjVIzQ0U06Yqa) | [Mom Jeans.](https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h) | [Graduating Life](https://open.spotify.com/album/7G2sRHP0Xd28Dx4OKjBkqg) | 2:40 |
-| 80 | [Background Sad](https://open.spotify.com/track/3QgcFagmjAErgUjXXZldZc) | [Icon For Hire](https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7) | [Amorphous](https://open.spotify.com/album/5my61AdRA8g0oBJjVDXcwB) | 3:31 |
+| 79 | [Background Sad](https://open.spotify.com/track/3QgcFagmjAErgUjXXZldZc) | [Icon For Hire](https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7) | [Amorphous](https://open.spotify.com/album/5my61AdRA8g0oBJjVDXcwB) | 3:31 |
+| 80 | [Graduating Life](https://open.spotify.com/track/18mzsMdTswjVIzQ0U06Yqa) | [Mom Jeans.](https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h) | [Graduating Life](https://open.spotify.com/album/7G2sRHP0Xd28Dx4OKjBkqg) | 2:40 |
 
-Snapshot ID: `MTY2MTQ2ODQwMCwwMDAwMDAwMGEyOTE5ZjdkNjQzOGVjMDExNzhiZDg4MjhmYmZhMTM1`
+Snapshot ID: `MTY2MTQ2ODQwMCwwMDAwMDAwMDExZTNiYWQ3ZjlhZjdjMmYyZTFhZjkwM2JkMTE4MjI4`

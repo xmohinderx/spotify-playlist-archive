@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZv6UE8BMPO0.md) - [plain]
 
 > Instrumental Christmas favorites to set the perfect mood for your swinging cocktail party this holiday season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,999 likes - 68 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,993 likes - 67 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZv6UE8BMPO0.md) - [plain]
 | 64 | [I'll Be Home for Christmas](https://open.spotify.com/track/6dEz0rAh85G3fsTIUcEU0o) | [Reese Quartet](https://open.spotify.com/artist/715TpfLaAurJfQk8CjhKsm) | [I'll Be Home for Christmas](https://open.spotify.com/album/1DOc7OmsfnU8rGsy5peQK8) | 3:02 |
 | 65 | [Baby It's Cold Outside](https://open.spotify.com/track/6J0FoTuu2z24FutBRLfwmb) | [Kingsley Thomas](https://open.spotify.com/artist/754IxKxKlDAQO5YATUAd6t) | [My Favourite Time of Year](https://open.spotify.com/album/5erwrkAgvvtsofeB64etXw) | 2:14 |
 | 66 | [Good “Swing” Wenceslas](https://open.spotify.com/track/1aeVPzsWRiLbZEcn9SSEfb) | [Count Basie Orchestra](https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe) | [A Very Swingin’ Basie Christmas!](https://open.spotify.com/album/2YeKSxPeuQYiml0g6pzn7S) | 3:33 |
-| 67 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/1QtANQCg5sUog4R0fBCToN) | [The Jazzagogs](https://open.spotify.com/artist/7pFWPdj7yTUGqLUCoIOHjF) | [Jazzy Christmas](https://open.spotify.com/album/6tb3VXCdGgjreH2uUrWoOU) | 2:27 |
-| 68 | [Frosty the snowman](https://open.spotify.com/track/1TT5txDzWtg7OF8BhS1lWa) | [Gillian Spencer Trio](https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM) | [Here Comes Santa Claus](https://open.spotify.com/album/3KANZfLdfrcTDDYaIKWstX) | 2:09 |
+| 67 | [Frosty the snowman](https://open.spotify.com/track/1TT5txDzWtg7OF8BhS1lWa) | [Gillian Spencer Trio](https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM) | [Here Comes Santa Claus](https://open.spotify.com/album/3KANZfLdfrcTDDYaIKWstX) | 2:09 |
 
-Snapshot ID: `MTY0MDA5MDg4NCwwMDAwMDAwMDkzY2IzZGYxMmY0OWQ5ZjIwYWFlZTBmYTg4ZDFiZjJk`
+Snapshot ID: `MTY2MzMzNTIxNywwMDAwMDAwMGNkOTAzZTFiNzRhNTRkOGUwMWJhZTFiMzc4N2QxN2Qw`

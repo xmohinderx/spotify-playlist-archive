@@ -434,6 +434,24 @@
     },
     {
       "album": {
+        "name": "MOSQUITO",
+        "url": "https://open.spotify.com/album/4Kn8Km3RZWAM7LfK3bfrKK"
+      },
+      "artists": [
+        {
+          "name": "LYZZA",
+          "url": "https://open.spotify.com/artist/57xaBKepmdqQ6BjXkiHa4B"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206750,
+      "name": "Blush Me Out!",
+      "url": "https://open.spotify.com/track/7At2LwoalVOj9MY9GH1EST"
+    },
+    {
+      "album": {
         "name": "Boing Beat (VTSS Remix)",
         "url": "https://open.spotify.com/album/3zEjavmRXcTecpqk6TCAa5"
       },
@@ -1221,7 +1239,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 229342,
       "name": "Grotto",
       "url": "https://open.spotify.com/track/7AzuzLx3KbomYpBbed83Fx"
@@ -1541,7 +1559,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 241999,
       "name": "JUNGLE TEKNAH",
       "url": "https://open.spotify.com/track/68TFG76EGGL6WZ5NlSu0fo"

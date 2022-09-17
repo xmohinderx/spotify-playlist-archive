@@ -4,7 +4,7 @@
 
 > Country music making waves\. Cover: Tanner Adell
 
-102 songs - 5 hr 20 min - [published](https://open.spotify.com/playlist/2oo6Fd5OoiJz8X71tS41jA)
+103 songs - 5 hr 22 min - [published](https://open.spotify.com/playlist/2oo6Fd5OoiJz8X71tS41jA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Take Me As I Am](https://open.spotify.com/track/6SDwDQ6p0pBs6W00qt3Zix) | [Chuck Adams](https://open.spotify.com/artist/6GLO5F72p0eTCcumR6Ac5a) | [Take Me As I Am](https://open.spotify.com/album/78WF3uDO2YnUTar5ujTsDO) | 3:40 | 2021-12-03 |  |
 | [Tall Boy](https://open.spotify.com/track/74g98VNWX3HclMI3JfazVn) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Tall Boy](https://open.spotify.com/album/3xiSzk0ObgjDyMpr7SUY4w) | 2:20 | 2021-12-03 |  |
 | [Tell Me Twice](https://open.spotify.com/track/68fFVpUfXAoREXKumXM4jp) | [Rodell Duff](https://open.spotify.com/artist/4JMY9dX6C0SYxm1YEGAEky) | [Tell Me Twice](https://open.spotify.com/album/0sC1yKrihueJ1Uh4XoDVGa) | 2:34 | 2022-07-29 |  |
+| [Tequila Money](https://open.spotify.com/track/1wZkPgmHtAiSAeo6dymYC6) | [Zinn](https://open.spotify.com/artist/5mGMpDd5gyYAXp9Goofy6D) | [Tequila Money](https://open.spotify.com/album/6IE2KcXgRn1q1QNMWXLdoK) | 2:19 | 2022-09-16 |  |
 | [The Flame](https://open.spotify.com/track/7l1qHh19nKzU49MRCyG3Yp) | [Camille Parker](https://open.spotify.com/artist/3u1V5YbyG4zthBujlpdFE5) | [The Flame](https://open.spotify.com/album/6Sw8xNbH0mApwadnpyyCFA) | 2:45 | 2021-12-03 |  |
 | [The Road](https://open.spotify.com/track/6IsIpPApmefLa6dfop4xYX) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [The Road](https://open.spotify.com/album/4wXPYoDHriG75HyGDPtXiq) | 4:28 | 2021-12-03 |  |
 | [Throw It Back \(feat\. Keith Urban\)](https://open.spotify.com/track/4BLiRJdtn8jwUVtvbHIv2T) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Throw It Back \(feat\. Keith Urban\)](https://open.spotify.com/album/56rScV2lFznLUGxqYYwUpo) | 3:08 | 2021-12-03 |  |

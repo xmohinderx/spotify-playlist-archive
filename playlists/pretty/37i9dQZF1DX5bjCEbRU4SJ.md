@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bjCEbRU4SJ.md) - [plain]
 
 > Calm Down with this chilled out playlist\. For when it's time to just sit and bask in the afterglow.
 
-[Spotify](https://open.spotify.com/user/spotify) - 562,321 likes - 70 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 562,323 likes - 70 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bjCEbRU4SJ.md) - [plain]
 | 45 | [Swing Lo Magellan](https://open.spotify.com/track/2JtL0a3NHcGkFQ7kfDLKUT) | [Dirty Projectors](https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF) | [Swing Lo Magellan](https://open.spotify.com/album/5zQgu9qi6mK8KuleuzM22C) | 2:37 |
 | 46 | [Lucky Now](https://open.spotify.com/track/1xLiOXTkAetjRqmPQwELn4) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Ashes & Fire](https://open.spotify.com/album/6embeY4aFzhjb25UbR8RU6) | 2:52 |
 | 47 | [Goin' Home](https://open.spotify.com/track/5eeaUZWzQXpBlbkiq4pm5l) | [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Keep It Hid](https://open.spotify.com/album/2KQn93GMsH7IoOvQ0Hlqzx) | 4:53 |
-| 48 | [There Can Be Only One](https://open.spotify.com/track/6mbbXTBC7ADcjh5RCNrooU) | [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Big Wheel and Others](https://open.spotify.com/album/56KG63TFrh23oy9lcqPEnt) | 4:17 |
-| 49 | [Wave of Mutilation \- UK Surf](https://open.spotify.com/track/3UDa3HRIwS4scBYom5K0zl) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Doolittle 25: B\-Sides, Peel Sessions And Demos](https://open.spotify.com/album/65X4N0kyi2BEk2YR0ndoAz) | 3:00 |
+| 48 | [Wave of Mutilation \- UK Surf](https://open.spotify.com/track/3UDa3HRIwS4scBYom5K0zl) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Doolittle 25: B\-Sides, Peel Sessions And Demos](https://open.spotify.com/album/65X4N0kyi2BEk2YR0ndoAz) | 3:00 |
+| 49 | [There Can Be Only One](https://open.spotify.com/track/6mbbXTBC7ADcjh5RCNrooU) | [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Big Wheel and Others](https://open.spotify.com/album/56KG63TFrh23oy9lcqPEnt) | 4:17 |
 | 50 | [50 Ways to Leave Your Lover](https://open.spotify.com/track/7bdDULyOUqNyWu6XPeAnSO) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [The Essential Paul Simon](https://open.spotify.com/album/4kdOH3s9cRL9YykvHFpSlD) | 3:28 |
 | 51 | [Something About Your Love](https://open.spotify.com/track/1ZVaf194CeE7eBItAVEUCj) | [Mason Jennings](https://open.spotify.com/artist/6CQrZZn0g2ZNfIcXbi4pdo) | [In The Ever](https://open.spotify.com/album/1yb3U8bjeyWWhpZBP3eka2) | 4:30 |
 | 52 | [Too Many Birds](https://open.spotify.com/track/7ydapdmQ4oivP54X29q7Af) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Sometimes I Wish We Were An Eagle](https://open.spotify.com/album/4bKHXqEVmt32YU7u51GIHB) | 5:27 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bjCEbRU4SJ.md) - [plain]
 | 69 | [When the Day Comes](https://open.spotify.com/track/1KXwXf9Cr9tixpqXWBMcMu) | [Eric Krasno](https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k) | [Blood from a Stone](https://open.spotify.com/album/2OMMQdI71h7sWqkhis2ZkT) | 4:26 |
 | 70 | [I Don't Recall](https://open.spotify.com/track/1BlvDzR1MwebVS7f5uw5dw) | [Lavender Diamond](https://open.spotify.com/artist/2Z1N9zMrbKe6emt3mhc6Kw) | [Incorruptible Heart](https://open.spotify.com/album/6hsjNIJ0QJJvUzMjzU4TGa) | 3:00 |
 
-Snapshot ID: `MTU0NDU2NDk1MSwwMDAwMDAwMDU5MjVlYmNhMjIwMGJmMDI1NjgyNzE3YTIyMTZmNDA1`
+Snapshot ID: `MTU0NDU2NDk1MSwwMDAwMDAwMDNmMmJmNDVmODZhZjNlNDMxYTFjY2UxODE3NGQ0ZmNj`

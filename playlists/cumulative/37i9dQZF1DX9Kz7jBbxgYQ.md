@@ -4,7 +4,7 @@
 
 > Home to the best of South Asian Indie scene\. Cover: Mitraz
 
-112 songs - 6 hr 22 min - [published](https://open.spotify.com/playlist/3EgngKMIU7QCN4I9Kyv7gp)
+114 songs - 6 hr 29 min - [published](https://open.spotify.com/playlist/3EgngKMIU7QCN4I9Kyv7gp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Lage Nahi Man](https://open.spotify.com/track/6sdird6R3Bl7KXbCXpnPVy) | [Vismay Patel](https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs) | [Lage Nahi Man](https://open.spotify.com/album/1EKU9Nm6UNHQJg8F46agRR) | 3:11 | 2022-05-20 |  |
 | [Makhmal](https://open.spotify.com/track/46qCjuV2ydLZNdGxf2PSWB) | [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT), [Priyanshu Soni](https://open.spotify.com/artist/6MB9eP64yx5KQ12VLrXo6p), [BLUK](https://open.spotify.com/artist/5VwEh2dfVTTVtQ0Q3C1e4r) | [Makhmal](https://open.spotify.com/album/1vyIwvbXKGfu9AoLNg6WGx) | 3:17 | 2022-09-01 |  |
 | [Maybe?](https://open.spotify.com/track/6snNUMOI96RDQ54NsTInt7) | [Alemam Elghandour](https://open.spotify.com/artist/3HAn0ZaBosAui4f1jggyLi), [Alistair Alvin](https://open.spotify.com/artist/6oVcou7NADA31wfWBtZchF) | [Maybe?](https://open.spotify.com/album/6xKqQRNxkMdUSU3UXixtUI) | 2:34 | 2022-05-20 |  |
+| [Mazaak](https://open.spotify.com/track/6BvRzfqi3sMAoQYnRpMVL0) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Mazaak](https://open.spotify.com/album/4Z5Z0qWzKvTgv7XRnodjNU) | 3:32 | 2022-09-16 |  |
 | [Moho](https://open.spotify.com/track/6Y2lrjXwW8YcCU5H4xMFBs) | [Aftermath](https://open.spotify.com/artist/79iOqoOkavfzftyQjx21qp) | [Moho](https://open.spotify.com/album/39HxuHhewQJHpv2EOSYA8K) | 4:25 | 2022-05-20 | 2022-09-02 |
 | [Muskan](https://open.spotify.com/track/16ZcfVSuCcBDdlpvmEIA1i) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Muskan](https://open.spotify.com/album/3NLZpWHd23xx5YYveGbNlv) | 3:18 | 2022-09-01 |  |
 | [nazar/surma](https://open.spotify.com/track/7LgOVDbOr2xAKrBwuEwGDw) | [Rutaba Yaqub](https://open.spotify.com/artist/1jA3YcX1zKWTaWL7wp3PqI), [Abhilasha Sinha](https://open.spotify.com/artist/3FJ13syehmla1ybPZYHYHW) | [nazar/surma](https://open.spotify.com/album/0zlUqmSdwGkEvp1KlITSbz) | 3:30 | 2022-09-01 |  |
@@ -88,6 +89,7 @@
 | [Right Wali Payal](https://open.spotify.com/track/0y8lqslrswqgJgDKNxd8zo) | [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw), [Saiwariya](https://open.spotify.com/artist/34Bsd6kohYGNWw1zvqkVd5) | [Right Wali Payal](https://open.spotify.com/album/3dOjLj8aNk6XbdR1Sfv5Va) | 2:10 | 2022-09-01 |  |
 | [Rung](https://open.spotify.com/track/5qlsGohL4JSjYFYnCsljHM) | [Shamoon Ismail](https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv) | [Juice](https://open.spotify.com/album/1QdyFfjSQ891yMVk1GMNQw) | 3:03 | 2022-05-20 | 2022-07-16 |
 | [Saacha Sahib](https://open.spotify.com/track/17aNTNL5QuHmomXRTeUpVN) | [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ) | [Saacha Sahib](https://open.spotify.com/album/4OuOdarOPimks7xemmkcPI) | 3:36 | 2022-05-20 |  |
+| [Saawan](https://open.spotify.com/track/7udmtuYHCGp0ImJAncUj1q) | [Bombay Bandook](https://open.spotify.com/artist/3VkYRrfqoEIhBfcHTvdYGs) | [Saawan](https://open.spotify.com/album/0OBagpEC0U7iCLzITGnlAu) | 3:51 | 2022-09-16 |  |
 | [Saaye](https://open.spotify.com/track/40H5kKnRnnzf31N5UiECJL) | [Turhan James](https://open.spotify.com/artist/2ox32lGyYOobDvszKTITkP), [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY) | [Saaye](https://open.spotify.com/album/0J3TKBNNYzrev70LxTKziX) | 3:32 | 2022-05-20 |  |
 | [Sathi](https://open.spotify.com/track/3QCL4FJOSqLrFDJmcdNSbA) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb), [Nucleya](https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh) | [Baaraat](https://open.spotify.com/album/5tJNl2p7wNTuRBvikWFHSn) | 3:36 | 2022-05-20 | 2022-07-16 |
 | [SHAAM](https://open.spotify.com/track/1OuwL8fpUKV1TIVaA6hbJh) | [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS), [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY), [Towers](https://open.spotify.com/artist/3RtQy4G1wwfnhyegf4czBO), [Mujju](https://open.spotify.com/artist/2SfEGrMv3AQ7D6WhY62BIm) | [SHAAM](https://open.spotify.com/album/77mickx6ctnKNGiANxDpZR) | 3:28 | 2022-07-15 | 2022-09-02 |

@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Muse
 
-321 songs - 19 hr 23 min - [published](https://open.spotify.com/playlist/658IZO2NGtKPsTaXlLP4qD)
+324 songs - 19 hr 33 min - [published](https://open.spotify.com/playlist/658IZO2NGtKPsTaXlLP4qD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [ANNIVERSARY](https://open.spotify.com/track/6w4goTlu5ciLeHNntz20La) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [ANNIVERSARY](https://open.spotify.com/album/13YgViqUuxtL0S9CqjESPb) | 5:18 | 2021-09-04 |  |
 | [Another Day](https://open.spotify.com/track/1oL7QVcoAHnd4Rvitio50R) | [Great Gable](https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1) | [Another Day](https://open.spotify.com/album/4j5574AD9v7rryYhe2bdZL) | 4:02 | 2021-12-02 |  |
 | [Arsehole \(feat\. Georgia Maq\)](https://open.spotify.com/track/2rslqIWVYP3oChamtWzQmU) | [Ben Lee](https://open.spotify.com/artist/06y1hH4hu3rcTUXHJevPCf), [Georgia Maq](https://open.spotify.com/artist/5NeumLAB759fhEZ61o2Bed) | [Arsehole \(feat\. Georgia Maq\)](https://open.spotify.com/album/6zGRsxXibSElH6fZTLcqCC) | 4:28 | 2022-08-05 |  |
+| [Asphalt Meadows](https://open.spotify.com/track/7xjbn0bhs7zx7E1s0lCqT3) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Asphalt Meadows](https://open.spotify.com/album/2PIWPTOIxbaVSjTnc30vXS) | 4:05 | 2022-09-16 |  |
 | [BACK2YOU \(feat\. blackbear\)](https://open.spotify.com/track/0Ih5m31aOTcaTL4PnvGgYS) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [BLOODLUST](https://open.spotify.com/album/78LoEWcpdvgRImtnfTZe0q) | 2:32 | 2020-10-10\* | 2021-02-25 |
 | [Banks](https://open.spotify.com/track/4zQVafVtpPQMVfe96ES3CS) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Banks](https://open.spotify.com/album/506L9syhCW4JNuMHjwtZ5D) | 4:00 | 2020-10-10\* | 2022-03-18 |
 | [Beautiful James](https://open.spotify.com/track/1ntKR7JwE12hKJNjupLzhG) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Beautiful James](https://open.spotify.com/album/6JCSXagVYDarxrUZ18dw6b) | 4:08 | 2021-09-18 |  |
@@ -101,6 +102,7 @@
 | [Father of All...](https://open.spotify.com/track/4r59yc67nric1MZQ2igkhx) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Father of All...](https://open.spotify.com/album/33eDyKXqDYRHeu8cq8ToRl) | 2:31 | 2020-10-10\* | 2021-02-25 |
 | [Feel The Fire](https://open.spotify.com/track/17gyIfLbs9nWLtvgiXVswT) | [Shihad](https://open.spotify.com/artist/3HmMT81W29LjSKNjl1Iy1s) | [Feel The Fire](https://open.spotify.com/album/1oHDmvOwjMoFT7VbG3zavN) | 4:07 | 2021-08-26 |  |
 | [Fire, Ready, Aim](https://open.spotify.com/track/3I8Ri6tLa4QA11MMdZywtM) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Father of All...](https://open.spotify.com/album/1xIgeQeVlMe5fcAVpRjkaP) | 1:52 | 2020-10-10\* | 2021-05-13 |
+| [Flash Burns From Flashbacks](https://open.spotify.com/track/1SjA9fHunPkoeTgYMM4XnU) | [The Mars Volta](https://open.spotify.com/artist/75U40yZLLPglFgXbDVnmVs) | [The Mars Volta](https://open.spotify.com/album/6teekrqj0fRPceftGFToBR) | 2:38 | 2022-09-16 |  |
 | [Flowers](https://open.spotify.com/track/7asY5GsK5NqAVh3Ux7ZkKG) | [Mazy](https://open.spotify.com/artist/4WMADzlMfGO7djHGfBAIKU) | [Flowers](https://open.spotify.com/album/4FXXzYJ9t5xVfwxslPUIWd) | 4:17 | 2021-09-17 |  |
 | [For the Love of Money](https://open.spotify.com/track/5jH6P7e6RUGZnFGTeq3pUe) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Dropout Boogie](https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk) | 3:31 | 2022-05-13 |  |
 | [Forever](https://open.spotify.com/track/1H5cXvRnzHb6gl2RUwrHmg) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [Everyone Loves You… Once You Leave Them](https://open.spotify.com/album/0e4UoB6RvG4UyAnsyuKD4m) | 3:10 | 2020-10-10\* | 2021-05-13 |
@@ -263,6 +265,7 @@
 | [Something](https://open.spotify.com/track/4o34BmBdtT3m0DhckS40xe) | [Moaning Lisa](https://open.spotify.com/artist/1WXcSHJO5BPd3oxAfsUDQo) | [Something](https://open.spotify.com/album/2OXDMYzwQ5T1UwgL2SGvsO) | 3:20 | 2021-03-26 | 2022-03-18 |
 | [Sonny](https://open.spotify.com/track/5IlJpc7LFVNfuuyefZ8wmp) | [Bad//Dreems](https://open.spotify.com/artist/54f24706ua34STMhWSzPV7) | [Doomsday Ballet](https://open.spotify.com/album/1RZFQ4A26BjFKM95xd2Dik) | 3:26 | 2020-10-10\* | 2021-02-25 |
 | [Space](https://open.spotify.com/track/20wnO4hGXbWvIPDEmED8gM) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [A Celebration Of Endings](https://open.spotify.com/album/5yAXUpsKaby5IcXgzrNFAw) | 3:55 | 2020-10-10\* | 2022-03-18 |
+| [Speak For Myself](https://open.spotify.com/track/60CmL8TwFXT2nQNNZQbVRa) | [TOWNS](https://open.spotify.com/artist/7zcfwEODRWt0H3XIneO9ZK) | [Speak For Myself](https://open.spotify.com/album/6qAWZdcR2sGsgWn0tNrV4D) | 3:17 | 2022-09-16 |  |
 | [St\. Anger](https://open.spotify.com/track/5JAnXx5BBES4FEf4d4t4CC) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [St\. Anger](https://open.spotify.com/album/0HKpzK9ZoJ0oVA43E5gewM) | 7:21 | 2020-10-10\* | 2021-02-25 |
 | [St\. Girlfriend](https://open.spotify.com/track/1nsjfntUpfBk7m11PENErT) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [St\. Girlfriend](https://open.spotify.com/album/6FwxID3XuZpc31zcqDQm5w) | 2:27 | 2022-07-04 |  |
 | [Strangers](https://open.spotify.com/track/07wX6N12kg4zZ2gI8IrB1y) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Strangers / History of Violence](https://open.spotify.com/album/0cQzfaeCuMomU3OfhzPEW7) | 3:25 | 2020-10-10\* | 2021-02-25 |

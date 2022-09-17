@@ -182,6 +182,24 @@
     },
     {
       "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/1qJNRLLa5s0hhFzRXQYgLF"
+      },
+      "artists": [
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158362,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/4QAGZ4ikVFkvEGIXzNFEae"
+    },
+    {
+      "album": {
         "name": "Already Dead",
         "url": "https://open.spotify.com/album/2aTGgm64NP8b7rVpnp8Lil"
       },
@@ -413,6 +431,28 @@
       "duration_ms": 177733,
       "name": "Baby",
       "url": "https://open.spotify.com/track/3pudQCMnsFGwOElTZmuml8"
+    },
+    {
+      "album": {
+        "name": "I Never Felt Nun",
+        "url": "https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158431,
+      "name": "Backstage Passes (feat. Jack Harlow)",
+      "url": "https://open.spotify.com/track/2BSl2gSFHdzJAMus74qzNj"
     },
     {
       "album": {
@@ -1077,7 +1117,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 197680,
       "name": "Callin' (feat. Big K.R.I.T. & WESTSIDE BOOGIE)",
       "url": "https://open.spotify.com/track/3zQwqYVqMOOGddjx1eQsDs"
@@ -1535,7 +1575,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 122141,
       "name": "Demon (feat. Coi Leray)",
       "url": "https://open.spotify.com/track/3QB87iPcNT3pNOSqDGQUHG"
@@ -3698,6 +3738,28 @@
     },
     {
       "album": {
+        "name": "Love In The Way",
+        "url": "https://open.spotify.com/album/4sc3Nc9o5sCni7SCPsKE4t"
+      },
+      "artists": [
+        {
+          "name": "BLEU",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221534,
+      "name": "Love In The Way",
+      "url": "https://open.spotify.com/track/3fWchdm3NfLb4licNeIhV7"
+    },
+    {
+      "album": {
         "name": "Love is\u2026",
         "url": "https://open.spotify.com/album/44RXQpK6HvYlqO6EtQydpg"
       },
@@ -4554,6 +4616,32 @@
     },
     {
       "album": {
+        "name": "Demons Protected By Angels",
+        "url": "https://open.spotify.com/album/29NWnawJBetVB3lOM9Sbp6"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189320,
+      "name": "One Time (with Don Toliver feat. Future)",
+      "url": "https://open.spotify.com/track/0WA4APfzK7Y1pdzhvyhSwD"
+    },
+    {
+      "album": {
         "name": "Only Us (feat. Babyface Ray)",
         "url": "https://open.spotify.com/album/70JVltVkQblqp2cuoCfeMV"
       },
@@ -4569,7 +4657,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 204200,
       "name": "Only Us (feat. Babyface Ray)",
       "url": "https://open.spotify.com/track/2ui0S7VkIT47mTGLlioGsw"
@@ -4657,7 +4745,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 184523,
       "name": "OT (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/1GDmorBhnsYZYUU04LiFEm"
@@ -5359,7 +5447,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 153687,
       "name": "ROSE STREET",
       "url": "https://open.spotify.com/track/3phALNKWigFCXEhIHOkHrP"
@@ -5411,6 +5499,54 @@
       "duration_ms": 232425,
       "name": "Running Wild (Tumblr Girls 2) (feat. Kossisko)",
       "url": "https://open.spotify.com/track/6FLPcyjV2JfdqtdT5z4Vv9"
+    },
+    {
+      "album": {
+        "name": "I Never Felt Nun",
+        "url": "https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167843,
+      "name": "Sabotage (feat. Bryson Tiller)",
+      "url": "https://open.spotify.com/track/4V9WY0U4tsvH2va1kwG2XQ"
+    },
+    {
+      "album": {
+        "name": "Sailor On The Moon (feat. IDK & KayCyy)",
+        "url": "https://open.spotify.com/album/35lqamVUzvMaT91dR2q36f"
+      },
+      "artists": [
+        {
+          "name": "Masked Wolf",
+          "url": "https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd"
+        },
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        },
+        {
+          "name": "KayCyy",
+          "url": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193243,
+      "name": "Sailor On The Moon (feat. IDK & KayCyy)",
+      "url": "https://open.spotify.com/track/0O4wHincVaptKiV2Rv7LhC"
     },
     {
       "album": {
@@ -5828,6 +5964,28 @@
     },
     {
       "album": {
+        "name": "Results Take Time",
+        "url": "https://open.spotify.com/album/4pbph4ZWAanvsHlqztlFU9"
+      },
+      "artists": [
+        {
+          "name": "Symba",
+          "url": "https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay"
+        },
+        {
+          "name": "Rayven Tyler",
+          "url": "https://open.spotify.com/artist/0lZfnMJMLQOWO5JcpFD9Df"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196007,
+      "name": "Soul Ties (feat. Rayven Tyler)",
+      "url": "https://open.spotify.com/track/68rrVlsa9vbcruNfda9pZO"
+    },
+    {
+      "album": {
         "name": "Standards",
         "url": "https://open.spotify.com/album/77CuQ0NcdI8FfqPnGPlvDt"
       },
@@ -6029,7 +6187,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 206250,
       "name": "Sunshine (feat. Lil Wayne & Childish Gambino)",
       "url": "https://open.spotify.com/track/3Lf16tRdqj4H7MBtCSztDS"
@@ -6047,10 +6205,48 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 170977,
       "name": "Super Freaky Girl",
       "url": "https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp"
+    },
+    {
+      "album": {
+        "name": "Super Freaky Girl (Queen Mix)",
+        "url": "https://open.spotify.com/album/0kTHpgQCab29IVUdUIVtI6"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "JT",
+          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Katie Got Bandz",
+          "url": "https://open.spotify.com/artist/48ObYO3GM7R76nRcfyvnM9"
+        },
+        {
+          "name": "Akbar V",
+          "url": "https://open.spotify.com/artist/74PEUb9Hxn7dY8jjgnQvSw"
+        },
+        {
+          "name": "Maliibu Miitch",
+          "url": "https://open.spotify.com/artist/5J1JcdYCPj44YKz6kVA5wx"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234899,
+      "name": "Super Freaky Girl (with JT & BIA feat. Katie Got Bandz, Akbar V & Maliibu Mitch) - Queen Mix",
+      "url": "https://open.spotify.com/track/4dFKEyGrwmIimMqwYleFOR"
     },
     {
       "album": {
@@ -6185,7 +6381,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 135733,
       "name": "The One (Sprite Limelight)",
       "url": "https://open.spotify.com/track/22Xi8off2rIqT1kwTZXKPW"
@@ -6319,7 +6515,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 213288,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/557DLyFeg06jCV2cpT005C"
@@ -6625,6 +6821,24 @@
       "duration_ms": 186234,
       "name": "Wait Too Long (feat. Blxst)",
       "url": "https://open.spotify.com/track/01GWSxT4tc8oCQDteIvLwM"
+    },
+    {
+      "album": {
+        "name": "Walk/Spin",
+        "url": "https://open.spotify.com/album/54x77I85ZNITP0wvN07CVT"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151637,
+      "name": "Walk/Spin",
+      "url": "https://open.spotify.com/track/3F0RMjxSY9YeH8p5SylbyF"
     },
     {
       "album": {

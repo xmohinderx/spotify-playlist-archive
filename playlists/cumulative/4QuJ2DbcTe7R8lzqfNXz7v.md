@@ -4,7 +4,7 @@
 
 > The top 100 best love songs of this moment\. Dream away with the best love songs of right now\. ❤️
 
-101 songs - 6 hr 6 min - [published](https://open.spotify.com/playlist/3sXYtLAZqw93tiWySpmNk2)
+102 songs - 6 hr 9 min - [published](https://open.spotify.com/playlist/3sXYtLAZqw93tiWySpmNk2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Falling](https://open.spotify.com/track/1ZMiCix7XSAbfAJlEZWMCp) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 4:00 | 2022-05-27 |  |
 | [Falling](https://open.spotify.com/track/11og0v4Hbo7tLjsdRsuFfI) | [OSKI](https://open.spotify.com/artist/3qfXX3w7HSnE4QfJlicEvJ) | [Falling](https://open.spotify.com/album/76OZFnXEws6RouFp8kRysv) | 3:11 | 2022-05-27 |  |
 | [Falling Like The Stars](https://open.spotify.com/track/15xWRPHQMeqgdkGzInx3PY) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Falling Like The Stars](https://open.spotify.com/album/6Vd7ZTFfhrtPuiQIqEN8XU) | 3:32 | 2022-05-27 |  |
-| [fools \(can't help falling in love\) \(feat\. Sody\)](https://open.spotify.com/track/4VEEDnEFLI9dUy5QA51rom) | [Foster](https://open.spotify.com/artist/6vCIRD06VaQwwaZS0TqiCz), [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt), [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [fools \(can't help falling in love\) \(feat\. Sody\)](https://open.spotify.com/album/4mNmrwxha3NNfEyciju5wc) | 2:45 | 2022-05-27 |  |
+| [fools \(can't help falling in love\) \(feat\. Sody\)](https://open.spotify.com/track/4VEEDnEFLI9dUy5QA51rom) | [Foster](https://open.spotify.com/artist/6vCIRD06VaQwwaZS0TqiCz), [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt), [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [fools \(can't help falling in love\) \(feat\. Sody\)](https://open.spotify.com/album/4mNmrwxha3NNfEyciju5wc) | 2:45 | 2022-05-27 | 2022-09-17 |
 | [For Tonight](https://open.spotify.com/track/61Emqg95O9zo1GNOcyxq4Y) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [For Tonight](https://open.spotify.com/album/5cAd6WOG1zVNQ2KDCOLtuf) | 3:13 | 2022-05-27 |  |
 | [Get You The Moon \(feat\. Snøw\)](https://open.spotify.com/track/4ZLzoOkj0MPWrTLvooIuaa) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [Snøw](https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP) | [Get You The Moon \(feat\. Snøw\)](https://open.spotify.com/album/5LZSpPoBVBsh6kRSEKfPQ8) | 2:59 | 2022-05-27 |  |
 | [Good Without](https://open.spotify.com/track/15OCqNPYoLziEAsbVnqRj5) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Good Without](https://open.spotify.com/album/1TushXSMlKucNp0KziSAU4) | 3:02 | 2022-05-27 |  |
@@ -97,6 +97,7 @@
 | [Steam](https://open.spotify.com/track/0JhOWLV0il0wcoyOr2kaCx) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Gold\-Diggers Sound](https://open.spotify.com/album/6pKaUDUnQiZgWLPZJqwkzn) | 3:23 | 2022-05-27 |  |
 | [Sugar Rush](https://open.spotify.com/track/4wQK8XVsSWd8pcZx6oAUCv) | [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Sugar Rush](https://open.spotify.com/album/48FeeWZYoqdTKdqVpLQ28b) | 3:06 | 2022-05-27 |  |
 | [Talk](https://open.spotify.com/track/0rTV5WefWd1J3OwIheTzxM) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Talk](https://open.spotify.com/album/58kvvQvx6OtLqEDhqYSzyM) | 3:17 | 2022-05-27 |  |
+| [Thank God](https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Katelyn Brown](https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB) | [Different Man](https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1) | 2:54 | 2022-09-16 |  |
 | [Thank You](https://open.spotify.com/track/3yUcJwYu7fXAfqMj9krY6l) | [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [No Angel](https://open.spotify.com/album/7ydMeYrv8bFFRkkHepoJM4) | 3:38 | 2022-05-27 |  |
 | [that way](https://open.spotify.com/track/7l97ElWmIdVHWUaOeeU5ZC) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [all the things i never said](https://open.spotify.com/album/1fK6nUQDMeIciyfhAADix8) | 2:55 | 2022-05-27 |  |
 | [The Man Who Can't Be Moved](https://open.spotify.com/track/3nqqDo8CcCLke3ZoTgiOKf) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Script](https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO) | 4:01 | 2022-05-27 |  |

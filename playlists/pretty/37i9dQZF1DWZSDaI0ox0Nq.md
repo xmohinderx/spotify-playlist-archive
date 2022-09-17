@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSDaI0ox0Nq.md) - [plain]
 
 > Mujeres que escriben la historia del Tango\. Foto: Julieta Laso.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,837 likes - 55 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,844 likes - 55 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,12 +33,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSDaI0ox0Nq.md) - [plain]
 | 23 | [Milonga Sentimental](https://open.spotify.com/track/1uJeHbIPeOKGfEEJujJkP7) | [Mercedes Simone](https://open.spotify.com/artist/3MqKTtxz6LzNrRJugeYh8W) | [Presentando a Mercedes Simone](https://open.spotify.com/album/6HNgJ8dZflujytFtS4TUm3) | 2:38 |
 | 24 | [Por una Cabeza](https://open.spotify.com/track/0qVDC2Swbbs7VrgZu3fe6P) | [Adriana Varela](https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc) | [Adriana Varela y Piano](https://open.spotify.com/album/7yndjj9dS2GfQzQQiZzWpv) | 3:13 |
 | 25 | [Pipistrela](https://open.spotify.com/track/6MZlsIdezdAiBwrZrxweNd) | [Tita Merello](https://open.spotify.com/artist/7r4Bb7uhP2AhJ4qlRp2vgP), [Francisco Canaro Y Su Orquesta Tipica](https://open.spotify.com/artist/66vYcFTYX0PoYsOOURFaGf) | [Serie De Oro](https://open.spotify.com/album/7Id8NVwwWDmiRjPEoRDObj) | 1:53 |
-| 26 | [Malena](https://open.spotify.com/track/24Reh2d2WR4lwweVsA1xxf) | [Susana Rinaldi](https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE), [Leopoldo Federico](https://open.spotify.com/artist/3RibY876FBPC7kuqm4YqzJ) | [Vos y yo](https://open.spotify.com/album/7I5aFjFeNdfqWyISjPI2sw) | 3:58 |
+| 26 | [En Ese Ayer/Ventarrón](https://open.spotify.com/track/6yzikW529P1w3mwxAoMC3H) | [Susana Rinaldi](https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE) | [En El Underground](https://open.spotify.com/album/6I123wp2nUkU8hiY0vzu7o) | 4:02 |
 | 27 | [La canción de Buenos Aires](https://open.spotify.com/track/4t2Ow4sdp8p8OVfpu2e1Ey) | [Azucena Maizani](https://open.spotify.com/artist/0B2RE6SzZ4QsCRkl1nMz1n), [Nelly Omar](https://open.spotify.com/artist/6IyGH3tMgXudiE41XE6Y8f), [Orestes Cufaro](https://open.spotify.com/artist/3WXc29391Id6Tmh37E7gdm) | [Vintage Argentine Tangos \(1928 \- 1954\), Vol\. 2](https://open.spotify.com/album/4anYze0tSqlzugbsDrbcAz) | 2:45 |
 | 28 | [Siempre Se Vuelve a Bs\. As.](https://open.spotify.com/track/3xjANYsJ2nMZBLr7T6lDcZ) | [Eladia Blazquez](https://open.spotify.com/artist/0lHsA4VFPhU5bDBYPMskM8) | [Con las Alas del Alma](https://open.spotify.com/album/1IJDQDltstBfcrxE7IoJii) | 3:01 |
 | 29 | [Baldosa Floja](https://open.spotify.com/track/38Umd4ALhVqbmvDSamftBR) | [Soledad Villamil](https://open.spotify.com/artist/5rSSgiiHz9IhOi6T63EBKD) | [Canta](https://open.spotify.com/album/6PDbU5wE5nZCAkXVIuvVm8) | 2:10 |
 | 30 | [El Corazón al Sur](https://open.spotify.com/track/5t0QIkUpZOoejnKXeZ8z2s) | [Maria Graña](https://open.spotify.com/artist/1Yr19zGBA3JmVYOcE4JwRG), [Eladia Blazquez](https://open.spotify.com/artist/0lHsA4VFPhU5bDBYPMskM8) | [María](https://open.spotify.com/album/7jdQvnUjX988oU3jauUUmU) | 4:03 |
-| 31 | [En Ese Ayer/Ventarrón](https://open.spotify.com/track/6yzikW529P1w3mwxAoMC3H) | [Susana Rinaldi](https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE) | [En El Underground](https://open.spotify.com/album/6I123wp2nUkU8hiY0vzu7o) | 4:02 |
+| 31 | [Malena](https://open.spotify.com/track/24Reh2d2WR4lwweVsA1xxf) | [Susana Rinaldi](https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE), [Leopoldo Federico](https://open.spotify.com/artist/3RibY876FBPC7kuqm4YqzJ) | [Vos y yo](https://open.spotify.com/album/7I5aFjFeNdfqWyISjPI2sw) | 3:58 |
 | 32 | [Garganta Con Arena](https://open.spotify.com/track/6BjIumHEDyRxgocfAfwsXL) | [Adriana Varela](https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc) | [Toda Mi Vida](https://open.spotify.com/album/17AJEwOMBmI6xhykdOBCI7) | 4:08 |
 | 33 | [El día que me quieras \- Remastered](https://open.spotify.com/track/02TbTxbu4H9heTFaXe3iVQ) | [Libertad Lamarque](https://open.spotify.com/artist/4obTALkglm8PARkVVik9KZ) | [Tangos Inmortales de Libertad Lamarque \(Remastered\)](https://open.spotify.com/album/5iq55ODBLnuVtHr0SX5AJR) | 2:36 |
 | 34 | [Fruta Amarga](https://open.spotify.com/track/7dsCiWTBKpyI8UYPxicyCu) | [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk), [Aldo Saralegui](https://open.spotify.com/artist/3DkOmSI4zaX4mVCZQC7Fm1) | [El Nuevo Rumbo](https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM) | 3:29 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSDaI0ox0Nq.md) - [plain]
 | 54 | [Corazón Maldito](https://open.spotify.com/track/18rtBOZ3x3OYWAN7VMEgio) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk) | [Corazón Maldito](https://open.spotify.com/album/6akAb35yd9kVQiq3jigIZT) | 3:24 |
 | 55 | [Nunca Tuvo Novio](https://open.spotify.com/track/2zaCDm7hyv35FUxA2nGueu) | [Rita Cortese](https://open.spotify.com/artist/6tWIoufIHPpvUk8NEiwwp3) | [El Amor Ese Loco Berretin](https://open.spotify.com/album/7rzG340MhMBiAhIdCGiZdj) | 3:38 |
 
-Snapshot ID: `MTY1NzI0OTIwMCwwMDAwMDAwMDY0ZTgxNDZmMTQwOGM4YWEwNjMzODNjODBjYWMwYmM5`
+Snapshot ID: `MTY1NzI0OTIwMCwwMDAwMDAwMDdjMWRkMTg5Y2Q3MzM1OWI3ZmQ1MDY4NGUzZDM4OTM5`

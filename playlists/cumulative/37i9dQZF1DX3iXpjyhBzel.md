@@ -4,7 +4,7 @@
 
 > A música certa para o seu momento de adoração\. Foto: Julliany Souza, Isadora Pompeo
 
-89 songs - 8 hr 44 min - not published yet
+89 songs - 8 hr 44 min - [published](https://open.spotify.com/playlist/4jOyagKiotU0lUPqsmWnAd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

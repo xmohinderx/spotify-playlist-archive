@@ -4,7 +4,7 @@
 
 > This is Grupo Niche\. The essential tracks, all in one playlist.
 
-51 songs - 4 hr 18 min - [published](https://open.spotify.com/playlist/0sKOKr4jcSA1YWjPvUiC1U)
+52 songs - 4 hr 24 min - [published](https://open.spotify.com/playlist/0sKOKr4jcSA1YWjPvUiC1U)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,13 +41,14 @@
 | [Lo Bonito Y Lo Feo](https://open.spotify.com/track/3RviPwWauFFD8FhcsTFGe7) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Siempre Una Aventura](https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF) | 4:56 | 2022-09-08 |  |
 | [Me Sabe a Peru](https://open.spotify.com/track/00Hcq5S7P9lIJqioIW0Hxb) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [La Danza de la Chancaca](https://open.spotify.com/album/4LLCCwFbIYh4nZ5JOxRntj) | 4:06 | 2022-09-08 |  |
 | [Mecánico](https://open.spotify.com/track/2kyyYYbP0MMqK2kEjqn2Eg) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [A Prueba De Fuego](https://open.spotify.com/album/6xuqBMxn6vZtsITA5555JU) | 5:09 | 2022-09-08 |  |
-| [Mi Hijo y Yo](https://open.spotify.com/track/0rOkqMmPpkInktks5tdAmn) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Sutil y Contundente](https://open.spotify.com/album/3j3BnIkciRBXtoAvYll1Za) | 5:35 | 2022-09-08 |  |
+| [Mi Hijo y Yo](https://open.spotify.com/track/0rOkqMmPpkInktks5tdAmn) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Sutil y Contundente](https://open.spotify.com/album/3j3BnIkciRBXtoAvYll1Za) | 5:35 | 2022-09-08 | 2022-09-17 |
 | [Mi Machete](https://open.spotify.com/track/1rZmyIJitURlw2d35xb9fn) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Imaginacion](https://open.spotify.com/album/6wA6aH6FhwbhVxiCC7QfLs) | 5:27 | 2022-09-08 |  |
 | [Miserable](https://open.spotify.com/track/0vVkF4i1QBigjfvRpaFamh) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Una Aventura...La Historia](https://open.spotify.com/album/4at8kygDVfKHWHIXox7uGs) | 5:22 | 2022-09-08 |  |
 | [Mujer de Novela](https://open.spotify.com/track/0ql5YXad4srSRaBoSAnR9h) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Señales de Humo](https://open.spotify.com/album/0xccneykPb7RZMB6UV5grn) | 5:15 | 2022-09-08 |  |
 | [Ni Como Amiga Ni Como Amante](https://open.spotify.com/track/5Ua7mixHbm9UTAz3Zjpi2s) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Imaginacion](https://open.spotify.com/album/6wA6aH6FhwbhVxiCC7QfLs) | 4:52 | 2022-09-08 |  |
 | [No Tuve A Quien Decirle Amor](https://open.spotify.com/track/0e1G4VKnhcVMsRM0bLtHAa) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Llegando Al 100%](https://open.spotify.com/album/3StG3Gf4htUHrDnUiC3eqT) | 5:23 | 2022-09-11 | 2022-09-16 |
 | [Nuestro Sueño](https://open.spotify.com/track/0g9d2hcBECm8eOuxG9w5kH) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [The Best](https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm) | 5:59 | 2022-09-08 |  |
+| [Primero Y Qué](https://open.spotify.com/track/0sdn7O9lflE1GgapAS8TUp) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Preparate](https://open.spotify.com/album/0yW7ORJ2FD5SbLRe9gITDR) | 6:08 | 2022-09-16 |  |
 | [Rupelto Mena](https://open.spotify.com/track/04O7puFBE8WsgZZL0vpwcf) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Rupelto Mena](https://open.spotify.com/album/0kLLu0272oNXFZ1rYb9AN4) | 4:49 | 2022-09-08 |  |
 | [Se Pareció Tanto a Ti](https://open.spotify.com/track/36CmpO4k6RCa410JCgn3Er) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [The Best](https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm) | 5:28 | 2022-09-08 |  |
 | [Sin Sentimientos](https://open.spotify.com/track/4ubwzNjqHGaZZ5k06PDx1H) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [The Best](https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm) | 4:53 | 2022-09-08 |  |

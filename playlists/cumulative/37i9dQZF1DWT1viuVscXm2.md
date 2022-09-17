@@ -4,7 +4,7 @@
 
 > A bailar con la mejor cumbia sudamericana\. Foto: Rafaga.
 
-162 songs - 9 hr 41 min - [published](https://open.spotify.com/playlist/2BOWiJCT4dyOyema50dxx0)
+163 songs - 9 hr 44 min - [published](https://open.spotify.com/playlist/2BOWiJCT4dyOyema50dxx0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Me Vas a Extrañar \- En Vivo](https://open.spotify.com/track/3CACzG9I3AoKUKA3ODE5zW) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1) | [Me Vas a Extrañar \(En Vivo\)](https://open.spotify.com/album/628CD4iCvk1Q325ErHXq53) | 3:58 | 2021-12-24 |  |
 | [Mentirosa](https://open.spotify.com/track/3Iw4UVS7fo2TdD6Spmgqaj) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Imparables](https://open.spotify.com/album/7jfg9E2mgCCUgeRAHRJuIG) | 3:14 | 2022-09-09 |  |
 | [Mentirosa](https://open.spotify.com/track/2e3fohSwZ9nU6Q2tks0fFz) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Imparables](https://open.spotify.com/album/0Rjblvwx7OfldgNEJQ6xcm) | 3:15 | 2021-12-24 | 2022-09-11 |
+| [Mi Medicina](https://open.spotify.com/track/7FBl6M4ILoDTR4A1dSv1eu) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG), [Carlos Baute](https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77) | [Mi Medicina](https://open.spotify.com/album/2LixdNBvtiLVPVMISy8JdK) | 3:37 | 2022-09-16 |  |
 | [Mil Horas](https://open.spotify.com/track/2JXaOJZnumm7QnN8Oub2K8) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Mil Horas](https://open.spotify.com/album/2hsuC2WkNh4VsjwwskpGYd) | 3:36 | 2022-07-01 |  |
 | [Mil Horas](https://open.spotify.com/track/6aiOkKVEe8Mo0O3ycrrn7z) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Transformando La Cumbia](https://open.spotify.com/album/0oQPPVHlGTrEPptF9mOZeZ) | 4:14 | 2021-12-24 | 2022-09-03 |
 | [Miénteme](https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Miénteme](https://open.spotify.com/album/4D9XS6o1GNMmuUWhI5Qixg) | 2:45 | 2021-12-24 |  |
@@ -102,7 +103,7 @@
 | [Negra Caderona](https://open.spotify.com/track/0qSmxnzk8yAONBAiuNppJu) | [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS) | [Negra Caderona](https://open.spotify.com/album/6eKerB5MySf2QISRA5AYJy) | 4:08 | 2022-08-05 |  |
 | [No Llores](https://open.spotify.com/track/5371C5dR6UbNkr5aNemWQp) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG) | [No Llores](https://open.spotify.com/album/6DHN6UTsXJj69qyyqrlAlT) | 4:16 | 2021-12-24 |  |
 | [No Me Arrepiento de Este Amor](https://open.spotify.com/track/6Bj9aK0jTMmjUp1y4Z7SVz) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [20 Grandes Exitos](https://open.spotify.com/album/6cWj9XVKzrrayy7c6n5KiI) | 3:40 | 2021-12-24 |  |
-| [No Me Obligues](https://open.spotify.com/track/3zt2sKW3baol4P64yRnmTp) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [No Me Obligues](https://open.spotify.com/album/1S6BDGo0jDjlODItAMfEeV) | 3:27 | 2022-09-02 |  |
+| [No Me Obligues](https://open.spotify.com/track/3zt2sKW3baol4P64yRnmTp) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [No Me Obligues](https://open.spotify.com/album/1S6BDGo0jDjlODItAMfEeV) | 3:27 | 2022-09-02 | 2022-09-17 |
 | [No Puedo Más](https://open.spotify.com/track/5nTMWn5tDrRJuWyObIS2nM) | [Antonio Rios](https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi) | [No Puedo Más](https://open.spotify.com/album/28r8Cg03NewVnUrW8nFjzk) | 3:45 | 2022-09-02 |  |
 | [No Te Creas Tan Importante \- En Vivo](https://open.spotify.com/track/3trowLiYwwOoiwapLISNyk) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1) | [No Te Creas Tan Importante \(En Vivo\)](https://open.spotify.com/album/4SPZTJb1KDhmLJRzhgcq5s) | 3:59 | 2021-12-24 |  |
 | [Noche Loca](https://open.spotify.com/track/0gzcET27nREY6aD8LJU9wD) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW), [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [Todo Comenzó Bailando](https://open.spotify.com/album/0yLhNN1wvArT1xOU9Y8s4S) | 2:58 | 2021-12-24 |  |

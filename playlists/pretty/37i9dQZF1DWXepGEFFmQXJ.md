@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 
 > The cream of today's Country crop\. Cover: Melanie Dyer
 
-[Spotify](https://open.spotify.com/user/spotify) - 305,670 likes - 86 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,781 likes - 86 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

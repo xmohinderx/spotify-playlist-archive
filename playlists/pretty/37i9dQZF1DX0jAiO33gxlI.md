@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Rashid
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,430 likes - 77 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,487 likes - 77 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

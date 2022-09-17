@@ -627,6 +627,6 @@
 | [You Lately](https://open.spotify.com/track/6vL2NVGXWg3KZXfeRXNtVy) | [Xavier Dunn](https://open.spotify.com/artist/1JmAXAbenjeUV9rTxyI9ZZ) | [You Lately](https://open.spotify.com/album/4QjsHYzsVdcjvmlzY3HaaQ) | 3:07 | 2019-08-27\* | 2019-11-11 |
 | [You Say](https://open.spotify.com/track/6Up545NUflOiXo8cEraH49) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN) | 4:34 | 2019-08-27\* | 2019-11-11 |
 | [Young & Alive](https://open.spotify.com/track/5RsKelNxucrDxgMbZ3vd3W) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [Young & Alive](https://open.spotify.com/album/4UoEi8sYhfBkFEkvZDfb74) | 2:40 | 2020-03-06 | 2021-05-12 |
-| [Zombie](https://open.spotify.com/track/4QmTyWBkweHWUCyrBl8n7l) | [LAUF](https://open.spotify.com/artist/5ZTKDvzvC98RpTs4TUbilD), [We Said](https://open.spotify.com/artist/7ECRPQYavYtQFH6gprw7YY) | [Zombie](https://open.spotify.com/album/0g0KAy1S6lLxbL84HL6C6V) | 2:38 | 2021-09-24 |  |
+| [Zombie \(feat\. LAUF\)](https://open.spotify.com/track/4QmTyWBkweHWUCyrBl8n7l) | [We Said](https://open.spotify.com/artist/7ECRPQYavYtQFH6gprw7YY), [LAUF](https://open.spotify.com/artist/5ZTKDvzvC98RpTs4TUbilD) | [Zombie \(feat\. LAUF\)](https://open.spotify.com/album/0g0KAy1S6lLxbL84HL6C6V) | 2:38 | 2021-09-24 |  |
 
 \*This playlist was first scraped on 2019-08-27. Prior content cannot be recovered.

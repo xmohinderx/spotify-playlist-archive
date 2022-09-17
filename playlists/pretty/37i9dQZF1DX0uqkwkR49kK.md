@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uqkwkR49kK.md) - [plain]
 
 > A 100\-track collection of insanely good progressive rock creations, from classic acts like Rush, Yes, and Genesis to lesser\-known international gems\. Cover: Rush
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,091 likes - 100 songs - 15 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,173 likes - 100 songs - 15 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uqkwkR49kK.md) - [plain]
 | 75 | [The Yes No Interlude](https://open.spotify.com/track/2AjO7WHgceMI5jfc7pUAs0) | [Hatfield & The North](https://open.spotify.com/artist/3nYGhK3zYoTm2Yz1KduuUM) | [The Rotters Club](https://open.spotify.com/album/6NqP2oaumNCKtIoxIpgPKj) | 7:01 |
 | 76 | [Magnum Opus: Father Padilla Meets the Perfect Gnat / Howling at the Moon / Man Overboard / Industry on Parade / Release the Beavers / Gnat Attack](https://open.spotify.com/track/3pPe5vc5aYV2cdUt11H54h) | [Kansas](https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1) | [Leftoverture \(Expanded Edition\)](https://open.spotify.com/album/7MejfRSNnrpcLZIxkeZDqR) | 8:25 |
 | 77 | [Publiphobie](https://open.spotify.com/track/5bdxnqGx8kYHk7UksDmLXb) | [Carpe Diem](https://open.spotify.com/artist/3wgKD5T8ogOZBqCMrYiZTH) | [En Regardant Passer Le Temps](https://open.spotify.com/album/3gzvDKC8YeNYguIMHkSqCl) | 9:54 |
-| 78 | [Dundrets Fröjder](https://open.spotify.com/track/4a5Il8dMAS1IpVnUs0o4a1) | [Samla Mammas Manna](https://open.spotify.com/artist/2YHHo7UJ5bZOWUu2SDVSy3) | [Måltid](https://open.spotify.com/album/7kqeIfYqzhmeogLP1CtqYX) | 10:46 |
+| 78 | [Dundrets Fröjder](https://open.spotify.com/track/023wFbs9wpg3MXv4Vit7TS) | [Samla Mammas Manna](https://open.spotify.com/artist/2YHHo7UJ5bZOWUu2SDVSy3) | [Måltid](https://open.spotify.com/album/22kgwJs6uV82ck3s1q7l8a) | 10:46 |
 | 79 | [Time](https://open.spotify.com/track/3TO7bbrUKrOSPGRTB5MeCz) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Dark Side of the Moon](https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv) | 6:53 |
 | 80 | [Småfolket](https://open.spotify.com/track/54zAnwfTWENOYwY3DHh4Sb) | [Kultivator](https://open.spotify.com/artist/1Oo8so3gncyWevBH7Q2X56) | [Barndomens Stigar](https://open.spotify.com/album/5xBO89A0hQexyN5UaZMSCp) | 5:12 |
 | 81 | [Lady of the Lake](https://open.spotify.com/track/4U4jKOweJ8FJ061VVp5l2p) | [Starcastle](https://open.spotify.com/artist/0bWkqEiCzUo1qRiQXI0VdJ) | [Starcastle](https://open.spotify.com/album/1fxW4E9zQ5RIIc4k1aPZRy) | 10:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uqkwkR49kK.md) - [plain]
 | 99 | [Tubular Bells \- Pt\. I](https://open.spotify.com/track/7ERSQrRptZVM7q3VOdM7OL) | [Mike Oldfield](https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn) | [Tubular Bells](https://open.spotify.com/album/0a3YQpBnRzJzNktOjb6Dum) | 26:01 |
 | 100 | [Peaches En Regalia](https://open.spotify.com/track/5uDu2qOoDou7cFXsipAo8l) | [Frank Zappa](https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN) | [Hot Rats](https://open.spotify.com/album/0WYYrC9My9rYWigac003hw) | 3:38 |
 
-Snapshot ID: `MTYyNzA2MTI0OCwwMDAwMDAwMDc5NTcxNDM3OWFkOTNjOWYyMjExNjFhYzdhZDAwYzJk`
+Snapshot ID: `MTYyNzA2MTI0OCwwMDAwMDAwMGFkMWQyMjQzYjljNWRmYzE4MWY3MWI5MGJiZTQ0NDQ3`

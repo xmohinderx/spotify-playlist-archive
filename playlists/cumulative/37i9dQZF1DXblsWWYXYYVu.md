@@ -4,7 +4,7 @@
 
 > Relax and take it slow today
 
-149 songs - 8 hr 23 min - [published](https://open.spotify.com/playlist/3p1V85d927eyG2kPYAHK5f)
+150 songs - 8 hr 28 min - [published](https://open.spotify.com/playlist/3p1V85d927eyG2kPYAHK5f)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Old Time's Sake](https://open.spotify.com/track/3IQSmhYf1nst6Gp5BbW3xE) | [Charlie Worsham](https://open.spotify.com/artist/1nYvElumwIjMkOczb985bq) | [Beginning of Things](https://open.spotify.com/album/24XNUmmNY44uGmG4aY001K) | 3:22 | 2021-04-19 |  |
 | [One Man Band](https://open.spotify.com/track/7cA3PnUQDlUyBBwpRozQeo) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Old Dominion](https://open.spotify.com/album/0eu2mZjF6JQTuLCu9ils6m) | 3:06 | 2021-04-19 |  |
 | [One Man Band](https://open.spotify.com/track/3ksmU0DaEUMEVzx5V6cc3z) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Old Dominion](https://open.spotify.com/album/55uC8u8BqPgA4LGWALnOK3) | 3:06 | 2021-04-19 | 2022-07-29 |
+| [Only Child](https://open.spotify.com/track/2h5ojbptFkRmt4f6PIFmSf) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [\(self\-titled\)](https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE) | 4:27 | 2022-09-16 |  |
 | [Other Side of Goodbye](https://open.spotify.com/track/36C3122Qre8AjCMdCQNeAe) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [Other Side of Goodbye](https://open.spotify.com/album/1tDJWBen4t2O0QHOHsChrQ) | 2:34 | 2022-01-14 |  |
 | [Part of Me](https://open.spotify.com/track/7aG1xKK3cdvg7JUKaECwJ4) | [Good Old War](https://open.spotify.com/artist/33szNKNcVX8x0jl8X7hxHL) | [Part of Me](https://open.spotify.com/album/0aQ29oayqhH1KEspyySPZh) | 3:02 | 2021-04-19 | 2022-04-29 |
 | [Passengers \- Acoustic](https://open.spotify.com/track/75LVQ838VkwnnUoIbenc0p) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Passengers](https://open.spotify.com/album/6v14NJ0x1lStiPzpm1iBnW) | 3:36 | 2022-03-25 |  |
@@ -127,7 +128,7 @@
 | [The Way I](https://open.spotify.com/track/1VWjNt0izeh214tH5Ghn1v) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Oklahoma](https://open.spotify.com/album/2gWSiwdkFn1t9ivEV2zPsy) | 3:22 | 2021-04-19 | 2022-04-29 |
 | [The Wire](https://open.spotify.com/track/2htzEakktoAB6bxDtA6iQi) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [The Wire](https://open.spotify.com/album/5uGY2LlTNOED1mwx8alln1) | 3:06 | 2021-10-22 | 2022-08-06 |
 | [The Years](https://open.spotify.com/track/5ppLTSYuW2XRUXRrtHO72z) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [The Years](https://open.spotify.com/album/38IhoHvSsheHtFlofWm8Kw) | 3:39 | 2022-04-08 |  |
-| [There You Are](https://open.spotify.com/track/0djPvkGasHhmWE61SVL5ZN) | [Brandon Jenner](https://open.spotify.com/artist/6q6eylLazY3ORi6YqH9x4x) | [There You Are](https://open.spotify.com/album/1YcpaKi4ReJl7sFZGDazdd) | 3:05 | 2021-04-19 |  |
+| [There You Are](https://open.spotify.com/track/0djPvkGasHhmWE61SVL5ZN) | [Brandon Jenner](https://open.spotify.com/artist/6q6eylLazY3ORi6YqH9x4x) | [There You Are](https://open.spotify.com/album/1YcpaKi4ReJl7sFZGDazdd) | 3:05 | 2021-04-19 | 2022-09-17 |
 | [There You Are](https://open.spotify.com/track/6PD7iSh23einHGUSxySwfR) | [Brandon Jenner](https://open.spotify.com/artist/6q6eylLazY3ORi6YqH9x4x) | [There You Are](https://open.spotify.com/album/2XATcnL3lJFJPqGFj7Dmhl) | 3:05 | 2021-04-19 | 2022-07-29 |
 | [These Walls](https://open.spotify.com/track/4Q1LDkmAOY2bs4U9A4jCOT) | [Carly Rogers](https://open.spotify.com/artist/2Wp8J5K9ohY4IY00dIpDtr) | [These Walls](https://open.spotify.com/album/1IgdpQxKTlJur7hcQoR4Pu) | 3:13 | 2021-04-19 | 2022-09-10 |
 | [These Walls](https://open.spotify.com/track/4STGoSPoTjY7ia71t3XdOS) | [Carly Rogers](https://open.spotify.com/artist/2Wp8J5K9ohY4IY00dIpDtr) | [These Walls](https://open.spotify.com/album/5YsYLuzSXAmzuwLaDpEmp8) | 3:13 | 2021-04-19 |  |

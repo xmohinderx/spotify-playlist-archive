@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Keep up with all the latest pop hits. Cover: Lewis Capaldi",
+  "description": "Keep up with all the latest pop hits. Cover: Bazzi",
   "name": "Pop All Day",
   "published_playlist_ids": [
     "72ei0AA5JxKKu1O5OfW8cY"
@@ -286,6 +286,24 @@
     },
     {
       "album": {
+        "name": "Ain't Got Nothin' Figured Out",
+        "url": "https://open.spotify.com/album/0oTaygkYZPGj8dOvRqW6IB"
+      },
+      "artists": [
+        {
+          "name": "MAGIC!",
+          "url": "https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205396,
+      "name": "Ain't Got Nothin' Figured Out",
+      "url": "https://open.spotify.com/track/7K8Rw4AUsIVPGSBdzII44L"
+    },
+    {
+      "album": {
         "name": "RENAISSANCE",
         "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
       },
@@ -439,6 +457,24 @@
       "duration_ms": 190148,
       "name": "Angel",
       "url": "https://open.spotify.com/track/7pMLnEJrGpg7jx9Z0gyhiF"
+    },
+    {
+      "album": {
+        "name": "Another Love Song",
+        "url": "https://open.spotify.com/album/0BLaVp7Mzl2LOSQNvURmsM"
+      },
+      "artists": [
+        {
+          "name": "Forest Blakk",
+          "url": "https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177066,
+      "name": "Another Love Song",
+      "url": "https://open.spotify.com/track/2PKEWeRvcGxPzr3FaGes5e"
     },
     {
       "album": {
@@ -752,6 +788,24 @@
     },
     {
       "album": {
+        "name": "back to you",
+        "url": "https://open.spotify.com/album/3z7szR70OraIRq23UF8Jf3"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169921,
+      "name": "back to you",
+      "url": "https://open.spotify.com/track/7o4ibS5g8l89srd3o6RwK3"
+    },
+    {
+      "album": {
         "name": "Bad Day",
         "url": "https://open.spotify.com/album/3k1lFVPUbpxngCtvkB9JkA"
       },
@@ -923,7 +977,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 150004,
       "name": "Beach House",
       "url": "https://open.spotify.com/track/23Pi81mwR6wNeFhym9mUMx"
@@ -1887,7 +1941,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 176859,
       "name": "Come Back Home",
       "url": "https://open.spotify.com/track/1I4dwH7C0jBAEtz5DjlJgQ"
@@ -2231,7 +2285,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 177108,
       "name": "die first",
       "url": "https://open.spotify.com/track/21szgNA72iLwvBxHQLgwBh"
@@ -2565,7 +2619,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 150491,
       "name": "Every Beginning Ends",
       "url": "https://open.spotify.com/track/7lagLMBTqqOkta5eqRfNXc"
@@ -2964,6 +3018,28 @@
     },
     {
       "album": {
+        "name": "fmk (with blackbear)",
+        "url": "https://open.spotify.com/album/2JATwGH1Izmuu47IcnfzSO"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        },
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189075,
+      "name": "fmk (with blackbear)",
+      "url": "https://open.spotify.com/track/1hhMX7QQIhBsXjFmTK7owB"
+    },
+    {
+      "album": {
         "name": "Love, Damini",
         "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
       },
@@ -3037,7 +3113,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 171706,
       "name": "fun out of it",
       "url": "https://open.spotify.com/track/1e6JmZg46vKcwhtM8hXbnK"
@@ -3641,7 +3717,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 153391,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/1NZLDZsqmvMVcZ02VT7ocP"
@@ -3695,7 +3771,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 137107,
       "name": "Her",
       "url": "https://open.spotify.com/track/5hHvFrMnwic82WwRLr4WY0"
@@ -4286,6 +4362,24 @@
     },
     {
       "album": {
+        "name": "I Don\u2019t Think That I Like Her",
+        "url": "https://open.spotify.com/album/5f7yRF519Ruz1yE9x97jID"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188507,
+      "name": "I Don\u2019t Think That I Like Her",
+      "url": "https://open.spotify.com/track/0zRezEuKtaAXHcB4eruwi2"
+    },
+    {
+      "album": {
         "name": "I Give Everything",
         "url": "https://open.spotify.com/album/2ljtGIdS43Dx9caG9glR2z"
       },
@@ -4352,6 +4446,24 @@
     },
     {
       "album": {
+        "name": "The Hardest Part",
+        "url": "https://open.spotify.com/album/0CIYj6AV180SmLAEONb2DW"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201463,
+      "name": "I Just Want a Lover",
+      "url": "https://open.spotify.com/track/1rwMM6ixKWnsRQMUeRbXeT"
+    },
+    {
+      "album": {
         "name": "I Lied",
         "url": "https://open.spotify.com/album/57y3Aq08ImuZe2hXgCIQlz"
       },
@@ -4385,7 +4497,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 192840,
       "name": "I Like You (A Happier Song) (with Doja Cat)",
       "url": "https://open.spotify.com/track/0prbvDtiY8FrZKEj8LF4Rs"
@@ -5944,6 +6056,24 @@
     },
     {
       "album": {
+        "name": "Midas",
+        "url": "https://open.spotify.com/album/0ZVinMifIaIicM53K91vs7"
+      },
+      "artists": [
+        {
+          "name": "ari hicks",
+          "url": "https://open.spotify.com/artist/7kBSIXnl2HuGLcA0RZ8T9Z"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155749,
+      "name": "Midas",
+      "url": "https://open.spotify.com/track/54hhLiIkQmKvoF3WtakcQk"
+    },
+    {
+      "album": {
         "name": "Middle Of A Breakup",
         "url": "https://open.spotify.com/album/47bNR5XCEgz2RlE2Rx28Si"
       },
@@ -6161,7 +6291,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 206943,
       "name": "MUTUAL FRIEND",
       "url": "https://open.spotify.com/track/6qTkFd7eFndvexoySUmpNq"
@@ -6822,6 +6952,46 @@
     },
     {
       "album": {
+        "name": "Infinite Dream",
+        "url": "https://open.spotify.com/album/7CY2Iv5eX7eGAOdRNHfIBr"
+      },
+      "artists": [
+        {
+          "name": "Bazzi",
+          "url": "https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl"
+        },
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153442,
+      "name": "Only Fan (feat. Cordae)",
+      "url": "https://open.spotify.com/track/6514uhzGpeyocCHv5kBih4"
+    },
+    {
+      "album": {
+        "name": "YESSIE",
+        "url": "https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183893,
+      "name": "ONLY ONE",
+      "url": "https://open.spotify.com/track/04xnC2Uwq38RPrwCLv6f0G"
+    },
+    {
+      "album": {
         "name": "Dawn FM",
         "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
       },
@@ -7183,6 +7353,28 @@
       "duration_ms": 152214,
       "name": "PS5 (with TOMORROW X TOGETHER & Alan Walker)",
       "url": "https://open.spotify.com/track/6LA7WgwRca4bYg7Ip50dqN"
+    },
+    {
+      "album": {
+        "name": "PSYCHO",
+        "url": "https://open.spotify.com/album/7qUT6ERWHp2U6RdUkuYZ3O"
+      },
+      "artists": [
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        },
+        {
+          "name": "Aitch",
+          "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162666,
+      "name": "PSYCHO",
+      "url": "https://open.spotify.com/track/1eprzC29mwUQqcVj0eILdx"
     },
     {
       "album": {
@@ -7740,6 +7932,24 @@
     },
     {
       "album": {
+        "name": "Girl Of My Dreams",
+        "url": "https://open.spotify.com/album/38aH4OObJSjtO48q2eNoA4"
+      },
+      "artists": [
+        {
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133226,
+      "name": "Serial Heartbreaker",
+      "url": "https://open.spotify.com/track/1UmFLqmTmgHoSyvss6Q7gw"
+    },
+    {
+      "album": {
         "name": "Sexo Amor Dinero",
         "url": "https://open.spotify.com/album/04s5v1OBxraFoczLoN15Sf"
       },
@@ -7878,6 +8088,24 @@
     },
     {
       "album": {
+        "name": "BORN PINK",
+        "url": "https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175889,
+      "name": "Shut Down",
+      "url": "https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF"
+    },
+    {
+      "album": {
         "name": "Shut Off The Lights",
         "url": "https://open.spotify.com/album/3tCwAtRvtyPDYQnKPXnJD7"
       },
@@ -7907,7 +8135,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 141329,
       "name": "Shut Up and Look Pretty",
       "url": "https://open.spotify.com/track/0WN1iznk8aBrlknCM1jHGE"
@@ -8063,7 +8291,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 204079,
       "name": "Smells Like Me",
       "url": "https://open.spotify.com/track/6LXIhiXK8z1KLd3giR904b"
@@ -8161,7 +8389,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 176058,
       "name": "So Good",
       "url": "https://open.spotify.com/track/6kxaaIeowajN7w21PfMLbu"
@@ -8677,6 +8905,24 @@
       "duration_ms": 239865,
       "name": "Take My Hand",
       "url": "https://open.spotify.com/track/2TD7TI0utoxnAFh7oGqpmm"
+    },
+    {
+      "album": {
+        "name": "Talking to Yourself",
+        "url": "https://open.spotify.com/album/03O3E9D52ADAd2nzr3wCtb"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173200,
+      "name": "Talking to Yourself",
+      "url": "https://open.spotify.com/track/1sEBlj6fYXiiaGR8XrLSbr"
     },
     {
       "album": {
@@ -9899,7 +10145,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 172266,
       "name": "When You're Gone",
       "url": "https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6"

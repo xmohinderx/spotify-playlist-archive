@@ -362,6 +362,24 @@
     },
     {
       "album": {
+        "name": "Artifact",
+        "url": "https://open.spotify.com/album/6sBfndQpBMuAJPiuMMiwxA"
+      },
+      "artists": [
+        {
+          "name": "Basicboy",
+          "url": "https://open.spotify.com/artist/6NhNVWuAGFt7hfq9M4kj9U"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117934,
+      "name": "Artifact",
+      "url": "https://open.spotify.com/track/2vi4MXSr5taqNZEmpvA7w9"
+    },
+    {
+      "album": {
         "name": "Ascension",
         "url": "https://open.spotify.com/album/47qphikUx1Bu31oB6LTrax"
       },
@@ -481,7 +499,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 172666,
       "name": "beginner's mind",
       "url": "https://open.spotify.com/track/6rhvnNfCetHo54hKLhz1uJ"
@@ -553,7 +571,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 245250,
       "name": "Black Sands White Coffee",
       "url": "https://open.spotify.com/track/2ZpxtRMNvBkgQVZiCGIIub"
@@ -1455,7 +1473,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 109333,
       "name": "Dominoes",
       "url": "https://open.spotify.com/track/32iuXjIaafu5GKFhQgvTcV"
@@ -1509,7 +1527,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 107586,
       "name": "Dream ON",
       "url": "https://open.spotify.com/track/6NLzpxi7PZH1K1tsLqpmeh"
@@ -1553,6 +1571,28 @@
       "duration_ms": 85970,
       "name": "Dual Vision",
       "url": "https://open.spotify.com/track/07cDeLHLN5A9GxxsB3CBBK"
+    },
+    {
+      "album": {
+        "name": "Dusk Till Dawn",
+        "url": "https://open.spotify.com/album/6TSTw3dOmkmMNqhA5TtUuU"
+      },
+      "artists": [
+        {
+          "name": "eleven",
+          "url": "https://open.spotify.com/artist/2je6GFLTZmAbrnjokRtWfU"
+        },
+        {
+          "name": "Moetown",
+          "url": "https://open.spotify.com/artist/62j9JVhnSbDgA6ADHCBNPz"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132923,
+      "name": "Dusk Till Dawn",
+      "url": "https://open.spotify.com/track/5nyyuV2d4TMGrQ2bipvz1M"
     },
     {
       "album": {
@@ -1675,7 +1715,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 160000,
       "name": "Fascinations of Style",
       "url": "https://open.spotify.com/track/1oHZim30tpQXfZks6sgRrd"
@@ -1715,6 +1755,24 @@
       "duration_ms": 159000,
       "name": "Fender Bender",
       "url": "https://open.spotify.com/track/6hogWoj5zE1i8pLS7pyXwz"
+    },
+    {
+      "album": {
+        "name": "Finding Paradise",
+        "url": "https://open.spotify.com/album/71cb0PdHyUsVF5L6qpVXXw"
+      },
+      "artists": [
+        {
+          "name": "Simber",
+          "url": "https://open.spotify.com/artist/3x9DqcRsBAPD6oFZCnDxf0"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Finding Paradise",
+      "url": "https://open.spotify.com/track/04cxY8cDdPl2SFiRp0Xqub"
     },
     {
       "album": {
@@ -1765,7 +1823,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 121599,
       "name": "Flavour",
       "url": "https://open.spotify.com/track/19NiJPhvSG78HryQrWKUqP"
@@ -2137,7 +2195,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 88285,
       "name": "high time",
       "url": "https://open.spotify.com/track/2Ff29LxXQoyc0CyqG4sojY"
@@ -2267,6 +2325,24 @@
       "duration_ms": 130588,
       "name": "I Gotta Tell You",
       "url": "https://open.spotify.com/track/5w3FLYgRtC9nHrvLmDgJTW"
+    },
+    {
+      "album": {
+        "name": "I'm Thinking",
+        "url": "https://open.spotify.com/album/6PrTXcNwZddYbAkDjksnuz"
+      },
+      "artists": [
+        {
+          "name": "Svedje",
+          "url": "https://open.spotify.com/artist/0IWHtpPrewzL4qFOOuUk89"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157714,
+      "name": "I'm Thinking",
+      "url": "https://open.spotify.com/track/0oH9eXgLniGBFEeKOb1cnu"
     },
     {
       "album": {
@@ -2461,7 +2537,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 96545,
       "name": "Journey In",
       "url": "https://open.spotify.com/track/4ir4jAGbMUcLpIfRGI77Ir"
@@ -2501,6 +2577,24 @@
       "duration_ms": 144553,
       "name": "Kanashi",
       "url": "https://open.spotify.com/track/0Xs2w8ZtC6h1AOGpqCuvgu"
+    },
+    {
+      "album": {
+        "name": "Karina",
+        "url": "https://open.spotify.com/album/6ktxOfOFUE1xqCJdx0UOwq"
+      },
+      "artists": [
+        {
+          "name": "Paper Street Company",
+          "url": "https://open.spotify.com/artist/7eAeNjHH0huqLZQheCLXT7"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204250,
+      "name": "Karina",
+      "url": "https://open.spotify.com/track/1vShSwC2aTrJmpcaGxvkhb"
     },
     {
       "album": {
@@ -2677,7 +2771,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 104470,
       "name": "life is a balloon",
       "url": "https://open.spotify.com/track/2GoAhMIvnZ1n7ZEqj7jrAa"
@@ -2927,7 +3021,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 147920,
       "name": "madman pt.2",
       "url": "https://open.spotify.com/track/7vHYnKhPPPDBbUWHGavEtu"
@@ -2981,7 +3075,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 99230,
       "name": "memories",
       "url": "https://open.spotify.com/track/14kGhyabTHGMtbNhraoe0p"
@@ -3950,6 +4044,28 @@
     },
     {
       "album": {
+        "name": "Pathfinder",
+        "url": "https://open.spotify.com/album/5jgmhw6WmNjfHyQhRGClhq"
+      },
+      "artists": [
+        {
+          "name": "Waldmann",
+          "url": "https://open.spotify.com/artist/0GgSqmhxj6tC9SF3jhVRVz"
+        },
+        {
+          "name": "dustluv",
+          "url": "https://open.spotify.com/artist/6hXRfx6rOvekCXcx7kJ8kj"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148778,
+      "name": "Pathfinder",
+      "url": "https://open.spotify.com/track/50Svw9jVf6zNBi6Kpm0v1v"
+    },
+    {
+      "album": {
         "name": "phasing god",
         "url": "https://open.spotify.com/album/2r2WzXMGpAO6ze1gMO16u1"
       },
@@ -4790,6 +4906,28 @@
     },
     {
       "album": {
+        "name": "Skylines",
+        "url": "https://open.spotify.com/album/7k9zg9J556Yxl2CYLZkCdG"
+      },
+      "artists": [
+        {
+          "name": "RejSende",
+          "url": "https://open.spotify.com/artist/6VuJTb9pNKiBCcSlqBewpo"
+        },
+        {
+          "name": "VOLKHIN",
+          "url": "https://open.spotify.com/artist/4zLct3dcGnskzifqZebi2p"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133750,
+      "name": "Skylines",
+      "url": "https://open.spotify.com/track/3kvOTQWodqhF2kJOM4Jwd9"
+    },
+    {
+      "album": {
         "name": "Sleeping City",
         "url": "https://open.spotify.com/album/6Uz5giO3HlABh2J37WQEoW"
       },
@@ -4963,7 +5101,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 133291,
       "name": "Spoon fed",
       "url": "https://open.spotify.com/track/6T8akIF5ID2SaLx1P4TMFK"
@@ -5017,7 +5155,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 183007,
       "name": "Subway Signs",
       "url": "https://open.spotify.com/track/0xchuOuU0MqjKaUrzIPrCv"

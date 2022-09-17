@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4olOMiqFeqU.md) - [plain]
 
 > 100% Pinoy hits from your favorite artists!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,287,083 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,287,423 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4olOMiqFeqU.md) - [plain]
 | 12 | [Dating Tayo](https://open.spotify.com/track/267RumTt5KeLBGl2KWxBL0) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [TJ Monterde](https://open.spotify.com/album/01f1BJjxsFyuX580Fk8Gjk) | 3:59 |
 | 13 | [I Need You More Today](https://open.spotify.com/track/04qDUASuSfVp6fktfsxVej) | [Caleb Santos](https://open.spotify.com/artist/3XEHRbR9NMWfNzQ6TQMS9M), [Viva Music Publishing Inc.](https://open.spotify.com/artist/1d1BeULLUX4HWNVypEUMfy) | [I Need You More Today](https://open.spotify.com/album/1Le1ykkfNX7dMyUYVOf6jj) | 3:53 |
 | 14 | [Leaves](https://open.spotify.com/track/6wdCelHrPh7UfliNjwRTUv) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Leaves](https://open.spotify.com/album/5Yl1Bi501CuE72jaVK4e3y) | 5:10 |
-| 15 | [Binibini](https://open.spotify.com/track/2X5AFygz5SDYlXagyPw8kX) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Binibini](https://open.spotify.com/album/0oJLtle44OSumLZj1WDEf0) | 3:41 |
-| 16 | [Pa\-umaga](https://open.spotify.com/track/3U8MbjNAP56IrzpbEFn1qN) | [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [Pa\-umaga](https://open.spotify.com/album/6d3mjDBVhzN8ianGFJsKKE) | 3:09 |
+| 15 | [Pa\-umaga](https://open.spotify.com/track/3U8MbjNAP56IrzpbEFn1qN) | [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [Pa\-umaga](https://open.spotify.com/album/6d3mjDBVhzN8ianGFJsKKE) | 3:09 |
+| 16 | [Binibini](https://open.spotify.com/track/2X5AFygz5SDYlXagyPw8kX) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Binibini](https://open.spotify.com/album/0oJLtle44OSumLZj1WDEf0) | 3:41 |
 | 17 | [Tadhana](https://open.spotify.com/track/6FIEuf1JIzmCtach0gXpeG) | [Up Dharma Down](https://open.spotify.com/artist/3wbCeEPAW6po7J46netxMT) | [Capacities](https://open.spotify.com/album/1QpFitywD6FWjFWvTmLOw9) | 3:42 |
 | 18 | [Sana \- Single Version](https://open.spotify.com/track/1X4l4i472kW5ofFP8Xo0x0) | [I Belong to the Zoo](https://open.spotify.com/artist/7tKpXx21KVUOR6vvDs6xtg) | [Sana](https://open.spotify.com/album/4njOhY51h2CBqdAX4o41U1) | 4:37 |
 | 19 | [Sa Ngalan Ng Pag\-Ibig](https://open.spotify.com/track/00mBzIWv5gHOYxwuEJXjOG) | [December Avenue](https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m) | [Sa Ngalan Ng Pag\-Ibig](https://open.spotify.com/album/7xconhHQKj7Be4P2KvUmFz) | 4:45 |
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4olOMiqFeqU.md) - [plain]
 | 25 | [Sa Susunod Na Lang](https://open.spotify.com/track/34ob61cxp34Sf7KHK6RnSU) | [PDL](https://open.spotify.com/artist/0iqkVK6sTXi7DZWWOeKy8Q), [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc), [Yuridope](https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY) | [Sa Susunod Na Lang](https://open.spotify.com/album/79UXZq6nXVVBpZgWWxb9Gq) | 3:34 |
 | 26 | [KLWKN](https://open.spotify.com/track/1pi3VCMlGVaXvrjlVOkBPN) | [Music Hero](https://open.spotify.com/artist/52gTrzyF0DyfkFl1DQz9Oq) | [KLWKN](https://open.spotify.com/album/1TmGJJPRkYoxPEAo0xFnQV) | 4:16 |
 | 27 | [214](https://open.spotify.com/track/7gZ3kWNtIxFgxjsm5OTVMB) | [Rivermaya](https://open.spotify.com/artist/1ZTdxfZTeztyAgKUJVLxAI) | [Greatest Hits](https://open.spotify.com/album/65GkUxR6lYlCiYP4mqyZl1) | 4:33 |
-| 28 | [12:51](https://open.spotify.com/track/1FHCU1rDAeaPsBW9byjJ0Q) | [krissy & ericka](https://open.spotify.com/artist/09DdQEMQaaq0f99vqqub3V) | [Twelve: Fifty One \(International Version\)](https://open.spotify.com/album/5M4GVkxOl3joHIkvNrAlbJ) | 4:06 |
-| 29 | [Ngayong Gabi](https://open.spotify.com/track/5sLGYJOhLP197nmkaRMMEH) | [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [Ngayong Gabi](https://open.spotify.com/album/51UmoT2xdda5pAZcRFMiot) | 4:27 |
+| 28 | [Ngayong Gabi](https://open.spotify.com/track/5sLGYJOhLP197nmkaRMMEH) | [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [Ngayong Gabi](https://open.spotify.com/album/51UmoT2xdda5pAZcRFMiot) | 4:27 |
+| 29 | [12:51](https://open.spotify.com/track/1FHCU1rDAeaPsBW9byjJ0Q) | [krissy & ericka](https://open.spotify.com/artist/09DdQEMQaaq0f99vqqub3V) | [Twelve: Fifty One \(International Version\)](https://open.spotify.com/album/5M4GVkxOl3joHIkvNrAlbJ) | 4:06 |
 | 30 | [Maybe The Night](https://open.spotify.com/track/1yDiru08Q6omDOGkZMPnei) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Maybe The Night](https://open.spotify.com/album/6LhZ3QMHGJeTes9cCTxK8e) | 3:37 |
 | 31 | [Beer](https://open.spotify.com/track/6mQzZ2aRnKSNgckAehBgwD) | [The Itchyworms](https://open.spotify.com/artist/5cYJYBMg1n71v7cvthr1SO) | [Noon Time Show](https://open.spotify.com/album/6WzFODPnZ5SW1qTvTELSxW) | 6:04 |
 | 32 | [Magbalik](https://open.spotify.com/track/5zMR44ZH4KVZj4FlhTj3SE) | [Callalily](https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01) | [Destination XYZ](https://open.spotify.com/album/3tIU2WCVDgPwnG4MraWwQ6) | 5:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4olOMiqFeqU.md) - [plain]
 | 49 | [Pasensya Ka Na](https://open.spotify.com/track/5VPxHpJcJEJx9CMMiO7pBE) | [Silent Sanctuary](https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C) | [Langit\. Luha.](https://open.spotify.com/album/1rBuCNm7bhrcDVMAETBXVA) | 4:01 |
 | 50 | [Kahit Ayaw Mo Na](https://open.spotify.com/track/3TxnGSedv9ZKBFtiC0li1z) | [This Band](https://open.spotify.com/artist/5HIZU0JzM0AgfItVOm4E08) | [Kahit Ayaw Mo Na \(Original Movie Soundtrack\)](https://open.spotify.com/album/2dO4oPS5hLVjPZpTD9qhcJ) | 4:03 |
 
-Snapshot ID: `MTY2MDExMTMzMSwwMDAwMDAwMDQxNzc5NzRiYWEyNGExMjJkYjQ1MDM1N2FmNmE1MzI5`
+Snapshot ID: `MTY2MDExMTMzMSwwMDAwMDAwMDk2NzYzMDhlZGVjMDc3MzZlZDhhZThkYmQxYTM2Zjg0`

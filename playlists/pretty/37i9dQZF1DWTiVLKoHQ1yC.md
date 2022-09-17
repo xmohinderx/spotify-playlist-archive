@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 
 > Come alive with this progressive & melodic house selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,716 likes - 80 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,800 likes - 80 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 60 | [Heyoka](https://open.spotify.com/track/17cVuIl1z18wO2cZda3sxA) | [My Friend](https://open.spotify.com/artist/1hg70WTHwGUQ7XDbjy3szw), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [Lager Beers EP](https://open.spotify.com/album/5izcjEZQUvnhfeLWM67n72) | 4:13 |
 | 61 | [The Blame \- Single Edit](https://open.spotify.com/track/3587LxhYAfR3UK9YvuF0F9) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [The Blame](https://open.spotify.com/album/4wLmGWfnd4tKtsn8qkXoxk) | 4:25 |
 | 62 | [Better Place \- Super Flu Remix](https://open.spotify.com/track/2Y9bKUE50cHsTNgYLpM8Pd) | [Godford](https://open.spotify.com/artist/4pUwtnbS6FdBniLp410AOu), [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW) | [Better Place \(Super Flu Remix\)](https://open.spotify.com/album/56hJYPMJvT1VmVmpzYb9ve) | 7:54 |
-| 63 | [White Ghost](https://open.spotify.com/track/6dcOMgnBkzfj4WZcNziVIq) | [J\_ulio](https://open.spotify.com/artist/1otLqs9oi7mIGYERdhM9b2) | [Far Away Connections](https://open.spotify.com/album/34ZraMBlp39ntdY7IUnCfH) | 6:30 |
-| 64 | [Could This B?](https://open.spotify.com/track/6oSaQH2n2x5SVOaGZZB0fi) | [BluePrint](https://open.spotify.com/artist/0oV5K4BDmoENgjwB8lvDmT) | [Could This B? / Stay Curious](https://open.spotify.com/album/4Wj27s5tpvh6WVmSDGwj2R) | 4:00 |
+| 63 | [Could This B?](https://open.spotify.com/track/6oSaQH2n2x5SVOaGZZB0fi) | [BluePrint](https://open.spotify.com/artist/0oV5K4BDmoENgjwB8lvDmT) | [Could This B? / Stay Curious](https://open.spotify.com/album/4Wj27s5tpvh6WVmSDGwj2R) | 4:00 |
+| 64 | [White Ghost](https://open.spotify.com/track/6dcOMgnBkzfj4WZcNziVIq) | [J\_ulio](https://open.spotify.com/artist/1otLqs9oi7mIGYERdhM9b2) | [Far Away Connections](https://open.spotify.com/album/34ZraMBlp39ntdY7IUnCfH) | 6:30 |
 | 65 | [Satisfied \- Qrion Remix](https://open.spotify.com/track/75s1E7gtxXQaKkHMyOOtOp) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ), [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Satisfied \(Qrion Remix\)](https://open.spotify.com/album/7Aqx2HgGpIP8dmyMO3pbwQ) | 4:26 |
 | 66 | [Poison \(feat\. Darla Jade\)](https://open.spotify.com/track/7wNny3grnsHDuHxCrrcpgF) | [Paige](https://open.spotify.com/artist/4Z99ysbztLlZqmYK3urV7w), [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC), [Darla Jade](https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T) | [Poison \(feat\. Darla Jade\)](https://open.spotify.com/album/7wUWLFKic6z5SDcTk8LIoA) | 3:03 |
 | 67 | [Balloons](https://open.spotify.com/track/0NQhw2ZcwkfaVN98QYsY7X) | [Hosini](https://open.spotify.com/artist/3DQ7WGIfJ4z4aQzNE1bNFF) | [Froozen / Balloons](https://open.spotify.com/album/2R0BNhSn4wE1xfQ9R8cLYT) | 3:54 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 76 | [Masina](https://open.spotify.com/track/1iIfC5kyhIN0ny0X6NtjIY) | [Matthias Tanzmann](https://open.spotify.com/artist/6bxLLapj6NByiP5cr6jMeK), [Black Circle](https://open.spotify.com/artist/3f9ttFig9YeqVKerYRPX1M) | [Masina](https://open.spotify.com/album/7km063WgmtcvuzwrguShQy) | 4:00 |
 | 77 | [Some Good Here \- John Monkman Remix](https://open.spotify.com/track/2kH7Ql0mFf5IqyEdS94PfM) | [Rinzen](https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI), [Anaphase](https://open.spotify.com/artist/6JqmJMb21MmVH1UozFIvnv), [John Monkman](https://open.spotify.com/artist/61wk5KcJO2a9mZFzkmOe0f) | [Some Good Here \(John Monkman Remix\)](https://open.spotify.com/album/3qSmczA053XrirG9i0DWvj) | 6:59 |
 | 78 | [Calling For You](https://open.spotify.com/track/1TeVwlRyDjhUeXAe9D6jgA) | [Trance Wax](https://open.spotify.com/artist/28Rn5KfDspTUHLpPfPF8EE) | [Calling For You](https://open.spotify.com/album/7EsyhR8e3RVPG3zLer0rSU) | 3:23 |
-| 79 | [2 Late 4 Love \- Danny Howard Remix](https://open.spotify.com/track/6cCZK1uozaX1RUnUmfXloJ) | [Richie Blacker](https://open.spotify.com/artist/1ZcjObwclhycsS6bdN2Kgn), [Danny Howard](https://open.spotify.com/artist/14MtanGZe4G1fzC8raLFUK) | [2 Late 4 Love \(Danny Howard Remix\)](https://open.spotify.com/album/6obT6ywNJQDjidvpo4BDLK) | 3:39 |
-| 80 | [Colibrí](https://open.spotify.com/track/2ovrPkARvWZVJ2NJeS2AUc) | [BLR](https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y) | [Colibrí](https://open.spotify.com/album/4IoopovDIZ7z0VNusDNCmy) | 3:34 |
+| 79 | [Colibrí](https://open.spotify.com/track/2ovrPkARvWZVJ2NJeS2AUc) | [BLR](https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y) | [Colibrí](https://open.spotify.com/album/4IoopovDIZ7z0VNusDNCmy) | 3:34 |
+| 80 | [2 Late 4 Love \- Danny Howard Remix](https://open.spotify.com/track/6cCZK1uozaX1RUnUmfXloJ) | [Richie Blacker](https://open.spotify.com/artist/1ZcjObwclhycsS6bdN2Kgn), [Danny Howard](https://open.spotify.com/artist/14MtanGZe4G1fzC8raLFUK) | [2 Late 4 Love \(Danny Howard Remix\)](https://open.spotify.com/album/6obT6ywNJQDjidvpo4BDLK) | 3:39 |
 
-Snapshot ID: `MTY0MjE1NzQwNSwwMDAwMDAwMGVjZGMyMjQ3MWYyNjUxYmIzZjZjYTA1N2U2N2JjMDIx`
+Snapshot ID: `MTY0MjE1NzQwNSwwMDAwMDAwMGM5YTMzNmZkYzE0YzNjMWFiNjNjN2Q2MzJjY2VlNjk3`

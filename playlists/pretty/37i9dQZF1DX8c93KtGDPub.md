@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8c93KtGDPub.md) - [plain]
 
 > Play these festive songs upon a winter's night, and have yourself a folksy little Christmas now\. Cover: She & Him
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,536 likes - 157 songs - 9 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,559 likes - 157 songs - 9 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8c93KtGDPub.md) - [plain]
 | 88 | [We Three Kings](https://open.spotify.com/track/06jFpzCr6TfpIL4L0a5fmw) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Home For Christmas](https://open.spotify.com/album/1UB8y2zZGk6kxoDVY026zW) | 2:44 |
 | 89 | [Song for the Angels](https://open.spotify.com/track/4MIDnbVdmaa5sIbdR5BBTN) | [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [Bodies and Minds](https://open.spotify.com/album/2Psey6KZhbYxogDvrqFlo6) | 5:19 |
 | 90 | [In Winter](https://open.spotify.com/track/537nPlvDmbCNzIjMRw5Kee) | [Matt Pond PA](https://open.spotify.com/artist/3JVgWZxQa78cVa2cUuAUQ4) | [Winter Lives](https://open.spotify.com/album/62hP0p3napMAE06DsYt2fg) | 4:03 |
-| 91 | [Winter Wonderland](https://open.spotify.com/track/4sA8dwT4MU0uUGPVLXVZhK) | [The Sweeplings](https://open.spotify.com/artist/3fTedgf4fh8D3s41dP0HWt) | [Sorted Noise Records: A Holiday Album, Vol\. 1](https://open.spotify.com/album/6x2knTjVr1yyrLXV23Rgwn) | 3:10 |
+| 91 | [Winter Wonderland](https://open.spotify.com/track/1Eb21hL7z70CSuqIgMufBf) | [The Sweeplings](https://open.spotify.com/artist/3fTedgf4fh8D3s41dP0HWt) | [Sorted Noise Records: A Holiday Album, Vol\. 1](https://open.spotify.com/album/08dRs9SE1pmfV5pmGZsCwt) | 3:10 |
 | 92 | [O Come, O Come, Emmanuel](https://open.spotify.com/track/3kVnoW7oDuuovp1SyMj9Kb) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [Holidays Rule](https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ) | 4:04 |
 | 93 | [Cathedrals](https://open.spotify.com/track/3ix3bHsj4H8ceIuMe4T5T9) | [Ruby Amanfu](https://open.spotify.com/artist/1lpu6LF7kS0bfnu43pi2u0) | [Standing Still](https://open.spotify.com/album/5dfqwRqPagZSKyB6qRTW2X) | 3:57 |
 | 94 | [Christmas Dream](https://open.spotify.com/track/0Jbz0UjC8LGkirwzM1x0fk) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Christmas Dream](https://open.spotify.com/album/3RJPGxbHnnRRiXAxWKDCV4) | 2:57 |
@@ -116,7 +116,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8c93KtGDPub.md) - [plain]
 | 106 | [Have Yourself a Merry Little Christmas \- Live at the Mac](https://open.spotify.com/track/1WHRjzb9yzWvawfIQDvZln) | [Ciaran Lavery](https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU) | [Have Yourself a Merry Little Christmas \(Live at the Mac\)](https://open.spotify.com/album/5CNa7ShStDgPpCNu6Firf8) | 4:10 |
 | 107 | [Christmas Song](https://open.spotify.com/track/05GBNU3wMadW9u9sBWSleI) | [Cocoon](https://open.spotify.com/artist/15h5B5quwDm2C1rhbtvUPD) | [Bands Under the Radar, Vol\. 3: A Very Indie Xmas](https://open.spotify.com/album/5h9XjfTvHmyyEguisaCi8F) | 3:11 |
 | 108 | [One Bright Star](https://open.spotify.com/track/1AArIMr7UDV8HJ7kS50zP1) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Christmas Grass \- The Collection](https://open.spotify.com/album/2D2t6OQacfD3XgKM2HlGOp) | 3:14 |
-| 109 | [This December](https://open.spotify.com/track/1SNpdbPokipmCJ8rTqbnrm) | [Holley Maher](https://open.spotify.com/artist/3GDAPdQP9OYzIlhd7HkbJj) | [Sorted Noise Records: A Holiday Album, Vol\. 2](https://open.spotify.com/album/18GWTfG4zqCiTR3mxtDwqY) | 3:56 |
+| 109 | [This December](https://open.spotify.com/track/03jjfF3WRY8cUOsf8yFIVw) | [Holley Maher](https://open.spotify.com/artist/3GDAPdQP9OYzIlhd7HkbJj) | [Sorted Noise Records: A Holiday Album, Vol\. 2](https://open.spotify.com/album/5Mj8SnxH6mYUdEIV7w6sbT) | 3:56 |
 | 110 | [Silent Night \(feat\. Anais Mitchell\)](https://open.spotify.com/track/2Zrn4nySOKLYde7iQV7IfZ) | [Wintery Songs in Eleventy Part Harmony](https://open.spotify.com/artist/3b5m0W0Na4vkvStOKOe4El), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Hark](https://open.spotify.com/album/2k1KzX9vOZ7z6LTTHuhA1L) | 1:55 |
 | 111 | [Christmas Kiss](https://open.spotify.com/track/3elTRcb0pkf3YtuMfYIghB) | [Jetty Rae](https://open.spotify.com/artist/2noDZGJxViSST2C5kyz3Gt) | [More Than December](https://open.spotify.com/album/7CENQCViYlqvmTj4GLGRE5) | 2:44 |
 | 112 | [Deck The Halls](https://open.spotify.com/track/5oEhzFDyUcvuTsaQoggDey) | [The Last Bison](https://open.spotify.com/artist/6eJRqkCcePqNJkhk98IDbc) | [Sleigh Ride](https://open.spotify.com/album/6mbPCYFK2QdAzq6zkTvC9t) | 1:27 |
@@ -166,4 +166,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8c93KtGDPub.md) - [plain]
 | 156 | [7 O'clock News / Silent Night](https://open.spotify.com/track/0Va2A1oD5n0ezfvKqPOXaD) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Parsley, Sage, Rosemary And Thyme](https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7) | 2:00 |
 | 157 | [Happy Xmas \(War Is Over\) \- Remastered 2010](https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H), [Yoko Ono](https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ) | [Signature Box](https://open.spotify.com/album/555NIhJIQ4XoS5N7VglF0v) | 3:34 |
 
-Snapshot ID: `MTY0MDMyMjAwMCwwMDAwMDAwMDk1OTUzZTA1ODNjMDdlZjI4ZTVmNWZkNGJhNzYzY2M1`
+Snapshot ID: `MTY0MDMyMjAwMCwwMDAwMDAwMDRhNDMyZGY5NTExNGIxNzAwMTVlOWQxMWU0OTg1ZDNj`

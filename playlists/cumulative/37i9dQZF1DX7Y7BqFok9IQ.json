@@ -55,7 +55,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 229720,
       "name": "All Alone",
       "url": "https://open.spotify.com/track/4QcFM4sEayM4QjvIQjF3bE"
@@ -1410,6 +1410,24 @@
     },
     {
       "album": {
+        "name": "Poison the Water",
+        "url": "https://open.spotify.com/album/0Hl9xfHPd8mm0JTBBf7T9H"
+      },
+      "artists": [
+        {
+          "name": "David Starr",
+          "url": "https://open.spotify.com/artist/6PJuDsfOF3dpzVpdrUIRw1"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231743,
+      "name": "Poison the Water",
+      "url": "https://open.spotify.com/track/4FZTgKUSqTsZ2oSNpHl0O4"
+    },
+    {
+      "album": {
         "name": "Prosecution Blues",
         "url": "https://open.spotify.com/album/3GvnjHR6Vm28smZDaxS0Ww"
       },
@@ -1439,7 +1457,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 206173,
       "name": "Ride",
       "url": "https://open.spotify.com/track/0FwmAMxNdTC515HY3lexJR"
@@ -2075,6 +2093,24 @@
       "duration_ms": 284786,
       "name": "Too Bad",
       "url": "https://open.spotify.com/track/6CCkq87g6MxHZ5uCYCqdk1"
+    },
+    {
+      "album": {
+        "name": "True Lies",
+        "url": "https://open.spotify.com/album/1fNI29m6d0M5c14Lklf0dV"
+      },
+      "artists": [
+        {
+          "name": "Kenny Wayne Shepherd",
+          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351746,
+      "name": "True Lies",
+      "url": "https://open.spotify.com/track/77Xto82GKsFGtx3yDvY10C"
     },
     {
       "album": {

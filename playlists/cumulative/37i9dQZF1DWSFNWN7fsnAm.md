@@ -4,7 +4,7 @@
 
 > Listen to <a href="spotify:artist:1yqxFtPHKcGcv6SXZNdyT9">MK</a>'s favorite tracks\. Updated regularly\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-85 songs - 6 hr 1 min - not published yet
+85 songs - 6 hr 1 min - [published](https://open.spotify.com/playlist/46erbBSgPQOF4GE1BLHuMo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

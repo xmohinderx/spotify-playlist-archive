@@ -4,7 +4,7 @@
 
 > This is Ghost\. The essential tracks, all in one playlist.
 
-50 songs - 3 hr 40 min - [published](https://open.spotify.com/playlist/0EtQG6YP53d23Aucg19flz)
+51 songs - 3 hr 45 min - [published](https://open.spotify.com/playlist/0EtQG6YP53d23Aucg19flz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Devil Church](https://open.spotify.com/track/2o2UpxEGdYpJqSAAmEgpRD) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora \(Deluxe Edition\)](https://open.spotify.com/album/3bChCUtpRC1NaCLYD4unbD) | 1:06 | 2022-05-30 | 2022-09-12 |
 | [Elizabeth](https://open.spotify.com/track/2zQyXaCpKG0yanNaCkjxNt) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Opus Eponymous](https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U) | 4:01 | 2022-07-20 |  |
 | [Elizabeth](https://open.spotify.com/track/5aFBJJDEPNFrZVCPUqeDe9) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Opus Eponymous](https://open.spotify.com/album/5aEgt9uHrVL3QGzKaUSy2J) | 4:01 | 2022-05-30 | 2022-07-21 |
-| [Enter Sandman](https://open.spotify.com/track/08fNsjCflSbHEPDCvAtGnR) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Enter Sandman](https://open.spotify.com/album/3woAIned4wtKWyy5AZqg5v) | 3:51 | 2022-05-30 |  |
+| [Enter Sandman](https://open.spotify.com/track/08fNsjCflSbHEPDCvAtGnR) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Enter Sandman](https://open.spotify.com/album/3woAIned4wtKWyy5AZqg5v) | 3:51 | 2022-05-30 | 2022-09-17 |
 | [Faith](https://open.spotify.com/track/1HPS4eeHYYI1m0qz10BDU9) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm) | 4:29 | 2022-05-30 |  |
 | [From The Pinnacle To The Pit](https://open.spotify.com/track/2J5aJp4HQxcMuxZ6HVM4GC) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora](https://open.spotify.com/album/74QTwjBLo1eLqpjL320rXX) | 4:02 | 2022-05-30 |  |
 | [Ghuleh / Zombie Queen](https://open.spotify.com/track/4yrxgaL6zAsxkeMCwCtORS) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Infestissumam \(Deluxe Version\)](https://open.spotify.com/album/2HlryLawoMpHGIcuDJDfQr) | 7:29 | 2022-05-30 |  |
@@ -44,7 +44,8 @@
 | [Per Aspera Ad Inferi](https://open.spotify.com/track/7yD3gWx3XTQ7UZivdvabv7) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Infestissumam \(Deluxe Version\)](https://open.spotify.com/album/2HlryLawoMpHGIcuDJDfQr) | 4:09 | 2022-07-02 | 2022-08-07 |
 | [Prime Mover](https://open.spotify.com/track/13Tw9FDhXVN5brv974A46H) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Opus Eponymous](https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U) | 3:53 | 2022-05-30 |  |
 | [Rats](https://open.spotify.com/track/4u39IY2QjY1utpNCCF4is0) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm) | 4:21 | 2022-05-30 |  |
-| [Ritual](https://open.spotify.com/track/4hxd9xX8SNH0R2XSrXRATW) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Opus Eponymous](https://open.spotify.com/album/5aEgt9uHrVL3QGzKaUSy2J) | 4:28 | 2022-05-30 |  |
+| [Ritual](https://open.spotify.com/track/4hxd9xX8SNH0R2XSrXRATW) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Opus Eponymous](https://open.spotify.com/album/5aEgt9uHrVL3QGzKaUSy2J) | 4:28 | 2022-05-30 | 2022-09-17 |
+| [Ritual](https://open.spotify.com/track/5ZiTzbMB53mIiP3I4uQCmt) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Opus Eponymous](https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U) | 4:28 | 2022-09-16 |  |
 | [Satan Prayer](https://open.spotify.com/track/1y2iLukn4F2SUVnwF1mHfY) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Opus Eponymous](https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U) | 4:38 | 2022-05-30 |  |
 | [SECULAR HAZE](https://open.spotify.com/track/47Y1Jtxa3c8VCqLZm157IJ) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Infestissumam \(Deluxe Version\)](https://open.spotify.com/album/2HlryLawoMpHGIcuDJDfQr) | 5:11 | 2022-05-30 |  |
 | [See The Light](https://open.spotify.com/track/1dgO96QXgopptwjnaeIC5l) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm) | 4:05 | 2022-08-12 |  |

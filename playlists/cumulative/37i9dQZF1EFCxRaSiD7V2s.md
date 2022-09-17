@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1LOFFo47FopFwql14pkoJP">Jenny Owen Youngs</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-260 songs - 13 hr 28 min - [published](https://open.spotify.com/playlist/16pN73IBRpwEn7YSfpEgt6)
+261 songs - 13 hr 32 min - [published](https://open.spotify.com/playlist/16pN73IBRpwEn7YSfpEgt6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Cinnamon](https://open.spotify.com/track/6KqgHLhsyScGQtoclGOnHv) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Sunflower](https://open.spotify.com/album/09VQgw9zdYyTRCvQMY3lK3) | 2:53 | 2021-12-27 |  |
 | [Cinnamon \(feat\. Genevieve Stokes\)](https://open.spotify.com/track/6aQXVBCsGYRSpUp9cRkz3f) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd), [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [Sunflower: Deluxe](https://open.spotify.com/album/6SqMNL4do3px3cHCyUS8V8) | 2:54 | 2022-05-12 |  |
 | [CITADEL](https://open.spotify.com/track/0qnns7z62BDRdKOUPUi00N) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [MERIDIAN : vol 2](https://open.spotify.com/album/4v5FVDjvhWHQiiZFbnrxWM) | 3:37 | 2021-12-27 | 2022-02-20 |
-| [CITADEL](https://open.spotify.com/track/6F5VBIT4YR3Ow4khVx7wPQ) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [MERIDIAN](https://open.spotify.com/album/4zw23pZvaFm3IlUFhPT3Ss) | 3:37 | 2022-02-19 |  |
+| [CITADEL](https://open.spotify.com/track/0yDknkft5pn0Fj7LZaAQoV) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [MERIDIAN](https://open.spotify.com/album/4uH776h4uovgy3YYG1vbKC) | 3:37 | 2022-09-16 |  |
+| [CITADEL](https://open.spotify.com/track/6F5VBIT4YR3Ow4khVx7wPQ) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [MERIDIAN](https://open.spotify.com/album/4zw23pZvaFm3IlUFhPT3Ss) | 3:37 | 2022-02-19 | 2022-09-17 |
 | [Clean Break](https://open.spotify.com/track/4sjjeWP3klhoNnpRBK05Ui) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Transmitter Failure](https://open.spotify.com/album/1T8PdV0KCGPIATvOyYJ66c) | 3:02 | 2021-12-27 | 2022-08-19 |
 | [Clean Break](https://open.spotify.com/track/6tTnQ36V82X5xdTABjCBl5) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Transmitter Failure \(Bonus Track Version\)](https://open.spotify.com/album/66BFEncEfO6c8zgKXWKBrZ) | 3:02 | 2022-08-18 |  |
 | [Codawoooooooo](https://open.spotify.com/track/4VKMmxgmTeWc39aC5ft9IG) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Once More With Once More, With Feeling](https://open.spotify.com/album/5H8RpSJqEcZxFz2FRhBrTQ) | 0:51 | 2021-12-27 |  |

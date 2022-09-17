@@ -4,7 +4,7 @@
 
 > The perfect playlist to just sit back and chill out with.
 
-338 songs - 21 hr 33 min - [published](https://open.spotify.com/playlist/1RrVDe6f3GZDanuaRyNhUC)
+339 songs - 21 hr 37 min - [published](https://open.spotify.com/playlist/1RrVDe6f3GZDanuaRyNhUC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Goodbye Mr\. Blue](https://open.spotify.com/track/6b97su2rHlDZm0aiyGQCaw) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Goodbye Mr\. Blue](https://open.spotify.com/album/4S8GgZhOvktzQZWA2NXHAX) | 5:00 | 2022-04-01 | 2022-07-29 |
 | [Goodbye Mr\. Blue](https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Chloë and the Next 20th Century](https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz) | 5:00 | 2022-06-10 |  |
 | [GPS \(w/ Felly\)](https://open.spotify.com/track/7HZrYnVlYSsx7MVeBvizgH) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw), [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [GPS \(w/ Felly\)](https://open.spotify.com/album/2PcrCDemJVsysOdpeNXNyP) | 2:48 | 2022-02-25 |  |
+| [Grace](https://open.spotify.com/track/0aJq40QZqvfGubgfKy5knk) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [Grace](https://open.spotify.com/album/44ei9ptYrZ8ys7aXPW6bF8) | 4:13 | 2022-09-16 |  |
 | [Grow into Love](https://open.spotify.com/track/2D3OzSwTcwuNWWs8MacKqz) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Grow Into Love](https://open.spotify.com/album/07dS6wpMwR5hqfH0Mf8KRp) | 2:42 | 2021-12-17 | 2022-07-29 |
 | [Grow into Love](https://open.spotify.com/track/6FloUWDjW3r51mRYyw0vv5) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Seasons of Change](https://open.spotify.com/album/2dyKBgz9mbVHUbeX2lbd8p) | 2:42 | 2022-06-10 | 2022-09-15 |
 | [Guess Again](https://open.spotify.com/track/4Y2365W43JtMuU2os31LUs) | [Jeff Tweedy](https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN) | [Guess Again](https://open.spotify.com/album/637CT2H6ESwzGM6KRVy5IZ) | 3:17 | 2021-12-17 | 2022-07-29 |
@@ -258,7 +259,7 @@
 | [Should I](https://open.spotify.com/track/7bUDoZirLuxyxQEsLEQv6s) | [Arum Rae](https://open.spotify.com/artist/4aqcilLiGfXetHrTuC8DG9) | [Sub Rosa](https://open.spotify.com/album/208D0gsXCpr6urKKD9l4Pu) | 4:04 | 2022-03-25 | 2022-04-21 |
 | [Show Up](https://open.spotify.com/track/1p17XN8yqoY5LHEG0Inqam) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Show Up](https://open.spotify.com/album/1JD1hz1p5bnIX0AE8svwtY) | 3:21 | 2022-06-10 |  |
 | [Show Up](https://open.spotify.com/track/5b6LbhrciovNRfx2SIOI0j) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Scout](https://open.spotify.com/album/4LFFXjvrAvULCfFqgNO7xB) | 3:21 | 2022-03-25 | 2022-04-18 |
-| [Six Years](https://open.spotify.com/track/7DeJ8TdwgNpz6Un0SiskhX) | [A Blaze of Feather](https://open.spotify.com/artist/0j7wLGDwHdUSPLkxCH3GBQ) | [A Blaze of Feather](https://open.spotify.com/album/58yDw8B7OSt91cvXxb896H) | 4:42 | 2022-03-25 |  |
+| [Six Years](https://open.spotify.com/track/7DeJ8TdwgNpz6Un0SiskhX) | [A Blaze of Feather](https://open.spotify.com/artist/0j7wLGDwHdUSPLkxCH3GBQ) | [A Blaze of Feather](https://open.spotify.com/album/58yDw8B7OSt91cvXxb896H) | 4:42 | 2022-03-25 | 2022-09-17 |
 | [Slice of Life](https://open.spotify.com/track/5oUr4PECM3gisd18Nwlrfr) | [Liz Cooper](https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH) | [Slice of Life](https://open.spotify.com/album/0oAdL3ENxGGow7Fy0mWdoz) | 4:43 | 2022-03-25 | 2022-04-21 |
 | [Slide Tackle](https://open.spotify.com/track/5ksM8r8u4AjMwvtqUif9W1) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Jubilee](https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY) | 3:39 | 2022-06-10 |  |
 | [Smoke](https://open.spotify.com/track/1Ncfo3Q2IT4oc3RG719AIz) | [Mosa Wild](https://open.spotify.com/artist/37QzcUFUnGIrn6faZJWFnc) | [Smoke](https://open.spotify.com/album/6TUWxFFYv4cPkgU9HuYGCJ) | 3:47 | 2022-03-25 | 2022-04-17 |

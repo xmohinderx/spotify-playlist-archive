@@ -1,12 +1,12 @@
 {
   "description": "From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.",
-  "num_followers": 318844,
+  "num_followers": 318899,
   "original_name": "Island Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTczNDk5NywwMDAwMDAwMDQ2NGM5MDEwNjBlNmI5Mzc3NDM5ZDBhOGNhMTFkZjA3",
+  "snapshot_id": "MTY1NTczNDk5NywwMDAwMDAwMDEyMzBiM2QwN2JmZDY5MDcxODgwNDcwNGVhMDUxOWM0",
   "tracks": [
     {
       "added_at": "2022-06-20 14:23:17",
@@ -639,22 +639,6 @@
     {
       "added_at": "2022-06-20 14:23:17",
       "album": {
-        "name": "Summer 91 (Looking Back)",
-        "url": "https://open.spotify.com/album/4QCh5emLRWuIg8CUzprNXm"
-      },
-      "artists": [
-        {
-          "name": "Noizu",
-          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Summer 91 (Looking Back)",
-      "url": "https://open.spotify.com/track/4FEcEwbE2vsqhxbTPtiNTL"
-    },
-    {
-      "added_at": "2022-06-20 14:23:17",
-      "album": {
         "name": "Hooked",
         "url": "https://open.spotify.com/album/69QTaXErGkvPW9pQ0GYY4H"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 206250,
       "name": "Hooked",
       "url": "https://open.spotify.com/track/4v7kKFlEDmpVToHOICsXaM"
+    },
+    {
+      "added_at": "2022-06-20 14:23:17",
+      "album": {
+        "name": "Summer 91 (Looking Back)",
+        "url": "https://open.spotify.com/album/4QCh5emLRWuIg8CUzprNXm"
+      },
+      "artists": [
+        {
+          "name": "Noizu",
+          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Summer 91 (Looking Back)",
+      "url": "https://open.spotify.com/track/4FEcEwbE2vsqhxbTPtiNTL"
     },
     {
       "added_at": "2022-06-20 14:23:17",
@@ -799,26 +799,6 @@
     {
       "added_at": "2022-06-20 14:23:17",
       "album": {
-        "name": "Wish You Well",
-        "url": "https://open.spotify.com/album/1yZZdubJ2rovC4QIBP8riQ"
-      },
-      "artists": [
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        },
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        }
-      ],
-      "duration_ms": 205653,
-      "name": "Wish You Well",
-      "url": "https://open.spotify.com/track/1yAPglN5AGf7UoLK062ZYq"
-    },
-    {
-      "added_at": "2022-06-20 14:23:17",
-      "album": {
         "name": "Happy Music / Something on My Mind",
         "url": "https://open.spotify.com/album/4D78IEl2Nl3ywiu254VOVn"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 232625,
       "name": "Happy Music",
       "url": "https://open.spotify.com/track/3rh495Z2rIRwD316blea4f"
+    },
+    {
+      "added_at": "2022-06-20 14:23:17",
+      "album": {
+        "name": "Wish You Well",
+        "url": "https://open.spotify.com/album/1yZZdubJ2rovC4QIBP8riQ"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        }
+      ],
+      "duration_ms": 205653,
+      "name": "Wish You Well",
+      "url": "https://open.spotify.com/track/1yAPglN5AGf7UoLK062ZYq"
     },
     {
       "added_at": "2022-06-20 14:23:17",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2022-06-20 14:23:17",
       "album": {
+        "name": "Forbidden Feelingz",
+        "url": "https://open.spotify.com/album/5OoEG2axfMGY44nUNMayoW"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "duration_ms": 166356,
+      "name": "Forbidden Feelingz",
+      "url": "https://open.spotify.com/track/0wrs5ucXutScEWOhdWdGBB"
+    },
+    {
+      "added_at": "2022-06-20 14:23:17",
+      "album": {
         "name": "Olympia",
         "url": "https://open.spotify.com/album/3r4dG6bUfL4jasKeo50kLE"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 212893,
       "name": "You've Done Enough",
       "url": "https://open.spotify.com/track/77VqW84V88aKD8Bi8CzEsP"
-    },
-    {
-      "added_at": "2022-06-20 14:23:17",
-      "album": {
-        "name": "Forbidden Feelingz",
-        "url": "https://open.spotify.com/album/5OoEG2axfMGY44nUNMayoW"
-      },
-      "artists": [
-        {
-          "name": "Nia Archives",
-          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
-        }
-      ],
-      "duration_ms": 166356,
-      "name": "Forbidden Feelingz",
-      "url": "https://open.spotify.com/track/0wrs5ucXutScEWOhdWdGBB"
     },
     {
       "added_at": "2022-06-20 14:23:17",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2022-06-20 14:23:17",
       "album": {
-        "name": "HOT HOT",
-        "url": "https://open.spotify.com/album/6zMCVXb0hpn4SwVAGlhbYh"
-      },
-      "artists": [
-        {
-          "name": "Bree Runway",
-          "url": "https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w"
-        }
-      ],
-      "duration_ms": 145870,
-      "name": "HOT HOT",
-      "url": "https://open.spotify.com/track/3QBbRbF51EwVKeECZ1Hwy0"
-    },
-    {
-      "added_at": "2022-06-20 14:23:17",
-      "album": {
         "name": "Cola",
         "url": "https://open.spotify.com/album/06M4lDqeBSMxVTFsNE8Sxi"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 223869,
       "name": "Cola",
       "url": "https://open.spotify.com/track/7ir1tVqAtNjctvteJPw5MF"
+    },
+    {
+      "added_at": "2022-06-20 14:23:17",
+      "album": {
+        "name": "HOT HOT",
+        "url": "https://open.spotify.com/album/6zMCVXb0hpn4SwVAGlhbYh"
+      },
+      "artists": [
+        {
+          "name": "Bree Runway",
+          "url": "https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w"
+        }
+      ],
+      "duration_ms": 145870,
+      "name": "HOT HOT",
+      "url": "https://open.spotify.com/track/3QBbRbF51EwVKeECZ1Hwy0"
     },
     {
       "added_at": "2022-06-20 14:23:17",
@@ -1335,6 +1335,26 @@
       "duration_ms": 150261,
       "name": "Way Too Long",
       "url": "https://open.spotify.com/track/4YMApzzqCO31TPxPvgdHhh"
+    },
+    {
+      "added_at": "2022-06-20 14:23:17",
+      "album": {
+        "name": "Dark Matter",
+        "url": "https://open.spotify.com/album/1USrnunDsroJ3keCEZJpxr"
+      },
+      "artists": [
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "Jem Cooke",
+          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
+        }
+      ],
+      "duration_ms": 232245,
+      "name": "Silenced",
+      "url": "https://open.spotify.com/track/2sUkEAXJBIvh9EvuuOOKuW"
     },
     {
       "added_at": "2022-06-20 14:23:17",
@@ -1435,26 +1455,6 @@
       "duration_ms": 189849,
       "name": "Freak",
       "url": "https://open.spotify.com/track/1BKOmg5DzDud3mjDvsdGfQ"
-    },
-    {
-      "added_at": "2022-06-20 14:23:17",
-      "album": {
-        "name": "Dark Matter",
-        "url": "https://open.spotify.com/album/1USrnunDsroJ3keCEZJpxr"
-      },
-      "artists": [
-        {
-          "name": "CamelPhat",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
-        },
-        {
-          "name": "Jem Cooke",
-          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
-        }
-      ],
-      "duration_ms": 232245,
-      "name": "Silenced",
-      "url": "https://open.spotify.com/track/2sUkEAXJBIvh9EvuuOOKuW"
     },
     {
       "added_at": "2022-06-20 14:23:17",
@@ -1844,7 +1844,7 @@
           "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
         },
         {
-          "name": "WizKid",
+          "name": "Wizkid",
           "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],

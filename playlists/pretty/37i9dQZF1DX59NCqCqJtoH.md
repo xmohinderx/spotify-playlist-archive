@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59NCqCqJtoH.md) - [plain]
 
 > We hear you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 900,537 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 901,313 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,22 +82,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59NCqCqJtoH.md) - [plain]
 | 72 | [Kenny](https://open.spotify.com/track/6FmnMoph4yx7zjhuBcrHDv) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Kenny](https://open.spotify.com/album/33xwiZOclaWIDKouzuc32w) | 3:14 |
 | 73 | [London Is Lonely](https://open.spotify.com/track/5dXiKFepHXZktud7z5635H) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [London Is Lonely](https://open.spotify.com/album/7tD8r8V7O1wl4ULxmDZExG) | 3:54 |
 | 74 | [Home for the Summer](https://open.spotify.com/track/14ahZtLV5yKtqQATTfQta0) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Home for the Summer](https://open.spotify.com/album/38Bdsn6is11xS3sKPJsdNX) | 2:35 |
-| 75 | [I Can't Hate You](https://open.spotify.com/track/21NeQgKhabORuZ3pfsPfz5) | [Kayou.](https://open.spotify.com/artist/4kTancl0Qa8Y7J0QKKTCrz), [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [I Can't Hate You](https://open.spotify.com/album/0hza96UteVyFpucn2BpAUc) | 2:58 |
-| 76 | [Bad Idea](https://open.spotify.com/track/4Z0qEl50Xg5oHY1T6XZpQX) | [pxzvc](https://open.spotify.com/artist/4zFUPBeN9jhNn8qkgxEpW9), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Bad Idea](https://open.spotify.com/album/7nC6jmFJ2jpycTEgeu9a4J) | 1:54 |
+| 75 | [Bad Idea](https://open.spotify.com/track/4Z0qEl50Xg5oHY1T6XZpQX) | [pxzvc](https://open.spotify.com/artist/4zFUPBeN9jhNn8qkgxEpW9), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Bad Idea](https://open.spotify.com/album/7nC6jmFJ2jpycTEgeu9a4J) | 1:54 |
+| 76 | [I Can't Hate You](https://open.spotify.com/track/21NeQgKhabORuZ3pfsPfz5) | [Kayou.](https://open.spotify.com/artist/4kTancl0Qa8Y7J0QKKTCrz), [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [I Can't Hate You](https://open.spotify.com/album/0hza96UteVyFpucn2BpAUc) | 2:58 |
 | 77 | [Losing Interest](https://open.spotify.com/track/1oE6bVjho2LQdTkDMq43Yd) | [CuBox](https://open.spotify.com/artist/4zlFLeqKTteBjaFysGR9CU), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Japan](https://open.spotify.com/album/0ebBY53dSSoq5xxcm2NUDX) | 2:50 |
 | 78 | [Only Ones Who Know](https://open.spotify.com/track/7ABWRukVQcXrIrDKDx5Gek) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare \(Standard Version\)](https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw) | 3:01 |
 | 79 | [I Know You so Well](https://open.spotify.com/track/17eeKDTWiREsr23gIYahtE) | [Sarah Meow](https://open.spotify.com/artist/3O7oOXK7KPniAPEUorctsi), [Shiloh](https://open.spotify.com/artist/5r6AkaWwQMMkRBEaaM8AFS) | [Safe.](https://open.spotify.com/album/59kgTkOxM40wktDHGhDEuH) | 1:59 |
 | 80 | [The Silence](https://open.spotify.com/track/72dIN8F7D5ydB3auSqNi84) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [A Black Mile To The Surface](https://open.spotify.com/album/4hruYceqit29o6m4arpAql) | 6:59 |
-| 81 | [Close to Me](https://open.spotify.com/track/4jPr49jXRJHftXlwTEA2w4) | [Laica](https://open.spotify.com/artist/2DqImimq9vdEbnQBxGgihQ) | [Forever](https://open.spotify.com/album/0R2eIVnmPN3dXRj77Gb4Up) | 3:31 |
-| 82 | [i'd rather be alone](https://open.spotify.com/track/1doDUiGBnzCvo5VCUq59L1) | [boodahki](https://open.spotify.com/artist/0BOqSj7jZIVAyQXmpKRcmJ) | [i'd rather be alone](https://open.spotify.com/album/1x3tEgyI1qIANer0bj12bV) | 2:22 |
+| 81 | [i'd rather be alone](https://open.spotify.com/track/1doDUiGBnzCvo5VCUq59L1) | [boodahki](https://open.spotify.com/artist/0BOqSj7jZIVAyQXmpKRcmJ) | [i'd rather be alone](https://open.spotify.com/album/1x3tEgyI1qIANer0bj12bV) | 2:22 |
+| 82 | [Close to Me](https://open.spotify.com/track/4jPr49jXRJHftXlwTEA2w4) | [Laica](https://open.spotify.com/artist/2DqImimq9vdEbnQBxGgihQ) | [Forever](https://open.spotify.com/album/0R2eIVnmPN3dXRj77Gb4Up) | 3:31 |
 | 83 | [What If I Told You That I Love You](https://open.spotify.com/track/74D7JUfU6HYeMx4bZhsHnG) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [What If I Told You That I Love You](https://open.spotify.com/album/0FJdFiVzdDw7YXiNdds38M) | 3:13 |
 | 84 | [Forever & Always](https://open.spotify.com/track/2keT649m2xIywngAVJHsuC) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [Forever & Always](https://open.spotify.com/album/06EYDifphG99Y4dmF44pwe) | 4:09 |
 | 85 | [is your bedroom ceiling bored? \(feat\. Cavetown\)](https://open.spotify.com/track/3ehrCQoouv7NW8LRgcMvRF) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [is your bedroom ceiling bored? \(feat\. Cavetown\)](https://open.spotify.com/album/3EScPN7QqAa3WUVgZe1dNo) | 3:27 |
 | 86 | [more](https://open.spotify.com/track/24Sqz5FNuD6D5Utxeg4DmK) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [always](https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A) | 3:04 |
 | 87 | [Violets](https://open.spotify.com/track/25ndwd0OLtkQLkFBaS9RjT) | [Josh Golden](https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda) | [Violets](https://open.spotify.com/album/38yuckLnYIM6TqyKeSQsRU) | 1:55 |
-| 88 | [i will follow you into the dark \- Spotify Singles](https://open.spotify.com/track/7lxfdfIocUHefodQ8JLyfk) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [Spotify Singles](https://open.spotify.com/album/54lLvzhlVF4QhQMBfPQhtl) | 2:33 |
-| 89 | [Shoot](https://open.spotify.com/track/3gy65ZTYP90rbEhHsHzcM0) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Flight Risk EP](https://open.spotify.com/album/4aRnUT8j0PTjKKW7FJsrvb) | 2:37 |
-| 90 | [Idea of Her](https://open.spotify.com/track/167NK7xPIRNKnSmUE9dBrQ) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Man’s Best Friend](https://open.spotify.com/album/2L1GB55rNVE3rQYPjCeUTt) | 2:48 |
+| 88 | [Idea of Her](https://open.spotify.com/track/167NK7xPIRNKnSmUE9dBrQ) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Man’s Best Friend](https://open.spotify.com/album/2L1GB55rNVE3rQYPjCeUTt) | 2:48 |
+| 89 | [i will follow you into the dark \- Spotify Singles](https://open.spotify.com/track/7lxfdfIocUHefodQ8JLyfk) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [Spotify Singles](https://open.spotify.com/album/54lLvzhlVF4QhQMBfPQhtl) | 2:33 |
+| 90 | [Shoot](https://open.spotify.com/track/3gy65ZTYP90rbEhHsHzcM0) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Flight Risk EP](https://open.spotify.com/album/4aRnUT8j0PTjKKW7FJsrvb) | 2:37 |
 | 91 | [Sorry for Me](https://open.spotify.com/track/5F9WcQalHpZAwKzWi6pBWg) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Sorry for Me](https://open.spotify.com/album/07BwJ6hbLUKarUoMiA34rQ) | 3:17 |
 | 92 | [Smile in the Face of the Devil](https://open.spotify.com/track/0h6X7BCq7IYKHNoXln3LX3) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Smile in the Face of the Devil](https://open.spotify.com/album/4RpOz3IeMf2KmjLn6eEyCC) | 2:38 |
 | 93 | [minor](https://open.spotify.com/track/1G9YZPtxUGfl1yVw7kq4yc) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [minor](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) | 2:40 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59NCqCqJtoH.md) - [plain]
 | 95 | [Don't Leave, Don't Go](https://open.spotify.com/track/07nd9H2REZKIhVgp3n36YL) | [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc) | [Don't Leave, Don't Go / Bleed](https://open.spotify.com/album/1awanVhccvZ0L2WTMm9FfT) | 3:04 |
 | 96 | [WHEN THE DEVIL CRIES](https://open.spotify.com/track/2oeMjGwvO0mDjEYGxO1iLG) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [WHEN THE DEVIL CRIES](https://open.spotify.com/album/0qJDLgO9SYRVocqdP72M7x) | 2:28 |
 | 97 | [change ur mind](https://open.spotify.com/track/58Mh6zmqSo9IvysPAXnG0h) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ), [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24), [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [change ur mind](https://open.spotify.com/album/5Sq4GMxxUnYNkcXZEORRQh) | 3:03 |
-| 98 | [Trashfire](https://open.spotify.com/track/1s3QzfNw4sIhpw7H2bDYll) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Flight Risk EP](https://open.spotify.com/album/4aRnUT8j0PTjKKW7FJsrvb) | 2:51 |
-| 99 | [Insane](https://open.spotify.com/track/3mLFCocZgUvih60frphM6l) | [Sky McCreery](https://open.spotify.com/artist/1LvKB5b2uYh3adUcl1pRPh) | [Insane](https://open.spotify.com/album/21gi2LoATc1aYgKLD39uVy) | 2:46 |
+| 98 | [Insane](https://open.spotify.com/track/3mLFCocZgUvih60frphM6l) | [Sky McCreery](https://open.spotify.com/artist/1LvKB5b2uYh3adUcl1pRPh) | [Insane](https://open.spotify.com/album/21gi2LoATc1aYgKLD39uVy) | 2:46 |
+| 99 | [Trashfire](https://open.spotify.com/track/1s3QzfNw4sIhpw7H2bDYll) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Flight Risk EP](https://open.spotify.com/album/4aRnUT8j0PTjKKW7FJsrvb) | 2:51 |
 | 100 | [argyle](https://open.spotify.com/track/5PlTDE2RLbcC9vBzbGAG4y) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [argyle](https://open.spotify.com/album/3urZZqZs16FNxBfyRZj2HU) | 2:45 |
 
-Snapshot ID: `MTY2MzAzMDkxNCwwMDAwMDAwMGNmZmU5NDgyNDdiYTM2NzZhM2JkYjViZWIyZTk0ZjY0`
+Snapshot ID: `MTY2MzAzMDkxNCwwMDAwMDAwMGM0Mzc1MzIyYTc0NjlkM2ZhY2UyN2Y5OWZhMjhiZDNm`

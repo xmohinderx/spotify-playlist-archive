@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3pxwKjnmDg4kwTc5nItYcx.md) - [plain]
 
 > Let your mind float away with these down\-tempo easy listening tracks\. Cover: Budjerah
 
-[Topsify Australia](https://open.spotify.com/user/popmob) - 5,611 likes - 284 songs - 15 hr 21 min
+[Topsify Australia](https://open.spotify.com/user/popmob) - 5,615 likes - 284 songs - 15 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -154,7 +154,7 @@ pretty - [cumulative](/playlists/cumulative/3pxwKjnmDg4kwTc5nItYcx.md) - [plain]
 | 144 | [More](https://open.spotify.com/track/3mS7QkIx75iVG9JjXzKfIz) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [More](https://open.spotify.com/album/6whNqO63IXyrbpV6iZ1MBL) | 3:48 |
 | 145 | [COMING HOME \(feat\. NIKI\)](https://open.spotify.com/track/27Mp1HAFIhnLBsGXdFcGXG) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [COMING HOME \(feat\. NIKI\)](https://open.spotify.com/album/1BLMrCc9WNdafvEVXxdOab) | 3:30 |
 | 146 | [Psycho](https://open.spotify.com/track/6YZwJSMNL7hB4ItxZtn7jx) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Psycho](https://open.spotify.com/album/5UBAspHjoGNtNAvHAf5aSI) | 3:04 |
-| 147 | [Zombie](https://open.spotify.com/track/4QmTyWBkweHWUCyrBl8n7l) | [LAUF](https://open.spotify.com/artist/5ZTKDvzvC98RpTs4TUbilD), [We Said](https://open.spotify.com/artist/7ECRPQYavYtQFH6gprw7YY) | [Zombie](https://open.spotify.com/album/0g0KAy1S6lLxbL84HL6C6V) | 2:38 |
+| 147 | [Zombie \(feat\. LAUF\)](https://open.spotify.com/track/4QmTyWBkweHWUCyrBl8n7l) | [We Said](https://open.spotify.com/artist/7ECRPQYavYtQFH6gprw7YY), [LAUF](https://open.spotify.com/artist/5ZTKDvzvC98RpTs4TUbilD) | [Zombie \(feat\. LAUF\)](https://open.spotify.com/album/0g0KAy1S6lLxbL84HL6C6V) | 2:38 |
 | 148 | [Some Type Of Way](https://open.spotify.com/track/36kx8fhVUnIkzMWatFPQob) | [Shanae](https://open.spotify.com/artist/6DThBRy7oFjMSWQyQoKY9p) | [Some Type Of Way](https://open.spotify.com/album/2Egeyjj4DTH0EpOQxv4osP) | 2:58 |
 | 149 | [Bad Habits](https://open.spotify.com/track/6PQ88X9TkUIAUIZJHW2upE) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bad Habits](https://open.spotify.com/album/01NhUvviMytvV12pmJiDZH) | 3:51 |
 | 150 | [Mood Ring](https://open.spotify.com/track/1I042sygvOn2C5SybTCuJ1) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Mood Ring](https://open.spotify.com/album/4ww2orXklptrpHj4M8xdvy) | 3:45 |
@@ -293,4 +293,4 @@ pretty - [cumulative](/playlists/cumulative/3pxwKjnmDg4kwTc5nItYcx.md) - [plain]
 | 283 | [Said&Done](https://open.spotify.com/track/5lU7ncUEARvpKJ0jGAgaqO) | [Lara Andallo](https://open.spotify.com/artist/2vUHihKugU0Ml0VZVgzivx) | [Said&Done](https://open.spotify.com/album/3bHF1i9CFWmYU8ZsL6HgFB) | 2:40 |
 | 284 | [180 \(feat\. Lil Spacely\)](https://open.spotify.com/track/2Eph6fuQSCCihTTvhptxfC) | [Lara Andallo](https://open.spotify.com/artist/2vUHihKugU0Ml0VZVgzivx), [Lil Spacely](https://open.spotify.com/artist/1CAaxKxpPMiWEUX2bG7S7n) | [180 \(feat\. Lil Spacely\)](https://open.spotify.com/album/0clsV6sGN7Qrwt4wbv95xx) | 3:14 |
 
-Snapshot ID: `MTUzMSw1NWY4ODU3ZWE2NzI0YmQ1N2QzMmEwNWE2ZDU0MThjNTRiYWMxMDI3`
+Snapshot ID: `MTUzMyw3YTAyYWM0YmNhYTRiN2NkMDYzNWJhY2Y4YjI4ZjQ1MzUwNTA3ZTAx`

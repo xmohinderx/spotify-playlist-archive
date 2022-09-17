@@ -2611,7 +2611,7 @@
     {
       "album": {
         "name": "Sorted Noise Records: A Holiday Album, Vol. 2",
-        "url": "https://open.spotify.com/album/18GWTfG4zqCiTR3mxtDwqY"
+        "url": "https://open.spotify.com/album/5Mj8SnxH6mYUdEIV7w6sbT"
       },
       "artists": [
         {
@@ -2622,6 +2622,24 @@
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 236351,
+      "name": "This December",
+      "url": "https://open.spotify.com/track/03jjfF3WRY8cUOsf8yFIVw"
+    },
+    {
+      "album": {
+        "name": "Sorted Noise Records: A Holiday Album, Vol. 2",
+        "url": "https://open.spotify.com/album/18GWTfG4zqCiTR3mxtDwqY"
+      },
+      "artists": [
+        {
+          "name": "Holley Maher",
+          "url": "https://open.spotify.com/artist/3GDAPdQP9OYzIlhd7HkbJj"
+        }
+      ],
+      "date_added": "2021-11-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-17",
       "duration_ms": 236351,
       "name": "This December",
       "url": "https://open.spotify.com/track/1SNpdbPokipmCJ8rTqbnrm"
@@ -3097,6 +3115,24 @@
     {
       "album": {
         "name": "Sorted Noise Records: A Holiday Album, Vol. 1",
+        "url": "https://open.spotify.com/album/08dRs9SE1pmfV5pmGZsCwt"
+      },
+      "artists": [
+        {
+          "name": "The Sweeplings",
+          "url": "https://open.spotify.com/artist/3fTedgf4fh8D3s41dP0HWt"
+        }
+      ],
+      "date_added": "2021-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190454,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/1Eb21hL7z70CSuqIgMufBf"
+    },
+    {
+      "album": {
+        "name": "Sorted Noise Records: A Holiday Album, Vol. 1",
         "url": "https://open.spotify.com/album/1NRKEQ2RWHcmQ1A81beXio"
       },
       "artists": [
@@ -3125,7 +3161,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 190454,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/4sA8dwT4MU0uUGPVLXVZhK"

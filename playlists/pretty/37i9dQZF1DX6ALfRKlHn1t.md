@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 
 > good vibes only.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,001,487 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,001,558 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 | 36 | [Another Man's Jeans](https://open.spotify.com/track/2Tv3bPKLESHfl8jgAlY2Pv) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Another Man's Jeans](https://open.spotify.com/album/54xLeetI8f6mslHLEJ5K2X) | 2:45 |
 | 37 | [Amber](https://open.spotify.com/track/51UtgWS4z1eMPuLQOzPtNH) | [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [Greatest Hits '93 \- '03](https://open.spotify.com/album/0OsjlbBaSZFbZnXGAUysMG) | 3:31 |
 | 38 | [Flashed Junk Mind](https://open.spotify.com/track/5mpLcXEsk3jjzLFGuNKk5I) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Sadnecessary](https://open.spotify.com/album/5D20ZzsNB377xbshIFP9Nb) | 4:22 |
-| 39 | [FUNERAL GREY](https://open.spotify.com/track/29zvr7PRPQhE8plnBZ44nZ) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [FUNERAL GREY](https://open.spotify.com/album/4BCWDiQzz9tE9KilNixcld) | 2:44 |
-| 40 | [2am](https://open.spotify.com/track/0Tyi56S51KsufCIcqRHWCN) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Life Is Yours](https://open.spotify.com/album/7CBK26TFXHyt2l6NQcXIsq) | 3:44 |
+| 39 | [2am](https://open.spotify.com/track/0Tyi56S51KsufCIcqRHWCN) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Life Is Yours](https://open.spotify.com/album/7CBK26TFXHyt2l6NQcXIsq) | 3:44 |
+| 40 | [FUNERAL GREY](https://open.spotify.com/track/29zvr7PRPQhE8plnBZ44nZ) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [FUNERAL GREY](https://open.spotify.com/album/4BCWDiQzz9tE9KilNixcld) | 2:44 |
 | 41 | [Bad Habit](https://open.spotify.com/track/3huV7eiNpaQlCB3LbZi9bB) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Listen](https://open.spotify.com/album/6kqOHnshP4RMTUWKrhm6Sy) | 3:41 |
 | 42 | [Fever](https://open.spotify.com/track/3Hx7RXqCS7Kzjy2ot2q1Gk) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Turn Blue](https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3) | 4:06 |
 | 43 | [World on Fire \(feat\. Slightly Stoopid\)](https://open.spotify.com/track/35cWnQKyLjmzkq81M51D9n) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [World on Fire](https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB) | 3:58 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 | 65 | [Someday \- Remastered](https://open.spotify.com/track/6NcHJ23mLQKnVxQcOmT7JW) | [Sugar Ray](https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb) | [The Best Of Sugar Ray](https://open.spotify.com/album/2hjQQj7x2YipViOCw6UX1N) | 4:03 |
 | 66 | [Blackout](https://open.spotify.com/track/3R4rGlA4MbG0I3XjfsH8If) | [Sublime With Rome](https://open.spotify.com/artist/3XXrhkZKSGd3CUJQFnx5tQ) | [Blessings](https://open.spotify.com/album/5eL6kdOkLUdF35zemcJJGg) | 3:42 |
 | 67 | [Pacific Coast Highway \(with Trevor Hall\)](https://open.spotify.com/track/6hazTlTm7MKamJWriYDa13) | [The Hip Abduction](https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK), [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [Pacific Coast Highway \(with Trevor Hall\)](https://open.spotify.com/album/2KzhabL9zxpSnPL6cq00Nc) | 3:47 |
-| 68 | [Sugar](https://open.spotify.com/track/3Tuz3Ec6n03nPTAa5knMm8) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Sugar](https://open.spotify.com/album/3Ql9TVwS8g3bnK1ImDhXMX) | 2:42 |
-| 69 | [Feels Like Summer](https://open.spotify.com/track/2jz1bw1p0WQj0PDnVDP0uY) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pacific Daydream](https://open.spotify.com/album/3EwfQtjvyRAXsPWAKO5FDP) | 3:15 |
+| 68 | [Feels Like Summer](https://open.spotify.com/track/2jz1bw1p0WQj0PDnVDP0uY) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pacific Daydream](https://open.spotify.com/album/3EwfQtjvyRAXsPWAKO5FDP) | 3:15 |
+| 69 | [Sugar](https://open.spotify.com/track/3Tuz3Ec6n03nPTAa5knMm8) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Sugar](https://open.spotify.com/album/3Ql9TVwS8g3bnK1ImDhXMX) | 2:42 |
 | 70 | [Ride or Die \(feat\. Foster the People\)](https://open.spotify.com/track/3uJsg8xIH7OpWHxuJaMLJX) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Ride or Die \(feat\. Foster the People\)](https://open.spotify.com/album/4NSPREWQ2t8VdRGqK45UkD) | 4:02 |
 | 71 | [Around The World](https://open.spotify.com/track/06ClI3XK2FPR5uP8tPcFS1) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [WALLS](https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm) | 3:34 |
 | 72 | [Ocean Eyes](https://open.spotify.com/track/1x9oZ6w67OMi1z6WoA6K2y) | [Nick Hexum](https://open.spotify.com/artist/0lXQieFzHiPaeimBBGqAXY) | [Ocean Eyes](https://open.spotify.com/album/5zKQRDvSP8oOvpw8fi6Bph) | 3:22 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 | 89 | [Classic \(feat\. POWERS\)](https://open.spotify.com/track/42UaTVeWaNaME7ttu61ykG) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [POWERS](https://open.spotify.com/artist/0PGB0xsAyDqHHlvNQcgq5S) | [Classic \(feat\. POWERS\)](https://open.spotify.com/album/4TXid0z5ty83lP4tq25sTJ) | 4:08 |
 | 90 | [Monday](https://open.spotify.com/track/55jtGKCCpLEV0zWFf97wVY) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [Further Joy](https://open.spotify.com/album/1rM5i5ofhPY3hdPA5wcozJ) | 2:56 |
 | 91 | [Red Dress](https://open.spotify.com/track/4zag02jtwumRcnPdYYr0Do) | [MAGIC!](https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c) | [Red Dress](https://open.spotify.com/album/77Vs3r6NWtsTdvYs7w7v5J) | 3:20 |
-| 92 | [Heavy as Lead](https://open.spotify.com/track/59HQVKZfaKycUzRTtp1zDO) | [Rebelution](https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc) | [Heavy as Lead](https://open.spotify.com/album/1uqKKrSpCBx15YzUY3f55m) | 2:56 |
-| 93 | [Says She Loves Me](https://open.spotify.com/track/6esi0H0bM3ORbJwgVVCoOt) | [Aer](https://open.spotify.com/artist/25hbSOMmbhgqvonjC876UJ) | [Aer](https://open.spotify.com/album/1wK7QTctYTPfRkkJ9zyyYY) | 3:39 |
+| 92 | [Says She Loves Me](https://open.spotify.com/track/6esi0H0bM3ORbJwgVVCoOt) | [Aer](https://open.spotify.com/artist/25hbSOMmbhgqvonjC876UJ) | [Aer](https://open.spotify.com/album/1wK7QTctYTPfRkkJ9zyyYY) | 3:39 |
+| 93 | [Heavy as Lead](https://open.spotify.com/track/59HQVKZfaKycUzRTtp1zDO) | [Rebelution](https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc) | [Heavy as Lead](https://open.spotify.com/album/1uqKKrSpCBx15YzUY3f55m) | 2:56 |
 | 94 | [Daydreaming](https://open.spotify.com/track/3v5OftOHxaVpaaJ8NArHos) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs), [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Mind The Moon](https://open.spotify.com/album/4IVcJES0Og7KzrtA70DgC2) | 3:19 |
 | 95 | [Guitar Beat](https://open.spotify.com/track/5xPcLp3G2eaR2rrKHKsFME) | [Prelow](https://open.spotify.com/artist/7aSRqRjQAYTEm2fFohlZZn) | [Guitar Beat](https://open.spotify.com/album/0OU7x2IHQ9NgHgYTWYrXRw) | 3:25 |
 | 96 | [Mixtape](https://open.spotify.com/track/7pV3R5btHH6ddO4FYUumej) | [Ballyhoo!](https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ) | [Girls.](https://open.spotify.com/album/731pQqiILP4nsxEUzvRAhf) | 3:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 | 99 | [Chlorine \- Alternative Mix](https://open.spotify.com/track/3ZQgFtjJtmvUZZ8K5OBqIN) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Chlorine \(Alternative Mix\)](https://open.spotify.com/album/5gPTivcCK6JfPNZqoAzP2O) | 3:11 |
 | 100 | [Upgrade](https://open.spotify.com/track/0kr277qNoo4QBUDjzPiSe2) | [TWIN XL](https://open.spotify.com/artist/4OkceeWNJehKqXINqtVeX1), [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [Upgrade](https://open.spotify.com/album/3VgubxrPPu5lXCPJzXLFp7) | 2:41 |
 
-Snapshot ID: `MTY1OTA2NzMyMCwwMDAwMDAwMDMzNmM0YmFlNWJjOWUwMTIxYjZiOGUxZjNmYTJkYmU0`
+Snapshot ID: `MTY1OTA2NzMyMCwwMDAwMDAwMDcwOGUwZWY1YTRjMDU3ZjY4ZTBkOGE5ZjhmM2I5NGNh`

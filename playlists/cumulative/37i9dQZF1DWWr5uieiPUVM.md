@@ -2,7 +2,7 @@
 
 ### [Trapperz Brasil](https://open.spotify.com/playlist/37i9dQZF1DWWr5uieiPUVM)
 
-> 🚂  Aqui é só o trem caro do trap! Foto: Kweller, Enzo Cello
+> 🚂  Aqui é só o trem caro do trap! Foto: DomLaike, Filipe Ret
 
 139 songs - 7 hr 29 min - [published](https://open.spotify.com/playlist/2bZk5f2KVSoGqtFW20OKam)
 

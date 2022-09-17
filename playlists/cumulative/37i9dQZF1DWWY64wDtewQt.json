@@ -540,6 +540,32 @@
     },
     {
       "album": {
+        "name": "bloody!",
+        "url": "https://open.spotify.com/album/3yAw6PBvcHJo3nVyHKEOp8"
+      },
+      "artists": [
+        {
+          "name": "Sadfriendd",
+          "url": "https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH"
+        },
+        {
+          "name": "MUPP",
+          "url": "https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG"
+        },
+        {
+          "name": "fkbambam",
+          "url": "https://open.spotify.com/artist/1BZ5smaHoDSI2a61ErUch6"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113156,
+      "name": "bloody!",
+      "url": "https://open.spotify.com/track/4ZBEfyphqFsSkjWP7y2L6E"
+    },
+    {
+      "album": {
         "name": "YOU'RE NEXT",
         "url": "https://open.spotify.com/album/4z4JBb6IHgWF6X8iB6HGaW"
       },
@@ -895,7 +921,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 125719,
       "name": "DAEDALUS",
       "url": "https://open.spotify.com/track/5OA0Crr2O5sf4vaj7WpNup"
@@ -1095,6 +1121,24 @@
       "duration_ms": 165558,
       "name": "Demons Around",
       "url": "https://open.spotify.com/track/7KXAgGAHEB1Ny89pL6eEA0"
+    },
+    {
+      "album": {
+        "name": "Desolation 2",
+        "url": "https://open.spotify.com/album/0xMdm6pqSb4FKXUhI6iAa1"
+      },
+      "artists": [
+        {
+          "name": "CREEPYMANE",
+          "url": "https://open.spotify.com/artist/4iS0O9GXC7newvIHGqgaEz"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92762,
+      "name": "Desolation 2",
+      "url": "https://open.spotify.com/track/5YQV3dcbq48zCmofyOSzcJ"
     },
     {
       "album": {
@@ -1363,7 +1407,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 122666,
       "name": "DRIFT-ZOKU",
       "url": "https://open.spotify.com/track/5YcNeOOX8etAKtR7I8lNkq"
@@ -1573,7 +1617,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 118053,
       "name": "ETERNAL NIGHT",
       "url": "https://open.spotify.com/track/1yAZgqemZMdzkxFsETP2Wr"
@@ -1733,6 +1777,24 @@
       "duration_ms": 186383,
       "name": "FINAL MINUTES",
       "url": "https://open.spotify.com/track/7wenQbPk2XnCqB2qZAt6NA"
+    },
+    {
+      "album": {
+        "name": "Flare",
+        "url": "https://open.spotify.com/album/04Sl8BlSR2PwDHmYBry2xR"
+      },
+      "artists": [
+        {
+          "name": "Razihel",
+          "url": "https://open.spotify.com/artist/5RKCVcnmcgyhFf85I4Ry9O"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143709,
+      "name": "Flare",
+      "url": "https://open.spotify.com/track/6QeeRsxS1wfIIThMPYOnIK"
     },
     {
       "album": {
@@ -2233,6 +2295,24 @@
       "duration_ms": 112500,
       "name": "Hope",
       "url": "https://open.spotify.com/track/0nKDuouk9A0q5Dk5TLdHgi"
+    },
+    {
+      "album": {
+        "name": "Hot Wheels",
+        "url": "https://open.spotify.com/album/2733aJWV7cYho3462Ighgx"
+      },
+      "artists": [
+        {
+          "name": "Kaito Shoma",
+          "url": "https://open.spotify.com/artist/3Tv1UzQAvn0v0hKTxisXnR"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Hot Wheels",
+      "url": "https://open.spotify.com/track/48CEuCTGBn3ynSGVx2hmEz"
     },
     {
       "album": {
@@ -3810,6 +3890,24 @@
     },
     {
       "album": {
+        "name": "The Midnight Club GT",
+        "url": "https://open.spotify.com/album/2We9hFPWAKxXBmKqSDHXOK"
+      },
+      "artists": [
+        {
+          "name": "Funk Tribu",
+          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286145,
+      "name": "Phonky Tribu",
+      "url": "https://open.spotify.com/track/0uo7p6JtXF7U8x0ktN0Vty"
+    },
+    {
+      "album": {
         "name": "Pleasure",
         "url": "https://open.spotify.com/album/5LEAEsMHNT8rxrP4QOro9Y"
       },
@@ -4364,6 +4462,24 @@
     },
     {
       "album": {
+        "name": "See U",
+        "url": "https://open.spotify.com/album/7C6ieOxP5402mZPtra25P0"
+      },
+      "artists": [
+        {
+          "name": "zetuv",
+          "url": "https://open.spotify.com/artist/1PhDjAsWVkTLg5mUtSOeg9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170887,
+      "name": "See U",
+      "url": "https://open.spotify.com/track/54vyxEzMvLexzEgEBzIUNQ"
+    },
+    {
+      "album": {
         "name": "See u (Extended Version)",
         "url": "https://open.spotify.com/album/6qziqd8C0BQzZsSsT573Zs"
       },
@@ -4851,7 +4967,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 118171,
       "name": "TAKE OFF",
       "url": "https://open.spotify.com/track/6mzhtKI1sI0TkPUPbNAZaM"
@@ -5003,7 +5119,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 132203,
       "name": "THERMAL IMAGER",
       "url": "https://open.spotify.com/track/7nkz4AApDoQGA8jDmonQWX"
@@ -5025,6 +5141,28 @@
       "duration_ms": 124033,
       "name": "TOKYO DRIFT",
       "url": "https://open.spotify.com/track/733RnlYLskyvWMhhzs70sy"
+    },
+    {
+      "album": {
+        "name": "TOKYO KILLER",
+        "url": "https://open.spotify.com/album/4fmHce2bTu0T79q5bil62U"
+      },
+      "artists": [
+        {
+          "name": "southwestplaya",
+          "url": "https://open.spotify.com/artist/0KPe263JaUIXZwnGbdfKvp"
+        },
+        {
+          "name": "Hxtta",
+          "url": "https://open.spotify.com/artist/7whlJYbEqgJ1eRjKvrZnp1"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139354,
+      "name": "TOKYO KILLER",
+      "url": "https://open.spotify.com/track/1unbEE8tHeXtnnhxa117Ww"
     },
     {
       "album": {
@@ -5213,7 +5351,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 136348,
       "name": "UNCOVERED KILLER",
       "url": "https://open.spotify.com/track/4PveqlRhgkZWEeiwEaQ4XS"
@@ -5413,7 +5551,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 96750,
       "name": "WHATDOYOUNEED!",
       "url": "https://open.spotify.com/track/0Ae8mL3jmEVedZaPMaCZqo"

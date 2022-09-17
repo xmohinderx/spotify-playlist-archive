@@ -4,7 +4,7 @@
 
 > Classic pop, rock and folk for a pleasant drive.
 
-69 songs - 4 hr 32 min - not published yet
+69 songs - 4 hr 32 min - [published](https://open.spotify.com/playlist/3Xf5wAvcMfz7qTf5x9WSMa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

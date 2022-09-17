@@ -4,7 +4,7 @@
 
 > Rock for the road\. Cover: The Strokes
 
-70 songs - 4 hr 25 min - not published yet
+70 songs - 4 hr 25 min - [published](https://open.spotify.com/playlist/0itEX35sVXZFearwePfwTy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

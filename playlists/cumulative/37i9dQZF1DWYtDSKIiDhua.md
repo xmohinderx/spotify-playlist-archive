@@ -4,7 +4,7 @@
 
 > The R&B and good vibe tracks for your current mood\. Cover: Jessie Reyez
 
-171 songs - 9 hr 24 min - [published](https://open.spotify.com/playlist/26MnmTp5Ay0CeKf3X2PBvn)
+173 songs - 9 hr 30 min - [published](https://open.spotify.com/playlist/26MnmTp5Ay0CeKf3X2PBvn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,9 @@
 | [NVMD](https://open.spotify.com/track/7ArVzlFsFsQXNseVXmdOyk) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [NVMD](https://open.spotify.com/album/7loTzM9oCoxuoHXWs3crbd) | 3:01 | 2022-06-08 |  |
 | [On Sight](https://open.spotify.com/track/7HrGCco4XvgbbOmXOEE55i) | [LAYA](https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X) | [Um, Hello](https://open.spotify.com/album/6WtGNBLv5568Clwzd8u4vj) | 2:12 | 2022-06-08 |  |
 | [On These Days](https://open.spotify.com/track/50tg0MhVYLYLlUIRkZMtlr) | [Chriselda](https://open.spotify.com/artist/2U9rPOlR5Osiq6sRuL0dSr) | [On These Days](https://open.spotify.com/album/24daMuc7N7ATgrxs1ABsdt) | 3:30 | 2022-07-14 |  |
-| [ONLY ONE](https://open.spotify.com/track/3eOdplB2tlEsEfWd8WKf0e) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [ONLY ONE](https://open.spotify.com/album/6wDeULI9weCchekIbT3FKO) | 3:03 | 2022-09-15 |  |
+| [ONLY ONE](https://open.spotify.com/track/04xnC2Uwq38RPrwCLv6f0G) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [YESSIE](https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV) | 3:03 | 2022-09-16 |  |
+| [ONLY ONE](https://open.spotify.com/track/3eOdplB2tlEsEfWd8WKf0e) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [ONLY ONE](https://open.spotify.com/album/6wDeULI9weCchekIbT3FKO) | 3:03 | 2022-09-15 | 2022-09-17 |
+| [ore ore](https://open.spotify.com/track/2hPvWV02856ZW1LSWbOycO) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [imagine club](https://open.spotify.com/album/1Fhu3FJHqttNA1d6e7VXxC) | 3:31 | 2022-09-16 |  |
 | [Out Loud \(feat\. Kehlani\)](https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Broken Hearts Club](https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y) | 3:23 | 2022-06-08 | 2022-06-17 |
 | [Out of Time](https://open.spotify.com/track/0I6I6yRkVnw0f0QhLR2jOn) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [Talitha.](https://open.spotify.com/artist/4wkxDp8esk6g2W9Fw7IQGY) | [Out of Time](https://open.spotify.com/album/3197emY0R9CBb0WzPoZV1r) | 3:00 | 2022-06-08 | 2022-06-17 |
 | [Overdrive](https://open.spotify.com/track/7er9w4TmVRiRB0yttHS3XW) | [Johnson](https://open.spotify.com/artist/6KnBzfjg7VRyWhXS9OHoWb) | [Overdrive](https://open.spotify.com/album/66x3Gd2WqIxAwAMeINVt9A) | 2:42 | 2022-06-09 | 2022-08-26 |
@@ -139,7 +141,7 @@
 | [Satellite Space Age Edition \(feat\. Louis Cole & Genevieve Artadi\) \[from Insecure: Music From The HBO Original Series, Season 5\]](https://open.spotify.com/track/0Um5dcYQxSTtzboALXL5qf) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Raedio](https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD), [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH), [Genevieve Artadi](https://open.spotify.com/artist/4FGpdN4lqGwjrFx9f2E1RI) | [Insecure: Music From The HBO Original Series, Season 5](https://open.spotify.com/album/74jWOzgLNuKdJHSYOHySXN) | 4:32 | 2022-06-08 | 2022-07-15 |
 | [Say Yea](https://open.spotify.com/track/72kAhVS63uHIQV7drmjjHZ) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [Say Yea](https://open.spotify.com/album/7LRIPWJaK4kQfrfD94zTzS) | 3:25 | 2022-06-30 | 2022-08-26 |
 | [Scenic Drive \(feat\. Ari Lennox & Smino\)](https://open.spotify.com/track/6zIen2DYr2t19vbwqgORY2) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Scenic Drive \(The Tape\)](https://open.spotify.com/album/5HBwLKK7l3N8fovxDlTBpE) | 4:09 | 2022-06-08 | 2022-07-15 |
-| [See Through Love \(feat\. Chris Brown\)](https://open.spotify.com/track/0IogifAdwkriM0XAW0zESH) | [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [R&B MONEY](https://open.spotify.com/album/71nLT87STaJugBB3qub0Ri) | 3:50 | 2022-08-18 |  |
+| [See Through Love \(feat\. Chris Brown\)](https://open.spotify.com/track/0IogifAdwkriM0XAW0zESH) | [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [R&B MONEY](https://open.spotify.com/album/71nLT87STaJugBB3qub0Ri) | 3:50 | 2022-08-18 | 2022-09-17 |
 | [See You Tonight](https://open.spotify.com/track/7mn0jmTCZJ7oy6Pxn5CBRD) | [Adrian Milanio](https://open.spotify.com/artist/0WU77FbXaPSbcMcrOSJQXc), [Dane Amar](https://open.spotify.com/artist/5S68VYXiXt6oq30pKqQAuV) | [See You Tonight](https://open.spotify.com/album/1PGucCJAPXx8aOVX6OW3JM) | 3:05 | 2022-06-23 |  |
 | [Side](https://open.spotify.com/track/3YNgpO4qcJ84ZGftgmysKv) | [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr) | [Side](https://open.spotify.com/album/4AmiK3Gm7keBi59AwVL1mR) | 3:41 | 2022-08-11 | 2022-08-19 |
 | [Siren's Call](https://open.spotify.com/track/0NDaoCMGgit419brBP2W1Z) | [oliverjames](https://open.spotify.com/artist/7xjOe3VSfBxs0ckobQonLS) | [Under The Moon](https://open.spotify.com/album/2hKz3DxbxYqOcvYEP7gLvJ) | 4:27 | 2022-08-25 | 2022-09-09 |

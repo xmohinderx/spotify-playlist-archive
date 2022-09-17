@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXFLaJaASt2D.md) - [plain]
 
 > A collection of tracks for punks big and small.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,830 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,915 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXFLaJaASt2D.md) - [plain]
 | 44 | [Sorrow](https://open.spotify.com/track/5KiS8SFnu21xI74mHgfZ3D) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [The Process Of Belief](https://open.spotify.com/album/0t2Xi8RYL4d7iEuIbUE4zI) | 3:21 |
 | 45 | [May 16](https://open.spotify.com/track/2y2E0ix0iJWQWUMmlbTWjg) | [Lagwagon](https://open.spotify.com/artist/66riGCPfih1Xqk81dDvpvf) | [Let's Talk About Feelings](https://open.spotify.com/album/3Em5AaNRlG0G2ktBYDNQaz) | 2:56 |
 | 46 | [Seether](https://open.spotify.com/track/1SY2vughwKmVPm1Lmf5Nl7) | [Veruca Salt](https://open.spotify.com/artist/2QwJQuBekTA4qF7N7uLHDP) | [American Thighs](https://open.spotify.com/album/5Mjt2iha5C99JBqTjJijg9) | 3:16 |
-| 47 | [New Noise](https://open.spotify.com/track/35iLpqqQg4KrfYAzbvN1vH) | [Refused](https://open.spotify.com/artist/5sdxGvwxI1TkTA6Pu2jnTb) | [The Shape Of Punk To Come \(Deluxe Edition\)](https://open.spotify.com/album/2Us9qPHLvLoTl6HkYAPcz2) | 5:10 |
-| 48 | [Search and Destroy \- Iggy Pop Mix](https://open.spotify.com/track/00sydAz6PeOxYzwG1dRIPi) | [The Stooges](https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3) | [Raw Power](https://open.spotify.com/album/6mxbG8KrOTZIxlP4gzaliM) | 3:28 |
-| 49 | [Don't Want to Know If You Are Lonely](https://open.spotify.com/track/4tPFEWRuNQhibDQSGB2PVE) | [Hüsker Dü](https://open.spotify.com/artist/16bN8mhtDFdegWbg0z3s10) | [Candy Apple Grey](https://open.spotify.com/album/6zoU9wwvh8ETkMsWU3Mtv1) | 3:30 |
+| 47 | [Don't Want to Know If You Are Lonely](https://open.spotify.com/track/4tPFEWRuNQhibDQSGB2PVE) | [Hüsker Dü](https://open.spotify.com/artist/16bN8mhtDFdegWbg0z3s10) | [Candy Apple Grey](https://open.spotify.com/album/6zoU9wwvh8ETkMsWU3Mtv1) | 3:30 |
+| 48 | [New Noise](https://open.spotify.com/track/35iLpqqQg4KrfYAzbvN1vH) | [Refused](https://open.spotify.com/artist/5sdxGvwxI1TkTA6Pu2jnTb) | [The Shape Of Punk To Come \(Deluxe Edition\)](https://open.spotify.com/album/2Us9qPHLvLoTl6HkYAPcz2) | 5:10 |
+| 49 | [Search and Destroy \- Iggy Pop Mix](https://open.spotify.com/track/00sydAz6PeOxYzwG1dRIPi) | [The Stooges](https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3) | [Raw Power](https://open.spotify.com/album/6mxbG8KrOTZIxlP4gzaliM) | 3:28 |
 | 50 | [Worker's Song](https://open.spotify.com/track/6GHfiU4OrRvOVuC9yn8Txl) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Blackout](https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza) | 3:32 |
 | 51 | [To Have And To Have Not](https://open.spotify.com/track/2KeEzXxpADVpW1gbUj0rS7) | [Lars Frederiksen and the Bastards](https://open.spotify.com/artist/64HBI5GPR0TqM0TyAKu0nG) | [Lars Frederiksen And The Bastards](https://open.spotify.com/album/4NnKPdKvKmfX4b8OgPf9uP) | 2:46 |
 | 52 | [Bad Luck](https://open.spotify.com/track/6Y19VBGJBoixg6umIkE7ar) | [Social Distortion](https://open.spotify.com/artist/16nn7kCHPWIB6uK09GQCNI) | [Somewhere Between Heaven And Hell](https://open.spotify.com/album/7yAO087eGmjE9jTUWQw0oj) | 4:24 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXFLaJaASt2D.md) - [plain]
 | 59 | [White People for Peace](https://open.spotify.com/track/53S5rCt8LFsocU95QXoK1X) | [Against Me!](https://open.spotify.com/artist/29lz7gs8edwnnfuXW4FhMl) | [New Wave \(U.S\. Version\)](https://open.spotify.com/album/08IrBeiM2LU3HAqAaHQcQq) | 3:31 |
 | 60 | [New Rose](https://open.spotify.com/track/5eKQ424akKiDjpSveU7I2Y) | [The Damned](https://open.spotify.com/artist/6VeL8VhaMjHTPc5uovFl3h) | [Damned Damned Damned](https://open.spotify.com/album/5tW8vnOGZKVe6pZD5YZa1E) | 2:42 |
 
-Snapshot ID: `MTY0OTc5NjQwNiwwMDAwMDAwMGQ2ZjEzY2I4Y2FmN2MzNTA5NWZiNjQ2ZjQ1YjAxZjFk`
+Snapshot ID: `MTY0OTc5NjQwNiwwMDAwMDAwMGFjNmU0NTBlNWUyMjczMDYzMmNlYTJiOGI2OWI3NWRj`

@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 1970s.",
-  "num_followers": 150440,
+  "num_followers": 150579,
   "original_name": "70s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzAzNjMxMSwwMDAwMDAwMDU5OWY1ZWRkMGJiN2M5NjA1NTE4NWNhNDcxNzUyZjA0",
+  "snapshot_id": "MTY1NzAzNjMxMSwwMDAwMDAwMGZlYTY1YTJiYTNjNDQ1YmJlYmM0ODk0ZjExN2U2MTA3",
   "tracks": [
     {
       "added_at": "2021-11-23 12:34:50",
@@ -671,22 +671,6 @@
     {
       "added_at": "2021-11-23 12:34:50",
       "album": {
-        "name": "Of A Simple Man",
-        "url": "https://open.spotify.com/album/27rTUUNLERkGxzXxBr1d1u"
-      },
-      "artists": [
-        {
-          "name": "Lobo",
-          "url": "https://open.spotify.com/artist/1sldhz8tzC100cRAdfnMht"
-        }
-      ],
-      "duration_ms": 247640,
-      "name": "I'd Love You to Want Me",
-      "url": "https://open.spotify.com/track/71CXzHYYOyNqgtVFpNdeCS"
-    },
-    {
-      "added_at": "2021-11-23 12:34:50",
-      "album": {
         "name": "Don't Shoot Me I'm Only The Piano Player",
         "url": "https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 234666,
       "name": "Daniel",
       "url": "https://open.spotify.com/track/1BvJmtaXsqtH438BcDPeBb"
+    },
+    {
+      "added_at": "2021-11-23 12:34:50",
+      "album": {
+        "name": "Of A Simple Man",
+        "url": "https://open.spotify.com/album/27rTUUNLERkGxzXxBr1d1u"
+      },
+      "artists": [
+        {
+          "name": "Lobo",
+          "url": "https://open.spotify.com/artist/1sldhz8tzC100cRAdfnMht"
+        }
+      ],
+      "duration_ms": 247640,
+      "name": "I'd Love You to Want Me",
+      "url": "https://open.spotify.com/track/71CXzHYYOyNqgtVFpNdeCS"
     },
     {
       "added_at": "2021-11-23 12:34:50",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2021-11-23 12:34:50",
       "album": {
-        "name": "Dreamboat Annie",
-        "url": "https://open.spotify.com/album/2N0AgtWbCmVoNUl2GN1opH"
-      },
-      "artists": [
-        {
-          "name": "Heart",
-          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
-        }
-      ],
-      "duration_ms": 121706,
-      "name": "Dreamboat Annie",
-      "url": "https://open.spotify.com/track/7IyuwRPPNq6gYI1vzqKsrU"
-    },
-    {
-      "added_at": "2021-11-23 12:34:50",
-      "album": {
         "name": "London Town (Expanded Edition)",
         "url": "https://open.spotify.com/album/5ye0I2FTRyBCNSbxk5KsTk"
       },
@@ -1375,18 +1359,18 @@
     {
       "added_at": "2021-11-23 12:34:50",
       "album": {
-        "name": "All Things Must Pass (Remastered 2014)",
-        "url": "https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6"
+        "name": "Dreamboat Annie",
+        "url": "https://open.spotify.com/album/2N0AgtWbCmVoNUl2GN1opH"
       },
       "artists": [
         {
-          "name": "George Harrison",
-          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+          "name": "Heart",
+          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
         }
       ],
-      "duration_ms": 430866,
-      "name": "Isn't It A Pity - Remastered 2014",
-      "url": "https://open.spotify.com/track/25fDeVbN8AYWRriJfutwaG"
+      "duration_ms": 121706,
+      "name": "Dreamboat Annie",
+      "url": "https://open.spotify.com/track/7IyuwRPPNq6gYI1vzqKsrU"
     },
     {
       "added_at": "2021-11-23 12:34:50",
@@ -1403,6 +1387,22 @@
       "duration_ms": 412040,
       "name": "Miracles",
       "url": "https://open.spotify.com/track/5dFvprlP5JS7gxeaMhMOWS"
+    },
+    {
+      "added_at": "2021-11-23 12:34:50",
+      "album": {
+        "name": "All Things Must Pass (Remastered 2014)",
+        "url": "https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "duration_ms": 430866,
+      "name": "Isn't It A Pity - Remastered 2014",
+      "url": "https://open.spotify.com/track/25fDeVbN8AYWRriJfutwaG"
     },
     {
       "added_at": "2021-11-23 12:34:50",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2021-11-23 12:34:50",
       "album": {
+        "name": "Wings Greatest",
+        "url": "https://open.spotify.com/album/3ukVviHMHQj6H1tMjRjrY5"
+      },
+      "artists": [
+        {
+          "name": "Wings",
+          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
+        }
+      ],
+      "duration_ms": 286346,
+      "name": "Mull Of Kintyre",
+      "url": "https://open.spotify.com/track/24RwOcKkC0hdiN1j3zjN1E"
+    },
+    {
+      "added_at": "2021-11-23 12:34:50",
+      "album": {
         "name": "Super Hits",
         "url": "https://open.spotify.com/album/6l1NspIWkj0oyUyevEmrHZ"
       },
@@ -1507,38 +1523,6 @@
     {
       "added_at": "2021-11-23 12:34:50",
       "album": {
-        "name": "All Things Must Pass (2020 Mix)",
-        "url": "https://open.spotify.com/album/3F3illSUdMEOECbU7HKRG8"
-      },
-      "artists": [
-        {
-          "name": "George Harrison",
-          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
-        }
-      ],
-      "duration_ms": 226960,
-      "name": "All Things Must Pass - 2020 Mix",
-      "url": "https://open.spotify.com/track/02fXDM2myvnYF5NyCkKPvp"
-    },
-    {
-      "added_at": "2021-11-23 12:34:50",
-      "album": {
-        "name": "Wings Greatest",
-        "url": "https://open.spotify.com/album/3ukVviHMHQj6H1tMjRjrY5"
-      },
-      "artists": [
-        {
-          "name": "Wings",
-          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
-        }
-      ],
-      "duration_ms": 286346,
-      "name": "Mull Of Kintyre",
-      "url": "https://open.spotify.com/track/24RwOcKkC0hdiN1j3zjN1E"
-    },
-    {
-      "added_at": "2021-11-23 12:34:50",
-      "album": {
         "name": "Blood On The Tracks",
         "url": "https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF"
       },
@@ -1571,6 +1555,22 @@
     {
       "added_at": "2021-11-23 12:34:50",
       "album": {
+        "name": "All Things Must Pass (2020 Mix)",
+        "url": "https://open.spotify.com/album/3F3illSUdMEOECbU7HKRG8"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "duration_ms": 226960,
+      "name": "All Things Must Pass - 2020 Mix",
+      "url": "https://open.spotify.com/track/02fXDM2myvnYF5NyCkKPvp"
+    },
+    {
+      "added_at": "2021-11-23 12:34:50",
+      "album": {
         "name": "Player",
         "url": "https://open.spotify.com/album/1uZ7slfpVTucDk922Btj5B"
       },
@@ -1583,6 +1583,22 @@
       "duration_ms": 265221,
       "name": "This Time I'm In It For Love",
       "url": "https://open.spotify.com/track/0WEbxRkrGvgDQ5eBm6iH8n"
+    },
+    {
+      "added_at": "2021-11-23 12:34:50",
+      "album": {
+        "name": "Venus And Mars (Archive Collection)",
+        "url": "https://open.spotify.com/album/5B1c0VlK24gvkbJx2g9Ft9"
+      },
+      "artists": [
+        {
+          "name": "Wings",
+          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
+        }
+      ],
+      "duration_ms": 240986,
+      "name": "Listen To What The Man Said - Remastered 2014",
+      "url": "https://open.spotify.com/track/0SkpjIqhANcC2QQu8DIuwG"
     },
     {
       "added_at": "2021-12-21 06:05:15",
@@ -1647,22 +1663,6 @@
       "duration_ms": 288453,
       "name": "Getting In Tune",
       "url": "https://open.spotify.com/track/0M7tdKXvtrEk26j8nXFtvC"
-    },
-    {
-      "added_at": "2021-11-23 12:34:50",
-      "album": {
-        "name": "Venus And Mars (Archive Collection)",
-        "url": "https://open.spotify.com/album/5B1c0VlK24gvkbJx2g9Ft9"
-      },
-      "artists": [
-        {
-          "name": "Wings",
-          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
-        }
-      ],
-      "duration_ms": 240986,
-      "name": "Listen To What The Man Said - Remastered 2014",
-      "url": "https://open.spotify.com/track/0SkpjIqhANcC2QQu8DIuwG"
     },
     {
       "added_at": "2021-11-23 12:34:50",
@@ -1889,6 +1889,22 @@
       "url": "https://open.spotify.com/track/7f8mgCngOGhoRNAmhN6GIo"
     },
     {
+      "added_at": "2021-11-23 12:54:05",
+      "album": {
+        "name": "Lola Versus Powerman and the Moneygoround, Pt. 1",
+        "url": "https://open.spotify.com/album/70kpGi2o0I7NY4DfwIN2p0"
+      },
+      "artists": [
+        {
+          "name": "The Kinks",
+          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
+        }
+      ],
+      "duration_ms": 201022,
+      "name": "Strangers - 2020 Stereo Remaster",
+      "url": "https://open.spotify.com/track/1LH9QyMF3YIqYRoVsoXihB"
+    },
+    {
       "added_at": "2021-11-23 12:34:50",
       "album": {
         "name": "Fly Like An Eagle",
@@ -1919,22 +1935,6 @@
       "duration_ms": 200907,
       "name": "Parisienne Walkways",
       "url": "https://open.spotify.com/track/60Kyw7i4M7E2WAlFozsOsR"
-    },
-    {
-      "added_at": "2021-11-23 12:54:05",
-      "album": {
-        "name": "Lola Versus Powerman and the Moneygoround, Pt. 1",
-        "url": "https://open.spotify.com/album/70kpGi2o0I7NY4DfwIN2p0"
-      },
-      "artists": [
-        {
-          "name": "The Kinks",
-          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
-        }
-      ],
-      "duration_ms": 201022,
-      "name": "Strangers - 2020 Stereo Remaster",
-      "url": "https://open.spotify.com/track/1LH9QyMF3YIqYRoVsoXihB"
     }
   ],
   "unique_name": "70s Soft Rock",

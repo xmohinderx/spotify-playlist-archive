@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaB9aWy6BzCT.md) - [plain]
 
 > Los grandes éxitos de Daddy Yankee y Nicky Jam en un mismo lugar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,690 likes - 57 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,810 likes - 57 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaB9aWy6BzCT.md) - [plain]
 | 8 | [X](https://open.spotify.com/track/5YUyW9opqNsMSEzzecZih1) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Intimo](https://open.spotify.com/album/1CYQlkKE5Q0khU6eMwVAVt) | 2:52 |
 | 9 | [La Despedida](https://open.spotify.com/track/33a2zTGZocgU9XVDDILHM3) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Mundial \(Deluxe Version\)](https://open.spotify.com/album/45se0M80yOL4t9j3REDyEK) | 3:22 |
 | 10 | [Travesuras](https://open.spotify.com/track/2t7LjWmKWJV1X59zYaCsvy) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Travesuras](https://open.spotify.com/album/0bHiWhnjri1A0PSLEQE0He) | 3:15 |
-| 11 | [¿Qué Tengo Que Hacer?](https://open.spotify.com/track/0nssGbqC6ZSMx0OliWCkHk) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Talento de Barrio](https://open.spotify.com/album/5fn6sCofBYgRn6OICMeDvr) | 3:38 |
+| 11 | [¿Qué Tengo Que Hacer?](https://open.spotify.com/track/0Xfo7PfltbOrAiBs0eSCTH) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Talento de Barrio](https://open.spotify.com/album/7JeWY0pvC27pCgn5eiSeV6) | 3:38 |
 | 12 | [Hasta el Amanecer](https://open.spotify.com/track/5Fim1gaXBgsiFfsQAfQSDS) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Fénix](https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ) | 3:18 |
 | 13 | [Ella Me Levanto](https://open.spotify.com/track/7fGODUqa0gtkb72oBVCgCD) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [El Cartel: The Big Boss](https://open.spotify.com/album/6FwmC2DvXlzz23X8nAWMbN) | 3:29 |
 | 14 | [Lo Que Pasó, Pasó](https://open.spotify.com/track/26QKsGW4hMuwiEE1ftUMHe) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Barrio Fino \(Bonus Track Version\)](https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2) | 3:30 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaB9aWy6BzCT.md) - [plain]
 | 56 | [Descontrol](https://open.spotify.com/track/42RRK0WSxwG117CEFHdGOY) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Mundial \(Deluxe Version\)](https://open.spotify.com/album/45se0M80yOL4t9j3REDyEK) | 2:52 |
 | 57 | [Bella y Sensual](https://open.spotify.com/track/0ERbK7qVqveCaBWIiYCrl3) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Golden](https://open.spotify.com/album/6bm9EpUNvQ9xMglBJGRmgS) | 3:24 |
 
-Snapshot ID: `MTY2MDc1NjY5NCwwMDAwMDAwMDc3OTg4NDVmYmZiNTQ3ZWU4NjBkZGQ5YTllMzc5YzU1`
+Snapshot ID: `MTY2MDc1NjY5NCwwMDAwMDAwMDkwOTY3M2NkMWRkNjQ0Y2Q5NGI1MTM2N2ZjZjg1OTRm`

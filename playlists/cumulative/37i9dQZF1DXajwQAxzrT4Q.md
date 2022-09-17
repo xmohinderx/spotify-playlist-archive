@@ -4,7 +4,7 @@
 
 > Bounce to the Brick City sound\. From New Jersey to the world\. Cover: UNIIQU3.
 
-174 songs - 6 hr 54 min - [published](https://open.spotify.com/playlist/4ILVMe10Lfw8QYUgZ8QkTU)
+175 songs - 6 hr 56 min - [published](https://open.spotify.com/playlist/4ILVMe10Lfw8QYUgZ8QkTU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [For You \- DJ Taj Jersey Mix](https://open.spotify.com/track/0EWOt9lZ1yvpGCWTeIjwsp) | [IV JAY](https://open.spotify.com/artist/0S63sOasTLdgPXIycsCsMX), [DJ Taj](https://open.spotify.com/artist/0QOP5VL6UOJIz4GlbWL3rk) | [5th Element Jersey Club Remixes](https://open.spotify.com/album/3RWldjbDfsE9DUalUXLACQ) | 2:01 | 2022-02-11 | 2022-09-02 |
 | [Free Me](https://open.spotify.com/track/6icjYa5MypaFUEmRx7P1uK) | [YK ACE](https://open.spotify.com/artist/1UnCAUGx1MRYmpiH0vCgCx) | [Jersey Vs The World](https://open.spotify.com/album/3R2D8w6ZlGzNTgJlUOFdfP) | 2:50 | 2022-04-01 |  |
 | [Fuck It up Challenge](https://open.spotify.com/track/0v2POEELhkbrIWVVrLKXft) | [DJ Telly Tellz](https://open.spotify.com/artist/6ifY5vVp7V2s5orUSQufNM) | [Jersey Khan](https://open.spotify.com/album/5WA4Jt72UF7MclAaCZBFXu) | 1:35 | 2022-02-11 | 2022-07-29 |
-| [Fuck It up Challenge](https://open.spotify.com/track/1JWskKHxYTXSUEKPsv6hje) | [DJ Telly Tellz](https://open.spotify.com/artist/6ifY5vVp7V2s5orUSQufNM) | [Jersey Khan](https://open.spotify.com/album/4Vmds5n2MHBb6HXEs4aY9Z) | 1:35 | 2022-07-22 |  |
+| [Fuck It up Challenge](https://open.spotify.com/track/1JWskKHxYTXSUEKPsv6hje) | [DJ Telly Tellz](https://open.spotify.com/artist/6ifY5vVp7V2s5orUSQufNM) | [Jersey Khan](https://open.spotify.com/album/4Vmds5n2MHBb6HXEs4aY9Z) | 1:35 | 2022-07-22 | 2022-09-17 |
 | [Get It TT Challenge](https://open.spotify.com/track/3Txdc1LG5pXtW9Lbpqcfab) | [DJ Flex](https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125), [Prince Tae](https://open.spotify.com/artist/7gKJ3JT1cXEumnKBqprbLw) | [Get It TT Challenge](https://open.spotify.com/album/7lX2lIMHg5QKauvcwwvt8u) | 1:48 | 2022-02-11 | 2022-07-22 |
 | [Get Jumped \(with Bandmanrill\)](https://open.spotify.com/track/6KRg5sE4TS4yHzujspaRGY) | [Asian Doll](https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J), [Bandmanrill](https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1) | [Get Jumped](https://open.spotify.com/album/2bKKwvt0HsusnQN5gOOeRt) | 2:04 | 2022-07-08 |  |
 | [Give It 2 Em \- Remix](https://open.spotify.com/track/2tAnY41RqXmq1nUlvq9CBw) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk), [Tre Oh Fie](https://open.spotify.com/artist/6cA0eTMEit4fD6ZbTNoG4p), [DJ Jayhood](https://open.spotify.com/artist/7s0NPSWJQJOS4TNhENy85G), [DJ TBoogie](https://open.spotify.com/artist/3BM1QrNPAXUDliDwey7Hlz) | [Give It 2 Em \(Remix\)](https://open.spotify.com/album/2TzG1D0BvG7p1V5VT30UiK) | 2:00 | 2022-02-11 |  |
@@ -181,6 +181,7 @@
 | [Weak \(Bend Over\)](https://open.spotify.com/track/16PG9ykp0W7xXJoQNQkHa2) | [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK), [Kyle Edwards](https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2) | [Ayo Smallz](https://open.spotify.com/album/7s6M62riQwHDzomBaeYp3E) | 1:25 | 2022-02-11 |  |
 | [When We Get Home](https://open.spotify.com/track/0T6FWFUiWZeMFsJwCGZRpA) | [Mike Hardy](https://open.spotify.com/artist/1RTH5BpQTgj2EUBgE357It), [West End Tricks](https://open.spotify.com/artist/4KWruAZX5BRTjIW1l9wgSK) | [When We Get Home](https://open.spotify.com/album/3caxs1G4p2kggKYYbg5RQf) | 2:07 | 2022-02-11 | 2022-07-25 |
 | [When We Vibe \- DeFalco Remix](https://open.spotify.com/track/59IH8DOmxiE2bfMl4SBVAv) | [Noa James](https://open.spotify.com/artist/03lFyWOEdgNdHvpdxZbfC6), [Eugene O'Neil](https://open.spotify.com/artist/6KwtNpi7qRdWa0TR2S6HUW) | [When We Vibe \(DeFalco Remix\)](https://open.spotify.com/album/3tHIvRqrICU2PBLQnaRIpB) | 2:28 | 2022-02-11 | 2022-07-29 |
+| [Who You Touch](https://open.spotify.com/track/3wrgUFBUNcKnZf0MrR4uM4) | [Sha EK](https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9), [Bandmanrill](https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1) | [Face of the What](https://open.spotify.com/album/0hA6PDNYcFeSJYj4CceZuL) | 1:48 | 2022-09-16 |  |
 | [Why You Think You're Fierce \- Original Mix](https://open.spotify.com/track/66buYvYepobfo8eL6zkvJ0) | [DJ Tray](https://open.spotify.com/artist/6Yakyed4COpN5BydwyHOPg) | [New Jersey Club EP](https://open.spotify.com/album/7yYuQp4Tc1dbFnIHPb9pJ4) | 2:11 | 2022-02-11 |  |
 
 \*This playlist was first scraped on 2022-02-25. Prior content cannot be recovered.

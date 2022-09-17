@@ -2910,6 +2910,28 @@
     },
     {
       "album": {
+        "name": "One",
+        "url": "https://open.spotify.com/album/0VNoWNuBCHyc0ibxfyxyEI"
+      },
+      "artists": [
+        {
+          "name": "Allyawan",
+          "url": "https://open.spotify.com/artist/5Pcez7u1H2Po6e2LmMdF3f"
+        },
+        {
+          "name": "Eek-A-Mouse",
+          "url": "https://open.spotify.com/artist/6xqlgBccdlxUh5DeJSx2ho"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260168,
+      "name": "Smugglaren",
+      "url": "https://open.spotify.com/track/6vZ3MadtYqe7xEITIJbcr0"
+    },
+    {
+      "album": {
         "name": "Blacka Rasta",
         "url": "https://open.spotify.com/album/6a8pZmRJxeCPG7XUFGiCYG"
       },
@@ -3243,7 +3265,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 182378,
       "name": "Teaterapan",
       "url": "https://open.spotify.com/track/6uZEw8eryA76WSAST3yIiv"

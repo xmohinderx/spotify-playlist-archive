@@ -110,6 +110,24 @@
     },
     {
       "album": {
+        "name": "Are You That Somebody",
+        "url": "https://open.spotify.com/album/3leLClL6IJTf7Pez7yJKJD"
+      },
+      "artists": [
+        {
+          "name": "Aaliyah",
+          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265666,
+      "name": "Are You That Somebody",
+      "url": "https://open.spotify.com/track/1sSuFkO3m3Cr6YN24NYol5"
+    },
+    {
+      "album": {
         "name": "400 Degreez",
         "url": "https://open.spotify.com/album/6wpqS71CJr3I0dLguYiZdJ"
       },
@@ -147,7 +165,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 186840,
       "name": "Backstabber",
       "url": "https://open.spotify.com/track/4GRFzKI7jTZ3kbMfouc7bn"
@@ -235,7 +253,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 227986,
       "name": "Beauty And A Beat",
       "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
@@ -297,7 +315,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 163216,
       "name": "Body",
       "url": "https://open.spotify.com/track/21RzyxY3EFaxVy6K4RqaU9"
@@ -413,10 +431,28 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 154666,
       "name": "Bubblegum Bitch",
       "url": "https://open.spotify.com/track/6IbnUaczZBT34DhaD6S18F"
+    },
+    {
+      "album": {
+        "name": "PCD",
+        "url": "https://open.spotify.com/album/5x8e8UcCeOgrOzSnDGuPye"
+      },
+      "artists": [
+        {
+          "name": "The Pussycat Dolls",
+          "url": "https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225560,
+      "name": "Buttons",
+      "url": "https://open.spotify.com/track/3BxWKCI06eQ5Od8TY2JBeA"
     },
     {
       "album": {
@@ -431,7 +467,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 214739,
       "name": "Cool for the Summer",
       "url": "https://open.spotify.com/track/3uwnnTQcHM1rDqSfA4gQNz"
@@ -504,6 +540,24 @@
     },
     {
       "album": {
+        "name": "Welcome to the Dollhouse",
+        "url": "https://open.spotify.com/album/3NSb7dq7re8pssO2ukY1ta"
+      },
+      "artists": [
+        {
+          "name": "Danity Kane",
+          "url": "https://open.spotify.com/artist/3FD9VAd0ppjmKbfxF4LzUh"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244266,
+      "name": "Damaged",
+      "url": "https://open.spotify.com/track/4yHFxB8kzzeuNvoouR8N0N"
+    },
+    {
+      "album": {
         "name": "Finally Famous",
         "url": "https://open.spotify.com/album/2fRLnox9PQ9nos2YYdcYwE"
       },
@@ -523,6 +577,28 @@
       "duration_ms": 220293,
       "name": "Dance (A$$) Remix",
       "url": "https://open.spotify.com/track/3ZAMtgYJFoHwJjFkhkXqKr"
+    },
+    {
+      "album": {
+        "name": "Not 4 Sale",
+        "url": "https://open.spotify.com/album/4mvT7q9PuuBWZcVyUnZP8e"
+      },
+      "artists": [
+        {
+          "name": "Kardinal Offishall",
+          "url": "https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246053,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/4NOZ35Dhucr6UlVyLOtktd"
     },
     {
       "album": {
@@ -555,7 +631,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 203866,
       "name": "Dynamite",
       "url": "https://open.spotify.com/track/1DqdF42leyFIzqNDv9CjId"
@@ -801,7 +877,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 192533,
       "name": "Get the Party Started",
       "url": "https://open.spotify.com/track/02jcEwywffn3Tsb48fXmlW"
@@ -983,7 +1059,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 451826,
       "name": "Gypsy Woman (She's Homeless) (La Da Dee La Da Da) - Basement Boy Strip To The Bone Mix",
       "url": "https://open.spotify.com/track/1SShxVVBeZBCY7WddnksPz"
@@ -1005,7 +1081,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 383546,
       "name": "Heads Will Roll - A-Trak Remix",
       "url": "https://open.spotify.com/track/2idmlkd8oUaQvYEtINpLBX"
@@ -1049,10 +1125,28 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 220486,
       "name": "High Fashion (feat. Mustard)",
       "url": "https://open.spotify.com/track/07KXEDMj78x68D884wgVEm"
+    },
+    {
+      "album": {
+        "name": "Love Angel Music Baby (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3Lqn8M0QxPLIPRJ4nUKTGN"
+      },
+      "artists": [
+        {
+          "name": "Gwen Stefani",
+          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199853,
+      "name": "Hollaback Girl",
+      "url": "https://open.spotify.com/track/0LzrhCZFXW94Y8nwtTuRlw"
     },
     {
       "album": {
@@ -1107,7 +1201,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 157152,
       "name": "I Love It (feat. Charli XCX)",
       "url": "https://open.spotify.com/track/6HZ9VeI5IRFCNQLXhpF4bq"
@@ -1181,10 +1275,32 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 208866,
       "name": "Kiss Me More (feat. SZA)",
       "url": "https://open.spotify.com/track/748mdHapucXQri7IAO8yFK"
+    },
+    {
+      "album": {
+        "name": "Press Play",
+        "url": "https://open.spotify.com/album/7kIi4z3UO8ZqH3GVX18p7h"
+      },
+      "artists": [
+        {
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        {
+          "name": "Keyshia Cole",
+          "url": "https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388226,
+      "name": "Last Night (feat. Keyshia Cole)",
+      "url": "https://open.spotify.com/track/5gfPJ45gpn3ThswDyeW0Qc"
     },
     {
       "album": {
@@ -1199,7 +1315,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 338866,
       "name": "Levels - Original Version",
       "url": "https://open.spotify.com/track/6Xe9wT5xeZETPwtaP2ynUz"
@@ -1217,7 +1333,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 203807,
       "name": "Levitating",
       "url": "https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP"
@@ -1302,6 +1418,76 @@
     },
     {
       "album": {
+        "name": "Wanted",
+        "url": "https://open.spotify.com/album/65G0BpV00GmLi5WUCeWdvT"
+      },
+      "artists": [
+        {
+          "name": "Bow Wow",
+          "url": "https://open.spotify.com/artist/7352aRY2mqSxBZwzUb6LmA"
+        },
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205840,
+      "name": "Like You (feat. Ciara)",
+      "url": "https://open.spotify.com/track/3jEqrIfwKO0M8ALu3TGilF"
+    },
+    {
+      "album": {
+        "name": "Pain Is Love",
+        "url": "https://open.spotify.com/album/2wMavIKnu6feFNOeQ1hVwf"
+      },
+      "artists": [
+        {
+          "name": "Ja Rule",
+          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
+        },
+        {
+          "name": "Case",
+          "url": "https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257066,
+      "name": "Livin' It Up",
+      "url": "https://open.spotify.com/track/52gqeRlrBE7hqMlRxEsi6y"
+    },
+    {
+      "album": {
+        "name": "The Cookbook",
+        "url": "https://open.spotify.com/album/6vV5UrXcfyQD1wu4Qo2I9K"
+      },
+      "artists": [
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        },
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "Fatman Scoop",
+          "url": "https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226863,
+      "name": "Lose Control (feat. Ciara & Fat Man Scoop)",
+      "url": "https://open.spotify.com/track/0UaMYEvWZi0ZqiDOoHU3YI"
+    },
+    {
+      "album": {
         "name": "Finally Rich",
         "url": "https://open.spotify.com/album/2B4y3j02ho6XNF8BEzx3JF"
       },
@@ -1313,7 +1499,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 246213,
       "name": "Love Sosa",
       "url": "https://open.spotify.com/track/01Lr5YepbgjXAWR9iOEyH1"
@@ -1371,7 +1557,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 188965,
       "name": "Material Girl",
       "url": "https://open.spotify.com/track/6nQ1B216Liiydhgn2gar0o"
@@ -1437,7 +1623,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 210367,
       "name": "MIA (feat. Drake)",
       "url": "https://open.spotify.com/track/116H0KvKr2Zl4RPuVBruDO"
@@ -1477,6 +1663,28 @@
       "duration_ms": 182626,
       "name": "Milkshake - Radio Mix",
       "url": "https://open.spotify.com/track/2s0ouHqJebHfiQ6C1GUFJd"
+    },
+    {
+      "album": {
+        "name": "Pink Friday",
+        "url": "https://open.spotify.com/album/3LJhoYn4nnHmvPRO3ppbsl"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279306,
+      "name": "Moment 4 Life",
+      "url": "https://open.spotify.com/track/1ia019RqDK2o4QiANR1Dyn"
     },
     {
       "album": {
@@ -1636,6 +1844,24 @@
     },
     {
       "album": {
+        "name": "Fanmail",
+        "url": "https://open.spotify.com/album/1CvjjpvqVMoyprsf74bpYW"
+      },
+      "artists": [
+        {
+          "name": "TLC",
+          "url": "https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214400,
+      "name": "No Scrubs",
+      "url": "https://open.spotify.com/track/1KGi9sZVMeszgZOWivFpxs"
+    },
+    {
+      "album": {
         "name": "The Fame",
         "url": "https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV"
       },
@@ -1647,7 +1873,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 208306,
       "name": "Paparazzi",
       "url": "https://open.spotify.com/track/7Hqig8kp32q2Ire3ECQvWM"
@@ -1669,6 +1895,50 @@
       "duration_ms": 217000,
       "name": "Party and Bullshit - 2008 Remaster",
       "url": "https://open.spotify.com/track/6jCGzZn0gFeRlbqdaJhw6T"
+    },
+    {
+      "album": {
+        "name": "Genesis",
+        "url": "https://open.spotify.com/album/6cj1gdwhr2MVJr9YnWghUd"
+      },
+      "artists": [
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        {
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238600,
+      "name": "Pass The Courvoisier Part II (feat. P. Diddy & Pharrell) - Remix",
+      "url": "https://open.spotify.com/track/4SnTf4ixVZCfQtxHNhky0T"
+    },
+    {
+      "album": {
+        "name": "Music Of The Sun",
+        "url": "https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246960,
+      "name": "Pon de Replay",
+      "url": "https://open.spotify.com/track/4TsmezEQVSZNNPv5RJ65Ov"
     },
     {
       "album": {
@@ -1717,7 +1987,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 373626,
       "name": "Pursuit Of Happiness - Extended Steve Aoki Remix",
       "url": "https://open.spotify.com/track/5PX4uS1LqlWEPL69phPVQQ"
@@ -1761,7 +2031,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 236213,
       "name": "Rich Girl",
       "url": "https://open.spotify.com/track/7HDLlU5FmQ3gijvtcXXBGG"
@@ -1860,6 +2130,24 @@
     },
     {
       "album": {
+        "name": "Purpose (Deluxe)",
+        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200786,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/09CtPGIpYB4BrO8qb1RGsF"
+    },
+    {
+      "album": {
         "name": "Hood Rich",
         "url": "https://open.spotify.com/album/3qcWuKB3pGWcB07FWksnWr"
       },
@@ -1878,6 +2166,24 @@
     },
     {
       "album": {
+        "name": "Beg For Mercy",
+        "url": "https://open.spotify.com/album/0BolFrIcCXXppUK50ETvgy"
+      },
+      "artists": [
+        {
+          "name": "G-Unit",
+          "url": "https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232226,
+      "name": "Stunt 101",
+      "url": "https://open.spotify.com/track/6QdVBqkKNUqCqercvUHMkP"
+    },
+    {
+      "album": {
         "name": "Pink Friday (Complete Edition)",
         "url": "https://open.spotify.com/album/7aADdYLiK1z7GlMFr0UIZw"
       },
@@ -1889,7 +2195,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 200013,
       "name": "Super Bass",
       "url": "https://open.spotify.com/track/3hlksXnvbKogFdPbpO9vel"
@@ -1943,7 +2249,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 195873,
       "name": "The Spins",
       "url": "https://open.spotify.com/track/51pshtuYkgUQnt5huMPbKL"
@@ -1965,7 +2271,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 246466,
       "name": "The Sweet Escape",
       "url": "https://open.spotify.com/track/66ZcOcouenzZEnzTJvoFmH"
@@ -1987,7 +2293,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 234333,
       "name": "The Thrill",
       "url": "https://open.spotify.com/track/4wqzOaLxiCRy2Et8tRyNSX"
@@ -2227,7 +2533,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 231240,
       "name": "We Can't Stop",
       "url": "https://open.spotify.com/track/2y4lAQpi5VTNLu2ldeTdUH"
@@ -2271,10 +2577,54 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 215226,
       "name": "We Found Love",
       "url": "https://open.spotify.com/track/6qn9YLKt13AGvpq9jfO8py"
+    },
+    {
+      "album": {
+        "name": "Jealous Ones Still Envy (J.O.S.E)",
+        "url": "https://open.spotify.com/album/6vMgb2mih3pPiWUxF8VEdI"
+      },
+      "artists": [
+        {
+          "name": "Fat Joe",
+          "url": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
+        },
+        {
+          "name": "Ja Rule",
+          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
+        },
+        {
+          "name": "Ashanti",
+          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267093,
+      "name": "What's Luv? (feat. Ja-Rule & Ashanti)",
+      "url": "https://open.spotify.com/track/2mKouqwAIdQnMP43zxR89r"
+    },
+    {
+      "album": {
+        "name": "702",
+        "url": "https://open.spotify.com/album/6PELMehRtCwGXXyFS0fLKR"
+      },
+      "artists": [
+        {
+          "name": "702",
+          "url": "https://open.spotify.com/artist/2S8UlyXW4JjjHcbeg8ddIo"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166693,
+      "name": "Where My Girls At",
+      "url": "https://open.spotify.com/track/4VSyH8AkIt3kaR5xIPFVVi"
     },
     {
       "album": {
@@ -2459,7 +2809,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 227706,
       "name": "YOU'RE THE ONE",
       "url": "https://open.spotify.com/track/70kdJnm1X6eEM8DbWa8Mnc"

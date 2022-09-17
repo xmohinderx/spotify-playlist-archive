@@ -4,7 +4,7 @@
 
 > Add some sabor to your summer!
 
-111 songs - 6 hr 50 min - not published yet
+111 songs - 6 hr 50 min - [published](https://open.spotify.com/playlist/6zL4nkQYoD59hn01Xh3DUt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

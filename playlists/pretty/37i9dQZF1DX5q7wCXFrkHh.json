@@ -1,12 +1,12 @@
 {
   "description": "The classic piano recordings in Jazz. Cover: Oscar Peterson",
-  "num_followers": 36080,
+  "num_followers": 36156,
   "original_name": "Jazz Piano Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzI1Mzc5MywwMDAwMDAwMDhhNjc5YTI3OGU4NjBhYzRhMjdmMDcyODVhNDNhZWI4",
+  "snapshot_id": "MTY2MzI1Mzc5MywwMDAwMDAwMGQ4NjVhNDYzMmYwNTQxNWQyMDcxNzhjYTg0MzE1N2Q5",
   "tracks": [
     {
       "added_at": "2022-09-15 14:56:32",
@@ -83,18 +83,18 @@
     {
       "added_at": "2022-09-15 14:56:32",
       "album": {
-        "name": "If You Got To Ask, You Ain't Got It!",
-        "url": "https://open.spotify.com/album/1W9UvJtQ8WmTnIBqi6KnHB"
+        "name": "Happy Moods",
+        "url": "https://open.spotify.com/album/0wulNVxoVugGBX7bwAAmGj"
       },
       "artists": [
         {
-          "name": "Fats Waller",
-          "url": "https://open.spotify.com/artist/0DYWCXTkNqGFZIf67SrWEa"
+          "name": "Ahmad Jamal",
+          "url": "https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O"
         }
       ],
-      "duration_ms": 237773,
-      "name": "Ain't Misbehavin'",
-      "url": "https://open.spotify.com/track/3BFRqZFLSrqtQr6cjHbAxU"
+      "duration_ms": 200986,
+      "name": "Easy To Love",
+      "url": "https://open.spotify.com/track/0oVWNxNOoezPVN2g8Jcml4"
     },
     {
       "added_at": "2022-09-15 14:56:32",
@@ -115,18 +115,18 @@
     {
       "added_at": "2022-09-15 14:56:32",
       "album": {
-        "name": "Happy Moods",
-        "url": "https://open.spotify.com/album/0wulNVxoVugGBX7bwAAmGj"
+        "name": "If You Got To Ask, You Ain't Got It!",
+        "url": "https://open.spotify.com/album/1W9UvJtQ8WmTnIBqi6KnHB"
       },
       "artists": [
         {
-          "name": "Ahmad Jamal",
-          "url": "https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O"
+          "name": "Fats Waller",
+          "url": "https://open.spotify.com/artist/0DYWCXTkNqGFZIf67SrWEa"
         }
       ],
-      "duration_ms": 200986,
-      "name": "Easy To Love",
-      "url": "https://open.spotify.com/track/0oVWNxNOoezPVN2g8Jcml4"
+      "duration_ms": 237773,
+      "name": "Ain't Misbehavin'",
+      "url": "https://open.spotify.com/track/3BFRqZFLSrqtQr6cjHbAxU"
     },
     {
       "added_at": "2022-09-15 14:56:32",
@@ -387,6 +387,22 @@
     {
       "added_at": "2022-09-15 14:56:32",
       "album": {
+        "name": "The Ellington Suites",
+        "url": "https://open.spotify.com/album/2xjUTAmc4gI76Js8T6Aj0s"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "duration_ms": 244933,
+      "name": "The Single Petal Of A Rose - The Queen's Suite",
+      "url": "https://open.spotify.com/track/1PoaSCeoBUCPg25k7XTvNN"
+    },
+    {
+      "added_at": "2022-09-15 14:56:32",
+      "album": {
         "name": "The Best Of Art Tatum",
         "url": "https://open.spotify.com/album/6afOGm8oEosuPK4GweTwms"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 367600,
       "name": "Night And Day",
       "url": "https://open.spotify.com/track/4kutk0onBpr8xcwfXItJDJ"
-    },
-    {
-      "added_at": "2022-09-15 14:56:32",
-      "album": {
-        "name": "The Ellington Suites",
-        "url": "https://open.spotify.com/album/2xjUTAmc4gI76Js8T6Aj0s"
-      },
-      "artists": [
-        {
-          "name": "Duke Ellington",
-          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
-        }
-      ],
-      "duration_ms": 244933,
-      "name": "The Single Petal Of A Rose - The Queen's Suite",
-      "url": "https://open.spotify.com/track/1PoaSCeoBUCPg25k7XTvNN"
     },
     {
       "added_at": "2022-09-15 14:56:32",
@@ -479,38 +479,6 @@
     {
       "added_at": "2022-09-15 14:56:32",
       "album": {
-        "name": "Explorations",
-        "url": "https://open.spotify.com/album/5MuOxoJbvmGGIQxo6Pudu9"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans Trio",
-          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
-        }
-      ],
-      "duration_ms": 349493,
-      "name": "Nardis",
-      "url": "https://open.spotify.com/track/37vEa9sfgAqEZuqX8AX0Zk"
-    },
-    {
-      "added_at": "2022-09-15 14:56:32",
-      "album": {
-        "name": "Someday My Prince Will Come",
-        "url": "https://open.spotify.com/album/6BhGuQjC5OwiqLEaMIWFFA"
-      },
-      "artists": [
-        {
-          "name": "Wynton Kelly",
-          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
-        }
-      ],
-      "duration_ms": 186136,
-      "name": "Someday My Prince Will Come",
-      "url": "https://open.spotify.com/track/4K7VsIEk8jyAcvss7HJtas"
-    },
-    {
-      "added_at": "2022-09-15 14:56:32",
-      "album": {
         "name": "All Kinds Of Weather",
         "url": "https://open.spotify.com/album/1cq8v5c8Y6KuvPtwPi3aWT"
       },
@@ -523,6 +491,22 @@
       "duration_ms": 254800,
       "name": "Rain",
       "url": "https://open.spotify.com/track/6HKPWcktY1fRY2JwXtWDd9"
+    },
+    {
+      "added_at": "2022-09-15 14:56:32",
+      "album": {
+        "name": "Explorations",
+        "url": "https://open.spotify.com/album/5MuOxoJbvmGGIQxo6Pudu9"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans Trio",
+          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
+        }
+      ],
+      "duration_ms": 349493,
+      "name": "Nardis",
+      "url": "https://open.spotify.com/track/37vEa9sfgAqEZuqX8AX0Zk"
     },
     {
       "added_at": "2022-09-15 14:56:32",
@@ -547,6 +531,22 @@
     {
       "added_at": "2022-09-15 14:56:32",
       "album": {
+        "name": "The Art Tatum Solo Masterpieces, Vol. 7",
+        "url": "https://open.spotify.com/album/7Dp502glaAEcu6WzJiR7jG"
+      },
+      "artists": [
+        {
+          "name": "Art Tatum",
+          "url": "https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq"
+        }
+      ],
+      "duration_ms": 235093,
+      "name": "Smoke Gets In Your Eyes",
+      "url": "https://open.spotify.com/track/5nfWH9Vn6PIaUnf2a9VthM"
+    },
+    {
+      "added_at": "2022-09-15 14:56:32",
+      "album": {
         "name": "Work From Home with Oscar Peterson",
         "url": "https://open.spotify.com/album/0ORKsWALEps4PNvnM78dM7"
       },
@@ -563,18 +563,18 @@
     {
       "added_at": "2022-09-15 14:56:32",
       "album": {
-        "name": "The Art Tatum Solo Masterpieces, Vol. 7",
-        "url": "https://open.spotify.com/album/7Dp502glaAEcu6WzJiR7jG"
+        "name": "Someday My Prince Will Come",
+        "url": "https://open.spotify.com/album/6BhGuQjC5OwiqLEaMIWFFA"
       },
       "artists": [
         {
-          "name": "Art Tatum",
-          "url": "https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq"
+          "name": "Wynton Kelly",
+          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
         }
       ],
-      "duration_ms": 235093,
-      "name": "Smoke Gets In Your Eyes",
-      "url": "https://open.spotify.com/track/5nfWH9Vn6PIaUnf2a9VthM"
+      "duration_ms": 186136,
+      "name": "Someday My Prince Will Come",
+      "url": "https://open.spotify.com/track/4K7VsIEk8jyAcvss7HJtas"
     },
     {
       "added_at": "2022-09-15 14:56:32",
@@ -647,22 +647,6 @@
       "duration_ms": 381893,
       "name": "The Awakening",
       "url": "https://open.spotify.com/track/4QC4XLTPHiSdexDsKO5Vi7"
-    },
-    {
-      "added_at": "2022-09-15 14:56:32",
-      "album": {
-        "name": "Kelly Blue (Keepnews Collection)",
-        "url": "https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B"
-      },
-      "artists": [
-        {
-          "name": "Wynton Kelly",
-          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
-        }
-      ],
-      "duration_ms": 284400,
-      "name": "On Green Dolphin Street",
-      "url": "https://open.spotify.com/track/6sq2n7GBZHX3Z7MtdwYrlI"
     },
     {
       "added_at": "2022-09-15 14:56:32",
@@ -743,6 +727,22 @@
       "duration_ms": 447813,
       "name": "When I Fall in Love",
       "url": "https://open.spotify.com/track/0LtLxQA6lkxOgCE4iCIThe"
+    },
+    {
+      "added_at": "2022-09-15 14:56:32",
+      "album": {
+        "name": "Kelly Blue (Keepnews Collection)",
+        "url": "https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B"
+      },
+      "artists": [
+        {
+          "name": "Wynton Kelly",
+          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
+        }
+      ],
+      "duration_ms": 284400,
+      "name": "On Green Dolphin Street",
+      "url": "https://open.spotify.com/track/6sq2n7GBZHX3Z7MtdwYrlI"
     },
     {
       "added_at": "2022-09-15 14:56:32",
@@ -955,8 +955,8 @@
     {
       "added_at": "2022-09-15 14:56:32",
       "album": {
-        "name": "Monk's Dream",
-        "url": "https://open.spotify.com/album/5VTlqV8lZH3YspQ1cDcjrL"
+        "name": "Solo Monk",
+        "url": "https://open.spotify.com/album/4Bxg4OFb2wA6IjoeuWilRF"
       },
       "artists": [
         {
@@ -964,9 +964,9 @@
           "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
         }
       ],
-      "duration_ms": 268400,
-      "name": "Body and Soul",
-      "url": "https://open.spotify.com/track/7IAFc5iQti2tzob7Uo7N1Y"
+      "duration_ms": 148933,
+      "name": "Dinah (Take 2)",
+      "url": "https://open.spotify.com/track/1XS5vGKquDNjxU6gLQcKd2"
     },
     {
       "added_at": "2022-09-15 14:56:32",
@@ -1059,8 +1059,8 @@
     {
       "added_at": "2022-09-15 14:56:32",
       "album": {
-        "name": "Solo Monk",
-        "url": "https://open.spotify.com/album/4Bxg4OFb2wA6IjoeuWilRF"
+        "name": "Monk's Dream",
+        "url": "https://open.spotify.com/album/5VTlqV8lZH3YspQ1cDcjrL"
       },
       "artists": [
         {
@@ -1068,9 +1068,9 @@
           "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
         }
       ],
-      "duration_ms": 148933,
-      "name": "Dinah (Take 2)",
-      "url": "https://open.spotify.com/track/1XS5vGKquDNjxU6gLQcKd2"
+      "duration_ms": 268400,
+      "name": "Body and Soul",
+      "url": "https://open.spotify.com/track/7IAFc5iQti2tzob7Uo7N1Y"
     },
     {
       "added_at": "2022-09-15 14:56:32",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2022-09-15 14:56:32",
       "album": {
-        "name": "I Got Rhythm",
-        "url": "https://open.spotify.com/album/06nblZEpSdnbBN6iLwl3W9"
-      },
-      "artists": [
-        {
-          "name": "Teddy Wilson",
-          "url": "https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii"
-        }
-      ],
-      "duration_ms": 177506,
-      "name": "All Of Me",
-      "url": "https://open.spotify.com/track/6KcR5mcZOhZKcRRXWsGkAv"
-    },
-    {
-      "added_at": "2022-09-15 14:56:32",
-      "album": {
         "name": "Piano Starts Here",
         "url": "https://open.spotify.com/album/1FCIddh80qKhpueDBsLNfr"
       },
@@ -1219,18 +1203,18 @@
     {
       "added_at": "2022-09-15 14:56:32",
       "album": {
-        "name": "Criss-Cross (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0QTVbs5gj4pbv3Je4fJ3VI"
+        "name": "I Got Rhythm",
+        "url": "https://open.spotify.com/album/06nblZEpSdnbBN6iLwl3W9"
       },
       "artists": [
         {
-          "name": "Thelonious Monk",
-          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
+          "name": "Teddy Wilson",
+          "url": "https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii"
         }
       ],
-      "duration_ms": 233066,
-      "name": "Rhythm-A-Ning",
-      "url": "https://open.spotify.com/track/0IbD8xojkJgwh9lLu8hoxg"
+      "duration_ms": 177506,
+      "name": "All Of Me",
+      "url": "https://open.spotify.com/track/6KcR5mcZOhZKcRRXWsGkAv"
     },
     {
       "added_at": "2022-09-15 14:56:32",
@@ -1251,6 +1235,22 @@
     {
       "added_at": "2022-09-15 14:56:32",
       "album": {
+        "name": "Criss-Cross (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0QTVbs5gj4pbv3Je4fJ3VI"
+      },
+      "artists": [
+        {
+          "name": "Thelonious Monk",
+          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
+        }
+      ],
+      "duration_ms": 233066,
+      "name": "Rhythm-A-Ning",
+      "url": "https://open.spotify.com/track/0IbD8xojkJgwh9lLu8hoxg"
+    },
+    {
+      "added_at": "2022-09-15 14:56:32",
+      "album": {
         "name": "Today And Tomorrow",
         "url": "https://open.spotify.com/album/6MinQE3GG7Xb9GWrOoAWEz"
       },
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2022-09-15 14:56:32",
       "album": {
-        "name": "Blues for Nica",
-        "url": "https://open.spotify.com/album/1Frp5CHMTM45u0ytFYpnN2"
+        "name": "Crystal",
+        "url": "https://open.spotify.com/album/61tuvxkgsvrsRQmoMSu6YA"
       },
       "artists": [
         {
-          "name": "Kenny Drew",
-          "url": "https://open.spotify.com/artist/65uKPt40QH8dMBLuoJHPVY"
+          "name": "Ahmad Jamal",
+          "url": "https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O"
         }
       ],
-      "duration_ms": 243173,
-      "name": "I Didn't Know What Time It Was",
-      "url": "https://open.spotify.com/track/5nS7ZPffF19pBuz2SYrr9V"
+      "duration_ms": 248760,
+      "name": "Swahililand",
+      "url": "https://open.spotify.com/track/7qwuryqoBBEH56d3iEhIBO"
     },
     {
       "added_at": "2022-09-15 14:56:32",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2022-09-15 14:56:32",
       "album": {
-        "name": "Crystal",
-        "url": "https://open.spotify.com/album/61tuvxkgsvrsRQmoMSu6YA"
-      },
-      "artists": [
-        {
-          "name": "Ahmad Jamal",
-          "url": "https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O"
-        }
-      ],
-      "duration_ms": 248760,
-      "name": "Swahililand",
-      "url": "https://open.spotify.com/track/7qwuryqoBBEH56d3iEhIBO"
-    },
-    {
-      "added_at": "2022-09-15 14:56:32",
-      "album": {
         "name": "Ready Take One",
         "url": "https://open.spotify.com/album/2wWuVfDOvITHUmb0KDzbrM"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 306967,
       "name": "Wild Music",
       "url": "https://open.spotify.com/track/7wS94SSkAxwYiCsauxuqWc"
+    },
+    {
+      "added_at": "2022-09-15 14:56:32",
+      "album": {
+        "name": "The Art Tatum Solo Masterpieces, Vol. 1 [Original Jazz Classics Remasters]",
+        "url": "https://open.spotify.com/album/6u03wnGbicx8NYZ38R1hOW"
+      },
+      "artists": [
+        {
+          "name": "Art Tatum",
+          "url": "https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq"
+        }
+      ],
+      "duration_ms": 178120,
+      "name": "Moonglow",
+      "url": "https://open.spotify.com/track/4a7SbqcOes5LFRYYSUuh4f"
     },
     {
       "added_at": "2022-09-15 14:56:32",
@@ -1399,18 +1399,18 @@
     {
       "added_at": "2022-09-15 14:56:32",
       "album": {
-        "name": "The Art Tatum Solo Masterpieces, Vol. 1 [Original Jazz Classics Remasters]",
-        "url": "https://open.spotify.com/album/6u03wnGbicx8NYZ38R1hOW"
+        "name": "Blues for Nica",
+        "url": "https://open.spotify.com/album/1Frp5CHMTM45u0ytFYpnN2"
       },
       "artists": [
         {
-          "name": "Art Tatum",
-          "url": "https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq"
+          "name": "Kenny Drew",
+          "url": "https://open.spotify.com/artist/65uKPt40QH8dMBLuoJHPVY"
         }
       ],
-      "duration_ms": 178120,
-      "name": "Moonglow",
-      "url": "https://open.spotify.com/track/4a7SbqcOes5LFRYYSUuh4f"
+      "duration_ms": 243173,
+      "name": "I Didn't Know What Time It Was",
+      "url": "https://open.spotify.com/track/5nS7ZPffF19pBuz2SYrr9V"
     },
     {
       "added_at": "2022-09-15 14:56:32",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2022-09-15 14:56:32",
       "album": {
-        "name": "The Duke Plays Ellington",
-        "url": "https://open.spotify.com/album/16DFutmQC0e4V8etsg5ZGG"
-      },
-      "artists": [
-        {
-          "name": "Duke Ellington",
-          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
-        }
-      ],
-      "duration_ms": 152886,
-      "name": "In A Sentimental Mood",
-      "url": "https://open.spotify.com/track/484SnsU9yGBsaHh9byM0AU"
-    },
-    {
-      "added_at": "2022-09-15 14:56:32",
-      "album": {
         "name": "Bye Bye Blackbird",
         "url": "https://open.spotify.com/album/16djDDgFboJJaZqw59XTcI"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 671866,
       "name": "Bye Bye Blackbird",
       "url": "https://open.spotify.com/track/1uO2eaMymZQU82tV5eSXZZ"
+    },
+    {
+      "added_at": "2022-09-15 14:56:32",
+      "album": {
+        "name": "The Duke Plays Ellington",
+        "url": "https://open.spotify.com/album/16DFutmQC0e4V8etsg5ZGG"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "duration_ms": 152886,
+      "name": "In A Sentimental Mood",
+      "url": "https://open.spotify.com/track/484SnsU9yGBsaHh9byM0AU"
     },
     {
       "added_at": "2022-09-15 14:56:32",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2022-09-15 14:56:32",
       "album": {
-        "name": "No Blues",
-        "url": "https://open.spotify.com/album/1OEFn9mgfKhJRmnjWpu7tC"
-      },
-      "artists": [
-        {
-          "name": "Horace Parlan",
-          "url": "https://open.spotify.com/artist/413WfGS7CgAHEJD4DtAo3e"
-        }
-      ],
-      "duration_ms": 297560,
-      "name": "My foolish heart",
-      "url": "https://open.spotify.com/track/5dhgrt2is9rFBuEKtwBPdU"
-    },
-    {
-      "added_at": "2022-09-15 14:56:32",
-      "album": {
         "name": "Nightconcert",
         "url": "https://open.spotify.com/album/784DdGI83hMQqhFsfjwf96"
       },
@@ -1655,18 +1639,18 @@
     {
       "added_at": "2022-09-15 14:56:32",
       "album": {
-        "name": "The John Lewis Piano",
-        "url": "https://open.spotify.com/album/3TpGQijqIYEBpr1rAtYqeA"
+        "name": "No Blues",
+        "url": "https://open.spotify.com/album/1OEFn9mgfKhJRmnjWpu7tC"
       },
       "artists": [
         {
-          "name": "John Lewis",
-          "url": "https://open.spotify.com/artist/7G7zZjjTwBZ9vzaoogk95s"
+          "name": "Horace Parlan",
+          "url": "https://open.spotify.com/artist/413WfGS7CgAHEJD4DtAo3e"
         }
       ],
-      "duration_ms": 269666,
-      "name": "Little Girl Blue",
-      "url": "https://open.spotify.com/track/2oNkZcL1A2rhRZ4yKKxxcF"
+      "duration_ms": 297560,
+      "name": "My foolish heart",
+      "url": "https://open.spotify.com/track/5dhgrt2is9rFBuEKtwBPdU"
     },
     {
       "added_at": "2022-09-15 14:56:32",
@@ -1683,6 +1667,22 @@
       "duration_ms": 204506,
       "name": "52nd Street Theme",
       "url": "https://open.spotify.com/track/63AH56BdSoBHKJAnsB6KiR"
+    },
+    {
+      "added_at": "2022-09-15 14:56:32",
+      "album": {
+        "name": "The John Lewis Piano",
+        "url": "https://open.spotify.com/album/3TpGQijqIYEBpr1rAtYqeA"
+      },
+      "artists": [
+        {
+          "name": "John Lewis",
+          "url": "https://open.spotify.com/artist/7G7zZjjTwBZ9vzaoogk95s"
+        }
+      ],
+      "duration_ms": 269666,
+      "name": "Little Girl Blue",
+      "url": "https://open.spotify.com/track/2oNkZcL1A2rhRZ4yKKxxcF"
     },
     {
       "added_at": "2022-09-15 14:56:32",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2022-09-15 14:56:32",
       "album": {
-        "name": "Eclypso",
-        "url": "https://open.spotify.com/album/6kMgJ6Q7IPOVq7juX2uEfT"
-      },
-      "artists": [
-        {
-          "name": "Tommy Flanagan",
-          "url": "https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d"
-        }
-      ],
-      "duration_ms": 374093,
-      "name": "A Blue Time",
-      "url": "https://open.spotify.com/track/17LII4B6V1AhONoueVwoJU"
-    },
-    {
-      "added_at": "2022-09-15 14:56:32",
-      "album": {
         "name": "Made Possible",
         "url": "https://open.spotify.com/album/3OdNCMVkl8maOzvi7nNs1t"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 370133,
       "name": "Pound For Pound",
       "url": "https://open.spotify.com/track/5CSlvf7HVrqXSxsJx2LhQj"
+    },
+    {
+      "added_at": "2022-09-15 14:56:32",
+      "album": {
+        "name": "Eclypso",
+        "url": "https://open.spotify.com/album/6kMgJ6Q7IPOVq7juX2uEfT"
+      },
+      "artists": [
+        {
+          "name": "Tommy Flanagan",
+          "url": "https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d"
+        }
+      ],
+      "duration_ms": 374093,
+      "name": "A Blue Time",
+      "url": "https://open.spotify.com/track/17LII4B6V1AhONoueVwoJU"
     },
     {
       "added_at": "2022-09-15 14:56:32",
@@ -1923,6 +1923,26 @@
     {
       "added_at": "2022-09-15 14:56:32",
       "album": {
+        "name": "Crystal Silence",
+        "url": "https://open.spotify.com/album/1bvhjpp45aO2i1d7kjbsjh"
+      },
+      "artists": [
+        {
+          "name": "Gary Burton",
+          "url": "https://open.spotify.com/artist/4iovNkf44dsELmo3E7XSKX"
+        },
+        {
+          "name": "Chick Corea",
+          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
+        }
+      ],
+      "duration_ms": 238800,
+      "name": "I'm Your Pal",
+      "url": "https://open.spotify.com/track/7FDhbzHunmwye3bx0VHDY5"
+    },
+    {
+      "added_at": "2022-09-15 14:56:32",
+      "album": {
         "name": "Belonging",
         "url": "https://open.spotify.com/album/6dmq2NJgWAvrzRVrpPwkzv"
       },
@@ -1951,42 +1971,6 @@
     {
       "added_at": "2022-09-15 14:56:32",
       "album": {
-        "name": "Crystal Silence",
-        "url": "https://open.spotify.com/album/1bvhjpp45aO2i1d7kjbsjh"
-      },
-      "artists": [
-        {
-          "name": "Gary Burton",
-          "url": "https://open.spotify.com/artist/4iovNkf44dsELmo3E7XSKX"
-        },
-        {
-          "name": "Chick Corea",
-          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
-        }
-      ],
-      "duration_ms": 238800,
-      "name": "I'm Your Pal",
-      "url": "https://open.spotify.com/track/7FDhbzHunmwye3bx0VHDY5"
-    },
-    {
-      "added_at": "2022-09-15 14:56:32",
-      "album": {
-        "name": "The Art of the Trio, Vol. 2: Live at the Village Vanguard",
-        "url": "https://open.spotify.com/album/3gAmnTrafv3RJ8UcIvTKfe"
-      },
-      "artists": [
-        {
-          "name": "Brad Mehldau",
-          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
-        }
-      ],
-      "duration_ms": 752960,
-      "name": "The Way You Look Tonight - Live",
-      "url": "https://open.spotify.com/track/2azWTz31bxJMv1g53NVfPd"
-    },
-    {
-      "added_at": "2022-09-15 14:56:32",
-      "album": {
         "name": "The Trio Vol.2",
         "url": "https://open.spotify.com/album/6NMTOGNNlCgC34TY8hkCN6"
       },
@@ -2011,6 +1995,22 @@
     {
       "added_at": "2022-09-15 14:56:32",
       "album": {
+        "name": "The Art of the Trio, Vol. 2: Live at the Village Vanguard",
+        "url": "https://open.spotify.com/album/3gAmnTrafv3RJ8UcIvTKfe"
+      },
+      "artists": [
+        {
+          "name": "Brad Mehldau",
+          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
+        }
+      ],
+      "duration_ms": 752960,
+      "name": "The Way You Look Tonight - Live",
+      "url": "https://open.spotify.com/track/2azWTz31bxJMv1g53NVfPd"
+    },
+    {
+      "added_at": "2022-09-15 14:56:32",
+      "album": {
         "name": "Takin' Off (Expanded Edition)",
         "url": "https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl"
       },
@@ -2023,6 +2023,62 @@
       "duration_ms": 372266,
       "name": "Empty Pockets - Remastered",
       "url": "https://open.spotify.com/track/4Cq9NtjeUASIkunQeXajCX"
+    },
+    {
+      "added_at": "2022-09-15 14:56:32",
+      "album": {
+        "name": "Presenting Ray Bryant",
+        "url": "https://open.spotify.com/album/4hoqZsjtH7nMw3KO3tbPwq"
+      },
+      "artists": [
+        {
+          "name": "Ray Bryant",
+          "url": "https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR"
+        }
+      ],
+      "duration_ms": 253053,
+      "name": "Milestones",
+      "url": "https://open.spotify.com/track/4Tk0z4I2oZgtn74XfAm8Du"
+    },
+    {
+      "added_at": "2022-09-15 14:56:32",
+      "album": {
+        "name": "Yesterdays",
+        "url": "https://open.spotify.com/album/4HNQ9h9ghVcRdSmewhQWaX"
+      },
+      "artists": [
+        {
+          "name": "Keith Jarrett",
+          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+        },
+        {
+          "name": "Gary Peacock",
+          "url": "https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y"
+        },
+        {
+          "name": "Jack DeJohnette",
+          "url": "https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU"
+        }
+      ],
+      "duration_ms": 612893,
+      "name": "You Took Advantage Of Me - Live",
+      "url": "https://open.spotify.com/track/3BUMqtDQfXIg2YPHmDj0j0"
+    },
+    {
+      "added_at": "2022-09-15 14:56:32",
+      "album": {
+        "name": "Duke Jordan Trio & Quintet",
+        "url": "https://open.spotify.com/album/2GJjrrPo1zGXxrCiMdvWz8"
+      },
+      "artists": [
+        {
+          "name": "Duke Jordan",
+          "url": "https://open.spotify.com/artist/27Zmfr3VpJSgOf8iyWiZzM"
+        }
+      ],
+      "duration_ms": 274560,
+      "name": "They Can't Take That Away From Me",
+      "url": "https://open.spotify.com/track/0RWX4MAHKUvnnF2gGbMNtp"
     },
     {
       "added_at": "2022-09-15 14:56:32",
@@ -2051,22 +2107,6 @@
     {
       "added_at": "2022-09-15 14:56:32",
       "album": {
-        "name": "Duke Jordan Trio & Quintet",
-        "url": "https://open.spotify.com/album/2GJjrrPo1zGXxrCiMdvWz8"
-      },
-      "artists": [
-        {
-          "name": "Duke Jordan",
-          "url": "https://open.spotify.com/artist/27Zmfr3VpJSgOf8iyWiZzM"
-        }
-      ],
-      "duration_ms": 274560,
-      "name": "They Can't Take That Away From Me",
-      "url": "https://open.spotify.com/track/0RWX4MAHKUvnnF2gGbMNtp"
-    },
-    {
-      "added_at": "2022-09-15 14:56:32",
-      "album": {
         "name": "The Music From \"The Connection\" (2005 Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/0OMYhZDRDDcUa5Ee0TyLJK"
       },
@@ -2087,22 +2127,6 @@
     {
       "added_at": "2022-09-15 14:56:32",
       "album": {
-        "name": "Presenting Ray Bryant",
-        "url": "https://open.spotify.com/album/4hoqZsjtH7nMw3KO3tbPwq"
-      },
-      "artists": [
-        {
-          "name": "Ray Bryant",
-          "url": "https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR"
-        }
-      ],
-      "duration_ms": 253053,
-      "name": "Milestones",
-      "url": "https://open.spotify.com/track/4Tk0z4I2oZgtn74XfAm8Du"
-    },
-    {
-      "added_at": "2022-09-15 14:56:32",
-      "album": {
         "name": "Daylight Ghosts",
         "url": "https://open.spotify.com/album/4WMd6CHBI1xqYjD8svvoES"
       },
@@ -2115,30 +2139,6 @@
       "duration_ms": 214493,
       "name": "The Shining One",
       "url": "https://open.spotify.com/track/1tPpBHFa6CzX3fCLX85h5x"
-    },
-    {
-      "added_at": "2022-09-15 14:56:32",
-      "album": {
-        "name": "Yesterdays",
-        "url": "https://open.spotify.com/album/4HNQ9h9ghVcRdSmewhQWaX"
-      },
-      "artists": [
-        {
-          "name": "Keith Jarrett",
-          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
-        },
-        {
-          "name": "Gary Peacock",
-          "url": "https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y"
-        },
-        {
-          "name": "Jack DeJohnette",
-          "url": "https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU"
-        }
-      ],
-      "duration_ms": 612893,
-      "name": "You Took Advantage Of Me - Live",
-      "url": "https://open.spotify.com/track/3BUMqtDQfXIg2YPHmDj0j0"
     },
     {
       "added_at": "2022-09-15 14:56:32",
@@ -2455,22 +2455,6 @@
     {
       "added_at": "2022-09-15 14:56:32",
       "album": {
-        "name": "Horace Silver Trio",
-        "url": "https://open.spotify.com/album/4Cu57f0WkNAOERhiCxGSSo"
-      },
-      "artists": [
-        {
-          "name": "Horace Silver",
-          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
-        }
-      ],
-      "duration_ms": 172386,
-      "name": "Thou Swell - Remastered",
-      "url": "https://open.spotify.com/track/6R62D5n442lnkedKvm354Z"
-    },
-    {
-      "added_at": "2022-09-15 14:56:32",
-      "album": {
         "name": "Blackbird",
         "url": "https://open.spotify.com/album/4XCLREMxloj6a48BlS3Sio"
       },
@@ -2499,6 +2483,22 @@
       "duration_ms": 398826,
       "name": "Chris Craft",
       "url": "https://open.spotify.com/track/5f9yD0656qEugBZTsxirA6"
+    },
+    {
+      "added_at": "2022-09-15 14:56:32",
+      "album": {
+        "name": "Horace Silver Trio",
+        "url": "https://open.spotify.com/album/4Cu57f0WkNAOERhiCxGSSo"
+      },
+      "artists": [
+        {
+          "name": "Horace Silver",
+          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
+        }
+      ],
+      "duration_ms": 172386,
+      "name": "Thou Swell - Remastered",
+      "url": "https://open.spotify.com/track/6R62D5n442lnkedKvm354Z"
     },
     {
       "added_at": "2022-09-15 14:56:32",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7zd1uDsK3tZ.md) - [plain]
 
 > Timeless tunes served over easy for all your brunching needs!
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,512 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,592 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,12 +93,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7zd1uDsK3tZ.md) - [plain]
 | 83 | [All I Do](https://open.spotify.com/track/0k3fBeBIcok5gbYQyQbxP5) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Hotter Than July](https://open.spotify.com/album/1ZuQduJGh0lBynUsfzD1tH) | 5:06 |
 | 84 | [Angel Of The Morning](https://open.spotify.com/track/6NVB6W7G3svCKe5zB7kY8q) | [Juice Newton](https://open.spotify.com/artist/4L1z1IcfK7lbqx8izGHaw5) | [Juice Newton's Greatest Hits](https://open.spotify.com/album/0fSvQOkU8rRgcsW6MerdVw) | 4:14 |
 | 85 | [Don't Dream It's Over \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/4PFnROqBlAVnizUrhF1x7C) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Spotify Singles](https://open.spotify.com/album/7txW0oEFE7Cxj1OPROdRvq) | 4:33 |
-| 86 | [Summer Breeze, Pts\. 1 & 2](https://open.spotify.com/track/7wcP2Aa2SliFhwi4SyfvfV) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [3+3](https://open.spotify.com/album/27eI33obJuyKebMTxAJJam) | 6:11 |
-| 87 | [Lady Day and John Coltrane](https://open.spotify.com/track/7aLn70gMnbTCVGoIro42Kd) | [Gil Scott\-Heron](https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU) | [Pieces of a Man](https://open.spotify.com/album/3Iny1eqJMoqU1I1UoUbVQl) | 3:36 |
-| 88 | [Ahead By A Century](https://open.spotify.com/track/2SVEOxPGB8Z8WikO4DppNA) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Trouble At The Henhouse](https://open.spotify.com/album/5mMBYPBUI6jHW40ASk1ekn) | 3:43 |
+| 86 | [Lady Day and John Coltrane](https://open.spotify.com/track/7aLn70gMnbTCVGoIro42Kd) | [Gil Scott\-Heron](https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU) | [Pieces of a Man](https://open.spotify.com/album/3Iny1eqJMoqU1I1UoUbVQl) | 3:36 |
+| 87 | [Ahead By A Century](https://open.spotify.com/track/2SVEOxPGB8Z8WikO4DppNA) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Trouble At The Henhouse](https://open.spotify.com/album/5mMBYPBUI6jHW40ASk1ekn) | 3:43 |
+| 88 | [Summer Breeze, Pts\. 1 & 2](https://open.spotify.com/track/7wcP2Aa2SliFhwi4SyfvfV) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [3+3](https://open.spotify.com/album/27eI33obJuyKebMTxAJJam) | 6:11 |
 | 89 | [America](https://open.spotify.com/track/228IDYsx1EAHiuh9xLktmj) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [America](https://open.spotify.com/album/1LbsN7ZwjjnafolKPbnDZK) | 3:38 |
-| 90 | [Up, Up and Away](https://open.spotify.com/track/3JdToGxgvH9SnO1a605Ztr) | [The 5th Dimension](https://open.spotify.com/artist/1UUYAQ9LiRsZF0ZukQNWXM) | [Up, Up And Away](https://open.spotify.com/album/77VEDrJrgHdCr6Ju3N4AQp) | 2:43 |
-| 91 | [My Life](https://open.spotify.com/track/6Ep2XErOa5SCBGzARBpCr4) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Essential Billy Joel](https://open.spotify.com/album/7r36rel1M4gyBavfcJP6Yz) | 4:41 |
+| 90 | [My Life](https://open.spotify.com/track/6Ep2XErOa5SCBGzARBpCr4) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Essential Billy Joel](https://open.spotify.com/album/7r36rel1M4gyBavfcJP6Yz) | 4:41 |
+| 91 | [Up, Up and Away](https://open.spotify.com/track/3JdToGxgvH9SnO1a605Ztr) | [The 5th Dimension](https://open.spotify.com/artist/1UUYAQ9LiRsZF0ZukQNWXM) | [Up, Up And Away](https://open.spotify.com/album/77VEDrJrgHdCr6Ju3N4AQp) | 2:43 |
 | 92 | [Working My Way Back to You / Forgive Me, Girl](https://open.spotify.com/track/1wouF9mtyiwZDYiq5YElaq) | [The Spinners](https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5) | [Smooth And Sweet](https://open.spotify.com/album/2KurzyFucko12doXylecYi) | 4:05 |
 | 93 | [Spooky \(Single Version\)](https://open.spotify.com/track/4RYwE31p4KflK1h7J7m1Yt) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Love Songs](https://open.spotify.com/album/2paShliFsxYoO3WJEdTVdA) | 2:44 |
 | 94 | [I Heard It Through The Grapevine](https://open.spotify.com/track/1aRrJewQmqU3wMUf86VVc6) | [Gladys Knight & The Pips](https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1) | [Everybody Needs Love](https://open.spotify.com/album/5l5h2w976gvp8y2IGv2Tp4) | 2:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7zd1uDsK3tZ.md) - [plain]
 | 99 | [Rock Your Baby](https://open.spotify.com/track/16KwF7IrKHTVTitUKH58g3) | [George McCrae](https://open.spotify.com/artist/6oV3BNm1Gj2GGgpYknc5TN) | [George McCrae \- Disco Pioneer](https://open.spotify.com/album/3qJGzbhk63pzwqzpTr0bxt) | 3:20 |
 | 100 | [You Don't Know Me \(feat\. Regina Spektor\)](https://open.spotify.com/track/1rihwqlxLr1kL7zg5193FF) | [Ben Folds](https://open.spotify.com/artist/55tif8708yyDQlSjh3Trdu), [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Way To Normal](https://open.spotify.com/album/3V8q5Mi44jT2wvKyaMVM3x) | 3:09 |
 
-Snapshot ID: `MTY2MDYyMjQwMCwwMDAwMDAwMDZlOGY2Mzg2N2E1ODA3NTk0NWY5OWQ0ZGM0MWUxM2Ri`
+Snapshot ID: `MTY2MDYyMjQwMCwwMDAwMDAwMGI5ZDI1ZGE3ODgyY2ZlZThlOTBjYWZhYjkzYmM5Yzkz`

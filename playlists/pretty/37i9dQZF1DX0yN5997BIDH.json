@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Deja que la m\u00fasica te inspire para acabar con tu tarea!",
-  "num_followers": 366197,
+  "num_followers": 366217,
   "original_name": "Tarea Casual",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mjc2NTg0OCwwMDAwMDAwMDFjMjBjMmFhYmI2YjViOGVkODhiNzgzYWMxZTI3N2Uz",
+  "snapshot_id": "MTY2Mjc2NTg0OCwwMDAwMDAwMDhmYjViZmVmY2VkNzlkMDg2NTZkYTM4NzQ1ZTEyOGRm",
   "tracks": [
     {
       "added_at": "2022-09-09 23:24:08",
@@ -223,38 +223,6 @@
     {
       "added_at": "2022-09-09 23:24:08",
       "album": {
-        "name": "Planet Her",
-        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 172626,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
-    },
-    {
-      "added_at": "2022-09-09 23:24:08",
-      "album": {
-        "name": "golden hour",
-        "url": "https://open.spotify.com/album/0NoJBJgQc3fM2gesNXp7dS"
-      },
-      "artists": [
-        {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-        }
-      ],
-      "duration_ms": 209259,
-      "name": "golden hour",
-      "url": "https://open.spotify.com/track/6GD1eomgaGT1Epto6Q5eAo"
-    },
-    {
-      "added_at": "2022-09-09 23:24:08",
-      "album": {
         "name": "STAY (with Justin Bieber)",
         "url": "https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ"
       },
@@ -275,18 +243,34 @@
     {
       "added_at": "2022-09-09 23:24:08",
       "album": {
-        "name": "Hounds of Love (2018 Remaster)",
-        "url": "https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH"
+        "name": "golden hour",
+        "url": "https://open.spotify.com/album/0NoJBJgQc3fM2gesNXp7dS"
       },
       "artists": [
         {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
         }
       ],
-      "duration_ms": 300840,
-      "name": "Running Up That Hill (A Deal With God) - 2018 Remaster",
-      "url": "https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP"
+      "duration_ms": 209259,
+      "name": "golden hour",
+      "url": "https://open.spotify.com/track/6GD1eomgaGT1Epto6Q5eAo"
+    },
+    {
+      "added_at": "2022-09-09 23:24:08",
+      "album": {
+        "name": "Planet Her",
+        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 172626,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
     },
     {
       "added_at": "2022-09-09 23:24:08",
@@ -319,6 +303,22 @@
       "duration_ms": 229226,
       "name": "traitor",
       "url": "https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT"
+    },
+    {
+      "added_at": "2022-09-09 23:24:08",
+      "album": {
+        "name": "Hounds of Love (2018 Remaster)",
+        "url": "https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 300840,
+      "name": "Running Up That Hill (A Deal With God) - 2018 Remaster",
+      "url": "https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP"
     },
     {
       "added_at": "2022-09-09 23:24:08",
@@ -411,22 +411,6 @@
     {
       "added_at": "2022-09-09 23:24:08",
       "album": {
-        "name": "Kid Krow",
-        "url": "https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 198040,
-      "name": "Heather",
-      "url": "https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA"
-    },
-    {
-      "added_at": "2022-09-09 23:24:08",
-      "album": {
         "name": "SOUR",
         "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 215506,
       "name": "deja vu",
       "url": "https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr"
+    },
+    {
+      "added_at": "2022-09-09 23:24:08",
+      "album": {
+        "name": "Kid Krow",
+        "url": "https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "duration_ms": 198040,
+      "name": "Heather",
+      "url": "https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA"
     },
     {
       "added_at": "2022-09-09 23:24:08",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2022-09-09 23:24:08",
       "album": {
-        "name": "I AM WOMAN",
-        "url": "https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n"
-      },
-      "artists": [
-        {
-          "name": "Emmy Meli",
-          "url": "https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k"
-        }
-      ],
-      "duration_ms": 232813,
-      "name": "I AM WOMAN",
-      "url": "https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb"
-    },
-    {
-      "added_at": "2022-09-09 23:24:08",
-      "album": {
         "name": "Future Nostalgia",
         "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 201882,
       "name": "pov",
       "url": "https://open.spotify.com/track/3UoULw70kMsiVXxW0L3A33"
+    },
+    {
+      "added_at": "2022-09-09 23:24:08",
+      "album": {
+        "name": "I AM WOMAN",
+        "url": "https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n"
+      },
+      "artists": [
+        {
+          "name": "Emmy Meli",
+          "url": "https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k"
+        }
+      ],
+      "duration_ms": 232813,
+      "name": "I AM WOMAN",
+      "url": "https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb"
     },
     {
       "added_at": "2022-09-09 23:24:08",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2022-09-09 23:24:08",
       "album": {
-        "name": "i used to think i could fly",
-        "url": "https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 152786,
-      "name": "don't come back",
-      "url": "https://open.spotify.com/track/3RhyHYnYxuGnP8njFlNxHq"
-    },
-    {
-      "added_at": "2022-09-09 23:24:08",
-      "album": {
         "name": "I Like That",
         "url": "https://open.spotify.com/album/0Nu5uWgrnNGWWbWfzXPgPI"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 158083,
       "name": "I Like That",
       "url": "https://open.spotify.com/track/2RkZZh5XQ4y3sG8gCu96Tz"
+    },
+    {
+      "added_at": "2022-09-09 23:24:08",
+      "album": {
+        "name": "i used to think i could fly",
+        "url": "https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 152786,
+      "name": "don't come back",
+      "url": "https://open.spotify.com/track/3RhyHYnYxuGnP8njFlNxHq"
     },
     {
       "added_at": "2022-09-09 23:24:08",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2022-09-09 23:24:08",
       "album": {
-        "name": "ur just horny",
-        "url": "https://open.spotify.com/album/2LhBsI65bqTpO8pVlZhK0A"
-      },
-      "artists": [
-        {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
-        }
-      ],
-      "duration_ms": 178787,
-      "name": "ur just horny",
-      "url": "https://open.spotify.com/track/02gGfhPHk5NuN0mgbKpU4Y"
-    },
-    {
-      "added_at": "2022-09-09 23:24:08",
-      "album": {
         "name": "Heaven & Hell",
         "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 194758,
       "name": "To Be Young (feat. Doja Cat)",
       "url": "https://open.spotify.com/track/4YAg8h8WliHZlW5wuv8Jpk"
+    },
+    {
+      "added_at": "2022-09-09 23:24:08",
+      "album": {
+        "name": "ur just horny",
+        "url": "https://open.spotify.com/album/2LhBsI65bqTpO8pVlZhK0A"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "duration_ms": 178787,
+      "name": "ur just horny",
+      "url": "https://open.spotify.com/track/02gGfhPHk5NuN0mgbKpU4Y"
     },
     {
       "added_at": "2022-09-09 23:24:08",

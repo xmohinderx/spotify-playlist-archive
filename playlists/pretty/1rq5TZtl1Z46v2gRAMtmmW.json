@@ -1,13 +1,49 @@
 {
   "description": "",
-  "num_followers": 26702,
+  "num_followers": 26714,
   "original_name": "Ninja Tune - New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "MzEzNSw4NzRjNTFmMDgyYWJmZWEzMWFlNWQwMjg3NDY0MGQ5NTRhNmI2NDZl",
+  "snapshot_id": "MzE0MiwzOTA2MjY2ODkyMWQzNDFkYWJiYzE2NTNkMzMyYWIwNWU5ODgyY2E4",
   "tracks": [
+    {
+      "added_at": "2022-09-16 10:12:24",
+      "album": {
+        "name": "Circulus Vitiosus",
+        "url": "https://open.spotify.com/album/5xFPu0JBe4Wxh7gcu9Idmd"
+      },
+      "artists": [
+        {
+          "name": "VTSS",
+          "url": "https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN"
+        }
+      ],
+      "duration_ms": 112471,
+      "name": "Notoriously Fast",
+      "url": "https://open.spotify.com/track/0GBLXfE9GbUSH2jF4Pr3yR"
+    },
+    {
+      "added_at": "2022-09-16 10:12:38",
+      "album": {
+        "name": "Opening The Door",
+        "url": "https://open.spotify.com/album/7qWVvcaFH5Wlv0vxBXMOUQ"
+      },
+      "artists": [
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "duration_ms": 228727,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/1xqkbi0rZNNcbGv8r6kK8p"
+    },
     {
       "added_at": "2022-09-06 16:08:20",
       "album": {
@@ -43,6 +79,22 @@
       "duration_ms": 277432,
       "name": "Dancing In The Shadows",
       "url": "https://open.spotify.com/track/2edB8M0PPZCoYKm8ohDaNm"
+    },
+    {
+      "added_at": "2022-09-16 19:22:02",
+      "album": {
+        "name": "MOSQUITO",
+        "url": "https://open.spotify.com/album/4Kn8Km3RZWAM7LfK3bfrKK"
+      },
+      "artists": [
+        {
+          "name": "LYZZA",
+          "url": "https://open.spotify.com/artist/57xaBKepmdqQ6BjXkiHa4B"
+        }
+      ],
+      "duration_ms": 206750,
+      "name": "Blush Me Out!",
+      "url": "https://open.spotify.com/track/7At2LwoalVOj9MY9GH1EST"
     },
     {
       "added_at": "2022-08-25 16:34:57",
@@ -167,22 +219,6 @@
       "duration_ms": 364165,
       "name": "You Need Me",
       "url": "https://open.spotify.com/track/1qJhgjy1XcepOKrM3w7xuB"
-    },
-    {
-      "added_at": "2022-08-19 21:10:16",
-      "album": {
-        "name": "Ressaca",
-        "url": "https://open.spotify.com/album/6XDY3vEmW4Y2FDrIEnaht5"
-      },
-      "artists": [
-        {
-          "name": "LYZZA",
-          "url": "https://open.spotify.com/artist/57xaBKepmdqQ6BjXkiHa4B"
-        }
-      ],
-      "duration_ms": 205141,
-      "name": "Ressaca",
-      "url": "https://open.spotify.com/track/32Gt9yyt4yDKD8sVyGS1ig"
     },
     {
       "added_at": "2022-07-22 15:12:17",
@@ -675,38 +711,6 @@
       "duration_ms": 192592,
       "name": "Dear Gina",
       "url": "https://open.spotify.com/track/3GoL5HaRpCMpVrJhP1akfh"
-    },
-    {
-      "added_at": "2022-03-04 21:14:26",
-      "album": {
-        "name": "Bruises",
-        "url": "https://open.spotify.com/album/6uHzKD648X9MoK0Z2vo8LW"
-      },
-      "artists": [
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        }
-      ],
-      "duration_ms": 245290,
-      "name": "Defection",
-      "url": "https://open.spotify.com/track/3I4tQHg9oJ9jYtQJTKb2QO"
-    },
-    {
-      "added_at": "2022-02-04 17:21:23",
-      "album": {
-        "name": "Ants From Up There",
-        "url": "https://open.spotify.com/album/21xp7NdU1ajmO1CX0w2Egd"
-      },
-      "artists": [
-        {
-          "name": "Black Country, New Road",
-          "url": "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
-        }
-      ],
-      "duration_ms": 297906,
-      "name": "Good Will Hunting",
-      "url": "https://open.spotify.com/track/0Ppd0oDauQpaQgNvpHzq24"
     }
   ],
   "unique_name": "Ninja Tune - New Releases",

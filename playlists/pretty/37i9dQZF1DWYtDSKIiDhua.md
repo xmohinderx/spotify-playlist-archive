@@ -4,24 +4,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 > The R&B and good vibe tracks for your current mood\. Cover: Jessie Reyez
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,240 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,340 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [P.S\. I LOVE YOU](https://open.spotify.com/track/1w3azB0VuRFp79AduIwrIy) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [P.S\. I LOVE YOU](https://open.spotify.com/album/3AIGFmb0M86SOig1ghbxvq) | 4:00 |
-| 2 | [ONLY ONE](https://open.spotify.com/track/3eOdplB2tlEsEfWd8WKf0e) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [ONLY ONE](https://open.spotify.com/album/6wDeULI9weCchekIbT3FKO) | 3:03 |
+| 2 | [ONLY ONE](https://open.spotify.com/track/04xnC2Uwq38RPrwCLv6f0G) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [YESSIE](https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV) | 3:03 |
 | 3 | [Wonder Woman](https://open.spotify.com/track/3BLWGYOcy1svvsBByeFxLh) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [LEGEND](https://open.spotify.com/album/0kRBs6M0VbrourQ6fYbCiJ) | 2:48 |
 | 4 | [The Way You Move](https://open.spotify.com/track/3Ki7n1kx9fzuflkW03iRuw) | [Ruth Garcia](https://open.spotify.com/artist/3VhvDHThiOy3cUZvAR1ZKq) | [The Way You Move](https://open.spotify.com/album/6dppoapvb182OdcmaTqaNc) | 3:33 |
 | 5 | [NVMD](https://open.spotify.com/track/7ArVzlFsFsQXNseVXmdOyk) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [NVMD](https://open.spotify.com/album/7loTzM9oCoxuoHXWs3crbd) | 3:01 |
 | 6 | [buzzcut](https://open.spotify.com/track/5uzelqnup22nD2CwxUQGIU) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [buzzcut](https://open.spotify.com/album/4FHh7OcRS13Whv41NW30ux) | 2:34 |
-| 7 | [Would You Mind](https://open.spotify.com/track/5kbvcxWFMPNY1zPI3y0wHa) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Making Steak](https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6) | 3:22 |
-| 8 | [Nice & Slow \- Ryan James Carr Remake](https://open.spotify.com/track/31YudjfCQCpRYDeDMskWGh) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Ryan James Carr](https://open.spotify.com/artist/5V5f4rVZkRnl5O17X1vDM1) | [My Way \(25th Anniversary Edition\)](https://open.spotify.com/album/3ideAfrVvWpeZkKB9fOz81) | 3:12 |
-| 9 | [handbook](https://open.spotify.com/track/75JGsgZiv72lPsjeUTiCS9) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [Nieman](https://open.spotify.com/artist/4SwV4H2atecTIdXKyLfSfR), [Patrick Hizon](https://open.spotify.com/artist/7sH3l8uRghf9V149Gnu63X) | [handbook](https://open.spotify.com/album/5wodFXORE5lgHYkK4XzJeC) | 3:15 |
-| 10 | [Love When You Love](https://open.spotify.com/track/3eDngrH9wKzUCeROZLTxGu) | [Primprao](https://open.spotify.com/artist/2evaVvfO7NoA2HoVnKke7n) | [Love When You Love](https://open.spotify.com/album/7rZvrDMwXNDQF7iLCxAC1D) | 2:52 |
-| 11 | [Fool 4 U](https://open.spotify.com/track/0UFthA0qo3JDLxqfG25kgP) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y4](https://open.spotify.com/album/2OF3O1Dl0IAuCwg6OaFzNR) | 2:59 |
-| 12 | [Impossible To Love You](https://open.spotify.com/track/6bBnvKVHuImtiQap2V9JZt) | [Ai.Z](https://open.spotify.com/artist/3WskbYlYe2qJrMtYnkIvKk) | [Impossible To Love You](https://open.spotify.com/album/3JluM3q4Ve8YuBXPnE1dx0) | 3:39 |
-| 13 | [THANK YOU 4 LOVIN’ ME](https://open.spotify.com/track/557XVqKgnYAxvvyczr2zDg) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [LOVERs PLAYBOOK](https://open.spotify.com/album/78UznjghWeYXMeN201KLtC) | 4:29 |
-| 14 | [See Through Love \(feat\. Chris Brown\)](https://open.spotify.com/track/0IogifAdwkriM0XAW0zESH) | [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [R&B MONEY](https://open.spotify.com/album/71nLT87STaJugBB3qub0Ri) | 3:50 |
+| 7 | [ore ore](https://open.spotify.com/track/2hPvWV02856ZW1LSWbOycO) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [imagine club](https://open.spotify.com/album/1Fhu3FJHqttNA1d6e7VXxC) | 3:31 |
+| 8 | [Would You Mind](https://open.spotify.com/track/5kbvcxWFMPNY1zPI3y0wHa) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Making Steak](https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6) | 3:22 |
+| 9 | [Nice & Slow \- Ryan James Carr Remake](https://open.spotify.com/track/31YudjfCQCpRYDeDMskWGh) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Ryan James Carr](https://open.spotify.com/artist/5V5f4rVZkRnl5O17X1vDM1) | [My Way \(25th Anniversary Edition\)](https://open.spotify.com/album/3ideAfrVvWpeZkKB9fOz81) | 3:12 |
+| 10 | [handbook](https://open.spotify.com/track/75JGsgZiv72lPsjeUTiCS9) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [Nieman](https://open.spotify.com/artist/4SwV4H2atecTIdXKyLfSfR), [Patrick Hizon](https://open.spotify.com/artist/7sH3l8uRghf9V149Gnu63X) | [handbook](https://open.spotify.com/album/5wodFXORE5lgHYkK4XzJeC) | 3:15 |
+| 11 | [Love When You Love](https://open.spotify.com/track/3eDngrH9wKzUCeROZLTxGu) | [Primprao](https://open.spotify.com/artist/2evaVvfO7NoA2HoVnKke7n) | [Love When You Love](https://open.spotify.com/album/7rZvrDMwXNDQF7iLCxAC1D) | 2:52 |
+| 12 | [Fool 4 U](https://open.spotify.com/track/0UFthA0qo3JDLxqfG25kgP) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y4](https://open.spotify.com/album/2OF3O1Dl0IAuCwg6OaFzNR) | 2:59 |
+| 13 | [Impossible To Love You](https://open.spotify.com/track/6bBnvKVHuImtiQap2V9JZt) | [Ai.Z](https://open.spotify.com/artist/3WskbYlYe2qJrMtYnkIvKk) | [Impossible To Love You](https://open.spotify.com/album/3JluM3q4Ve8YuBXPnE1dx0) | 3:39 |
+| 14 | [THANK YOU 4 LOVIN’ ME](https://open.spotify.com/track/557XVqKgnYAxvvyczr2zDg) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [LOVERs PLAYBOOK](https://open.spotify.com/album/78UznjghWeYXMeN201KLtC) | 4:29 |
 | 15 | [Make Me Wanna](https://open.spotify.com/track/3spheePAIR3lvJ5ljJ1BV0) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Make Me Wanna](https://open.spotify.com/album/1uciD7NduLXz1LG5IMn3mG) | 2:19 |
 | 16 | [playing tricks](https://open.spotify.com/track/6zaayoVlfFp5YmQArKWkRG) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [playing tricks](https://open.spotify.com/album/2qHP34bvPUluFtdG8QRywz) | 3:04 |
 | 17 | [i hate u owe me $$](https://open.spotify.com/track/75RainG5pTfpOH1Hj937BU) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5), [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [i hate u owe me $$](https://open.spotify.com/album/6erAGsVqS76Ei8fu66QoKa) | 2:50 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 | 74 | [Fine With Me](https://open.spotify.com/track/4gh7H3A9DUImxhzeDjk7fu) | [Slodown](https://open.spotify.com/artist/3bdade2XqS9F4378nhCNcl) | [Under The Rose](https://open.spotify.com/album/4AftlAP5Qsw1CJAyRDz3rT) | 4:32 |
 | 75 | [You Right](https://open.spotify.com/track/0k4d5YPDr1r7FX77VdqWez) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:06 |
 
-Snapshot ID: `MTY2MzI2ODcxNywwMDAwMDAwMDBmNDBkMTUyZWU4YjZhOTcyNTQyZWFmZmM1MDMwYmU5`
+Snapshot ID: `MTY2MzMyMzE4MywwMDAwMDAwMGRmYmRhMTAwNjE4ZWJiMmY2NmY5NGEzN2RiYjQ5NTYy`

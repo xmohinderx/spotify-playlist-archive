@@ -2,9 +2,9 @@
 
 ### [K\-Pop ON! \(온\)](https://open.spotify.com/playlist/37i9dQZF1DX9tPFwDMOaN1)
 
-> Let's turn ON the movement! Cover: NewJeans
+> Let's turn ON the movement! Cover: BLACKPINK
 
-184 songs - 9 hr 58 min - [published](https://open.spotify.com/playlist/05j7NY1SwyJ5jKPj2s00I0)
+185 songs - 10 hr 1 min - [published](https://open.spotify.com/playlist/05j7NY1SwyJ5jKPj2s00I0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [Queendom](https://open.spotify.com/track/6SpPr7K4YQ2wp8jU6uOTmQ) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Queendom \- The 6th Mini Album](https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV) | 3:01 | 2021-12-13 | 2022-05-12 |
 | [Rich Kids Anthem \(Feat\. Lee Hi\)](https://open.spotify.com/track/4nF3APHarLJHV3igGVgTUJ) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Epik High Is Here 下 \(Part 2\)](https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh) | 3:37 | 2022-02-16 | 2022-04-09 |
 | [RING ma Bell \(what a wonderful world\)](https://open.spotify.com/track/2b2Nibg3lTUTKctwwb7bEv) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [the Billage of perception: chapter two](https://open.spotify.com/album/0NuM7kwh6u6fIRjn7Zh7Ss) | 3:26 | 2022-09-08 |  |
-| [Ring The Alarm](https://open.spotify.com/track/6jUq2EfNMW7SizzNVVGvhm) | [KARD](https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ) | [KARD 5th Mini Album 'Re:'](https://open.spotify.com/album/7pXpC584OFCNWOFmmufGjl) | 3:05 | 2022-06-27 |  |
+| [Ring The Alarm](https://open.spotify.com/track/6jUq2EfNMW7SizzNVVGvhm) | [KARD](https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ) | [KARD 5th Mini Album 'Re:'](https://open.spotify.com/album/7pXpC584OFCNWOFmmufGjl) | 3:05 | 2022-06-27 | 2022-09-17 |
 | [Rock with you](https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 9th Mini Album 'Attacca'](https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd) | 3:00 | 2021-12-13 | 2022-04-12 |
 | [Ruby](https://open.spotify.com/track/5ljGBxXb9LthJK0rW61G6X) | [WOOZI](https://open.spotify.com/artist/4TdiASPlU3QdZvGQBothcQ) | [Ruby](https://open.spotify.com/album/35F1IiTWhlrhjCSQOwvCC6) | 2:43 | 2022-01-10 | 2022-02-23 |
 | [RUN2U](https://open.spotify.com/track/3gFcGnU4kTdMYLXDjH1TK8) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [YOUNG\-LUV.COM](https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o) | 3:33 | 2022-02-22 | 2022-08-25 |
@@ -145,6 +145,7 @@
 | [Savage](https://open.spotify.com/track/3dbLT62Cvs46Ju7a8gpr36) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Savage \- The 1st Mini Album](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) | 3:58 | 2021-12-13 | 2022-07-07 |
 | [SCIENTIST](https://open.spotify.com/track/2J0TRU2EDG29qlmxdGa4xa) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/51aC8iSMhWlYY6ymv7P8zi) | 3:14 | 2021-12-13 | 2022-04-29 |
 | [SEXY NUKIM \(feat\. RM of BTS\)](https://open.spotify.com/track/1XkMxUilV0E3ChDERZJUEq) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1), [Omega Sapien](https://open.spotify.com/artist/46KQM3HJyONaKRTbcfNPlU), [bj wnjn](https://open.spotify.com/artist/4E4TZnDHlrhclSJgeund1d), [Mudd the student](https://open.spotify.com/artist/4xHlg3Tcv7TZZzFq0aW2hQ), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [SEXY NUKIM \(feat\. RM of BTS\)](https://open.spotify.com/album/7osIz9TFdxYQAm4fgakanT) | 3:49 | 2022-09-12 |  |
+| [Shut Down](https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 2:55 | 2022-09-16 |  |
 | [Slow Mo](https://open.spotify.com/track/2stElshTCkdXTnCkD9moQF) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [B](https://open.spotify.com/album/1J1S8EQgILHHmy64ouQXh7) | 2:32 | 2022-01-26 | 2022-03-04 |
 | [SMILEY\(Feat\. BIBI\)](https://open.spotify.com/track/4zCIxSnVWpGNghERX4uWZF) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [ˣ‿ˣ \(SMiLEY\)](https://open.spotify.com/album/7qldKtsOWklzmwgll5NjCw) | 2:53 | 2022-01-26 | 2022-05-28 |
 | [SNEAKERS](https://open.spotify.com/track/2WoluqyWzsgRmFCeHeGlnm) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHECKMATE](https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK) | 2:59 | 2022-07-15 |  |

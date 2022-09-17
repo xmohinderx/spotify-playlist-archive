@@ -4,7 +4,7 @@
 
 > ¡A preparar la comida con la sazón de música rica y antigüita!
 
-134 songs - 8 hr 4 min - [published](https://open.spotify.com/playlist/220Sx5aDDrrVs33TO5unGx)
+135 songs - 8 hr 8 min - [published](https://open.spotify.com/playlist/220Sx5aDDrrVs33TO5unGx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Cempasúchil \(feat\. Rubén Albarrán\)](https://open.spotify.com/track/6bTV2jijcPHbyAzBtdZKOw) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Rubén Albarrán](https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0) | [Caja De Música \(Edición Especial\)](https://open.spotify.com/album/0c3JGBp60aExJSYIQ0Hbej) | 4:14 | 2020-05-28 | 2022-07-29 |
 | [Che Che Cole](https://open.spotify.com/track/5KaNVtMkaanRibXwdM7qqb) | [Antibalas](https://open.spotify.com/artist/2KGF6IKZfVGCKfyqcNVGfh) | [Government Magic](https://open.spotify.com/album/5EEsbpPgWsbdYbZg3AxtsO) | 4:07 | 2020-05-28 |  |
 | [Chicharrones](https://open.spotify.com/track/0wQ2xkadkllQgL1mVQ4rSE) | [Compay Segundo](https://open.spotify.com/artist/2wpr4ILskkRzPBGodmbMs1) | [Guantanamera \- The Essential Album](https://open.spotify.com/album/4W6m2GSdqjaJET161icuDU) | 4:30 | 2020-05-28 |  |
+| [Clandestina \- Spotify Singles](https://open.spotify.com/track/1Oie9uASbo83OrEkZ2whEM) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Spotify Singles](https://open.spotify.com/album/1KFVMgFxBDhf1fprYdbxHl) | 3:29 | 2022-04-19 |  |
 | [Clandestina \- Spotify Singles](https://open.spotify.com/track/2ETi6XTUOuEjObLiRNmO8F) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Spotify Singles](https://open.spotify.com/album/6HqgKz3U8TtxrwikzgEKfJ) | 3:29 | 2022-04-19 | 2022-09-15 |
 | [Clandestino](https://open.spotify.com/track/5bCp9MMG1Qo4QB2OHoSRpN) | [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Público](https://open.spotify.com/album/5rZSelFMehsRmVV0wBlqTR) | 2:25 | 2022-01-11 |  |
 | [Coconut Water](https://open.spotify.com/track/4d1CoRChi1Hi2795N5JB3G) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe) | [This Is Desmond Dekker \(Enhanced Edition\)](https://open.spotify.com/album/6zmXwlVf8f9wpC4VEvpVUl) | 3:29 | 2020-05-28 |  |
@@ -91,7 +92,7 @@
 | [Mangos](https://open.spotify.com/track/1Y1NCOWQ4KCzlTtrcwX7K9) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK) | [Dedicated To Nelson](https://open.spotify.com/album/3RUASfTxsMb16WXKKcue8C) | 2:45 | 2020-05-28 |  |
 | [Maria cristina](https://open.spotify.com/track/0cvA6fi7toLVE7FieQ6IIm) | [Nico Saquito y su conjunto de de oriente](https://open.spotify.com/artist/3aTYGh8T5tvJDE0s2v5WpR) | [Son Cosas De Nico Saquito](https://open.spotify.com/album/1tY6yFdD3dbdO0aK6dcKBd) | 2:40 | 2022-01-11 | 2022-08-19 |
 | [Maria Cristina \- Remastered](https://open.spotify.com/track/5sdcFoCzltb0otINxAFwdl) | [Ñico Saquito](https://open.spotify.com/artist/0OThc8JLqTb1ThkLfsIGUi) | [María Cristina \(Remastered\)](https://open.spotify.com/album/0DoO50j6mZVJ3W7vf1YRW3) | 2:38 | 2022-01-11 | 2022-07-29 |
-| [María Cristina \- Remastered](https://open.spotify.com/track/5zimrebZIVCXRfcFuVbSqd) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Los 22 Grandes Éxitos de Pérez Prado \(Remastered\)](https://open.spotify.com/album/4NT0vaw4EP7hApFQCXqmoo) | 2:27 | 2022-01-11 |  |
+| [María Cristina \- Remastered](https://open.spotify.com/track/5zimrebZIVCXRfcFuVbSqd) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Los 22 Grandes Éxitos de Pérez Prado \(Remastered\)](https://open.spotify.com/album/4NT0vaw4EP7hApFQCXqmoo) | 2:27 | 2022-01-11 | 2022-09-17 |
 | [Me Voy Pa'l Pueblo](https://open.spotify.com/track/3buA1wR2SA347hFcbDvpSt) | [Los Super Seven](https://open.spotify.com/artist/3G6aMsYTQkix5YQrtuj9hu) | [Canto](https://open.spotify.com/album/4CVtGsFWsxDZQHgyQQsAY3) | 5:24 | 2022-01-11 |  |
 | [Merecumbé del cantinero](https://open.spotify.com/track/2yfTxhGOsfpKHcJJiZBKTT) | [Marimba Cuquita de los Hermanos Narvaez](https://open.spotify.com/artist/0ioh6FwJgyen3UNGYiL0fm) | [Antología\. \. .Marimba Cuquita de los Hermanos Narvaez](https://open.spotify.com/album/4iofQumfq1VzKug1C5K3cb) | 3:01 | 2020-05-28 |  |
 | [Mezcalero Feliz](https://open.spotify.com/track/6A5RAPGLBpLHa4eK5f1FDJ) | [Boogát](https://open.spotify.com/artist/2y2bEk3zCBVBMDkrXgA29R) | [San Cristóbal Baile Inn](https://open.spotify.com/album/5EFYMAtgVkG2Rd5olUHDpO) | 3:13 | 2020-05-28 | 2022-08-19 |

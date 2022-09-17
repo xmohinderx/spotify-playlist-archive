@@ -1,12 +1,12 @@
 {
   "description": "Take a break from distorted guitars and enjoy punk's mellow side. Cover: Avril Lavigne",
-  "num_followers": 310248,
+  "num_followers": 310296,
   "original_name": "Punk Unplugged",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTA4NDYzMywwMDAwMDAwMDU3Y2E5Y2NlYjRlMDc5ZjQ2ZTI5OTMxNTUwMzUxY2Fi",
+  "snapshot_id": "MTY0OTA4NDYzMywwMDAwMDAwMGNkOGI0M2EzYjU3MmVhOTQ4NDJmNTRiMTllODM5NTVi",
   "tracks": [
     {
       "added_at": "2022-04-04 15:03:53",
@@ -531,22 +531,6 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "Acoustic Volume 2",
-        "url": "https://open.spotify.com/album/0XIVAebYjcGqbWVHdVLLKD"
-      },
-      "artists": [
-        {
-          "name": "Bayside",
-          "url": "https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk"
-        }
-      ],
-      "duration_ms": 215385,
-      "name": "It Don't Exist",
-      "url": "https://open.spotify.com/track/2NWzOzEnfD5dc4SEgUkgY7"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
         "name": "Chasing Lonely",
         "url": "https://open.spotify.com/album/4nTEp8V1ov0Z47RT1XMmQJ"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 188608,
       "name": "Novocaine",
       "url": "https://open.spotify.com/track/0WlfydvmDWXRdPSqbcjmLR"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
+        "name": "Acoustic Volume 2",
+        "url": "https://open.spotify.com/album/0XIVAebYjcGqbWVHdVLLKD"
+      },
+      "artists": [
+        {
+          "name": "Bayside",
+          "url": "https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk"
+        }
+      ],
+      "duration_ms": 215385,
+      "name": "It Don't Exist",
+      "url": "https://open.spotify.com/track/2NWzOzEnfD5dc4SEgUkgY7"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -979,38 +979,6 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "The Eulogy of You and Me (Acoustic)",
-        "url": "https://open.spotify.com/album/7LkoDMiD7dXSQF6tyYt6OR"
-      },
-      "artists": [
-        {
-          "name": "Huddy",
-          "url": "https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f"
-        }
-      ],
-      "duration_ms": 191847,
-      "name": "The Eulogy of You and Me - Acoustic",
-      "url": "https://open.spotify.com/track/4TiXtzotMUHwn8ylMowMNl"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
-        "name": "When the Dust Settles",
-        "url": "https://open.spotify.com/album/2vsNr3uR7EfWMj2Qqt0i4U"
-      },
-      "artists": [
-        {
-          "name": "Can't Swim",
-          "url": "https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU"
-        }
-      ],
-      "duration_ms": 188093,
-      "name": "\u201csometimes you meet the right people at the wrong times\u201d - Revisited",
-      "url": "https://open.spotify.com/track/60fAMBBIVvW6mao5zVkzIZ"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
         "name": "Empty Throne (Acoustic)",
         "url": "https://open.spotify.com/album/5Oad5COo5IwNpeqDsWedmg"
       },
@@ -1023,6 +991,38 @@
       "duration_ms": 295800,
       "name": "Empty Throne - Acoustic",
       "url": "https://open.spotify.com/track/6ENH2r9VtuBrPmAV5R7t1f"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
+        "name": "Unplugged",
+        "url": "https://open.spotify.com/album/0PEFBp4wzBigHBO36a8ETV"
+      },
+      "artists": [
+        {
+          "name": "State Champs",
+          "url": "https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr"
+        }
+      ],
+      "duration_ms": 214275,
+      "name": "10 Am",
+      "url": "https://open.spotify.com/track/104sjKzfCfEVL3ppGjOah2"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
+        "name": "The Eulogy of You and Me (Acoustic)",
+        "url": "https://open.spotify.com/album/7LkoDMiD7dXSQF6tyYt6OR"
+      },
+      "artists": [
+        {
+          "name": "Huddy",
+          "url": "https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f"
+        }
+      ],
+      "duration_ms": 191847,
+      "name": "The Eulogy of You and Me - Acoustic",
+      "url": "https://open.spotify.com/track/4TiXtzotMUHwn8ylMowMNl"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "Unplugged",
-        "url": "https://open.spotify.com/album/0PEFBp4wzBigHBO36a8ETV"
+        "name": "When the Dust Settles",
+        "url": "https://open.spotify.com/album/2vsNr3uR7EfWMj2Qqt0i4U"
       },
       "artists": [
         {
-          "name": "State Champs",
-          "url": "https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr"
+          "name": "Can't Swim",
+          "url": "https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU"
         }
       ],
-      "duration_ms": 214275,
-      "name": "10 Am",
-      "url": "https://open.spotify.com/track/104sjKzfCfEVL3ppGjOah2"
+      "duration_ms": 188093,
+      "name": "\u201csometimes you meet the right people at the wrong times\u201d - Revisited",
+      "url": "https://open.spotify.com/track/60fAMBBIVvW6mao5zVkzIZ"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "Every Little Thing, but More Chill",
-        "url": "https://open.spotify.com/album/7tN8iVp8XRBm9hNdropyX3"
-      },
-      "artists": [
-        {
-          "name": "Midfield",
-          "url": "https://open.spotify.com/artist/397cx9Xajaj4QpGMh5b7fY"
-        }
-      ],
-      "duration_ms": 244323,
-      "name": "Every Little Thing, but More Chill",
-      "url": "https://open.spotify.com/track/6uBlr9arbchJmmFBjDle0F"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
         "name": "Limits",
         "url": "https://open.spotify.com/album/13Kz5MQJaH2Gz74OidluA5"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 196350,
       "name": "Limits - Unplugged",
       "url": "https://open.spotify.com/track/3Z06DUeSPpGqqVKoOa9Czi"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
+        "name": "Every Little Thing, but More Chill",
+        "url": "https://open.spotify.com/album/7tN8iVp8XRBm9hNdropyX3"
+      },
+      "artists": [
+        {
+          "name": "Midfield",
+          "url": "https://open.spotify.com/artist/397cx9Xajaj4QpGMh5b7fY"
+        }
+      ],
+      "duration_ms": 244323,
+      "name": "Every Little Thing, but More Chill",
+      "url": "https://open.spotify.com/track/6uBlr9arbchJmmFBjDle0F"
     },
     {
       "added_at": "2022-04-04 15:03:53",

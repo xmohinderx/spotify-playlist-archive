@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 
 > A mix of punk rock to get you through your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 520,861 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 520,860 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 | 32 | [American Jesus](https://open.spotify.com/track/5TZn3LQSWwVPnBlPgFKb54) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Recipe For Hate](https://open.spotify.com/album/1DMLunJrzPkQws2uQU797l) | 3:17 |
 | 33 | [Lights And Sounds](https://open.spotify.com/track/4XOZaPYeMn9hcbpyS90NnD) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Lights And Sounds](https://open.spotify.com/album/5EaEOUs3O1MZRicDMUIuqo) | 3:28 |
 | 34 | [All My Friends Are Nobodies](https://open.spotify.com/track/3xhvI8X8PGCKuKd49ZyFNJ) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Brain Invaders \(Deluxe Edition\)](https://open.spotify.com/album/5JxQ55Wvq2kCWtOQ0gSr9h) | 3:03 |
-| 35 | [I Fought the Law](https://open.spotify.com/track/7lSDCrF11sdTVfjbAQVZE8) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Hits Back](https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S) | 2:43 |
-| 36 | [The Hell Song](https://open.spotify.com/track/17XgxMFNzBYv38TEJRC18D) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Does This Look Infected?](https://open.spotify.com/album/2kLmv0O8blKeM5HKxLtQrC) | 3:18 |
+| 35 | [The Hell Song](https://open.spotify.com/track/17XgxMFNzBYv38TEJRC18D) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Does This Look Infected?](https://open.spotify.com/album/2kLmv0O8blKeM5HKxLtQrC) | 3:18 |
+| 36 | [I Fought the Law](https://open.spotify.com/track/7lSDCrF11sdTVfjbAQVZE8) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Hits Back](https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S) | 2:43 |
 | 37 | [Chip](https://open.spotify.com/track/10UlU5E5RfydywnKmA1nFL) | [The Real McKenzies](https://open.spotify.com/artist/1YczG6BNjM9XAnw64RqnXi) | [Off the Leash](https://open.spotify.com/album/2lm8NrhAtM2ez61pI92J3l) | 3:14 |
 | 38 | [Ghost in My Home](https://open.spotify.com/track/0bjwkqQ0lZSIes3IW7Aeq8) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Ghost in My Home](https://open.spotify.com/album/1gfShNUI5uB4qR2MRQJIGu) | 3:20 |
 | 39 | [She's Kerosene](https://open.spotify.com/track/60FJeNTK5edr72G2xtCWuP) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Fight the Good Fight](https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL) | 2:50 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 | 78 | [Dead and Gone](https://open.spotify.com/track/0QapunlwO9vnL5X6h4YF18) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr) | [Living Proof](https://open.spotify.com/album/1Qb73C8hC76e3R8udyit5I) | 3:11 |
 | 79 | [Get By](https://open.spotify.com/track/1rBlsNeQ1IgT3L4xdUSNY3) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Composure](https://open.spotify.com/album/574qjeKnYHIU246L4MMNbX) | 3:32 |
 | 80 | [Down To Hell](https://open.spotify.com/track/3qKSl5qLMN1iBkUMmu32yX) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Like A House On Fire](https://open.spotify.com/album/5VKKXDvYuJmRc2UQHCwNQK) | 3:16 |
-| 81 | [Never Coming Home](https://open.spotify.com/track/0yNBLz1uAyx4FCxkdkQcqf) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Retrograde](https://open.spotify.com/album/6mJvmCxB01yqOeiccLE7QU) | 3:16 |
-| 82 | [Hotel Beds](https://open.spotify.com/track/4HvBQhvil6T5ISq1qr5u03) | [We Were Sharks](https://open.spotify.com/artist/5VJPxda81cx3ZGltjWM36I) | [Lost Touch](https://open.spotify.com/album/768qzd6dkobekdNcDtw8np) | 2:34 |
+| 81 | [Hotel Beds](https://open.spotify.com/track/4HvBQhvil6T5ISq1qr5u03) | [We Were Sharks](https://open.spotify.com/artist/5VJPxda81cx3ZGltjWM36I) | [Lost Touch](https://open.spotify.com/album/768qzd6dkobekdNcDtw8np) | 2:34 |
+| 82 | [Never Coming Home](https://open.spotify.com/track/0yNBLz1uAyx4FCxkdkQcqf) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Retrograde](https://open.spotify.com/album/6mJvmCxB01yqOeiccLE7QU) | 3:16 |
 | 83 | [We’re Not Alright](https://open.spotify.com/track/3CPm8pViOWEUtCTI4qrWGu) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Brain Invaders \(Deluxe Edition\)](https://open.spotify.com/album/5JxQ55Wvq2kCWtOQ0gSr9h) | 2:55 |
 | 84 | [Degenerates](https://open.spotify.com/track/77Ht6FFAeyHgKl6X87mnTk) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Degenerates](https://open.spotify.com/album/3G3EHIjrfZAcy6w5zIOggZ) | 3:04 |
 | 85 | [So Poetic](https://open.spotify.com/track/731SSWCEANBXRq1KqDuQGE) | [Sundressed](https://open.spotify.com/artist/0KlYEaj5sigNA1iixOstiH) | [Sundressed & Nominee](https://open.spotify.com/album/1UrqgK31uHFp35o2spqTgE) | 3:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 | 99 | [My Town \(feat\. Joe Talbot\)](https://open.spotify.com/track/2gxYf0Tdnn65M6HKzFU1ye) | [Frank Carter & The Rattlesnakes](https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc), [Joe Talbot](https://open.spotify.com/artist/1Gh0mTt3Nt7AeLwWhpJY4R) | [My Town \(feat\. Joe Talbot\)](https://open.spotify.com/album/06cux1Vggkcy0TWsltLziy) | 2:44 |
 | 100 | [Man Overboard](https://open.spotify.com/track/72iJsJMdTGjshAZdNJbSKU) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Greatest Hits](https://open.spotify.com/album/31mnNcl6CzIcX8j9n75vYZ) | 2:46 |
 
-Snapshot ID: `MTY0Mzc1NTQxMSwwMDAwMDAwMGQ0NDczMzM1NThlODVhZGI2YjgzMTQxZTAzMjQyYzRl`
+Snapshot ID: `MTY0Mzc1NTQxMSwwMDAwMDAwMGRjYzRiMzIzNDUxMDFkYWM5OTA2NjZjYzM3MzZhY2Iz`

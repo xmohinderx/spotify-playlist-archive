@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WbJFtYTzv7.md) - [plain]
 
 > Listen to the brand new album 'Ignorance is Bliss' and all his biggest tracks, all in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,470 likes - 62 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,500 likes - 62 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,14 +17,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WbJFtYTzv7.md) - [plain]
 | 7 | [Same Old Story](https://open.spotify.com/track/6kh17zXl4MM4AzSeJP02hB) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Ignorance is Bliss](https://open.spotify.com/album/22zpCX6Nb9ppOVklalvGec) | 3:20 |
 | 8 | [Love Me Not](https://open.spotify.com/track/57FYmXLG6tuXkBuYDSB74C) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Cheb Rabi](https://open.spotify.com/artist/16vsJyquMnS2V05J78aO45), [B Live](https://open.spotify.com/artist/5Dyi0c3gAWXi520W10rX1U) | [Ignorance is Bliss](https://open.spotify.com/album/22zpCX6Nb9ppOVklalvGec) | 3:23 |
 | 9 | [Animal Instinct](https://open.spotify.com/track/6ri5Xg0UxyNP4tScPkGrUo) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [Ignorance is Bliss](https://open.spotify.com/album/22zpCX6Nb9ppOVklalvGec) | 3:09 |
-| 10 | [Glow In The Dark](https://open.spotify.com/track/0kmxWw7KjktV4V1ZpbOeru) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Lay\-Z](https://open.spotify.com/artist/0wjb0t7aYMuIwyuXnPOilh), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Ignorance is Bliss](https://open.spotify.com/album/22zpCX6Nb9ppOVklalvGec) | 2:55 |
+| 10 | [Glow In The Dark](https://open.spotify.com/track/0kmxWw7KjktV4V1ZpbOeru) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Lay\-Z](https://open.spotify.com/artist/0wjb0t7aYMuIwyuXnPOilh), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Ignorance is Bliss](https://open.spotify.com/album/22zpCX6Nb9ppOVklalvGec) | 2:55 |
 | 11 | [You Wish](https://open.spotify.com/track/7HA3jgB7g6uR800FJZ2E7j) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Ignorance is Bliss](https://open.spotify.com/album/22zpCX6Nb9ppOVklalvGec) | 2:46 |
 | 12 | [Gangsta](https://open.spotify.com/track/1gLEdHMnuTP11tWYovZbZi) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Boy Better Know](https://open.spotify.com/artist/180XcSBai6RDpuElMcKk2v) | [Ignorance is Bliss](https://open.spotify.com/album/22zpCX6Nb9ppOVklalvGec) | 3:19 |
 | 13 | [Pure Water](https://open.spotify.com/track/27H75QUZMb6C0vNfN3T370) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Ignorance is Bliss](https://open.spotify.com/album/22zpCX6Nb9ppOVklalvGec) | 3:11 |
 | 14 | [That's Not Me](https://open.spotify.com/track/3tTDOodJcr6vKF2DASlwMZ) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Jme](https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5) | [Konnichiwa](https://open.spotify.com/album/6s4vWWWxNrGcKhrOFYRZzk) | 3:05 |
 | 15 | [Man](https://open.spotify.com/track/13w7sJT2Xu6AN4gGj4wGv3) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Konnichiwa](https://open.spotify.com/album/6s4vWWWxNrGcKhrOFYRZzk) | 3:34 |
 | 16 | [No Security](https://open.spotify.com/track/5y2K7jr9M8t1HRAu9jzssT) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [No Security](https://open.spotify.com/album/3tflD6jEQxt1AxQ65N9q5O) | 3:39 |
-| 17 | [Energy \(Stay Far Away\)](https://open.spotify.com/track/11RIJRbBfyLlJut96itSFd) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Energy \(Stay Far Away\)](https://open.spotify.com/album/6c2FMAZeFKi8pui6dlZqXB) | 3:19 |
+| 17 | [Energy \(Stay Far Away\)](https://open.spotify.com/track/11RIJRbBfyLlJut96itSFd) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Energy \(Stay Far Away\)](https://open.spotify.com/album/6c2FMAZeFKi8pui6dlZqXB) | 3:19 |
 | 18 | [Shutdown](https://open.spotify.com/track/44GokgCa37BTZP2NU2zkoJ) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Konnichiwa](https://open.spotify.com/album/6s4vWWWxNrGcKhrOFYRZzk) | 3:08 |
 | 19 | [Ace Hood Flow](https://open.spotify.com/track/2YAoax0ADUsZO9L4CE35ia) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Blacklisted](https://open.spotify.com/album/1w9JFLfJEGPibnydqQlPAO) | 3:13 |
 | 20 | [It Ain't Safe](https://open.spotify.com/track/26DdCbuwHRX1BgWeHQIn1C) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Young Lord](https://open.spotify.com/artist/7G9Go5hPwIt35X3imxJrVn) | [Konnichiwa](https://open.spotify.com/album/6s4vWWWxNrGcKhrOFYRZzk) | 3:43 |

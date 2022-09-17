@@ -1,13 +1,77 @@
 {
-  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Madison Kozak",
-  "num_followers": 69611,
+  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Katherine Li",
+  "num_followers": 69673,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjcyOTI3NiwwMDAwMDAwMDYyYzNiYzY5YTZmMDljMGNkZDQyODJhNTcxMThmYmMy",
+  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMGEzYTMwYWZkNTczZmFjZTFhYjFkNzJmMjA1ZDQ2ZTA2",
   "tracks": [
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "I Don't Care",
+        "url": "https://open.spotify.com/album/1j7aFjim8kdthezxLxAuld"
+      },
+      "artists": [
+        {
+          "name": "Katherine Li",
+          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
+        }
+      ],
+      "duration_ms": 183941,
+      "name": "I Don't Care",
+      "url": "https://open.spotify.com/track/1lY4b6mJkkPJR0dSCYaGAp"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Backseat (All I Got)",
+        "url": "https://open.spotify.com/album/2xThJS2sGsL9Vnrhci25GR"
+      },
+      "artists": [
+        {
+          "name": "Sam MacPherson",
+          "url": "https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh"
+        }
+      ],
+      "duration_ms": 153466,
+      "name": "Backseat (All I Got)",
+      "url": "https://open.spotify.com/track/0YG41SCyuiMYUIsflxmRbU"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Loud",
+        "url": "https://open.spotify.com/album/0LEW3Cj5UU2oC2bM6yAJhI"
+      },
+      "artists": [
+        {
+          "name": "Eva Westphal",
+          "url": "https://open.spotify.com/artist/32obs0w1xupMz2CXf5B9wb"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Loud",
+      "url": "https://open.spotify.com/track/2YDPikS8jvS2rsWF0ozCvY"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Two Places at Once",
+        "url": "https://open.spotify.com/album/53nT8IUeQ1Eig7t5W2jS2v"
+      },
+      "artists": [
+        {
+          "name": "Haley Joelle",
+          "url": "https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8"
+        }
+      ],
+      "duration_ms": 199395,
+      "name": "Two Places at Once",
+      "url": "https://open.spotify.com/track/0l8p1TkaVgcwIUS0xwm6Y5"
+    },
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
@@ -25,20 +89,20 @@
       "url": "https://open.spotify.com/track/0hRCg9wtCKF0NhTrogZ6qF"
     },
     {
-      "added_at": "2022-09-09 04:00:00",
+      "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "I Don't Care",
-        "url": "https://open.spotify.com/album/1j7aFjim8kdthezxLxAuld"
+        "name": "Tornado Warnings",
+        "url": "https://open.spotify.com/album/51G4VeQtOObldVbGda0oy3"
       },
       "artists": [
         {
-          "name": "Katherine Li",
-          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
+          "name": "Katie Lynne Sharbaugh",
+          "url": "https://open.spotify.com/artist/7ufoDy3DR2gEi68WTyUGcu"
         }
       ],
-      "duration_ms": 183941,
-      "name": "I Don't Care",
-      "url": "https://open.spotify.com/track/1lY4b6mJkkPJR0dSCYaGAp"
+      "duration_ms": 188000,
+      "name": "Tornado Warnings",
+      "url": "https://open.spotify.com/track/6DY0iLFVIw9EvFSVzaoNbu"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -57,20 +121,20 @@
       "url": "https://open.spotify.com/track/1uw7DIRDt68BtoYhavfRca"
     },
     {
-      "added_at": "2022-09-09 04:00:00",
+      "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Two Places at Once",
-        "url": "https://open.spotify.com/album/53nT8IUeQ1Eig7t5W2jS2v"
+        "name": "The End of the World!",
+        "url": "https://open.spotify.com/album/2sOAJgVkXTyNVMiz6JfwVO"
       },
       "artists": [
         {
-          "name": "Haley Joelle",
-          "url": "https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8"
+          "name": "Natasha Hunt Lee",
+          "url": "https://open.spotify.com/artist/6Yi69bUzuXBHyE4aWaJyRQ"
         }
       ],
-      "duration_ms": 199395,
-      "name": "Two Places at Once",
-      "url": "https://open.spotify.com/track/0l8p1TkaVgcwIUS0xwm6Y5"
+      "duration_ms": 175146,
+      "name": "The End of the World",
+      "url": "https://open.spotify.com/track/0sPiprJhzkw97wt1bXxlMm"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -103,6 +167,22 @@
       "duration_ms": 244403,
       "name": "Eddie's Song",
       "url": "https://open.spotify.com/track/6mO9n6CncvYtIcfWjFKsYH"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Right Person Right Time",
+        "url": "https://open.spotify.com/album/2VFni6wfmAnqDS7OWnBUt6"
+      },
+      "artists": [
+        {
+          "name": "Rachel Grae",
+          "url": "https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Right Person Right Time",
+      "url": "https://open.spotify.com/track/5OkOmrLsbr8Lg5wj89LOUb"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -811,22 +891,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "People Can Change",
-        "url": "https://open.spotify.com/album/5VR3ZzZuM7c4LaHu1vjOBV"
-      },
-      "artists": [
-        {
-          "name": "YDE",
-          "url": "https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW"
-        }
-      ],
-      "duration_ms": 169630,
-      "name": "People Can Change",
-      "url": "https://open.spotify.com/track/0dtysSew3Hb1o8e4h1IPSz"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "we're all sad here",
         "url": "https://open.spotify.com/album/1twRDbvHKiuFTLeAKfMbH4"
       },
@@ -1303,70 +1367,6 @@
       "duration_ms": 177720,
       "name": "Until I Found You",
       "url": "https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "van gogh",
-        "url": "https://open.spotify.com/album/5VI3LQqNNX2ptjVQgmff3a"
-      },
-      "artists": [
-        {
-          "name": "Avril Jensen",
-          "url": "https://open.spotify.com/artist/5V9RpFO4rgqQ1P5ZLbMVqA"
-        }
-      ],
-      "duration_ms": 206114,
-      "name": "van gogh",
-      "url": "https://open.spotify.com/track/5rfuxu9SeVji8qyeeltjI6"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/5SrnJoj6SyYblCwkraKsha"
-      },
-      "artists": [
-        {
-          "name": "Mina Okabe",
-          "url": "https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl"
-        }
-      ],
-      "duration_ms": 182076,
-      "name": "Every Second",
-      "url": "https://open.spotify.com/track/0GxUJLTF4RanPVwY1YpcZ3"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "saw ur mom at the grocery store",
-        "url": "https://open.spotify.com/album/4smhUC8DjcBD3i0hIOlkYP"
-      },
-      "artists": [
-        {
-          "name": "Abby Cates",
-          "url": "https://open.spotify.com/artist/2LwlPBOoq9EqTOmKi4lJ2n"
-        }
-      ],
-      "duration_ms": 253968,
-      "name": "saw ur mom at the grocery store",
-      "url": "https://open.spotify.com/track/3Ax7eKZ1Mgov2hn5LzCB9U"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "And I'm Still Thinking About That",
-        "url": "https://open.spotify.com/album/6Qt31GMG9GnQI9Zjyhq22B"
-      },
-      "artists": [
-        {
-          "name": "Ber",
-          "url": "https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x"
-        }
-      ],
-      "duration_ms": 162373,
-      "name": "Same Effect",
-      "url": "https://open.spotify.com/track/67qQFuqX1hVcWCoGPB5BiU"
     }
   ],
   "unique_name": "Next Gen Singer-Songwriters",

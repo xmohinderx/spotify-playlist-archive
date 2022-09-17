@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35DWKgAk2B5.md) - [plain]
 
 > Welcome to Indie Rock Club\. Cover: The White Stripes
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,075,026 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,075,247 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35DWKgAk2B5.md) - [plain]
 | 5 | [Where Is My Mind? \- Remastered](https://open.spotify.com/track/7wCmS9TTVUcIhRalDYFgPy) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Surfer Rosa](https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9) | 3:54 |
 | 6 | [Are You Gonna Be My Girl](https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6) | [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [Get Born](https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg) | 3:33 |
 | 7 | [Somebody Told Me](https://open.spotify.com/track/6PwjJ58I4t7Mae9xfZ9l9v) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) | 3:17 |
-| 8 | [Buddy Holly](https://open.spotify.com/track/3mwvKOyMmG77zZRunnxp9E) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q) | 2:39 |
-| 9 | [Reptilia](https://open.spotify.com/track/57Xjny5yNzAcsxnusKmAfA) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Room On Fire](https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh) | 3:39 |
+| 8 | [Reptilia](https://open.spotify.com/track/57Xjny5yNzAcsxnusKmAfA) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Room On Fire](https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh) | 3:39 |
+| 9 | [Buddy Holly](https://open.spotify.com/track/3mwvKOyMmG77zZRunnxp9E) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q) | 2:39 |
 | 10 | [R U Mine?](https://open.spotify.com/track/2AT8iROs4FQueDv2c8q2KE) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:21 |
 | 11 | [Ain't No Rest for the Wicked](https://open.spotify.com/track/3Pzh926pXggbMe2ZpXyMV7) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Cage The Elephant \(Expanded Edition\)](https://open.spotify.com/album/7H814Cg8HV0qpoMheYbhNn) | 2:55 |
 | 12 | [When You Were Young](https://open.spotify.com/track/70wYA8oYHoMzhRRkARoMhU) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Sam's Town](https://open.spotify.com/album/4o3RJndRhHxkieQzQGhmbw) | 3:40 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35DWKgAk2B5.md) - [plain]
 | 71 | [Gold Lion](https://open.spotify.com/track/6ttg1sxtU12beFZkjoc6j5) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Show Your Bones](https://open.spotify.com/album/4vILeh9sgKiDXnyL2pHCiz) | 3:07 |
 | 72 | [Gay Bar](https://open.spotify.com/track/7G5xEOORkAAUhx6wjTRb26) | [Electric Six](https://open.spotify.com/artist/4xNadaO5ZZLVJdqDIVVIua) | [Fire](https://open.spotify.com/album/0mekXZokDUu9QCWbzhDhRx) | 2:20 |
 | 73 | [I Predict a Riot](https://open.spotify.com/track/3fMoeGj4mDusrmYOOF60aC) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Employment](https://open.spotify.com/album/1jnbLwKGgg3XoKYlDmaxmF) | 3:54 |
-| 74 | [Beat the Devil's Tattoo](https://open.spotify.com/track/2iPTESocncak2Q45oXzKOG) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [Beat the Devil's Tattoo](https://open.spotify.com/album/04Aq1J0F5FcUUSEhFziTYc) | 3:45 |
-| 75 | [Our Velocity](https://open.spotify.com/track/1yG1OpMiV8WtDeOYEBvNW8) | [Maximo Park](https://open.spotify.com/artist/048FBwXjFYBWxSggPDipic) | [Our Earthly Pleasures](https://open.spotify.com/album/6mDHmXgvy79alh2CwEmMxJ) | 3:20 |
+| 74 | [Our Velocity](https://open.spotify.com/track/1yG1OpMiV8WtDeOYEBvNW8) | [Maximo Park](https://open.spotify.com/artist/048FBwXjFYBWxSggPDipic) | [Our Earthly Pleasures](https://open.spotify.com/album/6mDHmXgvy79alh2CwEmMxJ) | 3:20 |
+| 75 | [Beat the Devil's Tattoo](https://open.spotify.com/track/2iPTESocncak2Q45oXzKOG) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [Beat the Devil's Tattoo](https://open.spotify.com/album/04Aq1J0F5FcUUSEhFziTYc) | 3:45 |
 | 76 | [All the Rage Back Home](https://open.spotify.com/track/30rUH583B1TFoisTeBfuA2) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [El Pintor](https://open.spotify.com/album/0YAtJCLY8ogFUjdopdHsyS) | 4:22 |
 | 77 | [An End Has a Start](https://open.spotify.com/track/5jth1c4wa4BythOzap3qOU) | [Editors](https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI) | [An End Has a Start](https://open.spotify.com/album/7jXVRapoxFltuoxCEdbdIp) | 3:45 |
 | 78 | [Bandages](https://open.spotify.com/track/75pMEcHJjLRv0O8MHxQvdg) | [Hot Hot Heat](https://open.spotify.com/artist/5UVftEhSsIg0kkXlmfhB6M) | [Make Up The Breakdown](https://open.spotify.com/album/02KvZdz1ZwyGTok0Sl5g3a) | 3:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35DWKgAk2B5.md) - [plain]
 | 99 | [Cha\-Cha Twist](https://open.spotify.com/track/5Bs1pw78Y84wmLdukRjIX4) | [The Detroit Cobras](https://open.spotify.com/artist/4tWFXbJnjC9lM3UzmOpUiR) | [Mink, Rat or Rabbit](https://open.spotify.com/album/6Nilu1ZmULGn7gXkufCDc7) | 2:31 |
 | 100 | [Trainwreck 1979 \- Moulder Mix with in/out fades](https://open.spotify.com/track/06vOVdH94mIEjIgIhHdhdO) | [Death From Above 1979](https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj) | [The Physical World](https://open.spotify.com/album/22sYnou2SavBZHHFVUTmWs) | 3:46 |
 
-Snapshot ID: `MTY1ODQxOTg3OCwwMDAwMDAwMDJmYzM0ZTc0ZmFiNzk1ZjkxYWUzM2M2NmQxODhjNGQ3`
+Snapshot ID: `MTY1ODQxOTg3OCwwMDAwMDAwMDc3ZWU1MDQ0OWY1NjMxNjkyZDUyNjY4NGM4NzRhZDhl`

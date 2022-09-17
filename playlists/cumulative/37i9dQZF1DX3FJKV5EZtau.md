@@ -4,7 +4,7 @@
 
 > Electro tunes for your virtual world.
 
-289 songs - 16 hr 48 min - [published](https://open.spotify.com/playlist/6nn5hAdMA0a7KkNWl7rEwD)
+290 songs - 16 hr 51 min - [published](https://open.spotify.com/playlist/6nn5hAdMA0a7KkNWl7rEwD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Dream Drop](https://open.spotify.com/track/4OFTfnxRCK5qfzLwCyf7I2) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [Love Power A\-to\-Z](https://open.spotify.com/album/0CZO5xaavRYy16D5sB30S8) | 2:54 | 2022-07-14 | 2022-08-06 |
 | [Dream State](https://open.spotify.com/track/3EDw77uNVYQGAEtRiRfLCG) | [A Hundred Drums](https://open.spotify.com/artist/1dUCaUhp2RZRXrwOyUnHxQ), [DJ Afterthought](https://open.spotify.com/artist/46yoMIbiLf1tIH3CRZiSGX) | [Dream State](https://open.spotify.com/album/13kGJmiEER9cetocHPdYr7) | 3:26 | 2022-03-11 |  |
 | [Dreamer](https://open.spotify.com/track/4PZSK9emDiCzkvT3yMWtOT) | [Throttle](https://open.spotify.com/artist/6mPZJXtFVaakznkRxdgWtC) | [Dreamer](https://open.spotify.com/album/5ij6BBKCq60e6EFh3bGUC0) | 3:36 | 2022-05-13 |  |
+| [Dreamfields](https://open.spotify.com/track/0nzxHXi11ZQrZEuUQEdU87) | [Starjunk 95](https://open.spotify.com/artist/523iXWyHL26prJR3GKjRhx) | [Dreamfields](https://open.spotify.com/album/0moBjWA3zCpUXsAWoqT0NS) | 2:40 | 2022-09-16 |  |
 | [Dreams](https://open.spotify.com/track/4RWMUN7m78hYp4nvXVCxzJ) | [Anamanaguchi](https://open.spotify.com/artist/2UwJRAgSOi1zcLkvUNc8XL), [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk) | [Dreams](https://open.spotify.com/album/2mZfEjrVc81R1v7z6NPFAC) | 4:17 | 2022-01-07 |  |
 | [Drift](https://open.spotify.com/track/0AZ0HqGUw0YzMQqniiQWNa) | [Sublab](https://open.spotify.com/artist/3tjRdPCZTpme7vslZJYtJx), [hyperforms](https://open.spotify.com/artist/0NreEgNG54pUbCtdJ7W7ub) | [Drift](https://open.spotify.com/album/72IlA8Mm8nNFjVVeTxsUh8) | 3:35 | 2022-01-07 | 2022-07-29 |
 | [Drowning](https://open.spotify.com/track/3Tz5z68t6Ii4rf6bTMJHyo) | [KEPIK](https://open.spotify.com/artist/43KdGzqdAQatWUdAFGS4Gn), [Sally Oh](https://open.spotify.com/artist/1rofHXMRiMdndtO5D34Gwp) | [Drowning](https://open.spotify.com/album/7h4jWZsNcOey1AhDSms5g1) | 3:25 | 2022-01-07 | 2022-07-29 |
@@ -146,7 +147,7 @@
 | [Last Kiss](https://open.spotify.com/track/4k02dP3j9AtSBIGUniUaVt) | [Sugar Jesus](https://open.spotify.com/artist/1cdXZUfRhXZ8DnwMV4CcS5), [Mary Leay](https://open.spotify.com/artist/1qBdIvxju8AHbU7Zes7yF7) | [Last Kiss](https://open.spotify.com/album/7HJyMPNEt6DuKdY0z78BBS) | 3:15 | 2022-03-11 |  |
 | [Last Star](https://open.spotify.com/track/4i5McfiyWkcmVhV8A9oTbv) | [James Ivy](https://open.spotify.com/artist/7t8sK02zmZ9f6e6eJA9oSJ) | [Last Star](https://open.spotify.com/album/6yTSHTtAlpzDsV03f0D4Ee) | 3:42 | 2022-07-14 | 2022-08-06 |
 | [Leave You](https://open.spotify.com/track/5AcCFMfAjIxq07cibmttEo) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1), [Lexer](https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY), [Jyll](https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe) | [Leave You](https://open.spotify.com/album/6vEHURkEouRIhVI5cZRWtd) | 3:54 | 2022-07-14 | 2022-08-06 |
-| [Let Love Win](https://open.spotify.com/track/5jB0IkgKoNeHcCObpZuPXP) | [TheFatRat](https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4), [Anjulie](https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV) | [PARALLAX](https://open.spotify.com/album/1fup3EK4hxpYo0UxxbZiRY) | 3:18 | 2022-01-07 |  |
+| [Let Love Win](https://open.spotify.com/track/5jB0IkgKoNeHcCObpZuPXP) | [TheFatRat](https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4), [Anjulie](https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV) | [PARALLAX](https://open.spotify.com/album/1fup3EK4hxpYo0UxxbZiRY) | 3:18 | 2022-01-07 | 2022-09-17 |
 | [Look at the Sky](https://open.spotify.com/track/4l5nn3zlcrKSB1eyfuWHhu) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Look at the Sky](https://open.spotify.com/album/1BEsCHUcX6slXc4N957W2y) | 5:09 | 2022-01-07 |  |
 | [Lotus](https://open.spotify.com/track/2q5altBBEDUUXJsvZ5gl8t) | [Leat'eq](https://open.spotify.com/artist/1iBxtU5394iPOzmot1FDUD) | [Lotus](https://open.spotify.com/album/5vDaVFY1wHoehAqXG7scTN) | 2:43 | 2022-01-07 | 2022-07-29 |
 | [love u!!](https://open.spotify.com/track/0EeokoKzJwbnEzJi6cDbry) | [Aests](https://open.spotify.com/artist/3zYU33YUxJPzsPrYmpMMiu) | [love u!!](https://open.spotify.com/album/3gol9bGLiZ4BS2AgPLFn8C) | 2:30 | 2022-01-07 |  |

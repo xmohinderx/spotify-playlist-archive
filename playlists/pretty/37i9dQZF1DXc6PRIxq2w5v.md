@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: Samuel Shikoba, SAMUÉU
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,606 likes - 65 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,662 likes - 65 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 18 | [Prazer Jesus](https://open.spotify.com/track/2x5SsYLKlvQdlq7ozUdfJn) | [VICTIN](https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p) | [Prazer Jesus](https://open.spotify.com/album/5gU6lA3GaggUCta2Jottgt) | 2:38 |
 | 19 | [Vai Ficar Tudo Bem](https://open.spotify.com/track/7D1Sc9XjcplWMT7HPQO5SH) | [Caíque Ribeiro](https://open.spotify.com/artist/3XRzjSyK7fRmM1umTq2vE7), [Asaph](https://open.spotify.com/artist/2L5qzS8AVHdTtphFpjFYjI), [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb) | [Vai Ficar Tudo Bem](https://open.spotify.com/album/0u49iES3BW0ClvE1QdvhSS) | 3:40 |
 | 20 | [Marionete](https://open.spotify.com/track/7gSXvricIaaFGw1MyklcBl) | [Lookas](https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF), [SAMUÉU](https://open.spotify.com/artist/06UYOp2JUCM93i9iuhNzA7) | [Marionete](https://open.spotify.com/album/1fCcpZjzGQLqjheVLLHhWE) | 3:06 |
-| 21 | [Você Acredita?](https://open.spotify.com/track/1HJ0nfxiaOGKewT5banSjb) | [Clovis](https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF) | [Você Acredita?](https://open.spotify.com/album/2iYsPUuXs2GPQwUksocbBa) | 3:14 |
+| 21 | [Me Leva](https://open.spotify.com/track/5x5pQsHg5Gv42ueRrYvAK6) | [Arthur Pompeo](https://open.spotify.com/artist/6BeBYkKRsxy3Kw6iYTKoPP) | [Me Leva](https://open.spotify.com/album/626lo15ONMAnnmDINVOoCN) | 2:33 |
 | 22 | [Em Cima da Laje](https://open.spotify.com/track/19NTfE8rbj61JC7BRyRdfb) | [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb), [SAMUÉU](https://open.spotify.com/artist/06UYOp2JUCM93i9iuhNzA7) | [Em Cima da Laje](https://open.spotify.com/album/4QJJR3ExxmcUEo8SAjdhVd) | 2:49 |
-| 23 | [Me Leva](https://open.spotify.com/track/5x5pQsHg5Gv42ueRrYvAK6) | [Arthur Pompeo](https://open.spotify.com/artist/6BeBYkKRsxy3Kw6iYTKoPP) | [Me Leva](https://open.spotify.com/album/626lo15ONMAnnmDINVOoCN) | 2:33 |
+| 23 | [Você Acredita?](https://open.spotify.com/track/1HJ0nfxiaOGKewT5banSjb) | [Clovis](https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF) | [Você Acredita?](https://open.spotify.com/album/2iYsPUuXs2GPQwUksocbBa) | 3:14 |
 | 24 | [Acústico OnSet \#1 \- Siga Adiante](https://open.spotify.com/track/1lumFVKdKI1ry8laEH1WET) | [OnSet](https://open.spotify.com/artist/486ZJwd4t1GNxDMDzGQqwI), [Ago de Souza](https://open.spotify.com/artist/3GFtfrjtBet1N3RIN9Fmqk), [Stella Yeshua](https://open.spotify.com/artist/2X2BJy2XLWgvdeAdKFkrfW), [Dablyo](https://open.spotify.com/artist/4ojsT7JOFibDg7ZjW8Ormz), [Jana Baps](https://open.spotify.com/artist/0QJVszKiVI4rciiKkjWpcj) | [Acústico OnSet \#1 \- Siga Adiante](https://open.spotify.com/album/2XsKcTiMnXeRKhVA8BE63Q) | 3:37 |
 | 25 | [Flow Rei Davi](https://open.spotify.com/track/49sVmywDm2p3QzO21D38GP) | [Felipin](https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP) | [Flow Rei Davi](https://open.spotify.com/album/1CxEGNXIWBXNJjm0dZcpj7) | 1:58 |
 | 26 | [Ainda Não É o Fim](https://open.spotify.com/track/5Mo3oOezde7Zt6jAUIPIFI) | [VICTIN](https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p) | [Ainda Não É o Fim](https://open.spotify.com/album/4EUUBMaeGHezzHevYOoPu7) | 2:41 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 64 | [O Único](https://open.spotify.com/track/0ahTUkq5B6miJJFEAb02uU) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [O Único](https://open.spotify.com/album/3BjqoK95j0hdBWLludsc2S) | 2:43 |
 | 65 | [Não Temerei](https://open.spotify.com/track/14X9dYqmcMRLBr0fr2aUxC) | [LEVII MC](https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Não Temerei](https://open.spotify.com/album/4KFGtrAb28swJXHPfQ8j1T) | 2:42 |
 
-Snapshot ID: `MTY2MjA4NzYwMCwwMDAwMDAwMGU4YjMyM2Q5ODlmYzA4NGU2ZTFmMmRlZjk1YWQ0OTJi`
+Snapshot ID: `MTY2MjA4NzYwMCwwMDAwMDAwMGFmYjZlOTJjNmMxNTZlYWM4OTcwZDA4N2QzZDY2OWUx`

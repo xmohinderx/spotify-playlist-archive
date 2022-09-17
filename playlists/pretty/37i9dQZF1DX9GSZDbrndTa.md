@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GSZDbrndTa.md) - [plain]
 
 > The bluesy side of jazz
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,097 likes - 50 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,166 likes - 50 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GSZDbrndTa.md) - [plain]
 | 14 | [Mr\. P.C\. \- Mono](https://open.spotify.com/track/1Z6Yxm3WpEJRkE0tGLr31y) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Giant Steps \(Mono\)](https://open.spotify.com/album/7MBQWjukLxXZYvQ8vzEH7t) | 6:58 |
 | 15 | [West Coast Blues](https://open.spotify.com/track/1xlNWhgv6MgVKvGK3ZXauZ) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Incredible Jazz Guitar](https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP) | 7:22 |
 | 16 | [Bessie's Blues](https://open.spotify.com/track/3VvIjPjxHLRTXNJ8vSKkKN) | [John Coltrane Quartet](https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy) | [Crescent](https://open.spotify.com/album/1G3jdGqZNUrC8ZDesZB8xp) | 3:35 |
-| 17 | [Red Pepper Blues](https://open.spotify.com/track/2w3DhdtQDnAzeNNH39kfpJ) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Art Pepper Meets The Rhythm Section \(OJC Remaster\)](https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX) | 3:40 |
-| 18 | [Pennies From Heaven](https://open.spotify.com/track/1cKieOitNWqzxDdOboOzHy) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Stan Getz And The Oscar Peterson Trio](https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD) | 5:11 |
+| 17 | [Pennies From Heaven](https://open.spotify.com/track/1cKieOitNWqzxDdOboOzHy) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Stan Getz And The Oscar Peterson Trio](https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD) | 5:11 |
+| 18 | [Red Pepper Blues](https://open.spotify.com/track/2w3DhdtQDnAzeNNH39kfpJ) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Art Pepper Meets The Rhythm Section \(OJC Remaster\)](https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX) | 3:40 |
 | 19 | [Raise Four](https://open.spotify.com/track/5anYdzYJguGLEcbgL6G2Qm) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Underground](https://open.spotify.com/album/5rA4Fhdeq0an7JZR2JRSDn) | 4:37 |
 | 20 | [Equinox](https://open.spotify.com/track/56elAIX47Q7vSQ1bpKNhHo) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Naima](https://open.spotify.com/album/4N6QrNl4RvEjyaPtUilwRD) | 8:07 |
 | 21 | [Blues For Alice](https://open.spotify.com/track/6uVi3VWCVMfXviWa8DTCwN) | [Charlie Parker Quintet](https://open.spotify.com/artist/0EgftqHXtk840HVLdydk5V) | [Swedish Schnapps: The Genius Of Charlie Parker \#8 \(Expanded Edition\)](https://open.spotify.com/album/1mQ11XRLltORPc1bAJv9tt) | 2:46 |
@@ -47,10 +47,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GSZDbrndTa.md) - [plain]
 | 37 | [Ready Rudy?](https://open.spotify.com/track/4VhFcVYUSxazQVNDCAIGhP) | [Duke Pearson](https://open.spotify.com/artist/2SZ1e7QHN5jon9tpSpQl44) | [Sweet Honey Bee](https://open.spotify.com/album/012q6K9l8vQ83WnDILovA0) | 5:58 |
 | 38 | [Blues By Five \- Rudy Van Gelder Remaster](https://open.spotify.com/track/06HwBSKPrMyC6HdiEMeKNX) | [Miles Davis Quintet](https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx) | [Cookin' With The Miles Davis Quintet](https://open.spotify.com/album/6QPFCq6SHAOhBI1Vf14G0y) | 9:52 |
 | 39 | [Isotope \- Rudy Van Gelder Edition / 2004 Digital Remaster](https://open.spotify.com/track/4tmApkhSLqUAE7x70CVI2L) | [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt) | [Inner Urge \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/2Amg9J3U9jEUUJUxCW5OgI) | 9:16 |
-| 40 | [Turnaround](https://open.spotify.com/track/3wBXrskjoga4hPUvewTxDR) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S) | [Wish](https://open.spotify.com/album/7BgaGSjJZSWv6xyNTWAGij) | 6:24 |
+| 40 | [Well You Needn't](https://open.spotify.com/track/6UR3pf66R1zloruniAFkp1) | [Thelonious Monk Septet](https://open.spotify.com/artist/56koGOp6EpWHZYOfuTTxRB) | [Monk's Music](https://open.spotify.com/album/5VTHqe7GnSKHRqq9qF8O5G) | 11:22 |
 | 41 | [Back Slidin'](https://open.spotify.com/track/6Ebo4NsSp7utwQMrs3MTl2) | [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9) | [Blues In the Night](https://open.spotify.com/album/6ZBjJtU9Bbd5Yo0dWZes7y) | 6:54 |
 | 42 | [Kelly Blue](https://open.spotify.com/track/2w2S61Es3uLMVHE41u1pev) | [Wynton Kelly](https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0) | [Kelly Blue \(Keepnews Collection\)](https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B) | 10:50 |
-| 43 | [Well You Needn't](https://open.spotify.com/track/6UR3pf66R1zloruniAFkp1) | [Thelonious Monk Septet](https://open.spotify.com/artist/56koGOp6EpWHZYOfuTTxRB) | [Monk's Music](https://open.spotify.com/album/5VTHqe7GnSKHRqq9qF8O5G) | 11:22 |
+| 43 | [Turnaround](https://open.spotify.com/track/3wBXrskjoga4hPUvewTxDR) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S) | [Wish](https://open.spotify.com/album/7BgaGSjJZSWv6xyNTWAGij) | 6:24 |
 | 44 | [Blues For Willarene](https://open.spotify.com/track/18Rt4272J5ngkGAWUtWBzk) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k) | [Retrospective](https://open.spotify.com/album/5MYLIllbgBg8tdvThOe9XE) | 7:07 |
 | 45 | [Freddie Freeloader](https://open.spotify.com/track/1UOH2i8z5xitX8PgVUH6nU) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [The Complete Miles Davis Featuring John Coltrane](https://open.spotify.com/album/1sR0Ymo55UT2tkcOn05Qur) | 9:43 |
 | 46 | [Bluehawk](https://open.spotify.com/track/1K4d8wa5NanzH425a42DMn) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Thelonious Alone In San Francisco](https://open.spotify.com/album/5xOjgloikzuQ1mTs2mqedk) | 3:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GSZDbrndTa.md) - [plain]
 | 49 | [When Will The Blues Leave?](https://open.spotify.com/track/4LmLxaTfPM1yrtqpX86rLx) | [Ornette Coleman](https://open.spotify.com/artist/47odibUtrN3lnWx0p0pk2P) | [Something Else!!!!: The Music Of Ornette Coleman \(Original Jazz Classics Remasters\)](https://open.spotify.com/album/0uTu0OfCWW6U5hAxDPH1r7) | 5:00 |
 | 50 | [Opus De Funk \- Remastered](https://open.spotify.com/track/59SgNbsj3NHKPjMApBmWHU) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [Horace Silver Trio](https://open.spotify.com/album/4Cu57f0WkNAOERhiCxGSSo) | 3:25 |
 
-Snapshot ID: `MTY0ODQ5OTIzMSwwMDAwMDAwMDM4NjhkNzBiYTcwYWY2M2Y1MTJmZTdhYTRhMWI5NTJj`
+Snapshot ID: `MTY0ODQ5OTIzMSwwMDAwMDAwMDY5Njg3NDgyNWNiMGViMTljMTJmZmE3Yjc3NzY2MDBl`

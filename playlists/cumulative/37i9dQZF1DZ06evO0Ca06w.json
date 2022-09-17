@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-16",
+      "date_removed": null,
       "duration_ms": 139306,
       "name": "Angilalanga",
       "url": "https://open.spotify.com/track/5m9HkxDby88wW7IWiNymuX"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 168600,
       "name": "Cannon (Mbayi, Mbayi)",
       "url": "https://open.spotify.com/track/0RDh1WoJ0FJwkkVvHK5DS7"
@@ -500,6 +500,24 @@
     },
     {
       "album": {
+        "name": "Goodbye to Africa",
+        "url": "https://open.spotify.com/album/307axQScWAWAOCzK1rc7fm"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119066,
+      "name": "House of the Rising Sun",
+      "url": "https://open.spotify.com/track/4PL3oMRQTbUIoxVbGr2hNM"
+    },
+    {
+      "album": {
         "name": "Miriam Makeba",
         "url": "https://open.spotify.com/album/4E067sQw5yPAQ79HORHdAT"
       },
@@ -529,7 +547,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-12",
+      "date_removed": null,
       "duration_ms": 206840,
       "name": "Hurry, Mama, Hurry! (Khawuleza)",
       "url": "https://open.spotify.com/track/6msNNwM4xPiC71ow3emYsU"
@@ -627,7 +645,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-13",
+      "date_removed": null,
       "duration_ms": 147760,
       "name": "Intandane",
       "url": "https://open.spotify.com/track/2jMbbolEHHIzHlqg0ZNpiT"
@@ -681,7 +699,7 @@
       ],
       "date_added": "2022-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 215133,
       "name": "Jeux interdits",
       "url": "https://open.spotify.com/track/5acbmHpQoANVHSfdD0DdF1"
@@ -699,7 +717,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 178836,
       "name": "Jol'inkomo - Mono Version",
       "url": "https://open.spotify.com/track/5FTTPWCrARiEajTfdzr4D9"
@@ -771,7 +789,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 225893,
       "name": "L'enfant et la gazelle",
       "url": "https://open.spotify.com/track/7wFA1UMkKQEh2c9Aqh6iuX"
@@ -861,7 +879,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-10",
+      "date_removed": null,
       "duration_ms": 207066,
       "name": "Love Tastes Like Strawberries",
       "url": "https://open.spotify.com/track/69ZOZ1T8cNSrX6yKYz2ONd"
@@ -1013,7 +1031,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-16",
+      "date_removed": null,
       "duration_ms": 206040,
       "name": "Mama Ndiyalila",
       "url": "https://open.spotify.com/track/1b8NKhwpWMmUOybnSmkDVq"
@@ -1085,7 +1103,7 @@
       ],
       "date_added": "2022-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 202426,
       "name": "Mbube",
       "url": "https://open.spotify.com/track/2z3Zy3WnBBbHeXTBTdvJjd"
@@ -1371,7 +1389,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-16",
+      "date_removed": null,
       "duration_ms": 240600,
       "name": "Quit It",
       "url": "https://open.spotify.com/track/5M2RyoYc95uC79sFUp2EJ1"
@@ -1501,7 +1519,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 165813,
       "name": "Sunrise, Sunset (From the Broadway Musical \"Fiddler On the Roof\")",
       "url": "https://open.spotify.com/track/7x71ai4plaSJN7TiXoKrZ0"
@@ -1613,7 +1631,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 228360,
       "name": "The Naughty Little Flea",
       "url": "https://open.spotify.com/track/3uPYm2dlE3PIvEmHjZkdrP"
@@ -1783,7 +1801,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-16",
+      "date_removed": null,
       "duration_ms": 165532,
       "name": "West Wind - Mono Version",
       "url": "https://open.spotify.com/track/1U6Wz3sxQdVS9Fb5fkGDXc"
@@ -1819,7 +1837,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 176653,
       "name": "Woza",
       "url": "https://open.spotify.com/track/32EJhcW8VmGQmvq7l0bbQJ"

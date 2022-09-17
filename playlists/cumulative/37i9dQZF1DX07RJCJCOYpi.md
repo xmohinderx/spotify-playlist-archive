@@ -2,9 +2,9 @@
 
 ### [mint Latin](https://open.spotify.com/playlist/37i9dQZF1DX07RJCJCOYpi)
 
-> The leading wave of Latin Electronic music\. Cover: Manuel Turizo, Fuego & Blessd.
+> The leading wave of Latin Electronic music\. Cover: Luis R Conriquez, Rod Contreras, Tony Aguirre, Jay Silva
 
-127 songs - 6 hr 41 min - [published](https://open.spotify.com/playlist/0igTR570qf1Xr3v0XaTHRR)
+128 songs - 6 hr 43 min - [published](https://open.spotify.com/playlist/0igTR570qf1Xr3v0XaTHRR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Formentera \- GARABATTO RMX](https://open.spotify.com/track/1HaNaeulZAeYszYCRsnD0y) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [GARABATTO](https://open.spotify.com/artist/6JaOGIlSvYswVLPmGUheOO) | [Formentera RMX](https://open.spotify.com/album/5jUuL7HYJQlVF4TlW5PCZp) | 3:12 | 2022-03-22 |  |
 | [FUGAZ](https://open.spotify.com/track/0EJOfbdV0cfKmKSJywNGL4) | [Typow](https://open.spotify.com/artist/4F7aNmQtNzDhEDqpilDRrw) | [EMOJI](https://open.spotify.com/album/2gTjDwNcjPGLMmy19qUw5u) | 3:44 | 2022-03-22 | 2022-04-29 |
 | [Gastar](https://open.spotify.com/track/7jZGELQvY3aZKaCIQVqwSY) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 2:29 | 2022-03-22 |  |
+| [Guisao](https://open.spotify.com/track/0FPDGbsYjSZUJljhz6FewQ) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Rod Contreras](https://open.spotify.com/artist/4SbYUG4R0ZDhpDZaJqap9Y), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Jay Silva](https://open.spotify.com/artist/4WUY2d3N6bKRs8rGh6xamn) | [Guisao](https://open.spotify.com/album/2llE874y2h7CZWyMeTfbAo) | 2:19 | 2022-09-16 |  |
 | [Hace Calor \- Remix](https://open.spotify.com/track/0Wb0G3YcE4hY7LbF3ppEEQ) | [Eme Sarav](https://open.spotify.com/artist/0QH2EQUeL4yhzlFC9XXjC2) | [Hace Calor \(Remix\)](https://open.spotify.com/album/3xqKPEu68JbqshG5UXdEcP) | 3:17 | 2022-04-20 | 2022-07-29 |
 | [Hace Calor \- Remix](https://open.spotify.com/track/7jfE42hjNY8zUuKKJlmBz6) | [Eme Sarav](https://open.spotify.com/artist/0QH2EQUeL4yhzlFC9XXjC2), [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4) | [Hace Calor \(Remix\)](https://open.spotify.com/album/4CYQ2m9siG9HnQwzadPkcP) | 3:17 | 2022-07-22 |  |
 | [Hanging Tree](https://open.spotify.com/track/0BKgZjR0nB7zYXqlGvW4hQ) | [Le Twins](https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb) | [Hanging Tree](https://open.spotify.com/album/4ldIgsaqKxrv5s44HLJ28S) | 2:53 | 2022-03-22 |  |

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QKpU3cGsyb.md) - [plain]
 
 > Slow jams for the passionate.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,617,080 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,617,689 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Good Days](https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Good Days](https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7) | 4:39 |
 | 2 | [ALL MINE](https://open.spotify.com/track/3XgGQ1wjo5khvq2UImjyNF) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:36 |
 | 3 | [Hrs & Hrs](https://open.spotify.com/track/3M5azWqeZbfoVkGXygatlb) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection](https://open.spotify.com/album/2ngrG39dI2ofhCxjmFnKv5) | 3:24 |
-| 4 | [Call Me Every Day \(feat\. Wizkid\)](https://open.spotify.com/track/7vVs4XCsQyGn1Au3drvo9Z) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Call Me Every Day \(feat\. Wizkid\)](https://open.spotify.com/album/6FKhBgElPu5RBHlarPE1aO) | 2:26 |
+| 4 | [Call Me Every Day \(feat\. Wizkid\)](https://open.spotify.com/track/7vVs4XCsQyGn1Au3drvo9Z) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Call Me Every Day \(feat\. Wizkid\)](https://open.spotify.com/album/6FKhBgElPu5RBHlarPE1aO) | 2:26 |
 | 5 | [Dream](https://open.spotify.com/track/1mAQAh6yg1dTmnlE84ZvEo) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Breezy](https://open.spotify.com/album/31U6s6obQrBLTqyvqfqzlM) | 3:10 |
 | 6 | [Wild Side \(feat\. Cardi B\)](https://open.spotify.com/track/2vXgyN14LX2zl7JEASw242) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Wild Side \(feat\. Cardi B\)](https://open.spotify.com/album/16maAu5lqvFBSEEHyB5GzV) | 3:29 |
 | 7 | [Here We Go… Again \(feat\. Tyler, the Creator\)](https://open.spotify.com/track/1NhjYYcYTRywc0di98xHxf) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:29 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QKpU3cGsyb.md) - [plain]
 | 45 | [Slow Down \(feat\. Lucky Daye\)](https://open.spotify.com/track/6EsOT4Yq4BavQSJ4sEe9dw) | [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Slow Down \(feat\. Lucky Daye\)](https://open.spotify.com/album/3bP5HbrQemp8PQS9Z9gnCF) | 3:47 |
 | 46 | [Rebel \(feat\. Jeremih\)](https://open.spotify.com/track/1yCaGeVkeiHwM0EnErYDrR) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Heat Of The Moment](https://open.spotify.com/album/3EjN3Lt1gd4M0KrYKz7GrD) | 2:34 |
 | 47 | [When You Love Someone feat\. H.E.R\. \(feat\. H.E.R.\)](https://open.spotify.com/track/10zCt0DTW61AJyiahtY1Xn) | [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [FWM](https://open.spotify.com/album/1lXnc3tDTNdendTSuMAZCg) | 3:19 |
-| 48 | [Blü Moon](https://open.spotify.com/track/3fZYsBgwG8TUI53S14V0HD) | [THEY.](https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx) | [Blü Moon](https://open.spotify.com/album/4Zq8nr1P9iDhupYoj2wuQz) | 3:09 |
-| 49 | [Bed Friend \(feat\. Queen Naija\)](https://open.spotify.com/track/0NeBH6OPQMBJMcmhRoCUmv) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98) | [Bed Friend](https://open.spotify.com/album/4yddao1MpTLxHNHoSupTpP) | 3:01 |
+| 48 | [Bed Friend \(feat\. Queen Naija\)](https://open.spotify.com/track/0NeBH6OPQMBJMcmhRoCUmv) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98) | [Bed Friend](https://open.spotify.com/album/4yddao1MpTLxHNHoSupTpP) | 3:01 |
+| 49 | [Comfortable \(feat\. Fana Hues\)](https://open.spotify.com/track/3uYl97CFQFl14149UuSJ78) | [THEY.](https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx), [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Comfortable \(feat\. Fana Hues\)](https://open.spotify.com/album/5asMsphuwGm7xBjCsnQuZy) | 3:53 |
 | 50 | [Feelings 4 You](https://open.spotify.com/track/7whRnyXkGLSkwluSMe1JH5) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [Feelings 4 You](https://open.spotify.com/album/4zQasO3J7GKXQ8zEdFSbqx) | 4:16 |
 
-Snapshot ID: `MTY1Nzg5MzQ1OCwwMDAwMDAwMDVmMmVjNjEwODNiNjAwYjU1MGQwZDU0M2MxMGQ4NzE1`
+Snapshot ID: `MTY1Nzg5MzQ1OCwwMDAwMDAwMDJhNDUwM2JhMjg3ZDg5M2YzMjVlYzNkYjg1NGVhNDRk`

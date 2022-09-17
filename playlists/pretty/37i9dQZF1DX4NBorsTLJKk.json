@@ -1,12 +1,12 @@
 {
   "description": "\u5929\u7a7a\u7070\u7070\u7684\u3001\u5230\u8655\u6ebc\u6dcb\u6dcb\u7684\uff0c\u6211\u5011\u807d\u6b4c\u5c31\u597d\uff0c\u5148\u4e0d\u8981\u53bb\u611f\u89ba\u90a3\u4e9b\u4e8b\u3002",
-  "num_followers": 27879,
+  "num_followers": 27882,
   "original_name": "\u96e8\u4e2d\u65cb\u5f8b",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM0NzE5NywwMDAwMDAwMGNhZmE3NGYzNjJkZTUxZjU0Yzg4ZGNhOWFhNWMxMmNj",
+  "snapshot_id": "MTY2MjM0NzE5NywwMDAwMDAwMDVkOTI0ODRjY2FlMzEzODI5MTc2MWE5N2NlZmMwODY3",
   "tracks": [
     {
       "added_at": "2022-09-05 03:06:37",
@@ -223,22 +223,6 @@
     {
       "added_at": "2022-09-05 03:06:37",
       "album": {
-        "name": "\u611b\u4e45\u898b\u4eba\u5fc3",
-        "url": "https://open.spotify.com/album/3nGoGGL3rO8nrrghIo3I0F"
-      },
-      "artists": [
-        {
-          "name": "Fish Leong",
-          "url": "https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS"
-        }
-      ],
-      "duration_ms": 266106,
-      "name": "\u5076\u9663\u96e8",
-      "url": "https://open.spotify.com/track/7CGqTLkREqWW3ipRFbUvbB"
-    },
-    {
-      "added_at": "2022-09-05 03:06:37",
-      "album": {
         "name": "\u7a81\u7136\u4e00\u573a\u96e8",
         "url": "https://open.spotify.com/album/4m8AS1PYiVX3eNgApqDuis"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 230765,
       "name": "\u7a81\u7136\u4e00\u573a\u96e8",
       "url": "https://open.spotify.com/track/3z2KgOHzQ2DyetrAmNVdM8"
+    },
+    {
+      "added_at": "2022-09-05 03:06:37",
+      "album": {
+        "name": "\u611b\u4e45\u898b\u4eba\u5fc3",
+        "url": "https://open.spotify.com/album/3nGoGGL3rO8nrrghIo3I0F"
+      },
+      "artists": [
+        {
+          "name": "Fish Leong",
+          "url": "https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS"
+        }
+      ],
+      "duration_ms": 266106,
+      "name": "\u5076\u9663\u96e8",
+      "url": "https://open.spotify.com/track/7CGqTLkREqWW3ipRFbUvbB"
     },
     {
       "added_at": "2022-09-05 03:06:37",
@@ -787,6 +787,22 @@
     {
       "added_at": "2022-09-05 03:06:37",
       "album": {
+        "name": "\u7b2c\u4e09\u4ee3\u674e\u5fc3\u6f54 - \u88d9\u64fa\u6416\u6416",
+        "url": "https://open.spotify.com/album/3pORtMDQXQfBTwK5yyCk4a"
+      },
+      "artists": [
+        {
+          "name": "\u674e\u5fc3\u6f54",
+          "url": "https://open.spotify.com/artist/3mdOic6sQLr3yxovwyDoub"
+        }
+      ],
+      "duration_ms": 283693,
+      "name": "\u53c8\u4e0b\u96e8\u4e86",
+      "url": "https://open.spotify.com/track/0npUYJHXiC8DNLtKI9Ynp5"
+    },
+    {
+      "added_at": "2022-09-05 03:06:37",
+      "album": {
         "name": "\u88ab\u96e8\u50b7\u900f (\u5e7e\u7c73\u97f3\u6a02\u5287\u300c\u5411\u5de6\u8d70,\u5411\u53f3\u8d70\u300d\u6b4c\u66f2)",
         "url": "https://open.spotify.com/album/2gpk0phoZ6Vf4jrw4lPgVl"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 252000,
       "name": "\u88ab\u96e8\u50b7\u900f - \u5e7e\u7c73\u97f3\u6a02\u5287\u300c\u5411\u5de6\u8d70,\u5411\u53f3\u8d70\u300d\u6b4c\u66f2",
       "url": "https://open.spotify.com/track/5DzWobny6yP1EzeO9KbqER"
-    },
-    {
-      "added_at": "2022-09-05 03:06:37",
-      "album": {
-        "name": "\u7b2c\u4e09\u4ee3\u674e\u5fc3\u6f54 - \u88d9\u64fa\u6416\u6416",
-        "url": "https://open.spotify.com/album/3pORtMDQXQfBTwK5yyCk4a"
-      },
-      "artists": [
-        {
-          "name": "\u674e\u5fc3\u6f54",
-          "url": "https://open.spotify.com/artist/3mdOic6sQLr3yxovwyDoub"
-        }
-      ],
-      "duration_ms": 283693,
-      "name": "\u53c8\u4e0b\u96e8\u4e86",
-      "url": "https://open.spotify.com/track/0npUYJHXiC8DNLtKI9Ynp5"
     },
     {
       "added_at": "2022-09-05 03:06:37",
@@ -903,22 +903,6 @@
     {
       "added_at": "2022-09-05 03:06:37",
       "album": {
-        "name": "\u5927\u96e8\u904e\u5f8c",
-        "url": "https://open.spotify.com/album/4bUQjBGUT7zwecBz4dJEKm"
-      },
-      "artists": [
-        {
-          "name": "\u8c9d\u514b\u5c0f\u59d0Miss Bac.",
-          "url": "https://open.spotify.com/artist/21ZScQKZO8hf3yKf0uwhVK"
-        }
-      ],
-      "duration_ms": 247164,
-      "name": "\u5927\u96e8\u904e\u5f8c",
-      "url": "https://open.spotify.com/track/6x0lsSLEaMb3LhoLBEK97h"
-    },
-    {
-      "added_at": "2022-09-05 03:06:37",
-      "album": {
         "name": "\u96e8\u5929",
         "url": "https://open.spotify.com/album/2RmppTD74HT6VSB0GM0Zso"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 274881,
       "name": "\u96e8\u5929 - \u96fb\u8996\u5287\u300a\u7e41\u661f\u56db\u6708\u300b\u63d2\u66f2",
       "url": "https://open.spotify.com/track/6LSTVdxrfSOCCeO07WKTHx"
+    },
+    {
+      "added_at": "2022-09-05 03:06:37",
+      "album": {
+        "name": "\u5927\u96e8\u904e\u5f8c",
+        "url": "https://open.spotify.com/album/4bUQjBGUT7zwecBz4dJEKm"
+      },
+      "artists": [
+        {
+          "name": "\u8c9d\u514b\u5c0f\u59d0Miss Bac.",
+          "url": "https://open.spotify.com/artist/21ZScQKZO8hf3yKf0uwhVK"
+        }
+      ],
+      "duration_ms": 247164,
+      "name": "\u5927\u96e8\u904e\u5f8c",
+      "url": "https://open.spotify.com/track/6x0lsSLEaMb3LhoLBEK97h"
     },
     {
       "added_at": "2022-09-05 03:06:37",
@@ -999,6 +999,22 @@
     {
       "added_at": "2022-09-05 03:06:37",
       "album": {
+        "name": "EmptyORio",
+        "url": "https://open.spotify.com/album/0Jh3xk4JvrzI4KFSvzo9tx"
+      },
+      "artists": [
+        {
+          "name": "Empty ORio",
+          "url": "https://open.spotify.com/artist/5XuYYh7VssmjmETxEBUF2M"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "\u96e8",
+      "url": "https://open.spotify.com/track/0Ou6DX7cbRYrofS4gLe88v"
+    },
+    {
+      "added_at": "2022-09-05 03:06:37",
+      "album": {
         "name": "\u5c0f\u5b87\u5b99",
         "url": "https://open.spotify.com/album/2yhTPiBJRuRjofOIEDLJGw"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 258720,
       "name": "\u88ab\u96e8\u56f0\u4f4f\u7684\u57ce\u5e02",
       "url": "https://open.spotify.com/track/4PdRKbD69HOOSTsB5Q76wk"
-    },
-    {
-      "added_at": "2022-09-05 03:06:37",
-      "album": {
-        "name": "\u7fca\u5f80\u60c5\u6df1",
-        "url": "https://open.spotify.com/album/0TKfNt0Mr56TJtBKMOPSHQ"
-      },
-      "artists": [
-        {
-          "name": "E-Jun Lee",
-          "url": "https://open.spotify.com/artist/39YbP9PakVwqfXFtRdn5vI"
-        }
-      ],
-      "duration_ms": 249293,
-      "name": "\u51b0\u96e8",
-      "url": "https://open.spotify.com/track/4N3WwdlmKij0R0fd02Ykli"
     },
     {
       "added_at": "2022-09-05 03:06:37",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2022-09-05 03:06:37",
       "album": {
-        "name": "EmptyORio",
-        "url": "https://open.spotify.com/album/0Jh3xk4JvrzI4KFSvzo9tx"
+        "name": "\u7fca\u5f80\u60c5\u6df1",
+        "url": "https://open.spotify.com/album/0TKfNt0Mr56TJtBKMOPSHQ"
       },
       "artists": [
         {
-          "name": "Empty ORio",
-          "url": "https://open.spotify.com/artist/5XuYYh7VssmjmETxEBUF2M"
+          "name": "E-Jun Lee",
+          "url": "https://open.spotify.com/artist/39YbP9PakVwqfXFtRdn5vI"
         }
       ],
-      "duration_ms": 172000,
-      "name": "\u96e8",
-      "url": "https://open.spotify.com/track/0Ou6DX7cbRYrofS4gLe88v"
+      "duration_ms": 249293,
+      "name": "\u51b0\u96e8",
+      "url": "https://open.spotify.com/track/4N3WwdlmKij0R0fd02Ykli"
     },
     {
       "added_at": "2022-09-05 03:06:37",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2022-09-05 03:06:37",
       "album": {
-        "name": "\u591a\u96e8\u7684\u57ce\u5e02 (2020)",
-        "url": "https://open.spotify.com/album/0KFRlMmjmiUNfLmVTJ3TKx"
-      },
-      "artists": [
-        {
-          "name": "Mary See the Future \u5148\u77e5\u746a\u8389",
-          "url": "https://open.spotify.com/artist/745LWpqzCzNy04MJC431lP"
-        }
-      ],
-      "duration_ms": 326440,
-      "name": "\u591a\u96e8\u7684\u57ce\u5e02 - 2020",
-      "url": "https://open.spotify.com/track/36xzcM4LnxGRFTErPrbHtU"
-    },
-    {
-      "added_at": "2022-09-05 03:06:37",
-      "album": {
         "name": "\u96e8\u5929\u5c0f\u60c5\u6b4c",
         "url": "https://open.spotify.com/album/4OmOrlYzGfiicoRdGVRoyM"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 264834,
       "name": "\u96e8\u5929\u5c0f\u60c5\u6b4c",
       "url": "https://open.spotify.com/track/0KOR0cJj2m4hTdamWrIIXk"
+    },
+    {
+      "added_at": "2022-09-05 03:06:37",
+      "album": {
+        "name": "\u591a\u96e8\u7684\u57ce\u5e02 (2020)",
+        "url": "https://open.spotify.com/album/0KFRlMmjmiUNfLmVTJ3TKx"
+      },
+      "artists": [
+        {
+          "name": "Mary See the Future \u5148\u77e5\u746a\u8389",
+          "url": "https://open.spotify.com/artist/745LWpqzCzNy04MJC431lP"
+        }
+      ],
+      "duration_ms": 326440,
+      "name": "\u591a\u96e8\u7684\u57ce\u5e02 - 2020",
+      "url": "https://open.spotify.com/track/36xzcM4LnxGRFTErPrbHtU"
     },
     {
       "added_at": "2022-09-05 03:06:37",

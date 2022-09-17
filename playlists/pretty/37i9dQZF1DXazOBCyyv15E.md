@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 
 > The home of the best new alternative music\. Cover: Blood Orange
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,047 likes - 78 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,075 likes - 78 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 19 | [Still Running](https://open.spotify.com/track/0V8Uz3SGvOnDgF4waSuoaU) | [Banfi](https://open.spotify.com/artist/0yfI8sEHeH1cZBrTEIHATo) | [Still Running](https://open.spotify.com/album/2XS0o0EMwbtxL9uerB1Qll) | 2:32 |
 | 20 | [There’d Better Be A Mirrorball](https://open.spotify.com/track/0yowbJnnbTLpr99f9l1uba) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [There’d Better Be A Mirrorball](https://open.spotify.com/album/0ZUmodAwUq8cQJFvyibKwT) | 4:25 |
 | 21 | [Static](https://open.spotify.com/track/76dBxmpEtEpz1LLn0OGxMh) | [Bonnie Kemplay](https://open.spotify.com/artist/4hPxGC5HIlcK36XGqoYCpZ) | [Static](https://open.spotify.com/album/5hD8NbrodaAAEVN9jlBVOK) | 3:26 |
-| 22 | [Can I Call You](https://open.spotify.com/track/71RrgXAd9GrlQKvzvLjirz) | [The WAEVE](https://open.spotify.com/artist/20QMfH6fgt9vssg2s5xww6), [Rose Elinor Dougall](https://open.spotify.com/artist/6T1GNMxXuljv0C0ZRR60CC), [Graham Coxon](https://open.spotify.com/artist/7ueZp29tCNwjIj4yAMTEaC) | [Can I Call You](https://open.spotify.com/album/51IbpY4dtaQ0alpNOHhsgE) | 4:22 |
+| 22 | [Can I Call You](https://open.spotify.com/track/71RrgXAd9GrlQKvzvLjirz) | [The WAEVE](https://open.spotify.com/artist/20QMfH6fgt9vssg2s5xww6), [Graham Coxon](https://open.spotify.com/artist/7ueZp29tCNwjIj4yAMTEaC), [Rose Elinor Dougall](https://open.spotify.com/artist/6T1GNMxXuljv0C0ZRR60CC) | [Can I Call You](https://open.spotify.com/album/51IbpY4dtaQ0alpNOHhsgE) | 4:22 |
 | 23 | [Asphalt Meadows](https://open.spotify.com/track/7xjbn0bhs7zx7E1s0lCqT3) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Asphalt Meadows](https://open.spotify.com/album/2PIWPTOIxbaVSjTnc30vXS) | 4:05 |
 | 24 | [Fall First](https://open.spotify.com/track/575m8eKKXa0bkR6haOzVPt) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Spirituals](https://open.spotify.com/album/2AMcE13TUlCDdXVBlR0sdo) | 4:09 |
 | 25 | [Typical Love](https://open.spotify.com/track/34WHYUktlNEQjcySYBpiJJ) | [Cate Le Bon](https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G) | [Typical Love](https://open.spotify.com/album/6fMBVjvDsH5aLLyOpiCxzS) | 3:51 |

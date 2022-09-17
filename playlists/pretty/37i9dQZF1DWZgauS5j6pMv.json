@@ -1,12 +1,12 @@
 {
   "description": "The best of today's funk. Cover: Dabeull",
-  "num_followers": 271850,
+  "num_followers": 271982,
   "original_name": "Nu-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5NjAwMCwwMDAwMDAwMGNkYzc2NTU4NmMwYzQ5ZTkyMTM3ZDQwZDExZmE0ODA4",
+  "snapshot_id": "MTY2MzMwMDg2MCwwMDAwMDAwMGI3MjBiNDUxMmE3YzY2OWQ2MDcyNWNmOTIxY2NjYmRh",
   "tracks": [
     {
       "added_at": "2022-08-26 04:02:00",
@@ -61,6 +61,30 @@
       "url": "https://open.spotify.com/track/2GtECeftLDCtulYx0sIiXP"
     },
     {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "Breakthrough",
+        "url": "https://open.spotify.com/album/7vLtnkheg9udjZyXGYeZAx"
+      },
+      "artists": [
+        {
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+        },
+        {
+          "name": "SIRUP",
+          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
+        },
+        {
+          "name": "Shin Sakiura",
+          "url": "https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "BREAKTHROUGH",
+      "url": "https://open.spotify.com/track/3bfn8rA63B8QbqJjES4s4M"
+    },
+    {
       "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "Keep On Smiling",
@@ -75,6 +99,22 @@
       "duration_ms": 262356,
       "name": "Everybody's Cool",
       "url": "https://open.spotify.com/track/5HUxswbr7V4fzwG1LGCf7U"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "Turn Me Around",
+        "url": "https://open.spotify.com/album/0Ts3tXNheajRfq7vOFzivD"
+      },
+      "artists": [
+        {
+          "name": "STR4TA",
+          "url": "https://open.spotify.com/artist/5HintvHxi0uDBgNaRKWZOt"
+        }
+      ],
+      "duration_ms": 315939,
+      "name": "Turn Me Around",
+      "url": "https://open.spotify.com/track/71lKKdPXCH32BawD9OkuwQ"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -403,22 +443,6 @@
       "duration_ms": 222272,
       "name": "GOODTIME",
       "url": "https://open.spotify.com/track/0Cz1CWsDSgGMbHZykVO5ei"
-    },
-    {
-      "added_at": "2022-07-15 04:02:00",
-      "album": {
-        "name": "Pick Up",
-        "url": "https://open.spotify.com/album/0fOPYWlHgWRi8caKaiy30y"
-      },
-      "artists": [
-        {
-          "name": "Brian Robert Jones",
-          "url": "https://open.spotify.com/artist/11HU5b0t0QkmZpYfpUgmvm"
-        }
-      ],
-      "duration_ms": 210500,
-      "name": "Pick Up",
-      "url": "https://open.spotify.com/track/40zIrmsbbjNBLm8s2bCUx3"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -1667,30 +1691,6 @@
       "duration_ms": 204152,
       "name": "My Kinda Love",
       "url": "https://open.spotify.com/track/4N9Zjl1E4QLDrLnDslJkdO"
-    },
-    {
-      "added_at": "2021-09-17 04:02:00",
-      "album": {
-        "name": "I Found You (feat. Benjamin Ingrosso) [Dimitri From Paris Remix]",
-        "url": "https://open.spotify.com/album/4QWCCbdhcZkFc8627LOVXX"
-      },
-      "artists": [
-        {
-          "name": "Vantage",
-          "url": "https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2"
-        },
-        {
-          "name": "Benjamin Ingrosso",
-          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
-        },
-        {
-          "name": "Dimitri From Paris",
-          "url": "https://open.spotify.com/artist/5Il27M5JXuQLgwDgVrQMgo"
-        }
-      ],
-      "duration_ms": 163066,
-      "name": "I Found You (feat. Benjamin Ingrosso) - Dimitri From Paris Remix",
-      "url": "https://open.spotify.com/track/08Cws0E0tiHfm18dQINYvZ"
     },
     {
       "added_at": "2021-10-08 04:01:00",

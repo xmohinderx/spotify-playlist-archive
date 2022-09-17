@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYuZvbpQVftE.md) - [plain]
 
 > The cool sound of West coast Jazz\. Cover: Gerry Mulligan
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,931 likes - 55 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,943 likes - 55 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,10 +19,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYuZvbpQVftE.md) - [plain]
 | 9 | [It Could Happen To You](https://open.spotify.com/track/10fMVCkTiTE1sLvd5ypZTD) | [Bob Brookmeyer](https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [The Ivory Hunters](https://open.spotify.com/album/24rcDSSrgn13oqnqsuJH59) | 7:26 |
 | 10 | [Far More Blue](https://open.spotify.com/track/2djpFaL4yqTH3fvDKijsMv) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Time Further Out](https://open.spotify.com/album/0eMXd1VtCXCkuGWn9JjRDT) | 4:37 |
 | 11 | [Blue Thoughts](https://open.spotify.com/track/6A2tYCT1Wcd5RT6DhyCqhm) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [In New York \[Original Jazz Classics Remasters\]](https://open.spotify.com/album/65zkV2jjroxi3mwOEddvDJ) | 7:33 |
-| 12 | [Grooveyard](https://open.spotify.com/track/2DS10kEktKybLiPI30WvFG) | [Harold Land](https://open.spotify.com/artist/1jcPgyzUoFrMSI5jloL3LD) | [Harold In The Land Of Jazz](https://open.spotify.com/album/4VvgRg2qKq70YWZjKGepiG) | 7:06 |
+| 12 | [With A Little Bit Of Luck \- Instrumental](https://open.spotify.com/track/2sYInNWcg7ZL9cLobvs0oo) | [Shelly Manne And His Friends](https://open.spotify.com/artist/4NmuwMxBl62HSU4nXZYLUf) | [My Fair Lady](https://open.spotify.com/album/0HyyWDSM4mZcnkHIXo6oza) | 6:02 |
 | 13 | [Fall Out](https://open.spotify.com/track/2RgIbUm4wAUhR5s78O8OoI) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K), [Paul Desmond Quartet](https://open.spotify.com/artist/7DhtcH8dO2bHDqRyVt0lVc) | [Blues In Time](https://open.spotify.com/album/4IUNUxPQYA2AglEfqDYogv) | 5:45 |
 | 14 | [My Funny Valentine \- Live At The Shrine Auditorium, Los Angeles / 1957](https://open.spotify.com/track/3XMlpZZy7YhvfnHoiIKlYa) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [J.J\. Johnson](https://open.spotify.com/artist/3hZ5sdhYTvgrmXIwtVwqmS) | [Stan Getz And J.J\. Johnson At The Opera House \(Live / 1957\)](https://open.spotify.com/album/6u0UBTSzmzL9CbfpwcNwKm) | 8:28 |
-| 15 | [With A Little Bit Of Luck \- Instrumental](https://open.spotify.com/track/2sYInNWcg7ZL9cLobvs0oo) | [Shelly Manne And His Friends](https://open.spotify.com/artist/4NmuwMxBl62HSU4nXZYLUf) | [My Fair Lady](https://open.spotify.com/album/0HyyWDSM4mZcnkHIXo6oza) | 6:02 |
+| 15 | [Grooveyard](https://open.spotify.com/track/2DS10kEktKybLiPI30WvFG) | [Harold Land](https://open.spotify.com/artist/1jcPgyzUoFrMSI5jloL3LD) | [Harold In The Land Of Jazz](https://open.spotify.com/album/4VvgRg2qKq70YWZjKGepiG) | 7:06 |
 | 16 | [Imagination](https://open.spotify.com/track/2of5gKZdb2dw3IeJCTd1qi) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Art Pepper Meets The Rhythm Section \(OJC Remaster\)](https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX) | 5:55 |
 | 17 | [Everybody's Jumpin'](https://open.spotify.com/track/0r3ZObqOhirTkBCr8f4L9q) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Time Out](https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA) | 4:22 |
 | 18 | [Blue Steel](https://open.spotify.com/track/6A5n5BZfgR2IhzlV1GbGWf) | [Shelly Manne and His Men](https://open.spotify.com/artist/0jiF8voCldfvNjfCEr6JDF) | [Son Of Gunn!!](https://open.spotify.com/album/0wIqfFb0f9BQTjdUt31Zlq) | 4:49 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYuZvbpQVftE.md) - [plain]
 | 54 | [Resonant Emotions](https://open.spotify.com/track/33JJFna9sqjq9XchUHYuaA) | [Chet Baker and Art Pepper](https://open.spotify.com/artist/57Qh2bYGjxFTo0N8qwtKaU) | [Playboys](https://open.spotify.com/album/3o9kITv0ss0JcD1rA3DzIo) | 5:44 |
 | 55 | [Brandenburg Gate](https://open.spotify.com/track/4p71KdIiYX7KQrkXoXE32X) | [Dave Brubeck](https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E) | [The Essential Dave Brubeck](https://open.spotify.com/album/2IaDMqrxVulBfj5Riy29xL) | 6:50 |
 
-Snapshot ID: `MTY2MjYyNzgyNSwwMDAwMDAwMDNlZmVjMGY4MzZjNTgzYzIzNjUxOWNhMDY5NTNlZjFk`
+Snapshot ID: `MTY2MzMxNTg2NCwwMDAwMDAwMGExMGQ4MDI3NGM3MTQ4Mjk1OTIwOTcyZWE4NWE5YzYz`

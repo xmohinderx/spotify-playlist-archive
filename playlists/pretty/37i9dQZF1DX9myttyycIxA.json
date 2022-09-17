@@ -1,13 +1,141 @@
 {
-  "description": "Underground indie rock gems. Cover: flipturn",
-  "num_followers": 266125,
+  "description": "Underground indie rock gems. Cover: Jockstrap",
+  "num_followers": 266174,
   "original_name": "undercurrents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjEzNTcyMCwwMDAwMDAwMDllMWRlMWZmYWVlYWZkODgxZjhjYTgwNTgzZTk4NTQx",
+  "snapshot_id": "MTY2MzM2Nzc1MSwwMDAwMDAwMDQwMmU2NWYwYzkzOWYxNDg4MjhjNjZlMmJlZDUxOTcx",
   "tracks": [
+    {
+      "added_at": "2022-09-16 22:35:51",
+      "album": {
+        "name": "I Love You Jennifer B",
+        "url": "https://open.spotify.com/album/4YFlC5Abaj48ERwaOPfpu8"
+      },
+      "artists": [
+        {
+          "name": "Jockstrap",
+          "url": "https://open.spotify.com/artist/6S3Z6Me30mtdm526H17v8k"
+        }
+      ],
+      "duration_ms": 267080,
+      "name": "Greatest Hits",
+      "url": "https://open.spotify.com/track/5eWKybWrLV0JyI2rU0NfA1"
+    },
+    {
+      "added_at": "2022-09-16 22:35:51",
+      "album": {
+        "name": "Gary Ashby",
+        "url": "https://open.spotify.com/album/5dxQzy2zP6VnJ8jTKYufRZ"
+      },
+      "artists": [
+        {
+          "name": "Dry Cleaning",
+          "url": "https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO"
+        }
+      ],
+      "duration_ms": 130479,
+      "name": "Gary Ashby",
+      "url": "https://open.spotify.com/track/30erf27MriGIsvb4rzria6"
+    },
+    {
+      "added_at": "2022-09-16 22:35:51",
+      "album": {
+        "name": "2007",
+        "url": "https://open.spotify.com/album/2D15Km6lpwSzUnRCYj8sfV"
+      },
+      "artists": [
+        {
+          "name": "Miya Folick",
+          "url": "https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV"
+        }
+      ],
+      "duration_ms": 249930,
+      "name": "2007",
+      "url": "https://open.spotify.com/track/35WkfsT6kxdnKVntvIoLt8"
+    },
+    {
+      "added_at": "2022-09-16 22:35:51",
+      "album": {
+        "name": "Backwards Directions",
+        "url": "https://open.spotify.com/album/5mhk3C0cKun3x8MoIwkukF"
+      },
+      "artists": [
+        {
+          "name": "Abby Sage",
+          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
+        }
+      ],
+      "duration_ms": 187072,
+      "name": "Backwards Directions",
+      "url": "https://open.spotify.com/track/5vbnQr1tWSSREmcIONIUm9"
+    },
+    {
+      "added_at": "2022-09-16 22:35:51",
+      "album": {
+        "name": "Miracles",
+        "url": "https://open.spotify.com/album/04p480lq0Oye2DUWRg0LHW"
+      },
+      "artists": [
+        {
+          "name": "Alex G",
+          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
+        }
+      ],
+      "duration_ms": 224253,
+      "name": "Miracles",
+      "url": "https://open.spotify.com/track/6kjo1sI3Vc1Q47Ppm6FYRh"
+    },
+    {
+      "added_at": "2022-09-16 22:35:51",
+      "album": {
+        "name": "Miracles",
+        "url": "https://open.spotify.com/album/4YAJF85EawIdkZfsxa4NDe"
+      },
+      "artists": [
+        {
+          "name": "Ging",
+          "url": "https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5"
+        }
+      ],
+      "duration_ms": 196266,
+      "name": "Miracles",
+      "url": "https://open.spotify.com/track/2H0Aiqfj2ipE7xAHadLu7M"
+    },
+    {
+      "added_at": "2022-09-02 16:22:00",
+      "album": {
+        "name": "Break!",
+        "url": "https://open.spotify.com/album/05Bz4ReOzzjSCOYU0zAezd"
+      },
+      "artists": [
+        {
+          "name": "Fazerdaze",
+          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
+        }
+      ],
+      "duration_ms": 173133,
+      "name": "Break!",
+      "url": "https://open.spotify.com/track/0flObXoVkthxtvvOksCZXI"
+    },
+    {
+      "added_at": "2022-09-16 22:35:51",
+      "album": {
+        "name": "Expert In A Dying Field",
+        "url": "https://open.spotify.com/album/6RWLJx7kQLSnwwPyTqPj0U"
+      },
+      "artists": [
+        {
+          "name": "The Beths",
+          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
+        }
+      ],
+      "duration_ms": 248666,
+      "name": "When You Know You Know",
+      "url": "https://open.spotify.com/track/3DpvrjdkaRAinFhNLoJuKa"
+    },
     {
       "added_at": "2022-09-02 15:26:05",
       "album": {
@@ -39,6 +167,22 @@
       "duration_ms": 176250,
       "name": "Jersey Soccer",
       "url": "https://open.spotify.com/track/2zdo41igQIM3zYQdUctZTZ"
+    },
+    {
+      "added_at": "2022-09-16 22:35:51",
+      "album": {
+        "name": "Antibiotics",
+        "url": "https://open.spotify.com/album/3E7prZK3ZOiIAWqGs792ji"
+      },
+      "artists": [
+        {
+          "name": "Lowertown",
+          "url": "https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw"
+        }
+      ],
+      "duration_ms": 186741,
+      "name": "Antibiotics",
+      "url": "https://open.spotify.com/track/0gffR4rGlFYmItmRD9pkMM"
     },
     {
       "added_at": "2022-09-02 15:26:05",
@@ -73,20 +217,20 @@
       "url": "https://open.spotify.com/track/31fAHxxQshddV7JHNkxz49"
     },
     {
-      "added_at": "2022-09-02 16:22:00",
+      "added_at": "2022-09-16 22:35:51",
       "album": {
-        "name": "Break!",
-        "url": "https://open.spotify.com/album/05Bz4ReOzzjSCOYU0zAezd"
+        "name": "Forgetting Delaney",
+        "url": "https://open.spotify.com/album/74cN9ID7E3WIQoc6MFS6PI"
       },
       "artists": [
         {
-          "name": "Fazerdaze",
-          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
+          "name": "Delaney Bailey",
+          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
         }
       ],
-      "duration_ms": 173133,
-      "name": "Break!",
-      "url": "https://open.spotify.com/track/0flObXoVkthxtvvOksCZXI"
+      "duration_ms": 152226,
+      "name": "Forgetting Delaney",
+      "url": "https://open.spotify.com/track/0BoEasH9Wqi5N0Ryd5VPzt"
     },
     {
       "added_at": "2022-09-02 15:26:05",
@@ -103,6 +247,22 @@
       "duration_ms": 205890,
       "name": "Aftershook",
       "url": "https://open.spotify.com/track/0mf7aZJXZLwb9d1UEzjxwo"
+    },
+    {
+      "added_at": "2022-09-16 22:35:51",
+      "album": {
+        "name": "Sandra",
+        "url": "https://open.spotify.com/album/3diUwioN2XksdXKERc4rxi"
+      },
+      "artists": [
+        {
+          "name": "Yb.",
+          "url": "https://open.spotify.com/artist/3grUv9qZhOiskIVa9fff8i"
+        }
+      ],
+      "duration_ms": 234704,
+      "name": "Sandra",
+      "url": "https://open.spotify.com/track/5ICH7ngVufTeW8sBCCl2GN"
     },
     {
       "added_at": "2022-09-02 15:26:05",
@@ -139,22 +299,6 @@
     {
       "added_at": "2022-09-02 15:26:05",
       "album": {
-        "name": "honeybee table at the butterfly feast",
-        "url": "https://open.spotify.com/album/7240kGNKtkhUSkYy9MPrRB"
-      },
-      "artists": [
-        {
-          "name": "Teen Suicide",
-          "url": "https://open.spotify.com/artist/2cAvReLDmjFQtCJFDJbHBU"
-        }
-      ],
-      "duration_ms": 164776,
-      "name": "death wish",
-      "url": "https://open.spotify.com/track/0oCtO4wLUisjOusLalamVW"
-    },
-    {
-      "added_at": "2022-09-02 15:26:05",
-      "album": {
         "name": "ERUPT",
         "url": "https://open.spotify.com/album/5tqV7K4XoM6Cjcf5BhsYRn"
       },
@@ -167,6 +311,22 @@
       "duration_ms": 251221,
       "name": "ERUPT",
       "url": "https://open.spotify.com/track/3UrBQlFZijtZuWWbq3xtCe"
+    },
+    {
+      "added_at": "2022-09-16 22:35:51",
+      "album": {
+        "name": "SALTWATER SKY",
+        "url": "https://open.spotify.com/album/3FkuX79QDbX1Zkt2kMsIO7"
+      },
+      "artists": [
+        {
+          "name": "Nafets",
+          "url": "https://open.spotify.com/artist/0PALShJ4yMcson9zvQaqlM"
+        }
+      ],
+      "duration_ms": 136374,
+      "name": "SALTWATER SKY",
+      "url": "https://open.spotify.com/track/1INfhBjuHFTkxRVIB2NMSC"
     },
     {
       "added_at": "2022-09-02 15:26:05",
@@ -391,6 +551,22 @@
       "duration_ms": 129474,
       "name": "Fast Car",
       "url": "https://open.spotify.com/track/7yznPSbSDeADWUIwaPfeUl"
+    },
+    {
+      "added_at": "2022-09-02 15:26:05",
+      "album": {
+        "name": "honeybee table at the butterfly feast",
+        "url": "https://open.spotify.com/album/7240kGNKtkhUSkYy9MPrRB"
+      },
+      "artists": [
+        {
+          "name": "Teen Suicide",
+          "url": "https://open.spotify.com/artist/2cAvReLDmjFQtCJFDJbHBU"
+        }
+      ],
+      "duration_ms": 164776,
+      "name": "death wish",
+      "url": "https://open.spotify.com/track/0oCtO4wLUisjOusLalamVW"
     },
     {
       "added_at": "2022-05-19 16:02:03",
@@ -1439,22 +1615,6 @@
       "duration_ms": 105702,
       "name": "untangle me",
       "url": "https://open.spotify.com/track/4vea5nsz7JIZSeuVjoNhTh"
-    },
-    {
-      "added_at": "2022-06-01 22:22:35",
-      "album": {
-        "name": "Endless Afternoon",
-        "url": "https://open.spotify.com/album/1kSTHq1yseNNxYpM48o3ry"
-      },
-      "artists": [
-        {
-          "name": "La Luz",
-          "url": "https://open.spotify.com/artist/6QRlkjrHz5A62mqeNZz7t3"
-        }
-      ],
-      "duration_ms": 275780,
-      "name": "Endless Afternoon",
-      "url": "https://open.spotify.com/track/3AIt9LB3C7Jz99OnvVjbyv"
     },
     {
       "added_at": "2022-05-20 05:46:00",

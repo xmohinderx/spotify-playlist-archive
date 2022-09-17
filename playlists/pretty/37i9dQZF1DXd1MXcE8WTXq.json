@@ -1,12 +1,12 @@
 {
   "description": "Remember these summer tunes?",
-  "num_followers": 392079,
+  "num_followers": 392131,
   "original_name": "Summer Throwback",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDMyMTg5NCwwMDAwMDAwMDVmMmY5OGE3NGY3YzRhNjc0OTQyYjkxOTAzZmEyODJm",
+  "snapshot_id": "MTY1MDMyMTg5NCwwMDAwMDAwMDcwZThmYTEwNzY1Y2QyMzBlODRlYTE1NzcxMDUyOTFj",
   "tracks": [
     {
       "added_at": "2022-04-18 22:44:54",
@@ -56,7 +56,7 @@
           "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         },
         {
-          "name": "WizKid",
+          "name": "Wizkid",
           "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         },
         {
@@ -343,22 +343,6 @@
     {
       "added_at": "2022-04-18 22:44:54",
       "album": {
-        "name": "Whitney",
-        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 291293,
-      "name": "I Wanna Dance with Somebody (Who Loves Me)",
-      "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
-    },
-    {
-      "added_at": "2022-04-18 22:44:54",
-      "album": {
         "name": "Enema Of The State",
         "url": "https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 167066,
       "name": "All The Small Things",
       "url": "https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU"
+    },
+    {
+      "added_at": "2022-04-18 22:44:54",
+      "album": {
+        "name": "Whitney",
+        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 291293,
+      "name": "I Wanna Dance with Somebody (Who Loves Me)",
+      "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
     },
     {
       "added_at": "2022-04-18 22:44:54",
@@ -407,6 +407,22 @@
     {
       "added_at": "2022-04-18 22:44:54",
       "album": {
+        "name": "Don't Kill the Magic",
+        "url": "https://open.spotify.com/album/0RZ4Ct4vegYBmL9g88TBNi"
+      },
+      "artists": [
+        {
+          "name": "MAGIC!",
+          "url": "https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c"
+        }
+      ],
+      "duration_ms": 224840,
+      "name": "Rude",
+      "url": "https://open.spotify.com/track/6RtPijgfPKROxEzTHNRiDp"
+    },
+    {
+      "added_at": "2022-04-18 22:44:54",
+      "album": {
         "name": "1, 2, 3 (feat. Jason Derulo & De La Ghetto)",
         "url": "https://open.spotify.com/album/1jHSAfCHKUFx5imuezI7HE"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 201526,
       "name": "1, 2, 3 (feat. Jason Derulo & De La Ghetto)",
       "url": "https://open.spotify.com/track/4QtiVmuA88tPQiCOHZuQ5b"
-    },
-    {
-      "added_at": "2022-04-18 22:44:54",
-      "album": {
-        "name": "Don't Kill the Magic",
-        "url": "https://open.spotify.com/album/0RZ4Ct4vegYBmL9g88TBNi"
-      },
-      "artists": [
-        {
-          "name": "MAGIC!",
-          "url": "https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c"
-        }
-      ],
-      "duration_ms": 224840,
-      "name": "Rude",
-      "url": "https://open.spotify.com/track/6RtPijgfPKROxEzTHNRiDp"
     },
     {
       "added_at": "2022-04-18 22:44:54",
@@ -687,6 +687,22 @@
     {
       "added_at": "2022-04-18 22:44:54",
       "album": {
+        "name": "\u00f7 (Deluxe)",
+        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 170826,
+      "name": "Galway Girl",
+      "url": "https://open.spotify.com/track/0afhq8XCExXpqazXczTSve"
+    },
+    {
+      "added_at": "2022-04-18 22:44:54",
+      "album": {
         "name": "Rock Of The Westies",
         "url": "https://open.spotify.com/album/4ObsEU7mIXbo2n9A31yfds"
       },
@@ -707,22 +723,6 @@
     {
       "added_at": "2022-04-18 22:44:54",
       "album": {
-        "name": "\u00f7 (Deluxe)",
-        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 170826,
-      "name": "Galway Girl",
-      "url": "https://open.spotify.com/track/0afhq8XCExXpqazXczTSve"
-    },
-    {
-      "added_at": "2022-04-18 22:44:54",
-      "album": {
         "name": "Beautiful Girls",
         "url": "https://open.spotify.com/album/71clfVkkopYLrgweVj2cow"
       },
@@ -735,38 +735,6 @@
       "duration_ms": 225373,
       "name": "Beautiful Girls",
       "url": "https://open.spotify.com/track/1hGy2eLcmC8eKx7qr1tOqx"
-    },
-    {
-      "added_at": "2022-04-18 22:44:54",
-      "album": {
-        "name": "Uprising",
-        "url": "https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 237000,
-      "name": "Could You Be Loved",
-      "url": "https://open.spotify.com/track/5O4erNlJ74PIF6kGol1ZrC"
-    },
-    {
-      "added_at": "2022-04-18 22:44:54",
-      "album": {
-        "name": "Cheese",
-        "url": "https://open.spotify.com/album/4kEbcH3VT6NYfpv8Wkkk80"
-      },
-      "artists": [
-        {
-          "name": "Stromae",
-          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
-        }
-      ],
-      "duration_ms": 206066,
-      "name": "Alors on danse - Radio Edit",
-      "url": "https://open.spotify.com/track/2GYHyAoLWpkxLVa4oYTVko"
     },
     {
       "added_at": "2022-04-18 22:44:54",
@@ -791,6 +759,22 @@
     {
       "added_at": "2022-04-18 22:44:54",
       "album": {
+        "name": "Cheese",
+        "url": "https://open.spotify.com/album/4kEbcH3VT6NYfpv8Wkkk80"
+      },
+      "artists": [
+        {
+          "name": "Stromae",
+          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
+        }
+      ],
+      "duration_ms": 206066,
+      "name": "Alors on danse - Radio Edit",
+      "url": "https://open.spotify.com/track/2GYHyAoLWpkxLVa4oYTVko"
+    },
+    {
+      "added_at": "2022-04-18 22:44:54",
+      "album": {
         "name": "Breaking Me",
         "url": "https://open.spotify.com/album/3nBQlhUvErkw8DVpF47WAn"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 166793,
       "name": "Breaking Me",
       "url": "https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po"
+    },
+    {
+      "added_at": "2022-04-18 22:44:54",
+      "album": {
+        "name": "Uprising",
+        "url": "https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 237000,
+      "name": "Could You Be Loved",
+      "url": "https://open.spotify.com/track/5O4erNlJ74PIF6kGol1ZrC"
     },
     {
       "added_at": "2022-04-18 22:44:54",
@@ -843,6 +843,22 @@
     {
       "added_at": "2022-04-18 22:44:54",
       "album": {
+        "name": "Building The Perfect Beast",
+        "url": "https://open.spotify.com/album/2x1s5aVQ01ylPs5nUdeA2i"
+      },
+      "artists": [
+        {
+          "name": "Don Henley",
+          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
+        }
+      ],
+      "duration_ms": 288733,
+      "name": "The Boys Of Summer",
+      "url": "https://open.spotify.com/track/4gvea7UlDkAvsJBPZAd4oB"
+    },
+    {
+      "added_at": "2022-04-18 22:44:54",
+      "album": {
         "name": "Waves (Robin Schulz Radio Edit)",
         "url": "https://open.spotify.com/album/29RpLEpfNr1mnrnmtbO620"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 208133,
       "name": "Waves - Robin Schulz Radio Edit",
       "url": "https://open.spotify.com/track/1HFfMOxCAT4GAwaPfCdmUs"
-    },
-    {
-      "added_at": "2022-04-18 22:44:54",
-      "album": {
-        "name": "Building The Perfect Beast",
-        "url": "https://open.spotify.com/album/2x1s5aVQ01ylPs5nUdeA2i"
-      },
-      "artists": [
-        {
-          "name": "Don Henley",
-          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
-        }
-      ],
-      "duration_ms": 288733,
-      "name": "The Boys Of Summer",
-      "url": "https://open.spotify.com/track/4gvea7UlDkAvsJBPZAd4oB"
     },
     {
       "added_at": "2022-04-18 22:44:54",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2022-04-18 22:44:54",
       "album": {
-        "name": "Younger Now",
-        "url": "https://open.spotify.com/album/5xG9gJcs9ut3qDWezHUlsX"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 231906,
-      "name": "Malibu",
-      "url": "https://open.spotify.com/track/1UZOjK1BwmwWU14Erba9CZ"
-    },
-    {
-      "added_at": "2022-04-18 22:44:54",
-      "album": {
         "name": "Stealers Wheel",
         "url": "https://open.spotify.com/album/5ApN9lqru1t3Xh1IaEGTll"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 266066,
       "name": "Drop It Like It's Hot",
       "url": "https://open.spotify.com/track/2NBQmPrOEEjA8VbeWOQGxO"
+    },
+    {
+      "added_at": "2022-04-18 22:44:54",
+      "album": {
+        "name": "Younger Now",
+        "url": "https://open.spotify.com/album/5xG9gJcs9ut3qDWezHUlsX"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "duration_ms": 231906,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/1UZOjK1BwmwWU14Erba9CZ"
     },
     {
       "added_at": "2022-04-18 22:44:54",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2022-04-18 22:44:54",
       "album": {
-        "name": "Kaya",
-        "url": "https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 232200,
-      "name": "Is This Love",
-      "url": "https://open.spotify.com/track/6JRLFiX9NJSoRRKxowlBYr"
-    },
-    {
-      "added_at": "2022-04-18 22:44:54",
-      "album": {
         "name": "China",
         "url": "https://open.spotify.com/album/1PTTAq0OxggVgqP5WTYWDh"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 301714,
       "name": "China",
       "url": "https://open.spotify.com/track/2ksOAxtIxY8yElEWw8RhgK"
+    },
+    {
+      "added_at": "2022-04-18 22:44:54",
+      "album": {
+        "name": "Kaya",
+        "url": "https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 232200,
+      "name": "Is This Love",
+      "url": "https://open.spotify.com/track/6JRLFiX9NJSoRRKxowlBYr"
     },
     {
       "added_at": "2022-04-18 22:44:54",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2022-04-18 22:44:54",
       "album": {
+        "name": "Day & Age (Bonus Tracks)",
+        "url": "https://open.spotify.com/album/0Ug5scDXUIgGN8yanDBLQw"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "duration_ms": 245373,
+      "name": "Human",
+      "url": "https://open.spotify.com/track/1sTsuZTdANkiFd7T34H3nb"
+    },
+    {
+      "added_at": "2022-04-18 22:44:54",
+      "album": {
         "name": "Destination Calabria",
         "url": "https://open.spotify.com/album/4sRexfGVnXMBJ1k5RW5WT8"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 223111,
       "name": "Destination Calabria - Radio Edit",
       "url": "https://open.spotify.com/track/5TmFTHZp7HjBXjjsFvCY6h"
-    },
-    {
-      "added_at": "2022-04-18 22:44:54",
-      "album": {
-        "name": "Day & Age (Bonus Tracks)",
-        "url": "https://open.spotify.com/album/0Ug5scDXUIgGN8yanDBLQw"
-      },
-      "artists": [
-        {
-          "name": "The Killers",
-          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
-        }
-      ],
-      "duration_ms": 245373,
-      "name": "Human",
-      "url": "https://open.spotify.com/track/1sTsuZTdANkiFd7T34H3nb"
     },
     {
       "added_at": "2022-04-18 22:44:54",

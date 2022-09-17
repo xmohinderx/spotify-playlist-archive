@@ -4,7 +4,7 @@
 
 > Acid blues, psy\-blues and the early pioneers of psychedelic rock.
 
-58 songs - 4 hr 25 min - [published](https://open.spotify.com/playlist/4hlf5ZG8IaIwQc0qKofAzM)
+59 songs - 4 hr 27 min - [published](https://open.spotify.com/playlist/4hlf5ZG8IaIwQc0qKofAzM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [Inkpot](https://open.spotify.com/track/0KFnCHVyyzOQvWoJbjXi1n) | [Shocking Blue](https://open.spotify.com/artist/5WimOFbBnCU5wI6t5PPpEk) | [Inkpot & Attila](https://open.spotify.com/album/5liqryZxZvie3pfCR21liP) | 2:39 | 2018-02-28 |  |
 | [It's A Hard Life](https://open.spotify.com/track/3i9f1ZX8IbZVsZSoSuHO8D) | [The Seeds](https://open.spotify.com/artist/5mcarhiatlvfCghqcn73rC) | [The Seeds](https://open.spotify.com/album/6VSc96KWdejRIgMrmo4v8N) | 2:40 | 2018-02-28 |  |
 | [It's Only Love](https://open.spotify.com/track/01jsGSZbfjxbo99LI8Osr9) | [International Harvester](https://open.spotify.com/artist/1RVXcYQXUeC2pPHINEJcWA) | [Sov Gott Rose\-Mari](https://open.spotify.com/album/40W7aEPhpfepQePPuDNLTu) | 1:40 | 2018-02-28 | 2022-07-29 |
-| [It's Only Love](https://open.spotify.com/track/7mFaMrnsaE9YdZrZYyllUI) | [International Harvester](https://open.spotify.com/artist/1RVXcYQXUeC2pPHINEJcWA) | [Sov Gott Rose\-Mari](https://open.spotify.com/album/5zAAhGhqKvtOyseYGIbF6f) | 1:40 | 2018-02-28 |  |
+| [It's Only Love](https://open.spotify.com/track/1rxnKNmNwu6LSEKZ71LFBQ) | [International Harvester](https://open.spotify.com/artist/1RVXcYQXUeC2pPHINEJcWA) | [Sov Gott Rose\-Mari](https://open.spotify.com/album/4ORvCABBxkkKdYS2TCYIeQ) | 1:40 | 2018-02-28 |  |
+| [It's Only Love](https://open.spotify.com/track/7mFaMrnsaE9YdZrZYyllUI) | [International Harvester](https://open.spotify.com/artist/1RVXcYQXUeC2pPHINEJcWA) | [Sov Gott Rose\-Mari](https://open.spotify.com/album/5zAAhGhqKvtOyseYGIbF6f) | 1:40 | 2018-02-28 | 2022-09-17 |
 | [Leavin' Trunk](https://open.spotify.com/track/4SoICrZ3Gf9Dlv8XdJ166H) | [Keef Hartley Band](https://open.spotify.com/artist/2CPDvRMU1VZcPlwoCyKWZ2) | [Halfbreed](https://open.spotify.com/album/0jB7KRF2763gFcrl11luHi) | 5:56 | 2022-03-28 |  |
 | [Lucille \(1970 BBC Top Gear Radio Broadcast\)](https://open.spotify.com/track/2oRsUm3jbPiZNp3cIs6cOP) | [The Pink Fairies](https://open.spotify.com/artist/45BIdHR6MPeNr1aNT10GJE) | [Fuzz Freakout 1970\-1971](https://open.spotify.com/album/2jUV53kqy8Y04JLKXNdZU5) | 2:42 | 2018-02-28 |  |
 | [Mannish Boy](https://open.spotify.com/track/0hnlRgTh80b1emNnM0jmwt) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Both Sides of the Sky](https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407) | 5:01 | 2018-02-28 |  |

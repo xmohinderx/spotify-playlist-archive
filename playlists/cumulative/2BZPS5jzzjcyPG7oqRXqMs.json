@@ -1670,6 +1670,24 @@
     },
     {
       "album": {
+        "name": "We The Kingdom",
+        "url": "https://open.spotify.com/album/0gkEJZHlqciximZV1b9Drp"
+      },
+      "artists": [
+        {
+          "name": "We The Kingdom",
+          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229560,
+      "name": "Mine",
+      "url": "https://open.spotify.com/track/1IkXnZOpAy7rHbRlMpWov9"
+    },
+    {
+      "album": {
         "name": "Miracle Power",
         "url": "https://open.spotify.com/album/0tpf8K9V96KmH1vndscRZq"
       },

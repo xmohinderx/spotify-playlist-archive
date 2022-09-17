@@ -687,7 +687,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 174542,
       "name": "Blas\u00e9",
       "url": "https://open.spotify.com/track/3VCS4koclEAw6MxMYk2EBh"
@@ -839,7 +839,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 161959,
       "name": "Bounds",
       "url": "https://open.spotify.com/track/7nHXfmVfX6gchGKhORpwVs"
@@ -2653,7 +2653,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 177920,
       "name": "Hooplah",
       "url": "https://open.spotify.com/track/6o9XlNBrB90h21gxnfN9tF"
@@ -2747,7 +2747,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 271322,
       "name": "I Am Love",
       "url": "https://open.spotify.com/track/3Kcnp0SdEc8VoENyn5r5zd"
@@ -2992,6 +2992,28 @@
     },
     {
       "album": {
+        "name": "Idyllic Coastline",
+        "url": "https://open.spotify.com/album/1isIPoToLnMJPl907uMNFp"
+      },
+      "artists": [
+        {
+          "name": "Sheath",
+          "url": "https://open.spotify.com/artist/0IlAtf4VeHUzQYRM8GMWXw"
+        },
+        {
+          "name": "Bertram Kvist",
+          "url": "https://open.spotify.com/artist/2Dd2EvgmTdtghdTS07FtcG"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119024,
+      "name": "Idyllic Coastline",
+      "url": "https://open.spotify.com/track/2otdVYQsL2mGrYqwyNKngv"
+    },
+    {
+      "album": {
         "name": "In Sentimental Mood (Ultimate Chill - Jazz Vol 1)",
         "url": "https://open.spotify.com/album/6S7n9VGXPwDYdhCUWXLkLD"
       },
@@ -3191,6 +3213,28 @@
       "duration_ms": 142405,
       "name": "Jazzhop Wonderland",
       "url": "https://open.spotify.com/track/2ot8t5ntZCanwSuikVjqAj"
+    },
+    {
+      "album": {
+        "name": "Jazzy Juice",
+        "url": "https://open.spotify.com/album/3aFGNO7maHngZyDfgg3J7c"
+      },
+      "artists": [
+        {
+          "name": "tape joe",
+          "url": "https://open.spotify.com/artist/6t74VJqVmYEY5V2be6sz9K"
+        },
+        {
+          "name": "Kick a Dope Verse!",
+          "url": "https://open.spotify.com/artist/1Wc42aAvPBQxi2CsAN2Q5z"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123174,
+      "name": "Jazzy Juice",
+      "url": "https://open.spotify.com/track/2NAHlqaVQ5V2KKMsCUTzZP"
     },
     {
       "album": {
@@ -3732,6 +3776,24 @@
     },
     {
       "album": {
+        "name": "Lost in place",
+        "url": "https://open.spotify.com/album/58E7AyUDkRARTR8GPW5CO9"
+      },
+      "artists": [
+        {
+          "name": "Tonino Rocco",
+          "url": "https://open.spotify.com/artist/5rxfOCfJz4t7u9sNU1t8O9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Lost in place",
+      "url": "https://open.spotify.com/track/3YSbwwAECpu4CrXA4keQln"
+    },
+    {
+      "album": {
         "name": "Lotus",
         "url": "https://open.spotify.com/album/0leqCLmEeawlBmN5nXP2TS"
       },
@@ -4011,7 +4073,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 122992,
       "name": "Marigold",
       "url": "https://open.spotify.com/track/06GDj2hOsy8owkzqhRqYqq"
@@ -4029,7 +4091,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 398680,
       "name": "Maximillian",
       "url": "https://open.spotify.com/track/2ihBPuEXv1Mpp9FKiFKY8G"
@@ -4303,7 +4365,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 202567,
       "name": "Moonbeams",
       "url": "https://open.spotify.com/track/1xzE78YaGxhVKLubvVgDPB"
@@ -4621,7 +4683,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 124543,
       "name": "Noire",
       "url": "https://open.spotify.com/track/6Oa53AsVKqYwE28R68Pyjv"
@@ -6359,7 +6421,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 239843,
       "name": "Sunset Amor",
       "url": "https://open.spotify.com/track/3xVy9O4phnqHpVP0HhXu1t"
@@ -6816,6 +6878,32 @@
     },
     {
       "album": {
+        "name": "Transients",
+        "url": "https://open.spotify.com/album/4yhWUEeuDw8IFO6cSKx0LB"
+      },
+      "artists": [
+        {
+          "name": "Lo-Fi Luke",
+          "url": "https://open.spotify.com/artist/02CSsXlCyOTZgxKnmxweqc"
+        },
+        {
+          "name": "dewho",
+          "url": "https://open.spotify.com/artist/7oC2MsGcfXNtco11SFR5IP"
+        },
+        {
+          "name": "Vibe Valley",
+          "url": "https://open.spotify.com/artist/5oRQXpBWZOtZOZB7lv8zMP"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147750,
+      "name": "Transients",
+      "url": "https://open.spotify.com/track/1E9qGe13bQXBlfxDycZHII"
+    },
+    {
+      "album": {
         "name": "Treehouse",
         "url": "https://open.spotify.com/album/1JUIco9C3DSFdLXA28qWTj"
       },
@@ -6839,6 +6927,24 @@
       "duration_ms": 144000,
       "name": "Treehouse",
       "url": "https://open.spotify.com/track/4Bi8KdG2aQqjWgQwx6iXvD"
+    },
+    {
+      "album": {
+        "name": "Treviso",
+        "url": "https://open.spotify.com/album/1uhZtZXyyL8TtDfHTW2F1D"
+      },
+      "artists": [
+        {
+          "name": "Marcos Caixa",
+          "url": "https://open.spotify.com/artist/2MnrAvsTKE41QWJzhqNmq5"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172536,
+      "name": "Treviso",
+      "url": "https://open.spotify.com/track/6mowqJfIFIpI39Gj5MjkG8"
     },
     {
       "album": {
@@ -7215,6 +7321,24 @@
       "duration_ms": 244401,
       "name": "Weightless",
       "url": "https://open.spotify.com/track/7k5vGYshwMZQy2jrZoWnDO"
+    },
+    {
+      "album": {
+        "name": "when in mars",
+        "url": "https://open.spotify.com/album/7G4gNumIjIFnUxR1mLxcON"
+      },
+      "artists": [
+        {
+          "name": "FREJA",
+          "url": "https://open.spotify.com/artist/3PsElXP6TTwUalgNPiyyzH"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106666,
+      "name": "when in mars",
+      "url": "https://open.spotify.com/track/2rUbaK5stYG9bJgQZfHVrQ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rxVfibe1L0.md) - [plain]
 
 > Get happy with today's dose of feel\-good songs!
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,234,830 likes - 76 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,235,988 likes - 76 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rxVfibe1L0.md) - [plain]
 | 34 | [Overpass Graffiti](https://open.spotify.com/track/4btFHqumCO31GksfuBLLv3) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:56 |
 | 35 | [Numb Little Bug](https://open.spotify.com/track/3o9kpgkIcffx0iSwxhuNI2) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Numb Little Bug](https://open.spotify.com/album/20zaiRxxUfDqdCKsdSo7HM) | 2:49 |
 | 36 | [Levitating \(feat\. DaBaby\)](https://open.spotify.com/track/463CkQjx2Zk1yXoBuierM9) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Levitating \(feat\. DaBaby\)](https://open.spotify.com/album/04m06KhJUuwe1Q487puIud) | 3:23 |
-| 37 | [A\-O\-K](https://open.spotify.com/track/1sx0XsWUusUoPstbvokZjP) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR) | 2:53 |
-| 38 | [3 Nights](https://open.spotify.com/track/1tNJrcVe6gwLEiZCtprs1u) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/1DNx0H5ZX1ax3yyRwtgT4S) | 2:57 |
+| 37 | [3 Nights](https://open.spotify.com/track/1tNJrcVe6gwLEiZCtprs1u) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/1DNx0H5ZX1ax3yyRwtgT4S) | 2:57 |
+| 38 | [A\-O\-K](https://open.spotify.com/track/1sx0XsWUusUoPstbvokZjP) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR) | 2:53 |
 | 39 | [Skyline](https://open.spotify.com/track/1QxIFMs4M8qd5cbJJu80v4) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Skyline](https://open.spotify.com/album/7CrDnyaqZVhO6UupmkQiHe) | 3:02 |
 | 40 | [Make You Mine](https://open.spotify.com/track/5iFwAOB2TFkPJk8sMlxP8g) | [PUBLIC](https://open.spotify.com/artist/4vxaQs6vK54nK89J1VtLex) | [Make You Mine](https://open.spotify.com/album/2CxrZinzjDXZidyx5EP214) | 3:52 |
 | 41 | [Put Your Records On](https://open.spotify.com/track/6AGOKlMZWLCaEJGnaROtF9) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Put Your Records On](https://open.spotify.com/album/6K7559pAYrNCJwsv1uIIK7) | 3:30 |
@@ -79,10 +79,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rxVfibe1L0.md) - [plain]
 | 69 | [Cloudy Day](https://open.spotify.com/track/0mA7zotmg2ZFMRALljdZsS) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Cloudy Day](https://open.spotify.com/album/3IbmFFjHMuAkhfk1zFDSow) | 3:05 |
 | 70 | [Love Again](https://open.spotify.com/track/1imMjt1YGNebtrtTAprKV7) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9) | 4:18 |
 | 71 | [WHERE WE ARE](https://open.spotify.com/track/7l987hjMH9FBNXBE93Hrs7) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL) | 2:52 |
-| 72 | [Catching Feelings \(feat\. SIX60\)](https://open.spotify.com/track/0gCNs3jCCDhObAK0MRghtv) | [Drax Project](https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8), [SIX60](https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn) | [Drax Project](https://open.spotify.com/album/5gdsguQxwQQlpTi1SU3tbY) | 3:38 |
-| 73 | [Little Bit of Love](https://open.spotify.com/track/78q4ESvMkPVJzHAV11LAGE) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Little Bit of Love \(Acoustic\)](https://open.spotify.com/album/4TFniUvcapARz1DzhdKPas) | 3:46 |
-| 74 | [Wonder Woman](https://open.spotify.com/track/3BLWGYOcy1svvsBByeFxLh) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [LEGEND](https://open.spotify.com/album/0kRBs6M0VbrourQ6fYbCiJ) | 2:48 |
+| 72 | [Wonder Woman](https://open.spotify.com/track/3BLWGYOcy1svvsBByeFxLh) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [LEGEND](https://open.spotify.com/album/0kRBs6M0VbrourQ6fYbCiJ) | 2:48 |
+| 73 | [Catching Feelings \(feat\. SIX60\)](https://open.spotify.com/track/0gCNs3jCCDhObAK0MRghtv) | [Drax Project](https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8), [SIX60](https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn) | [Drax Project](https://open.spotify.com/album/5gdsguQxwQQlpTi1SU3tbY) | 3:38 |
+| 74 | [Little Bit of Love](https://open.spotify.com/track/78q4ESvMkPVJzHAV11LAGE) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Little Bit of Love \(Acoustic\)](https://open.spotify.com/album/4TFniUvcapARz1DzhdKPas) | 3:46 |
 | 75 | [Big Energy](https://open.spotify.com/track/5lHxARJJrZc3ss4ZVmGWfz) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Big Energy](https://open.spotify.com/album/4tY28Pau74a3kkOEQGGS0b) | 2:53 |
 | 76 | [Don't I Make It Look Easy](https://open.spotify.com/track/0Bm2kjXM4w6JlwS6jpTmfO) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Don't I Make It Look Easy](https://open.spotify.com/album/0vAG2gPTupFRMmpPf9qAB1) | 2:34 |
 
-Snapshot ID: `MTY2MjY5NjAwMCwwMDAwMDAwMGRhZWI4M2ZhMTYxN2Y5OTZmYWQ2Yjc1YzY1MTViYzk0`
+Snapshot ID: `MTY2MjY5NjAwMCwwMDAwMDAwMDYwNjFhYzIzZTdmYjUxZDRlNzk4NmYxYmQzOTdjZGJk`

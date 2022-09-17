@@ -4,7 +4,7 @@
 
 > Éxitos urbanos de Latinoamérica: Foto: Feid, Totoy El Frio
 
-324 songs - 18 hr 20 min - [published](https://open.spotify.com/playlist/2GQMqIHn6mzjfv4YUbCfpS)
+325 songs - 18 hr 24 min - [published](https://open.spotify.com/playlist/2GQMqIHn6mzjfv4YUbCfpS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [BIZCOCHITO](https://open.spotify.com/track/4kXxEhuatrvwrTQycA7s9B) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 1:49 | 2022-03-25 |  |
 | [BORRACHA](https://open.spotify.com/track/3JWKzfp6YX4LXFk2ybAfql) | [Felix Klain](https://open.spotify.com/artist/5cqI53b15GRiXRfls7DWMP), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [BORRACHA](https://open.spotify.com/album/2dS81EdC1fIj8XX0X0O9Ex) | 3:24 | 2022-06-09 |  |
 | [Borracho](https://open.spotify.com/track/0rsTDgGRlXKuzSAxcdb4Ns) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [Borracho](https://open.spotify.com/album/0DzwLlhnxgjPgL3uWNZTWG) | 3:39 | 2021-12-17 | 2022-04-02 |
+| [Brother](https://open.spotify.com/track/3M23T72K5eqHI2GzdFMMHE) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Brother](https://open.spotify.com/album/5aw4wm2nZtKrilz0CcTeD8) | 3:29 | 2022-09-16 |  |
 | [Burbujas de Cristal](https://open.spotify.com/track/15yuvKhcoEtV5KwKxqHSwa) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP), [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD) | [Burbujas de Cristal](https://open.spotify.com/album/0UYbHFy4zdCF34CRebZmRQ) | 3:44 | 2022-02-04 | 2022-05-10 |
 | [CACHORRINHAS](https://open.spotify.com/track/7KWKWJnbGJ3Soag6Oopion) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [CACHORRINHAS](https://open.spotify.com/album/290wcRNv42S3KICKFYmTu6) | 2:14 | 2022-07-29 | 2022-08-27 |
 | [Caile](https://open.spotify.com/track/6i1g5ZRmJZAkDwBaUZ3f2i) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [L3tra](https://open.spotify.com/album/70ubyVo5JwY94DLaZBkIBI) | 2:21 | 2021-12-17 |  |
@@ -51,7 +52,7 @@
 | [Chantaje](https://open.spotify.com/track/63XiGZGxNIWXA5CDz1dZ2l) | [Gigolo Y La Exce](https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Chantaje](https://open.spotify.com/album/0q8QW2ceM8XpkNRQRe5akg) | 3:58 | 2022-02-25 | 2022-05-13 |
 | [CHICKEN TERIYAKI](https://open.spotify.com/track/3jHYDEB0YUNJCSEMF2um60) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [CHICKEN TERIYAKI](https://open.spotify.com/album/2qspjwNmCSMX89TqAStmQe) | 2:02 | 2022-02-25 | 2022-04-29 |
 | [Chip S](https://open.spotify.com/track/2MlhrPEpnv6z90YO3ZkghY) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Chip S](https://open.spotify.com/album/38O5m3AOZ6U16kk4cFsRh5) | 2:55 | 2022-01-13 | 2022-02-12 |
-| [Chu Chu Pamela](https://open.spotify.com/track/14pr9SjxdNW8ZGU9GdZGLh) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Chu Chu Pamela](https://open.spotify.com/album/5nk75NdvD4wH7ARj1R9u2A) | 2:57 | 2022-08-19 |  |
+| [Chu Chu Pamela](https://open.spotify.com/track/14pr9SjxdNW8ZGU9GdZGLh) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Chu Chu Pamela](https://open.spotify.com/album/5nk75NdvD4wH7ARj1R9u2A) | 2:57 | 2022-08-19 | 2022-09-17 |
 | [Clito \(feat\. Lenny Tavárez, Dalex & Brray\)](https://open.spotify.com/track/5p9p6Z7WfvbztQ7eQa3qr0) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [The Love & Sex Tape \(Deluxe Edition\)](https://open.spotify.com/album/0C3ZDkBKTqGvwZzqaZMigT) | 3:25 | 2022-09-02 |  |
 | [Clásico](https://open.spotify.com/track/2jHDm2R3JaOeCypobzGuW7) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [Clásico](https://open.spotify.com/album/2uufh3Dx4hFu3tNymjLSzG) | 3:25 | 2022-03-04 | 2022-04-05 |
 | [Cnv Sound, Vol\. 14](https://open.spotify.com/track/1vmRfKejQWsWnE3arhhEit) | [Pure Negga](https://open.spotify.com/artist/1F23hhbmyCMBq3BadxKNhk) | [Cnv Sound Volums \(Kion Studio One Shots\)](https://open.spotify.com/album/6ofhc8WsOvmFP8lLb7b6v3) | 3:14 | 2022-07-27 | 2022-09-03 |

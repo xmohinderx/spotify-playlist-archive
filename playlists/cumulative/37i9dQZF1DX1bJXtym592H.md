@@ -4,7 +4,7 @@
 
 > n3xt l3v3l beats.
 
-127 songs - 5 hr 17 min - [published](https://open.spotify.com/playlist/6RWlap37sAAYwzLtnEcUiW)
+128 songs - 5 hr 20 min - [published](https://open.spotify.com/playlist/6RWlap37sAAYwzLtnEcUiW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Voluptus](https://open.spotify.com/track/5qK78cZFZkgLhJLs8sEnO9) | [Flash Dry](https://open.spotify.com/artist/1zmoasbVWHtHxY22AoyBCs) | [Week Line](https://open.spotify.com/album/5SFXZFbi6A8VIFgd6wZror) | 1:49 | 2022-04-22 |  |
 | [Waking Waves](https://open.spotify.com/track/2CCvwL3lgXH94oajKSOblm) | [PIÑA PINK](https://open.spotify.com/artist/7L2I1AuvyRXd2ysLSTeKZX) | [Waking Waves](https://open.spotify.com/album/0GTAbLRocrPLSAu3y1MQT6) | 3:07 | 2022-04-22 |  |
 | [Westminster](https://open.spotify.com/track/4xJIJavUzBatJRvs8v48dF) | [Blue Boatz](https://open.spotify.com/artist/3HrkUrHEDPnVCg92aTL15T) | [Westminster](https://open.spotify.com/album/2QC94ST7Lx4VaHNarIk6zc) | 2:44 | 2022-04-22 |  |
+| [why it can't be](https://open.spotify.com/track/2OtHVCoDfgVML6XtAOyBaF) | [Toby Tranter](https://open.spotify.com/artist/6jQ21P9GEZfQf4aOMoTYDj) | [why it can't be](https://open.spotify.com/album/5BC8qtNQap7ekRV5LaV6jW) | 3:04 | 2022-09-16 |  |
 | [Willow Whip](https://open.spotify.com/track/11NjsqNM0Kwnqop5rCYlpq) | [Vanilla Beach](https://open.spotify.com/artist/4gJj9oQfNWsfgwKYeUdlCe) | [Willow Whip](https://open.spotify.com/album/5G7mHOpSZbzMi857KYssc5) | 3:07 | 2022-04-22 |  |
 | [Worth It](https://open.spotify.com/track/79s7lALWj5I5LS2v37APK3) | [Fadez N Rizer](https://open.spotify.com/artist/0Byvk0rx8JPDyTBHKnIfbP) | [Worth It](https://open.spotify.com/album/7rix5AYPgRpy0AD9EfUT9x) | 2:46 | 2022-05-16 |  |
 | [Write Off](https://open.spotify.com/track/621MnT5Wi73X0Gp2lmwZ0M) | [Charles Hewits](https://open.spotify.com/artist/2ZvZcOt4Ybj9aTI4FZ1amd) | [Write Off](https://open.spotify.com/album/3pgXKSIeRbS7RLbeLnubHd) | 2:44 | 2022-04-22 |  |

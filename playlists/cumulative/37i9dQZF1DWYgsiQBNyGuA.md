@@ -4,7 +4,7 @@
 
 > Soul to brighten up your day.
 
-118 songs - 7 hr 58 min - [published](https://open.spotify.com/playlist/5ZYeq6EiVK1uhWkAtkmba0)
+119 songs - 8 hr 1 min - [published](https://open.spotify.com/playlist/5ZYeq6EiVK1uhWkAtkmba0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Guilty](https://open.spotify.com/track/0YfwVbEYw31UiVCllyoTaG) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Queen Alone](https://open.spotify.com/album/5QVrsV0URTnFNv4nfRN5BR) | 3:34 | 2022-01-05 | 2022-07-29 |
 | [Guilty](https://open.spotify.com/track/3MLwKelG4PQ7rXkd8Qjz4g) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Queen Alone](https://open.spotify.com/album/6k2kl7wWK57baFDPkpN9It) | 3:34 | 2022-01-05 |  |
 | [Hold Me](https://open.spotify.com/track/3Rhfga08pNnhLMQVb2nRXp) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/2VXeD0hKkY9i8TyGb0chVi) | 3:07 | 2022-01-05 | 2022-07-29 |
+| [Hold Me](https://open.spotify.com/track/4QlhhWO6nq5BzSpfU4nJs0) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT) | 3:07 | 2022-01-05 |  |
 | [Hold Me](https://open.spotify.com/track/5t93hSW6hOhojflI6pjits) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/2FiJglbmAD9roZsCwKJYIb) | 3:07 | 2022-01-05 | 2022-09-15 |
 | [Honest Man](https://open.spotify.com/track/5xdEYxSLIF1b7WC9NAHdcX) | [Fat Night](https://open.spotify.com/artist/0jUjkZEu17LkjSEQJmcqqi) | [Honest Man](https://open.spotify.com/album/2DFtAZAQAHY7GGDPgljPC2) | 5:25 | 2022-01-05 |  |
 | [Honest Man](https://open.spotify.com/track/6yPfoOEeB6F7lvmzkV5oTK) | [Fat Night](https://open.spotify.com/artist/0jUjkZEu17LkjSEQJmcqqi) | [Honest Man](https://open.spotify.com/album/5pyIhOwfpDSUUMA26NDdNt) | 5:25 | 2022-01-05 | 2022-07-29 |
@@ -100,7 +101,7 @@
 | [So Caught Up](https://open.spotify.com/track/2SrTIQZs2Dzv9WC538a8xM) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT) | 3:48 | 2022-01-05 |  |
 | [So Caught Up](https://open.spotify.com/track/6QvdMd39Vywf87kHx03xgX) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/2VXeD0hKkY9i8TyGb0chVi) | 3:48 | 2022-01-05 | 2022-07-29 |
 | [Soul Revolution](https://open.spotify.com/track/1Eu7WRMIg3lUhXtVAI2jCn) | [Steffen Morrison](https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r) | [Soul Revolution](https://open.spotify.com/album/04Jkig1VBtJLGssHJHsWDN) | 3:15 | 2022-01-05 |  |
-| [Soulman \- New English Version](https://open.spotify.com/track/7uooKN0tSNN6t6Pw3IJT1V) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Ben L'Oncle Soul](https://open.spotify.com/album/0cf7toJ9xKuKgsaTDwxaCj) | 3:42 | 2022-01-05 |  |
+| [Soulman \- New English Version](https://open.spotify.com/track/7uooKN0tSNN6t6Pw3IJT1V) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Ben L'Oncle Soul](https://open.spotify.com/album/0cf7toJ9xKuKgsaTDwxaCj) | 3:42 | 2022-01-05 | 2022-09-17 |
 | [Soulman \- New English Version](https://open.spotify.com/track/6gUbpcQmFvDUbe7a213wlr) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Ben L'Oncle Soul](https://open.spotify.com/album/6XbYsGvaSrNPOrY9E5jRd7) | 3:42 | 2022-01-05 | 2022-07-29 |
 | [Spend The Night](https://open.spotify.com/track/14VwBAL1qSlG4ovOSYUQF4) | [Rahsaan Patterson](https://open.spotify.com/artist/5jVkC5rSgdK2EPfRAmtbpH) | [Rahsaan Patterson](https://open.spotify.com/album/1uMPGRwlgCjpIxjGTjg93c) | 4:53 | 2022-01-05 |  |
 | [Spiritual Thang](https://open.spotify.com/track/1lcZPCRAuVXCHSqPsFaWlw) | [Eric Benét](https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov) | [True to Myself](https://open.spotify.com/album/0HgmysKc552d8G01TdbUa3) | 4:00 | 2022-01-05 |  |

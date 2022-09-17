@@ -369,7 +369,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 141333,
       "name": "Beggin'",
       "url": "https://open.spotify.com/track/5eG41VMRPiEf4uIYGdXTc1"
@@ -641,7 +641,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 115764,
       "name": "Butterfly Effect",
       "url": "https://open.spotify.com/track/1OjgvrmMnOHkOKChAZYV4H"
@@ -663,6 +663,24 @@
       "duration_ms": 154285,
       "name": "Buzz",
       "url": "https://open.spotify.com/track/4l9tBmE0kfF7pHQ0BavAGB"
+    },
+    {
+      "album": {
+        "name": "Call Me",
+        "url": "https://open.spotify.com/album/3NvSQrWzAMxGp8DABLyOy3"
+      },
+      "artists": [
+        {
+          "name": "Blues Trip",
+          "url": "https://open.spotify.com/artist/1tR2bO3i8fdS3A8tLn2UEw"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/1hc4YKpgFFFbK6YMuDXTnu"
     },
     {
       "album": {
@@ -1808,6 +1826,24 @@
     },
     {
       "album": {
+        "name": "Goiaba",
+        "url": "https://open.spotify.com/album/7HKTZkhWHbRZmWgCifVwfv"
+      },
+      "artists": [
+        {
+          "name": "Oaty.",
+          "url": "https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139805,
+      "name": "Goiaba",
+      "url": "https://open.spotify.com/track/4KCGYOHGExcKUlFkNajeVO"
+    },
+    {
+      "album": {
         "name": "Golden",
         "url": "https://open.spotify.com/album/2FqmKUkGYBuudgPtF1X1eL"
       },
@@ -2197,7 +2233,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 100253,
       "name": "honey",
       "url": "https://open.spotify.com/track/4Iru0dqCxenHmei8t6dTeN"
@@ -2359,7 +2395,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 88062,
       "name": "Jazzy Attitude",
       "url": "https://open.spotify.com/track/1ImlRruQ0ZMShqLNQ47JA7"
@@ -2963,7 +2999,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 159069,
       "name": "Loose",
       "url": "https://open.spotify.com/track/2jL3urmIC1PepoT93Mskmm"
@@ -3122,6 +3158,28 @@
     },
     {
       "album": {
+        "name": "Margarita",
+        "url": "https://open.spotify.com/album/1jfMmPZV2B0Lt2ZoO8dSxJ"
+      },
+      "artists": [
+        {
+          "name": "Jason Masoud",
+          "url": "https://open.spotify.com/artist/2ZDVnuPd31hILsEUXMKcC1"
+        },
+        {
+          "name": "Torgny Elgstrand",
+          "url": "https://open.spotify.com/artist/5bHkOOTJw2yCfHxIXtrZ7L"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116860,
+      "name": "Margarita",
+      "url": "https://open.spotify.com/track/6DVwiQukdfBBjUf2xhJzc6"
+    },
+    {
+      "album": {
         "name": "Matal\u00ed",
         "url": "https://open.spotify.com/album/0AYDa7YRH3Zh4jSzKgClEV"
       },
@@ -3169,7 +3227,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 131265,
       "name": "Meanwhile Uptown",
       "url": "https://open.spotify.com/track/5YsebZdAALKpif1pKAtBzg"
@@ -3245,7 +3303,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 163848,
       "name": "Midnight Set",
       "url": "https://open.spotify.com/track/2SXFyO8D10xlpvKkyGWZrJ"
@@ -3263,7 +3321,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 108007,
       "name": "millions",
       "url": "https://open.spotify.com/track/5I20Xa98Zm3YQlSfRQgwxt"
@@ -3461,7 +3519,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 112941,
       "name": "Mr Lonely",
       "url": "https://open.spotify.com/track/3vkXcpV294D0mrLIz5k1nM"
@@ -3747,6 +3805,24 @@
       "duration_ms": 121875,
       "name": "One Two Tree",
       "url": "https://open.spotify.com/track/1tNwm7phOIMzGC1VO9Dggr"
+    },
+    {
+      "album": {
+        "name": "Optimistic",
+        "url": "https://open.spotify.com/album/3kFPAvkGQ5aXABohDuJvqs"
+      },
+      "artists": [
+        {
+          "name": "Raouf Beats",
+          "url": "https://open.spotify.com/artist/5KVCvRxkmEVquvmkLe0fII"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95000,
+      "name": "Optimistic",
+      "url": "https://open.spotify.com/track/2cq5LlQMpHDFbRLjmMopph"
     },
     {
       "album": {
@@ -4231,10 +4307,28 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 131153,
       "name": "Retrospective",
       "url": "https://open.spotify.com/track/5BYOPUidJX9Hx0T6tv3lWA"
+    },
+    {
+      "album": {
+        "name": "Riding That Moment",
+        "url": "https://open.spotify.com/album/4czbpk93XQF1jqtJyyVq8U"
+      },
+      "artists": [
+        {
+          "name": "Perpetual Machine",
+          "url": "https://open.spotify.com/artist/2LfRjZGrFS9eu2fppbwGEk"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109000,
+      "name": "Riding That Moment",
+      "url": "https://open.spotify.com/track/6fpv2RAeHiiQRUYuLmO3oz"
     },
     {
       "album": {

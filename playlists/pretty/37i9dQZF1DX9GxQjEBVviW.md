@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GxQjEBVviW.md) - [plain]
 
 > ​Boogie along to doo\-wop's greatest hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,583 likes - 50 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,644 likes - 50 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GxQjEBVviW.md) - [plain]
 | 19 | [Down in Mexico](https://open.spotify.com/track/4OnqJ1ml4Jgr5AAKNrrYCD) | [The Coasters](https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM) | [The Coasters](https://open.spotify.com/album/3HRX7bzilG4zT8CZ6KTdtO) | 3:16 |
 | 20 | [Sincerely](https://open.spotify.com/track/6hOD1yxLeWllJ2TiwbuwQg) | [The Moonglows](https://open.spotify.com/artist/1sZwQg2rvSlGhkG218SouM) | [The Best Of Bobby Lester And The Moonglows](https://open.spotify.com/album/5G9ZcFBoCQgIQDjV4arzl8) | 3:09 |
 | 21 | [Get a Job](https://open.spotify.com/track/21NhrNOfIoakyWISXUMkFN) | [The Silhouettes](https://open.spotify.com/artist/5LmehwqsJa7a4Ya5SaqXpx) | [Get a Job](https://open.spotify.com/album/28pRA1gcndMkuHd0LI9EN9) | 2:49 |
-| 22 | [Up on the Roof](https://open.spotify.com/track/2806jBTs12WAfzFImSxJzL) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [Up on the Roof: The Best of the Drifters](https://open.spotify.com/album/2hnrAozjkiXgE1Xe2X4Fq3) | 2:35 |
-| 23 | [Mama Said](https://open.spotify.com/track/5sGeyWYDvUIF7QjERNCY7L) | [The Shirelles](https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn) | [Because I Said So \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/70gDHlCYONYFiaHZj98hLY) | 2:10 |
+| 22 | [Mama Said](https://open.spotify.com/track/5sGeyWYDvUIF7QjERNCY7L) | [The Shirelles](https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn) | [Because I Said So \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/70gDHlCYONYFiaHZj98hLY) | 2:10 |
+| 23 | [Up on the Roof](https://open.spotify.com/track/2806jBTs12WAfzFImSxJzL) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [Up on the Roof: The Best of the Drifters](https://open.spotify.com/album/2hnrAozjkiXgE1Xe2X4Fq3) | 2:35 |
 | 24 | [Buzz, Buzz, Buzz](https://open.spotify.com/track/1rhkJsynQ42VnaJanPmNwg) | [The Hollywood Flames](https://open.spotify.com/artist/121nZKKBmAkL8NKaXY0rkC) | [The Hollywood Flames](https://open.spotify.com/album/6ezr8YCNogJhJv0ggSRtET) | 2:16 |
 | 25 | [Charlie Brown \- 2007 Remaster Stereo Single Version; Remastered](https://open.spotify.com/track/6t83zAQg9Efca1u1DPL930) | [The Coasters](https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM) | [There's A Riot Goin' On: The Coasters On Atco](https://open.spotify.com/album/1oi6aLPgSAwv3352Jtmjku) | 2:21 |
 | 26 | [Goin' Out Of My Head](https://open.spotify.com/track/538IUnkjiDgU9Ndhf1wN2f) | [Little Anthony & The Imperials](https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V) | [Goin' Out Of My Head](https://open.spotify.com/album/1b5ALXWfAgs3hBrQRD4LMK) | 2:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GxQjEBVviW.md) - [plain]
 | 49 | [Lovers Never Say Goodbye](https://open.spotify.com/track/1XDKn16I6tc1PNpXf58y3t) | [The Flamingos](https://open.spotify.com/artist/6iygtKnPG7TRvDaTYcLOd6) | [Playlist: The Best Of The Flamingos](https://open.spotify.com/album/4jwec58eQ4tIr8YWKdxyjg) | 2:53 |
 | 50 | [Chapel of Dreams](https://open.spotify.com/track/3HgV08D7OOay214URalpnZ) | [The Dubs](https://open.spotify.com/artist/33rjua7RFjy9GwqKWnbnGJ) | [Rmg's Top Doo\-Wop Cloud Hits Volume 1](https://open.spotify.com/album/3x0X3yqeVppSX30KzKWSiU) | 2:32 |
 
-Snapshot ID: `MTYxMzEyNDQwNywwMDAwMDAwMDM4YmU0YjY4NzRlNmZjYzE2MWMxMzk2MzI4NzQzOTk3`
+Snapshot ID: `MTYxMzEyNDQwNywwMDAwMDAwMDRhZTU2YjRhNDRiNjY5ZDA4MDZlZGM1N2NmNjZjMzVk`

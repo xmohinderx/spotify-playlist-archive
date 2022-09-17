@@ -4,7 +4,7 @@
 
 > Blues with a British flavor\. Cover: Jeff Beck
 
-107 songs - 7 hr 48 min - [published](https://open.spotify.com/playlist/7gJ8WrGorienL6aMEyovTu)
+108 songs - 7 hr 52 min - [published](https://open.spotify.com/playlist/7gJ8WrGorienL6aMEyovTu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Blues Power](https://open.spotify.com/track/5631mk9iLBe2y6adelMpcF) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Eric Clapton](https://open.spotify.com/album/3taJF5jtfoJZ3zDKJBu5zG) | 3:09 | 2021-04-22 |  |
 | [Boneyard \- Edit](https://open.spotify.com/track/1zHHwTIloBthaYONQX2TZ0) | [Fink](https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf) | [Boneyard](https://open.spotify.com/album/6PAu4B2YSVrbCzELEhyAmU) | 3:20 | 2021-04-22 |  |
 | [Can't Keep from Loving You](https://open.spotify.com/track/1lM4AreOWHdLZV5YmPs3G4) | [Laurence Jones](https://open.spotify.com/artist/2vX8hKHgReZ15YguZe3Zxj) | [Can't Keep From Loving You](https://open.spotify.com/album/6tIe49swz5w7eBuCAFCOWQ) | 3:05 | 2022-08-12 | 2022-09-10 |
+| [Can't Stop Lovin'](https://open.spotify.com/track/5axTSj72UK4WOj7Y3tVbk9) | [Mick Clarke](https://open.spotify.com/artist/67mAkA5iBh0bWPJojt1AHt) | [Can't Stop Lovin'](https://open.spotify.com/album/6pfr0M8dvmxnW7pNRdWSgx) | 3:59 | 2022-09-02 |  |
 | [Cheats and Liars](https://open.spotify.com/track/7k0hyVgSg0woUwN1qAuuBf) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Shining in the Half Light](https://open.spotify.com/album/1qXhwQrfr59v0uk5wUOshO) | 3:48 | 2022-03-25 |  |
 | [Cocaine](https://open.spotify.com/track/3ykSdTGmYPFl8pDBXer1zG) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Slowhand 35th Anniversary \(Super Deluxe\)](https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP) | 3:41 | 2021-04-22 |  |
 | [Confessin' The Blues](https://open.spotify.com/track/3AaXHBFpwXWmtg3kcfuwhQ) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [12 X 5](https://open.spotify.com/album/2Hnje5QVKaPVNuGJ5yHC7Z) | 2:47 | 2021-04-22 |  |
@@ -86,7 +87,7 @@
 | [Since I've Been Loving You \- Remaster](https://open.spotify.com/track/1SDiiE3v2z89VxC3aVRKHQ) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin III \(Remaster\)](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut) | 7:24 | 2021-04-22 |  |
 | [Sittin' And Thinkin' \- Mono Version](https://open.spotify.com/track/0umo8TT1q9CQbOwfjHHK1O) | [The Spencer Davis Group](https://open.spotify.com/artist/3i9hP422d2KMjaupTzBNVS) | [Their First LP \(Mono Version\)](https://open.spotify.com/album/3S64E4pbZbfsB7gJWxrRDT) | 2:57 | 2021-04-22 |  |
 | [So Tired of Living](https://open.spotify.com/track/5NzKWVIBmPJ0xp7VP0c2rn) | [Malone Sibun](https://open.spotify.com/artist/0m2ru7d9GvCPhRMV9Pf1yH) | [Come Together](https://open.spotify.com/album/5J9IEJ8AfBEuFKzNHaV7aF) | 6:29 | 2022-03-25 | 2022-07-21 |
-| [Someday Baby Blues](https://open.spotify.com/track/0KkRdukZsl1Fzc56pgorCd) | [Jo Ann Kelly](https://open.spotify.com/artist/6enyYil5r9snkIazgAX5DG) | [Blues & Gospel \(Rare & Unreleased Recordings\)](https://open.spotify.com/album/1X6zfC44u7x4iDVrrX1bo9) | 3:36 | 2021-04-22 |  |
+| [Someday Baby Blues](https://open.spotify.com/track/0KkRdukZsl1Fzc56pgorCd) | [Jo Ann Kelly](https://open.spotify.com/artist/6enyYil5r9snkIazgAX5DG) | [Blues & Gospel \(Rare & Unreleased Recordings\)](https://open.spotify.com/album/1X6zfC44u7x4iDVrrX1bo9) | 3:36 | 2021-04-22 | 2022-09-17 |
 | [Songs Of Yesterday](https://open.spotify.com/track/7jYXoudEWfERVDFZHM8Nfw) | [Free](https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC) | [Free](https://open.spotify.com/album/2yZXtlCUGjaOYBGc9qqeay) | 3:35 | 2021-04-22 |  |
 | [Still A Fool \- Single Edit](https://open.spotify.com/track/3svcU5KjgpSI3SPiRca07X) | [The Groundhogs](https://open.spotify.com/artist/0c3RL3vVEgfxD6VBv7CGak) | [Thank Christ For The Groundhogs: The Liberty Years 1968\-1972](https://open.spotify.com/album/7cpe5iNefJ5Orj6hqnX3py) | 4:11 | 2021-04-22 | 2022-07-31 |
 | [Still A Fool \- Single Edit](https://open.spotify.com/track/5eNJCDSPdmK77fa5ZDmwgp) | [The Groundhogs](https://open.spotify.com/artist/0c3RL3vVEgfxD6VBv7CGak) | [Thank Christ For The Groundhogs: The Liberty Years 1968\-1972](https://open.spotify.com/album/6ZAAQLTn3YE3mOe7E7XWfJ) | 4:11 | 2021-04-22 | 2022-07-29 |

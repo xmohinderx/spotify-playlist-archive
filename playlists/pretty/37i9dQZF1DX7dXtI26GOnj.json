@@ -1,12 +1,12 @@
 {
   "description": "Todo calor latino est\u00e1 aqui! \ud83d\udd25  Foto: Camilo",
-  "num_followers": 95246,
+  "num_followers": 95306,
   "original_name": "Calorcito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5MjQwMCwwMDAwMDAwMGExY2Y2NTE4OGYxMzk4ODllZDJkY2MwYjdlNDUzMTY4",
+  "snapshot_id": "MTY2MjY5MjQwMCwwMDAwMDAwMDZlYWRlZWZhZDI4ZjgwYmRkNDlkZmQzMzNiOGUzODA5",
   "tracks": [
     {
       "added_at": "2022-09-09 03:00:00",
@@ -967,6 +967,26 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
+        "name": "Si Supieras",
+        "url": "https://open.spotify.com/album/4lmKt00bHLEeqJRTlNOxXS"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        }
+      ],
+      "duration_ms": 241880,
+      "name": "Si Supieras",
+      "url": "https://open.spotify.com/track/7MRU4vOkywuhZ9kbFiPuiu"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
         "name": "Somos Iguales",
         "url": "https://open.spotify.com/album/3Q9cZSRC2at6mZjfdOlVJ3"
       },
@@ -991,26 +1011,6 @@
       "duration_ms": 172414,
       "name": "Somos Iguales",
       "url": "https://open.spotify.com/track/3uZgr5fHIzOAc3sjX5zHc1"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
-        "name": "Si Supieras",
-        "url": "https://open.spotify.com/album/4lmKt00bHLEeqJRTlNOxXS"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        }
-      ],
-      "duration_ms": 241880,
-      "name": "Si Supieras",
-      "url": "https://open.spotify.com/track/7MRU4vOkywuhZ9kbFiPuiu"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -1087,6 +1087,46 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
+        "name": "MAL DE AMOR",
+        "url": "https://open.spotify.com/album/1PJGPDQCUfl18e5C3to1Uk"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 221270,
+      "name": "MAL DE AMOR",
+      "url": "https://open.spotify.com/track/0j15NSe9m6egjzJXXn1QXQ"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
+        "name": "Apretaito",
+        "url": "https://open.spotify.com/album/0aMqp2gRJQjhVZmHkuTtfL"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        }
+      ],
+      "duration_ms": 199627,
+      "name": "Apretaito",
+      "url": "https://open.spotify.com/track/0cW5cXANjlv8hgLAQwdvgE"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
         "name": "Naturaleza",
         "url": "https://open.spotify.com/album/11eLw82kDc6Id4iYk1jrIN"
       },
@@ -1107,22 +1147,18 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "MAL DE AMOR",
-        "url": "https://open.spotify.com/album/1PJGPDQCUfl18e5C3to1Uk"
+        "name": "Nobody Like Yo",
+        "url": "https://open.spotify.com/album/2NhtV3QHi04aqmbnaLCEYJ"
       },
       "artists": [
         {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
         }
       ],
-      "duration_ms": 221270,
-      "name": "MAL DE AMOR",
-      "url": "https://open.spotify.com/track/0j15NSe9m6egjzJXXn1QXQ"
+      "duration_ms": 154666,
+      "name": "Nobody Like Yo",
+      "url": "https://open.spotify.com/track/5ETecrJ4HK8qglSLq382hG"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -1151,42 +1187,6 @@
       "duration_ms": 186000,
       "name": "Socadona (feat. Mr. Vegas)",
       "url": "https://open.spotify.com/track/5jYEiTNR3FQXFouTX7Ju0N"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
-        "name": "Apretaito",
-        "url": "https://open.spotify.com/album/0aMqp2gRJQjhVZmHkuTtfL"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Boza",
-          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
-        }
-      ],
-      "duration_ms": 199627,
-      "name": "Apretaito",
-      "url": "https://open.spotify.com/track/0cW5cXANjlv8hgLAQwdvgE"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
-        "name": "Nobody Like Yo",
-        "url": "https://open.spotify.com/album/2NhtV3QHi04aqmbnaLCEYJ"
-      },
-      "artists": [
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 154666,
-      "name": "Nobody Like Yo",
-      "url": "https://open.spotify.com/track/5ETecrJ4HK8qglSLq382hG"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -1267,26 +1267,6 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Otra Noche Sin Ti",
-        "url": "https://open.spotify.com/album/0Q7L1MC5jSE0srnjEWCifV"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 228920,
-      "name": "Otra Noche Sin Ti",
-      "url": "https://open.spotify.com/track/2CdTLdDjwZdVcm0bresVWx"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
         "name": "Tutu",
         "url": "https://open.spotify.com/album/6xu5asYeoMIT5Sa5b1P13q"
       },
@@ -1303,6 +1283,26 @@
       "duration_ms": 178613,
       "name": "Tutu",
       "url": "https://open.spotify.com/track/1nocRtwyNPVtGcIJqfgdzZ"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
+        "name": "Otra Noche Sin Ti",
+        "url": "https://open.spotify.com/album/0Q7L1MC5jSE0srnjEWCifV"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 228920,
+      "name": "Otra Noche Sin Ti",
+      "url": "https://open.spotify.com/track/2CdTLdDjwZdVcm0bresVWx"
     },
     {
       "added_at": "2022-09-09 03:00:00",

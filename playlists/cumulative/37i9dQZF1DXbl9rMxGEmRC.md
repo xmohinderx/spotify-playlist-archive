@@ -4,7 +4,7 @@
 
 > A collection of classics and recent tracks from the world of black and dark metal\. Cover: Dimmu Borgir
 
-303 songs - 1 day 2 hr 31 min - [published](https://open.spotify.com/playlist/64Dcl2uRhYdNKoQxcWR2Lx)
+304 songs - 1 day 2 hr 34 min - [published](https://open.spotify.com/playlist/64Dcl2uRhYdNKoQxcWR2Lx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Black Crow on a Tombstone](https://open.spotify.com/track/0ceibOL5IiWDOeBv2PYUGS) | [Satyricon](https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd) | [The Age Of Nero](https://open.spotify.com/album/6aRs27tvkatPTAIE7gaj1j) | 3:50 | 2022-07-13 | 2022-07-29 |
 | [Black Crow On A Tombstone](https://open.spotify.com/track/4yx8w5d2k8Ku4QXf7eSac1) | [Satyricon](https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd) | [The Age Of Nero](https://open.spotify.com/album/4Yzl4aZZ6Qs9LvKuOIRHJw) | 3:56 | 2022-07-13 |  |
 | [Black Dragon](https://open.spotify.com/track/2ECiOFk2i28TFEZUDQXefc) | [Dissection](https://open.spotify.com/artist/6qpmcQfxhmNxNMCJUrpHwe) | [Reinkaos](https://open.spotify.com/album/4va3x8PEXjTkguSQy70YPw) | 4:48 | 2022-07-13 |  |
-| [Black Flames March](https://open.spotify.com/track/67NmAcOBbppWwqory0sYir) | [Watain](https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX) | [The Wild Hunt](https://open.spotify.com/album/3BEfG3ZXFY0xjjvIXRwqOj) | 6:20 | 2022-07-13 |  |
+| [Black Flames March](https://open.spotify.com/track/67NmAcOBbppWwqory0sYir) | [Watain](https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX) | [The Wild Hunt](https://open.spotify.com/album/3BEfG3ZXFY0xjjvIXRwqOj) | 6:20 | 2022-07-13 | 2022-09-17 |
 | [Black Fog and Poison Wind](https://open.spotify.com/track/6cS2AAZePp2lSwYy1HrrRG) | [Darkwoods My Betrothed](https://open.spotify.com/artist/63f4uHAHuzSuzgd8SnoFwn) | [Black Fog and Poison Wind](https://open.spotify.com/album/7L9L2M4znx70n1qBBBvtKl) | 4:42 | 2021-12-17 | 2022-07-21 |
 | [Black Metal](https://open.spotify.com/track/3yNoEJifUJdly8ucYoWRwl) | [Venom](https://open.spotify.com/artist/5fwaejlOHVBAw1KhIPPaQe) | [Black Metal](https://open.spotify.com/album/1e6Osda6t8UDFYQ29sFVlV) | 3:41 | 2022-07-13 |  |
 | [Blackest Sabbath 1997](https://open.spotify.com/track/6NNxpCVslN0gi4UvwfxeOs) | [Belphegor](https://open.spotify.com/artist/1uPIYn2IU0IuPWSZ58kzyM) | [Blackest Sabbath 1997](https://open.spotify.com/album/7aHt1M9ebUKH96ZX8ywN9m) | 6:06 | 2021-12-17 | 2022-05-28 |
@@ -250,6 +250,7 @@
 | [Stone That Burns](https://open.spotify.com/track/5TX941hWLDj4ru5N2xbJti) | [Anima Hereticae](https://open.spotify.com/artist/539bg8trpgvFICGqp2VIUd) | [Ov Behest](https://open.spotify.com/album/1zIKlDMfUjGuYZttGLJwTt) | 7:04 | 2021-12-17 | 2022-05-14 |
 | [Strepitus Mundi](https://open.spotify.com/track/3f9GL4zy4NfKhIFePXofP0) | [Aara](https://open.spotify.com/artist/3UpDjZ41s0rOQsDKSECKmt) | [Strepitus Mundi](https://open.spotify.com/album/2gTBYf4PyYXYOqYpXXzrgF) | 8:04 | 2022-04-08 | 2022-07-23 |
 | [Svart Industriell Olycka](https://open.spotify.com/track/4eDKFcJDDoUcUYlK2cdemJ) | [Shining](https://open.spotify.com/artist/7wqTItc5qEyIwWw5ksN1Ya) | [III : Angst](https://open.spotify.com/album/7EkBKDQY4vPdkoEiW0fFUv) | 8:05 | 2022-07-13 | 2022-07-29 |
+| [Swamped XX](https://open.spotify.com/track/3iqzSkWevZvDTgugUQhUB9) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Swamped XX](https://open.spotify.com/album/6FkY7M23Zqy1MrRYJJJals) | 3:32 | 2022-09-16 |  |
 | [Szex Witchery](https://open.spotify.com/track/2rfMZCzlXaGsrCiSdllKcT) | [Midnight](https://open.spotify.com/artist/28KjD5HkkDDytQzKW7JzTp) | [Szex Witchery](https://open.spotify.com/album/4POysr62d7E2iOCLDHe5sS) | 3:59 | 2022-01-21 | 2022-02-11 |
 | [The Book of Breath](https://open.spotify.com/track/7hA0Cv3sWhKIjKbpnMcg1G) | [Abbath](https://open.spotify.com/artist/1epGwdbjU7JSGVBHlqptpx) | [The Book of Breath](https://open.spotify.com/album/1YXcHOfyzrJduglh9NWgOG) | 4:35 | 2022-03-10 | 2022-07-25 |
 | [The Bride of Corinth](https://open.spotify.com/track/7Hzq8rzkH0LjKSRSXwFXYD) | [Theatres Des Vampires](https://open.spotify.com/artist/4vNrZHCyGyELnv8tAgZZRt) | [In Nomine Sanguinis](https://open.spotify.com/album/1gHTP0xHAJkLiiYtm3U6Oa) | 3:37 | 2021-12-17 | 2022-07-27 |

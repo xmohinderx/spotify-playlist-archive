@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47UHGK8zGt8.md) - [plain]
 
 > Músicas calminhas pra começar o dia bem relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,176 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,527 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47UHGK8zGt8.md) - [plain]
 | 13 | [A noite](https://open.spotify.com/track/06XSmh92M0FIYNGC4Ss0CX) | [Tiê](https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7) | [Esmeraldas \(Álbum Comentado\)](https://open.spotify.com/album/6EtAuxIwZCEuUZEqn2DwII) | 3:38 |
 | 14 | [Pra Sonhar](https://open.spotify.com/track/2VJOJBlHlSzdsf1uBpReKe) | [Marcelo Jeneci](https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE), [Laura Lavieri](https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za) | [Feito Pra Acabar](https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO) | 4:28 |
 | 15 | [4 da manhã](https://open.spotify.com/track/5xVJU6DJHnmHnbbKS56yCC) | [UM44K](https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2) | [4 da manhã](https://open.spotify.com/album/4pbbrNIhUdWxLYmd46lhVl) | 3:36 |
-| 16 | [Vilarejo](https://open.spotify.com/track/4qvUtYRNwmFzfJ2loWkQCH) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Infinito Particular](https://open.spotify.com/album/4vJUBwgIaG2AD5rP32O730) | 3:29 |
-| 17 | [Bixinho](https://open.spotify.com/track/04RFAnuBZkyITGUNIbZHhb) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Sinto Muito](https://open.spotify.com/album/5fu7gooH6bp15cPuYGfGvx) | 3:25 |
-| 18 | [deixa fluir](https://open.spotify.com/track/6YjjYEAcnlzZavu53uTpDw) | [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0), [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [deixa fluir](https://open.spotify.com/album/6ZoUtuq1rEXklKLr2DBUez) | 2:51 |
+| 16 | [deixa fluir](https://open.spotify.com/track/6YjjYEAcnlzZavu53uTpDw) | [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0), [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [deixa fluir](https://open.spotify.com/album/6ZoUtuq1rEXklKLr2DBUez) | 2:51 |
+| 17 | [Vilarejo](https://open.spotify.com/track/4qvUtYRNwmFzfJ2loWkQCH) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Infinito Particular](https://open.spotify.com/album/4vJUBwgIaG2AD5rP32O730) | 3:29 |
+| 18 | [Bixinho](https://open.spotify.com/track/04RFAnuBZkyITGUNIbZHhb) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Sinto Muito](https://open.spotify.com/album/5fu7gooH6bp15cPuYGfGvx) | 3:25 |
 | 19 | [Me Espera](https://open.spotify.com/track/27hUD1YdTO5dmRw0V5bOqD) | [Sandy](https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8), [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Meu Canto \- EP](https://open.spotify.com/album/6WQAS1zej9JEKE47QBVSJB) | 3:50 |
 | 20 | [Fica Tudo Bem](https://open.spotify.com/track/0trB3R0YBk3vGrGm5YSUTv) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Brasileiro](https://open.spotify.com/album/6r0GYeEO1BddAuBD4eM4cq) | 2:47 |
 | 21 | [Quando Bate Aquela Saudade](https://open.spotify.com/track/76bcaYeKOKTrj9lEc9BZFU) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW) | [Pearl](https://open.spotify.com/album/25fli8PlxpP10WpirvDpMT) | 6:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47UHGK8zGt8.md) - [plain]
 | 49 | [Um amor puro](https://open.spotify.com/track/6AOVm8DxKYBtcgo35DOzss) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [Maria Gadú](https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH) | [Um amor puro](https://open.spotify.com/album/5PebzLJlsrtY3HzUTm6FQO) | 4:45 |
 | 50 | [Alto Mar](https://open.spotify.com/track/7GwO8ewOutzHzL3HeMbxK4) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Alto Mar](https://open.spotify.com/album/6DahyEuFWlMu8ECGM2lrDX) | 3:17 |
 
-Snapshot ID: `MTY2MjEzMTgzMSwwMDAwMDAwMDJkM2IzOTliYmUxM2RlMDI0NzJhMWM1MWEzMGM4MDg2`
+Snapshot ID: `MTY2MjEzMTgzMSwwMDAwMDAwMGNiNDM1MTFhNDljZjAyNmU5ZjE4MjBkMmIzMzZhYWU4`

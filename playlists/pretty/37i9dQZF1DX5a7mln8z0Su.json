@@ -1,12 +1,12 @@
 {
   "description": "\ubb34\uc5b8\uac00 \uc774\uc0c1\ud55c \ub9c8\uc74c \uc18d \uc77c\ub801\uc784\uc744 \ub178\ub798\ub85c \ub290\uaef4\ubcf4\uc138\uc694.",
-  "num_followers": 3912,
+  "num_followers": 3927,
   "original_name": "\uad1c\ud788 \uc13c\uce58\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM5MzMwMiwwMDAwMDAwMDI5MTEwODY0NTFlZjY2ODNjMzY3ZjcwZmZmYjQ1NDU4",
+  "snapshot_id": "MTY2MjM5MzMwMiwwMDAwMDAwMDViZTkyZDRhMzhkOWRmOThmMjMwMGVlZmMwMjNhZWRl",
   "tracks": [
     {
       "added_at": "2022-09-05 15:55:02",
@@ -311,26 +311,6 @@
     {
       "added_at": "2022-09-05 15:55:02",
       "album": {
-        "name": "Sool",
-        "url": "https://open.spotify.com/album/1afTZ3mebjnJsWkg8n8WS7"
-      },
-      "artists": [
-        {
-          "name": "snzae",
-          "url": "https://open.spotify.com/artist/55l6wA0gGh2Y1OpE5lUYLc"
-        },
-        {
-          "name": "THAMA",
-          "url": "https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld"
-        }
-      ],
-      "duration_ms": 230560,
-      "name": "Sool (Feat. THAMA)",
-      "url": "https://open.spotify.com/track/2wLsNE3k1TGAMm5JSqsYUX"
-    },
-    {
-      "added_at": "2022-09-05 15:55:02",
-      "album": {
         "name": "NEXT EPISODE",
         "url": "https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy"
       },
@@ -347,6 +327,26 @@
       "duration_ms": 236703,
       "name": "Tictoc Tictoc Tictoc (with Beenzino)",
       "url": "https://open.spotify.com/track/69XHRP8AyobIbFELKSdOHp"
+    },
+    {
+      "added_at": "2022-09-05 15:55:02",
+      "album": {
+        "name": "Sool",
+        "url": "https://open.spotify.com/album/1afTZ3mebjnJsWkg8n8WS7"
+      },
+      "artists": [
+        {
+          "name": "snzae",
+          "url": "https://open.spotify.com/artist/55l6wA0gGh2Y1OpE5lUYLc"
+        },
+        {
+          "name": "THAMA",
+          "url": "https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld"
+        }
+      ],
+      "duration_ms": 230560,
+      "name": "Sool (Feat. THAMA)",
+      "url": "https://open.spotify.com/track/2wLsNE3k1TGAMm5JSqsYUX"
     },
     {
       "added_at": "2022-09-05 15:55:02",
@@ -631,22 +631,18 @@
     {
       "added_at": "2022-09-05 15:55:02",
       "album": {
-        "name": "Beautiful struggle",
-        "url": "https://open.spotify.com/album/17X67myikY9mktuS1UHAyx"
+        "name": "monochrome",
+        "url": "https://open.spotify.com/album/6mNAsURE9iDVUd5v1wqAjx"
       },
       "artists": [
         {
-          "name": "CHOMINWOO",
-          "url": "https://open.spotify.com/artist/1mISG0BUcXpI7kJKtRqthM"
-        },
-        {
-          "name": "Mingginyu",
-          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
+          "name": "Kisnue",
+          "url": "https://open.spotify.com/artist/64A4Dn0L0xf7GTreuOgJ1F"
         }
       ],
-      "duration_ms": 198875,
-      "name": "Love like a bouquet,",
-      "url": "https://open.spotify.com/track/7es4VhC71wFHRaVjkdQ5rK"
+      "duration_ms": 261941,
+      "name": "monochrome",
+      "url": "https://open.spotify.com/track/1mRBrMhPTfzrLZExDaNU3k"
     },
     {
       "added_at": "2022-09-05 15:55:02",
@@ -663,6 +659,26 @@
       "duration_ms": 227756,
       "name": "Hug me tight",
       "url": "https://open.spotify.com/track/72hSGQmtB2M7VGouyZ9Yr4"
+    },
+    {
+      "added_at": "2022-09-05 15:55:02",
+      "album": {
+        "name": "Beautiful struggle",
+        "url": "https://open.spotify.com/album/17X67myikY9mktuS1UHAyx"
+      },
+      "artists": [
+        {
+          "name": "CHOMINWOO",
+          "url": "https://open.spotify.com/artist/1mISG0BUcXpI7kJKtRqthM"
+        },
+        {
+          "name": "Mingginyu",
+          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
+        }
+      ],
+      "duration_ms": 198875,
+      "name": "Love like a bouquet,",
+      "url": "https://open.spotify.com/track/7es4VhC71wFHRaVjkdQ5rK"
     },
     {
       "added_at": "2022-09-05 15:55:02",
@@ -703,22 +719,6 @@
     {
       "added_at": "2022-09-05 15:55:02",
       "album": {
-        "name": "monochrome",
-        "url": "https://open.spotify.com/album/6mNAsURE9iDVUd5v1wqAjx"
-      },
-      "artists": [
-        {
-          "name": "Kisnue",
-          "url": "https://open.spotify.com/artist/64A4Dn0L0xf7GTreuOgJ1F"
-        }
-      ],
-      "duration_ms": 261941,
-      "name": "monochrome",
-      "url": "https://open.spotify.com/track/1mRBrMhPTfzrLZExDaNU3k"
-    },
-    {
-      "added_at": "2022-09-05 15:55:02",
-      "album": {
         "name": "BOKE (Remix) (feat. kojikoji)",
         "url": "https://open.spotify.com/album/5P7rM2lWFsXTnWAU4kNgBV"
       },
@@ -755,6 +755,22 @@
     {
       "added_at": "2022-09-05 15:55:02",
       "album": {
+        "name": "I can't sleep",
+        "url": "https://open.spotify.com/album/3HjdDamqmT4w93YOYYZadJ"
+      },
+      "artists": [
+        {
+          "name": "Nahee",
+          "url": "https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD"
+        }
+      ],
+      "duration_ms": 202733,
+      "name": "I can't sleep",
+      "url": "https://open.spotify.com/track/5ydSTEHJyPzk6NyJMqaIge"
+    },
+    {
+      "added_at": "2022-09-05 15:55:02",
+      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/2wD9q03no4yJClNcp9HbTZ"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 186293,
       "name": "Today's Weather",
       "url": "https://open.spotify.com/track/5qFmtbxP5KjekiXwv0axsh"
-    },
-    {
-      "added_at": "2022-09-05 15:55:02",
-      "album": {
-        "name": "I can't sleep",
-        "url": "https://open.spotify.com/album/3HjdDamqmT4w93YOYYZadJ"
-      },
-      "artists": [
-        {
-          "name": "Nahee",
-          "url": "https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD"
-        }
-      ],
-      "duration_ms": 202733,
-      "name": "I can't sleep",
-      "url": "https://open.spotify.com/track/5ydSTEHJyPzk6NyJMqaIge"
     },
     {
       "added_at": "2022-09-05 15:55:02",
@@ -835,6 +835,22 @@
     {
       "added_at": "2022-09-05 15:55:02",
       "album": {
+        "name": "Hate this love",
+        "url": "https://open.spotify.com/album/4IYWYTgPE6Axo41x2G7MjD"
+      },
+      "artists": [
+        {
+          "name": "JERO",
+          "url": "https://open.spotify.com/artist/4ZT4Uk077lxYVzmVQhMLE9"
+        }
+      ],
+      "duration_ms": 183896,
+      "name": "Hate this love",
+      "url": "https://open.spotify.com/track/216Q6SYsRfTCU5FOZWedT0"
+    },
+    {
+      "added_at": "2022-09-05 15:55:02",
+      "album": {
         "name": "New Edition 42",
         "url": "https://open.spotify.com/album/0V3R0jOLSn5K6jqSdPMEAM"
       },
@@ -855,34 +871,18 @@
     {
       "added_at": "2022-09-05 15:55:02",
       "album": {
-        "name": "Hate this love",
-        "url": "https://open.spotify.com/album/4IYWYTgPE6Axo41x2G7MjD"
+        "name": "How About You?",
+        "url": "https://open.spotify.com/album/508XKBxqwGYZbgHrFfqx87"
       },
       "artists": [
         {
-          "name": "JERO",
-          "url": "https://open.spotify.com/artist/4ZT4Uk077lxYVzmVQhMLE9"
+          "name": "OoOo",
+          "url": "https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb"
         }
       ],
-      "duration_ms": 183896,
-      "name": "Hate this love",
-      "url": "https://open.spotify.com/track/216Q6SYsRfTCU5FOZWedT0"
-    },
-    {
-      "added_at": "2022-09-05 15:55:02",
-      "album": {
-        "name": "Far From the Madding City",
-        "url": "https://open.spotify.com/album/0MVU7WcAUsxJso0To80KRy"
-      },
-      "artists": [
-        {
-          "name": "OOHYO",
-          "url": "https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX"
-        }
-      ],
-      "duration_ms": 274582,
-      "name": "TENNIS",
-      "url": "https://open.spotify.com/track/3D2w1uW57boDEssh53zZWB"
+      "duration_ms": 198807,
+      "name": "How About You?",
+      "url": "https://open.spotify.com/track/2lKyx5GVAKJUZ4wXlk3nuD"
     }
   ],
   "unique_name": "\uad1c\ud788 \uc13c\uce58\ud574",

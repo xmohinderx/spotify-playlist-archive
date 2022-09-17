@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 
 > the best of the deep end\. cover: Kay9ine
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,335 likes - 100 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,415 likes - 100 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 38 | [Take The Risk](https://open.spotify.com/track/4sK7NBL0YVl9fTHrVAYaNi) | [OB](https://open.spotify.com/artist/2OX5wdYLYtr3KluIVqvhTj) | [Take The Risk](https://open.spotify.com/album/1N7bpX6cuyZqZvcgdVcIld) | 3:20 |
 | 39 | [On My Mind](https://open.spotify.com/track/1eqIZ2Aki8uty86Qy4bk4N) | [Alex1](https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3) | [On My Mind](https://open.spotify.com/album/2hMB4Uz4vN84A8Za27VX4k) | 1:20 |
 | 40 | [Can’t Feel My Face](https://open.spotify.com/track/58soKhQRucM4TZa4fpKfxY) | [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC) | [Can’t Feel My Face](https://open.spotify.com/album/1GtsUPgOszu46D4XeSfnr9) | 2:42 |
-| 41 | [If I knew how to save us](https://open.spotify.com/track/0qjykBuIzZe0p50OxRnWEj) | [G!ft](https://open.spotify.com/artist/5dmyNQ4NmCkkV6Ilf9l7Xm) | [If I knew how to save us](https://open.spotify.com/album/4eXgOd7RqpRwBcW7ZgqKg1) | 2:37 |
-| 42 | [Why you gotta lie?](https://open.spotify.com/track/492G9mKNRkoTJFybP2BItb) | [K1](https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4) | [Why you gotta lie?](https://open.spotify.com/album/7HFZ5BPoa353YG5EOGXVLE) | 2:36 |
+| 41 | [Why you gotta lie?](https://open.spotify.com/track/492G9mKNRkoTJFybP2BItb) | [K1](https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4) | [Why you gotta lie?](https://open.spotify.com/album/7HFZ5BPoa353YG5EOGXVLE) | 2:36 |
+| 42 | [If I knew how to save us](https://open.spotify.com/track/0qjykBuIzZe0p50OxRnWEj) | [G!ft](https://open.spotify.com/artist/5dmyNQ4NmCkkV6Ilf9l7Xm) | [If I knew how to save us](https://open.spotify.com/album/4eXgOd7RqpRwBcW7ZgqKg1) | 2:37 |
 | 43 | [9AM](https://open.spotify.com/track/1dp6T547hI6B7ASSh2aDKl) | [Drizdoneit](https://open.spotify.com/artist/2MEamsDUnpoPssvgEJF498), [Jbandz](https://open.spotify.com/artist/4s9XiPeQ4u3Q5Z6Gf6MIkg) | [9AM](https://open.spotify.com/album/0uG0IQx1hfrr4vVnRAQKip) | 2:52 |
 | 44 | [Alone](https://open.spotify.com/track/0AtyNYZ0kygG1AW1japLyX) | [Emzorearner](https://open.spotify.com/artist/5YDAIFvlyY1X1w4NCRa48A) | [Alone](https://open.spotify.com/album/34WR40SRw2MnKwjuQPYa27) | 2:32 |
 | 45 | [Love Me](https://open.spotify.com/track/3LQpbD8HlWyQV3X7Ie6sEj) | [ArtistRD](https://open.spotify.com/artist/3cdy10Sdneled46d13A74S) | [Love Me](https://open.spotify.com/album/74RU62iSSe3neoBz4z5nXe) | 3:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 99 | [Who Am I?\(I Dont Know\)](https://open.spotify.com/track/7dZBAEndXGOczb5O3QJWE4) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [Who Am I?\(I Dont Know\)](https://open.spotify.com/album/2m5EhBsAarjhNd77FAGQch) | 2:42 |
 | 100 | [Angels Fly High](https://open.spotify.com/track/2HKtJCinY7r5wnqXMvtDHW) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [Angels Fly High](https://open.spotify.com/album/3YB7TrvCwgnepJig20lYhT) | 3:01 |
 
-Snapshot ID: `MTY1OTQ1NDk0OCwwMDAwMDAwMGUzMjM0NDZiZTc2OGE1OTNkZjBkMmU3N2MxZDdiNWZi`
+Snapshot ID: `MTY1OTQ1NDk0OCwwMDAwMDAwMGRiNWQzNDJkYzUzMWZjNDA1ODBlM2Q2NTIzZmJkYjlk`

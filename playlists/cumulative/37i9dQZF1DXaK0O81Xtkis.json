@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "make it pop! cover: YUNGBLUD",
+  "description": "make it pop! cover: Tai Verdes",
   "name": "soda",
   "published_playlist_ids": [
     "4WlZyLyAP1klcXFbRzSjzt"
@@ -59,7 +59,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 183055,
       "name": "1990something",
       "url": "https://open.spotify.com/track/1bC1bEPZSKxgZgBgEVn2yj"
@@ -343,7 +343,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 154062,
       "name": "All These Nights",
       "url": "https://open.spotify.com/track/1VeAXUa20YkzfEi1Zk2y0o"
@@ -743,7 +743,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 220550,
       "name": "Blur",
       "url": "https://open.spotify.com/track/15IfeWfzxJtcKBgx6oDHvl"
@@ -905,7 +905,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 146564,
       "name": "Caffeine",
       "url": "https://open.spotify.com/track/3kEegRRwwQnQ7sik2oRoaJ"
@@ -1017,6 +1017,24 @@
       "duration_ms": 156226,
       "name": "can't help but let you down",
       "url": "https://open.spotify.com/track/2OvIR6pjKr2NLLYblooT5d"
+    },
+    {
+      "album": {
+        "name": "Capsize",
+        "url": "https://open.spotify.com/album/1iwBYzoshPBAXdBKD6DPS1"
+      },
+      "artists": [
+        {
+          "name": "Windser",
+          "url": "https://open.spotify.com/artist/0G9ibJ5qs4Zl6iupdrVAG1"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219373,
+      "name": "Capsize",
+      "url": "https://open.spotify.com/track/7D27fovf8GDa5ZnJ5hyCqm"
     },
     {
       "album": {
@@ -1399,7 +1417,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 156050,
       "name": "Cry (let it out)",
       "url": "https://open.spotify.com/track/5DbArXOkqbbxmrdkf6On9l"
@@ -1689,7 +1707,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 162172,
       "name": "Don't You Worry",
       "url": "https://open.spotify.com/track/47xOrQT2xcdIA9fPKg07uQ"
@@ -1725,7 +1743,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 153000,
       "name": "downbad",
       "url": "https://open.spotify.com/track/6AvBCzO8LUh0MFLLoEDuBO"
@@ -1804,6 +1822,24 @@
     },
     {
       "album": {
+        "name": "DUMP HIM",
+        "url": "https://open.spotify.com/album/1i4qNVq9Bjr5Zu58J1BIw0"
+      },
+      "artists": [
+        {
+          "name": "Haiden",
+          "url": "https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155154,
+      "name": "DUMP HIM",
+      "url": "https://open.spotify.com/track/3uCz1ghL2RM8rDWDKSbH0Z"
+    },
+    {
+      "album": {
         "name": "either way",
         "url": "https://open.spotify.com/album/1O1KX7W7zQ5ESejqgI7Sdr"
       },
@@ -1837,6 +1873,24 @@
       "duration_ms": 160675,
       "name": "Emotional",
       "url": "https://open.spotify.com/track/6qMdBZ59YiTL98msUygduk"
+    },
+    {
+      "album": {
+        "name": "Expiration Date",
+        "url": "https://open.spotify.com/album/0qQxB4grsHTtUYCYlpUCFp"
+      },
+      "artists": [
+        {
+          "name": "NERIAH",
+          "url": "https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198425,
+      "name": "Expiration Date",
+      "url": "https://open.spotify.com/track/4gSeTIoKhkvGoebMtohlNC"
     },
     {
       "album": {
@@ -2875,7 +2929,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 154506,
       "name": "how deep?",
       "url": "https://open.spotify.com/track/0VcWp30A3hSJrPjdDEHeNE"
@@ -2990,6 +3044,24 @@
     },
     {
       "album": {
+        "name": "i don't wanna know!",
+        "url": "https://open.spotify.com/album/7JVlPexG814RJNVwftsP7R"
+      },
+      "artists": [
+        {
+          "name": "CALI JEWLS",
+          "url": "https://open.spotify.com/artist/0iDbrXm29WpIVqxhWaVzlH"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219270,
+      "name": "i don't wanna know!",
+      "url": "https://open.spotify.com/track/66kF5Ga2ACocpDye1VGUkT"
+    },
+    {
+      "album": {
         "name": "Dreamland (+ Bonus Levels)",
         "url": "https://open.spotify.com/album/4nr6ytQ4OrEralEu4LhIVp"
       },
@@ -3026,6 +3098,24 @@
     },
     {
       "album": {
+        "name": "I Don\u2019t Think That I Like Her",
+        "url": "https://open.spotify.com/album/5f7yRF519Ruz1yE9x97jID"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188507,
+      "name": "I Don\u2019t Think That I Like Her",
+      "url": "https://open.spotify.com/track/0zRezEuKtaAXHcB4eruwi2"
+    },
+    {
+      "album": {
         "name": "i hate her boyfriend's face",
         "url": "https://open.spotify.com/album/2CMIqzHeKsxhR8xSvD9Cwy"
       },
@@ -3041,6 +3131,24 @@
       "duration_ms": 145444,
       "name": "i hate her boyfriend's face",
       "url": "https://open.spotify.com/track/5sixigDZ86eDzCHXbfzrDu"
+    },
+    {
+      "album": {
+        "name": "The Hardest Part",
+        "url": "https://open.spotify.com/album/0CIYj6AV180SmLAEONb2DW"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201463,
+      "name": "I Just Want a Lover",
+      "url": "https://open.spotify.com/track/1rwMM6ixKWnsRQMUeRbXeT"
     },
     {
       "album": {
@@ -3604,6 +3712,24 @@
     },
     {
       "album": {
+        "name": "Kids in America (From the Netflix Film \"Do Revenge\")",
+        "url": "https://open.spotify.com/album/1EBYX0KRDEmZLFjoSQabzT"
+      },
+      "artists": [
+        {
+          "name": "Maude Latour",
+          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194595,
+      "name": "Kids in America (From the Netflix Film \"Do Revenge\")",
+      "url": "https://open.spotify.com/track/1JN2dN2AVW0EfJMhXniTLi"
+    },
+    {
+      "album": {
         "name": "Uncanny Valley",
         "url": "https://open.spotify.com/album/1XiXoTQLk4xjyZ4Dz4B4ob"
       },
@@ -3829,6 +3955,24 @@
       "duration_ms": 189960,
       "name": "Leave Yourself Alone",
       "url": "https://open.spotify.com/track/1ECRkneyoDC73Qy8QHj797"
+    },
+    {
+      "album": {
+        "name": "Lemonade",
+        "url": "https://open.spotify.com/album/3YFYT5aq1rYO05EdZ4Q7Fd"
+      },
+      "artists": [
+        {
+          "name": "Lone Waves",
+          "url": "https://open.spotify.com/artist/45EpHuWKvRCZZSVininBeS"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244571,
+      "name": "Lemonade",
+      "url": "https://open.spotify.com/track/5gK0bv6DMbmfne9ktJ4ZJL"
     },
     {
       "album": {
@@ -4077,7 +4221,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 167710,
       "name": "Living It Up",
       "url": "https://open.spotify.com/track/5xj1VcAPmfKQwxPVOPdV11"
@@ -4095,7 +4239,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 140783,
       "name": "Locked Up",
       "url": "https://open.spotify.com/track/56v5S5qrGG1iLXm5czpNi3"
@@ -4423,7 +4567,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 185253,
       "name": "Moped",
       "url": "https://open.spotify.com/track/78qpxyEBuaJucHP2SURndk"
@@ -4677,7 +4821,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 150869,
       "name": "No Ties",
       "url": "https://open.spotify.com/track/3c55CwwJyauL7tUHMoVyn7"
@@ -4882,6 +5026,28 @@
     },
     {
       "album": {
+        "name": "Infinite Dream",
+        "url": "https://open.spotify.com/album/7CY2Iv5eX7eGAOdRNHfIBr"
+      },
+      "artists": [
+        {
+          "name": "Bazzi",
+          "url": "https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl"
+        },
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153442,
+      "name": "Only Fan (feat. Cordae)",
+      "url": "https://open.spotify.com/track/6514uhzGpeyocCHv5kBih4"
+    },
+    {
+      "album": {
         "name": "only human.",
         "url": "https://open.spotify.com/album/0IB5gkV5Te5PRuA2KKXqhQ"
       },
@@ -4901,6 +5067,24 @@
       "duration_ms": 150857,
       "name": "only human",
       "url": "https://open.spotify.com/track/1XLZcAceP6w4b7f6IdhYZ8"
+    },
+    {
+      "album": {
+        "name": "YESSIE",
+        "url": "https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183893,
+      "name": "ONLY ONE",
+      "url": "https://open.spotify.com/track/04xnC2Uwq38RPrwCLv6f0G"
     },
     {
       "album": {
@@ -5770,6 +5954,24 @@
     },
     {
       "album": {
+        "name": "BACKYARD",
+        "url": "https://open.spotify.com/album/1VJQGEoTco7jhMvYjJhZzR"
+      },
+      "artists": [
+        {
+          "name": "Boy In Space",
+          "url": "https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155795,
+      "name": "Slide",
+      "url": "https://open.spotify.com/track/7BzduEaTDTxEhZvLJbZWW2"
+    },
+    {
+      "album": {
         "name": "Smells Like Me",
         "url": "https://open.spotify.com/album/3XvDbxerzYjQZRc6JfF9jY"
       },
@@ -5781,7 +5983,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 204079,
       "name": "Smells Like Me",
       "url": "https://open.spotify.com/track/6LXIhiXK8z1KLd3giR904b"
@@ -5835,7 +6037,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 176058,
       "name": "So Good",
       "url": "https://open.spotify.com/track/6kxaaIeowajN7w21PfMLbu"
@@ -5871,7 +6073,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 157377,
       "name": "Solo",
       "url": "https://open.spotify.com/track/4iR9GcxaVVTHuZgb3KiNDY"
@@ -6974,6 +7176,24 @@
     },
     {
       "album": {
+        "name": "HDTV",
+        "url": "https://open.spotify.com/album/6TIzz9Z4n03E5USTDzBweS"
+      },
+      "artists": [
+        {
+          "name": "Tai Verdes",
+          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175613,
+      "name": "TWO SUGARS",
+      "url": "https://open.spotify.com/track/5rZrM1ppBHmHogxLcw8wtH"
+    },
+    {
+      "album": {
         "name": "Under The Influence",
         "url": "https://open.spotify.com/album/08UKPRDFopACdPdjkdZ52G"
       },
@@ -7127,7 +7347,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 160677,
       "name": "Watching TV",
       "url": "https://open.spotify.com/track/7fAn052aR5ah3RvrANPEQd"
@@ -7181,7 +7401,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 263812,
       "name": "We Were Happy",
       "url": "https://open.spotify.com/track/76Yihe2lirW8tQyEL5z0lE"

@@ -4,7 +4,7 @@
 
 > Bringing the roaring 20s into the 2020s
 
-185 songs - 10 hr 57 min - [published](https://open.spotify.com/playlist/0MwBkOxco4wJurN8bfVIbk)
+186 songs - 11 hr 1 min - [published](https://open.spotify.com/playlist/0MwBkOxco4wJurN8bfVIbk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [As You Will](https://open.spotify.com/track/7aNTFhSXwUtXWP063Y46rV) | [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [Kalletti Klub](https://open.spotify.com/artist/39PwFc1Sx9iHHqEcRPPsWQ) | [As You Will](https://open.spotify.com/album/045pd68z8017VF3kkVx8d6) | 6:18 | 2020-10-30 | 2022-05-15 |
 | [Back in Time](https://open.spotify.com/track/7pstX01u6qbKF0tWsTa2Lz) | [Swing Republic](https://open.spotify.com/artist/0iOe7zpme8Z6oTs4ffvJjX), [Karina Kappel](https://open.spotify.com/artist/31ufWigY0fDQ8p8EJxvaGH) | [Back in Time](https://open.spotify.com/album/6hPAAeiJ8tPWLBo8kpsMzw) | 3:18 | 2020-10-30 |  |
 | [Ballade No\. 1](https://open.spotify.com/track/6sdTcq277BK1HlIn4ODjAl) | [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [DanyloM](https://open.spotify.com/artist/6BzwqcclY8c6FNvMZc7Wtx) | [Ballade No\. 1](https://open.spotify.com/album/6DNeBYb5bziXWzVBaMsnj1) | 1:54 | 2021-05-14 | 2022-07-29 |
+| [Bei Mir Bistu Shein \- Electro Swing Mix](https://open.spotify.com/track/6w21L3eVgP07fWiYew9Tsd) | [Masha Ray](https://open.spotify.com/artist/706tsOoiPj3ud8APFxfRzW) | [Bei Mir Bistu Shein](https://open.spotify.com/album/5olnobFFDdSBKTkTocF4bB) | 3:31 | 2022-09-16 |  |
 | [Big Bad Wolf](https://open.spotify.com/track/7hX8gTlr7zENGb5imnIahE) | [Johnny Wright](https://open.spotify.com/artist/6x1vUZaYXXXm9O7BeyPA8c) | [Big Bad Wolf](https://open.spotify.com/album/3PBpDglxLEjb1D8YHoQe7h) | 3:10 | 2021-10-22 |  |
 | [Big Blue Swing](https://open.spotify.com/track/1jbN3Eslcy8gec7nLuTs9P) | [Tape Five](https://open.spotify.com/artist/7kHK5OLdiiHCfG49KSHTko) | [Big Blue Swing](https://open.spotify.com/album/5sPHyKWQb7IbNFNTc6oVl7) | 3:47 | 2022-02-11 |  |
 | [Black Betty](https://open.spotify.com/track/2erfXuZOAQ8T6FjJPDFpBC) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [Black Betty \- Single](https://open.spotify.com/album/3byyWn1AUHzGOjPSxh8uBN) | 3:09 | 2020-10-30 | 2022-07-29 |
@@ -119,7 +120,7 @@
 | [One for the Road](https://open.spotify.com/track/5YotzD692xl8wcqMi9pj8X) | [Atom Smith](https://open.spotify.com/artist/6ExlnA1FV2yvFCVlurHsc2), [Miss Emmma](https://open.spotify.com/artist/7rnokEFlig5Crhc4GEViUR), [Elliot Deutsch](https://open.spotify.com/artist/22JILoTTk3Xfdc2wNwq6Xf) | [One for the Road](https://open.spotify.com/album/6opglzlR3Z9OjX1y0WAfF6) | 3:58 | 2021-05-21 |  |
 | [Otto Croy](https://open.spotify.com/track/5kAbhPC9z3sJEfQQxaoMfu) | [OdjBox](https://open.spotify.com/artist/4R61zLFCe9YgQV9MyfMgi7) | [Otto Croy EP](https://open.spotify.com/album/5GOnP5QYwMOwKee44Fqipl) | 3:49 | 2020-10-30 | 2022-05-14 |
 | [Pack Up The Louie \- Caravan Palace Remix](https://open.spotify.com/track/3K6KxAXRUmvP5qYG5oCpwt) | [Caro Emerald](https://open.spotify.com/artist/492hDmhPyuIjP3MgTcIqgm) | [The Shocking Miss Emerald The Remixes](https://open.spotify.com/album/1NdJNIjhj8n5REnjPHvlbk) | 3:27 | 2020-10-30 | 2022-07-11 |
-| [Pack Up The Louie \- Caravan Palace Remix](https://open.spotify.com/track/6D53OoZpbzuBwwgGrT8FOP) | [Caro Emerald](https://open.spotify.com/artist/492hDmhPyuIjP3MgTcIqgm), [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [The Shocking Miss Emerald The Remixes](https://open.spotify.com/album/7tBy0oYjfzgquWCaqU8xEx) | 3:27 | 2020-10-30 |  |
+| [Pack Up The Louie \- Caravan Palace Remix](https://open.spotify.com/track/6D53OoZpbzuBwwgGrT8FOP) | [Caro Emerald](https://open.spotify.com/artist/492hDmhPyuIjP3MgTcIqgm), [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [The Shocking Miss Emerald The Remixes](https://open.spotify.com/album/7tBy0oYjfzgquWCaqU8xEx) | 3:27 | 2020-10-30 | 2022-09-17 |
 | [Parla più piano / In cerca di te \- Electro Swing Mix](https://open.spotify.com/track/4sCDNKD8Q3J5Wr5kzSgC5H) | [Glenn Gatsby](https://open.spotify.com/artist/2i1i4w0EZ19SIJzPhAEp4i), [Free Shots](https://open.spotify.com/artist/7FetKvEtXNVgZc8PpxYtVf) | [Parla più piano / In cerca di te](https://open.spotify.com/album/4xwyeSNYVMkK8o1V2JtBO3) | 2:48 | 2021-09-10 |  |
 | [Party Raiser](https://open.spotify.com/track/1f0qGy6HlMMLJX0ZNpZRa3) | [Lyre Le Temps](https://open.spotify.com/artist/6jX8VHUJomYSfi5Hobdmmn) | [Party Raiser](https://open.spotify.com/album/71ZINsbBANvun4EYF6vA7C) | 2:48 | 2020-10-30 | 2022-05-14 |
 | [Perfect \(Electro Swing Remix\)](https://open.spotify.com/track/46jrqGkZ9TPqP9u06RMfYq) | [11 Acorn Lane](https://open.spotify.com/artist/3D8pAbIPK2aPh9VbWjett5) | [Ladies Night](https://open.spotify.com/album/37TPTEBX1LA7SrITRlmKxI) | 3:22 | 2020-10-30 |  |

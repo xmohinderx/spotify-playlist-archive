@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUCqLrWKr4p.md) - [plain]
 
 > Unforgettable love songs from the 1960s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,428 likes - 73 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,578 likes - 73 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUCqLrWKr4p.md) - [plain]
 | 43 | [You Belong To Me](https://open.spotify.com/track/2STy18bfCVP8v6aOu2CliZ) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK), [The Jordanaires](https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv) | [Sentimentally Yours](https://open.spotify.com/album/0GhlY0htAsFNb0eHO9y1lZ) | 3:03 |
 | 44 | [Saturday Night at the Movies](https://open.spotify.com/track/0jrdWPwYjUZvqfJcwE8ddh) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [The Good Life With the Drifters](https://open.spotify.com/album/1lvcXSmZa8rTR5M03tihq5) | 2:33 |
 | 45 | [This Magic Moment](https://open.spotify.com/track/74i6ZrnR1WzZsuc3qrJg7I) | [Jay & The Americans](https://open.spotify.com/artist/0DAqhikcMKLo2lPADVz2fs) | [Complete United Artists Singles](https://open.spotify.com/album/4hwFFfpDp28EYWbVZoZ9pi) | 2:57 |
-| 46 | [Blue Velvet](https://open.spotify.com/track/4QelFzhVgLomeQhvKrwM1S) | [Bobby Vinton](https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK) | [The Best Of Bobby Vinton](https://open.spotify.com/album/4qK4QZUSp8QdoMEm9mrzyA) | 2:48 |
-| 47 | [He's So Fine \- Remastered 2000](https://open.spotify.com/track/2Bs1Lw9LX8hBm70t1iGdlh) | [The Chiffons](https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj) | [The Chiffons Absolutely The Best!](https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq) | 1:52 |
+| 46 | [He's So Fine \- Remastered 2000](https://open.spotify.com/track/2Bs1Lw9LX8hBm70t1iGdlh) | [The Chiffons](https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj) | [The Chiffons Absolutely The Best!](https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq) | 1:52 |
+| 47 | [Blue Velvet](https://open.spotify.com/track/4QelFzhVgLomeQhvKrwM1S) | [Bobby Vinton](https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK) | [The Best Of Bobby Vinton](https://open.spotify.com/album/4qK4QZUSp8QdoMEm9mrzyA) | 2:48 |
 | 48 | [Someday We'll Be Together](https://open.spotify.com/track/79Yk6AlSKi5dxDFINID2hS) | [Diana Ross & The Supremes](https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq) | [Cream Of The Crop](https://open.spotify.com/album/44oDkaH8gO3ZvvxKE8lG4I) | 3:31 |
 | 49 | [I Will Follow You](https://open.spotify.com/track/4Y6pdMS2PwGshq1MYcJ9fC) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [For Your Sweet Love](https://open.spotify.com/album/1eUQiKLKBdQIOnqb3lnbox) | 2:26 |
 | 50 | [Till There Was You \- Remastered](https://open.spotify.com/track/0CczH75yFBo53bVqLRvYn4) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Latin Ala Lee](https://open.spotify.com/album/5A7sAUKBDHvRyA5AxkeKAK) | 2:31 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUCqLrWKr4p.md) - [plain]
 | 72 | [When Something Is Wrong with My Baby](https://open.spotify.com/track/056rtilqF4cqLOgDQGqYqv) | [Sam & Dave](https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2) | [The Best of Sam & Dave](https://open.spotify.com/album/4IDa38FYTYlqHFbZM6rb5I) | 3:14 |
 | 73 | [When You're Young And In Love](https://open.spotify.com/track/3URfKi5DOvUaJMuTuT8osm) | [The Marvelettes](https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH) | [The Marvelettes](https://open.spotify.com/album/10PshaiGlvqUfdADKJXbTV) | 2:39 |
 
-Snapshot ID: `MTY1MzkxNTc0NCwwMDAwMDAwMDQyOGQxNjM3ZTJmOWZjZjg1OWFjYzdmNmMzZmNkZjI5`
+Snapshot ID: `MTY1MzkxNTc0NCwwMDAwMDAwMGYwMTgxNGIwNmI3ZjliYjg3OTY0YWVhODQ0NTc2OTAw`

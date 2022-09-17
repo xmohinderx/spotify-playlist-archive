@@ -4,7 +4,7 @@
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-194 songs - 10 hr 44 min - [published](https://open.spotify.com/playlist/4Z4CwXpklCxiou1hH4tneE)
+195 songs - 10 hr 47 min - [published](https://open.spotify.com/playlist/4Z4CwXpklCxiou1hH4tneE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Stop Draggin' Your Boots \- Live Acoustic](https://open.spotify.com/track/6gQritU6LWjhLDZEXhs8KZ) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Stop Draggin' Your Boots \(Live Acoustic\)](https://open.spotify.com/album/1boictBuns6ob54QDNDymo) | 2:44 | 2022-05-20 |  |
 | [Stuck in the Middle \- Acoustic](https://open.spotify.com/track/3oTUHoKnvwUriIGbCMFLbR) | [O.N.E The Duo](https://open.spotify.com/artist/4sIPNUYiz7FcZBx1oHuMHe) | [Stuck in the Middle \(Acoustic\)](https://open.spotify.com/album/4f8I37V45M7DXWiPoQKBFd) | 2:36 | 2022-07-08 | 2022-07-10 |
 | [Sunrise Tells The Story \- Acoustic](https://open.spotify.com/track/4IXILY7BOCehZjc5axsn1C) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Sunrise Tells The Story \(Acoustic\)](https://open.spotify.com/album/5jrgfI0K2Z8jllFP84V40z) | 3:25 | 2022-01-14 |  |
+| [Take It Slow \- Acoustic](https://open.spotify.com/track/5JTGEkYHojEAd0ODBAE1qo) | [Conner Smith](https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk), [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw) | [Take It Slow \(Acoustic\)](https://open.spotify.com/album/2Obkgz1PdZMe3CouNqslwU) | 2:33 | 2022-09-16 |  |
 | [Take My Name \- Wedding Version](https://open.spotify.com/track/3fWwTqV6vGnXdAFxVoKKZP) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I) | [Take My Name \(Wedding Version\)](https://open.spotify.com/album/6JrC6cQOLVPI2HEykKjk9Z) | 2:54 | 2022-05-20 |  |
 | [Tell You Everything \- Not Put Together](https://open.spotify.com/track/3cbc8QVHpx4gSHAXNbXPRc) | [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb) | [The I’m Not Always Put Together EP](https://open.spotify.com/album/4cCjYpkMsvEVpw5kLBlugQ) | 3:08 | 2022-01-07 |  |
 | [Thank God We Broke Up \- Acoustic](https://open.spotify.com/track/3RJIISr228jsDUnhEDRp5S) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [Thank God We Broke Up \(Acoustic\)](https://open.spotify.com/album/2X2MMSk8fG4LRmEKy4dyNp) | 2:35 | 2022-06-03 | 2022-07-29 |
@@ -190,7 +191,7 @@
 | [Whiskey \(Acoustic\)](https://open.spotify.com/track/0jZFXHSeY300E9X3Wn3Kma) | [Graycie York](https://open.spotify.com/artist/1xJprUmeoe1iyVDl9vb552) | [Whiskey](https://open.spotify.com/album/44mK7NKStFXVAF5MgIpyaq) | 4:20 | 2021-12-17 | 2022-07-09 |
 | [Whiskey And Rain \- Acoustic](https://open.spotify.com/track/4hpWtPnZHX9xfb1fr8cVVw) | [Michael Ray](https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz) | [Whiskey And Rain \(Acoustic\)](https://open.spotify.com/album/7AA4SUS9xQx6f4mCxuWWoa) | 3:27 | 2022-01-07 |  |
 | [Whiskey On You \- Acoustic](https://open.spotify.com/track/5aytw2jhoFTGcTNuzSaaBj) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Whiskey On You \(Acoustic\)](https://open.spotify.com/album/4xvw2MbLOUrJ5xvESdtYvr) | 2:59 | 2022-08-05 |  |
-| [Why I Called](https://open.spotify.com/track/4ea0sVdiH8GrFgm5yvMvKZ) | [Lathan Bryant](https://open.spotify.com/artist/19kwPHar3aRaydbCozFr5d) | [Why I Called](https://open.spotify.com/album/2UoDJFsF8SQngbTJhks8kf) | 4:43 | 2022-08-20 |  |
+| [Why I Called](https://open.spotify.com/track/4ea0sVdiH8GrFgm5yvMvKZ) | [Lathan Bryant](https://open.spotify.com/artist/19kwPHar3aRaydbCozFr5d) | [Why I Called](https://open.spotify.com/album/2UoDJFsF8SQngbTJhks8kf) | 4:43 | 2022-08-20 | 2022-09-17 |
 | [Wild as Her \(feat\. Carter Faith\) \- Acoustic One\-Take](https://open.spotify.com/track/0huxrD4MV3OAyEizla4JZT) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc), [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Wild as Her \(feat\. Carter Faith\) \[Acoustic One\-Take\]](https://open.spotify.com/album/2m9TD8enfTQRn8NIAC2tTf) | 3:33 | 2022-07-15 |  |
 | [Wild As Her \- Stripped](https://open.spotify.com/track/3Lcsy5potXX21nHDO0OGMH) | [Tyler Joe Miller](https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM) | [Wild As Her \(Stripped\)](https://open.spotify.com/album/6DQTNminNqc8S83J2jjm7J) | 3:01 | 2022-04-15 | 2022-07-28 |
 | [Wild Love](https://open.spotify.com/track/7DJRKddQ7GogZpzgFfkA0i) | [Eric Van Houten](https://open.spotify.com/artist/4FQ4J66lTV5bpVtEKjiGeK) | [Wild Love](https://open.spotify.com/album/6HdfW84BXTz10aSsMs8kZN) | 3:14 | 2021-12-17 | 2022-07-10 |

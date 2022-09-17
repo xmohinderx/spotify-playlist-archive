@@ -4,7 +4,7 @@
 
 > 🩹 \(in cover, kid vice\)
 
-125 songs - 5 hr 38 min - [published](https://open.spotify.com/playlist/7fBkDuj9jj7rj8liyTLX4S)
+126 songs - 5 hr 41 min - [published](https://open.spotify.com/playlist/7fBkDuj9jj7rj8liyTLX4S)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,8 @@
 | [minuti che vivi](https://open.spotify.com/track/25QQoIufdkPTyY5ruvdaZy) | [Edra](https://open.spotify.com/artist/3mxIKZRca9G3N1C1dfbBzY) | [minuti che vivi](https://open.spotify.com/album/2Nj03riqaVvEDDTN6peIqm) | 2:41 | 2022-04-21 | 2022-08-13 |
 | [Miss Guid](https://open.spotify.com/track/0PvgTLCseyPRJFAI6HlHsK) | [LXX Blood](https://open.spotify.com/artist/01JV7meMCVebgwpU2UN0h5), [Naima Blood](https://open.spotify.com/artist/4PK1VPNg3zWSbIK4SboMa9) | [DIE](https://open.spotify.com/album/2IZzc3V9rB6zYZm0uwra6D) | 2:29 | 2022-04-21 |  |
 | [Non farà mai bel tempo](https://open.spotify.com/track/5pWYWGu1JPZ3eR4HZ4LLy9) | [Male](https://open.spotify.com/artist/5aq75Phv7uG3Rhi24AMf6X) | [Non farà mai bel tempo](https://open.spotify.com/album/3LeOUccVRyzs5oB5vM60lI) | 2:37 | 2022-04-21 |  |
-| [NON PIANGERE](https://open.spotify.com/track/0IVsYyzXsH5QZNMNxO8LfT) | [Venz](https://open.spotify.com/artist/5VUUgGokjuoDnst6gNRZO5), [Thierry](https://open.spotify.com/artist/1vuHBEX5c5OA25opDvY3hx) | [NON PIANGERE](https://open.spotify.com/album/60rupYxX1cyqiXYltdInJl) | 2:45 | 2022-06-02 |  |
+| [NON PIANGERE](https://open.spotify.com/track/0IVsYyzXsH5QZNMNxO8LfT) | [Venz](https://open.spotify.com/artist/5VUUgGokjuoDnst6gNRZO5), [Thierry](https://open.spotify.com/artist/1vuHBEX5c5OA25opDvY3hx) | [NON PIANGERE](https://open.spotify.com/album/60rupYxX1cyqiXYltdInJl) | 2:45 | 2022-06-02 | 2022-09-17 |
+| [NON PIANGERE](https://open.spotify.com/track/0aF8dGSr4JxGrNiCLYKydt) | [Venz](https://open.spotify.com/artist/5VUUgGokjuoDnst6gNRZO5), [Thierry](https://open.spotify.com/artist/1vuHBEX5c5OA25opDvY3hx) | [NON PIANGERE](https://open.spotify.com/album/3POuzBmU79UAhUbtXjp0IM) | 2:45 | 2022-09-08 |  |
 | [Non pioverà per sempre](https://open.spotify.com/track/2j6BQ5Q74ASnVFCWyDztTA) | [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB), [Lil Sanax](https://open.spotify.com/artist/08kfcguo6aDqrugFck6JwI) | [Non pioverà per sempre](https://open.spotify.com/album/3frM2pLSKqH8CYoKXeKNXm) | 3:09 | 2022-04-21 |  |
 | [nostalgia](https://open.spotify.com/track/5INaFlBjbZ9lDKCsUkdMbY) | [TB](https://open.spotify.com/artist/1z2PiwIAFADDrAnR52LBkN) | [nostalgia](https://open.spotify.com/album/39DvGGAGYEeXvR1Tvvd7F6) | 3:15 | 2022-04-21 |  |
 | [oggi ho pianto](https://open.spotify.com/track/6Sgu1QpY9CPZrIuXHvBZ9C) | [Outcast.](https://open.spotify.com/artist/4jOS0OX3X4Yj6CmNtOGJf9) | [oggi ho pianto](https://open.spotify.com/album/1ksdOJC3p3NOgP45uEHJ5M) | 2:12 | 2022-04-21 |  |

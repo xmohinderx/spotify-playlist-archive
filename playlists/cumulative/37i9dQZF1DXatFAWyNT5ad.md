@@ -4,7 +4,7 @@
 
 > Let's mix it.
 
-512 songs - 1 day 2 hr 57 min - [published](https://open.spotify.com/playlist/7btkhvftx7WY0w5vxyn75X)
+513 songs - 1 day 3 hr 0 min - [published](https://open.spotify.com/playlist/7btkhvftx7WY0w5vxyn75X)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -364,7 +364,7 @@
 | [Partycrasher](https://open.spotify.com/track/5QfVA7ZS9RtZCefzNedeIe) | [Huddy](https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f) | [Partycrasher](https://open.spotify.com/album/2Vbn9c20CFkn25VxtztPzo) | 3:09 | 2022-03-17 | 2022-07-29 |
 | [Pass The Nirvana](https://open.spotify.com/track/5SDhI2jKg0S5fzEEqPCHiV) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Pass The Nirvana](https://open.spotify.com/album/50eq5hUKnqB9e51D9GSmKs) | 3:17 | 2022-09-01 |  |
 | [Petty Drone](https://open.spotify.com/track/3CcKRG50NetH6Bsc5AcXZH) | [Mystery Jets](https://open.spotify.com/artist/09K1H1DgyIXHsMx2j7KTFX) | [Petty Drone](https://open.spotify.com/album/7kavQRNZD6BcLV6Gh0wRRd) | 4:45 | 2022-03-24 | 2022-04-18 |
-| [Phantom](https://open.spotify.com/track/14wSiOY3ZjskXuFj4xiEAD) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Phantom](https://open.spotify.com/album/4wJcxxuS21izYigHCM58gr) | 4:25 | 2022-09-01 |  |
+| [Phantom](https://open.spotify.com/track/14wSiOY3ZjskXuFj4xiEAD) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Phantom](https://open.spotify.com/album/4wJcxxuS21izYigHCM58gr) | 4:25 | 2022-09-01 | 2022-09-17 |
 | [Photographic Head](https://open.spotify.com/track/5TLTQj9GgRcpsMQZifQjuL) | [VANT](https://open.spotify.com/artist/4Xxkt0tSJr1uNxGDZcJLRc) | [Photographic Head](https://open.spotify.com/album/6jqTyNhgUrcXYYSgXPoKQ3) | 4:08 | 2022-03-24 | 2022-04-11 |
 | [Play](https://open.spotify.com/track/4ndo07xOLtWk712vJGKjty) | [Callum Beattie](https://open.spotify.com/artist/4uFxymnU41sM7ytUCjuYTN) | [Play](https://open.spotify.com/album/14k6pQ78800KZL86UWLU4M) | 2:43 | 2022-03-24 | 2022-04-08 |
 | [Play Pretend \(feat\. Travis Barker\)](https://open.spotify.com/track/2Dn2KgWEzKdmQEyDsOS1GU) | [Caspr](https://open.spotify.com/artist/6yZgSbQMnAFpQRgv7EMRzZ), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Play Pretend \(feat\. Travis Barker\)](https://open.spotify.com/album/0pePhzWZn37dt3aEcu1WSe) | 2:42 | 2022-03-24 | 2022-04-21 |
@@ -450,6 +450,7 @@
 | [The Eulogy of You and Me](https://open.spotify.com/track/6yGsqEtwfrS2tktEYcuPKd) | [Huddy](https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f) | [The Eulogy of You and Me](https://open.spotify.com/album/35lHDQRsVVl2IbLGU28jdT) | 3:03 | 2022-03-24 | 2022-07-27 |
 | [The Funeral](https://open.spotify.com/track/1nU2ooQKyk4CsYJMBdIK4J) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [The Funeral](https://open.spotify.com/album/1q3OyLN3JyyvfVbFRqqcWW) | 3:31 | 2022-03-17 |  |
 | [the idea](https://open.spotify.com/track/6VN3dKYTClhY5eYQEnBehr) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [the idea](https://open.spotify.com/album/529HyBH38pXm03KrwyI0At) | 3:23 | 2022-07-07 | 2022-09-09 |
+| [the idea](https://open.spotify.com/track/5DUgpa3TrMXqUy5lvV5XT2) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [in loving memory](https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau) | 3:24 | 2022-09-15 |  |
 | [The Light](https://open.spotify.com/track/5rVq4X8XwodTvAQvUWD3Hy) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl) | [SAGA](https://open.spotify.com/album/4FE3ktBCEPUQhXobqzBLU6) | 3:21 | 2022-03-24 | 2022-07-29 |
 | [The Lightning II](https://open.spotify.com/track/4hgobGfWedCMII3bdualzM) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [The Lightning I, II](https://open.spotify.com/album/5CW1F2qtnEt9lNaRSZlbHr) | 2:34 | 2022-03-24 | 2022-04-07 |
 | [The Other Side](https://open.spotify.com/track/5UKww4m7PM5FQPWEelIjaE) | [The Wldlfe](https://open.spotify.com/artist/2Vvj76fff5uAw10W1sW54W) | [The Other Side](https://open.spotify.com/album/6x29bpb0qK2u05nvdbKYTy) | 4:05 | 2022-03-24 | 2022-04-15 |

@@ -347,7 +347,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 143966,
       "name": "Body Bounce",
       "url": "https://open.spotify.com/track/775dZ1zz41wnrxOQGg0zq8"
@@ -862,6 +862,24 @@
     },
     {
       "album": {
+        "name": "Crossroads",
+        "url": "https://open.spotify.com/album/3mrx5NyUoVn5wPgv9lLrqy"
+      },
+      "artists": [
+        {
+          "name": "Mr OCB",
+          "url": "https://open.spotify.com/artist/1RorScxoqHkBchQcufPdTl"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171374,
+      "name": "Crossroads",
+      "url": "https://open.spotify.com/track/3kY7Y4DF3LcLat7Nnfsqz7"
+    },
+    {
+      "album": {
         "name": "CupaJoe",
         "url": "https://open.spotify.com/album/0xg4bBhWQksiKERlaIaq02"
       },
@@ -1093,7 +1111,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 176000,
       "name": "Dusk",
       "url": "https://open.spotify.com/track/2lFTXt6gHlFgqOO8PXtagw"
@@ -1544,6 +1562,24 @@
     },
     {
       "album": {
+        "name": "Happy Trap",
+        "url": "https://open.spotify.com/album/3VK7GQ7jFQSU5JsiruhBrM"
+      },
+      "artists": [
+        {
+          "name": "Electro Ponzu",
+          "url": "https://open.spotify.com/artist/7p1sA3P2zp1rIrkr9DNxfz"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134000,
+      "name": "Happy Trap",
+      "url": "https://open.spotify.com/track/3NKRNH11HPKqw9LUC7QeVR"
+    },
+    {
+      "album": {
         "name": "Harvest",
         "url": "https://open.spotify.com/album/4NtVGPx6IoLyovOXtdjvHE"
       },
@@ -1689,6 +1725,24 @@
       "duration_ms": 185875,
       "name": "I'll Keep You Safe",
       "url": "https://open.spotify.com/track/01Rc6yXYtujAnMaR1NME11"
+    },
+    {
+      "album": {
+        "name": "In Da Pot",
+        "url": "https://open.spotify.com/album/07LTbLOWIB40xH0SLFsAX4"
+      },
+      "artists": [
+        {
+          "name": "Triangle Spirits",
+          "url": "https://open.spotify.com/artist/2JoSNJu22yWingeosZDvxs"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173975,
+      "name": "In Da Pot",
+      "url": "https://open.spotify.com/track/4rii3ggIUkSgDoVU6FnFyC"
     },
     {
       "album": {
@@ -3077,7 +3131,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 126666,
       "name": "Safari of the Mind",
       "url": "https://open.spotify.com/track/4KSfADgE00WidnWhCZm6WI"
@@ -3222,6 +3276,24 @@
     },
     {
       "album": {
+        "name": "Signals",
+        "url": "https://open.spotify.com/album/5rQVKnNRfJTf3Sfqvw5QRh"
+      },
+      "artists": [
+        {
+          "name": "Furry Beats",
+          "url": "https://open.spotify.com/artist/74JcB9y2kqee7Fm3rrlAe5"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143414,
+      "name": "Signals",
+      "url": "https://open.spotify.com/track/3c5YMeNelvcHYmZkm7YGs1"
+    },
+    {
+      "album": {
         "name": "Silky",
         "url": "https://open.spotify.com/album/3OH2dH0dM2R2Xpi0MRBrSm"
       },
@@ -3287,7 +3359,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 138087,
       "name": "Slumber Summer",
       "url": "https://open.spotify.com/track/4JURcHapCGVkTSerAumyLR"
@@ -4032,6 +4104,24 @@
     },
     {
       "album": {
+        "name": "why it can't be",
+        "url": "https://open.spotify.com/album/5BC8qtNQap7ekRV5LaV6jW"
+      },
+      "artists": [
+        {
+          "name": "Toby Tranter",
+          "url": "https://open.spotify.com/artist/6jQ21P9GEZfQf4aOMoTYDj"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184698,
+      "name": "why it can't be",
+      "url": "https://open.spotify.com/track/2OtHVCoDfgVML6XtAOyBaF"
+    },
+    {
+      "album": {
         "name": "wide perspective",
         "url": "https://open.spotify.com/album/5iEtLDPE4nnufUUBEn56HY"
       },
@@ -4083,6 +4173,24 @@
       "duration_ms": 120116,
       "name": "With Ease",
       "url": "https://open.spotify.com/track/0gMDJdSFtqwkwkV9GpTP68"
+    },
+    {
+      "album": {
+        "name": "Won't Stop",
+        "url": "https://open.spotify.com/album/6wBYCPMlXwPlmUM1GhvrRV"
+      },
+      "artists": [
+        {
+          "name": "Amarie Beniot",
+          "url": "https://open.spotify.com/artist/1JIWMKBNh5VIRh2kudpEMO"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Won't Stop",
+      "url": "https://open.spotify.com/track/05oxpaq92ctovhIcYlApbm"
     },
     {
       "album": {

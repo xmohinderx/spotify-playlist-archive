@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 
 > We outside\. Cover: Popcaan
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,861 likes - 79 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,051 likes - 79 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 | 58 | [Bun Fi Bun](https://open.spotify.com/track/0qVHePWosXdYsXQyPfwsPM) | [IQ](https://open.spotify.com/artist/10jSImvLGufcMdETaNGvsv), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Bun Fi Bun](https://open.spotify.com/album/2RL83zJh0gADlYn4nLMbHd) | 3:17 |
 | 59 | [Deport Them](https://open.spotify.com/track/2KD9Ao72XR2C4VjI3d1AtG) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Bookshelf Riddim](https://open.spotify.com/album/6webuRfDRjTUHH2S5bZ2Wc) | 3:08 |
 | 60 | [Willie Bounce](https://open.spotify.com/track/0pjbztKqMcjVZpDYokMBhI) | [Elephant Man](https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on) | [Strictly The Best Vol 33](https://open.spotify.com/album/6ucY1k9M0WTQCDZRTbXqzV) | 4:10 |
-| 61 | [Vitamin S](https://open.spotify.com/track/65RhyOvedCvfaR4OcAehYV) | [Cham](https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK) | [Ghetto Story \(Explicit Content U.S\. Version\)](https://open.spotify.com/album/35NmvuGyzxJcHMCkh68v5y) | 4:12 |
-| 62 | [Dat Sexy Body](https://open.spotify.com/track/3MA9vuvFgT11GTazSK5FQ0) | [Sasha](https://open.spotify.com/artist/02QYcz7JjwzKiKGHg53rZY) | [Bookshelf Riddim](https://open.spotify.com/album/6webuRfDRjTUHH2S5bZ2Wc) | 2:49 |
+| 61 | [Dat Sexy Body](https://open.spotify.com/track/3MA9vuvFgT11GTazSK5FQ0) | [Sasha](https://open.spotify.com/artist/02QYcz7JjwzKiKGHg53rZY) | [Bookshelf Riddim](https://open.spotify.com/album/6webuRfDRjTUHH2S5bZ2Wc) | 2:49 |
+| 62 | [Vitamin S](https://open.spotify.com/track/65RhyOvedCvfaR4OcAehYV) | [Cham](https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK) | [Ghetto Story \(Explicit Content U.S\. Version\)](https://open.spotify.com/album/35NmvuGyzxJcHMCkh68v5y) | 4:12 |
 | 63 | [Forgive Me](https://open.spotify.com/track/6KDUXVgS7Fifk8NsBT7i9S) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma), [Govana](https://open.spotify.com/artist/5Xi3NfsVBIEbaWVUfBTy39) | [Forgive Me](https://open.spotify.com/album/3420tn1FpPedT6tGRhe01X) | 3:53 |
 | 64 | [Press Trigger](https://open.spotify.com/track/27GiOlVbVjPaN8wco4d9m2) | [Mad Cobra](https://open.spotify.com/artist/56MDhktp7hO6MqKCS9rSXT) | [Buzz Riddim](https://open.spotify.com/album/5dCRcrUFvuD8D0MgYQ75Y9) | 3:45 |
 | 65 | [Ocean Wave](https://open.spotify.com/track/4eTwvH4pVt5U4kPfYgQQ19) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Soul Survivor Riddim](https://open.spotify.com/album/7acAQDsVCREjceQG3ZcT9o) | 2:43 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 | 78 | [Original Nuttah](https://open.spotify.com/track/53mh7POQqTXj2Cfh7phP5b) | [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j), [Uk Apache](https://open.spotify.com/artist/0YE17nrGKTk37bcKpKVUvi) | [Original Nuttah](https://open.spotify.com/album/3z68B1FAnvehe5zSdLhNCO) | 5:12 |
 | 79 | [Hot Wuk \(Album Clean\)](https://open.spotify.com/track/2da3Y5CAzX4IZtuXnCD8DN) | [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Hot Wuk 12"](https://open.spotify.com/album/5ez8QCCTVOHbRIjez9uU0O) | 3:49 |
 
-Snapshot ID: `MTY2MjcyNTA3MywwMDAwMDAwMDkxZTNhYmQ3ZWY1OTEzYmMyNGViNjkyZmRlYTI5MjM2`
+Snapshot ID: `MTY2MjcyNTA3MywwMDAwMDAwMDY4NWUxMDczNGNjYjAyNDk0Y2E2NWQyZTZlOWVmMzJk`

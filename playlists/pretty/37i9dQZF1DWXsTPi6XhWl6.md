@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXsTPi6XhWl6.md) - [plain]
 
 > Brighten your morning with these indie, folk and acoustic sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,079 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,080 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Through The Echoes](https://open.spotify.com/track/13KhcUWu9WucFw0h5jB88R) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Through The Echoes / Lose It](https://open.spotify.com/album/6MyKaxAWINJVX8IeTrQxPC) | 3:41 |
-| 2 | [Holocene](https://open.spotify.com/track/1ILEK6NRfxoseoPnolRcVA) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver \(10th Anniversary Edition\)](https://open.spotify.com/album/6xfOCqmQvpvgR5aq6fpKMD) | 5:36 |
+| 1 | [Holocene](https://open.spotify.com/track/1ILEK6NRfxoseoPnolRcVA) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver \(10th Anniversary Edition\)](https://open.spotify.com/album/6xfOCqmQvpvgR5aq6fpKMD) | 5:36 |
+| 2 | [Through The Echoes](https://open.spotify.com/track/13KhcUWu9WucFw0h5jB88R) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Through The Echoes / Lose It](https://open.spotify.com/album/6MyKaxAWINJVX8IeTrQxPC) | 3:41 |
 | 3 | [Lost in My Mind](https://open.spotify.com/track/2A4eOWCeNZHFQnLEEJKuZX) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head And The Heart](https://open.spotify.com/album/0HOYbncHll4TcojWXrfYfV) | 4:19 |
 | 4 | [Jesus, Etc.](https://open.spotify.com/track/4wd09wCccmxUB7XVJp0RNn) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Yankee Hotel Foxtrot](https://open.spotify.com/album/0rPtXOMN42nsLDiShvGamv) | 3:51 |
 | 5 | [The Bottom of It](https://open.spotify.com/track/6tZetCGfhxPh5ZIKCGmaKq) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Gold Past Life](https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp) | 3:01 |
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXsTPi6XhWl6.md) - [plain]
 | 8 | [Naked as We Came](https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Our Endless Numbered Days \(Deluxe Edition\)](https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m) | 2:32 |
 | 9 | [Hold On](https://open.spotify.com/track/1EuvOdyyzhFUP2z3gfr6xz) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls](https://open.spotify.com/album/4eOGRVKyCsVfaXysnHz0k2) | 3:46 |
 | 10 | [California Stars](https://open.spotify.com/track/38paDDziQ57k1f4VfKTeGk) | [Billy Bragg](https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO), [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Mermaid Avenue](https://open.spotify.com/album/0yTmT1i6yHb5EVyJOmIwGw) | 4:58 |
-| 11 | [Chicago](https://open.spotify.com/track/1yupbrI7ROhigIHpQBevPh) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Illinois](https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To) | 6:04 |
-| 12 | [Yellow Eyes](https://open.spotify.com/track/3HOXNIj8NjlgjQiBd3YVIi) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Imaginary Man](https://open.spotify.com/album/72YUTJrAuTuSHSVrgixbor) | 3:50 |
+| 11 | [Yellow Eyes](https://open.spotify.com/track/3HOXNIj8NjlgjQiBd3YVIi) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Imaginary Man](https://open.spotify.com/album/72YUTJrAuTuSHSVrgixbor) | 3:50 |
+| 12 | [Chicago](https://open.spotify.com/track/1yupbrI7ROhigIHpQBevPh) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Illinois](https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To) | 6:04 |
 | 13 | [Johnson Song](https://open.spotify.com/track/1g3hJAu22j2gINrSTSpwp0) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Orange Blood](https://open.spotify.com/album/3EP2uvI3t1m5UCCSA1iTtV) | 3:43 |
 | 14 | [Furr](https://open.spotify.com/track/2fgbsGWU2Dum08uifQHhiB) | [Blitzen Trapper](https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1) | [Furr](https://open.spotify.com/album/2DyjbFqAX5Yxoh3EFMMXh7) | 4:07 |
 | 15 | [Hey Julia](https://open.spotify.com/track/4ITcbrMbYwD3kuIG304nxO) | [The 502s](https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX) | [Hey Julia](https://open.spotify.com/album/161llzgJp98MoWom3IJOJp) | 1:59 |
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXsTPi6XhWl6.md) - [plain]
 | 31 | [I'm Writing a Novel](https://open.spotify.com/track/2gUwnJ5cpl40TSlqmjfqAC) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Fear Fun](https://open.spotify.com/album/2CXVonfqGwTQu8dgr2qkNS) | 3:35 |
 | 32 | [House Of My Soul \(You Light The Rooms\)](https://open.spotify.com/track/7JA24QmrS7YbSRuyU2E8LV) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy) | [Lost At Last Vol\. 1](https://open.spotify.com/album/4XlvkGpGZ0wqf13YkHyrXd) | 2:53 |
 | 33 | [This Must Be The Place](https://open.spotify.com/track/7dP4k5nDDwI1qMDoz5m0f6) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V), [Ben Bridwell](https://open.spotify.com/artist/6Vfn70eqp3AgtiZZtQcv4W) | [Sing Into My Mouth](https://open.spotify.com/album/0jMBAo2pk2cEE0aJ3WseMl) | 3:32 |
-| 34 | [When My Time Comes](https://open.spotify.com/track/2bit43ZeiBbbiHUtyWuthM) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [North Hills](https://open.spotify.com/album/2s8TW0yZCpVQkfMP9ceR7Z) | 5:08 |
-| 35 | [I Need a Teacher](https://open.spotify.com/track/7nvAdiuXhFeHICyy2OzOcS) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Terms of Surrender](https://open.spotify.com/album/4eKRqA554vK2k4khe190Yu) | 3:17 |
-| 36 | [Gone for Good](https://open.spotify.com/track/6Q0ah7m011fAcNTFJBjQGI) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Chutes Too Narrow](https://open.spotify.com/album/05APAIA6c0Qf7QtFQYZAKm) | 3:13 |
+| 34 | [Gone for Good](https://open.spotify.com/track/6Q0ah7m011fAcNTFJBjQGI) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Chutes Too Narrow](https://open.spotify.com/album/05APAIA6c0Qf7QtFQYZAKm) | 3:13 |
+| 35 | [When My Time Comes](https://open.spotify.com/track/2bit43ZeiBbbiHUtyWuthM) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [North Hills](https://open.spotify.com/album/2s8TW0yZCpVQkfMP9ceR7Z) | 5:08 |
+| 36 | [I Need a Teacher](https://open.spotify.com/track/7nvAdiuXhFeHICyy2OzOcS) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Terms of Surrender](https://open.spotify.com/album/4eKRqA554vK2k4khe190Yu) | 3:17 |
 | 37 | [The General Specific](https://open.spotify.com/track/7kDhGzc1hgkQQyzpvBmKcX) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Cease To Begin](https://open.spotify.com/album/0zWsqSsamm615uHbVj7uiZ) | 3:07 |
 | 38 | [I Summon You](https://open.spotify.com/track/4k15blneKWudA2gBmlWFIW) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Gimme Fiction \(Deluxe Edition\)](https://open.spotify.com/album/4sjSsxnmBlzxgZ9HGkHDsk) | 3:55 |
 | 39 | [Burning](https://open.spotify.com/track/2S2nmmJAS5efQ5fVrvYAQj) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Lost In The Dream](https://open.spotify.com/album/51VxHZphGLsI7aUPqIkJaz) | 5:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXsTPi6XhWl6.md) - [plain]
 | 49 | [Road to Joy](https://open.spotify.com/track/4JHxhiaDpp5omCMtOs1QrB) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [I'm Wide Awake, It's Morning](https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7) | 3:53 |
 | 50 | [Why Do You Let Me Stay Here?](https://open.spotify.com/track/1ZHYoYfWMYnGAzlwOi2XP4) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Volume One](https://open.spotify.com/album/2qIu18hUz5c6BzY3Rh6fIJ) | 2:30 |
 
-Snapshot ID: `MTY1NTQzODUyMCwwMDAwMDAwMDkwYWQ4ZGY2MTk0Njk2MDBiZGRjYzkzMGIyNDRiZTEy`
+Snapshot ID: `MTY1NTQzODUyMCwwMDAwMDAwMDkzZmM2YTg2MmFjNTQ4MDdhMjg0ZDNjOTk0OTFkNDhj`

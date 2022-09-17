@@ -602,6 +602,24 @@
     },
     {
       "album": {
+        "name": "Collateral",
+        "url": "https://open.spotify.com/album/4rDtkcswamhTIK6xOEgbWF"
+      },
+      "artists": [
+        {
+          "name": "Daulton Hopkins",
+          "url": "https://open.spotify.com/artist/2OKzhqOz5VFrrD1lCwfNSS"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179188,
+      "name": "Collateral",
+      "url": "https://open.spotify.com/track/0WwBPTz2wuv3A8qLIklg6y"
+    },
+    {
+      "album": {
         "name": "Make Way for Love",
         "url": "https://open.spotify.com/album/30SzcUoJ2zGoniPf9UjU5k"
       },
@@ -685,7 +703,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 235474,
       "name": "Desert Song",
       "url": "https://open.spotify.com/track/1j800qQ0uge8cVdw9BQ3dp"
@@ -959,7 +977,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 210704,
       "name": "Everybody Needs Somebody",
       "url": "https://open.spotify.com/track/1uheNSEpSpLy6RQ9iJ0PXn"
@@ -1622,6 +1640,28 @@
     },
     {
       "album": {
+        "name": "(self-titled)",
+        "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
+      },
+      "artists": [
+        {
+          "name": "Marcus Mumford",
+          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224893,
+      "name": "How (feat. Brandi Carlile)",
+      "url": "https://open.spotify.com/track/171xo7JC4bf7vqFmjF88M8"
+    },
+    {
+      "album": {
         "name": "How Can I",
         "url": "https://open.spotify.com/album/5nV8zMPI9ag3WZ19MuSjRr"
       },
@@ -2013,6 +2053,24 @@
       "duration_ms": 223860,
       "name": "In A Bind - Strings Version",
       "url": "https://open.spotify.com/track/2AQVquEBrCXizzLs6Leku5"
+    },
+    {
+      "album": {
+        "name": "It's Called: Freefall",
+        "url": "https://open.spotify.com/album/0Zd9SUhi8nN1qu9Vn6TRLR"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158297,
+      "name": "It's Called: Freefall",
+      "url": "https://open.spotify.com/track/21fUwJ2HBBe7RELt5USZl5"
     },
     {
       "album": {
@@ -2587,7 +2645,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 184787,
       "name": "Motel",
       "url": "https://open.spotify.com/track/6qe4MSI8cWbBqo2YBNmUic"
@@ -4069,7 +4127,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 221682,
       "name": "The Sky is Painted Gray Today",
       "url": "https://open.spotify.com/track/0WOz7oU6zfuUvDzWHmIdMK"
@@ -4305,6 +4363,24 @@
       "duration_ms": 206440,
       "name": "Thousand (feat. Lisa Hannigan)",
       "url": "https://open.spotify.com/track/2QlPMIhutG3WHV26Eza8u9"
+    },
+    {
+      "album": {
+        "name": "Th\u00e9r\u00e8se",
+        "url": "https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT"
+      },
+      "artists": [
+        {
+          "name": "Maya Hawke",
+          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207389,
+      "name": "Th\u00e9r\u00e8se",
+      "url": "https://open.spotify.com/track/1LklAGxyeK07JYRzw3Vzx9"
     },
     {
       "album": {

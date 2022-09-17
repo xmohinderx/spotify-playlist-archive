@@ -1,12 +1,12 @@
 {
   "description": "De la douceur pour accompagner votre journ\u00e9e. Photo: Les s\u0153urs Boulay",
-  "num_followers": 101471,
+  "num_followers": 101486,
   "original_name": "Caf\u00e9 montr\u00e9alais",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzA4NTY2NywwMDAwMDAwMDM3ZWE5ZGU4MDg3MjlhYzU2Njk1NDg5ZWU3MzJhMjU0",
+  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMDdhMmY5NTQyYzI4ZDk1YjVlZDgyZTBiYjFiNDQxYjE2",
   "tracks": [
     {
       "added_at": "2022-09-13 16:14:27",
@@ -207,6 +207,22 @@
     {
       "added_at": "2022-09-13 16:14:27",
       "album": {
+        "name": "Carry Me (Acoustic)",
+        "url": "https://open.spotify.com/album/6VzdF00DUKQNKvUQcSljZv"
+      },
+      "artists": [
+        {
+          "name": "Ghostly Kisses",
+          "url": "https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj"
+        }
+      ],
+      "duration_ms": 199794,
+      "name": "Carry Me (Acoustic)",
+      "url": "https://open.spotify.com/track/0ZbT7emV4bS4nRxuAoQAyo"
+    },
+    {
+      "added_at": "2022-09-13 16:14:27",
+      "album": {
         "name": "Les grandes art\u00e8res",
         "url": "https://open.spotify.com/album/2HGCx9cx51b0MlkBdzUiaY"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 204013,
       "name": "Si tu reviens",
       "url": "https://open.spotify.com/track/4jfDgYNK4VcADKD6mSSyFs"
-    },
-    {
-      "added_at": "2022-09-13 16:14:27",
-      "album": {
-        "name": "Solitudes",
-        "url": "https://open.spotify.com/album/0q7qInfdzXEaJxQt1YNvvi"
-      },
-      "artists": [
-        {
-          "name": "Matt Holubowski",
-          "url": "https://open.spotify.com/artist/384YLF1kNQk9Ccl8pn7BSO"
-        }
-      ],
-      "duration_ms": 248306,
-      "name": "Solitudes",
-      "url": "https://open.spotify.com/track/7IjR9x7qM8WFVKYXcZX7PR"
     },
     {
       "added_at": "2022-09-13 16:14:27",
@@ -255,6 +255,22 @@
     {
       "added_at": "2022-09-13 16:14:27",
       "album": {
+        "name": "Solitudes",
+        "url": "https://open.spotify.com/album/0q7qInfdzXEaJxQt1YNvvi"
+      },
+      "artists": [
+        {
+          "name": "Matt Holubowski",
+          "url": "https://open.spotify.com/artist/384YLF1kNQk9Ccl8pn7BSO"
+        }
+      ],
+      "duration_ms": 248306,
+      "name": "Solitudes",
+      "url": "https://open.spotify.com/track/7IjR9x7qM8WFVKYXcZX7PR"
+    },
+    {
+      "added_at": "2022-09-13 16:14:27",
+      "album": {
         "name": "La mort des \u00e9toiles",
         "url": "https://open.spotify.com/album/6JMHCAOiIQoJG7Yp8s40m5"
       },
@@ -271,18 +287,18 @@
     {
       "added_at": "2022-09-13 16:14:27",
       "album": {
-        "name": "Carry Me (Acoustic)",
-        "url": "https://open.spotify.com/album/6VzdF00DUKQNKvUQcSljZv"
+        "name": "Seasons of Change",
+        "url": "https://open.spotify.com/album/74fRgN21qhhAQv43mbCJFq"
       },
       "artists": [
         {
-          "name": "Ghostly Kisses",
-          "url": "https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj"
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
         }
       ],
-      "duration_ms": 199794,
-      "name": "Carry Me (Acoustic)",
-      "url": "https://open.spotify.com/track/0ZbT7emV4bS4nRxuAoQAyo"
+      "duration_ms": 162106,
+      "name": "Grow into Love",
+      "url": "https://open.spotify.com/track/52AthVA2opex8NcLSwtO8n"
     },
     {
       "added_at": "2022-09-13 16:14:27",
@@ -371,22 +387,6 @@
     {
       "added_at": "2022-09-13 16:14:27",
       "album": {
-        "name": "La mort des \u00e9toiles",
-        "url": "https://open.spotify.com/album/6JMHCAOiIQoJG7Yp8s40m5"
-      },
-      "artists": [
-        {
-          "name": "Les s\u0153urs Boulay",
-          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
-        }
-      ],
-      "duration_ms": 259733,
-      "name": "La mort des \u00e9toiles",
-      "url": "https://open.spotify.com/track/5iDhyg8xIAkK1EJtZdL4Vr"
-    },
-    {
-      "added_at": "2022-09-13 16:14:27",
-      "album": {
         "name": "Petite plage",
         "url": "https://open.spotify.com/album/6GjRQbVrTgjbdNlSs7Plor"
       },
@@ -399,6 +399,22 @@
       "duration_ms": 158480,
       "name": "Les \u00e9pousailles",
       "url": "https://open.spotify.com/track/6t5R6YTK8d6n7wxjZI3JLp"
+    },
+    {
+      "added_at": "2022-09-13 16:14:27",
+      "album": {
+        "name": "La mort des \u00e9toiles",
+        "url": "https://open.spotify.com/album/6JMHCAOiIQoJG7Yp8s40m5"
+      },
+      "artists": [
+        {
+          "name": "Les s\u0153urs Boulay",
+          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
+        }
+      ],
+      "duration_ms": 259733,
+      "name": "La mort des \u00e9toiles",
+      "url": "https://open.spotify.com/track/5iDhyg8xIAkK1EJtZdL4Vr"
     },
     {
       "added_at": "2022-09-13 16:14:27",
@@ -439,22 +455,6 @@
     {
       "added_at": "2022-09-13 16:14:27",
       "album": {
-        "name": "This Time I See It",
-        "url": "https://open.spotify.com/album/3VGWawHYkkcHTBftEfD5Ev"
-      },
-      "artists": [
-        {
-          "name": "The Franklin Electric",
-          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
-        }
-      ],
-      "duration_ms": 220213,
-      "name": "Understand It",
-      "url": "https://open.spotify.com/track/1j3RlvCYzUnWxWQozjEzTh"
-    },
-    {
-      "added_at": "2022-09-13 16:14:27",
-      "album": {
         "name": "The Ballad of the Runaway Girl",
         "url": "https://open.spotify.com/album/4thL3jIVt8oFNZgvnHslkU"
       },
@@ -471,6 +471,22 @@
       "duration_ms": 158117,
       "name": "Wolves Don't Live by the Rules (feat Joe Grass)",
       "url": "https://open.spotify.com/track/79r3EaZ8M7kEGPy7Tc1KxA"
+    },
+    {
+      "added_at": "2022-09-13 16:14:27",
+      "album": {
+        "name": "This Time I See It",
+        "url": "https://open.spotify.com/album/3VGWawHYkkcHTBftEfD5Ev"
+      },
+      "artists": [
+        {
+          "name": "The Franklin Electric",
+          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
+        }
+      ],
+      "duration_ms": 220213,
+      "name": "Understand It",
+      "url": "https://open.spotify.com/track/1j3RlvCYzUnWxWQozjEzTh"
     },
     {
       "added_at": "2022-09-13 16:14:27",
@@ -503,22 +519,6 @@
       "duration_ms": 173515,
       "name": "C'est tout, c'est rien",
       "url": "https://open.spotify.com/track/5zYZD2nQRCDEMleFB5pkzq"
-    },
-    {
-      "added_at": "2022-09-13 16:14:27",
-      "album": {
-        "name": "Seasons of Change",
-        "url": "https://open.spotify.com/album/74fRgN21qhhAQv43mbCJFq"
-      },
-      "artists": [
-        {
-          "name": "Half Moon Run",
-          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
-        }
-      ],
-      "duration_ms": 162106,
-      "name": "Grow into Love",
-      "url": "https://open.spotify.com/track/52AthVA2opex8NcLSwtO8n"
     },
     {
       "added_at": "2022-09-13 16:14:27",
@@ -767,22 +767,6 @@
     {
       "added_at": "2022-09-13 16:14:27",
       "album": {
-        "name": "Heavy Stone",
-        "url": "https://open.spotify.com/album/0NPeCHqKkiqkMSwazQz9yb"
-      },
-      "artists": [
-        {
-          "name": "Matt Holubowski",
-          "url": "https://open.spotify.com/artist/384YLF1kNQk9Ccl8pn7BSO"
-        }
-      ],
-      "duration_ms": 188027,
-      "name": "Heavy Stone",
-      "url": "https://open.spotify.com/track/6di7vKnA0XkftU6YrXwhCM"
-    },
-    {
-      "added_at": "2022-09-13 16:14:27",
-      "album": {
         "name": "Go Get It",
         "url": "https://open.spotify.com/album/5ornCn9likRC8UcYRgbUZV"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 141509,
       "name": "Go Get It",
       "url": "https://open.spotify.com/track/0NLScgFk4MNJ1SSGtNUiZc"
+    },
+    {
+      "added_at": "2022-09-13 16:14:27",
+      "album": {
+        "name": "Heavy Stone",
+        "url": "https://open.spotify.com/album/0NPeCHqKkiqkMSwazQz9yb"
+      },
+      "artists": [
+        {
+          "name": "Matt Holubowski",
+          "url": "https://open.spotify.com/artist/384YLF1kNQk9Ccl8pn7BSO"
+        }
+      ],
+      "duration_ms": 188027,
+      "name": "Heavy Stone",
+      "url": "https://open.spotify.com/track/6di7vKnA0XkftU6YrXwhCM"
     },
     {
       "added_at": "2022-09-13 16:14:27",
@@ -915,6 +915,22 @@
     {
       "added_at": "2022-09-13 16:14:27",
       "album": {
+        "name": "C'est Plus Comme Avant (Version Acoustique)",
+        "url": "https://open.spotify.com/album/7c8jLJfowKojwRsdMk61AA"
+      },
+      "artists": [
+        {
+          "name": "The Franklin Electric",
+          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
+        }
+      ],
+      "duration_ms": 166306,
+      "name": "C'est Plus Comme Avant - Version Acoustique",
+      "url": "https://open.spotify.com/track/3cDKsbbkGsflwPfVLYg10X"
+    },
+    {
+      "added_at": "2022-09-13 16:14:27",
+      "album": {
         "name": "L'\u00e9trange pays",
         "url": "https://open.spotify.com/album/13hzRu1yUCald5cfl6xtsp"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 200706,
       "name": "Passe ton chemin",
       "url": "https://open.spotify.com/track/6wKUnfSAJRQagiCuvNgMbB"
-    },
-    {
-      "added_at": "2022-09-13 16:14:27",
-      "album": {
-        "name": "SITKA",
-        "url": "https://open.spotify.com/album/7vCTMbGtUp6mIOQu1l03DP"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9anne A. Malette",
-          "url": "https://open.spotify.com/artist/7Cm84tcv4znPwVFtFyIdBB"
-        }
-      ],
-      "duration_ms": 218653,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/5yE3Mi1Vu66PB6zyAIIPFu"
     },
     {
       "added_at": "2022-09-13 16:14:27",
@@ -963,18 +963,18 @@
     {
       "added_at": "2022-09-13 16:14:27",
       "album": {
-        "name": "C'est Plus Comme Avant (Version Acoustique)",
-        "url": "https://open.spotify.com/album/7c8jLJfowKojwRsdMk61AA"
+        "name": "SITKA",
+        "url": "https://open.spotify.com/album/7vCTMbGtUp6mIOQu1l03DP"
       },
       "artists": [
         {
-          "name": "The Franklin Electric",
-          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
+          "name": "Andr\u00e9anne A. Malette",
+          "url": "https://open.spotify.com/artist/7Cm84tcv4znPwVFtFyIdBB"
         }
       ],
-      "duration_ms": 166306,
-      "name": "C'est Plus Comme Avant - Version Acoustique",
-      "url": "https://open.spotify.com/track/3cDKsbbkGsflwPfVLYg10X"
+      "duration_ms": 218653,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/5yE3Mi1Vu66PB6zyAIIPFu"
     },
     {
       "added_at": "2022-09-13 16:14:27",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2022-09-13 16:14:27",
       "album": {
-        "name": "SESSION LIVE H2T",
-        "url": "https://open.spotify.com/album/2BrOs0tkhkaexfIGly8Csz"
-      },
-      "artists": [
-        {
-          "name": "Peter Peter",
-          "url": "https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC"
-        }
-      ],
-      "duration_ms": 211002,
-      "name": "Beaut\u00e9 baroque - Session live H2T",
-      "url": "https://open.spotify.com/track/5xGaGuLLQX45z48bEbkiOw"
-    },
-    {
-      "added_at": "2022-09-13 16:14:27",
-      "album": {
         "name": "Ce que je te donne ne dispara\u00eet pas",
         "url": "https://open.spotify.com/album/6cD91XtPpIgoAxFttrH3kJ"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 226586,
       "name": "Des histoires qui ne seront jamais finies",
       "url": "https://open.spotify.com/track/0lQ6omsWPn0jUDkT4frBuu"
+    },
+    {
+      "added_at": "2022-09-13 16:14:27",
+      "album": {
+        "name": "SESSION LIVE H2T",
+        "url": "https://open.spotify.com/album/2BrOs0tkhkaexfIGly8Csz"
+      },
+      "artists": [
+        {
+          "name": "Peter Peter",
+          "url": "https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC"
+        }
+      ],
+      "duration_ms": 211002,
+      "name": "Beaut\u00e9 baroque - Session live H2T",
+      "url": "https://open.spotify.com/track/5xGaGuLLQX45z48bEbkiOw"
     },
     {
       "added_at": "2022-09-13 16:14:27",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2022-09-13 16:14:27",
       "album": {
-        "name": "Rien de plus grand",
-        "url": "https://open.spotify.com/album/2gU16GxJuVsePs44TreU2a"
-      },
-      "artists": [
-        {
-          "name": "\u00c9tienne Copp\u00e9e",
-          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
-        }
-      ],
-      "duration_ms": 276586,
-      "name": "Rien de plus grand",
-      "url": "https://open.spotify.com/track/7gUwoDvVkAYMxP7YD2bLLi"
-    },
-    {
-      "added_at": "2022-09-13 16:14:27",
-      "album": {
         "name": "Elle danse",
         "url": "https://open.spotify.com/album/7MDpUmwtnw3ZWehFFkrgLy"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 149015,
       "name": "Elle danse",
       "url": "https://open.spotify.com/track/0OmanxdBHQLM8eYzfexeCN"
+    },
+    {
+      "added_at": "2022-09-13 16:14:27",
+      "album": {
+        "name": "Rien de plus grand",
+        "url": "https://open.spotify.com/album/2gU16GxJuVsePs44TreU2a"
+      },
+      "artists": [
+        {
+          "name": "\u00c9tienne Copp\u00e9e",
+          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
+        }
+      ],
+      "duration_ms": 276586,
+      "name": "Rien de plus grand",
+      "url": "https://open.spotify.com/track/7gUwoDvVkAYMxP7YD2bLLi"
     },
     {
       "added_at": "2022-09-13 16:14:27",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2022-09-13 16:14:27",
       "album": {
-        "name": "Satellite",
-        "url": "https://open.spotify.com/album/7cTthdPgZAHv44s7VCar46"
-      },
-      "artists": [
-        {
-          "name": "Genevi\u00e8ve Racette",
-          "url": "https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU"
-        }
-      ],
-      "duration_ms": 229567,
-      "name": "Hostage",
-      "url": "https://open.spotify.com/track/1ndqHrik6dcm5ZIu7bZUY0"
-    },
-    {
-      "added_at": "2022-09-13 16:14:27",
-      "album": {
         "name": "The Paradise Club",
         "url": "https://open.spotify.com/album/7gYMUBhQwEtxA5XhJqHAW7"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 184680,
       "name": "1000 Bornes",
       "url": "https://open.spotify.com/track/669Wu8pGCMfDJHFVkUwXco"
+    },
+    {
+      "added_at": "2022-09-13 16:14:27",
+      "album": {
+        "name": "Satellite",
+        "url": "https://open.spotify.com/album/7cTthdPgZAHv44s7VCar46"
+      },
+      "artists": [
+        {
+          "name": "Genevi\u00e8ve Racette",
+          "url": "https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU"
+        }
+      ],
+      "duration_ms": 229567,
+      "name": "Hostage",
+      "url": "https://open.spotify.com/track/1ndqHrik6dcm5ZIu7bZUY0"
     },
     {
       "added_at": "2022-09-13 16:14:27",

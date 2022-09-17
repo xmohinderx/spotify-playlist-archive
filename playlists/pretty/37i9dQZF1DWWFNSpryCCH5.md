@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWFNSpryCCH5.md) - [plain]
 
 > Revive aquellas grandes canciones desenchufadas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,047,251 likes - 50 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,047,373 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWFNSpryCCH5.md) - [plain]
 | 29 | [Te necesito \- Acústico](https://open.spotify.com/track/61ZvRYNgX7WliB1kgQB32a) | [Amaral](https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi), [Beto Cuevas](https://open.spotify.com/artist/0kUZTk2JLPEAUyCWoN6eoL) | [Estrella De Mar](https://open.spotify.com/album/61ubSwllNCZJux3IG7G83T) | 4:05 |
 | 30 | [Fuera de mí](https://open.spotify.com/track/5XH286garUg3tcciTKR50O) | [La Ley](https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK) | [La Ley MTV Unplugged](https://open.spotify.com/album/0QkgxSUu5hG0yMkmVXBFKi) | 4:58 |
 | 31 | [Linger \- Acoustic Version](https://open.spotify.com/track/4oGuHZ966kmCmt3DRVxjXw) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Something Else](https://open.spotify.com/album/0iBRl2CMi7gbt17WfdVI2r) | 4:55 |
-| 32 | [I'm Yours \- Live on HSN Live](https://open.spotify.com/track/1j5cGcXWdHKTPQ2XgXODJI) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Spotify Sessions](https://open.spotify.com/album/22MrOvzmcn6WeE4v6Ua6dj) | 4:03 |
-| 33 | [Corazón partío](https://open.spotify.com/track/2EdAzvb3Qc6E8h8glHD9jF) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [MTV Unplugged](https://open.spotify.com/album/1GP8zhAu7gbAQTzfl6xOKo) | 5:00 |
+| 32 | [Corazón partío](https://open.spotify.com/track/2EdAzvb3Qc6E8h8glHD9jF) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [MTV Unplugged](https://open.spotify.com/album/1GP8zhAu7gbAQTzfl6xOKo) | 5:00 |
+| 33 | [I'm Yours \- Live on HSN Live](https://open.spotify.com/track/1j5cGcXWdHKTPQ2XgXODJI) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Spotify Sessions](https://open.spotify.com/album/22MrOvzmcn6WeE4v6Ua6dj) | 4:03 |
 | 34 | [Un Año Más \- En Vivo](https://open.spotify.com/track/2qz2TwDrWbDKK4rdHkV66V) | [Ana Torroja](https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1), [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Conexión \(En Vivo\)](https://open.spotify.com/album/5NxW0Aim29Q9jWXoqA2WYB) | 4:47 |
 | 35 | [You Learn \- Live / Unplugged](https://open.spotify.com/track/2yx1kAK1Fe2zTOsaDKSNBk) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Live / Unplugged](https://open.spotify.com/album/0LkVxRq8mZbPUaRgEEvxKv) | 4:21 |
 | 36 | [The Man Who Sold The World \- Live Version](https://open.spotify.com/track/1XnPVbzLhuBv0sHaCTgyoi) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nirvana](https://open.spotify.com/album/5zBPRXCAc801vyHWoRurNZ) | 3:47 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWFNSpryCCH5.md) - [plain]
 | 44 | [Eres \- MTV Unplugged](https://open.spotify.com/track/7stJkVkDr8fn52qR2HL2I0) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Un Segundo MTV Unplugged](https://open.spotify.com/album/6FFHjkllIIyfWlObWFrZ6X) | 5:05 |
 | 45 | [Black \- Kaufman Astoria Studios \- MTV Unplugged \- New York, NY 3/16/1992](https://open.spotify.com/track/0DUaFpOFS5H8LbswpbcP2m) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Pearl Jam Twenty Original Motion Picture Soundtrack](https://open.spotify.com/album/1z6iuIsvWR3AjWhMY2xFOk) | 5:39 |
 | 46 | [Hit Me \- MTV Unplugged](https://open.spotify.com/track/3vKCtmzGnf87XsILKozKVX) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW), [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [MTV Unplugged: El Desconecte](https://open.spotify.com/album/5ceBnTwI1hUewZEwYnTc7z) | 5:13 |
-| 47 | [I'll Always Be Right There \- MTV Unplugged Version](https://open.spotify.com/track/2z1HcH3hHiuo9nN3Jy7HEM) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [MTV Unplugged](https://open.spotify.com/album/081klksuaEwHIzuHGCks5p) | 4:27 |
-| 48 | [Here Without You \- Acoustic](https://open.spotify.com/track/2HIU8kiFo9sB5ih05q8wgP) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Here Without You \(Acoustic\)](https://open.spotify.com/album/4flaMBqrWP26gwhRRxbq7e) | 3:52 |
+| 47 | [Here Without You \- Acoustic](https://open.spotify.com/track/2HIU8kiFo9sB5ih05q8wgP) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Here Without You \(Acoustic\)](https://open.spotify.com/album/4flaMBqrWP26gwhRRxbq7e) | 3:52 |
+| 48 | [I'll Always Be Right There \- MTV Unplugged Version](https://open.spotify.com/track/2z1HcH3hHiuo9nN3Jy7HEM) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [MTV Unplugged](https://open.spotify.com/album/081klksuaEwHIzuHGCks5p) | 4:27 |
 | 49 | [Inevitable \- En Vivo](https://open.spotify.com/track/1gia3p3JUP6igy5kcpJSGb) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Shakira MTV Unplugged](https://open.spotify.com/album/3yQQUyIA3vRIRnB4rqtThe) | 3:39 |
-| 50 | [La chispa adecuada \- Live](https://open.spotify.com/track/25TiUPCYa2KYp3LFENEkJM) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Tour 2007](https://open.spotify.com/album/7agRISos8iXzrqsCQ8Owg6) | 5:24 |
+| 50 | [He Barrido el Sol \- Unplugged Version](https://open.spotify.com/track/4kEC1SCVFZkAccbN3NyjQz) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [Los Tres MTV Unplugged](https://open.spotify.com/album/5gbgCfKWGatY7WWDKcoGnW) | 4:38 |
 
-Snapshot ID: `MTYxMjk5MTc2NywwMDAwMDAwMDIwMjA5MDU3YzYzZjFkMzg5ZTk1ZjUwZmI2ZmZmNzc3`
+Snapshot ID: `MTYxMjk5MTc2NywwMDAwMDAwMGVkYjVhMDQ1MWVmYmM0NmI4Yjc2MjYzNjViZjU2ZWU5`

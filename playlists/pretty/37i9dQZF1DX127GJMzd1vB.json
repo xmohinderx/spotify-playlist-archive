@@ -1,12 +1,12 @@
 {
   "description": "\u00a1De amor y desamor! Las canciones que no pueden faltar a la hora de llevar gallo.",
-  "num_followers": 42055,
+  "num_followers": 42164,
   "original_name": "La Serenata",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDgyMTYxNywwMDAwMDAwMDUwYWQ4OWY0ZDYxNDg2MGQ3NGY2YWJjYThkYThmZGRi",
+  "snapshot_id": "MTY0MDgyMTYxNywwMDAwMDAwMDhjODExZjBhNWI0MTg0NGMyODExODRlNWIxYjExOTc3",
   "tracks": [
     {
       "added_at": "2021-12-29 23:46:57",
@@ -451,38 +451,6 @@
     {
       "added_at": "2021-12-29 23:46:57",
       "album": {
-        "name": "El Cantinero",
-        "url": "https://open.spotify.com/album/7Gxn1LKL1SUSW8CVJugfES"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Alfredo Jimenez",
-          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "Te Solt\u00e9 la Rienda",
-      "url": "https://open.spotify.com/track/3YubPkIjza38KmXTIGdk91"
-    },
-    {
-      "added_at": "2021-12-29 23:46:57",
-      "album": {
-        "name": "La Gran Se\u00f1ora",
-        "url": "https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 252440,
-      "name": "La Gran Se\u00f1ora",
-      "url": "https://open.spotify.com/track/3Q9Q9rYI2hwYZNl0Mmc2FB"
-    },
-    {
-      "added_at": "2021-12-29 23:46:57",
-      "album": {
         "name": "Que Seas Muy Feliz",
         "url": "https://open.spotify.com/album/23nJ7gZDubv8GuPeuukHuu"
       },
@@ -495,6 +463,38 @@
       "duration_ms": 213733,
       "name": "Como Quien Pierde una Estrella",
       "url": "https://open.spotify.com/track/4tfawx7oL39IUS0GyOlmcP"
+    },
+    {
+      "added_at": "2021-12-29 23:46:57",
+      "album": {
+        "name": "Mexico en la Piel (edicion diamante)",
+        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 151120,
+      "name": "De Qu\u00e9 Manera Te Olvido",
+      "url": "https://open.spotify.com/track/0j0ntQup1Wp9ZiQTUvgnhm"
+    },
+    {
+      "added_at": "2021-12-29 23:46:57",
+      "album": {
+        "name": "El Cantinero",
+        "url": "https://open.spotify.com/album/7Gxn1LKL1SUSW8CVJugfES"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "Te Solt\u00e9 la Rienda",
+      "url": "https://open.spotify.com/track/3YubPkIjza38KmXTIGdk91"
     },
     {
       "added_at": "2021-12-29 23:46:57",
@@ -515,18 +515,18 @@
     {
       "added_at": "2021-12-29 23:46:57",
       "album": {
-        "name": "Mexico en la Piel (edicion diamante)",
-        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
+        "name": "La Gran Se\u00f1ora",
+        "url": "https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa"
       },
       "artists": [
         {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 151120,
-      "name": "De Qu\u00e9 Manera Te Olvido",
-      "url": "https://open.spotify.com/track/0j0ntQup1Wp9ZiQTUvgnhm"
+      "duration_ms": 252440,
+      "name": "La Gran Se\u00f1ora",
+      "url": "https://open.spotify.com/track/3Q9Q9rYI2hwYZNl0Mmc2FB"
     },
     {
       "added_at": "2021-12-29 23:46:57",
@@ -563,22 +563,6 @@
     {
       "added_at": "2021-12-29 23:46:57",
       "album": {
-        "name": "Gracias (with Mariachi Vargas de Tecalitl\u00e1n)",
-        "url": "https://open.spotify.com/album/6nhkBmPqfBjoJwLMVClgxH"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Alfredo Jimenez",
-          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
-        }
-      ],
-      "duration_ms": 137120,
-      "name": "En el \u00daltimo Trago",
-      "url": "https://open.spotify.com/track/6i6tTUmg1i9PDwETgb5v7J"
-    },
-    {
-      "added_at": "2021-12-29 23:46:57",
-      "album": {
         "name": "Coleccion Original",
         "url": "https://open.spotify.com/album/0OwOpYYCXo04N5VMQEaXuJ"
       },
@@ -591,22 +575,6 @@
       "duration_ms": 152093,
       "name": "Gema",
       "url": "https://open.spotify.com/track/6CtFzFcak77qpA0ll1guMN"
-    },
-    {
-      "added_at": "2021-12-29 23:46:57",
-      "album": {
-        "name": "Por Una Mujer Bonita",
-        "url": "https://open.spotify.com/album/575z6jPePLhrgIlIeaKflS"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 211773,
-      "name": "Perd\u00f3name",
-      "url": "https://open.spotify.com/track/5Ss6PEMm27CQUCotqWLKe6"
     },
     {
       "added_at": "2021-12-29 23:46:57",
@@ -627,50 +595,34 @@
     {
       "added_at": "2021-12-29 23:46:57",
       "album": {
-        "name": "Vida De Bohemio",
-        "url": "https://open.spotify.com/album/0ufPamcshkfTyzmIJp9Efi"
+        "name": "Por Una Mujer Bonita",
+        "url": "https://open.spotify.com/album/575z6jPePLhrgIlIeaKflS"
       },
       "artists": [
         {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
         }
       ],
-      "duration_ms": 180133,
-      "name": "En Tu Pelo",
-      "url": "https://open.spotify.com/track/4leHHwUSR0Vm5rjYvHhBEU"
+      "duration_ms": 211773,
+      "name": "Perd\u00f3name",
+      "url": "https://open.spotify.com/track/5Ss6PEMm27CQUCotqWLKe6"
     },
     {
       "added_at": "2021-12-29 23:46:57",
       "album": {
-        "name": "Mexico Gran Colecci\u00f3n Ranchera: Pedro Infante",
-        "url": "https://open.spotify.com/album/4ZiRfUT3xPgjse6CzPGRYC"
+        "name": "Gracias (with Mariachi Vargas de Tecalitl\u00e1n)",
+        "url": "https://open.spotify.com/album/6nhkBmPqfBjoJwLMVClgxH"
       },
       "artists": [
         {
-          "name": "Pedro Infante",
-          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
         }
       ],
-      "duration_ms": 226324,
-      "name": "Fallaste Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/6BIRIBJuEGLds1oAxvybLO"
-    },
-    {
-      "added_at": "2021-12-29 23:46:57",
-      "album": {
-        "name": "Soy Lo Prohibido",
-        "url": "https://open.spotify.com/album/4kI870RBIpDEXCJfDOpyt4"
-      },
-      "artists": [
-        {
-          "name": "Alicia Villarreal",
-          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
-        }
-      ],
-      "duration_ms": 217040,
-      "name": "Te Qued\u00f3 Grande La Yegua",
-      "url": "https://open.spotify.com/track/5tPxcLBsfj9yZS4PAiOr9G"
+      "duration_ms": 137120,
+      "name": "En el \u00daltimo Trago",
+      "url": "https://open.spotify.com/track/6i6tTUmg1i9PDwETgb5v7J"
     },
     {
       "added_at": "2021-12-29 23:46:57",
@@ -691,6 +643,38 @@
     {
       "added_at": "2021-12-29 23:46:57",
       "album": {
+        "name": "Mexico Gran Colecci\u00f3n Ranchera: Pedro Infante",
+        "url": "https://open.spotify.com/album/4ZiRfUT3xPgjse6CzPGRYC"
+      },
+      "artists": [
+        {
+          "name": "Pedro Infante",
+          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
+        }
+      ],
+      "duration_ms": 226324,
+      "name": "Fallaste Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6BIRIBJuEGLds1oAxvybLO"
+    },
+    {
+      "added_at": "2021-12-29 23:46:57",
+      "album": {
+        "name": "Vida De Bohemio",
+        "url": "https://open.spotify.com/album/0ufPamcshkfTyzmIJp9Efi"
+      },
+      "artists": [
+        {
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+        }
+      ],
+      "duration_ms": 180133,
+      "name": "En Tu Pelo",
+      "url": "https://open.spotify.com/track/4leHHwUSR0Vm5rjYvHhBEU"
+    },
+    {
+      "added_at": "2021-12-29 23:46:57",
+      "album": {
         "name": "15 Anos De Exitos",
         "url": "https://open.spotify.com/album/0raOnVnK8S60UkiSpIzVIY"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 177013,
       "name": "Se Me Olvid\u00f3 Otra Vez",
       "url": "https://open.spotify.com/track/6Y3AwA8UfVSDjeMrdJyjLK"
+    },
+    {
+      "added_at": "2021-12-29 23:46:57",
+      "album": {
+        "name": "Soy Lo Prohibido",
+        "url": "https://open.spotify.com/album/4kI870RBIpDEXCJfDOpyt4"
+      },
+      "artists": [
+        {
+          "name": "Alicia Villarreal",
+          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
+        }
+      ],
+      "duration_ms": 217040,
+      "name": "Te Qued\u00f3 Grande La Yegua",
+      "url": "https://open.spotify.com/track/5tPxcLBsfj9yZS4PAiOr9G"
     },
     {
       "added_at": "2021-12-29 23:46:57",
@@ -723,22 +723,6 @@
     {
       "added_at": "2021-12-29 23:46:57",
       "album": {
-        "name": "Las 100 Clasicas Vol. 2",
-        "url": "https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Alfredo Jimenez",
-          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
-        }
-      ],
-      "duration_ms": 144706,
-      "name": "Si Nos Dejan",
-      "url": "https://open.spotify.com/track/1mTWvb5uY8R6tU7iCLtiUo"
-    },
-    {
-      "added_at": "2021-12-29 23:46:57",
-      "album": {
         "name": "Coleccion Original",
         "url": "https://open.spotify.com/album/0OwOpYYCXo04N5VMQEaXuJ"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 175253,
       "name": "Tres Regalos",
       "url": "https://open.spotify.com/track/0Wui9qdWQt5zhH0ZYXmrVq"
+    },
+    {
+      "added_at": "2021-12-29 23:46:57",
+      "album": {
+        "name": "Las 100 Clasicas Vol. 2",
+        "url": "https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+        }
+      ],
+      "duration_ms": 144706,
+      "name": "Si Nos Dejan",
+      "url": "https://open.spotify.com/track/1mTWvb5uY8R6tU7iCLtiUo"
     },
     {
       "added_at": "2021-12-29 23:46:57",
@@ -803,6 +803,22 @@
     {
       "added_at": "2021-12-29 23:46:57",
       "album": {
+        "name": "Soy Lo Prohibido",
+        "url": "https://open.spotify.com/album/4kI870RBIpDEXCJfDOpyt4"
+      },
+      "artists": [
+        {
+          "name": "Alicia Villarreal",
+          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
+        }
+      ],
+      "duration_ms": 178813,
+      "name": "Besos Y Copas",
+      "url": "https://open.spotify.com/track/5gXJjrNk3kwPkz8toXQTxf"
+    },
+    {
+      "added_at": "2021-12-29 23:46:57",
+      "album": {
         "name": "Canta En Espa\u00f1ol Con Los Panchos",
         "url": "https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w"
       },
@@ -823,18 +839,18 @@
     {
       "added_at": "2021-12-29 23:46:57",
       "album": {
-        "name": "Soy Lo Prohibido",
-        "url": "https://open.spotify.com/album/4kI870RBIpDEXCJfDOpyt4"
+        "name": "Serenata con Los Tecolines",
+        "url": "https://open.spotify.com/album/5B8WnefLZ6ako5S6eUa7mb"
       },
       "artists": [
         {
-          "name": "Alicia Villarreal",
-          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
+          "name": "Los Tecolines",
+          "url": "https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv"
         }
       ],
-      "duration_ms": 178813,
-      "name": "Besos Y Copas",
-      "url": "https://open.spotify.com/track/5gXJjrNk3kwPkz8toXQTxf"
+      "duration_ms": 173146,
+      "name": "Ahora y siempre",
+      "url": "https://open.spotify.com/track/5J32HBvOLwvvJmgwRhn8fh"
     },
     {
       "added_at": "2021-12-29 23:46:57",
@@ -851,22 +867,6 @@
       "duration_ms": 185306,
       "name": "Cuando Sale la Luna",
       "url": "https://open.spotify.com/track/2vDaSr8NzCzG2rFtqup2Kq"
-    },
-    {
-      "added_at": "2021-12-29 23:46:57",
-      "album": {
-        "name": "Serenata con Los Tecolines",
-        "url": "https://open.spotify.com/album/5B8WnefLZ6ako5S6eUa7mb"
-      },
-      "artists": [
-        {
-          "name": "Los Tecolines",
-          "url": "https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv"
-        }
-      ],
-      "duration_ms": 173146,
-      "name": "Ahora y siempre",
-      "url": "https://open.spotify.com/track/5J32HBvOLwvvJmgwRhn8fh"
     },
     {
       "added_at": "2021-12-29 23:46:57",
@@ -935,38 +935,6 @@
     {
       "added_at": "2021-12-29 23:46:57",
       "album": {
-        "name": "Serie De Coleccion 15 Autenticos",
-        "url": "https://open.spotify.com/album/5D3g2BbyQuAc1O4lhPUlVQ"
-      },
-      "artists": [
-        {
-          "name": "Cuco S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/1M1VkVEy3JGFFyPy7oKH2E"
-        }
-      ],
-      "duration_ms": 169640,
-      "name": "Fallaste Coraz\u00f3n / Del Cielo Cay\u00f3 una Rosa",
-      "url": "https://open.spotify.com/track/4zbXcjtqBCRpVW2XvqUBVD"
-    },
-    {
-      "added_at": "2021-12-29 23:46:57",
-      "album": {
-        "name": "Que No Se Apague La M\u00fasica",
-        "url": "https://open.spotify.com/album/11TUtenhdCYRiv1xEQxaZl"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 113619,
-      "name": "Amor, Amor de Mis Amores",
-      "url": "https://open.spotify.com/track/4TETxb4ElOE3AtrNgQO6PO"
-    },
-    {
-      "added_at": "2021-12-29 23:46:57",
-      "album": {
         "name": "Penas, Desenga\u00f1os... y Amores",
         "url": "https://open.spotify.com/album/6tTkLSvfUKUFOW7BhD7Rm0"
       },
@@ -983,6 +951,22 @@
     {
       "added_at": "2021-12-29 23:46:57",
       "album": {
+        "name": "Serie De Coleccion 15 Autenticos",
+        "url": "https://open.spotify.com/album/5D3g2BbyQuAc1O4lhPUlVQ"
+      },
+      "artists": [
+        {
+          "name": "Cuco S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/1M1VkVEy3JGFFyPy7oKH2E"
+        }
+      ],
+      "duration_ms": 169640,
+      "name": "Fallaste Coraz\u00f3n / Del Cielo Cay\u00f3 una Rosa",
+      "url": "https://open.spotify.com/track/4zbXcjtqBCRpVW2XvqUBVD"
+    },
+    {
+      "added_at": "2021-12-29 23:46:57",
+      "album": {
         "name": "Interpreta A Juan Gabriel",
         "url": "https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 182266,
       "name": "Ya No Me Interesas",
       "url": "https://open.spotify.com/track/13P7xlcWQzFMvAGQZniMTS"
+    },
+    {
+      "added_at": "2021-12-29 23:46:57",
+      "album": {
+        "name": "Que No Se Apague La M\u00fasica",
+        "url": "https://open.spotify.com/album/11TUtenhdCYRiv1xEQxaZl"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 113619,
+      "name": "Amor, Amor de Mis Amores",
+      "url": "https://open.spotify.com/track/4TETxb4ElOE3AtrNgQO6PO"
     },
     {
       "added_at": "2021-12-29 23:46:57",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2021-12-29 23:46:57",
       "album": {
-        "name": "Todo",
-        "url": "https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "No Vale la Pena (En Vivo) - En el Palacio de Bellas Artes",
-      "url": "https://open.spotify.com/track/1ZwK7tvuYHoQQju0LBnqWk"
-    },
-    {
-      "added_at": "2021-12-29 23:46:57",
-      "album": {
         "name": "Mexico en la Piel (edicion diamante)",
         "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 165360,
       "name": "Paloma Querida",
       "url": "https://open.spotify.com/track/7nQWIZIZ4W7ZKFbrF5R97L"
+    },
+    {
+      "added_at": "2021-12-29 23:46:57",
+      "album": {
+        "name": "Todo",
+        "url": "https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "No Vale la Pena (En Vivo) - En el Palacio de Bellas Artes",
+      "url": "https://open.spotify.com/track/1ZwK7tvuYHoQQju0LBnqWk"
     },
     {
       "added_at": "2021-12-29 23:46:57",

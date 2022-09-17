@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97h7ftpNSYT.md) - [plain]
 
 > Taking it back to the 2010s\. Cover: PnB Rock
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,860 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,097 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97h7ftpNSYT.md) - [plain]
 | 52 | [Taste \(feat\. Offset\)](https://open.spotify.com/track/5IaHrVsrferBYDm0bDyABy) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Taste \(feat\. Offset\)](https://open.spotify.com/album/0yd01cU78rnlFXq6vRxPSR) | 3:52 |
 | 53 | [G.O.M.D](https://open.spotify.com/track/0Thqjtu54vKMP06pwZkAWp) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive](https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG) | 5:01 |
 | 54 | [Feel No Ways](https://open.spotify.com/track/3cjF2OFRmip8spwZYQRKxP) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 4:00 |
-| 55 | [High Fashion \(feat\. Mustard\)](https://open.spotify.com/track/07KXEDMj78x68D884wgVEm) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k) | [Please Excuse Me for Being Antisocial](https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba) | 3:40 |
-| 56 | [No Flockin'](https://open.spotify.com/track/34oWbFBfGEElvgO0a5c9V4) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [No Flockin'](https://open.spotify.com/album/12YTH28wiBXQ16gvWOCMLU) | 2:45 |
+| 55 | [No Flockin'](https://open.spotify.com/track/34oWbFBfGEElvgO0a5c9V4) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [No Flockin'](https://open.spotify.com/album/12YTH28wiBXQ16gvWOCMLU) | 2:45 |
+| 56 | [High Fashion \(feat\. Mustard\)](https://open.spotify.com/track/07KXEDMj78x68D884wgVEm) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k) | [Please Excuse Me for Being Antisocial](https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba) | 3:40 |
 | 57 | [Look Back at It](https://open.spotify.com/track/3Ol2xnObFdKV9pmRD2t9x8) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Hoodie SZN](https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt) | 2:59 |
 | 58 | [Welcome To The Party](https://open.spotify.com/track/0fIffclhgJC5h8AdMMVvkp) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Meet The Woo](https://open.spotify.com/album/6d1vGZsr6Uy3h9IigBpPAf) | 3:34 |
 | 59 | [Mercy](https://open.spotify.com/track/4qikXelSRKvoCqFcHLB2H2) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Mercy](https://open.spotify.com/album/0hmFRR0pDSZIAvoJqEFSKv) | 5:29 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97h7ftpNSYT.md) - [plain]
 | 92 | [Act Up](https://open.spotify.com/track/3A2yGHWIzmGEIolwonU69h) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Girl Code](https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ) | 2:38 |
 | 93 | [Die Young](https://open.spotify.com/track/3wLtYwtqvKK2ewelSVPeDK) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Feed Tha Streets II](https://open.spotify.com/album/1jlIU9p7PChTK3AeqNpnsX) | 2:37 |
 | 94 | [Digits](https://open.spotify.com/track/4cg1yakyRSIOjxKM2I7J1q) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Slime Season 3](https://open.spotify.com/album/2z4c8M8aVzl7CTobIp36KF) | 2:56 |
-| 95 | [Lifestyle](https://open.spotify.com/track/7DTlsMOQjGysXHpwwpHuPl) | [Rich Gang](https://open.spotify.com/artist/6h2J3dxLnTyURwIUBumKog), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Lifestyle](https://open.spotify.com/album/4EZDdNda2DHRyqoDgTpS4l) | 4:29 |
-| 96 | [100 Shots](https://open.spotify.com/track/3TXy6nchgKeYlVwOKNk9lE) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Bulletproof](https://open.spotify.com/album/55GbaLX8yU1Agf7wjhez7W) | 4:24 |
+| 95 | [100 Shots](https://open.spotify.com/track/3TXy6nchgKeYlVwOKNk9lE) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Bulletproof](https://open.spotify.com/album/55GbaLX8yU1Agf7wjhez7W) | 4:24 |
+| 96 | [Lifestyle](https://open.spotify.com/track/7DTlsMOQjGysXHpwwpHuPl) | [Rich Gang](https://open.spotify.com/artist/6h2J3dxLnTyURwIUBumKog), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Lifestyle](https://open.spotify.com/album/4EZDdNda2DHRyqoDgTpS4l) | 4:29 |
 | 97 | [Oh Okay \(feat\. Young Thug & Lil Baby\)](https://open.spotify.com/track/38844QuZDlnt44uHPrSA3S) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Drip Season 3 \(Deluxe\)](https://open.spotify.com/album/5xtAAHr59ozJ2PQ67utEmi) | 3:19 |
 | 98 | [Fight Night](https://open.spotify.com/track/6Xa2q0dapj03CsRzmD0Os5) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [No Label II](https://open.spotify.com/album/1NIzKm1DqvComMoEF1FZPQ) | 3:36 |
 | 99 | [Broccoli](https://open.spotify.com/track/0qy5D3OJre7SPJNMOL9I71) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Broccoli](https://open.spotify.com/album/4mchkmnzdTYIEAnw2FijA3) | 3:45 |
 | 100 | [New Patek](https://open.spotify.com/track/0Fpen1PTuEnCmOJtUU9Iud) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [New Patek](https://open.spotify.com/album/64eE6FnNj7UJ9LEkN4EbvS) | 5:43 |
 
-Snapshot ID: `MTY2MzA5NDIzMywwMDAwMDAwMDY0ODRiNjY2MzI3ZDRkZjFjYTEzODNlZTkxMjFlMGE2`
+Snapshot ID: `MTY2MzA5NDIzMywwMDAwMDAwMGM0NDAxNDM4ZTE1YWNjNDE4OWYyYjNmM2M2YzFhNmRj`

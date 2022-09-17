@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6JPQU0gqz.md) - [plain]
 
 > Celebrando a los músicos Afro\-Latinos\. Cover: Tego Calderon
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,803 likes - 77 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,804 likes - 77 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6JPQU0gqz.md) - [plain]
 | 65 | [Sin Aire](https://open.spotify.com/track/4m93OTJad26zWgEFprZICX) | [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [Sin Aire](https://open.spotify.com/album/4NA7ABRbQr0hgnmmJXWjBd) | 2:00 |
 | 66 | [Negrita](https://open.spotify.com/track/41p7vS76inehRNOSwYMrNx) | [Nitty Scott](https://open.spotify.com/artist/1Ah5AeHBzgy2b4u6sJtkLg) | [Creature!](https://open.spotify.com/album/4DcsUwb7h7ZxuGffs9q3Gd) | 2:35 |
 | 67 | [7heaven](https://open.spotify.com/track/7DCnJTsmnN25Xzu8gR8sAa) | [Esty](https://open.spotify.com/artist/5GRoRrY3Ug35hVuX3z5Rvq) | [Estyland EP](https://open.spotify.com/album/5ippOikp37VeZaOJBhsUCN) | 2:53 |
-| 68 | [EnVy](https://open.spotify.com/track/1iQiM6BGH52YVPMXVbM6mx) | [Rauli V](https://open.spotify.com/artist/1TyllKWCaozGr3Ytrw95FG) | [EnVy](https://open.spotify.com/album/7MEiQRRyWflSsXeenUGIsl) | 2:49 |
-| 69 | [NO TE VAYAS](https://open.spotify.com/track/6265pP7vOElddtF32MJmts) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [DIADREAMER](https://open.spotify.com/album/3dMeA8bEA9Ianbh9mnyhU9) | 3:10 |
+| 68 | [NO TE VAYAS](https://open.spotify.com/track/6265pP7vOElddtF32MJmts) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [DIADREAMER](https://open.spotify.com/album/3dMeA8bEA9Ianbh9mnyhU9) | 3:10 |
+| 69 | [EnVy](https://open.spotify.com/track/1iQiM6BGH52YVPMXVbM6mx) | [Rauli V](https://open.spotify.com/artist/1TyllKWCaozGr3Ytrw95FG) | [EnVy](https://open.spotify.com/album/7MEiQRRyWflSsXeenUGIsl) | 2:49 |
 | 70 | [Soy](https://open.spotify.com/track/6sBBmnwoII25pWOpy6TmLK) | [Luchy DR](https://open.spotify.com/artist/0SbiXy5hZuC7ZjOXNXygql) | [Lucky 7](https://open.spotify.com/album/3b2Zck8DtLyhMYxUgVDyho) | 3:16 |
 | 71 | [Mismo De Antes](https://open.spotify.com/track/0e3pNr8A7NEAb9ItjHLlfb) | [Los Rakas](https://open.spotify.com/artist/513odGmQbPb6hVERfJGeF0), [Akanni](https://open.spotify.com/artist/0wgIOP9UaikBczBsamAyFh), [Jay Fire](https://open.spotify.com/artist/1V3fm7z9TDaSA5JnfRaWUe), [The F](https://open.spotify.com/artist/12vv65YPMmM49KAsC1mnK5) | [Mismo De Antes](https://open.spotify.com/album/7K1G6hWjrZF7bJqMr4R1Tz) | 3:55 |
 | 72 | [Budy Bye](https://open.spotify.com/track/5U3IT5EsLJ71XUVXaaG5ds) | [Johnny Osbourne](https://open.spotify.com/artist/5TUTGRG0FlRoYTZ4GEdOVO) | [Sleng Teng Riddim](https://open.spotify.com/album/0yvN4eN3T0OZwPiVARh5ci) | 4:20 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6JPQU0gqz.md) - [plain]
 | 76 | [Latinos](https://open.spotify.com/track/5Ym38eMwTsm4P4aEEMlxlJ) | [Aldo Ranks](https://open.spotify.com/artist/0lsEtpjLWn4S7KBra82VG3) | [Latinos](https://open.spotify.com/album/4aRHR4cVo99A4Zp1XTgL30) | 3:31 |
 | 77 | [La rebelion](https://open.spotify.com/track/00Ro1lnV3V6i87aY4t8Q43) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg) | [Sabor a Salsa](https://open.spotify.com/album/4168LZnMKT5rgITtNBbo5z) | 6:16 |
 
-Snapshot ID: `MTY2MzA3NTI1NywwMDAwMDAwMDJjOWEwN2ZhYWEyODkzZjM0NmFhYzE0NmFjOGYwODk3`
+Snapshot ID: `MTY2MzA3NTI1NywwMDAwMDAwMGFjYWIwNTczYjBjYzk2Y2Q3ZTFkYTYxZmEyYWQwOTUw`

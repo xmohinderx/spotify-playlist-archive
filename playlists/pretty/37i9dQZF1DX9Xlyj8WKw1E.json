@@ -1,36 +1,32 @@
 {
   "description": "Midwest music breaking waves. Cover, Midwxst",
-  "num_followers": 2293,
+  "num_followers": 2296,
   "original_name": "Ripple Effect:  Midwest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mjk5ODg5NiwwMDAwMDAwMDY3YjM1NmY1YjQ0ZWM1MzhiNThkMTMxNDFhZTIyMDdl",
+  "snapshot_id": "MTY2MzM2MjU2OSwwMDAwMDAwMDc5MTU5YTg3MzYwMmY4OTA3MmNjMTFjMTcyYjUyMmRi",
   "tracks": [
     {
-      "added_at": "2022-09-09 18:58:22",
+      "added_at": "2022-09-16 21:09:29",
       "album": {
-        "name": "Ghetto Superstar (feat. G Herbo & Doe Boy)",
-        "url": "https://open.spotify.com/album/2MTfZnikwjrMJ20QSomF5j"
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/7yf3T5Ga0DpWFjqzoMkXK2"
       },
       "artists": [
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        },
         {
           "name": "G Herbo",
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
         },
         {
-          "name": "Doe Boy",
-          "url": "https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC"
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
-      "duration_ms": 244853,
-      "name": "Ghetto Superstar (feat. G Herbo & Doe Boy)",
-      "url": "https://open.spotify.com/track/5QdVpZhASstTN4BBwglPz6"
+      "duration_ms": 145862,
+      "name": "Blues (feat. Future)",
+      "url": "https://open.spotify.com/track/28gBJ6GG1orRuc4Ck3y45n"
     },
     {
       "added_at": "2022-08-26 19:10:56",
@@ -77,6 +73,30 @@
       "url": "https://open.spotify.com/track/3umPlMokEzAFxJO33tNdlY"
     },
     {
+      "added_at": "2022-09-09 18:58:22",
+      "album": {
+        "name": "Ghetto Superstar (feat. G Herbo & Doe Boy)",
+        "url": "https://open.spotify.com/album/2MTfZnikwjrMJ20QSomF5j"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Doe Boy",
+          "url": "https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC"
+        }
+      ],
+      "duration_ms": 244853,
+      "name": "Ghetto Superstar (feat. G Herbo & Doe Boy)",
+      "url": "https://open.spotify.com/track/5QdVpZhASstTN4BBwglPz6"
+    },
+    {
       "added_at": "2022-08-12 17:16:26",
       "album": {
         "name": "It's All on U",
@@ -113,26 +133,6 @@
       "url": "https://open.spotify.com/track/2opW6xGI3lD8wlc8j3EGtd"
     },
     {
-      "added_at": "2022-09-09 18:58:22",
-      "album": {
-        "name": "Me, Myself & I",
-        "url": "https://open.spotify.com/album/1DPEBGUF1in1fQwA5VoQsL"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        },
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 221468,
-      "name": "Me, Myself & I (with A Boogie wit da Hoodie)",
-      "url": "https://open.spotify.com/track/02sYTqX64iVIIHCNA9hWyh"
-    },
-    {
       "added_at": "2022-08-01 14:28:10",
       "album": {
         "name": "Fuck My Cousin, Pt. II (feat. Lil Durk)",
@@ -167,6 +167,26 @@
       "duration_ms": 158392,
       "name": "Anotha One",
       "url": "https://open.spotify.com/track/5NZtLC1p5RPFUPGmPq96zl"
+    },
+    {
+      "added_at": "2022-09-09 18:58:22",
+      "album": {
+        "name": "Me, Myself & I",
+        "url": "https://open.spotify.com/album/1DPEBGUF1in1fQwA5VoQsL"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 221468,
+      "name": "Me, Myself & I (with A Boogie wit da Hoodie)",
+      "url": "https://open.spotify.com/track/02sYTqX64iVIIHCNA9hWyh"
     },
     {
       "added_at": "2022-09-02 20:08:40",
@@ -277,6 +297,26 @@
       "url": "https://open.spotify.com/track/0b7UwotRCrS7qBoLDjfvSY"
     },
     {
+      "added_at": "2022-09-16 21:09:29",
+      "album": {
+        "name": "Say Datt",
+        "url": "https://open.spotify.com/album/5pbbxNP5PcmG8lh0iZx0f0"
+      },
+      "artists": [
+        {
+          "name": "Fastmoney Ant",
+          "url": "https://open.spotify.com/artist/1r1AoJILFfEvsqNiG85zwL"
+        },
+        {
+          "name": "Lil Zay Osama",
+          "url": "https://open.spotify.com/artist/7rkcFChEJ9tCLcVevtu0Nt"
+        }
+      ],
+      "duration_ms": 151227,
+      "name": "Say Datt",
+      "url": "https://open.spotify.com/track/14Rg3f4eF9LoVZObgxkKiP"
+    },
+    {
       "added_at": "2022-07-18 21:46:49",
       "album": {
         "name": "Switch Music",
@@ -361,6 +401,30 @@
       "url": "https://open.spotify.com/track/5cx7vkF8BQ0iOsVpfvZbnz"
     },
     {
+      "added_at": "2022-09-16 21:09:29",
+      "album": {
+        "name": "HDBG (Shemix)",
+        "url": "https://open.spotify.com/album/6ol7utlb56Owco0kPzLhbt"
+      },
+      "artists": [
+        {
+          "name": "cupcakKe",
+          "url": "https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM"
+        },
+        {
+          "name": "Erica Banks",
+          "url": "https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM"
+        },
+        {
+          "name": "Tweeday",
+          "url": "https://open.spotify.com/artist/6X94tEGcPVz8dyYUZqUHWj"
+        }
+      ],
+      "duration_ms": 141453,
+      "name": "HDBG (Shemix)",
+      "url": "https://open.spotify.com/track/2A59foYLjX4iUuvtncE8BZ"
+    },
+    {
       "added_at": "2022-08-19 19:57:18",
       "album": {
         "name": "Back 2 Back (feat. CEO Trayle)",
@@ -409,22 +473,6 @@
       "url": "https://open.spotify.com/track/69Q3vsqXFMKhZGTHssGSDC"
     },
     {
-      "added_at": "2022-09-02 20:08:40",
-      "album": {
-        "name": "GO GO GO!",
-        "url": "https://open.spotify.com/album/0122L1z0RmowcHYZTg7tLo"
-      },
-      "artists": [
-        {
-          "name": "YSN Flow",
-          "url": "https://open.spotify.com/artist/1je11NKORfLMSjgSNP0DPF"
-        }
-      ],
-      "duration_ms": 135440,
-      "name": "GO GO GO!",
-      "url": "https://open.spotify.com/track/6WBOshy2g5d3HiFMCRmsoF"
-    },
-    {
       "added_at": "2022-08-01 14:28:10",
       "album": {
         "name": "CATCH ME IF YOU CAN",
@@ -439,26 +487,6 @@
       "duration_ms": 156543,
       "name": "FOOT ON NECK",
       "url": "https://open.spotify.com/track/3MJ3z0VOd9pzRXbQIA4Lmf"
-    },
-    {
-      "added_at": "2022-09-02 20:08:40",
-      "album": {
-        "name": "Pages",
-        "url": "https://open.spotify.com/album/4mt2fPV3Yk3CgsZNiuRHl9"
-      },
-      "artists": [
-        {
-          "name": "Rockie Fresh",
-          "url": "https://open.spotify.com/artist/5Joy3NHmxKQGEOnjxtaMz3"
-        },
-        {
-          "name": "ISM",
-          "url": "https://open.spotify.com/artist/1PmIns535yeirIKo6HpHMe"
-        }
-      ],
-      "duration_ms": 112175,
-      "name": "Pages",
-      "url": "https://open.spotify.com/track/10yOU0oIfzz7SxdlQjtBKo"
     },
     {
       "added_at": "2022-07-01 03:55:56",
@@ -479,6 +507,34 @@
       "duration_ms": 255609,
       "name": "The Highs & The Lows",
       "url": "https://open.spotify.com/track/7DKJP7ksSaJn4YyBkcBDii"
+    },
+    {
+      "added_at": "2022-09-16 21:09:29",
+      "album": {
+        "name": "Real Bad Flights",
+        "url": "https://open.spotify.com/album/5IzL4SNjpC0xWGSmXoPy3o"
+      },
+      "artists": [
+        {
+          "name": "Pink Siifu",
+          "url": "https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh"
+        },
+        {
+          "name": "Real Bad Man",
+          "url": "https://open.spotify.com/artist/1AmknJ29fbA6ahZXxFCNLE"
+        },
+        {
+          "name": "EZ",
+          "url": "https://open.spotify.com/artist/4a1e24ig2L5QRg85bpKxU3"
+        },
+        {
+          "name": "Kari Faux",
+          "url": "https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB"
+        }
+      ],
+      "duration_ms": 209934,
+      "name": "Off the Plane (feat. EZ & Kari Faux)",
+      "url": "https://open.spotify.com/track/0UIz7wMSXJdAd59NSZScLA"
     },
     {
       "added_at": "2022-09-09 18:58:22",
@@ -541,6 +597,26 @@
       "url": "https://open.spotify.com/track/2MSEJtE3R2SaM7jAooknT5"
     },
     {
+      "added_at": "2022-09-16 21:09:29",
+      "album": {
+        "name": "Xtasy (Remix) [feat. Doechii]",
+        "url": "https://open.spotify.com/album/4Wofyf34UgjYpqwPAELW7n"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        },
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 270497,
+      "name": "Xtasy (Remix) [feat. Doechii]",
+      "url": "https://open.spotify.com/track/610faOY46uYOBi3KXazpSj"
+    },
+    {
       "added_at": "2022-08-19 19:57:18",
       "album": {
         "name": "Pillow Talk",
@@ -559,6 +635,26 @@
       "duration_ms": 174175,
       "name": "Mine",
       "url": "https://open.spotify.com/track/7opxatMp7hibegdRc3Vnid"
+    },
+    {
+      "added_at": "2022-09-16 21:09:29",
+      "album": {
+        "name": "Game Over (with Queen Naija)",
+        "url": "https://open.spotify.com/album/6UtOcqphciSIZPqkl66UqR"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        },
+        {
+          "name": "Queen Naija",
+          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
+        }
+      ],
+      "duration_ms": 208777,
+      "name": "Game Over (with Queen Naija)",
+      "url": "https://open.spotify.com/track/1l6NtBAh7CHmV4OY4PZZs8"
     },
     {
       "added_at": "2022-08-26 19:10:56",
@@ -621,20 +717,28 @@
       "url": "https://open.spotify.com/track/4IcsgDL3uJb66KEV18roiI"
     },
     {
-      "added_at": "2022-08-19 19:57:18",
+      "added_at": "2022-09-16 21:09:29",
       "album": {
-        "name": "No Cap",
-        "url": "https://open.spotify.com/album/2SZxhThifkET4uVVYqGvUU"
+        "name": "Believe (Stimulator Jones Remix)",
+        "url": "https://open.spotify.com/album/0BVAjSv4kEmopbL8Elklv4"
       },
       "artists": [
         {
-          "name": "Shoebox Baby",
-          "url": "https://open.spotify.com/artist/3GXyMzBhozW9CaHPg54y9f"
+          "name": "B. Bravo",
+          "url": "https://open.spotify.com/artist/7xc31aDpVtMW34JWjZvAG4"
+        },
+        {
+          "name": "Chuck Inglish",
+          "url": "https://open.spotify.com/artist/64MoApwh8MFMHUarm13lrv"
+        },
+        {
+          "name": "Stimulator Jones",
+          "url": "https://open.spotify.com/artist/7uuvPwRD3I1UHDPNnbaY6C"
         }
       ],
-      "duration_ms": 136258,
-      "name": "No Cap",
-      "url": "https://open.spotify.com/track/4wLWQs5JlZ8NvPzrRepgER"
+      "duration_ms": 173742,
+      "name": "Believe - Stimulator Jones Remix",
+      "url": "https://open.spotify.com/track/2U77XlwVr3PLiSeiW92J2K"
     },
     {
       "added_at": "2022-08-12 17:16:26",
@@ -753,26 +857,6 @@
       "url": "https://open.spotify.com/track/5iqshVJZ5mWUZo0be4tnJS"
     },
     {
-      "added_at": "2022-08-12 17:16:26",
-      "album": {
-        "name": "COCO BADASS (feat. Ki\u00e9la Adira)",
-        "url": "https://open.spotify.com/album/5EWZ64UeGjsqpINZhNkhq4"
-      },
-      "artists": [
-        {
-          "name": "Ric Wilson",
-          "url": "https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR"
-        },
-        {
-          "name": "Ki\u00e9la Adira",
-          "url": "https://open.spotify.com/artist/4yd2a7A5sVp0QEzPQASBkY"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "COCO BADASS (feat. Ki\u00e9la Adira)",
-      "url": "https://open.spotify.com/track/3KMTZV1aEMrzrObovCpf6d"
-    },
-    {
       "added_at": "2022-08-26 19:10:56",
       "album": {
         "name": "Jealous",
@@ -789,44 +873,20 @@
       "url": "https://open.spotify.com/track/3GhxkACruFtLxRNlivQfET"
     },
     {
-      "added_at": "2022-07-22 19:59:25",
+      "added_at": "2022-09-16 21:09:29",
       "album": {
-        "name": "Pain Never Looked This Good (Night)",
-        "url": "https://open.spotify.com/album/7yjMed4dr5ZOKIbLI3mXP5"
+        "name": "Dance",
+        "url": "https://open.spotify.com/album/68Fi9xhCZN2WCQpCQthoLY"
       },
       "artists": [
         {
-          "name": "Ann Marie",
-          "url": "https://open.spotify.com/artist/3feB1IF85It42sebtWSqws"
-        },
-        {
-          "name": "Big Boogie",
-          "url": "https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs"
+          "name": "Rockie Fresh",
+          "url": "https://open.spotify.com/artist/5Joy3NHmxKQGEOnjxtaMz3"
         }
       ],
-      "duration_ms": 150746,
-      "name": "Freak Nasty",
-      "url": "https://open.spotify.com/track/6FQrsqNNyWbRAn4pIpcjPG"
-    },
-    {
-      "added_at": "2022-07-01 03:55:56",
-      "album": {
-        "name": "Praise & Worship",
-        "url": "https://open.spotify.com/album/09AhjqYpkeVim8uln6uD5U"
-      },
-      "artists": [
-        {
-          "name": "Earlly Mac",
-          "url": "https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ"
-        },
-        {
-          "name": "Jerreau",
-          "url": "https://open.spotify.com/artist/1xMXwKQhYLclPctEzpm4nr"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Dark Man X",
-      "url": "https://open.spotify.com/track/7CG8yhP3ybtiNsZjfyjOv0"
+      "duration_ms": 120048,
+      "name": "Dance",
+      "url": "https://open.spotify.com/track/6lQIvzV8RmhUeIEjmNeSgK"
     },
     {
       "added_at": "2022-09-09 18:58:22",
@@ -847,22 +907,6 @@
       "duration_ms": 202325,
       "name": "Step Alone (feat. Joey Bada$$)",
       "url": "https://open.spotify.com/track/5amg9B9k21LslaY7Eb50l7"
-    },
-    {
-      "added_at": "2022-08-12 17:16:26",
-      "album": {
-        "name": "As I Am",
-        "url": "https://open.spotify.com/album/105kRcbFbQt0LKvJekcixi"
-      },
-      "artists": [
-        {
-          "name": "Mark Battles",
-          "url": "https://open.spotify.com/artist/24SwsBq76FnNeXW9Do4wPI"
-        }
-      ],
-      "duration_ms": 182693,
-      "name": "4Real",
-      "url": "https://open.spotify.com/track/5BITVk0U3V7Q8DRaQSJTCr"
     },
     {
       "added_at": "2022-08-12 17:16:26",
@@ -971,30 +1015,6 @@
       "duration_ms": 162387,
       "name": "floating",
       "url": "https://open.spotify.com/track/2PKeOgJhTy7ryQWtd58iXa"
-    },
-    {
-      "added_at": "2022-09-02 20:08:40",
-      "album": {
-        "name": "Looking for Water (feat. Boldy James)",
-        "url": "https://open.spotify.com/album/3xeIVO8AdEG1Xhga373Xi6"
-      },
-      "artists": [
-        {
-          "name": "Pink Siifu",
-          "url": "https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh"
-        },
-        {
-          "name": "Real Bad Man",
-          "url": "https://open.spotify.com/artist/1AmknJ29fbA6ahZXxFCNLE"
-        },
-        {
-          "name": "Boldy James",
-          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
-        }
-      ],
-      "duration_ms": 163850,
-      "name": "Looking for Water (feat. Boldy James)",
-      "url": "https://open.spotify.com/track/3d7ElSqY4RDoqSWe5rJCAc"
     },
     {
       "added_at": "2022-08-26 19:10:56",

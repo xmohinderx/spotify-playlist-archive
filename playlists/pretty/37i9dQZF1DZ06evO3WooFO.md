@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3WooFO.md) - [plain]
 
 > This is blink\-182\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 444,375 likes - 48 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 444,512 likes - 47 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3WooFO.md) - [plain]
 | 17 | [Aliens Exist](https://open.spotify.com/track/3nqm3DdVskqbHhmb8S8hMd) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Enema Of The State](https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2) | 3:13 |
 | 18 | [Darkside](https://open.spotify.com/track/39n1y2JqVOPIdfUeLqzgfl) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [NINE](https://open.spotify.com/album/4gARZz9eV7zbGbtOjhVTPF) | 3:00 |
 | 19 | [Every Time I Look For You](https://open.spotify.com/track/0V7Wn8Fry7KBO5stYqpFvM) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Take Off Your Pants And Jacket](https://open.spotify.com/album/3nHpBmW5wJXGeC3ojBkpey) | 3:05 |
-| 20 | [Man Overboard](https://open.spotify.com/track/1PRknVhZ6BsVX61MPrrVsV) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [The Mark, Tom And Travis Show \(The Enema Strikes Back!\) \[Live\]](https://open.spotify.com/album/1rkcABZWlix3sYH6XLUSAz) | 2:46 |
+| 20 | [IT'S ALL FADING TO BLACK](https://open.spotify.com/track/0R6dvBlNevqkzioHLoygbI) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4), [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Bad Vibes Forever](https://open.spotify.com/album/3hn46RDrEmoi4XhLjgdNjZ) | 2:31 |
 | 21 | [Going Away To College](https://open.spotify.com/track/4TofVhKSYwFXRtbYo5M3h4) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Enema Of The State](https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2) | 2:59 |
-| 22 | [IT'S ALL FADING TO BLACK](https://open.spotify.com/track/0R6dvBlNevqkzioHLoygbI) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4), [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Bad Vibes Forever](https://open.spotify.com/album/3hn46RDrEmoi4XhLjgdNjZ) | 2:31 |
+| 22 | [Man Overboard](https://open.spotify.com/track/1PRknVhZ6BsVX61MPrrVsV) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [The Mark, Tom And Travis Show \(The Enema Strikes Back!\) \[Live\]](https://open.spotify.com/album/1rkcABZWlix3sYH6XLUSAz) | 2:46 |
 | 23 | [Carousel](https://open.spotify.com/track/3gVXAW2pduBl7tzjAGUVRb) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Cheshire Cat](https://open.spotify.com/album/6uTjljlshthbtA2U7V6u83) | 3:14 |
 | 24 | [Reckless Abandon](https://open.spotify.com/track/4N9fFHRxns1B86F8YTneBz) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Take Off Your Pants And Jacket](https://open.spotify.com/album/3nHpBmW5wJXGeC3ojBkpey) | 3:06 |
 | 25 | [Scumbag \(feat\. blink\-182\)](https://open.spotify.com/track/75nfWESNoYX9X7c82l9Rtk) | [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30), [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Don't Forget Where You Came From](https://open.spotify.com/album/3kYDYtruq1Vw1INE5UjV3u) | 3:30 |
@@ -42,19 +42,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3WooFO.md) - [plain]
 | 32 | [Obvious](https://open.spotify.com/track/1KcmugpUozu6Llj3p5Qboa) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [blink\-182](https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp) | 2:43 |
 | 33 | [San Diego](https://open.spotify.com/track/68jM3HGqCToav6bsNY2slc) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [California](https://open.spotify.com/album/4wuYQ9hyF1EGmrtjMpgpE9) | 3:12 |
 | 34 | [M+M's](https://open.spotify.com/track/6A82LV89Dc6eMJI4ocqwUS) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Cheshire Cat](https://open.spotify.com/album/6uTjljlshthbtA2U7V6u83) | 2:39 |
-| 35 | [Pin the Grenade](https://open.spotify.com/track/330cmrgtnIj4NtPTYdDOZv) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [NINE](https://open.spotify.com/album/4gARZz9eV7zbGbtOjhVTPF) | 2:59 |
+| 35 | [Blame It On My Youth](https://open.spotify.com/track/5vGtrfeMjb03aDHGDaIakG) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [NINE](https://open.spotify.com/album/4gARZz9eV7zbGbtOjhVTPF) | 3:05 |
 | 36 | [Misery](https://open.spotify.com/track/1gofFAslBqWqeZ1F73GaJe) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [California \(Deluxe Edition\)](https://open.spotify.com/album/0jLf8ecN5HjstQqPAjJlsS) | 3:51 |
 | 37 | [Home Is Such A Lonely Place](https://open.spotify.com/track/7fYOZjdpOv8dBtzPnXysOG) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [California](https://open.spotify.com/album/4wuYQ9hyF1EGmrtjMpgpE9) | 3:21 |
 | 38 | [P.S\. I Hope You're Happy](https://open.spotify.com/track/5GemR0Lr9CEUJVH14mAsDO) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [World War Joy](https://open.spotify.com/album/01GR4NL5O5CZM51k0aejKD) | 3:45 |
-| 39 | [Blame It On My Youth](https://open.spotify.com/track/5vGtrfeMjb03aDHGDaIakG) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [NINE](https://open.spotify.com/album/4gARZz9eV7zbGbtOjhVTPF) | 3:05 |
+| 39 | [Pin the Grenade](https://open.spotify.com/track/330cmrgtnIj4NtPTYdDOZv) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [NINE](https://open.spotify.com/album/4gARZz9eV7zbGbtOjhVTPF) | 2:59 |
 | 40 | [Pathetic](https://open.spotify.com/track/3DuH3vgKy6oqhgesvbH1ZC) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Dude Ranch](https://open.spotify.com/album/0RADUK8yTUBidzBke6Eszq) | 2:28 |
-| 41 | [Sober](https://open.spotify.com/track/3XNwHDhzksSGjQf2jBCsih) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [California](https://open.spotify.com/album/4wuYQ9hyF1EGmrtjMpgpE9) | 2:59 |
+| 41 | [No Future](https://open.spotify.com/track/5Uwm4pdpaaW3yari6ymMTT) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [California](https://open.spotify.com/album/4wuYQ9hyF1EGmrtjMpgpE9) | 3:45 |
 | 42 | [Wishing Well](https://open.spotify.com/track/4M4taWkQGn3FcbH6tnH6mx) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Neighborhoods \(Deluxe Explicit Version\)](https://open.spotify.com/album/0KjLbdlJYvtzXjGTwPy3lv) | 3:20 |
 | 43 | [Dogs Eating Dogs](https://open.spotify.com/track/5uqOdeWBd2gFKUAJPoy1q6) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Dogs Eating Dogs](https://open.spotify.com/album/3Jpdv1X5cweLrcebtM1tar) | 3:30 |
 | 44 | [Apple Shampoo](https://open.spotify.com/track/46MoFdSoufjnzJ2NWuhRA0) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Dude Ranch](https://open.spotify.com/album/0RADUK8yTUBidzBke6Eszq) | 2:52 |
-| 45 | [No Future](https://open.spotify.com/track/5Uwm4pdpaaW3yari6ymMTT) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [California](https://open.spotify.com/album/4wuYQ9hyF1EGmrtjMpgpE9) | 3:45 |
+| 45 | [Sober](https://open.spotify.com/track/3XNwHDhzksSGjQf2jBCsih) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [California](https://open.spotify.com/album/4wuYQ9hyF1EGmrtjMpgpE9) | 2:59 |
 | 46 | [Up All Night](https://open.spotify.com/track/1bvbL0HbprbpwmzwaZczr2) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Neighborhoods \(Deluxe Explicit Version\)](https://open.spotify.com/album/0KjLbdlJYvtzXjGTwPy3lv) | 3:19 |
 | 47 | [Even If She Falls](https://open.spotify.com/track/4s7qEhuFacYJMJjTISwTSo) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Neighborhoods \(Deluxe\)](https://open.spotify.com/album/2xSmzzqWM6cqaC92Hf7Dyv) | 2:59 |
-| 48 | [Ghost On The Dance Floor](https://open.spotify.com/track/2qg7jm9wp4HM6CMcZxVYOC) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Neighborhoods \(Deluxe\)](https://open.spotify.com/album/2xSmzzqWM6cqaC92Hf7Dyv) | 4:17 |
 
-Snapshot ID: `Mjc3MjA4MTYsMDAwMDAwMDA1ZmE0MDM4YmYxYzg1OTM1MmNlYTg0YWJmODBjOWQ1Ng==`
+Snapshot ID: `Mjc3MjIyMzMsMDAwMDAwMDA0YjJiZTQ5NTBkYWNjMzgzOGRhMTdhYzVkZmNkOTJmYQ==`

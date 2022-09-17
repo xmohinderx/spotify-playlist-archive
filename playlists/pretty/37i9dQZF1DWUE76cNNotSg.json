@@ -1,12 +1,12 @@
 {
   "description": "Warm indie dance vibes, the music you need at golden hour.",
-  "num_followers": 387993,
+  "num_followers": 388271,
   "original_name": "golden hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ4NjQwMCwwMDAwMDAwMDcxMWYxOWQ2NzUwMDJiMjljNGY4YTQ4Y2EwNzI0YzJm",
+  "snapshot_id": "MTY2MTQ4NjQwMCwwMDAwMDAwMGVjMjgxZmEyODZkZDE5ZTRiM2JkOWRlZDg1M2IzYmI5",
   "tracks": [
     {
       "added_at": "2020-12-22 17:15:29",
@@ -455,22 +455,6 @@
     {
       "added_at": "2020-12-22 17:15:29",
       "album": {
-        "name": "Rust & Gold",
-        "url": "https://open.spotify.com/album/12FsF7zGKN58k2VTlzwDAU"
-      },
-      "artists": [
-        {
-          "name": "Isaac Delusion",
-          "url": "https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG"
-        }
-      ],
-      "duration_ms": 220626,
-      "name": "How Much (You Want Her) 2017",
-      "url": "https://open.spotify.com/track/1B0ymvBm70MZR2TnZJUSXZ"
-    },
-    {
-      "added_at": "2020-12-22 17:15:29",
-      "album": {
         "name": "Right Down the Line",
         "url": "https://open.spotify.com/album/0xMvVtSsEL5HMYql9ZiRoI"
       },
@@ -487,22 +471,18 @@
     {
       "added_at": "2020-12-22 17:15:29",
       "album": {
-        "name": "Someone\u2019s EP II X",
-        "url": "https://open.spotify.com/album/6tUqkoCwuE4NffYRmMPVNR"
+        "name": "Rust & Gold",
+        "url": "https://open.spotify.com/album/12FsF7zGKN58k2VTlzwDAU"
       },
       "artists": [
         {
-          "name": "BAYNK",
-          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
-        },
-        {
-          "name": "Louis La Roche",
-          "url": "https://open.spotify.com/artist/0a03X57i18eG1yBzpmhZAs"
+          "name": "Isaac Delusion",
+          "url": "https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG"
         }
       ],
-      "duration_ms": 266289,
-      "name": "go with u - Louis La Roche Remix",
-      "url": "https://open.spotify.com/track/5FxcDJENpjWY6lL9CnbHgc"
+      "duration_ms": 220626,
+      "name": "How Much (You Want Her) 2017",
+      "url": "https://open.spotify.com/track/1B0ymvBm70MZR2TnZJUSXZ"
     },
     {
       "added_at": "2020-12-22 17:15:29",
@@ -523,6 +503,26 @@
       "duration_ms": 198000,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/1FJYX0a18UBzFOWzec43Ih"
+    },
+    {
+      "added_at": "2020-12-22 17:15:29",
+      "album": {
+        "name": "Someone\u2019s EP II X",
+        "url": "https://open.spotify.com/album/6tUqkoCwuE4NffYRmMPVNR"
+      },
+      "artists": [
+        {
+          "name": "BAYNK",
+          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
+        },
+        {
+          "name": "Louis La Roche",
+          "url": "https://open.spotify.com/artist/0a03X57i18eG1yBzpmhZAs"
+        }
+      ],
+      "duration_ms": 266289,
+      "name": "go with u - Louis La Roche Remix",
+      "url": "https://open.spotify.com/track/5FxcDJENpjWY6lL9CnbHgc"
     },
     {
       "added_at": "2020-12-22 17:15:29",
@@ -747,22 +747,6 @@
     {
       "added_at": "2020-12-22 17:15:29",
       "album": {
-        "name": "Sister",
-        "url": "https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL"
-      },
-      "artists": [
-        {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        }
-      ],
-      "duration_ms": 268829,
-      "name": "Sister",
-      "url": "https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz"
-    },
-    {
-      "added_at": "2020-12-22 17:15:29",
-      "album": {
         "name": "Home For Now",
         "url": "https://open.spotify.com/album/4qdyokbbBtstJS3cwipv5c"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 222439,
       "name": "Drift",
       "url": "https://open.spotify.com/track/4Sf23jc43dY15uoRQ4fWjf"
+    },
+    {
+      "added_at": "2020-12-22 17:15:29",
+      "album": {
+        "name": "Sister",
+        "url": "https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        }
+      ],
+      "duration_ms": 268829,
+      "name": "Sister",
+      "url": "https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz"
     },
     {
       "added_at": "2020-12-22 17:15:29",
@@ -887,6 +887,26 @@
     {
       "added_at": "2020-12-22 17:15:29",
       "album": {
+        "name": "Luv Is Not Enough (Remixes)",
+        "url": "https://open.spotify.com/album/1sOtcGkBxbq7CflXDnVFYa"
+      },
+      "artists": [
+        {
+          "name": "Miami Horror",
+          "url": "https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37"
+        },
+        {
+          "name": "Clear Mortifee",
+          "url": "https://open.spotify.com/artist/2YQJdQtHgTYz4u9vvf3DgJ"
+        }
+      ],
+      "duration_ms": 197894,
+      "name": "Luv Is Not Enough",
+      "url": "https://open.spotify.com/track/0Hy5csM0LflFU0vUU9wFpj"
+    },
+    {
+      "added_at": "2020-12-22 17:15:29",
+      "album": {
         "name": "Sunlight (feat. Years & Years) [Remixes]",
         "url": "https://open.spotify.com/album/08jeLY28AzZc8yEQ9jcUBO"
       },
@@ -911,22 +931,6 @@
     {
       "added_at": "2020-12-22 17:15:29",
       "album": {
-        "name": "Taking Over",
-        "url": "https://open.spotify.com/album/5jEBgUyhPLu3QUoZvbRdCa"
-      },
-      "artists": [
-        {
-          "name": "Joe Goddard",
-          "url": "https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5"
-        }
-      ],
-      "duration_ms": 336867,
-      "name": "Taking Over",
-      "url": "https://open.spotify.com/track/1nvBoPz0o0Y5WYT5aaoSKZ"
-    },
-    {
-      "added_at": "2020-12-22 17:15:29",
-      "album": {
         "name": "In Colour",
         "url": "https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ"
       },
@@ -947,22 +951,18 @@
     {
       "added_at": "2020-12-22 17:15:29",
       "album": {
-        "name": "Luv Is Not Enough (Remixes)",
-        "url": "https://open.spotify.com/album/1sOtcGkBxbq7CflXDnVFYa"
+        "name": "Taking Over",
+        "url": "https://open.spotify.com/album/5jEBgUyhPLu3QUoZvbRdCa"
       },
       "artists": [
         {
-          "name": "Miami Horror",
-          "url": "https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37"
-        },
-        {
-          "name": "Clear Mortifee",
-          "url": "https://open.spotify.com/artist/2YQJdQtHgTYz4u9vvf3DgJ"
+          "name": "Joe Goddard",
+          "url": "https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5"
         }
       ],
-      "duration_ms": 197894,
-      "name": "Luv Is Not Enough",
-      "url": "https://open.spotify.com/track/0Hy5csM0LflFU0vUU9wFpj"
+      "duration_ms": 336867,
+      "name": "Taking Over",
+      "url": "https://open.spotify.com/track/1nvBoPz0o0Y5WYT5aaoSKZ"
     },
     {
       "added_at": "2020-12-22 17:15:29",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2020-12-22 17:15:29",
       "album": {
+        "name": "Shine A Light",
+        "url": "https://open.spotify.com/album/1r0jL1OzptvUXSe7YrF9j9"
+      },
+      "artists": [
+        {
+          "name": "The C90s",
+          "url": "https://open.spotify.com/artist/40axc1GOR5BCEmC9QfI4Ej"
+        }
+      ],
+      "duration_ms": 349962,
+      "name": "Shine A Light - Flight Facilities Remix",
+      "url": "https://open.spotify.com/track/68yqiuPVxrT9OySWFDwDDd"
+    },
+    {
+      "added_at": "2020-12-22 17:15:29",
+      "album": {
         "name": "Low Season",
         "url": "https://open.spotify.com/album/7LFYknpolISd3ObShh7nSe"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 237560,
       "name": "Kinda Lovely",
       "url": "https://open.spotify.com/track/3g3lqFthZ9yjNhcCjUDzFW"
-    },
-    {
-      "added_at": "2020-12-22 17:15:29",
-      "album": {
-        "name": "Shine A Light",
-        "url": "https://open.spotify.com/album/1r0jL1OzptvUXSe7YrF9j9"
-      },
-      "artists": [
-        {
-          "name": "The C90s",
-          "url": "https://open.spotify.com/artist/40axc1GOR5BCEmC9QfI4Ej"
-        }
-      ],
-      "duration_ms": 349962,
-      "name": "Shine A Light - Flight Facilities Remix",
-      "url": "https://open.spotify.com/track/68yqiuPVxrT9OySWFDwDDd"
     },
     {
       "added_at": "2020-12-22 17:15:29",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2020-12-22 17:15:29",
       "album": {
+        "name": "These Days",
+        "url": "https://open.spotify.com/album/1EAPdPWIn8Y6KvGI3OGUJa"
+      },
+      "artists": [
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        }
+      ],
+      "duration_ms": 233454,
+      "name": "These Days",
+      "url": "https://open.spotify.com/track/2elnaPXB82wgWJFZop0TJq"
+    },
+    {
+      "added_at": "2020-12-22 17:15:29",
+      "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/7crhe15k1Qn72AWzAHMVOt"
       },
@@ -1235,6 +1251,22 @@
       "duration_ms": 216032,
       "name": "Memories",
       "url": "https://open.spotify.com/track/2EEZdCeGp095urJDE3wEpS"
+    },
+    {
+      "added_at": "2020-12-22 17:15:29",
+      "album": {
+        "name": "Chika (scared)",
+        "url": "https://open.spotify.com/album/0BacQ1J2UePRp2gE7zGk2z"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 168245,
+      "name": "Chika (scared)",
+      "url": "https://open.spotify.com/track/4pDE8vhtcEb90Eq2SvdWyB"
     },
     {
       "added_at": "2020-12-22 17:15:29",
@@ -1255,22 +1287,6 @@
     {
       "added_at": "2020-12-22 17:15:29",
       "album": {
-        "name": "These Days",
-        "url": "https://open.spotify.com/album/1EAPdPWIn8Y6KvGI3OGUJa"
-      },
-      "artists": [
-        {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
-        }
-      ],
-      "duration_ms": 233454,
-      "name": "These Days",
-      "url": "https://open.spotify.com/track/2elnaPXB82wgWJFZop0TJq"
-    },
-    {
-      "added_at": "2020-12-22 17:15:29",
-      "album": {
         "name": "Don't Turn Around",
         "url": "https://open.spotify.com/album/1nJ6X5PejqyhbHpG9Ycf5N"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 171699,
       "name": "Don't Turn Around",
       "url": "https://open.spotify.com/track/1eYKJWV1eK85T5AZwvwOuH"
-    },
-    {
-      "added_at": "2020-12-22 17:15:29",
-      "album": {
-        "name": "Chika (scared)",
-        "url": "https://open.spotify.com/album/0BacQ1J2UePRp2gE7zGk2z"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 168245,
-      "name": "Chika (scared)",
-      "url": "https://open.spotify.com/track/4pDE8vhtcEb90Eq2SvdWyB"
     },
     {
       "added_at": "2021-03-19 20:47:30",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUArRC04H8rI.md) - [plain]
 
 > It's a hot girl summer\. 🥵
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,083 likes - 60 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,314 likes - 60 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,12 +61,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUArRC04H8rI.md) - [plain]
 | 51 | [Síguelo Bailando](https://open.spotify.com/track/5Y9fnynLlIvqtM710MHzfz) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Odisea](https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo) | 3:46 |
 | 52 | [105 F Remix](https://open.spotify.com/track/1aUGxXCz9QimNkKeiJtzZ7) | [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU), [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [105 F Remix](https://open.spotify.com/album/2801cwQRE2bAQ6pKTrI13w) | 7:44 |
 | 53 | [Ahora Es](https://open.spotify.com/track/15wPtgg6jsyMLhIkjcSpl4) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Wisin Vs Yandel "Los Extraterrestres"](https://open.spotify.com/album/1wqojXZPs45MXFSPlqcVkh) | 3:26 |
-| 54 | [Ram Pam Pam](https://open.spotify.com/track/730gfBUwEpyruhbSvDuytR) | [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [NATTIVIDAD](https://open.spotify.com/album/2ZjmvVKeVy3CgaT2BvsyvM) | 3:20 |
+| 54 | [VACAXIONES](https://open.spotify.com/track/6DdC4I8ENm7zHH9Jy9pFg4) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [VACAXIONES](https://open.spotify.com/album/3aHEfUe8GAjKYGVB2hENP7) | 3:06 |
 | 55 | [FULANITO](https://open.spotify.com/track/59L8x0xy8njj75vzVCPMqg) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [FULANITO](https://open.spotify.com/album/5AVKorAwqFCfUiPkNwv89o) | 2:38 |
-| 56 | [VACAXIONES](https://open.spotify.com/track/6DdC4I8ENm7zHH9Jy9pFg4) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [VACAXIONES](https://open.spotify.com/album/3aHEfUe8GAjKYGVB2hENP7) | 3:06 |
+| 56 | [Ram Pam Pam](https://open.spotify.com/track/730gfBUwEpyruhbSvDuytR) | [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [NATTIVIDAD](https://open.spotify.com/album/2ZjmvVKeVy3CgaT2BvsyvM) | 3:20 |
 | 57 | [Sistema De Patio](https://open.spotify.com/track/65497v9jzFfu5sSA8ADap5) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Treintisiete](https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah) | [Sistema De Patio](https://open.spotify.com/album/2CEgQxkmV8DKlSp0hHR839) | 2:14 |
 | 58 | [Quiero Bailar](https://open.spotify.com/track/1EyH5BK5Cx5XzQyEDks0fT) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [Diva Platinum Edition](https://open.spotify.com/album/5n1pmoNSuLWs9bSGXzUY7e) | 3:04 |
 | 59 | [Golosa](https://open.spotify.com/track/1uzlm6uA89AY1FYJ5dZRfp) | [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt) | [Golosa](https://open.spotify.com/album/64S31vTCp48dMWxOTwtB3R) | 2:39 |
 | 60 | [Sin Pijama](https://open.spotify.com/track/62vDrkBEyJYEOFj1ScBqM7) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [MALA SANTA](https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X) | 3:10 |
 
-Snapshot ID: `MTY2MTg5MzcyMSwwMDAwMDAwMDhkYjJmZGNlMThmMzRhY2M4MzMzOGI1YjZhY2RlZjIz`
+Snapshot ID: `MTY2MTg5MzcyMSwwMDAwMDAwMGY0NzVlNDY0YWYzMmQ2OTgwZmY0NDFlNDdlODZhZTQ0`

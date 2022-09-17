@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2jmeFyIwFPhhxgjAAJJIrU">Leland</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 732 likes - 138 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 731 likes - 138 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 51 | [Revelation](https://open.spotify.com/track/7sUJolVaoEBoP4l4qHiQSe) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y) | [Boy Erased \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3QSiPewI3wL9NU4znGgrw5) | 3:51 |
 | 52 | [Don't Wait](https://open.spotify.com/track/5sBdbAZ2a2LJ775CsbkM2h) | [Joey Graceffa](https://open.spotify.com/artist/50zhmSD9wi3LHamXKx8A2W) | [Don't Wait](https://open.spotify.com/album/7vynUmVpp3L0DIcLKAIOXO) | 3:25 |
 | 53 | [Ignore Me](https://open.spotify.com/track/5NF51JbWVYHI83FdkqoEcC) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [Betty](https://open.spotify.com/album/78LBmUOdg2KeGk0mSQ1lTs) | 3:15 |
-| 54 | [U12](https://open.spotify.com/track/2xc2Qzq0IyWsIbbcihWzzI) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Sit Still, Look Pretty](https://open.spotify.com/album/2cE2eOy7alOZHpuelJEV8Q) | 3:23 |
-| 55 | [I Can't Stop Me](https://open.spotify.com/track/1AVVv4FgNLxQlV64j7dfP1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Singular Act II](https://open.spotify.com/album/19KilSbbeHRFFZM7ChwTdP) | 3:42 |
+| 54 | [I Can't Stop Me](https://open.spotify.com/track/1AVVv4FgNLxQlV64j7dfP1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Singular Act II](https://open.spotify.com/album/19KilSbbeHRFFZM7ChwTdP) | 3:42 |
+| 55 | [U12](https://open.spotify.com/track/2xc2Qzq0IyWsIbbcihWzzI) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Sit Still, Look Pretty](https://open.spotify.com/album/2cE2eOy7alOZHpuelJEV8Q) | 3:23 |
 | 56 | [Trouble \- from ‘Three Months’](https://open.spotify.com/track/4lM46UnoFn4FP074aYWGxS) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Trouble \(from ‘Three Months’\)](https://open.spotify.com/album/4CVZnoqlaAEqSX6c1QQUI8) | 3:23 |
 | 57 | [Thirsty](https://open.spotify.com/track/3BbpXJvrVKqTox63Zo3Js0) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Sit Still, Look Pretty](https://open.spotify.com/album/2cE2eOy7alOZHpuelJEV8Q) | 3:19 |
 | 58 | [STUD](https://open.spotify.com/track/1trCZF4aa39AhDCfTBw8Qn) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [In A Dream \(Bonus Track Version\)](https://open.spotify.com/album/66M3ZXJLIgROFqMla74reu) | 3:29 |
@@ -128,8 +128,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 118 | [No Bad Vibes](https://open.spotify.com/track/0TbvVq6TBqyDcnUQy8eJk5) | [Nicole Millar](https://open.spotify.com/artist/0lYzZ91QzokaPrRK1vq6tW) | [Communication](https://open.spotify.com/album/3ED7XEg0vYJlynJMpbUTSi) | 3:31 |
 | 119 | [The Parking Lot](https://open.spotify.com/track/2VqSRyFEZkQpdcLK3bTuto) | [Score from the Motion Picture](https://open.spotify.com/artist/5aO9zrQvLB71hp1wtrIW2n) | [Sierra Burgess Is a Loser \(Original Netflix Sound Track\)](https://open.spotify.com/album/5ddhak78Gq6mFVqiPlbFhI) | 4:45 |
 | 120 | [I Could Never](https://open.spotify.com/track/0ynkaEihHTfzLS9qRL9Eiw) | [Keljet](https://open.spotify.com/artist/0aF0pIALJDBCfFgqiTaK2g), [Bridesmen](https://open.spotify.com/artist/6R3k2rJBwhOkDpd7zhh3uM) | [I Could Never](https://open.spotify.com/album/0CutQ6jJHpuTcxhVL89i8X) | 3:27 |
-| 121 | [Young Love](https://open.spotify.com/track/7L4Q4JyCnJcYHCKaNrap4U) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR), [George Sear](https://open.spotify.com/artist/6rex7yqrxf37zM07mzMKYf) | [Love, Victor: Season 2 \(Original Soundtrack\)](https://open.spotify.com/album/6fJSSOWbDoBDy6N1DJAsuk) | 3:06 |
-| 122 | [The Wrong Party \(with Fitz and The Tantrums\)](https://open.spotify.com/track/0CZ4WDvSa2YyTei18Tapjd) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj), [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [The Wrong Party \(with Fitz and The Tantrums\)](https://open.spotify.com/album/7d93DGgzIxU4mP3V71xO7D) | 2:39 |
+| 121 | [The Wrong Party \(with Fitz and The Tantrums\)](https://open.spotify.com/track/0CZ4WDvSa2YyTei18Tapjd) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj), [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [The Wrong Party \(with Fitz and The Tantrums\)](https://open.spotify.com/album/7d93DGgzIxU4mP3V71xO7D) | 2:39 |
+| 122 | [Young Love](https://open.spotify.com/track/7L4Q4JyCnJcYHCKaNrap4U) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR), [George Sear](https://open.spotify.com/artist/6rex7yqrxf37zM07mzMKYf) | [Love, Victor: Season 2 \(Original Soundtrack\)](https://open.spotify.com/album/6fJSSOWbDoBDy6N1DJAsuk) | 3:06 |
 | 123 | [Good Time People](https://open.spotify.com/track/5wpQAyoihCL3cOVaza1rIp) | [Spencer Ludwig](https://open.spotify.com/artist/6miuYP0AovZaaKpRFaDQMQ) | [Good Time People](https://open.spotify.com/album/7f46jaoVkkKNBNeyyGn2e4) | 3:47 |
 | 124 | [1991](https://open.spotify.com/track/1RAoTgX7utbegR8hZWGthA) | [Kat Graham](https://open.spotify.com/artist/4rPZIJpeNz7GBm2t8YhR7j) | [Roxbury Drive](https://open.spotify.com/album/1e0lSv5aE8x3wAuaFFvv6r) | 3:15 |
 | 125 | [All My Issues](https://open.spotify.com/track/0QEQmLonfSYWYmU6w2l8TD) | [Nicole Millar](https://open.spotify.com/artist/0lYzZ91QzokaPrRK1vq6tW) | [Excuse Me \(Deluxe\)](https://open.spotify.com/album/3CEWoLRhNHEtBcw1wmgWd8) | 3:16 |
@@ -147,4 +147,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 137 | [Euphoria](https://open.spotify.com/track/1nXyc1QOTa5Rnhg5udF0vr) | [Christopher Goulstone](https://open.spotify.com/artist/6A6hCC07Ix0YCGFfENcWYI), [Neil Taylor](https://open.spotify.com/artist/3th0fmbYOynihCppJzNJLM) | [Rock Highway Dreams](https://open.spotify.com/album/5c4U5JArDApW4JUyEEk3Tz) | 3:26 |
 | 138 | [I'm a Rapper](https://open.spotify.com/track/3Pt8mRiKVgnun7ULVmKTLB) | [Pfool](https://open.spotify.com/artist/4yNdC9T7fkyn8yB1E8cTLY) | [Ultimate Hottest Hits 2013, Vol\. 6 \(The Best of the Teenies\)](https://open.spotify.com/album/5PtK4h7lKH3ittcrWu7hqi) | 2:55 |
 
-Snapshot ID: `Mjc3MjE1MTUsMDAwMDAwMDBlMGUzMWQ0Yjk2YmFmYjdjYTA2YjhmZWNmMThhYzAzNQ==`
+Snapshot ID: `Mjc3MjI5NTUsMDAwMDAwMDBkY2VkNDU0Yzc4OGY0MDMyOTQ1NWViM2YzMjNkY2ViOQ==`

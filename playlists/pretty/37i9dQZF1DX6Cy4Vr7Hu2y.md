@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Cy4Vr7Hu2y.md) - [plain]
 
 > From sultry vocalists, sexy divas to cutesy girl\-groups, the women of K\-Pop are a formidable force to be reckoned with\. \(Cover: TRI.BE\(트라이비\)\) \(케이팝을 대표하는 한국의 여성 가수들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 797,823 likes - 64 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 798,128 likes - 64 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Cy4Vr7Hu2y.md) - [plain]
 | 22 | [Kill This Love](https://open.spotify.com/track/6hvczQ05jc1yGlp9zhb95V) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [KILL THIS LOVE](https://open.spotify.com/album/3PNxZ3BELbUXJ1XLktXiHz) | 3:11 |
 | 23 | [FANCY](https://open.spotify.com/track/2qQpFbqqkLOGySgNK8wBXt) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [FANCY YOU](https://open.spotify.com/album/3aLpWFejbsdyafODLXRqwF) | 3:33 |
 | 24 | [WA DA DA](https://open.spotify.com/track/4gdiCHNbwugojBqr5Jt3pq) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [FIRST IMPACT](https://open.spotify.com/album/7pHyAucSgWoDNlFHfhQfVN) | 3:03 |
-| 25 | [Savage](https://open.spotify.com/track/3dbLT62Cvs46Ju7a8gpr36) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Savage \- The 1st Mini Album](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) | 3:58 |
-| 26 | [LALISA](https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 3:20 |
+| 25 | [LALISA](https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 3:20 |
+| 26 | [Savage](https://open.spotify.com/track/3dbLT62Cvs46Ju7a8gpr36) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Savage \- The 1st Mini Album](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) | 3:58 |
 | 27 | [WANNABE](https://open.spotify.com/track/4pspYVQGFHLPEFgQPD1J7e) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z ME](https://open.spotify.com/album/7ynKAohxfwPUZzvU8f1p1U) | 3:11 |
 | 28 | [LILAC](https://open.spotify.com/track/5xrtzzzikpG3BLbo4q1Yul) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:34 |
 | 29 | [SOLO](https://open.spotify.com/track/2wVDWtLKXunswWecARNILj) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [SOLO](https://open.spotify.com/album/7qAJpYeABXN9ZV5wOOX59k) | 2:49 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Cy4Vr7Hu2y.md) - [plain]
 | 46 | [La Vie en Rose](https://open.spotify.com/track/3WfaJhCL4p2JbdffJjV6Va) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [COLOR\*IZ](https://open.spotify.com/album/5Fl13rfH2DRRTo6OV4ecJY) | 3:38 |
 | 47 | [Forever Young](https://open.spotify.com/track/6veFyjNycn6EaNCKhkPXUY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE UP](https://open.spotify.com/album/0wOiWrujRbxlKEGWRQpKYc) | 3:59 |
 | 48 | [Flip That](https://open.spotify.com/track/7cHXwaBnIBFUPuP376z07E) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [Summer Special \[Flip That\]](https://open.spotify.com/album/7odJeHxR62PWP4Cms4GpwB) | 2:57 |
-| 49 | [그대라는 시](https://open.spotify.com/track/56Cmy1rCQ35V2Q7groYiHl) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Hotel del Luna \(Original Television Soundtrack\) Pt.3](https://open.spotify.com/album/6nddI94g7zC5bbyNzRBO0Y) | 3:29 |
-| 50 | [RING ma Bell \(what a wonderful world\)](https://open.spotify.com/track/2b2Nibg3lTUTKctwwb7bEv) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [the Billage of perception: chapter two](https://open.spotify.com/album/0NuM7kwh6u6fIRjn7Zh7Ss) | 3:26 |
+| 49 | [RING ma Bell \(what a wonderful world\)](https://open.spotify.com/track/2b2Nibg3lTUTKctwwb7bEv) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [the Billage of perception: chapter two](https://open.spotify.com/album/0NuM7kwh6u6fIRjn7Zh7Ss) | 3:26 |
+| 50 | [그대라는 시](https://open.spotify.com/track/56Cmy1rCQ35V2Q7groYiHl) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Hotel del Luna \(Original Television Soundtrack\) Pt.3](https://open.spotify.com/album/6nddI94g7zC5bbyNzRBO0Y) | 3:29 |
 | 51 | [Rollin'](https://open.spotify.com/track/6SQUopvuZyrWYjYayxxSXl) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Rollin'](https://open.spotify.com/album/3FuZ0bCYhMcoex6KN0F360) | 3:17 |
 | 52 | [XOXO](https://open.spotify.com/track/4r34Yi0eltsu1tp6z4lq3x) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [XOXO](https://open.spotify.com/album/63pvOn2B5pUUcUKUwIEg9m) | 3:27 |
 | 53 | [Stay This Way](https://open.spotify.com/track/3pqgVtpnQbBAZoWT4AEm1B) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [from our Memento Box](https://open.spotify.com/album/5HpgQwHm9jI5JcnmJqcCYo) | 3:15 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Cy4Vr7Hu2y.md) - [plain]
 | 63 | [You can't sit with us](https://open.spotify.com/track/4aS8OY1JsRSBKGfnAkIOZH) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [1/6](https://open.spotify.com/album/3UJlc2nl7tik1gD23DOBVX) | 3:17 |
 | 64 | [HIT YA!](https://open.spotify.com/track/5m7UOBjNO6Zp9gWdyscqDx) | [Lapillus](https://open.spotify.com/artist/7bcMJG1TkYFFD9Fit3STLJ) | [HIT YA!](https://open.spotify.com/album/5TIglX0Yp81a4cAvtdodI9) | 3:21 |
 
-Snapshot ID: `MTY2MjQ3NjQwMCwwMDAwMDAwMGE3OTUzZGM5OTRmN2FmZDM0MWVmYjQwMDdiNGU3YWUx`
+Snapshot ID: `MTY2MjQ3NjQwMCwwMDAwMDAwMDNiNjM0ODA0ZWU4NjA0M2JmMTQ5YWIzNmEwZjZiMjE0`

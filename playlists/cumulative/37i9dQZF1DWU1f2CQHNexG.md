@@ -4,7 +4,7 @@
 
 > Dancing to electro\-pop like a robot from 1984\. Cover: The Psychedelic Furs.
 
-92 songs - 6 hr 27 min - [published](https://open.spotify.com/playlist/7sgvvjtQ3YO0vLBx6zL4uM)
+94 songs - 6 hr 37 min - [published](https://open.spotify.com/playlist/7sgvvjtQ3YO0vLBx6zL4uM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,8 @@
 | [Strangelove \- Alt\. Single Version](https://open.spotify.com/track/5XKRI5H4aywDVTKXUeVc61) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Strangelove](https://open.spotify.com/album/5331VtcJopcteVzgUHMH9R) | 3:49 | 2022-03-10 |  |
 | [Strangelove \- Single Version](https://open.spotify.com/track/6xPKB1wHju2wxtVdTsyxBx) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [The Singles 86\-98](https://open.spotify.com/album/67yJQ4hgI4xpuiOiHgLEtX) | 3:47 | 2022-03-10 | 2022-07-29 |
 | [Suburbia \- 2001 Remaster](https://open.spotify.com/track/4ETtqOYhgPo9fKKOSQK4vY) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Please: Further Listening 1984\-1986](https://open.spotify.com/album/3rnhCB65fDQFokoeKHmM0F) | 5:07 | 2022-03-10 | 2022-07-29 |
-| [Suburbia \- 2001 Remaster](https://open.spotify.com/track/7oXUHTc9FGt9OsJQHdY0Mw) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Please](https://open.spotify.com/album/0AwBxVtsvLVwmaVwwe5beS) | 5:07 | 2022-03-10 |  |
+| [Suburbia \- 2001 Remaster](https://open.spotify.com/track/7oXUHTc9FGt9OsJQHdY0Mw) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Please](https://open.spotify.com/album/0AwBxVtsvLVwmaVwwe5beS) | 5:07 | 2022-03-10 | 2022-09-17 |
+| [Suburbia \- 2018 Remaster](https://open.spotify.com/track/3SZhwgn2fYVmpBuzi4NIyM) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Please: Further Listening 1984 \- 1986 \(2018 Remaster\)](https://open.spotify.com/album/47fRf3JwriMUPPzFjdvNS6) | 5:07 | 2022-03-10 |  |
 | [Sunglasses At Night](https://open.spotify.com/track/5uRsBdLhn91AYcsTCOGNOC) | [Corey Hart](https://open.spotify.com/artist/0smy8yDrRoI4CnhpOuthg0) | [First Offense](https://open.spotify.com/album/2cB87PuIi04CRdxhuNrRi5) | 5:20 | 2022-03-10 |  |
 | [Sweet Dreams \(Are Made of This\) \- Remastered](https://open.spotify.com/track/1TfqLAPs4K3s2rJMoCokcS) | [Eurythmics](https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB), [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum), [Dave Stewart](https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg) | [Sweet Dreams \(Are Made Of This\)](https://open.spotify.com/album/5jNDWA19BJbE24x1UUJGRY) | 3:36 | 2022-03-10 |  |
 | [Tainted Love](https://open.spotify.com/track/0cGG2EouYCEEC3xfa0tDFV) | [Soft Cell](https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc) | [Non\-Stop Erotic Cabaret](https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD) | 2:33 | 2022-03-10 |  |
@@ -96,7 +97,8 @@
 | [Vienna](https://open.spotify.com/track/2LXjhNee4iPRVemx9NSZQ3) | [Ultravox](https://open.spotify.com/artist/3iUjRVvYCsMfz7tuAQtBDI) | [Vienna \[Deluxe Edition\]: 40th Anniversary](https://open.spotify.com/album/2qDjfyAGcjxDv8sdr5knyg) | 4:54 | 2022-03-10 |  |
 | [Vienna \- 2008 Remaster](https://open.spotify.com/track/0842N1NhR1Q1XS6XyyQ3Nl) | [Ultravox](https://open.spotify.com/artist/3iUjRVvYCsMfz7tuAQtBDI) | [Vienna \(Remastered Definitive Edition\)](https://open.spotify.com/album/4dOFj5aKOg68jIE7rZP5DZ) | 4:56 | 2022-03-10 | 2022-07-29 |
 | [Voyage voyage](https://open.spotify.com/track/2d8D7uk3tbAThjRkdfrx9c) | [Desireless](https://open.spotify.com/artist/1yjAx9cww4f1QuAaN3dUI2) | [François](https://open.spotify.com/album/17EANLCoErHdo9FpzMx25q) | 4:26 | 2022-03-10 |  |
-| [West End Girls \- 2001 Remaster](https://open.spotify.com/track/2yzPBlE5UXK2sqvnNM9QQ0) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Please](https://open.spotify.com/album/0AwBxVtsvLVwmaVwwe5beS) | 4:45 | 2022-03-10 |  |
+| [West End Girls \- 2001 Remaster](https://open.spotify.com/track/2yzPBlE5UXK2sqvnNM9QQ0) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Please](https://open.spotify.com/album/0AwBxVtsvLVwmaVwwe5beS) | 4:45 | 2022-03-10 | 2022-09-17 |
+| [West End Girls \- 2018 Remaster](https://open.spotify.com/track/2Di0qFNb7ATroCGB3q0Ka7) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Please: Further Listening 1984 \- 1986 \(2018 Remaster\)](https://open.spotify.com/album/47fRf3JwriMUPPzFjdvNS6) | 4:45 | 2022-03-10 |  |
 | [Who Needs Love Like That](https://open.spotify.com/track/5hBQzpIVTuImm4uQCs84kB) | [Erasure](https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89) | [Wonderland](https://open.spotify.com/album/5ZYUz8XDkYqiSUWdglkhtZ) | 3:17 | 2022-03-10 |  |
 | [Wishing \(If I Had a Photograph of You\)](https://open.spotify.com/track/6bJhaEuaDpObzFOrsOejlJ) | [A Flock Of Seagulls](https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt) | [Listen](https://open.spotify.com/album/3rZuJ5oWUJGLmJLpvILp1B) | 5:30 | 2022-03-10 |  |
 | [You Spin Me Round \(Like a Record\)](https://open.spotify.com/track/1ChulFMnwxoD74Me8eX2TU) | [Dead Or Alive](https://open.spotify.com/artist/5WWSL6rElJeUk3Uc1S2RyD) | [Evolution: The Hits](https://open.spotify.com/album/5AMshCv0RIe2aO4XaQWhp4) | 3:15 | 2022-03-10 |  |

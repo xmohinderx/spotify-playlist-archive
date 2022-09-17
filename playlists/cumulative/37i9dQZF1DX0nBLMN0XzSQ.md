@@ -4,7 +4,7 @@
 
 > Après Ski...you know what that means!
 
-226 songs - 14 hr 22 min - [published](https://open.spotify.com/playlist/6k7qWzgrLABg6JzbonqipM)
+227 songs - 14 hr 26 min - [published](https://open.spotify.com/playlist/6k7qWzgrLABg6JzbonqipM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Johnny B\. Goode](https://open.spotify.com/track/2QfiRTz5Yc8DdShCxG1tB2) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Berry Is On Top](https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL) | 2:41 | 2021-03-22 |  |
 | [Johnny B\. Goode \- Single Version](https://open.spotify.com/track/11cPCZ0BYWJmAm7N8eDxtu) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Berry Is On Top \(Reissue\)](https://open.spotify.com/album/2W3GOisQj5XAFbtxmbDBr5) | 2:41 | 2021-03-22 | 2022-07-25 |
 | [Jump \- 2015 Remaster](https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [1984 \(Remastered\)](https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0) | 4:01 | 2021-03-22 |  |
+| [Jump Around \- 30 Years Remaster](https://open.spotify.com/track/7L93GESzq43UkKUt5FsOCq) | [House Of Pain](https://open.spotify.com/artist/0AuW7OCyKfFrsMbtHrYgIV) | [House of Pain \(Fine Malt Lyrics\) \[30 Years\] \[Deluxe Edition\]](https://open.spotify.com/album/1GYvmeraQXDxxSC9T3RDvM) | 3:38 | 2021-03-22 |  |
 | [Karma Chameleon](https://open.spotify.com/track/4NH4xiPQ7TqNGqj6pZV4ki) | [Culture Club](https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc) | [The Best Of Culture Club](https://open.spotify.com/album/1gL7IEAcSnVOAoJnxq2MTG) | 4:02 | 2021-03-22 | 2022-07-29 |
 | [Karma Chameleon \- Remastered 2002](https://open.spotify.com/track/2wSAWEYUHkt92X4SBAPqZE) | [Culture Club](https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc) | [Colour By Numbers](https://open.spotify.com/album/51NPMfa9QfxsYtqzcB2VfY) | 4:12 | 2021-03-22 |  |
 | [Knock On Wood \- 1985 7" Remix](https://open.spotify.com/track/2qxrGDWh1qXWXJ1DbbxAEu) | [Amii Stewart](https://open.spotify.com/artist/7GPNaPWw3STF8NYp39pd8G) | [Knock On Wood: The Anthology](https://open.spotify.com/album/6brPlzSCD2ucBdhqmasvdf) | 4:08 | 2021-03-22 | 2022-07-29 |
@@ -145,7 +146,7 @@
 | [Mr\. Vain \- Original Radio Edit](https://open.spotify.com/track/4ih3dyFZoeTdaeJW9mPbOI) | [Culture Beat](https://open.spotify.com/artist/0BZ3BHzfYwpd3k5TDnvAz8) | [Mr\. Vain](https://open.spotify.com/album/0eVj6uUqoagjDPSOmz2rRj) | 4:17 | 2021-03-22 | 2022-01-07 |
 | [Night Fever \- From "Saturday Night Fever" Soundtrack](https://open.spotify.com/track/33ALuUDfftTs2NEszyvJRm) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Saturday Night Fever \(The Original Movie Soundtrack\)](https://open.spotify.com/album/6kFmH2VMMFaUrK4QhY4hLi) | 3:31 | 2021-03-22 | 2022-06-30 |
 | [Nutbush City Limits](https://open.spotify.com/track/06yREZ9X92R2e9RJpdzZ2O) | [Ike & Tina Turner](https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k) | [Tina!](https://open.spotify.com/album/6FkWiSUX7YAdxOlHPrIzMj) | 3:01 | 2021-03-22 | 2022-07-28 |
-| [On The Floor \- Radio Edit](https://open.spotify.com/track/0Oe49j06Bjrxs8PltuVeaW) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [On The Floor](https://open.spotify.com/album/543NK5YT3RjGmP7nFzWJPm) | 3:50 | 2021-03-22 |  |
+| [On The Floor \- Radio Edit](https://open.spotify.com/track/0Oe49j06Bjrxs8PltuVeaW) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [On The Floor](https://open.spotify.com/album/543NK5YT3RjGmP7nFzWJPm) | 3:50 | 2021-03-22 | 2022-09-17 |
 | [Party Rock Anthem](https://open.spotify.com/track/7mitXLIMCflkhZiD34uEQI) | [LMFAO](https://open.spotify.com/artist/3sgFRtyBnxXD5ESfmbK4dl), [Lauren Bennett](https://open.spotify.com/artist/2jLE4BoXHriQ96JagEtiDP), [GoonRock](https://open.spotify.com/artist/53sIBaVjXQhfH89Vu6nEGh) | [Sorry For Party Rocking](https://open.spotify.com/album/0D49RvtlLCKyxeDKDnBU2R) | 4:22 | 2021-03-22 | 2022-06-17 |
 | [Play That Funky Music](https://open.spotify.com/track/5uuJruktM9fMdN9Va0DUMl) | [Wild Cherry](https://open.spotify.com/artist/4apX9tIeHb85yPyy4F6FJG) | [Wild Cherry](https://open.spotify.com/album/27ompw8zlrCkWMacS21ysX) | 5:00 | 2021-03-22 | 2022-06-02 |
 | [Played\-A\-Live \(The Bongo Song\)](https://open.spotify.com/track/7uuo02BIR76qZ6ZXQhz7Ys) | [Safri Duo](https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl) | [Episode ll](https://open.spotify.com/album/52ttYpaN6OzZLAcqpjVhyh) | 6:45 | 2021-03-22 | 2022-07-29 |

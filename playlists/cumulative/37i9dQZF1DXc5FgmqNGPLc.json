@@ -942,6 +942,24 @@
     },
     {
       "album": {
+        "name": "John Patitucci Trio: Live in Italy",
+        "url": "https://open.spotify.com/album/3pxAc3Z4c4RX3y24cHJuA7"
+      },
+      "artists": [
+        {
+          "name": "John Patitucci",
+          "url": "https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 850557,
+      "name": "Mali (Live)",
+      "url": "https://open.spotify.com/track/7xgveO0ftVy4VcKt6gCGBu"
+    },
+    {
+      "album": {
         "name": "Friday Night in San Francisco",
         "url": "https://open.spotify.com/album/2zJMxui25tclR2FYj8jDYT"
       },
@@ -1771,6 +1789,24 @@
       "duration_ms": 258333,
       "name": "Yesterdays (Live) - Live At Cafe Bohemia, NY, 1955 / Remastered 2001",
       "url": "https://open.spotify.com/track/3261Vks4j8VomrwDXph9zB"
+    },
+    {
+      "album": {
+        "name": "Money Jungle (Live)",
+        "url": "https://open.spotify.com/album/48IZ2dCDjfGQ3jdg4jfCjO"
+      },
+      "artists": [
+        {
+          "name": "\u6851\u539f\u3042\u3044",
+          "url": "https://open.spotify.com/artist/6ATrUDyyYVTcuJPnlafenR"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347573,
+      "name": "\u30de\u30cd\u30fc\u30fb\u30b8\u30e3\u30f3\u30b0\u30eb - Live",
+      "url": "https://open.spotify.com/track/72lmCMKToDf2R7vyeU5qbd"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXc5FgmqNGPLc"

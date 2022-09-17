@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KyCRJzZneq.md) - [plain]
 
 > <a href="spotify:genre:0JQ5IMCbQBLzTital6q4J3">Click here to explore more rapid changes, complex progressions and improvisation\.  </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,376 likes - 45 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,417 likes - 45 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KyCRJzZneq.md) - [plain]
 | 27 | [Taking A Chance On Love](https://open.spotify.com/track/0j8bnD1EGeUPjHBnXPHibI) | [Tal Farlow](https://open.spotify.com/artist/0dIXV3ffgWlMcnywNIy0Wf) | [The Complete Verve Sessions](https://open.spotify.com/album/1esWnRTGtgRaLC3QdkRv3x) | 4:44 |
 | 28 | [I Know That You Know](https://open.spotify.com/track/44wLu2rDfUUYMmiva3tzch) | [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj) | [New York Jazz](https://open.spotify.com/album/5iQMDqjUmF9ZY1sLsK5Vmm) | 4:26 |
 | 29 | [Hot House](https://open.spotify.com/track/5CMVEnnJC2tATWKbvx6Wc8) | [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn) | [Groovin' High](https://open.spotify.com/album/6uX5idggmNHPmH1FQmw1NN) | 3:13 |
-| 30 | [Locomotion \- Remastered](https://open.spotify.com/track/4R8sx3JYPAEyOAwpOxnALk) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Blue Train](https://open.spotify.com/album/2Z11cXWEa2qqYQBGkJrCga) | 7:14 |
+| 30 | [Locomotion](https://open.spotify.com/track/4R8sx3JYPAEyOAwpOxnALk) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Blue Train](https://open.spotify.com/album/2Z11cXWEa2qqYQBGkJrCga) | 7:14 |
 | 31 | [Jumpin' At The Woodside \- Live At The Dream Bar, Johnina Hotel/1957](https://open.spotify.com/track/3oaz7cFu1nIEyIJc9rbT2Z) | [Buddy Rich Quartet](https://open.spotify.com/artist/5wD289Vy1vXyXZe7pN33EX) | [The Argo, Verve & Emarcy Small Group Sessions](https://open.spotify.com/album/0IuU7VlAtdKkVNRA803wXN) | 10:13 |
 | 32 | [Little Willie Leaps](https://open.spotify.com/track/4lHGxBpKQx9tsN1ojQtzyX) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Embraceable](https://open.spotify.com/album/2j5GUDLnu0vbZCK1fgHo7c) | 2:53 |
 | 33 | [Cheryl](https://open.spotify.com/track/1AMqC4GiDjbfwpl40kEWpX) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [The Savoy 10\-inch LP Collection](https://open.spotify.com/album/6hwIz13Z6GkWOdhQFgDQJ4) | 3:00 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CgJVlGEIo5.md) - [plain]
 
 > Cherish the day with these low\-key favorites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,509 likes - 82 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,611 likes - 82 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,11 +35,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CgJVlGEIo5.md) - [plain]
 | 25 | [Way With Words](https://open.spotify.com/track/6ioeN8jQ8Qc3tS8dhpoAVi) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Earthtones](https://open.spotify.com/album/1K3XPBfAfPO7jJhqTq4xME) | 4:20 |
 | 26 | [Heart's Content](https://open.spotify.com/track/0pegFWSUOTiG0sLVEfxtvA) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Bear Creek](https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE) | 3:34 |
 | 27 | [You Sigh](https://open.spotify.com/track/2Gsare6GuBE2Ph3zJanNKl) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Lines](https://open.spotify.com/album/1UkOPjlvgtqoeeIETfK2fs) | 2:58 |
-| 28 | [Fast Car \(feat\. Tall Heights\)](https://open.spotify.com/track/79ms40oOzof3LMyrrXDXtJ) | [Ryan Montbleau](https://open.spotify.com/artist/5Q2ZtOZ0vOdtcjGDOq6ZQc), [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [All or Nothing / Fast Car](https://open.spotify.com/album/0aqbYdpaGt1QhCJDcruuMV) | 4:32 |
-| 29 | [Acoustic](https://open.spotify.com/track/1kJygfS4eoVziBBI93MSYp) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [A Few More Hours at YYZ](https://open.spotify.com/album/4Ymsz92GH8H1fS8TLN7HJ0) | 2:52 |
+| 28 | [Issues \- Acoustic](https://open.spotify.com/track/4TqiKcUUvK7y6x6JG5NpJX) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Issues \(Acoustic\)](https://open.spotify.com/album/3VJx9QYw43oSfSBaHCUXYC) | 2:55 |
+| 29 | [Fast Car \(feat\. Tall Heights\)](https://open.spotify.com/track/79ms40oOzof3LMyrrXDXtJ) | [Ryan Montbleau](https://open.spotify.com/artist/5Q2ZtOZ0vOdtcjGDOq6ZQc), [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [All or Nothing / Fast Car](https://open.spotify.com/album/0aqbYdpaGt1QhCJDcruuMV) | 4:32 |
 | 30 | [New Person, Old Place](https://open.spotify.com/track/00xsWxrnp7wT3kI5AZqQIU) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [New Person, Old Place](https://open.spotify.com/album/6zEqrImo4scaX31UcjsTjC) | 4:06 |
 | 31 | [angel](https://open.spotify.com/track/1fr6WZfau4vNzDFfHYSJVT) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 2:19 |
-| 32 | [Issues \- Acoustic](https://open.spotify.com/track/4TqiKcUUvK7y6x6JG5NpJX) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Issues \(Acoustic\)](https://open.spotify.com/album/3VJx9QYw43oSfSBaHCUXYC) | 2:55 |
+| 32 | [Acoustic](https://open.spotify.com/track/1kJygfS4eoVziBBI93MSYp) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [A Few More Hours at YYZ](https://open.spotify.com/album/4Ymsz92GH8H1fS8TLN7HJ0) | 2:52 |
 | 33 | [This Too Shall Last](https://open.spotify.com/track/0CuXzMEgFzuQhLEYQHYas4) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Encore](https://open.spotify.com/album/6EIlfHDKZxmDMjcaRbFj8d) | 3:42 |
 | 34 | [Someone New](https://open.spotify.com/track/0efT4YKQLQx2YHbp6vgRX8) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq) | 3:42 |
 | 35 | [Place We Were Made](https://open.spotify.com/track/0xKGPkn1RLsVifjDs4183v) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Place We Were Made](https://open.spotify.com/album/1lFHYunIYd9r5R3dNVpTOT) | 3:05 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CgJVlGEIo5.md) - [plain]
 | 57 | [Faking My Own Death](https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Faking My Own Death](https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf) | 3:58 |
 | 58 | [Boston](https://open.spotify.com/track/51qWzz8tfP9AK7q4b9JxP8) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Doves & Ravens](https://open.spotify.com/album/64KvdiGpqwb0Lu1Zn4AcSf) | 4:33 |
 | 59 | [No One's Gonna Love You \(Stockholm Version\)](https://open.spotify.com/track/371akJ9fYgSkrAFMyWoTdL) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [No One's Gonna Love You \(Stockholm Version\)](https://open.spotify.com/album/5Dw1GPGxKN6LfNoiFj3LJY) | 3:48 |
-| 60 | [Love And Happiness](https://open.spotify.com/track/5fMInRpERS8jP2zPz6QyUI) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [S.O.S.: Save Our Soul](https://open.spotify.com/album/6vk5kBQsE8SQzv3FxG3TWu) | 4:38 |
-| 61 | [I Love The Rain The Most](https://open.spotify.com/track/63ogaJyLqKCR9BUBzmtnIG) | [Joe Purdy](https://open.spotify.com/artist/3MCxkaTJmYKH0FZbe3rYxa) | [Julie Blue](https://open.spotify.com/album/6uxp18VG6vFW2TmjE0nrPN) | 4:38 |
+| 60 | [I Love The Rain The Most](https://open.spotify.com/track/63ogaJyLqKCR9BUBzmtnIG) | [Joe Purdy](https://open.spotify.com/artist/3MCxkaTJmYKH0FZbe3rYxa) | [Julie Blue](https://open.spotify.com/album/6uxp18VG6vFW2TmjE0nrPN) | 4:38 |
+| 61 | [Love And Happiness](https://open.spotify.com/track/5fMInRpERS8jP2zPz6QyUI) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [S.O.S.: Save Our Soul](https://open.spotify.com/album/6vk5kBQsE8SQzv3FxG3TWu) | 4:38 |
 | 62 | [Need You Now \- Acoustic](https://open.spotify.com/track/1MIpU2U1kUInGTpaCYuVKs) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Same Kind Of Different \(Acoustic\)](https://open.spotify.com/album/6EWejNtoOEYMzQwKIpctti) | 3:23 |
 | 63 | [Caroline](https://open.spotify.com/track/0laEXE6mKdErCC67yhsHaO) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Mipso](https://open.spotify.com/album/71wj7iB4JXxUUTPosOpXMM) | 3:35 |
 | 64 | [GPS \(w/ Felly\)](https://open.spotify.com/track/7HZrYnVlYSsx7MVeBvizgH) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw), [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [GPS \(w/ Felly\)](https://open.spotify.com/album/2PcrCDemJVsysOdpeNXNyP) | 2:48 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CgJVlGEIo5.md) - [plain]
 | 81 | [Gravity](https://open.spotify.com/track/5EjG2jgzovOhN3OzWCcbdu) | [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0), [Frances](https://open.spotify.com/artist/4m6VmvHDXWmVdIw6EJGQ86) | [Gravity](https://open.spotify.com/album/5Mx20XChcfUjpjdcJuPeno) | 3:02 |
 | 82 | [Concrete Jungle \- Acoustic](https://open.spotify.com/track/6RGkwhDLaHxWWXY0jn1jFv) | [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [Concrete Jungle \(Acoustic\)](https://open.spotify.com/album/2UMY8zdbiUZ4gxoHrtj44Q) | 2:40 |
 
-Snapshot ID: `MTY0ODA3MTA4MSwwMDAwMDAwMDEzMDEwNDQ2ZmNkOGZhN2FmOGY1YWE1Yzg3NDA0YjYw`
+Snapshot ID: `MTY0ODA3MTA4MSwwMDAwMDAwMDI5MDQ0NmNmNTgwN2Y2MTg3OTQwYTkyZTdlN2U0ZDdh`

@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\(You're A\) Go Nowhere](https://open.spotify.com/track/4e86fqSFhqRQk3Z9hm7XHt) | [Reagan Youth](https://open.spotify.com/artist/5105k1OIV9BdhuB3rxtHYb) | [A Collection of Pop Classics](https://open.spotify.com/album/3sLKWvosxuEgY4lHkdSDcJ) | 1:22 | 2021-10-06 |  |
+| [\(You're A\) Go Nowhere](https://open.spotify.com/track/4e86fqSFhqRQk3Z9hm7XHt) | [Reagan Youth](https://open.spotify.com/artist/5105k1OIV9BdhuB3rxtHYb) | [A Collection of Pop Classics](https://open.spotify.com/album/3sLKWvosxuEgY4lHkdSDcJ) | 1:22 | 2021-10-06 | 2022-09-17 |
 | [Add It Up](https://open.spotify.com/track/61QW3AcU1jm5ttPOn8eZhn) | [Violent Femmes](https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy) | [Violent Femmes](https://open.spotify.com/album/0Ojio25IPzIrw1rUmgrhrG) | 4:44 | 2021-10-06 |  |
 | [Add It Up \- 2002 Remastered Version](https://open.spotify.com/track/7oyxaCjnv7P1F68DDXU7y7) | [Violent Femmes](https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy) | [Violent Femmes](https://open.spotify.com/album/2G9onFLGqlMJd1ThYf0vIB) | 4:43 | 2021-10-06 | 2022-07-29 |
 | [All This and More](https://open.spotify.com/track/0JwGJgL8LCUFzDDPZNmQLa) | [Dead Boys](https://open.spotify.com/artist/4RjtLUZNqLtMpRKIOaVokc) | [Young, Loud And Snotty](https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ) | 2:47 | 2021-10-06 |  |
@@ -146,7 +146,7 @@
 | [Suffer](https://open.spotify.com/track/7AoWDXgfVQO8pK4hb0Kswt) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Suffer](https://open.spotify.com/album/2tQSaVTntSAVbDognInDQo) | 1:47 | 2021-10-06 |  |
 | [Suspect Device](https://open.spotify.com/track/7Ig7b1MJJKbNyTxLU6u9rZ) | [Stiff Little Fingers](https://open.spotify.com/artist/2bt3I0VkmYuPvP57sxokab) | [Inflammable Material](https://open.spotify.com/album/2uXYm7SqdQlOgrx2FEWlkD) | 2:35 | 2021-10-06 |  |
 | [That's Progress](https://open.spotify.com/track/3RNUaNZ4ATaPXfQusDGyGd) | [D.O.A.](https://open.spotify.com/artist/3g92p1YpivbOqVLiYVd4Yk) | [Last Scream of the Missing Neighbors](https://open.spotify.com/album/4SXVG1SPGjA5ofm3CQsPnc) | 3:13 | 2021-10-06 |  |
-| [The Modern World](https://open.spotify.com/track/1pXXriSh4lpOKFqsAWVdHe) | [The Jam](https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR) | [This Is The Modern World](https://open.spotify.com/album/1ofMLjpy6bhkxpOcD5y436) | 2:30 | 2021-10-06 | 2022-08-19 |
+| [The Modern World](https://open.spotify.com/track/1pXXriSh4lpOKFqsAWVdHe) | [The Jam](https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR) | [This Is The Modern World](https://open.spotify.com/album/1ofMLjpy6bhkxpOcD5y436) | 2:30 | 2021-10-06 |  |
 | [The Passenger](https://open.spotify.com/track/6pkv89yzv9kw6Vxhz8nSIH) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [A Million In Prizes: Iggy Pop Anthology \(Edited Version\)](https://open.spotify.com/album/39vZUsVRUvo1l2HwR7Cfpg) | 4:40 | 2021-10-06 |  |
 | [Trash](https://open.spotify.com/track/2OQS3xvoKKSayJMJT8dVuZ) | [New York Dolls](https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx) | [New York Dolls](https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr) | 3:08 | 2021-10-06 |  |
 | [TV Party](https://open.spotify.com/track/4DA95pyBe6QORPGvTEuMWQ) | [Black Flag](https://open.spotify.com/artist/5Mhs3Eu8lU6sRCtRYsmABV) | [Damaged](https://open.spotify.com/album/34aFnrFRBlErcbU6moRZR3) | 3:31 | 2021-10-06 |  |

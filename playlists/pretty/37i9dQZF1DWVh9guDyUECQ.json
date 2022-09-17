@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del Trap, Rap y Reggaeton Cristiano. \nFoto: Vaes",
-  "num_followers": 148233,
+  "num_followers": 148280,
   "original_name": "Flow Cristiano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTU3NjY4NSwwMDAwMDAwMDUxY2Q4ZThlNjBlNmMwZTQ0ZGU4YmYyODQ3OTRhMjIw",
+  "snapshot_id": "MTY2MTU3NjY4NSwwMDAwMDAwMDUxYzljYmFjYmZmMjJlM2M5MGM3NTJhZTRhMjM3OTU4",
   "tracks": [
     {
       "added_at": "2022-08-27 05:04:45",
@@ -735,6 +735,26 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "Dosis",
+        "url": "https://open.spotify.com/album/13hrTUToYPH3tdDitTnSbR"
+      },
+      "artists": [
+        {
+          "name": "Indiomar",
+          "url": "https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM"
+        },
+        {
+          "name": "Musiko",
+          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
+        }
+      ],
+      "duration_ms": 236578,
+      "name": "A Ciegas",
+      "url": "https://open.spotify.com/track/6yfHerzOkiXdbBmpWMNkTg"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "Color de Alegr\u00eda",
         "url": "https://open.spotify.com/album/26GpKQW06AsnepVCjOwpy9"
       },
@@ -755,26 +775,6 @@
       "duration_ms": 161479,
       "name": "Color de Alegr\u00eda",
       "url": "https://open.spotify.com/track/0BL3azhmJZTDtS7frP6rGV"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "Dosis",
-        "url": "https://open.spotify.com/album/13hrTUToYPH3tdDitTnSbR"
-      },
-      "artists": [
-        {
-          "name": "Indiomar",
-          "url": "https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM"
-        },
-        {
-          "name": "Musiko",
-          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
-        }
-      ],
-      "duration_ms": 236578,
-      "name": "A Ciegas",
-      "url": "https://open.spotify.com/track/6yfHerzOkiXdbBmpWMNkTg"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -999,18 +999,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Guiame",
-        "url": "https://open.spotify.com/album/3SSB5daodrYRnJKWW4LeIu"
+        "name": "Si Tu No Estas",
+        "url": "https://open.spotify.com/album/4XlLSOigjYUbHcRR0dALRW"
       },
       "artists": [
         {
           "name": "Gabriel EMC",
           "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
+        },
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
         }
       ],
-      "duration_ms": 200963,
-      "name": "Gu\u00edame",
-      "url": "https://open.spotify.com/track/4c4LbMkJxQ7o9UBdJxVzqn"
+      "duration_ms": 225400,
+      "name": "Si T\u00fa No Estas",
+      "url": "https://open.spotify.com/track/3EnXQxzuk2aqhoy8loWQLv"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1091,22 +1095,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Llename",
-        "url": "https://open.spotify.com/album/4bYRZq6XgwYabQAbqVSm8M"
-      },
-      "artists": [
-        {
-          "name": "Jairon High",
-          "url": "https://open.spotify.com/artist/7uvf9bsJVUHUyiSK0aU42M"
-        }
-      ],
-      "duration_ms": 211411,
-      "name": "Llename",
-      "url": "https://open.spotify.com/track/3B9hzZyZTyTOi2d4nPI2S4"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "Coraz\u00f3n",
         "url": "https://open.spotify.com/album/6rrhTrRoDHIAOrqudQ65Yt"
       },
@@ -1123,6 +1111,22 @@
       "duration_ms": 217695,
       "name": "Coraz\u00f3n",
       "url": "https://open.spotify.com/track/0OxK3aqp1yo6d0s87J4v9X"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "Llename",
+        "url": "https://open.spotify.com/album/4bYRZq6XgwYabQAbqVSm8M"
+      },
+      "artists": [
+        {
+          "name": "Jairon High",
+          "url": "https://open.spotify.com/artist/7uvf9bsJVUHUyiSK0aU42M"
+        }
+      ],
+      "duration_ms": 211411,
+      "name": "Llename",
+      "url": "https://open.spotify.com/track/3B9hzZyZTyTOi2d4nPI2S4"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1171,22 +1175,18 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Si Tu No Estas",
-        "url": "https://open.spotify.com/album/4XlLSOigjYUbHcRR0dALRW"
+        "name": "Guiame",
+        "url": "https://open.spotify.com/album/3SSB5daodrYRnJKWW4LeIu"
       },
       "artists": [
         {
           "name": "Gabriel EMC",
           "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
-        },
-        {
-          "name": "Alex Zurdo",
-          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
         }
       ],
-      "duration_ms": 225400,
-      "name": "Si T\u00fa No Estas",
-      "url": "https://open.spotify.com/track/3EnXQxzuk2aqhoy8loWQLv"
+      "duration_ms": 200963,
+      "name": "Gu\u00edame",
+      "url": "https://open.spotify.com/track/4c4LbMkJxQ7o9UBdJxVzqn"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "Somos Las Voces",
+        "url": "https://open.spotify.com/album/379L30GLDmpr85KKQPqCmj"
+      },
+      "artists": [
+        {
+          "name": "Harold Velazquez",
+          "url": "https://open.spotify.com/artist/7whnCG4xTRqrIsagRrrjLj"
+        }
+      ],
+      "duration_ms": 242497,
+      "name": "Somos Las Voces",
+      "url": "https://open.spotify.com/track/5R4hkWGbAiuKFkZaaykViK"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "Firme Y Enfocado",
         "url": "https://open.spotify.com/album/5ZE3KBdyEiI41sXiw1BUZx"
       },
@@ -1487,6 +1503,22 @@
       "duration_ms": 231627,
       "name": "Firme Y Enfocado",
       "url": "https://open.spotify.com/track/3pFyebmyBd2tQzQKx3HsGr"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "Dios, Familia & Rap",
+        "url": "https://open.spotify.com/album/1lue6TfOPJ4qL1EXkQ2Kne"
+      },
+      "artists": [
+        {
+          "name": "El Philippe",
+          "url": "https://open.spotify.com/artist/3COYG9FFfTZQEB5B58Ufi1"
+        }
+      ],
+      "duration_ms": 245039,
+      "name": "Hay Algo",
+      "url": "https://open.spotify.com/track/6VtJzFeqa6OGp9ayDwWQxp"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1511,34 +1543,18 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Dios, Familia & Rap",
-        "url": "https://open.spotify.com/album/1lue6TfOPJ4qL1EXkQ2Kne"
+        "name": "VIVO X TI",
+        "url": "https://open.spotify.com/album/59qDobCB7MIjEjdt2brrBL"
       },
       "artists": [
         {
-          "name": "El Philippe",
-          "url": "https://open.spotify.com/artist/3COYG9FFfTZQEB5B58Ufi1"
+          "name": "Angel Brown",
+          "url": "https://open.spotify.com/artist/4Hpy6w9oVzugC0RBvEO1D0"
         }
       ],
-      "duration_ms": 245039,
-      "name": "Hay Algo",
-      "url": "https://open.spotify.com/track/6VtJzFeqa6OGp9ayDwWQxp"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "Somos Las Voces",
-        "url": "https://open.spotify.com/album/379L30GLDmpr85KKQPqCmj"
-      },
-      "artists": [
-        {
-          "name": "Harold Velazquez",
-          "url": "https://open.spotify.com/artist/7whnCG4xTRqrIsagRrrjLj"
-        }
-      ],
-      "duration_ms": 242497,
-      "name": "Somos Las Voces",
-      "url": "https://open.spotify.com/track/5R4hkWGbAiuKFkZaaykViK"
+      "duration_ms": 179310,
+      "name": "VIVO X TI",
+      "url": "https://open.spotify.com/track/3dEo4rRlfd4dN621weMh5j"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1559,22 +1575,6 @@
       "duration_ms": 180779,
       "name": "Sin Gravedad",
       "url": "https://open.spotify.com/track/5jh1Vw7bhJJDGqpPxETFfO"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "VIVO X TI",
-        "url": "https://open.spotify.com/album/59qDobCB7MIjEjdt2brrBL"
-      },
-      "artists": [
-        {
-          "name": "Angel Brown",
-          "url": "https://open.spotify.com/artist/4Hpy6w9oVzugC0RBvEO1D0"
-        }
-      ],
-      "duration_ms": 179310,
-      "name": "VIVO X TI",
-      "url": "https://open.spotify.com/track/3dEo4rRlfd4dN621weMh5j"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1699,6 +1699,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "Mi Cielo",
+        "url": "https://open.spotify.com/album/5D4GmyyaF6KhL0rjJWzuM6"
+      },
+      "artists": [
+        {
+          "name": "Kev Miranda",
+          "url": "https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR"
+        }
+      ],
+      "duration_ms": 198640,
+      "name": "Mi Cielo",
+      "url": "https://open.spotify.com/track/53tX3nRjwvi8TvyEMW755d"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "Noches Enteras",
         "url": "https://open.spotify.com/album/5S7OdCYrsf0f3khUcp5bup"
       },
@@ -1719,18 +1735,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Mi Cielo",
-        "url": "https://open.spotify.com/album/5D4GmyyaF6KhL0rjJWzuM6"
+        "name": "NO ME MOVER\u00c9",
+        "url": "https://open.spotify.com/album/1Hghk6MYkggfQKh5aEJKqT"
       },
       "artists": [
         {
-          "name": "Kev Miranda",
-          "url": "https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR"
+          "name": "Pablo Betancourth",
+          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
+        },
+        {
+          "name": "Isaac Rojas",
+          "url": "https://open.spotify.com/artist/5aGkfIoXHpvpAL983bMFr5"
         }
       ],
-      "duration_ms": 198640,
-      "name": "Mi Cielo",
-      "url": "https://open.spotify.com/track/53tX3nRjwvi8TvyEMW755d"
+      "duration_ms": 186660,
+      "name": "NO ME MOVER\u00c9",
+      "url": "https://open.spotify.com/track/5qQ3AMagzXYC32oyrTNr1f"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1755,26 +1775,6 @@
       "duration_ms": 156190,
       "name": "Me Has Cambiado",
       "url": "https://open.spotify.com/track/0NSKiywwGZyL8dvvljO4Vi"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "NO ME MOVER\u00c9",
-        "url": "https://open.spotify.com/album/1Hghk6MYkggfQKh5aEJKqT"
-      },
-      "artists": [
-        {
-          "name": "Pablo Betancourth",
-          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
-        },
-        {
-          "name": "Isaac Rojas",
-          "url": "https://open.spotify.com/artist/5aGkfIoXHpvpAL983bMFr5"
-        }
-      ],
-      "duration_ms": 186660,
-      "name": "NO ME MOVER\u00c9",
-      "url": "https://open.spotify.com/track/5qQ3AMagzXYC32oyrTNr1f"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1863,26 +1863,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Los Haters",
-        "url": "https://open.spotify.com/album/3U1OJJtrmrMkK9mnTUZBcU"
-      },
-      "artists": [
-        {
-          "name": "Mesianico",
-          "url": "https://open.spotify.com/artist/1UNM4KxpdpffcCWFYqkTdL"
-        },
-        {
-          "name": "New Generation Music",
-          "url": "https://open.spotify.com/artist/6R1R06Xn3whTgs1ryfcp4v"
-        }
-      ],
-      "duration_ms": 152467,
-      "name": "Los Haters",
-      "url": "https://open.spotify.com/track/63WZuf7UX6NS0OEqQTrbFS"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "La Evoluci\u00f3n",
         "url": "https://open.spotify.com/album/02IX1iajO2m4lKJaP0zi1Q"
       },
@@ -1915,22 +1895,42 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "M\u00e1s Como T\u00fa \u2013 Remix",
-        "url": "https://open.spotify.com/album/7sql4hYL7mAYVzYde7KmHZ"
+        "name": "Los Haters",
+        "url": "https://open.spotify.com/album/3U1OJJtrmrMkK9mnTUZBcU"
       },
       "artists": [
         {
-          "name": "Alex Zurdo",
-          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+          "name": "Mesianico",
+          "url": "https://open.spotify.com/artist/1UNM4KxpdpffcCWFYqkTdL"
         },
         {
-          "name": "Linaje Escogido",
-          "url": "https://open.spotify.com/artist/2S0DRUKIeTtGef4BPbKcc0"
+          "name": "New Generation Music",
+          "url": "https://open.spotify.com/artist/6R1R06Xn3whTgs1ryfcp4v"
         }
       ],
-      "duration_ms": 206230,
-      "name": "M\u00e1s Como T\u00fa \u2013 Remix",
-      "url": "https://open.spotify.com/track/0cN87JXZzLCLml6H7MQkaj"
+      "duration_ms": 152467,
+      "name": "Los Haters",
+      "url": "https://open.spotify.com/track/63WZuf7UX6NS0OEqQTrbFS"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "Bueno es Dios",
+        "url": "https://open.spotify.com/album/6td6DYfOLlkA1AhBdwpFJE"
+      },
+      "artists": [
+        {
+          "name": "Yelitza Cintron",
+          "url": "https://open.spotify.com/artist/22XIzHmwPvEbKCT1dnLMt8"
+        },
+        {
+          "name": "Eliud L'voices",
+          "url": "https://open.spotify.com/artist/3DdifZ1wsTopflKfF6WFYj"
+        }
+      ],
+      "duration_ms": 179800,
+      "name": "Bueno es Dios",
+      "url": "https://open.spotify.com/track/3rAquLCHj5eCLUE6r1ARxP"
     }
   ],
   "unique_name": "Flow Cristiano",

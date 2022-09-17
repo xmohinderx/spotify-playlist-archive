@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVt7Sb7a9kCb.md) - [plain]
 
 > Llévatela tranqui con los hits más relajados del urbano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,274 likes - 80 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,283 likes - 80 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVt7Sb7a9kCb.md) - [plain]
 | 39 | [Como Estrellas](https://open.spotify.com/track/7GcN9q4AAH4uzQKvyuvByT) | [LA YOUNG](https://open.spotify.com/artist/2Xi0zO1N71Ff9KymMs93YX) | [Como Estrellas](https://open.spotify.com/album/0tm8uER1ZGdUFGKUg3QTud) | 3:39 |
 | 40 | [Rojo](https://open.spotify.com/track/380HmhwTE2NJgawn1NwkXi) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Colores](https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis) | 2:30 |
 | 41 | [No Sabe Igual](https://open.spotify.com/track/6EOtXcUQza8Ct4R2gyLWFl) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [No Sabe Igual](https://open.spotify.com/album/4hU6NEWq45slvWt16hEgX3) | 2:16 |
-| 42 | [NOW](https://open.spotify.com/track/5gJuYaon5zaZahQyAd0LVx) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [NOW](https://open.spotify.com/album/5uLwxrxExey2DMjxYTEnMC) | 3:12 |
-| 43 | [Calla Tú](https://open.spotify.com/track/7jL2tCE0Xn2tunqWayBkte) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [K.O.](https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK) | 2:41 |
+| 42 | [Calla Tú](https://open.spotify.com/track/7jL2tCE0Xn2tunqWayBkte) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [K.O.](https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK) | 2:41 |
+| 43 | [NOW](https://open.spotify.com/track/5gJuYaon5zaZahQyAd0LVx) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [NOW](https://open.spotify.com/album/5uLwxrxExey2DMjxYTEnMC) | 3:12 |
 | 44 | [Loquita](https://open.spotify.com/track/2OTULPNeQUkwQ0tNzcG7tj) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Loquita](https://open.spotify.com/album/5GjwudL8UiuD9wsRNSBHgZ) | 3:19 |
 | 45 | [Otra Noche Sin Ti](https://open.spotify.com/track/2CdTLdDjwZdVcm0bresVWx) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Otra Noche Sin Ti](https://open.spotify.com/album/0Q7L1MC5jSE0srnjEWCifV) | 3:48 |
 | 46 | [Dos Problemas \(feat\. Big Soto\) \- Remix](https://open.spotify.com/track/7bx66Je824Iak8c1CfsMrE) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Javiielo](https://open.spotify.com/artist/3HH6yOn1yJNZo3RY5zEfy5), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [Dos Problemas \(feat\. Big Soto\) \[Remix\]](https://open.spotify.com/album/6J5v3KTP6mYNd02doPo4mM) | 4:03 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVt7Sb7a9kCb.md) - [plain]
 | 76 | [Fue Lindo](https://open.spotify.com/track/7bMJX92st9uXhc4OuHDRG5) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Canciones Pa Mi Ex Vol.1](https://open.spotify.com/album/7iBIAxWWW0WhKnFnhHBfNh) | 2:28 |
 | 77 | [Hasta Abajo](https://open.spotify.com/track/54FoR5osiOJtVae7SCdSnq) | [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [Hasta Abajo](https://open.spotify.com/album/2eM85kZYl1Lz7tjp0MTGo1) | 3:49 |
 | 78 | [Las de Octubre](https://open.spotify.com/track/570gZiXUFd5phvmvh2gGCc) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [Las de Octubre](https://open.spotify.com/album/2w7wYFGBsvJJoUxQb8y1Td) | 2:45 |
-| 79 | [Perreito Under](https://open.spotify.com/track/6l0pG6obvyfFGeSUI3aS5y) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE), [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [HIT$ MUSIC](https://open.spotify.com/artist/44ALfmkGESKyMbbRrvw9gT) | [Perreito Under](https://open.spotify.com/album/5x6HNSub3IXwgDrvv1ond5) | 3:06 |
-| 80 | [Podemos Intentar](https://open.spotify.com/track/3Mi8RoaiZ6jmPIFkuNkYAg) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [Amor En Español](https://open.spotify.com/album/1e8k4kAKtcC5GIjfP4JDdR) | 4:11 |
+| 79 | [Podemos Intentar](https://open.spotify.com/track/3Mi8RoaiZ6jmPIFkuNkYAg) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [Amor En Español](https://open.spotify.com/album/1e8k4kAKtcC5GIjfP4JDdR) | 4:11 |
+| 80 | [Perreito Under](https://open.spotify.com/track/6l0pG6obvyfFGeSUI3aS5y) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE), [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [HIT$ MUSIC](https://open.spotify.com/artist/44ALfmkGESKyMbbRrvw9gT) | [Perreito Under](https://open.spotify.com/album/5x6HNSub3IXwgDrvv1ond5) | 3:06 |
 
-Snapshot ID: `MTY2MjQwNDg3NCwwMDAwMDAwMDRlYTU1NzBkZDRhYzUzZmI4OGU0YmIzOGVlMjRhMGU4`
+Snapshot ID: `MTY2MjQwNDg3NCwwMDAwMDAwMDZhMDAyMDNjMTc3ZTRkYmNkOWJkMjljNDUzZWVjMjJm`

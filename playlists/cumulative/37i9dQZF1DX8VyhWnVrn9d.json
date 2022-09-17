@@ -811,10 +811,28 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 183133,
       "name": "La Danza Del Coyote",
       "url": "https://open.spotify.com/track/2mIy6LxmVeUS0WKSclC81G"
+    },
+    {
+      "album": {
+        "name": "Las Medias Negras",
+        "url": "https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187768,
+      "name": "La Danza del Coyote",
+      "url": "https://open.spotify.com/track/2k8uSmaLryu83VrICrhOjS"
     },
     {
       "album": {

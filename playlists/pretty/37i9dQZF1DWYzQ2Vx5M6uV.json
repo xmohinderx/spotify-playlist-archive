@@ -1,12 +1,12 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Ir Sais, Manuel Turizo\n",
-  "num_followers": 98059,
+  "num_followers": 98099,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjQ4MTc1MywwMDAwMDAwMGQxOTk0YzlmYWNiZmE3NzU5MDBkMGEwOWRjZDlkM2Mw",
+  "snapshot_id": "MTY2MjQ4MTc1MywwMDAwMDAwMGMyZjExNjFjMDlmZDQ4MGMxMzM1ZTRjZjQ4MjE5ZWRl",
   "tracks": [
     {
       "added_at": "2022-09-06 16:11:58",
@@ -100,7 +100,7 @@
       },
       "artists": [
         {
-          "name": "WizKid",
+          "name": "Wizkid",
           "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         },
         {
@@ -275,26 +275,6 @@
     {
       "added_at": "2022-09-06 16:11:58",
       "album": {
-        "name": "The Prince I Became",
-        "url": "https://open.spotify.com/album/1ZFqA3I9luYn3JCzeUvkjB"
-      },
-      "artists": [
-        {
-          "name": "Ric Hassani",
-          "url": "https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 196857,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/0hRyt5qiE2pwTSAeeUS7lW"
-    },
-    {
-      "added_at": "2022-09-06 16:11:58",
-      "album": {
         "name": "Rotate",
         "url": "https://open.spotify.com/album/5FlP8dwJCTGLFk38tHDEiX"
       },
@@ -311,6 +291,26 @@
       "duration_ms": 201940,
       "name": "Rotate",
       "url": "https://open.spotify.com/track/6wwT3PgG3eFuKCpxzjMJFs"
+    },
+    {
+      "added_at": "2022-09-06 16:11:58",
+      "album": {
+        "name": "The Prince I Became",
+        "url": "https://open.spotify.com/album/1ZFqA3I9luYn3JCzeUvkjB"
+      },
+      "artists": [
+        {
+          "name": "Ric Hassani",
+          "url": "https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 196857,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/0hRyt5qiE2pwTSAeeUS7lW"
     },
     {
       "added_at": "2022-09-06 16:11:58",
@@ -552,7 +552,7 @@
           "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
         },
         {
-          "name": "WizKid",
+          "name": "Wizkid",
           "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         },
         {
@@ -855,6 +855,26 @@
     {
       "added_at": "2022-09-06 16:11:58",
       "album": {
+        "name": "No Wahala (Latin Remix)",
+        "url": "https://open.spotify.com/album/4QGp54NmocX8ptDWOJrRTz"
+      },
+      "artists": [
+        {
+          "name": "1da Banton",
+          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
+        },
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        }
+      ],
+      "duration_ms": 157523,
+      "name": "No Wahala - Latin Remix",
+      "url": "https://open.spotify.com/track/2wzmZNutkmbhv0rNCHvPz4"
+    },
+    {
+      "added_at": "2022-09-06 16:11:58",
+      "album": {
         "name": "iluminada",
         "url": "https://open.spotify.com/album/50HmpTkK9ryM9PMnIRAOGr"
       },
@@ -875,26 +895,6 @@
       "duration_ms": 175000,
       "name": "before",
       "url": "https://open.spotify.com/track/4E6uEWazcA6C2VaWoODFyH"
-    },
-    {
-      "added_at": "2022-09-06 16:11:58",
-      "album": {
-        "name": "No Wahala (Latin Remix)",
-        "url": "https://open.spotify.com/album/4QGp54NmocX8ptDWOJrRTz"
-      },
-      "artists": [
-        {
-          "name": "1da Banton",
-          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
-        },
-        {
-          "name": "Brytiago",
-          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
-        }
-      ],
-      "duration_ms": 157523,
-      "name": "No Wahala - Latin Remix",
-      "url": "https://open.spotify.com/track/2wzmZNutkmbhv0rNCHvPz4"
     },
     {
       "added_at": "2022-09-06 16:11:58",
@@ -1175,26 +1175,6 @@
     {
       "added_at": "2022-09-06 16:11:58",
       "album": {
-        "name": "Ladies First",
-        "url": "https://open.spotify.com/album/5OXAbuAjAWGqE6sBQyRDJU"
-      },
-      "artists": [
-        {
-          "name": "Dice Ailes",
-          "url": "https://open.spotify.com/artist/6k96FH3t0HYJRLaMi3TNXa"
-        },
-        {
-          "name": "Kaydy Cain",
-          "url": "https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA"
-        }
-      ],
-      "duration_ms": 181978,
-      "name": "Rosalia",
-      "url": "https://open.spotify.com/track/0R9rf3OFri2zYFJssbkFyn"
-    },
-    {
-      "added_at": "2022-09-06 16:11:58",
-      "album": {
         "name": "Sugarcane (Latin Remix)",
         "url": "https://open.spotify.com/album/0bgv84IDiggOHkjuQCsovu"
       },
@@ -1219,6 +1199,26 @@
       "duration_ms": 258048,
       "name": "Sugarcane - Latin Remix",
       "url": "https://open.spotify.com/track/6e70q5Yht4GCZeB6VtXxO2"
+    },
+    {
+      "added_at": "2022-09-06 16:11:58",
+      "album": {
+        "name": "Ladies First",
+        "url": "https://open.spotify.com/album/5OXAbuAjAWGqE6sBQyRDJU"
+      },
+      "artists": [
+        {
+          "name": "Dice Ailes",
+          "url": "https://open.spotify.com/artist/6k96FH3t0HYJRLaMi3TNXa"
+        },
+        {
+          "name": "Kaydy Cain",
+          "url": "https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA"
+        }
+      ],
+      "duration_ms": 181978,
+      "name": "Rosalia",
+      "url": "https://open.spotify.com/track/0R9rf3OFri2zYFJssbkFyn"
     },
     {
       "added_at": "2022-09-06 16:11:58",

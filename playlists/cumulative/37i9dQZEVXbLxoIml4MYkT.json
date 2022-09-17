@@ -226,6 +226,28 @@
     },
     {
       "album": {
+        "name": "Sauce Boyz",
+        "url": "https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208236,
+      "name": "3 Am",
+      "url": "https://open.spotify.com/track/1F205Nl2feOSYSztLNOJAL"
+    },
+    {
+      "album": {
         "name": "506",
         "url": "https://open.spotify.com/album/38coX6excq4obQR4Z7sww7"
       },
@@ -1381,7 +1403,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 177280,
       "name": "Castigo",
       "url": "https://open.spotify.com/track/18pWcEUcUJpBFs7eNBsBht"
@@ -2379,7 +2401,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-06-19",
+      "date_removed": null,
       "duration_ms": 164895,
       "name": "Eladio Carrion: Bzrp Music Sessions, Vol. 40",
       "url": "https://open.spotify.com/track/1VauUM5CBX7nkLcgafQL2B"
@@ -5722,6 +5744,28 @@
     },
     {
       "album": {
+        "name": "Party en el Barrio (feat. Duki)",
+        "url": "https://open.spotify.com/album/2alxO71ik8lO8YIuNT2LKn"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236143,
+      "name": "Party en el Barrio (feat. Duki)",
+      "url": "https://open.spotify.com/track/5GF0X7GdNmnouKcdhhRmtm"
+    },
+    {
+      "album": {
         "name": "Par\u00eds",
         "url": "https://open.spotify.com/album/2dhk2kLdjVxWps1PW9WSTj"
       },
@@ -7859,7 +7903,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 218693,
       "name": "XQ Te Pones As\u00ed",
       "url": "https://open.spotify.com/track/6JUMswocQ7Hp46kj9kyljT"
@@ -7877,7 +7921,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 185722,
       "name": "Ya No Somos Ni Seremos",
       "url": "https://open.spotify.com/track/0UXlu64mDLvfzR8IXMz06J"

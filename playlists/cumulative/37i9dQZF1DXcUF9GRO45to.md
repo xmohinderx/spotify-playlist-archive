@@ -4,7 +4,7 @@
 
 > French scene makes some noise!
 
-198 songs - 12 hr 36 min - [published](https://open.spotify.com/playlist/16ojsYsGmxEyBlFo3lFArf)
+199 songs - 12 hr 41 min - [published](https://open.spotify.com/playlist/16ojsYsGmxEyBlFo3lFArf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Fixed It All](https://open.spotify.com/track/19UtO7hBxFYhqYMqFePsjv) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W) | 4:21 | 2022-06-30 |  |
 | [Fixed It All](https://open.spotify.com/track/1kfn8rDlkRsuHZCOBLSj26) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/2SU0zDS8TIZ1kVSYEaqq5w) | 4:21 | 2021-12-15 | 2022-07-29 |
 | [Forces du désordre](https://open.spotify.com/track/12kdwvRR8sFDU4ddjw715I) | [No One Is Innocent](https://open.spotify.com/artist/3xYWXsDjB4Kfl6EY2hibO3) | [Ennemis](https://open.spotify.com/album/1Rgj6TYiSvZ107ZJWuvccu) | 4:43 | 2021-12-15 | 2022-07-29 |
+| [Forces du désordre](https://open.spotify.com/track/2hWlaul9Wj3tUBTmEPrv7i) | [No One Is Innocent](https://open.spotify.com/artist/3xYWXsDjB4Kfl6EY2hibO3) | [Ennemis](https://open.spotify.com/album/4j2DBhcF61htHI38bBp4UF) | 4:43 | 2022-09-12 |  |
 | [From The Sea To Your Mind](https://open.spotify.com/track/7uCaXe0aBw5PdS19PmNDYF) | [SIZ](https://open.spotify.com/artist/1CtmxHZBoOqnM9fhtnODEo) | [From The Sea To Your Mind](https://open.spotify.com/album/2jGv5SpNA7IVPGMisdbrw9) | 5:29 | 2022-03-24 | 2022-07-29 |
 | [Full Circle Back](https://open.spotify.com/track/5kVeebGBrpAum8u2RYt9xh) | [MNNQNS](https://open.spotify.com/artist/1xv8LIJ3qAL2EioqhUjqtY) | [Full Circle Back](https://open.spotify.com/album/1G4sh6vNpyep8N9Kc8i4Lu) | 3:46 | 2022-04-17 | 2022-07-29 |
 | [Full House](https://open.spotify.com/track/1BkdBZBqMvDlyZjbxJ0RYO) | [Sport](https://open.spotify.com/artist/5kKhcEMSytHUQK1KOHfYxx) | [Slow](https://open.spotify.com/album/2GtKStxZmmULokdaAkKwmG) | 3:20 | 2022-01-03 |  |
@@ -197,7 +198,7 @@
 | [Vegan Porn Food](https://open.spotify.com/track/5Q7WoXFIG0X0jEcR4BKAQU) | [Stuck in the Sound](https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy) | [Billy Believe](https://open.spotify.com/album/2TucJEKDdHS6doCvqeWmvR) | 4:46 | 2021-12-31 |  |
 | [Voices](https://open.spotify.com/track/5w0zJQuL3t1oHkF0vGAGac) | [Lane \(Love And Noise Experiment\)](https://open.spotify.com/artist/6mAfQASNTrLERLgZYR9hxf) | [Pictures of a Century](https://open.spotify.com/album/2tNX8NTFHnAd2Ipw5rp91N) | 2:41 | 2021-12-15 | 2022-07-26 |
 | [Vulgar](https://open.spotify.com/track/7cOZA9hhLkBValr2rhaH61) | [Trainfantome](https://open.spotify.com/artist/7pG1EQuqeYlTh3J3jkCHfp) | [Postmodern Blue](https://open.spotify.com/album/4ytKLcwskenzEAA3Ae3Kta) | 2:50 | 2021-12-31 | 2022-07-26 |
-| [Wait On Me](https://open.spotify.com/track/21hHG6wPAOsnSeGZYAoS0C) | [Two Trains Left](https://open.spotify.com/artist/3CKpFibQUpWRorEYFxLNJn) | [As Safe As Yesterday](https://open.spotify.com/album/1uufU9XE4QdcM6BzwrEy4C) | 3:32 | 2022-04-27 |  |
+| [Wait On Me](https://open.spotify.com/track/21hHG6wPAOsnSeGZYAoS0C) | [Two Trains Left](https://open.spotify.com/artist/3CKpFibQUpWRorEYFxLNJn) | [As Safe As Yesterday](https://open.spotify.com/album/1uufU9XE4QdcM6BzwrEy4C) | 3:32 | 2022-04-27 | 2022-09-17 |
 | [Wandering Life](https://open.spotify.com/track/1yAzT7gBa4nAn8SeUrwj3E) | [FUZETA](https://open.spotify.com/artist/1qlyhk1POBMOFpQ7LNANSO) | [Wandering Life](https://open.spotify.com/album/7dDOXyyR3MgSkqoZkW4MdV) | 3:32 | 2021-12-31 | 2022-04-20 |
 | [Water Snakes](https://open.spotify.com/track/3DxdqZOASBahkXBJdufzV7) | [The Harts Industry](https://open.spotify.com/artist/1W1qgY85Z1VANgSBogem2H) | [Water Snakes](https://open.spotify.com/album/63m3gJHwjIMjAs6a244hxK) | 3:08 | 2022-02-14 | 2022-07-29 |
 | [Welcome Newcomers](https://open.spotify.com/track/0yPdYvRz6qTo0oI6CFJwDj) | [Cosse](https://open.spotify.com/artist/2sGoKWmM956fjU3X8N5VxH) | [Nothing Belongs to Anything](https://open.spotify.com/album/1hCtl92M5FJH8zmgRT1fN3) | 5:08 | 2022-04-17 |  |

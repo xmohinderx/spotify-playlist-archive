@@ -1,12 +1,12 @@
 {
   "description": "De playlist voor magic, motion en good vibes! Cover: WizKid",
-  "num_followers": 304044,
+  "num_followers": 304081,
   "original_name": "La Vida Loca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzI3OTIwMCwwMDAwMDAwMDBjMTQ4ZTllYjYyN2U4ODI5YjY0MTcwYmJhM2Q2MTRj",
+  "snapshot_id": "MTY2MzI3OTIwMCwwMDAwMDAwMGI4ZmQ2Y2RhY2I0MzA5YjE5NGI3NWMxNWM1YzA2NDUx",
   "tracks": [
     {
       "added_at": "2022-09-15 22:00:00",
@@ -16,7 +16,7 @@
       },
       "artists": [
         {
-          "name": "WizKid",
+          "name": "Wizkid",
           "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
@@ -159,18 +159,26 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
-        "name": ",Habiba",
-        "url": "https://open.spotify.com/album/4XReWOoUunJg7CBW3c0tF2"
+        "name": "Habiba (Remix)",
+        "url": "https://open.spotify.com/album/5k3wkJ8CgwsIGOH0gdDHfj"
       },
       "artists": [
         {
           "name": "Kalibiboy D",
           "url": "https://open.spotify.com/artist/3WVqcOKgdST367tFuk2lzm"
+        },
+        {
+          "name": "Justice Toch",
+          "url": "https://open.spotify.com/artist/3B4UCLYCwiQTr6bmtpGnIa"
+        },
+        {
+          "name": "DeMozah",
+          "url": "https://open.spotify.com/artist/6xk6F2Ixz6Ljlxnt1FlMLU"
         }
       ],
-      "duration_ms": 134334,
-      "name": ",Habiba",
-      "url": "https://open.spotify.com/track/3cz2SEC5wqPaelfVB6btbJ"
+      "duration_ms": 144036,
+      "name": "Habiba - Remix",
+      "url": "https://open.spotify.com/track/7imx8YnFdPOEaOFhJptUSW"
     },
     {
       "added_at": "2022-09-15 22:00:00",
@@ -1144,12 +1152,12 @@
           "url": "https://open.spotify.com/artist/2zkxesVPDKamfWSZwF3MGC"
         },
         {
-          "name": "\u00a5ami",
-          "url": "https://open.spotify.com/artist/2x55x6rUM7CSSslAjOgqUT"
-        },
-        {
           "name": "Berra PK",
           "url": "https://open.spotify.com/artist/72PJTrRxOqJZxptd4OpR3B"
+        },
+        {
+          "name": "\u00a5ami",
+          "url": "https://open.spotify.com/artist/2x55x6rUM7CSSslAjOgqUT"
         }
       ],
       "duration_ms": 157254,

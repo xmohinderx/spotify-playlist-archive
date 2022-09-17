@@ -4,7 +4,7 @@
 
 > 回家的路上，有好聽的歌曲陪伴，會讓人暫時忘了疲倦。
 
-222 songs - 16 hr 29 min - [published](https://open.spotify.com/playlist/3PHd0BgAU7GtH83PqXsATM)
+223 songs - 16 hr 34 min - [published](https://open.spotify.com/playlist/3PHd0BgAU7GtH83PqXsATM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,9 +60,10 @@
 | [你的酒馆对我打了烊](https://open.spotify.com/track/6BL2V0CvfW9QVHm9oU4Lmk) | [Shirley Chen](https://open.spotify.com/artist/4fbvNLpGvqBWKt7pVGzdV8) | [你的酒馆对我打了烊](https://open.spotify.com/album/2lYhegs4QXZDW1vpmsR1FW) | 4:11 | 2022-07-04 | 2022-07-08 |
 | [你的酒馆对我打了烊](https://open.spotify.com/track/6FurM8spY6gzyPF1yUuXwX) | [陈雪凝](https://open.spotify.com/artist/7hhBMsiz3xH2GHj7tbRpgW) | [你的酒馆对我打了烊](https://open.spotify.com/album/2TwPjdqlFBNjR2qrFHnYWL) | 4:11 | 2022-07-25 |  |
 | [來不及說再見](https://open.spotify.com/track/782oShDK6dbOjSvi9lIc2I) | [劉學甫](https://open.spotify.com/artist/4fQhjXVVGKPG7K1SYFWjpH), [許莉潔](https://open.spotify.com/artist/3xAqf1dVTnMq6PRm3txE3f) | [來不及說再見](https://open.spotify.com/album/4j9br9HddUvZDOGHWom7N3) | 4:30 | 2022-06-13 | 2022-07-04 |
+| [假如世上還有一個人](https://open.spotify.com/track/0ki1xpYUdxYxzJocp1jjxa) | [Priscilla Abby](https://open.spotify.com/artist/0zFBdI3ErhNDcIPAKiGoL0) | [假如世上還有一個人](https://open.spotify.com/album/3R0a9X793U1Xi5ayVzrXQk) | 4:20 | 2022-09-12 |  |
 | [偽裝](https://open.spotify.com/track/53455JJQIRhArHbF2XA7s9) | [Da Zhuang](https://open.spotify.com/artist/0JvihWUI0PyC4sEJGVwrAg) | [偽裝](https://open.spotify.com/album/1LkriYhUsulFbEL8t2fBc3) | 5:00 | 2022-07-25 |  |
 | [傘下 \- 電視劇《歡喜來逗陣》片尾曲](https://open.spotify.com/track/0oydZSHL9DztppHaWJdDaB) | [Phil Chang](https://open.spotify.com/artist/7g65zUBhUAbiu4pAcoyWRd) | [張宇戲劇主題曲精選 \(2008\-2011\)](https://open.spotify.com/album/5Y7M1SLHMtiZ9WW3TT4ufe) | 4:39 | 2022-06-06 | 2022-06-14 |
-| [備胎 \(feat\. Eetu Kalavainen\)](https://open.spotify.com/track/6OuBzoZm0GHYzPNGlvB3yx) | [R\-chord](https://open.spotify.com/artist/5XkrVVn0lQIVPkH55nbTgZ), [Eetu Kalavainen](https://open.spotify.com/artist/2gmrjqnmYgLobcr15nJR3O) | [像水一樣](https://open.spotify.com/album/1ACpdg4OuZtA5MfrK4mM5u) | 4:32 | 2022-09-12 |  |
+| [備胎 \(feat\. Eetu Kalavainen\)](https://open.spotify.com/track/6OuBzoZm0GHYzPNGlvB3yx) | [R\-chord](https://open.spotify.com/artist/5XkrVVn0lQIVPkH55nbTgZ), [Eetu Kalavainen](https://open.spotify.com/artist/2gmrjqnmYgLobcr15nJR3O) | [像水一樣](https://open.spotify.com/album/1ACpdg4OuZtA5MfrK4mM5u) | 4:32 | 2022-09-12 | 2022-09-17 |
 | [像是一顆星星](https://open.spotify.com/track/6SMLP3dTwRTuc1E1YUjrB1) | [Rainie Yang](https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk) | [像是一顆星星](https://open.spotify.com/album/12UdZ0g89H8qexIJJZZfxS) | 3:50 | 2022-06-13 | 2022-07-11 |
 | [內傷](https://open.spotify.com/track/6tIaVtOWhsJhOYT81hioxk) | [Ricky Hsiao](https://open.spotify.com/artist/0E6oEhZZtQvj811iXQFLrB) | [說故事的歌](https://open.spotify.com/album/2OcafcgIRbdMhbAKjrYRVB) | 4:52 | 2022-06-13 |  |
 | [再一次 \- 金酒70週年年度歌曲](https://open.spotify.com/track/26gJgtHNxELrk6bkW7XZEw) | [柏霖PoLin](https://open.spotify.com/artist/42UhEbkOaTEwJKWmf7xlfZ) | [再一次 \(金酒70週年年度歌曲\)](https://open.spotify.com/album/4pMiZsRXAle3IIYBwENisQ) | 3:52 | 2022-07-11 | 2022-07-24 |

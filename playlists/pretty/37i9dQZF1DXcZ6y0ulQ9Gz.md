@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZ6y0ulQ9Gz.md) - [plain]
 
 > The best in Indie in one place\. Cover: Men I Trust
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,315 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,322 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZ6y0ulQ9Gz.md) - [plain]
 | 30 | [Delete Forever](https://open.spotify.com/track/71J2rawCGulCAyTMtNY3Ej) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Miss Anthropocene \(Deluxe Edition\)](https://open.spotify.com/album/4zyqNfmTrnvUejh8M1IEh9) | 3:57 |
 | 31 | [Wildfires](https://open.spotify.com/track/4Tzw9IdZbVyzmpWrvsGaNX) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Untitled \(Black Is\)](https://open.spotify.com/album/0GPmuVuCdC5hCsiuy1wXle) | 3:26 |
 | 32 | [Serotonin](https://open.spotify.com/track/16MneRxNQpHK250NaIo3bg) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/10nQ1u8Y1zlOb61zwZavDk) | 3:02 |
-| 33 | [Be Sweet](https://open.spotify.com/track/0dpyzcT3RMNNSd2xKBf35I) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Jubilee](https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY) | 3:15 |
-| 34 | [Coming Back \(feat\. SZA\)](https://open.spotify.com/track/2pSsHnjAgEPjHmet7ChlHQ) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Friends That Break Your Heart](https://open.spotify.com/album/1zNtJFMCNIyT0X19jpcI3j) | 3:15 |
+| 33 | [Coming Back \(feat\. SZA\)](https://open.spotify.com/track/2pSsHnjAgEPjHmet7ChlHQ) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Friends That Break Your Heart](https://open.spotify.com/album/1zNtJFMCNIyT0X19jpcI3j) | 3:15 |
+| 34 | [Be Sweet](https://open.spotify.com/track/0dpyzcT3RMNNSd2xKBf35I) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Jubilee](https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY) | 3:15 |
 | 35 | [Car Crash in G Major](https://open.spotify.com/track/24EtJ2vTx6CtaP32S6Arn2) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Car Crash in G Major](https://open.spotify.com/album/1aPZj3S4ORUVOaaFmUgCU6) | 2:12 |
 | 36 | [Love Me More](https://open.spotify.com/track/4PUT0cH2iggaje5hTJZeGe) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Laurel Hell](https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22) | 3:32 |
 | 37 | [KEEP IT UP](https://open.spotify.com/track/0ioTTk5l0Zz7Oh48qEocgj) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [KEEP IT UP](https://open.spotify.com/album/36IWMZ2DOpKbLb0IrzWc4U) | 3:03 |
@@ -71,9 +71,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZ6y0ulQ9Gz.md) - [plain]
 | 61 | [All Comes Crashing](https://open.spotify.com/track/4XRvI0XtqdOGYeC36VkbwA) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Formentera](https://open.spotify.com/album/1S5vq5vSHCnCJnMljIiuS6) | 4:23 |
 | 62 | [Post Humorous](https://open.spotify.com/track/0yb9DKhu0xA0h0qvKOHVwu) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Orca](https://open.spotify.com/album/1D8cnABQfjvfQC2Cdk889m) | 4:39 |
 | 63 | [People, I've been sad](https://open.spotify.com/track/2rWeNybwVZTWEbkb9JOjcz) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [La vita nuova](https://open.spotify.com/album/0iyzHNJTyl7G9vNwp3B8iQ) | 4:20 |
-| 64 | [U&ME](https://open.spotify.com/track/3i4ColsuZEvjeLz63m0jPt) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [The Dream](https://open.spotify.com/album/5ogYKSRRlVAgMzv09HFeIn) | 3:18 |
+| 64 | [Once Twice Melody](https://open.spotify.com/track/057rZ21MDp8Ld0TgQndNcv) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Once Twice Melody](https://open.spotify.com/album/79NySyjxJ8xric31mXKMAo) | 4:44 |
 | 65 | [Bitches In The Bathroom](https://open.spotify.com/track/4jelQlTVvMmt3z0zxq9bUk) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [Bitches In The Bathroom](https://open.spotify.com/album/1Z1IjE7xIGuH1jjFBsUOrJ) | 2:59 |
-| 66 | [Once Twice Melody](https://open.spotify.com/track/057rZ21MDp8Ld0TgQndNcv) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Once Twice Melody](https://open.spotify.com/album/79NySyjxJ8xric31mXKMAo) | 4:44 |
+| 66 | [U&ME](https://open.spotify.com/track/3i4ColsuZEvjeLz63m0jPt) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [The Dream](https://open.spotify.com/album/5ogYKSRRlVAgMzv09HFeIn) | 3:18 |
 | 67 | [Vickie](https://open.spotify.com/track/57U1PB3FAleLul5wMj5dEZ) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Vickie](https://open.spotify.com/album/526tAZMztvUDsuiSs4Z7Ml) | 3:43 |
 | 68 | [I Don't Live Here Anymore \(feat\. Lucius\)](https://open.spotify.com/track/3h2CkNuAKSxZXWGElwcOvH) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU), [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [I Don't Live Here Anymore \(feat\. Lucius\)](https://open.spotify.com/album/3TlKOq7pgN2XIAM3J2HSyD) | 5:27 |
 | 69 | [Eugene](https://open.spotify.com/track/0sT4slW2xWai3EwVSiuL9Y) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZ6y0ulQ9Gz.md) - [plain]
 | 99 | [Not Around](https://open.spotify.com/track/7dlzjco7oeJIbDAYXWDo22) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Sunny Boy](https://open.spotify.com/album/5m2dVboM31qQtwPVch8pFv) | 2:40 |
 | 100 | [Iron](https://open.spotify.com/track/1PsWJxbry9jdH6DKqQ90CL) | [Tennyson](https://open.spotify.com/artist/3Nb8N20WChM0swo5qWTvm8) | [Rot](https://open.spotify.com/album/0RqOFwSMSF02awYaXYdtxo) | 3:36 |
 
-Snapshot ID: `MTY2MjA5MTIwMCwwMDAwMDAwMDQ1M2ZjODA1NTZkOTQ2Y2QxZWMwMDgwMzczNWZhZTIz`
+Snapshot ID: `MTY2MjA5MTIwMCwwMDAwMDAwMDE3MjcxODgzNTdjNjg5MTczZjM2NTQwOGI2OTU0ZDFj`

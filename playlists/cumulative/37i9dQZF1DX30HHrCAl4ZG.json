@@ -3140,6 +3140,24 @@
     },
     {
       "album": {
+        "name": "Eggshells",
+        "url": "https://open.spotify.com/album/1a7DBuyuqgQA7cGLvkiJVN"
+      },
+      "artists": [
+        {
+          "name": "Dehd",
+          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151149,
+      "name": "Eggshells",
+      "url": "https://open.spotify.com/track/2JXsy8qz9PzqDwX7ozd4Go"
+    },
+    {
+      "album": {
         "name": "Blue Skies",
         "url": "https://open.spotify.com/album/1vzqa9wcGcflSTyVbQPRFE"
       },
@@ -3609,6 +3627,28 @@
       "duration_ms": 254735,
       "name": "First Time",
       "url": "https://open.spotify.com/track/5OLVjtDBzeHtqGTn5Pwo1B"
+    },
+    {
+      "album": {
+        "name": "First Time Caller",
+        "url": "https://open.spotify.com/album/2mxrENnX1AxQO4iyLxUvA6"
+      },
+      "artists": [
+        {
+          "name": "Jaguar Sun",
+          "url": "https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC"
+        },
+        {
+          "name": "Husbands",
+          "url": "https://open.spotify.com/artist/2FUIaEhxMNdiBpO8ykabdP"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317279,
+      "name": "First Time Caller",
+      "url": "https://open.spotify.com/track/3pJ1EjeERFlGkj93KWp2Fi"
     },
     {
       "album": {
@@ -4723,6 +4763,24 @@
       "duration_ms": 189663,
       "name": "I Hope You Understand",
       "url": "https://open.spotify.com/track/2IyWpZBEqy0kfZl0XRCNrB"
+    },
+    {
+      "album": {
+        "name": "i just want to hide my face",
+        "url": "https://open.spotify.com/album/0mPO0i23qRLIkp5DgmpFkB"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132840,
+      "name": "i just want to hide my face",
+      "url": "https://open.spotify.com/track/1xDZoTi6F9wZtpcQ1dlyE7"
     },
     {
       "album": {
@@ -10461,7 +10519,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 198840,
       "name": "U&ME",
       "url": "https://open.spotify.com/track/3i4ColsuZEvjeLz63m0jPt"
@@ -10990,6 +11048,24 @@
     },
     {
       "album": {
+        "name": "What Do We Do Now?",
+        "url": "https://open.spotify.com/album/6xRTvgiVIkBPIZH8IzGBUR"
+      },
+      "artists": [
+        {
+          "name": "Charlie Houston",
+          "url": "https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247893,
+      "name": "What Do We Do Now?",
+      "url": "https://open.spotify.com/track/06HgiR8nOgQaXuQQdGQbS9"
+    },
+    {
+      "album": {
         "name": "What It's Like",
         "url": "https://open.spotify.com/album/5YaKeYVnTIMh7keLN0i729"
       },
@@ -11247,7 +11323,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 98800,
       "name": "wish i was dead",
       "url": "https://open.spotify.com/track/16dzo8i1mlh2AkmQ4DhwXH"

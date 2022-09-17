@@ -4,15 +4,17 @@
 
 > On Fleek: Adj\. 1\) a state of completeness and flawlessness \[see: <a href="https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m">Beyoncé</a>\]\. Cover: Flo Milli
 
-143 songs - 7 hr 3 min - [published](https://open.spotify.com/playlist/4ouhVZ8GHI1LOdC6avctWq)
+146 songs - 7 hr 11 min - [published](https://open.spotify.com/playlist/4ouhVZ8GHI1LOdC6avctWq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [3 Years \(feat\. Deante' Hitchcock\)](https://open.spotify.com/track/4Ps8BalYQSZEhT1JGDMwQl) | [Ellery Bonham](https://open.spotify.com/artist/0z0QtIZfyodv4ImXAxEXIH), [Deante' Hitchcock](https://open.spotify.com/artist/5REHfa3YDopGOzrxwTsPvH) | [3 Years \(feat\. Deante' Hitchcock\)](https://open.spotify.com/album/7yn9fplntF0TRaIq93OJeg) | 3:39 | 2022-06-03 |  |
 | [80/20](https://open.spotify.com/track/3UGjJ29o2HC4Sb06DXjkFQ) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW) | [Ungodly Hour \(Chrome Edition\)](https://open.spotify.com/album/6hMkD2lSkRG7ZJZ3iGpQyz) | 2:48 | 2022-06-03 |  |
 | [Ain't Going Back](https://open.spotify.com/track/1Iot1CYAcasgCDUxndVt7D) | [Rican Da Menace](https://open.spotify.com/artist/1JfDtCRGqUvGFKaevDPrHY) | [Ain't Going Back](https://open.spotify.com/album/4DaOVKUAir02h9JpD3ddVP) | 2:29 | 2022-06-17 |  |
+| [AMANTES](https://open.spotify.com/track/3Q7o2zzvXj7QiSCumjBpvu) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Daviles de Novelda](https://open.spotify.com/artist/6E94QKXZv8BbO6QQJxcxLI) | [AMANTES](https://open.spotify.com/album/2yEEceuPovV5sAoey4GUJF) | 3:00 | 2022-09-16 |  |
 | [ASK ABOUT ME](https://open.spotify.com/track/7JKIdU78mVa2FIh13FDdRA) | [Stunna Girl](https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV) | [STUNNA THIS STUNNA THAT](https://open.spotify.com/album/6tAS0lVufnFfzdBfXyGHvN) | 2:28 | 2022-06-03 |  |
 | [Aura](https://open.spotify.com/track/3XEJrEHmUBAtPvk9UsysV5) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Aura](https://open.spotify.com/album/4OimC40m5O3v6z4uvXlW4M) | 3:12 | 2022-06-03 |  |
+| [Bad Bitch](https://open.spotify.com/track/6a5PUN30wegSR44wmpmgym) | [Annalise Azadian](https://open.spotify.com/artist/0HfhX8IRgwiQm4FRmGCV5c) | [Bad Bitch](https://open.spotify.com/album/11aetBBCE5y8wzFs8S8qmb) | 2:35 | 2022-09-16 |  |
 | [BAILÉ CON MI EX](https://open.spotify.com/track/0Yc0ziTsyjahYqlWXVXlTU) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [BAILÉ CON MI EX](https://open.spotify.com/album/1Q2VAJl9617SehQItOqzqI) | 2:41 | 2022-06-03 |  |
 | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n) | 3:26 | 2022-06-03 |  |
 | [Be Alive \(Original Song from the Motion Picture "King Richard"\)](https://open.spotify.com/track/1RI4YQVFh7onQD07QuL8ND) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Be Alive \(Original Song from the Motion Picture "King Richard"\)](https://open.spotify.com/album/5a73HUmrKIebjmafM1QuFS) | 3:40 | 2022-06-03 |  |
@@ -97,6 +99,7 @@
 | [PBC](https://open.spotify.com/track/4DDiIZDlRldzWuCp47TIhU) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [PBC](https://open.spotify.com/album/06IJHrNnxOYwvOjT3RBl0i) | 2:34 | 2022-06-03 |  |
 | [peppermint](https://open.spotify.com/track/3j8IY51BphvdJhwllZa64l) | [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [peppermint](https://open.spotify.com/album/0lY0zMy831JbNwgM1wv2rK) | 2:47 | 2022-06-03 |  |
 | [Perreito Salvaje](https://open.spotify.com/track/4hs52wFSucGnS5dYryIZ4F) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Perreito Salvaje](https://open.spotify.com/album/2nEyfN6oPzU8bVd3639TSK) | 2:51 | 2022-06-03 |  |
+| [pl4yg1rl](https://open.spotify.com/track/3xA9Cta8gafKNV1xNpMK2r) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [pl4yg1rl](https://open.spotify.com/album/1xQEgoJUeY0K2pc0p8LLXG) | 2:39 | 2022-09-16 |  |
 | [plain chip](https://open.spotify.com/track/3OnjXW05hcOQ8aXhj1rlPv) | [VALÉ](https://open.spotify.com/artist/3iyja6ErhSJ4NplEsdlzyE) | [plain chip](https://open.spotify.com/album/78GuTKkqxNUe8SqSJxKlBh) | 2:40 | 2022-07-01 |  |
 | [Polytics](https://open.spotify.com/track/29DpuCxcRK8igslbq7RSD4) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G) | [Polytics](https://open.spotify.com/album/3znffL5bZo1Fkjj5j2xKjj) | 2:35 | 2022-06-03 |  |
 | [Problemas](https://open.spotify.com/track/0ibM1mZeNP37EH0aijBZed) | [GALE](https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM) | [Problemas](https://open.spotify.com/album/7D0hDhJZc5MHZVWxmzuCUv) | 3:16 | 2022-06-03 |  |

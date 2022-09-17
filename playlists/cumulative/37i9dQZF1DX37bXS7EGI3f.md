@@ -4,7 +4,7 @@
 
 > Epic and melodic metal, for the dragonslayer in you! Cover: Sabaton
 
-491 songs - 1 day 13 hr 55 min - [published](https://open.spotify.com/playlist/7kEcasUjgrsWeDSNxMBt56)
+492 songs - 1 day 13 hr 57 min - [published](https://open.spotify.com/playlist/7kEcasUjgrsWeDSNxMBt56)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Ecdysis](https://open.spotify.com/track/3f8cF7lcekpfs0Ww58nunV) | [Set and Setting](https://open.spotify.com/artist/5MDD6ObIICvtWZcMmHrwts) | [Tabula Rasa](https://open.spotify.com/album/2CZ9tJdRdhw4HeH6s9GaOQ) | 7:09 | 2022-07-13 | 2022-07-28 |
 | [Echo Chamber](https://open.spotify.com/track/60f16377jccKJsVAwmnyiR) | [Northlane](https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9) | [Echo Chamber](https://open.spotify.com/album/1s8WAKE6VnNPW5Mdud6nQF) | 3:47 | 2021-11-13 | 2022-04-23 |
 | [EDM \(E\-Dependent Mind\)](https://open.spotify.com/track/1XUxOG4MhpHiKpZbKZdNdK) | [Kiko Loureiro](https://open.spotify.com/artist/5RmLUrjJz5bpP8dF4lYdyK) | [EDM \(E\-Dependent Mind\)](https://open.spotify.com/album/28VAgEj6MKG8Tf6NCtKSyt) | 4:25 | 2022-07-13 | 2022-07-29 |
+| [Eine Kleine Nachtmusik](https://open.spotify.com/track/2XDlcivRrN2RZ4M1Tr1Gnc) | [Megaraptor](https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA) | [Eine Kleine Nachtmusik](https://open.spotify.com/album/2CJDx6sBOqtrKwXeYCB7rv) | 2:45 | 2022-09-16 |  |
 | [Electric Sun](https://open.spotify.com/track/1Lut7VOwl82gWkLuBrKGo6) | [Abnormal Thought Patterns](https://open.spotify.com/artist/5b8wRjxaDeV24tdTzSjM4F) | [Abnormal Thought Patterns](https://open.spotify.com/album/3jEOakH8OYOaEZm8pZTNsk) | 5:10 | 2022-07-13 | 2022-07-27 |
 | [Empire](https://open.spotify.com/track/6oOZSrzBB2QTSRY3qoWaYy) | [Memoremains](https://open.spotify.com/artist/59YzmPPL4s9KUfV4kqWYS1) | [Pop Metal](https://open.spotify.com/album/3chKNZRdtp9IFFIgzYIWoz) | 3:11 | 2022-06-17 |  |
 | [Empire of Oppression](https://open.spotify.com/track/09N6uBQMVshys8RmezKkRx) | [Syberia](https://open.spotify.com/artist/6kCPpsg07MsL7lm6tWzyCY) | [Empire of Oppression](https://open.spotify.com/album/7iX7NtfolSJlCXJB7Llyui) | 6:07 | 2022-07-13 | 2022-07-29 |

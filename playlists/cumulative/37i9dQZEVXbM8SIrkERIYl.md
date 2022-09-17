@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- New Zealand.
 
-661 songs - 1 day 14 hr 33 min - [published](https://open.spotify.com/playlist/2jI0cdh32ss3u0beLNswrV)
+662 songs - 1 day 14 hr 36 min - [published](https://open.spotify.com/playlist/2jI0cdh32ss3u0beLNswrV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [enough for you](https://open.spotify.com/track/2TOzTqQXNmR2zDJXihjZ2e) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:22 | 2021-05-23 | 2021-06-27 |
 | [ESCAPE PLAN](https://open.spotify.com/track/4R67rQNSbbsR4TdUVOIdez) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ESCAPE PLAN / MAFIA](https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve) | 2:29 | 2021-11-07 | 2021-11-14 |
 | [Essence \(feat\. Tems\)](https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 4:08 | 2021-08-12 | 2021-08-20 |
+| [Evergreen \(You Didn’t Deserve Me At All\)](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 | 2022-09-16 |  |
 | [Everlong](https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Colour And The Shape](https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv) | 4:10 | 2022-03-27 | 2022-04-11 |
 | [Everybody Wants To Rule The World](https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair \(Super Deluxe Edition\)](https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W) | 4:11 | 2022-08-12 | 2022-08-14 |
 | [Everything Has Changed \(feat\. Ed Sheeran\) \(Taylor’s Version\)](https://open.spotify.com/track/5uQQcvcXoCwKPK5sYvarzO) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6x9s2ObPdpATZgrwxsk9c0) | 4:05 | 2021-11-14 | 2021-11-14 |
@@ -367,7 +368,7 @@
 | [Love Of My Life](https://open.spotify.com/track/1mw0RgNXIpYRyyCdBQbLgA) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:11 | 2022-05-20 | 2022-06-12 |
 | [Love on the Run \(feat\. Jackson Owens\)](https://open.spotify.com/track/6YHsPMvvmor0vFrMxI4UZi) | [Sons Of Zion](https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW), [Jackson Owens](https://open.spotify.com/artist/33jhdrAHX9sSFzdKpYd2ke) | [Love on the Run \(feat\. Jackson Owens\)](https://open.spotify.com/album/71DIBuxM7hENdgdJNhV2d1) | 2:57 | 2021-06-23 | 2022-01-11 |
 | [Love Story \(Taylor’s Version\)](https://open.spotify.com/track/6YvqWjhGD8mB5QXcbcUKtx) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 3:55 | 2021-04-11 | 2021-04-15 |
-| [lovely \(with Khalid\)](https://open.spotify.com/track/0u2P5u6lvoDfwTYjAADbn4) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [lovely \(with Khalid\)](https://open.spotify.com/album/2sBB17RXTamvj7Ncps15AK) | 3:20 | 2022-09-09 |  |
+| [lovely \(with Khalid\)](https://open.spotify.com/track/0u2P5u6lvoDfwTYjAADbn4) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [lovely \(with Khalid\)](https://open.spotify.com/album/2sBB17RXTamvj7Ncps15AK) | 3:20 | 2022-09-09 | 2022-09-17 |
 | [low down](https://open.spotify.com/track/6OlK1W3yH6V3pr6e81hI0u) | [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1), [Dan Fable](https://open.spotify.com/artist/4tfGcCoLFmUtfhgB9sREHq) | [low down](https://open.spotify.com/album/6Q9y1eI1EbuyVt5md6SlOT) | 3:02 | 2022-04-19 | 2022-05-15 |
 | [Lucid Dreams](https://open.spotify.com/track/285pBltuF7vW8TeWk8hdRR) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Goodbye & Good Riddance](https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ) | 3:59 | 2021-05-31 | 2021-06-03 |
 | [LUMBERJACK](https://open.spotify.com/track/0BiK5BbYNFLb88CCOxBFJe) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CALL ME IF YOU GET LOST](https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9) | 2:18 | 2021-06-27 | 2021-07-02 |

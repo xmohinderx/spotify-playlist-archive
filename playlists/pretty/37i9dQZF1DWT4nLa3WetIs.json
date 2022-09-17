@@ -1,12 +1,12 @@
 {
   "description": "Taking you back to your favourite hall party classics from the Afrobeat scene.",
-  "num_followers": 58951,
+  "num_followers": 59025,
   "original_name": "Afro Throwback",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNDY2ODg4MSwwMDAwMDAwMGI1MGJiZjAyZmQ5ZjBkMDJjZjFiYTcxNWYyZDI0ODg2",
+  "snapshot_id": "MTYwNDY2ODg4MSwwMDAwMDAwMDQzMDQ1MjNmMDAyZmY0NzEzMTYzMWM4NWI2ZGI4M2Y2",
   "tracks": [
     {
       "added_at": "2020-11-06 13:21:21",
@@ -48,7 +48,7 @@
       },
       "artists": [
         {
-          "name": "WizKid",
+          "name": "Wizkid",
           "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
@@ -284,7 +284,7 @@
       },
       "artists": [
         {
-          "name": "WizKid",
+          "name": "Wizkid",
           "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         },
         {
@@ -308,7 +308,7 @@
           "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
         },
         {
-          "name": "WizKid",
+          "name": "Wizkid",
           "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
@@ -427,6 +427,22 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
+        "name": "Final (Baba Nla) - Single",
+        "url": "https://open.spotify.com/album/3PhMIu5CI6S79XdmXzou4t"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Final (Baba Nla)",
+      "url": "https://open.spotify.com/track/5bPpNuK3qgt1UbI18QEUYx"
+    },
+    {
+      "added_at": "2020-11-06 13:21:21",
+      "album": {
         "name": "Legacy (Ahamefuna)",
         "url": "https://open.spotify.com/album/5qfyyCq5qZYIlpeBhE0Bl2"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 221080,
       "name": "Obianuju",
       "url": "https://open.spotify.com/track/12n8d0AfedBQysTcN4Tg6W"
-    },
-    {
-      "added_at": "2020-11-06 13:21:21",
-      "album": {
-        "name": "Final (Baba Nla) - Single",
-        "url": "https://open.spotify.com/album/3PhMIu5CI6S79XdmXzou4t"
-      },
-      "artists": [
-        {
-          "name": "WizKid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Final (Baba Nla)",
-      "url": "https://open.spotify.com/track/5bPpNuK3qgt1UbI18QEUYx"
     },
     {
       "added_at": "2020-11-06 13:21:21",
@@ -571,22 +571,6 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
-        "name": "Superstar",
-        "url": "https://open.spotify.com/album/16xW2AvG6yVXJJ0ZYJ5Dlb"
-      },
-      "artists": [
-        {
-          "name": "WizKid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 279353,
-      "name": "Don't Dull",
-      "url": "https://open.spotify.com/track/7AT7oI9QTl5OAulYItiz6v"
-    },
-    {
-      "added_at": "2020-11-06 13:21:21",
-      "album": {
         "name": "Break Through",
         "url": "https://open.spotify.com/album/28sexcZHZO8Af5fg5rgwYL"
       },
@@ -619,22 +603,6 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
-        "name": "Gameover (Deluxe)",
-        "url": "https://open.spotify.com/album/6D9DjuzGIPpFrRSMlXxbD2"
-      },
-      "artists": [
-        {
-          "name": "P-Square",
-          "url": "https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk"
-        }
-      ],
-      "duration_ms": 268318,
-      "name": "No One Like You - Deluxe",
-      "url": "https://open.spotify.com/track/5l2sIiSjXzn6cOLZW1k3r4"
-    },
-    {
-      "added_at": "2020-11-06 13:21:21",
-      "album": {
         "name": "Once Upon a Time",
         "url": "https://open.spotify.com/album/26VFfANkR1FYyyTwtCi4eG"
       },
@@ -651,6 +619,38 @@
       "duration_ms": 230253,
       "name": "Eminado (feat. Don Jazzy)",
       "url": "https://open.spotify.com/track/3Gxold2xHisD55irEJ7du7"
+    },
+    {
+      "added_at": "2020-11-06 13:21:21",
+      "album": {
+        "name": "Gameover (Deluxe)",
+        "url": "https://open.spotify.com/album/6D9DjuzGIPpFrRSMlXxbD2"
+      },
+      "artists": [
+        {
+          "name": "P-Square",
+          "url": "https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk"
+        }
+      ],
+      "duration_ms": 268318,
+      "name": "No One Like You - Deluxe",
+      "url": "https://open.spotify.com/track/5l2sIiSjXzn6cOLZW1k3r4"
+    },
+    {
+      "added_at": "2020-11-06 13:21:21",
+      "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/16xW2AvG6yVXJJ0ZYJ5Dlb"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 279353,
+      "name": "Don't Dull",
+      "url": "https://open.spotify.com/track/7AT7oI9QTl5OAulYItiz6v"
     },
     {
       "added_at": "2020-11-06 13:21:21",
@@ -832,7 +832,7 @@
       },
       "artists": [
         {
-          "name": "WizKid",
+          "name": "Wizkid",
           "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],

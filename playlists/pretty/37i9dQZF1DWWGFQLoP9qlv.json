@@ -1,12 +1,12 @@
 {
   "description": "Great songs by indisputable music legends. Cover: David Bowie\n",
-  "num_followers": 3153127,
+  "num_followers": 3153551,
   "original_name": "Legendary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mjc2NTEyOSwwMDAwMDAwMDBiNTFhOTM0NGNhOWUwMmE2NWVmN2Q2YmJmZTM2N2Uy",
+  "snapshot_id": "MTY0Mjc2NTEyOSwwMDAwMDAwMGU1NjkyNTI5NWMyM2NmODQxNzc4YjMzZTFmMzBiMTlk",
   "tracks": [
     {
       "added_at": "2022-01-21 11:38:49",
@@ -383,6 +383,22 @@
     {
       "added_at": "2022-01-21 11:38:49",
       "album": {
+        "name": "Use Your Illusion I",
+        "url": "https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 536066,
+      "name": "November Rain",
+      "url": "https://open.spotify.com/track/3YRCqOhFifThpSRFJ1VWFM"
+    },
+    {
+      "added_at": "2022-01-21 11:38:49",
+      "album": {
         "name": "Out of the Blue",
         "url": "https://open.spotify.com/album/3usnShwygMXVZB4IV5dwnU"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 270213,
       "name": "The Chain - 2004 Remaster",
       "url": "https://open.spotify.com/track/5e9TFTbltYBg2xThimr0rU"
-    },
-    {
-      "added_at": "2022-01-21 11:38:49",
-      "album": {
-        "name": "Use Your Illusion I",
-        "url": "https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 536066,
-      "name": "November Rain",
-      "url": "https://open.spotify.com/track/3YRCqOhFifThpSRFJ1VWFM"
     },
     {
       "added_at": "2022-01-21 11:38:49",
@@ -659,22 +659,6 @@
     {
       "added_at": "2022-01-21 11:38:49",
       "album": {
-        "name": "Uprising",
-        "url": "https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 237000,
-      "name": "Could You Be Loved",
-      "url": "https://open.spotify.com/track/5O4erNlJ74PIF6kGol1ZrC"
-    },
-    {
-      "added_at": "2022-01-21 11:38:49",
-      "album": {
         "name": "1984 (Remastered)",
         "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 241599,
       "name": "Jump - 2015 Remaster",
       "url": "https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j"
+    },
+    {
+      "added_at": "2022-01-21 11:38:49",
+      "album": {
+        "name": "Uprising",
+        "url": "https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 237000,
+      "name": "Could You Be Loved",
+      "url": "https://open.spotify.com/track/5O4erNlJ74PIF6kGol1ZrC"
     },
     {
       "added_at": "2022-01-21 11:38:49",
@@ -771,18 +771,18 @@
     {
       "added_at": "2022-01-21 11:38:49",
       "album": {
-        "name": "Exodus",
-        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
+        "name": "Pronounced' Leh-'Nerd 'Skin-'Nerd",
+        "url": "https://open.spotify.com/album/6DExt1eX4lflLacVjHHbOs"
       },
       "artists": [
         {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+          "name": "Lynyrd Skynyrd",
+          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
         }
       ],
-      "duration_ms": 180266,
-      "name": "Three Little Birds",
-      "url": "https://open.spotify.com/track/75FYqcxt1YEAtqDLrOeIJn"
+      "duration_ms": 547106,
+      "name": "Free Bird",
+      "url": "https://open.spotify.com/track/5EWPGh7jbTNO2wakv8LjUI"
     },
     {
       "added_at": "2022-01-21 11:38:49",
@@ -799,22 +799,6 @@
       "duration_ms": 377093,
       "name": "Tiny Dancer",
       "url": "https://open.spotify.com/track/2TVxnKdb3tqe1nhQWwwZCO"
-    },
-    {
-      "added_at": "2022-01-21 11:38:49",
-      "album": {
-        "name": "Pronounced' Leh-'Nerd 'Skin-'Nerd",
-        "url": "https://open.spotify.com/album/6DExt1eX4lflLacVjHHbOs"
-      },
-      "artists": [
-        {
-          "name": "Lynyrd Skynyrd",
-          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
-        }
-      ],
-      "duration_ms": 547106,
-      "name": "Free Bird",
-      "url": "https://open.spotify.com/track/5EWPGh7jbTNO2wakv8LjUI"
     },
     {
       "added_at": "2022-01-21 11:38:49",
@@ -847,6 +831,22 @@
       "duration_ms": 256000,
       "name": "Free Fallin'",
       "url": "https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv"
+    },
+    {
+      "added_at": "2022-01-21 11:38:49",
+      "album": {
+        "name": "Exodus",
+        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 180266,
+      "name": "Three Little Birds",
+      "url": "https://open.spotify.com/track/75FYqcxt1YEAtqDLrOeIJn"
     },
     {
       "added_at": "2022-01-21 11:38:49",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2022-01-21 11:38:49",
       "album": {
-        "name": "From Elvis in Memphis (Live)",
-        "url": "https://open.spotify.com/album/3ekkFrfotMsEAKc5g71GHk"
+        "name": "\"Heroes\" (2017 Remaster)",
+        "url": "https://open.spotify.com/album/4I5zzKYd2SKDgZ9DRf5LVk"
       },
       "artists": [
         {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
         }
       ],
-      "duration_ms": 261279,
-      "name": "Suspicious Minds",
-      "url": "https://open.spotify.com/track/1H5IfYyIIAlgDX8zguUzns"
+      "duration_ms": 371413,
+      "name": "Heroes - 2017 Remaster",
+      "url": "https://open.spotify.com/track/7Jh1bpe76CNTCgdgAdBw4Z"
     },
     {
       "added_at": "2022-01-21 11:38:49",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2022-01-21 11:38:49",
       "album": {
-        "name": "\"Heroes\" (2017 Remaster)",
-        "url": "https://open.spotify.com/album/4I5zzKYd2SKDgZ9DRf5LVk"
+        "name": "From Elvis in Memphis (Live)",
+        "url": "https://open.spotify.com/album/3ekkFrfotMsEAKc5g71GHk"
       },
       "artists": [
         {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
         }
       ],
-      "duration_ms": 371413,
-      "name": "Heroes - 2017 Remaster",
-      "url": "https://open.spotify.com/track/7Jh1bpe76CNTCgdgAdBw4Z"
+      "duration_ms": 261279,
+      "name": "Suspicious Minds",
+      "url": "https://open.spotify.com/track/1H5IfYyIIAlgDX8zguUzns"
     },
     {
       "added_at": "2022-01-21 11:38:49",

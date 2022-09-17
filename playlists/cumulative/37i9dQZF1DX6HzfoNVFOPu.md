@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 2000s rock!  Cover: The White Stripes.
 
-502 songs - 1 day 8 hr 39 min - [published](https://open.spotify.com/playlist/5hcw9b05MXjlbJWhFDxard)
+503 songs - 1 day 8 hr 42 min - [published](https://open.spotify.com/playlist/5hcw9b05MXjlbJWhFDxard)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [For You](https://open.spotify.com/track/464HG7mt7NNKtKY0Hco8Y8) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Break the Cycle](https://open.spotify.com/album/0OwSOrPWyP9batKOhOnaPt) | 3:26 | 2022-01-05 |  |
 | [Forever](https://open.spotify.com/track/4oJ4XZwQA2cLMBnRtYSSIb) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [The Paramour Sessions](https://open.spotify.com/album/3ETIenGs9NduSmJ9Zp82DA) | 4:06 | 2022-01-05 | 2022-06-11 |
 | [From The Inside](https://open.spotify.com/track/1aTWmHKzDKFfkTfbPaCY8y) | [Depswa](https://open.spotify.com/artist/0abGE6ExPPQzzPAZFROU3Y) | [Two Angels And A Dream](https://open.spotify.com/album/2jbVvKX7iuXOwumQH56bDt) | 3:12 | 2022-01-05 | 2022-07-24 |
+| [From the Inside](https://open.spotify.com/track/60IkVf7UfQXmt5CwkpcX8a) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora](https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3) | 2:53 | 2022-01-05 |  |
 | [From the Inside](https://open.spotify.com/track/697M5JB8FDIyRXEXgl1pBZ) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora \(Bonus Edition\)](https://open.spotify.com/album/0f7R0jf0pcTb6K6IVVPcMD) | 2:53 | 2022-01-05 | 2022-07-20 |
 | [Fuck Authority](https://open.spotify.com/track/3Id64dLhfH7z0mmcylxuNp) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Land Of The Free?](https://open.spotify.com/album/6oEh869vJQY1QdfZlVQ0ly) | 3:16 | 2022-01-05 |  |
 | [Gasoline](https://open.spotify.com/track/33AxY0QUitvte6JV6B6uLE) | [Audioslave](https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn) | [Audioslave](https://open.spotify.com/album/78guAsers0klWl6RwzgDLd) | 4:39 | 2022-01-05 |  |
@@ -193,7 +194,7 @@
 | [Humanity](https://open.spotify.com/track/2uEz2uLMNj9ySHMkwuCDo5) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Humanity \- Hour I](https://open.spotify.com/album/1f70Ktc9LMO8P5DHXjN4GY) | 5:26 | 2022-01-05 | 2022-07-27 |
 | [I Am Mine](https://open.spotify.com/track/79pY2Z5eFvXMt9bSdHLrnA) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Riot Act](https://open.spotify.com/album/7AOWw68DEPnDmTpquZw8bG) | 3:35 | 2022-01-05 |  |
 | [I Am the Highway](https://open.spotify.com/track/3bwAS8cN7Xtzvv5UurJOOX) | [Audioslave](https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn) | [Audioslave](https://open.spotify.com/album/78guAsers0klWl6RwzgDLd) | 5:34 | 2022-01-05 |  |
-| [I Don't Care](https://open.spotify.com/track/4eD48Ur3heQtP8ZGzl7buk) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I), [Adam Gontier](https://open.spotify.com/artist/2NkpmkcWNxbWydBaETRfqT) | [Worlds Collide](https://open.spotify.com/album/1rcVwAd9FXK9ONouJVeRSF) | 3:57 | 2022-01-05 |  |
+| [I Don't Care](https://open.spotify.com/track/4eD48Ur3heQtP8ZGzl7buk) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I), [Adam Gontier](https://open.spotify.com/artist/2NkpmkcWNxbWydBaETRfqT) | [Worlds Collide](https://open.spotify.com/album/1rcVwAd9FXK9ONouJVeRSF) | 3:57 | 2022-01-05 | 2022-09-17 |
 | [I Don't Care](https://open.spotify.com/track/3FUqEL34xwN4mF9pvsabfe) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [I Don't Care](https://open.spotify.com/album/7IpvIcPhRl89BpAbrVuOk1) | 3:38 | 2022-01-05 | 2022-07-28 |
 | [I Don't Care \(feat\. Adam Gontier\)](https://open.spotify.com/track/7KRnJW2x33Mb84NavoKmbh) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I), [Adam Gontier](https://open.spotify.com/artist/2NkpmkcWNxbWydBaETRfqT) | [Worlds Collide](https://open.spotify.com/album/0rr0bj60VA1iBM0T6s34mL) | 3:57 | 2022-01-05 | 2022-06-17 |
 | [I Don't Care \- Single Version](https://open.spotify.com/track/7ewT0nLFkMD8ONbRibePr9) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Folie à Deux](https://open.spotify.com/album/6KOWjVP0mh5rOqmzm4tkPD) | 3:34 | 2022-01-05 |  |

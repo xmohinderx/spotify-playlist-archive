@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Argentina.
 
-383 songs - 21 hr 14 min - [published](https://open.spotify.com/playlist/5OGTGwAXm9ef4quCFwcKo8)
+384 songs - 21 hr 17 min - [published](https://open.spotify.com/playlist/5OGTGwAXm9ef4quCFwcKo8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,6 +256,7 @@
 | [París](https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [París](https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD) | 2:31 | 2021-07-30 | 2022-01-01 |
 | [Parte de Mí](https://open.spotify.com/track/3qW3oIG7ZYzs3Ru5988fP5) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Parte de Mí](https://open.spotify.com/album/4bshN7IkjA4YcKnrx4Ij2G) | 2:55 | 2021-10-03 | 2021-10-10 |
 | [Party](https://open.spotify.com/track/4tYFy8ALRjIZvnvSLw5lxN) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:47 | 2022-05-07 | 2022-08-21 |
+| [Party en el Barrio \(feat\. Duki\)](https://open.spotify.com/track/5GF0X7GdNmnouKcdhhRmtm) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Party en el Barrio \(feat\. Duki\)](https://open.spotify.com/album/2alxO71ik8lO8YIuNT2LKn) | 3:56 | 2022-09-16 |  |
 | [París](https://open.spotify.com/track/3ehHqgYRzmeUi345MfHS2N) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [París](https://open.spotify.com/album/2dhk2kLdjVxWps1PW9WSTj) | 3:02 | 2022-05-21 | 2022-07-17 |
 | [Paulo Londra: Bzrp Music Sessions, Vol\. 23](https://open.spotify.com/track/2uky0VCI2EZni0nArOPznM) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Paulo Londra: Bzrp Music Sessions, Vol\. 23](https://open.spotify.com/album/0nLqHiDWHpK33b9lVJMss5) | 4:18 | 2022-04-26 | 2022-08-14 |
 | [Peaches \(feat\. Daniel Caesar & Giveon\)](https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:18 | 2021-03-27\* | 2021-07-04 |
@@ -323,7 +324,7 @@
 | [Tarot](https://open.spotify.com/track/41oY4WCTj5kccfesTVFnvN) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:57 | 2022-05-07 |  |
 | [Te Felicito](https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Te Felicito](https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH) | 2:52 | 2022-05-10 |  |
 | [Te Mentiria](https://open.spotify.com/track/5MOF8J0yJVHdKE3gRgpM6r) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [Te Mentiria](https://open.spotify.com/album/5ZhZaBJaiJPoPre9hzZ75K) | 3:06 | 2021-03-27\* | 2021-05-13 |
-| [Te Mentiría](https://open.spotify.com/track/3EcCc1U405tm8yKm1x6Y8W) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Universo Paralelo](https://open.spotify.com/album/5gHGEuYNsRd8xSVW1Si2E2) | 3:38 | 2021-12-14 |  |
+| [Te Mentiría](https://open.spotify.com/track/3EcCc1U405tm8yKm1x6Y8W) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Universo Paralelo](https://open.spotify.com/album/5gHGEuYNsRd8xSVW1Si2E2) | 3:38 | 2021-12-14 | 2022-09-17 |
 | [Te Mentiría](https://open.spotify.com/track/3H0PlcSmQ6z4DDCBFkD7Wx) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Te Mentiría](https://open.spotify.com/album/1thSmmjUCLb5T39zktUUae) | 3:38 | 2021-10-19 | 2021-12-08 |
 | [Te Mentiría](https://open.spotify.com/track/5kuidI7QNbpJCB1ObdCPKx) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [Te Mentiría](https://open.spotify.com/album/1k84mTufoGZwXjGIpz93Zi) | 3:06 | 2021-05-13 | 2021-07-11 |
 | [Te Mentiría Remix](https://open.spotify.com/track/1txrFHh4XUU3Kp8HcD2TFW) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [Te Mentiría Remix](https://open.spotify.com/album/750Blgh3jZlXqAep5wlH8K) | 2:52 | 2022-05-03 | 2022-09-16 |

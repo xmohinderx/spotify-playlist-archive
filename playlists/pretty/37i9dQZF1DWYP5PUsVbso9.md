@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP5PUsVbso9.md) - [plain]
 
 > The decade of the Outlaws of Country Music \- where traditional and crossover country collided\. Cover: Charley Pride
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,484 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,553 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,13 +92,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP5PUsVbso9.md) - [plain]
 | 82 | [Don't Let Me Cross Over](https://open.spotify.com/track/6d0peKL7ZyWiRipp0bq8Ls) | [Jim Reeves](https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg), [Deborah Allen](https://open.spotify.com/artist/0WO15UbgUyKKtn1anzZP5u) | [Good 'N' Country](https://open.spotify.com/album/2OT5kYQuoqLb4ZPsDHZzMu) | 2:19 |
 | 83 | [Paper Roses](https://open.spotify.com/track/00oIqmk1eRn9D2y8BzNLS1) | [Marie Osmond](https://open.spotify.com/artist/3ijY78RxOagYo8FOgSEkWj) | [20th Century Masters: The Millennium Collection: Best of Donny & Marie Osmond](https://open.spotify.com/album/6ywF3v0chlAEmj0xzPAIWM) | 2:38 |
 | 84 | [Out Of My Head And Back In My Bed](https://open.spotify.com/track/2cLb9n7u5iJTXNOrrJI1F1) | [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl) | [The Definitive Collection](https://open.spotify.com/album/7hdLJRd4vHkHbMzaGgQsJ2) | 2:40 |
-| 85 | [It Must Be Love \- Single Version](https://open.spotify.com/track/2yjP9SAtGTy6xgMEJXVXsi) | [Don Williams](https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe) | [20 Greatest Hits](https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9) | 2:26 |
+| 85 | [Tulsa Time](https://open.spotify.com/track/5BTUfUNq9sa7OUbles1qvS) | [Don Williams](https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe) | [20 Greatest Hits](https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9) | 3:12 |
 | 86 | [Drinkin' My Baby \(Off My Mind\) \- 2009 Remaster](https://open.spotify.com/track/0aH37hHD9bgClsjGngV974) | [Eddie Rabbitt](https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78) | [Number One Hits](https://open.spotify.com/album/6QkVGhAnrjHauwCSYuTuI8) | 2:25 |
 | 87 | [When You're Hot, You're Hot](https://open.spotify.com/track/6sykijVtS1m8vxLnkKXrJ5) | [Jerry Reed](https://open.spotify.com/artist/3kvy8do7n0qVqvlNFS4yOF) | [The Essential Jerry Reed](https://open.spotify.com/album/0NoIqI4xsXGOpd4vvBjo7O) | 2:19 |
 | 88 | [The Fightin' Side Of Me](https://open.spotify.com/track/7tvnZH4Db2zylKHo7ojKH1) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [HAG: The Hits Volume 2](https://open.spotify.com/album/5JpPv6eZYKMXdBTFc41wsC) | 2:49 |
 | 89 | [What A Difference You've Made In My Life](https://open.spotify.com/track/4sxet9Zdu2Z9hdhAKbjlNI) | [Ronnie Milsap](https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ) | [It Was Almost Like A Song](https://open.spotify.com/album/2x8TSQw4wmfjIENmrGlvO1) | 4:01 |
 | 90 | [Heaven's Just A Sin Away](https://open.spotify.com/track/2MQMTw0ErhEAecLfm2ClUk) | [The Kendalls](https://open.spotify.com/artist/1rFQlnVFNwI3H6QLDL7LFN) | [The Kendalls \- 42 Massive Hits](https://open.spotify.com/album/0TLnx23a5jjqtakfXHLHdz) | 2:25 |
-| 91 | [Tulsa Time](https://open.spotify.com/track/5BTUfUNq9sa7OUbles1qvS) | [Don Williams](https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe) | [20 Greatest Hits](https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9) | 3:12 |
+| 91 | [It Must Be Love \- Single Version](https://open.spotify.com/track/2yjP9SAtGTy6xgMEJXVXsi) | [Don Williams](https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe) | [20 Greatest Hits](https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9) | 2:26 |
 | 92 | [Why Have You Left The One You Left Me For](https://open.spotify.com/track/4u2Fcnbsf2KtH7gE86vxM0) | [Crystal Gayle](https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc) | [When I Dream](https://open.spotify.com/album/6yjOONx5zNbysHWi6a9sah) | 2:56 |
 | 93 | [Every Time Two Fools Collide](https://open.spotify.com/track/7fiM9fRN7nRb2z1j7ZOdjy) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4), [Dottie West](https://open.spotify.com/artist/2pvPkEAN9xSrDrIVUOxWMB) | [Every Time Two Fools Collide](https://open.spotify.com/album/4eUUpjBZcZ8ODPhId8O7CL) | 3:00 |
 | 94 | [Love In The Hot Afternoon](https://open.spotify.com/track/3MwNnB3W5pi8URHRKlksGt) | [Gene Watson](https://open.spotify.com/artist/3VQfHuqrRK1CNXR1V8PeR9) | [Love In The Hot Afternoon](https://open.spotify.com/album/4NFaunfYQOLB85ZHBSTw77) | 3:19 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP5PUsVbso9.md) - [plain]
 | 96 | ['Til I Get It Right](https://open.spotify.com/track/64s3ywG24Rkgum7qIIA6wO) | [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id) | [The Essential Tammy Wynette](https://open.spotify.com/album/5lmYjjjnij8ug8WrEoVQK7) | 2:37 |
 | 97 | [Bloody Mary Morning](https://open.spotify.com/track/5paRS95sOPkOVQlmUIUF4B) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Phases And Stages](https://open.spotify.com/album/2UUGvJBpRoOQFwDLtq8KCP) | 2:48 |
 | 98 | [Southern Nights](https://open.spotify.com/track/2sd8p89DvYBzJFWo97knsd) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [Greatest Hits](https://open.spotify.com/album/4OQKkIIp50FJvUd69vT0B4) | 2:59 |
-| 99 | [This Time](https://open.spotify.com/track/03T4H6czLK426qcW870hBZ) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM) | [The Essential Waylon Jennings](https://open.spotify.com/album/76v3XMhmRuxlakE6e3lKox) | 2:24 |
-| 100 | [Rub It In](https://open.spotify.com/track/6q014fQ3SqLy180KPuCTG1) | [Billy 'Crash' Craddock](https://open.spotify.com/artist/4Se104PDIxemxBgtWynyIq) | [The Best Of Billy "Crash" Craddock](https://open.spotify.com/album/6GLL2DGK5Dw8P99pbUGkii) | 2:26 |
+| 99 | [Rub It In](https://open.spotify.com/track/6q014fQ3SqLy180KPuCTG1) | [Billy 'Crash' Craddock](https://open.spotify.com/artist/4Se104PDIxemxBgtWynyIq) | [The Best Of Billy "Crash" Craddock](https://open.spotify.com/album/6GLL2DGK5Dw8P99pbUGkii) | 2:26 |
+| 100 | [This Time](https://open.spotify.com/track/03T4H6czLK426qcW870hBZ) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM) | [The Essential Waylon Jennings](https://open.spotify.com/album/76v3XMhmRuxlakE6e3lKox) | 2:24 |
 
-Snapshot ID: `MTY1ODc4NDk1NSwwMDAwMDAwMDFmMzk4NDkwZmE5MWIzNzgyOGNlNTNlMzIzMzMwZDNi`
+Snapshot ID: `MTY1ODc4NDk1NSwwMDAwMDAwMGQ1MjlkMjUxZGRjYTM2YjUzNDY5ZTI0NTE1ZTdjY2M4`

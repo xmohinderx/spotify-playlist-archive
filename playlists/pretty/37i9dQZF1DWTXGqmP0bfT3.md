@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 
 > Need to get your energy level up? This will help!
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,824 likes - 100 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,289 likes - 100 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 | 23 | [Welcome To The Circus](https://open.spotify.com/track/1r3PWB1ZzxrPsIj2DNoa10) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Welcome To The Circus](https://open.spotify.com/album/4UlXCia6g1ERBw4XjinURw) | 4:16 |
 | 24 | [Stranded](https://open.spotify.com/track/60fUDmIWuKhngaeBIVhqIV) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Magma](https://open.spotify.com/album/7D7V6M05UIOTjLdqbwRX0w) | 4:29 |
 | 25 | [Cryin' Like A Bitch!!](https://open.spotify.com/track/4a9i7rCLfPjbS1sNamZeQN) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [The Oracle \(Deluxe Edition\)](https://open.spotify.com/album/6yOWKkrlpmUWOC5yndULeq) | 3:21 |
-| 26 | [Hearts on Fire](https://open.spotify.com/track/0eV3PB3T0OxW4feG1DlOjQ) | [HammerFall](https://open.spotify.com/artist/2o18h28enlHxj887tATc58) | [Crimson Thunder](https://open.spotify.com/album/2uehY2zRsh0h6ZmJt8LLQi) | 3:51 |
-| 27 | [Push It](https://open.spotify.com/track/6O7pihLJgeqxUnG7u9oYL2) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Wisconsin Death Trip](https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5) | 2:34 |
+| 26 | [Push It](https://open.spotify.com/track/6O7pihLJgeqxUnG7u9oYL2) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Wisconsin Death Trip](https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5) | 2:34 |
+| 27 | [Hearts on Fire](https://open.spotify.com/track/0eV3PB3T0OxW4feG1DlOjQ) | [HammerFall](https://open.spotify.com/artist/2o18h28enlHxj887tATc58) | [Crimson Thunder](https://open.spotify.com/album/2uehY2zRsh0h6ZmJt8LLQi) | 3:51 |
 | 28 | [Drop Dead Cynical](https://open.spotify.com/track/5VToMJACRoeT0YZNs5CYyp) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [MASSIVE ADDICTIVE](https://open.spotify.com/album/0GCcO9StyRRAGumjCOTSpN) | 3:17 |
 | 29 | [Tears Don't Fall](https://open.spotify.com/track/1kdiiFGX1Htx0aVZYaDwEJ) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison](https://open.spotify.com/album/7zU9hmH9CKQ9Yf5SruqOLM) | 5:48 |
 | 30 | [Wash It All Away](https://open.spotify.com/track/05QquCUFrpkKTHz5Sy09nc) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Got Your Six \(Deluxe\)](https://open.spotify.com/album/36S44cV7Qq3EN9dnnZj407) | 3:45 |
@@ -50,24 +50,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 | 40 | [Fields of Verdun](https://open.spotify.com/track/2VS1jveuhfU7Latlgfh62T) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [The Great War](https://open.spotify.com/album/7FtCDX4COLE3HR2vBv7411) | 3:17 |
 | 41 | [Down for Life](https://open.spotify.com/track/3pKsUMqpVr4ZJ13Mm91Xig) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [The Gathering](https://open.spotify.com/album/0dYgfOuAerUldWRodoOR6J) | 3:23 |
 | 42 | [Sweet True Lies](https://open.spotify.com/track/2cyJkqB2OYHwWWvKGtrJ0r) | [Beast In Black](https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH) | [From Hell with Love](https://open.spotify.com/album/3aT1PLgA6MomsX7MMlNRHr) | 3:26 |
-| 43 | [Becoming](https://open.spotify.com/track/0t7DV1EAMVC6y3LpW6IuLk) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Servant Of The Mind \(Deluxe\)](https://open.spotify.com/album/1ujOfCZxF2d2R5oOfJbxnP) | 4:13 |
-| 44 | [Army of the Night](https://open.spotify.com/track/6vQT1Y3MTGCpc31VIF5Ela) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [Blessed & Possessed](https://open.spotify.com/album/3Mm2pcqW8ZGdl4aKJi4ocm) | 3:21 |
-| 45 | [Rats](https://open.spotify.com/track/4u39IY2QjY1utpNCCF4is0) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm) | 4:21 |
+| 43 | [Rats](https://open.spotify.com/track/4u39IY2QjY1utpNCCF4is0) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm) | 4:21 |
+| 44 | [Becoming](https://open.spotify.com/track/0t7DV1EAMVC6y3LpW6IuLk) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Servant Of The Mind \(Deluxe\)](https://open.spotify.com/album/1ujOfCZxF2d2R5oOfJbxnP) | 4:13 |
+| 45 | [Army of the Night](https://open.spotify.com/track/6vQT1Y3MTGCpc31VIF5Ela) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [Blessed & Possessed](https://open.spotify.com/album/3Mm2pcqW8ZGdl4aKJi4ocm) | 3:21 |
 | 46 | [Lift Me Up](https://open.spotify.com/track/3EO0js63QHQQPqJt1TgBLQ) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM), [Rob Halford](https://open.spotify.com/artist/7CTjkl9M3enzBBfm1u10Sy) | [The Wrong Side of Heaven and the Righteous Side of Hell, Vol\. 1 \(Deluxe Edition\)](https://open.spotify.com/album/1qfm8YhH28Bgs3e8hutsqw) | 4:06 |
 | 47 | [War Eternal](https://open.spotify.com/track/0WZZENH0kt3O2cBE8q5IRq) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [War Eternal](https://open.spotify.com/album/3qzrNVuUyOJxfzMYRCh5qN) | 4:16 |
 | 48 | [Digital World](https://open.spotify.com/track/1fZvEmAmWtsDSUjAgDhddU) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [MASSIVE ADDICTIVE](https://open.spotify.com/album/0GCcO9StyRRAGumjCOTSpN) | 3:17 |
 | 49 | [Blinded](https://open.spotify.com/track/2HdjEa5BP2VACt1velDTIk) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [Shaped by Fire](https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww) | 3:22 |
 | 50 | [Repentless](https://open.spotify.com/track/6W2KBpMMXW17r7dPyqi8Iu) | [Slayer](https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk) | [Repentless](https://open.spotify.com/album/5QTGKCuJbyViaQQXjHOvjL) | 3:19 |
-| 51 | [One Finger and a Fist](https://open.spotify.com/track/6PdEKf8CyyZfrFAGFi37gb) | [Drowning Pool](https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v) | [Resilience \(Deluxe\)](https://open.spotify.com/album/46NkCKf9l9TVHryLpDSkr2) | 3:06 |
-| 52 | [Demons Are a Girl's Best Friend](https://open.spotify.com/track/1KCDsPKFISNM2YZFFAoI7s) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [The Sacrament of Sin](https://open.spotify.com/album/2t3dociTSaDTmqIlN21rmC) | 3:38 |
-| 53 | [Strife](https://open.spotify.com/track/15zUfY9L1p7bN9JsgaTAP0) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Vengeance Falls \(Special Edition\)](https://open.spotify.com/album/1hamGtmqitOROTKc0yNhow) | 4:29 |
-| 54 | [Faith](https://open.spotify.com/track/1HPS4eeHYYI1m0qz10BDU9) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm) | 4:29 |
+| 51 | [Faith](https://open.spotify.com/track/1HPS4eeHYYI1m0qz10BDU9) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm) | 4:29 |
+| 52 | [Strife](https://open.spotify.com/track/15zUfY9L1p7bN9JsgaTAP0) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Vengeance Falls \(Special Edition\)](https://open.spotify.com/album/1hamGtmqitOROTKc0yNhow) | 4:29 |
+| 53 | [Demons Are a Girl's Best Friend](https://open.spotify.com/track/1KCDsPKFISNM2YZFFAoI7s) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [The Sacrament of Sin](https://open.spotify.com/album/2t3dociTSaDTmqIlN21rmC) | 3:38 |
+| 54 | [One Finger and a Fist](https://open.spotify.com/track/6PdEKf8CyyZfrFAGFi37gb) | [Drowning Pool](https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v) | [Resilience \(Deluxe\)](https://open.spotify.com/album/46NkCKf9l9TVHryLpDSkr2) | 3:06 |
 | 55 | [Drink](https://open.spotify.com/track/0SPHbfBIe0mdRnae2MWuzr) | [Alestorm](https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da) | [Sunset on the Golden Age](https://open.spotify.com/album/72D0zzcevLTiS9XSEJ1hg7) | 3:22 |
 | 56 | [I Only Wanna Be With You](https://open.spotify.com/track/2MAJJJu89ogKPctelr3F7f) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [The Strength / The Sound / The Songs](https://open.spotify.com/album/3jg1rZalHpRBBUmpNmRwI5) | 2:44 |
 | 57 | [King for a Day](https://open.spotify.com/track/6OcE7aXYmNEwF6H7Ei9Y3q) | [Battle Beast](https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize) | [Bringer of Pain](https://open.spotify.com/album/7kKRJsnK1SPmR6d0ZFEAbS) | 4:35 |
-| 58 | [Sanctified with Dynamite](https://open.spotify.com/track/2ZUUturolW3VpzXWzPEy2X) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [Blood of the Saints](https://open.spotify.com/album/1MSxQKpaZ2nPubMVQi9V3N) | 4:25 |
-| 59 | [Hardwired](https://open.spotify.com/track/7myke8Id4WyKFlWcRBJdIF) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Hardwired…To Self\-Destruct](https://open.spotify.com/album/4kizef5du9TgAGfNhWbKmt) | 3:11 |
-| 60 | [That Day](https://open.spotify.com/track/7nobjDCjkn6Y8UDQFt2mga) | [Nonpoint](https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z) | [Nonpoint](https://open.spotify.com/album/7HYkuJ62NjUnGwMRm7wwUN) | 3:30 |
+| 58 | [That Day](https://open.spotify.com/track/7nobjDCjkn6Y8UDQFt2mga) | [Nonpoint](https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z) | [Nonpoint](https://open.spotify.com/album/7HYkuJ62NjUnGwMRm7wwUN) | 3:30 |
+| 59 | [Sanctified with Dynamite](https://open.spotify.com/track/2ZUUturolW3VpzXWzPEy2X) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [Blood of the Saints](https://open.spotify.com/album/1MSxQKpaZ2nPubMVQi9V3N) | 4:25 |
+| 60 | [Hardwired](https://open.spotify.com/track/7myke8Id4WyKFlWcRBJdIF) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Hardwired…To Self\-Destruct](https://open.spotify.com/album/4kizef5du9TgAGfNhWbKmt) | 3:11 |
 | 61 | [Lost In The Static](https://open.spotify.com/track/5QLH7zAdcAJLgR25gtvtoK) | [After The Burial](https://open.spotify.com/artist/0uNj4RxFjG0iVPlZS753en) | [Dig Deep](https://open.spotify.com/album/7ABqA1tuH6eonHAIBaBqHe) | 4:33 |
 | 62 | [Letting You Go](https://open.spotify.com/track/7rGN3oqzCpG2mLcwoPwDQm) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Gravity](https://open.spotify.com/album/28sCbClwbAhHN6ovutizQg) | 3:43 |
 | 63 | [Prophecy of Ragnarök](https://open.spotify.com/track/4kpWVGdFjBSoCkIcHVlTqn) | [Brothers of Metal](https://open.spotify.com/artist/0WPCPYm5IDNtQjuJOGNPcy) | [Prophecy of Ragnarök](https://open.spotify.com/album/3hkZ5FWUJ23YKAMotqbTm0) | 3:42 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 | 97 | [Dead But Rising](https://open.spotify.com/track/3siZ8Gr2G9zelmm1NZOmP3) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Outlaw Gentlemen & Shady Ladies](https://open.spotify.com/album/5SBrIIYCvThaqN9r1SV2pv) | 3:34 |
 | 98 | [Hate by Design](https://open.spotify.com/track/6xXIMiJeAHZZcoReecFZwD) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [Incarnate](https://open.spotify.com/album/1zcMqDzxecHx6JQvi7oFmH) | 3:46 |
 | 99 | [Night of the Werewolves](https://open.spotify.com/track/1BZ6VNjPOcf1ysNMARzirk) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [Blood of the Saints](https://open.spotify.com/album/1MSxQKpaZ2nPubMVQi9V3N) | 4:30 |
-| 100 | [I´m Shipping Up To Boston](https://open.spotify.com/track/0GdvuRCPThuv4SYVaiw8ca) | [Children Of Bodom](https://open.spotify.com/artist/1xUhNgw4eJDZfvumIpcz1B) | [Holiday At Lake Bodom, 15 Years of Wasted Youth](https://open.spotify.com/album/3XoY2CTmKFB0MdlKAOnXau) | 2:50 |
+| 100 | [Sympathy For The Devil](https://open.spotify.com/track/5Yql4ooghbDqwXIvCGXsdx) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bad Magic](https://open.spotify.com/album/6dMv1580G91kLYjquABSPQ) | 5:26 |
 
-Snapshot ID: `MTY1NTgzOTAxNywwMDAwMDAwMDJlYzdlYTQyNzg5Njg5NTg1NGMzMzcwNDFmOWRhYTg2`
+Snapshot ID: `MTY1NTgzOTAxNywwMDAwMDAwMDRmZmJhMjMxYWJjMjQ1ZDZkZTI5MTA1OTYyY2I2YzNm`

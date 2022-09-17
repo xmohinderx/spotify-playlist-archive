@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-31",
-  "description": "A collection of hits that will have you singing every word. Cover: Lee Brice",
+  "description": "A collection of hits that will have you singing every word. Cover: Jon Pardi",
   "name": "Country Favourites",
   "published_playlist_ids": [
     "5Q1iirswdRnV2OItF004D6"
@@ -95,6 +95,24 @@
       "duration_ms": 179152,
       "name": "Almost Maybes",
       "url": "https://open.spotify.com/track/14JFKtBSqefxfMiKhq6JT8"
+    },
+    {
+      "album": {
+        "name": "Girl to Girl",
+        "url": "https://open.spotify.com/album/1GcSAAAr9e2zcZKucagy5A"
+      },
+      "artists": [
+        {
+          "name": "Tenille Arts",
+          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182666,
+      "name": "Back Then, Right Now",
+      "url": "https://open.spotify.com/track/3wAKfgic0OANcWf2QBxT8t"
     },
     {
       "album": {
@@ -1049,7 +1067,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 171537,
       "name": "Keith",
       "url": "https://open.spotify.com/track/5xl3kGoK3namYGZX46Vt0S"

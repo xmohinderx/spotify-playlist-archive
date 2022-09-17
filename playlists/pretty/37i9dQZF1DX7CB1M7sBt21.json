@@ -1,12 +1,12 @@
 {
   "description": "Ingenting peppar en under ett tr\u00e4ningspass som riktigt bra musik.",
-  "num_followers": 187501,
+  "num_followers": 187519,
   "original_name": "Peppl\u00e5tar till tr\u00e4ningspasset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA0NjI0NiwwMDAwMDAwMDAyMDI4NThhM2UyODM1OGJiYzBlNWQwODU3NjAxMzM3",
+  "snapshot_id": "MTY1OTA0NjI0NiwwMDAwMDAwMGRhMWNmZWFjZmJmMTA5NDBjYTQ2ZTZhYzY3ZTBiZjEw",
   "tracks": [
     {
       "added_at": "2022-07-28 22:10:46",
@@ -1363,26 +1363,6 @@
     {
       "added_at": "2022-07-28 22:10:46",
       "album": {
-        "name": "Everywhere (feat. Maya Avedis)",
-        "url": "https://open.spotify.com/album/5sPQEXoh1AOhBbzdlN1uT8"
-      },
-      "artists": [
-        {
-          "name": "XO Cupid",
-          "url": "https://open.spotify.com/artist/1Fy4Vnoq3HspYLrgEs9VNc"
-        },
-        {
-          "name": "Maya Avedis",
-          "url": "https://open.spotify.com/artist/64msO0RZHKEtUsVvNtOrS4"
-        }
-      ],
-      "duration_ms": 176129,
-      "name": "Everywhere (feat. Maya Avedis)",
-      "url": "https://open.spotify.com/track/3sSQDbzb6TrXlsSREouIUk"
-    },
-    {
-      "added_at": "2022-07-28 22:10:46",
-      "album": {
         "name": "Told You So",
         "url": "https://open.spotify.com/album/3vlP9QH45gN0GSbJYN7tCe"
       },
@@ -1399,6 +1379,26 @@
       "duration_ms": 146355,
       "name": "Told You So",
       "url": "https://open.spotify.com/track/1WMCwGfNf4ndXbsvHPVqlh"
+    },
+    {
+      "added_at": "2022-07-28 22:10:46",
+      "album": {
+        "name": "Everywhere (feat. Maya Avedis)",
+        "url": "https://open.spotify.com/album/5sPQEXoh1AOhBbzdlN1uT8"
+      },
+      "artists": [
+        {
+          "name": "XO Cupid",
+          "url": "https://open.spotify.com/artist/1Fy4Vnoq3HspYLrgEs9VNc"
+        },
+        {
+          "name": "Maya Avedis",
+          "url": "https://open.spotify.com/artist/64msO0RZHKEtUsVvNtOrS4"
+        }
+      ],
+      "duration_ms": 176129,
+      "name": "Everywhere (feat. Maya Avedis)",
+      "url": "https://open.spotify.com/track/3sSQDbzb6TrXlsSREouIUk"
     },
     {
       "added_at": "2022-07-28 22:10:46",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2022-07-28 22:10:46",
       "album": {
+        "name": "Peru",
+        "url": "https://open.spotify.com/album/1wGjhakHpFEE3uPqGViTgI"
+      },
+      "artists": [
+        {
+          "name": "Tungevaag",
+          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
+        }
+      ],
+      "duration_ms": 147656,
+      "name": "Peru",
+      "url": "https://open.spotify.com/track/7t3cEJpYDi8tzNmBtxeHUj"
+    },
+    {
+      "added_at": "2022-07-28 22:10:46",
+      "album": {
         "name": "Boom Boom Boom Boom",
         "url": "https://open.spotify.com/album/0MY7UAFFOsR5mHgyfmNPfj"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 128524,
       "name": "Boom Boom Boom Boom",
       "url": "https://open.spotify.com/track/2mWsc7kD2lpFtMNndPEMOH"
-    },
-    {
-      "added_at": "2022-07-28 22:10:46",
-      "album": {
-        "name": "Peru",
-        "url": "https://open.spotify.com/album/1wGjhakHpFEE3uPqGViTgI"
-      },
-      "artists": [
-        {
-          "name": "Tungevaag",
-          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
-        }
-      ],
-      "duration_ms": 147656,
-      "name": "Peru",
-      "url": "https://open.spotify.com/track/7t3cEJpYDi8tzNmBtxeHUj"
     },
     {
       "added_at": "2022-07-28 22:10:46",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2022-07-28 22:10:46",
       "album": {
-        "name": "Lose my mind",
-        "url": "https://open.spotify.com/album/53H8HfdZu1DoXqPfTGj8CG"
-      },
-      "artists": [
-        {
-          "name": "Myra Granberg",
-          "url": "https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2"
-        }
-      ],
-      "duration_ms": 173854,
-      "name": "Lose my mind",
-      "url": "https://open.spotify.com/track/4Cz2101t2TdPKBsgb7O6dS"
-    },
-    {
-      "added_at": "2022-07-28 22:10:46",
-      "album": {
         "name": "Knockout",
         "url": "https://open.spotify.com/album/3oMsAnTSyOLcOYGj721atI"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 147789,
       "name": "Knockout",
       "url": "https://open.spotify.com/track/1YFwmEAnSUx9ZAgWT39i1L"
+    },
+    {
+      "added_at": "2022-07-28 22:10:46",
+      "album": {
+        "name": "Lose my mind",
+        "url": "https://open.spotify.com/album/53H8HfdZu1DoXqPfTGj8CG"
+      },
+      "artists": [
+        {
+          "name": "Myra Granberg",
+          "url": "https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2"
+        }
+      ],
+      "duration_ms": 173854,
+      "name": "Lose my mind",
+      "url": "https://open.spotify.com/track/4Cz2101t2TdPKBsgb7O6dS"
     }
   ],
   "unique_name": "Peppl\u00e5tar till tr\u00e4ningspasset",

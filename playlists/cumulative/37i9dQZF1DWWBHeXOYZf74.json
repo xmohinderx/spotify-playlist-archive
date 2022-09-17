@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-30",
-  "description": "Genre-less. Quality first always. Cover: Sudan Archives",
+  "description": "Genre-less. Quality first always. Cover: Blood Orange",
   "name": "POLLEN",
   "published_playlist_ids": [
     "0satjjBJ2wfilttyMYfCS7"
@@ -321,6 +321,24 @@
       "duration_ms": 154921,
       "name": "1491",
       "url": "https://open.spotify.com/track/3HToRpmkcdb6SwGqiXP1qu"
+    },
+    {
+      "album": {
+        "name": "19",
+        "url": "https://open.spotify.com/album/2YP4EV0q1HiZjXkvWteHky"
+      },
+      "artists": [
+        {
+          "name": "DavidTheTragic",
+          "url": "https://open.spotify.com/artist/7mQVOW2B7FQ0dJBxwsa2fR"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129000,
+      "name": "19",
+      "url": "https://open.spotify.com/track/0OG1XZqBMSZNuKoNx1NEgu"
     },
     {
       "album": {
@@ -1003,7 +1021,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 205760,
       "name": "A Moment Of Mystery (feat. Toro y Moi)",
       "url": "https://open.spotify.com/track/5OmzLQz8dsXSvEcZ2gSsQ4"
@@ -2059,7 +2077,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 230730,
       "name": "Another Sketch",
       "url": "https://open.spotify.com/track/2IVmt96IvSP10bMHCIsmRs"
@@ -3023,6 +3041,24 @@
       "duration_ms": 180765,
       "name": "Baguetti (with JID & Kenny Beats)",
       "url": "https://open.spotify.com/track/3DcL8FXLA9iKwqnyj9POLt"
+    },
+    {
+      "album": {
+        "name": "Baking Soda",
+        "url": "https://open.spotify.com/album/6CnnMDogxrn5NfOJWzGFI9"
+      },
+      "artists": [
+        {
+          "name": "MAVI",
+          "url": "https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190103,
+      "name": "Baking Soda",
+      "url": "https://open.spotify.com/track/2oGM0DK6IVPBlByWalmMFI"
     },
     {
       "album": {
@@ -8371,10 +8407,40 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 215760,
       "name": "Domino",
       "url": "https://open.spotify.com/track/4Kag7UC3ZCiEYJ0QYC2Mpk"
+    },
+    {
+      "album": {
+        "name": "Impostor Syndrome",
+        "url": "https://open.spotify.com/album/074Nlnf3EYwLgop0k5Lay6"
+      },
+      "artists": [
+        {
+          "name": "AG Club",
+          "url": "https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c"
+        },
+        {
+          "name": "Sam Truth",
+          "url": "https://open.spotify.com/artist/6vyaBinA0tnzsoiX4GEboa"
+        },
+        {
+          "name": "Glen the Saiyan",
+          "url": "https://open.spotify.com/artist/7vHpwq0fPbCFXXEfZ0O135"
+        },
+        {
+          "name": "redveil",
+          "url": "https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297640,
+      "name": "Don't Ask, Don't Tell (feat. redveil, Sam Truth & Glen the Saiyan)",
+      "url": "https://open.spotify.com/track/1TpqQGpvD1yZVdzuy4WqW8"
     },
     {
       "album": {
@@ -13497,7 +13563,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 203549,
       "name": "hollaback bitch (with Shygirl & Channel Tres)",
       "url": "https://open.spotify.com/track/2LFLXzQe95ViTXZeq1WRdx"
@@ -16451,7 +16517,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 175524,
       "name": "keisha",
       "url": "https://open.spotify.com/track/3x1OKu77rwp8IhXagtXx13"
@@ -18171,7 +18237,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 234330,
       "name": "Lowe Mi",
       "url": "https://open.spotify.com/track/23sdZgBlHvaHJcfOLu2PgZ"
@@ -22444,6 +22510,24 @@
     },
     {
       "album": {
+        "name": "Pink Diamond Bezel",
+        "url": "https://open.spotify.com/album/3IpcxCG270SzH0rcu816G5"
+      },
+      "artists": [
+        {
+          "name": "Mykki Blanco",
+          "url": "https://open.spotify.com/artist/2tSv9mEQSuNVMGr9qjYfkr"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195967,
+      "name": "Pink Diamond Bezel",
+      "url": "https://open.spotify.com/track/4Q0mEavimXWsoDJdAKJWQj"
+    },
+    {
+      "album": {
         "name": "pinky ring / red velve7",
         "url": "https://open.spotify.com/album/1vlLqZ0bH500wKz2TRKNIQ"
       },
@@ -26395,7 +26479,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 268151,
       "name": "SOHO HOUSE (feat. Hello O'shay)",
       "url": "https://open.spotify.com/track/2f6O9Os5EDdTHGvc1P4efs"
@@ -27433,7 +27517,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 166186,
       "name": "Stuck In The Middle",
       "url": "https://open.spotify.com/track/5f7us9O5oOi4QqSpehe3Qo"
@@ -30502,6 +30586,28 @@
     },
     {
       "album": {
+        "name": "demon time",
+        "url": "https://open.spotify.com/album/2B8rBYLpIJNkP4OsN16yRm"
+      },
+      "artists": [
+        {
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        },
+        {
+          "name": "slowthai",
+          "url": "https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122617,
+      "name": "up all week (with slowthai)",
+      "url": "https://open.spotify.com/track/1l73bwJECQdHrcep2LNwLG"
+    },
+    {
+      "album": {
         "name": "Us (How Sweet It Was)",
         "url": "https://open.spotify.com/album/3ODJfdTXGh3KlDvMAjvWsN"
       },
@@ -30561,6 +30667,24 @@
       "duration_ms": 184439,
       "name": "Vein",
       "url": "https://open.spotify.com/track/5fwNv59LHYCQFiYAxQukj8"
+    },
+    {
+      "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/5PnUWe2y4JnVjwyRoMLHVm"
+      },
+      "artists": [
+        {
+          "name": "Nick Hakim",
+          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218200,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/2MItMt0xx5iUkPh37Ulv5t"
     },
     {
       "album": {
@@ -30919,6 +31043,24 @@
       "duration_ms": 247720,
       "name": "Want U Around (feat. Ruel)",
       "url": "https://open.spotify.com/track/5vprsDWNcHMEMH95sbJkH2"
+    },
+    {
+      "album": {
+        "name": "Washed Away",
+        "url": "https://open.spotify.com/album/1GqPpESoA8N9DvPWtzaFMG"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216178,
+      "name": "Washed Away",
+      "url": "https://open.spotify.com/track/4Ci2V1PsULUIdpcd4YVlLg"
     },
     {
       "album": {
@@ -31701,7 +31843,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 167150,
       "name": "Whiteclaw",
       "url": "https://open.spotify.com/track/6DpLbRHQLP3dJvz3khE3UE"
@@ -32037,6 +32179,24 @@
       "duration_ms": 211501,
       "name": "Winter in America - From \u201cBlack History Always / Music For the Movement Vol. 2\"",
       "url": "https://open.spotify.com/track/7lpmYA2oDMcAdlNJBjTMTB"
+    },
+    {
+      "album": {
+        "name": "Four Songs",
+        "url": "https://open.spotify.com/album/4hsC2oeoSkJiULLob8zM98"
+      },
+      "artists": [
+        {
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181453,
+      "name": "Wish",
+      "url": "https://open.spotify.com/track/545N3VnU7ZSBEUtdRGSUS9"
     },
     {
       "album": {

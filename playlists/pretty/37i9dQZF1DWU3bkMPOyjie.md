@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3bkMPOyjie.md) - [plain]
 
 > Get yourself in that summer mood with these great rocking summer songs from the last 20 years.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,702 likes - 73 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,699 likes - 73 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3bkMPOyjie.md) - [plain]
 | 55 | [The Beach](https://open.spotify.com/track/3xOE5ciDmfQ0VY3WahE0eJ) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [So Wrong, It's Right](https://open.spotify.com/album/0H4ELcHequ3OligrjWfrZP) | 3:01 |
 | 56 | [The Chamber](https://open.spotify.com/track/2wBW9jGZRRMbQ416NDc7LW) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Strut](https://open.spotify.com/album/03vJ0BcslLb4fKyBYN78Gy) | 4:57 |
 | 57 | [Life is a Highway \- From "Cars"](https://open.spotify.com/track/5YbeJyTQkdSAWe1Ie4sLAl) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Disney/Pixar Greatest](https://open.spotify.com/album/4Tf4nzRuf5W3EvHqigxcmv) | 4:36 |
-| 58 | [The Only Place](https://open.spotify.com/track/4nczzhe10DQGPUClkevmqB) | [Best Coast](https://open.spotify.com/artist/5YkBrE0wF8cAlq3GCOw5Eu) | [The Only Place \(Deluxe\)](https://open.spotify.com/album/2lpW13Gis4FaolJmwufJB1) | 2:42 |
+| 58 | [The Only Place](https://open.spotify.com/track/0NCcbiW3kiasTzgg3CiBrf) | [Best Coast](https://open.spotify.com/artist/5YkBrE0wF8cAlq3GCOw5Eu) | [The Only Place \(Deluxe\)](https://open.spotify.com/album/02gFZUaqAcQNtV6rmVIsN0) | 2:42 |
 | 59 | [Constructive Summer \- 2018 \- Remaster](https://open.spotify.com/track/5if6bRlufL1WxJESt3vZzt) | [The Hold Steady](https://open.spotify.com/artist/3qkZBMz5JgmRN9u5wwhRC6) | [Stay Positive \(Deluxe Edition\)](https://open.spotify.com/album/43vkSl8wNFKia9CeZWYYTu) | 2:55 |
 | 60 | [King of the Beach](https://open.spotify.com/track/1CHL6sjDwpivvA4LE0lsww) | [Wavves](https://open.spotify.com/artist/6bUJpbekaIlq2fT5FMV2mQ) | [King of the Beach](https://open.spotify.com/album/7Mn0aXVHjaoFZPKLssqI9d) | 2:38 |
 | 61 | [Ain't No Rest for the Wicked](https://open.spotify.com/track/3Pzh926pXggbMe2ZpXyMV7) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Cage The Elephant \(Expanded Edition\)](https://open.spotify.com/album/7H814Cg8HV0qpoMheYbhNn) | 2:55 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3bkMPOyjie.md) - [plain]
 | 72 | [Sex](https://open.spotify.com/track/0wIFAHbaUucA8mog7Y2IDD) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975](https://open.spotify.com/album/33ZqJmmqFE8Z7Ak1Lxbnfb) | 3:26 |
 | 73 | [hot girls in good moods](https://open.spotify.com/track/3j9ERO1WUkVvU71sNFRDEt) | [Butch Walker](https://open.spotify.com/artist/7qKoy46vPnmIxKCN6ewBG4) | [The Rise and Fall of..\. Butch Walker and The Let's\-Go\-Out\-Tonites](https://open.spotify.com/album/3RmqVZPcYT5LUFQ6Kl5N4B) | 3:45 |
 
-Snapshot ID: `MTY1MDk4MjgyOCwwMDAwMDAwMDcxZjllZDhmYzUzNDcyMDg1MmMyNzQwODU1NDgwMDJh`
+Snapshot ID: `MTY1MDk4MjgyOCwwMDAwMDAwMDE3MzczMzM1ODJjYTViMGMzMzQyNDhmYjk3NGU2YTg1`

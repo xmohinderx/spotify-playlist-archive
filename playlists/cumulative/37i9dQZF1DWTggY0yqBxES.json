@@ -714,6 +714,28 @@
     },
     {
       "album": {
+        "name": "The Forever Story",
+        "url": "https://open.spotify.com/album/3QVjpIxcksDkJmOnvlOJjg"
+      },
+      "artists": [
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235423,
+      "name": "Bruddanem (feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/60pZpM5WjUBQvaQ5E37XW6"
+    },
+    {
+      "album": {
         "name": "Build Me a Way",
         "url": "https://open.spotify.com/album/5MR8fKYnll1WuHP148kma4"
       },
@@ -1031,7 +1053,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 199500,
       "name": "Come On, Let's Go (with Nigo)",
       "url": "https://open.spotify.com/track/6f44p3Kc4ayD9VtbC9Clkr"
@@ -1363,7 +1385,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 130021,
       "name": "DO IT AGAIN",
       "url": "https://open.spotify.com/track/2fvAP52y708KxkAOnI5LYa"
@@ -1603,7 +1625,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 117013,
       "name": "FACES - but like the one the label made me do",
       "url": "https://open.spotify.com/track/1vYAk7ZUKTI009021PGhQg"
@@ -3543,7 +3565,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-06",
+      "date_removed": null,
       "duration_ms": 280000,
       "name": "Psychedelic Views (feat. IDK)",
       "url": "https://open.spotify.com/track/528i4G2yPIJDetyAsndzFw"
@@ -3769,7 +3791,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 178536,
       "name": "RUN THE WORLD",
       "url": "https://open.spotify.com/track/24O46adSE5SxxOthWe28AC"
@@ -3835,6 +3857,24 @@
       "duration_ms": 155756,
       "name": "signs",
       "url": "https://open.spotify.com/track/1YfqDbjEzIOmoSOEarcpGL"
+    },
+    {
+      "album": {
+        "name": "Slippin'",
+        "url": "https://open.spotify.com/album/5r9zWpPnsiEcvJsxBYwFsP"
+      },
+      "artists": [
+        {
+          "name": "Oswin Benjamin",
+          "url": "https://open.spotify.com/artist/31pIxyVveAaYS1O5K2lNEF"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "Slippin'",
+      "url": "https://open.spotify.com/track/5ZrpcWtKwWVAsoGFpRLOcF"
     },
     {
       "album": {
@@ -4193,7 +4233,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 193138,
       "name": "Swish",
       "url": "https://open.spotify.com/track/536R5L9YMmxAMvIrBleqZ9"
@@ -4431,7 +4471,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 101040,
       "name": "This Bitch Matters",
       "url": "https://open.spotify.com/track/6o7XKljPp21NuqMwqAcDRP"
@@ -4957,6 +4997,24 @@
       "duration_ms": 121572,
       "name": "WUSYANAME (feat. Youngboy Never Broke Again & Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/5B0kgjHULYJhAQkK5XsMoC"
+    },
+    {
+      "album": {
+        "name": "YAMI YUGI MOTO",
+        "url": "https://open.spotify.com/album/6ElRJqOiiUC2UgaSjzaKz3"
+      },
+      "artists": [
+        {
+          "name": "Khary",
+          "url": "https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117600,
+      "name": "YAMI YUGI MOTO",
+      "url": "https://open.spotify.com/track/1ASAX1Yk2LGl2Jt1GNS4ft"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > These country songs know exactly how you feel.
 
-148 songs - 8 hr 46 min - [published](https://open.spotify.com/playlist/68FV8d2Esz4dF7OiEcvcDQ)
+149 songs - 8 hr 50 min - [published](https://open.spotify.com/playlist/68FV8d2Esz4dF7OiEcvcDQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,11 +125,12 @@
 | [Things A Man Oughta Know](https://open.spotify.com/track/5QS8PNEWbqTEZyQ6e9ZbJf) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Sayin' What I'm Thinkin'](https://open.spotify.com/album/3I0SEplNpqsPfnLVZsNPif) | 3:23 | 2021-12-03 |  |
 | [Think About Me](https://open.spotify.com/track/0onq6klC19tB7MT54gob65) | [Maggie Baugh](https://open.spotify.com/artist/4E82Kdena6yf0reUDRzbvW) | [Think About Me](https://open.spotify.com/album/0PRgtSEi8WEu8AHNNFNK9d) | 3:37 | 2021-12-03 | 2022-07-29 |
 | [Think of You](https://open.spotify.com/track/6W9W8dSswA8KNegvl3W97V) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q), [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG) | [I'm Comin' Over](https://open.spotify.com/album/7IOSachS7KZNuqRZrPcdD0) | 3:38 | 2022-01-28 |  |
+| [Three Whiskeys And The Truth](https://open.spotify.com/track/2PMtsOOk1JD7yGT7E1ZK6Q) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Mr\. Sun](https://open.spotify.com/album/1zb7kVc7JA7ew7OIdj0wOB) | 3:53 | 2022-09-16 |  |
 | [Tin Man](https://open.spotify.com/track/4ckQIgBy1gVeevf7UAereE) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [The Weight of These Wings](https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG) | 4:19 | 2021-12-03 |  |
 | [Tonight I Wanna Cry](https://open.spotify.com/track/0BHNSNcbTxQSwxXNnr9oUw) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Greatest Hits](https://open.spotify.com/album/0xBQEVKKlFKaetqike1qXK) | 4:19 | 2021-12-03 | 2022-07-12 |
 | [Try Losing One](https://open.spotify.com/track/6mDokQBBmkDhu7uDEFhyQ7) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [What Do They Know](https://open.spotify.com/album/0NR3FJJhD27XgurmHEQHY0) | 3:39 | 2022-07-25 |  |
 | [Unlove You](https://open.spotify.com/track/3DeLvrawPtl8wSupXgTlSh) | [Jennifer Nettles](https://open.spotify.com/artist/2WV4xLQooFalR2cit0XSKp) | [Playing With Fire](https://open.spotify.com/album/76k8TW4lc0uzpaRHa2U0bK) | 3:54 | 2021-12-03 |  |
-| [Villain](https://open.spotify.com/track/6PXUv7YuTC2Ua1rowd9Uql) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [Villain](https://open.spotify.com/album/31WjCvWYsVgesxT7l8lyBo) | 2:56 | 2021-12-03 |  |
+| [Villain](https://open.spotify.com/track/6PXUv7YuTC2Ua1rowd9Uql) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [Villain](https://open.spotify.com/album/31WjCvWYsVgesxT7l8lyBo) | 2:56 | 2021-12-03 | 2022-09-17 |
 | [What Am I Gonna Do \(With the Rest of My Life\)](https://open.spotify.com/track/3s4mcYTiiaMfQL81SBJxEm) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [That's the Way Love Goes](https://open.spotify.com/album/6JnUkkS70wXk2HisUDPkYa) | 3:35 | 2022-04-01 | 2022-04-21 |
 | [What He Didn't Do](https://open.spotify.com/track/5OLaVCAM2pqg7X9mAM2W8M) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [29: Written In Stone](https://open.spotify.com/album/5lwUnuV4PJekfTcYIbkq6a) | 3:11 | 2021-12-03 |  |
 | [What Hurts The Most](https://open.spotify.com/track/4bVuIlGQBMWS7vIhcx8Ae4) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Me And My Gang](https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0) | 3:34 | 2021-12-03 |  |

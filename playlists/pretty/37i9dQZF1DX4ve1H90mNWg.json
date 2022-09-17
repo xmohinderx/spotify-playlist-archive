@@ -1,13 +1,145 @@
 {
   "description": "Texas music breaking waves. Cover, Teezo Don Toliver",
-  "num_followers": 3728,
+  "num_followers": 3734,
   "original_name": "Ripple Effect: Texas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mjk5ODk4OSwwMDAwMDAwMDMxZWE1MWU3NDdkYTc1ZTdlODQ5MjYyNDljY2JiNDYz",
+  "snapshot_id": "MTY2MzM2MjUwMCwwMDAwMDAwMDU5NTQ3N2M5YmUwMDUxOGRlYWJhYmZjODRjYjMwYzc3",
   "tracks": [
+    {
+      "added_at": "2022-09-09 18:55:33",
+      "album": {
+        "name": "Demons Protected By Angels",
+        "url": "https://open.spotify.com/album/29NWnawJBetVB3lOM9Sbp6"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 189320,
+      "name": "One Time (with Don Toliver feat. Future)",
+      "url": "https://open.spotify.com/track/0WA4APfzK7Y1pdzhvyhSwD"
+    },
+    {
+      "added_at": "2022-09-16 21:08:20",
+      "album": {
+        "name": "Miss My Dawgs",
+        "url": "https://open.spotify.com/album/3yeL1kWdc6fCSLzefpQC4r"
+      },
+      "artists": [
+        {
+          "name": "Kaash Paige",
+          "url": "https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "duration_ms": 205788,
+      "name": "Miss My Dawgs (with 6LACK)",
+      "url": "https://open.spotify.com/track/7L2Nh4EsaETigImpQKvSoc"
+    },
+    {
+      "added_at": "2022-09-16 21:08:20",
+      "album": {
+        "name": "803MAYJOR VOL. 1",
+        "url": "https://open.spotify.com/album/1dlNnLmFEu4gzUpT2ob5qp"
+      },
+      "artists": [
+        {
+          "name": "Aaron May",
+          "url": "https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS"
+        }
+      ],
+      "duration_ms": 80883,
+      "name": "WILD WILD WEST",
+      "url": "https://open.spotify.com/track/0XorGtwWuDhvbjbqNVxQXY"
+    },
+    {
+      "added_at": "2022-09-16 21:08:20",
+      "album": {
+        "name": "Master P",
+        "url": "https://open.spotify.com/album/0BOgBcsOtJJrEySOygBMt9"
+      },
+      "artists": [
+        {
+          "name": "Hotboy Wes",
+          "url": "https://open.spotify.com/artist/2Lgyk37aJufoDDSoU4S5nO"
+        }
+      ],
+      "duration_ms": 109810,
+      "name": "Master P",
+      "url": "https://open.spotify.com/track/3k06dCqFtiwY1EY32LcS7r"
+    },
+    {
+      "added_at": "2022-09-16 21:08:20",
+      "album": {
+        "name": "Confidential",
+        "url": "https://open.spotify.com/album/1a8lUC6KHjXG05I0uecnZV"
+      },
+      "artists": [
+        {
+          "name": "Signature IllI",
+          "url": "https://open.spotify.com/artist/0InRUdfzax5woMIwNk2IjG"
+        },
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 146782,
+      "name": "Confidential",
+      "url": "https://open.spotify.com/track/2I7oyNm0qBlCiZFETMg0G7"
+    },
+    {
+      "added_at": "2022-09-16 21:08:20",
+      "album": {
+        "name": "I Put That On You",
+        "url": "https://open.spotify.com/album/5ECSQOs8fNu1vCY0hRpU1A"
+      },
+      "artists": [
+        {
+          "name": "Unique Musick",
+          "url": "https://open.spotify.com/artist/37vPip6vAOFgi7BWhc2Wwz"
+        },
+        {
+          "name": "KpBaby",
+          "url": "https://open.spotify.com/artist/0gs6pJo78Uafnsj4gAaBAG"
+        }
+      ],
+      "duration_ms": 138634,
+      "name": "I Put That On You",
+      "url": "https://open.spotify.com/track/2g9tETxLZMP88xgomK5605"
+    },
+    {
+      "added_at": "2022-09-16 21:08:20",
+      "album": {
+        "name": "The Wolves",
+        "url": "https://open.spotify.com/album/0kdZPFWdg3o2H4jCfAHOyP"
+      },
+      "artists": [
+        {
+          "name": "Madeline Edwards",
+          "url": "https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa"
+        }
+      ],
+      "duration_ms": 174511,
+      "name": "The Wolves",
+      "url": "https://open.spotify.com/track/2qg3DQgzNxAJTT15VEYH49"
+    },
     {
       "added_at": "2022-09-09 18:55:33",
       "album": {
@@ -133,20 +265,68 @@
       "url": "https://open.spotify.com/track/5vdZczJznIbo9IDxzWvgV6"
     },
     {
-      "added_at": "2022-09-09 18:55:33",
+      "added_at": "2022-09-16 21:08:20",
       "album": {
-        "name": "Go In",
-        "url": "https://open.spotify.com/album/1AENDTX6JaPVNcGyyyDk9X"
+        "name": "MINE",
+        "url": "https://open.spotify.com/album/4pY3QqSRrATv2KH7mPvP37"
       },
       "artists": [
         {
-          "name": "Hotboy Wes",
-          "url": "https://open.spotify.com/artist/2Lgyk37aJufoDDSoU4S5nO"
+          "name": "Jastin Martin",
+          "url": "https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1"
         }
       ],
-      "duration_ms": 139358,
-      "name": "Go In",
-      "url": "https://open.spotify.com/track/5zi3dnuyXnGbtVdfvBKrqL"
+      "duration_ms": 183652,
+      "name": "Reassurance",
+      "url": "https://open.spotify.com/track/4NIZu6esOZH5dCvRA8y1Ra"
+    },
+    {
+      "added_at": "2022-08-19 19:52:43",
+      "album": {
+        "name": "Southside",
+        "url": "https://open.spotify.com/album/1bBH7XmYduj4tVTip9zuRo"
+      },
+      "artists": [
+        {
+          "name": "Ashton Travis",
+          "url": "https://open.spotify.com/artist/5QFkhK4qG4aIeYZIWg2DO8"
+        }
+      ],
+      "duration_ms": 201056,
+      "name": "Southside",
+      "url": "https://open.spotify.com/track/5kRAI8FU35oY52jn8xwrI0"
+    },
+    {
+      "added_at": "2022-09-16 21:08:20",
+      "album": {
+        "name": "Make Me Say It Again, Girl",
+        "url": "https://open.spotify.com/album/4c6Z9lFMKtr9agRb6b8Myk"
+      },
+      "artists": [
+        {
+          "name": "Peyton",
+          "url": "https://open.spotify.com/artist/0uIVCKSl2eNhWQ1yXxO5xV"
+        }
+      ],
+      "duration_ms": 264578,
+      "name": "Make Me Say It Again, Girl",
+      "url": "https://open.spotify.com/track/1AOLTT2XUALAnfhalrTQS6"
+    },
+    {
+      "added_at": "2022-09-09 18:55:33",
+      "album": {
+        "name": "Loyalty",
+        "url": "https://open.spotify.com/album/1uVyGsbbQWIt99zPXCe7Cp"
+      },
+      "artists": [
+        {
+          "name": "Mosa",
+          "url": "https://open.spotify.com/artist/1cyaSULWtI17yYEk4301Pe"
+        }
+      ],
+      "duration_ms": 185182,
+      "name": "Loyalty",
+      "url": "https://open.spotify.com/track/5yHroDKvcyWhxK80rCcQEF"
     },
     {
       "added_at": "2022-09-09 18:55:33",
@@ -227,54 +407,6 @@
       "duration_ms": 251376,
       "name": "THANKZ (CHOPNOTSLOP REMIX)",
       "url": "https://open.spotify.com/track/2B4AhNKMnrCCjZ4I0Bak0G"
-    },
-    {
-      "added_at": "2022-08-19 19:52:43",
-      "album": {
-        "name": "Alaska",
-        "url": "https://open.spotify.com/album/0gwN64t5aeuOQwj2o5juHM"
-      },
-      "artists": [
-        {
-          "name": "Lil Jairmy",
-          "url": "https://open.spotify.com/artist/2MqvNhgPzUzBXERkh00GDY"
-        }
-      ],
-      "duration_ms": 165383,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/6JayjDlHxTSdVj9g85LA1s"
-    },
-    {
-      "added_at": "2022-08-19 19:52:43",
-      "album": {
-        "name": "Southside",
-        "url": "https://open.spotify.com/album/1bBH7XmYduj4tVTip9zuRo"
-      },
-      "artists": [
-        {
-          "name": "Ashton Travis",
-          "url": "https://open.spotify.com/artist/5QFkhK4qG4aIeYZIWg2DO8"
-        }
-      ],
-      "duration_ms": 201056,
-      "name": "Southside",
-      "url": "https://open.spotify.com/track/5kRAI8FU35oY52jn8xwrI0"
-    },
-    {
-      "added_at": "2022-09-09 18:55:33",
-      "album": {
-        "name": "Loyalty",
-        "url": "https://open.spotify.com/album/1uVyGsbbQWIt99zPXCe7Cp"
-      },
-      "artists": [
-        {
-          "name": "Mosa",
-          "url": "https://open.spotify.com/artist/1cyaSULWtI17yYEk4301Pe"
-        }
-      ],
-      "duration_ms": 185182,
-      "name": "Loyalty",
-      "url": "https://open.spotify.com/track/5yHroDKvcyWhxK80rCcQEF"
     },
     {
       "added_at": "2022-09-09 18:55:33",
@@ -549,22 +681,6 @@
       "url": "https://open.spotify.com/track/7J6xJkvWNoJR1yKTNq14RK"
     },
     {
-      "added_at": "2022-08-19 19:52:43",
-      "album": {
-        "name": "Momentum Freestyle",
-        "url": "https://open.spotify.com/album/49KfVOqAMuweVkdlEYlfes"
-      },
-      "artists": [
-        {
-          "name": "Kayykilo",
-          "url": "https://open.spotify.com/artist/0gh7zTXiSZH7MQ7OrHy0SG"
-        }
-      ],
-      "duration_ms": 163128,
-      "name": "Momentum Freestyle",
-      "url": "https://open.spotify.com/track/16wPds4D66tJtRnitYguZg"
-    },
-    {
       "added_at": "2022-08-12 17:13:35",
       "album": {
         "name": "LORD FORGIVE ME",
@@ -633,30 +749,6 @@
       "url": "https://open.spotify.com/track/6LIoVGrBTYU4o7fyJCkYuN"
     },
     {
-      "added_at": "2022-08-05 15:35:24",
-      "album": {
-        "name": "Never Sleep",
-        "url": "https://open.spotify.com/album/1D3mVBpavCAmgdO3xgUrty"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 185785,
-      "name": "Never Sleep (with Lil Baby feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/4UeBhUCW6Z7dPEYelWQQ9i"
-    },
-    {
       "added_at": "2022-07-22 19:49:57",
       "album": {
         "name": "THE VISION (feat. Anderson .Paak)",
@@ -719,26 +811,6 @@
     {
       "added_at": "2022-07-29 19:38:06",
       "album": {
-        "name": "Fuck Alone (Remix) [feat. Kaash Paige]",
-        "url": "https://open.spotify.com/album/0E8oKtWaoYMi8EPfEY0hLW"
-      },
-      "artists": [
-        {
-          "name": "Imani Williams",
-          "url": "https://open.spotify.com/artist/7bFuEkk1929rDOdLywT3rn"
-        },
-        {
-          "name": "Kaash Paige",
-          "url": "https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE"
-        }
-      ],
-      "duration_ms": 219861,
-      "name": "Fuck Alone (Remix) [feat. Kaash Paige]",
-      "url": "https://open.spotify.com/track/5fFoGKU6y3121VH0kHE3us"
-    },
-    {
-      "added_at": "2022-07-29 19:38:06",
-      "album": {
         "name": "Make your Move (feat. Slim Thug)",
         "url": "https://open.spotify.com/album/2HpV8JDlBrvPrjthyZ0jEp"
       },
@@ -755,22 +827,6 @@
       "duration_ms": 151168,
       "name": "Make your Move (feat. Slim Thug)",
       "url": "https://open.spotify.com/track/4KnvPcopYg0heTIn0Ct59R"
-    },
-    {
-      "added_at": "2022-07-22 19:49:57",
-      "album": {
-        "name": "Don Julio",
-        "url": "https://open.spotify.com/album/7LlaZNYJSASqBm7rNNsu41"
-      },
-      "artists": [
-        {
-          "name": "Whookilledkenny",
-          "url": "https://open.spotify.com/artist/2KZnFwKkzZwaTe74507ZLD"
-        }
-      ],
-      "duration_ms": 149815,
-      "name": "Don Julio",
-      "url": "https://open.spotify.com/track/06SxEkpBBcjsoaB9woR7kQ"
     },
     {
       "added_at": "2022-07-22 19:49:57",
@@ -823,30 +879,6 @@
     {
       "added_at": "2022-07-22 19:49:57",
       "album": {
-        "name": "24 Hrs (Chopped Not Slopped Remix)",
-        "url": "https://open.spotify.com/album/5rsAKcad5dmkUSa9j8qWp3"
-      },
-      "artists": [
-        {
-          "name": "Kaash Paige",
-          "url": "https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE"
-        },
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
-        },
-        {
-          "name": "DJ Candlestick",
-          "url": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
-        }
-      ],
-      "duration_ms": 241230,
-      "name": "24 Hrs (feat. Lil Tjay) Chopped Not Slopped Remix",
-      "url": "https://open.spotify.com/track/4YvD5XLIGCsZBIdoNCcSVE"
-    },
-    {
-      "added_at": "2022-07-22 19:49:57",
-      "album": {
         "name": "What I Want (feat. Jacquees)",
         "url": "https://open.spotify.com/album/35SGTgFnncFTZQ4RJyFfoU"
       },
@@ -883,22 +915,6 @@
       "duration_ms": 157589,
       "name": "Supernatural (Remix)",
       "url": "https://open.spotify.com/track/4tI2LkEpzGrh3DYCg0hYPt"
-    },
-    {
-      "added_at": "2022-08-12 17:13:35",
-      "album": {
-        "name": "MINE",
-        "url": "https://open.spotify.com/album/4pY3QqSRrATv2KH7mPvP37"
-      },
-      "artists": [
-        {
-          "name": "Jastin Martin",
-          "url": "https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1"
-        }
-      ],
-      "duration_ms": 119172,
-      "name": "Love It Here",
-      "url": "https://open.spotify.com/track/2l0OaPp5Mpg20MPGX6g6nE"
     },
     {
       "added_at": "2022-07-22 19:49:57",
@@ -963,26 +979,6 @@
     {
       "added_at": "2022-07-01 03:55:04",
       "album": {
-        "name": "No Recognition",
-        "url": "https://open.spotify.com/album/3ifWcPzyVDRIWejXzSVsKU"
-      },
-      "artists": [
-        {
-          "name": "Aaron May",
-          "url": "https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS"
-        },
-        {
-          "name": "Startheonly1ne",
-          "url": "https://open.spotify.com/artist/1CHx79WailhfSLpBvUvWqt"
-        }
-      ],
-      "duration_ms": 176432,
-      "name": "Rush (feat. Startheonly1ne)",
-      "url": "https://open.spotify.com/track/0B1EqAYQZ5uYlEX5ifiDLY"
-    },
-    {
-      "added_at": "2022-07-01 03:55:04",
-      "album": {
         "name": "Numb",
         "url": "https://open.spotify.com/album/3SBeYxkc3Ce7lanK0f3epk"
       },
@@ -999,58 +995,6 @@
       "duration_ms": 155588,
       "name": "Numb",
       "url": "https://open.spotify.com/track/10xV5l9nhLvFpR8mqzs0bL"
-    },
-    {
-      "added_at": "2022-06-07 21:50:40",
-      "album": {
-        "name": "No Panties",
-        "url": "https://open.spotify.com/album/3CnXWlwLHgv4E1PaUnla28"
-      },
-      "artists": [
-        {
-          "name": "KenTheMan",
-          "url": "https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3"
-        }
-      ],
-      "duration_ms": 142998,
-      "name": "No Panties",
-      "url": "https://open.spotify.com/track/65aGF0Q6hLvlbIyuY2OXwX"
-    },
-    {
-      "added_at": "2022-05-13 20:10:20",
-      "album": {
-        "name": "Blat Blat",
-        "url": "https://open.spotify.com/album/1MfqBtzA1yn6343XmXTW8E"
-      },
-      "artists": [
-        {
-          "name": "Yung Ro",
-          "url": "https://open.spotify.com/artist/1mQWZPciU2mObkw2Fpgbxg"
-        },
-        {
-          "name": "NolaBoy",
-          "url": "https://open.spotify.com/artist/1MeA4eGCrMsM52Ka8NrrJj"
-        }
-      ],
-      "duration_ms": 155202,
-      "name": "Blat Blat",
-      "url": "https://open.spotify.com/track/5wfpODLyMLvngCWZyL6NHZ"
-    },
-    {
-      "added_at": "2022-05-13 20:10:20",
-      "album": {
-        "name": "Habits",
-        "url": "https://open.spotify.com/album/3RM8kNPQMAFj2ygyMQtp5h"
-      },
-      "artists": [
-        {
-          "name": "BFG Straap",
-          "url": "https://open.spotify.com/artist/2HIW5ZZGmdKmy2EH1NtSfL"
-        }
-      ],
-      "duration_ms": 169259,
-      "name": "Habits",
-      "url": "https://open.spotify.com/track/28aVccxsboUGyBZnkJGkJL"
     },
     {
       "added_at": "2022-04-15 07:50:00",
@@ -1083,30 +1027,6 @@
       "duration_ms": 232110,
       "name": "I\u2019m Not Kidding",
       "url": "https://open.spotify.com/track/5lkO0aXdKXWJXujSfSXKd4"
-    },
-    {
-      "added_at": "2022-09-09 18:55:33",
-      "album": {
-        "name": "Demons Protected By Angels",
-        "url": "https://open.spotify.com/album/29NWnawJBetVB3lOM9Sbp6"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 189320,
-      "name": "One Time (with Don Toliver feat. Future)",
-      "url": "https://open.spotify.com/track/0WA4APfzK7Y1pdzhvyhSwD"
     }
   ],
   "unique_name": "Ripple Effect: Texas",

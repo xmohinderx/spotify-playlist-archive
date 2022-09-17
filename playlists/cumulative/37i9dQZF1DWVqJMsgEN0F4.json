@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Highly Suspect along with the top Alternative songs of today.",
+  "description": " Marcus Mumford along with the top Alternative songs of today.",
   "name": "Alt NOW",
   "published_playlist_ids": [
     "6EMN1AhrUHWzoAMRYyK1Q6"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 159832,
       "name": "<maybe> it's my fault",
       "url": "https://open.spotify.com/track/4w5wkuwuCByenZ6QufdeQN"
@@ -502,6 +502,24 @@
     },
     {
       "album": {
+        "name": "Burning",
+        "url": "https://open.spotify.com/album/71Dk5SUWHmMrRnfPwYRnGB"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245120,
+      "name": "Burning",
+      "url": "https://open.spotify.com/track/07IAGsfYqS8sZSECzK1hZK"
+    },
+    {
+      "album": {
         "name": "Can You Handle My Love??",
         "url": "https://open.spotify.com/album/5HuxJH43h3FTR8W258lhps"
       },
@@ -704,6 +722,24 @@
     },
     {
       "album": {
+        "name": "curious/furious",
+        "url": "https://open.spotify.com/album/5hlxPdHRPznZIxBna01A9Z"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184905,
+      "name": "curious/furious",
+      "url": "https://open.spotify.com/track/27dTFzAAiUrJ2C2hxRcCd5"
+    },
+    {
+      "album": {
         "name": "DIE OUT HERE (feat. POORSTACY)",
         "url": "https://open.spotify.com/album/4agLeYDJ434nJLLvM4uJWJ"
       },
@@ -883,6 +919,24 @@
       "duration_ms": 181120,
       "name": "Especially You",
       "url": "https://open.spotify.com/track/1prCMVGhgKF805LZJhFIHe"
+    },
+    {
+      "album": {
+        "name": "Keep On Smiling",
+        "url": "https://open.spotify.com/album/0SbaC7OZOVB2WKGzf9ZMSQ"
+      },
+      "artists": [
+        {
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262356,
+      "name": "Everybody's Cool",
+      "url": "https://open.spotify.com/track/5HUxswbr7V4fzwG1LGCf7U"
     },
     {
       "album": {
@@ -1187,6 +1241,24 @@
       "duration_ms": 201945,
       "name": "I'll Call You Mine",
       "url": "https://open.spotify.com/track/0RQoxryvRJZD9CShaRLASb"
+    },
+    {
+      "album": {
+        "name": "I'm In Love With You",
+        "url": "https://open.spotify.com/album/3TI3FFFz3hKQfsL0izZ8JS"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262623,
+      "name": "I'm In Love With You",
+      "url": "https://open.spotify.com/track/0uBdQzKghx88d2Lp8SLFKJ"
     },
     {
       "album": {
@@ -1737,7 +1809,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 196135,
       "name": "Natural Born Killer",
       "url": "https://open.spotify.com/track/78wMThFTNKThsWq19o0F1H"
@@ -1853,7 +1925,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 260148,
       "name": "Part Of The Band",
       "url": "https://open.spotify.com/track/79vEv8zqy9tLYsTxxkXHXq"
@@ -1959,7 +2031,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 208920,
       "name": "Records",
       "url": "https://open.spotify.com/track/23ZmKlucJRQrdR0QItAafL"
@@ -2291,7 +2363,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 257746,
       "name": "Spitting Off the Edge of the World",
       "url": "https://open.spotify.com/track/3kBBjItT7JnKi28k68dGkr"
@@ -2893,7 +2965,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 273693,
       "name": "Unconditional I (Lookout Kid)",
       "url": "https://open.spotify.com/track/6xcrYjTKuONMfC1Qoc6Bdy"
@@ -3279,6 +3351,24 @@
       "duration_ms": 168172,
       "name": "You Will Never Work In Television Again",
       "url": "https://open.spotify.com/track/2Aa4sRrWDddEmVRfAjVjsw"
+    },
+    {
+      "album": {
+        "name": "\u2022NOTDEAD!\u2022",
+        "url": "https://open.spotify.com/album/3wSkJjnc6ayPUKr8X8ucUK"
+      },
+      "artists": [
+        {
+          "name": "Tom The Mail Man",
+          "url": "https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190188,
+      "name": "\u2022NOTDEAD!\u2022",
+      "url": "https://open.spotify.com/track/1c30r2e9SgkvjikuJBR7ms"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWVqJMsgEN0F4"

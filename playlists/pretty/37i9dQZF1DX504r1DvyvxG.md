@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX504r1DvyvxG.md) - [plain]
 
 > Kick back with a collection of iconic and new acoustic tracks with that classic feel\. Cover: George Harrison
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,461,769 likes - 100 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,462,276 likes - 100 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX504r1DvyvxG.md) - [plain]
 | 31 | [Pink Moon](https://open.spotify.com/track/4KROoGIaPaR1pBHPnR3bwC) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Pink Moon](https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg) | 2:04 |
 | 32 | [50 Ways to Leave Your Lover](https://open.spotify.com/track/6Qb7gtV6Q4MnUjSbkFcopl) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Still Crazy After All These Years](https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W) | 3:37 |
 | 33 | [Vincent](https://open.spotify.com/track/0VNzEY1G4GLqcNx5qaaTl6) | [Don McLean](https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8) | [American Pie](https://open.spotify.com/album/10jsW2NYd9blCrDITMh2zS) | 4:03 |
-| 34 | [Wildflowers](https://open.spotify.com/track/2Pr1nZpt8A8WP7QYpyq6L3) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Wildflowers](https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg) | 3:10 |
-| 35 | [Morning Has Broken \- Remastered 2021](https://open.spotify.com/track/5y8d8RHvxb0KiTa9Nq0xWp) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Teaser And The Firecat \(Remastered 2021\)](https://open.spotify.com/album/7ez8WRX4sGhKHZryJPJCNg) | 3:19 |
+| 34 | [Morning Has Broken \- Remastered 2021](https://open.spotify.com/track/5y8d8RHvxb0KiTa9Nq0xWp) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Teaser And The Firecat \(Remastered 2021\)](https://open.spotify.com/album/7ez8WRX4sGhKHZryJPJCNg) | 3:19 |
+| 35 | [Wildflowers](https://open.spotify.com/track/2Pr1nZpt8A8WP7QYpyq6L3) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Wildflowers](https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg) | 3:10 |
 | 36 | [Norwegian Wood \(This Bird Has Flown\) \- Remastered 2009](https://open.spotify.com/track/1H7gMYGykdtwZOV6s1N0by) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Rubber Soul \(Remastered\)](https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm) | 2:04 |
 | 37 | [Stuck In The Middle With You](https://open.spotify.com/track/1b7LMtXCXGc2EwOIplI35z) | [Stealers Wheel](https://open.spotify.com/artist/7bPU7cvfoD20ixGD9Qnqki) | [Reservoir Dogs \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4pFfvZt1riTaIWzkHFfmsF) | 3:23 |
 | 38 | [Bad, Bad Leroy Brown](https://open.spotify.com/track/1O0xeZrBDbq7HPREdmYUYK) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [Life & Times](https://open.spotify.com/album/3q7L4mosMmOcmQNE1d0H4s) | 3:02 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX504r1DvyvxG.md) - [plain]
 | 89 | [Angie \- 2015 Remaster](https://open.spotify.com/track/4QTV3dLUyYu5vFPEFvA1jg) | [Bert Jansch](https://open.spotify.com/artist/1FqG6mhiJbhbMg43ohCT6D) | [Bert Jansch](https://open.spotify.com/album/2Fqo2YzPayuwaiUJEqUMGy) | 3:09 |
 | 90 | [It Ain't Over Yet](https://open.spotify.com/track/7GJlAXotjV4uNS1seUDcVE) | [Rodney Crowell](https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY), [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE), [John Paul White](https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb) | [Close Ties](https://open.spotify.com/album/4tBvlrS4v0KekohNQlV31W) | 5:14 |
 | 91 | [Angeles](https://open.spotify.com/track/2uwN3PDudlRkAKE3wA0OqJ) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/6KMdn9HDIqcBPaaok0K34K) | 2:56 |
-| 92 | [Long Time Comin'](https://open.spotify.com/track/4OfCkjpcpqKgr9igYyOSHm) | [John Hiatt](https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV) | [Terms of My Surrender](https://open.spotify.com/album/5Kl06Gn6TlYxhRr7Qmrr8m) | 4:12 |
-| 93 | [Boulder to Birmingham \- 2003 Remaster](https://open.spotify.com/track/05XNDab0Lhitzqk7tRpOnY) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Pieces of the Sky \(Expanded & Remastered\)](https://open.spotify.com/album/04TlWfr3EnQE47HyNTBnex) | 3:33 |
+| 92 | [Boulder to Birmingham \- 2003 Remaster](https://open.spotify.com/track/05XNDab0Lhitzqk7tRpOnY) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Pieces of the Sky \(Expanded & Remastered\)](https://open.spotify.com/album/04TlWfr3EnQE47HyNTBnex) | 3:33 |
+| 93 | [Long Time Comin'](https://open.spotify.com/track/4OfCkjpcpqKgr9igYyOSHm) | [John Hiatt](https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV) | [Terms of My Surrender](https://open.spotify.com/album/5Kl06Gn6TlYxhRr7Qmrr8m) | 4:12 |
 | 94 | [Your Song](https://open.spotify.com/track/7gCeodIXjhCLDWC5H1LOmT) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Elton John](https://open.spotify.com/album/0C2grVR8DnJnL8rg7OP6Zm) | 4:04 |
 | 95 | [Love At The Five And Dime](https://open.spotify.com/track/5MhqCzQuPwHEVGS2i5zHOz) | [Nanci Griffith](https://open.spotify.com/artist/5CAiy5rDr3LaSoGtJOq6A0) | [The Last Of The True Believers](https://open.spotify.com/album/35HzQJGNwaNXWUInoJNz1t) | 4:39 |
 | 96 | [Our Town](https://open.spotify.com/track/44gq8zKiyisjDCKRfcuk3N) | [Iris DeMent](https://open.spotify.com/artist/3NPZs8XgXtaWslUcnIw6rY) | [Infamous Angel](https://open.spotify.com/album/4LluPNK62d1cUvD1ZL46bf) | 5:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX504r1DvyvxG.md) - [plain]
 | 99 | [900 Miles](https://open.spotify.com/track/0zVduthKvT1FEsUGFWT9Xo) | [Terry Callier](https://open.spotify.com/artist/5cHmjJA9Lo0ga8s8QdxEzs) | [The New Folk Sound Of Terry Callier \(Deluxe Edition\)](https://open.spotify.com/album/2cX2VDaXtAvTgZbSOZe2T7) | 5:07 |
 | 100 | [San Francisco Days](https://open.spotify.com/track/5Trbt34yBAzpM59c6G8pqO) | [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx) | [San Francisco Days](https://open.spotify.com/album/75BiePy3TDKg9or1NKm0ov) | 2:58 |
 
-Snapshot ID: `MTY1MzY3NzIyMiwwMDAwMDAwMGNlYTExMzllMDdiNTdmMTQzMTUyMjNiNmI5MjQzNzIw`
+Snapshot ID: `MTY1MzY3NzIyMiwwMDAwMDAwMGQ5MDg5NDE5YTIwNTg3NGE1ZmUzMTU2OTVjYjc3NTM0`

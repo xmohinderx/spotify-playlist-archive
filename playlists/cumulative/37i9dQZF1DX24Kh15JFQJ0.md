@@ -4,7 +4,7 @@
 
 > The latest music from our Country Heroes\. Cover: Ronnie Dunn
 
-156 songs - 9 hr 9 min - [published](https://open.spotify.com/playlist/5GBlntmj7cxNabVRK2ZjTV)
+157 songs - 9 hr 12 min - [published](https://open.spotify.com/playlist/5GBlntmj7cxNabVRK2ZjTV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [Why Me](https://open.spotify.com/track/4fnDSVPmxFOlo05eGTM8qb) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [The Willie Nelson Family](https://open.spotify.com/album/2gSxAG6hqMBsvyBZ0ZnJwt) | 2:12 | 2021-11-19 | 2022-03-12 |
 | [Why Things Happen](https://open.spotify.com/track/0ZONNSdfFeiIjBX25ZKRbj) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ), [Charley Pride](https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE) | [Bettie James](https://open.spotify.com/album/7wftPNQFSMYlpxzNMPHo1h) | 3:16 | 2021-10-15 |  |
 | [Woman Up \(And Take It Like A Man\)](https://open.spotify.com/track/4ed8tSfo4yU778D2mzIptV) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Run, Rose, Run](https://open.spotify.com/album/50A9Yv2SPJByoZIDO5WVzG) | 2:27 | 2022-03-04 |  |
+| [Wonderful Future](https://open.spotify.com/track/0FVX4SksBjtW12WwXmaTvA) | [Gene Watson](https://open.spotify.com/artist/3VQfHuqrRK1CNXR1V8PeR9), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Outside the Box](https://open.spotify.com/album/7n8oIGDVjdkgiRql7hPwbT) | 2:54 | 2022-09-16 |  |
 | [Workin' My Way Down](https://open.spotify.com/track/6RauCs5nVH1UR2stIQNjXu) | [Earl Thomas Conley](https://open.spotify.com/artist/69baNgo5tsg1RjBgotRbEj) | [Promised Land: The Lost Album](https://open.spotify.com/album/6Jiv6V6D16E3SkkIcqCY77) | 3:24 | 2021-10-15 |  |
 | [You Look Good](https://open.spotify.com/track/1iAPybXZz3fOL9okLCbtJO) | [Clay Walker](https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par) | [Texas to Tennessee](https://open.spotify.com/album/1mP7Dz3kH8vUPkraFnW6a6) | 2:55 | 2022-07-22 |  |
 | [You Look Good](https://open.spotify.com/track/5LjNZZORcIjCuvHgZUMlMs) | [Clay Walker](https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par) | [You Look Good](https://open.spotify.com/album/2YprzSRabRlUGbRM0j80pm) | 2:55 | 2021-10-15 | 2022-07-29 |

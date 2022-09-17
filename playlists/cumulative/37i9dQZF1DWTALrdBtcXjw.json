@@ -31,7 +31,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-12",
+      "date_removed": null,
       "duration_ms": 434839,
       "name": "2223",
       "url": "https://open.spotify.com/track/0UCKaDSR7Q9RMG4HECtlWT"
@@ -93,7 +93,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-23",
+      "date_removed": null,
       "duration_ms": 416342,
       "name": "A Pademonium of Parrots",
       "url": "https://open.spotify.com/track/6WlDDKY5DMMHf5w0sJaUkt"
@@ -366,6 +366,24 @@
     },
     {
       "album": {
+        "name": "Let's Face the Music",
+        "url": "https://open.spotify.com/album/68a61URtiemSLZn6UcHizY"
+      },
+      "artists": [
+        {
+          "name": "Reinhardt Winkler",
+          "url": "https://open.spotify.com/artist/3qI7BI1j3lVPj7O93WYsyK"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257148,
+      "name": "Beatrice",
+      "url": "https://open.spotify.com/track/3G5w8xxvPfQMpBbnM0ymhf"
+    },
+    {
+      "album": {
         "name": "Ode",
         "url": "https://open.spotify.com/album/2HJHKIUdO0f4QlKwznVC3e"
       },
@@ -381,6 +399,24 @@
       "duration_ms": 402013,
       "name": "Bee Blues",
       "url": "https://open.spotify.com/track/6keKDGemOj5o7VJHNVaeYl"
+    },
+    {
+      "album": {
+        "name": "Ev'rytime We Say Goodbye",
+        "url": "https://open.spotify.com/album/1Up43SfdvFghh3BAE1yBgG"
+      },
+      "artists": [
+        {
+          "name": "Charlie Wilder Band",
+          "url": "https://open.spotify.com/artist/6UYNORrztDMx6aNjhzwJTV"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158647,
+      "name": "Black Narcissus",
+      "url": "https://open.spotify.com/track/69ond5qxNhicqpCxYseO4h"
     },
     {
       "album": {
@@ -502,6 +538,24 @@
     },
     {
       "album": {
+        "name": "Bye Bye Blackbird",
+        "url": "https://open.spotify.com/album/5USF8sfRWdOU5tsCBG5cWh"
+      },
+      "artists": [
+        {
+          "name": "Enzo Orefice Trio",
+          "url": "https://open.spotify.com/artist/10fF7C0hOnj8V3lDxH6PQH"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420055,
+      "name": "Bye Bye Blackbird",
+      "url": "https://open.spotify.com/track/3eCqeHM0bDAu5JRz1Zrlew"
+    },
+    {
+      "album": {
         "name": "The Time is Now",
         "url": "https://open.spotify.com/album/6rbxPC5MijiKjZo5C7VPtd"
       },
@@ -521,7 +575,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 405907,
       "name": "Cabin in the Sky",
       "url": "https://open.spotify.com/track/1OCmPNCqZH3PGoO0tbEWZ7"
@@ -637,7 +691,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-16",
+      "date_removed": null,
       "duration_ms": 294259,
       "name": "Coffee Table Afternoon",
       "url": "https://open.spotify.com/track/2BwZMNVNbAInWWbyQQ7QOT"
@@ -706,6 +760,32 @@
     },
     {
       "album": {
+        "name": "I Remember Cedar",
+        "url": "https://open.spotify.com/album/5kM4FI7fxp22Lro1mBnVTy"
+      },
+      "artists": [
+        {
+          "name": "David Hazeltine",
+          "url": "https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q"
+        },
+        {
+          "name": "David Williams",
+          "url": "https://open.spotify.com/artist/1Qondy0id4ABDI62mzlCcX"
+        },
+        {
+          "name": "Joe Farnsworth",
+          "url": "https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362760,
+      "name": "Dear Ruth",
+      "url": "https://open.spotify.com/track/45VPHeZWtLlm2xjQMwRNGn"
+    },
+    {
+      "album": {
         "name": "Eclypso",
         "url": "https://open.spotify.com/album/6kMgJ6Q7IPOVq7juX2uEfT"
       },
@@ -735,7 +815,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 343000,
       "name": "Divergence",
       "url": "https://open.spotify.com/track/4SsYc7rzyUhEbXW0OPTDJf"
@@ -771,10 +851,36 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-05",
+      "date_removed": null,
       "duration_ms": 363919,
       "name": "Elemental Mood",
       "url": "https://open.spotify.com/track/1UU9CmBw1QQLdlqjhkE8U9"
+    },
+    {
+      "album": {
+        "name": "Lujon",
+        "url": "https://open.spotify.com/album/6iL7O7Ks30wMWw7joi11FN"
+      },
+      "artists": [
+        {
+          "name": "Atzko Kohashi",
+          "url": "https://open.spotify.com/artist/663fDRhznKHDmaCT2lIuro"
+        },
+        {
+          "name": "Frans Van Der Hoeven",
+          "url": "https://open.spotify.com/artist/43UY4tYgs9ksxkJxyowUTe"
+        },
+        {
+          "name": "Sebastiaan Kaptein",
+          "url": "https://open.spotify.com/artist/2pJ8MtliDompiMC7eTKSI8"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234511,
+      "name": "Embraceable You",
+      "url": "https://open.spotify.com/track/0BJL88oEd6rgUyjD9T3Sz3"
     },
     {
       "album": {
@@ -1054,6 +1160,32 @@
     },
     {
       "album": {
+        "name": "Balance Point",
+        "url": "https://open.spotify.com/album/3mNi1VupZNPWagYvTgLYuQ"
+      },
+      "artists": [
+        {
+          "name": "Art Hirahara",
+          "url": "https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib"
+        },
+        {
+          "name": "Joe Martin",
+          "url": "https://open.spotify.com/artist/5o11IsGu9crJBiLe37pNWW"
+        },
+        {
+          "name": "Rudy Royston",
+          "url": "https://open.spotify.com/artist/0ILg6S11FRLlqKHKOfTJyY"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295273,
+      "name": "Had It Happened",
+      "url": "https://open.spotify.com/track/5Pnj7upUtbxav0LNu4v5lX"
+    },
+    {
+      "album": {
         "name": "Out Here",
         "url": "https://open.spotify.com/album/14BJkt0RNMcXU14xMmNRxH"
       },
@@ -1123,6 +1255,24 @@
       "duration_ms": 346786,
       "name": "Here's That Rainy Day",
       "url": "https://open.spotify.com/track/2C1LmPGwkeVbV14Gn49ka8"
+    },
+    {
+      "album": {
+        "name": "Origin",
+        "url": "https://open.spotify.com/album/47Y5cRWVXLK2nM3pkOpVxE"
+      },
+      "artists": [
+        {
+          "name": "Joey Alexander",
+          "url": "https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140895,
+      "name": "Hesitation",
+      "url": "https://open.spotify.com/track/79DycP44xL69ZNfkH3Kqnd"
     },
     {
       "album": {
@@ -1359,6 +1509,24 @@
       "duration_ms": 173714,
       "name": "I'll Never Stop Loving You",
       "url": "https://open.spotify.com/track/19eGuwgMWn7huIkQ5qqfcs"
+    },
+    {
+      "album": {
+        "name": "The Moon and I",
+        "url": "https://open.spotify.com/album/6m6qm8MVQMJGvKTCXDuVe4"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Latchin Trio",
+          "url": "https://open.spotify.com/artist/79PWBQ4rekAQItLBfqIdzl"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335933,
+      "name": "Ill Wind",
+      "url": "https://open.spotify.com/track/3oKQYg5fUmWxuojIQBlUWo"
     },
     {
       "album": {
@@ -1898,6 +2066,36 @@
     },
     {
       "album": {
+        "name": "Thomas Sejthen Trio",
+        "url": "https://open.spotify.com/album/0ZDcQtOlZos9D0UCpNyrKa"
+      },
+      "artists": [
+        {
+          "name": "Thomas Sejthen Trio",
+          "url": "https://open.spotify.com/artist/66wuq7K0KsFPamcuZJI3LM"
+        },
+        {
+          "name": "Jesper Bo Knudsen",
+          "url": "https://open.spotify.com/artist/767zb5lIt0ZuBdDbiBbSUO"
+        },
+        {
+          "name": "Mads Ole Erhardsen",
+          "url": "https://open.spotify.com/artist/6q6FdyAk4gR1slw690LP4o"
+        },
+        {
+          "name": "Thomas Sejthen",
+          "url": "https://open.spotify.com/artist/785HPw9fdKz7GmwfItsc2K"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226396,
+      "name": "Monkish",
+      "url": "https://open.spotify.com/track/3Paicyrpt1V4SXa7hDWIzY"
+    },
+    {
+      "album": {
         "name": "Monky Donkey",
         "url": "https://open.spotify.com/album/651fHcUZBplRqdCZihyDzv"
       },
@@ -1997,7 +2195,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 331080,
       "name": "More Than You Know",
       "url": "https://open.spotify.com/track/45Hg9G6ErEpv0zXDzEs5i3"
@@ -2019,6 +2217,24 @@
       "duration_ms": 337960,
       "name": "Mother",
       "url": "https://open.spotify.com/track/6AxIGWRT1V2NLaTMYAnDNV"
+    },
+    {
+      "album": {
+        "name": "Changes over Time",
+        "url": "https://open.spotify.com/album/6eMW0RnkkZMD7cBIznCP6i"
+      },
+      "artists": [
+        {
+          "name": "Jon Davis",
+          "url": "https://open.spotify.com/artist/50COs4RSxBcXjOyOg56BZc"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245698,
+      "name": "My Cherie Amour",
+      "url": "https://open.spotify.com/track/7DHFPzbBjip4vhw5DM9AFR"
     },
     {
       "album": {
@@ -2169,6 +2385,36 @@
       "duration_ms": 340693,
       "name": "New Orleans",
       "url": "https://open.spotify.com/track/2z6D5bIA9Wprdqi1B8nnVh"
+    },
+    {
+      "album": {
+        "name": "On the Trail",
+        "url": "https://open.spotify.com/album/4vM3ImXZqAIRGCG47Cn8k8"
+      },
+      "artists": [
+        {
+          "name": "Massimo Fara\u00f2",
+          "url": "https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI"
+        },
+        {
+          "name": "Sophia Tomelleri",
+          "url": "https://open.spotify.com/artist/0t6QqAU5H72iR1XyOEAPbM"
+        },
+        {
+          "name": "Nicola Barbon",
+          "url": "https://open.spotify.com/artist/2HeWIvHGcrKkN5dab3lMnL"
+        },
+        {
+          "name": "Bobo Facchinetti",
+          "url": "https://open.spotify.com/artist/1WiARZlaiu6ZXMmEVFeFqP"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261236,
+      "name": "Nico's Dream",
+      "url": "https://open.spotify.com/track/3WpC7BGVmokob8XLVLudsb"
     },
     {
       "album": {
@@ -2472,6 +2718,24 @@
     },
     {
       "album": {
+        "name": "Relaxin' with Nick",
+        "url": "https://open.spotify.com/album/3FXM1Oj2O936SuRHSl6Oc6"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Payton",
+          "url": "https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 459186,
+      "name": "Relaxin' with Nick",
+      "url": "https://open.spotify.com/track/11QqXPoYDC1wLjBrVUJ6AU"
+    },
+    {
+      "album": {
         "name": "Soul Station",
         "url": "https://open.spotify.com/album/731OW49heGHCMrMOREHYlY"
       },
@@ -2611,6 +2875,32 @@
       "duration_ms": 189233,
       "name": "September Morn - Radio Edit",
       "url": "https://open.spotify.com/track/2q7eZQzmjwp8zlQEZlo0dx"
+    },
+    {
+      "album": {
+        "name": "September Song",
+        "url": "https://open.spotify.com/album/3QUqV83KlKSJerVhvwH1VA"
+      },
+      "artists": [
+        {
+          "name": "Battista Lena",
+          "url": "https://open.spotify.com/artist/6tSsm1i1CJCa7A8UVD2KpO"
+        },
+        {
+          "name": "Marco Fratini",
+          "url": "https://open.spotify.com/artist/1eKijoAFquBuMfQ2uK5AgX"
+        },
+        {
+          "name": "Roberto Gatto",
+          "url": "https://open.spotify.com/artist/1NCnU3PlLALiTCr6bgQEH8"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368856,
+      "name": "September Song",
+      "url": "https://open.spotify.com/track/6lf5rtLLUt2cNg3y6Bz39d"
     },
     {
       "album": {
@@ -3004,6 +3294,24 @@
     },
     {
       "album": {
+        "name": "Bassic Instinct",
+        "url": "https://open.spotify.com/album/2h2DmXUDMn8rScrIk7o0sf"
+      },
+      "artists": [
+        {
+          "name": "David Finck",
+          "url": "https://open.spotify.com/artist/0izr5ONrQxIf2EbHPCCavn"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220329,
+      "name": "The Best Thing for You (Would Be Me)",
+      "url": "https://open.spotify.com/track/31NiNqdwCcZWsKrtgPoews"
+    },
+    {
+      "album": {
         "name": "The End of a Bug Affair",
         "url": "https://open.spotify.com/album/1vVUQWQsuJM5yeCSx5MhOZ"
       },
@@ -3222,6 +3530,24 @@
     },
     {
       "album": {
+        "name": "Stardust",
+        "url": "https://open.spotify.com/album/2wfDE3UXThq9OPW1dCRIit"
+      },
+      "artists": [
+        {
+          "name": "Gathering in Jazz",
+          "url": "https://open.spotify.com/artist/76ByYkq6kq4j3eWue0iTJh"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197665,
+      "name": "The Shape of Blue",
+      "url": "https://open.spotify.com/track/11oZK9EdlMVLqVIIxkUFVx"
+    },
+    {
+      "album": {
         "name": "Beloved of the Sky",
         "url": "https://open.spotify.com/album/68IrthAL7tVs8TkwPRudxJ"
       },
@@ -3361,7 +3687,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 304042,
       "name": "This Morning",
       "url": "https://open.spotify.com/track/27dFurQnD2C32fvTEcBS4V"
@@ -3463,7 +3789,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 314413,
       "name": "Very Late",
       "url": "https://open.spotify.com/track/62nSghHUT2LHaMukgWuyCx"
@@ -3517,7 +3843,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-12",
+      "date_removed": null,
       "duration_ms": 278906,
       "name": "What's Up",
       "url": "https://open.spotify.com/track/3TdiCaHISm2x7waIHKC9Ms"
@@ -3569,6 +3895,32 @@
       "duration_ms": 354812,
       "name": "When You Wish Upon a Star",
       "url": "https://open.spotify.com/track/0xZyf3x2BDnKMbmtoIfRRO"
+    },
+    {
+      "album": {
+        "name": "Where We Belong",
+        "url": "https://open.spotify.com/album/1klyqyo9Ychh0ItzQDgrox"
+      },
+      "artists": [
+        {
+          "name": "Thomas Fonnesb\u00e6k",
+          "url": "https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph"
+        },
+        {
+          "name": "Lars Jansson",
+          "url": "https://open.spotify.com/artist/1kW3Vmt2UDZfYhc9So72dS"
+        },
+        {
+          "name": "Paul Svanberg",
+          "url": "https://open.spotify.com/artist/7KfU9kgLyulNPcW5ZBlPRX"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371773,
+      "name": "Where We Belong",
+      "url": "https://open.spotify.com/track/4LRIGcp9jELNiscAhEc2XI"
     },
     {
       "album": {
@@ -3625,7 +3977,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-12",
+      "date_removed": null,
       "duration_ms": 270641,
       "name": "You Know I Care",
       "url": "https://open.spotify.com/track/2gkTommmniENieOmT4vvYb"

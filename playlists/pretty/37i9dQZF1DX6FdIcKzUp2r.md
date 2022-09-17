@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FdIcKzUp2r.md) - [plain]
 
 > Work or rest with these gems from the 80s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,631 likes - 80 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,700 likes - 80 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FdIcKzUp2r.md) - [plain]
 | 15 | [Father Figure \- Remastered](https://open.spotify.com/track/0L0T4tMAaGqLgIVj1MOj9t) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) | 5:36 |
 | 16 | [All Out of Love](https://open.spotify.com/track/6Nq8YtPAHuL1outooeiFde) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [Ultimate Air Supply](https://open.spotify.com/album/5PXeBHFjvr8EykHfFxJMje) | 4:01 |
 | 17 | [Through the Barricades \- Remastered](https://open.spotify.com/track/5ALQSecfsZLsWip5CZK9aN) | [Spandau Ballet](https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv) | [Through the Barricades \(Remastered\)](https://open.spotify.com/album/5O1G1WHUO1IVRbl5VUUIdH) | 5:59 |
-| 18 | [An Ending \(Ascent\) \- Remastered 2005](https://open.spotify.com/track/1vgSaC0BPlL6LEm4Xsx59J) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 4:26 |
-| 19 | [A Real Hero](https://open.spotify.com/track/1aJrVsHwcQMZ8TZ6mlvT5J) | [College & Electric Youth](https://open.spotify.com/artist/3moPFBjUsSSJAC92afLgOH) | [A Real Hero EP](https://open.spotify.com/album/1fpoZQUSFwlfSve4rkFjCI) | 4:27 |
+| 18 | [A Real Hero](https://open.spotify.com/track/1aJrVsHwcQMZ8TZ6mlvT5J) | [College & Electric Youth](https://open.spotify.com/artist/3moPFBjUsSSJAC92afLgOH) | [A Real Hero EP](https://open.spotify.com/album/1fpoZQUSFwlfSve4rkFjCI) | 4:27 |
+| 19 | [An Ending \(Ascent\) \- Remastered 2005](https://open.spotify.com/track/1vgSaC0BPlL6LEm4Xsx59J) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 4:26 |
 | 20 | [Careless Whisper](https://open.spotify.com/track/2R7858bg0GHuBBxjTyOL7N) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [The Final](https://open.spotify.com/album/6ZJD7uT643TvniNyAk90bd) | 5:02 |
 | 21 | [Hold Me Now](https://open.spotify.com/track/0BJU4rYOfj43xHw6gvTIwE) | [Thompson Twins](https://open.spotify.com/artist/5jVeqi3PNaTOajfvBa4uFn) | [Into The Gap](https://open.spotify.com/album/0jcUegqpKCfHQ8va6aWwv0) | 4:46 |
 | 22 | [The One You Love](https://open.spotify.com/track/4uvARnZIajUDXWXPifhK3B) | [Glenn Frey](https://open.spotify.com/artist/3vMWY1bUrmYoSoEWLiQWOZ) | [No Fun Aloud](https://open.spotify.com/album/1vgK8Yq0G3E3MO4MzI4BJJ) | 4:34 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FdIcKzUp2r.md) - [plain]
 | 31 | [Running To Stand Still](https://open.spotify.com/track/4MLPCRYNhDIKcRjzS54ceu) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree \(Super Deluxe\)](https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU) | 4:17 |
 | 32 | [In Too Deep \- 2007 Remaster](https://open.spotify.com/track/4P0uyibZjcXZLVeNOHBd8Q) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [Invisible Touch](https://open.spotify.com/album/632b0oXuFpstA4DO2cUKdG) | 5:02 |
 | 33 | [Wherever I Lay My Hat \(That's My Home\)](https://open.spotify.com/track/3yzM3pkIF5rlllUAAhFPx7) | [Paul Young](https://open.spotify.com/artist/6rqU9HQ57NYGBnBzbrY3a4) | [From Time To Time \- The Singles Collection](https://open.spotify.com/album/6bDQgC4mNcwz46wHKI6h2y) | 4:10 |
-| 34 | [Has Anyone Ever Written Anything for You](https://open.spotify.com/track/1PAnGhRo2tHpM2DNibEEe6) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Rock a Little](https://open.spotify.com/album/0guJSEAsHAQ1gXPC18u7hc) | 4:39 |
-| 35 | [There's Never a Forever Thing](https://open.spotify.com/track/5OWV0zaieHKpIW5O2EbRjy) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [Stay on These Roads](https://open.spotify.com/album/6lka22PtQOmCt5ri8GPSZm) | 2:51 |
+| 34 | [There's Never a Forever Thing](https://open.spotify.com/track/5OWV0zaieHKpIW5O2EbRjy) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [Stay on These Roads](https://open.spotify.com/album/6lka22PtQOmCt5ri8GPSZm) | 2:51 |
+| 35 | [Has Anyone Ever Written Anything for You](https://open.spotify.com/track/1PAnGhRo2tHpM2DNibEEe6) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Rock a Little](https://open.spotify.com/album/0guJSEAsHAQ1gXPC18u7hc) | 4:39 |
 | 36 | [This Woman's Work \- 2018 Remaster](https://open.spotify.com/track/04GlCBjIl0HPR3TWQpraJ3) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Sensual World \(2018 Remaster\)](https://open.spotify.com/album/3k9p0yOIiw3O39chv3fYYO) | 3:36 |
 | 37 | [I Hear You Now](https://open.spotify.com/track/0rhUvAqeXfG4gl4IZhglgX) | [Jon & Vangelis](https://open.spotify.com/artist/5gS1uXayWA0WJPgcRqNIae) | [The Best Of Jon & Vangelis](https://open.spotify.com/album/4alWkBQdvkbrs1cB5pFjzc) | 4:48 |
 | 38 | [One Step Up](https://open.spotify.com/track/3ICZte49haM8ID7H6LSSjb) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Tunnel Of Love](https://open.spotify.com/album/5Qcef60m4gcckV24PmPYVq) | 4:21 |
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FdIcKzUp2r.md) - [plain]
 | 49 | [And Dream Of Sheep \- 2018 Remaster](https://open.spotify.com/track/0NMLAW3ma3naFx3DQRrnNS) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds of Love \(2018 Remaster\)](https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH) | 2:45 |
 | 50 | [If Leaving Me Is Easy \- 2015 Remaster](https://open.spotify.com/track/3PuwTAbtjZDgeCqb7OAdzd) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [The Singles \(Expanded\)](https://open.spotify.com/album/7yZHLfxqiGPbSQLrVJljah) | 4:56 |
 | 51 | [I Believe](https://open.spotify.com/track/2iwXxZD87p1Q3ISveQteiJ) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair](https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5) | 4:55 |
-| 52 | [A Different Corner](https://open.spotify.com/track/7njBQO43OYrfIqwXO6Gcyv) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [The Final](https://open.spotify.com/album/6ZJD7uT643TvniNyAk90bd) | 3:57 |
+| 52 | [October \- Remastered 2008](https://open.spotify.com/track/1UlQqRd3NoMYUI29v6DFb5) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [October \(Deluxe Edition Remastered\)](https://open.spotify.com/album/59O7CFxLYBBKYtrO61LyqF) | 2:21 |
 | 53 | [I Never Thought I'd See the Day](https://open.spotify.com/track/6Y3h8CAOKtFSKGN1hTRA1D) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Stronger Than Pride](https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK) | 4:13 |
-| 54 | [October \- Remastered 2008](https://open.spotify.com/track/1UlQqRd3NoMYUI29v6DFb5) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [October \(Deluxe Edition Remastered\)](https://open.spotify.com/album/59O7CFxLYBBKYtrO61LyqF) | 2:21 |
+| 54 | [A Different Corner](https://open.spotify.com/track/7njBQO43OYrfIqwXO6Gcyv) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [The Final](https://open.spotify.com/album/6ZJD7uT643TvniNyAk90bd) | 3:57 |
 | 55 | [Tara](https://open.spotify.com/track/5oMNDwCx1Lr9BSL4WkkazM) | [Roxy Music](https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo) | [Avalon](https://open.spotify.com/album/3JXODSjT9mUz2lIb4YIErw) | 1:43 |
 | 56 | [Shipbuilding](https://open.spotify.com/track/7DV1fLakiEgpJ1OuMQH4yb) | [Elvis Costello & The Attractions](https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH) | [Punch The Clock](https://open.spotify.com/album/0jo7K3IkLusU2dbYLvQIOs) | 4:52 |
 | 57 | [For a Friend](https://open.spotify.com/track/6Cfvxx7v5MxCzGQOXjxo35) | [The Communards](https://open.spotify.com/artist/17U2ImH5IyYMvjkCfPhMHT) | [Red](https://open.spotify.com/album/2Av2EXgkvzZbq3sJqQAUaE) | 5:03 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FdIcKzUp2r.md) - [plain]
 | 79 | [The Experience Of Swimming \- 2003 Digital Remaster](https://open.spotify.com/track/3xTX2k03pGJ8PO9pytIrY2) | [Japan](https://open.spotify.com/artist/7vPXrGlSGukcwpaPxUfKKR) | [Gentlemen Take Polaroids](https://open.spotify.com/album/0RhywRDYdXYC5Qzk0iIprW) | 4:04 |
 | 80 | [Otterley](https://open.spotify.com/track/5GO0qzKdvndy7g9r0iKEDz) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Treasure](https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62) | 4:04 |
 
-Snapshot ID: `MTU0NzY0NjM5NiwwMDAwMDAwMGVlN2I2ZjViNWRmMzg1YjdiNmZlMjQ3NmIzZmM4ZTk3`
+Snapshot ID: `MTU0NzY0NjM5NiwwMDAwMDAwMGE3OTExZjEzODEzOTllY2VmMWVhZDg1Zjg1NjAyZTdj`

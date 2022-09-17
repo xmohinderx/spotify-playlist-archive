@@ -1,12 +1,12 @@
 {
-  "description": "because a little left of center is best. cover: magdalena bay ",
-  "num_followers": 927949,
+  "description": "because a little left of center is best. cover: weyes blood",
+  "num_followers": 927907,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzE5NzkzNSwwMDAwMDAwMGVhZmJlZGI1NDhkYjVjNmJmMTg0ZmUzZTk0OGEwMDVm",
+  "snapshot_id": "MTY2MzM1MTM5NiwwMDAwMDAwMGY1MmMyYTUyZDYxMGM3NWVlMjQ4ODM3YmI2ZjI3MTli",
   "tracks": [
     {
       "added_at": "2022-09-13 01:10:35",
@@ -125,6 +125,22 @@
       "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
     },
     {
+      "added_at": "2022-09-16 18:03:16",
+      "album": {
+        "name": "Bump",
+        "url": "https://open.spotify.com/album/0BbQhd9LzpcdZJ5fn7WhaV"
+      },
+      "artists": [
+        {
+          "name": "Dora Jar",
+          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
+        }
+      ],
+      "duration_ms": 202260,
+      "name": "Bump",
+      "url": "https://open.spotify.com/track/4rsuE0qXgtKUCVV1dIQFYd"
+    },
+    {
       "added_at": "2022-09-14 23:25:35",
       "album": {
         "name": "Happen",
@@ -139,6 +155,42 @@
       "duration_ms": 253373,
       "name": "Happen",
       "url": "https://open.spotify.com/track/4TCMDoYMAGRzmvmBjnqUmw"
+    },
+    {
+      "added_at": "2022-09-13 01:10:35",
+      "album": {
+        "name": "Backwards Directions",
+        "url": "https://open.spotify.com/album/5mhk3C0cKun3x8MoIwkukF"
+      },
+      "artists": [
+        {
+          "name": "Abby Sage",
+          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
+        }
+      ],
+      "duration_ms": 187072,
+      "name": "Backwards Directions",
+      "url": "https://open.spotify.com/track/5vbnQr1tWSSREmcIONIUm9"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "gaps",
+        "url": "https://open.spotify.com/album/0nF2zDporBR4PpkDJEoyOy"
+      },
+      "artists": [
+        {
+          "name": "Miloe",
+          "url": "https://open.spotify.com/artist/3HdQTgQSncptIPjDgskWbu"
+        },
+        {
+          "name": "PawPaw Rod",
+          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
+        }
+      ],
+      "duration_ms": 207076,
+      "name": "rewind [Feat. PawPaw Rod]",
+      "url": "https://open.spotify.com/track/23tcm2RHu5zkvqVHjqLK4A"
     },
     {
       "added_at": "2022-09-09 17:04:50",
@@ -171,6 +223,22 @@
       "duration_ms": 202490,
       "name": "I Think I Left the Stove On",
       "url": "https://open.spotify.com/track/34HgIvucTKJvDgzHVMaGLG"
+    },
+    {
+      "added_at": "2022-09-09 17:04:50",
+      "album": {
+        "name": "Is It Worth It Now?",
+        "url": "https://open.spotify.com/album/35AXeLXRmbDOlRVrl1AUOV"
+      },
+      "artists": [
+        {
+          "name": "Jordana",
+          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
+        }
+      ],
+      "duration_ms": 204521,
+      "name": "Is It Worth It Now?",
+      "url": "https://open.spotify.com/track/0sgPeetOYG1tFDZKTys2lN"
     },
     {
       "added_at": "2022-09-02 04:00:00",
@@ -221,6 +289,22 @@
       "url": "https://open.spotify.com/track/2uMv1AvQhvXk4F3DAeABGg"
     },
     {
+      "added_at": "2022-09-16 18:03:16",
+      "album": {
+        "name": "Cherub",
+        "url": "https://open.spotify.com/album/6f2FqUeAYVrYuXiFdE2wzg"
+      },
+      "artists": [
+        {
+          "name": "Coco & Clair Clair",
+          "url": "https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ"
+        }
+      ],
+      "duration_ms": 110981,
+      "name": "Cherub",
+      "url": "https://open.spotify.com/track/68awbivFFbRan2kPKRmzUG"
+    },
+    {
       "added_at": "2022-09-13 19:52:43",
       "album": {
         "name": "Heaven",
@@ -253,6 +337,22 @@
       "url": "https://open.spotify.com/track/1rOKAsJZJDIikOKDeUfPRV"
     },
     {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Threads",
+        "url": "https://open.spotify.com/album/1SZmDUuIlro250y8TPMMbd"
+      },
+      "artists": [
+        {
+          "name": "Indy",
+          "url": "https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ"
+        }
+      ],
+      "duration_ms": 232506,
+      "name": "Threads",
+      "url": "https://open.spotify.com/track/2SJ0exVB6NRWLbdjCsNWAd"
+    },
+    {
       "added_at": "2022-08-24 19:01:53",
       "album": {
         "name": "Landslide",
@@ -267,22 +367,6 @@
       "duration_ms": 210956,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/7KV3NYtvmiK2ctNUmx6adR"
-    },
-    {
-      "added_at": "2022-09-09 17:04:50",
-      "album": {
-        "name": "Is It Worth It Now?",
-        "url": "https://open.spotify.com/album/35AXeLXRmbDOlRVrl1AUOV"
-      },
-      "artists": [
-        {
-          "name": "Jordana",
-          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
-        }
-      ],
-      "duration_ms": 204521,
-      "name": "Is It Worth It Now?",
-      "url": "https://open.spotify.com/track/0sgPeetOYG1tFDZKTys2lN"
     },
     {
       "added_at": "2022-08-18 15:56:09",
@@ -383,22 +467,6 @@
       "duration_ms": 192553,
       "name": "Read Mine",
       "url": "https://open.spotify.com/track/0rsVGAZYDgvvMBnAgqAamg"
-    },
-    {
-      "added_at": "2022-09-13 01:10:35",
-      "album": {
-        "name": "Backwards Directions",
-        "url": "https://open.spotify.com/album/5mhk3C0cKun3x8MoIwkukF"
-      },
-      "artists": [
-        {
-          "name": "Abby Sage",
-          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
-        }
-      ],
-      "duration_ms": 187072,
-      "name": "Backwards Directions",
-      "url": "https://open.spotify.com/track/5vbnQr1tWSSREmcIONIUm9"
     },
     {
       "added_at": "2022-08-26 04:40:34",
@@ -743,22 +811,6 @@
       "duration_ms": 126610,
       "name": "spin you round",
       "url": "https://open.spotify.com/track/2LO5hQnz5rEaRwkGUvZcHN"
-    },
-    {
-      "added_at": "2022-07-18 15:38:02",
-      "album": {
-        "name": "Gemini Rights",
-        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
-      },
-      "artists": [
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 184973,
-      "name": "Buttons",
-      "url": "https://open.spotify.com/track/4CzLJ2wsrk1QdhXXuT16gx"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1351,22 +1403,6 @@
       "duration_ms": 138800,
       "name": "Yuck",
       "url": "https://open.spotify.com/track/5cYEuFqzITZlZzpoR1sHvu"
-    },
-    {
-      "added_at": "2022-03-02 20:14:15",
-      "album": {
-        "name": "POSE",
-        "url": "https://open.spotify.com/album/2N3NGQjuCC1B7qPiY7saGG"
-      },
-      "artists": [
-        {
-          "name": "MICHELLE",
-          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
-        }
-      ],
-      "duration_ms": 193244,
-      "name": "POSE",
-      "url": "https://open.spotify.com/track/1Mf7qE54NoBp5hrZV2iPrX"
     },
     {
       "added_at": "2022-06-09 14:58:29",

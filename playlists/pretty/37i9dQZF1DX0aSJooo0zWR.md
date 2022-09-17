@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aSJooo0zWR.md) - [plain]
 
 > Electrified jazz, complex beats and virtuoso playing\. Cover: Chick Corea
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,865 likes - 80 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,917 likes - 80 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aSJooo0zWR.md) - [plain]
 | 31 | [Nightfall](https://open.spotify.com/track/3x8WXagG37ONFz857YbeFe) | [Mezzoforte](https://open.spotify.com/artist/53LlrTpfGrdZS8QyBUxrVs) | [Forward Motion](https://open.spotify.com/album/6vAEljyy7bkYUYG5RYahVe) | 4:45 |
 | 32 | [Hell's Bells](https://open.spotify.com/track/0DKvzig7rwfWTZ0gvb0Zfx) | [Bill Bruford](https://open.spotify.com/artist/1359ogdBoLfQGxKfUDfWaz) | [Master Strokes 1978\-1985](https://open.spotify.com/album/7dpEiWIjnz5K2RzOx6qIBl) | 3:34 |
 | 33 | [Blue Wind](https://open.spotify.com/track/61EV3vuEsYHT1xtsb8SND1) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Wired](https://open.spotify.com/album/0vo9nZNFMaFASINLCzmzcU) | 5:54 |
-| 34 | [Snake Oil](https://open.spotify.com/track/415dIGsxo24JgyqmAun697) | [Tony Williams](https://open.spotify.com/artist/1TW90GjShgkjySrxBxcwQe) | [Lifetime: The Collection](https://open.spotify.com/album/0s5AIVzIpjmtKnuYgohnza) | 6:26 |
-| 35 | [Chromazone](https://open.spotify.com/track/1Q9JmAOdnmamXLl9bR6VDz) | [Mike Stern](https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP) | [Time In Place](https://open.spotify.com/album/1iFPARCgnB41MQvFqKGMfP) | 7:42 |
+| 34 | [Chromazone](https://open.spotify.com/track/1Q9JmAOdnmamXLl9bR6VDz) | [Mike Stern](https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP) | [Time In Place](https://open.spotify.com/album/1iFPARCgnB41MQvFqKGMfP) | 7:42 |
+| 35 | [Snake Oil](https://open.spotify.com/track/415dIGsxo24JgyqmAun697) | [Tony Williams](https://open.spotify.com/artist/1TW90GjShgkjySrxBxcwQe) | [Lifetime: The Collection](https://open.spotify.com/album/0s5AIVzIpjmtKnuYgohnza) | 6:26 |
 | 36 | [Blue Macaw](https://open.spotify.com/track/4lauttF1t783X0RKNuzEWo) | [Slowya.roll](https://open.spotify.com/artist/3VlbOrMVyRIrtVE71jLu6N), [Anatole Muster](https://open.spotify.com/artist/3wfxadqnYdgo7M31acbDVK), [Hadrien Feraud](https://open.spotify.com/artist/3pOfWINUxMN6ntbayQt85j) | [Blue Macaw](https://open.spotify.com/album/3KLP0wQK8crexU3vRAeXLU) | 4:34 |
 | 37 | [Maiden Voyage](https://open.spotify.com/track/16Z4nsb9LKJ7nTt6Oe5R5L) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb), [Alphonso Johnson](https://open.spotify.com/artist/2rNtnZArzMAimcRCnFrwUU), [Land Richards](https://open.spotify.com/artist/5Qd2Lq0Z0tDjL63Dh9KQ84) | [Maiden Voyage](https://open.spotify.com/album/0TpEB6HzKGBqWIYcP90O4M) | 6:41 |
 | 38 | [Armageddon Blues](https://open.spotify.com/track/55y7Cb9dPLPWBLonVy3iCB) | [Gary Willis](https://open.spotify.com/artist/3w2fcE7mWqTmgRkNKn6gKJ) | [Bent](https://open.spotify.com/album/3sojlfyt5Ej9rI8Yi3QliK) | 6:11 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aSJooo0zWR.md) - [plain]
 | 54 | [Up and Down](https://open.spotify.com/track/7iA7W8XQ649pA5sgMiSOtJ) | [Anika Nilles](https://open.spotify.com/artist/0IF3ewdvS7h9Wu3gDgV3fi) | [Opuntia](https://open.spotify.com/album/5n7YoitQwsMfVGYXhy1EHi) | 4:02 |
 | 55 | [Legends](https://open.spotify.com/track/1uOhdNyN3TwlC16ZaKUmge) | [Frank Gambale](https://open.spotify.com/artist/61qjWk6PBpwXqSk4gmRuAC) | [A Present For The Future](https://open.spotify.com/album/0VBBS9WgfrokeBQvprKSp5) | 9:11 |
 | 56 | [School Days](https://open.spotify.com/track/50pEhOaOetbijbuifNvqgb) | [Stanley Clarke](https://open.spotify.com/artist/1lGt9WgdYGpMnmwGkcCm05) | [The Bass\-ic Collection](https://open.spotify.com/album/7hgSfIM3LS53U3i122ErOM) | 7:49 |
-| 57 | [I Promise](https://open.spotify.com/track/3ZdtrWDu1HzzkOahFCVfbe) | [Ragawerk](https://open.spotify.com/artist/2JOH11zxXs5tmCroqDJgON), [Max Clouth](https://open.spotify.com/artist/7EHVLFAxz7VPpkyUqEt4y1) | [I Promise](https://open.spotify.com/album/1jfSnPmMMZWWK7BfTlEByQ) | 5:44 |
-| 58 | [Never Ending](https://open.spotify.com/track/7pZ48MAPRThhNxPthsNeE1) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [Never Ending](https://open.spotify.com/album/0SxjpfNg8pDyOEerHOa9uC) | 2:49 |
+| 57 | [Never Ending](https://open.spotify.com/track/7pZ48MAPRThhNxPthsNeE1) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [Never Ending](https://open.spotify.com/album/0SxjpfNg8pDyOEerHOa9uC) | 2:49 |
+| 58 | [I Promise](https://open.spotify.com/track/3ZdtrWDu1HzzkOahFCVfbe) | [Ragawerk](https://open.spotify.com/artist/2JOH11zxXs5tmCroqDJgON), [Max Clouth](https://open.spotify.com/artist/7EHVLFAxz7VPpkyUqEt4y1) | [I Promise](https://open.spotify.com/album/1jfSnPmMMZWWK7BfTlEByQ) | 5:44 |
 | 59 | [You Gotta Get It While You Can](https://open.spotify.com/track/0Qpdo9lUFMy538k4lzNURQ) | [Larry Carlton](https://open.spotify.com/artist/7aRi9OzdA2ciputfuguaPK) | [Sleepwalk](https://open.spotify.com/album/3oZCT0SkabiVJuCLxzWqDP) | 4:57 |
 | 60 | [Dahaga](https://open.spotify.com/track/0KbqA51Q4NcxY1zym7VvuE) | [Erwin Gutawa](https://open.spotify.com/artist/0WlOmBhUcwcMtzJd0GLwWN) | [Dahaga](https://open.spotify.com/album/50qzgwXtfVQE1ZrqjRszsD) | 4:49 |
 | 61 | [Goodbye for Now](https://open.spotify.com/track/2ZLAy0dm2u9NmHSG6dbfNe) | [Nathaniel Cross](https://open.spotify.com/artist/31iZhDu1NFs0PVOnvzAk0t) | [The Description Is Not The Described](https://open.spotify.com/album/6pwCh7X6DU4Kv8qaizQykc) | 7:13 |
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aSJooo0zWR.md) - [plain]
 | 64 | [Thirty One](https://open.spotify.com/track/3greuXqhFhNdQ7qYl0qmwd) | [Lydian Collective](https://open.spotify.com/artist/5E7gb8Ugqx2c9mCoytD6gw) | [Thirty One](https://open.spotify.com/album/0qbO0VkbG4gPPdDF7vCjMb) | 3:47 |
 | 65 | [1 Year After](https://open.spotify.com/track/6Xj35C5FprsCMDLOe4oljd) | [Dimas Pradipta](https://open.spotify.com/artist/4POCFsbFvimQf4x6keNEXD), [Barry Likumahuwa](https://open.spotify.com/artist/2AdFUyPR5XxpgOI6QYfVDz), [Bass G](https://open.spotify.com/artist/3UIAU3rTt0M8utGCQSHreQ), [Marthin Siahaan](https://open.spotify.com/artist/4GznIPoYJetB7xvdCHRCDD), [Zorsy](https://open.spotify.com/artist/0jRlP5h3ZEPdNCqpqiVae6) | [Extension](https://open.spotify.com/album/0YXx0QiakZPw1TsJ255jIK) | 9:39 |
 | 66 | [As the Spirit Sings](https://open.spotify.com/track/7nFjBk5Ads8vihepgdOHoJ) | [John McLaughlin](https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY) | [Liberation Time](https://open.spotify.com/album/1e34TNabxm7UvTL1dNNpr9) | 5:21 |
-| 67 | [Funkdombe \- edit](https://open.spotify.com/track/7sOEgNweXVf2N4ae7hzKMU) | [Hector Bingert](https://open.spotify.com/artist/2mKWIAGVpwrU0nOa3QF9ds), [Ruben Rada](https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb) | [Funkdombe \- edit](https://open.spotify.com/album/283Munji1hx8ykXv5sY57R) | 3:50 |
-| 68 | [Black Cat Shuffle](https://open.spotify.com/track/1n8Toxxtt3L81MjkmMkH77) | [Al Di Meola](https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q) | [Electric Rendezvous](https://open.spotify.com/album/2U4gcTybmmNMb39sDnngCi) | 3:00 |
-| 69 | [Sons of Creation](https://open.spotify.com/track/0JuPd6sug8NBmLPLMUsELk) | [Cameron Graves](https://open.spotify.com/artist/6ivVgdQ8qi5Tu2pc1zeVKP) | [Seven](https://open.spotify.com/album/24N4zsxdUCnH3340jhDvMX) | 4:21 |
+| 67 | [Black Cat Shuffle](https://open.spotify.com/track/1n8Toxxtt3L81MjkmMkH77) | [Al Di Meola](https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q) | [Electric Rendezvous](https://open.spotify.com/album/2U4gcTybmmNMb39sDnngCi) | 3:00 |
+| 68 | [Sons of Creation](https://open.spotify.com/track/0JuPd6sug8NBmLPLMUsELk) | [Cameron Graves](https://open.spotify.com/artist/6ivVgdQ8qi5Tu2pc1zeVKP) | [Seven](https://open.spotify.com/album/24N4zsxdUCnH3340jhDvMX) | 4:21 |
+| 69 | [Funkdombe \- edit](https://open.spotify.com/track/7sOEgNweXVf2N4ae7hzKMU) | [Hector Bingert](https://open.spotify.com/artist/2mKWIAGVpwrU0nOa3QF9ds), [Ruben Rada](https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb) | [Funkdombe \- edit](https://open.spotify.com/album/283Munji1hx8ykXv5sY57R) | 3:50 |
 | 70 | [Growing Up!](https://open.spotify.com/track/37hfrm3nKjMQuCXZXuDNYd) | [T\-SQUARE](https://open.spotify.com/artist/7BwOjwl5mKpGVIvzvqEcie) | [FLY! FLY! FLY!](https://open.spotify.com/album/7qDI1mOCvT20YELuoRj7yH) | 4:20 |
 | 71 | [Guinnevere](https://open.spotify.com/track/5AIWxJgzPpYukbUDXVY7qT) | [Christian Scott aTunde Adjuah](https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn) | [Axiom](https://open.spotify.com/album/7wpNfF5Qh0ZT3EE6cy0yxQ) | 10:53 |
 | 72 | [Escher Sketch \(A Tale Of Two Rhythms\)](https://open.spotify.com/track/3TnEDH8VmiTsOcH20sxJ48) | [Michael Brecker](https://open.spotify.com/artist/5IkynsVZoak9UR2Xt8qsMj) | [Now You See It ..\. \(Now You Don't\)](https://open.spotify.com/album/77yk9CqoyDTF9Tm8KcvMwo) | 5:26 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aSJooo0zWR.md) - [plain]
 | 79 | [Hunting Heads](https://open.spotify.com/track/5euz3r8UPd1b8YYstR3nDH) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb) | [Hunting Heads](https://open.spotify.com/album/3gkJk5kJkI9YPzAWtJP16E) | 7:02 |
 | 80 | [Lockdown Boogie](https://open.spotify.com/track/08eipHpqv6jwKnPnG0BO2n) | [Tenderlonious](https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo) | [Quarantena](https://open.spotify.com/album/21Xe9swhDJKMLwmdMPXsSq) | 5:18 |
 
-Snapshot ID: `MTY2MjA5MTMyMCwwMDAwMDAwMDJhNmYzNWYwNGJjMGY4M2RmNzdhNDk2ZDcyNTg1NDcw`
+Snapshot ID: `MTY2MzMwMDg2MCwwMDAwMDAwMDcwNTI2ZTkyYTI1YjgwZTk4MTI3ZDU5OWQ3MGI2MThk`

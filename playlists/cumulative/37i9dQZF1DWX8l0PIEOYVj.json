@@ -118,6 +118,24 @@
     },
     {
       "album": {
+        "name": "All The Highs",
+        "url": "https://open.spotify.com/album/4Z9aZaIeSiKBVOf7v7oHCI"
+      },
+      "artists": [
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206793,
+      "name": "All The Highs",
+      "url": "https://open.spotify.com/track/6Dg3ArDiJcseYoeeTZZXK6"
+    },
+    {
+      "album": {
         "name": "All To You (feat. Micah Martin)",
         "url": "https://open.spotify.com/album/1GyqD7X9T1UxyiYGdhvqE8"
       },
@@ -1403,7 +1421,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 231428,
       "name": "Fall Into Me",
       "url": "https://open.spotify.com/track/5y4mybqlVC1UxShjqkdjgF"
@@ -1590,6 +1608,28 @@
     },
     {
       "album": {
+        "name": "Fire Again (Dabin Remix)",
+        "url": "https://open.spotify.com/album/6VcgKd8N1eGmiaiWYi2rsf"
+      },
+      "artists": [
+        {
+          "name": "VALORANT",
+          "url": "https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t"
+        },
+        {
+          "name": "Dabin",
+          "url": "https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190666,
+      "name": "Fire Again - Dabin Remix",
+      "url": "https://open.spotify.com/track/6GJy7B0rZdy2PhWCp2jJpc"
+    },
+    {
+      "album": {
         "name": "First Place",
         "url": "https://open.spotify.com/album/05cVnyWLCNRyeXJUQHutXZ"
       },
@@ -1627,7 +1667,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 190546,
       "name": "Flare",
       "url": "https://open.spotify.com/track/030SJMnWzEaAE7979A3NcW"
@@ -1777,6 +1817,28 @@
       "duration_ms": 202410,
       "name": "Fragments - Last Heroes Remix",
       "url": "https://open.spotify.com/track/2yXRunfzz6u8wxKoZRRJP7"
+    },
+    {
+      "album": {
+        "name": "From The Ashes (with Skylar Grey)",
+        "url": "https://open.spotify.com/album/3VH8ly1obBbFxSJodod4eD"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Skylar Grey",
+          "url": "https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253983,
+      "name": "From The Ashes (with Skylar Grey)",
+      "url": "https://open.spotify.com/track/3bEkAkaKjxaC7DubsfCo1t"
     },
     {
       "album": {
@@ -3162,6 +3224,28 @@
     },
     {
       "album": {
+        "name": "Anomaly",
+        "url": "https://open.spotify.com/album/7J8SSnGauta2Uy7HKhEDMA"
+      },
+      "artists": [
+        {
+          "name": "What So Not",
+          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
+        },
+        {
+          "name": "M\u00d8",
+          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197142,
+      "name": "Mercy (2022 Edit)",
+      "url": "https://open.spotify.com/track/4NmNw3RnHtp6t6M0DjP1v3"
+    },
+    {
+      "album": {
         "name": "Best Part Of Me EP",
         "url": "https://open.spotify.com/album/163FJeoQmdoWpqDFqV5TiB"
       },
@@ -3779,7 +3863,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 256551,
       "name": "Right Here",
       "url": "https://open.spotify.com/track/7M1Qns5c9n6Gl008jvig8C"
@@ -5111,7 +5195,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 178470,
       "name": "want u 2 stay",
       "url": "https://open.spotify.com/track/2ss3z79TTuD3YkQAWol9DE"

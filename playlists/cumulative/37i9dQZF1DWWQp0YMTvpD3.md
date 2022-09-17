@@ -4,7 +4,7 @@
 
 > Uplifting, slow House music to work or relax to.
 
-248 songs - 12 hr 37 min - [published](https://open.spotify.com/playlist/1OAQCWr9DIgjEDuOEkwgz1)
+250 songs - 12 hr 42 min - [published](https://open.spotify.com/playlist/1OAQCWr9DIgjEDuOEkwgz1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Curves](https://open.spotify.com/track/2AkLzKnVUxCmEF5qOxnb0f) | [Good Kings](https://open.spotify.com/artist/0p9lqEL03evk1imDzxLJJU) | [Curves](https://open.spotify.com/album/4KjuZSoDJzOOL6lVrUQSxj) | 2:55 | 2022-02-11 | 2022-07-15 |
 | [Côte d'Azur](https://open.spotify.com/track/3j2z0dEUbYb8nClzLPnJCe) | [Parker Wilkins](https://open.spotify.com/artist/6igZZYtkBvDiAl9KF34BD4) | [Côte d'Azur](https://open.spotify.com/album/1SIIMxqsHJjFesEaSu6WYO) | 2:31 | 2022-07-01 |  |
 | [Danger Zone](https://open.spotify.com/track/48gfj7REhcvZjASWAPEo68) | [DJ ZeeZee](https://open.spotify.com/artist/6vjAwcOZNHp71G8mYs2yUg) | [Danger Zone](https://open.spotify.com/album/2AFI0lCU0ILKZW9Plkno6n) | 2:52 | 2019-10-04 | 2022-02-12 |
+| [DayNight](https://open.spotify.com/track/2avFBTHnq0gF9Rd1M0Rrs9) | [Togo Bao](https://open.spotify.com/artist/6iLiH4i8sPHd7x1RvS5Fqn) | [DayNight](https://open.spotify.com/album/1BE0wCj8cXgr2N6q1ozNhV) | 2:43 | 2022-09-16 |  |
 | [Deep Mind](https://open.spotify.com/track/4ZS6culUlDvYvLGgIsEyy2) | [Bamba Lamer](https://open.spotify.com/artist/0lHDiEKyk5ooAlsfDeNHgo) | [Deep Mind](https://open.spotify.com/album/0qtGM2MhLj7A8v3BUpbOz2) | 2:39 | 2022-07-22 |  |
 | [departure](https://open.spotify.com/track/3VtNgwrW7ZpnPjXfnkXBTh) | [luv.fi](https://open.spotify.com/artist/2u6hFkHXuIM5BIG1Dp7r2N) | [departure](https://open.spotify.com/album/5rwZIBeQdCg8X7NabbmJbF) | 2:04 | 2021-10-12 | 2022-02-12 |
 | [DJ, What track is this](https://open.spotify.com/track/6Gwz1WJ63LSsRx4jW1INBK) | [Young Community](https://open.spotify.com/artist/1dThUtszO1jevy1BfKlCcR) | [DJ, What track is this](https://open.spotify.com/album/6JhYQgZobFNhxPQsDihi9F) | 2:45 | 2022-08-05 |  |
@@ -245,6 +246,7 @@
 | [with you](https://open.spotify.com/track/2FQeoy9i7ZQsFrXEdIq0t3) | [hope mona](https://open.spotify.com/artist/4dY5OgoQjnx0jwht0P6siG) | [foggy afternoons](https://open.spotify.com/album/3VWXOXYNIiomNfJREmxUMf) | 2:58 | 2021-10-12 | 2022-02-12 |
 | [Won't Let You Go](https://open.spotify.com/track/7yBnbyWted0Q6RAyJnHKk1) | [POURI X](https://open.spotify.com/artist/7EYXn0NDoCRQRcsHSjQnmD) | [Just One Night](https://open.spotify.com/album/5tYXAqa2aDYkFlxK2lYHVO) | 1:53 | 2022-02-12 |  |
 | [Wonder](https://open.spotify.com/track/7DblgaQvteV6wLOldSb4bb) | [Finding Hope](https://open.spotify.com/artist/0QGDb8TBWIT06W4BoyAggg) | [Wonder](https://open.spotify.com/album/6vfk94xKoncaaTao5KlDd6) | 3:53 | 2019-10-04 | 2022-02-12 |
+| [Wonder](https://open.spotify.com/track/0VFXwg439NhTgmO7uw1Kft) | [shandr](https://open.spotify.com/artist/2DNdJPmAKrAOWKBTvyTsJU) | [Wonder](https://open.spotify.com/album/7HYwr2EaibMllKpOano9At) | 2:12 | 2022-09-16 |  |
 | [Woodland](https://open.spotify.com/track/7hHrKHSTH6QFoKWl4xdZhx) | [Werlie](https://open.spotify.com/artist/6KQ7zOmEoEm2tgJsoYq55x) | [Woodland](https://open.spotify.com/album/3jeXBKbRQdPtQm924oDr4t) | 3:37 | 2022-02-12 |  |
 | [Wouldn't Be the Same \- Grand Pavilion Remix](https://open.spotify.com/track/1OUIVjc3xivCrDQyDA6j5N) | [Tora](https://open.spotify.com/artist/7KGI0OwY8iAL5rI5p47YyK), [Keelan Mak](https://open.spotify.com/artist/4xSveO2Pb18Jyl2f7xW8SW), [Grand Pavilion](https://open.spotify.com/artist/2teM8h9gX1kXrju9nyuhxf) | [Wouldn't Be the Same \(Grand Pavilion Remix\)](https://open.spotify.com/album/6Qhbwdsid5RxUZ6qOCQxF0) | 3:41 | 2019-10-04 | 2022-02-12 |
 | [Yama](https://open.spotify.com/track/5S94oJQP87jbUfsDZ2uj4h) | [Yasumaru](https://open.spotify.com/artist/0d8Lf2UsOCP5Wuy3n9dOzT) | [Kantan](https://open.spotify.com/album/0EsACGm8MKS86WzhvWUV2K) | 3:13 | 2022-02-11 |  |

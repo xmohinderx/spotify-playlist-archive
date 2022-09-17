@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68x6hand0cN.md) - [plain]
 
 > Take another hit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 795,063 likes - 79 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 795,164 likes - 79 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68x6hand0cN.md) - [plain]
 | 64 | [Pololo](https://open.spotify.com/track/2gmTz7pHMqAk6fpOc88qxA) | [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Mansa](https://open.spotify.com/album/0JBjfd9NAcpgHBbllm0fQg) | 3:15 |
 | 65 | [Hate You, I Love You](https://open.spotify.com/track/6ZLc2SAYbyqXTH4pZOfYVL) | [Arz](https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL) | [Hate You, I Love You](https://open.spotify.com/album/3MEz34mMadTHxqUvEF1HFH) | 2:36 |
 | 66 | [Konsentra](https://open.spotify.com/track/7LEsTCnDwSyy994RI7xQEQ) | [Poke](https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1), [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88) | [Konsentra](https://open.spotify.com/album/0S5ImD3mDpq22iXVNkT5d2) | 3:08 |
-| 67 | [Essence \(feat\. Tems\)](https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 4:08 |
+| 67 | [Essence \(feat\. Tems\)](https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 4:08 |
 | 68 | [Flowers \(Say My Name\)](https://open.spotify.com/track/2BzAGK3lEZAQz5cU0Ae1wd) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk) | [Flowers \(Say My Name\)](https://open.spotify.com/album/1ZMrAC2zQ3OmlOKFKAKzGA) | 2:38 |
 | 69 | [Woo Baby \(feat\. Chris Brown\)](https://open.spotify.com/track/58T4yPLn4NjBYXfRxeweyM) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 2:36 |
 | 70 | [Only You](https://open.spotify.com/track/28cKZOhv7MWfUnlOIj1Rid) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Dhurata Dora](https://open.spotify.com/artist/6t7U7sYlVCtlMWzbecJcHd) | [Les vestiges du fleau](https://open.spotify.com/album/10BrhVps4lNlCk75szZSIk) | 3:37 |

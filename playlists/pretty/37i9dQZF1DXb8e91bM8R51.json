@@ -1,12 +1,12 @@
 {
   "description": "Hip Hop pra fazer os corres da vida.",
-  "num_followers": 35055,
+  "num_followers": 35065,
   "original_name": "No corre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5MjQ2MCwwMDAwMDAwMDNlOThmODNkZWYzNTZkMzU0NzgwOWE5ZDE4ZDVlOWZj",
+  "snapshot_id": "MTY2MjY5MjQ2MCwwMDAwMDAwMGVhZjhmOWE2ZWM2ZTQ5Yzg2MTliY2FlYzViOGI3NWIy",
   "tracks": [
     {
       "added_at": "2022-09-09 03:01:00",
@@ -435,26 +435,6 @@
     {
       "added_at": "2022-09-09 03:01:00",
       "album": {
-        "name": "Take It Or Squeeze It",
-        "url": "https://open.spotify.com/album/3XdJ1vN71jqV69uJ6oCsPL"
-      },
-      "artists": [
-        {
-          "name": "The Beatnuts",
-          "url": "https://open.spotify.com/artist/5ynvmGwc83ZoRx2EIWHXLX"
-        },
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        }
-      ],
-      "duration_ms": 212293,
-      "name": "Se Acabo (feat. Method Man) - Remix",
-      "url": "https://open.spotify.com/track/4F3AZKEJubvPsl0hBArVBW"
-    },
-    {
-      "added_at": "2022-09-09 03:01:00",
-      "album": {
         "name": "F*CK LOVE",
         "url": "https://open.spotify.com/album/6RuwGwQcAureaOraKJNFQG"
       },
@@ -475,22 +455,22 @@
     {
       "added_at": "2022-09-09 03:01:00",
       "album": {
-        "name": "From The D 2 The LBC (with Snoop Dogg)",
-        "url": "https://open.spotify.com/album/6F4ObGnJwwV5W4uLFHnNoT"
+        "name": "Take It Or Squeeze It",
+        "url": "https://open.spotify.com/album/3XdJ1vN71jqV69uJ6oCsPL"
       },
       "artists": [
         {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          "name": "The Beatnuts",
+          "url": "https://open.spotify.com/artist/5ynvmGwc83ZoRx2EIWHXLX"
         },
         {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
         }
       ],
-      "duration_ms": 215120,
-      "name": "From The D 2 The LBC (with Snoop Dogg)",
-      "url": "https://open.spotify.com/track/7My9ca9QEIR8MvIOdIrTWA"
+      "duration_ms": 212293,
+      "name": "Se Acabo (feat. Method Man) - Remix",
+      "url": "https://open.spotify.com/track/4F3AZKEJubvPsl0hBArVBW"
     },
     {
       "added_at": "2022-09-09 03:01:00",
@@ -507,6 +487,26 @@
       "duration_ms": 193293,
       "name": "Tequila Shots",
       "url": "https://open.spotify.com/track/30KctD1WsHKTIYczXjip5a"
+    },
+    {
+      "added_at": "2022-09-09 03:01:00",
+      "album": {
+        "name": "Curtain Call 2",
+        "url": "https://open.spotify.com/album/3aTuW4BtsyyyyQa9LKqj8n"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "duration_ms": 212013,
+      "name": "Is This Love ('09) (feat. 50 Cent)",
+      "url": "https://open.spotify.com/track/7rK0iM6jwuo1oizdx8suQA"
     },
     {
       "added_at": "2022-09-09 03:01:00",
@@ -603,6 +603,26 @@
     {
       "added_at": "2022-09-09 03:01:00",
       "album": {
+        "name": "From The D 2 The LBC (with Snoop Dogg)",
+        "url": "https://open.spotify.com/album/6F4ObGnJwwV5W4uLFHnNoT"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 215120,
+      "name": "From The D 2 The LBC (with Snoop Dogg)",
+      "url": "https://open.spotify.com/track/7My9ca9QEIR8MvIOdIrTWA"
+    },
+    {
+      "added_at": "2022-09-09 03:01:00",
+      "album": {
         "name": "ATLiens",
         "url": "https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0"
       },
@@ -615,42 +635,6 @@
       "duration_ms": 230693,
       "name": "ATLiens",
       "url": "https://open.spotify.com/track/2vfvGlqCB7oertO5VLE0sz"
-    },
-    {
-      "added_at": "2022-09-09 03:01:00",
-      "album": {
-        "name": "Curtain Call 2",
-        "url": "https://open.spotify.com/album/3aTuW4BtsyyyyQa9LKqj8n"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        }
-      ],
-      "duration_ms": 212013,
-      "name": "Is This Love ('09) (feat. 50 Cent)",
-      "url": "https://open.spotify.com/track/7rK0iM6jwuo1oizdx8suQA"
-    },
-    {
-      "added_at": "2022-09-09 03:01:00",
-      "album": {
-        "name": "The Heart Part 5",
-        "url": "https://open.spotify.com/album/5XClh485CRBIIKaNXWWt7Z"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 332228,
-      "name": "The Heart Part 5",
-      "url": "https://open.spotify.com/track/5MMW4CZsZiZt2iuqAXzzWC"
     },
     {
       "added_at": "2022-09-09 03:01:00",
@@ -671,6 +655,22 @@
       "duration_ms": 188869,
       "name": "Too Much (feat. Moneybagg Yo)",
       "url": "https://open.spotify.com/track/7pZeacKYnK4unCplCmI2qb"
+    },
+    {
+      "added_at": "2022-09-09 03:01:00",
+      "album": {
+        "name": "The Heart Part 5",
+        "url": "https://open.spotify.com/album/5XClh485CRBIIKaNXWWt7Z"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 332228,
+      "name": "The Heart Part 5",
+      "url": "https://open.spotify.com/track/5MMW4CZsZiZt2iuqAXzzWC"
     },
     {
       "added_at": "2022-09-09 03:01:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-09-09 03:01:00",
       "album": {
-        "name": "Do What I Want",
-        "url": "https://open.spotify.com/album/3vV1pBCY7hLtLo3jF11JfO"
-      },
-      "artists": [
-        {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
-        }
-      ],
-      "duration_ms": 171826,
-      "name": "Do What I Want",
-      "url": "https://open.spotify.com/track/62tDpymKVSXEu0W3d4AMr9"
-    },
-    {
-      "added_at": "2022-09-09 03:01:00",
-      "album": {
         "name": "Street Sermons",
         "url": "https://open.spotify.com/album/2GEF3N9pOsKD9jLnZj07HN"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 224933,
       "name": "Quicksand",
       "url": "https://open.spotify.com/track/4iCZ6Cr76For1TuHUQ90r8"
+    },
+    {
+      "added_at": "2022-09-09 03:01:00",
+      "album": {
+        "name": "Do What I Want",
+        "url": "https://open.spotify.com/album/3vV1pBCY7hLtLo3jF11JfO"
+      },
+      "artists": [
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "duration_ms": 171826,
+      "name": "Do What I Want",
+      "url": "https://open.spotify.com/track/62tDpymKVSXEu0W3d4AMr9"
     },
     {
       "added_at": "2022-09-09 03:01:00",
@@ -1347,26 +1347,18 @@
     {
       "added_at": "2022-09-09 03:01:00",
       "album": {
-        "name": "No Way Out",
-        "url": "https://open.spotify.com/album/4OGaOZUHLhSeiicZB909aL"
+        "name": "Kollage",
+        "url": "https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA"
       },
       "artists": [
         {
-          "name": "Diddy",
-          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
-        },
-        {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
-        },
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+          "name": "Bahamadia",
+          "url": "https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO"
         }
       ],
-      "duration_ms": 325733,
-      "name": "Young G's (feat. The Notorious B.I.G. & Jay-Z)",
-      "url": "https://open.spotify.com/track/1z1btB03Hw1gYwSLPlt67z"
+      "duration_ms": 214866,
+      "name": "Uknowhowwedu",
+      "url": "https://open.spotify.com/track/5KapB9KJnRsZrprzIAXycW"
     },
     {
       "added_at": "2022-09-09 03:01:00",
@@ -1387,18 +1379,26 @@
     {
       "added_at": "2022-09-09 03:01:00",
       "album": {
-        "name": "Kollage",
-        "url": "https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA"
+        "name": "No Way Out",
+        "url": "https://open.spotify.com/album/4OGaOZUHLhSeiicZB909aL"
       },
       "artists": [
         {
-          "name": "Bahamadia",
-          "url": "https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO"
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
         }
       ],
-      "duration_ms": 214866,
-      "name": "Uknowhowwedu",
-      "url": "https://open.spotify.com/track/5KapB9KJnRsZrprzIAXycW"
+      "duration_ms": 325733,
+      "name": "Young G's (feat. The Notorious B.I.G. & Jay-Z)",
+      "url": "https://open.spotify.com/track/1z1btB03Hw1gYwSLPlt67z"
     },
     {
       "added_at": "2022-09-09 03:01:00",
@@ -1675,54 +1675,6 @@
     {
       "added_at": "2022-09-09 03:01:00",
       "album": {
-        "name": "Good Movie",
-        "url": "https://open.spotify.com/album/3cNHTRSvsTSp0IjYQvygoB"
-      },
-      "artists": [
-        {
-          "name": "Pi\u2019erre Bourne",
-          "url": "https://open.spotify.com/artist/3x3jSlhyv5CiCZDZlaTq0M"
-        }
-      ],
-      "duration_ms": 185140,
-      "name": "Good Movie",
-      "url": "https://open.spotify.com/track/4leKMM9HGvo32ZcIGRafGS"
-    },
-    {
-      "added_at": "2022-09-09 03:01:00",
-      "album": {
-        "name": "Kool Aid and Frozen Pizza",
-        "url": "https://open.spotify.com/album/7xHyZoZLGHVUCdZwG16Zd3"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 157737,
-      "name": "Kool Aid and Frozen Pizza",
-      "url": "https://open.spotify.com/track/3VmrLy4WZLHDgTXENCIz2p"
-    },
-    {
-      "added_at": "2022-09-09 03:01:00",
-      "album": {
-        "name": "Survivors Guilt",
-        "url": "https://open.spotify.com/album/5XGzCRfgCbpaMPLpDYvUNF"
-      },
-      "artists": [
-        {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
-        }
-      ],
-      "duration_ms": 352613,
-      "name": "Survivors Guilt",
-      "url": "https://open.spotify.com/track/5cEd8xWXyqhpuCDUXQOyE3"
-    },
-    {
-      "added_at": "2022-09-09 03:01:00",
-      "album": {
         "name": "Carefree (with Femdot & Mick Jenkins)",
         "url": "https://open.spotify.com/album/6JnfvhlcNqcMaDA5lTqs7t"
       },
@@ -1743,6 +1695,54 @@
       "duration_ms": 241582,
       "name": "Carefree (with Femdot & Mick Jenkins)",
       "url": "https://open.spotify.com/track/5B6EIqgRxNOU08BgyKNQSS"
+    },
+    {
+      "added_at": "2022-09-09 03:01:00",
+      "album": {
+        "name": "Kool Aid and Frozen Pizza",
+        "url": "https://open.spotify.com/album/7xHyZoZLGHVUCdZwG16Zd3"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 157737,
+      "name": "Kool Aid and Frozen Pizza",
+      "url": "https://open.spotify.com/track/3VmrLy4WZLHDgTXENCIz2p"
+    },
+    {
+      "added_at": "2022-09-09 03:01:00",
+      "album": {
+        "name": "Good Movie",
+        "url": "https://open.spotify.com/album/3cNHTRSvsTSp0IjYQvygoB"
+      },
+      "artists": [
+        {
+          "name": "Pi\u2019erre Bourne",
+          "url": "https://open.spotify.com/artist/3x3jSlhyv5CiCZDZlaTq0M"
+        }
+      ],
+      "duration_ms": 185140,
+      "name": "Good Movie",
+      "url": "https://open.spotify.com/track/4leKMM9HGvo32ZcIGRafGS"
+    },
+    {
+      "added_at": "2022-09-09 03:01:00",
+      "album": {
+        "name": "Survivors Guilt",
+        "url": "https://open.spotify.com/album/5XGzCRfgCbpaMPLpDYvUNF"
+      },
+      "artists": [
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "duration_ms": 352613,
+      "name": "Survivors Guilt",
+      "url": "https://open.spotify.com/track/5cEd8xWXyqhpuCDUXQOyE3"
     },
     {
       "added_at": "2022-09-09 03:01:00",
@@ -2031,30 +2031,6 @@
     {
       "added_at": "2022-09-09 03:01:00",
       "album": {
-        "name": "On GOD",
-        "url": "https://open.spotify.com/album/3s9Sz4bnGhaCQgXHiYu1wY"
-      },
-      "artists": [
-        {
-          "name": "Meechy Darko",
-          "url": "https://open.spotify.com/artist/5QRlmTynCos8JyojtmgNq6"
-        },
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
-        },
-        {
-          "name": "A-Trak",
-          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
-        }
-      ],
-      "duration_ms": 302053,
-      "name": "On GOD [Feat. Freddie Gibbs, A-Trak]",
-      "url": "https://open.spotify.com/track/5di5qJOrigtUXsfBHrS4Y4"
-    },
-    {
-      "added_at": "2022-09-09 03:01:00",
-      "album": {
         "name": "Lifetime",
         "url": "https://open.spotify.com/album/6T1aChZ9bKA1grofm5PXnb"
       },
@@ -2087,6 +2063,30 @@
       "duration_ms": 240000,
       "name": "Unbelievable",
       "url": "https://open.spotify.com/track/0la0j39Xsph1SHDUJCXJkp"
+    },
+    {
+      "added_at": "2022-09-09 03:01:00",
+      "album": {
+        "name": "On GOD",
+        "url": "https://open.spotify.com/album/3s9Sz4bnGhaCQgXHiYu1wY"
+      },
+      "artists": [
+        {
+          "name": "Meechy Darko",
+          "url": "https://open.spotify.com/artist/5QRlmTynCos8JyojtmgNq6"
+        },
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        },
+        {
+          "name": "A-Trak",
+          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
+        }
+      ],
+      "duration_ms": 302053,
+      "name": "On GOD [Feat. Freddie Gibbs, A-Trak]",
+      "url": "https://open.spotify.com/track/5di5qJOrigtUXsfBHrS4Y4"
     },
     {
       "added_at": "2022-09-09 03:01:00",
@@ -2127,6 +2127,22 @@
     {
       "added_at": "2022-09-09 03:01:00",
       "album": {
+        "name": "Fan-Tas-Tic, Vol. 2",
+        "url": "https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja"
+      },
+      "artists": [
+        {
+          "name": "Slum Village",
+          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
+        }
+      ],
+      "duration_ms": 211132,
+      "name": "Get Dis Money",
+      "url": "https://open.spotify.com/track/6xrjmQMIIYgLgjCOeq2dee"
+    },
+    {
+      "added_at": "2022-09-09 03:01:00",
+      "album": {
         "name": "Green Juice (feat. Pharrell Williams)",
         "url": "https://open.spotify.com/album/0VZNwfArwS5haypFDKiXZO"
       },
@@ -2147,22 +2163,6 @@
       "duration_ms": 174136,
       "name": "Green Juice (feat. Pharrell Williams)",
       "url": "https://open.spotify.com/track/0VPir804AaU2Iw1ardsDLS"
-    },
-    {
-      "added_at": "2022-09-09 03:01:00",
-      "album": {
-        "name": "Fan-Tas-Tic, Vol. 2",
-        "url": "https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja"
-      },
-      "artists": [
-        {
-          "name": "Slum Village",
-          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
-        }
-      ],
-      "duration_ms": 211132,
-      "name": "Get Dis Money",
-      "url": "https://open.spotify.com/track/6xrjmQMIIYgLgjCOeq2dee"
     },
     {
       "added_at": "2022-09-09 03:01:00",
@@ -2319,26 +2319,6 @@
     {
       "added_at": "2022-09-09 03:01:00",
       "album": {
-        "name": "Troubles [Feat. T-Pain]",
-        "url": "https://open.spotify.com/album/446vvjZgKLxPAnR0zciABe"
-      },
-      "artists": [
-        {
-          "name": "Denzel Curry",
-          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
-        },
-        {
-          "name": "T-Pain",
-          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Troubles [Feat. T-Pain]",
-      "url": "https://open.spotify.com/track/2DyiZvzSxkf1N6fvcfEKEO"
-    },
-    {
-      "added_at": "2022-09-09 03:01:00",
-      "album": {
         "name": "All I Really Wanted",
         "url": "https://open.spotify.com/album/0b201G6KYDumbCiLW3FOXo"
       },
@@ -2355,6 +2335,26 @@
       "duration_ms": 191160,
       "name": "All I Really Wanted",
       "url": "https://open.spotify.com/track/3tngIQDw2KP61hiLrR3oHU"
+    },
+    {
+      "added_at": "2022-09-09 03:01:00",
+      "album": {
+        "name": "Troubles [Feat. T-Pain]",
+        "url": "https://open.spotify.com/album/446vvjZgKLxPAnR0zciABe"
+      },
+      "artists": [
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        },
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Troubles [Feat. T-Pain]",
+      "url": "https://open.spotify.com/track/2DyiZvzSxkf1N6fvcfEKEO"
     },
     {
       "added_at": "2022-09-09 03:01:00",

@@ -4,7 +4,7 @@
 
 > From across the globe\. New artists on the horizon\. Cover: Ayra Starr.
 
-842 songs - 1 day 23 hr 18 min - [published](https://open.spotify.com/playlist/5vCFU5jLGp753wsXFermer)
+844 songs - 1 day 23 hr 23 min - [published](https://open.spotify.com/playlist/5vCFU5jLGp753wsXFermer)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -361,6 +361,7 @@
 | [Keep Up](https://open.spotify.com/track/1ypGYiTfQ7t6M6SkTozZeY) | [Jocelyn 9.4.0](https://open.spotify.com/artist/4xu7XEr8It4loGPeZnJcqZ), [TroutFresh](https://open.spotify.com/artist/78IEFKJN8gQgJM1WOvt2Tl) | [Keep Up](https://open.spotify.com/album/0Cz4M6d0VmPIShBHxqs5zD) | 3:02 | 2022-03-21 | 2022-06-23 |
 | [Kelede](https://open.spotify.com/track/0ZZdfogjRhEGVI0ouw35tL) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [Kelede](https://open.spotify.com/album/4ERN7SaxV36wlu9rZJFmwb) | 2:39 | 2022-03-24 | 2022-09-16 |
 | [Killin' Me \(aNueNue MC色彩吉他宣傳曲\)](https://open.spotify.com/track/5PpPbVrs8A420BrabyPOGa) | [Gail](https://open.spotify.com/artist/6l81JeOQ3usizemdSG6mP7) | [Killin' Me \(aNueNue MC色彩吉他宣傳曲\)](https://open.spotify.com/album/15g03MvPSXzmvra2cLxvgc) | 2:36 | 2022-02-10 | 2022-03-01 |
+| [Kippe](https://open.spotify.com/track/2sGo9dFNIxXsNktL1pvM7s) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Kippe](https://open.spotify.com/album/6zlZKGfrubfGewJU8pD7fk) | 2:39 | 2022-09-16 |  |
 | [Kisah Kasih Di Sekolah](https://open.spotify.com/track/7BrOAEtCjD5cHXLLykPCqV) | [Reybong](https://open.spotify.com/artist/6kthu3bnrZuU7G1VLmRWF5) | [Kisah Kasih Di Sekolah](https://open.spotify.com/album/0uT4pw1USlXFDKeWyFfxLC) | 4:03 | 2022-06-29 | 2022-08-02 |
 | [Kiss Me](https://open.spotify.com/track/77gIcGklmF2h29kcYByVBU) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [You Were in My Dream Last Night \(Acoustic\) / Kiss Me](https://open.spotify.com/album/6r1WmJiNgwcURRw9ooH6bi) | 3:47 | 2022-02-03 | 2022-08-02 |
 | [Kung Fu](https://open.spotify.com/track/0tofuAPwrPfzajixmn1Ryg) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6) | [Kung Fu](https://open.spotify.com/album/2RAiyvUcSRHt0l4Sn3D8PV) | 3:25 | 2022-02-03 | 2022-08-02 |
@@ -572,6 +573,7 @@
 | [Rue des Pervenches](https://open.spotify.com/track/3UcIv7IH3RFHKOVOAJEgiz) | [TERRIER](https://open.spotify.com/artist/3GdYpfWMn7epxH2sHheonJ) | [Rue des Pervenches](https://open.spotify.com/album/1vULaCp3YiTYTzgUdPemW5) | 3:39 | 2022-03-24 | 2022-08-02 |
 | [run.](https://open.spotify.com/track/7h0LrbAW3YQf7IIa3Bwzuc) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [run.](https://open.spotify.com/album/6czoxk1n3RVjncUIIP8S9B) | 3:56 | 2022-04-07 | 2022-05-11 |
 | [RUNAWAY W ME](https://open.spotify.com/track/7pzfaLBUK9WvVT2ageCLZ5) | [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [RUNAWAY W ME](https://open.spotify.com/album/0e5zw8a0EjqapZqc7Fkmv4) | 3:01 | 2022-03-21 | 2022-06-29 |
+| [Rush](https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Rush](https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E) | 3:05 | 2022-09-16 |  |
 | [S.U.K.I\. \(feat\. somere & naila\)](https://open.spotify.com/track/6gdoxyw4E2Tkr06LHgZkcy) | [raven](https://open.spotify.com/artist/3Dr5ezvDdYsycy1gfaZWSL), [Rico Blanco](https://open.spotify.com/artist/6l880dxsvN2x5wiceaG6D0), [somere](https://open.spotify.com/artist/3eyyELkOh4GFdxHjrslv7g), [naila](https://open.spotify.com/artist/3htrWBrHBVoUL0zuSFX8Ny) | [Lika Na](https://open.spotify.com/album/32gHhEVce6B4IM3Du9xh89) | 3:19 | 2022-03-21 |  |
 | [Sabbia](https://open.spotify.com/track/5IIO6RDDEdmSFbik9c6XZM) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw), [Erin](https://open.spotify.com/artist/47uG5KXE7so7sOnoHkiAOY), [Piccolo](https://open.spotify.com/artist/126Rc3yXjr5qeS76pxzEhO), [JXN](https://open.spotify.com/artist/3MYT2UTOP4RHngspyochga) | [44.DELUXE](https://open.spotify.com/album/2x41oCKQ3zElflxq8IG6hy) | 3:15 | 2022-03-24 | 2022-04-17 |
 | [Salve](https://open.spotify.com/track/5i7A87k8rrkjVdvjCcJrsM) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW), [Pizzol](https://open.spotify.com/artist/1LvxqCO8GOAKkDzDOXfrAK) | [Salve](https://open.spotify.com/album/0PCc3pxOTG96BE2EajIoG2) | 3:12 | 2022-03-24 | 2022-04-20 |

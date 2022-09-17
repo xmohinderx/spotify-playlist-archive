@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 
 > Chillout to the coolest Korean acoustic tunes\. \(Cover:  JEONG SEWOON\(정세운\)\) \(감미롭고 부드러운 한국 어쿠스틱 음악과 함께하세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,657 likes - 52 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,680 likes - 52 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 | 32 | [STAR](https://open.spotify.com/track/0DZ2mMWPkgDwWBnH6gtsQW) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Our Blues, Pt\. 8 \(Original Television Soundtrack\)](https://open.spotify.com/album/7HGYMEqDL4pBarAVmpQDho) | 4:17 |
 | 33 | [Nap Fairy](https://open.spotify.com/track/3HlV3eW5V1nmql7xFIkYn8) | [YERI](https://open.spotify.com/artist/4xzwjGxzfKglU0cNW4q4l1), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Nap Fairy \- SM STATION](https://open.spotify.com/album/3G8R9rd7ILJwQ20iFc1ocQ) | 3:36 |
 | 34 | [I'm Fine](https://open.spotify.com/track/5u6CQi2rgD1EyiztQnrrwY) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 3:09 |
-| 35 | [Wait](https://open.spotify.com/track/1gyhtYG9OWOZvhZzDVF6lq) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [LOVE SHOT– The 5th Album Repackage](https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq) | 4:08 |
-| 36 | [Paint](https://open.spotify.com/track/4lthTadTs7WMkpn9w2krk4) | [MoonMoon](https://open.spotify.com/artist/1LOeaOZCreokgQaauWT5rV) | [Paint](https://open.spotify.com/album/5jxRZ8YZanMKXowrQVYf3A) | 3:08 |
+| 35 | [Paint](https://open.spotify.com/track/4lthTadTs7WMkpn9w2krk4) | [MoonMoon](https://open.spotify.com/artist/1LOeaOZCreokgQaauWT5rV) | [Paint](https://open.spotify.com/album/5jxRZ8YZanMKXowrQVYf3A) | 3:08 |
+| 36 | [Wait](https://open.spotify.com/track/1gyhtYG9OWOZvhZzDVF6lq) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [LOVE SHOT– The 5th Album Repackage](https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq) | 4:08 |
 | 37 | [The night we parted](https://open.spotify.com/track/7sCOwMK98Bc3f6hFS0jgkM) | [ACOURVE](https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA) | [The night we parted](https://open.spotify.com/album/3ziY8tTralGg3ew6bTTJGD) | 3:49 |
 | 38 | [Starlight](https://open.spotify.com/track/3zqS0EHUWTE9BDU3hf2aRd) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [Starlight](https://open.spotify.com/album/1NBKHWgypm4yyAbz6PyZEG) | 4:33 |
 | 39 | [By My Side](https://open.spotify.com/track/09lkEZvJPX5Lto9Ei7SFxt) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Our Blues, Pt\. 6 \(Original Television Soundtrack\)](https://open.spotify.com/album/090bFiHKTLRk5QA4hsE5Zv) | 3:47 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 | 51 | [I want to be a pillow](https://open.spotify.com/track/5lDeH3wAzJ1YnBYDPL6NYk) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [H\_ello?](https://open.spotify.com/album/6jfjO5f2SuzkXZHlE7pH4B) | 3:43 |
 | 52 | [YOUR SONG \(With Lee Jin Ah, Jung Seung Hwan, Kwon Jin Ah\)](https://open.spotify.com/track/610IckJdwTyY8nez5v64DH) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [I AM SAM](https://open.spotify.com/album/6iV30nbNl5Gmm2jG7Ej44D) | 4:18 |
 
-Snapshot ID: `MTY2MjM5MjUwMywwMDAwMDAwMGVlNjViYTZjZDAzYTU5YTcwMzI2OGYzMjMwYzdkODYz`
+Snapshot ID: `MTY2MjM5MjUwMywwMDAwMDAwMGE4MzgyNzEyZDZjM2I2YmYyMjA1MDZhOTIwZDAzNmQw`

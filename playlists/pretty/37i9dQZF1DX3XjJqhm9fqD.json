@@ -1,12 +1,12 @@
 {
   "description": "Celebrating Haitian music. Cover: Francis Mercier.",
-  "num_followers": 69592,
+  "num_followers": 69614,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMwMjEwMywwMDAwMDAwMGJkYjFmZGFkOWRiMjZkYjZhNGZhZDk3MTllODNiZTQy",
+  "snapshot_id": "MTY2MDMwMjEwMywwMDAwMDAwMGQ0OTUzNTIzZmVhNDI4MDZkNDA2NTFkZjFlMDhmNmQz",
   "tracks": [
     {
       "added_at": "2022-07-14 21:35:16",
@@ -303,18 +303,22 @@
     {
       "added_at": "2022-07-14 21:35:16",
       "album": {
-        "name": "Lost in Parad\u00efse, Pt. 2",
-        "url": "https://open.spotify.com/album/3SYtJkujnJeTUXFvkeSDU7"
+        "name": "African Sun (Remix)",
+        "url": "https://open.spotify.com/album/1e6xJo2X0UxiXlUV6fIJCu"
       },
       "artists": [
         {
           "name": "Na\u00efka",
           "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
+        },
+        {
+          "name": "Michael Brun",
+          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
         }
       ],
-      "duration_ms": 203023,
-      "name": "For Gerard",
-      "url": "https://open.spotify.com/track/5087eyLa8DQ5fMHbNYzJsA"
+      "duration_ms": 143076,
+      "name": "African Sun - Remix",
+      "url": "https://open.spotify.com/track/20kzGFgtQU4C1G1Rd50YAU"
     },
     {
       "added_at": "2022-07-14 21:35:16",
@@ -475,22 +479,18 @@
     {
       "added_at": "2022-07-14 21:35:16",
       "album": {
-        "name": "African Sun (Remix)",
-        "url": "https://open.spotify.com/album/1e6xJo2X0UxiXlUV6fIJCu"
+        "name": "Lost in Parad\u00efse, Pt. 2",
+        "url": "https://open.spotify.com/album/3SYtJkujnJeTUXFvkeSDU7"
       },
       "artists": [
         {
           "name": "Na\u00efka",
           "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
-        },
-        {
-          "name": "Michael Brun",
-          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
         }
       ],
-      "duration_ms": 143076,
-      "name": "African Sun - Remix",
-      "url": "https://open.spotify.com/track/20kzGFgtQU4C1G1Rd50YAU"
+      "duration_ms": 203023,
+      "name": "For Gerard",
+      "url": "https://open.spotify.com/track/5087eyLa8DQ5fMHbNYzJsA"
     },
     {
       "added_at": "2022-07-14 21:35:16",
@@ -771,26 +771,6 @@
     {
       "added_at": "2022-07-14 21:35:16",
       "album": {
-        "name": "Kelly Krow",
-        "url": "https://open.spotify.com/album/3EYeR8N7uxBO83LZxaqAXk"
-      },
-      "artists": [
-        {
-          "name": "Kelly Krow",
-          "url": "https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p"
-        },
-        {
-          "name": "Mozart Louis",
-          "url": "https://open.spotify.com/artist/1IgFh9pBdbDBFgaSn91oul"
-        }
-      ],
-      "duration_ms": 270315,
-      "name": "Sal Vle",
-      "url": "https://open.spotify.com/track/1fGEwTxAB5Q4bgtPQL47rm"
-    },
-    {
-      "added_at": "2022-07-14 21:35:16",
-      "album": {
         "name": "Premier Gaou",
         "url": "https://open.spotify.com/album/2Zlu5cWMRa5Bo4w6aIzSWU"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 227213,
       "name": "Premier Gaou",
       "url": "https://open.spotify.com/track/1bmwVOpz0kURQHYQ49CVv7"
+    },
+    {
+      "added_at": "2022-07-14 21:35:16",
+      "album": {
+        "name": "Kelly Krow",
+        "url": "https://open.spotify.com/album/3EYeR8N7uxBO83LZxaqAXk"
+      },
+      "artists": [
+        {
+          "name": "Kelly Krow",
+          "url": "https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p"
+        },
+        {
+          "name": "Mozart Louis",
+          "url": "https://open.spotify.com/artist/1IgFh9pBdbDBFgaSn91oul"
+        }
+      ],
+      "duration_ms": 270315,
+      "name": "Sal Vle",
+      "url": "https://open.spotify.com/track/1fGEwTxAB5Q4bgtPQL47rm"
     },
     {
       "added_at": "2022-07-14 21:35:16",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2022-07-14 21:35:16",
       "album": {
+        "name": "Revolution",
+        "url": "https://open.spotify.com/album/3FfED55YqhQ5YSQpdCs0tv"
+      },
+      "artists": [
+        {
+          "name": "Boukman Eksperyans",
+          "url": "https://open.spotify.com/artist/1d8NAgmltXoGvjZmpxgHzp"
+        }
+      ],
+      "duration_ms": 102466,
+      "name": "Imamou Lele",
+      "url": "https://open.spotify.com/track/0PLD26MkvvElalKRCMQJ0c"
+    },
+    {
+      "added_at": "2022-07-14 21:35:16",
+      "album": {
         "name": "Trap King",
         "url": "https://open.spotify.com/album/5P5jwxaRvA0i64gOJoNpvK"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 186857,
       "name": "Fanm Ch\u00e8",
       "url": "https://open.spotify.com/track/5TzWub3nCAAcVZxLSELohS"
-    },
-    {
-      "added_at": "2022-07-14 21:35:16",
-      "album": {
-        "name": "Revolution",
-        "url": "https://open.spotify.com/album/3FfED55YqhQ5YSQpdCs0tv"
-      },
-      "artists": [
-        {
-          "name": "Boukman Eksperyans",
-          "url": "https://open.spotify.com/artist/1d8NAgmltXoGvjZmpxgHzp"
-        }
-      ],
-      "duration_ms": 102466,
-      "name": "Imamou Lele",
-      "url": "https://open.spotify.com/track/0PLD26MkvvElalKRCMQJ0c"
     },
     {
       "added_at": "2022-07-14 21:35:16",
@@ -1367,6 +1367,26 @@
     {
       "added_at": "2022-07-14 21:35:16",
       "album": {
+        "name": "Touche'm",
+        "url": "https://open.spotify.com/album/1V40nMnOeYmzAbbBCzq82H"
+      },
+      "artists": [
+        {
+          "name": "Steves J. Bryan",
+          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
+        },
+        {
+          "name": "Vanessa Desire",
+          "url": "https://open.spotify.com/artist/6xVcovJKcJRop6h8Ik9DIa"
+        }
+      ],
+      "duration_ms": 212783,
+      "name": "Touche'm",
+      "url": "https://open.spotify.com/track/5jn2LHOt68Ke5pQkP8m7Wv"
+    },
+    {
+      "added_at": "2022-07-14 21:35:16",
+      "album": {
         "name": "Yo Mele Raboday",
         "url": "https://open.spotify.com/album/2BNKzOLRHyDQBtP87YzE6P"
       },
@@ -1387,26 +1407,6 @@
       "duration_ms": 217272,
       "name": "Yo Mele Raboday",
       "url": "https://open.spotify.com/track/0qtBENOC0lD0BY6Hew47gA"
-    },
-    {
-      "added_at": "2022-07-14 21:35:16",
-      "album": {
-        "name": "Touche'm",
-        "url": "https://open.spotify.com/album/1V40nMnOeYmzAbbBCzq82H"
-      },
-      "artists": [
-        {
-          "name": "Steves J. Bryan",
-          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
-        },
-        {
-          "name": "Vanessa Desire",
-          "url": "https://open.spotify.com/artist/6xVcovJKcJRop6h8Ik9DIa"
-        }
-      ],
-      "duration_ms": 212783,
-      "name": "Touche'm",
-      "url": "https://open.spotify.com/track/5jn2LHOt68Ke5pQkP8m7Wv"
     },
     {
       "added_at": "2022-07-14 21:35:16",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2022-07-14 21:35:16",
       "album": {
-        "name": "Mercy",
-        "url": "https://open.spotify.com/album/2LMAGmJtjSF4yu3LFKs4NK"
-      },
-      "artists": [
-        {
-          "name": "NEVRMIND",
-          "url": "https://open.spotify.com/artist/09apxys93rFK3x28ufjH6w"
-        }
-      ],
-      "duration_ms": 153473,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/3ytSwpnF36uspwdRkqPTG1"
-    },
-    {
-      "added_at": "2022-07-14 21:35:16",
-      "album": {
         "name": "Dekonekte",
         "url": "https://open.spotify.com/album/3WuoEZqzqXrthaQifQm04H"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 226560,
       "name": "Dekonekte",
       "url": "https://open.spotify.com/track/1uw9hfE1nhTd00sJEOlpbj"
+    },
+    {
+      "added_at": "2022-07-14 21:35:16",
+      "album": {
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/2LMAGmJtjSF4yu3LFKs4NK"
+      },
+      "artists": [
+        {
+          "name": "NEVRMIND",
+          "url": "https://open.spotify.com/artist/09apxys93rFK3x28ufjH6w"
+        }
+      ],
+      "duration_ms": 153473,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/3ytSwpnF36uspwdRkqPTG1"
     },
     {
       "added_at": "2022-07-14 21:35:16",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2022-07-14 21:35:16",
       "album": {
-        "name": "REFLEXION",
-        "url": "https://open.spotify.com/album/6i72auNGChVZB8lwCC0pTM"
-      },
-      "artists": [
-        {
-          "name": "KANIS",
-          "url": "https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc"
-        }
-      ],
-      "duration_ms": 165720,
-      "name": "Hallyday",
-      "url": "https://open.spotify.com/track/1usHOAm45uCnvTu4IUYZGm"
-    },
-    {
-      "added_at": "2022-07-14 21:35:16",
-      "album": {
         "name": "Perle De Culture",
         "url": "https://open.spotify.com/album/46ZoiD5bKfYvg67611YS2v"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 265929,
       "name": "Twa Fey",
       "url": "https://open.spotify.com/track/4jlBiJhx1o4QTHRjvEuCx3"
+    },
+    {
+      "added_at": "2022-07-14 21:35:16",
+      "album": {
+        "name": "REFLEXION",
+        "url": "https://open.spotify.com/album/6i72auNGChVZB8lwCC0pTM"
+      },
+      "artists": [
+        {
+          "name": "KANIS",
+          "url": "https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc"
+        }
+      ],
+      "duration_ms": 165720,
+      "name": "Hallyday",
+      "url": "https://open.spotify.com/track/1usHOAm45uCnvTu4IUYZGm"
     },
     {
       "added_at": "2022-07-14 21:35:16",

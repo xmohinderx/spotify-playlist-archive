@@ -1,12 +1,12 @@
 {
   "description": "80s rock to fuel your ride. Cover: Guns N' Roses",
-  "num_followers": 138999,
+  "num_followers": 139296,
   "original_name": "80s Rock Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzAzNTkxNiwwMDAwMDAwMDQ5MWZkYjFhOTExNjJmNzg1NTk3OTlhYmM0YjExYjY3",
+  "snapshot_id": "MTY1NzAzNTkxNiwwMDAwMDAwMDAwNDQzOWE5MzVlZDQyMmMxOTBiM2Y1YjlhN2IzMmFl",
   "tracks": [
     {
       "added_at": "2021-03-16 22:32:51",
@@ -121,22 +121,6 @@
       "url": "https://open.spotify.com/track/2Cdvbe2G4hZsnhNMKyGrie"
     },
     {
-      "added_at": "2022-07-05 15:28:41",
-      "album": {
-        "name": "Frontiers",
-        "url": "https://open.spotify.com/album/2EFUNYmwxe0AOGxBORrfaw"
-      },
-      "artists": [
-        {
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
-        }
-      ],
-      "duration_ms": 323706,
-      "name": "Separate Ways (Worlds Apart)",
-      "url": "https://open.spotify.com/track/4ECNtOnqzxutZkXP4TE3n3"
-    },
-    {
       "added_at": "2021-03-16 22:32:51",
       "album": {
         "name": "Appetite For Destruction",
@@ -151,6 +135,22 @@
       "duration_ms": 273480,
       "name": "Welcome To The Jungle",
       "url": "https://open.spotify.com/track/0G21yYKMZoHa30cYVi1iA8"
+    },
+    {
+      "added_at": "2022-07-05 15:28:41",
+      "album": {
+        "name": "Frontiers",
+        "url": "https://open.spotify.com/album/2EFUNYmwxe0AOGxBORrfaw"
+      },
+      "artists": [
+        {
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        }
+      ],
+      "duration_ms": 323706,
+      "name": "Separate Ways (Worlds Apart)",
+      "url": "https://open.spotify.com/track/4ECNtOnqzxutZkXP4TE3n3"
     },
     {
       "added_at": "2021-03-16 22:32:51",
@@ -283,22 +283,6 @@
     {
       "added_at": "2021-03-16 22:32:51",
       "album": {
-        "name": "4 (Expanded)",
-        "url": "https://open.spotify.com/album/2Pw51hAGvWpTA3AYl2WVuu"
-      },
-      "artists": [
-        {
-          "name": "Foreigner",
-          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
-        }
-      ],
-      "duration_ms": 259800,
-      "name": "Juke Box Hero",
-      "url": "https://open.spotify.com/track/00qOE7OjRl0BpYiCiweZB2"
-    },
-    {
-      "added_at": "2021-03-16 22:32:51",
-      "album": {
         "name": "Appetite For Destruction",
         "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 405600,
       "name": "Paradise City",
       "url": "https://open.spotify.com/track/6eN1f9KNmiWEhpE2RhQqB5"
+    },
+    {
+      "added_at": "2021-03-16 22:32:51",
+      "album": {
+        "name": "4 (Expanded)",
+        "url": "https://open.spotify.com/album/2Pw51hAGvWpTA3AYl2WVuu"
+      },
+      "artists": [
+        {
+          "name": "Foreigner",
+          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
+        }
+      ],
+      "duration_ms": 259800,
+      "name": "Juke Box Hero",
+      "url": "https://open.spotify.com/track/00qOE7OjRl0BpYiCiweZB2"
     },
     {
       "added_at": "2021-03-16 22:32:51",

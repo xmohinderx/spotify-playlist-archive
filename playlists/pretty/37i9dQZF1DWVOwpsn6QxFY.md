@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 
 > Hand\-picked indie to nourish the ears.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,905 likes - 80 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,946 likes - 80 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 | 4 | [Simulation Swarm](https://open.spotify.com/track/2FwDApgXk91kXvqy2oB7dz) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 4:12 |
 | 5 | [Certainty](https://open.spotify.com/track/3i7XRi2UyvGTdJawJRkVhd) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 3:07 |
 | 6 | [Phoenix \(feat\. Fleet Foxes & Anaïs Mitchell\)](https://open.spotify.com/track/4Vs2i8GdP5s7vd8vfSRcDk) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 4:15 |
-| 7 | [Johnson Song](https://open.spotify.com/track/1g3hJAu22j2gINrSTSpwp0) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Orange Blood](https://open.spotify.com/album/3EP2uvI3t1m5UCCSA1iTtV) | 3:43 |
-| 8 | [Sunday Funday](https://open.spotify.com/track/2OjZhG8BnvrsVWqGnZk4PO) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Jockeys of Love](https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT) | 4:16 |
+| 7 | [Sunday Funday](https://open.spotify.com/track/2OjZhG8BnvrsVWqGnZk4PO) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Jockeys of Love](https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT) | 4:16 |
+| 8 | [Johnson Song](https://open.spotify.com/track/1g3hJAu22j2gINrSTSpwp0) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Orange Blood](https://open.spotify.com/album/3EP2uvI3t1m5UCCSA1iTtV) | 3:43 |
 | 9 | [Mol y Sol](https://open.spotify.com/track/7AlzbuJ7jtFC2roWwgXvLL) | [Brijs](https://open.spotify.com/artist/1w6YfDok1oXwLvE1rlHewV) | [Glitra](https://open.spotify.com/album/7GYLONcNgPmog4Zqn8sm3b) | 3:30 |
 | 10 | [Car Crash in G Major](https://open.spotify.com/track/24EtJ2vTx6CtaP32S6Arn2) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Car Crash in G Major](https://open.spotify.com/album/1aPZj3S4ORUVOaaFmUgCU6) | 2:12 |
 | 11 | [Hold In, Hold On](https://open.spotify.com/track/0WebpqjAhluHB2WREW9x4R) | [Kid Bloom](https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P) | [Hold In, Hold On](https://open.spotify.com/album/3j7CpIcTP7jFEbQjIMcuud) | 2:39 |
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 | 41 | [Rae Street](https://open.spotify.com/track/4DtQQ82VSTgYfsCBSxvK9k) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Things Take Time, Take Time](https://open.spotify.com/album/3InSvUCYvJ5XWg6PegGNCv) | 4:31 |
 | 42 | [Sorry I Am](https://open.spotify.com/track/2XbtAowMkaRMktJFII7h0Y) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Sorry I Am](https://open.spotify.com/album/1OckLS0LTnxNRWqGJ8ojoy) | 4:02 |
 | 43 | [Let There Be Light Again](https://open.spotify.com/track/0YCz0CKKxSx1Ezk0HsYnHI) | [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Let There Be Light Again](https://open.spotify.com/album/2T9PfTuP5ovbfpM7wv6nez) | 3:47 |
-| 44 | [My House](https://open.spotify.com/track/5kuSneVOTmvanncpK3RZcl) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [My House](https://open.spotify.com/album/7sSEGFxjJTaT1amaNYOmWD) | 4:16 |
+| 44 | [Blue Hours](https://open.spotify.com/track/4qYbMiuCfrmlwgyhbciuAN) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Blue Hours](https://open.spotify.com/album/1tqkCIUs7aGktIJ2J5WKFz) | 3:53 |
 | 45 | [bloodstream](https://open.spotify.com/track/3VJ8JnA1femj0x5KCcfBpT) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [color theory](https://open.spotify.com/album/2CISL0rSGzbO0MbQMlqBez) | 5:37 |
-| 46 | [Blue Hours](https://open.spotify.com/track/4qYbMiuCfrmlwgyhbciuAN) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Blue Hours](https://open.spotify.com/album/1tqkCIUs7aGktIJ2J5WKFz) | 3:53 |
+| 46 | [My House](https://open.spotify.com/track/5kuSneVOTmvanncpK3RZcl) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [My House](https://open.spotify.com/album/7sSEGFxjJTaT1amaNYOmWD) | 4:16 |
 | 47 | [Slow](https://open.spotify.com/track/5Cf6NE8KN82o9U3oAeG3yB) | [Cassia](https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX) | [Magnifier](https://open.spotify.com/album/1Yk0ejrOruZAX1kHniWVIE) | 3:14 |
 | 48 | [Good Woman](https://open.spotify.com/track/6hZ3wAZGh5yQcZMxDXnTL3) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/6b3CgvhvJFT6asCeHiOF3M) | 3:17 |
 | 49 | [Blue](https://open.spotify.com/track/7i8uptpD5FTrfQu0DXHPDv) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Blue](https://open.spotify.com/album/3qhBGzvetkErUwWV0Ohtu3) | 2:36 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 | 64 | [Song for Nick Drake](https://open.spotify.com/track/1ZMpeW7DIRIpWCpFxAFuf6) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Song for Nick Drake](https://open.spotify.com/album/0tD7F0mOkgQliDESDRBLey) | 2:57 |
 | 65 | [Sugar](https://open.spotify.com/track/3BWvv8hVbYXFHivfzpCD5n) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [When the City Sleeps](https://open.spotify.com/album/7LlmJ1aH2FGj9nEh0xPIF2) | 2:56 |
 | 66 | [Lover \(Don't Let Me Down\)](https://open.spotify.com/track/4tD2yU85sj8pjWPbsA3KDE) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Lover \(Don’t Let Me Down\)](https://open.spotify.com/album/6o73F8z9Ik02r09k3gIqPD) | 4:10 |
-| 67 | [Heads Look Like Drums](https://open.spotify.com/track/5LdYarV4vC2SZJeeTJJ8fa) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [The Less I Knew](https://open.spotify.com/album/0mPYANCi1rAEvSQspvRnXs) | 3:04 |
-| 68 | [Gotta Get Through Til Monday](https://open.spotify.com/track/2nP30qYDeymEfHmezLfgJk) | [Cassia](https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX) | [Gotta Get through Til Monday](https://open.spotify.com/album/7zHuAhLpqnYhgAZ19SmwBb) | 3:41 |
+| 67 | [Gotta Get Through Til Monday](https://open.spotify.com/track/2nP30qYDeymEfHmezLfgJk) | [Cassia](https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX) | [Gotta Get through Til Monday](https://open.spotify.com/album/7zHuAhLpqnYhgAZ19SmwBb) | 3:41 |
+| 68 | [Heads Look Like Drums](https://open.spotify.com/track/5LdYarV4vC2SZJeeTJJ8fa) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [The Less I Knew](https://open.spotify.com/album/0mPYANCi1rAEvSQspvRnXs) | 3:04 |
 | 69 | [Mecca](https://open.spotify.com/track/4C5bRIloL1afbepFvjMLYE) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [Mecca](https://open.spotify.com/album/0diLOQUXoO0jIWMmC4S4KV) | 4:51 |
 | 70 | [4Runner](https://open.spotify.com/track/3kduxaRADVX6gVfZ6IeqcB) | [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT) | [Changephobia](https://open.spotify.com/album/7v5Vuz4HyHldAgTG9NpcFY) | 3:49 |
 | 71 | [Clementine](https://open.spotify.com/track/2q665uNpqatx58180pLD2a) | [T\. Evann](https://open.spotify.com/artist/2BcGW2sfH7w1xKhKGye5YG) | [Clementine](https://open.spotify.com/album/2BqwMbbENJkGzh3t5fdoYd) | 5:09 |
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 | 73 | [Alaska](https://open.spotify.com/track/3jfYDfrnp0dseGWZfa3jqt) | [Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB) | [Alaska](https://open.spotify.com/album/4rFxEoG9PEDkONioOInJhy) | 2:05 |
 | 74 | [Barcelona](https://open.spotify.com/track/6V8IY1khSjXlgvG6mbIyXQ) | [The Big Moon](https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O) | [Barcelona](https://open.spotify.com/album/2zx0QaxzIxKKVi5bptvVyB) | 3:46 |
 | 75 | [If I Don't Hear From You Tonight](https://open.spotify.com/track/0vPkKjAbhVGjUDKcvb316M) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Things Take Time, Take Time](https://open.spotify.com/album/3InSvUCYvJ5XWg6PegGNCv) | 3:37 |
-| 76 | [Nightjar And The Nightingale](https://open.spotify.com/track/24b6nKhfTwjV3loZHkFUli) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Nightjar and the Nightingale](https://open.spotify.com/album/3uqQVXRX8Yoq88qiXXJyjk) | 4:31 |
-| 77 | [summer bruises](https://open.spotify.com/track/2fjE9A6haImVXETd1B4PDs) | [april june](https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG) | [summer bruises](https://open.spotify.com/album/7lVNLphRN8jo69BM5UmjQI) | 2:54 |
+| 76 | [summer bruises](https://open.spotify.com/track/2fjE9A6haImVXETd1B4PDs) | [april june](https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG) | [summer bruises](https://open.spotify.com/album/7lVNLphRN8jo69BM5UmjQI) | 2:54 |
+| 77 | [Nightjar And The Nightingale](https://open.spotify.com/track/24b6nKhfTwjV3loZHkFUli) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Nightjar and the Nightingale](https://open.spotify.com/album/3uqQVXRX8Yoq88qiXXJyjk) | 4:31 |
 | 78 | [Angel](https://open.spotify.com/track/18SbC9qVTs8zuudDislTV5) | [Trudy and the Romance](https://open.spotify.com/artist/2eg89iLHG4JMEUZQmFaxou) | [Angel](https://open.spotify.com/album/5vi6pUjMmkdtABSiTPSuvF) | 4:02 |
 | 79 | [Please Don't Hide Yourself Away](https://open.spotify.com/track/4BeOtHTrVDazx007bGFFNL) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi), [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Please Don't Hide Yourself Away](https://open.spotify.com/album/5HFkJLsDlD7eudQ2DQNRIx) | 3:10 |
-| 80 | [The Flow](https://open.spotify.com/track/3gjW1jxleTvfW8fuE3HEbW) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [The Flow](https://open.spotify.com/album/7gRz9nqFK6TEhj4Hh4TsLk) | 3:34 |
+| 80 | [Garden of Eden](https://open.spotify.com/track/2JMv10dhH1c63lwDF0wfud) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Flora Fauna](https://open.spotify.com/album/7DlfUBoATO1ECCro50jZWx) | 3:19 |
 
-Snapshot ID: `MTY2MDMyODAyOCwwMDAwMDAwMGQzNzI3MThjNzNlOWVkZDg4YmY0YWFjZjQ5MzY0YWU2`
+Snapshot ID: `MTY2MDMyODAyOCwwMDAwMDAwMDk4YmNkNGY4NTk3OGQwY2ZkMzU5YTkyN2NlY2Y1YWM5`

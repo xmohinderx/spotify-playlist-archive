@@ -1,12 +1,12 @@
 {
   "description": "Break a sweat with this Zumba-inspired playlist! Find a class at Zumba.Dance",
-  "num_followers": 1839193,
+  "num_followers": 1839298,
   "original_name": "Zumba\u00ae Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDU3MTk5MSwwMDAwMDAwMDZmNzQ0MGY0NzFhN2ViNTJhYjgxMTc0ZDg2N2JlNzY2",
+  "snapshot_id": "MTY2MDU3MTk5MSwwMDAwMDAwMGEwYzRjOWUzYTIyYzIyZWU1YTU2NDk5YTU4OTgyZmJm",
   "tracks": [
     {
       "added_at": "2022-08-15 13:59:51",
@@ -495,26 +495,6 @@
     {
       "added_at": "2022-08-15 13:59:51",
       "album": {
-        "name": "Se Te Nota (with Guaynaa)",
-        "url": "https://open.spotify.com/album/4XiHCUNnGgnnN5xkGue4RF"
-      },
-      "artists": [
-        {
-          "name": "Lele Pons",
-          "url": "https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx"
-        },
-        {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
-        }
-      ],
-      "duration_ms": 155825,
-      "name": "Se Te Nota (with Guaynaa)",
-      "url": "https://open.spotify.com/track/11EnQRgRMJwMAesfkB5pnu"
-    },
-    {
-      "added_at": "2022-08-15 13:59:51",
-      "album": {
         "name": "FRIKI",
         "url": "https://open.spotify.com/album/7LlTjovytMWtPVHm7cJku2"
       },
@@ -531,6 +511,26 @@
       "duration_ms": 144986,
       "name": "FRIKI",
       "url": "https://open.spotify.com/track/3No3zHVwKadKDR00kZdmAB"
+    },
+    {
+      "added_at": "2022-08-15 13:59:51",
+      "album": {
+        "name": "Se Te Nota (with Guaynaa)",
+        "url": "https://open.spotify.com/album/4XiHCUNnGgnnN5xkGue4RF"
+      },
+      "artists": [
+        {
+          "name": "Lele Pons",
+          "url": "https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx"
+        },
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        }
+      ],
+      "duration_ms": 155825,
+      "name": "Se Te Nota (with Guaynaa)",
+      "url": "https://open.spotify.com/track/11EnQRgRMJwMAesfkB5pnu"
     },
     {
       "added_at": "2022-08-15 13:59:51",

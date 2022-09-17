@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYc8Z858eGwP.md) - [plain]
 
 > The most exciting new artists on the rise from the African continent & diaspora\. Cover: <a href="https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq?si=wayNsUeRQpG6I2LJ7ptwYg">Ayra Starr </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,439 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,503 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYc8Z858eGwP.md) - [plain]
 | 20 | [kolomental](https://open.spotify.com/track/6lXOGwFzCglrPMtuysPIUo) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [kolomental](https://open.spotify.com/album/7AwHTlDo2cBTwONr0FNJXL) | 3:17 |
 | 21 | [Baby Riddim](https://open.spotify.com/track/77eZIuMTB9HrQ86L4ljqEX) | [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Baby Riddim](https://open.spotify.com/album/6dCmbmHyfCQpmJGZW9Am3b) | 3:10 |
 | 22 | [Bambelela](https://open.spotify.com/track/4X4NsxuVdB1ygIMbHuctBz) | [DBN Gogo](https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l), [Felo Le Tee](https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV), [Pabi Cooper](https://open.spotify.com/artist/6EG9v86LsCoq5HS4Jj1zCQ), [Young Stunna](https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ) | [Bambelela](https://open.spotify.com/album/14FNXaJ642dVgwg3zfqx2K) | 6:36 |
-| 23 | [Big Flexa](https://open.spotify.com/track/16vqEDaCZpq5zdgop8U9uM) | [Costa Titch](https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG), [C’Buda M](https://open.spotify.com/artist/6Ldiygt0c72Fx38qejOcG3), [Alfa Kat](https://open.spotify.com/artist/30Ep7ARHnQpc0z9otD7jup), [Banaba Des](https://open.spotify.com/artist/02CpmHJhuAVY5YybphI3Wn), [Sdida](https://open.spotify.com/artist/7MVdJWzuMTtXvvaovjs3bB), [Man T](https://open.spotify.com/artist/5syvopnKgETMISE53XS578) | [Big Flexa](https://open.spotify.com/album/5MhQBsStYfPKxStExE5wM3) | 5:27 |
+| 23 | [Big Flexa](https://open.spotify.com/track/16vqEDaCZpq5zdgop8U9uM) | [Costa Titch](https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG), [C'buda M](https://open.spotify.com/artist/3rdDFMUUzxsQODbgrY6mCf), [Alfa Kat](https://open.spotify.com/artist/30Ep7ARHnQpc0z9otD7jup), [Banaba Des](https://open.spotify.com/artist/02CpmHJhuAVY5YybphI3Wn), [Sdida](https://open.spotify.com/artist/7MVdJWzuMTtXvvaovjs3bB), [Man T](https://open.spotify.com/artist/5syvopnKgETMISE53XS578) | [Big Flexa](https://open.spotify.com/album/5MhQBsStYfPKxStExE5wM3) | 5:27 |
 | 24 | [Sungba](https://open.spotify.com/track/3KO1322zrWwGa8TWQDBFvg) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Ololade Asake](https://open.spotify.com/album/37Mc42zLnXI5oEN0WcyEA4) | 3:10 |
 | 25 | [Playboy](https://open.spotify.com/track/1Cg51Jk6EoXBQ0KiwzWJfm) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Playboy](https://open.spotify.com/album/1H60asyrMtrrOlieQIPtrI) | 3:27 |
 | 26 | [For My Sanity](https://open.spotify.com/track/5niAmm5V1bj0wY4IVcwd3u) | [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP) | [The Burning Tree](https://open.spotify.com/album/0NnJ99VCcTCuKBB2PUpdp2) | 3:24 |

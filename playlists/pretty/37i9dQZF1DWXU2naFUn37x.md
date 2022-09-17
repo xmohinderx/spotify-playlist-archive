@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > La casa dello street rap italiano\. Cover: Medy
 
-[Spotify](https://open.spotify.com/user/spotify) - 811,597 likes - 49 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 811,659 likes - 49 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

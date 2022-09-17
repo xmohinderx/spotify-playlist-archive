@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pGtIaS1UoB.md) - [plain]
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,172 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,185 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pGtIaS1UoB.md) - [plain]
 | 10 | [Mojito](https://open.spotify.com/track/2J42jKkwGqiRsxUYh7FMTm) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [最偉大的作品](https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa) | 3:05 |
 | 11 | [for ya](https://open.spotify.com/track/6D9uQpS7Bnk9VsuTD0F3vn) | [蒋小呢](https://open.spotify.com/artist/47dZhQCqCubKZdXhp3wDq9) | [for ya](https://open.spotify.com/album/14n2UbeEsxw6J3Jxo3QWeo) | 2:33 |
 | 12 | [TA](https://open.spotify.com/track/6UwJRxAxy8ok9SAidL903w) | [不是花火呀](https://open.spotify.com/artist/5CxdR3VSEWjiAa5DabdLVd) | [TA](https://open.spotify.com/album/01oXuccY5s2Vsc1y5EK8Ka) | 3:55 |
-| 13 | [我多喜歡你,你會知道\(網劇<致我們單純的小美好>推廣曲\)](https://open.spotify.com/track/221FBKC22DTc7XkPIaZYOl) | [Wang Jun Qi](https://open.spotify.com/artist/4PQnqdTaKkIjsPTbIqNcub) | [我多喜歡你,你會知道\(網劇<致我們單純的小美好>推廣曲\)](https://open.spotify.com/album/0nELe45M3v4oeUuxKR9noj) | 3:19 |
-| 14 | [巴黎的十二點](https://open.spotify.com/track/4dVlQJVxsUNEL4lTSSwAJB) | [OHMYMEITING](https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx) | [巴黎的十二點](https://open.spotify.com/album/0kxdozp8b7SxMfeiJ5Pxgz) | 3:41 |
+| 13 | [巴黎的十二點](https://open.spotify.com/track/4dVlQJVxsUNEL4lTSSwAJB) | [OHMYMEITING](https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx) | [巴黎的十二點](https://open.spotify.com/album/0kxdozp8b7SxMfeiJ5Pxgz) | 3:41 |
+| 14 | [我多喜歡你,你會知道\(網劇<致我們單純的小美好>推廣曲\)](https://open.spotify.com/track/221FBKC22DTc7XkPIaZYOl) | [Wang Jun Qi](https://open.spotify.com/artist/4PQnqdTaKkIjsPTbIqNcub) | [我多喜歡你,你會知道\(網劇<致我們單純的小美好>推廣曲\)](https://open.spotify.com/album/0nELe45M3v4oeUuxKR9noj) | 3:19 |
 | 15 | [123我爱你](https://open.spotify.com/track/0F6nAVTpdghoq4CJDtxI4u) | [新乐尘符](https://open.spotify.com/artist/1nv7Ro0Pu7kM3ADyxvS1ZA) | [123我爱你](https://open.spotify.com/album/2k5jM3yRT4kHDXpOglZjSo) | 3:19 |
 | 16 | [有何不可](https://open.spotify.com/track/5rXBmcYNJYMYdhwxlMLh0s) | [許嵩](https://open.spotify.com/artist/2hgxWUG24w1cFLBlPSEVcV) | [自定義](https://open.spotify.com/album/0OfgDIAou9mTshlocs9hXD) | 4:00 |
 | 17 | [美](https://open.spotify.com/track/7637Rypif3OgNpr8EZoCnf) | [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [美](https://open.spotify.com/album/2AnHAP4FN9Edjt3ZHGPkVG) | 2:24 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pGtIaS1UoB.md) - [plain]
 | 26 | [万有引力](https://open.spotify.com/track/4B3CIS74EZJ3n79AkfeC2X) | [F\*yy](https://open.spotify.com/artist/5DORd6wqwGAQxaoIgGbVtE) | [万有引力](https://open.spotify.com/album/51ug4YqwzJoPY4h3kI8Fdd) | 4:03 |
 | 27 | [屬於你 \- 電影《一周的朋友》插曲](https://open.spotify.com/track/6aAWv8sFAh1l1buBTUgTWo) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [屬於你 \(電影《一周的朋友》插曲\)](https://open.spotify.com/album/72UbhmRyjQB15aaSkfz6Td) | 2:57 |
 | 28 | [豆漿油條](https://open.spotify.com/track/7vva2pL13vWP3XHKltJNJ7) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [第二天堂](https://open.spotify.com/album/3Hl00RKpdMnWtOal6WBlGK) | 4:14 |
-| 29 | [Let me love u](https://open.spotify.com/track/4CZaAPfc74YaIPBEMFCKXH) | [WayV](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) | [Take Off \- The 1st Mini Album](https://open.spotify.com/album/7IzPpfu5gInokmyg2rDhRL) | 3:46 |
-| 30 | [黏黏](https://open.spotify.com/track/5AnzBfbZ7G88EQqIO5uxFL) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi), [許瑋甯](https://open.spotify.com/artist/0bzVqWAANIcEyvwoR78szB) | [如果雨之後](https://open.spotify.com/album/63lCCebNDe20nxyCvFWk8g) | 4:05 |
+| 29 | [黏黏](https://open.spotify.com/track/5AnzBfbZ7G88EQqIO5uxFL) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi), [許瑋甯](https://open.spotify.com/artist/0bzVqWAANIcEyvwoR78szB) | [如果雨之後](https://open.spotify.com/album/63lCCebNDe20nxyCvFWk8g) | 4:05 |
+| 30 | [Let me love u](https://open.spotify.com/track/4CZaAPfc74YaIPBEMFCKXH) | [WayV](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) | [Take Off \- The 1st Mini Album](https://open.spotify.com/album/7IzPpfu5gInokmyg2rDhRL) | 3:46 |
 | 31 | [陪我看日出](https://open.spotify.com/track/54vBDYCulMrXboGiXiABXD) | [Joi Chua](https://open.spotify.com/artist/7aoSiqJj23B6at0hTVobbg) | [日出](https://open.spotify.com/album/4Imutb6AFFjGa7fh9AAUK2) | 4:20 |
 | 32 | [星晴](https://open.spotify.com/track/4VWn7L2kONeMEQ6cAIfzXC) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [杰倫](https://open.spotify.com/album/0yS6jOCvKaY6KfJ1Cpc7FZ) | 4:16 |
 | 33 | [你還不知道?](https://open.spotify.com/track/4dV0T2JbvRemNAdt2oaOhG) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS), [Tay Kewei](https://open.spotify.com/artist/7CEGCiUDMO8Xr257mqIJl2) | [你還不知道?](https://open.spotify.com/album/64w5Op6YBOQ9AiV76Rvikp) | 3:11 |
@@ -63,9 +63,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pGtIaS1UoB.md) - [plain]
 | 53 | [你是我心内的一首歌](https://open.spotify.com/track/17N5sJg46rDPKCGj0pKhGl) | [Leehom Wang](https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt) | [改變自己](https://open.spotify.com/album/7yjS4CBFK0f9oQsVrcdNNW) | 2:46 |
 | 54 | [非酋](https://open.spotify.com/track/6PPqL3Oj5qzpTN8xG19W2z) | [薛明媛](https://open.spotify.com/artist/7j15ACuH4YxdpLiuBHvFAv), [朱贺](https://open.spotify.com/artist/40So5hAPxfVdbVhafEMgA8) | [非酋](https://open.spotify.com/album/3wXVp7uFmElrmsm65zAhzG) | 2:52 |
 | 55 | [心动决定](https://open.spotify.com/track/5HACRqAqNYbtDObqji9H0r) | [叶琼琳](https://open.spotify.com/artist/4FDdIfrqDV9VCZS237ozYz), [黃禮格](https://open.spotify.com/artist/3VTDEKywxLJxC3WXJIGVGu) | [心动决定](https://open.spotify.com/album/2RDmFXCdQh0lJOPh67BzTv) | 3:23 |
-| 56 | [在我們的星球眼淚不超過三秒](https://open.spotify.com/track/37U4HQfGjWZpmXVfSbbgdy) | [鄧福如 AFÜ](https://open.spotify.com/artist/7hJBfmab67blVoqZBIAx13) | [在我們的星球眼淚不超過三秒](https://open.spotify.com/album/5yZZ5qRvkPok40amVzuV2l) | 3:29 |
+| 56 | [對面的女孩看過來](https://open.spotify.com/track/51vo4MbGHmzEuW5Nrk6flg) | [Richie Jen](https://open.spotify.com/artist/0zjNCSqeDIxn63crtDx7G2) | [滾石香港黃金十年\-任賢齊精選](https://open.spotify.com/album/5oU6DlroxCeM09n1GnoViL) | 3:09 |
 | 57 | [Till We Fall in Love](https://open.spotify.com/track/7lXQEJTUzFPeuuDtB2NpkA) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [Till We Fall in Love](https://open.spotify.com/album/69Xnn6GEk0hLXUcPxcMngt) | 4:00 |
-| 58 | [對面的女孩看過來](https://open.spotify.com/track/51vo4MbGHmzEuW5Nrk6flg) | [Richie Jen](https://open.spotify.com/artist/0zjNCSqeDIxn63crtDx7G2) | [滾石香港黃金十年\-任賢齊精選](https://open.spotify.com/album/5oU6DlroxCeM09n1GnoViL) | 3:09 |
+| 58 | [在我們的星球眼淚不超過三秒](https://open.spotify.com/track/37U4HQfGjWZpmXVfSbbgdy) | [鄧福如 AFÜ](https://open.spotify.com/artist/7hJBfmab67blVoqZBIAx13) | [在我們的星球眼淚不超過三秒](https://open.spotify.com/album/5yZZ5qRvkPok40amVzuV2l) | 3:29 |
 | 59 | [請你嫁給我 \- HBO Asia原創影集《戒指流浪記》片頭曲](https://open.spotify.com/track/6FmfdFUbG8q6U2KbsNFo3y) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [請你嫁給我 \(HBO Asia原創影集《戒指流浪記》片頭曲\)](https://open.spotify.com/album/6WvfGISnZzpfyMk8lg670t) | 3:24 |
 | 60 | [海绵宝宝](https://open.spotify.com/track/3yZFL4pKWue0I8ru6mmxqX) | [Silence Wang](https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60) | [海绵宝宝](https://open.spotify.com/album/0Uz8fFtCbhG27CwfUqzKv1) | 3:18 |
 | 61 | [心願便利貼](https://open.spotify.com/track/7bC2uZJZichlPr83rAJlKv) | [元若藍](https://open.spotify.com/artist/6ksmwGJ7ECvNHvTGb8uMMK), [Daikyu Wu](https://open.spotify.com/artist/3ossD3v4iNPKU0Cw3JQfDg) | [命中注定我愛你 \(電視原聲帶\)](https://open.spotify.com/album/6ZPU1hsU2POklmDrDiSpem) | 4:15 |
@@ -73,15 +73,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pGtIaS1UoB.md) - [plain]
 | 63 | [夏色17号\-比尔的歌](https://open.spotify.com/track/5Dr6LweBUX9A0w4Fm0oaB0) | [Bomb比尔](https://open.spotify.com/artist/3Sb1u6CGLCWHHphMqX326E), [不是花火呀](https://open.spotify.com/artist/5CxdR3VSEWjiAa5DabdLVd) | [夏色17号\-比尔的歌](https://open.spotify.com/album/0ZO8r4sN5eymZG4YMozKT1) | 3:13 |
 | 64 | [爱你不是两三天](https://open.spotify.com/track/1VWeBAAUeNWllv1edNggTz) | [焦邁奇](https://open.spotify.com/artist/1FyPWrq6lU8yPFM7IXj6oH) | [爱你不是两三天](https://open.spotify.com/album/3dyc0b1Pd7jLhZIgnLpjGF) | 4:10 |
 | 65 | [遇到你 \- 電視劇《原來我很愛你》片頭曲](https://open.spotify.com/track/3IEGZEXPl9Rk1MLE0khnZi) | [林彥俊](https://open.spotify.com/artist/0rtjGz2usYOefz4yYZb4Ih), [萬鵬](https://open.spotify.com/artist/7rfYWk7WW24KDeU3nKJS3Z) | [遇到你 \(電視劇《原來我很愛你》片頭曲\)](https://open.spotify.com/album/1Y61uReThvJfYvzMAvhJc1) | 4:05 |
-| 66 | [兩隻戀人](https://open.spotify.com/track/16MADi2KjVZgwshXXnCysN) | [Gary Chaw](https://open.spotify.com/artist/1mfzcypCggFwpCJ1gmi8BK) | [SUPERMAN](https://open.spotify.com/album/2n7gL0RbyATH41IgxEIqWN) | 4:04 |
-| 67 | [You Are My Only One \(電視劇“我和兩個他”主題曲\)](https://open.spotify.com/track/71O9WhK2KDKAeD6ZigPIuB) | [TIA RAY](https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL), [Xiao Yu](https://open.spotify.com/artist/7In8YZ3XHuwSNUTEyIO0HA) | [You Are My Only One \(電視劇“我和兩個他”主題曲\)](https://open.spotify.com/album/4tNABtO1IjRcguQA28sP8b) | 4:33 |
+| 66 | [You Are My Only One \(電視劇“我和兩個他”主題曲\)](https://open.spotify.com/track/71O9WhK2KDKAeD6ZigPIuB) | [TIA RAY](https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL), [Xiao Yu](https://open.spotify.com/artist/7In8YZ3XHuwSNUTEyIO0HA) | [You Are My Only One \(電視劇“我和兩個他”主題曲\)](https://open.spotify.com/album/4tNABtO1IjRcguQA28sP8b) | 4:33 |
+| 67 | [兩隻戀人](https://open.spotify.com/track/16MADi2KjVZgwshXXnCysN) | [Gary Chaw](https://open.spotify.com/artist/1mfzcypCggFwpCJ1gmi8BK) | [SUPERMAN](https://open.spotify.com/album/2n7gL0RbyATH41IgxEIqWN) | 4:04 |
 | 68 | [要怎麼告訴你我多喜歡 \(feat.理想混蛋 雞丁\)](https://open.spotify.com/track/3vfFrGe8h1VtO63Zku4KFk) | [魏嘉瑩 Arrow Wei](https://open.spotify.com/artist/5JIZFQ7EMAp257CdzKemXO), [理想混蛋 雞丁](https://open.spotify.com/artist/5gLzM47RVqMDkkFc2CaSon) | [你好嗎?](https://open.spotify.com/album/6ozfZvuJHfOjjgbfFhUqLj) | 3:46 |
 | 69 | [溫泉](https://open.spotify.com/track/04GpBu5gm14iLJRfmwi4RS) | [許嵩](https://open.spotify.com/artist/2hgxWUG24w1cFLBlPSEVcV), [劉美麟](https://open.spotify.com/artist/5VjJhwgGrlT9YJCEPoAL3G) | [溫泉](https://open.spotify.com/album/59R817eQRIXIiAemtJKp6x) | 4:43 |
 | 70 | [餘生都是你](https://open.spotify.com/track/3RigT3Zbtvad7iGClLi2eh) | [Z.TAO](https://open.spotify.com/artist/7brWAbUcLVhV9o1w1dLcsx) | [餘生都是你](https://open.spotify.com/album/29oAqIrnduw3NMtbRfSzSB) | 3:00 |
 | 71 | [每分每秒](https://open.spotify.com/track/1T4oS7tf4FpCht0NkwFikF) | [Ours](https://open.spotify.com/artist/5VxMD3kw0WnX3huE0Oli68) | [每分每秒](https://open.spotify.com/album/2i0xJJFEXHJDmSVxdl3z6Q) | 3:20 |
-| 72 | [Samarcande](https://open.spotify.com/track/0kBBID6PJWjdh0Feew3rtW) | [Limestone Quarry](https://open.spotify.com/artist/4VhlhOe3FHkPzW4BsYR9EC) | [Samarcande](https://open.spotify.com/album/1Jas47aIjJ4dJGnFtqnstU) | 3:22 |
-| 73 | [數到五答應我](https://open.spotify.com/track/5uWgSWwQhMcSeL21Fg6t2h) | [Gary Chaw](https://open.spotify.com/artist/1mfzcypCggFwpCJ1gmi8BK) | [格格blue](https://open.spotify.com/album/6HveSS0Oh0HQgtV1RKxgHX) | 4:29 |
-| 74 | [All Day](https://open.spotify.com/track/3GiKSXaBGNv2OoDY4rzCIL) | [五堅情WOLF\(S\) \(邱鋒澤、陳零九、黃偉晉、賴晏駒、婁峻碩\)](https://open.spotify.com/artist/7H6h9MXX9ms8IV2QGLrQSp) | [All Day](https://open.spotify.com/album/7tYX5AcNTJgfF3tRomb7pU) | 3:26 |
-| 75 | [慢慢靠近](https://open.spotify.com/track/1M0MsRnz3NfKqE37VyexwV) | [董又霖](https://open.spotify.com/artist/0rHXxnGdTBaVYVit4HfNE9) | [慢慢靠近](https://open.spotify.com/album/0ZUQ3g76DZwgFhzKAPampH) | 3:27 |
+| 72 | [慢慢靠近](https://open.spotify.com/track/1M0MsRnz3NfKqE37VyexwV) | [董又霖](https://open.spotify.com/artist/0rHXxnGdTBaVYVit4HfNE9) | [慢慢靠近](https://open.spotify.com/album/0ZUQ3g76DZwgFhzKAPampH) | 3:27 |
+| 73 | [Samarcande](https://open.spotify.com/track/0kBBID6PJWjdh0Feew3rtW) | [Limestone Quarry](https://open.spotify.com/artist/4VhlhOe3FHkPzW4BsYR9EC) | [Samarcande](https://open.spotify.com/album/1Jas47aIjJ4dJGnFtqnstU) | 3:22 |
+| 74 | [數到五答應我](https://open.spotify.com/track/5uWgSWwQhMcSeL21Fg6t2h) | [Gary Chaw](https://open.spotify.com/artist/1mfzcypCggFwpCJ1gmi8BK) | [格格blue](https://open.spotify.com/album/6HveSS0Oh0HQgtV1RKxgHX) | 4:29 |
+| 75 | [All Day](https://open.spotify.com/track/3GiKSXaBGNv2OoDY4rzCIL) | [五堅情WOLF\(S\) \(邱鋒澤、陳零九、黃偉晉、賴晏駒、婁峻碩\)](https://open.spotify.com/artist/7H6h9MXX9ms8IV2QGLrQSp) | [All Day](https://open.spotify.com/album/7tYX5AcNTJgfF3tRomb7pU) | 3:26 |
 
-Snapshot ID: `MTY2Mjk2NjgzOSwwMDAwMDAwMDc5MjNmNWE3MzMzNzJkY2E5NzM3YjlkNjMyOGU5MGEw`
+Snapshot ID: `MTY2Mjk2NjgzOSwwMDAwMDAwMDUwYTE0ZTRkNTA3NGI2NzkwMjNkZTM0ZTg5Mjk4Mjky`

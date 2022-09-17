@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 2010s rock!  Cover: Papa Roach.
 
-519 songs - 1 day 8 hr 32 min - [published](https://open.spotify.com/playlist/6ihczCtWEYpK0uNMkSCVwY)
+520 songs - 1 day 8 hr 36 min - [published](https://open.spotify.com/playlist/6ihczCtWEYpK0uNMkSCVwY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -309,7 +309,7 @@
 | [Money Run Low](https://open.spotify.com/track/3LhGRE7ZNOEZhrqazWMYRI) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [ATLAS \(Deluxe\)](https://open.spotify.com/album/2estDSavGQ2q3IHLbzxkSE) | 3:05 | 2022-05-25 |  |
 | [Mother](https://open.spotify.com/track/0Rzhp7yczZfx4LuMM2wDcL) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [Future Dust](https://open.spotify.com/album/7sRAdyIMXnDLFiC6sVo2ke) | 4:46 | 2022-05-25 | 2022-07-02 |
 | [Mouth Of The River](https://open.spotify.com/track/1dekgAFF9uTCqLsklDaCWb) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) | 3:41 | 2022-05-25 |  |
-| [Move](https://open.spotify.com/track/4vuJuTLFomqItDrn482nzV) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [saintmotelevision](https://open.spotify.com/album/43URJ507cdoIRy3GJdfxjs) | 3:07 | 2022-05-25 |  |
+| [Move](https://open.spotify.com/track/4vuJuTLFomqItDrn482nzV) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [saintmotelevision](https://open.spotify.com/album/43URJ507cdoIRy3GJdfxjs) | 3:07 | 2022-05-25 | 2022-09-17 |
 | [Move Your Body](https://open.spotify.com/track/29JkmIEHcUg0R4BQ8o4PmJ) | [My Darkest Days](https://open.spotify.com/artist/64g59lHsc4g2jMFokrKDGW) | [My Darkest Days](https://open.spotify.com/album/2vFTIDhi10W1AdzL6GKpgO) | 3:13 | 2022-05-25 |  |
 | [Moving On](https://open.spotify.com/track/7IiqF2tYiixnpBcFjkocjA) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [From Death To Destiny](https://open.spotify.com/album/3yPGBS6p3GyFb9EySzFyYi) | 4:02 | 2022-05-25 |  |
 | [My Body](https://open.spotify.com/track/0vz75UFiIRLKJJiBqZ8rc8) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Outlaw Gentlemen & Shady Ladies](https://open.spotify.com/album/0MNiO7qCmDHphcsefaAjEy) | 3:41 | 2022-05-25 | 2022-07-26 |
@@ -404,6 +404,7 @@
 | [Set Me On Fire](https://open.spotify.com/track/1NMXkYmP983tmztiArxJEn) | [Flyleaf](https://open.spotify.com/artist/4IliztYDlfMvzQzbx50o60) | [Between The Stars \(Special Edition\)](https://open.spotify.com/album/1EYbyqvfyrxskx1jniA0Gq) | 3:37 | 2022-05-25 | 2022-07-29 |
 | [Sex](https://open.spotify.com/track/0wIFAHbaUucA8mog7Y2IDD) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975](https://open.spotify.com/album/33ZqJmmqFE8Z7Ak1Lxbnfb) | 3:26 | 2022-05-25 |  |
 | [She Got Arrested](https://open.spotify.com/track/2MWC3IWfhh3IteOUPbtogB) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Say It Out Loud](https://open.spotify.com/album/5vFP4PaGtuIccr1hW1PQKs) | 3:25 | 2022-05-25 | 2022-07-26 |
+| [She Keeps Me Up](https://open.spotify.com/track/6I0ivNW5YryeC3GQn56NAy) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [No Fixed Address](https://open.spotify.com/album/2mepXKJlgU28VBwkSXjWfY) | 3:57 | 2022-09-16 |  |
 | [She's Out Of Her Mind](https://open.spotify.com/track/6EE19skJ32p58xihYj2Waa) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [California](https://open.spotify.com/album/4wuYQ9hyF1EGmrtjMpgpE9) | 2:42 | 2022-05-25 |  |
 | [She's so Mean](https://open.spotify.com/track/2toY6JyyfKy9TwNk3Ou2XG) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [North \(Deluxe Edition\)](https://open.spotify.com/album/3JdxPzUYUcVeRgfdOGXZLC) | 3:52 | 2022-05-25 |  |
 | [She's The Woman](https://open.spotify.com/track/0F8dNt3aLVFlQpeoUGOv1n) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [A Different Kind Of Truth](https://open.spotify.com/album/5ydOKnIrXsv7AziaSpRzZU) | 2:56 | 2022-05-25 | 2022-07-26 |

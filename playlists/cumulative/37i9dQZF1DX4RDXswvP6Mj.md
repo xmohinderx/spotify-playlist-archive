@@ -2,9 +2,9 @@
 
 ### [K\-Club Party](https://open.spotify.com/playlist/37i9dQZF1DX4RDXswvP6Mj)
 
-> Let's party & clubbing with your favorite K\-pop dance hits!! \(Cover: YOUHA\(유하\)\) \[지금 가장 핫한 댄스곡들을 만나보세요.\]
+> Let's party & clubbing with your favorite K\-pop dance hits!! \(Cover: mimiirose\(미미로즈\)\) \[지금 가장 핫한 댄스곡들을 만나보세요.\]
 
-492 songs - 1 day 3 hr 10 min - [published](https://open.spotify.com/playlist/0IIEvRANFzgYAa88SFKSJA)
+494 songs - 1 day 3 hr 16 min - [published](https://open.spotify.com/playlist/0IIEvRANFzgYAa88SFKSJA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,7 +256,7 @@
 | [La Luna](https://open.spotify.com/track/211bSRBUn8BeVFjWCd1H0o) | [HA:TFELT](https://open.spotify.com/artist/3Mrp5B6JdfoiObgY0WR8lF) | [La Luna](https://open.spotify.com/album/7CQBxDLDkce9zO68YmcVGg) | 3:26 | 2022-01-03 | 2022-04-19 |
 | [LALISA](https://open.spotify.com/track/2KZ3sNqPogEyMUUH6A5HFy) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/4ASxFYWyk2216OloHoaSh8) | 3:20 | 2021-12-21 | 2022-07-29 |
 | [LALISA](https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 3:20 | 2022-01-03 |  |
-| [Last Dance](https://open.spotify.com/track/1bOS0JdXxmTWwlUxXX7gRG) | [YOUHA](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan) | [love you more,](https://open.spotify.com/album/3g2OiEeQKfggUe6ViYeLSC) | 3:12 | 2022-08-25 |  |
+| [Last Dance](https://open.spotify.com/track/1bOS0JdXxmTWwlUxXX7gRG) | [YOUHA](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan) | [love you more,](https://open.spotify.com/album/3g2OiEeQKfggUe6ViYeLSC) | 3:12 | 2022-08-25 | 2022-09-17 |
 | [LAST PIECE](https://open.spotify.com/track/6xrjIHbm6ga5J8HhOS2Rmn) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Breath of Love: Last Piece](https://open.spotify.com/album/5vL6vinpOUVWOV2T8VjL4H) | 3:42 | 2022-03-24 | 2022-04-13 |
 | [Last Sequence](https://open.spotify.com/track/0lNPjT58llQGlycRA2mea4) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [Sequence](https://open.spotify.com/album/2Cv3xionHF2O7QL8p6MbCT) | 3:07 | 2022-07-05 | 2022-07-28 |
 | [Left & Right](https://open.spotify.com/track/66orj0qtDgnU6DlmllAxbq) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Heng:garæ](https://open.spotify.com/album/3tWstxfjHMtqt2ZsRvhlYy) | 3:21 | 2022-01-03 | 2022-07-25 |
@@ -353,7 +353,7 @@
 | [POSE](https://open.spotify.com/track/68uh5xnLjXyA9WWs4NmcK0) | [Kino](https://open.spotify.com/artist/5cxj1DT5cqB6uSkq3Kl4IL) | [POSE](https://open.spotify.com/album/1qYWzICAQInecG2BzT5Qkf) | 2:59 | 2022-08-09 | 2022-08-19 |
 | [pporappippam 보라빛 밤](https://open.spotify.com/track/7oQh96s9YemWG3A4zkIbrU) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [pporappippam 보라빛 밤](https://open.spotify.com/album/5IKVYCIhY5SyMhj1cYovz3) | 3:26 | 2022-02-16 | 2022-06-22 |
 | [PRESENTE](https://open.spotify.com/track/1oaVw7Y6RnvZlneLjAMLic) | [777 \(Triple Seven\)](https://open.spotify.com/artist/1Y5rgGFlx3ws6zMNoqxa4G) | [PRESENTE](https://open.spotify.com/album/4ZLRadM9Wi5L4mCEHGi4Xt) | 3:14 | 2022-01-18 | 2022-05-04 |
-| [Pretty Savage](https://open.spotify.com/track/1XnpzbOGptRwfJhZgLbmSr) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 3:21 | 2021-12-21 |  |
+| [Pretty Savage](https://open.spotify.com/track/1XnpzbOGptRwfJhZgLbmSr) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 3:21 | 2021-12-21 | 2022-09-17 |
 | [PROMISE \(for UNICEF Promise Campaign\)](https://open.spotify.com/track/2Gceplet3jzhweUib54mhf) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [EVERGLOW FOR UNICEF PROMISE CAMPAIGN](https://open.spotify.com/album/1Sp9Cm6n0ZzTAuwAKCS0Wd) | 3:34 | 2022-01-03 | 2022-06-23 |
 | [PTT \(Paint The Town\)](https://open.spotify.com/track/5awNIWVrh2ISfvPd5IUZNh) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [\[&\]](https://open.spotify.com/album/747FhjbZXy5H8frCZ90eDv) | 3:21 | 2021-12-29 | 2022-05-27 |
 | [Punch](https://open.spotify.com/track/0O22hXRIdbyrnMQk7VldC9) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Neo Zone: The Final Round \- The 2nd Album Repackage](https://open.spotify.com/album/64F7bFLt8ULAfBl2L4Pyv4) | 3:24 | 2022-03-29 | 2022-03-31 |
@@ -377,6 +377,7 @@
 | [Roller Coaster](https://open.spotify.com/track/6DIW7GJbuGZdHolRcPWprP) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Offset](https://open.spotify.com/album/04TsF8IFb70DdBYDT8egvw) | 3:32 | 2022-04-05 | 2022-06-15 |
 | [Rollin'](https://open.spotify.com/track/2VJOpzv5sBpstCX9venJr5) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Rollin'](https://open.spotify.com/album/0mOAG4DOqKvV7uwDhlpFMm) | 3:17 | 2021-12-21 | 2022-07-17 |
 | [Rollin' \(New Version\)](https://open.spotify.com/track/7DkqdEiDja7Gn9zvrfy7Vw) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Rollin' \(New Version\)](https://open.spotify.com/album/4xmh2xJI6SENhp5cvXiynw) | 3:21 | 2021-12-29 | 2022-04-12 |
+| [Rose](https://open.spotify.com/track/6b5Kmj5Ie3kCxYMQbdq6RQ) | [mimiirose](https://open.spotify.com/artist/3699Hh55qWXd0kWWMWRR2o) | [AWESOME](https://open.spotify.com/album/2Y7ZSdUNntl5exBCzcBLvz) | 3:25 | 2022-09-16 |  |
 | [Rumor](https://open.spotify.com/track/7jctPW5gAlj07A69fzS8m1) | [H.I.N.P \(Hot Issue of Ntl\. Producers\)](https://open.spotify.com/artist/2eRjqXdTsssjpimRlz1i41) | [PRODUCE 48 \- 30 Girls 6 Concepts](https://open.spotify.com/album/1WzVAxZWm3JDNbI0jzk0dF) | 3:17 | 2022-03-24 | 2022-03-28 |
 | [RUN](https://open.spotify.com/track/4gHUimlUJuaZMn1E7mFBvt) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [RUN](https://open.spotify.com/album/5WQdyEPsMtXtFIldEhgqpF) | 3:15 | 2022-07-07 | 2022-07-14 |
 | [Run BTS](https://open.spotify.com/track/69xohKu8C1fsflYAiSNbwM) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:24 | 2022-06-10 |  |
@@ -385,7 +386,7 @@
 | [Rush Hour](https://open.spotify.com/track/1Goejji6m1d0s0cv4OnL7f) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [NO LIMIT](https://open.spotify.com/album/7C4wO7npFwUlVgNye4hbII) | 3:22 | 2022-01-14 | 2022-07-20 |
 | [Sacrifice](https://open.spotify.com/track/7sbNbeqpYvXJW38ILRObkm) | [Han Seungwoo](https://open.spotify.com/artist/2RSsuFG2pkU9sGZ85UzFgl) | [Fame](https://open.spotify.com/album/75CKaNcbDZ7su55IJexkdS) | 3:14 | 2021-12-21 | 2022-04-12 |
 | [Sand Castle](https://open.spotify.com/track/2G19DMmKrSa1IgZrY7gVZo) | [UNVS](https://open.spotify.com/artist/026a7U6QVOMT4LRfaaNhQX) | [Sand Castle](https://open.spotify.com/album/0Vbt4yHVhxAPCKAPtj6Lc0) | 3:34 | 2022-03-24 | 2022-04-13 |
-| [Savage](https://open.spotify.com/track/3dbLT62Cvs46Ju7a8gpr36) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Savage \- The 1st Mini Album](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) | 3:58 | 2021-12-21 | 2022-09-09 |
+| [Savage](https://open.spotify.com/track/3dbLT62Cvs46Ju7a8gpr36) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Savage \- The 1st Mini Album](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) | 3:58 | 2021-12-21 |  |
 | [Save](https://open.spotify.com/track/0nW8KgIzm3Q6DCLHUtEHDh) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Save](https://open.spotify.com/album/7HrXypd91EpZ4QswijHnhQ) | 3:21 | 2021-12-21 | 2022-05-13 |
 | [SCIENTIST](https://open.spotify.com/track/0BJMgVrnWIvgYsjq8KaPeh) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 3:14 | 2021-12-21 | 2022-07-29 |
 | [SCREAM](https://open.spotify.com/track/0FaeA2jhqji5fwSdIavSyU) | [SF9](https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X) | [THE WAVE OF9](https://open.spotify.com/album/4bE85rfnrEXYRvqrEhEJAn) | 3:08 | 2022-07-13 | 2022-07-21 |
@@ -395,6 +396,7 @@
 | [Secret Triangle \- OFF Team Version](https://open.spotify.com/track/52aCoiaQJEz2UzEUROUOqN) | [ONF](https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b) | [ONF:MY NAME](https://open.spotify.com/album/3GfY1xWWL7Lnh0Wn1WGwc3) | 3:02 | 2022-03-31 | 2022-04-17 |
 | [Serious](https://open.spotify.com/track/59RTmOmr6G0Ly0MIJqKn1f) | [PARK JI HOON](https://open.spotify.com/artist/0tBYMeHDDJCzRuREuCTWi7) | [HOT&COLD](https://open.spotify.com/album/58ExAS9X4jUAtZLBGoBfOJ) | 3:14 | 2022-03-24 | 2022-04-17 |
 | [Show Your Love](https://open.spotify.com/track/1VG2YcjPA6XQtiJOoCx9zu) | [BTOB 4U](https://open.spotify.com/artist/29txRD4cY4geQXKUZvmseW) | [INSIDE](https://open.spotify.com/album/4hqp6ROKgjybbv6zsDkcwb) | 3:11 | 2022-03-31 | 2022-04-15 |
+| [Shut Down](https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 2:55 | 2022-09-16 |  |
 | [Side Effect \(feat\. MIYEON \(\(G\)I\-DLE\)\)](https://open.spotify.com/track/4bEQRIAxd6pRg4t32yzdge) | [Raiden](https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ), [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [Love Right Back \- The 1st Mini Album](https://open.spotify.com/album/06qTl39RYzpAI13SUQzwvV) | 2:56 | 2022-04-05 | 2022-04-14 |
 | [Siesta](https://open.spotify.com/track/0Lv8nIY6aeJfERMDVTBKHb) | [Weki Meki](https://open.spotify.com/artist/5LWkv2hDbDwZL3zNwZYNPx) | [I AM ME.](https://open.spotify.com/album/5nm3lAFvYrzM5aYmPw7JyB) | 3:54 | 2021-12-29 | 2022-07-23 |
 | [Siren](https://open.spotify.com/track/1gsb4CFzUMERAkfzAKwrZu) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [WARNING](https://open.spotify.com/album/75eIP5pPvtQCB0bAz2TEsU) | 3:17 | 2022-03-24 | 2022-04-21 |
@@ -481,7 +483,7 @@
 | [What Type of X](https://open.spotify.com/track/0LweQRsfJ3pRAJJFy6DrR1) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [What Type of X](https://open.spotify.com/album/5uKW3bLhtPgOev6tKRFJpX) | 3:18 | 2022-01-25 | 2022-04-10 |
 | [What You Waiting For](https://open.spotify.com/track/4CoxD8tetisleUQDA7vn1B) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [What You Waiting For](https://open.spotify.com/album/59iiiARciChm70cn85wxuH) | 2:55 | 2021-12-29 | 2022-07-16 |
 | [WHAT'S GOIN' ON](https://open.spotify.com/track/5RYFLurX0Vg85bgnClS6im) | [OMEGA X](https://open.spotify.com/artist/2FJYWlqgtoiBtXpOy9GGIF) | [1st Single Album \[WHAT'S GOIN' ON\]](https://open.spotify.com/album/0DYLNTiiA03sjrXPHDaU7z) | 3:11 | 2022-03-31 | 2022-04-16 |
-| [WHISPER](https://open.spotify.com/track/52uklJhyhJbLvHrgkiqCaW) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 7TH MINI ALBUM \[BE AWARE\]](https://open.spotify.com/album/6D8I9oW0ALsppfPzY9ysXR) | 3:11 | 2022-08-18 |  |
+| [WHISPER](https://open.spotify.com/track/52uklJhyhJbLvHrgkiqCaW) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 7TH MINI ALBUM \[BE AWARE\]](https://open.spotify.com/album/6D8I9oW0ALsppfPzY9ysXR) | 3:11 | 2022-08-18 | 2022-09-17 |
 | [White Noise](https://open.spotify.com/track/7kQJxUaF3ngqWry2ulorVE) | [AMBER](https://open.spotify.com/artist/6vPzAqZDXQgLTEn8pjp4jY) | [WHITE NOISE + LOST AT SEA](https://open.spotify.com/album/1aGrK54HGmEdrOeJjAAxPR) | 3:41 | 2022-03-31 | 2022-04-14 |
 | [Who Dis?](https://open.spotify.com/track/6loyhEAW2QFgQnvorXzsXn) | [SECRET NUMBER](https://open.spotify.com/artist/7qxo9RTWfEoFKN7XGtNV6V) | [Who Dis?](https://open.spotify.com/album/38QTDwD7IM2EZuiUMII6uA) | 3:14 | 2022-03-24 | 2022-04-07 |
 | [Who U Are](https://open.spotify.com/track/6C9dV3oVFBYZ3CShCU300P) | [KANG DANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [MAGENTA](https://open.spotify.com/album/7L2jDMk6IZChhMxPdJMJ6i) | 3:22 | 2022-03-31 | 2022-04-16 |

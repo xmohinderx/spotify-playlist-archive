@@ -2,9 +2,9 @@
 
 ### [Texas Country Now](https://open.spotify.com/playlist/37i9dQZF1DX3Ee0ngF5ZVQ)
 
-> New and trending tracks from Texas Country icons and rising stars\. Cover: Pat Green
+> New and trending tracks from Texas Country icons and rising stars\. Cover: Koe Wetzel
 
-356 songs - 21 hr 17 min - [published](https://open.spotify.com/playlist/4X9VlF1gslCvOG5f1Uvt9a)
+358 songs - 21 hr 24 min - [published](https://open.spotify.com/playlist/4X9VlF1gslCvOG5f1Uvt9a)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [Come Back Down](https://open.spotify.com/track/5rOaX636W0AaVdVMFO59cp) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Come Back Down](https://open.spotify.com/album/5JrajF3ctdyubuRCrNeTrf) | 4:33 | 2021-12-17 | 2022-01-08 |
 | [Cotton Candy Sky](https://open.spotify.com/track/05AxzTMO583gtJiga8c2GK) | [Rachel LaRen](https://open.spotify.com/artist/52mZQzoHHS6rWygkzKuZFv) | [Cotton Candy Sky](https://open.spotify.com/album/6TYFWZO2oLIa8cY3hBSh5t) | 2:28 | 2022-05-20 | 2022-07-09 |
 | [Country Like You](https://open.spotify.com/track/0c3YD78qj2UlCClyVuw2sx) | [Chad Cooke Band](https://open.spotify.com/artist/7BFmW9uJ3wCZmZxpr03u0H) | [Country Like You](https://open.spotify.com/album/66Li9RsTsw3WRc4fIHJbAS) | 3:59 | 2022-03-18 | 2022-07-27 |
-| [Cow Pissin'](https://open.spotify.com/track/3PNamkV6w2LbcYX6mdZKgv) | [Carson Jeffrey](https://open.spotify.com/artist/4wDMfwJrSuFKolGyGC5K1l) | [Cow Pissin'](https://open.spotify.com/album/6JlPe2irVAqKKas5JYi1Oj) | 3:37 | 2022-08-05 |  |
+| [Cow Pissin'](https://open.spotify.com/track/3PNamkV6w2LbcYX6mdZKgv) | [Carson Jeffrey](https://open.spotify.com/artist/4wDMfwJrSuFKolGyGC5K1l) | [Cow Pissin'](https://open.spotify.com/album/6JlPe2irVAqKKas5JYi1Oj) | 3:37 | 2022-08-05 | 2022-09-17 |
 | [Cowboys & Tequila](https://open.spotify.com/track/0R4SGCi7wBvjhnZvuWEXkI) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [Cowboys & Tequila](https://open.spotify.com/album/3REWO8PbGAiEaOu9t6Zef0) | 3:31 | 2022-05-06 | 2022-07-29 |
 | [Cowboys Don't Cry](https://open.spotify.com/track/5hy7nPUIveNGkYEesMv0Is) | [Robert Earl Keen](https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP) | [Cowboys Don't Cry](https://open.spotify.com/album/0o3FJ4yBDliI6vZjsMVWGE) | 3:09 | 2022-07-22 |  |
 | [Crash Landing](https://open.spotify.com/track/4gvIiHEnw4a9kBFefzVYfC) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [Crash Landing](https://open.spotify.com/album/1uP0ZFi3vsQwBnhPxJaIwG) | 3:24 | 2021-12-17 | 2022-03-19 |
@@ -101,6 +101,7 @@
 | [Daylight](https://open.spotify.com/track/5OwSp5FmqDZBRujGW3PmSs) | [The Lowdown Drifters](https://open.spotify.com/artist/49tymMExHfzPYTfTRA3FaG) | [Cheating On A Memory Chapter 2](https://open.spotify.com/album/5oowEIqLmL9uBRPzXfPBXr) | 3:34 | 2022-08-19 | 2022-09-15 |
 | [Deconstruction of a Heartache](https://open.spotify.com/track/22OAfJb7n2uHuUkyfhBnk0) | [Amanda Kate Ferris](https://open.spotify.com/artist/70fLCgRxbluMfGRaiWAr49) | [Amanda Kate](https://open.spotify.com/album/5gyxMSvCLHNeS8IPLBAXQ1) | 3:34 | 2021-12-17 | 2022-08-14 |
 | [Devil's Den](https://open.spotify.com/track/3lBvbmPoXdmlDZrHYxxnu0) | [Josh Meloy](https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq) | [Devil's Den](https://open.spotify.com/album/5y65PMxRxf3VIgrC0BBViv) | 3:52 | 2022-02-04 | 2022-03-19 |
+| [Die Runnin'](https://open.spotify.com/track/7oWzVNBs8OUqXzfp8Psbxg) | [Mike Ryan](https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh) | [Die Runnin'](https://open.spotify.com/album/6cB7PMBtBbBERIL8Aru4S5) | 3:11 | 2022-09-16 |  |
 | [Different Now](https://open.spotify.com/track/50F1kaXRx8Ns8PvZDj3ZLR) | [Cody Hibbard](https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5) | [Different Now](https://open.spotify.com/album/7uMjBi7VLbpjEQOgNcTSI7) | 3:09 | 2022-08-05 |  |
 | [Don't Do It In Texas](https://open.spotify.com/track/0fCzJ0moRAJyt03FFbdZT3) | [Catie Offerman](https://open.spotify.com/artist/5uB8p8cO6UniAn2rnOsaXT) | [Don't Do It In Texas](https://open.spotify.com/album/2jPUGtTyhOEhG9V6sy5SeP) | 4:25 | 2022-05-20 |  |
 | [Don't Hold Your Breath](https://open.spotify.com/track/120dlF8jwNeOKgjmLsL25m) | [Gunnar Latham](https://open.spotify.com/artist/7D4Tp8mNvYMeE6xMDSTlU4) | [Don't Hold Your Breath](https://open.spotify.com/album/6G12HHIVDRBxhwVEHf6xJz) | 3:46 | 2022-03-11 | 2022-07-25 |
@@ -183,7 +184,7 @@
 | [I'm Not Him](https://open.spotify.com/track/6nuOYIRmlyQIBZZ11Zmmr0) | [Braxton Keith](https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf) | [I'm Not Him](https://open.spotify.com/album/5WIjwjbdNGAbATC0iSnyO7) | 3:15 | 2022-06-10 | 2022-08-30 |
 | [If I Know You](https://open.spotify.com/track/66Owg4vn0ZoqbMwrwqj4Eo) | [Hayden McBride](https://open.spotify.com/artist/5OprlGplkFPge47AnclgTq), [Holly Beth](https://open.spotify.com/artist/0N1Mo7HAAXKXmkNGlpDpsq) | [Worth the Wait](https://open.spotify.com/album/7AnxH98jDzr062djBBa4ko) | 3:44 | 2021-12-17 | 2022-07-29 |
 | [If I Lived Here](https://open.spotify.com/track/2jc2BVAr4FPqYowcXoDTlD) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [The Last Resort: Greetings From](https://open.spotify.com/album/6qURbeUcbhHdGXDAUzZcag) | 3:49 | 2022-05-06 |  |
-| [If It Don't Have a Honky Tonk](https://open.spotify.com/track/1cb6MOfdZffj4i0e681VGL) | [Pat Green](https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX) | [If It Don't Have a Honky Tonk](https://open.spotify.com/album/2qcBsICzPfGOWyKDyoxhK5) | 3:24 | 2022-07-15 |  |
+| [If It Don't Have a Honky Tonk](https://open.spotify.com/track/1cb6MOfdZffj4i0e681VGL) | [Pat Green](https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX) | [If It Don't Have a Honky Tonk](https://open.spotify.com/album/2qcBsICzPfGOWyKDyoxhK5) | 3:24 | 2022-07-15 | 2022-09-17 |
 | [If You Want It That Much](https://open.spotify.com/track/6h6uTeYywawEahrjFs2gYz) | [Cody Canada & The Departed](https://open.spotify.com/artist/0sNgjo2IC4YgJr6MF1bFS0) | [If You Want It That Much](https://open.spotify.com/album/5t1em5qrINtpfYgX9y7Qc8) | 3:34 | 2022-02-11 | 2022-07-29 |
 | [In the Dark](https://open.spotify.com/track/7nlNwrNlmvOZVBuP00ax0v) | [William Beckmann](https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb) | [In the Dark](https://open.spotify.com/album/3X6pi4gHeBN14Lt9ItfOiX) | 3:52 | 2021-12-17 | 2022-03-19 |
 | [It Wasn’t Love](https://open.spotify.com/track/5B3loG5N0IdvkrEWQlVwCh) | [Larissa Boyd](https://open.spotify.com/artist/76BLe6Ojs4hwzg9xOkOagD) | [It Wasn’t Love](https://open.spotify.com/album/4xpeLcxmn097Fo2YknqVv1) | 4:05 | 2022-05-27 |  |
@@ -242,6 +243,7 @@
 | [Outlaw Angel](https://open.spotify.com/track/3hvugLbmjKHMf1qQijX99W) | [Joey Greer](https://open.spotify.com/artist/0ZvGvF2SeEeUUTV8NlIXn4) | [Outlaw Angel](https://open.spotify.com/album/04HvbuaquvTZlfBDWi0Eqf) | 2:58 | 2021-12-17 | 2022-03-19 |
 | [Outta the Country](https://open.spotify.com/track/7K4yuNVRCq5sAzXvAwwFdN) | [Cian Pedersen](https://open.spotify.com/artist/55iTDt1OrQMIHMNKHUPAaQ) | [Outta the Country](https://open.spotify.com/album/7l1wjpNRumuHLvNrIMdzQ6) | 3:12 | 2022-05-27 | 2022-07-09 |
 | [Peace and Quiet](https://open.spotify.com/track/5gyC7qx0Cc6SF98AmchcoT) | [Drew Kennedy](https://open.spotify.com/artist/6nxLsUCzEsyK6B4nIqZFmT) | [Peace and Quiet](https://open.spotify.com/album/6SiiVm6Fp8U8onjRUtR2mT) | 3:50 | 2022-05-20 | 2022-07-09 |
+| [People Who Care](https://open.spotify.com/track/1SMZouFRcuhqr9ugQXBn6W) | [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [People Who Care](https://open.spotify.com/album/2hP994b52nHVX3RCHYiuAV) | 3:41 | 2022-09-16 |  |
 | [Phones Don't Work](https://open.spotify.com/track/20XMAhJsX2qZtzfaCxn9Ml) | [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [Where Phones Don't Work](https://open.spotify.com/album/0VNn10LfXJkzFLdk3l9RNQ) | 3:33 | 2021-12-17 | 2022-03-19 |
 | [Picture](https://open.spotify.com/track/7HiD3Ladm1RrQuGgkDPPyl) | [Cade Holliday](https://open.spotify.com/artist/0QNq5Ld1iY0TrzmnABZg61) | [Burn Down EP](https://open.spotify.com/album/5h68tKi4xydtyM7NJiAEGG) | 3:24 | 2021-12-17 | 2022-01-08 |
 | [Picture Frames](https://open.spotify.com/track/5BdubaMMmTMJGit2D5Sw0b) | [Randy Rogers Band](https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3) | [Picture Frames](https://open.spotify.com/album/2EMEIbtBzUveg1CJIFrtXD) | 3:16 | 2021-12-17 | 2022-06-18 |

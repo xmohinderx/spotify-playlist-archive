@@ -4,7 +4,7 @@
 
 > Whether you're lounging at home or out with your friends, let this playlist provide your soundtrack.
 
-71 songs - 4 hr 6 min - [published](https://open.spotify.com/playlist/7okhrNisMIylwZHgFGUJed)
+72 songs - 4 hr 10 min - [published](https://open.spotify.com/playlist/7okhrNisMIylwZHgFGUJed)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [On My Shit \(feat\. Joey Bada$$\)](https://open.spotify.com/track/4Mj9FULUmiSVbcN0EcWo5r) | [Phony Ppl](https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [On My Shit \(feat\. Joey Bada$$\)](https://open.spotify.com/album/3W3oMpBoKd5sISjqByge4g) | 3:26 | 2021-10-22 |  |
 | [Only You](https://open.spotify.com/track/4AvOXTQ2semU5FAmtl8vtk) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Only You](https://open.spotify.com/album/3rdIkWOlV1MfsZ5qmQ7Us5) | 3:14 | 2021-10-22 | 2022-07-29 |
 | [Only You](https://open.spotify.com/track/5MUvzjJ2XXvPZq3KU6znpP) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Rare Changes](https://open.spotify.com/album/7pue5cbfa0TUgCUth2KFr8) | 3:14 | 2022-02-18 |  |
+| [ONLY\-1](https://open.spotify.com/track/38N8M1Zr80OELCoPelAUBP) | [DIXSON](https://open.spotify.com/artist/61677A13kBwbTfqECI65p8) | [004DAISY](https://open.spotify.com/album/24e0sHcaegLydaqZGRwJ1e) | 3:38 | 2022-09-16 |  |
 | [Out Of Love](https://open.spotify.com/track/3hNywmR93yvj68y2zl8mRt) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK), [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Eddie](https://open.spotify.com/album/5FTrv0ut24vm76hx1WuWSN) | 4:50 | 2021-10-22 |  |
 | [Phone Dies \(feat\. Refi Sings\)](https://open.spotify.com/track/1I00qI4bQZyKSQ5G5AnKcv) | [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe), [Refi Sings](https://open.spotify.com/artist/15X73vdLvKcEwXjB37sOIU) | [Phone Dies \(feat\. Refi Sings\)](https://open.spotify.com/album/6GMRzxqK9FZGpUzXwY24Vg) | 3:55 | 2021-10-22 |  |
 | [Pineapple Cognac](https://open.spotify.com/track/6WWBltBaOkJ7qpcNVO4jeV) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Pineapple Cognac](https://open.spotify.com/album/29R9YV27YP2ZZI7P8x58mM) | 2:14 | 2022-07-22 |  |

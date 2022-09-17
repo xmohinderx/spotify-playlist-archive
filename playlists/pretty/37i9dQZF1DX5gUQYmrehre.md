@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gUQYmrehre.md) - [plain]
 
 > Cutting edge LGBTQQIA+ artists from around the world\. Cover: Nakhane
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,204 likes - 90 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,211 likes - 90 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gUQYmrehre.md) - [plain]
 | 24 | [Fire Hell and Holy Water](https://open.spotify.com/track/4SYimShElVVtc8kJugUqRk) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [Fire Hell and Holy Water](https://open.spotify.com/album/0ACpKT6fUe797PKXB0ywbe) | 3:28 |
 | 25 | [Qué Maldición](https://open.spotify.com/track/4DNnkNigVl4Dc5Ja4BvKH9) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY), [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg) | [Qué Maldición](https://open.spotify.com/album/34b6Qme3ZOs6jrgx0BWV3O) | 3:09 |
 | 26 | [Vest & Boxers](https://open.spotify.com/track/6f2877TmbjnqZEqeQEGi3o) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Vest & Boxers](https://open.spotify.com/album/1Grk1vw2BVPcwvci9xcHy1) | 2:57 |
-| 27 | [I.M](https://open.spotify.com/track/4Bpz4FBsoe9lhuiCWZv21x) | [Michael Ben David](https://open.spotify.com/artist/3ZOg74Rm98FXI86cSo0nIk) | [I.M](https://open.spotify.com/album/4J7CE59Na4Zkp7vGecENrX) | 2:43 |
-| 28 | [Vocales](https://open.spotify.com/track/4oV82xuYkYgyM2nBfbidjA) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Vocales](https://open.spotify.com/album/6a1zIS0OherGFOxGYbIldZ) | 2:38 |
+| 27 | [Vocales](https://open.spotify.com/track/4oV82xuYkYgyM2nBfbidjA) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Vocales](https://open.spotify.com/album/6a1zIS0OherGFOxGYbIldZ) | 2:38 |
+| 28 | [I.M](https://open.spotify.com/track/4Bpz4FBsoe9lhuiCWZv21x) | [Michael Ben David](https://open.spotify.com/artist/3ZOg74Rm98FXI86cSo0nIk) | [I.M](https://open.spotify.com/album/4J7CE59Na4Zkp7vGecENrX) | 2:43 |
 | 29 | [Je ne sais quoi](https://open.spotify.com/track/789gHumetKnbAJhFMBjMWj) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [HER MIND, PT\. 1](https://open.spotify.com/album/5ELO3riWbb2MbJyZYilN7D) | 2:18 |
 | 30 | [Cicada \(feat\. Arca\)](https://open.spotify.com/track/1r4MvTc1gwfHdt2TuMMYx0) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077), [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Romeo](https://open.spotify.com/album/0dXxoVKkKfIFVgGO2FUu2u) | 3:53 |
 | 31 | [Niets Tussen](https://open.spotify.com/track/0keQSnGOvLLWZtbVS6kKyY) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Uitzinnig](https://open.spotify.com/album/1uAimajt3zW6EGLIE83jnc) | 2:59 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gUQYmrehre.md) - [plain]
 | 49 | [Sugarcoat](https://open.spotify.com/track/0QZXe8qvnNNXPgxrgWxPAv) | [Melanie Wehbe](https://open.spotify.com/artist/1cLipMi0mKHQft01CiTuGn) | [Sugarcoat](https://open.spotify.com/album/3PxDqpm3zy3vS7WSpxQMuh) | 2:25 |
 | 50 | [True Love to the Grave \(feat\. Claudia Kane\)](https://open.spotify.com/track/7fAIvRHDjuIZLK14loAHZn) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2), [Claudia Kane](https://open.spotify.com/artist/4UazGkNTyhQw8UDtJVhd82) | [Night Creature](https://open.spotify.com/album/7f74ViVWoWCIdBaRzKjpuu) | 3:11 |
 | 51 | [Baby, We're Ascending](https://open.spotify.com/track/614NfZjf8rMY2bErgwhzR5) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Baby, We're Ascending](https://open.spotify.com/album/7FlN0x6yjToDvOIjpuIm48) | 6:27 |
-| 52 | [Hauntology](https://open.spotify.com/track/7psLe6PhPQZm3B7nqaD3l8) | [Lauren Auder](https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL) | [Hauntology](https://open.spotify.com/album/3pvwLH6Zu6JCrpBCk8XkBG) | 3:59 |
-| 53 | [More Than a Friend](https://open.spotify.com/track/5tWbWj3DR3chA9k6rHp8Jd) | [GIRLI](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [Damsel in Distress](https://open.spotify.com/album/0yRDXJyXgyTbBqqONVcX27) | 2:55 |
+| 52 | [More Than a Friend](https://open.spotify.com/track/5tWbWj3DR3chA9k6rHp8Jd) | [GIRLI](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [Damsel in Distress](https://open.spotify.com/album/0yRDXJyXgyTbBqqONVcX27) | 2:55 |
+| 53 | [Hauntology](https://open.spotify.com/track/7psLe6PhPQZm3B7nqaD3l8) | [Lauren Auder](https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL) | [Hauntology](https://open.spotify.com/album/3pvwLH6Zu6JCrpBCk8XkBG) | 3:59 |
 | 54 | [un chupito de ti](https://open.spotify.com/track/2W6euU7DSJPgV7J3vuXsyI) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [cuando anochece](https://open.spotify.com/album/7eHcyieJB26H23zZMBZqXY) | 2:37 |
 | 55 | [Fool](https://open.spotify.com/track/0f11SeNBfLiQPaOmPOCpNx) | [Martha Da'ro](https://open.spotify.com/artist/312xfcd1WbKDhBnqPxjXVl) | [Fool](https://open.spotify.com/album/17ohhtU5qAkiGtgkGmvndK) | 3:30 |
 | 56 | [HUNTER SCHAFER](https://open.spotify.com/track/2rmKfU3dFpq9sM7VWn8hBu) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [HUNTER SCHAFER](https://open.spotify.com/album/6XcDYfrVonxMFBGQS00Bpl) | 3:13 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gUQYmrehre.md) - [plain]
 | 78 | [Hasta Que Me Quieras](https://open.spotify.com/track/0wI4vrJkIMDBcmYHiGWKt5) | [Tayhana](https://open.spotify.com/artist/647u1oTQ3MgB1k4FwVrPfg) | [Cenizas Quedaban](https://open.spotify.com/album/5oBu9wifcYcFlOOoNif6lY) | 5:32 |
 | 79 | [這晚更壞](https://open.spotify.com/track/11fMLk7ru6mnuMofTf9f4L) | [Higgo Raj](https://open.spotify.com/artist/3YEVEdKje1zmAHh8Hsxgnb) | [這晚更壞](https://open.spotify.com/album/5tqLPLqNgumAMFmD1pZo1X) | 3:01 |
 | 80 | [si estuviésemos juntos](https://open.spotify.com/track/3fnZZvv0sNrr0AFB4qg1wI) | [Pavlo](https://open.spotify.com/artist/5HkbqKHZAvQjhjkhYm6mp2) | [EL ETERNO RETORNO](https://open.spotify.com/album/6vBjLUk61sV9Qy27RwVOHj) | 3:50 |
-| 81 | [OH WOW](https://open.spotify.com/track/0Qplt3hpXfEIUFPwoBiv4K) | [Shady Lady](https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0), [Nick Sinckler](https://open.spotify.com/artist/3ioPp5l6NUnHUryHBoJHEK) | [OH WOW](https://open.spotify.com/album/0Z9kjE77CEY7cBz3oZ69hI) | 2:54 |
-| 82 | [Don't Sleep With My Ex](https://open.spotify.com/track/4XsiUNF37jG3h9JXuILJO3) | [Cy](https://open.spotify.com/artist/7ocbmQfDODtTh1CFeK66wW) | [Ugh!](https://open.spotify.com/album/6Gqz4oULt6kpw2wXnvkZd1) | 2:50 |
+| 81 | [Don't Sleep With My Ex](https://open.spotify.com/track/4XsiUNF37jG3h9JXuILJO3) | [Cy](https://open.spotify.com/artist/7ocbmQfDODtTh1CFeK66wW) | [Ugh!](https://open.spotify.com/album/6Gqz4oULt6kpw2wXnvkZd1) | 2:50 |
+| 82 | [OH WOW](https://open.spotify.com/track/0Qplt3hpXfEIUFPwoBiv4K) | [Shady Lady](https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0), [Nick Sinckler](https://open.spotify.com/artist/3ioPp5l6NUnHUryHBoJHEK) | [OH WOW](https://open.spotify.com/album/0Z9kjE77CEY7cBz3oZ69hI) | 2:54 |
 | 83 | [Green Line](https://open.spotify.com/track/5Atbk3bEaMvNn7x9oCNjHX) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt), [Terrell Morris](https://open.spotify.com/artist/7C3agcqFXnteDagiWhaZdU) | [2022 the EP](https://open.spotify.com/album/3tnN1rF99kxjz5UfMUGj0U) | 3:26 |
 | 84 | [Bak](https://open.spotify.com/track/7N2gCnTpozX6lgCWI298uZ) | [Kerem](https://open.spotify.com/artist/1gMjD6ABGUJCth7z7VB8Ix) | [Bak](https://open.spotify.com/album/613rgXdBZLdTvjc7T7hhuU) | 2:52 |
 | 85 | [Focus](https://open.spotify.com/track/0mgsHH0BTeyTDNunw18xXO) | [Edsun](https://open.spotify.com/artist/6iOIP1dI1UKknczPpwMcRk) | [Focus](https://open.spotify.com/album/3yxVt38ouvkpZh2AYTx65z) | 3:19 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gUQYmrehre.md) - [plain]
 | 89 | [I Will Be Better Than You At Letting Go](https://open.spotify.com/track/3HKyeSauyYdo1q8hAMz9dA) | [LonelyTwin](https://open.spotify.com/artist/2Nf6fS8HByhmGlwDPPZhHM) | [You!](https://open.spotify.com/album/6u7QZYyppacDEeQvZnxRK1) | 2:46 |
 | 90 | [Semblante](https://open.spotify.com/track/0VR0TlYyuH4Ge1bKxXX8mH) | [Leo García](https://open.spotify.com/artist/54YdJC33Ztc1CNIuodmyUb) | [Leo Punk](https://open.spotify.com/album/5GJqT3SWAP71cTB6kiQpgm) | 2:43 |
 
-Snapshot ID: `MTY1ODI0MTk2NSwwMDAwMDAwMDAzYzkwNDBjM2IyY2JjYzRlODczODRmZjcxY2JmYTY4`
+Snapshot ID: `MTY1ODI0MTk2NSwwMDAwMDAwMGFiODBkOTAyMGVmMjRmYTJlZjJlZTdhMTAwNzBiYzhj`

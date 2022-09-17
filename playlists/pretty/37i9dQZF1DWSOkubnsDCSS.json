@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODA3MDg2NSwwMDAwMDAwMGY4MTllMzgzODhmNTY5ODc3MTkzYzNmMTMwYmQxMDVh",
+  "snapshot_id": "MTY1ODA3MDg2NSwwMDAwMDAwMGZiNTRmOThmMmY1ZDM5MjNlYmEwYWQ2ODg5ZGUzZDMy",
   "tracks": [
     {
       "added_at": "2022-07-17 15:14:25",
@@ -1095,26 +1095,6 @@
     {
       "added_at": "2022-07-17 15:14:25",
       "album": {
-        "name": "Don't Just Sit There. Do Something.",
-        "url": "https://open.spotify.com/album/40gCaBWI8GGdaL7EIZHF5U"
-      },
-      "artists": [
-        {
-          "name": "Manga Saint Hilare",
-          "url": "https://open.spotify.com/artist/0jU1Tdr7ONlgk0Ey9JgXra"
-        },
-        {
-          "name": "Lewi B.",
-          "url": "https://open.spotify.com/artist/4DedTBbPVMtOiIxPIdqA5Z"
-        }
-      ],
-      "duration_ms": 152571,
-      "name": "Don't Just Sit There. Do Something.",
-      "url": "https://open.spotify.com/track/2t5qgXNuZUakwzkPIHmQ1i"
-    },
-    {
-      "added_at": "2022-07-17 15:14:25",
-      "album": {
         "name": "Natural Selection",
         "url": "https://open.spotify.com/album/2I0Lqygik10fWi5BDmUupM"
       },
@@ -1131,6 +1111,26 @@
       "duration_ms": 152973,
       "name": "Ain't the Same",
       "url": "https://open.spotify.com/track/6oz38aJXDWYpIPTtSilYYE"
+    },
+    {
+      "added_at": "2022-07-17 15:14:25",
+      "album": {
+        "name": "Don't Just Sit There. Do Something.",
+        "url": "https://open.spotify.com/album/40gCaBWI8GGdaL7EIZHF5U"
+      },
+      "artists": [
+        {
+          "name": "Manga Saint Hilare",
+          "url": "https://open.spotify.com/artist/0jU1Tdr7ONlgk0Ey9JgXra"
+        },
+        {
+          "name": "Lewi B.",
+          "url": "https://open.spotify.com/artist/4DedTBbPVMtOiIxPIdqA5Z"
+        }
+      ],
+      "duration_ms": 152571,
+      "name": "Don't Just Sit There. Do Something.",
+      "url": "https://open.spotify.com/track/2t5qgXNuZUakwzkPIHmQ1i"
     },
     {
       "added_at": "2022-07-17 15:14:25",
@@ -1215,38 +1215,6 @@
     {
       "added_at": "2022-07-17 15:14:25",
       "album": {
-        "name": "OWT",
-        "url": "https://open.spotify.com/album/5vt6J11FudjyhonAhMO1mf"
-      },
-      "artists": [
-        {
-          "name": "Manga Saint Hilare",
-          "url": "https://open.spotify.com/artist/0jU1Tdr7ONlgk0Ey9JgXra"
-        },
-        {
-          "name": "Tia Talks",
-          "url": "https://open.spotify.com/artist/7pt6exGbvw7gwTLcGGTgcV"
-        },
-        {
-          "name": "Renz",
-          "url": "https://open.spotify.com/artist/2Haai7WfooGVuXTciVMwC3"
-        },
-        {
-          "name": "Squintz",
-          "url": "https://open.spotify.com/artist/2MaT82plQxhpr5GnvLkdNH"
-        },
-        {
-          "name": "Duppy",
-          "url": "https://open.spotify.com/artist/7tdO0ae8EY35sBWCioyuIs"
-        }
-      ],
-      "duration_ms": 196153,
-      "name": "OWT",
-      "url": "https://open.spotify.com/track/50wv4MKpiOVlTlVHnTDdOZ"
-    },
-    {
-      "added_at": "2022-07-17 15:14:25",
-      "album": {
         "name": "Bars EP",
         "url": "https://open.spotify.com/album/5oREzWRmZSR9E2kFlB9Te6"
       },
@@ -1299,30 +1267,6 @@
     {
       "added_at": "2022-07-17 15:14:25",
       "album": {
-        "name": "Norf Face",
-        "url": "https://open.spotify.com/album/7o6bhqYxz0nWyjwCYsmARy"
-      },
-      "artists": [
-        {
-          "name": "Frisco",
-          "url": "https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw"
-        },
-        {
-          "name": "Norf Face",
-          "url": "https://open.spotify.com/artist/2vx0BQk6J282s1fpwyhGA0"
-        },
-        {
-          "name": "Capo Lee",
-          "url": "https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh"
-        }
-      ],
-      "duration_ms": 57391,
-      "name": "Frisco's Pattern",
-      "url": "https://open.spotify.com/track/5tMrhoLH1HwcWKZaOKT33G"
-    },
-    {
-      "added_at": "2022-07-17 15:14:25",
-      "album": {
         "name": "Natural Selection",
         "url": "https://open.spotify.com/album/2I0Lqygik10fWi5BDmUupM"
       },
@@ -1347,6 +1291,62 @@
     {
       "added_at": "2022-07-17 15:14:25",
       "album": {
+        "name": "Norf Face",
+        "url": "https://open.spotify.com/album/7o6bhqYxz0nWyjwCYsmARy"
+      },
+      "artists": [
+        {
+          "name": "Frisco",
+          "url": "https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw"
+        },
+        {
+          "name": "Norf Face",
+          "url": "https://open.spotify.com/artist/2vx0BQk6J282s1fpwyhGA0"
+        },
+        {
+          "name": "Capo Lee",
+          "url": "https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh"
+        }
+      ],
+      "duration_ms": 57391,
+      "name": "Frisco's Pattern",
+      "url": "https://open.spotify.com/track/5tMrhoLH1HwcWKZaOKT33G"
+    },
+    {
+      "added_at": "2022-07-17 15:14:25",
+      "album": {
+        "name": "OWT",
+        "url": "https://open.spotify.com/album/5vt6J11FudjyhonAhMO1mf"
+      },
+      "artists": [
+        {
+          "name": "Manga Saint Hilare",
+          "url": "https://open.spotify.com/artist/0jU1Tdr7ONlgk0Ey9JgXra"
+        },
+        {
+          "name": "Tia Talks",
+          "url": "https://open.spotify.com/artist/7pt6exGbvw7gwTLcGGTgcV"
+        },
+        {
+          "name": "Renz",
+          "url": "https://open.spotify.com/artist/2Haai7WfooGVuXTciVMwC3"
+        },
+        {
+          "name": "Squintz",
+          "url": "https://open.spotify.com/artist/2MaT82plQxhpr5GnvLkdNH"
+        },
+        {
+          "name": "Duppy",
+          "url": "https://open.spotify.com/artist/7tdO0ae8EY35sBWCioyuIs"
+        }
+      ],
+      "duration_ms": 196153,
+      "name": "OWT",
+      "url": "https://open.spotify.com/track/50wv4MKpiOVlTlVHnTDdOZ"
+    },
+    {
+      "added_at": "2022-07-17 15:14:25",
+      "album": {
         "name": "Sezzin",
         "url": "https://open.spotify.com/album/3DmNvyoqrBEQ6yLBZX8esX"
       },
@@ -1359,22 +1359,6 @@
       "duration_ms": 217000,
       "name": "Sezzin",
       "url": "https://open.spotify.com/track/2nAh4L1Hcrjpw9xqinWTjA"
-    },
-    {
-      "added_at": "2022-07-17 15:14:25",
-      "album": {
-        "name": "Country Bars",
-        "url": "https://open.spotify.com/album/4zaAYX9Ep0IZyvxq3PGB2k"
-      },
-      "artists": [
-        {
-          "name": "Eyez",
-          "url": "https://open.spotify.com/artist/3lbE4VUYGYUusBmdfPbtJV"
-        }
-      ],
-      "duration_ms": 165428,
-      "name": "Country Bars",
-      "url": "https://open.spotify.com/track/5wlY4OQfBBwQLHEeENfEZT"
     },
     {
       "added_at": "2022-07-17 15:14:25",
@@ -1439,6 +1423,22 @@
     {
       "added_at": "2022-07-17 15:14:25",
       "album": {
+        "name": "Safe N Sound",
+        "url": "https://open.spotify.com/album/1WveTLzVCezHtgvUBVMISb"
+      },
+      "artists": [
+        {
+          "name": "Kamakaze",
+          "url": "https://open.spotify.com/artist/6C0Tazx8fb7cJIhm2s2Ttm"
+        }
+      ],
+      "duration_ms": 163750,
+      "name": "Safe N Sound",
+      "url": "https://open.spotify.com/track/15JuctmKn9ifqcuByIbzhw"
+    },
+    {
+      "added_at": "2022-07-17 15:14:25",
+      "album": {
         "name": "Dumping Again",
         "url": "https://open.spotify.com/album/0ucKLP8cWG5LRx86oy7O9v"
       },
@@ -1459,18 +1459,18 @@
     {
       "added_at": "2022-07-17 15:14:25",
       "album": {
-        "name": "Safe N Sound",
-        "url": "https://open.spotify.com/album/1WveTLzVCezHtgvUBVMISb"
+        "name": "Country Bars",
+        "url": "https://open.spotify.com/album/4zaAYX9Ep0IZyvxq3PGB2k"
       },
       "artists": [
         {
-          "name": "Kamakaze",
-          "url": "https://open.spotify.com/artist/6C0Tazx8fb7cJIhm2s2Ttm"
+          "name": "Eyez",
+          "url": "https://open.spotify.com/artist/3lbE4VUYGYUusBmdfPbtJV"
         }
       ],
-      "duration_ms": 163750,
-      "name": "Safe N Sound",
-      "url": "https://open.spotify.com/track/15JuctmKn9ifqcuByIbzhw"
+      "duration_ms": 165428,
+      "name": "Country Bars",
+      "url": "https://open.spotify.com/track/5wlY4OQfBBwQLHEeENfEZT"
     },
     {
       "added_at": "2022-07-17 15:14:25",
@@ -1595,6 +1595,26 @@
     {
       "added_at": "2022-07-17 15:14:25",
       "album": {
+        "name": "On Sight",
+        "url": "https://open.spotify.com/album/2NM87AM6OaLUBnCl50kEOB"
+      },
+      "artists": [
+        {
+          "name": "sbk",
+          "url": "https://open.spotify.com/artist/1SDlOEGpzLuqjC74p6GK85"
+        },
+        {
+          "name": "Queen Millz",
+          "url": "https://open.spotify.com/artist/2pFjYsNEe6hIBcRH4PT8m0"
+        }
+      ],
+      "duration_ms": 183200,
+      "name": "On Sight",
+      "url": "https://open.spotify.com/track/3mB8V8lzAvSHEE3orw41F1"
+    },
+    {
+      "added_at": "2022-07-17 15:14:25",
+      "album": {
         "name": "Ground Zero",
         "url": "https://open.spotify.com/album/5oiywDCGQgbSnsBdWsBzl8"
       },
@@ -1623,26 +1643,6 @@
       "duration_ms": 199111,
       "name": "London",
       "url": "https://open.spotify.com/track/2LnJh6Bp0Zh3Ai2OodKTrC"
-    },
-    {
-      "added_at": "2022-07-17 15:14:25",
-      "album": {
-        "name": "On Sight",
-        "url": "https://open.spotify.com/album/2NM87AM6OaLUBnCl50kEOB"
-      },
-      "artists": [
-        {
-          "name": "sbk",
-          "url": "https://open.spotify.com/artist/1SDlOEGpzLuqjC74p6GK85"
-        },
-        {
-          "name": "Queen Millz",
-          "url": "https://open.spotify.com/artist/2pFjYsNEe6hIBcRH4PT8m0"
-        }
-      ],
-      "duration_ms": 183200,
-      "name": "On Sight",
-      "url": "https://open.spotify.com/track/3mB8V8lzAvSHEE3orw41F1"
     },
     {
       "added_at": "2022-07-17 15:14:25",
@@ -1695,18 +1695,26 @@
     {
       "added_at": "2022-07-17 15:14:25",
       "album": {
-        "name": "Sticks and Stones",
-        "url": "https://open.spotify.com/album/7mXvBsSC5FgDbEwxmTxgwm"
+        "name": "Levels",
+        "url": "https://open.spotify.com/album/6aUJNPzVUAycX1hMlQVjT9"
       },
       "artists": [
         {
-          "name": "Merky ACE",
-          "url": "https://open.spotify.com/artist/15uvoIS6p9Gs3QZSjSqIMG"
+          "name": "namesbliss",
+          "url": "https://open.spotify.com/artist/69NBSJxkHyagyCv9K902iM"
+        },
+        {
+          "name": "MoreNight",
+          "url": "https://open.spotify.com/artist/20lI1hzkqOx9sBNAyjW54N"
+        },
+        {
+          "name": "Tyrone",
+          "url": "https://open.spotify.com/artist/6aapEQN8zrKOf2NOKf0MPI"
         }
       ],
-      "duration_ms": 205723,
-      "name": "SKR",
-      "url": "https://open.spotify.com/track/1HyfQyAbqE7AmlA8LX17A0"
+      "duration_ms": 145352,
+      "name": "Levels",
+      "url": "https://open.spotify.com/track/735ygF8cN388FC1TjjuSDP"
     }
   ],
   "unique_name": "Grime Shutdown",

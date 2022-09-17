@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74DDhiuyXIl.md) - [plain]
 
 > 回家的路上，有好聽的歌曲陪伴，會讓人暫時忘了疲倦。
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,039 likes - 75 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,059 likes - 75 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74DDhiuyXIl.md) - [plain]
 | 19 | [你的酒馆对我打了烊](https://open.spotify.com/track/6FurM8spY6gzyPF1yUuXwX) | [陈雪凝](https://open.spotify.com/artist/7hhBMsiz3xH2GHj7tbRpgW) | [你的酒馆对我打了烊](https://open.spotify.com/album/2TwPjdqlFBNjR2qrFHnYWL) | 4:11 |
 | 20 | [时光洪流](https://open.spotify.com/track/05yDoVDvARdRQCzDNNd6a1) | [程响](https://open.spotify.com/artist/0EZ1dmFa27KXSwDwcZKT1O) | [时光洪流](https://open.spotify.com/album/4BXBO9Tqn43erEulVz5rNz) | 4:11 |
 | 21 | [天黑請閉眼 \(feat\. 邱鋒澤\)](https://open.spotify.com/track/0bIbgooxvBkww2ZGeu8VMR) | [Nine Chen](https://open.spotify.com/artist/4MMQmzYiUiuD8VwjrJu3v6), [Feng Ze](https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy) | [天黑請閉眼 \(feat\. 邱鋒澤\)](https://open.spotify.com/album/4Rx7JsvDZWfL07FV9qchPX) | 4:46 |
-| 22 | [丢了你](https://open.spotify.com/track/1gIAq5bVQhn71cYmX9r22f) | [井胧](https://open.spotify.com/artist/7vUl41Mg2BGkAWQcK6ptJ2) | [丢了你](https://open.spotify.com/album/1bjAIaCl5ZubV2nErI6zLb) | 4:37 |
+| 22 | [不知所措](https://open.spotify.com/track/4BKKdyNzudNKscbKt3Sb9i) | [王靖雯](https://open.spotify.com/artist/4lQ2LwNj8DlXSM3UntsbGc) | [不知所措](https://open.spotify.com/album/4ivt28CRmnStMCm7p3MtSa) | 4:08 |
 | 23 | [我是如此相信](https://open.spotify.com/track/3BpiSlF0Z4CZQxcObv7erK) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [最偉大的作品](https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa) | 4:25 |
-| 24 | [不知所措](https://open.spotify.com/track/4BKKdyNzudNKscbKt3Sb9i) | [王靖雯](https://open.spotify.com/artist/4lQ2LwNj8DlXSM3UntsbGc) | [不知所措](https://open.spotify.com/album/4ivt28CRmnStMCm7p3MtSa) | 4:08 |
+| 24 | [丢了你](https://open.spotify.com/track/1gIAq5bVQhn71cYmX9r22f) | [井胧](https://open.spotify.com/artist/7vUl41Mg2BGkAWQcK6ptJ2) | [丢了你](https://open.spotify.com/album/1bjAIaCl5ZubV2nErI6zLb) | 4:37 |
 | 25 | [好想愛這個世界啊](https://open.spotify.com/track/7dcP3dkBK2SEplkgIZlwix) | [Hua Chen Yu](https://open.spotify.com/artist/7v7bP8NfcMYh4sDADEAy6Z) | [新世界](https://open.spotify.com/album/63odMEqIm4IMVGav51VG1k) | 4:18 |
 | 26 | [NUNA](https://open.spotify.com/track/6L5ImrjJJKVYJQzjpARPXj) | [队长](https://open.spotify.com/artist/4SpsVETdnMLwPHyOW0FlQz) | [NUNA](https://open.spotify.com/album/3q988MNRDhIto8xDT7ireC) | 3:42 |
 | 27 | [黑暗的盡頭](https://open.spotify.com/track/0n6Cn6pByPTwBkMTw7KQkX) | [Crispy脆樂團](https://open.spotify.com/artist/5AO5nzx14PfLNfVgYVd0rw) | [黑暗的盡頭](https://open.spotify.com/album/4ZRMDljMgqg3ZtpL4KtfVP) | 4:50 |
@@ -61,17 +61,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74DDhiuyXIl.md) - [plain]
 | 51 | [脫胎換骨](https://open.spotify.com/track/3KMozKCYJDSNJ53paNEIXk) | [Ronghao Li](https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K) | [脫胎換骨](https://open.spotify.com/album/0nkgECpB80bkATzGsvvFI7) | 4:30 |
 | 52 | [交換餘生](https://open.spotify.com/track/4daA20tBusVX29bUWgd8Dw) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [交換餘生](https://open.spotify.com/album/01m6dzbrm0kl8SmEqWoac6) | 4:36 |
 | 53 | [內傷](https://open.spotify.com/track/6tIaVtOWhsJhOYT81hioxk) | [Ricky Hsiao](https://open.spotify.com/artist/0E6oEhZZtQvj811iXQFLrB) | [說故事的歌](https://open.spotify.com/album/2OcafcgIRbdMhbAKjrYRVB) | 4:52 |
-| 54 | [最悲傷的事 \- 《比悲傷更悲傷的故事》影集版 主題曲](https://open.spotify.com/track/1uFmbLzPHHoweD5HEKg240) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [最悲傷的事 \(《比悲傷更悲傷的故事》影集版 主題曲\)](https://open.spotify.com/album/5wwMx4hWNkUijoyTVdXwln) | 4:57 |
-| 55 | [愛了很久的朋友\(電影「後來的我們」插曲\)](https://open.spotify.com/track/2CTAAr1Hd21pEvyjxUHHGC) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [愛了很久的朋友\(電影「後來的我們」插曲\)](https://open.spotify.com/album/5eBBWj4R69YZ0WSajD1YWw) | 4:28 |
-| 56 | [如果我沒有傷口](https://open.spotify.com/track/7jWZPpaNaO8tp6p5RRcNG7) | [Jolin Tsai](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [Ugly Beauty](https://open.spotify.com/album/7HFFEjrwzZNpbee44SJnn9) | 5:01 |
+| 54 | [如果我沒有傷口](https://open.spotify.com/track/7jWZPpaNaO8tp6p5RRcNG7) | [Jolin Tsai](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [Ugly Beauty](https://open.spotify.com/album/7HFFEjrwzZNpbee44SJnn9) | 5:01 |
+| 55 | [最悲傷的事 \- 《比悲傷更悲傷的故事》影集版 主題曲](https://open.spotify.com/track/1uFmbLzPHHoweD5HEKg240) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [最悲傷的事 \(《比悲傷更悲傷的故事》影集版 主題曲\)](https://open.spotify.com/album/5wwMx4hWNkUijoyTVdXwln) | 4:57 |
+| 56 | [愛了很久的朋友\(電影「後來的我們」插曲\)](https://open.spotify.com/track/2CTAAr1Hd21pEvyjxUHHGC) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [愛了很久的朋友\(電影「後來的我們」插曲\)](https://open.spotify.com/album/5eBBWj4R69YZ0WSajD1YWw) | 4:28 |
 | 57 | [白鸽](https://open.spotify.com/track/0qrzbXs43YrxdaSAhLUA5v) | [你的上好佳](https://open.spotify.com/artist/1k06YlN2x0BDLE7EeBpGap) | [白鸽](https://open.spotify.com/album/2xtp5cx9nv9lJ4r6xhDLgV) | 3:28 |
 | 58 | [未发送](https://open.spotify.com/track/0IKt70sonEjlSzcMEjdFYo) | [阿冗](https://open.spotify.com/artist/7sD5pBZNNSDMfiF2BvRem7) | [未发送](https://open.spotify.com/album/1Ez536BFu6IGYAe9HMKMoh) | 3:35 |
-| 59 | [別再想見我](https://open.spotify.com/track/7xv1df9mhiy8JyPvaUW61f) | [許光漢](https://open.spotify.com/artist/3hhUgkTf3fFYGogFMbV5Wv) | [別再想見我](https://open.spotify.com/album/0wH1j5vCOautchAN4S6DbX) | 4:30 |
-| 60 | [也可以](https://open.spotify.com/track/3dAi45j46EoBEd0UVoalcf) | [Janice Yan](https://open.spotify.com/artist/3r5bFY2H54Y0YGIDzAo1xp) | [我有我自己](https://open.spotify.com/album/38NZBdDb6cgyMrYPsF8sSt) | 4:33 |
-| 61 | [最後一次](https://open.spotify.com/track/11W5Rb3oJgdsjVjbSIRYA9) | [Kelly Pan](https://open.spotify.com/artist/2hJxcuFTgP89GdmCVXfXyi) | [最後一次](https://open.spotify.com/album/1Kk3DZ5m4U8hyswoyvnaJo) | 4:19 |
+| 59 | [也可以](https://open.spotify.com/track/3dAi45j46EoBEd0UVoalcf) | [Janice Yan](https://open.spotify.com/artist/3r5bFY2H54Y0YGIDzAo1xp) | [我有我自己](https://open.spotify.com/album/38NZBdDb6cgyMrYPsF8sSt) | 4:33 |
+| 60 | [最後一次](https://open.spotify.com/track/11W5Rb3oJgdsjVjbSIRYA9) | [Kelly Pan](https://open.spotify.com/artist/2hJxcuFTgP89GdmCVXfXyi) | [最後一次](https://open.spotify.com/album/1Kk3DZ5m4U8hyswoyvnaJo) | 4:19 |
+| 61 | [別再想見我](https://open.spotify.com/track/7xv1df9mhiy8JyPvaUW61f) | [許光漢](https://open.spotify.com/artist/3hhUgkTf3fFYGogFMbV5Wv) | [別再想見我](https://open.spotify.com/album/0wH1j5vCOautchAN4S6DbX) | 4:30 |
 | 62 | [當我們不在一起](https://open.spotify.com/track/2IrxQL5LAsqdXNOkDP4sAP) | [Quarterback](https://open.spotify.com/artist/0x1cerphBlEKCJL8Mqs6y3) | [當我們不在一起](https://open.spotify.com/album/2aodkqwQyt6hPuMDMwL3Cd) | 4:24 |
-| 63 | [處處遺憾](https://open.spotify.com/track/6vcl5gHFcDmGnioPoHBxER) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [處處遺憾](https://open.spotify.com/album/6pCW8bXJ2lt3QBU5dFXGdu) | 4:10 |
-| 64 | [一定會](https://open.spotify.com/track/2W3RHGoIiSACvtk51Ehhxi) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [一定會](https://open.spotify.com/album/1HM6brsnjlgf9bKaGGuibb) | 3:27 |
+| 63 | [一定會](https://open.spotify.com/track/2W3RHGoIiSACvtk51Ehhxi) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [一定會](https://open.spotify.com/album/1HM6brsnjlgf9bKaGGuibb) | 3:27 |
+| 64 | [處處遺憾](https://open.spotify.com/track/6vcl5gHFcDmGnioPoHBxER) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [處處遺憾](https://open.spotify.com/album/6pCW8bXJ2lt3QBU5dFXGdu) | 4:10 |
 | 65 | [放過自己](https://open.spotify.com/track/1AVYznIek3SoK9xSAsnAuH) | [Ada Zhuang](https://open.spotify.com/artist/42l9R70OWvywz9JN9DCVOM) | [放過自己](https://open.spotify.com/album/4JbsUHHIczczvvAPh137S8) | 4:09 |
 | 66 | [諷刺的情書](https://open.spotify.com/track/77OJPbm053M9LA5Pqs2yOZ) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [無人知曉](https://open.spotify.com/album/6bCnbjqqRgcPCpJwcnoLju) | 4:18 |
 | 67 | [你夠了](https://open.spotify.com/track/5vJ2Hw5FQShQIpyDqgQlCR) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [你夠了](https://open.spotify.com/album/0aBj80EllGcejy9XcavrtZ) | 3:21 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74DDhiuyXIl.md) - [plain]
 | 72 | [以年為單位的愛情\(電影《以年為單位的戀愛》片尾主題曲\)](https://open.spotify.com/track/5f939ccwoOJXxU2Sj6RxU4) | [Rainie Yang](https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk) | [以年為單位的愛情\(電影《以年為單位的戀愛》片尾主題曲\)](https://open.spotify.com/album/7vLFjY35aHSs0xwkzCTVAR) | 4:31 |
 | 73 | [蓝](https://open.spotify.com/track/6mDGz94bhuw5ipk0VMdJ8s) | [石白其](https://open.spotify.com/artist/4bRMSv20sBKRl1eikK5LWh) | [蓝](https://open.spotify.com/album/67tMNYQpjY1meSEh4vxAdO) | 4:31 |
 | 74 | [年青有為](https://open.spotify.com/track/5dhzpjvwo4tkSuUS7otPoF) | [Feng Ze](https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy), [Edan 呂爵安](https://open.spotify.com/artist/5jewGMrZtMNJk5OsZ61Cpo) | [年青有為](https://open.spotify.com/album/21mjvuCpLVh8tvSEFUG8Of) | 4:18 |
-| 75 | [備胎 \(feat\. Eetu Kalavainen\)](https://open.spotify.com/track/6OuBzoZm0GHYzPNGlvB3yx) | [R\-chord](https://open.spotify.com/artist/5XkrVVn0lQIVPkH55nbTgZ), [Eetu Kalavainen](https://open.spotify.com/artist/2gmrjqnmYgLobcr15nJR3O) | [像水一樣](https://open.spotify.com/album/1ACpdg4OuZtA5MfrK4mM5u) | 4:32 |
+| 75 | [假如世上還有一個人](https://open.spotify.com/track/0ki1xpYUdxYxzJocp1jjxa) | [Priscilla Abby](https://open.spotify.com/artist/0zFBdI3ErhNDcIPAKiGoL0) | [假如世上還有一個人](https://open.spotify.com/album/3R0a9X793U1Xi5ayVzrXQk) | 4:20 |
 
-Snapshot ID: `MTY2Mjk2NzAwMSwwMDAwMDAwMDg5ZmViMmQxMGFhNzQzZDFjOTBjYzczYTU4ODA1NWRl`
+Snapshot ID: `MTY2Mjk2NzAwMSwwMDAwMDAwMGY2MzQwYzRjNmNkNzVhZjVkY2NlYzM2NWM4N2NiODE2`

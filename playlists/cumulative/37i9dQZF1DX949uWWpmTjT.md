@@ -4,7 +4,7 @@
 
 > A soft and slow Jazz soundtrack to play in the background to all your activities.
 
-159 songs - 13 hr 26 min - [published](https://open.spotify.com/playlist/4ubA8HpuLOWyQqeLkd644S)
+160 songs - 13 hr 33 min - [published](https://open.spotify.com/playlist/4ubA8HpuLOWyQqeLkd644S)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Don't You Know I Care](https://open.spotify.com/track/7Ldtha80cQeZf2TjPJe1OC) | [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [I Just Dropped By To Say Hello](https://open.spotify.com/album/0lGkDnvzRpaCFsjQ8kX20F) | 4:10 | 2021-12-03 |  |
 | [Down and Out](https://open.spotify.com/track/61oeoAAPUXdhZZjq9F93g0) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [Stay Now](https://open.spotify.com/album/0sZT6GFJLAZH6NE8DEMsSO) | 3:10 | 2022-01-27 |  |
 | [Dream A Little Dream Of Me](https://open.spotify.com/track/7sO8fLoq7H3er7C24UtLiF) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [Ella And Basie](https://open.spotify.com/album/752AJr22BFy9yubj4XJauv) | 4:06 | 2021-12-03 | 2022-06-09 |
-| [Easy Come, Easy Go](https://open.spotify.com/track/0qg73uNbX6hOkoP52wU8bp) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [Cool Heat](https://open.spotify.com/album/4Ix7dU6CFuN4UUJW7xpT7u) | 3:13 | 2021-12-03 |  |
+| [Easy Come, Easy Go](https://open.spotify.com/track/0qg73uNbX6hOkoP52wU8bp) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [Cool Heat](https://open.spotify.com/album/4Ix7dU6CFuN4UUJW7xpT7u) | 3:13 | 2021-12-03 | 2022-09-17 |
 | [Everything Happens to Me](https://open.spotify.com/track/4Y5fyQ5fBysC32Na5sZT3J) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings: It Could Happen To You \[Original Jazz Classics Remasters\] \(OJC Remaster\)](https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc) | 5:05 | 2021-12-03 | 2022-05-05 |
 | [Follow the Light](https://open.spotify.com/track/5P0RMEJOgtGcZIq5wYjYei) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU), [Jules Billé](https://open.spotify.com/artist/4NUgmHU1FIREvBXLDDFhng), [Christophe Piot](https://open.spotify.com/artist/4BqX5iSPXbStNLbdzjURGi) | [Follow the Light](https://open.spotify.com/album/464mXSRcytt5W0mq22FMMt) | 5:03 | 2022-09-08 |  |
 | [For All We Know](https://open.spotify.com/track/4bt0QV5XmTnW3GIH7TkTN7) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [First Place Again](https://open.spotify.com/album/5cRdLFfwJefr0sspyWVFPT) | 5:31 | 2021-12-03 |  |
@@ -109,6 +109,7 @@
 | [Night Mist](https://open.spotify.com/track/3FK9WEakN8oFgfGdKeiqzY) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [Like In Love](https://open.spotify.com/album/53bRCFvtFOk6HBKjf44Kzl) | 2:34 | 2021-12-03 |  |
 | [One Day I'll Fly Away](https://open.spotify.com/track/6TCEJVBIrm9YysBGEVHFD0) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin) | [Jasmine](https://open.spotify.com/album/0dlzYOzj8FqN3OXV3jXZye) | 4:15 | 2021-12-03 | 2022-06-23 |
 | [Over The Rainbow](https://open.spotify.com/track/69XmGDda7Gd8UITZ80n1HD) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [See You At The Fair](https://open.spotify.com/album/1jMKRKYJTWspPOKBmjfUsq) | 4:42 | 2022-04-13 |  |
+| [Pannonica](https://open.spotify.com/track/1gyHEnqX09wctbRdqO6HUc) | [Spike Wilner Trio](https://open.spotify.com/artist/2IsQRgCkOiPQwg0sKFLAJQ) | [Pannonica](https://open.spotify.com/album/2yuuyMO0wzr2pbku1Wurd1) | 6:43 | 2022-09-15 |  |
 | [Peace Piece](https://open.spotify.com/track/58yFroDNbzHpYzvicaC0de) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Everybody Digs Bill Evans](https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt) | 6:44 | 2021-12-03 |  |
 | [Please Send Me Someone To Love](https://open.spotify.com/track/6j0mXItB7viXXjB98l3Kwy) | [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG), [Art Taylor](https://open.spotify.com/artist/3CsHGnB9qK3KYH7xmyGAGX) | [Red Garland's Piano](https://open.spotify.com/album/1Lrt5saApIz6z8dGmyKB7d) | 9:48 | 2022-04-08 |  |
 | [Polka Dots And Moonbeams](https://open.spotify.com/track/5bemClhFeQ7fcth7mjjnKO) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Moon Beams \[Original Jazz Classics Remasters\]](https://open.spotify.com/album/3QTdjueo8EUx1sMLcPbNZc) | 5:01 | 2021-12-03 |  |

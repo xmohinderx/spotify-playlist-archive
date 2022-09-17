@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Photo : Gabi Hartmann",
+  "description": "The best jazz new releases. Photo : Gabriels",
   "name": "Jazz Club",
   "published_playlist_ids": [
     "3rs0g3vcnj4aI2NKRtpM5z"
@@ -225,6 +225,24 @@
       "duration_ms": 184306,
       "name": "At The Swing Cats Ball",
       "url": "https://open.spotify.com/track/1GuLFlKfwXYGBFwGMb0xgn"
+    },
+    {
+      "album": {
+        "name": "Baltimore",
+        "url": "https://open.spotify.com/album/1tuRVv8vSpzKvh9aO1SnwA"
+      },
+      "artists": [
+        {
+          "name": "Ray Estaire",
+          "url": "https://open.spotify.com/artist/0lKJikwQ5t9bivXQHdOzbq"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316852,
+      "name": "Baltimore",
+      "url": "https://open.spotify.com/track/0PTdxZ0QwqFFP1Zr0wtlEz"
     },
     {
       "album": {
@@ -615,7 +633,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 324000,
       "name": "Dirty Mariposa",
       "url": "https://open.spotify.com/track/7hiCGd7VM7ToeLZgo0Mvo7"
@@ -723,10 +741,32 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 173164,
       "name": "Family",
       "url": "https://open.spotify.com/track/1QrcomVagx1mGbtibRpiGt"
+    },
+    {
+      "album": {
+        "name": "Steer Your Way",
+        "url": "https://open.spotify.com/album/7oQZl2Z301VOlKr77DgtEm"
+      },
+      "artists": [
+        {
+          "name": "Here It Is",
+          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
+        },
+        {
+          "name": "Nathaniel Rateliff",
+          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358720,
+      "name": "Famous Blue Raincoat (feat. Nathaniel Rateliff)",
+      "url": "https://open.spotify.com/track/6A30Bj33P8d4WWYfWeY6z8"
     },
     {
       "album": {
@@ -1256,6 +1296,28 @@
     },
     {
       "album": {
+        "name": "Love Story",
+        "url": "https://open.spotify.com/album/5oKYZptTBjlXmQKjkpwBrf"
+      },
+      "artists": [
+        {
+          "name": "Scott Bradlee's Postmodern Jukebox",
+          "url": "https://open.spotify.com/artist/5HYNPEO2NNBONQkp3Mvwvc"
+        },
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231487,
+      "name": "Love Story",
+      "url": "https://open.spotify.com/track/2wJeDPbOfGRhzVLSQdjSgS"
+    },
+    {
+      "album": {
         "name": "La source",
         "url": "https://open.spotify.com/album/0019HzLbrGXubxmtWZvrx0"
       },
@@ -1429,7 +1491,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 295080,
       "name": "Meva Festa",
       "url": "https://open.spotify.com/track/0ojt0cv7WeGO49b4Xg23Bb"
@@ -1656,6 +1718,28 @@
     },
     {
       "album": {
+        "name": "Passaic",
+        "url": "https://open.spotify.com/album/7EDkIqmqmBeEoPq0hlFJTM"
+      },
+      "artists": [
+        {
+          "name": "Robben Ford",
+          "url": "https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy"
+        },
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/2PyoC81N6Uz8xs5Lzaquje"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371523,
+      "name": "Passaic",
+      "url": "https://open.spotify.com/track/4xamnZxVJxOWQhww1SYBpH"
+    },
+    {
+      "album": {
         "name": "Plus Fort Que Nous",
         "url": "https://open.spotify.com/album/5b3U4t8eiOoLiBlqGZ2Zwf"
       },
@@ -1793,7 +1877,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 232213,
       "name": "Seine de la vie parisienne",
       "url": "https://open.spotify.com/track/4xc9dTPrGEvoHmvdiCYCdT"
@@ -2133,7 +2217,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 274403,
       "name": "The Window",
       "url": "https://open.spotify.com/track/2lJzX1Vn1bEuCRrNUotnup"
@@ -2375,6 +2459,24 @@
       "duration_ms": 246373,
       "name": "Turning Around",
       "url": "https://open.spotify.com/track/5avRKp2Z3kagrmSQwIll9p"
+    },
+    {
+      "album": {
+        "name": "Une Seule Etoile",
+        "url": "https://open.spotify.com/album/30zOeBi8oIWyMvoMMuffVz"
+      },
+      "artists": [
+        {
+          "name": "Souad Massi",
+          "url": "https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223417,
+      "name": "Une Seule Etoile",
+      "url": "https://open.spotify.com/track/7HnbvhyOEmmIOX8CPUOVko"
     },
     {
       "album": {

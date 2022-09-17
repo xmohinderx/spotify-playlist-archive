@@ -4,7 +4,7 @@
 
 > Lose yourself in the summer daze...
 
-107 songs - 6 hr 1 min - not published yet
+107 songs - 6 hr 1 min - [published](https://open.spotify.com/playlist/4JRzjnOLPijNmAgihe8x2o)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Los éxitos del pop latino featuring ROSALÍA
 
-150 songs - 8 hr 2 min - [published](https://open.spotify.com/playlist/4iUOCOgAGj98pc9KE7qNhs)
+151 songs - 8 hr 5 min - [published](https://open.spotify.com/playlist/4iUOCOgAGj98pc9KE7qNhs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,10 +53,11 @@
 | [El Pañuelo](https://open.spotify.com/track/3c7H5RL3H6jFgDTbMxGBe9) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [El Pañuelo](https://open.spotify.com/album/6UHVdZCYgXo8xeSCw4RXp5) | 3:54 | 2022-09-02 |  |
 | [EL PEOR](https://open.spotify.com/track/1J7zkJKLpHYwSgpcz8jBwq) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [EL PEOR](https://open.spotify.com/album/1kBaRHAH9gtFHuoz7zbgOv) | 1:54 | 2022-03-18 | 2022-04-23 |
 | [El Que Espera](https://open.spotify.com/track/2oNSHvGBGZIrZouRAA1eaX) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [El Que Espera](https://open.spotify.com/album/1iouSXg5RihFIXRvZFJyTa) | 2:50 | 2022-08-12 |  |
+| [El Último Beso](https://open.spotify.com/track/1gYtMKmICjH8KQG3MheNJt) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [El Último Beso](https://open.spotify.com/album/1humxYpKb5wRgIUqVdJmKg) | 3:17 | 2022-09-16 |  |
 | [En El Coche](https://open.spotify.com/track/5mcYWxQAAlqGAhEPqVMMR5) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [En El Coche](https://open.spotify.com/album/6sIXTuaE9F2p4PcXVuawjp) | 2:05 | 2022-04-01 | 2022-05-20 |
 | [Entre Nosotros](https://open.spotify.com/track/6w8yBI2vthyN9UnwO4UBWb) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Entre Nosotros](https://open.spotify.com/album/4cEu5VC6QCq4NGYTNvwNCR) | 3:12 | 2021-12-17 | 2022-01-15 |
 | [Entre Nosotros \(Remix\) \[con Nicki Nicole\]](https://open.spotify.com/track/4TGwERXRlyQtBdggYTHo6j) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Entre Nosotros \(Remix\) \[con Nicki Nicole\]](https://open.spotify.com/album/1RXzQq8DhpkYvvbXE9CqLm) | 4:20 | 2022-01-14 |  |
-| [Fantasi](https://open.spotify.com/track/63GTuNSVLynH3n3PdqObgd) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Fantasi](https://open.spotify.com/album/64d5HQCHWpk4Qfb1MkEzj9) | 2:38 | 2022-02-17 |  |
+| [Fantasi](https://open.spotify.com/track/63GTuNSVLynH3n3PdqObgd) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Fantasi](https://open.spotify.com/album/64d5HQCHWpk4Qfb1MkEzj9) | 2:38 | 2022-02-17 | 2022-09-17 |
 | [Felices x Siempre](https://open.spotify.com/track/42Gzfqnfpk7Pp1ydM60eNn) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Felices x Siempre](https://open.spotify.com/album/1DW15sDiWh55xNKb5uqIp2) | 3:19 | 2022-02-25 | 2022-06-04 |
 | [Fino](https://open.spotify.com/track/2aa3zu8JIbWrE92naVcy7H) | [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Fino](https://open.spotify.com/album/7dCbtoA5iytgbxUXUsK9Z2) | 3:25 | 2022-06-17 | 2022-07-29 |
 | [Flaca](https://open.spotify.com/track/4OXyQVIU3WpKXDimY4DsU8) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Flaca](https://open.spotify.com/album/2DiPW0TQNv1Xqp0FJ7vgbK) | 4:27 | 2021-12-17 | 2022-01-15 |

@@ -4,7 +4,7 @@
 
 > 125%
 
-71 songs - 3 hr 1 min - [published](https://open.spotify.com/playlist/2G3OqMZbrNC2ergi0aOh3M)
+72 songs - 3 hr 3 min - [published](https://open.spotify.com/playlist/2G3OqMZbrNC2ergi0aOh3M)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,8 @@
 | [WARNING \- Sped Up](https://open.spotify.com/track/5MNfAmHvsqOliIxtwiFzsz) | [MC ORSEN](https://open.spotify.com/artist/2DXPtOc14uPVvK7qggj2a3) | [WARNING \(Sped Up\)](https://open.spotify.com/album/2oRa8uJdTOrDSWvWAy50A3) | 1:48 | 2022-08-24 |  |
 | [Wasted \(Nightcore\)](https://open.spotify.com/track/0zSDG1EI7SGhM62M5iBiGI) | [Murkish](https://open.spotify.com/artist/5anIaPEacO0S5sVfxg6cVw), [Huken](https://open.spotify.com/artist/2i5ApczYJfGAYrtf7QmjCV) | [Wasted \(Nightcore\)](https://open.spotify.com/album/338C6sxO1twtEJn8YqGeh4) | 3:14 | 2022-06-09 |  |
 | [why so serious?](https://open.spotify.com/track/3CcNuI3JbOw5n5Evl5Qjx6) | [ExotiiC\-](https://open.spotify.com/artist/3t98cVjC4AW3IPjCNsc3em) | [why so serious?](https://open.spotify.com/album/0owMsQYWHryve339icpxYv) | 1:35 | 2022-06-24 | 2022-09-04 |
-| [why so srs?](https://open.spotify.com/track/0rifR43CptApOWLL8kMkcg) | [outer streets](https://open.spotify.com/artist/07Kya5CjMDo2yVV8YFJg9T) | [why so srs?](https://open.spotify.com/album/2cWHWaopqauQCtQYVnN9wC) | 1:35 | 2022-06-09 |  |
+| [why so srs?](https://open.spotify.com/track/0rifR43CptApOWLL8kMkcg) | [outer streets](https://open.spotify.com/artist/07Kya5CjMDo2yVV8YFJg9T) | [why so srs?](https://open.spotify.com/album/2cWHWaopqauQCtQYVnN9wC) | 1:35 | 2022-06-09 | 2022-09-17 |
+| [why so srs?](https://open.spotify.com/track/13laoPfypXtxTIy4zg9mhG) | [Rebeudeter](https://open.spotify.com/artist/74Yd3n0K6G3m6T32Bl2A5y), [outer streets](https://open.spotify.com/artist/07Kya5CjMDo2yVV8YFJg9T) | [why so srs?](https://open.spotify.com/album/1dA3OfbB8DUNk9w7d1Dwr1) | 1:35 | 2022-09-09 |  |
 | [zombie \(hyper\)](https://open.spotify.com/track/4YKfwSVcrK85r3TaUeUHGd) | [Ka$tro](https://open.spotify.com/artist/22AaKQKPmQXX1xFhc825rJ), [Keepitinside](https://open.spotify.com/artist/78cc6k0CLZpWYSO4x5xnro) | [reaper / zombie \(remixes\)](https://open.spotify.com/album/6rIGvpDxSbZABArWo8hwko) | 2:16 | 2022-06-09 |  |
 
 \*This playlist was first scraped on 2022-06-22. Prior content cannot be recovered.

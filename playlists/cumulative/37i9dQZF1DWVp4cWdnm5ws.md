@@ -4,7 +4,7 @@
 
 > Discover new artists on the horizon.
 
-97 songs - 6 hr 14 min - [published](https://open.spotify.com/playlist/3x47cvEOoy8EUAZDcwGWs4)
+98 songs - 6 hr 17 min - [published](https://open.spotify.com/playlist/3x47cvEOoy8EUAZDcwGWs4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Tahanan](https://open.spotify.com/track/0R14hunYxRvkNZue5WL4Oc) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Tahanan](https://open.spotify.com/album/7Jgei0LHq4rhql16x8lsuH) | 4:53 | 2022-03-24 | 2022-07-29 |
 | [Tahanan](https://open.spotify.com/track/5CUQnKjA6nlteCnxMKsjIu) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Tahanan](https://open.spotify.com/album/77pn87cuqQjBr9mb5H3mPE) | 4:53 | 2022-03-24 |  |
 | [TAKE ALL THE LOVE](https://open.spotify.com/track/4feJnuMO1hnNLEWiKYDxOl) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [TAKE ALL THE LOVE](https://open.spotify.com/album/7w2WseM2SppYIXbS9jQ8QO) | 3:26 | 2021-11-25 | 2022-03-25 |
+| [Tayo Parin Talaga](https://open.spotify.com/track/5Vpb78jHDtObL7BSvcuiUn) | [raven](https://open.spotify.com/artist/3Dr5ezvDdYsycy1gfaZWSL) | [Tayo Parin Talaga](https://open.spotify.com/album/0l8XANffH6H749BxHExgDk) | 2:55 | 2022-09-16 |  |
 | [The Baddest](https://open.spotify.com/track/7q9NUxTI5vhWNBq94PYURo) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [The Baddest](https://open.spotify.com/album/686RAST484tdwr0GNYZRJA) | 3:16 | 2021-11-25 | 2022-03-25 |
 | [The Light](https://open.spotify.com/track/2ySkMWsWrVA7rvppQUTn8u) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [The Light](https://open.spotify.com/album/6Q8UbSdYcoTdMCayeAWMqY) | 3:12 | 2021-11-25 | 2022-03-25 |
 | [Tibay 'Yan](https://open.spotify.com/track/7l4NOgPCczq62tTtlhGR35) | [Inigo Pascual](https://open.spotify.com/artist/0XOSmu9Qn1agQULUVe0dAK), [Alamat](https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW) | [Tibay 'Yan](https://open.spotify.com/album/1AM76pz4GPDyqOItxyECaB) | 4:10 | 2021-11-25 | 2022-03-25 |

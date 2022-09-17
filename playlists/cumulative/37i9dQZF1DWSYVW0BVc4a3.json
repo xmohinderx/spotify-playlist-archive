@@ -1399,7 +1399,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 555573,
       "name": "Impossible - &ME Remix",
       "url": "https://open.spotify.com/track/09AT2nLfUrq96f4rTx8BQr"
@@ -1941,7 +1941,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-26",
+      "date_removed": null,
       "duration_ms": 265753,
       "name": "No One Anyone",
       "url": "https://open.spotify.com/track/1IGVRVFUV0OtktKxymfLg7"
@@ -2126,6 +2126,28 @@
     },
     {
       "album": {
+        "name": "Pax",
+        "url": "https://open.spotify.com/album/3Qk1ydD4XDPOdLOOqCF4Lh"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 Robinson",
+          "url": "https://open.spotify.com/artist/0Qpm94Bbsi44jMAXg0cI66"
+        },
+        {
+          "name": "DJ ADHD",
+          "url": "https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305014,
+      "name": "Pax",
+      "url": "https://open.spotify.com/track/00DrCz52C36qaTPItWpCNK"
+    },
+    {
+      "album": {
         "name": "Poke Bowl",
         "url": "https://open.spotify.com/album/4aQY42XWlHFFOYeDLQXuJ0"
       },
@@ -2267,7 +2289,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 244624,
       "name": "See Em' Dancing",
       "url": "https://open.spotify.com/track/1mBzumW8DcPEqqJkClUXMN"

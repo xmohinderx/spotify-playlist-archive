@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaN3n8Umehd8.md) - [plain]
 
 > oops\_i\_did\_it\_again.mp3
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,793 likes - 100 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,811 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaN3n8Umehd8.md) - [plain]
 | 56 | [Perfecta](https://open.spotify.com/track/09QfIIP4NUx4A3thmovb2o) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [El Templo del Pop](https://open.spotify.com/album/0KzE84u9io1eWxWSs9SmSY) | 3:45 |
 | 57 | [Andar Conmigo](https://open.spotify.com/track/05iMQqncVBIm4AE26EvaTL) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Si](https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB) | 3:13 |
 | 58 | [Bye Bye Bye](https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [No Strings Attached](https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC) | 3:20 |
-| 59 | [I Kissed A Girl](https://open.spotify.com/track/005lwxGU1tms6HGELIcUv9) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [One Of The Boys](https://open.spotify.com/album/0r2BUyPTmpbfuz4rR39mLl) | 2:59 |
-| 60 | [Survivor](https://open.spotify.com/track/2Mpj1Ul5OFPyyP4wB62Rvi) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Survivor](https://open.spotify.com/album/2HcjLD0ButtKsQYqzoyOx9) | 4:14 |
+| 59 | [Survivor](https://open.spotify.com/track/2Mpj1Ul5OFPyyP4wB62Rvi) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Survivor](https://open.spotify.com/album/2HcjLD0ButtKsQYqzoyOx9) | 4:14 |
+| 60 | [I Kissed A Girl](https://open.spotify.com/track/005lwxGU1tms6HGELIcUv9) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [One Of The Boys](https://open.spotify.com/album/0r2BUyPTmpbfuz4rR39mLl) | 2:59 |
 | 61 | [Sólo Quédate En Silencio](https://open.spotify.com/track/2RJ1fg4qf2vgZKifTa4HgA) | [RBD](https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs), [Anahí](https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri), [Dulce María](https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL), [Maite Perroni](https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt), [Christian Chávez](https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN), [Christopher von Uckermann](https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo), [Alfonso Herrera](https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN) | [Rebelde](https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj) | 3:39 |
 | 62 | [I'm Still in Love with You \(feat\. Sasha\)](https://open.spotify.com/track/3MhdH8PxqH1FuQp3HBptUI) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Sasha](https://open.spotify.com/artist/02QYcz7JjwzKiKGHg53rZY), [Jeremy Harding](https://open.spotify.com/artist/4RPAm27zZnyxkEEpdWmrd0), [Murray Elias](https://open.spotify.com/artist/110deyrdzDK0DIuHPeQgKL) | [Dutty Rock](https://open.spotify.com/album/3nAwSh2fcp3M8voQKZS2as) | 4:33 |
 | 63 | [Duele El Amor](https://open.spotify.com/track/0oXLSuno5adlHcPzlzs8l6) | [Aleks Syntek](https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi), [Ana Torroja](https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124) | [Mundo Lite](https://open.spotify.com/album/1RaOKsaRdN1H4twh4u6FUd) | 4:35 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaN3n8Umehd8.md) - [plain]
 | 96 | [El Eco de Tu Voz](https://open.spotify.com/track/4u8snuKA78YNkJujLeh7Ht) | [Playa Limbo](https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8) | [Canciones De Hotel](https://open.spotify.com/album/1s6NvhoX40Ob6g8C5E1C4v) | 3:03 |
 | 97 | [Bella Traicion](https://open.spotify.com/track/5eIsMbKPT1IJ0b0rdvgtlZ) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Utopia 2](https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k) | 3:45 |
 | 98 | [Ain't No Other Man](https://open.spotify.com/track/7huo2wvrCgRucUsjdSDLQV) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Back To Basics](https://open.spotify.com/album/0zRJsgzHZUUdk8Rjk6Segd) | 3:48 |
-| 99 | [Yo No Soy Esa Mujer](https://open.spotify.com/track/0JAGODD5w6MeYQzA9lV6Zm) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Paulina](https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB) | 3:44 |
-| 100 | [Muriendo Lento \(feat\. Belinda\)](https://open.spotify.com/track/2QFjBBDcrnEIqQcKSwZdv0) | [Moderatto](https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Detector De Metal](https://open.spotify.com/album/3CZjT6RXkAJmmPZipcDg1N) | 4:10 |
+| 99 | [Muriendo Lento \(feat\. Belinda\)](https://open.spotify.com/track/2QFjBBDcrnEIqQcKSwZdv0) | [Moderatto](https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Detector De Metal](https://open.spotify.com/album/3CZjT6RXkAJmmPZipcDg1N) | 4:10 |
+| 100 | [Yo No Soy Esa Mujer](https://open.spotify.com/track/0JAGODD5w6MeYQzA9lV6Zm) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Paulina](https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB) | 3:44 |
 
-Snapshot ID: `MTY0MDU0ODczMywwMDAwMDAwMGUyNjAwMGY5YTYzMWNhYTQ1NmE0NjdjZjc3ZTg4MDJl`
+Snapshot ID: `MTY0MDU0ODczMywwMDAwMDAwMDI5NDBmODUzMzk1ZTVmOTRlZDg0YzUxZmRhZjQ4NDYz`

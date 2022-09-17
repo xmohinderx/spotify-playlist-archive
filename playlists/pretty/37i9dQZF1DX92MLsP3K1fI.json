@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Sofi Mata en portada.",
-  "num_followers": 50193,
+  "num_followers": 50232,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg4NTIwMCwwMDAwMDAwMGVjMzhkYjliMjUxYjllODA0OWNhOTY0MmNlMTRhZjA4",
+  "snapshot_id": "MTY2MDg4NTIwMCwwMDAwMDAwMDI0NGE1MDcwMDQ3MGYxNDBmOTg4MjdmNWNiZjI4MDc2",
   "tracks": [
     {
       "added_at": "2022-08-19 05:00:00",
@@ -463,26 +463,6 @@
     {
       "added_at": "2022-08-19 05:00:00",
       "album": {
-        "name": "NO ERES T\u00da (feat. Gloria Trevi)",
-        "url": "https://open.spotify.com/album/7CEvogoNvFLnDR0z1nPw1k"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Rojo",
-          "url": "https://open.spotify.com/artist/0SMyQijONSkk6q5UseJXEN"
-        },
-        {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
-        }
-      ],
-      "duration_ms": 229144,
-      "name": "NO ERES T\u00da (feat. Gloria Trevi)",
-      "url": "https://open.spotify.com/track/1Ak0ucQzPS6mvMn1m8YQTY"
-    },
-    {
-      "added_at": "2022-08-19 05:00:00",
-      "album": {
         "name": "Qui\u00e9n lo dir\u00eda",
         "url": "https://open.spotify.com/album/4PVhiDn8mvSj3aEAwz2ByX"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 159497,
       "name": "Qui\u00e9n lo dir\u00eda",
       "url": "https://open.spotify.com/track/1l8QKeG1hH5nF5zpJWEBsR"
+    },
+    {
+      "added_at": "2022-08-19 05:00:00",
+      "album": {
+        "name": "NO ERES T\u00da (feat. Gloria Trevi)",
+        "url": "https://open.spotify.com/album/7CEvogoNvFLnDR0z1nPw1k"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Rojo",
+          "url": "https://open.spotify.com/artist/0SMyQijONSkk6q5UseJXEN"
+        },
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "duration_ms": 229144,
+      "name": "NO ERES T\u00da (feat. Gloria Trevi)",
+      "url": "https://open.spotify.com/track/1Ak0ucQzPS6mvMn1m8YQTY"
     },
     {
       "added_at": "2022-08-19 05:00:00",
@@ -819,26 +819,6 @@
     {
       "added_at": "2022-08-19 05:00:00",
       "album": {
-        "name": "Eclipse de Luna (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/72B74qlICDqsf9R9mtSQWR"
-      },
-      "artists": [
-        {
-          "name": "Playa Limbo",
-          "url": "https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8"
-        },
-        {
-          "name": "Aleks Syntek",
-          "url": "https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi"
-        }
-      ],
-      "duration_ms": 220492,
-      "name": "Eclipse de Luna - Edici\u00f3n Especial",
-      "url": "https://open.spotify.com/track/3kYAIegzm6Ounx1nFg2mxa"
-    },
-    {
-      "added_at": "2022-08-19 05:00:00",
-      "album": {
         "name": "Ya No Dueles",
         "url": "https://open.spotify.com/album/4MuZgMI05gSqTVkDXDsL7S"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 168000,
       "name": "Ya No Dueles",
       "url": "https://open.spotify.com/track/1CVaF9hZmlZWSDMM6tFdb3"
+    },
+    {
+      "added_at": "2022-08-19 05:00:00",
+      "album": {
+        "name": "Eclipse de Luna (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/72B74qlICDqsf9R9mtSQWR"
+      },
+      "artists": [
+        {
+          "name": "Playa Limbo",
+          "url": "https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8"
+        },
+        {
+          "name": "Aleks Syntek",
+          "url": "https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi"
+        }
+      ],
+      "duration_ms": 220492,
+      "name": "Eclipse de Luna - Edici\u00f3n Especial",
+      "url": "https://open.spotify.com/track/3kYAIegzm6Ounx1nFg2mxa"
     },
     {
       "added_at": "2022-08-19 05:00:00",

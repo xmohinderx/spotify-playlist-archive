@@ -1,12 +1,12 @@
 {
   "description": "100% good vibes.",
-  "num_followers": 360591,
+  "num_followers": 360620,
   "original_name": "Serotonin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM2OTA5MSwwMDAwMDAwMDk2OGIzYzE0Zjk5MTEzZDJhM2EzMTZiN2E0ZmFiYzBk",
+  "snapshot_id": "MTY2MjM2OTA5MSwwMDAwMDAwMDVhYWYxMzFiODNkZTUyYzE2Njg4NTFkNDYwYzRhODJl",
   "tracks": [
     {
       "added_at": "2022-09-05 09:11:31",
@@ -527,22 +527,6 @@
     {
       "added_at": "2022-09-05 09:11:31",
       "album": {
-        "name": "Summer 91 (Looking Back)",
-        "url": "https://open.spotify.com/album/4QCh5emLRWuIg8CUzprNXm"
-      },
-      "artists": [
-        {
-          "name": "Noizu",
-          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Summer 91 (Looking Back)",
-      "url": "https://open.spotify.com/track/4FEcEwbE2vsqhxbTPtiNTL"
-    },
-    {
-      "added_at": "2022-09-05 09:11:31",
-      "album": {
         "name": "Waterfall",
         "url": "https://open.spotify.com/album/5lLpdj3vBItlhNW9BxY2TK"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 232120,
       "name": "Waterfall",
       "url": "https://open.spotify.com/track/72EaWichAXl7tTulGwxCKO"
+    },
+    {
+      "added_at": "2022-09-05 09:11:31",
+      "album": {
+        "name": "Summer 91 (Looking Back)",
+        "url": "https://open.spotify.com/album/4QCh5emLRWuIg8CUzprNXm"
+      },
+      "artists": [
+        {
+          "name": "Noizu",
+          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Summer 91 (Looking Back)",
+      "url": "https://open.spotify.com/track/4FEcEwbE2vsqhxbTPtiNTL"
     },
     {
       "added_at": "2022-09-05 09:11:31",
@@ -671,26 +671,6 @@
     {
       "added_at": "2022-09-05 09:11:31",
       "album": {
-        "name": "Happy Music / Something on My Mind",
-        "url": "https://open.spotify.com/album/4D78IEl2Nl3ywiu254VOVn"
-      },
-      "artists": [
-        {
-          "name": "Supershy",
-          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
-        },
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 232625,
-      "name": "Happy Music",
-      "url": "https://open.spotify.com/track/3rh495Z2rIRwD316blea4f"
-    },
-    {
-      "added_at": "2022-09-05 09:11:31",
-      "album": {
         "name": "Sunsetter",
         "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
       },
@@ -707,26 +687,22 @@
     {
       "added_at": "2022-09-05 09:11:31",
       "album": {
-        "name": "Catalogue",
-        "url": "https://open.spotify.com/album/5sCp2ukwrtpYj5wGfMx78M"
+        "name": "Happy Music / Something on My Mind",
+        "url": "https://open.spotify.com/album/4D78IEl2Nl3ywiu254VOVn"
       },
       "artists": [
         {
-          "name": "Moloko",
-          "url": "https://open.spotify.com/artist/4aaBjq7VqqQvpSF69GglvO"
+          "name": "Supershy",
+          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
         },
         {
-          "name": "Boris Dlugosch",
-          "url": "https://open.spotify.com/artist/5mrwZhvK7J8K34cWeFG3ru"
-        },
-        {
-          "name": "Michael Lange",
-          "url": "https://open.spotify.com/artist/0r3oYkStfoV3sVeoQ1vmtw"
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
         }
       ],
-      "duration_ms": 278000,
-      "name": "Sing It Back - Boris Dlugosch Mix",
-      "url": "https://open.spotify.com/track/53qhh1kdcX4gRBShoW4LK8"
+      "duration_ms": 232625,
+      "name": "Happy Music",
+      "url": "https://open.spotify.com/track/3rh495Z2rIRwD316blea4f"
     },
     {
       "added_at": "2022-09-05 09:11:31",
@@ -751,6 +727,30 @@
       "duration_ms": 234374,
       "name": "Let You Go",
       "url": "https://open.spotify.com/track/0KG7XrgM20KEmJrKsyFDAm"
+    },
+    {
+      "added_at": "2022-09-05 09:11:31",
+      "album": {
+        "name": "Catalogue",
+        "url": "https://open.spotify.com/album/5sCp2ukwrtpYj5wGfMx78M"
+      },
+      "artists": [
+        {
+          "name": "Moloko",
+          "url": "https://open.spotify.com/artist/4aaBjq7VqqQvpSF69GglvO"
+        },
+        {
+          "name": "Boris Dlugosch",
+          "url": "https://open.spotify.com/artist/5mrwZhvK7J8K34cWeFG3ru"
+        },
+        {
+          "name": "Michael Lange",
+          "url": "https://open.spotify.com/artist/0r3oYkStfoV3sVeoQ1vmtw"
+        }
+      ],
+      "duration_ms": 278000,
+      "name": "Sing It Back - Boris Dlugosch Mix",
+      "url": "https://open.spotify.com/track/53qhh1kdcX4gRBShoW4LK8"
     },
     {
       "added_at": "2022-09-05 09:11:31",

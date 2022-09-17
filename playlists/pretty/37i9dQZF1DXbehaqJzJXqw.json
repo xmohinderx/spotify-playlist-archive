@@ -1,12 +1,12 @@
 {
   "description": "You are sipping on your coffee in a caf\u00e9 in Paris while a Jazz band plays somewhere in the background. ",
-  "num_followers": 164839,
+  "num_followers": 165282,
   "original_name": "French Jazz Caf\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzI1MDczMCwwMDAwMDAwMGEzNDU1ZjY4NjY2YWJlM2FjNmRlYzUxMjdjMzU0NzU0",
+  "snapshot_id": "MTY2MzI1MDczMCwwMDAwMDAwMDk1NjcxYmI3ZWEzZjMwNWE1NGM4NmIxOTc5MjhhZGZk",
   "tracks": [
     {
       "added_at": "2022-09-15 14:05:30",
@@ -71,22 +71,6 @@
     {
       "added_at": "2022-09-15 14:05:30",
       "album": {
-        "name": "The Very Thought of You",
-        "url": "https://open.spotify.com/album/58CRSHezL90l3bMuC23ZoP"
-      },
-      "artists": [
-        {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
-        }
-      ],
-      "duration_ms": 286423,
-      "name": "Les yeux ouverts (dream a little dream of me)",
-      "url": "https://open.spotify.com/track/2RcwqefTH11THzlwJHoS6D"
-    },
-    {
-      "added_at": "2022-09-15 14:05:30",
-      "album": {
         "name": "N\u00b04",
         "url": "https://open.spotify.com/album/2LzvU0eKruEkYzsVNa3PtO"
       },
@@ -99,6 +83,22 @@
       "duration_ms": 149240,
       "name": "La javanaise",
       "url": "https://open.spotify.com/track/7cUKT1Wiwve4E5iRFOLVmz"
+    },
+    {
+      "added_at": "2022-09-15 14:05:30",
+      "album": {
+        "name": "The Very Thought of You",
+        "url": "https://open.spotify.com/album/58CRSHezL90l3bMuC23ZoP"
+      },
+      "artists": [
+        {
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+        }
+      ],
+      "duration_ms": 286423,
+      "name": "Les yeux ouverts (dream a little dream of me)",
+      "url": "https://open.spotify.com/track/2RcwqefTH11THzlwJHoS6D"
     },
     {
       "added_at": "2022-09-15 14:05:30",
@@ -175,22 +175,6 @@
     {
       "added_at": "2022-09-15 14:05:30",
       "album": {
-        "name": "Seule ce soir",
-        "url": "https://open.spotify.com/album/2dVf3FNLJqsMCA4ePrTuH5"
-      },
-      "artists": [
-        {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
-        }
-      ],
-      "duration_ms": 196780,
-      "name": "C'est si bon - 2012",
-      "url": "https://open.spotify.com/track/5PcCSUGriuhWuyyWxuBnnM"
-    },
-    {
-      "added_at": "2022-09-15 14:05:30",
-      "album": {
         "name": "La fauve",
         "url": "https://open.spotify.com/album/1geDLI1FruuDNU8knNZKnS"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 227426,
       "name": "O\u00f9 est la fantaisie ?",
       "url": "https://open.spotify.com/track/73Dh1k49xHgPCXo9wXvKuW"
+    },
+    {
+      "added_at": "2022-09-15 14:05:30",
+      "album": {
+        "name": "Seule ce soir",
+        "url": "https://open.spotify.com/album/2dVf3FNLJqsMCA4ePrTuH5"
+      },
+      "artists": [
+        {
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+        }
+      ],
+      "duration_ms": 196780,
+      "name": "C'est si bon - 2012",
+      "url": "https://open.spotify.com/track/5PcCSUGriuhWuyyWxuBnnM"
     },
     {
       "added_at": "2022-09-15 14:05:30",
@@ -243,22 +243,6 @@
     {
       "added_at": "2022-09-15 14:05:30",
       "album": {
-        "name": "Whisper For You",
-        "url": "https://open.spotify.com/album/6bF3D6lN2SkAH0ZGaWccd7"
-      },
-      "artists": [
-        {
-          "name": "BLOSSOM DEARIE",
-          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
-        }
-      ],
-      "duration_ms": 149533,
-      "name": "Plus Je T'embrasse",
-      "url": "https://open.spotify.com/track/5UiaszjisznaX77YaCgUhX"
-    },
-    {
-      "added_at": "2022-09-15 14:05:30",
-      "album": {
         "name": "Chansons",
         "url": "https://open.spotify.com/album/6sW97lRLjtpPDaUBiC0lMp"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 229226,
       "name": "J'attendrai",
       "url": "https://open.spotify.com/track/3UuHS1AHJzFeTX0ZG5Nx54"
+    },
+    {
+      "added_at": "2022-09-15 14:05:30",
+      "album": {
+        "name": "Whisper For You",
+        "url": "https://open.spotify.com/album/6bF3D6lN2SkAH0ZGaWccd7"
+      },
+      "artists": [
+        {
+          "name": "BLOSSOM DEARIE",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+        }
+      ],
+      "duration_ms": 149533,
+      "name": "Plus Je T'embrasse",
+      "url": "https://open.spotify.com/track/5UiaszjisznaX77YaCgUhX"
     },
     {
       "added_at": "2022-09-15 14:05:30",
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-09-15 14:05:30",
       "album": {
-        "name": "J'ai Deux Amours",
-        "url": "https://open.spotify.com/album/7JQL8HvC9UkGhzA96uDO4A"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9phine Baker",
-          "url": "https://open.spotify.com/artist/2RXsHRCnva6BsZ12SSAzcz"
-        }
-      ],
-      "duration_ms": 201013,
-      "name": "De Temps en Temps",
-      "url": "https://open.spotify.com/track/76jd74pjVZT9MlEozWQM5u"
-    },
-    {
-      "added_at": "2022-09-15 14:05:30",
-      "album": {
         "name": "Le premier bonheur du jour (Remastered)",
         "url": "https://open.spotify.com/album/1FkZQWdx8y9ZeaBZwHA6iR"
       },
@@ -783,18 +767,18 @@
     {
       "added_at": "2022-09-15 14:05:30",
       "album": {
-        "name": "My Gentleman Friend",
-        "url": "https://open.spotify.com/album/5D5eQmgvrCleIhNPOixTqh"
+        "name": "J'ai Deux Amours",
+        "url": "https://open.spotify.com/album/7JQL8HvC9UkGhzA96uDO4A"
       },
       "artists": [
         {
-          "name": "BLOSSOM DEARIE",
-          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+          "name": "Jos\u00e9phine Baker",
+          "url": "https://open.spotify.com/artist/2RXsHRCnva6BsZ12SSAzcz"
         }
       ],
-      "duration_ms": 128093,
-      "name": "Boum",
-      "url": "https://open.spotify.com/track/2jmnsU9irersAKdgxJwmGz"
+      "duration_ms": 201013,
+      "name": "De Temps en Temps",
+      "url": "https://open.spotify.com/track/76jd74pjVZT9MlEozWQM5u"
     },
     {
       "added_at": "2022-09-15 14:05:30",
@@ -823,6 +807,22 @@
       "duration_ms": 194186,
       "name": "J\u2019ai ta main",
       "url": "https://open.spotify.com/track/3xWxjeErA8FvMcF0Gq7yUO"
+    },
+    {
+      "added_at": "2022-09-15 14:05:30",
+      "album": {
+        "name": "My Gentleman Friend",
+        "url": "https://open.spotify.com/album/5D5eQmgvrCleIhNPOixTqh"
+      },
+      "artists": [
+        {
+          "name": "BLOSSOM DEARIE",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+        }
+      ],
+      "duration_ms": 128093,
+      "name": "Boum",
+      "url": "https://open.spotify.com/track/2jmnsU9irersAKdgxJwmGz"
     },
     {
       "added_at": "2022-09-15 14:05:30",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2022-09-15 14:05:30",
       "album": {
-        "name": "Um Rio",
-        "url": "https://open.spotify.com/album/3v0DVLM52t8VDrkirQHfuf"
-      },
-      "artists": [
-        {
-          "name": "M\u00e1rcio Faraco",
-          "url": "https://open.spotify.com/artist/6n3BBw9YDpMMuQOftR9TzJ"
-        }
-      ],
-      "duration_ms": 254693,
-      "name": "\u00c0 quoi \u00e7a sert l'amour",
-      "url": "https://open.spotify.com/track/5oMQIQXbz5dnxU6BTUewlY"
-    },
-    {
-      "added_at": "2022-09-15 14:05:30",
-      "album": {
         "name": "Miss Kitt To You",
         "url": "https://open.spotify.com/album/2iWbUYKAbWPRV0XWL3W5IO"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 167866,
       "name": "Je Cherche Un Homme",
       "url": "https://open.spotify.com/track/3dlZQnkxnxZjTV860ixUHx"
+    },
+    {
+      "added_at": "2022-09-15 14:05:30",
+      "album": {
+        "name": "Um Rio",
+        "url": "https://open.spotify.com/album/3v0DVLM52t8VDrkirQHfuf"
+      },
+      "artists": [
+        {
+          "name": "M\u00e1rcio Faraco",
+          "url": "https://open.spotify.com/artist/6n3BBw9YDpMMuQOftR9TzJ"
+        }
+      ],
+      "duration_ms": 254693,
+      "name": "\u00c0 quoi \u00e7a sert l'amour",
+      "url": "https://open.spotify.com/track/5oMQIQXbz5dnxU6BTUewlY"
     },
     {
       "added_at": "2022-09-15 14:05:30",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2022-09-15 14:05:30",
       "album": {
-        "name": "Merle Noir",
-        "url": "https://open.spotify.com/album/6kb00WTbKIXhUqK8VAFXod"
-      },
-      "artists": [
-        {
-          "name": "Zazou",
-          "url": "https://open.spotify.com/artist/4ThhH5H8jQ1yUDRMynALCA"
-        }
-      ],
-      "duration_ms": 289413,
-      "name": "Menilmontant",
-      "url": "https://open.spotify.com/track/7k125cYjRfIYB23FOQTeTy"
-    },
-    {
-      "added_at": "2022-09-15 14:05:30",
-      "album": {
         "name": "Bubble Gum",
         "url": "https://open.spotify.com/album/1Rvk3tavC4U97f1UObfsnb"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 113493,
       "name": "Une histoire de plage",
       "url": "https://open.spotify.com/track/2gBySoyAkqPUoOmoGgtUpK"
+    },
+    {
+      "added_at": "2022-09-15 14:05:30",
+      "album": {
+        "name": "Merle Noir",
+        "url": "https://open.spotify.com/album/6kb00WTbKIXhUqK8VAFXod"
+      },
+      "artists": [
+        {
+          "name": "Zazou",
+          "url": "https://open.spotify.com/artist/4ThhH5H8jQ1yUDRMynALCA"
+        }
+      ],
+      "duration_ms": 289413,
+      "name": "Menilmontant",
+      "url": "https://open.spotify.com/track/7k125cYjRfIYB23FOQTeTy"
     },
     {
       "added_at": "2022-09-15 14:05:30",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2022-09-15 14:05:30",
       "album": {
+        "name": "Black Ivory Soul",
+        "url": "https://open.spotify.com/album/0emSHfQ64wlmh1ziOAw11K"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 134693,
+      "name": "Ces Petits Riens",
+      "url": "https://open.spotify.com/track/6oprRIQ5Vis7NXtJUPIQ3w"
+    },
+    {
+      "added_at": "2022-09-15 14:05:30",
+      "album": {
         "name": "Nord Destin",
         "url": "https://open.spotify.com/album/6pmNJH43ZyjBR3wOsdCNHZ"
       },
@@ -1567,18 +1583,18 @@
     {
       "added_at": "2022-09-15 14:05:30",
       "album": {
-        "name": "Black Ivory Soul",
-        "url": "https://open.spotify.com/album/0emSHfQ64wlmh1ziOAw11K"
+        "name": "Chansons sans \u00e9poques: 1964 - 1968 (Remasteris\u00e9 en 2017)",
+        "url": "https://open.spotify.com/album/0lFb6bBBCGagIFrblxhjE3"
       },
       "artists": [
         {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+          "name": "Charles Trenet",
+          "url": "https://open.spotify.com/artist/4a16JEaHldo5vZuRojtGTZ"
         }
       ],
-      "duration_ms": 134693,
-      "name": "Ces Petits Riens",
-      "url": "https://open.spotify.com/track/6oprRIQ5Vis7NXtJUPIQ3w"
+      "duration_ms": 193586,
+      "name": "Si tu vas \u00e0 Paris - Remasteris\u00e9 en 2017",
+      "url": "https://open.spotify.com/track/0WYNxfmeHtYss2iUaiEDCJ"
     },
     {
       "added_at": "2022-09-15 14:05:30",
@@ -1595,22 +1611,6 @@
       "duration_ms": 257240,
       "name": "Mes pas dans la neige - Spanish Song Bird",
       "url": "https://open.spotify.com/track/09iBzIVcKTwLhg49ny9j0z"
-    },
-    {
-      "added_at": "2022-09-15 14:05:30",
-      "album": {
-        "name": "Chansons sans \u00e9poques: 1964 - 1968 (Remasteris\u00e9 en 2017)",
-        "url": "https://open.spotify.com/album/0lFb6bBBCGagIFrblxhjE3"
-      },
-      "artists": [
-        {
-          "name": "Charles Trenet",
-          "url": "https://open.spotify.com/artist/4a16JEaHldo5vZuRojtGTZ"
-        }
-      ],
-      "duration_ms": 193586,
-      "name": "Si tu vas \u00e0 Paris - Remasteris\u00e9 en 2017",
-      "url": "https://open.spotify.com/track/0WYNxfmeHtYss2iUaiEDCJ"
     },
     {
       "added_at": "2022-09-15 14:05:30",
@@ -1731,18 +1731,18 @@
     {
       "added_at": "2022-09-15 14:05:30",
       "album": {
-        "name": "Nolita",
-        "url": "https://open.spotify.com/album/7jlEzGrX8XytkuQJHtcOys"
+        "name": "Quelqu'un m'a dit",
+        "url": "https://open.spotify.com/album/5i2pYUFwnFnNCfXVK4hj1k"
       },
       "artists": [
         {
-          "name": "Keren Ann",
-          "url": "https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA"
+          "name": "Carla Bruni",
+          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
         }
       ],
-      "duration_ms": 179653,
-      "name": "L'onde am\u00e8re",
-      "url": "https://open.spotify.com/track/0RnMnEHyWtyAdOUfSqouvs"
+      "duration_ms": 213586,
+      "name": "Chanson triste",
+      "url": "https://open.spotify.com/track/482BNjycfik4vDZ8VjX5Om"
     },
     {
       "added_at": "2022-09-15 14:05:30",
@@ -1763,18 +1763,18 @@
     {
       "added_at": "2022-09-15 14:05:30",
       "album": {
-        "name": "Quelqu'un m'a dit",
-        "url": "https://open.spotify.com/album/5i2pYUFwnFnNCfXVK4hj1k"
+        "name": "Nolita",
+        "url": "https://open.spotify.com/album/7jlEzGrX8XytkuQJHtcOys"
       },
       "artists": [
         {
-          "name": "Carla Bruni",
-          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
+          "name": "Keren Ann",
+          "url": "https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA"
         }
       ],
-      "duration_ms": 213586,
-      "name": "Chanson triste",
-      "url": "https://open.spotify.com/track/482BNjycfik4vDZ8VjX5Om"
+      "duration_ms": 179653,
+      "name": "L'onde am\u00e8re",
+      "url": "https://open.spotify.com/track/0RnMnEHyWtyAdOUfSqouvs"
     },
     {
       "added_at": "2022-09-15 14:05:30",

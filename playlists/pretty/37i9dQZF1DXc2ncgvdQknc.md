@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2ncgvdQknc.md) - [plain]
 
 > All 10s, all ballads\. Cover: Adele
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,463 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,550 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2ncgvdQknc.md) - [plain]
 | 47 | [If By Chance](https://open.spotify.com/track/21dpBHPTV7ythCHBI6Slcw) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Safe Haven](https://open.spotify.com/album/6FgtuX3PtiB5civjHYhc52) | 5:03 |
 | 48 | [Give Me Love](https://open.spotify.com/track/0SuG9kyzGRpDqrCWtgD6Lq) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [+](https://open.spotify.com/album/02pi98kE0nra0yBqCStzbC) | 8:46 |
 | 49 | [Let It Go](https://open.spotify.com/track/13HVjjWUZFaWilh2QUJKsP) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm](https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO) | 4:20 |
-| 50 | [Praying](https://open.spotify.com/track/0jdny0dhgjUwoIp5GkqEaA) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Rainbow](https://open.spotify.com/album/1IYVB8NfiRqhdZlTxjspNh) | 3:50 |
+| 50 | [Stay \- Album Version \(Edited\)](https://open.spotify.com/track/789CxjEOtO76BVD1A9yJQH) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Mikky Ekko](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) | [Unapologetic \(Edited Version\)](https://open.spotify.com/album/0T23GvNaBUGtMKxZko8LQG) | 4:00 |
 
-Snapshot ID: `MTY1MjIxNTU2NCwwMDAwMDAwMDBlOWY3MDFlN2VmNmEwNzVkMDg2MTAyNmYyNmNhNGIw`
+Snapshot ID: `MTY1MjIxNTU2NCwwMDAwMDAwMDU1YWIxNzllOTY4MmE3MWNmNzc2MGU2M2Y1ZTdkMThj`

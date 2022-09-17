@@ -4,7 +4,7 @@
 
 > Float away on heady orchestrations and haunting harmonies...
 
-172 songs - 10 hr 58 min - [published](https://open.spotify.com/playlist/1bJpZrfcjIxVYffJWDkWtS)
+173 songs - 11 hr 2 min - [published](https://open.spotify.com/playlist/1bJpZrfcjIxVYffJWDkWtS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Lost Boy](https://open.spotify.com/track/5fzPPZMT8HOKs4Vmvfmj2R) | [The Native](https://open.spotify.com/artist/6c3Jb6rRod9x4pGtiizwzT) | [Fall Down](https://open.spotify.com/album/1VPVbx0DN1TmWu8jftzc3a) | 0:53 | 2021-10-29 | 2022-07-29 |
 | [Love Brought Weight](https://open.spotify.com/track/1H56ffyFrFcvMEWUg3WFbM) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Old Sea Brigade](https://open.spotify.com/album/4sRSCsGsXFMeOTmQ2G6sPV) | 3:05 | 2021-10-29 | 2022-07-29 |
 | [Love Brought Weight](https://open.spotify.com/track/66deoxrDAEK7Qg1p0Vioxe) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Old Sea Brigade](https://open.spotify.com/album/0uupKOJsjqW7JF3ridoy20) | 3:05 | 2021-10-29 |  |
-| [Marionette](https://open.spotify.com/track/059jgZN65g4cZY9pe7phoY) | [Keaton Henson](https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Fragments EP](https://open.spotify.com/album/6MFubeEasrCBNKpo26Ddx9) | 4:48 | 2021-10-29 |  |
+| [Marionette](https://open.spotify.com/track/059jgZN65g4cZY9pe7phoY) | [Keaton Henson](https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Fragments EP](https://open.spotify.com/album/6MFubeEasrCBNKpo26Ddx9) | 4:48 | 2021-10-29 | 2022-09-17 |
 | [Melatonin \(Unplugged\)](https://open.spotify.com/track/1IkjoLXB9LEf3w32Wk07X3) | [Phoria](https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm) | [Melatonin \(Unplugged\)](https://open.spotify.com/album/73FpjS6PTT3e4lRfWdsDuy) | 5:25 | 2021-10-29 |  |
 | [Minimum](https://open.spotify.com/track/4FwaJmXeZxr1096KItcUQq) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Minimum](https://open.spotify.com/album/5oHD0TW5vl8qXVZJg0IKx3) | 3:14 | 2021-10-29 | 2022-07-29 |
 | [Minimum](https://open.spotify.com/track/6kND7UAXGZk2kfZbEWQ6e3) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Lines](https://open.spotify.com/album/1UkOPjlvgtqoeeIETfK2fs) | 3:14 | 2021-10-29 |  |
@@ -123,6 +123,7 @@
 | [Saving Us a Riot](https://open.spotify.com/track/2n1mukIntnIGBzhf8Ifkr2) | [Phoria](https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm) | [Saving Us a Riot](https://open.spotify.com/album/1iT3Cml6HMAth8Cn9ZRCAz) | 4:16 | 2021-10-29 |  |
 | [Sea Creatures](https://open.spotify.com/track/0ziGHz1rdtRE426q03NC8F) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [Tourist](https://open.spotify.com/album/7lZZYA2lDZhSNBgXK2dEig) | 4:16 | 2021-10-29 | 2022-07-29 |
 | [Sea Creatures](https://open.spotify.com/track/62p6yXgCQ1Ywcw3MU78dZn) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [Tourist](https://open.spotify.com/album/0fCaCuGVDA5ggkYJLNcaRX) | 4:16 | 2021-10-29 | 2022-09-12 |
+| [Sea Creatures](https://open.spotify.com/track/73Tl9gM1BeVA1IHvGubOmI) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [You Stay by the Sea \(Deluxe\)](https://open.spotify.com/album/4gyX2p2lAct97JgYtrpbH4) | 4:16 | 2021-10-29 |  |
 | [Sense of Home](https://open.spotify.com/track/68wibJU4yMiqNX79IaLAsN) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Sense of Home](https://open.spotify.com/album/4uJY9pRMcABooRV50bf9Wu) | 4:25 | 2021-10-29 | 2022-07-21 |
 | [Sense of Home](https://open.spotify.com/track/6oImxt6z8HDS56epRgOi0I) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Sense of Home](https://open.spotify.com/album/1MggtpuaGB0IPfFUYaY40U) | 4:25 | 2021-10-29 |  |
 | [Seven Hours](https://open.spotify.com/track/1g9n3Y040NXNrDYZ3xo3yb) | [Little May](https://open.spotify.com/artist/0TjAAwE04BeoSeOpJIakYH) | [For The Company](https://open.spotify.com/album/4ruKhGgJSmLx5fGAZquEH2) | 3:41 | 2021-10-29 |  |

@@ -1,12 +1,12 @@
 {
   "description": "El aderezo que te falta.",
-  "num_followers": 30191,
+  "num_followers": 30199,
   "original_name": "Cocina con sabor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxNTgyNDI5MywwMDAwMDAwMGIxMTI0MzE3OWIxYjgzOWY3MzU2Y2EzMzUwOGVmMDg0",
+  "snapshot_id": "MTYxNTgyNDI5MywwMDAwMDAwMGRhNzcxZTdmNGIzNjQwOTE0ZDQ1ZTAxNGMzYjQxY2Vj",
   "tracks": [
     {
       "added_at": "2021-03-15 16:04:53",
@@ -187,22 +187,18 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Jazz Samba Encore!",
-        "url": "https://open.spotify.com/album/1JDkIxq4xRW7ySH89sGflc"
+        "name": "Samba Esquema Novo",
+        "url": "https://open.spotify.com/album/3xWp6y0HGsHZlXljNs7VRy"
       },
       "artists": [
         {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Luiz Bonf\u00e1",
-          "url": "https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb"
+          "name": "Jorge Ben Jor",
+          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
         }
       ],
-      "duration_ms": 216226,
-      "name": "S\u00f3 Dan\u00e7o Samba",
-      "url": "https://open.spotify.com/track/5je0CDv1Z1hT82Nek1Fjhl"
+      "duration_ms": 184093,
+      "name": "Chove Chuva",
+      "url": "https://open.spotify.com/track/6mTfOxORhYlpnTvm7VrL6b"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -243,18 +239,22 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Samba Esquema Novo",
-        "url": "https://open.spotify.com/album/3xWp6y0HGsHZlXljNs7VRy"
+        "name": "Jazz Samba Encore!",
+        "url": "https://open.spotify.com/album/1JDkIxq4xRW7ySH89sGflc"
       },
       "artists": [
         {
-          "name": "Jorge Ben Jor",
-          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Luiz Bonf\u00e1",
+          "url": "https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb"
         }
       ],
-      "duration_ms": 184093,
-      "name": "Chove Chuva",
-      "url": "https://open.spotify.com/track/6mTfOxORhYlpnTvm7VrL6b"
+      "duration_ms": 216226,
+      "name": "S\u00f3 Dan\u00e7o Samba",
+      "url": "https://open.spotify.com/track/5je0CDv1Z1hT82Nek1Fjhl"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -851,6 +851,22 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
+        "name": "Jersey Beat: The Music Of Frankie Valli and The Four Seasons",
+        "url": "https://open.spotify.com/album/0sEAJ8QdJQPRNL2km3NYqg"
+      },
+      "artists": [
+        {
+          "name": "Frankie Valli & The Four Seasons",
+          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
+        }
+      ],
+      "duration_ms": 168706,
+      "name": "Beggin' - 2007 Remaster",
+      "url": "https://open.spotify.com/track/4LQtQV5HHTdVBCBJYaEuUr"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
         "name": "Linha De Passe",
         "url": "https://open.spotify.com/album/5hP8pHRsoC1ySE4wVc9wcH"
       },
@@ -871,18 +887,18 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Jersey Beat: The Music Of Frankie Valli and The Four Seasons",
-        "url": "https://open.spotify.com/album/0sEAJ8QdJQPRNL2km3NYqg"
+        "name": "Wonderful World, Beautiful People",
+        "url": "https://open.spotify.com/album/3RiXb242oLrGNRtc0Va4Fd"
       },
       "artists": [
         {
-          "name": "Frankie Valli & The Four Seasons",
-          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
+          "name": "Jimmy Cliff",
+          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
         }
       ],
-      "duration_ms": 168706,
-      "name": "Beggin' - 2007 Remaster",
-      "url": "https://open.spotify.com/track/4LQtQV5HHTdVBCBJYaEuUr"
+      "duration_ms": 164066,
+      "name": "Many Rivers To Cross",
+      "url": "https://open.spotify.com/track/1dZxI6OuzwJ283y3gOU1Kq"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -899,22 +915,6 @@
       "duration_ms": 155493,
       "name": "Bebete V\u00e3obora",
       "url": "https://open.spotify.com/track/3vST7tho4iT90949PEtM7i"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
-        "name": "Wonderful World, Beautiful People",
-        "url": "https://open.spotify.com/album/3RiXb242oLrGNRtc0Va4Fd"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Cliff",
-          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
-        }
-      ],
-      "duration_ms": 164066,
-      "name": "Many Rivers To Cross",
-      "url": "https://open.spotify.com/track/1dZxI6OuzwJ283y3gOU1Kq"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Coleccion",
-        "url": "https://open.spotify.com/album/4JnzA5hRujlF3yG3OeOltp"
-      },
-      "artists": [
-        {
-          "name": "Compay Segundo",
-          "url": "https://open.spotify.com/artist/2wpr4ILskkRzPBGodmbMs1"
-        }
-      ],
-      "duration_ms": 227906,
-      "name": "L\u00e1grimas negras",
-      "url": "https://open.spotify.com/track/2G6bY2enGuwmluoAAMQ0mj"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
         "name": "Tesoros De Coleccion",
         "url": "https://open.spotify.com/album/5fvc3yXYkuFeutWruzxCTk"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 180626,
       "name": "B\u00e9same Mucho",
       "url": "https://open.spotify.com/track/1HlX3tDP7eJBs5CJx4XIIk"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "Coleccion",
+        "url": "https://open.spotify.com/album/4JnzA5hRujlF3yG3OeOltp"
+      },
+      "artists": [
+        {
+          "name": "Compay Segundo",
+          "url": "https://open.spotify.com/artist/2wpr4ILskkRzPBGodmbMs1"
+        }
+      ],
+      "duration_ms": 227906,
+      "name": "L\u00e1grimas negras",
+      "url": "https://open.spotify.com/track/2G6bY2enGuwmluoAAMQ0mj"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
+        "name": "Se\u00f1or Coconut / Around the World",
+        "url": "https://open.spotify.com/album/3kc3Xf5509dG8PJeAkmZuF"
+      },
+      "artists": [
+        {
+          "name": "Atom TM",
+          "url": "https://open.spotify.com/artist/2a8NW6dE2Igxb6LQXDhdgL"
+        }
+      ],
+      "duration_ms": 167497,
+      "name": "Around the World (Intro)",
+      "url": "https://open.spotify.com/track/21lWmLmNPE7tBehlegKU7c"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
         "name": "Jazz Samba Encore!",
         "url": "https://open.spotify.com/album/1JDkIxq4xRW7ySH89sGflc"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 263266,
       "name": "Um Abraco No Getz",
       "url": "https://open.spotify.com/track/29v0gMFSZ7VmKXWOdywJck"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
-        "name": "Se\u00f1or Coconut / Around the World",
-        "url": "https://open.spotify.com/album/3kc3Xf5509dG8PJeAkmZuF"
-      },
-      "artists": [
-        {
-          "name": "Atom TM",
-          "url": "https://open.spotify.com/artist/2a8NW6dE2Igxb6LQXDhdgL"
-        }
-      ],
-      "duration_ms": 167497,
-      "name": "Around the World (Intro)",
-      "url": "https://open.spotify.com/track/21lWmLmNPE7tBehlegKU7c"
     },
     {
       "added_at": "2021-03-15 16:04:53",

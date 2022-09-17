@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZq91oLsHZvy.md) - [plain]
 
 > Run to indie and alternative hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,167 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,222 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZq91oLsHZvy.md) - [plain]
 | 14 | [Midnight City](https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Hurry Up, We're Dreaming](https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR) | 4:01 |
 | 15 | [bad idea!](https://open.spotify.com/track/1M4Ud66z18wuIq3oOxqVHa) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [bad idea!](https://open.spotify.com/album/6riOnMD3YhF8kGpAXpxbdj) | 3:39 |
 | 16 | [Dog Days Are Over](https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 4:11 |
-| 17 | [Doses & Mimosas](https://open.spotify.com/track/44CZRkOxv7UItaAUmh8PgN) | [Cherub](https://open.spotify.com/artist/00dwwnz3V4kRfu3UFYpJLz) | [Year of the Caprese](https://open.spotify.com/album/070DVvXuLD3fM3KYs47tas) | 5:23 |
-| 18 | [Clarity](https://open.spotify.com/track/5c6lM2zjAF6MFoD8C1hiBr) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Clarity](https://open.spotify.com/album/4V3BerycmgxqE3sr3RaDYE) | 3:47 |
+| 17 | [Clarity](https://open.spotify.com/track/5c6lM2zjAF6MFoD8C1hiBr) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Clarity](https://open.spotify.com/album/4V3BerycmgxqE3sr3RaDYE) | 3:47 |
+| 18 | [Doses & Mimosas](https://open.spotify.com/track/44CZRkOxv7UItaAUmh8PgN) | [Cherub](https://open.spotify.com/artist/00dwwnz3V4kRfu3UFYpJLz) | [Year of the Caprese](https://open.spotify.com/album/070DVvXuLD3fM3KYs47tas) | 5:23 |
 | 19 | [Dance, Baby!](https://open.spotify.com/track/5EV4bGHxVN0kHpcAFvgnTt) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Roy Pablo](https://open.spotify.com/album/1D3JNjKm7QRaHcIBzv0Xdn) | 3:18 |
 | 20 | [Wet Dream](https://open.spotify.com/track/6pjJUY0O4XgrYFGf9SwD7u) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Dream](https://open.spotify.com/album/2EVCxBosAlVsC0d7DAJXCA) | 2:20 |
 | 21 | [7](https://open.spotify.com/track/5ykbOijJEfRhuo2Td1m0Qd) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Ride](https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ) | 4:16 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZq91oLsHZvy.md) - [plain]
 | 65 | [Deleter](https://open.spotify.com/track/2yH16s2lLbYtLziVwqw7Pf) | [Grouplove](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Healer](https://open.spotify.com/album/1FsCJHnJORi2z5ibQs9aQI) | 3:54 |
 | 66 | [The Wolf](https://open.spotify.com/track/2rS77EbhEs7Y2UZD8pWIPb) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Wilder Mind](https://open.spotify.com/album/7yVx5zJONB6MO8zL1jHN7i) | 3:41 |
 | 67 | [Flashlight](https://open.spotify.com/track/5VeX28xDZhSgs7NWIR1Owp) | [The Front Bottoms](https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS) | [The Front Bottoms](https://open.spotify.com/album/5pCQUIEmbZveYwLmO3Iedv) | 4:57 |
-| 68 | [The Ghosts of Beverly Drive](https://open.spotify.com/track/6wNCdMW82LwJgFrnGqLhpJ) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Kintsugi](https://open.spotify.com/album/6BK3muExDOuk0VnyMn9NVw) | 4:03 |
-| 69 | [Go It Alone](https://open.spotify.com/track/7zeCIWu37bKFJuem8MTyM1) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Guero](https://open.spotify.com/album/2EugWXUZjr78KJFqZavvZT) | 4:08 |
+| 68 | [Go It Alone](https://open.spotify.com/track/7zeCIWu37bKFJuem8MTyM1) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Guero](https://open.spotify.com/album/2EugWXUZjr78KJFqZavvZT) | 4:08 |
+| 69 | [The Ghosts of Beverly Drive](https://open.spotify.com/track/6wNCdMW82LwJgFrnGqLhpJ) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Kintsugi](https://open.spotify.com/album/6BK3muExDOuk0VnyMn9NVw) | 4:03 |
 | 70 | [One Minute More](https://open.spotify.com/track/0NYLOvWtvJdyeceDD9R1Vw) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu), [Sebu Simonian](https://open.spotify.com/artist/2qNFFftPmkByIgN023GgLZ) | [In A Tidal Wave Of Mystery \(Deluxe Edition\)](https://open.spotify.com/album/3WrufJir7I61NkvkDwxero) | 3:22 |
 | 71 | [Dancing Anymore](https://open.spotify.com/track/3Xd0819paqFQB4LBA8XVb0) | [IS TROPICAL](https://open.spotify.com/artist/148ujrGRexnhpqhRiw0rDi) | [I'm Leaving](https://open.spotify.com/album/5Fjrapit4FBhLL0E1q6z3Z) | 5:18 |
 | 72 | [Gimme Twice](https://open.spotify.com/track/3DUBhiM44zetJNERX0n8Nk) | [The Royal Concept](https://open.spotify.com/artist/7LAucJAvbQa7ZIA0qP8YI2) | [Royal](https://open.spotify.com/album/4o7rdd2fYeSEXcTJLzpvsg) | 3:24 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZq91oLsHZvy.md) - [plain]
 | 93 | [Playing Games](https://open.spotify.com/track/7bt0EnhjElN4bw3K1KwIkU) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Dream Girl](https://open.spotify.com/album/5zn3hu6uk2DVnPF5yWfw0H) | 3:23 |
 | 94 | [Crypto Kids](https://open.spotify.com/track/1jonRhesfjLxwBlFZk5sJh) | [Cat Janice](https://open.spotify.com/artist/7kNpF2nj7eVgcVo8k6pWkz) | [Crypto Kids](https://open.spotify.com/album/7rpNTYRcmMcrocpbHCBErd) | 3:41 |
 | 95 | [tell ur friends](https://open.spotify.com/track/25RmznGaoSP8tjCLeU2iG2) | [Dulcie](https://open.spotify.com/artist/5mizYbdTNtmQlU97XqxJOe) | [tell ur friends](https://open.spotify.com/album/7kuv8kNG5KtYEWe4Sw0lSf) | 2:41 |
-| 96 | [Fight or Flight Club](https://open.spotify.com/track/42vh3jC0ejWdPOGp6dT30p) | [Madge](https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo) | [Fight or Flight Club](https://open.spotify.com/album/1UvqvFI3DlJ6wHCTDqXSYb) | 2:31 |
-| 97 | [In The Morning](https://open.spotify.com/track/2jNyUpqrjTgQn9fLWI6cMY) | [Razorlight](https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz) | [Alternative Rock Anthems](https://open.spotify.com/album/6HqFU3JhIwBSjpnGYVI3E7) | 3:41 |
-| 98 | [Get Out](https://open.spotify.com/track/3TNz5pqBMHctxlb1fNU95G) | [Sam Vance\-Law](https://open.spotify.com/artist/2M5w5QrYTg2yiuURwaQLEF) | [Get Out / Been Drinking](https://open.spotify.com/album/343PAtpc7ORaevuOhtiT8I) | 3:32 |
-| 99 | [Dirtball](https://open.spotify.com/track/2PUUFzVs8bjNrmoO12lskz) | [Modern Nun](https://open.spotify.com/artist/7A4YoJsZWQ3GRrHLGEmamb) | [Dirtball](https://open.spotify.com/album/1tiLz9mIQWcW801PJM0aD4) | 2:43 |
-| 100 | [Love Is An Only Child](https://open.spotify.com/track/2mKXwnyTLDOuZQz8vodLMh) | [Monico Blonde](https://open.spotify.com/artist/7sBhf0gQzkwJ4XZ4K8vWF1) | [Love Is An Only Child](https://open.spotify.com/album/0ocLHXKcQGYosbl8jgyAtw) | 2:24 |
+| 96 | [A Temporary High](https://open.spotify.com/track/02SgwZdog41hbpKX9aHA0c) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Gods We Can Touch](https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX) | 3:23 |
+| 97 | [Fight or Flight Club](https://open.spotify.com/track/42vh3jC0ejWdPOGp6dT30p) | [Madge](https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo) | [Fight or Flight Club](https://open.spotify.com/album/1UvqvFI3DlJ6wHCTDqXSYb) | 2:31 |
+| 98 | [In The Morning](https://open.spotify.com/track/2jNyUpqrjTgQn9fLWI6cMY) | [Razorlight](https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz) | [Alternative Rock Anthems](https://open.spotify.com/album/6HqFU3JhIwBSjpnGYVI3E7) | 3:41 |
+| 99 | [Get Out](https://open.spotify.com/track/3TNz5pqBMHctxlb1fNU95G) | [Sam Vance\-Law](https://open.spotify.com/artist/2M5w5QrYTg2yiuURwaQLEF) | [Get Out / Been Drinking](https://open.spotify.com/album/343PAtpc7ORaevuOhtiT8I) | 3:32 |
+| 100 | [Dirtball](https://open.spotify.com/track/2PUUFzVs8bjNrmoO12lskz) | [Modern Nun](https://open.spotify.com/artist/7A4YoJsZWQ3GRrHLGEmamb) | [Dirtball](https://open.spotify.com/album/1tiLz9mIQWcW801PJM0aD4) | 2:43 |
 
-Snapshot ID: `MTY2MjAyMzMxOCwwMDAwMDAwMDdmMzIyMWJmNTVmYmMzZjBiN2VmZjlkOGJiYTg0YmJm`
+Snapshot ID: `MTY2MzMwNDM1OCwwMDAwMDAwMGY0MGYwNzU3NGNlN2YwNThhOTJkOTgzM2JiZjcyY2Qz`

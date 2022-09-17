@@ -4822,6 +4822,24 @@
     },
     {
       "album": {
+        "name": "Hotel",
+        "url": "https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197333,
+      "name": "Hotel",
+      "url": "https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi"
+    },
+    {
+      "album": {
         "name": "Hotel (Sped Up)",
         "url": "https://open.spotify.com/album/5R41oZrPS2ehYpdndO7Muu"
       },
@@ -6870,6 +6888,24 @@
     },
     {
       "album": {
+        "name": "[MESSAGE FROM THE CLERGY]",
+        "url": "https://open.spotify.com/album/1BbfbJZan9d1srv8aHavom"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274783,
+      "name": "Mary On A Cross - slowed + reverb",
+      "url": "https://open.spotify.com/track/4yhzZ9ESp4UwnJqImyMR3A"
+    },
+    {
+      "album": {
         "name": "Mary On A Cross (slowed + reverb)",
         "url": "https://open.spotify.com/album/3uMnHBe9kSpru8jFG4bzB8"
       },
@@ -6881,7 +6917,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 274783,
       "name": "Mary On A Cross - slowed + reverb",
       "url": "https://open.spotify.com/track/6xWbpC8KpcItoGd8ZOKJlU"
@@ -8485,10 +8521,28 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 171305,
       "name": "One Kiss X I Was Never There",
       "url": "https://open.spotify.com/track/7b7t0p0e2lh5ySJVdnlwe8"
+    },
+    {
+      "album": {
+        "name": "One Kiss X I Was Never There",
+        "url": "https://open.spotify.com/album/6Gp1Tq29N4mPsCzFZTaYjQ"
+      },
+      "artists": [
+        {
+          "name": "Just Lowkey",
+          "url": "https://open.spotify.com/artist/5dSbMNdPisHKz5waAlBGZ3"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171305,
+      "name": "One Kiss X I Was Never There",
+      "url": "https://open.spotify.com/track/7pFDzZ3YKWT3JcpcXzbrCS"
     },
     {
       "album": {

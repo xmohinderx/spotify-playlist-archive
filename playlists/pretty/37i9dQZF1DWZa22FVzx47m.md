@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZa22FVzx47m.md) - [plain]
 
 > Canciones te inspiran a ti y a todas las mamás.
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,222 likes - 100 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,447 likes - 100 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZa22FVzx47m.md) - [plain]
 | 12 | [Antologia](https://open.spotify.com/track/0KAqMRUSZwzG3dZLdDA4eH) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Pies Descalzos](https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9) | 4:14 |
 | 13 | [Me Voy](https://open.spotify.com/track/100Tm6z29RfHTdUQ6NIs0s) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Limon Y Sal](https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q) | 3:07 |
 | 14 | [La Playa](https://open.spotify.com/track/2DNyZP4Py6f4zMASLBnIu6) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [El Viaje de Copperpot](https://open.spotify.com/album/3HnSOodhuufrSTBnGZQ3fu) | 4:07 |
-| 15 | [Amiga mía](https://open.spotify.com/track/6kQYMqjobmB8MkWwa9OUyA) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Más](https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI) | 4:50 |
-| 16 | [Me Gustas](https://open.spotify.com/track/7jtbRKtXtGtsJOBMaBo72W) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Secreto De Amor](https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV) | 3:27 |
+| 15 | [Me Gustas](https://open.spotify.com/track/7jtbRKtXtGtsJOBMaBo72W) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Secreto De Amor](https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV) | 3:27 |
+| 16 | [Amiga mía](https://open.spotify.com/track/6kQYMqjobmB8MkWwa9OUyA) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Más](https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI) | 4:50 |
 | 17 | [Ya Te Olvidé](https://open.spotify.com/track/4FsVB8msXzmemjJdTKUoal) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Para Mí](https://open.spotify.com/album/0nN4sE3MnNnZQSCXcYFiF0) | 3:31 |
 | 18 | [Dia de Enero](https://open.spotify.com/track/0OEBOJhSObnFuHuasXdt52) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Fijación Oral, Vol\. 1](https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae) | 2:53 |
 | 19 | [El Problema](https://open.spotify.com/track/5UJsYyBi0CdSJl0ul5aTgO) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Santo Pecado](https://open.spotify.com/album/7jlpMHgMoGjy2mc0CwzCjf) | 5:30 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZa22FVzx47m.md) - [plain]
 | 71 | [Usted Se Me Llevo la Vida](https://open.spotify.com/track/1wx6JALNy9KXwndVziEUKw) | [Alexandre Pires](https://open.spotify.com/artist/0Rrl4hJQjRAbGtiEwAqS5N) | [É Por Amor](https://open.spotify.com/album/6mtlmSyayzI491l9RSX8DO) | 4:32 |
 | 72 | [Aire soy \(feat\. Ximena Sariñana\)](https://open.spotify.com/track/1ORb6uGvpjsFwZK8FUpzWy) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Papitwo \(Deluxe\)](https://open.spotify.com/album/6mgs9ywhBqW5QSCMyYPC3g) | 4:08 |
 | 73 | [Entra en Mi Vida](https://open.spotify.com/track/4W6za66pgH7QBbeiU9kS1v) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Sin Bandera](https://open.spotify.com/album/01vioqAF5o29uDHYhXs6Vo) | 4:08 |
-| 74 | [Que Me Quedes Tú](https://open.spotify.com/track/3pWF6sOdKOtwtIbVaFMN6U) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Laundry Service](https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV) | 4:47 |
-| 75 | [Tú](https://open.spotify.com/track/5n49jN2souYjOuP9vHDpu4) | [Noelia](https://open.spotify.com/artist/0uMBj1TX0cktGnVzLlgWux) | [Noelia](https://open.spotify.com/album/2slvRFExgEeUIYzb55N0h9) | 4:51 |
+| 74 | [Tú](https://open.spotify.com/track/5n49jN2souYjOuP9vHDpu4) | [Noelia](https://open.spotify.com/artist/0uMBj1TX0cktGnVzLlgWux) | [Noelia](https://open.spotify.com/album/2slvRFExgEeUIYzb55N0h9) | 4:51 |
+| 75 | [Que Me Quedes Tú](https://open.spotify.com/track/3pWF6sOdKOtwtIbVaFMN6U) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Laundry Service](https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV) | 4:47 |
 | 76 | [Si Tú Supieras](https://open.spotify.com/track/3PHD1o4vP68uLbExcqUl1x) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Me Estoy Enamorando](https://open.spotify.com/album/63mrlnJgtofj8Ur7Q7Xh9P) | 4:06 |
 | 77 | [Este Terco Corazon](https://open.spotify.com/track/1iN1knAnE9tgY3FipGocKX) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Diez Años Cantandole Al Amor](https://open.spotify.com/album/7m0U4kGO3H4QUw5W75HsQ8) | 3:42 |
 | 78 | [Un Buen Perdedor](https://open.spotify.com/track/68RvCYDKtz9HR1WMR9D9VV) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Franco De Vita En Primera Fila](https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX) | 3:54 |
@@ -91,17 +91,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZa22FVzx47m.md) - [plain]
 | 81 | [Tu Pirata Soy Yo](https://open.spotify.com/track/2bHEObIToIMkdZRXsC04Kt) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Chayanne](https://open.spotify.com/album/20LKBgzwk7zrSSn0N8ukFV) | 2:53 |
 | 82 | [Mi error, mi fantasía](https://open.spotify.com/track/4fQgdmcUMqmlhhSjQdMHTE) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Frente a ti](https://open.spotify.com/album/56NsyR1PkXMsHRhkENdODk) | 3:48 |
 | 83 | [Cuando Mueres Por Alguien](https://open.spotify.com/track/6PGxt5a6I6G0tZhZTaupTj) | [Erik Rubin](https://open.spotify.com/artist/43hb5av90CTCWFldaaTp7n) | [La Casa Del Amor](https://open.spotify.com/album/3wOUvW0p0XQrFnM3X9l5us) | 3:56 |
-| 84 | [Enloquéceme](https://open.spotify.com/track/0tZARbD3Ir3eY7nbFULwfS) | [OV7](https://open.spotify.com/artist/5zaT4Qu9otu6z4oyWjRqM2) | [Lo Mejor De OV7](https://open.spotify.com/album/3YEri67vvZWR0WJxbda8D0) | 4:09 |
-| 85 | [El Sol No Regresa](https://open.spotify.com/track/0c8f8b76ThPP2MInXEZyTY) | [La Quinta Estacion](https://open.spotify.com/artist/7FZj349hdLfD6qzXkJLuAh) | [Recuérdame Con Cartas Y Algo Más..\. Los Exitos \(Deluxe Edition\)](https://open.spotify.com/album/3PXv5uwPtZmtg0Qq6PxAgm) | 3:48 |
+| 84 | [El Sol No Regresa](https://open.spotify.com/track/0c8f8b76ThPP2MInXEZyTY) | [La Quinta Estacion](https://open.spotify.com/artist/7FZj349hdLfD6qzXkJLuAh) | [Recuérdame Con Cartas Y Algo Más..\. Los Exitos \(Deluxe Edition\)](https://open.spotify.com/album/3PXv5uwPtZmtg0Qq6PxAgm) | 3:48 |
+| 85 | [Enloquéceme](https://open.spotify.com/track/0tZARbD3Ir3eY7nbFULwfS) | [OV7](https://open.spotify.com/artist/5zaT4Qu9otu6z4oyWjRqM2) | [Lo Mejor De OV7](https://open.spotify.com/album/3YEri67vvZWR0WJxbda8D0) | 4:09 |
 | 86 | [Yo Quisiera](https://open.spotify.com/track/1neSvFc8QotDXOJtXY7b8M) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Reik](https://open.spotify.com/album/16QRglfvF1gpz6GLsBC1gU) | 3:37 |
 | 87 | [Te Vi Venir](https://open.spotify.com/track/3jGGQIDuo8atu7d7iMzWCW) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Sin Bandera](https://open.spotify.com/album/01vioqAF5o29uDHYhXs6Vo) | 3:13 |
 | 88 | [De Repente](https://open.spotify.com/track/0eaSdnDwPCoXMwPMwko4Ne) | [Soraya](https://open.spotify.com/artist/5enSNzCwMx61gCMv9jaV4Q) | [Esenciales](https://open.spotify.com/album/0mHG8x3lDk1RaGfHeNQGDV) | 4:07 |
 | 89 | [No Me Enseñaste](https://open.spotify.com/track/37QuCMe2SASXrkLm5NhT5m) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Thalia](https://open.spotify.com/album/5aHuKZqTY34cuOcIFfohrt) | 4:29 |
 | 90 | [La flaca](https://open.spotify.com/track/0ll9JAIrM3NVBOMl45sxSX) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [La Flaca](https://open.spotify.com/album/1O5kJTerozuI2WLgzvIz2m) | 4:21 |
-| 91 | [Ese Beso](https://open.spotify.com/track/07hnXmPXyMeBHh3nT4PeQ0) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Amar No Es Suficiente](https://open.spotify.com/album/0KIiLC3DMqS2DZOkzLtqtU) | 4:09 |
-| 92 | [Quién Como Tú](https://open.spotify.com/track/0ElaCi1Qf86iEWhsxCw5h5) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Quien Como Tú](https://open.spotify.com/album/4r2m65IXlmzhi06V5V9Cs5) | 3:31 |
-| 93 | [Te Amo](https://open.spotify.com/track/2rdwDtrmhjgXgS2cSzXhe2) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Al Norte del Sur](https://open.spotify.com/album/3VARJQOdbDt0dOlLAPMkjv) | 3:46 |
-| 94 | [Algo Más](https://open.spotify.com/track/1L8RiMflaEtWqg6GtRQNAF) | [La Quinta Estacion](https://open.spotify.com/artist/7FZj349hdLfD6qzXkJLuAh) | [Recuérdame Con Cartas Y Algo Más..\. Los Exitos \(Deluxe Edition\)](https://open.spotify.com/album/3PXv5uwPtZmtg0Qq6PxAgm) | 4:26 |
+| 91 | [Algo Más](https://open.spotify.com/track/1L8RiMflaEtWqg6GtRQNAF) | [La Quinta Estacion](https://open.spotify.com/artist/7FZj349hdLfD6qzXkJLuAh) | [Recuérdame Con Cartas Y Algo Más..\. Los Exitos \(Deluxe Edition\)](https://open.spotify.com/album/3PXv5uwPtZmtg0Qq6PxAgm) | 4:26 |
+| 92 | [Ese Beso](https://open.spotify.com/track/07hnXmPXyMeBHh3nT4PeQ0) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Amar No Es Suficiente](https://open.spotify.com/album/0KIiLC3DMqS2DZOkzLtqtU) | 4:09 |
+| 93 | [Quién Como Tú](https://open.spotify.com/track/0ElaCi1Qf86iEWhsxCw5h5) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Quien Como Tú](https://open.spotify.com/album/4r2m65IXlmzhi06V5V9Cs5) | 3:31 |
+| 94 | [Te Amo](https://open.spotify.com/track/2rdwDtrmhjgXgS2cSzXhe2) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Al Norte del Sur](https://open.spotify.com/album/3VARJQOdbDt0dOlLAPMkjv) | 3:46 |
 | 95 | [Por Debajo De La Mesa](https://open.spotify.com/track/1livAifXh1DMv25kTfFFHR) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romances](https://open.spotify.com/album/5bCqJHjSlxroHQdR8i8Qvo) | 3:04 |
 | 96 | [Se fué](https://open.spotify.com/track/6LU8uRM2fPgaHKD18I0Azk) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Laura Pausini: 25 Aniversario \(Spanish Version\)](https://open.spotify.com/album/0EXcVDePo397i4Um4vGxGs) | 4:40 |
 | 97 | [Volveras](https://open.spotify.com/track/0HBBLo3stGC04YBtVb43fG) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [A Medio Vivir](https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM) | 4:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZa22FVzx47m.md) - [plain]
 | 99 | [Duele El Amor!](https://open.spotify.com/track/2SfWO6xWCJd7q5oiUcphyi) | [Aleks Syntek](https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi), [Ana Torroja](https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124) | [1989\-2009](https://open.spotify.com/album/19I8hvP9qeZOudvIPd7Gv5) | 4:35 |
 | 100 | [Para Amarnos Más](https://open.spotify.com/track/4Kjh2Yot6QjyebFqfLaoMm) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [Celebridades\- Mijares](https://open.spotify.com/album/754knedaR3meZPGrnCf1Hf) | 3:29 |
 
-Snapshot ID: `MTY1OTk5Nzc2OCwwMDAwMDAwMGM1NzEzMTg2ZDZkYTNmMGJlMDU5ODRiYzljMTYxZTQ3`
+Snapshot ID: `MTY1OTk5Nzc2OCwwMDAwMDAwMGY0YTEwYTQyZDNjNTQzMDI3NmVhZGNjZGQ3NjA4YzA2`

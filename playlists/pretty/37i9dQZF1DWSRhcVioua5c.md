@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 
 > Una selección de baladas para suspirar de amor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,491 likes - 90 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,522 likes - 90 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 | 32 | [Anaranjado \- Mas Allá De La Ternura](https://open.spotify.com/track/6gSV038YhbtaZ5IXPSQpzk) | [Los Changos](https://open.spotify.com/artist/5fQdSkybNhdOYKwLLUWL71) | [Mas Alla De La Ternura](https://open.spotify.com/album/7bDXvo0f6646ayD4xSaeBc) | 4:12 |
 | 33 | [Zamba para Decir Adiós](https://open.spotify.com/track/1XojvsvPtUsG4SqgHiGiGX) | [Campedrinos](https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx) | [Zamba para Decir Adiós](https://open.spotify.com/album/0Yu1ZRD84F4phx551aEUl5) | 3:54 |
 | 34 | [Nuestro Juramento](https://open.spotify.com/track/5u7V5Mgr9RGuNcJKVYLRlx) | [Los Cantores del Alba](https://open.spotify.com/artist/2kRyLphTQyz7eaHhfLpMVl) | [La Historia](https://open.spotify.com/album/55sN3ewoEyGxBfaJ5klMeb) | 3:17 |
-| 35 | [Fabula De Amor](https://open.spotify.com/track/7KAX0hjF1ieKr0k5rSPDNH) | [Sergio Galleguillo Y Los Amigos](https://open.spotify.com/artist/4RWsSjLE6TMBwdYzHj2NiO) | [Grito Chayero](https://open.spotify.com/album/0Q5etdp3c84hBS4RgfPv4O) | 4:02 |
-| 36 | [Hablan de Ti](https://open.spotify.com/track/4kXxLcxnzWUbpuRHI3gVH6) | [Copla alta](https://open.spotify.com/artist/60g9S4kJm1m9kbrt89H5CQ), [Chacho Ramos](https://open.spotify.com/artist/7Bl9s8h4F1jcX1aJYHBpfm) | [Hablan de Ti](https://open.spotify.com/album/7gpv5WXgXoZlRpVso7o8yz) | 4:02 |
+| 35 | [Hablan de Ti](https://open.spotify.com/track/4kXxLcxnzWUbpuRHI3gVH6) | [Copla alta](https://open.spotify.com/artist/60g9S4kJm1m9kbrt89H5CQ), [Chacho Ramos](https://open.spotify.com/artist/7Bl9s8h4F1jcX1aJYHBpfm) | [Hablan de Ti](https://open.spotify.com/album/7gpv5WXgXoZlRpVso7o8yz) | 4:02 |
+| 36 | [Fabula De Amor](https://open.spotify.com/track/7KAX0hjF1ieKr0k5rSPDNH) | [Sergio Galleguillo Y Los Amigos](https://open.spotify.com/artist/4RWsSjLE6TMBwdYzHj2NiO) | [Grito Chayero](https://open.spotify.com/album/0Q5etdp3c84hBS4RgfPv4O) | 4:02 |
 | 37 | [No Me Olvides](https://open.spotify.com/track/5OJAOB8Pe0IZOeGGjerPkE) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Reevolución](https://open.spotify.com/album/3YL3YmNrEYympobNbV3eXT) | 3:54 |
 | 38 | [Tal Como Siento](https://open.spotify.com/track/1ubO0IhgfyLLsiLilCYryr) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Tal Como Siento](https://open.spotify.com/album/4RD7YJolJUp5VbNYGtawfn) | 4:00 |
 | 39 | [Te Pido En Agosto](https://open.spotify.com/track/39EGOt9hySCsyT0Bamt8v2) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6), [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [PACHAKUTI](https://open.spotify.com/album/5vSZkx2vIdCNH0IVndOHpi) | 3:36 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 | 89 | [Gotas de Amor](https://open.spotify.com/track/3JS1Eq5oS5mPqZjuJSkRCD) | [Roxana Carabajal](https://open.spotify.com/artist/3XliglxGifK0IJjHPxo5MP), [Raly Barrionuevo](https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf) | [Autóctona](https://open.spotify.com/album/2E6mheIAe5QBEI5a5TuiKV) | 5:19 |
 | 90 | [Todo Será Mejor](https://open.spotify.com/track/6OPnnk3JYCQNybD4WMH5n5) | [Qiro](https://open.spotify.com/artist/5IkUS6AF0FAuaEEVf84tAO) | [Todo Será Mejor](https://open.spotify.com/album/2IbkSqdOd9aEpVuXUSgc2q) | 3:59 |
 
-Snapshot ID: `MTY2MjA4NzYwMCwwMDAwMDAwMGZlOTdlOTc0ZjY3NzEyNWQyODk4YzNkYmZjN2EwZmQw`
+Snapshot ID: `MTY2MjA4NzYwMCwwMDAwMDAwMDcxZmY3OGUwOTEzMDQ2YzM0YjRmZjEyZDQ5MTkwYzE2`

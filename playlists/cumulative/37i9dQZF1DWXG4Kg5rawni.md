@@ -4,7 +4,7 @@
 
 > Adoradores cantando sobre o amor\. Foto: Cassiane e Jairinho
 
-66 songs - 4 hr 25 min - not published yet
+66 songs - 4 hr 25 min - [published](https://open.spotify.com/playlist/07hjwL9BJ8F4GsasnO25K1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

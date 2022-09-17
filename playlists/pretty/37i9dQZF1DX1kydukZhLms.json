@@ -1,12 +1,12 @@
 {
   "description": "A collection of the best metal ballads.",
-  "num_followers": 1071367,
+  "num_followers": 1071753,
   "original_name": "Metal Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDA0NDY0OSwwMDAwMDAwMDhkN2IwNTgyMWI2OTExYzJlNjgyYjE5YzRkNzUwOTBk",
+  "snapshot_id": "MTY1MDA0NDY0OSwwMDAwMDAwMDBiYTdmNzIxOWRhMGU2YTQ3OTQ4ZmQyZGQzM2ViM2I5",
   "tracks": [
     {
       "added_at": "2022-04-15 17:44:09",
@@ -571,26 +571,6 @@
     {
       "added_at": "2022-04-15 17:44:09",
       "album": {
-        "name": "Worlds Collide",
-        "url": "https://open.spotify.com/album/1rcVwAd9FXK9ONouJVeRSF"
-      },
-      "artists": [
-        {
-          "name": "Apocalyptica",
-          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
-        },
-        {
-          "name": "Adam Gontier",
-          "url": "https://open.spotify.com/artist/2NkpmkcWNxbWydBaETRfqT"
-        }
-      ],
-      "duration_ms": 237346,
-      "name": "I Don't Care",
-      "url": "https://open.spotify.com/track/4eD48Ur3heQtP8ZGzl7buk"
-    },
-    {
-      "added_at": "2022-04-15 17:44:09",
-      "album": {
         "name": "Slippery When Wet",
         "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
       },
@@ -671,22 +651,6 @@
     {
       "added_at": "2022-04-15 17:44:09",
       "album": {
-        "name": "Ride The Lightning (Deluxe Remaster)",
-        "url": "https://open.spotify.com/album/2omIeSJEGQeKHPOpiXgfkr"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 417226,
-      "name": "Fade To Black (Remastered)",
-      "url": "https://open.spotify.com/track/0dqGfCMAGyDgpUAgLNOjWd"
-    },
-    {
-      "added_at": "2022-04-15 17:44:09",
-      "album": {
         "name": "Permanent Vacation",
         "url": "https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp"
       },
@@ -699,6 +663,22 @@
       "duration_ms": 308906,
       "name": "Angel",
       "url": "https://open.spotify.com/track/3kfXUGIdBNpyr2gBvU3Guj"
+    },
+    {
+      "added_at": "2022-04-15 17:44:09",
+      "album": {
+        "name": "Ride The Lightning (Deluxe Remaster)",
+        "url": "https://open.spotify.com/album/2omIeSJEGQeKHPOpiXgfkr"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 417226,
+      "name": "Fade To Black (Remastered)",
+      "url": "https://open.spotify.com/track/0dqGfCMAGyDgpUAgLNOjWd"
     },
     {
       "added_at": "2022-04-15 17:44:09",
@@ -975,22 +955,6 @@
     {
       "added_at": "2022-04-15 17:44:09",
       "album": {
-        "name": "Reload",
-        "url": "https://open.spotify.com/album/7KDqRmr937ylvGilPGWxfD"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 396440,
-      "name": "The Unforgiven II",
-      "url": "https://open.spotify.com/track/0IGXkVRn0uCsgn4FvIfpgB"
-    },
-    {
-      "added_at": "2022-04-15 17:44:09",
-      "album": {
         "name": "Mane Attraction",
         "url": "https://open.spotify.com/album/49q8hRnhM6xM5PD5tQSGxb"
       },
@@ -1003,6 +967,22 @@
       "duration_ms": 265160,
       "name": "You're All I Need",
       "url": "https://open.spotify.com/track/4C8qZRxrteBY9F8r2oZrV3"
+    },
+    {
+      "added_at": "2022-04-15 17:44:09",
+      "album": {
+        "name": "Reload",
+        "url": "https://open.spotify.com/album/7KDqRmr937ylvGilPGWxfD"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 396440,
+      "name": "The Unforgiven II",
+      "url": "https://open.spotify.com/track/0IGXkVRn0uCsgn4FvIfpgB"
     },
     {
       "added_at": "2022-04-15 17:44:09",
@@ -1119,22 +1099,6 @@
     {
       "added_at": "2022-04-15 17:44:09",
       "album": {
-        "name": "Whitesnake (2018 Remaster)",
-        "url": "https://open.spotify.com/album/5drgoLSnXSDIhNK4ms3P7I"
-      },
-      "artists": [
-        {
-          "name": "Whitesnake",
-          "url": "https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP"
-        }
-      ],
-      "duration_ms": 397768,
-      "name": "Still of the Night - 2018 Remaster",
-      "url": "https://open.spotify.com/track/40GS2O35HIqhOVCFZZTfFF"
-    },
-    {
-      "added_at": "2022-04-15 17:44:09",
-      "album": {
         "name": "Stained Class",
         "url": "https://open.spotify.com/album/0v6FGuCgvRotTNL1KoX297"
       },
@@ -1147,6 +1111,22 @@
       "duration_ms": 409800,
       "name": "Beyond the Realms of Death",
       "url": "https://open.spotify.com/track/3Rtv6zRNKpeSygXoaF9kCm"
+    },
+    {
+      "added_at": "2022-04-15 17:44:09",
+      "album": {
+        "name": "Whitesnake (2018 Remaster)",
+        "url": "https://open.spotify.com/album/5drgoLSnXSDIhNK4ms3P7I"
+      },
+      "artists": [
+        {
+          "name": "Whitesnake",
+          "url": "https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP"
+        }
+      ],
+      "duration_ms": 397768,
+      "name": "Still of the Night - 2018 Remaster",
+      "url": "https://open.spotify.com/track/40GS2O35HIqhOVCFZZTfFF"
     },
     {
       "added_at": "2022-04-15 17:44:09",
@@ -1359,22 +1339,6 @@
     {
       "added_at": "2022-04-15 17:44:09",
       "album": {
-        "name": "Hysteria (Super Deluxe)",
-        "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 354636,
-      "name": "Hysteria - Remastered 2017",
-      "url": "https://open.spotify.com/track/6EzSduIPnAmO3o41HY5V9d"
-    },
-    {
-      "added_at": "2022-04-15 17:44:09",
-      "album": {
         "name": "And Justice for None (Deluxe)",
         "url": "https://open.spotify.com/album/440w9VaZP1M7FnfMdHapR3"
       },
@@ -1387,6 +1351,22 @@
       "duration_ms": 274615,
       "name": "Blue on Black",
       "url": "https://open.spotify.com/track/1ADRAy7q7FjRak0uQva68H"
+    },
+    {
+      "added_at": "2022-04-15 17:44:09",
+      "album": {
+        "name": "Hysteria (Super Deluxe)",
+        "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 354636,
+      "name": "Hysteria - Remastered 2017",
+      "url": "https://open.spotify.com/track/6EzSduIPnAmO3o41HY5V9d"
     },
     {
       "added_at": "2022-04-15 17:44:09",
@@ -1787,6 +1767,22 @@
       "duration_ms": 366106,
       "name": "I Still Love You",
       "url": "https://open.spotify.com/track/3UGAFI6gHmz88xMQbHr1UT"
+    },
+    {
+      "added_at": "2022-04-15 17:44:09",
+      "album": {
+        "name": "Dictator",
+        "url": "https://open.spotify.com/album/4cUVZzT8zNBkHjBfd4WiWS"
+      },
+      "artists": [
+        {
+          "name": "Daron Malakian and Scars On Broadway",
+          "url": "https://open.spotify.com/artist/5vbtZfRJjn2QLhPhtYpiqi"
+        }
+      ],
+      "duration_ms": 256586,
+      "name": "Guns Are Loaded",
+      "url": "https://open.spotify.com/track/2SZF3qH7XF7205oNaeEs49"
     },
     {
       "added_at": "2022-04-15 17:44:09",

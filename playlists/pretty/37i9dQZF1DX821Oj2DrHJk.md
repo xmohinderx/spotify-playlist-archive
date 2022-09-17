@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX821Oj2DrHJk.md) - [plain]
 
 > Rock that was on repeat during the summers of the 1970s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,518 likes - 100 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,531 likes - 100 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX821Oj2DrHJk.md) - [plain]
 | 57 | [Over the Hills and Far Away \- Remaster](https://open.spotify.com/track/2eDdFHgqNJltzlvlZFVDWd) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Houses of the Holy \(Remaster\)](https://open.spotify.com/album/0GqpoHJREPp0iuXK3HzrHk) | 4:50 |
 | 58 | [Dancing In The Moonlight \(It's Caught Me In It's Spotlight\)](https://open.spotify.com/track/6BmzbaB08O0FjHXeS0cR5b) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Bad Reputation \(Expanded Edition\)](https://open.spotify.com/album/0DHKadXfnYCAXp28F3HI8U) | 3:24 |
 | 59 | [Hot Blooded](https://open.spotify.com/track/6xMHglHoafdDFGXS6qfwSH) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [Double Vision \(Expanded\)](https://open.spotify.com/album/6lu6DYE0eHHp1gd3QGUYhu) | 4:28 |
-| 60 | [Bang a Gong \(Get It On\) \- 2003 Remaster](https://open.spotify.com/track/6FsQrRpBLgsrFeAeiQqytm) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Electric Warrior \[Expanded & Remastered\]](https://open.spotify.com/album/6k1iylSzWOs7SgavxlJ8kt) | 4:27 |
-| 61 | [Let It Ride](https://open.spotify.com/track/3UQA4UTVqcI0VtSQ38nlq1) | [Bachman\-Turner Overdrive](https://open.spotify.com/artist/5q4AzEtCoYJyXjMMoEkSU5) | [Bachman\-Turner Overdrive II](https://open.spotify.com/album/1p2tbwfEfN8kZNOi4F3bGH) | 4:27 |
+| 60 | [Let It Ride](https://open.spotify.com/track/3UQA4UTVqcI0VtSQ38nlq1) | [Bachman\-Turner Overdrive](https://open.spotify.com/artist/5q4AzEtCoYJyXjMMoEkSU5) | [Bachman\-Turner Overdrive II](https://open.spotify.com/album/1p2tbwfEfN8kZNOi4F3bGH) | 4:27 |
+| 61 | [Bang a Gong \(Get It On\) \- 2003 Remaster](https://open.spotify.com/track/6FsQrRpBLgsrFeAeiQqytm) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Electric Warrior \[Expanded & Remastered\]](https://open.spotify.com/album/6k1iylSzWOs7SgavxlJ8kt) | 4:27 |
 | 62 | [You're My Best Friend \- Remastered 2011](https://open.spotify.com/track/4OKf7CcYuw5H2HptkcKxcP) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera \(Deluxe Remastered Version\)](https://open.spotify.com/album/6X9k3hSsvQck2OfKYdBbXr) | 2:50 |
 | 63 | [Smoke on the Water](https://open.spotify.com/track/5SAUIWdZ04OxYfJFDchC7S) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Machine Head](https://open.spotify.com/album/1EK3a0Yctg4d3nGQzE4Uty) | 5:42 |
 | 64 | [Let's Stick Together](https://open.spotify.com/track/6y4FVJwf09ssxuRnlEgXkp) | [Bryan Ferry](https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC) | [Let's Stick Together](https://open.spotify.com/album/7q7RBiiadKQR4DCbs7OMbd) | 2:59 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX821Oj2DrHJk.md) - [plain]
 | 73 | [Back In the Saddle](https://open.spotify.com/track/0ZGLuduCPjgWY1n85ykgMe) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Rocks](https://open.spotify.com/album/5Uv5LmSKTT9okGkr3l9MjR) | 4:40 |
 | 74 | [Cat Scratch Fever](https://open.spotify.com/track/0SvfyHYDp2uIsHt53LDlI9) | [Ted Nugent](https://open.spotify.com/artist/21ysNsPzHdqYN2fQ75ZswG) | [Cat Scratch Fever](https://open.spotify.com/album/5vndJ1bTQkvu3HZaJjgomB) | 3:39 |
 | 75 | [Jet Airliner](https://open.spotify.com/track/4PMx9RSiKlgry322H27rrZ) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Book Of Dreams](https://open.spotify.com/album/36G9sqbDXXbE7Mv9GTDMXd) | 4:25 |
-| 76 | [Jesus Just Left Chicago \- 2006 Remaster](https://open.spotify.com/track/4tYjuquiKvx2Pq6usRTVWB) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tres Hombres \(Expanded 2006 Remaster\)](https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY) | 3:30 |
-| 77 | [Lola \- 2020 Stereo Remaster](https://open.spotify.com/track/4ZKgPZ9d4V5WW6H2s4qMD3) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Lola Versus Powerman and the Moneygoround, Pt\. 1](https://open.spotify.com/album/70kpGi2o0I7NY4DfwIN2p0) | 4:01 |
+| 76 | [Lola \- 2020 Stereo Remaster](https://open.spotify.com/track/4ZKgPZ9d4V5WW6H2s4qMD3) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Lola Versus Powerman and the Moneygoround, Pt\. 1](https://open.spotify.com/album/70kpGi2o0I7NY4DfwIN2p0) | 4:01 |
+| 77 | [Jesus Just Left Chicago \- 2006 Remaster](https://open.spotify.com/track/4tYjuquiKvx2Pq6usRTVWB) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tres Hombres \(Expanded 2006 Remaster\)](https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY) | 3:30 |
 | 78 | [Airport](https://open.spotify.com/track/6F0CQMioZrqgkp3oHx4hpY) | [The Motors](https://open.spotify.com/artist/4NsDGsuSfCM30e1JSMGeAn) | [Approved By The Motors](https://open.spotify.com/album/6i97ms05bUtfv2sWTsvzYg) | 4:38 |
 | 79 | [All Right Now](https://open.spotify.com/track/2ZMEdXxVSRfMshCDBMjt0o) | [Free](https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC) | [20th Century Masters: The Millennium Collection: Best Of Free](https://open.spotify.com/album/0y1k7yzTo230VF9VPZhV1k) | 5:34 |
 | 80 | [Peaches \- 1996 Remaster](https://open.spotify.com/track/71Y7sPJm0DpCix0fHaAlhI) | [The Stranglers](https://open.spotify.com/artist/0RUEHcBiENFEqxgicqS2ig) | [Rattus Norvegicus](https://open.spotify.com/album/38lyLeszq1p2sck1lB53dq) | 4:05 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX821Oj2DrHJk.md) - [plain]
 | 86 | [Can the Can](https://open.spotify.com/track/1zaiZAuhPkQfhhY9X2mTnn) | [Suzi Quatro](https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ) | [Suzi Quatro](https://open.spotify.com/album/63KpMsxh6E1WJPcDeT2GH4) | 3:34 |
 | 87 | [Lady Writer](https://open.spotify.com/track/3mwFncaI2HBczQ92GP9MQF) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Communiqué](https://open.spotify.com/album/6HEOoO8aHq5M88OA4teVY1) | 3:49 |
 | 88 | [Angie \- Remastered](https://open.spotify.com/track/5FQdAbZKZWwgeWTqTFVVMo) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Made In The Shade](https://open.spotify.com/album/2IP71ETmY8bjS3VYYXcidI) | 4:31 |
-| 89 | [Run for Home](https://open.spotify.com/track/6JoQg3P42ngcpyBNoTFWPC) | [Lindisfarne](https://open.spotify.com/artist/4AgFg0hHythyklEs4t7XKt) | [Back and Fourth](https://open.spotify.com/album/4k1bBW9n9T1kkByxHFWokQ) | 4:20 |
-| 90 | [Can't Stand Losing You](https://open.spotify.com/track/39ZC8fZuLGJfpoaTST7vw3) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [The Very Best Of Sting And The Police](https://open.spotify.com/album/6UB8pBE0K3je0ePso0OmCi) | 3:00 |
+| 89 | [Can't Stand Losing You](https://open.spotify.com/track/39ZC8fZuLGJfpoaTST7vw3) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [The Very Best Of Sting And The Police](https://open.spotify.com/album/6UB8pBE0K3je0ePso0OmCi) | 3:00 |
+| 90 | [Run for Home](https://open.spotify.com/track/6JoQg3P42ngcpyBNoTFWPC) | [Lindisfarne](https://open.spotify.com/artist/4AgFg0hHythyklEs4t7XKt) | [Back and Fourth](https://open.spotify.com/album/4k1bBW9n9T1kkByxHFWokQ) | 4:20 |
 | 91 | [Prove It All Night](https://open.spotify.com/track/0Ye9OGxiHF3jylblTCuX7Q) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Darkness On the Edge of Town](https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc) | 3:57 |
 | 92 | [Thick as a Brick \(Pt\. I\) \- 1997 Remaster](https://open.spotify.com/track/0eufeeCADKlpxLA7HATWBW) | [Jethro Tull](https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R) | [Thick as a Brick](https://open.spotify.com/album/1ZxChDw03SUFGUz0RC8A8M) | 22:40 |
 | 93 | [48 Crash](https://open.spotify.com/track/5mgZHaDo0dyTByF8pWu8Sj) | [Suzi Quatro](https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ) | [Suzi Quatro](https://open.spotify.com/album/63KpMsxh6E1WJPcDeT2GH4) | 3:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX821Oj2DrHJk.md) - [plain]
 | 99 | [Little Willy](https://open.spotify.com/track/5l7WMtIUfX4D2XsHYOp4zV) | [Sweet](https://open.spotify.com/artist/3JaAGmSTpJK35DqWrDUzBz) | [Best Of Sweet](https://open.spotify.com/album/7I5IWDrFPKeqhRSnd6QrXG) | 3:15 |
 | 100 | [Girls Talk](https://open.spotify.com/track/7vjs7IWQlxfhlxSYsKbKB6) | [Dave Edmunds](https://open.spotify.com/artist/65Gh3BfK84aTIugiRCgLBA) | [Single Trax 1970\-1981](https://open.spotify.com/album/4Zk0R6PCTujeSb9ppg1vQi) | 3:25 |
 
-Snapshot ID: `MTY1Mzk0MjI4OCwwMDAwMDAwMDQ5ODMzOTAxZDBlMDk4YzIzYzllOGQ5ZWRlNTZhYTA0`
+Snapshot ID: `MTY1Mzk0MjI4OCwwMDAwMDAwMDZlY2IyMDdjOTUwNWNmOGE1ODYyMDYyOTQwM2I5NDMy`

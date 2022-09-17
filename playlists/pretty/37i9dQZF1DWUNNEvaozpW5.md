@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 
 > Lo mejor del rock de aquí, como Extremoduro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 521,264 likes - 75 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 521,396 likes - 75 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Flaca](https://open.spotify.com/track/1p7m9H4H8s0Y7SgRm7j3ED) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Alta Suciedad](https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6) | 4:37 |
-| 2 | [Agua](https://open.spotify.com/track/5omgFpiMt1CGHjQGfkwzvz) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [Depende](https://open.spotify.com/album/5aLIm5xrN5UxUZOXbjyrrx) | 4:14 |
+| 2 | [Diablo](https://open.spotify.com/track/511ZMyXhrPlJvQSYtBWDy3) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl), [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai) | [Diablo](https://open.spotify.com/album/3r78Qu7OFZre4Otl5eVvz7) | 2:44 |
 | 3 | [Si te vas...](https://open.spotify.com/track/2x59pa3xDf8hHZ4N3f5fGQ) | [Extremoduro](https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK) | [Material defectuoso](https://open.spotify.com/album/3JFryzZ2dByJ7Z2Ik2fVua) | 8:36 |
 | 4 | [El lado oscuro](https://open.spotify.com/track/7DwKN1lzYui7iKUmRvzOU1) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [La Flaca](https://open.spotify.com/album/1O5kJTerozuI2WLgzvIz2m) | 4:48 |
-| 5 | [Diablo](https://open.spotify.com/track/511ZMyXhrPlJvQSYtBWDy3) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl), [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai) | [Diablo](https://open.spotify.com/album/3r78Qu7OFZre4Otl5eVvz7) | 2:44 |
+| 5 | [Agua](https://open.spotify.com/track/5omgFpiMt1CGHjQGfkwzvz) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [Depende](https://open.spotify.com/album/5aLIm5xrN5UxUZOXbjyrrx) | 4:14 |
 | 6 | [Cadillac solitario](https://open.spotify.com/track/3VNxbWlw9oVvxSnSbeiCBb) | [Loquillo](https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr) | [Rock & Roll Star \- 30 años](https://open.spotify.com/album/24fPzeDiySM2lt3pvuLKGR) | 3:34 |
 | 7 | [Soldadito marinero](https://open.spotify.com/track/0eVborSuxUeSg0meWYd9dZ) | [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo) | [Lo mas lejos a tu lado](https://open.spotify.com/album/5ARI6MI0J9CnAqT9vfhd4n) | 4:14 |
 | 8 | [Entre dos tierras](https://open.spotify.com/track/7BYqVvoXpQFhs4jJ0qqNZt) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Senderos De Traición \- Edición Especial](https://open.spotify.com/album/7DAoA2gOvycforLAKyFD8Y) | 6:08 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 42 | [Insurreccion \(En Directo\)](https://open.spotify.com/track/4SafR3a8senZ2r65hZWMKN) | [El Último De La Fila](https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I) | [Insurreccion \(En Directo\)](https://open.spotify.com/album/5focapBHI0lsefUUz46XxG) | 2:14 |
 | 43 | [La sirena varada](https://open.spotify.com/track/185xDOLU8KPZKqhUICnjRz) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [El Espíritu Del Vino\- Edición Especial](https://open.spotify.com/album/1HL69BuLCP5QTfz6pE0Qg3) | 4:17 |
 | 44 | [So payaso](https://open.spotify.com/track/5HSpMRUC4m3L3q48to2Kmu) | [Extremoduro](https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK) | [Agila](https://open.spotify.com/album/3msSCqpQLoY0nl4RTSf1Is) | 4:41 |
-| 45 | [Escuela de Calor](https://open.spotify.com/track/7J0niAY0FLzGiCVJUREl88) | [Radio Futura](https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM) | [La Ley Del Desierto](https://open.spotify.com/album/12q1hQoVuKLVUaqlksygIu) | 3:30 |
-| 46 | [El Limite](https://open.spotify.com/track/0NFcUhw2uKzX0zqH81tWOu) | [La Frontera](https://open.spotify.com/artist/4WeIMVqCUH09dxtBsstIw3) | [La Rosa De Los Vientos](https://open.spotify.com/album/51ohZ4F4nZ40R8eGyK7tZT) | 4:35 |
+| 45 | [El Limite](https://open.spotify.com/track/0NFcUhw2uKzX0zqH81tWOu) | [La Frontera](https://open.spotify.com/artist/4WeIMVqCUH09dxtBsstIw3) | [La Rosa De Los Vientos](https://open.spotify.com/album/51ohZ4F4nZ40R8eGyK7tZT) | 4:35 |
+| 46 | [Escuela de Calor](https://open.spotify.com/track/7J0niAY0FLzGiCVJUREl88) | [Radio Futura](https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM) | [La Ley Del Desierto](https://open.spotify.com/album/12q1hQoVuKLVUaqlksygIu) | 3:30 |
 | 47 | [A San Fernando un Ratito a Pie y Otro Caminando](https://open.spotify.com/track/740Rh302Wm6uHRsYTa4KDQ) | [Manolo Garcia](https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4) | [Arena En Los Bolsillos](https://open.spotify.com/album/0bFrRKmqzgPqL1ej485WLf) | 3:47 |
 | 48 | [El roce de tu cuerpo](https://open.spotify.com/track/3EPd9riN2R8Zjl6GkrxxGl) | [Platero Y Tu](https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav) | [Muy Deficiente](https://open.spotify.com/album/6nSNoI4zgtfMm1H9NXI4r1) | 4:10 |
 | 49 | [La flaca](https://open.spotify.com/track/0ll9JAIrM3NVBOMl45sxSX) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [La Flaca](https://open.spotify.com/album/1O5kJTerozuI2WLgzvIz2m) | 4:21 |
@@ -65,10 +65,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 55 | [Rojitas](https://open.spotify.com/track/5Srks36XWpQoF47EYF7ExI) | [Extrechinato y Tu](https://open.spotify.com/artist/5qi25oEuARj6wUbqiMSj0w) | [Poesía Básica](https://open.spotify.com/album/4xhZ3vSDxAYlXCuorMDAbV) | 3:52 |
 | 56 | [Corazon de mimbre](https://open.spotify.com/track/6ScI1xf3RszISXvLGmitY3) | [Marea](https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ) | [Coces al Aire 1997\-2007](https://open.spotify.com/album/3mfnHHROaUAzdzmTZHI1YQ) | 5:37 |
 | 57 | [Aquellas Cosas Que Solíamos Hacer](https://open.spotify.com/track/10706ilBOvqVSOAbUoxean) | [Benito Kamelas](https://open.spotify.com/artist/6pds73TcYgdgd1UOBWHRqn), [Poncho K](https://open.spotify.com/artist/4fi2id2V1djZTVkPBLwaUz) | [Sin Trampa Ni Cartón](https://open.spotify.com/album/45ctqDxKNe2QVYVvq0dGRR) | 4:49 |
-| 58 | [Aviones Plateados \- En Directo](https://open.spotify.com/track/2fqKBa80qJ7yhucBwLXZF5) | [El Último De La Fila](https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I) | [Historia de una Banda \(En Directo\)](https://open.spotify.com/album/5yxWQnpSWZdXeiZ6YPOOlu) | 3:50 |
-| 59 | [Mar adentro](https://open.spotify.com/track/1Oo6emBm60fXZJU2RCeWpH) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [El Mar No Cesa\- Edición Especial](https://open.spotify.com/album/1ybmfBatQowYBzowJxE74Y) | 4:01 |
-| 60 | [Insurrección \(con Manolo García\)](https://open.spotify.com/track/5JD2HODIglXaNJopWb248t) | [Miguel Ríos](https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ), [Manolo Garcia](https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4) | [Miguel Ríos y las estrellas del Rock latino](https://open.spotify.com/album/1meG4YSY7cIKvQkQR3D6hH) | 3:47 |
-| 61 | [Lo Siento](https://open.spotify.com/track/2x61iZkbSjW76OX6PQleiX) | [Viva Suecia](https://open.spotify.com/artist/57s0ep3eNSg81D7ZxiuHbC), [Dani Fernández](https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC) | [Lo Siento](https://open.spotify.com/album/1G76m2bawyWMl7Rg1shAF6) | 3:48 |
+| 58 | [Mar adentro](https://open.spotify.com/track/1Oo6emBm60fXZJU2RCeWpH) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [El Mar No Cesa\- Edición Especial](https://open.spotify.com/album/1ybmfBatQowYBzowJxE74Y) | 4:01 |
+| 59 | [Aviones Plateados \- En Directo](https://open.spotify.com/track/2fqKBa80qJ7yhucBwLXZF5) | [El Último De La Fila](https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I) | [Historia de una Banda \(En Directo\)](https://open.spotify.com/album/5yxWQnpSWZdXeiZ6YPOOlu) | 3:50 |
+| 60 | [Lo Siento](https://open.spotify.com/track/2x61iZkbSjW76OX6PQleiX) | [Viva Suecia](https://open.spotify.com/artist/57s0ep3eNSg81D7ZxiuHbC), [Dani Fernández](https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC) | [Lo Siento](https://open.spotify.com/album/1G76m2bawyWMl7Rg1shAF6) | 3:48 |
+| 61 | [Insurrección \(con Manolo García\)](https://open.spotify.com/track/5JD2HODIglXaNJopWb248t) | [Miguel Ríos](https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ), [Manolo Garcia](https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4) | [Miguel Ríos y las estrellas del Rock latino](https://open.spotify.com/album/1meG4YSY7cIKvQkQR3D6hH) | 3:47 |
 | 62 | [Dulce introducción al caos](https://open.spotify.com/track/1aDeaDooAd79p2sdImGG4a) | [Extremoduro](https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK) | [La ley innata](https://open.spotify.com/album/1GYJUlbVr5FuNU7awwMGzu) | 7:42 |
 | 63 | [Serenade](https://open.spotify.com/track/4tzi4VV1vCTZsT4SEKQIKJ) | [Dover](https://open.spotify.com/artist/5kdLOinhQnlSk4su7U6lyW) | [Devil Came to Me](https://open.spotify.com/album/31cccvot053zKCeLHnnic1) | 3:54 |
 | 64 | [Miedo](https://open.spotify.com/track/47oZRFceogtlw8Kcu5UGaj) | [M\-Clan](https://open.spotify.com/artist/4oVqMVHC03xnYJ7fyb1dh6) | [Sopa fria](https://open.spotify.com/album/0Q2szvW8oeHdReOGcdYrBj) | 4:57 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 74 | [Ellos Dicen Mierda](https://open.spotify.com/track/6bsiPYRqISKkHN9FpgffKP) | [La Polla Records](https://open.spotify.com/artist/3vHlZN6pTa2zOl2eVxiEdJ) | [Ellos Dicen Mierda](https://open.spotify.com/album/0QjDaIXJLrgirtJMFWIu8R) | 4:39 |
 | 75 | [No Hay Tregua](https://open.spotify.com/track/5fuiYDXvDMVqsa3o8B8KLR) | [Barricada](https://open.spotify.com/artist/5llr3wJl6JrJoHSJAR804R) | [Barricada](https://open.spotify.com/album/0TXXfuJy2zJ50x94VvCuqZ) | 2:55 |
 
-Snapshot ID: `MTY2MzI3OTIwMCwwMDAwMDAwMDIzODA2NDc2MDRlNDk0ODMyMzAwY2UyMzAyYjliYWUy`
+Snapshot ID: `MTY2MzI3OTIwMCwwMDAwMDAwMGMyZDhiNjliMDMyMDkxOWY0NGY2ODQ3YTIwNjA4NTIx`

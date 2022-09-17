@@ -5692,6 +5692,28 @@
     },
     {
       "album": {
+        "name": "Go (Remixes)",
+        "url": "https://open.spotify.com/album/1kGbwOHke3PrRnZAmlkoOu"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215841,
+      "name": "go (feat. Sam Smith)",
+      "url": "https://open.spotify.com/track/7kgNbYOyDZPzDVE89mLs1O"
+    },
+    {
+      "album": {
         "name": "Godspeed",
         "url": "https://open.spotify.com/album/0qYRbCu2dmz948wOiROlcC"
       },
@@ -8229,7 +8251,7 @@
       ],
       "date_added": "2021-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-17",
       "duration_ms": 165526,
       "name": "LET IT GO (feat. Justin Bieber & 21 Savage)",
       "url": "https://open.spotify.com/track/1cEhrSF6EylAEqdhUGuNpX"

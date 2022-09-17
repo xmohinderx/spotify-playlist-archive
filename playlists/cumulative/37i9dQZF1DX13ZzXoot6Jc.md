@@ -2,9 +2,9 @@
 
 ### [Country Favourites](https://open.spotify.com/playlist/37i9dQZF1DX13ZzXoot6Jc)
 
-> A collection of hits that will have you singing every word\. Cover: Lee Brice
+> A collection of hits that will have you singing every word\. Cover: Jon Pardi
 
-112 songs - 6 hr 9 min - [published](https://open.spotify.com/playlist/5Q1iirswdRnV2OItF004D6)
+113 songs - 6 hr 12 min - [published](https://open.spotify.com/playlist/5Q1iirswdRnV2OItF004D6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [5 Foot 9](https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [5 Foot 9](https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr) | 3:09 | 2022-08-18 |  |
 | [After A Few](https://open.spotify.com/track/1z6wl2rwKatfmza6usanWw) | [Travis Denning](https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ) | [After A Few](https://open.spotify.com/album/5Z6UUS0n3Oz7i2bDLEdbWL) | 3:33 | 2022-08-04 | 2022-08-09 |
 | [Almost Maybes](https://open.spotify.com/track/14JFKtBSqefxfMiKhq6JT8) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Almost Maybes](https://open.spotify.com/album/6GZSdWjroJCuofwkDsCGMD) | 2:59 | 2022-07-21 |  |
+| [Back Then, Right Now](https://open.spotify.com/track/3wAKfgic0OANcWf2QBxT8t) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Girl to Girl](https://open.spotify.com/album/1GcSAAAr9e2zcZKucagy5A) | 3:02 | 2022-09-16 |  |
 | [Beers And Sunshine](https://open.spotify.com/track/36ISlLb12gKuCCVTYXC0gb) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Beers And Sunshine](https://open.spotify.com/album/1GZyb1fAcVAdxeZK16ozLR) | 2:58 | 2022-07-21 |  |
 | [Big, Big Plans](https://open.spotify.com/track/7yNJCsUH3tXlpQiHSsAc5l) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Big, Big Plans](https://open.spotify.com/album/7xVbpLEzt8IQn82IBSMPzu) | 3:07 | 2022-07-21 |  |
 | [Bluebird](https://open.spotify.com/track/0kPeZAyIhIfeZNrtfjJGDB) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Wildcard](https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn) | 3:29 | 2022-07-21 |  |
@@ -61,7 +62,7 @@
 | [I'm Not For Everyone](https://open.spotify.com/track/143YESFOZqxVGrKEWisbid) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Skeletons](https://open.spotify.com/album/0OA03FrXlln4FvE30LaEXR) | 2:52 | 2022-07-21 |  |
 | [If I Didn't Love You](https://open.spotify.com/track/1WQ40xJSvgDmD9K7ckJwux) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [MACON](https://open.spotify.com/album/2cydSJJLXu2TtP9VoOnGn4) | 3:32 | 2022-07-21 |  |
 | [Just the Way](https://open.spotify.com/track/3FE6cfCDhmhOraeSLPe6Vj) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I), [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [For You](https://open.spotify.com/album/33TRcgk13pDfnELf22G8wN) | 3:13 | 2022-07-21 |  |
-| [Keith](https://open.spotify.com/track/5xl3kGoK3namYGZX46Vt0S) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [Keith](https://open.spotify.com/album/5vhfSn7rFEfy8jxuoI1PGE) | 2:51 | 2022-07-21 |  |
+| [Keith](https://open.spotify.com/track/5xl3kGoK3namYGZX46Vt0S) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [Keith](https://open.spotify.com/album/5vhfSn7rFEfy8jxuoI1PGE) | 2:51 | 2022-07-21 | 2022-09-17 |
 | [Lady](https://open.spotify.com/track/2fSuoIlA1uTERXunbshSWh) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Weekends Look A Little Different These Days](https://open.spotify.com/album/2JJ2v7A5nR6HaYxyO2T0PX) | 3:14 | 2022-07-21 |  |
 | [Last Night Lonely](https://open.spotify.com/track/3SeeaIXnrCfT88vHVCRWHl) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Last Night Lonely](https://open.spotify.com/album/6RVASKYeyPoQCjExSbmpzp) | 3:01 | 2022-07-21 |  |
 | [Leave Her Wild](https://open.spotify.com/track/4oFAJvXFB2W9FWgaww9cQo) | [Tyler Rich](https://open.spotify.com/artist/78eqps3BavCqe2q7GCU1VK) | [Two Thousand Miles](https://open.spotify.com/album/1k2268Pzqb4R3WTlLd6qDP) | 3:19 | 2022-07-21 |  |

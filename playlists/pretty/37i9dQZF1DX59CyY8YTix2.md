@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 
 > Japanese female rock icons\. Cover: chilldspot
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,820 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,845 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 19 | [Silly romance](https://open.spotify.com/track/0Z9oufPvd3uaolj0lw4eMk) | [EDOGA\-SULLIVAN](https://open.spotify.com/artist/0MfHOOVaHSNHSiNtOBOkkA) | [Silly romance](https://open.spotify.com/album/56VA0kGYvHZkzyyGMkEkcb) | 2:36 |
 | 20 | [足跡](https://open.spotify.com/track/4k5g6HNKtrWbYDllw2Dyp0) | [the peggies](https://open.spotify.com/artist/3imCOAQnI4fF5dsncQqLBW) | [足跡](https://open.spotify.com/album/2qSycPngTjQbW0JgEPKanq) | 3:47 |
 | 21 | [南無三](https://open.spotify.com/track/0EOut5YkIhbRd66GJtjrPQ) | [ミシェルメルモ](https://open.spotify.com/artist/2xFlXkuJ58t21HfApcZhH6) | [Meta\-Märchen](https://open.spotify.com/album/5y4VJGmVr4u9KUiiD1f2vH) | 3:43 |
-| 22 | [10月無口な君を忘れる](https://open.spotify.com/track/006u4CXVO2cusq08RrMElQ) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [10月無口な君を忘れる](https://open.spotify.com/album/600Y6vAnetFVK3AghyzSMg) | 5:32 |
+| 22 | [閃光少女](https://open.spotify.com/track/6bsQqsm2EAztXE6kk6hR2s) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [スポーツ](https://open.spotify.com/album/5Gslq3e8XngG3BZfrpvhaU) | 2:57 |
 | 23 | [線香金魚](https://open.spotify.com/track/65ZTB3FGSau6OVjhT1PRPk) | [NOMELON NOLEMON](https://open.spotify.com/artist/3PRXdiVu8lUkeCKw4ZUX4B) | [感覚派](https://open.spotify.com/album/7Leqz0bn4ywAfWvg7m5ybC) | 3:29 |
-| 24 | [閃光少女](https://open.spotify.com/track/6bsQqsm2EAztXE6kk6hR2s) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [スポーツ](https://open.spotify.com/album/5Gslq3e8XngG3BZfrpvhaU) | 2:57 |
+| 24 | [10月無口な君を忘れる](https://open.spotify.com/track/006u4CXVO2cusq08RrMElQ) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [10月無口な君を忘れる](https://open.spotify.com/album/600Y6vAnetFVK3AghyzSMg) | 5:32 |
 | 25 | [UCHU ICHI NO ME](https://open.spotify.com/track/6Sf69vMZDSyRZZRfbc9Ams) | [THE DOKUROS](https://open.spotify.com/artist/1e9JQv27KSnk5NpBR9CryM), [TANAKA OF THE HAMADA](https://open.spotify.com/artist/7dbDyleqCJgP2JqHOhPGYi) | [UCHU ICHI NO ME](https://open.spotify.com/album/3H6rWFHdMdNaeFt9JRLDru) | 4:08 |
 | 26 | [勘冴えて悔しいわ](https://open.spotify.com/track/7zbfS30vKiHU8oBs6Wi1Qp) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [潜潜話](https://open.spotify.com/album/4myzXA54fPm89hpW41YkOS) | 3:56 |
 | 27 | [又三郎](https://open.spotify.com/track/3WtIXrla0ovC9MOIY78Vr8) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [又三郎](https://open.spotify.com/album/4AwuTLeiuyjx93I05ZBS82) | 3:47 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 41 | [Beyond Selves \(feat\. L\)](https://open.spotify.com/track/0yhDRfvMNnEzSTyGvfu5ds) | [Void\_Chords](https://open.spotify.com/artist/7CHOrOaEA09yNN1PLPlibc), [L](https://open.spotify.com/artist/5yf1IhykFumDFsiQmxwswU) | [Beyond Selves \(feat\. L\)](https://open.spotify.com/album/7bfbdV0sHCg8dlreqTYic5) | 5:33 |
 | 42 | [OH HEY](https://open.spotify.com/track/6YZeMe9CGjpc6JG6JofwsU) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n), [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [OH HEY](https://open.spotify.com/album/1JlkxU3l8RV4whcN0nP1DD) | 3:57 |
 | 43 | [赤裸裸](https://open.spotify.com/track/2fws0PJcupSLyCNCarcxGM) | [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) | [赤裸裸](https://open.spotify.com/album/0z33f6cNlOZvj8lGYIP3j4) | 2:40 |
-| 44 | [ハッピーエンド](https://open.spotify.com/track/5gUzLLcqBLpQlIK6QgyCN3) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [ハッピーエンド](https://open.spotify.com/album/2sKwTRvtoCyG7iRwcTNWsT) | 5:27 |
-| 45 | [ツキカゲ](https://open.spotify.com/track/0SAsyxJVxrjwD8L7kYFL0T) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [ツキカゲ](https://open.spotify.com/album/2Hg3U9PLb4HjsnQcBxWtGm) | 3:10 |
-| 46 | [悲しいラブソング](https://open.spotify.com/track/6exgbyrb2Bdjob70v2DhHx) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [極夜において月は語らず](https://open.spotify.com/album/2tQk4jtcmb2EPkldaRyhah) | 4:20 |
-| 47 | [lemonade](https://open.spotify.com/track/0GndrRspootOgtpvqcZDpp) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [d a n c i n g a l o n e](https://open.spotify.com/album/0mNqcoC2Tj16oiP4PL7xeN) | 3:06 |
+| 44 | [NEW ME](https://open.spotify.com/track/0essQdYYWaolOQq1MfVZ2o) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [NEW ME](https://open.spotify.com/album/1XhChLG0SmRFUKRvfws0JU) | 4:21 |
+| 45 | [ハッピーエンド](https://open.spotify.com/track/5gUzLLcqBLpQlIK6QgyCN3) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [ハッピーエンド](https://open.spotify.com/album/2sKwTRvtoCyG7iRwcTNWsT) | 5:27 |
+| 46 | [ツキカゲ](https://open.spotify.com/track/0SAsyxJVxrjwD8L7kYFL0T) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [ツキカゲ](https://open.spotify.com/album/2Hg3U9PLb4HjsnQcBxWtGm) | 3:10 |
+| 47 | [悲しいラブソング](https://open.spotify.com/track/6exgbyrb2Bdjob70v2DhHx) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [極夜において月は語らず](https://open.spotify.com/album/2tQk4jtcmb2EPkldaRyhah) | 4:20 |
 | 48 | [私生活 \- 新訳版](https://open.spotify.com/track/0VNPsx1SsHyJCyvNwSYTHo) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [私生活 \(新訳版\)](https://open.spotify.com/album/2SOjoKF4ZeCGlEYU9osbWA) | 3:38 |
-| 49 | [ハイライト・ハイライト](https://open.spotify.com/track/4n9ZDnOKEFlOUvQvLZqUJ3) | [the peggies](https://open.spotify.com/artist/3imCOAQnI4fF5dsncQqLBW) | [ハイライト・ハイライト](https://open.spotify.com/album/6lD4x7WoKuq5qgupcHqEP0) | 3:56 |
-| 50 | [odoru yo\-ni](https://open.spotify.com/track/5i8DJaF9DX2zkxJaT1Rqva) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [踊る様に](https://open.spotify.com/album/3BJTUKmDayBruxO1l5bP5E) | 2:48 |
+| 49 | [lemonade](https://open.spotify.com/track/0GndrRspootOgtpvqcZDpp) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [d a n c i n g a l o n e](https://open.spotify.com/album/0mNqcoC2Tj16oiP4PL7xeN) | 3:06 |
+| 50 | [ハイライト・ハイライト](https://open.spotify.com/track/4n9ZDnOKEFlOUvQvLZqUJ3) | [the peggies](https://open.spotify.com/artist/3imCOAQnI4fF5dsncQqLBW) | [ハイライト・ハイライト](https://open.spotify.com/album/6lD4x7WoKuq5qgupcHqEP0) | 3:56 |
 
-Snapshot ID: `MTY2MzI1NDAwMCwwMDAwMDAwMGIwOTJjOWRlNWE4ODY3NTk2ZTgyMzU1MjYwZDI5NmVm`
+Snapshot ID: `MTY2MzI1NDAwMCwwMDAwMDAwMGU3MzhiNjQ2ZjllNjVhYjkyOWE5ZTFiZDY4NGE2NWQ5`

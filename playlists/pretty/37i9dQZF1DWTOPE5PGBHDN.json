@@ -1,12 +1,12 @@
 {
   "description": "Para las mujeres que le dan duro al  gym. \u00a1A quemar grasa con este playlist!",
-  "num_followers": 76529,
+  "num_followers": 76592,
   "original_name": "Sin Lipo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MzcxMTM1MywwMDAwMDAwMDQ1NmU1MTcwY2RkNjA4MWFlYjI4ZDIxZmU4OTVhZjkw",
+  "snapshot_id": "MTU5MzcxMTM1MywwMDAwMDAwMDI5MWUwYzIwMzIxNDZiNzZjNmNmZTQ0YzFhZGMzYWRm",
   "tracks": [
     {
       "added_at": "2020-07-02 17:35:53",
@@ -871,22 +871,6 @@
     {
       "added_at": "2020-07-02 17:35:53",
       "album": {
-        "name": "Caramelo",
-        "url": "https://open.spotify.com/album/6HZe6aICWesZsze5OKlvMD"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 217546,
-      "name": "Caramelo",
-      "url": "https://open.spotify.com/track/3gD4J3RUHy4OUuZ3qAiaiG"
-    },
-    {
-      "added_at": "2020-07-02 17:35:53",
-      "album": {
         "name": "ADN",
         "url": "https://open.spotify.com/album/0CUMVFalkFhZM6Xo0ErxLi"
       },
@@ -907,22 +891,50 @@
     {
       "added_at": "2020-07-02 17:35:53",
       "album": {
-        "name": "Gangalee",
-        "url": "https://open.spotify.com/album/1PgFsarDcIwCvLX32DpcxB"
+        "name": "Caramelo",
+        "url": "https://open.spotify.com/album/6HZe6aICWesZsze5OKlvMD"
       },
       "artists": [
         {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
         }
       ],
-      "duration_ms": 289906,
-      "name": "La Cartera",
-      "url": "https://open.spotify.com/track/1g2Z2lOrwayOzDqOc8EfbR"
+      "duration_ms": 217546,
+      "name": "Caramelo",
+      "url": "https://open.spotify.com/track/3gD4J3RUHy4OUuZ3qAiaiG"
+    },
+    {
+      "added_at": "2020-07-02 17:35:53",
+      "album": {
+        "name": "Asesina (Remix)",
+        "url": "https://open.spotify.com/album/3kszVyyPdSKYihlQkme1Vv"
+      },
+      "artists": [
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 327466,
+      "name": "Asesina - Remix",
+      "url": "https://open.spotify.com/track/59PYgzOiOjGDzjDT5N5oOX"
     },
     {
       "added_at": "2020-07-02 17:35:53",
@@ -979,34 +991,22 @@
     {
       "added_at": "2020-07-02 17:35:53",
       "album": {
-        "name": "Asesina (Remix)",
-        "url": "https://open.spotify.com/album/3kszVyyPdSKYihlQkme1Vv"
+        "name": "Gangalee",
+        "url": "https://open.spotify.com/album/1PgFsarDcIwCvLX32DpcxB"
       },
       "artists": [
         {
-          "name": "Brytiago",
-          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
         },
         {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 327466,
-      "name": "Asesina - Remix",
-      "url": "https://open.spotify.com/track/59PYgzOiOjGDzjDT5N5oOX"
+      "duration_ms": 289906,
+      "name": "La Cartera",
+      "url": "https://open.spotify.com/track/1g2Z2lOrwayOzDqOc8EfbR"
     },
     {
       "added_at": "2020-07-02 17:35:53",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2020-07-02 17:35:53",
       "album": {
-        "name": "OPUS",
-        "url": "https://open.spotify.com/album/0iSDto0c8PqIKtwrYS4lbh"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 268440,
-      "name": "Parecen Viernes",
-      "url": "https://open.spotify.com/track/0dqfl4l45vqw2TnNrnbsy0"
-    },
-    {
-      "added_at": "2020-07-02 17:35:53",
-      "album": {
         "name": "Culpables",
         "url": "https://open.spotify.com/album/0WmqKVGQgIYleOI8gtWP1w"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 226626,
       "name": "Culpables",
       "url": "https://open.spotify.com/track/6q8Lb50EtqNeeJXXe8mMAH"
+    },
+    {
+      "added_at": "2020-07-02 17:35:53",
+      "album": {
+        "name": "OPUS",
+        "url": "https://open.spotify.com/album/0iSDto0c8PqIKtwrYS4lbh"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 268440,
+      "name": "Parecen Viernes",
+      "url": "https://open.spotify.com/track/0dqfl4l45vqw2TnNrnbsy0"
     },
     {
       "added_at": "2020-07-02 17:35:53",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2020-07-02 17:35:53",
       "album": {
+        "name": "Rojo",
+        "url": "https://open.spotify.com/album/54lqxBRUg66EYNyqKSKU5C"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 150853,
+      "name": "Rojo",
+      "url": "https://open.spotify.com/track/4uziEsK1yiqdauKVDPsmVG"
+    },
+    {
+      "added_at": "2020-07-02 17:35:53",
+      "album": {
         "name": "Est\u00e1 Rico",
         "url": "https://open.spotify.com/album/3ztJAikTd2AHTixfSPG185"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 215151,
       "name": "Est\u00e1 Rico",
       "url": "https://open.spotify.com/track/2wRkBumdItthjYP9XknImg"
-    },
-    {
-      "added_at": "2020-07-02 17:35:53",
-      "album": {
-        "name": "Rojo",
-        "url": "https://open.spotify.com/album/54lqxBRUg66EYNyqKSKU5C"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 150853,
-      "name": "Rojo",
-      "url": "https://open.spotify.com/track/4uziEsK1yiqdauKVDPsmVG"
     },
     {
       "added_at": "2020-07-02 17:35:53",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2020-07-02 17:35:53",
       "album": {
-        "name": "Morado",
-        "url": "https://open.spotify.com/album/7ynTaSXD9esXkgY0GG8UFd"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 200666,
-      "name": "Morado",
-      "url": "https://open.spotify.com/track/3mQ6SLdxxaL52Yte7KF2Ks"
-    },
-    {
-      "added_at": "2020-07-02 17:35:53",
-      "album": {
         "name": "Desconocidos",
         "url": "https://open.spotify.com/album/0vfE72mb2weKSONtBC6SPJ"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 204453,
       "name": "Desconocidos",
       "url": "https://open.spotify.com/track/0s5DNDV6LAKn2u2Ufa3VjQ"
+    },
+    {
+      "added_at": "2020-07-02 17:35:53",
+      "album": {
+        "name": "Morado",
+        "url": "https://open.spotify.com/album/7ynTaSXD9esXkgY0GG8UFd"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 200666,
+      "name": "Morado",
+      "url": "https://open.spotify.com/track/3mQ6SLdxxaL52Yte7KF2Ks"
     },
     {
       "added_at": "2020-07-02 17:35:53",
@@ -1567,22 +1567,6 @@
       "duration_ms": 226532,
       "name": "Sigues Con El",
       "url": "https://open.spotify.com/track/1XxmTx7ZzI2xLvS8SqlXs9"
-    },
-    {
-      "added_at": "2020-07-02 17:35:53",
-      "album": {
-        "name": "Reggaeton",
-        "url": "https://open.spotify.com/album/5FMJB2xKTMGdM3w6DmC6L5"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 158800,
-      "name": "Reggaeton",
-      "url": "https://open.spotify.com/track/2D3z17LBMJ2HEHeBFFjTLi"
     },
     {
       "added_at": "2020-07-02 17:35:53",
@@ -1719,6 +1703,22 @@
     {
       "added_at": "2020-07-02 17:35:53",
       "album": {
+        "name": "Reggaeton",
+        "url": "https://open.spotify.com/album/5FMJB2xKTMGdM3w6DmC6L5"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 158800,
+      "name": "Reggaeton",
+      "url": "https://open.spotify.com/track/2D3z17LBMJ2HEHeBFFjTLi"
+    },
+    {
+      "added_at": "2020-07-02 17:35:53",
+      "album": {
         "name": "Normal",
         "url": "https://open.spotify.com/album/5Qkxw86wtQYlK2dEjTJcSP"
       },
@@ -1791,26 +1791,6 @@
     {
       "added_at": "2020-07-02 17:35:53",
       "album": {
-        "name": "La Respuesta",
-        "url": "https://open.spotify.com/album/4lKXaL7t6jn8V4nvmZ6ggZ"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "La Respuesta",
-      "url": "https://open.spotify.com/track/2fOjendzUzepHwR9QrVyYF"
-    },
-    {
-      "added_at": "2020-07-02 17:35:53",
-      "album": {
         "name": "En Cero",
         "url": "https://open.spotify.com/album/6g2Cu0rMNRxTkRovhkGgcq"
       },
@@ -1831,6 +1811,26 @@
       "duration_ms": 223586,
       "name": "En Cero",
       "url": "https://open.spotify.com/track/51uLQESb4VnYAbs5WtGxho"
+    },
+    {
+      "added_at": "2020-07-02 17:35:53",
+      "album": {
+        "name": "La Respuesta",
+        "url": "https://open.spotify.com/album/4lKXaL7t6jn8V4nvmZ6ggZ"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "La Respuesta",
+      "url": "https://open.spotify.com/track/2fOjendzUzepHwR9QrVyYF"
     },
     {
       "added_at": "2020-07-02 17:35:53",

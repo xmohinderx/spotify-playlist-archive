@@ -1,12 +1,12 @@
 {
   "description": "Rock unplugged. Cover: Wolf Alice",
-  "num_followers": 285186,
+  "num_followers": 285252,
   "original_name": "Stripped Down",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMyNTcyNiwwMDAwMDAwMGNkMmJhODkwOTMxNmYwMWEwYzEyNjY0ZmExMjkzOGI4",
+  "snapshot_id": "MTY2MDMyNTcyNiwwMDAwMDAwMDk5NWI2NjU0MmQwODY1N2NjYWM5OTczMzU5NDExNDNm",
   "tracks": [
     {
       "added_at": "2022-08-12 17:34:39",
@@ -675,22 +675,6 @@
     {
       "added_at": "2022-08-12 17:34:39",
       "album": {
-        "name": "Against The Wall (Acoustic Version)",
-        "url": "https://open.spotify.com/album/52Luu2iy2mBDEyHWfLpzWf"
-      },
-      "artists": [
-        {
-          "name": "Seether",
-          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
-        }
-      ],
-      "duration_ms": 206824,
-      "name": "Against The Wall - Acoustic Version",
-      "url": "https://open.spotify.com/track/7iHpX7m9owsqawBy008yvF"
-    },
-    {
-      "added_at": "2022-08-12 17:34:39",
-      "album": {
         "name": "Kill The Noise (Acoustic)",
         "url": "https://open.spotify.com/album/4NuxF7PTPbjtboHpQ6b3NI"
       },
@@ -707,18 +691,18 @@
     {
       "added_at": "2022-08-12 17:34:39",
       "album": {
-        "name": "The Shower Scene (Acoustic)",
-        "url": "https://open.spotify.com/album/1fJpbgIL7RfQnS50yio6T2"
+        "name": "Against The Wall (Acoustic Version)",
+        "url": "https://open.spotify.com/album/52Luu2iy2mBDEyHWfLpzWf"
       },
       "artists": [
         {
-          "name": "Ice Nine Kills",
-          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+          "name": "Seether",
+          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
         }
       ],
-      "duration_ms": 182883,
-      "name": "The Shower Scene - Acoustic",
-      "url": "https://open.spotify.com/track/3VIekKbo9oVfXMs4vsRl0w"
+      "duration_ms": 206824,
+      "name": "Against The Wall - Acoustic Version",
+      "url": "https://open.spotify.com/track/7iHpX7m9owsqawBy008yvF"
     },
     {
       "added_at": "2022-08-12 17:34:39",
@@ -767,6 +751,22 @@
       "duration_ms": 99226,
       "name": "Seaside",
       "url": "https://open.spotify.com/track/0QCuMBeqdWkwFUTO1WlAjH"
+    },
+    {
+      "added_at": "2022-08-12 17:34:39",
+      "album": {
+        "name": "The Shower Scene (Acoustic)",
+        "url": "https://open.spotify.com/album/1fJpbgIL7RfQnS50yio6T2"
+      },
+      "artists": [
+        {
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+        }
+      ],
+      "duration_ms": 182883,
+      "name": "The Shower Scene - Acoustic",
+      "url": "https://open.spotify.com/track/3VIekKbo9oVfXMs4vsRl0w"
     },
     {
       "added_at": "2022-08-12 17:34:39",

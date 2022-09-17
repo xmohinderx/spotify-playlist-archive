@@ -1,12 +1,12 @@
 {
   "description": "cry just a little",
-  "num_followers": 22935,
+  "num_followers": 23055,
   "original_name": "sad girl country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzAzMDMwNSwwMDAwMDAwMDY5MWU0OWMyNDIwMzJlMDA2NTdkYmY1M2RjOGZiMTFm",
+  "snapshot_id": "MTY2MzAzMDMwNSwwMDAwMDAwMDAyZjhkMjhhNzhhZGJjNzJlMGQ2NjI3YTRhZjlkNThi",
   "tracks": [
     {
       "added_at": "2022-09-13 00:51:45",
@@ -91,6 +91,22 @@
     {
       "added_at": "2022-09-13 00:51:45",
       "album": {
+        "name": "A ROCK",
+        "url": "https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 217801,
+      "name": "GIVE HEAVEN SOME HELL",
+      "url": "https://open.spotify.com/track/2bVeUlOC5JjTpkQXuUUoYm"
+    },
+    {
+      "added_at": "2022-09-13 00:51:45",
+      "album": {
         "name": "Wishful Drinking (with Sam Hunt)",
         "url": "https://open.spotify.com/album/2vb8B3MYGjfYlGch4KlEfe"
       },
@@ -107,22 +123,6 @@
       "duration_ms": 194544,
       "name": "Wishful Drinking (with Sam Hunt)",
       "url": "https://open.spotify.com/track/3HGnIIdHYIbkowzLk8UHbE"
-    },
-    {
-      "added_at": "2022-09-13 00:51:45",
-      "album": {
-        "name": "A ROCK",
-        "url": "https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 217801,
-      "name": "GIVE HEAVEN SOME HELL",
-      "url": "https://open.spotify.com/track/2bVeUlOC5JjTpkQXuUUoYm"
     },
     {
       "added_at": "2022-09-13 00:51:45",
@@ -259,22 +259,6 @@
     {
       "added_at": "2022-09-13 00:51:45",
       "album": {
-        "name": "Lady Like",
-        "url": "https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 214786,
-      "name": "More Hearts Than Mine",
-      "url": "https://open.spotify.com/track/60RFlt48hm0l4Fu0JoccOl"
-    },
-    {
-      "added_at": "2022-09-13 00:51:45",
-      "album": {
         "name": "Did I Shave My Legs For This?",
         "url": "https://open.spotify.com/album/3rVrwVrTgiFmCBZCmYBryn"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 291533,
       "name": "Strawberry Wine",
       "url": "https://open.spotify.com/track/5Pgwi0iizu96RHxJ4xL3SH"
+    },
+    {
+      "added_at": "2022-09-13 00:51:45",
+      "album": {
+        "name": "Lady Like",
+        "url": "https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 214786,
+      "name": "More Hearts Than Mine",
+      "url": "https://open.spotify.com/track/60RFlt48hm0l4Fu0JoccOl"
     },
     {
       "added_at": "2022-09-13 00:51:45",
@@ -791,22 +791,6 @@
     {
       "added_at": "2022-09-13 00:51:45",
       "album": {
-        "name": "If You Have To",
-        "url": "https://open.spotify.com/album/31jtMX7GvPB6gtQBCGA6xL"
-      },
-      "artists": [
-        {
-          "name": "Ella Langley",
-          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
-        }
-      ],
-      "duration_ms": 199493,
-      "name": "If You Have To",
-      "url": "https://open.spotify.com/track/5aWxPjDd4ZfpsmDoeR1plq"
-    },
-    {
-      "added_at": "2022-09-13 00:51:45",
-      "album": {
         "name": "Every Little Thing",
         "url": "https://open.spotify.com/album/4CXTL0OFQqpn4LCBDvRDdu"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 180053,
       "name": "Every Little Thing",
       "url": "https://open.spotify.com/track/2wxfu24GQpEZQrjDJm5Ac1"
+    },
+    {
+      "added_at": "2022-09-13 00:51:45",
+      "album": {
+        "name": "If You Have To",
+        "url": "https://open.spotify.com/album/31jtMX7GvPB6gtQBCGA6xL"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "duration_ms": 199493,
+      "name": "If You Have To",
+      "url": "https://open.spotify.com/track/5aWxPjDd4ZfpsmDoeR1plq"
     },
     {
       "added_at": "2022-09-13 00:51:45",

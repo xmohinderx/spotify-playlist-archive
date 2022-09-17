@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo naco es chido, y que viva el rocanroool! Foto: Botellita de Jerez",
-  "num_followers": 117607,
+  "num_followers": 117649,
   "original_name": "Rock Urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njk3MTk4MiwwMDAwMDAwMGY4YzZlYjNjMTQ1Njk1MzM1MmEzOGQxYmRkYmNmOWE5",
+  "snapshot_id": "MTY0Njk3MTk4MiwwMDAwMDAwMGRkOTRjOGYwN2FlNzNmZTM0MzJjYjU4N2M2YzZlYjM0",
   "tracks": [
     {
       "added_at": "2020-11-13 06:01:00",
@@ -543,22 +543,6 @@
     {
       "added_at": "2020-11-13 06:01:00",
       "album": {
-        "name": "Fe",
-        "url": "https://open.spotify.com/album/48SFSSTFxF8Hlih5D2t5Jb"
-      },
-      "artists": [
-        {
-          "name": "Franco Escamilla",
-          "url": "https://open.spotify.com/artist/1ZlIROqKXOEvPgEffO8vri"
-        }
-      ],
-      "duration_ms": 166638,
-      "name": "El y Yo",
-      "url": "https://open.spotify.com/track/2H1uTK1SvKijag9Xofk7vO"
-    },
-    {
-      "added_at": "2020-11-13 06:01:00",
-      "album": {
         "name": "15 Rolitas de Amor",
         "url": "https://open.spotify.com/album/2zZmPYbtRdix1vDkr2ve21"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 200053,
       "name": "Quien Te Cantara",
       "url": "https://open.spotify.com/track/6h4YWETL6DAEKpeSr0CaGu"
+    },
+    {
+      "added_at": "2020-11-13 06:01:00",
+      "album": {
+        "name": "Fe",
+        "url": "https://open.spotify.com/album/48SFSSTFxF8Hlih5D2t5Jb"
+      },
+      "artists": [
+        {
+          "name": "Franco Escamilla",
+          "url": "https://open.spotify.com/artist/1ZlIROqKXOEvPgEffO8vri"
+        }
+      ],
+      "duration_ms": 166638,
+      "name": "El y Yo",
+      "url": "https://open.spotify.com/track/2H1uTK1SvKijag9Xofk7vO"
     },
     {
       "added_at": "2020-11-13 06:01:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2020-11-13 06:01:00",
       "album": {
-        "name": "15 Rolitas de Amor",
-        "url": "https://open.spotify.com/album/2zZmPYbtRdix1vDkr2ve21"
-      },
-      "artists": [
-        {
-          "name": "Sam Sam",
-          "url": "https://open.spotify.com/artist/0LRuvIEgEeGnU02JG2Rbcb"
-        }
-      ],
-      "duration_ms": 336200,
-      "name": "Silvia",
-      "url": "https://open.spotify.com/track/130MYoc4M7pSTEdelFPq6F"
-    },
-    {
-      "added_at": "2020-11-13 06:01:00",
-      "album": {
         "name": "Los Versos de la Catrina",
         "url": "https://open.spotify.com/album/6OZIPpGkC15B2VSaQ8iqJ7"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 247453,
       "name": "Los Versos de la Catrina",
       "url": "https://open.spotify.com/track/2vrAYVaAM7VuEyhA0xgmT7"
+    },
+    {
+      "added_at": "2020-11-13 06:01:00",
+      "album": {
+        "name": "15 Rolitas de Amor",
+        "url": "https://open.spotify.com/album/2zZmPYbtRdix1vDkr2ve21"
+      },
+      "artists": [
+        {
+          "name": "Sam Sam",
+          "url": "https://open.spotify.com/artist/0LRuvIEgEeGnU02JG2Rbcb"
+        }
+      ],
+      "duration_ms": 336200,
+      "name": "Silvia",
+      "url": "https://open.spotify.com/track/130MYoc4M7pSTEdelFPq6F"
     },
     {
       "added_at": "2020-11-13 06:01:00",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2020-11-13 06:01:00",
       "album": {
-        "name": "Para Coleccionistas, Vol. 1",
-        "url": "https://open.spotify.com/album/19F5N6hIdQfpCuRqyVmjGf"
+        "name": "15 Rolitas de Amor",
+        "url": "https://open.spotify.com/album/2zZmPYbtRdix1vDkr2ve21"
       },
       "artists": [
         {
-          "name": "Mara",
-          "url": "https://open.spotify.com/artist/5NpJ55eRhoWSrnPwJkpmCA"
+          "name": "Brebaje Extra\u00f1o",
+          "url": "https://open.spotify.com/artist/5dG11RSw7uCz9J4sZnCTlZ"
         }
       ],
-      "duration_ms": 202266,
-      "name": "Me Gusta Tu Chava",
-      "url": "https://open.spotify.com/track/3w4AROEjy3xNq7hBvKXbN0"
+      "duration_ms": 280240,
+      "name": "Ha Vuelto Ya",
+      "url": "https://open.spotify.com/track/3MTq6Gbw6pDp5NZJ0e2idG"
     }
   ],
   "unique_name": "Rock Urbano",

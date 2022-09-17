@@ -1,12 +1,12 @@
 {
   "description": "Your daily dose of soul-infused music! Cover: Adi Oasis",
-  "num_followers": 420127,
+  "num_followers": 420241,
   "original_name": "Soul 'n' the City",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzE0OTMwMCwwMDAwMDAwMDc5OGI5NjI1NTdmYTBmZDk5NTA1MDgwNDdjMjAwODBj",
+  "snapshot_id": "MTY2MzE0OTMwMCwwMDAwMDAwMDExOTUwNmY4ZjU1YzU2NGY2MmYzYWEwYTU2YzRlMDVi",
   "tracks": [
     {
       "added_at": "2022-09-14 09:55:00",
@@ -263,22 +263,6 @@
     {
       "added_at": "2022-09-14 09:55:00",
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/1aM7FK3fr3L00Y3q79TXns"
-      },
-      "artists": [
-        {
-          "name": "Otis Kane",
-          "url": "https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl"
-        }
-      ],
-      "duration_ms": 166440,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/0yyTUTW3QCekpMvFJi3f2f"
-    },
-    {
-      "added_at": "2022-09-14 09:55:00",
-      "album": {
         "name": "Gold-Diggers Sound (Deluxe)",
         "url": "https://open.spotify.com/album/6SV7Sl0rmVeMuqYlMMAqQB"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 164038,
       "name": "Summer Rain (feat. Jazmine Sullivan)",
       "url": "https://open.spotify.com/track/4fPO3377M8WMykvWUJmzeO"
+    },
+    {
+      "added_at": "2022-09-14 09:55:00",
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/1aM7FK3fr3L00Y3q79TXns"
+      },
+      "artists": [
+        {
+          "name": "Otis Kane",
+          "url": "https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl"
+        }
+      ],
+      "duration_ms": 166440,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/0yyTUTW3QCekpMvFJi3f2f"
     },
     {
       "added_at": "2022-09-14 09:55:00",
@@ -347,6 +347,26 @@
       "duration_ms": 203483,
       "name": "When You Were Mine",
       "url": "https://open.spotify.com/track/05NwKm5My3fS780CUUDJFy"
+    },
+    {
+      "added_at": "2022-09-14 09:55:00",
+      "album": {
+        "name": "LEGEND",
+        "url": "https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "Free Nationals",
+          "url": "https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj"
+        }
+      ],
+      "duration_ms": 195963,
+      "name": "Strawberry Blush (feat. Free Nationals)",
+      "url": "https://open.spotify.com/track/7wIZ3CXR08DPLR8G0uk210"
     },
     {
       "added_at": "2022-09-14 09:55:00",
@@ -455,26 +475,6 @@
       "duration_ms": 199041,
       "name": "Crescent Moon",
       "url": "https://open.spotify.com/track/2mC6CRPtuIZ97WZh4rJ2Pq"
-    },
-    {
-      "added_at": "2022-09-14 09:55:00",
-      "album": {
-        "name": "LEGEND",
-        "url": "https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        },
-        {
-          "name": "Free Nationals",
-          "url": "https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj"
-        }
-      ],
-      "duration_ms": 195963,
-      "name": "Strawberry Blush (feat. Free Nationals)",
-      "url": "https://open.spotify.com/track/7wIZ3CXR08DPLR8G0uk210"
     },
     {
       "added_at": "2022-09-14 09:55:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2022-09-14 09:55:00",
       "album": {
-        "name": "Wanna Love You",
-        "url": "https://open.spotify.com/album/2ROfHzFMBfzgvx6IsQIgZB"
-      },
-      "artists": [
-        {
-          "name": "Otis Kane",
-          "url": "https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl"
-        }
-      ],
-      "duration_ms": 170263,
-      "name": "Wanna Love You",
-      "url": "https://open.spotify.com/track/09xccZVuNwd9vP7abwZkyu"
-    },
-    {
-      "added_at": "2022-09-14 09:55:00",
-      "album": {
         "name": "Untidy Soul",
         "url": "https://open.spotify.com/album/3Ayap2T1tu6c0EeeSoO64w"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 223633,
       "name": "Take Time (feat. Tobe Nwigwe)",
       "url": "https://open.spotify.com/track/2qNYATpU3BmfQTAldXoNOi"
+    },
+    {
+      "added_at": "2022-09-14 09:55:00",
+      "album": {
+        "name": "Wanna Love You",
+        "url": "https://open.spotify.com/album/2ROfHzFMBfzgvx6IsQIgZB"
+      },
+      "artists": [
+        {
+          "name": "Otis Kane",
+          "url": "https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl"
+        }
+      ],
+      "duration_ms": 170263,
+      "name": "Wanna Love You",
+      "url": "https://open.spotify.com/track/09xccZVuNwd9vP7abwZkyu"
     },
     {
       "added_at": "2022-09-14 09:55:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2022-09-14 09:55:00",
       "album": {
-        "name": "Madelyn",
-        "url": "https://open.spotify.com/album/2GxqnG8rJVHG18Bm27vpo0"
-      },
-      "artists": [
-        {
-          "name": "Anderson East",
-          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
-        }
-      ],
-      "duration_ms": 195413,
-      "name": "Madelyn",
-      "url": "https://open.spotify.com/track/39ZpHwLpCFBDeLpOphQYLQ"
-    },
-    {
-      "added_at": "2022-09-14 09:55:00",
-      "album": {
         "name": "What A Life",
         "url": "https://open.spotify.com/album/3G6dOOzgGUnq9iR8Ee6vaR"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 181080,
       "name": "What A Life",
       "url": "https://open.spotify.com/track/5AaA9XKKc7AKL370qVeWQv"
+    },
+    {
+      "added_at": "2022-09-14 09:55:00",
+      "album": {
+        "name": "Madelyn",
+        "url": "https://open.spotify.com/album/2GxqnG8rJVHG18Bm27vpo0"
+      },
+      "artists": [
+        {
+          "name": "Anderson East",
+          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
+        }
+      ],
+      "duration_ms": 195413,
+      "name": "Madelyn",
+      "url": "https://open.spotify.com/track/39ZpHwLpCFBDeLpOphQYLQ"
     },
     {
       "added_at": "2022-09-14 09:55:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2022-09-14 09:55:00",
       "album": {
-        "name": "Operation Funk",
-        "url": "https://open.spotify.com/album/5LOlSBya1sfbXDP53KK2A3"
-      },
-      "artists": [
-        {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
-        }
-      ],
-      "duration_ms": 276401,
-      "name": "Holy Ghost",
-      "url": "https://open.spotify.com/track/2GtECeftLDCtulYx0sIiXP"
-    },
-    {
-      "added_at": "2022-09-14 09:55:00",
-      "album": {
         "name": "Bruises",
         "url": "https://open.spotify.com/album/6uHzKD648X9MoK0Z2vo8LW"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 245290,
       "name": "Defection",
       "url": "https://open.spotify.com/track/3I4tQHg9oJ9jYtQJTKb2QO"
+    },
+    {
+      "added_at": "2022-09-14 09:55:00",
+      "album": {
+        "name": "Operation Funk",
+        "url": "https://open.spotify.com/album/5LOlSBya1sfbXDP53KK2A3"
+      },
+      "artists": [
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        }
+      ],
+      "duration_ms": 276401,
+      "name": "Holy Ghost",
+      "url": "https://open.spotify.com/track/2GtECeftLDCtulYx0sIiXP"
     },
     {
       "added_at": "2022-09-14 09:55:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2022-09-14 09:55:00",
       "album": {
-        "name": "Fighting for Peace",
-        "url": "https://open.spotify.com/album/2IXjRTudNXd1hEczsBwcos"
-      },
-      "artists": [
-        {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
-        }
-      ],
-      "duration_ms": 202058,
-      "name": "Fighting for Peace",
-      "url": "https://open.spotify.com/track/2iYDEwzq00a571f0hbQ53g"
-    },
-    {
-      "added_at": "2022-09-14 09:55:00",
-      "album": {
         "name": "Blessed / Black Star",
         "url": "https://open.spotify.com/album/28ykkNfCAOhfUloUtxRQIO"
       },
@@ -1179,22 +1163,6 @@
       "duration_ms": 191604,
       "name": "Blessed",
       "url": "https://open.spotify.com/track/4EL02W94lT5v7cAJw7i59s"
-    },
-    {
-      "added_at": "2022-09-14 09:55:00",
-      "album": {
-        "name": "Loving You Is Easy",
-        "url": "https://open.spotify.com/album/0pAufedG5sDBUANDnE7IAX"
-      },
-      "artists": [
-        {
-          "name": "Flo Naegeli",
-          "url": "https://open.spotify.com/artist/0liNX4mflJExPsvDkY7yfa"
-        }
-      ],
-      "duration_ms": 209500,
-      "name": "Loving You Is Easy",
-      "url": "https://open.spotify.com/track/4fARowx7Swbgt8TYaKhK2a"
     },
     {
       "added_at": "2022-09-14 09:55:00",
@@ -1215,6 +1183,38 @@
     {
       "added_at": "2022-09-14 09:55:00",
       "album": {
+        "name": "Fighting for Peace",
+        "url": "https://open.spotify.com/album/2IXjRTudNXd1hEczsBwcos"
+      },
+      "artists": [
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        }
+      ],
+      "duration_ms": 202058,
+      "name": "Fighting for Peace",
+      "url": "https://open.spotify.com/track/2iYDEwzq00a571f0hbQ53g"
+    },
+    {
+      "added_at": "2022-09-14 09:55:00",
+      "album": {
+        "name": "Loving You Is Easy",
+        "url": "https://open.spotify.com/album/0pAufedG5sDBUANDnE7IAX"
+      },
+      "artists": [
+        {
+          "name": "Flo Naegeli",
+          "url": "https://open.spotify.com/artist/0liNX4mflJExPsvDkY7yfa"
+        }
+      ],
+      "duration_ms": 209500,
+      "name": "Loving You Is Easy",
+      "url": "https://open.spotify.com/track/4fARowx7Swbgt8TYaKhK2a"
+    },
+    {
+      "added_at": "2022-09-14 09:55:00",
+      "album": {
         "name": "L.A.B V",
         "url": "https://open.spotify.com/album/5QNjmWuzmbjl0I27zqdFJ7"
       },
@@ -1227,6 +1227,22 @@
       "duration_ms": 310960,
       "name": "Backseat",
       "url": "https://open.spotify.com/track/1GjTnn7p9Rm0B3IN2o7GUk"
+    },
+    {
+      "added_at": "2022-09-14 09:55:00",
+      "album": {
+        "name": "My Favourite",
+        "url": "https://open.spotify.com/album/3yoSTA4NQDOJAVfdvLPMNA"
+      },
+      "artists": [
+        {
+          "name": "Joya Mooi",
+          "url": "https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn"
+        }
+      ],
+      "duration_ms": 194724,
+      "name": "My Favourite",
+      "url": "https://open.spotify.com/track/4jTDyGLrDTt0nj7kjNVTaJ"
     },
     {
       "added_at": "2022-09-14 09:55:00",
@@ -1247,22 +1263,6 @@
       "duration_ms": 214240,
       "name": "What Kind of Woman",
       "url": "https://open.spotify.com/track/08f6hgvzLlDXPy0rhz3a0W"
-    },
-    {
-      "added_at": "2022-09-14 09:55:00",
-      "album": {
-        "name": "My Favourite",
-        "url": "https://open.spotify.com/album/3yoSTA4NQDOJAVfdvLPMNA"
-      },
-      "artists": [
-        {
-          "name": "Joya Mooi",
-          "url": "https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn"
-        }
-      ],
-      "duration_ms": 194724,
-      "name": "My Favourite",
-      "url": "https://open.spotify.com/track/4jTDyGLrDTt0nj7kjNVTaJ"
     },
     {
       "added_at": "2022-09-14 09:55:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2022-09-14 09:55:00",
       "album": {
-        "name": "Why Try",
-        "url": "https://open.spotify.com/album/2WWNv6K3OcWCetb2f85ipL"
-      },
-      "artists": [
-        {
-          "name": "Tank and The Bangas",
-          "url": "https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7"
-        }
-      ],
-      "duration_ms": 215852,
-      "name": "Why Try",
-      "url": "https://open.spotify.com/track/2SvAkWN0lGYsVqUsMBZCzs"
-    },
-    {
-      "added_at": "2022-09-14 09:55:00",
-      "album": {
         "name": "See Me",
         "url": "https://open.spotify.com/album/3AbP9rjHW5cejxH4INUuLE"
       },
@@ -1343,22 +1327,6 @@
       "duration_ms": 231592,
       "name": "Put It On Me",
       "url": "https://open.spotify.com/track/1nNNpSfFghv8HnWM4sOseS"
-    },
-    {
-      "added_at": "2022-09-14 09:55:00",
-      "album": {
-        "name": "Untidy Soul",
-        "url": "https://open.spotify.com/album/3Ayap2T1tu6c0EeeSoO64w"
-      },
-      "artists": [
-        {
-          "name": "Samm Henshaw",
-          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
-        }
-      ],
-      "duration_ms": 204909,
-      "name": "Enough",
-      "url": "https://open.spotify.com/track/2TH9Y6gYm8PJWdjIdUNT77"
     },
     {
       "added_at": "2022-09-14 09:55:00",
@@ -1383,6 +1351,38 @@
       "duration_ms": 291715,
       "name": "Miracles",
       "url": "https://open.spotify.com/track/10g4esqFA2aVAWAYc0XQ5Z"
+    },
+    {
+      "added_at": "2022-09-14 09:55:00",
+      "album": {
+        "name": "Why Try",
+        "url": "https://open.spotify.com/album/2WWNv6K3OcWCetb2f85ipL"
+      },
+      "artists": [
+        {
+          "name": "Tank and The Bangas",
+          "url": "https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7"
+        }
+      ],
+      "duration_ms": 215852,
+      "name": "Why Try",
+      "url": "https://open.spotify.com/track/2SvAkWN0lGYsVqUsMBZCzs"
+    },
+    {
+      "added_at": "2022-09-14 09:55:00",
+      "album": {
+        "name": "Untidy Soul",
+        "url": "https://open.spotify.com/album/3Ayap2T1tu6c0EeeSoO64w"
+      },
+      "artists": [
+        {
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+        }
+      ],
+      "duration_ms": 204909,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/2TH9Y6gYm8PJWdjIdUNT77"
     },
     {
       "added_at": "2022-09-14 09:55:00",
@@ -1587,26 +1587,18 @@
     {
       "added_at": "2022-09-14 09:55:00",
       "album": {
-        "name": "Bounce Back",
-        "url": "https://open.spotify.com/album/6zq9FyVRD3V4RtriLDmCny"
+        "name": "Admit It",
+        "url": "https://open.spotify.com/album/51VJV9ecZdRhEWuJilWuLk"
       },
       "artists": [
         {
-          "name": "LIKEMINDS",
-          "url": "https://open.spotify.com/artist/13AuS8ywJssVN0tb0V2Y4n"
-        },
-        {
-          "name": "LYMA",
-          "url": "https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP"
-        },
-        {
-          "name": "Rebiere",
-          "url": "https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y"
+          "name": "Jeangu Macrooy",
+          "url": "https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr"
         }
       ],
-      "duration_ms": 210977,
-      "name": "Bounce Back",
-      "url": "https://open.spotify.com/track/4Mb1aR0pnjMoVmyQQ3WC6Y"
+      "duration_ms": 187109,
+      "name": "Admit It",
+      "url": "https://open.spotify.com/track/10I24PEW4oX8muRkrMb9Jp"
     },
     {
       "added_at": "2022-09-14 09:55:00",
@@ -1627,18 +1619,26 @@
     {
       "added_at": "2022-09-14 09:55:00",
       "album": {
-        "name": "Admit It",
-        "url": "https://open.spotify.com/album/51VJV9ecZdRhEWuJilWuLk"
+        "name": "Bounce Back",
+        "url": "https://open.spotify.com/album/6zq9FyVRD3V4RtriLDmCny"
       },
       "artists": [
         {
-          "name": "Jeangu Macrooy",
-          "url": "https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr"
+          "name": "LIKEMINDS",
+          "url": "https://open.spotify.com/artist/13AuS8ywJssVN0tb0V2Y4n"
+        },
+        {
+          "name": "LYMA",
+          "url": "https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP"
+        },
+        {
+          "name": "Rebiere",
+          "url": "https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y"
         }
       ],
-      "duration_ms": 187109,
-      "name": "Admit It",
-      "url": "https://open.spotify.com/track/10I24PEW4oX8muRkrMb9Jp"
+      "duration_ms": 210977,
+      "name": "Bounce Back",
+      "url": "https://open.spotify.com/track/4Mb1aR0pnjMoVmyQQ3WC6Y"
     },
     {
       "added_at": "2022-09-14 09:55:00",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2022-09-14 09:55:00",
       "album": {
-        "name": "Change (from the Netflix Series \"We The People\")",
-        "url": "https://open.spotify.com/album/5TJLb0uEmHxpKt20715yM9"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 188333,
-      "name": "Change - from the Netflix Series \"We The People\"",
-      "url": "https://open.spotify.com/track/6xVNLDRZtnQsKGKIbPxUi5"
-    },
-    {
-      "added_at": "2022-09-14 09:55:00",
-      "album": {
         "name": "My Everything",
         "url": "https://open.spotify.com/album/0GlHeseuowxs1NOGdPm3nI"
       },
@@ -1707,6 +1691,42 @@
       "duration_ms": 238577,
       "name": "My Everything",
       "url": "https://open.spotify.com/track/3NBweAfNWhU9Zu1xDLHAR8"
+    },
+    {
+      "added_at": "2022-09-14 09:55:00",
+      "album": {
+        "name": "A Little Greener",
+        "url": "https://open.spotify.com/album/1Ex7TUmPx3WUaujVqsgZXk"
+      },
+      "artists": [
+        {
+          "name": "Jeangu Macrooy",
+          "url": "https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr"
+        },
+        {
+          "name": "Pete Philly",
+          "url": "https://open.spotify.com/artist/0DD1CBUI4ypYSqvKUyjNoO"
+        }
+      ],
+      "duration_ms": 222876,
+      "name": "A Little Greener",
+      "url": "https://open.spotify.com/track/50WSTB17FinNJd92BGcRFc"
+    },
+    {
+      "added_at": "2022-09-14 09:55:00",
+      "album": {
+        "name": "Change (from the Netflix Series \"We The People\")",
+        "url": "https://open.spotify.com/album/5TJLb0uEmHxpKt20715yM9"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 188333,
+      "name": "Change - from the Netflix Series \"We The People\"",
+      "url": "https://open.spotify.com/track/6xVNLDRZtnQsKGKIbPxUi5"
     },
     {
       "added_at": "2022-09-14 09:55:00",
@@ -1771,26 +1791,6 @@
       "duration_ms": 254653,
       "name": "You're My Girl",
       "url": "https://open.spotify.com/track/6XUS2tbVCPfpn2hmMf3vy3"
-    },
-    {
-      "added_at": "2022-09-14 09:55:00",
-      "album": {
-        "name": "A Little Greener",
-        "url": "https://open.spotify.com/album/1Ex7TUmPx3WUaujVqsgZXk"
-      },
-      "artists": [
-        {
-          "name": "Jeangu Macrooy",
-          "url": "https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr"
-        },
-        {
-          "name": "Pete Philly",
-          "url": "https://open.spotify.com/artist/0DD1CBUI4ypYSqvKUyjNoO"
-        }
-      ],
-      "duration_ms": 222876,
-      "name": "A Little Greener",
-      "url": "https://open.spotify.com/track/50WSTB17FinNJd92BGcRFc"
     }
   ],
   "unique_name": "Soul 'n' the City",

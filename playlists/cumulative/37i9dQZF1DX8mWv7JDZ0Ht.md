@@ -2,9 +2,9 @@
 
 ### [Pop Leve](https://open.spotify.com/playlist/37i9dQZF1DX8mWv7JDZ0Ht)
 
-> Sucessos e novidades do pop calminho pra relaxar o seu dia! Foto: Priscilla Alcantara, Vitor Kley
+> Sucessos e novidades do pop calminho pra relaxar o seu dia! Foto: Sandy, Ludmilla
 
-147 songs - 7 hr 25 min - [published](https://open.spotify.com/playlist/5tkcffSh1F75PZZSEVmuv8)
+149 songs - 7 hr 31 min - [published](https://open.spotify.com/playlist/5tkcffSh1F75PZZSEVmuv8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Degradê](https://open.spotify.com/track/5M4a6fcSk12Sy8ylHoaOPI) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Degradê](https://open.spotify.com/album/3QMNbZzZcpkPgm68PnKfHt) | 2:48 | 2022-06-14 |  |
 | [deixa fluir](https://open.spotify.com/track/6YjjYEAcnlzZavu53uTpDw) | [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0), [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [deixa fluir](https://open.spotify.com/album/6ZoUtuq1rEXklKLr2DBUez) | 2:51 | 2022-05-13 |  |
 | [deixa que eu já vou](https://open.spotify.com/track/4td0kvJluzs9IeqnASVllo) | [Simão](https://open.spotify.com/artist/2wkEw9j9xteOnF00DqUI34) | [deixa que eu já vou](https://open.spotify.com/album/744yL93oUhidi5dTt32T7z) | 3:18 | 2022-05-13 |  |
-| [Desapaixonar](https://open.spotify.com/track/4GL2GTaFhPInsjmhNMSFd9) | [Jade Baraldo](https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45) | [Desapaixonar](https://open.spotify.com/album/0t3IQv7Y2zvBumYHhht8Gv) | 3:49 | 2022-08-05 |  |
+| [Desapaixonar](https://open.spotify.com/track/4GL2GTaFhPInsjmhNMSFd9) | [Jade Baraldo](https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45) | [Desapaixonar](https://open.spotify.com/album/0t3IQv7Y2zvBumYHhht8Gv) | 3:49 | 2022-08-05 | 2022-09-17 |
 | [DESCOBRIDOR](https://open.spotify.com/track/2pg5jMIT8VlxYnwWFff9UT) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [MEMÓRIAS \(de onde eu nunca fui\)](https://open.spotify.com/album/2bZbGKs0jc0gxVguR9fCYr) | 3:08 | 2022-05-13 |  |
 | [Deu Praia](https://open.spotify.com/track/6hk2MkKPvYpRBhKJ4Yr4pn) | [Mar.iana](https://open.spotify.com/artist/48vcFBrAdtdJXjVWZKuuwH) | [Deu Praia](https://open.spotify.com/album/4fUBzsnJPtOXwNvQK0E5la) | 2:13 | 2022-06-24 | 2022-08-02 |
 | [Deus Me Free](https://open.spotify.com/track/1yuTHDSJQXxxA7fCa5WTpz) | [Zek](https://open.spotify.com/artist/39A7Z4FUZvnRvIVNfyfesh) | [Deus Me Free](https://open.spotify.com/album/2MU6hhXi96fna9ojO5aHou) | 2:25 | 2022-09-02 |  |
@@ -98,6 +98,7 @@
 | [Melhor Forma](https://open.spotify.com/track/4LX6iqSAIIQPdpy3L9PZpr) | [Tayla Duarte](https://open.spotify.com/artist/3Uw5WlCi6laD8Wn9CBc3lY), [Arielly Porto](https://open.spotify.com/artist/0L6X54dt5wVN8arWfyN1v1) | [Melhor Forma](https://open.spotify.com/album/2qL2huOv6H8Yz3rUaxW5c9) | 2:24 | 2022-05-13 |  |
 | [Menina do Interior](https://open.spotify.com/track/2yt3119p51Qyp9mHY1xgKK) | [João Napoli](https://open.spotify.com/artist/0LcE3YrT8d2Bc0ylmnnx1L) | [Menina do Interior / Aurora](https://open.spotify.com/album/6Ey26ottxtVHM1j9IvTHVn) | 3:20 | 2022-06-24 | 2022-08-02 |
 | [Miragem](https://open.spotify.com/track/23hHJyj6LwcJtzvu9vVhZT) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax), [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Miragem](https://open.spotify.com/album/7heza5YlpANyzWtj0PZWhq) | 3:33 | 2022-05-13 |  |
+| [MTV](https://open.spotify.com/track/33fnVp55zYGLfhWBgl2j9O) | [Aquino e a Orquestra Invisível](https://open.spotify.com/artist/52fjZORhR21B9pR9kORRTA) | [Aquino e a Orquestra Invisível](https://open.spotify.com/album/39FjAAoFhZFSZhyl63dlqe) | 2:53 | 2022-09-16 |  |
 | [Música para Recomeços](https://open.spotify.com/track/2W5aFc2XGAt4AEH3ZY7427) | [Kell Smith](https://open.spotify.com/artist/74WDLxBsm1TLxV6WVwD994) | [Música para Recomeços](https://open.spotify.com/album/0AKpFm7l7y3GiZk0POcVq4) | 2:58 | 2022-09-09 |  |
 | [No Mesmo Tom](https://open.spotify.com/track/0I4vL4Z2MZyZzhFxBktvdR) | [GUPE](https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix) | [No Mesmo Tom](https://open.spotify.com/album/4Lrv9Ock8oIOYrQks34vrV) | 3:19 | 2022-08-01 |  |
 | [Não Me Chame Pelo Nome](https://open.spotify.com/track/1Bo1M5ADOZ6jKQqwLfNbph) | [Mu Bispo](https://open.spotify.com/artist/2lYbWSffR2cha5exwBBjOv) | [Menor Que Três](https://open.spotify.com/album/0Dx6zGz8z3DZpjGDZbsvQG) | 3:32 | 2022-08-12 |  |
@@ -151,6 +152,7 @@
 | [Voa Comigo](https://open.spotify.com/track/5lOfQOMUWLoTnHLG55b89p) | [Carol & Vitoria](https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD), [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [Voa Comigo](https://open.spotify.com/album/0n88BIlztRuQRRZj5hH92C) | 2:49 | 2022-05-13 |  |
 | [Você Aprendeu A Amar? \(feat\. Emicida\)](https://open.spotify.com/track/6mwF2kTs8wiJqqgHwbYqxl) | [Priscilla Alcantara](https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Você Aprendeu A Amar? \(feat\. Emicida\)](https://open.spotify.com/album/2hlozdNQv4uEOxtXLWEuci) | 3:40 | 2022-06-24 | 2022-09-03 |
 | [Você Me Acertou](https://open.spotify.com/track/77SQvL1cG5KLshO822Xkct) | [Gabriel Henriques](https://open.spotify.com/artist/2CFXlx3qilobAs8x2acmIe), [Adi](https://open.spotify.com/artist/4AnpI5Laz6YeM09dMJNTaW), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq), [Biasi](https://open.spotify.com/artist/4G2Qvpy7rKYZ91J3UAWUN9) | [Você Me Acertou](https://open.spotify.com/album/7KJUkM78lvifMeOGq1OwEN) | 2:51 | 2022-06-14 | 2022-06-25 |
+| [Voltar Pra Mim](https://open.spotify.com/track/2WNQken5d0Po7nHkv2xTKR) | [Sandy](https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Voltar Pra Mim](https://open.spotify.com/album/4Am10gzo9ekcZjZODwUxsY) | 3:12 | 2022-09-16 |  |
 | [Vontade Lunar \(feat\. OUTROEU\)](https://open.spotify.com/track/6g8Q5HsDn9Mn2ckBiWMAJf) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK), [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo) | [Vontade Lunar \(feat\. OUTROEU\)](https://open.spotify.com/album/6kwPkBFgJ7rEzVtVi9VYMJ) | 3:00 | 2022-05-13 | 2022-06-15 |
 | [X](https://open.spotify.com/track/6W8LexF36gzcCMHOYVUH3M) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [X](https://open.spotify.com/album/29C6tX4odBAjZlLQBaQWMp) | 3:46 | 2022-05-13 |  |
 | [Xodó](https://open.spotify.com/track/22Wxpf3RUrgvQkP6RifxHa) | [Juliette](https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec) | [Xodó](https://open.spotify.com/album/4ytS3bELXWGYJrQpr8LBA7) | 2:24 | 2022-07-01 | 2022-08-13 |

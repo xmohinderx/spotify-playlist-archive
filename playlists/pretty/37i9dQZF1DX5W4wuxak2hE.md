@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5W4wuxak2hE.md) - [plain]
 
 > Here's a taste of power pop\. <a href="spotify:genre:0JQ5IMCbQBLk5woFi85yOT">Click here for further discovery.</a> Cover: Cheap Trick
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,588 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,675 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5W4wuxak2hE.md) - [plain]
 | 47 | [Hello It's Me](https://open.spotify.com/track/3gHFKiDanj4d2rqgHlRFFc) | [Todd Rundgren](https://open.spotify.com/artist/0Lpr5wXzWLtDWm1SjNbpPb) | [Something / Anything?](https://open.spotify.com/album/3fRCOoTbBsOITBWlCRCJQr) | 4:24 |
 | 48 | [Ah! Leah!](https://open.spotify.com/track/3ifaGhNHnCPQ9zdnOfolcZ) | [Donnie Iris](https://open.spotify.com/artist/4kveDT8ylFciq1mdeYcIvw) | [20th Century Masters: The Millennium Collection: Best of Donnie Iris](https://open.spotify.com/album/5SflwEXSYK6xowXF9SDrkF) | 3:42 |
 | 49 | [\(What's So Funny 'Bout\) Peace, Love And Understanding](https://open.spotify.com/track/77XzsYwTkvLoveW01Lanrk) | [Elvis Costello & The Attractions](https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH) | [Armed Forces \(Remastered 2020\)](https://open.spotify.com/album/5w3q6GZbw0gsAtvl1c0rmu) | 3:31 |
-| 50 | [Pulling Mussels \(From The Shell\)](https://open.spotify.com/track/2TjXzbUt5zQ4PpHG0dEaT1) | [Squeeze](https://open.spotify.com/artist/6Jrj26oAY96EEC2lqC6fua) | [Argybargy](https://open.spotify.com/album/7Me29nlWdDxCGAAwupHfSV) | 3:58 |
+| 50 | [Lola \- 2020 Stereo Remaster](https://open.spotify.com/track/4ZKgPZ9d4V5WW6H2s4qMD3) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Lola Versus Powerman and the Moneygoround, Pt\. 1](https://open.spotify.com/album/70kpGi2o0I7NY4DfwIN2p0) | 4:01 |
 
-Snapshot ID: `MTY2MDc0NjAzNiwwMDAwMDAwMDZmNDE1N2IzMzQzNDBhZmU4OTE2OGRmOGQ0MmZkOTZm`
+Snapshot ID: `MTY2MDc0NjAzNiwwMDAwMDAwMDEzODI0N2Q4YmEyN2FjZjc1NDQ2NjA1YmM4YmJhY2Qx`

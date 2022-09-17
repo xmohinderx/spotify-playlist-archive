@@ -4,7 +4,7 @@
 
 > Celebrate the epic GTA series with memorable moments and hidden gems from the soundtrack.
 
-164 songs - 11 hr 33 min - [published](https://open.spotify.com/playlist/07zQ9oB93lOCDNyT1Xbj2x)
+165 songs - 11 hr 38 min - [published](https://open.spotify.com/playlist/07zQ9oB93lOCDNyT1Xbj2x)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,7 +166,8 @@
 | [War Is Necessary](https://open.spotify.com/track/0g9NT0ve6iUVUfNbRIaGNz) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [The Music of Grand Theft Auto IV](https://open.spotify.com/album/0lTknHCG5YS0NeVWZuiWzm) | 2:28 | 2021-11-17 |  |
 | [Welcome To The Jungle](https://open.spotify.com/track/0G21yYKMZoHa30cYVi1iA8) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW) | 4:33 | 2021-11-17 |  |
 | [West End Girls \- 2001 Remaster](https://open.spotify.com/track/7FlwylpJSe3ea6m1IrkizS) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Please: Further Listening 1984\-1986](https://open.spotify.com/album/3rnhCB65fDQFokoeKHmM0F) | 4:05 | 2021-11-17 | 2022-07-29 |
-| [West End Girls \- 2001 Remaster](https://open.spotify.com/track/2yzPBlE5UXK2sqvnNM9QQ0) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Please](https://open.spotify.com/album/0AwBxVtsvLVwmaVwwe5beS) | 4:45 | 2021-11-17 |  |
+| [West End Girls \- 2001 Remaster](https://open.spotify.com/track/2yzPBlE5UXK2sqvnNM9QQ0) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Please](https://open.spotify.com/album/0AwBxVtsvLVwmaVwwe5beS) | 4:45 | 2021-11-17 | 2022-09-17 |
+| [West End Girls \- 2018 Remaster](https://open.spotify.com/track/2Di0qFNb7ATroCGB3q0Ka7) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Please: Further Listening 1984 \- 1986 \(2018 Remaster\)](https://open.spotify.com/album/47fRf3JwriMUPPzFjdvNS6) | 4:45 | 2021-11-17 |  |
 | [White Wedding \- Pt\. 1](https://open.spotify.com/track/1gzIbdFnGJ226LTl0Cn2SX) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Billy Idol](https://open.spotify.com/album/5ebh0MxkqELmk50xHj2b4k) | 4:12 | 2021-11-17 |  |
 | [Windowlicker](https://open.spotify.com/track/60Pe9j2pCBa4Zp4ztf5nhd) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Windowlicker](https://open.spotify.com/album/64XdBdXNdguPHzBg8bdk5A) | 6:08 | 2021-11-17 |  |
 | [XULITA \(feat\. Kaydy Cain\)](https://open.spotify.com/track/1HjpnKN5vfceRgV7fa1DJA) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Kaydy Cain](https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA) | [PERREAMOS?](https://open.spotify.com/album/6F2TAcgZ09A7GjvJTgc8NY) | 3:04 | 2021-12-18 |  |

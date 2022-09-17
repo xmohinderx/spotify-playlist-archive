@@ -1,12 +1,12 @@
 {
   "description": "Real rap music from the golden era.\n",
-  "num_followers": 6980419,
+  "num_followers": 6983221,
   "original_name": "I Love My '90s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY1MjA0MywwMDAwMDAwMDZiMjgyYTlmZjljNmZkYjdkYzA4YThjZTMyOTBiMDFh",
+  "snapshot_id": "MTY2MjY1MjA0MywwMDAwMDAwMDU4ZDMyNmQwMDcyZWU4ODFjMjIxNzczMjkwZmU0ODRk",
   "tracks": [
     {
       "added_at": "2022-09-08 15:47:23",
@@ -575,22 +575,6 @@
     {
       "added_at": "2022-09-08 15:47:23",
       "album": {
-        "name": "People's Instinctive Travels and the Paths of Rhythm (25th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/3kV0i1qqudjf0PGawJ4jck"
-      },
-      "artists": [
-        {
-          "name": "A Tribe Called Quest",
-          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
-        }
-      ],
-      "duration_ms": 251573,
-      "name": "Can I Kick It?",
-      "url": "https://open.spotify.com/track/3Ti0GdlrotgwsAVBBugv0I"
-    },
-    {
-      "added_at": "2022-09-08 15:47:23",
-      "album": {
         "name": "The Infamous",
         "url": "https://open.spotify.com/album/1cCAb1vN8uUsdfEylVmTLs"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 224533,
       "name": "Survival of the Fittest",
       "url": "https://open.spotify.com/track/7N1Vjtzr1lmmCW9iasQ8YO"
+    },
+    {
+      "added_at": "2022-09-08 15:47:23",
+      "album": {
+        "name": "People's Instinctive Travels and the Paths of Rhythm (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/3kV0i1qqudjf0PGawJ4jck"
+      },
+      "artists": [
+        {
+          "name": "A Tribe Called Quest",
+          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+        }
+      ],
+      "duration_ms": 251573,
+      "name": "Can I Kick It?",
+      "url": "https://open.spotify.com/track/3Ti0GdlrotgwsAVBBugv0I"
     },
     {
       "added_at": "2022-09-08 15:47:23",
@@ -743,22 +743,6 @@
     {
       "added_at": "2022-09-08 15:47:23",
       "album": {
-        "name": "Hello Nasty (Deluxe Version/Remastered 2009)",
-        "url": "https://open.spotify.com/album/6eGYLONkDMja0MNtZWnRRB"
-      },
-      "artists": [
-        {
-          "name": "Beastie Boys",
-          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
-        }
-      ],
-      "duration_ms": 231493,
-      "name": "Intergalactic - Remastered 2009",
-      "url": "https://open.spotify.com/track/5fpizYGbi5IQoEraj6FP0R"
-    },
-    {
-      "added_at": "2022-09-08 15:47:23",
-      "album": {
         "name": "Blackout!",
         "url": "https://open.spotify.com/album/5K9kD50P66neofCR8BoYxg"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 136093,
       "name": "Da Rockwilder",
       "url": "https://open.spotify.com/track/4anqYZt4APNlFwQixpbdZR"
+    },
+    {
+      "added_at": "2022-09-08 15:47:23",
+      "album": {
+        "name": "Hello Nasty (Deluxe Version/Remastered 2009)",
+        "url": "https://open.spotify.com/album/6eGYLONkDMja0MNtZWnRRB"
+      },
+      "artists": [
+        {
+          "name": "Beastie Boys",
+          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
+        }
+      ],
+      "duration_ms": 231493,
+      "name": "Intergalactic - Remastered 2009",
+      "url": "https://open.spotify.com/track/5fpizYGbi5IQoEraj6FP0R"
     },
     {
       "added_at": "2022-09-08 15:47:23",
@@ -1091,34 +1091,6 @@
     {
       "added_at": "2022-09-08 15:47:23",
       "album": {
-        "name": "The Score (Expanded Edition)",
-        "url": "https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb"
-      },
-      "artists": [
-        {
-          "name": "Fugees",
-          "url": "https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY"
-        },
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        },
-        {
-          "name": "Wyclef Jean",
-          "url": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
-        },
-        {
-          "name": "Pras",
-          "url": "https://open.spotify.com/artist/0kJMPTXq7h3ztpDukSx5iD"
-        }
-      ],
-      "duration_ms": 260066,
-      "name": "Fu-Gee-La",
-      "url": "https://open.spotify.com/track/1rJM37Dd4OcSJvzI84yCcP"
-    },
-    {
-      "added_at": "2022-09-08 15:47:23",
-      "album": {
         "name": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
         "url": "https://open.spotify.com/album/3tQd5mwBtVyxCoEo4htGAV"
       },
@@ -1147,6 +1119,34 @@
     {
       "added_at": "2022-09-08 15:47:23",
       "album": {
+        "name": "The Score (Expanded Edition)",
+        "url": "https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb"
+      },
+      "artists": [
+        {
+          "name": "Fugees",
+          "url": "https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY"
+        },
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        },
+        {
+          "name": "Wyclef Jean",
+          "url": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+        },
+        {
+          "name": "Pras",
+          "url": "https://open.spotify.com/artist/0kJMPTXq7h3ztpDukSx5iD"
+        }
+      ],
+      "duration_ms": 260066,
+      "name": "Fu-Gee-La",
+      "url": "https://open.spotify.com/track/1rJM37Dd4OcSJvzI84yCcP"
+    },
+    {
+      "added_at": "2022-09-08 15:47:23",
+      "album": {
         "name": "The Master",
         "url": "https://open.spotify.com/album/3mvWfqa4cceoGyA7qECPWH"
       },
@@ -1159,6 +1159,22 @@
       "duration_ms": 222933,
       "name": "When I B On Tha Mic",
       "url": "https://open.spotify.com/track/2p9sprAX27D6U5cuSE9NsM"
+    },
+    {
+      "added_at": "2022-09-08 15:47:23",
+      "album": {
+        "name": "E. 1999 Eternal",
+        "url": "https://open.spotify.com/album/3r25XjxAmLMOhOWoV6X8N9"
+      },
+      "artists": [
+        {
+          "name": "Bone Thugs-N-Harmony",
+          "url": "https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg"
+        }
+      ],
+      "duration_ms": 314680,
+      "name": "1st of Tha Month",
+      "url": "https://open.spotify.com/track/1dF5Y2dd7Wm4wZKvVjWBpr"
     },
     {
       "added_at": "2022-09-08 15:47:23",
@@ -1179,18 +1195,18 @@
     {
       "added_at": "2022-09-08 15:47:23",
       "album": {
-        "name": "E. 1999 Eternal",
-        "url": "https://open.spotify.com/album/3r25XjxAmLMOhOWoV6X8N9"
+        "name": "Aquemini",
+        "url": "https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28"
       },
       "artists": [
         {
-          "name": "Bone Thugs-N-Harmony",
-          "url": "https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg"
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
         }
       ],
-      "duration_ms": 314680,
-      "name": "1st of Tha Month",
-      "url": "https://open.spotify.com/track/1dF5Y2dd7Wm4wZKvVjWBpr"
+      "duration_ms": 324373,
+      "name": "Rosa Parks",
+      "url": "https://open.spotify.com/track/0shK5iZQppbHPQYiy60xs9"
     },
     {
       "added_at": "2022-09-08 15:47:23",
@@ -1219,22 +1235,6 @@
       "duration_ms": 259306,
       "name": "You Got Me",
       "url": "https://open.spotify.com/track/4pdLZsxq0y5oJDb6Cxlokw"
-    },
-    {
-      "added_at": "2022-09-08 15:47:23",
-      "album": {
-        "name": "Aquemini",
-        "url": "https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        }
-      ],
-      "duration_ms": 324373,
-      "name": "Rosa Parks",
-      "url": "https://open.spotify.com/track/0shK5iZQppbHPQYiy60xs9"
     },
     {
       "added_at": "2022-09-08 15:47:23",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2022-09-08 15:47:23",
       "album": {
-        "name": "Homebase",
-        "url": "https://open.spotify.com/album/2ELLswCKdQXUWbWxhaAklh"
-      },
-      "artists": [
-        {
-          "name": "DJ Jazzy Jeff & The Fresh Prince",
-          "url": "https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh"
-        }
-      ],
-      "duration_ms": 270973,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd"
-    },
-    {
-      "added_at": "2022-09-08 15:47:23",
-      "album": {
         "name": "The Low End Theory",
         "url": "https://open.spotify.com/album/1p12OAWwudgMqfMzjMvl2a"
       },
@@ -1407,6 +1391,22 @@
     {
       "added_at": "2022-09-08 15:47:23",
       "album": {
+        "name": "Homebase",
+        "url": "https://open.spotify.com/album/2ELLswCKdQXUWbWxhaAklh"
+      },
+      "artists": [
+        {
+          "name": "DJ Jazzy Jeff & The Fresh Prince",
+          "url": "https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh"
+        }
+      ],
+      "duration_ms": 270973,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd"
+    },
+    {
+      "added_at": "2022-09-08 15:47:23",
+      "album": {
         "name": "Simon Says",
         "url": "https://open.spotify.com/album/2hKCg2JLGtjATrYvpQedT5"
       },
@@ -1419,22 +1419,6 @@
       "duration_ms": 173159,
       "name": "Simon Says",
       "url": "https://open.spotify.com/track/67IvfvAMYQzJEeHopvwMMW"
-    },
-    {
-      "added_at": "2022-09-08 15:47:23",
-      "album": {
-        "name": "Return of the Boom Bap",
-        "url": "https://open.spotify.com/album/64ub4SfdC8wvPjdUXw8QY9"
-      },
-      "artists": [
-        {
-          "name": "KRS-One",
-          "url": "https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla"
-        }
-      ],
-      "duration_ms": 258506,
-      "name": "Sound of da Police",
-      "url": "https://open.spotify.com/track/3Y6XWs8xMlCngyIxNOFnsp"
     },
     {
       "added_at": "2022-09-08 15:47:23",
@@ -1491,6 +1475,22 @@
       "duration_ms": 338186,
       "name": "Triumph (feat. Ol' Dirty Bastard, Inspectah Deck, Method Man, Cappadonna, U-God, RZA, GZA, Masta Killa, Ghostface Killah & Raekwon)",
       "url": "https://open.spotify.com/track/3glqlA5qY3bbo8UaUDGPnw"
+    },
+    {
+      "added_at": "2022-09-08 15:47:23",
+      "album": {
+        "name": "Return of the Boom Bap",
+        "url": "https://open.spotify.com/album/64ub4SfdC8wvPjdUXw8QY9"
+      },
+      "artists": [
+        {
+          "name": "KRS-One",
+          "url": "https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla"
+        }
+      ],
+      "duration_ms": 258506,
+      "name": "Sound of da Police",
+      "url": "https://open.spotify.com/track/3Y6XWs8xMlCngyIxNOFnsp"
     },
     {
       "added_at": "2022-09-08 15:47:23",
@@ -1795,22 +1795,18 @@
     {
       "added_at": "2022-09-08 15:47:23",
       "album": {
-        "name": "Center of Attention",
-        "url": "https://open.spotify.com/album/3r4RwwnQNkdwLfOcO7WReI"
+        "name": "When Disaster Strikes...",
+        "url": "https://open.spotify.com/album/6nPdlsKWGOFepgMMXTZReP"
       },
       "artists": [
         {
-          "name": "Pete Rock",
-          "url": "https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2"
-        },
-        {
-          "name": "InI",
-          "url": "https://open.spotify.com/artist/5gv2yt9ii2nJ2tu39FPigj"
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
         }
       ],
-      "duration_ms": 276373,
-      "name": "Grown Man Sport",
-      "url": "https://open.spotify.com/track/6dRj771QZr0KOQVwaB6ykM"
+      "duration_ms": 194293,
+      "name": "Put Your Hands Where My Eyes Could See",
+      "url": "https://open.spotify.com/track/1NHwvBmrUje4L1dxfWnXCH"
     },
     {
       "added_at": "2022-09-08 15:47:23",
@@ -1831,18 +1827,22 @@
     {
       "added_at": "2022-09-08 15:47:23",
       "album": {
-        "name": "Mr. Smith (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6b7NVGKHlwKyQzFKoVTaMA"
+        "name": "Center of Attention",
+        "url": "https://open.spotify.com/album/3r4RwwnQNkdwLfOcO7WReI"
       },
       "artists": [
         {
-          "name": "LL COOL J",
-          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+          "name": "Pete Rock",
+          "url": "https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2"
+        },
+        {
+          "name": "InI",
+          "url": "https://open.spotify.com/artist/5gv2yt9ii2nJ2tu39FPigj"
         }
       ],
-      "duration_ms": 293933,
-      "name": "Doin' It",
-      "url": "https://open.spotify.com/track/4WMBl2wiGUSGa5C7tfQEAo"
+      "duration_ms": 276373,
+      "name": "Grown Man Sport",
+      "url": "https://open.spotify.com/track/6dRj771QZr0KOQVwaB6ykM"
     },
     {
       "added_at": "2022-09-08 15:47:23",
@@ -1863,22 +1863,18 @@
     {
       "added_at": "2022-09-08 15:47:23",
       "album": {
-        "name": "Tical (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7DyAbrlPQTi2v6DAmgC8Qa"
+        "name": "Mr. Smith (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6b7NVGKHlwKyQzFKoVTaMA"
       },
       "artists": [
         {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        },
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+          "name": "LL COOL J",
+          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
         }
       ],
-      "duration_ms": 309946,
-      "name": "I'll Be There For You/You're All I Need To Get By - Puff Daddy Mix",
-      "url": "https://open.spotify.com/track/6C3yPXYG2NJYlIYVe5J7hv"
+      "duration_ms": 293933,
+      "name": "Doin' It",
+      "url": "https://open.spotify.com/track/4WMBl2wiGUSGa5C7tfQEAo"
     }
   ],
   "unique_name": "I Love My '90s Hip-Hop",

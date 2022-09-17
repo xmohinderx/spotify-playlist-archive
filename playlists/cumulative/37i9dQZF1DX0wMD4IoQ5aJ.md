@@ -4,7 +4,7 @@
 
 > Work and study to the sound of soft electronic music.
 
-212 songs - 11 hr 22 min - [published](https://open.spotify.com/playlist/4kvR6kDGCyIb3XwrUcHYC8)
+215 songs - 11 hr 32 min - [published](https://open.spotify.com/playlist/4kvR6kDGCyIb3XwrUcHYC8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [All Of This](https://open.spotify.com/track/5081rjdnNA1APnghNrrwku) | [Posij](https://open.spotify.com/artist/7nmucrDZXxIQNGLwCqPQpO) | [All Of This](https://open.spotify.com/album/2OCF9t89MqZd5b2MUy5EqM) | 6:18 | 2022-08-12 |  |
 | [All Roads Lead Here \(Edit\)](https://open.spotify.com/track/5dABuTnt3wSDc014DCASDW) | [Mark Bassano](https://open.spotify.com/artist/7khhkGwYL2XLuNTOwnkV5u) | [All Roads Lead Here \(Edit\)](https://open.spotify.com/album/08NukPbbuxAupnoNEeRyQ7) | 2:41 | 2022-04-15 |  |
 | [Almannagjá](https://open.spotify.com/track/2y8NHclCo5TPdGn5oq1pkY) | [West & Zander](https://open.spotify.com/artist/2Zjic6AMVbL0WvXf5ll1lA) | [Almannagjá](https://open.spotify.com/album/3oc8GKdKvYten8v7t4mspv) | 3:31 | 2022-09-02 |  |
-| [Ambiancé](https://open.spotify.com/track/50U4fPJmLG5iL6HWO1z53a) | [Peed Hus](https://open.spotify.com/artist/4LpZEO5wsgiBMLhl7Mpec7) | [Ambiancé](https://open.spotify.com/album/2x2RQSYKdNFBIjf0lVascf) | 4:11 | 2022-07-29 |  |
+| [Ambiancé](https://open.spotify.com/track/50U4fPJmLG5iL6HWO1z53a) | [Peed Hus](https://open.spotify.com/artist/4LpZEO5wsgiBMLhl7Mpec7) | [Ambiancé](https://open.spotify.com/album/2x2RQSYKdNFBIjf0lVascf) | 4:11 | 2022-07-29 | 2022-09-17 |
 | [Ana](https://open.spotify.com/track/6euGcnL8dwzuTdgXvUvM0b) | [Gabriel Minguez](https://open.spotify.com/artist/5JPB9dyLZWIsWZAubEn4YM) | [Ana](https://open.spotify.com/album/2rFyWrve9sIUtcoXAWsqjM) | 6:20 | 2022-04-15 |  |
 | [Andlegur](https://open.spotify.com/track/3RppF12Ss8vEnqA5y5gjRM) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [Andlegur](https://open.spotify.com/album/02NL12FNnjonIdRMiVtb1u) | 3:33 | 2022-04-15 | 2022-07-08 |
 | [Apelsin](https://open.spotify.com/track/2JU9HxO67unq1IxdfLWywI) | [Son\-us](https://open.spotify.com/artist/7IVjn6HqeD4DGearUhx5YY) | [Apelsin](https://open.spotify.com/album/4yfmMDdTRzvgFkzseQ6w4T) | 2:54 | 2022-07-08 |  |
@@ -61,14 +61,15 @@
 | [Cosmic Dancer](https://open.spotify.com/track/53WQnXY1i3ccnQJe4ww0Lv) | [Belloq](https://open.spotify.com/artist/65UoNCuuCJTVU3JTTZmjjj) | [Cosmic Dancer](https://open.spotify.com/album/1WNTZ6Su4aM5lTIZlXIoYf) | 2:59 | 2022-04-15 |  |
 | [Cosmopolitan](https://open.spotify.com/track/5tIBc0L66MVZ1tNUApYV8f) | [Beach Villa](https://open.spotify.com/artist/6419utRWf7KXDJun7kpFmo) | [Cosmopolitan](https://open.spotify.com/album/0tim8AlkIqLinWNnGqv2yf) | 2:23 | 2022-04-15 | 2022-09-02 |
 | [Course Correction](https://open.spotify.com/track/1lZ7KgAXfoybBX2Lxow0Uf) | [pxp pxp](https://open.spotify.com/artist/2tAwz8BUyvKg8mkCC7YTYO) | [Course Correction](https://open.spotify.com/album/2laHbGZd6kNRvEyA5RTfBt) | 3:21 | 2022-06-10 | 2022-09-02 |
+| [Croix Coast](https://open.spotify.com/track/0jcpgo5z47py0nTtl77Hi5) | [Bluet](https://open.spotify.com/artist/5embwI2sWarwmiyd82DNtI) | [Croix Coast](https://open.spotify.com/album/6gRyaztUc8C29WRQ4kWwuA) | 3:11 | 2022-09-16 |  |
 | [crusade](https://open.spotify.com/track/30bpR02KwJ6SpvHUvdvuoW) | [Cloode](https://open.spotify.com/artist/0QvInajilVJw8If75PeAH8) | [crusade](https://open.spotify.com/album/2aQzUj8sNTgQN1AV3uETXt) | 2:08 | 2022-04-15 |  |
-| [Culpa](https://open.spotify.com/track/0D8nhgg7DIKd4BUdQnifTX) | [Mateo Moreira](https://open.spotify.com/artist/0dpf4Wx6EBL7xYeVp0czXa) | [Culpa](https://open.spotify.com/album/1TNqQcjinzcKieG7fICjur) | 3:04 | 2022-04-15 |  |
+| [Culpa](https://open.spotify.com/track/0D8nhgg7DIKd4BUdQnifTX) | [Mateo Moreira](https://open.spotify.com/artist/0dpf4Wx6EBL7xYeVp0czXa) | [Culpa](https://open.spotify.com/album/1TNqQcjinzcKieG7fICjur) | 3:04 | 2022-04-15 | 2022-09-17 |
 | [Cygni](https://open.spotify.com/track/6YZ9SMO6M3xiLFdSGTDF16) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp) | [Cygni](https://open.spotify.com/album/1bisz6k9iWqxXgFhI40NDk) | 3:38 | 2022-09-02 |  |
 | [days of darkness](https://open.spotify.com/track/6jxQtWleRsvLsomeSX7GEN) | [MC Baptiste](https://open.spotify.com/artist/6JaDPnL6ur7OkTwD6wKyhL) | [days of darkness](https://open.spotify.com/album/5kTOeCjQTdTiOxfPXLIbQh) | 2:51 | 2022-06-17 |  |
 | [Deep in a Dream](https://open.spotify.com/track/36Dn2xN9wrCfVSGu4NlJBu) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Don’t Stop](https://open.spotify.com/album/7sQFQyKIQL2CSrRCqqkszF) | 6:05 | 2022-04-15 | 2022-09-02 |
 | [Deep Mind](https://open.spotify.com/track/4ZS6culUlDvYvLGgIsEyy2) | [Bamba Lamer](https://open.spotify.com/artist/0lHDiEKyk5ooAlsfDeNHgo) | [Deep Mind](https://open.spotify.com/album/0qtGM2MhLj7A8v3BUpbOz2) | 2:39 | 2022-07-22 |  |
 | [Deep Mist](https://open.spotify.com/track/3ShpwQAo4AYXGZzkcXbq4H) | [Milous](https://open.spotify.com/artist/4Cv0OlUpDvWetGf4ZpI5Zj) | [Deep Mist](https://open.spotify.com/album/4g2Ez00eOO0Cm1Dduppv7S) | 3:09 | 2022-04-15 |  |
-| [Deeper Spheres](https://open.spotify.com/track/1pKglyymqDNY0yXIv94ztW) | [Duplé](https://open.spotify.com/artist/1Mxkl3Mm7sbelsKWiXTfSf) | [Deeper Spheres](https://open.spotify.com/album/31jWTV8wMy7Q12z5ENEWWl) | 2:29 | 2022-04-15 |  |
+| [Deeper Spheres](https://open.spotify.com/track/1pKglyymqDNY0yXIv94ztW) | [Duplé](https://open.spotify.com/artist/1Mxkl3Mm7sbelsKWiXTfSf) | [Deeper Spheres](https://open.spotify.com/album/31jWTV8wMy7Q12z5ENEWWl) | 2:29 | 2022-04-15 | 2022-09-17 |
 | [Delphina](https://open.spotify.com/track/4lvD1VH9hxuXLO6ryEaSKI) | [Frameworks](https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP) | [Imagine Gold](https://open.spotify.com/album/0S9o7MW7YSpKKRX7cmqSXm) | 5:14 | 2022-07-29 |  |
 | [Delphina](https://open.spotify.com/track/7yi2ZzgcknbtVih0sNyBDv) | [Frameworks](https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP) | [Imagine Gold](https://open.spotify.com/album/73xkzFpXSccLAEV59fHhXQ) | 5:14 | 2022-04-15 | 2022-07-29 |
 | [Delta\-Omicron](https://open.spotify.com/track/4y3vErFuRlu6i2SyO0nkD1) | [Loell](https://open.spotify.com/artist/3jDHiq5XFmo97S6L5NtGsn) | [Delta\-Omicron](https://open.spotify.com/album/53NmGCs59O0EYT2uRNDW5x) | 2:51 | 2022-04-15 | 2022-05-27 |
@@ -150,6 +151,7 @@
 | [On My Way](https://open.spotify.com/track/28H2eFbLiKPfJ44ZvGWPax) | [Wasted House](https://open.spotify.com/artist/7cU0yD9la2xTxWSaxc5uk2) | [On My Way](https://open.spotify.com/album/62gm87KgQEdnTeZNJ129os) | 1:56 | 2022-04-15 |  |
 | [Opposite](https://open.spotify.com/track/6VLstEbmUW5oCxgahFe0Wf) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Moment EP](https://open.spotify.com/album/0lIHGVhcEfhqRTMFCCYbmt) | 4:34 | 2022-04-15 |  |
 | [Outsiders](https://open.spotify.com/track/0cys38NXnW2x0Gz3OZDmA4) | [Ms\. Velvet](https://open.spotify.com/artist/0y0wpWjKYzAqmY0nQkaZcH) | [Outsiders](https://open.spotify.com/album/5vYc4BavunFEmUk7cCisLd) | 3:01 | 2022-09-02 |  |
+| [Over and over](https://open.spotify.com/track/6B3yCWrksx9PrjGwu6zDzB) | [YAN KAL](https://open.spotify.com/artist/04735OZRCyYdkA5Cay4qkG) | [Over and over](https://open.spotify.com/album/2n98PgBJ7tkXSwNVEKDakd) | 3:45 | 2022-09-16 |  |
 | [Paint](https://open.spotify.com/track/3aQ7Zu6BKPMcj6kkHAmt4z) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Concrete Miracle EP](https://open.spotify.com/album/0XO6KvzYky6tmlQQAyqnME) | 4:00 | 2022-04-15 |  |
 | [Paradisio](https://open.spotify.com/track/7GbmFwC2i0P5kqkDdMPmhz) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Paradisio](https://open.spotify.com/album/4E6olUhJDgeSKnXPDTsTd7) | 2:51 | 2022-04-15 |  |
 | [Passage](https://open.spotify.com/track/7wOZCITHxHO4j7dQ5jd2iL) | [Ben Travel](https://open.spotify.com/artist/6s1MIr0LiLjEnSGjvPqaUC) | [Passage](https://open.spotify.com/album/2ODUevO5ok7PMjrhlTmU3l) | 2:57 | 2022-04-15 | 2022-05-20 |
@@ -157,7 +159,7 @@
 | [Positano](https://open.spotify.com/track/2XxGvI9nvrkK6BuNAOvRQw) | [Ran the Man](https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu) | [Positano](https://open.spotify.com/album/365Du5Bh6lzXuxvSq7h7jW) | 3:08 | 2022-04-15 |  |
 | [Primal View](https://open.spotify.com/track/1g0mgAfM8cT1wwgfK3XOPM) | [Kleo](https://open.spotify.com/artist/24jRJ4wKE0RC9c8M4CUyuK) | [Primal View](https://open.spotify.com/album/2juZVcgTqgrGIvrf2wfmHh) | 2:48 | 2022-05-10 |  |
 | [Pulpy](https://open.spotify.com/track/6u2YnsX4gu01IE3gbFHccy) | [Bagnio](https://open.spotify.com/artist/4ILDYx71BU6WiKLptF6IJQ) | [Pulpy](https://open.spotify.com/album/58cWXVfZBTZ6cDos212ZhN) | 2:59 | 2022-04-15 | 2022-09-02 |
-| [Radiance](https://open.spotify.com/track/2TA3D0izaG7KhrMaI4BcAj) | [Delphine Dekker](https://open.spotify.com/artist/5cKBlwzPmhqucVJ4CeaHuz) | [Radiance](https://open.spotify.com/album/5VaiAhqs8QZWxJhRA5F6pX) | 3:31 | 2022-04-15 |  |
+| [Radiance](https://open.spotify.com/track/2TA3D0izaG7KhrMaI4BcAj) | [Delphine Dekker](https://open.spotify.com/artist/5cKBlwzPmhqucVJ4CeaHuz) | [Radiance](https://open.spotify.com/album/5VaiAhqs8QZWxJhRA5F6pX) | 3:31 | 2022-04-15 | 2022-09-17 |
 | [Reach](https://open.spotify.com/track/1HWy19J4EI51m1RR9iqzn5) | [Jox Talay](https://open.spotify.com/artist/0qDTl4Bh2K6djIvLh91QQP) | [Reach](https://open.spotify.com/album/2koR8FUMFEEaDRH61Irgvt) | 3:26 | 2022-04-15 |  |
 | [Readings](https://open.spotify.com/track/6JMYFarzbRvp8J7YnGdbsP) | [Kacey View](https://open.spotify.com/artist/5V6YChLiAxyybNfGTpdXOi) | [Readings](https://open.spotify.com/album/6n1vtw8Wjkec1HUpcyYckb) | 2:16 | 2022-09-02 |  |
 | [Reflections](https://open.spotify.com/track/0dDLF2gNpap74lchtclfr2) | [Ilya Orange](https://open.spotify.com/artist/3GWnzwTAnzpZYIbNhRNhtz) | [Sunday Morning Dub](https://open.spotify.com/album/5x3JDVy2WFttHf185igcNj) | 5:56 | 2022-07-29 |  |
@@ -206,6 +208,7 @@
 | [Swirling](https://open.spotify.com/track/6rT6BWrpnlGhEFSKPLyyKZ) | [Major Tweaks](https://open.spotify.com/artist/5CzHcOIcNE9WsNm9ZXZUkh) | [Swirling](https://open.spotify.com/album/10iE2kgjrk3KZTtK14ukbX) | 2:58 | 2022-04-15 | 2022-08-19 |
 | [tanlines](https://open.spotify.com/track/1q3rZdIOgKe4LQPpcBqiyo) | [metricity](https://open.spotify.com/artist/3GyvrTet9xaits2vMSrVlT) | [tanlines](https://open.spotify.com/album/3eD0id4j2SrYRn9VeX5nkm) | 3:00 | 2022-04-15 |  |
 | [Tekapo \- Edit](https://open.spotify.com/track/7nvTywXHEfa4Kb6W9cUhqJ) | [Walter Woods](https://open.spotify.com/artist/1k1WrqbhNylomjfqZ0lq4D) | [Tekapo \(Edit\)](https://open.spotify.com/album/4M8lta7iSWNHxh7eHMpY8Y) | 2:28 | 2022-04-15 | 2022-06-10 |
+| [Telescope](https://open.spotify.com/track/3daZM9Bj2Xh9oylPvXq2Ow) | [PZA BIANCO](https://open.spotify.com/artist/4AR6Ql1R3ElQIJB8ZnqggH) | [Telescope](https://open.spotify.com/album/17L1SqxSVbUQKyxZKVFbKt) | 2:46 | 2022-09-16 |  |
 | [The Fire](https://open.spotify.com/track/30Zqlt51wOzUe2y9gdY8Yl) | [Cogitation](https://open.spotify.com/artist/03cw3islnFkglHBqaVuDMq) | [The Fire](https://open.spotify.com/album/2y9uoXSbJbulLgiqZIM0FH) | 2:42 | 2022-04-15 | 2022-09-02 |
 | [Traffic Lights](https://open.spotify.com/track/3MdKptGeHema5frxISyDAW) | [Slow Ted](https://open.spotify.com/artist/7gU4zqbpqWECGMnox5c9G8) | [Traffic Lights](https://open.spotify.com/album/49axagqRBNCqzBaGCMlmIG) | 3:09 | 2022-06-24 |  |
 | [Transform](https://open.spotify.com/track/5kS0twYx4n48QIc2YgfBSK) | [Little Spoon Bender](https://open.spotify.com/artist/0VMCwUMdk5TvMb57mWXip0) | [Transform](https://open.spotify.com/album/2kDpTWMA7ByrwnyKsMbdxB) | 3:28 | 2022-04-15 |  |

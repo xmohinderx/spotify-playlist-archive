@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RSJAsEDz7H.md) - [plain]
 
 > Celebrate the epic GTA series with memorable moments and hidden gems from the soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,395 likes - 138 songs - 9 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,411 likes - 138 songs - 9 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RSJAsEDz7H.md) - [plain]
 | 82 | [Disco Devil](https://open.spotify.com/track/11rkUMmEsekXm9CU6ToqQi) | [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [Lee "Scratch" Perry Presents The Full Experience](https://open.spotify.com/album/7li2bmMf1yTcQtpbfm0Qfz) | 7:51 |
 | 83 | [Lady \- Hear Me Tonight](https://open.spotify.com/track/49X0LAl6faAusYq02PRAY6) | [Modjo](https://open.spotify.com/artist/0AkpPlFLnr0VQwZQeMGht0) | [Modjo \(Remastered\)](https://open.spotify.com/album/0vwDxngkhZuwNbcxzebCXI) | 5:07 |
 | 84 | [The Rhythm of the Night](https://open.spotify.com/track/5IPJsGFKtxKDPCkT8lhEjN) | [Corona](https://open.spotify.com/artist/26T6b8maqEVltcmE4kSDUl) | [The Rhythm of the Night](https://open.spotify.com/album/5ooTXuDOxCNohug76VGayS) | 4:24 |
-| 85 | [West End Girls \- 2001 Remaster](https://open.spotify.com/track/2yzPBlE5UXK2sqvnNM9QQ0) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Please](https://open.spotify.com/album/0AwBxVtsvLVwmaVwwe5beS) | 4:45 |
+| 85 | [West End Girls \- 2018 Remaster](https://open.spotify.com/track/2Di0qFNb7ATroCGB3q0Ka7) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Please: Further Listening 1984 \- 1986 \(2018 Remaster\)](https://open.spotify.com/album/47fRf3JwriMUPPzFjdvNS6) | 4:45 |
 | 86 | [Addi Truth](https://open.spotify.com/track/16mH65QIZ8hnw5fBrNGvjS) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Reggae Love Songs Deluxe Edition](https://open.spotify.com/album/5Xq1pzNYcBB6ZwUZryBHlu) | 3:01 |
 | 87 | [Mus Come A Road](https://open.spotify.com/track/29jj7PVkiwP1FGl5PmJK5w) | [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Strictly The Best Vol\. 39](https://open.spotify.com/album/6kIKelbTTvno4eox4grwOG) | 3:32 |
 | 88 | [Odd Ras](https://open.spotify.com/track/3O1IYPRXD9I48MSOvMtYjH) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Chronixx"Odd Ras" Single](https://open.spotify.com/album/0gfvRkr7DnRKbsdVNXpzhZ) | 2:59 |
@@ -147,4 +147,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RSJAsEDz7H.md) - [plain]
 | 137 | [Running Away \- 12\-Inch Long Version](https://open.spotify.com/track/47bblspEQHrxuRRYKWxg2e) | [Roy Ayers Ubiquity](https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7) | [Lifeline](https://open.spotify.com/album/27SjhSdADeHymQsXoWrhNq) | 6:54 |
 | 138 | [Groove Me](https://open.spotify.com/track/7t4rA2AxpG7yAhgRwopfn2) | [Guy](https://open.spotify.com/artist/2IBPIcSkvQZyoaVfoyZKE8) | [Guy](https://open.spotify.com/album/1b4uW38DLtC6GlGr39AGHc) | 4:33 |
 
-Snapshot ID: `MTY0Mzk4NjkyMSwwMDAwMDAwMGY1ZDY5YmRmZGQxOWE3MjNmMzAwZDQzNTZiMWU0NjEx`
+Snapshot ID: `MTY0Mzk4NjkyMSwwMDAwMDAwMDdlNDcxOGNmZGY2NTMwNDliOTQ4ZTdjODQzYTljZGY4`

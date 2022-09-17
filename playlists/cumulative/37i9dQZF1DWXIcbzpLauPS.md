@@ -4,7 +4,7 @@
 
 > This is the new Core at its finest\. Cover: Motionless In White
 
-580 songs - 1 day 12 hr 30 min - [published](https://open.spotify.com/playlist/3WEyotDPwbgzHjigMpDgbN)
+581 songs - 1 day 12 hr 36 min - [published](https://open.spotify.com/playlist/3WEyotDPwbgzHjigMpDgbN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -385,6 +385,7 @@
 | [Outrun](https://open.spotify.com/track/4Ybl8SLHUxerNOWtXjE1pA) | [Veil Of Maya](https://open.spotify.com/artist/2i7CQcVBh2K6uOR3CH09M1) | [Outrun](https://open.spotify.com/album/3PtZnZ5OySxape4SVskOE4) | 3:45 | 2021-12-17 | 2022-07-23 |
 | [Overlord](https://open.spotify.com/track/1Tg8yTnIA7lNC2aQPbuQHd) | [Suicide Silence](https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc) | [Overlord](https://open.spotify.com/album/4IYXhSQyH18f8kceUIHn9m) | 3:10 | 2022-07-13 | 2022-07-17 |
 | [Overthrown](https://open.spotify.com/track/6PR8h4YuG6DmBlE7MEalYD) | [Balance Breach](https://open.spotify.com/artist/2sy77oZSFj4hGs76OQIsgK) | [Overthrown](https://open.spotify.com/album/3Ra4pbA7pf3fM4kZlyG8tx) | 3:38 | 2021-12-17 | 2022-03-18 |
+| [Pain Remains I: Dancing Like Flames](https://open.spotify.com/track/4KyPlGyV6lfxOPHfBQpPZm) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Pain Remains I: Dancing Like Flames](https://open.spotify.com/album/2HRhcuqmyel4Zn92eeE3Cg) | 5:52 | 2022-09-16 |  |
 | [Pale Tongue](https://open.spotify.com/track/0gZ3mkOOapnWMkmwefrDzc) | [The Oklahoma Kid](https://open.spotify.com/artist/02Y9YvfIFsX1nG4qPuBbW6) | [Pale Tongue](https://open.spotify.com/album/6pgxhNnusTdUnOOuhiJKEK) | 3:36 | 2021-12-17 | 2022-03-18 |
 | [Pandora](https://open.spotify.com/track/4d9LsaHESzctVq4PcfZh24) | [Fit For An Autopsy](https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i) | [Pandora](https://open.spotify.com/album/2OiGgonTvEC5CHNZg5R0xW) | 4:36 | 2022-07-13 | 2022-07-23 |
 | [Paradigm](https://open.spotify.com/track/5dEyjGoDvm4anASD9kAXEZ) | [Aversions Crown](https://open.spotify.com/artist/6OITsYO1BqjC0VIF6yGFOc) | [Hell Will Come for Us All](https://open.spotify.com/album/5u6SV78mDidg0AKa7u3M70) | 3:56 | 2022-07-13 | 2022-07-15 |
@@ -534,7 +535,7 @@
 | [Total Protonic Reversal](https://open.spotify.com/track/69lvjewaJxRQloAi5j7hma) | [Killitorous](https://open.spotify.com/artist/0aiK7nPFPKzrpv3R3pWOIw) | [Total Protonic Reversal](https://open.spotify.com/album/5Jf0ykUIAgOPZpSWTzCfOT) | 3:50 | 2022-07-13 | 2022-07-20 |
 | [Toxicant](https://open.spotify.com/track/39OtaFg1VC0Ae5s9QByKH1) | [Sunfall](https://open.spotify.com/artist/740XnUGK1y8DMyMZSgRjVN) | [Toxicant](https://open.spotify.com/album/6DhFyCsqxvVJOVvq0cYbiO) | 4:41 | 2022-07-13 | 2022-07-22 |
 | [Transcendent](https://open.spotify.com/track/5oWgLIrSTgqqNRh1AhsiQ1) | [Aviana](https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy) | [Transcendent](https://open.spotify.com/album/3YMpCrGOIp8ZXy0ft4piEA) | 3:37 | 2022-03-11 | 2022-05-14 |
-| [Trapped](https://open.spotify.com/track/2rggHX6x7fQUmo4WXTBzMQ) | [Suasion](https://open.spotify.com/artist/3By3NlIbjZW9Uqlph8kcgK) | [Trapped](https://open.spotify.com/album/3qKY0taBBsvUZaSSblJtrf) | 3:24 | 2022-06-17 |  |
+| [Trapped](https://open.spotify.com/track/2rggHX6x7fQUmo4WXTBzMQ) | [Suasion](https://open.spotify.com/artist/3By3NlIbjZW9Uqlph8kcgK) | [Trapped](https://open.spotify.com/album/3qKY0taBBsvUZaSSblJtrf) | 3:24 | 2022-06-17 | 2022-09-17 |
 | [Trapped](https://open.spotify.com/track/4XbVasB4Gwwgvdua5fmI8l) | [The Amsterdam Red Light District](https://open.spotify.com/artist/1ptorm1HpGuBCrIE5BLijx) | [Trapped](https://open.spotify.com/album/5ACncvxgoQCS5YJpCtuDj1) | 3:20 | 2022-04-08 | 2022-06-24 |
 | [Truly Deprived](https://open.spotify.com/track/2BsTfpWMvFFsCV9RHfdBPJ) | [Amoura](https://open.spotify.com/artist/5HnOeFjaoIdjavGtQluzbh), [Chad Ruhlig](https://open.spotify.com/artist/3nCpQY8lOa5g72k9tA8tUb) | [Truly Deprived](https://open.spotify.com/album/0qLEtJ5xuUazymrEcHCfHL) | 3:34 | 2021-12-17 | 2022-02-18 |
 | [Turning 23](https://open.spotify.com/track/7djUbBYcFHXuTf3psVNBnQ) | [Until the Dead Walk](https://open.spotify.com/artist/4Zr17aIvRu0LjH3Zf8QDRb), [Coldharbour](https://open.spotify.com/artist/7eVTOU3R6iKKMVric5JaUo) | [Untitled](https://open.spotify.com/album/4tModRmtwGx1rjRVbfrhCz) | 3:33 | 2022-07-13 | 2022-07-19 |

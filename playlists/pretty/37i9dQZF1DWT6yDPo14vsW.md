@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6yDPo14vsW.md) - [plain]
 
 > ¿Qué es lo que está pasando? ¿Amor o Desamor?
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,858 likes - 100 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,947 likes - 100 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,13 +59,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6yDPo14vsW.md) - [plain]
 | 49 | [Te Extraño, Te Olvido, Te Amo](https://open.spotify.com/track/4S1bYWrLOC8smuy8kJzxKQ) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [A Medio Vivir](https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM) | 4:39 |
 | 50 | [Amores extraños \- Versión 2001](https://open.spotify.com/track/2FeYK41Grs7KdR9Nqoy1MK) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Lo mejor de Laura Pausini \- Volveré junto a ti](https://open.spotify.com/album/0myaHlqK31HgqSV2k6Caqj) | 4:17 |
 | 51 | [Nunca Te Olvidaré](https://open.spotify.com/track/0UjtkXe54YuY5SMwXYjkvq) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Cosas Del Amor](https://open.spotify.com/album/3DWm5mRGgDkBBQ8BH4TYIB) | 4:24 |
-| 52 | [La Vida Entera \(feat\. Marco Antonio Solís\)](https://open.spotify.com/track/73lcrkJKuPLoMWF0UnecCb) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU), [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [La Vida Entera \(feat\. Marco Antonio Solís\)](https://open.spotify.com/album/3QbrSkxFkJ89HGE0i7GyfA) | 3:47 |
+| 52 | [Abrázame](https://open.spotify.com/track/6rCyXpDwlMf1GH2qlpjJWv) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Todo Cambio](https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf) | 3:50 |
 | 53 | [Usted Se Me Llevo la Vida](https://open.spotify.com/track/1wx6JALNy9KXwndVziEUKw) | [Alexandre Pires](https://open.spotify.com/artist/0Rrl4hJQjRAbGtiEwAqS5N) | [É Por Amor](https://open.spotify.com/album/6mtlmSyayzI491l9RSX8DO) | 4:32 |
 | 54 | [La Complicidad](https://open.spotify.com/track/0yAc7tMrxA3KwdVpVDe402) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [La Dulzura](https://open.spotify.com/album/0ma0z5JUPvi7ZZtfV8Di0A) | 6:04 |
 | 55 | [Cosas del Amor \(with Vikki Carr\)](https://open.spotify.com/track/4BBJezanyqAj6rRC1fKIg4) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe), [Vikki Carr](https://open.spotify.com/artist/3tM3DTmG7ahfACzwqtazLD) | [Lo Esencial De Ana Gabriel](https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ) | 4:17 |
 | 56 | [Aunque Ahora Estés Con El](https://open.spotify.com/track/6K3b0tQtzvvt6Ez8B34Z6z) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Ida y Vuelta](https://open.spotify.com/album/7wbN3pVycBy58CMBN5IoiR) | 3:34 |
 | 57 | [A Medio Vivir](https://open.spotify.com/track/4h9WxkuyzScrrPiK9nYtah) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [A Medio Vivir](https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM) | 4:41 |
-| 58 | [Abrázame](https://open.spotify.com/track/6rCyXpDwlMf1GH2qlpjJWv) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Todo Cambio](https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf) | 3:50 |
+| 58 | [La Vida Entera \(feat\. Marco Antonio Solís\)](https://open.spotify.com/track/73lcrkJKuPLoMWF0UnecCb) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU), [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [La Vida Entera \(feat\. Marco Antonio Solís\)](https://open.spotify.com/album/3QbrSkxFkJ89HGE0i7GyfA) | 3:47 |
 | 59 | [Es Mejor Así \(feat\. Reik\) \- Primera Fila \- Live Version](https://open.spotify.com/track/3hK9u5GThJt0pIm1Q6rZAt) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Cristian Castro En Primera Fila \- Día 1](https://open.spotify.com/album/79S9eRBE4zhXybavIRwAv0) | 3:38 |
 | 60 | [Entre tú y mil mares](https://open.spotify.com/track/3reCcj2BzaDnnrlnZ0aq2X) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Entre tú y mil mares](https://open.spotify.com/album/6YZ8BnXi5PavXdw8XmOmUj) | 3:48 |
 | 61 | [Quizás](https://open.spotify.com/track/1iC6iDolyChCB8wTBujAff) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Quizás](https://open.spotify.com/album/4yZ94VdhoJGQMz6aNUlcc0) | 4:11 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6yDPo14vsW.md) - [plain]
 | 64 | [Invierno](https://open.spotify.com/track/5saQ13jGnI9vZzZ1nQFKrn) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Secuencia](https://open.spotify.com/album/4kMpYWQfF4f4iXLhopgk3w) | 3:35 |
 | 65 | [Señora de las Cuatro Décadas](https://open.spotify.com/track/2JvYDGWN21QQOdtUlRdg7w) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Sólo Para Mujeres](https://open.spotify.com/album/6GAL5gNwSJKlpl2ozzdNb9) | 5:01 |
 | 66 | [Rimas Pa' Seducir](https://open.spotify.com/track/2usf3N1xqWLBvFXAgczmbG) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [La Dulzura](https://open.spotify.com/album/0ma0z5JUPvi7ZZtfV8Di0A) | 3:07 |
-| 67 | [Esta Ausencia](https://open.spotify.com/track/0phL00aOVS9nHhvd5Vodei) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Bulería](https://open.spotify.com/album/2zsm7DcaJsvZFY8DIxPveu) | 4:35 |
-| 68 | [Alguien](https://open.spotify.com/track/5Yf9nkFp0JoR6V048LfnbG) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Kany García](https://open.spotify.com/album/0xMspEBjMb20urG4Rx73vO) | 3:03 |
+| 67 | [Alguien](https://open.spotify.com/track/5Yf9nkFp0JoR6V048LfnbG) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Kany García](https://open.spotify.com/album/0xMspEBjMb20urG4Rx73vO) | 3:03 |
+| 68 | [Esta Ausencia](https://open.spotify.com/track/0phL00aOVS9nHhvd5Vodei) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Bulería](https://open.spotify.com/album/2zsm7DcaJsvZFY8DIxPveu) | 4:35 |
 | 69 | [Mi Héroe](https://open.spotify.com/track/01SoeJJ3ICXaWLBp1jnWk8) | [Antonio Orozco](https://open.spotify.com/artist/1ADdpen72RPuafRcv0YRBf) | [Destino](https://open.spotify.com/album/7ntYRtIyF3vFEDORFx91VS) | 3:54 |
 | 70 | [¿Qué Vas a Hacer?](https://open.spotify.com/track/2KOlQ5BfzhNe79KtGHDJ8S) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Montaner](https://open.spotify.com/album/50k6VtZQku8LJncGUzgBBG) | 3:44 |
 | 71 | [Querido Tommy](https://open.spotify.com/track/2JCXcyMXlVywgDJT86wWZW) | [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG) | [12 Historias](https://open.spotify.com/album/3EpLCnAGX2cSWEJ9WhL1G6) | 4:59 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6yDPo14vsW.md) - [plain]
 | 80 | [Luna](https://open.spotify.com/track/0sQ363WVeWIrUopUnj0jTA) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Luna](https://open.spotify.com/album/70fbl3TF1Eht9jXFBK8Mjt) | 4:31 |
 | 81 | [Te Conozco](https://open.spotify.com/track/5nAiSK9L3OG1v3HEgZmnoz) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Sólo Para Mujeres](https://open.spotify.com/album/6GAL5gNwSJKlpl2ozzdNb9) | 4:06 |
 | 82 | [Un Siglo Sin Ti](https://open.spotify.com/track/4SjWlauTM2FSmHfe62rDPW) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Desde Siempre](https://open.spotify.com/album/7GFpQchXpnoqDimteHViUX) | 4:38 |
-| 83 | [Solamente tú](https://open.spotify.com/track/7vd2YXwqxAG2BGuEUoMzGl) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Tanto \(Nueva edición\)](https://open.spotify.com/album/6mRiYnPpz8qdoY91s1c4H4) | 4:07 |
-| 84 | [No Sé Olvidar](https://open.spotify.com/track/5GRw7thRUAl9hYx9V8jbPk) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Lo Esencial De Alejandro Fernández](https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi) | 4:21 |
+| 83 | [No Sé Olvidar](https://open.spotify.com/track/5GRw7thRUAl9hYx9V8jbPk) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Lo Esencial De Alejandro Fernández](https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi) | 4:21 |
+| 84 | [Solamente tú](https://open.spotify.com/track/7vd2YXwqxAG2BGuEUoMzGl) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Tanto \(Nueva edición\)](https://open.spotify.com/album/6mRiYnPpz8qdoY91s1c4H4) | 4:07 |
 | 85 | [Dime quien ama de verdad](https://open.spotify.com/track/0abQySNYXaj7H86yJVQ02B) | [Karen Méndez](https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk), [Juacko](https://open.spotify.com/artist/0LLnP7NEsEQ1pSCfsuYURr) | [CoverKM Recopilatorio](https://open.spotify.com/album/1ZBDFXm0iLRTOhg6SYUy5v) | 3:46 |
 | 86 | [Pegadito](https://open.spotify.com/track/3NkWUspEJzcMcUJKoX1KJa) | [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG) | [Tarde O Temprano \(Late Edition\)](https://open.spotify.com/album/4SpycWodCTi8Ct9SUAEOzu) | 3:39 |
 | 87 | [Antes](https://open.spotify.com/track/565MagsPGofHeTxiH678pW) | [Obie Bermudez](https://open.spotify.com/artist/0caLxEeeNrpE0noxdInoGe) | [Solo Exitos](https://open.spotify.com/album/1wJksWydcUG8t9gmdBVHU1) | 3:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6yDPo14vsW.md) - [plain]
 | 99 | [Cuando Se Va el Amor](https://open.spotify.com/track/5Kw7AEL0Hq69Ky7WxRFseh) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Kany García](https://open.spotify.com/album/0xMspEBjMb20urG4Rx73vO) | 4:08 |
 | 100 | [Me Cansé De Ti](https://open.spotify.com/track/1pxmhFimjs0SGi5CH1OmXB) | [Obie Bermudez](https://open.spotify.com/artist/0caLxEeeNrpE0noxdInoGe) | [Confesiones](https://open.spotify.com/album/6HP3XgMRhNov0v1qTetdOi) | 3:07 |
 
-Snapshot ID: `MTY2MjQwNzIwNiwwMDAwMDAwMGYyZjUyMTFjMjJjNTc5YmQzYmZmMDhiZGJjMzYwOWM0`
+Snapshot ID: `MTY2MjQwNzIwNiwwMDAwMDAwMGQwYWU4MTk0MWIxODRlMThhMmZmNDNmMGYzZjI1OWY0`

@@ -4,12 +4,13 @@
 
 > ابق على اطلاع بأحدث الأغاني الخليجية! الغلاف: فؤاد عبدالواحد
 
-149 songs - 10 hr 13 min - [published](https://open.spotify.com/playlist/4PSk8NVZJlLmYibT60mLzt)
+151 songs - 10 hr 20 min - [published](https://open.spotify.com/playlist/4PSk8NVZJlLmYibT60mLzt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [3Ashan Tkoon Belsorah](https://open.spotify.com/track/4V0m0Mm58oDkPLBghkAD7F) | [Essam Kamal](https://open.spotify.com/artist/7yFfaC7g3jtOSQiJGUF0iD) | [3Ashan Tkoon Belsorah](https://open.spotify.com/album/4giImzhcoUvVtzddBsBIUD) | 5:14 | 2022-06-14 |  |
 | [6Air Elma7abba](https://open.spotify.com/track/1uLo7VvVInEf4mG1ne1GH8) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [6air Elma7abba](https://open.spotify.com/album/51iqAWJczGv01DPAdNCU0B) | 5:19 | 2022-05-02 |  |
+| [A3eesh Elyoum](https://open.spotify.com/track/3eSG8kCHjXHcXb5THol7Ch) | [Mohamed Al Shehhi](https://open.spotify.com/artist/0dMebvi9NQ4TNjqWIH9dXp) | [A3eesh Elyoum](https://open.spotify.com/album/0ruoI8m2TFS6oiodKiEwPy) | 4:31 | 2022-09-16 |  |
 | [Ahebak](https://open.spotify.com/track/7wtj1YsnPgGCPylmzLma4Z) | [Yousef Al Omani](https://open.spotify.com/artist/4a6lP1L1uUaoOpOVkA7dQX) | [Ahebak](https://open.spotify.com/album/0zwZJrDmw6WZkYi54FPiUA) | 4:33 | 2022-05-01 |  |
 | [Ahl Aleshg](https://open.spotify.com/track/44tJDmoFxmtbbZFiTyJ63a) | [Kadim Al Sahir](https://open.spotify.com/artist/5FXMkwsloHI5c05GIkWpuK), [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Ahl Aleshg](https://open.spotify.com/album/5RBewkiAhunvGKOaqvl6t2) | 5:48 | 2022-06-28 |  |
 | [Ahla Watan](https://open.spotify.com/track/0l96bCDCnawVGivHaq9GZw) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [Ahla Watan](https://open.spotify.com/album/1VSx7ihfIys5LekVlkUjY2) | 2:02 | 2022-04-05 |  |
@@ -20,6 +21,7 @@
 | [Al Sourah](https://open.spotify.com/track/4wx0IYEDJhN0ghC1QtqocW) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Al Sourah](https://open.spotify.com/album/24aRGx287iB3Y1OUuM3Z3T) | 4:19 | 2021-12-23 | 2022-06-15 |
 | [Al Sulae](https://open.spotify.com/track/0YGB5IEVEh4UmXIaGed2PE) | [Eidha Al Menhali](https://open.spotify.com/artist/3SyRoTyNvAyDfFT9iap0ie) | [Al Sulae](https://open.spotify.com/album/1h0QrJ1njWbgiDkOJvCgo8) | 3:28 | 2021-12-23 | 2022-01-21 |
 | [Ala Nyti](https://open.spotify.com/track/1v2PG1I8m0MEsgfXxibI7P) | [Mohamed Alzaabi](https://open.spotify.com/artist/3zF02zTkZezgiuIwCpRXMl) | [Ala Nyti](https://open.spotify.com/album/3sDzx9zi8MNCczaimMQz0J) | 5:50 | 2022-02-24 | 2022-07-11 |
+| [Alaa Hoonk](https://open.spotify.com/track/4IPtpgUdAZ7PAaInGXsVOx) | [Diana Haddad](https://open.spotify.com/artist/6EtB4NuwPezzxaGqHHU7C2) | [Alaa Hoonk](https://open.spotify.com/album/1hTduMtGuABBRFYHgYTiH7) | 2:31 | 2022-09-16 |  |
 | [Albadr Aldhahook](https://open.spotify.com/track/3to1cO2tsmdl7d4JNVnSyE) | [Mohamed Al Shehhi](https://open.spotify.com/artist/0dMebvi9NQ4TNjqWIH9dXp) | [Albadr Aldhahook](https://open.spotify.com/album/2rONmeWNNWsm1oh8Yt8T45) | 3:34 | 2022-02-11 | 2022-02-12 |
 | [Aleek Agreb](https://open.spotify.com/track/2UyZhVv6kMbIJafgjUB2Pb) | [Eidha Al Menhali](https://open.spotify.com/artist/3SyRoTyNvAyDfFT9iap0ie) | [Aleek Agreb](https://open.spotify.com/album/5h2AknGWBsTQvXss7zmgTA) | 4:11 | 2021-12-23 | 2022-06-04 |
 | [Aljamal Al Yousefy](https://open.spotify.com/track/2n4bNkN9g10IrpneHrvIXR) | [Mohammed AlMenhali](https://open.spotify.com/artist/3zwErc4TrlnprH22dO0Iem) | [Aljamal Al Yousefy](https://open.spotify.com/album/0NoIyLmo6NtjSmeEUb4SBg) | 4:36 | 2021-12-23 | 2022-03-12 |
