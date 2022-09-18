@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 
 > Lovely, pop\-filled, fun.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,717 likes - 80 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,725 likes - 80 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,9 +63,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 | 53 | [Strangers](https://open.spotify.com/track/6VS4OTcpylKl984tzFYC11) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U) | 3:40 |
 | 54 | [Voices](https://open.spotify.com/track/5zxZ7M4RgWZUHlMEwac8vt) | [Tusse](https://open.spotify.com/artist/1BwDWgdDJe3TJXLZkBkpsI) | [Voices](https://open.spotify.com/album/55w4D3r62g4hmMVvpnVkSV) | 3:04 |
 | 55 | [Spinning \(with Charli XCX & The 1975\)](https://open.spotify.com/track/56D251hqnHtPSgwSH5a0fl) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Spinning \(with Charli XCX & The 1975\)](https://open.spotify.com/album/3iji9D5iOwGSCz1bnkuAii) | 2:52 |
-| 56 | [When The Lights Go Out](https://open.spotify.com/track/2h3tbYCmuY6C2FM2GbAg2K) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [When The Lights Go Out](https://open.spotify.com/album/65DJbbYsBRS0IK0KhZG4kv) | 3:06 |
-| 57 | [Whole](https://open.spotify.com/track/2JZixjPnrQ67VOPQRDKSmH) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [Whole](https://open.spotify.com/album/5rITGmazx7CpQZ8N3nTgaW) | 2:54 |
-| 58 | [Out of the Blue](https://open.spotify.com/track/1vi5DdsHyYXVhsnxDZxAaF) | [Florence Arman](https://open.spotify.com/artist/2OTqocUdUt52tEuCd1sJ15) | [Out of the Blue EP](https://open.spotify.com/album/37b14FQWTZDLom4wPcEywB) | 2:48 |
+| 56 | [Out of the Blue](https://open.spotify.com/track/1vi5DdsHyYXVhsnxDZxAaF) | [Florence Arman](https://open.spotify.com/artist/2OTqocUdUt52tEuCd1sJ15) | [Out of the Blue EP](https://open.spotify.com/album/37b14FQWTZDLom4wPcEywB) | 2:48 |
+| 57 | [When The Lights Go Out](https://open.spotify.com/track/2h3tbYCmuY6C2FM2GbAg2K) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [When The Lights Go Out](https://open.spotify.com/album/65DJbbYsBRS0IK0KhZG4kv) | 3:06 |
+| 58 | [Whole](https://open.spotify.com/track/2JZixjPnrQ67VOPQRDKSmH) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [Whole](https://open.spotify.com/album/5rITGmazx7CpQZ8N3nTgaW) | 2:54 |
 | 59 | [For Keeps](https://open.spotify.com/track/14n6WNRYJDqXhWJKE57zln) | [JGrrey](https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx) | [Rocks \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1gWLuBpsrzqXjyObZZdSZg) | 2:52 |
 | 60 | [Playlist](https://open.spotify.com/track/4MfcEgAhzIzkNfBuacn6zT) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Heartbeat Changes](https://open.spotify.com/album/4g26rVn6hs2J1JcAjeZF3H) | 3:19 |
 | 61 | [Something in the Water](https://open.spotify.com/track/5z7wmSmPWHgTFz5iOKHhAz) | [Boys World](https://open.spotify.com/artist/0YgZTREOQz8oOGVABXEoXi) | [Something in the Water](https://open.spotify.com/album/0Q8SEDn9byF7xTtKaYumMt) | 3:06 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 | 79 | [everything](https://open.spotify.com/track/5HKhwpvlIPHLex0gouOQtA) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [everything](https://open.spotify.com/album/7CAivrvoisdOu9nlQqDVQt) | 2:52 |
 | 80 | [Through the Phone](https://open.spotify.com/track/7wTV32F69jrY1myCj5jok2) | [Wild Youth](https://open.spotify.com/artist/4wZxKygv7GA7oGYzk6bpid) | [Through the Phone](https://open.spotify.com/album/6cozhiaZ4S8vZ8nRgJMAf2) | 3:24 |
 
-Snapshot ID: `MTY0Mjc3NzMwOSwwMDAwMDAwMGIxMTkxZDA2MTYxNTBmY2IyZGQzMWY0ZmZjZTM5MTYw`
+Snapshot ID: `MTY0Mjc3NzMwOSwwMDAwMDAwMDFiMDFkYTc4ZWM4ZmJlNTkyYTQwOGI4MDE1NjRkZDAw`

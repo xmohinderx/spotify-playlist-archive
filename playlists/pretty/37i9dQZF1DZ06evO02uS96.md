@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO02uS96.md) - [plain]
 
 > This is Aimer\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,933 likes - 50 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,965 likes - 50 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,16 +40,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO02uS96.md) - [plain]
 | 30 | [holLow wORlD](https://open.spotify.com/track/46F08OlYiuOtjqLJMMgqUQ) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [broKen NIGHT / holLow wORlD](https://open.spotify.com/album/5Xqd1QR5Qeg5COX7IqQ1Co) | 4:36 |
 | 31 | [insane dream](https://open.spotify.com/track/5stJAy1hIyMjgFRJeK9gVK) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [daydream](https://open.spotify.com/album/336m0kejdM5Fkw2HUX46Bw) | 4:13 |
 | 32 | [Re:pray](https://open.spotify.com/track/2Q6sHQtoMtNHR2GjSaAeQG) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Sleepless Nights](https://open.spotify.com/album/3ZrzXf0SU0XWmxOPBMpccD) | 5:07 |
-| 33 | [糸](https://open.spotify.com/track/1Q3wFTqaH9rmVGdGj85Lsa) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [星の消えた夜に](https://open.spotify.com/album/1mR8kxKKuBobjRXaZjHWw4) | 3:44 |
+| 33 | [星の消えた夜に \-rit\. ver.\-](https://open.spotify.com/track/6RD0mL1NtGlBAGKSl4IG5T) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [星の消えた夜に](https://open.spotify.com/album/1mR8kxKKuBobjRXaZjHWw4) | 6:02 |
 | 34 | [六等星の夜 Magic Blue ver.](https://open.spotify.com/track/2O9zgoUcr8cc7QNGl89oTk) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [ONE / 花の唄 / 六等星の夜 Magic Blue ver.](https://open.spotify.com/album/2hrsWVbgZvnmKY9QTKDghN) | 5:50 |
 | 35 | [wavy flow](https://open.spotify.com/track/5qfFXRzbfiPrxRmYUdv9Of) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [wavy flow](https://open.spotify.com/album/6Q6nv2x3HSl4WZ5s0I7lzo) | 3:25 |
-| 36 | [Stars in the rain](https://open.spotify.com/track/7DimVUzanCg5lhqk9reDGd) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [daydream](https://open.spotify.com/album/336m0kejdM5Fkw2HUX46Bw) | 5:02 |
-| 37 | [星の消えた夜に \-rit\. ver.\-](https://open.spotify.com/track/6RD0mL1NtGlBAGKSl4IG5T) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [星の消えた夜に](https://open.spotify.com/album/1mR8kxKKuBobjRXaZjHWw4) | 6:02 |
-| 38 | [April Showers](https://open.spotify.com/track/1RYS6fQjK0nSYE8tZO7Aj1) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Penny Rain](https://open.spotify.com/album/5WxSamBTcE3P1W6sT9My7B) | 5:43 |
+| 36 | [April Showers](https://open.spotify.com/track/1RYS6fQjK0nSYE8tZO7Aj1) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Penny Rain](https://open.spotify.com/album/5WxSamBTcE3P1W6sT9My7B) | 5:43 |
+| 37 | [tone \(Remaster for 星の消えた夜に 2022\)](https://open.spotify.com/track/3Ef3BUWsWIglIvZwkUio40) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [星の消えた夜に](https://open.spotify.com/album/1mR8kxKKuBobjRXaZjHWw4) | 4:47 |
+| 38 | [Stars in the rain](https://open.spotify.com/track/7DimVUzanCg5lhqk9reDGd) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [daydream](https://open.spotify.com/album/336m0kejdM5Fkw2HUX46Bw) | 5:02 |
 | 39 | [We Two](https://open.spotify.com/track/2QqbVhORUcTKRJsUg0XPLO) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Sun Dance](https://open.spotify.com/album/0FNWMFyb0nLCCHucsDfxmA) | 4:07 |
-| 40 | [残響散歌 \-TV ver.\-](https://open.spotify.com/track/4EFzPkuqujpyksaprpREC0) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [残響散歌 / 朝が来る](https://open.spotify.com/album/1s8HOhHuEKwj4LUnnL2lJI) | 1:31 |
-| 41 | [tone \(Remaster for 星の消えた夜に 2022\)](https://open.spotify.com/track/3Ef3BUWsWIglIvZwkUio40) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [星の消えた夜に](https://open.spotify.com/album/1mR8kxKKuBobjRXaZjHWw4) | 4:47 |
-| 42 | [Black Bird](https://open.spotify.com/track/1ZcNroTXRfcL1soYCUolAV) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Penny Rain](https://open.spotify.com/album/5WxSamBTcE3P1W6sT9My7B) | 3:47 |
+| 40 | [Black Bird](https://open.spotify.com/track/1ZcNroTXRfcL1soYCUolAV) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Penny Rain](https://open.spotify.com/album/5WxSamBTcE3P1W6sT9My7B) | 3:47 |
+| 41 | [糸](https://open.spotify.com/track/1Q3wFTqaH9rmVGdGj85Lsa) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [星の消えた夜に](https://open.spotify.com/album/1mR8kxKKuBobjRXaZjHWw4) | 3:44 |
+| 42 | [残響散歌 \-TV ver.\-](https://open.spotify.com/track/4EFzPkuqujpyksaprpREC0) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [残響散歌 / 朝が来る](https://open.spotify.com/album/1s8HOhHuEKwj4LUnnL2lJI) | 1:31 |
 | 43 | [季路](https://open.spotify.com/track/2JFrbjQNJSBPeUz2Pn4ZaY) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [季路](https://open.spotify.com/album/6j0uUaKQdWOHV48kYA8fbA) | 5:52 |
 | 44 | [broKen NIGHT](https://open.spotify.com/track/6CDkzGTESwc9huctjalPLU) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [broKen NIGHT / holLow wORlD](https://open.spotify.com/album/5Xqd1QR5Qeg5COX7IqQ1Co) | 4:56 |
 | 45 | [グレースノート](https://open.spotify.com/track/6Cbj35JwbPVyBXfqtX17Jm) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [星の消えた夜に](https://open.spotify.com/album/1mR8kxKKuBobjRXaZjHWw4) | 5:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO02uS96.md) - [plain]
 | 49 | [Sailing](https://open.spotify.com/track/3mhLRc3Vn8CHlCropQ5yxu) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Penny Rain](https://open.spotify.com/album/5WxSamBTcE3P1W6sT9My7B) | 5:35 |
 | 50 | [ever after](https://open.spotify.com/track/0mkctINFN0327pYxp1CRhQ) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Walpurgis](https://open.spotify.com/album/3iFkNa8SRNFHD7La40UqUz) | 3:56 |
 
-Snapshot ID: `Mjc3MjIyMzMsMDAwMDAwMDBiODU2OTE0MGUzOWNlMzRiNWNlOTFhNTJhMzA3OTQ0ZA==`
+Snapshot ID: `Mjc3MjM2OTIsMDAwMDAwMDBkNGIxNDViMzM3ZWFiMDIwYWZhYjgzZjY1YmRkYjJlZQ==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > Fresh releases from Latin independent artists and labels\. Lanzamientos frescos de artistas y sellos latinxs independientes\. La Valenti on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,726 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,736 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,11 +29,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 19 | [A Fling](https://open.spotify.com/track/3vMT9YnaHxJmfYw78RXMTt) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT) | [A Fling](https://open.spotify.com/album/1vD5edBn4vm1Z3wMQeHynf) | 3:23 |
 | 20 | [No Aguanto el Calor](https://open.spotify.com/track/2rz22cu4JtOVdNGmPlDq70) | [Lisbon Girls](https://open.spotify.com/artist/6qmPAUC9QRnixgbsQE9Qe3) | [No Aguanto el Calor](https://open.spotify.com/album/3GCeHjcKXUKDNag52Mj9PB) | 3:40 |
 | 21 | [La Soledad de los Números Primos](https://open.spotify.com/track/5xYxNW66uokmYiuAqV2n60) | [Cold Tropics](https://open.spotify.com/artist/5tmZlLEprz8Q802ACS5uKn) | [La Soledad de los Números Primos](https://open.spotify.com/album/174x34bB5RPR4gcT4eCudy) | 3:15 |
-| 22 | [Fumar en el Cine](https://open.spotify.com/track/4U4gAOrhVCaCz1qdV4cT5z) | [Cítrico](https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9), [Carlota Urdiales](https://open.spotify.com/artist/25OjIyCWup505eb4tS2AUl) | [Fumar en el Cine](https://open.spotify.com/album/3U1fAnbdelWZ3dKxCISPvr) | 3:20 |
-| 23 | [Amanecer](https://open.spotify.com/track/5TQwSAq0BAU9DWpKmHmI9F) | [Los Americanos](https://open.spotify.com/artist/4Q0wQsRzWYhbAXIKQN6LSw) | [Amanecer](https://open.spotify.com/album/5XX0iRSDLzElMVY2EcDThW) | 4:05 |
-| 24 | [Huracán](https://open.spotify.com/track/6Y6KYwYb1l5F0CgFtVG1sO) | [Andres](https://open.spotify.com/artist/4eAz1Oum61CGHwMUl9CZ9f) | [Huracán](https://open.spotify.com/album/3tIxBNnKOBFAVZuvaUQByf) | 2:41 |
-| 25 | [Acércate](https://open.spotify.com/track/6zqYCjCpm6rmRc3s9v8Yf1) | [iLLGrindio](https://open.spotify.com/artist/3ou2XazR60t7BJGYCdwZPR), [Obed Padilla](https://open.spotify.com/artist/3aXWXIWEaVHVsCCCkTLVzl), [S.A.B.O.R.](https://open.spotify.com/artist/6ByRR3G4Bzmt0sP3X1VDOF) | [Acércate](https://open.spotify.com/album/3tHB86x0NHrXcwc0OvuG1s) | 3:15 |
-| 26 | [Quiero Volver a Repetir](https://open.spotify.com/track/5Ts3L0IOOkzuIfVIzp3xfo) | [YUNG PRADO](https://open.spotify.com/artist/0U0zpa0tZ4iAV6ypdDUm4I) | [Yung Pradito](https://open.spotify.com/album/2JQRLKGv6KJ9FKVT9GzbG6) | 3:58 |
+| 22 | [Amanecer](https://open.spotify.com/track/5TQwSAq0BAU9DWpKmHmI9F) | [Los Americanos](https://open.spotify.com/artist/4Q0wQsRzWYhbAXIKQN6LSw) | [Amanecer](https://open.spotify.com/album/5XX0iRSDLzElMVY2EcDThW) | 4:05 |
+| 23 | [Fumar en el Cine](https://open.spotify.com/track/4U4gAOrhVCaCz1qdV4cT5z) | [Cítrico](https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9), [Carlota Urdiales](https://open.spotify.com/artist/25OjIyCWup505eb4tS2AUl) | [Fumar en el Cine](https://open.spotify.com/album/3U1fAnbdelWZ3dKxCISPvr) | 3:20 |
+| 24 | [Quiero Volver a Repetir](https://open.spotify.com/track/5Ts3L0IOOkzuIfVIzp3xfo) | [YUNG PRADO](https://open.spotify.com/artist/0U0zpa0tZ4iAV6ypdDUm4I) | [Yung Pradito](https://open.spotify.com/album/2JQRLKGv6KJ9FKVT9GzbG6) | 3:58 |
+| 25 | [Huracán](https://open.spotify.com/track/6Y6KYwYb1l5F0CgFtVG1sO) | [Andres](https://open.spotify.com/artist/4eAz1Oum61CGHwMUl9CZ9f) | [Huracán](https://open.spotify.com/album/3tIxBNnKOBFAVZuvaUQByf) | 2:41 |
+| 26 | [Acércate](https://open.spotify.com/track/6zqYCjCpm6rmRc3s9v8Yf1) | [iLLGrindio](https://open.spotify.com/artist/3ou2XazR60t7BJGYCdwZPR), [Obed Padilla](https://open.spotify.com/artist/3aXWXIWEaVHVsCCCkTLVzl), [S.A.B.O.R.](https://open.spotify.com/artist/6ByRR3G4Bzmt0sP3X1VDOF) | [Acércate](https://open.spotify.com/album/3tHB86x0NHrXcwc0OvuG1s) | 3:15 |
 | 27 | [No Me Quieras Tanto](https://open.spotify.com/track/3SALW0JHFPsrk4WZGeqJA3) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH), [Luca Bocci](https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF) | [Cecilia](https://open.spotify.com/album/04tPJyxfLKaTZ65DDZrd6p) | 3:34 |
 | 28 | [DUCATI](https://open.spotify.com/track/0zwxKc6lECZ3pgBXPkVdGX) | [Le Coco](https://open.spotify.com/artist/2ikSIaA1jYSCznIZnWiw2v) | [DUCATI](https://open.spotify.com/album/1j0h6KGTofqV39fVaHsg6X) | 2:49 |
 | 29 | [360 al Mundo](https://open.spotify.com/track/4jZysO9Cyydag0oBsGgPCc) | [Sofía Mora](https://open.spotify.com/artist/2ACpw1qZnCwDlLA4JpeTnE) | [Xoxo](https://open.spotify.com/album/6ELJsqVkUsw9k8341j22u8) | 2:59 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 37 | [Bachata en Fukuoka \- Remix](https://open.spotify.com/track/4NcgBAZYUilSiLFzkATQx8) | [Hocho](https://open.spotify.com/artist/7AqAhkwNkdfelG651nTnQP) | [Bachata en Fukuoka \(Remix\)](https://open.spotify.com/album/3CANHhkPDe0ITej0hPwu8B) | 2:40 |
 | 38 | [Fiebre](https://open.spotify.com/track/5KsqOpo68rgTJ7rCpzDgTE) | [niniomáquina](https://open.spotify.com/artist/7bvnxCbFjrEbiHQgksovJd) | [Fiebre](https://open.spotify.com/album/78jUy0XXm515NQnbkgPnFb) | 3:52 |
 | 39 | [No Te Acerques Tanto a Mí](https://open.spotify.com/track/36wVZnuq7ujmbfErkTuhh4) | [Margarita Pla](https://open.spotify.com/artist/2oiL55yTcmeFCv18Y9jEii) | [Respirar de Nuevo](https://open.spotify.com/album/0bIHg0GOPmuwmR2iU5m2On) | 4:33 |
-| 40 | [Boo](https://open.spotify.com/track/4THT4PeY7mKdgBUBBWHffc) | [JWolfy](https://open.spotify.com/artist/5rp4jlQq85cE30TVO7uYVm) | [No Me da Sueño](https://open.spotify.com/album/3SnYlBmch7TYVQnstjj9kJ) | 3:37 |
-| 41 | [Tobogán Amarillo](https://open.spotify.com/track/2rpN7T4X1UV0OBydtgIYzF) | [Efecto Gloria](https://open.spotify.com/artist/1Bl24yyAYpdgZx3xRYD2TR) | [Tobogán Amarillo](https://open.spotify.com/album/3i43C2uh0Z6y85UQUU8K26) | 4:31 |
+| 40 | [Tobogán Amarillo](https://open.spotify.com/track/2rpN7T4X1UV0OBydtgIYzF) | [Efecto Gloria](https://open.spotify.com/artist/1Bl24yyAYpdgZx3xRYD2TR) | [Tobogán Amarillo](https://open.spotify.com/album/3i43C2uh0Z6y85UQUU8K26) | 4:31 |
+| 41 | [Boo](https://open.spotify.com/track/4THT4PeY7mKdgBUBBWHffc) | [JWolfy](https://open.spotify.com/artist/5rp4jlQq85cE30TVO7uYVm) | [No Me da Sueño](https://open.spotify.com/album/3SnYlBmch7TYVQnstjj9kJ) | 3:37 |
 | 42 | [Cariño](https://open.spotify.com/track/3IaaiGAn3anrqkGiYt6S5p) | [Bella Rabbit](https://open.spotify.com/artist/6XGWdlLPFBNsSRuLwpoyhy) | [Cariño](https://open.spotify.com/album/60AcpZ3D5zf3YgKq8iMOXn) | 3:14 |
 | 43 | [Not Enough to Scare](https://open.spotify.com/track/4AEJXq5RulkMNOehorEuti) | [Dawn Haze](https://open.spotify.com/artist/32JSwTOeaGSHi268j8f73U) | [Not Enough to Scare](https://open.spotify.com/album/3OLhDYo85CVIBiWHRoUBSQ) | 3:06 |
 | 44 | [Mixta](https://open.spotify.com/track/5FfPTznt4H4MC4C0IyvM3H) | [Antuantu](https://open.spotify.com/artist/6uVAKYhqGGGvQg1UXB3ckV), [Desaria](https://open.spotify.com/artist/7foAh38jbvCS0d9AiOW1V8) | [Música tonta](https://open.spotify.com/album/3e37E07ITqzsxf0a3UfZnA) | 3:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [El Incendio](https://open.spotify.com/track/58SONbpFYstwN4LCITKI0v) | [Sara y Jacobo](https://open.spotify.com/artist/3xPClsuX8srpHtN8CCgSZX) | [El Incendio](https://open.spotify.com/album/2wKY7SiYOJsGgo54d199pr) | 4:12 |
 | 50 | [Inconsciencia](https://open.spotify.com/track/4Dm11rwqGsTvDLml88JyIL) | [La Honte](https://open.spotify.com/artist/4Irt9HPbh6MbM90waVOFiA) | [Inconsciencia](https://open.spotify.com/album/10PYCHUMNWA4vfuXR8DByd) | 3:32 |
 
-Snapshot ID: `MTY2MzM2NDI0NCwwMDAwMDAwMDYyOTA3NjViNTRmYjI5ZjFjNGExNmIxY2M5YTUwMjFl`
+Snapshot ID: `MTY2MzM2NDI0NCwwMDAwMDAwMDM4OGM1ZDk1MDk3NTQ2ODcyNzNhNDcxYjViM2ZmNmZk`

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Spain.
 
-469 songs - 1 day 1 hr 57 min - [published](https://open.spotify.com/playlist/23AkG4iPt7zHkVolnbX3Kq)
+470 songs - 1 day 2 hr 0 min - [published](https://open.spotify.com/playlist/23AkG4iPt7zHkVolnbX3Kq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,7 +163,7 @@
 | [Feliz Cumpleaños Ferxxo](https://open.spotify.com/track/2CeKVsFFXG4QzA415QygGb) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM](https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9) | 2:35 | 2022-09-15 |  |
 | [Feliz Cumpleaños Ferxxo](https://open.spotify.com/track/3kUq4sBcmxhnOtNysZ9yrp) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Feliz Cumpleaños Ferxxo](https://open.spotify.com/album/5tWcOAhihL1zYpaIktpoxu) | 2:36 | 2022-08-20 | 2022-09-16 |
 | [Feliz Navidad](https://open.spotify.com/track/3qCeq0rWK67SoBDgFd2sId) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [My Name Is José Feliciano](https://open.spotify.com/album/6leYmQzvQjlUtmpNIL9XYQ) | 3:02 | 2021-12-25 | 2021-12-27 |
-| [Ferxxo 100](https://open.spotify.com/track/1sbNEFiURUYfy024cJX8JG) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM](https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9) | 2:47 | 2022-09-15 |  |
+| [Ferxxo 100](https://open.spotify.com/track/1sbNEFiURUYfy024cJX8JG) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM](https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9) | 2:47 | 2022-09-15 | 2022-09-18 |
 | [Fiel](https://open.spotify.com/track/7Bk0uXKk1uPT0XuQbpFzvs) | [Los Legendarios](https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Los Legendarios 001](https://open.spotify.com/album/7g5WqPI4CdA22Cy8LxRXCf) | 4:21 | 2021-03-27\* | 2021-07-31 |
 | [Fiel \- Remix](https://open.spotify.com/track/43qcs9NpJhDxtG91zxFkj7) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Los Legendarios](https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Fiel \(Remix\)](https://open.spotify.com/album/1jBESH0DEFN7z8WH8B0B5c) | 5:49 | 2021-06-18 | 2021-09-08 |
 | [Flamenco y Bachata](https://open.spotify.com/track/6ynErSDSlxqsxg0D3LJ8sK) | [Daviles de Novelda](https://open.spotify.com/artist/6E94QKXZv8BbO6QQJxcxLI) | [Flamenco y Bachata](https://open.spotify.com/album/1H7ReEyX6o5ygyXMueHLBm) | 3:11 | 2021-03-27\* | 2022-01-04 |
@@ -208,6 +208,7 @@
 | [Juramento eterno de sal](https://open.spotify.com/track/23E53f3C9SJ9MqBh1f6hEw) | [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [Juramento eterno de sal](https://open.spotify.com/album/181dabcN6rArn5DwOYr3eP) | 3:25 | 2021-04-01 | 2021-10-07 |
 | [Jóvenes Millonarios](https://open.spotify.com/track/0MJ9rq9zMOe0G7eL3j5w8G) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Jóvenes Millonarios](https://open.spotify.com/album/3ilfq7b1QorqjU5qSCLD3y) | 3:02 | 2021-12-03 | 2021-12-04 |
 | [Jóvenes Millonarios](https://open.spotify.com/track/4EbNxZ6ei9q1imUf2Hyo90) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 3:02 | 2021-12-05 | 2021-12-16 |
+| [K alegría](https://open.spotify.com/track/4FvJysAX0y4TfHE9CIprrx) | [DELLAFUENTE](https://open.spotify.com/artist/4bJh7sMPcVRiqe5jlnsWQV), [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8) | [K alegría](https://open.spotify.com/album/3Mi6EemjGymbATLNPisFee) | 2:39 | 2022-09-17 |  |
 | [KESI](https://open.spotify.com/track/42lpuSQmnLUM1ZXJVzIVOi) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Mis Manos](https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA) | 2:57 | 2021-04-14 | 2021-07-28 |
 | [L\-Gante: Bzrp Music Sessions, Vol.38](https://open.spotify.com/track/1Crj1zkRMpsEjb9NOR6Zof) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [L\-Gante: Bzrp Music Sessions, Vol\. 38](https://open.spotify.com/album/6ScNKLKYY6rpgCIJThLnMH) | 3:12 | 2021-03-29 | 2021-06-02 |
 | [La Bachata](https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [La Bachata](https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2) | 2:42 | 2022-06-16 |  |

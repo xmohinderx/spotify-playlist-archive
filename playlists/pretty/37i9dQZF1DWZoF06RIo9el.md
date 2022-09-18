@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 
 > Las mejores canciones de septiembre 2022.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,493,559 likes - 45 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,493,661 likes - 45 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 14 | [AUTOMÁTICO](https://open.spotify.com/track/3Ne5uYDFzHEFYAPbaBMIck) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [AUTOMÁTICO](https://open.spotify.com/album/5i8WdrKnzvMbujuJhkcFQn) | 2:55 |
 | 15 | [Fuego Forestal](https://open.spotify.com/track/1G5rMuBltKhOavItlryMIO) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Fuego Forestal](https://open.spotify.com/album/3RIn81bgJPiH4XmMlDUm0Q) | 3:18 |
 | 16 | [NO HAY LEY](https://open.spotify.com/track/5enNYN3hDG4Dsey9WsF6TJ) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [NO HAY LEY](https://open.spotify.com/album/58bXMbR7x7k6ubKP7CyZpQ) | 2:37 |
-| 17 | [Como Ñengo \(feat\. Jota Rosa\)](https://open.spotify.com/track/4xvYZWvfmL7FnWJHZhV1VS) | [Club Dieciséis](https://open.spotify.com/artist/3PVOsu4zHMse1c46pqTfnT), [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Jota Rosa](https://open.spotify.com/artist/7gK06FGYa8dtJogKJXAG80) | [Como Ñengo \(feat\. Jota Rosa\)](https://open.spotify.com/album/1D0xvI1Mz6Wv0TpTa6UAhC) | 3:24 |
+| 17 | [Como Ñengo \(feat\. Jota Rosa\)](https://open.spotify.com/track/4xvYZWvfmL7FnWJHZhV1VS) | [Club16](https://open.spotify.com/artist/2MXDat5eYxVcnHht0N2uSF), [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Jota Rosa](https://open.spotify.com/artist/7gK06FGYa8dtJogKJXAG80) | [Como Ñengo \(feat\. Jota Rosa\)](https://open.spotify.com/album/1D0xvI1Mz6Wv0TpTa6UAhC) | 3:24 |
 | 18 | [5 Estrellas](https://open.spotify.com/track/3XbzMSWKdp8FzcQHA9BeXw) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [5 Estrellas](https://open.spotify.com/album/2yANiBjyI4vqHfUax5a8RF) | 3:11 |
 | 19 | [El Mensaje](https://open.spotify.com/track/2KixbV3oLBNrQP2cXwrAC4) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [El Mensaje](https://open.spotify.com/album/7rm64Fm5KyyffZ5w0lFwpV) | 3:02 |
 | 20 | [Amor De Una Noche](https://open.spotify.com/track/6DlIqUlAjLfrmgUdewGf1x) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Reggaetonea](https://open.spotify.com/album/6Wu7QHl7uK1EBunS3YsPni) | 3:29 |

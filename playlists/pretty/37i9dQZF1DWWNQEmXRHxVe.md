@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNQEmXRHxVe.md) - [plain]
 
 > Music from the most memorable Super Bowl halftime shows\. Cover: Dr\. Dre
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,014 likes - 96 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,053 likes - 96 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

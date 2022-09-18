@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sc0Gk.md) - [plain]
 
 > This is Mr Eazi\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,365 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,368 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sc0Gk.md) - [plain]
 | 49 | [I Wanna Run Away](https://open.spotify.com/track/6QHKcbL8vrX0Ra3kKpNTVs) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [I Wanna Run Away](https://open.spotify.com/album/33N30g1JmlblkIJ9fVr4aY) | 2:39 |
 | 50 | [Accra to Lagos](https://open.spotify.com/track/0WvsGQtjaCJAS8P1EoqkQs) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Life is Eazi, Vol\. 1 \- Accra To Lagos](https://open.spotify.com/album/0lkYUVhHWfdCp3vBgqitfU) | 2:55 |
 
-Snapshot ID: `Mjc3MjIyMzMsMDAwMDAwMDBlMTZkY2NlYTYwNzhhZWEwZTkxMDllYmRmZGY5N2NhYQ==`
+Snapshot ID: `Mjc3MjM2OTIsMDAwMDAwMDAwN2ZkMTE2YzRiNzc3OTZkMDEzYTcxM2VmMWJlNTcwOA==`

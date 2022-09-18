@@ -1,12 +1,12 @@
 {
   "description": "Bringing the roaring 20s into the 2020s",
-  "num_followers": 305052,
+  "num_followers": 305245,
   "original_name": "Electro Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDg2MCwwMDAwMDAwMDFmYmY0NzdiNjIyZTQ3NGU2MTMwZDVjMmViZDYzZTU0",
+  "snapshot_id": "MTY2MzMwMDg2MCwwMDAwMDAwMGQ2NjIxMTdkN2Q0YWVhYTE5NzNjZDhmMjI3NDk5OGU1",
   "tracks": [
     {
       "added_at": "2022-08-12 04:02:00",
@@ -1183,18 +1183,22 @@
     {
       "added_at": "2020-10-30 09:06:04",
       "album": {
-        "name": "1925",
-        "url": "https://open.spotify.com/album/02JcbHQKbM8u2wRO5WHaOe"
+        "name": "Doorsteps",
+        "url": "https://open.spotify.com/album/4EIopkohMjYArWWpqcMz0w"
       },
       "artists": [
         {
-          "name": "LVDS",
-          "url": "https://open.spotify.com/artist/1bchORmrFrz4QUD9JhVm8s"
+          "name": "Kormac",
+          "url": "https://open.spotify.com/artist/64FRiqIrUyWPvGb83fAYLn"
+        },
+        {
+          "name": "(feat. MC Little Tree)",
+          "url": "https://open.spotify.com/artist/1EnZaceHFbNzOWcMBdgmaI"
         }
       ],
-      "duration_ms": 164842,
-      "name": "1925",
-      "url": "https://open.spotify.com/track/3navZS9goNH9MlBiKD1E6V"
+      "duration_ms": 328441,
+      "name": "Superhero",
+      "url": "https://open.spotify.com/track/6bWpjpAuKVQKt1RpKF8f5w"
     },
     {
       "added_at": "2022-02-25 05:02:00",
@@ -1243,22 +1247,18 @@
     {
       "added_at": "2020-10-30 09:06:04",
       "album": {
-        "name": "Doorsteps",
-        "url": "https://open.spotify.com/album/4EIopkohMjYArWWpqcMz0w"
+        "name": "1925",
+        "url": "https://open.spotify.com/album/02JcbHQKbM8u2wRO5WHaOe"
       },
       "artists": [
         {
-          "name": "Kormac",
-          "url": "https://open.spotify.com/artist/64FRiqIrUyWPvGb83fAYLn"
-        },
-        {
-          "name": "(feat. MC Little Tree)",
-          "url": "https://open.spotify.com/artist/1EnZaceHFbNzOWcMBdgmaI"
+          "name": "LVDS",
+          "url": "https://open.spotify.com/artist/1bchORmrFrz4QUD9JhVm8s"
         }
       ],
-      "duration_ms": 328441,
-      "name": "Superhero",
-      "url": "https://open.spotify.com/track/6bWpjpAuKVQKt1RpKF8f5w"
+      "duration_ms": 164842,
+      "name": "1925",
+      "url": "https://open.spotify.com/track/3navZS9goNH9MlBiKD1E6V"
     },
     {
       "added_at": "2020-10-30 09:06:04",

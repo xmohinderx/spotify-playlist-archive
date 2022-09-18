@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0U9uWXLno47.md) - [plain]
 
 > Clásicos que no sabías que eran covers para disfrutar con papá.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,323 likes - 75 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,348 likes - 75 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0U9uWXLno47.md) - [plain]
 | 62 | [Like A Virgin \- Spotify Singles](https://open.spotify.com/track/0CbtHNmNuPXSYbH4Uz3roM) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Spotify Singles](https://open.spotify.com/album/6kTnZzeB1WcyjYZDRS4Wci) | 3:11 |
 | 63 | [Personal Jesus \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/0KXYrQAqpAREiCi4pB5fO9) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Spotify Singles](https://open.spotify.com/album/31LKYg7MAykCp1E7DSRox6) | 3:56 |
 | 64 | [Never Tear Us Apart](https://open.spotify.com/track/6ApsMLGIa9zw446CrqxcEi) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Never Tear Us Apart](https://open.spotify.com/album/3aM9iFr4aGdb9S275yWRZk) | 3:18 |
-| 65 | [Dancing with Myself \- Single Version](https://open.spotify.com/track/5ABwsrPHOZJTwYzOdd7huO) | [The Donnas](https://open.spotify.com/artist/2c0qomdZabcCyqTZ5M9msd) | [Dancing With Myself](https://open.spotify.com/album/2YAvjBR8meBp1k5CpaTINc) | 3:27 |
+| 65 | [Dancing with Myself \- Single Version](https://open.spotify.com/track/5ABwsrPHOZJTwYzOdd7huO) | [The Donnas](https://open.spotify.com/artist/2c0qomdZabcCyqTZ5M9msd) | [Dancing with Myself](https://open.spotify.com/album/2YAvjBR8meBp1k5CpaTINc) | 3:27 |
 | 66 | [Can't Help Falling in Love](https://open.spotify.com/track/1rEVyVwei0Wq3HlYJRS7CZ) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Resistance Radio: The Man in the High Castle Album](https://open.spotify.com/album/6wp5uATZ1wfcngYTJ7QBOm) | 3:15 |
 | 67 | [Jolene \- Live](https://open.spotify.com/track/1rn3RdftgRiJOsJEpOyn0Q) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Under Great White Northern Lights \(Live\)](https://open.spotify.com/album/5LUyvB9pUPm4Lrgt1Go53W) | 3:54 |
 | 68 | [Mercy Mercy Me \(The Ecology\)](https://open.spotify.com/track/49jMdoagrgo0PUc6DkVaZV) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [You Only Live Once/Mercy Mercy Me](https://open.spotify.com/album/7jbQIpfQZTVBn8J7FzMyaF) | 2:37 |

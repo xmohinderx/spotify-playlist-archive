@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s7DZn.md) - [plain]
 
 > This is Banda Rafaga\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,258 likes - 41 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,263 likes - 41 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s7DZn.md) - [plain]
 | 40 | [Mil Cartas \- En Vivo](https://open.spotify.com/track/6JrLok78BeLPN3R1eDWeQi) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Banda Rafaga en Vivo! Desde Tepic, Nayarit](https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp) | 3:19 |
 | 41 | [Frios Enemigos/noche de Banda \- En Vivo](https://open.spotify.com/track/3awZnjk2w7QRDXYudcvBA3) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Banda Rafaga en Vivo! Desde Tepic, Nayarit](https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp) | 5:57 |
 
-Snapshot ID: `Mjc3MjIyMzMsMDAwMDAwMDA1ZGQxZGEwNWM1MzY0NGY1ZTc3NzllNDE5ZTU2ODlhYw==`
+Snapshot ID: `Mjc3MjM2OTIsMDAwMDAwMDAzOGE2YzVmN2I4YzQ2OThlZjM3ZDZlMmE2N2U3YzE4Mg==`

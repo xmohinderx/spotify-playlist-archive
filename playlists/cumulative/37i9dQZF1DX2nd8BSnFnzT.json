@@ -506,6 +506,28 @@
     },
     {
       "album": {
+        "name": "Bem Acompanhada",
+        "url": "https://open.spotify.com/album/1BATwZiFwFEX89v1lc7NmA"
+      },
+      "artists": [
+        {
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+        },
+        {
+          "name": "Tati Quebra Barraco",
+          "url": "https://open.spotify.com/artist/3CuWYvDpKC3HVLru1CPGts"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188789,
+      "name": "Bem Acompanhada",
+      "url": "https://open.spotify.com/track/7FLA5HH8TKp8MIwkJJ6tdg"
+    },
+    {
+      "album": {
         "name": "Berrini",
         "url": "https://open.spotify.com/album/3Y8jVYw1s5O5bHSdzMrr7N"
       },
@@ -1569,7 +1591,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 206933,
       "name": "Her\u00f3is",
       "url": "https://open.spotify.com/track/01OpgNtN21P2nqUMTkRwN0"
@@ -1663,10 +1685,28 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 232500,
       "name": "Independente da Raz\u00e3o",
       "url": "https://open.spotify.com/track/5erOum9abFhuRW9YCwuOPj"
+    },
+    {
+      "album": {
+        "name": "Jimi",
+        "url": "https://open.spotify.com/album/5B3IJVAnRAnWjL8KbrqvMP"
+      },
+      "artists": [
+        {
+          "name": "Varand\u00e3o",
+          "url": "https://open.spotify.com/artist/6szGc0bzf7tY6HXwBVyNZ0"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150612,
+      "name": "Jimi",
+      "url": "https://open.spotify.com/track/0aLlb5nrQaAsbygcnTRxrX"
     },
     {
       "album": {
@@ -1797,7 +1837,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 219179,
       "name": "Little Lies",
       "url": "https://open.spotify.com/track/6MNKLJJbFmSD5eIZ6tyTOB"
@@ -2177,6 +2217,24 @@
       "duration_ms": 173779,
       "name": "Mente Blindada",
       "url": "https://open.spotify.com/track/1V0bLFzFT6s3UYcx5buRAd"
+    },
+    {
+      "album": {
+        "name": "( L A B I R I N T O )",
+        "url": "https://open.spotify.com/album/41YFkzhUoaJqjz2NwQtJiP"
+      },
+      "artists": [
+        {
+          "name": "Scalene",
+          "url": "https://open.spotify.com/artist/4PTd1rpXV7XDffOuLY7M0z"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240186,
+      "name": "MERGULHO",
+      "url": "https://open.spotify.com/track/5IiXMO5gSehzrwdcYV1IYy"
     },
     {
       "album": {
@@ -3043,7 +3101,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 177341,
       "name": "quando saio de mim",
       "url": "https://open.spotify.com/track/0hOuuzrPqTTCAlKZIprcGf"
@@ -3661,6 +3719,32 @@
       "duration_ms": 310062,
       "name": "Trem",
       "url": "https://open.spotify.com/track/1nRjROWexBREzWAMz0KgEu"
+    },
+    {
+      "album": {
+        "name": "Troglomitus Broncossaurus",
+        "url": "https://open.spotify.com/album/0IRsPfoPviYnJbBqFBEHpL"
+      },
+      "artists": [
+        {
+          "name": "Autoramas",
+          "url": "https://open.spotify.com/artist/6IwPtS5L4cV9yCB66mhheZ"
+        },
+        {
+          "name": "Dead Fish",
+          "url": "https://open.spotify.com/artist/7Lvg39k5XgXevGR767ikYI"
+        },
+        {
+          "name": "Rodrigo Lima",
+          "url": "https://open.spotify.com/artist/6awWDGNl4gWC8BNsn7r26s"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178930,
+      "name": "Troglomitus Broncossaurus",
+      "url": "https://open.spotify.com/track/0KzAD3JNICUb07omGGlY5s"
     },
     {
       "album": {

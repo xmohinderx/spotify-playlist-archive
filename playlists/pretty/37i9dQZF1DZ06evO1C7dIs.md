@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1C7dIs.md) - [plain]
 
 > This is Nightwish\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,465 likes - 51 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,550 likes - 51 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1C7dIs.md) - [plain]
 | 15 | [Ghost Love Score](https://open.spotify.com/track/5dyQ8spGuggi5RBqhkUToy) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Once](https://open.spotify.com/album/2wM6svkNOCsYP8sr9gP2zc) | 10:02 |
 | 16 | [Sleeping Sun](https://open.spotify.com/track/2VPK0BMgwyRtx9QlyBpdb0) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Oceanborn](https://open.spotify.com/album/0hsS3rW3uPBer1pejhgAEv) | 4:05 |
 | 17 | [Wishmaster](https://open.spotify.com/track/5soihaBWFEQqCYu0HOUVzK) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Wishmaster](https://open.spotify.com/album/4u5Ik7NMYl3EITJngbMS4V) | 4:24 |
-| 18 | [Shudder Before the Beautiful](https://open.spotify.com/track/50CJMURkzURQwlp4Ht5tp6) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Endless Forms Most Beautiful \(Deluxe Version\)](https://open.spotify.com/album/1tVEWlyn2nsAke3Lp7HoZ0) | 6:29 |
-| 19 | [Dead To The World](https://open.spotify.com/track/53f1Zi9zTs0nw5DwzR0mQx) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Century Child](https://open.spotify.com/album/4FFDudC4xBVF6MYJUynRsN) | 4:19 |
+| 18 | [Dead To The World](https://open.spotify.com/track/53f1Zi9zTs0nw5DwzR0mQx) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Century Child](https://open.spotify.com/album/4FFDudC4xBVF6MYJUynRsN) | 4:19 |
+| 19 | [Shudder Before the Beautiful](https://open.spotify.com/track/50CJMURkzURQwlp4Ht5tp6) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Endless Forms Most Beautiful \(Deluxe Version\)](https://open.spotify.com/album/1tVEWlyn2nsAke3Lp7HoZ0) | 6:29 |
 | 20 | [Dark Chest of Wonders](https://open.spotify.com/track/4QCGfqoCLZ3x9iMgtzUMD9) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Once](https://open.spotify.com/album/2wM6svkNOCsYP8sr9gP2zc) | 4:28 |
 | 21 | [She Is My Sin](https://open.spotify.com/track/7FMS5A5YzxUOMIzTCT6KkW) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Wishmaster](https://open.spotify.com/album/4u5Ik7NMYl3EITJngbMS4V) | 4:46 |
 | 22 | [Shoemaker](https://open.spotify.com/track/5xITcnqoMdILDBNCwHGr5v) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [HUMAN\. :II: NATURE.](https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li) | 5:19 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1C7dIs.md) - [plain]
 | 50 | [Elvenpath \- Remastered](https://open.spotify.com/track/1mRilVsFhkqCgUK44g9bB2) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Angels Fall First](https://open.spotify.com/album/5ijhla4go9hgv4TAz4lt5j) | 4:37 |
 | 51 | [Deep Silent Complete](https://open.spotify.com/track/3G4Y8kAQlO6vmZ8vkH5Tw1) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Wishmaster](https://open.spotify.com/album/4u5Ik7NMYl3EITJngbMS4V) | 3:57 |
 
-Snapshot ID: `Mjc3MjIyMzMsMDAwMDAwMDBkMTZiNDI0ZjA3ODYzYTYzMjlmYmYxOTQ5NTdmZmZmMQ==`
+Snapshot ID: `Mjc3MjM2OTIsMDAwMDAwMDA1YjA5NDdiNWI0NTQ2MDlhZjkzZjJmZjUxMDFjMTllMw==`

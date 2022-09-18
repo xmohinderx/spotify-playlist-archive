@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Pqxel6mitp.md) - [plain]
 
 > A cup of Joe and the raw blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,463 likes - 75 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,581 likes - 75 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Pqxel6mitp.md) - [plain]
 | 32 | [I Ain't Blue \- 2008 Remaster](https://open.spotify.com/track/54CBPWCAZ37nY94t16ocyL) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Bonnie Raitt \(2008 Remaster\)](https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0) | 3:36 |
 | 33 | [Mean Old World](https://open.spotify.com/track/4w1nfPlGNqp4vDxDZRTmAi) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [Duane Allman](https://open.spotify.com/artist/3keUIwmPM4awpPxiy9ZQ1m) | [An Anthology](https://open.spotify.com/album/1JrO2Vp9I2ExzAFvMcZKzb) | 3:52 |
 | 34 | [Long Way Home](https://open.spotify.com/track/1BjYNhg7JhVfQdxqEThBwn) | [Clarence "Gatemouth" Brown](https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo) | [Long Way Home](https://open.spotify.com/album/2L0UmVlogWkTQL7WCatEha) | 5:38 |
-| 35 | [When The Levee Breaks \(Part One\)](https://open.spotify.com/track/1hzhyWY6IkZEnVRPIDIhwm) | [Magic Slim](https://open.spotify.com/artist/0uDA9BcTnKIPpNcZX6ZY3x), [James Cotton](https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k), [Billy Branch](https://open.spotify.com/artist/5cUazMvxcAPELFif0BGn2t) | [All Blues's Up: Songs of Led Zeppelin](https://open.spotify.com/album/1nvuBxN1Uc6HdVyS2J01Yp) | 2:19 |
-| 36 | [Mystery Woman](https://open.spotify.com/track/1iHbbd44X6nmnF6may22sd) | [Doug MacLeod](https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz) | [Come to Find](https://open.spotify.com/album/6TdbTfL5Ql2BMqkAknneZd) | 5:01 |
+| 35 | [Mystery Woman](https://open.spotify.com/track/1iHbbd44X6nmnF6may22sd) | [Doug MacLeod](https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz) | [Come to Find](https://open.spotify.com/album/6TdbTfL5Ql2BMqkAknneZd) | 5:01 |
+| 36 | [When The Levee Breaks \(Part One\)](https://open.spotify.com/track/1hzhyWY6IkZEnVRPIDIhwm) | [Magic Slim](https://open.spotify.com/artist/0uDA9BcTnKIPpNcZX6ZY3x), [James Cotton](https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k), [Billy Branch](https://open.spotify.com/artist/5cUazMvxcAPELFif0BGn2t) | [All Blues's Up: Songs of Led Zeppelin](https://open.spotify.com/album/1nvuBxN1Uc6HdVyS2J01Yp) | 2:19 |
 | 37 | [Yonder Wall](https://open.spotify.com/track/2vKadnRjDi4F56pHspv9u1) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [My Feeling For the Blues](https://open.spotify.com/album/1Usun6ssY8Yq6GqRKWsSFz) | 3:22 |
 | 38 | [Boot Money](https://open.spotify.com/track/2WzaKNNPxwE4dKGaGlghqh) | [Tony Joe White](https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P) | [Smoke From The Chimney](https://open.spotify.com/album/5VcbS7I5iRYJoZSOp344F1) | 3:27 |
 | 39 | [Angel In The Alleyways](https://open.spotify.com/track/4q0iE01soDpTD7jObdxTX9) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W), [Patti Scialfa](https://open.spotify.com/artist/6kZQOOVmBEdPxeWYe4xbDj), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Angel In The Alleyways](https://open.spotify.com/album/0dDD5xoKda8099F4wTuByT) | 4:20 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Pqxel6mitp.md) - [plain]
 | 74 | [Devil Got My Woman](https://open.spotify.com/track/6DawgaTuMtL9DOq1jCVeVN) | [Skip James](https://open.spotify.com/artist/2zlMeTjA7szCmqcJjBzYXJ) | [Devil Got My Woman](https://open.spotify.com/album/0sgYD9rg6DpI2uWrffTXEr) | 5:15 |
 | 75 | [Cigarettes, Whiskey And Wild, Wild Women](https://open.spotify.com/track/4CWMKliTHoJCoRWaI8WljW) | [The Big Three Trio](https://open.spotify.com/artist/7EPI9RLrU6kU6ZQLTqB7wY), [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [The Best Of Delta Records](https://open.spotify.com/album/6qF7UpIdnbVMPukKa9rpee) | 3:00 |
 
-Snapshot ID: `MTY2MzAwMDc2MywwMDAwMDAwMGRlYTg2YTUxMzcxOGU5NjkzOGMxYzMwYzg2NDY1NmEz`
+Snapshot ID: `MTY2MzAwMDc2MywwMDAwMDAwMDZmYTMyYTllMGJjN2I2ZDJhMGFjMTE3ZGEyZTA2YTQ4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1q6zh6.md) - [plain]
 
 > This is Judas Priest\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,560 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,633 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,21 +29,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1q6zh6.md) - [plain]
 | 19 | [Firepower](https://open.spotify.com/track/3uDNzcGyRINKSFedKCvEwB) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Firepower](https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB) | 3:27 |
 | 20 | [Grinder](https://open.spotify.com/track/54IuIxOITRtbK8cU7fHIQf) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [British Steel](https://open.spotify.com/album/5bqtZRbUZUxUps8mrO9tGY) | 3:57 |
 | 21 | [All Guns Blazing](https://open.spotify.com/track/2Ip7WDoKDeVGnWsnOCzinV) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Painkiller](https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t) | 3:57 |
-| 22 | [Prisoner of Your Eyes](https://open.spotify.com/track/2VLwPKY2gaBxGxwgmwRDUf) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Screaming For Vengeance](https://open.spotify.com/album/0V7mTTzioHiYIjfM8ATZBI) | 7:10 |
-| 23 | [Johnny B\. Goode](https://open.spotify.com/track/307B0j257d72HTyAiohF8N) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Ram It Down](https://open.spotify.com/album/1t2M4YmH8x9Tplcxq08H5l) | 4:39 |
-| 24 | [Children of the Sun](https://open.spotify.com/track/6rCp71jUgFxbGNsBqjLZpr) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Firepower](https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB) | 4:00 |
+| 22 | [Johnny B\. Goode](https://open.spotify.com/track/307B0j257d72HTyAiohF8N) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Ram It Down](https://open.spotify.com/album/1t2M4YmH8x9Tplcxq08H5l) | 4:39 |
+| 23 | [Children of the Sun](https://open.spotify.com/track/6rCp71jUgFxbGNsBqjLZpr) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Firepower](https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB) | 4:00 |
+| 24 | [Beginning of the End](https://open.spotify.com/track/09cqmjncNzPyHdSxj69fQw) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Redeemer of Souls \(Deluxe\)](https://open.spotify.com/album/0RIfXMHvRpLqHsZ0FZE3mS) | 5:07 |
 | 25 | [Between the Hammer & the Anvil](https://open.spotify.com/track/3DfE7Ysl7H40yDbGFSuzPU) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Painkiller](https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t) | 4:49 |
-| 26 | [Beginning of the End](https://open.spotify.com/track/09cqmjncNzPyHdSxj69fQw) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Redeemer of Souls \(Deluxe\)](https://open.spotify.com/album/0RIfXMHvRpLqHsZ0FZE3mS) | 5:07 |
-| 27 | [Last Rose of Summer](https://open.spotify.com/track/0h7ensMpE0QHgzrqpfXe7i) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Sin After Sin](https://open.spotify.com/album/2GXeHOkRouW0LnKBMUnVtv) | 5:36 |
-| 28 | [Guardians](https://open.spotify.com/track/0yO4LQ2u0Y9Wc9SFI22KzW) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Firepower](https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB) | 1:06 |
+| 26 | [Last Rose of Summer](https://open.spotify.com/track/0h7ensMpE0QHgzrqpfXe7i) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Sin After Sin](https://open.spotify.com/album/2GXeHOkRouW0LnKBMUnVtv) | 5:36 |
+| 27 | [Guardians](https://open.spotify.com/track/0yO4LQ2u0Y9Wc9SFI22KzW) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Firepower](https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB) | 1:06 |
+| 28 | [Prisoner of Your Eyes](https://open.spotify.com/track/2VLwPKY2gaBxGxwgmwRDUf) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Screaming For Vengeance](https://open.spotify.com/album/0V7mTTzioHiYIjfM8ATZBI) | 7:10 |
 | 29 | [Rock Hard Ride Free](https://open.spotify.com/track/5KQY3KDpQ3tO29W7iJNfFq) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Defenders Of The Faith](https://open.spotify.com/album/3o0mPpetAFCOIFkUaw1egl) | 5:33 |
 | 30 | [The Hellion / Electric Eye](https://open.spotify.com/track/4LPCfppIoBx8tpW9LrLtWj) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Living After Midnight](https://open.spotify.com/album/4eoB0NlHD1fentI8ZbXBv5) | 4:20 |
-| 31 | [Hell Bent for Leather](https://open.spotify.com/track/0SEd8AUWG3j4YFsFEVmGjW) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Killing Machine](https://open.spotify.com/album/5Ud4v6Y2UC3uNeTdVssXj0) | 2:40 |
-| 32 | [Evil Never Dies](https://open.spotify.com/track/1I4bh7GClCeUW4uORsZhTs) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Firepower](https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB) | 4:23 |
+| 31 | [Evil Never Dies](https://open.spotify.com/track/1I4bh7GClCeUW4uORsZhTs) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Firepower](https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB) | 4:23 |
+| 32 | [Hell Bent for Leather](https://open.spotify.com/track/0SEd8AUWG3j4YFsFEVmGjW) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Killing Machine](https://open.spotify.com/album/5Ud4v6Y2UC3uNeTdVssXj0) | 2:40 |
 | 33 | [Night Comes Down](https://open.spotify.com/track/2lqc273pCZk6gtkfubaCbh) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Defenders Of The Faith](https://open.spotify.com/album/3o0mPpetAFCOIFkUaw1egl) | 4:00 |
 | 34 | [United](https://open.spotify.com/track/5QJTiFUvKTVEwcDrek3xpU) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [British Steel](https://open.spotify.com/album/5bqtZRbUZUxUps8mrO9tGY) | 3:35 |
-| 35 | [Dissident Aggressor](https://open.spotify.com/track/3x639plCXGLyZoMcyR2IgJ) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Sin After Sin](https://open.spotify.com/album/2GXeHOkRouW0LnKBMUnVtv) | 3:06 |
-| 36 | [No Surrender](https://open.spotify.com/track/1Fr7OlVZrc3mDvru8j2cFi) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Firepower](https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB) | 2:53 |
+| 35 | [No Surrender](https://open.spotify.com/track/1Fr7OlVZrc3mDvru8j2cFi) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Firepower](https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB) | 2:53 |
+| 36 | [Dissident Aggressor](https://open.spotify.com/track/3x639plCXGLyZoMcyR2IgJ) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Sin After Sin](https://open.spotify.com/album/2GXeHOkRouW0LnKBMUnVtv) | 3:06 |
 | 37 | [Secrets of the Dead](https://open.spotify.com/track/6s31N0HLSeIvclglvrZ5DS) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Redeemer of Souls \(Deluxe\)](https://open.spotify.com/album/0RIfXMHvRpLqHsZ0FZE3mS) | 5:41 |
 | 38 | [Red, White & Blue](https://open.spotify.com/track/17hS2mLPFdTzy7YcpBDv0A) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [British Steel](https://open.spotify.com/album/5bqtZRbUZUxUps8mrO9tGY) | 3:42 |
 | 39 | [Screaming for Vengeance](https://open.spotify.com/track/5xmmAlr7JqT53WqacPRhLA) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Screaming For Vengeance \(Expanded Edition\)](https://open.spotify.com/album/55MZQrenomrTq0aQneC7Pi) | 4:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1q6zh6.md) - [plain]
 | 49 | [Freewheel Burning](https://open.spotify.com/track/6aQBzaeOIajIPGAMzqa23J) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Defenders Of The Faith](https://open.spotify.com/album/3o0mPpetAFCOIFkUaw1egl) | 4:24 |
 | 50 | [Riding on the Wind](https://open.spotify.com/track/4Myj2cmlFC8tsq9cqj082O) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Screaming For Vengeance](https://open.spotify.com/album/0V7mTTzioHiYIjfM8ATZBI) | 3:09 |
 
-Snapshot ID: `Mjc3MjIyMzMsMDAwMDAwMDA1OWI1ODI4NzhhY2QzNmQ5ODUxMjZkMzc0MjVmOTc4OQ==`
+Snapshot ID: `Mjc3MjM2OTIsMDAwMDAwMDBkOGVkMjZlNDQ1NmI4MWJjODczZDEyOTgyNGJhMzhlYg==`

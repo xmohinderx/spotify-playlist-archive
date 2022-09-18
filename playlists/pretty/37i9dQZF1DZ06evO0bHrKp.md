@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bHrKp.md) - [plain]
 
 > This is Sum 41\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,512 likes - 47 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,570 likes - 47 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bHrKp.md) - [plain]
 | 46 | [The New Sensation](https://open.spotify.com/track/66rEcw8rK6iCc0UesDdqxs) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Order In Decline](https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD) | 3:50 |
 | 47 | [Summer](https://open.spotify.com/track/46pErPIiLjAWrr5uLFomA0) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Half Hour Of Power](https://open.spotify.com/album/5iyuYd9BFLRoKHN3onmdMH) | 2:40 |
 
-Snapshot ID: `Mjc3MjIyMzMsMDAwMDAwMDAzZTFmOGEyNjAzOThkOWU3NGRkYWZjODRiYTc0OGQyMQ==`
+Snapshot ID: `Mjc3MjM2OTIsMDAwMDAwMDAzY2UzNDEwMmQ3MmUzYzAxZGM4OTAxNDM5ZDBhYTk2OA==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XceWZP1znY.md) - [plain]
 
 > Listen to your favourite Anime songs, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 474,424 likes - 200 songs - 13 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 474,753 likes - 200 songs - 13 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,8 +120,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XceWZP1znY.md) - [plain]
 | 110 | [give it back](https://open.spotify.com/track/6aHFdm58mPF4YPJX3FgI0z) | [Cö Shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [give it back](https://open.spotify.com/album/4FYIha9FBi1bZueBbSJSRI) | 3:32 |
 | 111 | [Monster](https://open.spotify.com/track/7M9lc2hHXKQobbHQ31Yg2v) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [Monster](https://open.spotify.com/album/3GUW4WpvJPXgzsOW1hVifv) | 3:25 |
 | 112 | [足跡](https://open.spotify.com/track/4k5g6HNKtrWbYDllw2Dyp0) | [the peggies](https://open.spotify.com/artist/3imCOAQnI4fF5dsncQqLBW) | [足跡](https://open.spotify.com/album/2qSycPngTjQbW0JgEPKanq) | 3:47 |
-| 113 | [Sing My Pleasure](https://open.spotify.com/track/6wOazYrDGLhMAhwU6RArlg) | [ヴィヴィ\(Vo.八木海莉\)](https://open.spotify.com/artist/0yJlj2EYshHk9BWkEAR15k) | [Sing My Pleasure](https://open.spotify.com/album/2fHdvnc0QMfIFci1rm7MXN) | 4:49 |
-| 114 | [1,000,000 TIMES feat\. chelly \(EGOIST\)](https://open.spotify.com/track/3dVMeI08Of33bjSELmtSqq) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd), [chelly \(EGOIST\)](https://open.spotify.com/artist/3Pd91SXUFKeNjB6tzhC8jk) | [1,000,000 TIMES](https://open.spotify.com/album/505IJWUZGRdwSp4AeTwvmP) | 5:15 |
+| 113 | [1,000,000 TIMES feat\. chelly \(EGOIST\)](https://open.spotify.com/track/3dVMeI08Of33bjSELmtSqq) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd), [chelly \(EGOIST\)](https://open.spotify.com/artist/3Pd91SXUFKeNjB6tzhC8jk) | [1,000,000 TIMES](https://open.spotify.com/album/505IJWUZGRdwSp4AeTwvmP) | 5:15 |
+| 114 | [Sing My Pleasure](https://open.spotify.com/track/6wOazYrDGLhMAhwU6RArlg) | [ヴィヴィ\(Vo.八木海莉\)](https://open.spotify.com/artist/0yJlj2EYshHk9BWkEAR15k) | [Sing My Pleasure](https://open.spotify.com/album/2fHdvnc0QMfIFci1rm7MXN) | 4:49 |
 | 115 | [三原色](https://open.spotify.com/track/4EG10OLde2d8EisbYoKTuZ) | [PELICAN FANCLUB](https://open.spotify.com/artist/2eKvpW2lCmgqTJHRNrbbIn) | [解放のヒント](https://open.spotify.com/album/24ZL98yLu2zbulCTwba8Z2) | 3:25 |
 | 116 | [Velonica](https://open.spotify.com/track/2k7lStJS8TJvMNxbdClLMD) | [Aqua Timez](https://open.spotify.com/artist/2XhA8BOHxO5NwbY6q3W8mD) | [うたい去りし花](https://open.spotify.com/album/0UFMQ3KEnJkf8U6fCTnRoi) | 4:38 |
 | 117 | [NO MAN'S DAWN](https://open.spotify.com/track/3w7j5vtYOyNoB2hewUgn0G) | [前島麻由](https://open.spotify.com/artist/0M0v61x8lN3rDLbmTnlYBg) | [ENDING THEME FROM TV SERIES ”OVERLORD IV”](https://open.spotify.com/album/6fiyEepRkKNW1rRZLVgt0P) | 3:53 |
@@ -137,15 +137,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XceWZP1znY.md) - [plain]
 | 127 | [SLUMP \-Japanese ver.\-](https://open.spotify.com/track/5duEyPwRu0D5RVLkVORqLG) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ALL IN](https://open.spotify.com/album/06EHg8PHtDhbZMpE0jmhEn) | 2:16 |
 | 128 | [Torch of Liberty](https://open.spotify.com/track/3YblgwBrb747gUzuh2CgYF) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [Torch of Liberty](https://open.spotify.com/album/0VFSyJsFrGdo3wbnswIjCy) | 3:05 |
 | 129 | [Overfly](https://open.spotify.com/track/5KQk3xqndCMM8kQkS0tfOT) | [Luna Haruna](https://open.spotify.com/artist/4eL15GpHSLAAvv5sT00c5i) | [OVERSKY](https://open.spotify.com/album/6F1qAKzkvEUVU2Y33vxuss) | 4:27 |
-| 130 | [季節は次々死んでいく](https://open.spotify.com/track/6dQ3lcQG2MuIQ0P7GSYQeJ) | [amazarashi](https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao) | [世界収束二一一六](https://open.spotify.com/album/4gzo7ZCukhclkchnbixt0t) | 5:38 |
-| 131 | [Glitter](https://open.spotify.com/track/4N7q20wGjD32efYY5r9G09) | [sumika](https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb) | [Glitter](https://open.spotify.com/album/3lSsvZCA16bhwPUgoq7TT3) | 3:20 |
+| 130 | [Glitter](https://open.spotify.com/track/4N7q20wGjD32efYY5r9G09) | [sumika](https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb) | [Glitter](https://open.spotify.com/album/3lSsvZCA16bhwPUgoq7TT3) | 3:20 |
+| 131 | [季節は次々死んでいく](https://open.spotify.com/track/6dQ3lcQG2MuIQ0P7GSYQeJ) | [amazarashi](https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao) | [世界収束二一一六](https://open.spotify.com/album/4gzo7ZCukhclkchnbixt0t) | 5:38 |
 | 132 | [BANG!!!](https://open.spotify.com/track/4o1s691Qn6lUmFh1Bl28NG) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [BANG!!!](https://open.spotify.com/album/7JruDbtqHdtkxzIXBf6gjO) | 3:16 |
 | 133 | [Tiny Light](https://open.spotify.com/track/3nMWM6o4pD6lAkDRPdcqvh) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Desire Again](https://open.spotify.com/album/1TNoCgbem1kKPGUgZRH2AK) | 4:50 |
 | 134 | [インフィニティ](https://open.spotify.com/track/3Gj9gaVfc3HHyqcIFaSa70) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [インフィニティ](https://open.spotify.com/album/5A7mNWIOtdsmE3TiDiAQvm) | 4:05 |
-| 135 | [境界線](https://open.spotify.com/track/48JYYEXKNZdXuDdZvkRvaQ) | [amazarashi](https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao) | [境界線](https://open.spotify.com/album/3jWfbgOoP63UgFKTSaQrsl) | 4:53 |
-| 136 | [ID](https://open.spotify.com/track/2TdfwkIHpCb0S8NYJVyr2X) | [Cidergirl](https://open.spotify.com/artist/3hprFQEXS7glX1Jxxwv9Dn) | [ID](https://open.spotify.com/album/17RZ0HdVPqFvVcZNQZfvkO) | 3:45 |
-| 137 | [突破口](https://open.spotify.com/track/481beimUiUnMUzSbOAFcUT) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [突破口 / 自慢になりたい](https://open.spotify.com/album/7leiGT0C2C6iTwyfzOVBqB) | 4:15 |
-| 138 | [アカシア](https://open.spotify.com/track/0tvPnYDLySJL9g7OHNJeyb) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [アカシア](https://open.spotify.com/album/68QVVJIcIoem5brTfzbSlo) | 4:22 |
+| 135 | [ID](https://open.spotify.com/track/2TdfwkIHpCb0S8NYJVyr2X) | [Cidergirl](https://open.spotify.com/artist/3hprFQEXS7glX1Jxxwv9Dn) | [ID](https://open.spotify.com/album/17RZ0HdVPqFvVcZNQZfvkO) | 3:45 |
+| 136 | [突破口](https://open.spotify.com/track/481beimUiUnMUzSbOAFcUT) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [突破口 / 自慢になりたい](https://open.spotify.com/album/7leiGT0C2C6iTwyfzOVBqB) | 4:15 |
+| 137 | [アカシア](https://open.spotify.com/track/0tvPnYDLySJL9g7OHNJeyb) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [アカシア](https://open.spotify.com/album/68QVVJIcIoem5brTfzbSlo) | 4:22 |
+| 138 | [境界線](https://open.spotify.com/track/48JYYEXKNZdXuDdZvkRvaQ) | [amazarashi](https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao) | [境界線](https://open.spotify.com/album/3jWfbgOoP63UgFKTSaQrsl) | 4:53 |
 | 139 | [Eden](https://open.spotify.com/track/7CZKnz9mEt8Z638tyY5cKL) | [Monkey Majik](https://open.spotify.com/artist/6U2dgcU46Iy9pF3RQBj5hG) | [Eden](https://open.spotify.com/album/0YiCDTDr522Wac8BbC8wNy) | 4:31 |
 | 140 | [失恋ソング沢山聴いて 泣いてばかりの私はもう。](https://open.spotify.com/track/6UEudr7wL1kWoEzWTWOjL9) | [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS) | [失恋ソング沢山聴いて 泣いてばかりの私はもう。](https://open.spotify.com/album/5ANkUMQeCcz1yLFKGwIamt) | 4:58 |
 | 141 | [ninelie](https://open.spotify.com/track/164YLgHJYhqOEYUcAc93Xz) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm), [Chelly](https://open.spotify.com/artist/7IYp1PwnGxaoNmljusPO8Z) | [daydream](https://open.spotify.com/album/336m0kejdM5Fkw2HUX46Bw) | 4:21 |
@@ -156,8 +156,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XceWZP1znY.md) - [plain]
 | 146 | [Sense](https://open.spotify.com/track/2jnCDRKe4IfoIN2teGn308) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Sense](https://open.spotify.com/album/6AaDmp2qhU98vhQ7ukQ6PQ) | 3:24 |
 | 147 | [No.1](https://open.spotify.com/track/3GIhgMadHu26VHLEeXviGD) | [DISH//](https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil) | [No.1 \-Special Edition\-](https://open.spotify.com/album/4FHIrNlHnVl4VDLnkiYfno) | 3:52 |
 | 148 | [恋愛脳](https://open.spotify.com/track/6ov7dWfxJsadTqkGZbmKOI) | [Nanawoakari](https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn) | [恋愛脳](https://open.spotify.com/album/7DcfUaVT0xSAmFByPZUNIm) | 3:09 |
-| 149 | [Force](https://open.spotify.com/track/2BGVCCEnQrqH2iz7gIIGFi) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Force](https://open.spotify.com/album/7mLKvwyfqvTfq4GaUo52oG) | 3:59 |
-| 150 | [Mortal With You](https://open.spotify.com/track/2Cl3bTLiHuQlQBcZSxJLON) | [Mili](https://open.spotify.com/artist/0K05TDnN7xPwIHDOwD2YYs) | [Mortal With You](https://open.spotify.com/album/2XfXLJFcnPIGiDDQM925Vf) | 3:55 |
+| 149 | [Mortal With You](https://open.spotify.com/track/2Cl3bTLiHuQlQBcZSxJLON) | [Mili](https://open.spotify.com/artist/0K05TDnN7xPwIHDOwD2YYs) | [Mortal With You](https://open.spotify.com/album/2XfXLJFcnPIGiDDQM925Vf) | 3:55 |
+| 150 | [Force](https://open.spotify.com/track/2BGVCCEnQrqH2iz7gIIGFi) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Force](https://open.spotify.com/album/7mLKvwyfqvTfq4GaUo52oG) | 3:59 |
 | 151 | [ROB THE FRONTIER](https://open.spotify.com/track/0vgQEQxb49LCKEH5Gg7E4z) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [UNSER](https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8) | 3:52 |
 | 152 | [REMEMBER](https://open.spotify.com/track/5LpoOEvLsPtK9baecA3Gnp) | [Masto \(coldrain\)](https://open.spotify.com/artist/6lnOwnN8wy4PO5nbkYRQ7D), [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [Jujutsu Kaisen \(Original Television Soundtrack\)](https://open.spotify.com/album/5QYGsl05fLEEE4fUjz4rkt) | 4:03 |
 | 153 | [Tell me](https://open.spotify.com/track/12MNPXTSJp3n2YvrzsCSv0) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [eyes](https://open.spotify.com/album/3FFBo52XG8Iqz2c9NvLJRn) | 3:43 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XceWZP1znY.md) - [plain]
 | 199 | [気分上々↑↑](https://open.spotify.com/track/4b55RzNokHkNtw0DhmEbdv) | [Kuroneko](https://open.spotify.com/artist/6Tz3nFnN2k3qvsjgJuCO1p), [置鮎龍太郎](https://open.spotify.com/artist/0NPwoqej9GBiSlvZd89GLa) | [テレビアニメ「パリピ孔明」エンディングテーマ「気分上々↑↑」](https://open.spotify.com/album/4ZHduve9XLSCzgzuAEpo91) | 3:51 |
 | 200 | [さよならごっこ](https://open.spotify.com/track/7ha9B32izQ0Ni2RtSzm2C4) | [amazarashi](https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao) | [BOYCOTT](https://open.spotify.com/album/1PdHNXd6zUwYxcadffHHBX) | 4:32 |
 
-Snapshot ID: `MTY2MDIyMTMwMSwwMDAwMDAwMDNkOWY3ZTMzNzU1Zjg3MzNjNGEzZWY1YTZjNDI5MDI5`
+Snapshot ID: `MTY2MDIyMTMwMSwwMDAwMDAwMDA5MzMwZmVlMjAzOGYxOWJhNWJhOGJhNzhlNTZmM2E0`

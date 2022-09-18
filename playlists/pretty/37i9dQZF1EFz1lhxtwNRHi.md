@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 | 78 | [Body and Soul](https://open.spotify.com/track/26QbQ0G1GcGnna7MaYbDuM) | [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW) | [LillyAnna](https://open.spotify.com/album/2tsAo6YXbFha5LKr8PuIgt) | 2:30 |
 | 79 | [Numb \- teddy<3 version](https://open.spotify.com/track/4FSX3VAbyFPLA5UE3z0K0E) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv), [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [Numb](https://open.spotify.com/album/1Ho3UkeW5DfE812uhE6Q9Q) | 4:31 |
 | 80 | [Under the Blue](https://open.spotify.com/track/5XNiGICOo8gIjqhiauFYjM) | [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW), [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [LillyAnna](https://open.spotify.com/album/2tsAo6YXbFha5LKr8PuIgt) | 3:28 |
-| 81 | [Real Thing](https://open.spotify.com/track/4RJ3V0Y4Y18VuAWsnAcgS4) | [LunchMoney Lewis](https://open.spotify.com/artist/2iUbk5KhZYZt4CRvWbwb7S) | [Bills \- EP](https://open.spotify.com/album/22gQ3287u7f9iH5xaL8egl) | 3:41 |
-| 82 | [Hurt Me Now](https://open.spotify.com/track/6tDrZQQhEWrHsYafpziiwg) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [Beach House](https://open.spotify.com/album/5shnElSTugZ2ITzWUmDS5L) | 3:41 |
+| 81 | [Hurt Me Now](https://open.spotify.com/track/6tDrZQQhEWrHsYafpziiwg) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [Beach House](https://open.spotify.com/album/5shnElSTugZ2ITzWUmDS5L) | 3:41 |
+| 82 | [Real Thing](https://open.spotify.com/track/4RJ3V0Y4Y18VuAWsnAcgS4) | [LunchMoney Lewis](https://open.spotify.com/artist/2iUbk5KhZYZt4CRvWbwb7S) | [Bills \- EP](https://open.spotify.com/album/22gQ3287u7f9iH5xaL8egl) | 3:41 |
 | 83 | [Rivers](https://open.spotify.com/track/7MWlxS6vpJlfPNaerI0lg3) | [King Calaway](https://open.spotify.com/artist/1IdbSuYtF7RSaFarmctwoE) | [Rivers](https://open.spotify.com/album/0jbizUOHY9uVKoWyjlmyg2) | 2:57 |
 | 84 | [Capital Letters](https://open.spotify.com/track/405B9VswP3UM73ImKdPson) | [Grace Mitchell](https://open.spotify.com/artist/3VjZEaHXvNbCmV5jc0VfZR) | [Capital Letters](https://open.spotify.com/album/4Kgoa65A1pu14huyVVUiux) | 3:35 |
 | 85 | [Bones](https://open.spotify.com/track/41LiSeJIhiXDGGNaYXhIzx) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Bones](https://open.spotify.com/album/6ajKD5jYpHTrof8xZJb4tJ) | 3:12 |
@@ -150,4 +150,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 | 140 | [Ya Zi Me](https://open.spotify.com/track/7rMntdl7eVtbF3S0GU8izm) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 3:34 |
 | 141 | [Leona Interlude](https://open.spotify.com/track/7kkADY5XzhAFMfOnfc7Z4K) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 0:27 |
 
-Snapshot ID: `Mjc3MjI5NDksMDAwMDAwMDAwYzhmZWY0NWY0MzdmZWNlOGMyNWU2MjlhODA2NjYwNA==`
+Snapshot ID: `Mjc3MjQ0NDksMDAwMDAwMDA5NmQ1Mzk0YWZjMTlmODg4MGYzZWEzZjIwYTY0ZTBkNQ==`

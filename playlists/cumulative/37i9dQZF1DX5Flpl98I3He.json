@@ -966,6 +966,28 @@
     },
     {
       "album": {
+        "name": "! A Classical Creation: Rachmaninoff",
+        "url": "https://open.spotify.com/album/38TwRvAu47XpPrSfLi6F2b"
+      },
+      "artists": [
+        {
+          "name": "Sergei Rachmaninoff",
+          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+        },
+        {
+          "name": "Vladimir Horowitz",
+          "url": "https://open.spotify.com/artist/4Ws5hSoABAwvGJ4LhHwHgq"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152533,
+      "name": "Pr\u00e9lude In G-Sharp Minor, Op. 32, No. 12 - Live",
+      "url": "https://open.spotify.com/track/41yqqWWejntzWKxehScZA7"
+    },
+    {
+      "album": {
         "name": "Vladimir Horowitz - Horowitz in Moscow",
         "url": "https://open.spotify.com/album/1eCIPUHol3pEspyki6bWeB"
       },
@@ -981,7 +1003,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 152533,
       "name": "Pr\u00e9lude In G-Sharp Minor, Op. 32, No. 12 - Live",
       "url": "https://open.spotify.com/track/59TnBJzx0rt7Ko0fI2OlQC"
@@ -1208,6 +1230,32 @@
     },
     {
       "album": {
+        "name": "! A Classical Creation: Rachmaninoff",
+        "url": "https://open.spotify.com/album/38TwRvAu47XpPrSfLi6F2b"
+      },
+      "artists": [
+        {
+          "name": "Sergei Rachmaninoff",
+          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+        },
+        {
+          "name": "Alisa Weilerstein",
+          "url": "https://open.spotify.com/artist/342cJoM4xzPrRfLb8fYkuh"
+        },
+        {
+          "name": "Inon Barnatan",
+          "url": "https://open.spotify.com/artist/5ejziTkhdpyMUJvawZWuS2"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399306,
+      "name": "Sonata In G Minor For Cello & Piano, Op. 19: 2. Allegro scherzando",
+      "url": "https://open.spotify.com/track/45APi3E0MapO7G4t3BwebD"
+    },
+    {
+      "album": {
         "name": "Rachmaninov",
         "url": "https://open.spotify.com/album/5jggPQpEIxtGeLyBUG2m9U"
       },
@@ -1227,7 +1275,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 399306,
       "name": "Sonata In G Minor For Cello & Piano, Op. 19: 2. Allegro scherzando",
       "url": "https://open.spotify.com/track/4j8uxbwJxRs8mv5Tx4VAvp"

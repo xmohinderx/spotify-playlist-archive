@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: ENNIO
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,591 likes - 60 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,609 likes - 60 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Unendlichkeit](https://open.spotify.com/track/4TaWCdfI6VyR1O8GVuyCf7) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Unendlichkeit](https://open.spotify.com/album/6I0qSXltDmckxauHYmJPNv) | 3:00 |
-| 2 | [Diese Nacht](https://open.spotify.com/track/2wrB2jRPTd1wujQlWWnJ0r) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Zorn & Liebe](https://open.spotify.com/album/5seerIZ96Tknor62ygW3on) | 2:34 |
+| 2 | [Diese Nacht](https://open.spotify.com/track/6CWr033ZS8JwfKfhuMavWp) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Zorn & Liebe](https://open.spotify.com/album/6p84H53CGnoPvszkjRWllB) | 2:34 |
 | 3 | [ich gehör wieder mir](https://open.spotify.com/track/4PpGmzid7fvGFayn8icZRF) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [ich gehör wieder mir](https://open.spotify.com/album/6Et0Q8bXMXOSChFgXgvvv8) | 2:57 |
 | 4 | [Crushed](https://open.spotify.com/track/713AJFIsjfdlwC6IvY9FeJ) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD) | [Crushed by the Weight of the World](https://open.spotify.com/album/1Axcj3Di7G4Qw0iYTJAhC0) | 3:48 |
 | 5 | [Süße Träume](https://open.spotify.com/track/37FEXZlxz8OYFiB8sdxkdk) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Süße Träume](https://open.spotify.com/album/4S620Fwlk0uQXT3ByjyGSf) | 2:40 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 | 59 | [Gone](https://open.spotify.com/track/2mD8ODdKo0y165EtmfAHqN) | [ELI](https://open.spotify.com/artist/63gbXCha1jpkrJJ9K5gGpR) | [Gone](https://open.spotify.com/album/651CcYUL1asuZzRClUinai) | 2:35 |
 | 60 | [Rich Girl](https://open.spotify.com/track/1BCBzCwhOZ3MEfOybVmoRs) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [Rich Girl](https://open.spotify.com/album/5invgj6RjVaDwh3Odvaj3v) | 4:04 |
 
-Snapshot ID: `MTY2MzI3OTIwMCwwMDAwMDAwMDM0NDBhNTEyY2M5NGU3NmJiY2FlNmVhOWZiYzAxYjA1`
+Snapshot ID: `MTY2MzI3OTIwMCwwMDAwMDAwMDdkZjdhNDY3NWU0NTYwNzFkYTViMTdiYzNjNjczNDFk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 
 > Encuentra un mix de clásicos y nuevos talentos\. Foto: Plumas + Pedropiedra
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,319 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,331 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 | 64 | [Tanto creo en ti](https://open.spotify.com/track/0r5YhIxh1hmRJ7rSHxg7Vd) | [DePedro](https://open.spotify.com/artist/3wpNKcE7grYUIRKCMpmBOb), [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX) | [Tanto creo en ti](https://open.spotify.com/album/5nvL8Kst2zSHSTfO9S3oZd) | 3:16 |
 | 65 | [Kumbagüe](https://open.spotify.com/track/1FaKFinuCoWMuViMMZNscl) | [Nunca Seremos Dichosos](https://open.spotify.com/artist/0XLQ3xZLk6ptsTLMHDKgTR) | [Kollong](https://open.spotify.com/album/5ZWWaYGC3xjLgYrJbXb3IN) | 4:02 |
 | 66 | [Te Mueres \- En Vivo](https://open.spotify.com/track/29bbukCrs2vjeeUwhHBR14) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Te Mueres](https://open.spotify.com/album/03sxKGrSIHyjp9S5EXtcub) | 6:46 |
-| 67 | [Gol de Caszely](https://open.spotify.com/track/4G5BUwn7bk6GmxwZ2PNnlj) | [Daniel Guerrero](https://open.spotify.com/artist/46DjlImkqCqoPI8bQFfGma) | [Gol de Caszely](https://open.spotify.com/album/3vb74EiQdE9RO2l8hb4Hwj) | 3:48 |
-| 68 | [Niña Blanca](https://open.spotify.com/track/4cYV1Di4LgjQR255w4QaKE) | [Devil Presley](https://open.spotify.com/artist/5EIqlTaPbY8qZZvVjwkCQH) | [Niña Blanca](https://open.spotify.com/album/28L0BFyBWpYRxcKa35cSiD) | 7:15 |
+| 67 | [Niña Blanca](https://open.spotify.com/track/4cYV1Di4LgjQR255w4QaKE) | [Devil Presley](https://open.spotify.com/artist/5EIqlTaPbY8qZZvVjwkCQH) | [Niña Blanca](https://open.spotify.com/album/28L0BFyBWpYRxcKa35cSiD) | 7:15 |
+| 68 | [Gol de Caszely](https://open.spotify.com/track/4G5BUwn7bk6GmxwZ2PNnlj) | [Daniel Guerrero](https://open.spotify.com/artist/46DjlImkqCqoPI8bQFfGma) | [Gol de Caszely](https://open.spotify.com/album/3vb74EiQdE9RO2l8hb4Hwj) | 3:48 |
 | 69 | [Mala Fama \- En Vivo](https://open.spotify.com/track/1guVg6k2Hw4jwG70bqYzHI) | [Ases Falsos](https://open.spotify.com/artist/5duXcUlwdTvVHJTLWJa2j1) | [Ases Falsos En El Coliseo](https://open.spotify.com/album/3z9ajon3uJlZpp4x3KIz3R) | 4:03 |
 | 70 | [Mis Hermanos Sueñan Despiertos](https://open.spotify.com/track/4zkPhAfJssqmudOKotu0vr) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg) | [Mis Hermanos Sueñan Despiertos](https://open.spotify.com/album/5eSV2mQOF7eUBcyc59i4kg) | 3:24 |
 | 71 | [Culpa](https://open.spotify.com/track/6EOfFnTp6FX4RgUrVTNRq9) | [BBS Paranoicos](https://open.spotify.com/artist/3m6rsPYI2szH1eab4Gu74U) | [Por 30 Más](https://open.spotify.com/album/3oiaJo9mvrGq1oIbwCfXwh) | 3:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 | 99 | [Mujer Robusta \(En Vivo Teatro Caupolicán\)](https://open.spotify.com/track/2LGVZgkkPNl2NRdKjytmoi) | [Sinergia](https://open.spotify.com/artist/1OgaghfYd1qr8DFoNrfDNk), [GrassBrass](https://open.spotify.com/artist/1eJudSmozfcZXqLhvnoWKV) | [25 Años \(En Vivo Teatro Caupolicán\)](https://open.spotify.com/album/6Hi5NK6c0xlretuT0p4epl) | 3:07 |
 | 100 | [Ya No Quiero Ser \(Duele, Hiere, Mata\)](https://open.spotify.com/track/6ctn61QsvvmiXSl5EafPLc) | [Aguaturbia](https://open.spotify.com/artist/1GGnADQvJeAIqtrjWc0CFc) | [Ya No Quiero Ser \(Duele, Hiere, Mata\)](https://open.spotify.com/album/4Y6QBvjiKF6D7TapNyWJxd) | 4:37 |
 
-Snapshot ID: `MTY2MjQwNTA3NCwwMDAwMDAwMDA5NzkxNWIwM2RhNzE4ZjYwYTAwMGQzZTQwNmYwZTdm`
+Snapshot ID: `MTY2MjQwNTA3NCwwMDAwMDAwMDAzZGQ3ZTZmZDcyZjgzM2YzNjYzYTFiN2EzZWI2ZjY2`

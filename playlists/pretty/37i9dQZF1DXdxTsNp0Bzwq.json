@@ -1,12 +1,12 @@
 {
   "description": "Turn up for the big game!",
-  "num_followers": 564972,
+  "num_followers": 565188,
   "original_name": "Gameday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA5MTI2MCwwMDAwMDAwMDEzZDQ0ODk0NmI0YjUwN2ViYTllZTFjNzkwYmQ5ZmNl",
+  "snapshot_id": "MTY2MjA5MTI2MCwwMDAwMDAwMDQ2NzQ3NWUzZmMxODU1N2ExY2E0YmVhNGI2OGUzZTNj",
   "tracks": [
     {
       "added_at": "2022-09-02 04:01:00",
@@ -707,6 +707,22 @@
     {
       "added_at": "2022-09-02 04:01:00",
       "album": {
+        "name": "ESCAPE PLAN / MAFIA",
+        "url": "https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 149610,
+      "name": "ESCAPE PLAN",
+      "url": "https://open.spotify.com/track/4R67rQNSbbsR4TdUVOIdez"
+    },
+    {
+      "added_at": "2022-09-02 04:01:00",
+      "album": {
         "name": "Hold That Heat (feat. Travis Scott)",
         "url": "https://open.spotify.com/album/27rslGtWf5WEDhLlG05r12"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 221538,
       "name": "Hold That Heat (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/6OrTKLtcF7EBayOV2QqkSK"
-    },
-    {
-      "added_at": "2022-09-02 04:01:00",
-      "album": {
-        "name": "ESCAPE PLAN / MAFIA",
-        "url": "https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 149610,
-      "name": "ESCAPE PLAN",
-      "url": "https://open.spotify.com/track/4R67rQNSbbsR4TdUVOIdez"
     },
     {
       "added_at": "2022-09-02 04:01:00",

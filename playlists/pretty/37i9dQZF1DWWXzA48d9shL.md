@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 > New CORPSE ft\. Scarlxrd & Kordhell
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,860 likes - 90 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,154 likes - 90 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

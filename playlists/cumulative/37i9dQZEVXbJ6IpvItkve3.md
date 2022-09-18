@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Israel.
 
-501 songs - 1 day 4 hr 4 min - [published](https://open.spotify.com/playlist/05mBfCDcqpe58bcfcRKya9)
+503 songs - 1 day 4 hr 10 min - [published](https://open.spotify.com/playlist/05mBfCDcqpe58bcfcRKya9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Astronaut In The Ocean](https://open.spotify.com/track/3VT8hOC5vuDXBsHrR53WFh) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Astronaut In The Ocean](https://open.spotify.com/album/57UjGWNfxfsBCykDm73XBK) | 2:12 | 2021-03-27\* | 2021-05-30 |
 | [Astronaut In The Ocean](https://open.spotify.com/track/6E90gq0KO6FYZVOXx8kCcC) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Astronomical](https://open.spotify.com/album/6qNMYsx5OUFDXWAoct9Pge) | 2:12 | 2021-09-13 | 2021-09-21 |
 | [Auntie Diaries](https://open.spotify.com/track/19Fg3WrTfo35Ji3PtfZE6J) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 4:41 | 2022-05-14 | 2022-05-17 |
-| [Bad Habit](https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 3:52 | 2022-08-03 |  |
+| [Bad Habit](https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 3:52 | 2022-08-03 | 2022-09-18 |
 | [Bad Habits](https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:50 | 2021-10-31 | 2022-06-26 |
 | [Bad Habits](https://open.spotify.com/track/6PQ88X9TkUIAUIZJHW2upE) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bad Habits](https://open.spotify.com/album/01NhUvviMytvV12pmJiDZH) | 3:51 | 2021-06-27 | 2021-10-31 |
 | [Bad Little Thing](https://open.spotify.com/track/1E1Og0jq52jXydahltegOO) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [Please Don't Suck](https://open.spotify.com/album/0QU2ZYIHNZrJi7CeiEajsw) | 2:23 | 2021-10-28 | 2021-11-04 |
@@ -194,6 +194,7 @@
 | [Peaches \(feat\. Daniel Caesar & Giveon\)](https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:18 | 2021-03-27\* | 2021-09-17 |
 | [Pepas](https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [La 167](https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK) | 4:47 | 2021-10-07 | 2022-06-21 |
 | [Pink Venom](https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Pink Venom](https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1) | 3:06 | 2022-08-24 | 2022-09-11 |
+| [Pink Venom](https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 3:06 | 2022-09-17 |  |
 | [Please Don't Suck](https://open.spotify.com/track/2Sx4OLfgMfRgYDvGHBJvck) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [Please Don't Suck](https://open.spotify.com/album/7he1ByOAq0rTVmSoW5ny1E) | 2:55 | 2021-07-16 | 2021-09-26 |
 | [positions](https://open.spotify.com/track/35mvY5S1H3J2QZyna3TFe0) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 2:52 | 2021-03-27\* | 2021-04-02 |
 | [Praise God](https://open.spotify.com/track/0Zm7NKJgoKY6ZWwtoEUILK) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:46 | 2021-08-31 | 2021-09-02 |
@@ -225,7 +226,7 @@
 | [Sucks To Know You \(FU\)](https://open.spotify.com/track/1DAJswyIul47SQNBkYPiCx) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [Sucks To Know You \(FU\)](https://open.spotify.com/album/6lOJXuARq0Lbh6TgzEdmF2) | 1:58 | 2022-07-16 |  |
 | [Sugar](https://open.spotify.com/track/2iuZJX9X9P0GKaE93xcPjk) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [V](https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI) | 3:55 | 2022-05-09 | 2022-05-18 |
 | [Sunday Morning](https://open.spotify.com/track/5qII2n90lVdPDcgXEEVHNy) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Songs About Jane: 10th Anniversary Edition](https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc) | 4:04 | 2022-05-10 | 2022-05-14 |
-| [Sweater Weather](https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI) | 4:00 | 2022-08-03 |  |
+| [Sweater Weather](https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI) | 4:00 | 2022-08-03 | 2022-09-18 |
 | [t h e \. c l i m b \. b a c k](https://open.spotify.com/track/5lLNBIyjp72btcnrjBG751) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 5:06 | 2021-05-16 | 2021-05-17 |
 | [Take My Breath](https://open.spotify.com/track/6M3PsepEj5gyJoIi7Xvr7u) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Take My Breath](https://open.spotify.com/album/4lBrDelXR6Sn0k54a7UWMz) | 3:40 | 2021-08-18 | 2021-10-30 |
 | [Take My Breath](https://open.spotify.com/track/6OGogr19zPTM4BALXuMQpF) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Take My Breath](https://open.spotify.com/album/6DmXKM13nNgIIby2FdK0f8) | 3:40 | 2021-08-08 | 2021-08-18 |
@@ -441,6 +442,7 @@
 | [סחרחורת & בדד](https://open.spotify.com/track/7lwBfnN8IVlP6WW702pGH0) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL), [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL) | [סחרחורת & בדד](https://open.spotify.com/album/0C18PN7xHyX9IVbn49CDKz) | 6:01 | 2021-09-24 | 2022-01-15 |
 | [סיבובים](https://open.spotify.com/track/21qCzrANOK7gB0KPoNE1zP) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [סיבובים](https://open.spotify.com/album/2XvWTVqWWjPXnkAjeH19pK) | 3:05 | 2021-03-27\* | 2021-10-17 |
 | [סיבת הסיבות](https://open.spotify.com/track/6sADtPKtORAMZP3GQhOsHv) | [Ishay Ribo](https://open.spotify.com/artist/3VTm1513t2LL1mSKzzyQuj) | [סיבת הסיבות](https://open.spotify.com/album/7ASExNRuCOLSdRhZukGhl3) | 3:19 | 2021-03-27\* | 2022-07-11 |
+| [סן דייגו](https://open.spotify.com/track/6uWUsqSzbYxGhRJHNI7xPE) | [Elisha Banai](https://open.spotify.com/artist/0Bm0XFIxlatSU7sjwwxrgV) | [Elisha Banai & the Forty Thieves](https://open.spotify.com/album/2Mz2L0lkainrFMsuLlrrxQ) | 3:31 | 2022-09-17 |  |
 | [ספרי להם הכל](https://open.spotify.com/track/2O1af1DbXF7paOr7O5CRst) | [Avi Aburomi](https://open.spotify.com/artist/6vAJpFtiQ7xPtkArtCnHfr) | [ספרי להם הכל](https://open.spotify.com/album/6sKxDJudUsYnswoXSJmJb6) | 3:00 | 2022-05-31 |  |
 | [סתלבט בקיבוץ](https://open.spotify.com/track/2G1o9Mq8KpamOwJPZLuJc7) | [Full Trunk](https://open.spotify.com/artist/1CD5WWtF6AFUq6BTY20I4k), [Jimbo J](https://open.spotify.com/artist/6ltKIf1bortd0DQbpgKdQu) | [ממותה](https://open.spotify.com/album/0F59OTwMP1IRvvX3CzeO9G) | 3:36 | 2022-05-22 |  |
 | [עד המדבר](https://open.spotify.com/track/7jdvibTKMCbIP2B77ayD8Q) | [דיג'יי אונלי](https://open.spotify.com/artist/21kaSp403FBwhbEwjzymvK), [Talisman](https://open.spotify.com/artist/36SOAT1XBLPGOpya1OaMaQ), [Omri Sabach](https://open.spotify.com/artist/3Mfj0eEUcnEo0fGZ2MTkA1) | [עד המדבר](https://open.spotify.com/album/76faXVVPomerVXe1lmiKYM) | 3:24 | 2022-06-16 | 2022-06-18 |

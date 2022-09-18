@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QB9Ys2nV17.md) - [plain]
 
 > The greatest female voices in blues today\. Cover: Amythyst Kiah
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,196 likes - 55 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,206 likes - 55 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QB9Ys2nV17.md) - [plain]
 | 23 | [Love on the Rocks](https://open.spotify.com/track/6paMAWG7CCn967OkrIILty) | [Lauren Anderson](https://open.spotify.com/artist/3AoeCSG1zkka1T0WO3dPUJ) | [Love on the Rocks](https://open.spotify.com/album/2UE190kQ5nUHXGpP5r686Q) | 3:42 |
 | 24 | [Nowhere Left to Go](https://open.spotify.com/track/66A4kKsaCLef6DM79ATTER) | [Layla Zoe](https://open.spotify.com/artist/1vbOVLkD5jGOkMKyYBqzwU) | [Nowhere Left to Go](https://open.spotify.com/album/7mgwnnkUtNugVDwFd2fWsd) | 3:47 |
 | 25 | [No Riders](https://open.spotify.com/track/0NHW16lrKx7ra3ix9xKqxh) | [Shannon Curfman](https://open.spotify.com/artist/2sn2g4lNGlsAoJm15MOM7x) | [Loud Guitars, Big Suspicions](https://open.spotify.com/album/31YVnDFP920mK7VVqU3Fyp) | 3:29 |
-| 26 | [Back To The River](https://open.spotify.com/track/2DMnCy43xnMVX2eglYtn6R) | [Susan Tedeschi](https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta) | [Back To The River](https://open.spotify.com/album/2VRGI6aGaoCALCJyk0dGdc) | 3:55 |
-| 27 | [Heavy Hearts Hard Fists](https://open.spotify.com/track/2cwGnAb2HrxnzTLxqfZnyJ) | [Nikki Hill](https://open.spotify.com/artist/28Vn4HKpcOqzagc7tiAxNz) | [Heavy Hearts Hard Fists](https://open.spotify.com/album/2nZC1XpdGBiYkIG4R5ytml) | 3:17 |
+| 26 | [Heavy Hearts Hard Fists](https://open.spotify.com/track/2cwGnAb2HrxnzTLxqfZnyJ) | [Nikki Hill](https://open.spotify.com/artist/28Vn4HKpcOqzagc7tiAxNz) | [Heavy Hearts Hard Fists](https://open.spotify.com/album/2nZC1XpdGBiYkIG4R5ytml) | 3:17 |
+| 27 | [Back To The River](https://open.spotify.com/track/2DMnCy43xnMVX2eglYtn6R) | [Susan Tedeschi](https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta) | [Back To The River](https://open.spotify.com/album/2VRGI6aGaoCALCJyk0dGdc) | 3:55 |
 | 28 | [Clotilda's On Fire](https://open.spotify.com/track/0G42OWO7nynxXHht2X9mEU) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Uncivil War](https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM) | 4:26 |
 | 29 | [I'm A Woman](https://open.spotify.com/track/0HPazJXESVCimRyMggplg5) | [Deborah Coleman](https://open.spotify.com/artist/7Dk3koHTPpEymzuWOWzzny) | [Soft Place To Fall](https://open.spotify.com/album/7MDS3NXJ5thAHZkUcALtDN) | 4:51 |
 | 30 | [Louella](https://open.spotify.com/track/6KM7FlnvLrETbLpoNCjxYE) | [Marcia Ball](https://open.spotify.com/artist/0kK3ZgTw6mvlYgekz4xf18) | [Presumed Innocent](https://open.spotify.com/album/6W1dqxSFVwT5eL7WlUQUtn) | 4:27 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QB9Ys2nV17.md) - [plain]
 | 54 | [They Never Pay Me](https://open.spotify.com/track/1o84dOcVPieSWx54D6Vpd2) | [Gina Sicilia](https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ) | [Tug of War](https://open.spotify.com/album/71JBQT7xsnizt4TYu0eUzY) | 3:33 |
 | 55 | [Love's Truly Blind](https://open.spotify.com/track/6Sm45PLFiplvxlQuLnMUMC) | [Anni Piper](https://open.spotify.com/artist/3piOtc3OX0x7Z4rtdDuNBo) | [Texas Hold 'Em](https://open.spotify.com/album/2fUmLqaNyVUIRuIqUFFHui) | 3:27 |
 
-Snapshot ID: `MTY0Njc0ODA2OSwwMDAwMDAwMGIyYjdkZjI1NDM5MDllMjQ5NjIzYmEyOTJiNzc2OTIx`
+Snapshot ID: `MTY0Njc0ODA2OSwwMDAwMDAwMDkyNWQxNzM2YzI3MmY3ODA0NTA2NGI3M2JkNWVkMzhh`

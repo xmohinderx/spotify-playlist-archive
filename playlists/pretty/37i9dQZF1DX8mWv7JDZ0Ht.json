@@ -1,12 +1,12 @@
 {
   "description": "Sucessos e novidades do pop calminho pra relaxar o seu dia! Foto: Sandy, Ludmilla\n",
-  "num_followers": 406109,
+  "num_followers": 406204,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzI5OTg3MiwwMDAwMDAwMGFkMDRmNTVjN2RjMDc4NmVhZTBmYzUzMTMyYTQ0NWIy",
+  "snapshot_id": "MTY2MzI5OTg3MiwwMDAwMDAwMGU4NTdjODgyNGE2YjRhYmQzYTA4MzIxOTMxZTkyNmZh",
   "tracks": [
     {
       "added_at": "2022-09-16 03:44:32",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2022-09-16 03:44:32",
       "album": {
+        "name": "Covarde",
+        "url": "https://open.spotify.com/album/2xS5QlKE0pmnurwbh0EppL"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Lopes",
+          "url": "https://open.spotify.com/artist/70p8zOZeaAh5bskcL0dCtH"
+        }
+      ],
+      "duration_ms": 195520,
+      "name": "Covarde",
+      "url": "https://open.spotify.com/track/6mJLcOjvv8z21kN8ItpDfU"
+    },
+    {
+      "added_at": "2022-09-16 03:44:32",
+      "album": {
         "name": "T\u00e1 Dif\u00edcil Entender",
         "url": "https://open.spotify.com/album/4BO1RnFXPHscnuoLtcp5Vq"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 181966,
       "name": "Um Pouco Mais",
       "url": "https://open.spotify.com/track/0E1ZqVJQeRembqvvniCS7E"
-    },
-    {
-      "added_at": "2022-09-16 03:44:32",
-      "album": {
-        "name": "Covarde",
-        "url": "https://open.spotify.com/album/2xS5QlKE0pmnurwbh0EppL"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Lopes",
-          "url": "https://open.spotify.com/artist/70p8zOZeaAh5bskcL0dCtH"
-        }
-      ],
-      "duration_ms": 195520,
-      "name": "Covarde",
-      "url": "https://open.spotify.com/track/6mJLcOjvv8z21kN8ItpDfU"
     },
     {
       "added_at": "2022-09-16 03:44:32",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSJhvEbMTwW6.md) - [plain]
 
 > Favor de hacer doble fila para bailar estos cumbiones ¡Súbale hay lugares!
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,311 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,553 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSJhvEbMTwW6.md) - [plain]
 | 40 | [Las Mujers No Se Acaban](https://open.spotify.com/track/0NLSsL8sIElmNuTySSb3s6) | [Grupo Kual? Dinastia Pedraza Es Grupo Kein?](https://open.spotify.com/artist/3mtUQL8wfuXoI3bcciosLd), [Grupo Kien? Los Reyes Del Sabor](https://open.spotify.com/artist/5bK0A1q7E0UgBFrXZtedtU) | [Para Que La Cuña Apriete](https://open.spotify.com/album/643Req8SJXX188L5fuuVD2) | 4:30 |
 | 41 | [Las Amo a Las Dos](https://open.spotify.com/track/4XqXGdhCvH9GL7DWeqUrWm) | [Cumbias Poblanas](https://open.spotify.com/artist/5yfgm29nhL4CSbKZSPORu4) | [Cumbia Pa' seguir Bailando](https://open.spotify.com/album/6StHl9h5jusxFp10JAKmZu) | 4:49 |
 | 42 | [Corazón Solitario](https://open.spotify.com/track/7f7ChKewJr4Mjm8rDl53iP) | [Alberto Pedraza](https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR) | [Guarachando](https://open.spotify.com/album/5uHNavgy4yM4orwoEBWMjO) | 4:04 |
-| 43 | [Como Agua en las Manos](https://open.spotify.com/track/2LoKCVvq23Zuh0kaKCLv6P) | [Junior Klan](https://open.spotify.com/artist/38nF3ZyCqorhu0SaQ7yMqI) | [Exitos, Vol\. 1](https://open.spotify.com/album/7jeKLx1cNUzdOLZdH8iEn1) | 2:42 |
+| 43 | [El Baile de San Juan](https://open.spotify.com/track/25KUL02kWrFzEVhANo0ESg) | [Grupo La Chomba](https://open.spotify.com/artist/1PU5TO9w2QczOKNvSjtctd) | [El Baile de San Juan](https://open.spotify.com/album/6I3BGNjjCmPZ6NKvB9krta) | 4:14 |
 | 44 | [Al Despertar](https://open.spotify.com/track/0GCM7zzCulIbsU07Tt8trk) | [Rayito Colombiano](https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn) | [Qué Cante El Amor](https://open.spotify.com/album/0vPT6w0dqWEo45IJuqqAuo) | 3:22 |
-| 45 | [El Baile de San Juan](https://open.spotify.com/track/25KUL02kWrFzEVhANo0ESg) | [Grupo La Chomba](https://open.spotify.com/artist/1PU5TO9w2QczOKNvSjtctd) | [El Baile de San Juan](https://open.spotify.com/album/6I3BGNjjCmPZ6NKvB9krta) | 4:14 |
+| 45 | [Como Agua en las Manos](https://open.spotify.com/track/2LoKCVvq23Zuh0kaKCLv6P) | [Junior Klan](https://open.spotify.com/artist/38nF3ZyCqorhu0SaQ7yMqI) | [Exitos, Vol\. 1](https://open.spotify.com/album/7jeKLx1cNUzdOLZdH8iEn1) | 2:42 |
 | 46 | [Amigos Nunca](https://open.spotify.com/track/3I0UsenRbVz54ypUDOfzGW) | [Los Askis](https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi) | [Pasión Y Cumbia](https://open.spotify.com/album/6DPWLpcFLqrD50JfN6NOk1) | 3:06 |
 | 47 | [Conga Y Timbal](https://open.spotify.com/track/7hEGGwLjfVZ83avJgpt4Fc) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Conga Y Timbal](https://open.spotify.com/album/5Lzi3hgh55BuQEj1RsD2VO) | 3:39 |
 | 48 | [Mariana](https://open.spotify.com/track/4xFjlFkQ4zrPKGhCwe6vNW) | [Grupo Fragancia](https://open.spotify.com/artist/0rWMayP5qWv4dno1JFiwtj) | [Los Mejores Hits del Ano](https://open.spotify.com/album/60kUtdHaTgEfTFESmWUlcV) | 3:17 |
@@ -73,12 +73,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSJhvEbMTwW6.md) - [plain]
 | 63 | [El Llanto de los Luceros \- El Llanto de los Sapos](https://open.spotify.com/track/0jBgtBnsHtxhp6SywuTfrc) | [Grupo Mijez](https://open.spotify.com/artist/6bnOv0WLGRT8DDzbhH3pWF) | [El Sabor de la Cumbia Mexicana](https://open.spotify.com/album/2MivNgaOLUJ6AiscB6WpvM) | 3:49 |
 | 64 | [Me Vas A Recordar](https://open.spotify.com/track/4C2vKZ0tciewPr6RrYZ4QD) | [Los Angeles De Charly](https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR) | [La Magia Del Amor](https://open.spotify.com/album/5a8Au4FTsdvCWYV5OnkjzN) | 3:00 |
 | 65 | [La Cumbia Del Garrote](https://open.spotify.com/track/7vDcNALsOZtB6dEuQFLYBY) | [Los Del Garrote](https://open.spotify.com/artist/3Ee2idXHXSI5KHjrRelgOx) | [Los Del Garrote](https://open.spotify.com/album/4dlaQcldX1rZfJGxTj75KX) | 3:17 |
-| 66 | [El Verde De Tus Ojos \- Remix](https://open.spotify.com/track/1Nl4EXAxSulKlbiro793i4) | [Los Yes Yes](https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q) | [Trayectoria](https://open.spotify.com/album/0YtGKnOCOt9IYnHDsuJwQt) | 5:15 |
-| 67 | [¡Ay! El Amor](https://open.spotify.com/track/1qwxoareNYzR62kM9iK9Ww) | [Los Askis](https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi) | [Amor Andino](https://open.spotify.com/album/0UtZKdJlBaxmdAUNaAm7r8) | 3:33 |
+| 66 | [¡Ay! El Amor](https://open.spotify.com/track/1qwxoareNYzR62kM9iK9Ww) | [Los Askis](https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi) | [Amor Andino](https://open.spotify.com/album/0UtZKdJlBaxmdAUNaAm7r8) | 3:33 |
+| 67 | [El Verde De Tus Ojos \- Remix](https://open.spotify.com/track/1Nl4EXAxSulKlbiro793i4) | [Los Yes Yes](https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q) | [Trayectoria](https://open.spotify.com/album/0YtGKnOCOt9IYnHDsuJwQt) | 5:15 |
 | 68 | [Estupido](https://open.spotify.com/track/1hA3c7Rf0oLHFNR4ZVL030) | [Los Papis RA7](https://open.spotify.com/artist/1y7GWTEfMzxafQ4mL0uZpq) | [Tonto Cariño](https://open.spotify.com/album/1jsyIp7OFTpIHDkKXl0kgS) | 4:59 |
 | 69 | [Vuelvo A Sentir](https://open.spotify.com/track/57geo0JlbDLKhVjDWk7DD2) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [Hasta El Cielo Lloro](https://open.spotify.com/album/1EUGz53vDq644pH9x97RqT) | 5:27 |
-| 70 | [Cosas Bonitas](https://open.spotify.com/track/75VDWiZEfAt3dL49kASgvi) | [Grupo Maravilla](https://open.spotify.com/artist/0Ur2HPuhb0mRnXFPOsCFB7) | [De Reventon](https://open.spotify.com/album/4qzxNsbEaoBc4M2ZFEyFoU) | 4:14 |
-| 71 | [Nunca Pense Llorar](https://open.spotify.com/track/3oXF0sRycbyJUDRd5BqTUw) | [Rossy War y Su Banda Kaliente](https://open.spotify.com/artist/04laTTTa6l3hNn8a1EG7UQ) | [Como un Dulce Poema, Vol\. 3](https://open.spotify.com/album/0XdMiGlG64yiq2Np190XbY) | 4:09 |
+| 70 | [Nunca Pense Llorar](https://open.spotify.com/track/3oXF0sRycbyJUDRd5BqTUw) | [Rossy War y Su Banda Kaliente](https://open.spotify.com/artist/04laTTTa6l3hNn8a1EG7UQ) | [Como un Dulce Poema, Vol\. 3](https://open.spotify.com/album/0XdMiGlG64yiq2Np190XbY) | 4:09 |
+| 71 | [Cosas Bonitas](https://open.spotify.com/track/75VDWiZEfAt3dL49kASgvi) | [Grupo Maravilla](https://open.spotify.com/artist/0Ur2HPuhb0mRnXFPOsCFB7) | [De Reventon](https://open.spotify.com/album/4qzxNsbEaoBc4M2ZFEyFoU) | 4:14 |
 | 72 | [Amor Añejo](https://open.spotify.com/track/1H1kbmFt0EExo2dRPjZjCL) | [Internacional Carro Show](https://open.spotify.com/artist/7xOvjCKtJ2rjrclwvqZXqt) | [Las Viejas Mas Bailadas](https://open.spotify.com/album/6Q6fb0PsCRX0n0ufBmdxET) | 3:05 |
 | 73 | [Llorando Se Fue "Lambada"](https://open.spotify.com/track/2X5nEYIzulPNs3abgszxXH) | [Cuarteto Continental de Alberto Maraví](https://open.spotify.com/artist/22YXWmEIyYQ4UL4j4QsHyq) | [El Auténtico e Imbatible](https://open.spotify.com/album/2wNHVSeBDQLAl1WT8tBw62) | 3:28 |
 | 74 | [Desvelo](https://open.spotify.com/track/1PQx9MPARk2DWTxAc1i8bG) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Desvelo](https://open.spotify.com/album/18PmOgLMJbv3lT5wqueTrU) | 3:31 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSJhvEbMTwW6.md) - [plain]
 | 93 | [La Princesa Talibana](https://open.spotify.com/track/7B7WVfPyjkowmWCvb1SXxd) | [Grupo G](https://open.spotify.com/artist/4zKNSiS1LD7OT0z3hTqRE8) | [Para Qué Llorar](https://open.spotify.com/album/1z50aUk8ypdjqTzqxuQ0ig) | 3:18 |
 | 94 | [Cumbia de los Pajaritos](https://open.spotify.com/track/0fNwZHd0wq3eQEOppEqUEG) | [Los Mirlos](https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh) | [Cumbias Chichadelicas: Peruvian Psychedelic Chicha](https://open.spotify.com/album/1YCdKn5y7C99mM2sb3QTlo) | 2:51 |
 | 95 | [He Creído](https://open.spotify.com/track/0VOPCehPHWW9El3rHVsNmJ) | [Los Llayras](https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz) | [20 Cumbias Andinas](https://open.spotify.com/album/5Jus6DesLl1qcvuVhlZ86R) | 4:24 |
-| 96 | [Eres](https://open.spotify.com/track/1OeKx8ya9DRQBWKJmlRFJp) | [Los Extraños](https://open.spotify.com/artist/4o42b77fvOMfJGnDVo8aWK) | [Sigueme](https://open.spotify.com/album/1gWllGhiiVZRYJ3OXqMrOw) | 3:22 |
-| 97 | [Traicion Y Olvido](https://open.spotify.com/track/0Wwi4wK5m9CDxzDcqYFY7A) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [No Mientas Mas](https://open.spotify.com/album/0QhW8Dh9oguR6NzoK2GmuB) | 4:00 |
+| 96 | [Traicion Y Olvido](https://open.spotify.com/track/0Wwi4wK5m9CDxzDcqYFY7A) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [No Mientas Mas](https://open.spotify.com/album/0QhW8Dh9oguR6NzoK2GmuB) | 4:00 |
+| 97 | [Eres](https://open.spotify.com/track/1OeKx8ya9DRQBWKJmlRFJp) | [Los Extraños](https://open.spotify.com/artist/4o42b77fvOMfJGnDVo8aWK) | [Sigueme](https://open.spotify.com/album/1gWllGhiiVZRYJ3OXqMrOw) | 3:22 |
 | 98 | [Culpable O No](https://open.spotify.com/track/7pFkCMjIYl91V7oRIo0Sat) | [Los Byby's](https://open.spotify.com/artist/3CmqbJaTL0hrMiYfY0ssiN) | [Cumbias Con Amor](https://open.spotify.com/album/5GebqosGDuhpy9unAu9nvN) | 3:28 |
 | 99 | [El Fantasma del Amor](https://open.spotify.com/track/2P0CVPl7JUmoKOXSFoL2wH) | [Grupo Ternura Dinastia Toxqui](https://open.spotify.com/artist/6zgNAWCeLAvNWLasnMi2oZ) | [El Fantasma del Amor](https://open.spotify.com/album/10uRdZo4A5BxPHERGzd2jZ) | 4:13 |
 | 100 | [Lagrimas de Escarcha](https://open.spotify.com/track/4rRX8M117ii4lulb7Iw379) | [Tiberio Y Sus Gatos Negros](https://open.spotify.com/artist/6a5iqJmvklikJ2kUIl2xl1) | [Los Exitos de Tiberio y Sus Gatos Negros](https://open.spotify.com/album/2zUls9Mq7XLfndfTtKeynj) | 3:44 |
 
-Snapshot ID: `MTY1NDY0MzQ5MiwwMDAwMDAwMGVjODg4Mzc4ZDQ0NjY2ZGI5NjZhZjIzMTMwZDMxODMz`
+Snapshot ID: `MTY1NDY0MzQ5MiwwMDAwMDAwMDAyNzVjN2JjNzJkMDgxMzY2ZjEwODg5YTU1YWVmZTU4`

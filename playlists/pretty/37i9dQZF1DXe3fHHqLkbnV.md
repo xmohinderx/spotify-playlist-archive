@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe3fHHqLkbnV.md) - [plain]
 
 > The best soft rock from the 1990s\. Cover: Bryan Adams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,910 likes - 80 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,236 likes - 80 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe3fHHqLkbnV.md) - [plain]
 | 37 | [She Talks To Angels](https://open.spotify.com/track/5NK8jad728pj6YeqM5VJD4) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [Shake Your Money Maker](https://open.spotify.com/album/2NRRQLuW6j3EsoWpIl2MR3) | 5:29 |
 | 38 | [To Be With You \- 2010 Remastered Version](https://open.spotify.com/track/3Mmt6Xk0H6VR92PEp6x3hP) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Lean Into It \[Expanded\]](https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ) | 3:30 |
 | 39 | [Jumper \- 1998 Edit](https://open.spotify.com/track/3354J49VpkbZJho7Ztdzpw) | [Third Eye Blind](https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS) | [Third Eye Blind](https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ) | 4:32 |
-| 40 | ['74\-'75](https://open.spotify.com/track/2MAVcVr2oylw2OZ3hojWYj) | [The Connells](https://open.spotify.com/artist/3zAhmxuw1F3HmulPuy1RAb) | [Ring](https://open.spotify.com/album/41aJgAReVkh1pA0aKAvT4W) | 4:38 |
-| 41 | [Mmm Mmm Mmm Mmm](https://open.spotify.com/track/31v2AQlx4pDI7kmnLxBkem) | [Crash Test Dummies](https://open.spotify.com/artist/1YEGETLT2p8k97LIo3deHL) | [God Shuffled His Feet](https://open.spotify.com/album/03dlqdFWY9gwJxGl3AREVy) | 3:55 |
+| 40 | [Mmm Mmm Mmm Mmm](https://open.spotify.com/track/31v2AQlx4pDI7kmnLxBkem) | [Crash Test Dummies](https://open.spotify.com/artist/1YEGETLT2p8k97LIo3deHL) | [God Shuffled His Feet](https://open.spotify.com/album/03dlqdFWY9gwJxGl3AREVy) | 3:55 |
+| 41 | ['74\-'75](https://open.spotify.com/track/2MAVcVr2oylw2OZ3hojWYj) | [The Connells](https://open.spotify.com/artist/3zAhmxuw1F3HmulPuy1RAb) | [Ring](https://open.spotify.com/album/41aJgAReVkh1pA0aKAvT4W) | 4:38 |
 | 42 | [If You Could Only See](https://open.spotify.com/track/4KoNBTm9a55KgLMtEaf3n6) | [Tonic](https://open.spotify.com/artist/6qXwLwTLdA44HYsA26vaNU) | [Lemon Parade](https://open.spotify.com/album/6IQxEwIABLLej0bEYdrB0V) | 4:21 |
 | 43 | [Save Tonight](https://open.spotify.com/track/1t2Hq2WIBcZINOEnK6mdJG) | [Eagle\-Eye Cherry](https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe) | [Desireless](https://open.spotify.com/album/3P2WRy9eBoBbSTCZWGQOoO) | 3:59 |
 | 44 | [One Of Us \- Short Version](https://open.spotify.com/track/39aRmixB9qNtCU2t8BmsC1) | [Joan Osborne](https://open.spotify.com/artist/0djV4iaxhNfYWpH60ia85o) | [The Best Of Joan Osborne 20th Century Masters The Millennium Collection](https://open.spotify.com/album/2QXG7PMDNdAOangkVnV4Kc) | 5:02 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe3fHHqLkbnV.md) - [plain]
 | 76 | [Cloud Number Nine](https://open.spotify.com/track/1sdz3nsrkX4Yo42KLPrmYV) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [On A Day Like Today](https://open.spotify.com/album/1xF1nKu3UL84l7CofB4QBV) | 3:45 |
 | 77 | [My Favorite Mistake](https://open.spotify.com/track/1LAW7bK2NUJfrnmy2KRCs3) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [The Globe Sessions](https://open.spotify.com/album/08enrSAkHTYkQwhRlKXQgB) | 4:05 |
 | 78 | [Lucky Man](https://open.spotify.com/track/0bw1li9y32rw40HGodRShs) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Urban Hymns \(Remastered 2016\)](https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD) | 4:53 |
-| 79 | [Spaceman](https://open.spotify.com/track/2AiUFAeAsSR9lcpGxdc2Sj) | [4 Non Blondes](https://open.spotify.com/artist/0Je74SitssvJg1w4Ra2EK7) | [Bigger, Better, Faster, More !](https://open.spotify.com/album/2P8M5eo4zWFD0JJtH4D0iA) | 3:40 |
-| 80 | [Just the Way It Is, Baby](https://open.spotify.com/track/35keiknicSk7ZiEl1Wa4Hg) | [The Rembrandts](https://open.spotify.com/artist/0gDg7FEsF4Y1jWddJJgcn4) | [The Rembrandts](https://open.spotify.com/album/7F6tDLnY17vgTeXEMt024V) | 4:03 |
+| 79 | [Just the Way It Is, Baby](https://open.spotify.com/track/35keiknicSk7ZiEl1Wa4Hg) | [The Rembrandts](https://open.spotify.com/artist/0gDg7FEsF4Y1jWddJJgcn4) | [The Rembrandts](https://open.spotify.com/album/7F6tDLnY17vgTeXEMt024V) | 4:03 |
+| 80 | [Spaceman](https://open.spotify.com/track/2AiUFAeAsSR9lcpGxdc2Sj) | [4 Non Blondes](https://open.spotify.com/artist/0Je74SitssvJg1w4Ra2EK7) | [Bigger, Better, Faster, More !](https://open.spotify.com/album/2P8M5eo4zWFD0JJtH4D0iA) | 3:40 |
 
-Snapshot ID: `MTY1NDcyMDc4NywwMDAwMDAwMGFkOTQxZWQ4YjY0NmMyYTJmNDU3OTA2ZDQ0MzY3YmE5`
+Snapshot ID: `MTY1NDcyMDc4NywwMDAwMDAwMDg4NjkwNjQ5ZGM5NjliMjYzMDY5MDc5ZTdiNTMyMWE3`

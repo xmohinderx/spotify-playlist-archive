@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JIytk.md) - [plain]
 
 > This is Anti\-Flag\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,333 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,346 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JIytk.md) - [plain]
 | 3 | [Turncoat](https://open.spotify.com/track/3HA8pLvjBGoBpDJbaLjFNo) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The Terror State](https://open.spotify.com/album/1GHpqoqOxKzUBpHeUcWShP) | 2:10 |
 | 4 | [The Disease](https://open.spotify.com/track/7rPQyZgkxzLHAUQhYl29aX) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [20/20 Vision](https://open.spotify.com/album/6e4jOwPyT9Xp9fy9nzuXDS) | 2:55 |
 | 5 | [The Press Corpse](https://open.spotify.com/track/0mzqrv0bY7d5ECDfsRMUpf) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [For Blood And Empire](https://open.spotify.com/album/3B3gJszXnaDZMz8YVRZ1J2) | 3:20 |
-| 6 | [THE FIGHT OF OUR LIVES \(feat\. Tim McIlrath of Rise Against & Brian Baker of Bad Religion\)](https://open.spotify.com/track/1TZDfrtzmN70FKKeCcrwxT) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [Tim McIlrath](https://open.spotify.com/artist/1ha9OccsctLTOMCFWTpC9Z), [Brian Baker](https://open.spotify.com/artist/6iIkHyTPwf0OrLGibZxT8Q) | [THE FIGHT OF OUR LIVES \(feat\. Tim McIlrath of Rise Against & Brian Baker of Bad Religion\)](https://open.spotify.com/album/52O9xBWemqkJRPWK3mDdCP) | 2:52 |
-| 7 | [Broken Bones](https://open.spotify.com/track/3F3WJuZLS5I5aOcQLCbMGK) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The General Strike](https://open.spotify.com/album/406J0Oguq0uZBtJmsc5juw) | 3:01 |
+| 6 | [Broken Bones](https://open.spotify.com/track/3F3WJuZLS5I5aOcQLCbMGK) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The General Strike](https://open.spotify.com/album/406J0Oguq0uZBtJmsc5juw) | 3:01 |
+| 7 | [THE FIGHT OF OUR LIVES \(feat\. Tim McIlrath of Rise Against & Brian Baker of Bad Religion\)](https://open.spotify.com/track/1TZDfrtzmN70FKKeCcrwxT) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [Tim McIlrath](https://open.spotify.com/artist/1ha9OccsctLTOMCFWTpC9Z), [Brian Baker](https://open.spotify.com/artist/6iIkHyTPwf0OrLGibZxT8Q) | [THE FIGHT OF OUR LIVES \(feat\. Tim McIlrath of Rise Against & Brian Baker of Bad Religion\)](https://open.spotify.com/album/52O9xBWemqkJRPWK3mDdCP) | 2:52 |
 | 8 | [Hate Conquers All](https://open.spotify.com/track/6LnIBfJxftCiHM2mJ1iUfH) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [20/20 Vision](https://open.spotify.com/album/6e4jOwPyT9Xp9fy9nzuXDS) | 2:46 |
 | 9 | [I'd Tell You But...](https://open.spotify.com/track/1iZKML1ki9knISenUIzXpM) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [For Blood And Empire](https://open.spotify.com/album/3B3gJszXnaDZMz8YVRZ1J2) | 2:10 |
 | 10 | [LAUGH\. CRY\. SMILE\. DIE\. \(feat\. Shane Told of Silverstein\)](https://open.spotify.com/track/3ksWMAOiMobIucBbEGuHW3) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [Shane Told](https://open.spotify.com/artist/04Pv8STObLiJIKEm72YDPY) | [LAUGH\. CRY\. SMILE\. DIE\. \(feat\. Shane Told of Silverstein\)](https://open.spotify.com/album/2NgWggKqJHxlvzLkMrbhOP) | 3:04 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JIytk.md) - [plain]
 | 46 | [Tearing Everyone Down](https://open.spotify.com/track/4Y8ZO4vKghbTlKFi5Fx547) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [A New Kind of Army](https://open.spotify.com/album/1Y0Z1edYpuumeeELWdseMv) | 2:55 |
 | 47 | [Bring out Your Dead](https://open.spotify.com/track/1QD2adVcChL5WjGmsWhoJ9) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Underground Network](https://open.spotify.com/album/0b1MZPPx0PqnAs6oiYPUpg) | 2:14 |
 | 48 | [Operation Iraqi Liberation \(O.I.L.\)](https://open.spotify.com/track/562GAKPuDKUwDlL48VUGAp) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The Terror State](https://open.spotify.com/album/1GHpqoqOxKzUBpHeUcWShP) | 2:21 |
-| 49 | [You'd Do the Same](https://open.spotify.com/track/6XmmqYxSC4faXhsrsXqUKs) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Die for the Government](https://open.spotify.com/album/5q8xABjtqtUm4ItxT51NQP) | 2:21 |
-| 50 | [The Bright Lights Of America](https://open.spotify.com/track/3JPn3zbQCX3n6BPdjnUjr3) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The Bright Lights Of America](https://open.spotify.com/album/2hwtSBt2qoIEJgIkUbhfcQ) | 3:32 |
+| 49 | [The Bright Lights Of America](https://open.spotify.com/track/3JPn3zbQCX3n6BPdjnUjr3) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The Bright Lights Of America](https://open.spotify.com/album/2hwtSBt2qoIEJgIkUbhfcQ) | 3:32 |
+| 50 | [You'd Do the Same](https://open.spotify.com/track/6XmmqYxSC4faXhsrsXqUKs) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Die for the Government](https://open.spotify.com/album/5q8xABjtqtUm4ItxT51NQP) | 2:21 |
 
-Snapshot ID: `Mjc3MjIyMzMsMDAwMDAwMDBiMDIyZGZhYzEyNDM0OGRjZjk2ZDI1Zjg2NzUzOWQ1ZQ==`
+Snapshot ID: `Mjc3MjM2OTIsMDAwMDAwMDAwYjgyMGMyMzY0Y2VjZGY4MmI3MzFmZTdlOWEyMDI0OA==`

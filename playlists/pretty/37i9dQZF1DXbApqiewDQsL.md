@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 
 > The songs and collaborations pushing the Mexican sound to a global level\. Cover: Piso 21 & Carin Leon
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,194 likes - 57 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,442 likes - 57 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 | 39 | [Fino Licor \- Feat\. Piso 21](https://open.spotify.com/track/64fVcCq6n2uN8HOq88uEph) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Fino Licor \(Feat\. Piso 21\)](https://open.spotify.com/album/0vxaR9TSxiPpFCUW703vFO) | 3:13 |
 | 40 | [Billetes de 100](https://open.spotify.com/track/7wUFaxBGcFTME9OJKJqvLu) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [LVV the Real Rondon](https://open.spotify.com/album/790bSD1HVSOob9fVklUzQR) | 3:28 |
 | 41 | [Qué Maldición \- Remix](https://open.spotify.com/track/0SWfXjPmLSUydYzwK9ct9F) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Qué Maldición \(Remix\)](https://open.spotify.com/album/4dQqCFHI3jRAdCWJHZ2n1L) | 3:44 |
-| 42 | [Enfermo de Riqueza](https://open.spotify.com/track/0sS3OIqLs2RcccCyR71h6s) | [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [Enfermo de Riqueza](https://open.spotify.com/album/24l98xY35ZOq2Lwn8dU0Wr) | 3:54 |
-| 43 | [100 Años \- Con Calibre 50](https://open.spotify.com/track/5CxyOGC6zPaZ190hXuH5FO) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [100 Años \(Con Calibre 50\)](https://open.spotify.com/album/0EHD1gdUFjhkeQkJVuLZQa) | 3:35 |
+| 42 | [100 Años \- Con Calibre 50](https://open.spotify.com/track/5CxyOGC6zPaZ190hXuH5FO) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [100 Años \(Con Calibre 50\)](https://open.spotify.com/album/0EHD1gdUFjhkeQkJVuLZQa) | 3:35 |
+| 43 | [Enfermo de Riqueza](https://open.spotify.com/track/0sS3OIqLs2RcccCyR71h6s) | [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [Enfermo de Riqueza](https://open.spotify.com/album/24l98xY35ZOq2Lwn8dU0Wr) | 3:54 |
 | 44 | [Conozco La Calle](https://open.spotify.com/track/5ImiC67NzaBXSUXZjN1CSX) | [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Conozco La Calle](https://open.spotify.com/album/4iciGlmDQeaior7njVNFwH) | 2:20 |
 | 45 | [Crónicas de un Gallo](https://open.spotify.com/track/6YPczk6I8RRCjIcJ9I7p8y) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Las 3 Torres](https://open.spotify.com/album/2JC96lAWIMYId0no3JwmxI) | 3:22 |
 | 46 | [Dos Uno Nueve \(219\)](https://open.spotify.com/track/4h4Yy4DUZw0NkivxwBHM32) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Apolonio](https://open.spotify.com/album/7HlxxaJOHK0ArY4Ae4Qfc7) | 3:07 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 | 56 | [No Hay Pedo](https://open.spotify.com/track/7FMa8CKN1im2uXR9bArJvX) | [Grupo Sigma](https://open.spotify.com/artist/0vUz4dhz7qB3FS6ShK0e4j), [Joey Montana](https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX) | [No Hay Pedo](https://open.spotify.com/album/5o7CtNJewla3ScdV8RrePn) | 3:03 |
 | 57 | [Cómo Duele el Silencio \(feat\. Luis Coronel\) \- Banda Version](https://open.spotify.com/track/1qclsFzzplrtjZMXFrDaDM) | [Leslie Grace](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc), [Luis Coronel](https://open.spotify.com/artist/5DlVR9AUTrBgXWN4wiy5aL), [Adolfo Valenzuela](https://open.spotify.com/artist/2vpjdguqL8ArFWntZBcjK4) | [Cómo Duele el Silencio \(feat\. Luis Coronel\) \[Banda Version\]](https://open.spotify.com/album/1Os8kNHTAwUmYcOFyjOkCv) | 3:05 |
 
-Snapshot ID: `MTY2MzMwMDg2MCwwMDAwMDAwMGI3YzdjMTNlNTAzYjQ0YjVhNzc0NWNhZDJlZWU2MGY5`
+Snapshot ID: `MTY2MzMwMDg2MCwwMDAwMDAwMGZiZTdkMGY2ZGI5MTAxMmQzN2JkNjc0ZmNmMWNiMzQ3`

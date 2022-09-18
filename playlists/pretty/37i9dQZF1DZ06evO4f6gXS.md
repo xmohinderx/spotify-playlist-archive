@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4f6gXS.md) - [plain]
 
 > This is The Jones Girls\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,676 likes - 48 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,679 likes - 48 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4f6gXS.md) - [plain]
 | 47 | [Is It True?](https://open.spotify.com/track/2P3rUI2tEIlBo5YXcGrOuf) | [Anthony Drakes](https://open.spotify.com/artist/7scqOO2KeUpRRATOM9Fiza), [Emmanuel](https://open.spotify.com/artist/5YBzrGR5OgC9pU4Dl5eU8o), [Chris Ballin](https://open.spotify.com/artist/3vvndZpMaAWWxXcY3fxK0W), [Dean Edwards](https://open.spotify.com/artist/6r4TeQ52Om1xWryPSGW4tI), [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh), [Julianne](https://open.spotify.com/artist/0ZEOoQA1tnEAnEbObq8YIR), [The Sound Principle](https://open.spotify.com/artist/6vBm0kFy8xndqPZRY8zpYw), [Richard Anthony Davis](https://open.spotify.com/artist/57GGn7SfCgpiKA9mabkPsL) | [Soul Central, Vol\. 1](https://open.spotify.com/album/4oXW0hCOrPBqaKPFAViRya) | 5:01 |
 | 48 | [Where Is Your Love](https://open.spotify.com/track/3QIwoc5zELFOJGSiLrnE3r) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Coming Back](https://open.spotify.com/album/2QtczsoYJCTWMXKo3221tY) | 4:57 |
 
-Snapshot ID: `Mjc3MjIyMzMsMDAwMDAwMDBkMTBlNmEwOWYxYWYzZjlkZTMxZjk5NTEwZjMxOGNmNA==`
+Snapshot ID: `Mjc3MjM2OTMsMDAwMDAwMDBiMzRiMTg5ZWVjZWQyZmNjNmQwMTE1N2UwOTljZDRmZQ==`

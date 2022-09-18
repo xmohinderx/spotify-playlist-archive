@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYwvYt.md) - [plain]
 
 > This is De Saloon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,677 likes - 45 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,682 likes - 45 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYwvYt.md) - [plain]
 | 44 | [Solo el Sol \- Remix](https://open.spotify.com/track/3TBTVJRElT9eO7WXcj2HMN) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Solo el Sol \(Remix\)](https://open.spotify.com/album/14fNTy68j4YcrIjk2aV6RN) | 6:18 |
 | 45 | [Que pena siente el alma](https://open.spotify.com/track/62QHlRTwHX7cocYq2F4cIg) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Después De Vivir Un Siglo](https://open.spotify.com/album/2YnqGvMaZ81fgdiYUrYPzN) | 4:14 |
 
-Snapshot ID: `Mjc3MjIyMzMsMDAwMDAwMDBlNmI0YzBmNDE4Mjc4MTJlZTI5OTU5ZWY0OTA3YWZiZQ==`
+Snapshot ID: `Mjc3MjM2OTIsMDAwMDAwMDBmNzhkODJmOTJmOGM2NWQ2OTk1ZmVkZTExMzc2YjA0Mg==`

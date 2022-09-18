@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > De playlist voor magic, motion en good vibes! Cover: WizKid
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,081 likes - 61 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,121 likes - 61 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

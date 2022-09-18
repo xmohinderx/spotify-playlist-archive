@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnMiSD7sWFC.md) - [plain]
 
 > your guide for a peaceful night.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,665 likes - 80 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,742 likes - 80 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnMiSD7sWFC.md) - [plain]
 | 43 | [Sugar Baby](https://open.spotify.com/track/2azVRgjUiKxEoUn9loNAFO) | [Sam Amidon](https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4) | [All Is Well](https://open.spotify.com/album/21MiDyKUukfBWOtMeZa7Ul) | 5:24 |
 | 44 | [El Invento](https://open.spotify.com/track/23CYKO5L1wUGng3TL37fq0) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Local Valley](https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m) | 2:33 |
 | 45 | [Rest \(Acoustic\)](https://open.spotify.com/track/54zNVHj8N3wjCb4UpqSvKw) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Rest](https://open.spotify.com/album/1sZm9pYhNz5WGEZEOeISzr) | 5:19 |
-| 46 | [Horizon](https://open.spotify.com/track/0YZzt5PD7o4pS0wNzV6bNT) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Party](https://open.spotify.com/album/6wPvhV9G6irAbzpLCADP3K) | 4:09 |
-| 47 | [The Wave](https://open.spotify.com/track/71Cqtvc1JltT8qRnnDd0RY) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [Waysides](https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri) | 3:45 |
+| 46 | [The Wave](https://open.spotify.com/track/71Cqtvc1JltT8qRnnDd0RY) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [Waysides](https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri) | 3:45 |
+| 47 | [Horizon](https://open.spotify.com/track/0YZzt5PD7o4pS0wNzV6bNT) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Party](https://open.spotify.com/album/6wPvhV9G6irAbzpLCADP3K) | 4:09 |
 | 48 | [Woodpecker](https://open.spotify.com/track/0D5YcW57alDCPA6XQwwKcZ) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [Big Bend \(An Original Soundtrack for Public Television\)](https://open.spotify.com/album/7w3BcToSqLYL2z3HOgMWwv) | 2:05 |
 | 49 | [Waiting](https://open.spotify.com/track/5vnEI7lOTPqulXqBuV7o3w) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Waiting](https://open.spotify.com/album/1mtoKw1qiU13YdQkz5vgEe) | 3:32 |
 | 50 | [Blindsided](https://open.spotify.com/track/0lPCROErEeqqqzwRMMXJHR) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [True Love](https://open.spotify.com/album/1rUuIrTj6F1PHo3v9Vlbl6) | 3:42 |
@@ -71,22 +71,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnMiSD7sWFC.md) - [plain]
 | 61 | [Montana](https://open.spotify.com/track/3hcmDRD8Nz9aX9TqDMUy4b) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Moveys](https://open.spotify.com/album/5C66ZV77hQsUlhSIYJYcar) | 3:20 |
 | 62 | [Thrift Store](https://open.spotify.com/track/73sQ8REIBnQfqg6ZHAgfoz) | [Bowerbirds](https://open.spotify.com/artist/4MoGkOmfK6oKi1Isc8Iv9m) | [Endless Chase: 2020 Singles](https://open.spotify.com/album/3Bwkxb1PPKKBK9ZRpBhsZ9) | 3:22 |
 | 63 | [Tupperware](https://open.spotify.com/track/4NJb1w94F475aQXXE07I5N) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [Make Peace with That](https://open.spotify.com/album/69KtzbWEQ6c6bS7VkJBoRe) | 3:06 |
-| 64 | [New Auburn \(feat\. Anaïs Mitchell\)](https://open.spotify.com/track/3CGuLclpNF2xFTOoONWmQX) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 3:24 |
-| 65 | [You're Smiling \(But I Don't Believe You\)](https://open.spotify.com/track/7ajY0y3joEbeL1gZW4ujmR) | [Margaret Glaspy](https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb) | [If & When](https://open.spotify.com/album/39VHhQwmza9iT3K3PuNHSU) | 3:33 |
-| 66 | [Something To Believe In](https://open.spotify.com/track/79NCNvyJMKSCVSGQZjSLf4) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Who Are You Now](https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy) | 3:57 |
-| 67 | [I Can Go With You](https://open.spotify.com/track/2PRTaVpNOOIQSKuOqbjfSX) | [Sam Burton](https://open.spotify.com/artist/38uF92nRI3YmOAeocf4D6J) | [I Can Go With You](https://open.spotify.com/album/5CgAtDCY8HxQ0eyt4RQQCj) | 3:36 |
-| 68 | [Air Forces](https://open.spotify.com/track/0FoUOS7ExFM2FmEuyGBxOP) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [When Smoke Rises](https://open.spotify.com/album/0iPWPiOsdGaWgcy9RMpvXw) | 3:09 |
-| 69 | [Awake for the Sunrise](https://open.spotify.com/track/6f8Z7xDKhliHAqWpoFdYXr) | [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [Head of Roses](https://open.spotify.com/album/3GQfoIqcz1eNgQXsPkzVk0) | 3:58 |
-| 70 | [Hypochondriac \- acoustic](https://open.spotify.com/track/1voad61aPwZdcwGy4UV3dl) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [BREECH \(acoustic\)](https://open.spotify.com/album/2z0LnLC80s7cJDEYlcwWjO) | 3:30 |
-| 71 | [Shine](https://open.spotify.com/track/5ouMWwTXJfgTOiCvz6fbFX) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [Clouds](https://open.spotify.com/album/3pg8vVz9dDzYdfQxgT9MCP) | 3:31 |
-| 72 | [What It Means to Be Human](https://open.spotify.com/track/0EVKjOkZaDzPr5UAFyjfk8) | [Hayden Calnin](https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx) | [What It Means to Be Human](https://open.spotify.com/album/6M3PByvWK0RdJjRsJYO82q) | 4:35 |
-| 73 | [Colourblind](https://open.spotify.com/track/3OXgHuQZgk1uDyGuuTZwZo) | [Indigo Sparke](https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh) | [Echo](https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ) | 3:54 |
-| 74 | [Grow into Love](https://open.spotify.com/track/52AthVA2opex8NcLSwtO8n) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Seasons of Change](https://open.spotify.com/album/74fRgN21qhhAQv43mbCJFq) | 2:42 |
+| 64 | [Grow into Love](https://open.spotify.com/track/52AthVA2opex8NcLSwtO8n) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Seasons of Change](https://open.spotify.com/album/74fRgN21qhhAQv43mbCJFq) | 2:42 |
+| 65 | [New Auburn \(feat\. Anaïs Mitchell\)](https://open.spotify.com/track/3CGuLclpNF2xFTOoONWmQX) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 3:24 |
+| 66 | [You're Smiling \(But I Don't Believe You\)](https://open.spotify.com/track/7ajY0y3joEbeL1gZW4ujmR) | [Margaret Glaspy](https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb) | [If & When](https://open.spotify.com/album/39VHhQwmza9iT3K3PuNHSU) | 3:33 |
+| 67 | [Something To Believe In](https://open.spotify.com/track/79NCNvyJMKSCVSGQZjSLf4) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Who Are You Now](https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy) | 3:57 |
+| 68 | [I Can Go With You](https://open.spotify.com/track/2PRTaVpNOOIQSKuOqbjfSX) | [Sam Burton](https://open.spotify.com/artist/38uF92nRI3YmOAeocf4D6J) | [I Can Go With You](https://open.spotify.com/album/5CgAtDCY8HxQ0eyt4RQQCj) | 3:36 |
+| 69 | [Air Forces](https://open.spotify.com/track/0FoUOS7ExFM2FmEuyGBxOP) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [When Smoke Rises](https://open.spotify.com/album/0iPWPiOsdGaWgcy9RMpvXw) | 3:09 |
+| 70 | [Awake for the Sunrise](https://open.spotify.com/track/6f8Z7xDKhliHAqWpoFdYXr) | [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [Head of Roses](https://open.spotify.com/album/3GQfoIqcz1eNgQXsPkzVk0) | 3:58 |
+| 71 | [Hypochondriac \- acoustic](https://open.spotify.com/track/1voad61aPwZdcwGy4UV3dl) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [BREECH \(acoustic\)](https://open.spotify.com/album/2z0LnLC80s7cJDEYlcwWjO) | 3:30 |
+| 72 | [Shine](https://open.spotify.com/track/5ouMWwTXJfgTOiCvz6fbFX) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [Clouds](https://open.spotify.com/album/3pg8vVz9dDzYdfQxgT9MCP) | 3:31 |
+| 73 | [What It Means to Be Human](https://open.spotify.com/track/0EVKjOkZaDzPr5UAFyjfk8) | [Hayden Calnin](https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx) | [What It Means to Be Human](https://open.spotify.com/album/6M3PByvWK0RdJjRsJYO82q) | 4:35 |
+| 74 | [Colourblind](https://open.spotify.com/track/3OXgHuQZgk1uDyGuuTZwZo) | [Indigo Sparke](https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh) | [Echo](https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ) | 3:54 |
 | 75 | [Mint Condition](https://open.spotify.com/track/3k0YUWIovSt3e6BRsERRPA) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [Mint Condition](https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794) | 4:02 |
 | 76 | [Bed Head \- Acoustic](https://open.spotify.com/track/2d7DuVXlzYByepNPmQSejc) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [Bed Head \(Acoustic\)](https://open.spotify.com/album/51adUeflIsXW7VBLulUd3M) | 4:03 |
-| 77 | [Ocotillo](https://open.spotify.com/track/6YAHre8n87f7WZUkZOMJPK) | [Loma](https://open.spotify.com/artist/4oCcCzMjKNCjQTzxtVlOJT) | [Don't Shy Away](https://open.spotify.com/album/7noRk0kA8noaDwLS8xy5U4) | 4:50 |
-| 78 | [Seeing Things](https://open.spotify.com/track/4hbv9aipddzC45SYVXPc3K) | [Charlie Hickey](https://open.spotify.com/artist/4Ky0ZDJDfY7UBbTVYPyVKc) | [Count The Stairs](https://open.spotify.com/album/3SN77D9un4frOIHa3vbblM) | 3:34 |
+| 77 | [Seeing Things](https://open.spotify.com/track/4hbv9aipddzC45SYVXPc3K) | [Charlie Hickey](https://open.spotify.com/artist/4Ky0ZDJDfY7UBbTVYPyVKc) | [Count The Stairs](https://open.spotify.com/album/3SN77D9un4frOIHa3vbblM) | 3:34 |
+| 78 | [Ocotillo](https://open.spotify.com/track/6YAHre8n87f7WZUkZOMJPK) | [Loma](https://open.spotify.com/artist/4oCcCzMjKNCjQTzxtVlOJT) | [Don't Shy Away](https://open.spotify.com/album/7noRk0kA8noaDwLS8xy5U4) | 4:50 |
 | 79 | [Close My Eyes](https://open.spotify.com/track/3bU8rIEuatTa7XjHl4Sw8f) | [Arthur Russell](https://open.spotify.com/artist/3iJJD5v7oIFUevW4N5w5cj) | [Love Is Overtaking Me](https://open.spotify.com/album/02WH3YQOSzeEwwZK1jQWjX) | 2:33 |
 | 80 | [If You Call](https://open.spotify.com/track/7pzTko8DSWv5UfoxXQ7p93) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf), [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [If You Call](https://open.spotify.com/album/0OY4ylUoapLz9T0UAy2t8K) | 5:47 |
 
-Snapshot ID: `MTY0MjAxMDMwNCwwMDAwMDAwMDU1ZDUwZTZlNWU3MmVkY2QwMjY0YTAwMTgyOTU4MDVm`
+Snapshot ID: `MTY0MjAxMDMwNCwwMDAwMDAwMDFiMmM4MzM3NDA5ZmVlYTVlMTEwYzNkNDljYWZiZGM3`

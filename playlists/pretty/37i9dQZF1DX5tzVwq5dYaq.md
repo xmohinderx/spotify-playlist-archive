@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5tzVwq5dYaq.md) - [plain]
 
 > Musica che, come la primavera, rende tutto più bello.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,659 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,660 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5tzVwq5dYaq.md) - [plain]
 | 77 | [Be Alright](https://open.spotify.com/track/4r4aTOJc7K3iUIU3MEPw6I) | [Lola Rhodes](https://open.spotify.com/artist/6o0VAgvpfBjrUuDWjjQJ4O) | [Be Alright](https://open.spotify.com/album/58YyhehZ9ErbmrMbzNkPx4) | 3:00 |
 | 78 | [Stay With Me \(feat\. Jeremy Zucker\)](https://open.spotify.com/track/65Bynqyt59f3fojjs1Uo41) | [ayokay](https://open.spotify.com/artist/4BzCdhJTyTS3gumq9xmymb), [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [In the Shape of a Dream](https://open.spotify.com/album/7arFGGWl2p1FTC3LPTw7Dz) | 3:09 |
 | 79 | [New Soul](https://open.spotify.com/track/476JcJ3TpAuCOlGdCmomGm) | [Yael Naim](https://open.spotify.com/artist/32aFdXARUiqP81SXqIPD4w) | [Yael Naïm](https://open.spotify.com/album/6YuE6wbqwzvSHungRfuvk7) | 3:45 |
-| 80 | [Vivere Tutte Le Vite \- con Carl Brave](https://open.spotify.com/track/7l56nY7NMP1QDdWvRdJmmg) | [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23), [Carl Brave](https://open.spotify.com/artist/29nrwultxQ8jENVmXoyMqK) | [Diari Aperti](https://open.spotify.com/album/4MmmI8sqP83TZzmg0AyTae) | 3:40 |
-| 81 | [Ticket To Ride](https://open.spotify.com/track/4AGjD3R8ch6JmvDLAwFw7P) | [KAWALA](https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL) | [Ticket To Ride](https://open.spotify.com/album/12uAbTxdZt1fKkHZVx5iCq) | 3:02 |
+| 80 | [Ticket To Ride](https://open.spotify.com/track/4AGjD3R8ch6JmvDLAwFw7P) | [KAWALA](https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL) | [Ticket To Ride](https://open.spotify.com/album/12uAbTxdZt1fKkHZVx5iCq) | 3:02 |
+| 81 | [Vivere Tutte Le Vite \- con Carl Brave](https://open.spotify.com/track/7l56nY7NMP1QDdWvRdJmmg) | [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23), [Carl Brave](https://open.spotify.com/artist/29nrwultxQ8jENVmXoyMqK) | [Diari Aperti](https://open.spotify.com/album/4MmmI8sqP83TZzmg0AyTae) | 3:40 |
 | 82 | [Green Light \(Bossa Version\)](https://open.spotify.com/track/22YXs3a3c8c6mOqUvi4Z98) | [Rachelle Spring](https://open.spotify.com/artist/3LPPGZrVd6moExHlmR7zLr) | [Relaxing Bossa Lounge 4](https://open.spotify.com/album/7FsSg66ihkEh20WpiGN2wg) | 4:24 |
 | 83 | [5 Years Time](https://open.spotify.com/track/1KlDcHrlDPUJJPmMup3tUp) | [Noah And The Whale](https://open.spotify.com/artist/0aeLcja6hKzb7Uz2ou7ulP) | [Peaceful, The World Lays Me Down](https://open.spotify.com/album/4bzNinbJcnth182w03fSL2) | 3:34 |
 | 84 | [Pretty Girl \- Acoustic Version](https://open.spotify.com/track/4Q28TwldTqBGxYfyWaYPFL) | [Becca Adams](https://open.spotify.com/artist/40ip5fLaAm6psgM7bUiSGb) | [Pretty Girl \(Acoustic Version\)](https://open.spotify.com/album/3qbKaJJsSO5uuMcYPvKALk) | 3:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5tzVwq5dYaq.md) - [plain]
 | 99 | [Dynamite \- Acoustic Remix](https://open.spotify.com/track/083PvB3ID4h3jiGJ1GbbPA) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Dynamite \(DayTime Version\)](https://open.spotify.com/album/1Yo63a5AzPMyHiYMKYIrld) | 3:17 |
 | 100 | [Scars To Your Beautiful](https://open.spotify.com/track/19f6MVdX9dLFerHynoM5im) | [Thomas Daniel](https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk) | [Scars To Your Beautiful](https://open.spotify.com/album/7lwdqOUtzxHH7wxUHtFffj) | 3:57 |
 
-Snapshot ID: `MTYyNDYwNjgwMywwMDAwMDAwMDM3NjExMjRkODZlMDgwMGUwNTVhNzcwZjliODlmMmVl`
+Snapshot ID: `MTYyNDYwNjgwMywwMDAwMDAwMDZlODY3MjQ5NTNkNDEwOGIwMzg3ZGVhY2NkOTgxNzVi`

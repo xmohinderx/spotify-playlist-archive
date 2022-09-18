@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXh4ecan7Hh.md) - [plain]
 
 > County's best like you've never heard before\. Cover: Ingrid Andress
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,842 likes - 65 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,864 likes - 65 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXh4ecan7Hh.md) - [plain]
 | 12 | [Watermelon Sugar \(featuring Avenue Beat\)](https://open.spotify.com/track/6pPD1k342KK4fMU6xPHufi) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y), [Avenue Beat](https://open.spotify.com/artist/1htYtUdXVMwR6HCSs821Lc) | [Spotify Singles](https://open.spotify.com/album/3yPPJlOdCyJVVXR7z7BmFs) | 2:57 |
 | 13 | [Not Over You \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/5hS4YR5CkE6YF5sH0d9boA) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Spotify Singles](https://open.spotify.com/album/7boqvY24W5gfCDALsi4QD1) | 3:35 |
 | 14 | [All On Me \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7aq3BKKrM3luFfBuZso3U1) | [Devin Dawson](https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu) | [Spotify Singles](https://open.spotify.com/album/72JX0b36iIgjSHlhCSLHOv) | 3:31 |
-| 15 | [Bad At Love \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/1kTugNMVMbaQep1srMua2q) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Spotify Singles](https://open.spotify.com/album/0AwgzJZxt4sf2teqdEjxwV) | 3:01 |
-| 16 | [House Fire \(feat\. The Travelin' McCourys\)](https://open.spotify.com/track/0kD9ESXYhdNDYDDNq3MIjc) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV), [The Travelin' McCourys](https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I) | [Spotify Singles](https://open.spotify.com/album/2lUa80FmRYq0pYjGZiDWBD) | 3:34 |
+| 15 | [House Fire \(feat\. The Travelin' McCourys\)](https://open.spotify.com/track/0kD9ESXYhdNDYDDNq3MIjc) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV), [The Travelin' McCourys](https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I) | [Spotify Singles](https://open.spotify.com/album/2lUa80FmRYq0pYjGZiDWBD) | 3:34 |
+| 16 | [Bad At Love \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/1kTugNMVMbaQep1srMua2q) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Spotify Singles](https://open.spotify.com/album/0AwgzJZxt4sf2teqdEjxwV) | 3:01 |
 | 17 | [Castle On The Hill \- Recorded at Sound Stage Nashville](https://open.spotify.com/track/71R7NckyIlOd8fJzoZIJfR) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Spotify Singles](https://open.spotify.com/album/5txz8rm3pM2peZ3K8oPNd3) | 4:15 |
 | 18 | [Million Reasons \- Live Session at Sound Stage Studios, Nashville, TN](https://open.spotify.com/track/1tx3VJH2ThfGR0uYvcmkaK) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Spotify Singles](https://open.spotify.com/album/07y7Hurh5dieo9clbTBICi) | 3:14 |
 | 19 | [Tougher Than The Rest \- Recorded At Sound Stage Studios Nashville](https://open.spotify.com/track/76v3BntynHQflWb5ptBgV4) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Spotify Singles](https://open.spotify.com/album/0Oiwdbyxujtkla4K5a8ttt) | 3:52 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXh4ecan7Hh.md) - [plain]
 | 45 | [Blue Tacoma](https://open.spotify.com/track/4lUOnbLKhGz4ugezX8oUjl) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Spotify Singles](https://open.spotify.com/album/4uLh8clxnbNrZw9f2vz6mx) | 3:22 |
 | 46 | [Never Comin Down \- Recorded At Sound Stage Studios Nashville](https://open.spotify.com/track/3tucKgFqK4GbUCmQtHxnhA) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Spotify Singles](https://open.spotify.com/album/10hkWR17NEvncSn3w1sYPz) | 3:21 |
 | 47 | [Miss Me More \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/7oR9f1oXlG40AgSkwfxf3M) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Spotify Singles](https://open.spotify.com/album/0FbO77jrZy4CcXbtR0hqIE) | 3:13 |
-| 48 | [Burn Out \- Recorded At Sound Stage Studios Nashville](https://open.spotify.com/track/0wFyhPrMt4maLtWmLeG7lq) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Spotify Singles](https://open.spotify.com/album/0Oiwdbyxujtkla4K5a8ttt) | 3:04 |
-| 49 | [Better Place \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/61YvXZaJ3r5P0ZLSmSjQjU) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Spotify Singles](https://open.spotify.com/album/3Jee64Z2Wkkj9joT4qHT1l) | 4:15 |
+| 48 | [Better Place \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/61YvXZaJ3r5P0ZLSmSjQjU) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Spotify Singles](https://open.spotify.com/album/3Jee64Z2Wkkj9joT4qHT1l) | 4:15 |
+| 49 | [Burn Out \- Recorded At Sound Stage Studios Nashville](https://open.spotify.com/track/0wFyhPrMt4maLtWmLeG7lq) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Spotify Singles](https://open.spotify.com/album/0Oiwdbyxujtkla4K5a8ttt) | 3:04 |
 | 50 | [Unforgettable \- Recorded at Sound Stage Nashville](https://open.spotify.com/track/24VXXFM4abj8UwTNEIIL8L) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Spotify Singles](https://open.spotify.com/album/5txz8rm3pM2peZ3K8oPNd3) | 2:38 |
 | 51 | [Attention \- Recorded at Woodshed Recording Malibu](https://open.spotify.com/track/1FldaNEv6PQQetkRwB9DLR) | [Hunter Hayes](https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN) | [Spotify Singles](https://open.spotify.com/album/4zudMsniWNz0q2CKRI9Fuy) | 3:27 |
 | 52 | [Psycho \- Recorded at Sound Stage Studios, Nashville](https://open.spotify.com/track/33aoxwQiePZVRQtYuJz6IR) | [Michael Ray](https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz) | [Spotify Singles](https://open.spotify.com/album/65LZeGRGhl2SLlDeZN4OPi) | 4:07 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXh4ecan7Hh.md) - [plain]
 | 64 | [Shitty Golfer \(Recorded at Sound Stage Studios Nashville\)](https://open.spotify.com/track/3moAWjoAN1vphfLnoBHdsO) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Spotify Singles](https://open.spotify.com/album/43Rr16UbNM5Ui01V4tJxSM) | 2:14 |
 | 65 | [Long Live Love \- Recorded at Spotify Studios Nyc](https://open.spotify.com/track/3vVhMYRIZmeuPyhIsd1up8) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Spotify Singles](https://open.spotify.com/album/6d9KkEhEx8QsRmJ1zlOHMn) | 3:17 |
 
-Snapshot ID: `MTY2MjA1NzE2NCwwMDAwMDAwMDEyOTQ1ZjdjY2EzOTIzNGU2ZTMyYzljN2VkZDNiNjg1`
+Snapshot ID: `MTY2MjA1NzE2NCwwMDAwMDAwMGY0NWY2ZWQ4M2NhMWFhODQxZTI1YzQ1M2I1ODk1NmNm`

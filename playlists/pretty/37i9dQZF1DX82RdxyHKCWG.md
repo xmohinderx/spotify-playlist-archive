@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82RdxyHKCWG.md) - [plain]
 
 > As novidades e estrelas do pop que estão explodindo no Spotify\. ✨ Foto: BLACKPINK
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,230 likes - 90 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,288 likes - 90 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

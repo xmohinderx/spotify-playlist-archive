@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17aFuo.md) - [plain]
 
 > This is Megadeth\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,752 likes - 47 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,865 likes - 47 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17aFuo.md) - [plain]
 | 46 | [Public Enemy No\. 1](https://open.spotify.com/track/0bpeXTCwvkZad3GRtFSIOT) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Th1rt3en](https://open.spotify.com/album/7CnEVIOvZSfTF2srdqjxay) | 4:15 |
 | 47 | [Kill The King](https://open.spotify.com/track/3S9DHHYpM6KW1oqvrN8Lix) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Warchest](https://open.spotify.com/album/0hjcoB3dyY4BNonhEqdoRq) | 3:44 |
 
-Snapshot ID: `Mjc3MjIyMzMsMDAwMDAwMDBlOGI3MGY1ZGMyN2QxOWQxOGY5ZDZjOWQyYWE3YzExMw==`
+Snapshot ID: `Mjc3MjM2OTIsMDAwMDAwMDA1OTg5NTUzOWU0YjgyNDc0MTUzMDkwNGVjNTQ2YWVjYg==`

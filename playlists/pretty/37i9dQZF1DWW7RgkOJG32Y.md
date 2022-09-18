@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7RgkOJG32Y.md) - [plain]
 
 > Top trending new and recent tracks from the last few months\. Cover: Lauren Alaina & Chris Lane
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,621 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,840 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7RgkOJG32Y.md) - [plain]
 | 83 | [I Want It All](https://open.spotify.com/track/1Td2fjoRbqG8TKAe2sjqS1) | [Kat & Alex](https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg) | [I Want It All](https://open.spotify.com/album/4UtZVkoehTswX1XyGvgT6X) | 3:21 |
 | 84 | [Catching Up With An Ol' Memory](https://open.spotify.com/track/6j9Lnhx9V0oRi18kEUWLdw) | [Clay Walker](https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par) | [Texas to Tennessee](https://open.spotify.com/album/1mP7Dz3kH8vUPkraFnW6a6) | 3:24 |
 | 85 | [Everything I'm Not](https://open.spotify.com/track/2Sh4TM6Ypg3KiEjdOS2GVy) | [Bri Fletcher](https://open.spotify.com/artist/7L0vBPI3KGaA64mN3j1x3m) | [Everything I'm Not](https://open.spotify.com/album/69xhM28ljDGkmazJoODM87) | 3:11 |
-| 86 | [Baby I Am](https://open.spotify.com/track/6OSa9hgEvituO2SaaYBiwD) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [Baby I Am](https://open.spotify.com/album/44lDYWVwQ1yo5r066GtpSo) | 2:56 |
+| 86 | [Baby I Am](https://open.spotify.com/track/3pD2qgImjXbfepb5mksDp3) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [Baby I Am](https://open.spotify.com/album/5bg19JZRGPWA2ubmplCSt2) | 2:56 |
 | 87 | [Whiskey Sour](https://open.spotify.com/track/1wlbeqO0XpftrT2pVqcxaL) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Whiskey Sour](https://open.spotify.com/album/78iTqpAzKHMnonY5UqRIXH) | 3:29 |
 | 88 | [Habit](https://open.spotify.com/track/5xL8e1wBrpqcMxMzeBDlWX) | [Leah Marie Mason](https://open.spotify.com/artist/0fubiYogCTeBykbgV7HGf6) | [Habit](https://open.spotify.com/album/0Mmppw4dHragYwpRhbhqhC) | 2:49 |
 | 89 | [Tomorrow Me](https://open.spotify.com/track/52GuoXJUOFAwmPMtH3V9W4) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Tomorrow Me](https://open.spotify.com/album/2LI2YMMEAYwSzlVRNGJMNE) | 3:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7RgkOJG32Y.md) - [plain]
 | 99 | [High](https://open.spotify.com/track/6rRGtOgUxgARW5QXK2k9EY) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [High](https://open.spotify.com/album/2xbSaikAqmnjC9YuYjYPxM) | 3:50 |
 | 100 | [Raised Up Right](https://open.spotify.com/track/54iaqlFYaCYyJqCsRsbYUB) | [Drew Parker](https://open.spotify.com/artist/04roC3Teouu613zLDKvHpQ) | [Raised Up Right](https://open.spotify.com/album/0IXqwYhd5t5zt9d7zKfMp5) | 2:58 |
 
-Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMDZiMzdkNjRhOGJlNTVjNjM2MWI5NWZiZTcyYjM2YmNl`
+Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMDM4ODk1NDYyYmMwODAyMWQ4MDZjNzRmZDVjNjU5YjY4`

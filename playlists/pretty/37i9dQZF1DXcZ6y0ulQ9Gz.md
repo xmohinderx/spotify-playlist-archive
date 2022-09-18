@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZ6y0ulQ9Gz.md) - [plain]
 
 > The best in Indie in one place\. Cover: Men I Trust
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,322 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,330 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZ6y0ulQ9Gz.md) - [plain]
 | 38 | [I Lied \(with Allison Ponthier\)](https://open.spotify.com/track/7xQg5QTx8eiQnsxEnfynPh) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25), [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Long Lost](https://open.spotify.com/album/5xiePX6kXj5ZsmUsqIqzeD) | 3:54 |
 | 39 | [Window](https://open.spotify.com/track/3hARuUtzTdUuWH1KiLJlSf) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Window](https://open.spotify.com/album/4JxgricHyH0BbMUaefAHfR) | 2:19 |
 | 40 | [Your Life Your Time](https://open.spotify.com/track/1HWkMkgqKMLqsAPRh0KNmE) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Your Life Your Time](https://open.spotify.com/album/4EZaBjrZvPKOch67xp0E3J) | 2:40 |
-| 41 | [Chaise Longue](https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Chaise Longue](https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6) | 3:16 |
-| 42 | [dancing](https://open.spotify.com/track/2blNIRZz1KKV4fAC5OgI1o) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [There is no Neil Frances](https://open.spotify.com/album/4dIcsXIElacBzTpnDo3j3M) | 2:54 |
+| 41 | [dancing](https://open.spotify.com/track/2blNIRZz1KKV4fAC5OgI1o) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [There is no Neil Frances](https://open.spotify.com/album/4dIcsXIElacBzTpnDo3j3M) | 2:54 |
+| 42 | [Chaise Longue](https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Chaise Longue](https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6) | 3:16 |
 | 43 | [Silk Chiffon](https://open.spotify.com/track/0BLY78hYpsH9NqP6X0N8CX) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Silk Chiffon](https://open.spotify.com/album/0tVci75UxNB1H29bpj86tj) | 3:26 |
 | 44 | [What, Me Worry?](https://open.spotify.com/track/0ePX6rVjeql7Bt1KurTbAG) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [What, Me Worry?](https://open.spotify.com/album/6S5j1iJ4B4jknYDr4xOXcA) | 2:57 |
 | 45 | [help herself \(with BENEE\)](https://open.spotify.com/track/7bhpOnHyttMaBCg6WGCRzi) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Diamond Pistols](https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [help herself \(with BENEE\)](https://open.spotify.com/album/1dtiE9k4fY5xKRb4r80NKa) | 2:46 |
@@ -93,14 +93,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZ6y0ulQ9Gz.md) - [plain]
 | 83 | [Good Recipe](https://open.spotify.com/track/36GVnM3i4StYPjaGn2UupK) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [Good Recipe](https://open.spotify.com/album/2qJxomTOJ31stDwwmzqct1) | 2:31 |
 | 84 | [feel away \(feat\. James Blake & Mount Kimbie\)](https://open.spotify.com/track/20wMPnqHdNdBWaKRaMM7fD) | [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP), [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [feel away \(feat\. James Blake & Mount Kimbie\)](https://open.spotify.com/album/3dkB97Zw0sisRWTn0Wokjg) | 3:23 |
 | 85 | [Already](https://open.spotify.com/track/0Bef4OMTKyY908qrX0O0cs) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/5qJ0CnwfIUUgcKFdrjRP6v) | 3:57 |
-| 86 | [midnight sun](https://open.spotify.com/track/7M3YPejLG9WxQS9i4ZHVXh) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [PAINLESS](https://open.spotify.com/album/2IVL0vnFIe9uHWW1TAocC7) | 4:42 |
-| 87 | [Note To Self \(feat\. Empress Of\)](https://open.spotify.com/track/3dBgEBXZvYLshrZ0ATB7fT) | [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [EPHEMERA](https://open.spotify.com/album/0elpfsW5SObWj2BmXLpOwo) | 2:17 |
+| 86 | [Note To Self \(feat\. Empress Of\)](https://open.spotify.com/track/3dBgEBXZvYLshrZ0ATB7fT) | [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [EPHEMERA](https://open.spotify.com/album/0elpfsW5SObWj2BmXLpOwo) | 2:17 |
+| 87 | [midnight sun](https://open.spotify.com/track/7M3YPejLG9WxQS9i4ZHVXh) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [PAINLESS](https://open.spotify.com/album/2IVL0vnFIe9uHWW1TAocC7) | 4:42 |
 | 88 | [Mad](https://open.spotify.com/track/49U0v3W8dVb48l1Dd2DtyG) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Mad](https://open.spotify.com/album/268yQJnYEw2Zdu8ZPwyifa) | 3:48 |
 | 89 | [2725](https://open.spotify.com/track/5qYP2Jpli9QkYdgqAy5DEV) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Permanent Maniac](https://open.spotify.com/album/4beiEpxAm9hGTRYGgdOdyS) | 3:21 |
 | 90 | [SYNCOPATE](https://open.spotify.com/track/6s3UHVDqqqNHa1HyynG4VI) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [SYNCOPATE](https://open.spotify.com/album/4jbLhacGYxjKk9wS37eJTL) | 1:58 |
 | 91 | [Crushed Velvet](https://open.spotify.com/track/1I0i3wWt1sCZ4PT0TfnyZm) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [The Asymptotical World EP](https://open.spotify.com/album/2julo3Z5rNzSod7DoEuTz7) | 3:17 |
-| 92 | [Cut Me](https://open.spotify.com/track/1A2BT8JYVRjsKdswwvWXG6) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [græ](https://open.spotify.com/album/1iYsYnkc0Bccy66X4GQ2tm) | 4:10 |
-| 93 | [Nada](https://open.spotify.com/track/5ihtr3hVJJ7GWgagDiyf1i) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3), [Li Saumet](https://open.spotify.com/artist/1hYzHxIYlfYgHXN9DVZaNw) | [Miss Colombia](https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y) | 4:58 |
+| 92 | [Nada](https://open.spotify.com/track/5ihtr3hVJJ7GWgagDiyf1i) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3), [Li Saumet](https://open.spotify.com/artist/1hYzHxIYlfYgHXN9DVZaNw) | [Miss Colombia](https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y) | 4:58 |
+| 93 | [Cut Me](https://open.spotify.com/track/1A2BT8JYVRjsKdswwvWXG6) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [græ](https://open.spotify.com/album/1iYsYnkc0Bccy66X4GQ2tm) | 4:10 |
 | 94 | [Ce n'est pas de la chance](https://open.spotify.com/track/4GvY9PDlREAnpeTmGJAESR) | [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [medium plaisir](https://open.spotify.com/album/1Uq4V1N2AL1eI3M4cqq9sr) | 4:52 |
 | 95 | [damn](https://open.spotify.com/track/5mgWktGBliaIdAaBtZ8ff3) | [Ada Lea](https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy) | [one hand on the steering wheel the other sewing a garden](https://open.spotify.com/album/0ulrUoMnkAdxqX80c0dkfF) | 4:21 |
 | 96 | [Lonely Romance](https://open.spotify.com/track/31SXKJBLm38BkGB3I2nVsZ) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [To You EP](https://open.spotify.com/album/3Anf3lNMU7cCesmckx62wI) | 5:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZ6y0ulQ9Gz.md) - [plain]
 | 99 | [Not Around](https://open.spotify.com/track/7dlzjco7oeJIbDAYXWDo22) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Sunny Boy](https://open.spotify.com/album/5m2dVboM31qQtwPVch8pFv) | 2:40 |
 | 100 | [Iron](https://open.spotify.com/track/1PsWJxbry9jdH6DKqQ90CL) | [Tennyson](https://open.spotify.com/artist/3Nb8N20WChM0swo5qWTvm8) | [Rot](https://open.spotify.com/album/0RqOFwSMSF02awYaXYdtxo) | 3:36 |
 
-Snapshot ID: `MTY2MjA5MTIwMCwwMDAwMDAwMDE3MjcxODgzNTdjNjg5MTczZjM2NTQwOGI2OTU0ZDFj`
+Snapshot ID: `MTY2MjA5MTIwMCwwMDAwMDAwMDdhZWU3N2NlY2M1NGM4MGY1ZDk3NTUzNGNkYzZkODY4`

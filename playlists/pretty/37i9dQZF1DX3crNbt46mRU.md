@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: AnnenMayKantereit
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,176 likes - 101 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,184 likes - 101 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 3 | [Shut Down](https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 2:55 |
 | 4 | [ALLEINE \- SW43 L33 D1DO REMIX](https://open.spotify.com/track/7dq9QIXx5eIz6w2MNzTan4) | [Yung Hurn](https://open.spotify.com/artist/4PvnP3yCzrT289cX3wCdOx), [SW43 L33 D1DO](https://open.spotify.com/artist/6Lmd2o8n2pZUkFb8RnGzhb) | [ALLEINE \(SW43 L33 D1DO REMIX\)](https://open.spotify.com/album/0ozheCbpwPZOCFFzkz1msF) | 2:24 |
 | 5 | [fmk \(with blackbear\)](https://open.spotify.com/track/1hhMX7QQIhBsXjFmTK7owB) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [fmk \(with blackbear\)](https://open.spotify.com/album/2JATwGH1Izmuu47IcnfzSO) | 3:09 |
-| 6 | [Diese Nacht](https://open.spotify.com/track/2wrB2jRPTd1wujQlWWnJ0r) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Zorn & Liebe](https://open.spotify.com/album/5seerIZ96Tknor62ygW3on) | 2:34 |
+| 6 | [Diese Nacht](https://open.spotify.com/track/6CWr033ZS8JwfKfhuMavWp) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Zorn & Liebe](https://open.spotify.com/album/6p84H53CGnoPvszkjRWllB) | 2:34 |
 | 7 | [Danielle \(smile on my face\)](https://open.spotify.com/track/2sLVs5iX0osogh4jcsAJkv) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Danielle \(smile on my face\)](https://open.spotify.com/album/7xni0tZQ8q2rTHkIeBYr1Y) | 3:21 |
 | 8 | [Musik](https://open.spotify.com/track/3qbIqM093hzlcTtgjWef0K) | [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d), [Lucry & Suena](https://open.spotify.com/artist/4TPAWIeZhHw6CnsoPe9vxY) | [Musik](https://open.spotify.com/album/68LdRPrtIBfVSrPwMMtOiQ) | 2:58 |
 | 9 | [PSYCHO](https://open.spotify.com/track/1eprzC29mwUQqcVj0eILdx) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [PSYCHO](https://open.spotify.com/album/7qUT6ERWHp2U6RdUkuYZ3O) | 2:42 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 100 | [Sternhagel](https://open.spotify.com/track/1RyDIsygpXl8lPqKelf5bi) | [Noah Levi](https://open.spotify.com/artist/0XuWJAWSbqjnBobY4XeHfS) | [Sternhagel](https://open.spotify.com/album/2zsRRSSxX6SxYnfI2UhXaY) | 1:56 |
 | 101 | [AMAN](https://open.spotify.com/track/5WJ3W0FYgcD9d3So3onSkQ) | [Amanda Tenfjord](https://open.spotify.com/artist/187i912U6kpq0F0Z9uOVXr), [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK) | [AMAN](https://open.spotify.com/album/7lFqKeCpgi4Us8PGIfDSD5) | 3:10 |
 
-Snapshot ID: `MTY2MzMyMzkxMywwMDAwMDAwMDQxMWMyMmZhMmU3ZDczZDFlNjU3NGEyN2QyMGNkMGMx`
+Snapshot ID: `MTY2MzMyMzkxMywwMDAwMDAwMDU4ZmJiMjVhZDg4YTA2MzUyMGJhNjE2ZmY1N2ZkYzBl`

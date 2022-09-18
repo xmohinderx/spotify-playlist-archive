@@ -1,12 +1,12 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 7102,
+  "num_followers": 7172,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM5MzE1NywwMDAwMDAwMGJkNWJjNWM3MTYxZTBmOWY2NjcwNWI4ZGRjOTdhNjA3",
+  "snapshot_id": "MTY2MjM5MzE1NywwMDAwMDAwMDQyNWJmMmMwNmVlNTljZGYzMzgzMDNlODJmODg3MDFj",
   "tracks": [
     {
       "added_at": "2022-09-05 15:52:37",
@@ -871,6 +871,26 @@
     {
       "added_at": "2022-09-05 15:52:37",
       "album": {
+        "name": "K.I.S.S",
+        "url": "https://open.spotify.com/album/3NWSMArT2uajdVjViCnWe1"
+      },
+      "artists": [
+        {
+          "name": "twlv",
+          "url": "https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey"
+        },
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "duration_ms": 194645,
+      "name": "Te Quiero(feat.BIBI)",
+      "url": "https://open.spotify.com/track/1CxgsJPNnz5X3j92ky5mie"
+    },
+    {
+      "added_at": "2022-09-05 15:52:37",
+      "album": {
         "name": "TAKE",
         "url": "https://open.spotify.com/album/7Eeb9AQcOZ3iM4B0HFoos6"
       },
@@ -923,26 +943,6 @@
       "duration_ms": 141500,
       "name": "Fire",
       "url": "https://open.spotify.com/track/3ZqO9gU0aFrkawmoT3nc9i"
-    },
-    {
-      "added_at": "2022-09-05 15:52:37",
-      "album": {
-        "name": "K.I.S.S",
-        "url": "https://open.spotify.com/album/3NWSMArT2uajdVjViCnWe1"
-      },
-      "artists": [
-        {
-          "name": "twlv",
-          "url": "https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey"
-        },
-        {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
-        }
-      ],
-      "duration_ms": 194645,
-      "name": "Te Quiero(feat.BIBI)",
-      "url": "https://open.spotify.com/track/1CxgsJPNnz5X3j92ky5mie"
     },
     {
       "added_at": "2022-09-05 15:52:37",

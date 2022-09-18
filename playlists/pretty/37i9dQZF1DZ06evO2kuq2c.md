@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kuq2c.md) - [plain]
 
 > This is Architects\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,482 likes - 40 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,514 likes - 40 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,11 +36,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kuq2c.md) - [plain]
 | 26 | [Mortal After All](https://open.spotify.com/track/1rMGbnh7zWGs8ME0mbuVai) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Holy Hell](https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7) | 3:39 |
 | 27 | [Gravity](https://open.spotify.com/track/2oawNCxcTGKXlCtO6qSbdg) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [All Our Gods Have Abandoned Us](https://open.spotify.com/album/2NJMu78M8xVy2NAxicD1so) | 3:18 |
 | 28 | [Devil's Island](https://open.spotify.com/track/7E72zJebtIL3QHjXZOBk3d) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Daybreaker \(Deluxe Edition\)](https://open.spotify.com/album/6rvoCczjq9prDGSoxQr1Xq) | 4:06 |
-| 29 | [Colony Collapse](https://open.spotify.com/track/3nRmk2LJq3bTacynhGmAUW) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Lost Forever // Lost Together](https://open.spotify.com/album/1j8JsxOsu9e0ChyFO5KOpc) | 4:31 |
+| 29 | [C.A.N.C.E.R](https://open.spotify.com/track/0MyPqVDidAoYEpmGl5VHGW) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Lost Forever // Lost Together](https://open.spotify.com/album/1j8JsxOsu9e0ChyFO5KOpc) | 4:19 |
 | 30 | [Follow the Water](https://open.spotify.com/track/4rN2FZNAj7u9r2PqL8u2js) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Hollow Crown](https://open.spotify.com/album/168nXS5Ri1MIdQh9NIECnz) | 3:40 |
 | 31 | [Change \(In The House Of Flies\) \- Recorded at Abbey Road Studios, London](https://open.spotify.com/track/0DFMMdvzwHhvTXVQs26mA0) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Spotify Singles](https://open.spotify.com/album/2jPjaTdyhWQ3dEa7NQXJui) | 4:55 |
 | 32 | [Alpha Omega](https://open.spotify.com/track/4Upj7Dz6tu1HBeIZfziOlE) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Daybreaker \(Deluxe Edition\)](https://open.spotify.com/album/6rvoCczjq9prDGSoxQr1Xq) | 3:55 |
-| 33 | [C.A.N.C.E.R](https://open.spotify.com/track/0MyPqVDidAoYEpmGl5VHGW) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Lost Forever // Lost Together](https://open.spotify.com/album/1j8JsxOsu9e0ChyFO5KOpc) | 4:19 |
+| 33 | [Colony Collapse](https://open.spotify.com/track/3nRmk2LJq3bTacynhGmAUW) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Lost Forever // Lost Together](https://open.spotify.com/album/1j8JsxOsu9e0ChyFO5KOpc) | 4:31 |
 | 34 | [Learn to Live](https://open.spotify.com/track/65a0TZb4oPjLeeuD1BAK1L) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [The Here and Now](https://open.spotify.com/album/7EiIIwSiYBkaq741bL6Se3) | 4:01 |
 | 35 | [Early Grave](https://open.spotify.com/track/4soE6F9djLRl3OwQyKd3p2) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Hollow Crown](https://open.spotify.com/album/168nXS5Ri1MIdQh9NIECnz) | 3:32 |
 | 36 | [Black Blood](https://open.spotify.com/track/3zW2l6tss1kIZDj73CtJx6) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Daybreaker \(Deluxe Edition\)](https://open.spotify.com/album/6rvoCczjq9prDGSoxQr1Xq) | 4:33 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kuq2c.md) - [plain]
 | 39 | [Daybreak](https://open.spotify.com/track/1ARkHSVKsDO1RWu2vedbpm) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Daybreaker \(Deluxe Edition\)](https://open.spotify.com/album/6rvoCczjq9prDGSoxQr1Xq) | 3:32 |
 | 40 | [Heartburn](https://open.spotify.com/track/7zWpt2cSbTHyjTdWY805Vz) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [The Here and Now](https://open.spotify.com/album/7EiIIwSiYBkaq741bL6Se3) | 3:37 |
 
-Snapshot ID: `Mjc3MjIyMzMsMDAwMDAwMDBiOWMzNDVlYmY4MTQwNTUyMGZmNWU0OWYyODQwMjQ1Mg==`
+Snapshot ID: `Mjc3MjM2OTIsMDAwMDAwMDA1Y2U5ZDViZTEwY2M4ZmMxYTdhY2Y5YmM2Yzk0ZTZmOA==`

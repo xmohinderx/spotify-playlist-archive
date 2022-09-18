@@ -4,7 +4,7 @@
 
 > ¡Los 40 principales éxitos de la radio musical! Se actualiza cada semana con la nueva lista de LOS40 ¡Busca más playlists en nuestro perfil y en la <a href="http://onelink.to/los40app">app LOS40</a>!
 
-100 songs - 5 hr 18 min - [published](https://open.spotify.com/playlist/2EQ7mQxKSAz66lR2sssfQA)
+101 songs - 5 hr 22 min - [published](https://open.spotify.com/playlist/2EQ7mQxKSAz66lR2sssfQA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Fuera del mercado](https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [@dannocean](https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I) | 2:39 | 2022-06-11 |  |
 | [good 4 u](https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:58 | 2022-01-15 | 2022-03-21 |
 | [Hawaii](https://open.spotify.com/track/1FLfDdmBo2gVn0SvYWCK8W) | [Bombai](https://open.spotify.com/artist/4sbKCRFKQ8sAUn1pWR5iKZ), [David Otero](https://open.spotify.com/artist/4cA5JN7tiNZ8afYeuSQj5h) | [Hawaii](https://open.spotify.com/album/6vhvXwe3kgdBHr1DjcmY9j) | 3:05 | 2022-01-15 | 2022-05-08 |
+| [Hay Que Vivir El Momento](https://open.spotify.com/track/4J8bSLdnvtKYwWr0tqxhP7) | [Manuel Carrasco](https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA) | [Hay Que Vivir El Momento](https://open.spotify.com/album/2JFYrFbmfRGPOhDj1C2RcL) | 4:01 | 2022-09-17 |  |
 | [Heat Waves](https://open.spotify.com/track/6CDzDgIUqeDY5g8ujExx2f) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Heat Waves](https://open.spotify.com/album/69K1zrf6TkXHdYUO8n2qVi) | 3:58 | 2022-01-15 | 2022-08-21 |
 | [Histéricos](https://open.spotify.com/track/60hDNXs2CwQywAzy3LWami) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Histéricos](https://open.spotify.com/album/5G8wMHPdXsVfd25THze79N) | 3:33 | 2022-01-15 | 2022-03-13 |
 | [Hold Me Closer](https://open.spotify.com/track/72yP0DUlWPyH8P7IoxskwN) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Hold Me Closer](https://open.spotify.com/album/4QQWpCEX4BxMXwRQmtkKY6) | 3:22 | 2022-09-10 |  |
@@ -72,7 +73,7 @@
 | [Maybe You’re The Problem](https://open.spotify.com/track/0sb8ClU3CLoNblxkpmOKzA) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Maybe You’re The Problem](https://open.spotify.com/album/1dMRk6VwatQfygRRqaWtZg) | 3:10 | 2022-05-21 |  |
 | [Me Quedo \(feat\. Ana Mena\)](https://open.spotify.com/track/1MdsletWuIR9ItEnitWRwp) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD), [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Me Quedo \(feat\. Ana Mena\)](https://open.spotify.com/album/2vVt1IgIral9JtNxlVRW3i) | 2:43 | 2022-02-26 | 2022-08-07 |
 | [Mon Amour \- Remix](https://open.spotify.com/track/5TMLavqGRKNxgzMBrVpC9R) | [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Mon Amour \(Remix\)](https://open.spotify.com/album/4TWsxSw8df17aja6JSaar5) | 2:59 | 2022-01-15 | 2022-04-30 |
-| [Move](https://open.spotify.com/track/2ZzHR2sOKAOKyN8efCa69E) | [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [Move](https://open.spotify.com/album/5ZNjMUOLzjsQRDbAdtHial) | 2:36 | 2022-05-28 |  |
+| [Move](https://open.spotify.com/track/2ZzHR2sOKAOKyN8efCa69E) | [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [Move](https://open.spotify.com/album/5ZNjMUOLzjsQRDbAdtHial) | 2:36 | 2022-05-28 | 2022-09-18 |
 | [My Universe](https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp) | 3:48 | 2022-01-15 | 2022-04-17 |
 | [Música Ligera](https://open.spotify.com/track/1lMuQJHBznRfq7GdQrIQN4) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Música Ligera](https://open.spotify.com/album/77APd2Q91Ju6844akH2Xbj) | 3:55 | 2022-01-15 | 2022-07-24 |
 | [No, No Vuelve](https://open.spotify.com/track/4eTgIBf9ktps6iXWS4mvh7) | [Dani Martín](https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW) | [No, No Vuelve](https://open.spotify.com/album/6koZt4CD76dwvrx3miwSac) | 3:48 | 2022-01-15 | 2022-04-17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Los lanzamientos latinos más destacados de toda la región\. En portada: Paulo Londra y Duki
 
-[Spotify](https://open.spotify.com/user/spotify) - 904,188 likes - 59 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 904,294 likes - 59 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 52 | [Makinon](https://open.spotify.com/track/6S5fC1oR4Kg5m7B5JAgjsR) | [El Clooy](https://open.spotify.com/artist/2iBSDwlk9bvp1aKT4ubGoC), [Cocaine Beatz](https://open.spotify.com/artist/3gWc5nbi4s5wcTFxInX601) | [Makinon](https://open.spotify.com/album/2qY7FX6s6WyRk0itXmMUmU) | 2:46 |
 | 53 | [Yo Quiero](https://open.spotify.com/track/1t4DLSdEpTDy5v8aUMK5jY) | [Sarodj](https://open.spotify.com/artist/49V0e4iCjNvIqEuyFDQi0F) | [Yo Quiero](https://open.spotify.com/album/0TEF2jy79sijA5qNVtqHII) | 2:14 |
 | 54 | [Aquarela Luz](https://open.spotify.com/track/5XTShiHeVnUbzSVNRRFvfV) | [Dada Yute](https://open.spotify.com/artist/4mZqYlVhIZJnJtbF39kDjj), [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8), [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [Aquarela Luz](https://open.spotify.com/album/66HopHwwTYRr0n2wRarTAS) | 4:00 |
-| 55 | [Meu Mundo de Coração \- Ao Vivo](https://open.spotify.com/track/28mcJq7O8yaWYFSjL93eiX) | [Vitor e Luan](https://open.spotify.com/artist/5hDZAExrfOVqKBLS8Ofyac), [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Ao Vivo Em Brasilia](https://open.spotify.com/album/2XB8wHW1qUIkAUJI9DM4Dl) | 2:55 |
+| 55 | [Meio Mundo de Coração \- Ao Vivo](https://open.spotify.com/track/28mcJq7O8yaWYFSjL93eiX) | [Vitor e Luan](https://open.spotify.com/artist/5hDZAExrfOVqKBLS8Ofyac), [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Ao Vivo Em Brasília](https://open.spotify.com/album/2XB8wHW1qUIkAUJI9DM4Dl) | 2:55 |
 | 56 | [Duas](https://open.spotify.com/track/3qT0IS0HXwljGUfCZvyR6L) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Duas](https://open.spotify.com/album/0JVftjU914aTIF2dDGuyeM) | 2:42 |
 | 57 | [Eu Gosto Assim \- Ao Vivo](https://open.spotify.com/track/4ASA1PZyWGbuc4d9N8OAcF) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP), [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Eu Gosto Assim \(Ao Vivo\)](https://open.spotify.com/album/704T1TAZMGGokh8HyNaMbO) | 2:28 |
 | 58 | [Lei da Atraçao](https://open.spotify.com/track/5eMHCxeht8l87J5xfLI03s) | [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Lei da Atraçao](https://open.spotify.com/album/6yrnDlKD0PU4AueqoUMw8S) | 2:12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXduhIxq63Vtj.md) - [plain]
 
 > ¡Achis achis los mariachis!
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,467 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,524 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXduhIxq63Vtj.md) - [plain]
 | 20 | [El Mariachi Loco](https://open.spotify.com/track/0cEazkkPgRlEBvAfDcojC2) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [La Más Completa Colección](https://open.spotify.com/album/5YZnRB9emHtZ5yRQ4xTjc7) | 2:57 |
 | 21 | [Botellitas](https://open.spotify.com/track/11jLJ2m6vrdCyHl0kaOdz3) | [Cornelio Reyna](https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx) | [15 Éxitazos](https://open.spotify.com/album/5mmZxvjnPHDjasQQ1F9514) | 2:30 |
 | 22 | [Juan Charrasqueado](https://open.spotify.com/track/58dUntpcd9w1JKpFdUmtoT) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [15 Éxitos: Corridos Famosos](https://open.spotify.com/album/4zViKwboAczInCqS6EP1Y7) | 3:42 |
-| 23 | [Carta a Eufemia](https://open.spotify.com/track/0Y2OF1xhhOkC7PlI1M00wq) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Cien años..\. pensando en ti](https://open.spotify.com/album/5K5BgnDkPONrnmL35nHrFc) | 3:10 |
-| 24 | [La Raspa \- Remastered](https://open.spotify.com/track/5xxy1vBcEG9W9rzZeUlz12) | [Mariachi México de Pepe Villa](https://open.spotify.com/artist/2pTMHhbToqVd0nXzEiwaRz) | [Selección Especial \(Remastered\)](https://open.spotify.com/album/0cIdrD4KzNHtGwyWRKf5ac) | 2:17 |
+| 23 | [La Raspa \- Remastered](https://open.spotify.com/track/5xxy1vBcEG9W9rzZeUlz12) | [Mariachi México de Pepe Villa](https://open.spotify.com/artist/2pTMHhbToqVd0nXzEiwaRz) | [Selección Especial \(Remastered\)](https://open.spotify.com/album/0cIdrD4KzNHtGwyWRKf5ac) | 2:17 |
+| 24 | [Carta a Eufemia](https://open.spotify.com/track/0Y2OF1xhhOkC7PlI1M00wq) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Cien años..\. pensando en ti](https://open.spotify.com/album/5K5BgnDkPONrnmL35nHrFc) | 3:10 |
 | 25 | [El Bato Gacho](https://open.spotify.com/track/6ef95vgK7yUu6Bg61m2BsJ) | [Las Jilguerillas](https://open.spotify.com/artist/0eeAs1exNZKyZNSFTVYInV) | [Mis 30 Mejores Canciones](https://open.spotify.com/album/6hncXsK2EbPLP5YnPz64f8) | 2:26 |
 | 26 | [El son de la negra](https://open.spotify.com/track/1kjMKI2xugTJvBFPZT140r) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Fiesta Mexicana Con Mariachi \(USA\)](https://open.spotify.com/album/1Yw1J4kHtQ9ONQtPpDnZyp) | 2:59 |
 | 27 | [Negrita de Mis Pesares](https://open.spotify.com/track/4yHL70akK2dL99EU0DviKH) | [Mariachi Pablo Olmedo](https://open.spotify.com/artist/57eFfYB14GxTUGPoZCCtvR) | [Mexican Music: Best Mariachi Music\. Traditional & Popular Mexican Songs, Rancheras & Corridos](https://open.spotify.com/album/7ynAgcVHO5LuUTQ8SkkG2L) | 2:59 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXduhIxq63Vtj.md) - [plain]
 | 29 | [La Interesada](https://open.spotify.com/track/5UbjsmHa2M69q2Q1bzmDBE) | [Chava Flores](https://open.spotify.com/artist/3qvw5E5LD9Wq0nFNnBL4O2) | [De Buen Humor, Con Las Canciones Y La Voz De Chava Flores](https://open.spotify.com/album/3AS7o4ZD2AYKG5VhuOJSmg) | 2:21 |
 | 30 | [El Pescuezo del Pollo](https://open.spotify.com/track/4frs1wdJNCBLiCPjfnROlz) | [El Mariachi Moya](https://open.spotify.com/artist/14VL0b6xKpHMRUj0mmp2QS) | [El Pescuezo del Pollo](https://open.spotify.com/album/6YRvAFY1eDocapKDlJc633) | 4:26 |
 | 31 | [Ay, Chabela](https://open.spotify.com/track/2LyHh2xmfD5nOWNwfkueUH) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Rancheras de Relajo](https://open.spotify.com/album/5ZvBBcbj77jfjhfkvJtr7N) | 2:58 |
-| 32 | [Osito carpintero](https://open.spotify.com/track/7nx4DJCKRjAGzAjBL7tKYC) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Cien años..\. pensando en ti](https://open.spotify.com/album/5K5BgnDkPONrnmL35nHrFc) | 2:38 |
-| 33 | [Torito Serrano](https://open.spotify.com/track/4BFHo7sWvDEoPErm3aVS9C) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian Con El Mariachi Vargas](https://open.spotify.com/album/4Cg0XRlaFZkco0rQRP7zGX) | 2:55 |
+| 32 | [Torito Serrano](https://open.spotify.com/track/4BFHo7sWvDEoPErm3aVS9C) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian Con El Mariachi Vargas](https://open.spotify.com/album/4Cg0XRlaFZkco0rQRP7zGX) | 2:55 |
+| 33 | [Osito carpintero](https://open.spotify.com/track/7nx4DJCKRjAGzAjBL7tKYC) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Cien años..\. pensando en ti](https://open.spotify.com/album/5K5BgnDkPONrnmL35nHrFc) | 2:38 |
 | 34 | [Cumbia Medley: Mariachi Loco / La Pollera Colora / La Bala / No Te Metas Con Mi Cucu / Rosa Maria / La Cucaracha / Yo No Fui](https://open.spotify.com/track/0e0ZiHw8tqL1Kg6BbQDCXx) | [Mariachi Divas de Cindy Shea](https://open.spotify.com/artist/3D5AzlMCW0gCYlNvFANoEd) | [Dulce Daño](https://open.spotify.com/album/5FpgZ4UE69N4JZfvTwHC4U) | 4:56 |
 | 35 | [Los Gorrones](https://open.spotify.com/track/4hav6tDhruXYtf86MlYIOo) | [Chava Flores Con Mariachi Azteca Y Grupo La Miel](https://open.spotify.com/artist/5CCYSxsSV6BmX7Twe0P0PS) | [Exitos De Chava Flores](https://open.spotify.com/album/0PJ1sZj98PPca3SBScQegW) | 2:16 |
 | 36 | [Que Se Mueran los Feos](https://open.spotify.com/track/46GSlzR2O4cceIOBImlAnJ) | [Mariachi Loco](https://open.spotify.com/artist/68PBeAZ9MN8Nvg1UV1wiHq) | [Mariachi Loco: 30 Pegaditas](https://open.spotify.com/album/2sZm194vZ5Tm8sH6I8vNLK) | 2:21 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXduhIxq63Vtj.md) - [plain]
 | 45 | [Cien Años](https://open.spotify.com/track/1sglM2aQR5DikqDqj2W8N9) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Mexico Gran Colección Ranchera: Pedro Infante](https://open.spotify.com/album/4ZiRfUT3xPgjse6CzPGRYC) | 3:34 |
 | 46 | [Allá en el rancho grande](https://open.spotify.com/track/100M2JP5shca6LGVsoUpfb) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Amorcito corazón](https://open.spotify.com/album/16LwPtwJ2WDTagFq5as6rk) | 3:16 |
 | 47 | [Copitas De Mezcal](https://open.spotify.com/track/3GFkJIIDEfGrcD9WSeQ9po) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar](https://open.spotify.com/album/0l4cuP2KHDTCFYebOBeFLs) | 3:03 |
-| 48 | [El gavilán pollero \(feat\. la Banda Estrellas de Sinaloa de Germán Lizárraga\)](https://open.spotify.com/track/7BHcZVdtSGyw1AbD4gi6w7) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV), [Banda Estrellas De Sinaloa De German Lizarraga](https://open.spotify.com/artist/2wWIGYR6YnkqEU2pkdnjnX) | [Pedro Infante Con Banda](https://open.spotify.com/album/4AB6kzi9s6lBccjhoNcA6s) | 1:56 |
-| 49 | [Adiós mis chorreadas](https://open.spotify.com/track/6doE0vQHWZDpg3Yj4NKYjJ) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [57 Aniversario](https://open.spotify.com/album/5NJ4vWaVFLcIpQAxT8t9Lu) | 3:12 |
+| 48 | [Adiós mis chorreadas](https://open.spotify.com/track/6doE0vQHWZDpg3Yj4NKYjJ) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [57 Aniversario](https://open.spotify.com/album/5NJ4vWaVFLcIpQAxT8t9Lu) | 3:12 |
+| 49 | [El gavilán pollero \(feat\. la Banda Estrellas de Sinaloa de Germán Lizárraga\)](https://open.spotify.com/track/7BHcZVdtSGyw1AbD4gi6w7) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV), [Banda Estrellas De Sinaloa De German Lizarraga](https://open.spotify.com/artist/2wWIGYR6YnkqEU2pkdnjnX) | [Pedro Infante Con Banda](https://open.spotify.com/album/4AB6kzi9s6lBccjhoNcA6s) | 1:56 |
 | 50 | [La tertulia](https://open.spotify.com/track/0Kt3S2259SxIOfwvM8YV0f) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Rico Vacilón \(16 Tracks\)](https://open.spotify.com/album/39sZRumghk9zw60fJ01fzt) | 3:13 |
 
-Snapshot ID: `MTY0MzE1NTI0MiwwMDAwMDAwMDI3MTJlODdkZmIzNjhmNWVhYmEzNDNmYThjZjhkMGE4`
+Snapshot ID: `MTY0MzE1NTI0MiwwMDAwMDAwMGNmNDg5Y2FmZTljZTE0OTYzMDY5NmE1YWZmMDEyMDYw`

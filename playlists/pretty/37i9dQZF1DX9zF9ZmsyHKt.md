@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 
 > Grandes vozes da música brasileira de hoje e de ontem reunidas em uma única playlist\. Foto: Gal Costa
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,669 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,701 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,12 +73,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 63 | [Uma Noite E 1/2](https://open.spotify.com/track/2FSmesZ0BLPGOoEzS75Flc) | [Marina Lima](https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol), [Renato Rocketh](https://open.spotify.com/artist/6sw8STlzeeHvYQEeZueg63) | [Virgem](https://open.spotify.com/album/3U2agFlmhl2UWKZhsB6Vco) | 4:44 |
 | 64 | [Você Não Presta](https://open.spotify.com/track/67sKMKtqVthTb45IAxLoZO) | [Mallu Magalhães](https://open.spotify.com/artist/1m00QT2CkW6rHi4dly8rVN) | [Vem](https://open.spotify.com/album/1Oh3hIwfnqoNUWhZ8ksB5e) | 3:55 |
 | 65 | [Frevo Mulher](https://open.spotify.com/track/1ePuI28sGPx7ROzKZBRbqS) | [Amelinha](https://open.spotify.com/artist/5hzHutt6DLPzctqvnS6Fdv) | [Frevo Mulher](https://open.spotify.com/album/48nwSoJS9YsQ1f8OotMNUg) | 4:01 |
-| 66 | [Mulher do Fim do Mundo](https://open.spotify.com/track/6JyyilCXZPb8fm0tQPqjUZ) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [A Mulher do Fim do Mundo](https://open.spotify.com/album/0I316eFTjobTdyH5xtniYe) | 4:37 |
-| 67 | [Maria, Maria](https://open.spotify.com/track/215mQEOW8ddILFNINNd9YI) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8) | [Elis Por Ela](https://open.spotify.com/album/4VEVVGC2MYMrK63drpR2hE) | 2:44 |
+| 66 | [Maria, Maria](https://open.spotify.com/track/215mQEOW8ddILFNINNd9YI) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8) | [Elis Por Ela](https://open.spotify.com/album/4VEVVGC2MYMrK63drpR2hE) | 2:44 |
+| 67 | [Mulher do Fim do Mundo](https://open.spotify.com/track/6JyyilCXZPb8fm0tQPqjUZ) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [A Mulher do Fim do Mundo](https://open.spotify.com/album/0I316eFTjobTdyH5xtniYe) | 4:37 |
 | 68 | [As Mais Braba](https://open.spotify.com/track/6GxrQBMEu0q9HsAH21uFCJ) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Ashira](https://open.spotify.com/artist/3bwb5u6i1DM7nDxnBSDDCa) | [Rouff](https://open.spotify.com/album/3WCqEEZX2B01fJh6MUQxvQ) | 4:40 |
 | 69 | [Só Porque Eu Sou Mulher](https://open.spotify.com/track/6gpnmxMmHCWpfkb1vkqasb) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Haga](https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o) | [Só Porque Eu Sou Mulher](https://open.spotify.com/album/5XOEPbMzQhqgXXKtxm8Isa) | 2:43 |
-| 70 | [Saudade](https://open.spotify.com/track/3AzSGIT3SYFXl1o9c6zdQC) | [Karol Conká](https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge), [Boss in Drama](https://open.spotify.com/artist/3vayFOuOTSUgqcrdoyjZWB) | [Ambulante](https://open.spotify.com/album/6uZweI7OXLIS8WwYb0eVCV) | 2:31 |
-| 71 | [Nuvem de Lágrimas](https://open.spotify.com/track/5VRNQc6Z0YNemIvOrD1h2e) | [Fafá de Belém](https://open.spotify.com/artist/6n45wsxj6sDedgwEyTza6d) | [Maxximum \- Fafá de Belém](https://open.spotify.com/album/6PiK8fXCZVguMpR8DN0dAr) | 4:10 |
+| 70 | [Nuvem de Lágrimas](https://open.spotify.com/track/5VRNQc6Z0YNemIvOrD1h2e) | [Fafá de Belém](https://open.spotify.com/artist/6n45wsxj6sDedgwEyTza6d) | [Maxximum \- Fafá de Belém](https://open.spotify.com/album/6PiK8fXCZVguMpR8DN0dAr) | 4:10 |
+| 71 | [Saudade](https://open.spotify.com/track/3AzSGIT3SYFXl1o9c6zdQC) | [Karol Conká](https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge), [Boss in Drama](https://open.spotify.com/artist/3vayFOuOTSUgqcrdoyjZWB) | [Ambulante](https://open.spotify.com/album/6uZweI7OXLIS8WwYb0eVCV) | 2:31 |
 | 72 | [nós 2](https://open.spotify.com/track/7vuxXAyqByxkVdM2jqu0Jh) | [Jade Baraldo](https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45) | [Mais Que os Olhos Podem Ver](https://open.spotify.com/album/5T9bHYvkePyb0WkBA6Wduz) | 3:06 |
 | 73 | [Rito de Passá](https://open.spotify.com/track/7mQF4G6Syae2fCUSSxPjRX) | [Mc Tha](https://open.spotify.com/artist/0fpg4Y7Q6ZRDSppLLt7G0n) | [Rito de Passá](https://open.spotify.com/album/2VdGX4c99Au3aGtR1HJAIm) | 3:21 |
 | 74 | [Ninguém Perguntou por Você](https://open.spotify.com/track/5O1KKCymoKvOOOfbLBsIG2) | [Letrux](https://open.spotify.com/artist/4U1VRNe8VwcTAA6ShGyuke) | [Letrux em Noite de Climão](https://open.spotify.com/album/7fjCl4UUhvatyhujWTaebT) | 5:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 99 | [Azul Moderno](https://open.spotify.com/track/01JLpmg9UguUoJS7AmlzqA) | [Luiza Lian](https://open.spotify.com/artist/0mqrSBamArf14pPZE2Q9kW) | [Azul Moderno](https://open.spotify.com/album/3ocMFmdWIfjrfNdHVFQ41I) | 3:54 |
 | 100 | [É Isso Aí](https://open.spotify.com/track/47djwMo5LjilxB20Aix1M2) | [Paula Lima](https://open.spotify.com/artist/5oE0wKd9rFGBMQTNF1CTZW) | [É Isso Aí](https://open.spotify.com/album/3Iqv2tlN9V7jt5rhicn66U) | 3:21 |
 
-Snapshot ID: `MTYzOTA3NTc5NCwwMDAwMDAwMGVjZjdkMTU4N2QzOWJhMTAyNGNmNjUzYTc5ZTY1ODI1`
+Snapshot ID: `MTYzOTA3NTc5NCwwMDAwMDAwMDkwN2RlNDBjMDRmYTAyNDY3NWZlYjU4OGVlNzc1MGIw`

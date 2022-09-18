@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjibQnF0bUk.md) - [plain]
 
 > Definitive African party starters, perfect for any jollof jam or braai! "Spray" money to these hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 314,035 likes - 60 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 314,338 likes - 60 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjibQnF0bUk.md) - [plain]
 | 52 | [Jowo](https://open.spotify.com/track/4ibxmEgdIWYAQjXl0ivFmW) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [A Better Time](https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD) | 2:56 |
 | 53 | [Jaiye Foreign](https://open.spotify.com/track/3iRKwxW8ZDjmL9nKk3nisz) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Jaiye Foreign](https://open.spotify.com/album/5D3OdqLtggVIsUjxXrzHwY) | 3:10 |
 | 54 | [Bad Girl \(feat\. Wande Coal & Victony\)](https://open.spotify.com/track/2eVbbAnigX4QdvpceP0VU6) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Bad Girl \(feat\. Wande Coal & Victony\)](https://open.spotify.com/album/0dqjwh8PHITjQOyJX5zTJq) | 3:24 |
-| 55 | [Lie](https://open.spotify.com/track/5jVpi3fFf5OGAZ5bpe4Bhy) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Lie](https://open.spotify.com/album/5R3HMJSiNPlGeNSfLFsgOH) | 2:36 |
-| 56 | [Mad Over You](https://open.spotify.com/track/1jloWdvMh9nwHUu3mag8CL) | [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb) | [Mad Over You](https://open.spotify.com/album/1BeDVLt8DTIIN3jSLK5V78) | 3:36 |
+| 55 | [Mad Over You](https://open.spotify.com/track/1jloWdvMh9nwHUu3mag8CL) | [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb) | [Mad Over You](https://open.spotify.com/album/1BeDVLt8DTIIN3jSLK5V78) | 3:36 |
+| 56 | [Lie](https://open.spotify.com/track/5jVpi3fFf5OGAZ5bpe4Bhy) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Lie](https://open.spotify.com/album/5R3HMJSiNPlGeNSfLFsgOH) | 2:36 |
 | 57 | [Nice \(Kiss\)](https://open.spotify.com/track/2FPOpkUFjQBzJVxK8zF2DA) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Pabi Cooper](https://open.spotify.com/artist/6EG9v86LsCoq5HS4Jj1zCQ), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z) | [Nice \(Kiss\)](https://open.spotify.com/album/1c92y23VH1pBjyR4LOhJQm) | 4:57 |
 | 58 | [Don't Call Me \(feat\. Zinoleesky\)](https://open.spotify.com/track/2XuLnQELesgnkCGZbSJHO0) | [Lil Kesh](https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Don't Call Me \(feat\. Zinoleesky\)](https://open.spotify.com/album/2fvt1NxBjoCXfLrUlnsqkD) | 2:58 |
 | 59 | [Baleka \(feat\. Nokwazi, DJ Biza & Tsiki XII\)](https://open.spotify.com/track/7iBiBYaVBw69mmPwPBgM0t) | [Mr JazziQ](https://open.spotify.com/artist/1nVEvn7RMNxj27rn0WE13E), [Nokwazi](https://open.spotify.com/artist/212CRvd7gujQnCCLbRhylL), [DJ Biza](https://open.spotify.com/artist/4HeR40LXLro0IsVPpDJXrm), [Tsiki XII](https://open.spotify.com/artist/202SrQTYVvPja7Z5lrsWuk) | [ALL YOU NEED IS PIANO](https://open.spotify.com/album/4FxJb1vaaJzZVTi0LI5xs5) | 6:17 |
 | 60 | [Call of Duty](https://open.spotify.com/track/2wfWK2cmM5DZ4VnT7rDnFO) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Call of Duty](https://open.spotify.com/album/4ULxpCQINF17EWAhbE8w2T) | 2:24 |
 
-Snapshot ID: `MTY2MjcxNTc3NSwwMDAwMDAwMGUwNTI2ZGFjYWQyNmNlNjkxODEwOTJiODc2ZjZjMzYz`
+Snapshot ID: `MTY2MjcxNTc3NSwwMDAwMDAwMGM0OTc0OGY5OGIyNGEyZjUyMGY4NTg0ZThjYjE4MGQ5`

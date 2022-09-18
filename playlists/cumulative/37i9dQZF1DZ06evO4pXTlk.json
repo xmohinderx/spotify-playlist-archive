@@ -352,6 +352,24 @@
     },
     {
       "album": {
+        "name": "In the Cold Wind We Smile (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/7KpMyE6xSVdRVdkIxSng5N"
+      },
+      "artists": [
+        {
+          "name": "The XCERTS",
+          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262375,
+      "name": "I See Things Differently",
+      "url": "https://open.spotify.com/track/4t7u79jvGHrhr0sh5SrSuD"
+    },
+    {
+      "album": {
         "name": "There Is Only You",
         "url": "https://open.spotify.com/album/0D8FcMKT9NRdJ2KoqSajEh"
       },
@@ -453,7 +471,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 170883,
       "name": "Nightschool",
       "url": "https://open.spotify.com/track/7kypxcJ3LGW1OFH0PLvpf9"

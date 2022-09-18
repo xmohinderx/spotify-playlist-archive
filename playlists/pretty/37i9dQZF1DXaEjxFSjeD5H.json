@@ -1,12 +1,12 @@
 {
   "description": "Nada que un buen danz\u00f3n no pueda curar. ",
-  "num_followers": 8237,
+  "num_followers": 8261,
   "original_name": "Danz\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ4MjkwMiwwMDAwMDAwMDQ5NGFjOTFkNTAyMjViYTk2ZWQ2MWNmZGEwNDNlMDZl",
+  "snapshot_id": "MTY1OTQ4MjkwMiwwMDAwMDAwMDdhZjA1MWI1YjVlZmZjNDU2YTFkNjY2NTc2ZTIwMWQ2",
   "tracks": [
     {
       "added_at": "2022-08-02 23:28:22",
@@ -287,22 +287,6 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/2CktXUtQ2L4pUIDgmzdsHa"
-      },
-      "artists": [
-        {
-          "name": "Los Aragon",
-          "url": "https://open.spotify.com/artist/7d1qSpM5IGKsYtVvSpzhDw"
-        }
-      ],
-      "duration_ms": 130002,
-      "name": "Tema De Lara",
-      "url": "https://open.spotify.com/track/6XG9vkGncaL7SMcq4jg9eb"
-    },
-    {
-      "added_at": "2022-08-02 23:28:22",
-      "album": {
         "name": "Moliendo Caf\u00e9",
         "url": "https://open.spotify.com/album/1HXvBAMUIJYDXtB9prveKb"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 187861,
       "name": "Moliendo Caf\u00e9",
       "url": "https://open.spotify.com/track/1mRo2DqYRkchxYHMg6ng2u"
+    },
+    {
+      "added_at": "2022-08-02 23:28:22",
+      "album": {
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/2CktXUtQ2L4pUIDgmzdsHa"
+      },
+      "artists": [
+        {
+          "name": "Los Aragon",
+          "url": "https://open.spotify.com/artist/7d1qSpM5IGKsYtVvSpzhDw"
+        }
+      ],
+      "duration_ms": 130002,
+      "name": "Tema De Lara",
+      "url": "https://open.spotify.com/track/6XG9vkGncaL7SMcq4jg9eb"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
-        "name": "Danz\u00f3n Inmortal",
-        "url": "https://open.spotify.com/album/6IS3BzJEdTbFGzD6Dcy4TK"
-      },
-      "artists": [
-        {
-          "name": "Alex Lora Serna",
-          "url": "https://open.spotify.com/artist/7G80zio9xkTiB15XdToqNX"
-        }
-      ],
-      "duration_ms": 320806,
-      "name": "Danz\u00f3n de Lora",
-      "url": "https://open.spotify.com/track/6JRLkLO9e5DSq5dAWJv0It"
-    },
-    {
-      "added_at": "2022-08-02 23:28:22",
-      "album": {
         "name": "Photograph",
         "url": "https://open.spotify.com/album/0U3vkKfqKfL2qwIeIDuhAu"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 115919,
       "name": "Ju\u00e1rez No Debio Morir",
       "url": "https://open.spotify.com/track/1vGFJE6X3Gcm0JSlofUqM6"
+    },
+    {
+      "added_at": "2022-08-02 23:28:22",
+      "album": {
+        "name": "Danz\u00f3n Inmortal",
+        "url": "https://open.spotify.com/album/6IS3BzJEdTbFGzD6Dcy4TK"
+      },
+      "artists": [
+        {
+          "name": "Alex Lora Serna",
+          "url": "https://open.spotify.com/artist/7G80zio9xkTiB15XdToqNX"
+        }
+      ],
+      "duration_ms": 320806,
+      "name": "Danz\u00f3n de Lora",
+      "url": "https://open.spotify.com/track/6JRLkLO9e5DSq5dAWJv0It"
     },
     {
       "added_at": "2022-08-02 23:28:22",

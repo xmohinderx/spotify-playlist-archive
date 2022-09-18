@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 
 > New and classic Gospel songs to celebrate the Easter season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,483 likes - 100 songs - 9 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,479 likes - 100 songs - 9 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 | 19 | [For Your Glory \- Live](https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Grace \(Live/Deluxe\)](https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5) | 6:46 |
 | 20 | [The Resurrection](https://open.spotify.com/track/6avTKEs6LUPsjfiA3w3uVm) | [The Spirituals](https://open.spotify.com/artist/1viPlR6yBVRaBcilVZ8yPy) | [Easter Project](https://open.spotify.com/album/09ofZQBVrHv1cQoFJDdrTB) | 4:33 |
 | 21 | [The Anthem](https://open.spotify.com/track/4NH4tJBwVz5y3PqQB3MlGS) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [A Worshipper's Heart](https://open.spotify.com/album/5xaGK6HOJPPpRlcQEDVBfJ) | 6:58 |
-| 22 | [Blood is Still the Blood \(feat\. Chandler Moore, Nicole Binion, Ryan Ofei\)](https://open.spotify.com/track/4W4F7oBnGoSBGXQYpnQDGc) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Nicole Binion](https://open.spotify.com/artist/76cq2MDAYfh7dhiFr4Zt4e), [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd) | [Jubilee](https://open.spotify.com/album/2buPx1ebGCwCnxiX0RoJfD) | 10:03 |
-| 23 | [You Brought The Sunshine \- Live](https://open.spotify.com/track/2yK4879j9Q1XnJio6ETqJV) | [The Clark Sisters](https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE) | [Live: One Last Time](https://open.spotify.com/album/4q02ycz7FsngzsYDtjaIMc) | 4:18 |
+| 22 | [You Brought The Sunshine \- Live](https://open.spotify.com/track/2yK4879j9Q1XnJio6ETqJV) | [The Clark Sisters](https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE) | [Live: One Last Time](https://open.spotify.com/album/4q02ycz7FsngzsYDtjaIMc) | 4:18 |
+| 23 | [Blood is Still the Blood \(feat\. Chandler Moore, Nicole Binion, Ryan Ofei\)](https://open.spotify.com/track/4W4F7oBnGoSBGXQYpnQDGc) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Nicole Binion](https://open.spotify.com/artist/76cq2MDAYfh7dhiFr4Zt4e), [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd) | [Jubilee](https://open.spotify.com/album/2buPx1ebGCwCnxiX0RoJfD) | 10:03 |
 | 24 | [You're Bigger](https://open.spotify.com/track/5PiY1xNzD1YRtmZe3KRdln) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [The Life Project](https://open.spotify.com/album/5Sj4aY2HhAyAlzFXL6FUyY) | 7:26 |
 | 25 | [Redeemer](https://open.spotify.com/track/43yNBaEEwBhGGS0yJJaK2V) | [Karima](https://open.spotify.com/artist/55xDuhefd7WGiIXDhN8hOE) | [Redeemer](https://open.spotify.com/album/4nMk16S67GzM7jsA2HnwHs) | 5:17 |
 | 26 | [Let It Rain](https://open.spotify.com/track/7DOt5PuuG1cTEEjcDZyc0R) | [Bishop Paul S\. Morton, Sr.](https://open.spotify.com/artist/5ktiG2i4Gv54oDKNMJvgmk) | [Bishop Paul Morton \- Let It Rain](https://open.spotify.com/album/5ME0qv2slNj69vuR9U6YKq) | 8:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 | 99 | [He Proved His Love](https://open.spotify.com/track/4OMAO6F57zBkgyakZjscTl) | [Ron Winans](https://open.spotify.com/artist/67B5eSkw1ckwkAVi278b2s) | [Family & Friends Choir III](https://open.spotify.com/album/2HqJpxkdEf5FRDJsxkkZrj) | 5:25 |
 | 100 | [He Loves Me](https://open.spotify.com/track/3PAbgmt3d00mfWqz4duX13) | [Parkes Stewart](https://open.spotify.com/artist/3OpTYiTC0KK2TGgej8FbFh) | [Another Chapter, Psalms 51](https://open.spotify.com/album/6GjsgwwG6Bp1t6rTXwQ6x5) | 5:56 |
 
-Snapshot ID: `MTY1MDE3NTg2NCwwMDAwMDAwMDg4OWJkOGZkN2NiYzY4MDA1ZDg2NTEyOWQ3M2ExYmFj`
+Snapshot ID: `MTY1MDE3NTg2NCwwMDAwMDAwMDRlOGVmMjI2NDE0NzA1YTI5NDZlNWI1ODZmZTY2MGMz`

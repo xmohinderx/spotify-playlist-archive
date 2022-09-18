@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 
 > Lo nuevo del popetón y reggaetón emergente en MX\. Foto: Big Soto, Beéle
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,152 likes - 55 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,148 likes - 55 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 | 21 | [La Oportunidad \- Spotify Singles](https://open.spotify.com/track/4TSdm4ySoU7RMVhTFWLp2m) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [La Oportunidad \- Spotify Singles](https://open.spotify.com/album/1dVeSK7GcCkjb9Q8MaiyQy) | 3:27 |
 | 22 | [Me Dolió](https://open.spotify.com/track/6GohKuqUmoVmuZJ148PEjN) | [Alan Jacques](https://open.spotify.com/artist/1fcB4CTiWJ7MSN1oJHQbBE), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Kid Gallo](https://open.spotify.com/artist/1dpQRfqTZe2OmBhR01lD0c), [Amador](https://open.spotify.com/artist/6qZVFsb2jVenTxZ3NBGnNv) | [Me Dolió](https://open.spotify.com/album/6bXPqEZYKWCRzZrq5a44Z2) | 2:43 |
 | 23 | [LA PUERTA](https://open.spotify.com/track/1C7dlhgx28pHMjCMfiiZun) | [Steff](https://open.spotify.com/artist/0Gh7dmIj59Sa4JPy9x0yUt) | [LA PUERTA](https://open.spotify.com/album/08UiEXyBQY3dDgdfieN0mj) | 3:03 |
-| 24 | [Se Siente Bien](https://open.spotify.com/track/1XEmFjZdshi5oQ6qsV44TQ) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux), [Gitana Kamp](https://open.spotify.com/artist/55SWiLP14cnNXQKVJj36ps) | [Gitana Kamp, Vol\. I](https://open.spotify.com/album/2pgf9362aDcXAR8V5pE2A2) | 2:26 |
-| 25 | [Las Gatas](https://open.spotify.com/track/1QCSrngkMfPKJJN88VbXhH) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0) | [Las Gatas](https://open.spotify.com/album/56FZSurIclX1C9JLm9px0n) | 2:26 |
+| 24 | [Las Gatas](https://open.spotify.com/track/1QCSrngkMfPKJJN88VbXhH) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0) | [Las Gatas](https://open.spotify.com/album/56FZSurIclX1C9JLm9px0n) | 2:26 |
+| 25 | [Se Siente Bien](https://open.spotify.com/track/1XEmFjZdshi5oQ6qsV44TQ) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux), [Gitana Kamp](https://open.spotify.com/artist/55SWiLP14cnNXQKVJj36ps) | [Gitana Kamp, Vol\. I](https://open.spotify.com/album/2pgf9362aDcXAR8V5pE2A2) | 2:26 |
 | 26 | [GYAL](https://open.spotify.com/track/2IivNFGyEu6MSNaiLVYMcJ) | [Opium G](https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl), [Birat Bitz](https://open.spotify.com/artist/3EXtIEvqDsuQiHxHKJoi2b) | [ICE BLUE](https://open.spotify.com/album/5hRm8Iis9HGj6vLDhWNoOU) | 2:54 |
 | 27 | [Pereza](https://open.spotify.com/track/0Oy1etXcmeKuWkyPbdVqnT) | [Mia Salinas](https://open.spotify.com/artist/7joyMZS5bboTR4PghWa3Um) | [Pereza](https://open.spotify.com/album/77HhN60VUTZCnySGoOG7aB) | 3:09 |
 | 28 | [Salvaje](https://open.spotify.com/track/0KLIB8E9BhIE9FTqFeu3a7) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [Ely Blancarte](https://open.spotify.com/artist/1IncEJiDn0fbUO0rDQkqB2) | [Salvaje](https://open.spotify.com/album/52ZUclHV8eBvrdRMsfGjkb) | 2:57 |
@@ -58,10 +58,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 | 48 | [Mal Acompañada](https://open.spotify.com/track/4RJlsx582twGDbz7H0M8XI) | [Martinez](https://open.spotify.com/artist/1T19oNolVnNcXU8pywjvhy), [Philip Ariaz](https://open.spotify.com/artist/0OJB7a56o2eMyB6hOmv6vC) | [Mal Acompañada](https://open.spotify.com/album/6whBPpJGLiL39sq4C7p17G) | 3:21 |
 | 49 | [Loco Demente](https://open.spotify.com/track/5IQzoxgcl28t2nhu6pY79o) | [E\-Lhoy](https://open.spotify.com/artist/5YTKQFU1MDt9KdsDhWdC5B) | [Loco Demente](https://open.spotify.com/album/7DCjPNw8hZOV4kEURpaYJv) | 3:38 |
 | 50 | [DEJA VU](https://open.spotify.com/track/2w2M7YfBSDqcigZFmMpoLL) | [Fano](https://open.spotify.com/artist/3aRfIDlreP9D5POnhqIJI1), [Callejo](https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551), [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [DEJA VU](https://open.spotify.com/album/2C6zo81kZcH4cyp8YUMLJe) | 2:51 |
-| 51 | [Tu Foto](https://open.spotify.com/track/2QUf55I8VHFfi5jOnRf1Mf) | [Daishan](https://open.spotify.com/artist/3nUAKuxhyBw6JFWNUaZWbE) | [Tu Foto](https://open.spotify.com/album/7rkNePNqJG53hXl4GzO320) | 3:00 |
-| 52 | [Terminé Contigo](https://open.spotify.com/track/17gA2iojI2oeb7DCiMlHCo) | [Lamentablemente Flow](https://open.spotify.com/artist/5b6Hl206aXLFcGUPx7DLSk) | [Terminé Contigo](https://open.spotify.com/album/0yI1O48KJZVhmQV4mhXdf9) | 2:54 |
+| 51 | [Terminé Contigo](https://open.spotify.com/track/17gA2iojI2oeb7DCiMlHCo) | [Lamentablemente Flow](https://open.spotify.com/artist/5b6Hl206aXLFcGUPx7DLSk) | [Terminé Contigo](https://open.spotify.com/album/0yI1O48KJZVhmQV4mhXdf9) | 2:54 |
+| 52 | [Tu Foto](https://open.spotify.com/track/2QUf55I8VHFfi5jOnRf1Mf) | [Daishan](https://open.spotify.com/artist/3nUAKuxhyBw6JFWNUaZWbE) | [Tu Foto](https://open.spotify.com/album/7rkNePNqJG53hXl4GzO320) | 3:00 |
 | 53 | [Loquera](https://open.spotify.com/track/3vcnWgkMcA4FqhQKhJNeIC) | [Melanie Espinosa](https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6), [Yorkinson](https://open.spotify.com/artist/5a34fiAtb9hOllbTqKUvSK), [Darho](https://open.spotify.com/artist/3Vzymy9i8OqVAbiCbAXCWq) | [Loquera](https://open.spotify.com/album/0VvhggXB5waDczdLjKG9ev) | 3:14 |
 | 54 | [Swipe Up](https://open.spotify.com/track/4ShtXgPGZ6Xj0xGoK8mvkD) | [Alan Rosales](https://open.spotify.com/artist/2mi9HBpuOnJGhganiPOdbs), [Alan Marcos](https://open.spotify.com/artist/1RFuShAGN3rRIlRXQdpN4t), [Super Kai](https://open.spotify.com/artist/0F1QfgSUowc0ZpxE4bvtkK) | [Swipe Up](https://open.spotify.com/album/2nSrXIdqNv7xbENHUjYZqZ) | 3:32 |
 | 55 | [Facetime](https://open.spotify.com/track/5cU6y5Qztm60N2UrWE01vQ) | [Luxxo](https://open.spotify.com/artist/3otSlac6GaXERmCz9opbqS) | [Facetime](https://open.spotify.com/album/69EGNC4LO6dCs1DPAkhLi8) | 2:31 |
 
-Snapshot ID: `MTY2MTQ4NjUyMCwwMDAwMDAwMGE0ODhhM2VkNGY1NzEyMzBmZDJjODU0YmJlZGUyZjJk`
+Snapshot ID: `MTY2MTQ4NjUyMCwwMDAwMDAwMDJiYTJmZmU4OTdjOGUwZGVlYjFhYWI5MmUwYTUzN2Rj`

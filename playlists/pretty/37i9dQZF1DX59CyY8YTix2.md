@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 
 > Japanese female rock icons\. Cover: chilldspot
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,845 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,859 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 43 | [赤裸裸](https://open.spotify.com/track/2fws0PJcupSLyCNCarcxGM) | [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) | [赤裸裸](https://open.spotify.com/album/0z33f6cNlOZvj8lGYIP3j4) | 2:40 |
 | 44 | [NEW ME](https://open.spotify.com/track/0essQdYYWaolOQq1MfVZ2o) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [NEW ME](https://open.spotify.com/album/1XhChLG0SmRFUKRvfws0JU) | 4:21 |
 | 45 | [ハッピーエンド](https://open.spotify.com/track/5gUzLLcqBLpQlIK6QgyCN3) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [ハッピーエンド](https://open.spotify.com/album/2sKwTRvtoCyG7iRwcTNWsT) | 5:27 |
-| 46 | [ツキカゲ](https://open.spotify.com/track/0SAsyxJVxrjwD8L7kYFL0T) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [ツキカゲ](https://open.spotify.com/album/2Hg3U9PLb4HjsnQcBxWtGm) | 3:10 |
+| 46 | [odoru yo\-ni](https://open.spotify.com/track/5i8DJaF9DX2zkxJaT1Rqva) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [踊る様に](https://open.spotify.com/album/3BJTUKmDayBruxO1l5bP5E) | 2:48 |
 | 47 | [悲しいラブソング](https://open.spotify.com/track/6exgbyrb2Bdjob70v2DhHx) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [極夜において月は語らず](https://open.spotify.com/album/2tQk4jtcmb2EPkldaRyhah) | 4:20 |
 | 48 | [私生活 \- 新訳版](https://open.spotify.com/track/0VNPsx1SsHyJCyvNwSYTHo) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [私生活 \(新訳版\)](https://open.spotify.com/album/2SOjoKF4ZeCGlEYU9osbWA) | 3:38 |
 | 49 | [lemonade](https://open.spotify.com/track/0GndrRspootOgtpvqcZDpp) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [d a n c i n g a l o n e](https://open.spotify.com/album/0mNqcoC2Tj16oiP4PL7xeN) | 3:06 |
 | 50 | [ハイライト・ハイライト](https://open.spotify.com/track/4n9ZDnOKEFlOUvQvLZqUJ3) | [the peggies](https://open.spotify.com/artist/3imCOAQnI4fF5dsncQqLBW) | [ハイライト・ハイライト](https://open.spotify.com/album/6lD4x7WoKuq5qgupcHqEP0) | 3:56 |
 
-Snapshot ID: `MTY2MzI1NDAwMCwwMDAwMDAwMGU3MzhiNjQ2ZjllNjVhYjkyOWE5ZTFiZDY4NGE2NWQ5`
+Snapshot ID: `MTY2MzI1NDAwMCwwMDAwMDAwMGI5ZWVlODY3YjczYzZiNGFmMTgxM2ViOTcwYmVmZDc1`

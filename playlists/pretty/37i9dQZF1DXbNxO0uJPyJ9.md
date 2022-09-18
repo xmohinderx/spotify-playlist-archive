@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 
 > Classic 12" singles to take you back to the the vinyl era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 580,625 likes - 80 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 580,839 likes - 80 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 42 | [Running In The Family \- Extended Version](https://open.spotify.com/track/5vTKn6MszumvJHpobYCcEq) | [Level 42](https://open.spotify.com/artist/0L9xkvBPcEp1nrhDrodxc5) | [Running In The Family \(Super Deluxe Edition\)](https://open.spotify.com/album/0ocLcPbY6DKLkAiVyHvipJ) | 6:14 |
 | 43 | [I Can Lose My Heart Tonight \- Maxi\-Version](https://open.spotify.com/track/1QdAjfmZ41ObR6cnacTIXh) | [C.C\. Catch](https://open.spotify.com/artist/1YtbaDXlnc2YMDeOqO4lmq) | [The 80's Album](https://open.spotify.com/album/0w7QO2jTbvXsNQC18EZLQZ) | 5:52 |
 | 44 | [What Is Love? \- Extended Mix](https://open.spotify.com/track/37Q1Ql8jgueqnmN0D4sFEb) | [Howard Jones](https://open.spotify.com/artist/6loBF9iQdE11WSX29fNKqY) | [The 12" Album](https://open.spotify.com/album/4Pmb0lbx2GAo6LDl9iyaYI) | 6:36 |
-| 45 | [Relax \- New York Mix](https://open.spotify.com/track/008gS3ob2GZv3e9fkWQ1k7) | [Frankie Goes To Hollywood](https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY) | [Reload! Frankie: The Whole 12 Inches](https://open.spotify.com/album/0YIzOsXGWV9ywnRlZSqORh) | 7:24 |
-| 46 | [Pump Up The Volume \- UK 12" Remix](https://open.spotify.com/track/6LERtd1yiclxFH8MHAqr0Q) | [M/A/R/R/S](https://open.spotify.com/artist/13jRo2FyagCX9wrKIpOt46) | [Pump Up The Volume](https://open.spotify.com/album/278KsI74WEu4vrwXdjPSyc) | 6:29 |
+| 45 | [Pump Up The Volume \- UK 12" Remix](https://open.spotify.com/track/6LERtd1yiclxFH8MHAqr0Q) | [M/A/R/R/S](https://open.spotify.com/artist/13jRo2FyagCX9wrKIpOt46) | [Pump Up The Volume](https://open.spotify.com/album/278KsI74WEu4vrwXdjPSyc) | 6:29 |
+| 46 | [Relax \- New York Mix](https://open.spotify.com/track/008gS3ob2GZv3e9fkWQ1k7) | [Frankie Goes To Hollywood](https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY) | [Reload! Frankie: The Whole 12 Inches](https://open.spotify.com/album/0YIzOsXGWV9ywnRlZSqORh) | 7:24 |
 | 47 | [Tainted Love / Where Did Our Love Go \- Extended Version / Medley](https://open.spotify.com/track/2atm0QTTcVXsN47XSdIY7b) | [Soft Cell](https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc) | [Non\-Stop Erotic Cabaret](https://open.spotify.com/album/1R4TikWrz6Mz53aB66dZRn) | 8:59 |
 | 48 | [Baker Street \- Extended Mix](https://open.spotify.com/track/5zQ0hhBlYb23q2XAP6Br70) | [Undercover](https://open.spotify.com/artist/5EQMhqNfNmnIIAgwQX1WZ7) | [Baker Street](https://open.spotify.com/album/719HzJ5wKCbFb5KeU96DhW) | 5:11 |
 | 49 | [Kiss Me \(1985\)](https://open.spotify.com/track/7s0CqOvyKGkyPLl6N2Bg9I) | [Stephen Duffy](https://open.spotify.com/artist/2G5cWvHkX9WSrGv6OnmpWD) | [They Called Him Tin Tin](https://open.spotify.com/album/1WE9klbrrh3FS7CGkFwkZT) | 3:53 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 79 | [She Blinded Me With Science \- Extended Version](https://open.spotify.com/track/1vORDwbaam9l3Z7OMXdzhw) | [Thomas Dolby](https://open.spotify.com/artist/2Uz58cSxlJgefDaSikxYQ7) | [12x12 Original Remixes](https://open.spotify.com/album/7lrciFpBNouYjer14LGVwO) | 5:10 |
 | 80 | [I Feel Love / Johnny Remember Me](https://open.spotify.com/track/5HgqQJMn2cwVCP34GuwQHc) | [Bronski Beat](https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08) | [The Very Best Of Jimmy Somerville, Bronski Beat & The Communards](https://open.spotify.com/album/1B167z084g8Q52jRazKLVZ) | 5:46 |
 
-Snapshot ID: `MTY1NDg2MjY5NCwwMDAwMDAwMDAyNmYyNGM5MTAxMjczODg0ODk3MjRiY2ExNmEzOWYw`
+Snapshot ID: `MTY1NDg2MjY5NCwwMDAwMDAwMDhhMjYwNWZhZGRiMWU1NzQxOTY0YWRhMWM3OGYxYzY1`

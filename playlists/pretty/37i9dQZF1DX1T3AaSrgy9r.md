@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T3AaSrgy9r.md) - [plain]
 
 > Underground dance and alternative that went on to define a new millennium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,687 likes - 88 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,761 likes - 88 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 
 > Relax with this Peaceful Indie Ambient mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 400,354 likes - 110 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 400,377 likes - 110 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

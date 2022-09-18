@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nBpII.md) - [plain]
 
 > This is Green Day\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 903,830 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 904,177 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,11 +20,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nBpII.md) - [plain]
 | 10 | [Holiday / Boulevard of Broken Dreams](https://open.spotify.com/track/0MsrWnxQZxPAcov7c74sSo) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot](https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke) | 8:13 |
 | 11 | [Brain Stew](https://open.spotify.com/track/1nLnpLXvl68RZCSjfkyiaa) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Insomniac](https://open.spotify.com/album/7d3nOmFvL51roNElAdpi9d) | 3:13 |
 | 12 | [Know Your Enemy](https://open.spotify.com/track/5qtwzv99vOr5UTwnTixn7j) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [21st Century Breakdown](https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79) | 3:10 |
-| 13 | [Longview](https://open.spotify.com/track/3LRJbFT9rKoKv4aW7PuBJC) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dookie](https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6) | 3:53 |
+| 13 | [She](https://open.spotify.com/track/4wsQGsdf8D0Bj26cGdvreB) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dookie](https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6) | 2:14 |
 | 14 | [Jesus of Suburbia](https://open.spotify.com/track/58KPPL1AdLHMvR2O2PZejr) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot](https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke) | 9:08 |
 | 15 | [Hitchin' a Ride](https://open.spotify.com/track/6WlmA3HPHuNIR2mxI8LkZF) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nimrod](https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA) | 2:51 |
 | 16 | [Last Night on Earth](https://open.spotify.com/track/5TpPSTItCwtZ8Sltr3vdzm) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [21st Century Breakdown](https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79) | 3:56 |
-| 17 | [She](https://open.spotify.com/track/4wsQGsdf8D0Bj26cGdvreB) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dookie](https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6) | 2:14 |
+| 17 | [Longview](https://open.spotify.com/track/3LRJbFT9rKoKv4aW7PuBJC) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dookie](https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6) | 3:53 |
 | 18 | [Minority](https://open.spotify.com/track/4qjfQnccStTR8zNsb6Mizo) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Warning](https://open.spotify.com/album/3ifIxGNsG1XmLdoanRRIWB) | 2:48 |
 | 19 | [Still Breathing](https://open.spotify.com/track/19YmvsVCetCBeVj6O2mljR) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Revolution Radio](https://open.spotify.com/album/5a3LqvNt2nv1B4aRKXmgOV) | 3:44 |
 | 20 | [Give Me Novacaine / She's a Rebel](https://open.spotify.com/track/11I3KKHv7g2pXiuqRDabRA) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot](https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke) | 5:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nBpII.md) - [plain]
 | 49 | [2000 Light Years Away](https://open.spotify.com/track/6pM25DLzJb5oWj74d3ElXI) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Kerplunk!](https://open.spotify.com/album/1UShup0VvfxhxS7j3Omxh2) | 2:24 |
 | 50 | [99 Revolutions](https://open.spotify.com/track/3CgT96psOXwPssPNvYPclP) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [¡TRÉ!](https://open.spotify.com/album/1t9rzuEEFVHPdqRYzsaWC8) | 3:49 |
 
-Snapshot ID: `Mjc3MjIyMzMsMDAwMDAwMDBjNjczMjIyYjAxZjc3OTQ5ZjFjN2Y3ZjYyOTIyMTg3YQ==`
+Snapshot ID: `Mjc3MjM2OTMsMDAwMDAwMDA4MjlkMTVkYmNhMmE4ODgzYTcwMTFjODc3NWU1ZjAwOQ==`

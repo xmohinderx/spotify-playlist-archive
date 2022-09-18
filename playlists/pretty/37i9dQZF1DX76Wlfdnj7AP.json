@@ -1,12 +1,12 @@
 {
   "description": "Get your beast mode on!",
-  "num_followers": 9243718,
+  "num_followers": 9246370,
   "original_name": "Beast Mode",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5NjAwMCwwMDAwMDAwMGRhYzAzNzhhNGI2OWFkMGI2YjUxZWMyZWRiNWE2ZmZk",
+  "snapshot_id": "MTY2MjY5NjAwMCwwMDAwMDAwMDE4NDA0YWNkOGY3NWIzYTNjNTM2NzUxNTZmNTE1NWYz",
   "tracks": [
     {
       "added_at": "2022-09-09 04:00:00",
@@ -3595,26 +3595,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Euphoric Sad Songs",
-        "url": "https://open.spotify.com/album/7u2byARDMi8YgqSVhKArYB"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "Rudimental",
-          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
-        }
-      ],
-      "duration_ms": 197573,
-      "name": "Regardless",
-      "url": "https://open.spotify.com/track/3DTqHfTGj1c6y2gDXsTez4"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "Skydance",
         "url": "https://open.spotify.com/album/7Dur0wY6jLRi0anvrDNnxu"
       },
@@ -3635,6 +3615,26 @@
       "duration_ms": 166812,
       "name": "Skydance",
       "url": "https://open.spotify.com/track/0c5nqQNIH07Lh16AOjqEPQ"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Euphoric Sad Songs",
+        "url": "https://open.spotify.com/album/7u2byARDMi8YgqSVhKArYB"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+        }
+      ],
+      "duration_ms": 197573,
+      "name": "Regardless",
+      "url": "https://open.spotify.com/track/3DTqHfTGj1c6y2gDXsTez4"
     },
     {
       "added_at": "2022-09-09 04:00:00",

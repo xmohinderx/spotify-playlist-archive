@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-01",
-  "description": "With Max Reichert, A N X, Wesley Collins and more",
+  "description": "With Max Reichert, brodyn, Wesley Collins and more",
   "name": "NIGHT TRAVELER Radio",
   "published_playlist_ids": [
     "7516uBfjNbecLTG6tnzPU5"
@@ -453,7 +453,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-12",
+      "date_removed": null,
       "duration_ms": 250115,
       "name": "Afterlight",
       "url": "https://open.spotify.com/track/7AqwHyvfKXNACFKhqvbZIO"
@@ -1287,7 +1287,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 244706,
       "name": "Bad News!",
       "url": "https://open.spotify.com/track/4COHO7LKVfV03fEOFqzyN9"
@@ -1453,7 +1453,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 276685,
       "name": "Berenstein",
       "url": "https://open.spotify.com/track/3rrv1sQftMszpL7vxLSvX2"
@@ -1889,7 +1889,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 236012,
       "name": "Brighter Days",
       "url": "https://open.spotify.com/track/00hp7YyZAyA31q0S9rddVP"
@@ -2125,6 +2125,24 @@
       "duration_ms": 298666,
       "name": "Calling",
       "url": "https://open.spotify.com/track/6SJ0cNfpnl2kJLWlXnMbRb"
+    },
+    {
+      "album": {
+        "name": "Camera Roll",
+        "url": "https://open.spotify.com/album/3JGTpgZJ8KKQHM2DJOb09P"
+      },
+      "artists": [
+        {
+          "name": "tacotimelover",
+          "url": "https://open.spotify.com/artist/70Z9F5ZrEt6eeiitoJBqgh"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208226,
+      "name": "Camera Roll",
+      "url": "https://open.spotify.com/track/3e4sB2uOwLGuQtlfTmmqc1"
     },
     {
       "album": {
@@ -2413,6 +2431,24 @@
       "duration_ms": 222625,
       "name": "Catch u",
       "url": "https://open.spotify.com/track/1xSnQe2bIGWnowjF2gOhUO"
+    },
+    {
+      "album": {
+        "name": "Chance",
+        "url": "https://open.spotify.com/album/6wBSFNmCcmWC17qddOnFgH"
+      },
+      "artists": [
+        {
+          "name": "Francis Moon",
+          "url": "https://open.spotify.com/artist/34vKz2ZsiJJiB2W1YMHtCG"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225600,
+      "name": "Chance",
+      "url": "https://open.spotify.com/track/6nvCpip835BXPLu5t27wKA"
     },
     {
       "album": {
@@ -3885,6 +3921,24 @@
     {
       "album": {
         "name": "Everything Ends Up Ending",
+        "url": "https://open.spotify.com/album/5NZ0kjAcKNZQc9RYmOuzCa"
+      },
+      "artists": [
+        {
+          "name": "Laureline",
+          "url": "https://open.spotify.com/artist/6NLvlpFHjAedoPwWoPfGgK"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190261,
+      "name": "Everything Ends Up Ending",
+      "url": "https://open.spotify.com/track/1EJd97lScDxWwqnPG18LMT"
+    },
+    {
+      "album": {
+        "name": "Everything Ends Up Ending",
         "url": "https://open.spotify.com/album/2dsxWOvOPWcVg0rIBSOo1n"
       },
       "artists": [
@@ -4835,7 +4889,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 233898,
       "name": "G C V",
       "url": "https://open.spotify.com/track/2RrxcgpzvurTlA9mjf7bz2"
@@ -5307,7 +5361,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-09",
+      "date_removed": null,
       "duration_ms": 193600,
       "name": "Goodbye Sunshine",
       "url": "https://open.spotify.com/track/1QSRDBBJJApsXaIorlXRNU"
@@ -5325,7 +5379,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-12",
+      "date_removed": null,
       "duration_ms": 332467,
       "name": "goodbyes",
       "url": "https://open.spotify.com/track/5eKFmFs8T4dUUJJsvXaFD7"
@@ -5707,7 +5761,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 230769,
       "name": "Hey Carolina",
       "url": "https://open.spotify.com/track/5O46BpWmJNF6HL3sowDLuj"
@@ -6443,6 +6497,24 @@
       "duration_ms": 202000,
       "name": "I Love You",
       "url": "https://open.spotify.com/track/1JWUUSoVpMjz1Sgy56kFUg"
+    },
+    {
+      "album": {
+        "name": "Wash",
+        "url": "https://open.spotify.com/album/13PivTjVtAlNX45TRXKqB4"
+      },
+      "artists": [
+        {
+          "name": "Laureline",
+          "url": "https://open.spotify.com/artist/6NLvlpFHjAedoPwWoPfGgK"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "I Love You",
+      "url": "https://open.spotify.com/track/2asYogTvOCEZe9LGIjzMA4"
     },
     {
       "album": {
@@ -7733,7 +7805,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 357841,
       "name": "Let the New Begin",
       "url": "https://open.spotify.com/track/5UqUuK9rchr0QOkxMifXsC"
@@ -7949,7 +8021,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-11",
+      "date_removed": null,
       "duration_ms": 250500,
       "name": "Longing",
       "url": "https://open.spotify.com/track/7qIxh0VWxBODoXLqEC8gDO"
@@ -8057,7 +8129,7 @@
       ],
       "date_added": "2022-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-11",
+      "date_removed": null,
       "duration_ms": 240725,
       "name": "Losing Touch",
       "url": "https://open.spotify.com/track/6YrZ1StlY8AA64Bm72F1YD"
@@ -8129,7 +8201,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-17",
+      "date_removed": null,
       "duration_ms": 322778,
       "name": "Loud",
       "url": "https://open.spotify.com/track/7MN4PQjDv0YDxFrd9MCSIW"
@@ -9283,7 +9355,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 211108,
       "name": "My Thoughts On You",
       "url": "https://open.spotify.com/track/0OkMj0czyhrDCIhOSLFpHK"
@@ -10117,7 +10189,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-16",
+      "date_removed": null,
       "duration_ms": 453466,
       "name": "Ocean Cabin",
       "url": "https://open.spotify.com/track/4yQzYdkSjjQ35FD2Hm0EYJ"
@@ -10175,7 +10247,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-09",
+      "date_removed": null,
       "duration_ms": 187428,
       "name": "Okay With That",
       "url": "https://open.spotify.com/track/6OOmFgjdqSqeBXORizLbG2"
@@ -11357,7 +11429,7 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 213125,
       "name": "road to somewhere",
       "url": "https://open.spotify.com/track/1iHwNjAxqvaKQ9odxOyiVq"
@@ -12937,7 +13009,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 280093,
       "name": "Surefire",
       "url": "https://open.spotify.com/track/3yTPovBS6q8zcevTR3UowE"
@@ -13233,7 +13305,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 225263,
       "name": "Tear Us Apart",
       "url": "https://open.spotify.com/track/2PI4viXKYk9GFN66U9Bael"
@@ -13377,7 +13449,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 279197,
       "name": "The Black and White",
       "url": "https://open.spotify.com/track/3sgqeL8dmOt1Pw8TkeyjsR"
@@ -14945,7 +15017,7 @@
       ],
       "date_added": "2021-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 274219,
       "name": "Who You Run To",
       "url": "https://open.spotify.com/track/7gJyqHkm6sCcagFvyat3zC"

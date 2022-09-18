@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzML3sgXnWTr.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0Na8xJd70B204c85CX7s7K">Alessandro La Cava</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,635 likes - 32 songs - 1 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,639 likes - 33 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,5 +40,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzML3sgXnWTr.md) - [plain]
 | 30 | [Occhi verdi](https://open.spotify.com/track/3J4gqixO14RACrX3ISIR4l) | [Deddy](https://open.spotify.com/artist/7FoxLMG7HePgQvwDfJj7VR) | [Il cielo contromano su Giove](https://open.spotify.com/album/21gWOI8QKz6gRqEEyUJbdy) | 3:43 |
 | 31 | [Luna](https://open.spotify.com/track/2zyiYftVAL1eKQZtMxG1IZ) | [Baby K](https://open.spotify.com/artist/725KKhVCSCQbYkZBptBTfg) | [Donna sulla Luna](https://open.spotify.com/album/5zWZQPpSRsDwx6AwmkMZmD) | 3:31 |
 | 32 | [Fili Del Tram](https://open.spotify.com/track/5jJnKCA8bSdNtSGa1VL5jY) | [Beba](https://open.spotify.com/artist/6ZpOQK1OKdCybuOgMkdbUh) | [Crisalide](https://open.spotify.com/album/5291vGtKdgVQco8wobFIAA) | 2:52 |
+| 33 | [Tutti I Miei Ricordi](https://open.spotify.com/track/1QBuTS2nDVBmqiOG9jneej) | [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5) | [Tutti I Miei Ricordi](https://open.spotify.com/album/46rBMQmLv2LTBJnJfDXdW1) | 3:24 |
 
-Snapshot ID: `Mjc3MjI5NjcsMDAwMDAwMDA3NTFjMDE3ODY2NjUyZTgwOGI4NDA4ZDE0ZDE1ODYzYQ==`
+Snapshot ID: `Mjc3MjQ0MDcsMDAwMDAwMDAwMWY5MmI2MjdlNDIyZTFjODM2NzYwMzcyZDA2NzU0Nw==`

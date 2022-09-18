@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,317 likes - 105 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,321 likes - 105 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,7 +110,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 100 | [NUNA](https://open.spotify.com/track/6L5ImrjJJKVYJQzjpARPXj) | [队长](https://open.spotify.com/artist/4SpsVETdnMLwPHyOW0FlQz) | [NUNA](https://open.spotify.com/album/3q988MNRDhIto8xDT7ireC) | 3:42 |
 | 101 | [Pierrot 我的憂傷來自於別人總希望我假裝不是我](https://open.spotify.com/track/34qgtn2RjKTezK6bmSpYDQ) | [Lisa Djaati](https://open.spotify.com/artist/0B5SvQzqGubvGgPBEtNOb0) | [Pierrot 我的憂傷來自於別人總希望我假裝不是我](https://open.spotify.com/album/7BDOHL3Ya0lRhiSwOCJHYL) | 4:02 |
 | 102 | [只希望你在我身邊](https://open.spotify.com/track/0qzKWCwHoqIeobkRJeYi2P) | [Jerry Li](https://open.spotify.com/artist/0PSG0vJNGf6Nc0Vu0S1yFW) | [只希望你在我身邊](https://open.spotify.com/album/3ub4CdGouGmgJKdgJA1e3g) | 2:26 |
-| 103 | [Miss You \(Just Sometimes\)](https://open.spotify.com/track/5OtB6e83NLtJ8r9OG00MTy) | [Ludy Lin](https://open.spotify.com/artist/1R0cObmnor05tlv7srRXUv) | [Miss You \(Just Sometimes\)](https://open.spotify.com/album/6648dCezD9ERZNeG6dK0DA) | 4:05 |
+| 103 | [Miss You \(Just Sometimes\)](https://open.spotify.com/track/5OtB6e83NLtJ8r9OG00MTy) | [林昱君](https://open.spotify.com/artist/4aTciujkHwkZ5N3t97dQcJ) | [Miss You \(Just Sometimes\)](https://open.spotify.com/album/6648dCezD9ERZNeG6dK0DA) | 4:05 |
 | 104 | [起點](https://open.spotify.com/track/15NALogLwSNm0Ua8hDUajh) | [吳霏](https://open.spotify.com/artist/2q5HrJWKwU4iHaTTSKGZC4), [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [起點](https://open.spotify.com/album/4akCQJ2lHWkMv7XtdvEF8z) | 3:46 |
 | 105 | [那一瞬間](https://open.spotify.com/track/0DHbVRD1gGwinQ38FtJGIx) | [Jess Lee](https://open.spotify.com/artist/02Cz717BTulFiQXUuIXH6n) | [痛快](https://open.spotify.com/album/5fPY9JLLnYDO0Qq579u844) | 5:30 |
 

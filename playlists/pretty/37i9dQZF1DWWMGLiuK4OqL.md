@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWMGLiuK4OqL.md) - [plain]
 
 > The soft sound of some of the smoothest and sweetest vocal Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,030 likes - 200 songs - 13 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,205 likes - 200 songs - 13 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,8 +122,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWMGLiuK4OqL.md) - [plain]
 | 112 | [I Get Along Without You Very Well](https://open.spotify.com/track/36ijrUpp53t9EBJa31Yus4) | [Ellen Andersson](https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog) | [You Should Have Told Me](https://open.spotify.com/album/24zLLdsQq4OwtSpS3SiEQJ) | 3:32 |
 | 113 | [Velvet Curtains \(feat\. Håkon Kornstad\)](https://open.spotify.com/track/4wfF91BDvZYOiP7LKq2New) | [Silje Nergaard](https://open.spotify.com/artist/3hCQUVIcg8nWvkZToF4rqc), [Håkon Kornstad](https://open.spotify.com/artist/6rvXcIk2e2Xv8sZ5bP6pm2) | [Velvet Curtains \(feat\. Håkon Kornstad\)](https://open.spotify.com/album/4zi13mNLYwuG0gpoadaE3q) | 6:11 |
 | 114 | [I'll Tell You Something](https://open.spotify.com/track/5aHWPIWwqo4cjAJj40C4hc) | [Gabi Hartmann](https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn) | [I'll Tell You Something](https://open.spotify.com/album/7icT4J8ofNlqAujrQvmUTv) | 4:11 |
-| 115 | [When I Fall in Love](https://open.spotify.com/track/6bfmn9xi67kQBOaIgwQK6r) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Bublé! \(Original Soundtrack from his NBC TV Special\)](https://open.spotify.com/album/7f14q8bSMN3168ifOhmy3M) | 3:07 |
-| 116 | [It Had To Be You](https://open.spotify.com/track/6wHE239XacQWh9qJtGGaGJ) | [Lara Louise](https://open.spotify.com/artist/0rwgLdQ7uMiqUxEpMLOGyI), [Colm Ó Riain](https://open.spotify.com/artist/5tcTYOhvC9z97PfsUC25mr) | [It Had To Be You](https://open.spotify.com/album/4OCNUHcGGDd3ebWfFnQqMM) | 2:38 |
+| 115 | [It Had To Be You](https://open.spotify.com/track/6wHE239XacQWh9qJtGGaGJ) | [Lara Louise](https://open.spotify.com/artist/0rwgLdQ7uMiqUxEpMLOGyI), [Colm Ó Riain](https://open.spotify.com/artist/5tcTYOhvC9z97PfsUC25mr) | [It Had To Be You](https://open.spotify.com/album/4OCNUHcGGDd3ebWfFnQqMM) | 2:38 |
+| 116 | [When I Fall in Love](https://open.spotify.com/track/6bfmn9xi67kQBOaIgwQK6r) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Bublé! \(Original Soundtrack from his NBC TV Special\)](https://open.spotify.com/album/7f14q8bSMN3168ifOhmy3M) | 3:07 |
 | 117 | [Night And Day](https://open.spotify.com/track/65cIgw9x1CGjpn1ar351Rl) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Stardust...The Great American Songbook III](https://open.spotify.com/album/7Eq9kjeFYGjUAlEgDrAiOU) | 3:08 |
 | 118 | [The Nearness of You](https://open.spotify.com/track/1XF80YjwjuzuIfLzIfbqkt) | [Camille Harris](https://open.spotify.com/artist/245uCozaIRf8nxTWhQ09rL), [David Linard](https://open.spotify.com/artist/3dcJT8sUQjH1UPor3vDh6l) | [The Nearness of You](https://open.spotify.com/album/1m52IEUS08ohNLcVyxdyqu) | 5:03 |
 | 119 | [At Long Last Love \- Live](https://open.spotify.com/track/2w945NuM37wWFP4oU0jMqE) | [Lauren Henderson](https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l), [Barry Stephenson](https://open.spotify.com/artist/2be2q753N8e1UfuV5AvqNa), [Joe Dyson](https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS), [Sullivan Fortner](https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5) | [At Long Last Love \(Live\)](https://open.spotify.com/album/2U1H2DJYHC4TGCcnjA4be1) | 2:51 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWMGLiuK4OqL.md) - [plain]
 | 199 | [Black Coffee](https://open.spotify.com/track/3jqy4CSWyFSze9NNKRaBR1) | [Live Foyn Friis](https://open.spotify.com/artist/4dZ1woIhLE3Y92MRKhr8af), [Bård Helgerud](https://open.spotify.com/artist/2GMYgVdLfQj8frPJDRLkvh), [Rodrigo Villagra](https://open.spotify.com/artist/0RgfOjYOuHTiBygi9BwAzv), [Magnus Sefaniassen Eide](https://open.spotify.com/artist/6S5pM5PQo4Z7dv6xUE8Ahw) | [Live Sings Sassy](https://open.spotify.com/album/1iimKeyogFlVxDgnrpaKTr) | 6:33 |
 | 200 | [Thinker and a Fool](https://open.spotify.com/track/5yO7yyLiVsvBj1xrAvZLnR) | [Mathieu Soucy](https://open.spotify.com/artist/34EB0yXyCqgJZ9i0axQfes), [Caity Gyorgy](https://open.spotify.com/artist/0TSL0OGIj6V45IpatPaVZO) | [Thinker and a Fool](https://open.spotify.com/album/6WuEy5rVoYSdLWKBFA2REb) | 6:00 |
 
-Snapshot ID: `MTY2MzI3OTIwMCwwMDAwMDAwMGUxM2E2NjZkOGNjNmUwZmRhN2ZlNDExY2ZjYjYwZTlk`
+Snapshot ID: `MTY2MzI3OTIwMCwwMDAwMDAwMGJlMWU0YjNkODlhMTA3YTIzM2ZhNWEyNWY3OTc3NGM4`

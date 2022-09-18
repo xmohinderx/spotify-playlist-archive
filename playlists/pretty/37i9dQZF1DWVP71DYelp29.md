@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVP71DYelp29.md) - [plain]
 
 > The hits you know like you’ve never heard before\.  Cover: Harry Styles.
 
-[Spotify](https://open.spotify.com/user/spotify) - 724,737 likes - 125 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 724,772 likes - 125 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVP71DYelp29.md) - [plain]
 | 80 | [Sky Walker \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4oqJfELaUGTTAhpYP2HQGM) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Spotify Singles](https://open.spotify.com/album/3fUHDbd0oujqAerhHZjdsj) | 3:04 |
 | 81 | [Dead Boys \- Recorded At RAK Studios, London](https://open.spotify.com/track/1Ng4nksVkQboROGiRsvjBS) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Spotify Singles](https://open.spotify.com/album/77f0EwaAvS5nremTuOHqZL) | 3:33 |
 | 82 | [You Need To Calm Down \- Recorded At Abbey Road Studios, London](https://open.spotify.com/track/636fGHC8LlkdwUoNhYDPjR) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Spotify Singles](https://open.spotify.com/album/2bOO36ZGSYDuXj27cdnxKE) | 3:15 |
-| 83 | [Friends \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3jb6ByvjXfeM1p0ISGN584) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Spotify Singles](https://open.spotify.com/album/0VcmfkTIowuHgCCurP5xf7) | 3:00 |
-| 84 | [Adore You \- Recorded at Parr Street Studios](https://open.spotify.com/track/5XXZ66ZImYeF7qMk1vbe2L) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [Spotify Singles](https://open.spotify.com/album/1vpkXxcn8dnyKLWhpJvtKN) | 3:55 |
+| 83 | [Adore You \- Recorded at Parr Street Studios](https://open.spotify.com/track/5XXZ66ZImYeF7qMk1vbe2L) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [Spotify Singles](https://open.spotify.com/album/1vpkXxcn8dnyKLWhpJvtKN) | 3:55 |
+| 84 | [Friends \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3jb6ByvjXfeM1p0ISGN584) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Spotify Singles](https://open.spotify.com/album/0VcmfkTIowuHgCCurP5xf7) | 3:00 |
 | 85 | [Hunger \- Recorded At RAK Studios, London](https://open.spotify.com/track/1HwuSP4S2lun5IExwkCEOi) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Spotify Singles](https://open.spotify.com/album/6MfeMJhhtj6Aas0rDfkHcO) | 3:34 |
 | 86 | [cool girl \- Recorded at Spotify Studios, NYC / 2016](https://open.spotify.com/track/6Cpcf5MKT7O04wlSJ7EixQ) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Spotify Singles](https://open.spotify.com/album/6FOhbAW6X74onlLJOTNIjD) | 3:24 |
 | 87 | [Pressure \- Live at AIR Studios, London](https://open.spotify.com/track/3aaKyI6jJUNaGGa9PVmzMz) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Spotify Singles](https://open.spotify.com/album/2C5HYffMBumERQlNfceyrO) | 3:55 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVP71DYelp29.md) - [plain]
 | 124 | [Stay \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3kSIXQW05MKcprFP1RtwWX) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Spotify Singles](https://open.spotify.com/album/1DwD96qkcmYfDAor27Gj38) | 4:04 |
 | 125 | [Walking Away \- Recorded At Spotify Studios Stockholm](https://open.spotify.com/track/6eXTECbiawTve7VP1vEDcs) | [NODE](https://open.spotify.com/artist/03WNJB1zKyqW8DimkHP4Bg) | [Spotify Singles](https://open.spotify.com/album/4ZXl1inxvsA1x3uKIIRomO) | 3:21 |
 
-Snapshot ID: `MTY2MzI1NzIzNSwwMDAwMDAwMGEyYjViMTM1ZWQ4Yzk2YmUyZGI5MTYzZWI0ZGYyMTA3`
+Snapshot ID: `MTY2MzI1NzIzNSwwMDAwMDAwMDAxOWFiOGFiYzZiNzViZGQ5NTMxMmE4ZjE1MWViNjYw`

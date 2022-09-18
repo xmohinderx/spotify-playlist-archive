@@ -4,7 +4,7 @@
 
 > Workout music for hamsters.
 
-43 songs - 2 hr 20 min - [published](https://open.spotify.com/playlist/7kWSdWcCJPk2TXY65mMg6G)
+44 songs - 2 hr 23 min - [published](https://open.spotify.com/playlist/7kWSdWcCJPk2TXY65mMg6G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [Cigarettes On Patios](https://open.spotify.com/track/0LJDFZohBgWOMvXQw0cc9W) | [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [Cigarettes On Patios](https://open.spotify.com/album/5vN3lm8mcpQ9IoQ3Xutrkw) | 3:27 | 2020-01-10 |  |
 | [Clout \(feat\. Cardi B\)](https://open.spotify.com/track/59ywHNwwchG4nZJMLyxSzd) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [FATHER OF 4](https://open.spotify.com/album/6bPpXqJRpjwy0hLyUGtzYc) | 3:25 | 2020-01-10 |  |
 | [Coming In Hot](https://open.spotify.com/track/1kVYXfxTWSftIZtmYr6yH8) | [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Coming In Hot](https://open.spotify.com/album/2osaP8edSKG8bVFKBoWIcV) | 3:20 | 2020-01-10 |  |
-| [Death Rail](https://open.spotify.com/track/0gtuo2bvKsqW8yiqQvvtcr) | [Hi I'm Ghost](https://open.spotify.com/artist/7IyxUmBgkkV4jh7kHoip34) | [Death Rail](https://open.spotify.com/album/2LrqZEdBSCA2yKt0fs5Q8H) | 2:31 | 2020-01-10 |  |
+| [Death Rail](https://open.spotify.com/track/0gtuo2bvKsqW8yiqQvvtcr) | [Hi I'm Ghost](https://open.spotify.com/artist/7IyxUmBgkkV4jh7kHoip34) | [Death Rail](https://open.spotify.com/album/2LrqZEdBSCA2yKt0fs5Q8H) | 2:31 | 2020-01-10 | 2022-09-18 |
+| [Death Rail](https://open.spotify.com/track/6ZI5UgjEGb82o1XaAZKLJ2) | [Hi I'm Ghost](https://open.spotify.com/artist/7IyxUmBgkkV4jh7kHoip34) | [Death Rail](https://open.spotify.com/album/4C0vIxaCTSloENgeyOFgZ8) | 2:31 | 2020-01-10 |  |
 | [Enemies \(feat\. DaBaby\)](https://open.spotify.com/track/0Xek5rqai2jcOWCYWJfVCF) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Hollywood's Bleeding](https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi) | 3:16 | 2020-01-10 |  |
 | [Everytime](https://open.spotify.com/track/3Dlv85xfEEA3wTiqjFvQ2p) | [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL) | [MOOD.](https://open.spotify.com/album/5mzSKAa5VUkVUwouDZznuF) | 3:08 | 2020-01-10 |  |
 | [Go Loko](https://open.spotify.com/track/3SZqA7rQvROJsCbUu2v0xa) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1) | [Go Loko](https://open.spotify.com/album/1GZ1ugREGYIdS5isG2PIFD) | 4:59 | 2020-01-10 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F6PJe.md) - [plain]
 
 > This is Joe Bonamassa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,794 likes - 50 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,823 likes - 50 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F6PJe.md) - [plain]
 | 17 | [Beyond The Silence \- Live](https://open.spotify.com/track/0eanKKNuZ7maqjNstIUqQX) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Now Serving: Royal Tea Live From The Ryman](https://open.spotify.com/album/1At9QeiTNZXMtD3WKJldg9) | 7:14 |
 | 18 | [Don't Explain](https://open.spotify.com/track/4aTIy3tZ3THeVp3eu6nsw8) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Don't Explain](https://open.spotify.com/album/2uyORQ080sXcPN0oO5lXvT) | 4:34 |
 | 19 | [Hanging On A Loser](https://open.spotify.com/track/6B4KDiLeMu7RveS2W3IOWI) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Time Clocks](https://open.spotify.com/album/1suaXSbT97Vm2D8x2N6cnD) | 4:17 |
-| 20 | [The Ghost Of Macon Jones](https://open.spotify.com/track/6kqPxNCsODUHqipFNYYNZL) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Redemption](https://open.spotify.com/album/0RYR3Kbdh86eNax0i2ulCQ) | 5:24 |
-| 21 | [Stop!](https://open.spotify.com/track/3WFfqRoJhJeHIZzKdW5xXZ) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [The Ballad of John Henry](https://open.spotify.com/album/0H8c4DhrLk4mtFaiYt43GN) | 6:48 |
+| 20 | [Stop!](https://open.spotify.com/track/3WFfqRoJhJeHIZzKdW5xXZ) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [The Ballad of John Henry](https://open.spotify.com/album/0H8c4DhrLk4mtFaiYt43GN) | 6:48 |
+| 21 | [The Ghost Of Macon Jones](https://open.spotify.com/track/6kqPxNCsODUHqipFNYYNZL) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Redemption](https://open.spotify.com/album/0RYR3Kbdh86eNax0i2ulCQ) | 5:24 |
 | 22 | [Tennessee Plates](https://open.spotify.com/track/7IqgzG3pELbSdoIAInTI19) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [John Hiatt](https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV) | [Dust Bowl](https://open.spotify.com/album/4J2xuF936SVnrgLtbRLbxM) | 4:18 |
 | 23 | [The Valley Runs Low](https://open.spotify.com/track/5NvVaWVoHEUKe2Sau3iLdT) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Of Desperation](https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h) | 4:03 |
 | 24 | [So Many Roads](https://open.spotify.com/track/4rsRYhm78huEfclb5NW5Ps) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [You & Me](https://open.spotify.com/album/4kel2Yi8IWl4Ur5LEWAQqv) | 7:05 |
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F6PJe.md) - [plain]
 | 36 | [This Train \- Live](https://open.spotify.com/track/3TfM4iSLcv9f7mhp0GM1Yp) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [This Train \(Live\)](https://open.spotify.com/album/4mjY6VfFAXgbvw95PaSu8b) | 8:24 |
 | 37 | [Evil Mama](https://open.spotify.com/track/2UCiflrlPIgcCKj3vVP0VF) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Redemption](https://open.spotify.com/album/0RYR3Kbdh86eNax0i2ulCQ) | 5:29 |
 | 38 | [The Heart That Never Waits](https://open.spotify.com/track/4sb2JUFkGwT9jfzM7lcQBI) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Time Clocks](https://open.spotify.com/album/1suaXSbT97Vm2D8x2N6cnD) | 5:51 |
-| 39 | [Ace Of Spades](https://open.spotify.com/track/5MmG5hbnnNp87pS7xTtDct) | [The Sleep Eazys](https://open.spotify.com/artist/0YOfaMnBdhgZYpD0X2wwo9), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Easy To Buy, Hard To Sell](https://open.spotify.com/album/4cXGtJDtaqZwMgsmlSeklF) | 3:16 |
-| 40 | [Nutbush City Limits](https://open.spotify.com/track/07nZ2XeSabtqpx9Gy67xac) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Seesaw](https://open.spotify.com/album/4YeG1gnArhUBfqGyuJe2vT) | 3:36 |
+| 39 | [Nutbush City Limits](https://open.spotify.com/track/07nZ2XeSabtqpx9Gy67xac) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Seesaw](https://open.spotify.com/album/4YeG1gnArhUBfqGyuJe2vT) | 3:36 |
+| 40 | [Ace Of Spades](https://open.spotify.com/track/5MmG5hbnnNp87pS7xTtDct) | [The Sleep Eazys](https://open.spotify.com/artist/0YOfaMnBdhgZYpD0X2wwo9), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Easy To Buy, Hard To Sell](https://open.spotify.com/album/4cXGtJDtaqZwMgsmlSeklF) | 3:16 |
 | 41 | [I Want My Crown](https://open.spotify.com/track/2in7I4NcwamHLIEMh4V8o5) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Crown](https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i) | 4:19 |
 | 42 | [Notches](https://open.spotify.com/track/37OvIUoTAlKsuO3nTGSLSf) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Time Clocks](https://open.spotify.com/album/1suaXSbT97Vm2D8x2N6cnD) | 7:03 |
 | 43 | [We're All In This Together](https://open.spotify.com/track/2FIoA2HXo95j29Do5jg9jq) | [Walter Trout](https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [We're All In This Together](https://open.spotify.com/album/2bJmqY2kvocUFcDa1tEaDw) | 7:57 |
 | 44 | [Reconsider Baby](https://open.spotify.com/track/46tOHo9SThlggrU2MiijEC) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Had to Cry Today](https://open.spotify.com/album/4NS1YYttwG5mtWQCdpbvjV) | 6:51 |
-| 45 | [Redemption](https://open.spotify.com/track/0Q8IxQDgQ1Yyz7rBP8dUHg) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Redemption](https://open.spotify.com/album/0RYR3Kbdh86eNax0i2ulCQ) | 5:57 |
+| 45 | [Walk In My Shadow \- Live](https://open.spotify.com/track/79Xp4e2RCN5LAwZzQFNFL3) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Walk In My Shadow \(Live\)](https://open.spotify.com/album/3c92mQu8Q4IqtrW7qxatLT) | 4:29 |
 | 46 | [Dust Bowl](https://open.spotify.com/track/1i7QbG73o4liXhmbtaT7Z3) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Dust Bowl](https://open.spotify.com/album/4J2xuF936SVnrgLtbRLbxM) | 4:33 |
 | 47 | [Ain't No Way](https://open.spotify.com/track/3XpmFvsO8U4kMlVmxcc0AH) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Don't Explain](https://open.spotify.com/album/2uyORQ080sXcPN0oO5lXvT) | 6:47 |
 | 48 | [The Ballad of John Henry](https://open.spotify.com/track/1jIerjgmmIjYoiRaf0DaM0) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [The Ballad of John Henry](https://open.spotify.com/album/0H8c4DhrLk4mtFaiYt43GN) | 6:26 |
 | 49 | [No Good Place For The Lonely](https://open.spotify.com/track/1N1dVl208WmkZJ1MtLkBc3) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Of Desperation](https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h) | 8:38 |
 | 50 | [Damn Your Eyes](https://open.spotify.com/track/2G3jRqrVVl8PmJOqNP64tr) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Black Coffee](https://open.spotify.com/album/2jjZQU9uBfmnGDtCFA7qAj) | 4:34 |
 
-Snapshot ID: `Mjc3MjIyMzMsMDAwMDAwMDA5NjM0MGY3YTEwODJkOWM3M2VhOWU2ODcwMTY5Y2U5OA==`
+Snapshot ID: `Mjc3MjM2OTIsMDAwMDAwMDA3OTY4MDdjZWM3YTBkYjUyYWQxZDA2NWQ5OTQ4Yjk1ZA==`

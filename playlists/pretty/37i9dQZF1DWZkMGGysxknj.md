@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkMGGysxknj.md) - [plain]
 
 > Café caliente, sillón blandito y la mejor lectura o compañía.
 
-[Spotify](https://open.spotify.com/user/spotify) - 795,586 likes - 150 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 795,628 likes - 150 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

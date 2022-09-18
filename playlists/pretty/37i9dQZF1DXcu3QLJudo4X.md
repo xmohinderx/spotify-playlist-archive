@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcu3QLJudo4X.md) - [plain]
 
 > Classic songs from the Blues songbook\. Cover: Muddy Waters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,464 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,540 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcu3QLJudo4X.md) - [plain]
 | 37 | [Little Red Rooster](https://open.spotify.com/track/1msykqPE0qoZig4nb9khI0) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Night Beat](https://open.spotify.com/album/4FsWNGbkeZtMD1BWXhIvRk) | 2:51 |
 | 38 | [Reconsider Baby](https://open.spotify.com/track/1sdXpmB13AyaHaiSlgeITt) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Texas Cannonball](https://open.spotify.com/album/59wGnewkXsHCgDahKUPBqu) | 3:59 |
 | 39 | [Baby, What You Want Me To Do \- Live At The New Era Club,1963](https://open.spotify.com/track/6SoZkdugPfXghVpEEqSHCn) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Rocks The House](https://open.spotify.com/album/4XmKdBEndE6UnnbrSUN5Dk) | 4:14 |
-| 40 | [Everyday I Have The Blues](https://open.spotify.com/track/6MrLjEmXy9IAPAX1mAKySE) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Singin' The Blues](https://open.spotify.com/album/0w6Gt4SUI5AduJvcXetxun) | 2:49 |
+| 40 | [Nobody Knows You When You're Down And Out](https://open.spotify.com/track/2eUyfVpeq45J3kQmAI78YZ) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Let The Good Times Roll: The Music Of Louis Jordan](https://open.spotify.com/album/4ikYbM2TWojqVQzmBeQ31u) | 4:34 |
 | 41 | [Key To The Highway](https://open.spotify.com/track/4E3Q2DOynwgP3VwBFf59kL) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Hate To See You Go](https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI) | 2:43 |
 | 42 | [Forty Four](https://open.spotify.com/track/02Ub2Xv4Vs3UEthDciGPvq) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Moanin' In The Moonlight](https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam) | 2:50 |
 | 43 | [Worried Life Blues](https://open.spotify.com/track/7HIBn41u0vLwDlJKjp8Nmk) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Getting Ready..\. \(World\)](https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI) | 2:52 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcu3QLJudo4X.md) - [plain]
 | 47 | [Crosscut Saw](https://open.spotify.com/track/1uu03dv8HEchMBXcR08uke) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [The Very Best Of Albert King](https://open.spotify.com/album/4OlzrLmYCCqAXdEGS2UkJx) | 2:34 |
 | 48 | [Caldonia](https://open.spotify.com/track/5E5j6R646UhSlyahYReXwU) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Messing With The Blues](https://open.spotify.com/album/05uzQLgp14mnUm3QO4Hmlp) | 2:54 |
 | 49 | [Driftin' Blues](https://open.spotify.com/track/6NjhuVXxEjSsJRqKhVEdFv) | [Bobby "Blue" Bland](https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj) | [The Anthology](https://open.spotify.com/album/5pXSSHIS0f6WnV9dQa5NwM) | 3:26 |
-| 50 | [Nobody Knows You When You're Down And Out](https://open.spotify.com/track/2eUyfVpeq45J3kQmAI78YZ) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Let The Good Times Roll: The Music Of Louis Jordan](https://open.spotify.com/album/4ikYbM2TWojqVQzmBeQ31u) | 4:34 |
+| 50 | [Everyday I Have The Blues](https://open.spotify.com/track/6MrLjEmXy9IAPAX1mAKySE) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Singin' The Blues](https://open.spotify.com/album/0w6Gt4SUI5AduJvcXetxun) | 2:49 |
 
-Snapshot ID: `MTY2MzAwMDc1MCwwMDAwMDAwMDIyMDUwZGFiOTljNTM0OGMyMTlkYjIyMWI4OGY5OTdj`
+Snapshot ID: `MTY2MzAwMDc1MCwwMDAwMDAwMDFiZDNmYjRjOTc4YWViYjc3NGQ4MWY2NzkzZGEzNGRl`

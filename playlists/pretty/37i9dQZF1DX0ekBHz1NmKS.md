@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ekBHz1NmKS.md) - [plain]
 
 > Här hör du de bästa svenska låtarna just nu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,365 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,388 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 
 > Sangre fresca en las escenas del indie y el rock\. División Minúscula en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,758 likes - 75 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,805 likes - 75 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,13 +75,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 | 65 | [Nunca te amé](https://open.spotify.com/track/6CxvTZO3pqhGMiVUF9gW2R) | [Reyno](https://open.spotify.com/artist/1pzRh5IWgNWNrxPBu9EFcU) | [El Eco de la Nada](https://open.spotify.com/album/0RmopllB8tAY9P2Of7NdIZ) | 3:04 |
 | 66 | [La Tregua](https://open.spotify.com/track/3qVoYfkM3RR8Yn6LIoIscx) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [La Tregua](https://open.spotify.com/album/04KNJc6oR8vCy91pEYWEqE) | 3:52 |
 | 67 | [Huracán](https://open.spotify.com/track/3zN9HAyFx7yrw4wf7mmuD6) | [San Pascualito Rey](https://open.spotify.com/artist/3y4u1V2WmArOAws2yjRVi6) | [Huracán](https://open.spotify.com/album/3f0U92vNGEpLSvUFVIbVaq) | 3:01 |
-| 68 | [Como Tú \(Magic Music Box\)](https://open.spotify.com/track/0GWkuPr946cYbOMRkrbw4e) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Rock en español](https://open.spotify.com/album/3bmuv7OI4asKzdF3T4zWsx) | 3:52 |
-| 69 | [Cosas Invisibles](https://open.spotify.com/track/33R9nKgwAP04xQfPh0HZ56) | [Celest](https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl) | [Cosas Invisibles](https://open.spotify.com/album/2dKZE2m8hRSWHPoPZpXFGf) | 4:00 |
-| 70 | [Ricos](https://open.spotify.com/track/1EnZ3INXgu2fnfQhqGWHDt) | [Axel Catalán](https://open.spotify.com/artist/3RyQCdkn4bCRxZ3kOgUPxH) | [Ricos](https://open.spotify.com/album/2tg6afES7ci3iXpktgcmKi) | 2:54 |
-| 71 | [Enamorado](https://open.spotify.com/track/0kfkBm7Or6FivlmnMsI7Oq) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR) | [Instinto Felino](https://open.spotify.com/album/3b7KSl4T0aZx1ET3wMWyqV) | 3:07 |
-| 72 | [Domingo](https://open.spotify.com/track/6jW1BghId3ws6BFC2Sk8dk) | [Los Flakos](https://open.spotify.com/artist/5Spl3u7hKTO5Osv8XNs4Ah) | [Los Flakos](https://open.spotify.com/album/3GpBy4LRxxAzE51I5eGaX0) | 3:32 |
-| 73 | [Acto de Fe](https://open.spotify.com/track/5SSUE6xoEJPA6rF6izLj2C) | [Prismatic Shapes](https://open.spotify.com/artist/17HimzcvF4HNWP8YqBRu8q) | [Sigilos y Decretos](https://open.spotify.com/album/1bE6uhPvo82VnRTeV7Hd11) | 3:50 |
-| 74 | [Empezar de Cero](https://open.spotify.com/track/7vAkNCHHwY6rJzWzde1QDW) | [La Gusana Ciega](https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY) | [Empezar de Cero](https://open.spotify.com/album/6YTctBcS8WvoeqiU6C6UCh) | 4:30 |
-| 75 | [Playa Privada](https://open.spotify.com/track/4kzbSYtHYI226TDbjqwRew) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai) | [Playa Privada](https://open.spotify.com/album/3MArnPhSwpOc6u3ig8D9cW) | 3:28 |
+| 68 | [Cosas Invisibles](https://open.spotify.com/track/33R9nKgwAP04xQfPh0HZ56) | [Celest](https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl) | [Cosas Invisibles](https://open.spotify.com/album/2dKZE2m8hRSWHPoPZpXFGf) | 4:00 |
+| 69 | [Ricos](https://open.spotify.com/track/1EnZ3INXgu2fnfQhqGWHDt) | [Axel Catalán](https://open.spotify.com/artist/3RyQCdkn4bCRxZ3kOgUPxH) | [Ricos](https://open.spotify.com/album/2tg6afES7ci3iXpktgcmKi) | 2:54 |
+| 70 | [Enamorado](https://open.spotify.com/track/0kfkBm7Or6FivlmnMsI7Oq) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR) | [Instinto Felino](https://open.spotify.com/album/3b7KSl4T0aZx1ET3wMWyqV) | 3:07 |
+| 71 | [Domingo](https://open.spotify.com/track/6jW1BghId3ws6BFC2Sk8dk) | [Los Flakos](https://open.spotify.com/artist/5Spl3u7hKTO5Osv8XNs4Ah) | [Los Flakos](https://open.spotify.com/album/3GpBy4LRxxAzE51I5eGaX0) | 3:32 |
+| 72 | [Acto de Fe](https://open.spotify.com/track/5SSUE6xoEJPA6rF6izLj2C) | [Prismatic Shapes](https://open.spotify.com/artist/17HimzcvF4HNWP8YqBRu8q) | [Sigilos y Decretos](https://open.spotify.com/album/1bE6uhPvo82VnRTeV7Hd11) | 3:50 |
+| 73 | [Empezar de Cero](https://open.spotify.com/track/7vAkNCHHwY6rJzWzde1QDW) | [La Gusana Ciega](https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY) | [Empezar de Cero](https://open.spotify.com/album/6YTctBcS8WvoeqiU6C6UCh) | 4:30 |
+| 74 | [Playa Privada](https://open.spotify.com/track/4kzbSYtHYI226TDbjqwRew) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai) | [Playa Privada](https://open.spotify.com/album/3MArnPhSwpOc6u3ig8D9cW) | 3:28 |
+| 75 | [Polvo Cósmico](https://open.spotify.com/track/5LBD1cXdT68bOVgB0MLSPC) | [Leonardo de Lozanne](https://open.spotify.com/artist/0tJ0fqnovf6ASEO0Qyr03N) | [Polvo Cósmico](https://open.spotify.com/album/4cpzYWDTQ1kLjSnDnD1qrY) | 4:01 |
 
-Snapshot ID: `MTY2MjUxMjE1MSwwMDAwMDAwMDM2NTIxN2IyMjljZjNmNjcyZjkyMzJkNDI2ZDg1Mjcx`
+Snapshot ID: `MTY2MjUxMjE1MSwwMDAwMDAwMGFiYWJmMjUyN2RhYzcxOGVkY2M3MjM3NzY4OTM2NTk2`

@@ -4,7 +4,7 @@
 
 > All things <a href="spotify:genre:bass">bass</a> with What So Not.
 
-347 songs - 20 hr 29 min - [published](https://open.spotify.com/playlist/4rpEmms9tZIvfVOnRe39hU)
+348 songs - 20 hr 32 min - [published](https://open.spotify.com/playlist/4rpEmms9tZIvfVOnRe39hU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -307,7 +307,8 @@
 | [The Machines](https://open.spotify.com/track/3SH8GHdwJGXnoEmnCbPpJQ) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [The Machines](https://open.spotify.com/album/5P3kvsIaj4aX7usKBJAPeQ) | 3:22 | 2022-09-09 |  |
 | [THE OG](https://open.spotify.com/track/0pUp5f9v9g8X4JpOw1QCzb) | [Ghastly](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh) | [THE OG](https://open.spotify.com/album/1U2Y3roDpmjy4UqDmrFThN) | 4:20 | 2021-12-17 | 2022-02-19 |
 | [The One](https://open.spotify.com/track/1hxF3FkEkDPoRHfkghEdjw) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [KLAXX](https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp) | [DRMVRSE](https://open.spotify.com/album/3jHod9NV5s98uiMMrPbkVE) | 3:06 | 2022-08-12 | 2022-09-15 |
-| [The One](https://open.spotify.com/track/4cJgvZZA3MQehYG5neeJRp) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [KLAXX](https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp) | [The One](https://open.spotify.com/album/1pwdgZDc9u1jeoMNLdaMJk) | 3:06 | 2022-08-12 |  |
+| [The One](https://open.spotify.com/track/4LfJbl62cw3nr0POfs8Yy5) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [KLAXX](https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp) | [DRMVRSE](https://open.spotify.com/album/11pjcRObX2pkqo9oczv5Gb) | 3:06 | 2022-08-12 |  |
+| [The One](https://open.spotify.com/track/4cJgvZZA3MQehYG5neeJRp) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [KLAXX](https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp) | [The One](https://open.spotify.com/album/1pwdgZDc9u1jeoMNLdaMJk) | 3:06 | 2022-08-12 | 2022-09-18 |
 | [The One](https://open.spotify.com/track/7yf3dIN6aqqHmi82ftMIRU) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [KLAXX](https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp) | [The One](https://open.spotify.com/album/3PWkN6LXpJ5Q3f8BCVzP8k) | 3:06 | 2022-05-13 | 2022-08-27 |
 | [THE SHOOTV](https://open.spotify.com/track/5TAhkZc6p4XKuYGMnbwTdU) | [BLVK JVCK](https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg) | [THE SHOOTV](https://open.spotify.com/album/1DfkvG8j619HUAmeTAa0fQ) | 3:05 | 2021-12-17 | 2022-03-12 |
 | [The Uprising](https://open.spotify.com/track/03wsvOuSWSo0HbHFBgY9li) | [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf), [Kumarion](https://open.spotify.com/artist/1mlAkvaCrzWSxS2ATBZh27) | [The Uprising](https://open.spotify.com/album/6xpb60RTZpstoFxakOAXZ0) | 3:17 | 2022-07-15 |  |

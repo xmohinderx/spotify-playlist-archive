@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 
 > We just wanna rock you all night long.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,453 likes - 100 songs - 9 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,565 likes - 100 songs - 9 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 | 57 | [Don't Go Lose It Baby](https://open.spotify.com/track/1kKvcinRJW5ci22gnTYNq6) | [Hugh Masekela](https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp) | [Pure Sounds of Africa](https://open.spotify.com/album/4Gmh2qeyIv04wytrc9F5Ab) | 6:53 |
 | 58 | [Enjoy Your Life](https://open.spotify.com/track/1UKk8v7T2IrpcLEP1KKqZb) | [Oby Onyioha](https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY) | [I Want to Feel Your Love](https://open.spotify.com/album/7snUwkG3Ke47yLJBbwbcfk) | 6:18 |
 | 59 | [Love Has Come Around](https://open.spotify.com/track/0jA2HEWkUZFo0lyQ0NsBi0) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [Love Has Come Around \- Finest Moments](https://open.spotify.com/album/7BFPbUysgfYdNs0Zs9CqI1) | 7:52 |
-| 60 | [Mysteries of the World](https://open.spotify.com/track/5WYzouzEJIKk0QJjNsiVue) | [MFSB](https://open.spotify.com/artist/2mknvtcck8i82nKxDPDibv) | [Mysteries of the World](https://open.spotify.com/album/3HFASQCSrKTM9DSu3FevyN) | 5:30 |
-| 61 | [Greetings](https://open.spotify.com/track/03P5b745wtD0qS5IdNtrh9) | [Joni Haastrup](https://open.spotify.com/artist/4Mp7yETSzhsOZt0lm4TaRu) | [Nigeria 70 \- Funky Lagos](https://open.spotify.com/album/6vbhwiICICM9vQiUK62Me0) | 6:13 |
+| 60 | [Greetings](https://open.spotify.com/track/03P5b745wtD0qS5IdNtrh9) | [Joni Haastrup](https://open.spotify.com/artist/4Mp7yETSzhsOZt0lm4TaRu) | [Nigeria 70 \- Funky Lagos](https://open.spotify.com/album/6vbhwiICICM9vQiUK62Me0) | 6:13 |
+| 61 | [Mysteries of the World](https://open.spotify.com/track/5WYzouzEJIKk0QJjNsiVue) | [MFSB](https://open.spotify.com/artist/2mknvtcck8i82nKxDPDibv) | [Mysteries of the World](https://open.spotify.com/album/3HFASQCSrKTM9DSu3FevyN) | 5:30 |
 | 62 | [Exotica Dance Club](https://open.spotify.com/track/08NpvTDlC0HaA4RwO1wRs7) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [World](https://open.spotify.com/album/4ka25IRzopZcy8QCBwHF80) | 5:27 |
 | 63 | [Keep It Up](https://open.spotify.com/track/4eVbtPuh4bu5BbHdluycOz) | [Milton Wright](https://open.spotify.com/artist/4eG9wzNICW94sPzkTP5MYt) | [Friends and Buddies](https://open.spotify.com/album/1JbsHszs163wrSgCpJUpxa) | 4:12 |
 | 64 | [On and On](https://open.spotify.com/track/4d0UM1L06EmBBc9c8Ulv5R) | [Harvey Mason](https://open.spotify.com/artist/2MNNVXEpagQ3QWiOkXjQyT) | [M.V.P\. \(Expanded Edition\)](https://open.spotify.com/album/0749f8G3xK1yPfkgY1u5ia) | 5:00 |
@@ -94,9 +94,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 | 84 | [Stop Your Life \- Original Album](https://open.spotify.com/track/3tbjrBQ9DHxuXxE4GuqZOz) | [Ago](https://open.spotify.com/artist/3tr79XZgYXoRoI5G49Zqbx) | [For You \(LP\)](https://open.spotify.com/album/3HaUzrq7HVsuVTmIIcsZ8n) | 4:38 |
 | 85 | [Today Is the Day \- Linkwood Chop](https://open.spotify.com/track/02fPKhvSJZecPhfkguNJan) | [Frazelle](https://open.spotify.com/artist/7vKUK1CA6c4CgeFtAIDtnn) | [Watchin Out](https://open.spotify.com/album/25IbgmgW9oZb0jXH7oGBtf) | 5:20 |
 | 86 | [Hold Tight \- Full Length Album Mix](https://open.spotify.com/track/3HmU74RIPV2LgkjJUeU7Cd) | [Change](https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE) | [Magical Night \(Greatest Hits Special Price\)](https://open.spotify.com/album/4oJxJx3YxgItQdfcihMD0f) | 4:28 |
-| 87 | [Agb'oju L'ogun \- Original 12" Version](https://open.spotify.com/track/0pmcA4lJnEjkqIFrotudmV) | [Shina Williams & His African Percussionists](https://open.spotify.com/artist/3LMmWHeU0PGvCcD5gelFfe) | [Agb'oju L'ogun](https://open.spotify.com/album/72S9ok10nlp6jIxzDNC5Rk) | 11:42 |
-| 88 | [Haven't You Heard \- 12" Version](https://open.spotify.com/track/6WcJbVV5gu5srjBMsE332X) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Remind Me \(The Classic Elektra Recordings 1978\-1984\)](https://open.spotify.com/album/2zhXygXV9sHY6I2AMR456t) | 7:18 |
-| 89 | [Disco Baby \- Floating Points & Red Greg Edit](https://open.spotify.com/track/5A6LXTH8bVu8ItBFME5pBF) | [Y\. Gershovsky](https://open.spotify.com/artist/1Ydl0Zxt4RZCfl15pzQTaW) | [Disco Baby](https://open.spotify.com/album/0prnfqEbMp2H9Wkmo7jw29) | 3:49 |
+| 87 | [Disco Baby \- Floating Points & Red Greg Edit](https://open.spotify.com/track/5A6LXTH8bVu8ItBFME5pBF) | [Y\. Gershovsky](https://open.spotify.com/artist/1Ydl0Zxt4RZCfl15pzQTaW) | [Disco Baby](https://open.spotify.com/album/0prnfqEbMp2H9Wkmo7jw29) | 3:49 |
+| 88 | [Agb'oju L'ogun \- Original 12" Version](https://open.spotify.com/track/0pmcA4lJnEjkqIFrotudmV) | [Shina Williams & His African Percussionists](https://open.spotify.com/artist/3LMmWHeU0PGvCcD5gelFfe) | [Agb'oju L'ogun](https://open.spotify.com/album/72S9ok10nlp6jIxzDNC5Rk) | 11:42 |
+| 89 | [Haven't You Heard \- 12" Version](https://open.spotify.com/track/6WcJbVV5gu5srjBMsE332X) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Remind Me \(The Classic Elektra Recordings 1978\-1984\)](https://open.spotify.com/album/2zhXygXV9sHY6I2AMR456t) | 7:18 |
 | 90 | [Disco Fantasy](https://open.spotify.com/track/55TihUjVHdi3zChAUtKgHE) | [Rahaan](https://open.spotify.com/artist/1LxBgL2B6o2WASVrFPx0Iu) | [Chicago Service](https://open.spotify.com/album/098htENdjaFFSWNegkNoWe) | 5:28 |
 | 91 | [Lypso Illusion](https://open.spotify.com/track/3RuJDWfcSwS5JqPtg9isZs) | [Stephen Encinas](https://open.spotify.com/artist/1x7JcJXMdepSOPU57sQNk5) | [Disco Illusion](https://open.spotify.com/album/26rGYscuFwQ7GKb9pgek6n) | 4:44 |
 | 92 | [Get It Right \- Single Version](https://open.spotify.com/track/6IKMa77w7i9BAs64sTZqKZ) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Get It Right \(Expanded Edition\)](https://open.spotify.com/album/1P5mbihG8FF4vfu3hhiMVH) | 4:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 | 99 | [Do It Do It Disco \(Tom Noble Remix\)](https://open.spotify.com/track/67XDCDC0hwYS1jNt01oyZt) | [Myron & E](https://open.spotify.com/artist/6c6ke5hTJ7g6g0CWZb5Maj), [Tom Noble](https://open.spotify.com/artist/2ImZW6kUWVOAKvK4f7CElF) | [Do It Do It Disco](https://open.spotify.com/album/5Auymg5cz9Dv9gURiVaU0Q) | 5:50 |
 | 100 | [It's Like That](https://open.spotify.com/track/0hC8FpiVYshFwkvSm7fA1o) | [G.Q.](https://open.spotify.com/artist/18YelxQioKKPXK1PE5hh1n) | [Two \(Expanded Edition\)](https://open.spotify.com/album/4BFwQ2eRqnHJmVo3l0oCeC) | 4:16 |
 
-Snapshot ID: `MTY2MjM5Njg4NCwwMDAwMDAwMDQ4N2YwZmMzNDlhZDcxOWYwNDNjNzRjZDM5OTQ2NjJk`
+Snapshot ID: `MTY2MjM5Njg4NCwwMDAwMDAwMGQ1NDIzOGNkODNiOTAzOWFjNzVmMGM4OTBjZTIyZDNi`

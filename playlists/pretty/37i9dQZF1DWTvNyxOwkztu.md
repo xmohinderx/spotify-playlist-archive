@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 
 > Just lean back and enjoy these relaxed beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,646,624 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,647,128 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 | 15 | [Imotski](https://open.spotify.com/track/6jxHr45dbSbKuGin1pHNbp) | [M.O.S.](https://open.spotify.com/artist/14S8eJJkmkNw4SaiXI8fwR) | [Imotski](https://open.spotify.com/album/5PzM6KWTgaekJTnQ7x2rTk) | 7:33 |
 | 16 | [Beyond Beliefs](https://open.spotify.com/track/58ney0bG2Vwecj8QzNGRkV) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u) | [Begin Again](https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr) | 5:13 |
 | 17 | [Control](https://open.spotify.com/track/2kylyEHdOEwsvWzm3PnQIQ) | [LO](https://open.spotify.com/artist/6bdx22A1shpd9U6YAd8Vto), [Honas](https://open.spotify.com/artist/6NqnUmcBfI4tWK56ZC1Nkw) | [Control](https://open.spotify.com/album/2gOoME3JTw3QxNsRo257pG) | 2:49 |
-| 18 | [Happy Days](https://open.spotify.com/track/7AiJfQZHFp6EMbpeYFOXxj) | [Vood Gibes](https://open.spotify.com/artist/1YN2IvyNI4xtOPSRQky7mN) | [Happy Days](https://open.spotify.com/album/2gx6CElSxguWozs3cHJyUw) | 3:16 |
-| 19 | [Mount Fuji](https://open.spotify.com/track/3xV6mTlSsIinmU8Xi77qUo) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Mount Fuji](https://open.spotify.com/album/6Ctl2NttXC4T9Ty4EVpg5k) | 2:41 |
+| 18 | [Mount Fuji](https://open.spotify.com/track/3xV6mTlSsIinmU8Xi77qUo) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Mount Fuji](https://open.spotify.com/album/6Ctl2NttXC4T9Ty4EVpg5k) | 2:41 |
+| 19 | [Happy Days](https://open.spotify.com/track/7AiJfQZHFp6EMbpeYFOXxj) | [Vood Gibes](https://open.spotify.com/artist/1YN2IvyNI4xtOPSRQky7mN) | [Happy Days](https://open.spotify.com/album/2gx6CElSxguWozs3cHJyUw) | 3:16 |
 | 20 | [Lightwave](https://open.spotify.com/track/06s5vykBOEzheEyLq0AZms) | [Farves](https://open.spotify.com/artist/5xwXeWb8ITd7ESHk3y5PUB) | [Lightwave](https://open.spotify.com/album/2iJ0fDXeOSlhh7hmmCj1Ux) | 3:36 |
 | 21 | [Mirrors](https://open.spotify.com/track/6SEqz6adzlLPDzNrf8mCCf) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Mirrors](https://open.spotify.com/album/2rHruBFK7lCidKa4HrEqYB) | 3:40 |
 | 22 | [Saving My Love](https://open.spotify.com/track/3je1VcyoT3FEH6AbttouZj) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [Saving My Love](https://open.spotify.com/album/2nUiM1iTSLxDIvvohxrKl8) | 4:52 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 | 64 | [Wasted Heart](https://open.spotify.com/track/5iDkUE5DcnEUvingHGqFrj) | [Nimus](https://open.spotify.com/artist/0TT7iBNHgH8NGc6vX5Vodo) | [Wasted Heart](https://open.spotify.com/album/3BX13Ivri0eN5FvDwVJgdq) | 2:24 |
 | 65 | [Informalité](https://open.spotify.com/track/26dZCWHzlsHuuoaMdpdzfK) | [Nyhuis](https://open.spotify.com/artist/6EVayLPsEOA5csxrOs2Q8d) | [Informalité](https://open.spotify.com/album/0pzkss5ToOuqq0XPazOyWQ) | 2:51 |
 | 66 | [dustland](https://open.spotify.com/track/27H4C3bLGGAIm5vSXDosVy) | [Alex R](https://open.spotify.com/artist/0UF2hegc0QcgMzZYI6bYB2) | [dustland](https://open.spotify.com/album/2fFsnUpoimIqQSeaBPGTC2) | 2:41 |
-| 67 | [Carte blanche](https://open.spotify.com/track/4gRh7l16lZTdaAAGqDhrC5) | [Sennhofer](https://open.spotify.com/artist/5qNJ3cNZLr8o8UAWEKmK32) | [Carte blanche](https://open.spotify.com/album/5KvD9JdzfQdYnqD6GE4F20) | 2:41 |
-| 68 | [In the Mirror](https://open.spotify.com/track/205U3hn1052lvW97Adry7h) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na), [clarity.](https://open.spotify.com/artist/3cQgKzo3URkXcwxEyjhkPH) | [In the Mirror](https://open.spotify.com/album/3pakGLnxN48aQvbe7VVXaE) | 2:07 |
+| 67 | [In the Mirror](https://open.spotify.com/track/205U3hn1052lvW97Adry7h) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na), [clarity.](https://open.spotify.com/artist/3cQgKzo3URkXcwxEyjhkPH) | [In the Mirror](https://open.spotify.com/album/3pakGLnxN48aQvbe7VVXaE) | 2:07 |
+| 68 | [Carte blanche](https://open.spotify.com/track/4gRh7l16lZTdaAAGqDhrC5) | [Sennhofer](https://open.spotify.com/artist/5qNJ3cNZLr8o8UAWEKmK32) | [Carte blanche](https://open.spotify.com/album/5KvD9JdzfQdYnqD6GE4F20) | 2:41 |
 | 69 | [Remember](https://open.spotify.com/track/2glAJ03LjJIVp8xZ3h8VnH) | [Hocus Faux](https://open.spotify.com/artist/0ADrSx3KCkJ9AKDYYi3OBp) | [Remember](https://open.spotify.com/album/5wJNNjEBRNwGtY6LJqHEAt) | 3:33 |
 | 70 | [A Glitch](https://open.spotify.com/track/2aIkJY5Fqg5F5r09nk47GG) | [Miller Ford](https://open.spotify.com/artist/6CsVE4PENAADboY4Pzq5Xy) | [A Glitch](https://open.spotify.com/album/3m5DMoORrvBiIaBDzDjDrv) | 3:18 |
 | 71 | [Barracudas](https://open.spotify.com/track/64x1uZe5weXDU9S8dwyWYk) | [André Aguado](https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC) | [Barracudas EP](https://open.spotify.com/album/1B0KEF9AAm5mesLSGo5hhJ) | 4:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 | 99 | [Retreat](https://open.spotify.com/track/03Ea1zretFckOySx9Vb6db) | [Sinee](https://open.spotify.com/artist/51m5eelgEze59Y7Llef5o7) | [Retreat](https://open.spotify.com/album/6o9yafKaNEdM5nxKtA2WyC) | 2:51 |
 | 100 | [Vacay lets gooo](https://open.spotify.com/track/2xCtE1orl0wVEhSI1fDMDY) | [Sapphire Llama](https://open.spotify.com/artist/0ukEGWLjiNHntHlKL4qeF9) | [Vacay lets gooo](https://open.spotify.com/album/5xUrXJ3vZ3biL78DOEabhH) | 2:01 |
 
-Snapshot ID: `MTY2Mjk5MTE0NywwMDAwMDAwMDJmNTA0NTBjNjM5NzZmYjM1NDBiZjMyNTk2NzYwMjQw`
+Snapshot ID: `MTY2Mjk5MTE0NywwMDAwMDAwMDdiYjI2MDIzMGNkN2FkZGU0YTg4OThkNDJmMzhlMzJm`

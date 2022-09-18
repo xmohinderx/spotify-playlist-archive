@@ -4,7 +4,7 @@
 
 > ¡Los reyes del jaripeo!
 
-130 songs - 7 hr 27 min - [published](https://open.spotify.com/playlist/3SaRVa8JMQfFO8EPZXZX8F)
+131 songs - 7 hr 31 min - [published](https://open.spotify.com/playlist/3SaRVa8JMQfFO8EPZXZX8F)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,8 @@
 | [La Mujer del Pelotero](https://open.spotify.com/track/7CjNZMpa03xdHh6YKq1bkf) | [Banda Fresa Roja](https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0) | [La Mujer del Pelotero](https://open.spotify.com/album/2ZYMElqmRsjho63sBx6q4z) | 3:28 | 2022-09-12 |  |
 | [La nena](https://open.spotify.com/track/5OwFcVt4icprLmc5bO9ruK) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [25 Bandazos de Pequeños Musical \(Vol\. 1\) \[USA\]](https://open.spotify.com/album/7g3IdcuzbSoWHVKWfKIY2x) | 2:54 | 2022-09-12 |  |
 | [La Peinada \(La Peinadita\)](https://open.spotify.com/track/1Lp14SCjlGEvGSC4uDwrpD) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [Tu Regalo](https://open.spotify.com/album/6hUQFOztpF095UsEhq7QlR) | 3:24 | 2022-01-25 |  |
-| [La Picare](https://open.spotify.com/track/3ymkBiqugciORjivytO221) | [Alameños de la Sierra](https://open.spotify.com/artist/4C9L4xjlVFB6lsA9v3EfUh) | [El Tropezon](https://open.spotify.com/album/3kksc8gfXJXjJ43YGlYwcQ) | 4:20 | 2022-09-12 |  |
+| [La Picare](https://open.spotify.com/track/3ymkBiqugciORjivytO221) | [Alameños de la Sierra](https://open.spotify.com/artist/4C9L4xjlVFB6lsA9v3EfUh) | [El Tropezon](https://open.spotify.com/album/3kksc8gfXJXjJ43YGlYwcQ) | 4:20 | 2022-09-12 | 2022-09-18 |
+| [La Picare](https://open.spotify.com/track/68Ur7kDx0OXW5BH0TxpAPn) | [Alameños de la Sierra](https://open.spotify.com/artist/4C9L4xjlVFB6lsA9v3EfUh) | [El Tropezon](https://open.spotify.com/album/54vZCfkZRmqgXyNmmd0rqB) | 4:20 | 2022-09-12 |  |
 | [La Rabia](https://open.spotify.com/track/71DHSZHV31SnXXwDu96k5N) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [El Favorito](https://open.spotify.com/album/6SS8buOU4QKs3VOBXxmUD4) | 3:13 | 2022-01-25 |  |
 | [La Vaquilla](https://open.spotify.com/track/42zeCHx9BC59y2oRG6DBxf) | [Banda La Costeña](https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7) | [Como Loco Alucino](https://open.spotify.com/album/2HZ10UUKKSRmVpVBjRXh1k) | 3:12 | 2022-01-25 |  |
 | [La Vaquilla](https://open.spotify.com/track/7spdYQAPBWxPXzg9t4gnkX) | [Banda La Costeña](https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7) | [Como Loco Alucino](https://open.spotify.com/album/6mVMsBmvxhIDNWZ44qS2hd) | 3:12 | 2022-01-25 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX888loZNVRav.md) - [plain]
 
 > Love at its most dramatic\. Cover: Moulin Rouge
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,256 likes - 70 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,284 likes - 70 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX888loZNVRav.md) - [plain]
 | 52 | [The Origin of Love](https://open.spotify.com/track/6DEldtOBfDedT20LIlfAnb) | [Hedwig And The Angry Inch \- Original Broadway Cast](https://open.spotify.com/artist/5IQFLz9g7xdgHtw8BKa96y) | [Hedwig And The Angry Inch Original Broadway Cast Recording](https://open.spotify.com/album/1X4nZqGyPMACCMs4zx9hH2) | 5:35 |
 | 53 | [Easy to Love](https://open.spotify.com/track/3hNRNKpFhsKRWRqPt2Lex3) | [Colin Donnell](https://open.spotify.com/artist/2j8GWQrHlJn97fuS5IPBtb) | [Anything Goes \(New Broadway Cast Recording\)](https://open.spotify.com/album/6yH8LWqApBErvtBGSSwGzL) | 3:34 |
 | 54 | [I've Never Been in Love Before](https://open.spotify.com/track/00TD6nk39R6exWABp54IUD) | [Josie de Guzman](https://open.spotify.com/artist/6LUH9FLIwfssKTaMm08XEP), [Peter Gallagher](https://open.spotify.com/artist/1RORiKtAbKns0JTwTjOk0k) | [Guys and Dolls \(New Broadway Cast Recording \(1992\)\)](https://open.spotify.com/album/7aVLz778h7j4o82KcAD2Ic) | 2:06 |
-| 55 | [Love Changes Everything \- From "Aspects Of Love"](https://open.spotify.com/track/4uQqE8J8Yn4izuKz9Eu9x3) | [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG), [Michael Ball](https://open.spotify.com/artist/2MISUlPFrBMRlIcazbEOUI) | [Unmasked: The Platinum Collection \(Deluxe\)](https://open.spotify.com/album/6lfGhIVE8by4922uwuCxla) | 3:26 |
-| 56 | [No One Else](https://open.spotify.com/track/1A2FtmZH9Q6uFXLjKCaWvt) | [Phillipa Soo](https://open.spotify.com/artist/2OEGI2wrCVmvavKEOMlccy) | [Natasha, Pierre And The Great Comet Of 1812 \(Original Cast Recording\)](https://open.spotify.com/album/3wYk6wDYQlA9f4VVxWellZ) | 4:23 |
+| 55 | [No One Else](https://open.spotify.com/track/1A2FtmZH9Q6uFXLjKCaWvt) | [Phillipa Soo](https://open.spotify.com/artist/2OEGI2wrCVmvavKEOMlccy) | [Natasha, Pierre And The Great Comet Of 1812 \(Original Cast Recording\)](https://open.spotify.com/album/3wYk6wDYQlA9f4VVxWellZ) | 4:23 |
+| 56 | [Love Changes Everything \- From "Aspects Of Love"](https://open.spotify.com/track/4uQqE8J8Yn4izuKz9Eu9x3) | [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG), [Michael Ball](https://open.spotify.com/artist/2MISUlPFrBMRlIcazbEOUI) | [Unmasked: The Platinum Collection \(Deluxe\)](https://open.spotify.com/album/6lfGhIVE8by4922uwuCxla) | 3:26 |
 | 57 | [Not While I'm Around](https://open.spotify.com/track/67RQrv20bjrWI2cAWSjJXC) | [Stephen Sondheim](https://open.spotify.com/artist/4TbtUt49IMXEIMmNdifHb1), [Ken Jennings](https://open.spotify.com/artist/1RFTi2xW0l7TYzduCBKnTX), [Angela Lansbury](https://open.spotify.com/artist/0LtVJXnPR8msCJiE2DjHxy), [Paul Gemignani](https://open.spotify.com/artist/5oi5DXLFdDZKjwlVxRY3GS) | [Sweeney Todd: The Demon Barber of Fleet Street \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2q6InM859RCsSQOjHWNHk2) | 3:56 |
 | 58 | [How Could I Ever Know \(From "The Secret Garden"\)](https://open.spotify.com/track/2ZBLSCM9TRvrMSHQIxqdOu) | [Rebecca Luker](https://open.spotify.com/artist/5KXbASGgemRL6AkTtwH1if), [Mandy Patinkin](https://open.spotify.com/artist/5sEmwxBNJizU2RUfVNo6BC) | [The Secret Garden \(Original Broadway Cast Recording\)](https://open.spotify.com/album/0Nz04dTDlcGpCfoj9xghXs) | 4:07 |
 | 59 | [It Only Takes a Moment](https://open.spotify.com/track/3NbAGwqTdqR1iFQxFeYSl1) | [Kate Baldwin](https://open.spotify.com/artist/7v9S5rwclGrPpm3jdoJcJa), [Gavin Creel](https://open.spotify.com/artist/1jYpJw3SwzAvRKqmGQalrm), [Hello, Dolly! Ensemble \(2017\)](https://open.spotify.com/artist/5N5nt5smNdmXFhkoePG5Lv) | [Hello, Dolly! \(New Broadway Cast Recording\)](https://open.spotify.com/album/3qhwBPlrGTFOmsLRhnnc6t) | 3:12 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX888loZNVRav.md) - [plain]
 | 69 | [Unusual Way](https://open.spotify.com/track/2Hl4nwPX321cC3zkpq2RgF) | [Laura Benanti](https://open.spotify.com/artist/6KMFhD0SFLgUNoQJGxf37V), [Antonio Banderas](https://open.spotify.com/artist/1EmxvwBQjmCB7e3dOVincQ) | [Nine: The Musical \(New Broadway Cast Recording\)](https://open.spotify.com/album/6Qmou5RmL4htJOTZCKoyFe) | 5:00 |
 | 70 | [I'll Be Here](https://open.spotify.com/track/6BmTGKJDphlIUEwGTUVBIG) | [Taye Diggs](https://open.spotify.com/artist/6jRmwlzMVSICyO97aN7UnT) | [The Wild Party \(Original Off\-Broadway Cast Recording\)](https://open.spotify.com/album/4XKzW9Ykl81o6LnAR12xkc) | 2:33 |
 
-Snapshot ID: `MTY0NDQ0NDM4NywwMDAwMDAwMGYyYTg1ZDE5N2Q5MjNiMjdmMmE0MDQwY2FiOWY3ZGZj`
+Snapshot ID: `MTY0NDQ0NDM4NywwMDAwMDAwMDdmODY3ZWJiMjZiOTljZTAyYTUzMzIyOTk1Zjk4ZGZj`

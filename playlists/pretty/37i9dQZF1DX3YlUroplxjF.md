@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YlUroplxjF.md) - [plain]
 
 > A collision of punk, metal, hardcore and everything in between\. Cover: Drug Church
 
-[Spotify](https://open.spotify.com/user/spotify) - 430,009 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 430,042 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YlUroplxjF.md) - [plain]
 | 73 | [Familiar Drugs](https://open.spotify.com/track/5s3bk38b50O6LfZRwV8ApE) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Familiar Drugs](https://open.spotify.com/album/6Cvt8vsgpxQ5DRG0nqW25B) | 4:18 |
 | 74 | [Closer to Comfort](https://open.spotify.com/track/1KLmiSyLPgqc13H4gTBdoU) | [Dreamhouse](https://open.spotify.com/artist/46ByQLvGTasUlZZ0fzvop4), [Andy Cizek](https://open.spotify.com/artist/0C5fT1ymHhTRTrSVhDYUta), [Makari](https://open.spotify.com/artist/4YW1GDcW9hobRPMDi8v6XH) | [Reverberating Silence](https://open.spotify.com/album/4J5uVKPMdxp2bJwyePzQVC) | 3:56 |
 | 75 | [Wicked & Bad](https://open.spotify.com/track/5TIFTm6spva9cGIeJujqee) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Bob Vylan Presents The Price Of Life](https://open.spotify.com/album/4OF9eUiJhh9iUasNJnzC7m) | 2:30 |
-| 76 | [Tradition](https://open.spotify.com/track/6lrXcmmm0Rsg1K5FdkZE0U) | [Thousand Below](https://open.spotify.com/artist/0iU3WDujScAofxcK2EMypN) | [The Love You Let Too Close](https://open.spotify.com/album/6hMVzepzCKSs0LRJ8KWjt3) | 3:22 |
-| 77 | [11 Minutes](https://open.spotify.com/track/3fU5UTgRMz50UEJGA7WJHa) | [Picturesque](https://open.spotify.com/artist/412BedlPBwXH6Dz6xetzGI) | [11 Minutes](https://open.spotify.com/album/35BbA1D0ehsQOYWZCjcAsO) | 3:04 |
+| 76 | [11 Minutes](https://open.spotify.com/track/3fU5UTgRMz50UEJGA7WJHa) | [Picturesque](https://open.spotify.com/artist/412BedlPBwXH6Dz6xetzGI) | [11 Minutes](https://open.spotify.com/album/35BbA1D0ehsQOYWZCjcAsO) | 3:04 |
+| 77 | [Tradition](https://open.spotify.com/track/6lrXcmmm0Rsg1K5FdkZE0U) | [Thousand Below](https://open.spotify.com/artist/0iU3WDujScAofxcK2EMypN) | [The Love You Let Too Close](https://open.spotify.com/album/6hMVzepzCKSs0LRJ8KWjt3) | 3:22 |
 | 78 | [S01E02.Return.Of.The.Arsonist.720p.HDTV.x264](https://open.spotify.com/track/7zEDmEGVQNIJ5M8SU3fpIM) | [Blood Command](https://open.spotify.com/artist/4WfUbvICLrqPW9rzuNGS1f) | [Return of the Arsonist](https://open.spotify.com/album/2A1RY2fEJAucP1uAiGL5nb) | 3:01 |
 | 79 | [Death](https://open.spotify.com/track/2kfSeL9vDusN2hHnMJXbgs) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6), [DR€W ¥ORK](https://open.spotify.com/artist/4E7k7fQ89SmXCLHHvpMNHu) | [Death](https://open.spotify.com/album/7lwudJOqfQ3cmBWBsbOjt1) | 3:43 |
 | 80 | [Sweet Dreams of Otherness](https://open.spotify.com/track/02AtE63KsG9iYLaznzv2aM) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Sweet Dreams of Otherness](https://open.spotify.com/album/5z9liNsv9Mnuhj7HSNWv1g) | 4:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YlUroplxjF.md) - [plain]
 | 99 | [Ain’t No Thief](https://open.spotify.com/track/1jlXsrAy6N0xBTUbFkM1i0) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Ain't No Thief](https://open.spotify.com/album/4KsCgFmrZ6ucZNEWERjJ6w) | 3:59 |
 | 100 | [Burn It Down](https://open.spotify.com/track/21iym8UpADqnG2p5GrzHrb) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug), [Caleb Shomo](https://open.spotify.com/artist/0YbrhcmTTHZbsXyqjsGCGD) | [Burn It Down](https://open.spotify.com/album/4CAwR5GCqpfDAHE85WsAqK) | 3:10 |
 
-Snapshot ID: `MTY1NzgwOTE0NCwwMDAwMDAwMDdkZWRmODFkZWM4NmQ0NDBjZTYyM2NhNjBkOGFmMzA1`
+Snapshot ID: `MTY1NzgwOTE0NCwwMDAwMDAwMDg5ZmVmNTQ0MTViYTYwMGIwNGE3NDZhMDAzZWExMDcy`

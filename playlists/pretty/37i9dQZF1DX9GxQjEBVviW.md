@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GxQjEBVviW.md) - [plain]
 
 > ​Boogie along to doo\-wop's greatest hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,644 likes - 50 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,679 likes - 50 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GxQjEBVviW.md) - [plain]
 | 38 | [You Belong To Me](https://open.spotify.com/track/1bgKnEPujoiQzz0pc6gdt7) | [The Duprees](https://open.spotify.com/artist/6nYTjfJFNic9m83TROYHUS) | [For Collectors Only](https://open.spotify.com/album/0pcBefwnYyOH6eaRAQYIRZ) | 2:50 |
 | 39 | [My True Story](https://open.spotify.com/track/1zfxyezgvocPSjSVup5ND4) | [The Jive Five](https://open.spotify.com/artist/2HWsf577KqaPhXyBFzei7L) | [Presenting the Jive Five](https://open.spotify.com/album/38QUQ8y53mMhnpd4Yv07CI) | 2:34 |
 | 40 | [Daddy's Home](https://open.spotify.com/track/6pLYCkA0j6dcjMSP4IrgxW) | [Shep](https://open.spotify.com/artist/4FrUg4jMTAlZHhBsOIYGJV), [The Limelites](https://open.spotify.com/artist/2pEAs011HTyChRqX8VR8lW) | [Doo Wop Classics Vol\. 1](https://open.spotify.com/album/74o0BLyhgBt6bvNqflYNmp) | 2:54 |
-| 41 | [Gee](https://open.spotify.com/track/2FmGxujlxCoOMFLEY6XQ9W) | [The Crows](https://open.spotify.com/artist/2zee4amgZunaTl3YyLz1iG) | [Echoes Of A Rock Era](https://open.spotify.com/album/61w6Wg7Xli7dxZx2GrTZgi) | 2:16 |
+| 41 | [Barbara Ann](https://open.spotify.com/track/44iYHhqsZumnQedqNtOK6x) | [The Regents](https://open.spotify.com/artist/3ukGXal9ZRsjAUSRL6fRDn) | [Barbara\-Ann](https://open.spotify.com/album/6DP5bJB1hGXFSuZFz9fWPB) | 2:15 |
 | 42 | [Searchin'](https://open.spotify.com/track/5DCqNn752dBJbjM6LEtQJU) | [The Coasters](https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM) | [The Coasters](https://open.spotify.com/album/3HRX7bzilG4zT8CZ6KTdtO) | 2:39 |
-| 43 | [Barbara Ann](https://open.spotify.com/track/44iYHhqsZumnQedqNtOK6x) | [The Regents](https://open.spotify.com/artist/3ukGXal9ZRsjAUSRL6fRDn) | [Barbara\-Ann](https://open.spotify.com/album/6DP5bJB1hGXFSuZFz9fWPB) | 2:15 |
+| 43 | [Gee](https://open.spotify.com/track/2FmGxujlxCoOMFLEY6XQ9W) | [The Crows](https://open.spotify.com/artist/2zee4amgZunaTl3YyLz1iG) | [Echoes Of A Rock Era](https://open.spotify.com/album/61w6Wg7Xli7dxZx2GrTZgi) | 2:16 |
 | 44 | [Can't We Be Sweethearts](https://open.spotify.com/track/6vF8EUUjVNkKf1Yb2lmovx) | [The Cleftones](https://open.spotify.com/artist/55vDUEAKaeyEYSlzm5rRyf) | [The Best Of The Cleftones](https://open.spotify.com/album/4Ww5jdBeQfopiPnKvbYEcN) | 2:59 |
 | 45 | [At The Hop](https://open.spotify.com/track/0X1rGmNiBAdqpkeWlaZbmi) | [Danny & The Juniors](https://open.spotify.com/artist/6Ahm6X9wSKXitavOvu0XzY) | [For Cool Grandkids Everywhere](https://open.spotify.com/album/32xVr7I4Aj0RqHYRTsQx0a) | 2:36 |
 | 46 | [Blue Moon](https://open.spotify.com/track/2CghtwfbA6zkqfxRlSsSJG) | [The Marcels](https://open.spotify.com/artist/1JQYskbOoudT9cylam24a3) | [The Marcels](https://open.spotify.com/album/7aRLy6IzAiasWqxy62lubc) | 2:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GxQjEBVviW.md) - [plain]
 | 49 | [Lovers Never Say Goodbye](https://open.spotify.com/track/1XDKn16I6tc1PNpXf58y3t) | [The Flamingos](https://open.spotify.com/artist/6iygtKnPG7TRvDaTYcLOd6) | [Playlist: The Best Of The Flamingos](https://open.spotify.com/album/4jwec58eQ4tIr8YWKdxyjg) | 2:53 |
 | 50 | [Chapel of Dreams](https://open.spotify.com/track/3HgV08D7OOay214URalpnZ) | [The Dubs](https://open.spotify.com/artist/33rjua7RFjy9GwqKWnbnGJ) | [Rmg's Top Doo\-Wop Cloud Hits Volume 1](https://open.spotify.com/album/3x0X3yqeVppSX30KzKWSiU) | 2:32 |
 
-Snapshot ID: `MTYxMzEyNDQwNywwMDAwMDAwMDRhZTU2YjRhNDRiNjY5ZDA4MDZlZGM1N2NmNjZjMzVk`
+Snapshot ID: `MTYxMzEyNDQwNywwMDAwMDAwMDdiNjlhNDkxZWVhMzdjYzdiZjZlODE4ZmMwOTkzYmU3`

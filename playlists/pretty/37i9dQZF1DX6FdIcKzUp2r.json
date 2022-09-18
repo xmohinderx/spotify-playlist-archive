@@ -1,12 +1,12 @@
 {
   "description": "Work or rest with these gems from the 80s.",
-  "num_followers": 183700,
+  "num_followers": 183784,
   "original_name": "Chilled 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU0NzY0NjM5NiwwMDAwMDAwMGE3OTExZjEzODEzOTllY2VmMWVhZDg1Zjg1NjAyZTdj",
+  "snapshot_id": "MTU0NzY0NjM5NiwwMDAwMDAwMDM0MGRkOWRhMmFlZTIxNjEwODQ3ZGI4NDc3Njk5NjU0",
   "tracks": [
     {
       "added_at": "2018-12-12 11:36:39",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Music for the Masses (2006 Remaster)",
-        "url": "https://open.spotify.com/album/4tPRXghD4ago6NYyyfrtES"
-      },
-      "artists": [
-        {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
-        }
-      ],
-      "duration_ms": 239720,
-      "name": "The Things You Said - 2006 Remaster",
-      "url": "https://open.spotify.com/track/3i1Th1jZXXO0ZpGKhpTKWK"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "Merry Christmas, Mr. Lawrence",
         "url": "https://open.spotify.com/album/0BlM8Qd8rxj4wLd9ioGZZU"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 282973,
       "name": "Forbidden Colors",
       "url": "https://open.spotify.com/track/5mvOFm7fHLFLyEQtusCmUf"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "Music for the Masses (2006 Remaster)",
+        "url": "https://open.spotify.com/album/4tPRXghD4ago6NYyyfrtES"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "duration_ms": 239720,
+      "name": "The Things You Said - 2006 Remaster",
+      "url": "https://open.spotify.com/track/3i1Th1jZXXO0ZpGKhpTKWK"
     },
     {
       "added_at": "2018-12-12 11:36:39",

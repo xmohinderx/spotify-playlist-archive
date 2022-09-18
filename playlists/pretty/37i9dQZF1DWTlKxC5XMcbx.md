@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlKxC5XMcbx.md) - [plain]
 
 > 即興而自在、優雅而舒緩，這形容是不是像個好夢的感覺呢？就讓美妙的爵士樂助你入眠吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,535 likes - 75 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,546 likes - 75 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlKxC5XMcbx.md) - [plain]
 | 62 | [It Never Entered My Mind](https://open.spotify.com/track/6zGHpPBJFxudCfvrCmo6EF) | [Peter Asplund](https://open.spotify.com/artist/3gCWfv5obnwNI5vF6PTAwz), [Hans Andersson](https://open.spotify.com/artist/0u7AFb2NdypFhoLJ8tYH8I), [Johan Lofcrantz Ramsay](https://open.spotify.com/artist/3yV0vWr0YdP5rPERtUL775), [Lars Jansson](https://open.spotify.com/artist/1kW3Vmt2UDZfYhc9So72dS) | [It Never Entered My Mind](https://open.spotify.com/album/3nqEfqV0hlxvOegVjThfKq) | 6:15 |
 | 63 | [Romaria](https://open.spotify.com/track/6BMmyctJWWdbTHKpXkrja0) | [Andy Sheppard Quartet](https://open.spotify.com/artist/57LkmRYAzvaq7lt1JI6oZb) | [Romaria](https://open.spotify.com/album/7s6ExEC25Hy8JirFPrghQY) | 5:11 |
 | 64 | [I Have Dreamed](https://open.spotify.com/track/4bBIADw4urJPkcx0YOfEIo) | [Christian McBride Trio](https://open.spotify.com/artist/3nh2jsKXbzQzTBm5qzVXEP) | [Out Here](https://open.spotify.com/album/14BJkt0RNMcXU14xMmNRxH) | 8:27 |
-| 65 | [Alone And I \- Remastered 2007](https://open.spotify.com/track/4IXZjNVYILadTUH7AaF32o) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Takin' Off \(Expanded Edition\)](https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl) | 6:29 |
-| 66 | [Before It's Time to Say Goodbye](https://open.spotify.com/track/4lj4cW45UP5tQ8AhRxnQi9) | [Kenny Garrett](https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY) | [Songbook](https://open.spotify.com/album/1iygnpMlnC5R3HtPJ6dIF3) | 5:17 |
+| 65 | [Before It's Time to Say Goodbye](https://open.spotify.com/track/4lj4cW45UP5tQ8AhRxnQi9) | [Kenny Garrett](https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY) | [Songbook](https://open.spotify.com/album/1iygnpMlnC5R3HtPJ6dIF3) | 5:17 |
+| 66 | [Alone And I \- Remastered 2007](https://open.spotify.com/track/4IXZjNVYILadTUH7AaF32o) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Takin' Off \(Expanded Edition\)](https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl) | 6:29 |
 | 67 | [All The Way](https://open.spotify.com/track/6rUGbjo3y0MbeQNaPfytXe) | [Bob Berg](https://open.spotify.com/artist/1gqL9JWgVW2O87KbYWPNbC) | [Another Standard](https://open.spotify.com/album/5uQeyBHwBYFsxAFqyjjY9Z) | 5:35 |
 | 68 | [Emily](https://open.spotify.com/track/6joG9hvPqUH0Bm4Zff7Nru) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Summertime](https://open.spotify.com/album/0yjSeaa1BvDU2nlFB0E6j7) | 4:47 |
 | 69 | [Smile](https://open.spotify.com/track/7xLZGhRR2jTUtaPewAmacY) | [Alan Pasqua](https://open.spotify.com/artist/1QDou4hCker2eGblLzIq80) | [My New Old Friend](https://open.spotify.com/album/2jvq28Yfjk0Wal4cH5xUtr) | 5:33 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlKxC5XMcbx.md) - [plain]
 | 74 | [Travels](https://open.spotify.com/track/6juyk5UBrXxqeyPfKRvsc9) | [Pat Metheny Trio](https://open.spotify.com/artist/4JHW2v09dlK6Pq116CCuCy) | [Trio 99\-00](https://open.spotify.com/album/2EtkrLObwfJ8cdgbJXz2lP) | 5:43 |
 | 75 | [So Lovely](https://open.spotify.com/track/0Ya7lMXJGmETT1G3bW0uX2) | [Ben Wolfe](https://open.spotify.com/artist/7A1xxtVfUahU8u7Z4kKFRC) | [From Here I See](https://open.spotify.com/album/2zmbP9vz9Bwx1SCHgkPzTc) | 5:40 |
 
-Snapshot ID: `MTY2Mjk2NjUyMywwMDAwMDAwMGU1Yzc1MzFkZGVkYWJjMmEwZjQwODM2YTk1YTk0YjEy`
+Snapshot ID: `MTY2Mjk2NjUyMywwMDAwMDAwMGQ3ODJiZTI5YjA2ODAwODlhM2UwY2QwMzUwMGNjYjRl`

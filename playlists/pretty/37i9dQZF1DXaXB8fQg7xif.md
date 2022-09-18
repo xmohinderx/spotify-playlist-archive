@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXB8fQg7xif.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Move</a> your feet!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,876,629 likes - 150 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,877,471 likes - 150 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXB8fQg7xif.md) - [plain]
 | 95 | [Bad Habits \- MEDUZA Remix](https://open.spotify.com/track/12N23tQKmfGcEO0z8ObwtM) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Bad Habits \(MEDUZA Remix\)](https://open.spotify.com/album/6KMHosj3h5fkGwPoTK9gvB) | 3:14 |
 | 96 | [Talamanca](https://open.spotify.com/track/7dDLAQ1y0qOq3E4DhNh8FS) | [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7) | [Talamanca](https://open.spotify.com/album/1N66eMzBBNRHa3HFE6GCsW) | 3:06 |
 | 97 | [El Incomprendido](https://open.spotify.com/track/2mL37yB3f3Lfy4iiXV02Qf) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Victor Cardenas](https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR), [Dj Adoni](https://open.spotify.com/artist/3JfbHWZ07sSBjbojTU2hAt) | [La 167](https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK) | 4:27 |
-| 98 | [Power \(Remember Who You Are\) \- From The Flipper’s Skate Heist Short Film](https://open.spotify.com/track/7vQYsdVQMbB8d8DSxtHSgr) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [Power \(Remember Who You Are\) \[From The Flipper’s Skate Heist Short Film\]](https://open.spotify.com/album/0U8rhl69WPOU67DqFhjPaq) | 3:25 |
+| 98 | [Power \(Remember Who You Are\) \- From The Flipper’s Skate Heist Short Film](https://open.spotify.com/track/7vQYsdVQMbB8d8DSxtHSgr) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Power \(Remember Who You Are\) \[From The Flipper’s Skate Heist Short Film\]](https://open.spotify.com/album/0U8rhl69WPOU67DqFhjPaq) | 3:25 |
 | 99 | [Stan Smith](https://open.spotify.com/track/0nCgsAki7e7I243CUblGxU) | [Alcemist](https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0), [Coco](https://open.spotify.com/artist/7q33wxvdJ95u6w3fY2q5ai) | [Stan Smith](https://open.spotify.com/album/2s7f4Qihh5MV7D6lKLPBjB) | 3:55 |
 | 100 | [My Feelings For You \- Mark Knight Remix](https://open.spotify.com/track/2hLczPN5CH5qhc6J4WBJHs) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Sebastien Drums](https://open.spotify.com/artist/0lHsjYcb3lGjkJQQqC6HVt), [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL) | [My Feelings For You \(Mark Knight Remix\)](https://open.spotify.com/album/3P4T0xEYwLZiB9xhzM0tzF) | 3:44 |
 | 101 | [Human \(feat\. Echoes\)](https://open.spotify.com/track/4G4patpYxsF6ovHZOX9wgR) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Echoes](https://open.spotify.com/artist/4pT84mlmySh9CkiGfJA9xV) | [Human \(feat\. Echoes\)](https://open.spotify.com/album/0LsQJbzouY38Os8GXxn5dO) | 3:39 |

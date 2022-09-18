@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 
 > The best of Latin Trap\. Cover: YOVNGCHIMI
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,506,837 likes - 108 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,506,938 likes - 108 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

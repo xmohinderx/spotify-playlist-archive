@@ -1,12 +1,12 @@
 {
   "description": "Home is where you park it.",
-  "num_followers": 500093,
+  "num_followers": 500489,
   "original_name": "Van Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI1NTIwMCwwMDAwMDAwMDJlZmRkMzFiNmYwYWZhMTg4ZjFlNmFiODI3Mjg1ZGJl",
+  "snapshot_id": "MTY2MDI1NTIwMCwwMDAwMDAwMGExYmRkZTliZTdkYmU2Nzg5MGY3OThhMzU4Yjk2ODNl",
   "tracks": [
     {
       "added_at": "2022-08-11 22:00:00",
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2022-08-11 22:00:00",
       "album": {
-        "name": "Through Water",
-        "url": "https://open.spotify.com/album/4U7KMGWUL0FQtYCVxVy1Za"
+        "name": "Rio Grande",
+        "url": "https://open.spotify.com/album/1lmQHGEURZn6u1LnJP69L8"
       },
       "artists": [
         {
-          "name": "L\u00e5psley",
-          "url": "https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg"
+          "name": "Freedom Fry",
+          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
         }
       ],
-      "duration_ms": 188800,
-      "name": "Speaking of the End",
-      "url": "https://open.spotify.com/track/0VgTi18CjUoI1frSMsNXWT"
+      "duration_ms": 271593,
+      "name": "Rio Grande",
+      "url": "https://open.spotify.com/track/4vdkKF7PQarU8T0xZclHzb"
     },
     {
       "added_at": "2022-08-11 22:00:00",
@@ -1171,18 +1171,18 @@
     {
       "added_at": "2022-08-11 22:00:00",
       "album": {
-        "name": "Rio Grande",
-        "url": "https://open.spotify.com/album/1lmQHGEURZn6u1LnJP69L8"
+        "name": "Through Water",
+        "url": "https://open.spotify.com/album/4U7KMGWUL0FQtYCVxVy1Za"
       },
       "artists": [
         {
-          "name": "Freedom Fry",
-          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
+          "name": "L\u00e5psley",
+          "url": "https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg"
         }
       ],
-      "duration_ms": 271593,
-      "name": "Rio Grande",
-      "url": "https://open.spotify.com/track/4vdkKF7PQarU8T0xZclHzb"
+      "duration_ms": 188800,
+      "name": "Speaking of the End",
+      "url": "https://open.spotify.com/track/0VgTi18CjUoI1frSMsNXWT"
     },
     {
       "added_at": "2022-08-11 22:00:00",
@@ -1267,26 +1267,6 @@
     {
       "added_at": "2022-08-11 22:00:00",
       "album": {
-        "name": "No Goodbye",
-        "url": "https://open.spotify.com/album/1w0QlUchdZEiY6NYIrmJf2"
-      },
-      "artists": [
-        {
-          "name": "Hania Rani",
-          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
-        },
-        {
-          "name": "Fejk\u00e1",
-          "url": "https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "No Goodbye",
-      "url": "https://open.spotify.com/track/3hSWPdtI58IANIOhulRR7v"
-    },
-    {
-      "added_at": "2022-08-11 22:00:00",
-      "album": {
         "name": "I'm Around",
         "url": "https://open.spotify.com/album/2grUI8BnHMjjIxLjRMjxmj"
       },
@@ -1303,6 +1283,26 @@
       "duration_ms": 271854,
       "name": "I'm Around",
       "url": "https://open.spotify.com/track/5mclZNj6vme4vrBOJlJ2ks"
+    },
+    {
+      "added_at": "2022-08-11 22:00:00",
+      "album": {
+        "name": "No Goodbye",
+        "url": "https://open.spotify.com/album/1w0QlUchdZEiY6NYIrmJf2"
+      },
+      "artists": [
+        {
+          "name": "Hania Rani",
+          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
+        },
+        {
+          "name": "Fejk\u00e1",
+          "url": "https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "No Goodbye",
+      "url": "https://open.spotify.com/track/3hSWPdtI58IANIOhulRR7v"
     },
     {
       "added_at": "2022-08-11 22:00:00",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2022-08-11 22:00:00",
       "album": {
-        "name": "Voyage Voyage",
-        "url": "https://open.spotify.com/album/0cwcEJiVLcBtY84ojgKYsc"
-      },
-      "artists": [
-        {
-          "name": "COMA",
-          "url": "https://open.spotify.com/artist/5t9SPy7c5n665XZCoAuR52"
-        }
-      ],
-      "duration_ms": 299299,
-      "name": "A-Train",
-      "url": "https://open.spotify.com/track/54YPsBTRPJAIITS8oND6wx"
-    },
-    {
-      "added_at": "2022-08-11 22:00:00",
-      "album": {
         "name": "My Guitar is too Loud",
         "url": "https://open.spotify.com/album/7Cf52mLBhP6NdPp1Fj6KBy"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 202000,
       "name": "My Guitar is too Loud",
       "url": "https://open.spotify.com/track/0E5eQCAkdX7Mt3sQh2tShz"
+    },
+    {
+      "added_at": "2022-08-11 22:00:00",
+      "album": {
+        "name": "Voyage Voyage",
+        "url": "https://open.spotify.com/album/0cwcEJiVLcBtY84ojgKYsc"
+      },
+      "artists": [
+        {
+          "name": "COMA",
+          "url": "https://open.spotify.com/artist/5t9SPy7c5n665XZCoAuR52"
+        }
+      ],
+      "duration_ms": 299299,
+      "name": "A-Train",
+      "url": "https://open.spotify.com/track/54YPsBTRPJAIITS8oND6wx"
     },
     {
       "added_at": "2022-08-11 22:00:00",

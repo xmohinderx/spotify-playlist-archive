@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2aV0uA.md) - [plain]
 
 > This is Lamb of God\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,720 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,762 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2aV0uA.md) - [plain]
 | 25 | [Broken Hands](https://open.spotify.com/track/1vSXIfAsN3AGa4H1pPHKVj) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath](https://open.spotify.com/album/4j5zQAcdn9hWdP9H8BH0jX) | 3:53 |
 | 26 | [The Undertow](https://open.spotify.com/track/2gKK35fVfoGT67MbkPgJY9) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Resolution \(Exclusive Edition\)](https://open.spotify.com/album/4ziMCfnsGVmOIaVjHzcPMk) | 4:46 |
 | 27 | [Gears](https://open.spotify.com/track/5GwPTFXjE3WLJevK6KLMyc) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Lamb of God](https://open.spotify.com/album/34Y9ZcZ4b3WGbhx66zS0QV) | 3:55 |
-| 28 | [The Number Six](https://open.spotify.com/track/6Mr2g708NoGLVChCjuA9yc) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Resolution](https://open.spotify.com/album/5rMKS2tqK818wfwr4zWQzX) | 5:21 |
+| 28 | [Hit The Wall](https://open.spotify.com/track/4IPEqUgslMB8nfEFdY5Lpm) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Hit The Wall](https://open.spotify.com/album/0XJrScbEI5GTBLOnvqI16x) | 3:37 |
 | 29 | [Reclamation](https://open.spotify.com/track/57JvwdRmUxwt4zi2Kk4OLC) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath](https://open.spotify.com/album/4j5zQAcdn9hWdP9H8BH0jX) | 7:07 |
-| 30 | [Hit The Wall](https://open.spotify.com/track/4IPEqUgslMB8nfEFdY5Lpm) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Hit The Wall](https://open.spotify.com/album/0XJrScbEI5GTBLOnvqI16x) | 3:37 |
+| 30 | [The Number Six](https://open.spotify.com/track/6Mr2g708NoGLVChCjuA9yc) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Resolution](https://open.spotify.com/album/5rMKS2tqK818wfwr4zWQzX) | 5:21 |
 | 31 | [Still Echoes](https://open.spotify.com/track/4aQJOU4vaoPkwGsIEBBGcr) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [VII: Sturm Und Drang \(Deluxe\)](https://open.spotify.com/album/01Lg3FKNxZ0We36Exz8Q9V) | 4:22 |
 | 32 | [Vigil](https://open.spotify.com/track/77XOYoYeK1CoTfnKUIXTjk) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [As The Palaces Burn](https://open.spotify.com/album/5OubC3vkQNuA3rVu6iD6xa) | 4:43 |
 | 33 | [Checkmate](https://open.spotify.com/track/1iqj7vNKGuT0AIGJ11Kojy) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Lamb of God](https://open.spotify.com/album/34Y9ZcZ4b3WGbhx66zS0QV) | 4:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2aV0uA.md) - [plain]
 | 49 | [Set To Fail](https://open.spotify.com/track/0FgblIvvlYsXEAlEOPbaFJ) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath](https://open.spotify.com/album/4j5zQAcdn9hWdP9H8BH0jX) | 3:46 |
 | 50 | [11th Hour](https://open.spotify.com/track/6WDJv2slxzc6Xu7CVonDBM) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [As The Palaces Burn](https://open.spotify.com/album/5OubC3vkQNuA3rVu6iD6xa) | 3:44 |
 
-Snapshot ID: `Mjc3MjIyMzMsMDAwMDAwMDA2MmJjM2IyYTYxNWQxYTc1OGIyNmMwZjk4NmM4ZmE1MQ==`
+Snapshot ID: `Mjc3MjM2OTIsMDAwMDAwMDBlNmRhMzdhOGUxODM4NGU4YzU0NTg1MjIzZDMwNmY4MA==`

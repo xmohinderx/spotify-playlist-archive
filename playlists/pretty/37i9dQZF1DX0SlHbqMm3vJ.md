@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SlHbqMm3vJ.md) - [plain]
 
 > A collection of old and new R&B cuts from West Africa’s finest artists\. Cover: Preyé
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,889 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,035 likes - 80 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

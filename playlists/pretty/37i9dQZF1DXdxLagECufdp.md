@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxLagECufdp.md) - [plain]
 
 > Fanfarrias y ritmos clown para gozar las tragicomedias de la vida
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,832 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,864 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,16 +32,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxLagECufdp.md) - [plain]
 | 22 | [Djelem Djelem](https://open.spotify.com/track/03nCB2bLgZMahtLTtKk0pU) | [Barcelona Gipsy Klezmer Orchestra](https://open.spotify.com/artist/3PTfq1DY4qdmJaIySsHinw) | [Imbarca](https://open.spotify.com/album/19MmbEcj7NqppcIlQaaS32) | 4:52 |
 | 23 | [Ácaro](https://open.spotify.com/track/1u2j4CufZ3HIZIo8y2yJs7) | [Miau Trío](https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL) | [Ácaro](https://open.spotify.com/album/5p9sfsdqNlhSDqbotwaJj5) | 3:45 |
 | 24 | [Il ballo di San Vito](https://open.spotify.com/track/6oC8FuowgLT4ZSlXECLCNX) | [Vinicio Capossela](https://open.spotify.com/artist/6FlxhoUGATC40TALMesaFM) | [Il Ballo Di San Vito](https://open.spotify.com/album/7dFDRhEgvQZHu77TuvoEri) | 3:23 |
-| 25 | [Harta](https://open.spotify.com/track/1J4xv5V5dzkA8UGtXSbCNU) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Harta](https://open.spotify.com/album/7xxEXEwifY6NE0sEmIybSg) | 3:05 |
+| 25 | [Que No, Que No](https://open.spotify.com/track/1CfDgFfSpVIrufYPVX02et) | [Las Taradas](https://open.spotify.com/artist/0cvN008loU6mGFr4IiYjVO) | [Son y Se Hacen](https://open.spotify.com/album/7CBtEchhPV1o3BLPlgPcuC) | 3:08 |
 | 26 | [Asfalt Tango](https://open.spotify.com/track/56zs50f4ZqV1TMtzkw2oTc) | [Fanfare Ciocarlia](https://open.spotify.com/artist/40iJCAOCz6nhRs6CbsAtOg) | [Baro Biao](https://open.spotify.com/album/51fzQZ94klHH5ToOVN6Uy3) | 6:12 |
-| 27 | [Que No, Que No](https://open.spotify.com/track/1CfDgFfSpVIrufYPVX02et) | [Las Taradas](https://open.spotify.com/artist/0cvN008loU6mGFr4IiYjVO) | [Son y Se Hacen](https://open.spotify.com/album/7CBtEchhPV1o3BLPlgPcuC) | 3:08 |
+| 27 | [Harta](https://open.spotify.com/track/1J4xv5V5dzkA8UGtXSbCNU) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Harta](https://open.spotify.com/album/7xxEXEwifY6NE0sEmIybSg) | 3:05 |
 | 28 | [Mesecina / Moonlight](https://open.spotify.com/track/4j3HKFuIHwdxxbZmPqJJYX) | [Goran Bregović](https://open.spotify.com/artist/491v9k5NTGBGanwqPNSkuS) | [Underground \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2xMLHeRDiuzNWIrZt7Q8na) | 3:59 |
 | 29 | [Marrakumbiah](https://open.spotify.com/track/45X61WpnNpZopCO92ZwKdw) | [La Internacional Sonora Balkanera](https://open.spotify.com/artist/7zBN4dVulSEiunuM8jw98C) | [Etno Pachanga Sound System](https://open.spotify.com/album/6fCxJA4Ar7o8PXRjDrKECo) | 3:45 |
 | 30 | [Chocolat \(Swing\)](https://open.spotify.com/track/42gaDDxNCrQMkri7sQcqGq) | [Feten Feten](https://open.spotify.com/artist/2jA6wEXprTZysvomP2krp8) | [Bailables](https://open.spotify.com/album/2LXPajOlTfGvlm6jm1oFtW) | 3:44 |
 | 31 | [Karnaval](https://open.spotify.com/track/0QoKi5HQm7srBiovlTpTws) | [Fanko](https://open.spotify.com/artist/7FTVF3GI4iIuxErFlgYS2n), [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Volver al Futuro \(Otro Futuro\)](https://open.spotify.com/album/184ZgYcvVQWNyvoDHBYtuE) | 4:22 |
-| 32 | [Bulgarian Chicks \(feat\. Vlada Tomova & Kristin Espeland\)](https://open.spotify.com/track/6Z0xtMYSC5RSSPFcFTzNZY) | [Balkan Beat Box](https://open.spotify.com/artist/2rmMyZC0sUD1a3jkDxp7iY), [Vlada Tomova](https://open.spotify.com/artist/74f7fNXxNm4fYu7ajpXykd), [Kristin Espeland](https://open.spotify.com/artist/1z15SEPLxHchqfFI7SBCTJ) | [Balkan Beat Box](https://open.spotify.com/album/3kpfXAnyZmUXmjnVe8u1G2) | 5:52 |
-| 33 | [Sadagora Hot Dub \- Remixed by Shantel](https://open.spotify.com/track/3Wb0d7PcBdFKVnTJ75UQ1l) | [Amsterdam Klezmer Band](https://open.spotify.com/artist/2vMBszTQ5H66LhDEM3mSvl) | [Remixed](https://open.spotify.com/album/5LjkNrn1rnhAk0dimZGrk5) | 5:11 |
-| 34 | [Flor de Cumbión](https://open.spotify.com/track/1iw2aoN9vgmzHw0acRFvAZ) | [Banda Conmoción](https://open.spotify.com/artist/2UNMW1OKE0X1cwJHWER67g) | [Pregonero](https://open.spotify.com/album/44vJ4lHPNZmfZ09TJ4Q1Hd) | 2:37 |
+| 32 | [Flor de Cumbión](https://open.spotify.com/track/1iw2aoN9vgmzHw0acRFvAZ) | [Banda Conmoción](https://open.spotify.com/artist/2UNMW1OKE0X1cwJHWER67g) | [Pregonero](https://open.spotify.com/album/44vJ4lHPNZmfZ09TJ4Q1Hd) | 2:37 |
+| 33 | [Bulgarian Chicks \(feat\. Vlada Tomova & Kristin Espeland\)](https://open.spotify.com/track/6Z0xtMYSC5RSSPFcFTzNZY) | [Balkan Beat Box](https://open.spotify.com/artist/2rmMyZC0sUD1a3jkDxp7iY), [Vlada Tomova](https://open.spotify.com/artist/74f7fNXxNm4fYu7ajpXykd), [Kristin Espeland](https://open.spotify.com/artist/1z15SEPLxHchqfFI7SBCTJ) | [Balkan Beat Box](https://open.spotify.com/album/3kpfXAnyZmUXmjnVe8u1G2) | 5:52 |
+| 34 | [Sadagora Hot Dub \- Remixed by Shantel](https://open.spotify.com/track/3Wb0d7PcBdFKVnTJ75UQ1l) | [Amsterdam Klezmer Band](https://open.spotify.com/artist/2vMBszTQ5H66LhDEM3mSvl) | [Remixed](https://open.spotify.com/album/5LjkNrn1rnhAk0dimZGrk5) | 5:11 |
 | 35 | [Cumbia Klezmer](https://open.spotify.com/track/2bsNIf7cT3PYRriUSNcnck) | [La Mano Ajena](https://open.spotify.com/artist/611eLbdAybrp9seo2dr6eJ) | [Radio Galena](https://open.spotify.com/album/1Ra9M1mo2LU1TQRSYJ7Vjg) | 2:49 |
 | 36 | [No Corro, No Grito, No Empujo](https://open.spotify.com/track/2zMauuBuWdlJxv3EFkEGLv) | [Triciclo Circus Band](https://open.spotify.com/artist/6Kkbu7QNMwiSeQxTJ8hFZt) | [No Corro, No Grito, No Empujo](https://open.spotify.com/album/0Gl73ICTO0K3h8f1E9cdZy) | 3:04 |
 | 37 | [ゴッドファーザー愛のテーマ](https://open.spotify.com/track/3wMcumG7H13Oq3HvHeeok5) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [WILD PEACE](https://open.spotify.com/album/5R19j19wldlcON2ZTaJikv) | 3:42 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxLagECufdp.md) - [plain]
 | 46 | [Gopher](https://open.spotify.com/track/01hqaLJ7lsOf5w0zTysbGD) | [Bombay Rickey](https://open.spotify.com/artist/25K3DdUbAxFXeydGHPoyPz) | [Electric Bhairavi](https://open.spotify.com/album/6h5WjOpelHPgjr1OjCm1tm) | 3:59 |
 | 47 | [Pastelito De Piña](https://open.spotify.com/track/5vniH12f4XPDvlVJLtcOl7) | [Klezmerson](https://open.spotify.com/artist/6zbs9O1YV39e8F2ZR7RQqL) | [Klezmerol](https://open.spotify.com/album/0WDKrFndSnTYgDNB2S065Z) | 4:45 |
 | 48 | [Oh My Girl \- French Version](https://open.spotify.com/track/6d2AYwXli3hQpnLyg1cfvl) | [Club des Belugas](https://open.spotify.com/artist/3ea1ZpptTqS5pwYYpQQVCo), [Antoine Villoutreix](https://open.spotify.com/artist/1LeuN4Zsd04HulaBIIRYVb) | [Strange Things Beyond the Sunny Side](https://open.spotify.com/album/2SpUhxXyFjsSS0XomMSUZw) | 3:31 |
-| 49 | [Constelación](https://open.spotify.com/track/58yXDaeNbIqbbAkFH8or6a) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Constelación](https://open.spotify.com/album/5hXsDY407wtAlm5W81aM1F) | 3:09 |
-| 50 | [Bailando Con las Farolas](https://open.spotify.com/track/6L50NoOHzsy4nqgqMjTU09) | [Jenny And The Mexicats](https://open.spotify.com/artist/2faVKByk0IA651ICKyYYOa), [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [Bailando Con las Farolas](https://open.spotify.com/album/7JdYoEGug2CawZ409DG1U0) | 3:00 |
+| 49 | [Bailando Con las Farolas](https://open.spotify.com/track/6L50NoOHzsy4nqgqMjTU09) | [Jenny And The Mexicats](https://open.spotify.com/artist/2faVKByk0IA651ICKyYYOa), [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [Bailando Con las Farolas](https://open.spotify.com/album/7JdYoEGug2CawZ409DG1U0) | 3:00 |
+| 50 | [Constelación](https://open.spotify.com/track/58yXDaeNbIqbbAkFH8or6a) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Constelación](https://open.spotify.com/album/5hXsDY407wtAlm5W81aM1F) | 3:09 |
 
-Snapshot ID: `MTY1OTQ4OTQ5MSwwMDAwMDAwMDMwZmVmNzk4NWZjMDIzY2ZjYTQ1ZWVhN2I3YTNjZDNj`
+Snapshot ID: `MTY1OTQ4OTQ5MSwwMDAwMDAwMDkxMmEzYTFkYTk2ZGZlNzMzNDc0YzU3MTcxOTBhZTNh`

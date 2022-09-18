@@ -4,7 +4,7 @@
 
 > unwind with these alternative favorites.
 
-264 songs - 16 hr 34 min - [published](https://open.spotify.com/playlist/6Sz9PXGuNaiQlCoxe28vAO)
+265 songs - 16 hr 37 min - [published](https://open.spotify.com/playlist/6Sz9PXGuNaiQlCoxe28vAO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Arabella](https://open.spotify.com/track/7nzsY8vlnKdvGOEE0rjAXZ) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:27 | 2022-04-11 |  |
 | [As We Are Now](https://open.spotify.com/track/0auccbirOSgf38celsAEJA) | [Saint Raymond](https://open.spotify.com/artist/1eIoJGCu3rShrRm2wfOhN8) | [Young Blood EP](https://open.spotify.com/album/6rkpulKVwXAsc5Uuc7YlEi) | 2:37 | 2019-06-16\* |  |
 | [Astronaut \(Something About Your Love\)](https://open.spotify.com/track/1XXqmnOgL9k9lcRT3hncTf) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Shadowboxer](https://open.spotify.com/album/4pZrPnENK2NSEaBBo6rr8q) | 3:22 | 2022-04-11 | 2022-09-15 |
+| [Astronaut \(Something About Your Love\)](https://open.spotify.com/track/61c96X4Th7oYdSDxIOEV3k) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Shadowboxer](https://open.spotify.com/album/1lozs5nIWjppJZWFEnfGlV) | 3:22 | 2022-09-16 |  |
 | [Astronaut \- Something About Your Love](https://open.spotify.com/track/4sG6J4S2FCuMr3oooYAwFS) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Astronaut \(Something About Your Love\)](https://open.spotify.com/album/7gXdTAAzBuXqTV2kxSIPAk) | 3:22 | 2019-06-16\* | 2022-07-29 |
 | [Back In My Head Again](https://open.spotify.com/track/5etJs8H5GcjCboXNw6Rrg0) | [Levi Evans](https://open.spotify.com/artist/3iaO242P43HXGQesDYkubX) | [Back In My Head Again](https://open.spotify.com/album/0nH41ZLIbjlXlExaoo4kge) | 2:54 | 2021-08-13 |  |
 | [Balladino](https://open.spotify.com/track/3Y5fO1e3ldJMvGP4wb4jB1) | [Atlas Genius](https://open.spotify.com/artist/42vg2T0Xg9yPaAgogJzoQH) | [Inanimate Objects](https://open.spotify.com/album/3jQxdLlKciB0WQncSVhM39) | 3:59 | 2019-06-16\* | 2021-10-23 |
@@ -57,7 +58,7 @@
 | [Close Your Eyes](https://open.spotify.com/track/6nknq3uzBIsYNjEdRiOzMo) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [Sweat](https://open.spotify.com/album/3DlC3mcBzssqPkY7lhmfls) | 4:27 | 2019-06-16\* | 2022-07-29 |
 | [Cocoon](https://open.spotify.com/track/2v06ZOVTUrUoBNKOCqS22m) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Cocoon](https://open.spotify.com/album/6AhNACx5j2NqU840PMi5O3) | 4:14 | 2019-06-16\* | 2022-07-28 |
 | [Cocoon](https://open.spotify.com/track/6acDlNeA06MCVCzsTVGr9V) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Blossom \(Deluxe\)](https://open.spotify.com/album/72xhsdVmVWFXJuSjABjqtC) | 4:15 | 2022-04-11 |  |
-| [Coincidental](https://open.spotify.com/track/3pdaoKvvkDRW5ed0LM2LBe) | [Betcha](https://open.spotify.com/artist/3pT3KTodKJRyqpxoXINfQh) | [Falling](https://open.spotify.com/album/6tw7TyC4sZMrEomXECGqrd) | 4:20 | 2022-04-11 |  |
+| [Coincidental](https://open.spotify.com/track/3pdaoKvvkDRW5ed0LM2LBe) | [Betcha](https://open.spotify.com/artist/3pT3KTodKJRyqpxoXINfQh) | [Falling](https://open.spotify.com/album/6tw7TyC4sZMrEomXECGqrd) | 4:20 | 2022-04-11 | 2022-09-18 |
 | [Coincidental](https://open.spotify.com/track/4Me2Cf0Pp3OF518iN201oO) | [Betcha](https://open.spotify.com/artist/3pT3KTodKJRyqpxoXINfQh) | [Coincidental](https://open.spotify.com/album/4jlETvPQ17UqWn2JXMZce7) | 4:22 | 2019-06-16\* | 2022-07-29 |
 | [Color \- Remastered](https://open.spotify.com/track/2HNnYRJIlsM1JHn1Nq8qU7) | [Finish Ticket](https://open.spotify.com/artist/3RthMq3xfDQZl80cMEg1JQ) | [When Night Becomes Day](https://open.spotify.com/album/1yz3tI7TG1fpTIzBzW1mud) | 4:10 | 2019-06-16\* | 2021-05-15 |
 | [Colorado](https://open.spotify.com/track/0eZmBWVC1HYayrP2fqQ7nu) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Colorado](https://open.spotify.com/album/0zOIu4cDkUdJPq1c5uQusO) | 2:54 | 2021-11-12 |  |

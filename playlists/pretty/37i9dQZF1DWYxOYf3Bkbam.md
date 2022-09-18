@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 
 > Entre clásicos y nuevos intérpretes, puro Chamamé.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,104 likes - 90 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,137 likes - 90 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 | 2 | [Pobre Mi Caballo Bayo](https://open.spotify.com/track/1RH0xRjfMRrJyzuSgeUZt5) | [Los Reyes Del Chamame](https://open.spotify.com/artist/3ElKCwCghvNBPp6f8QITom) | [Coleccion Aniversario](https://open.spotify.com/album/1RcVlAu4fvqxSVbcE6mgjV) | 2:30 |
 | 3 | [Las Manos De Mi Madre](https://open.spotify.com/track/2xWHt35XioEl0JfPSszwdQ) | [Argentino Luna](https://open.spotify.com/artist/3QSFLkwEghCeYY042s6uWs) | [El Duende De Las Guitarras](https://open.spotify.com/album/2bUhI3v2S9vipV0lqPd7xk) | 2:46 |
 | 4 | [Km\. 11](https://open.spotify.com/track/7gISQrzfd4ZRXK0QQ7qTWN) | [Los Alonsitos](https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H), [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Chamame](https://open.spotify.com/album/1uXqDaLfbmyspjzHVmCEQz) | 2:51 |
-| 5 | [Entre Amigos y Chamamé](https://open.spotify.com/track/2oVIceKK4OhBqcWMsUDIeF) | [Conjunto Ivoti](https://open.spotify.com/artist/1hwojP1Bi7ipcn0qFbe8tP) | [20 Grandes Éxitos](https://open.spotify.com/album/7vD9R7797pRWuETVzLFrTx) | 2:23 |
+| 5 | [Entre amigos y chamamé](https://open.spotify.com/track/2oVIceKK4OhBqcWMsUDIeF) | [Conjunto Ivoti](https://open.spotify.com/artist/1hwojP1Bi7ipcn0qFbe8tP) | [20 Grandes Éxitos](https://open.spotify.com/album/7vD9R7797pRWuETVzLFrTx) | 2:23 |
 | 6 | [Conjunto Pena Y Olvido](https://open.spotify.com/track/7tgJfvvzUi10I77BffnUHd) | [Mario Bofill](https://open.spotify.com/artist/0WZW3Jl8eZw8AWxBLrtfD7) | [Duendes Puebleros](https://open.spotify.com/album/1RJSfyaGC3cIw9vUs1r4FO) | 3:19 |
 | 7 | [El Toro](https://open.spotify.com/track/61n7TIudKqHdaIZwCIS8IL) | [Antonio Tarragó Ros](https://open.spotify.com/artist/65jGZiPXVWGDlLhnICMfvI) | [Taipero Poriahu](https://open.spotify.com/album/4V74DbM1ZAQepwoXCpvooE) | 2:43 |
 | 8 | [El Gateao](https://open.spotify.com/track/22DsqUz2nEwX0shUrgHb9I) | [Los de Mailin](https://open.spotify.com/artist/3dOc8TrWBy34iRv0TaXolB) | [Hilvanando Recuerdos](https://open.spotify.com/album/0vAxrwxF8Xs2aEQkryfBcS) | 2:39 |

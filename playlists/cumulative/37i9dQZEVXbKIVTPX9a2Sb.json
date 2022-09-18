@@ -1026,6 +1026,28 @@
     },
     {
       "album": {
+        "name": "B.O.T.A. (Baddest Of Them All)",
+        "url": "https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK"
+      },
+      "artists": [
+        {
+          "name": "Eliza Rose",
+          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
+        },
+        {
+          "name": "Interplanetary Criminal",
+          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226626,
+      "name": "B.O.T.A. (Baddest Of Them All) - Edit",
+      "url": "https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft"
+    },
+    {
+      "album": {
         "name": "LOCKDOWN MUSIC",
         "url": "https://open.spotify.com/album/6tnmmNrOSQv5h6qhTlZLfi"
       },
@@ -1243,7 +1265,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 232066,
       "name": "Bad Habit",
       "url": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
@@ -1431,7 +1453,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 206070,
       "name": "Bam Bam (feat. Ed Sheeran)",
       "url": "https://open.spotify.com/track/2DB4DdfCFMw1iaR6JaR03a"
@@ -2987,7 +3009,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 202735,
       "name": "Cold Heart - PNAU Remix",
       "url": "https://open.spotify.com/track/6JIC3hbC28JZKZ8AlAqX8h"
@@ -3535,7 +3557,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 197912,
       "name": "Diamanty",
       "url": "https://open.spotify.com/track/5TKjAQyTkezAQGz6eRMOL6"
@@ -5021,7 +5043,7 @@
       ],
       "date_added": "2022-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-13",
+      "date_removed": null,
       "duration_ms": 140624,
       "name": "Front 2 Back",
       "url": "https://open.spotify.com/track/38mwzF0ib0Wsqcnhy0PbBm"
@@ -12005,7 +12027,7 @@
       ],
       "date_added": "2021-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 287120,
       "name": "Pepas",
       "url": "https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni"
@@ -12099,7 +12121,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-13",
+      "date_removed": null,
       "duration_ms": 174196,
       "name": "Piato\u010dek",
       "url": "https://open.spotify.com/track/0S4R6vsr5MlIJyOutUjHd3"
@@ -12139,6 +12161,24 @@
       "duration_ms": 186964,
       "name": "Pink Venom",
       "url": "https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj"
+    },
+    {
+      "album": {
+        "name": "BORN PINK",
+        "url": "https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186964,
+      "name": "Pink Venom",
+      "url": "https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY"
     },
     {
       "album": {
@@ -12969,7 +13009,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 169245,
       "name": "RAVE",
       "url": "https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL"
@@ -13749,7 +13789,7 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 190883,
       "name": "Sharks",
       "url": "https://open.spotify.com/track/7sA2SKTo1QbTSSYn5YvJC4"
@@ -13825,6 +13865,24 @@
       "duration_ms": 172675,
       "name": "SHUM",
       "url": "https://open.spotify.com/track/7mEDVrAHDnQJStDo8jKJJm"
+    },
+    {
+      "album": {
+        "name": "BORN PINK",
+        "url": "https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175889,
+      "name": "Shut Down",
+      "url": "https://open.spotify.com/track/7gRFDGEzF9UkBV233yv2dc"
     },
     {
       "album": {
@@ -14563,7 +14621,7 @@
       ],
       "date_added": "2021-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 141805,
       "name": "STAY (with Justin Bieber)",
       "url": "https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX"
@@ -15125,7 +15183,7 @@
       ],
       "date_added": "2021-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-17",
+      "date_removed": null,
       "duration_ms": 181192,
       "name": "S\u00e9rum",
       "url": "https://open.spotify.com/track/3AExPJ7KcjzpJWY2k8UAZO"
@@ -15845,6 +15903,24 @@
       "duration_ms": 231250,
       "name": "Ty",
       "url": "https://open.spotify.com/track/7wcz4V9XLZpteZEnMEJNEZ"
+    },
+    {
+      "album": {
+        "name": "BORN PINK",
+        "url": "https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179172,
+      "name": "Typa Girl",
+      "url": "https://open.spotify.com/track/0L8LOav65XwLjCLS11gNPD"
     },
     {
       "album": {
@@ -17739,6 +17815,24 @@
       "duration_ms": 139508,
       "name": "Z Hrobu",
       "url": "https://open.spotify.com/track/7Mof2pkZ9FyypLYaMlDMjg"
+    },
+    {
+      "album": {
+        "name": "Za mojej \u00e9ry",
+        "url": "https://open.spotify.com/album/0SotphxcEmilY521KiP1o9"
+      },
+      "artists": [
+        {
+          "name": "Rytmus",
+          "url": "https://open.spotify.com/artist/1gRr6moof50L1b7XsbClvI"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Za mojej \u00e9ry",
+      "url": "https://open.spotify.com/track/1c8zjkNnLKqLfqOUwNZHrn"
     },
     {
       "album": {

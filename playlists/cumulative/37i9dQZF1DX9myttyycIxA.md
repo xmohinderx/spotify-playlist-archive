@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: Jockstrap
 
-611 songs - 1 day 10 hr 50 min - [published](https://open.spotify.com/playlist/4XA1SOQIX98lp2gcRgRzUr)
+612 songs - 1 day 10 hr 55 min - [published](https://open.spotify.com/playlist/4XA1SOQIX98lp2gcRgRzUr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -496,7 +496,8 @@
 | [Space Between the Bed and the Wall](https://open.spotify.com/track/0Wpls5CapHMgXgv6Xvrn0P) | [Hannah Cole](https://open.spotify.com/artist/3XRj6XMmub9546oUagEqHY) | [Cradle](https://open.spotify.com/album/4YzM91c3bPY56P14PuyI7j) | 3:19 | 2022-07-22 |  |
 | [Space Cowboy](https://open.spotify.com/track/3039eQZmZy2PVsHyyOf78m) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Space Cowboy](https://open.spotify.com/album/7mVUxn3M8ExqlRZOWRiLVq) | 4:06 | 2022-07-29 |  |
 | [Spaceman](https://open.spotify.com/track/7y1jOe5Nzc8BhgURPn80hw) | [Laura Elliott](https://open.spotify.com/artist/0YJEuTCD642Yp34CoiH0ox) | [Spaceman](https://open.spotify.com/album/5EUfUkG0Q6l8mNpM5cCZP9) | 3:02 | 2022-01-28 | 2022-04-10 |
-| [Spiderweb](https://open.spotify.com/track/4MV86lthrqvU7Q8jj7NaP5) | [Built To Spill](https://open.spotify.com/artist/3kbBWco9PZ5eSQsNScwG6U) | [Spiderweb](https://open.spotify.com/album/75M4fU4uBzjJ3AqecMZmo9) | 5:23 | 2022-07-29 |  |
+| [Spiderweb](https://open.spotify.com/track/4MV86lthrqvU7Q8jj7NaP5) | [Built To Spill](https://open.spotify.com/artist/3kbBWco9PZ5eSQsNScwG6U) | [Spiderweb](https://open.spotify.com/album/75M4fU4uBzjJ3AqecMZmo9) | 5:23 | 2022-07-29 | 2022-09-18 |
+| [Spiderweb](https://open.spotify.com/track/4jUA8bO0BppkejDTUVidVR) | [Built To Spill](https://open.spotify.com/artist/3kbBWco9PZ5eSQsNScwG6U) | [When The Wind Forgets Your Name](https://open.spotify.com/album/4mI5F5FT88NKoCaW9CdaIN) | 5:23 | 2022-07-29 |  |
 | [Spin](https://open.spotify.com/track/18Werbtn3J54qXLZO2dKyo) | [Triathalon](https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3) | [Running](https://open.spotify.com/album/2HyRggDYNOCkvoB3bOlkCY) | 3:32 | 2022-05-19 | 2022-08-22 |
 | [Spin](https://open.spotify.com/track/31MLGEYrKwoTmMoH50JDEw) | [Triathalon](https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3) | [Spin](https://open.spotify.com/album/6GejDhVjHKAmQnPkyW6csf) | 3:32 | 2022-05-19 |  |
 | [Spin](https://open.spotify.com/track/4dkszdiuRSiCj34twbJfT8) | [Triathalon](https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3) | [Spin](https://open.spotify.com/album/1fj0ZE8UczqCmDhmBmS1kX) | 3:32 | 2022-04-29 | 2022-07-29 |

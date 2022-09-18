@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZCBBm.md) - [plain]
 
 > This is The Used\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,721 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,732 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZCBBm.md) - [plain]
 | 3 | [Pretty Handsome Awkward](https://open.spotify.com/track/77BfOPXhlnNaSbg647qkx2) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Lies for the Liars](https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox) | 3:35 |
 | 4 | [All That I've Got](https://open.spotify.com/track/6IxQ0PdozaZKch1m8tGCwb) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [In Love and Death](https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2) | 3:50 |
 | 5 | [Buried Myself Alive](https://open.spotify.com/track/746bHsY27aWTMYpoxqECOm) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [The Used](https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv) | 4:02 |
-| 6 | [toxic energy \(with Bert McCracken of The Used\)](https://open.spotify.com/track/4DKSPhmxEn5gp9uPAMosVQ) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [toxic energy](https://open.spotify.com/album/1m2hH5sMp7nZjmpQAYXhQI) | 3:11 |
+| 6 | [toxic energy \(with Bert McCracken of The Used\)](https://open.spotify.com/track/01tEAvdPLPREA9JT9Wpb26) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [in loving memory](https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau) | 3:11 |
 | 7 | [The Bird and the Worm](https://open.spotify.com/track/6tKky3l379dnGe7F85ztrJ) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Lies for the Liars](https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox) | 3:45 |
 | 8 | [I Caught Fire](https://open.spotify.com/track/6z2Fx4b0hjqLdsJQOrNxbM) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [In Love and Death](https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2) | 3:25 |
 | 9 | [Blue and Yellow](https://open.spotify.com/track/32GWSQbpg1Ea1MMvl8HN23) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [The Used](https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZCBBm.md) - [plain]
 | 49 | [Cathedral Bell](https://open.spotify.com/track/55P8hiMTFfvmTXWlB16seg) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Heartwork](https://open.spotify.com/album/7nuTopxM42gzBYG7iPbAGp) | 3:04 |
 | 50 | [Make Believe](https://open.spotify.com/track/7xoPwaMWYFsuL4NsmVpB7i) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Imaginary Enemy](https://open.spotify.com/album/2UMvo9uU74jGUArNX7C7qT) | 3:27 |
 
-Snapshot ID: `Mjc3MjIyMzMsMDAwMDAwMDAzNmU2ZTQ5ZWNlNTRhMzA0NWIxZGU2YTljOTNhYWFhYQ==`
+Snapshot ID: `Mjc3MjM2OTIsMDAwMDAwMDAwYzFlZTI0ZGQzODU0ZGI0Y2I5MmEyNDMxYzQ4OTY3OQ==`

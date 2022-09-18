@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJXCbmtHVHV.md) - [plain]
 
 > Top country hits you know and love! Cover: Little Big Town
 
-[Spotify](https://open.spotify.com/user/spotify) - 472,061 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 472,146 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJXCbmtHVHV.md) - [plain]
 | 91 | [Good Beer](https://open.spotify.com/track/55M9eKCXJFCpid6WBVyEct) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG), [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Good Beer](https://open.spotify.com/album/3PuVtau24hELLklY6dcd3q) | 2:54 |
 | 92 | [You Didn’t](https://open.spotify.com/track/5Jwcv2Le3Klwgrgyqa12ZA) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Weekends Look A Little Different These Days](https://open.spotify.com/album/2JJ2v7A5nR6HaYxyO2T0PX) | 3:45 |
 | 93 | [Gold](https://open.spotify.com/track/4iy69rTUn8cAY8Q8q9vfOw) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Gold](https://open.spotify.com/album/2NLp3E2m7Z9JnoLR6eOJYI) | 2:47 |
-| 94 | [Baby I Am](https://open.spotify.com/track/6OSa9hgEvituO2SaaYBiwD) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [Baby I Am](https://open.spotify.com/album/44lDYWVwQ1yo5r066GtpSo) | 2:56 |
-| 95 | [Everyone She Knows](https://open.spotify.com/track/0OURixtwzJF8pON5JpMHKv) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Here And Now](https://open.spotify.com/album/0t7ccDIa3CbqzFrL9rOpaw) | 3:24 |
-| 96 | [To Be Loved By You](https://open.spotify.com/track/5Ykc3Wr4L4wef5QDdaaxM7) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [To Be Loved By You](https://open.spotify.com/album/6Vtd35xUUyiFApy5kFdqVu) | 3:18 |
-| 97 | [If You Have To](https://open.spotify.com/track/5aWxPjDd4ZfpsmDoeR1plq) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [If You Have To](https://open.spotify.com/album/31jtMX7GvPB6gtQBCGA6xL) | 3:19 |
-| 98 | [Can't Do Without Me](https://open.spotify.com/track/6Wy1WU6nkioVn681Rom3SP) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt), [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [Can't Do Without Me](https://open.spotify.com/album/7rMux0Or1QJ7PW6AAm25D4) | 3:21 |
-| 99 | [Learn From It](https://open.spotify.com/track/2CqfyB7PQznYxHNSmmF6lE) | [Conner Smith](https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk) | [Learn From It](https://open.spotify.com/album/7vFiXBUWlapCxGcKni9vh0) | 2:59 |
-| 100 | [Never Wanted To Be That Girl](https://open.spotify.com/track/3TuMOIzXkhKFDNHyQ7Mo8J) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Never Wanted To Be That Girl](https://open.spotify.com/album/3dmVohUADaRH81z0AETGev) | 3:34 |
+| 94 | [Everyone She Knows](https://open.spotify.com/track/0OURixtwzJF8pON5JpMHKv) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Here And Now](https://open.spotify.com/album/0t7ccDIa3CbqzFrL9rOpaw) | 3:24 |
+| 95 | [To Be Loved By You](https://open.spotify.com/track/5Ykc3Wr4L4wef5QDdaaxM7) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [To Be Loved By You](https://open.spotify.com/album/6Vtd35xUUyiFApy5kFdqVu) | 3:18 |
+| 96 | [If You Have To](https://open.spotify.com/track/5aWxPjDd4ZfpsmDoeR1plq) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [If You Have To](https://open.spotify.com/album/31jtMX7GvPB6gtQBCGA6xL) | 3:19 |
+| 97 | [Can't Do Without Me](https://open.spotify.com/track/6Wy1WU6nkioVn681Rom3SP) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt), [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [Can't Do Without Me](https://open.spotify.com/album/7rMux0Or1QJ7PW6AAm25D4) | 3:21 |
+| 98 | [Learn From It](https://open.spotify.com/track/2CqfyB7PQznYxHNSmmF6lE) | [Conner Smith](https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk) | [Learn From It](https://open.spotify.com/album/7vFiXBUWlapCxGcKni9vh0) | 2:59 |
+| 99 | [Never Wanted To Be That Girl](https://open.spotify.com/track/3TuMOIzXkhKFDNHyQ7Mo8J) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Never Wanted To Be That Girl](https://open.spotify.com/album/3dmVohUADaRH81z0AETGev) | 3:34 |
+| 100 | [Country'd Look Good On You](https://open.spotify.com/track/6d7k8PoVEnBgwBsPvKsubp) | [Frank Ray](https://open.spotify.com/artist/0LsBi7JKqWFCiFi0FsTbXF) | [Country'd Look Good On You](https://open.spotify.com/album/1GfpqxHYA7uOiIw3jA0jVO) | 3:22 |
 
-Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMDI3MDRmNDVjYWQ3NTg3NDNmNjk1MGE5OTc5M2E4ODVk`
+Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMDAwZDAyOGVlOWQwZDNmOTU5MWU3ZWNjZjMwY2Y1NTU0`

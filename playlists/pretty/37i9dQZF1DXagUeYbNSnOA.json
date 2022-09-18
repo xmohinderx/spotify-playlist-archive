@@ -1,12 +1,12 @@
 {
   "description": "Fresh releases from Latin independent artists and labels. Lanzamientos frescos de artistas y sellos latinxs independientes. La Valenti on cover.",
-  "num_followers": 166726,
+  "num_followers": 166736,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzM2NDI0NCwwMDAwMDAwMDYyOTA3NjViNTRmYjI5ZjFjNGExNmIxY2M5YTUwMjFl",
+  "snapshot_id": "MTY2MzM2NDI0NCwwMDAwMDAwMDM4OGM1ZDk1MDk3NTQ2ODcyNzNhNDcxYjViM2ZmNmZk",
   "tracks": [
     {
       "added_at": "2022-09-16 21:37:23",
@@ -371,6 +371,22 @@
     {
       "added_at": "2022-09-16 21:37:23",
       "album": {
+        "name": "Amanecer",
+        "url": "https://open.spotify.com/album/5XX0iRSDLzElMVY2EcDThW"
+      },
+      "artists": [
+        {
+          "name": "Los Americanos",
+          "url": "https://open.spotify.com/artist/4Q0wQsRzWYhbAXIKQN6LSw"
+        }
+      ],
+      "duration_ms": 245187,
+      "name": "Amanecer",
+      "url": "https://open.spotify.com/track/5TQwSAq0BAU9DWpKmHmI9F"
+    },
+    {
+      "added_at": "2022-09-16 21:37:23",
+      "album": {
         "name": "Fumar en el Cine",
         "url": "https://open.spotify.com/album/3U1fAnbdelWZ3dKxCISPvr"
       },
@@ -391,18 +407,18 @@
     {
       "added_at": "2022-09-16 21:37:23",
       "album": {
-        "name": "Amanecer",
-        "url": "https://open.spotify.com/album/5XX0iRSDLzElMVY2EcDThW"
+        "name": "Yung Pradito",
+        "url": "https://open.spotify.com/album/2JQRLKGv6KJ9FKVT9GzbG6"
       },
       "artists": [
         {
-          "name": "Los Americanos",
-          "url": "https://open.spotify.com/artist/4Q0wQsRzWYhbAXIKQN6LSw"
+          "name": "YUNG PRADO",
+          "url": "https://open.spotify.com/artist/0U0zpa0tZ4iAV6ypdDUm4I"
         }
       ],
-      "duration_ms": 245187,
-      "name": "Amanecer",
-      "url": "https://open.spotify.com/track/5TQwSAq0BAU9DWpKmHmI9F"
+      "duration_ms": 238000,
+      "name": "Quiero Volver a Repetir",
+      "url": "https://open.spotify.com/track/5Ts3L0IOOkzuIfVIzp3xfo"
     },
     {
       "added_at": "2022-09-16 21:37:23",
@@ -443,22 +459,6 @@
       "duration_ms": 195918,
       "name": "Ac\u00e9rcate",
       "url": "https://open.spotify.com/track/6zqYCjCpm6rmRc3s9v8Yf1"
-    },
-    {
-      "added_at": "2022-09-16 21:37:23",
-      "album": {
-        "name": "Yung Pradito",
-        "url": "https://open.spotify.com/album/2JQRLKGv6KJ9FKVT9GzbG6"
-      },
-      "artists": [
-        {
-          "name": "YUNG PRADO",
-          "url": "https://open.spotify.com/artist/0U0zpa0tZ4iAV6ypdDUm4I"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Quiero Volver a Repetir",
-      "url": "https://open.spotify.com/track/5Ts3L0IOOkzuIfVIzp3xfo"
     },
     {
       "added_at": "2022-09-16 21:37:23",
@@ -675,22 +675,6 @@
     {
       "added_at": "2022-09-16 21:37:23",
       "album": {
-        "name": "No Me da Sue\u00f1o",
-        "url": "https://open.spotify.com/album/3SnYlBmch7TYVQnstjj9kJ"
-      },
-      "artists": [
-        {
-          "name": "JWolfy",
-          "url": "https://open.spotify.com/artist/5rp4jlQq85cE30TVO7uYVm"
-        }
-      ],
-      "duration_ms": 217674,
-      "name": "Boo",
-      "url": "https://open.spotify.com/track/4THT4PeY7mKdgBUBBWHffc"
-    },
-    {
-      "added_at": "2022-09-16 21:37:23",
-      "album": {
         "name": "Tobog\u00e1n Amarillo",
         "url": "https://open.spotify.com/album/3i43C2uh0Z6y85UQUU8K26"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 271173,
       "name": "Tobog\u00e1n Amarillo",
       "url": "https://open.spotify.com/track/2rpN7T4X1UV0OBydtgIYzF"
+    },
+    {
+      "added_at": "2022-09-16 21:37:23",
+      "album": {
+        "name": "No Me da Sue\u00f1o",
+        "url": "https://open.spotify.com/album/3SnYlBmch7TYVQnstjj9kJ"
+      },
+      "artists": [
+        {
+          "name": "JWolfy",
+          "url": "https://open.spotify.com/artist/5rp4jlQq85cE30TVO7uYVm"
+        }
+      ],
+      "duration_ms": 217674,
+      "name": "Boo",
+      "url": "https://open.spotify.com/track/4THT4PeY7mKdgBUBBWHffc"
     },
     {
       "added_at": "2022-09-16 21:37:23",

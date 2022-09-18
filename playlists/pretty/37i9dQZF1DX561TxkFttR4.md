@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX561TxkFttR4.md) - [plain]
 
 > Soothing, soft piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 314,698 likes - 80 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 314,785 likes - 80 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,15 +78,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX561TxkFttR4.md) - [plain]
 | 68 | [your sonnet](https://open.spotify.com/track/6JUN0WSBlhvi5tIDyY4ccA) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [Still Life](https://open.spotify.com/album/2ps87Twd3Ol4npWF0gQBGn) | 4:22 |
 | 69 | [Untouched Rainforest, Pt.3](https://open.spotify.com/track/5OjGCUApXFcYcDRkU0o9xJ) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Untouched Rainforest, Pt.3](https://open.spotify.com/album/0sTABMBrR7RI5Q4hpjrJ5k) | 3:13 |
 | 70 | [145 \- Revisited](https://open.spotify.com/track/5B26HpT55bm8jJ3WGQKzR8) | [Patrik Berg Almkvisth](https://open.spotify.com/artist/0K5Ns1UkBlmyx8clOiEUbo), [LUCHS](https://open.spotify.com/artist/5YNgVaI5vgMjBLel7QShBe) | [145](https://open.spotify.com/album/265d3u8QBUwjLqrk2ByhYg) | 2:21 |
-| 71 | [Any](https://open.spotify.com/track/6z4775Liq6qK4ClYvv4P19) | [Hiroco.M](https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of) | [Any](https://open.spotify.com/album/3nnQsU3BHC8dzW3SgsRBVC) | 3:32 |
-| 72 | [Sand and Stars](https://open.spotify.com/track/53KeW0mvxr57ha4crsCTmT) | [Charlie J Perry](https://open.spotify.com/artist/1VWajIIypSGHx88czR0Ji2) | [Sand and Stars](https://open.spotify.com/album/6gdHgdmbmulzODzpyQIgdJ) | 4:29 |
+| 71 | [Sand and Stars](https://open.spotify.com/track/53KeW0mvxr57ha4crsCTmT) | [Charlie J Perry](https://open.spotify.com/artist/1VWajIIypSGHx88czR0Ji2) | [Sand and Stars](https://open.spotify.com/album/6gdHgdmbmulzODzpyQIgdJ) | 4:29 |
+| 72 | [Any](https://open.spotify.com/track/6z4775Liq6qK4ClYvv4P19) | [Hiroco.M](https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of) | [Any](https://open.spotify.com/album/3nnQsU3BHC8dzW3SgsRBVC) | 3:32 |
 | 73 | [9\-Feb\-2022 "All For E"](https://open.spotify.com/track/5eojzOHGSzUuOK4jbKo59e) | [Sebastian Morawietz](https://open.spotify.com/artist/2jaLRoXNNJXcNiUMROSRIT) | [9\-Feb\-2022 "All For E"](https://open.spotify.com/album/6bVLgvKVMlouhbBNMSOjFj) | 4:04 |
 | 74 | [The Void \- I Play Mine version](https://open.spotify.com/track/1zrU4OmjYslhwqjw3jRZBj) | [Andrea Carri](https://open.spotify.com/artist/4XcmEbEiUwaKL9rB870I4U) | [The Void \(I Play Mine version\)](https://open.spotify.com/album/7LCQ4cTCG4CZNKYNFr7Orc) | 2:39 |
 | 75 | [We Met in the Garden](https://open.spotify.com/track/5Bc0A9T2k6BrTgRAHA9TZC) | [Treman](https://open.spotify.com/artist/7MnTSJ0nl9IdMRSq3vLdGP) | [We Met in the Garden](https://open.spotify.com/album/1K2zSDs7KESm5tTDSYTU7l) | 2:23 |
 | 76 | [night walk](https://open.spotify.com/track/1oq5u7bxL6yVbHH47HL8L9) | [Vontmer](https://open.spotify.com/artist/14ztiaafrJJeTVbwdzekgI) | [night walk](https://open.spotify.com/album/1WqmYrix98Qy3k6N4IWbDK) | 3:14 |
 | 77 | [Wings](https://open.spotify.com/track/1UiBkcCHLoioISNiqOiicl) | [Nel Swerts](https://open.spotify.com/artist/42GuEp1sWhtiIqHrHOlhOh) | [Wings](https://open.spotify.com/album/5fxEQcmbytUu42PWyCjQiz) | 2:31 |
-| 78 | [Some Other Place](https://open.spotify.com/track/4ljlSkzCR3RMwxv8Xx7m27) | [Meredi](https://open.spotify.com/artist/3JIwUwScCrI3OUwj50CT1H) | [Some Other Place](https://open.spotify.com/album/5ju2VqLgzwjJo4N2Oygp0E) | 4:13 |
-| 79 | [First Steps](https://open.spotify.com/track/78VCEkQtYNDml6W5xXgw81) | [Niklas Blumenthaler](https://open.spotify.com/artist/14PMDJ6ZGkzsHqS51zw6cG), [Jonas Gewald](https://open.spotify.com/artist/53k1kqkyCUpbJMK93MBxxc) | [First Steps](https://open.spotify.com/album/7FPTqt19aPN3Wly3go9342) | 2:23 |
-| 80 | [Summer Flowers](https://open.spotify.com/track/70GMSvwtcM7dg2lYNGDy2I) | [Polly Carter](https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp) | [Summer Flowers](https://open.spotify.com/album/3ATS4x1NX1DWfc5NTCz7Eh) | 2:24 |
+| 78 | [Stay Longer](https://open.spotify.com/track/4G6goSnfAiLNF59fc4Z6bU) | [Hiroco.M](https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of) | [Stay Longer](https://open.spotify.com/album/3xVzYw1poJVwmGG1dUcrRe) | 2:10 |
+| 79 | [Some Other Place](https://open.spotify.com/track/4ljlSkzCR3RMwxv8Xx7m27) | [Meredi](https://open.spotify.com/artist/3JIwUwScCrI3OUwj50CT1H) | [Some Other Place](https://open.spotify.com/album/5ju2VqLgzwjJo4N2Oygp0E) | 4:13 |
+| 80 | [First Steps](https://open.spotify.com/track/78VCEkQtYNDml6W5xXgw81) | [Niklas Blumenthaler](https://open.spotify.com/artist/14PMDJ6ZGkzsHqS51zw6cG), [Jonas Gewald](https://open.spotify.com/artist/53k1kqkyCUpbJMK93MBxxc) | [First Steps](https://open.spotify.com/album/7FPTqt19aPN3Wly3go9342) | 2:23 |
 
-Snapshot ID: `MTY1OTQ1NTE4MywwMDAwMDAwMGU0YWFjZmIyNTk2NTRjOGFlM2E1MWM4YTdiZDE5MmZh`
+Snapshot ID: `MTY1OTQ1NTE4MywwMDAwMDAwMDFlY2E0ZjliMWExYWU5NzYxYWRiMmE2MWRiYjlhZDJl`

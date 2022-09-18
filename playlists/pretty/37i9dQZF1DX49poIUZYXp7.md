@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49poIUZYXp7.md) - [plain]
 
 > The extraordinary women making great country music today\. Cover: Ashley Cooke
 
-[Spotify](https://open.spotify.com/user/spotify) - 423,300 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 423,422 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,9 +76,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49poIUZYXp7.md) - [plain]
 | 66 | [Circles Around This Town](https://open.spotify.com/track/13G5xv1wUKvJYbK0wYmioN) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Circles Around This Town](https://open.spotify.com/album/2MeNs8IOs7udC2CuiFKmlZ) | 3:15 |
 | 67 | [Wasting All These Tears](https://open.spotify.com/track/25zXRQGuwYZdIp88fVZOPC) | [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG) | [Frame By Frame](https://open.spotify.com/album/7IoVJIpP7XtjMJkgYxJkrn) | 3:35 |
 | 68 | [Miss Me More](https://open.spotify.com/track/5NfJGBAL9mgFPRQxKJmiX2) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Unapologetically \(Deluxe Edition\)](https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA) | 3:12 |
-| 69 | [Should Have Known Better](https://open.spotify.com/track/0zpaxKLpHw3zCmiYcvn9OV) | [Jessie James Decker](https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz) | [Should Have Known Better](https://open.spotify.com/album/1rx8rmLDRuBdpDxf6Jfd3c) | 2:26 |
+| 69 | [Villain](https://open.spotify.com/track/0Fu3jq4NeOLatOXiLWVLO3) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [Stronger Than I Am](https://open.spotify.com/album/1nBPIUJHyWiD0bvhQ8lGIg) | 2:56 |
 | 70 | [Tell Your Mom](https://open.spotify.com/track/4z6ejAW2WioIBVVAFCl0eK) | [Georgia Webster](https://open.spotify.com/artist/0SBVbPO2gePQlaDiIfaKDl) | [First Goodbye](https://open.spotify.com/album/1TGvUDIdFBHxTIuVwO4s4p) | 3:01 |
-| 71 | [Villain](https://open.spotify.com/track/0Fu3jq4NeOLatOXiLWVLO3) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [Stronger Than I Am](https://open.spotify.com/album/1nBPIUJHyWiD0bvhQ8lGIg) | 2:56 |
+| 71 | [Should Have Known Better](https://open.spotify.com/track/0zpaxKLpHw3zCmiYcvn9OV) | [Jessie James Decker](https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz) | [Should Have Known Better](https://open.spotify.com/album/1rx8rmLDRuBdpDxf6Jfd3c) | 2:26 |
 | 72 | [Strawberry Wine](https://open.spotify.com/track/3ODF56f90W3qxDqxHAUi3v) | [Deana Carter](https://open.spotify.com/artist/0aqrM7Fo3Ml66Kc5JAzmjt) | [The Deana Carter Collection](https://open.spotify.com/album/5WqK9zGqUlTw7IPY2k1Yqd) | 4:50 |
 | 73 | [hole in the bottle \(with Shania Twain\)](https://open.spotify.com/track/2bV4NwncWMnVvcWyU2yxwB) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [hole in the bottle \(with Shania Twain\)](https://open.spotify.com/album/16by1M7adOE6AeoyLzQZVc) | 2:36 |
 | 74 | [Lady Like](https://open.spotify.com/track/7c3Y6INQrmNXDAOquinyw4) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like](https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl) | 3:14 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49poIUZYXp7.md) - [plain]
 | 95 | [Buy My Own Drinks](https://open.spotify.com/track/3WBY2lhKzkxaG5bNscQrOG) | [Runaway June](https://open.spotify.com/artist/7yPbJOX7olhT3ynAyuj3Zl) | [Blue Roses](https://open.spotify.com/album/0BUbVHeDmGXl3lzOENF9Wc) | 3:26 |
 | 96 | [Footprints On The Moon](https://open.spotify.com/track/66mmgHMVELzJ95xzfeFL2r) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Goldmine](https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY) | 3:10 |
 | 97 | [These Days](https://open.spotify.com/track/1EEhU59CbUAW8TaLpxqNNZ) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Drinkin' Songs: The Collection](https://open.spotify.com/album/1NrOk9xRbIjuo17XiPOIuq) | 2:52 |
-| 98 | [Love Triangle](https://open.spotify.com/track/3YM0vEH7taFj7OLW3dWfiu) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [WildHorse](https://open.spotify.com/album/12TcV1G3QfZ48XweN8kyp4) | 3:45 |
-| 99 | [I Don't Go Back](https://open.spotify.com/track/55Y4hbXnw8DZDGxwVFr6Xp) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [I Don't Go Back](https://open.spotify.com/album/0Rh8EYAlpUkvonGJoBMudV) | 3:20 |
+| 98 | [I Don't Go Back](https://open.spotify.com/track/55Y4hbXnw8DZDGxwVFr6Xp) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [I Don't Go Back](https://open.spotify.com/album/0Rh8EYAlpUkvonGJoBMudV) | 3:20 |
+| 99 | [Love Triangle](https://open.spotify.com/track/3YM0vEH7taFj7OLW3dWfiu) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [WildHorse](https://open.spotify.com/album/12TcV1G3QfZ48XweN8kyp4) | 3:45 |
 | 100 | [I Can't \(feat\. Old Dominion\)](https://open.spotify.com/track/2YoOaGlM2zGpYBanN3AxrV) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R), [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Supernova \(Deluxe\)](https://open.spotify.com/album/7EVVjcblXEwmzOUFSIdExn) | 3:30 |
 
-Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMGE5Y2I0NGMwYmZkOWY2YWVmY2UyYTZhNTNjYTVjNzAy`
+Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMGVhOTBjNDk5MDgwYmEwNDUxNDY1YjliMDY2OTVmZjg4`

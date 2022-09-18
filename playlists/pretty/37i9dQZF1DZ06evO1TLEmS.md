@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1TLEmS.md) - [plain]
 
 > This is Madison Cunningham\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 352 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 361 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1TLEmS.md) - [plain]
 | 4 | [Passengers](https://open.spotify.com/track/58GSV5f6YqrgpWOpAku2Ic) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Age of Apathy](https://open.spotify.com/album/69fyrHncvxDoWtZDuqKAKC) | 3:32 |
 | 5 | [Life According To Raechel](https://open.spotify.com/track/0L6aCvJcfTEAx0INqVxjBH) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Life According To Raechel](https://open.spotify.com/album/72oba0tTHatmqgkzdHCosS) | 4:33 |
 | 6 | [The Age Of Worry](https://open.spotify.com/track/7ltM6d3uA0lUBCPfJTyc1N) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [The Age Of Worry](https://open.spotify.com/album/2sK9FA8u60GpTqusHp8GqN) | 2:47 |
-| 7 | [In From Japan](https://open.spotify.com/track/0LxU43GrDXaH5EMZdNJDtm) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [In From Japan](https://open.spotify.com/album/22svVKvi5msG9GcGcQOPcT) | 4:22 |
-| 8 | [Hospital](https://open.spotify.com/track/7yELjeC1XSdso8N8EBrVib) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Hospital](https://open.spotify.com/album/1ENe8pdOhj33eDRWNv6Nd2) | 3:33 |
+| 7 | [Hospital](https://open.spotify.com/track/7yELjeC1XSdso8N8EBrVib) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Hospital](https://open.spotify.com/album/1ENe8pdOhj33eDRWNv6Nd2) | 3:33 |
+| 8 | [In From Japan](https://open.spotify.com/track/0LxU43GrDXaH5EMZdNJDtm) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [In From Japan](https://open.spotify.com/album/22svVKvi5msG9GcGcQOPcT) | 4:22 |
 | 9 | [Who Are You Now](https://open.spotify.com/track/5kxVd8hCvJWaXw8Rp5xtGh) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Revealer](https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D) | 3:17 |
 | 10 | [Pin It Down](https://open.spotify.com/track/4G0cKJupBY79cAoYDihZwI) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Who Are You Now](https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy) | 4:06 |
 | 11 | [Broken Harvest](https://open.spotify.com/track/4RgMyZb1frf45zF2BSjMD4) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Broken Harvest](https://open.spotify.com/album/3cw9LHQyTxAjwGbkJDewme) | 4:47 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1TLEmS.md) - [plain]
 | 45 | [Remember, Remember](https://open.spotify.com/track/2X0imj3VOfDGWXOwaYlChu) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Love, Lose, Remember](https://open.spotify.com/album/33cGQwuhKjfvlGziUdKMWL) | 4:50 |
 | 46 | [All At Once](https://open.spotify.com/track/59x97Muk1DvBUhyX8xcxJo) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [For The Sake Of The Rhyme](https://open.spotify.com/album/4BaN7uc9vzyOberlO92BRR) | 4:23 |
 | 47 | [Coming Back](https://open.spotify.com/track/2B6uTBqOlMpfaa5icFCs6x) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Coming Back](https://open.spotify.com/album/5wsEdLwlrgniybkBkYZqBN) | 2:23 |
-| 48 | [Louisiana 1927 \(feat\. Madison Cunningham\)](https://open.spotify.com/track/08v0Un342hJHIgtsLcBbER) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Live To Tape: Volume II](https://open.spotify.com/album/6WocdLjm1E7hXslJgK1mMU) | 3:15 |
-| 49 | [Forever Young](https://open.spotify.com/track/5SEIUFwcfzz23XOsV9Zkq4) | [Scary Pockets](https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Ups & Downs](https://open.spotify.com/album/3NRo2C87t72OqUzt1DnRBD) | 3:22 |
+| 48 | [Forever Young](https://open.spotify.com/track/5SEIUFwcfzz23XOsV9Zkq4) | [Scary Pockets](https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Ups & Downs](https://open.spotify.com/album/3NRo2C87t72OqUzt1DnRBD) | 3:22 |
+| 49 | [Louisiana 1927 \(feat\. Madison Cunningham\)](https://open.spotify.com/track/08v0Un342hJHIgtsLcBbER) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Live To Tape: Volume II](https://open.spotify.com/album/6WocdLjm1E7hXslJgK1mMU) | 3:15 |
 | 50 | [Location](https://open.spotify.com/track/4Eegpewr60UiKR7w8wfGMH) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [For The Sake Of The Rhyme](https://open.spotify.com/album/4BaN7uc9vzyOberlO92BRR) | 3:23 |
 
-Snapshot ID: `Mjc3MjIyMzMsMDAwMDAwMDBiZTQyZDIyMjQ3NmRkOWJlMzEzN2EwYTczZDAwZGY5Yg==`
+Snapshot ID: `Mjc3MjM2OTIsMDAwMDAwMDBlZmE4N2U3N2Q0ZGU2YTY4ODBkNTJhMjY3YzAzNDQ3ZA==`

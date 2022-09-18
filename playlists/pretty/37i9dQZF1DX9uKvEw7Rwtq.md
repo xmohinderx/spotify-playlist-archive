@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKvEw7Rwtq.md) - [plain]
 
 > Soaring soundscapes from the most epic Post\-Rock artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,502 likes - 55 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,587 likes - 55 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKvEw7Rwtq.md) - [plain]
 | 29 | [i meet myself, again](https://open.spotify.com/track/5OBR6IOU4nsn35cK6HThVr) | [my head is empty](https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy) | [nothing is real, part XI](https://open.spotify.com/album/09Z8BtKPBmpHhKoLzwCWvD) | 3:07 |
 | 30 | [Shadows Fall](https://open.spotify.com/track/6lhhVRjJJk2He59jAtOSsm) | [Random Forest](https://open.spotify.com/artist/2FIKDET7MkO9hQgSyIW9ia) | [Random Forest](https://open.spotify.com/album/39oRoqDYxtboq77pFK9G0T) | 5:27 |
 | 31 | [Fire at Static Valley](https://open.spotify.com/track/0r4MOhVw2anZScz5PTUrJk) | [Godspeed You! Black Emperor](https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK) | [G\_d's Pee AT STATE'S END!](https://open.spotify.com/album/6gZsJeN8MdITXZMVDXrMk0) | 5:58 |
-| 32 | [White Stork](https://open.spotify.com/track/2fC4TDzOjxfz8PDgCrDExM) | [Bossk](https://open.spotify.com/artist/6KPlPSPeF5BndJ7P888uSh) | [Migration](https://open.spotify.com/album/2jkfppW61KLmzyFEYLym63) | 5:55 |
-| 33 | [Above the Fog \(Pt.2\)](https://open.spotify.com/track/4cjRiT6COzETZ3mWQXydnr) | [The Best Pessimist](https://open.spotify.com/artist/6W4aup6f745SyZe2vShUnZ) | [Love Is...](https://open.spotify.com/album/5RQJ2Gk1ep33nVpWZCNivn) | 8:46 |
+| 32 | [Above the Fog \(Pt.2\)](https://open.spotify.com/track/4cjRiT6COzETZ3mWQXydnr) | [The Best Pessimist](https://open.spotify.com/artist/6W4aup6f745SyZe2vShUnZ) | [Love Is...](https://open.spotify.com/album/5RQJ2Gk1ep33nVpWZCNivn) | 8:46 |
+| 33 | [White Stork](https://open.spotify.com/track/2fC4TDzOjxfz8PDgCrDExM) | [Bossk](https://open.spotify.com/artist/6KPlPSPeF5BndJ7P888uSh) | [Migration](https://open.spotify.com/album/2jkfppW61KLmzyFEYLym63) | 5:55 |
 | 34 | [What the Heart Craves For](https://open.spotify.com/track/0HRANjLImYOvlfNF9wG2cy) | [Collapse Under The Empire](https://open.spotify.com/artist/34OB6veglJfOx8CzSsu0XY) | [Sacrifice & Isolation](https://open.spotify.com/album/42WlUy8Gv94fgPhtlnSPka) | 5:11 |
 | 35 | [It's Dark, It's Cold, It's Winter](https://open.spotify.com/track/0hZSni3035ItjVGyfYGiQX) | [sleepmakeswaves](https://open.spotify.com/artist/0EnDtiDrCgklr97QMJOSPv) | [sleepmakeswaves](https://open.spotify.com/album/4n51rWv1OwFWlYmrFNQFVp) | 4:50 |
 | 36 | [Rooftop](https://open.spotify.com/track/63AXbG0B9D4g0ZHzfu4jLn) | [This Will Destroy You](https://open.spotify.com/artist/0MG4LXIw7n4x0wjDc6WYXk) | [Vespertine](https://open.spotify.com/album/5oImgyFgLAwsfkWKu5EWE5) | 5:50 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKvEw7Rwtq.md) - [plain]
 | 54 | [I Dreamt Our Whole City Burned](https://open.spotify.com/track/5F1VGx7gOrhdhet8rTehZ6) | [McLarnan](https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt) | [I Dreamt Our Whole City Burned](https://open.spotify.com/album/2pI6eAuMCPZAT8czjR02RN) | 4:44 |
 | 55 | [Drifting](https://open.spotify.com/track/2ttXU3cfx8unAngSRQ60CK) | [Ambient Endeavors](https://open.spotify.com/artist/6K2iIaKWCotVvzrL8ryV2W), [We Dream of Eden](https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf) | [Drifting](https://open.spotify.com/album/1bGo7G5JOcy9jE8S4uNo0H) | 2:53 |
 
-Snapshot ID: `MTY1MzY1MDEzMywwMDAwMDAwMGQ5MjRhZmM4MjQ1ZGI0ZDJlNTVjYzQ5MjVmZTczOTcw`
+Snapshot ID: `MTY1MzY1MDEzMywwMDAwMDAwMDczYzBkYTE1OTQxNGU2MjVjNWM5OWNmNjk2NTVkYmFm`

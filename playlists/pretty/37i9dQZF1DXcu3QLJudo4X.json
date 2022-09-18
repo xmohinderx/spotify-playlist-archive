@@ -1,12 +1,12 @@
 {
   "description": "Classic songs from the Blues songbook. Cover: Muddy Waters.",
-  "num_followers": 30464,
+  "num_followers": 30540,
   "original_name": "Blues Standards",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzAwMDc1MCwwMDAwMDAwMDIyMDUwZGFiOTljNTM0OGMyMTlkYjIyMWI4OGY5OTdj",
+  "snapshot_id": "MTY2MzAwMDc1MCwwMDAwMDAwMDFiZDNmYjRjOTc4YWViYjc3NGQ4MWY2NzkzZGEzNGRl",
   "tracks": [
     {
       "added_at": "2022-09-12 16:39:10",
@@ -667,8 +667,8 @@
     {
       "added_at": "2022-09-12 16:39:10",
       "album": {
-        "name": "Singin' The Blues",
-        "url": "https://open.spotify.com/album/0w6Gt4SUI5AduJvcXetxun"
+        "name": "Let The Good Times Roll: The Music Of Louis Jordan",
+        "url": "https://open.spotify.com/album/4ikYbM2TWojqVQzmBeQ31u"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
         }
       ],
-      "duration_ms": 169706,
-      "name": "Everyday I Have The Blues",
-      "url": "https://open.spotify.com/track/6MrLjEmXy9IAPAX1mAKySE"
+      "duration_ms": 274840,
+      "name": "Nobody Knows You When You're Down And Out",
+      "url": "https://open.spotify.com/track/2eUyfVpeq45J3kQmAI78YZ"
     },
     {
       "added_at": "2022-09-12 16:39:10",
@@ -831,8 +831,8 @@
     {
       "added_at": "2022-09-12 16:39:10",
       "album": {
-        "name": "Let The Good Times Roll: The Music Of Louis Jordan",
-        "url": "https://open.spotify.com/album/4ikYbM2TWojqVQzmBeQ31u"
+        "name": "Singin' The Blues",
+        "url": "https://open.spotify.com/album/0w6Gt4SUI5AduJvcXetxun"
       },
       "artists": [
         {
@@ -840,9 +840,9 @@
           "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
         }
       ],
-      "duration_ms": 274840,
-      "name": "Nobody Knows You When You're Down And Out",
-      "url": "https://open.spotify.com/track/2eUyfVpeq45J3kQmAI78YZ"
+      "duration_ms": 169706,
+      "name": "Everyday I Have The Blues",
+      "url": "https://open.spotify.com/track/6MrLjEmXy9IAPAX1mAKySE"
     }
   ],
   "unique_name": "Blues Standards",

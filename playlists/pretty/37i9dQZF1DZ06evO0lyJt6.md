@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lyJt6.md) - [plain]
 
 > This is Banda Los Sebastianes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,189 likes - 51 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,201 likes - 51 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lyJt6.md) - [plain]
 | 32 | [Imagina](https://open.spotify.com/track/54ozAIJWhGeuu0ZnBEuqjU) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Sin Miedo Al Éxito](https://open.spotify.com/album/0TYhOqTiVs6VLG5ujVPB6i) | 2:38 |
 | 33 | [Gracias Por Tratarla Mal](https://open.spotify.com/track/5ZGOi8cq6umEF5OvIzUpHl) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [A Través Del Vaso](https://open.spotify.com/album/5fb92VTFSonh6s4IDFqILN) | 3:21 |
 | 34 | [La Persona Perfecta](https://open.spotify.com/track/278nH9m4i4Zp4hgRv7dYuh) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [No Me Mires Así](https://open.spotify.com/album/2oqPeUsVbCzvRO2ygEMB3a) | 3:08 |
-| 35 | [Lo Haces Ver Tan Fácil](https://open.spotify.com/track/1VIEewgA5FctEZtWyCg1Sl) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Lo Haces Ver Tan Fácil](https://open.spotify.com/album/3MFCVinGiviBRF5HeGVFv4) | 2:57 |
-| 36 | [El Cuento Perfecto](https://open.spotify.com/track/1IT3kGP8FGkq74Co4B6Qm0) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Luces, Cámara Y Acción](https://open.spotify.com/album/3YOMUtPC7qeIhBkL3ixyhY) | 3:12 |
+| 35 | [El Cuento Perfecto](https://open.spotify.com/track/1IT3kGP8FGkq74Co4B6Qm0) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Luces, Cámara Y Acción](https://open.spotify.com/album/3YOMUtPC7qeIhBkL3ixyhY) | 3:12 |
+| 36 | [Lo Haces Ver Tan Fácil](https://open.spotify.com/track/1VIEewgA5FctEZtWyCg1Sl) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Lo Haces Ver Tan Fácil](https://open.spotify.com/album/3MFCVinGiviBRF5HeGVFv4) | 2:57 |
 | 37 | [Olvidarte No Es Lo Mío](https://open.spotify.com/track/7eHM7vCmPlBYjcjHnWgFy4) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [La Vida En Un Trago](https://open.spotify.com/album/1IwqcUtijh5yosaYFYIlox) | 3:02 |
 | 38 | [Psicólogo Privado](https://open.spotify.com/track/0mGNQ1AEqzeGARUkbUeGAK) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Psicólogo Privado](https://open.spotify.com/album/1QPGkBHOuIaU2xKAODMBN9) | 3:18 |
 | 39 | [La Idea](https://open.spotify.com/track/0m8zn0rPVukkX2tQWEHoWz) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [A Lo Grande](https://open.spotify.com/album/6hoLNlNN1dOq5Fl6dmOQ57) | 2:56 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lyJt6.md) - [plain]
 | 50 | [El Columpio](https://open.spotify.com/track/6W4HG5QGnDy4NYbveYjtKt) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6), [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [El Columpio](https://open.spotify.com/album/2pLsmL7AGtNvyw839IYVfc) | 3:08 |
 | 51 | [No Debería Quererte](https://open.spotify.com/track/7DljH7oWQcvxAC57SdYBQd) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [A Través Del Vaso](https://open.spotify.com/album/5fb92VTFSonh6s4IDFqILN) | 3:02 |
 
-Snapshot ID: `Mjc3MjIyMzMsMDAwMDAwMDAwMzE3NDY4YzI2YWI3MWExYzI2NTdlM2UyMjczODdmZA==`
+Snapshot ID: `Mjc3MjM2OTIsMDAwMDAwMDBkYzU1MjkwZTI0ZWY1OGM1ZjQ5MzlmM2UyNDc3ZmRkNw==`

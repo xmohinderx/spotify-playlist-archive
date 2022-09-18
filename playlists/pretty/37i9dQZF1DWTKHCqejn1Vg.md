@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 
 > 사랑이 더욱 뜨겁게 섞일 때.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,102 likes - 60 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,172 likes - 60 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,10 +56,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 | 46 | [waves](https://open.spotify.com/track/1vcRXGJjkqFouLvE2brOBe) | [Risso](https://open.spotify.com/artist/7zXv0fZJFxrDkYxAtWxoGM) | [waves](https://open.spotify.com/album/6NHa67iNrY5iq0LYiFDEGu) | 2:41 |
 | 47 | [DADDY](https://open.spotify.com/track/2638VL0O0p4sB7BcQoxC2f) | [BLOO](https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1) | [MOON AND BACK](https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX) | 2:21 |
 | 48 | [You and I](https://open.spotify.com/track/1ajvACz9W0uiWr6gIEI4n1) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Oasis](https://open.spotify.com/album/70lpefg9cR9CQjbFfzNx8g) | 2:40 |
-| 49 | [I want to \(Feat\. meenoi\)](https://open.spotify.com/track/4rkYKiXRJWCCam1gbxMyqO) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [TAKE](https://open.spotify.com/album/7Eeb9AQcOZ3iM4B0HFoos6) | 3:33 |
-| 50 | [Too Many](https://open.spotify.com/track/7pgxBn7bwuMXjVL0R8agyQ) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [H.A.L.F \(Have.A.Little.Fun\)](https://open.spotify.com/album/48u7IqYux9zf5sUWVb6qcm) | 3:07 |
-| 51 | [Fire](https://open.spotify.com/track/3ZqO9gU0aFrkawmoT3nc9i) | [OWLER](https://open.spotify.com/artist/0xiNRwIQfriE5jZN3LDaLr) | [Fire](https://open.spotify.com/album/3NAD08mjlDk0vW0CHHDzyL) | 2:21 |
-| 52 | [Te Quiero\(feat.BIBI\)](https://open.spotify.com/track/1CxgsJPNnz5X3j92ky5mie) | [twlv](https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [K.I.S.S](https://open.spotify.com/album/3NWSMArT2uajdVjViCnWe1) | 3:14 |
+| 49 | [Te Quiero\(feat.BIBI\)](https://open.spotify.com/track/1CxgsJPNnz5X3j92ky5mie) | [twlv](https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [K.I.S.S](https://open.spotify.com/album/3NWSMArT2uajdVjViCnWe1) | 3:14 |
+| 50 | [I want to \(Feat\. meenoi\)](https://open.spotify.com/track/4rkYKiXRJWCCam1gbxMyqO) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [TAKE](https://open.spotify.com/album/7Eeb9AQcOZ3iM4B0HFoos6) | 3:33 |
+| 51 | [Too Many](https://open.spotify.com/track/7pgxBn7bwuMXjVL0R8agyQ) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [H.A.L.F \(Have.A.Little.Fun\)](https://open.spotify.com/album/48u7IqYux9zf5sUWVb6qcm) | 3:07 |
+| 52 | [Fire](https://open.spotify.com/track/3ZqO9gU0aFrkawmoT3nc9i) | [OWLER](https://open.spotify.com/artist/0xiNRwIQfriE5jZN3LDaLr) | [Fire](https://open.spotify.com/album/3NAD08mjlDk0vW0CHHDzyL) | 2:21 |
 | 53 | [kiss my lips](https://open.spotify.com/track/38hndqHRm6jQEwUMHlUWjl) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [kiss my lips](https://open.spotify.com/album/27tRNKb20UIkshCBrdIPr3) | 3:15 |
 | 54 | [Murder On The Dance Floor](https://open.spotify.com/track/6nuAMaTLREca7BWlXlm52s) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [I'M LOVIN' AMY](https://open.spotify.com/album/1N3ZneaWp9SVREC9JSgsia) | 3:22 |
 | 55 | [Remained scent](https://open.spotify.com/track/7CLEVioXRrdbAhK82emGEf) | [BB](https://open.spotify.com/artist/4AsWfslaatLcNfRiK0RXX6) | [Remained scent](https://open.spotify.com/album/5638w5Ob2sZRfvGT1JkmKu) | 3:06 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 | 59 | [Sunrise \(Feat\. EunBii\)](https://open.spotify.com/track/0RLqnVxt7xUw9squmxCqkN) | [Wildberry](https://open.spotify.com/artist/1YQcUhWjs1NGWi24wLDkgf), [EunBii](https://open.spotify.com/artist/1kNV67V0x2A12uccRtB3xE) | [SUNRISE](https://open.spotify.com/album/1x7iDbE1nFvqPgTgFSz3Ov) | 3:18 |
 | 60 | [Dawn Call](https://open.spotify.com/track/1e9JncQXdjM4DtFpyZrlU7) | [BB](https://open.spotify.com/artist/4AsWfslaatLcNfRiK0RXX6) | [Dawn Call](https://open.spotify.com/album/49P8OaQVu9YVHQcUoLLmoX) | 3:13 |
 
-Snapshot ID: `MTY2MjM5MzE1NywwMDAwMDAwMGJkNWJjNWM3MTYxZTBmOWY2NjcwNWI4ZGRjOTdhNjA3`
+Snapshot ID: `MTY2MjM5MzE1NywwMDAwMDAwMDQyNWJmMmMwNmVlNTljZGYzMzgzMDNlODJmODg3MDFj`

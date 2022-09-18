@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO49hLQA.md) - [plain]
 
 > This is AC/DC\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,835,277 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,836,074 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO49hLQA.md) - [plain]
 | 35 | [Sin City](https://open.spotify.com/track/3UQQ7g6J8fiMB7oldQzBoq) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Powerage](https://open.spotify.com/album/4iMaHsHqTg3rwOtRa5wEbm) | 4:45 |
 | 36 | [Live Wire](https://open.spotify.com/track/6FWoYwZa13llS7nj0SG65F) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [High Voltage](https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq) | 5:48 |
 | 37 | [Realize](https://open.spotify.com/track/4JDjZ2AzlHnde5uUy0TveV) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [POWER UP](https://open.spotify.com/album/3bTNxJYk2bwdWBMtrjBxb0) | 3:37 |
-| 38 | [Hell Ain't a Bad Place to Be](https://open.spotify.com/track/79KUOd1p6yNjh2Jkr9IQHk) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Let There Be Rock](https://open.spotify.com/album/3JwFNl80WWeXPiKEjIFbqa) | 4:14 |
-| 39 | [Heatseeker](https://open.spotify.com/track/0h3A3hdDq762DzIOKUoF21) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Blow Up Your Video](https://open.spotify.com/album/5jfgUmvXCar7Qf5lidVkqI) | 3:50 |
+| 38 | [Heatseeker](https://open.spotify.com/track/0h3A3hdDq762DzIOKUoF21) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Blow Up Your Video](https://open.spotify.com/album/5jfgUmvXCar7Qf5lidVkqI) | 3:50 |
+| 39 | [Hell Ain't a Bad Place to Be](https://open.spotify.com/track/79KUOd1p6yNjh2Jkr9IQHk) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Let There Be Rock](https://open.spotify.com/album/3JwFNl80WWeXPiKEjIFbqa) | 4:14 |
 | 40 | [The Jack](https://open.spotify.com/track/3k1WwLG1OXCm6iQ13VrJEL) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [High Voltage](https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq) | 5:52 |
 | 41 | [Kick You When You're Down](https://open.spotify.com/track/0Kq6RzOqkHxnfiA9OGqReU) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [POWER UP](https://open.spotify.com/album/3bTNxJYk2bwdWBMtrjBxb0) | 3:10 |
 | 42 | [Ride On](https://open.spotify.com/track/594ONMYoHlJnqHPEx98t08) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Dirty Deeds Done Dirt Cheap](https://open.spotify.com/album/76mvVgXOde87B9aOzLXCOI) | 5:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO49hLQA.md) - [plain]
 | 49 | [Problem Child](https://open.spotify.com/track/5wTuWXWREngkFGtBXhOaI9) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Let There Be Rock](https://open.spotify.com/album/3JwFNl80WWeXPiKEjIFbqa) | 5:24 |
 | 50 | [Gone Shootin'](https://open.spotify.com/track/69MwNXryg6NT1lV7buN7U7) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Powerage](https://open.spotify.com/album/4iMaHsHqTg3rwOtRa5wEbm) | 5:05 |
 
-Snapshot ID: `Mjc3MjIyMzMsMDAwMDAwMDBjM2JhY2Y5ZjdmZTNmNjgwOGY2ZmU1ZjI5MGNhZmMwZg==`
+Snapshot ID: `Mjc3MjM2OTIsMDAwMDAwMDBmZTlmMzI0NGM2MGI4NDMwMGJkODFmMWQyNWJhN2Y1NA==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 
 > This is Burna Boy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,710 likes - 43 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,938 likes - 43 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 | 42 | [Question \(feat\. Don Jazzy\)](https://open.spotify.com/track/163l4xzEe3JAfPbv0kYNQo) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Don Jazzy](https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a) | [Question \(feat\. Don Jazzy\)](https://open.spotify.com/album/0QOalrk1Kbdbt6p38FgBdA) | 2:48 |
 | 43 | [Rollin' \(feat\. Burna Boy\)](https://open.spotify.com/track/5UZRiz52aaoW64Sp88qVQc) | [MIST](https://open.spotify.com/artist/63X1WKthLQidtqxxO2sgeq), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Rollin' \(feat\. Burna Boy\)](https://open.spotify.com/album/2bgY8geITSqxDXCANBdrg9) | 2:39 |
 
-Snapshot ID: `Mjc3MjIyMzMsMDAwMDAwMDAzY2VlNTRjMzEwZjA3Yjc0Mzc2Mzk0OGExNThhY2VmYQ==`
+Snapshot ID: `Mjc3MjM2OTIsMDAwMDAwMDBmYjI1MzlhZGM1YTA3Y2RjMzRmZTkyYzFlM2MxMTEyMQ==`

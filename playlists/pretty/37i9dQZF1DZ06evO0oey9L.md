@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0oey9L.md) - [plain]
 
 > This is El de La Guitarra\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,449 likes - 47 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,472 likes - 47 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,11 +28,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0oey9L.md) - [plain]
 | 18 | [Que Me Va Mal](https://open.spotify.com/track/0fvu7lFdHrY4JTENYgSeoK) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda \(Vol.3\)](https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM) | 3:05 |
 | 19 | [El Dios Del Trueno](https://open.spotify.com/track/1SCdueIbk9GhV2PVMVKY32) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda Vol.1](https://open.spotify.com/album/61sqe6L00SzLzj1yz30Mr5) | 3:48 |
 | 20 | [Peter King Kong](https://open.spotify.com/track/3gv9PZLhs2c87MEcy6zOfu) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Instinto](https://open.spotify.com/album/47wc9jfJLLeaWQUPzKVFk1) | 2:43 |
-| 21 | [WAX](https://open.spotify.com/track/7utzGYXtCeiFOMTAWzU6BJ) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Con Los Pies En La Tierra Y La Mirada En El Cielo](https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T) | 3:17 |
+| 21 | [Zumbando Por Cali](https://open.spotify.com/track/0lVa6LbJNXui0L4zzxu8n6) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Con Los Pies En La Tierra Y La Mirada En El Cielo](https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T) | 3:13 |
 | 22 | [Loco Malandro](https://open.spotify.com/track/0idKybdhXgh5O94UhJCufA) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa), [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Loco Malandro](https://open.spotify.com/album/5hnWuPTXV0JeAVWjqkdgZQ) | 2:41 |
 | 23 | [El Oso](https://open.spotify.com/track/3XkmnmWXsNw790uaFBexqb) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [El Oso](https://open.spotify.com/album/3uh2JvWLCJ9qEbrYdhyNhf) | 4:47 |
 | 24 | [Se Oyen Recio Los Disparos](https://open.spotify.com/track/6qqICh8gOle9spzdSru35F) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Va Por Todos](https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA) | 3:06 |
-| 25 | [Zumbando Por Cali](https://open.spotify.com/track/0lVa6LbJNXui0L4zzxu8n6) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Con Los Pies En La Tierra Y La Mirada En El Cielo](https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T) | 3:13 |
+| 25 | [WAX](https://open.spotify.com/track/7utzGYXtCeiFOMTAWzU6BJ) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Con Los Pies En La Tierra Y La Mirada En El Cielo](https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T) | 3:17 |
 | 26 | [Gustos VIP](https://open.spotify.com/track/7iRrVxEVK37m34vGEE8LfJ) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda \(Vol.3\)](https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM) | 3:45 |
 | 27 | [Al Niño Le Gusta Lo Bueno](https://open.spotify.com/track/1c6ilYnCPdP1BiFN6qi0Dy) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Instinto](https://open.spotify.com/album/47wc9jfJLLeaWQUPzKVFk1) | 2:54 |
 | 28 | [Sueños y Metas](https://open.spotify.com/track/2IAz40IUjp8A2OdtOo9DUO) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk), [Rubén Miranda Y Los De La J](https://open.spotify.com/artist/4A6lttDRrPRN2lb5SvyI9t) | [Sueños y Metas](https://open.spotify.com/album/5xznQhaDmG3QocS1i5KfUE) | 2:45 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0oey9L.md) - [plain]
 | 46 | [Con Un Puño De Cannabis](https://open.spotify.com/track/38StyWZFxOVmZyciFwExOi) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda Vol.2](https://open.spotify.com/album/4lPJVD5JmytPu0jnJAU7PS) | 2:48 |
 | 47 | [Galil Rameado](https://open.spotify.com/track/7mTQYSdS2N4Fb9T2ieH7dl) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Galil Rameado](https://open.spotify.com/album/1QLEQpE84nhDO17QuAmyzT) | 3:16 |
 
-Snapshot ID: `Mjc3MjIyMzMsMDAwMDAwMDBlZjZlZTlmMmQyZGJmZDMwM2NhMTI3Zjc4NmM1YzM0Mg==`
+Snapshot ID: `Mjc3MjM2OTMsMDAwMDAwMDBhODdlNjNiMzNlM2JkNzlkYzg2ZWE1OWMwMmRkNTkyOA==`

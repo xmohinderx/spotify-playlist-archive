@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。cover: 秩父英里
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,946 likes - 50 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,967 likes - 50 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,10 +39,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 29 | [Moonlight Syndrome](https://open.spotify.com/track/7EkfLobuyqgITbfn3BFmXh) | [ADAM at](https://open.spotify.com/artist/7D67zF9RCypjeEGvnZLKGo) | [トワイライトシンドローム](https://open.spotify.com/album/4b3k9LC24PNvgX9ExlAS8K) | 4:07 |
 | 30 | [It's just love](https://open.spotify.com/track/4yqpJakTlgryUCYpgkl8qv) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [MISIA SOUL JAZZ SESSION](https://open.spotify.com/album/0lAWJPnLw3LQYqPV86qKhd) | 5:50 |
 | 31 | [まるくなって](https://open.spotify.com/track/4Ygoj6ygvEYM5Msadc3Ko8) | [矢崎恵理](https://open.spotify.com/artist/5u29jSzmiMAB7bfz8kroxU) | [it](https://open.spotify.com/album/1Lm5y4PE7Ld6lMHtOPfRgN) | 4:10 |
-| 32 | [Confirmation](https://open.spotify.com/track/4hT1CgkQIlhmA1DIVYrLx8) | [MONKY](https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O), [re os \- REO MATSUMOTO](https://open.spotify.com/artist/4501R3d8kL9mW1JgkPvlUW) | [Confirmation](https://open.spotify.com/album/5k4X1OKVhx8GWWaxgdfPej) | 4:55 |
+| 32 | [City Creatures](https://open.spotify.com/track/0ubaJUyQahfdL3FK60FjyH) | [U\-zhaan](https://open.spotify.com/artist/0CDt5nfGQ8it4IerQwquMS), [BIGYUKI](https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq) | [City Creatures](https://open.spotify.com/album/3Ztt5dDDen4CC6ugiRR559) | 3:04 |
 | 33 | [Ishonsho Abe](https://open.spotify.com/track/7tPh9tj8JNZITMuEN8iDOK) | [Martha Kato](https://open.spotify.com/artist/3NvIawjJlIxAqZlfCyodcY) | [Ishonsho Abe](https://open.spotify.com/album/62Io1sWPF4COlD4jBApYk5) | 5:48 |
-| 34 | [Timeless Groove](https://open.spotify.com/track/6M0TjQ5VZGWrykqbrKFhFM) | [T\-GROOVE & GEORGE KANO EXPERIENCE](https://open.spotify.com/artist/1Afm2ZSmz3Vuof17bZeW25), [T\-Groove](https://open.spotify.com/artist/2Ky7DbgmIlA47OpDx5KzNt), [George Kano](https://open.spotify.com/artist/61JGbYJB0nxcUcdy0nex6U), [YUMA HARA](https://open.spotify.com/artist/5ysAjkLc0t3f6SmiE0Reyz), [THREE1989](https://open.spotify.com/artist/43pUK083tLA3lk3JQr5ATn) | [Lady Champagne](https://open.spotify.com/album/2idn5UHb0zcPRATU0Bi9ET) | 4:08 |
-| 35 | [City Creatures](https://open.spotify.com/track/0ubaJUyQahfdL3FK60FjyH) | [U\-zhaan](https://open.spotify.com/artist/0CDt5nfGQ8it4IerQwquMS), [BIGYUKI](https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq) | [City Creatures](https://open.spotify.com/album/3Ztt5dDDen4CC6ugiRR559) | 3:04 |
+| 34 | [Confirmation](https://open.spotify.com/track/4hT1CgkQIlhmA1DIVYrLx8) | [MONKY](https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O), [re os \- REO MATSUMOTO](https://open.spotify.com/artist/4501R3d8kL9mW1JgkPvlUW) | [Confirmation](https://open.spotify.com/album/5k4X1OKVhx8GWWaxgdfPej) | 4:55 |
+| 35 | [Timeless Groove](https://open.spotify.com/track/6M0TjQ5VZGWrykqbrKFhFM) | [T\-GROOVE & GEORGE KANO EXPERIENCE](https://open.spotify.com/artist/1Afm2ZSmz3Vuof17bZeW25), [T\-Groove](https://open.spotify.com/artist/2Ky7DbgmIlA47OpDx5KzNt), [George Kano](https://open.spotify.com/artist/61JGbYJB0nxcUcdy0nex6U), [YUMA HARA](https://open.spotify.com/artist/5ysAjkLc0t3f6SmiE0Reyz), [THREE1989](https://open.spotify.com/artist/43pUK083tLA3lk3JQr5ATn) | [Lady Champagne](https://open.spotify.com/album/2idn5UHb0zcPRATU0Bi9ET) | 4:08 |
 | 36 | [Orange Mug](https://open.spotify.com/track/5IpMtUqMWw8ff0Yeq38wqx) | [WONK](https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE) | [Orange Mug](https://open.spotify.com/album/7je7p75wCnvd8RnrgsZSVS) | 3:38 |
 | 37 | [MotherLake](https://open.spotify.com/track/4uRF6ePZegS9RLDRzTDaRp) | [JABBERLOOP](https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2) | [NEW](https://open.spotify.com/album/3LjmipAvJQoPzlHN22YpYB) | 4:53 |
 | 38 | [残酷な天使のテーゼ](https://open.spotify.com/track/2qsEXWB1PgF9cYFvryo7F2) | [Anime That Jazz](https://open.spotify.com/artist/0AmBT7fJDVHS4BshgbY8Aw) | [EVENING!](https://open.spotify.com/album/6Fx9cVaFK9sjeXjQbPoOrf) | 4:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 49 | [If Sea Could Sing](https://open.spotify.com/track/2NGtsSSgjvq2ZbFxDDnAUT) | [Okada Takuro](https://open.spotify.com/artist/4d4VL0LIBWkVXAq4YZ07wm) | [Betsu No Jikan](https://open.spotify.com/album/6osbGxXryMZUWTlysq7Tcu) | 5:45 |
 | 50 | [SAMURAI \- 2022 version](https://open.spotify.com/track/3lr6p7ELCMXMfxGJgh3FBu) | [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM) | [SAMURAI](https://open.spotify.com/album/5QbYqorcvgyLIGjKcsm02e) | 11:56 |
 
-Snapshot ID: `MTY2MzA4MTIwMCwwMDAwMDAwMGQ3ZTJkY2U3ZTJjNDQwMGY5MzI0OGI0YWYwMWU0YmJh`
+Snapshot ID: `MTY2MzA4MTIwMCwwMDAwMDAwMGEyNmRiZTFkNWQ0Mzg1NzAyOTFlNDVjNzE5YzYyN2Iz`

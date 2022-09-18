@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpYC8go5XtU.md) - [plain]
 
 > Ambient music backed by the atmospheric sounds and elements of nature.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,698 likes - 116 songs - 10 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,743 likes - 116 songs - 10 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

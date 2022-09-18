@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUPO0Sbx2CM.md) - [plain]
 
 > A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,198 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,309 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUPO0Sbx2CM.md) - [plain]
 | 45 | [perfection](https://open.spotify.com/track/5TyYCoAhxi9Tm8vIG4wUwJ) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Better View, Part I \- EP](https://open.spotify.com/album/3Aj9bidByX8DqwLddzbbQb) | 3:33 |
 | 46 | [Every Move I Make](https://open.spotify.com/track/4wz8iZ7GCIb8kNfJLkJnMT) | [Edgar Sandoval Jr](https://open.spotify.com/artist/1Q8pPoJYMxI69UkONXODr4) | [Every Move I Make](https://open.spotify.com/album/4JOXhhEQny4aRzWXRSd6ep) | 2:12 |
 | 47 | [Lifer](https://open.spotify.com/track/1fAfbJtiwvTh76blPg4hEA) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Lifer](https://open.spotify.com/album/3KVlZJCLMdeU43OwSU0Hac) | 3:21 |
-| 48 | [One More Day](https://open.spotify.com/track/6Iu1RH6TuDAnxXDsJ6UbxV) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [One More Day](https://open.spotify.com/album/7ozw8j9l3KhVi4wnP6wwar) | 3:14 |
-| 49 | [SLINGSHOT](https://open.spotify.com/track/1Rk9TO61bMjJFhDD46TOe0) | [GAWVI](https://open.spotify.com/artist/0oPd8f0W82Tgrazx2PYNab) | [PANORAMA](https://open.spotify.com/album/7wD8rF1uNrehwaVoPgQn33) | 3:00 |
+| 48 | [SLINGSHOT](https://open.spotify.com/track/1Rk9TO61bMjJFhDD46TOe0) | [GAWVI](https://open.spotify.com/artist/0oPd8f0W82Tgrazx2PYNab) | [PANORAMA](https://open.spotify.com/album/7wD8rF1uNrehwaVoPgQn33) | 3:00 |
+| 49 | [One More Day](https://open.spotify.com/track/6Iu1RH6TuDAnxXDsJ6UbxV) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [One More Day](https://open.spotify.com/album/7ozw8j9l3KhVi4wnP6wwar) | 3:14 |
 | 50 | [Never Have I Ever](https://open.spotify.com/track/2bNxE0corUIlCcOWrliULJ) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [All Of My Best Friends](https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO) | 3:05 |
 | 51 | [Amazing Grace \- HGHTS Remix](https://open.spotify.com/track/51fJSFDs5Lnu7n7HfFR4qk) | [Hyper Fenton](https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2), [Moflo Music](https://open.spotify.com/artist/6MPy3PayvN8uNYA8Wm3Z4a), [HGHTS](https://open.spotify.com/artist/3qYzGjGmatPjz0jKkULj9p) | [Remembering Me](https://open.spotify.com/album/4dziAM5y6HeViXiF5bAGbK) | 2:40 |
 | 52 | [Fight My Fight For Me](https://open.spotify.com/track/6hGSFl1H2bR0wANwxKG3mS) | [Citizen Way](https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4), [Trampolines](https://open.spotify.com/artist/6aldh6681sMUSZe2CETBh2) | [Fight My Fight For Me](https://open.spotify.com/album/42phU77ePK7NmZpxSNhHyB) | 2:41 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUPO0Sbx2CM.md) - [plain]
 | 61 | [Eyes On You \- Live](https://open.spotify.com/track/3iMPm6w3SL8ukWAmZJuPOo) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Eyes On You \(Live\)](https://open.spotify.com/album/1NlQ457ktuiW1t1Zp4c1R5) | 3:53 |
 | 62 | [BUENA ONDA](https://open.spotify.com/track/3HxiAQPqGjVSFLLtZSeHYW) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [MOMENTUM](https://open.spotify.com/album/4esF2tcUU0yctPIEoeW8VJ) | 2:40 |
 | 63 | [Bring The Whole Hood](https://open.spotify.com/track/0T1WTePlsi8e1wAMKkEMi6) | [Evvie McKinney](https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ) | [Bring The Whole Hood](https://open.spotify.com/album/7F7Hs9eculrXiUrfGB4Fax) | 3:20 |
-| 64 | [Stages](https://open.spotify.com/track/2TSTDPh5i5MySwgmdJgxD4) | [Joseph O'Brien](https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa) | [Stages](https://open.spotify.com/album/1QP1zErfad0lAsXvejJBb2) | 3:08 |
-| 65 | [Light It Up](https://open.spotify.com/track/0gR1qiHy2YNUe9xMSGl7bo) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Genesis of Terrian](https://open.spotify.com/album/2fGd7TWmDcPRW9Y45CKcx0) | 3:25 |
+| 64 | [Light It Up](https://open.spotify.com/track/0gR1qiHy2YNUe9xMSGl7bo) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Genesis of Terrian](https://open.spotify.com/album/2fGd7TWmDcPRW9Y45CKcx0) | 3:25 |
+| 65 | [Stages](https://open.spotify.com/track/2TSTDPh5i5MySwgmdJgxD4) | [Joseph O'Brien](https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa) | [Stages](https://open.spotify.com/album/1QP1zErfad0lAsXvejJBb2) | 3:08 |
 | 66 | [I Got You](https://open.spotify.com/track/6EPoaw4yFv3MvhaN8eygQB) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [How Far](https://open.spotify.com/album/3gLjb9742smlCKDF42g7yy) | 3:01 |
 | 67 | [Nobody](https://open.spotify.com/track/6v1Hgn7yTvz7vQkJiRBESz) | [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [Nobody](https://open.spotify.com/album/0WYEPMMXkI0XVuKs3c9iZX) | 3:07 |
 | 68 | [Save Me \- Bonus Track](https://open.spotify.com/track/2FyP26PfA97cgpKut7IH4V) | [Mat Kearney](https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1) | [January Flower \(Deluxe\)](https://open.spotify.com/album/61o3mZcWhcH9DbQjCHxCV4) | 3:23 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUPO0Sbx2CM.md) - [plain]
 | 74 | [Healing](https://open.spotify.com/track/4EKTLzgEPHij7hKpqjuZH5) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Healing](https://open.spotify.com/album/6ptypNaGR4S2XJOPvrXKtY) | 3:24 |
 | 75 | [HAPPY](https://open.spotify.com/track/3ujkAJ4EMZzgMgM1RXqpCJ) | [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [EXIT](https://open.spotify.com/album/23hocB8tXBHfvImk7SNPnv) | 2:04 |
 
-Snapshot ID: `MTYzNTY0MTI1MCwwMDAwMDAwMDhhODdkNDk2YWVmMmM4ZGVjYmVjNGU2ZjljOTA0MjA5`
+Snapshot ID: `MTYzNTY0MTI1MCwwMDAwMDAwMGRiN2U2OGZlMGZmZmZlZDgzYjYyOTgwNGJiZGUzZmFk`

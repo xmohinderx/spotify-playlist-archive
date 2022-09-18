@@ -2,9 +2,9 @@
 
 ### [Baby Hair](https://open.spotify.com/playlist/37i9dQZF1DX1CDfMq8oOPq)
 
-> só faixa rosa, tem disposição? 🎀 Foto: Ashira
+> só faixa rosa, tem disposição? 🎀 Foto: Mc Luanna
 
-80 songs - 4 hr 2 min - [published](https://open.spotify.com/playlist/3rwwZkx8eAvX3Q2DGPIL7D)
+81 songs - 4 hr 6 min - [published](https://open.spotify.com/playlist/3rwwZkx8eAvX3Q2DGPIL7D)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Mob](https://open.spotify.com/track/4Lj7Jipbh9Z4QqGJvcIpuN) | [Fenda](https://open.spotify.com/artist/2MOzAmZ3VnuQuUYD1slLSq), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Púrpura](https://open.spotify.com/album/0cdIIZgZt1izXSmjPL045h) | 3:39 | 2022-07-08 |  |
 | [Molinha](https://open.spotify.com/track/4l9eU058jn4MM9EEBA4hIo) | [BIA DOXUM](https://open.spotify.com/artist/0XcasoDbYz9h2IedxeXKaV) | [ÀTÚNWA](https://open.spotify.com/album/05F9ReKiKZ3SVxNpmQd0qL) | 4:14 | 2022-03-11 |  |
 | [Morango no Gin](https://open.spotify.com/track/64AaCofmb0AqrN7vWuXO5c) | [Barona](https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Morango no Gin](https://open.spotify.com/album/6nkJrMukU7V3XXfVKLujjA) | 2:29 | 2022-06-17 |  |
-| [Muito Calma](https://open.spotify.com/track/484fU778Jn6fDeULn8idei) | [Juju Rude](https://open.spotify.com/artist/3d8GIcSCusjD1PkMxt76e1) | [Muito Calma](https://open.spotify.com/album/4VJMzjxx8vs1mJTbpJazrN) | 3:02 | 2022-03-11 |  |
+| [Muito Calma](https://open.spotify.com/track/484fU778Jn6fDeULn8idei) | [Juju Rude](https://open.spotify.com/artist/3d8GIcSCusjD1PkMxt76e1) | [Muito Calma](https://open.spotify.com/album/4VJMzjxx8vs1mJTbpJazrN) | 3:02 | 2022-03-11 | 2022-09-18 |
 | [Muito Calma](https://open.spotify.com/track/5MLnrPYZDlH1MRRaD4rRXU) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [Gibin](https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM) | [A Preta](https://open.spotify.com/album/0c6NCCSnLJjgQTZlkzUmQS) | 2:25 | 2022-03-11 |  |
 | [N.I.N.A](https://open.spotify.com/track/0ZVW6vKav9Jp9AunMFmulJ) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW), [Kash](https://open.spotify.com/artist/4QQfMoY4iQmKwz7Ni1QVpt) | [PELE](https://open.spotify.com/album/57LANvZ85BtVlj31EAY7EK) | 3:44 | 2022-04-29 |  |
 | [Não Nega](https://open.spotify.com/track/4CO98RpRzRzK2V5sOFS01G) | [Black Queen](https://open.spotify.com/artist/12jMN5SeE8STo77it3FXWv), [Gu$t](https://open.spotify.com/artist/72JiWyKG5MY6JfrRliaD7p) | [Não Nega](https://open.spotify.com/album/5MAC86ryol0sVYG9YbGgCP) | 3:04 | 2022-08-26 |  |
@@ -70,6 +70,7 @@
 | [Pussy Gang](https://open.spotify.com/track/52npQUIsokCB0tVtLXpaA2) | [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr), [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz) | [Outro Lado](https://open.spotify.com/album/3sfi3GaNL0dJRDOgQSHbmr) | 2:43 | 2022-03-11 | 2022-03-26 |
 | [Refém](https://open.spotify.com/track/1SYjTbInhgWNGjUHpLjRwe) | [Anna Suav](https://open.spotify.com/artist/6qLRyBdF6aLwW8mOEYB9fX) | [Eva Grão](https://open.spotify.com/album/6rS7VkbmlppFB4c3Sq0M8F) | 3:26 | 2022-03-11 | 2022-04-16 |
 | [Ritmada e Pixadona](https://open.spotify.com/track/3ulPHMUKYGIkaAuKMeCQvY) | [Juju Rude](https://open.spotify.com/artist/3d8GIcSCusjD1PkMxt76e1), [L3OZIN](https://open.spotify.com/artist/3xbUtkAk7Bbhwosg3mI3ez) | [Ritmada e Pixadona](https://open.spotify.com/album/202zAHkreptTG0EXvqNNfb) | 3:25 | 2022-03-25 |  |
+| [Rotina](https://open.spotify.com/track/5lnUkWihFa5guFzLi8y8Hb) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Marcos Beatman](https://open.spotify.com/artist/42VxOCKKlEXQ1kgDZBXnfk) | [44](https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr) | 3:16 | 2022-09-17 |  |
 | [Se Envolver](https://open.spotify.com/track/5Mu7uE5PxXJsGLOpjMUjYJ) | [Black Queen](https://open.spotify.com/artist/12jMN5SeE8STo77it3FXWv), [VV Clã](https://open.spotify.com/artist/2ekFq5fQY5a5UX7mEu17s1), [Ene Jhow](https://open.spotify.com/artist/6cRMSFgsQR4EobqdJpBkmR) | [Black Queen Vol\. 1](https://open.spotify.com/album/5xcl6VWdjYK4OGaPNCFFP1) | 2:46 | 2022-03-11 |  |
 | [Segredo](https://open.spotify.com/track/1vQXkWFnyhotk8WhS7gRxA) | [Black Queen](https://open.spotify.com/artist/12jMN5SeE8STo77it3FXWv), [Amanda Sarmento](https://open.spotify.com/artist/2QFGLsI0ugeKkmGSggCr73) | [Segredo](https://open.spotify.com/album/1ASqKOHKRjm5j0qQlSCGz3) | 2:58 | 2022-05-27 | 2022-08-27 |
 | [Sem Tempo](https://open.spotify.com/track/4OjU6vAV8f9pSCUScsgYek) | [Mariah Nala](https://open.spotify.com/artist/3R6G1zji15XrM717bIMqEC) | [Sem Tempo](https://open.spotify.com/album/3YbO6IwKj63ABxzrqApH3g) | 2:30 | 2022-03-11 | 2022-05-28 |

@@ -4,7 +4,7 @@
 
 > Dance and electronic Arabic songs\. Cover: Wegz & Ash.
 
-71 songs - 4 hr 40 min - [published](https://open.spotify.com/playlist/54atOgU6aSg6YDGd7DJtW1)
+73 songs - 4 hr 48 min - [published](https://open.spotify.com/playlist/54atOgU6aSg6YDGd7DJtW1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Marrakech](https://open.spotify.com/track/479rGHKvQHAT18qCWR8Hvn) | [Hisham Kharma](https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl) | [Kun](https://open.spotify.com/album/3rw9RPwHJzrlvHstzytg6D) | 5:14 | 2022-03-30 | 2022-08-23 |
 | [Matwasouneesh](https://open.spotify.com/track/6s3phzT9lHW1viznchr3lu) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [Matwasouneesh](https://open.spotify.com/album/1kfpSqYp8c4zttZGgExC8z) | 4:42 | 2022-03-30 | 2022-08-23 |
 | [Mawjou3 Galbi](https://open.spotify.com/track/6TG4s4lyrLJ8OpaGbgfqGl) | [D33pSoul](https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL), [Najwa Farouk](https://open.spotify.com/artist/0nGyyjulhM4IB5kNqyKvGq) | [Mawjou3 Galbi](https://open.spotify.com/album/450bx2egvP32rGdLekadr0) | 3:18 | 2022-03-30 |  |
-| [Men Zayaha](https://open.spotify.com/track/2wgkVcguYxkqwOACFo5oPj) | [Mohammed Alsahli](https://open.spotify.com/artist/7c7hybwd6CtpDhi0Imsppx) | [Men Zayaha](https://open.spotify.com/album/6kmeeudD3M5dawDy5mzb78) | 3:28 | 2022-03-30 |  |
+| [Men Zayaha](https://open.spotify.com/track/2wgkVcguYxkqwOACFo5oPj) | [Mohammed Alsahli](https://open.spotify.com/artist/7c7hybwd6CtpDhi0Imsppx) | [Men Zayaha](https://open.spotify.com/album/6kmeeudD3M5dawDy5mzb78) | 3:28 | 2022-03-30 | 2022-09-18 |
 | [Mn Alby Baghany](https://open.spotify.com/track/4zViTBjVXkd5eaUsSjrhHv) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Mn Alby Baghani](https://open.spotify.com/album/7f4sCptaAR6iTh3ZnY1ZR7) | 4:50 | 2022-03-30 |  |
 | [Moulayiten](https://open.spotify.com/track/4rPNmktCst6tR92stbrrBR) | [Obeidmusic](https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks), [Ahmad Sleiman](https://open.spotify.com/artist/2apfH39lJSec2ItcHaIvzr) | [Moulayiten](https://open.spotify.com/album/38Y1doCUrlX33QLXMkBtCa) | 4:57 | 2022-08-22 |  |
 | [Mulajia \- Live Album](https://open.spotify.com/track/7pFNRS6v5DFPSgeVnkiVEu) | [Shkoon](https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv) | [FIRAQ](https://open.spotify.com/album/0P0KdpLLjNuUNcHKy1aWfV) | 6:23 | 2022-05-19 |  |
@@ -76,8 +76,10 @@
 | [Ya Rawa'anek](https://open.spotify.com/track/63z26Te7baeagaYRW3BvbY) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Sahran](https://open.spotify.com/album/08fHah0PYjQwfoqIis8y84) | 4:15 | 2022-03-30 | 2022-05-20 |
 | [Ya Rayt \- Shkoon Radio Edit](https://open.spotify.com/track/4dQkzZlY6SKoanDrWGv8WQ) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7), [Shkoon](https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv) | [Ya Rayt \(Shkoon Remix\)](https://open.spotify.com/album/5aBPfggkU1oEEA36MJ3yEg) | 3:32 | 2022-03-30 |  |
 | [Youm Talat \(Remix\)](https://open.spotify.com/track/6uv7lEEKwtg4VZOEUJKD4F) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Youm Talat \(Remix\)](https://open.spotify.com/album/6V8QwgQg0Xszo8zu2Do44K) | 3:38 | 2022-03-30 | 2022-05-20 |
-| [اوصف إيه](https://open.spotify.com/track/12l68oU7N5fVszEFBkC7LU) | [Mohammed Alsahli](https://open.spotify.com/artist/7c7hybwd6CtpDhi0Imsppx) | [اوصف إيه](https://open.spotify.com/album/1MCnD6k9S5iuQT5utEx6RZ) | 3:42 | 2022-03-30 |  |
+| [اوصف إيه](https://open.spotify.com/track/12l68oU7N5fVszEFBkC7LU) | [Mohammed Alsahli](https://open.spotify.com/artist/7c7hybwd6CtpDhi0Imsppx) | [اوصف إيه](https://open.spotify.com/album/1MCnD6k9S5iuQT5utEx6RZ) | 3:42 | 2022-03-30 | 2022-09-18 |
+| [اوصف إيه](https://open.spotify.com/track/5tBFzLIvD5aDF1lyE2v919) | [Mohammed Alsahli](https://open.spotify.com/artist/7c7hybwd6CtpDhi0Imsppx) | [اوصف إيه](https://open.spotify.com/album/7uHOKN0gXmqRq81a5pLRnM) | 3:42 | 2022-08-28 |  |
 | [قصة حب \(غربى\)](https://open.spotify.com/track/7MW8VcSqgrDExFBkmqj1ix) | [Ramy Ayach](https://open.spotify.com/artist/39AgPTHxIEp2QUozYYsnV1) | [قصة حب \(غربى\)](https://open.spotify.com/album/2nq9Jhje9ZEQaOR4z1lfs9) | 3:22 | 2022-03-30 |  |
 | [لاموني](https://open.spotify.com/track/5OsH0PcgKUUnqSP7KM0yCM) | [Talia](https://open.spotify.com/artist/5IiJk1YXeHtE31vo4XBhn8) | [لاموني](https://open.spotify.com/album/3oAQZJwsH6iVQhcTIxtalh) | 3:20 | 2022-03-30 |  |
+| [مين زيها](https://open.spotify.com/track/4Brwtx9VIv6UoXbSB57RO1) | [Mohammed Alsahli](https://open.spotify.com/artist/7c7hybwd6CtpDhi0Imsppx) | [مين زيها](https://open.spotify.com/album/3JYA7b4RwF1JnAXjcTpJzi) | 3:28 | 2022-08-28 |  |
 
 \*This playlist was first scraped on 2022-05-13. Prior content cannot be recovered.

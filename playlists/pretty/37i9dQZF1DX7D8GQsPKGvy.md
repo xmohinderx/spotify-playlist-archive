@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7D8GQsPKGvy.md) - [plain]
 
 > Remixed hits from the past.
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,705 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 463,418 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7D8GQsPKGvy.md) - [plain]
 | 19 | [Someone You Loved \- Future Humans Remix](https://open.spotify.com/track/1e8PAfcKUYoKkxPhrHqw4x) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB), [Future Humans](https://open.spotify.com/artist/4BXM7ghfjufutCDfJfXdIl) | [Someone You Loved \(Future Humans Remix\)](https://open.spotify.com/album/7m7vv9wlQ4i0LFuJiE2zsQ) | 3:09 |
 | 20 | [I Follow Rivers \- The Magician Remix](https://open.spotify.com/track/3zNNXjjjeLrzIXSJZKalDi) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in), [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [Wounded Rhymes \(Anniversary Edition\)](https://open.spotify.com/album/19ms2xSmphDqfhx2dp11Tl) | 4:39 |
 | 21 | [All of Me \- Tiësto's Birthday Treatment Remix \- Radio Edit](https://open.spotify.com/track/1mzGywacjpeik00PVLBPpF) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Jason Agel](https://open.spotify.com/artist/1fiatwjGipTH7cFxTeyKOP), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [All of Me \(Tiësto's Birthday Treatment Remix \- Radio Edit\)](https://open.spotify.com/album/4c2rSdHI9WUXn0zyXoWtbB) | 4:11 |
-| 22 | [Love Myself \- KREAM Remix](https://open.spotify.com/track/0Qydhjycb5IFm02W6zJ2Tn) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F), [Daniel Slettebakken](https://open.spotify.com/artist/4eoiPzNc0jrpNf3YAtYe1L), [Ian Spurrier](https://open.spotify.com/artist/7iwj95h4rLKDyJO8w1LHRM), [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [Love Myself \(Remixes\)](https://open.spotify.com/album/5l8kcjMNlOAjrkit7Uuc1x) | 3:41 |
+| 22 | [Love Myself \- KREAM Remix](https://open.spotify.com/track/0Qydhjycb5IFm02W6zJ2Tn) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F), [Ian Spurrier](https://open.spotify.com/artist/7iwj95h4rLKDyJO8w1LHRM) | [Love Myself \(Remixes\)](https://open.spotify.com/album/5l8kcjMNlOAjrkit7Uuc1x) | 3:41 |
 | 23 | [Sweet but Psycho \- Morgan Page Dance Remix](https://open.spotify.com/track/1gwwks3lIsvJq5pDJ82fKK) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F), [Morgan Page](https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b) | [Sweet but Psycho \(The Remixes\)](https://open.spotify.com/album/5wYR3in9srVuVeDajc7KeL) | 3:46 |
 | 24 | [Heaven \- David Guetta & MORTEN Remix](https://open.spotify.com/track/4QAUGy6k7c3IOAhgWz52r7) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [Heaven \(David Guetta & MORTEN Remix\)](https://open.spotify.com/album/37bCTD5iLWMpDcBanNkkXB) | 3:35 |
 | 25 | [Don't Call Me Up \- R3HAB Remix](https://open.spotify.com/track/0goj2jVaUvxQP2zsyt7Xol) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Don't Call Me Up \(Remixes\)](https://open.spotify.com/album/5CGGhWKMDZUIt1lnmFbozw) | 2:33 |

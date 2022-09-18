@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 > The R&B and good vibe tracks for your current mood\. Cover: Jessie Reyez
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,340 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,471 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 | 3 | [Wonder Woman](https://open.spotify.com/track/3BLWGYOcy1svvsBByeFxLh) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [LEGEND](https://open.spotify.com/album/0kRBs6M0VbrourQ6fYbCiJ) | 2:48 |
 | 4 | [The Way You Move](https://open.spotify.com/track/3Ki7n1kx9fzuflkW03iRuw) | [Ruth Garcia](https://open.spotify.com/artist/3VhvDHThiOy3cUZvAR1ZKq) | [The Way You Move](https://open.spotify.com/album/6dppoapvb182OdcmaTqaNc) | 3:33 |
 | 5 | [NVMD](https://open.spotify.com/track/7ArVzlFsFsQXNseVXmdOyk) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [NVMD](https://open.spotify.com/album/7loTzM9oCoxuoHXWs3crbd) | 3:01 |
-| 6 | [buzzcut](https://open.spotify.com/track/5uzelqnup22nD2CwxUQGIU) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [buzzcut](https://open.spotify.com/album/4FHh7OcRS13Whv41NW30ux) | 2:34 |
+| 6 | [buzz cut](https://open.spotify.com/track/5uzelqnup22nD2CwxUQGIU) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [buzz cut](https://open.spotify.com/album/4FHh7OcRS13Whv41NW30ux) | 2:34 |
 | 7 | [ore ore](https://open.spotify.com/track/2hPvWV02856ZW1LSWbOycO) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [imagine club](https://open.spotify.com/album/1Fhu3FJHqttNA1d6e7VXxC) | 3:31 |
 | 8 | [Would You Mind](https://open.spotify.com/track/5kbvcxWFMPNY1zPI3y0wHa) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Making Steak](https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6) | 3:22 |
 | 9 | [Nice & Slow \- Ryan James Carr Remake](https://open.spotify.com/track/31YudjfCQCpRYDeDMskWGh) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Ryan James Carr](https://open.spotify.com/artist/5V5f4rVZkRnl5O17X1vDM1) | [My Way \(25th Anniversary Edition\)](https://open.spotify.com/album/3ideAfrVvWpeZkKB9fOz81) | 3:12 |

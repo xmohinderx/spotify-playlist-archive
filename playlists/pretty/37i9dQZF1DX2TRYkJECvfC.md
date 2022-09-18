@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2TRYkJECvfC.md) - [plain]
 
 > Forget it and disappear with chill <a href="spotify:genre:edm\_dance">house</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,403,774 likes - 200 songs - 17 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,404,315 likes - 200 songs - 17 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -181,9 +181,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2TRYkJECvfC.md) - [plain]
 | 171 | [More Than You Thought](https://open.spotify.com/track/6qoGexJZGrmeeNxFpk9RJ6) | [LEGATO](https://open.spotify.com/artist/5jpu8iB4nbX9H3bkV8LYz2) | [More Than You Thought EP](https://open.spotify.com/album/45cqR8LQeUBz9kzkHp0aNt) | 8:34 |
 | 172 | [Bedside](https://open.spotify.com/track/5d9OZu7Px4mitpFamQiV7l) | [Honeydripper](https://open.spotify.com/artist/0NSnMsVaDmZlhgEb9jIGu7) | [Bedside](https://open.spotify.com/album/3c3gdH1fP9xnJKTYIff6U1) | 7:30 |
 | 173 | [Echoes](https://open.spotify.com/track/3oJ0ImxhIlU6lZ9JtCWYVd) | [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3) | [Echoes](https://open.spotify.com/album/0xr2nntVBXisNTLyan5wZt) | 6:03 |
-| 174 | [Just Us 2](https://open.spotify.com/track/77PphOhe88ESixnOdJBfby) | [Vivra Verra](https://open.spotify.com/artist/6pfji9v6mcjF8tFmzsDx9z) | [Just Us 2](https://open.spotify.com/album/2Vxp30fUJJKOKTdmaaKYzY) | 7:04 |
-| 175 | [You & I](https://open.spotify.com/track/18FRKIMe5W7f3ah7xsYmwH) | [Sondrio](https://open.spotify.com/artist/6KJC1M9nvTzV2R2VmB7Bo5) | [Night Music VI](https://open.spotify.com/album/3hgGqJOaHGylGOtSHMJ0Fz) | 6:22 |
-| 176 | [Yini \- Serge Devant Remix](https://open.spotify.com/track/6N9GDLobAFh4RpndxG5gcp) | [Fabio Aurea](https://open.spotify.com/artist/19yeJrAma98qEbDOmye8SQ), [Toshi](https://open.spotify.com/artist/2bIg95CGHmriFZX7MsnFRK), [Serge Devant](https://open.spotify.com/artist/41ZhnBiaqeoe6asIzVDvqP) | [Yini, the Remixes](https://open.spotify.com/album/4IbQbaFvHISYJonMdxwxAP) | 7:51 |
+| 174 | [Yini \- Serge Devant Remix](https://open.spotify.com/track/6N9GDLobAFh4RpndxG5gcp) | [Fabio Aurea](https://open.spotify.com/artist/19yeJrAma98qEbDOmye8SQ), [Toshi](https://open.spotify.com/artist/2bIg95CGHmriFZX7MsnFRK), [Serge Devant](https://open.spotify.com/artist/41ZhnBiaqeoe6asIzVDvqP) | [Yini, the Remixes](https://open.spotify.com/album/4IbQbaFvHISYJonMdxwxAP) | 7:51 |
+| 175 | [Just Us 2](https://open.spotify.com/track/77PphOhe88ESixnOdJBfby) | [Vivra Verra](https://open.spotify.com/artist/6pfji9v6mcjF8tFmzsDx9z) | [Just Us 2](https://open.spotify.com/album/2Vxp30fUJJKOKTdmaaKYzY) | 7:04 |
+| 176 | [You & I](https://open.spotify.com/track/18FRKIMe5W7f3ah7xsYmwH) | [Sondrio](https://open.spotify.com/artist/6KJC1M9nvTzV2R2VmB7Bo5) | [Night Music VI](https://open.spotify.com/album/3hgGqJOaHGylGOtSHMJ0Fz) | 6:22 |
 | 177 | [Okinawa](https://open.spotify.com/track/5f8jd7PHl0TNHycFqSAw47) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Sakura](https://open.spotify.com/album/79MJ41k1M7f7Znsa3OjnG6) | 2:44 |
 | 178 | [The Prey](https://open.spotify.com/track/6gJBwzJjQ6VUgyueihcQP7) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Under Darkening Skies](https://open.spotify.com/album/7fDsHkCbzW928mVa9irayU) | 4:11 |
 | 179 | [Savoy](https://open.spotify.com/track/715rpC66hIERTuMWlcBmBl) | [Gavinco](https://open.spotify.com/artist/7dUeQwfHuOEQGH5PbksGf6) | [Savoy](https://open.spotify.com/album/1R1viXeoCT5YC5py2e3OKb) | 5:23 |
@@ -191,8 +191,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2TRYkJECvfC.md) - [plain]
 | 181 | [Majika](https://open.spotify.com/track/61viWAXyKA61e0Gxv2j6Q6) | [Heliotype](https://open.spotify.com/artist/5N4dVbRP8Iu2sbKC8r8JeF) | [Majika](https://open.spotify.com/album/3MgAaIzurGwvNkOHh9ysyI) | 3:33 |
 | 182 | [Tapisl](https://open.spotify.com/track/6joasewIA9IiFRfPJPKu0A) | [boys be kko](https://open.spotify.com/artist/48I9QQhVxPjmcSOPeLVv5D) | [kkompilation vol.1](https://open.spotify.com/album/1YXXvBFYOm0MZSI86xpCYB) | 6:41 |
 | 183 | [Keramas](https://open.spotify.com/track/6QYthxincEvqQzGkfAOAiK) | [Moon Boots](https://open.spotify.com/artist/3cIXmCH7iNcslTbwrwS7zy) | [Keramas / Harpanet](https://open.spotify.com/album/3d6TLlQimQZIXeQyhMFQq4) | 3:44 |
-| 184 | [Memories](https://open.spotify.com/track/3wNi79QD5Jkz9yWFSGEeBl) | [LJ MASE](https://open.spotify.com/artist/3agWAq6ZjoWlv5Igeya98N), [Jodie Knight](https://open.spotify.com/artist/4D8bh9Rvbpq8sHjPWVies5) | [Memories](https://open.spotify.com/album/2eVjPnHAVEhHd4povh4dRg) | 5:06 |
-| 185 | [Mas](https://open.spotify.com/track/3i1zwjMO1fmW4uI9r7iiJW) | [Ten Walls](https://open.spotify.com/artist/4veIvBHKoUacjuoMOm3vsg) | [Mas](https://open.spotify.com/album/1dPZfWvc8Ojdpcz0naiIkH) | 7:46 |
+| 184 | [Mas](https://open.spotify.com/track/3i1zwjMO1fmW4uI9r7iiJW) | [Ten Walls](https://open.spotify.com/artist/4veIvBHKoUacjuoMOm3vsg) | [Mas](https://open.spotify.com/album/1dPZfWvc8Ojdpcz0naiIkH) | 7:46 |
+| 185 | [Memories](https://open.spotify.com/track/3wNi79QD5Jkz9yWFSGEeBl) | [LJ MASE](https://open.spotify.com/artist/3agWAq6ZjoWlv5Igeya98N), [Jodie Knight](https://open.spotify.com/artist/4D8bh9Rvbpq8sHjPWVies5) | [Memories](https://open.spotify.com/album/2eVjPnHAVEhHd4povh4dRg) | 5:06 |
 | 186 | [Canvey Island](https://open.spotify.com/track/5h9PBWm5EZmOORfkFGnMpv) | [Wayward](https://open.spotify.com/artist/6QzNZv95Ql8TJ7PsHvOvZS) | [Waiting For The World](https://open.spotify.com/album/0CLJNPrkoE2czy7go4sdZA) | 5:43 |
 | 187 | [I Thought I Would Feel Different But I Feel The Same](https://open.spotify.com/track/7qF9ZcGHkP9IQINswrY0NF) | [Harrison BDP](https://open.spotify.com/artist/4i3y3MC57rWYNAdYlE6HM3) | [I Thought I Would Feel Different But I Feel The Same](https://open.spotify.com/album/4mIi7gfPx1zEvaMHtJ2Hvs) | 7:51 |
 | 188 | [For A Moment](https://open.spotify.com/track/01J7GlzTYwAp0kHGwLrHiB) | [Jazz Do It](https://open.spotify.com/artist/7Azr4EUr6i6tgtqMvlOpsw) | [Anjunadeep 10 Sampler: Part 1](https://open.spotify.com/album/179gfN119swKR4JooXjYyt) | 5:56 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2TRYkJECvfC.md) - [plain]
 | 199 | [Dream Machine](https://open.spotify.com/track/4cAypK013iEiqKZG5YLrJ3) | [Nina Kraviz](https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE) | [Stranno Stranno Neobjatno](https://open.spotify.com/album/1dtFPfxQfvkejo2W3HL3TY) | 6:28 |
 | 200 | [Make a Wish](https://open.spotify.com/track/3sUV3UODz1JL2Bv4kkz6u1) | [Arina Mur](https://open.spotify.com/artist/3xPmeowtzXszyBWz4DKKaJ) | [Make a Wish](https://open.spotify.com/album/1BPpzVH2HO9deeJiG34cAI) | 7:00 |
 
-Snapshot ID: `MTY2MTc4MjU0NywwMDAwMDAwMGEzNjg2YTNlZWNiNDc0ZDQ3MGEyN2I2NTdkMDMxMjQ2`
+Snapshot ID: `MTY2MTc4MjU0NywwMDAwMDAwMGUwMjFmZTdhOWM0YzdjMTg4N2MzZTJmMmY4ZjNjODli`

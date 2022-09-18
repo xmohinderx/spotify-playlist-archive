@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 
 > Take a break from distorted guitars and enjoy punk's mellow side\. Cover: Avril Lavigne
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,296 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,359 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,10 +69,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 | 59 | [Right Here \(Acoustic\)](https://open.spotify.com/track/5UMNl7HXpYBFrgNC8ko6Jc) | [Chase Your Words](https://open.spotify.com/artist/6gph7xmxgbQ5dxhgxIjNKC) | [Right Here \(Acoustic\)](https://open.spotify.com/album/4mX8bQn7N85MziPkBeoNxr) | 3:49 |
 | 60 | [Wax Poetic \(Acoustic\)](https://open.spotify.com/track/62BBvS1Wr9Uw9IoSbumxxK) | [Capstan](https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE) | [Haunted](https://open.spotify.com/album/3Nhu3uQ7njNRKdQXz2HUhC) | 3:29 |
 | 61 | [Empty Throne \- Acoustic](https://open.spotify.com/track/6ENH2r9VtuBrPmAV5R7t1f) | [Alazka](https://open.spotify.com/artist/1cvDsLFdRXfZQ1cdRteec7) | [Empty Throne \(Acoustic\)](https://open.spotify.com/album/5Oad5COo5IwNpeqDsWedmg) | 4:55 |
-| 62 | [10 Am](https://open.spotify.com/track/104sjKzfCfEVL3ppGjOah2) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr) | [Unplugged](https://open.spotify.com/album/0PEFBp4wzBigHBO36a8ETV) | 3:34 |
-| 63 | [The Eulogy of You and Me \- Acoustic](https://open.spotify.com/track/4TiXtzotMUHwn8ylMowMNl) | [Huddy](https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f) | [The Eulogy of You and Me \(Acoustic\)](https://open.spotify.com/album/7LkoDMiD7dXSQF6tyYt6OR) | 3:11 |
+| 62 | [The Eulogy of You and Me \- Acoustic](https://open.spotify.com/track/4TiXtzotMUHwn8ylMowMNl) | [Huddy](https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f) | [The Eulogy of You and Me \(Acoustic\)](https://open.spotify.com/album/7LkoDMiD7dXSQF6tyYt6OR) | 3:11 |
+| 63 | [“sometimes you meet the right people at the wrong times” \- Revisited](https://open.spotify.com/track/60fAMBBIVvW6mao5zVkzIZ) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [When the Dust Settles](https://open.spotify.com/album/2vsNr3uR7EfWMj2Qqt0i4U) | 3:08 |
 | 64 | [Disarm](https://open.spotify.com/track/4n3rvg5uxv56KS2ZX5OJHO) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Disarm](https://open.spotify.com/album/2Ph5PEPGxZx1QjRGE7Scgq) | 3:19 |
-| 65 | [“sometimes you meet the right people at the wrong times” \- Revisited](https://open.spotify.com/track/60fAMBBIVvW6mao5zVkzIZ) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [When the Dust Settles](https://open.spotify.com/album/2vsNr3uR7EfWMj2Qqt0i4U) | 3:08 |
+| 65 | [10 Am](https://open.spotify.com/track/104sjKzfCfEVL3ppGjOah2) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr) | [Unplugged](https://open.spotify.com/album/0PEFBp4wzBigHBO36a8ETV) | 3:34 |
 | 66 | [Losing Sleep](https://open.spotify.com/track/4prBT2FQAEMMXUXn40pwRf) | [Hazel](https://open.spotify.com/artist/5Ls4sckgFadMXSnhQCOEvX) | [Losing Sleep](https://open.spotify.com/album/3haT6irm5636PSIscDmtWp) | 3:57 |
 | 67 | [A Decade Under The Influence \- Acoustic](https://open.spotify.com/track/6c6vG7r3RWpiuIrawHNpd7) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Punk Goes Acoustic, Vol\. 3](https://open.spotify.com/album/51ltci877NFn74Zi9NCVy6) | 4:12 |
 | 68 | [sleepwalking](https://open.spotify.com/track/4VLX1i52yOU3uDUz3xYNgz) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE), [Owen](https://open.spotify.com/artist/4PJbP0dXALttfo1PFPY1Pt), [Mike Kinsella](https://open.spotify.com/artist/65MqFenJZqxNAPxnEATV8U) | [sleepwalking](https://open.spotify.com/album/7iNFE8xqEEOBl6gOwcDFoI) | 3:35 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 | 74 | [Dial Tones \- Acoustic Version](https://open.spotify.com/track/79hjAXUXQsWzfG6A7Lom1x) | [AS IT IS](https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y) | [Never Happy, Ever After \(Deluxe Edition\)](https://open.spotify.com/album/1yQpnfhLfNZTZi85osX4W4) | 3:24 |
 | 75 | [A Wasted Hymn \- Acoustic](https://open.spotify.com/track/43IHWxGlVL2SdtOqjkGUTx) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [A Wasted Hymn \(Acoustic\)](https://open.spotify.com/album/7KRlYg5KtNGgxtOlFmtmFg) | 4:05 |
 
-Snapshot ID: `MTY0OTA4NDYzMywwMDAwMDAwMGNkOGI0M2EzYjU3MmVhOTQ4NDJmNTRiMTllODM5NTVi`
+Snapshot ID: `MTY0OTA4NDYzMywwMDAwMDAwMGY3MGVmZjhlOWY2NTgyNTkzNGQ1YTQ2ZThmNGQ4NTZk`

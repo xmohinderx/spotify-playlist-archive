@@ -4,7 +4,7 @@
 
 > This is Kelsea Ballerini\. The essential tracks, all in one playlist.
 
-36 songs - 1 hr 54 min - [published](https://open.spotify.com/playlist/7zoCpA9TQkR8DxcKqpzUgY)
+37 songs - 1 hr 57 min - [published](https://open.spotify.com/playlist/7zoCpA9TQkR8DxcKqpzUgY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [I Quit Drinking](https://open.spotify.com/track/6OcCk1dbAb7XNHsC098oEM) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [I Quit Drinking](https://open.spotify.com/album/5c5S9cyjHKBQRm1DGU1E8J) | 2:51 | 2022-09-08 |  |
 | [I Think I Fell in Love Today](https://open.spotify.com/track/5ZdZVXpB7hLKPwx1xhb6q3) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Unapologetically \(Deluxe Edition\)](https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA) | 2:32 | 2022-09-08 |  |
 | [if we never met \(feat\. Kelsea Ballerini\)](https://open.spotify.com/track/5vDA0WiwxOzj4AJDKDl1Bz) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE), [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [love + everything else](https://open.spotify.com/album/1LA3eirJ1NylPXjS1gbiD5) | 2:24 | 2022-09-08 |  |
+| [IF YOU GO DOWN \(I'M GOIN' DOWN TOO\)](https://open.spotify.com/track/6KryVEgkMGOWZHQLwTbU7E) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [IF YOU GO DOWN \(I'M GOIN' DOWN TOO\)](https://open.spotify.com/album/7FE1lCQJo6eqLL7dKCyDH0) | 2:46 | 2022-09-17 |  |
 | [Legends](https://open.spotify.com/track/6vlxmQGwmlyp07YjkugV6K) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Unapologetically \(Deluxe Edition\)](https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA) | 4:04 | 2022-09-08 |  |
 | [Lost In Japan \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/2Q1f6exzZ9iYrv4IICnzVx) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Spotify Singles](https://open.spotify.com/album/0FbO77jrZy4CcXbtR0hqIE) | 3:19 | 2022-09-08 |  |
 | [love and hate](https://open.spotify.com/track/2NL3J9q2FJPSuPw2HS6vPO) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [kelsea](https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ) | 2:57 | 2022-09-14 | 2022-09-16 |

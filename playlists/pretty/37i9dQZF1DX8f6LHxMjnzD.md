@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 
 > If it's buzzing, it's here\. The hottest new songs of the week\. Cover: Jessie Murph
 
-[Spotify](https://open.spotify.com/user/spotify) - 844,880 likes - 40 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 845,045 likes - 40 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 | 14 | [Better Version](https://open.spotify.com/track/3yDEK8rHiOUHOSioX9ZbaU) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Better Version](https://open.spotify.com/album/6L4Br91KD5fMRjxDItOzGd) | 2:53 |
 | 15 | [madhouse](https://open.spotify.com/track/4b9oAM56ycOQXQCV1BbN2S) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [madhouse](https://open.spotify.com/album/50F5i5F8kiulfRwwoOtG1U) | 2:05 |
 | 16 | [CHIRI](https://open.spotify.com/track/3CBaIz3eftJCf9GHycFanL) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI +](https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr) | 2:00 |
-| 17 | [Power \(Remember Who You Are\) \- From The Flipper’s Skate Heist Short Film](https://open.spotify.com/track/7vQYsdVQMbB8d8DSxtHSgr) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [Power \(Remember Who You Are\) \[From The Flipper’s Skate Heist Short Film\]](https://open.spotify.com/album/0U8rhl69WPOU67DqFhjPaq) | 3:25 |
+| 17 | [Power \(Remember Who You Are\) \- From The Flipper’s Skate Heist Short Film](https://open.spotify.com/track/7vQYsdVQMbB8d8DSxtHSgr) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Power \(Remember Who You Are\) \[From The Flipper’s Skate Heist Short Film\]](https://open.spotify.com/album/0U8rhl69WPOU67DqFhjPaq) | 3:25 |
 | 18 | [Don't I Make It Look Easy](https://open.spotify.com/track/0Bm2kjXM4w6JlwS6jpTmfO) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Don't I Make It Look Easy](https://open.spotify.com/album/0vAG2gPTupFRMmpPf9qAB1) | 2:34 |
 | 19 | [Older \(feat\. Sierra Deaton\)](https://open.spotify.com/track/3NnvYEb93CrTVBssPtSCt1) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy), [Sierra Deaton](https://open.spotify.com/artist/3cntanE0bEw8YXMzSf2Szs) | [Older](https://open.spotify.com/album/1VSYQDyDwa6WMyiuHKk8mL) | 3:17 |
 | 20 | [Heartstrings](https://open.spotify.com/track/6Qv3OWGNixqEobRC5vM0Bp) | [M\-22](https://open.spotify.com/artist/4WFtYn5RyU8VGPpPyW9Pxw), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Heartstrings](https://open.spotify.com/album/6Zf2UCQdYaRfR5pFXQAl90) | 3:31 |

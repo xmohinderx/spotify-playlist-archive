@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1nTCV2.md) - [plain]
 
 > This is Ryan Adams\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,939 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,950 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1nTCV2.md) - [plain]
 | 39 | [Desire](https://open.spotify.com/track/2cSReP67LziR3PeYQ8Ehm2) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Demolition](https://open.spotify.com/album/748GLnbrpsibJyQ5HvxV8q) | 3:40 |
 | 40 | [The Rescue Blues](https://open.spotify.com/track/3FiVlyfywz3RDC3BHT3eco) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Gold](https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc) | 3:38 |
 | 41 | [Somethings Missing](https://open.spotify.com/track/0VbtIu7vYixBGAfh8GxzRv) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Romeo & Juliet](https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw) | 2:17 |
-| 42 | [Moving Target](https://open.spotify.com/track/3HwLobYrehYJZBuEThdCYR) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Chris](https://open.spotify.com/album/1MMiRTfDofw1aZpg91ls5X) | 3:41 |
+| 42 | [Spinning Wheel](https://open.spotify.com/track/1xVQRTGM6LQJ0Ft9NIohrT) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Chris](https://open.spotify.com/album/1MMiRTfDofw1aZpg91ls5X) | 2:38 |
 | 43 | [Chin Up, Cheer Up](https://open.spotify.com/track/4SBUErshKs7VyfKtXdmcTz) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Demolition](https://open.spotify.com/album/748GLnbrpsibJyQ5HvxV8q) | 2:58 |
 | 44 | [Firecracker](https://open.spotify.com/track/27FB2JgWXsWWwU5FKHaS4m) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Gold](https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc) | 2:51 |
 | 45 | [Romeo & Juliet](https://open.spotify.com/track/73jnBpdPr7JcvXrRgRuN19) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Romeo & Juliet](https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw) | 3:42 |
-| 46 | [Spinning Wheel](https://open.spotify.com/track/1xVQRTGM6LQJ0Ft9NIohrT) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Chris](https://open.spotify.com/album/1MMiRTfDofw1aZpg91ls5X) | 2:38 |
+| 46 | [Moving Target](https://open.spotify.com/track/3HwLobYrehYJZBuEThdCYR) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Chris](https://open.spotify.com/album/1MMiRTfDofw1aZpg91ls5X) | 3:41 |
 | 47 | [This House Is Not For Sale](https://open.spotify.com/track/67ftTHCuUcUt5DlNO3dUQR) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Love Is Hell](https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2) | 3:53 |
 | 48 | [Fuck The Rain](https://open.spotify.com/track/6QZteBMevNynnZFzCxoG0I) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Big Colors](https://open.spotify.com/album/2eDMavEOxrN2oqSZZrfwMl) | 3:33 |
 | 49 | [This Is Your House](https://open.spotify.com/track/3pzm9zJZsfVTwuI04CCEJ1) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Romeo & Juliet](https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw) | 2:05 |
 | 50 | [Call Me on Your Way Back Home](https://open.spotify.com/track/6VOvaFEQ6juSEiFPCQp4E7) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Heartbreaker](https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn) | 3:09 |
 
-Snapshot ID: `Mjc3MjIyMzMsMDAwMDAwMDBhNTI2MTk5ZWIyNTkxMWI0MDE3ZTQ4NDlhMzQ0ZjM2Ng==`
+Snapshot ID: `Mjc3MjM2OTIsMDAwMDAwMDAxNDU4OGUyYWE4ODVhZTJjOTYwM2VmZDc2N2Q2MWNhZg==`

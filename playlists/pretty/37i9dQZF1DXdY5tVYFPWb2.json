@@ -1,12 +1,12 @@
 {
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
-  "num_followers": 120559,
+  "num_followers": 120659,
   "original_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzA4MTIwMCwwMDAwMDAwMGUyZmFiMDljZDE5MzAxNDIyYzViM2EzMmZmMTlkN2M4",
+  "snapshot_id": "MTY2MzA4MTIwMCwwMDAwMDAwMGRhNWVhOWVlMjE0YTdmMTNjMzVkMjY4M2NlNGMzZmE4",
   "tracks": [
     {
       "added_at": "2022-09-13 15:00:00",
@@ -735,46 +735,6 @@
     {
       "added_at": "2022-09-13 15:00:00",
       "album": {
-        "name": "puzzle (feat. \u3072\u304b\u308a)",
-        "url": "https://open.spotify.com/album/6JGPL4qyKN9YLQc38f72ol"
-      },
-      "artists": [
-        {
-          "name": "Tokimeki Records",
-          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
-        },
-        {
-          "name": "\u3072\u304b\u308a",
-          "url": "https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc"
-        }
-      ],
-      "duration_ms": 210338,
-      "name": "puzzle (feat. \u3072\u304b\u308a)",
-      "url": "https://open.spotify.com/track/4H6M9rJ0BPI2FZZEBEGlVp"
-    },
-    {
-      "added_at": "2022-09-13 15:00:00",
-      "album": {
-        "name": "summer magic",
-        "url": "https://open.spotify.com/album/18UK124C27nPnkqSuTKkVq"
-      },
-      "artists": [
-        {
-          "name": "showmore",
-          "url": "https://open.spotify.com/artist/5iISQR00Eel3mcB8eKlsRt"
-        },
-        {
-          "name": "Peggy Doll",
-          "url": "https://open.spotify.com/artist/7enIQp3MHjqkOLVAXvcwDs"
-        }
-      ],
-      "duration_ms": 232431,
-      "name": "summer magic",
-      "url": "https://open.spotify.com/track/0Ho6R2SLilYWwABq2jvjDy"
-    },
-    {
-      "added_at": "2022-09-13 15:00:00",
-      "album": {
         "name": "Watching Over You",
         "url": "https://open.spotify.com/album/4ArOG7wTFTDM7Sqc2XPB0Z"
       },
@@ -799,6 +759,26 @@
     {
       "added_at": "2022-09-13 15:00:00",
       "album": {
+        "name": "summer magic",
+        "url": "https://open.spotify.com/album/18UK124C27nPnkqSuTKkVq"
+      },
+      "artists": [
+        {
+          "name": "showmore",
+          "url": "https://open.spotify.com/artist/5iISQR00Eel3mcB8eKlsRt"
+        },
+        {
+          "name": "Peggy Doll",
+          "url": "https://open.spotify.com/artist/7enIQp3MHjqkOLVAXvcwDs"
+        }
+      ],
+      "duration_ms": 232431,
+      "name": "summer magic",
+      "url": "https://open.spotify.com/track/0Ho6R2SLilYWwABq2jvjDy"
+    },
+    {
+      "added_at": "2022-09-13 15:00:00",
+      "album": {
         "name": "It's all about you",
         "url": "https://open.spotify.com/album/2Nle2je0kLudi6kk0PJsuA"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 191663,
       "name": "It's all about you",
       "url": "https://open.spotify.com/track/4D8vdQENwuYMbcaYG0ZKcr"
+    },
+    {
+      "added_at": "2022-09-13 15:00:00",
+      "album": {
+        "name": "puzzle (feat. \u3072\u304b\u308a)",
+        "url": "https://open.spotify.com/album/6JGPL4qyKN9YLQc38f72ol"
+      },
+      "artists": [
+        {
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        },
+        {
+          "name": "\u3072\u304b\u308a",
+          "url": "https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc"
+        }
+      ],
+      "duration_ms": 210338,
+      "name": "puzzle (feat. \u3072\u304b\u308a)",
+      "url": "https://open.spotify.com/track/4H6M9rJ0BPI2FZZEBEGlVp"
     },
     {
       "added_at": "2022-09-13 15:00:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2022-09-13 15:00:00",
       "album": {
-        "name": "Holiday",
-        "url": "https://open.spotify.com/album/0PQ9E5VxguoFSjGLh8YPj4"
-      },
-      "artists": [
-        {
-          "name": "TAIKING",
-          "url": "https://open.spotify.com/artist/5HLC9fMLoFX5wSst6we011"
-        }
-      ],
-      "duration_ms": 244358,
-      "name": "Holiday",
-      "url": "https://open.spotify.com/track/2FBANjj4dsHEJAmXKCNkOm"
-    },
-    {
-      "added_at": "2022-09-13 15:00:00",
-      "album": {
         "name": "SANDIE",
         "url": "https://open.spotify.com/album/2BsnkWZSqQsMHxz9zx915T"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 287569,
       "name": "SANDIE",
       "url": "https://open.spotify.com/track/5q5guN8XfOeRUnzVBcXcRt"
+    },
+    {
+      "added_at": "2022-09-13 15:00:00",
+      "album": {
+        "name": "Holiday",
+        "url": "https://open.spotify.com/album/0PQ9E5VxguoFSjGLh8YPj4"
+      },
+      "artists": [
+        {
+          "name": "TAIKING",
+          "url": "https://open.spotify.com/artist/5HLC9fMLoFX5wSst6we011"
+        }
+      ],
+      "duration_ms": 244358,
+      "name": "Holiday",
+      "url": "https://open.spotify.com/track/2FBANjj4dsHEJAmXKCNkOm"
     },
     {
       "added_at": "2022-09-13 15:00:00",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2022-09-13 15:00:00",
       "album": {
+        "name": "\u30d5\u30fc\u30ea\u30c3\u30b7\u30e5\u30b5\u30de\u30fc",
+        "url": "https://open.spotify.com/album/4xLSbMXqkmxhaY3mJKKXDh"
+      },
+      "artists": [
+        {
+          "name": "Deep Sea Diving Club",
+          "url": "https://open.spotify.com/artist/06kwmmM4VcnrOdBM25pREY"
+        }
+      ],
+      "duration_ms": 267595,
+      "name": "\u30d5\u30fc\u30ea\u30c3\u30b7\u30e5\u30b5\u30de\u30fc",
+      "url": "https://open.spotify.com/track/6TqYBVT4sytzhEyiujcqjM"
+    },
+    {
+      "added_at": "2022-09-13 15:00:00",
+      "album": {
         "name": "Ladies In The City",
         "url": "https://open.spotify.com/album/4aq2qIVPFSS5mkKKKKKSO7"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 223066,
       "name": "Tokyo Rouge",
       "url": "https://open.spotify.com/track/2mM4gR1CITXWMx5eRp0oem"
-    },
-    {
-      "added_at": "2022-09-13 15:00:00",
-      "album": {
-        "name": "\u30d5\u30fc\u30ea\u30c3\u30b7\u30e5\u30b5\u30de\u30fc",
-        "url": "https://open.spotify.com/album/4xLSbMXqkmxhaY3mJKKXDh"
-      },
-      "artists": [
-        {
-          "name": "Deep Sea Diving Club",
-          "url": "https://open.spotify.com/artist/06kwmmM4VcnrOdBM25pREY"
-        }
-      ],
-      "duration_ms": 267595,
-      "name": "\u30d5\u30fc\u30ea\u30c3\u30b7\u30e5\u30b5\u30de\u30fc",
-      "url": "https://open.spotify.com/track/6TqYBVT4sytzhEyiujcqjM"
     },
     {
       "added_at": "2022-09-13 15:00:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2022-09-13 15:00:00",
       "album": {
-        "name": "tonun 2",
-        "url": "https://open.spotify.com/album/0N00X1lERWXeDOcu8Fhid3"
-      },
-      "artists": [
-        {
-          "name": "tonun",
-          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
-        }
-      ],
-      "duration_ms": 205253,
-      "name": "Amber Bare Skin",
-      "url": "https://open.spotify.com/track/2lvZHA4ic46LLgBJjEClD1"
-    },
-    {
-      "added_at": "2022-09-13 15:00:00",
-      "album": {
         "name": "Natsume",
         "url": "https://open.spotify.com/album/1zDuHfKUHI0SRimAdD8whm"
       },
@@ -1563,18 +1547,18 @@
     {
       "added_at": "2022-09-13 15:00:00",
       "album": {
-        "name": "Rhythm of Your Heart",
-        "url": "https://open.spotify.com/album/7BYeCDSK87JZGz8O1DPG6e"
+        "name": "tonun 2",
+        "url": "https://open.spotify.com/album/0N00X1lERWXeDOcu8Fhid3"
       },
       "artists": [
         {
-          "name": "FIVE NEW OLD",
-          "url": "https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo"
+          "name": "tonun",
+          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
         }
       ],
-      "duration_ms": 224177,
-      "name": "Rhythm of Your Heart",
-      "url": "https://open.spotify.com/track/4jffPANCVwBpUPmbj3cS9F"
+      "duration_ms": 205253,
+      "name": "Amber Bare Skin",
+      "url": "https://open.spotify.com/track/2lvZHA4ic46LLgBJjEClD1"
     },
     {
       "added_at": "2022-09-13 15:00:00",
@@ -1591,6 +1575,22 @@
       "duration_ms": 250880,
       "name": "\u679c\u3066\u308b\u3053\u3068\u306a\u3044\u30c0\u30f3\u30b9",
       "url": "https://open.spotify.com/track/1VOwpyWPfAoxW4mNWQcDGt"
+    },
+    {
+      "added_at": "2022-09-13 15:00:00",
+      "album": {
+        "name": "Rhythm of Your Heart",
+        "url": "https://open.spotify.com/album/7BYeCDSK87JZGz8O1DPG6e"
+      },
+      "artists": [
+        {
+          "name": "FIVE NEW OLD",
+          "url": "https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo"
+        }
+      ],
+      "duration_ms": 224177,
+      "name": "Rhythm of Your Heart",
+      "url": "https://open.spotify.com/track/4jffPANCVwBpUPmbj3cS9F"
     },
     {
       "added_at": "2022-09-13 15:00:00",

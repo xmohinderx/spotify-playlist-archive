@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4aaDnIu6X4bZwMQ2yc4YAg">Emily Falvey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71 likes - 65 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 75 likes - 65 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 17 | [Firehazard](https://open.spotify.com/track/4eCMl0kcqO9uQy6vtduGmg) | [Syence](https://open.spotify.com/artist/4VfTgWhy9PKLJN3xKJcDqf), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Firehazard](https://open.spotify.com/album/7m72310c756Nzu7duj09Ib) | 3:09 |
 | 18 | [I Love You Now Change](https://open.spotify.com/track/5L1aDYN5u5OBOUCGhrK3pU) | [Twinnie](https://open.spotify.com/artist/73zbrZKfIqOfVWaSM4k71b) | [Hollywood Gypsy](https://open.spotify.com/album/0d1akoTwbEMgNi9gGuG0ZI) | 3:25 |
 | 19 | [Somebody Else's Somebody](https://open.spotify.com/track/2kI1DffKDMBuq5R0MTI2S6) | [ALISSA GRIFFITH](https://open.spotify.com/artist/4sH2uBwia6cdHvnvdsA1jX) | [Somebody Else's Somebody](https://open.spotify.com/album/0EEFDFAx0cFS7zV5WGhTdk) | 3:05 |
-| 20 | [New Town](https://open.spotify.com/track/2znEJ1xEQdOnXJB44jRoSB) | [Smithfield](https://open.spotify.com/artist/1aPmWgDU4JXEWg1d2BwH5M) | [New Town](https://open.spotify.com/album/5UHON4pVvrXgn9DIPUNPq0) | 3:12 |
-| 21 | [Girl Wonder](https://open.spotify.com/track/2g3vOIC3J9uYfSu6yi74rI) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Girl Wonder](https://open.spotify.com/album/4kUyEMsQ4Ho1TkwPln0h6w) | 3:02 |
+| 20 | [Girl Wonder](https://open.spotify.com/track/2g3vOIC3J9uYfSu6yi74rI) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Girl Wonder](https://open.spotify.com/album/4kUyEMsQ4Ho1TkwPln0h6w) | 3:02 |
+| 21 | [New Town](https://open.spotify.com/track/2znEJ1xEQdOnXJB44jRoSB) | [Smithfield](https://open.spotify.com/artist/1aPmWgDU4JXEWg1d2BwH5M) | [New Town](https://open.spotify.com/album/5UHON4pVvrXgn9DIPUNPq0) | 3:12 |
 | 22 | [Ghost Of My Past](https://open.spotify.com/track/0zDftqIhxEhl9AfGiCvgGh) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Legacy](https://open.spotify.com/album/6NnwmqK1adZp3yXObpoD0W) | 3:36 |
 | 23 | [8 Months](https://open.spotify.com/track/34FV8dxL8QyrVgRPzB6Qzf) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [8 Months](https://open.spotify.com/album/78e0sWg0gWKZ9UaQmb6ZlT) | 2:40 |
 | 24 | [Side Of My Heart](https://open.spotify.com/track/1Ek06P8GYs1HF5ePUsW0mx) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Side Of My Heart](https://open.spotify.com/album/23EzioEmU2OX3sZOi6YgJb) | 3:13 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 44 | [I Don't Wanna Know](https://open.spotify.com/track/6zos5IEbqa0cTuJfb2jOQE) | [Jaycee Grace Connolly](https://open.spotify.com/artist/5rydSiv6N3eXbZYIHAAf5d) | [I Don't Wanna Know](https://open.spotify.com/album/5Een1BOqoOeOKJ5V1QKNsO) | 2:56 |
 | 45 | [Unbreakup](https://open.spotify.com/track/6NODj3b3U76GKaBRE07Mee) | [Cadence](https://open.spotify.com/artist/2GXTCh27OeQa4ee7fTs1ha), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Unbreakup](https://open.spotify.com/album/0Bk4pwzuIDK25RQhxf3qMZ) | 3:44 |
 | 46 | [die 4 u](https://open.spotify.com/track/7k8IcQsuJAPtWI6QNCdSx3) | [Livy Jeanne](https://open.spotify.com/artist/0BBr2UBxbwwmG9yLEr8mR5) | [die 4 u](https://open.spotify.com/album/7Bw4ZLyMlGiihatI3VUQq9) | 2:53 |
-| 47 | [Bad for Me](https://open.spotify.com/track/27W6Mlh7dZaNuWQaXaoe5H) | [Sarah Allison Turner](https://open.spotify.com/artist/5HKrm4aihaeEPAezAxT24Z) | [Bad for Me](https://open.spotify.com/album/3mCCEf1n16Rrjclrw2S3jB) | 3:22 |
-| 48 | [That Was All You](https://open.spotify.com/track/4OuDH82pXLHUcrO5prgVNA) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [History of Breaking Up \(Part Two\)](https://open.spotify.com/album/7ovnzMBjDsLZ1y5v1nSURW) | 2:55 |
+| 47 | [That Was All You](https://open.spotify.com/track/4OuDH82pXLHUcrO5prgVNA) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [History of Breaking Up \(Part Two\)](https://open.spotify.com/album/7ovnzMBjDsLZ1y5v1nSURW) | 2:55 |
+| 48 | [Bad for Me](https://open.spotify.com/track/27W6Mlh7dZaNuWQaXaoe5H) | [Sarah Allison Turner](https://open.spotify.com/artist/5HKrm4aihaeEPAezAxT24Z) | [Bad for Me](https://open.spotify.com/album/3mCCEf1n16Rrjclrw2S3jB) | 3:22 |
 | 49 | [LONELY PLACE](https://open.spotify.com/track/4aQ1hgPKHr74xqQUUwAour) | [Josie Dunne](https://open.spotify.com/artist/2KgFtUjEtayfuximKppSAq) | [EPISODE 5: DUMB / LONELY PLACE](https://open.spotify.com/album/63ygNpVZyoKuUoDMdzDDqb) | 1:03 |
 | 50 | [The Truth](https://open.spotify.com/track/1iEBtGIwux7Z91TkCzbDV7) | [Eloise Alterman](https://open.spotify.com/artist/6fwUdydSdIHu9NHHTCDYc0) | [The Truth](https://open.spotify.com/album/7uTgWHct2uQraEWN3IXLuv) | 3:03 |
 | 51 | [There Goes My Heart](https://open.spotify.com/track/3PBjyEIhY26g5wByX9lDBt) | [Liz Huett](https://open.spotify.com/artist/4wh5xUIEU8YlGPXZHV6klA) | [There Goes My Heart](https://open.spotify.com/album/7h2JwEdU03S7OoTasIdhWx) | 2:32 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 64 | [Are We Still Good](https://open.spotify.com/track/1E4lKGhLeldkoBiocnsptN) | [Forrest Finn](https://open.spotify.com/artist/4CHpwd1pdYUKJaGKbElg3m) | [Spotlight](https://open.spotify.com/album/7uj8AZOnobHVP6GEwGlCj0) | 2:57 |
 | 65 | [Parallel Universe](https://open.spotify.com/track/7Bjeh8lHQZMolHSm4kX2Ie) | [Navyhue](https://open.spotify.com/artist/1ab6W5waGBlE1nmkVtLdX5) | [Parallel Universe](https://open.spotify.com/album/00zC5ot02HOcq5pf9odGIw) | 3:32 |
 
-Snapshot ID: `Mjc3MjI5NjEsMDAwMDAwMDBlMmIyMmVhMTg0YTQ0NmQ3YjYyMjNkN2EzM2YzNTc4ZQ==`
+Snapshot ID: `Mjc3MjQ0MDEsMDAwMDAwMDA4MDY1MjM4NGI0YWNlMjJmZjg2YjYyYzU2NWUxNmMzZA==`

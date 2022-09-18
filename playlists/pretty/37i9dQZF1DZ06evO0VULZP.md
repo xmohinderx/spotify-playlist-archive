@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VULZP.md) - [plain]
 
 > This is Descendents\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,821 likes - 50 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,832 likes - 50 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VULZP.md) - [plain]
 | 28 | [No FB](https://open.spotify.com/track/7a8u4fFQF8BbYOPLtsWsTg) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [I Don't Want to Grow Up](https://open.spotify.com/album/5kOp5XHhmMoG2e41VyVQC0) | 0:36 |
 | 29 | [Pep Talk](https://open.spotify.com/track/2dsB4EWZpV3X5jin2pcjhm) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [All](https://open.spotify.com/album/02ZwlIiMwnSolCumjuSQ8U) | 3:05 |
 | 30 | [Without Love](https://open.spotify.com/track/7JlcIAeVDKykP56emtGiHb) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Hypercaffium Spazzinate \(Deluxe Edition\)](https://open.spotify.com/album/2hGGxQXnZpKXPmQJUgLGXS) | 3:19 |
-| 31 | [Lullaby](https://open.spotify.com/track/2E9ttxZB1OpSmdkasZpYND) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [9th & Walnut](https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs) | 1:01 |
-| 32 | [Here with Me](https://open.spotify.com/track/3J0S1JeugumK6iujuCdotl) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | ['Merican](https://open.spotify.com/album/60eDnZNML7mTE2UadzotYD) | 3:43 |
+| 31 | [Here with Me](https://open.spotify.com/track/3J0S1JeugumK6iujuCdotl) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | ['Merican](https://open.spotify.com/album/60eDnZNML7mTE2UadzotYD) | 3:43 |
+| 32 | [Lullaby](https://open.spotify.com/track/2E9ttxZB1OpSmdkasZpYND) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [9th & Walnut](https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs) | 1:01 |
 | 33 | [Cameage](https://open.spotify.com/track/12CAbupLzhGDIfUUxObG3x) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [All](https://open.spotify.com/album/02ZwlIiMwnSolCumjuSQ8U) | 3:05 |
 | 34 | [Feel This](https://open.spotify.com/track/2xYTsFE2JcJEZFBYfV2x56) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Hypercaffium Spazzinate \(Deluxe Edition\)](https://open.spotify.com/album/2hGGxQXnZpKXPmQJUgLGXS) | 1:14 |
 | 35 | [Cheer](https://open.spotify.com/track/2vuY4aYI49AY6pXB12ivBu) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Enjoy!](https://open.spotify.com/album/2Yltds9OVHc9cd020ojrWg) | 3:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VULZP.md) - [plain]
 | 49 | [That's The Breaks](https://open.spotify.com/track/6ITRdfrMgETFrRGlMj4KTs) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [That's The Breaks](https://open.spotify.com/album/7jBnEaexaIWaZvD7Bft29z) | 0:42 |
 | 50 | [Enjoy](https://open.spotify.com/track/1z3URfQ4jYzrFmStzUu20i) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Enjoy!](https://open.spotify.com/album/2Yltds9OVHc9cd020ojrWg) | 2:12 |
 
-Snapshot ID: `Mjc3MjIyMzMsMDAwMDAwMDA3OTJmNjNkMmEyZmEyZjI5ZmRiNjA0OWFjYmZkYjVjZQ==`
+Snapshot ID: `Mjc3MjM2OTIsMDAwMDAwMDBjZWU2M2EzNWZiOTY0YzYzMzY1M2I1ZWNiNTUzMGUzNA==`

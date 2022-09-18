@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcRXFNfZr7Tp.md) - [plain]
 
 > Current favorites and exciting new music\. Cover: Lewis capaldi
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,543,202 likes - 90 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,543,967 likes - 90 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcRXFNfZr7Tp.md) - [plain]
 | 27 | [Maybe You’re The Problem](https://open.spotify.com/track/0sb8ClU3CLoNblxkpmOKzA) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Maybe You’re The Problem](https://open.spotify.com/album/1dMRk6VwatQfygRRqaWtZg) | 3:10 |
 | 28 | [I Like You \(A Happier Song\) \(with Doja Cat\)](https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 3:12 |
 | 29 | [Living Without You](https://open.spotify.com/track/1KkV5NgLa2XtD00IfaCPyG) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [Living Without You](https://open.spotify.com/album/6i5EQgCokHB7wgiP68UYmA) | 3:04 |
-| 30 | [Power \(Remember Who You Are\) \- From The Flipper’s Skate Heist Short Film](https://open.spotify.com/track/7vQYsdVQMbB8d8DSxtHSgr) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [Power \(Remember Who You Are\) \[From The Flipper’s Skate Heist Short Film\]](https://open.spotify.com/album/0U8rhl69WPOU67DqFhjPaq) | 3:25 |
+| 30 | [Power \(Remember Who You Are\) \- From The Flipper’s Skate Heist Short Film](https://open.spotify.com/track/7vQYsdVQMbB8d8DSxtHSgr) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Power \(Remember Who You Are\) \[From The Flipper’s Skate Heist Short Film\]](https://open.spotify.com/album/0U8rhl69WPOU67DqFhjPaq) | 3:25 |
 | 31 | [2step \(feat\. Lil Baby\)](https://open.spotify.com/track/2UN0lp72LAusrXi8LLVomt) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [2step \(feat\. Lil Baby\)](https://open.spotify.com/album/6NPPPC6DxPvukxZcYVOBif) | 2:43 |
 | 32 | [UP](https://open.spotify.com/track/2ykXJ9QVwx9Li8nsW0h6b2) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [UP](https://open.spotify.com/album/2jA1exLaHCcpHtDrGLKTmy) | 2:28 |
 | 33 | [Don't Hurt Me \(What Is Love\)](https://open.spotify.com/track/6Lytqcs0fMmCO8JNewrnbj) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu) | [Don't Hurt Me \(What Is Love\)](https://open.spotify.com/album/4NM3zrdNq6tpELPeaPM8QY) | 2:37 |

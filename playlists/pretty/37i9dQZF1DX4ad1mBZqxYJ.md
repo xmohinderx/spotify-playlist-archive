@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ad1mBZqxYJ.md) - [plain]
 
 > ¡Cortes modernos pa' los compas con estilo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,913 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,024 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

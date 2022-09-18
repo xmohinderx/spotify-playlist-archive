@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33TfGBYPkRQ.md) - [plain]
 
 > That feeling of being punched in the gut by a song.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,102 likes - 100 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,185 likes - 100 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

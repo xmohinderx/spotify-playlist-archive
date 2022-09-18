@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3pxwKjnmDg4kwTc5nItYcx.md) - [plain]
 
 > Let your mind float away with these down\-tempo easy listening tracks\. Cover: Budjerah
 
-[Topsify Australia](https://open.spotify.com/user/popmob) - 5,615 likes - 284 songs - 15 hr 21 min
+[Topsify Australia](https://open.spotify.com/user/popmob) - 5,618 likes - 284 songs - 15 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

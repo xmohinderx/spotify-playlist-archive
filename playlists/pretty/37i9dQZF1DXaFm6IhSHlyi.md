@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 
 > A collection of the world's best emotional songs\. Cover: <a href="https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl\_branch=1">Djouher</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,000 likes - 150 songs - 9 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,145 likes - 150 songs - 9 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 | 23 | [Out Of Love](https://open.spotify.com/track/4WzhjxvLP95y7AMDy0Atwb) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [The Pains Of Growing](https://open.spotify.com/album/0LzVdypBGpn6dGuHqVGwwt) | 3:47 |
 | 24 | [Make You Feel My Love](https://open.spotify.com/track/5FgPwJ7Nh2FVmIXviKl2VF) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0) | 3:32 |
 | 25 | [Love Someone](https://open.spotify.com/track/0OCRwXbQRdOZ1OtB4Imsp1) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [3 \(The Purple Album\)](https://open.spotify.com/album/02gV87QEIFp2T9q7OqVBjj) | 3:25 |
-| 26 | [ILYSB \- STRIPPED](https://open.spotify.com/track/3Dkvp3L4w0uJFYfIPa8E9H) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Make Out](https://open.spotify.com/album/4sldmS76FbpIaO2sEsZlBh) | 4:04 |
-| 27 | [Asal Mein](https://open.spotify.com/track/0rMeOAvbQZ2RTG4B6L1M4p) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Asal Mein](https://open.spotify.com/album/7pFrr9ypVrxpZNF97YUQjK) | 3:44 |
+| 26 | [Asal Mein](https://open.spotify.com/track/0rMeOAvbQZ2RTG4B6L1M4p) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Asal Mein](https://open.spotify.com/album/7pFrr9ypVrxpZNF97YUQjK) | 3:44 |
+| 27 | [ILYSB \- STRIPPED](https://open.spotify.com/track/3Dkvp3L4w0uJFYfIPa8E9H) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Make Out](https://open.spotify.com/album/4sldmS76FbpIaO2sEsZlBh) | 4:04 |
 | 28 | [Lost Without You](https://open.spotify.com/track/3cWI6Hj9LQ0MfMuhw9uSMc) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Freya Ridings](https://open.spotify.com/album/3dcenoRctm8OAnqoCrQrLd) | 3:45 |
 | 29 | [Perfect Symphony \(Ed Sheeran & Andrea Bocelli\)](https://open.spotify.com/track/3zl7j5ua8mF4JDYuxrfo01) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo) | [Perfect Symphony \(Ed Sheeran & Andrea Bocelli\)](https://open.spotify.com/album/2MOs2gBy14kW9jYXbv2A3O) | 4:25 |
 | 30 | [Tujhe Kitna Chahne Lage](https://open.spotify.com/track/5QtEFRYavs5S3GHtFEq7A4) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Kabir Singh](https://open.spotify.com/album/3uuu6u13U0KeVQsZ3CZKK4) | 4:44 |
@@ -126,8 +126,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 | 116 | [Sorry \- Live](https://open.spotify.com/track/7C1Zar9X3SmeDK278SnxiL) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Sorry \(Live\)](https://open.spotify.com/album/4RyLz4vEFT6TnEopq1ZTvD) | 3:24 |
 | 117 | [Ohebbou Yadayka](https://open.spotify.com/track/1bfSLsvZjpH65NlxGJLBwu) | [Faia Younan](https://open.spotify.com/artist/2myLHkpmmKy57Jx5CN52pi) | [Ohebbou Yadayka](https://open.spotify.com/album/1qKNEcRz2cd2bpnoYh8Bly) | 3:46 |
 | 118 | [Night within you](https://open.spotify.com/track/4QlGtDYlVWAIiwCNU5f1i3) | [Krr](https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7) | [Night within you](https://open.spotify.com/album/3JkOtuYHXxscyJuYT3k3VL) | 4:14 |
-| 119 | [How Is This Love ?](https://open.spotify.com/track/35rIBWfvmrVoWpZljAqpv5) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D), [Dylan Longworth](https://open.spotify.com/artist/41G8BJILf7hhwCit2mViIH) | [How Is This Love ?](https://open.spotify.com/album/6yM5DlsPoNz8C2pZwVqN2l) | 3:14 |
-| 120 | [Bloom](https://open.spotify.com/track/4iRgN2h6iRkFVHareKcL14) | [Superfly](https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ) | [0](https://open.spotify.com/album/6Oa8tjPIVfB0LgO1hwVw61) | 3:58 |
+| 119 | [Bloom](https://open.spotify.com/track/4iRgN2h6iRkFVHareKcL14) | [Superfly](https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ) | [0](https://open.spotify.com/album/6Oa8tjPIVfB0LgO1hwVw61) | 3:58 |
+| 120 | [How Is This Love ?](https://open.spotify.com/track/35rIBWfvmrVoWpZljAqpv5) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D), [Dylan Longworth](https://open.spotify.com/artist/41G8BJILf7hhwCit2mViIH) | [How Is This Love ?](https://open.spotify.com/album/6yM5DlsPoNz8C2pZwVqN2l) | 3:14 |
 | 121 | [Majnony Ana](https://open.spotify.com/track/67wgF0zAjq7gdXILvTzloC) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [Elyanna](https://open.spotify.com/album/2J4Yz9I4s0FvFw00Cn0trp) | 1:02 |
 | 122 | [Tender love](https://open.spotify.com/track/1wOwr5DVupZjgO7lJxPsyN) | [J\-JUN](https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T) | [Love song](https://open.spotify.com/album/2sgwU6KQf0sd2hIvMCPMjp) | 3:50 |
 | 123 | [Oyasumi Kamisama](https://open.spotify.com/track/2z0Ui7sLju5TXHiaUTTUpO) | [Yoh kamiyama](https://open.spotify.com/artist/3sIalaTfShc1biZjHCCVkv) | [Yumemiru Kodomo](https://open.spotify.com/album/3txMmUiBxYmkF81B1g8bqt) | 3:43 |
@@ -138,8 +138,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 | 128 | [Forever & Always](https://open.spotify.com/track/7edEUxDTzj9pbHSIVHDyJ5) | [Abe](https://open.spotify.com/artist/2Bv3me5y2XnscjPGreroh4) | [Forever & Always](https://open.spotify.com/album/0oSL02PWnFYXRDY9ShDCH1) | 3:42 |
 | 129 | [Black](https://open.spotify.com/track/52KkasHx39h4QJ5yiEcw1n) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [yours, sincerely](https://open.spotify.com/album/43b8UZkmMf0dVTktnr7qTO) | 4:31 |
 | 130 | [Lovely Sweet Heart](https://open.spotify.com/track/3Ru7GYzdKtG9JOl9fVIj1C) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Sugar Man 3, EPISODE.11](https://open.spotify.com/album/6E3zHGgsITcUSZqgcYL48J) | 5:07 |
-| 131 | [Madhaniyan \(Live\)](https://open.spotify.com/track/6pceIfQ5noY5Oe6BaskeNh) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Madhaniyan \(Live\) \- Single](https://open.spotify.com/album/4cTYoTEenq525lP6832Nq5) | 4:21 |
-| 132 | [Patience](https://open.spotify.com/track/08j5xeOU0aKjKTWRDClYZt) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D), [Lead Major](https://open.spotify.com/artist/0HePV5MBPoi502FIKslcBO) | [Patience](https://open.spotify.com/album/4b1vmTumhoQ2pXD4ts0sH3) | 2:50 |
+| 131 | [Patience](https://open.spotify.com/track/08j5xeOU0aKjKTWRDClYZt) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D), [Lead Major](https://open.spotify.com/artist/0HePV5MBPoi502FIKslcBO) | [Patience](https://open.spotify.com/album/4b1vmTumhoQ2pXD4ts0sH3) | 2:50 |
+| 132 | [Madhaniyan \(Live\)](https://open.spotify.com/track/6pceIfQ5noY5Oe6BaskeNh) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Madhaniyan \(Live\) \- Single](https://open.spotify.com/album/4cTYoTEenq525lP6832Nq5) | 4:21 |
 | 133 | [Day By Day](https://open.spotify.com/track/66aVhQYpkvr6ZkxX5g8edl) | [Bigman](https://open.spotify.com/artist/3wdiLqjRgb0Zcxj6ZgODFU) | [Day By Day](https://open.spotify.com/album/37xHrWe3x5HMq8Eg7b8PWb) | 3:38 |
 | 134 | [I mecht nur wissn wo du bist \- I.U.E.](https://open.spotify.com/track/2NFS0NEUZwJD7jmjOl9sGP) | [Popwal](https://open.spotify.com/artist/3MZS307A4x1ZFtD9MAeZhx) | [I mecht nur wissn wo du bist \(I.U.E.\)](https://open.spotify.com/album/0UBZIrwAvTOqVty6DaeNR1) | 3:27 |
 | 135 | [Bla Bik](https://open.spotify.com/track/5AUqRIriVFNE2UJ3TWFKFs) | [Nada](https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G) | [Bla Bik](https://open.spotify.com/album/0Yu3JYLiKy327FbZPAU5C3) | 2:55 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 | 149 | [Между нами \- Ice Lyrical Version](https://open.spotify.com/track/5wPlVVTPeRnVjwPyX79UL9) | [Nyusha](https://open.spotify.com/artist/4GieO2JjiJOxc7m53YFjza), [Artem Kacher](https://open.spotify.com/artist/2XaHngr3ql0L2nrJC8PSwY) | [Между нами \(Ice Lyrical Version\)](https://open.spotify.com/album/0ztRJunw2tGm9inc8zaO1y) | 3:43 |
 | 150 | [17h](https://open.spotify.com/track/24SBLKhtIv7wEAlXct7mNu) | [Malket](https://open.spotify.com/artist/4SniWApo3km8jt2PVMnyEK) | [17h](https://open.spotify.com/album/0groCpwC87L58ocN0SsLh9) | 3:38 |
 
-Snapshot ID: `MTY2MjYzNTEwNCwwMDAwMDAwMDAwOTllMDA3MTZhMDk1MGExOWU3Yjc4NGM0N2VkMWUz`
+Snapshot ID: `MTY2MjYzNTEwNCwwMDAwMDAwMDliOWVmMTdmNTdiZmQ3NTFiMGFjMDk5NjY0NWJjMjY4`

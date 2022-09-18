@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35X4JNyBWtb.md) - [plain]
 
 > Need to get your energy level up?
 
-[Spotify](https://open.spotify.com/user/spotify) - 505,821 likes - 150 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 506,269 likes - 150 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,7 +110,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35X4JNyBWtb.md) - [plain]
 | 100 | [I'm Just Feelin' \(Du Du Du\)](https://open.spotify.com/track/73ThEGwF5i9GrsXXGyZBRa) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB) | [I'm Just Feelin' \(Du Du Du\)](https://open.spotify.com/album/73TbTmEjh6VgGCjz7ichnB) | 2:44 |
 | 101 | [Body Back \(feat\. Maia Wright\)](https://open.spotify.com/track/57DJaoHdeeRrg7MWthNnee) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Maia Wright](https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk) | [Gravity](https://open.spotify.com/album/2IAVHJdaRPFA6MQqXHoG75) | 3:34 |
 | 102 | [Can't Come To The Phone](https://open.spotify.com/track/0I5pVidtNjNXeaqHnwhrva) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [Amber Van Day](https://open.spotify.com/artist/6NFRBhq9SmNn1FAiRs9AEf), [N.F.I](https://open.spotify.com/artist/1UmSNiqXtkwAXtzdejWypd) | [Can't Come To The Phone](https://open.spotify.com/album/1ABAfouWvWYsUinSXR2B6H) | 2:55 |
-| 103 | [Love Myself \- KREAM Remix](https://open.spotify.com/track/0Qydhjycb5IFm02W6zJ2Tn) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F), [Daniel Slettebakken](https://open.spotify.com/artist/4eoiPzNc0jrpNf3YAtYe1L), [Ian Spurrier](https://open.spotify.com/artist/7iwj95h4rLKDyJO8w1LHRM), [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [Love Myself \(Remixes\)](https://open.spotify.com/album/5l8kcjMNlOAjrkit7Uuc1x) | 3:41 |
+| 103 | [Love Myself \- KREAM Remix](https://open.spotify.com/track/0Qydhjycb5IFm02W6zJ2Tn) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F), [Ian Spurrier](https://open.spotify.com/artist/7iwj95h4rLKDyJO8w1LHRM) | [Love Myself \(Remixes\)](https://open.spotify.com/album/5l8kcjMNlOAjrkit7Uuc1x) | 3:41 |
 | 104 | [I'm Blue \- Club Mix](https://open.spotify.com/track/0P5lXk4fg0682IgDyK7GFM) | [Kush Kush](https://open.spotify.com/artist/5P4P6G0pubLi65R3zRnSCf) | [I'm Blue \(Club Mixes\)](https://open.spotify.com/album/785itgCjNtYOiRpu1SIDoo) | 2:30 |
 | 105 | [Squid Game \(Let's Play\)](https://open.spotify.com/track/75pquWTQ3292AqzMsaik85) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Squid Game \(Let's Play\)](https://open.spotify.com/album/6GfaV1ScYZDulSDfOET0tk) | 2:32 |
 | 106 | [Lullaby](https://open.spotify.com/track/0DhkTGjEaIHaSxTfC14BFm) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7) | [Lullaby](https://open.spotify.com/album/2Y5NgR5CQJeqAz5iYN5agm) | 2:40 |

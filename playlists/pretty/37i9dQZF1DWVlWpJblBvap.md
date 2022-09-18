@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlWpJblBvap.md) - [plain]
 
 > Majestic and bold, these new and known worship songs are great for every day\.  Cover artist: <a href="https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8/">Jesus Culture</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 429,240 likes - 80 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 429,433 likes - 80 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,10 +35,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlWpJblBvap.md) - [plain]
 | 25 | [Tremble \- Live](https://open.spotify.com/track/35GACeX8Zl55jp29xFbvvo) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [Glory & Wonder](https://open.spotify.com/album/3jUPCgNSi7C875PNjsbUTU) | 5:09 |
 | 26 | [RATTLE! \(Live\)](https://open.spotify.com/track/6fdglWE2qycjtz0JlW94HW) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Graves Into Gardens \(Live\)](https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6) | 7:12 |
 | 27 | [Glorious Day \- Live](https://open.spotify.com/track/3QhL4eWBVv64IycG3i9XTb) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Worthy Of Your Name \(Live\)](https://open.spotify.com/album/3rUt1I70rJMfDWpbLwi7sK) | 4:58 |
-| 28 | [How Can It Be](https://open.spotify.com/track/27wkiHSSNOB0TyfXzNziaD) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [How Can It Be](https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu) | 4:19 |
-| 29 | [Rescue Story](https://open.spotify.com/track/0P0IfSuzTC6bLUsHjmDuvW) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Rescue Story](https://open.spotify.com/album/4TlLYmspdNdUAIitDn3WEk) | 3:57 |
+| 28 | [Way Maker](https://open.spotify.com/track/3f8HOaPL4LogzDsuMr9Nu4) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3) | [Way Maker](https://open.spotify.com/album/4KU1pPxzikIozkfEYR58Jx) | 4:02 |
+| 29 | [How Can It Be](https://open.spotify.com/track/27wkiHSSNOB0TyfXzNziaD) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [How Can It Be](https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu) | 4:19 |
 | 30 | [No Longer Slaves \(Spontaneous\) \- Live](https://open.spotify.com/track/584GnCDcDhRV6R8iZ7gzxC) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jonathan David Helser](https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp), [Melissa Helser](https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r) | [We Will Not Be Shaken \(Live\)](https://open.spotify.com/album/2e3CuXNmlLd5d8OoI2naop) | 6:13 |
-| 31 | [Way Maker](https://open.spotify.com/track/3f8HOaPL4LogzDsuMr9Nu4) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3) | [Way Maker](https://open.spotify.com/album/4KU1pPxzikIozkfEYR58Jx) | 4:02 |
+| 31 | [Rescue Story](https://open.spotify.com/track/0P0IfSuzTC6bLUsHjmDuvW) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Rescue Story](https://open.spotify.com/album/4TlLYmspdNdUAIitDn3WEk) | 3:57 |
 | 32 | [Great Are You Lord](https://open.spotify.com/track/2YgtXx9OVBOzja9Fckb4FY) | [one sonic society](https://open.spotify.com/artist/2PmYKBQgsjegT3k5C6pkqW) | [Great Are You Lord EP](https://open.spotify.com/album/6tjfwXYxnJoPABI2V2PPbf) | 3:52 |
 | 33 | [Here as in Heaven](https://open.spotify.com/track/0fPwregqch9wLJj4yQH6Bk) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Here As In Heaven](https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF) | 8:19 |
 | 34 | [The Lion and the Lamb](https://open.spotify.com/track/2FJYXPlTmFPAjTwPS1bMnw) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Beautiful Offerings \(Deluxe Edition\)](https://open.spotify.com/album/1nS9azUwohxTProO6cTEMc) | 5:06 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlWpJblBvap.md) - [plain]
 | 79 | [King of My Heart](https://open.spotify.com/track/4HBXdr8LXB22UPBi191b6S) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek), [Sarah McMillan](https://open.spotify.com/artist/1taeI8pm5kXswB7L4603Tz) | [You Are the Avalanche](https://open.spotify.com/album/21t1ObaaRvRIRRrF1bwlhw) | 4:55 |
 | 80 | [Just Be](https://open.spotify.com/track/65O1Ry1edYOixyVOCXXY7R) | [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Just Be](https://open.spotify.com/album/3HHaO3Bpaf6UEt225M55Us) | 4:33 |
 
-Snapshot ID: `MTYxMDY5MTkzNSwwMDAwMDAwMDFjOTMwZDBlMTZjOTkzNDAwNzA2ZGExYjYzZjQ1ODhm`
+Snapshot ID: `MTYxMDY5MTkzNSwwMDAwMDAwMDQ2ODc0Nzk5ZWI2ODk5ZjdkYjcyNmMzNzdkNTVmM2Fi`

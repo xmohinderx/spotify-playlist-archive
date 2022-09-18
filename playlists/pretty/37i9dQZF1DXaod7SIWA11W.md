@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 
 > Get lifted by the waves of faith\-infused music\.  Cover:  Jonathan McReynolds
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,166 likes - 85 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,284 likes - 85 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 | 42 | [Supernatural](https://open.spotify.com/track/56Q2OtRzToYHKxU9p6XWsn) | [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy) | [The End.](https://open.spotify.com/album/04pUvZNdQT3sT8jJ7Iulwr) | 2:20 |
 | 43 | [GREAT IS YOUR FAITHFULNESS](https://open.spotify.com/track/45V70jBntSAcbk24Uga5mJ) | [TEMITOPE](https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25) | [GREAT IS YOUR FAITHFULNESS](https://open.spotify.com/album/5g9BTtL5emqVUXlzhWrjGM) | 4:11 |
 | 44 | [Anymore](https://open.spotify.com/track/53UsR0RJ4hiOJkseK82wes) | [The WRLDFMS Tony Williams](https://open.spotify.com/artist/6TTVdg5UOUHsyiYPHgxLaq), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Anymore](https://open.spotify.com/album/6A7f7h4Jqk80zRZFZ3atWw) | 3:52 |
-| 45 | [Get Up](https://open.spotify.com/track/5r3afYPAvNdqVpMfsHm6qS) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Get Up](https://open.spotify.com/album/7HHLL2T8rdwV1T8Tzw4CLi) | 6:02 |
-| 46 | [World On Fire \(feat\. Ryan Avery\)](https://open.spotify.com/track/5prMdiyfZQz4mpusWW8HNy) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Ryan Avery](https://open.spotify.com/artist/4auBKSXLD4GLUiA9zh1vFS) | [World On Fire \(feat\. Ryan Avery\)](https://open.spotify.com/album/2xWbI2DYwO25IrmsJf7LDu) | 3:03 |
-| 47 | [Easy!](https://open.spotify.com/track/3rNxrZ0TjoWsPrEZW4kONj) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Bridge Music](https://open.spotify.com/artist/2dlCuzBPpSIeyY4ZCJBKGS), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Easy!](https://open.spotify.com/album/1gT3Q7Av72uP0WSRaS8RlU) | 2:45 |
+| 45 | [World On Fire \(feat\. Ryan Avery\)](https://open.spotify.com/track/5prMdiyfZQz4mpusWW8HNy) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Ryan Avery](https://open.spotify.com/artist/4auBKSXLD4GLUiA9zh1vFS) | [World On Fire \(feat\. Ryan Avery\)](https://open.spotify.com/album/2xWbI2DYwO25IrmsJf7LDu) | 3:03 |
+| 46 | [Easy!](https://open.spotify.com/track/3rNxrZ0TjoWsPrEZW4kONj) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Bridge Music](https://open.spotify.com/artist/2dlCuzBPpSIeyY4ZCJBKGS), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Easy!](https://open.spotify.com/album/1gT3Q7Av72uP0WSRaS8RlU) | 2:45 |
+| 47 | [Get Up](https://open.spotify.com/track/5r3afYPAvNdqVpMfsHm6qS) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Get Up](https://open.spotify.com/album/7HHLL2T8rdwV1T8Tzw4CLi) | 6:02 |
 | 48 | [Something Has To Break \(feat\. Karen Clark Sheard\)](https://open.spotify.com/track/59YIAjAePBFjRRcJIpdn0K) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Karen Clark Sheard](https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1) | [Something Has To Break \(feat\. Karen Clark Sheard\)](https://open.spotify.com/album/6uRvS7BE7GbZh9xNMMVCqn) | 5:47 |
 | 49 | [Hard Times \(feat\. Mali Music\)](https://open.spotify.com/track/3rFbsLHao2fghAslf30Qmm) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [Mali Music](https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY) | [Hard Times \(feat\. Mali Music\)](https://open.spotify.com/album/25hqQNi8mhRfP34y9dKvD0) | 3:25 |
 | 50 | [Lift Me Again \- Acoustic](https://open.spotify.com/track/0Zbq6RYkNYNjjWMpGeXLXv) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Lift Me Again \(Acoustic\)](https://open.spotify.com/album/6TzaybZjKwUT66xT15yhWR) | 3:36 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 | 73 | [Who?](https://open.spotify.com/track/0L5eYwDd5OwRmoRkeMrkbL) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [Who?](https://open.spotify.com/album/17edQSfcZhL56obIskbP2I) | 3:31 |
 | 74 | [I Was Loved](https://open.spotify.com/track/1bVIWSmlFhGU5pAjY7weXM) | [Davy Flowers](https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU) | [I Was Loved](https://open.spotify.com/album/6vky6IC6laXzH5ZViLAJ68) | 4:41 |
 | 75 | [Stay Here](https://open.spotify.com/track/6mL8VhVRDTW0KBByMD0TTo) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Stay Here](https://open.spotify.com/album/1TskaKoRAEdH7vsxINxS9o) | 3:16 |
-| 76 | [Black As Heaven](https://open.spotify.com/track/2A39ETlkPGtIKmQT5F2nDo) | [Sho Baraka](https://open.spotify.com/artist/3dpswct31rsudWf8ZASWZe), [Mag44](https://open.spotify.com/artist/0j5CGslS41MUjK6uekSHZU) | [Black As Heaven](https://open.spotify.com/album/2Dh5SVSE4omZnFNxZ2vbnp) | 3:37 |
-| 77 | [God of Dreams](https://open.spotify.com/track/6OD33offEicVtdSPeqh2UN) | [Adia](https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt) | [God of Dreams](https://open.spotify.com/album/7AyJ6DJld2Dff5BZoCTgf0) | 2:41 |
+| 76 | [God of Dreams](https://open.spotify.com/track/6OD33offEicVtdSPeqh2UN) | [Adia](https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt) | [God of Dreams](https://open.spotify.com/album/7AyJ6DJld2Dff5BZoCTgf0) | 2:41 |
+| 77 | [Black As Heaven](https://open.spotify.com/track/2A39ETlkPGtIKmQT5F2nDo) | [Sho Baraka](https://open.spotify.com/artist/3dpswct31rsudWf8ZASWZe), [Mag44](https://open.spotify.com/artist/0j5CGslS41MUjK6uekSHZU) | [Black As Heaven](https://open.spotify.com/album/2Dh5SVSE4omZnFNxZ2vbnp) | 3:37 |
 | 78 | [Motive](https://open.spotify.com/track/3Sxbmguh06sHGiOedKYCqY) | [Kennis Clark](https://open.spotify.com/artist/3f0rz7vcRwXDBjkbBkkmSs) | [Motive](https://open.spotify.com/album/6BwDhZVaF5BiXi9pLnP8rH) | 2:42 |
 | 79 | [Be Real](https://open.spotify.com/track/3IyDfQUM8Dvk67b0hO6or9) | [Battz](https://open.spotify.com/artist/1l528yNr0Jpv2dqg4r06kI) | [Be Real](https://open.spotify.com/album/6zv0299GsEbWGWSnQAXi8x) | 2:27 |
 | 80 | [CELEBRATE](https://open.spotify.com/track/21LvTVPTfwMOu7gPLJ1fd6) | [Mystro Productions](https://open.spotify.com/artist/3xPvqSwcmpA8ytvPa9oskQ) | [CELEBRATE](https://open.spotify.com/album/0CxfDSY6xqyagbrgAYWPJ3) | 3:44 |
@@ -92,6 +92,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 | 82 | [Holy Ground](https://open.spotify.com/track/58xUB4HoZJmcUsc7h4xy4I) | [Caleb Carroll](https://open.spotify.com/artist/6mZAjse1AXySWlMyGIxzqf) | [The Word](https://open.spotify.com/album/3dQX4vUMkTnsUxWee3rZ4n) | 3:37 |
 | 83 | [I Am Loved](https://open.spotify.com/track/0vo4Ls8OV3D85CvkXiJKlO) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Royce Lovett](https://open.spotify.com/artist/4BKyFlbGn3XvEAXQi3QR9N) | [Unproduced: We Out Here](https://open.spotify.com/album/29gKx60TaRweRfptUVm4BZ) | 4:35 |
 | 84 | [Black Reconstruction](https://open.spotify.com/track/0lbpGauOZfYxbRk3Y0onnY) | [Propaganda](https://open.spotify.com/artist/7wGizTRCLYwsLnTuCBbJ6t), [Sho Baraka](https://open.spotify.com/artist/3dpswct31rsudWf8ZASWZe), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Juneteenth: Faith & Freedom \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2NI0e8jehopq2DfA3KTZeZ) | 4:00 |
-| 85 | [Bounty](https://open.spotify.com/track/69pC0FHQlUTuYSxAkKxvGb) | [Paul the Messenger](https://open.spotify.com/artist/2UbUpUm5AVacCH9eYrIkPD) | [Bounty](https://open.spotify.com/album/5d5dXAc2WAwAzLEWEYrJ7h) | 3:30 |
+| 85 | [Where Do We Go?](https://open.spotify.com/track/1l1RKCVgp6qn4UNpgasHhY) | [Sho Baraka](https://open.spotify.com/artist/3dpswct31rsudWf8ZASWZe) | [Where Do We Go?](https://open.spotify.com/album/0GV40hHjZG1GAxk05U2H0m) | 3:34 |
 
-Snapshot ID: `MTY2MjE2Nzg5MiwwMDAwMDAwMGM2ZDgxYzgzNGI3MmFhOWEwOWRhN2RiYzBhZDU5YTdi`
+Snapshot ID: `MTY2MjE2Nzg5MiwwMDAwMDAwMDcyMzhmYTM4M2UxZTFmYjgzYmVkNTYwNDIzYjdlZjZh`

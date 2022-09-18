@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 
 > 日本の女性アーティストの歌を特集。cover: aiko
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,686 likes - 100 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,726 likes - 100 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 95 | [透明なガール \-Dye me\- \(feat\. ひかり\)](https://open.spotify.com/track/3MddMYGS4fdkcRnkFbz2PM) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [透明なガール \-Dye me\- \(feat\. ひかり\)](https://open.spotify.com/album/0dJVYEeg3RoLXPcUcpVatv) | 3:29 |
 | 96 | [酸欠少女](https://open.spotify.com/track/2RZXA7qGu9Ei3iNpKhv4TP) | [Sayuri](https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz) | [酸欠少女](https://open.spotify.com/album/7wULgwMQk3K8FdcYqCKVlO) | 4:08 |
 | 97 | [S.S.S.](https://open.spotify.com/track/48f0KSnaKBBM4v5Uo3NWKN) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [S.S.S.](https://open.spotify.com/album/6r7gBmCDMCHc0C61Jgm74X) | 3:21 |
-| 98 | [穴空きの空](https://open.spotify.com/track/6jc77ebub9mX2uqELoF5Hh) | [adieu](https://open.spotify.com/artist/18tXnGJKmrSwXynnxWHy3Y) | [穴空きの空](https://open.spotify.com/album/3lMML0Z6akQ8iIuHk61r8h) | 4:06 |
-| 99 | [Life Road](https://open.spotify.com/track/6B0h9SeRiGdT5dDgSwJXbT) | [LOZAREENA](https://open.spotify.com/artist/5lRAsaQysYDBzpa1CT0qwV) | [Life Road](https://open.spotify.com/album/4F5sszXsMnqUUYGwpfcOj9) | 3:32 |
-| 100 | [ラッキー・ドライブ](https://open.spotify.com/track/2YgT34Ztg37oBspiPey1ho) | [Gimgigam](https://open.spotify.com/artist/1LHF7KKnogex2qYTumsGiY), [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK) | [ラッキー・ドライブ](https://open.spotify.com/album/0M1Ss4ejW5LB3ZllXxNEuh) | 3:28 |
+| 98 | [Who are you ?](https://open.spotify.com/track/5BbgSQt406V1N0G3S7sYWs) | [Liza](https://open.spotify.com/artist/2lt6QQR32fKGBooeTvd2wd), [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [Who are you ?](https://open.spotify.com/album/1itmOBTEkREB9z5WCRRfJX) | 2:56 |
+| 99 | [穴空きの空](https://open.spotify.com/track/6jc77ebub9mX2uqELoF5Hh) | [adieu](https://open.spotify.com/artist/18tXnGJKmrSwXynnxWHy3Y) | [穴空きの空](https://open.spotify.com/album/3lMML0Z6akQ8iIuHk61r8h) | 4:06 |
+| 100 | [Life Road](https://open.spotify.com/track/6B0h9SeRiGdT5dDgSwJXbT) | [LOZAREENA](https://open.spotify.com/artist/5lRAsaQysYDBzpa1CT0qwV) | [Life Road](https://open.spotify.com/album/4F5sszXsMnqUUYGwpfcOj9) | 3:32 |
 
-Snapshot ID: `MTY2MzI1NDAwMCwwMDAwMDAwMDVhZDgwMDA2ZDA2YTU4ODAzMGI1NmU4YzQ3MWM0MDU2`
+Snapshot ID: `MTY2MzI1NDAwMCwwMDAwMDAwMDA0ODYwNTcyNzk2NWM1ZTI4NzRjOWNjZTM4NWExMjcw`

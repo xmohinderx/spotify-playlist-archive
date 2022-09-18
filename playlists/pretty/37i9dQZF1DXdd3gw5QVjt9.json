@@ -1,12 +1,12 @@
 {
   "description": "Rise with a relaxing blend of folk and acoustic.",
-  "num_followers": 1221370,
+  "num_followers": 1221402,
   "original_name": "Morning Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTIyMjA4MywwMDAwMDAwMDhhZmNmZDE3MDlmOWY4MmIzZmQ2NDYyNjNjZGM1ZjRm",
+  "snapshot_id": "MTY1NTIyMjA4MywwMDAwMDAwMDdkZjVjYjdhNWM4NWFkMWYyZTNjOTY0NmVmMGM5YWQ4",
   "tracks": [
     {
       "added_at": "2022-06-14 15:34:50",
@@ -331,38 +331,6 @@
     {
       "added_at": "2022-06-14 15:34:50",
       "album": {
-        "name": "Sad Hunk",
-        "url": "https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br"
-      },
-      "artists": [
-        {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        }
-      ],
-      "duration_ms": 144186,
-      "name": "Half Your Love",
-      "url": "https://open.spotify.com/track/0ut7f4KB9sZQ8uhA4HyOMt"
-    },
-    {
-      "added_at": "2022-06-14 15:34:50",
-      "album": {
-        "name": "Southeastern",
-        "url": "https://open.spotify.com/album/1bg476ZQn7hmcXaU05SHV4"
-      },
-      "artists": [
-        {
-          "name": "Jason Isbell",
-          "url": "https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY"
-        }
-      ],
-      "duration_ms": 293973,
-      "name": "Cover Me Up",
-      "url": "https://open.spotify.com/track/5qW6ZYct54PhKliCntyxRX"
-    },
-    {
-      "added_at": "2022-06-14 15:34:50",
-      "album": {
         "name": "songs",
         "url": "https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ"
       },
@@ -379,6 +347,22 @@
     {
       "added_at": "2022-06-14 15:34:50",
       "album": {
+        "name": "Sad Hunk",
+        "url": "https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        }
+      ],
+      "duration_ms": 144186,
+      "name": "Half Your Love",
+      "url": "https://open.spotify.com/track/0ut7f4KB9sZQ8uhA4HyOMt"
+    },
+    {
+      "added_at": "2022-06-14 15:34:50",
+      "album": {
         "name": "Woodgate, NY",
         "url": "https://open.spotify.com/album/4HCiNoFBb2vFvySaSW2JBs"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 214335,
       "name": "From Gold",
       "url": "https://open.spotify.com/track/3ePd4K8tcdfr7KmbuOTrKK"
+    },
+    {
+      "added_at": "2022-06-14 15:34:50",
+      "album": {
+        "name": "Southeastern",
+        "url": "https://open.spotify.com/album/1bg476ZQn7hmcXaU05SHV4"
+      },
+      "artists": [
+        {
+          "name": "Jason Isbell",
+          "url": "https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY"
+        }
+      ],
+      "duration_ms": 293973,
+      "name": "Cover Me Up",
+      "url": "https://open.spotify.com/track/5qW6ZYct54PhKliCntyxRX"
     },
     {
       "added_at": "2022-06-14 15:34:50",
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-06-14 15:34:50",
       "album": {
-        "name": "Doomsday",
-        "url": "https://open.spotify.com/album/5U3mu1u7g2igAERT5ZDLTF"
-      },
-      "artists": [
-        {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
-        }
-      ],
-      "duration_ms": 189506,
-      "name": "Doomsday",
-      "url": "https://open.spotify.com/track/5jxjLdZXCqZlAOCC1OHOmc"
-    },
-    {
-      "added_at": "2022-06-14 15:34:50",
-      "album": {
         "name": "All Remains",
         "url": "https://open.spotify.com/album/6duXVbHPuAjgyR5kHyoyLw"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 227279,
       "name": "Our Remains - Acoustic",
       "url": "https://open.spotify.com/track/2ojNyfX7ioBiExsxKlDC7M"
+    },
+    {
+      "added_at": "2022-06-14 15:34:50",
+      "album": {
+        "name": "Doomsday",
+        "url": "https://open.spotify.com/album/5U3mu1u7g2igAERT5ZDLTF"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "duration_ms": 189506,
+      "name": "Doomsday",
+      "url": "https://open.spotify.com/track/5jxjLdZXCqZlAOCC1OHOmc"
     },
     {
       "added_at": "2022-06-14 15:34:50",
@@ -787,6 +787,22 @@
     {
       "added_at": "2022-06-14 15:34:50",
       "album": {
+        "name": "Killer",
+        "url": "https://open.spotify.com/album/7qmlNHyFmBSZQllaVRBQq7"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 224840,
+      "name": "Steamroller",
+      "url": "https://open.spotify.com/track/5Wl4pLOHAi7MuCjhSIe6LM"
+    },
+    {
+      "added_at": "2022-06-14 15:34:50",
+      "album": {
         "name": "Rise & Fall (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4fOKz3KUUtSOSIJSWbS8MG"
       },
@@ -803,18 +819,34 @@
     {
       "added_at": "2022-06-14 15:34:50",
       "album": {
-        "name": "Killer",
-        "url": "https://open.spotify.com/album/7qmlNHyFmBSZQllaVRBQq7"
+        "name": "Holding On, Holding Out",
+        "url": "https://open.spotify.com/album/0BmHDh5DQcdfUUGzvQ3pPR"
       },
       "artists": [
         {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+          "name": "Tall Heights",
+          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
         }
       ],
-      "duration_ms": 224840,
-      "name": "Steamroller",
-      "url": "https://open.spotify.com/track/5Wl4pLOHAi7MuCjhSIe6LM"
+      "duration_ms": 218760,
+      "name": "Spirit Cold",
+      "url": "https://open.spotify.com/track/5HVHYpNllysLkUEduWKqlg"
+    },
+    {
+      "added_at": "2022-06-14 15:34:50",
+      "album": {
+        "name": "Strawberry",
+        "url": "https://open.spotify.com/album/2YnTYD0KOo8XrAQJTjnyQy"
+      },
+      "artists": [
+        {
+          "name": "Andrew Montana",
+          "url": "https://open.spotify.com/artist/05MbxRG8XyYmFhv7ZUMylc"
+        }
+      ],
+      "duration_ms": 189200,
+      "name": "Strawberry",
+      "url": "https://open.spotify.com/track/0VB2DbuUCBkDuD5ZMJxPJN"
     },
     {
       "added_at": "2022-06-14 15:34:50",
@@ -851,38 +883,6 @@
       "duration_ms": 197880,
       "name": "Lemon [Feat. Sharon Van Etten]",
       "url": "https://open.spotify.com/track/2WphjSfmTbX4wZ48SzYwaH"
-    },
-    {
-      "added_at": "2022-06-14 15:34:50",
-      "album": {
-        "name": "Strawberry",
-        "url": "https://open.spotify.com/album/2YnTYD0KOo8XrAQJTjnyQy"
-      },
-      "artists": [
-        {
-          "name": "Andrew Montana",
-          "url": "https://open.spotify.com/artist/05MbxRG8XyYmFhv7ZUMylc"
-        }
-      ],
-      "duration_ms": 189200,
-      "name": "Strawberry",
-      "url": "https://open.spotify.com/track/0VB2DbuUCBkDuD5ZMJxPJN"
-    },
-    {
-      "added_at": "2022-06-14 15:34:50",
-      "album": {
-        "name": "Holding On, Holding Out",
-        "url": "https://open.spotify.com/album/0BmHDh5DQcdfUUGzvQ3pPR"
-      },
-      "artists": [
-        {
-          "name": "Tall Heights",
-          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
-        }
-      ],
-      "duration_ms": 218760,
-      "name": "Spirit Cold",
-      "url": "https://open.spotify.com/track/5HVHYpNllysLkUEduWKqlg"
     },
     {
       "added_at": "2022-06-14 15:34:50",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2022-06-14 15:34:50",
       "album": {
-        "name": "Ordinary",
-        "url": "https://open.spotify.com/album/7woZghnU0pwffWLVWcghwr"
-      },
-      "artists": [
-        {
-          "name": "Miya Folick",
-          "url": "https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV"
-        }
-      ],
-      "duration_ms": 172480,
-      "name": "Ordinary",
-      "url": "https://open.spotify.com/track/09oN29QLxsnpcR7NynThZD"
-    },
-    {
-      "added_at": "2022-06-14 15:34:50",
-      "album": {
         "name": "Optimism",
         "url": "https://open.spotify.com/album/2LrDS8mmPcANF46XdsuUUd"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 252640,
       "name": "So Are We",
       "url": "https://open.spotify.com/track/5moyneo3TMp2wdc0TG8O8U"
+    },
+    {
+      "added_at": "2022-06-14 15:34:50",
+      "album": {
+        "name": "Ordinary",
+        "url": "https://open.spotify.com/album/7woZghnU0pwffWLVWcghwr"
+      },
+      "artists": [
+        {
+          "name": "Miya Folick",
+          "url": "https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV"
+        }
+      ],
+      "duration_ms": 172480,
+      "name": "Ordinary",
+      "url": "https://open.spotify.com/track/09oN29QLxsnpcR7NynThZD"
     },
     {
       "added_at": "2022-06-14 15:34:50",

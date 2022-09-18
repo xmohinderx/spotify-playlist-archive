@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9dy0tcoQft.md) - [plain]
 
 > Add some sweet soul music to your dinner\. Cover: Celeste.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,089 likes - 65 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,100 likes - 65 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,15 +56,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9dy0tcoQft.md) - [plain]
 | 46 | [Thank You](https://open.spotify.com/track/2VilPVzji1pAdkmujzRenI) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [Thank You](https://open.spotify.com/album/5F8qu8ssVOXCU7Hdu7x7Jb) | 3:24 |
 | 47 | [Slow Cooker](https://open.spotify.com/track/4hVk7SMLCJ72CEfycSBvWT) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Bigger Love](https://open.spotify.com/album/7BRuKFs9BFuba9TlMs2ZLd) | 4:22 |
 | 48 | [Good People](https://open.spotify.com/track/7j95Sbh2IwxyCn512XSUue) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Good People](https://open.spotify.com/album/1bv8ZKWesoZtYkz4liyRyJ) | 3:31 |
-| 49 | [Waterfall](https://open.spotify.com/track/7lH5ojd6UtoTW6kKQCXdZm) | [Camo Columbo](https://open.spotify.com/artist/4PEjxQciyHLViBRsOmbrYm) | [Waterfall](https://open.spotify.com/album/7kFYzxYZnuuAU6ufNkTo4e) | 2:46 |
-| 50 | [Loving You](https://open.spotify.com/track/7IjkvqOM9CHGbzmdTUSym1) | [Joshua J](https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l) | [Loving You](https://open.spotify.com/album/6jPxo5X8PDJCaDcvqVSeNC) | 3:48 |
+| 49 | [Loving You](https://open.spotify.com/track/7IjkvqOM9CHGbzmdTUSym1) | [Joshua J](https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l) | [Loving You](https://open.spotify.com/album/6jPxo5X8PDJCaDcvqVSeNC) | 3:48 |
+| 50 | [Waterfall](https://open.spotify.com/track/7lH5ojd6UtoTW6kKQCXdZm) | [Camo Columbo](https://open.spotify.com/artist/4PEjxQciyHLViBRsOmbrYm) | [Waterfall](https://open.spotify.com/album/7kFYzxYZnuuAU6ufNkTo4e) | 2:46 |
 | 51 | [Be My Muse \- Gold Edit](https://open.spotify.com/track/4XXDiBwLlGnNZYzWfsSh4i) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7), [Skinshape](https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe) | [ICARUS](https://open.spotify.com/album/4yxCgggQz3WMhbDJnfq77p) | 3:18 |
 | 52 | [Mad World](https://open.spotify.com/track/6OUXAJOrEgIEnmlN5kH72F) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Origin \(Deluxe Edition\)](https://open.spotify.com/album/6vlatUhYlcoUkMfNIvmtLE) | 3:15 |
 | 53 | [This Is The Day \- Full Band Version](https://open.spotify.com/track/75E9k76b255fUk9iSUqkG9) | [Mamas Gun](https://open.spotify.com/artist/09bP40OuEV5tOM1rQnZNxI) | [This Is The Day \(Full Band Version\)](https://open.spotify.com/album/6HIzNiydjxIffCg5TGxwBj) | 4:42 |
 | 54 | [Hopeful](https://open.spotify.com/track/6aU0EuAfSTb1FC1V8YJ0DV) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [Hopeful](https://open.spotify.com/album/53jDVUiYTI5UpC7DGeJrdz) | 5:16 |
 | 55 | [Skin](https://open.spotify.com/track/5nz0KE3qltISzUI9v5qPoh) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Skin](https://open.spotify.com/album/6lUCT1qB82RuUgawuWvlO6) | 2:58 |
-| 56 | [Pieces](https://open.spotify.com/track/3ebeQDcmkINL0z2G5f2vQ8) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Pieces](https://open.spotify.com/album/2VI86hd45OqHeDDzVhCkLa) | 3:43 |
-| 57 | [Never Compare](https://open.spotify.com/track/0pYZTaQQkoCvrwWfSm06yM) | [Savine](https://open.spotify.com/artist/7n0hWtsxPEDc5ZjuKvbybc) | [Never Compare](https://open.spotify.com/album/5bbIWUjCwwxvwAujZ8u26I) | 4:27 |
+| 56 | [Never Compare](https://open.spotify.com/track/0pYZTaQQkoCvrwWfSm06yM) | [Savine](https://open.spotify.com/artist/7n0hWtsxPEDc5ZjuKvbybc) | [Never Compare](https://open.spotify.com/album/5bbIWUjCwwxvwAujZ8u26I) | 4:27 |
+| 57 | [Pieces](https://open.spotify.com/track/3ebeQDcmkINL0z2G5f2vQ8) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Pieces](https://open.spotify.com/album/2VI86hd45OqHeDDzVhCkLa) | 3:43 |
 | 58 | [Near Enough A Woman](https://open.spotify.com/track/1ncO5CMaYySNsnOrBXuFYd) | [otta](https://open.spotify.com/artist/2c04R4WjyZyi1qiRLPhpsO) | [Near Enough A Woman](https://open.spotify.com/album/3L341kxmBXonqWSRNLPLCT) | 3:34 |
 | 59 | [Preaching To The Choir](https://open.spotify.com/track/3DKzKLzJcMtPQvSEaoX62t) | [Nona](https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb) | [Nona](https://open.spotify.com/album/2U5a0Ayv1HAjUiR866Z5tB) | 3:30 |
 | 60 | [9](https://open.spotify.com/track/2Lel4FPH7lwvWZv24c9Gj6) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Adi Oasis](https://open.spotify.com/album/06VfMuXIFM7QLs5ZIW0KYZ) | 4:31 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9dy0tcoQft.md) - [plain]
 | 64 | [Stay](https://open.spotify.com/track/6v0IFEV2M37sXSCuQMEBnj) | [Kartell](https://open.spotify.com/artist/3E4UsjXgFv2GdwshMkkJze), [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH) | [Stay](https://open.spotify.com/album/3LrU1Dgrr3aVsT7GWOGPGW) | 3:14 |
 | 65 | [Sanctuary](https://open.spotify.com/track/09PnjJyhIkjYcMzV835Wfx) | [K.ZIA](https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY) | [Sanctuary](https://open.spotify.com/album/2ncuFWULnAaGrdwHpDnt9E) | 3:04 |
 
-Snapshot ID: `MTY2MzA4NjAxNiwwMDAwMDAwMGE4MGRmZmMwMTYyODdkMzcyMTAwODNiNTZiY2JjOGE4`
+Snapshot ID: `MTY2MzA4NjAxNiwwMDAwMDAwMGM2MWFkMTJiZTdlZGJiYzBjYTcxNGE1MGUwYWU5NDEy`

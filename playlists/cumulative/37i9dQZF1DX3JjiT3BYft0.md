@@ -4,7 +4,7 @@
 
 > Music from “BanG Dream! “ series! 次世代ガールズバンドプロジェクト『BanG Dream!（バンドリ！）』公式プレイリスト。
 
-249 songs - 18 hr 13 min - [published](https://open.spotify.com/playlist/7Ikp1eJdB44De7llN3Rd4M)
+250 songs - 18 hr 17 min - [published](https://open.spotify.com/playlist/7Ikp1eJdB44De7llN3Rd4M)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [Sasanqua](https://open.spotify.com/track/3g88xBdcfAhEty0kFeFA4M) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [Sasanqua](https://open.spotify.com/album/6MrfLW4ZY0jpEDsWLVGsQv) | 3:56 | 2022-05-17 | 2022-07-16 |
 | [Sasanqua](https://open.spotify.com/track/24HSLZrewTadcmWdZFWMmZ) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [ONE OF US](https://open.spotify.com/album/2CXi2Ys7mgFksGB1vb2FOn) | 3:56 | 2022-05-17 | 2022-07-21 |
 | [Scarlet Sky](https://open.spotify.com/track/4vxOWFMPB95y3adCvuP6tP) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [Hey\-day狂騒曲\(カプリチオ\)](https://open.spotify.com/album/3ZwXTeFex0cgJWCr4zk0RN) | 3:47 | 2022-05-17 | 2022-07-28 |
-| [Shuwarin☆Dreaming](https://open.spotify.com/track/5BoibxBflNv4MzwRsjqSO8) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [Shuwarin☆Dreaming](https://open.spotify.com/album/4ZeNepkkacJVPvkDbiro78) | 3:53 | 2022-06-23 |  |
+| [Shuwarin☆Dreaming](https://open.spotify.com/track/5BoibxBflNv4MzwRsjqSO8) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [Shuwarin☆Dreaming](https://open.spotify.com/album/4ZeNepkkacJVPvkDbiro78) | 3:53 | 2022-06-23 | 2022-09-18 |
 | [Sing Alive](https://open.spotify.com/track/4LCYhSL74qYUsylodT0DNT) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [劇場版「BanG Dream! Episode of Roselia」Theme Songs Collection](https://open.spotify.com/album/77QL1Doyhto0EZpnxCbDxR) | 5:15 | 2022-05-17 | 2022-07-29 |
 | [Singing “OURS”](https://open.spotify.com/track/2PViKaspJwLIHoFSz976vR) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [劇場版「BanG Dream! Episode of Roselia」Theme Songs Collection](https://open.spotify.com/album/77QL1Doyhto0EZpnxCbDxR) | 5:16 | 2022-05-17 | 2022-07-29 |
 | [Song I am.](https://open.spotify.com/track/40EntUPer27Lm8l3Q0nd6i) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Wahl](https://open.spotify.com/album/6nk5SUZlraHzpwIPUFdI84) | 4:01 | 2022-06-23 | 2022-07-26 |
@@ -170,6 +170,7 @@
 | [えがお・シング・あ・ソング](https://open.spotify.com/track/3K25B2LGZnEOLXSMTf19ty) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [にこにこねくと!](https://open.spotify.com/album/5TVSmT5HcpQ5TxfAp8KwGF) | 4:08 | 2022-06-23 |  |
 | [えがお・シング・あ・ソング](https://open.spotify.com/track/7tjr6flf3J84xAWMVioGPX) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [えがお・シング・あ・ソング](https://open.spotify.com/album/3Wv3E9CGqGqSCIf4Fpn6jf) | 4:09 | 2022-05-17 | 2022-07-22 |
 | [おもいでイルミネーション](https://open.spotify.com/track/7qwcN9x7L6ZhkqstCXIpjK) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [にこ×にこ=ハイパースマイルパワー!](https://open.spotify.com/album/5UenLEIt08bBiAFzwL9Yk3) | 4:14 | 2022-06-23 | 2022-07-12 |
+| [きゅ\~まい\*flower](https://open.spotify.com/track/659EbdMtrJVXdQN13bgVRt) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [TITLE IDOL](https://open.spotify.com/album/40dDOmQivDb9fIraBn82i5) | 3:39 | 2022-08-30 |  |
 | [きゅ〜まい\*flower](https://open.spotify.com/track/09VlBUV2bN1Hk8KtXD59HS) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [きゅ〜まい\*flower](https://open.spotify.com/album/0hHVUOsumXqR5YJ9ueTcgx) | 3:39 | 2022-06-23 | 2022-07-28 |
 | [きらっ☆と キミフェス!](https://open.spotify.com/track/2iiluETgWgme5fGx5OhXFq) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [きらっ☆と キミフェス!](https://open.spotify.com/album/5RgYvLQbOe6akYE244N6mk) | 3:50 | 2022-06-23 | 2022-07-29 |
 | [ぎゅっDAYS♪](https://open.spotify.com/track/70tTb2mO6V8XpjhoijNsgl) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [ワクワクmeetsトリップ](https://open.spotify.com/album/4KWijoVg4ZVDStYSwRv0Lz) | 4:13 | 2022-05-17 | 2022-07-27 |

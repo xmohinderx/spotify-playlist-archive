@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3SlD0O.md) - [plain]
 
 > This is Los Traileros Del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,371 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,389 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3SlD0O.md) - [plain]
 | 23 | [En La Esquina](https://open.spotify.com/track/5e2kTy5xWpEfOAFRyLKX7M) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Abeja Reina \(Clásicos Digitalizados\)](https://open.spotify.com/album/6BnRsg4J1Y3HQsJlcrwEZi) | 3:20 |
 | 24 | [Abeja Reina \- En Vivo](https://open.spotify.com/track/3BvKPAOfOVdItJX9UOEtoN) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37), [Lalo Mora Jr.](https://open.spotify.com/artist/2GJSx6ApAz7rUALTS0CWPu) | [35 Aniversario: En Vivo Desde el Domo Care](https://open.spotify.com/album/7mmW9hGKCj290Te1XeeFMr) | 3:59 |
 | 25 | [Me Va Y Me Viene](https://open.spotify.com/track/03AwEUNvTXg0f0fwyCgr1I) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Recordando](https://open.spotify.com/album/6dOXeCoGargfF3rc3n4slP) | 2:51 |
-| 26 | [Apartamento Tres](https://open.spotify.com/track/1kDuEYiV3CfuGDoopG9fL4) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Grandes Éxitos Remezclados Y Remasterizados](https://open.spotify.com/album/3MFxr13HI3eqlPRgW5lYZw) | 2:40 |
+| 26 | [Apartamento Tres](https://open.spotify.com/track/2GMXI3Bhz9GPXMpOWLv4L3) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Apartamento Tres](https://open.spotify.com/album/1axHtpxjBiwMIxjm6AyzRR) | 2:40 |
 | 27 | [Ay Amigo!](https://open.spotify.com/track/0LR71IkOpwAt2wxYlSiFD0) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37), [Eliseo Robles Jr.](https://open.spotify.com/artist/024sMKXZ3Vd1br0b1LGyTI) | [De Festejo](https://open.spotify.com/album/6yC5ut8GXAWCY5LS5ctqh1) | 2:54 |
 | 28 | [El Conejito](https://open.spotify.com/track/6tglYfAohZzigQWwukU1T6) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Arrastrando La Cobija \(Clásicos Digitalizados\)](https://open.spotify.com/album/7oIVq1jmETB2pIjmi1x2EK) | 2:05 |
 | 29 | [Que Sepan Todos](https://open.spotify.com/track/3SCSuJUWcMkUOuxnvhzVP6) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Mas Mexicanos Que Nunca](https://open.spotify.com/album/0WmU0vKZo2Cj84Ri0J7L0M) | 3:14 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3SlD0O.md) - [plain]
 | 42 | [Quiero Besarte A La Noche](https://open.spotify.com/track/5OmsB03J9ZRlKdL9EReRuz) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Amor De Los Dos](https://open.spotify.com/album/3GQXdspUXYELLuh9lRPFN4) | 2:46 |
 | 43 | [Y Voló La Paloma](https://open.spotify.com/track/6wlTNaNVQZL6g0ydwkwLuZ) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Grandes Éxitos Remezclados Y Remasterizados](https://open.spotify.com/album/3MFxr13HI3eqlPRgW5lYZw) | 2:52 |
 | 44 | [Victimas](https://open.spotify.com/track/4p7OPAspRVLXd9mmGFYqyM) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Abeja Reina \(Clásicos Digitalizados\)](https://open.spotify.com/album/6BnRsg4J1Y3HQsJlcrwEZi) | 2:33 |
-| 45 | [Líbrame Dios](https://open.spotify.com/track/6Cx5zhrSpv6GZTxGVrFagD) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [De Festejo](https://open.spotify.com/album/6yC5ut8GXAWCY5LS5ctqh1) | 2:38 |
-| 46 | [El Corrido De Amado Carrillo](https://open.spotify.com/track/0XPviPLJvtGHBuSALz9NPY) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Corridos De Mi Tierra](https://open.spotify.com/album/0raXaTso2qdOhLbiopH14V) | 3:37 |
+| 45 | [El Corrido De Amado Carrillo](https://open.spotify.com/track/0XPviPLJvtGHBuSALz9NPY) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Corridos De Mi Tierra](https://open.spotify.com/album/0raXaTso2qdOhLbiopH14V) | 3:37 |
+| 46 | [Líbrame Dios](https://open.spotify.com/track/6Cx5zhrSpv6GZTxGVrFagD) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [De Festejo](https://open.spotify.com/album/6yC5ut8GXAWCY5LS5ctqh1) | 2:38 |
 | 47 | [La Trailerita](https://open.spotify.com/track/0GEfcDJLD7OBmEMbvYjD3f) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Rosas Blancas](https://open.spotify.com/album/0kkMx1Zhf8xMm6Lv2CySJn) | 2:31 |
-| 48 | [El Corrido De Los Pérez](https://open.spotify.com/track/2Gu9iF9fQs4gtsG4ly1F8H) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Corridos Al Estilo Diferente](https://open.spotify.com/album/5oeZmHmp8CRIc6CFUfTOWE) | 3:43 |
-| 49 | [Por Motivos de Salud](https://open.spotify.com/track/21fwsNalbCexxQKxgTY4eR) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [El Adiós](https://open.spotify.com/album/4zzIZntIdoZ0bKy4GOqmjQ) | 3:30 |
+| 48 | [Por Motivos de Salud](https://open.spotify.com/track/21fwsNalbCexxQKxgTY4eR) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [El Adiós](https://open.spotify.com/album/4zzIZntIdoZ0bKy4GOqmjQ) | 3:30 |
+| 49 | [El Corrido De Los Pérez](https://open.spotify.com/track/2Gu9iF9fQs4gtsG4ly1F8H) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Corridos Al Estilo Diferente](https://open.spotify.com/album/5oeZmHmp8CRIc6CFUfTOWE) | 3:43 |
 | 50 | [Mudo Por Tu Amor](https://open.spotify.com/track/0zItQwc6k71g0smaBjrng1) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Palabras Tristes](https://open.spotify.com/album/5AZuEf75Kcau9PQOR88PLo) | 2:20 |
 
-Snapshot ID: `Mjc3MjIyMzMsMDAwMDAwMDAxNGMxNDU4ZGU3ZjBkMGVjODM1MDY4MzJhYTljYmJmZg==`
+Snapshot ID: `Mjc3MjM2OTIsMDAwMDAwMDA4MDk2OTY5M2IxZTM4MmNlNzRhZWRkMzBkYzBkYTc2Mw==`

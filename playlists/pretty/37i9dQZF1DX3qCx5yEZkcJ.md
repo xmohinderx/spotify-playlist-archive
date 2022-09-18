@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,485,276 likes - 80 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,485,284 likes - 80 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 | 61 | [Dream In \- TiMT Remix](https://open.spotify.com/track/7yA5bPUdlZnsEdVqhBqJFs) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9), [TiMT](https://open.spotify.com/artist/6JavWK8JRQbZ3oX9nrkSyb) | [Fantastic Farewell \(2021 Remastered\)](https://open.spotify.com/album/5gPfWZNREhMcI8qWUBR7Ts) | 2:59 |
 | 62 | [In A Dream](https://open.spotify.com/track/6pURCbgUBnUcthAErdm0aM) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [In A Dream](https://open.spotify.com/album/2K0RE4gN9kZzlzrrQZZo4y) | 2:39 |
 | 63 | [Tiny Grains of Guilt](https://open.spotify.com/track/1Z1bRmfWuEvdyUoE5EcRbJ) | [Handbook](https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk) | [Tiny Grains of Guilt](https://open.spotify.com/album/4qeXkFfco3khEnrmb0LXXP) | 2:04 |
-| 64 | [Far Out](https://open.spotify.com/track/2crQWI8jYzwflThvDAcKyj) | [Joe Nora](https://open.spotify.com/artist/2ShIqcIbteAk5jwdZzF2NZ), [G Mills](https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N) | [Far Out](https://open.spotify.com/album/3vbGdnRuTBfaVyqOZdx0Ux) | 2:33 |
-| 65 | [waves](https://open.spotify.com/track/02G1y3EpKhZMwf3T65S4GA) | [n o r m a l](https://open.spotify.com/artist/299YwUx9tIS10VkkAujnMt) | [Dimensions](https://open.spotify.com/album/3oV0KdeMivBcS79KwTU4zw) | 2:15 |
+| 64 | [waves](https://open.spotify.com/track/02G1y3EpKhZMwf3T65S4GA) | [n o r m a l](https://open.spotify.com/artist/299YwUx9tIS10VkkAujnMt) | [Dimensions](https://open.spotify.com/album/3oV0KdeMivBcS79KwTU4zw) | 2:15 |
+| 65 | [Far Out](https://open.spotify.com/track/2crQWI8jYzwflThvDAcKyj) | [Joe Nora](https://open.spotify.com/artist/2ShIqcIbteAk5jwdZzF2NZ), [G Mills](https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N) | [Far Out](https://open.spotify.com/album/3vbGdnRuTBfaVyqOZdx0Ux) | 2:33 |
 | 66 | [Win the Lottery](https://open.spotify.com/track/2sGf6pQ73JyfTfSkSLLQfM) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [181's penny candy store \#7](https://open.spotify.com/album/2DU5c1qHqSKxAMoZig9SLd) | 3:06 |
 | 67 | [Recuring Dream](https://open.spotify.com/track/6dB6YYgBOPtzt37Fa0M8Eh) | [Elaquent](https://open.spotify.com/artist/14rl122F3uMCloqdEVV9WL) | [The Scenic Route](https://open.spotify.com/album/7wbY6nhgh48vz5QGOGJDEo) | 2:53 |
 | 68 | [Fogào Love](https://open.spotify.com/track/6MchsyWFhj6EAiD1nY0y5J) | [FLKS](https://open.spotify.com/artist/0su9f9WdmaeYFON6XEaXb0), [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10) | [Fogào Love](https://open.spotify.com/album/4Xjr5RmALk2CSpiXlY1gmi) | 1:44 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 | 79 | [Love Letter](https://open.spotify.com/track/6SEzAZ2Uq0h5oncDuRRxTZ) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80) | [High Jazz](https://open.spotify.com/album/1DdWGJ2V6GhO6cgaBx9WNj) | 1:56 |
 | 80 | [D's Swing](https://open.spotify.com/track/2S9rmVlkNTktxi1cOeQNIS) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [D's Swing](https://open.spotify.com/album/7wSOkWVleE8uGAYPGJAWRj) | 3:38 |
 
-Snapshot ID: `MTY2MTQzOTYwMCwwMDAwMDAwMGRkZmVhMGZlODhmNDUwZWEwN2Y1ODQwN2ZiMTJjZWZi`
+Snapshot ID: `MTY2MTQzOTYwMCwwMDAwMDAwMDJhNjdlNWZjNWNmZTI1YjBmMjg5NDlkM2E4YmYyODVk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with the all the drops\. Cover: Daya
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,762 likes - 77 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,728 likes - 77 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 8 | [From The Ashes \(with Skylar Grey\)](https://open.spotify.com/track/3bEkAkaKjxaC7DubsfCo1t) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV) | [From The Ashes \(with Skylar Grey\)](https://open.spotify.com/album/3VH8ly1obBbFxSJodod4eD) | 4:13 |
 | 9 | [Frankenstein](https://open.spotify.com/track/4nYUJ36Qj9hIY9mKj8QZFF) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hold The Girl](https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS) | 3:12 |
 | 10 | [Heartstrings](https://open.spotify.com/track/6Qv3OWGNixqEobRC5vM0Bp) | [M\-22](https://open.spotify.com/artist/4WFtYn5RyU8VGPpPyW9Pxw), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Heartstrings](https://open.spotify.com/album/6Zf2UCQdYaRfR5pFXQAl90) | 3:31 |
-| 11 | [Power \(Remember Who You Are\) \- From The Flipper’s Skate Heist Short Film](https://open.spotify.com/track/7vQYsdVQMbB8d8DSxtHSgr) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [Power \(Remember Who You Are\) \[From The Flipper’s Skate Heist Short Film\]](https://open.spotify.com/album/0U8rhl69WPOU67DqFhjPaq) | 3:25 |
+| 11 | [Power \(Remember Who You Are\) \- From The Flipper’s Skate Heist Short Film](https://open.spotify.com/track/7vQYsdVQMbB8d8DSxtHSgr) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Power \(Remember Who You Are\) \[From The Flipper’s Skate Heist Short Film\]](https://open.spotify.com/album/0U8rhl69WPOU67DqFhjPaq) | 3:25 |
 | 12 | [Deeper](https://open.spotify.com/track/67HkdtQ3y89725CNHZ2oHt) | [Amari](https://open.spotify.com/artist/7oUBfJfNM6Fh0pO5EdbM6P) | [Deeper](https://open.spotify.com/album/2kJhDwtK0JKXfp4mWKsec1) | 2:41 |
 | 13 | [B.O.T.A\. \(Baddest Of Them All\) \- Edit](https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [B.O.T.A\. \(Baddest Of Them All\)](https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK) | 3:46 |
 | 14 | [Less I Know](https://open.spotify.com/track/1piIGIhnGRiXQ360hhh8Mr) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [NOTED...EP](https://open.spotify.com/album/6AMjHESQyOiW52JfQC8PEm) | 2:46 |

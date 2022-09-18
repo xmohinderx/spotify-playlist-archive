@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Zelos Wong 黃凱逸
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,296 likes - 92 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,304 likes - 92 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [晚泣](https://open.spotify.com/track/0wkABgvnW5lDz51bCQW1tW) | [Zelos Wong 黃凱逸](https://open.spotify.com/artist/7q8BUwEEDO6iayv3AUq9bv) | [晚泣](https://open.spotify.com/album/2UUWast6pyZ7awtCNLumvz) | 4:26 |
-| 2 | [buzzcut](https://open.spotify.com/track/5uzelqnup22nD2CwxUQGIU) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [buzzcut](https://open.spotify.com/album/4FHh7OcRS13Whv41NW30ux) | 2:34 |
+| 2 | [buzz cut](https://open.spotify.com/track/5uzelqnup22nD2CwxUQGIU) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [buzz cut](https://open.spotify.com/album/4FHh7OcRS13Whv41NW30ux) | 2:34 |
 | 3 | [This Is Our Time](https://open.spotify.com/track/53gylyBSKjTAlYQx2OBMol) | [KALAI 家麗](https://open.spotify.com/artist/1TwAmYMVhBwnBdNVKCHsOT) | [This Is Our Time](https://open.spotify.com/album/43glLAVF68qBfkxbGn6LRZ) | 3:12 |
 | 4 | [i love u](https://open.spotify.com/track/5y5JrAfwqYDoVrXfv532W4) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [i love u](https://open.spotify.com/album/4np08DYpAtw26nV2UUX47D) | 3:34 |
 | 5 | [Harbor](https://open.spotify.com/track/49ZfLsBNfvKMu7J8Vqm9VE) | [Kelvin T](https://open.spotify.com/artist/5eKocRaHaAoxtdSAL1zDyT), [Takeem](https://open.spotify.com/artist/7xfeo24u8goKQRhKRj6MP1) | [Synthetic](https://open.spotify.com/album/07wiHViuoo1UnSl1AjKjFk) | 2:30 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Rl8uES4jYu.md) - [plain]
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,364 likes - 80 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,390 likes - 80 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,14 +79,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Rl8uES4jYu.md) - [plain]
 | 69 | [Sunset Drive \- A COLORS SHOW](https://open.spotify.com/track/6LAG03Nr7qRvPSdmrPC5JF) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Sunset Drive \- A COLORS SHOW](https://open.spotify.com/album/24tiks2kEOLQV4JcE45h74) | 3:13 |
 | 70 | [Get Down! \(Before You Lose Control\)](https://open.spotify.com/track/3NwKYzeIdX1g73L3dXkySB) | [Mocky](https://open.spotify.com/artist/2oofDquWt9tMCETKAHmhlG), [Nia Andrews](https://open.spotify.com/artist/39MJrBGpjji0zkoEgcBtTt) | [Get Down! \(Before You Lose Control\)](https://open.spotify.com/album/3N7ROCIovtTOmU3fyxWuLm) | 3:24 |
 | 71 | [Tango](https://open.spotify.com/track/36H4R9Ai9UD9oPE5bb7p2m) | [Onyx Collective](https://open.spotify.com/artist/2Bgj9IzoI7ASgjBkQttakf) | [Tango](https://open.spotify.com/album/4MHpFObESLtJVZ2vLJbf7Y) | 5:04 |
-| 72 | [Lost & Alive](https://open.spotify.com/track/5x2BKKfwtydW0HO6NgH2Pi) | [Swatkins](https://open.spotify.com/artist/0HnF3y5xRlNr6eGQmFZgjP), [Moorea Masa & the Mood](https://open.spotify.com/artist/4Hs0J7IFJzXGJLhnytbCfR) | [Lost & Alive](https://open.spotify.com/album/6DKdIrezZM0dA2zC8KrAPP) | 3:01 |
-| 73 | [Monica](https://open.spotify.com/track/0bXnX6oozY4qDbNTBqdJwe) | [Brasstracks](https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr), [Rothstein](https://open.spotify.com/artist/0Qta34kIeeonfyC692s5b8) | [Dreamboat](https://open.spotify.com/album/2923kCvLK48x4Yy8Abqw29) | 3:07 |
+| 72 | [Monica](https://open.spotify.com/track/0bXnX6oozY4qDbNTBqdJwe) | [Brasstracks](https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr), [Rothstein](https://open.spotify.com/artist/0Qta34kIeeonfyC692s5b8) | [Dreamboat](https://open.spotify.com/album/2923kCvLK48x4Yy8Abqw29) | 3:07 |
+| 73 | [Lost & Alive](https://open.spotify.com/track/5x2BKKfwtydW0HO6NgH2Pi) | [Swatkins](https://open.spotify.com/artist/0HnF3y5xRlNr6eGQmFZgjP), [Moorea Masa & the Mood](https://open.spotify.com/artist/4Hs0J7IFJzXGJLhnytbCfR) | [Lost & Alive](https://open.spotify.com/album/6DKdIrezZM0dA2zC8KrAPP) | 3:01 |
 | 74 | [All Day Long](https://open.spotify.com/track/2D3JB5Bs5ut4czq9Xt3PA3) | [Mega](https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg) | [All Day Long](https://open.spotify.com/album/2HktzXlF3iNo6C0uQ3vP9Z) | 2:49 |
 | 75 | [People People](https://open.spotify.com/track/4xOOBxljutpqUOfWxbmIR6) | [Just Jack](https://open.spotify.com/artist/2KT0mSAPvd9PreXYCiVfVO) | [People People](https://open.spotify.com/album/6AdhgefWLxvq89hIRKeRRn) | 3:56 |
 | 76 | [Run Away](https://open.spotify.com/track/4WEsRq6qDqJdH7nAkmKevM) | [Luc de la Croixx](https://open.spotify.com/artist/3xasg3zEnbW9CnFNT5VL59), [Stevedreez](https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE), [SATICA](https://open.spotify.com/artist/1cD70wZHi8HMyLYVDSV9We) | [Run Away](https://open.spotify.com/album/2pBy32Q6pHJbDheTy6Ao7s) | 3:04 |
 | 77 | [Space and Time](https://open.spotify.com/track/4V5rRfySgxrUbUz4ZvbcI4) | [Tasha Angela](https://open.spotify.com/artist/55icKM7WkjXWnyfvCTlqbk) | [Space and Time](https://open.spotify.com/album/5mTbBJkYvytrLD7xoEcw4n) | 3:32 |
 | 78 | [You Gotta Respect Yourself!](https://open.spotify.com/track/4cJiGpB3ucbvuN5F8wwXLb) | [Dylan Chambers](https://open.spotify.com/artist/2jP4GO0BDgY15BqUcUVhG9), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [You Gotta Respect Yourself!](https://open.spotify.com/album/1iHoBVCieyC3vOQA6RZkvd) | 3:11 |
-| 79 | [Moonwalking](https://open.spotify.com/track/0ghnwFrfblAPwGxsNlasOd) | [Renao](https://open.spotify.com/artist/1rg7cCiRd1SEUz8zGwOnM2) | [Moonwalking](https://open.spotify.com/album/2uR5RuNR0KypxPYNjF5JXK) | 3:01 |
-| 80 | [Overthinking](https://open.spotify.com/track/1fWCiAD2ZRN9LNdpzYwQo0) | [HARLOE](https://open.spotify.com/artist/6iyadmF41vqU7NnBaVabfL), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Overthinking](https://open.spotify.com/album/2SLw9BV4zJ2wRVKOPVYBDm) | 4:01 |
+| 79 | [Overthinking](https://open.spotify.com/track/1fWCiAD2ZRN9LNdpzYwQo0) | [HARLOE](https://open.spotify.com/artist/6iyadmF41vqU7NnBaVabfL), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Overthinking](https://open.spotify.com/album/2SLw9BV4zJ2wRVKOPVYBDm) | 4:01 |
+| 80 | [Good Time](https://open.spotify.com/track/4UiovBMIFb0EwICzNzvh0h) | [Anthony Ramos](https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse) | [Good Time](https://open.spotify.com/album/3CkPs129sbs0ZHfKYELc7V) | 2:46 |
 
-Snapshot ID: `MTY2MjY5NjAwMCwwMDAwMDAwMGJjYWQ2NmIyNjNiNjdlODg0ZTY3ZjUyMDZkNjVkMmMw`
+Snapshot ID: `MTY2MjY5NjAwMCwwMDAwMDAwMGU5MjlhYjMyYjllYTM2OGFlMTZlYzA4ZjY0YTAwNjZh`

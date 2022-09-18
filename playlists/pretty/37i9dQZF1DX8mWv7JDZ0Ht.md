@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 
 > Sucessos e novidades do pop calminho pra relaxar o seu dia! Foto: Sandy, Ludmilla
 
-[Spotify](https://open.spotify.com/user/spotify) - 406,109 likes - 85 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 406,204 likes - 85 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,9 +80,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 70 | [Amor de Liquidificador](https://open.spotify.com/track/52R4PTY20KvlXSeyhNSfte) | [duogram](https://open.spotify.com/artist/3fuNvXraxWHImqMp0jfQ8Y) | [Amor de Liquidificador](https://open.spotify.com/album/59m9JgIeX1Fa3mmxqTrV04) | 2:50 |
 | 71 | [48K Apresenta \#1: Ex\-Amor](https://open.spotify.com/track/0S9vWGG4Ywb93Krl6do2QD) | [48k](https://open.spotify.com/artist/607zxx4kUoATMyFz7FahmI), [Sabrina Lopes](https://open.spotify.com/artist/70p8zOZeaAh5bskcL0dCtH), [MAR ABERTO](https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO) | [48K Apresenta \#1: Ex\-Amor](https://open.spotify.com/album/08RqGivsIeiXzUq2yhAOF7) | 4:04 |
 | 72 | [Melhor Forma](https://open.spotify.com/track/4LX6iqSAIIQPdpy3L9PZpr) | [Tayla Duarte](https://open.spotify.com/artist/3Uw5WlCi6laD8Wn9CBc3lY), [Arielly Porto](https://open.spotify.com/artist/0L6X54dt5wVN8arWfyN1v1) | [Melhor Forma](https://open.spotify.com/album/2qL2huOv6H8Yz3rUaxW5c9) | 2:24 |
-| 73 | [Tá Difícil Entender](https://open.spotify.com/track/7ykfm9VGxKAjdqFh9yh4Od) | [Dudu Pacceli](https://open.spotify.com/artist/5O6LBBltqS4jHn90iy85Bj), [Victor de Albuquerque](https://open.spotify.com/artist/5HJapWQnaATkzrc8UGlKgD), [jay](https://open.spotify.com/artist/2gqq586gzI7e78XfL1Px3m) | [Tá Difícil Entender](https://open.spotify.com/album/4BO1RnFXPHscnuoLtcp5Vq) | 2:30 |
-| 74 | [Um Pouco Mais](https://open.spotify.com/track/0E1ZqVJQeRembqvvniCS7E) | [Bruna Magalhães](https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p) | [Bruna Magalhães](https://open.spotify.com/album/4EgPhNp6NjZ7Q7Wt8tvvPf) | 3:01 |
-| 75 | [Covarde](https://open.spotify.com/track/6mJLcOjvv8z21kN8ItpDfU) | [Sabrina Lopes](https://open.spotify.com/artist/70p8zOZeaAh5bskcL0dCtH) | [Covarde](https://open.spotify.com/album/2xS5QlKE0pmnurwbh0EppL) | 3:15 |
+| 73 | [Covarde](https://open.spotify.com/track/6mJLcOjvv8z21kN8ItpDfU) | [Sabrina Lopes](https://open.spotify.com/artist/70p8zOZeaAh5bskcL0dCtH) | [Covarde](https://open.spotify.com/album/2xS5QlKE0pmnurwbh0EppL) | 3:15 |
+| 74 | [Tá Difícil Entender](https://open.spotify.com/track/7ykfm9VGxKAjdqFh9yh4Od) | [Dudu Pacceli](https://open.spotify.com/artist/5O6LBBltqS4jHn90iy85Bj), [Victor de Albuquerque](https://open.spotify.com/artist/5HJapWQnaATkzrc8UGlKgD), [jay](https://open.spotify.com/artist/2gqq586gzI7e78XfL1Px3m) | [Tá Difícil Entender](https://open.spotify.com/album/4BO1RnFXPHscnuoLtcp5Vq) | 2:30 |
+| 75 | [Um Pouco Mais](https://open.spotify.com/track/0E1ZqVJQeRembqvvniCS7E) | [Bruna Magalhães](https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p) | [Bruna Magalhães](https://open.spotify.com/album/4EgPhNp6NjZ7Q7Wt8tvvPf) | 3:01 |
 | 76 | [Música para Recomeços](https://open.spotify.com/track/2W5aFc2XGAt4AEH3ZY7427) | [Kell Smith](https://open.spotify.com/artist/74WDLxBsm1TLxV6WVwD994) | [Música para Recomeços](https://open.spotify.com/album/0AKpFm7l7y3GiZk0POcVq4) | 2:58 |
 | 77 | [Água Salgada](https://open.spotify.com/track/1tUjU4JjmJL2EdW7EZUEVI) | [Benziê](https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH) | [Água Salgada](https://open.spotify.com/album/0nRhDifni5GuqrOQgzaluv) | 3:21 |
 | 78 | [Adoro Amar Você](https://open.spotify.com/track/1Epc5aVhjQLAfF0tZJnDAZ) | [Daniel](https://open.spotify.com/artist/2wwWukJBsCikjlj7vlbQkM), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Adoro Amar Você](https://open.spotify.com/album/0dMtLl7Qgizyv3ry7MaZVl) | 4:33 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 84 | [vem pra perto](https://open.spotify.com/track/1HfYw6gTSOzeCFwdEJ3fqr) | [Luana Berti](https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T) | [vem pra perto](https://open.spotify.com/album/7BTA7ELwKm8YRLpZpsG1PE) | 2:49 |
 | 85 | [MTV](https://open.spotify.com/track/33fnVp55zYGLfhWBgl2j9O) | [Aquino e a Orquestra Invisível](https://open.spotify.com/artist/52fjZORhR21B9pR9kORRTA) | [Aquino e a Orquestra Invisível](https://open.spotify.com/album/39FjAAoFhZFSZhyl63dlqe) | 2:53 |
 
-Snapshot ID: `MTY2MzI5OTg3MiwwMDAwMDAwMGFkMDRmNTVjN2RjMDc4NmVhZTBmYzUzMTMyYTQ0NWIy`
+Snapshot ID: `MTY2MzI5OTg3MiwwMDAwMDAwMGU4NTdjODgyNGE2YjRhYmQzYTA4MzIxOTMxZTkyNmZh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPpS4GmGB4L.md) - [plain]
 
 > Grab your dancing shoes and strut your stuff with these upbeat blues numbers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,791 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,841 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPpS4GmGB4L.md) - [plain]
 | 40 | [Don't Start Crying Now](https://open.spotify.com/track/3Q7RuFIaAf7iJ2sd5R0NXQ) | [Slim Harpo](https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ) | [Sings Raining In My Heart](https://open.spotify.com/album/5DqktKLSuwx51XACoKu1Hg) | 2:12 |
 | 41 | [Poor Boy](https://open.spotify.com/track/6UAPJQ5qrM5oRViQCC9sFd) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Real Folk Blues](https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0) | 2:36 |
 | 42 | [Down The Road Apiece](https://open.spotify.com/track/4aWXCY2dBDULAE9yjo7Wcq) | [Amos Milburn](https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX) | [Down The Road Apiece \-The Best Of Amos Milburn](https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp) | 2:59 |
-| 43 | [Just Your Fool](https://open.spotify.com/track/4Dxe3Y8MPu7ffNrBFPNzRL) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Essential Little Walter](https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc) | 2:24 |
-| 44 | [Midnight In Memphis](https://open.spotify.com/track/2OXDdCck0bMDIUCpaIMBJS) | [J.J\. Cale](https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN) | [The Definitive Collection](https://open.spotify.com/album/0SNxW2btAb8QBETOF43oqA) | 4:23 |
+| 43 | [Midnight In Memphis](https://open.spotify.com/track/2OXDdCck0bMDIUCpaIMBJS) | [J.J\. Cale](https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN) | [The Definitive Collection](https://open.spotify.com/album/0SNxW2btAb8QBETOF43oqA) | 4:23 |
+| 44 | [Just Your Fool](https://open.spotify.com/track/4Dxe3Y8MPu7ffNrBFPNzRL) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Essential Little Walter](https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc) | 2:24 |
 | 45 | [Shake Your Money Maker](https://open.spotify.com/track/2VxnY6jbl0SckkZp9wrNF7) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Shake Your Money Maker: The Best Of The Fire Sessions](https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu) | 2:32 |
 | 46 | [Roadhouse Blues](https://open.spotify.com/track/1dLquP9t2o2O9gUeK6JWVy) | [Blues Traveler](https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ), [Mickey Raphael](https://open.spotify.com/artist/5jEQjcWIMq4M20zoeNo19B) | [Traveler's Blues](https://open.spotify.com/album/4qZssWithmdjNIlbve7XJ3) | 4:25 |
 | 47 | [Trouble No More](https://open.spotify.com/track/3wFXuJfiiQYZquZmNnH3m6) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Chess Box](https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB) | 2:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPpS4GmGB4L.md) - [plain]
 | 49 | [Take It Back](https://open.spotify.com/track/0EBCSoTMmj0Gf0aOkZ6Hx1) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Take It Back](https://open.spotify.com/album/0gM5G6j0lWaxk1GOv0nfbL) | 5:35 |
 | 50 | [Georgia Women](https://open.spotify.com/track/6iXthXEPC9OJi9UkOZSN2g) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [Georgia Women](https://open.spotify.com/album/1Ju9SXFdTM6uvkjTdiQNAS) | 4:05 |
 
-Snapshot ID: `MTY2MzAwMDcyOSwwMDAwMDAwMDUxODBlZDg2MTVjOThlMmU2MWZiZjkxYjAwNjY0MTk5`
+Snapshot ID: `MTY2MzAwMDcyOSwwMDAwMDAwMGJhOWQ2ODg4YTI1NDkzYmQ2Yzg0YWJkY2I3MzQ5MmQ5`

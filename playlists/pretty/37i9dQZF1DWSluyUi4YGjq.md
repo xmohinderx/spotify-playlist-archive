@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 
 > A new gen of bands gazing at their pedals, while soaring celestially\-high\. Trementina on cover!
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,974 likes - 108 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,999 likes - 108 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 87 | [Dance AM](https://open.spotify.com/track/0P57tdDD56YOrjkYSpfBKS) | [Pinkshinyultrablast](https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4) | [Miserable Miracles](https://open.spotify.com/album/2ZDCgglH89doOQH4UVoM0S) | 4:32 |
 | 88 | [Heart in Your Heartbreak](https://open.spotify.com/track/5jTEWDfM9CQO7twh9a299R) | [The Pains Of Being Pure At Heart](https://open.spotify.com/artist/3zmmBJseZelpVEHj8S6Dek) | [Belong](https://open.spotify.com/album/7Hif0SCVj3oHys2QsTSWiZ) | 3:45 |
 | 89 | [Lemonade Beauty](https://open.spotify.com/track/4TJf8afJCWIvYbaEXNLGNz) | [Deafcult](https://open.spotify.com/artist/6AX5hnjYSvcjZd9IyqYPsp) | [Auras](https://open.spotify.com/album/4UFypkjsIrF88ULS3tezcq) | 4:08 |
-| 90 | [End of the Night](https://open.spotify.com/track/0QnzDELjpEoz8DkylcrlCj) | [A Place To Bury Strangers](https://open.spotify.com/artist/3kx1S2P2Qq3a9bG4DGsAjR) | [I Might Have](https://open.spotify.com/album/4Odq2mxuv8gPwzfPeY7oy2) | 5:26 |
-| 91 | [Firefly](https://open.spotify.com/track/5Fmk7akgjEpRI4vvu7CQ2m) | [Airiel](https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1), [Stella Tran](https://open.spotify.com/artist/3yETcd6deerTsw8RJDqW01) | [Winks & Kisses: Melted](https://open.spotify.com/album/3WG7osXmDwUsMt3QGNoYll) | 6:25 |
+| 90 | [Firefly](https://open.spotify.com/track/5Fmk7akgjEpRI4vvu7CQ2m) | [Airiel](https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1), [Stella Tran](https://open.spotify.com/artist/3yETcd6deerTsw8RJDqW01) | [Winks & Kisses: Melted](https://open.spotify.com/album/3WG7osXmDwUsMt3QGNoYll) | 6:25 |
+| 91 | [End of the Night](https://open.spotify.com/track/0QnzDELjpEoz8DkylcrlCj) | [A Place To Bury Strangers](https://open.spotify.com/artist/3kx1S2P2Qq3a9bG4DGsAjR) | [I Might Have](https://open.spotify.com/album/4Odq2mxuv8gPwzfPeY7oy2) | 5:26 |
 | 92 | [Junebouvier](https://open.spotify.com/track/7k5xnDnNnIlKNcNUd8Mhvu) | [Whirr](https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w) | [Pipe Dreams](https://open.spotify.com/album/4dnU5lfejwsudlezBO46oI) | 3:45 |
 | 93 | [S.W.I.M.](https://open.spotify.com/track/41qO4ILS1Gm4A1Szf25pz3) | [Midwife](https://open.spotify.com/artist/5vjIHa1u3TnOlDvVDR9qQa) | [Forever](https://open.spotify.com/album/2P71q1cH8pCpiBvQNnkZMJ) | 6:45 |
 | 94 | [Showers](https://open.spotify.com/track/5lJDgnn9Wq06dBoEdMyXuz) | [Bored at My Grandmas House](https://open.spotify.com/artist/0hQ6Js0CTBu337vggHinhk) | [Showers](https://open.spotify.com/album/2BOX9sptUqhm34flUnHuM0) | 3:40 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 107 | [Sharron Apple](https://open.spotify.com/track/7yuX2OzkFAm6eKOj2AnL1R) | [Airiel](https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1) | [Winks & Kisses: Melted](https://open.spotify.com/album/3WG7osXmDwUsMt3QGNoYll) | 6:17 |
 | 108 | [Radial](https://open.spotify.com/track/1pO7WwR4PQUS4aCQRxCG4y) | [Muted Color](https://open.spotify.com/artist/4wZ8VQ73g7CdsFdo4VXDJD) | [Radial](https://open.spotify.com/album/4LPazFPUDMRbGHODFirsKg) | 4:27 |
 
-Snapshot ID: `MTY2Mjg2ODc2MywwMDAwMDAwMDg1MThmNDNmNGQ0ODJlOTI1NDg3YTViZWE5Nzc4NjM0`
+Snapshot ID: `MTY2Mjg2ODc2MywwMDAwMDAwMDExYzljMzAzODBjMWViODgzNjA4MmNhZDhlZDQ5ZWJh`

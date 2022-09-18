@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZWYUjUMhaq0Rammqq3qu1.md) - [plain]
 
 > The best dance hits of 2022, featuring Afrojack, Martin Garrix, and more! Find all the best dance tracks here, and discover new favorites! Cover: Gryffin
 
-[digster.fm](https://open.spotify.com/user/digster.fm) - 117,580 likes - 50 songs - 2 hr 39 min
+[digster.fm](https://open.spotify.com/user/digster.fm) - 117,573 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

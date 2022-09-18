@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 
 > The best new experimental music by independent artists and labels\. Updates every Wednesday\. Cover: Cameron Morse Artwork: Thami Nabil
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,734 likes - 50 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,777 likes - 50 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,23 +40,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 30 | [Uncanny Being \(Violin Study \#2\)](https://open.spotify.com/track/3ZQWUYowGRJ6pyed7OMm5h) | [Jessica Moss](https://open.spotify.com/artist/0mXuTfa0qloI8dL4G41V5n) | [Uncanny Being \(Violin Study \#2\)](https://open.spotify.com/album/0Uf0ZJAVfCBhRhiZ7uGNKk) | 6:23 |
 | 31 | [Inori](https://open.spotify.com/track/3MXcm06AFDryFxJR7w21OP) | [Hatis Noit](https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY) | [Aura](https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52) | 8:37 |
 | 32 | [Oneness](https://open.spotify.com/track/1VSXAJlQt9KZsJcW1hkvNE) | [Teielte](https://open.spotify.com/artist/4zKoRVXYWUNUAdUYtlZirU) | [Oneness](https://open.spotify.com/album/7DGJmmGtu8zyHxfMto6G18) | 3:01 |
-| 33 | [Time Traveller](https://open.spotify.com/track/0ikN70Jj1Why1Mf3FMz61a) | [Koloah](https://open.spotify.com/artist/47h1fkAGUe9nbV8TLPYUAM) | [Time Traveller](https://open.spotify.com/album/0eCUSuz4SUP8pfPlIaSh3L) | 4:29 |
-| 34 | [Shallots](https://open.spotify.com/track/3un8NWwFpSvbN0m0JZ29da) | [Frequent](https://open.spotify.com/artist/71Q5SkUpc26h0swrRjrGEc) | [Shallots](https://open.spotify.com/album/1rKFlOuwvqORkzO0tQiyPw) | 3:41 |
-| 35 | [Carte Blanche](https://open.spotify.com/track/76NPiAAkI1o5pj0HsZ4zvt) | [Bon\-Psy](https://open.spotify.com/artist/5Vv4f9pucnXPVExpBKfBXn) | [Carte Blanche](https://open.spotify.com/album/09vQxbdKCIeapIcG72bR62) | 3:14 |
-| 36 | [Second Love](https://open.spotify.com/track/0jaYsfrSaAGb4d81qE5APl) | [Isa Gordon](https://open.spotify.com/artist/2dA8VFOWjWex4ypqqepKwH) | [For You Only](https://open.spotify.com/album/5xpcLzvU7tdIkDkRwrTEJr) | 3:02 |
+| 33 | [Shallots](https://open.spotify.com/track/3un8NWwFpSvbN0m0JZ29da) | [Frequent](https://open.spotify.com/artist/71Q5SkUpc26h0swrRjrGEc) | [Shallots](https://open.spotify.com/album/1rKFlOuwvqORkzO0tQiyPw) | 3:41 |
+| 34 | [Time Traveller](https://open.spotify.com/track/0ikN70Jj1Why1Mf3FMz61a) | [Koloah](https://open.spotify.com/artist/47h1fkAGUe9nbV8TLPYUAM) | [Time Traveller](https://open.spotify.com/album/0eCUSuz4SUP8pfPlIaSh3L) | 4:29 |
+| 35 | [Second Love](https://open.spotify.com/track/0jaYsfrSaAGb4d81qE5APl) | [Isa Gordon](https://open.spotify.com/artist/2dA8VFOWjWex4ypqqepKwH) | [For You Only](https://open.spotify.com/album/5xpcLzvU7tdIkDkRwrTEJr) | 3:02 |
+| 36 | [Carte Blanche](https://open.spotify.com/track/76NPiAAkI1o5pj0HsZ4zvt) | [Bon\-Psy](https://open.spotify.com/artist/5Vv4f9pucnXPVExpBKfBXn) | [Carte Blanche](https://open.spotify.com/album/09vQxbdKCIeapIcG72bR62) | 3:14 |
 | 37 | [Aura](https://open.spotify.com/track/3yLrFNajQckehtRDyh2FiI) | [Hatis Noit](https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY) | [Aura](https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52) | 7:17 |
 | 38 | [you're always with me](https://open.spotify.com/track/5AXa5jxDOTBTLiTdZJcjvP) | [innerinnerlife](https://open.spotify.com/artist/3SJn3wuHQGbKFT0vDKT3Yo) | [you're always with me](https://open.spotify.com/album/1AvX14kEvlBKmWAsyTM4id) | 4:08 |
 | 39 | [B3](https://open.spotify.com/track/3oL1cWdxaQR3fOY5LsscGc) | [Civilistjävel!](https://open.spotify.com/artist/3MVZ2vxkDeDuTy3cGsDuQC) | [Järnnätter](https://open.spotify.com/album/1Z7zJp7hTa04uPoQZzyTlX) | 1:14 |
 | 40 | [Revenge](https://open.spotify.com/track/3oq0aWZCAdIfc4ERvILzxm) | [Jogging House](https://open.spotify.com/artist/250gyZr9YqxIpI3UNi9yka) | [Fiber](https://open.spotify.com/album/7eggXuPYfGd9STXvugMAHj) | 7:14 |
 | 41 | [UMMA \- Arssalendo Remix](https://open.spotify.com/track/6Zdz3j652H8aYnfR4IcYK0) | [BLUEM](https://open.spotify.com/artist/1eFOTBAGM0w0SH7jnTYSd1), [Arssalendo](https://open.spotify.com/artist/54LmkGE6kI6eoaPdd6XiEd) | [UMMA \(Remix\)](https://open.spotify.com/album/2sCXqX8nII3Qk3ms7k4n9F) | 3:17 |
 | 42 | [sunflower](https://open.spotify.com/track/3JFCJBNiBsjdnihfqaLnKN) | [Otto Taimela](https://open.spotify.com/artist/2bfnN87vIJ9DhQ02kXgh44) | [it's a secret / sunflower](https://open.spotify.com/album/2rNYQwtk5VPJq9mpswLmF6) | 3:44 |
-| 43 | [A Love Supreme](https://open.spotify.com/track/6ZjiUUaTWTeKCkHZK3NBQs) | [Okada Takuro](https://open.spotify.com/artist/4d4VL0LIBWkVXAq4YZ07wm) | [Betsu No Jikan](https://open.spotify.com/album/6osbGxXryMZUWTlysq7Tcu) | 5:52 |
-| 44 | [Eve](https://open.spotify.com/track/0nFJMIWFrQQkJ8AOcAfvPf) | [Floatleaf](https://open.spotify.com/artist/6PuTsxqrk5XNswCXYWNr5r) | [Eve](https://open.spotify.com/album/6L7J405BwZ5hxM5Px7iyOe) | 3:00 |
-| 45 | [Day By Day](https://open.spotify.com/track/3tpqnJwdfTJJycsLHwUbtC) | [Stack Effect](https://open.spotify.com/artist/52xTPDMfTQEHXnBfyKQXFz) | [Pause](https://open.spotify.com/album/2hspcikJXpHWS7xeaKwvgf) | 4:49 |
+| 43 | [Eve](https://open.spotify.com/track/0nFJMIWFrQQkJ8AOcAfvPf) | [Floatleaf](https://open.spotify.com/artist/6PuTsxqrk5XNswCXYWNr5r) | [Eve](https://open.spotify.com/album/6L7J405BwZ5hxM5Px7iyOe) | 3:00 |
+| 44 | [Day By Day](https://open.spotify.com/track/3tpqnJwdfTJJycsLHwUbtC) | [Stack Effect](https://open.spotify.com/artist/52xTPDMfTQEHXnBfyKQXFz) | [Pause](https://open.spotify.com/album/2hspcikJXpHWS7xeaKwvgf) | 4:49 |
+| 45 | [A Love Supreme](https://open.spotify.com/track/6ZjiUUaTWTeKCkHZK3NBQs) | [Okada Takuro](https://open.spotify.com/artist/4d4VL0LIBWkVXAq4YZ07wm) | [Betsu No Jikan](https://open.spotify.com/album/6osbGxXryMZUWTlysq7Tcu) | 5:52 |
 | 46 | [4 Ya Kiss](https://open.spotify.com/track/1qjd5CoUbzA7CNnB06flYN) | [700 Feel](https://open.spotify.com/artist/4dyipJdNkRIUS9DrMohalV) | [4 Ya Kiss / 4 Ya Bliss](https://open.spotify.com/album/1m5Fdo7XNGZ8TunvSg948H) | 4:07 |
 | 47 | [Vertiko](https://open.spotify.com/track/7twFrkOYp45jadFfck1Jzg) | [Popp](https://open.spotify.com/artist/3g6w2ATRPWhtFCUtkDIdcp) | [Vertiko](https://open.spotify.com/album/22pnMQDpiwnQe4vq0pWobB) | 4:59 |
 | 48 | [Tema para Pequeños Pilotos Aviadores](https://open.spotify.com/track/0kxCwUht7SOKdH4lUqvJXO) | [Panoptica](https://open.spotify.com/artist/190DvOuVkHyMOK9FZIOqo8) | [Ensayo de un Sueño](https://open.spotify.com/album/3kenE4na5TWxSPOjtmASgj) | 3:37 |
 | 49 | [Wait Up](https://open.spotify.com/track/79uDI5OnWIIj4Za02naBzE) | [Gloomer](https://open.spotify.com/artist/4SifZryJ3Vo6oijPAWTYas) | [Wait Up](https://open.spotify.com/album/4ZVhySJ3eOpZtRVcg2MPDR) | 2:53 |
 | 50 | [Illogical Lullaby](https://open.spotify.com/track/7KaENU972ZBPtD1Cy2H3tc) | [Hatis Noit](https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY) | [Illogical Dance](https://open.spotify.com/album/43nUH6IPPJNtBmrmsTza8g) | 7:53 |
 
-Snapshot ID: `MTY2MzEyODAwMCwwMDAwMDAwMDA4NDFjOTM0NWU3Yjc0YWQ2ZDNjNGZmYWM4ZGFiOGQ5`
+Snapshot ID: `MTY2MzEyODAwMCwwMDAwMDAwMDY0OWE0MjU1OGQ0Njc1MTMzMTM2MTgzMjBjZWQxYTA1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pGtIaS1UoB.md) - [plain]
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,185 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,204 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pGtIaS1UoB.md) - [plain]
 | 3 | [惡作劇](https://open.spotify.com/track/643hRiTY9vzD6P0cWO8UP3) | [Tangerine Wong](https://open.spotify.com/artist/3Njp7uhQShnPMdKarS6Vsu) | [惡作劇之吻](https://open.spotify.com/album/13JpgLyP8ZDyAtsRllAaGe) | 3:46 |
 | 4 | [1022\-比尔的歌](https://open.spotify.com/track/1fXKSGhgHn8NBnVbTf5tLb) | [Bomb比尔](https://open.spotify.com/artist/3Sb1u6CGLCWHHphMqX326E) | [1022\-比尔的歌](https://open.spotify.com/album/6uPkF6GAHYNWBMpt9x3oRN) | 3:15 |
 | 5 | [今天陽光就是特別耀眼特別和諧 feat\. 韋禮安](https://open.spotify.com/track/6qnSA1GSwRtgHCqaD1jQin) | [Pets Tseng](https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w), [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [今天陽光就是特別耀眼特別和諧](https://open.spotify.com/album/2QREzTJk3ddhLIxoiLRveT) | 3:06 |
-| 6 | [你被寫在我的歌裡](https://open.spotify.com/track/7ovUSP7jWkzWR2SHptYJfd) | [Sodagreen](https://open.spotify.com/artist/3WYT2b8pOLsLsqSaoWYr7U), [Ella Chen](https://open.spotify.com/artist/1DNci4XjJlglg629j3yO5n) | [你在煩惱什麼](https://open.spotify.com/album/4GfRmbxZ3d1K05z3DWQlqa) | 4:35 |
-| 7 | [静悄悄](https://open.spotify.com/track/5PVNTW0LaOF2uino8FV0m2) | [大泫](https://open.spotify.com/artist/3mpbX209GwoScDJLVLRHk9) | [静悄悄](https://open.spotify.com/album/2HPDOJb3fpTL7AwiRLfw5L) | 3:05 |
+| 6 | [静悄悄](https://open.spotify.com/track/5PVNTW0LaOF2uino8FV0m2) | [大泫](https://open.spotify.com/artist/3mpbX209GwoScDJLVLRHk9) | [静悄悄](https://open.spotify.com/album/2HPDOJb3fpTL7AwiRLfw5L) | 3:05 |
+| 7 | [你被寫在我的歌裡](https://open.spotify.com/track/7ovUSP7jWkzWR2SHptYJfd) | [Sodagreen](https://open.spotify.com/artist/3WYT2b8pOLsLsqSaoWYr7U), [Ella Chen](https://open.spotify.com/artist/1DNci4XjJlglg629j3yO5n) | [你在煩惱什麼](https://open.spotify.com/album/4GfRmbxZ3d1K05z3DWQlqa) | 4:35 |
 | 8 | [热爱105°C的你](https://open.spotify.com/track/5RKWxItZvYY9wtKJuy2Hb7) | [A Si](https://open.spotify.com/artist/4yamiVzQPYBb02ceSu0jaI) | [热爱105°C的你](https://open.spotify.com/album/2KSk7OlWpkp6oiKXJyq4kB) | 3:15 |
 | 9 | [就是愛妳](https://open.spotify.com/track/73eCSQ1DxQbaOnzy8PhKx3) | [David Tao](https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB) | [太平盛世](https://open.spotify.com/album/1XnDRFsNxG12nZPRXNcPkU) | 4:21 |
 | 10 | [Mojito](https://open.spotify.com/track/2J42jKkwGqiRsxUYh7FMTm) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [最偉大的作品](https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa) | 3:05 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pGtIaS1UoB.md) - [plain]
 | 74 | [數到五答應我](https://open.spotify.com/track/5uWgSWwQhMcSeL21Fg6t2h) | [Gary Chaw](https://open.spotify.com/artist/1mfzcypCggFwpCJ1gmi8BK) | [格格blue](https://open.spotify.com/album/6HveSS0Oh0HQgtV1RKxgHX) | 4:29 |
 | 75 | [All Day](https://open.spotify.com/track/3GiKSXaBGNv2OoDY4rzCIL) | [五堅情WOLF\(S\) \(邱鋒澤、陳零九、黃偉晉、賴晏駒、婁峻碩\)](https://open.spotify.com/artist/7H6h9MXX9ms8IV2QGLrQSp) | [All Day](https://open.spotify.com/album/7tYX5AcNTJgfF3tRomb7pU) | 3:26 |
 
-Snapshot ID: `MTY2Mjk2NjgzOSwwMDAwMDAwMDUwYTE0ZTRkNTA3NGI2NzkwMjNkZTM0ZTg5Mjk4Mjky`
+Snapshot ID: `MTY2Mjk2NjgzOSwwMDAwMDAwMDU4OGRlZTlkMGJjMWFhNmQxOTRmY2Y3MjhjNDg2ZmZl`

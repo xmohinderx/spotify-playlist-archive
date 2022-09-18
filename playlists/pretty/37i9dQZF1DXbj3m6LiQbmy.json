@@ -1,12 +1,12 @@
 {
   "description": "Orgoglio! David Blank, Andrea Di Giovanni in cover \u2728",
-  "num_followers": 4600,
+  "num_followers": 4604,
   "original_name": "Pride Italia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY3NDQ2MCwwMDAwMDAwMDRiYjMyOTQ3OWFhYmVmMDM5YTNmOTQ5ZjJlYzFlNjRl",
+  "snapshot_id": "MTY2MjY3NDQ2MCwwMDAwMDAwMDljYTFhYWI3OWQwYThhODdhZDBkMzVjOGVkOTA2MTcz",
   "tracks": [
     {
       "added_at": "2022-09-08 22:01:00",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
+        "name": "BatBox",
+        "url": "https://open.spotify.com/album/55Natk4fqvjCMQkB8ys04q"
+      },
+      "artists": [
+        {
+          "name": "Miss Kittin",
+          "url": "https://open.spotify.com/artist/3QhNv79NoIvarU6N57GBzL"
+        }
+      ],
+      "duration_ms": 231093,
+      "name": "Kittin Is High",
+      "url": "https://open.spotify.com/track/6TgrLC5nud9cJpLI7EjzOk"
+    },
+    {
+      "added_at": "2022-09-08 22:01:00",
+      "album": {
         "name": "FUORI!!!",
         "url": "https://open.spotify.com/album/6VFWixoW1lG2MXlyPC4fRt"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 140500,
       "name": "FUORI!!!",
       "url": "https://open.spotify.com/track/3ujQOSC1tMc3sQUMppJQkK"
-    },
-    {
-      "added_at": "2022-09-08 22:01:00",
-      "album": {
-        "name": "BatBox",
-        "url": "https://open.spotify.com/album/55Natk4fqvjCMQkB8ys04q"
-      },
-      "artists": [
-        {
-          "name": "Miss Kittin",
-          "url": "https://open.spotify.com/artist/3QhNv79NoIvarU6N57GBzL"
-        }
-      ],
-      "duration_ms": 231093,
-      "name": "Kittin Is High",
-      "url": "https://open.spotify.com/track/6TgrLC5nud9cJpLI7EjzOk"
     },
     {
       "added_at": "2022-09-08 22:01:00",
@@ -1255,18 +1255,22 @@
     {
       "added_at": "2022-09-08 22:01:00",
       "album": {
-        "name": "Superomantico",
-        "url": "https://open.spotify.com/album/2qm8ah9gWku9E64JX3Rfsa"
+        "name": "Blue Songs",
+        "url": "https://open.spotify.com/album/07DoR2BYZ3bApdUCpjf38P"
       },
       "artists": [
         {
-          "name": "Vergo",
-          "url": "https://open.spotify.com/artist/7fsXUIISzDuylzbl7ogr9y"
+          "name": "Hercules & Love Affair",
+          "url": "https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W"
+        },
+        {
+          "name": "Aerea Negrot",
+          "url": "https://open.spotify.com/artist/4ix8eWGATi2Ot5ZmWITDaJ"
         }
       ],
-      "duration_ms": 161302,
-      "name": "Superomantico",
-      "url": "https://open.spotify.com/track/5pLNesqAvfl7ioKe60UDUI"
+      "duration_ms": 363986,
+      "name": "Painted Eyes - Original Mix",
+      "url": "https://open.spotify.com/track/7Aaig6TQeCjY6vjy9TlsCw"
     },
     {
       "added_at": "2022-09-08 22:01:00",

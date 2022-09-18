@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3IcblQ.md) - [plain]
 
 > This is Pennywise\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,007 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,028 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3IcblQ.md) - [plain]
 | 13 | [Broken \- 2005 Remaster](https://open.spotify.com/track/1aCHRP1jfEyooKGnHdwkdD) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Full Circle \(2005 Remaster\)](https://open.spotify.com/album/0QX9rRHnywYqgvnWQyOykU) | 2:46 |
 | 14 | [My God](https://open.spotify.com/track/4dJfBTMmCIfHmzqaj8Or7L) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Land Of The Free?](https://open.spotify.com/album/6oEh869vJQY1QdfZlVQ0ly) | 2:48 |
 | 15 | [Every Single Day \- 2005 Remaster](https://open.spotify.com/track/0MRea0TwPACBtXpUXMLXV3) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [About Time \(2005 Remaster\)](https://open.spotify.com/album/2MyjkvQLos52FxpyHJZsfE) | 2:40 |
-| 16 | [Unknown Road \- 2005 Remaster](https://open.spotify.com/track/2QNZCGAZsyBoaldiSxLp2C) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Unknown Road \(2005 Remaster\)](https://open.spotify.com/album/0l680tJFfovpGiaaFC6a4H) | 2:44 |
-| 17 | [Rules \- 2005 Remaster](https://open.spotify.com/track/767rObQPgUNryNEu7HBnqq) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Pennywise \(2005 Remaster\)](https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt) | 1:25 |
+| 16 | [Rules \- 2005 Remaster](https://open.spotify.com/track/767rObQPgUNryNEu7HBnqq) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Pennywise \(2005 Remaster\)](https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt) | 1:25 |
+| 17 | [Unknown Road \- 2005 Remaster](https://open.spotify.com/track/2QNZCGAZsyBoaldiSxLp2C) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Unknown Road \(2005 Remaster\)](https://open.spotify.com/album/0l680tJFfovpGiaaFC6a4H) | 2:44 |
 | 18 | [Victim of Reality](https://open.spotify.com/track/5O3Kccz6xJrec6zkduyhnU) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Straight Ahead](https://open.spotify.com/album/03ScC00zLbzJ5GrVp6Y5M1) | 2:28 |
 | 19 | [Same Old Story \- 2005 Remaster](https://open.spotify.com/track/0MzZh977KEwxcqgs7lPAGJ) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [About Time \(2005 Remaster\)](https://open.spotify.com/album/2MyjkvQLos52FxpyHJZsfE) | 2:42 |
 | 20 | [Date With Destiny \- 2005 Remaster](https://open.spotify.com/track/4yVw3NIv9RTBRM6TQnv6fo) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Full Circle \(2005 Remaster\)](https://open.spotify.com/album/0QX9rRHnywYqgvnWQyOykU) | 2:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3IcblQ.md) - [plain]
 | 49 | [It's Up To Me \- 2005 Remaster](https://open.spotify.com/track/2K6a1zQRxVh7lvvNf3gSCR) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Unknown Road \(2005 Remaster\)](https://open.spotify.com/album/0l680tJFfovpGiaaFC6a4H) | 3:16 |
 | 50 | [God Save the USA](https://open.spotify.com/track/2PiMdxlSvrZMskW7fkHeRr) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [From The Ashes](https://open.spotify.com/album/5jChldYJR4f1K3gkSd9Isg) | 3:06 |
 
-Snapshot ID: `Mjc3MjIyMzMsMDAwMDAwMDA0NGUxMDNkZDUzNzYwMDA1ZTdiOGNiYmFhZWViNDhiNA==`
+Snapshot ID: `Mjc3MjM2OTIsMDAwMDAwMDA0MDA3MjBhZjc3ZmJhZjFiMzliYTI1OWZiNjhkMGFmMw==`

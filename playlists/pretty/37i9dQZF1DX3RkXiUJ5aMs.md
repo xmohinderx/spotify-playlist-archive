@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RkXiUJ5aMs.md) - [plain]
 
 > A collection of inspired songs about life and the love of the father.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,662 likes - 65 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,666 likes - 65 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Before You Ask Her](https://open.spotify.com/track/5WkaAZBjzu9b032Zd6jHPz) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [Before You Ask Her](https://open.spotify.com/album/3PqgiZxdVoPEFVnE9mA8PZ) | 3:21 |
 | 2 | [Good Good Father](https://open.spotify.com/track/3i7ZOuSmoKYSgLQuohMcig) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Good Good Father](https://open.spotify.com/album/5HsnubJcvi5bNAC3pyV64a) | 4:20 |
 | 3 | [Cinderella](https://open.spotify.com/track/1oj4KLsbYhvfHFnhdb3twP) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot) | [This Moment \(Cinderella Edition\)](https://open.spotify.com/album/7HAomGpaAjuPCEbuMevOlP) | 4:25 |
-| 4 | [Father](https://open.spotify.com/track/2nCQq02bOLS65hfOZt8J4D) | [Joshua Luke Smith](https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A), [Wild Sons](https://open.spotify.com/artist/1lF0dM3992TbNu7BCTURkk) | [Father](https://open.spotify.com/album/4GeDiiBBSKGuszqUUh1R0H) | 3:48 |
+| 4 | [Father](https://open.spotify.com/track/5IR5Bi1nL7h0C0BuEnuoLl) | [Joshua Luke Smith](https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A), [Wild Sons](https://open.spotify.com/artist/1lF0dM3992TbNu7BCTURkk) | [Father](https://open.spotify.com/album/5LhlgmewVgxyWbYUfGxk9b) | 3:48 |
 | 5 | [Yours](https://open.spotify.com/track/0dDfRzgpIgO3RyAF7wSRvl) | [Courtnie Ramirez](https://open.spotify.com/artist/2nWAWrpwIjcyfaGfeZ13qW) | [Yours](https://open.spotify.com/album/5YuxMRTy3dQRjBRbqTKvW6) | 4:09 |
 | 6 | [Anything Like Me](https://open.spotify.com/track/2FGGvxPrVkpJ3lNZQfottL) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [American Saturday Night](https://open.spotify.com/album/0GCQzPEkcFv8bR90sJf41x) | 4:13 |
 | 7 | [How He Loves](https://open.spotify.com/track/6WSFMa721PvfnspCRsGOMh) | [David Crowder Band](https://open.spotify.com/artist/7DhP3bGT7dzr1dCkkH5mTS) | [Church Music](https://open.spotify.com/album/69UXabkBHbKMJ0DQjctXtK) | 5:18 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RkXiUJ5aMs.md) - [plain]
 | 64 | [I Still Believe in That](https://open.spotify.com/track/4x80O7HhUzxec2hAgWdvQ8) | [Ash Bowers](https://open.spotify.com/artist/2aJsgmclt9joQMsHMffCBr) | [I Still Believe in That](https://open.spotify.com/album/0u3WForpl37yjNBo7gllCa) | 3:26 |
 | 65 | [Stealing Cinderella](https://open.spotify.com/track/0Pvbr31U9bjdvUUNGNFnQJ) | [Chuck Wicks](https://open.spotify.com/artist/696fbyLHSMBSYjDrDU5yiK) | [Stealing Cinderella](https://open.spotify.com/album/1tlxI1SGhyybdGhG15ByTT) | 4:02 |
 
-Snapshot ID: `MTY1NDkwMzEyOSwwMDAwMDAwMGJjMjFiMTRkYmJlMDUzYzdkYTI2ZWE4NjI4NWFjMzBm`
+Snapshot ID: `MTY1NDkwMzEyOSwwMDAwMDAwMDgyYmMzNTFkNGViYWRjM2MyYjdkZjU4MDRkNDU0MjNm`

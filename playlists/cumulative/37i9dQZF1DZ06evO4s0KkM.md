@@ -4,11 +4,12 @@
 
 > This is Dropkick Murphys\. The essential tracks, all in one playlist.
 
-50 songs - 2 hr 40 min - not published yet
+51 songs - 2 hr 43 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Alcohol](https://open.spotify.com/track/2jj45amiDA6KzRrs830H3h) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Singles Collection Vol\. 2](https://open.spotify.com/album/1S7FQvutnvemp9eHsvGpxJ) | 1:54 | 2022-09-16 |  |
+| [All You Fonies](https://open.spotify.com/track/5nMAPIuIxezwDgaeklUG07) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [All You Fonies](https://open.spotify.com/album/7wEv3shDfmxmPucrVDZgfE) | 2:49 | 2022-09-17 |  |
 | [Amazing Grace](https://open.spotify.com/track/7IABmPLWB1FEQckIPgl0oA) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Gang's All Here](https://open.spotify.com/album/7wxC9iVmZ4ecJCh9rChMyy) | 2:38 | 2022-09-16 |  |
 | [Barroom Hero](https://open.spotify.com/track/0kVyKxg7SMIB3NnduRdo6n) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Do Or Die](https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk) | 2:57 | 2022-09-16 |  |
 | [Blood](https://open.spotify.com/track/33MzDklgMtP9OSgtSS1p9x) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [11 Short Stories of Pain & Glory](https://open.spotify.com/album/2x8e1IYd6eaQzAi7X2oRMB) | 4:01 | 2022-09-16 |  |
@@ -50,7 +51,7 @@
 | [The Spicy McHaggis Jig](https://open.spotify.com/track/3Xw3UzQjdIWMuHvkOjOL8Q) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Sing Loud, Sing Proud](https://open.spotify.com/album/6nSdfegzGY00ZxQbWheM1K) | 3:27 | 2022-09-16 |  |
 | [The State of Massachusetts](https://open.spotify.com/track/7b7mtUwxYqTCPsxBvfzbd2) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Meanest of Times](https://open.spotify.com/album/6jGmS4aaYHvyRhKzACeQij) | 3:54 | 2022-09-16 |  |
 | [The Warrior's Code](https://open.spotify.com/track/6ivzLSDw82LpxXfToyb0He) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Warrior's Code](https://open.spotify.com/album/2sZGDqHfU884z3iFris122) | 2:31 | 2022-09-16 |  |
-| [The Wild Rover](https://open.spotify.com/track/3uDLaYtWx06MofPrKrljNW) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Sing Loud, Sing Proud](https://open.spotify.com/album/6nSdfegzGY00ZxQbWheM1K) | 3:25 | 2022-09-16 |  |
+| [The Wild Rover](https://open.spotify.com/track/3uDLaYtWx06MofPrKrljNW) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Sing Loud, Sing Proud](https://open.spotify.com/album/6nSdfegzGY00ZxQbWheM1K) | 3:25 | 2022-09-16 | 2022-09-18 |
 | [Time To Go](https://open.spotify.com/track/543QuFu0LhPpbIVdrACJd9) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Blackout](https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza) | 2:53 | 2022-09-16 |  |
 | [Turn Up That Dial](https://open.spotify.com/track/42ef8hFlFvRtMYTEelfiTm) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Turn Up That Dial \(Expanded Edition\)](https://open.spotify.com/album/7izrrrhMXbgAk5OEECRTu8) | 3:42 | 2022-09-16 |  |
 | [Two 6's Upside Down](https://open.spotify.com/track/33OFWa8o5rf99TIDEIslQG) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Two 6's Upside Down](https://open.spotify.com/album/1dhXWQIfmP8VH74NPsr4g5) | 3:29 | 2022-09-16 |  |

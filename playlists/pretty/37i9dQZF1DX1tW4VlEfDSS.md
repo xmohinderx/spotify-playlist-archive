@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 
 > A feel\-good soulful house  and disco selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,033 likes - 60 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,068 likes - 60 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 | 41 | [Come Back](https://open.spotify.com/track/1l0MYkKzmFoBzlS9iZmvAu) | [NIMMO](https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl) | [Come Back](https://open.spotify.com/album/1cXkPZuXwZLqHZdGBlKgWi) | 4:37 |
 | 42 | [Disco Hearts](https://open.spotify.com/track/5XZgARVFrnVsMThGk0CFTl) | [Illyus & Barrientos](https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C), [Laura Davie](https://open.spotify.com/artist/6M3bolFum1y8rBbrubby1f) | [Disco Hearts](https://open.spotify.com/album/6Vo4WqFrhsw3syolQR4nAg) | 3:01 |
 | 43 | [Love the Way \(Happiness\)](https://open.spotify.com/track/1okhlrAG0YsKTx9PpPprXv) | [Mojjo](https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j), [Meca](https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ), [LUISAH](https://open.spotify.com/artist/2jbmRtqNLORtXQWb8s9RFG) | [Love the Way \(Happiness\)](https://open.spotify.com/album/4qCfn7HrbThJdvhzh66g8R) | 3:35 |
-| 44 | [Riviera](https://open.spotify.com/track/5fR1gKyVaQOFsUe9XWz6Pg) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl) | [Riviera](https://open.spotify.com/album/0Mx39nltkydoVI9Z7jpFAZ) | 3:32 |
-| 45 | [Living on Video \- Claptone Remix](https://open.spotify.com/track/2c8WUPaH87mh35xf8i0SwG) | [Trans\-X](https://open.spotify.com/artist/4JyfkCTV9FO5Yipee3f9EI), [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [Living on Video \(Claptone Remix\)](https://open.spotify.com/album/1KXL9ctFWXGDPEAPCx5Qbp) | 3:34 |
+| 44 | [Living on Video \- Claptone Remix](https://open.spotify.com/track/2c8WUPaH87mh35xf8i0SwG) | [Trans\-X](https://open.spotify.com/artist/4JyfkCTV9FO5Yipee3f9EI), [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [Living on Video \(Claptone Remix\)](https://open.spotify.com/album/1KXL9ctFWXGDPEAPCx5Qbp) | 3:34 |
+| 45 | [Riviera](https://open.spotify.com/track/5fR1gKyVaQOFsUe9XWz6Pg) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl) | [Riviera](https://open.spotify.com/album/0Mx39nltkydoVI9Z7jpFAZ) | 3:32 |
 | 46 | [Rescue Me](https://open.spotify.com/track/4KwWLMzhw4tA3hFCiMfhlB) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Rescue Me](https://open.spotify.com/album/22GaT6kKhz98n3GRieuXte) | 2:27 |
 | 47 | [It’s Alright](https://open.spotify.com/track/3yilgLESv6zoBnGPsRM7Qh) | [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz), [George Smeddles](https://open.spotify.com/artist/5HT6hDqzq0B7EFlokN0hK2), [Paris Brightledge](https://open.spotify.com/artist/0qYaFWcuXTF2AsQ49N6Kul) | [It’s Alright](https://open.spotify.com/album/6iFgMXDNtmp5byEle3guZg) | 3:30 |
 | 48 | [You Ain't Love \(feat\. Teni Tinks\)](https://open.spotify.com/track/3phnlxvLFtIwNo5ecUtLuN) | [The Shapeshifters](https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP), [Teni Tinks](https://open.spotify.com/artist/4CeG8RL5NUdWJw8BeG5gQs) | [You Ain't Love \(feat\. Teni Tinks\)](https://open.spotify.com/album/1krEcbbjaM3WoCJq8FecTA) | 4:31 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 | 59 | [Can't Get Enough](https://open.spotify.com/track/6mV3L1waATvE15NeMHGtUy) | [Birdee](https://open.spotify.com/artist/3bSjUrJcV80nkkypJHElmv), [Andre Espeut](https://open.spotify.com/artist/3KYR1NVEcMfJ657LhKRpJn) | [Can't Get Enough](https://open.spotify.com/album/3Gwd3lkWQToLPDwYEWxGaZ) | 4:27 |
 | 60 | [Say Mama](https://open.spotify.com/track/1dWVnxjhpYqkD1PrHI7GS2) | [Alex Preston](https://open.spotify.com/artist/0f8HuVIxsHG6bnEZsz0RuD) | [Say Mama](https://open.spotify.com/album/4RgJere6EOhvRuVNrC6KzU) | 2:57 |
 
-Snapshot ID: `MTY0NzAxNTcyNSwwMDAwMDAwMDhjMGZhZTgxN2QzMTlkYWIxMmVkMDk5NWI4M2MwMTdi`
+Snapshot ID: `MTY0NzAxNTcyNSwwMDAwMDAwMGEyNWE0Zjk3NDkyZWZmZGMzOGZkNjhlZGJlMzM5Mjc4`

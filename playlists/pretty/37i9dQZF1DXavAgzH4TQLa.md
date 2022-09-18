@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavAgzH4TQLa.md) - [plain]
 
 > Dale play, y que la cumbia no pare.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,304 likes - 80 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,523 likes - 80 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,10 +52,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavAgzH4TQLa.md) - [plain]
 | 42 | [Yo No Sé Mañana](https://open.spotify.com/track/2YnJKK6rYV0Dy5XdBpa36l) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG) | [Yo No Sé Mañana](https://open.spotify.com/album/3vlIfLtvvxFaFsuZ9XimoN) | 2:50 |
 | 43 | [De Regreso Al Penal](https://open.spotify.com/track/4IrDBkJuvNMPNa2ZmXcKDF) | [Pala Ancha](https://open.spotify.com/artist/2DRTGjBvhQtEYN9wYM3opQ) | [Cumbia Callejera](https://open.spotify.com/album/0s5bWgCSNVyW7TbfNZmAit) | 4:03 |
 | 44 | [Pibe Cantina](https://open.spotify.com/track/5KaHTwUkmynaHqs3GuDIVe) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [20 Grandes Exitos](https://open.spotify.com/album/3T7lpBIg7KxF3yVucAXsUj) | 3:38 |
-| 45 | [En este mundo](https://open.spotify.com/track/7gamXMgGmNsr83XdKMPbc9) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [El polaco \- Vuelve te lo pido](https://open.spotify.com/album/37q8WdUhkdZPPrkmw6o5xS) | 2:13 |
+| 45 | [El Polvito del Amor](https://open.spotify.com/track/5zRQDokwLLYAgNB0CCo2qb) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Lo Mejor De Lo Mejor](https://open.spotify.com/album/5utAZ2gLHaRWCTAzbG5e0t) | 3:06 |
 | 46 | [Se Te Ve la Tanga](https://open.spotify.com/track/3GUMMzUB7Kk0BSqxEDyieS) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [El Bonaerense](https://open.spotify.com/album/5A0jz6qj9yuxVpQxahbC0x) | 4:23 |
-| 47 | [Sentado en la Esquina](https://open.spotify.com/track/2KTrV1P4FIooFm8wFRcUBQ) | [La Piedra Urbana](https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt) | [Los Maleantes](https://open.spotify.com/album/4Qjy0jhjBUFH1btd8lmg6Q) | 2:44 |
-| 48 | [El Polvito del Amor](https://open.spotify.com/track/5zRQDokwLLYAgNB0CCo2qb) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Lo Mejor De Lo Mejor](https://open.spotify.com/album/5utAZ2gLHaRWCTAzbG5e0t) | 3:06 |
+| 47 | [En este mundo](https://open.spotify.com/track/7gamXMgGmNsr83XdKMPbc9) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [El polaco \- Vuelve te lo pido](https://open.spotify.com/album/37q8WdUhkdZPPrkmw6o5xS) | 2:13 |
+| 48 | [Sentado en la Esquina](https://open.spotify.com/track/2KTrV1P4FIooFm8wFRcUBQ) | [La Piedra Urbana](https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt) | [Los Maleantes](https://open.spotify.com/album/4Qjy0jhjBUFH1btd8lmg6Q) | 2:44 |
 | 49 | [Te extraño](https://open.spotify.com/track/6SGsYigLaGXaCH2jM2JwlZ) | [Los Charros](https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9) | [20 años de cumbia \- Los mejores exitos de 1990 \- 2010](https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU) | 3:44 |
 | 50 | [Una Wacha Piola](https://open.spotify.com/track/4alXoLhVbPKGMXoToEqdye) | [De La Calle](https://open.spotify.com/artist/5YrBL6QmqRYTvr52b0IOT3) | [Más Negro Que la Noche](https://open.spotify.com/album/0BKMSvhWTL8DOoiW0MEpt4) | 2:35 |
 | 51 | [El Soy Yo](https://open.spotify.com/track/3GYyjWrmZF5GVKDs4iUkh0) | [Mensajeros del Amor](https://open.spotify.com/artist/3IbAQiPGvV3aSwvYBMo3o3) | [Mensajeros del Amor](https://open.spotify.com/album/2yD6FFYH2YGoaRCOcdfsR6) | 3:12 |
@@ -73,11 +73,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavAgzH4TQLa.md) - [plain]
 | 63 | [La Pollera Amarilla](https://open.spotify.com/track/03G43mO3a34IGIsyDd4sj5) | [Gladys "La bomba tucumana"](https://open.spotify.com/artist/09jut908wvFm55SqnO4DN3) | [La Pollera Amarilla](https://open.spotify.com/album/1r02rGE96IPnrhhcHbZdWE) | 3:09 |
 | 64 | [Violeta](https://open.spotify.com/track/44ZRUhwJopErgSsvJ8iH7I) | [Alcides](https://open.spotify.com/artist/2ao7Jx5TiinWuCtz6Lig4g) | [20 Grandes Exitos](https://open.spotify.com/album/2m6gFPx1GNwcVNsjNSPQ6C) | 3:09 |
 | 65 | [Esa Malvada](https://open.spotify.com/track/68yHLkMJJeeACIDwcTkT8T) | [Volcan](https://open.spotify.com/artist/6NbiEhux3dGIa1Akjqg9Qk) | [Te Sigo Queriendo](https://open.spotify.com/album/7KyFOWUu5Wdj28JqPmYwDK) | 2:57 |
-| 66 | [Vete de Mi Lado](https://open.spotify.com/track/6JbqHYS9zYzxX1eWUZbKSl) | [Los Chakales](https://open.spotify.com/artist/643YpbScVr0u07i276NRiP) | [Vete de Mi Lado](https://open.spotify.com/album/15gCkMpPvEIoU7Ebov0NNr) | 3:07 |
+| 66 | [Yo Que Te Amé](https://open.spotify.com/track/2DHJHxgnQZwkcmwvANdiui) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [20 Grandes Éxitos](https://open.spotify.com/album/3iNy7btWJcxCSAOIBEU8v6) | 3:29 |
 | 67 | [Tonta](https://open.spotify.com/track/1babcBOEm3FZMHzRL8z0rU) | [Commanche](https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu) | [No Me Digas Adios](https://open.spotify.com/album/1N6ENqxb4RaYGAC0PiGk1J) | 3:11 |
-| 68 | [Le Hace Falta un Beso](https://open.spotify.com/track/0I8QHW2T9Eqj4QWRIiKwRK) | [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq) | [Le Hace Falta un Beso](https://open.spotify.com/album/6qLZAeyYDTZ4MdFGBipbgP) | 3:19 |
-| 69 | [Vamos A Bailar](https://open.spotify.com/track/53hzmIPjhWhFaxewzpgG1O) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [20 Grandes Exitos](https://open.spotify.com/album/3T7lpBIg7KxF3yVucAXsUj) | 4:27 |
-| 70 | [Yo Que Te Amé](https://open.spotify.com/track/2DHJHxgnQZwkcmwvANdiui) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [20 Grandes Éxitos](https://open.spotify.com/album/3iNy7btWJcxCSAOIBEU8v6) | 3:29 |
+| 68 | [Vete de Mi Lado](https://open.spotify.com/track/6JbqHYS9zYzxX1eWUZbKSl) | [Los Chakales](https://open.spotify.com/artist/643YpbScVr0u07i276NRiP) | [Vete de Mi Lado](https://open.spotify.com/album/15gCkMpPvEIoU7Ebov0NNr) | 3:07 |
+| 69 | [Le Hace Falta un Beso](https://open.spotify.com/track/0I8QHW2T9Eqj4QWRIiKwRK) | [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq) | [Le Hace Falta un Beso](https://open.spotify.com/album/6qLZAeyYDTZ4MdFGBipbgP) | 3:19 |
+| 70 | [Vamos A Bailar](https://open.spotify.com/track/53hzmIPjhWhFaxewzpgG1O) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [20 Grandes Exitos](https://open.spotify.com/album/3T7lpBIg7KxF3yVucAXsUj) | 4:27 |
 | 71 | [Pideme la Luna](https://open.spotify.com/track/0rNGHPTBNL4D0koH7bYiVI) | [Los Mirlos](https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh) | [El Amor Hecho Cancion](https://open.spotify.com/album/0awCpysck1teL7SNptoctb) | 3:13 |
 | 72 | [Quiero Verte Bailar](https://open.spotify.com/track/19SPpzI7l7Aovt7AnoHqTw) | [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS), [VI\-EM](https://open.spotify.com/artist/44hJXrVhoyA1fV1dn4wdHC) | [Quiero Verte Bailar](https://open.spotify.com/album/4ceIQJuUkphs5HfrQh9O63) | 3:07 |
 | 73 | [Andrea](https://open.spotify.com/track/3FgtgesYFasosYF5cQmpzi) | [Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Pibes Chorros:Discografía Completa Vol.1](https://open.spotify.com/album/455BXTyu53QqEeFnStn2FP) | 4:09 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavAgzH4TQLa.md) - [plain]
 | 79 | [Ritmo Sabroson](https://open.spotify.com/track/4NyLrceESCSUGDhIt8DhBk) | [Eh!!! Guacho](https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF) | [Es Corta la Bocha](https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM) | 2:12 |
 | 80 | [Otra Como Tú](https://open.spotify.com/track/67ghG6n5zTVWoL77V37lCf) | [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq) | [Montevideo 418](https://open.spotify.com/album/6MJnOjPMpFdInIEWItilLP) | 4:18 |
 
-Snapshot ID: `MTY1ODUwMjQxNiwwMDAwMDAwMDNhOTc2MzY5YzExNDAzN2FkNWI4NDkwNjM4MmMxZmJh`
+Snapshot ID: `MTY1ODUwMjQxNiwwMDAwMDAwMDgwYmZmM2FhNzE3MmNkODE5YmQwNmMyY2QwNDlhOWY2`

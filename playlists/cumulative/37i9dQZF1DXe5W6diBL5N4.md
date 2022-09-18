@@ -4,7 +4,7 @@
 
 > 신곡 배달! The freshest K\-Pop releases are here! \(Cover: HWANG MIN HYUN\(황민현\)\) \(신선한 국내 최신곡들을 플레이리스트로 만나보세요.\)
 
-2,300 songs - 5 day 12 hr 26 min - [published](https://open.spotify.com/playlist/69AzhPM798n6fuDC8uUxaB)
+2,301 songs - 5 day 12 hr 30 min - [published](https://open.spotify.com/playlist/69AzhPM798n6fuDC8uUxaB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1777,7 +1777,8 @@
 | [Step!](https://open.spotify.com/track/6UqGjOs7CS991n848bipBC) | [Hippo](https://open.spotify.com/artist/6o2llz8JozEXnyRq3XdJY1) | [Step!](https://open.spotify.com/album/6m60vpr7y4UA8NmTow50GJ) | 3:17 | 2022-07-11 | 2022-07-28 |
 | [stereo \(feat\. Gist\)](https://open.spotify.com/track/23liweQ8hFWh5szU6TnbVb) | [Lil Sunder11](https://open.spotify.com/artist/4BAzPFhIlcr1Olj7IpTIDW), [GIST\(윤현선\)](https://open.spotify.com/artist/5dnSklPcejwtwQ2zc5a7Dn) | [stereo \(feat\. Gist\)](https://open.spotify.com/album/3xqUW3HstppGwDwJDCl1P8) | 3:04 | 2022-05-22 | 2022-06-10 |
 | [Still](https://open.spotify.com/track/2behhE9zykC6hWmBffdYP9) | [루아멜 \(LUAMEL\)](https://open.spotify.com/artist/0GP1FM3P7XrmSNz1Nr29Yy) | [Still](https://open.spotify.com/album/38b0mzFmSaM5JozS7Lfte4) | 3:17 | 2022-06-20 | 2022-07-05 |
-| [still beautiful](https://open.spotify.com/track/5MsPHSEHfSZnxgaJDnEdI6) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [still beautiful](https://open.spotify.com/album/6R1xUiVm1iCwZP2TQtimIn) | 3:45 | 2022-09-08 |  |
+| [still beautiful](https://open.spotify.com/track/5MsPHSEHfSZnxgaJDnEdI6) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [still beautiful](https://open.spotify.com/album/6R1xUiVm1iCwZP2TQtimIn) | 3:45 | 2022-09-08 | 2022-09-18 |
+| [still beautiful](https://open.spotify.com/track/5WObYUq7J0E5tNOaLKeF3C) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [imagine club](https://open.spotify.com/album/1Fhu3FJHqttNA1d6e7VXxC) | 3:45 | 2022-09-16 |  |
 | [Still Life](https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Still Life](https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC) | 3:08 | 2022-04-19 | 2022-04-23 |
 | [Still Love You \(Feat\. Lee Yu Bin\)](https://open.spotify.com/track/4FyB2eRYgtPCkE3L97K5Qf) | [Dawn window](https://open.spotify.com/artist/5nIoYbALPbBGdyajpNGqTm), [Lee Yu Bin](https://open.spotify.com/artist/68n72jwJJfHg9MeLekrdub) | [Still Love You](https://open.spotify.com/album/5bKxiBhHnKa9NN8I2uFhP7) | 3:22 | 2022-07-21 | 2022-08-10 |
 | [Still Me \(Feat\. Dok2, GEMINI\)](https://open.spotify.com/track/5as8yn2iLczb2dSJH3VT81) | [Devine Channel](https://open.spotify.com/artist/1iiRxmY7WhgsWtLgtZGfrw), [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE), [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [unorthodox](https://open.spotify.com/album/5MJPZCUrHxSBPIsZif1frd) | 2:36 | 2022-07-14 | 2022-07-28 |

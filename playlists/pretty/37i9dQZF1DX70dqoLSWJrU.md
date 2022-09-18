@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70dqoLSWJrU.md) - [plain]
 
 > Heartbreaking and sad instrumental and vocal Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,637 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,704 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,13 +73,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70dqoLSWJrU.md) - [plain]
 | 63 | [What's New](https://open.spotify.com/track/6iUmixPxVD6SacLhATYace) | [Helen Merrill](https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q) | [Helen Merill](https://open.spotify.com/album/5ilzjsH4ER5ZaytJwnmn3C) | 5:01 |
 | 64 | [After You've Gone](https://open.spotify.com/track/6D0AvLMvmAWXzYqGQK1Uh4) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Rhythm Is My Business](https://open.spotify.com/album/2YmioRpHchcSObTv10OkEu) | 4:18 |
 | 65 | [Who Can I Turn To \(When Nobody Needs Me\)](https://open.spotify.com/track/6wWkyosk7WllIpzUs5SliP) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [Gentle Is My Love](https://open.spotify.com/album/4R0LaX0MM3yiIPARgFypaA) | 2:42 |
-| 66 | [Too Young To Go Steady \- Remastered](https://open.spotify.com/track/0D1LMx0zya1EXlj4F9l6Mg) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Night Lights](https://open.spotify.com/album/5kQfbxLa8K9n8zYHXJQ7Zx) | 2:52 |
-| 67 | [There Must Be A Way](https://open.spotify.com/track/7BFNrhD0hSlJwP4GYmxrU6) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [What A Wonderful World](https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv) | 3:08 |
-| 68 | [Blue And Sentimental \- 1947 Version](https://open.spotify.com/track/3j8fVf9tSHyqzTtUDth13B) | [Nat King Cole Trio](https://open.spotify.com/artist/3OpnoUqoRIHWbsFs4Nw0NQ) | [The Complete Capitol Recordings Of The Nat King Cole Trio](https://open.spotify.com/album/36r0NLy7NH4Z14enk0EvF4) | 2:35 |
-| 69 | [Gone With the Wind](https://open.spotify.com/track/6LK7pPcnOyFrgnisXJ84gn) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ), [Ray Bryant](https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR) | [Social Call](https://open.spotify.com/album/7MGttcftncXXItvutjK9dM) | 4:11 |
+| 66 | [There Must Be A Way](https://open.spotify.com/track/7BFNrhD0hSlJwP4GYmxrU6) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [What A Wonderful World](https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv) | 3:08 |
+| 67 | [Too Young To Go Steady \- Remastered](https://open.spotify.com/track/0D1LMx0zya1EXlj4F9l6Mg) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Night Lights](https://open.spotify.com/album/5kQfbxLa8K9n8zYHXJQ7Zx) | 2:52 |
+| 68 | [Gone With the Wind](https://open.spotify.com/track/6LK7pPcnOyFrgnisXJ84gn) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ), [Ray Bryant](https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR) | [Social Call](https://open.spotify.com/album/7MGttcftncXXItvutjK9dM) | 4:11 |
+| 69 | [Blue And Sentimental \- 1947 Version](https://open.spotify.com/track/3j8fVf9tSHyqzTtUDth13B) | [Nat King Cole Trio](https://open.spotify.com/artist/3OpnoUqoRIHWbsFs4Nw0NQ) | [The Complete Capitol Recordings Of The Nat King Cole Trio](https://open.spotify.com/album/36r0NLy7NH4Z14enk0EvF4) | 2:35 |
 | 70 | [My Old Flame](https://open.spotify.com/track/2tFhdY3DRVj2umeRuaQEfQ) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [The Complete Dinah Washington On Mercury, Vol.4 \(1954\-1956\)](https://open.spotify.com/album/7MpI5x3ALFKVNTO0OZ7NfB) | 3:07 |
-| 71 | [I Guess I'll Hang My Tears Out To Dry](https://open.spotify.com/track/4n3O6Vy6mtJlIVSZdmfEY6) | [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D) | [It's All Over But The Swingin'](https://open.spotify.com/album/02sL6dbfGEDaboX9PA5eyP) | 4:40 |
-| 72 | [Born To Be Blue](https://open.spotify.com/track/0zjHHk5Lqrf3j1ZpevLcJl) | [Beverly Kenney](https://open.spotify.com/artist/65AXHPhvpKkrCIlk5BuUQT) | [Born To Be Blue](https://open.spotify.com/album/6vDO6c6V3hYq3KA2psLsZv) | 3:31 |
+| 71 | [Born To Be Blue](https://open.spotify.com/track/0zjHHk5Lqrf3j1ZpevLcJl) | [Beverly Kenney](https://open.spotify.com/artist/65AXHPhvpKkrCIlk5BuUQT) | [Born To Be Blue](https://open.spotify.com/album/6vDO6c6V3hYq3KA2psLsZv) | 3:31 |
+| 72 | [I Guess I'll Hang My Tears Out To Dry](https://open.spotify.com/track/4n3O6Vy6mtJlIVSZdmfEY6) | [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D) | [It's All Over But The Swingin'](https://open.spotify.com/album/02sL6dbfGEDaboX9PA5eyP) | 4:40 |
 | 73 | [I See Your Face Before Me](https://open.spotify.com/track/5rkyudolG3J67mPn9WOQfK) | [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [Songs from the Heart \(Remastered 2013\)](https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW) | 3:34 |
 | 74 | [I Wish I Knew \- Remastered 2004](https://open.spotify.com/track/0xlZ3RGJnsopJc9dqq6Th2) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings And Plays \(Remastered 2004\)](https://open.spotify.com/album/6NVtIIsVMTuphtcAN9FxCc) | 3:59 |
 | 75 | [Say It Isn't So](https://open.spotify.com/track/5LYRWSdYjVaUQUUBMNPD3e) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Somewhere over the Rainbow](https://open.spotify.com/album/05c5UntOmZQ3DDX6R8PgHy) | 3:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70dqoLSWJrU.md) - [plain]
 | 99 | [Fine And Mellow](https://open.spotify.com/track/1QdQ4r05QWhtcTTXOgRtyA) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday](https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs) | 3:16 |
 | 100 | [Lover, Come Back To Me](https://open.spotify.com/track/27SVIQdbsAqZkTqpEnNmQ5) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday](https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs) | 3:15 |
 
-Snapshot ID: `MTY2MzMxNDg1MywwMDAwMDAwMGMwYTJjNzk3NzI1MzcwMjFlYzQ3MGU5YTQ3ZmE3Yjhi`
+Snapshot ID: `MTY2MzMxNDg1MywwMDAwMDAwMDA1NWJlOTM4NWJkZjNlNjE5OWY5ZjBiODQxYzY3NDA3`

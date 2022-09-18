@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 
 > Spillelisten som byr på en rekke bøgdebangers du liker å spelle i kjerra! Cover: Den BB & Oskar Westerlin
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,107 likes - 70 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,179 likes - 70 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

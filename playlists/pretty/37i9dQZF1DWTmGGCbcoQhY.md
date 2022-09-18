@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmGGCbcoQhY.md) - [plain]
 
 > ¡Un sa\-sa\-saludo a todos los amantes de la cu\-cu\-cumbia!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,124,519 likes - 125 songs - 8 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,124,949 likes - 125 songs - 8 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,8 +117,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmGGCbcoQhY.md) - [plain]
 | 107 | [Dos en Uno](https://open.spotify.com/track/6z9FyLFLp1lLeRg3h0hPPU) | [Grupo Macao de Alex y Jhonny](https://open.spotify.com/artist/2GAmpY3SIeEIjNjP8AjP2Z) | [Dos en Uno](https://open.spotify.com/album/62IIfBRz6IlMviHqNs1lNt) | 5:13 |
 | 108 | [No Mientas Mas](https://open.spotify.com/track/2UPAAB37D9N0An9XJf18eY) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [No Mientas Mas](https://open.spotify.com/album/0QhW8Dh9oguR6NzoK2GmuB) | 3:54 |
 | 109 | [El Ritmo Mamalon](https://open.spotify.com/track/5RgJSONsPv1HRM8qNTnR4u) | [Grupo Jalado](https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM) | [El Ritmo Mamalon](https://open.spotify.com/album/3QjaVFKBo0Skrb55Sv2a0I) | 3:13 |
-| 110 | [La Inconforme](https://open.spotify.com/track/2HZacSz1k8F0KTwGJ6TX7r) | [Grupo G](https://open.spotify.com/artist/4zKNSiS1LD7OT0z3hTqRE8) | [Para Qué Llorar](https://open.spotify.com/album/1z50aUk8ypdjqTzqxuQ0ig) | 3:13 |
-| 111 | [Te Vas Con El o Te Vas Conmigo](https://open.spotify.com/track/21voFmS2anMlrpB8WR7wgd) | [Los Tepoz](https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW) | [El Angel Del Amor](https://open.spotify.com/album/1iqpr5cqKi8XkqCAmV1eGD) | 4:32 |
+| 110 | [Te Vas Con El o Te Vas Conmigo](https://open.spotify.com/track/21voFmS2anMlrpB8WR7wgd) | [Los Tepoz](https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW) | [El Angel Del Amor](https://open.spotify.com/album/1iqpr5cqKi8XkqCAmV1eGD) | 4:32 |
+| 111 | [La Inconforme](https://open.spotify.com/track/2HZacSz1k8F0KTwGJ6TX7r) | [Grupo G](https://open.spotify.com/artist/4zKNSiS1LD7OT0z3hTqRE8) | [Para Qué Llorar](https://open.spotify.com/album/1z50aUk8ypdjqTzqxuQ0ig) | 3:13 |
 | 112 | [Arpas Weperas](https://open.spotify.com/track/4sNGkzWTct1A1YuyDFYArl) | [Sonideros de MEX USA](https://open.spotify.com/artist/1DdqwR6Ygd18k5GjaY8sJm) | [Talentos Ocultos, Vol\. 1](https://open.spotify.com/album/4DPoeHldPyrqyhlVHdC4K4) | 2:57 |
 | 113 | [Melina](https://open.spotify.com/track/7A6PWUkZNultYJO6ejZ11k) | [Grupo Perla Colombiana](https://open.spotify.com/artist/559JHjpDxj6SYy8kwGoa5V) | [Con La Sangre Caliente](https://open.spotify.com/album/48H3NQ2HyK70AqjOryHbnX) | 3:09 |
 | 114 | [Tu y yo](https://open.spotify.com/track/778AFISUlRVyMbzmASfOBx) | [Grupo Konfusion](https://open.spotify.com/artist/3xYkx6c8tr6YewKD3xqpH4) | [Tu y Yo](https://open.spotify.com/album/6kzuObrtfdIgQqWzknrE4q) | 4:31 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmGGCbcoQhY.md) - [plain]
 | 124 | [Que Lastima](https://open.spotify.com/track/7lBAwDdNz4aui6HPLWmnBF) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [No Mientas Mas](https://open.spotify.com/album/0QhW8Dh9oguR6NzoK2GmuB) | 3:51 |
 | 125 | [Copos de Nieve](https://open.spotify.com/track/6pKKY70MelQKN7LPF0g3SY) | [Grupo Los Grafiteros](https://open.spotify.com/artist/0ID6bV8B2psmBdf8kfHN7C) | [Copos de Nieve](https://open.spotify.com/album/05uNVPmIyUgxVaaQvqktsi) | 3:47 |
 
-Snapshot ID: `MTY1NDY0MDUxNSwwMDAwMDAwMDNhMjY1NmExMTRjOTgzNDhhZjI5MThlM2Y5OTYyYWUx`
+Snapshot ID: `MTY1NDY0MDUxNSwwMDAwMDAwMGU5NDU0NzAyM2Q5NjE3ZWIyZThjZmY0YzBkOWJmNTRi`

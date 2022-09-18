@@ -1,12 +1,12 @@
 {
   "description": "The best Blues for a long trip behind the wheel. ",
-  "num_followers": 6817,
+  "num_followers": 6871,
   "original_name": "Blues Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQzNjgwNSwwMDAwMDAwMDVlYjI2NDQ2ZTFlODA5NTExZDI1OGJjYWNkMWNiMTRk",
+  "snapshot_id": "MTY2MTQzNjgwNSwwMDAwMDAwMDJmZGYzYzUyNTFhZjMyZDU1ODBmZjZmNzRmZmVhYjA2",
   "tracks": [
     {
       "added_at": "2022-08-25 14:13:25",
@@ -587,6 +587,22 @@
     {
       "added_at": "2022-08-25 14:13:25",
       "album": {
+        "name": "Feelin' Good / Fussin' and Fightin' Blues",
+        "url": "https://open.spotify.com/album/63y8cTGBcf6VU1GadMNHCN"
+      },
+      "artists": [
+        {
+          "name": "Little Junior Parker",
+          "url": "https://open.spotify.com/artist/5AZroUSVLr1sdkgCAfv1kM"
+        }
+      ],
+      "duration_ms": 177560,
+      "name": "Feelin' Good",
+      "url": "https://open.spotify.com/track/2XoKgKRMzHLmnpfjQ3y0EQ"
+    },
+    {
+      "added_at": "2022-08-25 14:13:25",
+      "album": {
         "name": "Goin' To Chicago",
         "url": "https://open.spotify.com/album/4p5MlG351OaQac8CRZsF3K"
       },
@@ -667,22 +683,6 @@
     {
       "added_at": "2022-08-25 14:13:25",
       "album": {
-        "name": "Shake Down",
-        "url": "https://open.spotify.com/album/5F5h5lLNgbQXYvulMUZ2Vb"
-      },
-      "artists": [
-        {
-          "name": "Savoy Brown",
-          "url": "https://open.spotify.com/artist/17obwOahRWI121iMUZznh2"
-        }
-      ],
-      "duration_ms": 210106,
-      "name": "Ain't Superstitious",
-      "url": "https://open.spotify.com/track/2z47CyvhUXKg2aE5DVBSeK"
-    },
-    {
-      "added_at": "2022-08-25 14:13:25",
-      "album": {
         "name": "A Hard Road (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0DMfmALbvN3V0GAkzpeRw1"
       },
@@ -695,6 +695,22 @@
       "duration_ms": 189360,
       "name": "A Hard Road",
       "url": "https://open.spotify.com/track/0WJGPcD139Pga5SgNV4Pj1"
+    },
+    {
+      "added_at": "2022-08-25 14:13:25",
+      "album": {
+        "name": "Shake Down",
+        "url": "https://open.spotify.com/album/5F5h5lLNgbQXYvulMUZ2Vb"
+      },
+      "artists": [
+        {
+          "name": "Savoy Brown",
+          "url": "https://open.spotify.com/artist/17obwOahRWI121iMUZznh2"
+        }
+      ],
+      "duration_ms": 210106,
+      "name": "Ain't Superstitious",
+      "url": "https://open.spotify.com/track/2z47CyvhUXKg2aE5DVBSeK"
     },
     {
       "added_at": "2022-08-25 14:13:25",
@@ -803,22 +819,6 @@
     {
       "added_at": "2022-08-25 14:13:25",
       "album": {
-        "name": "Galloping Horses a Lazy Mule / Blues in D Natural",
-        "url": "https://open.spotify.com/album/2ueqyjt4N1XoXF1J21zNSQ"
-      },
-      "artists": [
-        {
-          "name": "Earl Hooker",
-          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
-        }
-      ],
-      "duration_ms": 135640,
-      "name": "Blues In D Natural",
-      "url": "https://open.spotify.com/track/5h8HrCCGLOmhW3ufkRb2Dv"
-    },
-    {
-      "added_at": "2022-08-25 14:13:25",
-      "album": {
         "name": "Twice Removed from Yesterday",
         "url": "https://open.spotify.com/album/15XZ5bvCoiEXEBprtGkpZu"
       },
@@ -831,6 +831,38 @@
       "duration_ms": 255893,
       "name": "Rock Me Baby",
       "url": "https://open.spotify.com/track/7jixAsWYi2j8kI8SCFO84j"
+    },
+    {
+      "added_at": "2022-08-25 14:13:25",
+      "album": {
+        "name": "Completely Well",
+        "url": "https://open.spotify.com/album/7gzkgAWjOjEf5o6sIvBvT1"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 387333,
+      "name": "Cryin' Won't Help You Now",
+      "url": "https://open.spotify.com/track/6KtESjDOSUU8xftDla9i5d"
+    },
+    {
+      "added_at": "2022-08-25 14:13:25",
+      "album": {
+        "name": "Galloping Horses a Lazy Mule / Blues in D Natural",
+        "url": "https://open.spotify.com/album/2ueqyjt4N1XoXF1J21zNSQ"
+      },
+      "artists": [
+        {
+          "name": "Earl Hooker",
+          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
+        }
+      ],
+      "duration_ms": 135640,
+      "name": "Blues In D Natural",
+      "url": "https://open.spotify.com/track/5h8HrCCGLOmhW3ufkRb2Dv"
     },
     {
       "added_at": "2022-08-25 14:13:25",
@@ -867,18 +899,18 @@
     {
       "added_at": "2022-08-25 14:13:25",
       "album": {
-        "name": "Completely Well",
-        "url": "https://open.spotify.com/album/7gzkgAWjOjEf5o6sIvBvT1"
+        "name": "Blues For Greeny",
+        "url": "https://open.spotify.com/album/46Lmqo7r5UDYOhIOGOSjdU"
       },
       "artists": [
         {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+          "name": "Gary Moore",
+          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
         }
       ],
-      "duration_ms": 387333,
-      "name": "Cryin' Won't Help You Now",
-      "url": "https://open.spotify.com/track/6KtESjDOSUU8xftDla9i5d"
+      "duration_ms": 126773,
+      "name": "Long Grey Mare",
+      "url": "https://open.spotify.com/track/2qVOcQMtxjrY8WHPkygyGc"
     },
     {
       "added_at": "2022-08-25 14:13:25",
@@ -895,22 +927,6 @@
       "duration_ms": 146000,
       "name": "Hound Dog",
       "url": "https://open.spotify.com/track/7dnH4MKOS40E0h0WtWCkYh"
-    },
-    {
-      "added_at": "2022-08-25 14:13:25",
-      "album": {
-        "name": "Blues For Greeny",
-        "url": "https://open.spotify.com/album/46Lmqo7r5UDYOhIOGOSjdU"
-      },
-      "artists": [
-        {
-          "name": "Gary Moore",
-          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
-        }
-      ],
-      "duration_ms": 126773,
-      "name": "Long Grey Mare",
-      "url": "https://open.spotify.com/track/2qVOcQMtxjrY8WHPkygyGc"
     },
     {
       "added_at": "2022-08-25 14:13:25",
@@ -951,6 +967,22 @@
     {
       "added_at": "2022-08-25 14:13:25",
       "album": {
+        "name": "I Got What It Takes",
+        "url": "https://open.spotify.com/album/6Ia8ZSI8AkeaSz7ILpd7MU"
+      },
+      "artists": [
+        {
+          "name": "Koko Taylor",
+          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+        }
+      ],
+      "duration_ms": 222866,
+      "name": "I Got What It Takes",
+      "url": "https://open.spotify.com/track/4HiVCsnJH9P35ASXLL60ip"
+    },
+    {
+      "added_at": "2022-08-25 14:13:25",
+      "album": {
         "name": "Shake Your Money Maker: The Best Of The Fire Sessions",
         "url": "https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu"
       },
@@ -963,26 +995,6 @@
       "duration_ms": 166506,
       "name": "Early One Morning",
       "url": "https://open.spotify.com/track/6mUSXLiUA398z4cpcRp7a5"
-    },
-    {
-      "added_at": "2022-08-25 14:13:25",
-      "album": {
-        "name": "Big Mama Thornton with the Muddy Waters Blues Band - 1966",
-        "url": "https://open.spotify.com/album/1GhQkAGbg2ciWb6BDNHKIB"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        },
-        {
-          "name": "Muddy Waters Blues Band",
-          "url": "https://open.spotify.com/artist/3r8nssufxenC7JoWBfKfNK"
-        }
-      ],
-      "duration_ms": 172720,
-      "name": "Black Rat - Take 4",
-      "url": "https://open.spotify.com/track/20OvWgveuLJbs6asSB8ncL"
     },
     {
       "added_at": "2022-08-25 14:13:25",
@@ -1003,18 +1015,22 @@
     {
       "added_at": "2022-08-25 14:13:25",
       "album": {
-        "name": "I Got What It Takes",
-        "url": "https://open.spotify.com/album/6Ia8ZSI8AkeaSz7ILpd7MU"
+        "name": "Big Mama Thornton with the Muddy Waters Blues Band - 1966",
+        "url": "https://open.spotify.com/album/1GhQkAGbg2ciWb6BDNHKIB"
       },
       "artists": [
         {
-          "name": "Koko Taylor",
-          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        },
+        {
+          "name": "Muddy Waters Blues Band",
+          "url": "https://open.spotify.com/artist/3r8nssufxenC7JoWBfKfNK"
         }
       ],
-      "duration_ms": 222866,
-      "name": "I Got What It Takes",
-      "url": "https://open.spotify.com/track/4HiVCsnJH9P35ASXLL60ip"
+      "duration_ms": 172720,
+      "name": "Black Rat - Take 4",
+      "url": "https://open.spotify.com/track/20OvWgveuLJbs6asSB8ncL"
     },
     {
       "added_at": "2022-08-25 14:13:25",
@@ -1067,22 +1083,6 @@
     {
       "added_at": "2022-08-25 14:13:25",
       "album": {
-        "name": "Blues & Trouble (Blues Reference 1983-1985)",
-        "url": "https://open.spotify.com/album/2k2MADUj4Fd3mhJWQbQoqt"
-      },
-      "artists": [
-        {
-          "name": "Buster Benton",
-          "url": "https://open.spotify.com/artist/3eBGrFX7u2Py7eiwvwosc4"
-        }
-      ],
-      "duration_ms": 298013,
-      "name": "Can't Wait to See My Baby's Face",
-      "url": "https://open.spotify.com/track/6NvzGdklM7t1anBJicWR8Q"
-    },
-    {
-      "added_at": "2022-08-25 14:13:25",
-      "album": {
         "name": "Electric Mud",
         "url": "https://open.spotify.com/album/7cDLEVoIhkfKqaiKAPp7vL"
       },
@@ -1095,6 +1095,22 @@
       "duration_ms": 343706,
       "name": "The Same Thing",
       "url": "https://open.spotify.com/track/59On35IawOw3kdsUv6wiu6"
+    },
+    {
+      "added_at": "2022-08-25 14:13:25",
+      "album": {
+        "name": "Blues & Trouble (Blues Reference 1983-1985)",
+        "url": "https://open.spotify.com/album/2k2MADUj4Fd3mhJWQbQoqt"
+      },
+      "artists": [
+        {
+          "name": "Buster Benton",
+          "url": "https://open.spotify.com/artist/3eBGrFX7u2Py7eiwvwosc4"
+        }
+      ],
+      "duration_ms": 298013,
+      "name": "Can't Wait to See My Baby's Face",
+      "url": "https://open.spotify.com/track/6NvzGdklM7t1anBJicWR8Q"
     },
     {
       "added_at": "2022-08-25 14:13:25",
@@ -1287,6 +1303,22 @@
     {
       "added_at": "2022-08-25 14:13:25",
       "album": {
+        "name": "Whose Muddy Shoes",
+        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
+      },
+      "artists": [
+        {
+          "name": "John Brim",
+          "url": "https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI"
+        }
+      ],
+      "duration_ms": 175693,
+      "name": "You Got Me",
+      "url": "https://open.spotify.com/track/24m7kDzKRUnYRlz7LWCYnB"
+    },
+    {
+      "added_at": "2022-08-25 14:13:25",
+      "album": {
         "name": "The Essential Little Walter",
         "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
       },
@@ -1315,22 +1347,6 @@
       "duration_ms": 167693,
       "name": "Hoochie Coochie Man (Version 2) - Remastered",
       "url": "https://open.spotify.com/track/4DSp70TLaYQ0VD2h6F7cD9"
-    },
-    {
-      "added_at": "2022-08-25 14:13:25",
-      "album": {
-        "name": "Whose Muddy Shoes",
-        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
-      },
-      "artists": [
-        {
-          "name": "John Brim",
-          "url": "https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI"
-        }
-      ],
-      "duration_ms": 175693,
-      "name": "You Got Me",
-      "url": "https://open.spotify.com/track/24m7kDzKRUnYRlz7LWCYnB"
     },
     {
       "added_at": "2022-08-25 14:13:25",
@@ -1535,22 +1551,6 @@
     {
       "added_at": "2022-08-25 14:13:25",
       "album": {
-        "name": "Hi-Heel Sneakers",
-        "url": "https://open.spotify.com/album/3i7uEh9Ahiknj8bQGOSBJe"
-      },
-      "artists": [
-        {
-          "name": "Tommy Tucker",
-          "url": "https://open.spotify.com/artist/3Hu7yAx1kVULnXjSznYZRf"
-        }
-      ],
-      "duration_ms": 224400,
-      "name": "Hard Luck Blues",
-      "url": "https://open.spotify.com/track/75SPHJFXqvEWhUg4a9GrlJ"
-    },
-    {
-      "added_at": "2022-08-25 14:13:25",
-      "album": {
         "name": "Hot Boppin Girls Vol. 1",
         "url": "https://open.spotify.com/album/6xeAubcR03QNp2ix1iEcfx"
       },
@@ -1563,6 +1563,22 @@
       "duration_ms": 123324,
       "name": "(He Said Yeah) Baby, You\u00b4re the One",
       "url": "https://open.spotify.com/track/3OHvbRM4MoyvN3RJpN015b"
+    },
+    {
+      "added_at": "2022-08-25 14:13:25",
+      "album": {
+        "name": "Hi-Heel Sneakers",
+        "url": "https://open.spotify.com/album/3i7uEh9Ahiknj8bQGOSBJe"
+      },
+      "artists": [
+        {
+          "name": "Tommy Tucker",
+          "url": "https://open.spotify.com/artist/3Hu7yAx1kVULnXjSznYZRf"
+        }
+      ],
+      "duration_ms": 224400,
+      "name": "Hard Luck Blues",
+      "url": "https://open.spotify.com/track/75SPHJFXqvEWhUg4a9GrlJ"
     },
     {
       "added_at": "2022-08-25 14:13:25",
@@ -1583,18 +1599,18 @@
     {
       "added_at": "2022-08-25 14:13:25",
       "album": {
-        "name": "Blues",
-        "url": "https://open.spotify.com/album/7tlJjyQw0cDB9R2lIXw2ey"
+        "name": "Beck-Ola",
+        "url": "https://open.spotify.com/album/5U29fXcBHWNrUrFI1ol8Oi"
       },
       "artists": [
         {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+          "name": "Jeff Beck",
+          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
         }
       ],
-      "duration_ms": 125106,
-      "name": "Still Got The Blues",
-      "url": "https://open.spotify.com/track/5IpREDjsiqYQNvHqg4Qj3G"
+      "duration_ms": 290666,
+      "name": "The Hangman's Knee - 2004 Remaster",
+      "url": "https://open.spotify.com/track/0LxgShBPLp0dZT866Ilkv2"
     },
     {
       "added_at": "2022-08-25 14:13:25",
@@ -1615,38 +1631,6 @@
     {
       "added_at": "2022-08-25 14:13:25",
       "album": {
-        "name": "Beck-Ola",
-        "url": "https://open.spotify.com/album/5U29fXcBHWNrUrFI1ol8Oi"
-      },
-      "artists": [
-        {
-          "name": "Jeff Beck",
-          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
-        }
-      ],
-      "duration_ms": 290666,
-      "name": "The Hangman's Knee - 2004 Remaster",
-      "url": "https://open.spotify.com/track/0LxgShBPLp0dZT866Ilkv2"
-    },
-    {
-      "added_at": "2022-08-25 14:13:25",
-      "album": {
-        "name": "Steady Gettin' It: The Complete Recordings 1964-67",
-        "url": "https://open.spotify.com/album/2KBGPjuA5QSBJmofyF8MT1"
-      },
-      "artists": [
-        {
-          "name": "The Art Wood Combo",
-          "url": "https://open.spotify.com/artist/4bfCsMIyfQxp92CNvlVlCw"
-        }
-      ],
-      "duration_ms": 139973,
-      "name": "Chicago Calling",
-      "url": "https://open.spotify.com/track/4nGyEoNS2Lx9iPStDcwMRt"
-    },
-    {
-      "added_at": "2022-08-25 14:13:25",
-      "album": {
         "name": "Chicago Blues Session Volume 12",
         "url": "https://open.spotify.com/album/3aIsNJmW34RBXNoYOTKyOE"
       },
@@ -1663,6 +1647,38 @@
       "duration_ms": 171453,
       "name": "Movin' Out",
       "url": "https://open.spotify.com/track/2dY0bMsM7UXFh7Ekl7XSGn"
+    },
+    {
+      "added_at": "2022-08-25 14:13:25",
+      "album": {
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/7tlJjyQw0cDB9R2lIXw2ey"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 125106,
+      "name": "Still Got The Blues",
+      "url": "https://open.spotify.com/track/5IpREDjsiqYQNvHqg4Qj3G"
+    },
+    {
+      "added_at": "2022-08-25 14:13:25",
+      "album": {
+        "name": "Steady Gettin' It: The Complete Recordings 1964-67",
+        "url": "https://open.spotify.com/album/2KBGPjuA5QSBJmofyF8MT1"
+      },
+      "artists": [
+        {
+          "name": "The Art Wood Combo",
+          "url": "https://open.spotify.com/artist/4bfCsMIyfQxp92CNvlVlCw"
+        }
+      ],
+      "duration_ms": 139973,
+      "name": "Chicago Calling",
+      "url": "https://open.spotify.com/track/4nGyEoNS2Lx9iPStDcwMRt"
     },
     {
       "added_at": "2022-08-25 14:13:25",
@@ -1695,22 +1711,6 @@
       "duration_ms": 195720,
       "name": "Don't Stay Out All Night",
       "url": "https://open.spotify.com/track/5nNLdUPVy9J0fYdlS6al2i"
-    },
-    {
-      "added_at": "2022-08-25 14:13:25",
-      "album": {
-        "name": "Little Junior Parker: Mr. Blues",
-        "url": "https://open.spotify.com/album/6dL0V0efzoNS1UtNrwxWaD"
-      },
-      "artists": [
-        {
-          "name": "Junior Parker",
-          "url": "https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u"
-        }
-      ],
-      "duration_ms": 179440,
-      "name": "Feelin' Good",
-      "url": "https://open.spotify.com/track/1xTbVbrfYWRzEMWUg5mz9Y"
     },
     {
       "added_at": "2022-08-25 14:13:25",

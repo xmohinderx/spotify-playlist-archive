@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fO1VvuMVL0.md) - [plain]
 
 > The cool sound of Cool Jazz\. Cover: Paul Desmond
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,817 likes - 75 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,887 likes - 75 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fO1VvuMVL0.md) - [plain]
 | 39 | [I Didn't Know What Time It Was](https://open.spotify.com/track/6aLIAUgSkoBMz7cRzqsVN7) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm) | [The Jazz Giants](https://open.spotify.com/album/44oGFX0F5QBXitVzuxmFxg) | 10:06 |
 | 40 | [Walkin' Out Blues](https://open.spotify.com/track/7vKWeu6VMsG0Lc303NU68l) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [The Return Of Art Pepper](https://open.spotify.com/album/3KEF0sqASzm7SVrozeiITT) | 5:56 |
 | 41 | [It Could Happen To You](https://open.spotify.com/track/10fMVCkTiTE1sLvd5ypZTD) | [Bob Brookmeyer](https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [The Ivory Hunters](https://open.spotify.com/album/24rcDSSrgn13oqnqsuJH59) | 7:26 |
-| 42 | [Custard Puff](https://open.spotify.com/track/6QRA6ekJHWPYyxnqGpdlfY) | [Barney Kessel](https://open.spotify.com/artist/6pVkGhtBvjj1P52yn0tNLG), [Shelly Manne](https://open.spotify.com/artist/6M7ScGp8p2GspFJaIMh1Yo), [Ray Brown](https://open.spotify.com/artist/0SvD7DL5CQTbcrMtns1US8) | [The Poll Winners Ride Again!](https://open.spotify.com/album/5fpBssf4ZkNncA3zYpRrC6) | 4:24 |
-| 43 | [Where or When](https://open.spotify.com/track/48dI69jaXNhBlysBv9o7mb) | [Johnny Smith](https://open.spotify.com/artist/3u7Tz2oLTRPG9Cn7PcuZ2q) | [Moonlight In Vermont](https://open.spotify.com/album/46m2vVGJn0cSaVBsHMzYgW) | 2:26 |
+| 42 | [Where or When](https://open.spotify.com/track/48dI69jaXNhBlysBv9o7mb) | [Johnny Smith](https://open.spotify.com/artist/3u7Tz2oLTRPG9Cn7PcuZ2q) | [Moonlight In Vermont](https://open.spotify.com/album/46m2vVGJn0cSaVBsHMzYgW) | 2:26 |
+| 43 | [Custard Puff](https://open.spotify.com/track/6QRA6ekJHWPYyxnqGpdlfY) | [Barney Kessel](https://open.spotify.com/artist/6pVkGhtBvjj1P52yn0tNLG), [Shelly Manne](https://open.spotify.com/artist/6M7ScGp8p2GspFJaIMh1Yo), [Ray Brown](https://open.spotify.com/artist/0SvD7DL5CQTbcrMtns1US8) | [The Poll Winners Ride Again!](https://open.spotify.com/album/5fpBssf4ZkNncA3zYpRrC6) | 4:24 |
 | 44 | [Willow Weep for Me](https://open.spotify.com/track/72mQKpTSTOs7fZDSEOE2XN) | [The Modern Jazz Quartet](https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI) | [Fontessa](https://open.spotify.com/album/4ceTTa0JKnKsppT43oe8dc) | 4:48 |
 | 45 | [I'll Remember April](https://open.spotify.com/track/2BMorWMRsJPc1hEstsFKRU) | [George Shearing](https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn) | [September In The Rain](https://open.spotify.com/album/5b86ek4lKCKjQgEfCq3142) | 2:46 |
 | 46 | [It Had To Be You \- Live At The Half Note, NYC, 1959](https://open.spotify.com/track/2qSaqU4oifGvpq4bP5VOyc) | [Zoot Sims](https://open.spotify.com/artist/1pwr5rTWLVfqhvHfB7Reap), [Al Cohn](https://open.spotify.com/artist/4yPUoMbYxVJ6XNJWZVJV7Y) | [Jazz Alive! A Night At The Half Note \(Live\)](https://open.spotify.com/album/7JG3HQ0se1jy6zJLQvHfrn) | 10:14 |
@@ -67,9 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fO1VvuMVL0.md) - [plain]
 | 57 | [Just A\-Sittin' And A\-Rockin' \- Live At The Village Vanguard, New York / 1959](https://open.spotify.com/track/7FtbDCBvrIY3slG5Dj9bl1) | [Kenny Burrell Trio](https://open.spotify.com/artist/1W2Oyg9ATMWvuc3cuf31BU) | [A Night At The Vanguard](https://open.spotify.com/album/6do9DeTC2oWB6Zj9yci6ra) | 4:20 |
 | 58 | [Afternoon in Paris](https://open.spotify.com/track/6Us9O1Mb4fpOnvhjPovtwV) | [John Lewis](https://open.spotify.com/artist/7G7zZjjTwBZ9vzaoogk95s) | [The Wonderful World Of Jazz](https://open.spotify.com/album/7bVINZrNHFkVADBBHfOiAh) | 9:58 |
 | 59 | [You Go to My Head](https://open.spotify.com/track/7DcQmtVhcB55QoxXN4Q8VM) | [Teddy Charles](https://open.spotify.com/artist/2LQeYKxQ99Y844Y2fxCGQn) | [The Teddy Charles Tentet](https://open.spotify.com/album/4SIPInfo9sWkrdOQJaLEhh) | 4:25 |
-| 60 | [Lazy Tones](https://open.spotify.com/track/2ppbxxVVyS1XKmNo1NV5qH) | [Jimmy Giuffre](https://open.spotify.com/artist/4RncsrNJ1GDGsFBIxI76L6) | [Voodoo](https://open.spotify.com/album/3o9MM2gxNHvLKBv21JkhnD) | 4:13 |
+| 60 | [Fishin' Around](https://open.spotify.com/track/1z67MjOaUDdtUGMWShXQJM) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k) | [Subconscious\-Lee](https://open.spotify.com/album/59CmIk9Nm4m6qjber66Twe) | 3:44 |
 | 61 | [Ergo \- Remastered 2004](https://open.spotify.com/track/5jiCGxWqwjkmtMcjPlnsgf) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Ensemble \(Expanded Edition / Remastered\)](https://open.spotify.com/album/3ezqu2BdETow1mftd8Qe9c) | 3:11 |
-| 62 | [Fishin' Around](https://open.spotify.com/track/1z67MjOaUDdtUGMWShXQJM) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k) | [Subconscious\-Lee](https://open.spotify.com/album/59CmIk9Nm4m6qjber66Twe) | 3:44 |
+| 62 | [Lazy Tones](https://open.spotify.com/track/2ppbxxVVyS1XKmNo1NV5qH) | [Jimmy Giuffre](https://open.spotify.com/artist/4RncsrNJ1GDGsFBIxI76L6) | [Voodoo](https://open.spotify.com/album/3o9MM2gxNHvLKBv21JkhnD) | 4:13 |
 | 63 | [One Bass Hit](https://open.spotify.com/track/2LkCr3r5s8uyGaZunVB00y) | [The Modern Jazz Quartet](https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI) | [Django \(Rudy Van Gelder Remaster\)](https://open.spotify.com/album/6f7NUwHcqKOtROS8JippAp) | 2:59 |
 | 64 | [On A Riff](https://open.spotify.com/track/2YukMgAWfr4Ew8oONiNLdP) | [Kenny Clarke](https://open.spotify.com/artist/7xwlN7fhoOwNgDmRTwYZOa) | [Plays Andre Hodeir](https://open.spotify.com/album/0s69Ld833Q6OtOtkbRD45O) | 2:55 |
 | 65 | [Solar](https://open.spotify.com/track/6pzpKJYKvHUzOpz9J207j3) | [Phil Woods](https://open.spotify.com/artist/6G4hVmXKJ9NW5JecncK89f) | [Bird Feathers \(Remastered\)](https://open.spotify.com/album/2BvoHpEjeJf6lM0p9720AM) | 5:52 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fO1VvuMVL0.md) - [plain]
 | 74 | [Miles Ahead](https://open.spotify.com/track/43QzmxhO9uwi60JhYmr9ox) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Miles Ahead \(Expanded Edition\)](https://open.spotify.com/album/6WOddaa5Vqp8gQZic8ZUw9) | 3:29 |
 | 75 | [Deception](https://open.spotify.com/track/6Tq8Fj8jZQIO24XhXV5Dno) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Birth Of The Cool](https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf) | 2:48 |
 
-Snapshot ID: `MTY2MjAyNjcwOCwwMDAwMDAwMDExZTBlNWZlOGY4NDFhY2U0MjkzYTZjN2QxMWEyYzdm`
+Snapshot ID: `MTY2MjAyNjcwOCwwMDAwMDAwMDg1Yjc5Y2VjYWFhZTg5YzA4NmQ1YmI4ZjQwZTQwMmQ3`

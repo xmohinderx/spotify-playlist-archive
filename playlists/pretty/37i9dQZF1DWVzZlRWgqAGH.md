@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 
 > Smooth joints\. Cover: bLAck pARty
 
-[Spotify](https://open.spotify.com/user/spotify) - 739,932 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 740,223 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,9 +77,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 | 67 | [Wind Parade](https://open.spotify.com/track/0g941Kqd2InTMBbJO4eFlf) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Wind Parade](https://open.spotify.com/album/48Pb2lWPpTZM3oTCpN1JlV) | 4:48 |
 | 68 | [bend yr ear](https://open.spotify.com/track/3mslSmibP6M7u9RQEOZ2Zh) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [Like Neptune](https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB) | 3:53 |
 | 69 | [So](https://open.spotify.com/track/3fDHHkOEw2Fr8km3T4ixYQ) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [So Sunshine](https://open.spotify.com/album/3tw7ZPvVJo1DqIZvdE6cos) | 2:16 |
-| 70 | [My Sunrise](https://open.spotify.com/track/5YNqZH6TOzS2DkqxLKbwQT) | [Ruti](https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE) | [My Sunrise](https://open.spotify.com/album/41DDrrOZ4v37TFAyXNgaf6) | 3:09 |
-| 71 | [MOVIN'](https://open.spotify.com/track/4Krp00IGilA38asZUpGDYu) | [Bluestaeb](https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [Aréna](https://open.spotify.com/artist/7tVzCaZxXnF83cqVVcJ15j) | [MOVIN'](https://open.spotify.com/album/0Oe48uUpgy05WBgAdYqthi) | 2:33 |
-| 72 | [How Many Years](https://open.spotify.com/track/4u7hPfDnZX5vTO0u5hltt9) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Dawn](https://open.spotify.com/album/3CogjJSvRqbIQuNJVR2JcP) | 3:07 |
+| 70 | [MOVIN'](https://open.spotify.com/track/4Krp00IGilA38asZUpGDYu) | [Bluestaeb](https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [Aréna](https://open.spotify.com/artist/7tVzCaZxXnF83cqVVcJ15j) | [MOVIN'](https://open.spotify.com/album/0Oe48uUpgy05WBgAdYqthi) | 2:33 |
+| 71 | [How Many Years](https://open.spotify.com/track/4u7hPfDnZX5vTO0u5hltt9) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Dawn](https://open.spotify.com/album/3CogjJSvRqbIQuNJVR2JcP) | 3:07 |
+| 72 | [My Sunrise](https://open.spotify.com/track/5YNqZH6TOzS2DkqxLKbwQT) | [Ruti](https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE) | [My Sunrise](https://open.spotify.com/album/41DDrrOZ4v37TFAyXNgaf6) | 3:09 |
 | 73 | [Thin Lines](https://open.spotify.com/track/7DQExWAfGh6haF7grf6rzj) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Thin Lines](https://open.spotify.com/album/1hgO8TWFeOqBIcxJGsDPCO) | 2:51 |
 | 74 | [Moving On](https://open.spotify.com/track/3OiBUTN46KTEHAGr1bfoQU) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [Sober EP](https://open.spotify.com/album/637BqG5QCMGQArqYDelpbV) | 3:14 |
 | 75 | [Please Don't Make Me Cry \- Jordan Rakei Remix](https://open.spotify.com/track/3fku32mH3zk91khNJcmZDR) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt), [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Please Don't Make Me Cry \(Jordan Rakei Remix\)](https://open.spotify.com/album/4qPFh28Iv2d0yRKF0pJE1s) | 4:22 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 | 99 | [feather light](https://open.spotify.com/track/3Xkc6ySTZoa4DPa3rrN2ni) | [santpoort](https://open.spotify.com/artist/7KtVS0f2RQoEhjxDcSGBtJ), [Little Green](https://open.spotify.com/artist/0Kcz7AMOkHHye7xhLJUWTy) | [ocean tales](https://open.spotify.com/album/0ENr07q7h0vsydKinh36FM) | 3:08 |
 | 100 | [So Long](https://open.spotify.com/track/0IgEhBc28DrqMaFCSWrSew) | [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [So Long](https://open.spotify.com/album/2WajwfUOqKOzoicUBCmo14) | 2:23 |
 
-Snapshot ID: `MTY2MzMwMDg2MCwwMDAwMDAwMDgyYTBiNTUxY2VmYjMwNzczZDBhYjM3MDc4NDU5NDYz`
+Snapshot ID: `MTY2MzMwMDg2MCwwMDAwMDAwMDViNjA3ZGRkZDI3YWU5NjZhYWVmOGQ0NzJkMTI3OGFm`

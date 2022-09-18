@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aTyQ3Z9nTc.md) - [plain]
 
 > That bouncy, groovy, dancey sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,960 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,025 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aTyQ3Z9nTc.md) - [plain]
 | 30 | [Free Room \(feat\. Appleby\)](https://open.spotify.com/track/3HEn14GqygLCNfroOnYiZb) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Appleby](https://open.spotify.com/artist/4Y2i9jhU3jW0PVsvTLIbWX) | [Moon Shoes EP](https://open.spotify.com/album/57X0V74PxWKM2fuyf283tE) | 3:37 |
 | 31 | [Twin Flame](https://open.spotify.com/track/15cYjzRUBRrDHn76GdxWiv) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Twin Flame](https://open.spotify.com/album/1SzuRFxlqSZTIWUEE587Oy) | 3:52 |
 | 32 | [Out of Time \- KAYTRANADA Remix](https://open.spotify.com/track/4Rrj1QxDqsj28gv9SiHQRA) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Out Of Time \(Remix Bundle\)](https://open.spotify.com/album/6LuY3APmuxui8BM2oibkrZ) | 4:35 |
-| 33 | [long legs](https://open.spotify.com/track/1h6Clzt71p8iOQpVM4saBz) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [long legs](https://open.spotify.com/album/1Wrt0ZrCiCYv2og1F07LjE) | 4:04 |
+| 33 | [long legs](https://open.spotify.com/track/1h6Clzt71p8iOQpVM4saBz) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [long legs](https://open.spotify.com/album/1Wrt0ZrCiCYv2og1F07LjE) | 4:34 |
 | 34 | [24k](https://open.spotify.com/track/0F2gXzgbzLvK9LrS7yKS8Q) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Last Year Was Weird, Vol\. 2](https://open.spotify.com/album/36nDwdvBHoJMIZn0wzYWrD) | 3:53 |
 | 35 | [hollaback bitch \(with Shygirl & Channel Tres\)](https://open.spotify.com/track/2LFLXzQe95ViTXZeq1WRdx) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [hollaback bitch \(with Shygirl & Channel Tres\)](https://open.spotify.com/album/1hITEiMMdQFFFS2mkWmFd5) | 3:23 |
 | 36 | [10%](https://open.spotify.com/track/41SwdQIX8Hy2u6fuEDgvWr) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 3:06 |

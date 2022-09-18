@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 
 > Orgoglio! David Blank, Andrea Di Giovanni in cover ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,600 likes - 73 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,604 likes - 73 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,10 +76,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 | 66 | [Bang](https://open.spotify.com/track/7gbtsFZWeMQLGYA6zwMfY2) | [Andrea Di Giovanni](https://open.spotify.com/artist/6LgSivOZVfHs4mY4TYobQa) | [Bang](https://open.spotify.com/album/1jumWWMXzGF6WbHwDm6Of2) | 2:50 |
 | 67 | [Tell Me What You See](https://open.spotify.com/track/7He1AYDz7BSwkA0OJ4g7QK) | [Matilde Davoli](https://open.spotify.com/artist/4Q34gFbI9ZFg9T3WZgq0Rh) | [I’m Calling You From My Dreams](https://open.spotify.com/album/2hmcsgrHSJ5An68KwK5ISQ) | 4:05 |
 | 68 | [Dulce de Leche \(feat\. M¥SS KETA\) \- M¥SS KETA remix](https://open.spotify.com/track/7InqoJTGsQE8Dv3VflTrjJ) | [boyrebecca](https://open.spotify.com/artist/5ND8OakLNsL3ifDW9yd1Jo), [ilromantico](https://open.spotify.com/artist/2sr0qRaLGhipr4ATCjpjCh), [M¥SS KETA](https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM) | [Dulce de Leche \(feat\. M¥SS KETA\) \[M¥SS KETA remix\]](https://open.spotify.com/album/0y74kLDhdlHH850w5F5Rla) | 3:06 |
-| 69 | [FUORI!!!](https://open.spotify.com/track/3ujQOSC1tMc3sQUMppJQkK) | [Hey Cabrera!](https://open.spotify.com/artist/5jDaczIoNB0UAsvNWyYFrf), [Francesco Urbano Ragazzi](https://open.spotify.com/artist/1vPNjv1tf5kA9bSQAeyRlw) | [FUORI!!!](https://open.spotify.com/album/6VFWixoW1lG2MXlyPC4fRt) | 2:20 |
-| 70 | [Kittin Is High](https://open.spotify.com/track/6TgrLC5nud9cJpLI7EjzOk) | [Miss Kittin](https://open.spotify.com/artist/3QhNv79NoIvarU6N57GBzL) | [BatBox](https://open.spotify.com/album/55Natk4fqvjCMQkB8ys04q) | 3:51 |
+| 69 | [Kittin Is High](https://open.spotify.com/track/6TgrLC5nud9cJpLI7EjzOk) | [Miss Kittin](https://open.spotify.com/artist/3QhNv79NoIvarU6N57GBzL) | [BatBox](https://open.spotify.com/album/55Natk4fqvjCMQkB8ys04q) | 3:51 |
+| 70 | [FUORI!!!](https://open.spotify.com/track/3ujQOSC1tMc3sQUMppJQkK) | [Hey Cabrera!](https://open.spotify.com/artist/5jDaczIoNB0UAsvNWyYFrf), [Francesco Urbano Ragazzi](https://open.spotify.com/artist/1vPNjv1tf5kA9bSQAeyRlw) | [FUORI!!!](https://open.spotify.com/album/6VFWixoW1lG2MXlyPC4fRt) | 2:20 |
 | 71 | [Insegnami la vita](https://open.spotify.com/track/2hzsb9bskRD3XOZP2eMUUC) | [Immanuel Casto](https://open.spotify.com/artist/2zG5ycak5H5A12ypISC39F), [Romina Falconi](https://open.spotify.com/artist/7miQC7MI2Hne4f41KiPi1K) | [Malcostume](https://open.spotify.com/album/3hIdDm2lLaOgB8IkhsciaN) | 3:58 |
-| 72 | [Superomantico](https://open.spotify.com/track/5pLNesqAvfl7ioKe60UDUI) | [Vergo](https://open.spotify.com/artist/7fsXUIISzDuylzbl7ogr9y) | [Superomantico](https://open.spotify.com/album/2qm8ah9gWku9E64JX3Rfsa) | 2:41 |
+| 72 | [Painted Eyes \- Original Mix](https://open.spotify.com/track/7Aaig6TQeCjY6vjy9TlsCw) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W), [Aerea Negrot](https://open.spotify.com/artist/4ix8eWGATi2Ot5ZmWITDaJ) | [Blue Songs](https://open.spotify.com/album/07DoR2BYZ3bApdUCpjf38P) | 6:03 |
 | 73 | [SOTTOPELLE](https://open.spotify.com/track/4I6tfF0z09uVOVXy9fS9e4) | [ELASI](https://open.spotify.com/artist/3C8AlXFIhzxJ4BCKxNQJJ6) | [SOTTOPELLE](https://open.spotify.com/album/0HT35YNuCxYKIIxXyhtJsJ) | 3:02 |
 
-Snapshot ID: `MTY2MjY3NDQ2MCwwMDAwMDAwMDRiYjMyOTQ3OWFhYmVmMDM5YTNmOTQ5ZjJlYzFlNjRl`
+Snapshot ID: `MTY2MjY3NDQ2MCwwMDAwMDAwMDljYTFhYWI3OWQwYThhODdhZDBkMzVjOGVkOTA2MTcz`

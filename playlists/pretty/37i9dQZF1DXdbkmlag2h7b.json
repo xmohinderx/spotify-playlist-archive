@@ -1,12 +1,12 @@
 {
   "description": "Drift away with enthralling instrumentals.",
-  "num_followers": 626329,
+  "num_followers": 626408,
   "original_name": "DayDreamer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzA3MzYwMSwwMDAwMDAwMDZjNzRkNmM2YjQ5ZmFhNDA1M2VkMGUwMDk5ZWExODI3",
+  "snapshot_id": "MTY2MzA3MzYwMSwwMDAwMDAwMDdhMWY3MTNmYjBiOWIwNjM0OWI0NmYyNjA3Y2I1YTZk",
   "tracks": [
     {
       "added_at": "2022-09-13 12:53:21",
@@ -523,6 +523,22 @@
     {
       "added_at": "2022-09-13 12:53:21",
       "album": {
+        "name": "Hvis du bare vidste",
+        "url": "https://open.spotify.com/album/6EDbhc47346WIRKuBXuZGk"
+      },
+      "artists": [
+        {
+          "name": "Silas Mathiasen",
+          "url": "https://open.spotify.com/artist/0zVBmr5OKI6Lg6t44pipN5"
+        }
+      ],
+      "duration_ms": 162500,
+      "name": "Hvis du bare vidste",
+      "url": "https://open.spotify.com/track/7vGejPhO5QFV6H8U5eMPmL"
+    },
+    {
+      "added_at": "2022-09-13 12:53:21",
+      "album": {
         "name": "Rancul",
         "url": "https://open.spotify.com/album/30dDuezgO9cqoTGi0cMhPn"
       },
@@ -539,18 +555,18 @@
     {
       "added_at": "2022-09-13 12:53:21",
       "album": {
-        "name": "Hvis du bare vidste",
-        "url": "https://open.spotify.com/album/6EDbhc47346WIRKuBXuZGk"
+        "name": "Surrounded By Clouds",
+        "url": "https://open.spotify.com/album/0eWwKaL0udmYdYVSxwHf8b"
       },
       "artists": [
         {
-          "name": "Silas Mathiasen",
-          "url": "https://open.spotify.com/artist/0zVBmr5OKI6Lg6t44pipN5"
+          "name": "Albert Lockwood",
+          "url": "https://open.spotify.com/artist/1ue5TobfrOLU2bnR0slyHY"
         }
       ],
-      "duration_ms": 162500,
-      "name": "Hvis du bare vidste",
-      "url": "https://open.spotify.com/track/7vGejPhO5QFV6H8U5eMPmL"
+      "duration_ms": 158550,
+      "name": "Surrounded By Clouds",
+      "url": "https://open.spotify.com/track/1N7Ot2p082GMdjtCQt179y"
     },
     {
       "added_at": "2022-09-13 12:53:21",
@@ -651,22 +667,6 @@
     {
       "added_at": "2022-09-13 12:53:21",
       "album": {
-        "name": "Surrounded By Clouds",
-        "url": "https://open.spotify.com/album/0eWwKaL0udmYdYVSxwHf8b"
-      },
-      "artists": [
-        {
-          "name": "Albert Lockwood",
-          "url": "https://open.spotify.com/artist/1ue5TobfrOLU2bnR0slyHY"
-        }
-      ],
-      "duration_ms": 158550,
-      "name": "Surrounded By Clouds",
-      "url": "https://open.spotify.com/track/1N7Ot2p082GMdjtCQt179y"
-    },
-    {
-      "added_at": "2022-09-13 12:53:21",
-      "album": {
         "name": "Softly",
         "url": "https://open.spotify.com/album/1vjK9hSqKvWZq30rD1Zpin"
       },
@@ -715,6 +715,26 @@
     {
       "added_at": "2022-09-13 12:53:21",
       "album": {
+        "name": "Prism",
+        "url": "https://open.spotify.com/album/2NnXGaOmsxE2nFjUxK2WbL"
+      },
+      "artists": [
+        {
+          "name": "Abe Hathot",
+          "url": "https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw"
+        },
+        {
+          "name": "Amor Omnia",
+          "url": "https://open.spotify.com/artist/3xZqDWMopPwRTofjFUWBqu"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Prism",
+      "url": "https://open.spotify.com/track/6YLrARPrFzyhPSNDBzVWc2"
+    },
+    {
+      "added_at": "2022-09-13 12:53:21",
+      "album": {
         "name": "The Shed",
         "url": "https://open.spotify.com/album/6sVPnW1rebLMRMSFBfmhp4"
       },
@@ -743,26 +763,6 @@
       "duration_ms": 126774,
       "name": "Surface",
       "url": "https://open.spotify.com/track/0ll896dtsA8odiG60bm3bK"
-    },
-    {
-      "added_at": "2022-09-13 12:53:21",
-      "album": {
-        "name": "Prism",
-        "url": "https://open.spotify.com/album/2NnXGaOmsxE2nFjUxK2WbL"
-      },
-      "artists": [
-        {
-          "name": "Abe Hathot",
-          "url": "https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw"
-        },
-        {
-          "name": "Amor Omnia",
-          "url": "https://open.spotify.com/artist/3xZqDWMopPwRTofjFUWBqu"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Prism",
-      "url": "https://open.spotify.com/track/6YLrARPrFzyhPSNDBzVWc2"
     },
     {
       "added_at": "2022-09-13 12:53:21",
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-09-13 12:53:21",
       "album": {
-        "name": "Affinity",
-        "url": "https://open.spotify.com/album/6uD6JL6Uw4zWYUc0aRUUvt"
-      },
-      "artists": [
-        {
-          "name": "FANAR",
-          "url": "https://open.spotify.com/artist/2cmv3GP75BReBnDT1kWyOE"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Affinity",
-      "url": "https://open.spotify.com/track/0N0nIMZDHHv9vCbo1XfN5a"
-    },
-    {
-      "added_at": "2022-09-13 12:53:21",
-      "album": {
         "name": "Dramatique Musique Classique",
         "url": "https://open.spotify.com/album/77tCQQ2AjoNlye3AgO7jV4"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 170344,
       "name": "Sonata Path\u00e9tique",
       "url": "https://open.spotify.com/track/2NCG0u2NT7KceLxCjseW3A"
+    },
+    {
+      "added_at": "2022-09-13 12:53:21",
+      "album": {
+        "name": "Affinity",
+        "url": "https://open.spotify.com/album/6uD6JL6Uw4zWYUc0aRUUvt"
+      },
+      "artists": [
+        {
+          "name": "FANAR",
+          "url": "https://open.spotify.com/artist/2cmv3GP75BReBnDT1kWyOE"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Affinity",
+      "url": "https://open.spotify.com/track/0N0nIMZDHHv9vCbo1XfN5a"
     },
     {
       "added_at": "2022-09-13 12:53:21",
@@ -947,22 +947,6 @@
     {
       "added_at": "2022-09-13 12:53:21",
       "album": {
-        "name": "The Light of Day",
-        "url": "https://open.spotify.com/album/7mMVxWIPhNEyozLDXxqw71"
-      },
-      "artists": [
-        {
-          "name": "Chymeris",
-          "url": "https://open.spotify.com/artist/2WuwBckoWivO9e7DgRFt6F"
-        }
-      ],
-      "duration_ms": 167386,
-      "name": "The Light of Day",
-      "url": "https://open.spotify.com/track/214O1Gcgv9lCWJoley3Ttg"
-    },
-    {
-      "added_at": "2022-09-13 12:53:21",
-      "album": {
         "name": "Aion",
         "url": "https://open.spotify.com/album/1APMXdCylpxLp18wKiVHTh"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 124212,
       "name": "Aion",
       "url": "https://open.spotify.com/track/09aXsDzTB0HxnZw6zvKwqf"
+    },
+    {
+      "added_at": "2022-09-13 12:53:21",
+      "album": {
+        "name": "The Light of Day",
+        "url": "https://open.spotify.com/album/7mMVxWIPhNEyozLDXxqw71"
+      },
+      "artists": [
+        {
+          "name": "Chymeris",
+          "url": "https://open.spotify.com/artist/2WuwBckoWivO9e7DgRFt6F"
+        }
+      ],
+      "duration_ms": 167386,
+      "name": "The Light of Day",
+      "url": "https://open.spotify.com/track/214O1Gcgv9lCWJoley3Ttg"
     },
     {
       "added_at": "2022-09-13 12:53:21",
@@ -995,22 +995,6 @@
     {
       "added_at": "2022-09-13 12:53:21",
       "album": {
-        "name": "The Shortest Flight",
-        "url": "https://open.spotify.com/album/3iSyKd9tGWNNUl2QCPvw06"
-      },
-      "artists": [
-        {
-          "name": "Hisham Kharma",
-          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
-        }
-      ],
-      "duration_ms": 118600,
-      "name": "The Shortest Flight",
-      "url": "https://open.spotify.com/track/0eRujTuQz5mwL54tcZrNKN"
-    },
-    {
-      "added_at": "2022-09-13 12:53:21",
-      "album": {
         "name": "Whispers",
         "url": "https://open.spotify.com/album/5EveBFVczPS39O5zPE1mi9"
       },
@@ -1027,18 +1011,34 @@
     {
       "added_at": "2022-09-13 12:53:21",
       "album": {
-        "name": "Meditations for Woods & Winds",
-        "url": "https://open.spotify.com/album/6z79twbAshQfUTVxUW8oJH"
+        "name": "The Shortest Flight",
+        "url": "https://open.spotify.com/album/3iSyKd9tGWNNUl2QCPvw06"
       },
       "artists": [
         {
-          "name": "Northern Lights",
-          "url": "https://open.spotify.com/artist/0pJ7c6jclXmQmxW4Doz1Ny"
+          "name": "Hisham Kharma",
+          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
         }
       ],
-      "duration_ms": 205505,
-      "name": "Oriental Journey",
-      "url": "https://open.spotify.com/track/5qMWKiZ8NELjkXmCiMf0BX"
+      "duration_ms": 118600,
+      "name": "The Shortest Flight",
+      "url": "https://open.spotify.com/track/0eRujTuQz5mwL54tcZrNKN"
+    },
+    {
+      "added_at": "2022-09-13 12:53:21",
+      "album": {
+        "name": "Axiom",
+        "url": "https://open.spotify.com/album/6LaTHlGk5uI1GZ2R5Hy3RW"
+      },
+      "artists": [
+        {
+          "name": "Olivier Lupin",
+          "url": "https://open.spotify.com/artist/3ho5RtJG5r5HUTsUC7ZLSN"
+        }
+      ],
+      "duration_ms": 191320,
+      "name": "Perception",
+      "url": "https://open.spotify.com/track/43uAtp536KbblbYD1K6h99"
     },
     {
       "added_at": "2022-09-13 12:53:21",
@@ -1055,6 +1055,22 @@
       "duration_ms": 127693,
       "name": "Ali",
       "url": "https://open.spotify.com/track/3IhX6v7o2PmZJ3t5v3lI8p"
+    },
+    {
+      "added_at": "2022-09-13 12:53:21",
+      "album": {
+        "name": "Meditations for Woods & Winds",
+        "url": "https://open.spotify.com/album/6z79twbAshQfUTVxUW8oJH"
+      },
+      "artists": [
+        {
+          "name": "Northern Lights",
+          "url": "https://open.spotify.com/artist/0pJ7c6jclXmQmxW4Doz1Ny"
+        }
+      ],
+      "duration_ms": 205505,
+      "name": "Oriental Journey",
+      "url": "https://open.spotify.com/track/5qMWKiZ8NELjkXmCiMf0BX"
     },
     {
       "added_at": "2022-09-13 12:53:21",
@@ -1279,22 +1295,6 @@
       "duration_ms": 147299,
       "name": "Backwaters",
       "url": "https://open.spotify.com/track/6RlmoIqcWkSrIEjCW4Co13"
-    },
-    {
-      "added_at": "2022-09-13 12:53:21",
-      "album": {
-        "name": "Axiom",
-        "url": "https://open.spotify.com/album/6LaTHlGk5uI1GZ2R5Hy3RW"
-      },
-      "artists": [
-        {
-          "name": "Olivier Lupin",
-          "url": "https://open.spotify.com/artist/3ho5RtJG5r5HUTsUC7ZLSN"
-        }
-      ],
-      "duration_ms": 191320,
-      "name": "Perception",
-      "url": "https://open.spotify.com/track/43uAtp536KbblbYD1K6h99"
     },
     {
       "added_at": "2022-09-13 12:53:21",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2022-09-13 12:53:21",
       "album": {
-        "name": "Lucent Path",
-        "url": "https://open.spotify.com/album/3vhS8GgA3Fu9VPS7alGF9d"
+        "name": "Masandra Turnings",
+        "url": "https://open.spotify.com/album/4qgEEqId4Jt9s8keIpKv26"
       },
       "artists": [
         {
-          "name": "NAYAT",
-          "url": "https://open.spotify.com/artist/3JjhxaFpKE0rfGl5ik6gNC"
+          "name": "Tribal Tranquility",
+          "url": "https://open.spotify.com/artist/3kqCmBNUxv4gydsfojdTgS"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Divine Light - Studio Edit",
-      "url": "https://open.spotify.com/track/76b4OvaMSGspOtxlQ7v7Eh"
+      "duration_ms": 166152,
+      "name": "Masandra Turnings",
+      "url": "https://open.spotify.com/track/24QVOrVKmWaFGcWKX9zoyI"
     }
   ],
   "unique_name": "DayDreamer",

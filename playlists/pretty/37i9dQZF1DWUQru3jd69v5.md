@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Cover: Young Rame, Abby 6ix
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,237 likes - 55 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,242 likes - 55 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 
 > Music from “BanG Dream! “ series! 次世代ガールズバンドプロジェクト『BanG Dream!（バンドリ！）』公式プレイリスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,139 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,181 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 | 31 | [Hanazono Electric Guitar!!!](https://open.spotify.com/track/3PepTcSJv2jHSnrSIzDGyR) | [花園たえ\(CV.大塚紗英\)](https://open.spotify.com/artist/3m7Y1adYVPRrEcAFffxV7Q) | [Hanazono Electric Guitar!!!](https://open.spotify.com/album/53BaJSVpvAGh6QiuefarPe) | 3:17 |
 | 32 | [えがお・シング・あ・ソング](https://open.spotify.com/track/3K25B2LGZnEOLXSMTf19ty) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [にこにこねくと!](https://open.spotify.com/album/5TVSmT5HcpQ5TxfAp8KwGF) | 4:08 |
 | 33 | [A DECLARATION OF ×××](https://open.spotify.com/track/2zidm9e4RyoubevfU7VHYM) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [ERA](https://open.spotify.com/album/62C2FYnrqee7cqVlrn24yk) | 5:15 |
-| 34 | [Shuwarin☆Dreaming](https://open.spotify.com/track/5BoibxBflNv4MzwRsjqSO8) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [Shuwarin☆Dreaming](https://open.spotify.com/album/4ZeNepkkacJVPvkDbiro78) | 3:53 |
+| 34 | [きゅ\~まい\*flower](https://open.spotify.com/track/659EbdMtrJVXdQN13bgVRt) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [TITLE IDOL](https://open.spotify.com/album/40dDOmQivDb9fIraBn82i5) | 3:39 |
 | 35 | [COMIC PANIC!!!](https://open.spotify.com/track/6VqqHjxdGXkeqnvEbXsHbx) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [Y.O.L.O!!!!!!](https://open.spotify.com/album/4LDTFJvIlM2KZMBT8ZHchR) | 4:40 |
 | 36 | [Bloom Bloom](https://open.spotify.com/track/4cX6425aZsH2bBJoODN0eE) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [Bloom Bloom](https://open.spotify.com/album/6a8ECUWLbDseAr1t9V5jhf) | 4:36 |
 | 37 | [Blessing Chord](https://open.spotify.com/track/2q6DCS4KiXsi9Uq0qDIRvP) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [ZEAL of proud](https://open.spotify.com/album/7J7hJQW7POnSWG7FUrSx4J) | 4:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 | 49 | [Yes! BanG Dream! \- Acoustic Ver.](https://open.spotify.com/track/483gWlMHuZA8T1Vp5NUtJn) | [牛込りみ\(CV.西本りみ\)](https://open.spotify.com/artist/5WyWRCcDLl2MHHRxUk1tjG) | [Chocolate Bass Recipe](https://open.spotify.com/album/2Ek51ItxeKaV8GQUr9LsjH) | 5:04 |
 | 50 | [Star Beat! \- Acoustic Ver.](https://open.spotify.com/track/4TAFUKOpiDp7a3iDa1xyY2) | [山吹沙綾\(CV.大橋彩香\)](https://open.spotify.com/artist/6JnXnlFTlsvXctXZiWa8fy) | [A Distant Heartbeat](https://open.spotify.com/album/1tZtuwJ2Onp8AnRWR2LQjR) | 5:22 |
 
-Snapshot ID: `MTY2MTg3NTc2OCwwMDAwMDAwMGJiM2U2NDRhNTNiOGZjOGI2M2UzNDFkM2U4YWZhYjVj`
+Snapshot ID: `MTY2MTg3NTc2OCwwMDAwMDAwMGYzZjI5MmE1MjUyNzE3ZDUwNDg0NTdmMmNkOTFjNzE2`

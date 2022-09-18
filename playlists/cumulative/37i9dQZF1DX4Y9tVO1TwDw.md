@@ -4,7 +4,7 @@
 
 > Celebrating Latin Heritage Month con un poquito De TODO! Cover: Omar Apollo
 
-70 songs - 3 hr 36 min - not published yet
+70 songs - 3 hr 36 min - [published](https://open.spotify.com/playlist/6DZwNA9MjbDEuxRfTl6EGo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

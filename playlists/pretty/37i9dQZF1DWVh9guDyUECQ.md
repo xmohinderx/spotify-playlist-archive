@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 
 > Lo nuevo del Trap, Rap y Reggaeton Cristiano\. <br/>Foto: Vaes
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,280 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,346 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 | 35 | [Alante Alante](https://open.spotify.com/track/1BFhZ6d45WF88zYgj6GpC4) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [DTOX](https://open.spotify.com/album/12Zeqvk6kAz8ELKNKztD8e) | 2:48 |
 | 36 | [Irremplazable](https://open.spotify.com/track/6Gafrb0iWf2L8lYKinhvNy) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR) | [Irremplazable](https://open.spotify.com/album/02ZRieI3zzi4LiMhJHP1hA) | 3:55 |
 | 37 | [Tuyo \- Remix](https://open.spotify.com/track/5qSX9n1khCEJY3QQHfob9Z) | [Omy Alka](https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh), [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue) | [Tuyo \(Remix\)](https://open.spotify.com/album/3GVhKm1yGltRwaOflbaRl3) | 4:04 |
-| 38 | [A Ciegas](https://open.spotify.com/track/6yfHerzOkiXdbBmpWMNkTg) | [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue) | [Dosis](https://open.spotify.com/album/13hrTUToYPH3tdDitTnSbR) | 3:56 |
-| 39 | [Color de Alegría](https://open.spotify.com/track/0BL3azhmJZTDtS7frP6rGV) | [Andy Alemany](https://open.spotify.com/artist/40dnXSgTz12SdzNYNGTb8Q), [TWICE](https://open.spotify.com/artist/2yp6zqk49KOKKrOSSsUb75), [Samuel ASH](https://open.spotify.com/artist/0rEA0gRl4PtPfrb2bdAjtv) | [Color de Alegría](https://open.spotify.com/album/26GpKQW06AsnepVCjOwpy9) | 2:41 |
+| 38 | [Color de Alegría](https://open.spotify.com/track/0BL3azhmJZTDtS7frP6rGV) | [Andy Alemany](https://open.spotify.com/artist/40dnXSgTz12SdzNYNGTb8Q), [TWICE](https://open.spotify.com/artist/2yp6zqk49KOKKrOSSsUb75), [Samuel ASH](https://open.spotify.com/artist/0rEA0gRl4PtPfrb2bdAjtv) | [Color de Alegría](https://open.spotify.com/album/26GpKQW06AsnepVCjOwpy9) | 2:41 |
+| 39 | [A Ciegas](https://open.spotify.com/track/6yfHerzOkiXdbBmpWMNkTg) | [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue) | [Dosis](https://open.spotify.com/album/13hrTUToYPH3tdDitTnSbR) | 3:56 |
 | 40 | [123 Enemies](https://open.spotify.com/track/5j29ypXI3IDDGkUppjZtu1) | [Andrez Babii](https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8) | [123 Enemies](https://open.spotify.com/album/0KJsakvLSRRxiJJ91P8qSW) | 3:30 |
 | 41 | [Corazón de Piedra](https://open.spotify.com/track/0PImEtenba1318UQSlkmeP) | [Lowsan Melgar](https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue) | [Corazón de Piedra](https://open.spotify.com/album/4lWKZHImC1eY5HzvjJwP56) | 3:41 |
 | 42 | [No Necesito Doctor.](https://open.spotify.com/track/4dsEUfpG1wyx1KTgBSOyxH) | [Josh Gamez](https://open.spotify.com/artist/7uCU7xpudVdCE7lUJQ7Fwr) | [No Necesito Doctor.](https://open.spotify.com/album/7lpoc4oeAmkRV2NY8uPqNg) | 3:22 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 | 79 | [Vine a Salvarte](https://open.spotify.com/track/5Kfw2HfUHc0amjBI7aM4uC) | [Jaydan](https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Vine a Salvarte](https://open.spotify.com/album/2gO95dqmltMXpDEGTZdvNu) | 3:29 |
 | 80 | [VIVO X TI](https://open.spotify.com/track/3dEo4rRlfd4dN621weMh5j) | [Angel Brown](https://open.spotify.com/artist/4Hpy6w9oVzugC0RBvEO1D0) | [VIVO X TI](https://open.spotify.com/album/59qDobCB7MIjEjdt2brrBL) | 2:59 |
 | 81 | [Sin Gravedad](https://open.spotify.com/track/5jh1Vw7bhJJDGqpPxETFfO) | [Destiny Marko](https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa), [JAVI](https://open.spotify.com/artist/50TBxDRKXkx8BffKq4NKlK) | [Sin Gravedad](https://open.spotify.com/album/3wUhVULJ1PdkhaENsajf7b) | 3:00 |
-| 82 | [Fronteamos Con Amor](https://open.spotify.com/track/6wiYHlQnl1IBe0Djrg2B1c) | [Christian Ponce](https://open.spotify.com/artist/4Xhe8s10yLiuTzG7k1Kq4W), [Ander Bock](https://open.spotify.com/artist/3ARwD7QJqYlDmcFeB6oPQM), [Odanis BSK](https://open.spotify.com/artist/2equ79Fk9Rj9vmQsuJpIJ9) | [Fronteamos Con Amor \(Christian Ponce \- Odanis BSK \- Ander Bock\)](https://open.spotify.com/album/2Kk0D2bP1Xc7VZ8s3F4SP5) | 3:42 |
-| 83 | [Veintiuno](https://open.spotify.com/track/2E9RxS0VwCMa3JRj6BF8Ye) | [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42) | [Veintiuno](https://open.spotify.com/album/2zKdOlERG7tLZtW16hfseO) | 2:24 |
+| 82 | [Veintiuno](https://open.spotify.com/track/2E9RxS0VwCMa3JRj6BF8Ye) | [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42) | [Veintiuno](https://open.spotify.com/album/2zKdOlERG7tLZtW16hfseO) | 2:24 |
+| 83 | [Fronteamos Con Amor](https://open.spotify.com/track/6wiYHlQnl1IBe0Djrg2B1c) | [Christian Ponce](https://open.spotify.com/artist/4Xhe8s10yLiuTzG7k1Kq4W), [Ander Bock](https://open.spotify.com/artist/3ARwD7QJqYlDmcFeB6oPQM), [Odanis BSK](https://open.spotify.com/artist/2equ79Fk9Rj9vmQsuJpIJ9) | [Fronteamos Con Amor \(Christian Ponce \- Odanis BSK \- Ander Bock\)](https://open.spotify.com/album/2Kk0D2bP1Xc7VZ8s3F4SP5) | 3:42 |
 | 84 | [Vuelo](https://open.spotify.com/track/5Fkqabb3R8drUNbWRZ0zep) | [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [Angel Brown](https://open.spotify.com/artist/4Hpy6w9oVzugC0RBvEO1D0) | [Vuelo](https://open.spotify.com/album/5vdIbqun6cWgFXRl5GEobV) | 2:05 |
 | 85 | [TBT](https://open.spotify.com/track/1Sy1t8JobvtBRj0XqxeI9Y) | [Artury Pepper](https://open.spotify.com/artist/00YAB4AxSCscGVzUrSmD57), [Coron3l](https://open.spotify.com/artist/1Tw9uSXSbqS2LFaYEh6wXg) | [TBT](https://open.spotify.com/album/4g8Ak1hKyoU9zjQQm6kTzs) | 3:30 |
 | 86 | [No Te Creo](https://open.spotify.com/track/0u7BTENONWNSjCYvfilAcB) | [Daniela Galeano](https://open.spotify.com/artist/5iBuQW2ANJlj4eqhEv43Be) | [No Te Creo](https://open.spotify.com/album/1EWtFaTW5ytd8X9Q8TtbQb) | 3:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 | 99 | [Los Haters](https://open.spotify.com/track/63WZuf7UX6NS0OEqQTrbFS) | [Mesianico](https://open.spotify.com/artist/1UNM4KxpdpffcCWFYqkTdL), [New Generation Music](https://open.spotify.com/artist/6R1R06Xn3whTgs1ryfcp4v) | [Los Haters](https://open.spotify.com/album/3U1OJJtrmrMkK9mnTUZBcU) | 2:32 |
 | 100 | [Bueno es Dios](https://open.spotify.com/track/3rAquLCHj5eCLUE6r1ARxP) | [Yelitza Cintron](https://open.spotify.com/artist/22XIzHmwPvEbKCT1dnLMt8), [Eliud L'voices](https://open.spotify.com/artist/3DdifZ1wsTopflKfF6WFYj) | [Bueno es Dios](https://open.spotify.com/album/6td6DYfOLlkA1AhBdwpFJE) | 2:59 |
 
-Snapshot ID: `MTY2MTU3NjY4NSwwMDAwMDAwMDUxYzljYmFjYmZmMjJlM2M5MGM3NTJhZTRhMjM3OTU4`
+Snapshot ID: `MTY2MTU3NjY4NSwwMDAwMDAwMDdiYjZlNWVkZDVhMjc1NDllN2Y5ZDQ1YjBlN2ZmYWJl`

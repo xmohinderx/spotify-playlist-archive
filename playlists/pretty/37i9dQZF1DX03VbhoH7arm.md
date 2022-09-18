@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03VbhoH7arm.md) - [plain]
 
 > Os grandes hits do momento estão aqui! Foto: Anitta, L7NNON
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,160,975 likes - 52 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,161,493 likes - 52 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DeyeaDuJmw.md) - [plain]
 
 > Acá hay letra\. Foto: Anuel AA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,464 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,588 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

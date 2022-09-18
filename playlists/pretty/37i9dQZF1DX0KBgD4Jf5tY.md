@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Nuove scoperte dalla scena indipendente italiana, senza etichette di genere\. Cover: <a href="spotify:artist:6TWgi8oIy1OFh9P7EglVUt">Arieti Rilassati</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,347 likes - 55 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,350 likes - 55 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

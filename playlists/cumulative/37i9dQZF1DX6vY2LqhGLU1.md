@@ -4,7 +4,7 @@
 
 > Enjoy Christmas songs that are staples at the home of your favorite artists\.  Cover: Phil Wickham
 
-33 songs - 1 hr 59 min - [published](https://open.spotify.com/playlist/4R8F66wNxVjPIlXGl9Pnll)
+34 songs - 2 hr 5 min - [published](https://open.spotify.com/playlist/4R8F66wNxVjPIlXGl9Pnll)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [O Come, O Come Emmanuel](https://open.spotify.com/track/7rZci3sRu1CLjAJRsId7FO) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Christmas Collection, Vol\. 1](https://open.spotify.com/album/1DINBPK1Aqj6Y4Cjf3w11o) | 4:14 | 2020-12-21 |  |
 | [O Holy Night](https://open.spotify.com/track/3B7FO3kJ5kv3mX7yiaB7sT) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:26 | 2020-12-21 |  |
 | [O Little Town Of Bethlehem \- Remastered 1999](https://open.spotify.com/track/5CYDpxZQQtvR9epP9gjxXy) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Classic Christmas](https://open.spotify.com/album/2JPJRewGu9HBOwfDFH1A7d) | 2:19 | 2020-12-21 |  |
-| [O Tannenbaum](https://open.spotify.com/track/34rzJNfTd5e9s3TICFMPD0) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \[2012 Remastered & Expanded Edition\]](https://open.spotify.com/album/7DuJYWu66RPdcekF5TuZ7w) | 5:09 | 2020-12-21 |  |
+| [O Tannenbaum](https://open.spotify.com/track/34rzJNfTd5e9s3TICFMPD0) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \[2012 Remastered & Expanded Edition\]](https://open.spotify.com/album/7DuJYWu66RPdcekF5TuZ7w) | 5:09 | 2020-12-21 | 2022-09-18 |
+| [O Tannenbaum](https://open.spotify.com/track/4YhY2qHdBmSX33uj8ms0oq) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \[2012 Remastered & Expanded Edition\]](https://open.spotify.com/album/2XnNY3GEkbWHor5kyvXLu4) | 5:09 | 2020-12-21 |  |
 | [Silent Night](https://open.spotify.com/track/2WsfrJof0Hh9fz0ZxTC2Ey) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Silent Night](https://open.spotify.com/album/47KGGJrL31NSbqcfHN3gmJ) | 3:41 | 2020-12-21 |  |
 | [Silver Bells](https://open.spotify.com/track/2MpextDSUjiWKWBZIaqUpz) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [20th Century Masters \- The Best of Stevie Wonder: The Christmas Collection](https://open.spotify.com/album/734TT1LYLvM5gAAYvG0DSw) | 2:22 | 2020-12-21 |  |
 | [Silver Bells](https://open.spotify.com/track/6k3PK8WeL2ZyMzVpQJuhWv) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Best Of/20th Century \- Christmas](https://open.spotify.com/album/1KVi81lvCshX6TViDnh1Po) | 2:22 | 2020-12-21 | 2022-07-29 |

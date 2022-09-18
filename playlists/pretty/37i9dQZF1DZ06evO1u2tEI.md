@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1u2tEI.md) - [plain]
 
 > This is Elliott Smith\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,874 likes - 45 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,894 likes - 45 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,12 +46,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1u2tEI.md) - [plain]
 | 36 | [Because](https://open.spotify.com/track/0W78mVK0xVPpOD7oh4medH) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Figure 8 \(Deluxe Edition\)](https://open.spotify.com/album/5EUL6RGTIuVJCaCWGOedan) | 2:19 |
 | 37 | [High Times](https://open.spotify.com/track/72fRYCzzLOdbuzDJ2RYUSU) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [New Moon](https://open.spotify.com/album/22KjY8SLvYh2DVMmLPPatF) | 3:11 |
 | 38 | [No Name \#3](https://open.spotify.com/track/5xmqzcBqw4c0c5gcDHthDO) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Roman Candle](https://open.spotify.com/album/0V3n79cWMOFFRCji5HOUhN) | 3:13 |
-| 39 | [Let's Get Lost](https://open.spotify.com/track/39GFqAvg1Bvabc4syFawmY) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [From A Basement On The Hill](https://open.spotify.com/album/2K4OE5cl22fNSRrwzrhIZZ) | 2:27 |
+| 39 | [The Last Hour](https://open.spotify.com/track/7DgQ1vzahOgimHdnm2pQov) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [From A Basement On The Hill](https://open.spotify.com/album/2K4OE5cl22fNSRrwzrhIZZ) | 3:27 |
 | 40 | [Going Nowhere](https://open.spotify.com/track/00tFEPQtl9JiaIhpu1Ck8u) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [New Moon](https://open.spotify.com/album/7shC5Rf3b9a2rTEFP0Fel3) | 3:51 |
 | 41 | [Last Call](https://open.spotify.com/track/2zzJVFSgRcu1ClWtYqlad8) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Roman Candle](https://open.spotify.com/album/0V3n79cWMOFFRCji5HOUhN) | 4:38 |
-| 42 | [The Last Hour](https://open.spotify.com/track/7DgQ1vzahOgimHdnm2pQov) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [From A Basement On The Hill](https://open.spotify.com/album/2K4OE5cl22fNSRrwzrhIZZ) | 3:27 |
+| 42 | [Let's Get Lost](https://open.spotify.com/track/39GFqAvg1Bvabc4syFawmY) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [From A Basement On The Hill](https://open.spotify.com/album/2K4OE5cl22fNSRrwzrhIZZ) | 2:27 |
 | 43 | [Pretty Mary K \(Other Version\)](https://open.spotify.com/track/4McT6LfoHcdF0DaWmBYuau) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [New Moon](https://open.spotify.com/album/22KjY8SLvYh2DVMmLPPatF) | 3:24 |
 | 44 | [No Name \#2](https://open.spotify.com/track/03Nc7jSUCH99Uy6kcJMSxW) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Roman Candle](https://open.spotify.com/album/0V3n79cWMOFFRCji5HOUhN) | 3:34 |
 | 45 | [Talking To Mary](https://open.spotify.com/track/3BkD7KRNgTXh0bLLL2TsWQ) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [New Moon](https://open.spotify.com/album/22KjY8SLvYh2DVMmLPPatF) | 3:42 |
 
-Snapshot ID: `Mjc3MjIyMzMsMDAwMDAwMDAyYzU2MDI0ZTBhMzNmODliMWNhM2FhZGQyOGZkNWQxZA==`
+Snapshot ID: `Mjc3MjM2OTMsMDAwMDAwMDBmN2M2YjA2MzM0YmUyOTE1NjY4ODBiOWIwYzI1M2Y3Yg==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0unpD0.md) - [plain]
 
 > This is Salif Keita\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,586 likes - 50 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,591 likes - 50 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,11 +28,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0unpD0.md) - [plain]
 | 18 | [Ana Na Ming](https://open.spotify.com/track/5ieZTFPrAD1BHBTF0amnyF) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Moffou](https://open.spotify.com/album/2gaL1CaBNmkk4c6jUhKcGX) | 6:17 |
 | 19 | [Cono](https://open.spotify.com/track/3Qx1zzq02YSVa1UMzApnQx) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Anthology](https://open.spotify.com/album/1MtV9HzzK1SRuAzIBfZ839) | 6:02 |
 | 20 | [Nyanyama](https://open.spotify.com/track/358m8bL9LwONarIDQxHWUA) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Folon](https://open.spotify.com/album/29kRIxD16ZaWot5NKCtS9O) | 6:18 |
-| 21 | [Bobo](https://open.spotify.com/track/5oVUDDdJT0fbbNyqbMYDoc) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [M'Bemba](https://open.spotify.com/album/6GUNbIwHYDkuSkcckTDawO) | 5:58 |
+| 21 | [Laban](https://open.spotify.com/track/0LOjFlkfiht3rCSM3lwjih) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [M'Bemba](https://open.spotify.com/album/6GUNbIwHYDkuSkcckTDawO) | 7:28 |
 | 22 | [Iniagige](https://open.spotify.com/track/32pS0vZAnmWe6iYPjaJ0Af) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Moffou](https://open.spotify.com/album/2gaL1CaBNmkk4c6jUhKcGX) | 4:33 |
 | 23 | [Samigna](https://open.spotify.com/track/0frOJC09kJ9NiwH29IujCR) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [La Différence](https://open.spotify.com/album/7a4afzRjojaKFCf9EGmd8B) | 7:09 |
 | 24 | [Mandjou](https://open.spotify.com/track/570RkoEwDPsjg5h16A0xsl) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Folon](https://open.spotify.com/album/29kRIxD16ZaWot5NKCtS9O) | 10:37 |
-| 25 | [Laban](https://open.spotify.com/track/0LOjFlkfiht3rCSM3lwjih) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [M'Bemba](https://open.spotify.com/album/6GUNbIwHYDkuSkcckTDawO) | 7:28 |
+| 25 | [Bobo](https://open.spotify.com/track/5oVUDDdJT0fbbNyqbMYDoc) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [M'Bemba](https://open.spotify.com/album/6GUNbIwHYDkuSkcckTDawO) | 5:58 |
 | 26 | [Deri](https://open.spotify.com/track/1PXSEtSOVpFV1znyEWeoXz) | [Kante Manfila](https://open.spotify.com/artist/5jV3QFs1sz5YntY03TOzw9), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Dans l'authenticité, Vol\. 1](https://open.spotify.com/album/0XZS6TxeHhcBP1RcUzlXwi) | 8:34 |
 | 27 | [Tonton](https://open.spotify.com/track/1Ci6xr5uTiao375hGTtqRS) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Un autre blanc](https://open.spotify.com/album/1KJ5jWC5vJHyeN5s2kyTM7) | 3:43 |
 | 28 | [Toura makan](https://open.spotify.com/track/3WPamMiMcULIj99i8U84JE) | [Kante Manfila](https://open.spotify.com/artist/5jV3QFs1sz5YntY03TOzw9), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Dans l'authenticité \(Mandingue\)](https://open.spotify.com/album/0jJKQyNqelrtVHaaACY7qR) | 12:36 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0unpD0.md) - [plain]
 | 40 | [Kuma](https://open.spotify.com/track/5LFN2u1WNQyC25r37rOSpn) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Amen](https://open.spotify.com/album/6zTnJ8z3GdmTSqOoPEqSr9) | 4:59 |
 | 41 | [Djembe](https://open.spotify.com/track/30102u9oWhTedLkAY26isZ) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [The Mansa Of Mali ..\. A Retrospective](https://open.spotify.com/album/29ERIEUf3msDNaYcJ9Wk3a) | 5:02 |
 | 42 | [San Ka Na](https://open.spotify.com/track/2Oqz0gR5F14zI7zA1ZKEDz) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [La Différence](https://open.spotify.com/album/7a4afzRjojaKFCf9EGmd8B) | 5:28 |
-| 43 | [Tu Vas Me Manquer](https://open.spotify.com/track/5f1cJCTLgiXHNzB1bkxSUJ) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [M'Bemba](https://open.spotify.com/album/2w5jzSHxjRMv1yvepTnO8Z) | 5:49 |
-| 44 | [Karifa](https://open.spotify.com/track/7LERdO5Lsozt0FToKP33WP) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Amen](https://open.spotify.com/album/6zTnJ8z3GdmTSqOoPEqSr9) | 4:05 |
-| 45 | [Guelen](https://open.spotify.com/track/2glWeR2NkywIUE7zzMR6Xb) | [Ballaké Sissoko](https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Djourou](https://open.spotify.com/album/1wqZp9tG65T3FjKAPd5a5u) | 5:32 |
+| 43 | [Sanni Kagniba](https://open.spotify.com/track/5k6du3Uk5dj8IB5lPtGJgH) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Soro](https://open.spotify.com/album/62DPGNE8CtgV8OKT8BUzZG) | 7:58 |
+| 44 | [Tu Vas Me Manquer](https://open.spotify.com/track/5f1cJCTLgiXHNzB1bkxSUJ) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [M'Bemba](https://open.spotify.com/album/2w5jzSHxjRMv1yvepTnO8Z) | 5:49 |
+| 45 | [Karifa](https://open.spotify.com/track/7LERdO5Lsozt0FToKP33WP) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Amen](https://open.spotify.com/album/6zTnJ8z3GdmTSqOoPEqSr9) | 4:05 |
 | 46 | [Gaffou](https://open.spotify.com/track/3j1VHaFQzIf84NqQxWQTHD) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [La Différence](https://open.spotify.com/album/7a4afzRjojaKFCf9EGmd8B) | 7:42 |
-| 47 | [Soro \(Afriki\)](https://open.spotify.com/track/5EoPQlFF6eRdP04DmSc7iA) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Soro](https://open.spotify.com/album/62DPGNE8CtgV8OKT8BUzZG) | 9:50 |
-| 48 | [Lony](https://open.spotify.com/track/1jDI4xBByWxisEYzKXwJAn) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Amen](https://open.spotify.com/album/6zTnJ8z3GdmTSqOoPEqSr9) | 7:55 |
-| 49 | [Ignadjidje](https://open.spotify.com/track/5fhNHOjj1ewYB52gFsvlLP) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [The Mansa Of Mali ..\. A Retrospective](https://open.spotify.com/album/29ERIEUf3msDNaYcJ9Wk3a) | 6:04 |
-| 50 | [Djigui](https://open.spotify.com/track/3ivfPKq9STP6XClKC3P6sz) | [Kante Manfila](https://open.spotify.com/artist/5jV3QFs1sz5YntY03TOzw9), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Dans l'authenticité \(Mandingue\)](https://open.spotify.com/album/0jJKQyNqelrtVHaaACY7qR) | 8:07 |
+| 47 | [Guelen](https://open.spotify.com/track/2glWeR2NkywIUE7zzMR6Xb) | [Ballaké Sissoko](https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Djourou](https://open.spotify.com/album/1wqZp9tG65T3FjKAPd5a5u) | 5:32 |
+| 48 | [Soro \(Afriki\)](https://open.spotify.com/track/5EoPQlFF6eRdP04DmSc7iA) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Soro](https://open.spotify.com/album/62DPGNE8CtgV8OKT8BUzZG) | 9:50 |
+| 49 | [Lony](https://open.spotify.com/track/1jDI4xBByWxisEYzKXwJAn) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Amen](https://open.spotify.com/album/6zTnJ8z3GdmTSqOoPEqSr9) | 7:55 |
+| 50 | [Ignadjidje](https://open.spotify.com/track/5fhNHOjj1ewYB52gFsvlLP) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [The Mansa Of Mali ..\. A Retrospective](https://open.spotify.com/album/29ERIEUf3msDNaYcJ9Wk3a) | 6:04 |
 
-Snapshot ID: `Mjc3MjIyMzMsMDAwMDAwMDA4NTA2ZTBhYjA4YTQ5Mjc5Y2MzYjJiOWZjNDdkM2RlZQ==`
+Snapshot ID: `Mjc3MjM2OTIsMDAwMDAwMDBhZjgyY2I2NTJjMTAwY2NjNzk1MmZhMzhmNmRlMDE4MA==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblV99WEHIW4.md) - [plain]
 
 > Heavy music that understands.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,058 likes - 80 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,234 likes - 80 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblV99WEHIW4.md) - [plain]
 | 10 | [Remember Me](https://open.spotify.com/track/7MXWdvqzy7viwrTSPy9Gon) | [Embrace](https://open.spotify.com/artist/74K7bX12L8GBAWvPuyIgJ7) | [How To Be A Person Like Other People](https://open.spotify.com/album/2DoKntiTZn1YxdyfQHgA4D) | 3:41 |
 | 11 | [All I Wanted](https://open.spotify.com/track/1Bv3h7Vc4AaYA2BcSM3rVd) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A) | 3:45 |
 | 12 | [Snuff](https://open.spotify.com/track/3RptaQ5Xb8WvtpItZ2f9Hi) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [All Hope Is Gone](https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA) | 4:36 |
-| 13 | [Pain](https://open.spotify.com/track/5PZ2cqh9Yem2g6cTSOLllz) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [One\-X](https://open.spotify.com/album/4ZDwEvXIKxWdwhAQK8ndBU) | 3:22 |
-| 14 | [Call Me When You're Sober](https://open.spotify.com/track/663Karu2rvKLdnY0eo1n3M) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Open Door](https://open.spotify.com/album/3lFQ9ihSNR5YD0yi0yTzdC) | 3:34 |
+| 13 | [Call Me When You're Sober](https://open.spotify.com/track/663Karu2rvKLdnY0eo1n3M) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Open Door](https://open.spotify.com/album/3lFQ9ihSNR5YD0yi0yTzdC) | 3:34 |
+| 14 | [Pain](https://open.spotify.com/track/5PZ2cqh9Yem2g6cTSOLllz) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [One\-X](https://open.spotify.com/album/4ZDwEvXIKxWdwhAQK8ndBU) | 3:22 |
 | 15 | [Teardrops](https://open.spotify.com/track/3WATWS2Ywo5HeHtG0bE2iZ) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [POST HUMAN: SURVIVAL HORROR](https://open.spotify.com/album/0e1WaSNDZnoPixaxDNdWo4) | 3:35 |
 | 16 | [Tears Don't Fall](https://open.spotify.com/track/1kdiiFGX1Htx0aVZYaDwEJ) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison](https://open.spotify.com/album/7zU9hmH9CKQ9Yf5SruqOLM) | 5:48 |
 | 17 | [Covet](https://open.spotify.com/track/1AMADyXgIWayh5vXLZo2qF) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Colourmeinkindness](https://open.spotify.com/album/5uRI7KHcBALPpwhAB9RKnb) | 3:47 |
@@ -81,12 +81,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblV99WEHIW4.md) - [plain]
 | 71 | [Feel Nothing](https://open.spotify.com/track/26m3OLzCB09qlex7GTZS7h) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [Violent Pop](https://open.spotify.com/album/2kVLN2LUjJWEtoCPllEYyp) | 3:42 |
 | 72 | [Caught](https://open.spotify.com/track/7A9NDbXc5OKPVwaVCdHee1) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Caught](https://open.spotify.com/album/4ZPqvJHBWHaFjgSkhWQcOA) | 4:11 |
 | 73 | [Everyone Else Is Just Noise](https://open.spotify.com/track/3Hf8aGNAN6WGshVEUjIZek) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [All The Truth That I Can Tell](https://open.spotify.com/album/1kzA5gBC9bgVLBENxgBAWr) | 3:13 |
-| 74 | [I'm Sorry](https://open.spotify.com/track/1krv4gCltfB9nF1iWzAaLC) | [VUKOVI](https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt) | [Fall Better](https://open.spotify.com/album/75caqQ4HQYSxr9Ke6tFrUD) | 3:35 |
-| 75 | [Bad At Love](https://open.spotify.com/track/3MwjVy96d2KNl99nrFPxmh) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [Bad At Love](https://open.spotify.com/album/0nPFXbRDNvRH0297jTqgTh) | 3:22 |
+| 74 | [Bad At Love](https://open.spotify.com/track/3MwjVy96d2KNl99nrFPxmh) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [Bad At Love](https://open.spotify.com/album/0nPFXbRDNvRH0297jTqgTh) | 3:22 |
+| 75 | [I'm Sorry](https://open.spotify.com/track/1krv4gCltfB9nF1iWzAaLC) | [VUKOVI](https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt) | [Fall Better](https://open.spotify.com/album/75caqQ4HQYSxr9Ke6tFrUD) | 3:35 |
 | 76 | [Perish](https://open.spotify.com/track/2SsrRygE0VPkjFrtcV4PL8) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU) | [Holding Absence](https://open.spotify.com/album/6xEQWs9XbaJBGAy4Jv7piM) | 5:28 |
 | 77 | [Come Down](https://open.spotify.com/track/2UfhoAL6KofiiqDVFLub1W) | [The Dangerous Summer](https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj) | [All That Is Left of the Blue Sky](https://open.spotify.com/album/2uqJYiKPfh8bECEnZ7nYkw) | 3:24 |
 | 78 | [I Heard That You Died](https://open.spotify.com/track/1oZSmPhctg5pEDUrvC1Kpw) | [Secret Keeper](https://open.spotify.com/artist/1PTWE7Ai94DpmZGoZ3I7RA) | [Losing Sleep](https://open.spotify.com/album/46RGSr1CHy2jWrnxt5LFgA) | 3:01 |
 | 79 | [Background Sad](https://open.spotify.com/track/3QgcFagmjAErgUjXXZldZc) | [Icon For Hire](https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7) | [Amorphous](https://open.spotify.com/album/5my61AdRA8g0oBJjVDXcwB) | 3:31 |
 | 80 | [Graduating Life](https://open.spotify.com/track/18mzsMdTswjVIzQ0U06Yqa) | [Mom Jeans.](https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h) | [Graduating Life](https://open.spotify.com/album/7G2sRHP0Xd28Dx4OKjBkqg) | 2:40 |
 
-Snapshot ID: `MTY2MTQ2ODQwMCwwMDAwMDAwMDExZTNiYWQ3ZjlhZjdjMmYyZTFhZjkwM2JkMTE4MjI4`
+Snapshot ID: `MTY2MTQ2ODQwMCwwMDAwMDAwMGM2ZDRiMjIwMDlkOTg2NGQ3NmIzODIzY2Q2YmRjOGIz`

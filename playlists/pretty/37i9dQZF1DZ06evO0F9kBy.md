@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F9kBy.md) - [plain]
 
 > This is Matt Maher\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,819 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,831 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,16 +22,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F9kBy.md) - [plain]
 | 12 | [All the People Said Amen](https://open.spotify.com/track/31HveB33DoO9x7P3UvkRct) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [All The People Said Amen](https://open.spotify.com/album/2WtZ4nYCFphrLzFcjuxhyu) | 3:00 |
 | 13 | [Run To The Father](https://open.spotify.com/track/2Sl2SQCQ3SAqB9u08FVeSc) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive & Breathing](https://open.spotify.com/album/1BxJ93fbfJSKQ4GWqUcQB9) | 4:41 |
 | 14 | [Señor, Te Necesito](https://open.spotify.com/track/2EullfPQH8lklDEZSVPDJM) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Señor, Te Necesito](https://open.spotify.com/album/6prmSJ9bjlXsxKqIQVxNxK) | 3:24 |
-| 15 | [Only Good Will Grow \(feat\. Brian Elmquist\)](https://open.spotify.com/track/4wVD5bjDg7vJErEv0a4apm) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Brian Elmquist](https://open.spotify.com/artist/5EfuemsjOXqraQLj0WAjHM) | [Only Good Will Grow](https://open.spotify.com/album/36OsXL7Ib4ux8PGSrvTi5P) | 2:32 |
-| 16 | [Just as I Am](https://open.spotify.com/track/6gCXdSruNlJtm3guzzlaET) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Echoes \(Deluxe Edition\)](https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA) | 4:11 |
+| 15 | [Just as I Am](https://open.spotify.com/track/6gCXdSruNlJtm3guzzlaET) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Echoes \(Deluxe Edition\)](https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA) | 4:11 |
+| 16 | [Only Good Will Grow \(feat\. Brian Elmquist\)](https://open.spotify.com/track/4wVD5bjDg7vJErEv0a4apm) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Brian Elmquist](https://open.spotify.com/artist/5EfuemsjOXqraQLj0WAjHM) | [Only Good Will Grow](https://open.spotify.com/album/36OsXL7Ib4ux8PGSrvTi5P) | 2:32 |
 | 17 | [Hosanna! \(Will You Rise?\)](https://open.spotify.com/track/1gZywnKlKqwRqtOFOUxKKg) | [The Porter's Gate](https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Climate Vigil Songs](https://open.spotify.com/album/2WHh6TmX4BFuPLBsPwaWff) | 4:51 |
 | 18 | [How Great \(Single Mix\)](https://open.spotify.com/track/0tpIBH9ycxYugBonIfWu1b) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Worship EP](https://open.spotify.com/album/77ccastPsMW1B90lFVV4vZ) | 3:41 |
 | 19 | [No Body \(feat\. Matt Maher\)](https://open.spotify.com/track/3KhD8sFLTlH2rFvMskQoUb) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Get Out of the Way of Your Own Heart \(Deluxe Edition\)](https://open.spotify.com/album/2NHhXUmXes3Ky0hdwDpStN) | 4:06 |
 | 20 | [My Only Love](https://open.spotify.com/track/3dSvjnkPXd7QqYdwGpBxxY) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Love In Between](https://open.spotify.com/album/0VatKO8y9ivCWD4obvX4U7) | 3:34 |
 | 21 | [Burning In My Soul](https://open.spotify.com/track/39mcodzxm2M8FgxVsUzV9K) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [All The People Said Amen](https://open.spotify.com/album/2WtZ4nYCFphrLzFcjuxhyu) | 3:45 |
-| 22 | [Bigger Table](https://open.spotify.com/track/76LbmiM3FBV5mGMB7GXrPw) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Bigger Table](https://open.spotify.com/album/0NAx57507JN5OrI7NE5hSH) | 3:54 |
-| 23 | [Alive Again](https://open.spotify.com/track/5c6flWJGgiffpYElobcA4P) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive Again](https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX) | 3:59 |
-| 24 | [The Stories I Tell Myself](https://open.spotify.com/track/1UJkVw5TWwJDyMQp0VhQxP) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Stories I Tell Myself](https://open.spotify.com/album/6b008GE6li0fwoIQdjzWpv) | 3:53 |
+| 22 | [The Stories I Tell Myself](https://open.spotify.com/track/1UJkVw5TWwJDyMQp0VhQxP) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Stories I Tell Myself](https://open.spotify.com/album/6b008GE6li0fwoIQdjzWpv) | 3:53 |
+| 23 | [Bigger Table](https://open.spotify.com/track/76LbmiM3FBV5mGMB7GXrPw) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Bigger Table](https://open.spotify.com/album/0NAx57507JN5OrI7NE5hSH) | 3:54 |
+| 24 | [Alive Again](https://open.spotify.com/track/5c6flWJGgiffpYElobcA4P) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive Again](https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX) | 3:59 |
 | 25 | [Bless The One \- Live](https://open.spotify.com/track/2sFtpqvyCp68S3pSTfogkK) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [SPACE](https://open.spotify.com/album/7KVDtC0WmoOSK97hXOlJaw) | 4:58 |
 | 26 | [Inheritance](https://open.spotify.com/track/6MyskHQ8Aa8W62Cmi3y9oz) | [Life.Church Worship](https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Grace Upon Grace](https://open.spotify.com/album/6gFtUZRZF30vtAMKk4f0Mc) | 8:01 |
 | 27 | [Your Grace Is Enough/Here I Am Lord \(Live\)](https://open.spotify.com/track/27TeIT5tc6vORm23A1gA4h) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [All The People Said Amen](https://open.spotify.com/album/2WtZ4nYCFphrLzFcjuxhyu) | 6:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F9kBy.md) - [plain]
 | 49 | [Better Is One Day](https://open.spotify.com/track/4B7IRlv7hkdyEOaqQ52zFD) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The End and the Beginning](https://open.spotify.com/album/5erUuY58NJRbEGZexSoItl) | 4:26 |
 | 50 | [Because He Lives \(Amen\) \- \[Live\]](https://open.spotify.com/track/0UIy96vF75u1ebFFmop49Y) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive & Breathing Vol\. 2](https://open.spotify.com/album/6NykyYzeUp4LTAN5hAAKPk) | 3:49 |
 
-Snapshot ID: `Mjc3MjIyMzMsMDAwMDAwMDAxYjg0NjZiMDQ5NmFkNjY0NDZlYTAyZTk2YmYxMTNhZA==`
+Snapshot ID: `Mjc3MjM2OTIsMDAwMDAwMDBiMGUzMWI5OTVmZjkyOTZjOGU1ZDgwZWM2NzFjMmFkZA==`

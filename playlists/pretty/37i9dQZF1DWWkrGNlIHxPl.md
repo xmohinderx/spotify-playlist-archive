@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 
 > Global crossovers by/with Arab artists\. Cover: ElGrandeToto x Ayra Starr.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,503 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,587 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

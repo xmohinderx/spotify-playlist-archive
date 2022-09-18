@@ -4,7 +4,7 @@
 
 > Country music making waves\. Cover: Tanner Adell
 
-103 songs - 5 hr 22 min - [published](https://open.spotify.com/playlist/2oo6Fd5OoiJz8X71tS41jA)
+104 songs - 5 hr 25 min - [published](https://open.spotify.com/playlist/2oo6Fd5OoiJz8X71tS41jA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [Always](https://open.spotify.com/track/1ubGogM1YgLECPXjMNz8EL) | [Norman North](https://open.spotify.com/artist/3qKHegS8r4Q08xagEIJwez) | [The Otherside](https://open.spotify.com/album/4zE25cIUWtl0X9CtNbp2pI) | 2:57 | 2021-12-03 |  |
 | [America Is My Hometown](https://open.spotify.com/track/0PzkjgdekFhhWPm8bsvcoK) | [Coffey Anderson](https://open.spotify.com/artist/29YJnMJ7MoLKPM04siMnP5) | [America Is My Hometown](https://open.spotify.com/album/50b1BnRjuEuWc32uXcQXbn) | 2:54 | 2022-03-25 |  |
 | [B.Y.O.B.](https://open.spotify.com/track/0eV8jHjIz5mC4hrDcARzur) | [Norman North](https://open.spotify.com/artist/3qKHegS8r4Q08xagEIJwez) | [B.Y.O.B.](https://open.spotify.com/album/5ax0ni9GqPz5ClUlFGw3bR) | 1:48 | 2021-12-03 |  |
-| [Baby I Am](https://open.spotify.com/track/6OSa9hgEvituO2SaaYBiwD) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [Baby I Am](https://open.spotify.com/album/44lDYWVwQ1yo5r066GtpSo) | 2:56 | 2021-12-03 |  |
+| [Baby I Am](https://open.spotify.com/track/3pD2qgImjXbfepb5mksDp3) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [Baby I Am](https://open.spotify.com/album/5bg19JZRGPWA2ubmplCSt2) | 2:56 | 2022-09-16 |  |
+| [Baby I Am](https://open.spotify.com/track/6OSa9hgEvituO2SaaYBiwD) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [Baby I Am](https://open.spotify.com/album/44lDYWVwQ1yo5r066GtpSo) | 2:56 | 2021-12-03 | 2022-09-18 |
 | [Ballin'](https://open.spotify.com/track/7v4wYRh7jlMC6vpNKkaLwv) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ) | [Ballin'](https://open.spotify.com/album/3p0m9rgUVt5BIDj2BfAoYi) | 1:54 | 2021-12-03 |  |
 | [Be Like That \- feat\. Swae Lee & Khalid](https://open.spotify.com/track/5f1joOtoMeyppIcJGZQvqJ) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Be Like That \(feat\. Swae Lee & Khalid\)](https://open.spotify.com/album/7MKfE4IRGdrH5bMkqaZ2Tp) | 3:11 | 2021-12-03 |  |
 | [Beer Up](https://open.spotify.com/track/6oWSA5EQdY20ZfZCyvjMki) | [Neon Union](https://open.spotify.com/artist/7L9ainQsqBtaa8JSgh9nub) | [Beer Up](https://open.spotify.com/album/2g75lQNQV0y74O23nk4Jm0) | 3:04 | 2022-03-11 |  |

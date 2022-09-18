@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSfMe9z89s9B.md) - [plain]
 
 > These progressive R&B and soul tracks can't be put in a box\. Cover: Kelela
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,288,068 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,288,201 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSfMe9z89s9B.md) - [plain]
 | 75 | [Daygo \(w/ gianni & kyle\)](https://open.spotify.com/track/1cXbG5cSc9jJMCyW2VnBBv) | [KNOWN.](https://open.spotify.com/artist/1hq8aXIxLXBwfeXGD1sGot), [gianni & kyle](https://open.spotify.com/artist/5i4BaWy8YIun1u3RXwmlWn) | [Daygo \(w/ gianni & kyle\)](https://open.spotify.com/album/0GGqUvHTZgiXPDnIsed3Gz) | 3:12 |
 | 76 | [Bruises](https://open.spotify.com/track/4zuzAypEjNbmkfpMaef7AB) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Bruises](https://open.spotify.com/album/3nS5kN4xG8OhNbR7xmdfX0) | 4:26 |
 | 77 | [Automatic \- Orion Sun Remix](https://open.spotify.com/track/3IQ6PPDCEJBRFiqUCWeyI0) | [Spencer.](https://open.spotify.com/artist/20PdOyVym0ZZrOB1rfcvCR), [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Automatic \(Orion Sun Remix\)](https://open.spotify.com/album/1F9avZunIAFYCpdQWlUiNZ) | 2:04 |
-| 78 | [pressure](https://open.spotify.com/track/1uf4itZeNCVYDHExNH9Ov3) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Getaway](https://open.spotify.com/album/2WtfCHRb8cy4a2x8vOMVkM) | 3:40 |
-| 79 | [CYCLOPS](https://open.spotify.com/track/08wrYXprFh9EkOQEpYOg4p) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [CYCLOPS](https://open.spotify.com/album/0p2Ar5mzLge5fgL0bc0pDm) | 2:09 |
+| 78 | [CYCLOPS](https://open.spotify.com/track/08wrYXprFh9EkOQEpYOg4p) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [CYCLOPS](https://open.spotify.com/album/0p2Ar5mzLge5fgL0bc0pDm) | 2:09 |
+| 79 | [pressure](https://open.spotify.com/track/1uf4itZeNCVYDHExNH9Ov3) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Getaway](https://open.spotify.com/album/2WtfCHRb8cy4a2x8vOMVkM) | 3:40 |
 | 80 | [GHOST](https://open.spotify.com/track/2UFymEI5CxaY7RFcn0SFaz) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [LEILAH](https://open.spotify.com/artist/4dHH0sPGUjJcRXffp9nr1e) | [GHOST](https://open.spotify.com/album/2TjrxpL3ghu3WqCwDJwYrJ) | 2:43 |
 | 81 | [bend yr ear](https://open.spotify.com/track/3mslSmibP6M7u9RQEOZ2Zh) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [Like Neptune](https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB) | 3:53 |
 | 82 | [Bitches Be \(with Jst Ray\)](https://open.spotify.com/track/24CY4TWscXoyZRrmsQdiq1) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [Jst Ray](https://open.spotify.com/artist/4A2ptrgQSJtQrbfltEpoCR) | [she / her / black bitch](https://open.spotify.com/album/0MndM4dEwGOjtuKE1aP2Tb) | 3:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSfMe9z89s9B.md) - [plain]
 | 99 | [Keep Your Head Up](https://open.spotify.com/track/7LKeX6HZw7lSSlaLRGMWWY) | [Khi Infinite](https://open.spotify.com/artist/6wthNkb9tOcsMdNtrHI5vs) | [Keep Your Head Up](https://open.spotify.com/album/5iigwSrb7BkMa9Flopzkr8) | 2:43 |
 | 100 | [Cherie](https://open.spotify.com/track/6vhrwbHQjl4klPXlPLnar4) | [Brandon](https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265) | [Cherie](https://open.spotify.com/album/4Au5ndqAZDgpPJZUIWBslg) | 3:25 |
 
-Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMDU5NGEzMzhmNTFjYTg0NjhhZjRlYmE2MTkxYjQ0MzNm`
+Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMDkwOWM3ODcwMDJhMzU1NjQ1NzM1YTA0ZWJlNmNkOGYx`

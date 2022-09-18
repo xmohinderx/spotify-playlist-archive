@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZREeDGwM6aE.md) - [plain]
 
 > These LGBTQQIA+ trailblazers knocked doors wide open with their music\. Cover: George Michael
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,976 likes - 52 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,114 likes - 52 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZREeDGwM6aE.md) - [plain]
 | 8 | [Where Does the Good Go](https://open.spotify.com/track/0L7QCEXQBDAtEyK1x72Sw0) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [So Jealous](https://open.spotify.com/album/2yNhqBKfZPzrxRJqGMbSz9) | 3:37 |
 | 9 | [Fast Car](https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Tracy Chapman](https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8) | 4:56 |
 | 10 | [Chanel](https://open.spotify.com/track/6Nle9hKrkL1wQpwNfEkxjh) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Chanel](https://open.spotify.com/album/6OGzmhzHcjf0uN9j7dYvZH) | 3:30 |
-| 11 | [It's a Sin \- 2001 Remaster](https://open.spotify.com/track/6IDHh3FcwLVcG5NsmpQgg2) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Actually](https://open.spotify.com/album/7hkIf8sKiJKRjADB2xan74) | 4:59 |
+| 11 | [It's a Sin \- 2018 Remaster](https://open.spotify.com/track/5fy4vfEtv6lzqLx2Mt7stF) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Actually: Further Listening 1987 \- 1988 \(2018 Remaster\)](https://open.spotify.com/album/7ae4SfR2B1wEXX5EwS2Cg7) | 4:59 |
 | 12 | [Tainted Love](https://open.spotify.com/track/0cGG2EouYCEEC3xfa0tDFV) | [Soft Cell](https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc) | [Non\-Stop Erotic Cabaret](https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD) | 2:33 |
 | 13 | [Livin' la Vida Loca](https://open.spotify.com/track/0Ph6L4l8dYUuXFmb71Ajnd) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Ricky Martin](https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj) | 4:03 |
 | 14 | [I Don't Feel Like Dancin' \- Radio Edit](https://open.spotify.com/track/1qEHgdFqUxFebMPk8s2HLY) | [Scissor Sisters](https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o) | [I Don't Feel Like Dancin'](https://open.spotify.com/album/6LPpLYrjQYKtMfDUT1qjOz) | 4:08 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZREeDGwM6aE.md) - [plain]
 | 51 | [Desire](https://open.spotify.com/track/6mH8uF35AIWGlmcQZMAQ9v) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Communion \(Deluxe\)](https://open.spotify.com/album/09mWpzpUOSjjvK2iNqEIYn) | 3:26 |
 | 52 | [Ain't That Peculiar](https://open.spotify.com/track/4RAS6QT974bl5blsapzVGq) | [Fanny](https://open.spotify.com/artist/1Pag7p4HbSdZIDzgNLsk39) | [First Time In A Long Time: The Reprise Recordings](https://open.spotify.com/album/2BkEkcphy0liqTVRSBEEpC) | 4:05 |
 
-Snapshot ID: `MTY2MDI1MTg2OSwwMDAwMDAwMGY5N2YzNDBmMzA0ZGQyOGYxYTQyZTJlOWFjZDRiMTkz`
+Snapshot ID: `MTY2MDI1MTg2OSwwMDAwMDAwMGI2ZjdkZjA1ZjU1ODJkMDQyODE3YzA3YzcwNDZkNGVh`

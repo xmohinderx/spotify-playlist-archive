@@ -8,6 +8,28 @@
   "tracks": [
     {
       "album": {
+        "name": "Any Day Now",
+        "url": "https://open.spotify.com/album/4yp9MilA3JmnynGkK33EZw"
+      },
+      "artists": [
+        {
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        },
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193561,
+      "name": "Any Day Now",
+      "url": "https://open.spotify.com/track/3yl7YwoNy3hzbjQV4Ae4xO"
+    },
+    {
+      "album": {
         "name": "Bed on Fire (with Ingrid Andress)",
         "url": "https://open.spotify.com/album/1tOEXqqFrTxoyHTXhvb8E5"
       },

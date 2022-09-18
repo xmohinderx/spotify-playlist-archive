@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New Music Discovery is what we're about\. Try it on for size\. Cover: Kat & Alex
 
-[Spotify](https://open.spotify.com/user/spotify) - 876,444 likes - 120 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 877,064 likes - 120 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 34 | [Stereotype](https://open.spotify.com/track/6N4iblHDsHG4jOdgjohRV5) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Stereotype](https://open.spotify.com/album/4rl9XdFEi5hIagPjROoA55) | 3:42 |
 | 35 | [Wastin' Whiskey](https://open.spotify.com/track/3h10bRUpzMu0Umm2iXleYb) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [Wastin' Whiskey](https://open.spotify.com/album/2l6aTa5socmv2iQZzF514T) | 3:10 |
 | 36 | [Love You a Little Bit](https://open.spotify.com/track/0JlPeDabMkPpmC9W7TI3BM) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Love You a Little Bit](https://open.spotify.com/album/3SPnI205DIMN5yosDIT0v1) | 3:30 |
-| 37 | [Hear About a Girl](https://open.spotify.com/track/7oYuJA9j1pOdkRWIdWvV01) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [Hear About a Girl](https://open.spotify.com/album/7G4fhfePVOdBvyHcWRJfCz) | 3:07 |
+| 37 | [Hear About a Girl](https://open.spotify.com/track/7aItjCZJYW1fkCUmVZOw8U) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [Hear About a Girl](https://open.spotify.com/album/7oOVhXwJpYlcXiprRa8VNi) | 3:07 |
 | 38 | [Breaking News](https://open.spotify.com/track/66cdCIrACw7lCLjeUQKx6v) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Breaking News](https://open.spotify.com/album/5cMBd65MGVa8H7sEt9Y8Li) | 3:40 |
 | 39 | [Vegas](https://open.spotify.com/track/4eUddSnDzVwdEOAJrgUJTc) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Vegas](https://open.spotify.com/album/691ksPJCtqp8oy1zjVxHNT) | 3:13 |
 | 40 | [Girl In Mine](https://open.spotify.com/track/2DPqR0kuZVjrOF5oxIRYPy) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I) | [Girl In Mine](https://open.spotify.com/album/6R75pGKkSGEsUArsphBZ9W) | 2:35 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 119 | [Oklahoma Breakdown](https://open.spotify.com/track/7J1w5qpIoFFE6YA9BJC5sk) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Peso in My Pocket](https://open.spotify.com/album/18AunqcqOhcZYZewF5uQFQ) | 3:31 |
 | 120 | [What I Get for Loving You](https://open.spotify.com/track/1Yp36OdGRGxo5FOGvKrNFd) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG) | [What I Get for Loving You](https://open.spotify.com/album/5rDXynhwvYoIHdqoTmcQRC) | 3:04 |
 
-Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMDVlYWFlZmZlNzEwMmQ2NmM4NjU5OWI4N2Y5YjI5NzY4`
+Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMDE4YjAyOWNhYjI3ZjJkMmI1ZGNhMTIzMWI2MDI4NzM4`

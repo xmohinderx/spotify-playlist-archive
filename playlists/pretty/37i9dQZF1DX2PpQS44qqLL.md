@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PpQS44qqLL.md) - [plain]
 
 > Siempre espectaculares\. Foto: Vicente Fernández
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,626 likes - 200 songs - 13 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,774 likes - 200 songs - 13 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,10 +125,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PpQS44qqLL.md) - [plain]
 | 115 | [Bella](https://open.spotify.com/track/6NEZnVWFbIRfLLibyIxNNW) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [Mis Mas Grandes Éxitos](https://open.spotify.com/album/28E8gaViYOVOVNz1OQUHD8) | 3:44 |
 | 116 | [Sé Como Duele](https://open.spotify.com/track/5fZyZdlzUAcFTn6Bwu3pLv) | [Karina](https://open.spotify.com/artist/4bCJFFuTF8fuditJEIS1GX) | [Sé Como Duele](https://open.spotify.com/album/27ihlO6JX8joygy2nXsZ1l) | 3:13 |
 | 117 | [No Tengo Dinero](https://open.spotify.com/track/00rGmWgFkJ3qBnbAVUr8tj) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [El Alma Joven](https://open.spotify.com/album/4hHp9T1rXDszlmY3up1fNq) | 3:05 |
-| 118 | [Yo Te Pido Amor](https://open.spotify.com/track/26ufEQiCJn9xe6s2zDBvub) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx) | [Yo Te Pido Amor](https://open.spotify.com/album/18mkaoHzSU5NdiSWc7aQp7) | 3:45 |
-| 119 | [Solo Se Vive una Vez](https://open.spotify.com/track/2e7mL0M7mvjYVANfWPUjCH) | [Monica Naranjo](https://open.spotify.com/artist/0zGM73sadbAOBLev02P8LO) | [Monica Naranjo](https://open.spotify.com/album/1JM9myoPgh1n5Hn0RWLKlz) | 4:13 |
-| 120 | [Donde Estés, Con Quien Estés](https://open.spotify.com/track/6kAM3ltjQyditY5GhZytJP) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [15 Grandes Exitos Vol\. I \- A Peticion Del Publico](https://open.spotify.com/album/3gg0VgB89SEzsLefAstENY) | 4:34 |
-| 121 | [Costumbres](https://open.spotify.com/track/28ANj8vuad6phtclxhmPYO) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Amor Eterno](https://open.spotify.com/album/0UuQzzrlyxMseEttP9hL3C) | 4:32 |
+| 118 | [Costumbres](https://open.spotify.com/track/28ANj8vuad6phtclxhmPYO) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Amor Eterno](https://open.spotify.com/album/0UuQzzrlyxMseEttP9hL3C) | 4:32 |
+| 119 | [Yo Te Pido Amor](https://open.spotify.com/track/26ufEQiCJn9xe6s2zDBvub) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx) | [Yo Te Pido Amor](https://open.spotify.com/album/18mkaoHzSU5NdiSWc7aQp7) | 3:45 |
+| 120 | [Solo Se Vive una Vez](https://open.spotify.com/track/2e7mL0M7mvjYVANfWPUjCH) | [Monica Naranjo](https://open.spotify.com/artist/0zGM73sadbAOBLev02P8LO) | [Monica Naranjo](https://open.spotify.com/album/1JM9myoPgh1n5Hn0RWLKlz) | 4:13 |
+| 121 | [Donde Estés, Con Quien Estés](https://open.spotify.com/track/6kAM3ltjQyditY5GhZytJP) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [15 Grandes Exitos Vol\. I \- A Peticion Del Publico](https://open.spotify.com/album/3gg0VgB89SEzsLefAstENY) | 4:34 |
 | 122 | [Mentiras](https://open.spotify.com/track/1FkCsyMlPzsIJxqRRHurtT) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Coleccion de Oro](https://open.spotify.com/album/03qbgosLANCuqg2jUgmI9V) | 4:10 |
 | 123 | [Mi Vida Eres Tu](https://open.spotify.com/track/02SYuW0BNj2bvwY81HBBTd) | [Rudy La Scala](https://open.spotify.com/artist/0og9Hk6RVwNayDiXdbGVhb) | [Volvamos a Vivir](https://open.spotify.com/album/1TNHTUsVLxVCLyHXhQkmqW) | 3:34 |
 | 124 | [Quién Como Tú](https://open.spotify.com/track/0ElaCi1Qf86iEWhsxCw5h5) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Quien Como Tú](https://open.spotify.com/album/4r2m65IXlmzhi06V5V9Cs5) | 3:31 |
@@ -187,8 +187,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PpQS44qqLL.md) - [plain]
 | 177 | [Amores extraños](https://open.spotify.com/track/2vT5bweFphLcVvpmZR5PEv) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Laura Pausini: 25 Aniversario \(Spanish Version\)](https://open.spotify.com/album/0EXcVDePo397i4Um4vGxGs) | 4:15 |
 | 178 | [Toda la Vida](https://open.spotify.com/track/3bekxMTpuHXZXjvuGWtBx5) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Mis Favoritas](https://open.spotify.com/album/3y1nIDv3YFYPl0Z8ZdyQ9d) | 4:47 |
 | 179 | [El Gato Que Está Triste y Azul \- Un Gato Nel Blu](https://open.spotify.com/track/3SrnZHhXpgtvHerbxEDOWW) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [30 Grandes Canciones](https://open.spotify.com/album/0SHZBwCrRg88Yw6JK850gR) | 3:51 |
-| 180 | [Abrázame](https://open.spotify.com/track/1SGYSOwGX3PPkJc5ihY2zp) | [Rocio Banquells](https://open.spotify.com/artist/0WaPMyYYZZ7yxzG1qhZ5kz) | [Rocio Banquells](https://open.spotify.com/album/2XWgQoX6V3MDSm9dGZGkGz) | 4:11 |
-| 181 | [Cuatro Veces Amor \- En Vivo](https://open.spotify.com/track/2EmwqWL6GnDB2v0mm4QBj2) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p), [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [El Encuentro](https://open.spotify.com/album/4iBEwn186Zj1LAnVncCsXa) | 3:41 |
+| 180 | [Cuatro Veces Amor \- En Vivo](https://open.spotify.com/track/2EmwqWL6GnDB2v0mm4QBj2) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p), [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [El Encuentro](https://open.spotify.com/album/4iBEwn186Zj1LAnVncCsXa) | 3:41 |
+| 181 | [Abrázame](https://open.spotify.com/track/1SGYSOwGX3PPkJc5ihY2zp) | [Rocio Banquells](https://open.spotify.com/artist/0WaPMyYYZZ7yxzG1qhZ5kz) | [Rocio Banquells](https://open.spotify.com/album/2XWgQoX6V3MDSm9dGZGkGz) | 4:11 |
 | 182 | [Vete Con Ella \(Chappell Of Love\)](https://open.spotify.com/track/18yQJpSFRhdRYC4GHVEwcc) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Lucerito](https://open.spotify.com/album/1Ylk1qtCXpMdBpDaZvPd0I) | 3:42 |
 | 183 | [Dudas](https://open.spotify.com/track/7EtOFVnHpg6Czxb7pwG2j0) | [Amanda Miguel](https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN) | [El Sonido Vol\. 3](https://open.spotify.com/album/3K9Lx3MCERuTQswKy5tMQ7) | 3:37 |
 | 184 | [Quinceañera](https://open.spotify.com/track/2Sqg5VH7diEdBoQwJH7ryb) | [Timbiriche](https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO) | [La Historia De Los Éxitos](https://open.spotify.com/album/7ITWVrFjMOo5eVT31GY314) | 2:58 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PpQS44qqLL.md) - [plain]
 | 199 | [Yo Te Amo, Te Amo \- Remastered 2008](https://open.spotify.com/track/498oE5qDqDdiIXjjxIARNF) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx) | [Celebrando La Voz De Yuri](https://open.spotify.com/album/7ujHdVvsepyAQAKtzjjn3p) | 3:22 |
 | 200 | [Hazme Tuya una Vez Mas](https://open.spotify.com/track/6nRaI3IcbXMi3iHbfuiiVk) | [Isabel Pantoja](https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo) | [Desde Andalucia](https://open.spotify.com/album/2z0nGeab4W4lk2AjxG3kbw) | 6:07 |
 
-Snapshot ID: `MTY0MDEwNTU3NSwwMDAwMDAwMGRiYjBiNGRmY2I3ODk3MzliOGYyMjdkZjMxMWM1ZDhh`
+Snapshot ID: `MTY0MDEwNTU3NSwwMDAwMDAwMDc3ZGY0NDhlN2FiOGNlNTRlMzM0ZWYwZWM3NDQxNTNh`

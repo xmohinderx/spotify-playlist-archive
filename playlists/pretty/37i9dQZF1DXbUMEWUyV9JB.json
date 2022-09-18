@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Mu\u00e9vete al ritmo de esta cumbia! Cover: Los \u00c1ngeles Azules, Carlos Vives.",
-  "num_followers": 226794,
+  "num_followers": 226901,
   "original_name": "Super Cumbias",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3NjgwMCwwMDAwMDAwMDU5NzBkYTg4MTAwMDI3NWM4ZWEzZmJlZDhjMmUwY2Mx",
+  "snapshot_id": "MTY2MDI3NjgwMCwwMDAwMDAwMGVjYzFiYzMxM2E4YmM4ODQ3NzRlOTM3MmViZjA5NmNi",
   "tracks": [
     {
       "added_at": "2022-08-12 04:00:00",
@@ -343,6 +343,22 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "Sergio El Bailador",
+        "url": "https://open.spotify.com/album/1sk1X49mukrl5sFPjCtk1y"
+      },
+      "artists": [
+        {
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+        }
+      ],
+      "duration_ms": 169600,
+      "name": "Sergio el Bailador",
+      "url": "https://open.spotify.com/track/3M7WBL64QOmuPiPjhySCJW"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "Con la Fuerza de un Volc\u00e1n",
         "url": "https://open.spotify.com/album/1AIWTMWJGvs517UpZtQ09y"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 150360,
       "name": "El Botecito",
       "url": "https://open.spotify.com/track/2DzLlUtscN7QECJ6E3yvHE"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Sergio El Bailador",
-        "url": "https://open.spotify.com/album/1sk1X49mukrl5sFPjCtk1y"
-      },
-      "artists": [
-        {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
-        }
-      ],
-      "duration_ms": 169600,
-      "name": "Sergio el Bailador",
-      "url": "https://open.spotify.com/track/3M7WBL64QOmuPiPjhySCJW"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -675,18 +675,18 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Cerca De Ti",
-        "url": "https://open.spotify.com/album/08u4HX1MAvPf6IWc8GC2pi"
+        "name": "Cumbias Sin Control",
+        "url": "https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX"
       },
       "artists": [
         {
-          "name": "Super Lamas",
-          "url": "https://open.spotify.com/artist/0A8eZ8ou3msWR8xVkJOFXe"
+          "name": "Control",
+          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
         }
       ],
-      "duration_ms": 252840,
-      "name": "Todo Lo Encuentro En Ti",
-      "url": "https://open.spotify.com/track/7rAKlP1M9qDfYImf6VYnEI"
+      "duration_ms": 172706,
+      "name": "Tao, Tao",
+      "url": "https://open.spotify.com/track/71J3ktUHU5n0EWAfD7VVFX"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -707,6 +707,22 @@
       "duration_ms": 270506,
       "name": "Las Mujers No Se Acaban",
       "url": "https://open.spotify.com/track/0NLSsL8sIElmNuTySSb3s6"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Cerca De Ti",
+        "url": "https://open.spotify.com/album/08u4HX1MAvPf6IWc8GC2pi"
+      },
+      "artists": [
+        {
+          "name": "Super Lamas",
+          "url": "https://open.spotify.com/artist/0A8eZ8ou3msWR8xVkJOFXe"
+        }
+      ],
+      "duration_ms": 252840,
+      "name": "Todo Lo Encuentro En Ti",
+      "url": "https://open.spotify.com/track/7rAKlP1M9qDfYImf6VYnEI"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -739,22 +755,6 @@
       "duration_ms": 244413,
       "name": "Coraz\u00f3n Solitario",
       "url": "https://open.spotify.com/track/7f7ChKewJr4Mjm8rDl53iP"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Cumbias Sin Control",
-        "url": "https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX"
-      },
-      "artists": [
-        {
-          "name": "Control",
-          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
-        }
-      ],
-      "duration_ms": 172706,
-      "name": "Tao, Tao",
-      "url": "https://open.spotify.com/track/71J3ktUHU5n0EWAfD7VVFX"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -971,26 +971,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "A.B. Quintanilla III & Kumbia Kumbia Kings Present The Duets",
-        "url": "https://open.spotify.com/album/05CvQnHFWD0JrII6bfM07e"
-      },
-      "artists": [
-        {
-          "name": "A.B. Quintanilla III Y Los Kumbia Kings",
-          "url": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
-        },
-        {
-          "name": "Ricardo Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/4uIopkxtCr4XkXtDVSEBYq"
-        }
-      ],
-      "duration_ms": 198213,
-      "name": "Fuiste Mala",
-      "url": "https://open.spotify.com/track/5LNYnwMBaqUkNmTiPbRsoY"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "30 Exitos Inolvidables",
         "url": "https://open.spotify.com/album/2RDLZK3ocjN4OHLeFVLJcA"
       },
@@ -1027,18 +1007,42 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "A Mis Amigos",
-        "url": "https://open.spotify.com/album/4TtMhqvX6RwhKMLed7HMHg"
+        "name": "A.B. Quintanilla III & Kumbia Kumbia Kings Present The Duets",
+        "url": "https://open.spotify.com/album/05CvQnHFWD0JrII6bfM07e"
       },
       "artists": [
         {
-          "name": "Alberto Pedraza Con Su Ritmo Y Sabor",
-          "url": "https://open.spotify.com/artist/4UIqtgggXTOuv5y97QQCrl"
+          "name": "A.B. Quintanilla III Y Los Kumbia Kings",
+          "url": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
+        },
+        {
+          "name": "Ricardo Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/4uIopkxtCr4XkXtDVSEBYq"
         }
       ],
-      "duration_ms": 279880,
-      "name": "Mi Corazon Enamorado",
-      "url": "https://open.spotify.com/track/4RWbOGWFhcnQbzafhHUSGB"
+      "duration_ms": 198213,
+      "name": "Fuiste Mala",
+      "url": "https://open.spotify.com/track/5LNYnwMBaqUkNmTiPbRsoY"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "C\u00f3mo Te Voy A Olvidar \u00a1Edici\u00f3n De S\u00faper Lujo!",
+        "url": "https://open.spotify.com/album/6Deil0rDdWFnJfYWryngKd"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 216986,
+      "name": "Mis Sentimientos",
+      "url": "https://open.spotify.com/track/2LyHAsMcpW0Dm17rWYa79p"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1063,22 +1067,18 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "C\u00f3mo Te Voy A Olvidar \u00a1Edici\u00f3n De S\u00faper Lujo!",
-        "url": "https://open.spotify.com/album/6Deil0rDdWFnJfYWryngKd"
+        "name": "A Mis Amigos",
+        "url": "https://open.spotify.com/album/4TtMhqvX6RwhKMLed7HMHg"
       },
       "artists": [
         {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+          "name": "Alberto Pedraza Con Su Ritmo Y Sabor",
+          "url": "https://open.spotify.com/artist/4UIqtgggXTOuv5y97QQCrl"
         }
       ],
-      "duration_ms": 216986,
-      "name": "Mis Sentimientos",
-      "url": "https://open.spotify.com/track/2LyHAsMcpW0Dm17rWYa79p"
+      "duration_ms": 279880,
+      "name": "Mi Corazon Enamorado",
+      "url": "https://open.spotify.com/track/4RWbOGWFhcnQbzafhHUSGB"
     },
     {
       "added_at": "2022-08-12 04:00:00",

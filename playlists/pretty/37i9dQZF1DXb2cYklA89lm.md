@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2cYklA89lm.md) - [plain]
 
 > Fast cars, zombie love, and psychobilly freakouts!
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,802 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,874 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2cYklA89lm.md) - [plain]
 | 24 | [Decompose](https://open.spotify.com/track/6NexeDn8Jgd0q5owW8EgLi) | [Wednesday 13](https://open.spotify.com/artist/6Cvzf33JDzCIw2eJU8npQo) | [Necrophaze](https://open.spotify.com/album/6PsN3csRxymw0Qoykup69Q) | 4:25 |
 | 25 | [Enjoy the Silence](https://open.spotify.com/track/2kL439jP9YGWZ6hdGDDE6l) | [The Brains](https://open.spotify.com/artist/0ujJcXFGHsPI1zGj4UoTKH) | [Psychobilly Goes Pop](https://open.spotify.com/album/7zHdZsf31n2zvmm5FmxHZ0) | 2:09 |
 | 26 | [A Night to Dismember](https://open.spotify.com/track/6Oz1iTAMTFQiOVxHZhNlYQ) | [Bloody Hammers](https://open.spotify.com/artist/6MC1i9hToT9dRxdN4hIHEW) | [Songs of Unspeakable Terror](https://open.spotify.com/album/18WFSTsaFEFNG9P5jM5gxM) | 3:18 |
-| 27 | [Rebirth](https://open.spotify.com/track/5HrTdDEXCIvDw8hpVizq1E) | [The Crimson Ghosts](https://open.spotify.com/artist/23lnhRafqD5vQdQJbJ7Iam) | [Yet Not Human](https://open.spotify.com/album/5NbtaLyBInCV08m1qqayUn) | 3:05 |
-| 28 | [Graveyard Girlfriend](https://open.spotify.com/track/4hyBfSiH8h6xe5MagKN9Aw) | [Kepi Ghoulie & The Copyrights](https://open.spotify.com/artist/07ilVTX7rWZkHA8IIEwogC) | [Re\-Animation Festival](https://open.spotify.com/album/4wTOb6aleIGvVYywjfavKe) | 2:25 |
+| 27 | [Graveyard Girlfriend](https://open.spotify.com/track/4hyBfSiH8h6xe5MagKN9Aw) | [Kepi Ghoulie & The Copyrights](https://open.spotify.com/artist/07ilVTX7rWZkHA8IIEwogC) | [Re\-Animation Festival](https://open.spotify.com/album/4wTOb6aleIGvVYywjfavKe) | 2:25 |
+| 28 | [Rebirth](https://open.spotify.com/track/5HrTdDEXCIvDw8hpVizq1E) | [The Crimson Ghosts](https://open.spotify.com/artist/23lnhRafqD5vQdQJbJ7Iam) | [Yet Not Human](https://open.spotify.com/album/5NbtaLyBInCV08m1qqayUn) | 3:05 |
 | 29 | [Gargoyles Over Copenhagen](https://open.spotify.com/track/7HtSPzWtfn0PWY2NkWGYvq) | [Nekromantix](https://open.spotify.com/artist/3KPGTmc7LTodUo6mG4KvzQ) | [Return Of The Loving Dead](https://open.spotify.com/album/7dr1Aqdu3jMjHKC8J3QCvd) | 3:56 |
 | 30 | [Monster Mutant Boogie](https://open.spotify.com/track/52DIHgGz4qDzxIYBS1EzmS) | [Bloodsucking Zombies from outer Space](https://open.spotify.com/artist/0KqznEOu3uw5H643xIvlq9) | [Decade of Decay – the Gravest Hits of Bzfos](https://open.spotify.com/album/7Lvr4EH8brRQ2iO2MGA3IE) | 3:47 |
 | 31 | [Beyond The Veil](https://open.spotify.com/track/5wW50T3h2AnaQXp6rUALtg) | [Tiger Army](https://open.spotify.com/artist/7ivKiS6TITQYizkbUUahbi) | [Retrofuture](https://open.spotify.com/album/5DbBmt6CrKpGsWnhgYKPX1) | 2:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2cYklA89lm.md) - [plain]
 | 49 | [King of the Waves](https://open.spotify.com/track/2H9eYf6J7fRcgOm4MJrpfI) | [Johnny and the Rotten](https://open.spotify.com/artist/0UxpQSNKdoqA1TOdFnAcng) | [Down the Rabbit Hole](https://open.spotify.com/album/5bRbNwr5O2YUwOYuxf3Fq7) | 3:35 |
 | 50 | [Black Jack Death Bet](https://open.spotify.com/track/6LH2ljS7gXAhWA7o6qoCLz) | [The Brains](https://open.spotify.com/artist/0ujJcXFGHsPI1zGj4UoTKH) | [No Brain, No Pain](https://open.spotify.com/album/2rZ5qNRkmfs9bTaz0bx7Az) | 3:05 |
 
-Snapshot ID: `MTYxMDgxNTY3NSwwMDAwMDAwMDY2NjY5ZThhNDM2ZGNlMTRjYWFjNzA2NDk0NWZhOTkx`
+Snapshot ID: `MTYxMDgxNTY3NSwwMDAwMDAwMDczYTA3ZTNmYzg4ZTU0MTFjNjFjMmViZjg5YjFkMTY5`

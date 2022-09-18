@@ -1,12 +1,12 @@
 {
   "description": "Alternative meets electronic. Cover: Sub Urban + BENEE",
-  "num_followers": 421132,
+  "num_followers": 421251,
   "original_name": "Alternative Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTg5NTI1MSwwMDAwMDAwMGVmYjlhNzAzNjAyNDdiYzg5YWExYjYxOTMxMTZmZDIy",
+  "snapshot_id": "MTY2MTg5NTI1MSwwMDAwMDAwMDUxOGVjMjBhNWM3Mjg0MTQwZmQ3ZjQxZTFlYmVhMzgy",
   "tracks": [
     {
       "added_at": "2022-06-17 04:02:00",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "Feel Real Pretty (Remixes)",
-        "url": "https://open.spotify.com/album/5uM5JzzgYV0obfBY4Ebm2b"
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/4b7DQdQztY3wvk8DJB8bgz"
       },
       "artists": [
         {
-          "name": "Paper Idol",
-          "url": "https://open.spotify.com/artist/6dewigIOIcG6m1XGsG4Mc3"
+          "name": "Diskopunk",
+          "url": "https://open.spotify.com/artist/5Ck4KWOZsbrSQpiLimooDp"
         }
       ],
-      "duration_ms": 183127,
-      "name": "Feel Real Pretty",
-      "url": "https://open.spotify.com/track/2nRcQbL9FZYFii3fFLKPSp"
+      "duration_ms": 197749,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/5jRJlGB5EP7HFKwYBKvlSA"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -1639,22 +1639,6 @@
       "duration_ms": 189920,
       "name": "Sing To Me",
       "url": "https://open.spotify.com/track/17KGTOb8fkxlyTnB5eFnsh"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "Fire",
-        "url": "https://open.spotify.com/album/4b7DQdQztY3wvk8DJB8bgz"
-      },
-      "artists": [
-        {
-          "name": "Diskopunk",
-          "url": "https://open.spotify.com/artist/5Ck4KWOZsbrSQpiLimooDp"
-        }
-      ],
-      "duration_ms": 197749,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/5jRJlGB5EP7HFKwYBKvlSA"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -1823,6 +1807,30 @@
       "duration_ms": 240044,
       "name": "Superhuman (with K.Flay)",
       "url": "https://open.spotify.com/track/0rWQ4sqTFJoPdIXDahOUPX"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "Crown",
+        "url": "https://open.spotify.com/album/6urK9rHyX8MtFn69HBu3eh"
+      },
+      "artists": [
+        {
+          "name": "WE ARE FURY",
+          "url": "https://open.spotify.com/artist/44Wi4QHWK4CzACCqCyxo3x"
+        },
+        {
+          "name": "Brassie",
+          "url": "https://open.spotify.com/artist/7mEgHnF1FvDGiUg2K1Pt2n"
+        },
+        {
+          "name": "Kyle Reynolds",
+          "url": "https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Crown",
+      "url": "https://open.spotify.com/track/0Fnr9uVtG6txfh1TyIyI5s"
     }
   ],
   "unique_name": "Alternative Beats",

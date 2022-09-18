@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3mvx0imueXo.md) - [plain]
 
 > Let the music lift your soul\. Vibes from the different islands in the Caribbean
 
-[Spotify](https://open.spotify.com/user/spotify) - 380,373 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 380,444 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3mvx0imueXo.md) - [plain]
 | 26 | [Thy Will](https://open.spotify.com/track/02TJW1p8g5AWLdbFllCu2K) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [The ExPerience](https://open.spotify.com/album/3fijbBVRaz2CUyoWAV1ZlK) | 4:00 |
 | 27 | [Push Time](https://open.spotify.com/track/4qeMtlPANjhEHKWm3VhmyK) | [Salaam Remi](https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN), [Super Cat](https://open.spotify.com/artist/7hHDN8REbPLpv46ROortOM) | [Push Time](https://open.spotify.com/album/0hG4yN1bfY9KhQcnUTQSDG) | 3:01 |
 | 28 | [The Feeling \(feat\. Johnny Cosmic\)](https://open.spotify.com/track/5DUmNxW374v827lIgnlsZO) | [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1), [Johnny Cosmic](https://open.spotify.com/artist/2vtlgbA3ueA1OowfBPHyLL) | [Hybrid](https://open.spotify.com/album/7lJJIGkMzRbMCEpv6N7qKS) | 3:32 |
-| 29 | [5Gs](https://open.spotify.com/track/6Cby4tZ2EW7ZpXOSLf6cvT) | [Runkus](https://open.spotify.com/artist/3HtqLmblZBFHozJBuKZTzQ), [Jesse Royal](https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1), [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH), [Royal Blu](https://open.spotify.com/artist/5GZOZpWXKPAMPZQrcrnyzx), [Munga Honorable](https://open.spotify.com/artist/4N6urvy01I1p3ZgWLDjmKU) | [IN:SIDE](https://open.spotify.com/album/4QLELkMzJl3mX9YN8DHzYg) | 3:49 |
-| 30 | [The Wicked](https://open.spotify.com/track/306Z0s3TVHyD0cSPJusjht) | [I Wayne](https://open.spotify.com/artist/3HQIkVkhoARQMb0XlvyUKL) | [The Wicked](https://open.spotify.com/album/6Jn6m73eCgN5bQHXAJxNdL) | 4:08 |
+| 29 | [The Wicked](https://open.spotify.com/track/306Z0s3TVHyD0cSPJusjht) | [I Wayne](https://open.spotify.com/artist/3HQIkVkhoARQMb0XlvyUKL) | [The Wicked](https://open.spotify.com/album/6Jn6m73eCgN5bQHXAJxNdL) | 4:08 |
+| 30 | [5Gs](https://open.spotify.com/track/6Cby4tZ2EW7ZpXOSLf6cvT) | [Runkus](https://open.spotify.com/artist/3HtqLmblZBFHozJBuKZTzQ), [Jesse Royal](https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1), [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH), [Royal Blu](https://open.spotify.com/artist/5GZOZpWXKPAMPZQrcrnyzx), [Munga Honorable](https://open.spotify.com/artist/4N6urvy01I1p3ZgWLDjmKU) | [IN:SIDE](https://open.spotify.com/album/4QLELkMzJl3mX9YN8DHzYg) | 3:49 |
 | 31 | [Magic](https://open.spotify.com/track/2md0a0rA0bpwS45hy6suj4) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6), [KES the Band](https://open.spotify.com/artist/1dghdU4VhWh2b4BMf3scHH), [Jimmy October](https://open.spotify.com/artist/7ymbjgoFo1FSdcVCKjxQUn), [Etienne Charles](https://open.spotify.com/artist/4JykHd21q5YnsKDekqnqD3) | [Hello](https://open.spotify.com/album/3pIpTzmFJulw4vtUQ3oEQA) | 4:10 |
 | 32 | [Mr\. Global \(with Kabaka Pyramid\)](https://open.spotify.com/track/45wzZ9CfGX8dDw1qbJTvEp) | [Mellow Mood](https://open.spotify.com/artist/0DoxfbAxoISNySf35oVCN5), [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Mr\. Global \(with Kabaka Pyramid\)](https://open.spotify.com/album/1zXR7PaPj9fKIOC1XAXb2o) | 3:28 |
 | 33 | [40 Days & 40 Nights \(Pt\. 2\)](https://open.spotify.com/track/1vhfL29bRXSpZcA0rBkiES) | [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1), [Salaam Remi](https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN) | [Set up Shop, Vol\. 4](https://open.spotify.com/album/5HRCRgKHqMjnnWmE3VisB0) | 2:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3mvx0imueXo.md) - [plain]
 | 49 | [Plastic Smile](https://open.spotify.com/track/55cJxAVdfFkkoavazIsqev) | [Sizzla](https://open.spotify.com/artist/72T7x96EAqN2UWvAgobYfv), [Bakersteez](https://open.spotify.com/artist/7ME0YHfCVRdZOfApJmHGhh) | [Plastic Smile](https://open.spotify.com/album/75XgUIt3RiQTe9KMFJ8Yns) | 3:43 |
 | 50 | [Good Love \(feat\. General Levy\)](https://open.spotify.com/track/46En06kODv5V6uj9nwoLmj) | [Reggae Roast](https://open.spotify.com/artist/6X9sCKOanZEWlaDnFw24Ed), [General Levy](https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I) | [Good Love \(feat\. General Levy\)](https://open.spotify.com/album/6JRuF0Vy647e0oeqEZTA7b) | 3:03 |
 
-Snapshot ID: `MTY1NTc0NzYzNiwwMDAwMDAwMDZmNDRkM2VlMDdkNWYwODk3ODE2MDBmMmU2N2M5ZTA0`
+Snapshot ID: `MTY1NTc0NzYzNiwwMDAwMDAwMDcwODg0ZGFhZjI4MTgyZDYwM2NmNzk2ZDIzOTdlMDIz`

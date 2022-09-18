@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UB5PW.md) - [plain]
 
 > This is Mastodon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,236 likes - 50 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,257 likes - 50 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UB5PW.md) - [plain]
 | 49 | [Mother Puncher](https://open.spotify.com/track/0mMi2FQIfXbHb8SilRoX8R) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Remission \(Reissue\)](https://open.spotify.com/album/3pVCnqg7COWlaodlNiJIZL) | 3:50 |
 | 50 | [Blue Walsh](https://open.spotify.com/track/60DY0OKJPAtAbXZydBxtXz) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Cold Dark Place](https://open.spotify.com/album/6uSD9SU0j8xgQAIxzPg0Fv) | 5:12 |
 
-Snapshot ID: `Mjc3MjIyMzMsMDAwMDAwMDBhNGJkNTdhZGM3NzgwMDgzOGMyZjdhZWYxZWJhNWRmYw==`
+Snapshot ID: `Mjc3MjM2OTIsMDAwMDAwMDA0ZWRhYjEzMDk2OTI0ZDQ4NWFmY2YyMGEwYWQ4MjI0Yg==`

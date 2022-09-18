@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-08-30",
-  "description": "With Bruno Mars, Wobble Baby Wobble Baby, Tito Jackson, Big Daddy Kane and more",
+  "description": "With Bruno Mars, Wobble Baby Wobble Baby, Kygo, Selena Gomez and more",
   "name": "24K Magic Radio",
   "published_playlist_ids": [
     "1BhMYZPvWoqkovqn1vMjMs"
@@ -835,7 +835,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-17",
+      "date_removed": null,
       "duration_ms": 260440,
       "name": "All You Gotta Do (Is Just Dance)",
       "url": "https://open.spotify.com/track/7HALIbZdZHbKdXH64LBG4h"
@@ -1581,7 +1581,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 211160,
       "name": "Billionaire (feat. Bruno Mars)",
       "url": "https://open.spotify.com/track/2qPUnoasNe4Ep43emVXEig"
@@ -1759,7 +1759,7 @@
       ],
       "date_added": "2020-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-17",
+      "date_removed": null,
       "duration_ms": 263826,
       "name": "Blurred Lines",
       "url": "https://open.spotify.com/track/0n4bITAu0Y0nigrz3MFJMb"
@@ -2225,7 +2225,7 @@
       ],
       "date_added": "2020-08-30",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 219146,
       "name": "Cake By The Ocean",
       "url": "https://open.spotify.com/track/76hfruVvmfQbw0eYn1nmeC"
@@ -2571,7 +2571,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-17",
+      "date_removed": null,
       "duration_ms": 236095,
       "name": "Can't Stop the Feeling",
       "url": "https://open.spotify.com/track/77j7GafMj2Rqd8YCOry3b8"
@@ -2697,7 +2697,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 235373,
       "name": "Candy Girl",
       "url": "https://open.spotify.com/track/72OrfuJ9RxfLCoqAMeKHCZ"
@@ -5137,7 +5137,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 210937,
       "name": "Fake Love",
       "url": "https://open.spotify.com/track/343YBumqHu19cGoGARUTsd"
@@ -6113,7 +6113,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-12",
+      "date_removed": null,
       "duration_ms": 230493,
       "name": "Get Down Baby",
       "url": "https://open.spotify.com/track/62fnuo5anKzkxu7fL8kp0d"
@@ -7039,7 +7039,7 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-13",
+      "date_removed": null,
       "duration_ms": 185806,
       "name": "Groove",
       "url": "https://open.spotify.com/track/05Sr3aEq5SEbhfrUIPGgMv"
@@ -7075,7 +7075,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 222305,
       "name": "Guns and Roses",
       "url": "https://open.spotify.com/track/69F79SprD9hT7muizWBBTS"
@@ -7445,7 +7445,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 183493,
       "name": "Her Kiss",
       "url": "https://open.spotify.com/track/6X6kCTsrpTZFDDfrlH2wLV"
@@ -7463,7 +7463,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-17",
+      "date_removed": null,
       "duration_ms": 206106,
       "name": "Hey",
       "url": "https://open.spotify.com/track/2MYtK8CJ6uw3VwDIv6OUDB"
@@ -8928,6 +8928,28 @@
     },
     {
       "album": {
+        "name": "It Ain't Me",
+        "url": "https://open.spotify.com/album/4VNy5ifZtW3E9SgffbGEti"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220780,
+      "name": "It Ain\u2019t Me (with Selena Gomez)",
+      "url": "https://open.spotify.com/track/12GEpg2XOPyqk03JZEZnJs"
+    },
+    {
+      "album": {
         "name": "Memoirs of a Midnight Cowboy",
         "url": "https://open.spotify.com/album/3ZHb8LN4ChobUWLlobzjbA"
       },
@@ -9103,7 +9125,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-17",
+      "date_removed": null,
       "duration_ms": 144244,
       "name": "Juju on That Beat (TZ Anthem)",
       "url": "https://open.spotify.com/track/1lItf5ZXJc1by9SbPeljFd"
@@ -9147,7 +9169,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 125715,
       "name": "JuJu On The Beat",
       "url": "https://open.spotify.com/track/2ghQDsYSb74mc8iAIYdAck"
@@ -9617,7 +9639,7 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 202480,
       "name": "Kissing Strangers",
       "url": "https://open.spotify.com/track/1NkwZ9TnIs8js6G0M6M7RU"
@@ -10471,7 +10493,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 165665,
       "name": "Lookin' Like That",
       "url": "https://open.spotify.com/track/49WkAn1PXc5IbfXGiBIjIf"
@@ -12350,6 +12372,28 @@
     },
     {
       "album": {
+        "name": "Oooh",
+        "url": "https://open.spotify.com/album/677nh675k7J46wtpOG8wIz"
+      },
+      "artists": [
+        {
+          "name": "Mothers Favorite Child",
+          "url": "https://open.spotify.com/artist/10i2TorF3ZcaKiVi0UmcwT"
+        },
+        {
+          "name": "Tanya Tiet",
+          "url": "https://open.spotify.com/artist/77ODX1EgKPJFRgysP7w8br"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179297,
+      "name": "Oooh",
+      "url": "https://open.spotify.com/track/3cfQxHiMedXKHtiLxAufLZ"
+    },
+    {
+      "album": {
         "name": "Glory Days (Expanded Edition)",
         "url": "https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m"
       },
@@ -12459,7 +12503,7 @@
       ],
       "date_added": "2022-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-06",
+      "date_removed": null,
       "duration_ms": 277506,
       "name": "Part Time Lover",
       "url": "https://open.spotify.com/track/2K2wcAKqVD8b010s6wzdPq"
@@ -12985,7 +13029,7 @@
       ],
       "date_added": "2022-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 200202,
       "name": "Pretty Gurl",
       "url": "https://open.spotify.com/track/4ge9eogeGjDfPrQGGYjtbl"
@@ -13203,7 +13247,7 @@
       ],
       "date_added": "2022-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 232131,
       "name": "Riches in Heaven",
       "url": "https://open.spotify.com/track/4A23W0K8dt6iRW8LfYDlKZ"
@@ -16161,7 +16205,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 212512,
       "name": "The High",
       "url": "https://open.spotify.com/track/4ONDrXoqeT9cCgw5yqWAyX"

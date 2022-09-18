@@ -4,7 +4,7 @@
 
 > Warm instrumental versions of your favorite Christmas songs.
 
-56 songs - 2 hr 56 min - [published](https://open.spotify.com/playlist/39K7VL0TnmsRREiqJDlq2n)
+57 songs - 3 hr 2 min - [published](https://open.spotify.com/playlist/39K7VL0TnmsRREiqJDlq2n)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Away in a Manger](https://open.spotify.com/track/3qqXv1t6AiCQo8uspabP6g) | [Dave Brubeck](https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E) | [A Dave Brubeck Christmas](https://open.spotify.com/album/01wioMpjriFWJ0ohTuNTMy) | 5:03 | 2021-12-21 | 2022-07-29 |
 | [Blue Christmas](https://open.spotify.com/track/5Xsw49uHfrolDpzV1S0R3n) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [A Child Is Born](https://open.spotify.com/album/5i3P1z4tgoe8qMFnsFG9Bb) | 2:20 | 2021-12-21 |  |
 | [Candles](https://open.spotify.com/track/4LBOStx3RgmDRT6qo0sAbe) | [Damian Syslo](https://open.spotify.com/artist/16zAiqqDsHkJ3UPqS9vQiu) | [Candles](https://open.spotify.com/album/6KbPiTD5ECm71o5y9cIbPv) | 3:44 | 2021-12-21 |  |
-| [Christmas Time Is Here \- Instrumental](https://open.spotify.com/track/4DphT1rljbJjbK9WdrR1zI) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \[2012 Remastered & Expanded Edition\]](https://open.spotify.com/album/7DuJYWu66RPdcekF5TuZ7w) | 6:06 | 2021-12-21 |  |
+| [Christmas Time Is Here](https://open.spotify.com/track/7aEjsTKJKspp01vkeVgeRr) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [Charlie Brown Holiday Hits](https://open.spotify.com/album/1d3w7T3iyK3JJQ6kdpE6l9) | 6:03 | 2022-09-15 |  |
+| [Christmas Time Is Here \- Instrumental](https://open.spotify.com/track/4DphT1rljbJjbK9WdrR1zI) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \[2012 Remastered & Expanded Edition\]](https://open.spotify.com/album/7DuJYWu66RPdcekF5TuZ7w) | 6:06 | 2021-12-21 | 2022-09-18 |
 | [Christmas Waltz](https://open.spotify.com/track/0myOinmRDkfWlHnG2wIFzh) | [Rob McConnell Trio](https://open.spotify.com/artist/53mwOK94FGkKKUBUq9jGTx) | [A Concord Jazz Christmas](https://open.spotify.com/album/3cR6XhgcN0mAP5bGVF9ghX) | 4:32 | 2021-12-21 |  |
 | [Deck the Halls](https://open.spotify.com/track/2HVU1szAZjST5179APX1ck) | [Owen Rochester Jazz](https://open.spotify.com/artist/7qYuRRLowPK759yfhiY1cS) | [Jingle Bells](https://open.spotify.com/album/7wSW8TOkMzrSiAD6Wulblw) | 1:43 | 2021-12-21 |  |
 | [Frosty The Snowman](https://open.spotify.com/track/1vhjeweVA3yg4cwWZgtSCj) | [Jason Starman](https://open.spotify.com/artist/52a7FDR4OUPloosqc20P3K) | [Christmas Time Is Here](https://open.spotify.com/album/4QieYF9NU48QWzoazTI7C9) | 2:10 | 2021-12-21 |  |

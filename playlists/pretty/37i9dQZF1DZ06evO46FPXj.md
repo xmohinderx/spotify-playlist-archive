@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO46FPXj.md) - [plain]
 
 > This is Autechre\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,348 likes - 50 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,352 likes - 50 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO46FPXj.md) - [plain]
 | 25 | [BIPP \- Autechre Mx](https://open.spotify.com/track/4tBdLWvYYr5IjJpvwiZr85) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [BIPP \(Autechre Mx\)](https://open.spotify.com/album/6gbZRfEsgrddPqFXXf0rqk) | 3:33 |
 | 26 | [Parhelic Triangle](https://open.spotify.com/track/2xe3xtjf7vlqY0S9WBOcP7) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Confield](https://open.spotify.com/album/6FPt8HEGHoBGbX0dQnXDPh) | 6:03 |
 | 27 | [Crystel](https://open.spotify.com/track/2rhy8BNOlmZAXtdw0Mmyic) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Artificial Intelligence](https://open.spotify.com/album/34aK04FrYZGC4SMS3WEPIi) | 4:37 |
-| 28 | [Autriche](https://open.spotify.com/track/0hH9vRx4gYBYNQT60L7ejh) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Incunabula](https://open.spotify.com/album/4KROnLN6Didp0F97RXaW7a) | 6:55 |
+| 28 | [444](https://open.spotify.com/track/1fcKoMHat5NFGAUcfTqZkO) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Incunabula](https://open.spotify.com/album/4KROnLN6Didp0F97RXaW7a) | 8:55 |
 | 29 | [Brunchusevenmx](https://open.spotify.com/track/3L8TGifjpCtqYarKwojpQ8) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Garbage](https://open.spotify.com/album/31nThm3LyQVvrndqxhvjWl) | 9:44 |
 | 30 | [Pen Expers](https://open.spotify.com/track/6DFoBjJDvYC28COaoxZYda) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Confield](https://open.spotify.com/album/6FPt8HEGHoBGbX0dQnXDPh) | 7:08 |
 | 31 | [777](https://open.spotify.com/track/5txiIpQhhGzdII7Bci8wuv) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [LP5](https://open.spotify.com/album/7zlbMdBS3J2YQRDuMMT9u4) | 5:49 |
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO46FPXj.md) - [plain]
 | 36 | [F7](https://open.spotify.com/track/3s8PqUjMSpcJkfPdb2Fucf) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [SIGN](https://open.spotify.com/album/1KBFcrlvo6vDVOSrWoYy3K) | 5:56 |
 | 37 | [Lost](https://open.spotify.com/track/5seVVzH1SZXwu7UjrDcHnD) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Anti](https://open.spotify.com/album/3RdJbIoZIJEG5rZvpxY8a8) | 7:24 |
 | 38 | [Bine](https://open.spotify.com/track/6CXznHDAUgjHE4t8XCriDJ) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Confield](https://open.spotify.com/album/6FPt8HEGHoBGbX0dQnXDPh) | 4:41 |
-| 39 | [Cichli](https://open.spotify.com/track/7frCwFeWuBpTEV4s23cslO) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Chiastic Slide](https://open.spotify.com/album/4MjWLFGSAEsfsMjC5iqNON) | 8:52 |
+| 39 | [c16 deep tread](https://open.spotify.com/track/7kmNtiZt5tMD7SZQxXB5Ov) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [elseq 1](https://open.spotify.com/album/5pkpHU4rL2EUMguNfVyXbG) | 12:31 |
 | 40 | [Metaz form8](https://open.spotify.com/track/1rSt9taDVOIRPIOoHONhfM) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [SIGN](https://open.spotify.com/album/1KBFcrlvo6vDVOSrWoYy3K) | 6:00 |
-| 41 | [c16 deep tread](https://open.spotify.com/track/7kmNtiZt5tMD7SZQxXB5Ov) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [elseq 1](https://open.spotify.com/album/5pkpHU4rL2EUMguNfVyXbG) | 12:31 |
-| 42 | [Drane2](https://open.spotify.com/track/23zitpl7nfCR3XbeKR5Y6w) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [LP5](https://open.spotify.com/album/7zlbMdBS3J2YQRDuMMT9u4) | 23:19 |
-| 43 | [Rettic AC](https://open.spotify.com/track/3QyfMPXAuzX6x1bgkgjuoV) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Chiastic Slide](https://open.spotify.com/album/4MjWLFGSAEsfsMjC5iqNON) | 2:07 |
-| 44 | [The Egg](https://open.spotify.com/track/07TquTYZrmDazkHp8hFLWS) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Artificial Intelligence](https://open.spotify.com/album/34aK04FrYZGC4SMS3WEPIi) | 7:33 |
-| 45 | [PIOBmx](https://open.spotify.com/track/3coNfMLhjfCggjfb5velIx) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Garbage](https://open.spotify.com/album/31nThm3LyQVvrndqxhvjWl) | 7:37 |
+| 41 | [Cichli](https://open.spotify.com/track/7frCwFeWuBpTEV4s23cslO) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Chiastic Slide](https://open.spotify.com/album/4MjWLFGSAEsfsMjC5iqNON) | 8:52 |
+| 42 | [The Egg](https://open.spotify.com/track/07TquTYZrmDazkHp8hFLWS) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Artificial Intelligence](https://open.spotify.com/album/34aK04FrYZGC4SMS3WEPIi) | 7:33 |
+| 43 | [Drane2](https://open.spotify.com/track/23zitpl7nfCR3XbeKR5Y6w) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [LP5](https://open.spotify.com/album/7zlbMdBS3J2YQRDuMMT9u4) | 23:19 |
+| 44 | [PIOBmx](https://open.spotify.com/track/3coNfMLhjfCggjfb5velIx) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Garbage](https://open.spotify.com/album/31nThm3LyQVvrndqxhvjWl) | 7:37 |
+| 45 | [Rettic AC](https://open.spotify.com/track/3QyfMPXAuzX6x1bgkgjuoV) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Chiastic Slide](https://open.spotify.com/album/4MjWLFGSAEsfsMjC5iqNON) | 2:07 |
 | 46 | [V\-PROC](https://open.spotify.com/track/6JS9KOILpNIyApvqd24m0w) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Draft 7.30](https://open.spotify.com/album/08kNtBJ5LHFgxOV8PodiQw) | 6:00 |
 | 47 | [Acroyear2](https://open.spotify.com/track/0YxgETKHayjfYMws5jZ9dw) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [LP5](https://open.spotify.com/album/7zlbMdBS3J2YQRDuMMT9u4) | 8:39 |
 | 48 | [esc desc](https://open.spotify.com/track/4WOwxNRtErpf5sWuvWvGVu) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [SIGN](https://open.spotify.com/album/1KBFcrlvo6vDVOSrWoYy3K) | 4:55 |
 | 49 | [bladelores](https://open.spotify.com/track/0z5NOndJF0DHq6GizOZjUT) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Exai](https://open.spotify.com/album/0vczEfoTXdjFAERCLMrc0Z) | 12:19 |
 | 50 | [see on see](https://open.spotify.com/track/5bP6GgBa3iMVbywZwD0xV5) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Oversteps](https://open.spotify.com/album/5iaRpin36ZjaOC6PMAZ02l) | 4:37 |
 
-Snapshot ID: `Mjc3MjIyMzMsMDAwMDAwMDBhMWM2YzY3MzZiOWQzMDZjMTY4YTk3MTkxOTQ3MDFhNg==`
+Snapshot ID: `Mjc3MjM2OTIsMDAwMDAwMDA3YjIzOGE3MzA2NzUyNjNhMTAxNGQxMTc5MjA1ZGFjYw==`

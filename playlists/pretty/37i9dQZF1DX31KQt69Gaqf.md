@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31KQt69Gaqf.md) - [plain]
 
 > Let us take care of your workday soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,502 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,503 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31KQt69Gaqf.md) - [plain]
 | 55 | [Faith Healer](https://open.spotify.com/track/5M7jnmPrtHgL5H4fTewJch) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Little Oblivions](https://open.spotify.com/album/3IQRHa9iVLsGlSuVHiHZ3A) | 2:54 |
 | 56 | [Good Woman](https://open.spotify.com/track/6hZ3wAZGh5yQcZMxDXnTL3) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/6b3CgvhvJFT6asCeHiOF3M) | 3:17 |
 | 57 | [Baby It's You](https://open.spotify.com/track/3Yoy8R29IewKS8sO80L4XB) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Baby It's You](https://open.spotify.com/album/1X25p3GpzvOSH8oupRUh0t) | 4:02 |
-| 58 | [Rockstar](https://open.spotify.com/track/6PwwPfIpqnQOVJUCkYUJcH) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Butterfly Blue](https://open.spotify.com/album/52jN5oOP2tn7TnL8PNoT8Z) | 3:28 |
-| 59 | [Oh GOD](https://open.spotify.com/track/6b7P9ZrNbF7WNczuIJqJL1) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Freckle Season](https://open.spotify.com/album/4emwoxUmeMCYHSsYosCdOW) | 2:46 |
+| 58 | [Oh GOD](https://open.spotify.com/track/6b7P9ZrNbF7WNczuIJqJL1) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Freckle Season](https://open.spotify.com/album/4emwoxUmeMCYHSsYosCdOW) | 2:46 |
+| 59 | [Rockstar](https://open.spotify.com/track/6PwwPfIpqnQOVJUCkYUJcH) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Butterfly Blue](https://open.spotify.com/album/52jN5oOP2tn7TnL8PNoT8Z) | 3:28 |
 | 60 | [Fading](https://open.spotify.com/track/77GXioLcswmFLd6wAqN2Eo) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Magical Thinking](https://open.spotify.com/album/4RY8E9iJR1Ec6d3FXqqodJ) | 4:43 |
 | 61 | [Running Red Lights \(feat\. Rivers Cuomo & Pink Siifu\)](https://open.spotify.com/track/0UdYkM8rQeOV9B8n65fsfN) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [Rivers Cuomo](https://open.spotify.com/artist/4LAz9VRX8Nat9kvIzgkg2v), [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh) | [Running Red Lights \(feat\. Rivers Cuomo & Pink Siifu\)](https://open.spotify.com/album/0H6aN1da6Hv7nnZK5RrQVm) | 4:39 |
 | 62 | [Tethered, Wrapped Around](https://open.spotify.com/track/3GVmuXATyp9JAiAcwASlTJ) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [Slow Reveal: Chapter One](https://open.spotify.com/album/5iTODzVpwUxEctZCqOo15s) | 3:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31KQt69Gaqf.md) - [plain]
 | 99 | [Big Skies, Silly Faces](https://open.spotify.com/track/0Zga9iWiTp760vRHHLNxFF) | [Orlando Weeks](https://open.spotify.com/artist/5K9Px0eeCuYatmBGFfhSOA) | [Big Skies, Silly Faces](https://open.spotify.com/album/7lGdpg1UFSOfwXNScK1cSc) | 3:55 |
 | 100 | [Treat You Right](https://open.spotify.com/track/7ItOfW0Phlgis72tCdIcsw) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [Treat You Right](https://open.spotify.com/album/3F91sv7XPeK9JYQdpXktd2) | 4:21 |
 
-Snapshot ID: `MTYzMzk1MDI1NCwwMDAwMDAwMDRlZmJlOWNlYTZiM2UwOTFmNGMyOTg5YzI0ZDFhOTAy`
+Snapshot ID: `MTYzMzk1MDI1NCwwMDAwMDAwMGU0MjdjMzgyMmM5YjZjNDA5M2FkYmU1N2I1MzA2NzFj`

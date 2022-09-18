@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pprEpa9URZ.md) - [plain]
 
 > A deep tribal sound, combining electronic elements and organic instrumentation, stemming from the folk music of Africa, Latin America and the Middle East.
 
-[Spotify](https://open.spotify.com/user/spotify) - 642,098 likes - 60 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 642,421 likes - 60 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pprEpa9URZ.md) - [plain]
 | 16 | [Maasai \- Doctor Flake Remix](https://open.spotify.com/track/5G2pbqhXrpVbGOYoWaz04J) | [Kutiman](https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e), [Doctor Flake](https://open.spotify.com/artist/5DZr9dQj9KPd62WuMeIPqK) | [Maasai \(Doctor Flake Remix\)](https://open.spotify.com/album/4cysb3VUt41H4YmApVHN9Q) | 7:50 |
 | 17 | [Childhood](https://open.spotify.com/track/4QVosKlgWRXc1IEwYdOBEz) | [KIDSØ](https://open.spotify.com/artist/7qJHwvMJBW2Da8kt79uexr) | [Childhood](https://open.spotify.com/album/2RIEITFTclNIsuDA6kibJ7) | 4:02 |
 | 18 | [Marimba](https://open.spotify.com/track/1RiRfhBguCU7nmxkdK1cdW) | [Kermesse](https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw) | [Marimba](https://open.spotify.com/album/4f7UUXCh9WUMTstz8PMLcx) | 5:59 |
-| 19 | [El Dolor](https://open.spotify.com/track/5cm8VSk6Iqkp8F1cB2S0Iu) | [Mux](https://open.spotify.com/artist/0nqq006Uo7RuKoKdmLAOkE) | [Ancestry](https://open.spotify.com/album/6oMwy9QzP1FzbKhR6BWABP) | 4:54 |
-| 20 | [Before the Storm](https://open.spotify.com/track/4HFO4JUkrkqNIKh4kwgQpR) | [Santi & Tuğçe](https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC) | [Before the Storm](https://open.spotify.com/album/1anaTK4HBkYkwEp5q3jM3j) | 7:25 |
+| 19 | [Before the Storm](https://open.spotify.com/track/4HFO4JUkrkqNIKh4kwgQpR) | [Santi & Tuğçe](https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC) | [Before the Storm](https://open.spotify.com/album/1anaTK4HBkYkwEp5q3jM3j) | 7:25 |
+| 20 | [El Dolor](https://open.spotify.com/track/5cm8VSk6Iqkp8F1cB2S0Iu) | [Mux](https://open.spotify.com/artist/0nqq006Uo7RuKoKdmLAOkE) | [Ancestry](https://open.spotify.com/album/6oMwy9QzP1FzbKhR6BWABP) | 4:54 |
 | 21 | [Mesta](https://open.spotify.com/track/3HIyzleWbghroY372GMajL) | [Oceanvs Orientalis](https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg), [Ilhan Ersahin](https://open.spotify.com/artist/5aweKNLI0ZyI48q5TmoCxT) | [Mesta](https://open.spotify.com/album/2uDlUnjYwrxwSmeftzqo8G) | 6:11 |
 | 22 | [Man Dies Alone \- Short Version](https://open.spotify.com/track/06uE6yOg0nc1HFTJWOhFYJ) | [Depart](https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy) | [Man Dies Alone](https://open.spotify.com/album/3UMqCv5HqtHjRCTl4DAoPQ) | 4:39 |
 | 23 | [Lenny in the Sea with Dolphins](https://open.spotify.com/track/3T1kFqevhSk1AvF72lf3VL) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR) | [Fire in the Jungle](https://open.spotify.com/album/0yGRysFayBSC8MZOyFW7ZH) | 5:31 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pprEpa9URZ.md) - [plain]
 | 34 | [Astavakra](https://open.spotify.com/track/2vW8K1C2Vj81beuKOvBdf9) | [Sadhu Sensi](https://open.spotify.com/artist/3Muhm9HEowEpdC0i6NuW3P) | [Astavakra](https://open.spotify.com/album/1UjQXx7W5aoyUJi0wBgHZo) | 7:00 |
 | 35 | [Monterrey Paris Texas](https://open.spotify.com/track/6MOgIsFOhxqKIodm1V5dd7) | [Superpitcher](https://open.spotify.com/artist/55BdmUTmTmoUNOFQxm54k5), [Daniel Maloso](https://open.spotify.com/artist/7j5SLy2KUc3LVi3r7xKqIe) | [Velvet Desert Music Vol\. 2](https://open.spotify.com/album/1RBXK7nKxoZMKWPT2fexBW) | 7:33 |
 | 36 | [Ya Nahar Ya Gamel](https://open.spotify.com/track/4SKb9f6WJrAWaIzabSdUqy) | [Hot Oasis](https://open.spotify.com/artist/3yjJoAP3B8paC6tedRJ7ii), [Weam Ismail](https://open.spotify.com/artist/4UTtfw0Sgak4dLZC1Xfmko) | [Ma Gally](https://open.spotify.com/album/1komNaPBI0xb2FNDYRy6BC) | 7:13 |
-| 37 | [The Oracle](https://open.spotify.com/track/0HcuetqlzCA2yDfhKuWrxz) | [Mollono.Bass](https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF) | [Woods, Tales & Friends](https://open.spotify.com/album/3Z9EKeISsOLgsfdMNZbUO4) | 4:42 |
-| 38 | [Showdown](https://open.spotify.com/track/07BZ5ASG2Pf9LhxfZhqi09) | [Victor Norman](https://open.spotify.com/artist/3R3CgKhPdCWFnE3ISN8zS9) | [Stateless](https://open.spotify.com/album/31m9s1EjPMS3G9jvfhqngm) | 7:48 |
+| 37 | [Showdown](https://open.spotify.com/track/07BZ5ASG2Pf9LhxfZhqi09) | [Victor Norman](https://open.spotify.com/artist/3R3CgKhPdCWFnE3ISN8zS9) | [Stateless](https://open.spotify.com/album/31m9s1EjPMS3G9jvfhqngm) | 7:48 |
+| 38 | [The Oracle](https://open.spotify.com/track/0HcuetqlzCA2yDfhKuWrxz) | [Mollono.Bass](https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF) | [Woods, Tales & Friends](https://open.spotify.com/album/3Z9EKeISsOLgsfdMNZbUO4) | 4:42 |
 | 39 | [Izivunguvungu \- Chloé Remix](https://open.spotify.com/track/4smPVWbEXf5aq92BcNevXu) | [Urban Village](https://open.spotify.com/artist/60UHsALAJRgTJdAxZGAZDg), [Chloé \(Thévenin\)](https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq) | [Izivunguvungu \(Chloé Remix\)](https://open.spotify.com/album/4WMhthWOI1jzCIuRoP0jwB) | 6:24 |
 | 40 | [Flou](https://open.spotify.com/track/6srLB9vOq6BxQmxYAVH0xy) | [Planet Caravan](https://open.spotify.com/artist/1vL80BIxkjefhlD5Gc88r5) | [Mirage](https://open.spotify.com/album/3q7mbrmrkvkmAJNz9aRW1h) | 6:25 |
 | 41 | [Entrecote](https://open.spotify.com/track/2MBPUcMpWL4EJ709876js0) | [Tosca](https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn) | [Osam](https://open.spotify.com/album/48YFswdVKWAErJjA6IArbb) | 8:02 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pprEpa9URZ.md) - [plain]
 | 59 | [Eliso Lyamu Katata](https://open.spotify.com/track/4sAXWtXJa4XO3oFt9Bhrk0) | [Pablo Nouvelle](https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P) | [Eliso](https://open.spotify.com/album/3YJAnKGQpddtp0dSp8YkTD) | 2:56 |
 | 60 | [Mazbata](https://open.spotify.com/track/3Lg0Kn4AXZCRRYclJWh9ce) | [TUTAN](https://open.spotify.com/artist/5tWW4zktUzz1kstvxZ2MMc) | [Minimuzikhol Benefit Compilation](https://open.spotify.com/album/3vOUDYcIWNLFAZzeWvwZQ9) | 6:06 |
 
-Snapshot ID: `MTY2MjczOTIwMCwwMDAwMDAwMGUxMTI0YzQ3NjRhMGEyOTkxMzgxYzA0NjI0YWNiNzY3`
+Snapshot ID: `MTY2MjczOTIwMCwwMDAwMDAwMDJjMjExYWNhNDQ2MDk3YTQyZjhiNTczYjA3MTk1Mjlj`

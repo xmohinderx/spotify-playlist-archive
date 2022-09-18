@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LY1d1nRWvR.md) - [plain]
 
 > Kick back  and soak up the warm and soothing tones of jazz and electronic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,182 likes - 50 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,203 likes - 50 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

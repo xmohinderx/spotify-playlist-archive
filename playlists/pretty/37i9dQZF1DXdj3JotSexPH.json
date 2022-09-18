@@ -1,12 +1,12 @@
 {
   "description": "It\u2019s Gaming Time!",
-  "num_followers": 30528,
+  "num_followers": 30544,
   "original_name": "Yalla Gaming",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjgxMDIwMiwwMDAwMDAwMDQ0OTc4ZjFlZjY2ZjYxNzI4Y2EzNTBhY2RmY2UyYTMw",
+  "snapshot_id": "MTY2MjgxMDIwMiwwMDAwMDAwMDFmZWUzYzkzNTYzZWRjNzVmMDdmZTEzYjM1NjI5ODM4",
   "tracks": [
     {
       "added_at": "2022-09-10 11:43:22",
@@ -963,26 +963,6 @@
     {
       "added_at": "2022-09-10 11:43:22",
       "album": {
-        "name": "I Know NIGO!",
-        "url": "https://open.spotify.com/album/75T8WnF5n7fgKJ0EC7WRPS"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "Nigo",
-          "url": "https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn"
-        }
-      ],
-      "duration_ms": 199500,
-      "name": "Come On, Let's Go (with Nigo)",
-      "url": "https://open.spotify.com/track/6f44p3Kc4ayD9VtbC9Clkr"
-    },
-    {
-      "added_at": "2022-09-10 11:43:22",
-      "album": {
         "name": "Hollywood's Bleeding",
         "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 196760,
       "name": "Enemies (feat. DaBaby)",
       "url": "https://open.spotify.com/track/0Xek5rqai2jcOWCYWJfVCF"
+    },
+    {
+      "added_at": "2022-09-10 11:43:22",
+      "album": {
+        "name": "I Know NIGO!",
+        "url": "https://open.spotify.com/album/75T8WnF5n7fgKJ0EC7WRPS"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Nigo",
+          "url": "https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn"
+        }
+      ],
+      "duration_ms": 199500,
+      "name": "Come On, Let's Go (with Nigo)",
+      "url": "https://open.spotify.com/track/6f44p3Kc4ayD9VtbC9Clkr"
     },
     {
       "added_at": "2022-09-10 11:43:22",

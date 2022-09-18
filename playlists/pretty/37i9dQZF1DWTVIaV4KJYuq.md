@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 
 > All the classic songs you love—covered\. Cover: Brandi Carlile
 
-[Spotify](https://open.spotify.com/user/spotify) - 644,344 likes - 110 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 644,515 likes - 110 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 | 64 | [Wouldn't It Be Nice](https://open.spotify.com/track/0p9iW5SZgKuxF2Tnodh316) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Wouldn't It Be Nice](https://open.spotify.com/album/1PT5g9fRMIqfpwPzRkAmFy) | 2:47 |
 | 65 | [Your Song](https://open.spotify.com/track/2mN9PvVZX0thvOclMwQAju) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Lights](https://open.spotify.com/album/4oVG376KpWeBaxrKqRxVri) | 3:11 |
 | 66 | [Helplessly Hoping](https://open.spotify.com/track/3p3wBH07OgxSIxyGUmqNl4) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [Helplessly Hoping](https://open.spotify.com/album/3StDwAhArvL2O43axaJCSA) | 2:39 |
-| 67 | [You Never Can Tell](https://open.spotify.com/track/1GLMm7mMGNZznCUDr5JOkX) | [Elise LeGrow](https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8) | [Playing Chess](https://open.spotify.com/album/2Ob030pqqBl9S3DZ6kddLU) | 3:05 |
-| 68 | [If It Makes You Happy](https://open.spotify.com/track/7ia7SaMGhr00G8EX5DMiFq) | [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX) | [Vignettes](https://open.spotify.com/album/3q2dNzIenzJnFyDmV7cY3M) | 4:15 |
+| 67 | [If It Makes You Happy](https://open.spotify.com/track/7ia7SaMGhr00G8EX5DMiFq) | [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX) | [Vignettes](https://open.spotify.com/album/3q2dNzIenzJnFyDmV7cY3M) | 4:15 |
+| 68 | [You Never Can Tell](https://open.spotify.com/track/1GLMm7mMGNZznCUDr5JOkX) | [Elise LeGrow](https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8) | [Playing Chess](https://open.spotify.com/album/2Ob030pqqBl9S3DZ6kddLU) | 3:05 |
 | 69 | [Hallelujah](https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Hallelujah](https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE) | 3:49 |
 | 70 | [I Won't Back Down \- Recorded At Sound Stage Studios Nashville](https://open.spotify.com/track/3ObnRly5EABWIj0lzWFcBZ) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Spotify Singles](https://open.spotify.com/album/6i6VBbBMbTYfB9oso3IrSN) | 3:47 |
 | 71 | [Believe](https://open.spotify.com/track/1ty3N197je3o1dN0F6Fu1G) | [Madilyn Bailey](https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU) | [Believe](https://open.spotify.com/album/2fEYL3YBVILeEuiKJL7S2n) | 3:56 |
@@ -84,16 +84,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 | 74 | [Always On My Mind](https://open.spotify.com/track/6xgZswMoI5ncV8e5jhiRsC) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Leave Me Breathless](https://open.spotify.com/album/62EG6ravDzMqNtGb1CCYjy) | 3:26 |
 | 75 | [A Case of You](https://open.spotify.com/track/5c6VpFSGVRfe6cNYm85zI0) | [Noah Reid](https://open.spotify.com/artist/0h3ltaoCYAfisEeddUYDZT) | [A Case of You](https://open.spotify.com/album/4Kac74ulpXDAqVyvnyzsna) | 3:10 |
 | 76 | [And It Stoned Me \(Cover\)](https://open.spotify.com/track/2sRkcqgxX11ylhpatCauqC) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Sunday Night Sessions](https://open.spotify.com/album/2G0bWocjlwYUOkO57TwrIs) | 4:56 |
-| 77 | [\(You Make Me Feel Like\) a Natural Woman \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/252Js3mNvVOHzeiStTUTNM) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Spotify Singles](https://open.spotify.com/album/3BtaYjFyAb4GmZ6qJxtiTr) | 3:02 |
-| 78 | [When a Man Loves a Woman](https://open.spotify.com/track/2kPyPBMVkoAdT5yxgn0u6V) | [Jillian Edwards](https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp) | [Covers](https://open.spotify.com/album/6ScyNuk1CrlwG4P3yf5rjo) | 4:08 |
+| 77 | [When a Man Loves a Woman](https://open.spotify.com/track/2kPyPBMVkoAdT5yxgn0u6V) | [Jillian Edwards](https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp) | [Covers](https://open.spotify.com/album/6ScyNuk1CrlwG4P3yf5rjo) | 4:08 |
+| 78 | [\(You Make Me Feel Like\) a Natural Woman \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/252Js3mNvVOHzeiStTUTNM) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Spotify Singles](https://open.spotify.com/album/3BtaYjFyAb4GmZ6qJxtiTr) | 3:02 |
 | 79 | [I Remember Everything](https://open.spotify.com/track/1J6OHcQjnrD0upP4skciHO) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [I Remember Everything](https://open.spotify.com/album/3ei2zsbxwzra1rMmokmYZM) | 2:36 |
 | 80 | [Eye Of The Tiger](https://open.spotify.com/track/6qNuZL98ZSFOzIuG5zJrAj) | [The Rural Alberta Advantage](https://open.spotify.com/artist/0v6gOfGBclTSGu6agfXb23) | [Drain The Blood](https://open.spotify.com/album/2IpHSccHdJGTncaiuSKBjI) | 3:00 |
 | 81 | [Love and Happiness](https://open.spotify.com/track/2Q4iDZrwPmn5aEqWFYyPR2) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Sobrevolando](https://open.spotify.com/album/3rCmFIVWG9ktkGhKNcZnli) | 5:08 |
 | 82 | [Man in the Mirror](https://open.spotify.com/track/4XTqOeJ9nLeNCHy2fXYi5T) | [Scary Pockets](https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN), [Rozzi](https://open.spotify.com/artist/4c4aEmXU6Hx95REbIZ3S82) | [Man in the Mirror](https://open.spotify.com/album/5VleQQSPbU6LEzONZK38F5) | 3:30 |
 | 83 | [Right Down the Line](https://open.spotify.com/track/1gD8qr4YKd16C2tV1bnXOc) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Right Down the Line](https://open.spotify.com/album/6cHcoPe1ZExlEv2YppIT6Y) | 3:26 |
 | 84 | [Let’s Dance](https://open.spotify.com/track/2GeeOvZ02vgWehu9Sl8tX8) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI) | [Transfiguration of Vincent](https://open.spotify.com/album/4teFdvjZVz0nud7aGZ8jjS) | 5:00 |
-| 85 | [Eleanor Rigby](https://open.spotify.com/track/0EbFmS2uZycsxJfg6jvlrn) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Greatest Hits And Others](https://open.spotify.com/album/1ycddMO4m3ij8zGNIYVITj) | 2:20 |
-| 86 | [Both Sides Now](https://open.spotify.com/track/0d5tb0XcClqZo7CJ4GQuBm) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Both Sides Now](https://open.spotify.com/album/7vlApA4V6FDavmJBpr3R5N) | 4:17 |
+| 85 | [Both Sides Now](https://open.spotify.com/track/0d5tb0XcClqZo7CJ4GQuBm) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Both Sides Now](https://open.spotify.com/album/7vlApA4V6FDavmJBpr3R5N) | 4:17 |
+| 86 | [Eleanor Rigby](https://open.spotify.com/track/0EbFmS2uZycsxJfg6jvlrn) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Greatest Hits And Others](https://open.spotify.com/album/1ycddMO4m3ij8zGNIYVITj) | 2:20 |
 | 87 | [You Don't Know How It Feels](https://open.spotify.com/track/4jRfYs49suF4VINcWVXAvb) | [Walk Off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [You Don't Know How It Feels](https://open.spotify.com/album/7pWTvThKZquHfq4E0e5KwX) | 3:42 |
 | 88 | [What's Going On \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2hdXm61Sl3ZUEmVdTSWRuU) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Spotify Singles](https://open.spotify.com/album/3ln7gtD4aGjJWllmL1Uqij) | 3:35 |
 | 89 | [Tiny Dancer \- Live at Newport Music Festival, Newport, RI \- July 2002](https://open.spotify.com/track/6QMujKWzo7QpC39f7M9tzV) | [Ben Folds](https://open.spotify.com/artist/55tif8708yyDQlSjh3Trdu) | [Ben Folds Live](https://open.spotify.com/album/2DgQmqmJ5PH34rErXoUhK8) | 5:23 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 | 109 | [Bell Bottom Blues](https://open.spotify.com/track/5KxLj4W0bQhMZd7SqfTkHE) | [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX) | [Vignettes](https://open.spotify.com/album/3q2dNzIenzJnFyDmV7cY3M) | 3:38 |
 | 110 | [I Won't Back Down](https://open.spotify.com/track/0ty4f4slQKbXZnPrcHWHsu) | [Anthony D'Amato](https://open.spotify.com/artist/1oplL2hHYq7CQykvSbd6gy) | [Won't You Be My Neighbor? \(A Benefit For Refugee Aid\)](https://open.spotify.com/album/7mr65EthWJRSzJ6AvoIj3S) | 3:12 |
 
-Snapshot ID: `MTY0Mzk1MDkyMCwwMDAwMDAwMGZkYjliYjQ1ZDNiMTcyZTNkODRmMjkwMTM1OTVjNThk`
+Snapshot ID: `MTY0Mzk1MDkyMCwwMDAwMDAwMDg5NzkyYzI0ZDVlNjgwNGMwNTVhNGM4MTFlODdmMGUy`

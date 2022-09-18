@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 
 > Se acabó el amor\. La música continúa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,694,029 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,694,226 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 | 17 | [El Mismo Aire](https://open.spotify.com/track/3a29UVSEIj6x3YcfKs2rdi) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Por Primera Vez](https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I) | 3:06 |
 | 18 | [Oye](https://open.spotify.com/track/09nSCeCs6eYfAIJVfye1CE) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Oye](https://open.spotify.com/album/1xwUFsb21qbGugy09vdd7O) | 2:53 |
 | 19 | [Moscas en la Casa](https://open.spotify.com/track/1j5NOlhczuiPnZdT6aovgY) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Donde Estan Los Ladrones](https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe) | 3:31 |
-| 20 | [Dices Que Te Vas](https://open.spotify.com/track/0QHOIQxRlIPYPJ1HLgIN8S) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [OCEAN](https://open.spotify.com/album/4i5b4YWuMtneUSvQPONwzK) | 3:22 |
-| 21 | [Titanic](https://open.spotify.com/track/7F1oLjSguGBvqsJLal7Rad) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Mesa Para Dos](https://open.spotify.com/album/1ZGHMTg7kh6TRqDRkJyEHO) | 3:58 |
+| 20 | [Titanic](https://open.spotify.com/track/7F1oLjSguGBvqsJLal7Rad) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Mesa Para Dos](https://open.spotify.com/album/1ZGHMTg7kh6TRqDRkJyEHO) | 3:58 |
+| 21 | [Dices Que Te Vas](https://open.spotify.com/track/0QHOIQxRlIPYPJ1HLgIN8S) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [OCEAN](https://open.spotify.com/album/4i5b4YWuMtneUSvQPONwzK) | 3:22 |
 | 22 | [Vivir Sin Aire](https://open.spotify.com/track/3G9RQLOSjsXVUDyQSv2PQR) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [¿Dónde Jugarán Los Niños?](https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK) | 4:51 |
 | 23 | [Te Hubieras Ido Antes](https://open.spotify.com/track/20S5GpuTDgnx9nwBFp5Lpb) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [De México](https://open.spotify.com/album/52R4l0OYnS6DBSeiJ4KnBV) | 3:19 |
 | 24 | [Cristina](https://open.spotify.com/track/1Kjer1JoWuJGNwGV6Pbgv1) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Cristina](https://open.spotify.com/album/5lhQfarxkGkFATjitVSHC6) | 3:22 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 | 75 | [Devuélveme El Corazón](https://open.spotify.com/track/0AbUjX0KljK02Ts6q7YITU) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Devuélveme El Corazón](https://open.spotify.com/album/6bWoGN8NnZ5IHuwU7PBp3d) | 4:04 |
 | 76 | [Amarte y Perderte](https://open.spotify.com/track/3mYV0dsiuvpsEHTAG74n1d) | [Chucho Rivas](https://open.spotify.com/artist/1tClPu7uXdaZEQ32vihyJ1) | [Amarte y Perderte](https://open.spotify.com/album/61m0MH9BQYHXRV4wbL6RbL) | 3:28 |
 | 77 | [Se Me Olvidó Olvidarte](https://open.spotify.com/track/3PQW9eCAHJm5RXMTRk84la) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p), [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ), [Lucero Mijares](https://open.spotify.com/artist/3NRfvOGwdqnzGWuHE15nGW) | [Se Me Olvidó Olvidarte](https://open.spotify.com/album/7reK9X26hjUaOSzBKaKqoW) | 3:54 |
-| 78 | [Cuerno](https://open.spotify.com/track/7FEAc7tO7oaQ6Q1zzoz7eD) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [Cuerno](https://open.spotify.com/album/058TOwhFmaaxyTTilf5XJD) | 2:58 |
-| 79 | [Tiene Que Existir](https://open.spotify.com/track/6Hc7T09nwRTTm4X6iTJbKN) | [Nabález](https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF), [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7) | [Tiene Que Existir](https://open.spotify.com/album/7rZehTzCB1s3QlUFGMFUGo) | 3:09 |
+| 78 | [Tiene Que Existir](https://open.spotify.com/track/6Hc7T09nwRTTm4X6iTJbKN) | [Nabález](https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF), [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7) | [Tiene Que Existir](https://open.spotify.com/album/7rZehTzCB1s3QlUFGMFUGo) | 3:09 |
+| 79 | [Cuerno](https://open.spotify.com/track/7FEAc7tO7oaQ6Q1zzoz7eD) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [Cuerno](https://open.spotify.com/album/058TOwhFmaaxyTTilf5XJD) | 2:58 |
 | 80 | [Nunca Voy a Olvidarte \- Primera Fila \- Live Version](https://open.spotify.com/track/4HAPPGfvox8QdKdU1lD3wf) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Cristian Castro En Primera Fila \- Día 1](https://open.spotify.com/album/79S9eRBE4zhXybavIRwAv0) | 3:57 |
 | 81 | [Ahora Quien](https://open.spotify.com/track/3i3fYhl23l7exbIj9oAJPN) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Amar Sin Mentiras](https://open.spotify.com/album/3MKpH3rMkzXgX5JLWeIvrq) | 5:05 |
 | 82 | [Son Tantas Cosas](https://open.spotify.com/track/54nYowFYNMP2buVxg73w6w) | [Andry Kiddos](https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2) | [Son Tantas Cosas](https://open.spotify.com/album/2QshaPSs5R2x3da2jCHrFj) | 2:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 | 99 | [Y Duele \(feat\. Pablo Alborán\)](https://open.spotify.com/track/1YlHuvmZCFIlt0O1JlReCb) | [Sofi de la Torre](https://open.spotify.com/artist/45VGByxe5GLUyX1XQlcC8I), [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Y Duele \(feat\. Pablo Alborán\)](https://open.spotify.com/album/6jNg9aoFBKGeDExlYzbXlv) | 3:21 |
 | 100 | [La Culpa](https://open.spotify.com/track/72X8O4JlTkTXRM2EpcQwsF) | [Joel DELEÓN](https://open.spotify.com/artist/3okQioJzZzTM7LwENIdd18) | [La Culpa](https://open.spotify.com/album/03KuiVdDtiXtx24I16d03Y) | 3:22 |
 
-Snapshot ID: `MTY2MTkyODc0NywwMDAwMDAwMDM4ZDI3YmM3YjRlYTgxOWVkODY3ZmVmYWRmOTg1MWEz`
+Snapshot ID: `MTY2MTkyODc0NywwMDAwMDAwMGRhMDc3YjI0ZjA3MjU5ZDJhYTYyNDI4OGVmMzY2MjAy`

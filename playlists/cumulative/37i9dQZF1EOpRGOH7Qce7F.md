@@ -4,7 +4,7 @@
 
 > Dig deeper into some of your top artists of 2020 with a mix of talk and music.
 
-11 songs - 36 min 27 sec - not published yet
+11 songs - 36 min 27 sec - [published](https://open.spotify.com/playlist/52miIhCgwOqmy32lnAgNGD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

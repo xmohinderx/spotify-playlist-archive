@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YVXCfBlE4D.md) - [plain]
 
 > Deja que tu corazón se rinda ante la música romántica de antaño.
 
-[Spotify](https://open.spotify.com/user/spotify) - 478,300 likes - 170 songs - 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 478,389 likes - 170 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YVXCfBlE4D.md) - [plain]
 | 65 | [Amor de Cabaret](https://open.spotify.com/track/5f78L5buph5GtBFcCYI0cx) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [15 EXITOS](https://open.spotify.com/album/2CHM7kNjxlfUHpOj1BuxOs) | 2:53 |
 | 66 | [Piensa en Mi](https://open.spotify.com/track/4XpEUhAR4n6F85VRx2AoTq) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3) | [Inmortales de Toña la Negra](https://open.spotify.com/album/6b15KuO5sKnJ78593YKTav) | 2:27 |
 | 67 | [Toda Esta Gente](https://open.spotify.com/track/2VdZRaMy0ZmuLfbJhcOWvb) | [Los Viajantes](https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ) | [Toda Esta Gente](https://open.spotify.com/album/5e5DyxOEoKX6ZwKGTAuls1) | 2:31 |
-| 68 | [Dios No Lo Quiera](https://open.spotify.com/track/24Lmd62QqUSNzOvMYEBx6U) | [Trio Los Duendes](https://open.spotify.com/artist/795tcHinw97OdbLEsojqO0) | [Serenata, Vol\. 1](https://open.spotify.com/album/2V1xpJ8iILbRPagM6gjWZi) | 2:50 |
-| 69 | [Voy A Apagar La Luz](https://open.spotify.com/track/40duIz5ZiOGr9tjiGHQw80) | [Los Amores Recientes](https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG) | [Voy A Apagar La Luz](https://open.spotify.com/album/7BszH6X5fEBsgNVXXvltvu) | 2:23 |
+| 68 | [Voy A Apagar La Luz](https://open.spotify.com/track/40duIz5ZiOGr9tjiGHQw80) | [Los Amores Recientes](https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG) | [Voy A Apagar La Luz](https://open.spotify.com/album/7BszH6X5fEBsgNVXXvltvu) | 2:23 |
+| 69 | [Dios No Lo Quiera](https://open.spotify.com/track/24Lmd62QqUSNzOvMYEBx6U) | [Trio Los Duendes](https://open.spotify.com/artist/795tcHinw97OdbLEsojqO0) | [Serenata, Vol\. 1](https://open.spotify.com/album/2V1xpJ8iILbRPagM6gjWZi) | 2:50 |
 | 70 | [Percal](https://open.spotify.com/track/4ir4ry2OAgytQbneHVfaRe) | [Bienvenido Granda](https://open.spotify.com/artist/4IyPs1rPOAQOnXeqUTjty4) | [Boleros con el Estilo Incomparable de Bienvenido Granda](https://open.spotify.com/album/06VyVV7TK7mQq9lNjyCmGL) | 2:44 |
 | 71 | [La Mentira](https://open.spotify.com/track/46Q6e4fQyElbUyg4Jivhts) | [Ana Belén](https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t) | [Esencial Ana y Victor](https://open.spotify.com/album/5PqWboO8JlSZ2OGBlJGBBn) | 3:05 |
 | 72 | [Pensando En Ti](https://open.spotify.com/track/7Ckf1wTf5DDp9byugqz3gv) | [Las Perlas Negras](https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp) | [Pensando En Ti](https://open.spotify.com/album/0DdhG3uTQzuqaUYHOTyleK) | 2:42 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YVXCfBlE4D.md) - [plain]
 | 90 | [Quiero Conocerte](https://open.spotify.com/track/0UaLz8op9qrew1xOa3vtpf) | [Mexican Music Factory](https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV), [Felipe Gutierrez](https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c), [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Boleros](https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ) | 2:00 |
 | 91 | [Cuando Calienta el Sol](https://open.spotify.com/track/10QWn4LLuF3ANQWsoLOOT8) | [Trío Siboney](https://open.spotify.com/artist/0pLYvjogP9YspXH4ZQr14o) | [Boleros Tríos, Vol\. 1](https://open.spotify.com/album/7d1fCzlEthMIZlopfW6HcA) | 3:26 |
 | 92 | [Historia De Un Amor](https://open.spotify.com/track/7BHjsEyxagVzLibURml7p6) | [Las Almas Nuevas](https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt) | [Historia De Un Amor](https://open.spotify.com/album/0sy6MHUDULpCcN5rTlwPIg) | 3:06 |
-| 93 | [Negra Consentida](https://open.spotify.com/track/6tsFGZvzhNswBex1hKMq09) | [Amparo Montes](https://open.spotify.com/artist/5eNHFHwqZOEZuxE6yMeybH) | [Coleccion Original RCA](https://open.spotify.com/album/2m2FaE4G9ZmdyokmG9fELn) | 2:15 |
-| 94 | [En un Beso la Vida](https://open.spotify.com/track/3BkrbliOL5Z5ElOjz0XXTV) | [Orlando Contreras](https://open.spotify.com/artist/5VbbcFlDOJ7qV2MZ4bged3) | [Recordando a Cuba](https://open.spotify.com/album/2IMSUUjqYGNIJof85LrARc) | 2:29 |
+| 93 | [En un Beso la Vida](https://open.spotify.com/track/3BkrbliOL5Z5ElOjz0XXTV) | [Orlando Contreras](https://open.spotify.com/artist/5VbbcFlDOJ7qV2MZ4bged3) | [Recordando a Cuba](https://open.spotify.com/album/2IMSUUjqYGNIJof85LrARc) | 2:29 |
+| 94 | [Negra Consentida](https://open.spotify.com/track/6tsFGZvzhNswBex1hKMq09) | [Amparo Montes](https://open.spotify.com/artist/5eNHFHwqZOEZuxE6yMeybH) | [Coleccion Original RCA](https://open.spotify.com/album/2m2FaE4G9ZmdyokmG9fELn) | 2:15 |
 | 95 | [Como Una Flor Bolero](https://open.spotify.com/track/7FneHnZxsT68NABvVsKVqE) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV) | [Guitarras Latinas](https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD) | 3:14 |
 | 96 | [Lágrimas Negras](https://open.spotify.com/track/3LWlVIyY4nLiM6PzXsWNfz) | [Olga Guillot](https://open.spotify.com/artist/2RDV6sncQWynJFH5JUoCfJ) | [Olga Guillot](https://open.spotify.com/album/4m3C0IxVnEnqFAf3BKj128) | 2:51 |
 | 97 | [Viajera](https://open.spotify.com/track/1eldeMIMAWefISKWWQLSGg) | [Luis Arcaraz Y Su Orquesta](https://open.spotify.com/artist/5XFKOAxf3r9rhqWOnVVVDg) | [Luis Arcaráz y Gabriel Ruíz](https://open.spotify.com/album/0tzk5gxyBoOlp14Id6TtnB) | 2:54 |
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YVXCfBlE4D.md) - [plain]
 | 169 | [Inolvidable](https://open.spotify.com/track/4WWYBTpa9J6A7RZht1LtzW) | [Tito Rodriguez](https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS) | [From Tito With Love](https://open.spotify.com/album/3fAbfV4TGbi2El5oFlV1WJ) | 3:13 |
 | 170 | [Entre Tu Amor y Mi Amor](https://open.spotify.com/track/1gN6EsWafOEODCrnDI55By) | [Felipe Pirela](https://open.spotify.com/artist/6PbZObu8NuIhiU6L0OzkZN) | [Felipe Pirela \- Mi Historia Músical Volume 5](https://open.spotify.com/album/6DPZLqS4VB5YpP6MGhB26s) | 3:10 |
 
-Snapshot ID: `MTY0Mjc4OTIyNSwwMDAwMDAwMDE5MDBhYzMyNGQwOWNkMGY0MzE0ZTExOGYwYzIxMzRj`
+Snapshot ID: `MTY0Mjc4OTIyNSwwMDAwMDAwMGVhOWU4NmRkMGRiMmRiYzdhNDFmMDgwNjhhYmFhNjU1`

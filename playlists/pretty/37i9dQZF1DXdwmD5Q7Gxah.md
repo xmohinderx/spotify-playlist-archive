@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > because a little left of center is best\. cover: weyes blood
 
-[Spotify](https://open.spotify.com/user/spotify) - 927,907 likes - 102 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 927,882 likes - 102 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 
 > A mix of electric roots rock and folk\-infused alternative\. Cover: Nathaniel Rateliff & the Night Sweats
 
-[Spotify](https://open.spotify.com/user/spotify) - 479,620 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 479,689 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 | 94 | [Evergreen](https://open.spotify.com/track/0rDOZAwa5hpOIFvej2yBIU) | [Bendigo Fletcher](https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM) | [Evergreen](https://open.spotify.com/album/00MHXpbaXylI2b4eQ5b5SB) | 4:40 |
 | 95 | [Statues in the Garden \(Arras\)](https://open.spotify.com/track/14BcEAdv3OkOXYjGIk7jTZ) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Statues in the Garden \(Arras\)](https://open.spotify.com/album/4Cf7oXjw0tqlDEdAqqOlLM) | 3:56 |
 | 96 | [In My Room](https://open.spotify.com/track/5E8QUJdklLph2tK9qb4vDx) | [Shovels & Rope](https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Busted Jukebox Volume 3](https://open.spotify.com/album/7285ENYt9kasAtvUsTcC3s) | 2:45 |
-| 97 | [Complex](https://open.spotify.com/track/61H97kuKIpi6kJQRnUEIlh) | [Tristen](https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo) | [Aquatic Flowers](https://open.spotify.com/album/47NZrIYd31OR7PJQioOkWV) | 3:48 |
-| 98 | [Old Sob Story](https://open.spotify.com/track/7Akh76oQE1crm0aIz9B7IK) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [Old Sob Story](https://open.spotify.com/album/3fnFtGjNgtLYd0CSnYp3Z9) | 3:16 |
-| 99 | [Oh Dear Brother](https://open.spotify.com/track/27TIWKzBDkahxcjKUmthdw) | [Howard](https://open.spotify.com/artist/7kfaJkEGQmDhceMYvn9Ax5) | [Oh Dear Brother](https://open.spotify.com/album/3Pue2ojjST8Vq2m8y2EppZ) | 3:58 |
+| 97 | [Old Sob Story](https://open.spotify.com/track/7Akh76oQE1crm0aIz9B7IK) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [Old Sob Story](https://open.spotify.com/album/3fnFtGjNgtLYd0CSnYp3Z9) | 3:16 |
+| 98 | [Oh Dear Brother](https://open.spotify.com/track/27TIWKzBDkahxcjKUmthdw) | [Howard](https://open.spotify.com/artist/7kfaJkEGQmDhceMYvn9Ax5) | [Oh Dear Brother](https://open.spotify.com/album/3Pue2ojjST8Vq2m8y2EppZ) | 3:58 |
+| 99 | [Complex](https://open.spotify.com/track/61H97kuKIpi6kJQRnUEIlh) | [Tristen](https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo) | [Aquatic Flowers](https://open.spotify.com/album/47NZrIYd31OR7PJQioOkWV) | 3:48 |
 | 100 | [Elastic Heart](https://open.spotify.com/track/2EqFvg1GaWik5nwCmnZVN1) | [Longfellow](https://open.spotify.com/artist/6sn1KjI14lIWWSd3IJm5bU) | [Elastic Heart](https://open.spotify.com/album/1Y50NzwC91YDY4fqTv3gpC) | 4:17 |
 
-Snapshot ID: `MTY0NjM3MDAwMCwwMDAwMDAwMGVkOWFjM2Y5NDA5OGUyZTVkNjhiZTIyYmRmODYzNzk5`
+Snapshot ID: `MTY0NjM3MDAwMCwwMDAwMDAwMDBmY2ViZmI2NTI5OTMwNGY2YWIxNGYzZjVhYjBjYTli`

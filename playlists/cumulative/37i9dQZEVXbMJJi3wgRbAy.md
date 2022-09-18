@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Uruguay.
 
-375 songs - 20 hr 41 min - [published](https://open.spotify.com/playlist/6ou4JZ69umClCndeDJxRfI)
+376 songs - 20 hr 44 min - [published](https://open.spotify.com/playlist/6ou4JZ69umClCndeDJxRfI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [AM Remix](https://open.spotify.com/track/05bfbizlM5AX6Mf1RRyMho) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [AM Remix](https://open.spotify.com/album/1jTRS4KS666BesH1GUHyEV) | 4:21 | 2021-06-27 | 2021-12-18 |
 | [Amor Bipolar](https://open.spotify.com/track/6sw9J1GKwvdMvsDYMvTiY2) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [Temporada de Reggaetón 2](https://open.spotify.com/album/4Sel1lEtGGuCznbBbUg4FA) | 3:15 | 2022-06-25 | 2022-06-27 |
 | [Animal](https://open.spotify.com/track/3OXxCquI8i14EigwILaLx9) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Animal](https://open.spotify.com/album/1R35ZqQyMMDZA8q4oMfVAJ) | 3:23 | 2021-03-27\* | 2021-06-06 |
-| [Antes de Perderte](https://open.spotify.com/track/2LgxW2t2H6lAf7tJuOnxxj) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Temporada de Reggaetón 2](https://open.spotify.com/album/6anO6Uh11TivGpTI56aKCH) | 2:56 | 2022-08-06 |  |
+| [Antes de Perderte](https://open.spotify.com/track/2LgxW2t2H6lAf7tJuOnxxj) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Temporada de Reggaetón 2](https://open.spotify.com/album/6anO6Uh11TivGpTI56aKCH) | 2:56 | 2022-08-06 | 2022-09-18 |
 | [Antes de Perderte](https://open.spotify.com/track/49ev1nUTrNxbjm04jaoL5Z) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Temporada de Reggaetón 2](https://open.spotify.com/album/4Sel1lEtGGuCznbBbUg4FA) | 2:56 | 2022-06-25 | 2022-08-07 |
 | [Antes de Perderte](https://open.spotify.com/track/4RtPruLRZbyirtJGqYHPQm) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Antes de Perderte](https://open.spotify.com/album/1l6jE76o3QeZOXPt6G5Je7) | 2:56 | 2022-06-05 | 2022-06-26 |
 | [Antes de Ti](https://open.spotify.com/track/23R68uWGdp07SwQdK8mWzI) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Antes de Ti](https://open.spotify.com/album/42NPk8W7iqa7VeHW3Q95Yv) | 3:27 | 2021-10-10 | 2022-02-22 |
@@ -112,6 +112,7 @@
 | [El Apagón](https://open.spotify.com/track/0UvZcEfpzVyx47QsRbjyBz) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:21 | 2022-05-07 | 2022-05-08 |
 | [EL MAKINON](https://open.spotify.com/track/2FSGUA0gFgGeQdprjtGM2M) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [KG0516](https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW) | 3:29 | 2021-03-29 | 2021-10-10 |
 | [El Manual](https://open.spotify.com/track/0qC3X3ffPny4BZCV0rNR6U) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn) | [El Manual](https://open.spotify.com/album/5jso2UmnuNZvTRNAZXMerw) | 2:08 | 2021-05-30 | 2021-08-07 |
+| [El Último Beso](https://open.spotify.com/track/1gYtMKmICjH8KQG3MheNJt) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [El Último Beso](https://open.spotify.com/album/1humxYpKb5wRgIUqVdJmKg) | 3:17 | 2022-09-17 |  |
 | [Eladio Carrion: Bzrp Music Sessions, Vol\. 40](https://open.spotify.com/track/1VauUM5CBX7nkLcgafQL2B) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Eladio Carrion: Bzrp Music Sessions, Vol\. 40](https://open.spotify.com/album/4b2xHCwmoOeGHbo15dtqfb) | 2:44 | 2021-06-12 | 2021-08-01 |
 | [Ella](https://open.spotify.com/track/66S2z95FN3nUAr9S1gUIsp) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Ella](https://open.spotify.com/album/4u2A6aHOyCOyG6yiCFM7rU) | 3:41 | 2021-05-18 | 2021-10-03 |
 | [Ella \- Remix](https://open.spotify.com/track/7cx9L3i88euMfx1oNCqDAD) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Bucle](https://open.spotify.com/album/1Bf3zK23ffWtQtySZ75j55) | 5:30 | 2022-03-12 | 2022-03-27 |

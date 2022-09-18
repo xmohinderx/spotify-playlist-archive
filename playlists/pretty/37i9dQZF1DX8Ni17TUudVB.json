@@ -1,12 +1,12 @@
 {
   "description": "En\u00e9rgicos beats para musicalizar tu rutina diaria de ejercicio.",
-  "num_followers": 130009,
+  "num_followers": 130032,
   "original_name": "Ejercicio Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM1NzQyNCwwMDAwMDAwMDgyNGVkYWU4Nzg0NWY0Nzg3MjcwY2Q0ZTE3M2ZiNzVi",
+  "snapshot_id": "MTY2MjM1NzQyNCwwMDAwMDAwMGQ3MDg4ZTViNjZhNDBjNTdkZTc4MWJjMGY5NDM2ZTE3",
   "tracks": [
     {
       "added_at": "2022-08-16 19:10:22",
@@ -627,26 +627,6 @@
     {
       "added_at": "2022-08-16 19:10:22",
       "album": {
-        "name": "Bad",
-        "url": "https://open.spotify.com/album/7HwVfo5rkhtch7svEwFj00"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        },
-        {
-          "name": "Zak Abel",
-          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
-        }
-      ],
-      "duration_ms": 169910,
-      "name": "Bad",
-      "url": "https://open.spotify.com/track/1T4U8Q2DRfs6OUg8DEsRZf"
-    },
-    {
-      "added_at": "2022-08-16 19:10:22",
-      "album": {
         "name": "Serotonina",
         "url": "https://open.spotify.com/album/1b3xNAoTRfbwXglWU2Uebs"
       },
@@ -671,6 +651,26 @@
       "duration_ms": 234255,
       "name": "Serotonina",
       "url": "https://open.spotify.com/track/5tENzpT5sqDRc0EXQf1k6o"
+    },
+    {
+      "added_at": "2022-08-16 19:10:22",
+      "album": {
+        "name": "Bad",
+        "url": "https://open.spotify.com/album/7HwVfo5rkhtch7svEwFj00"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        },
+        {
+          "name": "Zak Abel",
+          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
+        }
+      ],
+      "duration_ms": 169910,
+      "name": "Bad",
+      "url": "https://open.spotify.com/track/1T4U8Q2DRfs6OUg8DEsRZf"
     },
     {
       "added_at": "2022-08-16 19:10:22",
@@ -1075,26 +1075,6 @@
     {
       "added_at": "2022-08-16 19:10:22",
       "album": {
-        "name": "Permanence",
-        "url": "https://open.spotify.com/album/1Sq58aXNrzbQxmczMAtTGg"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "MORTEN",
-          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
-        }
-      ],
-      "duration_ms": 231290,
-      "name": "Permanence",
-      "url": "https://open.spotify.com/track/05IbhAKODbXn8og9uaUgpc"
-    },
-    {
-      "added_at": "2022-08-16 19:10:22",
-      "album": {
         "name": "Lose Control (The Remixes, Pt. 2)",
         "url": "https://open.spotify.com/album/6DbsmA9K8WDhUgu3ZuLcBX"
       },
@@ -1123,6 +1103,26 @@
       "duration_ms": 207021,
       "name": "Lose Control - ChildsPlay & Badd Dimes Remix",
       "url": "https://open.spotify.com/track/44Fy9nmj1bBh42WviVea0m"
+    },
+    {
+      "added_at": "2022-08-16 19:10:22",
+      "album": {
+        "name": "Permanence",
+        "url": "https://open.spotify.com/album/1Sq58aXNrzbQxmczMAtTGg"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        }
+      ],
+      "duration_ms": 231290,
+      "name": "Permanence",
+      "url": "https://open.spotify.com/track/05IbhAKODbXn8og9uaUgpc"
     },
     {
       "added_at": "2022-08-16 19:10:22",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2022-08-16 19:10:22",
       "album": {
-        "name": "Death Rail",
-        "url": "https://open.spotify.com/album/2LrqZEdBSCA2yKt0fs5Q8H"
-      },
-      "artists": [
-        {
-          "name": "Hi I'm Ghost",
-          "url": "https://open.spotify.com/artist/7IyxUmBgkkV4jh7kHoip34"
-        }
-      ],
-      "duration_ms": 151112,
-      "name": "Death Rail",
-      "url": "https://open.spotify.com/track/0gtuo2bvKsqW8yiqQvvtcr"
-    },
-    {
-      "added_at": "2022-08-16 19:10:22",
-      "album": {
         "name": "Emergency",
         "url": "https://open.spotify.com/album/4xeOgbxFCERSTBCaxuKSqY"
       },
@@ -1819,26 +1803,34 @@
     {
       "added_at": "2022-08-16 19:10:22",
       "album": {
-        "name": "Bonzai Channel One",
-        "url": "https://open.spotify.com/album/3PJ1YbvqnVpAAOtygBRetu"
+        "name": "Look",
+        "url": "https://open.spotify.com/album/1I35zlzXcHo0RNRYAsH9eF"
       },
       "artists": [
         {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
-        },
-        {
-          "name": "Bassjackers",
-          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
-        },
-        {
-          "name": "Crossnaders",
-          "url": "https://open.spotify.com/artist/0SFycBapbIhuPacbhzDxI2"
+          "name": "Doss",
+          "url": "https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM"
         }
       ],
-      "duration_ms": 174949,
-      "name": "Bonzai Channel One",
-      "url": "https://open.spotify.com/track/07hm7hRuPbl0kG8hCuQoda"
+      "duration_ms": 168226,
+      "name": "Look",
+      "url": "https://open.spotify.com/track/42y1R39jgfNb8tNtNNoYMZ"
+    },
+    {
+      "added_at": "2022-08-16 19:10:22",
+      "album": {
+        "name": "Light Me Up",
+        "url": "https://open.spotify.com/album/4EohvRPYKOWpgugn2n3DTi"
+      },
+      "artists": [
+        {
+          "name": "SNO",
+          "url": "https://open.spotify.com/artist/3qTRZI4zjqH8jPXvmUNu10"
+        }
+      ],
+      "duration_ms": 184761,
+      "name": "Light Me Up",
+      "url": "https://open.spotify.com/track/6xfT4ubp1ETiqfDtUbdYHI"
     }
   ],
   "unique_name": "Ejercicio Total",

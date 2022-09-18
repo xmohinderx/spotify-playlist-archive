@@ -4,7 +4,7 @@
 
 > Trendy & Chill 한국 R&B\. Be laid\-back with groovy K\-R&B\. \(Cover: SOLE\(쏠\)\)
 
-403 songs - 22 hr 2 min - [published](https://open.spotify.com/playlist/3joqGbdyT1iJwODdo3szax)
+404 songs - 22 hr 6 min - [published](https://open.spotify.com/playlist/3joqGbdyT1iJwODdo3szax)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -339,7 +339,8 @@
 | [Square \(2017\)](https://open.spotify.com/track/13On7DYsJ3IrWxBWuOwM8t) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Every letter I sent you.](https://open.spotify.com/album/20hW2P3VSNJ1A7MwjIJ0Up) | 4:21 | 2022-08-02 | 2022-09-06 |
 | [stay home](https://open.spotify.com/track/6bLwL9kTb0CyfI9cCXJ709) | [G\. Nine](https://open.spotify.com/artist/6KyAMbfO1f5yIQjh9WWYDa) | [home doesn't feel like home](https://open.spotify.com/album/6GRm8QuUULXwczhB4KwLZB) | 3:14 | 2022-09-05 | 2022-09-07 |
 | [Step!](https://open.spotify.com/track/6UqGjOs7CS991n848bipBC) | [Hippo](https://open.spotify.com/artist/6o2llz8JozEXnyRq3XdJY1) | [Step!](https://open.spotify.com/album/6m60vpr7y4UA8NmTow50GJ) | 3:17 | 2022-07-24 | 2022-07-28 |
-| [still beautiful](https://open.spotify.com/track/5MsPHSEHfSZnxgaJDnEdI6) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [still beautiful](https://open.spotify.com/album/6R1xUiVm1iCwZP2TQtimIn) | 3:45 | 2022-09-08 |  |
+| [still beautiful](https://open.spotify.com/track/5MsPHSEHfSZnxgaJDnEdI6) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [still beautiful](https://open.spotify.com/album/6R1xUiVm1iCwZP2TQtimIn) | 3:45 | 2022-09-08 | 2022-09-18 |
+| [still beautiful](https://open.spotify.com/track/5WObYUq7J0E5tNOaLKeF3C) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [imagine club](https://open.spotify.com/album/1Fhu3FJHqttNA1d6e7VXxC) | 3:45 | 2022-09-16 |  |
 | [Stupid \(feat\. Amin & H!\)](https://open.spotify.com/track/6tgPZHN5aSPU3IFxcG7V6r) | [merrymerryseoul](https://open.spotify.com/artist/5vePfIx5trgioIznzp2cuy), [amin](https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N), [H!](https://open.spotify.com/artist/3gVpUJcNNDu43pV4xlzmyJ) | [Weekday is long, Weekend is gone](https://open.spotify.com/album/2P4txqRH8hlDQLBoMnXlIl) | 2:55 | 2022-07-04 | 2022-07-15 |
 | [SUGAR](https://open.spotify.com/track/4WFTVcLuQuQlzzO8aS4iRM) | [Youngjae](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ) | [SUGAR](https://open.spotify.com/album/5kmy3uN2XugLp8DLoL48ef) | 3:06 | 2022-07-27 | 2022-08-25 |
 | [Sugardance](https://open.spotify.com/track/3yq1iV9RwejrwebPyWnh6B) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Sweeet](https://open.spotify.com/album/7Io0qmAUvOmpo6pVGSFiIl) | 2:57 | 2022-08-12 | 2022-08-19 |

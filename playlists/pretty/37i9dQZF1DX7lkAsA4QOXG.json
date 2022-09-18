@@ -1,12 +1,12 @@
 {
   "description": "Covers of classic songs with a touch of Jazz. Cover: Jamie Cullum",
-  "num_followers": 49224,
+  "num_followers": 49384,
   "original_name": "Jazz Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzA2MzA2MCwwMDAwMDAwMDhiZTFjZDk3NTZiZTUzY2MzY2I3YWIwOTI0NzE5Nzc1",
+  "snapshot_id": "MTY2MzA2MzA2MCwwMDAwMDAwMGU0MjJkZjU5NjliMmUxODgwMGUyMjM1MTI1YzUxZGIy",
   "tracks": [
     {
       "added_at": "2022-09-13 09:57:40",
@@ -163,22 +163,6 @@
     {
       "added_at": "2022-09-13 09:57:40",
       "album": {
-        "name": "Take To The Sky",
-        "url": "https://open.spotify.com/album/1MqGJoEKazTWPX0HaA17L2"
-      },
-      "artists": [
-        {
-          "name": "Kat Edmonson",
-          "url": "https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds"
-        }
-      ],
-      "duration_ms": 252200,
-      "name": "Just Like Heaven",
-      "url": "https://open.spotify.com/track/1cfxSquzIuVUXxG7yfUmwF"
-    },
-    {
-      "added_at": "2022-09-13 09:57:40",
-      "album": {
         "name": "Steer Your Way",
         "url": "https://open.spotify.com/album/7oQZl2Z301VOlKr77DgtEm"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 288880,
       "name": "Steer Your Way (feat. Norah Jones)",
       "url": "https://open.spotify.com/track/1rMrh2p6xDuKywDZZPZgmp"
+    },
+    {
+      "added_at": "2022-09-13 09:57:40",
+      "album": {
+        "name": "Take To The Sky",
+        "url": "https://open.spotify.com/album/1MqGJoEKazTWPX0HaA17L2"
+      },
+      "artists": [
+        {
+          "name": "Kat Edmonson",
+          "url": "https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds"
+        }
+      ],
+      "duration_ms": 252200,
+      "name": "Just Like Heaven",
+      "url": "https://open.spotify.com/track/1cfxSquzIuVUXxG7yfUmwF"
     },
     {
       "added_at": "2022-09-13 09:57:40",
@@ -639,22 +639,6 @@
     {
       "added_at": "2022-09-13 09:57:40",
       "album": {
-        "name": "All I Do",
-        "url": "https://open.spotify.com/album/01ggqwB4iUJO47fa0T0wln"
-      },
-      "artists": [
-        {
-          "name": "Julius Rodriguez",
-          "url": "https://open.spotify.com/artist/50qPbhYR2iMZzD3iz0eBMF"
-        }
-      ],
-      "duration_ms": 280535,
-      "name": "All I Do",
-      "url": "https://open.spotify.com/track/2ZMc5EGqLIWWU4l37EvEDi"
-    },
-    {
-      "added_at": "2022-09-13 09:57:40",
-      "album": {
         "name": "Bridge Over Troubled Water",
         "url": "https://open.spotify.com/album/1SdiMRASc3tRVgoLPXOHba"
       },
@@ -687,6 +671,22 @@
     {
       "added_at": "2022-09-13 09:57:40",
       "album": {
+        "name": "All I Do",
+        "url": "https://open.spotify.com/album/01ggqwB4iUJO47fa0T0wln"
+      },
+      "artists": [
+        {
+          "name": "Julius Rodriguez",
+          "url": "https://open.spotify.com/artist/50qPbhYR2iMZzD3iz0eBMF"
+        }
+      ],
+      "duration_ms": 280535,
+      "name": "All I Do",
+      "url": "https://open.spotify.com/track/2ZMc5EGqLIWWU4l37EvEDi"
+    },
+    {
+      "added_at": "2022-09-13 09:57:40",
+      "album": {
         "name": "Accelerando",
         "url": "https://open.spotify.com/album/2FaaNlVFsJ74lmrOazjZFF"
       },
@@ -711,6 +711,22 @@
     {
       "added_at": "2022-09-13 09:57:40",
       "album": {
+        "name": "They Oughta Write a Song",
+        "url": "https://open.spotify.com/album/2u0m5eHHen8w42k7lZB46i"
+      },
+      "artists": [
+        {
+          "name": "Halie Loren",
+          "url": "https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI"
+        }
+      ],
+      "duration_ms": 283026,
+      "name": "A Whiter Shade of Pale",
+      "url": "https://open.spotify.com/track/39hPwPyP8GMOSnfS9tJ4qH"
+    },
+    {
+      "added_at": "2022-09-13 09:57:40",
+      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/2BQJdNJq1qkbvcyMzl9xs4"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 250133,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/0VezvV7xjZm8MUVKuJTely"
-    },
-    {
-      "added_at": "2022-09-13 09:57:40",
-      "album": {
-        "name": "They Oughta Write a Song",
-        "url": "https://open.spotify.com/album/2u0m5eHHen8w42k7lZB46i"
-      },
-      "artists": [
-        {
-          "name": "Halie Loren",
-          "url": "https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI"
-        }
-      ],
-      "duration_ms": 283026,
-      "name": "A Whiter Shade of Pale",
-      "url": "https://open.spotify.com/track/39hPwPyP8GMOSnfS9tJ4qH"
     },
     {
       "added_at": "2022-09-13 09:57:40",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2022-09-13 09:57:40",
       "album": {
-        "name": "Twentysomething (Special Edition)",
-        "url": "https://open.spotify.com/album/6YwcKkG1bEljsv9nyfCtgh"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 334560,
-      "name": "High And Dry - Live On The South Bank Show / 2014",
-      "url": "https://open.spotify.com/track/0IOb6D22mnQIxsGo0db6lI"
-    },
-    {
-      "added_at": "2022-09-13 09:57:40",
-      "album": {
         "name": "Stockholm Underground",
         "url": "https://open.spotify.com/album/6Q2EuXcFJk2EDWpKPsBchl"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 303807,
       "name": "A Whiter Shade of Pale",
       "url": "https://open.spotify.com/track/5EQoSCrUMefedwvGUUl6ey"
+    },
+    {
+      "added_at": "2022-09-13 09:57:40",
+      "album": {
+        "name": "Twentysomething (Special Edition)",
+        "url": "https://open.spotify.com/album/6YwcKkG1bEljsv9nyfCtgh"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "duration_ms": 334560,
+      "name": "High And Dry - Live On The South Bank Show / 2014",
+      "url": "https://open.spotify.com/track/0IOb6D22mnQIxsGo0db6lI"
     },
     {
       "added_at": "2022-09-13 09:57:40",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2022-09-13 09:57:40",
       "album": {
-        "name": "You Should Have Told Me",
-        "url": "https://open.spotify.com/album/24zLLdsQq4OwtSpS3SiEQJ"
-      },
-      "artists": [
-        {
-          "name": "Ellen Andersson",
-          "url": "https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog"
-        }
-      ],
-      "duration_ms": 232253,
-      "name": "You've Got a Friend in Me",
-      "url": "https://open.spotify.com/track/2QQteyYAiR8PKRdIQtT5hz"
-    },
-    {
-      "added_at": "2022-09-13 09:57:40",
-      "album": {
         "name": "Staying in Touch",
         "url": "https://open.spotify.com/album/4Gl8Sg5Ik5MoNbaUo24fbL"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 254066,
       "name": "The Long and Winding Road",
       "url": "https://open.spotify.com/track/7cqppiPKNniJMBfdNTvQOi"
+    },
+    {
+      "added_at": "2022-09-13 09:57:40",
+      "album": {
+        "name": "You Should Have Told Me",
+        "url": "https://open.spotify.com/album/24zLLdsQq4OwtSpS3SiEQJ"
+      },
+      "artists": [
+        {
+          "name": "Ellen Andersson",
+          "url": "https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog"
+        }
+      ],
+      "duration_ms": 232253,
+      "name": "You've Got a Friend in Me",
+      "url": "https://open.spotify.com/track/2QQteyYAiR8PKRdIQtT5hz"
     },
     {
       "added_at": "2022-09-13 09:57:40",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2022-09-13 09:57:40",
       "album": {
-        "name": "Return To You",
-        "url": "https://open.spotify.com/album/5muVIXk6kRkRbGTCRWz1uj"
-      },
-      "artists": [
-        {
-          "name": "Sara Gazarek",
-          "url": "https://open.spotify.com/artist/7JAxSqDybAiZCDoqJ1R1fc"
-        }
-      ],
-      "duration_ms": 335720,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/0lU9XZ3I8uyGSHLIAjG5vI"
-    },
-    {
-      "added_at": "2022-09-13 09:57:40",
-      "album": {
         "name": "Jazz Plays The Beatles",
         "url": "https://open.spotify.com/album/0aMvDpN8TRj3BD9E703y5i"
       },
@@ -1515,18 +1499,18 @@
     {
       "added_at": "2022-09-13 09:57:40",
       "album": {
-        "name": "Oliver Nelson Plays Michelle",
-        "url": "https://open.spotify.com/album/4gpVcA06Od08ym7LDyQ0qw"
+        "name": "Return To You",
+        "url": "https://open.spotify.com/album/5muVIXk6kRkRbGTCRWz1uj"
       },
       "artists": [
         {
-          "name": "Oliver Nelson",
-          "url": "https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN"
+          "name": "Sara Gazarek",
+          "url": "https://open.spotify.com/artist/7JAxSqDybAiZCDoqJ1R1fc"
         }
       ],
-      "duration_ms": 162480,
-      "name": "Yesterday",
-      "url": "https://open.spotify.com/track/6c6XaTu2VM32NHxtYZUWMY"
+      "duration_ms": 335720,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/0lU9XZ3I8uyGSHLIAjG5vI"
     },
     {
       "added_at": "2022-09-13 09:57:40",
@@ -1607,6 +1591,22 @@
     {
       "added_at": "2022-09-13 09:57:40",
       "album": {
+        "name": "Oliver Nelson Plays Michelle",
+        "url": "https://open.spotify.com/album/4gpVcA06Od08ym7LDyQ0qw"
+      },
+      "artists": [
+        {
+          "name": "Oliver Nelson",
+          "url": "https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN"
+        }
+      ],
+      "duration_ms": 162480,
+      "name": "Yesterday",
+      "url": "https://open.spotify.com/track/6c6XaTu2VM32NHxtYZUWMY"
+    },
+    {
+      "added_at": "2022-09-13 09:57:40",
+      "album": {
         "name": "Who Used To Dance",
         "url": "https://open.spotify.com/album/6HPS7rpJJXMLzguv1RfDU0"
       },
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2022-09-13 09:57:40",
       "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/5NaIn42BHM4s814EXBSolu"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 152813,
+      "name": "Blowin' In The Wind",
+      "url": "https://open.spotify.com/track/6jKnINtSHvjyz7jgw0pJnx"
+    },
+    {
+      "added_at": "2022-09-13 09:57:40",
+      "album": {
         "name": "Here, There and Everywhere",
         "url": "https://open.spotify.com/album/7CC7BwM6EdBIFIDmM0tdq1"
       },
@@ -1675,22 +1691,6 @@
       "duration_ms": 395625,
       "name": "Here, There and Everywhere",
       "url": "https://open.spotify.com/track/1tY4JU86oLsEfp3hnUtjwo"
-    },
-    {
-      "added_at": "2022-09-13 09:57:40",
-      "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/5NaIn42BHM4s814EXBSolu"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 152813,
-      "name": "Blowin' In The Wind",
-      "url": "https://open.spotify.com/track/6jKnINtSHvjyz7jgw0pJnx"
     },
     {
       "added_at": "2022-09-13 09:57:40",
@@ -1727,30 +1727,6 @@
     {
       "added_at": "2022-09-13 09:57:40",
       "album": {
-        "name": "As an Unperfect Actor (Nine Shakespeare Sonnets)",
-        "url": "https://open.spotify.com/album/28TO5COQrry3X4i8amGonZ"
-      },
-      "artists": [
-        {
-          "name": "Birgit Minichmayr",
-          "url": "https://open.spotify.com/artist/0AmppM0rypylyKScAYazvl"
-        },
-        {
-          "name": "Quadro Nuevo",
-          "url": "https://open.spotify.com/artist/02VSzyVA68par8UGNNRbAN"
-        },
-        {
-          "name": "Bernd Lhotzky",
-          "url": "https://open.spotify.com/artist/2McJefV5ZI8QkQHoQUU4PR"
-        }
-      ],
-      "duration_ms": 210593,
-      "name": "When Most I Wink - Sonnet 43",
-      "url": "https://open.spotify.com/track/7Lo8oj9nSXy6DWCpbd4mGb"
-    },
-    {
-      "added_at": "2022-09-13 09:57:40",
-      "album": {
         "name": "Speak Low II",
         "url": "https://open.spotify.com/album/4gQ5E5ZMBReLfgCRlcLEyw"
       },
@@ -1771,6 +1747,30 @@
       "duration_ms": 318086,
       "name": "I Think It's Going to Rain Today",
       "url": "https://open.spotify.com/track/7g5oxgxTNFTmlkf3B06zsD"
+    },
+    {
+      "added_at": "2022-09-13 09:57:40",
+      "album": {
+        "name": "As an Unperfect Actor (Nine Shakespeare Sonnets)",
+        "url": "https://open.spotify.com/album/28TO5COQrry3X4i8amGonZ"
+      },
+      "artists": [
+        {
+          "name": "Birgit Minichmayr",
+          "url": "https://open.spotify.com/artist/0AmppM0rypylyKScAYazvl"
+        },
+        {
+          "name": "Quadro Nuevo",
+          "url": "https://open.spotify.com/artist/02VSzyVA68par8UGNNRbAN"
+        },
+        {
+          "name": "Bernd Lhotzky",
+          "url": "https://open.spotify.com/artist/2McJefV5ZI8QkQHoQUU4PR"
+        }
+      ],
+      "duration_ms": 210593,
+      "name": "When Most I Wink - Sonnet 43",
+      "url": "https://open.spotify.com/track/7Lo8oj9nSXy6DWCpbd4mGb"
     }
   ],
   "unique_name": "Jazz Covers",

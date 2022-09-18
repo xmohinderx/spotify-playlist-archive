@@ -4,7 +4,7 @@
 
 > iykyk
 
-578 songs - 1 day 7 hr 31 min - [published](https://open.spotify.com/playlist/4A3sS6FGGPjl0VEjsEjlzC)
+580 songs - 1 day 7 hr 37 min - [published](https://open.spotify.com/playlist/4A3sS6FGGPjl0VEjsEjlzC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -489,6 +489,7 @@
 | [Still D.R.E.](https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [2001](https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N) | 4:30 | 2022-02-22 | 2022-04-12 |
 | [Stir Fry](https://open.spotify.com/track/2UVbBKQOdFAekPTRsnkzcf) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture II](https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y) | 3:10 | 2022-04-25 | 2022-07-18 |
 | [Straightjacket](https://open.spotify.com/track/51LIqkda3pTeECZUhMnool) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [The Story of Us](https://open.spotify.com/album/7j7cqgeWmYH9PbKe3S5oJj) | 3:26 | 2022-01-30 | 2022-02-15 |
+| [stuck on you](https://open.spotify.com/track/0Ebv4nwxtPcRNSTKq6xDXv) | [april june](https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG), [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [stuck on you](https://open.spotify.com/album/64FQC1Jn0rGTricYmZEc1Y) | 2:47 | 2022-09-17 |  |
 | [Summertime Sadness](https://open.spotify.com/track/1Ist6PR2BZR3n2z2Y5R6S1) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die – Paradise Edition \(Special Version\)](https://open.spotify.com/album/0Dt3FbpMQwjoT5KNAw0IXR) | 4:24 | 2022-07-26 |  |
 | [sun and moon](https://open.spotify.com/track/769Ld8demNhMgVLAQcjTDn) | [anees](https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h) | [sun and moon](https://open.spotify.com/album/4bUd4H9GN11TlKhJDBUGsc) | 2:31 | 2022-04-06 | 2022-05-16 |
 | [Sunroof](https://open.spotify.com/track/3RfTeIrWS8LNrfHYwechtt) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Sunroof](https://open.spotify.com/album/7xb8OvPMTdDSELqdWcddA0) | 2:43 | 2022-03-09 | 2022-07-09 |
@@ -518,6 +519,7 @@
 | [The Perfect Girl](https://open.spotify.com/track/5RBOcBpJXaNnHCGViJmYhh) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [The Perfect Girl](https://open.spotify.com/album/2JnZQM70jbT0J1Xq0qgl24) | 3:14 | 2022-04-20 |  |
 | [The Perfect Girl](https://open.spotify.com/track/6J4XizhuOlKmPWykPrHIrV) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [The Perfect Girl](https://open.spotify.com/album/6jeFN2iws6KV7sX17KI7XY) | 3:14 | 2021-11-14 | 2022-07-29 |
 | [the perfect pair](https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:57 | 2022-08-02 |  |
+| [The Promise](https://open.spotify.com/track/48p5E25cFPanxuwCTmTpuL) | [When In Rome](https://open.spotify.com/artist/3jOO5nZ2XPmc232rNjzqJy) | [When In Rome](https://open.spotify.com/album/3kt903x5U5IWJlwHyE481x) | 3:40 | 2022-09-17 |  |
 | [THE SHADE](https://open.spotify.com/track/1gH1h30wkQdd9zhY3j7a8T) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [WHO CARES?](https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz) | 3:01 | 2022-07-12 |  |
 | [THE SNAKE](https://open.spotify.com/track/4tRXJwAv2zZrcDcfjTUekQ) | [Lana Lubany](https://open.spotify.com/artist/53jnd1fhXV7lbXSfjgk1WR) | [THE SNAKE](https://open.spotify.com/album/6MUnBgFIOhLgnf7h5pmZGm) | 2:56 | 2022-03-21 | 2022-04-08 |
 | [The Way I Are](https://open.spotify.com/track/2bLqfJjuC5syrsgDsZfGmn) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Keri Hilson](https://open.spotify.com/artist/63wjoROpeh5f11Qm93UiJ1), [D.O.E.](https://open.spotify.com/artist/4TLCPR1sMYoNU1jA7O4uww) | [Shock Value](https://open.spotify.com/album/4BxB8U8QgpR4UCvJ0moj8Z) | 2:59 | 2022-04-05 | 2022-06-18 |

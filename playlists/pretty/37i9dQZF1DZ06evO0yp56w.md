@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0yp56w.md) - [plain]
 
 > This is Muse\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 672,357 likes - 52 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 672,554 likes - 52 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0yp56w.md) - [plain]
 | 51 | [United States of Eurasia \(+Collateral Damage\)](https://open.spotify.com/track/0tHbQRjL5phd8OoYl2Bdnd) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The Resistance](https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM) | 5:47 |
 | 52 | [Follow Me](https://open.spotify.com/track/6r9tjMWLv8fNdZKKTnqCEr) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The 2nd Law](https://open.spotify.com/album/3KuXEGcqLcnEYWnn3OEGy0) | 3:50 |
 
-Snapshot ID: `Mjc3MjIyMzMsMDAwMDAwMDBkYzc5MTk2NTAyMzliMWYwYTkxZjM4ZTU3NWU4YzliOA==`
+Snapshot ID: `Mjc3MjM2OTIsMDAwMDAwMDA3MTJmMmJiOTVhYTEyMDY5OWRjMGNmZmM0ZjliYjU3Nw==`

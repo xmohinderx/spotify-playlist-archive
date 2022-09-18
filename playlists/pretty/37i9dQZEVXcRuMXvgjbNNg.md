@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcRuMXvgjbNNg.md) - [plain]
 | 29 | [Psycho \(When I Wake Up\)](https://open.spotify.com/track/2WW9X7mc7lE8DbE4WbTNwI) | [The Wldlfe](https://open.spotify.com/artist/2Vvj76fff5uAw10W1sW54W) | [Psycho \(When I Wake Up\)](https://open.spotify.com/album/0Dy3T55bzxYvsND1rpYuLa) | 3:15 |
 | 30 | [Guys](https://open.spotify.com/track/0dGyrOsSR0TOAxY4UBojmV) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Notes On A Conditional Form](https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi) | 4:29 |
 
-Snapshot ID: `MCwwMDAwMDAwMGFhMjViOTY4ODA5N2NkZTVmZGM1MTJhODA1ODBlOWFm`
+Snapshot ID: `MCwwMDAwMDAwMGIwZTEyOTMzZWU3Zjg3MTU4YWVkZjM2NTI5ODBiMWE3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Updates every Wednesday\. Cover: George Riley, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,105,846 likes - 49 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,105,784 likes - 49 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 11 | [Mad](https://open.spotify.com/track/1JHnIv5P28zb8ocz7JLPnY) | [Brigetta](https://open.spotify.com/artist/6dAOkHEQVpVD8mFj7OQv8M) | [Mad](https://open.spotify.com/album/2wq2aPkFgQm71gbIBXpFwj) | 2:55 |
 | 12 | [Good Morning, Al](https://open.spotify.com/track/0rNWtiBcJh8T6gXtIAIJIJ) | [Ally Evenson](https://open.spotify.com/artist/6UzwpF9cqjxgxXb2N6mb7y) | [Good Morning, Al](https://open.spotify.com/album/66Z431cNHK8eTDjzSZhlR7) | 2:39 |
 | 13 | [Decay](https://open.spotify.com/track/2Ley8Y9SBi6DUAOxTepqSe) | [Wildermiss](https://open.spotify.com/artist/7K9fyLw4RPBp8PIFkif2eB) | [Decay](https://open.spotify.com/album/5MK4VGbzCJ9NDm5G3Nvd6w) | 3:07 |
-| 14 | [Irreversible](https://open.spotify.com/track/2ObRKA1v6emvNgc6b6xzSN) | [Biako](https://open.spotify.com/artist/2UJzd3nPhsf58RQmMe7nYQ), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B), [Van Hunt](https://open.spotify.com/artist/4KZ6qvHEY7prblYD2VrOd3) | [Irreversible](https://open.spotify.com/album/3gQBaYMYfYav7KsQ88LEjn) | 3:13 |
+| 14 | [Irreversible \(feat\. Leven Kali & Van Hunt\)](https://open.spotify.com/track/2ObRKA1v6emvNgc6b6xzSN) | [Biako](https://open.spotify.com/artist/2UJzd3nPhsf58RQmMe7nYQ), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B), [Van Hunt](https://open.spotify.com/artist/4KZ6qvHEY7prblYD2VrOd3) | [Irreversible \(feat\. Leven Kali & Van Hunt\)](https://open.spotify.com/album/3gQBaYMYfYav7KsQ88LEjn) | 3:13 |
 | 15 | [Could've Tried](https://open.spotify.com/track/04ZUad18xszxdqExEA6fot) | [veronicavon](https://open.spotify.com/artist/6qOWi2uVjil54PGcEfdKVZ) | [Could've Tried](https://open.spotify.com/album/25lIWRIBXxFhStPN2FVoA8) | 2:24 |
 | 16 | [Loud](https://open.spotify.com/track/2YDPikS8jvS2rsWF0ozCvY) | [Eva Westphal](https://open.spotify.com/artist/32obs0w1xupMz2CXf5B9wb) | [Loud](https://open.spotify.com/album/0LEW3Cj5UU2oC2bM6yAJhI) | 2:24 |
 | 17 | [Talk](https://open.spotify.com/track/3ZE3BSTojEeiBmep57CcUa) | [Helen](https://open.spotify.com/artist/0dKF6Q9Wz7Y3PKSNyaFpkM) | [Talk](https://open.spotify.com/album/4onhJdux51mV5lSgb9rU1U) | 2:30 |

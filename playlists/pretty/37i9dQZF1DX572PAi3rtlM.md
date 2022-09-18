@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX572PAi3rtlM.md) - [plain]
 
 > That summer in the city feeling, any day of the week.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,486 likes - 50 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,500 likes - 50 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

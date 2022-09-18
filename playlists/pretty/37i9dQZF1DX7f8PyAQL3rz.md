@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7f8PyAQL3rz.md) - [plain]
 
 > vulgo fk quer saber como cê tá
 
-[Spotify](https://open.spotify.com/user/spotify) - 937,507 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 937,912 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Instrumental Christmas favorites to set the perfect mood for your swinging cocktail party this holiday season.
 
-69 songs - 3 hr 33 min - [published](https://open.spotify.com/playlist/46l2vnuSexwyIIH7fOoaMY)
+70 songs - 3 hr 36 min - [published](https://open.spotify.com/playlist/46l2vnuSexwyIIH7fOoaMY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,8 @@
 | [We Three Kings \(Jazz Version\)](https://open.spotify.com/track/5uIylVaLyLDOe3YQTo9Arc) | [Ennio Máno](https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs) | [A Jazzy Little Christmas](https://open.spotify.com/album/3dEp0spQB8Yz3vPr2PUWc3) | 3:08 | 2021-12-21 |  |
 | [We Wish You A Merry Christmas](https://open.spotify.com/track/24qIDUtuHes8hTXrs13HR6) | [Little Tree Trio](https://open.spotify.com/artist/307akv5BTJh4p9auz0sc0F) | [Merry Christmas](https://open.spotify.com/album/3mhiSS0lSViQWiEpV3rsuY) | 2:33 | 2021-12-21 |  |
 | [What Are You Doing New Year's Eve](https://open.spotify.com/track/2OMXwyF3J4vYDxk5DzV03s) | [Keanan Field Group](https://open.spotify.com/artist/3Nswj36GKhom7iy2bLvJNJ) | [What Are You Doing New Year's Eve](https://open.spotify.com/album/2Q8QtI11tk9L9jBskjBF7E) | 4:28 | 2021-12-21 |  |
-| [What Child Is This](https://open.spotify.com/track/0LP2DlqqEH5Lo0ujWdHkUD) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \[2012 Remastered & Expanded Edition\]](https://open.spotify.com/album/7DuJYWu66RPdcekF5TuZ7w) | 2:24 | 2021-12-21 |  |
+| [What Child Is This](https://open.spotify.com/track/0LP2DlqqEH5Lo0ujWdHkUD) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \[2012 Remastered & Expanded Edition\]](https://open.spotify.com/album/7DuJYWu66RPdcekF5TuZ7w) | 2:24 | 2021-12-21 | 2022-09-18 |
+| [What Child Is This](https://open.spotify.com/track/1KYp6R9KfYSna86gFkIhq0) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \[2012 Remastered & Expanded Edition\]](https://open.spotify.com/album/2XnNY3GEkbWHor5kyvXLu4) | 2:24 | 2022-09-16 |  |
 | [When You Wish Upon a Star](https://open.spotify.com/track/1RS0fQUXF7GJRC5SJwX6MW) | [Basinettes](https://open.spotify.com/artist/3PGR6FLLZdC24ZKvow1IQQ) | [When You Wish Upon a Star](https://open.spotify.com/album/45GERqZgHo745HSE9VgjgN) | 2:10 | 2021-12-21 |  |
 | [White Christmas \- Remastered](https://open.spotify.com/track/0uiPNd0fdoklct761AycxJ) | [Booker Ervin](https://open.spotify.com/artist/3ZppcUE7tHnE6SzUR4ipSy) | [Structurally Sound](https://open.spotify.com/album/4T7k8nLuMrFoiJSL1rlq0k) | 4:30 | 2021-12-21 |  |
 | [Winter Weather / I've Got My Love to Keep Me Warm](https://open.spotify.com/track/7iuHxTfZzyhBxqZjqNrI0I) | [Mason Embry Trio](https://open.spotify.com/artist/3CAwTtzAtzwR6grP0UR2H5) | [Martinis & Mistletoe: Christmas Jazz Piano](https://open.spotify.com/album/6irxdg4sz5ikmTg3ysQhbK) | 3:48 | 2021-12-21 |  |

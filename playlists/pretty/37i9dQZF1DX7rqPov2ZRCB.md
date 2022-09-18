@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7rqPov2ZRCB.md) - [plain]
 
 > Ponte a guayar con este playlist de Merengue Tipico\. Cover: El Prodigio
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,017 likes - 51 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,052 likes - 51 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7rqPov2ZRCB.md) - [plain]
 | 34 | [La Pimienta es la Que Pica](https://open.spotify.com/track/1cwD4kYEcYmLCPj42Ym8Yx) | [Fefita La Grande](https://open.spotify.com/artist/4IYHkkHuBFwfBrqQ4XJiPA) | [Cantando He De Morir](https://open.spotify.com/album/1WLMlfIxmGS78b2oQXKNHW) | 4:44 |
 | 35 | [Comiendo Gallina](https://open.spotify.com/track/45B4Uym3KHBziu4olVZHNe) | [Tatico Henriquez](https://open.spotify.com/artist/3Ut6HQlDNxriysExMqRCYm) | [Ídolo Del Pueblo](https://open.spotify.com/album/1b8lRfNkfmqV1BRsyAaNgK) | 2:47 |
 | 36 | [La Rubia Y Yo](https://open.spotify.com/track/2zLZaQsd66qHAR6HWJOOAI) | [Geovanny Polanco](https://open.spotify.com/artist/0awBNuVACBDglhyp0vRMgY) | [De Que Tu Priva?](https://open.spotify.com/album/6rdek5bHbx11piMtwzaZCm) | 4:29 |
-| 37 | [Canto de Hacha](https://open.spotify.com/track/2qkjPibPywEEAkNVuEZvpi) | [Francisco Ulloa](https://open.spotify.com/artist/1gvcnolIBj2EDKRk6nirCw) | [!Ultramerengue!](https://open.spotify.com/album/3CO7yIFZtsmGy24VvuMNXg) | 3:42 |
-| 38 | [Por Esa Mujer](https://open.spotify.com/track/2YflEzGAkdbFQ87hevZ7Gy) | [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | ["El Cacique" \- Todo Exitos](https://open.spotify.com/album/55mfcO5DhWjPj2RxqPGyDB) | 4:28 |
+| 37 | [Por Esa Mujer](https://open.spotify.com/track/2YflEzGAkdbFQ87hevZ7Gy) | [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | ["El Cacique" \- Todo Exitos](https://open.spotify.com/album/55mfcO5DhWjPj2RxqPGyDB) | 4:28 |
+| 38 | [Canto de Hacha](https://open.spotify.com/track/2qkjPibPywEEAkNVuEZvpi) | [Francisco Ulloa](https://open.spotify.com/artist/1gvcnolIBj2EDKRk6nirCw) | [!Ultramerengue!](https://open.spotify.com/album/3CO7yIFZtsmGy24VvuMNXg) | 3:42 |
 | 39 | [Vamos Habla Ingles](https://open.spotify.com/track/3AYVn3RT2SQhzpGq9gRy4b) | [Fefita La Grande](https://open.spotify.com/artist/4IYHkkHuBFwfBrqQ4XJiPA) | [Todos Los Hombres Son Buenos](https://open.spotify.com/album/2L5Pmmd51JQRzH2Gipbh34) | 4:35 |
 | 40 | [Adan y Eva](https://open.spotify.com/track/3PTwz9B9JQX97CZQDXD3xl) | [Tatico Henriquez](https://open.spotify.com/artist/3Ut6HQlDNxriysExMqRCYm) | [Tatico Henríquez](https://open.spotify.com/album/0JD61srO8ptHAXAghonKen) | 2:43 |
 | 41 | [Marapica](https://open.spotify.com/track/0BfIwYo2uuLX8ZdyPacuOx) | [El Prodigio](https://open.spotify.com/artist/0mXFUCl68VMz2BhKzq1zCO) | [Only Mambo Vol\. 3](https://open.spotify.com/album/2D7sxPoukdCOjQsw9YDiei) | 4:18 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7rqPov2ZRCB.md) - [plain]
 | 50 | [Tipico Caliente](https://open.spotify.com/track/6sJmVh5brIuD3PywP0gVoE) | [Fefita La Grande](https://open.spotify.com/artist/4IYHkkHuBFwfBrqQ4XJiPA) | [La Reina del Soberano](https://open.spotify.com/album/6JG72C5AvYstaw7ZWdz8xv) | 5:05 |
 | 51 | [La Funda](https://open.spotify.com/track/75OFcipYCvVFui2YdNdfGc) | [El Prodigio](https://open.spotify.com/artist/0mXFUCl68VMz2BhKzq1zCO) | [From Santo Domingo: Live!](https://open.spotify.com/album/7j6mg2CE7wd6i3R5dRkr2Z) | 8:14 |
 
-Snapshot ID: `MTU2ODA1MTM2NCwwMDAwMDAwMDRiOTZjNzZhOTUxZTEyNzJhYmFkN2M0YjU5ZWRhOGZi`
+Snapshot ID: `MTU2ODA1MTM2NCwwMDAwMDAwMGRlNmMxZmNiN2NhNGI0YzQyMzlmZDA2YzA2NjdjNTM2`

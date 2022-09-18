@@ -1,12 +1,12 @@
 {
   "description": "Nothing but beautiful country love songs. ",
-  "num_followers": 1580015,
+  "num_followers": 1580273,
   "original_name": "Country Kind of Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ4NjQwMCwwMDAwMDAwMDMzNGJlOWFhYjI1MzE5Mjg4ZmVjMDBlMWZmMmU3NzZm",
+  "snapshot_id": "MTY2MTQ4NjQwMCwwMDAwMDAwMDQ2NmFiNTNhYWZlZmI1MGY2YjVkZDgyOWUxYmUzMTM5",
   "tracks": [
     {
       "added_at": "2022-08-26 04:00:00",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "Baby I Am",
-        "url": "https://open.spotify.com/album/44lDYWVwQ1yo5r066GtpSo"
-      },
-      "artists": [
-        {
-          "name": "Dalton Dover",
-          "url": "https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A"
-        }
-      ],
-      "duration_ms": 176573,
-      "name": "Baby I Am",
-      "url": "https://open.spotify.com/track/6OSa9hgEvituO2SaaYBiwD"
-    },
-    {
-      "added_at": "2022-08-26 04:00:00",
-      "album": {
         "name": "The Otherside",
         "url": "https://open.spotify.com/album/5MVSCE7VkkqDA6TS9Ug1rW"
       },
@@ -1371,22 +1355,6 @@
     {
       "added_at": "2022-08-26 04:00:00",
       "album": {
-        "name": "All I Need to See",
-        "url": "https://open.spotify.com/album/748lkYrb1zeh6xMQ1ewWJ1"
-      },
-      "artists": [
-        {
-          "name": "Mitch Rossell",
-          "url": "https://open.spotify.com/artist/0cEVpgfIpUSsUKUMsRrhtZ"
-        }
-      ],
-      "duration_ms": 268423,
-      "name": "All I Need to See",
-      "url": "https://open.spotify.com/track/1nggCj00NY7GRx0CyWcMKY"
-    },
-    {
-      "added_at": "2022-08-26 04:00:00",
-      "album": {
         "name": "The Rest of Our Life",
         "url": "https://open.spotify.com/album/4VKhC1dO9LPiKc1N7TJHRx"
       },
@@ -1403,6 +1371,38 @@
       "duration_ms": 225360,
       "name": "The Rest of Our Life",
       "url": "https://open.spotify.com/track/19P6cJstaoQJHtHW3HOGcg"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "GIRL",
+        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 195586,
+      "name": "To Hell & Back",
+      "url": "https://open.spotify.com/track/4Yy1VOdLAX7MuKQOcivV4O"
+    },
+    {
+      "added_at": "2022-08-26 04:00:00",
+      "album": {
+        "name": "Reckless",
+        "url": "https://open.spotify.com/album/1PuZ5juin9Mpt3Tyiygzio"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wade",
+          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
+        }
+      ],
+      "duration_ms": 224986,
+      "name": "Take Me Away",
+      "url": "https://open.spotify.com/track/5UaJtNAZJcN9pWpIuVMnN2"
     }
   ],
   "unique_name": "Country Kind of Love",

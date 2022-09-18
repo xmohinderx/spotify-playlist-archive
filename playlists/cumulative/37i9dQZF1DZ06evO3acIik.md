@@ -4,7 +4,7 @@
 
 > This is Montell Fish\. The essential tracks, all in one playlist.
 
-51 songs - 2 hr 51 min - [published](https://open.spotify.com/playlist/7KOOkYyd9ZT4DmcehRF0as)
+52 songs - 2 hr 55 min - [published](https://open.spotify.com/playlist/7KOOkYyd9ZT4DmcehRF0as)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Father Show Me Who I Am](https://open.spotify.com/track/3I9aCqv0W12kaHrwByZ2gD) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Bedroom Gospel](https://open.spotify.com/album/17OvPOdUGOGawt0dhZa9Uk) | 2:51 | 2022-09-14 |  |
 | [Getting Stronger](https://open.spotify.com/track/2RNUP450GqkdTQvnSDo8zO) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Chillhop Essentials Winter 2020](https://open.spotify.com/album/2tawQhSOBEJ4MQm1ZN6knB) | 2:40 | 2022-09-14 |  |
 | [Give U More](https://open.spotify.com/track/3nuaFEZqXgCiE283Qy4T6E) | [Miles Carter](https://open.spotify.com/artist/4Jm580nuipYFdlgljTftY7), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC) | [Give U More](https://open.spotify.com/album/7rTh8hgSYgC0bEO4UTIbFF) | 4:03 | 2022-09-14 |  |
-| [God Don't Make Mistakes \(feat\. Dante Bowe, Montell Fish & Mav City Gospel Choir\)](https://open.spotify.com/track/7Gm5qTbZOdsCDdRohqoFVB) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Mav City Gospel Choir](https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD) | [Jubilee: Juneteenth Edition](https://open.spotify.com/album/6wjcKFIUSu5mz1CcN7CcZH) | 3:50 | 2022-09-14 |  |
+| [God Don't Make Mistakes \(feat\. Dante Bowe, Montell Fish & Mav City Gospel Choir\)](https://open.spotify.com/track/7Gm5qTbZOdsCDdRohqoFVB) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Mav City Gospel Choir](https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD) | [Jubilee: Juneteenth Edition](https://open.spotify.com/album/6wjcKFIUSu5mz1CcN7CcZH) | 3:50 | 2022-09-14 | 2022-09-18 |
 | [God Given Dreams](https://open.spotify.com/track/15gmFPuXOMZV7l1Afj0JMM) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Bedroom Lofi](https://open.spotify.com/album/6zvGIAgWSOkS1w8F4C42Mi) | 2:52 | 2022-09-14 |  |
 | [Green Leaves \(feat\. Kyng\)](https://open.spotify.com/track/51hUaBDS30iiC4iQJlpBnN) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [Kyng](https://open.spotify.com/artist/1agj720VcWDnnT6y7SMbLI) | [Bedroom Gospel](https://open.spotify.com/album/17OvPOdUGOGawt0dhZa9Uk) | 5:04 | 2022-09-14 |  |
 | [Heavenly Father](https://open.spotify.com/track/5jEaWxWsplfntFOBaywhcC) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [It's Beautiful.](https://open.spotify.com/album/0khCz22f39wIV6FcizFYIo) | 3:03 | 2022-09-14 |  |
@@ -37,6 +37,7 @@
 | [Hollow Lover](https://open.spotify.com/track/0wqfPpcKewaI7muAVNzo2x) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Hollow Lover](https://open.spotify.com/album/6oU83NRccLBCqr1JI92MLi) | 3:07 | 2022-09-14 |  |
 | [Home](https://open.spotify.com/track/2xWxHd24lHBTnjl7SnbXB0) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Nights & Days.](https://open.spotify.com/album/13G65Pa4a3yM8pfN8wLrH3) | 3:53 | 2022-09-14 |  |
 | [Home for the Holidays](https://open.spotify.com/track/7yrfKopuTvSnedT9sfcG74) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [A Lofi Christmas.](https://open.spotify.com/album/18o8Xw3IFfjR6IoLsoY8xO) | 1:24 | 2022-09-14 |  |
+| [Hotel](https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Hotel](https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF) | 3:17 | 2022-09-17 |  |
 | [Jamie](https://open.spotify.com/track/5B6OqIgm8mDWKkHV29Qnr9) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 3:36 | 2022-09-14 | 2022-09-17 |
 | [Last Dance](https://open.spotify.com/track/3Kfh2IIk7nehym6iv2Ru8P) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 3:09 | 2022-09-16 |  |
 | [Let Go of Your Pain](https://open.spotify.com/track/4s6nmgS7txLnFJskJ2dtu3) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [It's Beautiful.](https://open.spotify.com/album/0khCz22f39wIV6FcizFYIo) | 3:40 | 2022-09-14 |  |

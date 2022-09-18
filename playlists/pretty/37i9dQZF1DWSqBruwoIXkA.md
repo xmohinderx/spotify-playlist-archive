@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqBruwoIXkA.md) - [plain]
 
 > Somehow, heartbreak feels good in a place like this\. Cover: Reneé Rapp
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,060,991 likes - 150 songs - 8 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,062,533 likes - 150 songs - 8 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [In The Kitchen](https://open.spotify.com/track/0XmN2KXDcNbcpeeUoB1HTV) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [In The Kitchen](https://open.spotify.com/album/3AjfnMxAc6JajluGMxja3Q) | 3:47 |
 | 2 | [Evergreen \(You Didn’t Deserve Me At All\)](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 |
 | 3 | [Better Version](https://open.spotify.com/track/3yDEK8rHiOUHOSioX9ZbaU) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Better Version](https://open.spotify.com/album/6L4Br91KD5fMRjxDItOzGd) | 2:53 |
-| 4 | [Backseat \(All I Got\)](https://open.spotify.com/track/0YG41SCyuiMYUIsflxmRbU) | [Sam MacPherson](https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh) | [Backseat \(All I Got\)](https://open.spotify.com/album/2xThJS2sGsL9Vnrhci25GR) | 2:33 |
-| 5 | [Happier Than Ever](https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:58 |
+| 4 | [Happier Than Ever](https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:58 |
+| 5 | [you'd never know](https://open.spotify.com/track/1I2zZtHCrBkoTgfwxnNKZ9) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [you'd never know](https://open.spotify.com/album/7lv1W2OS7elIXJ8whpCYJW) | 3:05 |
 | 6 | [How Do I Say Goodbye](https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [How Do I Say Goodbye](https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp) | 2:43 |
 | 7 | [drivers license](https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 4:02 |
 | 8 | [Good Enough](https://open.spotify.com/track/5fuNhRavX030PFZ42Am6Vn) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Good Enough](https://open.spotify.com/album/4eWDu7RMRXyXo6MvqLujDk) | 3:41 |
 | 9 | [I'm Not The Only One](https://open.spotify.com/track/7795WJLVKJoAyVoOtCWqXN) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 3:59 |
-| 10 | [you'd never know](https://open.spotify.com/track/1I2zZtHCrBkoTgfwxnNKZ9) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [you'd never know](https://open.spotify.com/album/7lv1W2OS7elIXJ8whpCYJW) | 3:05 |
+| 10 | [Backseat \(All I Got\)](https://open.spotify.com/track/0YG41SCyuiMYUIsflxmRbU) | [Sam MacPherson](https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh) | [Backseat \(All I Got\)](https://open.spotify.com/album/2xThJS2sGsL9Vnrhci25GR) | 2:33 |
 | 11 | [august](https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:21 |
 | 12 | [Matilda](https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 4:05 |
 | 13 | [Heather](https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:18 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqBruwoIXkA.md) - [plain]
 | 149 | [all i need \(the distance song\)](https://open.spotify.com/track/53KwVDCwML3G2cZ3v4KBvO) | [Avery Lynch](https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk) | [As Written, Vol\. 1](https://open.spotify.com/album/1dpFJxPAZsMLkdnMW3pQph) | 4:04 |
 | 150 | [Emotionless](https://open.spotify.com/track/7iKkBgyipYWWQuemhe8Fr6) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Emotionless](https://open.spotify.com/album/6YIclW9CUv2dDbOZshxxck) | 2:16 |
 
-Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMDYwNTQ1YjY0NGYxZGEwOWU1M2I2N2E0ZWZhYWE1ODFm`
+Snapshot ID: `MTY2MzQ0NjUzNiwwMDAwMDAwMGY0NjAwZjhlMTE2ZTcxMmFiMjI3NmY4MmViOTcxNTc1`

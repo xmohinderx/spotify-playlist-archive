@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0jmCg8.md) - [plain]
 
 > This is Arch Enemy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,523 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,570 likes - 49 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0jmCg8.md) - [plain]
 | 40 | [Dead Eyes See No Future](https://open.spotify.com/track/7KjLyiaxHG45hvS9wL49i4) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Anthems of Rebellion](https://open.spotify.com/album/79KP5UGPkyDLMKRoz1nxq7) | 4:14 |
 | 41 | [Enemy Within](https://open.spotify.com/track/64byKssQy7aEEgACgP5Gys) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Wages of Sin](https://open.spotify.com/album/5QeMzsmPiNKqO8mB1hQFRZ) | 4:19 |
 | 42 | [The Day You Died](https://open.spotify.com/track/4jVjUOl1gwcHCWxwlWY0zf) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Rise of the Tyrant](https://open.spotify.com/album/4ghmUVjSEgjv96xEARObbl) | 4:52 |
-| 43 | [Under Black Flags We March](https://open.spotify.com/track/3w9DBYm53qG0dnVdXit9nr) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Khaos Legions](https://open.spotify.com/album/7e6aLYzxgcsbD9NA9LpQQX) | 4:40 |
+| 43 | [A Fight I Must Win](https://open.spotify.com/track/6Yb6ofPLgbb5QhhuWQXtnk) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Will To Power](https://open.spotify.com/album/1HimPrGurKic1hNOSidwF2) | 6:35 |
 | 44 | [Despicable Heroes](https://open.spotify.com/track/7C1mBzRzBAK1iwxD8CEC5J) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Anthems of Rebellion](https://open.spotify.com/album/79KP5UGPkyDLMKRoz1nxq7) | 2:12 |
-| 45 | [A Fight I Must Win](https://open.spotify.com/track/6Yb6ofPLgbb5QhhuWQXtnk) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Will To Power](https://open.spotify.com/album/1HimPrGurKic1hNOSidwF2) | 6:35 |
+| 45 | [Under Black Flags We March](https://open.spotify.com/track/3w9DBYm53qG0dnVdXit9nr) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Khaos Legions](https://open.spotify.com/album/7e6aLYzxgcsbD9NA9LpQQX) | 4:40 |
 | 46 | [Revolution Begins](https://open.spotify.com/track/1n6Iqdr5XQ6F4o0vvqmFjx) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Rise of the Tyrant](https://open.spotify.com/album/4ghmUVjSEgjv96xEARObbl) | 4:11 |
 | 47 | [Aces High \- cover version](https://open.spotify.com/track/0C54uocegt2AqgdJkrFNqo) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Black Earth \(Reissue\)](https://open.spotify.com/album/4RRn0PSSHMJS6E8nz6Ul4z) | 4:24 |
 | 48 | [Yesterday Is Dead and Gone](https://open.spotify.com/track/0AOQFMydzS4AkbElri4FGw) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Khaos Legions](https://open.spotify.com/album/7e6aLYzxgcsbD9NA9LpQQX) | 4:21 |
-| 49 | [Symphony of Destruction \- cover version](https://open.spotify.com/track/0WxklKp98Lt2Gr3dqHBjDa) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Covered In Blood](https://open.spotify.com/album/7LfAQgQQISJJRTfgcDxVQS) | 4:02 |
-| 50 | [Dark Insanity](https://open.spotify.com/track/3CUjLbCW7Xn1raSw4sRE2F) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Black Earth \(Reissue\)](https://open.spotify.com/album/4RRn0PSSHMJS6E8nz6Ul4z) | 3:16 |
+| 49 | [Dark Insanity](https://open.spotify.com/track/3CUjLbCW7Xn1raSw4sRE2F) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Black Earth \(Reissue\)](https://open.spotify.com/album/4RRn0PSSHMJS6E8nz6Ul4z) | 3:16 |
 
-Snapshot ID: `Mjc3MjIyMzMsMDAwMDAwMDBhM2ZlNDUzM2Y0NDZhNjQwYmE2Y2E1MmRiMTFjZDk5Mg==`
+Snapshot ID: `Mjc3MjM2OTMsMDAwMDAwMDAyZDAwNzZiYTg4ZGUzMjYzZTdjZGZhMzAwOTA0MmZjNA==`

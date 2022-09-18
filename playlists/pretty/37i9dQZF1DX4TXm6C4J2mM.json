@@ -1,12 +1,12 @@
 {
   "description": "Den perfekta mixade spellistan f\u00f6r tr\u00e4ningspasset.",
-  "num_followers": 157179,
+  "num_followers": 157176,
   "original_name": "Tr\u00e4ning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg5NDI0NCwwMDAwMDAwMDdkM2U2OTA0MjkyZWRjOWU5OWIyZmFmNWVjZjA5OGE5",
+  "snapshot_id": "MTY1Nzg5NDI0NCwwMDAwMDAwMDkwMWY5YTBmNDVkMTRhZjFjMGIxOTkzOTAxMGMyZWY1",
   "tracks": [
     {
       "added_at": "2022-07-15 14:10:44",
@@ -1131,30 +1131,6 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Te Bot\u00e9",
-        "url": "https://open.spotify.com/album/24tx57L8SkaN4SPUattbZI"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Axel Cooper",
-          "url": "https://open.spotify.com/artist/1adz07qkurydHDZRSePFhI"
-        },
-        {
-          "name": "Stefy De Cicco",
-          "url": "https://open.spotify.com/artist/5v3JgLiZtNnw6ablRjjNKK"
-        }
-      ],
-      "duration_ms": 136500,
-      "name": "Te Bot\u00e9",
-      "url": "https://open.spotify.com/track/3WK855oWM0YXIWKqkIwK6U"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
         "name": "Take Me Home",
         "url": "https://open.spotify.com/album/1BYf5JhXGSUuhj5MX5dhVM"
       },
@@ -1175,6 +1151,30 @@
       "duration_ms": 174146,
       "name": "Take Me Home",
       "url": "https://open.spotify.com/track/4FQRmLtmbTjjGseIqbpBLR"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
+        "name": "Te Bot\u00e9",
+        "url": "https://open.spotify.com/album/24tx57L8SkaN4SPUattbZI"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Axel Cooper",
+          "url": "https://open.spotify.com/artist/1adz07qkurydHDZRSePFhI"
+        },
+        {
+          "name": "Stefy De Cicco",
+          "url": "https://open.spotify.com/artist/5v3JgLiZtNnw6ablRjjNKK"
+        }
+      ],
+      "duration_ms": 136500,
+      "name": "Te Bot\u00e9",
+      "url": "https://open.spotify.com/track/3WK855oWM0YXIWKqkIwK6U"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -1663,6 +1663,26 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
+        "name": "Million Ways (Remixes)",
+        "url": "https://open.spotify.com/album/6RKJnTD9NaJBQN4Bb9t33s"
+      },
+      "artists": [
+        {
+          "name": "HRVY",
+          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
+        },
+        {
+          "name": "Steve Void",
+          "url": "https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt"
+        }
+      ],
+      "duration_ms": 142120,
+      "name": "Million Ways - Steve Void Remix",
+      "url": "https://open.spotify.com/track/7Jp1D99U01dG9Wwoa4el7j"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
         "name": "How Can I Forget Her",
         "url": "https://open.spotify.com/album/5aQRDDXZIkYpKkkBQPwwSQ"
       },
@@ -1683,26 +1703,6 @@
       "duration_ms": 168216,
       "name": "How Can I Forget Her",
       "url": "https://open.spotify.com/track/4IfArE62kl6LifwebDZkCe"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
-        "name": "Million Ways (Remixes)",
-        "url": "https://open.spotify.com/album/6RKJnTD9NaJBQN4Bb9t33s"
-      },
-      "artists": [
-        {
-          "name": "HRVY",
-          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
-        },
-        {
-          "name": "Steve Void",
-          "url": "https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt"
-        }
-      ],
-      "duration_ms": 142120,
-      "name": "Million Ways - Steve Void Remix",
-      "url": "https://open.spotify.com/track/7Jp1D99U01dG9Wwoa4el7j"
     },
     {
       "added_at": "2022-07-15 14:10:44",

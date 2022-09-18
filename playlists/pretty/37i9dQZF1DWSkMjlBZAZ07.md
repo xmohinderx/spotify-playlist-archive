@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkMjlBZAZ07.md) - [plain]
 
 > Brighten your day with a mix of folksy mood boosters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,931,616 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,931,681 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,17 +69,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkMjlBZAZ07.md) - [plain]
 | 59 | [Two of Us On the Run](https://open.spotify.com/track/0zDfYXlgOZMA2leT4Slz4m) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Wildewoman \(Expanded Edition\)](https://open.spotify.com/album/2CphcTXBge3BKqAHeuNUUK) | 4:35 |
 | 60 | [Wolf](https://open.spotify.com/track/05daxiDLRI9gEy8xmtvgpv) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Wolf](https://open.spotify.com/album/6UndV62df5KRebmj3zyn53) | 3:40 |
 | 61 | [Shake](https://open.spotify.com/track/7CtViMh5EgoE8krmPPuOhi) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Let's Be Still](https://open.spotify.com/album/6KE9bPdNZqkYvXebow0i42) | 4:01 |
-| 62 | [Family](https://open.spotify.com/track/7j9eqHzhqBEfr9Unn6zdOS) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Dragons](https://open.spotify.com/album/2eQQ5hpGJHFQW76nobnF31) | 2:19 |
-| 63 | [I Keep Ticking On](https://open.spotify.com/track/1Etp6DlUsn2P5im8f7J9HP) | [The Harmaleighs](https://open.spotify.com/artist/0JpiOyzO3e8FYCsDe8EaUN) | [Pretty Picture, Dirty Brush](https://open.spotify.com/album/6gRMw9HleQT2CGc7gIPPdj) | 2:36 |
-| 64 | [Rusty](https://open.spotify.com/track/1A7fsnhsxxy9mZl8uxqObC) | [Hein Cooper](https://open.spotify.com/artist/75Cb1lVnzQa6mPaJA16Ho0) | [The Art of Escape](https://open.spotify.com/album/1M0Nx2PbPSYksQbHf5fiWn) | 3:18 |
+| 62 | [Rusty](https://open.spotify.com/track/1A7fsnhsxxy9mZl8uxqObC) | [Hein Cooper](https://open.spotify.com/artist/75Cb1lVnzQa6mPaJA16Ho0) | [The Art of Escape](https://open.spotify.com/album/1M0Nx2PbPSYksQbHf5fiWn) | 3:18 |
+| 63 | [Family](https://open.spotify.com/track/7j9eqHzhqBEfr9Unn6zdOS) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Dragons](https://open.spotify.com/album/2eQQ5hpGJHFQW76nobnF31) | 2:19 |
+| 64 | [I Keep Ticking On](https://open.spotify.com/track/1Etp6DlUsn2P5im8f7J9HP) | [The Harmaleighs](https://open.spotify.com/artist/0JpiOyzO3e8FYCsDe8EaUN) | [Pretty Picture, Dirty Brush](https://open.spotify.com/album/6gRMw9HleQT2CGc7gIPPdj) | 2:36 |
 | 65 | [Katie Queen of Tennessee](https://open.spotify.com/track/0o8LEuOfOGDJK1o6d9yTUu) | [The Apache Relay](https://open.spotify.com/artist/62pBNClOEZJEyRXrzC2CtI) | [Apache Relay](https://open.spotify.com/album/44BZ4l91xbXHSaRILp6obP) | 3:28 |
 | 66 | [Puppy and a Truck](https://open.spotify.com/track/3yN6F2vOf3ypKv9kr8sDdm) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Puppy and a Truck](https://open.spotify.com/album/358Blro4SuMHGHYnH1Tgbl) | 3:11 |
 | 67 | [What If I](https://open.spotify.com/track/0j6QLLMEQoX292B44xQZFf) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [The Future](https://open.spotify.com/album/48KAdMIRvmqIq7py0qw3rh) | 3:34 |
 | 68 | [Passengers](https://open.spotify.com/track/58GSV5f6YqrgpWOpAku2Ic) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Age of Apathy](https://open.spotify.com/album/69fyrHncvxDoWtZDuqKAKC) | 3:32 |
 | 69 | [Victory](https://open.spotify.com/track/2f6pqUyFcs3NUSoz49H9nw) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [Victory](https://open.spotify.com/album/6DUTXtgL3YKOf2wX8RCKe4) | 3:53 |
 | 70 | [Hey Baby](https://open.spotify.com/track/6kyUPFuPaaprlnKeVaQQMS) | [The Cactus Blossoms](https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S) | [One Day](https://open.spotify.com/album/0kVNpxNis78JrqQgsir4QN) | 2:50 |
-| 71 | [Shaky Ground](https://open.spotify.com/track/0VCveHO3AX0OLRuTgpBKBJ) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [Shaky Ground](https://open.spotify.com/album/1iYLinQ11V4WmuiHsu1Ryd) | 3:12 |
-| 72 | [I Will Remain](https://open.spotify.com/track/52VPecMGJQOxyWWWgnUvsI) | [Matthew And The Atlas](https://open.spotify.com/artist/0lSENl3bteP8p2NbiSP7RM) | [To the North](https://open.spotify.com/album/0cKaHI9t8EnlykFdIRspw3) | 3:26 |
+| 71 | [I Will Remain](https://open.spotify.com/track/52VPecMGJQOxyWWWgnUvsI) | [Matthew And The Atlas](https://open.spotify.com/artist/0lSENl3bteP8p2NbiSP7RM) | [To the North](https://open.spotify.com/album/0cKaHI9t8EnlykFdIRspw3) | 3:26 |
+| 72 | [Shaky Ground](https://open.spotify.com/track/0VCveHO3AX0OLRuTgpBKBJ) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [Shaky Ground](https://open.spotify.com/album/1iYLinQ11V4WmuiHsu1Ryd) | 3:12 |
 | 73 | [Six Years](https://open.spotify.com/track/7DeJ8TdwgNpz6Un0SiskhX) | [A Blaze of Feather](https://open.spotify.com/artist/0j7wLGDwHdUSPLkxCH3GBQ) | [A Blaze of Feather](https://open.spotify.com/album/58yDw8B7OSt91cvXxb896H) | 4:42 |
 | 74 | [Requiem](https://open.spotify.com/track/1H669K2zLp8ombaLNTCi96) | [Blitzen Trapper](https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1) | [Holy Smokes Future Jokes](https://open.spotify.com/album/10D5ke3EYdoFD89zQZjjVc) | 3:33 |
 | 75 | [Your Body](https://open.spotify.com/track/3BPibZpEagpo2S0OxpMfmh) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Mipso](https://open.spotify.com/album/71wj7iB4JXxUUTPosOpXMM) | 3:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkMjlBZAZ07.md) - [plain]
 | 99 | [Mountain Man](https://open.spotify.com/track/3QnxeNu890sL0Lcfy0iFzQ) | [Liz Cooper](https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH), [The Stampede](https://open.spotify.com/artist/6naWDjIIvxOhHfu99ubAC7) | [Window Flowers](https://open.spotify.com/album/799tX7gorQNl08X2e6Bdt8) | 3:58 |
 | 100 | [Little Road](https://open.spotify.com/track/4wDhECcwcKR4jZEEDiye5a) | [Devarrow](https://open.spotify.com/artist/6MrZj6wqVagXe1UQ8AYWgZ) | [The Great Escape](https://open.spotify.com/album/155osgcutzrJu9a1w5aIgB) | 3:15 |
 
-Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMDViZWM4ODk1MjAwZmNiM2U2ZmZhMmE0YjhjZDk2NjI0`
+Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMGI4ZmQxMGViNGIzMjlmY2RkYTgyZWJkOTBkNWE0N2E3`

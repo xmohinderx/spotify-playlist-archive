@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDoVybeQisg.md) - [plain]
 
 > Expand your mind with these psychedelic rock treasures\. Cover: The Doors
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,000,832 likes - 75 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,001,121 likes - 75 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,10 +25,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDoVybeQisg.md) - [plain]
 | 15 | [I'd Love to Change the World \- 2004 Remaster](https://open.spotify.com/track/7n3WO6ESKS1uCI9fgkGs66) | [Ten Years After](https://open.spotify.com/artist/7nkLRaWHImCvWGHdNGnhVE) | [A Space in Time \(Deluxe Version\)](https://open.spotify.com/album/5ZPvG6hav71Uqmlgs85xbE) | 3:44 |
 | 16 | [Season of the Witch](https://open.spotify.com/track/6MOEQCtAWNSCmvg3SFKF5y) | [Donovan](https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG) | [Sunshine Superman](https://open.spotify.com/album/2ULhVPvdhT7RREnqRWM06G) | 4:53 |
 | 17 | [Mr\. Soul](https://open.spotify.com/track/042v1NacbKJzCyi6nBme7T) | [Buffalo Springfield](https://open.spotify.com/artist/3eskO5m0H4yiF64vRySBjr) | [Buffalo Springfield Again](https://open.spotify.com/album/7hez8jibf36E66GHpFkWz7) | 2:52 |
-| 18 | [Never My Love \- Remastered Version](https://open.spotify.com/track/32ssNweOtmacNBEC2kHzA8) | [The Association](https://open.spotify.com/artist/2kuNswDC82PL9xRbfaZJaS) | [Insight Out](https://open.spotify.com/album/1VsmbYW4XCdWje8ii0Yuta) | 3:07 |
+| 18 | [Just Dropped In \(To See What Condition My Condition Was In\)](https://open.spotify.com/track/4Wrc3Jz4POj0ibPj5iuq0r) | [The First Edition](https://open.spotify.com/artist/5XDSGEZV9xG35PRLJ0O3hx) | [The First Edition](https://open.spotify.com/album/6LZ7MMxdYNUA56kBnqQ6h6) | 3:21 |
 | 19 | [I Am The Walrus \- Remastered 2009](https://open.spotify.com/track/6Pq9MmkDQYZiiCDpxnvrf6) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Magical Mystery Tour \(Remastered\)](https://open.spotify.com/album/2BtE7qm1qzM80p9vLSiXkj) | 4:35 |
-| 20 | [Just Dropped In \(To See What Condition My Condition Was In\)](https://open.spotify.com/track/4Wrc3Jz4POj0ibPj5iuq0r) | [The First Edition](https://open.spotify.com/artist/5XDSGEZV9xG35PRLJ0O3hx) | [The First Edition](https://open.spotify.com/album/6LZ7MMxdYNUA56kBnqQ6h6) | 3:21 |
-| 21 | [Friday On My Mind](https://open.spotify.com/track/2CT08rpgdut8qQs7IAzMGi) | [The Easybeats](https://open.spotify.com/artist/1pJEZXU2hJApJW3rM7LmMu) | [Easy](https://open.spotify.com/album/2LTIOQBvQt6ubWJQiQSxS9) | 2:43 |
+| 20 | [Friday On My Mind](https://open.spotify.com/track/2CT08rpgdut8qQs7IAzMGi) | [The Easybeats](https://open.spotify.com/artist/1pJEZXU2hJApJW3rM7LmMu) | [Easy](https://open.spotify.com/album/2LTIOQBvQt6ubWJQiQSxS9) | 2:43 |
+| 21 | [Never My Love \- Remastered Version](https://open.spotify.com/track/32ssNweOtmacNBEC2kHzA8) | [The Association](https://open.spotify.com/artist/2kuNswDC82PL9xRbfaZJaS) | [Insight Out](https://open.spotify.com/album/1VsmbYW4XCdWje8ii0Yuta) | 3:07 |
 | 22 | [Alone Again Or \- 2015 Remaster](https://open.spotify.com/track/1XuccRABkfUVB4FjSVhjL1) | [Love](https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk) | [Forever Changes \(2015 Remaster\)](https://open.spotify.com/album/2amHBpP8C0EUy6yBNy6nN6) | 3:17 |
 | 23 | [Sunshine Superman](https://open.spotify.com/track/4RGxUjaCmVtD30pIhtEi7w) | [Donovan](https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG) | [Sunshine Superman](https://open.spotify.com/album/2ULhVPvdhT7RREnqRWM06G) | 3:15 |
 | 24 | [Five to One](https://open.spotify.com/track/5FlBGGwGuqYmqr0qeBWrxe) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Waiting for the Sun](https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh) | 4:24 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDoVybeQisg.md) - [plain]
 | 47 | [I Need a Man to Love](https://open.spotify.com/track/5Z27tZEeC8WBiQvoDpx1Sw) | [Big Brother & The Holding Company](https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Cheap Thrills](https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX) | 4:53 |
 | 48 | [Shifting Sands](https://open.spotify.com/track/3jBCwLVmmfKUH8321N4bdd) | [The West Coast Pop Art Experimental Band](https://open.spotify.com/artist/2z4eiJkDaXYCR9kv2UuSgz) | [Part One](https://open.spotify.com/album/36qtMdwzo4s7lisavSgorV) | 3:54 |
 | 49 | [Dark Star \- Single Version](https://open.spotify.com/track/2AF1drAUmMi8ZX0U97UJLw) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [What a Long Strange Trip It's Been: The Best of the Grateful Dead](https://open.spotify.com/album/5DnwKlUtjumhTnDG5RoWc5) | 2:41 |
-| 50 | [Mama Roux](https://open.spotify.com/track/1RMa7sVQua8dMiqixX2bYM) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [Gris Gris](https://open.spotify.com/album/1yBoaVrgcup2hX2DCYUajs) | 3:00 |
-| 51 | [Lost Women \- The Mono Album](https://open.spotify.com/track/2Ajtl0ro60h3VN3rD3Y1IF) | [The Yardbirds](https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX) | [Roger the Engineer](https://open.spotify.com/album/3s6wTRMDispMa4gCd26FPc) | 3:15 |
+| 50 | [Lost Women \- The Mono Album](https://open.spotify.com/track/2Ajtl0ro60h3VN3rD3Y1IF) | [The Yardbirds](https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX) | [Roger the Engineer](https://open.spotify.com/album/3s6wTRMDispMa4gCd26FPc) | 3:15 |
+| 51 | [Mama Roux](https://open.spotify.com/track/1RMa7sVQua8dMiqixX2bYM) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [Gris Gris](https://open.spotify.com/album/1yBoaVrgcup2hX2DCYUajs) | 3:00 |
 | 52 | [The End](https://open.spotify.com/track/2jzjhQa7nLIaDMhMjSzedd) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Future Starts Here: The Essential Doors Hits](https://open.spotify.com/album/3OIjlStgBVQfGjkiftDAZp) | 6:30 |
 | 53 | [Heartbreaker](https://open.spotify.com/track/1kjCyBnjlxZxZv9RNlXBbd) | [Aguaturbia](https://open.spotify.com/artist/1GGnADQvJeAIqtrjWc0CFc) | [Psychedelic Drugstore \- Remastered](https://open.spotify.com/album/6TrlKpZSlcw3qzdHc42QzP) | 5:41 |
 | 54 | [The Red Telephone \- 2015 Remaster](https://open.spotify.com/track/3URRBJKRfCnlit1jVoncUD) | [Love](https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk) | [Forever Changes \(2015 Remaster\)](https://open.spotify.com/album/2amHBpP8C0EUy6yBNy6nN6) | 4:44 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDoVybeQisg.md) - [plain]
 | 70 | [Thing in E](https://open.spotify.com/track/6yUIyHqIrx854Jief095VE) | [The Savage Resurrection](https://open.spotify.com/artist/16dZsYfKoAqmnt1tyhAPkE) | [The Savage Resurrection](https://open.spotify.com/album/2Tzvkt45C7PLlLICWYNslu) | 3:06 |
 | 71 | [Flight of the Psychedelic Bumble Bee](https://open.spotify.com/track/27aeWRq1h65omUnS16hciN) | [The Peanut Butter Conspiracy](https://open.spotify.com/artist/1mUgTcokhM7BSqp8mXhy8U) | [Spreading from the Ashes](https://open.spotify.com/album/4szjmnQyAMKfYA509zvLyc) | 2:02 |
 | 72 | [5D \(Fifth Dimension\)](https://open.spotify.com/track/7jvptnW3PMozIQq4C6uJB9) | [The Byrds](https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc) | [Fifth Dimension](https://open.spotify.com/album/3dfPMayEO2G87wzXPMEvmb) | 2:33 |
-| 73 | [Bracelets Of Fingers](https://open.spotify.com/track/6g6N0HhdpogmRlBKNMZJFj) | [The Pretty Things](https://open.spotify.com/artist/5U16QlMnlSAhkQxBZpLyLO) | [S.F\. Sorrow](https://open.spotify.com/album/5IIB3xh53eRBpkkktSFQbc) | 3:41 |
-| 74 | [My Woman's Head](https://open.spotify.com/track/6DZWfBmnJMsHnwzTWTL3iV) | [Sly Stone & The Mojo Men](https://open.spotify.com/artist/6ihpa5zgHEYPbYr27mSAuj) | [Sly Stone & The Mojo Men](https://open.spotify.com/album/1v7g2I7epACiji9krdyOhH) | 3:01 |
+| 73 | [My Woman's Head](https://open.spotify.com/track/6DZWfBmnJMsHnwzTWTL3iV) | [Sly Stone & The Mojo Men](https://open.spotify.com/artist/6ihpa5zgHEYPbYr27mSAuj) | [Sly Stone & The Mojo Men](https://open.spotify.com/album/1v7g2I7epACiji9krdyOhH) | 3:01 |
+| 74 | [Bracelets Of Fingers](https://open.spotify.com/track/6g6N0HhdpogmRlBKNMZJFj) | [The Pretty Things](https://open.spotify.com/artist/5U16QlMnlSAhkQxBZpLyLO) | [S.F\. Sorrow](https://open.spotify.com/album/5IIB3xh53eRBpkkktSFQbc) | 3:41 |
 | 75 | [Sand](https://open.spotify.com/track/1ppiFXKUliXgJLpOHJ3Rog) | [Clear Light](https://open.spotify.com/artist/0vbykpsZwxi9Z6P27AhVqJ) | [Clear Light \(US Internet Release\)](https://open.spotify.com/album/5js8Q3QkxR0FT94B64OiCl) | 2:38 |
 
-Snapshot ID: `MTY2MDc0NTg0NSwwMDAwMDAwMDlhZjk5YmRiN2M2ZTBiNjVlMzVkNDVkN2ZhZmM2Mjhk`
+Snapshot ID: `MTY2MDc0NTg0NSwwMDAwMDAwMGUwOTg3ZTNmODYzOWZiMTEwNTczYTZjNTBkN2UxZmIy`

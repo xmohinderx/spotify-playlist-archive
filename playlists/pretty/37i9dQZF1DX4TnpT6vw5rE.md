@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TnpT6vw5rE.md) - [plain]
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 742,912 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 742,924 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TnpT6vw5rE.md) - [plain]
 | 49 | [Song For No One](https://open.spotify.com/track/7d0F63Ynv9ZvPQlJPVZOql) | [Lowercase Noises](https://open.spotify.com/artist/7trvyUUXmPhi1StCNYHj4e) | [Migratory Patterns](https://open.spotify.com/album/68uVvxhvuWHu5juoBT6jMh) | 5:01 |
 | 50 | [Lätt](https://open.spotify.com/track/22uuXDOeqbH5auwVCX0yL3) | [Soulgarden](https://open.spotify.com/artist/4D1RsYNSjyxvaKtj5qIdps) | [Lätt](https://open.spotify.com/album/6x0JCRqBVdm68Mt7dAk1cf) | 2:10 |
 | 51 | [Proceed](https://open.spotify.com/track/7gNYToImB0Q4QLjptXOT5J) | [Corre](https://open.spotify.com/artist/0IR5NctDCruRpAkUbkezi9) | [A Spark, A Beginning / Proceed](https://open.spotify.com/album/31Tn4wkibL8c8EULYjmbNA) | 4:15 |
-| 52 | [Sleep Spirits](https://open.spotify.com/track/2LW5RfktXIpGmLcnQq8HLM) | [chillchild](https://open.spotify.com/artist/1Wq0Ioaww8FtItli6QrP46) | [Drifting Away \(Music for Sleeping\)](https://open.spotify.com/album/7cSb5DZKXtXwQETmj2p58s) | 2:40 |
-| 53 | [Secrets](https://open.spotify.com/track/4vKfeLftDJXcbaZyA6ftvZ) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Sound Therapy Ambient Compilation, Vol\. 1](https://open.spotify.com/album/1mH2d032QQlX3GLb14qdwA) | 2:55 |
+| 52 | [Secrets](https://open.spotify.com/track/4vKfeLftDJXcbaZyA6ftvZ) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Sound Therapy Ambient Compilation, Vol\. 1](https://open.spotify.com/album/1mH2d032QQlX3GLb14qdwA) | 2:55 |
+| 53 | [Sleep Spirits](https://open.spotify.com/track/2LW5RfktXIpGmLcnQq8HLM) | [chillchild](https://open.spotify.com/artist/1Wq0Ioaww8FtItli6QrP46) | [Drifting Away \(Music for Sleeping\)](https://open.spotify.com/album/7cSb5DZKXtXwQETmj2p58s) | 2:40 |
 | 54 | [Dreamt](https://open.spotify.com/track/5oseLW3JhRqLLyTmqmyghU) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [Clear Language](https://open.spotify.com/album/5z1mF6xLNvsKp132hNxqZ3) | 3:59 |
 | 55 | [Nest](https://open.spotify.com/track/5GaRRamkVUErMUVVnNoQRF) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t) | [Ulysees](https://open.spotify.com/album/0ChlHHVziwSh8UbBMEeiH5) | 1:35 |
 | 56 | [Hidden Track](https://open.spotify.com/track/4abHSCaJj851TyH79IvBJ2) | [DEVOTED](https://open.spotify.com/artist/3G0UGz2ulKDrTkl3g3qGJN) | [Hidden Track](https://open.spotify.com/album/0zfTCeq90Hqy38fhijlPtz) | 2:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TnpT6vw5rE.md) - [plain]
 | 99 | [Lotus Blume](https://open.spotify.com/track/2XGO8m5DqJVMF80D4SxiXE) | [Altered Source](https://open.spotify.com/artist/2iRhuolbUq4A4UP0Pz9SVI) | [Lotus Blume](https://open.spotify.com/album/4ZTUFGj3sOMUG2Feb4MIcy) | 3:12 |
 | 100 | [The First Surface](https://open.spotify.com/track/0ZvqgR8luDK3T5fZxkImGF) | [Near The Parenthesis](https://open.spotify.com/artist/0w0n5GVOQZlszSi4WN1Got) | [Japanese for Beginners](https://open.spotify.com/album/4mZmSV8geRn4gpbdxrTfwV) | 5:36 |
 
-Snapshot ID: `MTY2MzA3MzYwNywwMDAwMDAwMDNlNDQyYmRkNWY1N2VlMTVjNTk0Y2ZiNzFjMGU5M2U2`
+Snapshot ID: `MTY2MzA3MzYwNywwMDAwMDAwMGYzYjAyY2MwZGNiZDYxOWVkZDA4ZWYzYzc4OGUxNWJl`

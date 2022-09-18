@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 
 > 이불 안 속처럼 포근하고 편안한 음악들과 함께 폭신한 기분을 만끽하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,869 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,875 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 | 2 | [Saying Hello](https://open.spotify.com/track/0iLX5STkl07zjT4sO8dadX) | [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [Link: Eat, Love, Kill \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/6lkiYHR4LUv13f0yuXSf2D) | 3:59 |
 | 3 | [Like a Bird](https://open.spotify.com/track/7qNGHALgM8RPLQDGVt6rok) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [PLAYLIST \(Original Soundtrack\), Pt.1](https://open.spotify.com/album/1jXIHAXoA7oz18tsTh4jw4) | 4:41 |
 | 4 | [Forest](https://open.spotify.com/track/33xRp6ZX1DKraRFHR9ZDck) | [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Stroll](https://open.spotify.com/album/2zTRBl0d9LGCNwuwlf63Wx) | 3:48 |
-| 5 | [It′s You](https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [It′s You](https://open.spotify.com/album/5wPEtP41dY7dqF3GcLBlfC) | 3:13 |
-| 6 | [Galaxy](https://open.spotify.com/track/41O17Xo25mbbvay3AOHC8C) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [What Do I Call You \- The 4th Mini Album](https://open.spotify.com/album/70XJeDlFe1LmZo1lyFKyq3) | 3:46 |
+| 5 | [Galaxy](https://open.spotify.com/track/41O17Xo25mbbvay3AOHC8C) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [What Do I Call You \- The 4th Mini Album](https://open.spotify.com/album/70XJeDlFe1LmZo1lyFKyq3) | 3:46 |
+| 6 | [It′s You](https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [It′s You](https://open.spotify.com/album/5wPEtP41dY7dqF3GcLBlfC) | 3:13 |
 | 7 | [Moving](https://open.spotify.com/track/4jzNb4SziJCRL7K7dVimn7) | [Krr](https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7) | [Moving](https://open.spotify.com/album/0T2md2tJWwA35Wl2EFHbiH) | 3:22 |
 | 8 | [Hachiko \(Feat\. Sion, Yescoba, Dayoung Ahn\)](https://open.spotify.com/track/4MrCH9VqTyEKmeXQ7m6Geh) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r), [Yescoba](https://open.spotify.com/artist/5FifK2T7KEKatsWO6WxkS6), [Dayoung Ahn](https://open.spotify.com/artist/1NkurDnX4s44yi7n57Mooz) | [NANGMAN](https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m) | 6:10 |
 | 9 | [Sweet Lullaby](https://open.spotify.com/track/1NHf1Nuumrgje7lmuM2QVY) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Sweet Lullaby](https://open.spotify.com/album/65RzyhETVL6M4MmdMRcM5X) | 3:15 |
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 | 15 | [Goodbye](https://open.spotify.com/track/01xHwwkwASfIfuO7tzCwli) | [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Goodbye](https://open.spotify.com/album/2fIKo8rgZyUXBQswQdeHcK) | 4:14 |
 | 16 | [Don't Ever Leave Me](https://open.spotify.com/track/6uxdpSep0dmUqN5iv3XGAs) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Seoul Check\-in OST Part 8](https://open.spotify.com/album/7l6dDeN2rIh2t4QHx2Trf5) | 2:58 |
 | 17 | [If](https://open.spotify.com/track/3go56fUuNPhwvZifMuTnpJ) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [If](https://open.spotify.com/album/5M7zOeOjBLJDQaSkDotiH5) | 4:11 |
-| 18 | [Something Precious](https://open.spotify.com/track/7yoqiaAawHktS5Gao5rzLO) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Forecasting Love and Weather \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/5wEeXyJVwgTvVis9XPOs7Q) | 3:29 |
-| 19 | [Hello](https://open.spotify.com/track/2XeZwMyRKG9vSvTLq7Y40Z) | [Haze Moon](https://open.spotify.com/artist/5qWj6gxjgEq3Ut7QKG1Wjd) | [My Beautiful Apartment \(Original Television Soundtrack\) \(O′PENing\)](https://open.spotify.com/album/1t9pAo9XneaecUx94i27ms) | 3:48 |
+| 18 | [Hello](https://open.spotify.com/track/2XeZwMyRKG9vSvTLq7Y40Z) | [Haze Moon](https://open.spotify.com/artist/5qWj6gxjgEq3Ut7QKG1Wjd) | [My Beautiful Apartment \(Original Television Soundtrack\) \(O′PENing\)](https://open.spotify.com/album/1t9pAo9XneaecUx94i27ms) | 3:48 |
+| 19 | [Something Precious](https://open.spotify.com/track/7yoqiaAawHktS5Gao5rzLO) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Forecasting Love and Weather \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/5wEeXyJVwgTvVis9XPOs7Q) | 3:29 |
 | 20 | [This night](https://open.spotify.com/track/4TpvzMWFgeIU188OdlNhGh) | [Sujin Park](https://open.spotify.com/artist/2gkonIWljjR6P00qwvv1eq) | [Love Interference 2022 \(Original Television Soundtrack\), Pt.14](https://open.spotify.com/album/4lpNUxhIWHe91XS8evCBXF) | 4:03 |
 | 21 | [Dancing With You](https://open.spotify.com/track/7g8LSPXjUmNi3433qYyTOT) | [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [Dancing With You](https://open.spotify.com/album/0pCcUdeFSd2j7BhVvUP8HS) | 3:56 |
 | 22 | [Deep in the night, you and me](https://open.spotify.com/track/0ytGKS7VQwOeviYgqjwgUY) | [109](https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh) | [Deep in the night, you and me](https://open.spotify.com/album/2HmxJAWEQLr6g2IIZ8DnXQ) | 2:47 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 | 31 | [Shower](https://open.spotify.com/track/55DF2HAjfwN52aHQwIT5gO) | [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [Dancing With You](https://open.spotify.com/album/0pCcUdeFSd2j7BhVvUP8HS) | 2:30 |
 | 32 | [let’s play tug](https://open.spotify.com/track/2D4ePOWVxw7LVFY1NNAAca) | [heyden](https://open.spotify.com/artist/2ZIDhUnok7DtASQi5blDnE) | [let’s play tug](https://open.spotify.com/album/58dDHLjbbAYjwsKnxnTSuR) | 2:46 |
 | 33 | [How did you \(feat\. Baek Yerin\)](https://open.spotify.com/track/2mVb3RIBLffHQsauvkHBuf) | [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5), [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [How did you \(feat\. Baek Yerin\)](https://open.spotify.com/album/1QAenbdPhvPmioXem29cTV) | 4:09 |
-| 34 | [OceanooM∘☽](https://open.spotify.com/track/6BlMjy03nLmO7s60Ql1Uc2) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [OceanooM∘☽](https://open.spotify.com/album/7DuHhV2JLZRN36IpeQ8Jcq) | 3:25 |
-| 35 | [Leave like this](https://open.spotify.com/track/1DjihD1VQAuuaRaMDOKOjy) | [Seokman Cheon](https://open.spotify.com/artist/5KoLNvPbAWGHVOCXwam9T0), [Inyu](https://open.spotify.com/artist/4uVDPhjO1wDe5AEptC6wo2) | [Leave like this](https://open.spotify.com/album/6FQObmvOZQ9MXzRddnhUkJ) | 3:25 |
+| 34 | [Leave like this](https://open.spotify.com/track/1DjihD1VQAuuaRaMDOKOjy) | [Seokman Cheon](https://open.spotify.com/artist/5KoLNvPbAWGHVOCXwam9T0), [Inyu](https://open.spotify.com/artist/4uVDPhjO1wDe5AEptC6wo2) | [Leave like this](https://open.spotify.com/album/6FQObmvOZQ9MXzRddnhUkJ) | 3:25 |
+| 35 | [OceanooM∘☽](https://open.spotify.com/track/6BlMjy03nLmO7s60Ql1Uc2) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [OceanooM∘☽](https://open.spotify.com/album/7DuHhV2JLZRN36IpeQ8Jcq) | 3:25 |
 | 36 | [Waters of March](https://open.spotify.com/track/6ZAdaChu9ukRHdWARdTWIS) | [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS), [Keumbee](https://open.spotify.com/artist/1NwyafFmvijU7E9b1PjgQm) | [Salt Rain \(Prod\. By Alfie Hole\)](https://open.spotify.com/album/2PQIXQNasV6iN55iAMNccn) | 3:37 |
 | 37 | [Just You](https://open.spotify.com/track/0tZikH1DN7ozvJbObBbBu9) | [J Rabbit](https://open.spotify.com/artist/4Imsd61cGosmAFBaMLtl4G) | [Record of Youth \(Original Television Soundtrack\) Pt\. 8](https://open.spotify.com/album/447N7ppCfmPhtj9vULuQpt) | 3:45 |
 | 38 | [Think About You](https://open.spotify.com/track/0cjBJptR0O4Y0ESQoXXzFH) | [Acoustic Collabo](https://open.spotify.com/artist/0rMd7FdvwwxKrFEsQ1hC7G) | [Think About You](https://open.spotify.com/album/2NunoRHmbtwi6dJ98e0qAp) | 3:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 | 49 | [Something Special](https://open.spotify.com/track/0Y7AaeEqV9copcxaq1VEja) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Star](https://open.spotify.com/album/2ZEpVzbFGcMGBXuYRdYVE7) | 4:05 |
 | 50 | [To My Friend](https://open.spotify.com/track/3v7xLuhQtnm74cJBASJ9eZ) | [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH) | [Asteroid](https://open.spotify.com/album/5geu7QO5MtvQHbN8ohLjNj) | 3:30 |
 
-Snapshot ID: `MTY2MjM5MjU0OCwwMDAwMDAwMDA0NmFlNGZjZGUzNGQwZWYxZWUwZTdiNGE0NmYwYTM4`
+Snapshot ID: `MTY2MjM5MjU0OCwwMDAwMDAwMDA2YzYzZWY1NzM3YzY5NWZkNjM1NTk5ZTAwMjNhNmUy`

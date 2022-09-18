@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO48MYmY.md) - [plain]
 
 > This is Simon & Garfunkel\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,466 likes - 46 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,539 likes - 46 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO48MYmY.md) - [plain]
 | 45 | [Hey, Schoolgirl \- Live at Madison Square Garden, New York, NY \- December 2003](https://open.spotify.com/track/0gLKbk1cOAy2bbBOsbPALz) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Old Friends Live On Stage](https://open.spotify.com/album/3jgeQPfd5s935zMEJ6djm5) | 0:45 |
 | 46 | [Slip Slidin' Away \- Live at Central Park, New York, NY \- September 19, 1981](https://open.spotify.com/track/3sfwzml4pqeGyeK1aTEmAF) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [The Concert in Central Park \(Live\)](https://open.spotify.com/album/3nIU4gxyq0MK4mlWE8ePqb) | 4:42 |
 
-Snapshot ID: `Mjc3MjIyMzMsMDAwMDAwMDA1ZWMyNTc2MTFjZWIyZGExZDAzNmZmMGM5MjgzNWU3Ng==`
+Snapshot ID: `Mjc3MjM2OTIsMDAwMDAwMDA1ZTU3MzE4ZDExZjQzNGZkYTNkMzljZDVmNmU4MDZmYw==`

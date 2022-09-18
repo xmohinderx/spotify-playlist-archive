@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX504r1DvyvxG.md) - [plain]
 
 > Kick back with a collection of iconic and new acoustic tracks with that classic feel\. Cover: George Harrison
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,462,276 likes - 100 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,462,917 likes - 100 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX504r1DvyvxG.md) - [plain]
 | 74 | [Blowin' in the Wind](https://open.spotify.com/track/62Yu8QL1g9pdbvN4XL9Rah) | [Peter, Paul and Mary](https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB) | [In the Wind](https://open.spotify.com/album/5XresJcJBgYkVQE9PATjli) | 2:57 |
 | 75 | [Here Comes The Sun](https://open.spotify.com/track/0hhzJEusz6r7f0eL1Uc8kw) | [Richie Havens](https://open.spotify.com/artist/4Qk0lWGeXydDvfrDufDQ9p) | [Live At The Cellar Door and at the Santa Monica Civic Auditorium](https://open.spotify.com/album/5W2hT3ooeITFHAGaLap3v2) | 4:14 |
 | 76 | [Me & Magdalena](https://open.spotify.com/track/1XxRYmDKuABtbtCozx3pA2) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [Good Times! \(Deluxe Edition\)](https://open.spotify.com/album/4UwFizSE0TB6EzTfkkxlbF) | 3:33 |
-| 77 | [Ooh La La \- 2004 Remaster](https://open.spotify.com/track/6TNNMVpOgn8K5NoDC7alG6) | [Faces](https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL) | [The Best of Faces: Good Boys When They're Asleep](https://open.spotify.com/album/375DYMUVvk7xXyKq5IaUTR) | 3:34 |
-| 78 | [1952 Vincent Black Lightning](https://open.spotify.com/track/1KueOLeUZpaNRK2InckxVT) | [Richard Thompson](https://open.spotify.com/artist/5w75MoT8FfcGOMgjgrj1cz) | [Rumor And Sigh](https://open.spotify.com/album/5udGf9RoW9Sjda4yD0R7mQ) | 4:43 |
+| 77 | [1952 Vincent Black Lightning](https://open.spotify.com/track/1KueOLeUZpaNRK2InckxVT) | [Richard Thompson](https://open.spotify.com/artist/5w75MoT8FfcGOMgjgrj1cz) | [Rumor And Sigh](https://open.spotify.com/album/5udGf9RoW9Sjda4yD0R7mQ) | 4:43 |
+| 78 | [Ooh La La \- 2004 Remaster](https://open.spotify.com/track/6TNNMVpOgn8K5NoDC7alG6) | [Faces](https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL) | [The Best of Faces: Good Boys When They're Asleep](https://open.spotify.com/album/375DYMUVvk7xXyKq5IaUTR) | 3:34 |
 | 79 | [Forever Young \- From NBC's Parenthood](https://open.spotify.com/track/0QYgtwYCftkAqunXmvkZtr) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM), [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Forever Young \(From NBC's Parenthood\)](https://open.spotify.com/album/6Q7WssoFXDJoqNEkn8LnWN) | 4:21 |
 | 80 | [Clay Pigeons](https://open.spotify.com/track/5UDoMj8EIEXrQ4N0UR0nos) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [Fair and Square](https://open.spotify.com/album/44sOCUUf8kp3Oj1yBYAKiZ) | 4:27 |
 | 81 | [The Book of Love](https://open.spotify.com/track/62ZYyXIsHVX5xVUj80arVu) | [The Magnetic Fields](https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK) | [69 Love Songs](https://open.spotify.com/album/2GuROKcqyHdpIDcgxml1C7) | 2:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX504r1DvyvxG.md) - [plain]
 | 99 | [900 Miles](https://open.spotify.com/track/0zVduthKvT1FEsUGFWT9Xo) | [Terry Callier](https://open.spotify.com/artist/5cHmjJA9Lo0ga8s8QdxEzs) | [The New Folk Sound Of Terry Callier \(Deluxe Edition\)](https://open.spotify.com/album/2cX2VDaXtAvTgZbSOZe2T7) | 5:07 |
 | 100 | [San Francisco Days](https://open.spotify.com/track/5Trbt34yBAzpM59c6G8pqO) | [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx) | [San Francisco Days](https://open.spotify.com/album/75BiePy3TDKg9or1NKm0ov) | 2:58 |
 
-Snapshot ID: `MTY1MzY3NzIyMiwwMDAwMDAwMGQ5MDg5NDE5YTIwNTg3NGE1ZmUzMTU2OTVjYjc3NTM0`
+Snapshot ID: `MTY1MzY3NzIyMiwwMDAwMDAwMGM4MzcwMTViM2YwZTdjNWUzMTQ3MjI3OTk4MmU2ZTBk`

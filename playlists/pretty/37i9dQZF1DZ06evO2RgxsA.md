@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2RgxsA.md) - [plain]
 
 > This is NOFX\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,004 likes - 50 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,036 likes - 50 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,13 +22,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2RgxsA.md) - [plain]
 | 12 | [We Called It America](https://open.spotify.com/track/5UkBszllVTOdWs9mKVJSE2) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Coaster](https://open.spotify.com/album/5l2QTQ0OoyQw9luosyCe9X) | 2:07 |
 | 13 | [Six Years on Dope](https://open.spotify.com/track/5HHR8lHtLowKzMavnA6GyW) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [First Ditch Effort](https://open.spotify.com/album/2WJFIzmyJ6Egq00seat7hy) | 1:32 |
 | 14 | [Cell Out](https://open.spotify.com/track/2qwCYIsEj4vtsROxuEBss1) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Self Entitled](https://open.spotify.com/album/3yLkOvGA3vHtwEyqMcnp18) | 2:02 |
-| 15 | [The Brews](https://open.spotify.com/track/4khRfibu32AGybm3FmGzk0) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Punk In Drublic](https://open.spotify.com/album/6Z8BYH27wINoUk4QMUx7gh) | 2:40 |
-| 16 | [Please Play This Song On The Radio](https://open.spotify.com/track/4zvfgpO3ZUsBXKg2Ikw6D9) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [White Trash, Two Heebs and a Bean](https://open.spotify.com/album/5dbWoqjHDExyrEJD9ftnay) | 2:16 |
-| 17 | [All Outta Angst](https://open.spotify.com/track/0eVZhPIexAYqdwKNqSp3Qm) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [So Long & Thanks For All The Shoes](https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb) | 1:52 |
+| 15 | [All Outta Angst](https://open.spotify.com/track/0eVZhPIexAYqdwKNqSp3Qm) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [So Long & Thanks For All The Shoes](https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb) | 1:52 |
+| 16 | [The Brews](https://open.spotify.com/track/4khRfibu32AGybm3FmGzk0) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Punk In Drublic](https://open.spotify.com/album/6Z8BYH27wINoUk4QMUx7gh) | 2:40 |
+| 17 | [Please Play This Song On The Radio](https://open.spotify.com/track/4zvfgpO3ZUsBXKg2Ikw6D9) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [White Trash, Two Heebs and a Bean](https://open.spotify.com/album/5dbWoqjHDExyrEJD9ftnay) | 2:16 |
 | 18 | [We Threw Gasoline.......](https://open.spotify.com/track/5DLHSd1oWuutQW60XrPHAP) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [45 or 46 Songs That Weren't Good Enough to Go on Our Other Records](https://open.spotify.com/album/63jEOTmpfVTKYzeJ6hvIAn) | 2:44 |
-| 19 | [Perfect Government](https://open.spotify.com/track/0pe2du168zXMGZJlMcyyIb) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Punk In Drublic](https://open.spotify.com/album/6Z8BYH27wINoUk4QMUx7gh) | 2:06 |
-| 20 | [Liza And Louise](https://open.spotify.com/track/3YJZeoD7lWN2mPbs7FbCgj) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [White Trash, Two Heebs and a Bean](https://open.spotify.com/album/5dbWoqjHDExyrEJD9ftnay) | 2:22 |
-| 21 | [Kids Of The K\-Hole](https://open.spotify.com/track/0VA74cZ3LW5Ne8NwxXjnQk) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [So Long & Thanks For All The Shoes](https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb) | 2:16 |
+| 19 | [Kids Of The K\-Hole](https://open.spotify.com/track/0VA74cZ3LW5Ne8NwxXjnQk) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [So Long & Thanks For All The Shoes](https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb) | 2:16 |
+| 20 | [Perfect Government](https://open.spotify.com/track/0pe2du168zXMGZJlMcyyIb) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Punk In Drublic](https://open.spotify.com/album/6Z8BYH27wINoUk4QMUx7gh) | 2:06 |
+| 21 | [Liza And Louise](https://open.spotify.com/track/3YJZeoD7lWN2mPbs7FbCgj) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [White Trash, Two Heebs and a Bean](https://open.spotify.com/album/5dbWoqjHDExyrEJD9ftnay) | 2:22 |
 | 22 | [The Quitter](https://open.spotify.com/track/1HFz1YvBXVAJ0lSn3rgYgk) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Coaster](https://open.spotify.com/album/5l2QTQ0OoyQw9luosyCe9X) | 1:51 |
 | 23 | [The Irrationality of Rationality](https://open.spotify.com/track/7c4YrSBb9GYKWn4XSPl6kj) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [War on Errorism](https://open.spotify.com/album/579FRQBE6RnFZXn6dG0DeV) | 2:32 |
 | 24 | [Green Corn](https://open.spotify.com/track/7a8JLhUwa7IWKEKsyJjk9X) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Ribbed](https://open.spotify.com/album/1zSh4dywDdr83HQGpvOwCQ) | 1:44 |
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2RgxsA.md) - [plain]
 | 37 | [Cool and Unusual Punishment](https://open.spotify.com/track/3XIt5NVAgzUteXlfiUE6Yp) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Wolves in Wolves' Clothing](https://open.spotify.com/album/0bb9iLMHdUJhFIVwOars3P) | 2:05 |
 | 38 | [I Don't Like Me Anymore](https://open.spotify.com/track/01w1IdzXfNmu033rWe4XrT) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [First Ditch Effort](https://open.spotify.com/album/2WJFIzmyJ6Egq00seat7hy) | 2:30 |
 | 39 | [Take Two Placebos And Call Me Lame](https://open.spotify.com/track/21iXdVnWCEpYuOmeY9YKPh) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Pump Up The Valuum](https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE) | 2:25 |
-| 40 | [Philthy Phil Philanthropist](https://open.spotify.com/track/6Hzi3cauk9QwPekt38AYUe) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Heavy Petting Zoo](https://open.spotify.com/album/5SoeTpVu2MFq5RlCsdRBf2) | 3:10 |
+| 40 | [Quart In Session](https://open.spotify.com/track/35L8JI1o2llRWMuc8NK3pN) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [So Long & Thanks For All The Shoes](https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb) | 1:38 |
 | 41 | [The Man I Killed](https://open.spotify.com/track/1tqZNNfMFZPjUtpmBCrEQd) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Wolves in Wolves' Clothing](https://open.spotify.com/album/0bb9iLMHdUJhFIVwOars3P) | 1:18 |
-| 42 | [Quart In Session](https://open.spotify.com/track/35L8JI1o2llRWMuc8NK3pN) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [So Long & Thanks For All The Shoes](https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb) | 1:38 |
+| 42 | [Philthy Phil Philanthropist](https://open.spotify.com/track/6Hzi3cauk9QwPekt38AYUe) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Heavy Petting Zoo](https://open.spotify.com/album/5SoeTpVu2MFq5RlCsdRBf2) | 3:10 |
 | 43 | [What's The Matter With Parents Today?](https://open.spotify.com/track/6SWTXSLOkxrFqJc6WPM0bu) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Pump Up The Valuum](https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE) | 1:58 |
 | 44 | [The Longest Line](https://open.spotify.com/track/3IWxhcxfOIUN25f4HryRfJ) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [The Longest Line](https://open.spotify.com/album/0pwLAY3H4kkrldJTCMe3vt) | 2:04 |
 | 45 | [Usa\-Holes](https://open.spotify.com/track/4AI2o7lsEDj5eEjE2qgT1b) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Wolves in Wolves' Clothing](https://open.spotify.com/album/0bb9iLMHdUJhFIVwOars3P) | 2:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2RgxsA.md) - [plain]
 | 49 | [Thank God It's Monday](https://open.spotify.com/track/1eX2rmSdoUWX2XcvHKHHpu) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Pump Up The Valuum](https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE) | 1:39 |
 | 50 | [Linewleum \(feat\. Avenged Sevenfold\)](https://open.spotify.com/track/0LIfpDM2OVNy2acS0aghJi) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ), [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Single Album](https://open.spotify.com/album/7clMEugC4qJ1ApbscpXsaL) | 3:19 |
 
-Snapshot ID: `Mjc3MjIyMzMsMDAwMDAwMDBmZGU3NDcyNGQwNzRkN2U5MTRmY2NjNjZlY2VkZGM5Mw==`
+Snapshot ID: `Mjc3MjM2OTIsMDAwMDAwMDBhZDFhYTM4NjIxZjA5YjA2OThhOGJlNTU5YmNlZDQyNg==`

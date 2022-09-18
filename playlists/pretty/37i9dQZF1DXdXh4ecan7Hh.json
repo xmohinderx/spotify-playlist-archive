@@ -1,12 +1,12 @@
 {
   "description": "County's best like you've never heard before. Cover: Ingrid Andress",
-  "num_followers": 108842,
+  "num_followers": 108864,
   "original_name": "Spotify Singles: Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjA1NzE2NCwwMDAwMDAwMDEyOTQ1ZjdjY2EzOTIzNGU2ZTMyYzljN2VkZDNiNjg1",
+  "snapshot_id": "MTY2MjA1NzE2NCwwMDAwMDAwMGY0NWY2ZWQ4M2NhMWFhODQxZTI1YzQ1M2I1ODk1NmNm",
   "tracks": [
     {
       "added_at": "2022-05-25 15:22:18",
@@ -248,22 +248,6 @@
       "added_at": "2022-05-25 15:22:18",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0AwgzJZxt4sf2teqdEjxwV"
-      },
-      "artists": [
-        {
-          "name": "Old Dominion",
-          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "Bad At Love - Recorded at Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/1kTugNMVMbaQep1srMua2q"
-    },
-    {
-      "added_at": "2022-05-25 15:22:18",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2lUa80FmRYq0pYjGZiDWBD"
       },
       "artists": [
@@ -279,6 +263,22 @@
       "duration_ms": 214655,
       "name": "House Fire (feat. The Travelin' McCourys)",
       "url": "https://open.spotify.com/track/0kD9ESXYhdNDYDDNq3MIjc"
+    },
+    {
+      "added_at": "2022-05-25 15:22:18",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0AwgzJZxt4sf2teqdEjxwV"
+      },
+      "artists": [
+        {
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "Bad At Love - Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/1kTugNMVMbaQep1srMua2q"
     },
     {
       "added_at": "2022-05-25 15:22:18",
@@ -792,22 +792,6 @@
       "added_at": "2022-05-25 15:22:18",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0Oiwdbyxujtkla4K5a8ttt"
-      },
-      "artists": [
-        {
-          "name": "Midland",
-          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
-        }
-      ],
-      "duration_ms": 184773,
-      "name": "Burn Out - Recorded At Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/0wFyhPrMt4maLtWmLeG7lq"
-    },
-    {
-      "added_at": "2022-05-25 15:22:18",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3Jee64Z2Wkkj9joT4qHT1l"
       },
       "artists": [
@@ -819,6 +803,22 @@
       "duration_ms": 255553,
       "name": "Better Place - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/61YvXZaJ3r5P0ZLSmSjQjU"
+    },
+    {
+      "added_at": "2022-05-25 15:22:18",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0Oiwdbyxujtkla4K5a8ttt"
+      },
+      "artists": [
+        {
+          "name": "Midland",
+          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
+        }
+      ],
+      "duration_ms": 184773,
+      "name": "Burn Out - Recorded At Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/0wFyhPrMt4maLtWmLeG7lq"
     },
     {
       "added_at": "2022-05-25 15:22:18",

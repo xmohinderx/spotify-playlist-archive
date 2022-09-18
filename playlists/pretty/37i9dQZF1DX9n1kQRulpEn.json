@@ -1,12 +1,12 @@
 {
   "description": "A swinging Jazz soundtrack for your drive time.",
-  "num_followers": 28890,
+  "num_followers": 28931,
   "original_name": "Jazz in the Car",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMxNTMwOSwwMDAwMDAwMDc5OWI5OTVhY2MyMzgzNzE0MWM4YzM0OWM1NDhmODMw",
+  "snapshot_id": "MTY2MzMxNTMwOSwwMDAwMDAwMDE4MTFmODliNzMyOGU0M2U4ZjFkMGM4MjM2YjliODc4",
   "tracks": [
     {
       "added_at": "2022-09-16 08:01:49",
@@ -703,6 +703,22 @@
     {
       "added_at": "2022-09-16 08:01:49",
       "album": {
+        "name": "From The Bottom",
+        "url": "https://open.spotify.com/album/381GV8lnU7XhaqbU2u8hsW"
+      },
+      "artists": [
+        {
+          "name": "Bobby Timmons Trio",
+          "url": "https://open.spotify.com/artist/47jpbb07933jSiHmir7yda"
+        }
+      ],
+      "duration_ms": 299293,
+      "name": "From The Bottom",
+      "url": "https://open.spotify.com/track/0aKBKF73MKWmIbaCdEjf8t"
+    },
+    {
+      "added_at": "2022-09-16 08:01:49",
+      "album": {
         "name": "Bluesy Burrell",
         "url": "https://open.spotify.com/album/3AlZ0JVd44GuMrx0RVrzzF"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 284373,
       "name": "Montono Blues",
       "url": "https://open.spotify.com/track/5CVm6NEFOwGKa5QraGTUUH"
-    },
-    {
-      "added_at": "2022-09-16 08:01:49",
-      "album": {
-        "name": "From The Bottom",
-        "url": "https://open.spotify.com/album/381GV8lnU7XhaqbU2u8hsW"
-      },
-      "artists": [
-        {
-          "name": "Bobby Timmons Trio",
-          "url": "https://open.spotify.com/artist/47jpbb07933jSiHmir7yda"
-        }
-      ],
-      "duration_ms": 299293,
-      "name": "From The Bottom",
-      "url": "https://open.spotify.com/track/0aKBKF73MKWmIbaCdEjf8t"
     },
     {
       "added_at": "2022-09-16 08:01:49",
@@ -839,22 +839,18 @@
     {
       "added_at": "2022-09-16 08:01:49",
       "album": {
-        "name": "Heavy Sounds",
-        "url": "https://open.spotify.com/album/3nBv7F1rNLtVjVgueYXDqy"
+        "name": "Ode",
+        "url": "https://open.spotify.com/album/2HJHKIUdO0f4QlKwznVC3e"
       },
       "artists": [
         {
-          "name": "Elvin Jones",
-          "url": "https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF"
-        },
-        {
-          "name": "Richard Davis",
-          "url": "https://open.spotify.com/artist/6Xktfsmu8Tlg3071prbJej"
+          "name": "Brad Mehldau Trio",
+          "url": "https://open.spotify.com/artist/5sQJzc7ZGwC4olbhp2kqqX"
         }
       ],
-      "duration_ms": 692200,
-      "name": "Raunchy Rita",
-      "url": "https://open.spotify.com/track/2yDj19j294AsXOCYW5MGYz"
+      "duration_ms": 402013,
+      "name": "Bee Blues",
+      "url": "https://open.spotify.com/track/6keKDGemOj5o7VJHNVaeYl"
     },
     {
       "added_at": "2022-09-16 08:01:49",
@@ -875,18 +871,22 @@
     {
       "added_at": "2022-09-16 08:01:49",
       "album": {
-        "name": "Ode",
-        "url": "https://open.spotify.com/album/2HJHKIUdO0f4QlKwznVC3e"
+        "name": "Heavy Sounds",
+        "url": "https://open.spotify.com/album/3nBv7F1rNLtVjVgueYXDqy"
       },
       "artists": [
         {
-          "name": "Brad Mehldau Trio",
-          "url": "https://open.spotify.com/artist/5sQJzc7ZGwC4olbhp2kqqX"
+          "name": "Elvin Jones",
+          "url": "https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF"
+        },
+        {
+          "name": "Richard Davis",
+          "url": "https://open.spotify.com/artist/6Xktfsmu8Tlg3071prbJej"
         }
       ],
-      "duration_ms": 402013,
-      "name": "Bee Blues",
-      "url": "https://open.spotify.com/track/6keKDGemOj5o7VJHNVaeYl"
+      "duration_ms": 692200,
+      "name": "Raunchy Rita",
+      "url": "https://open.spotify.com/track/2yDj19j294AsXOCYW5MGYz"
     },
     {
       "added_at": "2022-09-16 08:01:49",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2022-09-16 08:01:49",
       "album": {
-        "name": "Blues-A-Plenty",
-        "url": "https://open.spotify.com/album/43tAFmiohGIyehQQdd3Fps"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hodges & His Orchestra",
-          "url": "https://open.spotify.com/artist/586u2f7H540oCefUIazflT"
-        }
-      ],
-      "duration_ms": 203280,
-      "name": "Blues-A-Plenty",
-      "url": "https://open.spotify.com/track/5MugYa0pStOS1JywExcCo3"
-    },
-    {
-      "added_at": "2022-09-16 08:01:49",
-      "album": {
         "name": "Cedar",
         "url": "https://open.spotify.com/album/5LXc7es7IBXOkL2AQQplap"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 310133,
       "name": "Bleeker Street Team",
       "url": "https://open.spotify.com/track/1BhMeMxTWZaNVqFooipCnr"
+    },
+    {
+      "added_at": "2022-09-16 08:01:49",
+      "album": {
+        "name": "Blues-A-Plenty",
+        "url": "https://open.spotify.com/album/43tAFmiohGIyehQQdd3Fps"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hodges & His Orchestra",
+          "url": "https://open.spotify.com/artist/586u2f7H540oCefUIazflT"
+        }
+      ],
+      "duration_ms": 203280,
+      "name": "Blues-A-Plenty",
+      "url": "https://open.spotify.com/track/5MugYa0pStOS1JywExcCo3"
     },
     {
       "added_at": "2022-09-16 08:01:49",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2022-09-16 08:01:49",
       "album": {
+        "name": "A Fickle Sonance",
+        "url": "https://open.spotify.com/album/4051tUgDDS3N4S4X8r4HlL"
+      },
+      "artists": [
+        {
+          "name": "Jackie McLean",
+          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
+        }
+      ],
+      "duration_ms": 294893,
+      "name": "Sundu - Remastered 1999 / Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/5tSD3SWFAbQxM9RL5Mxx3A"
+    },
+    {
+      "added_at": "2022-09-16 08:01:49",
+      "album": {
         "name": "Tangerine Rhapsody",
         "url": "https://open.spotify.com/album/5WOJsxEPQpmDQ3qgnt0lQR"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 235733,
       "name": "Blues Jump",
       "url": "https://open.spotify.com/track/26akkzLiMscWZpou2lYuho"
-    },
-    {
-      "added_at": "2022-09-16 08:01:49",
-      "album": {
-        "name": "A Fickle Sonance",
-        "url": "https://open.spotify.com/album/4051tUgDDS3N4S4X8r4HlL"
-      },
-      "artists": [
-        {
-          "name": "Jackie McLean",
-          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
-        }
-      ],
-      "duration_ms": 294893,
-      "name": "Sundu - Remastered 1999 / Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/5tSD3SWFAbQxM9RL5Mxx3A"
     },
     {
       "added_at": "2022-09-16 08:01:49",
@@ -1579,6 +1579,38 @@
     {
       "added_at": "2022-09-16 08:01:49",
       "album": {
+        "name": "Just Coolin'",
+        "url": "https://open.spotify.com/album/7a5hU0lslyNVtVNADYWtBx"
+      },
+      "artists": [
+        {
+          "name": "Cory Weeds",
+          "url": "https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy"
+        }
+      ],
+      "duration_ms": 341473,
+      "name": "Vendetta",
+      "url": "https://open.spotify.com/track/1AE4szTVs0VUFXzaFY34Py"
+    },
+    {
+      "added_at": "2022-09-16 08:01:49",
+      "album": {
+        "name": "Warna",
+        "url": "https://open.spotify.com/album/1AxMJlX259UQmCRRsD5jl5"
+      },
+      "artists": [
+        {
+          "name": "Joey Alexander",
+          "url": "https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII"
+        }
+      ],
+      "duration_ms": 435986,
+      "name": "Inner Urge",
+      "url": "https://open.spotify.com/track/35DNc0UGHEBHXGFoNBpioc"
+    },
+    {
+      "added_at": "2022-09-16 08:01:49",
+      "album": {
         "name": "53",
         "url": "https://open.spotify.com/album/4Z5gPQXauPwNq1XhzpwKA9"
       },
@@ -1623,38 +1655,6 @@
     {
       "added_at": "2022-09-16 08:01:49",
       "album": {
-        "name": "Warna",
-        "url": "https://open.spotify.com/album/1AxMJlX259UQmCRRsD5jl5"
-      },
-      "artists": [
-        {
-          "name": "Joey Alexander",
-          "url": "https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII"
-        }
-      ],
-      "duration_ms": 435986,
-      "name": "Inner Urge",
-      "url": "https://open.spotify.com/track/35DNc0UGHEBHXGFoNBpioc"
-    },
-    {
-      "added_at": "2022-09-16 08:01:49",
-      "album": {
-        "name": "Just Coolin'",
-        "url": "https://open.spotify.com/album/7a5hU0lslyNVtVNADYWtBx"
-      },
-      "artists": [
-        {
-          "name": "Cory Weeds",
-          "url": "https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy"
-        }
-      ],
-      "duration_ms": 341473,
-      "name": "Vendetta",
-      "url": "https://open.spotify.com/track/1AE4szTVs0VUFXzaFY34Py"
-    },
-    {
-      "added_at": "2022-09-16 08:01:49",
-      "album": {
         "name": "Sun Blowing",
         "url": "https://open.spotify.com/album/25n7RtSqchU8ESw2ZuaOiz"
       },
@@ -1675,22 +1675,6 @@
       "duration_ms": 282762,
       "name": "Little Jump",
       "url": "https://open.spotify.com/track/5e1PSFh6Qrcr8K89Iy2vCm"
-    },
-    {
-      "added_at": "2022-09-16 08:01:49",
-      "album": {
-        "name": "It's All Right!",
-        "url": "https://open.spotify.com/album/14CbMw1lBMs4xI2JacW9ad"
-      },
-      "artists": [
-        {
-          "name": "Wynton Kelly Trio",
-          "url": "https://open.spotify.com/artist/49XXRf3IT5eeUgAbYeBOmr"
-        }
-      ],
-      "duration_ms": 230573,
-      "name": "Kelly Roll",
-      "url": "https://open.spotify.com/track/695Dt1lYeOCxmsnCDWx2mq"
     },
     {
       "added_at": "2022-09-16 08:01:49",
@@ -1719,6 +1703,22 @@
       "duration_ms": 226396,
       "name": "Monkish",
       "url": "https://open.spotify.com/track/3Paicyrpt1V4SXa7hDWIzY"
+    },
+    {
+      "added_at": "2022-09-16 08:01:49",
+      "album": {
+        "name": "It's All Right!",
+        "url": "https://open.spotify.com/album/14CbMw1lBMs4xI2JacW9ad"
+      },
+      "artists": [
+        {
+          "name": "Wynton Kelly Trio",
+          "url": "https://open.spotify.com/artist/49XXRf3IT5eeUgAbYeBOmr"
+        }
+      ],
+      "duration_ms": 230573,
+      "name": "Kelly Roll",
+      "url": "https://open.spotify.com/track/695Dt1lYeOCxmsnCDWx2mq"
     },
     {
       "added_at": "2022-09-16 08:01:49",
@@ -1823,6 +1823,22 @@
     {
       "added_at": "2022-09-16 08:01:49",
       "album": {
+        "name": "Why Am I Treated So Bad!",
+        "url": "https://open.spotify.com/album/4CPAyHrIV0POXPCdWICY7o"
+      },
+      "artists": [
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        }
+      ],
+      "duration_ms": 315893,
+      "name": "One For Newk - 2006 Digital Remaster",
+      "url": "https://open.spotify.com/track/3f3wxyntMNxbDB6ij3tJLz"
+    },
+    {
+      "added_at": "2022-09-16 08:01:49",
+      "album": {
         "name": "Jubilation! Celebrating Cannonball Adderley",
         "url": "https://open.spotify.com/album/7kEkIBO5Yd62koWjRR3j01"
       },
@@ -1839,22 +1855,6 @@
       "duration_ms": 422403,
       "name": "Del Sasser",
       "url": "https://open.spotify.com/track/3IWp07UL6dh4kEQlG0xZPL"
-    },
-    {
-      "added_at": "2022-09-16 08:01:49",
-      "album": {
-        "name": "Why Am I Treated So Bad!",
-        "url": "https://open.spotify.com/album/4CPAyHrIV0POXPCdWICY7o"
-      },
-      "artists": [
-        {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
-        }
-      ],
-      "duration_ms": 315893,
-      "name": "One For Newk - 2006 Digital Remaster",
-      "url": "https://open.spotify.com/track/3f3wxyntMNxbDB6ij3tJLz"
     },
     {
       "added_at": "2022-09-16 08:01:49",
@@ -1987,6 +1987,22 @@
     {
       "added_at": "2022-09-16 08:01:49",
       "album": {
+        "name": "Slow Charles",
+        "url": "https://open.spotify.com/album/6GRXhL3BskZRhWseGfo6UN"
+      },
+      "artists": [
+        {
+          "name": "Martin Sjostedt Band",
+          "url": "https://open.spotify.com/artist/0liUdMoQW5Uxgoiz41to1B"
+        }
+      ],
+      "duration_ms": 334000,
+      "name": "Heavy Axe",
+      "url": "https://open.spotify.com/track/2wVdn4JWyiQvamWXTZOFWG"
+    },
+    {
+      "added_at": "2022-09-16 08:01:49",
+      "album": {
         "name": "Landed in Brooklyn (with Tim Lefebvre & Nate Wood)",
         "url": "https://open.spotify.com/album/5JxcyZzPM8oy5FElSKRmj7"
       },
@@ -2011,22 +2027,6 @@
       "duration_ms": 445853,
       "name": "Tinderly",
       "url": "https://open.spotify.com/track/5R1XH67b7xUBpnbGdw4VJj"
-    },
-    {
-      "added_at": "2022-09-16 08:01:49",
-      "album": {
-        "name": "Slow Charles",
-        "url": "https://open.spotify.com/album/6GRXhL3BskZRhWseGfo6UN"
-      },
-      "artists": [
-        {
-          "name": "Martin Sjostedt Band",
-          "url": "https://open.spotify.com/artist/0liUdMoQW5Uxgoiz41to1B"
-        }
-      ],
-      "duration_ms": 334000,
-      "name": "Heavy Axe",
-      "url": "https://open.spotify.com/track/2wVdn4JWyiQvamWXTZOFWG"
     },
     {
       "added_at": "2022-09-16 08:01:49",
@@ -2079,18 +2079,22 @@
     {
       "added_at": "2022-09-16 08:01:49",
       "album": {
-        "name": "Here Comes Frank Foster / George Wallington Showcase",
-        "url": "https://open.spotify.com/album/0KgGiJRoLCmI2m0z27FwCG"
+        "name": "A Blowing Session",
+        "url": "https://open.spotify.com/album/0G0HYSDx02OthwWPCDU7xR"
       },
       "artists": [
         {
-          "name": "The Frank Foster Quintet",
-          "url": "https://open.spotify.com/artist/1zXucB9S1Oqy7WwBXUVR0l"
+          "name": "Johnny Griffin",
+          "url": "https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
         }
       ],
-      "duration_ms": 229773,
-      "name": "Blues For Benny - Remastered 1998",
-      "url": "https://open.spotify.com/track/78jOpEmX8qzsEzXCe4C0FX"
+      "duration_ms": 491013,
+      "name": "Ball Bearing - Remastered 2009",
+      "url": "https://open.spotify.com/track/5AC0W8ke0k69WTwPGS7VB9"
     },
     {
       "added_at": "2022-09-16 08:01:49",
@@ -2111,22 +2115,18 @@
     {
       "added_at": "2022-09-16 08:01:49",
       "album": {
-        "name": "A Blowing Session",
-        "url": "https://open.spotify.com/album/0G0HYSDx02OthwWPCDU7xR"
+        "name": "Here Comes Frank Foster / George Wallington Showcase",
+        "url": "https://open.spotify.com/album/0KgGiJRoLCmI2m0z27FwCG"
       },
       "artists": [
         {
-          "name": "Johnny Griffin",
-          "url": "https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ"
-        },
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+          "name": "The Frank Foster Quintet",
+          "url": "https://open.spotify.com/artist/1zXucB9S1Oqy7WwBXUVR0l"
         }
       ],
-      "duration_ms": 491013,
-      "name": "Ball Bearing - Remastered 2009",
-      "url": "https://open.spotify.com/track/5AC0W8ke0k69WTwPGS7VB9"
+      "duration_ms": 229773,
+      "name": "Blues For Benny - Remastered 1998",
+      "url": "https://open.spotify.com/track/78jOpEmX8qzsEzXCe4C0FX"
     },
     {
       "added_at": "2022-09-16 08:01:49",

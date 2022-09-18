@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 
 > Bringing the roaring 20s into the 2020s
 
-[Spotify](https://open.spotify.com/user/spotify) - 305,052 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,245 likes - 75 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,10 +72,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 | 62 | [So Good](https://open.spotify.com/track/5zoU9m2Xg2fYgVzbuiqdzP) | [Klischée](https://open.spotify.com/artist/6qokeohfvbaNK1m0VfIEtB) | [So Good](https://open.spotify.com/album/4j5hKLe8PcSammSkht2CHD) | 3:16 |
 | 63 | [Headless Horseman](https://open.spotify.com/track/6mF2SMWAGcw9rE0TuJv1uu) | [Kid Kasino](https://open.spotify.com/artist/0JC4o7RAl3GNs1MbThyuoD), [Shea](https://open.spotify.com/artist/04dvqs3z04paTr2YeAmpe0) | [Slaughter In the Suburbs](https://open.spotify.com/album/19OgQG7EqDdFfjPktRfmrJ) | 3:33 |
 | 64 | [Code Red](https://open.spotify.com/track/7IX88kAnkatHCA7M1OgrNN) | [Little Violet](https://open.spotify.com/artist/6IPvyC9odisPFeT9Gc43EE) | [Code Red](https://open.spotify.com/album/78qGqKcqqQVg3EfLJVnzX9) | 3:48 |
-| 65 | [1925](https://open.spotify.com/track/3navZS9goNH9MlBiKD1E6V) | [LVDS](https://open.spotify.com/artist/1bchORmrFrz4QUD9JhVm8s) | [1925](https://open.spotify.com/album/02JcbHQKbM8u2wRO5WHaOe) | 2:44 |
+| 65 | [Superhero](https://open.spotify.com/track/6bWpjpAuKVQKt1RpKF8f5w) | [Kormac](https://open.spotify.com/artist/64FRiqIrUyWPvGb83fAYLn), [\(feat\. MC Little Tree\)](https://open.spotify.com/artist/1EnZaceHFbNzOWcMBdgmaI) | [Doorsteps](https://open.spotify.com/album/4EIopkohMjYArWWpqcMz0w) | 5:28 |
 | 66 | [Hep Cat Boogie](https://open.spotify.com/track/30gkKT8SE88QPZgii1ETI4) | [Balduin](https://open.spotify.com/artist/6vSMEdD0kY3g9AaqUGeMMv), [Kate Thomas](https://open.spotify.com/artist/4IQzvAIyld4vW2SamLiOWz) | [Vintage Vibes](https://open.spotify.com/album/6A8DKMCU2OoCTOMpqRnXPp) | 3:22 |
 | 67 | [Comin' Up Swinging](https://open.spotify.com/track/7KaR0WJwomHKGJWp29m89T) | [Atom Smith](https://open.spotify.com/artist/6ExlnA1FV2yvFCVlurHsc2), [Miss Emmma](https://open.spotify.com/artist/7rnokEFlig5Crhc4GEViUR), [Elliot Deutsch](https://open.spotify.com/artist/22JILoTTk3Xfdc2wNwq6Xf) | [Bass Age Big Band](https://open.spotify.com/album/5mjTjPdZzIuMDmJPQu3Ywq) | 3:35 |
-| 68 | [Superhero](https://open.spotify.com/track/6bWpjpAuKVQKt1RpKF8f5w) | [Kormac](https://open.spotify.com/artist/64FRiqIrUyWPvGb83fAYLn), [\(feat\. MC Little Tree\)](https://open.spotify.com/artist/1EnZaceHFbNzOWcMBdgmaI) | [Doorsteps](https://open.spotify.com/album/4EIopkohMjYArWWpqcMz0w) | 5:28 |
+| 68 | [1925](https://open.spotify.com/track/3navZS9goNH9MlBiKD1E6V) | [LVDS](https://open.spotify.com/artist/1bchORmrFrz4QUD9JhVm8s) | [1925](https://open.spotify.com/album/02JcbHQKbM8u2wRO5WHaOe) | 2:44 |
 | 69 | [Marcianito \- Cristina Renzetti Vocal Version](https://open.spotify.com/track/1qUOQnK6aeMa6KO0fB1OjY) | [Dj Farrapo](https://open.spotify.com/artist/3Zd0T1sAyozwHb3u3MYtiP), [Cristina Renzetti](https://open.spotify.com/artist/6pMus8C5qs4o0TcsvouPI6) | [The Nu Swing Experience](https://open.spotify.com/album/3s5XUm68qdvzlW4wTDSSaw) | 2:44 |
 | 70 | [Mañana \- Jojo Effect & Gardener of Delight Remix](https://open.spotify.com/track/27FA1rNL2xN9u8XZyHrxup) | [Jojo Effect](https://open.spotify.com/artist/3kHTdAZm5aaYxF2WowH1nL), [The Mills Brothers](https://open.spotify.com/artist/3nxAXv48I7VKMXT8ScbRlg), [Gardener of Delight](https://open.spotify.com/artist/3hSjJFU2I7AkyEDa4nop7i) | [Mañana \(Jojo Effect & Gardener of Delight Remix\)](https://open.spotify.com/album/07HP7HE5ivpEfRj5c9JAqp) | 2:48 |
 | 71 | [Day & Night](https://open.spotify.com/track/4zCxvn6qHK3CosaM3Azaii) | [Odd Chap](https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU) | [Day & Night](https://open.spotify.com/album/3XhtlVfAz9MoDFuOilR7EE) | 4:07 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 | 74 | [Speed Dating An Arsonist](https://open.spotify.com/track/2xaaHJRbaWRxgiNxo5NeuK) | [Diablo Swing Orchestra](https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r) | [Speed Dating An Arsonist](https://open.spotify.com/album/6FMYspLefkY6vs9I1OHnF9) | 5:30 |
 | 75 | [My 20s Woman](https://open.spotify.com/track/7bLY55RMYIyFLVwSUXgwW7) | [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [Phos Toni](https://open.spotify.com/artist/1D2acYwVzm55CayJwUwqB5) | [My 20s Woman](https://open.spotify.com/album/1fyfPMEPW6VBGtaxVWNI0A) | 3:06 |
 
-Snapshot ID: `MTY2MzMwMDg2MCwwMDAwMDAwMDFmYmY0NzdiNjIyZTQ3NGU2MTMwZDVjMmViZDYzZTU0`
+Snapshot ID: `MTY2MzMwMDg2MCwwMDAwMDAwMGQ2NjIxMTdkN2Q0YWVhYTE5NzNjZDhmMjI3NDk5OGU1`

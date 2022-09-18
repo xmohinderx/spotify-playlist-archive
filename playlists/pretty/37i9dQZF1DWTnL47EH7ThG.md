@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 
 > <a href="spotify:artist:6kf69CwzgodrETRgzcjX95">BAMBII</a>'s favorite tracks\. Updated regularly\. Curated by BAMBII\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,052 likes - 236 songs - 13 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,085 likes - 236 songs - 13 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 | 31 | [You](https://open.spotify.com/track/6u3r5ZllVScUXAHVSLsJVC) | [Roska](https://open.spotify.com/artist/5p8U1acntDKzfbbZLwWYE5), [Murder He Wrote](https://open.spotify.com/artist/4n11sJzNp7JjBQw9sDze9Z) | [You](https://open.spotify.com/album/4fgDSI70opc5iYRVcPBb5w) | 4:15 |
 | 32 | [Smack the Door](https://open.spotify.com/track/0vlLuzbwUUB4L8aYTtwQQu) | [Dismantle](https://open.spotify.com/artist/6sjpYOCYKYiurpvJk0oNEp), [Van Basten](https://open.spotify.com/artist/3RhrAAJ6NscgogAUdBP1eg) | [Smack the Door](https://open.spotify.com/album/1ws4hwmPF3xto7rLuI87gi) | 3:50 |
 | 33 | [RESPECT](https://open.spotify.com/track/1SZNl9ghP3M7nvkki8rzCu) | [London Hilll](https://open.spotify.com/artist/7cqLnc6zTajTX61F6SGA2A), [LGP Qua](https://open.spotify.com/artist/3mCVZUKS4SXMHf7QdyKQFz) | [RESPECT](https://open.spotify.com/album/5au4sCWtFcJ70S74ABl9QZ) | 2:49 |
-| 34 | [Run it](https://open.spotify.com/track/5VCsDSmSNkmIP7RaFYSMGZ) | [Vanessa Tha Finessa](https://open.spotify.com/artist/7d55wy6vEfabtFevi23pZt), [Smiles Davis](https://open.spotify.com/artist/6vjhuQY1IzfsaJJIKskfZD) | [Run it](https://open.spotify.com/album/5Kmk9a1DIxzpf0ebPMkYYQ) | 2:42 |
+| 34 | [Run It \(feat\. Smiles Davis\)](https://open.spotify.com/track/3AxNeTEdM7bzJV1RUDKFn6) | [Vanessa Tha Finessa](https://open.spotify.com/artist/7d55wy6vEfabtFevi23pZt), [Smiles Davis](https://open.spotify.com/artist/6vjhuQY1IzfsaJJIKskfZD) | [Run It \(feat\. Smiles Davis\)](https://open.spotify.com/album/1RZ1l15cKdDNt66Wp1G6N3) | 2:42 |
 | 35 | [Moody! \(feat\. Saba\)](https://open.spotify.com/track/3GH8eacML602pwvPdKiLAc) | [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [Watch This!](https://open.spotify.com/album/4Vu0PtnR4eyViFmKZNpJqL) | 1:45 |
 | 36 | [No Shade](https://open.spotify.com/track/6ukoGH0t4RbK3tCqbCpbbN) | [myst milano.](https://open.spotify.com/artist/0J1rVE3RunTC4Pm8ohPM7z) | [Shapeshyfter](https://open.spotify.com/album/0cESoqQSfbpjOLuT3b23G0) | 2:51 |
 | 37 | [Boomerang \- Suzi Analogue Remix](https://open.spotify.com/track/6YhCLxJy7wDfQYeXmmdjij) | [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9), [Suzi Analogue](https://open.spotify.com/artist/0hNK7ZdOjiUJd2C17JAjK8) | [Boomerang \(Suzi Analogue Remix\)](https://open.spotify.com/album/2nJjqCO241fyScuNcTwtbb) | 3:21 |
@@ -245,4 +245,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 | 235 | [chuu](https://open.spotify.com/track/6cLURLxklSLSHLFVIdsxIl) | [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl), [Topaz Jones](https://open.spotify.com/artist/76bAuLD5jMIT1YDJ84KB8l) | [this is no longer a dream](https://open.spotify.com/album/4GBfihSelwvWO2jpJyqRsL) | 4:13 |
 | 236 | [undulations](https://open.spotify.com/track/2BQd1XaRUqANb211A2PWBz) | [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [this is no longer a dream](https://open.spotify.com/album/4GBfihSelwvWO2jpJyqRsL) | 3:16 |
 
-Snapshot ID: `MTY1ODE3MTM1MywwMDAwMDAwMDcwOWFiMjVmY2MwZGNjODJkNmQ2YWY0ZTkzNmVjM2Qy`
+Snapshot ID: `MTY1ODE3MTM1MywwMDAwMDAwMGIzMmU1MWVhZGQ3ZTk3NTQzYzliMjhiOTg4NWQzOGIw`

@@ -717,7 +717,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-17",
+      "date_removed": null,
       "duration_ms": 124273,
       "name": "BAGIRA",
       "url": "https://open.spotify.com/track/18DVypBkvcJtVFzQr5Ly7J"
@@ -975,7 +975,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 169117,
       "name": "blue",
       "url": "https://open.spotify.com/track/694tcvGfrTw7YEfFHFZK9d"
@@ -1349,7 +1349,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 133896,
       "name": "Death Lotto",
       "url": "https://open.spotify.com/track/1fd3XY9w5SzDPT40K92Bch"
@@ -1645,10 +1645,28 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 235752,
       "name": "Drugs From Amsterdam",
       "url": "https://open.spotify.com/track/3cIU0dTuCwUyNHBPF84jwL"
+    },
+    {
+      "album": {
+        "name": "Drugs From Amsterdam",
+        "url": "https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235785,
+      "name": "Drugs From Amsterdam",
+      "url": "https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv"
     },
     {
       "album": {
@@ -1693,7 +1711,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-15",
+      "date_removed": null,
       "duration_ms": 180927,
       "name": "Ele Te Bota Soca Soca",
       "url": "https://open.spotify.com/track/30096a5EMOSaF9c2aSa4TH"
@@ -1805,6 +1823,24 @@
       "duration_ms": 141043,
       "name": "Escape From BABYLON",
       "url": "https://open.spotify.com/track/12SqxMqtStXppn5fjDYr45"
+    },
+    {
+      "album": {
+        "name": "Ivory",
+        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216680,
+      "name": "Evergreen (You Didn\u2019t Deserve Me At All)",
+      "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
     },
     {
       "album": {
@@ -2857,6 +2893,24 @@
       "duration_ms": 244000,
       "name": "KOMANDER PUMP IT UP",
       "url": "https://open.spotify.com/track/1sk1HMcretzLiljqIBAZ8J"
+    },
+    {
+      "album": {
+        "name": "KU LO SA - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi"
+      },
+      "artists": [
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147580,
+      "name": "KU LO SA - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn"
     },
     {
       "album": {
@@ -4249,7 +4303,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 131657,
       "name": "PART OF ME HARDSTYLE",
       "url": "https://open.spotify.com/track/19gnl7xN5xAEwDquLNKl76"
@@ -4332,6 +4386,24 @@
     },
     {
       "album": {
+        "name": "The Midnight Club GT",
+        "url": "https://open.spotify.com/album/2We9hFPWAKxXBmKqSDHXOK"
+      },
+      "artists": [
+        {
+          "name": "Funk Tribu",
+          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286145,
+      "name": "Phonky Tribu",
+      "url": "https://open.spotify.com/track/0uo7p6JtXF7U8x0ktN0Vty"
+    },
+    {
+      "album": {
         "name": "Piato\u010dek",
         "url": "https://open.spotify.com/album/2WVPMhr9Z5b53XYmGypt0Q"
       },
@@ -4365,10 +4437,28 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 186964,
       "name": "Pink Venom",
       "url": "https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj"
+    },
+    {
+      "album": {
+        "name": "BORN PINK",
+        "url": "https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186964,
+      "name": "Pink Venom",
+      "url": "https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY"
     },
     {
       "album": {
@@ -4695,7 +4785,7 @@
       ],
       "date_added": "2022-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 213753,
       "name": "Run Away to Mars",
       "url": "https://open.spotify.com/track/6G1Mz5yMgn0ydOlIvTrZ65"
@@ -6061,7 +6151,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 229926,
       "name": "Xanadu",
       "url": "https://open.spotify.com/track/2ylpbsHqGUAv3za4JkyMgz"

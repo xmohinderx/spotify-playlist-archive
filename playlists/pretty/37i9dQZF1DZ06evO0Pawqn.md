@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Pawqn.md) - [plain]
 
 > This is Los Tiranos Del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,348 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,353 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Pawqn.md) - [plain]
 | 9 | [Nosotros Tambien Podemos](https://open.spotify.com/track/1umXWFEvEOfwwRcMixe71l) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Para Mi Reina](https://open.spotify.com/album/1RhzfA1RNDKFwlwwP3XTeM) | 3:30 |
 | 10 | [Quisiera Amarte Menos](https://open.spotify.com/track/0QTX4cAhxpHO4o8zEin8jn) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Entrega Total](https://open.spotify.com/album/1ynIsTxuLWB8gcIIOEV4pN) | 3:36 |
 | 11 | [Hermosa Tirana](https://open.spotify.com/track/42jgtQjhL2Qu5nbZKUSO7Q) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Hermosa Tirana](https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn) | 2:52 |
-| 12 | [Arrepientete](https://open.spotify.com/track/0FagG8oiMGPW99LZspwr8Y) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Exitos De Oro](https://open.spotify.com/album/5gP2oZWJVWOCrEBH1pZRrZ) | 3:16 |
-| 13 | [Tragos Amargos](https://open.spotify.com/track/53qTj9XcdiKPwIuakXo5dv) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Inolvidables](https://open.spotify.com/album/4jBi66BbClFguTlMaPijcr) | 2:44 |
+| 12 | [Tragos Amargos](https://open.spotify.com/track/53qTj9XcdiKPwIuakXo5dv) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Inolvidables](https://open.spotify.com/album/4jBi66BbClFguTlMaPijcr) | 2:44 |
+| 13 | [Arrepientete](https://open.spotify.com/track/0FagG8oiMGPW99LZspwr8Y) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Exitos De Oro](https://open.spotify.com/album/5gP2oZWJVWOCrEBH1pZRrZ) | 3:16 |
 | 14 | [Mil Noches](https://open.spotify.com/track/6zUSvQLg0mJsq5p2e8f3bt) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Entrega Total](https://open.spotify.com/album/1ynIsTxuLWB8gcIIOEV4pN) | 3:23 |
 | 15 | [MI Amiga,MI Amor](https://open.spotify.com/track/6OhVAKo5GdXlSiPsZYqCpZ) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Por Siempre](https://open.spotify.com/album/6DrYJjF6s1khX4qntiY3ns) | 3:18 |
 | 16 | [Matame a Besos](https://open.spotify.com/track/0om9GXGwk5d7VNyp0nOSuW) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Tiranos del Norte](https://open.spotify.com/album/2N2PsW32lWDtPq1wM8EGKf) | 3:17 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Pawqn.md) - [plain]
 | 44 | [Amor de Ayer](https://open.spotify.com/track/0owdTmklmyKpjCJwoIDD0l) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Tesoros de Coleccion, Vol\. 2](https://open.spotify.com/album/1KxMT0hlHsrGLSO1gvVFYD) | 3:10 |
 | 45 | [Enfermo de Amor](https://open.spotify.com/track/4V7PEffhhn8bUwS8HUkPdQ) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Mis 30 Mejores Canciones](https://open.spotify.com/album/5sZ8JHwkEV2s0Dbv0ylSmZ) | 3:34 |
 | 46 | [Mi Motivo](https://open.spotify.com/track/2WNGl9oCqUNyQb791qIJgy) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [30 Recuerdos](https://open.spotify.com/album/5P7MPSn2HSQq1JCz2mK1eD) | 2:24 |
-| 47 | [Las Mismas Costumbres](https://open.spotify.com/track/5L6gQi0avt8xWO9fVd81SH) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Amor Sin Barreras](https://open.spotify.com/album/0YIdmynE6PnOMGaB0q5eSi) | 2:54 |
-| 48 | [En Tu Dia Mi Amor](https://open.spotify.com/track/5LbIiAoIKLBOFSvj3WdqV8) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [30 Exitos](https://open.spotify.com/album/5z9l5t8x9UDOWOMKWSBXz9) | 2:48 |
+| 47 | [En Tu Dia Mi Amor](https://open.spotify.com/track/5LbIiAoIKLBOFSvj3WdqV8) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [30 Exitos](https://open.spotify.com/album/5z9l5t8x9UDOWOMKWSBXz9) | 2:48 |
+| 48 | [Las Mismas Costumbres](https://open.spotify.com/track/5L6gQi0avt8xWO9fVd81SH) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Amor Sin Barreras](https://open.spotify.com/album/0YIdmynE6PnOMGaB0q5eSi) | 2:54 |
 | 49 | [Se Me Hizo Facil](https://open.spotify.com/track/2aLcE8XA2Szi6lbhfeVBXW) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Pa Que Son Pasiones](https://open.spotify.com/album/01yx9SBrqS2cmbXdGZ52Ze) | 2:42 |
 | 50 | [Corazon de Vecindad](https://open.spotify.com/track/56tdpVNcEEwCTIvaZRlRk9) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Tesoros de Coleccion, Vol\. 1](https://open.spotify.com/album/43YQOZfMDgWtqa2LZ7R7eR) | 3:07 |
 
-Snapshot ID: `Mjc3MjIyMzMsMDAwMDAwMDA1Y2M2NDQ2OGJiMDY0ZDI3MTkwMDk2YzBmNzk0NGMxYQ==`
+Snapshot ID: `Mjc3MjM2OTIsMDAwMDAwMDAyNTQ0YzQxZDA2NzBkZmQwY2M3YTc2Mzc0MmMzMzE5Zg==`

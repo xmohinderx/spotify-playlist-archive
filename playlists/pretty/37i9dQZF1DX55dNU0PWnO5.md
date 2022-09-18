@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55dNU0PWnO5.md) - [plain]
 
 > Jazzy blips and blops\. Cover: Kansado
 
-[Spotify](https://open.spotify.com/user/spotify) - 533,493 likes - 80 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 533,532 likes - 80 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55dNU0PWnO5.md) - [plain]
 | 12 | [The Chase](https://open.spotify.com/track/46mnsGTn2Q15MC4f16RCev) | [Yellow Seven](https://open.spotify.com/artist/0tpztbN6XZbMYSEOf4v7BU), [Jake Milliner](https://open.spotify.com/artist/5GbsEElDfxIjlM3rknGexS) | [The Chase](https://open.spotify.com/album/5CFLKkzjSI6qOqbD4eznTm) | 2:32 |
 | 13 | [Grapefruit](https://open.spotify.com/track/0IgwBPyQshHcC1sFRwn4Dx) | [DYVN](https://open.spotify.com/artist/0txJ9PYLXPk2Ojegw5Ty9X) | [Grapefruit](https://open.spotify.com/album/7LbmIzoc3Tl8qu1bO8kdiu) | 2:16 |
 | 14 | [Truly Another Classic](https://open.spotify.com/track/1lLEiBayOjUDTTIKp9Ef4A) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [Yasper](https://open.spotify.com/artist/1axdL80XjVHdInGsJbURyt) | [Truly Another Classic](https://open.spotify.com/album/08VaZry8R8XE1pA8N0OYfC) | 2:33 |
-| 15 | [Tukumtak](https://open.spotify.com/track/4aOaDvOhOeTkF3sItgGY8y) | [Kansado](https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW), [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1) | [Tukumtak](https://open.spotify.com/album/0h4jpUdtOWrmksifqBVxf7) | 3:02 |
-| 16 | [By Your Side](https://open.spotify.com/track/1k075G4HKQ8oE1ybx4kzt0) | [Ryan James Carr](https://open.spotify.com/artist/5V5f4rVZkRnl5O17X1vDM1), [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ) | [By Your Side](https://open.spotify.com/album/2EBRJxHs4JLRM2iWovRTmX) | 2:50 |
+| 15 | [By Your Side](https://open.spotify.com/track/1k075G4HKQ8oE1ybx4kzt0) | [Ryan James Carr](https://open.spotify.com/artist/5V5f4rVZkRnl5O17X1vDM1), [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ) | [By Your Side](https://open.spotify.com/album/2EBRJxHs4JLRM2iWovRTmX) | 2:50 |
+| 16 | [Tukumtak](https://open.spotify.com/track/4aOaDvOhOeTkF3sItgGY8y) | [Kansado](https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW), [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1) | [Tukumtak](https://open.spotify.com/album/0h4jpUdtOWrmksifqBVxf7) | 3:02 |
 | 17 | [Squarepusher Theme](https://open.spotify.com/track/058ko08nDcxWAEXJXkDNYC) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Feed Me Weird Things \(Remastered\)](https://open.spotify.com/album/3mr4Eo5QyvLqvghU1usLM4) | 6:21 |
 | 18 | [Moves](https://open.spotify.com/track/07DuoTCTocHk7y3d8MImks) | [Cody Currie](https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx), [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP) | [Moves EP](https://open.spotify.com/album/7sAOz7qlL8UyeRtFyVNWcj) | 3:43 |
 | 19 | [Dirty Mariposa](https://open.spotify.com/track/7hiCGd7VM7ToeLZgo0Mvo7) | [Parov Stelar](https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px) | [Moonlight Love Affair](https://open.spotify.com/album/1AJhYeele3DMImHJ0SzVPp) | 5:24 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55dNU0PWnO5.md) - [plain]
 | 79 | [Pulse](https://open.spotify.com/track/0L23Lh4ALOAJSUVBxHWLMt) | [Slowya.roll](https://open.spotify.com/artist/3VlbOrMVyRIrtVE71jLu6N), [Matt Zara](https://open.spotify.com/artist/7esr72Ko5ghnnhZZSAxqHL) | [Pulse](https://open.spotify.com/album/47fhitalFxOfp647SOyW6y) | 3:32 |
 | 80 | [Galilean Moons](https://open.spotify.com/track/114T0Xj3B0erxZNU8zmhKQ) | [Daylight Robbery!](https://open.spotify.com/artist/4iSyPXTjEjLTgM08lsnC0O), [Benjamin Furman](https://open.spotify.com/artist/1Iqi4vGZ1YDxUn9oAqqxXH) | [Galilean Moons](https://open.spotify.com/album/4ECKQXhNcQJBP3iFTBWsHe) | 4:02 |
 
-Snapshot ID: `MTY2MzMwMDg2MCwwMDAwMDAwMDU2NGYwNzQ4ZDdlZmNkZTZmZDcyZDE4ZjYyY2Y1YzJl`
+Snapshot ID: `MTY2MzMwMDg2MCwwMDAwMDAwMGNhNzkzOWM3ZjYyMTQ1Yjk2MWNiNWJiZjA4ZDRlMGZl`

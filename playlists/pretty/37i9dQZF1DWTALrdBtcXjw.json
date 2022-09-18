@@ -1,12 +1,12 @@
 {
   "description": "Instrumental Jazz to set the mood for a relaxed evening.",
-  "num_followers": 388395,
+  "num_followers": 388457,
   "original_name": "Jazzy Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMzMDk5MywwMDAwMDAwMDg4Zjg2NWFjMTczOGVmZGM3ZjRlMGQyZDkyNmU2NjM3",
+  "snapshot_id": "MTY2MzMzMDk5MywwMDAwMDAwMDk1ZTNjNzcwMzc3MjIwYmVlNDUzOGNkYzUwNjRlYmVi",
   "tracks": [
     {
       "added_at": "2022-09-16 12:23:13",
@@ -39,22 +39,6 @@
     {
       "added_at": "2022-09-16 12:23:13",
       "album": {
-        "name": "Notes From New York",
-        "url": "https://open.spotify.com/album/1ljvVXm0WO7HVvc64AESd5"
-      },
-      "artists": [
-        {
-          "name": "Bill Charlap Trio",
-          "url": "https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja"
-        }
-      ],
-      "duration_ms": 424946,
-      "name": "Make Me Rainbows",
-      "url": "https://open.spotify.com/track/1m8uCoir0UBFB6wRxchbDG"
-    },
-    {
-      "added_at": "2022-09-16 12:23:13",
-      "album": {
         "name": "Habanera",
         "url": "https://open.spotify.com/album/1ifBHQSP0GZJx0H1GygeVQ"
       },
@@ -67,6 +51,22 @@
       "duration_ms": 288385,
       "name": "Habanera",
       "url": "https://open.spotify.com/track/1TKJu779sVM4bM1Kg0qNEF"
+    },
+    {
+      "added_at": "2022-09-16 12:23:13",
+      "album": {
+        "name": "Notes From New York",
+        "url": "https://open.spotify.com/album/1ljvVXm0WO7HVvc64AESd5"
+      },
+      "artists": [
+        {
+          "name": "Bill Charlap Trio",
+          "url": "https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja"
+        }
+      ],
+      "duration_ms": 424946,
+      "name": "Make Me Rainbows",
+      "url": "https://open.spotify.com/track/1m8uCoir0UBFB6wRxchbDG"
     },
     {
       "added_at": "2022-09-16 12:23:13",
@@ -135,22 +135,6 @@
     {
       "added_at": "2022-09-16 12:23:13",
       "album": {
-        "name": "Uptown, Downtown",
-        "url": "https://open.spotify.com/album/5sLAAuNixDNK7b91imiLfM"
-      },
-      "artists": [
-        {
-          "name": "Bill Charlap Trio",
-          "url": "https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja"
-        }
-      ],
-      "duration_ms": 401493,
-      "name": "There's A Small Hotel",
-      "url": "https://open.spotify.com/track/1vd6bplZvB2edAjNd9bR7l"
-    },
-    {
-      "added_at": "2022-09-16 12:23:13",
-      "album": {
         "name": "Within a Dream",
         "url": "https://open.spotify.com/album/77u6sL9mxKm3uDqnMX6XV4"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 258226,
       "name": "I Miss You",
       "url": "https://open.spotify.com/track/4Hus6AQNHezUdbBKuo1aE8"
+    },
+    {
+      "added_at": "2022-09-16 12:23:13",
+      "album": {
+        "name": "Uptown, Downtown",
+        "url": "https://open.spotify.com/album/5sLAAuNixDNK7b91imiLfM"
+      },
+      "artists": [
+        {
+          "name": "Bill Charlap Trio",
+          "url": "https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja"
+        }
+      ],
+      "duration_ms": 401493,
+      "name": "There's A Small Hotel",
+      "url": "https://open.spotify.com/track/1vd6bplZvB2edAjNd9bR7l"
     },
     {
       "added_at": "2022-09-16 12:23:13",
@@ -627,22 +627,6 @@
     {
       "added_at": "2022-09-16 12:23:13",
       "album": {
-        "name": "Atonement",
-        "url": "https://open.spotify.com/album/6MFuF7vQuRVuDBRcyPPsbG"
-      },
-      "artists": [
-        {
-          "name": "Trio X of Sweden",
-          "url": "https://open.spotify.com/artist/51s0AOLvBvXk75SsVUqIKZ"
-        }
-      ],
-      "duration_ms": 228746,
-      "name": "Somaoh",
-      "url": "https://open.spotify.com/track/6zr0ynyIM2RRaoTMOmj9h9"
-    },
-    {
-      "added_at": "2022-09-16 12:23:13",
-      "album": {
         "name": "Very Early",
         "url": "https://open.spotify.com/album/0fPVsQec9DfwuSfWSNdp7d"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 485505,
       "name": "Very Early",
       "url": "https://open.spotify.com/track/5KtdndjjwcRPMO6kl129TG"
+    },
+    {
+      "added_at": "2022-09-16 12:23:13",
+      "album": {
+        "name": "Atonement",
+        "url": "https://open.spotify.com/album/6MFuF7vQuRVuDBRcyPPsbG"
+      },
+      "artists": [
+        {
+          "name": "Trio X of Sweden",
+          "url": "https://open.spotify.com/artist/51s0AOLvBvXk75SsVUqIKZ"
+        }
+      ],
+      "duration_ms": 228746,
+      "name": "Somaoh",
+      "url": "https://open.spotify.com/track/6zr0ynyIM2RRaoTMOmj9h9"
     },
     {
       "added_at": "2022-09-16 12:23:13",
@@ -755,6 +755,22 @@
     {
       "added_at": "2022-09-16 12:23:13",
       "album": {
+        "name": "I Love Jan Lundgren Trio",
+        "url": "https://open.spotify.com/album/6iUNYWWimI0uy8kzvdQbuh"
+      },
+      "artists": [
+        {
+          "name": "Jan Lundgren Trio",
+          "url": "https://open.spotify.com/artist/3kfAk1i7bmKvhjBoGEAQqy"
+        }
+      ],
+      "duration_ms": 291861,
+      "name": "Garden of Delight",
+      "url": "https://open.spotify.com/track/3apdPUK06P8pXgTsIKlFIl"
+    },
+    {
+      "added_at": "2022-09-16 12:23:13",
+      "album": {
         "name": "Where We Belong",
         "url": "https://open.spotify.com/album/1klyqyo9Ychh0ItzQDgrox"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 371773,
       "name": "Where We Belong",
       "url": "https://open.spotify.com/track/4LRIGcp9jELNiscAhEc2XI"
-    },
-    {
-      "added_at": "2022-09-16 12:23:13",
-      "album": {
-        "name": "I Love Jan Lundgren Trio",
-        "url": "https://open.spotify.com/album/6iUNYWWimI0uy8kzvdQbuh"
-      },
-      "artists": [
-        {
-          "name": "Jan Lundgren Trio",
-          "url": "https://open.spotify.com/artist/3kfAk1i7bmKvhjBoGEAQqy"
-        }
-      ],
-      "duration_ms": 291861,
-      "name": "Garden of Delight",
-      "url": "https://open.spotify.com/track/3apdPUK06P8pXgTsIKlFIl"
     },
     {
       "added_at": "2022-09-16 12:23:13",
@@ -843,6 +843,22 @@
     {
       "added_at": "2022-09-16 12:23:13",
       "album": {
+        "name": "Time For Ballads - The Studio Sessions",
+        "url": "https://open.spotify.com/album/5UunarohrbI9z28uUYyw6q"
+      },
+      "artists": [
+        {
+          "name": "Rob Van Bavel",
+          "url": "https://open.spotify.com/artist/1hoKG6Fb0T7qUj1yL8MPsN"
+        }
+      ],
+      "duration_ms": 263285,
+      "name": "Manhattan",
+      "url": "https://open.spotify.com/track/7eooKc7DUKjCOfdxsXzxS0"
+    },
+    {
+      "added_at": "2022-09-16 12:23:13",
+      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/7EB9SmVbtZ8cg9qykhQvif"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 424132,
       "name": "Loneliness",
       "url": "https://open.spotify.com/track/6yrGyCwvV4zJyIbdtdyW7p"
-    },
-    {
-      "added_at": "2022-09-16 12:23:13",
-      "album": {
-        "name": "Time For Ballads - The Studio Sessions",
-        "url": "https://open.spotify.com/album/5UunarohrbI9z28uUYyw6q"
-      },
-      "artists": [
-        {
-          "name": "Rob Van Bavel",
-          "url": "https://open.spotify.com/artist/1hoKG6Fb0T7qUj1yL8MPsN"
-        }
-      ],
-      "duration_ms": 263285,
-      "name": "Manhattan",
-      "url": "https://open.spotify.com/track/7eooKc7DUKjCOfdxsXzxS0"
     },
     {
       "added_at": "2022-09-16 12:23:13",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2022-09-16 12:23:13",
       "album": {
-        "name": "Bassic Instinct",
-        "url": "https://open.spotify.com/album/2h2DmXUDMn8rScrIk7o0sf"
-      },
-      "artists": [
-        {
-          "name": "David Finck",
-          "url": "https://open.spotify.com/artist/0izr5ONrQxIf2EbHPCCavn"
-        }
-      ],
-      "duration_ms": 220329,
-      "name": "The Best Thing for You (Would Be Me)",
-      "url": "https://open.spotify.com/track/31NiNqdwCcZWsKrtgPoews"
-    },
-    {
-      "added_at": "2022-09-16 12:23:13",
-      "album": {
         "name": "Made Of Wood",
         "url": "https://open.spotify.com/album/1Q59mVCm924rwxfQkQBqGc"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 372823,
       "name": "Made Of Wood",
       "url": "https://open.spotify.com/track/4LIvvG87ifZM9kQ5llSXW3"
+    },
+    {
+      "added_at": "2022-09-16 12:23:13",
+      "album": {
+        "name": "Bassic Instinct",
+        "url": "https://open.spotify.com/album/2h2DmXUDMn8rScrIk7o0sf"
+      },
+      "artists": [
+        {
+          "name": "David Finck",
+          "url": "https://open.spotify.com/artist/0izr5ONrQxIf2EbHPCCavn"
+        }
+      ],
+      "duration_ms": 220329,
+      "name": "The Best Thing for You (Would Be Me)",
+      "url": "https://open.spotify.com/track/31NiNqdwCcZWsKrtgPoews"
     },
     {
       "added_at": "2022-09-16 12:23:13",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Piso 21 y Carin León; Feid; BLACKPINK; Cartel de Santa y Los Dos Carnales; TINI y Tiago PZK; y más!
 
-[Spotify](https://open.spotify.com/user/spotify) - 716,876 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 717,266 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

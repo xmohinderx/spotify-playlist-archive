@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Cn8UU.md) - [plain]
 
 > This is Teddy Pendergrass\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,120 likes - 50 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,143 likes - 50 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Cn8UU.md) - [plain]
 | 49 | [I'll Never See Heaven Again](https://open.spotify.com/track/6Tc8ylJyphdbGoZiW4OxQK) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Teddy \(Expanded Edition\)](https://open.spotify.com/album/5WeHpxpPWmURN5kVQ4lhHM) | 4:45 |
 | 50 | [I Want My Baby Back](https://open.spotify.com/track/466Nltju0Om75oImtmEyR5) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Heaven Only Knows](https://open.spotify.com/album/4hFGg240tpuX6ghIiz33kK) | 4:00 |
 
-Snapshot ID: `Mjc3MjIyMzMsMDAwMDAwMDAyY2YwN2Q5MjMzZDdhZGI3ZDFlNGNiMzg3NGZlMGM3NQ==`
+Snapshot ID: `Mjc3MjM2OTMsMDAwMDAwMDA5NDQxYzgxN2EyNDk0MGQyNzJlM2E3YWY5OTRjMmU0NA==`

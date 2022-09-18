@@ -1,12 +1,12 @@
 {
   "description": "Laid back sounds to see you through your day.",
-  "num_followers": 408947,
+  "num_followers": 409075,
   "original_name": "Easy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzA4NDcyNSwwMDAwMDAwMDIwOWIyYTFkNTZmODRkNjZiOGI2ZWM1ZGY2MWEzNTA3",
+  "snapshot_id": "MTY2MzA4NDcyNSwwMDAwMDAwMGZmYjQzODRjNjAxMzQ4YmMxZmJmNTk2YTZiZjFiYmY1",
   "tracks": [
     {
       "added_at": "2022-09-13 15:58:45",
@@ -563,30 +563,6 @@
     {
       "added_at": "2022-09-13 15:58:45",
       "album": {
-        "name": "Love's Train",
-        "url": "https://open.spotify.com/album/6QKXGIgwWmWBMmIktMOchR"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "Silk Sonic",
-          "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
-        }
-      ],
-      "duration_ms": 307014,
-      "name": "Love's Train",
-      "url": "https://open.spotify.com/track/60gTdTwaNtGAzIxKfeGVfJ"
-    },
-    {
-      "added_at": "2022-09-13 15:58:45",
-      "album": {
         "name": "Best Day Of My Life",
         "url": "https://open.spotify.com/album/5eKyTl0Q430cufzTo8ibcX"
       },
@@ -615,6 +591,30 @@
       "duration_ms": 234000,
       "name": "peace",
       "url": "https://open.spotify.com/track/7MbT4I8qGntX4fMdqMQgke"
+    },
+    {
+      "added_at": "2022-09-13 15:58:45",
+      "album": {
+        "name": "Love's Train",
+        "url": "https://open.spotify.com/album/6QKXGIgwWmWBMmIktMOchR"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Silk Sonic",
+          "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
+        }
+      ],
+      "duration_ms": 307014,
+      "name": "Love's Train",
+      "url": "https://open.spotify.com/track/60gTdTwaNtGAzIxKfeGVfJ"
     },
     {
       "added_at": "2022-09-13 15:58:45",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2022-09-13 15:58:45",
       "album": {
-        "name": "Based On A Feeling",
-        "url": "https://open.spotify.com/album/3PdyuqyxiDFTujJ8e2U2E2"
+        "name": "GUCCI BAG",
+        "url": "https://open.spotify.com/album/2uglKnENyDI1cz6PxM37dY"
       },
       "artists": [
         {
-          "name": "Sabrina Claudio",
-          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
+          "name": "MAX",
+          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
         }
       ],
-      "duration_ms": 206269,
-      "name": "Favorite Part",
-      "url": "https://open.spotify.com/track/4rRWJUXC3wjs5z217dwCUW"
+      "duration_ms": 134193,
+      "name": "GUCCI BAG",
+      "url": "https://open.spotify.com/track/08G63QA6FMXwaABEN6syRb"
     },
     {
       "added_at": "2022-09-13 15:58:45",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2022-09-13 15:58:45",
       "album": {
-        "name": "GUCCI BAG",
-        "url": "https://open.spotify.com/album/2uglKnENyDI1cz6PxM37dY"
+        "name": "Based On A Feeling",
+        "url": "https://open.spotify.com/album/3PdyuqyxiDFTujJ8e2U2E2"
       },
       "artists": [
         {
-          "name": "MAX",
-          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
+          "name": "Sabrina Claudio",
+          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
         }
       ],
-      "duration_ms": 134193,
-      "name": "GUCCI BAG",
-      "url": "https://open.spotify.com/track/08G63QA6FMXwaABEN6syRb"
+      "duration_ms": 206269,
+      "name": "Favorite Part",
+      "url": "https://open.spotify.com/track/4rRWJUXC3wjs5z217dwCUW"
     },
     {
       "added_at": "2022-09-13 15:58:45",

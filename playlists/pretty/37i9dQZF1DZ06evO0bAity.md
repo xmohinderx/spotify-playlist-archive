@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bAity.md) - [plain]
 
 > This is DZ Deathrays\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 867 likes - 41 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 868 likes - 41 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,13 +41,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bAity.md) - [plain]
 | 31 | [A Lot To Lose](https://open.spotify.com/track/6RztnbZ0tlFTeNpghqo29X) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Positive Rising: Part 1](https://open.spotify.com/album/43nTe7AFg19waJxNOCUTPa) | 4:18 |
 | 32 | [Riff City](https://open.spotify.com/track/4mB3AR9AMyP2jV8nZjIRV4) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Positive Rising: Part 2](https://open.spotify.com/album/1B4VIXuLqgBbd8oS0awqZs) | 1:06 |
 | 33 | [Rad Solar](https://open.spotify.com/track/6pQb4fJwH1WY21wfiYiSB9) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Brutal Tapes](https://open.spotify.com/album/1I1o9EWBFxbWkY1wO4tTGu) | 1:45 |
-| 34 | [Gebbie Street](https://open.spotify.com/track/02v5ggYAHVdQYMzbfq5Y2Q) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloodstreams](https://open.spotify.com/album/5CrFxu32NCoavIYGKZRcuQ) | 3:55 |
+| 34 | [Dollar Chills](https://open.spotify.com/track/7KdEhcj5B69l9sVBgnff0o) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloodstreams](https://open.spotify.com/album/5CrFxu32NCoavIYGKZRcuQ) | 2:55 |
 | 35 | [Say It To My Face](https://open.spotify.com/track/5YbMlrI8fn74ySYCBsLQFy) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Positive Rising: Part 2 \(Deluxe\)](https://open.spotify.com/album/2lVNWUXvBGvRCFgUnrAsH0) | 2:41 |
 | 36 | [Run The Red](https://open.spotify.com/track/4FF3FPm05xCwjGBDp6JVzn) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Positive Rising: Part 2](https://open.spotify.com/album/1B4VIXuLqgBbd8oS0awqZs) | 3:52 |
 | 37 | [The Mess Up](https://open.spotify.com/track/2l1DgrC0PobfxiFwtN8BEo) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Ruined My Life](https://open.spotify.com/album/6DmNm4kgQ8ImBla8OvEahZ) | 3:39 |
-| 38 | [Dollar Chills](https://open.spotify.com/track/7KdEhcj5B69l9sVBgnff0o) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloodstreams](https://open.spotify.com/album/5CrFxu32NCoavIYGKZRcuQ) | 2:55 |
+| 38 | [Gebbie Street](https://open.spotify.com/track/02v5ggYAHVdQYMzbfq5Y2Q) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloodstreams](https://open.spotify.com/album/5CrFxu32NCoavIYGKZRcuQ) | 3:55 |
 | 39 | [Play Dead Until You're Dead](https://open.spotify.com/track/44pxIxvtCEQDFAnQ8Mmoje) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloodstreams](https://open.spotify.com/album/5CrFxu32NCoavIYGKZRcuQ) | 4:02 |
 | 40 | [Dumb It Down](https://open.spotify.com/track/3flaoSMm3t1rGv0JChT5pR) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloodstreams](https://open.spotify.com/album/5CrFxu32NCoavIYGKZRcuQ) | 4:36 |
 | 41 | [Cops / Capacity](https://open.spotify.com/track/1yqmcfHazwWohYFsI7pSnP) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloodstreams](https://open.spotify.com/album/5CrFxu32NCoavIYGKZRcuQ) | 2:52 |
 
-Snapshot ID: `Mjc3MjIyMzMsMDAwMDAwMDBjNjBhODExZDI0ZTUwNGVkNTVlNzc2NDk1ZDBlMTFiZQ==`
+Snapshot ID: `Mjc3MjM2OTIsMDAwMDAwMDA2OThkN2E5MzcxZWUyY2ViNWQ4MjJkOTU2YjJkNTVkYg==`

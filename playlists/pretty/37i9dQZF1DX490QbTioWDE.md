@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: La K'onga & Marama.
 
-[Spotify](https://open.spotify.com/user/spotify) - 507,718 likes - 100 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 508,143 likes - 100 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 | 71 | [Castillo de Arena / Me Quieres Olvidar \- En Vivo](https://open.spotify.com/track/1J3RQBT8ST47hEVjQQCNq4) | [El Loco Amato](https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p) | [Grandes Exitos](https://open.spotify.com/album/7bPY6lL00xmDVS4VURDFCl) | 2:58 |
 | 72 | [Que No Le Hago Falta](https://open.spotify.com/track/0Loq4vKgTxRdQqT4fJIk8I) | [El Rejunte](https://open.spotify.com/artist/72tGvtaVlYb6MDEc486udG) | [Que No Le Hago Falta](https://open.spotify.com/album/2vHCWKaLfUxtlVU35XHo7H) | 4:16 |
 | 73 | [Fina](https://open.spotify.com/track/5mwKUdKISoTg2QN8rni0oh) | [Monada](https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD) | [Fina](https://open.spotify.com/album/0e35NJkjAeH0GaUfR9S3nb) | 2:42 |
-| 74 | [Miel](https://open.spotify.com/track/77Q6quYnxwWZg8ESqC1mUf) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [Miel](https://open.spotify.com/album/2mpT7VctDY0tWKhI6qOr3f) | 2:48 |
+| 74 | [A Cuánto Me Quedé](https://open.spotify.com/track/0UQZuEiQtoaNZqIoGhBWeR) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [A Cuánto Me Quedé](https://open.spotify.com/album/0GwTvMjZgh63HJ1ReRw87g) | 3:16 |
 | 75 | [Eran dos locos de amor](https://open.spotify.com/track/5ggd3IXmVD3GM7uHu81K4a) | [Los Reyes del Cuarteto](https://open.spotify.com/artist/7xEiX76imldiwL3joKgoAm) | [Eran dos locos de amor](https://open.spotify.com/album/5zrpSkFRI1dBpTnoY5JmV4) | 2:49 |
 | 76 | [La Bella y la Bestia](https://open.spotify.com/track/71BayRBmRYO3UPK2PxoMvy) | [La Fiesta](https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [La Bella y la Bestia](https://open.spotify.com/album/6yatQdjakC2F3cQm6359CG) | 3:20 |
 | 77 | [La Vagancia Cuartetera](https://open.spotify.com/track/2YaJoA2sjtcfq8oM9CyIri) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [La Mona Jimenez](https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf) | [La Vagancia Cuartetera](https://open.spotify.com/album/3SP1JmVsoWHsHVOpxhMRTB) | 3:31 |
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 | 81 | [Te Felicito](https://open.spotify.com/track/2fFCL1cbivwt9v9jerCgmf) | [Tyago Griffo](https://open.spotify.com/artist/0TQyaoEDvRCU1BiA0VrTcC) | [Te Felicito](https://open.spotify.com/album/4l0209Du1kilXZ4RojUfIJ) | 2:32 |
 | 82 | [La Bachata \- En Vivo](https://open.spotify.com/track/2BTlIPUB2qpfkR8UIulnaa) | [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V) | [La Bachata \(En Vivo\)](https://open.spotify.com/album/2QJIJQriH01UyYkD21Fuds) | 2:14 |
 | 83 | [Perfecto Idiota](https://open.spotify.com/track/59KZHCDC4BNb1K4wu1rBPo) | [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw), [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [Diferente](https://open.spotify.com/album/62CK08DxCnCChEiaNHQaY0) | 4:02 |
-| 84 | [A Cuánto Me Quedé](https://open.spotify.com/track/0UQZuEiQtoaNZqIoGhBWeR) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [A Cuánto Me Quedé](https://open.spotify.com/album/0GwTvMjZgh63HJ1ReRw87g) | 3:16 |
+| 84 | [Miel](https://open.spotify.com/track/77Q6quYnxwWZg8ESqC1mUf) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [Miel](https://open.spotify.com/album/2mpT7VctDY0tWKhI6qOr3f) | 2:48 |
 | 85 | [Tu amor me duele](https://open.spotify.com/track/3HWYzGshvwUxDZyMX5KuVY) | [Claudio Toledo](https://open.spotify.com/artist/2irvIOnNBtm2lPHz9PyUVh) | [Trulala \- Grandes exitos](https://open.spotify.com/album/2fN5IbC3IrIssRB7H9W5Bx) | 3:18 |
 | 86 | [Vuela](https://open.spotify.com/track/49nLdGkkDKFP86DGSCPfna) | [La Fiesta](https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb) | [La Fiesta Es De Primera](https://open.spotify.com/album/72KFF6mZjbIlnO05xpT4tu) | 5:19 |
 | 87 | [Mil Demonios \- En Vivo](https://open.spotify.com/track/5qfgMHgkZBw6EmISVu7MoU) | [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V) | [Hoy Y Siempre \(En Vivo\)](https://open.spotify.com/album/5czuwrgUE6ecGrdPE3NoCI) | 3:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 | 99 | [Dame un Poco Mas](https://open.spotify.com/track/7DClQMEhTG6atticp11xbw) | [Monada](https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD) | [Espectacular Monada](https://open.spotify.com/album/1zR6ffS6SEIPkzRQMroBBo) | 3:47 |
 | 100 | [Enganchados: Botella Tras Botella / La Mejor Versión de Mí / Dueles \(En Vivo\)](https://open.spotify.com/track/67gtUEsB6aTYbh6jjmMYHM) | [Omega](https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK) | [Enganchados: Botella Tras Botella / La Mejor Versión de Mí / Dueles \(En Vivo\)](https://open.spotify.com/album/2nHN7g0WFsxvjK2Uh3HXqo) | 6:57 |
 
-Snapshot ID: `MTY2MzM0MjIzNywwMDAwMDAwMGE3Zjc1MDk4Y2E2M2NmZTkwNDI3M2FhOGFiY2YzMjQ3`
+Snapshot ID: `MTY2MzM0MjIzNywwMDAwMDAwMDJjNDdjOTMwZGFkN2I3YmE1M2QzODNiYjcwZjZkZTMx`

@@ -4,7 +4,7 @@
 
 > Happy vibes for an upbeat morning.
 
-163 songs - 6 hr 46 min - [published](https://open.spotify.com/playlist/1nnM2QjOXgGnhPNCevwIA6)
+164 songs - 6 hr 48 min - [published](https://open.spotify.com/playlist/1nnM2QjOXgGnhPNCevwIA6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,8 @@
 | [Sehnsucht](https://open.spotify.com/track/0RHryrCt4Ocibra3gYkF7v) | [Emma Hoffman](https://open.spotify.com/artist/0Ebn8VPkWUu1WsBPP1WwLl) | [Sehnsucht](https://open.spotify.com/album/5L6OxmJ5Ji42HSZSqoKUhl) | 2:11 | 2021-12-14 |  |
 | [Shu's Sonata](https://open.spotify.com/track/2KOxgVJN5IGm8Of4IARigO) | [Mayumi Sasaki](https://open.spotify.com/artist/3A4RidZHkdgr2FEKZnjnmd) | [Shu's Sonata](https://open.spotify.com/album/16yTf06rnFkS8y0uM6nWPh) | 2:31 | 2022-04-28 |  |
 | [Sichm](https://open.spotify.com/track/6pMJj2gSGimd2tWbBEs28V) | [Aenor](https://open.spotify.com/artist/23P5JvLFlmlLNsi9ntziQD) | [Sichm](https://open.spotify.com/album/6RswTsIjkwCAJogdZRRJrK) | 2:03 | 2021-12-14 | 2022-04-29 |
-| [Simpler Times](https://open.spotify.com/track/710MDsCIXocuZBLwGbdg4G) | [Christopher J\. Richardson](https://open.spotify.com/artist/3z56CNr5ke5G6zUf0FKgAf) | [Piano Music](https://open.spotify.com/album/198J7evKOaky47zE5WGbVj) | 2:21 | 2022-07-20 |  |
+| [Simpler Times](https://open.spotify.com/track/6RTgk5dsupZSeji1jh4zyB) | [Christopher J\. Richardson](https://open.spotify.com/artist/3z56CNr5ke5G6zUf0FKgAf) | [Piano Music](https://open.spotify.com/album/01vBc9RVqwgUpsgI8qRWhY) | 2:21 | 2022-09-13 |  |
+| [Simpler Times](https://open.spotify.com/track/710MDsCIXocuZBLwGbdg4G) | [Christopher J\. Richardson](https://open.spotify.com/artist/3z56CNr5ke5G6zUf0FKgAf) | [Piano Music](https://open.spotify.com/album/198J7evKOaky47zE5WGbVj) | 2:21 | 2022-07-20 | 2022-09-18 |
 | [Simpler Times](https://open.spotify.com/track/2Y5mfhY8iCRSU3jyHxMBFz) | [Christopher James Richardson](https://open.spotify.com/artist/549TBaWWzS9WNOiYT0XHw6), [Christopher J\. Richardson](https://open.spotify.com/artist/3z56CNr5ke5G6zUf0FKgAf) | [Simpler Times](https://open.spotify.com/album/0eHuURQcrJIDvbfy1gruAY) | 2:21 | 2021-12-14 | 2022-07-29 |
 | [Simply Love](https://open.spotify.com/track/5aQ7Lc8KEJG8dsM3Ey2TXe) | [Højsgaard](https://open.spotify.com/artist/5lliVLCizk1905IEorthCG) | [Simply Love](https://open.spotify.com/album/6YfXgEnqI8lHSH6ZCixZMK) | 2:25 | 2022-04-28 |  |
 | [Sol](https://open.spotify.com/track/5Jw3aIOOV0k4xgIELSIz7C) | [June Allen](https://open.spotify.com/artist/6euKOo2L9Z7YcUbw682sfJ) | [Memento Vivere](https://open.spotify.com/album/3hlMxDhwvTsfqw6wMi2VVE) | 2:15 | 2021-12-14 |  |

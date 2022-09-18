@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 
 > The essential beautiful noise: sweet and sour fuzz to warm your heart\. Cover: my bloody valentine
 
-[Spotify](https://open.spotify.com/user/spotify) - 432,546 likes - 143 songs - 11 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 432,788 likes - 143 songs - 11 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 | 72 | [Our Goal to Realise](https://open.spotify.com/track/6msavmTdvB1jthlRJRGuwZ) | [Amusement Parks On Fire](https://open.spotify.com/artist/6l2cddhlFnBmaLiUM4TyTx) | [Our Goal to Realise](https://open.spotify.com/album/4DXAO9RDzvfI2t5j8URSr1) | 3:17 |
 | 73 | [Wax and Wane \- 2005 Remaster](https://open.spotify.com/track/4SkKv1DdU52DJHLNZHZB4t) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [B\-Sides & Rarities](https://open.spotify.com/album/3hBCkMqaYnCmJciEUKqyfC) | 4:09 |
 | 74 | [Mercy Seat](https://open.spotify.com/track/5OY9UsxOhXpCqhAbI5csui) | [Ultra Vivid Scene](https://open.spotify.com/artist/3tW6ylfdDCxcBHqZJjVwrH) | [Ultra Vivid Scene](https://open.spotify.com/album/7LTgeT90u75BlVhweJAC5f) | 4:09 |
-| 75 | [Superbike](https://open.spotify.com/track/2bVGZZxrkTDmm3UgduHNyh) | [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Anak Ko](https://open.spotify.com/album/6ufXh8u7kIJE5EiutbOjyj) | 3:53 |
-| 76 | [Lip](https://open.spotify.com/track/2sztc6YzQE9GrPHBBWR8Gv) | [His Name Is Alive](https://open.spotify.com/artist/4LMQqMZYbFJgvxBOzshZVL) | [Mouth By Mouth](https://open.spotify.com/album/7bff3Hql4bR05CPNvC0JJs) | 2:59 |
+| 75 | [Lip](https://open.spotify.com/track/2sztc6YzQE9GrPHBBWR8Gv) | [His Name Is Alive](https://open.spotify.com/artist/4LMQqMZYbFJgvxBOzshZVL) | [Mouth By Mouth](https://open.spotify.com/album/7bff3Hql4bR05CPNvC0JJs) | 2:59 |
+| 76 | [Superbike](https://open.spotify.com/track/2bVGZZxrkTDmm3UgduHNyh) | [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Anak Ko](https://open.spotify.com/album/6ufXh8u7kIJE5EiutbOjyj) | 3:53 |
 | 77 | [Elizabeth Colour Wheel](https://open.spotify.com/track/3CAuQjMgfYJrqSehDwP0nl) | [Lilys](https://open.spotify.com/artist/2IG2KZZiXaYygnWGCC7uEj) | [In the Presence of Nothing](https://open.spotify.com/album/2RWhRlMW0F8urFf7yRLXNP) | 6:58 |
 | 78 | [Ride](https://open.spotify.com/track/0oxoJu918tKRk4lVweP4WS) | [The Dandy Warhols](https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod) | [Dandys Rule OK](https://open.spotify.com/album/5IYhB6cNGiCogm6tcMRhBW) | 4:09 |
 | 79 | [May](https://open.spotify.com/track/3hVlV66Z3PfvXwIYOTeZdi) | [Life On Venus](https://open.spotify.com/artist/72cBWuYjXkWxEXqZcoH5kE) | [Encounters](https://open.spotify.com/album/0xeUhrPDwkyFJzOAADD6Bf) | 3:40 |
@@ -126,8 +126,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 | 116 | [Slow Burner](https://open.spotify.com/track/5wqU8tT3obRDTmqLp1D0Qy) | [Almighty Mighty](https://open.spotify.com/artist/5YxvZqiTuoUgqEuXTDhM0e) | [Slow Burner](https://open.spotify.com/album/2ea3sE9QzbjsvD4P3G1OmY) | 5:18 |
 | 117 | [Donuts](https://open.spotify.com/track/5ClerqCRCZ4K7smUKYYg9e) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [KIN](https://open.spotify.com/album/20VOMBfnJraeZ0BQ4aPuqd) | 6:23 |
 | 118 | [Heavy Water / I'd Rather Be Sleeping](https://open.spotify.com/track/2lKvOmRdGrctk2AMPcKhjn) | [Nothing](https://open.spotify.com/artist/6wgWGtoBlNofKC6Z1i4yyW) | [Heavy Water / I'd Rather Be Sleeping](https://open.spotify.com/album/5vMsogprlxHsjreQ57Zz8d) | 4:08 |
-| 119 | [Landing](https://open.spotify.com/track/6HFea6OugOVC4BPgCkDF2d) | [Fragile Animals](https://open.spotify.com/artist/3gyJTWjf5CdT9tuQVAcwq7) | [Landing](https://open.spotify.com/album/2dsjW7n8LYL2i0IcZQ1zN8) | 3:52 |
-| 120 | [Dive](https://open.spotify.com/track/3fBK91aUmHgoPavxj1Zgw7) | [The Soft Cavalry](https://open.spotify.com/artist/4e9FOKctNAC68ii4bR9ucZ) | [The Soft Cavalry](https://open.spotify.com/album/6Psa9gTLJgpYfoxw2XVOXJ) | 4:15 |
+| 119 | [Dive](https://open.spotify.com/track/3fBK91aUmHgoPavxj1Zgw7) | [The Soft Cavalry](https://open.spotify.com/artist/4e9FOKctNAC68ii4bR9ucZ) | [The Soft Cavalry](https://open.spotify.com/album/6Psa9gTLJgpYfoxw2XVOXJ) | 4:15 |
+| 120 | [Landing](https://open.spotify.com/track/6HFea6OugOVC4BPgCkDF2d) | [Fragile Animals](https://open.spotify.com/artist/3gyJTWjf5CdT9tuQVAcwq7) | [Landing](https://open.spotify.com/album/2dsjW7n8LYL2i0IcZQ1zN8) | 3:52 |
 | 121 | [Passing Thing](https://open.spotify.com/track/2BTHDJlCQb689vMYU8f8sd) | [Froth](https://open.spotify.com/artist/1KtOqfwCbclwg7bgvsUJ5U) | [Outside \(briefly\)](https://open.spotify.com/album/4M2Au76G2kkk7jGELIy50T) | 4:51 |
 | 122 | [Chlorine Dream](https://open.spotify.com/track/1XfydTBaDChT4J9K4bng5L) | [Spirea X](https://open.spotify.com/artist/05x3cffNhKts722Xv2WQWb) | [Chlorine Dream](https://open.spotify.com/album/2NzL8CkuLaV683ItjSIKZ1) | 4:24 |
 | 123 | [Telling Tales](https://open.spotify.com/track/3AfZWVkAf2ipi68BMVvfwq) | [Song Sung](https://open.spotify.com/artist/5wl0vAlpR2OblEaX9zhiom) | [Telling Tales](https://open.spotify.com/album/2cLkNGHnApbLqGc4xMc8kg) | 4:12 |
@@ -152,4 +152,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 | 142 | [](https://open.spotify.com/track/2b2S9w60neGvaXD70DDDkT) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/7EeBLXTesaRmxWoQ2sAMVo) | 0:00 |
 | 143 | [We’re Not Done \(End Title\)](https://open.spotify.com/track/1RBGSieBtIBvojx80RwOfZ) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [KIN](https://open.spotify.com/album/20VOMBfnJraeZ0BQ4aPuqd) | 4:14 |
 
-Snapshot ID: `MTY0MTg2OTc1MywwMDAwMDAwMDc5YmU5MjIwODM5N2Y2MzBhMWUwMWQ2ZTYxZTk0MWNi`
+Snapshot ID: `MTY0MTg2OTc1MywwMDAwMDAwMGFiZDVkM2M0ZDQzY2IzNDlmNGQxNjFjMjI5ZjlhOTJk`

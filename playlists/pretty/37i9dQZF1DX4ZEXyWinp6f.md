@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZEXyWinp6f.md) - [plain]
 
 > Fold time and space through sound to reach imaginary universes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,512 likes - 75 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,618 likes - 75 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZEXyWinp6f.md) - [plain]
 | 50 | [Vision](https://open.spotify.com/track/2zVr2mii2iTDTag39yjf3b) | [Pyramid](https://open.spotify.com/artist/3aSTe6gzR3XChH1wcLfhmD) | [Atmosphere](https://open.spotify.com/album/1Qefhd4hwDiSjtooxAjdhM) | 3:10 |
 | 51 | [Brazil](https://open.spotify.com/track/1QMxUV937BtqTNwZCJMZK3) | [Luke Abbott](https://open.spotify.com/artist/3rVAnydRNnaQr24T3reJZg) | [Holkham Drones](https://open.spotify.com/album/2x1yXwFPvn4ssDc5vavFEi) | 4:53 |
 | 52 | [Pressure](https://open.spotify.com/track/1m4VTEIOiIMEeidzm9z4Zt) | [58918012](https://open.spotify.com/artist/3SocIm1Z2zkHRvPCibwQus) | [Lost Album](https://open.spotify.com/album/3dQUZig6JH9AP8kj96lpNv) | 9:36 |
-| 53 | [Hell Riders](https://open.spotify.com/track/4WoJjW20CcWFt5S4PVBycE) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [DSVII](https://open.spotify.com/album/1euK7GgNJmBprlctpGtDC5) | 6:47 |
-| 54 | [Detroit People Mover](https://open.spotify.com/track/4FypYdsW2YXwrA8uJADsGk) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Be Up A Hello](https://open.spotify.com/album/1zcfHeYC0sEQs3D3fCAr4m) | 4:27 |
+| 53 | [Detroit People Mover](https://open.spotify.com/track/4FypYdsW2YXwrA8uJADsGk) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Be Up A Hello](https://open.spotify.com/album/1zcfHeYC0sEQs3D3fCAr4m) | 4:27 |
+| 54 | [Hell Riders](https://open.spotify.com/track/4WoJjW20CcWFt5S4PVBycE) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [DSVII](https://open.spotify.com/album/1euK7GgNJmBprlctpGtDC5) | 6:47 |
 | 55 | [4T Recordings](https://open.spotify.com/track/4Apw7hpz0mMcYeNhNZq3ml) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [4T Recordings](https://open.spotify.com/album/1TP8nDCTDUaVGFr6lfQ61r) | 3:17 |
 | 56 | [Life Forms](https://open.spotify.com/track/3lmGK3UelDNbXwTCbvVKrN) | [The Future Sound of XYZ](https://open.spotify.com/artist/3gqmTTI15kx2XMhxdfxwyY) | [Life Forms](https://open.spotify.com/album/4MXUqLOKxcTFkHgF7ChgdR) | 2:30 |
 | 57 | [Phaedra \- Remastered 2018](https://open.spotify.com/track/6Qx7IRv8VmRTppmnks6fDm) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [Phaedra \(Deluxe Version\)](https://open.spotify.com/album/6wugThEUTAa6BdI2hsqm5n) | 17:39 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZEXyWinp6f.md) - [plain]
 | 68 | [Pluto's First Popstar \(Outro\)](https://open.spotify.com/track/5MeaFcLEcsSkcud6tQ2q9L) | [Eli Raybon](https://open.spotify.com/artist/1P6Xty8gqi0gNcqwt2R8Vq) | [Supertoys](https://open.spotify.com/album/50DNnceylCFUrQv5pmjYxm) | 2:28 |
 | 69 | [Kagen Sound](https://open.spotify.com/track/65CcRPKQEQcT3bGHNfk2v9) | [Luke Abbott](https://open.spotify.com/artist/3rVAnydRNnaQr24T3reJZg) | [Translate](https://open.spotify.com/album/0Sn4h3jqTAWbVvoFHqG2Od) | 3:07 |
 | 70 | [The Runaround](https://open.spotify.com/track/7uapTtBbij6ydhnU7BaerU) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Lowell Brams](https://open.spotify.com/artist/1hCuN7zeXgcoLq6Ys1UOe4) | [Aporia](https://open.spotify.com/album/1juVCzBeCE5Nzx0iqXZ8kU) | 3:35 |
-| 71 | [Kill Scene](https://open.spotify.com/track/43OTFEQhNQTs2twZdn8jjt) | [JOYFULTALK](https://open.spotify.com/artist/5obEaCVVWNwEaw3k9I0dlW) | [Plurality Trip](https://open.spotify.com/album/5uBKGNG8GjtU8UP7I6pfZZ) | 3:54 |
-| 72 | [Mono No Aware 1.1](https://open.spotify.com/track/6iGNMNHHbsdSh0f14q3jcS) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB), [Lawrence English](https://open.spotify.com/artist/0V1EXFlRy3LeOKB07YJucI) | [Selva Oscura](https://open.spotify.com/album/1BbS1N3W9MnpKuiAn26tSo) | 5:39 |
-| 73 | [Two Heads in a Frame Looking at Something Beautiful](https://open.spotify.com/track/6D4oXT9CNYfzdCZg8mYUZf) | [J\. Albert](https://open.spotify.com/artist/0tjC8HMcPx5o2ZYsWw5BNK) | [Young American Artist](https://open.spotify.com/album/7uO5lLWW2Nv3G01Yt7lpGP) | 3:52 |
+| 71 | [Two Heads in a Frame Looking at Something Beautiful](https://open.spotify.com/track/6D4oXT9CNYfzdCZg8mYUZf) | [J\. Albert](https://open.spotify.com/artist/0tjC8HMcPx5o2ZYsWw5BNK) | [Young American Artist](https://open.spotify.com/album/7uO5lLWW2Nv3G01Yt7lpGP) | 3:52 |
+| 72 | [Kill Scene](https://open.spotify.com/track/43OTFEQhNQTs2twZdn8jjt) | [JOYFULTALK](https://open.spotify.com/artist/5obEaCVVWNwEaw3k9I0dlW) | [Plurality Trip](https://open.spotify.com/album/5uBKGNG8GjtU8UP7I6pfZZ) | 3:54 |
+| 73 | [Mono No Aware 1.1](https://open.spotify.com/track/6iGNMNHHbsdSh0f14q3jcS) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB), [Lawrence English](https://open.spotify.com/artist/0V1EXFlRy3LeOKB07YJucI) | [Selva Oscura](https://open.spotify.com/album/1BbS1N3W9MnpKuiAn26tSo) | 5:39 |
 | 74 | [Butoh baby](https://open.spotify.com/track/3L7HGdt8alejIzzVKWsk3j) | [Oliver Coates](https://open.spotify.com/artist/2jToqK8MU3rtt0DYrgCIXM) | [skins n slime](https://open.spotify.com/album/6ZdXLyJH5kdDayoZL4peVQ) | 3:16 |
 | 75 | [Haynes Manor](https://open.spotify.com/track/1kcv0g6lPgGBGOPUSofwxq) | [Rich Ruth](https://open.spotify.com/artist/3fzSa1ee522CjcS8Fdo7dl) | [Calming Signals](https://open.spotify.com/album/3N2laGpXXnE29bfqpERjsR) | 5:06 |
 
-Snapshot ID: `MTY2MTkyMDYwMiwwMDAwMDAwMGUzYzczMjkxNmQ0ZDE1M2NlMDYyMDgxYjU1OGEyNmEx`
+Snapshot ID: `MTY2MTkyMDYwMiwwMDAwMDAwMDdlNDEwOTExNTgzNDU3NGRiZmU1ODY2MzNiN2Y2NTgw`

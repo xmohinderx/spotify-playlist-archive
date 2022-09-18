@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NsREGkRuCe.md) - [plain]
 
 > Turn traffic stops into jam sessions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,791 likes - 80 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,844 likes - 80 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NsREGkRuCe.md) - [plain]
 | 26 | [WeWe](https://open.spotify.com/track/6vy5gmpM2yuLAhDRtGOtPw) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [The Second Wave Deluxe](https://open.spotify.com/album/6dvqARQzWnVbGym9dEWw4Y) | 2:53 |
 | 27 | [emiliana](https://open.spotify.com/track/6lZ5p6VTbZ2ZvnsdTlLv7I) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Emiliana](https://open.spotify.com/album/4LTckGxBOI0fEkliC3zbIp) | 2:44 |
 | 28 | [Bad Girl](https://open.spotify.com/track/6nF87DDkdHKIIOM5Qu4SoL) | [Idahams](https://open.spotify.com/artist/6jPVueiSr0OHgVetuTuv5O), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Bad Girl](https://open.spotify.com/album/77zGPXkrQ8NnXLMPtWYtnM) | 3:14 |
-| 29 | [Power \(Remember Who You Are\) \- From The Flipper’s Skate Heist Short Film](https://open.spotify.com/track/7vQYsdVQMbB8d8DSxtHSgr) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [Power \(Remember Who You Are\) \[From The Flipper’s Skate Heist Short Film\]](https://open.spotify.com/album/0U8rhl69WPOU67DqFhjPaq) | 3:25 |
+| 29 | [Power \(Remember Who You Are\) \- From The Flipper’s Skate Heist Short Film](https://open.spotify.com/track/7vQYsdVQMbB8d8DSxtHSgr) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Power \(Remember Who You Are\) \[From The Flipper’s Skate Heist Short Film\]](https://open.spotify.com/album/0U8rhl69WPOU67DqFhjPaq) | 3:25 |
 | 30 | [Calm Down](https://open.spotify.com/track/3BnDvpeuGOj21Ir2aVEtQo) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses](https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG) | 3:39 |
 | 31 | [Grace](https://open.spotify.com/track/36pcZx6k9RDQedQHuGfvIo) | [Goya Menor](https://open.spotify.com/artist/4TWOviIGJMWH79dyovGkaX), [Ladé](https://open.spotify.com/artist/43Nm4QEBSVkJYcYhsN2Bd1) | [Grace](https://open.spotify.com/album/0ULfBwzLPqu4NTSZ4sYjkv) | 3:19 |
 | 32 | [MOVE \(feat\. Grace Jones & Tems\)](https://open.spotify.com/track/5YLGlPYkZBDXieMwzVve7g) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:23 |

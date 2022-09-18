@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 
 > Ouça as novidades e sucessos do Pop Cristão\. Foto: Leidy Murilho
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,466 likes - 80 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,540 likes - 80 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -30,4 +30,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2urtMA.md) - [plain]
 | 20 | [Uncover](https://open.spotify.com/track/0Ee742cXNq3mVu6itU590B) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Satisfaction](https://open.spotify.com/album/0m3hGU2BkS3t3zBdavqmNg) | 3:33 |
 | 21 | [Yer' Song](https://open.spotify.com/track/3ue1pNiUCSLZrND9sEEjSB) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [12th House Rock](https://open.spotify.com/album/5YHS5GXWuW5IuXwGqET6t0) | 5:36 |
 
-Snapshot ID: `Mjc3MjIyMzMsMDAwMDAwMDAzOTFhN2FjOTE0ZmNhMmM5ZWYxM2MzZDcxY2IxNmQ2Mg==`
+Snapshot ID: `Mjc3MjM2OTIsMDAwMDAwMDBhZmIyMmVhZWEzNzlkMDg0OWVhZTZiZDgyZGU0MzM0Zg==`

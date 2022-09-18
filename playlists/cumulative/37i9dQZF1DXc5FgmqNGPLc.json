@@ -661,10 +661,36 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 429466,
       "name": "Heart Song - Live",
       "url": "https://open.spotify.com/track/0DeDD3oOTOVpNjMusuSZDd"
+    },
+    {
+      "album": {
+        "name": "Some Funkyness",
+        "url": "https://open.spotify.com/album/0yRE0UMYhstY8Yh1bf1Dr7"
+      },
+      "artists": [
+        {
+          "name": "S\u00f8ren Lee",
+          "url": "https://open.spotify.com/artist/6GyDK2ZWQXmx7sb3ltOvgJ"
+        },
+        {
+          "name": "Niclas Campagnol",
+          "url": "https://open.spotify.com/artist/1VqIpsJWDzAFIxWXCGCLuL"
+        },
+        {
+          "name": "Linley Marthe",
+          "url": "https://open.spotify.com/artist/1gn2Mn6Rn5RD29DcdE8CLo"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429466,
+      "name": "Heart Song - Live",
+      "url": "https://open.spotify.com/track/15masYlUIQwqPAHpiE2DmN"
     },
     {
       "album": {
@@ -1738,6 +1764,24 @@
     },
     {
       "album": {
+        "name": "That's What Happened 1982-1985: The Bootleg Series, Vol. 7",
+        "url": "https://open.spotify.com/album/2mwZpszzkV5EzChG04oDWv"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405425,
+      "name": "What It Is - Live at Theatre St-Denis, Montreal, Canada - July 7, 1983",
+      "url": "https://open.spotify.com/track/19SAIkqkaDzQsaX1h0Jmam"
+    },
+    {
+      "album": {
         "name": "What It Is (Live In Montreal - July 7, 1983)",
         "url": "https://open.spotify.com/album/5iNscjGQmMygfbiWXJlpkx"
       },
@@ -1749,7 +1793,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 405425,
       "name": "What It Is - Live In Montreal - July 7, 1983",
       "url": "https://open.spotify.com/track/5daKUVUo5FVbXv6TF6Ic5D"

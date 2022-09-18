@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHPp93Fnfds.md) - [plain]
 
 > Son jóvenes, guerreras y cool\. Foto: Delfina Campos
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,201 likes - 80 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,207 likes - 80 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHPp93Fnfds.md) - [plain]
 | 26 | [Déjame Dejarte Atrás](https://open.spotify.com/track/6pB2v73sVw1NEm8g959jPT) | [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl) | [Déjame Dejarte Atrás](https://open.spotify.com/album/6ovEup64IXcmtlZIHYzAVx) | 3:24 |
 | 27 | [1312 \(Portarme Mal\)](https://open.spotify.com/track/3jlJPXVY5FXYklQOQCHER9) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [1312 \(Portarme Mal\)](https://open.spotify.com/album/42w7E2GNUhaLGrpaFFsary) | 3:38 |
 | 28 | [Camino Que Pasa](https://open.spotify.com/track/5qrVNXz5lCpjPnjAagWl6U) | [Sandra Bernardo](https://open.spotify.com/artist/5JKn780F1w5aPxnMZEmA5H), [Natalia Doco](https://open.spotify.com/artist/6UeIDlkYcSRGg4aLX1d4TN) | [Camino Que Pasa](https://open.spotify.com/album/2A8gutTW0ZnIgz4mX7P1Zl) | 3:00 |
-| 29 | [Viaje](https://open.spotify.com/track/0bCQXiRvn9Qb9gU3mV3b1b) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a) | [Viaje](https://open.spotify.com/album/3V41AmHEPSjD2w9A26yV2E) | 3:15 |
-| 30 | [berlin U5](https://open.spotify.com/track/4B94rIXDAhoFq1MWDDAyJp) | [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu) | [berlin U5](https://open.spotify.com/album/145cZ7jNfbeD7T2GbQrYQX) | 3:39 |
-| 31 | [Ay, Amor ♥︎](https://open.spotify.com/track/1ZgKtZeMCBkT8inB4HKAtS) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Ay, Amor](https://open.spotify.com/album/5XjIM5OdxYD9EfxxfGRvvk) | 3:33 |
+| 29 | [berlin U5](https://open.spotify.com/track/4B94rIXDAhoFq1MWDDAyJp) | [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu) | [berlin U5](https://open.spotify.com/album/145cZ7jNfbeD7T2GbQrYQX) | 3:39 |
+| 30 | [Ay, Amor ♥︎](https://open.spotify.com/track/1ZgKtZeMCBkT8inB4HKAtS) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Ay, Amor](https://open.spotify.com/album/5XjIM5OdxYD9EfxxfGRvvk) | 3:33 |
+| 31 | [Viaje](https://open.spotify.com/track/0bCQXiRvn9Qb9gU3mV3b1b) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a) | [Viaje](https://open.spotify.com/album/3V41AmHEPSjD2w9A26yV2E) | 3:15 |
 | 32 | [Helado de Mango](https://open.spotify.com/track/6Ic36Kj94nFDc2NHsqvo59) | [Naïa Valdez](https://open.spotify.com/artist/1WE5kYBn5jgJyzXroKVktA) | [Helado de Mango](https://open.spotify.com/album/0aWD6AMbVemB4o2jJhiBub) | 3:28 |
 | 33 | [Otro Lado](https://open.spotify.com/track/5CW1lIQkzMj5SjFZgM40iE) | [Rosario Ortega](https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Otro Lado](https://open.spotify.com/album/4lZqShlTketzCTHWnUMX1K) | 3:57 |
 | 34 | [¿Qué?](https://open.spotify.com/track/25bwcWBGh9ox4CR1ttJeHU) | [La Bien Querida](https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6), [Diego Ibáñez](https://open.spotify.com/artist/6nWCIaOTHhqgbkxPcj4AeJ) | [¿Qué?](https://open.spotify.com/album/5DoubGLMbpvAYcd6DDz5Nz) | 3:36 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHPp93Fnfds.md) - [plain]
 | 79 | [Paseito](https://open.spotify.com/track/7CB0KxaEjHbYcbzf1jnTVD) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [Humo](https://open.spotify.com/album/2aVf2kvguncX8TGNEIIwxB) | 4:53 |
 | 80 | [Casi Extraños](https://open.spotify.com/track/7naPTVNgsAApx8BflqUd7m) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [Casi Extraños](https://open.spotify.com/album/5WXpA7EHSaSDjOWg45CetC) | 3:47 |
 
-Snapshot ID: `MTY2MjY5MjQwMCwwMDAwMDAwMDA2MTA3OTgxZDU5Y2ZiMDU1NzM2N2YwMjExM2QwMDY4`
+Snapshot ID: `MTY2MjY5MjQwMCwwMDAwMDAwMDJjNDA1OGQyMTkwM2JhMmJiMTNhYWZhNTE3YjA1NWVm`

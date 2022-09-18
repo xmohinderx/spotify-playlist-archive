@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 1970s.",
-  "num_followers": 341479,
+  "num_followers": 342063,
   "original_name": "Soft 70s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMwNTkwMCwwMDAwMDAwMGEzYmFiMzM2YTVkNmU3ZjI5NGIzOTNhNWFjZWE1ZGI0",
+  "snapshot_id": "MTY2MDMwNTkwMCwwMDAwMDAwMDFkYWNiMzRjODc0NTMyOTM5ZGY4MjMxNTkxNGFjZjRl",
   "tracks": [
     {
       "added_at": "2022-08-12 12:05:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-08-12 12:05:00",
       "album": {
-        "name": "Desperado (2013 Remaster)",
-        "url": "https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 213712,
-      "name": "Desperado - 2013 Remaster",
-      "url": "https://open.spotify.com/track/2TjnCxxQRYn56Ye8gkUKiW"
-    },
-    {
-      "added_at": "2022-08-12 12:05:00",
-      "album": {
         "name": "Nights Are Forever",
         "url": "https://open.spotify.com/album/1lAMkHFW0e51taMt34LUQ2"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 159106,
       "name": "I'd Really Love to See You Tonight",
       "url": "https://open.spotify.com/track/2r008pcfVYc0zgQvSRqUJE"
+    },
+    {
+      "added_at": "2022-08-12 12:05:00",
+      "album": {
+        "name": "Desperado (2013 Remaster)",
+        "url": "https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "duration_ms": 213712,
+      "name": "Desperado - 2013 Remaster",
+      "url": "https://open.spotify.com/track/2TjnCxxQRYn56Ye8gkUKiW"
     },
     {
       "added_at": "2022-08-12 12:05:00",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2022-08-12 12:05:00",
       "album": {
-        "name": "Gets Next to You",
-        "url": "https://open.spotify.com/album/6A2T77SSF5TUglshWSQAiC"
-      },
-      "artists": [
-        {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
-        }
-      ],
-      "duration_ms": 172320,
-      "name": "Tired of Being Alone",
-      "url": "https://open.spotify.com/track/10vkYRKw6Jjr7try1ir50G"
-    },
-    {
-      "added_at": "2022-08-12 12:05:00",
-      "album": {
         "name": "Rocky Mountain High",
         "url": "https://open.spotify.com/album/2gEurk31djZjI3P3SY8ZcC"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 283640,
       "name": "Rocky Mountain High",
       "url": "https://open.spotify.com/track/1ne9wOtDF2jM6Cm8WBkaER"
+    },
+    {
+      "added_at": "2022-08-12 12:05:00",
+      "album": {
+        "name": "Gets Next to You",
+        "url": "https://open.spotify.com/album/6A2T77SSF5TUglshWSQAiC"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "duration_ms": 172320,
+      "name": "Tired of Being Alone",
+      "url": "https://open.spotify.com/track/10vkYRKw6Jjr7try1ir50G"
     },
     {
       "added_at": "2022-08-12 12:05:00",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2022-08-12 12:05:00",
       "album": {
-        "name": "Life Beyond L.A.",
-        "url": "https://open.spotify.com/album/5CyhDBUqDk2XMptRFsj7c2"
-      },
-      "artists": [
-        {
-          "name": "Ambrosia",
-          "url": "https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw"
-        }
-      ],
-      "duration_ms": 283400,
-      "name": "How Much I Feel",
-      "url": "https://open.spotify.com/track/3GVhCuS4BRxCTvVj4Cmc8w"
-    },
-    {
-      "added_at": "2022-08-12 12:05:00",
-      "album": {
         "name": "Destroyer",
         "url": "https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 165666,
       "name": "Beth",
       "url": "https://open.spotify.com/track/1cPXOzyeZauSAsT1yy7aBp"
+    },
+    {
+      "added_at": "2022-08-12 12:05:00",
+      "album": {
+        "name": "Life Beyond L.A.",
+        "url": "https://open.spotify.com/album/5CyhDBUqDk2XMptRFsj7c2"
+      },
+      "artists": [
+        {
+          "name": "Ambrosia",
+          "url": "https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw"
+        }
+      ],
+      "duration_ms": 283400,
+      "name": "How Much I Feel",
+      "url": "https://open.spotify.com/track/3GVhCuS4BRxCTvVj4Cmc8w"
     },
     {
       "added_at": "2022-08-12 12:05:00",
@@ -2227,22 +2227,6 @@
     {
       "added_at": "2022-08-12 12:05:00",
       "album": {
-        "name": "All 'N All",
-        "url": "https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 277413,
-      "name": "Fantasy",
-      "url": "https://open.spotify.com/track/2GH5jo15wbTv1Ll7zXEzSg"
-    },
-    {
-      "added_at": "2022-08-12 12:05:00",
-      "album": {
         "name": "Diana & Marvin",
         "url": "https://open.spotify.com/album/1jbl32APgmqzDulRIqLQwC"
       },
@@ -2259,6 +2243,22 @@
       "duration_ms": 190440,
       "name": "You Are Everything",
       "url": "https://open.spotify.com/track/1SjqD5q2WvpjOFIklP7sxD"
+    },
+    {
+      "added_at": "2022-08-12 12:05:00",
+      "album": {
+        "name": "All 'N All",
+        "url": "https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 277413,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/2GH5jo15wbTv1Ll7zXEzSg"
     },
     {
       "added_at": "2022-08-12 12:05:00",

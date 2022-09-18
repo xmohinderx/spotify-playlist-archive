@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 
 > A collection of soul, rnb and gospel flavored takes on the most beloved Christmas songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,363 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,365 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 | 43 | [What Child Is This?](https://open.spotify.com/track/4GbMsN2WTx28nGEXjPmLf2) | [Vanessa Williams](https://open.spotify.com/artist/75L9s8KVrhCNtBUkZFnDFW) | [Star Bright](https://open.spotify.com/album/3UJ532uGsZY4ChVxjN72Df) | 3:52 |
 | 44 | [Let It Snow](https://open.spotify.com/track/0xRAkJaeQ9K705z2M8gPdb) | [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC), [Joe Sample](https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE) | [Christmas Soul 2020](https://open.spotify.com/album/2HV3jydrtlPP5QcltzokYd) | 2:34 |
 | 45 | [Hallelujah](https://open.spotify.com/track/0szwRYpWJcn58dzB8ZPSxp) | [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1) | [Christmas After Midnight](https://open.spotify.com/album/6o4pzR1SeFzgVtUcAyTDJ2) | 4:23 |
-| 46 | [Wonderful Christmastime \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4MidM1ux8fwIWEM01eX6AC) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg) | [Spotify Singles \- Holiday](https://open.spotify.com/album/50RXkvDaqBXrh7JGUuuCyB) | 3:06 |
-| 47 | [Christmas Morning \[from Still Home For The Holidays \(An R&B Christmas Album\)\]](https://open.spotify.com/track/6TyCWrr4aFxYSlMJI4fpV2) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Christmas Morning \[from Still Home For The Holidays \(An R&B Christmas Album\)\]](https://open.spotify.com/album/07MckVJxmPcyuDecdRE4GV) | 3:26 |
-| 48 | [Winter Wonderland](https://open.spotify.com/track/4PtLsREXfoclvux4y7CFZC) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Christmas With Babyface](https://open.spotify.com/album/7pFCwYQFqLkxovAZvYpbKK) | 3:13 |
-| 49 | [Angels We Have Heard On High](https://open.spotify.com/track/16WDbS7dNvKGCMoS8tlZLx) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Chrisette Michele](https://open.spotify.com/artist/3YJMzGjAm245zwJooY7PEj) | [Motown Christmas](https://open.spotify.com/album/7J5fdT8gIfcxJ4CV7wH73w) | 4:27 |
+| 46 | [Angels We Have Heard On High](https://open.spotify.com/track/16WDbS7dNvKGCMoS8tlZLx) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Chrisette Michele](https://open.spotify.com/artist/3YJMzGjAm245zwJooY7PEj) | [Motown Christmas](https://open.spotify.com/album/7J5fdT8gIfcxJ4CV7wH73w) | 4:27 |
+| 47 | [Wonderful Christmastime \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4MidM1ux8fwIWEM01eX6AC) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg) | [Spotify Singles \- Holiday](https://open.spotify.com/album/50RXkvDaqBXrh7JGUuuCyB) | 3:06 |
+| 48 | [Christmas Morning \[from Still Home For The Holidays \(An R&B Christmas Album\)\]](https://open.spotify.com/track/6TyCWrr4aFxYSlMJI4fpV2) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Christmas Morning \[from Still Home For The Holidays \(An R&B Christmas Album\)\]](https://open.spotify.com/album/07MckVJxmPcyuDecdRE4GV) | 3:26 |
+| 49 | [Winter Wonderland](https://open.spotify.com/track/4PtLsREXfoclvux4y7CFZC) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Christmas With Babyface](https://open.spotify.com/album/7pFCwYQFqLkxovAZvYpbKK) | 3:13 |
 | 50 | [Give Love On Christmas Day](https://open.spotify.com/track/1ep7czKo3gvwkZ2cyuqwFc) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [It's Christmas](https://open.spotify.com/album/7ne0Kc9Ky1QdfNLb3FfOuj) | 3:54 |
 
-Snapshot ID: `MTYzOTU4OTQyOSwwMDAwMDAwMGEyYjgwYmFjMzc1ZGIzNjlkZTMxNzk4MmRiNzRmYTkx`
+Snapshot ID: `MTYzOTU4OTQyOSwwMDAwMDAwMDVjMTU1ZDU1OGJhM2E4Njg4ZjNjMDcxYjA2OTcxMjFj`

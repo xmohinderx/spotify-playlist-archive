@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CLCA8.md) - [plain]
 
 > This is Tom Petty and the Heartbreakers\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,008 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,006 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,16 +40,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CLCA8.md) - [plain]
 | 30 | [Dreamville](https://open.spotify.com/track/0zG6crJiKpE4IIxSOtZXZs) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [The Last DJ](https://open.spotify.com/album/3lS4vVIHslBZgLituEQz5i) | 3:47 |
 | 31 | [California](https://open.spotify.com/track/3oSl41e3rfJXanYvIufE23) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [She's the One \(Songs and Music from the Motion Picture\)](https://open.spotify.com/album/0FVwC6leDmim0EO68PjYto) | 2:39 |
 | 32 | [Dogs On The Run](https://open.spotify.com/track/4YbxoqB6YZlwOTRLC4ml7q) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Southern Accents](https://open.spotify.com/album/2uslG8GJwri1ewdlK2Uuv4) | 3:40 |
-| 33 | [Asshole](https://open.spotify.com/track/3PmB1b6IIlXyJFcB7pzsE9) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Angel Dream \(Songs and Music From The Motion Picture "She’s The One"\)](https://open.spotify.com/album/0sX76SUnbgcKtdZcJ9kJwd) | 3:11 |
-| 34 | [All Or Nothin'](https://open.spotify.com/track/1yVRnCEy5qXzwwaWaq4NB9) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Into The Great Wide Open](https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd) | 4:05 |
+| 33 | [All Or Nothin'](https://open.spotify.com/track/1yVRnCEy5qXzwwaWaq4NB9) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Into The Great Wide Open](https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd) | 4:05 |
+| 34 | [Asshole](https://open.spotify.com/track/3PmB1b6IIlXyJFcB7pzsE9) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Angel Dream \(Songs and Music From The Motion Picture "She’s The One"\)](https://open.spotify.com/album/0sX76SUnbgcKtdZcJ9kJwd) | 3:11 |
 | 35 | [Wooden Heart \- 2015 Remaster](https://open.spotify.com/track/58ahUnsoJHF2fc2c0nHQS2) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Nobody's Children](https://open.spotify.com/album/3xcXoGZnv9c6ubjkF9Ehio) | 2:09 |
 | 36 | [All You Can Carry](https://open.spotify.com/track/757plEIHl29OU5hOMRvJnH) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Hypnotic Eye](https://open.spotify.com/album/55dSc0Ry199sq95DwnHFFa) | 4:34 |
-| 37 | [Louisiana Rain](https://open.spotify.com/track/5dfg1Piej2rQ0jwmwxo3kF) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Damn The Torpedoes \(Deluxe Edition\)](https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b) | 5:52 |
-| 38 | [The Dark Of The Sun](https://open.spotify.com/track/0QXX3wBM2quMca45ptpjfZ) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Into The Great Wide Open](https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd) | 3:22 |
+| 37 | [The Dark Of The Sun](https://open.spotify.com/track/0QXX3wBM2quMca45ptpjfZ) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Into The Great Wide Open](https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd) | 3:22 |
+| 38 | [Louisiana Rain](https://open.spotify.com/track/5dfg1Piej2rQ0jwmwxo3kF) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Damn The Torpedoes \(Deluxe Edition\)](https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b) | 5:52 |
 | 39 | [The Last DJ](https://open.spotify.com/track/0uUy3WK0JtTqhSFikqprgz) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [The Last DJ](https://open.spotify.com/album/3lS4vVIHslBZgLituEQz5i) | 3:47 |
 | 40 | [Fault Lines](https://open.spotify.com/track/6EbwtNHHupaiR2tCTNwDFz) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Hypnotic Eye](https://open.spotify.com/album/55dSc0Ry199sq95DwnHFFa) | 4:27 |
-| 41 | [Green Onions \- Live](https://open.spotify.com/track/5Na9CFg7vuqPBQfXoQy61q) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [The Live Anthology](https://open.spotify.com/album/1O804nfr6T6BvswqLqd3Lh) | 4:19 |
-| 42 | [Two Gunslingers](https://open.spotify.com/track/46kCzTrwMMjUh4By11wvxc) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Into The Great Wide Open](https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd) | 3:09 |
+| 41 | [Two Gunslingers](https://open.spotify.com/track/46kCzTrwMMjUh4By11wvxc) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Into The Great Wide Open](https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd) | 3:09 |
+| 42 | [Green Onions \- Live](https://open.spotify.com/track/5Na9CFg7vuqPBQfXoQy61q) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [The Live Anthology](https://open.spotify.com/album/1O804nfr6T6BvswqLqd3Lh) | 4:19 |
 | 43 | [Thirteen Days](https://open.spotify.com/track/5khakanIneOQaelzgiG7LK) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Angel Dream \(Songs and Music From The Motion Picture "She’s The One"\)](https://open.spotify.com/album/0sX76SUnbgcKtdZcJ9kJwd) | 3:35 |
 | 44 | [Change Of Heart](https://open.spotify.com/track/0jVm8tMbpsDN7goNU6NyzL) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Long After Dark](https://open.spotify.com/album/2ztfSQWXGq5RKDItE9E3oQ) | 3:18 |
 | 45 | [Anything That's Rock 'n' Roll](https://open.spotify.com/track/2AX3BnBmNwR2lHZhkKvmXJ) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Tom Petty & The Heartbreakers](https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi) | 2:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CLCA8.md) - [plain]
 | 49 | [Rebels](https://open.spotify.com/track/1QN5cKoYlEkJ4aMBfqDqXe) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Southern Accents](https://open.spotify.com/album/2uslG8GJwri1ewdlK2Uuv4) | 5:21 |
 | 50 | [U Get Me High](https://open.spotify.com/track/2rlhuKi3o7oySloqWw5TUa) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Hypnotic Eye](https://open.spotify.com/album/55dSc0Ry199sq95DwnHFFa) | 4:11 |
 
-Snapshot ID: `Mjc3MjIyMzMsMDAwMDAwMDAwZTNiNGIyMDQwYTYwYWVlYjU1MDlmOGRkNzViNjhhZA==`
+Snapshot ID: `Mjc3MjM2OTIsMDAwMDAwMDBmMTI4NjJjMmUyOGU5ZWE4OTNhZDc2ZTYwNGRhNGU3YQ==`

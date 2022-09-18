@@ -1,12 +1,12 @@
 {
   "description": "A collision of punk, metal, hardcore and everything in between. Cover: Drug Church",
-  "num_followers": 430009,
+  "num_followers": 430042,
   "original_name": "Crash Course",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzgwOTE0NCwwMDAwMDAwMDdkZWRmODFkZWM4NmQ0NDBjZTYyM2NhNjBkOGFmMzA1",
+  "snapshot_id": "MTY1NzgwOTE0NCwwMDAwMDAwMDg5ZmVmNTQ0MTViYTYwMGIwNGE3NDZhMDAzZWExMDcy",
   "tracks": [
     {
       "added_at": "2022-04-01 16:19:20",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
-        "name": "The Love You Let Too Close",
-        "url": "https://open.spotify.com/album/6hMVzepzCKSs0LRJ8KWjt3"
-      },
-      "artists": [
-        {
-          "name": "Thousand Below",
-          "url": "https://open.spotify.com/artist/0iU3WDujScAofxcK2EMypN"
-        }
-      ],
-      "duration_ms": 202025,
-      "name": "Tradition",
-      "url": "https://open.spotify.com/track/6lrXcmmm0Rsg1K5FdkZE0U"
-    },
-    {
-      "added_at": "2022-04-01 16:19:20",
-      "album": {
         "name": "11 Minutes",
         "url": "https://open.spotify.com/album/35BbA1D0ehsQOYWZCjcAsO"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 184000,
       "name": "11 Minutes",
       "url": "https://open.spotify.com/track/3fU5UTgRMz50UEJGA7WJHa"
+    },
+    {
+      "added_at": "2022-04-01 16:19:20",
+      "album": {
+        "name": "The Love You Let Too Close",
+        "url": "https://open.spotify.com/album/6hMVzepzCKSs0LRJ8KWjt3"
+      },
+      "artists": [
+        {
+          "name": "Thousand Below",
+          "url": "https://open.spotify.com/artist/0iU3WDujScAofxcK2EMypN"
+        }
+      ],
+      "duration_ms": 202025,
+      "name": "Tradition",
+      "url": "https://open.spotify.com/track/6lrXcmmm0Rsg1K5FdkZE0U"
     },
     {
       "added_at": "2022-04-01 16:19:20",

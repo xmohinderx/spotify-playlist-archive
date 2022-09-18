@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTW0xDxScH.md) - [plain]
 
 > Where everything is lovely and snuggly <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 597,300 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 597,451 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,9 +86,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTW0xDxScH.md) - [plain]
 | 76 | [Grass Is Greener](https://open.spotify.com/track/2rNVmfuyXAfmvZfg8O9D92) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Half The City](https://open.spotify.com/album/6BN0KczNzSrfmKoQzd6lMS) | 4:14 |
 | 77 | [Like a Ship](https://open.spotify.com/track/2g6aIBdprkYt5mNFjY6HAz) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Keite Young](https://open.spotify.com/artist/2euNKUC2iR9HRDVjLbhNdn) | [Like a Ship](https://open.spotify.com/album/3FEpG0GuwgCz8wNBkmQY7I) | 5:53 |
 | 78 | [Far Out](https://open.spotify.com/track/3FBisbTYZcpmPPAjnXE7w9) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Collections From The Whiteout](https://open.spotify.com/album/09P40BHcaue9iF4QasXMTK) | 4:18 |
-| 79 | [True Love](https://open.spotify.com/track/77YpxagBmCQV9cVzSi284F) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [True Love](https://open.spotify.com/album/1rUuIrTj6F1PHo3v9Vlbl6) | 4:11 |
-| 80 | [Rae Street](https://open.spotify.com/track/4DtQQ82VSTgYfsCBSxvK9k) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Things Take Time, Take Time](https://open.spotify.com/album/3InSvUCYvJ5XWg6PegGNCv) | 4:31 |
-| 81 | [Lotta Love](https://open.spotify.com/track/4xPoGj1cAY9v5AGardly8e) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ), [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [Lotta Love](https://open.spotify.com/album/5x4bbGHyxTYhEnhXXmN2OE) | 3:17 |
+| 79 | [Lotta Love](https://open.spotify.com/track/4xPoGj1cAY9v5AGardly8e) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ), [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [Lotta Love](https://open.spotify.com/album/5x4bbGHyxTYhEnhXXmN2OE) | 3:17 |
+| 80 | [True Love](https://open.spotify.com/track/77YpxagBmCQV9cVzSi284F) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [True Love](https://open.spotify.com/album/1rUuIrTj6F1PHo3v9Vlbl6) | 4:11 |
+| 81 | [Rae Street](https://open.spotify.com/track/4DtQQ82VSTgYfsCBSxvK9k) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Things Take Time, Take Time](https://open.spotify.com/album/3InSvUCYvJ5XWg6PegGNCv) | 4:31 |
 | 82 | [Until You Came into My Life](https://open.spotify.com/track/2kyFN7sfxOgNLkxw66c1Ij) | [Ann Peebles](https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB) | [I Can't Stand the Rain](https://open.spotify.com/album/67Sjm7EwrWbnnyojmhP4KL) | 3:12 |
 | 83 | [Fruits of My Labor](https://open.spotify.com/track/6qWQRmO2za1TpP0tHYLhXw) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Saint Cloud +3](https://open.spotify.com/album/7kIdOOz6yIvEP6Z5RjhrCw) | 5:05 |
 | 84 | [Sorry I Am](https://open.spotify.com/track/2XbtAowMkaRMktJFII7h0Y) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Sorry I Am](https://open.spotify.com/album/1OckLS0LTnxNRWqGJ8ojoy) | 4:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTW0xDxScH.md) - [plain]
 | 99 | [Lost](https://open.spotify.com/track/25JOOXgL3bVkBzjzGvcLoE) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Sour Lemon](https://open.spotify.com/album/2gl1YvNVNAd1DdV3r7rOQ0) | 3:56 |
 | 100 | [Movie](https://open.spotify.com/track/6pcED19DVN2Coh4tmmgHH6) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Movie](https://open.spotify.com/album/7l6WtR1PQw7lw2K1uwd5Jv) | 5:57 |
 
-Snapshot ID: `MTY2MjE0MzE2OCwwMDAwMDAwMDljNDZkYWE5MjFjZDFhMDFhM2NmZWM4YWQ5NzZmMWU4`
+Snapshot ID: `MTY2MjE0MzE2OCwwMDAwMDAwMDJjNDdiOWRiNjM1ZTBmYjAxNmJjZTVmMzNjZTgxNmM4`

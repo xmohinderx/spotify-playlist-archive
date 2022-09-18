@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTn6daQVbOa.md) - [plain]
 
 > Mellow songs from the 1970s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 341,479 likes - 150 songs - 9 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,063 likes - 150 songs - 9 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTn6daQVbOa.md) - [plain]
 | 41 | [Wild Horses \- 2009 Mix](https://open.spotify.com/track/52dm9op3rbfAkc1LGXgipW) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Sticky Fingers \(Remastered\)](https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz) | 5:41 |
 | 42 | [Bridge Over Troubled Water](https://open.spotify.com/track/6l8EbYRtQMgKOyc1gcDHF9) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bridge Over Troubled Water](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) | 4:53 |
 | 43 | [Without You](https://open.spotify.com/track/6MrILERJLA3Jcq0E9poZsp) | [Harry Nilsson](https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX) | [Nilsson Schmilsson](https://open.spotify.com/album/3EfpOFKjotrMQTFTnxrXaB) | 3:21 |
-| 44 | [Desperado \- 2013 Remaster](https://open.spotify.com/track/2TjnCxxQRYn56Ye8gkUKiW) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Desperado \(2013 Remaster\)](https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM) | 3:33 |
-| 45 | [I'd Really Love to See You Tonight](https://open.spotify.com/track/2r008pcfVYc0zgQvSRqUJE) | [England Dan & John Ford Coley](https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO) | [Nights Are Forever](https://open.spotify.com/album/1lAMkHFW0e51taMt34LUQ2) | 2:39 |
+| 44 | [I'd Really Love to See You Tonight](https://open.spotify.com/track/2r008pcfVYc0zgQvSRqUJE) | [England Dan & John Ford Coley](https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO) | [Nights Are Forever](https://open.spotify.com/album/1lAMkHFW0e51taMt34LUQ2) | 2:39 |
+| 45 | [Desperado \- 2013 Remaster](https://open.spotify.com/track/2TjnCxxQRYn56Ye8gkUKiW) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Desperado \(2013 Remaster\)](https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM) | 3:33 |
 | 46 | [Fernando](https://open.spotify.com/track/4BM8yJ0PzBi2ZewpMTOxtx) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Arrival](https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9) | 4:12 |
 | 47 | [Time in a Bottle](https://open.spotify.com/track/561F1zqRwGPCTMRsLsXVtL) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [You Don't Mess Around With Jim](https://open.spotify.com/album/3L9sVl5T7UpFK6tNeEiXdy) | 2:26 |
 | 48 | [It's Too Late](https://open.spotify.com/track/12q3V8ShACq2PSWINMc2rC) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 3:53 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTn6daQVbOa.md) - [plain]
 | 62 | [Do That To Me One More Time](https://open.spotify.com/track/0m4jVVZrsv0bLkAr1uM6UG) | [Captain & Tennille](https://open.spotify.com/artist/7BEfMxbaqx6dOpbtlEqScm) | [Make Your Move](https://open.spotify.com/album/6J8P3xCsQr5BPoEoukStSk) | 4:16 |
 | 63 | [The Rose](https://open.spotify.com/track/562JrM9b7jiu8LgzV62x3o) | [Bette Midler](https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W) | [The Rose](https://open.spotify.com/album/6PXrZg7FMAGm1rnu6widwU) | 3:41 |
 | 64 | [We're All Alone](https://open.spotify.com/track/2QDnRMFfnes9DUWc6HgixI) | [Rita Coolidge](https://open.spotify.com/artist/1vnIL4DMlivP55ioM6KitW) | [Anytime..\. Anywhere](https://open.spotify.com/album/3IcnPxM10hCMb6W2gCapAY) | 3:40 |
-| 65 | [Tired of Being Alone](https://open.spotify.com/track/10vkYRKw6Jjr7try1ir50G) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Gets Next to You](https://open.spotify.com/album/6A2T77SSF5TUglshWSQAiC) | 2:52 |
-| 66 | [Rocky Mountain High](https://open.spotify.com/track/1ne9wOtDF2jM6Cm8WBkaER) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [Rocky Mountain High](https://open.spotify.com/album/2gEurk31djZjI3P3SY8ZcC) | 4:43 |
+| 65 | [Rocky Mountain High](https://open.spotify.com/track/1ne9wOtDF2jM6Cm8WBkaER) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [Rocky Mountain High](https://open.spotify.com/album/2gEurk31djZjI3P3SY8ZcC) | 4:43 |
+| 66 | [Tired of Being Alone](https://open.spotify.com/track/10vkYRKw6Jjr7try1ir50G) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Gets Next to You](https://open.spotify.com/album/6A2T77SSF5TUglshWSQAiC) | 2:52 |
 | 67 | [Yesterday Once More](https://open.spotify.com/track/3wM6RTAnF7IQpMFd7b9ZcL) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [Now & Then \(Reissue\)](https://open.spotify.com/album/0A7WaXRUZ2fkHtUYfeoF73) | 3:53 |
 | 68 | [I'll Be There](https://open.spotify.com/track/5RdhBLmB4DyFHLglRrfx63) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Third Album](https://open.spotify.com/album/5d6X8oegJmu9XKn9UBAswG) | 3:57 |
 | 69 | [Across The Universe \- Remastered 2009](https://open.spotify.com/track/4dkoqJrP0L8FXftrMZongF) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Let It Be \(Remastered\)](https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5) | 3:48 |
@@ -111,8 +111,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTn6daQVbOa.md) - [plain]
 | 101 | [Streets of London](https://open.spotify.com/track/0P49pJa288tm8gKbFcofn9) | [Ralph McTell](https://open.spotify.com/artist/6uQnHzEj8hj0UZCKjBvTaG) | [Spiral Staircase \(Expanded Edition\)](https://open.spotify.com/album/4g0FobFyVjCK1evYB6A4jY) | 4:08 |
 | 102 | [Don't give up on us](https://open.spotify.com/track/23IWhAK0cYRwnBT5EE8i3u) | [David Soul](https://open.spotify.com/artist/2eFkm34OMSYRUwP4RAtXaT) | [David Soul](https://open.spotify.com/album/3bK8cxPBLUFkeBeoqzoWtx) | 3:38 |
 | 103 | [Cool Change \- Remastered](https://open.spotify.com/track/1RaUxP6LHVAgbmLOn2naLl) | [Little River Band](https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg) | [First Under The Wire \(2010 Remaster\)](https://open.spotify.com/album/6vCT1BZLicHHNWc0McAWb2) | 5:13 |
-| 104 | [How Much I Feel](https://open.spotify.com/track/3GVhCuS4BRxCTvVj4Cmc8w) | [Ambrosia](https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw) | [Life Beyond L.A.](https://open.spotify.com/album/5CyhDBUqDk2XMptRFsj7c2) | 4:43 |
-| 105 | [Beth](https://open.spotify.com/track/1cPXOzyeZauSAsT1yy7aBp) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Destroyer](https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0) | 2:45 |
+| 104 | [Beth](https://open.spotify.com/track/1cPXOzyeZauSAsT1yy7aBp) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Destroyer](https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0) | 2:45 |
+| 105 | [How Much I Feel](https://open.spotify.com/track/3GVhCuS4BRxCTvVj4Cmc8w) | [Ambrosia](https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw) | [Life Beyond L.A.](https://open.spotify.com/album/5CyhDBUqDk2XMptRFsj7c2) | 4:43 |
 | 106 | [Sunshine On My Shoulders](https://open.spotify.com/track/3m8lTUL5GxGUNSaycI77ND) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [Poems, Prayers and Promises](https://open.spotify.com/album/78FZXQkBGm2IOPrE9f64sU) | 5:11 |
 | 107 | [Evergreen \(Love Theme from, "A Star Is Born"\)](https://open.spotify.com/track/2IcqY68BxP1ONPi3ME6aje) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6) | [A Star Is Born](https://open.spotify.com/album/435mubtZvkoTYIPXWy3seP) | 3:04 |
 | 108 | [How Can You Mend A Broken Heart](https://open.spotify.com/track/1jy0RbDHyBMTupSdc98XbG) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Trafalgar](https://open.spotify.com/album/2FHiXBmtRn9fuTRyRHWcnV) | 3:57 |
@@ -145,8 +145,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTn6daQVbOa.md) - [plain]
 | 135 | [I'll Never Fall in Love Again](https://open.spotify.com/track/1MHgV79MSYE6ymNlGa3bRY) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp) | [I'll Never Fall in Love Again](https://open.spotify.com/album/1gVMm1XwIz3JC2AHxAovtW) | 2:54 |
 | 136 | [Superstar](https://open.spotify.com/track/1Gv6f7m5ZNDcInxGA8PsLS) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [Carpenters](https://open.spotify.com/album/3Br6amYT7sC9y3uvHkfRDI) | 3:51 |
 | 137 | [The Name Of The Game](https://open.spotify.com/track/1lDo24S34NvI1pAg7Oxldc) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [The Album](https://open.spotify.com/album/5fLOHW1UXr1cJrnXiU3FBt) | 4:51 |
-| 138 | [Fantasy](https://open.spotify.com/track/2GH5jo15wbTv1Ll7zXEzSg) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [All 'N All](https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh) | 4:37 |
-| 139 | [You Are Everything](https://open.spotify.com/track/1SjqD5q2WvpjOFIklP7sxD) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl), [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Diana & Marvin](https://open.spotify.com/album/1jbl32APgmqzDulRIqLQwC) | 3:10 |
+| 138 | [You Are Everything](https://open.spotify.com/track/1SjqD5q2WvpjOFIklP7sxD) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl), [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Diana & Marvin](https://open.spotify.com/album/1jbl32APgmqzDulRIqLQwC) | 3:10 |
+| 139 | [Fantasy](https://open.spotify.com/track/2GH5jo15wbTv1Ll7zXEzSg) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [All 'N All](https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh) | 4:37 |
 | 140 | [Neither One Of Us \(Wants To Be The First To Say Goodbye\)](https://open.spotify.com/track/3QgSJ9CqgLPk9B4xLdwLrS) | [Gladys Knight & The Pips](https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1) | [Neither One Of Us](https://open.spotify.com/album/7GNfj26cSJZEWvS822NELd) | 4:24 |
 | 141 | [Handy Man](https://open.spotify.com/track/70aUjWZmd9F3bRSsR4DwAJ) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [JT](https://open.spotify.com/album/0Pbc9Jq12a47mQ1z9yIuhn) | 3:16 |
 | 142 | [For All We Know \- From "Lovers And Other Strangers" Soundtrack](https://open.spotify.com/track/5llfFWv1tH61nENrsjg3KZ) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [Carpenters](https://open.spotify.com/album/3Br6amYT7sC9y3uvHkfRDI) | 2:38 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTn6daQVbOa.md) - [plain]
 | 149 | [The Closer I Get to You](https://open.spotify.com/track/1UdoFJDUHWu4oWH5JlwmDP) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA), [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Blue Lights in the Basement](https://open.spotify.com/album/4n3wZOUmVSSkxXvSeu94AN) | 4:40 |
 | 150 | [Song Sung Blue](https://open.spotify.com/track/57KfogSy3eKuk5JHLKwCJv) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes) | [All\-Time Greatest Hits](https://open.spotify.com/album/6sdXGlrywMohGMVg5gIqwp) | 3:05 |
 
-Snapshot ID: `MTY2MDMwNTkwMCwwMDAwMDAwMGEzYmFiMzM2YTVkNmU3ZjI5NGIzOTNhNWFjZWE1ZGI0`
+Snapshot ID: `MTY2MDMwNTkwMCwwMDAwMDAwMDFkYWNiMzRjODc0NTMyOTM5ZGY4MjMxNTkxNGFjZjRl`

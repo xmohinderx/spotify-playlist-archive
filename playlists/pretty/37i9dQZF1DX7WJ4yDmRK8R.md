@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 
 > This is the best of ska, new and classic\. Cover: The Interrupters
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,143 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,230 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 55 | [Life Won't Wait](https://open.spotify.com/track/3vXBoGZnanFF0NSQ5Of8UT) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Life Won't Wait](https://open.spotify.com/album/410JU10vru3pFk7f7vA94E) | 3:48 |
 | 56 | [I Bet They're Asleep In New York](https://open.spotify.com/track/1xxJeDob3k09GfNsDFm1tc) | [Call Me Malcolm](https://open.spotify.com/artist/6WZUGL4ioInlABxJ0GAPAU) | [Me, Myself and Something Else](https://open.spotify.com/album/4Ce185NtrqYpLPwOkK5r1b) | 4:34 |
 | 57 | [Things Change](https://open.spotify.com/track/6Z2q9VN8XJnaMs2SF6LYIk) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Sound the Alarm](https://open.spotify.com/album/3NbdWdzUtgijqhFldEXD61) | 2:48 |
-| 58 | [Cali](https://open.spotify.com/track/75pC1KbHcJ9Wmrkdb53tGl) | [Tropidelic](https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl) | [Here in The Heights](https://open.spotify.com/album/2lGYvbR1ovYdsZKb2lTiq0) | 3:43 |
-| 59 | [Random I Am](https://open.spotify.com/track/2XvrtH6BIVyCr6tLhOvIAt) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [For Monkeys](https://open.spotify.com/album/3J7l2zrhkK3OxqxPpLcYxE) | 2:40 |
+| 58 | [Random I Am](https://open.spotify.com/track/2XvrtH6BIVyCr6tLhOvIAt) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [For Monkeys](https://open.spotify.com/album/3J7l2zrhkK3OxqxPpLcYxE) | 2:40 |
+| 59 | [Cali](https://open.spotify.com/track/75pC1KbHcJ9Wmrkdb53tGl) | [Tropidelic](https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl) | [Here in The Heights](https://open.spotify.com/album/2lGYvbR1ovYdsZKb2lTiq0) | 3:43 |
 | 60 | [Marchez](https://open.spotify.com/track/6p58iYVehQwqvMKPgSENyE) | [The Offenders](https://open.spotify.com/artist/3S1FzJNl5DweiBE4UE0uob) | [Class of Nations](https://open.spotify.com/album/0j2TrwJjrxrhg07Orrmmj1) | 3:11 |
 | 61 | [Ruby Cumulous](https://open.spotify.com/track/5MOKQJ6HMqpEoD04eqVFyB) | [Rx Bandits](https://open.spotify.com/artist/47bGK00zHXcGlUWfrE0dvi) | [Gemini, Her Majesty](https://open.spotify.com/album/5dYI3qu8vNj3K4qEtWhJVF) | 4:51 |
 | 62 | [On & On & On](https://open.spotify.com/track/66UiVrGhYHHyfJlE1g8y61) | [Catch 22](https://open.spotify.com/artist/1xgA0hENxpykh3AxlMBjlT) | [Keasbey Nights](https://open.spotify.com/album/2sFPd4EWqI4x6RsaeMqA8a) | 3:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 99 | [Upside Down](https://open.spotify.com/track/56SbrhQBAmYHEQWT5bNmxj) | [Popes Of Chillitown](https://open.spotify.com/artist/52TSqCyQNF1RMmTzew0soN) | [Work Hard, Play Hard, See You in the Graveyard](https://open.spotify.com/album/7gQDqeLcyp8Xfxs7YZFZmz) | 2:39 |
 | 100 | [Morbid Obsessions](https://open.spotify.com/track/22gBwKtpb1qgBNS7l5feMh) | [We Are The Union](https://open.spotify.com/artist/4AAXAVOZ3fw7M8ILLrKLvs) | [Ordinary Life](https://open.spotify.com/album/6gbRX2quEui9NXZu5ogvz9) | 3:02 |
 
-Snapshot ID: `MTY1NDg3Mzg2NCwwMDAwMDAwMDY1MGRhOTk5NmNlMjEwYWVmNzE5NDVhOTIxZTA1NTVk`
+Snapshot ID: `MTY1NDg3Mzg2NCwwMDAwMDAwMDg4MjI3ZjU0ODQ2NjU2MjU3YTQ4YjMxYTQ0ZGQ0OGNm`

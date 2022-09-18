@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HSZzYIDgBB.md) - [plain]
 
 > Los nuevos sonidos y fusiones de música Alternativa Latina, con Pahua en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,951 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,989 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HSZzYIDgBB.md) - [plain]
 | 91 | [wepa \(Eggglub Remix\)](https://open.spotify.com/track/6jVVQxzirfORNRNUhzsJjl) | [chicarica](https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN) | [wepa \(Eggglub Remix\)](https://open.spotify.com/album/3X4m5g2WPBlQ3e1qzjCHub) | 2:44 |
 | 92 | [Collar de Perlas](https://open.spotify.com/track/3RJ2wUsUieoXwsCGHBsPCl) | [MONTESCO](https://open.spotify.com/artist/2V3eQlSV1eYIQXWD1t9sWb) | [Collar de Perlas](https://open.spotify.com/album/0OcjkwJ6Xr9KkhlL8lnoSM) | 4:29 |
 | 93 | [Plata y Coral](https://open.spotify.com/track/2Dp8xi4bBcOQK3FmvpWrNR) | [Centavrvs](https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo) | [Plata y Coral](https://open.spotify.com/album/1Pe9A9g7Ec1L0e7djWa9SP) | 4:00 |
-| 94 | [Aguacero](https://open.spotify.com/track/0fiSZRmFK4iP1w6ZJRKAVG) | [BuenRostro](https://open.spotify.com/artist/2aFFKR6cGWux6f8G5RafHm) | [Aguacero](https://open.spotify.com/album/1Ex8LdVGuQV0TfLd9znmOW) | 3:55 |
-| 95 | [Miel de Aguacate](https://open.spotify.com/track/0G2lWPAEC9FQcd7qe8RLHi) | [Bicho Blanco](https://open.spotify.com/artist/2Rzw8cwEVujjCYNhGFLRcw) | [Miel de Aguacate](https://open.spotify.com/album/0t1z8oNlfre67u72xPFygQ) | 3:57 |
+| 94 | [Miel de Aguacate](https://open.spotify.com/track/0G2lWPAEC9FQcd7qe8RLHi) | [Bicho Blanco](https://open.spotify.com/artist/2Rzw8cwEVujjCYNhGFLRcw) | [Miel de Aguacate](https://open.spotify.com/album/0t1z8oNlfre67u72xPFygQ) | 3:57 |
+| 95 | [Aguacero](https://open.spotify.com/track/0fiSZRmFK4iP1w6ZJRKAVG) | [BuenRostro](https://open.spotify.com/artist/2aFFKR6cGWux6f8G5RafHm) | [Aguacero](https://open.spotify.com/album/1Ex8LdVGuQV0TfLd9znmOW) | 3:55 |
 | 96 | [Vayayó \- Jiony Remix](https://open.spotify.com/track/63Ey7CXax01hC8niuvTVhE) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [Ofrenda Remixes](https://open.spotify.com/album/1IZY8qRezmtg1ftavo78iA) | 3:21 |
 | 97 | [Paraguaya \- ANRMAL \- Live in México](https://open.spotify.com/track/6hqyN0cQeL25DreIYsl1Dn) | [Juana Molina](https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3) | [ANRMAL \(Live in México\)](https://open.spotify.com/album/5VqtBF9WgdqMaCnW0IVoho) | 3:43 |
 | 98 | [A Los Arboles \(feat\. Raag\)](https://open.spotify.com/track/22zFpd7tQthAeefRmxIxac) | [Valentina Marinkovic](https://open.spotify.com/artist/0XGcjQMRjxUa3QQxmxa4el), [Raag](https://open.spotify.com/artist/17TlDRAcjM6AW38ayDz5eF) | [Los Tiempos Inciertos \(feat\. Raag\)](https://open.spotify.com/album/2js6vsGGCBlLpdrkRVcfJK) | 4:57 |
 | 99 | [Clandestina \- Spotify Singles](https://open.spotify.com/track/1Oie9uASbo83OrEkZ2whEM) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Spotify Singles](https://open.spotify.com/album/1KFVMgFxBDhf1fprYdbxHl) | 3:29 |
 | 100 | [Sal de Maras](https://open.spotify.com/track/73C1hN8AcfPfrsdd0MwGEb) | [Martin Guerra](https://open.spotify.com/artist/5d5STgzsguF60wZiZeT9MM) | [Temporada de Pesca](https://open.spotify.com/album/05yxfuVNg4swKUEiJSqd4O) | 4:22 |
 
-Snapshot ID: `MTY2MzMwMzk0OSwwMDAwMDAwMGM0ZDUxMzE4MTMwYjU2MWNiMTBjMDJkODU5Y2MzODg3`
+Snapshot ID: `MTY2MzMwMzk0OSwwMDAwMDAwMDZiNjJhZDQ0YjQyZjk0NTc0MTAxMzBhYWIwMGQ1ODQx`

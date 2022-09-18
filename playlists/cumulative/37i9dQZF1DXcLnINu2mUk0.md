@@ -4,7 +4,7 @@
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Kappa Jotta.
 
-103 songs - 5 hr 52 min - [published](https://open.spotify.com/playlist/0ZcjSUxcyp6vwIHuLPj7q0)
+105 songs - 5 hr 59 min - [published](https://open.spotify.com/playlist/0ZcjSUxcyp6vwIHuLPj7q0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Borboletas](https://open.spotify.com/track/3AroFQ5v6wHUOqwpGZw3OW) | [Gama WNTD](https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD) | [Borboletas](https://open.spotify.com/album/7hJsoRAoXKqdkiTMEBLgJq) | 3:24 | 2022-07-07 | 2022-07-29 |
 | [Break It](https://open.spotify.com/track/05vnos9Hfj27gKeReNWDNF) | [mishlawi](https://open.spotify.com/artist/27zRRhF2K0ai7JQxgAOZMF) | [Break It](https://open.spotify.com/album/2VGFyPuCNtXM9Y87rVW8Kq) | 2:24 | 2022-07-07 |  |
 | [Carta](https://open.spotify.com/track/3wkkrO3yKnqbC8XePMGMXD) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [DREYA](https://open.spotify.com/artist/34waUKLMZKUmfyRpWf4D38) | [Carta](https://open.spotify.com/album/5ianhNvoxI4UlVnCT7Hyav) | 2:33 | 2022-07-07 |  |
+| [Chakra Sacro](https://open.spotify.com/track/1odGLuCnWaAnODMu7rbjwr) | [AMAURA](https://open.spotify.com/artist/5DrNU0zLTxAAvoiLzftD8l) | [Chakra Sacro](https://open.spotify.com/album/1Bw2eHlvZON8dCx9bn8o8R) | 3:40 | 2022-09-16 |  |
 | [Chega P'ra Lá](https://open.spotify.com/track/7h9zNCAa8KLld9mHamzeGG) | [Hugo Casaca](https://open.spotify.com/artist/0Y8q7atymYLh7p9k4qiYe1) | [Chega P'ra Lá](https://open.spotify.com/album/4efLnTaK16TYzuCJv4BHA2) | 2:38 | 2022-08-11 | 2022-09-09 |
 | [Colina](https://open.spotify.com/track/6A3miATI6lLCFORxUDTRJp) | [Puro L](https://open.spotify.com/artist/2qGDFd5cXDkCsP20UpBXQ5) | [Colina](https://open.spotify.com/album/4ivAzZJlYOkXaARdzi3bdx) | 3:45 | 2022-08-18 | 2022-09-02 |
 | [Como Tu](https://open.spotify.com/track/2gqAMjrQUZxdYzCBhp9X86) | [Deli KC](https://open.spotify.com/artist/4KXgWpeZGnRJJD8yoRQYFz), [BND AJ](https://open.spotify.com/artist/5Ddq6MWmIENLxdwu5v4cvy) | [Como Tu](https://open.spotify.com/album/03Lr0zZfF1ZtWjdgRykjbl) | 3:42 | 2022-07-07 | 2022-07-28 |
@@ -67,18 +68,19 @@
 | [Morangos Com Açúcar](https://open.spotify.com/track/4SVkRtBTe3ygcqkcjeJul8) | [N\. Drew](https://open.spotify.com/artist/50bzchBpkgpIza1IRvVdW5) | [Morangos Com Açúcar](https://open.spotify.com/album/3lJHN9oCC1GP9W9DGflLHz) | 3:03 | 2022-09-16 |  |
 | [Moves](https://open.spotify.com/track/6Qd0m5xN4ngZvHdyy1SMVy) | [Cíntia](https://open.spotify.com/artist/4WqTcvQjAIpyRqnWX6jRmU) | [Moves](https://open.spotify.com/album/53U31iP9TMufcyKtWHabAh) | 3:41 | 2022-07-07 | 2022-08-12 |
 | [Moça](https://open.spotify.com/track/57rx7d5tagl2wOWzj3eWJc) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Moça](https://open.spotify.com/album/4FLzhhnUwKwZHLGSTaX4vz) | 3:00 | 2022-07-07 |  |
-| [Mulata](https://open.spotify.com/track/3CkDBgPMjBmNfBLbFSEXZq) | [MTR](https://open.spotify.com/artist/6rZXI4D21z8wF4zacGg4P2) | [Mulata](https://open.spotify.com/album/5r5xWUDtPtW8BSxndYvPnN) | 2:13 | 2022-09-16 |  |
+| [Mulata](https://open.spotify.com/track/3CkDBgPMjBmNfBLbFSEXZq) | [MTR](https://open.spotify.com/artist/6rZXI4D21z8wF4zacGg4P2) | [Mulata](https://open.spotify.com/album/5r5xWUDtPtW8BSxndYvPnN) | 2:13 | 2022-09-16 | 2022-09-18 |
 | [My Boo](https://open.spotify.com/track/7oykBwi0pFz0MdeuAVod3W) | [Atim](https://open.spotify.com/artist/6iFLWK7YxKQc9r5WPdoyJr) | [My Boo](https://open.spotify.com/album/5tqOg08UvlOlGKuCGXe3Q7) | 2:34 | 2022-07-07 | 2022-08-19 |
 | [NA NA NA \(feat\. Agir\)](https://open.spotify.com/track/4fDWhaNWTNHGI0SGsm9tvF) | [Karma](https://open.spotify.com/artist/4dy4hTb8rfqlxr4s2m6YJq), [Agir](https://open.spotify.com/artist/6CDebPALpa0iwJyx0IgnaC) | [NA NA NA \(feat\. Agir\)](https://open.spotify.com/album/4rG2ahHCoc3BW4OSn4nCFS) | 3:07 | 2022-09-16 |  |
 | [Nada a Esconder](https://open.spotify.com/track/6MrbmTRF9s1GF2ONK5tXzX) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [Nada a Esconder](https://open.spotify.com/album/3Xr91r7bFgPNZcdgoJEtuj) | 3:38 | 2022-07-07 |  |
 | [No Stress No Money](https://open.spotify.com/track/0RyfhIcs0AQwwXHoqrSjcg) | [Cíntia](https://open.spotify.com/artist/4WqTcvQjAIpyRqnWX6jRmU) | [No Stress No Money](https://open.spotify.com/album/21XZSV4v4PA8cDsaUyip0l) | 2:57 | 2022-08-04 | 2022-09-02 |
 | [Nossa História](https://open.spotify.com/track/0FMhIO3swGDiXrxEwX7JFh) | [Wayn Dior](https://open.spotify.com/artist/6XyLWVAcLW4CczaRsArj8n) | [Nossa História](https://open.spotify.com/album/6C9301eC7ZSUcIGJMUyOfu) | 3:33 | 2022-09-16 |  |
-| [Notas de 100](https://open.spotify.com/track/0HCEeojvXwak86NZRWX6S6) | [SilverMic](https://open.spotify.com/artist/4N3GOpYONtbrmzOV3ZXbH8) | [Tumtum](https://open.spotify.com/album/2Lkicqej5xP9GyWlI89h93) | 1:45 | 2022-09-16 |  |
+| [Notas de 100](https://open.spotify.com/track/0HCEeojvXwak86NZRWX6S6) | [SilverMic](https://open.spotify.com/artist/4N3GOpYONtbrmzOV3ZXbH8) | [Tumtum](https://open.spotify.com/album/2Lkicqej5xP9GyWlI89h93) | 1:45 | 2022-09-16 | 2022-09-18 |
 | [Nu Ta Txiga La](https://open.spotify.com/track/3oi9YkcoEbb0B0LpvT1xPM) | [DreNaz](https://open.spotify.com/artist/5urWzy2mamyT5sMTE5H00O) | [Nu Ta Txiga La](https://open.spotify.com/album/7x85yvxeZjbBFT1UzYpZWU) | 2:54 | 2022-08-04 | 2022-09-02 |
 | [Não Falo Nada](https://open.spotify.com/track/344G8K622EI1rYTPfgjhEx) | [Rennan da Penha](https://open.spotify.com/artist/7ecRwFks8F2vYad383BkKf), [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n), [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3) | [Não Falo Nada](https://open.spotify.com/album/5ZA4uNOsiWN7j62XRFjN1Y) | 3:15 | 2022-07-07 | 2022-08-05 |
 | [Não há impossíveis](https://open.spotify.com/track/0KXCN5DoYmiPvP4JmoVYEP) | [Sippinpurpp](https://open.spotify.com/artist/6ngR2kHxjibH7bdDUBqL3z) | [Não há impossíveis](https://open.spotify.com/album/6H9LuYNh2URdrGk6IgajbI) | 2:34 | 2022-07-07 | 2022-08-19 |
 | [Não Me Enganas \(feat\. Ivandro & Nayr Faquira\)](https://open.spotify.com/track/6ghsknvRAMqCFmGlSfC7Tv) | [Deezy](https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [Nayr Faquirá](https://open.spotify.com/artist/04UMTpKorelINdwYKsM9Tb) | [+ do Mesmo \- Parte 1](https://open.spotify.com/album/7DDasmVvLny9kVzO8AV3bD) | 4:48 | 2022-07-07 |  |
 | [Não Se Apaga](https://open.spotify.com/track/0LiKroEN7hpEbN7rhhPOR6) | [Dengaz](https://open.spotify.com/artist/4nT1hsAySSK78ycor1bVn0) | [Não Se Apaga](https://open.spotify.com/album/7hbucpKi4oPK6OxIY8MVoi) | 2:55 | 2022-07-21 | 2022-09-02 |
+| [Nós](https://open.spotify.com/track/6Dd3kjgwE8UPeyFDkSPMNF) | [Azart](https://open.spotify.com/artist/1sV336GXOSXGZnimU36h1F) | [Nós](https://open.spotify.com/album/4qa7YPzO9nVedEesEcWZYL) | 3:00 | 2022-09-16 |  |
 | [O Rosto Que Pintei](https://open.spotify.com/track/0cx5OGK0zwSrDucutxkxfT) | [DAYARAH](https://open.spotify.com/artist/0fAUWeQDp5d0fRfou2S55A) | [O Rosto Que Pintei](https://open.spotify.com/album/2oHx8LfFDgehTt0mursfCv) | 2:55 | 2022-07-07 | 2022-07-26 |
 | [Outra X](https://open.spotify.com/track/2cvVTn6IZQH2CtJNRNIH7b) | [Lil Noon](https://open.spotify.com/artist/3e4WPDmHpNiXhaAy8tGfRs) | [2](https://open.spotify.com/album/0MkqOHbny4RkabeHsIaVsp) | 3:26 | 2022-09-08 |  |
 | [Party](https://open.spotify.com/track/40jZDYCY0sTWYKWiB9sEZc) | [Octávio Cabuata](https://open.spotify.com/artist/1ic894GVX50YRMFUpuHrTQ), [Tennaz](https://open.spotify.com/artist/4rRsJzI4T5Q7LhNDUVAXmN) | [Party](https://open.spotify.com/album/4DGHUpkVXKS8O4bukjK46Y) | 2:42 | 2022-08-18 | 2022-09-09 |

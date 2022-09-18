@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1450oU.md) - [plain]
 | 19 | [Window Shade](https://open.spotify.com/track/6yKpNqcfk9NYgCzM4pSLur) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [Where Strangers Go](https://open.spotify.com/album/0MKJJDtTo9y0Dfmi7nJDpp) | 4:14 |
 | 20 | [EVERYONEISTHESAME](https://open.spotify.com/track/12svdsIFudWZFmgzSMmXxi) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [Out of the Sky](https://open.spotify.com/album/6YQJd8IIyIs3MBBhvqNptM) | 3:06 |
 
-Snapshot ID: `Mjc3MjIyMzMsMDAwMDAwMDBiZjZkZGE5YjgwODFjZjdjODE0YzRlMTk2OTNmYWQ5NA==`
+Snapshot ID: `Mjc3MjM2OTIsMDAwMDAwMDAxZGJmNDBjMGE4ZWQ0ODg5YzY4NWVmZWQ2NmJhZmZmOQ==`

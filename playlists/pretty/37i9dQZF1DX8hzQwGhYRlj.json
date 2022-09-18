@@ -1,12 +1,12 @@
 {
   "description": "A collection of Grieg's finest songs, symphonies and suites.",
-  "num_followers": 25503,
+  "num_followers": 25521,
   "original_name": "This Is Grieg",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjA3OTc1NywwMDAwMDAwMDhiM2FmYjI5ZGNkY2FjYmIzYjBiZThjNjMxNjFkMzIx",
+  "snapshot_id": "MTY1NjA3OTc1NywwMDAwMDAwMDY4ODUzYTQxZTdiOTk0NmNmNDc3ZGQ1MDk5YjZhNDc1",
   "tracks": [
     {
       "added_at": "2022-06-24 14:09:17",
@@ -743,26 +743,6 @@
     {
       "added_at": "2022-06-24 14:09:17",
       "album": {
-        "name": "The Best of Grieg",
-        "url": "https://open.spotify.com/album/2h6NFBOLseZmvXlQWZkWC0"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Zolt\u00e1n Kocsis",
-          "url": "https://open.spotify.com/artist/5Gi9bw3svtZMwonzcQG2wm"
-        }
-      ],
-      "duration_ms": 104600,
-      "name": "Lyric Pieces III, Op. 43: 4. Little Bird",
-      "url": "https://open.spotify.com/track/1QIxNcM4KHTIJ1GXeo6aIN"
-    },
-    {
-      "added_at": "2022-06-24 14:09:17",
-      "album": {
         "name": "Grieg: Orchestral Music, Vol. 4: Peer Gynt Suites - Orchestral Songs",
         "url": "https://open.spotify.com/album/0bY9XRCl9JwYFNbsdFk8Nj"
       },
@@ -819,6 +799,26 @@
     {
       "added_at": "2022-06-24 14:09:17",
       "album": {
+        "name": "The Best of Grieg",
+        "url": "https://open.spotify.com/album/2h6NFBOLseZmvXlQWZkWC0"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Zolt\u00e1n Kocsis",
+          "url": "https://open.spotify.com/artist/5Gi9bw3svtZMwonzcQG2wm"
+        }
+      ],
+      "duration_ms": 104600,
+      "name": "Lyric Pieces III, Op. 43: 4. Little Bird",
+      "url": "https://open.spotify.com/track/1QIxNcM4KHTIJ1GXeo6aIN"
+    },
+    {
+      "added_at": "2022-06-24 14:09:17",
+      "album": {
         "name": "Grieg: Songs",
         "url": "https://open.spotify.com/album/77ECwA3RIFptg5sTjz21Sb"
       },
@@ -871,26 +871,6 @@
     {
       "added_at": "2022-06-24 14:09:17",
       "album": {
-        "name": "Grieg: Lyric Pieces",
-        "url": "https://open.spotify.com/album/09HVxdeBom5icaAZMD0HcB"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Leif Ove Andsnes",
-          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
-        }
-      ],
-      "duration_ms": 52560,
-      "name": "Grieg: Lyric Pieces, Book 1, Op. 12: No. 6, Norwegian Melody",
-      "url": "https://open.spotify.com/track/4Sm3AzwkclMn60ABCbOOjm"
-    },
-    {
-      "added_at": "2022-06-24 14:09:17",
-      "album": {
         "name": "Grieg: Complete Music with Orchestra",
         "url": "https://open.spotify.com/album/6Wg6lJX2OA5kF0oEIN0EUK"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 211000,
       "name": "Holberg Suite, Op. 40: III. Gavotte (Allegretto) - Musette (poco pi\u00f9 mosso) - Gavotte",
       "url": "https://open.spotify.com/track/6LneKcb0FT0xwU4RhFjmcs"
+    },
+    {
+      "added_at": "2022-06-24 14:09:17",
+      "album": {
+        "name": "Grieg: Lyric Pieces",
+        "url": "https://open.spotify.com/album/09HVxdeBom5icaAZMD0HcB"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Leif Ove Andsnes",
+          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
+        }
+      ],
+      "duration_ms": 52560,
+      "name": "Grieg: Lyric Pieces, Book 1, Op. 12: No. 6, Norwegian Melody",
+      "url": "https://open.spotify.com/track/4Sm3AzwkclMn60ABCbOOjm"
     },
     {
       "added_at": "2022-06-24 14:09:17",
@@ -939,26 +939,6 @@
     {
       "added_at": "2022-06-24 14:09:17",
       "album": {
-        "name": "The Long, Long Winter Night",
-        "url": "https://open.spotify.com/album/7Acie5cNav6oF3DpHw0GmO"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Leif Ove Andsnes",
-          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
-        }
-      ],
-      "duration_ms": 71773,
-      "name": "Grieg: Norwegian Peasant Dances, Op. 72: No. 6, Gangar",
-      "url": "https://open.spotify.com/track/7eZ7nqIC6eP9e3H234aOP7"
-    },
-    {
-      "added_at": "2022-06-24 14:09:17",
-      "album": {
         "name": "Grieg: Lyric Pieces; Sonata; Fugues",
         "url": "https://open.spotify.com/album/17YxMaI0YHCEWsmoslhZt8"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 181506,
       "name": "Lyric Pieces, Op. 43: VI. To the Spring",
       "url": "https://open.spotify.com/track/7FdTdDt7bRTFo4x4hmdadD"
+    },
+    {
+      "added_at": "2022-06-24 14:09:17",
+      "album": {
+        "name": "The Long, Long Winter Night",
+        "url": "https://open.spotify.com/album/7Acie5cNav6oF3DpHw0GmO"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Leif Ove Andsnes",
+          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
+        }
+      ],
+      "duration_ms": 71773,
+      "name": "Grieg: Norwegian Peasant Dances, Op. 72: No. 6, Gangar",
+      "url": "https://open.spotify.com/track/7eZ7nqIC6eP9e3H234aOP7"
     },
     {
       "added_at": "2022-06-24 14:09:17",
@@ -1080,9 +1080,9 @@
           "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
         }
       ],
-      "duration_ms": 90800,
-      "name": "Grieg: Lyric Pieces, Book 1, Op. 12: No. 5, Popular Melody",
-      "url": "https://open.spotify.com/track/4Hzok2BRQl1SGHHbMLJTuH"
+      "duration_ms": 179333,
+      "name": "Grieg: Lyric Pieces, Book 6, Op. 57: No. 2, Gade",
+      "url": "https://open.spotify.com/track/56G2FD2KBFu8AqFLmEbSD9"
     },
     {
       "added_at": "2022-06-24 14:09:17",
@@ -1100,9 +1100,9 @@
           "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
         }
       ],
-      "duration_ms": 179333,
-      "name": "Grieg: Lyric Pieces, Book 6, Op. 57: No. 2, Gade",
-      "url": "https://open.spotify.com/track/56G2FD2KBFu8AqFLmEbSD9"
+      "duration_ms": 90800,
+      "name": "Grieg: Lyric Pieces, Book 1, Op. 12: No. 5, Popular Melody",
+      "url": "https://open.spotify.com/track/4Hzok2BRQl1SGHHbMLJTuH"
     },
     {
       "added_at": "2022-06-24 14:09:17",
@@ -1147,30 +1147,6 @@
     {
       "added_at": "2022-06-24 14:09:17",
       "album": {
-        "name": "Grieg: Piano, Orchestral & Vocal Works, Chamber Music",
-        "url": "https://open.spotify.com/album/37zUluscLmlk6u8RqrO6Cl"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Truls M\u00f8rk",
-          "url": "https://open.spotify.com/artist/2ookZjNsAvPdiaGWn86ub1"
-        },
-        {
-          "name": "H\u00e5vard Gimse",
-          "url": "https://open.spotify.com/artist/1dk8ZJIE1IET4n4LrxzD6I"
-        }
-      ],
-      "duration_ms": 390200,
-      "name": "Grieg: Cello Sonata in A Minor, Op. 36: II. Andante molto tranquillo",
-      "url": "https://open.spotify.com/track/1dQcZRGntODNgU5Pj7tgHO"
-    },
-    {
-      "added_at": "2022-06-24 14:09:17",
-      "album": {
         "name": "Grieg: Orchestral Music, Vol. 4: Peer Gynt Suites - Orchestral Songs",
         "url": "https://open.spotify.com/album/0bY9XRCl9JwYFNbsdFk8Nj"
       },
@@ -1203,8 +1179,8 @@
     {
       "added_at": "2022-06-24 14:09:17",
       "album": {
-        "name": "Grieg: Complete Solo Piano Music",
-        "url": "https://open.spotify.com/album/0Dm2WvAosDc72UCCNI3wgs"
+        "name": "Grieg: Piano, Orchestral & Vocal Works, Chamber Music",
+        "url": "https://open.spotify.com/album/37zUluscLmlk6u8RqrO6Cl"
       },
       "artists": [
         {
@@ -1212,13 +1188,17 @@
           "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
         },
         {
-          "name": "Gerhard Oppitz",
-          "url": "https://open.spotify.com/artist/6aldsrorHXbSzvcLUnqweo"
+          "name": "Truls M\u00f8rk",
+          "url": "https://open.spotify.com/artist/2ookZjNsAvPdiaGWn86ub1"
+        },
+        {
+          "name": "H\u00e5vard Gimse",
+          "url": "https://open.spotify.com/artist/1dk8ZJIE1IET4n4LrxzD6I"
         }
       ],
-      "duration_ms": 287666,
-      "name": "Lyrische St\u00fccke Op. 62 (Band/Volume VII): Tak/Dank/Gratitude",
-      "url": "https://open.spotify.com/track/1PcO4HCgTut0V6ak4Fk7xB"
+      "duration_ms": 390200,
+      "name": "Grieg: Cello Sonata in A Minor, Op. 36: II. Andante molto tranquillo",
+      "url": "https://open.spotify.com/track/1dQcZRGntODNgU5Pj7tgHO"
     },
     {
       "added_at": "2022-06-24 14:09:17",
@@ -1239,6 +1219,26 @@
       "duration_ms": 354773,
       "name": "Piano Sonata in E Minor, Op. 7: IV. Finale: Molto allegro",
       "url": "https://open.spotify.com/track/57SjPojnoiQYo63PUDDiwq"
+    },
+    {
+      "added_at": "2022-06-24 14:09:17",
+      "album": {
+        "name": "Grieg: Complete Solo Piano Music",
+        "url": "https://open.spotify.com/album/0Dm2WvAosDc72UCCNI3wgs"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Gerhard Oppitz",
+          "url": "https://open.spotify.com/artist/6aldsrorHXbSzvcLUnqweo"
+        }
+      ],
+      "duration_ms": 287666,
+      "name": "Lyrische St\u00fccke Op. 62 (Band/Volume VII): Tak/Dank/Gratitude",
+      "url": "https://open.spotify.com/track/1PcO4HCgTut0V6ak4Fk7xB"
     },
     {
       "added_at": "2022-06-24 14:09:17",

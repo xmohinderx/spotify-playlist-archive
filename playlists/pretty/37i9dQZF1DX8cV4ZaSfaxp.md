@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 
 > A dazzling but very sad feeling\. Enjoy the city pop music of Korean singers\. \(Cover: SURAN\(수란\)\) \(찬란하고도 아련한 느낌을 간직한 한국 시티팝을 즐겨보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,873 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,929 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,14 +38,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 | 28 | [A Night Like This](https://open.spotify.com/track/3TZqRuhG11jMJ02UnEZI9o) | [nokdu](https://open.spotify.com/artist/3tJf4CNWLW1ubPxCte1g5D) | [nokdu ep vol.1](https://open.spotify.com/album/3och4aanc6KOIxOva0Pi3v) | 3:52 |
 | 29 | [Love Note!](https://open.spotify.com/track/0NfXZxnw1e6HdEJzcoWVzF) | [Nahee](https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD) | [Love Note!](https://open.spotify.com/album/01moeo0CfiDeWL7irbhlEq) | 3:14 |
 | 30 | [Dolls](https://open.spotify.com/track/1XxT5GxDa5GD8hnhTK2AD6) | [9MUSES](https://open.spotify.com/artist/55tJwpPIz9BMrSLM45iEXX) | [DOLLS](https://open.spotify.com/album/3gCmOfwfMprkm469ZUyZ6m) | 3:26 |
-| 31 | [Number 1](https://open.spotify.com/track/1W9fuK1bUimZRvyckkQR05) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [\[\#\]](https://open.spotify.com/album/3OOqAsk58Xv8DHu1gRGtaC) | 3:22 |
-| 32 | [숙녀 \(淑女\) Lady](https://open.spotify.com/track/1fx1OZ7IFHEqohT2GIN0uB) | [Yubin](https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE) | [都市女子](https://open.spotify.com/album/3HOdnNDpkFdzt3TamAUm9m) | 3:16 |
+| 31 | [숙녀 \(淑女\) Lady](https://open.spotify.com/track/1fx1OZ7IFHEqohT2GIN0uB) | [Yubin](https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE) | [都市女子](https://open.spotify.com/album/3HOdnNDpkFdzt3TamAUm9m) | 3:16 |
+| 32 | [Number 1](https://open.spotify.com/track/1W9fuK1bUimZRvyckkQR05) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [\[\#\]](https://open.spotify.com/album/3OOqAsk58Xv8DHu1gRGtaC) | 3:22 |
 | 33 | [Rewind](https://open.spotify.com/track/6UNRjSjhTNTu4b8fNEhDya) | [Wonder Girls](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | [REBOOT](https://open.spotify.com/album/6uZUsBaw4hH7TPa60A1W3a) | 3:33 |
 | 34 | [Elastic Love](https://open.spotify.com/track/1M1ra01EyWZXFP1hdvvcPJ) | [Choi HEART](https://open.spotify.com/artist/3NnPQVIU8FpdYz4kWegI7m) | [Elastic Love](https://open.spotify.com/album/5SCdzFlU1PZvvWjQiKmDOC) | 3:38 |
 | 35 | [NEON 1989](https://open.spotify.com/track/1Uc1gpLGKiW2OyM7SF9WLW) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [SOUL LADY](https://open.spotify.com/album/5rsgGy09HIAwtIy5oF5MhF) | 2:26 |
 | 36 | [With The Star](https://open.spotify.com/track/5v7RICydLLBV5AKoCRmfrG) | [Bronze](https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7), [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [East Shore](https://open.spotify.com/album/3haGGKVIiuJ8wlJBriAhPP) | 3:32 |
-| 37 | [Caffeine](https://open.spotify.com/track/5t8Ae6KUTCNVfC8Zj2JhrR) | [Eyedi](https://open.spotify.com/artist/48BSHaU3lXnM3pYHyeqLXN) | [Caffeine](https://open.spotify.com/album/7C5uLagmfRaN8piFHBVoki) | 3:15 |
-| 38 | [Thinking About You](https://open.spotify.com/track/5KpdmJ4LiyUIIuqcquCX9d) | [Muzie](https://open.spotify.com/artist/6RzEJR9Jz1DFFjZOVm8Xtg), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [Color of Night](https://open.spotify.com/album/11TnZ6QezfxP2XCK37HSZ2) | 3:29 |
+| 37 | [Thinking About You](https://open.spotify.com/track/5KpdmJ4LiyUIIuqcquCX9d) | [Muzie](https://open.spotify.com/artist/6RzEJR9Jz1DFFjZOVm8Xtg), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [Color of Night](https://open.spotify.com/album/11TnZ6QezfxP2XCK37HSZ2) | 3:29 |
+| 38 | [Caffeine](https://open.spotify.com/track/5t8Ae6KUTCNVfC8Zj2JhrR) | [Eyedi](https://open.spotify.com/artist/48BSHaU3lXnM3pYHyeqLXN) | [Caffeine](https://open.spotify.com/album/7C5uLagmfRaN8piFHBVoki) | 3:15 |
 | 39 | [These Nights](https://open.spotify.com/track/2n0oy8RGDpy6WGcLImTteI) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [These Nights](https://open.spotify.com/album/2ZHGnhsomLmLezueESi9ou) | 3:43 |
 | 40 | [I Feel You](https://open.spotify.com/track/1gdTztk1x8HCDlxcSR8vp3) | [Wonder Girls](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | [REBOOT](https://open.spotify.com/album/6uZUsBaw4hH7TPa60A1W3a) | 3:25 |
 | 41 | [어떤 오후 One Afternoon](https://open.spotify.com/track/3wx0sbeE5MfbAFGV2zDoMY) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [Lion Heart \- The 5th Album](https://open.spotify.com/album/4eKdn0skJCidO2wqIJyCgB) | 3:35 |
@@ -78,16 +78,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 | 68 | [샴푸의 요정](https://open.spotify.com/track/6V9C5rcCQkf3eJSmcAkCf4) | [Light & Salt](https://open.spotify.com/artist/0jhgI3xU8n2o1W6EOw9dIf) | [빛과 소금](https://open.spotify.com/album/43StLW2LdY30M1GIf7xSh7) | 3:47 |
 | 69 | [Dive](https://open.spotify.com/track/0Ots0hGoPjgRw99GdQzJjc) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [Dive](https://open.spotify.com/album/314Qk4Awu61HcBTSNJ7ypm) | 3:41 |
 | 70 | [A day of weather](https://open.spotify.com/track/21hBj9FtDyTISSXrTuApaw) | [JUNE](https://open.spotify.com/artist/0HXCe7R2f1Us5bAW7ohMC6) | [Ending](https://open.spotify.com/album/7jD1Irb8NWIAxyfUQQBBKD) | 3:46 |
-| 71 | [Sweet Girl](https://open.spotify.com/track/77dtDxOL2xHpOCk4jdS9uh) | [B1A4](https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG) | [Sweet Girl](https://open.spotify.com/album/3pJONZdr1gEeoxgBK96vwx) | 4:08 |
-| 72 | [보라빛 향기](https://open.spotify.com/track/0yGkMcsEVqhvL9P8dizVap) | [강수지](https://open.spotify.com/artist/6yvfQfQ8CS9aXvGlyHEdoi) | [강수지 BEST ALBUM](https://open.spotify.com/album/1cNgGqmtg1009Ij9opel30) | 3:28 |
+| 71 | [보라빛 향기](https://open.spotify.com/track/0yGkMcsEVqhvL9P8dizVap) | [강수지](https://open.spotify.com/artist/6yvfQfQ8CS9aXvGlyHEdoi) | [강수지 BEST ALBUM](https://open.spotify.com/album/1cNgGqmtg1009Ij9opel30) | 3:28 |
+| 72 | [Sweet Girl](https://open.spotify.com/track/77dtDxOL2xHpOCk4jdS9uh) | [B1A4](https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG) | [Sweet Girl](https://open.spotify.com/album/3pJONZdr1gEeoxgBK96vwx) | 4:08 |
 | 73 | [사랑이 떠나려 할 때 Faded Love](https://open.spotify.com/track/6c1PYAfNfZ6rWUwFNciOMw) | [Wonder Girls](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | [REBOOT](https://open.spotify.com/album/6uZUsBaw4hH7TPa60A1W3a) | 3:53 |
 | 74 | [NEPTUNE](https://open.spotify.com/track/0bb8pvRKp6Fa443FhuooU0) | [D’allant](https://open.spotify.com/artist/43twit4jxaRzr008CaVw3l) | [\[COSMOS\]](https://open.spotify.com/album/73mGtUdDaLFdLiTnxz0Lqf) | 3:33 |
 | 75 | [Haru \(with meenoi\)](https://open.spotify.com/track/7BQfXOQiDBvDr1tamfYwwT) | [Bronze](https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [Aquarium](https://open.spotify.com/album/22QfrmF0MIxc9In6DWqF1v) | 3:43 |
 | 76 | [Fantasy](https://open.spotify.com/track/6dCukzSNFujNeSHe8KnKnV) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [Fantasy](https://open.spotify.com/album/4Kek3o8zZRFpaNXyIMwJWp) | 3:30 |
 | 77 | [Suddenly \- Digging Club Seoul Version](https://open.spotify.com/track/7Iae3TKL6i9q1U3I7mS372) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Onstage Digging Club Seoul THEME 01](https://open.spotify.com/album/45jJuM9HOtrpzx1k3p1bGd) | 4:12 |
 | 78 | [A song from the past](https://open.spotify.com/track/1EPUAXzisSkCcUTEU94cch) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD), [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [A song from the past](https://open.spotify.com/album/6lCUp7Ijtg2VJeZ8CZbyoC) | 3:55 |
-| 79 | [Coconut Love](https://open.spotify.com/track/6urgOrkCIjtmyMYUkL370K) | [Seoulmoon](https://open.spotify.com/artist/0xsCXMIcnrXhRiNL11HlxP) | [Coconut Love](https://open.spotify.com/album/3vzJvwiI91UgooKT1jmSUx) | 3:14 |
-| 80 | [TALK](https://open.spotify.com/track/6O3XduvZiAgLpjeDnZ5sJ4) | [TIFFANY](https://open.spotify.com/artist/1t2HKR34gLWuQyyzLHcSm4) | [I Just Wanna Dance \- The 1st Mini Album](https://open.spotify.com/album/5Zf2IZLgKbo9RcktqIQxpU) | 3:34 |
+| 79 | [TALK](https://open.spotify.com/track/6O3XduvZiAgLpjeDnZ5sJ4) | [TIFFANY](https://open.spotify.com/artist/1t2HKR34gLWuQyyzLHcSm4) | [I Just Wanna Dance \- The 1st Mini Album](https://open.spotify.com/album/5Zf2IZLgKbo9RcktqIQxpU) | 3:34 |
+| 80 | [Coconut Love](https://open.spotify.com/track/6urgOrkCIjtmyMYUkL370K) | [Seoulmoon](https://open.spotify.com/artist/0xsCXMIcnrXhRiNL11HlxP) | [Coconut Love](https://open.spotify.com/album/3vzJvwiI91UgooKT1jmSUx) | 3:14 |
 | 81 | [Monthly Project 2019 May Yoon Jong Shin \- A train to chuncheon](https://open.spotify.com/track/34uOAAJfVatmKdVHdtCqgk) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Monthly Project 2019 May Yoon Jong Shin \- A train to chuncheon](https://open.spotify.com/album/4LrtYx1fJuZYkGbusjaphJ) | 4:54 |
 | 82 | [Baby Don't Play](https://open.spotify.com/track/3UAvQZ4pM9mXKfZBv8Go1g) | [Wonder Girls](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | [REBOOT](https://open.spotify.com/album/6uZUsBaw4hH7TPa60A1W3a) | 3:31 |
 | 83 | [Cherry Blossom](https://open.spotify.com/track/60LIER0taABmwhdgi5a5Jc) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Cherry Blossom](https://open.spotify.com/album/6OLVSFzXGaiehp5qMHSa1E) | 3:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 | 99 | [Starry Night](https://open.spotify.com/track/1bc8AJGZcWin6rLbCpHXVq) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) | [Starry Night](https://open.spotify.com/album/6dPTCj1x52RQX4ALieYp5N) | 3:11 |
 | 100 | [Myspace](https://open.spotify.com/track/0wKWQHIaja5IuDovI1euWh) | [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta) | [Myspace](https://open.spotify.com/album/2MV3aQb0BMMLqaydFaTci7) | 3:36 |
 
-Snapshot ID: `MTY2MjM5Mjg2MywwMDAwMDAwMDVmN2ZjYWUzNDI3ZjYwODBlNzY3ZmMwZjY0Y2NhMDk5`
+Snapshot ID: `MTY2MjM5Mjg2MywwMDAwMDAwMGQwZDQxZGM2YzZmMDM3YjFkMGM0MWE4ZTBlNmViYjc3`

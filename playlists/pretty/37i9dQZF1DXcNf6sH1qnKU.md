@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNf6sH1qnKU.md) - [plain]
 
 > Glimmering, warm, and bright memories: Broadcast on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,755 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,235 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,16 +29,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNf6sH1qnKU.md) - [plain]
 | 19 | [Sugar for the Pill](https://open.spotify.com/track/0eVz3hV2xOXdneGpnWDFpb) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Slowdive](https://open.spotify.com/album/1qDA0jVhj4ZTjGHmpbmmwa) | 4:30 |
 | 20 | [Kinky Love](https://open.spotify.com/track/5hUCTgttGB1eS4GJdPEQEM) | [Pale Saints](https://open.spotify.com/artist/0WY2ddzQUF9eh16GiqrElA) | [Flesh Balloon](https://open.spotify.com/album/57N92LQlPaWjNfxCP98SRx) | 4:04 |
 | 21 | [Kick The Tragedy](https://open.spotify.com/track/40ABtf917Ghhi2tkQDNOdn) | [Drop Nineteens](https://open.spotify.com/artist/1s5mUpjVtK0XAScRqlErSE) | [Delaware](https://open.spotify.com/album/0kAlEeID2MPd2JYT3Iwegp) | 8:55 |
-| 22 | [I Follow You](https://open.spotify.com/track/6rv4gfOtrlYFrcu03gZkUW) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Melody's Echo Chamber](https://open.spotify.com/album/2FKVlcqyS9nzKEHrOzbuwb) | 3:34 |
-| 23 | [Days](https://open.spotify.com/track/716OZGLBg3vkNfMTpfbYm6) | [No Vacation](https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq) | [Days](https://open.spotify.com/album/1iKJd6McKWLpeWNotqfZDz) | 5:20 |
-| 24 | [Kangaroo \- Remastered](https://open.spotify.com/track/2HsOICaAi5bwnqyG7uO1Fo) | [This Mortal Coil](https://open.spotify.com/artist/5OK8j1JnhoBlivN32G7yOO) | [It'll End In Tears \(Remastered\)](https://open.spotify.com/album/5gMiiXVgUFVUIHKXC57a0j) | 3:29 |
-| 25 | [Love Fade](https://open.spotify.com/track/0p6JvwRK6RqC1SyRVKP6cN) | [Tamaryn](https://open.spotify.com/artist/3TdVTSmMfLh55VrJDUpIQ2) | [The Waves](https://open.spotify.com/album/2GrLKfN6dTb4o7Eoz6pqSG) | 3:40 |
+| 22 | [Days](https://open.spotify.com/track/716OZGLBg3vkNfMTpfbYm6) | [No Vacation](https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq) | [Days](https://open.spotify.com/album/1iKJd6McKWLpeWNotqfZDz) | 5:20 |
+| 23 | [I Follow You](https://open.spotify.com/track/6rv4gfOtrlYFrcu03gZkUW) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Melody's Echo Chamber](https://open.spotify.com/album/2FKVlcqyS9nzKEHrOzbuwb) | 3:34 |
+| 24 | [Love Fade](https://open.spotify.com/track/0p6JvwRK6RqC1SyRVKP6cN) | [Tamaryn](https://open.spotify.com/artist/3TdVTSmMfLh55VrJDUpIQ2) | [The Waves](https://open.spotify.com/album/2GrLKfN6dTb4o7Eoz6pqSG) | 3:40 |
+| 25 | [Kangaroo \- Remastered](https://open.spotify.com/track/2HsOICaAi5bwnqyG7uO1Fo) | [This Mortal Coil](https://open.spotify.com/artist/5OK8j1JnhoBlivN32G7yOO) | [It'll End In Tears \(Remastered\)](https://open.spotify.com/album/5gMiiXVgUFVUIHKXC57a0j) | 3:29 |
 | 26 | [The Book Lovers](https://open.spotify.com/track/4O76joQmZKoZm78s0vOHTJ) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Work And Non Work](https://open.spotify.com/album/7kqQeOzeLJxSlQEQXyIkqH) | 4:49 |
 | 27 | [Off Your Face](https://open.spotify.com/track/7hrQx8C3rT5R447bmNnq5Y) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Glider](https://open.spotify.com/album/3oSLMALBuos75AqBHPdLrJ) | 4:15 |
-| 28 | [Some Time Alone, Alone](https://open.spotify.com/track/6G7rDUqMhnmXFVwRRQ7azu) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Melody's Echo Chamber](https://open.spotify.com/album/2FKVlcqyS9nzKEHrOzbuwb) | 3:46 |
-| 29 | [Desire Lines](https://open.spotify.com/track/7Bv26qd7JX525wGCmhrPtj) | [Lush](https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg) | [Split](https://open.spotify.com/album/6cgDNdc8SN9PJ12tqse69N) | 7:39 |
-| 30 | [Pulling Our Weight](https://open.spotify.com/track/6HhqiKpkJ37qa98TiuYla3) | [The Radio Dept.](https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG) | [Passive Aggressive](https://open.spotify.com/album/6hPFLCX84m3LzdOJDQlkTZ) | 3:21 |
-| 31 | [In Your Room](https://open.spotify.com/track/7l5XWtUfIclO2xCTFvts8V) | [Airiel](https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1) | [Winks & Kisses: Melted](https://open.spotify.com/album/3WG7osXmDwUsMt3QGNoYll) | 9:26 |
+| 28 | [Desire Lines](https://open.spotify.com/track/7Bv26qd7JX525wGCmhrPtj) | [Lush](https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg) | [Split](https://open.spotify.com/album/6cgDNdc8SN9PJ12tqse69N) | 7:39 |
+| 29 | [Pulling Our Weight](https://open.spotify.com/track/6HhqiKpkJ37qa98TiuYla3) | [The Radio Dept.](https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG) | [Passive Aggressive](https://open.spotify.com/album/6hPFLCX84m3LzdOJDQlkTZ) | 3:21 |
+| 30 | [In Your Room](https://open.spotify.com/track/7l5XWtUfIclO2xCTFvts8V) | [Airiel](https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1) | [Winks & Kisses: Melted](https://open.spotify.com/album/3WG7osXmDwUsMt3QGNoYll) | 9:26 |
+| 31 | [Some Time Alone, Alone](https://open.spotify.com/track/6G7rDUqMhnmXFVwRRQ7azu) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Melody's Echo Chamber](https://open.spotify.com/album/2FKVlcqyS9nzKEHrOzbuwb) | 3:46 |
 | 32 | [Majorette](https://open.spotify.com/track/1xHrTucRP7hVViMekBfu7S) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Thank Your Lucky Stars](https://open.spotify.com/album/4WbFCzKALujxRNeoeLS5zO) | 4:00 |
 | 33 | [Misery Is a Butterfly](https://open.spotify.com/track/0tm9m5pv01Toj3nt3LESdZ) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Misery Is a Butterfly](https://open.spotify.com/album/2IOkphZwsrRk1nWRkikEgK) | 5:07 |
 | 34 | [Sight of You](https://open.spotify.com/track/7fectUUMiPjZijOJIJaN3S) | [Pale Saints](https://open.spotify.com/artist/0WY2ddzQUF9eh16GiqrElA) | [The Comforts of Madness](https://open.spotify.com/album/3YZJ5Uiyy1vCMubtZDG7a2) | 5:37 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNf6sH1qnKU.md) - [plain]
 | 37 | [You And Your Sister \- Remastered](https://open.spotify.com/track/6y234mJkt0DEh39NxZ4uZ6) | [This Mortal Coil](https://open.spotify.com/artist/5OK8j1JnhoBlivN32G7yOO) | [Blood \(Remastered\)](https://open.spotify.com/album/1wHBJPXwl19a4xNgPaCDq9) | 3:14 |
 | 38 | [Jewel](https://open.spotify.com/track/3Mp4lDIGyCBVWDSF6ALaEd) | [Cranes](https://open.spotify.com/artist/5q2ehaRqAFmM6tLl4vaVwP) | [Forever \(Expanded Edition\)](https://open.spotify.com/album/3nFSPWRHULzYNWGQoDzjKV) | 3:05 |
 | 39 | [Sweetness and Light](https://open.spotify.com/track/1Pr2b8WV0rFkSAjrnzUeDc) | [Lush](https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg) | [Gala](https://open.spotify.com/album/1UBjGsLtSkSMHlBkCc2OI4) | 5:17 |
-| 40 | [Dive](https://open.spotify.com/track/0RBfGcrONMLwLysUhbtxJM) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [7](https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP) | 4:25 |
-| 41 | [Tal Uno](https://open.spotify.com/track/3BPRUFOrl3IOOY8HpzRn4S) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Tal Uno](https://open.spotify.com/album/1xAniFMNAAkdXM8daxNBn2) | 4:27 |
+| 40 | [Tal Uno](https://open.spotify.com/track/3BPRUFOrl3IOOY8HpzRn4S) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Tal Uno](https://open.spotify.com/album/1xAniFMNAAkdXM8daxNBn2) | 4:27 |
+| 41 | [Dive](https://open.spotify.com/track/0RBfGcrONMLwLysUhbtxJM) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [7](https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP) | 4:25 |
 | 42 | [Crazy for You](https://open.spotify.com/track/3gcIqknhltPEuekVMrP25o) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Pygmalion](https://open.spotify.com/album/7n7VUw9XFam4zMT7zn99tq) | 6:01 |
 | 43 | [Avril 14th](https://open.spotify.com/track/4BN4eqlL0VzTBW0QUo9ChQ) | [YACHT](https://open.spotify.com/artist/57anmI1X2hXWPrNagFdzZr) | [Sub Versions](https://open.spotify.com/album/0Hwtd4hmlTu6aG3bFHVQ7z) | 2:10 |
 | 44 | [Echo's Answer](https://open.spotify.com/track/3ZB8WOTt7p9cSia9iG0TMz) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [The Noise Made By People](https://open.spotify.com/album/4vm6U9WwZvHUKaCNYRj9Bv) | 3:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNf6sH1qnKU.md) - [plain]
 | 49 | [She Hangs Brightly](https://open.spotify.com/track/0PwKkV9wQCpbCxJmYEkcsd) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [She Hangs Brightly](https://open.spotify.com/album/2ZAcLWdHBHrdybwws1PVuA) | 6:24 |
 | 50 | [Mesmerise](https://open.spotify.com/track/6bEbOvzviHrQEYjpuEvgje) | [Chapterhouse](https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ) | [Best Of](https://open.spotify.com/album/3aZ04o7EWxUYaJiQA1f9EE) | 4:12 |
 
-Snapshot ID: `MTY2MDAwNDkyMiwwMDAwMDAwMGY4M2M2NzQxMTYwMDAzN2JjMWJjNDQ1OTdkNGQ5ODlm`
+Snapshot ID: `MTY2MDAwNDkyMiwwMDAwMDAwMDE1MTBhYmQ2MjQ3N2MyMDE2ZmI0YzgyODkxN2VhMjc5`

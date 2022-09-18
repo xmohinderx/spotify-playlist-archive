@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Netherlands.
 
-742 songs - 1 day 14 hr 46 min - [published](https://open.spotify.com/playlist/1y9OKrZRadBDhQD5mCQ38L)
+744 songs - 1 day 14 hr 53 min - [published](https://open.spotify.com/playlist/1y9OKrZRadBDhQD5mCQ38L)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Acapulco](https://open.spotify.com/track/3eJH2nAjvNXdmPfBkALiPZ) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Acapulco](https://open.spotify.com/album/76f2Wq7QxiHImxzsYwiXWW) | 2:19 | 2021-10-11 | 2021-12-07 |
 | [Adem](https://open.spotify.com/track/6DnFCD5hHlKZAkFBIsrqRb) | [Hef](https://open.spotify.com/artist/7ge3QfYPMTjDbMoVLuuIuJ) | [Hefvermogen 2](https://open.spotify.com/album/2GX8iKZMB1aYlWziFSK7zz) | 3:03 | 2022-04-16 | 2022-04-18 |
 | [Adem Je In \- Remix](https://open.spotify.com/track/5F469F5Dk2Zzm6BpP0OhVq) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK), [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1) | [Adem Je In \(Remix\)](https://open.spotify.com/album/2s2Jz2xKZrfaSqY9HK6sOe) | 3:43 | 2021-07-25 | 2021-12-12 |
+| [Adrenaline](https://open.spotify.com/track/0DDcpc9ImOsGUWupRj2xu5) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Adrenaline](https://open.spotify.com/album/0w5jN6f0rraC1lLGCcHjgu) | 2:28 | 2022-09-17 |  |
 | [Afraid Of The Dark](https://open.spotify.com/track/4YEsNhGhXXtefznetrzhMb) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [Afraid Of The Dark](https://open.spotify.com/album/7h9U7OlSB4lQw9CDFORIVR) | 3:08 | 2021-04-14 | 2021-10-10 |
 | [Afraid To Feel](https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Afraid To Feel](https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp) | 2:57 | 2022-07-05 |  |
 | [Afterglow](https://open.spotify.com/track/0E4Y1XIbs8GrAT1YqVy6dq) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Afterglow](https://open.spotify.com/album/5bb2Sf8jps2DTyI2urMThV) | 3:05 | 2021-03-27\* | 2021-04-21 |
@@ -93,6 +94,7 @@
 | [Birth Of A New Age](https://open.spotify.com/track/5GVMXVYBFyUeq1jz8IsGRq) | [Jeangu Macrooy](https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr) | [Birth Of A New Age](https://open.spotify.com/album/5vfSBA3TW0hrD6bWsB5rqC) | 2:53 | 2021-05-23 | 2021-05-29 |
 | [Blender](https://open.spotify.com/track/4n03FrUmeUuPE8U6mnKiV3) | [JoeyAK](https://open.spotify.com/artist/4iCzh7b2cLbHVsPOwhr8W0), [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd) | [Bodemboy](https://open.spotify.com/album/7oji6I8NLtUtm13HlyUEIl) | 2:25 | 2021-04-11 | 2021-04-13 |
 | [Blijf Geloven](https://open.spotify.com/track/1NDWUwpKlB8xEiDuoydPv5) | [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1) | [Blijf Geloven](https://open.spotify.com/album/2kcQn4678DrmWpWhU1AzNs) | 2:38 | 2021-06-20 | 2021-07-02 |
+| [Blijf Soldaat](https://open.spotify.com/track/6Pb0tc6BbQpUG2NNK0WatB) | [JoeyAK](https://open.spotify.com/artist/4iCzh7b2cLbHVsPOwhr8W0) | [Blijf Soldaat](https://open.spotify.com/album/7hd5VPrOLOOnSXlteXJvzB) | 3:46 | 2022-09-17 |  |
 | [Blijven Slapen](https://open.spotify.com/track/1Fc6lVQFPOcEVz3QWEzXWL) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD), [Maan](https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU) | [Blijven Slapen](https://open.spotify.com/album/7qWzNZ9V9KMdgIgATopvJL) | 2:50 | 2021-12-28 | 2022-01-22 |
 | [Blijven Slapen](https://open.spotify.com/track/7BRKEcW05hOZMJ3bKOOzQl) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD), [Maan](https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU) | [Lars](https://open.spotify.com/album/43TZEM7ygBER2J582OdGWX) | 2:50 | 2021-03-27\* | 2021-12-07 |
 | [Blinding Lights](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:20 | 2021-04-05 | 2022-01-04 |
@@ -673,8 +675,8 @@
 | [Tout l'univers](https://open.spotify.com/track/3MvY2XbGYFi6p2dgmdcOYG) | [Gjon's Tears](https://open.spotify.com/artist/0RIwEP1SaALlxn9jOVqHfA) | [Tout l'univers](https://open.spotify.com/album/1UnqlxXSM5dlxZi6vLIIEH) | 3:03 | 2021-05-25 | 2021-06-03 |
 | [Toxic](https://open.spotify.com/track/30V5d38AvuTJHaeifAnhqE) | [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT) | [Toxic Survival Pack](https://open.spotify.com/album/3oJ4RSyj040xw5TPAF3Lqh) | 2:54 | 2022-06-04 | 2022-06-19 |
 | [traitor](https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:49 | 2021-05-27 | 2021-07-18 |
-| [Treesha](https://open.spotify.com/track/2mzlyJ8Gb8cFMJvfENKnJQ) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Treesha](https://open.spotify.com/album/2AvGq63YVyGVyU0YqMecCy) | 1:45 | 2022-09-01 |  |
-| [Trompeta](https://open.spotify.com/track/181AxLRTyYh9WUxEjmJt1Y) | [Willy William](https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq) | [Trompeta](https://open.spotify.com/album/0x8fxnTkzXKsZVzdZ6Qxka) | 2:48 | 2022-04-03 |  |
+| [Treesha](https://open.spotify.com/track/2mzlyJ8Gb8cFMJvfENKnJQ) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Treesha](https://open.spotify.com/album/2AvGq63YVyGVyU0YqMecCy) | 1:45 | 2022-09-01 | 2022-09-18 |
+| [Trompeta](https://open.spotify.com/track/181AxLRTyYh9WUxEjmJt1Y) | [Willy William](https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq) | [Trompeta](https://open.spotify.com/album/0x8fxnTkzXKsZVzdZ6Qxka) | 2:48 | 2022-04-03 | 2022-09-18 |
 | [Trompetisto](https://open.spotify.com/track/7LZQAYj5NmW7Db2y8k7dXm) | [Sjaak](https://open.spotify.com/artist/2YjydjpJfm9VAtiV0XRmkm) | [Trompetisto](https://open.spotify.com/album/6gsOgcotCeVJsqqQVZ0Qdb) | 2:20 | 2021-08-02 | 2022-01-04 |
 | [TSU](https://open.spotify.com/track/4s7QLoImIwmPi9L6dq1nVW) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 5:08 | 2021-09-05 | 2021-09-06 |
 | [UHUH](https://open.spotify.com/track/5feza64dOl5JSSiuFsqrZq) | [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8), [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT) | [UHUH](https://open.spotify.com/album/5Ao4GADlAfFiblhJ7nBani) | 2:55 | 2021-08-15 | 2021-11-07 |

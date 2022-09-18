@@ -1,12 +1,12 @@
 {
   "description": "Get ready for dinner with some upbeat, funky and cooking Jazz.",
-  "num_followers": 18158,
+  "num_followers": 18188,
   "original_name": "Cooking Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzI0MTkyNywwMDAwMDAwMGI0ZmY0ZDJjNzEwMWY1ZDEwYjExYmE3NmYxYzM0NGYw",
+  "snapshot_id": "MTY2MzI0MTkyNywwMDAwMDAwMDIyYjExM2M1MmY3NmFhMDA1ZWYwZTkzYTM2ZTRhMTJm",
   "tracks": [
     {
       "added_at": "2022-09-15 11:38:47",
@@ -663,22 +663,6 @@
     {
       "added_at": "2022-09-15 11:38:47",
       "album": {
-        "name": "Roll Call",
-        "url": "https://open.spotify.com/album/2wXfYEZKGQlfy2hKZbwtU7"
-      },
-      "artists": [
-        {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
-        }
-      ],
-      "duration_ms": 534546,
-      "name": "A Baptist Beat - Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/3MAR3T0AWWIfN7tlgjjPzt"
-    },
-    {
-      "added_at": "2022-09-15 11:38:47",
-      "album": {
         "name": "Them Dirty Blues",
         "url": "https://open.spotify.com/album/0XOpvC5VjPdl39BcvHZMx7"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 438133,
       "name": "Jeannine - Remastered",
       "url": "https://open.spotify.com/track/5yBiR8gx0EwlVow5mYWpT6"
+    },
+    {
+      "added_at": "2022-09-15 11:38:47",
+      "album": {
+        "name": "Roll Call",
+        "url": "https://open.spotify.com/album/2wXfYEZKGQlfy2hKZbwtU7"
+      },
+      "artists": [
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        }
+      ],
+      "duration_ms": 534546,
+      "name": "A Baptist Beat - Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/3MAR3T0AWWIfN7tlgjjPzt"
     },
     {
       "added_at": "2022-09-15 11:38:47",
@@ -787,22 +787,18 @@
     {
       "added_at": "2022-09-15 11:38:47",
       "album": {
-        "name": "The Genius Of Coleman Hawkins (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0Z2OKl1GiVUStRfHyqMZzz"
+        "name": "Workout",
+        "url": "https://open.spotify.com/album/2prCz4HRmedo4uyhAtXX9Q"
       },
       "artists": [
         {
-          "name": "Coleman Hawkins",
-          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
-        },
-        {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
         }
       ],
-      "duration_ms": 217960,
-      "name": "I Wished On The Moon - Stereo Version",
-      "url": "https://open.spotify.com/track/2dcLrmsyULzRcPH0IHRwVh"
+      "duration_ms": 647946,
+      "name": "Uh Huh - Remastered 2005",
+      "url": "https://open.spotify.com/track/1ifrzoPqpThdTHnktdPTyu"
     },
     {
       "added_at": "2022-09-15 11:38:47",
@@ -823,6 +819,26 @@
     {
       "added_at": "2022-09-15 11:38:47",
       "album": {
+        "name": "The Genius Of Coleman Hawkins (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0Z2OKl1GiVUStRfHyqMZzz"
+      },
+      "artists": [
+        {
+          "name": "Coleman Hawkins",
+          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
+        },
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "duration_ms": 217960,
+      "name": "I Wished On The Moon - Stereo Version",
+      "url": "https://open.spotify.com/track/2dcLrmsyULzRcPH0IHRwVh"
+    },
+    {
+      "added_at": "2022-09-15 11:38:47",
+      "album": {
         "name": "Clubhouse",
         "url": "https://open.spotify.com/album/1RGm5IbgX801WBJjU7HLSo"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 425480,
       "name": "Devilette",
       "url": "https://open.spotify.com/track/73lOUGQ1yBfNMvT7TWaGJF"
-    },
-    {
-      "added_at": "2022-09-15 11:38:47",
-      "album": {
-        "name": "Workout",
-        "url": "https://open.spotify.com/album/2prCz4HRmedo4uyhAtXX9Q"
-      },
-      "artists": [
-        {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
-        }
-      ],
-      "duration_ms": 647946,
-      "name": "Uh Huh - Remastered 2005",
-      "url": "https://open.spotify.com/track/1ifrzoPqpThdTHnktdPTyu"
     },
     {
       "added_at": "2022-09-15 11:38:47",
@@ -911,6 +911,22 @@
     {
       "added_at": "2022-09-15 11:38:47",
       "album": {
+        "name": "Another Workout",
+        "url": "https://open.spotify.com/album/0asfmpz1bfQKt2Q0GDJAji"
+      },
+      "artists": [
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        }
+      ],
+      "duration_ms": 483946,
+      "name": "Hello, Young Lovers - Remastered 2006",
+      "url": "https://open.spotify.com/track/0FbiwclsX9EVAY711xZQ9g"
+    },
+    {
+      "added_at": "2022-09-15 11:38:47",
+      "album": {
         "name": "Nigeria",
         "url": "https://open.spotify.com/album/0Y6W91kVInjDUUluGVDHej"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 440093,
       "name": "Sunday",
       "url": "https://open.spotify.com/track/1Omb3itM2gJlnciYRElXTe"
-    },
-    {
-      "added_at": "2022-09-15 11:38:47",
-      "album": {
-        "name": "Another Workout",
-        "url": "https://open.spotify.com/album/0asfmpz1bfQKt2Q0GDJAji"
-      },
-      "artists": [
-        {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
-        }
-      ],
-      "duration_ms": 483946,
-      "name": "Hello, Young Lovers - Remastered 2006",
-      "url": "https://open.spotify.com/track/0FbiwclsX9EVAY711xZQ9g"
     },
     {
       "added_at": "2022-09-15 11:38:47",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2022-09-15 11:38:47",
       "album": {
+        "name": "Back To The Tracks",
+        "url": "https://open.spotify.com/album/1bMz9hj91rrk0lj8SbTdgE"
+      },
+      "artists": [
+        {
+          "name": "Tina Brooks",
+          "url": "https://open.spotify.com/artist/4JgvfZeCWGzEPGR6yVaXuX"
+        }
+      ],
+      "duration_ms": 483293,
+      "name": "Back To The Tracks",
+      "url": "https://open.spotify.com/track/5HkIObvZo2mjjt3JMJRqGR"
+    },
+    {
+      "added_at": "2022-09-15 11:38:47",
+      "album": {
         "name": "The Music From \"The Connection\" (2005 Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/0OMYhZDRDDcUa5Ee0TyLJK"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 358426,
       "name": "Wigglin' - Remastered",
       "url": "https://open.spotify.com/track/4N4bT7cB4Nu0BGIzaflIHM"
-    },
-    {
-      "added_at": "2022-09-15 11:38:47",
-      "album": {
-        "name": "Back To The Tracks",
-        "url": "https://open.spotify.com/album/1bMz9hj91rrk0lj8SbTdgE"
-      },
-      "artists": [
-        {
-          "name": "Tina Brooks",
-          "url": "https://open.spotify.com/artist/4JgvfZeCWGzEPGR6yVaXuX"
-        }
-      ],
-      "duration_ms": 483293,
-      "name": "Back To The Tracks",
-      "url": "https://open.spotify.com/track/5HkIObvZo2mjjt3JMJRqGR"
     },
     {
       "added_at": "2022-09-15 11:38:47",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2022-09-15 11:38:47",
       "album": {
-        "name": "Our Man In Paris (Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/43zfDOSnIaNrdFzik0s088"
-      },
-      "artists": [
-        {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
-        }
-      ],
-      "duration_ms": 527093,
-      "name": "Willow Weep For Me - Rudy Van Gelder Edition / 2003 Remaster",
-      "url": "https://open.spotify.com/track/3TerEwVP6zs2QrsCoG0yFK"
-    },
-    {
-      "added_at": "2022-09-15 11:38:47",
-      "album": {
         "name": "Six Pieces Of Silver",
         "url": "https://open.spotify.com/album/2p4ipY0YJS0JSDuc1uamxE"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 265893,
       "name": "Camouflage - Remastered 1998/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/3OANaB4dlcU6CjFE1geQhz"
+    },
+    {
+      "added_at": "2022-09-15 11:38:47",
+      "album": {
+        "name": "Our Man In Paris (Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/43zfDOSnIaNrdFzik0s088"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "duration_ms": 527093,
+      "name": "Willow Weep For Me - Rudy Van Gelder Edition / 2003 Remaster",
+      "url": "https://open.spotify.com/track/3TerEwVP6zs2QrsCoG0yFK"
     },
     {
       "added_at": "2022-09-15 11:38:47",
@@ -1551,18 +1551,18 @@
     {
       "added_at": "2022-09-15 11:38:47",
       "album": {
-        "name": "Them Dirty Blues",
-        "url": "https://open.spotify.com/album/0XOpvC5VjPdl39BcvHZMx7"
+        "name": "True Blue",
+        "url": "https://open.spotify.com/album/2E4Zyg78Slt7IyJhIbYbtW"
       },
       "artists": [
         {
-          "name": "The Cannonball Adderley Quintet",
-          "url": "https://open.spotify.com/artist/2o346NHhUAlVxl5uXBVxK7"
+          "name": "Tina Brooks",
+          "url": "https://open.spotify.com/artist/4JgvfZeCWGzEPGR6yVaXuX"
         }
       ],
-      "duration_ms": 432266,
-      "name": "Them Dirty Blues - Remastered",
-      "url": "https://open.spotify.com/track/3f6xm9qUFXkunVsqN0Sbyy"
+      "duration_ms": 487306,
+      "name": "Good Old Soul",
+      "url": "https://open.spotify.com/track/09GlI5hilaEwB0hE11P6bz"
     },
     {
       "added_at": "2022-09-15 11:38:47",
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2022-09-15 11:38:47",
       "album": {
-        "name": "True Blue",
-        "url": "https://open.spotify.com/album/2E4Zyg78Slt7IyJhIbYbtW"
+        "name": "Them Dirty Blues",
+        "url": "https://open.spotify.com/album/0XOpvC5VjPdl39BcvHZMx7"
       },
       "artists": [
         {
-          "name": "Tina Brooks",
-          "url": "https://open.spotify.com/artist/4JgvfZeCWGzEPGR6yVaXuX"
+          "name": "The Cannonball Adderley Quintet",
+          "url": "https://open.spotify.com/artist/2o346NHhUAlVxl5uXBVxK7"
         }
       ],
-      "duration_ms": 487306,
-      "name": "Good Old Soul",
-      "url": "https://open.spotify.com/track/09GlI5hilaEwB0hE11P6bz"
+      "duration_ms": 432266,
+      "name": "Them Dirty Blues - Remastered",
+      "url": "https://open.spotify.com/track/3f6xm9qUFXkunVsqN0Sbyy"
     },
     {
       "added_at": "2022-09-15 11:38:47",

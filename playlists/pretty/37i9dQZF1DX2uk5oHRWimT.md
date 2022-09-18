@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2uk5oHRWimT.md) - [plain]
 
 > Have yourself a little cozy Christmas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,861 likes - 131 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,855 likes - 131 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,8 +136,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2uk5oHRWimT.md) - [plain]
 | 126 | [Christmas Is Coming Soon](https://open.spotify.com/track/4tJ2WB2yfkypZ9Ve15HmlI) | [Blitzen Trapper](https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1) | [I'll Stay 'Til After Christmas](https://open.spotify.com/album/0r1QQGClCxrfkcUKwsYEbu) | 3:03 |
 | 127 | [Green Grows The Holly](https://open.spotify.com/track/5P0cZ3i8YB7DFbVLXuuPeL) | [Calexico](https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ) | [Holidays Rule](https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ) | 3:59 |
 | 128 | [Hark the Herald Angels Sing](https://open.spotify.com/track/2N8BVmFo4kFqzkU0ipcSeO) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [A Neighborly Christmas](https://open.spotify.com/album/0ajvkNhkYG7yGdq0iQP4Z2) | 3:28 |
-| 129 | [Room by the Fire](https://open.spotify.com/track/2jOlAI3c4ubECAoO6ZMnM9) | [Hannah Miller](https://open.spotify.com/artist/4cmbcY03AMf9h2krGBuucg) | [Sorted Noise Records: A Holiday Album, Vol\. 1](https://open.spotify.com/album/6x2knTjVr1yyrLXV23Rgwn) | 3:18 |
+| 129 | [Room by the Fire](https://open.spotify.com/track/5s9ykrtEtngjyTtvpUwtd8) | [Hannah Miller](https://open.spotify.com/artist/4cmbcY03AMf9h2krGBuucg) | [Sorted Noise Records: A Holiday Album, Vol\. 1](https://open.spotify.com/album/08dRs9SE1pmfV5pmGZsCwt) | 3:18 |
 | 130 | [Christmas Wish](https://open.spotify.com/track/4juMWUhR22wHYG4MxxUdSp) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [A Very She & Him Christmas](https://open.spotify.com/album/3YrU19ATrTJinGwckoI5Dw) | 2:57 |
 | 131 | [What Are You Doing New Year’s Eve?](https://open.spotify.com/track/0SZim5k1ypcgRsWmFcrGfs) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Holidays Rule](https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ) | 4:28 |
 
-Snapshot ID: `MTYzNzMzNjk3MiwwMDAwMDAwMGUyZjQxZTZkNmExMTU2MWMwZDExZDhkYmMwYjAxZmU2`
+Snapshot ID: `MTYzNzMzNjk3MiwwMDAwMDAwMGQ3YWNiODk3MzY2NmI4ZjIxMGQzOTgxZTk1ZWZhZmM3`

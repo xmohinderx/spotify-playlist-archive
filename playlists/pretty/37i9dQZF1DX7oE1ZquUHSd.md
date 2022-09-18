@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 
 > El poder real del Hip Hop latinoamericano y español\. Foto: Cartel de Santa
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,916 likes - 100 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,081 likes - 100 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 | 84 | [Haces Mal](https://open.spotify.com/track/57ZAQ9KG9Oeq6hQlMdDnWR) | [La Banda Baston](https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP) | [Luces Fantasma](https://open.spotify.com/album/0gzZ8kGuKfDlVtBVmDLNJj) | 4:23 |
 | 85 | [Tararea](https://open.spotify.com/track/5TiXw4jvzMAQsWjCpT61TB) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Servicios Ambulatorioz](https://open.spotify.com/album/5aBubKb1PUsfAygzat5ZmJ) | 3:19 |
 | 86 | [Dios, El Diablo Y Yo](https://open.spotify.com/track/1oN8lrSSYirjd79ajvnYh7) | [Iluminatik](https://open.spotify.com/artist/0N6H5exnFMoW4yNQ3vDJ3Z) | [Grandes Éxitos, Vol\. 2](https://open.spotify.com/album/4eMRJj1sPqXwzAMmFexfzj) | 4:56 |
-| 87 | [Me Volví Loco](https://open.spotify.com/track/2Honklohe9Jg9tv24YkCZC) | [King Kong Click](https://open.spotify.com/artist/0lTSSQrxOMu4Keh48GrIkX) | [Buena Suerte](https://open.spotify.com/album/5Vy1jcdgMP8JJYglINGPga) | 3:14 |
-| 88 | [Desahogo](https://open.spotify.com/track/2sG0DhUyomwiWk5gcMUV7Z) | [Vico C](https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6) | [Desahogo](https://open.spotify.com/album/5uENvCoFFohiR1bBF3IxrN) | 4:05 |
+| 87 | [Desahogo](https://open.spotify.com/track/2sG0DhUyomwiWk5gcMUV7Z) | [Vico C](https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6) | [Desahogo](https://open.spotify.com/album/5uENvCoFFohiR1bBF3IxrN) | 4:05 |
+| 88 | [Me Volví Loco](https://open.spotify.com/track/2Honklohe9Jg9tv24YkCZC) | [King Kong Click](https://open.spotify.com/artist/0lTSSQrxOMu4Keh48GrIkX) | [Buena Suerte](https://open.spotify.com/album/5Vy1jcdgMP8JJYglINGPga) | 3:14 |
 | 89 | [1977](https://open.spotify.com/track/7tOAN6w4a1LD0iqkRnIrhZ) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [1977](https://open.spotify.com/album/3ZhTbUZNobDXuzcYWGzxA3) | 3:21 |
 | 90 | [21334](https://open.spotify.com/track/7lLedmf60WiIDLOmSbc5O3) | [Dani Ribba](https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN) | [21334](https://open.spotify.com/album/0FM4ZAHSEWcFVVQe7gAHyF) | 2:57 |
 | 91 | [Yo Quiero Fumar \(I Wanna Get High\) \- Spanish Version](https://open.spotify.com/track/3RIDe85YSYGGoJ0daSzfhD) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX) | [Los Grandes Éxitos En Español \(Spanish Greatest Hits\)](https://open.spotify.com/album/7u6yoSRjIBM2EI52DJLMkZ) | 2:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 | 99 | [Tony Presidio](https://open.spotify.com/track/059R1Qzi5TyYqVKNT1xlaL) | [Vico C](https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6) | [Aquel Que Habia Muerto](https://open.spotify.com/album/4bs7KOBJGZnfSpP4QBP15G) | 6:11 |
 | 100 | [Tardes](https://open.spotify.com/track/3Y5jrneE5ErAfidBuofcKJ) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Ataraxia: A Plena Luz del Dia](https://open.spotify.com/album/2ioeDgPaHJ7cID0n6KrkXi) | 4:08 |
 
-Snapshot ID: `MTYzNzA5NDA5NywwMDAwMDAwMDFjZjNkODEyM2Q2M2E0ZDkzZjFiYTc5M2MxNzczOTU4`
+Snapshot ID: `MTYzNzA5NDA5NywwMDAwMDAwMDYyN2JmNDgzMzA5Nzc0MWIwNTZhN2EwNTFkYzQzM2Iz`

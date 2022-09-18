@@ -1,12 +1,12 @@
 {
   "description": "\uc194\ub85c\uc5ec\ub3c4 \uad1c\ucc2e\uc740 \ub098\ub97c \uc704\ud55c \ub178\ub798\ub4e4",
-  "num_followers": 7015,
+  "num_followers": 7053,
   "original_name": "I'M FINE, SOLO. AND U?",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDgzMjc3NSwwMDAwMDAwMDZjMzA1Zjg3ZWU3NjdjYzg1M2E4N2UzMzU5OWYyZmY0",
+  "snapshot_id": "MTY2MDgzMjc3NSwwMDAwMDAwMGRkNDAyMzY3ODQ5MDBhYmE2NjFiZTY1Nzc0M2Q4MWMw",
   "tracks": [
     {
       "added_at": "2022-08-18 14:26:15",
@@ -795,6 +795,22 @@
     {
       "added_at": "2022-08-18 14:26:15",
       "album": {
+        "name": "lazygirl",
+        "url": "https://open.spotify.com/album/1U3SqPnlfdCLepaAqG9QtQ"
+      },
+      "artists": [
+        {
+          "name": "Chuther",
+          "url": "https://open.spotify.com/artist/3CiocMn9SHnAzKqqPa8mnQ"
+        }
+      ],
+      "duration_ms": 166750,
+      "name": "lazygirl",
+      "url": "https://open.spotify.com/track/0esXzdqhlme2yoddwCxFKK"
+    },
+    {
+      "added_at": "2022-08-18 14:26:15",
+      "album": {
         "name": "GOOD",
         "url": "https://open.spotify.com/album/4UlGIso11ixt3WiNUPZ4kT"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 180006,
       "name": "GOOD",
       "url": "https://open.spotify.com/track/4erhEGuOGQgjv3p1bccnpn"
-    },
-    {
-      "added_at": "2022-08-18 14:26:15",
-      "album": {
-        "name": "lazygirl",
-        "url": "https://open.spotify.com/album/1U3SqPnlfdCLepaAqG9QtQ"
-      },
-      "artists": [
-        {
-          "name": "Chuther",
-          "url": "https://open.spotify.com/artist/3CiocMn9SHnAzKqqPa8mnQ"
-        }
-      ],
-      "duration_ms": 166750,
-      "name": "lazygirl",
-      "url": "https://open.spotify.com/track/0esXzdqhlme2yoddwCxFKK"
     },
     {
       "added_at": "2022-08-18 14:26:15",

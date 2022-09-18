@@ -1,12 +1,12 @@
 {
   "description": "Fresh and recent tracks from the world of Prog Metal. Cover: Architects",
-  "num_followers": 470039,
+  "num_followers": 470164,
   "original_name": "Progressive Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjEyMzYwMCwwMDAwMDAwMGI0NDczYTQ4ZmNkMTQ5YWZlNWQ5OTljZjZiMmI2NDcw",
+  "snapshot_id": "MTY2MjEyMzYwMCwwMDAwMDAwMGE1ZmUyN2I1MjFiOGQ2NGY0NDE5ZWEzYTYyYzFjNzVj",
   "tracks": [
     {
       "added_at": "2022-09-02 13:00:00",
@@ -655,22 +655,6 @@
     {
       "added_at": "2022-09-02 13:00:00",
       "album": {
-        "name": "The Sun Sleeps",
-        "url": "https://open.spotify.com/album/4jgLp45wBAbzOPeEUTSLnP"
-      },
-      "artists": [
-        {
-          "name": "Invent Animate",
-          "url": "https://open.spotify.com/artist/3ALVPmg5sZexSVD2m9atEt"
-        }
-      ],
-      "duration_ms": 254930,
-      "name": "The Sun Sleeps",
-      "url": "https://open.spotify.com/track/3A6JgmzUWDueOffok4KIEW"
-    },
-    {
-      "added_at": "2022-09-02 13:00:00",
-      "album": {
         "name": "Witness",
         "url": "https://open.spotify.com/album/3FVRmhZVaZfLvqHupMbJ6V"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 298160,
       "name": "Napalm",
       "url": "https://open.spotify.com/track/5dLzLhJIeHknajBbRHaZOR"
+    },
+    {
+      "added_at": "2022-09-02 13:00:00",
+      "album": {
+        "name": "The Sun Sleeps",
+        "url": "https://open.spotify.com/album/4jgLp45wBAbzOPeEUTSLnP"
+      },
+      "artists": [
+        {
+          "name": "Invent Animate",
+          "url": "https://open.spotify.com/artist/3ALVPmg5sZexSVD2m9atEt"
+        }
+      ],
+      "duration_ms": 254930,
+      "name": "The Sun Sleeps",
+      "url": "https://open.spotify.com/track/3A6JgmzUWDueOffok4KIEW"
     },
     {
       "added_at": "2022-09-02 13:00:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2022-09-02 13:00:00",
       "album": {
-        "name": "Veracity Found",
-        "url": "https://open.spotify.com/album/1AnwdJfl0h5ZfjLetar3xu"
-      },
-      "artists": [
-        {
-          "name": "Andromida",
-          "url": "https://open.spotify.com/artist/4MRGrA70WS54oeDLbIWrTr"
-        }
-      ],
-      "duration_ms": 191282,
-      "name": "Veracity Found",
-      "url": "https://open.spotify.com/track/4053bgaYVbw6dUSi5gfJDw"
-    },
-    {
-      "added_at": "2022-09-02 13:00:00",
-      "album": {
         "name": "Radiant Ascension",
         "url": "https://open.spotify.com/album/5ov3mKBuN98nepwM13RFCa"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 243312,
       "name": "Radiant Ascension",
       "url": "https://open.spotify.com/track/5qpOR69C7uAEGy7uMJznrW"
+    },
+    {
+      "added_at": "2022-09-02 13:00:00",
+      "album": {
+        "name": "Veracity Found",
+        "url": "https://open.spotify.com/album/1AnwdJfl0h5ZfjLetar3xu"
+      },
+      "artists": [
+        {
+          "name": "Andromida",
+          "url": "https://open.spotify.com/artist/4MRGrA70WS54oeDLbIWrTr"
+        }
+      ],
+      "duration_ms": 191282,
+      "name": "Veracity Found",
+      "url": "https://open.spotify.com/track/4053bgaYVbw6dUSi5gfJDw"
     },
     {
       "added_at": "2022-09-02 13:00:00",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2022-09-02 13:00:00",
       "album": {
-        "name": "Algorithmic Salvation",
-        "url": "https://open.spotify.com/album/47KCxwR5wIEduTaRIcaTzX"
-      },
-      "artists": [
-        {
-          "name": "The Zenith Passage",
-          "url": "https://open.spotify.com/artist/55ISuKXdlefU2R5hV3GWnf"
-        }
-      ],
-      "duration_ms": 209489,
-      "name": "Algorithmic Salvation",
-      "url": "https://open.spotify.com/track/0MOq1oGBPwvKDTINCn0msG"
-    },
-    {
-      "added_at": "2022-09-02 13:00:00",
-      "album": {
         "name": "Heirloom",
         "url": "https://open.spotify.com/album/7lPuo8764m0CLuTltqj1U1"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 304864,
       "name": "Where I Belong",
       "url": "https://open.spotify.com/track/3rJD4jqjvYUgM6F0LVSMWG"
+    },
+    {
+      "added_at": "2022-09-02 13:00:00",
+      "album": {
+        "name": "Algorithmic Salvation",
+        "url": "https://open.spotify.com/album/47KCxwR5wIEduTaRIcaTzX"
+      },
+      "artists": [
+        {
+          "name": "The Zenith Passage",
+          "url": "https://open.spotify.com/artist/55ISuKXdlefU2R5hV3GWnf"
+        }
+      ],
+      "duration_ms": 209489,
+      "name": "Algorithmic Salvation",
+      "url": "https://open.spotify.com/track/0MOq1oGBPwvKDTINCn0msG"
     },
     {
       "added_at": "2022-09-02 13:00:00",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2022-09-02 13:00:00",
       "album": {
-        "name": "Ecdysis",
-        "url": "https://open.spotify.com/album/0sFJx8Ef3rYURwU2B4jjHU"
-      },
-      "artists": [
-        {
-          "name": "Infected Rain",
-          "url": "https://open.spotify.com/artist/7duRZcBRPWVChY0xOyp6DY"
-        }
-      ],
-      "duration_ms": 314333,
-      "name": "Longing",
-      "url": "https://open.spotify.com/track/6ig9kBoTHXEbVhePqzhngW"
-    },
-    {
-      "added_at": "2022-09-02 13:00:00",
-      "album": {
         "name": "Animals as Leaders - Encore Edition",
         "url": "https://open.spotify.com/album/5hVRBZCUCcU3UIhxNikyhf"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 285586,
       "name": "Save Us",
       "url": "https://open.spotify.com/track/4wgNeJC09meKtvYTjGTyG8"
+    },
+    {
+      "added_at": "2022-09-02 13:00:00",
+      "album": {
+        "name": "Ecdysis",
+        "url": "https://open.spotify.com/album/0sFJx8Ef3rYURwU2B4jjHU"
+      },
+      "artists": [
+        {
+          "name": "Infected Rain",
+          "url": "https://open.spotify.com/artist/7duRZcBRPWVChY0xOyp6DY"
+        }
+      ],
+      "duration_ms": 314333,
+      "name": "Longing",
+      "url": "https://open.spotify.com/track/6ig9kBoTHXEbVhePqzhngW"
     },
     {
       "added_at": "2022-09-02 13:00:00",
@@ -3231,22 +3231,6 @@
     {
       "added_at": "2022-09-02 13:00:00",
       "album": {
-        "name": "Cloud 9",
-        "url": "https://open.spotify.com/album/3XdE4xEWmjv7ZckfOoVqAX"
-      },
-      "artists": [
-        {
-          "name": "Red Handed Denial",
-          "url": "https://open.spotify.com/artist/51hAPClmrwe6oa8aXLsbq7"
-        }
-      ],
-      "duration_ms": 196200,
-      "name": "Cloud 9",
-      "url": "https://open.spotify.com/track/6grBntnvJiVqgqqbmeq9iU"
-    },
-    {
-      "added_at": "2022-09-02 13:00:00",
-      "album": {
         "name": "Cloudburst",
         "url": "https://open.spotify.com/album/0uTemOj24WSMxUs4R6Ab4x"
       },
@@ -3275,6 +3259,22 @@
       "duration_ms": 366960,
       "name": "Ocean in the Sky",
       "url": "https://open.spotify.com/track/0FyPJSY4kuQwwd6Bras3ek"
+    },
+    {
+      "added_at": "2022-09-02 13:00:00",
+      "album": {
+        "name": "Cloud 9",
+        "url": "https://open.spotify.com/album/3XdE4xEWmjv7ZckfOoVqAX"
+      },
+      "artists": [
+        {
+          "name": "Red Handed Denial",
+          "url": "https://open.spotify.com/artist/51hAPClmrwe6oa8aXLsbq7"
+        }
+      ],
+      "duration_ms": 196200,
+      "name": "Cloud 9",
+      "url": "https://open.spotify.com/track/6grBntnvJiVqgqqbmeq9iU"
     },
     {
       "added_at": "2022-09-02 13:00:00",

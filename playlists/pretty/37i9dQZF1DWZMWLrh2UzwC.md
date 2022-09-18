@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: BLACKPINK
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,282 likes - 88 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,291 likes - 88 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 26 | [Serial Heartbreaker](https://open.spotify.com/track/1UmFLqmTmgHoSyvss6Q7gw) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Girl Of My Dreams](https://open.spotify.com/album/38aH4OObJSjtO48q2eNoA4) | 2:13 |
 | 27 | [TWO SUGARS](https://open.spotify.com/track/5rZrM1ppBHmHogxLcw8wtH) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [HDTV](https://open.spotify.com/album/6TIzz9Z4n03E5USTDzBweS) | 2:55 |
 | 28 | [The Way You Move](https://open.spotify.com/track/3Ki7n1kx9fzuflkW03iRuw) | [Ruth Garcia](https://open.spotify.com/artist/3VhvDHThiOy3cUZvAR1ZKq) | [The Way You Move](https://open.spotify.com/album/6dppoapvb182OdcmaTqaNc) | 3:33 |
-| 29 | [buzzcut](https://open.spotify.com/track/5uzelqnup22nD2CwxUQGIU) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [buzzcut](https://open.spotify.com/album/4FHh7OcRS13Whv41NW30ux) | 2:34 |
+| 29 | [buzz cut](https://open.spotify.com/track/5uzelqnup22nD2CwxUQGIU) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [buzz cut](https://open.spotify.com/album/4FHh7OcRS13Whv41NW30ux) | 2:34 |
 | 30 | [This Summer Is Killing Me \- 三立電視《門當互懟愛上你》插曲](https://open.spotify.com/track/2g2vUI5oRkGCpHulUoUhgc) | [GJ](https://open.spotify.com/artist/5CqbTtX7bCx1A5wn5xMWvh) | [This Summer Is Killing Me](https://open.spotify.com/album/115miSAkqs97b2Dbo9EVeJ) | 3:33 |
 | 31 | [How Many Times](https://open.spotify.com/track/4AXZYEXduIgEPps3nKbmpq) | [Jaime Wong](https://open.spotify.com/artist/6SzwY0WC15s1MJh3BO9xtz) | [I say too much](https://open.spotify.com/album/2uLHWaGWLAJWQr0Ka1HDrp) | 3:03 |
 | 32 | [Unwell](https://open.spotify.com/track/18w9yxEycSSclOznmhrfoU) | [sleepy benjamin](https://open.spotify.com/artist/2Dpw5rzcRedRcJLH9eyVRc), [DEON](https://open.spotify.com/artist/2m3AQebiU86qWsrwG9Y6gN), [Tomatow](https://open.spotify.com/artist/1FzBO5erQh8xC6qT6tY3tO) | [Unwell](https://open.spotify.com/album/6RxjMmmDWygc4cE0DKeyEp) | 2:54 |

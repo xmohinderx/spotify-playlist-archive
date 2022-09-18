@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: The Black Skirts \(South Korea\)
 
-380 songs - 22 hr 45 min - [published](https://open.spotify.com/playlist/150ZZwzNCm1BXFjIA5T8kJ)
+381 songs - 22 hr 49 min - [published](https://open.spotify.com/playlist/150ZZwzNCm1BXFjIA5T8kJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Close Enough](https://open.spotify.com/track/7z4e9pBBxzUQGxrGogD3ad) | [Sun Cell](https://open.spotify.com/artist/2FkruVc167pPQ7FYtjmPef) | [Close Enough](https://open.spotify.com/album/63ZHJkXV6NuCdW3naAeSXL) | 3:46 | 2022-08-25 | 2022-09-09 |
 | [Close To You](https://open.spotify.com/track/6SQJyYv6qZHhneGddKRdT0) | [CHARLES.](https://open.spotify.com/artist/5k9DAxaugi6ANyemUgQrgV), [Kim Chi Sun](https://open.spotify.com/artist/6R5x0FCE48rOtZjazPbRyh), [Jsdrmns](https://open.spotify.com/artist/5ga5P2bTvSDu4rDRnXI33l) | [Close To You](https://open.spotify.com/album/40FZJu1z9sHJD8qYLqifUm) | 2:44 | 2022-03-24 | 2022-05-20 |
 | [Cloud 9](https://open.spotify.com/track/7HgjuLPrTSunnZIbwwXNHQ) | [Summer Soul](https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao), [ROMderful](https://open.spotify.com/artist/3Aum3IcJEKuGsWVPBZnvyU) | [UTOPIA](https://open.spotify.com/album/19lmfiETJkR6VKXZDsFn02) | 2:46 | 2022-06-09 | 2022-07-15 |
+| [Clue](https://open.spotify.com/track/4xdsWRDp3JSKDwmFgabDC6) | [TRPP](https://open.spotify.com/artist/1aBpZ0N9BHa5pVM8oKhT0D) | [Here to stay](https://open.spotify.com/album/5plpge0LesjTYjCacGLl2M) | 3:50 | 2022-09-15 |  |
 | [cntrl:](https://open.spotify.com/track/1TAbrJpDjryYqi0CktMyho) | [Sam Florian](https://open.spotify.com/artist/2Cn7Bt3a2QtoJnX6lkJN8y) | [cntrl:](https://open.spotify.com/album/1fHutJ5XpLudEcSzleTZmy) | 3:04 | 2022-07-07 | 2022-08-12 |
 | [Coeur Kamikaze 心與海](https://open.spotify.com/track/1xut6DzmmqwYixQ5xRskZ1) | [The Rodeo](https://open.spotify.com/artist/66g3ybCzTYusaxjoARIBEw), [緩緩 Huan Huan](https://open.spotify.com/artist/0JeQFUYo8H7c5K8VIICIIH) | [Coeur Kamikaze 心與海](https://open.spotify.com/album/1Wnwt7wHqrZ5nHI9Xa6QyZ) | 3:31 | 2022-03-24 | 2022-04-02 |
 | [Coffee or tea](https://open.spotify.com/track/05dIejxjljs2szxWX3PKLV) | [AKIKO](https://open.spotify.com/artist/2Opwzcyz0gW62Gz9sbYTRZ) | [Coffee or tea](https://open.spotify.com/album/5cYa0ENtyWPMnfCGEBXVje) | 2:32 | 2022-08-25 |  |

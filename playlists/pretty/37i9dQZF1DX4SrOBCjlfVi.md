@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Kodak Black, G Herbo, and more\. Cover: EST Gee
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,530 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,613 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 6 | [Flawlëss \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/1a019wP7IdYLexwbmfZPm3) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Lyfë](https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu) | 2:56 |
 | 7 | [Love In The Way](https://open.spotify.com/track/3fWchdm3NfLb4licNeIhV7) | [BLEU](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Love In The Way](https://open.spotify.com/album/4sc3Nc9o5sCni7SCPsKE4t) | 3:41 |
 | 8 | [No Limit \(feat\. Babyface Ray\)](https://open.spotify.com/track/2Yn7BzHqwHnDw8XaXlZLVi) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5), [BLEU](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [No Limit \(feat\. Babyface Ray\)](https://open.spotify.com/album/6ONuoWnIfYq4TV7Dxj9p9V) | 2:46 |
-| 9 | [Walk/Spin](https://open.spotify.com/track/3F0RMjxSY9YeH8p5SylbyF) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Walk/Spin](https://open.spotify.com/album/54x77I85ZNITP0wvN07CVT) | 2:31 |
+| 9 | [Spin](https://open.spotify.com/track/3F0RMjxSY9YeH8p5SylbyF) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Walk/Spin](https://open.spotify.com/album/54x77I85ZNITP0wvN07CVT) | 2:31 |
 | 10 | [Never Change \(feat\. Roddy Ricch\)](https://open.spotify.com/track/5LMk48NX7yjNfN30PP4OQ6) | [Symba](https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Never Change \(feat\. Roddy Ricch\)](https://open.spotify.com/album/04owA5C5mh4CyXzpHgFchJ) | 3:59 |
 | 11 | [Robbery Part 4](https://open.spotify.com/track/4CKAeNUTMTnvzpYGKZmQZa) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Robbery Part 4](https://open.spotify.com/album/6yd1SzofJJmS7mEGwkZRCM) | 3:00 |
 | 12 | [Spinnin' \(feat\. Doe Boy\)](https://open.spotify.com/track/0GeQLnbZlfKiGoq83g4w2C) | [Raw Youngin](https://open.spotify.com/artist/44ATBEJe6woTBiC41VWQKd), [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [Spinnin' \(feat\. Doe Boy\)](https://open.spotify.com/album/64pd43qCCe2dR4dMnmit3N) | 2:48 |

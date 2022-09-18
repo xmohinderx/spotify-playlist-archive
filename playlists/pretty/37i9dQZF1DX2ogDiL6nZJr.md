@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ogDiL6nZJr.md) - [plain]
 
 > Home is where you park it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 500,093 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 500,489 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,16 +76,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ogDiL6nZJr.md) - [plain]
 | 66 | [Stuck](https://open.spotify.com/track/3d2oVtfkR9fZGIejnA4fY8) | [SWEED](https://open.spotify.com/artist/1gM5MrKbRvvQuG1SShfkVG) | [Stuck](https://open.spotify.com/album/2DukMfm4xFv4wrG5OxnwmJ) | 3:39 |
 | 67 | [Ocean](https://open.spotify.com/track/6maswXqaxmZmrVnr2B82ii) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Gold Past Life](https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp) | 3:18 |
 | 68 | [Static](https://open.spotify.com/track/4dzJp4NxWFSWUFUhI0s72k) | [Still Corners](https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp) | [The Last Exit](https://open.spotify.com/album/4qQas6wHjmGZsUBS9ziAhe) | 3:55 |
-| 69 | [Speaking of the End](https://open.spotify.com/track/0VgTi18CjUoI1frSMsNXWT) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Through Water](https://open.spotify.com/album/4U7KMGWUL0FQtYCVxVy1Za) | 3:08 |
+| 69 | [Rio Grande](https://open.spotify.com/track/4vdkKF7PQarU8T0xZclHzb) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [Rio Grande](https://open.spotify.com/album/1lmQHGEURZn6u1LnJP69L8) | 4:31 |
 | 70 | [Green Eyes](https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Green Eyes](https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp) | 3:17 |
-| 71 | [Rio Grande](https://open.spotify.com/track/4vdkKF7PQarU8T0xZclHzb) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [Rio Grande](https://open.spotify.com/album/1lmQHGEURZn6u1LnJP69L8) | 4:31 |
+| 71 | [Speaking of the End](https://open.spotify.com/track/0VgTi18CjUoI1frSMsNXWT) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Through Water](https://open.spotify.com/album/4U7KMGWUL0FQtYCVxVy1Za) | 3:08 |
 | 72 | [Belo Horizonte](https://open.spotify.com/track/5v3eLbjMTRPyJk0gDnjCXN) | [Cari Cari](https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV) | [Belo Horizonte](https://open.spotify.com/album/0GGi7u94hGWeEmiB1e7Wjn) | 3:44 |
 | 73 | [Isn't Ever A Day](https://open.spotify.com/track/3YnfOmxe8JaWmowxmgTzms) | [Ten Fé](https://open.spotify.com/artist/3cohAS2UQTaOo80kCn8qjT) | [Future Perfect, Present Tense](https://open.spotify.com/album/1HSawWEsUAGckKHi42kIBS) | 4:44 |
 | 74 | [Comment Allez\-Vous?](https://open.spotify.com/track/6IAP7FxeaJrTqM3ZU354wH) | [Leslie Clio](https://open.spotify.com/artist/2Z8ZYYqedbWaOlSsBRVlmQ) | [Brave New Woman](https://open.spotify.com/album/0gqRfHjhEfRlj8vKXJdvr1) | 3:19 |
 | 75 | [A Lingering Love](https://open.spotify.com/track/1vX5qdTsxb0Gedzmyc8UV2) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Gold Past Life](https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp) | 3:36 |
 | 76 | [Moonlight](https://open.spotify.com/track/3RGdTJbr4eWMS0upJntQAn) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [As Long As You Are](https://open.spotify.com/album/0Xb7fY98lbfsGdo9OdbC9W) | 3:38 |
-| 77 | [No Goodbye](https://open.spotify.com/track/3hSWPdtI58IANIOhulRR7v) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD), [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9) | [No Goodbye](https://open.spotify.com/album/1w0QlUchdZEiY6NYIrmJf2) | 4:12 |
-| 78 | [I'm Around](https://open.spotify.com/track/5mclZNj6vme4vrBOJlJ2ks) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC), [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [I'm Around](https://open.spotify.com/album/2grUI8BnHMjjIxLjRMjxmj) | 4:31 |
+| 77 | [I'm Around](https://open.spotify.com/track/5mclZNj6vme4vrBOJlJ2ks) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC), [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [I'm Around](https://open.spotify.com/album/2grUI8BnHMjjIxLjRMjxmj) | 4:31 |
+| 78 | [No Goodbye](https://open.spotify.com/track/3hSWPdtI58IANIOhulRR7v) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD), [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9) | [No Goodbye](https://open.spotify.com/album/1w0QlUchdZEiY6NYIrmJf2) | 4:12 |
 | 79 | [Love Is Everywhere \(Beware\)](https://open.spotify.com/track/4hrJhMznNddR7UThDKHSJy) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Love Is Everywhere \(Beware\)](https://open.spotify.com/album/0xZgWQ2PZZnFK6T1Lr0OMv) | 3:33 |
 | 80 | [The Barrel \- Edit](https://open.spotify.com/track/12Yg0ccaYI9y1U9Qh5bxRV) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [The Barrel](https://open.spotify.com/album/0kLYa7ncFhiJus9oEICDgo) | 3:39 |
 | 81 | [Keep Going](https://open.spotify.com/track/4cLtxNBdb0zH63vvnitsh3) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Off Off On](https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj) | 6:39 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ogDiL6nZJr.md) - [plain]
 | 90 | [Hole Digger](https://open.spotify.com/track/3UCg61B7K1MYvxhIrR83jf) | [Camel Power Club](https://open.spotify.com/artist/2ziSUHAT6LbHKCJIlwHhDG), [Desingly](https://open.spotify.com/artist/7e75N4iueWn6bCBMR74oWd) | [Hole Digger](https://open.spotify.com/album/0A6bncjAHwmgyeHkmlzvWb) | 3:05 |
 | 91 | [One Evening](https://open.spotify.com/track/4Wo3ZATquIN6z4Zr1W4749) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Let It Die](https://open.spotify.com/album/1dukVxiix2ckr6CMs1T1zI) | 3:36 |
 | 92 | [Sink In](https://open.spotify.com/track/3cFdJIGdexTsNGuzKfsBV2) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Permanent Way](https://open.spotify.com/album/4SJv0ML9KXGtEk6YdPK9Sv) | 3:20 |
-| 93 | [A\-Train](https://open.spotify.com/track/54YPsBTRPJAIITS8oND6wx) | [COMA](https://open.spotify.com/artist/5t9SPy7c5n665XZCoAuR52) | [Voyage Voyage](https://open.spotify.com/album/0cwcEJiVLcBtY84ojgKYsc) | 4:59 |
-| 94 | [My Guitar is too Loud](https://open.spotify.com/track/0E5eQCAkdX7Mt3sQh2tShz) | [Black Sea Dahu](https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70) | [My Guitar is too Loud](https://open.spotify.com/album/7Cf52mLBhP6NdPp1Fj6KBy) | 3:22 |
+| 93 | [My Guitar is too Loud](https://open.spotify.com/track/0E5eQCAkdX7Mt3sQh2tShz) | [Black Sea Dahu](https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70) | [My Guitar is too Loud](https://open.spotify.com/album/7Cf52mLBhP6NdPp1Fj6KBy) | 3:22 |
+| 94 | [A\-Train](https://open.spotify.com/track/54YPsBTRPJAIITS8oND6wx) | [COMA](https://open.spotify.com/artist/5t9SPy7c5n665XZCoAuR52) | [Voyage Voyage](https://open.spotify.com/album/0cwcEJiVLcBtY84ojgKYsc) | 4:59 |
 | 95 | [Arms Of Who](https://open.spotify.com/track/5S6VW7zfblsWX2hsv5SbTG) | [Bayuk](https://open.spotify.com/artist/4FB0ZlyDLV9zyvtJLNmZNw), [Andreas Vey](https://open.spotify.com/artist/2JtnUZejA6jFRZZuqmlJzs) | [Arms of Who](https://open.spotify.com/album/4Blv5Cadh9uukumyIwXQr2) | 4:07 |
 | 96 | [This Here Island](https://open.spotify.com/track/3eeUu1HT2I2cVKjRLklLUh) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [This Here Island](https://open.spotify.com/album/6dV1f3Xt8yzwj8xYQyLJEQ) | 4:03 |
 | 97 | [Dusk](https://open.spotify.com/track/3FeEcY103cc4fmDl6UwoUS) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Dusk](https://open.spotify.com/album/364sZomV3ATJr86kZiJOdb) | 2:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ogDiL6nZJr.md) - [plain]
 | 99 | [Our New World \- with Kyson](https://open.spotify.com/track/374XMHdbsgqK0awW8yldpW) | [YUUL](https://open.spotify.com/artist/5JDHEnjHZtQdcSkMY6mWqN), [Kyson](https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx) | [Our New World \(with Kyson\)](https://open.spotify.com/album/4hotjToQtwMlzRD0XQeYvB) | 3:39 |
 | 100 | [quite alright](https://open.spotify.com/track/3ac7wRpO4zkSxzDDa5kado) | [doppelfinger](https://open.spotify.com/artist/26vQnKIdh6ysJWbcQ6o3P1) | [by design](https://open.spotify.com/album/1IluF9fFD0yPzey3C306zL) | 5:15 |
 
-Snapshot ID: `MTY2MDI1NTIwMCwwMDAwMDAwMDJlZmRkMzFiNmYwYWZhMTg4ZjFlNmFiODI3Mjg1ZGJl`
+Snapshot ID: `MTY2MDI1NTIwMCwwMDAwMDAwMGExYmRkZTliZTdkYmU2Nzg5MGY3OThhMzU4Yjk2ODNl`

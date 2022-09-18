@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0r6G8OGirN.md) - [plain]
 
 > Warm instrumental versions of your favorite Christmas songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,681 likes - 53 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,762 likes - 53 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0r6G8OGirN.md) - [plain]
 | 21 | [It Came Upon The Midnight Clear](https://open.spotify.com/track/7kgBkrinjUUCan2juXayQZ) | [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin), [Hank Jones](https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv) | [It Came Upon The Midnight Clear / God Rest Ye Merry Gentlemen](https://open.spotify.com/album/5MkXBVo1xAvfjfTg6Sn6yP) | 3:00 |
 | 22 | [Santa Baby](https://open.spotify.com/track/4t7gSDW8t9Nzoy3z63Q253) | [William Chu](https://open.spotify.com/artist/1OMbaqIBBz86y7FdoMcwMv) | [Santa Baby](https://open.spotify.com/album/0oVxHx60zwj8nRiPgkcDGp) | 2:17 |
 | 23 | [Once in Royal David's City](https://open.spotify.com/track/68ugUmH1wjIN0vCR98sC7G) | [Red Brick Lane](https://open.spotify.com/artist/2zw8MpGMCASv0YfeAuUUzJ) | [Once in Royal David's City](https://open.spotify.com/album/5dDT9Nh3MCITsacmvIv6lp) | 2:45 |
-| 24 | [Christmas Time Is Here \- Instrumental](https://open.spotify.com/track/4DphT1rljbJjbK9WdrR1zI) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \[2012 Remastered & Expanded Edition\]](https://open.spotify.com/album/7DuJYWu66RPdcekF5TuZ7w) | 6:06 |
+| 24 | [Christmas Time Is Here](https://open.spotify.com/track/7aEjsTKJKspp01vkeVgeRr) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [Charlie Brown Holiday Hits](https://open.spotify.com/album/1d3w7T3iyK3JJQ6kdpE6l9) | 6:03 |
 | 25 | [Here Comes Santa](https://open.spotify.com/track/7dXYFKVoQhAkrY9U2qQzpA) | [Ruth Malton](https://open.spotify.com/artist/2mm0psmPDIsQH3XtQGsl25) | [Here Comes Santa](https://open.spotify.com/album/6ZLd0vpnu2UBLUN7gGUeQk) | 3:28 |
 | 26 | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/track/5DLLYzJ575Fm5nO9JMz1Qb) | [Rebecca McCarthey](https://open.spotify.com/artist/6jwFngKucSiFvC4ZnyNuSq) | [Christmas In New York](https://open.spotify.com/album/2f1Yvqn1ObgJjAZahXKAsW) | 3:38 |
 | 27 | [Good King Wenceslas](https://open.spotify.com/track/2ZSUAGIAUGFRBifcs0SuNt) | [The Mill Basin Band](https://open.spotify.com/artist/4lMgo5IwaCdF1fRSdubcUU) | [Good King Wenceslas](https://open.spotify.com/album/3hgjaTTBTZVIHuXLbUN5my) | 2:24 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0r6G8OGirN.md) - [plain]
 | 52 | [Oh Christmas Tree](https://open.spotify.com/track/2pYXmds8IjEUvg1hFVYygg) | [Holly Humphries](https://open.spotify.com/artist/1LEm1FrOUeY0mc4QSANWCv) | [Blue Christmas](https://open.spotify.com/album/2OTob7u7QIBN14LmOckwvc) | 2:53 |
 | 53 | [A Christmas Love Song](https://open.spotify.com/track/1rkIIRDsTaaAShnlE3qxyD) | [Lori Mechem](https://open.spotify.com/artist/4iOaiUFARBMbAKFW1AHeI4) | [Christmas Jazz 2](https://open.spotify.com/album/28uj6wDrwR9YLC4DPYjrT2) | 3:48 |
 
-Snapshot ID: `MTY2MzI1MzA5NywwMDAwMDAwMDQwNWMzNjI3NjQ1MjZjYTcyZWM0M2Q0NmNkM2Q0ZDA3`
+Snapshot ID: `MTY2MzI1MzA5NywwMDAwMDAwMGVhODYyNTVkZDU2ZTQ3NTRmZTg1NjZmYzFlODliNGEz`

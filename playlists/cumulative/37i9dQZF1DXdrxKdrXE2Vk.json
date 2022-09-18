@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Experience the best of live worship here. Cover: North Point Worship",
+  "description": "Experience the best of live worship here. Cover: Hillsong Worship",
   "name": "Best of Live Worship",
   "published_playlist_ids": [
     "0s8QQefwdwJjE5Nq6dWGT4"
@@ -441,7 +441,7 @@
       ],
       "date_added": "2022-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 636051,
       "name": "Behold Him Now - Live",
       "url": "https://open.spotify.com/track/1YoIKoJR1QkLTS7grOAdCo"
@@ -727,7 +727,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 369270,
       "name": "Christ Be Magnified - Live At Passion 2020",
       "url": "https://open.spotify.com/track/7fysjdB0TXnmGrZpOClTOL"
@@ -749,6 +749,28 @@
       "duration_ms": 263353,
       "name": "Christ Our Hope In Life And Death - Live",
       "url": "https://open.spotify.com/track/73WJz2knb6SJbdsp0uVhRL"
+    },
+    {
+      "album": {
+        "name": "Live From Camp",
+        "url": "https://open.spotify.com/album/5TlrCofUYHkTefOzSKRvW1"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Rachel Halbach",
+          "url": "https://open.spotify.com/artist/4OjfvyOSdI1ojj25vZgDXn"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365185,
+      "name": "Christ Our King - Live From Camp",
+      "url": "https://open.spotify.com/track/36JWXzz773ljAGmwwz4ISZ"
     },
     {
       "album": {
@@ -1136,6 +1158,28 @@
     },
     {
       "album": {
+        "name": "Forever & Amen",
+        "url": "https://open.spotify.com/album/1pbtg4PdtxGJbVc1lUSnuB"
+      },
+      "artists": [
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        },
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 590208,
+      "name": "Forever & Amen (with Kari Jobe) - Live",
+      "url": "https://open.spotify.com/track/7w9cEiNE0z2L3AhqUU4A0O"
+    },
+    {
+      "album": {
         "name": "Free Indeed (Wonder) [Live]",
         "url": "https://open.spotify.com/album/4wtrL9uem0EyVuuJAWTn1w"
       },
@@ -1349,7 +1393,7 @@
       ],
       "date_added": "2022-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 592000,
       "name": "Good (Can't Be Anything Else) - Live",
       "url": "https://open.spotify.com/track/77kvkHuxOiV491BKllJ6gn"
@@ -1560,6 +1604,46 @@
     },
     {
       "album": {
+        "name": "Here In Your House (Live)",
+        "url": "https://open.spotify.com/album/5dPV0J4ZbXfu5AfuOwJRAf"
+      },
+      "artists": [
+        {
+          "name": "Gateway Worship",
+          "url": "https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB"
+        },
+        {
+          "name": "John Michael Howell",
+          "url": "https://open.spotify.com/artist/4BqK6JLgMwQ99hx85DxNhP"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258482,
+      "name": "Here In Your House - Live",
+      "url": "https://open.spotify.com/track/5F8dat7oGa2evN3heXZ078"
+    },
+    {
+      "album": {
+        "name": "Highest Hallelujah",
+        "url": "https://open.spotify.com/album/25BOqHoxTTibHK5BDqwERr"
+      },
+      "artists": [
+        {
+          "name": "Modern Day Cure",
+          "url": "https://open.spotify.com/artist/2Y7qvpOpTRUYs7NSi0kw7s"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277297,
+      "name": "Highest Hallelujah",
+      "url": "https://open.spotify.com/track/2Hw7sdkm2TUTIxPFeSUy6L"
+    },
+    {
+      "album": {
         "name": "Highest Hallelujah",
         "url": "https://open.spotify.com/album/2Pqf8bpzMDIFJ7F2MXqQuV"
       },
@@ -1571,7 +1655,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 277297,
       "name": "Highest Hallelujah",
       "url": "https://open.spotify.com/track/5PLllQ1GiF3v6gJ1zHN08b"
@@ -2374,6 +2458,28 @@
     },
     {
       "album": {
+        "name": "Team Night (Live)",
+        "url": "https://open.spotify.com/album/7eJTb3VeQuRdefsPSQ5lzO"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273245,
+      "name": "Never Walk Alone - Live At Team Night",
+      "url": "https://open.spotify.com/track/6i7YX1pSS23xCdfW1vzjBf"
+    },
+    {
+      "album": {
         "name": "Midnight (Live)",
         "url": "https://open.spotify.com/album/41OU2wb1V5wATL74Qbd5vs"
       },
@@ -2441,6 +2547,24 @@
       "duration_ms": 380000,
       "name": "Not By Might",
       "url": "https://open.spotify.com/track/5BfOrVf48F0mq4DfNlgKud"
+    },
+    {
+      "album": {
+        "name": "Not Gonna Wait (Live)",
+        "url": "https://open.spotify.com/album/0x6LenMSZeFjRfLEZT1T3I"
+      },
+      "artists": [
+        {
+          "name": "Saddleback Worship",
+          "url": "https://open.spotify.com/artist/3bYfSxyg0MnYn3KhZiR0nD"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357836,
+      "name": "Not Gonna Wait - Live",
+      "url": "https://open.spotify.com/track/7DifP5qD58ONBEs0Qy9vtu"
     },
     {
       "album": {
@@ -2823,7 +2947,7 @@
       ],
       "date_added": "2022-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 428567,
       "name": "Resurrender - Live At Team Night",
       "url": "https://open.spotify.com/track/681QpZhGgMqEJGoLcqCOdY"
@@ -3133,7 +3257,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 514665,
       "name": "The Blessing - Live",
       "url": "https://open.spotify.com/track/2elEVvWjPZltkotzcCwKvM"
@@ -3705,7 +3829,7 @@
       ],
       "date_added": "2022-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 397216,
       "name": "What He's Done - Live From Passion 2022",
       "url": "https://open.spotify.com/track/49EYyEIx0xpGuPLWxSsNgX"

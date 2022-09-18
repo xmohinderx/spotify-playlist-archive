@@ -4,7 +4,7 @@
 
 > These LGBTQQIA+ trailblazers knocked doors wide open with their music\. Cover: George Michael
 
-52 songs - 3 hr 22 min - [published](https://open.spotify.com/playlist/2dp2vSXIEM2u6t374SRNfO)
+53 songs - 3 hr 27 min - [published](https://open.spotify.com/playlist/2dp2vSXIEM2u6t374SRNfO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [If I Had You](https://open.spotify.com/track/0H1OyEooZ5SzBYYdJEzxoy) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [For Your Entertainment](https://open.spotify.com/album/0cUNjl7p6LYZJkKXJWzqP0) | 3:48 | 2022-05-31 |  |
 | [Immaterial](https://open.spotify.com/track/6GoLARmR2OZl2EldehFrsA) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH) | 3:52 | 2022-05-31 |  |
 | [Intro](https://open.spotify.com/track/5VfEuwErhx6X4eaPbyBfyu) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/6tzQKMilI02kn1lzLklDI8) | 2:07 | 2022-05-31 |  |
-| [It's a Sin \- 2001 Remaster](https://open.spotify.com/track/6IDHh3FcwLVcG5NsmpQgg2) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Actually](https://open.spotify.com/album/7hkIf8sKiJKRjADB2xan74) | 4:59 | 2022-05-31 |  |
+| [It's a Sin \- 2001 Remaster](https://open.spotify.com/track/6IDHh3FcwLVcG5NsmpQgg2) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Actually](https://open.spotify.com/album/7hkIf8sKiJKRjADB2xan74) | 4:59 | 2022-05-31 | 2022-09-18 |
+| [It's a Sin \- 2018 Remaster](https://open.spotify.com/track/5fy4vfEtv6lzqLx2Mt7stF) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Actually: Further Listening 1987 \- 1988 \(2018 Remaster\)](https://open.spotify.com/album/7ae4SfR2B1wEXX5EwS2Cg7) | 4:59 | 2022-05-31 |  |
 | [Karma Chameleon](https://open.spotify.com/track/48O0GrGJWml3DzHhC5sJ7a) | [Culture Club](https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc) | [At Worst...The Best Of Boy George And Culture Club](https://open.spotify.com/album/7gdwk8zdee8ghIq94Z9ck3) | 4:01 | 2022-05-31 |  |
 | [Land of Lola](https://open.spotify.com/track/6zwCy9ZNn6cQNcOzP0aYkS) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4), [Kinky Boots Ensemble](https://open.spotify.com/artist/4RLUtUZh8bb6wfoMfwjO9q) | [Kinky Boots \(Original Broadway Cast Recording\)](https://open.spotify.com/album/0VfNZpKsykX5WPuyEdBilR) | 3:07 | 2022-05-31 |  |
 | [Livin' la Vida Loca](https://open.spotify.com/track/0Ph6L4l8dYUuXFmb71Ajnd) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Ricky Martin](https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj) | 4:03 | 2022-05-31 |  |

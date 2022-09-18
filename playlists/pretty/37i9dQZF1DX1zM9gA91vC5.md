@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zM9gA91vC5.md) - [plain]
 
 > Concentração no máximo, sem distrações.
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,910 likes - 317 songs - 13 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,931 likes - 317 songs - 13 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -168,8 +168,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zM9gA91vC5.md) - [plain]
 | 158 | [Voyager](https://open.spotify.com/track/6zplwArWlq8WOjRGVZIPii) | [Kristoffer Wallin](https://open.spotify.com/artist/0mn754DaAJCH4nYkvB3IzT) | [Voyager](https://open.spotify.com/album/2XnDUF444KioNZsTWIxBWX) | 2:12 |
 | 159 | [Enouement](https://open.spotify.com/track/2FGyZllOwDIALirU4HK6hZ) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Enouement](https://open.spotify.com/album/4dd6YuBtoc8bdxcQSiTlb7) | 2:14 |
 | 160 | [die letzten Schritte](https://open.spotify.com/track/71UMvOQ8RDBtsBi0rj5uB3) | [Rebecca Mayer](https://open.spotify.com/artist/1N9hJSBYCDRgetd57dZukY) | [der Saibling](https://open.spotify.com/album/5qhOBNNRy0I0dcZ426mosd) | 2:42 |
-| 161 | [La Storia](https://open.spotify.com/track/3U5RTSxDKkhA6rtHEXpI6H) | [Alexander Descartes](https://open.spotify.com/artist/0eDPH1f3HFDuveG1kKeOKK) | [La Storia](https://open.spotify.com/album/0c7N8i0rJZjFJmNn1dkMOe) | 2:44 |
-| 162 | [Hymn for Archimedes](https://open.spotify.com/track/64mtjDgjo03VB8NC4Uf9vX) | [Frerick Den Haan](https://open.spotify.com/artist/0TBTYt8ytHV9fqmQmXQZs5) | [Hymn for Archimedes](https://open.spotify.com/album/41QM1uQUiU5UWkUuIaMjyR) | 3:38 |
+| 161 | [Hymn for Archimedes](https://open.spotify.com/track/64mtjDgjo03VB8NC4Uf9vX) | [Frerick Den Haan](https://open.spotify.com/artist/0TBTYt8ytHV9fqmQmXQZs5) | [Hymn for Archimedes](https://open.spotify.com/album/41QM1uQUiU5UWkUuIaMjyR) | 3:38 |
+| 162 | [La Storia](https://open.spotify.com/track/3U5RTSxDKkhA6rtHEXpI6H) | [Alexander Descartes](https://open.spotify.com/artist/0eDPH1f3HFDuveG1kKeOKK) | [La Storia](https://open.spotify.com/album/0c7N8i0rJZjFJmNn1dkMOe) | 2:44 |
 | 163 | [Postcards](https://open.spotify.com/track/5LHsps6yM7U1ogxSQpEsxM) | [Barry Hudson\-Taylor](https://open.spotify.com/artist/3MuhX7tuEdOUvsOGg7ui02) | [Postcards](https://open.spotify.com/album/3eEKFsABkKbQ4nlOZzmG0M) | 2:35 |
 | 164 | [Little Waltz](https://open.spotify.com/track/7wjFJYxBZgZE643XFyExK1) | [Landegren](https://open.spotify.com/artist/60De3BUZl4OerbDL1pOCqd) | [Little Waltz](https://open.spotify.com/album/2ZcIAV2uiIPCAcYKG9d30C) | 2:45 |
 | 165 | [The Changing Seasons](https://open.spotify.com/track/7DjBH5a3l59agklZXozXNM) | [Mildred Wolf](https://open.spotify.com/artist/3Pj0inogFqTDKgCC5OVTaz) | [The Changing Seasons](https://open.spotify.com/album/33UnDdqWOok4v5cduSyoC6) | 2:13 |
@@ -238,8 +238,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zM9gA91vC5.md) - [plain]
 | 228 | [Semele](https://open.spotify.com/track/7xDJKwrqDHATq89aKu8E2Q) | [Dwight Rivera](https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl) | [Cuaderna Vía](https://open.spotify.com/album/5xyUHwD6UW7hoeS0N1A29o) | 2:46 |
 | 229 | [Wherever I go](https://open.spotify.com/track/5W8M1dSQQTfbbP8wCIDxBn) | [Ellie\-May Robertson](https://open.spotify.com/artist/7Ce1uDyyat0uJpzu7CDaEI) | [Infinity](https://open.spotify.com/album/6ASghZd5aW2oNTjorscSaN) | 2:15 |
 | 230 | [Sublime](https://open.spotify.com/track/22ifgaP1tUahdVaIn1K4ik) | [Figaro Castello](https://open.spotify.com/artist/5Ry3FXe5PMGIUxcADr3a4n) | [Valentina](https://open.spotify.com/album/3JTXSEftjN2uXDc44BKYMW) | 2:17 |
-| 231 | [Introspection](https://open.spotify.com/track/2009vxkuztUlRIwJBHnDB3) | [Amadeo Rossi](https://open.spotify.com/artist/4nUAGaHP7awm9U9E9Cm9GJ) | [Introspection](https://open.spotify.com/album/5tsr4nWmAOyaHtUbdODlIR) | 2:10 |
-| 232 | [Broken Wings](https://open.spotify.com/track/6DsrTcbNItkd09LUx61ZGd) | [Fredrik Lundberg](https://open.spotify.com/artist/1WFoHIANaCtKQ1jrzPl3C3) | [Broken Wings](https://open.spotify.com/album/7yhv9BZoyPY5xlf1LAzW8V) | 2:00 |
+| 231 | [Broken Wings](https://open.spotify.com/track/6DsrTcbNItkd09LUx61ZGd) | [Fredrik Lundberg](https://open.spotify.com/artist/1WFoHIANaCtKQ1jrzPl3C3) | [Broken Wings](https://open.spotify.com/album/7yhv9BZoyPY5xlf1LAzW8V) | 2:00 |
+| 232 | [Introspection](https://open.spotify.com/track/2009vxkuztUlRIwJBHnDB3) | [Amadeo Rossi](https://open.spotify.com/artist/4nUAGaHP7awm9U9E9Cm9GJ) | [Introspection](https://open.spotify.com/album/5tsr4nWmAOyaHtUbdODlIR) | 2:10 |
 | 233 | [Round Corners](https://open.spotify.com/track/5Xihr5cDsWzZoAXDYXIyQT) | [Gino Carbone](https://open.spotify.com/artist/6GHpZni4assd8ljmgjhMix) | [Round Corners](https://open.spotify.com/album/2nSqjcfvtIkeqzscccMkZr) | 2:26 |
 | 234 | [Tree Rhythm](https://open.spotify.com/track/7wksCozvMX6I0imUoTWBCE) | [Gerald Sherman](https://open.spotify.com/artist/3SfdWSRQSadzwAMuxNMO5C) | [Pigeon Prelude](https://open.spotify.com/album/707TxgMgJjfzU5fWLo0UHb) | 2:50 |
 | 235 | [Lavendel](https://open.spotify.com/track/3cWSAOchf5q8dQ7ohaGV2n) | [Felix Møller](https://open.spotify.com/artist/07DAhsZBe6MWpQkiSJHdLL) | [Lavendel](https://open.spotify.com/album/7rdBgstRz5NnrVzpneea7F) | 3:07 |
@@ -326,4 +326,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zM9gA91vC5.md) - [plain]
 | 316 | [Sonder](https://open.spotify.com/track/3piXN9w4wKQGll4ryYpVl5) | [Eugene Goh](https://open.spotify.com/artist/2xWyi5H9hUsrq5V7wZVdNI) | [Sonder](https://open.spotify.com/album/5kJ4JlLmhkJiMnzkMSStON) | 2:55 |
 | 317 | [Vellichor](https://open.spotify.com/track/6wHTJ1Bx98S9qILhLsgeQO) | [Eugene Goh](https://open.spotify.com/artist/2xWyi5H9hUsrq5V7wZVdNI) | [Vellichor](https://open.spotify.com/album/5VbKExVj5IMx2M4ABGZCN7) | 2:37 |
 
-Snapshot ID: `MTY2MzE0MDE1MywwMDAwMDAwMGRjNzU2MzljYTA4YTU4ODYyMTg0YWQ0ZDg1OWNlZTkw`
+Snapshot ID: `MTY2MzE0MDE1MywwMDAwMDAwMGVjN2UwMWZhMmQxYzYyMGJhYWMwZWMxNjgwMWY3MDAz`

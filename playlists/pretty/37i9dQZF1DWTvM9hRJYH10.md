@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 
 > Music from Nashville's emerging Singers and Songwriters across the musical spectrum\.  Cover: Hannah Ellis
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,220 likes - 142 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,219 likes - 142 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

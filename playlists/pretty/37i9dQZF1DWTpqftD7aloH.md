@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpqftD7aloH.md) - [plain]
 
 > No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,511 likes - 100 songs - 9 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,796 likes - 100 songs - 9 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

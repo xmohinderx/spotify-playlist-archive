@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxoleDT3ILq.md) - [plain]
 
 > Todo el sonido indie de Chile\. Foto: Mowat + Colombina Parra
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,002 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,015 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxoleDT3ILq.md) - [plain]
 | 37 | [Te Traigo Flores](https://open.spotify.com/track/3mUS6RxHgkkZ7TesoHkg6l) | [Pascuala Ilabaca y Fauna](https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA) | [Te Traigo Flores](https://open.spotify.com/album/48v1TdJqrUFmqsuRSumwy7) | 3:51 |
 | 38 | [Pasos de Gigantes](https://open.spotify.com/track/1DJQMFVIMbECJ4ElDoSYth) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Índigo](https://open.spotify.com/album/1JUFR4Qgot2SmMssrlsYNz) | 3:49 |
 | 39 | [Noches Perdidas](https://open.spotify.com/track/6v7yCYhjRSZjyLjO9yjEJI) | [Pedropiedra](https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP), [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Noches Perdidas](https://open.spotify.com/album/2sGMCd4mkocvnD1DwlbWCR) | 3:08 |
-| 40 | [El Calor Nos Confundió](https://open.spotify.com/track/1eqDrhKuCrdcFID3cAY9vw) | [Fármacos](https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M) | [Manual de una Pérdida](https://open.spotify.com/album/1w7Z6fBFMBHsVGs6mVA2QV) | 3:27 |
-| 41 | [Madre Mía](https://open.spotify.com/track/1KfTE7KeZzP9re6Z5iVwTT) | [Oye, Elizabeth](https://open.spotify.com/artist/38qv984wcg1RA24MVl4BVP) | [Madre Mía](https://open.spotify.com/album/71oVyBiwTfXKZJ4vd7Cg0W) | 3:15 |
+| 40 | [Madre Mía](https://open.spotify.com/track/1KfTE7KeZzP9re6Z5iVwTT) | [Oye, Elizabeth](https://open.spotify.com/artist/38qv984wcg1RA24MVl4BVP) | [Madre Mía](https://open.spotify.com/album/71oVyBiwTfXKZJ4vd7Cg0W) | 3:15 |
+| 41 | [El Calor Nos Confundió](https://open.spotify.com/track/1eqDrhKuCrdcFID3cAY9vw) | [Fármacos](https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M) | [Manual de una Pérdida](https://open.spotify.com/album/1w7Z6fBFMBHsVGs6mVA2QV) | 3:27 |
 | 42 | [el humo](https://open.spotify.com/track/4jk6AWr2Xly8i9GJBaM6BR) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx) | [el humo](https://open.spotify.com/album/3wxJafS7k8IdofVpP4yXFN) | 4:06 |
 | 43 | [Un Día Planté una Rosa](https://open.spotify.com/track/3BvyDuC2IhlSpG3DfnnXMR) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm), [Natisú](https://open.spotify.com/artist/7BzSI3dTllADHzoJ2crQov) | [La Fuerza](https://open.spotify.com/album/4qMSZDyLdEJtoL19qzG4ld) | 2:41 |
 | 44 | [diamantes ✧✧](https://open.spotify.com/track/02uy9ONTBAMXMisKRUeaoD) | [chicarica](https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN) | [arde lento](https://open.spotify.com/album/63YKlDj4D6jtajVwKwoxJ8) | 3:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxoleDT3ILq.md) - [plain]
 | 99 | [pienso tanto en abrazarte](https://open.spotify.com/track/3xiqRbTKonu8IfhiWsjFx7) | [Koe](https://open.spotify.com/artist/4lfbckka4VlMvoayZnLvoE), [LoCataLira](https://open.spotify.com/artist/41EwEKA7CUCUGvwu2cP0c8) | [pienso tanto en abrazarte](https://open.spotify.com/album/0MYC7UTlvJdqUTVp1Dty70) | 3:38 |
 | 100 | [Interestellar](https://open.spotify.com/track/4oEU8liJYK8AFs3nu06A9h) | [Kali Mutsa](https://open.spotify.com/artist/7EIUORXc76H7zXG7syAtcT) | [Interestellar](https://open.spotify.com/album/7mELjly5TtO9ypSo6aHtpV) | 4:24 |
 
-Snapshot ID: `MTY2MjQwNTEyNSwwMDAwMDAwMGNiYmM0MTE5NjM1NWUzZTM2OWIxYjQ3OWM0NjZmZDM1`
+Snapshot ID: `MTY2MjQwNTEyNSwwMDAwMDAwMDkxZjMwYzQ4NWYyMDAyM2Q2YTcxY2RiNGU0ZmM0NjI5`

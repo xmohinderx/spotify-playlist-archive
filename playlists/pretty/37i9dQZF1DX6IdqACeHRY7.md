@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 
 > Behagelig musik.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,479 likes - 114 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,485 likes - 114 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,8 +111,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 | 101 | [Only You](https://open.spotify.com/track/3wD9lRUL8hYJzPnJDSCzD9) | [Parson James](https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB) | [Only You](https://open.spotify.com/album/6sHajzVPJWUs96opVi2lqe) | 3:18 |
 | 102 | [Need You Now \- Acoustic](https://open.spotify.com/track/1MIpU2U1kUInGTpaCYuVKs) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Same Kind Of Different \(Acoustic\)](https://open.spotify.com/album/6EWejNtoOEYMzQwKIpctti) | 3:23 |
 | 103 | [Faith's Song](https://open.spotify.com/track/4HFUxZOWqVemXYF1T7QQ1l) | [Amy Wadge](https://open.spotify.com/artist/0Zh5nyS0km753bfcX4QGHp) | [Keeping Faith](https://open.spotify.com/album/4lxNvi3XfEZfon54OltWQh) | 2:52 |
-| 104 | [Runaway](https://open.spotify.com/track/7oHijHxh7cI40fNC4S619V) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Runaway](https://open.spotify.com/album/4iioyYjn5y3TYGTdl7qdL5) | 3:38 |
-| 105 | [Nattely](https://open.spotify.com/track/2ySo8G1HaHvgqual8p2Nti) | [Pil](https://open.spotify.com/artist/3vSX14E4YqHrx8nyXeOVen) | [Nattely](https://open.spotify.com/album/6ZbsGkNQtTQXQ2sEf5BTo7) | 3:31 |
+| 104 | [Nattely](https://open.spotify.com/track/2ySo8G1HaHvgqual8p2Nti) | [Pil](https://open.spotify.com/artist/3vSX14E4YqHrx8nyXeOVen) | [Nattely](https://open.spotify.com/album/6ZbsGkNQtTQXQ2sEf5BTo7) | 3:31 |
+| 105 | [Runaway](https://open.spotify.com/track/7oHijHxh7cI40fNC4S619V) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Runaway](https://open.spotify.com/album/4iioyYjn5y3TYGTdl7qdL5) | 3:38 |
 | 106 | [Wildfire \- Alternate Version](https://open.spotify.com/track/6rFdOZ5hKcyU4Zm74hokYs) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [In My Body](https://open.spotify.com/album/3j4PehkkrV1KOF5ZvDtCxY) | 3:53 |
 | 107 | [Back in the Water](https://open.spotify.com/track/1EpMvEVHU883c7m6PzcsAj) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Eyes Closed](https://open.spotify.com/album/75oiBuTpJDC9XGUWwpSSbi) | 3:10 |
 | 108 | [Out of My Hands](https://open.spotify.com/track/1qRDrHtcdLAKiryk0jPtmY) | [SHY Martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Out of My Hands](https://open.spotify.com/album/1MsZ5zY3wBWvB6el4T8Ikh) | 3:23 |
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 | 113 | [You Give Me Something](https://open.spotify.com/track/28euH5Ny1JXxZAt2KjWp62) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Undiscovered](https://open.spotify.com/album/00QEcKEqSmwP8odEMImIuz) | 3:32 |
 | 114 | [Scars To Your Beautiful](https://open.spotify.com/track/19f6MVdX9dLFerHynoM5im) | [Thomas Daniel](https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk) | [Scars To Your Beautiful](https://open.spotify.com/album/7lwdqOUtzxHH7wxUHtFffj) | 3:57 |
 
-Snapshot ID: `MTY2MjcxMzYwOCwwMDAwMDAwMDU3YWUyNTc5Nzg2OWI3YmI2ZTExYzdjMDVlM2RiYjc0`
+Snapshot ID: `MTY2MjcxMzYwOCwwMDAwMDAwMDZkMzAwYzY5ODk3NDI2MWNhMDQwMDM4MmExODVhMmQz`

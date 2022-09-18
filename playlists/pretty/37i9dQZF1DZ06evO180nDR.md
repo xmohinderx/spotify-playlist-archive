@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO180nDR.md) - [plain]
 
 > This is Los Dareyes De La Sierra\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,474 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,485 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO180nDR.md) - [plain]
 | 49 | [La Carrucha \(En Vivo\)](https://open.spotify.com/track/7n9KJBLvSgJONM6Ow59fU2) | [Traviezoz de la Zierra](https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [La Carrucha \(En Vivo\)](https://open.spotify.com/album/2vI8Aflm0jIOqszgQuGaTG) | 3:21 |
 | 50 | [Sufre](https://open.spotify.com/track/74LtuBm6ipOrFDEjjga89B) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Una Copa Más](https://open.spotify.com/album/2dsHCn8CYHtty5dM26h0oI) | 3:37 |
 
-Snapshot ID: `Mjc3MjIyMzMsMDAwMDAwMDA4NTQ4NDcxMTgyN2Y3Njg1YzZjNGY5YWFlNGRmMzkyNg==`
+Snapshot ID: `Mjc3MjM2OTIsMDAwMDAwMDA5MTU1OWExMDk2OGI4MDJlNTA0ODYzMWU1YTBjNWJkNw==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 
 > You can dance or chill.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,557 likes - 80 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,584 likes - 80 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,12 +81,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 | 71 | [Down from this High](https://open.spotify.com/track/36DsWaTvP6quCM4Ibxv2u6) | [kánji](https://open.spotify.com/artist/1IDGlUuHLvSiyzn3CZwh5U), [NØTALUVA](https://open.spotify.com/artist/55NFqO9vW37u5QmUUzRpId) | [Down from this High](https://open.spotify.com/album/4E0VQF4tkbv44VgE57gsXo) | 1:55 |
 | 72 | [Sweet Side \(feat\. Caitlyn Scarlett\)](https://open.spotify.com/track/6YGq0IfrGMx4KsF0GnFpP3) | [Crazy Cousinz](https://open.spotify.com/artist/6VXB0WH4MfmhZyongoEYZr), [Caitlyn Scarlett](https://open.spotify.com/artist/1Bztk1lPSvwiBJCujObyxU) | [Sweet Side \(feat\. Caitlyn Scarlett\)](https://open.spotify.com/album/5g4LsEEhNuYX4h1d7a6EXR) | 3:03 |
 | 73 | [A Little Bit of Faith](https://open.spotify.com/track/3AnCxW4JAndjVO7Uj1Onzi) | [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ), [Graham Candy](https://open.spotify.com/artist/71KlQX0q5wz5f9iytwPfou), [MY PARADE](https://open.spotify.com/artist/4odBqe9WOqpaQWwokqQyyt) | [Colors](https://open.spotify.com/album/6uhw5SnjSw9VGjjYEhlZuB) | 3:02 |
-| 74 | [Floating](https://open.spotify.com/track/6sgmuupyveCXY52NjOYusN) | [PLÜM](https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL) | [Floating](https://open.spotify.com/album/5o0A1ckE8IQd9eyQ8LD8CM) | 3:04 |
-| 75 | [Some Kind Of Love](https://open.spotify.com/track/4v8owgx9HzilDAf4oCyV8z) | [Drove](https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI), [Discrete](https://open.spotify.com/artist/7arwEayqcKWkzDmGEB7xov), [Tudor](https://open.spotify.com/artist/6YPmhC6xckfcUiw4undxAb) | [Some Kind Of Love](https://open.spotify.com/album/37iL6vHATQrHkE1Ku5Ucus) | 2:46 |
+| 74 | [Some Kind Of Love](https://open.spotify.com/track/4v8owgx9HzilDAf4oCyV8z) | [Drove](https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI), [Discrete](https://open.spotify.com/artist/7arwEayqcKWkzDmGEB7xov), [Tudor](https://open.spotify.com/artist/6YPmhC6xckfcUiw4undxAb) | [Some Kind Of Love](https://open.spotify.com/album/37iL6vHATQrHkE1Ku5Ucus) | 2:46 |
+| 75 | [Floating](https://open.spotify.com/track/6sgmuupyveCXY52NjOYusN) | [PLÜM](https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL) | [Floating](https://open.spotify.com/album/5o0A1ckE8IQd9eyQ8LD8CM) | 3:04 |
 | 76 | [Room](https://open.spotify.com/track/0nnOUYjKs5IWiMg414VFFT) | [Braaten](https://open.spotify.com/artist/0odPXKGYqtTpiWJFBhqyVB), [Mathew V](https://open.spotify.com/artist/5XG2NyvMVgff8ZAeKWX8yS) | [Room](https://open.spotify.com/album/2Rp0zDV32VxKHoTh1hPyzV) | 2:58 |
 | 77 | [Winter's Going](https://open.spotify.com/track/2OHlhCHFRHKpPzU6f0eM0O) | [Flantier](https://open.spotify.com/artist/7lyI1b0T23IHhqImEcAP96) | [Winter's Going](https://open.spotify.com/album/6dRC2c6YSEtP0I1QxRq3R3) | 3:20 |
 | 78 | [Tell Me](https://open.spotify.com/track/2VszhzMB5MDLT1bPykCg1K) | [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv), [KIGALI](https://open.spotify.com/artist/0jRMCjkA8ComVHbrHcr3XV) | [Tell Me](https://open.spotify.com/album/2toO0oYU5Odc6EzEje47rB) | 2:32 |
 | 79 | [Scent of Wood \(Bound to Divide Remix\)](https://open.spotify.com/track/10ziUOuysPmpB3mNtCpNTA) | [UOAK](https://open.spotify.com/artist/4hYS3fIqfvtmZPbbggczYk), [Ceci](https://open.spotify.com/artist/0hCW0HH1liY8gpi5Mk2VK4), [Bound to Divide](https://open.spotify.com/artist/5nQ7llwdZYT6MWMeLLe8dc) | [Scent of Wood \(Bound to Divide Remix\)](https://open.spotify.com/album/3F5raVu3wkj29XJ8UKa9o3) | 3:28 |
 | 80 | [Ocean Drive](https://open.spotify.com/track/7lN0cKK4jrnolhjv0myUGm) | [blue my mind](https://open.spotify.com/artist/6D1wjtA3nKandBjo3erjkJ), [Manil](https://open.spotify.com/artist/1ZattA8w6JrHloEUCU2oNl) | [Ocean Drive](https://open.spotify.com/album/3vIjOeb2pMV5FfpTk3tOYf) | 2:33 |
 
-Snapshot ID: `MTY2MzI0NzM4MiwwMDAwMDAwMDU5MWI1NTRkNzk3NWMxOTliZTkzZDhkYjlhYWU2MDVl`
+Snapshot ID: `MTY2MzI0NzM4MiwwMDAwMDAwMDUxNTM4YjE1MWJkNWIyMWY1MzYwN2I5MWRhOTk5Y2Iy`

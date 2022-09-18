@@ -1,12 +1,12 @@
 {
   "description": "A new take on the freshest dance tracks with remixes from Dubdogz & J\u00d8RD, Sonny Fodera, LP Giobbi and more!",
-  "num_followers": 14091,
+  "num_followers": 14100,
   "original_name": "mint Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMGY0ZmM0MTBlNDkzNmY2YzA4ZDE0YjU3YmEyZjQ0NjFi",
+  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMGQ2NTA2YTYzYzg0MWQxMDJjZWVlOTFjNjc4YzAyOGI4",
   "tracks": [
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1303,30 +1303,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Free Your Body (Noizu Remix)",
-        "url": "https://open.spotify.com/album/2huZSD1rl3OePdo2y6in6t"
-      },
-      "artists": [
-        {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        },
-        {
-          "name": "Solardo",
-          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
-        },
-        {
-          "name": "Noizu",
-          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
-        }
-      ],
-      "duration_ms": 228070,
-      "name": "Free Your Body - Noizu Remix",
-      "url": "https://open.spotify.com/track/1XcPgQVOzNYHIQ9LBjU10p"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Love Line (with Tinashe) [HUGEL Remix]",
         "url": "https://open.spotify.com/album/0uYAo4XuwGXdsPQaWDcmqb"
       },
@@ -1347,6 +1323,30 @@
       "duration_ms": 145638,
       "name": "Love Line (with Tinashe) - HUGEL Remix",
       "url": "https://open.spotify.com/track/5JLJspwJ2bV0MHQw5zTdsj"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Free Your Body (Noizu Remix)",
+        "url": "https://open.spotify.com/album/2huZSD1rl3OePdo2y6in6t"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Solardo",
+          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
+        },
+        {
+          "name": "Noizu",
+          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
+        }
+      ],
+      "duration_ms": 228070,
+      "name": "Free Your Body - Noizu Remix",
+      "url": "https://open.spotify.com/track/1XcPgQVOzNYHIQ9LBjU10p"
     },
     {
       "added_at": "2021-07-30 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjt5iSjw7DI.md) - [plain]
 
 > Country Music legends recorded live\.   Just like being there.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,034 likes - 150 songs - 9 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,107 likes - 150 songs - 9 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

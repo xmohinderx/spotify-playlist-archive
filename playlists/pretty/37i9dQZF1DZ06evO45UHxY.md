@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45UHxY.md) - [plain]
 
 > This is Banda Zeta\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,323 likes - 49 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,324 likes - 49 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45UHxY.md) - [plain]
 | 48 | [Pinto Raya](https://open.spotify.com/track/1SaWeuHTTtX3bmLx8dvvGY) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Como un Tatuaje](https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX) | 3:02 |
 | 49 | [En Que Fallé](https://open.spotify.com/track/3b4mdAyMoU7rTqZhFKfukc) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Como un Tatuaje](https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX) | 2:46 |
 
-Snapshot ID: `Mjc3MjIyMzMsMDAwMDAwMDBhZjg3N2NmYTU1ZTRkN2JjNWZjZGQ3NTk0NjhkYWYwYw==`
+Snapshot ID: `Mjc3MjM2OTIsMDAwMDAwMDBjNTFjZmJmNDk1OGVhZTA2NGY5OWE4Y2UxMThmYjIxMg==`

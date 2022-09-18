@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9XEOPDgFX3.md) - [plain]
 
 > Walk the bridge between indie and folk\. Cover: Adam Melchor
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,596 likes - 125 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,676 likes - 125 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9XEOPDgFX3.md) - [plain]
 | 66 | [Old Peel](https://open.spotify.com/track/0vuZebTvcwkstUpoo82lpG) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Old Peel](https://open.spotify.com/album/5SdjxVnwwn4w25boDjEmMR) | 3:16 |
 | 67 | [Someone New](https://open.spotify.com/track/4rkUQKlWrCM6DiYRFqybdZ) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Someone New](https://open.spotify.com/album/6gwAAOZeKLYDAPzSSP4SCa) | 3:49 |
 | 68 | [Hard Drive](https://open.spotify.com/track/3ArnNhm8z0ScjDKfGHSBRk) | [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [An Overview on Phenomenal Nature](https://open.spotify.com/album/1NzOdSkSNmBhhg72KlNcsE) | 5:27 |
-| 69 | [Hunter](https://open.spotify.com/track/466VygGb2Jte8wlEWq0snM) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [The Greatest Part](https://open.spotify.com/album/1CZYxx4kb3EdV5Gl25vhST) | 2:49 |
-| 70 | [Distant Axis](https://open.spotify.com/track/7yEoR6Cm6avOgK5RYyKs0H) | [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp) | [Serpentine Prison \(Deluxe Edition\)](https://open.spotify.com/album/4IfdGdYnWooM3sSN03UQZA) | 4:25 |
+| 69 | [Distant Axis](https://open.spotify.com/track/7yEoR6Cm6avOgK5RYyKs0H) | [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp) | [Serpentine Prison \(Deluxe Edition\)](https://open.spotify.com/album/4IfdGdYnWooM3sSN03UQZA) | 4:25 |
+| 70 | [Hunter](https://open.spotify.com/track/466VygGb2Jte8wlEWq0snM) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [The Greatest Part](https://open.spotify.com/album/1CZYxx4kb3EdV5Gl25vhST) | 2:49 |
 | 71 | [stoned](https://open.spotify.com/track/2lHLhy71ZIqedHum50FhvF) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [i don’t know who needs to hear this...](https://open.spotify.com/album/5orWhhMYUzPXsKx4pDZWak) | 4:45 |
 | 72 | [Robber](https://open.spotify.com/track/57sW7XhinRtf8lL4GwzVGi) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Ignorance](https://open.spotify.com/album/3KeR5BDM2giFr8zoSXBrgE) | 5:20 |
 | 73 | [It Wasn't Me](https://open.spotify.com/track/0fEFGxcfXnXHeHfvuVFuo1) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [Waysides](https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri) | 4:07 |
@@ -130,8 +130,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9XEOPDgFX3.md) - [plain]
 | 120 | [Let's Move To The Country](https://open.spotify.com/track/7DDOKDN5Z1MzAi6KWpTJjn) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Gold Record](https://open.spotify.com/album/309GzmwSB1Aj3gh8Tpp3Fo) | 3:19 |
 | 121 | [Station to Station](https://open.spotify.com/track/4rFfeIVPKs1Rgr3ppaerQX) | [Mega Bog](https://open.spotify.com/artist/0zodxoaogKBIOzB0c0zFUO) | [Life, and Another](https://open.spotify.com/album/4xeTLqZJ2RHgawaBVDth5d) | 4:25 |
 | 122 | [Calling The Shots](https://open.spotify.com/track/327V3cyuKrjlHzcoup18bX) | [Jamie B.](https://open.spotify.com/artist/0V7j0A3N5hup0XNQVKYvrQ) | [Calling The Shots](https://open.spotify.com/album/2tqxQyefvJhebANvFfyS97) | 3:51 |
-| 123 | [Other You](https://open.spotify.com/track/1LQf4dPrvgiuGyRtrXzZ2e) | [Steve Gunn](https://open.spotify.com/artist/7uLXW75DlTRahz2WKJZGeO) | [Other You / Reflection](https://open.spotify.com/album/1BbUZkxKb97FwrTMuRbt5z) | 5:43 |
-| 124 | [Valley](https://open.spotify.com/track/1W7RPYYwhzOZFvJnkwXlLZ) | [Racoma](https://open.spotify.com/artist/3Y3bK9UlgDtqEfIwFUCLH0) | [Valley](https://open.spotify.com/album/4fdEKnOKRHW3lU2YK3BbLD) | 3:29 |
+| 123 | [Valley](https://open.spotify.com/track/1W7RPYYwhzOZFvJnkwXlLZ) | [Racoma](https://open.spotify.com/artist/3Y3bK9UlgDtqEfIwFUCLH0) | [Valley](https://open.spotify.com/album/4fdEKnOKRHW3lU2YK3BbLD) | 3:29 |
+| 124 | [Other You](https://open.spotify.com/track/1LQf4dPrvgiuGyRtrXzZ2e) | [Steve Gunn](https://open.spotify.com/artist/7uLXW75DlTRahz2WKJZGeO) | [Other You / Reflection](https://open.spotify.com/album/1BbUZkxKb97FwrTMuRbt5z) | 5:43 |
 | 125 | [May](https://open.spotify.com/track/4JhCFrz0W9JuwsgT1c4HJT) | [Humbird](https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB) | [May](https://open.spotify.com/album/53MJvvksiE4OBv49EWp0dl) | 3:58 |
 
-Snapshot ID: `MTY2MjY5NjAwMCwwMDAwMDAwMGUyZGFlMzk4MjhjYmY3OWZiNzM1ZmJiZWYxOTE0YWQw`
+Snapshot ID: `MTY2MjY5NjAwMCwwMDAwMDAwMGZkMjA3OTc2NWY2MGMyZWM2NDVjMDJjYTM4Mzg0MmMy`

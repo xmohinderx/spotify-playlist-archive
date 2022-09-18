@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wWHvPMMfNA.md) - [plain]
 
 > Soft instrumental Jazz for working or studying.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,891 likes - 100 songs - 8 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,953 likes - 100 songs - 8 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wWHvPMMfNA.md) - [plain]
 | 61 | [If Ever I Would Leave You \- Remasted 1998/ Rudy Van Gelder Edition](https://open.spotify.com/track/2DPcK58j3Zms6ybVIKSIIY) | [Kenny Dorham](https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er) | [Una Mas](https://open.spotify.com/album/478lLfwrnUMDKIgaLCPTIy) | 5:09 |
 | 62 | [Everybody's Somebody's Fool](https://open.spotify.com/track/3Fd6oqnuEVzOjzfh13k0CA) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Gettin' Around](https://open.spotify.com/album/1kKp5dSbveAtH9KmuGP6z9) | 6:47 |
 | 63 | [Gee Baby, Ain't I Good To You \- Remastered](https://open.spotify.com/track/3UrxgGboM1N5xsdOcz4o0K) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [Midnight Blue \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/0hMuKAciHKinu4L3R4Ojjl) | 4:25 |
-| 64 | [Self\-Portrait in Three Colors](https://open.spotify.com/track/38C8v33eis3fa4hLf0dl8Z) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [Mingus Ah Um](https://open.spotify.com/album/7pojWP7x9uEFSJgw765khA) | 3:07 |
-| 65 | [My Romance](https://open.spotify.com/track/3LT1zcX6o7Xv2IfJrlU4f1) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk), [Harry "Sweets" Edison](https://open.spotify.com/artist/4rZoL92ShDgN9SLLg4OPPN) | [Ben And "Sweets"](https://open.spotify.com/album/2ZLYIpIfXFCbwBkaqgRhBk) | 4:14 |
+| 64 | [My Romance](https://open.spotify.com/track/3LT1zcX6o7Xv2IfJrlU4f1) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk), [Harry "Sweets" Edison](https://open.spotify.com/artist/4rZoL92ShDgN9SLLg4OPPN) | [Ben And "Sweets"](https://open.spotify.com/album/2ZLYIpIfXFCbwBkaqgRhBk) | 4:14 |
+| 65 | [Self\-Portrait in Three Colors](https://open.spotify.com/track/38C8v33eis3fa4hLf0dl8Z) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [Mingus Ah Um](https://open.spotify.com/album/7pojWP7x9uEFSJgw765khA) | 3:07 |
 | 66 | [Chartreuse](https://open.spotify.com/track/3AF40YsNhI8LfFnxKvcgGB) | [Kenny Drew](https://open.spotify.com/artist/65uKPt40QH8dMBLuoJHPVY) | [Kenny Drew And His Progressive Piano](https://open.spotify.com/album/3xelKHGo8Hcp0Eml2S95pe) | 4:33 |
 | 67 | [Stella By Starlight](https://open.spotify.com/track/7JQlMm9c0pkOeowoMCeCTG) | [Benny Golson](https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG) | [Turning Point](https://open.spotify.com/album/0agszqZvTEs9EpGAsAj6yT) | 4:52 |
 | 68 | [Serenade In Blue](https://open.spotify.com/track/0CV4chKrc8YPkQZel7Oe88) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz And The Cool Sounds](https://open.spotify.com/album/4wTBjSOFmJQ0IWTdulEFVU) | 3:53 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wWHvPMMfNA.md) - [plain]
 | 88 | [Serenade In Blue](https://open.spotify.com/track/29nKWbQUYATHKzOGss2ssj) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Landslide](https://open.spotify.com/album/1cZifNyhDjtYokRPwLkqAB) | 5:02 |
 | 89 | [With A Little Bit Of Luck \- Instrumental](https://open.spotify.com/track/2sYInNWcg7ZL9cLobvs0oo) | [Shelly Manne And His Friends](https://open.spotify.com/artist/4NmuwMxBl62HSU4nXZYLUf) | [My Fair Lady](https://open.spotify.com/album/0HyyWDSM4mZcnkHIXo6oza) | 6:02 |
 | 90 | [Dear Sir](https://open.spotify.com/track/3HHAG4smOvTfKfkDqpBe7X) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [The Procrastinator](https://open.spotify.com/album/4HyzR2bsFvS4GqJMYtHjvq) | 6:55 |
-| 91 | [Subdued \- Remastered 1999 / Rudy Van Gelder Edition](https://open.spotify.com/track/07HefsmANpCb8BUJCTDzjC) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [A Fickle Sonance](https://open.spotify.com/album/4051tUgDDS3N4S4X8r4HlL) | 5:54 |
-| 92 | [Fellowship](https://open.spotify.com/track/5rxQWZpWoXrc9P4VfXJFR1) | [Glenn Zaleski](https://open.spotify.com/artist/0M5jsQVMD2A3wpBLI9qs8W) | [Fellowship](https://open.spotify.com/album/7FtiFheUH43hI2aEFM8ndF) | 6:57 |
+| 91 | [Fellowship](https://open.spotify.com/track/5rxQWZpWoXrc9P4VfXJFR1) | [Glenn Zaleski](https://open.spotify.com/artist/0M5jsQVMD2A3wpBLI9qs8W) | [Fellowship](https://open.spotify.com/album/7FtiFheUH43hI2aEFM8ndF) | 6:57 |
+| 92 | [Subdued \- Remastered 1999 / Rudy Van Gelder Edition](https://open.spotify.com/track/07HefsmANpCb8BUJCTDzjC) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [A Fickle Sonance](https://open.spotify.com/album/4051tUgDDS3N4S4X8r4HlL) | 5:54 |
 | 93 | [Blues For Daryl](https://open.spotify.com/track/6oTTdFI04W4QbfyzKfeTaI) | [Teddy Wilson](https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii) | [I Got Rhythm](https://open.spotify.com/album/06nblZEpSdnbBN6iLwl3W9) | 3:31 |
 | 94 | [These Foolish Things](https://open.spotify.com/track/0mrCcgj3gqbLEZxW0SIifx) | [Jutta Hipp](https://open.spotify.com/artist/1nUb2VIRkIq9Qwmg1XdI1T), [Zoot Sims](https://open.spotify.com/artist/1pwr5rTWLVfqhvHfB7Reap) | [Jutta Hipp With Zoot Sims \(Expanded Edition\)](https://open.spotify.com/album/3Caef1zBtNTPEIg5C3XZI2) | 6:12 |
 | 95 | [What It's All About](https://open.spotify.com/track/2QXo6BPjYrNc1RESHn8X5d) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K), [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5) | [Gerry Mulligan Meets Johnny Hodges](https://open.spotify.com/album/3qtmg537HyA6zWtAnwM98z) | 4:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wWHvPMMfNA.md) - [plain]
 | 99 | [Everything Happens to Me](https://open.spotify.com/track/113E6wtJ5gM2KwhWnj8dwr) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Nice People](https://open.spotify.com/album/2V8adRKIBTgptogEDc2U8p) | 5:19 |
 | 100 | [I'll Never Be The Same](https://open.spotify.com/track/4hW6cmyVnxXT92Gd4xwzDj) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [The Hawk Relaxes](https://open.spotify.com/album/3fRgp7LyVaJow0lcZ9dZyH) | 6:08 |
 
-Snapshot ID: `MTY2MzA3MjAxOCwwMDAwMDAwMDNjNTM2NzlhNWRjNzMxZDFhODk0NzA5M2ViNzc0N2Jk`
+Snapshot ID: `MTY2MzA3MjAxOCwwMDAwMDAwMGE5MmIyM2RhZjlkMjUwOWIzZDkzZjM0YTZmMjM2YzY5`

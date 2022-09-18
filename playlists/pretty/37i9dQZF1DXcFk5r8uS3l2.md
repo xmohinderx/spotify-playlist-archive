@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFk5r8uS3l2.md) - [plain]
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Amythyst Kiah
 
-[Spotify](https://open.spotify.com/user/spotify) - 414,739 likes - 75 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 414,773 likes - 75 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFk5r8uS3l2.md) - [plain]
 | 62 | [Unchained](https://open.spotify.com/track/0cSJAbriuoamIYy7AfK2lr) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Black Hole Rainbow](https://open.spotify.com/album/0F6GEmGd1mErhB4Ie2d2So) | 4:04 |
 | 63 | [More Than Love](https://open.spotify.com/track/2aOFeTEHfs2fXvzBtpdfni) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Bloodline Maintenance](https://open.spotify.com/album/5ZiQvnBPWaLdNtoZxYNuth) | 3:07 |
 | 64 | [Savior](https://open.spotify.com/track/0oNrkWjdY3U8sZRJkcjbDP) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Keep On](https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ) | 3:43 |
-| 65 | [Hitchin' a Ride](https://open.spotify.com/track/7oCx2L4JBKi6wQYhXzT8FN) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Hitchin' a Ride](https://open.spotify.com/album/52GMS1garIMItzvmogm1MF) | 4:30 |
-| 66 | [Colors \- Acoustic](https://open.spotify.com/track/7ubLP1DYpvxm4WMsRCKmmv) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Colors \(Acoustic\)](https://open.spotify.com/album/6Mltcw41Ponx8agMEUPU5o) | 5:23 |
+| 65 | [Colors \- Acoustic](https://open.spotify.com/track/7ubLP1DYpvxm4WMsRCKmmv) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Colors \(Acoustic\)](https://open.spotify.com/album/6Mltcw41Ponx8agMEUPU5o) | 5:23 |
+| 66 | [Hitchin' a Ride](https://open.spotify.com/track/7oCx2L4JBKi6wQYhXzT8FN) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Hitchin' a Ride](https://open.spotify.com/album/52GMS1garIMItzvmogm1MF) | 4:30 |
 | 67 | [Down to the River](https://open.spotify.com/track/0tVw6rUAUI0w01PN9FQeyD) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Down to the River](https://open.spotify.com/album/3JiILntTtRreadH6W8ftB2) | 3:51 |
 | 68 | [Neon Experience \- Live from Vatnagarðar](https://open.spotify.com/track/3MLlB7G51LJaILSRUMfU2k) | [Júníus Meyvant](https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26) | [Síminn+Spotify Session](https://open.spotify.com/album/2n2zexzNMZYmptJ1vAoTM4) | 5:52 |
 | 69 | [Oak Tree](https://open.spotify.com/track/0H9gWRPB92lrwtjtQtdrwD) | [Mirel Wagner](https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx) | [When the Cellar Children See the Light of Day](https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK) | 3:00 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFk5r8uS3l2.md) - [plain]
 | 74 | [Hooray Hooray](https://open.spotify.com/track/5kNEJJmeAV6e97ScR40e0q) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [GET ON BOARD](https://open.spotify.com/album/3d5mOvPLoAggvWctC7L12Z) | 4:19 |
 | 75 | [Love Like There's No Tomorrow](https://open.spotify.com/track/0pom84iOS1iE0OCc1vWJBX) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Healing Tide](https://open.spotify.com/album/06UpUVi6uLrcg2kjlQoE5Q) | 2:24 |
 
-Snapshot ID: `MTY2MzMwMDg2MCwwMDAwMDAwMDFhYmMxZTVmNjMyZWVkNDRhMzcxOTFjZjBhNzc4YjZi`
+Snapshot ID: `MTY2MzMwMDg2MCwwMDAwMDAwMDQ3MzVmMTgyMzdmMzAyNDE0ZDU4M2Y0ZTc1ZDg1YzRm`

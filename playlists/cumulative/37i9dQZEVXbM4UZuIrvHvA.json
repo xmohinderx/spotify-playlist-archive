@@ -723,7 +723,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 220779,
       "name": "Angel Baby",
       "url": "https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc"
@@ -2105,7 +2105,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 228373,
       "name": "Call Out My Name",
       "url": "https://open.spotify.com/track/09mEdoA6zrmBPgTEN5qXmN"
@@ -3165,7 +3165,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-17",
+      "date_removed": null,
       "duration_ms": 169322,
       "name": "DIGIDAM",
       "url": "https://open.spotify.com/track/4CAkNkLEAADjUyGJ7zNLZn"
@@ -5056,6 +5056,24 @@
     },
     {
       "album": {
+        "name": "BORN PINK",
+        "url": "https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162569,
+      "name": "Hard to Love",
+      "url": "https://open.spotify.com/track/3MJhPqL2IgGs7gHEB2M35q"
+    },
+    {
+      "album": {
         "name": "Have Yourself A Merry Little Christmas",
         "url": "https://open.spotify.com/album/3nCpXy6LlyXWuFR08tMycK"
       },
@@ -5945,7 +5963,7 @@
       ],
       "date_added": "2022-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 183956,
       "name": "I Wanna Be Yours",
       "url": "https://open.spotify.com/track/7a8GawTVgHZvBLQOh46he7"
@@ -7129,7 +7147,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 177954,
       "name": "Late Night Talking",
       "url": "https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK"
@@ -10155,10 +10173,28 @@
       ],
       "date_added": "2022-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 186964,
       "name": "Pink Venom",
       "url": "https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj"
+    },
+    {
+      "album": {
+        "name": "BORN PINK",
+        "url": "https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186964,
+      "name": "Pink Venom",
+      "url": "https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY"
     },
     {
       "album": {
@@ -10469,6 +10505,24 @@
       "duration_ms": 165925,
       "name": "RAPSTAR",
       "url": "https://open.spotify.com/track/43PGPuHIlVOc04jrZVh9L6"
+    },
+    {
+      "album": {
+        "name": "BORN PINK",
+        "url": "https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184677,
+      "name": "Ready For Love",
+      "url": "https://open.spotify.com/track/1Wwh6gmMeolwzbRzfZMY5b"
     },
     {
       "album": {
@@ -10965,7 +11019,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 215626,
       "name": "Save Your Tears",
       "url": "https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g"
@@ -11115,7 +11169,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 196784,
       "name": "Sex, Drugs, Etc.",
       "url": "https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6"
@@ -11243,6 +11297,24 @@
       "duration_ms": 207853,
       "name": "Shivers",
       "url": "https://open.spotify.com/track/75MNhvTCCKsST3YqqUiU9r"
+    },
+    {
+      "album": {
+        "name": "BORN PINK",
+        "url": "https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175889,
+      "name": "Shut Down",
+      "url": "https://open.spotify.com/track/7gRFDGEzF9UkBV233yv2dc"
     },
     {
       "album": {
@@ -12065,7 +12137,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 177391,
       "name": "Summer High",
       "url": "https://open.spotify.com/track/1aL9518P5G72N92b48tuKw"
@@ -12478,6 +12550,24 @@
     },
     {
       "album": {
+        "name": "BORN PINK",
+        "url": "https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184248,
+      "name": "Tally",
+      "url": "https://open.spotify.com/track/0bYVPJvXr8ACmw313cVvhB"
+    },
+    {
+      "album": {
         "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
         "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
       },
@@ -12819,6 +12909,24 @@
       "duration_ms": 198053,
       "name": "The Feels",
       "url": "https://open.spotify.com/track/6pgqZ7Iw4LfHlfgWWaRFSY"
+    },
+    {
+      "album": {
+        "name": "BORN PINK",
+        "url": "https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222025,
+      "name": "The Happiest Girl",
+      "url": "https://open.spotify.com/track/7AdGloF1UHKe1vAZPbqIXH"
     },
     {
       "album": {
@@ -13274,6 +13382,24 @@
     },
     {
       "album": {
+        "name": "BORN PINK",
+        "url": "https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179172,
+      "name": "Typa Girl",
+      "url": "https://open.spotify.com/track/0L8LOav65XwLjCLS11gNPD"
+    },
+    {
+      "album": {
         "name": "Indigo (Extended)",
         "url": "https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww"
       },
@@ -13517,7 +13643,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 189893,
       "name": "WAIT FOR U (feat. Drake & Tems)",
       "url": "https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK"
@@ -14131,6 +14257,24 @@
       "duration_ms": 121572,
       "name": "WUSYANAME (feat. Youngboy Never Broke Again & Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/5B0kgjHULYJhAQkK5XsMoC"
+    },
+    {
+      "album": {
+        "name": "BORN PINK",
+        "url": "https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178923,
+      "name": "Yeah Yeah Yeah",
+      "url": "https://open.spotify.com/track/5y4WmuvFX1t3NdSId0MFOh"
     },
     {
       "album": {

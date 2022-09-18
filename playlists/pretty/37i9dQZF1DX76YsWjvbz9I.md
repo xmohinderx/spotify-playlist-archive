@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 
 > The unforgettable romantic Jazz songs\. Cover: Nat King Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,374 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,651 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 | 87 | [With A Song In My Heart \- 78 rpm Version](https://open.spotify.com/track/6pX2pj2rgiMky1DoIJTCoj) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6) | [A Day At The Movies](https://open.spotify.com/album/2d9J1hq0I8fkd1vKUYCgwi) | 3:07 |
 | 88 | [My Foolish Heart](https://open.spotify.com/track/6gEIFDwEixJQy6DbxToS77) | [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [Blue Moon](https://open.spotify.com/album/5K2vLgwzjuVSe07sDQjTbX) | 3:09 |
 | 89 | [Tenderly](https://open.spotify.com/track/2ecdYdhDTfQ3P9rGQzFVi5) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK) | [I Feel a Song Coming On: Lost Radio Recordings](https://open.spotify.com/album/3pTvid1kfdxgbJA6GlLj0F) | 2:47 |
-| 90 | [Until The Real Thing Comes Along \- Remastered/1998](https://open.spotify.com/track/6rHGfH2SCBlwZSQTm2FfYD) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [This Time I'm Swingin'](https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y) | 3:02 |
-| 91 | [Please Be Kind](https://open.spotify.com/track/31Av0tiBUfxZhagZ5hZDIS) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [The Man I Love](https://open.spotify.com/album/2mWSpn3BGdkpp0RBTfGpbj) | 4:13 |
+| 90 | [Please Be Kind](https://open.spotify.com/track/31Av0tiBUfxZhagZ5hZDIS) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [The Man I Love](https://open.spotify.com/album/2mWSpn3BGdkpp0RBTfGpbj) | 4:13 |
+| 91 | [Until The Real Thing Comes Along \- Remastered/1998](https://open.spotify.com/track/6rHGfH2SCBlwZSQTm2FfYD) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [This Time I'm Swingin'](https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y) | 3:02 |
 | 92 | [Easy Living](https://open.spotify.com/track/7GfGULTcjWV5Np3xFNZ9hW) | [Monica Zetterlund](https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD) | [Swedish Sensation](https://open.spotify.com/album/6UAzZrcoC6kwtTbIJiaTrh) | 5:37 |
 | 93 | [I Love You](https://open.spotify.com/track/25uHdsKbJ51ovqUODbz00P) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [Anita O'Day Swings Cole Porter With Billy May](https://open.spotify.com/album/7fW57iJNSmeL29fUnBTTIO) | 1:59 |
 | 94 | [A Time For Love](https://open.spotify.com/track/1R0wvgE1PnzLoE9YyXkkzb) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Pointless Nostalgic](https://open.spotify.com/album/4AD8H57Um3MlSuuqN4fZNv) | 5:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 | 99 | [Baby, What Else Can I Do?](https://open.spotify.com/track/0W74XoidEMmssr9r7QwE44) | [Ethel Waters](https://open.spotify.com/artist/3INcDDCxVKMIQT6rfR7kud) | [100 Super Best](https://open.spotify.com/album/3xMtRya9z707O4oypvzHTl) | 2:57 |
 | 100 | [You Leave Me Breathless \- 2015 Remastered Version](https://open.spotify.com/track/3MmiQ6gww1XjbWuJXIgZ9f) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC) | [It's a Blue World \(2015 Remastered Version\)](https://open.spotify.com/album/3H4xz6H9pnLcJH2vq8jC70) | 3:23 |
 
-Snapshot ID: `MTY2MzI1MTAyMCwwMDAwMDAwMGQ3ZDdlMDA5YTRhMzJiMjhhMWIxYjQ3YmVmYzNmOGI1`
+Snapshot ID: `MTY2MzI1MTAyMCwwMDAwMDAwMGExNDhmZTRjOTMyMzU2OWMyN2NmZjQ4OTEyMWUxZmU1`

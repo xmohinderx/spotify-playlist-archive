@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qmDjDW0Ug.md) - [plain]
 
 > 국내를 강타 했던 R&B곡들을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,503 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,525 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,10 +27,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qmDjDW0Ug.md) - [plain]
 | 17 | [I Need A Girl \(Feat\. G\-DRAGON\)](https://open.spotify.com/track/34oRc4INwO7000LJUQLy5X) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [Solar](https://open.spotify.com/album/2rV8MCYJTfvuvXHZsBH12Z) | 3:39 |
 | 18 | [Oasis](https://open.spotify.com/track/0L26wNt3MUtn7BrTaHGtjj) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [Oasis](https://open.spotify.com/album/70lpefg9cR9CQjbFfzNx8g) | 3:11 |
 | 19 | [JOAH \- Remastered](https://open.spotify.com/track/32f0F3bMCTsUnorBsr9Jj8) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Remastered](https://open.spotify.com/artist/7bc4CuYMrx8yZUfjR8kKzE) | [Evolution](https://open.spotify.com/album/5ikIgNGFVc8nwQ8Xzsg1p4) | 3:50 |
-| 20 | [1, 2, 3, 4](https://open.spotify.com/track/1MMuD3VaVq7qqfvRgSrbRs) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [1,2,3,4](https://open.spotify.com/album/6yYc7Ag6nVB3HVXzLjF9uz) | 3:34 |
+| 20 | [I Want To Fall In Love](https://open.spotify.com/track/4IJC6m6PvRZeNoQG50rV1G) | [Johan Kim](https://open.spotify.com/artist/7kqUt0kZIfski1GVmbwjG3) | [I Want To Fall In Love](https://open.spotify.com/album/0bfMhqJWUeRJ0FJeQL78AV) | 3:52 |
 | 21 | [Yanghwa BRDG](https://open.spotify.com/track/7saJl9V0kRYGWuyeURHYNU) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [Yanghwa BRDG](https://open.spotify.com/album/3g3lXFXBEo6u3xbfzYNcd4) | 3:49 |
 | 22 | [우주를 건너 Across the universe](https://open.spotify.com/track/37LGPxmWd0LLKt80PKEDfz) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [FRANK](https://open.spotify.com/album/3nf5TdSHODl88hYx0EEtmC) | 4:07 |
-| 23 | [I Want To Fall In Love](https://open.spotify.com/track/4IJC6m6PvRZeNoQG50rV1G) | [Johan Kim](https://open.spotify.com/artist/7kqUt0kZIfski1GVmbwjG3) | [I Want To Fall In Love](https://open.spotify.com/album/0bfMhqJWUeRJ0FJeQL78AV) | 3:52 |
+| 23 | [1, 2, 3, 4](https://open.spotify.com/track/1MMuD3VaVq7qqfvRgSrbRs) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [1,2,3,4](https://open.spotify.com/album/6yYc7Ag6nVB3HVXzLjF9uz) | 3:34 |
 | 24 | [귀로](https://open.spotify.com/track/5B6ewNeXBcIDHqzsgAn6Dk) | [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Back To The Soul Flight](https://open.spotify.com/album/26nzz1WN0qn4C3B6zcm93u) | 4:26 |
 | 25 | [Only Look At Me \(나만 바라봐\)](https://open.spotify.com/track/1xaLJbuJr6efSW8MFA7vTu) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [Solar International](https://open.spotify.com/album/42BVvYE1FLO8mQH0ZJn4de) | 4:00 |
 | 26 | [Sometimes](https://open.spotify.com/track/3yUNSNlU0h7ag5DTABjr2a) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Crush on You](https://open.spotify.com/album/6hvSnbuh5dAzYqO87FZHWY) | 4:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qmDjDW0Ug.md) - [plain]
 | 49 | [Like Yesterday](https://open.spotify.com/track/45k9BzXTsL9ieK6sdcfwJp) | [J](https://open.spotify.com/artist/0pwxHyrzsUtx7GgGwNHBXT) | [2nd](https://open.spotify.com/album/4PF4HZrptQ6d6b2ov5RqbW) | 4:09 |
 | 50 | [If You Comeback](https://open.spotify.com/track/7A8iC2yCrq39b2DKej9ek1) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [Like Them](https://open.spotify.com/album/374rk50TgKbQSbeBaLFjek) | 4:48 |
 
-Snapshot ID: `MTYxNTQ4MDYxMCwwMDAwMDAwMDlmYjI3ZWQ1ZTUwMzUzOWUzZGU0NjYwZTc5MjFmZGRi`
+Snapshot ID: `MTYxNTQ4MDYxMCwwMDAwMDAwMDdkYmI5MDlmOWI2NzY2MmE0ZjU2ZGQ2M2M4ZjY5NWFl`

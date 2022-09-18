@@ -4,7 +4,7 @@
 
 > Lo mejor del pop en español en la década de los 80.
 
-72 songs - 4 hr 39 min - [published](https://open.spotify.com/playlist/1ftfsehyp3cng4ZdMJRsmy)
+73 songs - 4 hr 42 min - [published](https://open.spotify.com/playlist/1ftfsehyp3cng4ZdMJRsmy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Hasta Que Te Conocí](https://open.spotify.com/track/6XLobzCdi98lFcxG3eGYNr) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Pensamientos](https://open.spotify.com/album/48zTdk2DxqybNPEJfL6Mnl) | 7:15 | 2022-03-29 |  |
 | [Isabel](https://open.spotify.com/track/4cDNMGoDFdjXgxpZEyP6wH) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Palabra De Honor](https://open.spotify.com/album/45xKQlOetCnDcZxRu4tEwh) | 2:37 | 2022-03-29 | 2022-07-29 |
 | [La Chica de Humo](https://open.spotify.com/track/0GZ8UVlhn2tjHPpngzoLJk) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Quisiera](https://open.spotify.com/album/3v2sq3JspM5Kny8Hz6ElyH) | 5:31 | 2022-03-29 |  |
+| [La Chica Del Bikini Azul](https://open.spotify.com/track/3cJRoXZeHJ13NbxIQOYILb) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [El Idolo De Mexico](https://open.spotify.com/album/28KtwGLD5soKpzJyP1tGUo) | 3:00 | 2022-03-29 |  |
 | [La Chica Del Bikini Azul](https://open.spotify.com/track/6Ucocvd2YaEJRPmbT4SFgu) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Palabra De Honor](https://open.spotify.com/album/45xKQlOetCnDcZxRu4tEwh) | 3:00 | 2022-03-29 | 2022-07-29 |
 | [La Fuerza del Destino](https://open.spotify.com/track/5t69lieKF4oKOtYUfWxiZj) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [Descanso Dominical/Une Femme Avec Une Femme](https://open.spotify.com/album/2JBsEO5oMKpvXpMwSK04pU) | 5:10 | 2022-03-29 | 2022-07-29 |
 | [La Fuerza del Destino](https://open.spotify.com/track/0fKqhLgg5CYEW2fLlhtWRj) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [Descanso Dominical \(Bonus Tracks Edition\)](https://open.spotify.com/album/5E4nBdPPUynTOEOG7Lj4yA) | 5:11 | 2022-03-29 |  |
@@ -56,7 +57,7 @@
 | [No Sé Si Es Amor](https://open.spotify.com/track/5PQMbZ5iPNEvOP3o7kbFKF) | [Timbiriche](https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO) | [Timbiriche 9](https://open.spotify.com/album/5R8XL10yi6g5saWAn5ETNi) | 4:15 | 2022-03-29 | 2022-07-29 |
 | [No Te Olvidaré](https://open.spotify.com/track/6qQyG6BLQi0hvqdmMxOrlG) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Exitos de gloria estefan](https://open.spotify.com/album/5wd5UKNNwGZF78zdxFvabY) | 4:02 | 2022-03-29 | 2022-07-29 |
 | [No Tengo Dinero \- 1983](https://open.spotify.com/track/2aNJgu9u1sy44SsbdOCg3d) | [Righeira](https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI) | [Best of Righeira \(Le meilleur des annees 80\)](https://open.spotify.com/album/1wch1bSItmAwqaJ1PhsSoB) | 3:20 | 2022-03-29 | 2022-07-21 |
-| [Palabra De Honor](https://open.spotify.com/track/0LSEkDVm6fvO5Cyi5OVofE) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [El Idolo De Mexico](https://open.spotify.com/album/28KtwGLD5soKpzJyP1tGUo) | 3:38 | 2022-03-29 |  |
+| [Palabra De Honor](https://open.spotify.com/track/0LSEkDVm6fvO5Cyi5OVofE) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [El Idolo De Mexico](https://open.spotify.com/album/28KtwGLD5soKpzJyP1tGUo) | 3:38 | 2022-03-29 | 2022-09-18 |
 | [Palabra De Honor](https://open.spotify.com/track/3WY8ecMJJjdepU2k2NoFv1) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Palabra De Honor](https://open.spotify.com/album/45xKQlOetCnDcZxRu4tEwh) | 3:38 | 2022-03-29 | 2022-07-29 |
 | [Querida](https://open.spotify.com/track/5ySxlyvySBhIEvoO2xx7uT) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Recuerdos II](https://open.spotify.com/album/1xrQ48Vvnvm3SmAbnIukGt) | 5:28 | 2022-03-29 |  |
 | [Qué Te Pasa](https://open.spotify.com/track/7nSgNsvgl5BtjDyysdlWEB) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx) | [Serie 3X4 \(Yuri, Pandora, Daniela Roma\)](https://open.spotify.com/album/5aA1T2eSRBpRDCGuzJWmoV) | 3:03 | 2022-03-29 |  |

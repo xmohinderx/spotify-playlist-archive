@@ -2182,6 +2182,28 @@
     },
     {
       "album": {
+        "name": "BL\u00d6DER FR\u00c5N SJ\u00c4LEN",
+        "url": "https://open.spotify.com/album/6GqB6rQR4LCVKcEZQFvOXv"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Stakset",
+          "url": "https://open.spotify.com/artist/46kV0QPO6PgUjtP69hvbfI"
+        },
+        {
+          "name": "23",
+          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170182,
+      "name": "BL\u00d6DER FR\u00c5N SJ\u00c4LEN",
+      "url": "https://open.spotify.com/track/1khruC7lTyH8MPLx1VYxYE"
+    },
+    {
+      "album": {
         "name": "Body (Remix) [feat. ArrDee, E1 (3x3), ZT (3x3), Bugzy Malone, Buni, Fivio Foreign & Darkoo]",
         "url": "https://open.spotify.com/album/3ucQ8ogD2Li2U0rwkrdwlx"
       },
@@ -3697,6 +3719,28 @@
       "duration_ms": 322339,
       "name": "Deutschland",
       "url": "https://open.spotify.com/track/2bPGTMB5sFfFYQ2YvSmup0"
+    },
+    {
+      "album": {
+        "name": "Devilish",
+        "url": "https://open.spotify.com/album/6gFdMohjEfbgysvBwTedKF"
+      },
+      "artists": [
+        {
+          "name": "VC Barre",
+          "url": "https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU"
+        },
+        {
+          "name": "01an",
+          "url": "https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148607,
+      "name": "Devilish",
+      "url": "https://open.spotify.com/track/21qmv5S238wxa9ZDiwbllJ"
     },
     {
       "album": {
@@ -5959,6 +6003,28 @@
       "duration_ms": 140480,
       "name": "F\u00e4rger",
       "url": "https://open.spotify.com/track/6iuEK9IFiwlbchU6Fg35x4"
+    },
+    {
+      "album": {
+        "name": "F\u00f6r alla g\u00e5nger",
+        "url": "https://open.spotify.com/album/1TZSbV3ECkGHd9TtHM4Afr"
+      },
+      "artists": [
+        {
+          "name": "Maximus",
+          "url": "https://open.spotify.com/artist/7KXt61GtLmrIizwZkpZa5C"
+        },
+        {
+          "name": "Mozby",
+          "url": "https://open.spotify.com/artist/6kxzjvqTwQHtqzObBTJHh6"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164689,
+      "name": "F\u00f6r alla g\u00e5nger",
+      "url": "https://open.spotify.com/track/0rO3Uc7vxqJc62UYJKfjtG"
     },
     {
       "album": {
@@ -10163,7 +10229,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 191752,
       "name": "Lilla Nisse",
       "url": "https://open.spotify.com/track/3caeN4bneZW7GQAqwslu2U"
@@ -10881,7 +10947,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 157173,
       "name": "MAGAZINE",
       "url": "https://open.spotify.com/track/41up0oLKR7aV5FWJcB0Z3F"
@@ -15780,6 +15846,24 @@
     },
     {
       "album": {
+        "name": "St\u00e5 med mig i regnet - Spotify Studio It's Hits Recording",
+        "url": "https://open.spotify.com/album/3pcUoFcxYue6mWBKPFr3c0"
+      },
+      "artists": [
+        {
+          "name": "Newkid",
+          "url": "https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234603,
+      "name": "St\u00e5 med mig i regnet - Spotify Studio It's Hits Recording",
+      "url": "https://open.spotify.com/track/5TFJLlEljmmlxS3s58oQN8"
+    },
+    {
+      "album": {
         "name": "Suave",
         "url": "https://open.spotify.com/album/3QXPxSvxFw7c4Pjwrt9mGD"
       },
@@ -17591,7 +17675,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 184613,
       "name": "Under The Influence",
       "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
@@ -19085,7 +19169,7 @@
       ],
       "date_added": "2022-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 124270,
       "name": "Xatar",
       "url": "https://open.spotify.com/track/5MDEk3mfOcZs4BRgalCqyC"

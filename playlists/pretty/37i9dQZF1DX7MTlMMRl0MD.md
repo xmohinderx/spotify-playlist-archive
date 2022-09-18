@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 
 > Tu lista favorita de Bachata ❤️ Cover: Becky G & Daviles de Novelda
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,847,181 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,847,477 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 | 96 | [Reflejo](https://open.spotify.com/track/54zDpwf0mqx9VQRn91SLX6) | [Toby Love](https://open.spotify.com/artist/72R3RMGmSmzG57R7OUaDaN), [Bachata Heightz](https://open.spotify.com/artist/5zvRX0y0JYtGOmGJwLwyIL), [Kewin Cosmos](https://open.spotify.com/artist/1nf6gLEC45OmoJFIxU7aUT) | [Reflejo](https://open.spotify.com/album/1re6ndovzDhuHMhfYVfG2D) | 4:13 |
 | 97 | [Quien Te Ve Te Compra](https://open.spotify.com/track/1SJDqNDJiDGqfcxoD4jCjZ) | [Ronny Dae](https://open.spotify.com/artist/17HJR2gstJGAQPmpi1svId) | [Quien Te Ve Te Compra](https://open.spotify.com/album/1bgWOyocNxCspoePxCQ8HH) | 3:51 |
 | 98 | [Que Vuelva](https://open.spotify.com/track/02mRXALeZiRPUl1TXhNsno) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Bachata De Amor Vol\. 1](https://open.spotify.com/album/4tA0IDegh1uKvvCxRhiw5v) | 4:48 |
-| 99 | [Hablamos En La Cama](https://open.spotify.com/track/6XsjNIGOFhgcyHDDAxieUi) | [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | [Hablamos En La Cama](https://open.spotify.com/album/2U6skaTPCGdtHbpAfb8Bap) | 4:00 |
-| 100 | [Basta Ya](https://open.spotify.com/track/1fZTUzfem9MbLOHhEDZ3j8) | [Bori](https://open.spotify.com/artist/2Oe9eh730bCc6KpqVo4ugt) | [Basta Ya](https://open.spotify.com/album/2qppsInoGGeryeIZtv5pGu) | 3:05 |
+| 99 | [Basta Ya](https://open.spotify.com/track/1fZTUzfem9MbLOHhEDZ3j8) | [Bori](https://open.spotify.com/artist/2Oe9eh730bCc6KpqVo4ugt) | [Basta Ya](https://open.spotify.com/album/2qppsInoGGeryeIZtv5pGu) | 3:05 |
+| 100 | [Hablamos En La Cama](https://open.spotify.com/track/6XsjNIGOFhgcyHDDAxieUi) | [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | [Hablamos En La Cama](https://open.spotify.com/album/2U6skaTPCGdtHbpAfb8Bap) | 4:00 |
 
-Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMDY1Yzc2ZWZmN2ZkMGFkNDAzNTZiNTc4NWYyNjQwODgy`
+Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMDljNDE0M2UzYmY1YTZjNmVhMGNiMjc2OTZiM2Y2MDgy`

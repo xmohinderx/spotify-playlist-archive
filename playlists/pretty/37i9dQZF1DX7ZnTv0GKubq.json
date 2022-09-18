@@ -1,12 +1,12 @@
 {
   "description": "Late night chilled vibes, for those intimate moments.",
-  "num_followers": 334777,
+  "num_followers": 334808,
   "original_name": "Spotify & Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTE1ODU1MiwwMDAwMDAwMGYxNDQ5ODI0ZGQ3YjUyYmI4OWU1MTViYTg3MzNhMTg2",
+  "snapshot_id": "MTY2MTE1ODU1MiwwMDAwMDAwMGM2OTBkYmFjZDQ5NTQxNmFiM2IyNjRlODY4YzVjNTJh",
   "tracks": [
     {
       "added_at": "2022-08-22 08:55:52",
@@ -819,26 +819,6 @@
     {
       "added_at": "2022-08-22 08:55:52",
       "album": {
-        "name": "Never Leave",
-        "url": "https://open.spotify.com/album/1uHkmdfOvhr3Jj7mdLIIkp"
-      },
-      "artists": [
-        {
-          "name": "WSTRN",
-          "url": "https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs"
-        },
-        {
-          "name": "Lila Ik\u00e9",
-          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
-        }
-      ],
-      "duration_ms": 196153,
-      "name": "Never Leave",
-      "url": "https://open.spotify.com/track/6d5E28VYwyws9CY00lwxfq"
-    },
-    {
-      "added_at": "2022-08-22 08:55:52",
-      "album": {
         "name": "Wickedest",
         "url": "https://open.spotify.com/album/5tnnQsnZmgGqIbTQH6MqLy"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 186760,
       "name": "if you got a problem",
       "url": "https://open.spotify.com/track/1wk5QI8DKu2iwDGpMfUSss"
+    },
+    {
+      "added_at": "2022-08-22 08:55:52",
+      "album": {
+        "name": "Never Leave",
+        "url": "https://open.spotify.com/album/1uHkmdfOvhr3Jj7mdLIIkp"
+      },
+      "artists": [
+        {
+          "name": "WSTRN",
+          "url": "https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs"
+        },
+        {
+          "name": "Lila Ik\u00e9",
+          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
+        }
+      ],
+      "duration_ms": 196153,
+      "name": "Never Leave",
+      "url": "https://open.spotify.com/track/6d5E28VYwyws9CY00lwxfq"
     }
   ],
   "unique_name": "Spotify & Chill",

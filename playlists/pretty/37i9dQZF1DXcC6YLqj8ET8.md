@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC6YLqj8ET8.md) - [plain]
 
 > Electronic Trap House with Arab spices\. Cover: DJ KABOO.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,608 likes - 55 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,688 likes - 55 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,10 +47,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC6YLqj8ET8.md) - [plain]
 | 37 | [Cataclysm جائحة](https://open.spotify.com/track/55DEy5jBZJcm75JpGZTlyC) | [Gillionaire](https://open.spotify.com/artist/74rsMLFnDYIf54HLWuKAty) | [Cataclysm جائحة](https://open.spotify.com/album/5cO6vLIAow8tq0YX4NiD4I) | 2:19 |
 | 38 | [Golden](https://open.spotify.com/track/6gItxgLiMUYV5n3ityPec4) | [BoyPanda](https://open.spotify.com/artist/5ef7ha77ippshsIdZzGnaN) | [Golden](https://open.spotify.com/album/214Aa5BZhPB2AUbXmBx59S) | 3:30 |
 | 39 | [Oriental](https://open.spotify.com/track/1C3PeqYtCFVFxUBdFZoxeT) | [OSAK](https://open.spotify.com/artist/7E52EFOelXp541PpFcbtrf) | [Oriental](https://open.spotify.com/album/3L45kcBwrsdrjQDiNdHEqk) | 4:28 |
-| 40 | [Royal](https://open.spotify.com/track/7uU2778ZAltQTEFcwUmydt) | [Wizard](https://open.spotify.com/artist/1XU1ToFmD2t1nbuh5T6QB3), [NextRO](https://open.spotify.com/artist/6Y63ciwphfXsHoWQOur7gq) | [Steady Stackin' 4](https://open.spotify.com/album/2AqCYSOBNAyLB9Y6nzKc0M) | 3:32 |
-| 41 | [Mirage](https://open.spotify.com/track/4oY2lR2vLjNGn3ltjHZQGK) | [NextRO](https://open.spotify.com/artist/6Y63ciwphfXsHoWQOur7gq) | [Exxxtra Pack](https://open.spotify.com/album/4HPPW1pl0kBnnpDHtpoPs8) | 3:07 |
-| 42 | [Katyar](https://open.spotify.com/track/3CrDFdN7MKM3Mx9T3znBts) | [MVGMVR](https://open.spotify.com/artist/4awPepWH6Qom61mJvUCe3u) | [Katyar](https://open.spotify.com/album/5DYELPV7UQqMHVJ4JxaYhQ) | 3:44 |
-| 43 | [Desert Lord](https://open.spotify.com/track/4is2MePvKHSLOLmCEjTT0L) | [AxLi](https://open.spotify.com/artist/2C0w7wd8qZseBpEtfYPL56) | [Desert Lord](https://open.spotify.com/album/2v5mYReoKsPOoG5QCSTDbK) | 2:05 |
+| 40 | [Mirage](https://open.spotify.com/track/4oY2lR2vLjNGn3ltjHZQGK) | [NextRO](https://open.spotify.com/artist/6Y63ciwphfXsHoWQOur7gq) | [Exxxtra Pack](https://open.spotify.com/album/4HPPW1pl0kBnnpDHtpoPs8) | 3:07 |
+| 41 | [Royal](https://open.spotify.com/track/7uU2778ZAltQTEFcwUmydt) | [Wizard](https://open.spotify.com/artist/1XU1ToFmD2t1nbuh5T6QB3), [NextRO](https://open.spotify.com/artist/6Y63ciwphfXsHoWQOur7gq) | [Steady Stackin' 4](https://open.spotify.com/album/2AqCYSOBNAyLB9Y6nzKc0M) | 3:32 |
+| 42 | [Desert Lord](https://open.spotify.com/track/4is2MePvKHSLOLmCEjTT0L) | [AxLi](https://open.spotify.com/artist/2C0w7wd8qZseBpEtfYPL56) | [Desert Lord](https://open.spotify.com/album/2v5mYReoKsPOoG5QCSTDbK) | 2:05 |
+| 43 | [Katyar](https://open.spotify.com/track/3CrDFdN7MKM3Mx9T3znBts) | [MVGMVR](https://open.spotify.com/artist/4awPepWH6Qom61mJvUCe3u) | [Katyar](https://open.spotify.com/album/5DYELPV7UQqMHVJ4JxaYhQ) | 3:44 |
 | 44 | [Up](https://open.spotify.com/track/3aQ1FibqovngIl7WmQYgWC) | [Naffar](https://open.spotify.com/artist/3QIEbSFF0qzlYo0EDcr7r9) | [Up](https://open.spotify.com/album/40FRIOXfDACAYFUMrygBxW) | 2:42 |
 | 45 | [Token Baashi](https://open.spotify.com/track/7h9VoaEs3hH1nzgZPIw7lN) | [CryJaxx](https://open.spotify.com/artist/4FidvjA9dxE6bhpHGC6ns9), [TH3 DARP](https://open.spotify.com/artist/10W6SIbkGGVlY8yYrUxwmw) | [Token Baashi](https://open.spotify.com/album/3F5ICoYWkN5wbpMy2AICde) | 3:41 |
 | 46 | [Mazikah](https://open.spotify.com/track/0fkbXZEqvcaJipXpgsKXBn) | [El\-M3allem](https://open.spotify.com/artist/7df2YdmQZRI6KvN3aowOMW) | [Mazikah](https://open.spotify.com/album/1N4z2tg7JhxoUqjNn7pJIt) | 3:33 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC6YLqj8ET8.md) - [plain]
 | 54 | [Lights Out](https://open.spotify.com/track/7DKBMH4BQ18GAWYtqpjGhE) | [Naffar](https://open.spotify.com/artist/3QIEbSFF0qzlYo0EDcr7r9) | [Lights Out](https://open.spotify.com/album/0y2PgWYSdanYnwxSmIW64U) | 3:05 |
 | 55 | [ALMAZAT](https://open.spotify.com/track/1l18f7daLQymXuUy6fQD6W) | [El\-M3allem](https://open.spotify.com/artist/7df2YdmQZRI6KvN3aowOMW) | [ALMAZAT](https://open.spotify.com/album/0s8UGDaOTmxfXDi1VAsowZ) | 3:08 |
 
-Snapshot ID: `MTY0OTMyMDg5NCwwMDAwMDAwMGM0ZDA3NGQ1YTIyNjY5NzgzODViNWYyZDAxOTRlMjIx`
+Snapshot ID: `MTY0OTMyMDg5NCwwMDAwMDAwMGQxNTNmZWViZWZhY2E0Mjc2NGFiNTJkODM4MWY2YWNm`

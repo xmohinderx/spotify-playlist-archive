@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWgNWdGsjlE.md) - [plain]
 
 > make a mess of it\. Cover: POORSTACY
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,686 likes - 105 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,725 likes - 105 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWgNWdGsjlE.md) - [plain]
 | 91 | [Crimewave](https://open.spotify.com/track/5kfpeoBEHHmIeVYATl6khw) | [Blue Stahli](https://open.spotify.com/artist/4DWnSG0RYPAds8EIKY26q3) | [Quartz](https://open.spotify.com/album/3shNcErdLLTLJiog9fUUcZ) | 2:42 |
 | 92 | [Falling](https://open.spotify.com/track/6DaNlUMdwiidZbFSebVcIy) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Falling](https://open.spotify.com/album/1wzpIeYxCGjZ7yze3IHCJE) | 3:29 |
 | 93 | [WDYT](https://open.spotify.com/track/4Rrh3SOlwRtC3ivaGfW7qX) | [Contracult Collective](https://open.spotify.com/artist/6bIdpjyGpps6a0CJT4hTGW) | [A Cult Of Opposition](https://open.spotify.com/album/3Bub97w229bQ2T4l2WAnyz) | 3:40 |
-| 94 | [Front 2 Back](https://open.spotify.com/track/1UJawTtigLuhYRqLglCYx2) | [SNAILS](https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6), [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Front 2 Back](https://open.spotify.com/album/5PoLN3yHHwFPiNU3hhGYNR) | 4:17 |
+| 94 | [Front 2 Back](https://open.spotify.com/track/4771YziYc1QurJ8HfR9VU9) | [SNAILS](https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6), [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [World of Slime](https://open.spotify.com/album/75mclRI9Xiee8E4faIar0r) | 4:17 |
 | 95 | [WWYDF](https://open.spotify.com/track/52jC5QLj1sazMXPIxl68l0) | [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [You Will Not Be Saved](https://open.spotify.com/album/5Fv7nPEq5xHavK28lt8K5F) | 2:55 |
 | 96 | [K.M.B.](https://open.spotify.com/track/3v18sKtzeSiREITWYWPGnh) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [K.M.B.](https://open.spotify.com/album/2yK4JovZF5kJ4vKRFFG9Y5) | 3:15 |
 | 97 | [Legend Has It](https://open.spotify.com/track/7satW8tFLasyZbftvrWFBP) | [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C), [El\-P](https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI) | [Run The Jewels 3](https://open.spotify.com/album/2vY03PfKPFUUM1FA2lgmC2) | 3:25 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWgNWdGsjlE.md) - [plain]
 | 104 | [Head Like A Hole](https://open.spotify.com/track/3ckd4YA4LcD3j50rfIVwUe) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [Pretty Hate Machine](https://open.spotify.com/album/3umFHeEpc4yLXtrRcv9gLN) | 4:59 |
 | 105 | [Reset](https://open.spotify.com/track/4vnCxv2cGTYye90giGIddD) | [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [You Will Not Be Saved](https://open.spotify.com/album/5Fv7nPEq5xHavK28lt8K5F) | 3:21 |
 
-Snapshot ID: `MTY1NjY0ODAwMCwwMDAwMDAwMDQyYjQ1NDViMzE1YzkwNDliODM3MDUzNTkzZGIxYjQy`
+Snapshot ID: `MTY1NjY0ODAwMCwwMDAwMDAwMDhmYmRjMTViYzcxZjE0MTEyYjY0YzlhNDA1ZDQ0N2Yw`

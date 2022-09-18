@@ -4,7 +4,7 @@
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: ENNIO
 
-133 songs - 7 hr 23 min - [published](https://open.spotify.com/playlist/7r16QFa0iXKPXTVCB31T4J)
+134 songs - 7 hr 26 min - [published](https://open.spotify.com/playlist/7r16QFa0iXKPXTVCB31T4J)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [Daywalker](https://open.spotify.com/track/00daiXpq7Jb76fXCJZA6rN) | [2LADE](https://open.spotify.com/artist/2N5EUidcVv9pnicQFDeK5W) | [MANN MIT DER BRILLE](https://open.spotify.com/album/3TJXTSpg5o4vftq3BMBtab) | 2:05 | 2022-03-24 | 2022-06-10 |
 | [Diamonds \(feat\. Takt32\)](https://open.spotify.com/track/7w6HmxoHbohJ9S9lScjH1m) | [Aylo](https://open.spotify.com/artist/5ggr9FUq9cjogKBxQmI2ZO), [Takt32](https://open.spotify.com/artist/1G7TGDJ01So6i6XNirnVS7) | [Diamonds \(feat\. Takt32\)](https://open.spotify.com/album/5WAnIlIOyTf5VJwMqB8DxF) | 2:23 | 2021-12-16 |  |
 | [Dies & Das](https://open.spotify.com/track/5GzBVGr752l5qcGo2ZBNoS) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2), [AVO](https://open.spotify.com/artist/3g8GEfox7TneqzId98rNGi) | [Dies & Das](https://open.spotify.com/album/3w25lpXTAf001nxzF9nBPI) | 2:19 | 2021-12-16 | 2022-03-25 |
-| [Diese Nacht](https://open.spotify.com/track/2wrB2jRPTd1wujQlWWnJ0r) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Zorn & Liebe](https://open.spotify.com/album/5seerIZ96Tknor62ygW3on) | 2:34 | 2022-09-15 |  |
+| [Diese Nacht](https://open.spotify.com/track/2wrB2jRPTd1wujQlWWnJ0r) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Zorn & Liebe](https://open.spotify.com/album/5seerIZ96Tknor62ygW3on) | 2:34 | 2022-09-15 | 2022-09-18 |
+| [Diese Nacht](https://open.spotify.com/track/6CWr033ZS8JwfKfhuMavWp) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Zorn & Liebe](https://open.spotify.com/album/6p84H53CGnoPvszkjRWllB) | 2:34 | 2022-09-15 |  |
 | [DON'T BLAME ME](https://open.spotify.com/track/4HGmBETDnJDreKHb9tW2bg) | [FAANGS](https://open.spotify.com/artist/2UlXIWBLOjskz5esa7ec2j) | [TEETH OUT](https://open.spotify.com/album/6wE7d28Rxv1y1v2FSaYnW2) | 2:27 | 2021-12-16 | 2022-09-02 |
 | [Don't U Dare](https://open.spotify.com/track/3CQuzM93RAg867gQ0mVAw7) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [Don't U Dare](https://open.spotify.com/album/2YV91Zb0tDaxAsT2mmBDFP) | 2:42 | 2022-02-10 | 2022-05-27 |
 | [Eins sein](https://open.spotify.com/track/1cIk7YqCnsVEv6FGRFLLrU) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [Eins sein](https://open.spotify.com/album/7uFZmTPubuC0o8gV4ODoL6) | 2:52 | 2021-12-16 | 2022-01-14 |

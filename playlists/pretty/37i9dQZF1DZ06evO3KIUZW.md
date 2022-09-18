@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3KIUZW.md) - [plain]
 
 > This is Iron Maiden\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 661,518 likes - 50 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 661,819 likes - 50 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3KIUZW.md) - [plain]
 | 36 | [Infinite Dreams \- 2015 Remaster](https://open.spotify.com/track/2yGdYMeYIjCQFiBRPnKKiZ) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Seventh Son of a Seventh Son \(2015 Remaster\)](https://open.spotify.com/album/1rG6IgNdwE1IGFuIKuYosz) | 6:09 |
 | 37 | [Flash of the Blade \- 2015 Remaster](https://open.spotify.com/track/2yAiIlVQa2wy9M5JnSrjMm) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Powerslave \(2015 Remaster\)](https://open.spotify.com/album/309KOMEivisMmBuzk09635) | 4:05 |
 | 38 | [Transylvania \- 2015 Remaster](https://open.spotify.com/track/43QZUbTYnsU7ypUKxOyTRz) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Iron Maiden \(2015 Remaster\)](https://open.spotify.com/album/3DNeMApEMCo4IDXNMYnlFi) | 4:04 |
-| 39 | [Killers \- 2015 Remaster](https://open.spotify.com/track/2Ydpa6xB4kD8WRXHYN6T1G) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Killers \(2015 Remaster\)](https://open.spotify.com/album/5REF2imQI3lMAmeWcDXE3D) | 5:01 |
+| 39 | [Stranger in a Strange Land \- 2015 Remaster](https://open.spotify.com/track/2ItrQShUvHTeaiZiDukjNo) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Somewhere in Time \(2015 Remaster\)](https://open.spotify.com/album/0OEg65hPhgP7B0Dy9TqP2L) | 5:46 |
 | 40 | [Moonchild \- 2015 Remaster](https://open.spotify.com/track/2lIAye5LMhs7EfiWDTGC2y) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Seventh Son of a Seventh Son \(2015 Remaster\)](https://open.spotify.com/album/1rG6IgNdwE1IGFuIKuYosz) | 5:40 |
-| 41 | [Stranger in a Strange Land \- 2015 Remaster](https://open.spotify.com/track/2ItrQShUvHTeaiZiDukjNo) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Somewhere in Time \(2015 Remaster\)](https://open.spotify.com/album/0OEg65hPhgP7B0Dy9TqP2L) | 5:46 |
+| 41 | [Killers \- 2015 Remaster](https://open.spotify.com/track/2Ydpa6xB4kD8WRXHYN6T1G) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Killers \(2015 Remaster\)](https://open.spotify.com/album/5REF2imQI3lMAmeWcDXE3D) | 5:01 |
 | 42 | [Iron Maiden \- 2015 Remaster](https://open.spotify.com/track/21wB3DaIk112Ry3mEzqfit) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Iron Maiden \(2015 Remaster\)](https://open.spotify.com/album/3DNeMApEMCo4IDXNMYnlFi) | 3:34 |
 | 43 | [For the Greater Good of God \- 2015 Remaster](https://open.spotify.com/track/7kocq12UHSZ2S4U8P71RXo) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [A Matter of Life and Death \(2015 Remaster\)](https://open.spotify.com/album/1gdB9kn59KSAVG5VQcjdHi) | 9:25 |
 | 44 | [Afraid to Shoot Strangers \- 2015 Remaster](https://open.spotify.com/track/6QKhecJ2JuajCTPTtYkKUQ) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Fear of the Dark \(2015 Remaster\)](https://open.spotify.com/album/16Su3EUFLPqWVyrwN1q5wO) | 6:56 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3KIUZW.md) - [plain]
 | 46 | [Speed of Light](https://open.spotify.com/track/1smvmwmbrQiBwgJZMxVtup) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [The Book of Souls](https://open.spotify.com/album/4vSfHrq6XxVyMcJ6PguFR2) | 5:01 |
 | 47 | [Bring Your Daughter..\. to the Slaughter \- 2015 Remaster](https://open.spotify.com/track/40j3GW7l0R4EM12fHqNqM2) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [No Prayer for the Dying \(2015 Remaster\)](https://open.spotify.com/album/21ZEAwY2TDnoQvVMJKkjUk) | 4:43 |
 | 48 | [Still Life \- 2015 Remaster](https://open.spotify.com/track/48ShNhzz3tueJ5g55usma7) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Piece of Mind \(2015 Remaster\)](https://open.spotify.com/album/7I9Wh2IgvI3Nnr8Z1ZSWby) | 4:57 |
-| 49 | [The Time Machine](https://open.spotify.com/track/2orfmTbBQtEI1wpukVt40z) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Senjutsu](https://open.spotify.com/album/3TymcPWXqsCRA5oSL0TkPU) | 7:09 |
+| 49 | [Darkest Hour](https://open.spotify.com/track/01n8OBPVoR4dotXQxwhnH6) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Senjutsu](https://open.spotify.com/album/3TymcPWXqsCRA5oSL0TkPU) | 7:20 |
 | 50 | [The Red and the Black](https://open.spotify.com/track/3KqYcqLk7YUyNIxr9jCNhC) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [The Book of Souls](https://open.spotify.com/album/4vSfHrq6XxVyMcJ6PguFR2) | 13:33 |
 
-Snapshot ID: `Mjc3MjIyMzMsMDAwMDAwMDBlMmM5NzBkNzM0ZDVjMGYyN2E2ODYzOWU0NjlmYjc3Mw==`
+Snapshot ID: `Mjc3MjM2OTIsMDAwMDAwMDBlMTM4NDZkYTJjNGUyNzlkMGRjMTYzMmIxMzRhOGJlMw==`

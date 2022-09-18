@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25w5pM.md) - [plain]
 
 > This is Deuter\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,370 likes - 50 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,374 likes - 50 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25w5pM.md) - [plain]
 | 49 | [Mericoeur](https://open.spotify.com/track/2Yt7BGALGcWl1TEBtQEqBy) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Illumination of the Heart](https://open.spotify.com/album/3UoxMmQNLKyu2XkxKFvB90) | 8:23 |
 | 50 | [Felsen im Licht](https://open.spotify.com/track/114goyp7beFWnmtoOsYtJo) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB), [Annette Cantor](https://open.spotify.com/artist/0fOvSSksaEdKDYatJdvV3t) | [Garden of the Gods](https://open.spotify.com/album/1wc26fYznDqctLKiRFZyDR) | 5:27 |
 
-Snapshot ID: `Mjc3MjIyMzMsMDAwMDAwMDBjOTEyMGEyM2UyMDA2ODg4OGM0YWE3MmE1ZjY0NGYyZA==`
+Snapshot ID: `Mjc3MjM2OTIsMDAwMDAwMDBlN2FmY2M5YzFiMjNhNTM1YTU1YzI1NzkwYmE3MDg3ZA==`

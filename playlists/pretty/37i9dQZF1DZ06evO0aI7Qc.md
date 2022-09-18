@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aI7Qc.md) - [plain]
 
 > This is Luis R Conriquez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,427 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,785 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aI7Qc.md) - [plain]
 | 18 | [El Dinero No Me Cambia \- En Vivo](https://open.spotify.com/track/20PIire7LH4Wjkc6zVHbAS) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Dinero No Me Cambia \(En Vivo\)](https://open.spotify.com/album/5iVAYE7Ra3Avw3ygesMP2Z) | 3:16 |
 | 19 | [Por Clave El Doble R](https://open.spotify.com/track/0XgKAiK0HGLecgxi6vcvsN) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Belicos](https://open.spotify.com/album/4SaM1i0w9dhbRkIadAPX3c) | 4:05 |
 | 20 | [Sin Apodo \(En Vivo\)](https://open.spotify.com/track/0Up3NfbU2p9keQHqcPZYQO) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Sin Apodo \(En Vivo\)](https://open.spotify.com/album/2jDt8iQGBpf0kHtlKm7ZdM) | 3:21 |
-| 21 | [Sangre De Reyes \(En Vivo\)](https://open.spotify.com/track/2aTuyF8tSigB00E9CNMkHm) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Sangre De Reyes \(En Vivo\)](https://open.spotify.com/album/6PzecOlrZjmYIGkNkVtY6E) | 3:23 |
-| 22 | [Equipo RR](https://open.spotify.com/track/01OAhZvrPcUBko04aEy1Hh) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Equipo RR](https://open.spotify.com/album/7HQuRjZy8385A0Yfn7D9H5) | 2:39 |
+| 21 | [Equipo RR](https://open.spotify.com/track/01OAhZvrPcUBko04aEy1Hh) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Equipo RR](https://open.spotify.com/album/7HQuRjZy8385A0Yfn7D9H5) | 2:39 |
+| 22 | [Sangre De Reyes \(En Vivo\)](https://open.spotify.com/track/2aTuyF8tSigB00E9CNMkHm) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Sangre De Reyes \(En Vivo\)](https://open.spotify.com/album/6PzecOlrZjmYIGkNkVtY6E) | 3:23 |
 | 23 | [Por Apodo Soy Sobrino \(En Vivo\)](https://open.spotify.com/track/49qfoWzVYUENMSdwzBjgs3) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U) | [Por Apodo Soy Sobrino \(En Vivo\)](https://open.spotify.com/album/7B52dEX4yFDEYHZszTnQhk) | 3:26 |
 | 24 | [Querido Ex Amor \(En Vivo\)](https://open.spotify.com/track/0sxUALE5zJjNBlida8NALL) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Querido Ex Amor \(En Vivo\)](https://open.spotify.com/album/3EE2AwVMOWthcfk1b5d6iR) | 3:31 |
 | 25 | [El Nano](https://open.spotify.com/track/6QeQdtPudjr0dcr9fcT8qv) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Nano](https://open.spotify.com/album/0lwkPnZICyG9OkD77unsot) | 2:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aI7Qc.md) - [plain]
 | 49 | [El De La P](https://open.spotify.com/track/3iFhFNQ1TC3OmkPGEb4bwB) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Belicos](https://open.spotify.com/album/4SaM1i0w9dhbRkIadAPX3c) | 3:16 |
 | 50 | [Paz En Este Amor \(En Vivo\)](https://open.spotify.com/track/559TDjQpWrtOnZXdFnRfYj) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Desde La Oficina \(En Vivo\)](https://open.spotify.com/album/6Ze9Ja5wGsNBu6igmWWBNy) | 3:26 |
 
-Snapshot ID: `Mjc3MjIyMzMsMDAwMDAwMDBmN2U0NzczYjA2Zjk4OGNlOGM1NzEyNzM4NmU4OGYwMw==`
+Snapshot ID: `Mjc3MjM2OTMsMDAwMDAwMDBiZDExZjJkZWI0MTQwZmQyZjMwNDYzNWZlNjMzNzhhYg==`

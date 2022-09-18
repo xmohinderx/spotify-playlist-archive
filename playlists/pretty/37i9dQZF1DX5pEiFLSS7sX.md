@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 
 > Go deep into spontaneous praise and worship here\. On and on.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,677 likes - 100 songs - 10 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,750 likes - 100 songs - 10 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,9 +93,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 | 83 | [You Won't Let Go](https://open.spotify.com/track/5QcsUp7WqZqH4gpXPOpIoP) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Reckless Love](https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB) | 3:34 |
 | 84 | [At the Foot of the Cross \- Acoustic](https://open.spotify.com/track/59dF79fypzaMFZYJCCPJbl) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Children of God Acoustic Sessions](https://open.spotify.com/album/5AyRWQVQ69mjrdoxIhNanU) | 3:59 |
 | 85 | [Goodness](https://open.spotify.com/track/3JyI1zIVyM1N7wb7Qylro6) | [RNW Music](https://open.spotify.com/artist/4LfdYq6VdNIwj6Cs5x9EKi) | [When It Comes to You](https://open.spotify.com/album/7iEMna8XHGFwwiR17SqtkV) | 5:35 |
-| 86 | [Only Jesus](https://open.spotify.com/track/613opoQSXDsSSssAlBwBc6) | [Brian Johnson](https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9) | [After All These Years](https://open.spotify.com/album/799XvKSzKmyjCUMBE48XpS) | 4:53 |
+| 86 | [Overflow \(Live\)](https://open.spotify.com/track/1xvioaPO8eZigxPTEZh9ZV) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr) | [Here \(Live\)](https://open.spotify.com/album/7sOLny4qMMkbLOxfvflwQ8) | 4:18 |
 | 87 | [Nothing Is Holding Me Back](https://open.spotify.com/track/7LPNlKR6P8CYWEWJh1tg6K) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Here On Earth](https://open.spotify.com/album/19PjTWD8F605hMJgRoikEA) | 4:24 |
-| 88 | [Overflow \(Live\)](https://open.spotify.com/track/1xvioaPO8eZigxPTEZh9ZV) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr) | [Here \(Live\)](https://open.spotify.com/album/7sOLny4qMMkbLOxfvflwQ8) | 4:18 |
+| 88 | [Only Jesus](https://open.spotify.com/track/613opoQSXDsSSssAlBwBc6) | [Brian Johnson](https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9) | [After All These Years](https://open.spotify.com/album/799XvKSzKmyjCUMBE48XpS) | 4:53 |
 | 89 | [You And You Alone \- Live](https://open.spotify.com/track/7p3rTldMTSffWhFG3vk1C4) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Cody Lee](https://open.spotify.com/artist/31WoyKDV35hyTENxkwU7Az) | [You And You Alone \(Live\)](https://open.spotify.com/album/0kPMk7WTJRSDD0fnwyis9O) | 9:59 |
 | 90 | [The Cause Of Christ](https://open.spotify.com/track/70EydOWbBwGIlHuv0h7uwF) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [The Garden](https://open.spotify.com/album/0VlrwygIqoI06z2BTCYuTq) | 4:57 |
 | 91 | [Speak](https://open.spotify.com/track/4KUzH3n3EJYz5ltMHuDKUV) | [Bethany Music](https://open.spotify.com/artist/6zJA80S2jrsIqiqukh36WP) | [Speak](https://open.spotify.com/album/5joR8lkcklTpO3o8dPVsoI) | 4:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 | 99 | [I Don't Have Much](https://open.spotify.com/track/5GauSw0ZYcQN9VNl4Bm46a) | [Mission House](https://open.spotify.com/artist/1kfAQBrI7qZInqadGFtW8C), [Jess Ray](https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3), [Taylor Leonhardt](https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i) | [I Don't Have Much](https://open.spotify.com/album/13xozrVcJxO5odimOc6UAw) | 5:14 |
 | 100 | [Fearless \- Live](https://open.spotify.com/track/5rp9r3rFr45bPTsgi18tQB) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Fearless / Fill Up The Sky \(Live\)](https://open.spotify.com/album/0FJOaqUeh18LeJMqFx9k1A) | 4:40 |
 
-Snapshot ID: `MTU5OTE5MjEyMCwwMDAwMDAwMDQ1MGUyODRiYmYxNWIwZGNlOTBhZDU1OWE5MTViMzhk`
+Snapshot ID: `MTU5OTE5MjEyMCwwMDAwMDAwMDZmYmNkZWI4ZTI4NjQyOTA3OTk1YWVmMTAzOGFmNWEz`

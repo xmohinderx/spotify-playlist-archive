@@ -4,7 +4,7 @@
 
 > 한국 R&B\. The hottest K\-R&B is here\. \(Cover: Grass\(Jiselle\(지셀\)\)
 
-110 songs - 6 hr 22 min - [published](https://open.spotify.com/playlist/0kvpJtsvIoyFKt5gsRYiS9)
+111 songs - 6 hr 26 min - [published](https://open.spotify.com/playlist/0kvpJtsvIoyFKt5gsRYiS9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [OceanooM Duet∘☽ \(feat\. Jung YoungEun\)](https://open.spotify.com/track/4iDcQyypdqnsx9lFwJaNWU) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j), [Jung Young Eun](https://open.spotify.com/artist/26GxfwRT2NHxeq2qrdAVbf) | [OceanooM Duet∘☽](https://open.spotify.com/album/4IQct8SSePLkfcJpSsKAMd) | 3:27 | 2022-07-07 |  |
 | [On Television](https://open.spotify.com/track/3DDxYH9abbGUXUeUwVVluA) | [CHANHYUN](https://open.spotify.com/artist/3mVfekn5nIuqNWJCK0u1r9) | [On Television](https://open.spotify.com/album/2X6AqA8wXcPAVHrxW1mMlF) | 3:06 | 2022-05-28 | 2022-06-15 |
 | [One More Time](https://open.spotify.com/track/0EjyI90qLsPr9CXO1kyjJQ) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Star](https://open.spotify.com/album/2ZEpVzbFGcMGBXuYRdYVE7) | 4:04 | 2022-06-18 |  |
+| [ore ore](https://open.spotify.com/track/2hPvWV02856ZW1LSWbOycO) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [imagine club](https://open.spotify.com/album/1Fhu3FJHqttNA1d6e7VXxC) | 3:31 | 2022-09-17 |  |
 | [Out of My Intention](https://open.spotify.com/track/4pU3FwCWErzsqHs4LnzpHi) | [WEN](https://open.spotify.com/artist/0FXbobEfUaIn6Z95FSJBIE) | [Out of My Intention](https://open.spotify.com/album/3iTSukxhxuCtvyPkkBENLn) | 3:11 | 2022-07-27 |  |
 | [pado ballad](https://open.spotify.com/track/7sKi4MTWJJIPXCik8yLmRV) | [Lahne](https://open.spotify.com/artist/2f6UH261iYhBitmwklLAlH) | [Blue Interior](https://open.spotify.com/album/5laWpGYSMaZiscOja0W4u1) | 3:42 | 2022-07-04 |  |
 | [Plus n Minus](https://open.spotify.com/track/0usiwkXqoWNX3yqGFfRBAu) | [Yein](https://open.spotify.com/artist/3mZkPqzEdMYwaKSQSd2lJQ) | [Plus n Minus](https://open.spotify.com/album/2ZJoZrfVVAKpt798ti3Qdc) | 2:36 | 2022-05-28 | 2022-07-28 |

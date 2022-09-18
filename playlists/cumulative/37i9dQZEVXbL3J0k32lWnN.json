@@ -774,6 +774,28 @@
     },
     {
       "album": {
+        "name": "Autobahn (feat. Shooter Gang)",
+        "url": "https://open.spotify.com/album/14SHB7hffvjt2nfryzMXqq"
+      },
+      "artists": [
+        {
+          "name": "Baloosh",
+          "url": "https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC"
+        },
+        {
+          "name": "Shooter Gang",
+          "url": "https://open.spotify.com/artist/7HAfa0zXzOgIEUdyxE08AO"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177528,
+      "name": "Autobahn (feat. Shooter Gang)",
+      "url": "https://open.spotify.com/track/1o9F4qWXHHY2ExISuqGeev"
+    },
+    {
+      "album": {
         "name": "Carnival",
         "url": "https://open.spotify.com/album/4hj8E7TYAq8pJukk2CUlFx"
       },
@@ -6881,6 +6903,24 @@
       "duration_ms": 134722,
       "name": "HYGGE MYGGE",
       "url": "https://open.spotify.com/track/11AZDeHTCik5zXmZAFzDST"
+    },
+    {
+      "album": {
+        "name": "H\u00e5b",
+        "url": "https://open.spotify.com/album/1ZwMPZGdZlvNpR7oBGAbgP"
+      },
+      "artists": [
+        {
+          "name": "Branco",
+          "url": "https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162317,
+      "name": "H\u00e5b",
+      "url": "https://open.spotify.com/track/1Si8YF3oG5eLdTq5DWMAne"
     },
     {
       "album": {
@@ -13103,7 +13143,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 147546,
       "name": "SORT AMG (feat. Jimilian)",
       "url": "https://open.spotify.com/track/3dkFiY1M26iQ50ZDWctdyG"
@@ -15003,7 +15043,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 178582,
       "name": "WALOU \u2013 GENERATIONER (BURHAN G X STEPZ X SIVAS X OUTLANDISH)",
       "url": "https://open.spotify.com/track/3QmNezz4YTPXsCrNLk99Qh"

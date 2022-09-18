@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 
 > Jesus Music but make it pon pon\.   Get your fill of Afrobeats and Bible right here!  Cover: Limoblaze
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,983 likes - 55 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,159 likes - 55 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,13 +55,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 | 45 | [Blessings](https://open.spotify.com/track/4qLj7niX2TDu5XMakOKcYU) | [King Dareal](https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Blessings](https://open.spotify.com/album/7rcxNFwtfBjFHeu9BSGeXW) | 2:41 |
 | 46 | [The One](https://open.spotify.com/track/6C9qgqcGTqTnzExLnuPuNA) | [Iryne Rock](https://open.spotify.com/artist/0lZBllAgaDbRiaQnNJJFLe) | [The One](https://open.spotify.com/album/3WZgCYXQjjKQSJcZ76UqhO) | 3:07 |
 | 47 | [True Love](https://open.spotify.com/track/4bJfDj5FDY5cP1cndlE9Vj) | [Paul\-Emmanuel](https://open.spotify.com/artist/4VLYFcmEJqb17kzkQ64wE3), [Break The Eyes](https://open.spotify.com/artist/0ySk960unJNGQV1FrSen3p) | [True Love](https://open.spotify.com/album/1jEbLKBbUdvKqLoCoNTDz4) | 2:56 |
-| 48 | [THANK GOD](https://open.spotify.com/track/1zMORse6eODeibmofSgrxS) | [Waconzy](https://open.spotify.com/artist/3fECabmj2EOhc8imK4YKMm) | [THANK GOD](https://open.spotify.com/album/3bZukQ9MXd6kg8lTZWLQzg) | 2:10 |
-| 49 | [Conflicted](https://open.spotify.com/track/2HXxWaxq54pRSJIrsosr4H) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Darla Baltazar](https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1) | [Higher Life](https://open.spotify.com/album/2gt5I6qjSVSt619rSAIlOg) | 3:06 |
-| 50 | [Blessings](https://open.spotify.com/track/4RQmD3QilYPTo0rL9SctoW) | [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC), [Nolly](https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM) | [Blessings](https://open.spotify.com/album/05vAjr5Ya7OdDuivg8xHk6) | 3:04 |
+| 48 | [Blessings](https://open.spotify.com/track/4RQmD3QilYPTo0rL9SctoW) | [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC), [Nolly](https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM) | [Blessings](https://open.spotify.com/album/05vAjr5Ya7OdDuivg8xHk6) | 3:04 |
+| 49 | [THANK GOD](https://open.spotify.com/track/1zMORse6eODeibmofSgrxS) | [Waconzy](https://open.spotify.com/artist/3fECabmj2EOhc8imK4YKMm) | [THANK GOD](https://open.spotify.com/album/3bZukQ9MXd6kg8lTZWLQzg) | 2:10 |
+| 50 | [Conflicted](https://open.spotify.com/track/2HXxWaxq54pRSJIrsosr4H) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Darla Baltazar](https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1) | [Higher Life](https://open.spotify.com/album/2gt5I6qjSVSt619rSAIlOg) | 3:06 |
 | 51 | [Keep You](https://open.spotify.com/track/0d733SKP4dbMEKzevQycYc) | [Michael Oyo](https://open.spotify.com/artist/4bA59rTPAmclKHXJMz06wB), [Mike Aremu](https://open.spotify.com/artist/714vqy5IsHxOtHRvGIkIYX) | [Keep You](https://open.spotify.com/album/0BjlOi4RHUtpOGVfSdQ9Qh) | 2:51 |
 | 52 | [Covered](https://open.spotify.com/track/55BLK36N4ebg6am14GvZ1I) | [Drakare](https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be) | [Covered](https://open.spotify.com/album/6GajkGd1VC4cqCIspEJrT5) | 2:41 |
 | 53 | [Light](https://open.spotify.com/track/24yzTiIIm6voL9ez0AUOZ1) | [Sammie Ekpoh](https://open.spotify.com/artist/58Z6C1up0cgaEMwspOtqO0) | [Light](https://open.spotify.com/album/1eukwQKbKTyHhnQDGU0ZfC) | 2:18 |
 | 54 | [Jo](https://open.spotify.com/track/0uJbjemXz5f4n9dxu3Nn8H) | [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce), [24ldz](https://open.spotify.com/artist/25otQtaZjbQieePYfYNLrg), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Jo](https://open.spotify.com/album/1SOZ93jmZqYyS9GNu0COEr) | 2:30 |
 | 55 | [Yakpa](https://open.spotify.com/track/6vojGMaqWIWN18K1yE5oLG) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H) | [Yakpa](https://open.spotify.com/album/2fe6rgi33vQX1X4Zoesebh) | 2:43 |
 
-Snapshot ID: `MTY2Mjg3NTk2MiwwMDAwMDAwMGYzNGUwYjRjNTQ0YjEwOTM2OWMwYmQ0NDJmNWYwZGRk`
+Snapshot ID: `MTY2Mjg3NTk2MiwwMDAwMDAwMDU2ZDAwZjJjM2YyZGYyMzY2MzFhNTc3ODRkMDQxNWIy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawcx4otNoU1.md) - [plain]
 
 > For those cozy moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 433,912 likes - 150 songs - 9 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 434,143 likes - 150 songs - 9 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawcx4otNoU1.md) - [plain]
 | 67 | [Chemicals](https://open.spotify.com/track/35AG36QH9ytiNtPyx9xwr8) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [A Place We Knew](https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C) | 3:41 |
 | 68 | [Long Way Down](https://open.spotify.com/track/5sdliaZjk3rVGuT13UVhxn) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Echos](https://open.spotify.com/album/6NEBdOy6auSHbdeC3jB4hQ) | 4:17 |
 | 69 | [Dirty Old Town](https://open.spotify.com/track/3sPpEYjRGQYV0XOjy4pYqh) | [Craig Cardiff](https://open.spotify.com/artist/2VMxEtyyo7Jg3jmVDQPHwx) | [Goodnight \(Go Home\)](https://open.spotify.com/album/4VWuOzRhYZQ2Qo2upiTcbd) | 4:06 |
-| 70 | [Foreigner](https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Foreigner](https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ) | 3:54 |
-| 71 | [I Was Made For Loving You](https://open.spotify.com/track/1Xwh83YOFQARZ3QXscP123) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Unbreakable Smile](https://open.spotify.com/album/2mH2TVd6euTmrn9Pcw9XHS) | 3:08 |
+| 70 | [I Was Made For Loving You](https://open.spotify.com/track/1Xwh83YOFQARZ3QXscP123) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Unbreakable Smile](https://open.spotify.com/album/2mH2TVd6euTmrn9Pcw9XHS) | 3:08 |
+| 71 | [Foreigner](https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Foreigner](https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ) | 3:54 |
 | 72 | [Place We Were Made](https://open.spotify.com/track/0xKGPkn1RLsVifjDs4183v) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Place We Were Made](https://open.spotify.com/album/1lFHYunIYd9r5R3dNVpTOT) | 3:05 |
 | 73 | [One Call Away \- Acoustic](https://open.spotify.com/track/5DtTZfXWnMPzgSsl3GGN8u) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [One Call Away \(Acoustic + Remixes\)](https://open.spotify.com/album/5UMl7dsO7ZoMyH7rKUc53q) | 3:09 |
 | 74 | [Hometown Glory](https://open.spotify.com/track/19QzuPTNZHJ2SEu5LCQTGI) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0) | 4:31 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawcx4otNoU1.md) - [plain]
 | 149 | [I Want You](https://open.spotify.com/track/4vNKn8JtZrcwn7aR3x1unv) | [Amari Noelle](https://open.spotify.com/artist/0oOSUbpeJXzsaPm0x7wBF7) | [Amari' SZN 1](https://open.spotify.com/album/7xHdTbAn5n1xFyW6afp5m4) | 3:05 |
 | 150 | [Lion](https://open.spotify.com/track/29fBKVsA6W7etY7W2P7sS9) | [Samuel Gajicki](https://open.spotify.com/artist/0lXF2cCg1bzrguJVr4GhqO) | [Lion](https://open.spotify.com/album/1tfz53aOx3BveGngGj3K3l) | 3:42 |
 
-Snapshot ID: `MTY2MjcyNDgwMCwwMDAwMDAwMGVkN2NiNTYzOWExNTQwYmU4YzhlODE2OTkxZGU5MDQz`
+Snapshot ID: `MTY2MjcyNDgwMCwwMDAwMDAwMDBlZDY1NjE2ZWQyN2FjODIzY2VhMzFmZTQ4NGZhODBk`

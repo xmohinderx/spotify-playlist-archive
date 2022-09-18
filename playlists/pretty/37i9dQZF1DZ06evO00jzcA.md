@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00jzcA.md) - [plain]
 
 > This is KISS\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,553 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,753 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,18 +45,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00jzcA.md) - [plain]
 | 35 | [Hell Or Hallelujah](https://open.spotify.com/track/7q3pjonUyv6YdUv29vq1hJ) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Monster](https://open.spotify.com/album/4bEGlyQHzCfjrqryGwmXD5) | 4:07 |
 | 36 | [I'll Fight Hell To Hold You](https://open.spotify.com/track/5BWARDGvGMtVPJO8WDvaLP) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Crazy Nights](https://open.spotify.com/album/3UBqHwvxUDl6jWxY2RhmrN) | 4:09 |
 | 37 | [Betrayed \- Outtake](https://open.spotify.com/track/6EVZPA4FZ8dygeaCNtPlaA) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Betrayed \(Outtake\)](https://open.spotify.com/album/1cliarCXzPu1Ha0zYIOaKq) | 4:38 |
-| 38 | [Rock N' Rolls Royce \- Gene Simmons Demo](https://open.spotify.com/track/38uoylRVHZNxcCzfq7YydG) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Destroyer \(45th Anniversary Super Deluxe\)](https://open.spotify.com/album/6HmXiwrdWemxIYbzR7GXtk) | 3:02 |
-| 39 | [Thrills In The Night](https://open.spotify.com/track/4DYrRcGMv6zovQkKpA5ymp) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Animalize](https://open.spotify.com/album/5UxqSH1Ez2fcNVLqvLjsgB) | 4:21 |
+| 38 | [Thrills In The Night](https://open.spotify.com/track/4DYrRcGMv6zovQkKpA5ymp) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Animalize](https://open.spotify.com/album/5UxqSH1Ez2fcNVLqvLjsgB) | 4:21 |
+| 39 | [Rock N' Rolls Royce \- Gene Simmons Demo](https://open.spotify.com/track/38uoylRVHZNxcCzfq7YydG) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Destroyer \(45th Anniversary Super Deluxe\)](https://open.spotify.com/album/6HmXiwrdWemxIYbzR7GXtk) | 3:02 |
 | 40 | [Reason To Live](https://open.spotify.com/track/3onHM3etsRdtbTS7cgwkNb) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Crazy Nights](https://open.spotify.com/album/3UBqHwvxUDl6jWxY2RhmrN) | 4:00 |
 | 41 | [Rock And Roll All Nite \- Live From Detroit, MI/1975](https://open.spotify.com/track/4RQLeiolnEGtcFwHxjtF7H) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Alive!](https://open.spotify.com/album/6TRmLIsPKSPS71Cnq8FiMc) | 4:07 |
 | 42 | [See You Tonight \- Live](https://open.spotify.com/track/57zKsBEPheQbBBsNFs35Sy) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [MTV Unplugged](https://open.spotify.com/album/5rf66ReWkobYT88G0Ky52y) | 2:29 |
 | 43 | [Shock Me](https://open.spotify.com/track/39hfj6Tnqgsxn7jGTfWl18) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Love Gun](https://open.spotify.com/album/77opKywcxPnBu5aBMASS2b) | 3:46 |
 | 44 | [Turn On The Night](https://open.spotify.com/track/3L5dCw2G1sNtAaZ0cqUBnY) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Crazy Nights](https://open.spotify.com/album/3UBqHwvxUDl6jWxY2RhmrN) | 3:18 |
 | 45 | [Love Theme From Kiss](https://open.spotify.com/track/3h65F8R0FKA70GRGdt1ftw) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Kiss](https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD) | 2:24 |
-| 46 | [Dirty Livin'](https://open.spotify.com/track/159RwMV9yxgOBk0aXhs3sq) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dynasty](https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1) | 4:27 |
-| 47 | [Forever \- Live](https://open.spotify.com/track/0c3acWFtqZwvBjv5dO4Ts5) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw), [The Melbourne Symphony Ensemble](https://open.spotify.com/artist/7heI8mAanEFxzKBOCNWxJB) | [Symphony: Alive IV](https://open.spotify.com/album/1amAo0xUABmNBclEBCPmgQ) | 3:50 |
+| 46 | [Forever \- Live](https://open.spotify.com/track/0c3acWFtqZwvBjv5dO4Ts5) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw), [The Melbourne Symphony Ensemble](https://open.spotify.com/artist/7heI8mAanEFxzKBOCNWxJB) | [Symphony: Alive IV](https://open.spotify.com/album/1amAo0xUABmNBclEBCPmgQ) | 3:50 |
+| 47 | [Dirty Livin'](https://open.spotify.com/track/159RwMV9yxgOBk0aXhs3sq) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dynasty](https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1) | 4:27 |
 | 48 | [Modern Day Delilah](https://open.spotify.com/track/7jx8RjpHh06VJxMDXblPcd) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [KISS 40](https://open.spotify.com/album/721Qky2RUeTXh0rCmVvqkM) | 3:36 |
 | 49 | [All Hell's Breakin' Loose](https://open.spotify.com/track/5YbJw4lz5qmYCQgmykL9YF) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Lick It Up](https://open.spotify.com/album/0dD1SMOKBDV1qBadcovw30) | 4:34 |
 | 50 | [Unholy](https://open.spotify.com/track/1eyRkbW5tJ7YobW9wQ5zVB) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Revenge](https://open.spotify.com/album/70eknRp5bKGdFq0rJ7kA3x) | 3:42 |
 
-Snapshot ID: `Mjc3MjIyMzMsMDAwMDAwMDAxNTM5YmRkNDI3NGQ4ZjZhMTc3YTU4ZDI3N2RjMzE5MA==`
+Snapshot ID: `Mjc3MjM2OTIsMDAwMDAwMDAwY2RjY2NhZDZkMGY1NjUwYjhlZWM3ZTE5NTUxOTZjOQ==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UcSd2.md) - [plain]
 
 > This is Lenin Ramírez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,010 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,041 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UcSd2.md) - [plain]
 | 29 | [El Güerito](https://open.spotify.com/track/66FkkxqIBN6So8FLnioADs) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Adrian Chaparro](https://open.spotify.com/artist/3Y4EQUPoAoMmzHwq4LUYtl) | [Seguimos Adelante](https://open.spotify.com/album/0AkCrr3xyED7XE5kt5P8Qt) | 2:50 |
 | 30 | [Ya Valiste Madre \- En Vivo](https://open.spotify.com/track/3f615FYAufUocTYlEMh3Fv) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Ya Valiste Madre \(En Vivo\)](https://open.spotify.com/album/6paAsiZAEqWpTR1EujPATt) | 3:07 |
 | 31 | [La Vida del Hombre](https://open.spotify.com/track/09xK2qq0ysWUOv96ehK4PP) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Las Vueltas de la Vida](https://open.spotify.com/album/3jKITc4vEht1Bk6Km1cJKW) | 3:20 |
-| 32 | [En Tu Perra Vida \(En Vivo\)](https://open.spotify.com/track/2JOPvzXMlX7ig83CKq9rpq) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [En Vivo Desde La Valeria en la Feria de Leon Guanajuato \(En Vivo\)](https://open.spotify.com/album/6L4bFbsQuIFQtybo9k1hXs) | 4:04 |
-| 33 | [Mi 45 \- En Vivo](https://open.spotify.com/track/3WDIjzI7arvMScPaPc5sSw) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Jesus Payan](https://open.spotify.com/artist/0vZ2W0xkBCHRGNkb8seYtQ) | [Mi 45 \(En Vivo\)](https://open.spotify.com/album/3eFOp5MvOEWuVGEoyoKSkz) | 2:36 |
+| 32 | [Mi 45 \- En Vivo](https://open.spotify.com/track/3WDIjzI7arvMScPaPc5sSw) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Jesus Payan](https://open.spotify.com/artist/0vZ2W0xkBCHRGNkb8seYtQ) | [Mi 45 \(En Vivo\)](https://open.spotify.com/album/3eFOp5MvOEWuVGEoyoKSkz) | 2:36 |
+| 33 | [En Tu Perra Vida \(En Vivo\)](https://open.spotify.com/track/2JOPvzXMlX7ig83CKq9rpq) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [En Vivo Desde La Valeria en la Feria de Leon Guanajuato \(En Vivo\)](https://open.spotify.com/album/6L4bFbsQuIFQtybo9k1hXs) | 4:04 |
 | 34 | [La Vez de las Huertas](https://open.spotify.com/track/6r7iAcQHWq4NGp217e2DHT) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Siempre Firme](https://open.spotify.com/album/0mPtTRhNimFWmhlPjaTLEG) | 2:04 |
 | 35 | [Las Vueltas de la Vida](https://open.spotify.com/track/04QYNjGUwtJ3emEPCvjaJl) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Las Vueltas de la Vida](https://open.spotify.com/album/3jKITc4vEht1Bk6Km1cJKW) | 4:06 |
 | 36 | [El Plumas](https://open.spotify.com/track/0Gbvdas2fBkDsQBiNgq8dN) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [El Plumas](https://open.spotify.com/album/2yB6Jml9JVX50kTjlU2cgX) | 2:57 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UcSd2.md) - [plain]
 | 42 | [El Señor Zambada](https://open.spotify.com/track/1CBXspim9GK60C4auWiPBe) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Siempre Firme](https://open.spotify.com/album/0mPtTRhNimFWmhlPjaTLEG) | 3:42 |
 | 43 | [Recuerdos del R](https://open.spotify.com/track/6JCyVBSbVg2YH1SlOhg0rz) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Mi Conquista](https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7) | 3:00 |
 | 44 | [El Mas Chico De Los Anthrax](https://open.spotify.com/track/0Apq3JwAePBL2QKZJ0FMFO) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Album De Mi Puno Y Letra](https://open.spotify.com/album/2OXmlL4OKCcZOLddvPTxai) | 3:35 |
-| 45 | [El Jp](https://open.spotify.com/track/6yNJByxMsSuSdyc59PA1Sr) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Las Vueltas de la Vida](https://open.spotify.com/album/3jKITc4vEht1Bk6Km1cJKW) | 3:11 |
+| 45 | [El Cl\-1](https://open.spotify.com/track/3YSTO30NZkuyPhQFkzAdbW) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Las Vueltas de la Vida](https://open.spotify.com/album/3jKITc4vEht1Bk6Km1cJKW) | 2:47 |
 | 46 | [Voy Pa Delante](https://open.spotify.com/track/0hGLcNLLqSyzq6ZdEYYiyK) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Voy Pa Delante](https://open.spotify.com/album/349AQXsglTZZJzozudosQe) | 2:50 |
 | 47 | [Cuando Nino \(feat\. Lenin Ramirez \- Banda](https://open.spotify.com/track/2HbTiBBBEMaQHTGWkniY5h) | [Los Elementos de Culiacan](https://open.spotify.com/artist/21Plz7ujtVKM3kx6zX4eNq), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Jalando la Banda y el Tololoche](https://open.spotify.com/album/4LMSBwGqafnGVhYaX73lCF) | 3:20 |
 | 48 | [Me Famoso Chino Antrax](https://open.spotify.com/track/6UsWPelSadUoBuy75fGxbi) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Album De Mi Puno Y Letra](https://open.spotify.com/album/2OXmlL4OKCcZOLddvPTxai) | 3:00 |
-| 49 | [El Cl\-1](https://open.spotify.com/track/3YSTO30NZkuyPhQFkzAdbW) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Las Vueltas de la Vida](https://open.spotify.com/album/3jKITc4vEht1Bk6Km1cJKW) | 2:47 |
-| 50 | [La Vida del Changuito](https://open.spotify.com/track/6IoVCLDSIZnSYkvn1Br1dG) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Mi Conquista](https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7) | 3:13 |
+| 49 | [El Jp](https://open.spotify.com/track/6yNJByxMsSuSdyc59PA1Sr) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Las Vueltas de la Vida](https://open.spotify.com/album/3jKITc4vEht1Bk6Km1cJKW) | 3:11 |
+| 50 | [Soy el Eddy](https://open.spotify.com/track/57adcqVBwYVjelcepFTGGJ) | [La Duda](https://open.spotify.com/artist/76PanOLrnvlpAjGLTOR3y6), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [¿Y Quienes Somos?](https://open.spotify.com/album/2zzfiVjLx8NcdPu1lQ3yZB) | 4:16 |
 
-Snapshot ID: `Mjc3MjIyMzMsMDAwMDAwMDBkYjVhZTQ0OTRmZjNmNDAxZTJkMWY5N2NjZjNkYjcwZA==`
+Snapshot ID: `Mjc3MjM2OTIsMDAwMDAwMDA1NmZmOWRiYTA3NGI2NjU4MDc5YzlmOTIxMGViNzc0OA==`

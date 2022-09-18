@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wDj1z.md) - [plain]
 
 > This is Sergio Vega "El Shaka"\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,423 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,475 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wDj1z.md) - [plain]
 | 49 | [Amiga](https://open.spotify.com/track/7supUJMhpPfMQHMUBPvXsl) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Millonario De Amor](https://open.spotify.com/album/13d6INVzyUnmbJlFEjvZMQ) | 3:18 |
 | 50 | [Eres Mi Estrella](https://open.spotify.com/track/7HtRhY4YrqTIg2NCizbBL4) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Eres Mi Estrella](https://open.spotify.com/album/3gbFQIpKk46W2nJ6hg8gig) | 3:15 |
 
-Snapshot ID: `Mjc3MjIyMzMsMDAwMDAwMDBmZDA2OWE5YzYyNzVjNzFmNzEwODI5ZGMzNzNhMTAxOQ==`
+Snapshot ID: `Mjc3MjM2OTIsMDAwMDAwMDBkMTYzY2NhNDZiZjM0MDkwODBiYjVhMDU3ZjM3MGRhMw==`

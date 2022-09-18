@@ -4,7 +4,7 @@
 
 > Sinta o flow do rap em estilo acústico ou romântico\. Foto: Froid
 
-124 songs - 7 hr 58 min - [published](https://open.spotify.com/playlist/3Y7mPYZlaTNNZskH9TnUUs)
+125 songs - 8 hr 1 min - [published](https://open.spotify.com/playlist/3Y7mPYZlaTNNZskH9TnUUs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Escorpiano](https://open.spotify.com/track/2fX7EvCm7oB0aBzBoimUeI) | [SaraH](https://open.spotify.com/artist/3NkF2WYP1E10LDHlukuLbW), [J a u m](https://open.spotify.com/artist/1IyuVaJ5TMJ9GYJBYVu5Di), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr) | [Escorpiano](https://open.spotify.com/album/3laZTu81vPOHcaZamMlnzF) | 2:48 | 2022-09-09 |  |
 | [Eu Não Sou Tão Bom Assim](https://open.spotify.com/track/4Sz4wqydJaWpFfR2QoaLCJ) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0) | [Eu Não Sou Tão Bom Assim](https://open.spotify.com/album/0DTufNM9g4WpoUJ9HEII6Q) | 4:02 | 2022-03-18 |  |
 | [Expectativas](https://open.spotify.com/track/0EvH4HVrhZnvAfyctBSGrk) | [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5) | [Expectativas](https://open.spotify.com/album/13xuKcNArawB92zGJibUKh) | 3:21 | 2022-07-01 |  |
-| [Flores](https://open.spotify.com/track/293RaVNeAHU4fpDCd873wX) | [Cidade Verde Sounds](https://open.spotify.com/artist/2tVU8TVXlrwk6KESQxLwH8) | [Flores](https://open.spotify.com/album/5hZTCAtb2Whkb1hQzyFtr0) | 3:39 | 2022-07-01 |  |
+| [Flores](https://open.spotify.com/track/293RaVNeAHU4fpDCd873wX) | [Cidade Verde Sounds](https://open.spotify.com/artist/2tVU8TVXlrwk6KESQxLwH8) | [Flores](https://open.spotify.com/album/5hZTCAtb2Whkb1hQzyFtr0) | 3:39 | 2022-07-01 | 2022-09-18 |
 | [Foda Que Ela É Linda \- Ao Vivo](https://open.spotify.com/track/0FqxX09KVZLIPDKv5kjA1e) | [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5), [Tifli](https://open.spotify.com/artist/0ldh1JBzb2SEDjaqFP5Y8h) | [Tropicalia, Pt\. 1 \(Ao Vivo\)](https://open.spotify.com/album/0q3IIJ0dg3D6PnVrVTcPTx) | 3:03 | 2022-03-18 |  |
 | [Framboesa](https://open.spotify.com/track/1H59wxH6UVpIxWZ0XWi4op) | [Ikki](https://open.spotify.com/artist/5uxYttuMvoojMzmPmWWg6T) | [Framboesa](https://open.spotify.com/album/38yNZ6bgEWDTHdqKKsDCca) | 2:27 | 2022-07-29 | 2022-08-23 |
 | [Fui Eu](https://open.spotify.com/track/1fleF67U8sTqrCgbt58ujl) | [Dcan](https://open.spotify.com/artist/2bCS9Bu6Kpf2TXQhBbE2bj), [RESENHV](https://open.spotify.com/artist/7qvo2lIj7T6DUuIkTzs7Vm) | [Fui Eu](https://open.spotify.com/album/3qwj0K7CI3VH6j27jOukK4) | 1:41 | 2022-05-06 | 2022-05-28 |
@@ -57,6 +57,7 @@
 | [Já Vou](https://open.spotify.com/track/6k64bJBuP0ae5jFcHn8DD7) | [Cortesia Da Casa](https://open.spotify.com/artist/4DdazUhIad0cymOHGifQO6), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [TerrorDosBeats](https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo) | [Já Vou](https://open.spotify.com/album/0wvlDy1UI32sSZ8xullKwo) | 2:57 | 2022-07-15 |  |
 | [Ligação 2](https://open.spotify.com/track/6tHfzjkhBzGEGUwIeryUG1) | [Dcan](https://open.spotify.com/artist/2bCS9Bu6Kpf2TXQhBbE2bj), [RESENHV](https://open.spotify.com/artist/7qvo2lIj7T6DUuIkTzs7Vm) | [Ligação 2](https://open.spotify.com/album/3UEhToRrWkb9tUrSZVmbfk) | 1:31 | 2022-03-25 | 2022-04-16 |
 | [Lucidez](https://open.spotify.com/track/6f8uBSVUTqXb19edn8K2cY) | [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5) | [Lucidez](https://open.spotify.com/album/4C5BUEEM5Xa7GyHlBr8LED) | 3:45 | 2022-04-29 | 2022-06-18 |
+| [Lá Fora Chove](https://open.spotify.com/track/5En5fyF8s35XnjesRCb6EF) | [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0), [PL](https://open.spotify.com/artist/2IWSQjDY5SXgnSyiCRUiP1), [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ) | [Lá Fora Chove](https://open.spotify.com/album/7xfhkJ5H3LbqKWJawAKj95) | 3:00 | 2022-09-17 |  |
 | [Mais Leve](https://open.spotify.com/track/10UcCPD9VWK5LQMfGLGPIN) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5) | [Mais Leve](https://open.spotify.com/album/5Sfp3XSUSMqnegYFfaQZaC) | 4:07 | 2022-04-15 | 2022-08-27 |
 | [Mais Uma Pra Ela](https://open.spotify.com/track/4RdGJsyjWdtIF3W9zA9HL3) | [Truh](https://open.spotify.com/artist/7htWEHwEK1hZFkDeTkdOHQ), [Ikki](https://open.spotify.com/artist/5uxYttuMvoojMzmPmWWg6T) | [Mais Uma Pra Ela](https://open.spotify.com/album/5FGD0t0LKce0guA2ELRMOT) | 2:56 | 2022-05-06 | 2022-05-17 |
 | [Mano Como Ela Fode](https://open.spotify.com/track/1nF9OxU5YOjxyr6E9ggMD0) | [Gu](https://open.spotify.com/artist/08vwQJxPdhUyPBxT4Tf0cS) | [Mano Como Ela Fode](https://open.spotify.com/album/6EzLWCnCMPQokZNuJa44jw) | 2:24 | 2022-03-18 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 
 > Make it new\. Fresh takes on vintage soul, folk, blues, and roots rock\. Cover: Pokey LaFarge
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,407 likes - 90 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,542 likes - 90 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

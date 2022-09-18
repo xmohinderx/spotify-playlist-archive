@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZv6UE8BMPO0.md) - [plain]
 
 > Instrumental Christmas favorites to set the perfect mood for your swinging cocktail party this holiday season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,993 likes - 67 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,999 likes - 67 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZv6UE8BMPO0.md) - [plain]
 | 33 | [Hark the Herald Angels Sing](https://open.spotify.com/track/27oIno72elQiNPLU8ZSLo2) | [Candy Cane Trio](https://open.spotify.com/artist/4NliOpNLEQq2p7q5P19hN2) | [Christmas Cocktails: A Jazz Lounge Holiday Collection](https://open.spotify.com/album/3bGiF08NkrpfTKrKXJPU3n) | 2:02 |
 | 34 | [We Wish You A Merry Christmas](https://open.spotify.com/track/24qIDUtuHes8hTXrs13HR6) | [Little Tree Trio](https://open.spotify.com/artist/307akv5BTJh4p9auz0sc0F) | [Merry Christmas](https://open.spotify.com/album/3mhiSS0lSViQWiEpV3rsuY) | 2:33 |
 | 35 | [Joy to the World](https://open.spotify.com/track/5xKtM3Y9NrT5VeoVxrAerk) | [Tom Stills Quartet](https://open.spotify.com/artist/2AE39jS64KnonFYcLHAUv0) | [Jingle Bells](https://open.spotify.com/album/5QiRNuqANTMFeKdznWLy7o) | 1:28 |
-| 36 | [What Child Is This](https://open.spotify.com/track/0LP2DlqqEH5Lo0ujWdHkUD) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \[2012 Remastered & Expanded Edition\]](https://open.spotify.com/album/7DuJYWu66RPdcekF5TuZ7w) | 2:24 |
+| 36 | [What Child Is This](https://open.spotify.com/track/1KYp6R9KfYSna86gFkIhq0) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \[2012 Remastered & Expanded Edition\]](https://open.spotify.com/album/2XnNY3GEkbWHor5kyvXLu4) | 2:24 |
 | 37 | [Silent Night](https://open.spotify.com/track/1ly2fVX5oa3mEYIIJmZy7y) | [Duponte et Duponte](https://open.spotify.com/artist/2deWXMlH853VExXZNmSe5o) | [Silent Night](https://open.spotify.com/album/494ISYC4VJgaXehehLU6zI) | 3:03 |
 | 38 | [I Wonder as I Wander](https://open.spotify.com/track/2MQcRhTYOzARoJqeMjaU7t) | [Leif Shires](https://open.spotify.com/artist/3YVt5oKfFEE0yJa7yJ3wWE) | [Christmas Jazz 2](https://open.spotify.com/album/28uj6wDrwR9YLC4DPYjrT2) | 3:57 |
 | 39 | [Let It Snow](https://open.spotify.com/track/3DQFbtGXEnr4uWIh04ljQr) | [Greydon Park Band](https://open.spotify.com/artist/6pZIC4vzuNxdwy8hJSq29S) | [Jingle Bell Rock](https://open.spotify.com/album/1ZToBj4EZu8gnR2hLsrFwW) | 2:03 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZv6UE8BMPO0.md) - [plain]
 | 66 | [Good “Swing” Wenceslas](https://open.spotify.com/track/1aeVPzsWRiLbZEcn9SSEfb) | [Count Basie Orchestra](https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe) | [A Very Swingin’ Basie Christmas!](https://open.spotify.com/album/2YeKSxPeuQYiml0g6pzn7S) | 3:33 |
 | 67 | [Frosty the snowman](https://open.spotify.com/track/1TT5txDzWtg7OF8BhS1lWa) | [Gillian Spencer Trio](https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM) | [Here Comes Santa Claus](https://open.spotify.com/album/3KANZfLdfrcTDDYaIKWstX) | 2:09 |
 
-Snapshot ID: `MTY2MzMzNTIxNywwMDAwMDAwMGNkOTAzZTFiNzRhNTRkOGUwMWJhZTFiMzc4N2QxN2Qw`
+Snapshot ID: `MTY2MzMzNTIxNywwMDAwMDAwMDliMTVlODk0OWZhMzc2NTY5OWZkZWVjOWY3OWFjYzkx`

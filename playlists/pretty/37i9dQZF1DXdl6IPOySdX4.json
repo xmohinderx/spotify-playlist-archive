@@ -1,12 +1,12 @@
 {
   "description": "you up?",
-  "num_followers": 710820,
+  "num_followers": 713609,
   "original_name": "goosebumps",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMzNDE2NywwMDAwMDAwMDU4OTk5YTg0YTYyYWQyMWJjZWJjMmFiMGNjYjJiMzNm",
+  "snapshot_id": "MTY2MzMzNDE2NywwMDAwMDAwMDk1MGZkYjNiMTBiZjlmYWY3M2FhZDgwZmRmMzk5YTQx",
   "tracks": [
     {
       "added_at": "2022-09-09 17:54:03",
@@ -683,6 +683,22 @@
     {
       "added_at": "2022-09-09 17:54:03",
       "album": {
+        "name": "The Perfect Girl",
+        "url": "https://open.spotify.com/album/2JnZQM70jbT0J1Xq0qgl24"
+      },
+      "artists": [
+        {
+          "name": "Mareux",
+          "url": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
+        }
+      ],
+      "duration_ms": 194423,
+      "name": "The Perfect Girl",
+      "url": "https://open.spotify.com/track/5RBOcBpJXaNnHCGViJmYhh"
+    },
+    {
+      "added_at": "2022-09-09 17:54:03",
+      "album": {
         "name": "Dandelions (slowed + reverb)",
         "url": "https://open.spotify.com/album/0W26SC6AcPdqk1Hz5hfWnj"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 268717,
       "name": "Dandelions - slowed + reverb",
       "url": "https://open.spotify.com/track/6fhG2KJgwO7CrNflRaRmvp"
-    },
-    {
-      "added_at": "2022-09-09 17:54:03",
-      "album": {
-        "name": "The Perfect Girl",
-        "url": "https://open.spotify.com/album/2JnZQM70jbT0J1Xq0qgl24"
-      },
-      "artists": [
-        {
-          "name": "Mareux",
-          "url": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
-        }
-      ],
-      "duration_ms": 194423,
-      "name": "The Perfect Girl",
-      "url": "https://open.spotify.com/track/5RBOcBpJXaNnHCGViJmYhh"
     },
     {
       "added_at": "2022-09-09 17:54:03",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2022-09-09 17:54:03",
       "album": {
-        "name": "Euphoria (Original Score from the HBO Series)",
-        "url": "https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 202536,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/6potEImiklXkwD9qFzpu15"
-    },
-    {
-      "added_at": "2022-09-09 17:54:03",
-      "album": {
         "name": "Still Over It",
         "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 231497,
       "name": "No Love (with SZA)",
       "url": "https://open.spotify.com/track/08SB2OtZkaliju77WYEKxk"
+    },
+    {
+      "added_at": "2022-09-09 17:54:03",
+      "album": {
+        "name": "Euphoria (Original Score from the HBO Series)",
+        "url": "https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 202536,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/6potEImiklXkwD9qFzpu15"
     },
     {
       "added_at": "2022-09-09 17:54:03",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2022-09-09 17:54:03",
       "album": {
-        "name": "Happier Than Ever",
-        "url": "https://open.spotify.com/album/6EOyWmHnLJptnyjB8xrYT5"
-      },
-      "artists": [
-        {
-          "name": "ASTN",
-          "url": "https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co"
-        }
-      ],
-      "duration_ms": 109325,
-      "name": "Happier Than Ever",
-      "url": "https://open.spotify.com/track/7es56D0QedGMsK39wl2yFX"
-    },
-    {
-      "added_at": "2022-09-09 17:54:03",
-      "album": {
         "name": "JAMIE",
         "url": "https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 132000,
       "name": "Fall in Love with You.",
       "url": "https://open.spotify.com/track/4kJT7Yj6Za01KfKHjb7mZE"
+    },
+    {
+      "added_at": "2022-09-09 17:54:03",
+      "album": {
+        "name": "Happier Than Ever",
+        "url": "https://open.spotify.com/album/6EOyWmHnLJptnyjB8xrYT5"
+      },
+      "artists": [
+        {
+          "name": "ASTN",
+          "url": "https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co"
+        }
+      ],
+      "duration_ms": 109325,
+      "name": "Happier Than Ever",
+      "url": "https://open.spotify.com/track/7es56D0QedGMsK39wl2yFX"
     },
     {
       "added_at": "2022-09-09 17:54:03",

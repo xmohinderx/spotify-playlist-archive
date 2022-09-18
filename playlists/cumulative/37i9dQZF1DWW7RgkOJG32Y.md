@@ -4,7 +4,7 @@
 
 > Top trending new and recent tracks from the last few months\. Cover: Lauren Alaina & Chris Lane
 
-223 songs - 11 hr 51 min - [published](https://open.spotify.com/playlist/3oudbJWMXta4beE8xnLWw8)
+224 songs - 11 hr 54 min - [published](https://open.spotify.com/playlist/3oudbJWMXta4beE8xnLWw8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Any Day Now](https://open.spotify.com/track/5agWi0xnqABWE51rrBz9oz) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Comeback](https://open.spotify.com/album/3HAqDprp8YxHEguHkCcfOC) | 3:13 | 2021-12-31 | 2022-02-12 |
 | [Anything Like You Dance \- Radio Mix](https://open.spotify.com/track/3G50XjVhXh5VLqrmiLWZ0d) | [Ray Fulcher](https://open.spotify.com/artist/7abk76xILIuWQIcPooclLp) | [Anything Like You Dance \(Radio Mix\)](https://open.spotify.com/album/1kBMbGSoQc9XdTzx5zs9Vf) | 3:18 | 2022-06-10 |  |
 | [As You Leave](https://open.spotify.com/track/218NK60dJvyf7mIsowogA3) | [Canaan Cox](https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D) | [As You Leave](https://open.spotify.com/album/10mMsHExUCFJEcILYH3wZt) | 2:06 | 2022-02-18 |  |
-| [Baby I Am](https://open.spotify.com/track/6OSa9hgEvituO2SaaYBiwD) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [Baby I Am](https://open.spotify.com/album/44lDYWVwQ1yo5r066GtpSo) | 2:56 | 2022-02-25 |  |
+| [Baby I Am](https://open.spotify.com/track/3pD2qgImjXbfepb5mksDp3) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [Baby I Am](https://open.spotify.com/album/5bg19JZRGPWA2ubmplCSt2) | 2:56 | 2022-09-16 |  |
+| [Baby I Am](https://open.spotify.com/track/6OSa9hgEvituO2SaaYBiwD) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [Baby I Am](https://open.spotify.com/album/44lDYWVwQ1yo5r066GtpSo) | 2:56 | 2022-02-25 | 2022-09-18 |
 | [Backroad Flyin'](https://open.spotify.com/track/73VO2Gy5FMTpmeQl0jFeZl) | [Luke and Kaylee](https://open.spotify.com/artist/0p7RQG0Rq8tzWxUros2BDf) | [Backroad Flyin'](https://open.spotify.com/album/5URlnunYAmVeQcjW8XJW9y) | 3:12 | 2021-12-17 | 2022-05-14 |
 | [Bar Friends](https://open.spotify.com/track/5NfFDWE3FzgXo0Mg7N4MEm) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Bar Friends](https://open.spotify.com/album/5Z81UYgt8SNzIRh2emPnPi) | 3:06 | 2021-12-17 | 2022-02-05 |
 | [Because of You](https://open.spotify.com/track/40721hE3Dr4ciKWSsmL3Sa) | [David J](https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo) | [Lost My Heartbreak](https://open.spotify.com/album/7eI0RyVZwhaH1MtYgTcKiK) | 3:05 | 2022-06-03 |  |

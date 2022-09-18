@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 
 > New makes old\. Cover: Sierra Ferrell
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,249 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,366 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 | 93 | [Stone Me](https://open.spotify.com/track/41G13b0SToDtz6rIENwswT) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [That's How Rumors Get Started](https://open.spotify.com/album/0QFMgwRbj0jhGR8FEAmVdL) | 3:09 |
 | 94 | [Morgan, I Might](https://open.spotify.com/track/546zJv5pyapMZO5O0l0p4x) | [Marit Larsen](https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg) | [Joni Was Right](https://open.spotify.com/album/4b9Jd0hGddS6xH6zjsCEV7) | 3:17 |
 | 95 | [Same Devil \(feat\. Brandi Carlile\)](https://open.spotify.com/track/11ztTGjFtV3MNoNx0XvApC) | [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Same Devil \(feat\. Brandi Carlile\)](https://open.spotify.com/album/6XL1xCLdUOU6j35YspCkqO) | 3:07 |
-| 96 | [That's How I Feel](https://open.spotify.com/track/0184cc4SRW7zVafrYR8I7U) | [Dori Freeman](https://open.spotify.com/artist/4GCMwhffO4BBQZp2eoOapt) | [Every Single Star](https://open.spotify.com/album/3nrtejgwleUGvNPWXMymV2) | 2:43 |
+| 96 | [Blue Kentucky Girl \- 2003 Remaster](https://open.spotify.com/track/3O9GZtd0hf6RH6EJjb5KXB) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Blue Kentucky Girl \(Expanded & Remastered\)](https://open.spotify.com/album/00tOvqGXbQLpbPMRmYjs5d) | 3:20 |
 | 97 | [Half a Heart Keychain](https://open.spotify.com/track/6Ff6tdQfdEyHm71P6mLpc5) | [Riddy Arman](https://open.spotify.com/artist/0h1dIjLACuc4yDLePjLT42) | [Half a Heart Keychain](https://open.spotify.com/album/3pglOjTAYQHnd8uZu9g86j) | 3:20 |
-| 98 | [Blue Kentucky Girl \- 2003 Remaster](https://open.spotify.com/track/3O9GZtd0hf6RH6EJjb5KXB) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Blue Kentucky Girl \(Expanded & Remastered\)](https://open.spotify.com/album/00tOvqGXbQLpbPMRmYjs5d) | 3:20 |
+| 98 | [That's How I Feel](https://open.spotify.com/track/0184cc4SRW7zVafrYR8I7U) | [Dori Freeman](https://open.spotify.com/artist/4GCMwhffO4BBQZp2eoOapt) | [Every Single Star](https://open.spotify.com/album/3nrtejgwleUGvNPWXMymV2) | 2:43 |
 | 99 | [Dry Town](https://open.spotify.com/track/4ki94wKEhXYNW4ywgd4qLs) | [Della Mae](https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh) | [Family Reunion](https://open.spotify.com/album/2rAOtJeqLd0RvfqmHoaYZv) | 2:42 |
 | 100 | [Only Lies](https://open.spotify.com/track/72glNsoRmefP9dHyPevxnz) | [Robert Ellis](https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE) | [The Lights from the Chemical Plant](https://open.spotify.com/album/1W2D0Ob8aA26OAdueRAaJP) | 3:50 |
 
-Snapshot ID: `MTY0ODc4NTYwMCwwMDAwMDAwMDI0MjM4OWU1MWQ4MTkwMjg0ZTE5MDRlMTM3Y2UxYWYw`
+Snapshot ID: `MTY0ODc4NTYwMCwwMDAwMDAwMGRjNzFjYzA0ZWZkZjIwOGFjYTEwZWEyMjQ3OTBiMzcx`

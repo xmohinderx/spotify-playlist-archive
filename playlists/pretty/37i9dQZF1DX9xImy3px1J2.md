@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xImy3px1J2.md) - [plain]
 
 > Questa è la tua notte, balla fino al mattino tra hit dance e ritmi latini.
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,890 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,916 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xImy3px1J2.md) - [plain]
 | 35 | [Freed From Desire](https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q) | [Gala](https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ) | [Come Into My Life \(The Album\)](https://open.spotify.com/album/3vcwGUl0WiJVssOR1dXEbe) | 3:33 |
 | 36 | [BED](https://open.spotify.com/track/0siYMEsGrzzzlWLXK5zJfS) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [BED](https://open.spotify.com/album/36tML2tWjDrbLW4FgrX17U) | 2:58 |
 | 37 | [Don't Call Me Up](https://open.spotify.com/track/5WHTFyqSii0lmT9R21abT8) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Ivy To Roses \(Mixtape\)](https://open.spotify.com/album/0syM7OUAhV7S6XmOa4nLUZ) | 2:58 |
-| 38 | [BUBBLE \(feat\. thasup & Salmo\)](https://open.spotify.com/track/3fIB4IEcvjlzItwnFUvIBk) | [Takagi & Ketra](https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx), [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [BUBBLE \(feat\. thasup & Salmo\)](https://open.spotify.com/album/2yuspE1GL8YQLrOboKtwWp) | 2:44 |
+| 38 | [Piece Of Your Heart](https://open.spotify.com/track/1DFD5Fotzgn6yYXkYsKiGs) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Piece Of Your Heart](https://open.spotify.com/album/0cqRGWD3uc5Lggpducn5nD) | 2:32 |
 | 39 | [Me Rehúso](https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Me Rehúso](https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d) | 3:25 |
-| 40 | [Piece Of Your Heart](https://open.spotify.com/track/1DFD5Fotzgn6yYXkYsKiGs) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Piece Of Your Heart](https://open.spotify.com/album/0cqRGWD3uc5Lggpducn5nD) | 2:32 |
+| 40 | [BUBBLE \(feat\. thasup & Salmo\)](https://open.spotify.com/track/3fIB4IEcvjlzItwnFUvIBk) | [Takagi & Ketra](https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx), [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [BUBBLE \(feat\. thasup & Salmo\)](https://open.spotify.com/album/2yuspE1GL8YQLrOboKtwWp) | 2:44 |
 | 41 | [Loco](https://open.spotify.com/track/6PDlkWmrq2ZKiUuFt2aQsH) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Loco](https://open.spotify.com/album/0Aq33KpcbXrHkuyfMhEORI) | 3:51 |
 | 42 | [China](https://open.spotify.com/track/2ksOAxtIxY8yElEWw8RhgK) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [China](https://open.spotify.com/album/1PTTAq0OxggVgqP5WTYWDh) | 5:01 |
 | 43 | [Suavemente](https://open.spotify.com/track/7Bz5B6hEU5TS145QYTfc3k) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Boro Boro](https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu) | [Suavemente](https://open.spotify.com/album/6RfOBcxexu6ZYIUS9HG9Al) | 2:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xImy3px1J2.md) - [plain]
 | 49 | [Baila Conmigo](https://open.spotify.com/track/3KruoUtSkm84Az0bJunnxl) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Baila Conmigo](https://open.spotify.com/album/00RgZ3hZH9WpvBksu2hx5G) | 2:26 |
 | 50 | [Family Affair \(Dance For Me\)](https://open.spotify.com/track/1dP519dbEob8H6wiouRdaY) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Family Affair \(Dance For Me\)](https://open.spotify.com/album/4Od76Fafa1rc89D7yLBfVH) | 2:38 |
 
-Snapshot ID: `MTY2Mjk4NDcxOSwwMDAwMDAwMGE4MTE4ODg1Y2MxNTIyMTYyN2RkM2M5YTkyYTU5N2Zh`
+Snapshot ID: `MTY2Mjk4NDcxOSwwMDAwMDAwMGFmYjQwYjY1ZGRjOGFjM2FiZTc2Nzk5YmQyYzg1NDE5`

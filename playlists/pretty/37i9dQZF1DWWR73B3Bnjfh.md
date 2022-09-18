@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWR73B3Bnjfh.md) - [plain]
 
 > The melancholic and soft sound of Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,080 likes - 125 songs - 11 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,220 likes - 125 songs - 11 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

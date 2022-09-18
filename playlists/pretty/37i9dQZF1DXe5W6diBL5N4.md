@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > 신곡 배달! The freshest K\-Pop releases are here! \(Cover: HWANG MIN HYUN\(황민현\)\) \(신선한 국내 최신곡들을 플레이리스트로 만나보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,949 likes - 111 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,104 likes - 111 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 37 | [KISS YOU](https://open.spotify.com/track/5Ghp2j13KLIwHt9HoQz0KP) | [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs) | [LOVE & HOLIDAY](https://open.spotify.com/album/7js8k7ytMNkvABIvsIzLGR) | 3:04 |
 | 38 | [Come out](https://open.spotify.com/track/01CoIooq2k6udTrRjOBePw) | [Ryu Su Jeong](https://open.spotify.com/artist/6hrti7kBnnfAgy5Mq9wrQc) | [Come out](https://open.spotify.com/album/4LWa3thfPXQ79L7aQFi6Cz) | 2:58 |
 | 39 | [Like The Moon](https://open.spotify.com/track/7t0kcgP9m9B6C6OYHc9AlL) | [NO\_ON](https://open.spotify.com/artist/44CBCqoh0b32RmvSVB5Jiz) | [Like The Moon](https://open.spotify.com/album/5mafdPxHeyQqwam1IfCcP2) | 2:39 |
-| 40 | [still beautiful](https://open.spotify.com/track/5MsPHSEHfSZnxgaJDnEdI6) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [still beautiful](https://open.spotify.com/album/6R1xUiVm1iCwZP2TQtimIn) | 3:45 |
+| 40 | [still beautiful](https://open.spotify.com/track/5WObYUq7J0E5tNOaLKeF3C) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [imagine club](https://open.spotify.com/album/1Fhu3FJHqttNA1d6e7VXxC) | 3:45 |
 | 41 | [US](https://open.spotify.com/track/7kgXTDpFk0L6TGpxu8KmZy) | [PARKJIWOO](https://open.spotify.com/artist/0NuBvSQbbZW2NL9cwbnpER) | [US](https://open.spotify.com/album/45fowGT2dR8DRFuxYDNFhr) | 3:00 |
 | 42 | [THIS Is My Life](https://open.spotify.com/track/14ISRyduGwFh1MIFTZY5Jz) | [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3) | [THIS Is My Life](https://open.spotify.com/album/52rSYh8ESw8PAG30rXOc4F) | 2:57 |
 | 43 | [Rain On Me](https://open.spotify.com/track/5pYtnpaZ0hzJ8x6o3WnRom) | [Johan Kim](https://open.spotify.com/artist/7kqUt0kZIfski1GVmbwjG3) | [ADAMAS, Pt\. 6 \(Original Television Soundtrack\)](https://open.spotify.com/album/0q6Wx5MI2K5p2dYLZEegmR) | 3:41 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 110 | [Why](https://open.spotify.com/track/2wioFPNSncLumZ6mW8QNdV) | [JEON WOO SUNG](https://open.spotify.com/artist/4wX95R4bzGztvCtWuRqJdH) | [Why](https://open.spotify.com/album/4U62uoUra0g779HKXfBh01) | 4:05 |
 | 111 | [If You](https://open.spotify.com/track/53ioaj2WPAVA2CDrPBTjPI) | [Kid Wine](https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb) | [ROSÉ](https://open.spotify.com/album/4NYDb3DfkaCG2mQwaONipS) | 3:34 |
 
-Snapshot ID: `MTY2MzMxOTM5NywwMDAwMDAwMGI3MmQ3YTMzMGZlZDA1MzY2ZDIxNzQxYzRlMWM0ODVh`
+Snapshot ID: `MTY2MzMxOTM5NywwMDAwMDAwMGQ2YWE1NWI4NjI2NWI3NDRmYjQwZjhlYzFhODc4MGZh`

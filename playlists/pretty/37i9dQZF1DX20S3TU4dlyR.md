@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 
 > Este es el Reggae, al sur del continente americano\. Foto: Los Pericos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,117 likes - 89 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,129 likes - 89 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

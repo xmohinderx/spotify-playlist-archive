@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QWEVCu9UDA.md) - [plain]
 
 > Discover new music while you game.
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,351 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,375 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QWEVCu9UDA.md) - [plain]
 | 61 | [Tracphone](https://open.spotify.com/track/5dMHeQAGLqNBNv6zegpmZy) | [Latrell James](https://open.spotify.com/artist/7zrWMnPOpwr5AEt670VKMc) | [Tracphone](https://open.spotify.com/album/0ki9ArxOnpoIE0M058o8mL) | 3:13 |
 | 62 | [Flashy](https://open.spotify.com/track/2zvgnWPuyOudoBW64u2Pqj) | [27Delly](https://open.spotify.com/artist/17Y9T6RYbruDp0XDIMB6xT) | [Flashy](https://open.spotify.com/album/4v0jPG4CqEUMl1ZFCNSMDV) | 3:03 |
 | 63 | [Money on Your Mind](https://open.spotify.com/track/2L3Is8ZtUJ48PIUJVO7Gvv) | [Lucian](https://open.spotify.com/artist/5CVsjwjuzUOrlEc2OJbUg4), [mokina](https://open.spotify.com/artist/6TnOtn1qYytprdSpG4kYCc) | [Money on Your Mind](https://open.spotify.com/album/4QNDvCyHma9aUlMwfZFufX) | 1:43 |
-| 64 | [NERD](https://open.spotify.com/track/4rg6TeIhQo6YvqyOk5KXUB) | [Lo Village](https://open.spotify.com/artist/7h01MzzV4zMo39ocJpJiCi) | [NERD](https://open.spotify.com/album/7uMU8Ih931hKxSu2z7phrl) | 3:34 |
-| 65 | [Reason](https://open.spotify.com/track/5hh3By6E17LN6N0txgB03W) | [Maadrhino](https://open.spotify.com/artist/69NXAR2kpX8fv5ed7xJpgx) | [Reason](https://open.spotify.com/album/5NKvLYonbBZWUqIyQSmbxt) | 3:01 |
+| 64 | [Reason](https://open.spotify.com/track/5hh3By6E17LN6N0txgB03W) | [Maadrhino](https://open.spotify.com/artist/69NXAR2kpX8fv5ed7xJpgx) | [Reason](https://open.spotify.com/album/5NKvLYonbBZWUqIyQSmbxt) | 3:01 |
+| 65 | [NERD](https://open.spotify.com/track/4rg6TeIhQo6YvqyOk5KXUB) | [Lo Village](https://open.spotify.com/artist/7h01MzzV4zMo39ocJpJiCi) | [NERD](https://open.spotify.com/album/7uMU8Ih931hKxSu2z7phrl) | 3:34 |
 | 66 | [Foolie](https://open.spotify.com/track/6Up0zYrC158RxXWmXfOBeX) | [Asoh Black!](https://open.spotify.com/artist/50KItow1zdTmMTAVX3FKIg) | [Black Ocean: Season One](https://open.spotify.com/album/5JT0MU5PxApXLxa8oLpOwn) | 2:46 |
 | 67 | [Woah](https://open.spotify.com/track/7ovsrGkfcZhLuXPtN4Z2qC) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ) | [Woah](https://open.spotify.com/album/3Emj30Utjj4Y94qjvU21gt) | 2:55 |
 | 68 | [Til Infinity](https://open.spotify.com/track/7I8GVZWFtrTzvHO0nAyLwY) | [Moh Flow](https://open.spotify.com/artist/4mZSevA0QZtMWxZTGhLw9p) | [Til Infinity](https://open.spotify.com/album/2aQTWsO2PR764AMOAqomgE) | 3:08 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QWEVCu9UDA.md) - [plain]
 | 71 | [On the Loose](https://open.spotify.com/track/5s8b9TuTp1omlmCDaKBI3W) | [Will Claye](https://open.spotify.com/artist/29ko7p6q0gVHvzy7B2alol), [Reagan Capaci](https://open.spotify.com/artist/3juQ8wz0DRybHcAQj4Jxvw) | [Quoted](https://open.spotify.com/album/04r8mpVK4j7TeMMEHlLrA8) | 2:38 |
 | 72 | [COLUMBIA](https://open.spotify.com/track/1L8GpP1KURUrF8Ewj7B7qI) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [COLUMBIA](https://open.spotify.com/album/13hsWzSOISWHF9Iv9wcdJq) | 3:07 |
 | 73 | [SOFA](https://open.spotify.com/track/2FhswqpB97CDVIaHHfNUhW) | [5amDiaries](https://open.spotify.com/artist/0jzizURp4Zz01l8OmSeZ2g), [Jackson Homer](https://open.spotify.com/artist/0W9bMhPWFmnO2u2ejaVDlC) | [SOFA](https://open.spotify.com/album/6bF5YytXk81TGAomwlxS4u) | 2:54 |
-| 74 | [Fetti](https://open.spotify.com/track/7EKvaYorWWn9ZyKMDjQvhi) | [Mir Fontane](https://open.spotify.com/artist/53VAKbI2fXRs1PwG6DVToP) | [Fetti](https://open.spotify.com/album/6WhaO7l8geXM4a0MApJq4i) | 2:01 |
-| 75 | [Get Back](https://open.spotify.com/track/7LA92Cj5dvCKcJV9QKAfaL) | [Ahmad Anonimis](https://open.spotify.com/artist/3wnsNFtqQ75UEUAN3PwkPH) | [Get Back](https://open.spotify.com/album/3duBAtUF1Qs0I0N9YdmDNn) | 2:27 |
+| 74 | [Get Back](https://open.spotify.com/track/7LA92Cj5dvCKcJV9QKAfaL) | [Ahmad Anonimis](https://open.spotify.com/artist/3wnsNFtqQ75UEUAN3PwkPH) | [Get Back](https://open.spotify.com/album/3duBAtUF1Qs0I0N9YdmDNn) | 2:27 |
+| 75 | [Fetti](https://open.spotify.com/track/7EKvaYorWWn9ZyKMDjQvhi) | [Mir Fontane](https://open.spotify.com/artist/53VAKbI2fXRs1PwG6DVToP) | [Fetti](https://open.spotify.com/album/6WhaO7l8geXM4a0MApJq4i) | 2:01 |
 | 76 | [MAKE LOVE](https://open.spotify.com/track/2ZhnzM9V0Lq2NxP39SFt3u) | [twuan](https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5) | [MAKE LOVE](https://open.spotify.com/album/5AEvKwlAfddCE6tZNUjaJv) | 1:58 |
 | 77 | [Middle School](https://open.spotify.com/track/2d4UOvvcPXJNeOUEi61vLN) | [Free Party](https://open.spotify.com/artist/2A1dxDBORVkkbHJDVDOhed) | [Middle School](https://open.spotify.com/album/1APaIiDsD9NbwjgJQW646O) | 2:28 |
 | 78 | [TRUTH \(feat\. Sam Truth and redveil\)](https://open.spotify.com/track/3hQrIF803GxbmRcWFJr7lc) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c), [Sam Truth](https://open.spotify.com/artist/6vyaBinA0tnzsoiX4GEboa), [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM) | [TRUTH \(feat\. Sam Truth and redveil\)](https://open.spotify.com/album/169yl4T0ip7hzkC4e51iHp) | 3:10 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QWEVCu9UDA.md) - [plain]
 | 96 | [NASCAR](https://open.spotify.com/track/02dK2GoARvsOTbqknpc0tn) | [Angelo Mota](https://open.spotify.com/artist/1PpFka2STGQ57kJcgYBgEF), [WELL$](https://open.spotify.com/artist/0LHzh8WdqxdtnTzp0XIOyZ) | [ZAÏRE](https://open.spotify.com/album/2ipqq0qkzSqrdATDtgmpRM) | 3:38 |
 | 97 | [Young Sylvan Back](https://open.spotify.com/track/5efVqaEXb0izCck7z9OLNc) | [Sylvan LaCue](https://open.spotify.com/artist/0JuDxOwz1e3Wx05t8e3AT3) | [Young Sylvan Ep\. 1](https://open.spotify.com/album/4crKCcXX4VvbRBIV2Jio8V) | 2:03 |
 | 98 | [Emmanuel](https://open.spotify.com/track/4PDvFyW8sYdEv38JdSkQ7E) | [Ameer Vann](https://open.spotify.com/artist/7kIbB1pdDyehFj8aNgfzfH) | [EMMANUEL](https://open.spotify.com/album/08eWihUSFSOoMI9uFRj2EP) | 2:47 |
-| 99 | [We Outside!](https://open.spotify.com/track/7Lqk3yFLKafglbxYtizuK8) | [LocalBlac](https://open.spotify.com/artist/3vd2KGft2kyDiFh8efTliT) | [Inside Voices Please!](https://open.spotify.com/album/0oBB1sV4CeduGaveSJVDxT) | 3:44 |
-| 100 | [Smooth Boogie](https://open.spotify.com/track/6ioS9o6mALt95iHqEL1bZv) | [Stockz](https://open.spotify.com/artist/7tVkoeijZhmwmvtlRrxAT0), [Jay Anthony](https://open.spotify.com/artist/6PhukEDmCNt2jyDZnM4TrK) | [CAPITAL GAINS](https://open.spotify.com/album/5teWFTeeOLs9chjp6dQ6wA) | 2:40 |
+| 99 | [Smooth Boogie](https://open.spotify.com/track/6ioS9o6mALt95iHqEL1bZv) | [Stockz](https://open.spotify.com/artist/7tVkoeijZhmwmvtlRrxAT0), [Jay Anthony](https://open.spotify.com/artist/6PhukEDmCNt2jyDZnM4TrK) | [CAPITAL GAINS](https://open.spotify.com/album/5teWFTeeOLs9chjp6dQ6wA) | 2:40 |
+| 100 | [We Outside!](https://open.spotify.com/track/7Lqk3yFLKafglbxYtizuK8) | [LocalBlac](https://open.spotify.com/artist/3vd2KGft2kyDiFh8efTliT) | [Inside Voices Please!](https://open.spotify.com/album/0oBB1sV4CeduGaveSJVDxT) | 3:44 |
 
-Snapshot ID: `MTY2MjIyMDQzMCwwMDAwMDAwMGM0YmVjYzU4Y2JhNDFlNDEzZDQyNDU4NjA3YjA0NTA0`
+Snapshot ID: `MTY2MjIyMDQzMCwwMDAwMDAwMGUyYjExMGM2ZTQ3YjlhZjJhZTQwYmU4Yzg1NzA4YjY5`

@@ -588,6 +588,24 @@
     },
     {
       "album": {
+        "name": "Tutti I Miei Ricordi",
+        "url": "https://open.spotify.com/album/46rBMQmLv2LTBJnJfDXdW1"
+      },
+      "artists": [
+        {
+          "name": "Marco Mengoni",
+          "url": "https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204097,
+      "name": "Tutti I Miei Ricordi",
+      "url": "https://open.spotify.com/track/1QBuTS2nDVBmqiOG9jneej"
+    },
+    {
+      "album": {
         "name": "Virale",
         "url": "https://open.spotify.com/album/0rSZMkAo12juM5issAjerT"
       },

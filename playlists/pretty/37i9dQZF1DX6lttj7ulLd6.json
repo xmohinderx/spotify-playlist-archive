@@ -1,12 +1,12 @@
 {
   "description": "Instrumental Smooth Jazz for relaxing.",
-  "num_followers": 30386,
+  "num_followers": 30826,
   "original_name": "Smooth Jazz Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzI1MDYwMiwwMDAwMDAwMDM1ZTA0YTVkMmIwNDAyOTk3YmNjNDhkNDI1NjFlZWZm",
+  "snapshot_id": "MTY2MzI1MDYwMiwwMDAwMDAwMGE1MmJhOTRlNjc5NTg5YWI3MDlmNmUzZTdjZTYxNTMz",
   "tracks": [
     {
       "added_at": "2022-09-15 14:03:22",
@@ -79,22 +79,6 @@
     {
       "added_at": "2022-09-15 14:03:22",
       "album": {
-        "name": "My One And Only One",
-        "url": "https://open.spotify.com/album/4aINB0LIcdX5jTzT55TB5J"
-      },
-      "artists": [
-        {
-          "name": "Jessy J",
-          "url": "https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x"
-        }
-      ],
-      "duration_ms": 217843,
-      "name": "Una Mas",
-      "url": "https://open.spotify.com/track/6XtAWAob4B0USWBsX3teoT"
-    },
-    {
-      "added_at": "2022-09-15 14:03:22",
-      "album": {
         "name": "Urban Knights III",
         "url": "https://open.spotify.com/album/1eFckepvnMBzHnqKaHFOGZ"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 242333,
       "name": "You're The One For Me",
       "url": "https://open.spotify.com/track/6HtsA6ZSbdaLoYswmXfPiM"
+    },
+    {
+      "added_at": "2022-09-15 14:03:22",
+      "album": {
+        "name": "My One And Only One",
+        "url": "https://open.spotify.com/album/4aINB0LIcdX5jTzT55TB5J"
+      },
+      "artists": [
+        {
+          "name": "Jessy J",
+          "url": "https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x"
+        }
+      ],
+      "duration_ms": 217843,
+      "name": "Una Mas",
+      "url": "https://open.spotify.com/track/6XtAWAob4B0USWBsX3teoT"
     },
     {
       "added_at": "2022-09-15 14:03:22",
@@ -627,6 +627,22 @@
     {
       "added_at": "2022-09-15 14:03:22",
       "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/6DnOL6zVqcQh1iJQiH1KhQ"
+      },
+      "artists": [
+        {
+          "name": "Kirk Whalum",
+          "url": "https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1"
+        }
+      ],
+      "duration_ms": 280866,
+      "name": "Lover For Life",
+      "url": "https://open.spotify.com/track/16FwzfpZJii63cnol8sDcA"
+    },
+    {
+      "added_at": "2022-09-15 14:03:22",
+      "album": {
         "name": "Force Field",
         "url": "https://open.spotify.com/album/3jjkcG2HphY52n82XNUsTc"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 304653,
       "name": "Hold On Tight",
       "url": "https://open.spotify.com/track/5qsm0eGh4vPXOOEKNrH6cX"
-    },
-    {
-      "added_at": "2022-09-15 14:03:22",
-      "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/6DnOL6zVqcQh1iJQiH1KhQ"
-      },
-      "artists": [
-        {
-          "name": "Kirk Whalum",
-          "url": "https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1"
-        }
-      ],
-      "duration_ms": 280866,
-      "name": "Lover For Life",
-      "url": "https://open.spotify.com/track/16FwzfpZJii63cnol8sDcA"
     },
     {
       "added_at": "2022-09-15 14:03:22",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2022-09-15 14:03:22",
       "album": {
-        "name": "Bliss",
-        "url": "https://open.spotify.com/album/6HSCZiP4hxorBB2gOIQlxe"
-      },
-      "artists": [
-        {
-          "name": "Cindy Bradley",
-          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
-        }
-      ],
-      "duration_ms": 262666,
-      "name": "Lost and Found",
-      "url": "https://open.spotify.com/track/71cTTSVVkCmbIJ04Kl5jgg"
-    },
-    {
-      "added_at": "2022-09-15 14:03:22",
-      "album": {
         "name": "Another Door Opens",
         "url": "https://open.spotify.com/album/5e8Y5tQ9WMOJBEHOHK6gDh"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 284200,
       "name": "Because of You",
       "url": "https://open.spotify.com/track/1mzBQnUMTUSs4TkpSJjZES"
+    },
+    {
+      "added_at": "2022-09-15 14:03:22",
+      "album": {
+        "name": "Bliss",
+        "url": "https://open.spotify.com/album/6HSCZiP4hxorBB2gOIQlxe"
+      },
+      "artists": [
+        {
+          "name": "Cindy Bradley",
+          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
+        }
+      ],
+      "duration_ms": 262666,
+      "name": "Lost and Found",
+      "url": "https://open.spotify.com/track/71cTTSVVkCmbIJ04Kl5jgg"
     },
     {
       "added_at": "2022-09-15 14:03:22",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2022-09-15 14:03:22",
       "album": {
+        "name": "Euge Groove",
+        "url": "https://open.spotify.com/album/2r10VaddyCNK8eXQOmSNHG"
+      },
+      "artists": [
+        {
+          "name": "Euge Groove",
+          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
+        }
+      ],
+      "duration_ms": 269573,
+      "name": "Vinyl",
+      "url": "https://open.spotify.com/track/2q2kwEh9flpSMwwqpPYCC3"
+    },
+    {
+      "added_at": "2022-09-15 14:03:22",
+      "album": {
         "name": "My Inspiration",
         "url": "https://open.spotify.com/album/1m09qfcyA3T44v7DJq0ibM"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 258398,
       "name": "I Feel You",
       "url": "https://open.spotify.com/track/5yqw56hswQdEZofRcIOUhd"
-    },
-    {
-      "added_at": "2022-09-15 14:03:22",
-      "album": {
-        "name": "Euge Groove",
-        "url": "https://open.spotify.com/album/2r10VaddyCNK8eXQOmSNHG"
-      },
-      "artists": [
-        {
-          "name": "Euge Groove",
-          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
-        }
-      ],
-      "duration_ms": 269573,
-      "name": "Vinyl",
-      "url": "https://open.spotify.com/track/2q2kwEh9flpSMwwqpPYCC3"
     },
     {
       "added_at": "2022-09-15 14:03:22",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2022-09-15 14:03:22",
       "album": {
-        "name": "For Your Pleasure",
-        "url": "https://open.spotify.com/album/0rHJ7WovNY23g8QRKHCUMw"
-      },
-      "artists": [
-        {
-          "name": "Walter Beasley",
-          "url": "https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP"
-        }
-      ],
-      "duration_ms": 301933,
-      "name": "If You New",
-      "url": "https://open.spotify.com/track/4YTjvImG7MPjIOKTPI6P3X"
-    },
-    {
-      "added_at": "2022-09-15 14:03:22",
-      "album": {
         "name": "Pleasure Seeker",
         "url": "https://open.spotify.com/album/3ZoxqvIkwCbRQgnZVxxHzA"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 263373,
       "name": "Caf\u00e9 Del Soul",
       "url": "https://open.spotify.com/track/1tDvUckdBbclTgBCAhUPs7"
+    },
+    {
+      "added_at": "2022-09-15 14:03:22",
+      "album": {
+        "name": "For Your Pleasure",
+        "url": "https://open.spotify.com/album/0rHJ7WovNY23g8QRKHCUMw"
+      },
+      "artists": [
+        {
+          "name": "Walter Beasley",
+          "url": "https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP"
+        }
+      ],
+      "duration_ms": 301933,
+      "name": "If You New",
+      "url": "https://open.spotify.com/track/4YTjvImG7MPjIOKTPI6P3X"
     },
     {
       "added_at": "2022-09-15 14:03:22",
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2022-09-15 14:03:22",
       "album": {
-        "name": "Jumpin' Off",
-        "url": "https://open.spotify.com/album/5wQf2a11tk7gJcx6GKfCt2"
+        "name": "Groove On!",
+        "url": "https://open.spotify.com/album/5vYhpagdFervgTth43gDBp"
       },
       "artists": [
         {
-          "name": "Richard Elliot",
-          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
+          "name": "Euge Groove",
+          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
         }
       ],
-      "duration_ms": 325800,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/5JNqVpVLKBTo5agOdgh5rO"
+      "duration_ms": 304439,
+      "name": "Free Time",
+      "url": "https://open.spotify.com/track/6FBzUSZPGrCfto3xKHXsGg"
     },
     {
       "added_at": "2022-09-15 14:03:22",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2022-09-15 14:03:22",
       "album": {
-        "name": "Groove On!",
-        "url": "https://open.spotify.com/album/5vYhpagdFervgTth43gDBp"
+        "name": "Jumpin' Off",
+        "url": "https://open.spotify.com/album/5wQf2a11tk7gJcx6GKfCt2"
       },
       "artists": [
         {
-          "name": "Euge Groove",
-          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
+          "name": "Richard Elliot",
+          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
         }
       ],
-      "duration_ms": 304439,
-      "name": "Free Time",
-      "url": "https://open.spotify.com/track/6FBzUSZPGrCfto3xKHXsGg"
+      "duration_ms": 325800,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/5JNqVpVLKBTo5agOdgh5rO"
     },
     {
       "added_at": "2022-09-15 14:03:22",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2022-09-15 14:03:22",
       "album": {
-        "name": "Livin' Large",
-        "url": "https://open.spotify.com/album/67YB0aGHisJ89Q8UsT2yMU"
-      },
-      "artists": [
-        {
-          "name": "Euge Groove",
-          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
-        }
-      ],
-      "duration_ms": 328866,
-      "name": "The Gift",
-      "url": "https://open.spotify.com/track/4OEEX2KxWFXOjp8tBf02t6"
-    },
-    {
-      "added_at": "2022-09-15 14:03:22",
-      "album": {
         "name": "Send One Your Love",
         "url": "https://open.spotify.com/album/7g5WWkH9quZp6S3lxDBCV6"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 226173,
       "name": "Touch",
       "url": "https://open.spotify.com/track/09mcJo5V6ZODKYybdYzgaW"
+    },
+    {
+      "added_at": "2022-09-15 14:03:22",
+      "album": {
+        "name": "Livin' Large",
+        "url": "https://open.spotify.com/album/67YB0aGHisJ89Q8UsT2yMU"
+      },
+      "artists": [
+        {
+          "name": "Euge Groove",
+          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
+        }
+      ],
+      "duration_ms": 328866,
+      "name": "The Gift",
+      "url": "https://open.spotify.com/track/4OEEX2KxWFXOjp8tBf02t6"
     },
     {
       "added_at": "2022-09-15 14:03:22",

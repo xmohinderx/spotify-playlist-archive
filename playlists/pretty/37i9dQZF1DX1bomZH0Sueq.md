@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1bomZH0Sueq.md) - [plain]
 
 > Upbeat piano for stepping out
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,730 likes - 200 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,745 likes - 200 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -182,8 +182,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1bomZH0Sueq.md) - [plain]
 | 172 | [Waiting](https://open.spotify.com/track/6bt1Qb3CCzQkXkXu3FzEeX) | [Damien Jeunet](https://open.spotify.com/artist/4PLGZc5uRGoXxjzjVDzlPs) | [Waiting](https://open.spotify.com/album/5z2LHBhaATswQNRQWioTXJ) | 2:44 |
 | 173 | [Westwood](https://open.spotify.com/track/6sfddrMHU0zljVevQLa4dg) | [Peter Bach](https://open.spotify.com/artist/7uOP00uc0fjE4yEFecj0oL) | [Westwood](https://open.spotify.com/album/5G0SwN1Hn8Xz91PcE8UoGy) | 2:42 |
 | 174 | [Silent Rain](https://open.spotify.com/track/3HijOHaUfpWWJNEbU0QsHZ) | [Ava Decker](https://open.spotify.com/artist/0DP3HMpZrLwWXEDUYYxnBu) | [Silent Rain](https://open.spotify.com/album/71ceTov00b4SL0TiqvzIGy) | 2:19 |
-| 175 | [Translucent](https://open.spotify.com/track/4z0BdgK76IDG4x1vxlFhOS) | [Cole Eady](https://open.spotify.com/artist/74GfA6oI6qGYDZshLKidPu) | [Translucent](https://open.spotify.com/album/2pUOZ3ZpCeR9V5GlQoj9CF) | 2:19 |
-| 176 | [Fidelity](https://open.spotify.com/track/71i3ssLhtbdlUIK2fOoqNr) | [Phileas Galle](https://open.spotify.com/artist/7LXOaqA9V8tLPULaZyYO68) | [Fidelity](https://open.spotify.com/album/0NVSJ5RYhkcS30b9VKTsLh) | 2:49 |
+| 175 | [Fidelity](https://open.spotify.com/track/71i3ssLhtbdlUIK2fOoqNr) | [Phileas Galle](https://open.spotify.com/artist/7LXOaqA9V8tLPULaZyYO68) | [Fidelity](https://open.spotify.com/album/0NVSJ5RYhkcS30b9VKTsLh) | 2:49 |
+| 176 | [Translucent](https://open.spotify.com/track/4z0BdgK76IDG4x1vxlFhOS) | [Cole Eady](https://open.spotify.com/artist/74GfA6oI6qGYDZshLKidPu) | [Translucent](https://open.spotify.com/album/2pUOZ3ZpCeR9V5GlQoj9CF) | 2:19 |
 | 177 | [Passing Robes](https://open.spotify.com/track/1pFfGRhwqs1SHblhJcvR8d) | [Gunnel Boek](https://open.spotify.com/artist/1o402msQD5tWRl4y5jnrvI) | [Passing Robes](https://open.spotify.com/album/005XUz22uopTJZFzq4KvJD) | 2:43 |
 | 178 | [Softly](https://open.spotify.com/track/1PW5iY60ZqzBqU5OXpiX4N) | [Frederiq](https://open.spotify.com/artist/4WdIA6FvazMuJOCReHzRN1) | [Softly](https://open.spotify.com/album/7ojzrIb4RuVzcUJilEbKgr) | 2:24 |
 | 179 | [Quiet Cove](https://open.spotify.com/track/5gqstUNfi8kZBSsGDtk4ND) | [Edgar De Vries](https://open.spotify.com/artist/5ccEcnSCa82fIfFgwpVyrD) | [Quiet Cove](https://open.spotify.com/album/5GsMGDSeQKNXLZsujzhCTL) | 3:21 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1bomZH0Sueq.md) - [plain]
 | 199 | [Remembrance](https://open.spotify.com/track/1BCCWdwTZKOsvO8RInNJqX) | [Lucinda Friese](https://open.spotify.com/artist/6YhUWOVu9JXCbtpvkeYGDT) | [Remembrance](https://open.spotify.com/album/7iXEJWNcMTG8h4CEQeFUqQ) | 2:14 |
 | 200 | [L'habit ne fait pas le moine](https://open.spotify.com/track/0XGbTlSbgCWgqL5KuQY2qz) | [Pascal Duval](https://open.spotify.com/artist/3VpKcUweq77xUWClI5oSYl) | [L'habit ne fait pas le moine](https://open.spotify.com/album/0jq8I1nrYieRyPt7tcl0Db) | 3:00 |
 
-Snapshot ID: `MTY2MDAzODgxNiwwMDAwMDAwMGQ1NDg4OGEzYWVhNWI1NDM5ZjA0YWIxZTdjODUwM2Rj`
+Snapshot ID: `MTY2MDAzODgxNiwwMDAwMDAwMDg3YmZjYTJhYmQ5NTNlNGMxMjNlZGMxNTA4NTQxYjMw`

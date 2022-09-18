@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXKWi9FunemC.md) - [plain]
 
 > Sometimes upbeat, sometimes chill, these songs will encourage you and warm your heart and soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,177 likes - 100 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,225 likes - 100 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXKWi9FunemC.md) - [plain]
 | 45 | [I Know Just What You Need](https://open.spotify.com/track/0CBxM0vs1cT1YIw0GNnpuO) | [John Mark Pantana](https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG), [Rebekah Autumn](https://open.spotify.com/artist/20ed7TTssoM14jZNDm7dJJ) | [Love Secrets \(B\-Sides\)](https://open.spotify.com/album/1czXmSklT1QRyz24ZZes6e) | 3:33 |
 | 46 | [Psalm 136 \[Your Mercy Endures\] \[Thomas Merton Mix\] \- feat\. Leslie Jordan\] \[Thomas Merton Mix](https://open.spotify.com/track/685qjYgfMFp0UKvPbDNYoz) | [Greg LaFollette](https://open.spotify.com/artist/0v3ZpML2fBNsLBV4b58QMb), [Leslie Jordan](https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh), [Thomas Merton](https://open.spotify.com/artist/5cbZWpDFL5y0BX6FAYy8LJ) | [Psalm 136 \[Your Mercy Endures\] \[Thomas Merton Mix\] \(feat\. Leslie Jordan\] \[Thomas Merton Mix\)](https://open.spotify.com/album/0pNvG1RHm2oONef2kFbGkw) | 5:00 |
 | 47 | [Avalanche \- Piano Version](https://open.spotify.com/track/5P9944uZjaKP2TzRdtErdd) | [Jared Marc](https://open.spotify.com/artist/4VGrnFhLNsG1ni78qk7ZWM) | [VILLAIN](https://open.spotify.com/album/1WYu7wMRAWA0G3IwqcwFAL) | 4:06 |
-| 48 | [O Rock Eternal](https://open.spotify.com/track/5jESluIHyWKrA6DNA9HuUH) | [Erik Nieder](https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh) | [The Narrow Sea](https://open.spotify.com/album/6sYxNRjg8MYDCdkDT1BfM8) | 5:13 |
-| 49 | [Love Is](https://open.spotify.com/track/08XZufZzE2JDLQj9TEwur3) | [Allan McKinlay](https://open.spotify.com/artist/4zMVfhykoerNdhxVnJauFf) | [Love Is](https://open.spotify.com/album/3EHmC2TzK9W3AnDds89CiX) | 4:42 |
+| 48 | [Love Is](https://open.spotify.com/track/08XZufZzE2JDLQj9TEwur3) | [Allan McKinlay](https://open.spotify.com/artist/4zMVfhykoerNdhxVnJauFf) | [Love Is](https://open.spotify.com/album/3EHmC2TzK9W3AnDds89CiX) | 4:42 |
+| 49 | [O Rock Eternal](https://open.spotify.com/track/5jESluIHyWKrA6DNA9HuUH) | [Erik Nieder](https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh) | [The Narrow Sea](https://open.spotify.com/album/6sYxNRjg8MYDCdkDT1BfM8) | 5:13 |
 | 50 | [If It Wasn’t for the Cross](https://open.spotify.com/track/07zvagUEBLjgBUGRALm963) | [The Lowly Heirs](https://open.spotify.com/artist/5Rut8SvWARj6uzDoajjUbX) | [If It Wasn’t for the Cross](https://open.spotify.com/album/013ERHFnsYzmZz8BdfyiEN) | 4:14 |
 | 51 | [How Can I](https://open.spotify.com/track/3awgBVx3iWd3Y2lxhDzaZv) | [Zan Fiskum](https://open.spotify.com/artist/783YfYdhHkZ7NzyVbl6054) | [How Can I](https://open.spotify.com/album/2tfpzRnVgGRBzbZiydB3jM) | 4:34 |
 | 52 | [Love Together](https://open.spotify.com/track/3KdlHHWEN6aYvZKwjuAzUR) | [Holly Arrowsmith](https://open.spotify.com/artist/3vMKpgD6qgvEqjd7hW3r2X) | [A Dawn I Remember](https://open.spotify.com/album/0Y1GWM8ScBqzrTYLoEgoVH) | 4:14 |
@@ -93,9 +93,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXKWi9FunemC.md) - [plain]
 | 83 | [Up Again \(Acoustic Mix\)](https://open.spotify.com/track/0P7JFcfRbg69vyuVkMIori) | [Dan Bremnes](https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3), [Love & The Outcome](https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs) | [Up Again \(Acoustic Mix\)](https://open.spotify.com/album/6bxngQfzDAqyDJfjD7ynEq) | 3:33 |
 | 84 | [Stained Glass](https://open.spotify.com/track/7nOYaLkMVOOyzk2k1TrObJ) | [John Lucas](https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk) | [Stained Glass](https://open.spotify.com/album/3Noi0cW0w1cMaWP0VCZxJN) | 5:17 |
 | 85 | [Now I See](https://open.spotify.com/track/66SLmhCxmoFG8DUgBFv572) | [The McClures](https://open.spotify.com/artist/5lI2VDVbI989t1YHEFhGyI), [Paul McClure](https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz), [Hannah McClure](https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya) | [Now I See](https://open.spotify.com/album/3ag0IZGy6XuaBQPA4fH3V3) | 4:03 |
-| 86 | [Heavenly Things](https://open.spotify.com/track/5JGZWUlNDO7ArFLmvK7MGD) | [Enter The Worship Circle](https://open.spotify.com/artist/3bMEwmvETOTYS7A53MmWms), [Ben Pasley](https://open.spotify.com/artist/1s3W4h5q7HK0ZqgITQtuBP), [Karla Adolphe](https://open.spotify.com/artist/3lINHrhs0GDu39etcqpMBp) | [Down Here and Up Above \(feat\. Ben Pasley & Karla Adolphe\)](https://open.spotify.com/album/5w3fMNLrbJiBqbUQQNNmdJ) | 4:37 |
-| 87 | [Isn't It Love \- 2014 Version](https://open.spotify.com/track/04Lw9ot3N6m7o4Z02JdwCx) | [Andrew Peterson](https://open.spotify.com/artist/1HYNk3B7EsRPIqAOACgjK1) | [After All These Years: A Collection](https://open.spotify.com/album/1ixYVxV8caqaVDiHrktthj) | 4:39 |
-| 88 | [Meadow](https://open.spotify.com/track/3cUCBZ7sjEtAsTw52gk0hm) | [Jillian Edwards](https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp) | [Meadow](https://open.spotify.com/album/7yi1fVFIgsSkBrhSMAmnAf) | 3:45 |
+| 86 | [Isn't It Love \- 2014 Version](https://open.spotify.com/track/04Lw9ot3N6m7o4Z02JdwCx) | [Andrew Peterson](https://open.spotify.com/artist/1HYNk3B7EsRPIqAOACgjK1) | [After All These Years: A Collection](https://open.spotify.com/album/1ixYVxV8caqaVDiHrktthj) | 4:39 |
+| 87 | [Meadow](https://open.spotify.com/track/3cUCBZ7sjEtAsTw52gk0hm) | [Jillian Edwards](https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp) | [Meadow](https://open.spotify.com/album/7yi1fVFIgsSkBrhSMAmnAf) | 3:45 |
+| 88 | [Heavenly Things](https://open.spotify.com/track/5JGZWUlNDO7ArFLmvK7MGD) | [Enter The Worship Circle](https://open.spotify.com/artist/3bMEwmvETOTYS7A53MmWms), [Ben Pasley](https://open.spotify.com/artist/1s3W4h5q7HK0ZqgITQtuBP), [Karla Adolphe](https://open.spotify.com/artist/3lINHrhs0GDu39etcqpMBp) | [Down Here and Up Above \(feat\. Ben Pasley & Karla Adolphe\)](https://open.spotify.com/album/5w3fMNLrbJiBqbUQQNNmdJ) | 4:37 |
 | 89 | [Shadowfeet](https://open.spotify.com/track/4nvxOpUIhsI9XCSAOkFqpC) | [Brooke Fraser](https://open.spotify.com/artist/1W2FTsCUlviVRhHNjZwWiN) | [Albertine](https://open.spotify.com/album/692STu3cT5sFQbvSO8qd2X) | 3:35 |
 | 90 | [Hanging onto Every Word That You Say](https://open.spotify.com/track/58qzGFYaVi2EHSldZryfVw) | [Michael Hughes Watson](https://open.spotify.com/artist/0VzwcKIcGtWlNa3OW0t1BZ) | [Wait](https://open.spotify.com/album/2cSJZUOuxI6RaevNsWHtN2) | 4:49 |
 | 91 | [Wrong](https://open.spotify.com/track/3V0xcq6HiLRuZZMuFiAAgY) | [Jordan Brown](https://open.spotify.com/artist/1WoLpIruMrKzcV8GUgM9dN) | [Wrong](https://open.spotify.com/album/4MdOCxbtM3GdC7eClrvV85) | 5:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXKWi9FunemC.md) - [plain]
 | 99 | [Old Soul](https://open.spotify.com/track/0oZHCtja9pIACGN5fyZMef) | [Finding Favour](https://open.spotify.com/artist/2LATo3JT7N2EHrUeTrbDOM) | [Old Soul](https://open.spotify.com/album/72vGiZL0HIgpHChUfRLipW) | 3:41 |
 | 100 | [For The Joy Set Before Him](https://open.spotify.com/track/5BtD8FDmGP1XOS7OkPceW1) | [Latifah Makuyi](https://open.spotify.com/artist/4UDfz6xyv6xFkaj2P0ILpz), [Pete YB](https://open.spotify.com/artist/1rKqURNGRPah0QKnAefXyz) | [Eternal Gospel](https://open.spotify.com/album/6aQlH2u5lUVu4uJpRWYZiX) | 4:07 |
 
-Snapshot ID: `MTU5ODg4NzE1OSwwMDAwMDAwMDU3YjFkOTY2ZDkyOTQ4NDgzMDMwMGJmMDBlYjRmZjg5`
+Snapshot ID: `MTU5ODg4NzE1OSwwMDAwMDAwMDZjY2FhNjVhNmVjNjZlMzVmMDY0YTgxNWE2NzdiM2Y4`

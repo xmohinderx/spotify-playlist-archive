@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbB7yFaZiAQX.md) - [plain]
 
 > '80s New Wave, New Romantic and Post\-punk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 848,849 likes - 150 songs - 10 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 849,227 likes - 150 songs - 10 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -155,8 +155,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbB7yFaZiAQX.md) - [plain]
 | 145 | [Winning](https://open.spotify.com/track/7EOCSmPvQ8psymuLTsKfN2) | [The Sound](https://open.spotify.com/artist/4hzCcF4Leos2sKnz79nwhz) | [From The Lion's Mouth](https://open.spotify.com/album/2neFxutkHmjJ8jVAXcXynI) | 4:18 |
 | 146 | [Reward](https://open.spotify.com/track/2vULfNEAOjjRyjj6hs0kBm) | [The Teardrop Explodes](https://open.spotify.com/artist/4AIo9dEYhuS3AtwhhKgA0M) | [Kilimanjaro](https://open.spotify.com/album/6u9JszNMhfmzpwwUr7DHy5) | 2:42 |
 | 147 | [Wishing \(If I Had a Photograph of You\)](https://open.spotify.com/track/2mwdSJZlzXOJqTQ37rpIbv) | [A Flock Of Seagulls](https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt) | [Playlist: The Very Best of A Flock of Seagulls](https://open.spotify.com/album/6cphBfn6beKzazlp3xjftb) | 5:30 |
-| 148 | [Troy](https://open.spotify.com/track/4ZbrvxwWPNX0MgbubsqbZG) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Lion and the Cobra](https://open.spotify.com/album/5dVe3a5ld9uJC4VlpAXoJ6) | 6:31 |
-| 149 | [Nellie the Elephant](https://open.spotify.com/track/00MmJraiM6d7AINTYB5Xid) | [Toy Dolls](https://open.spotify.com/artist/747P2pvOwW22iRcFS9zQDv) | [Dig That Groove Baby](https://open.spotify.com/album/2G4Qadfi3LHuQSaZ60rFCP) | 3:27 |
+| 148 | [Nellie the Elephant](https://open.spotify.com/track/00MmJraiM6d7AINTYB5Xid) | [Toy Dolls](https://open.spotify.com/artist/747P2pvOwW22iRcFS9zQDv) | [Dig That Groove Baby](https://open.spotify.com/album/2G4Qadfi3LHuQSaZ60rFCP) | 3:27 |
+| 149 | [Troy](https://open.spotify.com/track/4ZbrvxwWPNX0MgbubsqbZG) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Lion and the Cobra](https://open.spotify.com/album/5dVe3a5ld9uJC4VlpAXoJ6) | 6:31 |
 | 150 | [Psycho Killer \- Live](https://open.spotify.com/track/2t8GBp5kQEXVamVq4Odwe2) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Stop Making Sense \(Live\)](https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE) | 4:24 |
 
-Snapshot ID: `MTY2MDIxMDI2OCwwMDAwMDAwMGQ5NmZjNTkyZTdhZmMzZDIxZWYxN2FkMzkwZWMxMjQz`
+Snapshot ID: `MTY2MDIxMDI2OCwwMDAwMDAwMDI3OGU5MjkzZTAxOGFlMTM4MmZhNDQ2MmQ1MjM3Yjdj`

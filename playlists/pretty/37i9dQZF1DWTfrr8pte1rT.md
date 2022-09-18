@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfrr8pte1rT.md) - [plain]
 
 > Rock with a Drop  Cover: GG Magree \\m/
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,444 likes - 125 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,631 likes - 125 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,8 +112,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfrr8pte1rT.md) - [plain]
 | 102 | [All In My Head \(feat\. grandson\)](https://open.spotify.com/track/0fgOMdk0vVlIcOlqZtg6cx) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Fantasy](https://open.spotify.com/album/1KrTC1K1M7kMAMDWlH1coX) | 2:28 |
 | 103 | [Throne](https://open.spotify.com/track/5zuypqd222hx8o7vIIXta5) | [Mazare](https://open.spotify.com/artist/4yzZdtb9UicgY2M23eEtL9), [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [Throne](https://open.spotify.com/album/7BkAmE9oQgwNLUXfUejlk0) | 3:40 |
 | 104 | [Flatlined](https://open.spotify.com/track/1jFw2LjM5koaqVYaiA2SPN) | [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [Flatlined](https://open.spotify.com/album/2sK83xEbolOa7q6ZcyOC7W) | 4:51 |
-| 105 | [Raindrops](https://open.spotify.com/track/2s7IP5vJzTJXRZ9vxVAuG5) | [PhaseOne](https://open.spotify.com/artist/0mO3Yf5XIPHfAbHh8yWLFk), [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [Raindrops](https://open.spotify.com/album/0r4obL0cot6rc2XIvcDoBD) | 3:19 |
-| 106 | [I'm Just A Monster Underneath, My Darling](https://open.spotify.com/track/5CkicabyzDs7F7Froa503f) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [I'm Just A Monster Underneath, My Darling](https://open.spotify.com/album/1TILMmAAKEWArxesHlrqOU) | 4:10 |
+| 105 | [I'm Just A Monster Underneath, My Darling](https://open.spotify.com/track/5CkicabyzDs7F7Froa503f) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [I'm Just A Monster Underneath, My Darling](https://open.spotify.com/album/1TILMmAAKEWArxesHlrqOU) | 4:10 |
+| 106 | [Raindrops](https://open.spotify.com/track/2s7IP5vJzTJXRZ9vxVAuG5) | [PhaseOne](https://open.spotify.com/artist/0mO3Yf5XIPHfAbHh8yWLFk), [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [Raindrops](https://open.spotify.com/album/0r4obL0cot6rc2XIvcDoBD) | 3:19 |
 | 107 | [FIMBULVETR](https://open.spotify.com/track/66ScyH02Wf1ntSSnHihDhN) | [YMIR](https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD) | [FIMBULVETR](https://open.spotify.com/album/2xZklOn1SNJBZpWaKvxnmP) | 3:53 |
 | 108 | [Ghostbox](https://open.spotify.com/track/0pasNqXDQBVGUVf131BNsI) | [AWAY](https://open.spotify.com/artist/2ZmerElhvxg8uVKCmlZ4ij), [Crywolf](https://open.spotify.com/artist/33o00sXuyWiApOFzo0vr0z) | [self:antiself](https://open.spotify.com/album/3wEiboxD08w4LBBK9TKm1p) | 4:50 |
 | 109 | [Rain \(Idris Elba Edit\)](https://open.spotify.com/track/7zTnfiIlfE8qUtXp9lSH97) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS) | [Rain \(Idris Elba Edit\)](https://open.spotify.com/album/3WHV6xgHLbBCJ9iDdP7V1W) | 3:28 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfrr8pte1rT.md) - [plain]
 | 124 | [Tear You Apart \(feat\. Aaron Gillespie\)](https://open.spotify.com/track/3p7IU6JT6C0gBs6YXCrLwx) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n), [Aaron Gillespie](https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6) | [Tear You Apart \(feat\. Aaron Gillespie\)](https://open.spotify.com/album/6YkRHSL3FzJR0KRNPMYm2r) | 2:23 |
 | 125 | [Hayloft II \(DNMO Mix\)](https://open.spotify.com/track/72AxgcShVmWv7DMsfy3aIP) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph), [DNMO](https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz) | [Hayloft II \(DNMO Mix\)](https://open.spotify.com/album/2DX9LbScR2BQxtAJ6xOvps) | 3:49 |
 
-Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMDBhMTE5ZGM2NDY4MTM4NTJhMTE2YWQ1ZjA4ZWVlMDM4`
+Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMDRmZTJlNTgwMzI4MzdhMjMxZWY1YTNjZDg3YWY1NzNl`

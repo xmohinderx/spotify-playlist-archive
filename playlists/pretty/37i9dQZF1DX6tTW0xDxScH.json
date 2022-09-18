@@ -1,12 +1,12 @@
 {
   "description": "Where everything is lovely and snuggly <3 ",
-  "num_followers": 597300,
+  "num_followers": 597451,
   "original_name": "Stay in Bed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjE0MzE2OCwwMDAwMDAwMDljNDZkYWE5MjFjZDFhMDFhM2NmZWM4YWQ5NzZmMWU4",
+  "snapshot_id": "MTY2MjE0MzE2OCwwMDAwMDAwMDJjNDdiOWRiNjM1ZTBmYjAxNmJjZTVmMzNjZTgxNmM4",
   "tracks": [
     {
       "added_at": "2022-09-02 18:26:08",
@@ -1311,6 +1311,26 @@
     {
       "added_at": "2022-09-02 18:26:08",
       "album": {
+        "name": "Lotta Love",
+        "url": "https://open.spotify.com/album/5x4bbGHyxTYhEnhXXmN2OE"
+      },
+      "artists": [
+        {
+          "name": "Helado Negro",
+          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
+        },
+        {
+          "name": "Flock of Dimes",
+          "url": "https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP"
+        }
+      ],
+      "duration_ms": 197624,
+      "name": "Lotta Love",
+      "url": "https://open.spotify.com/track/4xPoGj1cAY9v5AGardly8e"
+    },
+    {
+      "added_at": "2022-09-02 18:26:08",
+      "album": {
         "name": "True Love",
         "url": "https://open.spotify.com/album/1rUuIrTj6F1PHo3v9Vlbl6"
       },
@@ -1339,26 +1359,6 @@
       "duration_ms": 271206,
       "name": "Rae Street",
       "url": "https://open.spotify.com/track/4DtQQ82VSTgYfsCBSxvK9k"
-    },
-    {
-      "added_at": "2022-09-02 18:26:08",
-      "album": {
-        "name": "Lotta Love",
-        "url": "https://open.spotify.com/album/5x4bbGHyxTYhEnhXXmN2OE"
-      },
-      "artists": [
-        {
-          "name": "Helado Negro",
-          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
-        },
-        {
-          "name": "Flock of Dimes",
-          "url": "https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP"
-        }
-      ],
-      "duration_ms": 197624,
-      "name": "Lotta Love",
-      "url": "https://open.spotify.com/track/4xPoGj1cAY9v5AGardly8e"
     },
     {
       "added_at": "2022-09-02 18:26:08",

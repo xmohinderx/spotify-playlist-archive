@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Anuel AA
 
-[Spotify](https://open.spotify.com/user/spotify) - 516,489 likes - 62 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 516,753 likes - 62 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 51 | [Victory](https://open.spotify.com/track/1c5m0wnXVgfYsde0Ul0mXl) | [MAR MEJÍA](https://open.spotify.com/artist/2W7MXufoOuXiXjPjjbjEmw) | [Victory](https://open.spotify.com/album/7Mq3Xi7ysLamam0M881uZu) | 3:45 |
 | 52 | [Oficialmente en Soltería](https://open.spotify.com/track/63BZhuQ6OZQmxy2RERMHko) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Oficialmente en Soltería](https://open.spotify.com/album/6PVL1eOWGgrULXTd6diUxe) | 2:02 |
 | 53 | [Perreo](https://open.spotify.com/track/00pzK0N5lKU80Qr9SxswuU) | [Castillo La Cone](https://open.spotify.com/artist/0F40CdkERy7qYPgM8YLGYP), [Jory Boy](https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT) | [Perreo](https://open.spotify.com/album/68I6OQQgy4lIVQJyu47gfJ) | 3:36 |
-| 54 | [Se Vive](https://open.spotify.com/track/7bO8DJ5j5yAB6UUP0j0t1c) | [Darkiel](https://open.spotify.com/artist/4z19QMyPVRwbd4Fs2LisBa), [Ch12](https://open.spotify.com/artist/3gvFr8y3T5ctUErKSK5ivj) | [Se Vive](https://open.spotify.com/album/7DjMB57zSueCKPMLb4uANC) | 2:56 |
+| 54 | [Se Vive](https://open.spotify.com/track/7bO8DJ5j5yAB6UUP0j0t1c) | [Darkiel](https://open.spotify.com/artist/4z19QMyPVRwbd4Fs2LisBa), [Ch12](https://open.spotify.com/artist/3gvFr8y3T5ctUErKSK5ivj), [Dayme y El High](https://open.spotify.com/artist/4JreHVYyb6GqE2BU03Kx96) | [Se Vive](https://open.spotify.com/album/7DjMB57zSueCKPMLb4uANC) | 2:56 |
 | 55 | [Ya Me Contaron](https://open.spotify.com/track/3iXBJFCgER31zBfwyfWnUx) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK), [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV) | [Ya Me Contaron](https://open.spotify.com/album/0WrPTpiIgKioi7arRnTmJB) | 2:38 |
 | 56 | [64](https://open.spotify.com/track/6qwntdVzuBdG3kGC73bcFl) | [Feefa](https://open.spotify.com/artist/52EfcUQ2nkatuNSusz3v7C), [MasFortuna](https://open.spotify.com/artist/5H9UQ0IpJV65ZCfo5oW0ii) | [64](https://open.spotify.com/album/0d2PsgkIufDXYxeqSZ9Baq) | 2:17 |
 | 57 | [Soy el King](https://open.spotify.com/track/7IRRg2KDRB9PkFiD61rVYO) | [Dixson Waz](https://open.spotify.com/artist/0ojgcvasAUtJXXV8ddYQNt), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0), [Mozart La Para](https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl) | [Soy el King](https://open.spotify.com/album/633k2Gf1lvH3dLaXPjEq8F) | 2:00 |

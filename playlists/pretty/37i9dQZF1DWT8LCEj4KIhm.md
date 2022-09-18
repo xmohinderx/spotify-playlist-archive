@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8LCEj4KIhm.md) - [plain]
 
 > Désormais, aucune raison de se faire ch\*\*r au gym.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,036 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,035 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8LCEj4KIhm.md) - [plain]
 | 37 | [White Lies](https://open.spotify.com/track/2UkF0EWfh0T90ScJzGqnD1) | [M\-22](https://open.spotify.com/artist/4WFtYn5RyU8VGPpPyW9Pxw) | [White Lies](https://open.spotify.com/album/0JsabMB0lptwSFeqdBhVB4) | 2:56 |
 | 38 | [Trap \- Rompasso Remix](https://open.spotify.com/track/08pnZCD7bB3voKAA3ShGTw) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Rompasso](https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A) | [Trap \(Rompasso Remix\)](https://open.spotify.com/album/1s7yipr2OiICvvV8YAEMpv) | 2:48 |
 | 39 | [Brother Louie](https://open.spotify.com/track/0fQfopzcRtmYxdK9xFA3Qr) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Dieter Bohlen](https://open.spotify.com/artist/7z56WnIZOTB7LcEt7tg9sx), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Brother Louie](https://open.spotify.com/album/6mGRWR6C2qe3nWOn83iCbb) | 2:52 |
-| 40 | [Oblivion](https://open.spotify.com/track/4sjs502JILjXEv7Xtf1h5q) | [Love Harder](https://open.spotify.com/artist/09JJrjk6Mr5ZYwk1mk7aEb), [Amber Van Day](https://open.spotify.com/artist/6NFRBhq9SmNn1FAiRs9AEf) | [Oblivion](https://open.spotify.com/album/2ndjPY1ikcXxg9ZueXkq2e) | 3:12 |
-| 41 | [Who's Got Your Love](https://open.spotify.com/track/5EpR6BqAnwR9PPl6sIrzGy) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Daniel Blume](https://open.spotify.com/artist/7pbay7w0V7OdIr3jzSRkHj) | [Who's Got Your Love](https://open.spotify.com/album/2ddicfthS1XeBDkhDqnWI3) | 2:37 |
+| 40 | [Who's Got Your Love](https://open.spotify.com/track/5EpR6BqAnwR9PPl6sIrzGy) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Daniel Blume](https://open.spotify.com/artist/7pbay7w0V7OdIr3jzSRkHj) | [Who's Got Your Love](https://open.spotify.com/album/2ddicfthS1XeBDkhDqnWI3) | 2:37 |
+| 41 | [Oblivion](https://open.spotify.com/track/4sjs502JILjXEv7Xtf1h5q) | [Love Harder](https://open.spotify.com/artist/09JJrjk6Mr5ZYwk1mk7aEb), [Amber Van Day](https://open.spotify.com/artist/6NFRBhq9SmNn1FAiRs9AEf) | [Oblivion](https://open.spotify.com/album/2ndjPY1ikcXxg9ZueXkq2e) | 3:12 |
 | 42 | [Aftertaste](https://open.spotify.com/track/6n0rhPWs1KpjnFg3WQRNZn) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Morgan St\. Jean](https://open.spotify.com/artist/4kAyoGhVlC6PFg0FvMqmFB) | [Nights Like This](https://open.spotify.com/album/6bz7aXy1ov5S4Hz46mnjBk) | 3:17 |
 | 43 | [I Need You To Know](https://open.spotify.com/track/3KFei4ncqdevg1vZaAZgIL) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Ifimay](https://open.spotify.com/artist/475ysTPd5Bci0mElQUcYak) | [I Need You To Know](https://open.spotify.com/album/0GszUkmBG6eFyU7sYSmjpt) | 3:00 |
 | 44 | [My Frequency \(feat\. RebMoe\)](https://open.spotify.com/track/4jbWeX5w0Sa5BWBZpq5JU2) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [7 Skies](https://open.spotify.com/artist/2mmqhYDTD0weseyXUf1QJ5), [RebMoe](https://open.spotify.com/artist/1DNFG0VEHD2Vk5ESUEPuOM) | [My Frequency \(feat\. RebMoe\)](https://open.spotify.com/album/2ummn9lAG2z6GwpMurpkUJ) | 2:21 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8LCEj4KIhm.md) - [plain]
 | 74 | [Première ministre](https://open.spotify.com/track/25eiHmARIEqh9yaUQthf0s) | [Laurence Nerbonne](https://open.spotify.com/artist/1fPc13ccCnGx3gdESGBhYQ) | [Première ministre](https://open.spotify.com/album/12ROayPFNHCQowWjJvdr6Q) | 2:45 |
 | 75 | [Comme dans les films](https://open.spotify.com/track/5bxaSSnEhbc8u7diN1jY69) | [Alexe](https://open.spotify.com/artist/25OceRescHJwftJk284v8K) | [Comme dans les films](https://open.spotify.com/album/0pNRPtiKdcXRyHDX8Qizzv) | 3:03 |
 
-Snapshot ID: `MTYzMzY2NTY2MCwwMDAwMDAwMDcwN2NjMjQyYzI2NDc3YjNjZDdjYzk3YWVhYzdhMGQ0`
+Snapshot ID: `MTYzMzY2NTY2MCwwMDAwMDAwMGUwZjA5YTVhZDQ4MTIyMGNhNTJlZWIzZWZhOTdhNjM2`

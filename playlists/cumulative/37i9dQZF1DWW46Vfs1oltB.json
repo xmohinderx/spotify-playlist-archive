@@ -3487,7 +3487,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 207523,
       "name": "Error (Feat. Loopy)",
       "url": "https://open.spotify.com/track/7IRknQOMvsycACYS1fVGex"
@@ -4820,6 +4820,24 @@
     },
     {
       "album": {
+        "name": "Band of Dynamic Brothers",
+        "url": "https://open.spotify.com/album/4Vb6ViMVJhqYaCyV6Y7VU1"
+      },
+      "artists": [
+        {
+          "name": "Dynamicduo",
+          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224893,
+      "name": "Guilty",
+      "url": "https://open.spotify.com/track/0SPZ7y0fJiozsuWLSAocOl"
+    },
+    {
+      "album": {
         "name": "Gundal",
         "url": "https://open.spotify.com/album/5QsAjEHBS3D8FkKjGPPwsS"
       },
@@ -6052,6 +6070,24 @@
     },
     {
       "album": {
+        "name": "Jasmine",
+        "url": "https://open.spotify.com/album/2J4lOWOjWUYBRJoShrhAGk"
+      },
+      "artists": [
+        {
+          "name": "DPR LIVE",
+          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201510,
+      "name": "Jasmine",
+      "url": "https://open.spotify.com/track/2IgbYlOlFpiSFYnsqB39lM"
+    },
+    {
+      "album": {
         "name": "Her",
         "url": "https://open.spotify.com/album/1XtTygUdUqtwPyErnZxLbR"
       },
@@ -6355,7 +6391,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 185946,
       "name": "KAZINO",
       "url": "https://open.spotify.com/track/245onUPHGD1DYuiacxTuW0"
@@ -7459,6 +7495,24 @@
       "duration_ms": 231413,
       "name": "Meeting is easy, parting is hard (Feat. Leellamarz) (Prod. TOIL)",
       "url": "https://open.spotify.com/track/1GFS1xMbcAWXf5W0tSuZev"
+    },
+    {
+      "album": {
+        "name": "ISLAND",
+        "url": "https://open.spotify.com/album/5FyZZQnOzCUzAMWmeWbQhO"
+      },
+      "artists": [
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180423,
+      "name": "MELODY",
+      "url": "https://open.spotify.com/track/6JeleVHUHrdvgiFESE33ZU"
     },
     {
       "album": {
@@ -10367,6 +10421,32 @@
       "duration_ms": 230066,
       "name": "Rosario",
       "url": "https://open.spotify.com/track/31LHplV8BL8F0Uu9YbvTAY"
+    },
+    {
+      "album": {
+        "name": "Epik High Is Here \u4e0a (Part 1)",
+        "url": "https://open.spotify.com/album/5MH95tw9aZo7ayqkfsRzMu"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "CL",
+          "url": "https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3"
+        },
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230066,
+      "name": "Rosario (Feat. CL, ZICO)",
+      "url": "https://open.spotify.com/track/0OWBz5FCeATA2zhHgAk7Uh"
     },
     {
       "album": {
@@ -13329,6 +13409,32 @@
       "duration_ms": 204986,
       "name": "Work Hard",
       "url": "https://open.spotify.com/track/4DSwdZO1sw3etkTI8moYqc"
+    },
+    {
+      "album": {
+        "name": "Worldwide",
+        "url": "https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Dok2",
+          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
+        },
+        {
+          "name": "The Quiett",
+          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362314,
+      "name": "WORLDWIDE",
+      "url": "https://open.spotify.com/track/7vjHsRjCtkyzGkzFnZk2eY"
     },
     {
       "album": {

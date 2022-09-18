@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatMjChPKgBk.md) - [plain]
 
 > Great food, good company and some soft music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 664,194 likes - 250 songs - 15 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 664,371 likes - 250 songs - 15 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -221,9 +221,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatMjChPKgBk.md) - [plain]
 | 211 | [Rest of Our Lives](https://open.spotify.com/track/4cyAExtJSCr01jJiQ8Luw0) | [The Light the Heat](https://open.spotify.com/artist/17EpO9pUubOAhnTopBgQYR) | [Wide Awake](https://open.spotify.com/album/1xxbUuZJN4BGfZDWiRcStm) | 2:54 |
 | 212 | [Almaz](https://open.spotify.com/track/5iXdDUmuxBVQwECctRzn5z) | [Randy Crawford](https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz) | [Every Kind Of Mood \(Randy, Randi, Randee\)](https://open.spotify.com/album/7k8alrD5roRXfp507P1u0X) | 4:30 |
 | 213 | [Colors](https://open.spotify.com/track/72usYeVMCh8uc3h2Z5K3JF) | [Cocoon](https://open.spotify.com/artist/15h5B5quwDm2C1rhbtvUPD) | [Wood Fire](https://open.spotify.com/album/1fYNhQcBUClkEmqnuF9ant) | 3:07 |
-| 214 | [Spoiled](https://open.spotify.com/track/08ydcS9NTm1a2csSppGsJT) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Mind Body & Soul](https://open.spotify.com/album/6O0QKBENHPmifQwLZZGnqM) | 4:03 |
-| 215 | [Unspoken](https://open.spotify.com/track/66MxyiQy54baNhSyg3wiIn) | [Aaron Smith](https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl) | [Unspoken](https://open.spotify.com/album/7kRUXMREmvFYqvh5IEZvmt) | 3:30 |
-| 216 | [Where the Heart Is](https://open.spotify.com/track/2cUQTQkvnpObuwX8VJEq9w) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Eyes Closed](https://open.spotify.com/album/75oiBuTpJDC9XGUWwpSSbi) | 3:53 |
+| 214 | [Where the Heart Is](https://open.spotify.com/track/2cUQTQkvnpObuwX8VJEq9w) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Eyes Closed](https://open.spotify.com/album/75oiBuTpJDC9XGUWwpSSbi) | 3:53 |
+| 215 | [Spoiled](https://open.spotify.com/track/08ydcS9NTm1a2csSppGsJT) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Mind Body & Soul](https://open.spotify.com/album/6O0QKBENHPmifQwLZZGnqM) | 4:03 |
+| 216 | [Unspoken](https://open.spotify.com/track/66MxyiQy54baNhSyg3wiIn) | [Aaron Smith](https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl) | [Unspoken](https://open.spotify.com/album/7kRUXMREmvFYqvh5IEZvmt) | 3:30 |
 | 217 | [Your Heart Is As Black As Night](https://open.spotify.com/track/1EUj3EeDYX5yldkBXkNDJP) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [My One And Only Thrill](https://open.spotify.com/album/0y5shamyoRauoNkHfUUmlA) | 2:42 |
 | 218 | [Sweet Baby](https://open.spotify.com/track/5ZHjjyuxyAy93zs0XvVUcv) | [Bothnia](https://open.spotify.com/artist/6I1IQQD3XEEL7kiV2tYJv5), [Cody Francis](https://open.spotify.com/artist/1RKbW3DVPPhWHNfParfJ32) | [Sweet Baby](https://open.spotify.com/album/2NnrecYBvlBXG1DLpSPorn) | 3:04 |
 | 219 | [You Might Need Somebody](https://open.spotify.com/track/24IFYP3J99HK3aB6xG5jtP) | [Shola Ama](https://open.spotify.com/artist/1XCorAp4vtEceWjPgyiiw6) | [Much Love](https://open.spotify.com/album/6DhCo5DZPHqFAW8QoapQPz) | 4:51 |
@@ -231,9 +231,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatMjChPKgBk.md) - [plain]
 | 221 | [Heart's on Fire](https://open.spotify.com/track/4oAu3hSqE2EpboB74jTZKr) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Whispers \(Deluxe\)](https://open.spotify.com/album/6hEJyyBGeuKvITh19MfC0n) | 4:13 |
 | 222 | [Avalon](https://open.spotify.com/track/61y28QdZIXzVtNIs3xZuaT) | [Roxy Music](https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo) | [More Than This \- The Best Of Bryan Ferry And Roxy Music](https://open.spotify.com/album/7MCxE9Sx4zHSXL4xXHm4Im) | 4:16 |
 | 223 | [Squeeze Me](https://open.spotify.com/track/5kyfBYQcu5Swr0i80s8zLJ) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Only Trust Your Heart](https://open.spotify.com/album/3ZocvPcE7EGyv9EEP95YeC) | 5:37 |
-| 224 | [The Last Waltz Suite: The Weight \(feat\. The Staples\)](https://open.spotify.com/track/3TKOJWYOMrp98OB19y1A0n) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA), [The Staple Singers](https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC) | [The Last Waltz \(Deluxe Version\)](https://open.spotify.com/album/7uqVE9qWdqjtDeLpdHyMxP) | 4:35 |
-| 225 | [What A Day](https://open.spotify.com/track/2cnuiYBSniFCbnVBw2vVXH) | [Crying Day Care Choir](https://open.spotify.com/artist/2wA059Agr6FoUUJTD23KLl) | [What A Day](https://open.spotify.com/album/66qrZ13E9AatdoK9DIVO5v) | 3:09 |
-| 226 | [Feels Like Home](https://open.spotify.com/track/5z389dy6N80WE9rSkfwDn0) | [Grace Kelly](https://open.spotify.com/artist/7bcjgJLky9kVQ4GcrQTibn), [Elliott Skinner](https://open.spotify.com/artist/0wccm4Qe9ErYas4CRed0yJ) | [Feels Like Home](https://open.spotify.com/album/42JXJ942JEQSRjvIj1NYFA) | 4:27 |
+| 224 | [Feels Like Home](https://open.spotify.com/track/5z389dy6N80WE9rSkfwDn0) | [Grace Kelly](https://open.spotify.com/artist/7bcjgJLky9kVQ4GcrQTibn), [Elliott Skinner](https://open.spotify.com/artist/0wccm4Qe9ErYas4CRed0yJ) | [Feels Like Home](https://open.spotify.com/album/42JXJ942JEQSRjvIj1NYFA) | 4:27 |
+| 225 | [The Last Waltz Suite: The Weight \(feat\. The Staples\)](https://open.spotify.com/track/3TKOJWYOMrp98OB19y1A0n) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA), [The Staple Singers](https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC) | [The Last Waltz \(Deluxe Version\)](https://open.spotify.com/album/7uqVE9qWdqjtDeLpdHyMxP) | 4:35 |
+| 226 | [What A Day](https://open.spotify.com/track/2cnuiYBSniFCbnVBw2vVXH) | [Crying Day Care Choir](https://open.spotify.com/artist/2wA059Agr6FoUUJTD23KLl) | [What A Day](https://open.spotify.com/album/66qrZ13E9AatdoK9DIVO5v) | 3:09 |
 | 227 | [Until The Hurting Is Gone](https://open.spotify.com/track/3GeBvpzVmiqbKIAJZoffVc) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [1975](https://open.spotify.com/album/0rhChR1mcH1LVUCTm1JtHZ) | 3:17 |
 | 228 | [Waiting Is A Waste](https://open.spotify.com/track/23lw0TWJHsenU54gom8xbC) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Waiting Is A Waste](https://open.spotify.com/album/50MP1DO66qTGSYkcGsUKBY) | 2:57 |
 | 229 | [Sweet Dream](https://open.spotify.com/track/7JRJOLKHz88pR0YS4pVCao) | [Greg Laswell](https://open.spotify.com/artist/2Mf99N2VcDEcVuocyBLhyC) | [Three Flights From Alto Nido](https://open.spotify.com/album/0ntXTGF1tGttAv0Tr077DH) | 1:07 |
@@ -257,6 +257,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatMjChPKgBk.md) - [plain]
 | 247 | [Tear Me Down](https://open.spotify.com/track/2DPR5R6cFXS9gwo9u5cbZ1) | [Paul Rey](https://open.spotify.com/artist/5FjiYgLczmrP2j1gijAGWp) | [Note To Self](https://open.spotify.com/album/5ZYeRCZRIXCLK58nbL5Fsl) | 2:57 |
 | 248 | [Lost](https://open.spotify.com/track/1hiheFL9zaexJXxhQ4cAZA) | [Noak Hellsing](https://open.spotify.com/artist/47WlUGFrUj1hDhjzX1l6nc) | [Lost](https://open.spotify.com/album/3GeI3Jh2eRhwBnFOkFYUdO) | 2:49 |
 | 249 | [Isn't It Romantic](https://open.spotify.com/track/56lnXV8vtaIBVIYUQtlv42) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Stardust...The Great American Songbook III](https://open.spotify.com/album/7Eq9kjeFYGjUAlEgDrAiOU) | 3:50 |
-| 250 | [Sailor's Heart](https://open.spotify.com/track/2PvZNsVhnHvhXQG2SAYDTp) | [Zyke](https://open.spotify.com/artist/7AjlqcvPUY0YNKTkhtzVeF) | [Sailor's Heart](https://open.spotify.com/album/0onhz96ZjCqSainuMn8456) | 3:03 |
+| 250 | [Heaven Knows, Right?](https://open.spotify.com/track/4XJES8gXvP1HrkAfXWa97O) | [Benjamin Gustafsson](https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl) | [Dear Earth, I’m Lost](https://open.spotify.com/album/2FivUBt8rP3epBzyDhtoqE) | 4:20 |
 
-Snapshot ID: `MTY2MzMyOTYwMCwwMDAwMDAwMGNmNzUzZjE3YzczMWNmZjZlY2Q1ZTdkNmQ1ZTliNGMy`
+Snapshot ID: `MTY2MzMyOTYwMCwwMDAwMDAwMDgxZTY0ZDI3ZjUzMGY3OTQ2YmMxNjNlYWU1Yzc5Yzc4`

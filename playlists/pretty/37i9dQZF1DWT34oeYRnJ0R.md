@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 
 > Just vibes\. Cover: paopao
 
-[Spotify](https://open.spotify.com/user/spotify) - 696,443 likes - 80 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 696,431 likes - 80 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 | 48 | [oop](https://open.spotify.com/track/0ahGF0pnErz122RjmZGVjY) | [VALÉ](https://open.spotify.com/artist/3iyja6ErhSJ4NplEsdlzyE), [Kat Dahlia](https://open.spotify.com/artist/1peH5tSqnYm8W6Bo3I5egE) | [oop](https://open.spotify.com/album/2xqXrnqSVDylcr5QVKyHq4) | 2:22 |
 | 49 | [Para Verte](https://open.spotify.com/track/4aiIi5Nn7EdDhoiw5DywDk) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Para Verte](https://open.spotify.com/album/43b9yizo1mckUfWgItr7nk) | 3:02 |
 | 50 | [if you let me](https://open.spotify.com/track/0R7XVSEzG89NLlwxhiNTPL) | [riela](https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A) | [if you let me](https://open.spotify.com/album/79LzULw2zrLg3KllgzkCOK) | 2:40 |
-| 51 | [Quítame](https://open.spotify.com/track/2XsgggjzR8FnjROqMcLuCa) | [Michi](https://open.spotify.com/artist/3Wpco0QNxrTY1Gnqo06J6P) | [Quítame](https://open.spotify.com/album/4t4yVRlJv2ontF1Ec0pGw8) | 2:43 |
-| 52 | [Tu Castigo](https://open.spotify.com/track/5ZhNFzInNjdqmdIglUpidB) | [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [Normal](https://open.spotify.com/album/5Qkxw86wtQYlK2dEjTJcSP) | 3:47 |
+| 51 | [Tu Castigo](https://open.spotify.com/track/5ZhNFzInNjdqmdIglUpidB) | [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [Normal](https://open.spotify.com/album/5Qkxw86wtQYlK2dEjTJcSP) | 3:47 |
+| 52 | [Quítame](https://open.spotify.com/track/2XsgggjzR8FnjROqMcLuCa) | [Michi](https://open.spotify.com/artist/3Wpco0QNxrTY1Gnqo06J6P) | [Quítame](https://open.spotify.com/album/4t4yVRlJv2ontF1Ec0pGw8) | 2:43 |
 | 53 | [Nobody Like Me](https://open.spotify.com/track/6V1LNio3PtaoiePzCAJF9t) | [A.CHAL](https://open.spotify.com/artist/0pkwrPVI8UyXtPkavyJoZ4) | [Nobody Like Me](https://open.spotify.com/album/5yNTTe5Y9eyjEdNLKY2TPL) | 3:06 |
 | 54 | [Úsame](https://open.spotify.com/track/4HDa866zFSzwOkEhgNHx6F) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Úsame](https://open.spotify.com/album/4ASrjbSq9D0CuHkAHsAhNc) | 3:23 |
 | 55 | [Na Pa Ti \(feat\. Kofi\)](https://open.spotify.com/track/0BdFIT81iB6Irf3XjiBUjk) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG), [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld) | [Na Pa Ti \(feat\. Kofi\)](https://open.spotify.com/album/3UefdYQA4lzyOOZ8SHFSyr) | 2:53 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 | 79 | [yourplace](https://open.spotify.com/track/3zahH6mfmPZz4q038rk3Hu) | [riela](https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A) | [tranquila y tropical](https://open.spotify.com/album/24SzPSINiQWmIu84VfkC5a) | 2:29 |
 | 80 | [LULLABY](https://open.spotify.com/track/1yXYxa3O00Gcxy6XqGRhpE) | [COASTCITY](https://open.spotify.com/artist/3U6AuiLSmMwlxgEDGZz9xj) | [Wild Americanos](https://open.spotify.com/album/7vkUNL3WH7fg4PwqQlM0fJ) | 3:44 |
 
-Snapshot ID: `MTY2MjQ5NTQ3NywwMDAwMDAwMDM4NGEzZDgxNzExZDU4MDU1YzUwN2ZjN2Y3NzQzYmRk`
+Snapshot ID: `MTY2MjQ5NTQ3NywwMDAwMDAwMDA0MmQwMDMzMDNlY2MxM2I1NjdlYWYwMWI4ZTkwOTI2`

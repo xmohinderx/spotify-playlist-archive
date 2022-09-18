@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 
 > Get into the mood with beautiful collections of Jazz Pop tunes\. Cover: Michael Bublé
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,892 likes - 150 songs - 9 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,989 likes - 150 songs - 9 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -138,9 +138,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 | 128 | [Humphrey and me](https://open.spotify.com/track/4XhWfCz8BTkVJSMKigd9Yj) | [Claes Janson](https://open.spotify.com/artist/0E2Jf1UHMqdQDdH12mc712) | [Humphrey and Me](https://open.spotify.com/album/6l7bnqZr0KQ5y5P4T17rmL) | 4:27 |
 | 129 | [Enough to Be on Your Way](https://open.spotify.com/track/32KeeUAyi8rUDL5f9Lq36P) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Enough to Be on Your Way](https://open.spotify.com/album/1nwhebL6RxGLSP2PFbRqs3) | 5:18 |
 | 130 | [I Love You](https://open.spotify.com/track/0F5TXI0TbKGRyAI5D0RYJF) | [Sachal Vasandani](https://open.spotify.com/artist/4sctitB70tTmziCPMwYJJr), [Romain Collin](https://open.spotify.com/artist/3TLGhZ93eWc4caAzMiMWJV) | [I Love You](https://open.spotify.com/album/4XSKCBsJw2D2fd3v6Agoc8) | 4:15 |
-| 131 | [Snowflakes](https://open.spotify.com/track/3Hbylm12DZXnOJQBdBkOaf) | [Jorunn Westeraas](https://open.spotify.com/artist/6h4qPRsCLMPKVrW7nbLn18), [Hege Saugstad](https://open.spotify.com/artist/5qsnbEMK2eQMFSAyP6BsNT), [Monika Gellein Mathisen](https://open.spotify.com/artist/4ItYdjOC69BL5Y6yETcTym) | [Snowflakes](https://open.spotify.com/album/7M6CJaL7NXBG7EWRnsizuI) | 3:44 |
-| 132 | [Outline](https://open.spotify.com/track/15lJRmiVd7aIJtozQJg5Ld) | [Ria Moran](https://open.spotify.com/artist/7sqPt1JYIkHzs8xIizhyXn) | [Outline](https://open.spotify.com/album/2Pv1n3XbbTonM300ulb4cZ) | 3:13 |
-| 133 | [Best Time Of The Year](https://open.spotify.com/track/3hM4XcR3YV4YvF77FhqYXW) | [John Mark Pantana](https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG), [Budbud](https://open.spotify.com/artist/6nuMsxPeVPwxtuApXX53zF) | [Best Time Of The Year](https://open.spotify.com/album/1t9PkXJNNyLWCMUtE7fIgq) | 3:09 |
+| 131 | [Outline](https://open.spotify.com/track/15lJRmiVd7aIJtozQJg5Ld) | [Ria Moran](https://open.spotify.com/artist/7sqPt1JYIkHzs8xIizhyXn) | [Outline](https://open.spotify.com/album/2Pv1n3XbbTonM300ulb4cZ) | 3:13 |
+| 132 | [Best Time Of The Year](https://open.spotify.com/track/3hM4XcR3YV4YvF77FhqYXW) | [John Mark Pantana](https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG), [Budbud](https://open.spotify.com/artist/6nuMsxPeVPwxtuApXX53zF) | [Best Time Of The Year](https://open.spotify.com/album/1t9PkXJNNyLWCMUtE7fIgq) | 3:09 |
+| 133 | [Snowflakes](https://open.spotify.com/track/3Hbylm12DZXnOJQBdBkOaf) | [Jorunn Westeraas](https://open.spotify.com/artist/6h4qPRsCLMPKVrW7nbLn18), [Hege Saugstad](https://open.spotify.com/artist/5qsnbEMK2eQMFSAyP6BsNT), [Monika Gellein Mathisen](https://open.spotify.com/artist/4ItYdjOC69BL5Y6yETcTym) | [Snowflakes](https://open.spotify.com/album/7M6CJaL7NXBG7EWRnsizuI) | 3:44 |
 | 134 | [Your Hands](https://open.spotify.com/track/0wPGEY8OnnC8VXXAqitxVc) | [Karen Rosenberg](https://open.spotify.com/artist/7oJ7DWbjYx4lzl9ysPfQ77) | [Same Soul](https://open.spotify.com/album/2jHSlpoC38GtuXY3xwLRng) | 4:53 |
 | 135 | [Love is Easy](https://open.spotify.com/track/6jDuNVLVqJ3MQREMcqVuOI) | [Emma Nabarro\-Steel](https://open.spotify.com/artist/5FpFEkqGfW3o1aiGZ3Fo0q) | [Softly Loudly](https://open.spotify.com/album/6o1RyiUTwXsjy4m538872B) | 3:55 |
 | 136 | [Benevolent Man](https://open.spotify.com/track/4APZ4IrqGZMMNjVrkIJJxM) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [Alone With My Faith](https://open.spotify.com/album/7gMSKwzQlQMV55DTf2mYbU) | 3:42 |
@@ -154,9 +154,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 | 144 | [Sleepy Time](https://open.spotify.com/track/0ZPGsmxhoJ04ZpTYc8AsPr) | [Imajjine](https://open.spotify.com/artist/2VU83NBXbWqEuBZVI52YtL) | [Sleepy Time](https://open.spotify.com/album/2lEpDZQZa6jFb016hgwasV) | 2:38 |
 | 145 | [A Bridge](https://open.spotify.com/track/4PGyTgWYuHcMWhJBT7Rulv) | [TICO DE MORAES](https://open.spotify.com/artist/4B4UjhXvu9OoY3D1Tq3m05), [Alexander Raichenok](https://open.spotify.com/artist/0gx7dOa0Yy1vWQ1XQL6ky6) | [A Bridge](https://open.spotify.com/album/6wFwaP0tCpw8N8PPYFEQIZ) | 4:03 |
 | 146 | [Fly Again](https://open.spotify.com/track/6Z5aIVVWy31Wjm0GPoyoWT) | [Tom Petrone](https://open.spotify.com/artist/76Y7Pfxut1SGgIEF4RWDsb) | [Fly Again](https://open.spotify.com/album/0TqXtMckPVwNzBkxExOJyk) | 3:21 |
-| 147 | [Can't Fight Love](https://open.spotify.com/track/2ffjgH34upcSYa0dKnCxvW) | [Marifé](https://open.spotify.com/artist/1NN1tNV02Nxhcw2c5YNj2X) | [Can't Fight Love](https://open.spotify.com/album/5sA7cYMhDl7Xqx8fPmHpZV) | 4:16 |
-| 148 | [Heaven's King](https://open.spotify.com/track/1GGuMQPqHVoalqP8uMHRmX) | [Imprint Worship](https://open.spotify.com/artist/2160ezPQKriZfU5FrHrJdV) | [Heaven's King](https://open.spotify.com/album/5XY9ss7WjGTbJ4ZgtzmReQ) | 3:35 |
+| 147 | [Heaven's King](https://open.spotify.com/track/1GGuMQPqHVoalqP8uMHRmX) | [Imprint Worship](https://open.spotify.com/artist/2160ezPQKriZfU5FrHrJdV) | [Heaven's King](https://open.spotify.com/album/5XY9ss7WjGTbJ4ZgtzmReQ) | 3:35 |
+| 148 | [Can't Fight Love](https://open.spotify.com/track/2ffjgH34upcSYa0dKnCxvW) | [Marifé](https://open.spotify.com/artist/1NN1tNV02Nxhcw2c5YNj2X) | [Can't Fight Love](https://open.spotify.com/album/5sA7cYMhDl7Xqx8fPmHpZV) | 4:16 |
 | 149 | [Follow](https://open.spotify.com/track/17BdO3lx1ovJHyELPJxIYa) | [Ragnar H](https://open.spotify.com/artist/7cU7WCvR7gGHnxaNx7unOT) | [Follow](https://open.spotify.com/album/0qcy7sm9UaA9qKFSOHVlvD) | 3:52 |
 | 150 | [My Ship](https://open.spotify.com/track/3uKgdKIJk3CYRmosGaEkMY) | [Jamison Ross](https://open.spotify.com/artist/7cWhEUzLtzKg5FH2JJItyK) | [All For One](https://open.spotify.com/album/6aPzahQdxU6Y2jcmdbb415) | 4:42 |
 
-Snapshot ID: `MTY2MzA2OTI5MSwwMDAwMDAwMDQxOGRiZGI2NTY5MzRjMmNhZjlmODAwYThjZDk0MTM0`
+Snapshot ID: `MTY2MzA2OTI5MSwwMDAwMDAwMDJiZjQ5Zjk0NDdkMmQ2MmM2ZWRhNTBiNzBhNDIxZDlm`

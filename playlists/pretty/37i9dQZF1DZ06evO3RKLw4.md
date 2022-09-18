@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RKLw4.md) - [plain]
 
 > This is Rancid\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,875 likes - 50 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,895 likes - 50 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RKLw4.md) - [plain]
 | 45 | [Young Al Capone](https://open.spotify.com/track/4oGvryWnZ0Q3ZG2Cb6cOfx) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Rancid \(5\)](https://open.spotify.com/album/0mAo7j2DjyboBbRC7mG2uw) | 1:52 |
 | 46 | [Detroit](https://open.spotify.com/track/06yrcI03mmIh5bNtGMn2k5) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Rancid](https://open.spotify.com/album/0ELny42cJ5M3cjHAVeLVdr) | 2:24 |
 | 47 | [East Bay Night](https://open.spotify.com/track/6WVak6Y3Fyts2tYsNMujru) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Let The Dominoes Fall \(Expanded Version\)](https://open.spotify.com/album/3YKr1OXFNxd2hWu106Ty93) | 2:05 |
-| 48 | [An Intimate Close Up Of A Street Punk Trouble Maker](https://open.spotify.com/track/7IejBxjTUvI6A1Kprlxqfz) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Trouble Maker \(Deluxe Edition\)](https://open.spotify.com/album/0IJ8KmhJausnsCjUvgM5vY) | 2:34 |
+| 48 | [Ghost of a Chance](https://open.spotify.com/track/37aAKOsaDmLmJBGqnO1tfr) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Trouble Maker \(Deluxe Edition\)](https://open.spotify.com/album/0IJ8KmhJausnsCjUvgM5vY) | 1:36 |
 | 49 | [Antennas](https://open.spotify.com/track/6vYgCVhPyr6cSzyROqf8fd) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Rancid \(5\)](https://open.spotify.com/album/0mAo7j2DjyboBbRC7mG2uw) | 1:10 |
 | 50 | [Outta My Mind](https://open.spotify.com/track/4m6v9P3ZolPYizuYmYo3ym) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Rancid](https://open.spotify.com/album/0ELny42cJ5M3cjHAVeLVdr) | 2:22 |
 
-Snapshot ID: `Mjc3MjIyMzMsMDAwMDAwMDBkY2MzZmFmNGExNDYzYzA1M2JhZDFiYTNjMTU1ZTJkYQ==`
+Snapshot ID: `Mjc3MjM2OTIsMDAwMDAwMDA4ODdlZjlhMWNiOTRhNzQzMWY1ZmIxODJhZDJlMTI5ZQ==`

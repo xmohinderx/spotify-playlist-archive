@@ -4,7 +4,7 @@
 
 > استمع لافضل الأغاني العراقية! الغلاف: رحمة رياض
 
-76 songs - 4 hr 45 min - [published](https://open.spotify.com/playlist/6qCoMQiIkaLI2EbjrFZXmX)
+77 songs - 4 hr 50 min - [published](https://open.spotify.com/playlist/6qCoMQiIkaLI2EbjrFZXmX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [الكوكب](https://open.spotify.com/track/2xzL1ELxftoTGXS1LFQv2P) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [الكوكب](https://open.spotify.com/album/6hJTJtENy8pROIGgVT6NQk) | 3:58 | 2022-05-06 |  |
 | [دزلي عطرك 2](https://open.spotify.com/track/6qxY9lXVAqF4jbuabbZLo8) | [Sultan Al Omani](https://open.spotify.com/artist/7praP1ShHWgWbgDR5Kmx2P), [Mustafa Ibrahim](https://open.spotify.com/artist/6JMRT8mRLG6LwEGKQ4trhS) | [دزلي عطرك 2](https://open.spotify.com/album/1IAkMeL7P7TUFvEs4aHl38) | 2:04 | 2022-05-06 | 2022-06-17 |
 | [ماتت بعدكم روح](https://open.spotify.com/track/5mVsxtQWsDZvA2kxmqd9EB) | [Nour Al Zain](https://open.spotify.com/artist/3zjyoiXHu5SgwtRHU7GcMH) | [ماتت بعدكم روح](https://open.spotify.com/album/7HjApDZg39EjEZN5IWxFDy) | 4:36 | 2022-05-06 |  |
-| [يما الحب](https://open.spotify.com/track/3aXByu4Art7dq12mZxB2RK) | [فرقة تكات](https://open.spotify.com/artist/3bMzXWVBnWOG7PxLRWy19X) | [يما الحب](https://open.spotify.com/album/7FSEVwrfLKelL18sRCsxxe) | 5:17 | 2022-05-06 |  |
+| [يما الحب](https://open.spotify.com/track/3aXByu4Art7dq12mZxB2RK) | [فرقة تكات](https://open.spotify.com/artist/3bMzXWVBnWOG7PxLRWy19X) | [يما الحب](https://open.spotify.com/album/7FSEVwrfLKelL18sRCsxxe) | 5:17 | 2022-05-06 | 2022-09-18 |
+| [يما الحب](https://open.spotify.com/track/7zputQxG3bFaAuImb2575d) | [فرقة تكات](https://open.spotify.com/artist/3bMzXWVBnWOG7PxLRWy19X) | [يما الحب](https://open.spotify.com/album/7s1sSgFNtXuZeTWMpLF0fS) | 5:17 | 2022-08-26 |  |
 
 \*This playlist was first scraped on 2022-05-13. Prior content cannot be recovered.

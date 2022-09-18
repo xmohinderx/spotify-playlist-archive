@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 
 > Blissful indie for dreamers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,833 likes - 80 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,055 likes - 80 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 | 42 | [How Can I Love? \(When I Can't Get Away From You\)](https://open.spotify.com/track/4g0ElvVfW24EHPdfWo2I8w) | [fika](https://open.spotify.com/artist/4nJPiUgLhO1HcK13jBkAqX), [Bambie](https://open.spotify.com/artist/2K2zheLCDXiIK9j83oWNxv) | [How Can I Love? \(When I Can't Get Away From You\)](https://open.spotify.com/album/6ya53tyYpsLogdzeCJdTsL) | 2:59 |
 | 43 | [For You](https://open.spotify.com/track/7FX5YbkSnFCOLASH7MLxjU) | [Willie J Healey](https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR) | [Twin Heavy](https://open.spotify.com/album/2V2EG8yoXMSWuhJgym3l1V) | 3:47 |
 | 44 | [summer bruises](https://open.spotify.com/track/2fjE9A6haImVXETd1B4PDs) | [april june](https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG) | [summer bruises](https://open.spotify.com/album/7lVNLphRN8jo69BM5UmjQI) | 2:54 |
-| 45 | [Earth to Jay](https://open.spotify.com/track/1iWYgk1B62lSeNCocRAMVm) | [Jay Arner](https://open.spotify.com/artist/6crQDsQSmr4hlmhb9nkGQ4) | [Jay II](https://open.spotify.com/album/3POZPNpTVD49agqnSXpXes) | 4:00 |
-| 46 | [Space Between Us](https://open.spotify.com/track/0RuQddbj6LGbMq1CzzPgGj) | [VHS Collection](https://open.spotify.com/artist/2Nvaq4y2ygxIqfwXyz0HeH) | [Space Between Us](https://open.spotify.com/album/6ZoG8UIgbpue4NGJ3x9VS8) | 3:59 |
+| 45 | [Space Between Us](https://open.spotify.com/track/0RuQddbj6LGbMq1CzzPgGj) | [VHS Collection](https://open.spotify.com/artist/2Nvaq4y2ygxIqfwXyz0HeH) | [Space Between Us](https://open.spotify.com/album/6ZoG8UIgbpue4NGJ3x9VS8) | 3:59 |
+| 46 | [Earth to Jay](https://open.spotify.com/track/1iWYgk1B62lSeNCocRAMVm) | [Jay Arner](https://open.spotify.com/artist/6crQDsQSmr4hlmhb9nkGQ4) | [Jay II](https://open.spotify.com/album/3POZPNpTVD49agqnSXpXes) | 4:00 |
 | 47 | [Opportunity](https://open.spotify.com/track/2oxQ52yhbatXclzYyH75c7) | [Kevin Krauter](https://open.spotify.com/artist/66N2tY3w6pwH2otV7Yj1AI) | [Full Hand](https://open.spotify.com/album/7ufXylXlduqkezq4Yu5XcK) | 3:33 |
 | 48 | [You and Me](https://open.spotify.com/track/4KE91Xg3FL51yMhnpSqRvE) | [Nature TV](https://open.spotify.com/artist/43oBGBlKaDxrti8m7QiQrC), [Nice Guys](https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN) | [You and Me](https://open.spotify.com/album/4WmQIWuFrxPQc7Ae3LKDUQ) | 3:45 |
 | 49 | [Patience Etc..\. \(George Clanton Remix\)](https://open.spotify.com/track/35UpVtlZ5nbxH2nw0of9ST) | [Caroline Loveglow](https://open.spotify.com/artist/3j0n7TWGvwhPBMBWPbuasr), [George Clanton](https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr) | [Patience Etc..\. \(George Clanton Remix\)](https://open.spotify.com/album/47vZuuUWplGpIYvBZGUj4s) | 4:18 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 | 79 | [Seems Like Forever](https://open.spotify.com/track/3eIcEbicqr3ikj05Gkmziv) | [Scarlet Rae](https://open.spotify.com/artist/06v4QDLJOrIz62gsU9lN3K) | [Seems Like Forever](https://open.spotify.com/album/01rddRm7oUQ3GqOG9mkEO8) | 5:18 |
 | 80 | [So Humble the Afternoon](https://open.spotify.com/track/1dl1I6nRr3lFuFxP7gHtcx) | [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [So Humble The Afternoon](https://open.spotify.com/album/13PrcaJFJLNw6jGg25zekp) | 5:22 |
 
-Snapshot ID: `MTY1NzEyMDcxNCwwMDAwMDAwMDM5YTUyNGM0MDVlOTRkYTk4MGIxZmQ3ZTRiMTZhNWU4`
+Snapshot ID: `MTY1NzEyMDcxNCwwMDAwMDAwMDVhMjkzNWFhYjZiMmVhYzNmZDU4ZTM4YjQ4ZTdlZmIw`

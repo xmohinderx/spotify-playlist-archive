@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Esto es punta!",
-  "num_followers": 15795,
+  "num_followers": 15806,
   "original_name": "Punta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MDUwODM5MywwMDAwMDAwMDFlNjlhNzZhM2Q5MDJiMTQyNWNkMGIzOWI3NjYxMjQz",
+  "snapshot_id": "MTU5MDUwODM5MywwMDAwMDAwMDI2YjdiZTFiNGNjY2FhYjE4ZmRiYjRkYzA5ODUzMjhl",
   "tracks": [
     {
       "added_at": "2020-05-26 15:53:13",
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/407pHQytUNjAXT1tm0AyzY"
         }
       ],
-      "duration_ms": 240536,
-      "name": "Pedazo De Mujer",
-      "url": "https://open.spotify.com/track/5neKwHtMhfMCggUrlxrVwW"
+      "duration_ms": 166557,
+      "name": "Mira Honduras",
+      "url": "https://open.spotify.com/track/0FbnL9EfyZFhJGorVG7GQg"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/407pHQytUNjAXT1tm0AyzY"
         }
       ],
-      "duration_ms": 166557,
-      "name": "Mira Honduras",
-      "url": "https://open.spotify.com/track/0FbnL9EfyZFhJGorVG7GQg"
+      "duration_ms": 240536,
+      "name": "Pedazo De Mujer",
+      "url": "https://open.spotify.com/track/5neKwHtMhfMCggUrlxrVwW"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -483,22 +483,6 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Batalla de las Puntas, Vol. 10",
-        "url": "https://open.spotify.com/album/5GTHEoUqGOqsE0tIwLcz0I"
-      },
-      "artists": [
-        {
-          "name": "Los Silver Star",
-          "url": "https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP"
-        }
-      ],
-      "duration_ms": 230870,
-      "name": "Gasolina",
-      "url": "https://open.spotify.com/track/56AynhuITWeIpfjczp8SPu"
-    },
-    {
-      "added_at": "2020-05-26 15:53:13",
-      "album": {
         "name": "Encarguitos Del Caribe",
         "url": "https://open.spotify.com/album/2ma5OpIYAH0fZm3H23krvR"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 223973,
       "name": "El Encarguito",
       "url": "https://open.spotify.com/track/4HVA1hDrurIxBFUShrL4if"
+    },
+    {
+      "added_at": "2020-05-26 15:53:13",
+      "album": {
+        "name": "Batalla de las Puntas, Vol. 10",
+        "url": "https://open.spotify.com/album/5GTHEoUqGOqsE0tIwLcz0I"
+      },
+      "artists": [
+        {
+          "name": "Los Silver Star",
+          "url": "https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP"
+        }
+      ],
+      "duration_ms": 230870,
+      "name": "Gasolina",
+      "url": "https://open.spotify.com/track/56AynhuITWeIpfjczp8SPu"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -651,22 +651,6 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Pobre Marinero",
-        "url": "https://open.spotify.com/album/6PISCk0SEOHNFHheKDmUFj"
-      },
-      "artists": [
-        {
-          "name": "Guillermo Anderson",
-          "url": "https://open.spotify.com/artist/6rxRjKb9HsicUr844FIfpy"
-        }
-      ],
-      "duration_ms": 219173,
-      "name": "En Mi Pais",
-      "url": "https://open.spotify.com/track/78inhCoJFx1M9ZRBG6Nbhp"
-    },
-    {
-      "added_at": "2020-05-26 15:53:13",
-      "album": {
         "name": "Batalla de las Puntas, Vol. 1",
         "url": "https://open.spotify.com/album/4uQrzFTwSjQahcjRUrAdoD"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 282723,
       "name": "Punta Silver",
       "url": "https://open.spotify.com/track/6t4Sbn7GLk3yR8UnGFIZr0"
+    },
+    {
+      "added_at": "2020-05-26 15:53:13",
+      "album": {
+        "name": "Pobre Marinero",
+        "url": "https://open.spotify.com/album/6PISCk0SEOHNFHheKDmUFj"
+      },
+      "artists": [
+        {
+          "name": "Guillermo Anderson",
+          "url": "https://open.spotify.com/artist/6rxRjKb9HsicUr844FIfpy"
+        }
+      ],
+      "duration_ms": 219173,
+      "name": "En Mi Pais",
+      "url": "https://open.spotify.com/track/78inhCoJFx1M9ZRBG6Nbhp"
     }
   ],
   "unique_name": "Punta",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ou9Mc.md) - [plain]
 
 > This is The Offspring\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,195 likes - 49 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,377 likes - 49 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ou9Mc.md) - [plain]
 | 48 | [We Never Have Sex Anymore](https://open.spotify.com/track/3rqXh9yVOCPHGUjaW2a200) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Let The Bad Times Roll \(Deluxe Edition\)](https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm) | 3:30 |
 | 49 | [Army Of One](https://open.spotify.com/track/5HCgbSD9EPArLlyW7goKIt) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Let The Bad Times Roll \(Deluxe Edition\)](https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm) | 3:11 |
 
-Snapshot ID: `Mjc3MjIyMzMsMDAwMDAwMDA3OGRlN2JmNzZlOGZjNzAyMWU1OTE0ZjBjYTRmMTg5NA==`
+Snapshot ID: `Mjc3MjM2OTIsMDAwMDAwMDAyZDk5OGRkYTA5ZmRjMDc0MzNlNjYyMTU1NDY0MzgwYg==`

@@ -627,7 +627,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-17",
+      "date_removed": null,
       "duration_ms": 186000,
       "name": "Asgard",
       "url": "https://open.spotify.com/track/422I38B6wM8mWDUVwCn28f"
@@ -765,7 +765,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 229173,
       "name": "Atlantis",
       "url": "https://open.spotify.com/track/1Fid2jjqsHViMX6xNH70hE"
@@ -1607,7 +1607,7 @@
       ],
       "date_added": "2021-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 130285,
       "name": "Blessed",
       "url": "https://open.spotify.com/track/2sNrirJx5Se5MO2tU2lJVL"
@@ -7727,7 +7727,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 184447,
       "name": "MIDDLE OF THE NIGHT",
       "url": "https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly"
@@ -9045,7 +9045,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-15",
+      "date_removed": null,
       "duration_ms": 130520,
       "name": "Nikdy Nic Nebylo",
       "url": "https://open.spotify.com/track/3rKPRnYJ5b89bv5ZsLrogK"
@@ -9411,6 +9411,24 @@
       "duration_ms": 193506,
       "name": "One Right Now (with The Weeknd)",
       "url": "https://open.spotify.com/track/00Blm7zeNqgYLPtW6zg8cj"
+    },
+    {
+      "album": {
+        "name": "Optimista",
+        "url": "https://open.spotify.com/album/1WYnC2l7zE6lbLX9gtbAOd"
+      },
+      "artists": [
+        {
+          "name": "Earth",
+          "url": "https://open.spotify.com/artist/145RezaSLWGxp3SLnAcHPr"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152472,
+      "name": "Optimista",
+      "url": "https://open.spotify.com/track/3XbM3IsEPJqc3GjBwnKyIJ"
     },
     {
       "album": {
@@ -11159,7 +11177,7 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 190883,
       "name": "Sharks",
       "url": "https://open.spotify.com/track/7sA2SKTo1QbTSSYn5YvJC4"
@@ -11265,6 +11283,24 @@
       "duration_ms": 172675,
       "name": "SHUM",
       "url": "https://open.spotify.com/track/7mEDVrAHDnQJStDo8jKJJm"
+    },
+    {
+      "album": {
+        "name": "BORN PINK",
+        "url": "https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175889,
+      "name": "Shut Down",
+      "url": "https://open.spotify.com/track/7gRFDGEzF9UkBV233yv2dc"
     },
     {
       "album": {
@@ -11927,7 +11963,7 @@
       ],
       "date_added": "2022-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 163854,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B"
@@ -13279,7 +13315,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-24",
+      "date_removed": null,
       "duration_ms": 178906,
       "name": "Vedle tebe us\u00edn\u00e1m",
       "url": "https://open.spotify.com/track/1gkuJxWBlpcUFkqNsEkgQg"

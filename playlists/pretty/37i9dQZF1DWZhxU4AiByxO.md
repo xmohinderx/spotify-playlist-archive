@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhxU4AiByxO.md) - [plain]
 
 > Enjoy some kid\-friendly pop tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,987 likes - 166 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 441,000 likes - 166 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

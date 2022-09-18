@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56Bc0iAghdi.md) - [plain]
 
 > Songs of love, hope and positivity for the world\.   Listen with Spirit!  Cover: Local Sound
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,972 likes - 65 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,979 likes - 65 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56Bc0iAghdi.md) - [plain]
 | 40 | [Pieces](https://open.spotify.com/track/6PZh8MRQB5Hxj2PIKG8XY5) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH), [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [Bloom](https://open.spotify.com/album/36LOiWPolyaiePKZwj4A5w) | 5:29 |
 | 41 | [Down](https://open.spotify.com/track/7pm6Tx25xrVRTSjzYrdOVE) | [Jamie Kimmett](https://open.spotify.com/artist/6149cbbptDgml1rjD0qOUG) | [Prize Worth Fighting For \- EP](https://open.spotify.com/album/3OhT211gjRkYGbkuKubrtS) | 2:38 |
 | 42 | [Safe \(feat\. Chris Cron\)](https://open.spotify.com/track/1b5Fw9OGITGQQ6u46coPy9) | [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD), [Chris Cron](https://open.spotify.com/artist/3KOEKMUxngxpCbKGBk8giH) | [Safe \(feat\. Chris Cron\)](https://open.spotify.com/album/66sEcqKPI4ue0VubvW29qH) | 3:33 |
-| 43 | [Incense \- Live](https://open.spotify.com/track/4sEmnvIiB16v5PYlNWnzS3) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Awe + Wonder \(Live\)](https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g) | 8:17 |
-| 44 | [I Lift Your Name Up \- 80's Remix](https://open.spotify.com/track/3dw4ddlaQmQVFY5V1mBClv) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Rain](https://open.spotify.com/album/074R4kqJ2xNe4h8GkGBON8) | 3:21 |
+| 43 | [I Lift Your Name Up \- 80's Remix](https://open.spotify.com/track/3dw4ddlaQmQVFY5V1mBClv) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Rain](https://open.spotify.com/album/074R4kqJ2xNe4h8GkGBON8) | 3:21 |
+| 44 | [Incense \- Live](https://open.spotify.com/track/4sEmnvIiB16v5PYlNWnzS3) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Awe + Wonder \(Live\)](https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g) | 8:17 |
 | 45 | [Teach Me](https://open.spotify.com/track/0kIrIiZq1VvsZBzNL039j2) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Teach Me](https://open.spotify.com/album/4S3DGDkJjlJRR42yVCxOMl) | 3:33 |
 | 46 | [Butterfly](https://open.spotify.com/track/5kSWv4oxIoTE3LSh831GpU) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [Butterfly](https://open.spotify.com/album/0bgRKFVFp5wiMnLfiM2WzB) | 4:12 |
 | 47 | [JOYBOY](https://open.spotify.com/track/0kioCLrwCsgwl7Fd8mrDnp) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Pep Talks](https://open.spotify.com/album/5CuJb813nzBM4FMfTNByH9) | 2:24 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56Bc0iAghdi.md) - [plain]
 | 64 | [Summertime](https://open.spotify.com/track/4iJeJV5d8kZAPmmu4LtqmQ) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8), [Jay\-Way](https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7) | [Summertime](https://open.spotify.com/album/6Z0UDE7UctY5H0T3oBdHnX) | 3:09 |
 | 65 | [Help You Heal](https://open.spotify.com/track/45BXjER0XEofYtOw4oB4lh) | [Silverberg](https://open.spotify.com/artist/3lpVtJYZ57FvUVDzECu4UY) | [Help You Heal](https://open.spotify.com/album/7uFNH0Tr5Ohb07vfhDbo41) | 3:43 |
 
-Snapshot ID: `MTU2OTAwNDQ0NiwwMDAwMDAwMDQ5MjRiYzAwMGQyODBlMjQwNzVlMDk1ZTBmYWRhZGNh`
+Snapshot ID: `MTU2OTAwNDQ0NiwwMDAwMDAwMDdjOTRjM2FmNmM0ZjVhMWMzZTg0MTVlOTIzNWU4MzFi`

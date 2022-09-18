@@ -1466,6 +1466,24 @@
     },
     {
       "album": {
+        "name": "imagine club",
+        "url": "https://open.spotify.com/album/1Fhu3FJHqttNA1d6e7VXxC"
+      },
+      "artists": [
+        {
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211053,
+      "name": "ore ore",
+      "url": "https://open.spotify.com/track/2hPvWV02856ZW1LSWbOycO"
+    },
+    {
+      "album": {
         "name": "Out of My Intention",
         "url": "https://open.spotify.com/album/3iTSukxhxuCtvyPkkBENLn"
       },

@@ -1,12 +1,12 @@
 {
   "description": "Hip Hop and Rap songs guaranteed to get you hyped. Cover: Nasty C",
-  "num_followers": 610,
+  "num_followers": 620,
   "original_name": "Hype List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMjU3MCwwMDAwMDAwMDU0ZDJjMTU0YWZkYjAzMWY3ZjVjNGI5N2IxZGY4NjNm",
+  "snapshot_id": "MTY2MzMwMjU3MCwwMDAwMDAwMGYxM2QxMWE3NDY3NDRkNTczMDcxOWZiNTU2ZGM5OWVm",
   "tracks": [
     {
       "added_at": "2022-09-16 04:29:30",
@@ -363,6 +363,22 @@
     {
       "added_at": "2022-07-27 12:30:07",
       "album": {
+        "name": "Starlight",
+        "url": "https://open.spotify.com/album/1WLS1NrOlbDIl760hVeeUi"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        }
+      ],
+      "duration_ms": 211935,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/531KGXtBroSrOX9LVmiIgc"
+    },
+    {
+      "added_at": "2022-07-27 12:30:07",
+      "album": {
         "name": "Cooped Up",
         "url": "https://open.spotify.com/album/6sjdohc8ouX9jHxIyqi6mi"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 185857,
       "name": "Cooped Up (with Roddy Ricch)",
       "url": "https://open.spotify.com/track/7DwcBgdzqhFJltEaV1XF81"
-    },
-    {
-      "added_at": "2022-07-27 12:30:07",
-      "album": {
-        "name": "Starlight",
-        "url": "https://open.spotify.com/album/1WLS1NrOlbDIl760hVeeUi"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        }
-      ],
-      "duration_ms": 211935,
-      "name": "Starlight",
-      "url": "https://open.spotify.com/track/531KGXtBroSrOX9LVmiIgc"
     },
     {
       "added_at": "2022-07-27 12:30:07",

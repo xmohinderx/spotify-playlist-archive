@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19FiqS4SYCP.md) - [plain]
 
 > Tejano's new wave! La nueva ola de música tejana\. Cover: Selena
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,365 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,383 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,12 +21,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19FiqS4SYCP.md) - [plain]
 | 11 | [El Amuleto](https://open.spotify.com/track/686Fy8OcDeIuLSrojeDRdB) | [Stevie D](https://open.spotify.com/artist/5wwbWPiUZIgjYL2Al35scc) | [Estamos Unidos](https://open.spotify.com/album/7bNQ2cpz0PmfR7lQLskJrE) | 3:12 |
 | 12 | [No Me Mires Así](https://open.spotify.com/track/0gikv397tFOxDdS3LvniqN) | [Isabel Marie](https://open.spotify.com/artist/1i4JicYEjrRhkORObJYf89) | [No Me Mires Así](https://open.spotify.com/album/56XSJKrTtu8k5SfKTlHI2z) | 3:05 |
 | 13 | [Ni Un Beso](https://open.spotify.com/track/2y14VU6cH3CrwW4dK38rlR) | [Adassa](https://open.spotify.com/artist/72kqSqk124Vnl1wtT6q9Fh) | [Ni Un Beso](https://open.spotify.com/album/0XLIIlnNmBnwOnZgvjePLp) | 3:04 |
-| 14 | [Y Sigues Siendo Tu](https://open.spotify.com/track/0pZhbuOqf3aO7U3scNQFEa) | [Adrian Gutierrez](https://open.spotify.com/artist/4WGAoIeSbercuZ6QRYitic) | [Y Sigues Siendo Tu](https://open.spotify.com/album/1LoHFvlwyybAXlR2uyr7JJ) | 3:10 |
-| 15 | [Por Una Cantina](https://open.spotify.com/track/3BOfif4vJLha8mEkSXBQGV) | [David Farias](https://open.spotify.com/artist/4sMapIElnnyICCw5HzpElc) | [Por Una Cantina](https://open.spotify.com/album/3lDhrqJKRw8ZjU23TkTWpC) | 3:28 |
+| 14 | [Por Una Cantina](https://open.spotify.com/track/3BOfif4vJLha8mEkSXBQGV) | [David Farias](https://open.spotify.com/artist/4sMapIElnnyICCw5HzpElc) | [Por Una Cantina](https://open.spotify.com/album/3lDhrqJKRw8ZjU23TkTWpC) | 3:28 |
+| 15 | [Y Sigues Siendo Tu](https://open.spotify.com/track/0pZhbuOqf3aO7U3scNQFEa) | [Adrian Gutierrez](https://open.spotify.com/artist/4WGAoIeSbercuZ6QRYitic) | [Y Sigues Siendo Tu](https://open.spotify.com/album/1LoHFvlwyybAXlR2uyr7JJ) | 3:10 |
 | 16 | [Completamente Enamorados](https://open.spotify.com/track/1BlB8hz7J2RWgfyfPb56IH) | [Texas Latino](https://open.spotify.com/artist/4kPRMVSvX8w6G8bNIOLDaa) | [Fe](https://open.spotify.com/album/0x1psk0bOqvKzFIXg0kKa4) | 2:21 |
-| 17 | [Nunca Voy A Olvidarte \- Radio Mix](https://open.spotify.com/track/4BE1uum58SKMg355mqJ1uW) | [Los Lost Boyz](https://open.spotify.com/artist/6exu6higN1IqyJ8kh5xU7K) | [Nunca Voy A Olvidarte \(Radio Mix\)](https://open.spotify.com/album/5UIk6eb8N8pcQSTk8pLVs9) | 3:18 |
-| 18 | [Mi Tesoro](https://open.spotify.com/track/1tIcWX7l6ONDoomJWeizc5) | [The Cardenas Project](https://open.spotify.com/artist/10drv2wv284hpG7j1XLJFt), [David Ledesma](https://open.spotify.com/artist/10BCZee745Q0CYq61V2erB) | [Mi Tesoro](https://open.spotify.com/album/4Y0NtgWtAJvRvgo20xYRHy) | 3:27 |
-| 19 | [Paloma Sin Nido](https://open.spotify.com/track/2DWsob6FCQvvqBhgBCzKxW) | [Nightlife](https://open.spotify.com/artist/2Ze33LupiJwJ9L7HusVyg8) | [On the Same Track](https://open.spotify.com/album/2XrPpixSLRPPOWRHEkTc2K) | 3:31 |
+| 17 | [Paloma Sin Nido](https://open.spotify.com/track/2DWsob6FCQvvqBhgBCzKxW) | [Nightlife](https://open.spotify.com/artist/2Ze33LupiJwJ9L7HusVyg8) | [On the Same Track](https://open.spotify.com/album/2XrPpixSLRPPOWRHEkTc2K) | 3:31 |
+| 18 | [Nunca Voy A Olvidarte \- Radio Mix](https://open.spotify.com/track/4BE1uum58SKMg355mqJ1uW) | [Los Lost Boyz](https://open.spotify.com/artist/6exu6higN1IqyJ8kh5xU7K) | [Nunca Voy A Olvidarte \(Radio Mix\)](https://open.spotify.com/album/5UIk6eb8N8pcQSTk8pLVs9) | 3:18 |
+| 19 | [Mi Tesoro](https://open.spotify.com/track/1tIcWX7l6ONDoomJWeizc5) | [The Cardenas Project](https://open.spotify.com/artist/10drv2wv284hpG7j1XLJFt), [David Ledesma](https://open.spotify.com/artist/10BCZee745Q0CYq61V2erB) | [Mi Tesoro](https://open.spotify.com/album/4Y0NtgWtAJvRvgo20xYRHy) | 3:27 |
 | 20 | [Por Fin Decidí](https://open.spotify.com/track/3IqyM1UkxCobbGc3uUN0XL) | [South TX Homies](https://open.spotify.com/artist/7yMp1Rpn2cWmZxvK4B95xq) | [Por Fin Decidí](https://open.spotify.com/album/1kgbKExAs7N14nY4nkLyMl) | 3:14 |
 | 21 | [Así Fue](https://open.spotify.com/track/0rFblCCLFidTJBvLzJna19) | [Vilax](https://open.spotify.com/artist/2COneGRGNI8iBBjrYN0xHr) | [Así Fue](https://open.spotify.com/album/0pufIKSnkJQ9LPzaUBrBxf) | 4:43 |
 | 22 | [Soñar Contigo](https://open.spotify.com/track/271wwJ5SCaRqL9UglOu2KQ) | [Cris Medina](https://open.spotify.com/artist/61wVOp8MGMPQi3ZGvtGKpx) | [Soñar Contigo](https://open.spotify.com/album/79Y5ZqObPz9ggm1LHRZ5ab) | 2:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19FiqS4SYCP.md) - [plain]
 | 49 | [Un Día Veras](https://open.spotify.com/track/4zsvbSpkG5AXAHp6PeKSIV) | [Grupo Daño](https://open.spotify.com/artist/1MB82Th55brI9PDoanCs9k), [Rene De la Cerda](https://open.spotify.com/artist/1U5bYBgPSlRchxFEWTtlAl) | [Un Día Veras](https://open.spotify.com/album/4p0U6WFwIt5wkFOiC2GAr9) | 3:47 |
 | 50 | [A Mi Lado](https://open.spotify.com/track/0iVFfAlTHQSTTMcLci5OTJ) | [Emanuel J](https://open.spotify.com/artist/3zFXGHNABaAKnak0jm1EDq), [Monica Saldivar](https://open.spotify.com/artist/6DsEG8AZVx2LpveCIwzkMw) | [A Mi Lado](https://open.spotify.com/album/5KPWpRmgFDHChuirQ2UlDf) | 3:50 |
 
-Snapshot ID: `MTY2MzI2NzI4MywwMDAwMDAwMDI2OWQ1YWJhMTExNDAzZGY0NWZjZjc0YWRiOWYxMjVi`
+Snapshot ID: `MTY2MzI2NzI4MywwMDAwMDAwMDc5MDIwODZmYjQxNzBjOGY2YmEzYjJhODg3MmYxZjE0`

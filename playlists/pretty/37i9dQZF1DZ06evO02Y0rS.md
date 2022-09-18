@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO02Y0rS.md) - [plain]
 
 > This is Bonobo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,408 likes - 52 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,425 likes - 52 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,13 +47,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO02Y0rS.md) - [plain]
 | 37 | [Heaven For The Sinner](https://open.spotify.com/track/6t7SsmMEWNNJaFEpIjrYop) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [The North Borders](https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv) | 4:09 |
 | 38 | [Sleepy Seven](https://open.spotify.com/track/7uwz2iMeMq19rM75zZLW0B) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Animal Magic](https://open.spotify.com/album/4fwdKlGLJuEB9UuCHaNKql) | 5:22 |
 | 39 | [Nothing Owed](https://open.spotify.com/track/6VhlABJh5uaZOpyyi5wute) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Dial 'M' for Monkey](https://open.spotify.com/album/6TaDSeHRXqw06H2PlYsD5K) | 6:16 |
-| 40 | [Ghost Ship](https://open.spotify.com/track/3gegbtYGClUcA05vbmI2z5) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Black Sands Remixed](https://open.spotify.com/album/2tcn5o1g4FuVRuMGjn7G4v) | 4:20 |
+| 40 | [Ketto](https://open.spotify.com/track/4Gkd4msFAFTiDxFZcg9r8i) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Days To Come](https://open.spotify.com/album/5HLoU4oijKdSIFOk2o7mYn) | 5:06 |
 | 41 | [First Fires](https://open.spotify.com/track/2Yz2Z1ENB85nYrK3Rg2qxO) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Grey Reverend](https://open.spotify.com/artist/1EbvbxCONeiXZTVIS2Cw0e) | [The North Borders](https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv) | 4:38 |
-| 42 | [Ketto](https://open.spotify.com/track/4Gkd4msFAFTiDxFZcg9r8i) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Days To Come](https://open.spotify.com/album/5HLoU4oijKdSIFOk2o7mYn) | 5:06 |
+| 42 | [Ghost Ship](https://open.spotify.com/track/3gegbtYGClUcA05vbmI2z5) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Black Sands Remixed](https://open.spotify.com/album/2tcn5o1g4FuVRuMGjn7G4v) | 4:20 |
 | 43 | [Pick Up](https://open.spotify.com/track/0fhoxg8I2MqRFjTrLFIIuO) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Dial 'M' for Monkey](https://open.spotify.com/album/6TaDSeHRXqw06H2PlYsD5K) | 4:08 |
-| 44 | [Brace Brace](https://open.spotify.com/track/4NJmYXgwH27cVeJ6ctf9Dn) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Black Sands Remixed](https://open.spotify.com/album/2tcn5o1g4FuVRuMGjn7G4v) | 7:03 |
+| 44 | [Get Thy Bearings \(feat\. Szjerdene\)](https://open.spotify.com/track/6tqAkUVWAjqTzT363IzgCw) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Szjerdene](https://open.spotify.com/artist/5WcgyMkdfILvNCPTavIINv) | [Late Night Tales: Bonobo](https://open.spotify.com/album/75mOIzgjMsFLN5hyQlpsy8) | 3:05 |
 | 45 | [Antenna](https://open.spotify.com/track/5YhKjllHOmPJMcTdctlOGe) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [The North Borders](https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv) | 3:32 |
-| 46 | [Get Thy Bearings \(feat\. Szjerdene\)](https://open.spotify.com/track/6tqAkUVWAjqTzT363IzgCw) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Szjerdene](https://open.spotify.com/artist/5WcgyMkdfILvNCPTavIINv) | [Late Night Tales: Bonobo](https://open.spotify.com/album/75mOIzgjMsFLN5hyQlpsy8) | 3:05 |
+| 46 | [Brace Brace](https://open.spotify.com/track/4NJmYXgwH27cVeJ6ctf9Dn) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Black Sands Remixed](https://open.spotify.com/album/2tcn5o1g4FuVRuMGjn7G4v) | 7:03 |
 | 47 | [Ibrik \- Mixed](https://open.spotify.com/track/6vgr2cK1a1OXF2IQ9FE8yB) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Ibrik](https://open.spotify.com/album/10TxTr1G45OpSRG6tXs9nt) | 5:50 |
 | 48 | [Return to Air](https://open.spotify.com/track/6CxfaUiVzPPjxtyDwjiH6q) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Flashlight EP](https://open.spotify.com/album/1Gb1MCvhe6uBJrO1Vb8FlR) | 5:02 |
 | 49 | [Recurring](https://open.spotify.com/track/0bpke7omGYtQEUhn7FBsnz) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Nightlite](https://open.spotify.com/album/3bPzeMYquLHyTCUW8shcPL) | 5:03 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO02Y0rS.md) - [plain]
 | 51 | [Loom \(feat\. Bonobo\)](https://open.spotify.com/track/3Yagxg6rtkwN01AYzA862i) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Loom](https://open.spotify.com/album/2kfPunUS5HqupNVAueFmgM) | 3:46 |
 | 52 | [Kota](https://open.spotify.com/track/1hHswNRFdwR5HZSBKdVEOs) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Animal Magic](https://open.spotify.com/album/4fwdKlGLJuEB9UuCHaNKql) | 5:24 |
 
-Snapshot ID: `Mjc3MjIyMzMsMDAwMDAwMDA4MTE3NTlkNTMwNWUwZjI2YzQ3MThlYmQzYzgyODYxZA==`
+Snapshot ID: `Mjc3MjM2OTIsMDAwMDAwMDBmYjBjOWY2ZmZiNmJmNTg1ZjM3ODI3OTFmNWUxYzExOQ==`

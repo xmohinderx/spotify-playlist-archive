@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2SPUyWl8Y5.md) - [plain]
 
 > Focus with deep techno and tech house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 409,706 likes - 80 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 409,962 likes - 80 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,15 +69,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2SPUyWl8Y5.md) - [plain]
 | 59 | [Rapture](https://open.spotify.com/track/1PjFPRW9tBjjNUrUy7hX2T) | [Moonwalk](https://open.spotify.com/artist/1khyIydqanugacJyKdmceT) | [Rapture EP](https://open.spotify.com/album/7etJjUMyK9hUkIGcp9hxN5) | 4:29 |
 | 60 | [Red Planet](https://open.spotify.com/track/6yc1GhDYLaac1IahIgVdIP) | [Township Rebellion](https://open.spotify.com/artist/4gGD7nrLZRnnCSz3KGEu4R) | [Static](https://open.spotify.com/album/3vbUHWi4I1bn8dsDoKPwjx) | 9:30 |
 | 61 | [Slowly](https://open.spotify.com/track/4xnSrvZ9MVhPXYhqDGQyCU) | [Vanita](https://open.spotify.com/artist/03wBbT5tqttIBpmUrNa9ur) | [Dystopia](https://open.spotify.com/album/3Wzi6aTBNAU3lLnaKAfa6B) | 6:54 |
-| 62 | [Reframed Future](https://open.spotify.com/track/71US62LiNfgUNoAMdAMyXz) | [Schlepp Geist](https://open.spotify.com/artist/3QrUgT4R2242O2mqHUeI95) | [10 Years URSL \- Reframed Future](https://open.spotify.com/album/0gPGJUOaKc9W4izlxJlMfT) | 7:05 |
-| 63 | [Sora](https://open.spotify.com/track/4IeAeBQdLlP8wTyp4wbWx5) | [Milkwish](https://open.spotify.com/artist/1O50w1bZK5APgtWSD0qVjv), [9hearts](https://open.spotify.com/artist/3LfTqHNimpgLkeuctIGETt) | [Sora](https://open.spotify.com/album/0WVXdvpEOtiBEzyWbIlDl0) | 3:32 |
+| 62 | [Sora](https://open.spotify.com/track/4IeAeBQdLlP8wTyp4wbWx5) | [Milkwish](https://open.spotify.com/artist/1O50w1bZK5APgtWSD0qVjv), [9hearts](https://open.spotify.com/artist/3LfTqHNimpgLkeuctIGETt) | [Sora](https://open.spotify.com/album/0WVXdvpEOtiBEzyWbIlDl0) | 3:32 |
+| 63 | [Reframed Future](https://open.spotify.com/track/71US62LiNfgUNoAMdAMyXz) | [Schlepp Geist](https://open.spotify.com/artist/3QrUgT4R2242O2mqHUeI95) | [10 Years URSL \- Reframed Future](https://open.spotify.com/album/0gPGJUOaKc9W4izlxJlMfT) | 7:05 |
 | 64 | [Crescendo](https://open.spotify.com/track/2Uo07y23q5MTtL0iaUtnH5) | [Soul Button](https://open.spotify.com/artist/5mcH5yOO7QWoT8CuL8JxEm), [Rustboy](https://open.spotify.com/artist/41kFbqwhUxZh7mXVIEPihu) | [Crescendo](https://open.spotify.com/album/3nnzSVvGgINDcaLGu0KdjP) | 6:04 |
 | 65 | [Everything](https://open.spotify.com/track/6l0wXJbcTf4aNJ1OckXW6P) | [GHEIST](https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU) | [Everything](https://open.spotify.com/album/6HKbO7tyHA5CNDOzQxbfRp) | 6:17 |
 | 66 | [Endless Dancing](https://open.spotify.com/track/4HzXeOr4xGfPmx4ZZOaY2t) | [Cook & Stans](https://open.spotify.com/artist/6NOkAPWWK2Ay28xwJn7ick) | [Endless Dancing](https://open.spotify.com/album/5bQAfygQhcBVSsmmMM6sAi) | 4:19 |
-| 67 | [Flight Into the Void](https://open.spotify.com/track/2Lj3VzdR8WP6TqsTS3J7Mz) | [Remcord](https://open.spotify.com/artist/09iSLnIk5tjj4u4T7nrhmB) | [Flight Into the Void EP](https://open.spotify.com/album/01sw5D44GctddF1Q7aIHwU) | 6:46 |
-| 68 | [Loss](https://open.spotify.com/track/1q1QCOUXm6Ipfowwst3mcf) | [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC), [Less Hate](https://open.spotify.com/artist/3UtxZzXnYIRXpRPZM4ubbZ) | [Loss/Bow To The Rain](https://open.spotify.com/album/5krXrHyaBsfa8RWQNOMOFV) | 3:45 |
-| 69 | [Someone Else](https://open.spotify.com/track/02pzOX3OB9N8psnEpmeD3a) | [Carlo Whale](https://open.spotify.com/artist/42J0pSvJGXvErpfYL1Nodj) | [Someone Else](https://open.spotify.com/album/4oXObLe6qLx9Z58eIMvRMW) | 6:18 |
-| 70 | [The Mood](https://open.spotify.com/track/6eHjPAXmPtSw7qjn3FTVfc) | [Rafael Osmo](https://open.spotify.com/artist/3ChjGRo4LfuJy7uXo0uQG5) | [The Mood](https://open.spotify.com/album/3XQPuf5CmDz0jEwgsfsygX) | 3:30 |
+| 67 | [Loss](https://open.spotify.com/track/1q1QCOUXm6Ipfowwst3mcf) | [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC), [Less Hate](https://open.spotify.com/artist/3UtxZzXnYIRXpRPZM4ubbZ) | [Loss/Bow To The Rain](https://open.spotify.com/album/5krXrHyaBsfa8RWQNOMOFV) | 3:45 |
+| 68 | [Flight Into the Void](https://open.spotify.com/track/2Lj3VzdR8WP6TqsTS3J7Mz) | [Remcord](https://open.spotify.com/artist/09iSLnIk5tjj4u4T7nrhmB) | [Flight Into the Void EP](https://open.spotify.com/album/01sw5D44GctddF1Q7aIHwU) | 6:46 |
+| 69 | [The Mood](https://open.spotify.com/track/6eHjPAXmPtSw7qjn3FTVfc) | [Rafael Osmo](https://open.spotify.com/artist/3ChjGRo4LfuJy7uXo0uQG5) | [The Mood](https://open.spotify.com/album/3XQPuf5CmDz0jEwgsfsygX) | 3:30 |
+| 70 | [Someone Else](https://open.spotify.com/track/02pzOX3OB9N8psnEpmeD3a) | [Carlo Whale](https://open.spotify.com/artist/42J0pSvJGXvErpfYL1Nodj) | [Someone Else](https://open.spotify.com/album/4oXObLe6qLx9Z58eIMvRMW) | 6:18 |
 | 71 | [Planet F](https://open.spotify.com/track/7zL8LOU2Wzhc48ObFxOUq8) | [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE) | [Planet F](https://open.spotify.com/album/2GNTFKRmaZkZSzxGcSAKeQ) | 4:01 |
 | 72 | [Breaking The Clouds](https://open.spotify.com/track/5dLkoocLN0wZPeV9NDMwlC) | [Dapayk solo](https://open.spotify.com/artist/0vz3JBcXuyp4QefXwtD0Lp) | [Breaking The Clouds](https://open.spotify.com/album/1nlhSNR420AabaXSCI2j5R) | 8:41 |
 | 73 | [Landing in Halifax](https://open.spotify.com/track/3CLUfqZpiTv3EO2eAS5nll) | [Passenger 10](https://open.spotify.com/artist/1Rmh4YOuttbNyVthCkTokT) | [Landing in Halifax](https://open.spotify.com/album/79DbNRg47wmpCmtoJrByH1) | 4:09 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2SPUyWl8Y5.md) - [plain]
 | 79 | [Black Ice](https://open.spotify.com/track/5KqPPGQikjJHRTT17E8XdS) | [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE) | [Black Ice](https://open.spotify.com/album/7kTHuLdBT3Mk45oHueS33E) | 6:20 |
 | 80 | [Run](https://open.spotify.com/track/5nTULNIZFwN3e4g05lb6fF) | [Haddadi Von Engst](https://open.spotify.com/artist/5Hg5DBnnqGjRx8ylws0xy5) | [Run](https://open.spotify.com/album/1KTNoba0EoQRVl1rLOv71a) | 5:08 |
 
-Snapshot ID: `MTY2MjczOTIwMCwwMDAwMDAwMGVjYTJiYTg0ZjY2Y2RhNzUxOGUxN2U4N2ZmMGM0ODM4`
+Snapshot ID: `MTY2MjczOTIwMCwwMDAwMDAwMDUzYTNjNWNlMDdkYzQ4YzI4YTAzMjFiMzMwNGMwYmQ5`

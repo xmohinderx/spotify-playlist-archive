@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 
 > Alternative meets electronic\. Cover: Sub Urban + BENEE
 
-[Spotify](https://open.spotify.com/user/spotify) - 421,132 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 421,251 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,18 +95,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 | 85 | [Sound the Alarm \(feat\. Rivers Cuomo of Weezer & Royal & the Serpent\)](https://open.spotify.com/track/3OyRfX2JGBCPWoQsYBFqQu) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Sound the Alarm \(feat\. Rivers Cuomo of Weezer & Royal & the Serpent\)](https://open.spotify.com/album/42gv0kQ4WESuPbScRE2CRK) | 2:51 |
 | 86 | [Lightning Over Mexico](https://open.spotify.com/track/3IxeUGg5HDUz6jhfr66m4A) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [The Bloody Beetroots](https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5), [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [The Catastrophists EP](https://open.spotify.com/album/6Kl5tzEtLjRKTPBtjw8NQr) | 4:11 |
 | 87 | [Bones](https://open.spotify.com/track/0DqJsme3z2r2kPGTti68gf) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Bones](https://open.spotify.com/album/67WHRHvdMPplrsSc4KtMfB) | 2:49 |
-| 88 | [Feel Real Pretty](https://open.spotify.com/track/2nRcQbL9FZYFii3fFLKPSp) | [Paper Idol](https://open.spotify.com/artist/6dewigIOIcG6m1XGsG4Mc3) | [Feel Real Pretty \(Remixes\)](https://open.spotify.com/album/5uM5JzzgYV0obfBY4Ebm2b) | 3:03 |
+| 88 | [Fire](https://open.spotify.com/track/5jRJlGB5EP7HFKwYBKvlSA) | [Diskopunk](https://open.spotify.com/artist/5Ck4KWOZsbrSQpiLimooDp) | [Fire](https://open.spotify.com/album/4b7DQdQztY3wvk8DJB8bgz) | 3:17 |
 | 89 | [Sing To Me](https://open.spotify.com/track/17KGTOb8fkxlyTnB5eFnsh) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS), [Death Stranding: Timefall](https://open.spotify.com/artist/4rojTfP5nRkmYpdSbWQgV4) | [DEATH STRANDING: Timefall \(Original Music from the World of Death Stranding\)](https://open.spotify.com/album/67hVRXYD2WmD4fgPOWNex3) | 3:09 |
-| 90 | [Fire](https://open.spotify.com/track/5jRJlGB5EP7HFKwYBKvlSA) | [Diskopunk](https://open.spotify.com/artist/5Ck4KWOZsbrSQpiLimooDp) | [Fire](https://open.spotify.com/album/4b7DQdQztY3wvk8DJB8bgz) | 3:17 |
-| 91 | [come around](https://open.spotify.com/track/4ghFfl5uKi45yybjTniMeJ) | [Omri](https://open.spotify.com/artist/2Lku5fIu2jo19qXhz82Qio) | [come around](https://open.spotify.com/album/2ZRUYAxTyymZaYKvPhXATs) | 3:39 |
-| 92 | [Already Dead](https://open.spotify.com/track/2NMdjMrdycTgwwOV1HSg6y) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Already Dead](https://open.spotify.com/album/19dUZs24O6DtL07yWRsGf2) | 2:19 |
-| 93 | [Guilty Pleasure](https://open.spotify.com/track/0fXxaWPApfhAx0SQ8CGrEU) | [Groupthink](https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0) | [Guilty Pleasure](https://open.spotify.com/album/6IVoJEH4qvoXUngVo6R96d) | 3:07 |
-| 94 | [Can't Get You Out of My Head](https://open.spotify.com/track/6mtTiVREzK3kV0E65MXCZo) | [Johnny Goth](https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b) | [Can't Get You Out of My Head](https://open.spotify.com/album/3BE31HD0sbdeIBL791ayyV) | 3:10 |
-| 95 | [Going Ghost](https://open.spotify.com/track/7KDT0me83hS1RnHJ6EeYKS) | [Jeris Johnson](https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq) | [Going Ghost](https://open.spotify.com/album/3YoYaUvzxAtji6MG8ZzghO) | 2:49 |
-| 96 | [Time of my Life](https://open.spotify.com/track/1K0lYhdaq84V90aOneQjIW) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Time of my Life](https://open.spotify.com/album/5ohnsSxGEfREu3adgPHIGd) | 2:16 |
-| 97 | [Bang](https://open.spotify.com/track/5GbK9am1svakX356ltRPcm) | [Sir Sly](https://open.spotify.com/artist/3DFoVPonoAAt4EZ1FEI8ue) | [Bang](https://open.spotify.com/album/5fAJP8107G7ymzxJwmqkUy) | 2:11 |
-| 98 | [That Bitch](https://open.spotify.com/track/4ur3KZzUiI3wyRea8hDkI0) | [Sizzy Rocket](https://open.spotify.com/artist/2CBvbVxhd3ZJXRTCl88H7E) | [ANARCHY](https://open.spotify.com/album/0inGvyulrWVsrpFmabpQzf) | 2:32 |
-| 99 | [Dying To Know You](https://open.spotify.com/track/58kTdDfCfgxi1EC8iq1HcO) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45), [Bad Lovers Club](https://open.spotify.com/artist/44lvHJBBFpuAoZtcDXsrkp) | [Time Isn't Real](https://open.spotify.com/album/3pvUm6HjqJQEx9gKXc3l7g) | 3:33 |
-| 100 | [Superhuman \(with K.Flay\)](https://open.spotify.com/track/0rWQ4sqTFJoPdIXDahOUPX) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Superhuman \(with K.Flay\)](https://open.spotify.com/album/45o6MX0tVVTZF8NDko5Hgs) | 4:00 |
+| 90 | [come around](https://open.spotify.com/track/4ghFfl5uKi45yybjTniMeJ) | [Omri](https://open.spotify.com/artist/2Lku5fIu2jo19qXhz82Qio) | [come around](https://open.spotify.com/album/2ZRUYAxTyymZaYKvPhXATs) | 3:39 |
+| 91 | [Already Dead](https://open.spotify.com/track/2NMdjMrdycTgwwOV1HSg6y) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Already Dead](https://open.spotify.com/album/19dUZs24O6DtL07yWRsGf2) | 2:19 |
+| 92 | [Guilty Pleasure](https://open.spotify.com/track/0fXxaWPApfhAx0SQ8CGrEU) | [Groupthink](https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0) | [Guilty Pleasure](https://open.spotify.com/album/6IVoJEH4qvoXUngVo6R96d) | 3:07 |
+| 93 | [Can't Get You Out of My Head](https://open.spotify.com/track/6mtTiVREzK3kV0E65MXCZo) | [Johnny Goth](https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b) | [Can't Get You Out of My Head](https://open.spotify.com/album/3BE31HD0sbdeIBL791ayyV) | 3:10 |
+| 94 | [Going Ghost](https://open.spotify.com/track/7KDT0me83hS1RnHJ6EeYKS) | [Jeris Johnson](https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq) | [Going Ghost](https://open.spotify.com/album/3YoYaUvzxAtji6MG8ZzghO) | 2:49 |
+| 95 | [Time of my Life](https://open.spotify.com/track/1K0lYhdaq84V90aOneQjIW) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Time of my Life](https://open.spotify.com/album/5ohnsSxGEfREu3adgPHIGd) | 2:16 |
+| 96 | [Bang](https://open.spotify.com/track/5GbK9am1svakX356ltRPcm) | [Sir Sly](https://open.spotify.com/artist/3DFoVPonoAAt4EZ1FEI8ue) | [Bang](https://open.spotify.com/album/5fAJP8107G7ymzxJwmqkUy) | 2:11 |
+| 97 | [That Bitch](https://open.spotify.com/track/4ur3KZzUiI3wyRea8hDkI0) | [Sizzy Rocket](https://open.spotify.com/artist/2CBvbVxhd3ZJXRTCl88H7E) | [ANARCHY](https://open.spotify.com/album/0inGvyulrWVsrpFmabpQzf) | 2:32 |
+| 98 | [Dying To Know You](https://open.spotify.com/track/58kTdDfCfgxi1EC8iq1HcO) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45), [Bad Lovers Club](https://open.spotify.com/artist/44lvHJBBFpuAoZtcDXsrkp) | [Time Isn't Real](https://open.spotify.com/album/3pvUm6HjqJQEx9gKXc3l7g) | 3:33 |
+| 99 | [Superhuman \(with K.Flay\)](https://open.spotify.com/track/0rWQ4sqTFJoPdIXDahOUPX) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Superhuman \(with K.Flay\)](https://open.spotify.com/album/45o6MX0tVVTZF8NDko5Hgs) | 4:00 |
+| 100 | [Crown](https://open.spotify.com/track/0Fnr9uVtG6txfh1TyIyI5s) | [WE ARE FURY](https://open.spotify.com/artist/44Wi4QHWK4CzACCqCyxo3x), [Brassie](https://open.spotify.com/artist/7mEgHnF1FvDGiUg2K1Pt2n), [Kyle Reynolds](https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R) | [Crown](https://open.spotify.com/album/6urK9rHyX8MtFn69HBu3eh) | 2:51 |
 
-Snapshot ID: `MTY2MTg5NTI1MSwwMDAwMDAwMGVmYjlhNzAzNjAyNDdiYzg5YWExYjYxOTMxMTZmZDIy`
+Snapshot ID: `MTY2MTg5NTI1MSwwMDAwMDAwMDUxOGVjMjBhNWM3Mjg0MTQwZmQ3ZjQxZTFlYmVhMzgy`

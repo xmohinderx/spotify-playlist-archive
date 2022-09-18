@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWoEMrRMHZ8.md) - [plain]
 
 > As belas novidades da MPB\. Foto: Zé Ramalho
 
-[Spotify](https://open.spotify.com/user/spotify) - 323,013 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 323,087 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWoEMrRMHZ8.md) - [plain]
 | 80 | [Avenida da Paixão](https://open.spotify.com/track/26RXfcnFzKyVsXJY4L4izD) | [Pagui](https://open.spotify.com/artist/7bSkVdJAG3faHcw3lnBK7y) | [Laços](https://open.spotify.com/album/2dd0NozyYF4BHr41CAohKW) | 2:34 |
 | 81 | [Sem Pecado e Sem Juízo \- Ao Vivo](https://open.spotify.com/track/4urMYD4WHWZqnCD9YuUiOv) | [Baby Do Brasil](https://open.spotify.com/artist/2K5llYyoLmzpOcbVuOY1ls), [Pepeu Gomes](https://open.spotify.com/artist/3XLeGN8GPEzQarxiDoQURu) | [Sem Pecado e Sem Juízo \(Ao Vivo\)](https://open.spotify.com/album/25Lea4PaLVhwd2qh9ZPRVh) | 4:07 |
 | 82 | [Comentários a Respeito de Belchior](https://open.spotify.com/track/7gT9a8ekaXrLVOtOaOTNu0) | [RAYA](https://open.spotify.com/artist/1aW2Ud6cfs7uKN0ofpSBCO), [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE) | [Tô](https://open.spotify.com/album/3gh1IMLtHXtImzao8srodC) | 4:07 |
-| 83 | [Eternas Esquinas](https://open.spotify.com/track/5TGvvrDtr3NlduMiN0hm6w) | [Gabriel Moura](https://open.spotify.com/artist/74MDOYWli1AkLP7U4mIFqW), [Gabriel Guedes](https://open.spotify.com/artist/3svMFxGPlWoxKa6ErrYutE) | [Eternas Esquinas](https://open.spotify.com/album/6W9wRkGhajLwy5aRoUF3et) | 4:07 |
-| 84 | [Folia](https://open.spotify.com/track/6j6yrIDSsci3JYiVNgwGLf) | [Verônica Ferriani](https://open.spotify.com/artist/4VrFWmVoU4k6pJzLSe82WA), [Gian Correa](https://open.spotify.com/artist/3AU1eNnX4ndJA0m73d9qCc) | [SambadorA](https://open.spotify.com/album/7gaN0jN1DMDqu4HcrO1THK) | 3:48 |
+| 83 | [Folia](https://open.spotify.com/track/6j6yrIDSsci3JYiVNgwGLf) | [Verônica Ferriani](https://open.spotify.com/artist/4VrFWmVoU4k6pJzLSe82WA), [Gian Correa](https://open.spotify.com/artist/3AU1eNnX4ndJA0m73d9qCc) | [SambadorA](https://open.spotify.com/album/7gaN0jN1DMDqu4HcrO1THK) | 3:48 |
+| 84 | [Eternas Esquinas](https://open.spotify.com/track/5TGvvrDtr3NlduMiN0hm6w) | [Gabriel Moura](https://open.spotify.com/artist/74MDOYWli1AkLP7U4mIFqW), [Gabriel Guedes](https://open.spotify.com/artist/3svMFxGPlWoxKa6ErrYutE) | [Eternas Esquinas](https://open.spotify.com/album/6W9wRkGhajLwy5aRoUF3et) | 4:07 |
 | 85 | [cantar \- ao vivo no bona](https://open.spotify.com/track/46FwFi4komf0g3p80RTjBv) | [Paulo Novaes](https://open.spotify.com/artist/1Ee2vIMGWEMnEqcjJ8nKZ6), [João Camarero](https://open.spotify.com/artist/4TM8RyZ7PdxOkoIMayDMVO) | [cantar \(ao vivo no bona\)](https://open.spotify.com/album/4cxTrMMLnNp0x1kW3GkVge) | 4:26 |
 | 86 | [Pra Sorrir](https://open.spotify.com/track/3Wzr7JiTQqdEhGuMYOdMQ4) | [Douglas Lopes](https://open.spotify.com/artist/7tWPG5zZcCcn2Mi3UJlHjl), [Nano Vianna](https://open.spotify.com/artist/1LP64FKTCHAOS8msavxB9P) | [Pra Sorrir](https://open.spotify.com/album/3S6O5n8DR48FIiaGwrCv0c) | 3:23 |
 | 87 | [Passo, Fico](https://open.spotify.com/track/5x1HapLgaHX2rDahFGYTo3) | [Renato Motha](https://open.spotify.com/artist/3XzRAIlxYeAvE2ZlgpRpU9), [Patricia Lobato](https://open.spotify.com/artist/201VD33gwv7T7BN7Td9jfb) | [CAEIRO \- vol.1](https://open.spotify.com/album/1EPJIK1b3H80aw0rIxIh2c) | 1:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWoEMrRMHZ8.md) - [plain]
 | 99 | [Mal Acostumada](https://open.spotify.com/track/2EnaSv5aZ7vfjlOd2bHDGk) | [Alexia Bomtempo](https://open.spotify.com/artist/28HvZHehbCmYkf6o1W8vp9), [Otto](https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK) | [Mal Acostumada](https://open.spotify.com/album/0Dvz457PJaalNw8ofRGlLi) | 4:30 |
 | 100 | [Banho de Cheiro](https://open.spotify.com/track/1rpKo0qWagKkzkNEl97gHa) | [Alexia Bomtempo](https://open.spotify.com/artist/28HvZHehbCmYkf6o1W8vp9), [Roberta Sá](https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG) | [Banho de Cheiro](https://open.spotify.com/album/3RzEyZrqcNRg1DLcKulro5) | 3:13 |
 
-Snapshot ID: `MTY2MjY5MjQwMCwwMDAwMDAwMDVjODg2YTk0NTJhNWYwZmRmNTFjNmZiNTcxZjczNzJm`
+Snapshot ID: `MTY2MjY5MjQwMCwwMDAwMDAwMDUxN2M5MWZiZjI5MGQzOThlZDc4MjE1OTNlZjZhOGI0`

@@ -4,7 +4,7 @@
 
 > A collection of inspired songs about life and the love of the father.
 
-74 songs - 5 hr 0 min - [published](https://open.spotify.com/playlist/1OfuIj9JDUDFUa2nDU3Lxc)
+75 songs - 5 hr 4 min - [published](https://open.spotify.com/playlist/1OfuIj9JDUDFUa2nDU3Lxc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Even Though I'm Leaving](https://open.spotify.com/track/5Fhe63YOMZsGdB3CgCDuBi) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Is What You Get](https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx) | 3:45 | 2022-06-10 |  |
 | [Faithful Father](https://open.spotify.com/track/1nNpYVEUTLttNspEESv5xF) | [Twila Paris](https://open.spotify.com/artist/7ua35iM0VjwfuHopuQDScm) | [Greatest Hits](https://open.spotify.com/album/5XqM5WvxZTfLywTpcj0Oek) | 3:46 | 2021-06-18 |  |
 | [Family](https://open.spotify.com/track/1VAVGF84xWOXojCoOjKsvV) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Eye On It \(Deluxe Edition\)](https://open.spotify.com/album/31vtzv0S08tqIUnxTOcDkV) | 3:46 | 2021-06-18 |  |
-| [Father](https://open.spotify.com/track/2nCQq02bOLS65hfOZt8J4D) | [Joshua Luke Smith](https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A), [Wild Sons](https://open.spotify.com/artist/1lF0dM3992TbNu7BCTURkk) | [Father](https://open.spotify.com/album/4GeDiiBBSKGuszqUUh1R0H) | 3:48 | 2022-06-10 |  |
+| [Father](https://open.spotify.com/track/2nCQq02bOLS65hfOZt8J4D) | [Joshua Luke Smith](https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A), [Wild Sons](https://open.spotify.com/artist/1lF0dM3992TbNu7BCTURkk) | [Father](https://open.spotify.com/album/4GeDiiBBSKGuszqUUh1R0H) | 3:48 | 2022-06-10 | 2022-09-18 |
+| [Father](https://open.spotify.com/track/5IR5Bi1nL7h0C0BuEnuoLl) | [Joshua Luke Smith](https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A), [Wild Sons](https://open.spotify.com/artist/1lF0dM3992TbNu7BCTURkk) | [Father](https://open.spotify.com/album/5LhlgmewVgxyWbYUfGxk9b) | 3:48 | 2022-06-10 |  |
 | [Father \- Acoustic](https://open.spotify.com/track/4VdDTY1N9NFqFZ8c9sBjzl) | [Jadon Lavik](https://open.spotify.com/artist/4LIG4IMVuzGJjAhMxXtll1) | [The Road Acoustic](https://open.spotify.com/album/0n4i83lJWBFUPfYPDNpylw) | 4:28 | 2021-06-18 |  |
 | [Father And Son](https://open.spotify.com/track/2nU1cyrG92p8h99g3Gykwz) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [The Very Best Of Cat Stevens](https://open.spotify.com/album/3ds29BDzL13tt6Xy9tuFal) | 3:40 | 2021-06-18 |  |
 | [Father Heart](https://open.spotify.com/track/4gQDQKwTmnyiR8D2mqKmjU) | [Spencer Annis](https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu) | [Father Heart](https://open.spotify.com/album/3LH2IzuwOwOBZy2MWe6bEG) | 3:08 | 2022-06-10 |  |

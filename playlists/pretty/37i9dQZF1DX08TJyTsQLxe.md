@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08TJyTsQLxe.md) - [plain]
 
 > ¡Nosotras sólo queremos divertirnos!
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,629 likes - 120 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,695 likes - 120 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 
 > Sometimes a cover can be even better than the original\. You decide\. Cover: Måneskin
 
-[Spotify](https://open.spotify.com/user/spotify) - 607,669 likes - 125 songs - 8 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 607,839 likes - 125 songs - 8 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 | 86 | [Running Up That Hill](https://open.spotify.com/track/5Ew5pDFGWVbKqJj7RjAGRA) | [Halocene](https://open.spotify.com/artist/1S4xN9nvW5vlFoRBisdxUL) | [Running Up That Hill](https://open.spotify.com/album/4taGbRcoDIs8PgQ341IvfB) | 3:03 |
 | 87 | [Nightmare](https://open.spotify.com/track/5916P1HiQM5R5SxTC2Y510) | [The Veer Union](https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS) | [Covers Collection, Vol\. 1](https://open.spotify.com/album/4RPlOjAwTVDGqt5kZIumGR) | 3:55 |
 | 88 | [War Pigs](https://open.spotify.com/track/2vCnEuoc65PXAdx33Y7syW) | [Faith No More](https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5) | [The Real Thing](https://open.spotify.com/album/6LEP3L94jnkqjOxYJWPRP0) | 7:45 |
-| 89 | [Just Like Heaven](https://open.spotify.com/track/69u4YVuqKoVp3nZmpyxC8I) | [Dinosaur Jr.](https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ) | [You're Living All Over Me](https://open.spotify.com/album/3peMqhMZ1HT8N4lvSS3GPu) | 2:53 |
-| 90 | [People Are Strange](https://open.spotify.com/track/7GoOq1xY12PehqOfUryNWU) | [The Violent](https://open.spotify.com/artist/5NokRbYYfqacBmRVBRj0wD) | [The Violent](https://open.spotify.com/album/5hrWPFVNiTbMqrv6rdvVap) | 2:27 |
+| 89 | [People Are Strange](https://open.spotify.com/track/7GoOq1xY12PehqOfUryNWU) | [The Violent](https://open.spotify.com/artist/5NokRbYYfqacBmRVBRj0wD) | [The Violent](https://open.spotify.com/album/5hrWPFVNiTbMqrv6rdvVap) | 2:27 |
+| 90 | [Just Like Heaven](https://open.spotify.com/track/69u4YVuqKoVp3nZmpyxC8I) | [Dinosaur Jr.](https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ) | [You're Living All Over Me](https://open.spotify.com/album/3peMqhMZ1HT8N4lvSS3GPu) | 2:53 |
 | 91 | [I Think We're Alone Now](https://open.spotify.com/track/6h8QlZzBBnZhF4EkGi8JPr) | [Billie Joe Armstrong](https://open.spotify.com/artist/1MrEurzLcL8ugfP1PrUPWG), [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [I Think We're Alone Now](https://open.spotify.com/album/2FYNBNvvPgrUYC87Lqvz6W) | 2:14 |
 | 92 | [If I Ever Lose My Faith in You](https://open.spotify.com/track/4wozhA7ftHx3QQPBKCCL9d) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [If I Ever Lose My Faith in You](https://open.spotify.com/album/4W5TsaInsp1dAZUE5qvm5g) | 4:34 |
 | 93 | [Hungry Like the Wolf \- Recorded Live at AIR Studios, London](https://open.spotify.com/track/0YdWb05mQJwJnd3U7zXWFv) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Spotify Singles](https://open.spotify.com/album/2C5HYffMBumERQlNfceyrO) | 3:09 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 | 124 | [Mississippi Queen](https://open.spotify.com/track/1duKBUeDwvZm5wfIuZSyGt) | [Joyous Wolf](https://open.spotify.com/artist/48vfT7i3EmuNEDAVRhzxpp) | [Mississippi Queen/Slow Hand](https://open.spotify.com/album/2aT5TOBdR5ZcBsOwrPy8sp) | 2:32 |
 | 125 | [Highway to Hell \(feat\. Bruce Springsteen & Eddie Vedder\)](https://open.spotify.com/track/30BltpTtw0lEHf34NesoUu) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT), [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Highway to Hell \(feat\. Bruce Springsteen & Eddie Vedder\)](https://open.spotify.com/album/60qUFi2mJQWWvBONczWFLa) | 3:31 |
 
-Snapshot ID: `MTY2MDg4MTYwMCwwMDAwMDAwMDgwMmY0OGI4MjZiNTVjNzMyMThlNGYzMjFiODI5YzVi`
+Snapshot ID: `MTY2MDg4MTYwMCwwMDAwMDAwMGNkMmVmZWU1NDZjOTA2ODNmMjIwZThjNmNkZmUwZDE5`

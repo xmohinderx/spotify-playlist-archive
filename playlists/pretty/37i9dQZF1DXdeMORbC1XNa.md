@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeMORbC1XNa.md) - [plain]
 
 > The best in Afro Bashment, Afro Swing and all that good stuff\. Cover: Lojay
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,875 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,019 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeMORbC1XNa.md) - [plain]
 | 44 | [Peru](https://open.spotify.com/track/0lk5tzmaJWVAv5GBvpm3xu) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Peru](https://open.spotify.com/album/79O3iaxnmfBDwqueQJiNBe) | 2:31 |
 | 45 | [Fantasy](https://open.spotify.com/track/7jqiKvhHkFlNsaDfoAfGmz) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Fantasy](https://open.spotify.com/album/0RxQrRBkuZYmNqJw1nqiyD) | 2:36 |
 | 46 | [Lazarus \(feat\. Boj\)](https://open.spotify.com/track/4wvnXoQqjIOoEis5eyTbCl) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [We're All Alone In This Together](https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG) | 3:24 |
-| 47 | [Come Over \(feat\. Popcaan\)](https://open.spotify.com/track/58mtgcQVZ56NgWHKsN94nD) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Come Over \(feat\. Popcaan\)](https://open.spotify.com/album/6sYqQ3Pem0Ml376lKx545S) | 3:28 |
-| 48 | [Time N Affection](https://open.spotify.com/track/0aMOalD335v1hsSXmLURzz) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Rave & Roses](https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG) | 3:50 |
+| 47 | [Time N Affection](https://open.spotify.com/track/0aMOalD335v1hsSXmLURzz) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Rave & Roses](https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG) | 3:50 |
+| 48 | [Come Over \(feat\. Popcaan\)](https://open.spotify.com/track/58mtgcQVZ56NgWHKsN94nD) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Come Over \(feat\. Popcaan\)](https://open.spotify.com/album/6sYqQ3Pem0Ml376lKx545S) | 3:28 |
 | 49 | [Kilometre](https://open.spotify.com/track/03YUNUpazIbzwqJq2YSBvB) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:32 |
 | 50 | [Princess Cuts \(feat\. Young T & Bugsey\)](https://open.spotify.com/track/63Sb1AMnhb37DR59uXZdQd) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z) | [EDNA](https://open.spotify.com/album/0fq4uzIIA44Bkw0fCQ5KAU) | 3:05 |
 
-Snapshot ID: `MTY2MzMxODQyOSwwMDAwMDAwMDkwYjIyZGY0MTdiZTlhNWVkZjBkNGZmYzcyM2ZlYmNl`
+Snapshot ID: `MTY2MzMxODQyOSwwMDAwMDAwMDMwMzBkOGQ4MjkwZjM3Mzk3M2NjZTMwNjBiN2I1NWM5`

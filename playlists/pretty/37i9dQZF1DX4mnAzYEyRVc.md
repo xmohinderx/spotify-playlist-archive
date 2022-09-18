@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 
 > The world series of Ska\. Cover: The Interrupters
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,846 likes - 200 songs - 11 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,908 likes - 200 songs - 11 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -164,16 +164,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 154 | [Puto Alcohol](https://open.spotify.com/track/7tj8oe1VHikWXAyS3Anhz3) | [Skalariak](https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ) | [Klub Ska](https://open.spotify.com/album/2bWA5NhjP7bgAQFlZwnz0w) | 2:26 |
 | 155 | [Señorita a Mi Me Gusta Su Style](https://open.spotify.com/track/3L7jB4xMYqApabyWPGlz0g) | [Los Rabanes](https://open.spotify.com/artist/3yYb4SmE7A3rpOTklSlpXO) | [Los Rabanes](https://open.spotify.com/album/0Zu3dRK5p8pqvCrNTo6AuU) | 3:25 |
 | 156 | [La Banda Borracha](https://open.spotify.com/track/5oXFI9ZLYGUbpLZY34T3ai) | [La Lupita](https://open.spotify.com/artist/64Fg1xlMcuDptp5EiNIIcB) | [La Banda Borracha](https://open.spotify.com/album/6QB9WO7bZPX4MfbteFWWJM) | 3:33 |
-| 157 | [2\-Tone Army](https://open.spotify.com/track/3kHgSbSSd3ZvOowtlFXNEw) | [The Toasters](https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj) | [Hard Band For Dead](https://open.spotify.com/album/7JvECHKFPs5FYeaDtsGAoj) | 3:19 |
+| 157 | [Unbekanntes Pferd](https://open.spotify.com/track/3ZdGKlRg1491PKPFkAEBph) | [Rantanplan](https://open.spotify.com/artist/06L7YPmlQkpMaKz8sFJsyM) | [Köpfer](https://open.spotify.com/album/3CBKFNBLH5Hu3YQc3FIUI3) | 2:22 |
 | 158 | [Nana Punk](https://open.spotify.com/track/5z4NEn8aaE25kxcE3LORdQ) | [Nana Pancha](https://open.spotify.com/artist/4wrHdTaFAi56czZLNuZlfK) | [Armada Hasta los Dientes V 1.5](https://open.spotify.com/album/3mcGUxLcbiPvIrVkXQ4XK9) | 2:12 |
-| 159 | [Unbekanntes Pferd](https://open.spotify.com/track/3ZdGKlRg1491PKPFkAEBph) | [Rantanplan](https://open.spotify.com/artist/06L7YPmlQkpMaKz8sFJsyM) | [Köpfer](https://open.spotify.com/album/3CBKFNBLH5Hu3YQc3FIUI3) | 2:22 |
+| 159 | [2\-Tone Army](https://open.spotify.com/track/3kHgSbSSd3ZvOowtlFXNEw) | [The Toasters](https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj) | [Hard Band For Dead](https://open.spotify.com/album/7JvECHKFPs5FYeaDtsGAoj) | 3:19 |
 | 160 | [Latin Ska](https://open.spotify.com/track/3yhSzk3RVZ1BqIYAW8IFGf) | [Los Rabanes](https://open.spotify.com/artist/3yYb4SmE7A3rpOTklSlpXO) | [Latin Ska](https://open.spotify.com/album/6zI1ohCa3KiSQFD5WlTIkX) | 3:14 |
 | 161 | [Amor Enfermo](https://open.spotify.com/track/0ka4JDj506HNhszdG7C2QR) | [Victimas Del Doctor Cerebro](https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M), [Dr\. Shenka](https://open.spotify.com/artist/1RmxwlZ0O7vosdy4GL9BHu) | [Amor Enfermo](https://open.spotify.com/album/3CF7yIyzFIW9Z3S0yjRuP9) | 3:33 |
 | 162 | [Murdera](https://open.spotify.com/track/6ZForb50RiJaON05cHNcDB) | [Sublime With Rome](https://open.spotify.com/artist/3XXrhkZKSGd3CUJQFnx5tQ) | [Yours Truly \(Deluxe Edition\)](https://open.spotify.com/album/2bKgvvT3ZCOW8CRpbU0Hdt) | 4:26 |
 | 163 | [Algo De Suerte](https://open.spotify.com/track/2u8cFYHuAXvLlbxCEkb7ED) | [Sonora Skandalera](https://open.spotify.com/artist/0uks9zgvJkFeg8Weapt3ac) | [Sonora Skandalera](https://open.spotify.com/album/6VsKLBwxtU6pFYzlk0os4n) | 4:14 |
 | 164 | [Ojos Cafés](https://open.spotify.com/track/7CfOeohPQbV2tLBafGGnnv) | [Skapital Sound](https://open.spotify.com/artist/1rKV4FpTtOyl7Wcldkj1Zi) | [Flamingo](https://open.spotify.com/album/7uwulXVQW3ZhUnzWTDnNVU) | 4:00 |
-| 165 | [No More Sorrow](https://open.spotify.com/track/5EmDJCyGAHu5DpijFXAu6r) | [Rotterdam Ska\-Jazz Foundation](https://open.spotify.com/artist/4702lx6KuOKmumm9tH0uCp) | [Motiv Loco](https://open.spotify.com/album/0L1RqcDjhCoQBBK3UhlMdK) | 2:42 |
-| 166 | [Non Voglio Più](https://open.spotify.com/track/67hCaExBuHA5zRx5xZ1Ap8) | [Matrioska](https://open.spotify.com/artist/3Ut51rRtTTigBYWL6SWlFJ) | [La Domenica Mattina](https://open.spotify.com/album/7ytTWa9GuCALoyRLwQ996j) | 3:01 |
+| 165 | [Non Voglio Più](https://open.spotify.com/track/67hCaExBuHA5zRx5xZ1Ap8) | [Matrioska](https://open.spotify.com/artist/3Ut51rRtTTigBYWL6SWlFJ) | [La Domenica Mattina](https://open.spotify.com/album/7ytTWa9GuCALoyRLwQ996j) | 3:01 |
+| 166 | [No More Sorrow](https://open.spotify.com/track/5EmDJCyGAHu5DpijFXAu6r) | [Rotterdam Ska\-Jazz Foundation](https://open.spotify.com/artist/4702lx6KuOKmumm9tH0uCp) | [Motiv Loco](https://open.spotify.com/album/0L1RqcDjhCoQBBK3UhlMdK) | 2:42 |
 | 167 | [Delinquent Song](https://open.spotify.com/track/44XOi657umNvDxNw8JvljD) | [Voodoo Glow Skulls](https://open.spotify.com/artist/0t1X1ygK807hH0upA9lYJw) | [The Band Geek Mafia](https://open.spotify.com/album/1hgcVI15G410lDnGwFNDXk) | 3:14 |
 | 168 | [Night Boat to Cairo](https://open.spotify.com/track/2bspsdHJfZf4URZsTUMW8B) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [One Step Beyond...](https://open.spotify.com/album/5Jst9QoWbNmjQFUyGIkMnA) | 3:31 |
 | 169 | [Mi Vida Sin Tu Amor](https://open.spotify.com/track/3AYRsEOgjz2AdYGypQ30Gy) | [Laurel Aitken](https://open.spotify.com/artist/30vvi2orcocejP6c3nKcEA) | [En Español](https://open.spotify.com/album/5X12ISobYmsCaaRtN3GZKI) | 4:06 |
@@ -187,9 +187,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 177 | [Three Minute Hero](https://open.spotify.com/track/3iWEwCUX3OrJkHmadDCNgC) | [The Selecter](https://open.spotify.com/artist/3wRksusBxJ6npu0PryYheF) | [Too Much Pressure](https://open.spotify.com/album/5wnNTpK8zZCzbEblOvKmUV) | 3:03 |
 | 178 | [Don't Let the Bastards Grind You Down](https://open.spotify.com/track/0XlPgrltmThUXK0hoClUfM) | [The Toasters](https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj) | [The Toasters: 30th Anniversary](https://open.spotify.com/album/6AFJwHYa0jt4z7qj1DghIo) | 2:50 |
 | 179 | [Funky Fire](https://open.spotify.com/track/23ocdrkMsbIT8Y5zYYFGLR) | [The Aggrolites](https://open.spotify.com/artist/5tdgsoMr7dIrcVUVauzuvM) | [The Aggrolites](https://open.spotify.com/album/6kvCoBX2EuVuDtyAdslFUu) | 4:10 |
-| 180 | [Paz y Baile](https://open.spotify.com/track/2eSYkbxRBkfJTm8ILlnB9P) | [Roco Pachukote](https://open.spotify.com/artist/2ODbtFkjehgsWGLhybegVA), [Flavio Cianciarulo](https://open.spotify.com/artist/07blDpyF58EXFIgZtIS3H3) | [Paz y Baile](https://open.spotify.com/album/3QInNg3IGdnIn8NaSwuUOr) | 3:38 |
-| 181 | [Részeg](https://open.spotify.com/track/21AWMfngLGi5gL8mrpMcJm) | [Pannonia Allstars Ska Orchestra](https://open.spotify.com/artist/6JOOdNj8DMXHtPO470pyHE), [Riger János](https://open.spotify.com/artist/0y00MUz87wCYgqRJADv7BO) | [Ghost Train](https://open.spotify.com/album/7aZsLt8oHbOXbLrsnXtIa8) | 3:21 |
-| 182 | [Carta de Amor](https://open.spotify.com/track/72ywCCatDWFs4blSmmWUgr) | [Staya Staya](https://open.spotify.com/artist/7mjXsxiQz6X6LS6SxGmCQf) | [Soul Gedes](https://open.spotify.com/album/25HMUYWHdAnIwr5HIcs7NB) | 2:21 |
+| 180 | [Részeg](https://open.spotify.com/track/21AWMfngLGi5gL8mrpMcJm) | [Pannonia Allstars Ska Orchestra](https://open.spotify.com/artist/6JOOdNj8DMXHtPO470pyHE), [Riger János](https://open.spotify.com/artist/0y00MUz87wCYgqRJADv7BO) | [Ghost Train](https://open.spotify.com/album/7aZsLt8oHbOXbLrsnXtIa8) | 3:21 |
+| 181 | [Carta de Amor](https://open.spotify.com/track/72ywCCatDWFs4blSmmWUgr) | [Staya Staya](https://open.spotify.com/artist/7mjXsxiQz6X6LS6SxGmCQf) | [Soul Gedes](https://open.spotify.com/album/25HMUYWHdAnIwr5HIcs7NB) | 2:21 |
+| 182 | [Paz y Baile](https://open.spotify.com/track/2eSYkbxRBkfJTm8ILlnB9P) | [Roco Pachukote](https://open.spotify.com/artist/2ODbtFkjehgsWGLhybegVA), [Flavio Cianciarulo](https://open.spotify.com/artist/07blDpyF58EXFIgZtIS3H3) | [Paz y Baile](https://open.spotify.com/album/3QInNg3IGdnIn8NaSwuUOr) | 3:38 |
 | 183 | [Missing Words](https://open.spotify.com/track/5H8TJu9PMveCEpuudqo2zV) | [The Selecter](https://open.spotify.com/artist/3wRksusBxJ6npu0PryYheF) | [Too Much Pressure](https://open.spotify.com/album/5wnNTpK8zZCzbEblOvKmUV) | 3:24 |
 | 184 | [Porqué el Amor Me Duele Tanto?](https://open.spotify.com/track/3Soif6DiJxjLLMal3yL0vw) | [No Tiene La Vaca](https://open.spotify.com/artist/7J0ZsAfiCw93ybO2VHxlUa) | [Tiempos Extras](https://open.spotify.com/album/1w8aDZJmomYGfae6kKZasy) | 2:39 |
 | 185 | [La Último Carta](https://open.spotify.com/track/3uStl3ZgOOPdeFHntpt9tO) | [Satélite Kingston](https://open.spotify.com/artist/61WnmZdejrzK1KDPH2j2qD) | [El Enemigo](https://open.spotify.com/album/1nHa66Voj4JU8uP4CephEy) | 3:32 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 199 | [Don't Worry, Be Happy](https://open.spotify.com/track/1fCwJr4ICgKcJOVqnY1Dtb) | [The Busters](https://open.spotify.com/artist/2wCh75gIAQ5Ed9UGiqLBMB) | [Ruder Than Rude](https://open.spotify.com/album/5fYmxYffEECoKcstBe37qU) | 2:57 |
 | 200 | [Ska en la Playa](https://open.spotify.com/track/5rN7Jw3sBHaGHp6MqAGl2u) | [Skapital Sound](https://open.spotify.com/artist/1rKV4FpTtOyl7Wcldkj1Zi) | [Flamingo](https://open.spotify.com/album/7uwulXVQW3ZhUnzWTDnNVU) | 2:42 |
 
-Snapshot ID: `MTY2MjUxMjg5NiwwMDAwMDAwMGYyOGYyZjFhOGYzMWQzY2QyNzllNjQ5MmI0MmUzZTVi`
+Snapshot ID: `MTY2MjUxMjg5NiwwMDAwMDAwMDFiYTI3OWJiODg0NDJkZDMyNDA1M2VjZWJlNTdmNWZm`

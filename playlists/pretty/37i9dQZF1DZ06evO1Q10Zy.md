@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Q10Zy.md) - [plain]
 
 > This is Babyface\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,948 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,966 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Q10Zy.md) - [plain]
 | 37 | [Hurt You](https://open.spotify.com/track/7EB10pKYUvwe7nnCBBn6mA) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Love, Marriage‎ & Divorce](https://open.spotify.com/album/77JvBkDfZ7r74mcQcTkdqM) | 4:10 |
 | 38 | [I Honestly Love You](https://open.spotify.com/track/586aJTfgYDYOkYcoApmsXp) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Back With A Heart](https://open.spotify.com/album/3WOgAppeszaqNnvNeQGX90) | 4:06 |
 | 39 | [Please Come To Boston](https://open.spotify.com/track/11AtoxiDXb1lJaplZEKxx3) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Playlist](https://open.spotify.com/album/3FAdNzCY6H7I8V8TrNwFoI) | 4:17 |
-| 40 | [Shoulda \(feat\. Babyface\)](https://open.spotify.com/track/7tAq0hZtDzyE7KWGcRYkhS) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Painted \(Deluxe Edition\)](https://open.spotify.com/album/4tOljQq0yQqk6KaWRmAwua) | 3:37 |
+| 40 | [Well Alright](https://open.spotify.com/track/2UrCRG6gqpsNYqTX15JO24) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [For The Cool In You](https://open.spotify.com/album/0PkkUYZMtKN25rvrt50EhX) | 4:01 |
 | 41 | [I Hope That You're Okay](https://open.spotify.com/track/1It1muRI7amf04F8W3Ufiy) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Love, Marriage‎ & Divorce](https://open.spotify.com/album/77JvBkDfZ7r74mcQcTkdqM) | 3:53 |
-| 42 | [Well Alright](https://open.spotify.com/track/2UrCRG6gqpsNYqTX15JO24) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [For The Cool In You](https://open.spotify.com/album/0PkkUYZMtKN25rvrt50EhX) | 4:01 |
+| 42 | [Shoulda \(feat\. Babyface\)](https://open.spotify.com/track/7tAq0hZtDzyE7KWGcRYkhS) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Painted \(Deluxe Edition\)](https://open.spotify.com/album/4tOljQq0yQqk6KaWRmAwua) | 3:37 |
 | 43 | [Talk To Me](https://open.spotify.com/track/13cBk7gbzNHbCP9xdV5pmG) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [The Day](https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk) | 4:54 |
 | 44 | [Fire And Rain](https://open.spotify.com/track/1EHQIcvBr0kwsWYvVqUMG9) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Playlist](https://open.spotify.com/album/3FAdNzCY6H7I8V8TrNwFoI) | 4:59 |
 | 45 | [Roller Coaster](https://open.spotify.com/track/5o1Trj52mQcOfgiFfNEzAz) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Love, Marriage‎ & Divorce](https://open.spotify.com/album/77JvBkDfZ7r74mcQcTkdqM) | 4:23 |
 | 46 | [Outside In/Inside Out](https://open.spotify.com/track/0V4SisYseIOCuqIa1jo0Qe) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Face 2 Face](https://open.spotify.com/album/31EfLOgVsfPS4oZGBVlLRB) | 3:16 |
-| 47 | [Forever](https://open.spotify.com/track/2gk9w7ucTmkPPHlMR6jV43) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Bettie James Gold Edition](https://open.spotify.com/album/7nkRtJr1dCHcQJHUvi2Dii) | 4:09 |
-| 48 | [I Said I Love You](https://open.spotify.com/track/3psQ66oTuTZrDeixYxZclj) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [The Day](https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk) | 4:05 |
+| 47 | [I Said I Love You](https://open.spotify.com/track/3psQ66oTuTZrDeixYxZclj) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [The Day](https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk) | 4:05 |
+| 48 | [Forever](https://open.spotify.com/track/2gk9w7ucTmkPPHlMR6jV43) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Bettie James Gold Edition](https://open.spotify.com/album/7nkRtJr1dCHcQJHUvi2Dii) | 4:09 |
 | 49 | [Take It Back](https://open.spotify.com/track/3iROjO3tSP0wP9QdnIw5ep) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Love, Marriage‎ & Divorce](https://open.spotify.com/album/77JvBkDfZ7r74mcQcTkdqM) | 4:05 |
 | 50 | [Something Bout You](https://open.spotify.com/track/5r3cGlrATha1Li3bMdJrEQ) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Return Of The Tender Lover](https://open.spotify.com/album/1GnNyWpPxeqSYTF8bNWFcw) | 5:58 |
 
-Snapshot ID: `Mjc3MjIyMzMsMDAwMDAwMDBkNDk2MTM3ZDM5MGUxMGNhZDkzMjdmM2JiYzQ2MTE0NA==`
+Snapshot ID: `Mjc3MjM2OTIsMDAwMDAwMDBmZDliZTQ2ZjA2OWYwZGFjZjkzYTIzMGQ3MTQ3Y2M2NQ==`

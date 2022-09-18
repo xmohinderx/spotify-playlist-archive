@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 
 > The best in old & new Reggae\. Cover: Bob Marley.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,012,266 likes - 110 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,012,517 likes - 110 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 | 89 | [\(You Gotta Walk\) Don't Look Back \- 2002 Remaster](https://open.spotify.com/track/2vDUqLZsaEEYmREcRo9gnn) | [Peter Tosh](https://open.spotify.com/artist/0oea1hwGMfUxZbLxJc1XUN) | [Bush Doctor](https://open.spotify.com/album/0K9oJKr8cOfWfdT33y3L9b) | 5:20 |
 | 90 | [Mount Zion Medley](https://open.spotify.com/track/6vteTQH9VwU9R9Ssyt9x5n) | [Morgan Heritage](https://open.spotify.com/artist/3VV18HyGcfLTqNjSjbROA1), [Capleton](https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf), [L.M.S](https://open.spotify.com/artist/7LU2AJu0Jy2Hd0wA5973Zd), [Jah Cure](https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy), [Ras Shiloh](https://open.spotify.com/artist/6kiEmNG2akSox9EPxiX36I), [Bushman](https://open.spotify.com/artist/7LodktwOen0OBkVv3DyxMX) | [Morgan Heritage Family & Friends Vol\. 1](https://open.spotify.com/album/1ojQVmqamJnShNuqZI3TQv) | 5:57 |
 | 91 | [Never Find](https://open.spotify.com/track/0lrY5x74InbSUqH93mI1K3) | [Jah Cure](https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy) | [Don Corleon Presents \- Changes Riddim](https://open.spotify.com/album/6SXfwsj0EgY6HvUdi0mY98) | 3:27 |
-| 92 | [Pressure Drop](https://open.spotify.com/track/1QtWWUzwEGwpJlDRmpOSEg) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Sweet and Dandy](https://open.spotify.com/album/6sn6gS4YnlAbxzetlJsUxQ) | 2:57 |
-| 93 | [True Love](https://open.spotify.com/track/1rNVWAPDh9YZbjjTRY9ibt) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [True Love](https://open.spotify.com/album/6cFEBbV5uWZXhLAzBLRQpT) | 3:26 |
+| 92 | [True Love](https://open.spotify.com/track/1rNVWAPDh9YZbjjTRY9ibt) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [True Love](https://open.spotify.com/album/6cFEBbV5uWZXhLAzBLRQpT) | 3:26 |
+| 93 | [Pressure Drop](https://open.spotify.com/track/1QtWWUzwEGwpJlDRmpOSEg) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Sweet and Dandy](https://open.spotify.com/album/6sn6gS4YnlAbxzetlJsUxQ) | 2:57 |
 | 94 | [Zungguzungguguzungguzeng](https://open.spotify.com/track/4czopM9AcLjrH4IunzRoBg) | [Yellowman](https://open.spotify.com/artist/6yTNMMqumesCWhMJ47HB2a) | [Most Wanted Series \- Yellowman](https://open.spotify.com/album/7nPRCptBHN7td5mKb6ON3N) | 6:27 |
 | 95 | [Everything I Own \- 7" Mix](https://open.spotify.com/track/6om52tevyqVMvl1mWTtKPM) | [Ken Boothe](https://open.spotify.com/artist/6jg1EbpTL27toPdfzveorJ) | [Everything I Own](https://open.spotify.com/album/510G90X1Ckki9sTPdwwYDW) | 3:44 |
 | 96 | [Smile Jamaica](https://open.spotify.com/track/7KhQx2EJaZIPGsbMAjf4jg) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Chronology](https://open.spotify.com/album/1w71axmi9UJfsKCdEqGdNm) | 3:33 |
 | 97 | [Jah Army](https://open.spotify.com/track/4MAadSz8azCoDgBNX27f0Z) | [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1), [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi), [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Revelation Part 1: The Root Of Life](https://open.spotify.com/album/3tRUM2HJcrvRzwQCDRUS73) | 4:43 |
-| 98 | [The International Herb](https://open.spotify.com/track/0GGPUysb8GpCG76dQH63te) | [Culture](https://open.spotify.com/artist/4DbtUTi2WsBNdruAZL2pNz) | [Too Long In Slavery](https://open.spotify.com/album/0NZmEygtcOVC9ulZ9FxuvJ) | 3:20 |
-| 99 | [Where I'm Coming From](https://open.spotify.com/track/2jQENRPVxXb8TcTAXW6wpQ) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [The ExPerience](https://open.spotify.com/album/3fijbBVRaz2CUyoWAV1ZlK) | 4:03 |
+| 98 | [Where I'm Coming From](https://open.spotify.com/track/2jQENRPVxXb8TcTAXW6wpQ) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [The ExPerience](https://open.spotify.com/album/3fijbBVRaz2CUyoWAV1ZlK) | 4:03 |
+| 99 | [The International Herb](https://open.spotify.com/track/0GGPUysb8GpCG76dQH63te) | [Culture](https://open.spotify.com/artist/4DbtUTi2WsBNdruAZL2pNz) | [Too Long In Slavery](https://open.spotify.com/album/0NZmEygtcOVC9ulZ9FxuvJ) | 3:20 |
 | 100 | [Can't Breathe \(Genius T Remix\)](https://open.spotify.com/track/1MmSKeGyQtsw01TZ4P2AaQ) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Can't Breathe \(Genius T Remix\)](https://open.spotify.com/album/6Z1RymNPBPYeamjtuAergh) | 3:22 |
 | 101 | [Handsworth Revolution](https://open.spotify.com/track/54cMaPPTAoC57ZgnMTJKHM) | [Steel Pulse](https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g) | [Reggae Greats](https://open.spotify.com/album/61RLzpGAy4BrIQoEiHXGXA) | 5:22 |
 | 102 | [Murderer](https://open.spotify.com/track/3H9VcVDIdfgjZRj8Surw6s) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | ['Til Shiloh \(25th Anniversary Edition\)](https://open.spotify.com/album/44TzM9HNKi898wWhkH8FNu) | 3:57 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 | 109 | [Natty Rebel](https://open.spotify.com/track/0OXqjgWApWQvuZcWTjmhxS) | [U\-Roy](https://open.spotify.com/artist/4aCH6cwaYahrWfJWqfEfra) | [Original DJ](https://open.spotify.com/album/7Iw3KC16M6S0LJlrcfrlrF) | 3:24 |
 | 110 | [Love Alone](https://open.spotify.com/track/4ieXbToMBt4Cy0MU6Lf3av) | [Tarrus Riley](https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c), [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Love Alone](https://open.spotify.com/album/0MlJXgZuqRWqCXyY2qRDqM) | 3:29 |
 
-Snapshot ID: `MTY2MzMxNzAwMywwMDAwMDAwMDMyMTA3MGE2NWQ3MTAxYTZlZjNiNjkzNGFlNWY2ZDI3`
+Snapshot ID: `MTY2MzMxNzAwMywwMDAwMDAwMDUyMGU1MGYxZGVlMzNmMDZlYjYxYTUwMWFjNjAyNDE4`

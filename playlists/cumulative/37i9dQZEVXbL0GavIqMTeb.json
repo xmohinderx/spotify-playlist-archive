@@ -1343,7 +1343,7 @@
       ],
       "date_added": "2021-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-09-22",
+      "date_removed": null,
       "duration_ms": 112373,
       "name": "Chicha de Curacav\u00ed",
       "url": "https://open.spotify.com/track/7Ds48ZCIjmcWWuCeqoDOOO"
@@ -1537,7 +1537,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 112572,
       "name": "c\u00f3mo dormiste?",
       "url": "https://open.spotify.com/track/3fjN3y5x4hN53rykAN2LHQ"
@@ -1819,7 +1819,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 224996,
       "name": "Desesperados",
       "url": "https://open.spotify.com/track/6mmPpaltUZK7xjNlBPQQ0p"
@@ -3737,8 +3737,8 @@
       ],
       "date_added": "2021-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-09-21",
-      "duration_ms": 163253,
+      "date_removed": null,
+      "duration_ms": 163282,
       "name": "La Consentida",
       "url": "https://open.spotify.com/track/1lm6LUpH5muKFa2voR3Hyf"
     },
@@ -4411,6 +4411,24 @@
       "duration_ms": 144018,
       "name": "Linda",
       "url": "https://open.spotify.com/track/1ahCrpeTt94LL7y1aXw0Y8"
+    },
+    {
+      "album": {
+        "name": "Los Chamantos de Mi Chile",
+        "url": "https://open.spotify.com/album/5QH7qkMGGb849aPyre7eY0"
+      },
+      "artists": [
+        {
+          "name": "Maihuen de los Angeles",
+          "url": "https://open.spotify.com/artist/4vkOLg1AyJgDqF9xwLsgXR"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131106,
+      "name": "Llorando Ausencia",
+      "url": "https://open.spotify.com/track/1ezJWENT2n38OdTECy1v6r"
     },
     {
       "album": {
@@ -5101,7 +5119,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 195348,
       "name": "Mercedes Tintia",
       "url": "https://open.spotify.com/track/6e9Ew4AECYwY5Xgs2ZKMgp"
@@ -7633,7 +7651,7 @@
       ],
       "date_added": "2022-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 197792,
       "name": "SEXTIME",
       "url": "https://open.spotify.com/track/2kEuOngY5Td8iGxnzl8vPr"
@@ -7975,6 +7993,28 @@
       "duration_ms": 141805,
       "name": "STAY (with Justin Bieber)",
       "url": "https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX"
+    },
+    {
+      "album": {
+        "name": "Suburban",
+        "url": "https://open.spotify.com/album/3IoGxeq3iYqDQzRsFtSG66"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        },
+        {
+          "name": "Jory Boy",
+          "url": "https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197145,
+      "name": "Suburban",
+      "url": "https://open.spotify.com/track/5N2lj5JJwYP5ggwYcESoHp"
     },
     {
       "album": {
@@ -8895,7 +8935,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-13",
+      "date_removed": null,
       "duration_ms": 119106,
       "name": "V16",
       "url": "https://open.spotify.com/track/1FwZHWFat13A1XookoEtI3"
@@ -8913,7 +8953,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 119106,
       "name": "V16",
       "url": "https://open.spotify.com/track/2QX7eHuJcD64acIvmBQeC7"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ofUCE5KJAn.md) - [plain]
 
 > Un surtido rico de canciones con sabor a México.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,916 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,851 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ofUCE5KJAn.md) - [plain]
 | 96 | [No Me Hablen de Amor](https://open.spotify.com/track/03zaQokPmEiYjrLFl9NAK6) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [A la Medida](https://open.spotify.com/album/6efOKRzidSTHQXjUyHmCM4) | 3:09 |
 | 97 | [Jalo](https://open.spotify.com/track/7b6XzXDscAvlxofcXveZIz) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Jalo](https://open.spotify.com/album/5ItVyjlKmm3vm9bJUBgKPc) | 2:25 |
 | 98 | [Los Caminos de la Vida \- Spotify Singles](https://open.spotify.com/track/0LPcBW66vudTxR0HcauKNy) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Los Caminos de la Vida \(Spotify Singles\)](https://open.spotify.com/album/1GdDkx6ATOjvmbi7AYDtq5) | 5:28 |
-| 99 | [La Picare](https://open.spotify.com/track/3ymkBiqugciORjivytO221) | [Alameños de la Sierra](https://open.spotify.com/artist/4C9L4xjlVFB6lsA9v3EfUh) | [El Tropezon](https://open.spotify.com/album/3kksc8gfXJXjJ43YGlYwcQ) | 4:20 |
-| 100 | [Te vez Buena](https://open.spotify.com/track/0GzOtepkwolnl5WrDv61ys) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [De Parranda Lives Vol\. 5](https://open.spotify.com/album/1JsM9bGRvLyZvZbALOFj3E) | 4:12 |
+| 99 | [Te vez Buena](https://open.spotify.com/track/0GzOtepkwolnl5WrDv61ys) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [De Parranda Lives Vol\. 5](https://open.spotify.com/album/1JsM9bGRvLyZvZbALOFj3E) | 4:12 |
+| 100 | [Soñador Eterno](https://open.spotify.com/track/3mPcFoFfDb5r6WkbIFQKqa) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Amanecida Con Todo y Con Todos](https://open.spotify.com/album/21EdAKCODBRv3OSIEHSYUa) | 3:13 |
 
-Snapshot ID: `MTY2MzAxMDM1MCwwMDAwMDAwMGFiYTBlM2VhMWZjMWE3ZTRhYzVkOWI5NTlmYjg0MzA0`
+Snapshot ID: `MTY2MzAxMDM1MCwwMDAwMDAwMDQ5YmNjMWVmM2I4MjE1MjIxY2EzNTA3YTc5MzU1MGMw`

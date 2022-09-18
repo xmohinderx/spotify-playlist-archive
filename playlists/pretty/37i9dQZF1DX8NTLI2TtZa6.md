@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NTLI2TtZa6.md) - [plain]
 
 > Focus\-enhancing piano for your study session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,391,792 likes - 202 songs - 8 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,391,976 likes - 202 songs - 8 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -157,7 +157,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NTLI2TtZa6.md) - [plain]
 | 147 | [Leaf To Leaf](https://open.spotify.com/track/4RDQIAeLFsElt58FvN4m6B) | [Hearth Mason](https://open.spotify.com/artist/5AOB5inMqu92bUZuE6q9L7) | [Leaf To Leaf](https://open.spotify.com/album/0qUdp5c99oFrf8WZ47HUYz) | 2:26 |
 | 148 | [Glendale Walk](https://open.spotify.com/track/30bKGGrB4CdUU1FrhDbjE8) | [Pontiver Bogross](https://open.spotify.com/artist/3dlALRQ5FDfoMDLFkzwhcw) | [Glendale Walk](https://open.spotify.com/album/5foJvhdGbJtArvZjVzl7ER) | 3:07 |
 | 149 | [Raindrops](https://open.spotify.com/track/6BMcMtb9M5yqelouZZaOPd) | [Jørg Sorensen](https://open.spotify.com/artist/4nmvmUQiWmoz5AsRoxW41b) | [Raindrops](https://open.spotify.com/album/1UMYLTMDLsVBXY8VfaYPpt) | 2:21 |
-| 150 | [Simpler Times](https://open.spotify.com/track/5KDRSRRS88uL8RUDXYPZ0r) | [Christopher J\. Richardson](https://open.spotify.com/artist/3z56CNr5ke5G6zUf0FKgAf) | [Simpler Times](https://open.spotify.com/album/2mGe8l7Z7w3t6d0488EJnn) | 2:21 |
+| 150 | [Simpler Times](https://open.spotify.com/track/6RTgk5dsupZSeji1jh4zyB) | [Christopher J\. Richardson](https://open.spotify.com/artist/3z56CNr5ke5G6zUf0FKgAf) | [Piano Music](https://open.spotify.com/album/01vBc9RVqwgUpsgI8qRWhY) | 2:21 |
 | 151 | [Im Garten nebenan](https://open.spotify.com/track/0WejQfspUvVEOQO9iRBwMJ) | [Julian Friedrich](https://open.spotify.com/artist/2XO8vo43M9GoHmXZelYzEH) | [Oetztal](https://open.spotify.com/album/1zlu9qu9ly6elFZPROt9CX) | 2:42 |
 | 152 | [Eclectism](https://open.spotify.com/track/32SgWxCokUcQ6jGIzSIlbR) | [Thomas Preber](https://open.spotify.com/artist/69HZUsV2eMEw0ka0BQTZ79) | [Eclectism](https://open.spotify.com/album/6WBv2p7ixzRHdzApg88XEJ) | 2:53 |
 | 153 | [when softness lifted us](https://open.spotify.com/track/4YJFGtMJbQsPtBFNaLVJVy) | [Philip Daniel](https://open.spotify.com/artist/58erVRK8N3stJghsvYAFq5) | [when softness lifted us](https://open.spotify.com/album/7gKhonZ8cfp8AuuCXVWflm) | 2:41 |
@@ -211,4 +211,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NTLI2TtZa6.md) - [plain]
 | 201 | [Feuilles d'automne](https://open.spotify.com/track/0C2q5FBAGtuFopEx96ayCf) | [Charlot Bélair](https://open.spotify.com/artist/33MLQAjjWBxjLKXjsK7Nmd) | [Feuilles d'automne](https://open.spotify.com/album/0H24clOadhqXC56cb9bgbQ) | 2:09 |
 | 202 | [Vitality](https://open.spotify.com/track/10tC4GQIfS6saBeCfXda1h) | [Jamie Troy](https://open.spotify.com/artist/6NJWSp0xcJQQPzR375b8B3) | [Vitality](https://open.spotify.com/album/5FciHHdDCIuNUnI1jt24nr) | 2:06 |
 
-Snapshot ID: `MTY2MDAzODcxMiwwMDAwMDAwMDAzYjMwZjJjYTgwMmM1ZjUwNjk1OTE3MTc2NTA3ZjYz`
+Snapshot ID: `MTY2MDAzODcxMiwwMDAwMDAwMDgwYWI0NWQ5YzFlMmY4YWUxYWU1NTUyMjY0NzI1MmJk`

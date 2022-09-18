@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 
 > Emerging sounds in worship from everywhere.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,723 likes - 130 songs - 11 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,785 likes - 130 songs - 11 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,8 +128,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 | 118 | [Only Name](https://open.spotify.com/track/33ziB3AK9v2qYG4cw6D9lC) | [Bridge Worship](https://open.spotify.com/artist/3VJPZ0Lo0RreJboEogQsnK) | [Only Name](https://open.spotify.com/album/6UAzdz88by4X8abruMu5OC) | 5:12 |
 | 119 | [Holy Holy Here With Me \- Live](https://open.spotify.com/track/6cHrjNno45mngfOIm2BGpn) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Kirby Kaple](https://open.spotify.com/artist/54P5WwDNRFfSzPEZ7p6Io1) | [Holy Holy Here With Me \(Live\)](https://open.spotify.com/album/68TklNlinz7o8hKvHc8YxL) | 4:57 |
 | 120 | [Great Things](https://open.spotify.com/track/4wd6H46YrbJYKe7BDBlyp6) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Great Things](https://open.spotify.com/album/2VJsEhYrPJQFaKngGVCj3M) | 4:49 |
-| 121 | [Both Sides](https://open.spotify.com/track/0cLkp9J7Mh6GNUnbiCU1SJ) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV) | [Altars](https://open.spotify.com/album/3ODMG0dAX0ALnDlU7s7aes) | 5:21 |
-| 122 | [Before You](https://open.spotify.com/track/6TWmB3zYyVdrjm3aw5dja6) | [Jonathan Turner](https://open.spotify.com/artist/2UN7nXiNisIAnnun9WZ1qJ) | [Before You](https://open.spotify.com/album/0HvqVeEVR7YpKJKHI6xELE) | 4:21 |
+| 121 | [Before You](https://open.spotify.com/track/6TWmB3zYyVdrjm3aw5dja6) | [Jonathan Turner](https://open.spotify.com/artist/2UN7nXiNisIAnnun9WZ1qJ) | [Before You](https://open.spotify.com/album/0HvqVeEVR7YpKJKHI6xELE) | 4:21 |
+| 122 | [Both Sides](https://open.spotify.com/track/0cLkp9J7Mh6GNUnbiCU1SJ) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV) | [Altars](https://open.spotify.com/album/3ODMG0dAX0ALnDlU7s7aes) | 5:21 |
 | 123 | [The Blessing \(feat\. Maranda Curtis\) \- Song Session](https://open.spotify.com/track/0bicWqcGF8HXaaBB1HqnxR) | [Melvin Crispell III](https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK), [Essential Worship](https://open.spotify.com/artist/5ovBCDCRU118CMxJ1KpAOw), [Maranda Curtis](https://open.spotify.com/artist/28BlrKFyTd2woqU7ai8502) | [The Blessing \(feat\. Maranda Curtis\) \[Song Session\]](https://open.spotify.com/album/6AEDBghw44SvpsiMjDctNo) | 6:49 |
 | 124 | [In Jesus' Name \(Live\)](https://open.spotify.com/track/5JBYldd09xjzZIsu9X3t9Q) | [Valley Creek Worship](https://open.spotify.com/artist/4GoGTYcqE23Z7lqCkOM88h) | [In Jesus' Name \(Live\)](https://open.spotify.com/album/1E8yazEoEa7ASwZWjMWU0Q) | 6:02 |
 | 125 | [Beyond](https://open.spotify.com/track/0md6zrFb7nhh9Gxr2hdUuo) | [Motion Worship](https://open.spotify.com/artist/4ghDIHGoTSl97sUXTjUQ1m) | [Beyond](https://open.spotify.com/album/145V4EnRdnOBPsRcuDTgrd) | 5:20 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 | 129 | [As For Me & My House \- Live](https://open.spotify.com/track/3lE1SQufZYWiTeHjjaOavK) | [Austin & Lindsey Adamec](https://open.spotify.com/artist/4oLDDlPUpiKowrWoJLS94r) | [As For Me & My House \(Live\)](https://open.spotify.com/album/7CjoBA22aQrRU51iirDwCJ) | 5:21 |
 | 130 | [Nothing Matters More](https://open.spotify.com/track/7vCZQQlgKsQHJy8avGc7Pv) | [Crossway Worship](https://open.spotify.com/artist/217QaUTO2AttBXvVwS9N88) | [Nothing Matters More](https://open.spotify.com/album/2HOe9HRQyxXeJnxZLgGy7N) | 4:36 |
 
-Snapshot ID: `MTYyMzQ3MDQ0MCwwMDAwMDAwMDIzZjJhOGNiOWIxNDQwZTkxZTBhZTM2MTVjMGQ0NjY4`
+Snapshot ID: `MTYyMzQ3MDQ0MCwwMDAwMDAwMDhiNDk0YWRlOTYyNDBkYzk0NmIyYWU1MmUzN2Y1OTA2`

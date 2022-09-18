@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 
 > Cantoras y compositoras de nuestra tierra, con Sele Vera en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,901 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,921 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 | 13 | [El Antigal](https://open.spotify.com/track/32CIU2BQzqyWAChePiMiu1) | [Daniela Toro](https://open.spotify.com/artist/0UcY9AtRAa1rSQBaUoiLau) | [Alma Andina](https://open.spotify.com/album/78b7ydPgTanHedDDZ4pqIZ) | 4:18 |
 | 14 | [El Círculo](https://open.spotify.com/track/50x9Hu5ylmkhpOXnUsH33X) | [Georgina Hassan](https://open.spotify.com/artist/5mFd5W4knpaQflS9IsNnSZ), [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Primera Luna](https://open.spotify.com/album/5TmC4Vf0Gsmoccfi4UQibs) | 3:25 |
 | 15 | [Doña Ubenza](https://open.spotify.com/track/1ca4mFvkjGHuu40zFzx5df) | [Mariana Carrizo](https://open.spotify.com/artist/4CacTDAcLCUIscmGzoQE4z) | [Coplas de Sangre, Vol\. 5](https://open.spotify.com/album/5wExPCVbkoPAJWYj3O8yXK) | 3:28 |
-| 16 | [Jujuy Mujer](https://open.spotify.com/track/4tEpS58KfHWzvRCchFktCT) | [Milena Salamanca](https://open.spotify.com/artist/0gEntoAjPckYFid9Mxw6Y2) | [K'arallanta](https://open.spotify.com/album/5Hh7brIrWNPeoZyXUIXH61) | 4:54 |
+| 16 | [Chacarera Pal Trichaco](https://open.spotify.com/track/5Kz1mW7iVOBpbohYaj1Hpl) | [Alma Chaqueña](https://open.spotify.com/artist/3fPh0oV5t5u5MzfAHOT1iD) | [Hasta El Cielo Mi Alma](https://open.spotify.com/album/6ZwSnSepuxFOPT8P571oW4) | 2:24 |
 | 17 | [Lo Intentamos](https://open.spotify.com/track/62pEsS5D4lYkkBRyhDxKRN) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Grandes Éxitos](https://open.spotify.com/album/1dRVRm0ZCt2OVx1Tg805HU) | 4:01 |
-| 18 | [Chacarera Pal Trichaco](https://open.spotify.com/track/5Kz1mW7iVOBpbohYaj1Hpl) | [Alma Chaqueña](https://open.spotify.com/artist/3fPh0oV5t5u5MzfAHOT1iD) | [Hasta El Cielo Mi Alma](https://open.spotify.com/album/6ZwSnSepuxFOPT8P571oW4) | 2:24 |
+| 18 | [Jujuy Mujer](https://open.spotify.com/track/4tEpS58KfHWzvRCchFktCT) | [Milena Salamanca](https://open.spotify.com/artist/0gEntoAjPckYFid9Mxw6Y2) | [K'arallanta](https://open.spotify.com/album/5Hh7brIrWNPeoZyXUIXH61) | 4:54 |
 | 19 | [La Guada](https://open.spotify.com/track/5p62JsJMyb0qgHoPtNBZZ7) | [Mariana Baraj](https://open.spotify.com/artist/3kNByUYht34hI6ugWqMtCq) | [Churita](https://open.spotify.com/album/7pgzkHyoKg2QDTOiVG7j7e) | 3:03 |
 | 20 | [Amor del Monte](https://open.spotify.com/track/23BlW00INye3PrZl18b1uT) | [Flor Paz](https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26) | [Despertar](https://open.spotify.com/album/3wzVIA9ktCBYnUFXr3XAl8) | 2:36 |
 | 21 | [Amor en Zamba](https://open.spotify.com/track/1NhkAYwOuw8I2jAPlTL1vK) | [Carolina Centurión](https://open.spotify.com/artist/1BwJfy91G91JVvEVM2DEnS) | [Amor en Zamba](https://open.spotify.com/album/1ekZoZ4lCQMBATHusbg5Cz) | 4:23 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 | 59 | [Amiga Tierra Querida](https://open.spotify.com/track/2ajI1Zeed4VA6l8h5bXQkD) | [Las Cullen](https://open.spotify.com/artist/3aqZ7IEX7kdnBfr08TvMHf) | [Ruta 9](https://open.spotify.com/album/6PmRqkGtEiJEoGgvrboqgy) | 3:18 |
 | 60 | [Zamba del Laurel](https://open.spotify.com/track/2YywgUYPha9xvoCJo7b45d) | [Lorena Astudillo](https://open.spotify.com/artist/0r10toqQZwzicT4CjvWM0Y) | [El Cuchi de Camara](https://open.spotify.com/album/6qP16r1SaOUcpg8NlBTkAB) | 5:20 |
 | 61 | [Viene Clareando](https://open.spotify.com/track/5onyMHGezH0TMyteYNvUC7) | [Leda Valladares](https://open.spotify.com/artist/32frwpljz9gxJhNZRfkZ34), [María Elena Walsh](https://open.spotify.com/artist/5gMEZRCMq0gWA3kuCPukEk) | [Entre Valles y Quebradas](https://open.spotify.com/album/0coa9J1NYoBF0Haywcf17A) | 3:31 |
-| 62 | [La Noche Sin Ti](https://open.spotify.com/track/2u6BZDzWCs4OLcneXXaJjh) | [Mariel Trimaglio](https://open.spotify.com/artist/2S6kkn26CPRWCsBoY6L1Bu) | [La Noche Sin Ti](https://open.spotify.com/album/5WUPK5lwWj0QSSorIl3cOU) | 4:44 |
-| 63 | [Mi Cultura La Copla](https://open.spotify.com/track/2OuN858EC6856a16wvEIzP) | [Tremor](https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD), [Micaela Chauque](https://open.spotify.com/artist/6kXy0aOhcZi7ee7NIQmKFX) | [Mi Cultura La Copla](https://open.spotify.com/album/3u5xsefVehP9h9sKzxmHbk) | 2:33 |
+| 62 | [Mi Cultura La Copla](https://open.spotify.com/track/2OuN858EC6856a16wvEIzP) | [Tremor](https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD), [Micaela Chauque](https://open.spotify.com/artist/6kXy0aOhcZi7ee7NIQmKFX) | [Mi Cultura La Copla](https://open.spotify.com/album/3u5xsefVehP9h9sKzxmHbk) | 2:33 |
+| 63 | [La Noche Sin Ti](https://open.spotify.com/track/2u6BZDzWCs4OLcneXXaJjh) | [Mariel Trimaglio](https://open.spotify.com/artist/2S6kkn26CPRWCsBoY6L1Bu) | [La Noche Sin Ti](https://open.spotify.com/album/5WUPK5lwWj0QSSorIl3cOU) | 4:44 |
 | 64 | [Mate Con Cedrón](https://open.spotify.com/track/1leD3TsB3nNofcOwqHQHnG) | [Marité Berbel](https://open.spotify.com/artist/36qkmiSQko9dzUPJXFKueU) | [Sigo Soñando](https://open.spotify.com/album/55OtrniFRuCVB1rh7rxDnA) | 2:50 |
 | 65 | [Mba e Pa Doña Froilana](https://open.spotify.com/track/0yNZHoLmY5WsgPzUGmiMup) | [Luna Monti y Juan Quintero](https://open.spotify.com/artist/0YWHXy7l36hWrQLNhdSgBB) | [Después de Usted](https://open.spotify.com/album/6m1BrttDZNDyfErOjSTmdF) | 2:33 |
 | 66 | [Bendiciones](https://open.spotify.com/track/1MGO5YkUubhzJnHiqyZtQI) | [Sandra Mihanovich](https://open.spotify.com/artist/34wPpdJXRno0eRFI5IAOYh), [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Bendiciones](https://open.spotify.com/album/3Pb6traoS9aDEFhhpviZFl) | 3:30 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 | 72 | [Volverè Siempre a San Juan](https://open.spotify.com/track/3S9Z0cuE5E6po46Mej4Yui) | [Claudia Pirán](https://open.spotify.com/artist/51SK2K3KAlKxpGzc8zja7P) | [Pasaje al Corazón](https://open.spotify.com/album/5mDREF3d8nq1k3PGEs4IZc) | 3:31 |
 | 73 | [Cuando vuelva a encontrarte](https://open.spotify.com/track/3rCX9nWMuNlpILaIo8otaL) | [Mili Escudero y Agus Solá](https://open.spotify.com/artist/5NSSu93FUTCN93dple5WbU) | [Cuando Vuelva a encontrarte](https://open.spotify.com/album/6QOXVaBClkF46LEXMIaGnW) | 2:31 |
 | 74 | [La de los Humildes](https://open.spotify.com/track/2xoJstLwBDTtczvKUI6F7A) | [Nadia Larcher](https://open.spotify.com/artist/7qCEjoCmUjJ0F8ACB0WUX5) | [Armando Tejada Gómez](https://open.spotify.com/album/6hYlxzIksLuMOyDGK4yx9c) | 4:29 |
-| 75 | [Distinto](https://open.spotify.com/track/3VtRTDL0ecFzROdU4IQ6cD) | [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK) | [Distinto](https://open.spotify.com/album/1UL1AsHbjRw2Wu8hASGPfP) | 3:46 |
+| 75 | [Astilla de Tus Montes](https://open.spotify.com/track/1oyglyKvUdZflbmHMqpX0b) | [Rocío Sanjurjo Abalos](https://open.spotify.com/artist/6jBoGQrIq53YHEI7nnaqr5), [Darío Barozzi](https://open.spotify.com/artist/7wWcoNAI3kXg6vBcVYV74Z) | [Anidar](https://open.spotify.com/album/59qJErVdXwuD3ywHTZa7uD) | 2:36 |
 
-Snapshot ID: `MTY2MjQ3OTQ4NywwMDAwMDAwMDg3NzE3OGRhMzkwYTJmMjI3OTcxM2U4OTcxMGMxYmUw`
+Snapshot ID: `MTY2MjQ3OTQ4NywwMDAwMDAwMGM5YjkzMWIyYzMzOWY3MjU1ZjZhZWMyMWE4YTkzOTBj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcf57PJZ9901.md) - [plain]
 
 > The best soft rock from the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,449 likes - 70 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,553 likes - 70 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcf57PJZ9901.md) - [plain]
 | 35 | [Fallingforyou](https://open.spotify.com/track/2TgxCUZdHFkPEVmFge1OSd) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975 \(Deluxe Version\)](https://open.spotify.com/album/0mkOUedmYlOzCC4tOm2v0c) | 4:00 |
 | 36 | [A Reason to Fight](https://open.spotify.com/track/1IbaGRC0Yrovu3MP1ipf1u) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Evolution \(Deluxe Edition\)](https://open.spotify.com/album/1IpufqmucrxYUJQxf1AP0n) | 4:44 |
 | 37 | [Automobile](https://open.spotify.com/track/1bloF1LHgUVvPJLxrzxgu7) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [A/B](https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk) | 3:06 |
-| 38 | [Zombie \(Acoustic\)](https://open.spotify.com/track/4Y2bR875LdPq9JILrY2FSw) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Zombie EP](https://open.spotify.com/album/6bE4sIZ6patKzzy8qV5lOV) | 4:19 |
-| 39 | [Hallelujah](https://open.spotify.com/track/4hTg9q0AnxtH4yZKeRcMin) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Hallelujah](https://open.spotify.com/album/3KHkCXWAJANXQztdpMmKt4) | 4:43 |
+| 38 | [Hallelujah](https://open.spotify.com/track/4hTg9q0AnxtH4yZKeRcMin) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Hallelujah](https://open.spotify.com/album/3KHkCXWAJANXQztdpMmKt4) | 4:43 |
+| 39 | [Zombie \(Acoustic\)](https://open.spotify.com/track/4Y2bR875LdPq9JILrY2FSw) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Zombie EP](https://open.spotify.com/album/6bE4sIZ6patKzzy8qV5lOV) | 4:19 |
 | 40 | [Be Still](https://open.spotify.com/track/1B5tiGNcOHERcXcBHiL6Xs) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Battle Born](https://open.spotify.com/album/3bvS3DlTwV35j2qwFhDvxx) | 4:33 |
 | 41 | [Something to Remind You](https://open.spotify.com/track/4wOQ8upbW1GzHCWjPlISKP) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Staind](https://open.spotify.com/album/1lOE9VtdaX00Mp3Df6pgs3) | 4:07 |
 | 42 | [Summer Of Love](https://open.spotify.com/track/70ItvfhDJSvIpYCVQoxqEg) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Experience \(Deluxe Edition\)](https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP) | 3:24 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcf57PJZ9901.md) - [plain]
 | 69 | [Slide](https://open.spotify.com/track/0t1WPoT5kNNIyNyUbOBOsV) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Jake Bugg](https://open.spotify.com/album/6b2BArDCfSvW3VFenLJatj) | 3:08 |
 | 70 | [Wild Sun](https://open.spotify.com/track/4BfQ0lR0I0iJFS9SoExpbG) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Hope](https://open.spotify.com/album/4wIE6aAQq4GL10ae7cjZZ0) | 4:29 |
 
-Snapshot ID: `MTY1NDE3NzIzOCwwMDAwMDAwMGY1ZGI1ZGJjMGM1MzE0ZTRlYWRjMzcyNjAxYjUwZGQ1`
+Snapshot ID: `MTY1NDE3NzIzOCwwMDAwMDAwMGNmYWQ0YWI4NDRhY2QwNjgyYzhjZTJjNjY2M2RiOThj`

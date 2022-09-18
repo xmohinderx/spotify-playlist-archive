@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2c0C8Vb2IR.md) - [plain]
 
 > All new, all jazz\. Cover: Gyedu\-Blay Ambolley
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,377 likes - 40 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,438 likes - 40 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2c0C8Vb2IR.md) - [plain]
 | 29 | [The Beltline \(Atlanta\)](https://open.spotify.com/track/5EsJzH1PZMxglnkjptyg4f) | [Mike Murray](https://open.spotify.com/artist/7n1q6d8hgNc9vKJmrLfQjq) | [Destinations](https://open.spotify.com/album/0lBDhwFOyYGobIQQXo18XW) | 4:19 |
 | 30 | [Luminescence](https://open.spotify.com/track/7vkKjrbj92mEgcgbRIgA5H) | [Sam Taylor](https://open.spotify.com/artist/1hpiv1Zxz6kzvMvxw0Cbc5) | [Luminescence](https://open.spotify.com/album/5BByBymhudBpIIQy3QSgb8) | 5:57 |
 | 31 | [ZANGYO](https://open.spotify.com/track/5hqJ9w8sbwPWnZBIDsLlF9) | [oysm](https://open.spotify.com/artist/6dXAZQsIiCI1RRQ3PUfbT8) | [oshigoto\_01](https://open.spotify.com/album/4spIkI2QJ1ukkc2ZqO1v4D) | 3:41 |
-| 32 | [Oye El Carbonero](https://open.spotify.com/track/1fLUOsxzJDu2z2Hh9bt1zJ) | [Marialy Pacheco](https://open.spotify.com/artist/6C5pk86oEQTxDahuLStCt1), [Avishai Cohen](https://open.spotify.com/artist/4eSZnlfGkGfu7K3BDzbMFp) | [Oye El Carbonero](https://open.spotify.com/album/6WvliD24cWydgtEuTrWmaQ) | 6:20 |
+| 32 | [Oye El Carbonero](https://open.spotify.com/track/1fLUOsxzJDu2z2Hh9bt1zJ) | [Marialy Pacheco](https://open.spotify.com/artist/6C5pk86oEQTxDahuLStCt1), [Avishai Cohen](https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l) | [Oye El Carbonero](https://open.spotify.com/album/6WvliD24cWydgtEuTrWmaQ) | 6:20 |
 | 33 | [Mr\. KLX](https://open.spotify.com/track/4hzBHq6uqwoBuLZ09f4Iaf) | [Maciej Gołyźniak Trio](https://open.spotify.com/artist/3a9BJ8VoSBNgrTM4PugUT2), [Łukasz Korybalski](https://open.spotify.com/artist/4zT6agpBjGURArwNNDSfOA), [Zbigniew Namysłowski](https://open.spotify.com/artist/2W2XGrPdpYqu68NgNgiFlh) | [Marianna](https://open.spotify.com/album/7k0rKx07YA0PYE8itkvH1t) | 7:55 |
 | 34 | [Blue Lightnin'](https://open.spotify.com/track/4M6bj60tNEqEcVAqQx3DcV) | [Todd B](https://open.spotify.com/artist/5eQSZlOgFDKwC9YEr1YiVH) | [Blue Lightnin](https://open.spotify.com/album/1fDl16NQrewSu3q5rMwQzD) | 2:23 |
 | 35 | [Multnomah](https://open.spotify.com/track/2hPpdx0tNj9p4aPC7VCCjT) | [BrandonLee Cierley](https://open.spotify.com/artist/6TCS4quLkqSnAMbwfkKzAt) | [Multnomah](https://open.spotify.com/album/7FnBGGktqv3fv3FibluNGU) | 6:02 |

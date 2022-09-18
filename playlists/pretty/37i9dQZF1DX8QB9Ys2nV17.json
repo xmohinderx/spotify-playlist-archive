@@ -1,12 +1,12 @@
 {
   "description": "The greatest female voices in blues today. Cover: Amythyst Kiah",
-  "num_followers": 169196,
+  "num_followers": 169206,
   "original_name": "EQUAL Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njc0ODA2OSwwMDAwMDAwMGIyYjdkZjI1NDM5MDllMjQ5NjIzYmEyOTJiNzc2OTIx",
+  "snapshot_id": "MTY0Njc0ODA2OSwwMDAwMDAwMDkyNWQxNzM2YzI3MmY3ODA0NTA2NGI3M2JkNWVkMzhh",
   "tracks": [
     {
       "added_at": "2022-03-08 14:01:09",
@@ -415,22 +415,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Back To The River",
-        "url": "https://open.spotify.com/album/2VRGI6aGaoCALCJyk0dGdc"
-      },
-      "artists": [
-        {
-          "name": "Susan Tedeschi",
-          "url": "https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta"
-        }
-      ],
-      "duration_ms": 235440,
-      "name": "Back To The River",
-      "url": "https://open.spotify.com/track/2DMnCy43xnMVX2eglYtn6R"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Heavy Hearts Hard Fists",
         "url": "https://open.spotify.com/album/2nZC1XpdGBiYkIG4R5ytml"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 197640,
       "name": "Heavy Hearts Hard Fists",
       "url": "https://open.spotify.com/track/2cwGnAb2HrxnzTLxqfZnyJ"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Back To The River",
+        "url": "https://open.spotify.com/album/2VRGI6aGaoCALCJyk0dGdc"
+      },
+      "artists": [
+        {
+          "name": "Susan Tedeschi",
+          "url": "https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta"
+        }
+      ],
+      "duration_ms": 235440,
+      "name": "Back To The River",
+      "url": "https://open.spotify.com/track/2DMnCy43xnMVX2eglYtn6R"
     },
     {
       "added_at": "2022-03-08 14:01:09",

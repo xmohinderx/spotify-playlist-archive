@@ -1,12 +1,12 @@
 {
   "description": "The irresistible rhythms of Latin jazz. Cover: Tito Puente",
-  "num_followers": 476357,
+  "num_followers": 476454,
   "original_name": "Latin Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkzMDI4MCwwMDAwMDAwMGZlNGRiM2I4NDQwMmRiMTQxNTNhYzY2NjhiYjg3OGY5",
+  "snapshot_id": "MTY2MTkzMDI4MCwwMDAwMDAwMDBjMWFjZDgzYWMzYjVlMGViYjRjYTllNTNiOTMwM2Ey",
   "tracks": [
     {
       "added_at": "2022-08-31 07:18:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2022-08-31 07:18:00",
       "album": {
-        "name": "Latin Fever",
-        "url": "https://open.spotify.com/album/5LLQl89oz0vptV3tQefJv2"
-      },
-      "artists": [
-        {
-          "name": "Herbie Mann",
-          "url": "https://open.spotify.com/artist/6ycoXr0Ayd89vFUT6BOiWo"
-        }
-      ],
-      "duration_ms": 314546,
-      "name": "Batida diferente",
-      "url": "https://open.spotify.com/track/6IdTeV8TfNABByZ3bUEUV6"
-    },
-    {
-      "added_at": "2022-08-31 07:18:00",
-      "album": {
         "name": "Live in Cuba",
         "url": "https://open.spotify.com/album/2mLRfQqMxdiZSpUHnd0HKy"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 505323,
       "name": "2/3's Adventure",
       "url": "https://open.spotify.com/track/3afCxJceMqMAFYOJNFHomm"
+    },
+    {
+      "added_at": "2022-08-31 07:18:00",
+      "album": {
+        "name": "Latin Fever",
+        "url": "https://open.spotify.com/album/5LLQl89oz0vptV3tQefJv2"
+      },
+      "artists": [
+        {
+          "name": "Herbie Mann",
+          "url": "https://open.spotify.com/artist/6ycoXr0Ayd89vFUT6BOiWo"
+        }
+      ],
+      "duration_ms": 314546,
+      "name": "Batida diferente",
+      "url": "https://open.spotify.com/track/6IdTeV8TfNABByZ3bUEUV6"
     },
     {
       "added_at": "2022-08-31 07:18:00",
@@ -1223,30 +1223,6 @@
     {
       "added_at": "2022-08-31 07:18:00",
       "album": {
-        "name": "Live in Cuba",
-        "url": "https://open.spotify.com/album/2mLRfQqMxdiZSpUHnd0HKy"
-      },
-      "artists": [
-        {
-          "name": "Jazz At Lincoln Center Orchestra",
-          "url": "https://open.spotify.com/artist/6MnWA8xVW1sEzV9s7wXpQb"
-        },
-        {
-          "name": "Wynton Marsalis",
-          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
-        },
-        {
-          "name": "Bobby Carcass\u00e9s",
-          "url": "https://open.spotify.com/artist/4BAKEaWo1QMgIC32SAmJJT"
-        }
-      ],
-      "duration_ms": 417302,
-      "name": "Como Fue (feat. Bobby Carcass\u00e9s)",
-      "url": "https://open.spotify.com/track/23DTCcj8R5BHYgsprq5ngD"
-    },
-    {
-      "added_at": "2022-08-31 07:18:00",
-      "album": {
         "name": "Dreams in Transition",
         "url": "https://open.spotify.com/album/75pe3vO6xqrfOU1UW8e9f5"
       },
@@ -1271,6 +1247,30 @@
       "duration_ms": 417078,
       "name": "Dreams in Transition",
       "url": "https://open.spotify.com/track/3bMcZO6wcvyJDWS3529YSC"
+    },
+    {
+      "added_at": "2022-08-31 07:18:00",
+      "album": {
+        "name": "Live in Cuba",
+        "url": "https://open.spotify.com/album/2mLRfQqMxdiZSpUHnd0HKy"
+      },
+      "artists": [
+        {
+          "name": "Jazz At Lincoln Center Orchestra",
+          "url": "https://open.spotify.com/artist/6MnWA8xVW1sEzV9s7wXpQb"
+        },
+        {
+          "name": "Wynton Marsalis",
+          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
+        },
+        {
+          "name": "Bobby Carcass\u00e9s",
+          "url": "https://open.spotify.com/artist/4BAKEaWo1QMgIC32SAmJJT"
+        }
+      ],
+      "duration_ms": 417302,
+      "name": "Como Fue (feat. Bobby Carcass\u00e9s)",
+      "url": "https://open.spotify.com/track/23DTCcj8R5BHYgsprq5ngD"
     },
     {
       "added_at": "2022-08-31 07:18:00",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2022-08-31 07:18:00",
       "album": {
-        "name": "El Suelo Mio",
-        "url": "https://open.spotify.com/album/3wYZp4aSYfIAA2bVZzTdq4"
-      },
-      "artists": [
-        {
-          "name": "Jorge Roeder",
-          "url": "https://open.spotify.com/artist/7uPwzRdNGh9MT4bY9QsW6x"
-        }
-      ],
-      "duration_ms": 209760,
-      "name": "El Suelo Mio",
-      "url": "https://open.spotify.com/track/4C3nxAQpqNoCTQat7Wdy4t"
-    },
-    {
-      "added_at": "2022-08-31 07:18:00",
-      "album": {
         "name": "Yo Soy El Bolero: Tito Rodr\u00edguez, Vol. 2 (Remastered)",
         "url": "https://open.spotify.com/album/2Gxu3rkNjFUrMqodF5yzeS"
       },
@@ -1595,6 +1579,22 @@
     {
       "added_at": "2022-08-31 07:18:00",
       "album": {
+        "name": "El Suelo Mio",
+        "url": "https://open.spotify.com/album/3wYZp4aSYfIAA2bVZzTdq4"
+      },
+      "artists": [
+        {
+          "name": "Jorge Roeder",
+          "url": "https://open.spotify.com/artist/7uPwzRdNGh9MT4bY9QsW6x"
+        }
+      ],
+      "duration_ms": 209760,
+      "name": "El Suelo Mio",
+      "url": "https://open.spotify.com/track/4C3nxAQpqNoCTQat7Wdy4t"
+    },
+    {
+      "added_at": "2022-08-31 07:18:00",
+      "album": {
         "name": "The Bronx Pyramid",
         "url": "https://open.spotify.com/album/3tzUc7mPAuBZCWAM28Ithw"
       },
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2022-08-31 07:18:00",
       "album": {
-        "name": "Too Late Now",
-        "url": "https://open.spotify.com/album/0a4KBsjEsOeqeEFzQW8rhy"
-      },
-      "artists": [
-        {
-          "name": "Cal Tjader",
-          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
-        }
-      ],
-      "duration_ms": 165933,
-      "name": "Mambo Sangria",
-      "url": "https://open.spotify.com/track/5M80uFtSW98fR3ykhjGPyd"
-    },
-    {
-      "added_at": "2022-08-31 07:18:00",
-      "album": {
         "name": "Juntos para Siempre",
         "url": "https://open.spotify.com/album/3y4OdF00cUvKDi8QW0eS76"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 209813,
       "name": "Son de la Loma",
       "url": "https://open.spotify.com/track/7K9t3K9SLBzV1HhVYhmXuz"
+    },
+    {
+      "added_at": "2022-08-31 07:18:00",
+      "album": {
+        "name": "Too Late Now",
+        "url": "https://open.spotify.com/album/0a4KBsjEsOeqeEFzQW8rhy"
+      },
+      "artists": [
+        {
+          "name": "Cal Tjader",
+          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
+        }
+      ],
+      "duration_ms": 165933,
+      "name": "Mambo Sangria",
+      "url": "https://open.spotify.com/track/5M80uFtSW98fR3ykhjGPyd"
     },
     {
       "added_at": "2022-08-31 07:18:00",
@@ -1703,30 +1703,6 @@
     {
       "added_at": "2022-08-31 07:18:00",
       "album": {
-        "name": "Tr\u00edo Oriental",
-        "url": "https://open.spotify.com/album/2xxEkQlYyJCe36tOWKUfUX"
-      },
-      "artists": [
-        {
-          "name": "Hugo Fattoruso",
-          "url": "https://open.spotify.com/artist/6QDyLE9MsKNhEwDcgd86F9"
-        },
-        {
-          "name": "Daniel Maza",
-          "url": "https://open.spotify.com/artist/5TI8IZa6vgPAcb8wuMZfN7"
-        },
-        {
-          "name": "Fabi\u00e1n Miodownik",
-          "url": "https://open.spotify.com/artist/0id6cJE1cdObojEVJ8K5ym"
-        }
-      ],
-      "duration_ms": 130346,
-      "name": "La Explicaci\u00f3n",
-      "url": "https://open.spotify.com/track/2HlWEGp5Hefb38uuwEL4dI"
-    },
-    {
-      "added_at": "2022-08-31 07:18:00",
-      "album": {
         "name": "Una Noche Con Rub\u00e9n Blades",
         "url": "https://open.spotify.com/album/3iptT1nxZTR7fX4Cf8KHbJ"
       },
@@ -1747,6 +1723,30 @@
       "duration_ms": 468849,
       "name": "Sin Tu Carin\u0303o",
       "url": "https://open.spotify.com/track/1apn8sck6eZb3zvw6f4vKh"
+    },
+    {
+      "added_at": "2022-08-31 07:18:00",
+      "album": {
+        "name": "Tr\u00edo Oriental",
+        "url": "https://open.spotify.com/album/2xxEkQlYyJCe36tOWKUfUX"
+      },
+      "artists": [
+        {
+          "name": "Hugo Fattoruso",
+          "url": "https://open.spotify.com/artist/6QDyLE9MsKNhEwDcgd86F9"
+        },
+        {
+          "name": "Daniel Maza",
+          "url": "https://open.spotify.com/artist/5TI8IZa6vgPAcb8wuMZfN7"
+        },
+        {
+          "name": "Fabi\u00e1n Miodownik",
+          "url": "https://open.spotify.com/artist/0id6cJE1cdObojEVJ8K5ym"
+        }
+      ],
+      "duration_ms": 130346,
+      "name": "La Explicaci\u00f3n",
+      "url": "https://open.spotify.com/track/2HlWEGp5Hefb38uuwEL4dI"
     },
     {
       "added_at": "2022-08-31 07:18:00",

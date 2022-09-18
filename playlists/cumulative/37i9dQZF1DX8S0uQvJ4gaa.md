@@ -4,7 +4,7 @@
 
 > New Music Discovery is what we're about\. Try it on for size\. Cover: Kat & Alex
 
-1,473 songs - 3 day 7 hr 48 min - [published](https://open.spotify.com/playlist/4GYziq6IZSItn9f84k0CzJ)
+1,474 songs - 3 day 7 hr 51 min - [published](https://open.spotify.com/playlist/4GYziq6IZSItn9f84k0CzJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -530,7 +530,8 @@
 | [Head Over Heels](https://open.spotify.com/track/4uSGKYoqdlqXYAr8SwhnFl) | [Runaway June](https://open.spotify.com/artist/7yPbJOX7olhT3ynAyuj3Zl) | [Head Over Heels](https://open.spotify.com/album/0LTNBwbMq7nP2PSNL6bI86) | 3:09 | 2019-06-11 | 2019-08-13 |
 | [Head Over Heels](https://open.spotify.com/track/6OSCcj7LiiVQnBmWM13he2) | [Runaway June](https://open.spotify.com/artist/7yPbJOX7olhT3ynAyuj3Zl) | [Blue Roses](https://open.spotify.com/album/0BUbVHeDmGXl3lzOENF9Wc) | 3:09 | 2019-07-06 | 2019-08-13 |
 | [Headstone](https://open.spotify.com/track/21ZQamVjLP7lLrJ2wUshfu) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Skeletons \(Deluxe\)](https://open.spotify.com/album/2xXJINeBLHwdFzQECIJuUM) | 4:44 | 2022-01-21 | 2022-04-09 |
-| [Hear About a Girl](https://open.spotify.com/track/7oYuJA9j1pOdkRWIdWvV01) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [Hear About a Girl](https://open.spotify.com/album/7G4fhfePVOdBvyHcWRJfCz) | 3:07 | 2022-06-03 |  |
+| [Hear About a Girl](https://open.spotify.com/track/7aItjCZJYW1fkCUmVZOw8U) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [Hear About a Girl](https://open.spotify.com/album/7oOVhXwJpYlcXiprRa8VNi) | 3:07 | 2022-09-16 |  |
+| [Hear About a Girl](https://open.spotify.com/track/7oYuJA9j1pOdkRWIdWvV01) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [Hear About a Girl](https://open.spotify.com/album/7G4fhfePVOdBvyHcWRJfCz) | 3:07 | 2022-06-03 | 2022-09-18 |
 | [Heart Like A Truck](https://open.spotify.com/track/5ZCjp56T8J6d7amJyFSzrI) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Heart Like A Truck](https://open.spotify.com/album/5NRfYTHlDOZ9poFHN2pVQo) | 3:19 | 2022-05-20 | 2022-07-30 |
 | [Heart On Fire](https://open.spotify.com/track/0RshiY6XKLbdsnFNEQoHFH) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Heart On Fire](https://open.spotify.com/album/1H9u7ERxyFbgEYxzScoXbb) | 4:18 | 2021-01-30 | 2021-02-06 |
 | [Heart on My Glass](https://open.spotify.com/track/5z5u8Kp8bDkc3QSNhn7wpv) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [Heart on My Glass](https://open.spotify.com/album/5wn3rXI7ahFosQJmt14ZJ2) | 3:10 | 2022-01-21 | 2022-05-14 |

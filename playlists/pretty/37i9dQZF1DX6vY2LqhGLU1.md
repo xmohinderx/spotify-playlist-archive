@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6vY2LqhGLU1.md) - [plain]
 
 > Enjoy Christmas songs that are staples at the home of your favorite artists\.  Cover: Phil Wickham
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,512 likes - 30 songs - 1 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,545 likes - 30 songs - 1 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6vY2LqhGLU1.md) - [plain]
 | 5 | [Hark! the Herald Angels Sing \(Live\)](https://open.spotify.com/track/5PSNbJ5aJa0o7UAygyWOg7) | [Jeremy Riddle](https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi) | [Joy to the World \(Live\)](https://open.spotify.com/album/40Xmdjny3GIZaUFO5WmeJ8) | 5:47 |
 | 6 | [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/02ibK22WhjAVzKBm7da7lm) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [A Pentatonix Christmas Deluxe](https://open.spotify.com/album/3sId8sOH47yqOWopzbEtJn) | 2:29 |
 | 7 | [Angels We Have Heard On High](https://open.spotify.com/track/6r2uT3BQAYuNygl5BKv3v3) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Christmas](https://open.spotify.com/album/1TzI5wwnlBtglKMxIW0Bx7) | 3:41 |
-| 8 | [O Tannenbaum](https://open.spotify.com/track/34rzJNfTd5e9s3TICFMPD0) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \[2012 Remastered & Expanded Edition\]](https://open.spotify.com/album/7DuJYWu66RPdcekF5TuZ7w) | 5:09 |
+| 8 | [O Tannenbaum](https://open.spotify.com/track/4YhY2qHdBmSX33uj8ms0oq) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \[2012 Remastered & Expanded Edition\]](https://open.spotify.com/album/2XnNY3GEkbWHor5kyvXLu4) | 5:09 |
 | 9 | [Away In A Manger \(Forever Amen\)](https://open.spotify.com/track/0AIIvSYZUvrURBcWTwhC7e) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Christmas](https://open.spotify.com/album/1TzI5wwnlBtglKMxIW0Bx7) | 3:14 |
 | 10 | [Christmas Day](https://open.spotify.com/track/58ePGDlx3W3o9sh8N1HLh3) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Miracle Of Love: Christmas Songs Of Worship](https://open.spotify.com/album/5dQZ5QCJVvW6TRzWnn9aU8) | 4:23 |
 | 11 | [O Holy Night](https://open.spotify.com/track/3B7FO3kJ5kv3mX7yiaB7sT) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:26 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6vY2LqhGLU1.md) - [plain]
 | 29 | [What Child Is This](https://open.spotify.com/track/4vMeO6jafDMycnkrBvizrF) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [The Light Came Down](https://open.spotify.com/album/69jXtqUEHCVsB5geUWN1Yl) | 3:52 |
 | 30 | [Silver Bells](https://open.spotify.com/track/2MpextDSUjiWKWBZIaqUpz) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [20th Century Masters \- The Best of Stevie Wonder: The Christmas Collection](https://open.spotify.com/album/734TT1LYLvM5gAAYvG0DSw) | 2:22 |
 
-Snapshot ID: `MTYwODU3MjgxOCwwMDAwMDAwMGFlOTY1MDFjYWFjZDg0NWEyYmRkYTg1MjFjNTRjMGJj`
+Snapshot ID: `MTYwODU3MjgxOCwwMDAwMDAwMDRhZDBiYzM5ZjBmY2FjYTQxZGExNzllMGQwMDRjMWY4`

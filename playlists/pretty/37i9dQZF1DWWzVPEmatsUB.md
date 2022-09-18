@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzVPEmatsUB.md) - [plain]
 
 > Have a quiet morning with this mix of something familiar and something new.
 
-[Spotify](https://open.spotify.com/user/spotify) - 487,396 likes - 70 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 487,663 likes - 70 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

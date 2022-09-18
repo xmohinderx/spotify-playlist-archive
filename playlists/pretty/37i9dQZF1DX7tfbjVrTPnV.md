@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 
 > Enjoy new and classic releases from icons of folk and Americana\. Cover: Bonnie Raitt
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,008 likes - 150 songs - 9 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,066 likes - 150 songs - 9 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,8 +133,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 | 123 | [Oh Soul](https://open.spotify.com/track/0PdULrhTlH3sUzdBNDxILS) | [Mary Gauthier](https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS) | [Trouble and Love](https://open.spotify.com/album/4y2kVQxcRP5bo2t55EFpDR) | 5:26 |
 | 124 | [Pure and Simple](https://open.spotify.com/track/7szyzZ3J9ortisMHATOXCp) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Pure & Simple](https://open.spotify.com/album/09xuqHRVpQp8AI5Pz9Oq9M) | 2:43 |
 | 125 | [The Rock and the Hill](https://open.spotify.com/track/1J3vn9vwq2pyC9iYlEUFEH) | [Allison Moorer](https://open.spotify.com/artist/1Fp2fNrv2udkdpOqFWn8IY) | [Blood](https://open.spotify.com/album/1wBCGpLEYgfDPG3mm7kH72) | 3:39 |
-| 126 | [Taxes on the Farmer Feeds Us All](https://open.spotify.com/track/4ZslsM9CYd5SpqlSGODAEq) | [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Into The Purple Valley](https://open.spotify.com/album/0bPPam9K2Pyuxr8T9WH1Vk) | 3:56 |
-| 127 | [Dusty Old Man](https://open.spotify.com/track/5Vi7Nm5Eug5NWvCDzIMqOX) | [Tift Merritt](https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z) | [Stitch of the World](https://open.spotify.com/album/76lhcMjk7j4oTTHV1HLZgs) | 3:47 |
+| 126 | [Dusty Old Man](https://open.spotify.com/track/5Vi7Nm5Eug5NWvCDzIMqOX) | [Tift Merritt](https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z) | [Stitch of the World](https://open.spotify.com/album/76lhcMjk7j4oTTHV1HLZgs) | 3:47 |
+| 127 | [Taxes on the Farmer Feeds Us All](https://open.spotify.com/track/4ZslsM9CYd5SpqlSGODAEq) | [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Into The Purple Valley](https://open.spotify.com/album/0bPPam9K2Pyuxr8T9WH1Vk) | 3:56 |
 | 128 | [Hold On](https://open.spotify.com/track/3IHMlWNnTqtVP32p46ZzJT) | [Martin Sexton](https://open.spotify.com/artist/16HLVuiCN8iGYhBca7lsqE) | [Hold On](https://open.spotify.com/album/1LEg5ypjv2gjCWXa7trzbb) | 3:41 |
 | 129 | [Keeps Me Alive](https://open.spotify.com/track/3Zw3tkUMENvM9uMCKZVxWv) | [Wynonna](https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1), [Derek Trucks](https://open.spotify.com/artist/1xJPYI7GXasA3ariMSftPq) | [Wynonna & The Big Noise](https://open.spotify.com/album/7Fuk4zDnEJxnSGtjihpWOA) | 4:11 |
 | 130 | [Got Your Six](https://open.spotify.com/track/1qKoTpcKazw5AcLzYjgX7k) | [Mary Gauthier](https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS) | [Rifles and Rosary Beads](https://open.spotify.com/album/1iCcuANiiaWvTeLevFGYSC) | 2:38 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 | 149 | [Just To Watch Maria Dance](https://open.spotify.com/track/71JN9WNpdHwbr22XSAbwRP) | [Guy Clark](https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq) | [Just To Watch Maria Dance](https://open.spotify.com/album/7065TFrbGtfx5TCIBXpmtY) | 2:16 |
 | 150 | [Garfield's Blackberry Blossom](https://open.spotify.com/track/2H6m033IwS1i0fkHyWP3g8) | [Lyle Lovett](https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es) | [Release Me](https://open.spotify.com/album/7jioF5CEtXUvIRMfoYzqkG) | 3:06 |
 
-Snapshot ID: `MTY2MDg4MTYwMCwwMDAwMDAwMGVmMTc3MzlmM2I3ODE3OTU4NWFlZTc3ZTllMDZjNzc5`
+Snapshot ID: `MTY2MDg4MTYwMCwwMDAwMDAwMGNiNWJmOWIwZDUzZmE5ODhkZmFiNjcyZjhmMGEwNmVl`

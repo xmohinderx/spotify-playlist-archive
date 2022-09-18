@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4olOMiqFeqU.md) - [plain]
 
 > 100% Pinoy hits from your favorite artists!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,287,423 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,287,839 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4olOMiqFeqU.md) - [plain]
 | 35 | [Titig](https://open.spotify.com/track/1x8pFCRfBnDqckyB6mlZci) | [MC Einstein](https://open.spotify.com/artist/7dxr6AabRWhsfYRyVJlErK), [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh), [Jekkpot](https://open.spotify.com/artist/7ypt5Qvb2h6rIahhfls05p), [Yuridope](https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY) | [Titig](https://open.spotify.com/album/4tk561oaKN5jhKhu8XuP1W) | 4:19 |
 | 36 | [Huling Sayaw](https://open.spotify.com/track/7L8GQLm6e7cGoMMUAgWCVp) | [Kamikazee](https://open.spotify.com/artist/4GBFKKuwmZUnAJt6nBal7A), [Kyla](https://open.spotify.com/artist/2vTbuBRo7ACOZ3JsCnaL7S) | [Romantico](https://open.spotify.com/album/0HYAcVSUVkfxzHKgHu6DqR) | 4:55 |
 | 37 | [Hindi Tayo Pwede](https://open.spotify.com/track/47DgfSmVQVwHkJJct5c3sV) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv) | [Umaga](https://open.spotify.com/album/5HbJHrOnlSh1DImDXXYW1N) | 5:03 |
-| 38 | [Simpleng Tao](https://open.spotify.com/track/6bMSUhAmaAGTb5RTTuzWE3) | [Gloc 9](https://open.spotify.com/artist/7HJDRQAfEcFiARVehhM6qD) | [G9](https://open.spotify.com/album/4OS6H3C1zimI6QPXA9MXvG) | 4:04 |
-| 39 | [Buwan](https://open.spotify.com/track/5f9808hpiCpuNyqqdXmpF2) | [juan karlos](https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ) | [Buwan](https://open.spotify.com/album/2CF1utwLM2yXHMZhwFGVY1) | 5:43 |
+| 38 | [Buwan](https://open.spotify.com/track/5f9808hpiCpuNyqqdXmpF2) | [juan karlos](https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ) | [Buwan](https://open.spotify.com/album/2CF1utwLM2yXHMZhwFGVY1) | 5:43 |
+| 39 | [Simpleng Tao](https://open.spotify.com/track/6bMSUhAmaAGTb5RTTuzWE3) | [Gloc 9](https://open.spotify.com/artist/7HJDRQAfEcFiARVehhM6qD) | [G9](https://open.spotify.com/album/4OS6H3C1zimI6QPXA9MXvG) | 4:04 |
 | 40 | [Sa'yo](https://open.spotify.com/track/3WLDRtRzbKDNZW5AZaAvk0) | [Silent Sanctuary](https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C) | [Monodramatic](https://open.spotify.com/album/0fWuyWoKTJty03n7xpCrEe) | 4:13 |
 | 41 | [Nang Dumating Ka](https://open.spotify.com/track/7Kh9hYahcc7CY9ySWAhbfe) | [Bandang Lapis](https://open.spotify.com/artist/4slXciON4jYY6mqE9LjSFx) | [Nang Dumating Ka](https://open.spotify.com/album/0pKql5M2xJjgryZLA9H4T9) | 6:19 |
 | 42 | [Di Na Muli](https://open.spotify.com/track/6JYIB3AEh1VtcqVcDDLC7p) | [The Itchyworms](https://open.spotify.com/artist/5cYJYBMg1n71v7cvthr1SO) | [Sid & Aya \(Not a Love Story\) \[Original Movie Soundtrack\]](https://open.spotify.com/album/3ZHDOgwnd6f26MyLuXCS3U) | 4:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4olOMiqFeqU.md) - [plain]
 | 49 | [Pasensya Ka Na](https://open.spotify.com/track/5VPxHpJcJEJx9CMMiO7pBE) | [Silent Sanctuary](https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C) | [Langit\. Luha.](https://open.spotify.com/album/1rBuCNm7bhrcDVMAETBXVA) | 4:01 |
 | 50 | [Kahit Ayaw Mo Na](https://open.spotify.com/track/3TxnGSedv9ZKBFtiC0li1z) | [This Band](https://open.spotify.com/artist/5HIZU0JzM0AgfItVOm4E08) | [Kahit Ayaw Mo Na \(Original Movie Soundtrack\)](https://open.spotify.com/album/2dO4oPS5hLVjPZpTD9qhcJ) | 4:03 |
 
-Snapshot ID: `MTY2MDExMTMzMSwwMDAwMDAwMDk2NzYzMDhlZGVjMDc3MzZlZDhhZThkYmQxYTM2Zjg0`
+Snapshot ID: `MTY2MDExMTMzMSwwMDAwMDAwMGJiNmEyMDgyMjFiYjk0MDFmMDU4NDFkNDMwZDgzNmI0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24HW7kIIcEV.md) - [plain]
 
 > Joining the formal campaign to get the Lizzie McGuire reboot back in production.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,948 likes - 85 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,355 likes - 85 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

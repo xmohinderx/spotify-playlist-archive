@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6i7txhF59QA.md) - [plain]
 
 > Let's party with cheerful Korean trot medley\. Cover: YOUNGTAK\(영탁\) \(신나는 트로트 멜로디를 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,850 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,864 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6i7txhF59QA.md) - [plain]
 | 78 | [I love you.](https://open.spotify.com/track/3d9eSFbuAJzFNHf1ZUHS7X) | [Jang Yoon\-Jeong](https://open.spotify.com/artist/1zeaekWal9sG8T6INxaeQM) | [Woman](https://open.spotify.com/album/0dpDBAo9MQgmbkz5yF9LGZ) | 3:15 |
 | 79 | [Mom Arirang](https://open.spotify.com/track/71KOmCA0xRVfxhGJAF69U1) | [Ji Yoon Hong](https://open.spotify.com/artist/0HQ6vXZL2pe5rancY1DP6U) | [MISS TROT2 PRELIMINARY BEST PART1](https://open.spotify.com/album/3WBSmNsFrRZSV1PsvOHbaU) | 2:06 |
 | 80 | [Period of spring poverty](https://open.spotify.com/track/1LggILZOGP60h73FgLPGpX) | [Jeong Dong Won](https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki) | [Best of Mr\. Trot Preliminary](https://open.spotify.com/album/22SUPxLxO7DUsKnf0b4qAb) | 3:26 |
-| 81 | [무명배우](https://open.spotify.com/track/39VPnJnAO80E2bRFQFHck0) | [Song Ga In](https://open.spotify.com/artist/5t5zmsIdTDRqDeI17tilpd) | [Again](https://open.spotify.com/album/2hmWVreZzq76CRhKkwEBJr) | 4:15 |
-| 82 | [Love Cowboy](https://open.spotify.com/track/7yBH4eMEkQaWP5fXppUGyx) | [Ko Jaegeun](https://open.spotify.com/artist/0gRX6Q2nFjWXH7cwAgmeyb) | [Love Cowboy](https://open.spotify.com/album/0YBzjXf261UR4wQ2n1GtXx) | 3:32 |
+| 81 | [Love Cowboy](https://open.spotify.com/track/7yBH4eMEkQaWP5fXppUGyx) | [Ko Jaegeun](https://open.spotify.com/artist/0gRX6Q2nFjWXH7cwAgmeyb) | [Love Cowboy](https://open.spotify.com/album/0YBzjXf261UR4wQ2n1GtXx) | 3:32 |
+| 82 | [무명배우](https://open.spotify.com/track/39VPnJnAO80E2bRFQFHck0) | [Song Ga In](https://open.spotify.com/artist/5t5zmsIdTDRqDeI17tilpd) | [Again](https://open.spotify.com/album/2hmWVreZzq76CRhKkwEBJr) | 4:15 |
 | 83 | [Taste of life](https://open.spotify.com/track/48F26fZUkzsKahAn97EviB) | [Yang Ji Eun](https://open.spotify.com/artist/5rLGnWPQ1yVg4skBZD8VEw) | [Taste of life](https://open.spotify.com/album/4IGv48d0xSWpKmO8Db0Srm) | 3:01 |
 | 84 | [Don't Cross That River](https://open.spotify.com/track/7A03yyubZKMSkSpZTI48cG) | [YANG JI EUN](https://open.spotify.com/artist/5KyboIHLRemhFggxt3eofU) | [Music source of <MissTrot2> FINAL Songwriter Mission](https://open.spotify.com/album/55myCPZ3HKzK1yXcw7AGG6) | 4:08 |
 | 85 | [삼각관계](https://open.spotify.com/track/7km9uEfaIcN3ZKFmSe57rD) | [김용임](https://open.spotify.com/artist/1yQDZDUxKlzAerBjjztpkV) | [김용임 스페셜 베스트 76](https://open.spotify.com/album/2ik5jCob6eBOWwn0j2oPYh) | 2:49 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6i7txhF59QA.md) - [plain]
 | 99 | [Barefooted youth](https://open.spotify.com/track/2quEJ0O0lsvl46cyvCiiaJ) | [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [Love call center PART13](https://open.spotify.com/album/4yKuRJirB0B52jwjVYoJ17) | 3:26 |
 | 100 | [In full bloom \(Prod\. Shin Ji Hoo\)](https://open.spotify.com/track/5qx9HlOWS0rpr78joROqEI) | [Kim Ho Joong](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH) | [We Are Family](https://open.spotify.com/album/4e0v16WqKxXCl822Srrkeq) | 4:11 |
 
-Snapshot ID: `MTY2MDA2NDM0MCwwMDAwMDAwMDZkNmQ0Zjg0YzU0OWFjNzYwNTVkY2E2NThhYmY5NmFl`
+Snapshot ID: `MTY2MDA2NDM0MCwwMDAwMDAwMGVmZmMxOTgxMGZiMzhhMWYxMGI5Zjk1NzRkMGE5NjAx`

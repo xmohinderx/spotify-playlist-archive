@@ -4,7 +4,7 @@
 
 > make a mess of it\. Cover: POORSTACY
 
-133 songs - 7 hr 27 min - [published](https://open.spotify.com/playlist/3yPNBCqDIplXzlh2PGS3eF)
+134 songs - 7 hr 32 min - [published](https://open.spotify.com/playlist/3yPNBCqDIplXzlh2PGS3eF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [Falling](https://open.spotify.com/track/6DaNlUMdwiidZbFSebVcIy) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Falling](https://open.spotify.com/album/1wzpIeYxCGjZ7yze3IHCJE) | 3:29 | 2022-04-08 |  |
 | [Fed Up](https://open.spotify.com/track/0BV0AYGLVlu2SdjN3J9twp) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [ANTI\-ICON](https://open.spotify.com/album/3gEv1vpsDgaEo4TLuu0Lwz) | 2:31 | 2022-04-08 |  |
 | [FIST FIGHT \(feat\. Travis Barker\)](https://open.spotify.com/track/2IxZuWNPfPkD2Pr31cGgDH) | [OmenXIII](https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [FIST FIGHT \(feat\. Travis Barker\)](https://open.spotify.com/album/24OEI2mUMsUvo7yZFvFeKa) | 1:41 | 2022-07-01 |  |
-| [Front 2 Back](https://open.spotify.com/track/1UJawTtigLuhYRqLglCYx2) | [SNAILS](https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6), [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Front 2 Back](https://open.spotify.com/album/5PoLN3yHHwFPiNU3hhGYNR) | 4:17 | 2022-04-08 |  |
+| [Front 2 Back](https://open.spotify.com/track/4771YziYc1QurJ8HfR9VU9) | [SNAILS](https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6), [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [World of Slime](https://open.spotify.com/album/75mclRI9Xiee8E4faIar0r) | 4:17 | 2022-07-01 |  |
+| [Front 2 Back](https://open.spotify.com/track/1UJawTtigLuhYRqLglCYx2) | [SNAILS](https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6), [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Front 2 Back](https://open.spotify.com/album/5PoLN3yHHwFPiNU3hhGYNR) | 4:17 | 2022-04-08 | 2022-09-18 |
 | [Fuck You](https://open.spotify.com/track/3Yc9SNoO8A1u3d5CMUUYWJ) | [Silent Child](https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M) | [Fuck You](https://open.spotify.com/album/4wYOdi0GyF2Dxt4MTzOssW) | 3:03 | 2022-04-08 | 2022-07-29 |
 | [Fuck You](https://open.spotify.com/track/6gkqY0rDnrzGwGpFyTugi9) | [Silent Child](https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M) | [Fuck You](https://open.spotify.com/album/3cO6RzHotTE55LiV7dtA1L) | 3:03 | 2022-07-01 |  |
 | [FØØL \- INHUMAN Remix](https://open.spotify.com/track/6JvUj6Hr346bGjXEEgkOH6) | [GHØSTKID](https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK), [INHUMAN](https://open.spotify.com/artist/1QeTjGvzNdgEbglFeedKWe) | [FØØL \(INHUMAN Remix\)](https://open.spotify.com/album/11NzYtuHaQeT96QfkQnNqa) | 3:08 | 2022-04-08 |  |

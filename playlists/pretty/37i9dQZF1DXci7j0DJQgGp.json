@@ -1,12 +1,12 @@
 {
   "description": "The perfect playlist to just sit back and chill out with.",
-  "num_followers": 1800482,
+  "num_followers": 1800512,
   "original_name": "Hanging Out & Relaxing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDg2MCwwMDAwMDAwMGI2Mzc0ZGQ2NmY3NjdjNGFlNmRlN2JiZDUzY2JhMzkx",
+  "snapshot_id": "MTY2MzMwMDg2MCwwMDAwMDAwMGVkMjgzZDU1Y2VlYTcwNTZlZDcxNzQyM2VjZTk3NmUw",
   "tracks": [
     {
       "added_at": "2022-09-16 04:01:00",
@@ -391,22 +391,6 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        }
-      ],
-      "duration_ms": 305000,
-      "name": "Horses",
-      "url": "https://open.spotify.com/track/1cncEDS6zwXOguyaMGp6vU"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
         "name": "Good For You",
         "url": "https://open.spotify.com/album/7pDkPWgwrc2weqXdL0ID6m"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 194813,
       "name": "McKenzie",
       "url": "https://open.spotify.com/track/6FLkXWDTvUc36qYYRhm4jg"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "duration_ms": 305000,
+      "name": "Horses",
+      "url": "https://open.spotify.com/track/1cncEDS6zwXOguyaMGp6vU"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -571,6 +571,22 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
+        "name": "MONOVISION",
+        "url": "https://open.spotify.com/album/4yzBq7tSsGjnQS0GPmbWcE"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 251933,
+      "name": "I Was Born To Love You",
+      "url": "https://open.spotify.com/track/3YllcvA3PW1DUwjckCVjIw"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
         "name": "Bonny Light Horseman",
         "url": "https://open.spotify.com/album/0FDyqe94Dh9j7U1Xyf3d8G"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 309072,
       "name": "Deep In Love",
       "url": "https://open.spotify.com/track/4fyqGylwyCpUTbgzYJ6RXN"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
-        "name": "MONOVISION",
-        "url": "https://open.spotify.com/album/4yzBq7tSsGjnQS0GPmbWcE"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 251933,
-      "name": "I Was Born To Love You",
-      "url": "https://open.spotify.com/track/3YllcvA3PW1DUwjckCVjIw"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -647,22 +647,6 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "Flight Risk EP",
-        "url": "https://open.spotify.com/album/4aRnUT8j0PTjKKW7FJsrvb"
-      },
-      "artists": [
-        {
-          "name": "Tommy Lefroy",
-          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
-        }
-      ],
-      "duration_ms": 157801,
-      "name": "Shoot",
-      "url": "https://open.spotify.com/track/3gy65ZTYP90rbEhHsHzcM0"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
         "name": "Notes from the Archive: Recordings 2011-2016",
         "url": "https://open.spotify.com/album/2li1FMT6riytgLdq4Eu4rb"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 382613,
       "name": "New Song",
       "url": "https://open.spotify.com/track/3PUMPtOSeXSJsBvK43K96b"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "Flight Risk EP",
+        "url": "https://open.spotify.com/album/4aRnUT8j0PTjKKW7FJsrvb"
+      },
+      "artists": [
+        {
+          "name": "Tommy Lefroy",
+          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
+        }
+      ],
+      "duration_ms": 157801,
+      "name": "Shoot",
+      "url": "https://open.spotify.com/track/3gy65ZTYP90rbEhHsHzcM0"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "Not Dead Yet",
-        "url": "https://open.spotify.com/album/044x9ycjGCrCHA6TcjaK8w"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 177366,
-      "name": "Not Dead Yet",
-      "url": "https://open.spotify.com/track/5NRbNXwXHM9mYgxMhzVWTP"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
         "name": "Big Time",
         "url": "https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 276826,
       "name": "All The Good Times",
       "url": "https://open.spotify.com/track/6Tv21RLLA1Dt6OtPNz8QDq"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "Not Dead Yet",
+        "url": "https://open.spotify.com/album/044x9ycjGCrCHA6TcjaK8w"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 177366,
+      "name": "Not Dead Yet",
+      "url": "https://open.spotify.com/track/5NRbNXwXHM9mYgxMhzVWTP"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "Forever Turned Around",
-        "url": "https://open.spotify.com/album/7dfINEAt70CVc3kaPvgoyQ"
-      },
-      "artists": [
-        {
-          "name": "Whitney",
-          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
-        }
-      ],
-      "duration_ms": 236453,
-      "name": "Valleys (My Love)",
-      "url": "https://open.spotify.com/track/7LYVDh003mW2jl5D1UBPhR"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
         "name": "Detour",
         "url": "https://open.spotify.com/album/3HaXu8yI1wBwmQB2ifgccT"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 213024,
       "name": "Detour",
       "url": "https://open.spotify.com/track/7DEY4XYmucW9CajmANlscn"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "Forever Turned Around",
+        "url": "https://open.spotify.com/album/7dfINEAt70CVc3kaPvgoyQ"
+      },
+      "artists": [
+        {
+          "name": "Whitney",
+          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
+        }
+      ],
+      "duration_ms": 236453,
+      "name": "Valleys (My Love)",
+      "url": "https://open.spotify.com/track/7LYVDh003mW2jl5D1UBPhR"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "Change",
-        "url": "https://open.spotify.com/album/0dsp6TeaD2da6UvQy4CZ2C"
-      },
-      "artists": [
-        {
-          "name": "Sjowgren",
-          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
-        }
-      ],
-      "duration_ms": 90227,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/03rZ4jEeqvKjrqdRHPZmpp"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
         "name": "Like I Used To",
         "url": "https://open.spotify.com/album/0nRjg8p3TOmImvztpYncra"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 263754,
       "name": "Like I Used To",
       "url": "https://open.spotify.com/track/1kZpYFQHUKv4xHELaaUSqP"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/0dsp6TeaD2da6UvQy4CZ2C"
+      },
+      "artists": [
+        {
+          "name": "Sjowgren",
+          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
+        }
+      ],
+      "duration_ms": 90227,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/03rZ4jEeqvKjrqdRHPZmpp"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "Collapsed In Sunbeams",
-        "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 216026,
-      "name": "Hurt",
-      "url": "https://open.spotify.com/track/6ZVVax9sMTB6HPKu36eYZs"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
         "name": "Outside Child",
         "url": "https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw"
       },
@@ -1095,18 +1079,18 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "Wake Up",
-        "url": "https://open.spotify.com/album/635iu3VXqCVPvUJvOoCDB9"
+        "name": "Collapsed In Sunbeams",
+        "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
       },
       "artists": [
         {
-          "name": "Young the Giant",
-          "url": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
         }
       ],
-      "duration_ms": 216547,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/2JLhVqWY3tzTwtjZXbUdnQ"
+      "duration_ms": 216026,
+      "name": "Hurt",
+      "url": "https://open.spotify.com/track/6ZVVax9sMTB6HPKu36eYZs"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -1139,6 +1123,22 @@
       "duration_ms": 205560,
       "name": "Make a Picture",
       "url": "https://open.spotify.com/track/0H4b4uRUjtSjI91UYA2zSz"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "Wake Up",
+        "url": "https://open.spotify.com/album/635iu3VXqCVPvUJvOoCDB9"
+      },
+      "artists": [
+        {
+          "name": "Young the Giant",
+          "url": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
+        }
+      ],
+      "duration_ms": 216547,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/2JLhVqWY3tzTwtjZXbUdnQ"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "Collections From The Whiteout",
-        "url": "https://open.spotify.com/album/09P40BHcaue9iF4QasXMTK"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 257773,
-      "name": "What A Day - Edit",
-      "url": "https://open.spotify.com/track/3MW8spctuyf70mNAWhDlBv"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
         "name": "This Is Really Going To Hurt",
         "url": "https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 198266,
       "name": "Losing You",
       "url": "https://open.spotify.com/track/6tPrmeifTXshblYA7ahTUA"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "Collections From The Whiteout",
+        "url": "https://open.spotify.com/album/09P40BHcaue9iF4QasXMTK"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 257773,
+      "name": "What A Day - Edit",
+      "url": "https://open.spotify.com/track/3MW8spctuyf70mNAWhDlBv"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -1547,26 +1547,6 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "Pressure Machine (Abridged)",
-        "url": "https://open.spotify.com/album/7j8a2kSxAtenkXPim6mwUB"
-      },
-      "artists": [
-        {
-          "name": "The Killers",
-          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 204466,
-      "name": "Runaway Horses (feat. Phoebe Bridgers) - Abridged",
-      "url": "https://open.spotify.com/track/3PeCWDczrGqdD1E3mbok2X"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
         "name": "The Waterfall II",
         "url": "https://open.spotify.com/album/5QdrLd11irInpKv030UbHV"
       },
@@ -1595,6 +1575,26 @@
       "duration_ms": 194053,
       "name": "October Sky",
       "url": "https://open.spotify.com/track/4YcZgvktXXqoI6WKtG7sl3"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "Pressure Machine (Abridged)",
+        "url": "https://open.spotify.com/album/7j8a2kSxAtenkXPim6mwUB"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 204466,
+      "name": "Runaway Horses (feat. Phoebe Bridgers) - Abridged",
+      "url": "https://open.spotify.com/track/3PeCWDczrGqdD1E3mbok2X"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
+        "name": "Del Water Gap",
+        "url": "https://open.spotify.com/album/22ljnmjYzy4TS5tCtaRIUE"
+      },
+      "artists": [
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+        }
+      ],
+      "duration_ms": 205905,
+      "name": "Alone Together",
+      "url": "https://open.spotify.com/track/1JKioiu4WVtEZojt2OdfmR"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
         "name": "Because I Wanted You to Know",
         "url": "https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8"
       },
@@ -1659,22 +1675,6 @@
       "duration_ms": 194266,
       "name": "Moon in the Morning",
       "url": "https://open.spotify.com/track/1Lfr9YBRpeSwCS14kBoTAg"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
-        "name": "Del Water Gap",
-        "url": "https://open.spotify.com/album/22ljnmjYzy4TS5tCtaRIUE"
-      },
-      "artists": [
-        {
-          "name": "Del Water Gap",
-          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
-        }
-      ],
-      "duration_ms": 205905,
-      "name": "Alone Together",
-      "url": "https://open.spotify.com/track/1JKioiu4WVtEZojt2OdfmR"
     },
     {
       "added_at": "2022-09-16 04:01:00",

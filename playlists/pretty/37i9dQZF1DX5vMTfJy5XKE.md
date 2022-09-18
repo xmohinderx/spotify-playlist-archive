@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 
 > 'Tis the season! All new holiday releases\. Cover: Elton John & Ed Sheeran
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,489 likes - 130 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,474 likes - 130 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 48 | [Stay Another Day](https://open.spotify.com/track/1BJaAa8yxm779DP5kKZJyw) | [The Wanted](https://open.spotify.com/artist/2NhdGz9EDv2FeUw6udu2g1) | [Stay Another Day](https://open.spotify.com/album/5viw4iG7emPlzp25Vg2Hxe) | 4:00 |
 | 49 | [Please Come Home for Christmas](https://open.spotify.com/track/2wkAdxI86skFLB5GuFazzL) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Please Come Home for Christmas](https://open.spotify.com/album/2KuLH6xDWAUpRXr7JqxTd9) | 2:57 |
 | 50 | [This Christmas](https://open.spotify.com/track/2p97TwEVvmhVPk1rzMu1x0) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [A Very Teddy Christmas](https://open.spotify.com/album/5Uz5dJxxx80FlqetqpvCJp) | 3:08 |
-| 51 | [Happy Holidays, You Bastard](https://open.spotify.com/track/1JRIspKuyC14rGixc81hEa) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Happy Holidays, You Bastard](https://open.spotify.com/album/7dUO22BrcLCDAo8PxzL88H) | 0:43 |
-| 52 | [\(Everybody’s Waitin’ For\) The Man With The Bag](https://open.spotify.com/track/4erjTiN8cQOBt7vSk7xP1k) | [Darren Criss](https://open.spotify.com/artist/3nQ59hkeciYoR6RreQL4Rv), [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [A Very Darren Crissmas](https://open.spotify.com/album/25CNxbRl0AtnFE05COz6NC) | 2:51 |
+| 51 | [\(Everybody’s Waitin’ For\) The Man With The Bag](https://open.spotify.com/track/4erjTiN8cQOBt7vSk7xP1k) | [Darren Criss](https://open.spotify.com/artist/3nQ59hkeciYoR6RreQL4Rv), [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [A Very Darren Crissmas](https://open.spotify.com/album/25CNxbRl0AtnFE05COz6NC) | 2:51 |
+| 52 | [Happy Holidays, You Bastard](https://open.spotify.com/track/1JRIspKuyC14rGixc81hEa) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Happy Holidays, You Bastard](https://open.spotify.com/album/7dUO22BrcLCDAo8PxzL88H) | 0:43 |
 | 53 | [I Dream Of Christmas](https://open.spotify.com/track/0OYglQniaQNazYF0fJblbV) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [I Dream Of Christmas \(Extended\)](https://open.spotify.com/album/0Yn0lja0EAPbCZptiHw4Pj) | 3:22 |
 | 54 | [Fairytale of New York](https://open.spotify.com/track/4fYUi0MSSzdX7Q696Fn81f) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT), [Atlantic Holiday](https://open.spotify.com/artist/5D9NYfOaGxFKCalJIeia1N) | [Fairytale of New York](https://open.spotify.com/album/3m34lxhVHHZmCFVa9zsulA) | 3:59 |
 | 55 | [Christmas Caller](https://open.spotify.com/track/4kFnYLxdx0OI5L4mEWvygm) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Christmas Caller](https://open.spotify.com/album/69wSgjR0ZbyTxINqpsPbtv) | 2:15 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 63 | [merry merry](https://open.spotify.com/track/2kGIo9vbpdBnRnOJlPAtNb) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [merry merry](https://open.spotify.com/album/0u4kQYJsfOrpnew817qr5q) | 2:45 |
 | 64 | [Tinsel In The River](https://open.spotify.com/track/73A3CJxM2cHSvqLsPzjvuv) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [Tinsel In The River](https://open.spotify.com/album/1p9fZvlA7NCVyxHIsmvefM) | 2:49 |
 | 65 | [It's the Most Wonderful Time of the Year \- Spotify Singles Holiday](https://open.spotify.com/track/7878uDHPFOucHPBEZNqvdO) | [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [It's the Most Wonderful Time of the Year \(Spotify Singles Holiday\)](https://open.spotify.com/album/4BuhsOIhCtbXzuDzJeyH1e) | 3:25 |
-| 66 | [Do You Hear What I Hear?](https://open.spotify.com/track/4HIfV8l6VGif6AtEIh80aA) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [A Drummer Boy Christmas +](https://open.spotify.com/album/1yXMLsVg38bs2cTZ57lgJ3) | 3:12 |
-| 67 | [I'll Be Home For Christmas](https://open.spotify.com/track/5RMuRiyV5fVzQriQjGyIhp) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [A Cody Johnson Christmas](https://open.spotify.com/album/0cLuZfaaFMtFmMIadVO0z8) | 4:05 |
+| 66 | [I'll Be Home For Christmas](https://open.spotify.com/track/5RMuRiyV5fVzQriQjGyIhp) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [A Cody Johnson Christmas](https://open.spotify.com/album/0cLuZfaaFMtFmMIadVO0z8) | 4:05 |
+| 67 | [Do You Hear What I Hear?](https://open.spotify.com/track/4HIfV8l6VGif6AtEIh80aA) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [A Drummer Boy Christmas +](https://open.spotify.com/album/1yXMLsVg38bs2cTZ57lgJ3) | 3:12 |
 | 68 | [This is Life \(Merry Christmas\) feat\. Daniel Rodriguez](https://open.spotify.com/track/6lTGp4pU9BAC90y2boBHlC) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg), [Daniel Rodriguez](https://open.spotify.com/artist/57Wn64RH6FvI5gu9bdbXIp) | [This is Life \(Merry Christmas\) feat\. Daniel Rodriguez](https://open.spotify.com/album/43EEE2j8LTSfwkLAqBj2VR) | 2:56 |
 | 69 | [Drunk On Christmas](https://open.spotify.com/track/5dvSKxpjDxRNy4Wyuz5g1j) | [Darren Criss](https://open.spotify.com/artist/3nQ59hkeciYoR6RreQL4Rv), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [A Very Darren Crissmas](https://open.spotify.com/album/25CNxbRl0AtnFE05COz6NC) | 3:23 |
 | 70 | [Deck the Halls](https://open.spotify.com/track/5jtvS4uu9odCpRC4XvI29B) | [DCappella](https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm) | [Deck the Halls](https://open.spotify.com/album/1SKpUUo0isTRq19wE5RUs0) | 1:37 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 129 | [It's Christmas](https://open.spotify.com/track/1O5SDSBclXo7t3yWdIOugN) | [Callum Beattie](https://open.spotify.com/artist/4uFxymnU41sM7ytUCjuYTN) | [It's Christmas](https://open.spotify.com/album/5TiuPbm20D55Tpwr6lF4pj) | 3:33 |
 | 130 | [Christmas Feels Like Home](https://open.spotify.com/track/1VqBqC0hLpNGvX60Ykhh9i) | [JiLL MARiE COOPER](https://open.spotify.com/artist/6zmm05oJvdK6XZBYYy07kF) | [Christmas Feels Like Home](https://open.spotify.com/album/6Nz6wJjdo39R7VyPYlK9jv) | 3:28 |
 
-Snapshot ID: `MTY0MDMyMjAwMCwwMDAwMDAwMGNkZjYxNDk1ZWRlMTE4NjAxYWRkNzMyNjE4MTM4ZWIy`
+Snapshot ID: `MTY0MDMyMjAwMCwwMDAwMDAwMDVhNTAyYmEzNDY2Y2YyZDBmODcwOTY2M2M0YzQ0Nzdj`

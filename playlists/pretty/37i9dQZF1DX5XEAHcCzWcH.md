@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5XEAHcCzWcH.md) - [plain]
 
 > The unmistakable sound of Blues piano: the best pianists to have pioneered the sound and shape the genre\. Cover: Ray Charles
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,073 likes - 64 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,105 likes - 64 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5XEAHcCzWcH.md) - [plain]
 | 34 | [Hastings Street](https://open.spotify.com/track/4VPvooErbxiLpiG8TzdTtg) | [Blind Blake](https://open.spotify.com/artist/49KZvkEWchga5D1uhNo1yd) | [Ragtime Guitar's Foremost Fingerpicker](https://open.spotify.com/album/1YLQpIA8TAdpAQapN41BiN) | 3:13 |
 | 35 | [Bird in a Cage](https://open.spotify.com/track/2Xx66yeqdxjPViOEkKFkB4) | [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [Sweet Giant of the Blues](https://open.spotify.com/album/4VOsqjPQLgQ8x5uZELEWQw) | 6:06 |
 | 36 | [Things Have Changed](https://open.spotify.com/track/5fY1xBMbBUwN1ejbK647Yi) | [Big Maceo](https://open.spotify.com/artist/6MaCG0Ef8DahWf6Mn0Ikve) | [The King of Chicago Blues Piano](https://open.spotify.com/album/7B0UpbAjvyWdS6ira2Ns5Z) | 3:00 |
-| 37 | [It Hurts Me Too](https://open.spotify.com/track/59OhaqAccfavOAymsUSk4W) | [Bruce Katz](https://open.spotify.com/artist/3Nzai6Pe5noXPC8JsYtO57) | [Solo Ride](https://open.spotify.com/album/7jeC6jeaPD5DlVjYkekS29) | 3:45 |
-| 38 | [Long Way Home](https://open.spotify.com/track/2psY6edqjF6QMnC8v1Aitj) | [Kelley Hunt](https://open.spotify.com/artist/0L7Y276gBjB2pxuyhpgzgv) | [New Shade of Blue](https://open.spotify.com/album/7LCPGWetHUe8llQPpRacoh) | 4:22 |
+| 37 | [Long Way Home](https://open.spotify.com/track/2psY6edqjF6QMnC8v1Aitj) | [Kelley Hunt](https://open.spotify.com/artist/0L7Y276gBjB2pxuyhpgzgv) | [New Shade of Blue](https://open.spotify.com/album/7LCPGWetHUe8llQPpRacoh) | 4:22 |
+| 38 | [It Hurts Me Too](https://open.spotify.com/track/59OhaqAccfavOAymsUSk4W) | [Bruce Katz](https://open.spotify.com/artist/3Nzai6Pe5noXPC8JsYtO57) | [Solo Ride](https://open.spotify.com/album/7jeC6jeaPD5DlVjYkekS29) | 3:45 |
 | 39 | [Fluff Boogie](https://open.spotify.com/track/53JbbJdZKRifKvPhVAOVG9) | [Camille Howard](https://open.spotify.com/artist/0QFOmSTku0zPMVoawXFCXX) | [X\-Temporaneous Boogie](https://open.spotify.com/album/7gKcCISq4MdFPIcslAvznp) | 2:19 |
 | 40 | [Empty Arms](https://open.spotify.com/track/4vuAINkUeHcx9JApp7fZKx) | [Eddie Boyd](https://open.spotify.com/artist/6tlPbmYME3fjRkSBb3pjoB) | [The Blue Horizon Story \(1965\-1970\)](https://open.spotify.com/album/6LAgwOR5Rh9VmCIosaSxkM) | 2:50 |
 | 41 | [New York City Blues](https://open.spotify.com/track/5dI7AFyk5idEj94ra4F5Y8) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [Afterglow](https://open.spotify.com/album/6AWwvurjj21QEBbOucDWUQ) | 4:00 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5XEAHcCzWcH.md) - [plain]
 | 63 | [Me and My Gin](https://open.spotify.com/track/5L4sfgGbYh7CgXVBTmUcfz) | [Jimmie Gordon](https://open.spotify.com/artist/6XrOb8biVVH7gH09AIjB7l) | [This Is the Blues! Vol\. 7 \(Mono Version\)](https://open.spotify.com/album/4U9fxJlHlKvp5GwKmenuQ3) | 3:12 |
 | 64 | [I'll Be Right Some Day](https://open.spotify.com/track/3OpoVrckZ1J2IhAri7bWKl) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [Nail Jumping](https://open.spotify.com/album/2DegOuID6Bx94UtWX4xYf4) | 2:26 |
 
-Snapshot ID: `MTY1MjQzODk0OCwwMDAwMDAwMGQ0YTc5MjlhNDExOGM2ZDdhYmUzNTBjNjhhMmRlNWE3`
+Snapshot ID: `MTY1MjQzODk0OCwwMDAwMDAwMDRiYTU3ZDBmYzM2ZDExMjI0NDQ4ZDI3MDE4ZmFlMzEz`

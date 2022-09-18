@@ -4,7 +4,7 @@
 
 > This is Los Traileros Del Norte\. The essential tracks, all in one playlist.
 
-74 songs - 3 hr 37 min - [published](https://open.spotify.com/playlist/2Fr8s7ujhjKo7LWC8No6V7)
+75 songs - 3 hr 40 min - [published](https://open.spotify.com/playlist/2Fr8s7ujhjKo7LWC8No6V7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [Amnesia](https://open.spotify.com/track/2ZT0rXwm3h0FaGgA5CLzGt) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Amnesia](https://open.spotify.com/album/7303vr0nPaEu0hGye4S4rz) | 3:02 | 2022-06-01 |  |
 | [Amor Brutal \- En Vivo](https://open.spotify.com/track/4buTWLBGvDn8mtWXKHoM8D) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [35 Aniversario: En Vivo Desde el Domo Care](https://open.spotify.com/album/7mmW9hGKCj290Te1XeeFMr) | 2:52 | 2022-06-09 | 2022-06-12 |
 | [Anoche Estuve Llorando](https://open.spotify.com/track/2HG6dbqVUBQQEe9JtyTns1) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Palabras Tristes](https://open.spotify.com/album/5AZuEf75Kcau9PQOR88PLo) | 3:14 | 2022-06-01 |  |
-| [Apartamento Tres](https://open.spotify.com/track/1kDuEYiV3CfuGDoopG9fL4) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Grandes Éxitos Remezclados Y Remasterizados](https://open.spotify.com/album/3MFxr13HI3eqlPRgW5lYZw) | 2:40 | 2022-06-01 |  |
+| [Apartamento Tres](https://open.spotify.com/track/1kDuEYiV3CfuGDoopG9fL4) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Grandes Éxitos Remezclados Y Remasterizados](https://open.spotify.com/album/3MFxr13HI3eqlPRgW5lYZw) | 2:40 | 2022-06-01 | 2022-09-18 |
+| [Apartamento Tres](https://open.spotify.com/track/2GMXI3Bhz9GPXMpOWLv4L3) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Apartamento Tres](https://open.spotify.com/album/1axHtpxjBiwMIxjm6AyzRR) | 2:40 | 2022-09-17 |  |
 | [Apoco No](https://open.spotify.com/track/3K0XV1sdVnPf6z9NO4q8U5) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [También Románticos](https://open.spotify.com/album/3VLGmlnHGYtLsKmbsVqxM5) | 3:37 | 2022-06-01 |  |
 | [Aprendí Contigo](https://open.spotify.com/track/3tWK9kNFdeeK5Q4vZ6M932) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Arrastrando La Cobija \(Clásicos Digitalizados\)](https://open.spotify.com/album/7oIVq1jmETB2pIjmi1x2EK) | 2:51 | 2022-08-17 | 2022-08-19 |
 | [Arrastrando La Cobija](https://open.spotify.com/track/7rawYVXegJYjMKNK888djz) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Grandes Éxitos Remezclados Y Remasterizados](https://open.spotify.com/album/3MFxr13HI3eqlPRgW5lYZw) | 3:03 | 2022-06-01 | 2022-09-03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ILoHK.md) - [plain]
 
 > This is Basement\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,758 likes - 34 songs - 1 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,761 likes - 34 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,11 +36,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ILoHK.md) - [plain]
 | 26 | [Slip Away](https://open.spotify.com/track/4hI8PLtF0C3JBSUG5EsQtv) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Beside Myself](https://open.spotify.com/album/6GR8EnywUgDFHmqUHO19RO) | 2:57 |
 | 27 | [Animal Nitrate](https://open.spotify.com/track/3pRvbv2mAxIWBThGn0QMyl) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Further Sky](https://open.spotify.com/album/4CrgB7WMpE0HqqRuLsngbX) | 3:56 |
 | 28 | [Every Single Word](https://open.spotify.com/track/6EWq4Z999qYzSBiLROh1Ak) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [I Wish I Could Stay Here](https://open.spotify.com/album/50q9wsn54FNDpVV7S7idOG) | 1:56 |
-| 29 | [Skip Town](https://open.spotify.com/track/1o3Y7eA193VOMIt1CLnERJ) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Songs About The Weather](https://open.spotify.com/album/3Alr3YRWtyH8J315fqb9wT) | 2:03 |
+| 29 | [Dui](https://open.spotify.com/track/4DlIEw0mtIPJjPizMjHP1e) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Songs About The Weather](https://open.spotify.com/album/3Alr3YRWtyH8J315fqb9wT) | 2:12 |
 | 30 | [Jet](https://open.spotify.com/track/2R540M3XFd7fNVEW7YHDrC) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Further Sky](https://open.spotify.com/album/4CrgB7WMpE0HqqRuLsngbX) | 3:23 |
-| 31 | [Dui](https://open.spotify.com/track/4DlIEw0mtIPJjPizMjHP1e) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Songs About The Weather](https://open.spotify.com/album/3Alr3YRWtyH8J315fqb9wT) | 2:12 |
+| 31 | [Skip Town](https://open.spotify.com/track/1o3Y7eA193VOMIt1CLnERJ) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Songs About The Weather](https://open.spotify.com/album/3Alr3YRWtyH8J315fqb9wT) | 2:03 |
 | 32 | [Meet Me In St\. Louis](https://open.spotify.com/track/40I5U24KYHNKMkRf4jXZ9D) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Songs About The Weather](https://open.spotify.com/album/3Alr3YRWtyH8J315fqb9wT) | 2:10 |
 | 33 | [1104 Porter St](https://open.spotify.com/track/11Cf39LSlZmTUBGLoP8jCx) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Songs About The Weather](https://open.spotify.com/album/3Alr3YRWtyH8J315fqb9wT) | 2:04 |
 | 34 | [Intro](https://open.spotify.com/track/6HQazh5h0nLMuKR3R6lauX) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Songs About The Weather](https://open.spotify.com/album/3Alr3YRWtyH8J315fqb9wT) | 0:37 |
 
-Snapshot ID: `Mjc3MjIyMzMsMDAwMDAwMDA2OTE3YTlkNjJjNjUzZTU3NTVlZDI4ZDU1ODEyMWQ0YQ==`
+Snapshot ID: `Mjc3MjM2OTIsMDAwMDAwMDA2ODJlN2YwNmIyY2ZlNDBhY2IwMmY2MGQ3OTI3MDhmOA==`

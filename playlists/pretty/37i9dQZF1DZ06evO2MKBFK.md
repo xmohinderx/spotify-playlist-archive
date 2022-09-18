@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MKBFK.md) - [plain]
 
 > This is BIGBANG\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 616,845 likes - 51 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 616,840 likes - 51 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,11 +17,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MKBFK.md) - [plain]
 | 7 | [Sunset Glow](https://open.spotify.com/track/3qHBjPdFZeS0tfXywAxOKq) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Remember](https://open.spotify.com/album/2W66jOC3qqVZvLn9foXXbg) | 3:24 |
 | 8 | [声をきかせて](https://open.spotify.com/track/3A6XBzAollv1Yi7dl53141) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [声をきかせて](https://open.spotify.com/album/35kyS8D51cS1mVqWMbLNIr) | 4:13 |
 | 9 | [Blue](https://open.spotify.com/track/4LOLvDtzykDC7y9WehFoOi) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [ALIVE](https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M) | 3:53 |
-| 10 | [LOSER](https://open.spotify.com/track/2vzn8usBcuNL93DnTjEK0z) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [MADE](https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY) | 3:39 |
+| 10 | [IF YOU](https://open.spotify.com/track/4kaY4LbdbomICC25gYGGtn) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [MADE](https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY) | 4:24 |
 | 11 | [FLOWER ROAD](https://open.spotify.com/track/5tmKSkKHNVrxh4Fctj2TdS) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [FLOWER ROAD](https://open.spotify.com/album/75LBd3Qv8p2DqqGk3oykdx) | 3:48 |
 | 12 | [Tonight](https://open.spotify.com/track/5BGFEihEqSVBPWICqVnPIU) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Tonight](https://open.spotify.com/album/6b08mw1Ggz7UyVYas1iRgj) | 3:42 |
 | 13 | [Bad Boy](https://open.spotify.com/track/7GLlnuHjYIKy3YR59ziaQe) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [ALIVE](https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M) | 3:56 |
-| 14 | [IF YOU](https://open.spotify.com/track/4kaY4LbdbomICC25gYGGtn) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [MADE](https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY) | 4:24 |
+| 14 | [LOSER](https://open.spotify.com/track/2vzn8usBcuNL93DnTjEK0z) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [MADE](https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY) | 3:39 |
 | 15 | [Love Song](https://open.spotify.com/track/784qSLhmIjbc37plSfaPzF) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [BIGBANG Special Edition](https://open.spotify.com/album/2fpQB21ER6ETvnfADPdaHl) | 3:45 |
 | 16 | [Monster](https://open.spotify.com/track/0c7QMo952Ga2qAJMdfEcrb) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Special Edition 'Still Alive'](https://open.spotify.com/album/4tsRYh3Fat8iwTL0RkLX6X) | 3:51 |
 | 17 | [Last Farewell](https://open.spotify.com/track/7KDHGgYt5fF2Lh9FxMbVML) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Hot Issue](https://open.spotify.com/album/4qpzzLtl5ksEnhryRUrNQC) | 3:51 |
@@ -50,14 +50,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MKBFK.md) - [plain]
 | 40 | [Hands Up](https://open.spotify.com/track/1R1wuzQxZhghrjJZvqReyW) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Tonight](https://open.spotify.com/album/6b08mw1Ggz7UyVYas1iRgj) | 3:57 |
 | 41 | [Baby Baby \- Japanese Version](https://open.spotify.com/track/0DQ8eRAcGG1iUIdqk6RFhq) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [THE BEST OF BIGBANG 2006\-2014](https://open.spotify.com/album/1JwbdXLKJVffgSW95WcTUp) | 3:53 |
 | 42 | [Fool](https://open.spotify.com/track/0K1bxe733BFc74jk4g59ED) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Hot Issue](https://open.spotify.com/album/4qpzzLtl5ksEnhryRUrNQC) | 3:45 |
-| 43 | [BEAUTIFUL HANGOVER](https://open.spotify.com/track/1Z9metSk7L35CWSbVzoP2w) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [BEAUTIFUL HANGOVER](https://open.spotify.com/album/0T3kfOUAUkhzvrPUm6sxxA) | 3:43 |
-| 44 | [A Good Man](https://open.spotify.com/track/72NpoBNUwJFDHMbyV2iMYv) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Stand Up](https://open.spotify.com/album/0NB6IIwQeRDzNFCU22LQto) | 3:26 |
+| 43 | [A Good Man](https://open.spotify.com/track/72NpoBNUwJFDHMbyV2iMYv) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Stand Up](https://open.spotify.com/album/0NB6IIwQeRDzNFCU22LQto) | 3:26 |
+| 44 | [BEAUTIFUL HANGOVER](https://open.spotify.com/track/1Z9metSk7L35CWSbVzoP2w) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [BEAUTIFUL HANGOVER](https://open.spotify.com/album/0T3kfOUAUkhzvrPUm6sxxA) | 3:43 |
 | 45 | [My Girl \(Taeyang Solo\)](https://open.spotify.com/track/5MlW47ybnUooaDlfZk5RP0) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [BIGBANG Vol\. 1](https://open.spotify.com/album/3iTETURuyuUJByvQOLoydV) | 3:51 |
 | 46 | [Lollipop Part.2](https://open.spotify.com/track/7jJnHoPel2hxKFlcLgTmoJ) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Lollipop Pt.2](https://open.spotify.com/album/4VPoZSOEnpfUu36fILrqA1) | 3:20 |
 | 47 | [Oh Ma Baby](https://open.spotify.com/track/27vEqY0DyEDGXVFIb66kuL) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Always](https://open.spotify.com/album/4T1fv3gIYifquPf9dRhJei) | 3:51 |
 | 48 | [Forever With U \(Feat\. Park Bom\)](https://open.spotify.com/track/7czVcA9IUsAy61QdQaX2Tw) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX), [Park Bom](https://open.spotify.com/artist/3uHb6dRazmcaT15bMexUtt) | [Bigbang 03](https://open.spotify.com/album/0UewBgAMHugPdwS4Utk8SH) | 3:38 |
 | 49 | [We belong together](https://open.spotify.com/track/7mm0wCVAg6iigOXWEfd4P3) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [BigBang First Single](https://open.spotify.com/album/3nfvdW6RJSRkIGcqy1wJ8K) | 3:58 |
 | 50 | [EYES, NOSE, LIPS \- Live](https://open.spotify.com/track/6nrgWCby7MpEpbcRJxRRZ9) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [BIGBANG10 THE CONCERT 0.TO.10 FINAL IN SEOUL](https://open.spotify.com/album/6ep57xzNzxOuSCIw4iEfIv) | 4:45 |
-| 51 | [Oh My Friend](https://open.spotify.com/track/3qtZyPlAqtNYVoN1ECWNJy) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX), [No Brain](https://open.spotify.com/artist/6keuCA49b9am8lisSodCh7) | [Stand Up](https://open.spotify.com/album/0NB6IIwQeRDzNFCU22LQto) | 3:29 |
+| 51 | [Bingle Bingle \(빙글빙글\)](https://open.spotify.com/track/5nEqDf0voYu56KiHf7cfDe) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Special Edition 'Still Alive'](https://open.spotify.com/album/4tsRYh3Fat8iwTL0RkLX6X) | 3:00 |
 
-Snapshot ID: `Mjc3MjIyMzMsMDAwMDAwMDA5YTZiMTZiNGY5ZTg5ODkyZTI2NjFlYWIzNzJlMmU4Mg==`
+Snapshot ID: `Mjc3MjM2OTIsMDAwMDAwMDBiMDEzYTk3NjkzYmNmYjA2NDEyMDFhMjg3MWVmZWYzOA==`

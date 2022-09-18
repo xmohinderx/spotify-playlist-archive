@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cTwPMorHcH.md) - [plain]
 
 > Blues \- new and old \- to accompany your drive\. Cover: B.B\. King
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,137 likes - 100 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,214 likes - 100 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,9 +86,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cTwPMorHcH.md) - [plain]
 | 76 | [Why Don't You Eat Where You Slept Last Night?](https://open.spotify.com/track/2WdjmV6o9JeFqQIKQvF2ej) | [Zuzu Bollin](https://open.spotify.com/artist/4T7XsMXUOYlL1FlvqL3SIQ) | [Texas Bluesman](https://open.spotify.com/album/2xw1vOxRhhr9iywYKcI18h) | 2:54 |
 | 77 | [Plastic Hamburgers](https://open.spotify.com/track/3lWwsRSWeSTXUBTJeuRPPg) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Please Don't Be Dead](https://open.spotify.com/album/4EdNTjVzjIxYqEUGPiyiZS) | 3:37 |
 | 78 | [Honey, Hush aka Talking Woman Blues](https://open.spotify.com/track/5qPJSWhuZpD79C3CloJvDA) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Ice Pickin'](https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab) | 4:28 |
-| 79 | [You Can't Teach An Old Dog New Tricks](https://open.spotify.com/track/2YXJSAmQ6teroFJLAkYI7f) | [Seasick Steve](https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv) | [You Can't Teach An Old Dog New Tricks](https://open.spotify.com/album/19NWR3uhtr9uIMIms0alvr) | 3:34 |
-| 80 | [I'm Glad Trouble Don't Last Always](https://open.spotify.com/track/3b9xTm2eiaCRTGqUEWuzxc) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [I'm Glad Trouble Don't Last Always](https://open.spotify.com/album/6ctUlHVnZfeKaR1UStIknt) | 4:17 |
-| 81 | [Bleach Blonde Bottle Blues](https://open.spotify.com/track/087pkHhO4DtAZ3AzFtNZGo) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Venom & Faith](https://open.spotify.com/album/4XflGGrR7ASWoMNVfy7txI) | 3:13 |
+| 79 | [Bleach Blonde Bottle Blues](https://open.spotify.com/track/087pkHhO4DtAZ3AzFtNZGo) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Venom & Faith](https://open.spotify.com/album/4XflGGrR7ASWoMNVfy7txI) | 3:13 |
+| 80 | [You Can't Teach An Old Dog New Tricks](https://open.spotify.com/track/2YXJSAmQ6teroFJLAkYI7f) | [Seasick Steve](https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv) | [You Can't Teach An Old Dog New Tricks](https://open.spotify.com/album/19NWR3uhtr9uIMIms0alvr) | 3:34 |
+| 81 | [I'm Glad Trouble Don't Last Always](https://open.spotify.com/track/3b9xTm2eiaCRTGqUEWuzxc) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [I'm Glad Trouble Don't Last Always](https://open.spotify.com/album/6ctUlHVnZfeKaR1UStIknt) | 4:17 |
 | 82 | [Take It All](https://open.spotify.com/track/2H0s28N3rendfnepsj48C6) | [Danielle Nicole](https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn) | [Wolf Den](https://open.spotify.com/album/72iUWLyrZgp7WUAIaqX0Np) | 2:57 |
 | 83 | [This Man](https://open.spotify.com/track/06s7QRpHfeiKL3YCIRTKxg) | [Robert Cray](https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj) | [That's What I Heard](https://open.spotify.com/album/5MHALMDVXq4S7Ad6pNVl8I) | 5:06 |
 | 84 | [Money and Fools](https://open.spotify.com/track/76iRpYJl2cL7B6VCJ8Qkie) | [Benny Walker](https://open.spotify.com/artist/7vkMTeJB89xakcCt1kaU0W) | [Chosen Line](https://open.spotify.com/album/40qZJVfOO3lXWaXIHVTXqn) | 3:50 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cTwPMorHcH.md) - [plain]
 | 89 | [Magnolia Blues](https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Magnolia Blues](https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr) | 3:28 |
 | 90 | [Am I Wrong](https://open.spotify.com/track/3tvyQCSm1QcWURgGvygvke) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Keb' Mo'](https://open.spotify.com/album/09rC6HgLbuYl74OvGdJw6t) | 2:18 |
 | 91 | [Amen](https://open.spotify.com/track/59pMk1hZKKYQw1itapEMCI) | [War & Pierce](https://open.spotify.com/artist/1YPZK8wRkpV1pyTD3OsgBh) | [Amen](https://open.spotify.com/album/2utrZ7q63fuv9T4Q7AMgeI) | 4:07 |
-| 92 | [Bulletproof \- Tangle Eye Mix](https://open.spotify.com/track/6iy2u83vc4L95HS3JYxSQs) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Kill Or Be Kind](https://open.spotify.com/album/0Z917mMSP3EHtJicbhSAhA) | 5:19 |
-| 93 | [How Blue Can You Get?](https://open.spotify.com/track/1zuVsc5gf2S2Fp5achygUi) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [The Anthology](https://open.spotify.com/album/7tQFiUboN0vnK7Wavscmdb) | 2:40 |
+| 92 | [How Blue Can You Get?](https://open.spotify.com/track/1zuVsc5gf2S2Fp5achygUi) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [The Anthology](https://open.spotify.com/album/7tQFiUboN0vnK7Wavscmdb) | 2:40 |
+| 93 | [Bulletproof \- Tangle Eye Mix](https://open.spotify.com/track/6iy2u83vc4L95HS3JYxSQs) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Kill Or Be Kind](https://open.spotify.com/album/0Z917mMSP3EHtJicbhSAhA) | 5:19 |
 | 94 | [I Wanna Get Funky](https://open.spotify.com/track/2KaiZgGRtgeETwv52tn5rK) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [I Wanna Get Funky](https://open.spotify.com/album/6046X2I4SRTkO4BY14PGG6) | 4:07 |
 | 95 | [Preachin' Blues](https://open.spotify.com/track/2oVDBaesJPlOsvr3FmRIFW) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Peach](https://open.spotify.com/album/0rvaC10w4nAe8NT8y2Zuwl) | 3:21 |
 | 96 | [What Kind Of Woman Is This?](https://open.spotify.com/track/0BrmbJnPYcd7gnvLYqxw0r) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Bring 'Em In](https://open.spotify.com/album/6q80QMqBZJMht2f7c4bLL6) | 5:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cTwPMorHcH.md) - [plain]
 | 99 | [Old Time Used to Be](https://open.spotify.com/track/5qORQA2LGzwmmCjLgHtHS6) | [Joe Louis Walker](https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD), [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Blues Comin' On](https://open.spotify.com/album/3nToFx6LGlS7AUa01g1KCa) | 5:17 |
 | 100 | [We Made It](https://open.spotify.com/track/4tYceKEtQBXxRQfLxuDRYb) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [Benton County Relic](https://open.spotify.com/album/6N2kgU28H4AZWrsnw8IVeu) | 3:34 |
 
-Snapshot ID: `MTY1NjA4ODI0MywwMDAwMDAwMDIwYTAwNjgwNjdiZjAxMDc1ZDc4ZDA5OTRhOTQ5YTNl`
+Snapshot ID: `MTY1NjA4ODI0MywwMDAwMDAwMDNiOWZiMTg1OTk3Yzg1MDQ3MjEyYTM1M2YyMTkxMDgw`

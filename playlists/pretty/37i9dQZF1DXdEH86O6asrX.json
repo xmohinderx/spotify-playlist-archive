@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Disfruta de las mejores bandas sonoras del siglo XXI!",
-  "num_followers": 521987,
+  "num_followers": 521997,
   "original_name": "Soundtracks \u00c9picos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTcxODM1NSwwMDAwMDAwMDQwZTgwZTNjYzEyMGIzMWQwYmM2OTk5MzNkNzNiM2Zm",
+  "snapshot_id": "MTY0OTcxODM1NSwwMDAwMDAwMDA0NGNjYzU5Y2IwOGNiZmY5NjNmZDkzZTZiZTM0NmJm",
   "tracks": [
     {
       "added_at": "2022-01-27 04:35:36",
@@ -415,6 +415,26 @@
     {
       "added_at": "2022-01-27 04:35:36",
       "album": {
+        "name": "Inside Llewyn Davis: Original Soundtrack Recording",
+        "url": "https://open.spotify.com/album/1HlwBBTjItwW2VN4OG1rin"
+      },
+      "artists": [
+        {
+          "name": "Oscar Isaac",
+          "url": "https://open.spotify.com/artist/5opRYqktzpMFqZ7jtnp7yy"
+        },
+        {
+          "name": "Marcus Mumford",
+          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
+        }
+      ],
+      "duration_ms": 180400,
+      "name": "Fare Thee Well (Dink's Song)",
+      "url": "https://open.spotify.com/track/0YOOXnCJihgyluizqhAcrz"
+    },
+    {
+      "added_at": "2022-01-27 04:35:36",
+      "album": {
         "name": "Smiley Smile (Remastered)",
         "url": "https://open.spotify.com/album/37rNuexqEXWeSIOiJtn3A9"
       },
@@ -443,26 +463,6 @@
       "duration_ms": 103880,
       "name": "Garbage Truck",
       "url": "https://open.spotify.com/track/4YbslGpDoOgJgH8wqSdfaP"
-    },
-    {
-      "added_at": "2022-01-27 04:35:36",
-      "album": {
-        "name": "Inside Llewyn Davis: Original Soundtrack Recording",
-        "url": "https://open.spotify.com/album/1HlwBBTjItwW2VN4OG1rin"
-      },
-      "artists": [
-        {
-          "name": "Oscar Isaac",
-          "url": "https://open.spotify.com/artist/5opRYqktzpMFqZ7jtnp7yy"
-        },
-        {
-          "name": "Marcus Mumford",
-          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
-        }
-      ],
-      "duration_ms": 180400,
-      "name": "Fare Thee Well (Dink's Song)",
-      "url": "https://open.spotify.com/track/0YOOXnCJihgyluizqhAcrz"
     },
     {
       "added_at": "2022-01-27 04:35:36",
@@ -615,22 +615,6 @@
     {
       "added_at": "2022-01-27 04:35:36",
       "album": {
-        "name": "A Charlie Brown Christmas [2012 Remastered & Expanded Edition]",
-        "url": "https://open.spotify.com/album/7DuJYWu66RPdcekF5TuZ7w"
-      },
-      "artists": [
-        {
-          "name": "Vince Guaraldi Trio",
-          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
-        }
-      ],
-      "duration_ms": 166386,
-      "name": "Christmas Time Is Here - Vocal",
-      "url": "https://open.spotify.com/track/299lFlaAsNQdgbIZNPmIA0"
-    },
-    {
-      "added_at": "2022-01-27 04:35:36",
-      "album": {
         "name": "The Essential Eartha Kitt",
         "url": "https://open.spotify.com/album/3YYxlTrYciDHu3j7E5wGrZ"
       },
@@ -715,22 +699,6 @@
     {
       "added_at": "2022-01-27 04:35:36",
       "album": {
-        "name": "A Charlie Brown Christmas [2012 Remastered & Expanded Edition]",
-        "url": "https://open.spotify.com/album/7DuJYWu66RPdcekF5TuZ7w"
-      },
-      "artists": [
-        {
-          "name": "Vince Guaraldi Trio",
-          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
-        }
-      ],
-      "duration_ms": 309386,
-      "name": "O Tannenbaum",
-      "url": "https://open.spotify.com/track/34rzJNfTd5e9s3TICFMPD0"
-    },
-    {
-      "added_at": "2022-01-27 04:35:36",
-      "album": {
         "name": "Ella Wishes You A Swinging Christmas (Expanded Edition)",
         "url": "https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb"
       },
@@ -767,22 +735,6 @@
     {
       "added_at": "2022-01-27 04:35:36",
       "album": {
-        "name": "Dr. Seuss' How The Grinch Stole Christmas",
-        "url": "https://open.spotify.com/album/3eWFPHtloHTw9Ilod4Ivi6"
-      },
-      "artists": [
-        {
-          "name": "Faith Hill",
-          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
-        }
-      ],
-      "duration_ms": 247040,
-      "name": "Where Are You Christmas - From \"Dr. Seuss' How The Grinch Stole Christmas\" Soundtrack",
-      "url": "https://open.spotify.com/track/1msuiw6pnXYfxZ7Edyit9U"
-    },
-    {
-      "added_at": "2022-01-27 04:35:36",
-      "album": {
         "name": "Nightmare Before Christmas Special Edition",
         "url": "https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86"
       },
@@ -799,6 +751,22 @@
       "duration_ms": 237866,
       "name": "Making Christmas",
       "url": "https://open.spotify.com/track/60lpxsz5DjjZAChH8dzFDt"
+    },
+    {
+      "added_at": "2022-01-27 04:35:36",
+      "album": {
+        "name": "Dr. Seuss' How The Grinch Stole Christmas",
+        "url": "https://open.spotify.com/album/3eWFPHtloHTw9Ilod4Ivi6"
+      },
+      "artists": [
+        {
+          "name": "Faith Hill",
+          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
+        }
+      ],
+      "duration_ms": 247040,
+      "name": "Where Are You Christmas - From \"Dr. Seuss' How The Grinch Stole Christmas\" Soundtrack",
+      "url": "https://open.spotify.com/track/1msuiw6pnXYfxZ7Edyit9U"
     },
     {
       "added_at": "2022-01-27 04:35:36",
@@ -835,6 +803,22 @@
     {
       "added_at": "2022-01-27 04:35:36",
       "album": {
+        "name": "Harry Potter and The Sorcerer's Stone Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/6zeHM5CV0CjcS0K8ouWE4N"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "duration_ms": 175533,
+      "name": "Christmas at Hogwarts",
+      "url": "https://open.spotify.com/track/4WPw9shOzxaA4cWws44Xjd"
+    },
+    {
+      "added_at": "2022-01-27 04:35:36",
+      "album": {
         "name": "Nightmare Before Christmas Special Edition",
         "url": "https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86"
       },
@@ -847,6 +831,26 @@
       "duration_ms": 108013,
       "name": "Overture - (The Nightmare Before Christmas)",
       "url": "https://open.spotify.com/track/4r2IPR6tLBgF1dl2FqcPfF"
+    },
+    {
+      "added_at": "2022-01-27 04:35:36",
+      "album": {
+        "name": "The Decca Singles 1949-1958",
+        "url": "https://open.spotify.com/album/4PF4AAZ8f5stId2e5dSkE1"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "The Commanders",
+          "url": "https://open.spotify.com/artist/3VrWSWV74xyECVDt2zBy4T"
+        }
+      ],
+      "duration_ms": 176800,
+      "name": "Cool Yule",
+      "url": "https://open.spotify.com/track/2QWKbE6GpWhRtlbRwcP7g8"
     }
   ],
   "unique_name": "Soundtracks \u00c9picos",

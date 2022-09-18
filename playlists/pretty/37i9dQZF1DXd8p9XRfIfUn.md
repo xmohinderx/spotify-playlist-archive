@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 
 > Lo mejor de la nueva\. Foto: paopao
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,723 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,738 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [algo así](https://open.spotify.com/track/5YZ6ThqD1WBi9g0YSlLsfW) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [diamantes y espinas](https://open.spotify.com/album/3o86U2Y7aQCgQe2kQQOz8T) | 3:33 |
 | 2 | [Jordan](https://open.spotify.com/track/6y8z28epOv5FlaxDv1Lo5B) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Jordan](https://open.spotify.com/album/5NXNrP5J2LhfkbI9ZfcNXI) | 2:56 |
-| 3 | [Como Ñengo \(feat\. Jota Rosa\)](https://open.spotify.com/track/4xvYZWvfmL7FnWJHZhV1VS) | [Club Dieciséis](https://open.spotify.com/artist/3PVOsu4zHMse1c46pqTfnT), [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Jota Rosa](https://open.spotify.com/artist/7gK06FGYa8dtJogKJXAG80) | [Como Ñengo \(feat\. Jota Rosa\)](https://open.spotify.com/album/1D0xvI1Mz6Wv0TpTa6UAhC) | 3:24 |
+| 3 | [Como Ñengo \(feat\. Jota Rosa\)](https://open.spotify.com/track/4xvYZWvfmL7FnWJHZhV1VS) | [Club16](https://open.spotify.com/artist/2MXDat5eYxVcnHht0N2uSF), [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Jota Rosa](https://open.spotify.com/artist/7gK06FGYa8dtJogKJXAG80) | [Como Ñengo \(feat\. Jota Rosa\)](https://open.spotify.com/album/1D0xvI1Mz6Wv0TpTa6UAhC) | 3:24 |
 | 4 | [París](https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [París](https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD) | 2:31 |
 | 5 | [Mala Memoria](https://open.spotify.com/track/1XgZiDNjSDSP6ySC3tp8wj) | [West Blanco](https://open.spotify.com/artist/5KX37yoUcrgKZGNc0NdwHL) | [Mala Memoria](https://open.spotify.com/album/5iWTg6nuWpFtk5BuLi9yXA) | 2:58 |
 | 6 | [Una Vez](https://open.spotify.com/track/5J7teKIJGtqVypgYI6sqXj) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 3:52 |
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 | 19 | [Como Si Nada](https://open.spotify.com/track/2ECKWYbTPpKvtnKiRiUQqC) | [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf) | [Como Si Nada](https://open.spotify.com/album/25baT12B8EsCMIjKVCztUi) | 2:36 |
 | 20 | [Morena Cachetona](https://open.spotify.com/track/7er0ansHqESONRdGQGnDwk) | [JOSEPE EL DEMENTE](https://open.spotify.com/artist/6t90cfIUQ39eOTksTUE0zc), [Sayian Jimmy](https://open.spotify.com/artist/3ZfYo6sKskRv0wOyrZZdAj) | [Morena Cachetona](https://open.spotify.com/album/6UPwgTTQembPg88PGOPls3) | 3:20 |
 | 21 | [YO SE QUE TU \(feat\. Rusherking\)](https://open.spotify.com/track/4M4DTyLupKvbJKlE4I4EYq) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [YO SE QUE TU \(feat\. Rusherking\)](https://open.spotify.com/album/48FoiMxQVsy2fwZlDobT7y) | 3:13 |
-| 22 | [Q\-Lito](https://open.spotify.com/track/1W9c0BUe6ETdtBfQyqeOgw) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Q\-Lito](https://open.spotify.com/album/7vy05msyjhqtzv6wgemce7) | 3:08 |
-| 23 | [Dimelo Ma](https://open.spotify.com/track/1j1itFzuIbndSf6lW8L1Kx) | [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [Dimelo Ma](https://open.spotify.com/album/583gfP3iFB0x498Z8jwVuh) | 2:53 |
+| 22 | [Dimelo Ma](https://open.spotify.com/track/1j1itFzuIbndSf6lW8L1Kx) | [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [Dimelo Ma](https://open.spotify.com/album/583gfP3iFB0x498Z8jwVuh) | 2:53 |
+| 23 | [Q\-Lito](https://open.spotify.com/track/1W9c0BUe6ETdtBfQyqeOgw) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Q\-Lito](https://open.spotify.com/album/7vy05msyjhqtzv6wgemce7) | 3:08 |
 | 24 | [Siempre Fine](https://open.spotify.com/track/1C91EF0FrgTMat91LnsiUh) | [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl) | [Siempre Fine](https://open.spotify.com/album/4ZJFPNSnivkwyyNJ7EIYT4) | 2:45 |
 | 25 | [Uy K Raro](https://open.spotify.com/track/526lL7I17vKOuiD9Wd2vMt) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0) | [Uy K Raro](https://open.spotify.com/album/5FqitTSr4aw1i56OFbbbhn) | 2:07 |
 | 26 | [Un Poquito](https://open.spotify.com/track/1nU4sOQqqhFUqS0TiRlD0V) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Un Poquito](https://open.spotify.com/album/3T42E1jOeHGlo19lBSSZCO) | 2:46 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 | 59 | [La Botella](https://open.spotify.com/track/5YRoLVSBCQmQAYCVi5Et95) | [El Clooy](https://open.spotify.com/artist/2iBSDwlk9bvp1aKT4ubGoC) | [La Botella](https://open.spotify.com/album/3mkTkvsJwApPfUAJQuTrOJ) | 3:10 |
 | 60 | [Verificada](https://open.spotify.com/track/4DuyqxuT3sGiGlZJi5dpn4) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Verificada](https://open.spotify.com/album/4tIqAcRBIsjOU4kTHQZqwL) | 2:38 |
 
-Snapshot ID: `MTY2MjA3NjgwMCwwMDAwMDAwMDE1ZTA4NDIyOTU5N2Q1ZjA4MDI2ZTI5MjM4ZTgzNmFj`
+Snapshot ID: `MTY2MjA3NjgwMCwwMDAwMDAwMGQ2MzJkZDA2OWY4OGQ3YTllZTgzMDhiZDhiNGU5MzQ3`

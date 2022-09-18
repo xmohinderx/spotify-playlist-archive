@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0Na8xJd70B204c85CX7s7K">Alessandro La Cava</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-32 songs - 1 hr 37 min - not published yet
+33 songs - 1 hr 41 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Testa tra le nuvole, Pt\. 0](https://open.spotify.com/track/6jm6xEF89GMviLo8GILp6z) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7), [Yanomi](https://open.spotify.com/artist/6YgYCNwq3DkSXEd6kGxoZW) | [Before Wanderlust](https://open.spotify.com/album/4m56Ae5dOv24XbtQLYtXKp) | 2:52 | 2022-09-16 |  |
 | [Ti amo non lo so dire](https://open.spotify.com/track/0ghwEektHMemDGqmOzsNnc) | [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA) | [Ti amo non lo so dire](https://open.spotify.com/album/4xdh3qnIp6cwjHUzq27svz) | 3:37 | 2022-09-16 |  |
 | [Tramontana](https://open.spotify.com/track/5fv7PpVdqsRttMlSD2OD1g) | [Matteo Romano](https://open.spotify.com/artist/5Imsy0ZXNi7uWLJpP5dZ8b) | [Tramontana](https://open.spotify.com/album/3XcRaeOe3P3s2Z1AZLFFZW) | 2:56 | 2022-09-16 |  |
+| [Tutti I Miei Ricordi](https://open.spotify.com/track/1QBuTS2nDVBmqiOG9jneej) | [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5) | [Tutti I Miei Ricordi](https://open.spotify.com/album/46rBMQmLv2LTBJnJfDXdW1) | 3:24 | 2022-09-17 |  |
 | [Virale](https://open.spotify.com/track/2UaTiaxdp9uaRb6fMy8qpR) | [Matteo Romano](https://open.spotify.com/artist/5Imsy0ZXNi7uWLJpP5dZ8b) | [Virale](https://open.spotify.com/album/0rSZMkAo12juM5issAjerT) | 3:04 | 2022-09-16 |  |
 
 \*This playlist was first scraped on 2022-09-17. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRvPx3nttRN.md) - [plain]
 
 > Acoustic rock and pop that makes you feel good.
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,961 likes - 233 songs - 13 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 455,111 likes - 233 songs - 13 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRvPx3nttRN.md) - [plain]
 | 40 | [Set Fire to the Rain \- Cover](https://open.spotify.com/track/4wnhMXDfs64pcg0jxHscwI) | [Noah Guthrie](https://open.spotify.com/artist/6b0Wy4mw8ePj9w2EX3s4V3) | [The Covers, Vol\. 4](https://open.spotify.com/album/5U6Wjpe4mJO3TofaM9CzFz) | 3:53 |
 | 41 | [Eastside \(with Halsey & Khalid\) \- Acoustic](https://open.spotify.com/track/5iQ0Va8Dt5Yky4TXuqO5TF) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Eastside \(with Halsey & Khalid\) \[Acoustic\]](https://open.spotify.com/album/6T3cWvfXW2hSV27SENATUk) | 2:53 |
 | 42 | [Castle on the Hill \- Acoustic](https://open.spotify.com/track/5X6TnKT37TaSDkFm0598Uo) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Castle on the Hill \(Acoustic\)](https://open.spotify.com/album/3Zq8gpa3P0UM8H6XIY39Sn) | 3:46 |
-| 43 | [Ain't Nobody \(Loves Me Better\) \- Acoustic](https://open.spotify.com/track/1OozJMmjaGAgX8WPTTMpcG) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Ain't Nobody \(Loves Me Better\) \[Acoustic Version\]](https://open.spotify.com/album/6PqlQy6kppsKtw3vqy3r0m) | 2:58 |
+| 43 | [Ain't Nobody \(Loves Me Better\) \- Acoustic](https://open.spotify.com/track/1OozJMmjaGAgX8WPTTMpcG) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Ain't Nobody \(Loves Me Better\) \[Acoustic\] \[Acoustic Version\]](https://open.spotify.com/album/6PqlQy6kppsKtw3vqy3r0m) | 2:58 |
 | 44 | [Summer Of '69 \- MTV Unplugged Version](https://open.spotify.com/track/1OQpTtcuAauAqp5Okxtbs2) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [MTV Unplugged](https://open.spotify.com/album/081klksuaEwHIzuHGCks5p) | 4:01 |
 | 45 | [Use Somebody \- Acoustic Version](https://open.spotify.com/track/55KKAV2VnlggBrVS0J666s) | [Isabella Celander](https://open.spotify.com/artist/6sQYT9B066RITdelCECQuE) | [Use Somebody \(Acoustic Version\)](https://open.spotify.com/album/29IqFm10gYl1ml1Occt8m5) | 3:06 |
 | 46 | [Don't You Worry Child \- Acoustic Version](https://open.spotify.com/track/4BpndTKEqpLgntffipC53q) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Don't You Worry Child](https://open.spotify.com/album/3RKhRsifs4RWrqvWV1YpPY) | 4:17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPeYMCDRQeg.md) - [plain]
 
 > Celebrating Black love, one song at a time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,020 likes - 80 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,134 likes - 80 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPeYMCDRQeg.md) - [plain]
 | 75 | [I Still Love You](https://open.spotify.com/track/7ecOjXV0WlewEXaRo2kLNn) | [702](https://open.spotify.com/artist/2S8UlyXW4JjjHcbeg8ddIo) | [Star](https://open.spotify.com/album/5MynMNCxSoiaCnLhA3y3NE) | 4:47 |
 | 76 | [Gone Baby, Don't Be Long](https://open.spotify.com/track/0QQDaKW7eRRoqvbLCylzrn) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [New Amerykah Part Two: Return Of The Ankh](https://open.spotify.com/album/1MOub955Uer957RVqqkF2a) | 4:39 |
 | 77 | [Soul Sista \- Remix / From "Queen & Slim: The Soundtrack"](https://open.spotify.com/track/54SqlaPV5mzRTBBWdnE1OO) | [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs), [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo) | [Queen & Slim: The Soundtrack](https://open.spotify.com/album/3KkAi988nPkzw0FOrXTBfM) | 5:39 |
-| 78 | [Can't Let It Show](https://open.spotify.com/track/2kMarngrIWYgmAdVjruuuW) | [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l) | [Can't Let It Show](https://open.spotify.com/album/4HhADiM8pxlbilsOpxA6iO) | 3:37 |
-| 79 | [Searching](https://open.spotify.com/track/45muf22QzSyKwsF4l3IcwJ) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Vibrations](https://open.spotify.com/album/44FVaRWkEXn4DaDv9fD23z) | 4:00 |
+| 78 | [Searching](https://open.spotify.com/track/45muf22QzSyKwsF4l3IcwJ) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Vibrations](https://open.spotify.com/album/44FVaRWkEXn4DaDv9fD23z) | 4:00 |
+| 79 | [Can't Let It Show](https://open.spotify.com/track/2kMarngrIWYgmAdVjruuuW) | [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l) | [Can't Let It Show](https://open.spotify.com/album/4HhADiM8pxlbilsOpxA6iO) | 3:37 |
 | 80 | [Come Close](https://open.spotify.com/track/2dCD8qq7yHZPZduA8FJazs) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Electric Circus](https://open.spotify.com/album/4eD2SoySMPRl0SBv7rqk1X) | 4:35 |
 
-Snapshot ID: `MTY0NzI4NzY1OCwwMDAwMDAwMDA3ZmQyYjZjNWI1NjZhMWM3ODhmYjMwOWMyNDhjNzk1`
+Snapshot ID: `MTY0NzI4NzY1OCwwMDAwMDAwMDg4YzNkMThmYWRlZDM5NDU3M2NjNGYzZTRjNjQwMTc0`

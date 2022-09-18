@@ -1450,6 +1450,32 @@
     },
     {
       "album": {
+        "name": "Classics for September: Vivaldi",
+        "url": "https://open.spotify.com/album/1rVVSs0xg4l1hD9HvTTCGp"
+      },
+      "artists": [
+        {
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
+          "name": "Philip Pickett",
+          "url": "https://open.spotify.com/artist/28exjH55NHlMdsQFf64Zrt"
+        },
+        {
+          "name": "New London Consort",
+          "url": "https://open.spotify.com/artist/1aqZE6rtaBWlipoD3Cj8HB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69800,
+      "name": "Flute Concerto In G Minor, Op.10, No.2, RV439 - \"La notte\": 3. Largo",
+      "url": "https://open.spotify.com/track/2CshloGg0tcl2XrS0WFvb3"
+    },
+    {
+      "album": {
         "name": "I Love Vivaldi",
         "url": "https://open.spotify.com/album/6kxIaLWIZseRyTAUrv9TnE"
       },
@@ -1469,7 +1495,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 69800,
       "name": "Flute Concerto In G Minor, Op.10, No.2, RV439 - \"La notte\": 3. Largo",
       "url": "https://open.spotify.com/track/7e3nqbNF7GjmUTspupRx4o"

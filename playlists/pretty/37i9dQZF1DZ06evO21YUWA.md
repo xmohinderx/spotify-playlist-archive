@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21YUWA.md) - [plain]
 
 > This is Harold Budd\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,664 likes - 50 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,668 likes - 50 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21YUWA.md) - [plain]
 | 33 | [Arabesque 3](https://open.spotify.com/track/7AsLKcHPrUZe60x8o47YeQ) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Avalon Sutra](https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6) | 2:39 |
 | 34 | [Juno](https://open.spotify.com/track/2H96z4OFcMTTopEgIX49ci) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The Pavilion Of Dreams](https://open.spotify.com/album/0hWjBUtA4eoFsyh6lygVRN) | 8:20 |
 | 35 | [How Distant Your Heart](https://open.spotify.com/track/3sZ1KWZYD4WZhEa0jIgVg6) | [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [After The Night Falls](https://open.spotify.com/album/37xpeBIwCGwIYKpyakvJZR) | 4:03 |
-| 36 | [Spoken Roses](https://open.spotify.com/track/10IzKDk1QN1GU8SA0zDhVu) | [John Foxx](https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Translucence + Drift Music](https://open.spotify.com/album/5odrKqpDhUq8jzkptVhN2K) | 6:20 |
+| 36 | [The White Arcades](https://open.spotify.com/track/1RHWCbssogWYynyA7l0XsZ) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The White Arcades](https://open.spotify.com/album/3BbMmyVg5D8kA8tAKm5yRE) | 4:44 |
 | 37 | [It's Steeper Near the Roses \(For David Sylvian\)](https://open.spotify.com/track/3bHt0oTVrWjy9Rss6Akhhy) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Avalon Sutra](https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6) | 1:02 |
-| 38 | [The White Arcades](https://open.spotify.com/track/1RHWCbssogWYynyA7l0XsZ) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The White Arcades](https://open.spotify.com/album/3BbMmyVg5D8kA8tAKm5yRE) | 4:44 |
+| 38 | [Spoken Roses](https://open.spotify.com/track/10IzKDk1QN1GU8SA0zDhVu) | [John Foxx](https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Translucence + Drift Music](https://open.spotify.com/album/5odrKqpDhUq8jzkptVhN2K) | 6:20 |
 | 39 | [Jane 16 \(For Pale Saints\)](https://open.spotify.com/track/5mIe6UMcv1iqGMnoEYYWf9) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Jane 12\-21](https://open.spotify.com/album/6RIxSz62ARCq1iXXqMRtTT) | 3:24 |
 | 40 | [Ice Floes In Eden](https://open.spotify.com/track/5C0DGc7M86XqwMRPeusb8r) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Lovely Thunder](https://open.spotify.com/album/1MUMyzhjWpYnTKjmpTF1YA) | 3:28 |
 | 41 | [Jane 2](https://open.spotify.com/track/5ninNGGy8iR9tv3USENLKb) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Jane 1\-11](https://open.spotify.com/album/1WWcacsiLhViXL44OCdtft) | 4:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21YUWA.md) - [plain]
 | 49 | [Momentary Architecture](https://open.spotify.com/track/24MQNO07DSZeDjfBmkb1rT) | [John Foxx](https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Translucence + Drift Music](https://open.spotify.com/album/5odrKqpDhUq8jzkptVhN2K) | 1:40 |
 | 50 | [L'enfant Perdu](https://open.spotify.com/track/28D8V8CbAC4hXYRTU2ljeW) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Avalon Sutra](https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6) | 2:13 |
 
-Snapshot ID: `Mjc3MjIyMzMsMDAwMDAwMDA4YjAwYjkwOGEwM2UwM2IxNzVmYjY3NmI5YWY5NDI0OQ==`
+Snapshot ID: `Mjc3MjM2OTIsMDAwMDAwMDAxNGU3NzAwY2MzYWNjOWEyYWEzMDA1ZTM2MDNiYmFhNw==`

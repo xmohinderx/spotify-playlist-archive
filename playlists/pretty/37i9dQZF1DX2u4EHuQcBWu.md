@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 
 > Himnos de Resistencia: Somos un pueblo fuerte que no se calla.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,669 likes - 100 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,730 likes - 100 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 | 46 | [Mujeres](https://open.spotify.com/track/0PELaQWHo1MA89JH4lHyRj) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Miau Trío](https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL) | [Mujeres](https://open.spotify.com/album/3NOtXGgprgAE7XcyimuA6P) | 3:35 |
 | 47 | [La Muralla](https://open.spotify.com/track/7xTdDHBepVRqP9BqobHI75) | [Quilapayún](https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup) | [La Nueva Cancion Chilena, Vol\. 1](https://open.spotify.com/album/6lXAQ5Gozo845iSrcQEvfI) | 4:39 |
 | 48 | [Santiago De Chile](https://open.spotify.com/track/3D4iziSjHi4jxG8r4pta7z) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Música Libre](https://open.spotify.com/album/4ZIg4y7DVpIBYJAOHKXsx0) | 3:17 |
-| 49 | [Como La Cigarra \- En Directo](https://open.spotify.com/track/17QskQeUQ8Pskjgv5tThIw) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [Mercedes Sosa En Argentina \(En Directo\)](https://open.spotify.com/album/799FvskSrVFc7ZHv8fYfMC) | 2:41 |
-| 50 | [Al Pueblo Le Asusta La Revolución](https://open.spotify.com/track/582Lfqa9mSQO8bXtZImRYl) | [Portavoz](https://open.spotify.com/artist/271TPCWy79Q4utmSP6uSQg) | [Escribo Rap Con R De Revolucion](https://open.spotify.com/album/4XvUXpek6UQmjm5ig49yL7) | 4:28 |
+| 49 | [Al Pueblo Le Asusta La Revolución](https://open.spotify.com/track/582Lfqa9mSQO8bXtZImRYl) | [Portavoz](https://open.spotify.com/artist/271TPCWy79Q4utmSP6uSQg) | [Escribo Rap Con R De Revolucion](https://open.spotify.com/album/4XvUXpek6UQmjm5ig49yL7) | 4:28 |
+| 50 | [Como La Cigarra \- En Directo](https://open.spotify.com/track/17QskQeUQ8Pskjgv5tThIw) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [Mercedes Sosa En Argentina \(En Directo\)](https://open.spotify.com/album/799FvskSrVFc7ZHv8fYfMC) | 2:41 |
 | 51 | [Latinoamérica Es un Pueblo al Sur de Estados Unidos](https://open.spotify.com/track/6Y57xXG66eowb6BqZfbd0U) | [Los Prisioneros](https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04) | [La Voz de los '80 \(Edición 30 Años\)](https://open.spotify.com/album/21KLKcu16r2Rg2rMxw2ksa) | 4:02 |
 | 52 | [Sobreviviendo](https://open.spotify.com/track/26YfhyustEuuQpTzxp4tdP) | [Victor Heredia](https://open.spotify.com/artist/07S2B15CcvWG4jyfMhqx8X) | [La Historia Del Folklore \(2da Parte\)](https://open.spotify.com/album/1g1sE7jUdBW6QRhZH46JF5) | 5:46 |
 | 53 | [Somos Sur](https://open.spotify.com/track/7Ke2pX91o8sYw220ZY0whv) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz), [Shadia Mansour](https://open.spotify.com/artist/3PaRWHJX1nnmN4kffMGm93) | [Vengo](https://open.spotify.com/album/4AvYh9UIRwjZJYI9X7p8ua) | 3:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 | 99 | [Odio](https://open.spotify.com/track/7ss9oVoeAgsvNPhn5DyeQh) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Almadura](https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT) | 3:15 |
 | 100 | [Al Centro de la Injusticia](https://open.spotify.com/track/4yT9oSQbXPp3FpWgzmhM8g) | [Isabel Parra](https://open.spotify.com/artist/2aRPBh4HSVPmevvlsCySOt) | [Isabel Canta a Violeta](https://open.spotify.com/album/0N19bDrMu1S7MgaF2q2wb3) | 3:20 |
 
-Snapshot ID: `MTY2MzAxMzUxOSwwMDAwMDAwMGM5NGU0ZDUyNzQ5N2FmZjJhNjc0OWJmOWI4MmRjNzJk`
+Snapshot ID: `MTY2MzAxMzUxOSwwMDAwMDAwMDdiMTM3NWU5ZmZmZjgwNDZlMWZkODEwZWViNmI5NWM0`

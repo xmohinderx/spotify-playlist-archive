@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64iuGKXnGvl.md) - [plain]
 
 > Lo mejor del pop en español en la década de los 80.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,600 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,735 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64iuGKXnGvl.md) - [plain]
 | 47 | [Tímido](https://open.spotify.com/track/2m0rV14r7Idr8B8mVfSr6S) | [Flans](https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT) | [20 Millas](https://open.spotify.com/album/4XDOln6yWfqfuDN7TzLDqI) | 3:36 |
 | 48 | [Toda la Vida](https://open.spotify.com/track/3bekxMTpuHXZXjvuGWtBx5) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Mis Favoritas](https://open.spotify.com/album/3y1nIDv3YFYPl0Z8ZdyQ9d) | 4:47 |
 | 49 | [Déjame Vivir \(with Juan Gabriel\)](https://open.spotify.com/track/0voqOa0RHLxuo5mNQ1PTaj) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB), [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Duetos](https://open.spotify.com/album/4PCfCY3SQkDFq2DkF6zYLt) | 3:43 |
-| 50 | [Palabra De Honor](https://open.spotify.com/track/0LSEkDVm6fvO5Cyi5OVofE) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [El Idolo De Mexico](https://open.spotify.com/album/28KtwGLD5soKpzJyP1tGUo) | 3:38 |
+| 50 | [La Chica Del Bikini Azul](https://open.spotify.com/track/3cJRoXZeHJ13NbxIQOYILb) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [El Idolo De Mexico](https://open.spotify.com/album/28KtwGLD5soKpzJyP1tGUo) | 3:00 |
 
-Snapshot ID: `MTY1MDkxNjEwMywwMDAwMDAwMDI5ODgwZGZlOTc1NzIyMzdiZGVhYWJjM2M3Y2FhNjgz`
+Snapshot ID: `MTY1MDkxNjEwMywwMDAwMDAwMDM2MjFmMmI2MTlkYmU1MDlmMzU2NWJiMDRhODVkM2Rm`

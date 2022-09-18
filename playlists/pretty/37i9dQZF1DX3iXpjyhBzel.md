@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 
 > A música certa para o seu momento de adoração\. Foto: Julliany Souza, Isadora Pompeo
 
-[Spotify](https://open.spotify.com/user/spotify) - 856,812 likes - 89 songs - 8 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 857,069 likes - 89 songs - 8 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,10 +92,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 | 82 | [Não Posso Desistir](https://open.spotify.com/track/2cgCsP1m4K4tilrfRw9nM3) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Não Posso Desistir](https://open.spotify.com/album/0nuJ9Ohww9T23k3MDESFg3) | 3:36 |
 | 83 | [Ele é Deus \- Ao Vivo](https://open.spotify.com/track/62mntwFElvpHLNaPf9h8S7) | [Ton Molinari](https://open.spotify.com/artist/2qdD7yDxhXo9DVvyYQveao), [Juliano Son](https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P) | [Ele é Deus \(Ao Vivo\)](https://open.spotify.com/album/4dx6B0zaswyAQXyNFjIlEe) | 5:46 |
 | 84 | [Deus Cuida De Mim \- Ao Vivo](https://open.spotify.com/track/4C3JM08kRIAowxZJHuZ6Mk) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Memórias 3 \- Lado A \(Ao Vivo\)](https://open.spotify.com/album/6YyvuTGa4V9R37qFNXQ0tI) | 4:28 |
-| 85 | [Curado Serei](https://open.spotify.com/track/3uIsHQMOoGW5U9BW0BzqtE) | [Fernanda Madaloni](https://open.spotify.com/artist/2zooTs2rDXKbq4kN7BKivZ), [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h) | [Curado Serei](https://open.spotify.com/album/2mBnXKCxXfNEl6CQd0u1Bc) | 5:29 |
-| 86 | [Essência da Adoração \- Ao Vivo](https://open.spotify.com/track/2NVOSlLVgrsgD2Vugz4J03) | [Lu Alone](https://open.spotify.com/artist/352auYzmQ8KYsRjM2bFD8U), [David Quinlan](https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73) | [Essência da Adoração \(Ao Vivo\)](https://open.spotify.com/album/51pKYm2vz5dbK0Tn0xoCkU) | 4:00 |
+| 85 | [Essência da Adoração \- Ao Vivo](https://open.spotify.com/track/2NVOSlLVgrsgD2Vugz4J03) | [Lu Alone](https://open.spotify.com/artist/352auYzmQ8KYsRjM2bFD8U), [David Quinlan](https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73) | [Essência da Adoração \(Ao Vivo\)](https://open.spotify.com/album/51pKYm2vz5dbK0Tn0xoCkU) | 4:00 |
+| 86 | [Curado Serei](https://open.spotify.com/track/3uIsHQMOoGW5U9BW0BzqtE) | [Fernanda Madaloni](https://open.spotify.com/artist/2zooTs2rDXKbq4kN7BKivZ), [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h) | [Curado Serei](https://open.spotify.com/album/2mBnXKCxXfNEl6CQd0u1Bc) | 5:29 |
 | 87 | [Aba Pai](https://open.spotify.com/track/7cU0PtlmCWolIieowxvdhd) | [Jéssica Augusto](https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH), [ONE Service](https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP) | [Aba Pai](https://open.spotify.com/album/1zRuzxRwuD4QGiLR1ZrwO2) | 7:10 |
 | 88 | [Me Ensina a Ser Grato \- Incidental Grato a Ti](https://open.spotify.com/track/1BtrF1pl4fAcYBOoQFznYU) | [Pr\. Lucas](https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS) | [Me Ensina a Ser Grato \- Incidental: Grato a Ti](https://open.spotify.com/album/4nrOHAJw4mIk2vpotCHHlh) | 4:45 |
 | 89 | [Águas Purificadoras/Oceanos \- Ao Vivo](https://open.spotify.com/track/7zqF7owVpOCqpCd51iYyUJ) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [John Dias](https://open.spotify.com/artist/3einRPzp7ZMWn7M360r8zc) | [Águas Purificadoras/Oceanos \(Ao Vivo\)](https://open.spotify.com/album/7aOm27XpVLbrF6c5oRRun5) | 6:38 |
 
-Snapshot ID: `MTY2MjY5MjQwMCwwMDAwMDAwMDkzOWU3MDY5M2Y3ZDFhNzI3NmVjZTI2N2M5ZmMxNDA4`
+Snapshot ID: `MTY2MjY5MjQwMCwwMDAwMDAwMDcxYjk0OGNmZTVhNzc1Y2IyMzEyZTFhN2FkYjIzODUy`

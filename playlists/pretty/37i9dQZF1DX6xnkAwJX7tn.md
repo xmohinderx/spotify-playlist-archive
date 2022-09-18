@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xnkAwJX7tn.md) - [plain]
 
 > The biggest party hits of the 1980s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,624 likes - 150 songs - 10 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,211 likes - 150 songs - 10 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,8 +149,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xnkAwJX7tn.md) - [plain]
 | 139 | [I Won't Let The Sun Go Down On Me](https://open.spotify.com/track/65YtzNpiPhGVzg6GPzkotn) | [Nik Kershaw](https://open.spotify.com/artist/7kCL98rPFsNKjAHDmWrMac) | [Human Racing](https://open.spotify.com/album/5cl4eOKYrrX0pcFFnEieYR) | 3:23 |
 | 140 | [You Keep Me Hangin On](https://open.spotify.com/track/1wEeNtO7z41aUqC80shxqK) | [Kim Wilde](https://open.spotify.com/artist/73a6pNH4YtLNgDbPQwXveo) | [Another Step](https://open.spotify.com/album/7g47QK9nosKX9B2zdd8yTs) | 4:15 |
 | 141 | [A Little Respect](https://open.spotify.com/track/2RVQIq7bLi4Eu6xHPyQ46t) | [Erasure](https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89) | [The Innocents](https://open.spotify.com/album/7BS88XlHgbYq4bEnO6sICd) | 3:33 |
-| 142 | [I Ran \(So Far Away\)](https://open.spotify.com/track/4OdhffpvG3HxDJMxYOKh97) | [A Flock Of Seagulls](https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt) | [A Flock Of Seagulls](https://open.spotify.com/album/1hwPP3qgnV7PQrMSy6qFw8) | 5:08 |
-| 143 | [Say Say Say \- Remastered 2015](https://open.spotify.com/track/1db0gbTSKdRQum8VlbNkiO) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Pipes Of Peace](https://open.spotify.com/album/6zlKkX99NhLW8IRy77bYmb) | 3:55 |
+| 142 | [Say Say Say \- Remastered 2015](https://open.spotify.com/track/1db0gbTSKdRQum8VlbNkiO) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Pipes Of Peace](https://open.spotify.com/album/6zlKkX99NhLW8IRy77bYmb) | 3:55 |
+| 143 | [I Ran \(So Far Away\)](https://open.spotify.com/track/4OdhffpvG3HxDJMxYOKh97) | [A Flock Of Seagulls](https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt) | [A Flock Of Seagulls](https://open.spotify.com/album/1hwPP3qgnV7PQrMSy6qFw8) | 5:08 |
 | 144 | [Baby Jane \- 2008 Remaster](https://open.spotify.com/track/1wrT33b6HuKlpk9ziscEUY) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Body Wishes](https://open.spotify.com/album/065Q5LxNZPSjmqcZmGeRGc) | 4:43 |
 | 145 | [When the Going Gets Tough, The Tough Get Going](https://open.spotify.com/track/5UU5FbITNm5OunvHQdsKME) | [Billy Ocean](https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo) | [The Very Best of Billy Ocean](https://open.spotify.com/album/7n4OT3zEZaEiyKKd6mFAhi) | 4:08 |
 | 146 | [Loco in Acapulco](https://open.spotify.com/track/7gfAYm7X5HMSuKcO4dy8Wi) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Indestructible](https://open.spotify.com/album/1pbPkhuest1I4RGpz3rWmC) | 4:34 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xnkAwJX7tn.md) - [plain]
 | 149 | [Just Can't Get Enough \- 2006 Remaster](https://open.spotify.com/track/0xuXRQJfxmdP6gvfDe2Z4L) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Speak & Spell \(2006 Remaster\)](https://open.spotify.com/album/0ntg4L6zjosDII94zoyboq) | 3:42 |
 | 150 | [Real Wild Child \(Wild One\)](https://open.spotify.com/track/6ZAwEE4kTdtvyE66iRhFxR) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Blah\-Blah\-Blah](https://open.spotify.com/album/4j1zp01LTkV9kNWAuKU45c) | 3:38 |
 
-Snapshot ID: `MTY1MDkxNjI3NywwMDAwMDAwMDEyZWE1OTAwNGFjNTU0MDE4MzRlYjBmMWFiZjFiN2Rm`
+Snapshot ID: `MTY1MDkxNjI3NywwMDAwMDAwMDM3OTJkZGVmOTNjMzY4MTZhNzc0NTdlMmUzZjVlOTMw`

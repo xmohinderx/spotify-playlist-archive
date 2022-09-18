@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 
 > Featuring that new vintage\. Cover: Meghan Trainor
 
-[Spotify](https://open.spotify.com/user/spotify) - 399,462 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 399,466 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 | 58 | [We're On Our Way Now](https://open.spotify.com/track/3PwJ7f9g2BEmAfyuLfDZlk) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Back the Way We Came: Vol\. 1 \(2011 \- 2021\)](https://open.spotify.com/album/2aq32TQZkWO7wWGTWrINHr) | 4:08 |
 | 59 | [Hero](https://open.spotify.com/track/2Y61ZvCuuLOhdkgl1B9ekh) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [KIWANUKA](https://open.spotify.com/album/1yIqauTni1V7l7djYAKSsZ) | 3:19 |
 | 60 | [The Two of Us](https://open.spotify.com/track/24i3ftE5sMEGsGtclPQPSc) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Apolonio](https://open.spotify.com/album/7HlxxaJOHK0ArY4Ae4Qfc7) | 2:32 |
-| 61 | [Velcro \(feat\. Gus Dapperton\)](https://open.spotify.com/track/4jN6jgeKdFG7oBeXg3qC26) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Velcro \(feat\. Gus Dapperton\)](https://open.spotify.com/album/7yBUQWGRTjCSwSKVbcFbcA) | 3:12 |
-| 62 | [Glitter & Gold](https://open.spotify.com/track/5Q6mIVCErKoI6zb7wxJlBs) | [Rebecca Ferguson](https://open.spotify.com/artist/0CrCKxXekxMpkYfMEf8mca) | [Heaven \(Expanded Edition\)](https://open.spotify.com/album/5XRvidlLFT4rMytzHK7smn) | 3:29 |
+| 61 | [Glitter & Gold](https://open.spotify.com/track/5Q6mIVCErKoI6zb7wxJlBs) | [Rebecca Ferguson](https://open.spotify.com/artist/0CrCKxXekxMpkYfMEf8mca) | [Heaven \(Expanded Edition\)](https://open.spotify.com/album/5XRvidlLFT4rMytzHK7smn) | 3:29 |
+| 62 | [Velcro \(feat\. Gus Dapperton\)](https://open.spotify.com/track/4jN6jgeKdFG7oBeXg3qC26) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Velcro \(feat\. Gus Dapperton\)](https://open.spotify.com/album/7yBUQWGRTjCSwSKVbcFbcA) | 3:12 |
 | 63 | [LAX](https://open.spotify.com/track/1o0nAjgZwMDK9TI4TTUSNn) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Joey Dosik](https://open.spotify.com/artist/3kANxNTLNOhxpOPoCbGq9E) | [The Joy of Music, The Job of Real Estate](https://open.spotify.com/album/0woDg8EWf32yL9I5bhrGSD) | 3:45 |
 | 64 | [Dancing Away In Tears](https://open.spotify.com/track/5PPrN7zj104wLUtAofZvwb) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Stand For Myself](https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV) | 3:48 |
 | 65 | [Mine Forever](https://open.spotify.com/track/6fGNYNyM6PL9qE6kkFaW49) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Mine Forever](https://open.spotify.com/album/5vPc0ab8XurwCozeAu1xp6) | 4:48 |
@@ -89,12 +89,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 | 79 | [Strangers](https://open.spotify.com/track/73WyCOipkJRtIH8klizJd5) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Strangers](https://open.spotify.com/album/4MVgnDxPZUCmN4LNb0Urui) | 3:13 |
 | 80 | [Golden](https://open.spotify.com/track/37EENqOKD6uxLwthqxhKLt) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6) | [Golden](https://open.spotify.com/album/15y5YIZTkfg6tgoVCwPEoa) | 3:21 |
 | 81 | [SING](https://open.spotify.com/track/6x9CsGaWqqtaggNYelyWO5) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [WE ARE \(The Deluxe Edition\)](https://open.spotify.com/album/24bfr8pz2nOP8X4WioInsy) | 3:11 |
-| 82 | [Catch My Wave](https://open.spotify.com/track/7k94tKY98gAeq1sTvPPRWW) | [Cisco Adler](https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW), [Iration](https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk) | [Catch My Wave](https://open.spotify.com/album/6QSZi8vL18DTDQvP3pXrgo) | 3:14 |
-| 83 | [Precious Love \(Refreshed\)](https://open.spotify.com/track/2Qi7xDDXuuiwPYnVMBsTfo) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Greatest Hits](https://open.spotify.com/album/6qPMvni16dK3GuVk6K2fXa) | 4:00 |
+| 82 | [Precious Love \(Refreshed\)](https://open.spotify.com/track/2Qi7xDDXuuiwPYnVMBsTfo) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Greatest Hits](https://open.spotify.com/album/6qPMvni16dK3GuVk6K2fXa) | 4:00 |
+| 83 | [Catch My Wave](https://open.spotify.com/track/7k94tKY98gAeq1sTvPPRWW) | [Cisco Adler](https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW), [Iration](https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk) | [Catch My Wave](https://open.spotify.com/album/6QSZi8vL18DTDQvP3pXrgo) | 3:14 |
 | 84 | [Grow](https://open.spotify.com/track/3jPd7hIM0feCje8ZbVu6en) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Grow](https://open.spotify.com/album/3wzVULwHGvLkwiDdTMGQMZ) | 3:00 |
-| 85 | [Greatest Of All Time](https://open.spotify.com/track/57MOYJiJyxRG2ekDRaP3Vj) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Face The River](https://open.spotify.com/album/4YG58y43kECDcA1w5XNO2m) | 3:39 |
-| 86 | [Everybody](https://open.spotify.com/track/01YZSZi4jNs7QjEXn6eM6Y) | [Spencer Sutherland](https://open.spotify.com/artist/6mjz3NMhNE5SK7GsbJIg6C) | [Everybody](https://open.spotify.com/album/5lMHqkGXjoC0pKVUV8IKzQ) | 3:17 |
-| 87 | [Someone to Love](https://open.spotify.com/track/6FAoGmM3fdvOvEivi9edSd) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ) | [Someone to Love](https://open.spotify.com/album/42PFGz6vnOm79L3kYli8Z5) | 3:56 |
+| 85 | [Everybody](https://open.spotify.com/track/01YZSZi4jNs7QjEXn6eM6Y) | [Spencer Sutherland](https://open.spotify.com/artist/6mjz3NMhNE5SK7GsbJIg6C) | [Everybody](https://open.spotify.com/album/5lMHqkGXjoC0pKVUV8IKzQ) | 3:17 |
+| 86 | [Someone to Love](https://open.spotify.com/track/6FAoGmM3fdvOvEivi9edSd) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ) | [Someone to Love](https://open.spotify.com/album/42PFGz6vnOm79L3kYli8Z5) | 3:56 |
+| 87 | [Greatest Of All Time](https://open.spotify.com/track/57MOYJiJyxRG2ekDRaP3Vj) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Face The River](https://open.spotify.com/album/4YG58y43kECDcA1w5XNO2m) | 3:39 |
 | 88 | [California Wine](https://open.spotify.com/track/1HtLKqdCmOmM3zQxBzueUI) | [Quinn Devlin](https://open.spotify.com/artist/1a18ASCKBGTJJ95oIl7M5J) | [California Wine](https://open.spotify.com/album/6pPCScZ1pajucY9zcPEYje) | 3:07 |
 | 89 | [ADULTHOOD](https://open.spotify.com/track/0jqWdGvgLX2oOG70eIcwko) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe), [Hot 8 Brass Band](https://open.spotify.com/artist/1lvVzEkQ4u72rrZ7bNUkcD) | [WE ARE \(The Deluxe Edition\)](https://open.spotify.com/album/24bfr8pz2nOP8X4WioInsy) | 3:43 |
 | 90 | [It Will Come In Time](https://open.spotify.com/track/2eqocLN1rW8h10svumB8wd) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [It Will Come In Time](https://open.spotify.com/album/3kUX1L10eOj1lSuwrfk9PM) | 2:53 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 | 92 | [Drippin' In Love](https://open.spotify.com/track/2qCl9fSe6lVJFVA18nCZ5Z) | [Frankie Zulferino](https://open.spotify.com/artist/1e2qCgABcOAaTeqLHHFkvC) | [Drippin' In Love](https://open.spotify.com/album/7a2boCHqvpmp7S2jNOgp7K) | 4:05 |
 | 93 | [Lagoon](https://open.spotify.com/track/4ZCjHrvSjyp7bltVJtGvNt) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [comfortably in pain](https://open.spotify.com/album/39vpTiloqw4kytVLU29AxS) | 2:33 |
 | 94 | [Madelyn](https://open.spotify.com/track/39ZpHwLpCFBDeLpOphQYLQ) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Madelyn](https://open.spotify.com/album/2GxqnG8rJVHG18Bm27vpo0) | 3:15 |
-| 95 | [Madison](https://open.spotify.com/track/3GNnTQVqE4zUSECYzHXq0b) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Woman on the Internet](https://open.spotify.com/album/3TEaY5Lqzymo0AVv2HkQep) | 3:44 |
-| 96 | [Baby I'll Wait](https://open.spotify.com/track/7zqznhNk8DZbwo8fWIF82V) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Higher](https://open.spotify.com/album/6b6xEoiubMlgeGN6nrWM2V) | 2:23 |
+| 95 | [Baby I'll Wait](https://open.spotify.com/track/7zqznhNk8DZbwo8fWIF82V) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Higher](https://open.spotify.com/album/6b6xEoiubMlgeGN6nrWM2V) | 2:23 |
+| 96 | [Madison](https://open.spotify.com/track/3GNnTQVqE4zUSECYzHXq0b) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Woman on the Internet](https://open.spotify.com/album/3TEaY5Lqzymo0AVv2HkQep) | 3:44 |
 | 97 | [Sweet Chamomile](https://open.spotify.com/track/0RfBLmmqsSP1pir9zu46d4) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Moments in Between](https://open.spotify.com/album/31YtUUKHFaKVhlELeptm1S) | 3:28 |
 | 98 | [On Top of the World](https://open.spotify.com/track/5erTPoeHKb7wOHzqFw4msd) | [Stephen Day](https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5) | [On Top of the World](https://open.spotify.com/album/6VEn2lcVg9CwQEjnAT6LEj) | 3:59 |
 | 99 | [Love Is Love](https://open.spotify.com/track/3evHzU2xmG80c3jS4YT6ZI) | [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Love Is Love](https://open.spotify.com/album/658qjvfIWOhCwaOZixkb45) | 3:06 |
 | 100 | [Breaking Myself](https://open.spotify.com/track/0WoQVuNBdcuEvqeKZowqIK) | [Grace Kinstler](https://open.spotify.com/artist/1tsgfgGTbYHKRfV3GGua3u) | [Breaking Myself](https://open.spotify.com/album/1etjAoMPvUup3w3M95kfNb) | 2:54 |
 
-Snapshot ID: `MTY2MjY5NjA2MCwwMDAwMDAwMDA0NTRjNTlhODhlMzhhMTdlYTg1ZmZjZmM5MjYyNDVk`
+Snapshot ID: `MTY2MjY5NjA2MCwwMDAwMDAwMGU1MDZkNmQyNGM0MGJhZGQ0MzYwYTcxZTU1NDI5Mzk2`

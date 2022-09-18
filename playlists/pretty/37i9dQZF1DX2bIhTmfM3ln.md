@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2bIhTmfM3ln.md) - [plain]
 
 > West African love stories wrapped up in song
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,870 likes - 79 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,880 likes - 79 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,15 +77,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2bIhTmfM3ln.md) - [plain]
 | 67 | [Love Like This \(feat\. Fireboy DML\)](https://open.spotify.com/track/0Eq1YipYrFdRzPKT8y7iOC) | [Lil Kesh](https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Ecstasy](https://open.spotify.com/album/7yURZkIZfXifDmWOT48TT9) | 3:09 |
 | 68 | [Test Me](https://open.spotify.com/track/45VPTngfUEF7c5rBI2IOja) | [Jeune Lio](https://open.spotify.com/artist/1zz3LkV2ojd7rzmYf2QOsF), [Chrystel](https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0), [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf) | [A Night In Cocody](https://open.spotify.com/album/7HX3XJ5NzMPUVBkzYRQtWQ) | 3:40 |
 | 69 | [Last Name](https://open.spotify.com/track/4BwHxEsR5SFJJKGBzrjMGN) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [Last Name](https://open.spotify.com/album/5tUXmCXcOyqRO7lLeWrMHR) | 2:01 |
-| 70 | [Falling](https://open.spotify.com/track/7CGwYCUFYdGKuW3KNYtw6K) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Falling](https://open.spotify.com/album/0FVNUQpXBN55azvwBh4hhr) | 2:45 |
-| 71 | [Slow Down](https://open.spotify.com/track/06NG4AQXXeWnnODyUCC6ZU) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Slow Down](https://open.spotify.com/album/1M7aXbvLJZZU0tcW75opXe) | 2:57 |
-| 72 | [Tattoo](https://open.spotify.com/track/7yIsvwkZuWuskQrbtVWfrN) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [APOLLO](https://open.spotify.com/album/6HdrMYu33mRMYPEDB8MbPq) | 2:56 |
-| 73 | [Worth My While](https://open.spotify.com/track/61yCjv5bKruUBDmbsls0Pn) | [Manny Norté](https://open.spotify.com/artist/5IZXhE6DcoszTt30hAeJuw), [Stalk Ashley](https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5), [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Worth My While](https://open.spotify.com/album/4xjs0e8UUcJ7HUWrapvqR5) | 3:25 |
-| 74 | [Balance It](https://open.spotify.com/track/5Wx88Xpkw3jipuWmfpa1JA) | [D Jay](https://open.spotify.com/artist/1DETxFJht1YtCqi6EpmDxs) | [Balance It](https://open.spotify.com/album/19H3D6ShaQ0aYDu3UAsijY) | 3:07 |
-| 75 | [Shine](https://open.spotify.com/track/06TDTjD7efqsLwhXKv0bci) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Shine](https://open.spotify.com/album/4dyua6pD9i0Ht460lB6JOG) | 3:02 |
-| 76 | [Hard to Find](https://open.spotify.com/track/2DEfBwqL5U7OP3UFKQJ0cq) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [Hard to Find](https://open.spotify.com/album/5OgLCYPqsqVdwlGEijUEpQ) | 3:08 |
-| 77 | [Options](https://open.spotify.com/track/3j8QA7ByqMlDZdL6OAvi7b) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Options](https://open.spotify.com/album/7DrDPkf2xxGd9uAmxccW9s) | 2:55 |
+| 70 | [Slow Down](https://open.spotify.com/track/06NG4AQXXeWnnODyUCC6ZU) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Slow Down](https://open.spotify.com/album/1M7aXbvLJZZU0tcW75opXe) | 2:57 |
+| 71 | [Tattoo](https://open.spotify.com/track/7yIsvwkZuWuskQrbtVWfrN) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [APOLLO](https://open.spotify.com/album/6HdrMYu33mRMYPEDB8MbPq) | 2:56 |
+| 72 | [Worth My While](https://open.spotify.com/track/61yCjv5bKruUBDmbsls0Pn) | [Manny Norté](https://open.spotify.com/artist/5IZXhE6DcoszTt30hAeJuw), [Stalk Ashley](https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5), [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Worth My While](https://open.spotify.com/album/4xjs0e8UUcJ7HUWrapvqR5) | 3:25 |
+| 73 | [Balance It](https://open.spotify.com/track/5Wx88Xpkw3jipuWmfpa1JA) | [D Jay](https://open.spotify.com/artist/1DETxFJht1YtCqi6EpmDxs) | [Balance It](https://open.spotify.com/album/19H3D6ShaQ0aYDu3UAsijY) | 3:07 |
+| 74 | [Shine](https://open.spotify.com/track/06TDTjD7efqsLwhXKv0bci) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Shine](https://open.spotify.com/album/4dyua6pD9i0Ht460lB6JOG) | 3:02 |
+| 75 | [Hard to Find](https://open.spotify.com/track/2DEfBwqL5U7OP3UFKQJ0cq) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [Hard to Find](https://open.spotify.com/album/5OgLCYPqsqVdwlGEijUEpQ) | 3:08 |
+| 76 | [Options](https://open.spotify.com/track/3j8QA7ByqMlDZdL6OAvi7b) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Options](https://open.spotify.com/album/7DrDPkf2xxGd9uAmxccW9s) | 2:55 |
+| 77 | [Bad n Rude \(feat\. WSTRN\)](https://open.spotify.com/track/5vwKhgUVH6G17g664pSZbf) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [WSTRN](https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs) | [Bad n Rude \(feat\. WSTRN\)](https://open.spotify.com/album/4t9NUCaBagfEhBDUgOPYGc) | 3:46 |
 | 78 | [FOR YOU](https://open.spotify.com/track/1tj7Pn7RFy82MTwM3TvLkw) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [FOR YOU](https://open.spotify.com/album/0G24UhXGf5SSfBS9QNRKa0) | 3:08 |
 | 79 | [Body](https://open.spotify.com/track/27YwMCIG7Rx9czTR625Wfz) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG) | [Bayanni](https://open.spotify.com/album/0XIgw74GKfTD6MCOHzhovL) | 3:13 |
 
-Snapshot ID: `MTY2MzI4MjgwMCwwMDAwMDAwMDg1OGFlZTJiMzYyODYxNjc3Zjk2Y2E3MjMyYTVlOTVl`
+Snapshot ID: `MTY2MzI4MjgwMCwwMDAwMDAwMDI3Y2M2NTJjNGMzM2I4OWFkODc5MDY1ZDM3YzU5Y2I2`

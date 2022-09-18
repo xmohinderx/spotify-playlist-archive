@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4zvnN9RL36v.md) - [plain]
 
 > 내 마음을 노랫말이 알아줄 때.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,649 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,671 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4zvnN9RL36v.md) - [plain]
 | 19 | [Druken Truth](https://open.spotify.com/track/39FFkPyRLQtYBJkgV6ETAw) | [Exhibition](https://open.spotify.com/artist/491V7IpquUlnGZDCbKXVPE) | [Exhibition 2](https://open.spotify.com/album/0U916uzyklE8bn8hMlrX3t) | 5:20 |
 | 20 | [나였으면](https://open.spotify.com/track/7sp5iTQjB7GHXX4TKrhOaO) | [Na Yoon Kwon](https://open.spotify.com/artist/49fyJl5wIzI5GtRuCKxKRw) | [중독](https://open.spotify.com/album/4MDKAWZP2Z4czla9K68CDK) | 4:22 |
 | 21 | [Maybe I am](https://open.spotify.com/track/6r6CGnSzirRWxfmzOQHQfw) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) | [I'm](https://open.spotify.com/album/085XU5PQYl7eUA97BkkE8Z) | 3:48 |
-| 22 | [사랑은 언제나 목 마르다 Love Is Always Thirsty](https://open.spotify.com/track/3DfZJ4RowfA7OjSIQYSDoI) | [유미 Youme](https://open.spotify.com/artist/4y8PoupChBX11WsE6lUy3C) | [Sad](https://open.spotify.com/album/0zUSlyzOMtllEdGzQXQHex) | 4:30 |
+| 22 | [사랑은 언제나 목 마르다 Love Is Always Thirsty](https://open.spotify.com/track/3DfZJ4RowfA7OjSIQYSDoI) | [유미 Youme](https://open.spotify.com/artist/4y8PoupChBX11WsE6lUy3C) | [Sad](https://open.spotify.com/album/0zUSlyzOMtllEdGzQXQHex) | 4:30 |
 | 23 | [mistaken](https://open.spotify.com/track/7c8cPVLWvtZwxDxA3KkWFP) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [inside](https://open.spotify.com/album/1gphhxPPKfz8n69hKEK5D8) | 4:03 |
 | 24 | [\(Bonus Track\) Voice Mail \(Korean Version\)](https://open.spotify.com/track/0MMUVb6JJzOtMyTx9qrAjy) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Modern Times](https://open.spotify.com/album/2QcuXvQBWv1ZKyQtEhLbFe) | 4:06 |
 | 25 | [She Said \(With Kwon Jin Ah\)](https://open.spotify.com/track/7B6NK8YKCwPNqKnVTgMmtE) | [Toy](https://open.spotify.com/artist/492hlOWzJOoeAtBQZeFoZR), [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [Da Capo](https://open.spotify.com/album/2aFUFpaIjQQV7dWYsWsvEx) | 4:27 |

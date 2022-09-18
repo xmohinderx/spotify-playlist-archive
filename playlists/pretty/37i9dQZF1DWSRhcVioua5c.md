@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 
 > Una selección de baladas para suspirar de amor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,522 likes - 90 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,545 likes - 90 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 | 49 | [Para Los Ojos Más Bellos](https://open.spotify.com/track/669cJlmstiDWCFDyef4pil) | [Peteco Carabajal](https://open.spotify.com/artist/5gii2fYcxLoUHWd1lWe4aT) | [Andando](https://open.spotify.com/album/4Ni4fgItgWOCP2mCyPce10) | 3:04 |
 | 50 | [El Punto Final](https://open.spotify.com/track/4YBxqpFfiPYkBUWEmupg7b) | [Jorge Rojas](https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6) | [El Punto Final](https://open.spotify.com/album/1hfe0fdFG8n6sj6WOYOvcF) | 3:33 |
 | 51 | [Rubia Morena](https://open.spotify.com/track/0GSSBaK28YDe6Gq7Yo963f) | [Duo Coplanacu](https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ) | [Retiro al Norte](https://open.spotify.com/album/0aPTD6OKAie96jT6q8qFYf) | 3:33 |
-| 52 | [Eterno Amor](https://open.spotify.com/track/3x4TnooiGvW4itV28CVsV7) | [Los Alonsitos](https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H) | [Eterno Amor](https://open.spotify.com/album/12wekh0j8rkjGbzWejlU1X) | 3:56 |
-| 53 | [Quédate](https://open.spotify.com/track/2MTuRel1Cm6ecWOyiN2hQ7) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Quedate](https://open.spotify.com/album/3bzGBcnH8VDRCM0gyq4rrT) | 4:27 |
+| 52 | [Quédate](https://open.spotify.com/track/2MTuRel1Cm6ecWOyiN2hQ7) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Quedate](https://open.spotify.com/album/3bzGBcnH8VDRCM0gyq4rrT) | 4:27 |
+| 53 | [Eterno Amor](https://open.spotify.com/track/3x4TnooiGvW4itV28CVsV7) | [Los Alonsitos](https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H) | [Eterno Amor](https://open.spotify.com/album/12wekh0j8rkjGbzWejlU1X) | 3:56 |
 | 54 | [Al Soñarte](https://open.spotify.com/track/13yPWigbj0YOadjdRJ942u) | [Los del Portezuelo](https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc) | [Los Del Portezuelo](https://open.spotify.com/album/1TvdN3dnu3fV6ghx7s5k47) | 3:23 |
 | 55 | [La Flor](https://open.spotify.com/track/5AvuHRAVgEIXCo85GRPZRx) | [Francisco Benitez](https://open.spotify.com/artist/6egRIQTuB2wz5MbEBLfncj) | [La Flor](https://open.spotify.com/album/77BmF14sQo1mHv4Xw4g6lv) | 3:10 |
 | 56 | [A una Rosa](https://open.spotify.com/track/0e1ffAArZDxgak5mEXdPzD) | [Franco Ramirez](https://open.spotify.com/artist/3wtmjgdgUKVK3tonnKSh9a), [Jorge Rojas](https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6) | [De Barrio](https://open.spotify.com/album/6hm9pBwn4NXDV29seneaJ7) | 3:32 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 | 89 | [Gotas de Amor](https://open.spotify.com/track/3JS1Eq5oS5mPqZjuJSkRCD) | [Roxana Carabajal](https://open.spotify.com/artist/3XliglxGifK0IJjHPxo5MP), [Raly Barrionuevo](https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf) | [Autóctona](https://open.spotify.com/album/2E6mheIAe5QBEI5a5TuiKV) | 5:19 |
 | 90 | [Todo Será Mejor](https://open.spotify.com/track/6OPnnk3JYCQNybD4WMH5n5) | [Qiro](https://open.spotify.com/artist/5IkUS6AF0FAuaEEVf84tAO) | [Todo Será Mejor](https://open.spotify.com/album/2IbkSqdOd9aEpVuXUSgc2q) | 3:59 |
 
-Snapshot ID: `MTY2MjA4NzYwMCwwMDAwMDAwMDcxZmY3OGUwOTEzMDQ2YzM0YjRmZjEyZDQ5MTkwYzE2`
+Snapshot ID: `MTY2MjA4NzYwMCwwMDAwMDAwMDAyYjVhZDQ3ZjQ1ODQ2M2FhNWJlZTAyNTMxMmVjODdh`

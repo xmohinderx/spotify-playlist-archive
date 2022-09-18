@@ -1,12 +1,12 @@
 {
   "description": "Uplifting and energetic music that helps you stay motivated.",
-  "num_followers": 6450605,
+  "num_followers": 6452571,
   "original_name": "Motivation Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzI3OTIwMCwwMDAwMDAwMDk3YWE2NWQxZDFiZmM4ZWE5N2RhNWZmZjdjNDhhOTQ4",
+  "snapshot_id": "MTY2MzI3OTIwMCwwMDAwMDAwMGQwNmQ5YWM2MTE5NWU5YmI0Mjc0MGE0OGJmYzQ5ODhm",
   "tracks": [
     {
       "added_at": "2022-09-15 22:00:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
-        "name": "Jungle",
-        "url": "https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 198805,
-      "name": "Jungle",
-      "url": "https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE"
-    },
-    {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
         "name": "Drugs From Amsterdam",
         "url": "https://open.spotify.com/album/6ZnAre1P3Mz0LpiUeMQ1s8"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 235785,
       "name": "Drugs From Amsterdam",
       "url": "https://open.spotify.com/track/1uXPu4aSDFPLzyNcH6ASD4"
+    },
+    {
+      "added_at": "2022-09-15 22:00:00",
+      "album": {
+        "name": "Jungle",
+        "url": "https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 198805,
+      "name": "Jungle",
+      "url": "https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE"
     },
     {
       "added_at": "2022-09-15 22:00:00",
@@ -815,26 +815,6 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
-        "name": "Morenita",
-        "url": "https://open.spotify.com/album/4zMIwkKxRg5oo8ekxOKqHW"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Cumbiafrica",
-          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
-        }
-      ],
-      "duration_ms": 176491,
-      "name": "Morenita",
-      "url": "https://open.spotify.com/track/0pIiCv0GdhtsOjCJ5Y7zHj"
-    },
-    {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
         "name": "Take Me Back",
         "url": "https://open.spotify.com/album/3KEQLt8OBP8Y3VbKKQoIiI"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 129479,
       "name": "Take Me Back",
       "url": "https://open.spotify.com/track/2oGzHeApGhjANPNWYQNRQw"
+    },
+    {
+      "added_at": "2022-09-15 22:00:00",
+      "album": {
+        "name": "Morenita",
+        "url": "https://open.spotify.com/album/4zMIwkKxRg5oo8ekxOKqHW"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Cumbiafrica",
+          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
+        }
+      ],
+      "duration_ms": 176491,
+      "name": "Morenita",
+      "url": "https://open.spotify.com/track/0pIiCv0GdhtsOjCJ5Y7zHj"
     },
     {
       "added_at": "2022-09-15 22:00:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
-        "name": "Belters Only",
-        "url": "https://open.spotify.com/album/7q2csSLstONjj56KHf4YpD"
-      },
-      "artists": [
-        {
-          "name": "Belters Only",
-          "url": "https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA"
-        }
-      ],
-      "duration_ms": 150991,
-      "name": "I Will Survive",
-      "url": "https://open.spotify.com/track/5Fi4nPER6YbntbYDW4P3Pz"
-    },
-    {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
         "name": "Seven Nation Army",
         "url": "https://open.spotify.com/album/1BCTQcK8H8z7HcqtC93UvV"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 173658,
       "name": "Seven Nation Army",
       "url": "https://open.spotify.com/track/4SCbD68sf3dBfaE2X8uDSP"
+    },
+    {
+      "added_at": "2022-09-15 22:00:00",
+      "album": {
+        "name": "Belters Only",
+        "url": "https://open.spotify.com/album/7q2csSLstONjj56KHf4YpD"
+      },
+      "artists": [
+        {
+          "name": "Belters Only",
+          "url": "https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA"
+        }
+      ],
+      "duration_ms": 150991,
+      "name": "I Will Survive",
+      "url": "https://open.spotify.com/track/5Fi4nPER6YbntbYDW4P3Pz"
     },
     {
       "added_at": "2022-09-15 22:00:00",
@@ -1215,6 +1215,26 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
+        "name": "Ferrari (Oliver Heldens Remix)",
+        "url": "https://open.spotify.com/album/2vqDUyzavoaVR8gbe59JwY"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        }
+      ],
+      "duration_ms": 188640,
+      "name": "Ferrari - Oliver Heldens Remix",
+      "url": "https://open.spotify.com/track/0oCNRAmwLo4zHDpCKpjQtI"
+    },
+    {
+      "added_at": "2022-09-15 22:00:00",
+      "album": {
         "name": "I Got A Feeling",
         "url": "https://open.spotify.com/album/1RQIpbfwNYLalU8PKNysqt"
       },
@@ -1255,26 +1275,6 @@
       "duration_ms": 247896,
       "name": "MAMI",
       "url": "https://open.spotify.com/track/6JjSoJ2laV4ZbKNb9nybvh"
-    },
-    {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
-        "name": "Ferrari (Oliver Heldens Remix)",
-        "url": "https://open.spotify.com/album/2vqDUyzavoaVR8gbe59JwY"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        },
-        {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
-        }
-      ],
-      "duration_ms": 188640,
-      "name": "Ferrari - Oliver Heldens Remix",
-      "url": "https://open.spotify.com/track/0oCNRAmwLo4zHDpCKpjQtI"
     },
     {
       "added_at": "2022-09-15 22:00:00",
@@ -1335,22 +1335,18 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
-        "name": "Move It",
-        "url": "https://open.spotify.com/album/77jDTOiz2yoBETypeoYgza"
+        "name": "Drowning In You",
+        "url": "https://open.spotify.com/album/6ptlIp5e0j15OuwOwILDpM"
       },
       "artists": [
         {
-          "name": "Valentino Khan",
-          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
-        },
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
         }
       ],
-      "duration_ms": 201259,
-      "name": "Move It",
-      "url": "https://open.spotify.com/track/2YUVIkvZ2tPEZYTepX6oT9"
+      "duration_ms": 141875,
+      "name": "Drowning In You",
+      "url": "https://open.spotify.com/track/4nBG4RjDuiAa6Q7akigZI9"
     },
     {
       "added_at": "2022-09-15 22:00:00",
@@ -1375,6 +1371,26 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
+        "name": "Move It",
+        "url": "https://open.spotify.com/album/77jDTOiz2yoBETypeoYgza"
+      },
+      "artists": [
+        {
+          "name": "Valentino Khan",
+          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
+        },
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        }
+      ],
+      "duration_ms": 201259,
+      "name": "Move It",
+      "url": "https://open.spotify.com/track/2YUVIkvZ2tPEZYTepX6oT9"
+    },
+    {
+      "added_at": "2022-09-15 22:00:00",
+      "album": {
         "name": "1x1",
         "url": "https://open.spotify.com/album/4Q2e5JRxMvRIrdeNWY7Bp2"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 139435,
       "name": "1x1",
       "url": "https://open.spotify.com/track/1afXT2ntjBUlydAFZ3db66"
-    },
-    {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
-        "name": "Drowning In You",
-        "url": "https://open.spotify.com/album/6ptlIp5e0j15OuwOwILDpM"
-      },
-      "artists": [
-        {
-          "name": "Lucas Estrada",
-          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
-        }
-      ],
-      "duration_ms": 141875,
-      "name": "Drowning In You",
-      "url": "https://open.spotify.com/track/4nBG4RjDuiAa6Q7akigZI9"
     },
     {
       "added_at": "2022-09-15 22:00:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
-        "name": "Down For The Ride",
-        "url": "https://open.spotify.com/album/54h5f6arTVEerecJIR9g84"
-      },
-      "artists": [
-        {
-          "name": "ItaloBrothers",
-          "url": "https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ"
-        }
-      ],
-      "duration_ms": 160593,
-      "name": "Down For The Ride",
-      "url": "https://open.spotify.com/track/0L8NzGlH4nmnbOUSg4gO72"
-    },
-    {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
         "name": "Sandstorm",
         "url": "https://open.spotify.com/album/1on4DjUpgOCvULb3FTp9mO"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 159968,
       "name": "Sandstorm",
       "url": "https://open.spotify.com/track/1o6Wucld04vGF4UBeyHGwF"
+    },
+    {
+      "added_at": "2022-09-15 22:00:00",
+      "album": {
+        "name": "Down For The Ride",
+        "url": "https://open.spotify.com/album/54h5f6arTVEerecJIR9g84"
+      },
+      "artists": [
+        {
+          "name": "ItaloBrothers",
+          "url": "https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ"
+        }
+      ],
+      "duration_ms": 160593,
+      "name": "Down For The Ride",
+      "url": "https://open.spotify.com/track/0L8NzGlH4nmnbOUSg4gO72"
     },
     {
       "added_at": "2022-09-15 22:00:00",
@@ -1595,6 +1595,26 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
+        "name": "Yeah The Girls",
+        "url": "https://open.spotify.com/album/6yxWTg8P4cAJ0gyPHUqPfv"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "MERYLL",
+          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
+        }
+      ],
+      "duration_ms": 194310,
+      "name": "Yeah The Girls",
+      "url": "https://open.spotify.com/track/2ST4u9GusI2ddDfuMvXA5l"
+    },
+    {
+      "added_at": "2022-09-15 22:00:00",
+      "album": {
         "name": "Tell Me Secrets",
         "url": "https://open.spotify.com/album/3HWre2IiyyqUclVbnd6PlW"
       },
@@ -1615,26 +1635,6 @@
       "duration_ms": 136299,
       "name": "Tell Me Secrets",
       "url": "https://open.spotify.com/track/23omipnKWnESchdmJ3qGDq"
-    },
-    {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
-        "name": "Yeah The Girls",
-        "url": "https://open.spotify.com/album/6yxWTg8P4cAJ0gyPHUqPfv"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        },
-        {
-          "name": "MERYLL",
-          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
-        }
-      ],
-      "duration_ms": 194310,
-      "name": "Yeah The Girls",
-      "url": "https://open.spotify.com/track/2ST4u9GusI2ddDfuMvXA5l"
     },
     {
       "added_at": "2022-09-15 22:00:00",
@@ -1963,6 +1963,26 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
+        "name": "Tension",
+        "url": "https://open.spotify.com/album/4mt2BPMZLEIwHTl4A8oTGb"
+      },
+      "artists": [
+        {
+          "name": "VINAI",
+          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
+        },
+        {
+          "name": "Paradigm",
+          "url": "https://open.spotify.com/artist/6WamMeXO2jN9tUYxSBUclQ"
+        }
+      ],
+      "duration_ms": 159617,
+      "name": "Tension",
+      "url": "https://open.spotify.com/track/2mozbqXyO5NOmpOZc9O5s9"
+    },
+    {
+      "added_at": "2022-09-15 22:00:00",
+      "album": {
         "name": "Losing My Religion (feat. MKLA)",
         "url": "https://open.spotify.com/album/2jS5seVFSTaXWGJTi2Zz48"
       },
@@ -1991,22 +2011,22 @@
     {
       "added_at": "2022-09-15 22:00:00",
       "album": {
-        "name": "Tension",
-        "url": "https://open.spotify.com/album/4mt2BPMZLEIwHTl4A8oTGb"
+        "name": "Baddest",
+        "url": "https://open.spotify.com/album/0ayLG9HLt07N00Ycl60y5J"
       },
       "artists": [
         {
-          "name": "VINAI",
-          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
         },
         {
-          "name": "Paradigm",
-          "url": "https://open.spotify.com/artist/6WamMeXO2jN9tUYxSBUclQ"
+          "name": "Cher Lloyd",
+          "url": "https://open.spotify.com/artist/4m4SfDVbF5wxrwEjDKgi4k"
         }
       ],
-      "duration_ms": 159617,
-      "name": "Tension",
-      "url": "https://open.spotify.com/track/2mozbqXyO5NOmpOZc9O5s9"
+      "duration_ms": 151200,
+      "name": "Baddest",
+      "url": "https://open.spotify.com/track/65ffWlQCk6XeKX50CDYgib"
     },
     {
       "added_at": "2022-09-15 22:00:00",
@@ -2031,26 +2051,6 @@
       "duration_ms": 146983,
       "name": "Friday",
       "url": "https://open.spotify.com/track/4t5DaUXvdAFahZJtXYGYpH"
-    },
-    {
-      "added_at": "2022-09-15 22:00:00",
-      "album": {
-        "name": "Baddest",
-        "url": "https://open.spotify.com/album/0ayLG9HLt07N00Ycl60y5J"
-      },
-      "artists": [
-        {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
-        },
-        {
-          "name": "Cher Lloyd",
-          "url": "https://open.spotify.com/artist/4m4SfDVbF5wxrwEjDKgi4k"
-        }
-      ],
-      "duration_ms": 151200,
-      "name": "Baddest",
-      "url": "https://open.spotify.com/track/65ffWlQCk6XeKX50CDYgib"
     },
     {
       "added_at": "2022-09-15 22:00:00",

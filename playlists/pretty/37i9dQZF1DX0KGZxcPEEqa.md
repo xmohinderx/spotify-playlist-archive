@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KGZxcPEEqa.md) - [plain]
 
 > Digging deep into the history of 10s pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,557 likes - 400 songs - 23 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,647 likes - 400 songs - 23 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

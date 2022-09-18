@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: Young Miko, Chris Jedi, Lunay.
 
-[Spotify](https://open.spotify.com/user/spotify) - 505,036 likes - 62 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 505,093 likes - 62 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

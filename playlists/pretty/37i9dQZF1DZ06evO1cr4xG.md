@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cr4xG.md) - [plain]
 
 > This is Trivium\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,198 likes - 50 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,230 likes - 50 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cr4xG.md) - [plain]
 | 49 | [Through Blood and Dirt and Bone](https://open.spotify.com/track/5wsGmJgkTbddIDOoRU6xOT) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Vengeance Falls \(Special Edition\)](https://open.spotify.com/album/1hamGtmqitOROTKc0yNhow) | 4:26 |
 | 50 | [Watch the World Burn](https://open.spotify.com/track/1JwKA8yiG6cO43ZjEPawng) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In Waves \(Special Edition\)](https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji) | 4:53 |
 
-Snapshot ID: `Mjc3MjIyMzMsMDAwMDAwMDBhMGUyMWU2OGU1YmFkNTg4ZjZiODNlMGM4M2QzZGNlOQ==`
+Snapshot ID: `Mjc3MjM2OTIsMDAwMDAwMDBmZGMwYjk2OGUyNzJhODlmMGIxMGQ3OWFjNjgxNGY2YQ==`

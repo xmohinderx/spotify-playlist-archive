@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZodX1hXiq9y.md) - [plain]
 
 > The greatest saxophonists in Jazz\. Cover: John Coltrane
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,605 likes - 150 songs - 15 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,697 likes - 150 songs - 15 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > A fusion of highlife and hip\-hop, these hip\-life jams are undeniable.
 
-94 songs - 7 hr 36 min - [published](https://open.spotify.com/playlist/3Z2XtpSUEyDALyzM9IVooA)
+95 songs - 7 hr 39 min - [published](https://open.spotify.com/playlist/3Z2XtpSUEyDALyzM9IVooA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [Dondo](https://open.spotify.com/track/0YrIz7PlFQPjRVzP8hQsH2) | [Bradez](https://open.spotify.com/artist/4NkWh677uYqY9rWwqThNEL) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 5:51 | 2020-02-20 | 2022-07-29 |
 | [Dondo](https://open.spotify.com/track/6qXsfvpsehSXQqPSS22DKg) | [Bradez](https://open.spotify.com/artist/4NkWh677uYqY9rWwqThNEL), [Kwabena Kwabena](https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr) | [Dondo](https://open.spotify.com/album/3N2CZfeQGWnlbuMIPodm2A) | 5:51 | 2020-02-20 |  |
 | [Eboso](https://open.spotify.com/track/0l0aDiPRoexmDiJum6ZycI) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Eboso](https://open.spotify.com/album/7m5MA1XE7UUn2eoRBIWHzP) | 3:06 | 2021-11-18 |  |
-| [Falling](https://open.spotify.com/track/7CGwYCUFYdGKuW3KNYtw6K) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Falling](https://open.spotify.com/album/0FVNUQpXBN55azvwBh4hhr) | 2:45 | 2022-03-17 |  |
+| [Falling](https://open.spotify.com/track/7CGwYCUFYdGKuW3KNYtw6K) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Falling](https://open.spotify.com/album/0FVNUQpXBN55azvwBh4hhr) | 2:45 | 2022-03-17 | 2022-09-18 |
+| [Falling](https://open.spotify.com/track/3HfwFXzBr7AwLKHyLPGWHL) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR) | [Connecting the Dots](https://open.spotify.com/album/1q6SQV8J22Is1SsgKAh4eJ) | 2:45 | 2022-03-17 |  |
 | [FINGERS](https://open.spotify.com/track/6pGf2XUUNaj6tTkWXR1yJQ) | [Kwabena Kwabena](https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr) | [FINGERS](https://open.spotify.com/album/4BoK4qfCb8y8rejtjCwf8m) | 3:25 | 2022-04-14 |  |
 | [Gonja Barracks](https://open.spotify.com/track/28L43Uu8pfBiraGT6VXPcW) | [Buk Bak](https://open.spotify.com/artist/6e6W1oSxPGjoF2iAp2AZtF) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 6:43 | 2020-02-20 | 2022-03-18 |
 | [I'm Going to Come](https://open.spotify.com/track/5DcOSvBnce6X6GlsAa0eZ4) | [Buk Bak](https://open.spotify.com/artist/6e6W1oSxPGjoF2iAp2AZtF) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 6:39 | 2020-02-20 | 2022-07-22 |

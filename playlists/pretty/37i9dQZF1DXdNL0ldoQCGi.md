@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 
 > Aquelas músicas que você ouve viralizando por aí mas não sabe o nome.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,694 likes - 69 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,861 likes - 69 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

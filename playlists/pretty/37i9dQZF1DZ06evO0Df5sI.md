@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Df5sI.md) - [plain]
 
 > This is Alkaline Trio\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,464 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,479 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Df5sI.md) - [plain]
 | 49 | [Radio Violence](https://open.spotify.com/track/5N65GlSHozEZomgqNyOV6J) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [E.P.](https://open.spotify.com/album/7f6VPDEapsQExFKB58VQbY) | 3:06 |
 | 50 | [Trouble Breathing](https://open.spotify.com/track/0qx04qNqo0YmBoqdISK9Be) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Goddamnit!](https://open.spotify.com/album/7MtJrKwP2h9eJMqnooR6iM) | 3:55 |
 
-Snapshot ID: `Mjc3MjIyMzMsMDAwMDAwMDBlY2IwODY3MDAwMGQ0MzBlZTBiZjUwYjI3YTg3MTkxMg==`
+Snapshot ID: `Mjc3MjM2OTIsMDAwMDAwMDA5MmUxMmQ3ZWQyYmNkM2RhNGNjNmEyZGQ5NzVjZWFiZg==`

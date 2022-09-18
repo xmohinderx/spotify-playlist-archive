@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: Jockstrap
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,174 likes - 130 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,244 likes - 130 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 73 | [BLUE](https://open.spotify.com/track/5ogl7JWflmR7b0fedAgQOI) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [BLUE b/w TWIRL](https://open.spotify.com/album/65VvEIy3GWf6o5Xk9gZYIq) | 3:05 |
 | 74 | [The Extra Sees the Film](https://open.spotify.com/track/1WPsYspncOcNNSMTcmv8Uq) | [Kiwi jr.](https://open.spotify.com/artist/4CMdLKWNEoNSLpaJ6QMWYy) | [Chopper](https://open.spotify.com/album/5KgqAmpA8ajKLOgIgrkoB1) | 4:37 |
 | 75 | [numb or something](https://open.spotify.com/track/0pFlhJEMOoC4HUgRZTFJg2) | [MAYA LUCIA](https://open.spotify.com/artist/5Ttuy2He3faVKwepReA6U3) | [numb or something](https://open.spotify.com/album/1yxvBUFNaSSRJwTjqQMkVz) | 4:07 |
-| 76 | [Spiderweb](https://open.spotify.com/track/4MV86lthrqvU7Q8jj7NaP5) | [Built To Spill](https://open.spotify.com/artist/3kbBWco9PZ5eSQsNScwG6U) | [Spiderweb](https://open.spotify.com/album/75M4fU4uBzjJ3AqecMZmo9) | 5:23 |
+| 76 | [Spiderweb](https://open.spotify.com/track/4jUA8bO0BppkejDTUVidVR) | [Built To Spill](https://open.spotify.com/artist/3kbBWco9PZ5eSQsNScwG6U) | [When The Wind Forgets Your Name](https://open.spotify.com/album/4mI5F5FT88NKoCaW9CdaIN) | 5:23 |
 | 77 | [Dust Bunny](https://open.spotify.com/track/3c3GmgHZaHZf0DEhfooCsL) | [Suave Punk](https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt) | [Dust Bunny](https://open.spotify.com/album/4Bmym3tMCYlY08OIpYQAb3) | 3:06 |
 | 78 | [Mythical Bonds](https://open.spotify.com/track/3qWEIZd7qxdBnywCHDX4AZ) | [Mamalarky](https://open.spotify.com/artist/2AWfnWrfFVhRPVX4JN9a6g) | [Mythical Bonds](https://open.spotify.com/album/74Q7dSC1RXdhoB76Eac49Q) | 2:04 |
 | 79 | [Rushmore](https://open.spotify.com/track/3yqMNt1hSk4Dv4N13Ho29W) | [ash tuesday](https://open.spotify.com/artist/3kEaS1rKstrWw6Zb9H5vBE) | [Rushmore](https://open.spotify.com/album/5tGPASugTD6gzSVXc8o2h6) | 2:54 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 129 | [Not in the Cards](https://open.spotify.com/track/29QbcQ0P5uD76Uwk9XOxmp) | [The Red Pears](https://open.spotify.com/artist/3FRYBFCNEBWMjk6kvwjHQT) | [You Thought We Left Because The Door Was Open But We Were Waiting Outside](https://open.spotify.com/album/3njVnwW9KBX7kIZDJdA1dS) | 2:08 |
 | 130 | [Once More](https://open.spotify.com/track/3pI9rsup0vcma9YE0PI10t) | [Bathe Alone](https://open.spotify.com/artist/384r9G0NILqkGrQL8IPMkC) | [Once More](https://open.spotify.com/album/33MciQPUWvqtKSCb1WPRG7) | 3:24 |
 
-Snapshot ID: `MTY2MzM2Nzc1MSwwMDAwMDAwMDQwMmU2NWYwYzkzOWYxNDg4MjhjNjZlMmJlZDUxOTcx`
+Snapshot ID: `MTY2MzM2Nzc1MSwwMDAwMDAwMGExOTg1M2EzNzNmY2JhZWVjMTNmODE4YWUzYjEwY2Vh`

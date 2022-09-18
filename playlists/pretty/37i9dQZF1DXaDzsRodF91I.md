@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDzsRodF91I.md) - [plain]
 
 > Songs from all genres get a punk rock makeover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,711 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,786 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDzsRodF91I.md) - [plain]
 | 36 | [Real World](https://open.spotify.com/track/0it1N64W6rvkZrAOh8zvdS) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr) | [Real World](https://open.spotify.com/album/796uBM2suTGG6K1395NAdK) | 3:48 |
 | 37 | [Don’t Tell Me It’s Over](https://open.spotify.com/track/17px1Xc6wfPnhHWM84njQP) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Don’t Tell Me It’s Over](https://open.spotify.com/album/1GNtqzWi7abSqeagV7eEDd) | 2:29 |
 | 38 | [My Own Worst Enemy](https://open.spotify.com/track/28DVBHTfrD0pFK5EpcwevN) | [Get Scared](https://open.spotify.com/artist/5r9uIJCoquVtEkCkvcn8Ez) | [Punk Goes 90's, Vol\. 2](https://open.spotify.com/album/4OEnCG1PkPtwNwuIcb0Whv) | 3:00 |
-| 39 | [Without Me](https://open.spotify.com/track/2ErhC6VNFH8DFV9x7lZ8Cm) | [FigureItOut](https://open.spotify.com/artist/1IuyjI3FTndgSAXk2cMXXV) | [Without Me](https://open.spotify.com/album/1L8knGs23OsDiIWcREQUUK) | 3:04 |
-| 40 | [Good As Hell](https://open.spotify.com/track/6Pyqwi4DuNmOi6zUg7QypL) | [Cold Years](https://open.spotify.com/artist/5zJB2KYIylCM6uPtl9R9yp) | [Good As Hell](https://open.spotify.com/album/3TbhUxXZVy5o5IWARpxptt) | 2:53 |
+| 39 | [Good As Hell](https://open.spotify.com/track/6Pyqwi4DuNmOi6zUg7QypL) | [Cold Years](https://open.spotify.com/artist/5zJB2KYIylCM6uPtl9R9yp) | [Good As Hell](https://open.spotify.com/album/3TbhUxXZVy5o5IWARpxptt) | 2:53 |
+| 40 | [Without Me](https://open.spotify.com/track/2ErhC6VNFH8DFV9x7lZ8Cm) | [FigureItOut](https://open.spotify.com/artist/1IuyjI3FTndgSAXk2cMXXV) | [Without Me](https://open.spotify.com/album/1L8knGs23OsDiIWcREQUUK) | 3:04 |
 | 41 | [Your Graduation](https://open.spotify.com/track/28yJKwgBMenhf5VZn4M87U) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [Your Graduation](https://open.spotify.com/album/25XnjAZVINPXDBeifHQxiJ) | 2:40 |
 | 42 | [death bed \(coffee for your head\)](https://open.spotify.com/track/4SSfV3UhD90WDBp5OyY82t) | [Faber Drive](https://open.spotify.com/artist/3SziwNj6JCnqd2ajUdXlIT), [Dave Faber](https://open.spotify.com/artist/2eQOHn4qBMuuKTtx7seCz8) | [death bed \(coffee for your head\)](https://open.spotify.com/album/2I9MOmbSZg7yNEAFSrFeCj) | 2:40 |
 | 43 | [Eye of the Tiger](https://open.spotify.com/track/7zV1lZsCJZRh26TwAAz8uP) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo 3](https://open.spotify.com/album/5kXa75AebVa3cTR07N4fxv) | 3:24 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDzsRodF91I.md) - [plain]
 | 93 | [Thatcher Fucked the Kids](https://open.spotify.com/track/4bQm41HanVPO4wh6pNpB9L) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [West Coast vs\. Wessex](https://open.spotify.com/album/1V0jqCyz5StIhGp16Ggdz7) | 3:07 |
 | 94 | [You're Dead / Vampire Ska](https://open.spotify.com/track/65k4rC8pAWcKq6xkGPhtbt) | [We Are The Union](https://open.spotify.com/artist/4AAXAVOZ3fw7M8ILLrKLvs) | [You're Dead / Vampire Ska](https://open.spotify.com/album/7L9mILJxtPj59Mwj0YT0Sh) | 2:29 |
 | 95 | [Larger Than Life](https://open.spotify.com/track/7gTKH7BRYJ1hfVuTHbAfoK) | [Ready Steady Steroids](https://open.spotify.com/artist/1ObNbwiR2rX4PUY2BUF9xN) | [Homebound](https://open.spotify.com/album/2Ctb46rmaHdsvHDzjzMLvC) | 3:47 |
-| 96 | [I Won't Back Down](https://open.spotify.com/track/1Lp4hoExThrJRXZmoeciLA) | [Alone I Walk](https://open.spotify.com/artist/15KhAhIzQCzIDNDq1QXAGc) | [I Won't Back Down](https://open.spotify.com/album/46saWxMxcrqUrNBbZs38Qz) | 2:38 |
-| 97 | [Teenage Dream](https://open.spotify.com/track/0kpDTCeGWOfGor1kcJUFwu) | [The Plugs](https://open.spotify.com/artist/4ER2AgS7VMGpUcTXcbBddj) | [Judging Books by Their Covers](https://open.spotify.com/album/3easwftCM6KOgEo0FzYZ1E) | 3:27 |
-| 98 | [Wake Me Up When September Ends](https://open.spotify.com/track/1Rr4FlKdImwLx8AKvjwdyi) | [With Confidence](https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav) | [Not Your American Idiots](https://open.spotify.com/album/3PoOM4CglYzNmpLxVFvePx) | 3:16 |
-| 99 | [Yummy](https://open.spotify.com/track/5rUY5iXXSZbuJJsmDb1QRU) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP) | [Yummy](https://open.spotify.com/album/3CuZMYOl73DPzfm8suzQ7v) | 3:21 |
-| 100 | [Give Yourself A Try](https://open.spotify.com/track/6PtjoQQDYygkbN13dg4OIv) | [WSTR](https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7) | [Give Yourself A Hell](https://open.spotify.com/album/2r9VWcYFQft2V6PBQkRIA7) | 3:19 |
+| 96 | [Teenage Dream](https://open.spotify.com/track/0kpDTCeGWOfGor1kcJUFwu) | [The Plugs](https://open.spotify.com/artist/4ER2AgS7VMGpUcTXcbBddj) | [Judging Books by Their Covers](https://open.spotify.com/album/3easwftCM6KOgEo0FzYZ1E) | 3:27 |
+| 97 | [Wake Me Up When September Ends](https://open.spotify.com/track/1Rr4FlKdImwLx8AKvjwdyi) | [With Confidence](https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav) | [Not Your American Idiots](https://open.spotify.com/album/3PoOM4CglYzNmpLxVFvePx) | 3:16 |
+| 98 | [Yummy](https://open.spotify.com/track/5rUY5iXXSZbuJJsmDb1QRU) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP) | [Yummy](https://open.spotify.com/album/3CuZMYOl73DPzfm8suzQ7v) | 3:21 |
+| 99 | [Give Yourself A Try](https://open.spotify.com/track/6PtjoQQDYygkbN13dg4OIv) | [WSTR](https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7) | [Give Yourself A Hell](https://open.spotify.com/album/2r9VWcYFQft2V6PBQkRIA7) | 3:19 |
+| 100 | [Young and Beautiful](https://open.spotify.com/track/7IY3xV7UeMbFl80onv3O9J) | [Riskee & The Ridicule](https://open.spotify.com/artist/4r5pS9WJUwz3AUQeuXcxB3) | [Young and Beautiful](https://open.spotify.com/album/1e5OLy9DPv7iKd6wOMY9G7) | 3:48 |
 
-Snapshot ID: `MTYzMDYwMjgyMSwwMDAwMDAwMGJhZDJkY2U0N2MwNDAyMTg5MWI2ZjlmNjIwZTE1MzA5`
+Snapshot ID: `MTYzMDYwMjgyMSwwMDAwMDAwMDdiNWI4NDZmM2I3ODMxMTQwYWFmNWVmMzFmNmEwMWVi`

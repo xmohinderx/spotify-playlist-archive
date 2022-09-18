@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3NnZWk6Z3T.md) - [plain]
 
 > Keep calm and enjoy this musical cafecito.
 
-[Spotify](https://open.spotify.com/user/spotify) - 545,647 likes - 150 songs - 8 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 545,806 likes - 150 songs - 8 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3NnZWk6Z3T.md) - [plain]
 | 27 | [Capulí](https://open.spotify.com/track/5yoQCiZjwoAKqBzqKlDdh5) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM) | [Capulí](https://open.spotify.com/album/2oAG4DUG1vIVMOgtWsoqxA) | 3:22 |
 | 28 | [Entre Luca Y Juan Mejía](https://open.spotify.com/track/1FFwPJxL60iQPSmXK81t6q) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Entre Luca Y Juan Mejía](https://open.spotify.com/album/2i1R5n8KVFsa2iKe4KKz7Z) | 3:47 |
 | 29 | [Tierra Querida](https://open.spotify.com/track/15UftHtPcwWE23ON8b2uiR) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Tierra Querida](https://open.spotify.com/album/2iIbxTmZaOaRyImrEpvzdM) | 2:48 |
-| 30 | [Te acuerdas?](https://open.spotify.com/track/25tHQXFLUN38dQXQyKu9Ev) | [Paul Alone](https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE) | [Te acuerdas?](https://open.spotify.com/album/4bgNYwpO19Pm0olhO3srld) | 3:03 |
-| 31 | [Tan Difícil de Entender](https://open.spotify.com/track/2KkQ9qiUzA7SHwCadQtI8u) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc) | [Tan Difícil de Entender](https://open.spotify.com/album/4llL1SDFfsIsbuBY0seqKd) | 2:05 |
+| 30 | [Tan Difícil de Entender](https://open.spotify.com/track/2KkQ9qiUzA7SHwCadQtI8u) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc) | [Tan Difícil de Entender](https://open.spotify.com/album/4llL1SDFfsIsbuBY0seqKd) | 2:05 |
+| 31 | [Te acuerdas?](https://open.spotify.com/track/25tHQXFLUN38dQXQyKu9Ev) | [Paul Alone](https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE) | [Te acuerdas?](https://open.spotify.com/album/4bgNYwpO19Pm0olhO3srld) | 3:03 |
 | 32 | [Al otro lado del río](https://open.spotify.com/track/5BudpQ0Ct9sss8c9Fqv9MJ) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Al otro lado del rio](https://open.spotify.com/album/5P3g95p2KfPCOlD5Zca9Xi) | 3:14 |
 | 33 | [A letter to my younger self](https://open.spotify.com/track/325e3Lkx4AodxGNsqHiaG4) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [A letter to my younger self](https://open.spotify.com/album/1CmENblofMYmtDtx6pPqDU) | 2:18 |
 | 34 | [Lo Que Perdimos](https://open.spotify.com/track/2azwoxY0rbAgn1ZeiYGcdK) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Un Té de Tilo por Favor](https://open.spotify.com/album/5ihX5QpiBsawYdSBzzil9i) | 3:27 |
@@ -136,8 +136,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3NnZWk6Z3T.md) - [plain]
 | 126 | [Everybody Wants to Rule the World](https://open.spotify.com/track/3cChN0lUEGVlJSGcMKyAsx) | [Making Movies](https://open.spotify.com/artist/1wFpAE8HCGoqaLjzRO51w9) | [Everybody Wants to Rule the World](https://open.spotify.com/album/4N1Ji6AB9p3FW2xY5hDkRk) | 3:58 |
 | 127 | [Reflexión del Pasto](https://open.spotify.com/track/1tzTiU8wtxHvZ3YtU0cjEM) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Reflexión del Pasto](https://open.spotify.com/album/28GYUNMKd575GwnofewUEI) | 1:46 |
 | 128 | [Epitafio](https://open.spotify.com/track/4k0MEDp6V71N0sbGbSiGwk) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Epitafio](https://open.spotify.com/album/7B7Sdq7h3TwFq5TTWyy4AK) | 2:37 |
-| 129 | [Eucalipto](https://open.spotify.com/track/3XApO9AXI8gWMIr67HJUiL) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT) | [Eucalipto](https://open.spotify.com/album/48SgeHpP6RkBC5q3SSzb27) | 2:40 |
-| 130 | [Tú Me Dijíste Que Venías](https://open.spotify.com/track/1HGuh9bVVWEaPhPvQ5woRm) | [Anthony Escandón](https://open.spotify.com/artist/2eaNtiW6LwYMhyGIxmJ90J) | [Tú Me Dijíste Que Venías](https://open.spotify.com/album/4AgWVLq6Yh25oqreliWR23) | 2:37 |
+| 129 | [Tú Me Dijíste Que Venías](https://open.spotify.com/track/1HGuh9bVVWEaPhPvQ5woRm) | [Anthony Escandón](https://open.spotify.com/artist/2eaNtiW6LwYMhyGIxmJ90J) | [Tú Me Dijíste Que Venías](https://open.spotify.com/album/4AgWVLq6Yh25oqreliWR23) | 2:37 |
+| 130 | [Eucalipto](https://open.spotify.com/track/3XApO9AXI8gWMIr67HJUiL) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT) | [Eucalipto](https://open.spotify.com/album/48SgeHpP6RkBC5q3SSzb27) | 2:40 |
 | 131 | [Harta](https://open.spotify.com/track/1J4xv5V5dzkA8UGtXSbCNU) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Harta](https://open.spotify.com/album/7xxEXEwifY6NE0sEmIybSg) | 3:05 |
 | 132 | [Flotando \(Acústico\)](https://open.spotify.com/track/1UmmEBHP4MKyExlob4MJbu) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Flotando \(Acústico\)](https://open.spotify.com/album/6ESGXcMWl63n7PzIzPdtxh) | 4:16 |
 | 133 | [Estrellitas y Duendes](https://open.spotify.com/track/7GC0j38KfkV70zgEzediuv) | [Cyrille Aimee](https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM) | [Let's Get Lost](https://open.spotify.com/album/6TLoLpAz4m6oHZScZ9oSkK) | 3:20 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3NnZWk6Z3T.md) - [plain]
 | 149 | [Bohemio](https://open.spotify.com/track/7vgtsjhT7JpPGkv8RA1Qh1) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU), [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Bohemio](https://open.spotify.com/album/38ziDGsYS10NPo4BxBAsvn) | 3:28 |
 | 150 | [Te Quiero Olvidar](https://open.spotify.com/track/7HsVyALWw7ILw9wqNJGcUw) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [Te Quiero Olvidar](https://open.spotify.com/album/7vC7hsFMfCARD5FQWiAzIY) | 3:22 |
 
-Snapshot ID: `MTY2MjY2MzA1MCwwMDAwMDAwMDRlMzNmZmQ5ODc4NGEyZWJhOGM3YTE3NTBlYjg5NGI0`
+Snapshot ID: `MTY2MjY2MzA1MCwwMDAwMDAwMDJlY2Q3YjZmNGUyNjMzMDJiNWFjMmMwYmVmMjBiNjQ0`

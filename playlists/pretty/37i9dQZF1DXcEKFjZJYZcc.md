@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcEKFjZJYZcc.md) - [plain]
 
 > Happy vibes for an upbeat morning.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,788 likes - 136 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,832 likes - 136 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcEKFjZJYZcc.md) - [plain]
 | 54 | [Hands and Feet](https://open.spotify.com/track/3SwnQKMO2D0jOUKxaqIHLw) | [Samuel Félix](https://open.spotify.com/artist/4QCrQhj1liuos6rjK3hUBr) | [Hands and Feet](https://open.spotify.com/album/3VLtmQVO6V5bkx17xTKkvO) | 1:54 |
 | 55 | [Blue Dream \(Softly\)](https://open.spotify.com/track/1EKQupLgrWvH2mVmzMvKRl) | [Fiona Joy Hawkins](https://open.spotify.com/artist/1UnEeCMhJgy2JrfmNX4v0d) | [Blue Dream \(Softly\)](https://open.spotify.com/album/6OL1SjkyAh7gy1chc1H0la) | 3:08 |
 | 56 | [Fristad](https://open.spotify.com/track/4G5Zl5CAe63eqW5XrAq9w2) | [Domi Nova](https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz) | [Fristad](https://open.spotify.com/album/5t8CKlRIPsIXa5QITQRjKn) | 2:38 |
-| 57 | [Simpler Times](https://open.spotify.com/track/710MDsCIXocuZBLwGbdg4G) | [Christopher J\. Richardson](https://open.spotify.com/artist/3z56CNr5ke5G6zUf0FKgAf) | [Piano Music](https://open.spotify.com/album/198J7evKOaky47zE5WGbVj) | 2:21 |
+| 57 | [Simpler Times](https://open.spotify.com/track/6RTgk5dsupZSeji1jh4zyB) | [Christopher J\. Richardson](https://open.spotify.com/artist/3z56CNr5ke5G6zUf0FKgAf) | [Piano Music](https://open.spotify.com/album/01vBc9RVqwgUpsgI8qRWhY) | 2:21 |
 | 58 | [The River](https://open.spotify.com/track/2FPCfxbbIoCItFMjTG8sl0) | [Genevieve Melton](https://open.spotify.com/artist/6qbFrBijq88ljdzAy0CRVr) | [Testimony \(EP\)](https://open.spotify.com/album/0HjtIrigoEWGcSKn8xKVPq) | 1:58 |
 | 59 | [After The Rain](https://open.spotify.com/track/78FM8RL21qznI4xA2Yqtix) | [Dario Crisman](https://open.spotify.com/artist/3z9wB1A84KYedTTWy1ciHF) | [After The Rain](https://open.spotify.com/album/6UoUV4OYZsmo7CUPD7OW1k) | 2:29 |
 | 60 | [Shu's Sonata](https://open.spotify.com/track/2KOxgVJN5IGm8Of4IARigO) | [Mayumi Sasaki](https://open.spotify.com/artist/3A4RidZHkdgr2FEKZnjnmd) | [Shu's Sonata](https://open.spotify.com/album/16yTf06rnFkS8y0uM6nWPh) | 2:31 |
@@ -145,4 +145,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcEKFjZJYZcc.md) - [plain]
 | 135 | [Pour tous les cœurs du monde](https://open.spotify.com/track/54UQ3Jzm53YkAHpj3BGOQa) | [Olivier Mournier](https://open.spotify.com/artist/7wnpAk4GIaM7dyBnl1bRB7) | [Pour tous les cœurs du monde](https://open.spotify.com/album/4taqzXzFoQJJYhy93v8q2h) | 2:09 |
 | 136 | [Theme from Lazarus](https://open.spotify.com/track/0kaL2ZHjstKZWu9MxWt3mb) | [Federico Montoya](https://open.spotify.com/artist/1ZLMB9gdFAhzKVx1LeCIdh) | [Theme from Lazarus](https://open.spotify.com/album/5S8cxsdtUGu5AaNBaFYw6d) | 1:41 |
 
-Snapshot ID: `MTY2MzA2MDU3OSwwMDAwMDAwMDkzMjk4NzM5YjZjZDQwMzYzZWQwYmY0YTY2ZmVhMTgx`
+Snapshot ID: `MTY2MzA2MDU3OSwwMDAwMDAwMDMzY2E5OTE3MTRkM2EwZTU3MDliMmZhYzExNmQ4MDk3`

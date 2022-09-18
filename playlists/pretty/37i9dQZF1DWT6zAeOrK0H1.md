@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6zAeOrK0H1.md) - [plain]
 
 > Home of the best bands orbiting the universe right now\. Cover: Arctic Monkeys
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,971 likes - 81 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,223 likes - 81 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

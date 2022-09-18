@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WELsJtFZjZ.md) - [plain]
 
 > Mellow songs from the 1980s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 520,777 likes - 150 songs - 11 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 521,351 likes - 150 songs - 11 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,10 +89,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WELsJtFZjZ.md) - [plain]
 | 79 | [Woman in Love](https://open.spotify.com/track/1pTGc8pwyo6xtgXBKCBcFn) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6) | [Guilty](https://open.spotify.com/album/5mMebbufullX8FIhpCxwCt) | 3:51 |
 | 80 | [Slave To Love](https://open.spotify.com/track/1c9dnQbOzw01ID7X2IsYOE) | [Bryan Ferry](https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC) | [Boys And Girls](https://open.spotify.com/album/3SsNd5MeJKc1IK3nazaWg2) | 4:26 |
 | 81 | [One More Night \- 2016 Remaster](https://open.spotify.com/track/6fkvIT9KFKxO8poBeKfaEf) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [No Jacket Required \(2016 Remaster\)](https://open.spotify.com/album/1rVhockt4RAiZFaK3M3zPB) | 4:48 |
-| 82 | [We Are The World](https://open.spotify.com/track/3Z2tPWiNiIpg8UMMoowHIk) | [U.S.A\. For Africa](https://open.spotify.com/artist/7sF6m3PpW6G6m6J2gzzmzM) | [We Are The World](https://open.spotify.com/album/2O6gXGWFJcNrLYAqDINrDa) | 7:07 |
+| 82 | [Drive](https://open.spotify.com/track/3wfujdbamR3Z46F4xav7LM) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [Heartbeat City](https://open.spotify.com/album/5ycnwHGkzOlTuMOI3Zh4iO) | 3:54 |
 | 83 | [Saving All My Love for You](https://open.spotify.com/track/1lx8ddGT5wCD6W2xmLeRKG) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney Houston](https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes) | 3:58 |
-| 84 | [Drive](https://open.spotify.com/track/3wfujdbamR3Z46F4xav7LM) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [Heartbeat City](https://open.spotify.com/album/5ycnwHGkzOlTuMOI3Zh4iO) | 3:54 |
-| 85 | [Woman In Chains](https://open.spotify.com/track/5jmwL2MniQj9ldptIm1h1B) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU), [Oleta Adams](https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g) | [The Seeds Of Love](https://open.spotify.com/album/4oel5wcfKxpWxJuC4VbtuO) | 6:31 |
+| 84 | [Woman In Chains](https://open.spotify.com/track/5jmwL2MniQj9ldptIm1h1B) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU), [Oleta Adams](https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g) | [The Seeds Of Love](https://open.spotify.com/album/4oel5wcfKxpWxJuC4VbtuO) | 6:31 |
+| 85 | [We Are The World](https://open.spotify.com/track/3Z2tPWiNiIpg8UMMoowHIk) | [U.S.A\. For Africa](https://open.spotify.com/artist/7sF6m3PpW6G6m6J2gzzmzM) | [We Are The World](https://open.spotify.com/album/2O6gXGWFJcNrLYAqDINrDa) | 7:07 |
 | 86 | [I Just Can't Stop Loving You \(feat\. Siedah Garrett\) \- 2012 Remaster](https://open.spotify.com/track/2fytePz8UsbUr8n33QBEcm) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm), [Siedah Garrett](https://open.spotify.com/artist/7EVlecngyrLHfQUqFMpwkT) | [Bad 25th Anniversary](https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm) | 4:11 |
 | 87 | [Do You Really Want To Hurt Me](https://open.spotify.com/track/1I6q6nwNjNgik1Qe8Oi0Y7) | [Culture Club](https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc) | [Kissing To Be Clever](https://open.spotify.com/album/4y1hBzoffx9DaGXbObeC2w) | 4:22 |
 | 88 | [We've Got Tonight](https://open.spotify.com/track/5vXsj8L4DK1gGQ43BBG028) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4), [Sheena Easton](https://open.spotify.com/artist/5dcOK4stT4JDkP6Dqhbz5s) | [We've Got Tonight](https://open.spotify.com/album/50Mjw5tM0p8GZYT2sGgzIa) | 3:54 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WELsJtFZjZ.md) - [plain]
 | 149 | [Human Nature](https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 4:06 |
 | 150 | [Joe le taxi](https://open.spotify.com/track/7nZCg1jgmXIjSBRifWkmaJ) | [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd) | [M & J](https://open.spotify.com/album/3ptx9VPjMyOjQzrNsvjLIc) | 3:55 |
 
-Snapshot ID: `MTY1NjA0NzkxOSwwMDAwMDAwMDgwNjJlMzM4M2IyYTNjNDY4MThiMmVkMDVlZWU1N2Mz`
+Snapshot ID: `MTY1NjA0NzkxOSwwMDAwMDAwMDA4YTE0YzUwZWU0M2Y2NWIyYWJjYmM3N2ZjZGY1OTcx`

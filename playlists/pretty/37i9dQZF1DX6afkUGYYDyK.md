@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 | 37 | [I Believe in You](https://open.spotify.com/track/67aeyMdt7cgb8l9zg53Pfm) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Nobody but Me \(Deluxe\)](https://open.spotify.com/album/2OXZJLXxM8jrY3gBoVNfmz) | 3:21 |
 | 38 | [Who You Love \(feat\. Katy Perry\)](https://open.spotify.com/track/7IByJvSqRFltGyiiIiL4wn) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Paradise Valley](https://open.spotify.com/album/712VoD72K500yLhhgqCyVe) | 4:09 |
 | 39 | [Home](https://open.spotify.com/track/6SGoFZFKjF1ZbGDkImEaS7) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Wanderlust](https://open.spotify.com/album/37yGR6auNK3W1XbcDYfSjw) | 3:22 |
-| 40 | [Thanksgiving Theme](https://open.spotify.com/track/2wygvWnq8gpWnMMNUfuEih) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \[2012 Remastered & Expanded Edition\]](https://open.spotify.com/album/7DuJYWu66RPdcekF5TuZ7w) | 2:00 |
+| 40 | [Thanksgiving Theme](https://open.spotify.com/track/4niaGo0WSRCwEnEWd4FOg4) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [Charlie Brown Holiday Hits](https://open.spotify.com/album/1d3w7T3iyK3JJQ6kdpE6l9) | 1:59 |
 | 41 | [How Sweet It Is \(To Be Loved By You\)](https://open.spotify.com/track/2zF8ro2hX0aEYaqXQdEKW1) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [How Sweet It Is To Be Loved By You](https://open.spotify.com/album/1kYeM6oy6I8tK7668jM7Hw) | 2:57 |
 | 42 | [River](https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home \(Deluxe\)](https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv) | 4:00 |
 | 43 | [Perfect](https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 4:23 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 | 64 | [My Friends](https://open.spotify.com/track/09lu7Oem0AQ4MjZg41b8OP) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [A Creature I Don't Know](https://open.spotify.com/album/6l9AdRG0yVneRu5PNbAvRZ) | 3:58 |
 | 65 | [Back to Autumn](https://open.spotify.com/track/3TdZbELsPLWYZAArGSfwyQ) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Holding On, Holding Out](https://open.spotify.com/album/0BmHDh5DQcdfUUGzvQ3pPR) | 3:19 |
 
-Snapshot ID: `MTYzNjUyMDQ2MCwwMDAwMDAwMDNiMGE3MjFmYjZhYTJiNTYxNWYxMzViNzIxMWRiYjMx`
+Snapshot ID: `MTYzNjUyMDQ2MCwwMDAwMDAwMDhjODEyOTAyYTc2MDU4MGY2OWYwMDdjZDE2ODJmZWFm`

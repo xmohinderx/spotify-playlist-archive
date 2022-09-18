@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 > เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: 4EVE
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,513 likes - 70 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,590 likes - 70 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [คนไม่คุย \(Silent Mode\)](https://open.spotify.com/track/4Z64nGulQN49i9D03NcF8a) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [คนไม่คุย \(Silent Mode\)](https://open.spotify.com/album/1K7cv40prwoUAbxCXX1CTh) | 3:50 |
 | 2 | [Jackpot](https://open.spotify.com/track/4rRdf1zm1Iqjznlbrml2GZ) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [Jackpot](https://open.spotify.com/album/7iNT2d7jvOVtqwZYxPlJ3O) | 3:28 |
 | 3 | [ปล่อยจอย](https://open.spotify.com/track/0PYR1D4eAi0k2fTDQZ019S) | [bamm](https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1), [Pimma PiXXiE](https://open.spotify.com/artist/0uDmGfh8e3dXJEmJ6jKQXg) | [เศร้าศาสตร์](https://open.spotify.com/album/1C45xLNvMc8HqJD5jHEP4q) | 3:28 |
-| 4 | [อันฟอล](https://open.spotify.com/track/4pdAtlscBYq6vGuaS6QtDI) | [Slow Sundae](https://open.spotify.com/artist/4jA3LPzvGQcPImWTjpDlma) | [อันฟอล](https://open.spotify.com/album/7KzeuaG3GNOXdqWO8k2RY1) | 3:12 |
+| 4 | [อันฟอล \(Unfollow\)](https://open.spotify.com/track/4pdAtlscBYq6vGuaS6QtDI) | [Slow Sundae](https://open.spotify.com/artist/4jA3LPzvGQcPImWTjpDlma) | [อันฟอล \(Unfollow\)](https://open.spotify.com/album/7KzeuaG3GNOXdqWO8k2RY1) | 3:12 |
 | 5 | [Boys Like You](https://open.spotify.com/track/1VyRhsi6GfBusI1Vb061s4) | [ALLY](https://open.spotify.com/artist/4dkCB7FJeRXK6OWpal7zpw) | [Boys Like You](https://open.spotify.com/album/1oslIjeU0faXGgimWvmL4l) | 3:43 |
 | 6 | [ขอบคุณที่เคยใจร้ายกับฉัน \(Thanks To You\)](https://open.spotify.com/track/2mhcGG5JdEotXGF4kDTjGM) | [TON THANASIT](https://open.spotify.com/artist/6zOWc1PkZQNr5mDOgWyc9x) | [ขอบคุณที่เคยใจร้ายกับฉัน \(Thanks To You\)](https://open.spotify.com/album/58zEDQELi0atD10fgzGpym) | 3:41 |
 | 7 | [สิ่งเล็กน้อย \(LESS IS MORE\)](https://open.spotify.com/track/58ViLaYQWchYq9vMfW5Prk) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [สิ่งเล็กน้อย \(LESS IS MORE\)](https://open.spotify.com/album/3KBZ0ZGAQOH2dcz2MI51xk) | 3:27 |

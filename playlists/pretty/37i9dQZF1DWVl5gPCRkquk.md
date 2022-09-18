@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVl5gPCRkquk.md) - [plain]
 
 > Channel some chilled\-out back yard vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 851,903 likes - 100 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 851,940 likes - 100 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVl5gPCRkquk.md) - [plain]
 | 61 | [Mr\. Rodriguez](https://open.spotify.com/track/5aXYNj2v1ut661U0HLT6fP) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Imaginary Man](https://open.spotify.com/album/72YUTJrAuTuSHSVrgixbor) | 3:43 |
 | 62 | [Witness Trees](https://open.spotify.com/track/5QENB0ad34Y0Fs2j7DoOXI) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Witness Trees](https://open.spotify.com/album/5R2eVRMY8SSRPiq8EV4urI) | 2:40 |
 | 63 | [Without Your Love](https://open.spotify.com/track/5g8xjUhQ3OwOwIziC6hBtn) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy), [Julia Stone](https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc) | [Roses](https://open.spotify.com/album/6w6TexLleVpQxVzOKOBaOD) | 3:30 |
-| 64 | [Featherweight](https://open.spotify.com/track/3ir3Eoj0pi0vlhqunNSyK3) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 3:50 |
-| 65 | [Lucid Lucy](https://open.spotify.com/track/6Xw7qv0H03e7bPBIH6tMQQ) | [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8) | [Simple Syrup](https://open.spotify.com/album/1WO7SNNBa9NddGXi3UDNjF) | 3:37 |
+| 64 | [Lucid Lucy](https://open.spotify.com/track/6Xw7qv0H03e7bPBIH6tMQQ) | [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8) | [Simple Syrup](https://open.spotify.com/album/1WO7SNNBa9NddGXi3UDNjF) | 3:37 |
+| 65 | [Featherweight](https://open.spotify.com/track/3ir3Eoj0pi0vlhqunNSyK3) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 3:50 |
 | 66 | [Latter Days \(feat\. Anaïs Mitchell\)](https://open.spotify.com/track/7wOdJjz1WHJiBdzKSZWszu) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 3:38 |
 | 67 | [Lost In The Light](https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Barchords](https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9) | 3:56 |
 | 68 | [Song For The Thankful](https://open.spotify.com/track/2nYnAcwmnOe4zr4WVmIefC) | [Avi Kaplan](https://open.spotify.com/artist/179MtpbgyNgeNnwNVqnn4p) | [Song For The Thankful](https://open.spotify.com/album/0Q1YKEQ4XgNjQm5B31YjHM) | 3:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVl5gPCRkquk.md) - [plain]
 | 99 | [Cool Jam](https://open.spotify.com/track/7uMh3fweKrgDOtnMoxp3O4) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [Good For You](https://open.spotify.com/album/7pDkPWgwrc2weqXdL0ID6m) | 3:26 |
 | 100 | [Seed of Joy](https://open.spotify.com/track/6kUQwpX1ogl5inar6fE3bx) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77), [Brian Fallon](https://open.spotify.com/artist/3JlzEFwarS8ZcCGNFy11y4) | [Seed of Joy](https://open.spotify.com/album/4ivyT3pP5juItg8Yblaqfn) | 3:30 |
 
-Snapshot ID: `MTY2MjQ4NzE5MCwwMDAwMDAwMGQyOWExMWU4YTI1YWM4ZDA5NTk3OGNhYjFmYjVmZTY4`
+Snapshot ID: `MTY2MjQ4NzE5MCwwMDAwMDAwMGY4YmZjMTIwMjA2ZGMzYTBhMWYzNGRiODU0ZjJkMDEw`

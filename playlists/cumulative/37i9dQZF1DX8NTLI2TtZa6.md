@@ -4,7 +4,7 @@
 
 > Focus\-enhancing piano for your study session.
 
-299 songs - 13 hr 11 min - [published](https://open.spotify.com/playlist/0rxDTjtFKjHnIItJrCyyMO)
+300 songs - 13 hr 13 min - [published](https://open.spotify.com/playlist/0rxDTjtFKjHnIItJrCyyMO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,7 +239,8 @@
 | [Serpentéa](https://open.spotify.com/track/5GyjHp84kMfV0ecHLNd8WD) | [Sophie Reubke](https://open.spotify.com/artist/1hRJhDiDX1SEUpnGH7rrKZ) | [Serpentéa](https://open.spotify.com/album/7JxFbGeswuSp6j03f2hpRM) | 2:30 | 2021-12-07 |  |
 | [Seven Hills Of Rome](https://open.spotify.com/track/0SQETkWleYzqYASQ2WPxxZ) | [Sabrina Austin](https://open.spotify.com/artist/3RyXWAkPxxntDFBAeGst6K) | [Seven Hills Of Rome](https://open.spotify.com/album/3icvnYlI3k19fxoAicmtgD) | 2:25 | 2021-12-07 | 2022-03-02 |
 | [silbermond](https://open.spotify.com/track/1sWI71ajS4mERuwG2k5vvD) | [Flavia Cortez](https://open.spotify.com/artist/4wMoov0OVG8UOIR6tPnvnV) | [Sunflower Field](https://open.spotify.com/album/2WcreYeMZTha6QjVopTaBo) | 2:49 | 2021-12-07 |  |
-| [Simpler Times](https://open.spotify.com/track/5KDRSRRS88uL8RUDXYPZ0r) | [Christopher J\. Richardson](https://open.spotify.com/artist/3z56CNr5ke5G6zUf0FKgAf) | [Simpler Times](https://open.spotify.com/album/2mGe8l7Z7w3t6d0488EJnn) | 2:21 | 2021-12-07 |  |
+| [Simpler Times](https://open.spotify.com/track/5KDRSRRS88uL8RUDXYPZ0r) | [Christopher J\. Richardson](https://open.spotify.com/artist/3z56CNr5ke5G6zUf0FKgAf) | [Simpler Times](https://open.spotify.com/album/2mGe8l7Z7w3t6d0488EJnn) | 2:21 | 2021-12-07 | 2022-09-18 |
+| [Simpler Times](https://open.spotify.com/track/6RTgk5dsupZSeji1jh4zyB) | [Christopher J\. Richardson](https://open.spotify.com/artist/3z56CNr5ke5G6zUf0FKgAf) | [Piano Music](https://open.spotify.com/album/01vBc9RVqwgUpsgI8qRWhY) | 2:21 | 2022-08-09 |  |
 | [Sinkadus](https://open.spotify.com/track/0dLptfXupd4zsgppQgrvVO) | [Alfred Mizzi](https://open.spotify.com/artist/2Uf5jsbEf7DrgnCTRSJDXp) | [Sinkadus](https://open.spotify.com/album/54JglKkD4WG2OzwhmXUv9M) | 2:32 | 2021-12-07 |  |
 | [Sketches](https://open.spotify.com/track/4g7wXitUwsMOjZMA9m1vy6) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Sketches](https://open.spotify.com/album/11g6l4agw2isqnalKB9bbS) | 2:37 | 2022-04-14 |  |
 | [Skog](https://open.spotify.com/track/6SO2Oh12IbukgnkeSBOxW9) | [Frode](https://open.spotify.com/artist/6Mnuy8VToSC75uUGCSBqDD) | [Skog](https://open.spotify.com/album/1vDqp9KQA5MfjXeBo7sR4X) | 2:44 | 2021-12-07 |  |

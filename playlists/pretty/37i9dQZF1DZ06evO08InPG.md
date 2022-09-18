@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO08InPG.md) - [plain]
 
 > This is Machine Head\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,711 likes - 50 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,740 likes - 50 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO08InPG.md) - [plain]
 | 16 | [Imperium](https://open.spotify.com/track/2WK78upCkuvhkJcrHlEEyI) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Through the Ashes of Empires](https://open.spotify.com/album/6LTkG6sc02q4L1zCm3jD6d) | 6:41 |
 | 17 | [ØVERDØSE](https://open.spotify.com/track/2FySgAuDaW4CXfWUYiC2B9) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [ØF KINGDØM AND CRØWN](https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi) | 0:58 |
 | 18 | [Be Still and Know](https://open.spotify.com/track/3cVniBBRC955LHAXiXGER0) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Unto the Locust \(Special Edition\)](https://open.spotify.com/album/79EwDnZoH0n7vIAXmYP1cz) | 5:43 |
-| 19 | [Darkness Within](https://open.spotify.com/track/5yDXKaZPyj8ojRJ2nacbLX) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Unto The Locust](https://open.spotify.com/album/4tzHN0jj11imsGYK9GdpF3) | 6:27 |
-| 20 | [Halo](https://open.spotify.com/track/5nksa8EqKHSWO9WBj6DnmS) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The Blackening](https://open.spotify.com/album/5sZi94xs9Q1aUpFVLx9RLI) | 9:02 |
+| 19 | [Halo](https://open.spotify.com/track/5nksa8EqKHSWO9WBj6DnmS) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The Blackening](https://open.spotify.com/album/5sZi94xs9Q1aUpFVLx9RLI) | 9:02 |
+| 20 | [Darkness Within](https://open.spotify.com/track/5yDXKaZPyj8ojRJ2nacbLX) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Unto The Locust](https://open.spotify.com/album/4tzHN0jj11imsGYK9GdpF3) | 6:27 |
 | 21 | [CHØKE ØN THE ASHES ØF YØUR HATE](https://open.spotify.com/track/5sykvfEJHupA8mjhhgylVk) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [ØF KINGDØM AND CRØWN](https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi) | 4:06 |
 | 22 | [Message in a Bottle](https://open.spotify.com/track/6Iy5KEB1kO2BVOGnAgVV65) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The Burning Red](https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA) | 3:31 |
 | 23 | [Ghosts Will Haunt My Bones](https://open.spotify.com/track/0VWbvw6PcVSLgKZCpnxBiw) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Bloodstone & Diamonds](https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX) | 6:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO08InPG.md) - [plain]
 | 49 | [Kaleidoscope](https://open.spotify.com/track/2fNqGK13Fde9WpJ1naARev) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Catharsis](https://open.spotify.com/album/5OhAVXSslPqvWkh7XEj4Wq) | 4:03 |
 | 50 | [I Am Hell \(Sonata in C\#\)](https://open.spotify.com/track/5WSIVWdeIkCWmvTPUmNq0K) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Unto the Locust \(Special Edition\)](https://open.spotify.com/album/79EwDnZoH0n7vIAXmYP1cz) | 8:27 |
 
-Snapshot ID: `Mjc3MjIyMzMsMDAwMDAwMDBhMGViMzEyNmViMzliNTc5ZWRjNzNkZDc1ZDAwODAxYg==`
+Snapshot ID: `Mjc3MjM2OTIsMDAwMDAwMDA3NzQ5ODJlOGQxZGVkZTEwYzBjN2U1ODk4MmQxODQzNw==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jgyAiPl8Af.md) - [plain]
 
 > Unwind to these calm classical guitar pieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,921,625 likes - 215 songs - 9 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,921,917 likes - 215 songs - 9 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jgyAiPl8Af.md) - [plain]
 | 66 | [Just Dipping My Toe](https://open.spotify.com/track/3Q97tyLwBoqT3hgpXC9h42) | [Robert Lowe](https://open.spotify.com/artist/4omS6iWv8SKCrZULjKfeI5) | [Just Dipping My Toe](https://open.spotify.com/album/5bexksdhIDIVk8vDVaHpgq) | 3:47 |
 | 67 | [River of Regisfield](https://open.spotify.com/track/02p0tuBNxqqaiveKZOXgDn) | [Dean M Parker](https://open.spotify.com/artist/1QuHekBuKJTCJa4R0ZbzdT) | [River of Regisfield](https://open.spotify.com/album/4ULQ5eDNyE3acU66R9YnqP) | 1:52 |
 | 68 | [Silver Light](https://open.spotify.com/track/6jqOMgW43YKj1Q8mRzQoxS) | [Vincenzo Adelini](https://open.spotify.com/artist/2DCXusMUJpcFfPM786dD8v) | [Silver Light](https://open.spotify.com/album/1LO8pLa7mpZgkLddhh9B8m) | 2:16 |
-| 69 | [Lament \- Acoustic Version](https://open.spotify.com/track/2nWtdrqmtLyAXJ2agJ5ufb) | [Stephen Wake](https://open.spotify.com/artist/2cJYFSoLAYw942cLIRPGK7) | [Lament](https://open.spotify.com/album/4msbRkBt4tFzjxAzSah8Qk) | 2:05 |
+| 69 | [Lament](https://open.spotify.com/track/2nWtdrqmtLyAXJ2agJ5ufb) | [Stephen Wake](https://open.spotify.com/artist/2cJYFSoLAYw942cLIRPGK7) | [Lament](https://open.spotify.com/album/4msbRkBt4tFzjxAzSah8Qk) | 2:05 |
 | 70 | [Nostalgia](https://open.spotify.com/track/7mqFhE493l53bq0XNiccgk) | [Luna Grove](https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M) | [Nostalgia](https://open.spotify.com/album/56KoK3U87kpNUP1CXeDlmC) | 2:28 |
 | 71 | [Hitchhiking](https://open.spotify.com/track/2P6Opus7hGyXkC6Pd7k1Gk) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Hitchhiking](https://open.spotify.com/album/6QfINtClurYc2Tmkcv0O8G) | 2:58 |
 | 72 | [Epilogue](https://open.spotify.com/track/3Nt4wp8TBemJLhPkBlf01y) | [Leonardo Agusti](https://open.spotify.com/artist/7pxsTVW2UD2bzGfq8WzaMj) | [Believe](https://open.spotify.com/album/0Iutlc6WCFQ64TZrdQUECo) | 2:49 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 
 > Los éxitos de siempre en concierto\. Foto: Celia Cruz
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,862 likes - 50 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,898 likes - 50 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 | 39 | [Periódico De Ayer \- Live](https://open.spotify.com/track/7BkcskeOLGTge1UAVLV5Ni) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Live](https://open.spotify.com/album/2kIKvvOkkLqfGUyAaiU3rQ) | 8:03 |
 | 40 | [Llorarás \- Live](https://open.spotify.com/track/4WlDisUidB4F0KxxoIjODp) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ), [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Lo Mejor De Celia Cruz & Oscar D´León En Concierto](https://open.spotify.com/album/7bLj1JszeG6xZ2iLmc9vpX) | 4:33 |
 | 41 | [Medias Negras \- Live Version](https://open.spotify.com/track/51QsdN4xBmkLhtqNi0J40l) | [Willy Chirino](https://open.spotify.com/artist/4dvonCK12HCv1UUryzRppO) | [Sergio George Presents Salsa Giants \(Live\)](https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io) | 5:52 |
-| 42 | [Tu Loco, Loco, Y Yo Tranquilo](https://open.spotify.com/track/5ZnS39e15qQqAFS7lgCPE1) | [Roberto Roena](https://open.spotify.com/artist/4i5rDrP2IqCdMgde0vIpyB) | [En Vivo Desde Bellas Artes](https://open.spotify.com/album/7GjrbV5AIgz240w67gmVCs) | 4:38 |
+| 42 | [Desnudate Mujer](https://open.spotify.com/track/2aiTdsCbRlcDmSPzToIRIA) | [José Alberto "El Canario"](https://open.spotify.com/artist/6TRzinjf5dzE8zA8baPbYz) | [Va por Ti, Frankie \(Concierto Homenaje a Frankie Ruiz\)](https://open.spotify.com/album/3NpPEaMbkXan11KO2FB43Q) | 8:20 |
 | 43 | [Estrellas de Fania \- Live At The Cheetah Club / New York, NY / August 26, 1971](https://open.spotify.com/track/2jeQ960qCjTtyPXc3wdWcZ) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u) | [Live At The Cheetah, Vol\. 2](https://open.spotify.com/album/4EawW1gi6378jsFlWr81sZ) | 7:24 |
-| 44 | [Desnudate Mujer](https://open.spotify.com/track/2aiTdsCbRlcDmSPzToIRIA) | [José Alberto "El Canario"](https://open.spotify.com/artist/6TRzinjf5dzE8zA8baPbYz) | [Va por Ti, Frankie \(Concierto Homenaje a Frankie Ruiz\)](https://open.spotify.com/album/3NpPEaMbkXan11KO2FB43Q) | 8:20 |
+| 44 | [Tu Loco, Loco, Y Yo Tranquilo](https://open.spotify.com/track/5ZnS39e15qQqAFS7lgCPE1) | [Roberto Roena](https://open.spotify.com/artist/4i5rDrP2IqCdMgde0vIpyB) | [En Vivo Desde Bellas Artes](https://open.spotify.com/album/7GjrbV5AIgz240w67gmVCs) | 4:38 |
 | 45 | [Pedro Navaja \- Live](https://open.spotify.com/track/02JsgAcJTmrN9RXWjjhjH5) | [Ruben Blades y Seis del Solar](https://open.spotify.com/artist/0Rx4tJspA1e5V2TZFzy0d5) | [Todos Vuelven Live, Vol\. 2](https://open.spotify.com/album/1hFypiuMxAkEGse2l0JdsY) | 8:09 |
 | 46 | [Quiéreme Tal Como Soy \- Live](https://open.spotify.com/track/75y9r2v3m3hOdNUJwWDzLZ) | [Luisito Ayala Y La Puerto Rican Power](https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7) | [30 Años de Power](https://open.spotify.com/album/6nh67Ew5axaX1hW0WO4JlI) | 5:30 |
 | 47 | [Hazme Olvidarla \- En Vivo](https://open.spotify.com/track/5SgtDlep0eOfVwcdyf5Heh) | [Willie Gonzalez](https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z) | [Lo Nuevo Y Lo Mejor \(En Vivo\)](https://open.spotify.com/album/7iHGyYhoSAKDQG9UA2HsHy) | 6:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 | 49 | [La Vida Es Un Carnaval \- En Vivo Desde Hartford, Connecticut/1999](https://open.spotify.com/track/5BEXV2dGkQA2BPIYtGgntT) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [A Night Of Salsa](https://open.spotify.com/album/4AufrsOjkE4COw6Innem8h) | 6:41 |
 | 50 | [Mi Bajo y Yo \- Live Version](https://open.spotify.com/track/5VBWkhVysV6pW7Uiw5S4lb) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Sergio George Presents Salsa Giants \(Live\)](https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io) | 5:38 |
 
-Snapshot ID: `MTY0NzU3OTYwMCwwMDAwMDAwMGNjYzgwMzkyZmYzZGM5NTkxYjcwNjQ4ZDA2ZGQyYmYy`
+Snapshot ID: `MTY0NzU3OTYwMCwwMDAwMDAwMGYxOTRlN2I3NTFlNjgxYWJmM2VkMjg2NjllZjgwZGEz`

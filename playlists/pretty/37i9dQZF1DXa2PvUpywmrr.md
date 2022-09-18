@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PvUpywmrr.md) - [plain]
 
 > A mix of the biggest pop, dance, and hip hop party songs\. Cover: Bad Bunny
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,214,970 likes - 90 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,215,661 likes - 90 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Dancing to electro\-pop like a robot from 1984\. Cover: The Psychedelic Furs.
 
-94 songs - 6 hr 37 min - [published](https://open.spotify.com/playlist/7sgvvjtQ3YO0vLBx6zL4uM)
+95 songs - 6 hr 42 min - [published](https://open.spotify.com/playlist/7sgvvjtQ3YO0vLBx6zL4uM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [If You Leave \- 2019 Remaster](https://open.spotify.com/track/38w6aqERgBYjyvWQsltcvs) | [Orchestral Manoeuvres In The Dark](https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk) | [Souvenir](https://open.spotify.com/album/5CVouzgQnK0xK3M3YC8ncs) | 4:29 | 2022-03-10 |  |
 | [Imagination](https://open.spotify.com/track/0DJFfzpoWz0wiaBzqcSeuh) | [Belouis Some](https://open.spotify.com/artist/0EX1yiXXmblRFdw2pb10NF) | [Some People](https://open.spotify.com/album/2DOXuDtgzRFomH47RGG1TG) | 3:34 | 2022-03-10 |  |
 | [Imagination](https://open.spotify.com/track/2LQ2cwH2A8ITNNPUwY1wve) | [Belouis Some](https://open.spotify.com/artist/0EX1yiXXmblRFdw2pb10NF) | [This Is..\. 1986](https://open.spotify.com/album/3ACxpwN7XPqjcec45zdE8g) | 3:34 | 2022-03-10 | 2022-07-28 |
-| [It's a Sin \- 2001 Remaster](https://open.spotify.com/track/6IDHh3FcwLVcG5NsmpQgg2) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Actually](https://open.spotify.com/album/7hkIf8sKiJKRjADB2xan74) | 4:59 | 2022-03-10 |  |
+| [It's a Sin \- 2001 Remaster](https://open.spotify.com/track/6IDHh3FcwLVcG5NsmpQgg2) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Actually](https://open.spotify.com/album/7hkIf8sKiJKRjADB2xan74) | 4:59 | 2022-03-10 | 2022-09-18 |
+| [It's a Sin \- 2018 Remaster](https://open.spotify.com/track/5fy4vfEtv6lzqLx2Mt7stF) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Actually: Further Listening 1987 \- 1988 \(2018 Remaster\)](https://open.spotify.com/album/7ae4SfR2B1wEXX5EwS2Cg7) | 4:59 | 2022-03-10 |  |
 | [It's My Life \- 1997 Remaster](https://open.spotify.com/track/4jhsuQCUCJKA5f0bXb6XdJ) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf) | [It's My Life](https://open.spotify.com/album/152Hw6E0tNz3EQNq9c1CDf) | 3:52 | 2022-03-10 |  |
 | [Just Can't Get Enough](https://open.spotify.com/track/0qi4b1l0eT3jpzeNHeFXDT) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Speak And Spell \(Deluxe\)](https://open.spotify.com/album/0Zp2eVzR9FW6lKX05lRpcu) | 3:40 | 2022-03-10 | 2022-07-28 |
 | [Just Can't Get Enough \- 2006 Remaster](https://open.spotify.com/track/0xuXRQJfxmdP6gvfDe2Z4L) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Speak & Spell \(2006 Remaster\)](https://open.spotify.com/album/0ntg4L6zjosDII94zoyboq) | 3:42 | 2022-03-10 |  |

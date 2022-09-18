@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaCACvgOVs5K.md) - [plain]
 
 > Ibiza season is back for 2022\. Let's dance!
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,940 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,337 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaCACvgOVs5K.md) - [plain]
 | 74 | [Till The End \- Jonas Blue & Sam Feldt Present Endless Summer](https://open.spotify.com/track/42NgRCC7M5rfVNKXMaFitZ) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Sam DeRosa](https://open.spotify.com/artist/4xOi6SOP1jUoAeSfuPsfx0), [Endless Summer](https://open.spotify.com/artist/3E0d6yF8knEtWluzLbxCVA) | [Till The End \(Jonas Blue & Sam Feldt Present Endless Summer\)](https://open.spotify.com/album/1ocuRCXk3wpcRl5OzQvGB9) | 3:08 |
 | 75 | [Tripasia](https://open.spotify.com/track/365aB2RegILTAZqCEgmkUc) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Brisotti](https://open.spotify.com/artist/3L0kwteWrevLGtjvQVYLcl) | [Tripasia](https://open.spotify.com/album/45cq3fJrBfvSPU8dKgZpwS) | 2:56 |
 | 76 | [We Control](https://open.spotify.com/track/7K3OyIuvYF1qcwr4xqILeu) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [We Control](https://open.spotify.com/album/5VgrFAxkLmF6xAfgY6ByeW) | 3:26 |
-| 77 | [Universal Consciousness](https://open.spotify.com/track/6cKTcheUC3OHDMI8QMKp08) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Universal Consciousness EP](https://open.spotify.com/album/4hLx8gxka0a3rYc2sBN3fQ) | 6:40 |
-| 78 | [You're Toxic](https://open.spotify.com/track/5Ig2RPAPLrkAkFpyr8uAPj) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B) | [You're Toxic](https://open.spotify.com/album/5xMufmAVskrZV4Llusco8r) | 6:11 |
+| 77 | [You're Toxic](https://open.spotify.com/track/5Ig2RPAPLrkAkFpyr8uAPj) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B) | [You're Toxic](https://open.spotify.com/album/5xMufmAVskrZV4Llusco8r) | 6:11 |
+| 78 | [Universal Consciousness](https://open.spotify.com/track/6cKTcheUC3OHDMI8QMKp08) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Universal Consciousness EP](https://open.spotify.com/album/4hLx8gxka0a3rYc2sBN3fQ) | 6:40 |
 | 79 | [Joy](https://open.spotify.com/track/17E3lZxFJnO49Gb0tdgVn0) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Joy](https://open.spotify.com/album/76GgZZUHQu2VQRLMXEIQcL) | 4:41 |
 | 80 | [Silenced](https://open.spotify.com/track/2sUkEAXJBIvh9EvuuOOKuW) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Dark Matter](https://open.spotify.com/album/1USrnunDsroJ3keCEZJpxr) | 3:52 |
 | 81 | [Deep End \- SIDEPIECE Remix](https://open.spotify.com/track/7JdiXX87BugXUDhQ89GEc8) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Deep End \(SIDEPIECE Remix\)](https://open.spotify.com/album/3G4HzFDfCJUBJ4u7G3IdVc) | 3:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaCACvgOVs5K.md) - [plain]
 | 99 | [Back In The Dance](https://open.spotify.com/track/02K93YKyLxK8xCY2C4ePtI) | [Darius Syrossian](https://open.spotify.com/artist/6PDUdAoMV9dMy0wOt09Rsf), [George Smeddles](https://open.spotify.com/artist/5HT6hDqzq0B7EFlokN0hK2) | [Back In The Dance](https://open.spotify.com/album/52CE1b4k3DfEpujnmgrim2) | 3:26 |
 | 100 | [Atlas](https://open.spotify.com/track/54TgI46OnNqcf0SyzQyCL6) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Isles](https://open.spotify.com/album/0EdtTRCl3J22AnWrNpH1w9) | 5:48 |
 
-Snapshot ID: `MTY2MTUzNzc2MCwwMDAwMDAwMDliMzNmMThlYzY4YTkyZGJhYzRiZTcxZDBlYjg1YzRm`
+Snapshot ID: `MTY2MTUzNzc2MCwwMDAwMDAwMDcxZDY0NTMxYmRhZDIzNGM5MDZjOWM5ZTczMjg5YWM0`

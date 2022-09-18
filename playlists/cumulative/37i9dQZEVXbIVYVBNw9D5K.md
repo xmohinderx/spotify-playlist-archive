@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-509 songs - 1 day 2 hr 3 min - [published](https://open.spotify.com/playlist/20TNv9NLPUqb3L0SIWXCbw)
+510 songs - 1 day 2 hr 6 min - [published](https://open.spotify.com/playlist/20TNv9NLPUqb3L0SIWXCbw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -431,6 +431,7 @@
 | [Señorita Sinyale](https://open.spotify.com/track/2iyI0CLKITX64eurWDRPOR) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Señorita Sinyale](https://open.spotify.com/album/7BNEu6hUIAfu1OI9UJPpkT) | 2:08 | 2021-08-01 | 2021-08-05 |
 | [Sharingan](https://open.spotify.com/track/6R76MbXJLUU3a2srbwjZHr) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [Sharingan](https://open.spotify.com/album/7oqNfnG35KZbAZuIfXRu7L) | 1:47 | 2021-04-26 | 2021-07-07 |
 | [Sherlock Holmes \- Tirat](https://open.spotify.com/track/0VtY1lmgsWOv6ciozU0DEn) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [Sherlock Holmes \(Tirat\)](https://open.spotify.com/album/3esW5FBZnrO0rxmjwxarKy) | 2:57 | 2022-04-30 | 2022-05-02 |
+| [Shut Down](https://open.spotify.com/track/7gRFDGEzF9UkBV233yv2dc) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 2:55 | 2022-09-17 |  |
 | [Sil Baştan](https://open.spotify.com/track/1yt8iVzPepEE3NEiivo2MW) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS), [Kuty](https://open.spotify.com/artist/1spo5AJ302sAMnRXUPlSy1), [Ege Boran](https://open.spotify.com/artist/3fLOI9YQNiRAOCwUm75Zqn) | [Sil Baştan](https://open.spotify.com/album/3XtH4eCDba4FrcoKzvMrim) | 3:00 | 2022-04-23 | 2022-04-25 |
 | [Sis](https://open.spotify.com/track/76zoOB2W5KAh77cFcvKZyJ) | [Khontkar](https://open.spotify.com/artist/1iJrQKRh5aJnp6cG5lpITr), [Bixi Blake](https://open.spotify.com/artist/2NPl6xmez0ma3ssIrMz1DM) | [Sis](https://open.spotify.com/album/1ngWrMYFufJn8B9BaIih11) | 3:14 | 2021-06-06 | 2021-06-13 |
 | [Slam Dunk](https://open.spotify.com/track/2EjorgHe9XSo5V4CaPawAm) | [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS) | [EL PATRON](https://open.spotify.com/album/6aKRuXIgsdwIVonTP7PguK) | 2:30 | 2021-04-11 | 2021-04-13 |
@@ -474,7 +475,7 @@
 | [WOW](https://open.spotify.com/track/4kSqYkWqXbwqGeGtnA7QJD) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [DIPSOMANIA](https://open.spotify.com/album/3qWgcWz8vKzsFF1rSRoPhu) | 3:02 | 2021-06-13 | 2021-06-20 |
 | [XXL](https://open.spotify.com/track/3CbxLHTkPClIGBzRDf3JGK) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [EL CHAVO](https://open.spotify.com/album/6nmFMrH9R3JpIgxtiJq3hY) | 2:07 | 2022-09-10 |  |
 | [Yalan](https://open.spotify.com/track/2coKk2gtpeK86rFNEtYjzP) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW), [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1), [Arem Ozguc](https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J), [Arman Aydin](https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf) | [Yalan](https://open.spotify.com/album/45MpLdzOOOQtHzWmtCFDN4) | 2:44 | 2021-09-26 | 2021-12-26 |
-| [Yalancı](https://open.spotify.com/track/5bmRxKsHXgoQvl4MYlUJTr) | [EDIS](https://open.spotify.com/artist/1AM52XHXnWAEqnQwpxTLWm) | [Yalancı](https://open.spotify.com/album/0t1CRTvHyX96kaPwNHA1mE) | 2:31 | 2022-07-30 |  |
+| [Yalancı](https://open.spotify.com/track/5bmRxKsHXgoQvl4MYlUJTr) | [EDIS](https://open.spotify.com/artist/1AM52XHXnWAEqnQwpxTLWm) | [Yalancı](https://open.spotify.com/album/0t1CRTvHyX96kaPwNHA1mE) | 2:31 | 2022-07-30 | 2022-09-18 |
 | [Yallah](https://open.spotify.com/track/7zxHknEJ9gfaL8Ln6UqYUX) | [Montiego](https://open.spotify.com/artist/1pMFoni6A1enu9OBmaanG2), [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [Yallah](https://open.spotify.com/album/57TckZyIR5Gc6vab60RBpm) | 2:24 | 2022-02-05 | 2022-05-26 |
 | [Yandı İçim](https://open.spotify.com/track/7MyRfqDBr6vXMgzjys2vmz) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Yandı İçim](https://open.spotify.com/album/7dRnmuXYuZzaeaXFKNuu8D) | 4:03 | 2021-09-19 | 2021-09-26 |
 | [Yandırdın Beni](https://open.spotify.com/track/1corFz8NVeSVGgt0X44sCs) | [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS), [FRO](https://open.spotify.com/artist/0FFa4QdxeEcPI6xd0pPxeI) | [Yandırdın Beni](https://open.spotify.com/album/3x4zkK1aC5OgeAoTXCQxj8) | 3:52 | 2021-08-22 | 2021-08-30 |

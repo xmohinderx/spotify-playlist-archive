@@ -4,7 +4,7 @@
 
 > Timeless Latin pop hits through the decades! Cover: Juanes
 
-162 songs - 10 hr 58 min - [published](https://open.spotify.com/playlist/2FSO8yoy6jp43MoiNNcuHM)
+163 songs - 11 hr 2 min - [published](https://open.spotify.com/playlist/2FSO8yoy6jp43MoiNNcuHM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Dígale](https://open.spotify.com/track/2ov4mApsCl1vXLLZvjhxHW) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Corazón Latino](https://open.spotify.com/album/6OTUBhlBFkkFd1qu3mgjjn) | 4:24 | 2021-12-28 | 2022-07-29 |
 | [Dónde está el amor \(feat\. Jesse & Joy\)](https://open.spotify.com/track/0CjaLvAqN97KPVWgOJ1vbD) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50), [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Tanto \(Edición Premium\)](https://open.spotify.com/album/7kA3hvV7UjgnA5uiUBxwlN) | 3:53 | 2021-12-28 |  |
 | [Ecos De Amor](https://open.spotify.com/track/3lI5dscCDez8cF6LF3Me7F) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Un Besito Más](https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3) | 3:35 | 2022-01-10 |  |
-| [El Noa Noa](https://open.spotify.com/track/55LmsCprSozlCgM2XbmhhW) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Juan Gabriel \- 40 Aniversario](https://open.spotify.com/album/1Iofb00kc6shksa6a7wSah) | 4:13 | 2022-01-10 |  |
+| [El Noa Noa](https://open.spotify.com/track/55LmsCprSozlCgM2XbmhhW) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Juan Gabriel \- 40 Aniversario](https://open.spotify.com/album/1Iofb00kc6shksa6a7wSah) | 4:13 | 2022-01-10 | 2022-09-18 |
 | [El Sol No Regresa](https://open.spotify.com/track/1npDfdIgKSiOwtDJJqgeBw) | [La Quinta Estacion](https://open.spotify.com/artist/7FZj349hdLfD6qzXkJLuAh) | [Flores De Alquiler](https://open.spotify.com/album/3akKzcllmwsg5jq6TK4P1d) | 3:48 | 2021-12-28 | 2022-07-29 |
 | [En El Muelle De San Blas](https://open.spotify.com/track/0mvocLIWUnT10znvIXwHGr) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Sueños Líquidos](https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V) | 5:52 | 2021-12-28 |  |
 | [Enamórate De Alguien Más](https://open.spotify.com/track/1fXKStjVOTmBEwjAnFSNkc) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Enamórate De Alguien Más](https://open.spotify.com/album/7EpdDp3FoDcnS95f0wgSYb) | 3:49 | 2022-01-10 |  |
@@ -111,6 +111,7 @@
 | [Mujeres](https://open.spotify.com/track/7wNrk2vc0GUUNBFggJzEsI) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Animal Nocturno](https://open.spotify.com/album/3BkE5kvMnXh6ljEvyCSR0I) | 3:26 | 2021-12-28 |  |
 | [Más Que Amigos](https://open.spotify.com/track/06PcFr42yEwK5Dv2cdkcC0) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Sube](https://open.spotify.com/album/4G2BGiu4lG5GNW6LR9oWb0) | 2:57 | 2022-01-10 |  |
 | [Mío](https://open.spotify.com/track/2lreM6ud0LEKcQoEnXbiSL) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Mis Grandes Exitos](https://open.spotify.com/album/5bSt6AU6EDceYwxN7dJD0F) | 3:44 | 2022-01-10 | 2022-07-14 |
+| [Nada Fue Un Error](https://open.spotify.com/track/5QhOF5HXgZ0OFUZSE5kEv1) | [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj) | [Coti](https://open.spotify.com/album/1msFprmU8cqzLu66TOX4rf) | 3:28 | 2022-08-05 |  |
 | [Nada Fue Un Error](https://open.spotify.com/track/5yOKRTCVIWlPQwfbxGbXk5) | [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj) | [Canciones Para Llevar \(Internacional\)](https://open.spotify.com/album/5zRcpUITN2jigTq3N8Q2dh) | 3:31 | 2021-12-28 | 2022-07-29 |
 | [Ni Una Sola Palabra](https://open.spotify.com/track/7o0kV6oNSTVxcxvbGpUcms) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Pau Factor](https://open.spotify.com/album/5aJbHf0uuWc09nain4j3wl) | 3:52 | 2021-12-28 | 2022-07-29 |
 | [No Llores Por Mi](https://open.spotify.com/track/7FZZNhtVIMO69p56ay0t2A) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Enrique Iglesias](https://open.spotify.com/album/2NwF2C2Z9sSgePRArAA5cl) | 4:08 | 2022-01-10 | 2022-07-24 |

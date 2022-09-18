@@ -4,7 +4,7 @@
 
 > The ever\-evolving sound of Alt! Cover: Switchfoot
 
-135 songs - 8 hr 48 min - [published](https://open.spotify.com/playlist/1NSGD7171i0HygYQPY0WUi)
+136 songs - 8 hr 52 min - [published](https://open.spotify.com/playlist/1NSGD7171i0HygYQPY0WUi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Fake Love](https://open.spotify.com/track/5cScwnGYEKlF2TusRewybb) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [Fake Love](https://open.spotify.com/album/1O2C6XFhuYh0d5pwsoD5gO) | 3:31 | 2022-03-11 |  |
 | [Fall On The Nation](https://open.spotify.com/track/3fFsDBcFycQogyVzen7PQX) | [Pennell](https://open.spotify.com/artist/4II2ZuzGY0QoHXLStyyY7R), [Corry Robinson](https://open.spotify.com/artist/2bOO4AHJ9Y4CGsHFMpdhXv) | [Fall On The Nation](https://open.spotify.com/album/2U41cpJltmjsWVXhcNrEML) | 4:32 | 2022-02-27 |  |
 | [Far Away](https://open.spotify.com/track/14tyaEf3kt4CwwoYZDuIM9) | [Jet Trouble](https://open.spotify.com/artist/6W2lyFO79SNpk3ZpF0A2s9) | [Far Away](https://open.spotify.com/album/0JhhRKFEWb0QfccAzYLaDc) | 3:16 | 2022-02-27 | 2022-04-16 |
-| [Father](https://open.spotify.com/track/2nCQq02bOLS65hfOZt8J4D) | [Joshua Luke Smith](https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A), [Wild Sons](https://open.spotify.com/artist/1lF0dM3992TbNu7BCTURkk) | [Father](https://open.spotify.com/album/4GeDiiBBSKGuszqUUh1R0H) | 3:48 | 2022-07-17 |  |
+| [Father](https://open.spotify.com/track/2nCQq02bOLS65hfOZt8J4D) | [Joshua Luke Smith](https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A), [Wild Sons](https://open.spotify.com/artist/1lF0dM3992TbNu7BCTURkk) | [Father](https://open.spotify.com/album/4GeDiiBBSKGuszqUUh1R0H) | 3:48 | 2022-07-17 | 2022-09-18 |
+| [Father](https://open.spotify.com/track/5IR5Bi1nL7h0C0BuEnuoLl) | [Joshua Luke Smith](https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A), [Wild Sons](https://open.spotify.com/artist/1lF0dM3992TbNu7BCTURkk) | [Father](https://open.spotify.com/album/5LhlgmewVgxyWbYUfGxk9b) | 3:48 | 2022-07-17 |  |
 | [Fearless](https://open.spotify.com/track/1n55LCkjoh6y2fjIVvxpBx) | [Awaken Music](https://open.spotify.com/artist/1QcT7Zc5PsF36V3cEe7ws9) | [Lionheart \(Deluxe\)](https://open.spotify.com/album/4TViMej5PRGCbWnFsi9hRD) | 4:14 | 2022-02-27 |  |
 | [Feel Holy](https://open.spotify.com/track/1HxtNVkzA5PAzeqDXLCX37) | [Eliza King](https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa) | [Feel Holy](https://open.spotify.com/album/33BAADumKYukAW2Mw0w4ac) | 5:31 | 2022-02-27 |  |
 | [Finish Line](https://open.spotify.com/track/1gQ8nUg6bVBxW00sFWb4Iy) | [He Is We](https://open.spotify.com/artist/6yFbpXlBH8XHVQGjUPUvKU) | [Treehouse](https://open.spotify.com/album/5cg63vGGI7Un5TLlpK7XZn) | 3:37 | 2022-07-17 |  |

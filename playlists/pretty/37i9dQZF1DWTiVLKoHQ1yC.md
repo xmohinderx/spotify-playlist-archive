@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 
 > Come alive with this progressive & melodic house selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,800 likes - 80 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,891 likes - 80 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 23 | [Lost Gravity](https://open.spotify.com/track/4UwtgYX9wp4z9zLIfzVviV) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [Lost Gravity EP](https://open.spotify.com/album/6tQSndkw5ajwFDt0u1Cb1W) | 5:05 |
 | 24 | [Home](https://open.spotify.com/track/2FsUQgO3jopRHjW6rQ7jMc) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [JONAH](https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4) | [Begin Again](https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr) | 3:33 |
 | 25 | [Lose Your Head \- CamelPhat Remix](https://open.spotify.com/track/7aggzqfbAW7LnkJUy9UAdJ) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Lose Your Head \(CamelPhat Remix\)](https://open.spotify.com/album/4WTLAbwOs4ev2nneLA9DrH) | 3:36 |
-| 26 | [Another Riff For The Good Times](https://open.spotify.com/track/2nfHtKszA0Ae7vQJXbARp7) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Another Riff For The Good Times / Daydreaming](https://open.spotify.com/album/4ACy5ync0g9C1cgphs8YMG) | 3:48 |
-| 27 | [Hide \- Original Mix](https://open.spotify.com/track/2xsQqjipGiLW7yD3Pbepdn) | [KARAAL](https://open.spotify.com/artist/3Y7PbeV4kHellR2AzG636b) | [Hide](https://open.spotify.com/album/35Qr8Kfqkut5j7WWJTAXdd) | 3:26 |
+| 26 | [Hide \- Original Mix](https://open.spotify.com/track/2xsQqjipGiLW7yD3Pbepdn) | [KARAAL](https://open.spotify.com/artist/3Y7PbeV4kHellR2AzG636b) | [Hide](https://open.spotify.com/album/35Qr8Kfqkut5j7WWJTAXdd) | 3:26 |
+| 27 | [Another Riff For The Good Times](https://open.spotify.com/track/2nfHtKszA0Ae7vQJXbARp7) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Another Riff For The Good Times / Daydreaming](https://open.spotify.com/album/4ACy5ync0g9C1cgphs8YMG) | 3:48 |
 | 28 | [Floral Decor](https://open.spotify.com/track/2CrKPgTinZordfA9xfhjQC) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp) | [Floral Decor](https://open.spotify.com/album/1BBSHiWKFxZaUlIBCWBSVX) | 4:08 |
 | 29 | [Monolith](https://open.spotify.com/track/5HUQByo24AQbWzEEWJeBiB) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [LNOE Introducing Vol\. 1](https://open.spotify.com/album/3qdIt9ZElhxVeGwbydXpzz) | 5:22 |
 | 30 | [L'owè L'owè](https://open.spotify.com/track/2kvJDwV4Mfm2ItUUMmkzSx) | [DJ Qness](https://open.spotify.com/artist/6VT3tPkf65cNEp8vOdpWZ0), [Dele Sosimi](https://open.spotify.com/artist/2HHFbP3OFh0bOgdnMYfqsc) | [L'owe L'owe](https://open.spotify.com/album/6sIfcPlPmIZDFytI1m0qGG) | 7:29 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 79 | [Colibrí](https://open.spotify.com/track/2ovrPkARvWZVJ2NJeS2AUc) | [BLR](https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y) | [Colibrí](https://open.spotify.com/album/4IoopovDIZ7z0VNusDNCmy) | 3:34 |
 | 80 | [2 Late 4 Love \- Danny Howard Remix](https://open.spotify.com/track/6cCZK1uozaX1RUnUmfXloJ) | [Richie Blacker](https://open.spotify.com/artist/1ZcjObwclhycsS6bdN2Kgn), [Danny Howard](https://open.spotify.com/artist/14MtanGZe4G1fzC8raLFUK) | [2 Late 4 Love \(Danny Howard Remix\)](https://open.spotify.com/album/6obT6ywNJQDjidvpo4BDLK) | 3:39 |
 
-Snapshot ID: `MTY0MjE1NzQwNSwwMDAwMDAwMGM5YTMzNmZkYzE0YzNjMWFiNjNjN2Q2MzJjY2VlNjk3`
+Snapshot ID: `MTY0MjE1NzQwNSwwMDAwMDAwMGZiYTI4ZDc4ZmM3NDFiOWYzMmM2NzIyY2E3ZDU0ZWVk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: BLACKPINK
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,516 likes - 96 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,562 likes - 96 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 17 | [Serial Heartbreaker](https://open.spotify.com/track/1UmFLqmTmgHoSyvss6Q7gw) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Girl Of My Dreams](https://open.spotify.com/album/38aH4OObJSjtO48q2eNoA4) | 2:13 |
 | 18 | [TWO SUGARS](https://open.spotify.com/track/5rZrM1ppBHmHogxLcw8wtH) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [HDTV](https://open.spotify.com/album/6TIzz9Z4n03E5USTDzBweS) | 2:55 |
 | 19 | [The Way You Move](https://open.spotify.com/track/3Ki7n1kx9fzuflkW03iRuw) | [Ruth Garcia](https://open.spotify.com/artist/3VhvDHThiOy3cUZvAR1ZKq) | [The Way You Move](https://open.spotify.com/album/6dppoapvb182OdcmaTqaNc) | 3:33 |
-| 20 | [buzzcut](https://open.spotify.com/track/5uzelqnup22nD2CwxUQGIU) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [buzzcut](https://open.spotify.com/album/4FHh7OcRS13Whv41NW30ux) | 2:34 |
+| 20 | [buzz cut](https://open.spotify.com/track/5uzelqnup22nD2CwxUQGIU) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [buzz cut](https://open.spotify.com/album/4FHh7OcRS13Whv41NW30ux) | 2:34 |
 | 21 | [This Summer Is Killing Me \- 三立電視《門當互懟愛上你》插曲](https://open.spotify.com/track/2g2vUI5oRkGCpHulUoUhgc) | [GJ](https://open.spotify.com/artist/5CqbTtX7bCx1A5wn5xMWvh) | [This Summer Is Killing Me](https://open.spotify.com/album/115miSAkqs97b2Dbo9EVeJ) | 3:33 |
 | 22 | [Impossible To Love You](https://open.spotify.com/track/6bBnvKVHuImtiQap2V9JZt) | [Ai.Z](https://open.spotify.com/artist/3WskbYlYe2qJrMtYnkIvKk) | [Impossible To Love You](https://open.spotify.com/album/3JluM3q4Ve8YuBXPnE1dx0) | 3:39 |
 | 23 | [ONLY ONE](https://open.spotify.com/track/04xnC2Uwq38RPrwCLv6f0G) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [YESSIE](https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV) | 3:03 |

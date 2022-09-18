@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0RRszxFFrw.md) - [plain]
 
 > Dulces rasgueos de cuerdas para acompañar tu velada
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,691 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,711 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0RRszxFFrw.md) - [plain]
 | 35 | [Canta la Guitarra](https://open.spotify.com/track/46XuSxpXXWZx440uKeuU5o) | [Pepe Habichuela](https://open.spotify.com/artist/4d567Yau2MqOd3y9Tc1ypR) | [Habichuela en Rama](https://open.spotify.com/album/6Qrojzu25Wq5JIdRQC6iaB) | 3:50 |
 | 36 | [Commitments](https://open.spotify.com/track/1oIDF7ezAEtZbPaR9kaZ99) | [Affe Reidhoff](https://open.spotify.com/artist/4pqJbzXUZa8by7nb50hlN0) | [Commitments](https://open.spotify.com/album/5Hzye9VDXOIUJviuOwR4st) | 3:14 |
 | 37 | [30 De Marzo](https://open.spotify.com/track/23jaacZ4V3mdoMJYWrDI3n) | [Rodrigo y Gabriela](https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF) | [Re\-Foc](https://open.spotify.com/album/16i22w9V74VL7euoZIjX6G) | 4:14 |
-| 38 | [El Cañaveral \- Guajira](https://open.spotify.com/track/70aQ5WqBFN8bpyRyeaucwL) | [Manolo Sanlucar](https://open.spotify.com/artist/64CGnwp39uOxZSq2BfqWsi) | [Recital Flamenco\. 12 de Sus Toques Originales](https://open.spotify.com/album/35I2VAs6hVpC3pobXmNSrh) | 4:39 |
-| 39 | [La Bamba](https://open.spotify.com/track/2j1ceA9K8Ugl2xyLwEGGt9) | [Edy Hafler](https://open.spotify.com/artist/6i9IwqxrIrIQZKJbBOBc3T) | [Guitar Pop Covers, Vol\. 1](https://open.spotify.com/album/7ijQQwrViFIZWVJKor2NWy) | 2:30 |
+| 38 | [La Bamba](https://open.spotify.com/track/2j1ceA9K8Ugl2xyLwEGGt9) | [Edy Hafler](https://open.spotify.com/artist/6i9IwqxrIrIQZKJbBOBc3T) | [Guitar Pop Covers, Vol\. 1](https://open.spotify.com/album/7ijQQwrViFIZWVJKor2NWy) | 2:30 |
+| 39 | [El Cañaveral \- Guajira](https://open.spotify.com/track/70aQ5WqBFN8bpyRyeaucwL) | [Manolo Sanlucar](https://open.spotify.com/artist/64CGnwp39uOxZSq2BfqWsi) | [Recital Flamenco\. 12 de Sus Toques Originales](https://open.spotify.com/album/35I2VAs6hVpC3pobXmNSrh) | 4:39 |
 | 40 | [Black Orpheus](https://open.spotify.com/track/4CciHxY48WF8liFZJoRV8Z) | [Denisinho](https://open.spotify.com/artist/2KECXRDFavUmOjCWBT9KH6) | [Blue Bossa](https://open.spotify.com/album/2V0hmdlUjy5stwFM1HrI4g) | 3:01 |
 | 41 | [Ibiza Sunset](https://open.spotify.com/track/3n3WBgFav1mo7Ccz1T3E0j) | [Eric Josef](https://open.spotify.com/artist/29w4oGLyEXCDDyaCvKTtfN) | [Ibiza Sunset](https://open.spotify.com/album/03gFLapNILwqleIO9ZCPS8) | 2:48 |
 | 42 | [Estrellita](https://open.spotify.com/track/6umRoceuzdE9HFGAuXNLu0) | [Manuel Ponce](https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK), [Timo Korhonen](https://open.spotify.com/artist/0lQAmXMjaOpe3l6Kj3JmoT) | [Estrellita](https://open.spotify.com/album/46d09XEe1Pvxdoo2qKfUWz) | 2:11 |
@@ -54,17 +54,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0RRszxFFrw.md) - [plain]
 | 44 | [Tierra Mestiza](https://open.spotify.com/track/2s4SLxIaORw4KQSMIyMb9l) | [Gerardo Tamez](https://open.spotify.com/artist/6kX0LY1Cv1cE5FbsiSHwCF), [Terceto De Guitarras De La Ciudad De Mexico](https://open.spotify.com/artist/0ny4eZbPXPp631aVhUi7qV) | [Querencia](https://open.spotify.com/album/67mxe3mnxhw7YrOqMnNczL) | 3:39 |
 | 45 | [Cinque Terre](https://open.spotify.com/track/4Is86uGhrqWssNzt54uQTn) | [Mauricio Galbardi](https://open.spotify.com/artist/0aTk31OGuuQKrwZJc1SryA) | [Cinque Terre](https://open.spotify.com/album/7suLw0GxdLqvVGuzyTTIpM) | 3:52 |
 | 46 | [Bossa Bravado](https://open.spotify.com/track/6okyzUui51pNetfcXT40zu) | [Eric Josef](https://open.spotify.com/artist/29w4oGLyEXCDDyaCvKTtfN) | [A Brand New World](https://open.spotify.com/album/1yYlElFV3Xk2tkBJCMEgJo) | 2:22 |
-| 47 | [My Foolish Heart](https://open.spotify.com/track/57hSvxwQrxe3BZ8vDu6pVF) | [Nino Josele](https://open.spotify.com/artist/7KPoRAFSOQXa0jX1Pad5wT) | [Paz](https://open.spotify.com/album/6FTHzmqkzw39Ey8o20i39k) | 5:04 |
-| 48 | [Mexico 1910](https://open.spotify.com/track/7KPA038sMskcyOYtI6tc7i) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Cinema Latino Vol\. 1](https://open.spotify.com/album/7kNKfwn3JRIPCYXpk2VF4B) | 1:47 |
+| 47 | [Mexico 1910](https://open.spotify.com/track/7KPA038sMskcyOYtI6tc7i) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Cinema Latino Vol\. 1](https://open.spotify.com/album/7kNKfwn3JRIPCYXpk2VF4B) | 1:47 |
+| 48 | [My Foolish Heart](https://open.spotify.com/track/57hSvxwQrxe3BZ8vDu6pVF) | [Nino Josele](https://open.spotify.com/artist/7KPoRAFSOQXa0jX1Pad5wT) | [Paz](https://open.spotify.com/album/6FTHzmqkzw39Ey8o20i39k) | 5:04 |
 | 49 | [Mood for Love](https://open.spotify.com/track/1JoH5JKZeScA94G4wX8E9P) | [Novamenco](https://open.spotify.com/artist/4N2QllXhimLb0W5N3bBeWp) | [Flight to Paradise](https://open.spotify.com/album/52a8scYr8ByP5r3SpiYG2x) | 4:16 |
 | 50 | [Meu coração](https://open.spotify.com/track/6c8xRdxYhrj6VaEbUS6mu3) | [Xavier Hermenegildo](https://open.spotify.com/artist/6KlphmbEPapSqBKhND7mJC) | [Meu coração](https://open.spotify.com/album/405dosv3ZeaoHAXrY5bbgq) | 2:23 |
 | 51 | [Rumbita \(Guitar Version\)](https://open.spotify.com/track/2O4EF7o7GcoynSOhdl8eMZ) | [Guitarras De Oro](https://open.spotify.com/artist/6XHtHclYE1EvdBOhrDcc3M) | [Música De España](https://open.spotify.com/album/78IBI0klNQUPQqboDbrwAC) | 3:41 |
-| 52 | [Madera Negra](https://open.spotify.com/track/4KIDmG6SAq3EQWytkk0gu7) | [Nino Josele](https://open.spotify.com/artist/7KPoRAFSOQXa0jX1Pad5wT) | [Niño Josele](https://open.spotify.com/album/79653plha39OpqECC3HCln) | 4:05 |
-| 53 | [Isla de los Bienaventurados \(Bulerías\)](https://open.spotify.com/track/3CHxIC1JZewDlGqR039lrt) | [Cañizares](https://open.spotify.com/artist/1PySKBegwK588WYnOnrsPP) | [El Mito de la Caverna](https://open.spotify.com/album/0SD94n8I6upvFQolNEblFl) | 3:48 |
-| 54 | [Monte Gurugú](https://open.spotify.com/track/1F33layvcNu2YUzQQFNvWW) | [Rafael Riqueni](https://open.spotify.com/artist/5eye4DlE12OQi676MhZGM4) | [Parque De María Luisa](https://open.spotify.com/album/30Z7x1x9CxJASsEq7mZ2CI) | 4:34 |
-| 55 | [Repiqueteos Flamencos \(Zapateado\)](https://open.spotify.com/track/6y9rL8o5OK9IQ7u6OT6LwH) | [Paco Peña](https://open.spotify.com/artist/4OYPdvtRCWaLVmUrm1eiTa) | [Fabulous Flamenco!/La Gitarra Flamenca](https://open.spotify.com/album/08apameAgGxWqzUoQF1XZK) | 3:25 |
-| 56 | [Ojos Verdes](https://open.spotify.com/track/0JwdbwB4wIOIus3NbNbyET) | [Carles Trepat](https://open.spotify.com/artist/1EuZtRlK2FaFYhknbdxuZX) | [Manuel Quiroga Llora la Guitarra](https://open.spotify.com/album/7KX0vUmUh8qwNNOrX7JtEN) | 3:58 |
-| 57 | [Siena](https://open.spotify.com/track/6hebly36sQyqXZerurmsuO) | [Marcus Larsen](https://open.spotify.com/artist/3VvLdbNVbOdEcCrsmaOfYX) | [Siena](https://open.spotify.com/album/7uBcvHDsSXkR6m5CSHqCFJ) | 2:11 |
+| 52 | [Repiqueteos Flamencos \(Zapateado\)](https://open.spotify.com/track/6y9rL8o5OK9IQ7u6OT6LwH) | [Paco Peña](https://open.spotify.com/artist/4OYPdvtRCWaLVmUrm1eiTa) | [Fabulous Flamenco!/La Gitarra Flamenca](https://open.spotify.com/album/08apameAgGxWqzUoQF1XZK) | 3:25 |
+| 53 | [Siena](https://open.spotify.com/track/6hebly36sQyqXZerurmsuO) | [Marcus Larsen](https://open.spotify.com/artist/3VvLdbNVbOdEcCrsmaOfYX) | [Siena](https://open.spotify.com/album/7uBcvHDsSXkR6m5CSHqCFJ) | 2:11 |
+| 54 | [Madera Negra](https://open.spotify.com/track/4KIDmG6SAq3EQWytkk0gu7) | [Nino Josele](https://open.spotify.com/artist/7KPoRAFSOQXa0jX1Pad5wT) | [Niño Josele](https://open.spotify.com/album/79653plha39OpqECC3HCln) | 4:05 |
+| 55 | [Isla de los Bienaventurados \(Bulerías\)](https://open.spotify.com/track/3CHxIC1JZewDlGqR039lrt) | [Cañizares](https://open.spotify.com/artist/1PySKBegwK588WYnOnrsPP) | [El Mito de la Caverna](https://open.spotify.com/album/0SD94n8I6upvFQolNEblFl) | 3:48 |
+| 56 | [Monte Gurugú](https://open.spotify.com/track/1F33layvcNu2YUzQQFNvWW) | [Rafael Riqueni](https://open.spotify.com/artist/5eye4DlE12OQi676MhZGM4) | [Parque De María Luisa](https://open.spotify.com/album/30Z7x1x9CxJASsEq7mZ2CI) | 4:34 |
+| 57 | [Ojos Verdes](https://open.spotify.com/track/0JwdbwB4wIOIus3NbNbyET) | [Carles Trepat](https://open.spotify.com/artist/1EuZtRlK2FaFYhknbdxuZX) | [Manuel Quiroga Llora la Guitarra](https://open.spotify.com/album/7KX0vUmUh8qwNNOrX7JtEN) | 3:58 |
 | 58 | [Lagrima](https://open.spotify.com/track/5BI10E53YBSMYbCnKijBEN) | [Alex Albright](https://open.spotify.com/artist/26JRo0347XPbM7ve7owOdj) | [Spanish Guitar EP](https://open.spotify.com/album/5qLOiuTrmvrpmPxBuGtaNk) | 1:49 |
 | 59 | [Just Feeling Great](https://open.spotify.com/track/6ThIFhiC2QlBlYnM5qgO9k) | [Nylonwings](https://open.spotify.com/artist/2FLK3ubX0vLLfbU5ViuJTN) | [Just Feeling Great](https://open.spotify.com/album/51ZoU9SmsB2MNiIQIe018S) | 2:01 |
 | 60 | [Me Estas Haciendo Falta](https://open.spotify.com/track/5V0WQGIPkrEgpgQAOaGBif) | [Elias Carrera](https://open.spotify.com/artist/7qKazhBQV8sScUWPr8xVOO) | [Wasi](https://open.spotify.com/album/0PoKRHhIITIb48H5r6M7SJ) | 2:32 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0RRszxFFrw.md) - [plain]
 | 74 | [Tango en Skai \- Instrumental](https://open.spotify.com/track/1eGdw1BbGAYaXbgPcVIkGm) | [Panagiotis Margaris](https://open.spotify.com/artist/2UUloMjgTaoxRyWKK9mK0f) | [Cafe de l'Art, Vol\. 1 \(14 Guitar Duets Themes\)](https://open.spotify.com/album/5JpoixLQADUh6VXxqsFXvZ) | 2:53 |
 | 75 | [Venezia](https://open.spotify.com/track/4m7vJDwcKHUTMiWFjAJUEi) | [Liam Stoler](https://open.spotify.com/artist/3siLaFiKTJUQKTTkUS8xaR) | [Venezia](https://open.spotify.com/album/3AwXe36NVPSvuhPPIZq7PH) | 3:52 |
 
-Snapshot ID: `MTY1ODQ0MDg2MCwwMDAwMDAwMGViNzk4NjExMmZmMjRkZmM0Zjk4Y2EwOGY0YTUxMjA1`
+Snapshot ID: `MTY1ODQ0MDg2MCwwMDAwMDAwMDhmOTkwNTIwZmM5YWViNDliOTk0NTNhOTQ5NmJkM2I0`

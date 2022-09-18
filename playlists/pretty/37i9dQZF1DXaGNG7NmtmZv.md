@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaGNG7NmtmZv.md) - [plain]
 
 > Classic songs from the legends of the hardcore scene.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,456 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,515 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaGNG7NmtmZv.md) - [plain]
 | 34 | [Here to Stay](https://open.spotify.com/track/4y5I2JW4P1jQWrAzieGYhS) | [Sheer Terror](https://open.spotify.com/artist/2AFPWhrVDLjiVNMpbou4jU) | [Bulldog Edition](https://open.spotify.com/album/6Q1Y7gyccEvxvYl698G2iy) | 2:24 |
 | 35 | [I Know Why](https://open.spotify.com/track/1caybCua72nNZzvFYQ3Yzy) | [H2O](https://open.spotify.com/artist/4mQm8gcXNNyzNQRqYKTKqo) | [H2O](https://open.spotify.com/album/6SIXL2tKLkV6FBZSzf9agC) | 2:50 |
 | 36 | [Never Alone](https://open.spotify.com/track/4Z4W0zIwGr9eJ40opS0t2C) | [Terror](https://open.spotify.com/artist/1GVRgPtEC6sZFqvItIk3eg) | [The Damned, the Shamed](https://open.spotify.com/album/08ujsql7ywpo2VBmLgMNsW) | 2:50 |
-| 37 | [You Ignore Them All](https://open.spotify.com/track/35MYAs5EQtZ9c5NLlZammA) | [Raised Fist](https://open.spotify.com/artist/7ik758oYwkKmQtbZtAdOOm) | [Sound Of The Republic](https://open.spotify.com/album/42NliwV96RRrJCD0yS0SCm) | 3:32 |
-| 38 | [Silence](https://open.spotify.com/track/2rf23PCJH09ZAc8eq4yL1B) | [First Blood](https://open.spotify.com/artist/4z2rZXnFuTCl75Vpb26Eg0) | [Silence Is Betrayal](https://open.spotify.com/album/7tIMZsN8CNgmkgA5zFulUv) | 0:53 |
+| 37 | [Silence](https://open.spotify.com/track/2rf23PCJH09ZAc8eq4yL1B) | [First Blood](https://open.spotify.com/artist/4z2rZXnFuTCl75Vpb26Eg0) | [Silence Is Betrayal](https://open.spotify.com/album/7tIMZsN8CNgmkgA5zFulUv) | 0:53 |
+| 38 | [You Ignore Them All](https://open.spotify.com/track/35MYAs5EQtZ9c5NLlZammA) | [Raised Fist](https://open.spotify.com/artist/7ik758oYwkKmQtbZtAdOOm) | [Sound Of The Republic](https://open.spotify.com/album/42NliwV96RRrJCD0yS0SCm) | 3:32 |
 | 39 | [Break Down the Walls](https://open.spotify.com/track/32dTnE7cWjEHCUAjSEvpiM) | [Youth Of Today](https://open.spotify.com/artist/0DbBwI2dpYty5Tl7bdSIjL) | [Break Down The Walls](https://open.spotify.com/album/37Mj1nYiNbbpOXYACvQPJX) | 2:04 |
 | 40 | [Sworn Enemy](https://open.spotify.com/track/41A2Hv0SEKnse3TWVuxADF) | [Sworn Enemy](https://open.spotify.com/artist/1I16IF1ltabPiw70Y6KG4F) | [As Real As It Gets](https://open.spotify.com/album/5jOrOQlAwdDFYZYmcdngtv) | 3:36 |
 | 41 | [Down for Life](https://open.spotify.com/track/5PbC9tBONAbLTDTfMvzndz) | [Biohazard](https://open.spotify.com/artist/3nhxXtHwC2TookQyqQlFK1) | [State Of The World Address](https://open.spotify.com/album/6vlx9tTK4GMMflGu1wZVzn) | 3:45 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaGNG7NmtmZv.md) - [plain]
 | 46 | [Family Tree](https://open.spotify.com/track/3MRHzHjvLtvaLK4qORjxSj) | [H2O](https://open.spotify.com/artist/4mQm8gcXNNyzNQRqYKTKqo) | [H2O](https://open.spotify.com/album/6SIXL2tKLkV6FBZSzf9agC) | 2:55 |
 | 47 | [Shark Ethic](https://open.spotify.com/track/7lWpl0id3QSafkh4rCBCJR) | [Most Precious Blood](https://open.spotify.com/artist/0znKUm4tIhX5cGPnynkrMu) | [Merciless](https://open.spotify.com/album/6JmRIhTDgoZG1fy8UahchU) | 3:40 |
 | 48 | [Get This Right!](https://open.spotify.com/track/7y952AaC6SYiWlNwuC3Rfv) | [Raised Fist](https://open.spotify.com/artist/7ik758oYwkKmQtbZtAdOOm) | [Dedication](https://open.spotify.com/album/5snErIyF82CrqTpnvLQ32G) | 3:30 |
-| 49 | [Let's Pretend](https://open.spotify.com/track/2fnHEggVPhncefeyheMsfw) | [Life Of Agony](https://open.spotify.com/artist/4gyzQpfG5YQZJt2jj0IkEl) | [Ugly](https://open.spotify.com/album/0DfwAJXDy8TzMgRuPNsjkc) | 3:58 |
-| 50 | [Proud To Be DFL](https://open.spotify.com/track/4cOG1ei21V0EsLRM0lFeL0) | [DFL](https://open.spotify.com/artist/6y4bvr8bJvqFuOzG6FcABb) | [Proud To Be](https://open.spotify.com/album/7LgklKSetpWGxBnFHwHP1P) | 1:25 |
+| 49 | [Proud To Be DFL](https://open.spotify.com/track/4cOG1ei21V0EsLRM0lFeL0) | [DFL](https://open.spotify.com/artist/6y4bvr8bJvqFuOzG6FcABb) | [Proud To Be](https://open.spotify.com/album/7LgklKSetpWGxBnFHwHP1P) | 1:25 |
+| 50 | [Let's Pretend](https://open.spotify.com/track/2fnHEggVPhncefeyheMsfw) | [Life Of Agony](https://open.spotify.com/artist/4gyzQpfG5YQZJt2jj0IkEl) | [Ugly](https://open.spotify.com/album/0DfwAJXDy8TzMgRuPNsjkc) | 3:58 |
 
-Snapshot ID: `MTYwNzQ0MDMzMSwwMDAwMDAwMGM2NjMwYWUzNTYwNzU4OWUzODQwNWU1YTU5ODczZjFk`
+Snapshot ID: `MTYwNzQ0MDMzMSwwMDAwMDAwMDVmZTEyYjBkMGU3NGM1ZWIwYjhjMDE3ZmUzYjExNzFi`

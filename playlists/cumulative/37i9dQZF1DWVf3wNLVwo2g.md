@@ -4,7 +4,7 @@
 
 > Powerful female voices, like you've never heard before\.  Cover: Brittany Howard, Phoebe Bridgers and Ingrid Andress.
 
-246 songs - 15 hr 0 min - [published](https://open.spotify.com/playlist/0WMCCWL4CLeFX6c5BLa8on)
+247 songs - 15 hr 3 min - [published](https://open.spotify.com/playlist/0WMCCWL4CLeFX6c5BLa8on)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Big Yellow Taxi \- Live from Spotify Studios NYC](https://open.spotify.com/track/0e3ujCTfBtvX8HdQrEUBd9) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Spotify Singles](https://open.spotify.com/album/4aNDmtlwH25CBLUjKUXPLu) | 2:29 | 2021-09-14 |  |
 | [Breathe \- Recorded At Spotify Studios Stockholm](https://open.spotify.com/track/7nmA2R4IQSfZpMYFhXY9r7) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Spotify Singles](https://open.spotify.com/album/2up3OPMp9Tb4dAKM2erWXQ) | 3:54 | 2021-09-14 |  |
 | [bésame mucho \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/66JlPySmx98BQnX1xYMIG3) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [Spotify Singles](https://open.spotify.com/album/5kommCwJMaXFKYnfS6yB5A) | 2:36 | 2021-09-14 |  |
-| [Charity \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5tKnchisFlUbdp033DgS6K) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Spotify Singles](https://open.spotify.com/album/39XVP9BnseAz2Bn42EuWlS) | 4:01 | 2021-09-14 |  |
+| [Charity \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5tKnchisFlUbdp033DgS6K) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Spotify Singles](https://open.spotify.com/album/39XVP9BnseAz2Bn42EuWlS) | 4:01 | 2021-09-14 | 2022-09-18 |
 | [Close Your Eyes \- Spotify Singles](https://open.spotify.com/track/1BiWBZrvcUh7cDCqHsjb2u) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [HANA](https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o) | [Close Your Eyes \- Spotify Singles](https://open.spotify.com/album/0CBPN1mIPmYvZLKmbH4dd5) | 3:21 | 2021-09-14 |  |
 | [Coloring Outside The Lines \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5jyqoi0sqigcLuce6XOXwa) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Spotify Singles](https://open.spotify.com/album/4HKJv2TGDJlUektNzVgFzQ) | 3:48 | 2021-09-14 |  |
 | [Congratulations \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/69yDe1giM1sJutQkhFfNZL) | [Hey Violet](https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am) | [Spotify Singles](https://open.spotify.com/album/0GfdUmTzDZX5TB1HH9cb7Z) | 3:13 | 2021-09-14 |  |
@@ -229,6 +229,7 @@
 | [Unfucktheworld \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/4r1JvA4aBEtx6uu4kSKBJ5) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Spotify Singles](https://open.spotify.com/album/0iFbPnngmZnbKKeOR9r18P) | 2:15 | 2021-09-14 | 2022-07-29 |
 | [Veneno \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/31CiU58drf9xYA9VEOFDfW) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Spotify Singles](https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ) | 3:05 | 2021-09-14 |  |
 | [Vivir Mi Vida \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2fonqgmRhs64TBxzTPlA9w) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Spotify Singles](https://open.spotify.com/album/0Y808JJyzRr0gXTNNDL2bA) | 3:57 | 2021-09-14 |  |
+| [Walk Like An Egyptian](https://open.spotify.com/track/2pEjfJf965fPdiun6fOP8p) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Spotify Singles](https://open.spotify.com/album/6V7AG2aBNQRSA494JhP63y) | 2:23 | 2022-03-08 |  |
 | [Walk Like An Egyptian](https://open.spotify.com/track/3HQKw5cvjH63e6fW2zeIcy) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Spotify Singles](https://open.spotify.com/album/1GtYk8YLg1YFHUf9g3AqT1) | 2:23 | 2022-03-08 | 2022-09-15 |
 | [Walk Like An Egyptian \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/0ORntc7lBzPs2oFUK3TiR9) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Spotify Singles](https://open.spotify.com/album/0NiTGXkQbHfTIoS0Uc7OQn) | 2:23 | 2021-09-14 | 2022-07-29 |
 | [Walking on Broken Glass \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1hI9ZhG2wlCbQKJnw3krPU) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Spotify Singles](https://open.spotify.com/album/3JheGJ15VzACtXQoYT8YPm) | 4:28 | 2021-09-14 |  |

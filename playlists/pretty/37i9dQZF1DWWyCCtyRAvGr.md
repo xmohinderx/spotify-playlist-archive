@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyCCtyRAvGr.md) - [plain]
 
 > A relaxing evening with a smooth glass never sounded so good\. Hit play and let the room fill with some of the classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,238 likes - 50 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,379 likes - 50 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyCCtyRAvGr.md) - [plain]
 | 47 | [Down Home Blues](https://open.spotify.com/track/5WGUe5K85GamXycXDoMT6l) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [The Right Time](https://open.spotify.com/album/1FIwDtSAdIyBCpBvNheudQ) | 4:36 |
 | 48 | [This Time I'm Gone For Good](https://open.spotify.com/track/2K0M6aAOj5dAMDnDu5VW18) | [Johnny Adams](https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk) | [Man Of My Word](https://open.spotify.com/album/4fVYzIe9KW1V53DdnYThd5) | 4:40 |
 | 49 | [One Scotch, One Bourbon, One Beer](https://open.spotify.com/track/0l33ve0XHG5XxKwMQPKcZk) | [Delbert McClinton](https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU) | [One Scotch, One Bourbon, One Beer](https://open.spotify.com/album/7uDIaa0VUbDhhEA4CkqNN6) | 3:12 |
-| 50 | [Go Easy](https://open.spotify.com/track/3owiWE0J2144puM4MB1lxK) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY), [Memphis Slim](https://open.spotify.com/artist/5g1Gv9riN5BH4WVnanO1Ia) | [Willie's Blues](https://open.spotify.com/album/3fuRLaRuxNjjBxZILt5ABV) | 5:54 |
+| 50 | [Reconsider Baby \- Remastered](https://open.spotify.com/track/5Avx6u0cFb5P0fL4qzijGC) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [The Best Of Freddie King: The Shelter Years](https://open.spotify.com/album/4gpyOtOO0Ws6zhvcp4ASMY) | 4:00 |
 
-Snapshot ID: `MTY2MzAwMDgwOSwwMDAwMDAwMGM3MTMxM2NiZDU1ZGZmMThmZjQxNDUxNTM1NjI5OGE4`
+Snapshot ID: `MTY2MzAwMDgwOSwwMDAwMDAwMGQ0ZDVmODUzMTFjODI2NzQ2ZDM0YzQ4NjAxZDZjNjM3`

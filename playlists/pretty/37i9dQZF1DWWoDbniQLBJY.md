@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWoDbniQLBJY.md) - [plain]
 
 > Pop Acústico para tu día.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,013,229 likes - 120 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,013,249 likes - 120 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

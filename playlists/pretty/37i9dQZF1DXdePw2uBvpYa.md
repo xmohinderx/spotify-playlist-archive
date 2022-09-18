@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdePw2uBvpYa.md) - [plain]
 
 > <a href="https://linktr.ee/PunkaBristol">Punka</a> creates a safe space for the alternative scene with their club night at the heart of Bristol’s LGBTQIA+ community.\. This is their sound of Pride\. Photography: Delirium and Proper Job Productions
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,937 likes - 52 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,940 likes - 52 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdePw2uBvpYa.md) - [plain]
 | 8 | [Rebel Girl](https://open.spotify.com/track/0XyjtybwqSdqMAFfBEkmZf) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [The Punk Singer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7DoTlKAupC8rNAdb0tNmZ2) | 2:37 |
 | 9 | [You Don't Own Me](https://open.spotify.com/track/4WQQca1mSDCLsBKdxV3sjh) | [Jack Killed Jill...](https://open.spotify.com/artist/0xJn4cHxwGEdg0bVjeb0Gj) | [Hello Neighbor](https://open.spotify.com/album/0Ycvf8skLYb73LQdZph9jb) | 2:32 |
 | 10 | [I Was Made for Lovin' You](https://open.spotify.com/track/0m0yp4DfZG8HI80byBbv3n) | [Queen of Japan](https://open.spotify.com/artist/1KgOUOeP1C4B0neabVHAwv) | [Headrush](https://open.spotify.com/album/0Tzw30NIDBVdrMjXmWl4EC) | 3:53 |
-| 11 | [Dancing with Myself \- Single Version](https://open.spotify.com/track/5ABwsrPHOZJTwYzOdd7huO) | [The Donnas](https://open.spotify.com/artist/2c0qomdZabcCyqTZ5M9msd) | [Dancing With Myself](https://open.spotify.com/album/2YAvjBR8meBp1k5CpaTINc) | 3:27 |
+| 11 | [Dancing with Myself \- Single Version](https://open.spotify.com/track/5ABwsrPHOZJTwYzOdd7huO) | [The Donnas](https://open.spotify.com/artist/2c0qomdZabcCyqTZ5M9msd) | [Dancing with Myself](https://open.spotify.com/album/2YAvjBR8meBp1k5CpaTINc) | 3:27 |
 | 12 | [I Bet You Look Good On The Dancefloor \- Arctic Babes Mix](https://open.spotify.com/track/64KpCQaeG2yGMkT3OFjfdY) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [Red Dress](https://open.spotify.com/album/3fu794gu0wGWPeU1Ls3Niq) | 2:47 |
 | 13 | [Four Letter Words](https://open.spotify.com/track/0F7plvzEr2eu5aHZwW3uE7) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Four Letter Words](https://open.spotify.com/album/3cezfDIOGBVAtXaEuG2L2n) | 2:27 |
 | 14 | [Bad Lieutenant](https://open.spotify.com/track/68xwEFbMGQ2yet7YiuA4Kg) | [Kate Nash](https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg) | [Bad Lieutenant](https://open.spotify.com/album/0D3F58REntXQ5apUoQimOV) | 3:17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 > the songs that we care about rn! Cover: Nessa Barrett
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,667,249 likes - 106 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,668,260 likes - 106 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

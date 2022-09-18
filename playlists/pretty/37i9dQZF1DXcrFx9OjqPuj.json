@@ -1,12 +1,12 @@
 {
   "description": "Get the party started with some upbeat party Jazz.",
-  "num_followers": 11466,
+  "num_followers": 11489,
   "original_name": "Party Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMzMzcwOSwwMDAwMDAwMDcxYzgyMGEyYTVhOTQ2MGI5ZjhlYjQ4ZTFjOGIzNTAz",
+  "snapshot_id": "MTY2MzMzMzcwOSwwMDAwMDAwMGNhZGMwODRhNmE1NThlNjMzYTEwZTA3NjgyMTRkYjRj",
   "tracks": [
     {
       "added_at": "2022-09-16 13:08:29",
@@ -195,6 +195,22 @@
     {
       "added_at": "2022-09-16 13:08:29",
       "album": {
+        "name": "Blue Train",
+        "url": "https://open.spotify.com/album/2Z11cXWEa2qqYQBGkJrCga"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 434624,
+      "name": "Locomotion",
+      "url": "https://open.spotify.com/track/4R8sx3JYPAEyOAwpOxnALk"
+    },
+    {
+      "added_at": "2022-09-16 13:08:29",
+      "album": {
         "name": "Afro-Cuban (Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/6sfAnBHbBbI8Z4NEDpXycZ"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 330120,
       "name": "Tariff - Rudy Van Gelder Edition/2006 Digital Remaster",
       "url": "https://open.spotify.com/track/3WJpTTRFQr46ZF2Td29bTj"
-    },
-    {
-      "added_at": "2022-09-16 13:08:29",
-      "album": {
-        "name": "Blue Train",
-        "url": "https://open.spotify.com/album/2Z11cXWEa2qqYQBGkJrCga"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 434624,
-      "name": "Locomotion",
-      "url": "https://open.spotify.com/track/4R8sx3JYPAEyOAwpOxnALk"
     },
     {
       "added_at": "2022-09-16 13:08:29",
@@ -279,6 +279,22 @@
     {
       "added_at": "2022-09-16 13:08:29",
       "album": {
+        "name": "Finger Poppin' (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/3buPlC7VvOytPdHoobl8on"
+      },
+      "artists": [
+        {
+          "name": "Horace Silver Quintet",
+          "url": "https://open.spotify.com/artist/4PNIQCDBeVCSSqKUhvkP8Y"
+        }
+      ],
+      "duration_ms": 294173,
+      "name": "Cookin' At The Continental - Rudy Van Gelder Edition / Remastered",
+      "url": "https://open.spotify.com/track/1DU2qdtCoFsonRs7UjHnWq"
+    },
+    {
+      "added_at": "2022-09-16 13:08:29",
+      "album": {
         "name": "Blues Walk",
         "url": "https://open.spotify.com/album/05dECqC2jTJKERNKAOykqk"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 332266,
       "name": "If This Isn't Love",
       "url": "https://open.spotify.com/track/4WrFf0DMuq3LbpOf20wkVP"
-    },
-    {
-      "added_at": "2022-09-16 13:08:29",
-      "album": {
-        "name": "Finger Poppin' (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/3buPlC7VvOytPdHoobl8on"
-      },
-      "artists": [
-        {
-          "name": "Horace Silver Quintet",
-          "url": "https://open.spotify.com/artist/4PNIQCDBeVCSSqKUhvkP8Y"
-        }
-      ],
-      "duration_ms": 294173,
-      "name": "Cookin' At The Continental - Rudy Van Gelder Edition / Remastered",
-      "url": "https://open.spotify.com/track/1DU2qdtCoFsonRs7UjHnWq"
     },
     {
       "added_at": "2022-09-16 13:08:29",
@@ -379,6 +379,22 @@
     {
       "added_at": "2022-09-16 13:08:29",
       "album": {
+        "name": "Jazz Impressions Of Japan",
+        "url": "https://open.spotify.com/album/7tOQ0wZyrxr2fqWTO6n8M7"
+      },
+      "artists": [
+        {
+          "name": "The Dave Brubeck Quartet",
+          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+        }
+      ],
+      "duration_ms": 128040,
+      "name": "Toki's Theme",
+      "url": "https://open.spotify.com/track/4Xlq6iQXgx3hLgyqavhWXx"
+    },
+    {
+      "added_at": "2022-09-16 13:08:29",
+      "album": {
         "name": "LD+3",
         "url": "https://open.spotify.com/album/7LI05bZ0W1MaDccphFQqzj"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 397160,
       "name": "Jump Up",
       "url": "https://open.spotify.com/track/2N4oRvZUu8RWkjdBjLQJKt"
-    },
-    {
-      "added_at": "2022-09-16 13:08:29",
-      "album": {
-        "name": "Jazz Impressions Of Japan",
-        "url": "https://open.spotify.com/album/7tOQ0wZyrxr2fqWTO6n8M7"
-      },
-      "artists": [
-        {
-          "name": "The Dave Brubeck Quartet",
-          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
-        }
-      ],
-      "duration_ms": 128040,
-      "name": "Toki's Theme",
-      "url": "https://open.spotify.com/track/4Xlq6iQXgx3hLgyqavhWXx"
     },
     {
       "added_at": "2022-09-16 13:08:29",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2022-09-16 13:08:29",
       "album": {
-        "name": "Sonic Boom",
-        "url": "https://open.spotify.com/album/4DMAjEeHrtO1OPmMy9FeND"
-      },
-      "artists": [
-        {
-          "name": "Lee Morgan",
-          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
-        }
-      ],
-      "duration_ms": 347133,
-      "name": "Sneaky Pete",
-      "url": "https://open.spotify.com/track/5Gd7CJ9wlg5fah94ZsXBWK"
-    },
-    {
-      "added_at": "2022-09-16 13:08:29",
-      "album": {
         "name": "The Natural Soul",
         "url": "https://open.spotify.com/album/4L5BnNOFyRefwj2BO0uoTY"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 327026,
       "name": "Nice 'N Greasy - Remastered 2003/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/33ozrtFTW9KSaujWpdALaR"
+    },
+    {
+      "added_at": "2022-09-16 13:08:29",
+      "album": {
+        "name": "Sonic Boom",
+        "url": "https://open.spotify.com/album/4DMAjEeHrtO1OPmMy9FeND"
+      },
+      "artists": [
+        {
+          "name": "Lee Morgan",
+          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+        }
+      ],
+      "duration_ms": 347133,
+      "name": "Sneaky Pete",
+      "url": "https://open.spotify.com/track/5Gd7CJ9wlg5fah94ZsXBWK"
     },
     {
       "added_at": "2022-09-16 13:08:29",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2022-09-16 13:08:29",
       "album": {
-        "name": "A Jazz Message",
-        "url": "https://open.spotify.com/album/1Dy0eNc7NiFFuuwrTpM0tA"
-      },
-      "artists": [
-        {
-          "name": "Art Blakey Quartet",
-          "url": "https://open.spotify.com/artist/6EE7tvzL6NGPZ4sUVOOaQy"
-        }
-      ],
-      "duration_ms": 306533,
-      "name": "The Song Is You",
-      "url": "https://open.spotify.com/track/4WfkGjSphCIt0bGUUqWdrX"
-    },
-    {
-      "added_at": "2022-09-16 13:08:29",
-      "album": {
         "name": "1963",
         "url": "https://open.spotify.com/album/5cAJIzjpg8LOLe7tHGeIKN"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 209373,
       "name": "Blues for J.P.",
       "url": "https://open.spotify.com/track/2nghi9VfQXW7uqBeTHuels"
+    },
+    {
+      "added_at": "2022-09-16 13:08:29",
+      "album": {
+        "name": "A Jazz Message",
+        "url": "https://open.spotify.com/album/1Dy0eNc7NiFFuuwrTpM0tA"
+      },
+      "artists": [
+        {
+          "name": "Art Blakey Quartet",
+          "url": "https://open.spotify.com/artist/6EE7tvzL6NGPZ4sUVOOaQy"
+        }
+      ],
+      "duration_ms": 306533,
+      "name": "The Song Is You",
+      "url": "https://open.spotify.com/track/4WfkGjSphCIt0bGUUqWdrX"
     },
     {
       "added_at": "2022-09-16 13:08:29",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2022-09-16 13:08:29",
       "album": {
-        "name": "Leapin' And Lopin'",
-        "url": "https://open.spotify.com/album/2akec72Ypln9yScfhHo8rm"
-      },
-      "artists": [
-        {
-          "name": "Sonny Clark",
-          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
-        }
-      ],
-      "duration_ms": 432580,
-      "name": "Midnight Mambo",
-      "url": "https://open.spotify.com/track/4Lp28xhDHUNvdcnfYf4Hhq"
-    },
-    {
-      "added_at": "2022-09-16 13:08:29",
-      "album": {
         "name": "Swing, Swang, Swingin'",
         "url": "https://open.spotify.com/album/6vOTWp8UJUq2R6qNDrhuCk"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 291533,
       "name": "Let's Face The Music And Dance - Remastered",
       "url": "https://open.spotify.com/track/0dtTW39z3xmjSo9JHBQuO9"
+    },
+    {
+      "added_at": "2022-09-16 13:08:29",
+      "album": {
+        "name": "Leapin' And Lopin'",
+        "url": "https://open.spotify.com/album/2akec72Ypln9yScfhHo8rm"
+      },
+      "artists": [
+        {
+          "name": "Sonny Clark",
+          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
+        }
+      ],
+      "duration_ms": 432580,
+      "name": "Midnight Mambo",
+      "url": "https://open.spotify.com/track/4Lp28xhDHUNvdcnfYf4Hhq"
     },
     {
       "added_at": "2022-09-16 13:08:29",
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2022-09-16 13:08:29",
       "album": {
-        "name": "Rollin' With Leo (Remastered)",
-        "url": "https://open.spotify.com/album/4iuVTKizRNoo1GqETTVHRH"
+        "name": "A.T.'s Delight (Remastered 2006 / Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/14KxFrOkUcLKGqP1BGF5KA"
       },
       "artists": [
         {
-          "name": "Leo Parker",
-          "url": "https://open.spotify.com/artist/5LQwJIY0TGUfJDS9vdpjmg"
+          "name": "Art Taylor",
+          "url": "https://open.spotify.com/artist/3CsHGnB9qK3KYH7xmyGAGX"
         }
       ],
-      "duration_ms": 275613,
-      "name": "Mad Lad Returns - Remastered",
-      "url": "https://open.spotify.com/track/6npb3822TbhzUHr6KJliBZ"
+      "duration_ms": 344013,
+      "name": "Move - Remastered 2006 / Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/2R7C1RjOxwXW7gI4QQPZEA"
     },
     {
       "added_at": "2022-09-16 13:08:29",
@@ -1423,18 +1423,50 @@
     {
       "added_at": "2022-09-16 13:08:29",
       "album": {
-        "name": "A.T.'s Delight (Remastered 2006 / Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/14KxFrOkUcLKGqP1BGF5KA"
+        "name": "Rollin' With Leo (Remastered)",
+        "url": "https://open.spotify.com/album/4iuVTKizRNoo1GqETTVHRH"
       },
       "artists": [
         {
-          "name": "Art Taylor",
-          "url": "https://open.spotify.com/artist/3CsHGnB9qK3KYH7xmyGAGX"
+          "name": "Leo Parker",
+          "url": "https://open.spotify.com/artist/5LQwJIY0TGUfJDS9vdpjmg"
         }
       ],
-      "duration_ms": 344013,
-      "name": "Move - Remastered 2006 / Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/2R7C1RjOxwXW7gI4QQPZEA"
+      "duration_ms": 275613,
+      "name": "Mad Lad Returns - Remastered",
+      "url": "https://open.spotify.com/track/6npb3822TbhzUHr6KJliBZ"
+    },
+    {
+      "added_at": "2022-09-16 13:08:29",
+      "album": {
+        "name": "Davis Cup",
+        "url": "https://open.spotify.com/album/144x6I5UimjJodk8XEUnej"
+      },
+      "artists": [
+        {
+          "name": "Walter Davis",
+          "url": "https://open.spotify.com/artist/2ky06Hu02htCYdnLZICpqY"
+        }
+      ],
+      "duration_ms": 308800,
+      "name": "'Smake It - Rudy Van Gelder/Digital Remaster/2007",
+      "url": "https://open.spotify.com/track/0cWMf4QrlmHYhxXUh8tTjD"
+    },
+    {
+      "added_at": "2022-09-16 13:08:29",
+      "album": {
+        "name": "Introducing Johnny Griffin (Rudy Van Gelder Edition / Remastered)",
+        "url": "https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd"
+      },
+      "artists": [
+        {
+          "name": "Johnny Griffin",
+          "url": "https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ"
+        }
+      ],
+      "duration_ms": 257866,
+      "name": "Cherokee - Remastered 2006/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/2Gxqa5tSywDIreRacsNPZB"
     },
     {
       "added_at": "2022-09-16 13:08:29",
@@ -1459,34 +1491,18 @@
     {
       "added_at": "2022-09-16 13:08:29",
       "album": {
-        "name": "Introducing Johnny Griffin (Rudy Van Gelder Edition / Remastered)",
-        "url": "https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd"
+        "name": "The Soul Of Ben Webster",
+        "url": "https://open.spotify.com/album/3txdl5NcBozMk4012vyel2"
       },
       "artists": [
         {
-          "name": "Johnny Griffin",
-          "url": "https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ"
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
         }
       ],
-      "duration_ms": 257866,
-      "name": "Cherokee - Remastered 2006/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/2Gxqa5tSywDIreRacsNPZB"
-    },
-    {
-      "added_at": "2022-09-16 13:08:29",
-      "album": {
-        "name": "Davis Cup",
-        "url": "https://open.spotify.com/album/144x6I5UimjJodk8XEUnej"
-      },
-      "artists": [
-        {
-          "name": "Walter Davis",
-          "url": "https://open.spotify.com/artist/2ky06Hu02htCYdnLZICpqY"
-        }
-      ],
-      "duration_ms": 308800,
-      "name": "'Smake It - Rudy Van Gelder/Digital Remaster/2007",
-      "url": "https://open.spotify.com/track/0cWMf4QrlmHYhxXUh8tTjD"
+      "duration_ms": 291600,
+      "name": "Blues For The Blues",
+      "url": "https://open.spotify.com/track/3sNHMM8crYF0BPL9GRPV8k"
     },
     {
       "added_at": "2022-09-16 13:08:29",
@@ -1503,22 +1519,6 @@
       "duration_ms": 410106,
       "name": "Lover Come Back To Me - Rudy Van Gelder Edition/Digital Remaster/2006",
       "url": "https://open.spotify.com/track/1J02pIG4SD4X2itRrSY43Y"
-    },
-    {
-      "added_at": "2022-09-16 13:08:29",
-      "album": {
-        "name": "The Soul Of Ben Webster",
-        "url": "https://open.spotify.com/album/3txdl5NcBozMk4012vyel2"
-      },
-      "artists": [
-        {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
-        }
-      ],
-      "duration_ms": 291600,
-      "name": "Blues For The Blues",
-      "url": "https://open.spotify.com/track/3sNHMM8crYF0BPL9GRPV8k"
     },
     {
       "added_at": "2022-09-16 13:08:29",

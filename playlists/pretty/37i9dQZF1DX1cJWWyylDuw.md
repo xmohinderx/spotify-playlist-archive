@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cJWWyylDuw.md) - [plain]
 
 > A collection of the best Deathcore tracks, mixing recent and fresh new tracks\. Cover: Suicide Silence
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,434 likes - 120 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,803 likes - 120 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

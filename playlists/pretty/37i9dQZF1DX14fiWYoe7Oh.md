@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14fiWYoe7Oh.md) - [plain]
 
 > The K\-Pop idols who started it all from 90's \- 10's\. \(90년대부터 2010년대까지 케이팝 아이돌 필수곡들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 374,274 likes - 137 songs - 8 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 374,351 likes - 137 songs - 8 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,14 +21,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14fiWYoe7Oh.md) - [plain]
 | 11 | [Dreams Come True](https://open.spotify.com/track/6whFRgwg7je2SYzpSfansM) | [S.E.S.](https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM) | [SHOO\. EUGENE\. SEA \- The 2nd Album](https://open.spotify.com/album/28tAVahvzLKAVZ6ewYUrvl) | 4:05 |
 | 12 | [T.O.P\. \(Twinkling Of Paradise\)](https://open.spotify.com/track/3b0Bt0CBAEesLLO0CifT5r) | [SHINHWA](https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0) | [T.O.P \- The 2nd Album](https://open.spotify.com/album/6pu3g3bwekMRa0QWQ7XGyG) | 4:41 |
 | 13 | [Twilight Zone](https://open.spotify.com/track/6jNlqfd6N7IUe0mEm0z8So) | [S.E.S.](https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM) | [LOVE \- The 3rd Album](https://open.spotify.com/album/0CCksGwhBwxJlwvpkjw7VR) | 3:46 |
-| 14 | [사랑해 그리고 기억해 Love You and Remember You](https://open.spotify.com/track/4ozA939dJl4dnAtwM8LObN) | [god](https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl) | [Chapter 2](https://open.spotify.com/album/08kxPGUoGQ4zn1bBTInvHA) | 4:22 |
+| 14 | [사랑해 그리고 기억해 Love You and Remember You](https://open.spotify.com/track/4ozA939dJl4dnAtwM8LObN) | [god](https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl) | [Chapter 2](https://open.spotify.com/album/08kxPGUoGQ4zn1bBTInvHA) | 4:22 |
 | 15 | [White](https://open.spotify.com/track/37Bv9wyQg01DjaMe4uj93a) | [Fin.K.L](https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS) | [Special](https://open.spotify.com/album/4X2WK3i0Gkxv42SedSbWoW) | 3:54 |
 | 16 | [YO! 악동보고서](https://open.spotify.com/track/2aS8459W3fVdMa2r8sRSd8) | [SHINHWA](https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0) | [T.O.P \- The 2nd Album](https://open.spotify.com/album/6pu3g3bwekMRa0QWQ7XGyG) | 3:56 |
 | 17 | [백전무패](https://open.spotify.com/track/1ul8G5Eam9xzVGnG11Ull9) | [Click\-B](https://open.spotify.com/artist/2kOGSFThgEzPEjL4fFB25w) | [Click\-B 3](https://open.spotify.com/album/59JEuiM9FKWpulCD9SzCqI) | 3:55 |
 | 18 | [CANDY](https://open.spotify.com/track/0K25zmumCzn2kFmh9zcLWy) | [H.O.T.](https://open.spotify.com/artist/5JrfgZAgqAMywJpLpJM0eS) | [We Hate All Kinds of Violence..\. \- The 1st Album](https://open.spotify.com/album/23Xh3YpgzRuJ2DAW5X7MsP) | 3:37 |
 | 19 | [Only One](https://open.spotify.com/track/5TnG4hgREznnqDYe9IYlZc) | [SHINHWA](https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0) | [Only One \- The 3rd Album](https://open.spotify.com/album/431ofqzymjNOtNAMLRJ92j) | 3:54 |
 | 20 | [1Tym](https://open.spotify.com/track/3LjJ0Hjqot5HDeL172lAcw) | [1TYM](https://open.spotify.com/artist/0P8IEJrM7oUTK4WwdMKsvS) | [One Time For Your Mind](https://open.spotify.com/album/2SVamLzGfpr4QCyCWjmXjT) | 3:30 |
-| 21 | [애수 Sorrow](https://open.spotify.com/track/3ZfzsuGzbBiyPCtUgIoZGU) | [god](https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl) | [Chapter 2](https://open.spotify.com/album/08kxPGUoGQ4zn1bBTInvHA) | 4:08 |
+| 21 | [애수 Sorrow](https://open.spotify.com/track/3ZfzsuGzbBiyPCtUgIoZGU) | [god](https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl) | [Chapter 2](https://open.spotify.com/album/08kxPGUoGQ4zn1bBTInvHA) | 4:08 |
 | 22 | [Blue Rain](https://open.spotify.com/track/6NZUXr27vdx8gyWxVRrkLS) | [Fin.K.L](https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS) | [Fine Killing Liberty : Blue Rain](https://open.spotify.com/album/7qYBfdhb8Lq4icwXhHoXoe) | 4:20 |
 | 23 | [\(′Cause\) I′m Your Girl](https://open.spotify.com/track/5I8mg57tDvhGGGC3x14mIZ) | [S.E.S.](https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM) | [S.E.S\. \- The 1st Album](https://open.spotify.com/album/795tqw58HZUK0Gro9GvneZ) | 3:45 |
 | 24 | [ID; Peace B](https://open.spotify.com/track/5rvP5mbQ48itt4dtosn9Yf) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [ID;Peace B \- The 1st Album](https://open.spotify.com/album/1cXbNduXaQp1NqV6EvgHFx) | 3:58 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14fiWYoe7Oh.md) - [plain]
 | 35 | [Just A Feeling \- Original Version](https://open.spotify.com/track/7BrWFGg6iIfSVDO7IVKAbN) | [S.E.S.](https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM) | [Choose My Life\-U \- The 5th Album](https://open.spotify.com/album/7apoRHFUdYNuaR5tRrOnPd) | 3:48 |
 | 36 | [너의 결혼식 Wedding](https://open.spotify.com/track/0bjz3D1sw6AoSGhhKzikbt) | [SHINHWA](https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0) | [Wedding \- The 6th Album](https://open.spotify.com/album/2z3PuFKRY0tH0XOIzZzfoF) | 3:26 |
 | 37 | [잊혀진 사랑](https://open.spotify.com/track/4EpwZakcikSrgDCqcLXAok) | [Click\-B](https://open.spotify.com/artist/2kOGSFThgEzPEjL4fFB25w) | [Click\-B 1st](https://open.spotify.com/album/1wD0a0lKZALago4fMCkoSA) | 4:01 |
-| 38 | [0%](https://open.spotify.com/track/643JzHUBRtTPVPmGatwe79) | [god](https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl) | [Chapter 5 Letter](https://open.spotify.com/album/79UR927jWowsz8ro7dtKzS) | 3:48 |
+| 38 | [0%](https://open.spotify.com/track/7uL1y6VIPolzDR18zJmeU7) | [god](https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl) | [Chapter 5](https://open.spotify.com/album/6xU3d2lMaYCFUMnerQvmVq) | 3:48 |
 | 39 | [환영문](https://open.spotify.com/track/0WI4YqBDb79uzP6w0wTYfP) | [Click\-B](https://open.spotify.com/artist/2kOGSFThgEzPEjL4fFB25w) | [Challenge](https://open.spotify.com/album/04DpX5uY7gpPlWoWbrU1iP) | 4:03 |
 | 40 | [달리기](https://open.spotify.com/track/6PxV0qSZZ4Wv4mtv4UcKWo) | [S.E.S.](https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM) | [Choose My Life\-U \- The 5th Album](https://open.spotify.com/album/7apoRHFUdYNuaR5tRrOnPd) | 3:33 |
 | 41 | [Get Up](https://open.spotify.com/track/5PmzpRLsWoWhgjpFZ6Hh9i) | [Baby V.O.X](https://open.spotify.com/artist/7H5LMtjHqkyH4U8dpLR4lo) | [Baby V.O.X Special Album](https://open.spotify.com/album/0SEOmCDuKkiXZR2v5jnmd9) | 2:12 |
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14fiWYoe7Oh.md) - [plain]
 | 47 | [Be Natural](https://open.spotify.com/track/33dU6vAuJLgSIDXcOPFKqf) | [S.E.S.](https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM) | [A letter from Greenland \- The 4th Album](https://open.spotify.com/album/3AGttGRtaYPhhm4IowdgYY) | 4:42 |
 | 48 | [Only One](https://open.spotify.com/track/3Hyl7YrOtBcnh1geON2kSO) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Only One \- The 7th Album](https://open.spotify.com/album/54xacjSt0jd9cELJc2j7UR) | 3:37 |
 | 49 | [Girls On Top](https://open.spotify.com/track/5AjjiajghftDZd5qO5YRCQ) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Girls On Top](https://open.spotify.com/album/67YeE0goB48IGXMrlv50D6) | 3:38 |
-| 50 | [Friday Night](https://open.spotify.com/track/6hl3GBSlDJbh5zBUhA3jVU) | [god](https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl) | [Chapter 2](https://open.spotify.com/album/08kxPGUoGQ4zn1bBTInvHA) | 3:35 |
+| 50 | [Friday Night](https://open.spotify.com/track/7uTLsCiOqNGDgz6TewUMrM) | [god](https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl) | [Chapter 2](https://open.spotify.com/album/0HxQ33W72bcEwuJgbMscvK) | 3:33 |
 | 51 | [Vision](https://open.spotify.com/track/0ijms7rWvEqB7TIIE3kCbG) | [Steve Yoo](https://open.spotify.com/artist/64mQUXcqmQCyywZEc7BtS9) | [Yoo Seung Jun Best Collection 1](https://open.spotify.com/album/1YFUnihiEAKXOrI3Aazrww) | 4:11 |
 | 52 | [Atlantis Princess](https://open.spotify.com/track/7sQaZvlFFqlBsObK8A3y0S) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Atlantis Princess \- The 3rd Album](https://open.spotify.com/album/3uDxYE7bWvaQH2oZpLzoRV) | 3:44 |
 | 53 | [반대가 끌리는 이유](https://open.spotify.com/track/7CZiB2IQO8Rfwc6EpoYRB5) | [god](https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl) | [보통날 An Ordinary Day](https://open.spotify.com/album/1mI5TmP9QFFdqql5rBi1As) | 4:14 |
@@ -146,4 +146,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14fiWYoe7Oh.md) - [plain]
 | 136 | [Be My Baby](https://open.spotify.com/track/4H3nLd4sDY2OBsugvJc0ql) | [Wonder Girls](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | [Wonder World](https://open.spotify.com/album/1vEiOIYInN3Y2LpvXTcEyK) | 3:31 |
 | 137 | [The Boys](https://open.spotify.com/track/0Me6SI6hgowLrZAKvtyVOg) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [The Boys](https://open.spotify.com/album/3RlHApvIdfDGHXNHgzMlCw) | 3:46 |
 
-Snapshot ID: `MTY1MDkxNjUyOCwwMDAwMDAwMDZmNjA0NGMyZjVjNTc1YzkyZDVhZDkwODIzZTMzODk1`
+Snapshot ID: `MTY1MDkxNjUyOCwwMDAwMDAwMDQ0OWVjODRmZWViNGE2YzY2NTUyMDIxNTVlYTQ4YTQ4`

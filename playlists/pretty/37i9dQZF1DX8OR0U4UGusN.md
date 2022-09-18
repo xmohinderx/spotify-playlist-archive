@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OR0U4UGusN.md) - [plain]
 
 > cool tunes for walking, driving, running, flying, etc
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,984 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,043 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OR0U4UGusN.md) - [plain]
 | 76 | [‎rubber ‎checks](https://open.spotify.com/track/2KiziPinruARpIvC05NTqJ) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎rubber ‎checks](https://open.spotify.com/album/48LwULIsLq3P716zccF09g) | 1:58 |
 | 77 | [PIE](https://open.spotify.com/track/0KcTD05hia7B7ZfzjFRndQ) | [Luke Wild](https://open.spotify.com/artist/1K39EPBZGfaTe2433SFmL8), [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [PIE](https://open.spotify.com/album/22fp7i3KzHaVtiEX0IkqKB) | 2:56 |
 | 78 | [Lars](https://open.spotify.com/track/5egLvHDg7F1x0bPxYEpfaG) | [Swansea Skag](https://open.spotify.com/artist/4MV1kXqC76IgYoOdBQdp3T) | [Lars](https://open.spotify.com/album/0ZgVxXY3lQ7FnalTqYgbUr) | 3:03 |
-| 79 | [Something To Say](https://open.spotify.com/track/77fHLp0kVNhaYOmqPqD6Oc) | [HOLOW](https://open.spotify.com/artist/0iFmnAL0wjQU7r07tV4J09) | [Something To Say](https://open.spotify.com/album/45oQW5lLEQHtJmKgaCWysv) | 3:36 |
-| 80 | [Esther](https://open.spotify.com/track/74K9eR3fwxau1Lt5ocy3tP) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Esther / Touch Me \(Hold My Hand\)](https://open.spotify.com/album/3w2eNXuWshQnWBI8wurPbJ) | 3:12 |
+| 79 | [Esther](https://open.spotify.com/track/74K9eR3fwxau1Lt5ocy3tP) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Esther / Touch Me \(Hold My Hand\)](https://open.spotify.com/album/3w2eNXuWshQnWBI8wurPbJ) | 3:12 |
+| 80 | [Something To Say](https://open.spotify.com/track/77fHLp0kVNhaYOmqPqD6Oc) | [HOLOW](https://open.spotify.com/artist/0iFmnAL0wjQU7r07tV4J09) | [Something To Say](https://open.spotify.com/album/45oQW5lLEQHtJmKgaCWysv) | 3:36 |
 | 81 | [Sincerity](https://open.spotify.com/track/0ssktAKaBJBaCOyBeYEFeW) | [Knox Fortune](https://open.spotify.com/artist/49O0SPoCoTiK2Nn2tOaHyU) | [Stock Child Wonder](https://open.spotify.com/album/3P6u0YQUVULgVFGFH07tgt) | 3:02 |
 | 82 | [Ba:sen \- Pool Party Dub Mix](https://open.spotify.com/track/2AK0dqael9a4phiB97QXO5) | [In Deep We Trust](https://open.spotify.com/artist/6aN17s6usWYhYEMQTamXLc) | [The Lost Grooves EP](https://open.spotify.com/album/1jrtTF8dMMvRiQXI9nn0El) | 5:49 |
 | 83 | [Modelo](https://open.spotify.com/track/0w9QFO4qIQd2Mik73UFFzS) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [Modelo](https://open.spotify.com/album/3xuuhHXA6iiKIbHOrM4GqD) | 2:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OR0U4UGusN.md) - [plain]
 | 99 | [Smoking Section](https://open.spotify.com/track/3YYSTOsem7yFoAU7QqeRkP) | [Stevedreez](https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE) | [Smoking Section](https://open.spotify.com/album/6Epl0VfGd5Ao5iZ0tR2wAK) | 3:48 |
 | 100 | [Ischia](https://open.spotify.com/track/4lzfwCNtSBGqRG5jl5Pp6K) | [Isola](https://open.spotify.com/artist/2K9NaV3uzFi6NAZCRHeZvh) | [EP1](https://open.spotify.com/album/46taxnLPMHr38wRSHJHxic) | 6:01 |
 
-Snapshot ID: `MTY2MTUyOTcxNSwwMDAwMDAwMDVlNDQ3NjEwYjNjODg0MDkzYTMyMjQ2NWQ1MmU2NzVk`
+Snapshot ID: `MTY2MTUyOTcxNSwwMDAwMDAwMDllMGI5OTc4NDAwODk5NzUxY2UwYTY2ZTNmMTQxOGEw`

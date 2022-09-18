@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22IRjV.md) - [plain]
 
 > This is FLOW\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,095 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,101 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,16 +20,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22IRjV.md) - [plain]
 | 10 | [GOLD](https://open.spotify.com/track/7DeZ5S6wvmsRUq8qVCj4le) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [GOLD](https://open.spotify.com/album/58Ehuw7hNz8w3dkj2RpQy4) | 3:35 |
 | 11 | [DAYS](https://open.spotify.com/track/49g1yJUzm4VbQUrKTIcQIa) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW THE BEST 〜Single Collection〜](https://open.spotify.com/album/0EWoUxWh0SqcK0jN6UTbFc) | 4:15 |
 | 12 | [虹の空](https://open.spotify.com/track/0KV8TzuV6OGspByLVpyYPS) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW THE BEST 〜アニメ縛り〜](https://open.spotify.com/album/1RfSdRNZ32MVoDVs0ZRchO) | 4:06 |
-| 13 | [United Sparrows](https://open.spotify.com/track/49KkIt4ilha2JSCkeUI0eR) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [United Sparrows](https://open.spotify.com/album/3eF5AwP5KQ7us5cHudHttS) | 3:39 |
-| 14 | [7\-seven\-](https://open.spotify.com/track/780QeWn8OYJXSqpNTgt5pY) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY), [GRANRODEO](https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc) | [FLOW ANIME BEST 極](https://open.spotify.com/album/44oxh50xgNjefTkN94ZXUG) | 4:18 |
-| 15 | [ブレイブルー](https://open.spotify.com/track/5C3yntMb2Qi5i61c7VUUC4) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW THE MAX !!!](https://open.spotify.com/album/1a2YLSyokgLs0QB6nnmk3A) | 4:06 |
-| 16 | [GO!!! 〜15th Anniversary ver.〜](https://open.spotify.com/track/0MqEHknhIF88dJmcT3AXrI) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [Fighting Dreamers](https://open.spotify.com/album/3zUIaK0fWvP24o9CVOCIvg) | 5:22 |
-| 17 | [Steppin' out](https://open.spotify.com/track/3B2sFt25j7ThJeJtsSaUw3) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [\#10](https://open.spotify.com/album/2ZuSfjDBbARj2PDZLfA9vW) | 4:12 |
-| 18 | [風ノ唄](https://open.spotify.com/track/5y8mKpDw0khxf6WMyJi14w) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW THE BEST 〜アニメ縛り〜](https://open.spotify.com/album/1RfSdRNZ32MVoDVs0ZRchO) | 4:20 |
+| 13 | [7\-seven\-](https://open.spotify.com/track/780QeWn8OYJXSqpNTgt5pY) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY), [GRANRODEO](https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc) | [FLOW ANIME BEST 極](https://open.spotify.com/album/44oxh50xgNjefTkN94ZXUG) | 4:18 |
+| 14 | [United Sparrows](https://open.spotify.com/track/49KkIt4ilha2JSCkeUI0eR) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [United Sparrows](https://open.spotify.com/album/3eF5AwP5KQ7us5cHudHttS) | 3:39 |
+| 15 | [GO!!! 〜15th Anniversary ver.〜](https://open.spotify.com/track/0MqEHknhIF88dJmcT3AXrI) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [Fighting Dreamers](https://open.spotify.com/album/3zUIaK0fWvP24o9CVOCIvg) | 5:22 |
+| 16 | [Steppin' out](https://open.spotify.com/track/3B2sFt25j7ThJeJtsSaUw3) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [\#10](https://open.spotify.com/album/2ZuSfjDBbARj2PDZLfA9vW) | 4:12 |
+| 17 | [風ノ唄](https://open.spotify.com/track/5y8mKpDw0khxf6WMyJi14w) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW THE BEST 〜アニメ縛り〜](https://open.spotify.com/album/1RfSdRNZ32MVoDVs0ZRchO) | 4:20 |
+| 18 | [ブレイブルー](https://open.spotify.com/track/5C3yntMb2Qi5i61c7VUUC4) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW THE MAX !!!](https://open.spotify.com/album/1a2YLSyokgLs0QB6nnmk3A) | 4:06 |
 | 19 | [1/3の純情な感情](https://open.spotify.com/track/3TCMnZY6XV6xNBDRzl7fdm) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW ANIME BEST](https://open.spotify.com/album/7GMKu72g0P38Zb4A3U80UA) | 3:53 |
 | 20 | [ブルーバード](https://open.spotify.com/track/5mdvXxeJTn71DzTtTyOfxQ) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY), [Diana Garnet](https://open.spotify.com/artist/3H7zTgVfGK3oXE0j33UatD) | [FLOW ANIME BEST 極](https://open.spotify.com/album/44oxh50xgNjefTkN94ZXUG) | 3:55 |
-| 21 | [DICE](https://open.spotify.com/track/1xm4MuXmiLz4KKKx5nqBHD) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [DICE](https://open.spotify.com/album/73xTnF27ekpsPFm42Zs2J1) | 4:25 |
-| 22 | [BURN](https://open.spotify.com/track/2gUYrbCQ3kbtPr6Xcte7IB) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW THE BEST 〜アニメ縛り〜](https://open.spotify.com/album/1RfSdRNZ32MVoDVs0ZRchO) | 4:04 |
+| 21 | [BURN](https://open.spotify.com/track/2gUYrbCQ3kbtPr6Xcte7IB) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW THE BEST 〜アニメ縛り〜](https://open.spotify.com/album/1RfSdRNZ32MVoDVs0ZRchO) | 4:04 |
+| 22 | [DICE](https://open.spotify.com/track/1xm4MuXmiLz4KKKx5nqBHD) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [DICE](https://open.spotify.com/album/73xTnF27ekpsPFm42Zs2J1) | 4:25 |
 | 23 | [燈](https://open.spotify.com/track/5U5ZUDFkEDbErnxGUISDI5) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [燈](https://open.spotify.com/album/61xd3iE3CxUoBoswb7xrZ5) | 3:52 |
 | 24 | [虹の空 \-Album Ver\-](https://open.spotify.com/track/2s6rDhIa7l0UKvZGMOkSNs) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [\#10](https://open.spotify.com/album/2ZuSfjDBbARj2PDZLfA9vW) | 4:44 |
 | 25 | [流星](https://open.spotify.com/track/1eTKBnh7Kczg3hggOcnf6v) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW THE BEST 〜Single Collection〜](https://open.spotify.com/album/0EWoUxWh0SqcK0jN6UTbFc) | 4:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22IRjV.md) - [plain]
 | 49 | [NIGHT PARADE](https://open.spotify.com/track/0z5V1ReQNK5Lkoz2ZADDHB) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY), [Home Made Kazoku](https://open.spotify.com/artist/2KnTQRef7hcVlK7vO9wPzI) | [Coupling Collection](https://open.spotify.com/album/3c4FIbzIYzS7BdKoOZOarx) | 4:56 |
 | 50 | [NOT ENOUGH \- feat\. FLOW](https://open.spotify.com/track/1nwJKZkhSmVQBq9qxEdgUT) | [BACK\-ON](https://open.spotify.com/artist/41wiRMqVmNSZ3FFM7JIeht), [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [NOT ENOUGH \(feat\. FLOW\)](https://open.spotify.com/album/32ft4dKQZ22vGyKGd2WWzh) | 3:22 |
 
-Snapshot ID: `Mjc3MjIyMzMsMDAwMDAwMDBmZDY3YTFmYjZkNWRmMzEyMjkxNjA5MDgzYTU4OGZmOA==`
+Snapshot ID: `Mjc3MjM2OTIsMDAwMDAwMDAwYmQwNTVlZDEyMTUyMDZjNWIwYzZjMWFjMGEwYzZjMg==`

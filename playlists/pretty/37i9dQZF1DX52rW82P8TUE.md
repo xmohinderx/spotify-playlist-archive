@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52rW82P8TUE.md) - [plain]
 
 > Músicas para dançar e louvar com os pequenos adoradores.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,819 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,872 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52rW82P8TUE.md) - [plain]
 | 19 | [Caminho no Deserto \- Versão Kids](https://open.spotify.com/track/1J1eBc6ECu1cZq7JslY4VG) | [Soraya Moraes](https://open.spotify.com/artist/0IPQAIkLxcVSsxlTPPn3Bp), [Kaiky Mello](https://open.spotify.com/artist/576aczLz6CXzj9E0WZ1EJw) | [Caminho no Deserto \(Versão Kids\)](https://open.spotify.com/album/34EQIvp5R1X7n4chgsK1PR) | 5:33 |
 | 20 | [Caminhando Vou Para Canaã](https://open.spotify.com/track/1gjyW1dkU6SfYlo6dwByJz) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Caminhando Vou Para Canaã](https://open.spotify.com/album/051Ck9PEoQhBlON1mnw0gN) | 2:17 |
 | 21 | [Pedro, Tiago e João no Barquinho](https://open.spotify.com/track/1180Pe0jjGNslftSXTrEKi) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia 2](https://open.spotify.com/album/58dham8BeNuWKBJJTbzenr) | 3:09 |
-| 22 | [Brilhando](https://open.spotify.com/track/6aMHKxUyAUsbVNJa8TbyuX) | [Cristina Mel](https://open.spotify.com/artist/0vKtp60PHfEnBSLJU9uHgP) | [Turminha da Cristina Mel \- Fazendo a Diferença](https://open.spotify.com/album/6T5y5A3YoPNXQsUu7OlAaX) | 3:08 |
-| 23 | [Rei Davi](https://open.spotify.com/track/4v1Yf5GPWOAgOk67CSU0dP) | [Mara Maravilha](https://open.spotify.com/artist/2vEZbLLAKRqzoiTR9aupGu) | [Reluz](https://open.spotify.com/album/4Oolk7dVn9F9EfQoomK1w8) | 3:46 |
+| 22 | [Rei Davi](https://open.spotify.com/track/4v1Yf5GPWOAgOk67CSU0dP) | [Mara Maravilha](https://open.spotify.com/artist/2vEZbLLAKRqzoiTR9aupGu) | [Reluz](https://open.spotify.com/album/4Oolk7dVn9F9EfQoomK1w8) | 3:46 |
+| 23 | [Brilhando](https://open.spotify.com/track/6aMHKxUyAUsbVNJa8TbyuX) | [Cristina Mel](https://open.spotify.com/artist/0vKtp60PHfEnBSLJU9uHgP) | [Turminha da Cristina Mel \- Fazendo a Diferença](https://open.spotify.com/album/6T5y5A3YoPNXQsUu7OlAaX) | 3:08 |
 | 24 | [Hit da Formiguinha](https://open.spotify.com/track/2jxOwM1YWNLdVtYKhHjY4r) | [Vaneyse](https://open.spotify.com/artist/3S1zrPd36u0KRCPF6HUAOl) | [Brincando de Escolinha](https://open.spotify.com/album/28QrtBn35MNZOGsNMjUrja) | 3:06 |
 | 25 | [A Bíblia](https://open.spotify.com/track/2MlMPbEM8qbDxsEBV6vkYw) | [Crianças Diante do Trono](https://open.spotify.com/artist/1DrV98ubDph1jAWq7ikcF5) | [Amigo de Deus](https://open.spotify.com/album/6Ks1nDyBm9wyusj94wCSox) | 5:29 |
 | 26 | [Erguei as Mãos](https://open.spotify.com/track/7GTVVZiren9LxoyNW4pATK) | [Mara Lima](https://open.spotify.com/artist/3r3fXHLRkaNVAuP7ckBJOV) | [Mara Lima e Seus Amiguinhos, Vol\. 5](https://open.spotify.com/album/5hCu7mordTwYqr2n2rW0LR) | 3:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52rW82P8TUE.md) - [plain]
 | 49 | [Festa das Cores](https://open.spotify.com/track/2OgjuP2rTKfweuPiZDORMw) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Festa das Cores](https://open.spotify.com/album/7y3if5oFUBEKP94vf2mCQW) | 3:26 |
 | 50 | [Sr\. Antônimo](https://open.spotify.com/track/1mExcbeOoQEh2ZRFTY705r) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [ImaginAline](https://open.spotify.com/album/4DpfGOe1QVwuIENUOhxgsa) | 4:36 |
 
-Snapshot ID: `MTY2MjA4NzYwMCwwMDAwMDAwMGNlODkxZWRhYTFhOTAxZmM4NjNhNmU0OTRhMTIyYmM2`
+Snapshot ID: `MTY2MjA4NzYwMCwwMDAwMDAwMDI1OTYyNDkyNmZhNjY3MWU2OTJmYTdiMWIxOGJiMGZm`

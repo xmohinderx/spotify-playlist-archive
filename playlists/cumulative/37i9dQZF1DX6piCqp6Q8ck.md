@@ -4,7 +4,7 @@
 
 > Uplifting and happy jazz christmas classics.
 
-80 songs - 4 hr 2 min - [published](https://open.spotify.com/playlist/4gY5NRqqcG0a90IfsPyzR2)
+82 songs - 4 hr 8 min - [published](https://open.spotify.com/playlist/4gY5NRqqcG0a90IfsPyzR2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Boogie Woogie Santa Claus](https://open.spotify.com/track/03MYXczT3SF2QYCdZYVUpJ) | [Lionel Hampton](https://open.spotify.com/artist/2PjgZkwAEk7UTin4jP6HLP), [Sonny Parker](https://open.spotify.com/artist/70RwoGWutTm2ztdpEBmwdv) | [Merry Christmas](https://open.spotify.com/album/4v2byuh7XMZGBrYjH3XnBx) | 2:42 | 2021-12-21 |  |
 | [Carol Of The Bells](https://open.spotify.com/track/5YmJtoST7bbcxCycpyw2yL) | [Dianne Reeves](https://open.spotify.com/artist/7nwrblOf59ulOiB6djwPVh) | [Christmas Time Is Here](https://open.spotify.com/album/2I3uMBceHIZ4NXGM2HMl3Y) | 3:57 | 2021-12-21 |  |
 | [Christmas Blues](https://open.spotify.com/track/55EWToZszoZA6QDRPSNjqq) | [Eric Reed](https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU) | [Yule Be Miserable](https://open.spotify.com/album/072uKkYkhEsK8Dv6BIDCGY) | 4:11 | 2021-12-21 |  |
-| [Christmas Is Coming](https://open.spotify.com/track/4YSSB7ZtqVnbsxybS5NHJC) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \[2012 Remastered & Expanded Edition\]](https://open.spotify.com/album/7DuJYWu66RPdcekF5TuZ7w) | 3:25 | 2021-12-21 |  |
+| [Christmas Is Coming](https://open.spotify.com/track/4YSSB7ZtqVnbsxybS5NHJC) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \[2012 Remastered & Expanded Edition\]](https://open.spotify.com/album/7DuJYWu66RPdcekF5TuZ7w) | 3:25 | 2021-12-21 | 2022-09-18 |
+| [Christmas Is Coming](https://open.spotify.com/track/69hH2X1SjculOZEOahrWQQ) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \[2012 Remastered & Expanded Edition\]](https://open.spotify.com/album/2XnNY3GEkbWHor5kyvXLu4) | 3:25 | 2022-09-16 |  |
 | [Christmas Never Gets Old](https://open.spotify.com/track/6o6DStpgZIzSyfpz0tRu8M) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [The Pianoman at Christmas](https://open.spotify.com/album/6vWS3FRodKtNLbH25ZbNt5) | 2:42 | 2021-12-21 | 2022-07-29 |
 | [Christmas Night In Harlem](https://open.spotify.com/track/332PGtU23efyGgyilfneG8) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [Christmas With Ella & Friends](https://open.spotify.com/album/0wEWuRUrwhSlDyqUZGgHqI) | 2:39 | 2021-12-21 | 2022-07-29 |
 | [Christmas Night In Harlem](https://open.spotify.com/track/1oE2ZJOWfLrKU8R18OzFrI) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [The Decca Singles 1949\-1958](https://open.spotify.com/album/4PF4AAZ8f5stId2e5dSkE1) | 2:42 | 2022-01-03 |  |
@@ -78,7 +79,8 @@
 | [Show Me The Magic](https://open.spotify.com/track/7CO9j3NbotOqtajfvM1ilQ) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Show Me The Magic](https://open.spotify.com/album/7gI7vQXmYWCl2QY7gc8VAq) | 2:30 | 2021-12-21 |  |
 | [Silent Night](https://open.spotify.com/track/0zn7ckz69IBdsYnMwiGGqF) | [Gabriel Latchin Trio](https://open.spotify.com/artist/79PWBQ4rekAQItLBfqIdzl) | [I'll Be Home for Christmas](https://open.spotify.com/album/2279rFm900f7XZRc1qKUmh) | 4:23 | 2021-12-21 |  |
 | [Silver Bells](https://open.spotify.com/track/1qUNMljTcCUraMU82IU7aN) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [The Classic Christmas Album](https://open.spotify.com/album/6Djk03kVAeEzGpFpLbA141) | 3:15 | 2021-12-21 |  |
-| [Skating](https://open.spotify.com/track/7hK9jnESeCfc5fIHH76jKh) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \[2012 Remastered & Expanded Edition\]](https://open.spotify.com/album/7DuJYWu66RPdcekF5TuZ7w) | 2:25 | 2021-12-21 |  |
+| [Skating](https://open.spotify.com/track/1rGZUPEI3iq6HYmI0V6a98) | [Vince Guaraldi](https://open.spotify.com/artist/7gXUrN8vgmVhKVCkw9pavV) | [The Definitive Vince Guaraldi](https://open.spotify.com/album/1sn69oro0vmwuAu1iwCu7d) | 2:24 | 2022-09-16 |  |
+| [Skating](https://open.spotify.com/track/7hK9jnESeCfc5fIHH76jKh) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \[2012 Remastered & Expanded Edition\]](https://open.spotify.com/album/7DuJYWu66RPdcekF5TuZ7w) | 2:25 | 2021-12-21 | 2022-09-18 |
 | [Sleigh Ride](https://open.spotify.com/track/4ukUoXLuFzMixyZyabSGc4) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) | 2:55 | 2021-12-21 |  |
 | [The Last Day of the Year](https://open.spotify.com/track/7IDmQ3XLrh6y3oauET1dWp) | [Peter Asplund](https://open.spotify.com/artist/3gCWfv5obnwNI5vF6PTAwz), [Margareta Bengtson](https://open.spotify.com/artist/1JCdbZOcdCzEP77XJoj3Ov) | [The Christmas Feeling](https://open.spotify.com/album/2PAGkZAGKuOT3SWqoLwNLx) | 5:05 | 2021-12-21 |  |
 | [The Man with the Bag \(Remastered 2022\)](https://open.spotify.com/track/6H6562sDE7h9pT2ARFjWoA) | [Kay Starr](https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i) | [Essential Classics, Vol\. 28: Kay Starr \(Remastered 2022\)](https://open.spotify.com/album/4Qk2j61UJwACEcfRGqemFX) | 2:42 | 2022-01-03 | 2022-08-29 |

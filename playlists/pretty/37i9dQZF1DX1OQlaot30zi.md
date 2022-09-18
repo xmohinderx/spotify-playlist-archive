@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Night Skinny, Rkomi, Paky, Lazza, Ghali etc\. etc\. etc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,409 likes - 74 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,430 likes - 74 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

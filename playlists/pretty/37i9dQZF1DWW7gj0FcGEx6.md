@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 
 > The latest, greatest soundtracks from the big and small screen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,503 likes - 102 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,605 likes - 102 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 10 | [Preparing The Trap](https://open.spotify.com/track/729porTW6i1cZ53nrNJmpN) | [Michael Abels](https://open.spotify.com/artist/7lDkWxhwIuRAIzmHf85yKx) | [Nope \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0YD6YdZrQtTDjOFc9g3x8z) | 2:40 |
 | 11 | [Vengeance](https://open.spotify.com/track/2hj1c8CjQZVhz2xXp2FQ1a) | [Finneas O'Connell](https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96) | [Vengeance](https://open.spotify.com/album/5VG8Za7HUfIlafQMYIDYf4) | 3:19 |
 | 12 | [Moon Knight](https://open.spotify.com/track/65ICJM6KqFWou1ntTAv0Qk) | [Hesham Nazih](https://open.spotify.com/artist/5ZAbcf5tK5uteBz62g4boT) | [Moon Knight \(Original Soundtrack\)](https://open.spotify.com/album/3z9OjeKSTG1OtElUq3OGv8) | 2:10 |
-| 13 | [She\-Hulk: Attorney at Law \- From "She\-Hulk: Attorney at Law"](https://open.spotify.com/track/2k2qC3o7QLhVzJXi8DxJ2t) | [Amie Doherty](https://open.spotify.com/artist/093nXwEUtY8TBTtZb9IVrf), [Marvel](https://open.spotify.com/artist/3JKb5kVdAbFREFnHtwhBKa) | [She\-Hulk: Attorney at Law](https://open.spotify.com/album/5JEi65NMKgJYr0To6e2Qq9) | 2:25 |
+| 13 | [She\-Hulk: Attorney at Law \- From "She\-Hulk: Attorney at Law"](https://open.spotify.com/track/2k2qC3o7QLhVzJXi8DxJ2t) | [Amie Doherty](https://open.spotify.com/artist/093nXwEUtY8TBTtZb9IVrf) | [She\-Hulk: Attorney at Law](https://open.spotify.com/album/5JEi65NMKgJYr0To6e2Qq9) | 2:25 |
 | 14 | [Video Games \- from "Westworld: Season 4"](https://open.spotify.com/track/4WbSUuY31KdjUOmnmANNUi) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Westworld: Season 4 \(Soundtrack from the HBO® Series\)](https://open.spotify.com/album/3EfF0Ull4AIq98w5Em5XMa) | 3:52 |
 | 15 | [oxygen \- from "Exception" Soundtrack](https://open.spotify.com/track/5WV0YyXkC4UoPObkLdTPb0) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Opening for "Exception" / oxygen \[from "Exception" Soundtrack\]](https://open.spotify.com/album/4n6KyU61hys0riXmvIQMYs) | 3:48 |
 | 16 | [Clothes From Miss Mabel \- From The Motion Picture “Where The Crawdads Sing”](https://open.spotify.com/track/0rfaeL0QdlX5xMUjlPVTeD) | [Mychael Danna](https://open.spotify.com/artist/0x8J72N9ilqcIZbWEKB8T2) | [Where The Crawdads Sing \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2lQ5wsZNHhqbj3yZJ9wzD0) | 1:38 |

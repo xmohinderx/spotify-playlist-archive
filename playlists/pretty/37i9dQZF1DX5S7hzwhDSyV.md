@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5S7hzwhDSyV.md) - [plain]
 
 > The best instrumental versions of the american songbook classics\. Cover: Stan Getz
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,654 likes - 125 songs - 11 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,764 likes - 125 songs - 11 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5S7hzwhDSyV.md) - [plain]
 | 36 | [A Foggy Day](https://open.spotify.com/track/2bjHr0GlbW6wIpxcxpZLHV) | [Red Garland Trio](https://open.spotify.com/artist/3XYnsz11kFrkx8F3upvnE5) | [A Garland Of Red](https://open.spotify.com/album/0B0bQQoqyrMqbelYvcbVEs) | 4:47 |
 | 37 | [Polka Dots And Moonbeams](https://open.spotify.com/track/3mciMzCg5pWvadcQxIwi0q) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Moon Beams](https://open.spotify.com/album/6BF1FJIGXf9wj4FKbDIaH1) | 4:59 |
 | 38 | [I Fall In Love Too Easily](https://open.spotify.com/track/32YZWXNhOd70F19BZSU73w) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Seven Steps To Heaven \(Expanded Edition\)](https://open.spotify.com/album/5ufqOq0QvMNnlexELRazNO) | 6:43 |
-| 39 | [How High The Moon](https://open.spotify.com/track/1qagJUT7uzS8eAkDJmO8QG) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet \(Keepnews Collection\)](https://open.spotify.com/album/1MlU3WEMLbxw9d4B08AptQ) | 3:38 |
-| 40 | [There Is No Greater Love](https://open.spotify.com/track/372QbYnp7oUWhRCplHNlUN) | [Gene Ammons](https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK), [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj) | [Boss Tenors: Straight Ahead From Chicago August 1961](https://open.spotify.com/album/3roiMTcjRTDTqyDTc29Pjv) | 6:34 |
+| 39 | [There Is No Greater Love](https://open.spotify.com/track/372QbYnp7oUWhRCplHNlUN) | [Gene Ammons](https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK), [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj) | [Boss Tenors: Straight Ahead From Chicago August 1961](https://open.spotify.com/album/3roiMTcjRTDTqyDTc29Pjv) | 6:34 |
+| 40 | [How High The Moon](https://open.spotify.com/track/1qagJUT7uzS8eAkDJmO8QG) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet \(Keepnews Collection\)](https://open.spotify.com/album/1MlU3WEMLbxw9d4B08AptQ) | 3:38 |
 | 41 | [Night And Day](https://open.spotify.com/track/6pxtYyPZ0bRGknKlughfXL) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Stan Getz & Bill Evans](https://open.spotify.com/album/5hDoJAJdkIETlQajUu71hQ) | 6:45 |
 | 42 | [Easy Living](https://open.spotify.com/track/5yiImOvhyoK3QXUHVWcUUl) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO) | [Memorial Album \(Remastered / Rudy Van Gelder Edition\)](https://open.spotify.com/album/5ZhKPGumfjqX8mz0lql2QZ) | 3:44 |
 | 43 | [We'll Be Together Again](https://open.spotify.com/track/46jzREqksE0h6wmTKw3WFD) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Nights Of Ballads & Blues](https://open.spotify.com/album/0GEUbCMMKRDFr7j0xxHZba) | 3:40 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5S7hzwhDSyV.md) - [plain]
 | 124 | [You Are Too Beautiful](https://open.spotify.com/track/0ncaOYFsDJ7X0HaVOESL2v) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k) | [You And Lee](https://open.spotify.com/album/4zOW1zEMnDd4mH6Gs8dpFr) | 4:09 |
 | 125 | [The Night Has a Thousand Eyes](https://open.spotify.com/track/5rVVbOL9bl2RmAh9aNqPp8) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Coltrane's Sound](https://open.spotify.com/album/2h8x8HL7N3grURq1OM77ja) | 6:51 |
 
-Snapshot ID: `MTY2MTg2OTk2NSwwMDAwMDAwMDMwYjY5MmZlNGE5NGUyZGMwYzI3YmNhYzMzOWYzNTVk`
+Snapshot ID: `MTY2MTg2OTk2NSwwMDAwMDAwMDMwZWE2ZjhiYzkwNWQzNzkwMjkzYjZjNzNjODRjOTY1`

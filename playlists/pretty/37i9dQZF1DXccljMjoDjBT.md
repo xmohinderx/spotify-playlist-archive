@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccljMjoDjBT.md) - [plain]
 
 > The best soft rock from the 1980s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,388 likes - 100 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,637 likes - 100 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccljMjoDjBT.md) - [plain]
 | 54 | [Toy Soldiers](https://open.spotify.com/track/4jh9olf0OKCokpzxSyLeJx) | [Martika](https://open.spotify.com/artist/40enFxfEXXsEXKOt1vgx0k) | [Martika \(Expanded Edition\)](https://open.spotify.com/album/2qoLTSXxsdiHpuoPWrpJiy) | 4:47 |
 | 55 | [The Heart Of The Matter](https://open.spotify.com/track/7jZ4UZAmg006Qx3rVuF7JI) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [The End Of The Innocence](https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl) | 5:22 |
 | 56 | [Sara](https://open.spotify.com/track/0HzjKCZmFhwcO2vnnHpj9q) | [Starship](https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf) | [Knee Deep In The Hoopla](https://open.spotify.com/album/0YCraVqAWvJHiBYP2AXgV6) | 4:52 |
-| 57 | [Endless Summer Nights](https://open.spotify.com/track/2iXH35MhsqO5Ry8a7iptpJ) | [Richard Marx](https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6) | [Richard Marx](https://open.spotify.com/album/3C2cO3wo4f2bLzOpFypgmZ) | 4:30 |
-| 58 | [Big Log \- 2006 Remaster](https://open.spotify.com/track/7257drAN3eTtaaUUPw95B3) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y) | [The Principle of Moments](https://open.spotify.com/album/7GwY9afibQt4oUfsOucXpl) | 5:04 |
-| 59 | [When the Children Cry](https://open.spotify.com/track/4ZCLM74MYhUy80TPiaAuee) | [White Lion](https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG) | [Pride](https://open.spotify.com/album/571UdIx8tcDmBPgLSW8KG2) | 4:18 |
+| 57 | [When the Children Cry](https://open.spotify.com/track/4ZCLM74MYhUy80TPiaAuee) | [White Lion](https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG) | [Pride](https://open.spotify.com/album/571UdIx8tcDmBPgLSW8KG2) | 4:18 |
+| 58 | [Endless Summer Nights](https://open.spotify.com/track/2iXH35MhsqO5Ry8a7iptpJ) | [Richard Marx](https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6) | [Richard Marx](https://open.spotify.com/album/3C2cO3wo4f2bLzOpFypgmZ) | 4:30 |
+| 59 | [Big Log \- 2006 Remaster](https://open.spotify.com/track/7257drAN3eTtaaUUPw95B3) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y) | [The Principle of Moments](https://open.spotify.com/album/7GwY9afibQt4oUfsOucXpl) | 5:04 |
 | 60 | [Wrapped Around Your Finger](https://open.spotify.com/track/400ZJAUFuEuIGXhr7ie4xf) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \(Remastered 2003\)](https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY) | 5:13 |
 | 61 | [Lonely Is the Night](https://open.spotify.com/track/6gAhuDvn8Ef6P710UMze9W) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [Hearts In Motion](https://open.spotify.com/album/5aH4HCsNua1doApLj5cb8J) | 4:09 |
 | 62 | [New York Minute](https://open.spotify.com/track/2jxqu3v4AZAhUNvdAbDGet) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [The End Of The Innocence](https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl) | 6:35 |
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccljMjoDjBT.md) - [plain]
 | 85 | [Sister Christian](https://open.spotify.com/track/6LoSKNsYkRQbyuiReooMjG) | [Night Ranger](https://open.spotify.com/artist/1Ha0Fz4i0d4gu5fZbhBCtH) | [Boogie Nights / Music From The Original Motion Picture](https://open.spotify.com/album/4HUntZg0YV0qCvRxmIhq2U) | 5:00 |
 | 86 | [Love Song](https://open.spotify.com/track/73jxc8OqPUqXEzsRnCgw8M) | [Tesla](https://open.spotify.com/artist/0dgnITyIAN4NrmUVisvxHU) | [Time's Makin' Changes: The Best Of Tesla](https://open.spotify.com/album/2FJ0CYfIvogvi1gV6dH8Gl) | 5:21 |
 | 87 | [In the Mood \- 2006 Remaster](https://open.spotify.com/track/1fOrdq5lDitklPno27DeHV) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y) | [The Principle of Moments](https://open.spotify.com/album/7GwY9afibQt4oUfsOucXpl) | 5:22 |
-| 88 | [In Too Deep \- 2007 Remaster](https://open.spotify.com/track/4P0uyibZjcXZLVeNOHBd8Q) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [Invisible Touch](https://open.spotify.com/album/632b0oXuFpstA4DO2cUKdG) | 5:02 |
+| 88 | [Throwing It All Away \- 2007 Remaster](https://open.spotify.com/track/1dMilrhgON9TIGPVdWG2dX) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [Invisible Touch](https://open.spotify.com/album/632b0oXuFpstA4DO2cUKdG) | 3:49 |
 | 89 | [Brothers in Arms](https://open.spotify.com/track/26tWBbtjvgi0tipRL2VQ2X) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Brothers in Arms](https://open.spotify.com/album/7jvcSnCnugLcisBCNBm60s) | 6:59 |
 | 90 | [The Last Worthless Evening](https://open.spotify.com/track/5xFXOthzXYku3MvAlc5EKg) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [The End Of The Innocence](https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl) | 6:02 |
 | 91 | [Arc Of A Diver](https://open.spotify.com/track/4kOKnL62lB0g5Zt3fOveT3) | [Steve Winwood](https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte) | [Arc Of A Diver \(Deluxe Edition\)](https://open.spotify.com/album/3kpetl4t4Ew1m2NrnsjYhx) | 5:25 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccljMjoDjBT.md) - [plain]
 | 94 | [Silent Running](https://open.spotify.com/track/4ae0AmiDt3o18FvSmQOOYc) | [Mike & The Mechanics](https://open.spotify.com/artist/2yTUYhIf8fxptTIy3KLuJD) | [Mike + The Mechanics](https://open.spotify.com/album/7pXUIU9n8JXEbQS95sodGr) | 6:13 |
 | 95 | [Your Latest Trick](https://open.spotify.com/track/4UK1g9Z1lWedkmIQuSyCe5) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Brothers in Arms](https://open.spotify.com/album/7jvcSnCnugLcisBCNBm60s) | 6:33 |
 | 96 | [Here Today \- Remixed 2015](https://open.spotify.com/track/0QtnwXDziZN1K55fXuLN6q) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Tug Of War](https://open.spotify.com/album/5g5wxDWLoyR1wyPjGTiD7n) | 2:28 |
-| 97 | [Throwing It All Away \- 2007 Remaster](https://open.spotify.com/track/1dMilrhgON9TIGPVdWG2dX) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [Invisible Touch](https://open.spotify.com/album/632b0oXuFpstA4DO2cUKdG) | 3:49 |
+| 97 | [In Too Deep \- 2007 Remaster](https://open.spotify.com/track/4P0uyibZjcXZLVeNOHBd8Q) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [Invisible Touch](https://open.spotify.com/album/632b0oXuFpstA4DO2cUKdG) | 5:02 |
 | 98 | [Danger List](https://open.spotify.com/track/45Ux5epL4Z3biyzUDDtA9N) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH) | [American Fool](https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0) | 4:29 |
 | 99 | [Don't Want To Wait Anymore](https://open.spotify.com/track/5rJTpBaGWvTaszsNDpAsG5) | [The Tubes](https://open.spotify.com/artist/7zfhej6FnVXN9LIXs6dcoK) | [The Completion Backward Principle](https://open.spotify.com/album/3YVb9ns1i0WdzF1cdnLYWi) | 4:18 |
 | 100 | [Belfast Child \- Remastered 2002](https://open.spotify.com/track/0guW4g1Z0gJjkKxkIy7VR7) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [Street Fighting Years](https://open.spotify.com/album/5mBLEMXwzctnXP2ZhPMNvX) | 6:42 |
 
-Snapshot ID: `MTY1NzAzNjAyNSwwMDAwMDAwMDY4OTBiMTkyYjFhMDgzZDQzY2ExODQxNDBhM2E3OWVh`
+Snapshot ID: `MTY1NzAzNjAyNSwwMDAwMDAwMGFjN2M2NDhjOTNhYmYwZTI1MWUzZjEwM2FlNzJlMmU1`

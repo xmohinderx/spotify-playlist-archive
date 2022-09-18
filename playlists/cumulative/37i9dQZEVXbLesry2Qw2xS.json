@@ -229,7 +229,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 253586,
       "name": "505",
       "url": "https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS"
@@ -1011,7 +1011,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 290146,
       "name": "Apocalypse",
       "url": "https://open.spotify.com/track/3AVrVz5rK8Hrqo9YGiVGN5"
@@ -6966,6 +6966,24 @@
     },
     {
       "album": {
+        "name": "Hotel",
+        "url": "https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197333,
+      "name": "Hotel",
+      "url": "https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi"
+    },
+    {
+      "album": {
         "name": "Death of a Bachelor",
         "url": "https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj"
       },
@@ -7321,7 +7339,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 241066,
       "name": "I Was Never There",
       "url": "https://open.spotify.com/track/1cKHdTo9u0ZymJdPGSh6nq"
@@ -8489,7 +8507,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 250084,
       "name": "koptereid",
       "url": "https://open.spotify.com/track/4QWbJNAWatPr3j065e3N7H"
@@ -13107,10 +13125,28 @@
       ],
       "date_added": "2022-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 186964,
       "name": "Pink Venom",
       "url": "https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj"
+    },
+    {
+      "album": {
+        "name": "BORN PINK",
+        "url": "https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186964,
+      "name": "Pink Venom",
+      "url": "https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY"
     },
     {
       "album": {
@@ -13231,6 +13267,24 @@
       "duration_ms": 187333,
       "name": "Pope Is a Rockstar",
       "url": "https://open.spotify.com/track/0So2sgVa8aJiARPl2P29u2"
+    },
+    {
+      "album": {
+        "name": "POPSTAR",
+        "url": "https://open.spotify.com/album/2Y9lJG0FcfA7FRFWVOWQdE"
+      },
+      "artists": [
+        {
+          "name": "INSTASAMKA",
+          "url": "https://open.spotify.com/artist/2SeRP5iAIhVec4azKHJzjX"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138036,
+      "name": "POPSTAR",
+      "url": "https://open.spotify.com/track/2uNrriUaePhbbmsXT8HQJU"
     },
     {
       "album": {
@@ -13627,7 +13681,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 169245,
       "name": "RAVE",
       "url": "https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL"
@@ -14841,6 +14895,24 @@
       "duration_ms": 172675,
       "name": "SHUM",
       "url": "https://open.spotify.com/track/7mEDVrAHDnQJStDo8jKJJm"
+    },
+    {
+      "album": {
+        "name": "BORN PINK",
+        "url": "https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175889,
+      "name": "Shut Down",
+      "url": "https://open.spotify.com/track/7gRFDGEzF9UkBV233yv2dc"
     },
     {
       "album": {
@@ -17129,7 +17201,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-17",
+      "date_removed": null,
       "duration_ms": 267946,
       "name": "Turn On The Lights again.. (feat. Future)",
       "url": "https://open.spotify.com/track/3pBpX15YF0hdlRz2ddfSh2"
@@ -17217,6 +17289,24 @@
       "duration_ms": 224747,
       "name": "Two Moons",
       "url": "https://open.spotify.com/track/5GxUKIEkMXXZo1Tif0IzfC"
+    },
+    {
+      "album": {
+        "name": "BORN PINK",
+        "url": "https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179172,
+      "name": "Typa Girl",
+      "url": "https://open.spotify.com/track/0L8LOav65XwLjCLS11gNPD"
     },
     {
       "album": {
@@ -18117,7 +18207,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-18",
       "duration_ms": 148197,
       "name": "Where Are You Now",
       "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
@@ -18797,7 +18887,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-06",
+      "date_removed": null,
       "duration_ms": 162508,
       "name": "Zim Zimma",
       "url": "https://open.spotify.com/track/2cbkgGRldr8q7XEryBMFCZ"

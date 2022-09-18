@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29E6gJ.md) - [plain]
 
 > This is Los Alegres De Teran\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,944 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,947 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29E6gJ.md) - [plain]
 | 31 | [Corrido De Felipe Angeles](https://open.spotify.com/track/04WwCNKM6hbBAc9IJ5d01f) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Corridos Villistas Con Los Alegres De Terán](https://open.spotify.com/album/3dehFGTHz2s4e17HNEgiK3) | 4:30 |
 | 32 | [Nocturno a Rosario](https://open.spotify.com/track/5P9KFF9UpaPmA49QJO7huL) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Norteñas de Oro](https://open.spotify.com/album/1PNXf5gl2iFS6ZN3ssNY95) | 2:57 |
 | 33 | [La Tumba de Villa](https://open.spotify.com/track/5HitQXXbYmjUZwQraMjV1n) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Las 100 Clasicas De Los Alegres De Teran Vol\. 2](https://open.spotify.com/album/4eLLJs0uZVko6pwncshyfj) | 4:05 |
-| 34 | [Cuatro Milpas](https://open.spotify.com/track/2GapsLaCJN57fkVBmQiJ3P) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Nostalgia Norteña](https://open.spotify.com/album/30ONqsYPJeKz3lMs1PjeLu) | 3:04 |
-| 35 | [Ingrato Amor](https://open.spotify.com/track/5t65uwfgs6ZYzdP3gGuIj7) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [El Disco de Oro](https://open.spotify.com/album/2pzAQ1soE41kyiDbtEZCck) | 2:44 |
+| 34 | [Ingrato Amor](https://open.spotify.com/track/5t65uwfgs6ZYzdP3gGuIj7) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [El Disco de Oro](https://open.spotify.com/album/2pzAQ1soE41kyiDbtEZCck) | 2:44 |
+| 35 | [Cuatro Milpas](https://open.spotify.com/track/2GapsLaCJN57fkVBmQiJ3P) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Nostalgia Norteña](https://open.spotify.com/album/30ONqsYPJeKz3lMs1PjeLu) | 3:04 |
 | 36 | [Cuando Salgo A Los Campos](https://open.spotify.com/track/0u0N27nvxh5ClF4sMgYMpV) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Frente a Frente Los Alegres de Terán vs Los Invasores de Nuevo León](https://open.spotify.com/album/4Vnb9izUKk4ee79qfydeyf) | 2:31 |
 | 37 | [Entre Copa y Copa](https://open.spotify.com/track/6uvGgaWZ66OiLqFxZDokGq) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Homenaje Norteño A Felipe Valdes Leal Con](https://open.spotify.com/album/0ZJcupskEdoVbyQqCaU4rp) | 2:43 |
 | 38 | [Mariano Resendez](https://open.spotify.com/track/0DV9ErAz39HdALK77p7Pib) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Historias Del Siglo XX En 20 Corridos](https://open.spotify.com/album/5ps2KefGtIVYRk3OtdoM2a) | 3:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29E6gJ.md) - [plain]
 | 49 | [Pedro Rivas](https://open.spotify.com/track/1zMbNKIz7tvmLQqq39j79q) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Corridos Famosos](https://open.spotify.com/album/5pwxkJ7SsCvzHZ4SLPPRxu) | 3:20 |
 | 50 | [Mi Unico Camino](https://open.spotify.com/track/4LWoe4xNQ8DcI1ky9fr0yR) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Las 100 Clasicas De Los Alegres De Teran Vol\. 2](https://open.spotify.com/album/4eLLJs0uZVko6pwncshyfj) | 2:36 |
 
-Snapshot ID: `Mjc3MjIyMzMsMDAwMDAwMDAwYjYyYzU4NDRhNGU5YmI5YjNmYzgzYTk0NmM2N2VlNA==`
+Snapshot ID: `Mjc3MjM2OTIsMDAwMDAwMDBiMDhlNTIwZDFkM2NiZmJkOTg2ZmMxYTM2ZDA0NDVkOA==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 
 > Release The Bats! Cover: Siouxsie and the Banshees
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,863 likes - 80 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 451,380 likes - 80 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

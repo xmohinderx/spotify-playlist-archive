@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 
 > When the dance floor calls your name, that's amore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,487 likes - 75 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,638 likes - 75 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 | 68 | [The Night \- Original Remastered Version 2020](https://open.spotify.com/track/4IKfk28YxL7xHOflgt3tr4) | [Valerie Dore](https://open.spotify.com/artist/6IwjxNTPn0EMh4U855D3qs) | [The Night \(Original Remastered Version 2020\)](https://open.spotify.com/album/1Pf3wvHZSx6L3PTjEQNsZc) | 6:16 |
 | 69 | [Body to Body](https://open.spotify.com/track/75nh9TRQMQubdiK82BYdwL) | [Gepy & Gepy](https://open.spotify.com/artist/09FocFgY6iQKkQB91QPK5o) | [Italian Dance](https://open.spotify.com/album/64cl4El2FwAO60rDuUxg33) | 3:12 |
 | 70 | [Kalimba de luna](https://open.spotify.com/track/1GhgNF88EQEhpGpBApiZfc) | [Tony Esposito](https://open.spotify.com/artist/2E236rsxSkaqZfJpv57gYF) | [The Sound of Tony Esposito](https://open.spotify.com/album/3xaaztf2ZXiBbjETpSTEQC) | 5:13 |
-| 71 | [Baila Bolero \- Marc Hartman Remix](https://open.spotify.com/track/35FPjkNAkXdp8cXgh6gBfH) | [Fun Fun](https://open.spotify.com/artist/44NpcgfV0tBVBVNzmtUBhZ), [Marc Hartman](https://open.spotify.com/artist/2ACJgAEcjpSAqR2TyGluyS) | [Baila Bolero \(Marc Hartman Remix\)](https://open.spotify.com/album/0xC161DAv1bnh3s2zYTFo4) | 5:00 |
-| 72 | [Mirage](https://open.spotify.com/track/0M2A5PBGMk0x0M2lrCZGsO) | [Scotch](https://open.spotify.com/artist/7ECGnAVeg7U3WRPMjpJa9n) | [Pictures Old Days \(Deluxe Edition\)](https://open.spotify.com/album/0jkXKoPmkFNE1mmRfvVpMt) | 3:57 |
+| 71 | [Mirage](https://open.spotify.com/track/0M2A5PBGMk0x0M2lrCZGsO) | [Scotch](https://open.spotify.com/artist/7ECGnAVeg7U3WRPMjpJa9n) | [Pictures Old Days \(Deluxe Edition\)](https://open.spotify.com/album/0jkXKoPmkFNE1mmRfvVpMt) | 3:57 |
+| 72 | [Baila Bolero \- Marc Hartman Remix](https://open.spotify.com/track/35FPjkNAkXdp8cXgh6gBfH) | [Fun Fun](https://open.spotify.com/artist/44NpcgfV0tBVBVNzmtUBhZ), [Marc Hartman](https://open.spotify.com/artist/2ACJgAEcjpSAqR2TyGluyS) | [Baila Bolero \(Marc Hartman Remix\)](https://open.spotify.com/album/0xC161DAv1bnh3s2zYTFo4) | 5:00 |
 | 73 | [Baby I Love You](https://open.spotify.com/track/0GpbUTVkLhMb200mH8WBOW) | [Easy Going](https://open.spotify.com/artist/3t1n3uomLdEAVdSc5WkVf1) | [Baby I Love You \(Original\) \- Single](https://open.spotify.com/album/7LZpZKT1adV23tV8AJe44U) | 8:23 |
 | 74 | [Jamin'](https://open.spotify.com/track/74nFLqYUx40Y2v0ZtFQHI8) | [Babys Gang](https://open.spotify.com/artist/3py6y6epZngSnsCHnCwQ7O) | [Challenger](https://open.spotify.com/album/6EnJDtzIBJPRrlk0bn4QT1) | 5:57 |
 | 75 | [Orient Express \- Vocal](https://open.spotify.com/track/75Qt3OvjyUmOtEO3TpX7qV) | [Wish Key](https://open.spotify.com/artist/2FVL8TfGpXyDdKYOU7NVCl) | [Orient Express](https://open.spotify.com/album/0fz94X7NiOSSzopMiynnVv) | 7:08 |
 
-Snapshot ID: `MTY2MjY3NDQ2MCwwMDAwMDAwMDNmYWJjN2Y4NGVmNTYwNTYwNTdkNWNmZjNmMzM3ZDE0`
+Snapshot ID: `MTY2MjY3NDQ2MCwwMDAwMDAwMGYwMmE2Nzk4MDkwNWE4YTlmZjNmOWFjYzIxNDVlM2I1`

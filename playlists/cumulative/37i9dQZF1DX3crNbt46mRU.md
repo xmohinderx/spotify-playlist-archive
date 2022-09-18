@@ -4,7 +4,7 @@
 
 > This week's top new releases\. Cover: AnnenMayKantereit
 
-3,272 songs - 6 day 23 hr 50 min - [published](https://open.spotify.com/playlist/5A5TXDJmpvx3pBIQ0045Lh)
+3,273 songs - 6 day 23 hr 53 min - [published](https://open.spotify.com/playlist/5A5TXDJmpvx3pBIQ0045Lh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -748,7 +748,8 @@
 | [Die Leute und Ich](https://open.spotify.com/track/1N4jZBw8xfPiaS01zmv20B) | [Betterov](https://open.spotify.com/artist/2LTDsDjf02umXildBzlrKZ) | [Die Leute und Ich](https://open.spotify.com/album/5aIlCoug4W0aEiFcV45xzi) | 3:09 | 2022-09-15 |  |
 | [Die schönsten Tage](https://open.spotify.com/track/5h6yetX656MwIB1jAuAEjI) | [SDP](https://open.spotify.com/artist/1EfwyuCzDQpCslZc8C9gkG), [Clueso](https://open.spotify.com/artist/0iFq8SzyZaaQ2Fn6CLDxqW) | [Die schönsten Tage](https://open.spotify.com/album/2A2PgVMoLdaGuFfcyMUMn2) | 3:17 | 2022-04-28 | 2022-05-06 |
 | [Die Young \(feat\. 347aidan\)](https://open.spotify.com/track/6EbVuwU7EnKeF2hdpViXCH) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [Die Young \(feat\. 347aidan\)](https://open.spotify.com/album/33C2Ujqsq5tFa93LtafTHN) | 2:28 | 2022-05-26 | 2022-06-03 |
-| [Diese Nacht](https://open.spotify.com/track/2wrB2jRPTd1wujQlWWnJ0r) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Zorn & Liebe](https://open.spotify.com/album/5seerIZ96Tknor62ygW3on) | 2:34 | 2022-09-15 |  |
+| [Diese Nacht](https://open.spotify.com/track/2wrB2jRPTd1wujQlWWnJ0r) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Zorn & Liebe](https://open.spotify.com/album/5seerIZ96Tknor62ygW3on) | 2:34 | 2022-09-15 | 2022-09-18 |
+| [Diese Nacht](https://open.spotify.com/track/6CWr033ZS8JwfKfhuMavWp) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Zorn & Liebe](https://open.spotify.com/album/6p84H53CGnoPvszkjRWllB) | 2:34 | 2022-09-16 |  |
 | [Dieses Leben...](https://open.spotify.com/track/0HkUMcZ3HQTLZiAQzUHrEI) | [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0) | [Dieses Leben...](https://open.spotify.com/album/2AJfLOSy2DXe0gyvaKqYZL) | 2:43 | 2022-09-15 |  |
 | [Diet Coke](https://open.spotify.com/track/3BMG9dnjNymT1OGUXQTAXl) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [Diet Coke](https://open.spotify.com/album/6AmzYhYXSHDndclYdVsKeF) | 2:59 | 2022-02-11 | 2022-02-18 |
 | [Dig Deeper](https://open.spotify.com/track/7ALqTaJWjJikduXEp8GUU4) | [Hearts Hearts](https://open.spotify.com/artist/5kRhbeMGVzAciRwnQzyesH) | [Dig Deeper](https://open.spotify.com/album/1PR2FqSPqOQz2bMb4H2hia) | 3:20 | 2022-06-16 | 2022-06-24 |

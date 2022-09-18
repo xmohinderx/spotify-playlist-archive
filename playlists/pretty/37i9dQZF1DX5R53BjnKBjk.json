@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o de novos artistas da cena brasileira que voc\u00ea precisa conhecer.  Foto: Camaleoa Arte: Isu Kim",
-  "num_followers": 11787,
+  "num_followers": 11806,
   "original_name": "Fresh Finds Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMGRlNDc1MDRkYTc0MWRjN2MyYzc3YWVhNTkxOWVmODgz",
+  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMDE3NzZlMmE2ODkxMzZhNzFiNzExYWQ4ODBkMmM4ZjA1",
   "tracks": [
     {
       "added_at": "2022-09-16 04:00:00",
@@ -147,26 +147,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Good Times",
-        "url": "https://open.spotify.com/album/40YG2w0Yxz0hJBCaA8dvAv"
-      },
-      "artists": [
-        {
-          "name": "ogoin",
-          "url": "https://open.spotify.com/artist/31lFbAIACVCAY9J0JoLbCy"
-        },
-        {
-          "name": "Linguini",
-          "url": "https://open.spotify.com/artist/3VNJeULanp6BoL1MOConoz"
-        }
-      ],
-      "duration_ms": 147310,
-      "name": "Good Times",
-      "url": "https://open.spotify.com/track/4QBMTlSCdodYRQqsYPBJtZ"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Chuva de Ver\u00e3o",
         "url": "https://open.spotify.com/album/5l29R0Ztm14OgLi7BCJi1U"
       },
@@ -183,6 +163,26 @@
       "duration_ms": 180158,
       "name": "Chuva de Ver\u00e3o",
       "url": "https://open.spotify.com/track/6HEfROuxbeZxDYPQsDrNng"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Good Times",
+        "url": "https://open.spotify.com/album/40YG2w0Yxz0hJBCaA8dvAv"
+      },
+      "artists": [
+        {
+          "name": "ogoin",
+          "url": "https://open.spotify.com/artist/31lFbAIACVCAY9J0JoLbCy"
+        },
+        {
+          "name": "Linguini",
+          "url": "https://open.spotify.com/artist/3VNJeULanp6BoL1MOConoz"
+        }
+      ],
+      "duration_ms": 147310,
+      "name": "Good Times",
+      "url": "https://open.spotify.com/track/4QBMTlSCdodYRQqsYPBJtZ"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -299,22 +299,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Da Vida",
-        "url": "https://open.spotify.com/album/4ySNj63Ce3q3TFm3B9DwQb"
+        "name": "meu bem, meu bem",
+        "url": "https://open.spotify.com/album/6E8StuG2GIkZBncqpUTZAU"
       },
       "artists": [
         {
-          "name": "M\u00e1rcio Lug\u00f3",
-          "url": "https://open.spotify.com/artist/4dp2Ihu4Jlv9RzcfV5P9JM"
-        },
-        {
-          "name": "Hugo Branquinho",
-          "url": "https://open.spotify.com/artist/1G7RC4anhU2mNCDNV0l8rs"
+          "name": "Lizandra",
+          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
         }
       ],
-      "duration_ms": 180680,
-      "name": "Da Vida",
-      "url": "https://open.spotify.com/track/7fgr78dwmw3FpXVtfeWLn6"
+      "duration_ms": 168562,
+      "name": "meu bem, meu bem",
+      "url": "https://open.spotify.com/track/6jwoPMGaE3r81hkj9MK2Vh"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -335,34 +331,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "meu bem, meu bem",
-        "url": "https://open.spotify.com/album/6E8StuG2GIkZBncqpUTZAU"
+        "name": "Da Vida",
+        "url": "https://open.spotify.com/album/4ySNj63Ce3q3TFm3B9DwQb"
       },
       "artists": [
         {
-          "name": "Lizandra",
-          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
-        }
-      ],
-      "duration_ms": 168562,
-      "name": "meu bem, meu bem",
-      "url": "https://open.spotify.com/track/6jwoPMGaE3r81hkj9MK2Vh"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "KIKADAUM",
-        "url": "https://open.spotify.com/album/56ZeH3Mh7cfCh7kG1ysyzQ"
-      },
-      "artists": [
+          "name": "M\u00e1rcio Lug\u00f3",
+          "url": "https://open.spotify.com/artist/4dp2Ihu4Jlv9RzcfV5P9JM"
+        },
         {
-          "name": "J\u00falia Rezende",
-          "url": "https://open.spotify.com/artist/4ROjaB2Qac8zgm7PAdI4hE"
+          "name": "Hugo Branquinho",
+          "url": "https://open.spotify.com/artist/1G7RC4anhU2mNCDNV0l8rs"
         }
       ],
-      "duration_ms": 175778,
-      "name": "KIKADAUM",
-      "url": "https://open.spotify.com/track/04aZsWuQFUxRRY0hp4T3Kd"
+      "duration_ms": 180680,
+      "name": "Da Vida",
+      "url": "https://open.spotify.com/track/7fgr78dwmw3FpXVtfeWLn6"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -379,6 +363,22 @@
       "duration_ms": 208264,
       "name": "Caramelo",
       "url": "https://open.spotify.com/track/2C1duqQzynu2lqUlAncWH7"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "KIKADAUM",
+        "url": "https://open.spotify.com/album/56ZeH3Mh7cfCh7kG1ysyzQ"
+      },
+      "artists": [
+        {
+          "name": "J\u00falia Rezende",
+          "url": "https://open.spotify.com/artist/4ROjaB2Qac8zgm7PAdI4hE"
+        }
+      ],
+      "duration_ms": 175778,
+      "name": "KIKADAUM",
+      "url": "https://open.spotify.com/track/04aZsWuQFUxRRY0hp4T3Kd"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -403,6 +403,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "Secos e Molhados",
+        "url": "https://open.spotify.com/album/6vjaUebAivNAnI242kJIIj"
+      },
+      "artists": [
+        {
+          "name": "UTOPIXXXTA",
+          "url": "https://open.spotify.com/artist/1NsBWj4SN51iyKbOfzRnu5"
+        }
+      ],
+      "duration_ms": 168440,
+      "name": "Secos e Molhados",
+      "url": "https://open.spotify.com/track/0GMhjwdwL5MHQGH6xErzQL"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "Desejos de um Le\u00e3o",
         "url": "https://open.spotify.com/album/6dV9NQKeqBQbhhx1Z5xRp2"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 193950,
       "name": "Desejos de um Le\u00e3o",
       "url": "https://open.spotify.com/track/2iMyTW8yaGvIEl5ntwv76U"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Secos e Molhados",
-        "url": "https://open.spotify.com/album/6vjaUebAivNAnI242kJIIj"
-      },
-      "artists": [
-        {
-          "name": "UTOPIXXXTA",
-          "url": "https://open.spotify.com/artist/1NsBWj4SN51iyKbOfzRnu5"
-        }
-      ],
-      "duration_ms": 168440,
-      "name": "Secos e Molhados",
-      "url": "https://open.spotify.com/track/0GMhjwdwL5MHQGH6xErzQL"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -491,18 +491,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Giovanna",
-        "url": "https://open.spotify.com/album/0j047tgn9GKLgqf5NjTkHZ"
+        "name": "Troca de Car\u00edcias",
+        "url": "https://open.spotify.com/album/7pVNPGWjpePZYkL0cYeklZ"
       },
       "artists": [
         {
-          "name": "Giovanna",
-          "url": "https://open.spotify.com/artist/4osnH08CXtOVX57JrBDePA"
+          "name": "UTOPIXXXTA",
+          "url": "https://open.spotify.com/artist/1NsBWj4SN51iyKbOfzRnu5"
         }
       ],
-      "duration_ms": 148695,
-      "name": "Sem No\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/7gKmkQ6duGD1k32MW9TgeA"
+      "duration_ms": 164650,
+      "name": "Troca de Car\u00edcias",
+      "url": "https://open.spotify.com/track/5w7X04lpO9KZRIm9cUDg7F"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -523,50 +523,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Troca de Car\u00edcias",
-        "url": "https://open.spotify.com/album/7pVNPGWjpePZYkL0cYeklZ"
+        "name": "Giovanna",
+        "url": "https://open.spotify.com/album/0j047tgn9GKLgqf5NjTkHZ"
       },
       "artists": [
         {
-          "name": "UTOPIXXXTA",
-          "url": "https://open.spotify.com/artist/1NsBWj4SN51iyKbOfzRnu5"
+          "name": "Giovanna",
+          "url": "https://open.spotify.com/artist/4osnH08CXtOVX57JrBDePA"
         }
       ],
-      "duration_ms": 164650,
-      "name": "Troca de Car\u00edcias",
-      "url": "https://open.spotify.com/track/5w7X04lpO9KZRIm9cUDg7F"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Cicatriz",
-        "url": "https://open.spotify.com/album/0ZMZ8WEHiQqMIPn54NcN9c"
-      },
-      "artists": [
-        {
-          "name": "Tati Maia",
-          "url": "https://open.spotify.com/artist/6KWmGqgoAnvZWMze4SARxm"
-        }
-      ],
-      "duration_ms": 147413,
-      "name": "Cicatriz",
-      "url": "https://open.spotify.com/track/2fKEkuAZv5euCGdol11xgL"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "<del>",
-        "url": "https://open.spotify.com/album/3OGKnoDXG51ErKpxp8K80D"
-      },
-      "artists": [
-        {
-          "name": "DeLuca",
-          "url": "https://open.spotify.com/artist/64Pq2n0zi2MAdGSPmwq1bG"
-        }
-      ],
-      "duration_ms": 114081,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/45m3FACOkyhoxR0mVHwWfD"
+      "duration_ms": 148695,
+      "name": "Sem No\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/7gKmkQ6duGD1k32MW9TgeA"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -603,6 +571,38 @@
       "duration_ms": 191425,
       "name": "Prazer, Eu sou...",
       "url": "https://open.spotify.com/track/6tCC3PrYMoCj2znusZwEel"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Cicatriz",
+        "url": "https://open.spotify.com/album/0ZMZ8WEHiQqMIPn54NcN9c"
+      },
+      "artists": [
+        {
+          "name": "Tati Maia",
+          "url": "https://open.spotify.com/artist/6KWmGqgoAnvZWMze4SARxm"
+        }
+      ],
+      "duration_ms": 147413,
+      "name": "Cicatriz",
+      "url": "https://open.spotify.com/track/2fKEkuAZv5euCGdol11xgL"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "<del>",
+        "url": "https://open.spotify.com/album/3OGKnoDXG51ErKpxp8K80D"
+      },
+      "artists": [
+        {
+          "name": "DeLuca",
+          "url": "https://open.spotify.com/artist/64Pq2n0zi2MAdGSPmwq1bG"
+        }
+      ],
+      "duration_ms": 114081,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/45m3FACOkyhoxR0mVHwWfD"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -647,6 +647,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "Toda Vez Que Tu Sorri",
+        "url": "https://open.spotify.com/album/3VRVFkzukbFap8CCzW21dd"
+      },
+      "artists": [
+        {
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+        }
+      ],
+      "duration_ms": 165214,
+      "name": "Toda Vez Que Tu Sorri",
+      "url": "https://open.spotify.com/track/1HL93ZEvMOgdVpyKEzJgCu"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "Muito Al\u00e9m",
         "url": "https://open.spotify.com/album/79oYYVtlbJwuOnYAToJqcp"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 194848,
       "name": "Muito Al\u00e9m",
       "url": "https://open.spotify.com/track/33Ph1S0NLdwMmL02fqaYbo"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Toda Vez Que Tu Sorri",
-        "url": "https://open.spotify.com/album/3VRVFkzukbFap8CCzW21dd"
-      },
-      "artists": [
-        {
-          "name": "Doral",
-          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
-        }
-      ],
-      "duration_ms": 165214,
-      "name": "Toda Vez Que Tu Sorri",
-      "url": "https://open.spotify.com/track/1HL93ZEvMOgdVpyKEzJgCu"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "AUGE",
-        "url": "https://open.spotify.com/album/5YCOF4fgoJiuqX4rWapYAJ"
-      },
-      "artists": [
-        {
-          "name": "ALLIRA",
-          "url": "https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS"
-        }
-      ],
-      "duration_ms": 194782,
-      "name": "Meu Foco",
-      "url": "https://open.spotify.com/track/7zqP95UI5KJ23hay7tbKLI"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "O Fim do Mundo",
         "url": "https://open.spotify.com/album/0divz8MH1pM0Bl0Yc0MXqs"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 169388,
       "name": "O Fim do Mundo",
       "url": "https://open.spotify.com/track/1dAALJDlnurBapUJxCGPWQ"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "AUGE",
+        "url": "https://open.spotify.com/album/5YCOF4fgoJiuqX4rWapYAJ"
+      },
+      "artists": [
+        {
+          "name": "ALLIRA",
+          "url": "https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS"
+        }
+      ],
+      "duration_ms": 194782,
+      "name": "Meu Foco",
+      "url": "https://open.spotify.com/track/7zqP95UI5KJ23hay7tbKLI"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Tain\u00e1 Cigana",
-        "url": "https://open.spotify.com/album/2XAESJPXbjbN1R6rvz33m2"
-      },
-      "artists": [
-        {
-          "name": "Thales Cavalcanti",
-          "url": "https://open.spotify.com/artist/5xmOIkCACTIFL0bWHcQYVx"
-        }
-      ],
-      "duration_ms": 209765,
-      "name": "Tain\u00e1 Cigana",
-      "url": "https://open.spotify.com/track/1DRZSRWT8dosHTI14vVp4b"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Boemia, de Fato",
         "url": "https://open.spotify.com/album/6u6IGXmGZNngMOA4zxrrmd"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 176000,
       "name": "Amor de Mar",
       "url": "https://open.spotify.com/track/0cOXBqb6bsKwyL9Edj8Yww"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Tain\u00e1 Cigana",
+        "url": "https://open.spotify.com/album/2XAESJPXbjbN1R6rvz33m2"
+      },
+      "artists": [
+        {
+          "name": "Thales Cavalcanti",
+          "url": "https://open.spotify.com/artist/5xmOIkCACTIFL0bWHcQYVx"
+        }
+      ],
+      "duration_ms": 209765,
+      "name": "Tain\u00e1 Cigana",
+      "url": "https://open.spotify.com/track/1DRZSRWT8dosHTI14vVp4b"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "faking it",
-        "url": "https://open.spotify.com/album/6jrsAhgiUnsXTVxYeHpSLN"
-      },
-      "artists": [
-        {
-          "name": "Gab Ferreira",
-          "url": "https://open.spotify.com/artist/70DRYhcYN1cmMFUjDLf9FU"
-        }
-      ],
-      "duration_ms": 151939,
-      "name": "faking it",
-      "url": "https://open.spotify.com/track/4Kk5FikZ0xNUhXm3s5MTZH"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Tempero",
         "url": "https://open.spotify.com/album/0DHNsUcFFnOd9Zz12mSNNZ"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 192030,
       "name": "Tempero",
       "url": "https://open.spotify.com/track/0vNbioi4jKWXBgLKbKvL0I"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "faking it",
+        "url": "https://open.spotify.com/album/6jrsAhgiUnsXTVxYeHpSLN"
+      },
+      "artists": [
+        {
+          "name": "Gab Ferreira",
+          "url": "https://open.spotify.com/artist/70DRYhcYN1cmMFUjDLf9FU"
+        }
+      ],
+      "duration_ms": 151939,
+      "name": "faking it",
+      "url": "https://open.spotify.com/track/4Kk5FikZ0xNUhXm3s5MTZH"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "Trancado",
+        "url": "https://open.spotify.com/album/5WxxhBMJXa3xDCtzI86sAf"
+      },
+      "artists": [
+        {
+          "name": "TOLENTINO",
+          "url": "https://open.spotify.com/artist/3PMuzPH1ybLdzHnZFumKLZ"
+        }
+      ],
+      "duration_ms": 176938,
+      "name": "Trancado",
+      "url": "https://open.spotify.com/track/3O4FZv6i5sQvsGj4qfD50W"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "Pra Clarear",
         "url": "https://open.spotify.com/album/4bwxYx09p4pJEUmaDXal2d"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 197237,
       "name": "Pra Clarear",
       "url": "https://open.spotify.com/track/25ebro8NKryaVqrOlc1g6y"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Trancado",
-        "url": "https://open.spotify.com/album/5WxxhBMJXa3xDCtzI86sAf"
-      },
-      "artists": [
-        {
-          "name": "TOLENTINO",
-          "url": "https://open.spotify.com/artist/3PMuzPH1ybLdzHnZFumKLZ"
-        }
-      ],
-      "duration_ms": 176938,
-      "name": "Trancado",
-      "url": "https://open.spotify.com/track/3O4FZv6i5sQvsGj4qfD50W"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1143,6 +1143,26 @@
       "duration_ms": 162406,
       "name": "Ida\u00ed",
       "url": "https://open.spotify.com/track/2eB3z0UXLOc9pK6VP9lNZI"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Te Decorei",
+        "url": "https://open.spotify.com/album/5M0hr8TN3mFgzXmELh4fWr"
+      },
+      "artists": [
+        {
+          "name": "Yani",
+          "url": "https://open.spotify.com/artist/52uc9JDit4hH4BO8ycoQFF"
+        },
+        {
+          "name": "JOK3R",
+          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
+        }
+      ],
+      "duration_ms": 166363,
+      "name": "Te Decorei",
+      "url": "https://open.spotify.com/track/0mC2afYA8l4T2aDX90WOhe"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1199,42 +1219,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Pensei em Esquecer o Amanh\u00e3",
-        "url": "https://open.spotify.com/album/5r3Kde6oZpr8Pz3EJdAtJv"
-      },
-      "artists": [
-        {
-          "name": "Ana Morais",
-          "url": "https://open.spotify.com/artist/7h2iWQdQSLt2BzbdKFSUg6"
-        }
-      ],
-      "duration_ms": 105263,
-      "name": "Longe Daqui",
-      "url": "https://open.spotify.com/track/2dLB3PppSIb8Q1FeAEfCW6"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Te Decorei",
-        "url": "https://open.spotify.com/album/5M0hr8TN3mFgzXmELh4fWr"
-      },
-      "artists": [
-        {
-          "name": "Yani",
-          "url": "https://open.spotify.com/artist/52uc9JDit4hH4BO8ycoQFF"
-        },
-        {
-          "name": "JOK3R",
-          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
-        }
-      ],
-      "duration_ms": 166363,
-      "name": "Te Decorei",
-      "url": "https://open.spotify.com/track/0mC2afYA8l4T2aDX90WOhe"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "PSEUDODRAMA",
         "url": "https://open.spotify.com/album/6M2btYgSEXpV6a8YbqI6zJ"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 146605,
       "name": "T\u00e1 Subindo",
       "url": "https://open.spotify.com/track/4UUpgJ1TP5IvcYU6YYzJBF"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Pensei em Esquecer o Amanh\u00e3",
+        "url": "https://open.spotify.com/album/5r3Kde6oZpr8Pz3EJdAtJv"
+      },
+      "artists": [
+        {
+          "name": "Ana Morais",
+          "url": "https://open.spotify.com/artist/7h2iWQdQSLt2BzbdKFSUg6"
+        }
+      ],
+      "duration_ms": 105263,
+      "name": "Longe Daqui",
+      "url": "https://open.spotify.com/track/2dLB3PppSIb8Q1FeAEfCW6"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Mozamba",
-        "url": "https://open.spotify.com/album/1Bowmic2a700xN2Np4T3hS"
-      },
-      "artists": [
-        {
-          "name": "Josy.Anne",
-          "url": "https://open.spotify.com/artist/5rdOdB9NEcJP2azuJI8cNH"
-        }
-      ],
-      "duration_ms": 285829,
-      "name": "Pedra Preta",
-      "url": "https://open.spotify.com/track/53AjZ7qqYQerJHxuPyZyOq"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "V\u00edcio",
         "url": "https://open.spotify.com/album/15o7kghlFD3WBZoHsJpQAx"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 260608,
       "name": "V\u00edcio",
       "url": "https://open.spotify.com/track/01qSQbvzNX5K5NoJ6Xhrjd"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Mozamba",
+        "url": "https://open.spotify.com/album/1Bowmic2a700xN2Np4T3hS"
+      },
+      "artists": [
+        {
+          "name": "Josy.Anne",
+          "url": "https://open.spotify.com/artist/5rdOdB9NEcJP2azuJI8cNH"
+        }
+      ],
+      "duration_ms": 285829,
+      "name": "Pedra Preta",
+      "url": "https://open.spotify.com/track/53AjZ7qqYQerJHxuPyZyOq"
     },
     {
       "added_at": "2022-09-16 04:00:00",

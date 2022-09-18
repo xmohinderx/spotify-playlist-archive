@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 
 > We outside\. Cover: Popcaan
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,051 likes - 79 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,255 likes - 79 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 | 31 | [King Of The Dancehall](https://open.spotify.com/track/2vACumvzzT2ZngO2p7i3Gu) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA) | [Back To Basics](https://open.spotify.com/album/1WWXhQfZhwZR67iLJ9rBI2) | 3:37 |
 | 32 | [Walking Trophy](https://open.spotify.com/track/4hGHcdD5IwjAkftalZm5an) | [HoodCelebrityy](https://open.spotify.com/artist/5t6cgFa6vbJbNuxUTgT1L9) | [Walking Trophy](https://open.spotify.com/album/6ICKorSKAkAq2lQBv00NJf) | 3:35 |
 | 33 | [In The Morning \(Let Your Love Come In\) \- Original Radio Edit](https://open.spotify.com/track/2M5BecF1hOqHevr4BDRi84) | [Egypt](https://open.spotify.com/artist/3GhpUqhcaWVF5OdPb4KH86) | [In The Morning \(Let Your Love Come In\)](https://open.spotify.com/album/0MT0W3eXcBOsBxTRguRnEk) | 2:14 |
-| 34 | [Ova Dweet](https://open.spotify.com/track/0RQEpWykgNyAMCeuZJDKJt) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Ova Dweet \- Single](https://open.spotify.com/album/3I6muahdIVAN75q0k1Cpc5) | 3:41 |
-| 35 | [Pon De River Pon De Bank](https://open.spotify.com/track/46l7fOJggsNqrNPJeFk0og) | [Elephant Man](https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on) | [Good 2 Go](https://open.spotify.com/album/4N8f7aP3lVNkn7sKHTnHVZ) | 3:59 |
+| 34 | [Pon De River Pon De Bank](https://open.spotify.com/track/46l7fOJggsNqrNPJeFk0og) | [Elephant Man](https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on) | [Good 2 Go](https://open.spotify.com/album/4N8f7aP3lVNkn7sKHTnHVZ) | 3:59 |
+| 35 | [Ova Dweet](https://open.spotify.com/track/0RQEpWykgNyAMCeuZJDKJt) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Ova Dweet \- Single](https://open.spotify.com/album/3I6muahdIVAN75q0k1Cpc5) | 3:41 |
 | 36 | [So Special](https://open.spotify.com/track/3QsYrzBz48de2cqm670ym9) | [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu) | [Mr\. Brooks...A Better Tomorrow](https://open.spotify.com/album/1oQyk4rRCTEx75jlzhXTtB) | 2:58 |
 | 37 | [Dickmatized](https://open.spotify.com/track/2dSbH1DD8CEqHqyS1Ey0bd) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Dickmatized](https://open.spotify.com/album/79gp57yPl6DStAtpdX08KQ) | 2:20 |
 | 38 | [Romie](https://open.spotify.com/track/1y7sKhBWlJxH6OXSDjcEKw) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA) | [Maestro](https://open.spotify.com/album/6D9fr78fZr3H4UA8eEaSv1) | 3:51 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 | 63 | [Forgive Me](https://open.spotify.com/track/6KDUXVgS7Fifk8NsBT7i9S) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma), [Govana](https://open.spotify.com/artist/5Xi3NfsVBIEbaWVUfBTy39) | [Forgive Me](https://open.spotify.com/album/3420tn1FpPedT6tGRhe01X) | 3:53 |
 | 64 | [Press Trigger](https://open.spotify.com/track/27GiOlVbVjPaN8wco4d9m2) | [Mad Cobra](https://open.spotify.com/artist/56MDhktp7hO6MqKCS9rSXT) | [Buzz Riddim](https://open.spotify.com/album/5dCRcrUFvuD8D0MgYQ75Y9) | 3:45 |
 | 65 | [Ocean Wave](https://open.spotify.com/track/4eTwvH4pVt5U4kPfYgQQ19) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Soul Survivor Riddim](https://open.spotify.com/album/7acAQDsVCREjceQG3ZcT9o) | 2:43 |
-| 66 | [Dutty Wine](https://open.spotify.com/track/5xhpnZ2vY8IDNrZPoii3fW) | [Tony Matterhorn](https://open.spotify.com/artist/6taesTUSevB9eK8bm5Y7b9) | [Riddim Driven: Smash](https://open.spotify.com/album/0xLD1WvdqcgKtRxQwqQpTh) | 3:07 |
-| 67 | [Give Me the Light](https://open.spotify.com/track/4ClQZfGW2LsUKU38jMDaI9) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Buzz Riddim](https://open.spotify.com/album/5dCRcrUFvuD8D0MgYQ75Y9) | 3:46 |
+| 66 | [Give Me the Light](https://open.spotify.com/track/4ClQZfGW2LsUKU38jMDaI9) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Buzz Riddim](https://open.spotify.com/album/5dCRcrUFvuD8D0MgYQ75Y9) | 3:46 |
+| 67 | [Dutty Wine](https://open.spotify.com/track/5xhpnZ2vY8IDNrZPoii3fW) | [Tony Matterhorn](https://open.spotify.com/artist/6taesTUSevB9eK8bm5Y7b9) | [Riddim Driven: Smash](https://open.spotify.com/album/0xLD1WvdqcgKtRxQwqQpTh) | 3:07 |
 | 68 | [All 2 Myself](https://open.spotify.com/track/3lUsC8WAJTEqvsnOCLDyNk) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [All 2 Myself](https://open.spotify.com/album/55L9lmkSHhPw7dL397V8nZ) | 2:31 |
 | 69 | [Boom Bang](https://open.spotify.com/track/437B7MVyS4cRTtwIBCDp39) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Boom Bang \(with Davido\)](https://open.spotify.com/album/0HRvp6uFFEX8fbALXV3ten) | 2:41 |
 | 70 | [Paranoid](https://open.spotify.com/track/4RLHsJIVWdml3v2GAcOEeQ) | [I\-Octane](https://open.spotify.com/artist/2T5FHRvBN0LYvlvDoU89dS), [Rygin King](https://open.spotify.com/artist/0IHg6uUuIes2nxFoT0otpr) | [I Am Great](https://open.spotify.com/album/6i3SZiuix81nwtdGQ6Yh0r) | 3:07 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 | 78 | [Original Nuttah](https://open.spotify.com/track/53mh7POQqTXj2Cfh7phP5b) | [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j), [Uk Apache](https://open.spotify.com/artist/0YE17nrGKTk37bcKpKVUvi) | [Original Nuttah](https://open.spotify.com/album/3z68B1FAnvehe5zSdLhNCO) | 5:12 |
 | 79 | [Hot Wuk \(Album Clean\)](https://open.spotify.com/track/2da3Y5CAzX4IZtuXnCD8DN) | [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Hot Wuk 12"](https://open.spotify.com/album/5ez8QCCTVOHbRIjez9uU0O) | 3:49 |
 
-Snapshot ID: `MTY2MjcyNTA3MywwMDAwMDAwMDY4NWUxMDczNGNjYjAyNDk0Y2E2NWQyZTZlOWVmMzJk`
+Snapshot ID: `MTY2MjcyNTA3MywwMDAwMDAwMGY0YTU4OThkYzg2NjAxNGUwYjU3OWI5YmZlMWU0Njhl`

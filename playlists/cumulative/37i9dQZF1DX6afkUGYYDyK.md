@@ -4,7 +4,7 @@
 
 > What are you thankful for this Thanksgiving? These are the songs that make us feel grateful....
 
-93 songs - 5 hr 51 min - [published](https://open.spotify.com/playlist/5GTz5fENvpfuW4x8P5AoYT)
+94 songs - 5 hr 52 min - [published](https://open.spotify.com/playlist/5GTz5fENvpfuW4x8P5AoYT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,8 @@
 | [Thank You](https://open.spotify.com/track/6bKtqGGWbjz5fHiUxRpSPG) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH) | [Words & Music: John Mellencamp's Greatest Hits](https://open.spotify.com/album/1Ic62GZGcdP457KLPGrwlR) | 3:37 | 2021-11-10 |  |
 | [Thank You \- 2008 Remaster](https://open.spotify.com/track/2zLIjfjQ8kMy7WSSLmF0I2) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Bonnie Raitt \(2008 Remaster\)](https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0) | 2:50 | 2021-11-10 |  |
 | [Thank You Friends](https://open.spotify.com/track/2bAbDf7h7gUEJQRxXBBq2N) | [Big Star](https://open.spotify.com/artist/3UvcmAOZt64oKpP95f6MMM) | [Keep An Eye On The Sky](https://open.spotify.com/album/7J7sZIPRWHxt3eVPGKsfi6) | 3:06 | 2021-11-10 |  |
-| [Thanksgiving Theme](https://open.spotify.com/track/2wygvWnq8gpWnMMNUfuEih) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \[2012 Remastered & Expanded Edition\]](https://open.spotify.com/album/7DuJYWu66RPdcekF5TuZ7w) | 2:00 | 2021-11-10 |  |
+| [Thanksgiving Theme](https://open.spotify.com/track/4niaGo0WSRCwEnEWd4FOg4) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [Charlie Brown Holiday Hits](https://open.spotify.com/album/1d3w7T3iyK3JJQ6kdpE6l9) | 1:59 | 2021-11-10 |  |
+| [Thanksgiving Theme](https://open.spotify.com/track/2wygvWnq8gpWnMMNUfuEih) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \[2012 Remastered & Expanded Edition\]](https://open.spotify.com/album/7DuJYWu66RPdcekF5TuZ7w) | 2:00 | 2021-11-10 | 2022-09-18 |
 | [The Good Life](https://open.spotify.com/track/2tiq10rhGegBQmBa81etVS) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Black Hole Rainbow](https://open.spotify.com/album/0F6GEmGd1mErhB4Ie2d2So) | 4:05 | 2021-11-10 |  |
 | [The House That Built Me](https://open.spotify.com/track/02eD9ymfJOJOhM97HYp5R9) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Revolution](https://open.spotify.com/album/3uczBfJFFSNjSiF8ScC1pA) | 3:56 | 2021-11-10 |  |
 | [The Thanksgiving Song](https://open.spotify.com/track/5uYpzJI7GOOIWWVCRkbHQ8) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [The Thanksgiving Song](https://open.spotify.com/album/2QwVi0IBJGjCBzwr4afvSr) | 3:04 | 2021-11-10 |  |

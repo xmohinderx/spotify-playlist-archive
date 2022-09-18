@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7eJRBxKzdO.md) - [plain]
 
 > The summer needs dance hits 😎☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,753 likes - 120 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,107 likes - 120 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

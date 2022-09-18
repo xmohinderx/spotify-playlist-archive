@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf?si=hNZyuYs0RzmYcabohwsN7g">Musa Keys</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,413 likes - 80 songs - 8 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,871 likes - 80 songs - 8 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8kehMXAAgpt.md) - [plain]
 
 > Workout music for hamsters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,468 likes - 40 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,470 likes - 40 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,6 +47,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8kehMXAAgpt.md) - [plain]
 | 37 | [RITMO \(Bad Boys For Life\)](https://open.spotify.com/track/6cy3ki60hLwimwIje7tALf) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [RITMO \(Bad Boys For Life\)](https://open.spotify.com/album/6EobpC5SDFy5DF50dWNVGF) | 3:41 |
 | 38 | [Wish Wish \(feat\. Cardi B & 21 Savage\)](https://open.spotify.com/track/1Hd2XLitkt1PYCWSbfF5qV) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Father Of Asahd](https://open.spotify.com/album/1YgX8BWKleDlDeCOFklRfz) | 3:22 |
 | 39 | [Started](https://open.spotify.com/track/5t0VcwyjDPOWIdylULdfxk) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) | [Started](https://open.spotify.com/album/04MknhNSl3DH9qDbBr61bS) | 3:06 |
-| 40 | [Death Rail](https://open.spotify.com/track/0gtuo2bvKsqW8yiqQvvtcr) | [Hi I'm Ghost](https://open.spotify.com/artist/7IyxUmBgkkV4jh7kHoip34) | [Death Rail](https://open.spotify.com/album/2LrqZEdBSCA2yKt0fs5Q8H) | 2:31 |
+| 40 | [Death Rail](https://open.spotify.com/track/6ZI5UgjEGb82o1XaAZKLJ2) | [Hi I'm Ghost](https://open.spotify.com/artist/7IyxUmBgkkV4jh7kHoip34) | [Death Rail](https://open.spotify.com/album/4C0vIxaCTSloENgeyOFgZ8) | 2:31 |
 
-Snapshot ID: `MTU3ODYzMjQ2MCwwMDAwMDAwMGM4NzEwM2Q0NDRlNDNmOGU3M2FkZWU2YjI4NzBhNmZh`
+Snapshot ID: `MTU3ODYzMjQ2MCwwMDAwMDAwMGU5NjJiMTc3ZDQzYjdjZWU1ZDgyMzczOWYzZjg5ZjQ0`

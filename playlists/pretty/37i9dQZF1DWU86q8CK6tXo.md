@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Female\-identifying only grooves, with some of  <a href=“spotify:artist:3R80OE4RViOWbnuvqh0j8a”>Thuy's</a> inspirations\. Cover: Thuy
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,326 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,337 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyvco9C4Og0.md) - [plain]
 
 > Las leyendas del mariachi están aquí\. Vicente Fernández en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 811,174 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 811,652 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyvco9C4Og0.md) - [plain]
 | 83 | [No Hay Quinto Malo](https://open.spotify.com/track/7tsW0yrg4oUGtjmg1FWsCl) | [Paquita La Del Barrio](https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7) | [No Hay Quinto Malo](https://open.spotify.com/album/72szrpw0ttfJf0qKhEcPhx) | 2:53 |
 | 84 | [Caminos de Michoacán](https://open.spotify.com/track/01N7WLJxshd4dDhK7f3WVe) | [Federico Villa](https://open.spotify.com/artist/79LwwKFdbXN9RoZAKefN7u) | [RCA 100 Años De Musica](https://open.spotify.com/album/6z4CaiYZEhfmIzHbxfYNxA) | 3:30 |
 | 85 | [Ases y Tercia de Reyes](https://open.spotify.com/track/6OHJnVV4vXHbJdIRSpzviA) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Siempre Estoy Pensando En Ti](https://open.spotify.com/album/3GZBUlOokXQdZxBdby96bZ) | 1:54 |
-| 86 | [Te He Prometido](https://open.spotify.com/track/1sqtCRFaeXlqiMxM5MGMdC) | [Chayín Rubio](https://open.spotify.com/artist/6dZF1SMkMqrSFJKp0mhk4B) | [Te He Prometido](https://open.spotify.com/album/5akcpTEFuh8Ey7laB8c3TR) | 3:06 |
-| 87 | [Debajo Del Sombrero](https://open.spotify.com/track/4znumtgYaw6lsfJ7Jo910g) | [Pedro Fernández](https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh) | [Acaríciame El Corazón](https://open.spotify.com/album/27OwCoZRPIe0xL44eTAlx4) | 3:10 |
+| 86 | [Debajo Del Sombrero](https://open.spotify.com/track/4znumtgYaw6lsfJ7Jo910g) | [Pedro Fernández](https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh) | [Acaríciame El Corazón](https://open.spotify.com/album/27OwCoZRPIe0xL44eTAlx4) | 3:10 |
+| 87 | [Te He Prometido](https://open.spotify.com/track/1sqtCRFaeXlqiMxM5MGMdC) | [Chayín Rubio](https://open.spotify.com/artist/6dZF1SMkMqrSFJKp0mhk4B) | [Te He Prometido](https://open.spotify.com/album/5akcpTEFuh8Ey7laB8c3TR) | 3:06 |
 | 88 | [En El Ultimo Trago](https://open.spotify.com/track/2NHHppsOEAr4SUTJzHSmEt) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Viejos Amigos](https://open.spotify.com/album/7rrux0UfvqKxxWBFexdd0d) | 2:16 |
 | 89 | [Ya No Me Interesas](https://open.spotify.com/track/13P7xlcWQzFMvAGQZniMTS) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Interpreta A Juan Gabriel](https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O) | 3:02 |
 | 90 | [Todo Cuanto Tuve](https://open.spotify.com/track/5vCnpRP2BzyPT2VaDaBFWy) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Las de Mi Apa](https://open.spotify.com/album/2mNt20FWQIZMbmOO39TgG7) | 2:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyvco9C4Og0.md) - [plain]
 | 99 | [No Discutamos](https://open.spotify.com/track/3IwKzJ7SenrBSRmmGAWR65) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Interpreta A Juan Gabriel](https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O) | 2:15 |
 | 100 | [Ya No Vuelvo a Molestarte](https://open.spotify.com/track/7ykNB1WZij1HwzWAEaykA4) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Con Mariachi Vol.2 \(with El Mariachi México '70 de Pepe López\)](https://open.spotify.com/album/3pEHzLdkPor0RrnvSmvXmd) | 2:12 |
 
-Snapshot ID: `MTY2MzI2NDY4MCwwMDAwMDAwMDI1ZDhjOTdmYWQzYzY0M2U5OTIyODY0YzY5Y2VmNjA0`
+Snapshot ID: `MTY2MzI2NDY4MCwwMDAwMDAwMDA3MGI3NTNjNzkxZDA3MTBjMzM5Njg2ZDZkZGQxOTJh`

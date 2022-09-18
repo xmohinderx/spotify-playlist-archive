@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY5glQ3K3VV.md) - [plain]
 
 > Canzoni rap per party fino al mattino! Cover: Rhove
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,412 likes - 80 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,499 likes - 80 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY5glQ3K3VV.md) - [plain]
 | 38 | [Ma Jolie \(feat\. ANNA\)](https://open.spotify.com/track/7J4FSE9i1mo3ZHtaMy27dy) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [Ma Jolie \(feat\. ANNA\)](https://open.spotify.com/album/5DiVq0GezpEej8E2krKSkz) | 2:38 |
 | 39 | [Lento](https://open.spotify.com/track/0iRKVjfQzpr41T3WsU7shl) | [Boro Boro](https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu), [Don Joe](https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ), [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41) | [Lento](https://open.spotify.com/album/2FCnqgKag6FTtXOG2FEl5P) | 2:42 |
 | 40 | [Blauer](https://open.spotify.com/track/47E18bCgrFTWXPFYkGnLMi) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Salvatore](https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B) | 2:55 |
-| 41 | [BlaBlaBla](https://open.spotify.com/track/5hGjnVZzA563cMLHy22keP) | [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41), [Nardi](https://open.spotify.com/artist/5Weajr5biqrfs2QaSMUhCG), [Finesse](https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY) | [BlaBlaBla](https://open.spotify.com/album/7mqK8UcO20KLRVvlWObIf7) | 1:53 |
-| 42 | [Blueface \(feat\. Izi, Tedua\)](https://open.spotify.com/track/2Ctj9DfXfh9kW3erTp907i) | [Disme](https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p), [Vaz Tè](https://open.spotify.com/artist/65ddsrNChT3wol9kEIJqKY), [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [Glory Days EP](https://open.spotify.com/album/2rxe8Kwyd417YSYmSXs0CI) | 3:42 |
+| 41 | [Blueface \(feat\. Izi, Tedua\)](https://open.spotify.com/track/2Ctj9DfXfh9kW3erTp907i) | [Disme](https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p), [Vaz Tè](https://open.spotify.com/artist/65ddsrNChT3wol9kEIJqKY), [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [Glory Days EP](https://open.spotify.com/album/2rxe8Kwyd417YSYmSXs0CI) | 3:42 |
+| 42 | [BlaBlaBla](https://open.spotify.com/track/5hGjnVZzA563cMLHy22keP) | [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41), [Nardi](https://open.spotify.com/artist/5Weajr5biqrfs2QaSMUhCG), [Finesse](https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY) | [BlaBlaBla](https://open.spotify.com/album/7mqK8UcO20KLRVvlWObIf7) | 1:53 |
 | 43 | [No y No](https://open.spotify.com/track/2QyTXB4a7l7NBBceBhXt5e) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [No y No](https://open.spotify.com/album/3SX1BaZrZ9mLBnwbj1MsJ4) | 4:15 |
 | 44 | [La zone \(feat\. Shiva\)](https://open.spotify.com/track/2Q1ICiLBk9lmLQz7GhMoWB) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [La zone \(feat\. Shiva\)](https://open.spotify.com/album/4zZrt7ZP0AmUCdxTJxBN6M) | 2:38 |
 | 45 | [Gigolò \(feat\. Sfera Ebbasta & Capo Plaza\)](https://open.spotify.com/track/4KilYheWwxakB1L43ECTeP) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Re Mida \(Aurum\)](https://open.spotify.com/album/18oJqI5kIQ5lwDvpdlny99) | 2:44 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY5glQ3K3VV.md) - [plain]
 | 79 | [Tiki Taka](https://open.spotify.com/track/50MWpZN2WAcfkeKAaU5fvY) | [Escomar](https://open.spotify.com/artist/6o4HwHVQqXnSxpHxII3KJw), [Bobo](https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J) | [Tiki Taka](https://open.spotify.com/album/0ZvK5lmB4C7JJ0Xop61lwa) | 2:20 |
 | 80 | [Thoiry Remix \(feat\. Gemitaiz, Quentin40, Puritano\) \- Samba Trap Vol\. 3 \- Mitraglia Rec](https://open.spotify.com/track/3Ej69N6aHGfSi4ERhwHRO8) | [Achille Lauro](https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv), [Boss Doms](https://open.spotify.com/artist/57aMHpsX2SXTbLatmeEd6j), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [Quentin40](https://open.spotify.com/artist/63iLDTZb43E6k8Ign6voma), [Puritano](https://open.spotify.com/artist/1DRmznzLP5EnFFGo4h1ZyW) | [Pour l'amour](https://open.spotify.com/album/7248m1lfoXH1fmy61NujXg) | 2:54 |
 
-Snapshot ID: `MTY2MTUxNzM0MiwwMDAwMDAwMGEyMGFlNmU4NTUzMzg3Y2FjNTllYmFjMWVmNzkzMTlh`
+Snapshot ID: `MTY2MTUxNzM0MiwwMDAwMDAwMDlkNmFmZWNiM2Y1ZGE5MDE0ZWIzZTRkMmZhNzE2MDk0`

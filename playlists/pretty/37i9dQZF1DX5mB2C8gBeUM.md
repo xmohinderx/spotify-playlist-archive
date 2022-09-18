@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 
 > Country gone wild! You never know what you're gonna get\. Artist: Levi Hummon
 
-[Spotify](https://open.spotify.com/user/spotify) - 871,155 likes - 160 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 871,463 likes - 160 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 | 9 | [The Only Problem Is](https://open.spotify.com/track/41Q02iK1KtjflVNuUBXPsq) | [Abby Anderson](https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB) | [Sugar Spice](https://open.spotify.com/album/0Ugvwj0WVE8HUBFHTzihME) | 3:41 |
 | 10 | [Dancin’ In The Country](https://open.spotify.com/track/6Z1bV93BP95h4YjIavrQPf) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Dancin' In The Country](https://open.spotify.com/album/5Sb6flBcIYmm5gTGwOVMbn) | 2:59 |
 | 11 | [EASY TONIGHT](https://open.spotify.com/track/6v9ZG6Mqt0ORN4N9jN1Nh0) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU) | [EASY TONIGHT](https://open.spotify.com/album/4VANWG21U2nsR2f2b1CLJr) | 2:55 |
-| 12 | [country anywhere](https://open.spotify.com/track/4TVlDWrY5vLvOT0uJgKDZ4) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu), [Skeez](https://open.spotify.com/artist/2VWRwW6HEugI8FWTDv9exG) | [country anywhere](https://open.spotify.com/album/0jJOkR5QbETozlBC1Xbdt8) | 2:50 |
+| 12 | [Country Anywhere](https://open.spotify.com/track/4TVlDWrY5vLvOT0uJgKDZ4) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu), [Skeez](https://open.spotify.com/artist/2VWRwW6HEugI8FWTDv9exG) | [Country Anywhere](https://open.spotify.com/album/0jJOkR5QbETozlBC1Xbdt8) | 2:50 |
 | 13 | [Can't Do Without Me](https://open.spotify.com/track/6Wy1WU6nkioVn681Rom3SP) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt), [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [Can't Do Without Me](https://open.spotify.com/album/7rMux0Or1QJ7PW6AAm25D4) | 3:21 |
 | 14 | [Get Low, Get High \(Part 2\) \(feat\. Jon Batiste & Michael Todd\)](https://open.spotify.com/track/7vV9b8mBZhw6eiCc80VOSb) | [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM), [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Michael Todd](https://open.spotify.com/artist/0DjXhpFVGNYlevPm7EGjrp) | [Get Low, Get High \(Part 2\) \(feat\. Jon Batiste & Michael Todd\)](https://open.spotify.com/album/5egAPl3SGfXZIW2dIzqDpo) | 3:38 |
 | 15 | [Mile a Minute](https://open.spotify.com/track/3ZId83LVU8njcHXP8ZiMvr) | [Josh Mirenda](https://open.spotify.com/artist/5zmTJA6eWcsmxevyQoK9iB) | [Mile a Minute](https://open.spotify.com/album/1XyZaEQP7xLclmVg5ni3fk) | 3:15 |

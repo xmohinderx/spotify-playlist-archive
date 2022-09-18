@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aiWQDFamDa.md) - [plain]
 
 > Sad and gloomy instrumental Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,089 likes - 125 songs - 12 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,249 likes - 125 songs - 12 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

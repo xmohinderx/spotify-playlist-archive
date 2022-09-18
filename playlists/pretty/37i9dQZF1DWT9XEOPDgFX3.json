@@ -1,12 +1,12 @@
 {
   "description": "Walk the bridge between indie and folk. Cover: Adam Melchor",
-  "num_followers": 49596,
+  "num_followers": 49676,
   "original_name": "Folk Arc",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5NjAwMCwwMDAwMDAwMGUyZGFlMzk4MjhjYmY3OWZiNzM1ZmJiZWYxOTE0YWQw",
+  "snapshot_id": "MTY2MjY5NjAwMCwwMDAwMDAwMGZkMjA3OTc2NWY2MGMyZWM2NDVjMDJjYTM4Mzg0MmMy",
   "tracks": [
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
-        "name": "The Greatest Part",
-        "url": "https://open.spotify.com/album/1CZYxx4kb3EdV5Gl25vhST"
-      },
-      "artists": [
-        {
-          "name": "Becca Mancari",
-          "url": "https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5"
-        }
-      ],
-      "duration_ms": 169257,
-      "name": "Hunter",
-      "url": "https://open.spotify.com/track/466VygGb2Jte8wlEWq0snM"
-    },
-    {
-      "added_at": "2022-04-29 04:00:00",
-      "album": {
         "name": "Serpentine Prison (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4IfdGdYnWooM3sSN03UQZA"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 265160,
       "name": "Distant Axis",
       "url": "https://open.spotify.com/track/7yEoR6Cm6avOgK5RYyKs0H"
+    },
+    {
+      "added_at": "2022-04-29 04:00:00",
+      "album": {
+        "name": "The Greatest Part",
+        "url": "https://open.spotify.com/album/1CZYxx4kb3EdV5Gl25vhST"
+      },
+      "artists": [
+        {
+          "name": "Becca Mancari",
+          "url": "https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5"
+        }
+      ],
+      "duration_ms": 169257,
+      "name": "Hunter",
+      "url": "https://open.spotify.com/track/466VygGb2Jte8wlEWq0snM"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -1993,22 +1993,6 @@
       "url": "https://open.spotify.com/track/327V3cyuKrjlHzcoup18bX"
     },
     {
-      "added_at": "2022-04-29 04:00:00",
-      "album": {
-        "name": "Other You / Reflection",
-        "url": "https://open.spotify.com/album/1BbUZkxKb97FwrTMuRbt5z"
-      },
-      "artists": [
-        {
-          "name": "Steve Gunn",
-          "url": "https://open.spotify.com/artist/7uLXW75DlTRahz2WKJZGeO"
-        }
-      ],
-      "duration_ms": 343253,
-      "name": "Other You",
-      "url": "https://open.spotify.com/track/1LQf4dPrvgiuGyRtrXzZ2e"
-    },
-    {
       "added_at": "2022-09-09 04:00:00",
       "album": {
         "name": "Valley",
@@ -2023,6 +2007,22 @@
       "duration_ms": 209386,
       "name": "Valley",
       "url": "https://open.spotify.com/track/1W7RPYYwhzOZFvJnkwXlLZ"
+    },
+    {
+      "added_at": "2022-04-29 04:00:00",
+      "album": {
+        "name": "Other You / Reflection",
+        "url": "https://open.spotify.com/album/1BbUZkxKb97FwrTMuRbt5z"
+      },
+      "artists": [
+        {
+          "name": "Steve Gunn",
+          "url": "https://open.spotify.com/artist/7uLXW75DlTRahz2WKJZGeO"
+        }
+      ],
+      "duration_ms": 343253,
+      "name": "Other You",
+      "url": "https://open.spotify.com/track/1LQf4dPrvgiuGyRtrXzZ2e"
     },
     {
       "added_at": "2022-04-29 04:00:00",

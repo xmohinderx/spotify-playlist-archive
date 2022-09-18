@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 
 > Hand\-picked indie to nourish the ears.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,946 likes - 80 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,994 likes - 80 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,9 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 | 57 | [Running Red Lights \(feat\. Rivers Cuomo & Pink Siifu\)](https://open.spotify.com/track/0UdYkM8rQeOV9B8n65fsfN) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [Rivers Cuomo](https://open.spotify.com/artist/4LAz9VRX8Nat9kvIzgkg2v), [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh) | [Running Red Lights \(feat\. Rivers Cuomo & Pink Siifu\)](https://open.spotify.com/album/0H6aN1da6Hv7nnZK5RrQVm) | 4:39 |
 | 58 | [A Prayer Of My Own](https://open.spotify.com/track/4T9huHkcSekxse5hkJA8UD) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [A Prayer Of My Own](https://open.spotify.com/album/5nPBWxyJ7Ro4DbbdkGoVyO) | 4:33 |
 | 59 | [Bad girl](https://open.spotify.com/track/4wyQsARSHoKsToZkEss5FD) | [Sun June](https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb) | [Somewhere](https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm) | 4:07 |
-| 60 | [Andrew](https://open.spotify.com/track/0ZHnNz24gXtnyFsCeECPnZ) | [M Field](https://open.spotify.com/artist/2YCr3gD8aO0ck8k4i5vhU3) | [Andrew](https://open.spotify.com/album/3L5Tn8fZfACHkX0btiFAo0) | 2:44 |
-| 61 | [Surreal](https://open.spotify.com/track/134Naq9YPOeBDXFUB7rdA9) | [Dan Croll](https://open.spotify.com/artist/5Rr15NSbi1Xjno1AEP9u21) | [Grand Plan](https://open.spotify.com/album/7cHv3kepqiEMWP67HQWgJN) | 3:06 |
-| 62 | [Daydream](https://open.spotify.com/track/4FpGHZhJMpdzhTb3vmYt3H) | [Hearing Aid Beige](https://open.spotify.com/artist/4iefKm5C0f4mBSO79lVJZk) | [Isn't It Nice](https://open.spotify.com/album/5pa0TFv3JUludVq6YlRjYT) | 4:48 |
+| 60 | [Daydream](https://open.spotify.com/track/4FpGHZhJMpdzhTb3vmYt3H) | [Hearing Aid Beige](https://open.spotify.com/artist/4iefKm5C0f4mBSO79lVJZk) | [Isn't It Nice](https://open.spotify.com/album/5pa0TFv3JUludVq6YlRjYT) | 4:48 |
+| 61 | [Andrew](https://open.spotify.com/track/0ZHnNz24gXtnyFsCeECPnZ) | [M Field](https://open.spotify.com/artist/2YCr3gD8aO0ck8k4i5vhU3) | [Andrew](https://open.spotify.com/album/3L5Tn8fZfACHkX0btiFAo0) | 2:44 |
+| 62 | [Surreal](https://open.spotify.com/track/134Naq9YPOeBDXFUB7rdA9) | [Dan Croll](https://open.spotify.com/artist/5Rr15NSbi1Xjno1AEP9u21) | [Grand Plan](https://open.spotify.com/album/7cHv3kepqiEMWP67HQWgJN) | 3:06 |
 | 63 | [I Guess This is Life](https://open.spotify.com/track/4ydabrob4581SkaRuuN9YT) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [I Guess This is Life](https://open.spotify.com/album/3WWi8o7lr71zCU0iU7VEPb) | 3:31 |
 | 64 | [Song for Nick Drake](https://open.spotify.com/track/1ZMpeW7DIRIpWCpFxAFuf6) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Song for Nick Drake](https://open.spotify.com/album/0tD7F0mOkgQliDESDRBLey) | 2:57 |
 | 65 | [Sugar](https://open.spotify.com/track/3BWvv8hVbYXFHivfzpCD5n) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [When the City Sleeps](https://open.spotify.com/album/7LlmJ1aH2FGj9nEh0xPIF2) | 2:56 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 | 79 | [Please Don't Hide Yourself Away](https://open.spotify.com/track/4BeOtHTrVDazx007bGFFNL) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi), [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Please Don't Hide Yourself Away](https://open.spotify.com/album/5HFkJLsDlD7eudQ2DQNRIx) | 3:10 |
 | 80 | [Garden of Eden](https://open.spotify.com/track/2JMv10dhH1c63lwDF0wfud) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Flora Fauna](https://open.spotify.com/album/7DlfUBoATO1ECCro50jZWx) | 3:19 |
 
-Snapshot ID: `MTY2MDMyODAyOCwwMDAwMDAwMDk4YmNkNGY4NTk3OGQwY2ZkMzU5YTkyN2NlY2Y1YWM5`
+Snapshot ID: `MTY2MDMyODAyOCwwMDAwMDAwMDE3MzdiOGE0Yzk0Mjc1M2MyNmUxMWRiNjZiMTc2ZDcz`

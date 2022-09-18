@@ -1,12 +1,12 @@
 {
   "description": "Time to press play on these jaem jams from 2010 onwards! Cover: TWICE",
-  "num_followers": 224524,
+  "num_followers": 224671,
   "original_name": "Nolja!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDEwNDA3NywwMDAwMDAwMGI3YzI4ZTUzN2Y4YTRjN2ZhYzI0NTliMmEwMGI5Yzhl",
+  "snapshot_id": "MTY2MDEwNDA3NywwMDAwMDAwMDdhYTk0YmNmZGNlYzA2MDQ1MTYzNDkxMmNlZDk5ZDM0",
   "tracks": [
     {
       "added_at": "2022-06-18 17:13:22",
@@ -311,22 +311,6 @@
     {
       "added_at": "2022-06-18 17:13:22",
       "album": {
-        "name": "AD MARE",
-        "url": "https://open.spotify.com/album/3AUtpZi3kqsEYDyQ0CCNiH"
-      },
-      "artists": [
-        {
-          "name": "NMIXX",
-          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
-        }
-      ],
-      "duration_ms": 172936,
-      "name": "O.O",
-      "url": "https://open.spotify.com/track/3lrNsPdn98i6rxO142pLT6"
-    },
-    {
-      "added_at": "2022-06-18 17:13:22",
-      "album": {
         "name": "KILL THIS LOVE",
         "url": "https://open.spotify.com/album/3PNxZ3BELbUXJ1XLktXiHz"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 191050,
       "name": "Kill This Love",
       "url": "https://open.spotify.com/track/6hvczQ05jc1yGlp9zhb95V"
+    },
+    {
+      "added_at": "2022-06-18 17:13:22",
+      "album": {
+        "name": "AD MARE",
+        "url": "https://open.spotify.com/album/3AUtpZi3kqsEYDyQ0CCNiH"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "duration_ms": 172936,
+      "name": "O.O",
+      "url": "https://open.spotify.com/track/3lrNsPdn98i6rxO142pLT6"
     },
     {
       "added_at": "2022-06-18 17:13:22",
@@ -439,6 +439,22 @@
     {
       "added_at": "2022-06-18 17:13:22",
       "album": {
+        "name": "SQUARE TWO",
+        "url": "https://open.spotify.com/album/2Fna4Tb7fme5aHsNMJtVtp"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 197288,
+      "name": "PLAYING WITH FIRE",
+      "url": "https://open.spotify.com/track/7qmvLmX9tyaTiBAVNI6YEn"
+    },
+    {
+      "added_at": "2022-06-18 17:13:22",
+      "album": {
         "name": "Step Back",
         "url": "https://open.spotify.com/album/3gwL04bGAX4Kc2D5Wd7NMk"
       },
@@ -455,22 +471,6 @@
     {
       "added_at": "2022-06-18 17:13:22",
       "album": {
-        "name": "The Chaos Chapter: FREEZE",
-        "url": "https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9"
-      },
-      "artists": [
-        {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
-        }
-      ],
-      "duration_ms": 202203,
-      "name": "0X1=LOVESONG (I Know I Love You) feat. Seori",
-      "url": "https://open.spotify.com/track/1Z8TPHiKeCUyClxV6WTTIf"
-    },
-    {
-      "added_at": "2022-06-18 17:13:22",
-      "album": {
         "name": "Love Yourself \u8f49 'Tear'",
         "url": "https://open.spotify.com/album/4NIqCxqP9o8Tp6tGLBqd8O"
       },
@@ -483,22 +483,6 @@
       "duration_ms": 242333,
       "name": "FAKE LOVE",
       "url": "https://open.spotify.com/track/6m1TWFMeon7ai9XLOzdbiR"
-    },
-    {
-      "added_at": "2022-06-18 17:13:22",
-      "album": {
-        "name": "SQUARE TWO",
-        "url": "https://open.spotify.com/album/2Fna4Tb7fme5aHsNMJtVtp"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 197288,
-      "name": "PLAYING WITH FIRE",
-      "url": "https://open.spotify.com/track/7qmvLmX9tyaTiBAVNI6YEn"
     },
     {
       "added_at": "2022-06-18 17:13:22",
@@ -531,6 +515,22 @@
       "duration_ms": 208240,
       "name": "What is Love",
       "url": "https://open.spotify.com/track/3zhbXKFjUDw40pTYyCgt1Y"
+    },
+    {
+      "added_at": "2022-06-18 17:13:22",
+      "album": {
+        "name": "The Chaos Chapter: FREEZE",
+        "url": "https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "duration_ms": 202203,
+      "name": "0X1=LOVESONG (I Know I Love You) feat. Seori",
+      "url": "https://open.spotify.com/track/1Z8TPHiKeCUyClxV6WTTIf"
     },
     {
       "added_at": "2022-06-18 17:13:22",
@@ -583,50 +583,18 @@
     {
       "added_at": "2022-06-18 17:13:22",
       "album": {
-        "name": "SOLO",
-        "url": "https://open.spotify.com/album/7qAJpYeABXN9ZV5wOOX59k"
+        "name": "SQUARE ONE",
+        "url": "https://open.spotify.com/album/0FOOodYRlj7gzh7q7IjmNZ"
       },
       "artists": [
         {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
         }
       ],
-      "duration_ms": 169566,
-      "name": "SOLO",
-      "url": "https://open.spotify.com/track/2wVDWtLKXunswWecARNILj"
-    },
-    {
-      "added_at": "2022-06-18 17:13:22",
-      "album": {
-        "name": "Savage - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 238143,
-      "name": "Savage",
-      "url": "https://open.spotify.com/track/3dbLT62Cvs46Ju7a8gpr36"
-    },
-    {
-      "added_at": "2022-06-18 17:13:22",
-      "album": {
-        "name": "IN LIFE",
-        "url": "https://open.spotify.com/album/0aERWcI2KYSCM4biUihB9X"
-      },
-      "artists": [
-        {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
-        }
-      ],
-      "duration_ms": 189286,
-      "name": "Back Door",
-      "url": "https://open.spotify.com/track/0XuepwFJUcKN8T5zTqoP0F"
+      "duration_ms": 211631,
+      "name": "WHISTLE",
+      "url": "https://open.spotify.com/track/6NEoeBLQbOMw92qMeLfI40"
     },
     {
       "added_at": "2022-06-18 17:13:22",
@@ -647,18 +615,50 @@
     {
       "added_at": "2022-06-18 17:13:22",
       "album": {
-        "name": "SQUARE ONE",
-        "url": "https://open.spotify.com/album/0FOOodYRlj7gzh7q7IjmNZ"
+        "name": "SOLO",
+        "url": "https://open.spotify.com/album/7qAJpYeABXN9ZV5wOOX59k"
       },
       "artists": [
         {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
         }
       ],
-      "duration_ms": 211631,
-      "name": "WHISTLE",
-      "url": "https://open.spotify.com/track/6NEoeBLQbOMw92qMeLfI40"
+      "duration_ms": 169566,
+      "name": "SOLO",
+      "url": "https://open.spotify.com/track/2wVDWtLKXunswWecARNILj"
+    },
+    {
+      "added_at": "2022-06-18 17:13:22",
+      "album": {
+        "name": "IN LIFE",
+        "url": "https://open.spotify.com/album/0aERWcI2KYSCM4biUihB9X"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 189286,
+      "name": "Back Door",
+      "url": "https://open.spotify.com/track/0XuepwFJUcKN8T5zTqoP0F"
+    },
+    {
+      "added_at": "2022-06-18 17:13:22",
+      "album": {
+        "name": "Savage - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 238143,
+      "name": "Savage",
+      "url": "https://open.spotify.com/track/3dbLT62Cvs46Ju7a8gpr36"
     },
     {
       "added_at": "2022-06-18 17:13:22",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-06-18 17:13:22",
       "album": {
-        "name": "We play",
-        "url": "https://open.spotify.com/album/4kU6DFVgZKoDYQPZk1OZp9"
-      },
-      "artists": [
-        {
-          "name": "Weeekly",
-          "url": "https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m"
-        }
-      ],
-      "duration_ms": 205373,
-      "name": "After School",
-      "url": "https://open.spotify.com/track/52CBUrIdyf8tbZaUY9iawE"
-    },
-    {
-      "added_at": "2022-06-18 17:13:22",
-      "album": {
         "name": "eight",
         "url": "https://open.spotify.com/album/5vJNAlQeTf9lsulO1YlmSt"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 167573,
       "name": "eight(Prod.&Feat. SUGA of BTS)",
       "url": "https://open.spotify.com/track/0pYacDCZuRhcrwGUA5nTBe"
+    },
+    {
+      "added_at": "2022-06-18 17:13:22",
+      "album": {
+        "name": "We play",
+        "url": "https://open.spotify.com/album/4kU6DFVgZKoDYQPZk1OZp9"
+      },
+      "artists": [
+        {
+          "name": "Weeekly",
+          "url": "https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m"
+        }
+      ],
+      "duration_ms": 205373,
+      "name": "After School",
+      "url": "https://open.spotify.com/track/52CBUrIdyf8tbZaUY9iawE"
     },
     {
       "added_at": "2022-06-18 17:13:22",
@@ -879,22 +879,6 @@
     {
       "added_at": "2022-06-18 17:13:22",
       "album": {
-        "name": "Darl+ing",
-        "url": "https://open.spotify.com/album/0Dl7e3uv3UrVDdZ6saplzH"
-      },
-      "artists": [
-        {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
-        }
-      ],
-      "duration_ms": 176546,
-      "name": "Darl+ing",
-      "url": "https://open.spotify.com/track/6vo0dV9t7PCQZKsLFwVwZ5"
-    },
-    {
-      "added_at": "2022-06-18 17:13:22",
-      "album": {
         "name": "Take",
         "url": "https://open.spotify.com/album/1NgwpxtZFd1x4DbC74V9bO"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 214136,
       "name": "Way Back Home",
       "url": "https://open.spotify.com/track/3NxuezMdSLgt4OwHzBoUhL"
+    },
+    {
+      "added_at": "2022-06-18 17:13:22",
+      "album": {
+        "name": "Darl+ing",
+        "url": "https://open.spotify.com/album/0Dl7e3uv3UrVDdZ6saplzH"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "duration_ms": 176546,
+      "name": "Darl+ing",
+      "url": "https://open.spotify.com/track/6vo0dV9t7PCQZKsLFwVwZ5"
     },
     {
       "added_at": "2022-06-18 17:13:22",
@@ -963,18 +963,18 @@
     {
       "added_at": "2022-06-18 17:13:22",
       "album": {
-        "name": "Return",
-        "url": "https://open.spotify.com/album/7th9VLudqM04TpG8hNE1pb"
+        "name": "R",
+        "url": "https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob"
       },
       "artists": [
         {
-          "name": "iKON",
-          "url": "https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM"
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
         }
       ],
-      "duration_ms": 209648,
-      "name": "LOVE SCENARIO",
-      "url": "https://open.spotify.com/track/3d3ELsqKlQ7WA0a10Isu3l"
+      "duration_ms": 168085,
+      "name": "On The Ground",
+      "url": "https://open.spotify.com/track/2pn8dNVSpYnAtlKFC8Q0DJ"
     },
     {
       "added_at": "2022-06-18 17:13:22",
@@ -995,18 +995,18 @@
     {
       "added_at": "2022-06-18 17:13:22",
       "album": {
-        "name": "R",
-        "url": "https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob"
+        "name": "Return",
+        "url": "https://open.spotify.com/album/7th9VLudqM04TpG8hNE1pb"
       },
       "artists": [
         {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+          "name": "iKON",
+          "url": "https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM"
         }
       ],
-      "duration_ms": 168085,
-      "name": "On The Ground",
-      "url": "https://open.spotify.com/track/2pn8dNVSpYnAtlKFC8Q0DJ"
+      "duration_ms": 209648,
+      "name": "LOVE SCENARIO",
+      "url": "https://open.spotify.com/track/3d3ELsqKlQ7WA0a10Isu3l"
     },
     {
       "added_at": "2022-06-18 17:13:22",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2022-06-18 17:13:22",
       "album": {
+        "name": "R",
+        "url": "https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "duration_ms": 207163,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/2dHoVW9AxJVSRebPRyV2aA"
+    },
+    {
+      "added_at": "2022-06-18 17:13:22",
+      "album": {
         "name": "instagram",
         "url": "https://open.spotify.com/album/1wW2yfORAbOEfn2Et1q687"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 222853,
       "name": "Panorama",
       "url": "https://open.spotify.com/track/0CnpSTdL9l5vQM4YnzXtyo"
-    },
-    {
-      "added_at": "2022-06-18 17:13:22",
-      "album": {
-        "name": "R",
-        "url": "https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob"
-      },
-      "artists": [
-        {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
-        }
-      ],
-      "duration_ms": 207163,
-      "name": "Gone",
-      "url": "https://open.spotify.com/track/2dHoVW9AxJVSRebPRyV2aA"
     },
     {
       "added_at": "2022-06-18 17:13:22",

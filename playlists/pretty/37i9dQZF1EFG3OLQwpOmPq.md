@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG3OLQwpOmPq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/315bvK1m77RNynw5ycETfA">sad alex</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 522 likes - 71 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 523 likes - 71 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG3OLQwpOmPq.md) - [plain]
 | 2 | [i'm glad that you found someone](https://open.spotify.com/track/2dEeqbtc9uQ9YeMEhbgesL) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3), [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [i'm glad that you found someone](https://open.spotify.com/album/4M8qEALk69QAu2QKFPREV6) | 2:18 |
 | 3 | [dating myself](https://open.spotify.com/track/3kZQbfCHwsEqUzyguM0sDi) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [crydancing](https://open.spotify.com/album/5ih8vejY3A4nHGlsd2M1xD) | 2:24 |
 | 4 | [one that got away](https://open.spotify.com/track/6D9tzZdTwuPMxVZ2gD6GqJ) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3), [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [crydancing](https://open.spotify.com/album/5ih8vejY3A4nHGlsd2M1xD) | 2:21 |
-| 5 | [Here For You](https://open.spotify.com/track/1CUv7UAUh3kYcjQzEoq5Sa) | [Vincent](https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB), [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [For You](https://open.spotify.com/album/5PfEtYfR13izbJCJZe3pj0) | 2:47 |
-| 6 | [new heartbreak](https://open.spotify.com/track/4QlWWP0p9zkVFnls5xoI35) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [new heartbreak](https://open.spotify.com/album/7oPhOoCsmqealichnE6389) | 3:14 |
+| 5 | [new heartbreak](https://open.spotify.com/track/4QlWWP0p9zkVFnls5xoI35) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [new heartbreak](https://open.spotify.com/album/7oPhOoCsmqealichnE6389) | 3:14 |
+| 6 | [Here For You](https://open.spotify.com/track/1CUv7UAUh3kYcjQzEoq5Sa) | [Vincent](https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB), [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [For You](https://open.spotify.com/album/5PfEtYfR13izbJCJZe3pj0) | 2:47 |
 | 7 | [ibtc \- remix](https://open.spotify.com/track/6ypSVHZWCXAk3siHdJOspd) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3), [MILES](https://open.spotify.com/artist/5QqCSh9Ri3B7Tw6HNQkPQH) | [crydancing](https://open.spotify.com/album/5ih8vejY3A4nHGlsd2M1xD) | 2:04 |
 | 8 | [Bitter](https://open.spotify.com/track/35NDUYJIRkuYsAw7h8Zbrr) | [Yoe Mase](https://open.spotify.com/artist/4IuWSIEfIed8aZb49YA4Cj), [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [Bitter](https://open.spotify.com/album/2e4yd8Fv3mYfpaIYeCAfzQ) | 3:17 |
 | 9 | [High Hopes](https://open.spotify.com/track/0N3FvAOPKg4oGJLVshk72Y) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5), [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [High Hopes](https://open.spotify.com/album/1J3tAErrryLAG4ymvG1LV6) | 2:59 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG3OLQwpOmPq.md) - [plain]
 | 70 | [The Heart Always Wins](https://open.spotify.com/track/3bNXPv2uIbtc9x8YnGmjiY) | [True Babies](https://open.spotify.com/artist/3KcFt8EDGm7XBO9kPWt7sY) | [True Babies](https://open.spotify.com/album/1v8v5REyfAHmx0V202oTCk) | 2:32 |
 | 71 | [It's All Good](https://open.spotify.com/track/7k4IoEjEyhWgITb1JoF3mO) | [True Babies](https://open.spotify.com/artist/3KcFt8EDGm7XBO9kPWt7sY) | [True Babies](https://open.spotify.com/album/1v8v5REyfAHmx0V202oTCk) | 2:15 |
 
-Snapshot ID: `Mjc3MjI5NjAsMDAwMDAwMDBiNWVjNGMxMGMzZTliNWQyNDJhMzc5Y2NkYzBiODU0Nw==`
+Snapshot ID: `Mjc3MjQ0MDAsMDAwMDAwMDAwYTRhNTgwNmRiYWY1YjY0M2YxNzliOWI1ODFjOGZjNA==`

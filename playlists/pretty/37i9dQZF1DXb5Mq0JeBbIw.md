@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5Mq0JeBbIw.md) - [plain]
 
 > Soft songs that gives you a gentle start of the day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,594 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,625 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5Mq0JeBbIw.md) - [plain]
 | 59 | [This Is What It Takes](https://open.spotify.com/track/0vW819CC45qQzi1lM9PaAg) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Handwritten](https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ) | 3:50 |
 | 60 | [Wait & See](https://open.spotify.com/track/3nv8Krxy4YzauAdpSoLt8C) | [Mabes](https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su) | [Wait & See](https://open.spotify.com/album/1JGX9VVxDcCLbJlokLloon) | 2:54 |
 | 61 | [When the Party's Over](https://open.spotify.com/track/0F78T5bfHQCliaNjBkIYBq) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [When the Party's Over](https://open.spotify.com/album/1bitguaJlIxb9wsJiDFDnR) | 2:34 |
-| 62 | [Sweet Dream](https://open.spotify.com/track/7JRJOLKHz88pR0YS4pVCao) | [Greg Laswell](https://open.spotify.com/artist/2Mf99N2VcDEcVuocyBLhyC) | [Three Flights From Alto Nido](https://open.spotify.com/album/0ntXTGF1tGttAv0Tr077DH) | 1:07 |
-| 63 | [Everyone’s Got Something](https://open.spotify.com/track/78daXDfx7T89qorS0ktsU0) | [Perrin Lamb](https://open.spotify.com/artist/7CfcrGoabPfkAToFD8oBF3) | [Back to You](https://open.spotify.com/album/6lGXUNcAoHF8eSNC17GPqy) | 3:42 |
+| 62 | [Everyone’s Got Something](https://open.spotify.com/track/78daXDfx7T89qorS0ktsU0) | [Perrin Lamb](https://open.spotify.com/artist/7CfcrGoabPfkAToFD8oBF3) | [Back to You](https://open.spotify.com/album/6lGXUNcAoHF8eSNC17GPqy) | 3:42 |
+| 63 | [Sweet Dream](https://open.spotify.com/track/7JRJOLKHz88pR0YS4pVCao) | [Greg Laswell](https://open.spotify.com/artist/2Mf99N2VcDEcVuocyBLhyC) | [Three Flights From Alto Nido](https://open.spotify.com/album/0ntXTGF1tGttAv0Tr077DH) | 1:07 |
 | 64 | [Saving Us a Riot](https://open.spotify.com/track/1jpMsR7pZ56267QsvCOhci) | [Phoria](https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm) | [Volition](https://open.spotify.com/album/5o5VHNjnZ5E5fb5cuoRzBZ) | 4:17 |
 | 65 | [Better Than Today](https://open.spotify.com/track/1r7J0ELqOw62KVlgjrmKnw) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Things I Chose To Remember](https://open.spotify.com/album/1bxlSBesh71i89ZitdykUX) | 3:49 |
 | 66 | [I'll Buy a House \- Acoustic](https://open.spotify.com/track/0DUYYLUzQNVNRMtr2vk1lh) | [Violet Skies](https://open.spotify.com/artist/56w356OnIbrmFsOFcx3NQN) | [I'll Buy a House \(Acoustic\)](https://open.spotify.com/album/6BtWRmzFx7OInkYziWbPJF) | 3:06 |
@@ -92,16 +92,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5Mq0JeBbIw.md) - [plain]
 | 82 | [Hold On To Happiness](https://open.spotify.com/track/2GpHwqp9mNHyma8C3HliD8) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Hold On To Happiness](https://open.spotify.com/album/69cdPGw9UxCq2aoO4yiEjZ) | 3:37 |
 | 83 | [Days That End in Y](https://open.spotify.com/track/5G11lGkWAP4AqFo77t02lC) | [Gomey](https://open.spotify.com/artist/5ibWbhA0IkPT3xCN0YicRL), [Xuitcasecity](https://open.spotify.com/artist/6YxrfNCKBcQlbITpmDLErL) | [Days That End in Y](https://open.spotify.com/album/6m99yAstyKD4UgK3ASjMg2) | 2:22 |
 | 84 | [Bizarre Love Triangle \- Acoustic](https://open.spotify.com/track/0PGDrKpe6yHPNRP1eSvCFy) | [The Macarons Project](https://open.spotify.com/artist/61VZakASLH5PweMQzF7R8r) | [Bizarre Love Triangle \(Acoustic\)](https://open.spotify.com/album/3a3gzYfRlPhOdTpw8CO4Rb) | 2:11 |
-| 85 | [Luck Pusher](https://open.spotify.com/track/56IGNuGmEjWZDtih5N6i3y) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Luck Pusher](https://open.spotify.com/album/2bW59wdPku3mlEZWg8xsip) | 2:43 |
-| 86 | [Be Here Now](https://open.spotify.com/track/1zH6hFHwovpSxn0FmVpX6Q) | [Gustavo Bertoni](https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9) | [Where Light Pours In](https://open.spotify.com/album/7EEAwQmw3KwyoJoQ88fVnF) | 3:39 |
-| 87 | [Without Me \(Acoustic\)](https://open.spotify.com/track/3pnEPFXuYoYKEiBRTCElog) | [Ben Woodward](https://open.spotify.com/artist/142VT1MtWzaD13CnOiKFDn) | [Without Me \(Acoustic\)](https://open.spotify.com/album/3NwjEGRRH0zOZUihZcfYHn) | 3:13 |
-| 88 | [I don't mind if you don't mind \(draft\)](https://open.spotify.com/track/1LjSLMjMAZj6zvW6XLLzzr) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [In Hindsight](https://open.spotify.com/album/323C2iF45gSw52R7c0aSk0) | 2:18 |
+| 85 | [Be Here Now](https://open.spotify.com/track/1zH6hFHwovpSxn0FmVpX6Q) | [Gustavo Bertoni](https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9) | [Where Light Pours In](https://open.spotify.com/album/7EEAwQmw3KwyoJoQ88fVnF) | 3:39 |
+| 86 | [Luck Pusher](https://open.spotify.com/track/56IGNuGmEjWZDtih5N6i3y) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Luck Pusher](https://open.spotify.com/album/2bW59wdPku3mlEZWg8xsip) | 2:43 |
+| 87 | [I don't mind if you don't mind \(draft\)](https://open.spotify.com/track/1LjSLMjMAZj6zvW6XLLzzr) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [In Hindsight](https://open.spotify.com/album/323C2iF45gSw52R7c0aSk0) | 2:18 |
+| 88 | [Without Me \(Acoustic\)](https://open.spotify.com/track/3pnEPFXuYoYKEiBRTCElog) | [Ben Woodward](https://open.spotify.com/artist/142VT1MtWzaD13CnOiKFDn) | [Without Me \(Acoustic\)](https://open.spotify.com/album/3NwjEGRRH0zOZUihZcfYHn) | 3:13 |
 | 89 | [Wonderwall](https://open.spotify.com/track/1qGoOiTVjCJ3iEKkxqpuvX) | [Ryan Innes](https://open.spotify.com/artist/0vBolemsRxQhb3TFeM4C79) | [Wonderwall](https://open.spotify.com/album/3mkgZ2atNq2kp0nHphDhAG) | 3:56 |
 | 90 | [I'm Not The Only One \- Acoustic Version](https://open.spotify.com/track/4CtKNyoQqS7Tm2fsftrNy9) | [Hamilton](https://open.spotify.com/artist/0djOiFh4VBdH2zXqJOvEnn) | [I'm Not The Only One \(Acoustic Version\)](https://open.spotify.com/album/6QDUsAAMMBkqX8y2S5N884) | 3:33 |
 | 91 | [When Does a Heart Move On](https://open.spotify.com/track/5q9hultY2qhd6sVB0DEEQf) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu) | 3:52 |
 | 92 | [Voices](https://open.spotify.com/track/5vuWnrXHFlKMQVcVu9fmRd) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Voices](https://open.spotify.com/album/5wAKEeRp8jjJNuR8cIFqpu) | 3:06 |
-| 93 | [Pink \- Live & Acoustic](https://open.spotify.com/track/5PjhxJQOcS6XMSIydhsMBe) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Live from the Village \(Acoustic\)](https://open.spotify.com/album/2yPd47Gm4znFqjaC8QzbRq) | 3:47 |
-| 94 | [Breathe \- Acoustic](https://open.spotify.com/track/0XjVo7NzYlgQDgMt4s3IqX) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Neev](https://open.spotify.com/artist/4Ww02MqPOCYw0CufxePGkC) | [Breathe \(Acoustic\)](https://open.spotify.com/album/0sGeMxvcV4ggQUdSimDSe5) | 4:05 |
+| 93 | [Breathe \- Acoustic](https://open.spotify.com/track/0XjVo7NzYlgQDgMt4s3IqX) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Neev](https://open.spotify.com/artist/4Ww02MqPOCYw0CufxePGkC) | [Breathe \(Acoustic\)](https://open.spotify.com/album/0sGeMxvcV4ggQUdSimDSe5) | 4:05 |
+| 94 | [Pink \- Live & Acoustic](https://open.spotify.com/track/5PjhxJQOcS6XMSIydhsMBe) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Live from the Village \(Acoustic\)](https://open.spotify.com/album/2yPd47Gm4znFqjaC8QzbRq) | 3:47 |
 | 95 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/39ifiZKJ8VCwgyQTWy9cyL) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/album/4jkqzylbWYyqwzsBthivea) | 2:43 |
 | 96 | [Find You \- Acoustic](https://open.spotify.com/track/7xN977RNEqdvirU4OqBa10) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [Find You \(Acoustic\)](https://open.spotify.com/album/19QixZrqTEYcOQCB5F88jJ) | 3:15 |
 | 97 | [Dancing \(Mumbai Wedding\) \- Acoustic Version](https://open.spotify.com/track/6VRvSWhwzioeDmxZ6UuaAR) | [NONONO](https://open.spotify.com/artist/513t0jZUP0K98C4h7KHtEb) | [Dancing \(Mumbai Wedding\)](https://open.spotify.com/album/4P5IZSjC7cXqXnS0CYhNhg) | 3:37 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5Mq0JeBbIw.md) - [plain]
 | 99 | [Paradise \(with Olivia Holt\) \- Acoustic](https://open.spotify.com/track/6HJLwdHd1JJ2CkfJfPxX98) | [Brandon Beal](https://open.spotify.com/artist/7p2aOXY5bfHyjujI3fCWTu), [Olivia Holt](https://open.spotify.com/artist/188VINPQh5dyNfLUkevKqf) | [Paradise \(with Olivia Holt\) \[Acoustic\]](https://open.spotify.com/album/1yjHr8ZFLc0fZ7XhGlOnUQ) | 3:49 |
 | 100 | [Get Lost](https://open.spotify.com/track/6T5h25GMtJWOhGcObvjlHq) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [Get Lost](https://open.spotify.com/album/0xie7ofeyXxvtFqPgvnSIv) | 3:06 |
 
-Snapshot ID: `MTY2MzMyOTYwMCwwMDAwMDAwMDRlZjg4MTBmYTBmZGVlZWRhYWU4ZTA2ZGI5OTc3ZDZk`
+Snapshot ID: `MTY2MzMyOTYwMCwwMDAwMDAwMDQ2ZGFhOTcyY2U2NDZlOGQ4ODAxOGYyOGNjNmY2YzBk`

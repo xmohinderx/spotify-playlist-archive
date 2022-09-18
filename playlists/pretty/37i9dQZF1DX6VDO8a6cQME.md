@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VDO8a6cQME.md) - [plain]
 
 ### [I Love My '90s R&B](https://open.spotify.com/playlist/37i9dQZF1DX6VDO8a6cQME)
 
-> Celebrating 25 years of Usher's "My Way," Mariah Carey's "Butterfly" and Job B's "COOL RELAX." Cover: Usher
+> Celebrating 25 years of Usher's "My Way," Mariah Carey's "Butterfly" and Jon B's "COOL RELAX." Cover: Usher
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,957,939 likes - 75 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,958,895 likes - 75 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VDO8a6cQME.md) - [plain]
 | 74 | [Every Little Thing I Do](https://open.spotify.com/track/5u3rsmRYRSKJpFHXPT4p07) | [Soul For Real](https://open.spotify.com/artist/296LotOmbj7eOX7r9l46fK) | [Candy Rain](https://open.spotify.com/album/0GmC4fd7RwxsFoo5Ht4nKp) | 4:20 |
 | 75 | [Right Here \- Human Nature Radio Mix](https://open.spotify.com/track/5u3FywQOPJ5O7ZAjm31cnq) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [Right Here](https://open.spotify.com/album/5mfslBbxkZtxhSfnB2u2Gj) | 3:46 |
 
-Snapshot ID: `MTY2MzMxNTk2NiwwMDAwMDAwMGM1OTE4ZjM0YjM3NWM4MjhmM2Y0OTQwNDcwODJhZmZl`
+Snapshot ID: `MTY2MzM4ODgyNywwMDAwMDAwMGFiMmQ5OTQ2MjUwYzBlODM1NTE3ZmE1ZDM4MGI3Yjcz`

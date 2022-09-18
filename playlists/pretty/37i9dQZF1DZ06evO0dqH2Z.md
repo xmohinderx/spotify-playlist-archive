@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0dqH2Z.md) - [plain]
 
 > This is Tigers Jaw\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,859 likes - 46 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,860 likes - 46 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0dqH2Z.md) - [plain]
 | 45 | [Cannonball](https://open.spotify.com/track/1dWSrF7s0Gx6SZUe8w9Uq9) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Belongs To The Dead](https://open.spotify.com/album/2YGAcsQ6kEMiT3mpnjiPJr) | 2:43 |
 | 46 | [Stungun](https://open.spotify.com/track/7hhZGHHDvI2IYe7RQSPfQu) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Belongs To The Dead](https://open.spotify.com/album/2YGAcsQ6kEMiT3mpnjiPJr) | 3:32 |
 
-Snapshot ID: `Mjc3MjIyMzMsMDAwMDAwMDA0MTM1NzM0MTgyYzQwZjE0NmM5NmZiNTQ3Yzc5MTdiYw==`
+Snapshot ID: `Mjc3MjM2OTIsMDAwMDAwMDAxNmZhNTAyMDRmMjVjYTA0NWMwNTdjZTNiZWNiY2M3Mw==`

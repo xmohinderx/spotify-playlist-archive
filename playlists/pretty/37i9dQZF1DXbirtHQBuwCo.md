@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbirtHQBuwCo.md) - [plain]
 
 > Trendy & Chill 한국 R&B\. Be laid\-back with groovy K\-R&B\. \(Cover: SOLE\(쏠\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 799,728 likes - 70 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 799,857 likes - 70 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbirtHQBuwCo.md) - [plain]
 | 6 | [Ghosting \(Prod\. CODE KUNST\)](https://open.spotify.com/track/6r1Jwbd0UwCpuLzPG4y9Ub) | [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [Ghosting](https://open.spotify.com/album/24vtmVfDjVTxb9cCNRgheo) | 3:40 |
 | 7 | [Attention](https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:00 |
 | 8 | [Shining Love Song](https://open.spotify.com/track/0DFSFBB4faitgBed2IJ4O5) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [Shining Love Song](https://open.spotify.com/album/7n2p500IY7UeU9NlgFFeV0) | 3:11 |
-| 9 | [still beautiful](https://open.spotify.com/track/5MsPHSEHfSZnxgaJDnEdI6) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [still beautiful](https://open.spotify.com/album/6R1xUiVm1iCwZP2TQtimIn) | 3:45 |
+| 9 | [still beautiful](https://open.spotify.com/track/5WObYUq7J0E5tNOaLKeF3C) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [imagine club](https://open.spotify.com/album/1Fhu3FJHqttNA1d6e7VXxC) | 3:45 |
 | 10 | [Home \(Feat\. Kimmuseum, nov\)](https://open.spotify.com/track/3odQxisNCKjmgM2y3eQ82X) | [JOPH](https://open.spotify.com/artist/3Jn4TDQyolues3v10Ncj7D), [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V), [nov](https://open.spotify.com/artist/3gyUm6cPk4sChNCVb3fFaC) | [Shelter](https://open.spotify.com/album/1xnCeYpux132f4rBEwElc0) | 3:26 |
 | 11 | [Cookie](https://open.spotify.com/track/2DwUdMJ5uxv20EhAildreg) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:55 |
 | 12 | [내일이 되면](https://open.spotify.com/track/6PMHyBLXJft4jmxdCjgmta) | [soon](https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW) | [내일이 되면](https://open.spotify.com/album/06P2vAqOGRpEgvs1eUrIyz) | 3:40 |
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbirtHQBuwCo.md) - [plain]
 | 26 | [I'm Gonna Love You](https://open.spotify.com/track/1jxGBe4s8FwL2ZeNWszVuu) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 2:31 |
 | 27 | [Your Existence](https://open.spotify.com/track/2tmX4T7ODY34NwvQ3DD3MC) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Twenty\-Five Twenty\-One OST Part 4](https://open.spotify.com/album/2Y4nbZENK8auf4oVoQTZ0Y) | 3:24 |
 | 28 | [D \(Half Moon\)](https://open.spotify.com/track/3uA8SjMyDtwtt0jLPMQbVD) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [130 Mood : TRBL](https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU) | 3:49 |
-| 29 | [Bambi](https://open.spotify.com/track/60VaORSJ5x1D4ZPSc0g2En) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Bambi \- The 3rd Mini Album](https://open.spotify.com/album/5xOx4mWABbTj0qWyZC4q1p) | 3:33 |
+| 29 | [Peaches](https://open.spotify.com/track/237OjBs3wvamAFpHp0yItw) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Peaches \- The 2nd Mini Album](https://open.spotify.com/album/1meyTrwRpRw7RnD8aoFfj0) | 3:18 |
 | 30 | [Best Lover](https://open.spotify.com/track/0iWFz0Q5Qha9bx325ocFWq) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Head In The Clouds Forever](https://open.spotify.com/album/0LxjjZ20pPOakBSYwrmbjv) | 2:32 |
-| 31 | [Peaches](https://open.spotify.com/track/237OjBs3wvamAFpHp0yItw) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Peaches \- The 2nd Mini Album](https://open.spotify.com/album/1meyTrwRpRw7RnD8aoFfj0) | 3:18 |
+| 31 | [Bambi](https://open.spotify.com/track/60VaORSJ5x1D4ZPSc0g2En) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Bambi \- The 3rd Mini Album](https://open.spotify.com/album/5xOx4mWABbTj0qWyZC4q1p) | 3:33 |
 | 32 | [Dope Lovers](https://open.spotify.com/track/6cvbvXaRbQcuv54SjYXP86) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Moodswings in This Order](https://open.spotify.com/album/2hPHncbZRuWiCBauEUJxyA) | 3:20 |
 | 33 | [Need To Know](https://open.spotify.com/track/0CqZryIJnJhwCCnECIC7Lr) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Need To Know](https://open.spotify.com/album/4IGSbTfm3Xwmp8up7pOR3t) | 2:49 |
 | 34 | [By My Side](https://open.spotify.com/track/6nzCvAtyADh0wwZEVMoujK) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [By My Side](https://open.spotify.com/album/6RkSKePFywXU4SlO2R0nRS) | 3:26 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbirtHQBuwCo.md) - [plain]
 | 69 | [Know me](https://open.spotify.com/track/5bvVA6idKl1R38C5G4tuxC) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [Know me](https://open.spotify.com/album/4iV5wZtnTcuKrdhxb8wLVN) | 3:34 |
 | 70 | [i got you](https://open.spotify.com/track/20gAOYKYQ7aFRVRg6LvrLW) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [i got you](https://open.spotify.com/album/6yhXV3FtUQ8kDhBwhDuTKZ) | 2:12 |
 
-Snapshot ID: `MTY2MzMyMjQ1OCwwMDAwMDAwMDk1NDg4N2ViNzc4NDJkMjQ0OTdiZmI3ODBiZjY0MzI0`
+Snapshot ID: `MTY2MzMyMjQ1OCwwMDAwMDAwMDFkMDNjMzRiOTA4YTQxMTdjY2Q3OTE3ZjNlMzg2ZTY5`

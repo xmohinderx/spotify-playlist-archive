@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Koe Wetzel
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,502 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,633 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 91 | [Anymore](https://open.spotify.com/track/5DzqR9xwyVEwbhRVXes5sZ) | [William Clark Green](https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ) | [Baker Hotel](https://open.spotify.com/album/7oj9A1igjcHCBnq6SyfB75) | 4:36 |
 | 92 | [Pleasure in the Pain \(Acoustic\)](https://open.spotify.com/track/0SnkVKNi88G8lKlXala0Nu) | [Dylan Wheeler](https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87) | [Pleasure in the Pain \(Acoustic\)](https://open.spotify.com/album/0g34MxtPrMRcK6uVtNAQ99) | 3:58 |
 | 93 | [Washington Street \- Classen Sessions](https://open.spotify.com/track/4WyfXhoDYggNlRoAILAsXN) | [Josh Meloy](https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq) | [Washington Street \(Classen Sessions\)](https://open.spotify.com/album/4MMY6CA8hyRFiLsSr5TgDs) | 3:44 |
-| 94 | [God & Everybody](https://open.spotify.com/track/6n0HI4p826Zh2qUjlpNPnQ) | [Grant Gilbert](https://open.spotify.com/artist/22JGfpxVueSHqP2SIi1919) | [God & Everybody](https://open.spotify.com/album/6yj5Pq8WlbTtGpxamLq02I) | 2:54 |
-| 95 | [Beaumont](https://open.spotify.com/track/024K3TtiidXB4YBqiVEfD2) | [Parker Ryan](https://open.spotify.com/artist/6q8CPuf8PaE5fvf6WMEldG) | [Parker Ryan](https://open.spotify.com/album/4iCyyEW61JDJimz3pvU03j) | 3:59 |
-| 96 | [Dancin' With The Devil](https://open.spotify.com/track/2NZnlBkPCFaWvtEkifGZIB) | [Josh Ward](https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd) | [Dancin' With The Devil](https://open.spotify.com/album/2lyRkU6hBSaV6TciIe7kP4) | 2:58 |
+| 94 | [Dancin' With The Devil](https://open.spotify.com/track/2NZnlBkPCFaWvtEkifGZIB) | [Josh Ward](https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd) | [Dancin' With The Devil](https://open.spotify.com/album/2lyRkU6hBSaV6TciIe7kP4) | 2:58 |
+| 95 | [God & Everybody](https://open.spotify.com/track/6n0HI4p826Zh2qUjlpNPnQ) | [Grant Gilbert](https://open.spotify.com/artist/22JGfpxVueSHqP2SIi1919) | [God & Everybody](https://open.spotify.com/album/6yj5Pq8WlbTtGpxamLq02I) | 2:54 |
+| 96 | [Beaumont](https://open.spotify.com/track/024K3TtiidXB4YBqiVEfD2) | [Parker Ryan](https://open.spotify.com/artist/6q8CPuf8PaE5fvf6WMEldG) | [Parker Ryan](https://open.spotify.com/album/4iCyyEW61JDJimz3pvU03j) | 3:59 |
 | 97 | [Dancing Around The Truth](https://open.spotify.com/track/3q41hamYDHE4lcRptEfUrz) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [Unwanted Man](https://open.spotify.com/album/4o5I0LPIKI0LqNGfV88pCw) | 4:14 |
 | 98 | [Wild Horses](https://open.spotify.com/track/0fC6Zc3DJtwyH58eCXox3v) | [Kin Faux](https://open.spotify.com/artist/5bbkKY1uKarzJOS1CMsfQu) | [Honky Tonk in Heaven](https://open.spotify.com/album/2tTuVmz1S6wfK6mu07F5UP) | 2:47 |
 | 99 | [A Guitar, A Singer and A Song \(feat\. Vince Gill\)](https://open.spotify.com/track/7L3fHu03qNMVo6XS6BQfzF) | [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI), [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [A Guitar, A Singer and A Song \(feat\. Vince Gill\)](https://open.spotify.com/album/2WJBLEqI8tvjDV3ZgrHzNr) | 4:02 |
 | 100 | [Settle for a Beer \(with Triston Marez\)](https://open.spotify.com/track/115CHmW7Y3cRC0qYZyeUGM) | [Triston Marez](https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88), [Braxton Keith](https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf) | [Settle for a Beer \(with Triston Marez\)](https://open.spotify.com/album/1q249Sj18kanQdDOnbPiep) | 2:54 |
 
-Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMDVkNmQzOTM4NWNmYmFmOTQ0OTMwYWZjYWM1NDhiNWNl`
+Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMGM0ZjU4OTNlNjFiNGJkODE3YmI5NGJmMzYyMTBmMDQy`

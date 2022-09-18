@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpaEv4bXhFx.md) - [plain]
 
 > 빗방울대신 감성을 맞는 시간.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,264 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,310 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpaEv4bXhFx.md) - [plain]
 | 37 | [Still Wonder](https://open.spotify.com/track/1hD35Fj6NBNm2CEOn3QLCE) | [Ha Hyunsang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [You Are My Spring OST Part 3](https://open.spotify.com/album/3XRvOMIh5LEfdSu1q69U96) | 2:41 |
 | 38 | [I Don’t Lie \(Feat\. GIRIBOY\)](https://open.spotify.com/track/0Px7nsZhwF6qtebbZZHlyE) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 3:36 |
 | 39 | [ddu ddu ddu](https://open.spotify.com/track/6WfW2xPw3X5FiJPQWkaXoN) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [6equence](https://open.spotify.com/album/0SXzCRUFSNGBG1S1lqvzb1) | 3:32 |
-| 40 | [Melody](https://open.spotify.com/track/6bOHDFOz1MIuXe1wl1rLfk) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [Melody \(Gongzza X Whee In\)](https://open.spotify.com/album/0wcXas1o5ff06GoRW5Cwr4) | 3:54 |
-| 41 | [A Call from My Dream](https://open.spotify.com/track/23YwgEnMllsZl0POeWiOzR) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [A Call from My Dream](https://open.spotify.com/album/7cuRyJgRk1NfHrCNv5tM3M) | 4:15 |
+| 40 | [A Call from My Dream](https://open.spotify.com/track/23YwgEnMllsZl0POeWiOzR) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [A Call from My Dream](https://open.spotify.com/album/7cuRyJgRk1NfHrCNv5tM3M) | 4:15 |
+| 41 | [Melody](https://open.spotify.com/track/6bOHDFOz1MIuXe1wl1rLfk) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [Melody \(Gongzza X Whee In\)](https://open.spotify.com/album/0wcXas1o5ff06GoRW5Cwr4) | 3:54 |
 | 42 | [Fall in Love Again](https://open.spotify.com/track/3HjKfAEeG40jBKIuUlJlGK) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [Fall in Love Again](https://open.spotify.com/album/6udqW4k67GIeTy0M7alLZX) | 3:38 |
 | 43 | [babyblue](https://open.spotify.com/track/0n4dgPfvfdqrt2LwDytMrD) | [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi) | [babyblue](https://open.spotify.com/album/76GB3RzVtNrBANCl9Cici4) | 3:48 |
 | 44 | [Not Bad \(feat\. Dawon\)](https://open.spotify.com/track/2NQJBaeX4YuZlQveSIRIyT) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Dawon](https://open.spotify.com/artist/5RyoIdplIHsPM1UXcFtIpa) | [New Edition 41](https://open.spotify.com/album/3JhDyQCniCuttwqA9eFtUs) | 3:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpaEv4bXhFx.md) - [plain]
 | 49 | [Lost Way](https://open.spotify.com/track/19h2GgTMiwp0pkcZoB0cZr) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [Lost Way \(Good Doctor X Gaho\)](https://open.spotify.com/album/6dAFSut5NhJhMJcTyHzYEL) | 3:04 |
 | 50 | [Our Forgiveness](https://open.spotify.com/track/6xVlRWDlQDna2yVCwOPE30) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Our Forgiveness](https://open.spotify.com/album/1K8aYJrq8a8WiwNniSuzrw) | 3:19 |
 
-Snapshot ID: `MTY2MjM5MzM3MywwMDAwMDAwMDVhMTY5MzlmZjQxMjc1ZDMyMWZhNjc5M2E0MDFkNWU1`
+Snapshot ID: `MTY2MjM5MzM3MywwMDAwMDAwMGEwOGNkZjc0YzJlMzQ2MTBhNjQwNjA1ODY2ZWJhZGUz`

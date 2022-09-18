@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 
 > Unas buenas cumbias con el calor de la gente! <br/>Foto: Pablo Lescano & El Mago.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,545 likes - 64 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,600 likes - 64 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

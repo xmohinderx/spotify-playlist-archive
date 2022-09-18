@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2i24iHGhL24.md) - [plain]
 
 > Reimagined pop covers of your favorite songs\.  Cover: Sasha Alex Sloan
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,911 likes - 194 songs - 11 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,010 likes - 194 songs - 11 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -138,8 +138,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2i24iHGhL24.md) - [plain]
 | 128 | [Chandelier](https://open.spotify.com/track/7F2tZGMRkcEyGYY8Xee7xz) | [Jennel Garcia](https://open.spotify.com/artist/1Ff1cuzx8IrADaKnclXscN) | [Chandelier](https://open.spotify.com/album/7qQyLTKV67RGg6TmY8vyit) | 3:42 |
 | 129 | [Teenage Dream](https://open.spotify.com/track/01I5I4ykvMQwplZIkO4SxX) | [VÉRITÉ](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) | [Teenage Dream](https://open.spotify.com/album/4sZ5bTIQJec8eqKBMEPPEL) | 4:35 |
 | 130 | [Don't Speak \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/0gzMEfErGPaCFbQJdb2HQb) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Spotify Singles](https://open.spotify.com/album/0tUnCfqBLeZlivAkbxvbib) | 4:21 |
-| 131 | [Baby, I Love Your Way](https://open.spotify.com/track/3baZNMeoFa4vTZ3SZK71xD) | [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [Soft Pop Hits](https://open.spotify.com/album/1UQTvOQdqokFFcRDUGYvXX) | 3:02 |
-| 132 | [I’m With You](https://open.spotify.com/track/4UiBMxmXRip1Er6xILD5Im) | [Moncrieff](https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC) | [I’m With You](https://open.spotify.com/album/0lsB68u7qrrQLhYej5JD07) | 3:55 |
+| 131 | [I’m With You](https://open.spotify.com/track/4UiBMxmXRip1Er6xILD5Im) | [Moncrieff](https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC) | [I’m With You](https://open.spotify.com/album/0lsB68u7qrrQLhYej5JD07) | 3:55 |
+| 132 | [Baby, I Love Your Way](https://open.spotify.com/track/3baZNMeoFa4vTZ3SZK71xD) | [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [Soft Pop Hits](https://open.spotify.com/album/1UQTvOQdqokFFcRDUGYvXX) | 3:02 |
 | 133 | [Chiquitita](https://open.spotify.com/track/5UkFTPgZ9ggQijLh1CbSrF) | [Kate McGill](https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d) | [Chiquitita](https://open.spotify.com/album/0nWjKAEvqrQGbk9U2MzeHo) | 4:59 |
 | 134 | [Into You](https://open.spotify.com/track/0mzTvUqyQuXJ3J9KuVNFah) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF) | [Into You](https://open.spotify.com/album/4gzNs2NUQpmboWO7CTbHGM) | 4:46 |
 | 135 | [luckie](https://open.spotify.com/track/6bgEBtFnH3qRY2Jprc8OSY) | [tiLLie](https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN) | [luckie](https://open.spotify.com/album/1XkHOCaHI4fqbB3tQ5nroU) | 2:54 |
@@ -203,4 +203,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2i24iHGhL24.md) - [plain]
 | 193 | [Stay \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3kSIXQW05MKcprFP1RtwWX) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Spotify Singles](https://open.spotify.com/album/1DwD96qkcmYfDAor27Gj38) | 4:04 |
 | 194 | [Graveyard](https://open.spotify.com/track/27yOQlX52G98v1uHMG61rP) | [Taylor Janzen](https://open.spotify.com/artist/3rTVTBOBT7NPgXtI5oWyxc) | [Graveyard](https://open.spotify.com/album/3Ce5MleqfeY7zMThXdxuZc) | 3:18 |
 
-Snapshot ID: `MTY2MTQ4NjQ2MCwwMDAwMDAwMDFhZWEyMzAxMGI4N2QwMTNiYjQxMTdkYjRmOWNmYzYy`
+Snapshot ID: `MTY2MTQ4NjQ2MCwwMDAwMDAwMGQzZmYzMjMyN2I1ZjQ1YzIyNjY4ZWUzYTRiYzEyZjBl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8zwfXO8sDE6.md) - [plain]
 
 > Discover the amazing world of Japanese City Pop from the ‘70s./ ニューミュージックとも一線を画す、都会的で洗練された音楽＝シティポップ の誕生。黎明期の輝きは永遠に。
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,685 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,733 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8zwfXO8sDE6.md) - [plain]
 | 3 | [Tokai](https://open.spotify.com/track/1SmwJJ8YVgiXtyE6elhUx1) | [Taeko Onuki](https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy) | [SUNSHOWER](https://open.spotify.com/album/53YDN7b4vQ5MLMSPcnh9Os) | 5:10 |
 | 4 | [中央フリーウェイ](https://open.spotify.com/track/0zqwz1o4l4ltQUxgjyU4oa) | [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [14番目の月](https://open.spotify.com/album/28VkIuu7LxHzMtfxkx4URs) | 3:39 |
 | 5 | [恋は流星](https://open.spotify.com/track/2NGWAXh6sisNpVHIAAlME0) | [Minako Yoshida](https://open.spotify.com/artist/5vYmBw71RC0kABACDCq4Zi) | [TWILIGHT ZONE](https://open.spotify.com/album/30f2PMk23fjPP9oBAILqGo) | 6:47 |
-| 6 | [SUMMER BLUE](https://open.spotify.com/track/4Ad4HmvkDvFZ5eYaxQcTKh) | [Bread And Butter](https://open.spotify.com/artist/3OldswvDMARe1uWLYSrdEz) | [Late Late Summer](https://open.spotify.com/album/7mmAMvs6tZsPhgXyDmSYEz) | 3:59 |
-| 7 | [September](https://open.spotify.com/track/7BuxfPbJjtI8juuM3h18yA) | [Mariya Takeuchi](https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N) | [Expressions](https://open.spotify.com/album/2idSqgKijGXG5aisjk7Zn1) | 4:32 |
+| 6 | [September](https://open.spotify.com/track/7BuxfPbJjtI8juuM3h18yA) | [Mariya Takeuchi](https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N) | [Expressions](https://open.spotify.com/album/2idSqgKijGXG5aisjk7Zn1) | 4:32 |
+| 7 | [SUMMER BLUE](https://open.spotify.com/track/4Ad4HmvkDvFZ5eYaxQcTKh) | [Bread And Butter](https://open.spotify.com/artist/3OldswvDMARe1uWLYSrdEz) | [Late Late Summer](https://open.spotify.com/album/7mmAMvs6tZsPhgXyDmSYEz) | 3:59 |
 | 8 | [Ai wa Energy](https://open.spotify.com/track/0MuZbj977Ud5aqmJXaBgf2) | [Miki Matsubara](https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1) | [Miki Matsubara Best Collection](https://open.spotify.com/album/1ANaxJNBcbOvvycNL4MCL5) | 3:38 |
 | 9 | [クリスタル・シティー](https://open.spotify.com/track/24yeqyHA3EW35CKpyeE4uR) | [Junko Ohashi](https://open.spotify.com/artist/7rGbODPTIVjzn3CTR6RCzE), [美乃家セントラルステイション](https://open.spotify.com/artist/6zuN0CN7nUe6I5dDXQQLD2) | [ゴールデン☆ベスト 大橋純子 シングルス](https://open.spotify.com/album/7xZbqNj6i60dJENaliMEOR) | 3:46 |
 | 10 | [心のままに](https://open.spotify.com/track/3cFDlM8SZQ1qcjbaJ8hGcH) | [朝比奈 マリア](https://open.spotify.com/artist/0Fo7zlHoM0WX4PP2GbipxM) | [MARIA](https://open.spotify.com/album/6yiuP8vYVD7SmBLDFzP8sm) | 3:49 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8zwfXO8sDE6.md) - [plain]
 | 41 | [レインボー・シー・ライン](https://open.spotify.com/track/3o5gsI6dHV01KzGQrFzp9d) | [Minako Yoshida](https://open.spotify.com/artist/5vYmBw71RC0kABACDCq4Zi) | [MINAKO](https://open.spotify.com/album/2c8zqoBf7oFJWKFqSbEjn8) | 3:57 |
 | 42 | [てぃーんず ぶるーす](https://open.spotify.com/track/2yz2pO5xGSfOetZUX8y6u7) | [Shinji Harada](https://open.spotify.com/artist/5Lo7ke2VQqfAyNhWGBg2t1) | [Feel Happy 2007 \~Debut 30th Anniversary\~](https://open.spotify.com/album/6bGCv2abpf9hLDrHrZ7wzB) | 3:47 |
 | 43 | [流星都市](https://open.spotify.com/track/4FR0ZqOwoQY6FG7AjKPiJ7) | [Chu Kosaka](https://open.spotify.com/artist/4czBLtKKNzTc6E4cXDYJuA) | [HORO](https://open.spotify.com/album/0ccEpDpYPXeXtjaI2UKNd4) | 3:53 |
-| 44 | [HEART to HEART](https://open.spotify.com/track/7dWNiL1K3nzwGG2kwDK5KD) | [Raji](https://open.spotify.com/artist/6BIhMqvFyj8nYQrk6EmE0Y) | [Heart To Heart](https://open.spotify.com/album/2cmdWStrRQbd4qLIhn4HJr) | 4:48 |
-| 45 | [この軽い感じが…](https://open.spotify.com/track/2xVHIeH1pLMuaxpeh0p8HE) | [今井裕](https://open.spotify.com/artist/59WiVENvpz9lEcEZN5MzyF) | [A COOL EVENING](https://open.spotify.com/album/3KKRt1QoS69x2mTuuY24l3) | 6:07 |
+| 44 | [この軽い感じが…](https://open.spotify.com/track/2xVHIeH1pLMuaxpeh0p8HE) | [今井裕](https://open.spotify.com/artist/59WiVENvpz9lEcEZN5MzyF) | [A COOL EVENING](https://open.spotify.com/album/3KKRt1QoS69x2mTuuY24l3) | 6:07 |
+| 45 | [HEART to HEART](https://open.spotify.com/track/7dWNiL1K3nzwGG2kwDK5KD) | [Raji](https://open.spotify.com/artist/6BIhMqvFyj8nYQrk6EmE0Y) | [Heart To Heart](https://open.spotify.com/album/2cmdWStrRQbd4qLIhn4HJr) | 4:48 |
 | 46 | [マイ・ピュア・レディ](https://open.spotify.com/track/3Aq7x3kFdJQJMFk22k16WF) | [Ami Ozaki](https://open.spotify.com/artist/0BPn2k0BoBN6XceavMVCTj) | [Amii \- versary \(東芝EMI編\)](https://open.spotify.com/album/3qdqOLfYO9ghyK6oeDntJg) | 3:17 |
 | 47 | [シンプル・ラブ](https://open.spotify.com/track/75NJAsvUCSHjNYSw0qRT42) | [Junko Ohashi & Minoya Central Station](https://open.spotify.com/artist/3RZbbIjngtULxQCp3wZrrM) | [RAINBOW](https://open.spotify.com/album/465AMZHqKJo1GbIptNitEE) | 3:47 |
 | 48 | [プールサイド](https://open.spotify.com/track/5U0zDcUHmA86AFDP8hc1pX) | [Yoshitaka Minami](https://open.spotify.com/artist/5dS698oTdel4MldPvYoj7p) | [SOUTH OF THE BORDER](https://open.spotify.com/album/7c23gn3fBcWYojzvB5wBp1) | 3:54 |
 | 49 | [Summer Place Summer Love](https://open.spotify.com/track/1Mqfk8wV5oYIAM5INwzyAw) | [Yuko Kanai](https://open.spotify.com/artist/6VdzbVLd8ck1HPPpBBMvo0) | [Invitation](https://open.spotify.com/album/2p949a5Bvx5mrcWYGpiVKp) | 4:37 |
 | 50 | [タバコロード 20](https://open.spotify.com/track/4RElLCLpSglu5Q3GmoSEMY) | [Bread And Butter](https://open.spotify.com/artist/3OldswvDMARe1uWLYSrdEz) | [Late Late Summer](https://open.spotify.com/album/7mmAMvs6tZsPhgXyDmSYEz) | 4:16 |
 
-Snapshot ID: `MTYyOTU3NDUxNCwwMDAwMDAwMDMwYWQ1MzBhNjExYWU2NGYxYjdlNGQzM2RkMjMzMjRj`
+Snapshot ID: `MTYyOTU3NDUxNCwwMDAwMDAwMGU4ZWMxZDhmZmE2MzdjZTliMGEzNjUxMTA4MTlmMjY4`

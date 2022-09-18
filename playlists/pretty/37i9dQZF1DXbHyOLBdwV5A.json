@@ -1,12 +1,12 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar. Foto: DJ Roger Vale, Brunno Ramos",
-  "num_followers": 87043,
+  "num_followers": 87089,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjEyOTU4MywwMDAwMDAwMDhkNmE3ZGViYjgwMjMzYzVlN2NjMGNjMTAxNmMwNTY2",
+  "snapshot_id": "MTY2MjEyOTU4MywwMDAwMDAwMDM1NzBmZjE1MzAxZjkwNWI3N2U2ZDU1MTFmZjJiZTc4",
   "tracks": [
     {
       "added_at": "2022-09-02 14:39:43",
@@ -283,26 +283,6 @@
     {
       "added_at": "2022-09-02 14:39:43",
       "album": {
-        "name": "Tu \u00c9s Deus (Remix)",
-        "url": "https://open.spotify.com/album/5U0fbJImCZcypSvguz9twm"
-      },
-      "artists": [
-        {
-          "name": "Filipe Lancaster",
-          "url": "https://open.spotify.com/artist/5ue1WcGZ9D5B9FcmBe7Juw"
-        },
-        {
-          "name": "DJ Marcos Andre",
-          "url": "https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "Tu \u00c9s Deus - Remix",
-      "url": "https://open.spotify.com/track/1C77izjMS0dzbdYlOGpu2l"
-    },
-    {
-      "added_at": "2022-09-02 14:39:43",
-      "album": {
         "name": "Vivo Est\u00e1s (feat. Val\u00e9ria Amanaj\u00e1z)",
         "url": "https://open.spotify.com/album/7uOOb6I4j5v2J65kWjRrKS"
       },
@@ -319,6 +299,26 @@
       "duration_ms": 160818,
       "name": "Vivo Est\u00e1s (feat. Val\u00e9ria Amanaj\u00e1z)",
       "url": "https://open.spotify.com/track/61PHeyXdbZnXkd1oKkrdQL"
+    },
+    {
+      "added_at": "2022-09-02 14:39:43",
+      "album": {
+        "name": "Tu \u00c9s Deus (Remix)",
+        "url": "https://open.spotify.com/album/5U0fbJImCZcypSvguz9twm"
+      },
+      "artists": [
+        {
+          "name": "Filipe Lancaster",
+          "url": "https://open.spotify.com/artist/5ue1WcGZ9D5B9FcmBe7Juw"
+        },
+        {
+          "name": "DJ Marcos Andre",
+          "url": "https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "Tu \u00c9s Deus - Remix",
+      "url": "https://open.spotify.com/track/1C77izjMS0dzbdYlOGpu2l"
     },
     {
       "added_at": "2022-09-02 14:39:43",
@@ -451,30 +451,6 @@
     {
       "added_at": "2022-09-02 14:39:43",
       "album": {
-        "name": "Eternidade",
-        "url": "https://open.spotify.com/album/3VXvcYeT5yPs9NwLEnHsB7"
-      },
-      "artists": [
-        {
-          "name": "DJ Natan Flexa",
-          "url": "https://open.spotify.com/artist/4CVVXyVP5HuEtualzCId34"
-        },
-        {
-          "name": "DJ PV",
-          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
-        },
-        {
-          "name": "Rebeca Carvalho",
-          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
-        }
-      ],
-      "duration_ms": 221269,
-      "name": "Eternidade",
-      "url": "https://open.spotify.com/track/7yTtiCrDPcmA1NUoIYlk4z"
-    },
-    {
-      "added_at": "2022-09-02 14:39:43",
-      "album": {
         "name": "Eu Confio Em Ti (Remix)",
         "url": "https://open.spotify.com/album/21VyZUFN7Epq1Xo1j8FChN"
       },
@@ -495,6 +471,30 @@
       "duration_ms": 235468,
       "name": "Eu Confio Em Ti - Remix",
       "url": "https://open.spotify.com/track/6hEX6wvD3uMUHxAOifSKn1"
+    },
+    {
+      "added_at": "2022-09-02 14:39:43",
+      "album": {
+        "name": "Eternidade",
+        "url": "https://open.spotify.com/album/3VXvcYeT5yPs9NwLEnHsB7"
+      },
+      "artists": [
+        {
+          "name": "DJ Natan Flexa",
+          "url": "https://open.spotify.com/artist/4CVVXyVP5HuEtualzCId34"
+        },
+        {
+          "name": "DJ PV",
+          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
+        },
+        {
+          "name": "Rebeca Carvalho",
+          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
+        }
+      ],
+      "duration_ms": 221269,
+      "name": "Eternidade",
+      "url": "https://open.spotify.com/track/7yTtiCrDPcmA1NUoIYlk4z"
     },
     {
       "added_at": "2022-09-02 14:39:43",
@@ -1191,6 +1191,26 @@
     {
       "added_at": "2022-09-02 14:39:43",
       "album": {
+        "name": "O Seu Amor \u00c9 (Remix)",
+        "url": "https://open.spotify.com/album/1OBk6ijpYUJliwkNN9lEvw"
+      },
+      "artists": [
+        {
+          "name": "Dj Lucas Ninja",
+          "url": "https://open.spotify.com/artist/6RRBLrk8E6TfoOvqD1OODq"
+        },
+        {
+          "name": "Benito Vitorette",
+          "url": "https://open.spotify.com/artist/19eFC9b8d3JQ5sbYMLkY7v"
+        }
+      ],
+      "duration_ms": 172380,
+      "name": "O Seu Amor \u00c9 - Remix",
+      "url": "https://open.spotify.com/track/6bmrwAPWOXz8m8NTqA0tpD"
+    },
+    {
+      "added_at": "2022-09-02 14:39:43",
+      "album": {
         "name": "Celebrarei (Remix)",
         "url": "https://open.spotify.com/album/0gk7skSRIQTipFBwt2OVYe"
       },
@@ -1211,26 +1231,6 @@
       "duration_ms": 237627,
       "name": "Celebrarei - Remix",
       "url": "https://open.spotify.com/track/6zUlwL3hbCddtQgH4095DC"
-    },
-    {
-      "added_at": "2022-09-02 14:39:43",
-      "album": {
-        "name": "O Seu Amor \u00c9 (Remix)",
-        "url": "https://open.spotify.com/album/1OBk6ijpYUJliwkNN9lEvw"
-      },
-      "artists": [
-        {
-          "name": "Dj Lucas Ninja",
-          "url": "https://open.spotify.com/artist/6RRBLrk8E6TfoOvqD1OODq"
-        },
-        {
-          "name": "Benito Vitorette",
-          "url": "https://open.spotify.com/artist/19eFC9b8d3JQ5sbYMLkY7v"
-        }
-      ],
-      "duration_ms": 172380,
-      "name": "O Seu Amor \u00c9 - Remix",
-      "url": "https://open.spotify.com/track/6bmrwAPWOXz8m8NTqA0tpD"
     },
     {
       "added_at": "2022-09-02 14:39:43",

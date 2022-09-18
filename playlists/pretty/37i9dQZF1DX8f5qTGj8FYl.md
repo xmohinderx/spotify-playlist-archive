@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 
 > When the funk is just too funky for words to keep up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,518 likes - 80 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,624 likes - 80 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 | 26 | [Saturn](https://open.spotify.com/track/19pDIVteJMebeU3KrB7rYR) | [The Olympians](https://open.spotify.com/artist/0ZPqGxW2iwZz7vGJWzuTUi) | [The Olympians](https://open.spotify.com/album/4XipjE8vNOXj7Xc9FlD962) | 3:37 |
 | 27 | [Assassin](https://open.spotify.com/track/6VO9i1n879SKNqjZkzaPvB) | [The Fearless Flyers](https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh) | [Tailwinds](https://open.spotify.com/album/6qPLq4JNIUi0BEj1OHwEkg) | 3:13 |
 | 28 | [Hot Chicken](https://open.spotify.com/track/1uy8jY4k6SmI2Zr6fwbldQ) | [DLG 3](https://open.spotify.com/artist/2aibOlbkbZ3Wzu9pw7uT1I) | [Hot Chicken](https://open.spotify.com/album/5D7hc9k3V0WKdU754REsIk) | 4:01 |
-| 29 | [Blaze](https://open.spotify.com/track/1cFgKdRa1Zir3fVQgfTIwH) | [Lettuce](https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8) | [Resonate](https://open.spotify.com/album/32wdlbMm4TWfi75n9qW1rs) | 6:21 |
+| 29 | [Dallas](https://open.spotify.com/track/2HYk4Wh5L4MiZ6s6myy4bI) | [L'éclair](https://open.spotify.com/artist/7iKleRyjLc8sVDN551vyiX) | [Dallas](https://open.spotify.com/album/5vH49ZbRg8Y8Yq52r7RiFg) | 3:34 |
 | 30 | [Basilisk](https://open.spotify.com/track/5YqSp1vrRmTotscUvqIn3u) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE) | [Basilisk](https://open.spotify.com/album/6qeN6Ub19GsiAr9HnQtt6H) | 4:29 |
-| 31 | [Dallas](https://open.spotify.com/track/2HYk4Wh5L4MiZ6s6myy4bI) | [L'éclair](https://open.spotify.com/artist/7iKleRyjLc8sVDN551vyiX) | [Dallas](https://open.spotify.com/album/5vH49ZbRg8Y8Yq52r7RiFg) | 3:34 |
+| 31 | [Blaze](https://open.spotify.com/track/1cFgKdRa1Zir3fVQgfTIwH) | [Lettuce](https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8) | [Resonate](https://open.spotify.com/album/32wdlbMm4TWfi75n9qW1rs) | 6:21 |
 | 32 | [Down Frenchmen St](https://open.spotify.com/track/7ofSPPgO1q41e6qTdL29U8) | [The Filthy Six](https://open.spotify.com/artist/1AiQK5vJEjhf6pFcWs5nWp) | [The Fox](https://open.spotify.com/album/6jNDtYJlpZtqjEqc0a3I9J) | 5:57 |
 | 33 | [Rubberneck](https://open.spotify.com/track/4LplKZlHqBnibK932aTxKc) | [Speedometer](https://open.spotify.com/artist/20ztaBo1Ap1UXnF0HpOX44) | [The Shakedown](https://open.spotify.com/album/6wKstFXknq7quU5pgIwZOr) | 3:21 |
 | 34 | [Fried Soul](https://open.spotify.com/track/5ur3UjZLVElyCs5TokjfCd) | [Delvon Lamarr Organ Trio](https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8) | [Fried Soul](https://open.spotify.com/album/77jIlQfM7IPgXdxEXaDm9O) | 3:36 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 | 65 | [Couple A Brownies](https://open.spotify.com/track/6MPy26h9zPjTYRGV9sYXQO) | [Soul Jazz Express](https://open.spotify.com/artist/477IJP2IAlgmpJL0Bc8gXh) | [Soul Jazz Express](https://open.spotify.com/album/7uPIvk4yyavHHaz2HfZqXk) | 5:17 |
 | 66 | [West Coast Jam](https://open.spotify.com/track/5kg9Jl18Z3XjTYznMtFUED) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Summer Madness](https://open.spotify.com/album/7Ax03GJGYiUOrhiq9M2vjt) | 3:58 |
 | 67 | [Assassin \- The Paisley Park Session](https://open.spotify.com/track/00iZlOpfLr21eTSl0Ba3hn) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [Assassin \(The Paisley Park Session\)](https://open.spotify.com/album/4sj2In3VzdEOey1GlGlVhl) | 3:22 |
-| 68 | [Chili Wa Man](https://open.spotify.com/track/73wTZTmfSWoUbTk6daCj4S) | [John Tropea](https://open.spotify.com/artist/0WPM7cWlRjCwho6G09x2S2) | [Gotcha Rhythm Right Here](https://open.spotify.com/album/5Ru54rs8Wr4ojekCyKHsz0) | 5:52 |
-| 69 | [Bambu](https://open.spotify.com/track/2zMTauBe9guPMWLTbG1pAH) | [Chris Hazelton's Boogaloo 7](https://open.spotify.com/artist/74IYxnwsZ1xNeGIDDujtWr) | [The Basement Beat](https://open.spotify.com/album/3JrhYYG6NXmVmLQ2mH8zaB) | 7:50 |
+| 68 | [Bambu](https://open.spotify.com/track/2zMTauBe9guPMWLTbG1pAH) | [Chris Hazelton's Boogaloo 7](https://open.spotify.com/artist/74IYxnwsZ1xNeGIDDujtWr) | [The Basement Beat](https://open.spotify.com/album/3JrhYYG6NXmVmLQ2mH8zaB) | 7:50 |
+| 69 | [Chili Wa Man](https://open.spotify.com/track/73wTZTmfSWoUbTk6daCj4S) | [John Tropea](https://open.spotify.com/artist/0WPM7cWlRjCwho6G09x2S2) | [Gotcha Rhythm Right Here](https://open.spotify.com/album/5Ru54rs8Wr4ojekCyKHsz0) | 5:52 |
 | 70 | [Bunny Hop](https://open.spotify.com/track/07ma7BgUd9SUyOWSkpQCLp) | [The CB3](https://open.spotify.com/artist/3z9nMmCLIxruNbcL4Iddsl) | [Bunny Hop!](https://open.spotify.com/album/2eZaBE4GDDdOgZH8210Nts) | 5:02 |
 | 71 | [Keb's Bucket](https://open.spotify.com/track/43eTrnAbpvPedfm5pYvpb8) | [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj) | [Baked, Broiled & Fried](https://open.spotify.com/album/5TB3O4gATp2KZ9R65dsDuN) | 3:30 |
 | 72 | [First Impression](https://open.spotify.com/track/4RPt0Kh6elRr1UCdlyU4qn) | [True Loves](https://open.spotify.com/artist/1IlKHxSbOJDx10sotxhk4Z) | [Sunday Afternoon](https://open.spotify.com/album/2GEg0F8CDPyC2lLSWIN5Xy) | 4:12 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 | 79 | [Funkedemia](https://open.spotify.com/track/3Y4OuMnrh3An9tpxGWtd0z) | [Mac James](https://open.spotify.com/artist/2lV3UEHZZ7gYzj5Iv0NLJ3) | [Funkedemia](https://open.spotify.com/album/7HKRAGoXo7IWvMhkpT6NMb) | 2:13 |
 | 80 | [Sir Somebody](https://open.spotify.com/track/7aHHRCZdz4ZW9tCN3nX5uv) | [Family Company](https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0) | [Sir Somebody](https://open.spotify.com/album/4SQDM8myIkEa4MDA5hz5fH) | 4:02 |
 
-Snapshot ID: `MTY2MjA5MTMyMCwwMDAwMDAwMDczNzRlYzFlZjU5MTEzM2NhY2E0YWRhMjQxNTg4MTA0`
+Snapshot ID: `MTY2MjA5MTMyMCwwMDAwMDAwMGNiMGUwYzBjZDBiNWViMzUyNDc1ODFjNTA5NWM1YjRm`

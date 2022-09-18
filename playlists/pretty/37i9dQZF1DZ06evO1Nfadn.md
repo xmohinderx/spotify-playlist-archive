@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Nfadn.md) - [plain]
 
 > This is Banda Maguey\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,760 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,775 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,17 +29,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Nfadn.md) - [plain]
 | 19 | [Vamos a Bailar](https://open.spotify.com/track/4z1epl2x7FM0r7ImLr2Lq7) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella de Los Bailes](https://open.spotify.com/album/5olkVTeTitf7wFn0xpvzaU) | 2:50 |
 | 20 | [Cuánto Te Quiero](https://open.spotify.com/track/2y58KLpoSRCHHR1053NO9E) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tesoros de Colección](https://open.spotify.com/album/4q62DxnJ4jXxBybGvBjWuD) | 3:09 |
 | 21 | [Madrecita Querida](https://open.spotify.com/track/4un4Y5oRumyvaUZHcXXvXd) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Los 15 Para Coleccionar](https://open.spotify.com/album/7zIzOXpkzHVsNNSXRnpTOA) | 2:40 |
-| 22 | [Para Que No Me Olvides](https://open.spotify.com/track/7Lb2R3yGVlHH12OwbejcZN) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Para Que No Me Olvides](https://open.spotify.com/album/2I1Gl3XePqBREJ3iLNm7lf) | 3:11 |
+| 22 | [Niño Travieso](https://open.spotify.com/track/3Tnap1wm45mf3rAtUUJzV1) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tu Eterno Enamorado](https://open.spotify.com/album/1yVWFex6NKNjEpYzwbKkui) | 3:09 |
 | 23 | [Estare Contigo](https://open.spotify.com/track/6WIMzW10yHaUBVr262fcAH) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella de Los Bailes](https://open.spotify.com/album/5olkVTeTitf7wFn0xpvzaU) | 3:52 |
-| 24 | [El Condor Pasa](https://open.spotify.com/track/0aH1klQ4aifWvH8hV9MrZX) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [El Condor Pasa](https://open.spotify.com/album/2OShSLIWQPvBdO67UsCDiR) | 2:49 |
+| 24 | [Para Que No Me Olvides](https://open.spotify.com/track/7Lb2R3yGVlHH12OwbejcZN) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Para Que No Me Olvides](https://open.spotify.com/album/2I1Gl3XePqBREJ3iLNm7lf) | 3:11 |
 | 25 | [Ay Amigo](https://open.spotify.com/track/6NQSh4mdFDkukgwFfhlbfY) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Los 15 Para Coleccionar](https://open.spotify.com/album/7zIzOXpkzHVsNNSXRnpTOA) | 2:28 |
-| 26 | [Qué Bonito Amor](https://open.spotify.com/track/4IoTn7jGNkhZyfH2oLuU0I) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Escorpion](https://open.spotify.com/album/5e7wv748rJffgylHrbQR6L) | 2:38 |
-| 27 | [No Vales la Pena \- Live Version](https://open.spotify.com/track/4bBpVAW8b2bwgtng5Bx0nS) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Exitos En Vivo](https://open.spotify.com/album/7GxLafMEpqfNA8mz8ojHbF) | 3:05 |
-| 28 | [Niño Travieso](https://open.spotify.com/track/3Tnap1wm45mf3rAtUUJzV1) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tu Eterno Enamorado](https://open.spotify.com/album/1yVWFex6NKNjEpYzwbKkui) | 3:09 |
+| 26 | [El Condor Pasa](https://open.spotify.com/track/0aH1klQ4aifWvH8hV9MrZX) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [El Condor Pasa](https://open.spotify.com/album/2OShSLIWQPvBdO67UsCDiR) | 2:49 |
+| 27 | [Qué Bonito Amor](https://open.spotify.com/track/4IoTn7jGNkhZyfH2oLuU0I) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Escorpion](https://open.spotify.com/album/5e7wv748rJffgylHrbQR6L) | 2:38 |
+| 28 | [No Vales la Pena \- Live Version](https://open.spotify.com/track/4bBpVAW8b2bwgtng5Bx0nS) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Exitos En Vivo](https://open.spotify.com/album/7GxLafMEpqfNA8mz8ojHbF) | 3:05 |
 | 29 | [Jacinto Pérez De La O](https://open.spotify.com/track/5ZltgKoPzE2AKQQq8EeG0q) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Los 15 Para Coleccionar](https://open.spotify.com/album/7zIzOXpkzHVsNNSXRnpTOA) | 3:06 |
 | 30 | [La Prendita](https://open.spotify.com/track/1QTZrB89xhOmqxXRnJLweE) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Lo Que Son las Cosas](https://open.spotify.com/album/1ems7HK5yY95MtyNCDKKDi) | 3:06 |
-| 31 | [Te Ves Buena](https://open.spotify.com/track/7GYLRVnCB9p58tEixmOqEy) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Exitos En Radio](https://open.spotify.com/album/3xuKMzzujppsqEvxFVgmEX) | 2:20 |
-| 32 | [El Toca Toca](https://open.spotify.com/track/48eyqkxVkl5nKOdHp5WIxv) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [A Corazón Abierto](https://open.spotify.com/album/40pLKjuTNiEgIiUeaXQ2Lk) | 2:46 |
+| 31 | [El Toca Toca](https://open.spotify.com/track/48eyqkxVkl5nKOdHp5WIxv) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [A Corazón Abierto](https://open.spotify.com/album/40pLKjuTNiEgIiUeaXQ2Lk) | 2:46 |
+| 32 | [Te Ves Buena](https://open.spotify.com/track/7GYLRVnCB9p58tEixmOqEy) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Exitos En Radio](https://open.spotify.com/album/3xuKMzzujppsqEvxFVgmEX) | 2:20 |
 | 33 | [Dulce Veneno](https://open.spotify.com/track/2T6qeMzVsysTRD3dDpPxcI) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Los 15 Para Coleccionar](https://open.spotify.com/album/7zIzOXpkzHVsNNSXRnpTOA) | 3:42 |
 | 34 | [Como Chapulin](https://open.spotify.com/track/2i63GltjvYmpj8hGioLfN5) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tumbando Caña](https://open.spotify.com/album/7Ja4lDuleKTZV67LuqlGA5) | 2:34 |
 | 35 | [Pa Que Sientas Lo Que Siento](https://open.spotify.com/track/780DuUv8gplMFVTRe5Q9Tp) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Pa Que Veas Lo Que Se Siente](https://open.spotify.com/album/1GxBZ4J8MGYc2aPocy0Lcg) | 3:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Nfadn.md) - [plain]
 | 49 | [Corazon De Oro](https://open.spotify.com/track/1Z1zgVs2cRnfigMGvITbzQ) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tumbando Caña](https://open.spotify.com/album/7Ja4lDuleKTZV67LuqlGA5) | 3:25 |
 | 50 | [La Ranchera Pajona](https://open.spotify.com/track/0ZvZGvz5fUAgRmq5KuTgqm) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Pa Que Veas Lo Que Se Siente](https://open.spotify.com/album/1GxBZ4J8MGYc2aPocy0Lcg) | 2:29 |
 
-Snapshot ID: `Mjc3MjIyMzMsMDAwMDAwMDA3OTZlODhiMWFhMjQ0OGViMDBmZjk2MWYxYjdmMjI0NA==`
+Snapshot ID: `Mjc3MjM2OTIsMDAwMDAwMDAyYWIxMjRjNzEzZDJlNDE5NTQ5NmRiMjVjMzVlNGVjMw==`

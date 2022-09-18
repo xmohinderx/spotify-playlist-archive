@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcViPZlF2qaM.md) - [plain]
 
 > Abajo y a la izquierda.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,010 likes - 60 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,058 likes - 60 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcViPZlF2qaM.md) - [plain]
 | 35 | [Baja a la Tierra \(feat\. Lila Downs\)](https://open.spotify.com/track/44OP8tosI4ufd6XuUQvx0a) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Bi](https://open.spotify.com/album/5Rnk0JczvdBVg123Mpd483) | 3:22 |
 | 36 | [Movimiento](https://open.spotify.com/track/7pBoi7yWCPzn3UjeMsGKg6) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Salvavidas de hielo](https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0) | 3:51 |
 | 37 | [Tijuana Taxi](https://open.spotify.com/track/2vLgPIAJj1Z7fd69QoFxqK) | [Herb Alpert & The Tijuana Brass](https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I) | [!!Going Places!!](https://open.spotify.com/album/3y7ArxHNtZoTVWSwR4lkQT) | 2:05 |
-| 38 | [No me llores más](https://open.spotify.com/track/2gIeStpi0SclaktrnvncdO) | [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [Omara Portuondo \(Buena Vista Social Club Presents\)](https://open.spotify.com/album/49I0jh6YTRjT56eqZvR0fs) | 4:56 |
-| 39 | [Duda Morena](https://open.spotify.com/track/2tUUUBIx7SqR3WVVSN7R5V) | [Churupaca](https://open.spotify.com/artist/0B6mwRbxKrvUvklMk9571H), [Chango Spasiuk](https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY) | [Churupaca](https://open.spotify.com/album/4WEJMxY05ww9RP2jCK4SXX) | 4:53 |
+| 38 | [Duda Morena](https://open.spotify.com/track/2tUUUBIx7SqR3WVVSN7R5V) | [Churupaca](https://open.spotify.com/artist/0B6mwRbxKrvUvklMk9571H), [Chango Spasiuk](https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY) | [Churupaca](https://open.spotify.com/album/4WEJMxY05ww9RP2jCK4SXX) | 4:53 |
+| 39 | [No me llores más](https://open.spotify.com/track/2gIeStpi0SclaktrnvncdO) | [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [Omara Portuondo \(Buena Vista Social Club Presents\)](https://open.spotify.com/album/49I0jh6YTRjT56eqZvR0fs) | 4:56 |
 | 40 | [Esperanza](https://open.spotify.com/track/43iNZgahOKELvSYR0G6Yj4) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Esperanza](https://open.spotify.com/album/4PtPHfnj1DZZIkVNlVjpyq) | 5:28 |
 | 41 | [Afrikaan Beat](https://open.spotify.com/track/1BPXaPBTN9oF2HJ4PDx2sp) | [Bert Kaempfert](https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX) | [A Swingin' Safari \(Remastered\)](https://open.spotify.com/album/1WuhfJk7fhSif4qkWL9Rh5) | 2:26 |
 | 42 | [Tú Ve](https://open.spotify.com/track/2rJnYvUiEstXyk5nSvbLpI) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Tú Ve](https://open.spotify.com/album/2KTXvlbVXi7rxEHWi0ePv4) | 3:58 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcViPZlF2qaM.md) - [plain]
 | 59 | [Chango](https://open.spotify.com/track/6X2qyN9UIXitH2UtIOZ85C) | [Ska Cubano](https://open.spotify.com/artist/6lmoqMxughzdlxvQTsUXjF) | [Ska Cubano](https://open.spotify.com/album/1Sry0mamK4yz2Khmmtm1DA) | 3:38 |
 | 60 | [La Cumbia Del Cafe Martinez](https://open.spotify.com/track/7IuUjEcv8BWqnUSIqWJP8O) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Cumbias Imaquinarias \- EP](https://open.spotify.com/album/48Qc7UTo9Bwy68JGhJ5gIh) | 3:57 |
 
-Snapshot ID: `MTY2MzMwMzk5MCwwMDAwMDAwMGNkNTlhNWIxOTY4NmY5NjRjZjY4MTQ2M2YzODRlZTQ1`
+Snapshot ID: `MTY2MzMwMzk5MCwwMDAwMDAwMGRhNjVhZmM3Y2JkOGIxMTI4YTdlYzQ2MjUwNDFlZGE2`

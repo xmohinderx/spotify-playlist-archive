@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 
 > Dreamy jams from the best bedroom producers\. Cover: SALES
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,019,462 likes - 115 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,019,763 likes - 115 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,9 +65,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 55 | [Amtrak](https://open.spotify.com/track/5F6ekGcdu623mkhTVgk64Z) | [Los Retros](https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG) | [Looking Back](https://open.spotify.com/album/7dPHUYbBBUfMj6LDD2Ui7Z) | 2:56 |
 | 56 | [Honey, No Estás](https://open.spotify.com/track/4tiMBMyoWSRPmLHg16VpUs) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Delusión](https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN) | 3:27 |
 | 57 | [Sugar](https://open.spotify.com/track/2joEpsXflccZD0ZwKEdz5m) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Untourable Album](https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE) | 2:56 |
-| 58 | [feel u](https://open.spotify.com/track/5pm9nGzY5b5gp424c6iYZh) | [okayceci](https://open.spotify.com/artist/1NCMfKfYXbyLqsChnYNd3P) | [feel u](https://open.spotify.com/album/34ZrL9unzACdI1d3UF2SlR) | 2:30 |
-| 59 | [Talk to You](https://open.spotify.com/track/5YIAMIFBXGXsyJwJmqUMZo) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Talk to You](https://open.spotify.com/album/5qRQGtoghlIqXPd7iQPJNG) | 3:34 |
-| 60 | [Was It Something I Said](https://open.spotify.com/track/65j65yDSE06CNKAPjsHoJt) | [MyKey](https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9) | [Was It Something I Said](https://open.spotify.com/album/6MIBfXSkuo1F9fiNVCBsZH) | 3:40 |
+| 58 | [Talk to You](https://open.spotify.com/track/5YIAMIFBXGXsyJwJmqUMZo) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Talk to You](https://open.spotify.com/album/5qRQGtoghlIqXPd7iQPJNG) | 3:34 |
+| 59 | [Was It Something I Said](https://open.spotify.com/track/65j65yDSE06CNKAPjsHoJt) | [MyKey](https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9) | [Was It Something I Said](https://open.spotify.com/album/6MIBfXSkuo1F9fiNVCBsZH) | 3:40 |
+| 60 | [feel u](https://open.spotify.com/track/5pm9nGzY5b5gp424c6iYZh) | [okayceci](https://open.spotify.com/artist/1NCMfKfYXbyLqsChnYNd3P) | [feel u](https://open.spotify.com/album/34ZrL9unzACdI1d3UF2SlR) | 2:30 |
 | 61 | [Prune, You Talk Funny](https://open.spotify.com/track/6KKHXbJtnJPjla3V49YPac) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Prune, You Talk Funny](https://open.spotify.com/album/7GRC1eaEDxAYaBXEV6TKoj) | 3:32 |
 | 62 | [1994](https://open.spotify.com/track/42kWSGSJu0tXXt3e2Guvsm) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [1994](https://open.spotify.com/album/2a20lEnbWdct9J2wI0J6lH) | 3:23 |
 | 63 | [Cloud 9](https://open.spotify.com/track/0Qj4YyHTtV01Fvfl2fibea) | [Paravi](https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH) | [Cloud 9](https://open.spotify.com/album/4fa2ZcM78pgy7iB9xwl1lq) | 2:22 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 85 | [Lil Baby Crush](https://open.spotify.com/track/3ZG4FTdTqdXk1ja9hZap8x) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [Remain Calm](https://open.spotify.com/album/1AGKrfgR7G8C97G7SgETbZ) | 2:21 |
 | 86 | [Taking Over The Sun](https://open.spotify.com/track/0Ac5WPWNBr4p3xcllMMIbN) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Taking Over The Sun](https://open.spotify.com/album/73WU3UtIqgnGKhTR8Cj90l) | 3:49 |
 | 87 | [broken cd](https://open.spotify.com/track/77cuLtsUljaHBNpG89GpqE) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:50 |
-| 88 | [I'm Just Snacking](https://open.spotify.com/track/6413UUgINHbZsCJeJBFlmT) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [I'm Just Snacking](https://open.spotify.com/album/5ZnWObOAer6sfJWRV5rk3w) | 3:18 |
-| 89 | [kissing girls](https://open.spotify.com/track/5lCtzEEl2FxySHX4zR9yEf) | [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R) | [a place we can always go.](https://open.spotify.com/album/0kl5WlV5aL2X4aho9KQXP3) | 1:40 |
+| 88 | [kissing girls](https://open.spotify.com/track/5lCtzEEl2FxySHX4zR9yEf) | [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R) | [a place we can always go.](https://open.spotify.com/album/0kl5WlV5aL2X4aho9KQXP3) | 1:40 |
+| 89 | [I'm Just Snacking](https://open.spotify.com/track/6413UUgINHbZsCJeJBFlmT) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [I'm Just Snacking](https://open.spotify.com/album/5ZnWObOAer6sfJWRV5rk3w) | 3:18 |
 | 90 | [Thunder](https://open.spotify.com/track/0afGLa6wcYiLLXFZ48ZQpY) | [Roy Blair](https://open.spotify.com/artist/6Sa4YbwEdGlfVSJMF1Lp67) | [Cat Heaven](https://open.spotify.com/album/0Z9NeEvqeecaLCFUmI4uDw) | 5:13 |
 | 91 | [Mystery](https://open.spotify.com/track/3ZW48z429TwTJlEN9vxs8u) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [Mystery](https://open.spotify.com/album/4jtC95aZMIud87vZDa1SA5) | 2:57 |
 | 92 | [Cornflower Blue](https://open.spotify.com/track/2MfwT3SKUyF0na2LCa2fCp) | [Flower Face](https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz) | [The Shark in Your Water](https://open.spotify.com/album/75nZGvjStgCUavXcsYsXf7) | 3:08 |
@@ -108,8 +108,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 98 | [I Just Wanna](https://open.spotify.com/track/00qVenrhW7Lr9AwHgc7rOe) | [KALI](https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM) | [I Just Wanna](https://open.spotify.com/album/1oOZfgFNqap0vvG25bOeAE) | 4:14 |
 | 99 | [Bends](https://open.spotify.com/track/7neXef29cogkuASB5rTafo) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [Cut Out](https://open.spotify.com/album/0qvED1ToqYbtBFaaKJylPB) | 2:35 |
 | 100 | [SUMMER GIRL](https://open.spotify.com/track/7Ivlg6WEcmRLCqO32ZhfGd) | [Ian Hugel](https://open.spotify.com/artist/24uWm1jxjtBwiVnEGT0pjC) | [SUMMER GIRL](https://open.spotify.com/album/6qGinm5pwGdYnvcR4e2SUC) | 2:48 |
-| 101 | [Get Down](https://open.spotify.com/track/4kcuzPfVaPlElWRv9jNGHi) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Get Down](https://open.spotify.com/album/3LV5x9NJGzRMm7xraPqKlL) | 2:51 |
-| 102 | [Emotionless](https://open.spotify.com/track/4WhpjIKKkQlFmbsYQIuJxO) | [Crisaunt](https://open.spotify.com/artist/0cuIIYEWDS7V1iBl65NtL6) | [Emotionless](https://open.spotify.com/album/1kYZYrM6n5Io70OGadcoxl) | 2:28 |
+| 101 | [Emotionless](https://open.spotify.com/track/4WhpjIKKkQlFmbsYQIuJxO) | [Crisaunt](https://open.spotify.com/artist/0cuIIYEWDS7V1iBl65NtL6) | [Emotionless](https://open.spotify.com/album/1kYZYrM6n5Io70OGadcoxl) | 2:28 |
+| 102 | [Get Down](https://open.spotify.com/track/4kcuzPfVaPlElWRv9jNGHi) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Get Down](https://open.spotify.com/album/3LV5x9NJGzRMm7xraPqKlL) | 2:51 |
 | 103 | [Forevermore](https://open.spotify.com/track/4r4uSdJJKV8RIcNKH7pX54) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Forevermore](https://open.spotify.com/album/6UppGVPzMsv9LJI2x4e0Qn) | 2:54 |
 | 104 | [Clueless](https://open.spotify.com/track/7mrEpwmQJ7qK1ik7ZjjcdD) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Clueless](https://open.spotify.com/album/6kQBBlENraS03XVnFJ5mlU) | 3:47 |
 | 105 | [Spiracle](https://open.spotify.com/track/6k7HtWuprjQmulpo4OpieI) | [Flower Face](https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz) | [The Shark in Your Water](https://open.spotify.com/album/75nZGvjStgCUavXcsYsXf7) | 2:59 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 114 | [80's High School](https://open.spotify.com/track/4NnNGFTcMv5OK1LvIA2Wgw) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Melodrama](https://open.spotify.com/album/4VDue6QekQ9iZZpMTLS7ZX) | 3:22 |
 | 115 | [It's Got To Be You](https://open.spotify.com/track/3EytmMZxK0woRgbh2NxenS) | [Los Retros](https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG) | [Looking Back](https://open.spotify.com/album/7dPHUYbBBUfMj6LDD2Ui7Z) | 3:55 |
 
-Snapshot ID: `MTY2MzE5NTk5NCwwMDAwMDAwMDhhODc0OGU3NTRjMjM0MzM5N2M0YjViNzU5ZWM1Njdm`
+Snapshot ID: `MTY2MzE5NTk5NCwwMDAwMDAwMDNjMjI3MjM5NDMyN2UxZWE0YTJlY2JmMmE3NjNkZGU5`

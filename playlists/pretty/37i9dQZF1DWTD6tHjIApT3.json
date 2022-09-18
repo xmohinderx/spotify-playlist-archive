@@ -1,12 +1,12 @@
 {
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: aiko",
-  "num_followers": 83686,
+  "num_followers": 83726,
   "original_name": "Women's Voice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzI1NDAwMCwwMDAwMDAwMDVhZDgwMDA2ZDA2YTU4ODAzMGI1NmU4YzQ3MWM0MDU2",
+  "snapshot_id": "MTY2MzI1NDAwMCwwMDAwMDAwMDA0ODYwNTcyNzk2NWM1ZTI4NzRjOWNjZTM4NWExMjcw",
   "tracks": [
     {
       "added_at": "2022-09-15 15:00:00",
@@ -1619,6 +1619,26 @@
     {
       "added_at": "2022-09-15 15:00:00",
       "album": {
+        "name": "Who are you ?",
+        "url": "https://open.spotify.com/album/1itmOBTEkREB9z5WCRRfJX"
+      },
+      "artists": [
+        {
+          "name": "Liza",
+          "url": "https://open.spotify.com/artist/2lt6QQR32fKGBooeTvd2wd"
+        },
+        {
+          "name": "Yo-Sea",
+          "url": "https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw"
+        }
+      ],
+      "duration_ms": 176810,
+      "name": "Who are you ?",
+      "url": "https://open.spotify.com/track/5BbgSQt406V1N0G3S7sYWs"
+    },
+    {
+      "added_at": "2022-09-15 15:00:00",
+      "album": {
         "name": "\u7a74\u7a7a\u304d\u306e\u7a7a",
         "url": "https://open.spotify.com/album/3lMML0Z6akQ8iIuHk61r8h"
       },
@@ -1647,26 +1667,6 @@
       "duration_ms": 212559,
       "name": "Life Road",
       "url": "https://open.spotify.com/track/6B0h9SeRiGdT5dDgSwJXbT"
-    },
-    {
-      "added_at": "2022-09-15 15:00:00",
-      "album": {
-        "name": "\u30e9\u30c3\u30ad\u30fc\u30fb\u30c9\u30e9\u30a4\u30d6",
-        "url": "https://open.spotify.com/album/0M1Ss4ejW5LB3ZllXxNEuh"
-      },
-      "artists": [
-        {
-          "name": "Gimgigam",
-          "url": "https://open.spotify.com/artist/1LHF7KKnogex2qYTumsGiY"
-        },
-        {
-          "name": "\u3077\u306b\u3077\u306b\u96fb\u6a5f",
-          "url": "https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK"
-        }
-      ],
-      "duration_ms": 208853,
-      "name": "\u30e9\u30c3\u30ad\u30fc\u30fb\u30c9\u30e9\u30a4\u30d6",
-      "url": "https://open.spotify.com/track/2YgT34Ztg37oBspiPey1ho"
     }
   ],
   "unique_name": "Women's Voice",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 
 > The perfect soundtrack to the holiday season!
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,668 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,660 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,10 +70,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 | 60 | [Bring Me Cheer](https://open.spotify.com/track/2N32rAJetRBwo8NidqXdj6) | [Olivia Penalva](https://open.spotify.com/artist/6ytGxUYeXamODJwiXuZvjO) | [Bring Me Cheer](https://open.spotify.com/album/6gGjb0htaSET9wkN38ViTl) | 2:25 |
 | 61 | [I'll Be Home for Christmas](https://open.spotify.com/track/6kDt7UcDZJMrAluOxTSWV1) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [I'll Be Home for Christmas](https://open.spotify.com/album/0BeZLG9XcyUSSxhIS1QgpS) | 3:00 |
 | 62 | [A Christmas To Remember](https://open.spotify.com/track/6hvBmhDifLf4D2c7un98hi) | [Ryland James](https://open.spotify.com/artist/4WXIF211lYZfYEn0d13Ac0), [Ralph](https://open.spotify.com/artist/1Ss8sy3C3XXQgxYRwjDln8) | [A Christmas To Remember](https://open.spotify.com/album/5GpxJmTGJTOUhXFh9EM3zU) | 3:30 |
-| 63 | [The Ballad of Mrs\. Claus](https://open.spotify.com/track/08SKJFfIM6U2WosDXoovv6) | [Elliot Maginot](https://open.spotify.com/artist/0dX5TveSmyFKxWlYtnWS2X) | [The Ballad of Mrs\. Claus](https://open.spotify.com/album/234O5BvrrM3XnrXFmekPCs) | 3:41 |
-| 64 | [The Banister Bough](https://open.spotify.com/track/6AlGiqQMmOKEhUAopzUwFm) | [Chilly Gonzales](https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83), [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [A very chilly christmas](https://open.spotify.com/album/4VmSYtqSfucZcMF2u5eDZK) | 4:09 |
-| 65 | [Baby It's Cold Outside](https://open.spotify.com/track/2geS45BIgEJ8JTU1qrWG1F) | [Virginia To Vegas](https://open.spotify.com/artist/3v9wPA58IVrX2dg6AjSPgi), [Alyssa Reid](https://open.spotify.com/artist/6okAv2ACUPrUrwux2B17Rc) | [Baby It's Cold Outside](https://open.spotify.com/album/0RXHs2gYhQUTaA6x7RIWGJ) | 2:37 |
-| 66 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/0v0dIbR2koou6d1kO9u9SK) | [Tebey](https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo) | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/album/0h1q1bGA00rmnYVjqIGWvd) | 2:45 |
+| 63 | [The Banister Bough](https://open.spotify.com/track/6AlGiqQMmOKEhUAopzUwFm) | [Chilly Gonzales](https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83), [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [A very chilly christmas](https://open.spotify.com/album/4VmSYtqSfucZcMF2u5eDZK) | 4:09 |
+| 64 | [The Ballad of Mrs\. Claus](https://open.spotify.com/track/08SKJFfIM6U2WosDXoovv6) | [Elliot Maginot](https://open.spotify.com/artist/0dX5TveSmyFKxWlYtnWS2X) | [The Ballad of Mrs\. Claus](https://open.spotify.com/album/234O5BvrrM3XnrXFmekPCs) | 3:41 |
+| 65 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/0v0dIbR2koou6d1kO9u9SK) | [Tebey](https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo) | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/album/0h1q1bGA00rmnYVjqIGWvd) | 2:45 |
+| 66 | [Baby It's Cold Outside](https://open.spotify.com/track/2geS45BIgEJ8JTU1qrWG1F) | [Virginia To Vegas](https://open.spotify.com/artist/3v9wPA58IVrX2dg6AjSPgi), [Alyssa Reid](https://open.spotify.com/artist/6okAv2ACUPrUrwux2B17Rc) | [Baby It's Cold Outside](https://open.spotify.com/album/0RXHs2gYhQUTaA6x7RIWGJ) | 2:37 |
 | 67 | [Go Tell It On The Mountain](https://open.spotify.com/track/4z1pZgbzHeNjkVi2U4wyIL) | [High Valley](https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN) | [Go Tell It On The Mountain](https://open.spotify.com/album/3uc9cbSv6XfwMNE8lRtR0G) | 3:01 |
 | 68 | [It’s Me & You \(This Christmas\)](https://open.spotify.com/track/77uAudKrrHMGMEOKLY24Zs) | [Elijah Woods x Jamie Fine](https://open.spotify.com/artist/0UARksVKrwd1Gwdeq3Mes1) | [It's Me & You \(This Christmas\)](https://open.spotify.com/album/6RzwwQCGUvDObqgEW2pnBp) | 2:28 |
 | 69 | [Happy Xmas \(War is Over\)](https://open.spotify.com/track/3PHMypTQ1sug3L37o0STr9) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Happy Xmas \(War is Over\)](https://open.spotify.com/album/69XxAD0dxtlSJENkJDTYYA) | 3:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 | 99 | [Christmas Kisses](https://open.spotify.com/track/5LG0ZOxFnRrkib5uVzbBEi) | [Serena Ryder](https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j) | [Christmas Kisses](https://open.spotify.com/album/1aMr2tXEiiY6VfR0JhLoxP) | 3:27 |
 | 100 | [GIFT 2 U](https://open.spotify.com/track/3CVbAFuBbae8279r6D98Yg) | [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [GIFT 2 U](https://open.spotify.com/album/4Jz9J0dBhLvUKe2QaZkB3G) | 3:11 |
 
-Snapshot ID: `MTY0MTMxODI5MiwwMDAwMDAwMDczNDJmYTNiMjA1MmU3ODk5M2RkY2I3ODFiNzE0MTc5`
+Snapshot ID: `MTY0MTMxODI5MiwwMDAwMDAwMDMyMjlkN2RhN2Y1YzVjNWY4NmE2ZDYxZDEwNGVlNGU5`

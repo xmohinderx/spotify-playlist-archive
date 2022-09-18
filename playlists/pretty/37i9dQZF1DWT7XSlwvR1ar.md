@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7XSlwvR1ar.md) - [plain]
 
 > Don't stress out\. Stay relaxed with these easy, upbeat songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,958,558 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,958,848 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,11 +41,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7XSlwvR1ar.md) - [plain]
 | 31 | [Honeybee](https://open.spotify.com/track/5CalS8Gn69OOrR9aiw0ZO9) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Living Mirage](https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT) | 3:16 |
 | 32 | [Georgia](https://open.spotify.com/track/429EttO8gs0bDo2SQfUNSm) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:50 |
 | 33 | [Hello My Old Heart](https://open.spotify.com/track/66MXa8qDIQRtwuxuNtjNCu) | [The Oh Hellos](https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR) | [The Oh Hellos EP](https://open.spotify.com/album/4W1OKkOGiLJdfOCz4JQp1W) | 4:16 |
-| 34 | [Upside Down](https://open.spotify.com/track/6shRGWCtBUOPFLFTTqXZIC) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Jack Johnson And Friends: Sing\-A\-Longs And Lullabies For The Film Curious George](https://open.spotify.com/album/3Jl7i9Vo0Ht4co9SqTFjQy) | 3:28 |
-| 35 | [Seventeen](https://open.spotify.com/track/4gsR34XSIE2fUY4odwZqym) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [Seventeen](https://open.spotify.com/album/4BrJEabBSw59bwSjKZl25p) | 3:45 |
+| 34 | [Seventeen](https://open.spotify.com/track/4gsR34XSIE2fUY4odwZqym) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [Seventeen](https://open.spotify.com/album/4BrJEabBSw59bwSjKZl25p) | 3:45 |
+| 35 | [Upside Down](https://open.spotify.com/track/6shRGWCtBUOPFLFTTqXZIC) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Jack Johnson And Friends: Sing\-A\-Longs And Lullabies For The Film Curious George](https://open.spotify.com/album/3Jl7i9Vo0Ht4co9SqTFjQy) | 3:28 |
 | 36 | [Carry Me Away](https://open.spotify.com/track/4Szq4dulKN9bOvLRW6uMdZ) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 2:39 |
-| 37 | [Through The Echoes](https://open.spotify.com/track/13KhcUWu9WucFw0h5jB88R) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Through The Echoes / Lose It](https://open.spotify.com/album/6MyKaxAWINJVX8IeTrQxPC) | 3:41 |
-| 38 | [Holocene](https://open.spotify.com/track/1ILEK6NRfxoseoPnolRcVA) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver \(10th Anniversary Edition\)](https://open.spotify.com/album/6xfOCqmQvpvgR5aq6fpKMD) | 5:36 |
+| 37 | [Holocene](https://open.spotify.com/track/1ILEK6NRfxoseoPnolRcVA) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver \(10th Anniversary Edition\)](https://open.spotify.com/album/6xfOCqmQvpvgR5aq6fpKMD) | 5:36 |
+| 38 | [Through The Echoes](https://open.spotify.com/track/13KhcUWu9WucFw0h5jB88R) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Through The Echoes / Lose It](https://open.spotify.com/album/6MyKaxAWINJVX8IeTrQxPC) | 3:41 |
 | 39 | [I Was Born To Love You](https://open.spotify.com/track/3PG6V5yuFfo4APiovOQoRv) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [I Was Born To Love You](https://open.spotify.com/album/7cwHkTgTHLbCUFB6hRi9QQ) | 4:25 |
 | 40 | [Out of My Head](https://open.spotify.com/track/6hAZx4PQIlwyazfANp6joe) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Out of My Head](https://open.spotify.com/album/0yApDZC0LLXvZ7A21xL9BT) | 3:34 |
 | 41 | [Another Man's Jeans](https://open.spotify.com/track/2Tv3bPKLESHfl8jgAlY2Pv) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Another Man's Jeans](https://open.spotify.com/album/54xLeetI8f6mslHLEJ5K2X) | 2:45 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7XSlwvR1ar.md) - [plain]
 | 49 | [Trick To Happy](https://open.spotify.com/track/4lrkAUjZqFCofSF4QplDYd) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Sad Hunk](https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br) | 3:24 |
 | 50 | [Surefire](https://open.spotify.com/track/6iWvETAILWAYOdm2DioSEF) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Wilderado](https://open.spotify.com/album/27PS3oqiVzOqqAT04Ku6at) | 4:01 |
 | 51 | [Ready or Not \(feat\. Sierra Ferrell\)](https://open.spotify.com/track/2NAOqvZIf7onZ4kDLU560I) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Ready or Not \(feat\. Sierra Ferrell\)](https://open.spotify.com/album/5JcW9l6CD3JJbn7DbJrrkh) | 3:12 |
-| 52 | [You Were](https://open.spotify.com/track/0TsWu7ZYypXsIEIPwl6BOi) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [You Were](https://open.spotify.com/album/6wnBVRrp4xGypc2UjRUcRg) | 3:13 |
-| 53 | [Fresh Roses](https://open.spotify.com/track/05RmevbSKDvHHKpYBoXYfR) | [Juke Ross](https://open.spotify.com/artist/3mDo5Nv0SWpslJe9HzA2xY) | [Fresh Roses](https://open.spotify.com/album/6DUbcDDJa547U0KvgjCthp) | 3:21 |
+| 52 | [Fresh Roses](https://open.spotify.com/track/05RmevbSKDvHHKpYBoXYfR) | [Juke Ross](https://open.spotify.com/artist/3mDo5Nv0SWpslJe9HzA2xY) | [Fresh Roses](https://open.spotify.com/album/6DUbcDDJa547U0KvgjCthp) | 3:21 |
+| 53 | [You Were](https://open.spotify.com/track/0TsWu7ZYypXsIEIPwl6BOi) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [You Were](https://open.spotify.com/album/6wnBVRrp4xGypc2UjRUcRg) | 3:13 |
 | 54 | [All We Ever Knew](https://open.spotify.com/track/72zmwnbXjx9fMUjw3mbDSs) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Signs of Light](https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM) | 3:45 |
 | 55 | [Dark Days](https://open.spotify.com/track/7LZN7FkxHZk6maiN6NdI2i) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Sunlit Youth](https://open.spotify.com/album/2qiPY1CqHGexT4yWrQ5uX0) | 3:00 |
 | 56 | [Heart](https://open.spotify.com/track/5L7IgwUPhir2FJftGNXJDW) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Mary \(b\-sides\)](https://open.spotify.com/album/15RYnRTIMHrCB6X3HjK2mC) | 3:39 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7XSlwvR1ar.md) - [plain]
 | 89 | [Keep 'Em on They Toes](https://open.spotify.com/track/0f388trqcZyqGbPJUqGWpx) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [Keep 'Em on They Toes](https://open.spotify.com/album/0NrDp8wKKFdhyHSMlcHBnD) | 2:43 |
 | 90 | [Highroad](https://open.spotify.com/track/64iXPlkVfgkSYRvE0CXij0) | [Sir Woman](https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL) | [Highroad](https://open.spotify.com/album/70gYt9g5sdmG00ArLq5eIY) | 3:50 |
 | 91 | [I NEED YOU](https://open.spotify.com/track/0RDUnNaGubiseI1W9T3YTf) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE](https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE) | 2:37 |
-| 92 | [Take Me Away](https://open.spotify.com/track/5Cahcx215DE2oK6hemixF4) | [Cisco Adler](https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW), [Donavon Frankenreiter](https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda) | [Take Me Away](https://open.spotify.com/album/0hOipA3CbMzKRfG1DOyiy5) | 2:31 |
-| 93 | [Supply & Demand](https://open.spotify.com/track/0tsUIJakq2RksuC1YixAHX) | [Wilder Woods](https://open.spotify.com/artist/26DytDdxKgr9N0tdrBSLs2) | [Wilder Woods](https://open.spotify.com/album/35rWm0QieUmTizxsC7dXnG) | 3:16 |
+| 92 | [Supply & Demand](https://open.spotify.com/track/0tsUIJakq2RksuC1YixAHX) | [Wilder Woods](https://open.spotify.com/artist/26DytDdxKgr9N0tdrBSLs2) | [Wilder Woods](https://open.spotify.com/album/35rWm0QieUmTizxsC7dXnG) | 3:16 |
+| 93 | [Take Me Away](https://open.spotify.com/track/5Cahcx215DE2oK6hemixF4) | [Cisco Adler](https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW), [Donavon Frankenreiter](https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda) | [Take Me Away](https://open.spotify.com/album/0hOipA3CbMzKRfG1DOyiy5) | 2:31 |
 | 94 | [Virginia \(Wind In The Night\)](https://open.spotify.com/track/03gx5xXMcfEK7ZnOHsjvJL) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Virginia \(Wind In The Night\)](https://open.spotify.com/album/0NgrmQ40zdQLLqZF09wiIx) | 3:25 |
 | 95 | [sunday](https://open.spotify.com/track/5zYiD0qYctWMiLHGAiEcd3) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness \(the beginnings\)](https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4) | 3:13 |
 | 96 | [When They Fight, They Fight](https://open.spotify.com/track/0zqmyB1prgGGiOS10sjH8A) | [Generationals](https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL) | [Con Law](https://open.spotify.com/album/6JoADrFrfs62hhWAMzSA8A) | 3:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7XSlwvR1ar.md) - [plain]
 | 99 | [BRIGHTSIDE](https://open.spotify.com/track/1TX0ImiGMYiikRash29a2b) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/35oJ7lIOHpQtRxr4QiCK5j) | 3:49 |
 | 100 | [Steady Love](https://open.spotify.com/track/6UOkF086zUgYXnqFxqUvEI) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [The Joy of Music](https://open.spotify.com/album/1l4VD485oDSJM23eWJEWJN) | 3:44 |
 
-Snapshot ID: `MTY2MzMwMDg2MCwwMDAwMDAwMDZhODVlNGE3N2MxNDY0ZTFiNDU2NzQ3OTVjMDE2OGNi`
+Snapshot ID: `MTY2MzMwMDg2MCwwMDAwMDAwMDdhNTVkN2NhYmFmOWZmNjI0OGI2ZTRkMzkzYTg2MGJh`

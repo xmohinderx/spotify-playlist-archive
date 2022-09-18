@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FdIcKzUp2r.md) - [plain]
 
 > Work or rest with these gems from the 80s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,700 likes - 80 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,784 likes - 80 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FdIcKzUp2r.md) - [plain]
 | 60 | [Contacting My Angel](https://open.spotify.com/track/3oy4xC2pSV0ieFvd7RAYAH) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Avalon Sunset](https://open.spotify.com/album/2vE3SSFPxYt7jRu93j6rsi) | 4:58 |
 | 61 | [Can't Stay Away from You](https://open.spotify.com/track/3JeTD3IfCntCx3nLSAv56U) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889), [Miami Sound Machine](https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F) | [Let It Loose](https://open.spotify.com/album/1QFhYMcCFGK1pVVwStxf4x) | 3:55 |
 | 62 | [Father to Son \- 2016 Remaster](https://open.spotify.com/track/7MQKw2Nige6EZLBrvnhvt9) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [...But Seriously \(Deluxe Edition\)](https://open.spotify.com/album/2sS9l8uc3d3UsK9unJyrD8) | 3:27 |
-| 63 | [The Things You Said \- 2006 Remaster](https://open.spotify.com/track/3i1Th1jZXXO0ZpGKhpTKWK) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Music for the Masses \(2006 Remaster\)](https://open.spotify.com/album/4tPRXghD4ago6NYyyfrtES) | 3:59 |
-| 64 | [Forbidden Colors](https://open.spotify.com/track/5mvOFm7fHLFLyEQtusCmUf) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [David Sylvian](https://open.spotify.com/artist/2oyWkw7sq99yqj12hVUHtw) | [Merry Christmas, Mr\. Lawrence](https://open.spotify.com/album/0BlM8Qd8rxj4wLd9ioGZZU) | 4:42 |
+| 63 | [Forbidden Colors](https://open.spotify.com/track/5mvOFm7fHLFLyEQtusCmUf) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [David Sylvian](https://open.spotify.com/artist/2oyWkw7sq99yqj12hVUHtw) | [Merry Christmas, Mr\. Lawrence](https://open.spotify.com/album/0BlM8Qd8rxj4wLd9ioGZZU) | 4:42 |
+| 64 | [The Things You Said \- 2006 Remaster](https://open.spotify.com/track/3i1Th1jZXXO0ZpGKhpTKWK) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Music for the Masses \(2006 Remaster\)](https://open.spotify.com/album/4tPRXghD4ago6NYyyfrtES) | 3:59 |
 | 65 | [Requiem Again](https://open.spotify.com/track/673do07xdvVTt65SIwRtc3) | [The Durutti Column](https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe) | [Vini Reilly](https://open.spotify.com/album/4nKBqIL9jq9TCTRYoZAykx) | 4:01 |
 | 66 | [Renee \- 1997 Remaster](https://open.spotify.com/track/5UUk3itO5nvah4Ngd9CW5X) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf) | [It's My Life](https://open.spotify.com/album/152Hw6E0tNz3EQNq9c1CDf) | 6:22 |
 | 67 | [With God On Our Side](https://open.spotify.com/track/2jv5qRqrweD00U4VwDfbWr) | [The Neville Brothers](https://open.spotify.com/artist/3d1olqhURDe8e5HOta1Qxg) | [Yellow Moon](https://open.spotify.com/album/5mk6XIaqIFbESIcfqh8GEF) | 6:40 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FdIcKzUp2r.md) - [plain]
 | 79 | [The Experience Of Swimming \- 2003 Digital Remaster](https://open.spotify.com/track/3xTX2k03pGJ8PO9pytIrY2) | [Japan](https://open.spotify.com/artist/7vPXrGlSGukcwpaPxUfKKR) | [Gentlemen Take Polaroids](https://open.spotify.com/album/0RhywRDYdXYC5Qzk0iIprW) | 4:04 |
 | 80 | [Otterley](https://open.spotify.com/track/5GO0qzKdvndy7g9r0iKEDz) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Treasure](https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62) | 4:04 |
 
-Snapshot ID: `MTU0NzY0NjM5NiwwMDAwMDAwMGE3OTExZjEzODEzOTllY2VmMWVhZDg1Zjg1NjAyZTdj`
+Snapshot ID: `MTU0NzY0NjM5NiwwMDAwMDAwMDM0MGRkOWRhMmFlZTIxNjEwODQ3ZGI4NDc3Njk5NjU0`

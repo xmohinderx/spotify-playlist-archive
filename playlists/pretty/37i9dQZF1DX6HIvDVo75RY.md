@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6HIvDVo75RY.md) - [plain]
 
 > In Nashville for CMA Music Fest? Come visit Spotify House at Ole Red on Broadway\. We've curated an entire week of live music and artists just for you! If you can't be there, let this be your soundtrack to Music Fest week\. Enjoy!
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,693 likes - 113 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,694 likes - 113 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6HIvDVo75RY.md) - [plain]
 | 31 | [New Truck](https://open.spotify.com/track/4MDYIbU6I29Gjiu7JATTIJ) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [New Truck](https://open.spotify.com/album/3497MUjpGLcslVVb9ZeteM) | 2:54 |
 | 32 | [EASY TONIGHT](https://open.spotify.com/track/6v9ZG6Mqt0ORN4N9jN1Nh0) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU) | [EASY TONIGHT](https://open.spotify.com/album/4VANWG21U2nsR2f2b1CLJr) | 2:55 |
 | 33 | [It’s ‘Cause I Am](https://open.spotify.com/track/1hbROWuUFyYfE9uBsfXoje) | [Callista Clark](https://open.spotify.com/artist/5aizOVB0aFinBgezLPkhnm) | [Real To Me \(Big Machine Radio Release Special\)](https://open.spotify.com/album/2tIadsHYDmVwJc1zS0qfkB) | 2:46 |
-| 34 | [Baby I Am](https://open.spotify.com/track/6OSa9hgEvituO2SaaYBiwD) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [Baby I Am](https://open.spotify.com/album/44lDYWVwQ1yo5r066GtpSo) | 2:56 |
+| 34 | [Baby I Am](https://open.spotify.com/track/3pD2qgImjXbfepb5mksDp3) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [Baby I Am](https://open.spotify.com/album/5bg19JZRGPWA2ubmplCSt2) | 2:56 |
 | 35 | [Rolex® On A Redneck](https://open.spotify.com/track/2jaNHcSRgPvtMXu5rboE7T) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Rolex® On A Redneck](https://open.spotify.com/album/5EAoOhSEXjwSmnddEIACbH) | 2:59 |
 | 36 | [Make It Past Georgia](https://open.spotify.com/track/7aRVF1U72PPCTJiSX2vRpd) | [Ashland Craft](https://open.spotify.com/artist/5C5yczYHPeBi5PrwxfksLP) | [Travelin' Kind](https://open.spotify.com/album/4p3L8B0Y6E2L8ZDWXFcHqI) | 3:21 |
 | 37 | [Coulda Loved You Longer](https://open.spotify.com/track/5z0xIGpy5Cb8LRXh0I7Ewl) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew) | [Coulda Loved You Longer](https://open.spotify.com/album/5nwGL9nRvi6p5NVMiOSrLN) | 2:56 |
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6HIvDVo75RY.md) - [plain]
 | 112 | [Drunk on Your Love](https://open.spotify.com/track/1jNNHFZmRGXZFHlil5uhei) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Illinois](https://open.spotify.com/album/5Og3UBs6tCL47yee1ukYgw) | 2:53 |
 | 113 | [Raised by a Good Time](https://open.spotify.com/track/0IsjGDAqohBEdZWVoTaMjI) | [Steven Lee Olsen](https://open.spotify.com/artist/5MW08rvyz59mdceF4urxXO) | [Raised by a Good Time](https://open.spotify.com/album/30alXgSgwOuqtIbwFbHEIV) | 3:12 |
 
-Snapshot ID: `MTY1NTE1MDM4NiwwMDAwMDAwMDA5NzVkNzkyNjVkMTZjNGM3ODI5MzY4YjdmN2U3NGI0`
+Snapshot ID: `MTY1NTE1MDM4NiwwMDAwMDAwMDBlMWUzMGJiM2VkNzljYWJjMTk2Yjc0YTI4NjExNDY1`

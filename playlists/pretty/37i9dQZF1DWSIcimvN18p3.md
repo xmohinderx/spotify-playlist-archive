@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIcimvN18p3.md) - [plain]
 
 > Dive into the women of folk and roots music—from Americana icons to roots rock, singer\-songwriter, and indie\-folk favorites\. Cover: Allison Russell
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,319 likes - 150 songs - 9 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,362 likes - 150 songs - 9 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,10 +129,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIcimvN18p3.md) - [plain]
 | 119 | [Can't See Stars \(feat\. Kevin Morby\)](https://open.spotify.com/track/4vDEQxivxtfbgmEHtsJ29H) | [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6), [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Lighten Up](https://open.spotify.com/album/5MT2lgCDRZ1AfHrQ3pklHI) | 3:36 |
 | 120 | [Iowa \(Traveling, Pt\. 3\)](https://open.spotify.com/track/1DPu4VZvRagYKnkDtn4FbU) | [Dar Williams](https://open.spotify.com/artist/4Aarr7f0itQ2WFmmiPcriK) | [Mortal City](https://open.spotify.com/album/6EVUAMSaUKG6mxVQcWDdJG) | 4:47 |
 | 121 | [Across the Great Divide](https://open.spotify.com/track/1MHrK1oP9qM9dNE7m0A64M) | [Kate Wolf](https://open.spotify.com/artist/0WisBVzWAcOpZtdUf23TiC) | [Close to You](https://open.spotify.com/album/3IgFoFzOaVkdyfIgPs7h7h) | 4:19 |
-| 122 | [Julie Ann Johnson](https://open.spotify.com/track/6aY2O9hJq3ty10tBZNqCUs) | [Cathy Fink](https://open.spotify.com/artist/6C0lsIh3QzXKHdFxFy3DAw) | [Banjo Haiku](https://open.spotify.com/album/3YsYZKwQeR1BpFjNL9OFZ2) | 1:50 |
+| 122 | [Deer Creek Canyon](https://open.spotify.com/track/4bjK4okiLjAPmGjvxEjEBY) | [Sera Cahoone](https://open.spotify.com/artist/3wC39cIBlyNFSP8bO84FCJ) | [Deer Creek Canyon](https://open.spotify.com/album/0BwzPjT3gChyxVmQYzGvzK) | 3:18 |
 | 123 | [Freedom](https://open.spotify.com/track/1tqWLHz5zbLBw0YT7uBehE) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [Natural Conclusion](https://open.spotify.com/album/7vwzdcbSG3qsUBIJ3aVNqi) | 4:28 |
 | 124 | [Bloomsday](https://open.spotify.com/track/3E32ScayKIBK9JYehnRek9) | [Samantha Crain](https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS) | [Pick Apart](https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO) | 3:19 |
-| 125 | [Deer Creek Canyon](https://open.spotify.com/track/4bjK4okiLjAPmGjvxEjEBY) | [Sera Cahoone](https://open.spotify.com/artist/3wC39cIBlyNFSP8bO84FCJ) | [Deer Creek Canyon](https://open.spotify.com/album/0BwzPjT3gChyxVmQYzGvzK) | 3:18 |
+| 125 | [Julie Ann Johnson](https://open.spotify.com/track/6aY2O9hJq3ty10tBZNqCUs) | [Cathy Fink](https://open.spotify.com/artist/6C0lsIh3QzXKHdFxFy3DAw) | [Banjo Haiku](https://open.spotify.com/album/3YsYZKwQeR1BpFjNL9OFZ2) | 1:50 |
 | 126 | [Blood on Your Bootheels](https://open.spotify.com/track/5qfPr1jisW3bGULZd5UXtf) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [I Will Not Be Afraid](https://open.spotify.com/album/14tLWuboMq3NyGJV4lXkyk) | 3:15 |
 | 127 | [Northern Girl](https://open.spotify.com/track/7noNmrmVAtMU5v37MOS5s7) | [Cheryl Wheeler](https://open.spotify.com/artist/4bvWv6KDmnNNJCfElUEgsZ) | [Circles And Arrows](https://open.spotify.com/album/5n7a1XEKjjbwh5gGt98tCo) | 3:46 |
 | 128 | [Heads Gonna Roll](https://open.spotify.com/track/3JEQn0WheNcipQmxNxrxII) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [On the Line](https://open.spotify.com/album/2AHG3vkC3H7zqHbYdgCCcy) | 5:13 |
@@ -153,10 +153,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIcimvN18p3.md) - [plain]
 | 143 | [Heart Like a Wheel](https://open.spotify.com/track/7ctYp2gIPnE79lRzov5k2n) | [Kate & Anna McGarrigle](https://open.spotify.com/artist/7krh6ZjG7i7jvLGiG3YNJF) | [Kate & Anna McGarrigle](https://open.spotify.com/album/4PtJUyTpyy4pkiNsPYfW0J) | 3:12 |
 | 144 | [Porch Light](https://open.spotify.com/track/03x3IZ5tHNueztt7tbmzjT) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [In the Magic Hour](https://open.spotify.com/album/1sfz6tIsPAhgsqvcCZ6fvw) | 3:17 |
 | 145 | [Plain Letters \- Reimagined](https://open.spotify.com/track/7LfTX8haVHsWco3kaoHqot) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Plain Letters \(Reimagined\)](https://open.spotify.com/album/3CNj2dFPx3h6c2ToL3V85O) | 4:33 |
-| 146 | [Always Room](https://open.spotify.com/track/74nuuKLWKLboj141dT2vBV) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [Living Water](https://open.spotify.com/album/3UirGXBKa2VVuip8JPlBpd) | 2:14 |
-| 147 | [Heart to Ride](https://open.spotify.com/track/17NuSPbKO6SgDPcYwMrpml) | [Nadia Reid](https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn) | [Out of My Province](https://open.spotify.com/album/3nz8jovd9m48kT4HnJLrUk) | 4:09 |
+| 146 | [Heart to Ride](https://open.spotify.com/track/17NuSPbKO6SgDPcYwMrpml) | [Nadia Reid](https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn) | [Out of My Province](https://open.spotify.com/album/3nz8jovd9m48kT4HnJLrUk) | 4:09 |
+| 147 | [Always Room](https://open.spotify.com/track/74nuuKLWKLboj141dT2vBV) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [Living Water](https://open.spotify.com/album/3UirGXBKa2VVuip8JPlBpd) | 2:14 |
 | 148 | [Headstart](https://open.spotify.com/track/7pwv5cbW7hj4HVv3US4XUT) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Different Kinds of Light](https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9) | 2:22 |
 | 149 | [Dead and Gone](https://open.spotify.com/track/1dXlL3tfVDrcYykineKTJv) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Orphan Offering](https://open.spotify.com/album/70LZy0mMgmkaVYvC2F5rPk) | 4:49 |
 | 150 | [The Capitalist Blues](https://open.spotify.com/track/7LPxn9YKOA8K1U6wMzhfc6) | [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y) | [The Capitalist Blues](https://open.spotify.com/album/24ZcXwoLdmjsrXTYWPsaXJ) | 3:55 |
 
-Snapshot ID: `MTY0NjcxNTYwMCwwMDAwMDAwMDQ0NjAzYzZjZWQ1NjAxZTNjMGFjMTkwODEwMmY5ODJi`
+Snapshot ID: `MTY0NjcxNTYwMCwwMDAwMDAwMDBjNDllZGY2MzdiZDMzYmIwNWNjMGM3YjViZDJkMzRj`

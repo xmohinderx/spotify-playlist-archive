@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 
 > The ever\-evolving sound of Alt! Cover: Switchfoot
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,842 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,916 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 | 92 | [Promised Land](https://open.spotify.com/track/2VXNUklng1AswoKNgjiKJy) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Promised Land](https://open.spotify.com/album/1oSlXZXXKv4yHkaLDvgFij) | 3:29 |
 | 93 | [Like an Ocean](https://open.spotify.com/track/00dHvozlMxyyXcGoQvMBgB) | [Nathan Hornsby](https://open.spotify.com/artist/15S3MpPnvWhxLvBj8V1pdY) | [Like an Ocean](https://open.spotify.com/album/41ZSyVvCGIRsI6SBVpyXFh) | 3:53 |
 | 94 | [Conversation](https://open.spotify.com/track/0HgPrONoZRbbsRxsTJgtg3) | [Grace Graber](https://open.spotify.com/artist/5zKLAqfSLwj61spd5ereRK) | [Conversation](https://open.spotify.com/album/5waJx72B7sI3cYPhVDfd7F) | 3:24 |
-| 95 | [Father](https://open.spotify.com/track/2nCQq02bOLS65hfOZt8J4D) | [Joshua Luke Smith](https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A), [Wild Sons](https://open.spotify.com/artist/1lF0dM3992TbNu7BCTURkk) | [Father](https://open.spotify.com/album/4GeDiiBBSKGuszqUUh1R0H) | 3:48 |
+| 95 | [Father](https://open.spotify.com/track/5IR5Bi1nL7h0C0BuEnuoLl) | [Joshua Luke Smith](https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A), [Wild Sons](https://open.spotify.com/artist/1lF0dM3992TbNu7BCTURkk) | [Father](https://open.spotify.com/album/5LhlgmewVgxyWbYUfGxk9b) | 3:48 |
 | 96 | [The Love Of Jesus](https://open.spotify.com/track/4k8bSAKFhD0yatglhMe83j) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [The Love Of Jesus](https://open.spotify.com/album/6HDPuCrm65idSgMvJMIP6c) | 3:04 |
 | 97 | [For God Is With Us](https://open.spotify.com/track/3H5ly2nTpUNUdbg1X9dHWJ) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [For God Is With Us](https://open.spotify.com/album/21RhfabPs3qGYmz3DRtNdn) | 3:16 |
 | 98 | [Leaving The 99 \- Remix](https://open.spotify.com/track/5oqOAAVvyIDAt8pZ1Lwy0V) | [Billy Ballenger](https://open.spotify.com/artist/3MWi1gukTtaCmUQyvjSmIN) | [Leaving The 99 \(Remix\)](https://open.spotify.com/album/2QrCnGivrRzA59PhP0Qlze) | 4:02 |
 | 99 | [Crisis Of Faith](https://open.spotify.com/track/6f6nJ6rTSOkv2FRFmUk6ha) | [The War Within](https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh) | [Crisis Of Faith](https://open.spotify.com/album/1WUw7XicfoxqSif4iiFXOi) | 3:48 |
 | 100 | [Hey Jesus](https://open.spotify.com/track/2Uo4QoDPsHkpUNSVJyJYts) | [Trey Pearson](https://open.spotify.com/artist/5pjtpHRdrbbw9zZWx83zCF), [Semler](https://open.spotify.com/artist/1UPqLSmKOY8Ld8LoAuNA5g) | [Somebody You Knew](https://open.spotify.com/album/3V2XutQhnbyGFH8FSfqw5E) | 3:18 |
 
-Snapshot ID: `MTY1ODAyNDM1NiwwMDAwMDAwMDY0YWU1OGE3MDRiYTdiYWU0ZjQ0YmQ5YTE2OGY3ZTk3`
+Snapshot ID: `MTY1ODAyNDM1NiwwMDAwMDAwMDM1NWJhMGQ3ODk3MjgyNjhkNzA0YTAzMGJkZWJmMGJl`

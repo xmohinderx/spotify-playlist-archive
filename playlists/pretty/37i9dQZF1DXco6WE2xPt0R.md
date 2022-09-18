@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 
 > Aquela playlist pra ficar no quentin, gostosin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,887 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,007 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 | 66 | [Heaven](https://open.spotify.com/track/1OOZ7HK33XptwtvGuKmb5s) | [Amaal](https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz) | [Milly](https://open.spotify.com/album/0ybPRt9okiivYSRzyyv1Yd) | 3:03 |
 | 67 | [GLA](https://open.spotify.com/track/15hiUMS0HDjcyWzVlBEh1y) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Back Home](https://open.spotify.com/album/6tJKIc90Q5FuHbAWsrBPkI) | 3:26 |
 | 68 | [My Body](https://open.spotify.com/track/39sfV1mgK48hNDmyZhCg4f) | [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l) | [Sex, Love & Pain](https://open.spotify.com/album/2ysbGZxi30xemn0KCIDWU1) | 3:51 |
-| 69 | [Bone + Tissue](https://open.spotify.com/track/1THUV2tiTLxNNbJwC8m4pE) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM) | [Ology](https://open.spotify.com/album/4VZh7EI0gjL2FkLWNBVIWf) | 3:41 |
-| 70 | [Nu Beginning](https://open.spotify.com/track/0y02zQ9NMivG2bJvhYshY4) | [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW), [Amber Navran](https://open.spotify.com/artist/4NRkD92d03MJcb326Jo9mt) | [Nu Beginning](https://open.spotify.com/album/3TJ8K56Zo9QRiUH3F39XXO) | 3:54 |
+| 69 | [Nu Beginning](https://open.spotify.com/track/0y02zQ9NMivG2bJvhYshY4) | [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW), [Amber Navran](https://open.spotify.com/artist/4NRkD92d03MJcb326Jo9mt) | [Nu Beginning](https://open.spotify.com/album/3TJ8K56Zo9QRiUH3F39XXO) | 3:54 |
+| 70 | [Bone + Tissue](https://open.spotify.com/track/1THUV2tiTLxNNbJwC8m4pE) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM) | [Ology](https://open.spotify.com/album/4VZh7EI0gjL2FkLWNBVIWf) | 3:41 |
 | 71 | [Chocolate Covered Strawberries](https://open.spotify.com/track/3qzHEwPUvoo5jX1a3htb0G) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Chocolate Covered Strawberries](https://open.spotify.com/album/00CseI2AUDprGKCOJcJzvb) | 4:10 |
 | 72 | [Power](https://open.spotify.com/track/6jcyTZserlQyyLrlTn9xSN) | [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [Power](https://open.spotify.com/album/67LcTyDUihSJ407FZ5JZMv) | 4:11 |
 | 73 | [Previouscats](https://open.spotify.com/track/7JmTY2JCt484HEgCuMOSA4) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Juslisen \(Special Edition\)](https://open.spotify.com/album/4qPIDLGtEYMRV10MbtKWbQ) | 3:57 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 | 75 | [No Love Song](https://open.spotify.com/track/1w51c5zq4Wr2jgGGBeeSbW) | [Children of Zeus](https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z) | [No Love Song](https://open.spotify.com/album/3wur4O6bZGh647ZJzXSsct) | 3:59 |
 | 76 | [Stay Down](https://open.spotify.com/track/2kE7QJTNVVr3P0iYi7D0ia) | [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg) | [Most Wanted](https://open.spotify.com/album/1qW6lKOXE6XsrZp0WjqB4H) | 3:28 |
 | 77 | [Midnight Snacks](https://open.spotify.com/track/3dfnjL5M28ZkSZU0SSSSGa) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [Midnight Snacks](https://open.spotify.com/album/69SluMWHbTMoVRPTa4qVmh) | 3:15 |
-| 78 | [Comeback.](https://open.spotify.com/track/3rfw4ft9rlXbbQzqRJIaYV) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM) | [Neptune](https://open.spotify.com/album/7lWaBLQgjjq9m0NM18DAgA) | 3:03 |
-| 79 | [Friends To Lovers](https://open.spotify.com/track/2sROAaC8BMV13cn31OLdpF) | [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [Body Music \(Deluxe\)](https://open.spotify.com/album/3eSysZ5EvnyWZ2naPABIdd) | 4:37 |
+| 78 | [Friends To Lovers](https://open.spotify.com/track/2sROAaC8BMV13cn31OLdpF) | [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [Body Music \(Deluxe\)](https://open.spotify.com/album/3eSysZ5EvnyWZ2naPABIdd) | 4:37 |
+| 79 | [Comeback.](https://open.spotify.com/track/3rfw4ft9rlXbbQzqRJIaYV) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM) | [Neptune](https://open.spotify.com/album/7lWaBLQgjjq9m0NM18DAgA) | 3:03 |
 | 80 | [Ifwu](https://open.spotify.com/track/6ODk81vpF0O4JWD2odIjC1) | [Devvon Terrell](https://open.spotify.com/artist/4WcJL1x8azi1Qkv4jc6fhH) | [Boys Don't Cry](https://open.spotify.com/album/707TPiqmiFvPsVMOqQJ3Ia) | 3:11 |
 | 81 | [Organic](https://open.spotify.com/track/5DyvKrRpUufwtWTHcJ5fb8) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Organic](https://open.spotify.com/album/5Zv9WcJcbem7uU7RhNQRiY) | 3:17 |
 | 82 | [Crash for a Couple](https://open.spotify.com/track/4QZftmaKVCq83BdkmnEIna) | [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [Little Men \(Deluxe\)](https://open.spotify.com/album/4j5hckSfZgpxQZ2cMmqVaB) | 4:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 | 99 | [Mr\. Midnight \- Winter Time Remix](https://open.spotify.com/track/7Abompe9RyQ6qIng5kkgPP) | [Raheem DeVaughn](https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL), [Bee Boy$oul](https://open.spotify.com/artist/2leVNDYvVvNjWr0aGMWXQc) | [Mr\. Midnight \(Winter Time Remix\)](https://open.spotify.com/album/3ZEfnijyXzxMa6JR1xBa6i) | 4:00 |
 | 100 | [You Got One](https://open.spotify.com/track/1aHOxnrpKtdNonDJKI73qb) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [You Got One](https://open.spotify.com/album/4wK80fjjoENNScObJowugB) | 3:25 |
 
-Snapshot ID: `MTY2MjY5MjQ2MCwwMDAwMDAwMDFhNGU5MjJlZWYwOTcwNjExM2E4NWFjOWQ1N2M3ZGUz`
+Snapshot ID: `MTY2MjY5MjQ2MCwwMDAwMDAwMDc3NmMzMzExZDNmM2JhZTg2NzYzN2E2ZDFiMGQ1ODFm`

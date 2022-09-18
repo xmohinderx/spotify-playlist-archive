@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 
 > Ouça as novidades e grandes louvores Pentecostais\. Foto: Damares, Canção & Louvor
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,837 likes - 85 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,875 likes - 85 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 | 61 | [Um Sobrevivente](https://open.spotify.com/track/41c1SU8uL9siz1xf7akQCX) | [Eurice Diniz](https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF) | [Um Sobrevivente](https://open.spotify.com/album/5JwSIQA3LBUn1kNyfkEBBk) | 5:01 |
 | 62 | [Tempo de Espera](https://open.spotify.com/track/4b1yw2UOQbhntnMecTEvE7) | [Ketelyn Amanda](https://open.spotify.com/artist/7wkgdj3BHmQcXcBSxbt4cl), [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2) | [Tempo de Espera](https://open.spotify.com/album/6SNWfXt4SufIHMsaiiLbw6) | 4:23 |
 | 63 | [No Tempo Certo](https://open.spotify.com/track/3pq7EX35ipQzIneMCTt8MZ) | [Eliane Silva](https://open.spotify.com/artist/04kAhmiYHbt8mAmX5t65Hs) | [No Tempo Certo](https://open.spotify.com/album/5jh4nKyFyQmuLcYjwpfOBT) | 5:36 |
-| 64 | [Eu Permiti](https://open.spotify.com/track/7gL4rQkDCuPk6rMfuwZk5I) | [Claudio Louvor](https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA) | [Eu Permiti](https://open.spotify.com/album/0QvBUoyHDslRTN4rLA0pvN) | 5:16 |
-| 65 | [O Deus Incomparável](https://open.spotify.com/track/2Ssp73mcKby8cJQnonnmtS) | [Ruthe Dayanne](https://open.spotify.com/artist/75b4ed2olY9BBhGZoHDjdo), [Rayanne Vanessa](https://open.spotify.com/artist/0EN9R1jAJm4BRchke0xceY) | [O Deus Incomparável](https://open.spotify.com/album/1YtRptMSLaYic90xjdpLmt) | 4:06 |
+| 64 | [O Deus Incomparável](https://open.spotify.com/track/2Ssp73mcKby8cJQnonnmtS) | [Ruthe Dayanne](https://open.spotify.com/artist/75b4ed2olY9BBhGZoHDjdo), [Rayanne Vanessa](https://open.spotify.com/artist/0EN9R1jAJm4BRchke0xceY) | [O Deus Incomparável](https://open.spotify.com/album/1YtRptMSLaYic90xjdpLmt) | 4:06 |
+| 65 | [Eu Permiti](https://open.spotify.com/track/7gL4rQkDCuPk6rMfuwZk5I) | [Claudio Louvor](https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA) | [Eu Permiti](https://open.spotify.com/album/0QvBUoyHDslRTN4rLA0pvN) | 5:16 |
 | 66 | [O Desfecho](https://open.spotify.com/track/1UsGjeLpVIGxcoXUZ1GbBo) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [O Desfecho](https://open.spotify.com/album/0G9gOTBQQWseQIir6oyJLU) | 5:08 |
 | 67 | [Esconderijo do Altíssimo](https://open.spotify.com/track/5mwTKuWkJs9ZzrwioLbCyO) | [Aurelina Dourado](https://open.spotify.com/artist/3ABdO3aidrv4Ps6WFJqOwz) | [Esconderijo do Altíssimo](https://open.spotify.com/album/2P6IvWGRjWLuP6rk5We0pL) | 4:45 |
 | 68 | [Sou Teu Deus](https://open.spotify.com/track/0w5vJ0ytrdPHBLblmLg1ye) | [Antônia Gomes](https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe) | [Sou Teu Deus](https://open.spotify.com/album/5XZ7QiuPcrYOpzzHn0k8Cn) | 5:27 |
@@ -86,12 +86,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 | 76 | [A Resposta](https://open.spotify.com/track/1RQa6blE8nsAR8ks3WmCAz) | [Mirian Santos](https://open.spotify.com/artist/6FEZtazXH0yERl9ymW8BAz) | [A Resposta](https://open.spotify.com/album/4dNcugnVhikloGMv9gQf0W) | 5:51 |
 | 77 | [Vivendo pela Graça](https://open.spotify.com/track/5esJW5MuLVYLCtEm0Vi8lj) | [Miriam dos Passos](https://open.spotify.com/artist/3PXIlnaU0gOLh7x0jIXvnt), [Trio Melodia](https://open.spotify.com/artist/5K0ZOq4qBXap184w0M4CRp) | [Vivendo pela Graça](https://open.spotify.com/album/7FgukpDG6gKCjbJO4HP1sJ) | 4:44 |
 | 78 | [Ainda Não Acabou](https://open.spotify.com/track/2nDLeRds1GJ35wpff8Co9U) | [Tayane Aguiar](https://open.spotify.com/artist/6nzvmfceSgwaYrPTr2Hw1E), [Suellen Brum](https://open.spotify.com/artist/69JNsAi4crxqz9IjhQXvqX) | [Ainda Não Acabou](https://open.spotify.com/album/6y1pmDWm6wgOXkwPZig300) | 5:02 |
-| 79 | [Chore pra Deus](https://open.spotify.com/track/7q4Z46Zj9LRkFpCIIDZmmh) | [Suellen Lima](https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P) | [Chore pra Deus](https://open.spotify.com/album/07rdfTtj20s6fz8dSJOWCb) | 4:42 |
+| 79 | [Aquietai\-Vos](https://open.spotify.com/track/1Zre7YfumnbeanzVutZtBA) | [Ruthe Dayanne](https://open.spotify.com/artist/75b4ed2olY9BBhGZoHDjdo) | [Aquietai\-Vos](https://open.spotify.com/album/3SbU3TxwgCGrUAUTOagd0o) | 3:46 |
 | 80 | [Quero\-Quero](https://open.spotify.com/track/3qPQ2dkC5GQDAd2QoMHDTj) | [Eliane Fernandes](https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH) | [Quero\-Quero](https://open.spotify.com/album/3sILMSaEy2PrXPhwAwizTf) | 5:37 |
-| 81 | [Aquietai\-Vos](https://open.spotify.com/track/1Zre7YfumnbeanzVutZtBA) | [Ruthe Dayanne](https://open.spotify.com/artist/75b4ed2olY9BBhGZoHDjdo) | [Aquietai\-Vos](https://open.spotify.com/album/3SbU3TxwgCGrUAUTOagd0o) | 3:46 |
+| 81 | [Chore pra Deus](https://open.spotify.com/track/7q4Z46Zj9LRkFpCIIDZmmh) | [Suellen Lima](https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P) | [Chore pra Deus](https://open.spotify.com/album/07rdfTtj20s6fz8dSJOWCb) | 4:42 |
 | 82 | [Olhando Pra Você](https://open.spotify.com/track/52RMRXYZIkVhzfbzV8xBPu) | [Eurice Diniz](https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF) | [Olhando Pra Você](https://open.spotify.com/album/1ORbMDUZk2wElpvop4nd6s) | 4:08 |
 | 83 | [Basta uma Palavra](https://open.spotify.com/track/0N5lJZVZ2fnAUcNH921nDL) | [Angélica Azevedo Oficial](https://open.spotify.com/artist/29C07hDeBxC0pbCDWiwXYE) | [Basta uma Palavra](https://open.spotify.com/album/1ZgQqx0JZRWhsRFwluUwlk) | 3:59 |
 | 84 | [Deus É, Deus Está, Deus Faz](https://open.spotify.com/track/0TA4FLhn9MlpNprmvZll4q) | [Stefhany](https://open.spotify.com/artist/1YNJikhBGe3LNnlunXwpj9) | [Deus É, Deus Está, Deus Faz](https://open.spotify.com/album/21oORJhHSY6MvEJQtQPAwO) | 5:10 |
 | 85 | [Maior Esperança](https://open.spotify.com/track/1ZRnMbEWclfT2LNCFQbdSO) | [Alugiana](https://open.spotify.com/artist/6JWO2kpkeZtMHP4fQxPCaV) | [Maior Esperança](https://open.spotify.com/album/0aacsowIPdD2jIMkO2t3cd) | 6:23 |
 
-Snapshot ID: `MTY2MjY5MjQwMCwwMDAwMDAwMDFmMmY2ZjBmOTA3OTEyZmExMDQ0OWZmNGI4MjM5NmQz`
+Snapshot ID: `MTY2MjY5MjQwMCwwMDAwMDAwMDZkN2Q0NmU3MDFkM2I5MzRiMTQ1NGNmMWE4MzM2ZDVk`

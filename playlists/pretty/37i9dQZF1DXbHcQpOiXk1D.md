@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHcQpOiXk1D.md) - [plain]
 
 > The best from Britain's vibrant scene\. Cover: Yazmin Lacey
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,803 likes - 75 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,946 likes - 75 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHcQpOiXk1D.md) - [plain]
 | 32 | [So Cold](https://open.spotify.com/track/6vv87FsmQpbakkEQUm3G3n) | [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx), [David Mrakpor](https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr) | [So Cold](https://open.spotify.com/album/72P2ODRJFb2O2THMjfXAlb) | 4:12 |
 | 33 | [If I Know](https://open.spotify.com/track/47VF1JogE1dN0joA5FTebh) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [K.O.G](https://open.spotify.com/artist/6n5BdjorrfFAe3OVqHHfUi) | [Freedom Fables](https://open.spotify.com/album/3HDaoy8TYaaLfKPKSVcsOq) | 6:09 |
 | 34 | [Give A Little \- Blue Lab Beats Remix](https://open.spotify.com/track/1iJwihRpjyrLH9BzqlT1qt) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Honey For Wounds \(Deluxe Edition\)](https://open.spotify.com/album/2bEHvwq0E9SVwBuy4G0Cnk) | 3:17 |
-| 35 | [Mystics \- Live](https://open.spotify.com/track/5LvYyX92OBI2bNAdfT98X9) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [The Yussef Dayes Experience Live at Joshua Tree \(Presented by Soulection\)](https://open.spotify.com/album/0kJc3MpSWk7zlItn5DOJOg) | 3:47 |
+| 35 | [Lonely](https://open.spotify.com/track/4R8UmyApZzuYNSiEoKWYt3) | [David Mrakpor](https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [Lonely](https://open.spotify.com/album/2iJ77SyZvqXvNPdf71QGp3) | 5:02 |
 | 36 | [Lost in Thought](https://open.spotify.com/track/1UVjC46kICqTceu7wCi8zK) | [GoGo Penguin](https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L) | [Between Two Waves](https://open.spotify.com/album/3K20Qp773ImY8pBQ1vUt93) | 3:12 |
-| 37 | [Lonely](https://open.spotify.com/track/4R8UmyApZzuYNSiEoKWYt3) | [David Mrakpor](https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [Lonely](https://open.spotify.com/album/2iJ77SyZvqXvNPdf71QGp3) | 5:02 |
+| 37 | [Mystics \- Live](https://open.spotify.com/track/5LvYyX92OBI2bNAdfT98X9) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [The Yussef Dayes Experience Live at Joshua Tree \(Presented by Soulection\)](https://open.spotify.com/album/0kJc3MpSWk7zlItn5DOJOg) | 3:47 |
 | 38 | [Ultraviolet](https://open.spotify.com/track/0zFbX6EwMuGagU4qj75GJt) | [Portico Quartet](https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx) | [Monument](https://open.spotify.com/album/5Q45lNUhaH40wPqhUgjJNC) | 5:12 |
 | 39 | [Words Left Unspoken](https://open.spotify.com/track/2b7mhgBdpvDCLYGK8nRfMX) | [Jasmine Myra](https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK) | [Horizons](https://open.spotify.com/album/0f3k4tF3PXSsRKnklbiKKe) | 6:40 |
 | 40 | [Teki](https://open.spotify.com/track/4IFQvZZTHrbF5NenzeMsWS) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [Bring Backs](https://open.spotify.com/album/4qoGWMatT4g6qA7UCoPnJq) | 6:00 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHcQpOiXk1D.md) - [plain]
 | 52 | [piano joint](https://open.spotify.com/track/24UxJRpZ9bhdg49QayFbcP) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M) | [piano joint](https://open.spotify.com/album/6u4j6qb1hdzYthdbgyZWYG) | 2:55 |
 | 53 | [Consortium](https://open.spotify.com/track/0hC7mPGowDqVgvgJJhYuOw) | [Maliki](https://open.spotify.com/artist/1ERFAODrl5Aj4SQjrcWKyk), [Aidan Newland](https://open.spotify.com/artist/67buHEsCVsZq8BWDEptLEB) | [Consortium](https://open.spotify.com/album/4OKkAZ6kcuyzpK7KAQVePP) | 5:06 |
 | 54 | [Youth](https://open.spotify.com/track/7KK4ixxZE3K1I8MbR8dGcX) | [Portico Quartet](https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx) | [Next Stop](https://open.spotify.com/album/3tAyluhjmvdlCtLPJPh8sz) | 5:08 |
-| 55 | [Begotten](https://open.spotify.com/track/26FJaA3wWRE8MlgbFripAU) | [J\-Fills](https://open.spotify.com/artist/1IG1876d05DNkNOHIc9wZC) | [It's All Relative](https://open.spotify.com/album/5fnXzQ7I4DTOvpqGY5GIKZ) | 3:18 |
-| 56 | [Odysea](https://open.spotify.com/track/6ZyAq6U841lb0ukP5TibWB) | [Robohands](https://open.spotify.com/artist/5qRtt9DQNy64ig66kCWFjX) | [Shapes](https://open.spotify.com/album/7uTAl4dESGV2JyvUONqURW) | 4:23 |
+| 55 | [Odysea](https://open.spotify.com/track/6ZyAq6U841lb0ukP5TibWB) | [Robohands](https://open.spotify.com/artist/5qRtt9DQNy64ig66kCWFjX) | [Shapes](https://open.spotify.com/album/7uTAl4dESGV2JyvUONqURW) | 4:23 |
+| 56 | [Begotten](https://open.spotify.com/track/26FJaA3wWRE8MlgbFripAU) | [J\-Fills](https://open.spotify.com/artist/1IG1876d05DNkNOHIc9wZC) | [It's All Relative](https://open.spotify.com/album/5fnXzQ7I4DTOvpqGY5GIKZ) | 3:18 |
 | 57 | [Stuck In The Middle](https://open.spotify.com/track/7zu4F2AtCvns6DINJCJ5AM) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M), [ELSAS](https://open.spotify.com/artist/3DXu8CSVepHWKsHHMMOuEo) | [Collage 2](https://open.spotify.com/album/7wmtYbwBMDpk0ie1aSUdm4) | 3:12 |
 | 58 | [Leader](https://open.spotify.com/track/55hpPQktBgKbCm12iOqOH7) | [Bel Cobain](https://open.spotify.com/artist/6JvEcv04PhUKWrUYZJrj1F) | [Leader](https://open.spotify.com/album/3jGEbyweltG52QWuUBcSMm) | 3:35 |
 | 59 | [Nights In Havana](https://open.spotify.com/track/1WIT85qChJThW4G53ZtP3x) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Alex Blake](https://open.spotify.com/artist/2Zg7PFrzPRux43T3G1UuNe) | [We Will Rise](https://open.spotify.com/album/1fXAO1H68AvYYtCz9yOjmQ) | 4:13 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHcQpOiXk1D.md) - [plain]
 | 74 | [Nova](https://open.spotify.com/track/6iBzYMUeA5fWP6T4kq5dez) | [Richard Spaven](https://open.spotify.com/artist/1vPmwfwytzhoK1cXXWzQWI), [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Nova](https://open.spotify.com/album/6E4fyKEXySdsJMWYE3IDQn) | 5:13 |
 | 75 | [Fleur bleue](https://open.spotify.com/track/7gPMJj8rKTU5YVJxtiKuNw) | [Béesau](https://open.spotify.com/artist/5m6hZJfUOm9EPFyiLIRjSs), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [Fleur bleue](https://open.spotify.com/album/5TckHbP7bzLjA8JgoImqcu) | 3:53 |
 
-Snapshot ID: `MTY2MzMzMTg0MywwMDAwMDAwMDZkNjgzZWU4OTZhODI3NDE3MWE3MTc4OTAwNWI5NDg5`
+Snapshot ID: `MTY2MzMzMTg0MywwMDAwMDAwMDZiMTE0Nzk4MDY3NTRjODk3Yzk1YmU3MDkyYzhhNDli`

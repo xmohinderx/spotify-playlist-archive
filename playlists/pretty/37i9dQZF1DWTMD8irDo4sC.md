@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMD8irDo4sC.md) - [plain]
 
 > Chill to these acoustic songs from the Middle East and North Africa\. Cover: Labess.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,106 likes - 70 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,137 likes - 70 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMD8irDo4sC.md) - [plain]
 | 27 | [لما بنتولد](https://open.spotify.com/track/73JzEqIY2tKAkbZB63rrbG) | [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp) | [لما بنتولد](https://open.spotify.com/album/5xWWNgZyd88PlUVRBReVaf) | 3:52 |
 | 28 | [Win Yamchi Zine](https://open.spotify.com/track/3Zlfkuzu8esBnCck3OAztD) | [Cameleon](https://open.spotify.com/artist/6S2OpU5mNabEiTOEcTJ8Y9) | [Win Yamchi Zine](https://open.spotify.com/album/3gkBsIfmzf69MGfMji8gnf) | 3:13 |
 | 29 | [Weilak Acoustik](https://open.spotify.com/track/5rch1DswiMlatWeoHcQGG0) | [Joseph Attieh](https://open.spotify.com/artist/5DPb3SKW8QZFwkRlmt7Gvo) | [Hobb W Mkattar](https://open.spotify.com/album/1J5agF9rCabvqDaZr4nxM0) | 3:32 |
-| 30 | [Wea'youneha](https://open.spotify.com/track/318ECWWGoxEqUIxg16ZBhJ) | [Sanaa Moussa](https://open.spotify.com/artist/15wMBXP3Z6VWcfFmqc2yUG) | [Ishraq Reminiscence](https://open.spotify.com/album/6rzYqrYs4bcbxgKAE9ILhs) | 3:17 |
-| 31 | [Sucre](https://open.spotify.com/track/6B9scelTq5dAqEQAhScDQq) | [Ÿuma](https://open.spotify.com/artist/1PRH2VLBHk1kMY2BFI0GQW) | [HANNET LEKLOUB](https://open.spotify.com/album/2puCXbeZ2wvKFPa2MGCsql) | 3:55 |
+| 30 | [Sucre](https://open.spotify.com/track/6B9scelTq5dAqEQAhScDQq) | [Ÿuma](https://open.spotify.com/artist/1PRH2VLBHk1kMY2BFI0GQW) | [HANNET LEKLOUB](https://open.spotify.com/album/2puCXbeZ2wvKFPa2MGCsql) | 3:55 |
+| 31 | [Wea'youneha](https://open.spotify.com/track/318ECWWGoxEqUIxg16ZBhJ) | [Sanaa Moussa](https://open.spotify.com/artist/15wMBXP3Z6VWcfFmqc2yUG) | [Ishraq Reminiscence](https://open.spotify.com/album/6rzYqrYs4bcbxgKAE9ILhs) | 3:17 |
 | 32 | [Keda Bardou \- Acoustic Version](https://open.spotify.com/track/1pfjYmRDZtkza7Z1nAkb32) | [Maya Diab](https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz) | [Keda Bardou \(Acoustic Version\)](https://open.spotify.com/album/3DRoMceTit2X7pVuxGk0SJ) | 2:43 |
 | 33 | [Matalib \- COLORS Sudan](https://open.spotify.com/track/6EX84olr1TqoAfa08NH28j) | [Sammany](https://open.spotify.com/artist/4NyCG4OTfplfwyO65U7gY7) | [Matalib \- COLORS Sudan](https://open.spotify.com/album/2nBqEnlrPggCNvmoFY32yk) | 2:38 |
 | 34 | [Zwit rwit](https://open.spotify.com/track/0vcnijpAVRaJImqrVFWOfb) | [Idir](https://open.spotify.com/artist/73LjFn4z6WTV7MevyPxrRc) | [A Vava Inouva](https://open.spotify.com/album/6DrAbBZLRSPeRjVgxlB1q1) | 3:37 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMD8irDo4sC.md) - [plain]
 | 69 | [Wakfa](https://open.spotify.com/track/2rFOK6Wat6QKb3uqsXURgq) | [Souad Massi](https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k) | [Oumniya](https://open.spotify.com/album/6GQNw3LhEnt6mekhNDafAK) | 4:50 |
 | 70 | [Oully Ya Sahbi](https://open.spotify.com/track/3KujYyygA5owoZZ3o8iyAE) | [Natacha Atlas](https://open.spotify.com/artist/0aVJmlOwIxTZeHzhFiFL5Y), [Sofiane Saidi](https://open.spotify.com/artist/6VnkIRZde53ai5TtkMulr4) | [Mish Maoul](https://open.spotify.com/album/00oemMx6T4Jdd86Q29vmuW) | 5:33 |
 
-Snapshot ID: `MTY1NjQxNTIxOSwwMDAwMDAwMDQ4ZDg0M2EzOTJjNDM3MTdjNWM1NzQwZjhkNzgwZGQ2`
+Snapshot ID: `MTY1NjQxNTIxOSwwMDAwMDAwMDA5ZWEzM2ZkODQ5N2EzMTcyNjY5ZGNjZDYwYmUyNWE5`

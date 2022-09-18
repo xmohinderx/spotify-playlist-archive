@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xzS2k.md) - [plain]
 
 > This is Nothing\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,347 likes - 42 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,350 likes - 42 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xzS2k.md) - [plain]
 | 41 | [If Only](https://open.spotify.com/track/6ZFMqpt1Th8COlR0dUSFnb) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Downward Years to Come](https://open.spotify.com/album/5H17RnYesdSEgnCZVBeEcj) | 5:01 |
 | 42 | [Pattern After Us \- DOTB B Side](https://open.spotify.com/track/0W2TihuUErag5W2UeWnMQp) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Spirit of the Stairs \- B\-Sides & Rarities](https://open.spotify.com/album/1FhTscmvDVVPQhTipBqsxF) | 3:40 |
 
-Snapshot ID: `Mjc3MjIyMzMsMDAwMDAwMDBlNWUxMTc0OTg4MDAzNDcwYjFiMzUyYWExMjc5OGMzZA==`
+Snapshot ID: `Mjc3MjM2OTIsMDAwMDAwMDA2OTVlOGM3OGM5ZmJlYmVlZjk1MjMyZTBlZDI1NjMzNA==`

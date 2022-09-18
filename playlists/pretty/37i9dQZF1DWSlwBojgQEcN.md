@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlwBojgQEcN.md) - [plain]
 
 > Songs to soundtrack your love story, from butterflies and first kisses to bittersweet memories and everything in between.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,721,440 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,721,581 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlwBojgQEcN.md) - [plain]
 | 83 | [After All](https://open.spotify.com/track/1O4esqy0w9Y7NkZWwDRSOc) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [This Time I See It](https://open.spotify.com/album/3VGWawHYkkcHTBftEfD5Ev) | 3:51 |
 | 84 | [Lovers' Eyes](https://open.spotify.com/track/7rMDB1bKHO0Sh8oTWWvdsJ) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/4Blt0T4LKGdWreILkYZre3) | 5:21 |
 | 85 | [Sudden Love \- Acoustic](https://open.spotify.com/track/0jzybKEorzfrq1zhu72lG0) | [The Woodlands](https://open.spotify.com/artist/3uitNL8cJAFwhKlDO762Gx) | [Parallels, Vol\. II](https://open.spotify.com/album/2vmKBrFef6FFwZtX1DBvcW) | 3:02 |
-| 86 | [There Was a Time](https://open.spotify.com/track/1YJpxbqfN7CXNzgvL1mGtU) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [This Side of Jordan](https://open.spotify.com/album/6rYA2Dt9kUfW5HJR1ayNnZ) | 4:14 |
-| 87 | [After Dark](https://open.spotify.com/track/039NLDI1UZZlXtLB0Kog6W) | [Tori Harper](https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i) | [After Dark](https://open.spotify.com/album/6ruIiJQxN1oHeJKq24M4Rn) | 4:08 |
+| 86 | [After Dark](https://open.spotify.com/track/039NLDI1UZZlXtLB0Kog6W) | [Tori Harper](https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i) | [After Dark](https://open.spotify.com/album/6ruIiJQxN1oHeJKq24M4Rn) | 4:08 |
+| 87 | [There Was a Time](https://open.spotify.com/track/1YJpxbqfN7CXNzgvL1mGtU) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [This Side of Jordan](https://open.spotify.com/album/6rYA2Dt9kUfW5HJR1ayNnZ) | 4:14 |
 | 88 | [Little Birds](https://open.spotify.com/track/3ePJFt2th9XXwaGFUmn2pr) | [Leah Blevins](https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW) | [First Time Feeling](https://open.spotify.com/album/7lAuqI7aCLX66UAyT74Yuu) | 3:25 |
 | 89 | [Awake Me](https://open.spotify.com/track/4H9aMftedBe0UEHv0IXYgQ) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Bare](https://open.spotify.com/album/11uRisUr2dNqeKIn8dhB3Z) | 4:17 |
 | 90 | [Love You True](https://open.spotify.com/track/73EaA3mjNHgsIiFrm2hZzV) | [Lydia Luce](https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH) | [The Tides](https://open.spotify.com/album/4L0K6IA83m6hrJNVgkmIKU) | 3:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlwBojgQEcN.md) - [plain]
 | 99 | [Take Your Time](https://open.spotify.com/track/4B5Opwj9GzHEWizfD5ZLzQ) | [Humbear](https://open.spotify.com/artist/2u6q1sXo1CNVNLFCWqWDGo) | [Take Your Time](https://open.spotify.com/album/1LVvgt8v7FuFux2bJAYb2F) | 3:24 |
 | 100 | [Come on Love](https://open.spotify.com/track/35pLMarTq9RgZXcrw1z5xa) | [Elsmore Carey](https://open.spotify.com/artist/5Q2wZO9HtA0UQPMCxQcHiu) | [Come on Love](https://open.spotify.com/album/0bKj9xIVBgyql7UW9qZZnL) | 4:32 |
 
-Snapshot ID: `MTY0NDg3NDk0MCwwMDAwMDAwMDIyZWE4OTQxM2RhYmE5M2Q0MWUxZjZkNzlkMjE4OGY0`
+Snapshot ID: `MTY0NDg3NDk0MCwwMDAwMDAwMGM1ZTU3YzkwMzY0OGE0ZGQ4NTFkNDAxNjhmZGUxNGI4`

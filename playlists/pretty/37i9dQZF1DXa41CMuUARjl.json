@@ -1,12 +1,12 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from Steve Aoki.",
-  "num_followers": 399828,
+  "num_followers": 399989,
   "original_name": "New Music Friday Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMDM3MDY2YTIxZjQ2ZDc4YjBmNTNkMzcyMDUwMTgzODE5",
+  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMDIwMTAyMDkwZGNjNTZjZmQwODIwYjE3ZmUzZTg5ZTFl",
   "tracks": [
     {
       "added_at": "2022-09-16 04:00:00",
@@ -519,6 +519,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "Len\u00e7\u00f3is (Love Me)",
+        "url": "https://open.spotify.com/album/3Rn9tJqGpKSHrmUvVFO6De"
+      },
+      "artists": [
+        {
+          "name": "RY X",
+          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+        }
+      ],
+      "duration_ms": 225183,
+      "name": "Len\u00e7\u00f3is (Love Me)",
+      "url": "https://open.spotify.com/track/72DxIGCEAp0mEn4hLFY7G7"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "On a High",
         "url": "https://open.spotify.com/album/1tGUWSStSy460p2YUQECLs"
       },
@@ -531,6 +547,34 @@
       "duration_ms": 247000,
       "name": "On a High",
       "url": "https://open.spotify.com/track/2hlwbmSsFD1gcUebBwvyMo"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "If Only (You Could Be Here) [Grigor\u00e8 Remix]",
+        "url": "https://open.spotify.com/album/0v802FZvgyuEgumXQdHn5l"
+      },
+      "artists": [
+        {
+          "name": "Le Youth",
+          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
+        },
+        {
+          "name": "Nathan Nicholson",
+          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
+        },
+        {
+          "name": "OCULA",
+          "url": "https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij"
+        },
+        {
+          "name": "Grigor\u00e9",
+          "url": "https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX"
+        }
+      ],
+      "duration_ms": 239032,
+      "name": "If Only (You Could Be Here) - Grigor\u00e8 Remix",
+      "url": "https://open.spotify.com/track/2WyrL80r0tIPxJyBadLZAB"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -559,18 +603,38 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Len\u00e7\u00f3is (Love Me)",
-        "url": "https://open.spotify.com/album/3Rn9tJqGpKSHrmUvVFO6De"
+        "name": "Florianopolis",
+        "url": "https://open.spotify.com/album/4RJ3PkqGmetEBDM5At7cpj"
       },
       "artists": [
         {
-          "name": "RY X",
-          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+          "name": "BADDIES ONLY",
+          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
+        },
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
         }
       ],
-      "duration_ms": 225183,
-      "name": "Len\u00e7\u00f3is (Love Me)",
-      "url": "https://open.spotify.com/track/72DxIGCEAp0mEn4hLFY7G7"
+      "duration_ms": 141467,
+      "name": "Florianopolis",
+      "url": "https://open.spotify.com/track/0Mn0K9k16wbDlyOPm0k4nU"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/2nCBGeudGkR5ZYFey8Ibix"
+      },
+      "artists": [
+        {
+          "name": "Forester",
+          "url": "https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc"
+        }
+      ],
+      "duration_ms": 186526,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/4qOErzIVJ5dGY9U0aAZhwz"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -591,6 +655,50 @@
       "duration_ms": 190666,
       "name": "Fire Again - Dabin Remix",
       "url": "https://open.spotify.com/track/6GJy7B0rZdy2PhWCp2jJpc"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "CASHMERE",
+        "url": "https://open.spotify.com/album/7n2XaVtj6fO1MFnKz5yh8V"
+      },
+      "artists": [
+        {
+          "name": "Godlands",
+          "url": "https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8"
+        },
+        {
+          "name": "boler mani",
+          "url": "https://open.spotify.com/artist/7uAzXw50IscCTZwLGTP2nc"
+        }
+      ],
+      "duration_ms": 179692,
+      "name": "CASHMERE",
+      "url": "https://open.spotify.com/track/5NJkNOXKEfThIuCNOjraGy"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Peach Fuzz (Open Till L8 Remix)",
+        "url": "https://open.spotify.com/album/652W2txeGr5Gai22wOXg29"
+      },
+      "artists": [
+        {
+          "name": "Anna Lunoe",
+          "url": "https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D"
+        },
+        {
+          "name": "Totally Enormous Extinct Dinosaurs",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        },
+        {
+          "name": "Open Till L8",
+          "url": "https://open.spotify.com/artist/6niasBrBbbzrUe7iWT6swJ"
+        }
+      ],
+      "duration_ms": 157382,
+      "name": "Peach Fuzz - Open Till L8 Remix",
+      "url": "https://open.spotify.com/track/5czjZtJsZobBSdyrT0vhOm"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -623,30 +731,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "If Only (You Could Be Here) [Grigor\u00e8 Remix]",
-        "url": "https://open.spotify.com/album/0v802FZvgyuEgumXQdHn5l"
+        "name": "In The Dark",
+        "url": "https://open.spotify.com/album/0jHCu9TvD0ZbfM2TlEbLqY"
       },
       "artists": [
         {
-          "name": "Le Youth",
-          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
-        },
-        {
-          "name": "Nathan Nicholson",
-          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
-        },
-        {
-          "name": "OCULA",
-          "url": "https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij"
-        },
-        {
-          "name": "Grigor\u00e9",
-          "url": "https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX"
+          "name": "Chapter & Verse",
+          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
         }
       ],
-      "duration_ms": 239032,
-      "name": "If Only (You Could Be Here) - Grigor\u00e8 Remix",
-      "url": "https://open.spotify.com/track/2WyrL80r0tIPxJyBadLZAB"
+      "duration_ms": 193809,
+      "name": "In The Dark",
+      "url": "https://open.spotify.com/track/1LX0J6oKsraPm6kWwRObzR"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -727,22 +823,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "CASHMERE",
-        "url": "https://open.spotify.com/album/7n2XaVtj6fO1MFnKz5yh8V"
+        "name": "Rush",
+        "url": "https://open.spotify.com/album/2eZsDmAcZj27p3B73kbcYp"
       },
       "artists": [
         {
-          "name": "Godlands",
-          "url": "https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8"
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
         },
         {
-          "name": "boler mani",
-          "url": "https://open.spotify.com/artist/7uAzXw50IscCTZwLGTP2nc"
+          "name": "Cecelia",
+          "url": "https://open.spotify.com/artist/6LtDEad7bRcRxBKQoiFAlI"
         }
       ],
-      "duration_ms": 179692,
-      "name": "CASHMERE",
-      "url": "https://open.spotify.com/track/5NJkNOXKEfThIuCNOjraGy"
+      "duration_ms": 232727,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/2a9hp6HbEtzUQBLv5C81mw"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -863,6 +959,26 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "Borealis",
+        "url": "https://open.spotify.com/album/7GJzsBX2cIrYaZbwtOjlbM"
+      },
+      "artists": [
+        {
+          "name": "Idrissi",
+          "url": "https://open.spotify.com/artist/5KYjLxvBWL3P087kSFs3QF"
+        },
+        {
+          "name": "Qaayel",
+          "url": "https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Borealis",
+      "url": "https://open.spotify.com/track/7opM0UdIFdCMbSOCIibLAr"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "If It Ain't Love (feat. Lagique)",
         "url": "https://open.spotify.com/album/4b4rKWKsDf70c1culk7hGl"
       },
@@ -907,6 +1023,38 @@
       "duration_ms": 165750,
       "name": "Chemistry",
       "url": "https://open.spotify.com/track/23E8Vr8RGP54IoP0n4Lr4Z"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Once I Was Young",
+        "url": "https://open.spotify.com/album/5YqMEy9J5JIskfp4zDti83"
+      },
+      "artists": [
+        {
+          "name": "Eli Escobar",
+          "url": "https://open.spotify.com/artist/3J8gnwzixjNXj5gM6a7h93"
+        }
+      ],
+      "duration_ms": 283684,
+      "name": "Miami",
+      "url": "https://open.spotify.com/track/3IVE4PaCFVFJauGDkoWke7"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Far Away",
+        "url": "https://open.spotify.com/album/2dwiEkPdL8mS1q9EqcX73A"
+      },
+      "artists": [
+        {
+          "name": "Lyke",
+          "url": "https://open.spotify.com/artist/3lc4xDLsQnWnjhntJfykpF"
+        }
+      ],
+      "duration_ms": 221320,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/7ixHfExIwVwKu0JApyTvuR"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -967,30 +1115,6 @@
       "duration_ms": 187747,
       "name": "Save Me (feat. Kiddo A.I.)",
       "url": "https://open.spotify.com/track/591wGDMg5Bnus2laEIK2Ac"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Peach Fuzz (Open Till L8 Remix)",
-        "url": "https://open.spotify.com/album/652W2txeGr5Gai22wOXg29"
-      },
-      "artists": [
-        {
-          "name": "Anna Lunoe",
-          "url": "https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D"
-        },
-        {
-          "name": "Totally Enormous Extinct Dinosaurs",
-          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
-        },
-        {
-          "name": "Open Till L8",
-          "url": "https://open.spotify.com/artist/6niasBrBbbzrUe7iWT6swJ"
-        }
-      ],
-      "duration_ms": 157382,
-      "name": "Peach Fuzz - Open Till L8 Remix",
-      "url": "https://open.spotify.com/track/5czjZtJsZobBSdyrT0vhOm"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1151,26 +1275,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Florianopolis",
-        "url": "https://open.spotify.com/album/4RJ3PkqGmetEBDM5At7cpj"
-      },
-      "artists": [
-        {
-          "name": "BADDIES ONLY",
-          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
-        },
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        }
-      ],
-      "duration_ms": 141467,
-      "name": "Florianopolis",
-      "url": "https://open.spotify.com/track/0Mn0K9k16wbDlyOPm0k4nU"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Left Behind",
         "url": "https://open.spotify.com/album/3ahJz8yBkI9eUcKun7MDel"
       },
@@ -1227,6 +1331,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "This Vibe",
+        "url": "https://open.spotify.com/album/017yktIyHrGiy6kiC9TtC0"
+      },
+      "artists": [
+        {
+          "name": "Havoc & Lawn",
+          "url": "https://open.spotify.com/artist/6EaFaq8NthVEQYSHSemmBv"
+        }
+      ],
+      "duration_ms": 193282,
+      "name": "This Vibe",
+      "url": "https://open.spotify.com/track/7xPUPWhtFVLolrQ1AmARHX"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "Howl",
         "url": "https://open.spotify.com/album/3N8N2qIQa4UhkjW8SrCcoQ"
       },
@@ -1243,22 +1363,6 @@
       "duration_ms": 192896,
       "name": "Howl",
       "url": "https://open.spotify.com/track/1PYUkeWwnAckQwOShEOyQy"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "All I Need",
-        "url": "https://open.spotify.com/album/2nCBGeudGkR5ZYFey8Ibix"
-      },
-      "artists": [
-        {
-          "name": "Forester",
-          "url": "https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc"
-        }
-      ],
-      "duration_ms": 186526,
-      "name": "All I Need",
-      "url": "https://open.spotify.com/track/4qOErzIVJ5dGY9U0aAZhwz"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1303,6 +1407,26 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/73pwMUogSX2FxWTg1jde4V"
+      },
+      "artists": [
+        {
+          "name": "Punk Mbedzi",
+          "url": "https://open.spotify.com/artist/2QtRhwmMeDArLkKSwBHSvi"
+        },
+        {
+          "name": "Tazzy",
+          "url": "https://open.spotify.com/artist/5CSWGvdAp5ZZO1BgZHtjVT"
+        }
+      ],
+      "duration_ms": 329365,
+      "name": "Celebration (feat. Tazzy) - Extended Mix",
+      "url": "https://open.spotify.com/track/7KhOZepnwFuo3krnvFRJJW"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "Deep Down",
         "url": "https://open.spotify.com/album/6qLxGWZeEO8XcScqKQ7tqZ"
       },
@@ -1315,42 +1439,6 @@
       "duration_ms": 208759,
       "name": "Can't Stop the Feeling",
       "url": "https://open.spotify.com/track/5CTd3hqGRzb8FYu7M2j9JE"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "In The Dark",
-        "url": "https://open.spotify.com/album/0jHCu9TvD0ZbfM2TlEbLqY"
-      },
-      "artists": [
-        {
-          "name": "Chapter & Verse",
-          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
-        }
-      ],
-      "duration_ms": 193809,
-      "name": "In The Dark",
-      "url": "https://open.spotify.com/track/1LX0J6oKsraPm6kWwRObzR"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Rush",
-        "url": "https://open.spotify.com/album/2eZsDmAcZj27p3B73kbcYp"
-      },
-      "artists": [
-        {
-          "name": "MPH",
-          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
-        },
-        {
-          "name": "Cecelia",
-          "url": "https://open.spotify.com/artist/6LtDEad7bRcRxBKQoiFAlI"
-        }
-      ],
-      "duration_ms": 232727,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/2a9hp6HbEtzUQBLv5C81mw"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1691,74 +1779,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Borealis",
-        "url": "https://open.spotify.com/album/7GJzsBX2cIrYaZbwtOjlbM"
-      },
-      "artists": [
-        {
-          "name": "Idrissi",
-          "url": "https://open.spotify.com/artist/5KYjLxvBWL3P087kSFs3QF"
-        },
-        {
-          "name": "Qaayel",
-          "url": "https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Borealis",
-      "url": "https://open.spotify.com/track/7opM0UdIFdCMbSOCIibLAr"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Far Away",
-        "url": "https://open.spotify.com/album/2dwiEkPdL8mS1q9EqcX73A"
-      },
-      "artists": [
-        {
-          "name": "Lyke",
-          "url": "https://open.spotify.com/artist/3lc4xDLsQnWnjhntJfykpF"
-        }
-      ],
-      "duration_ms": 221320,
-      "name": "Far Away",
-      "url": "https://open.spotify.com/track/7ixHfExIwVwKu0JApyTvuR"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "This Vibe",
-        "url": "https://open.spotify.com/album/017yktIyHrGiy6kiC9TtC0"
-      },
-      "artists": [
-        {
-          "name": "Havoc & Lawn",
-          "url": "https://open.spotify.com/artist/6EaFaq8NthVEQYSHSemmBv"
-        }
-      ],
-      "duration_ms": 193282,
-      "name": "This Vibe",
-      "url": "https://open.spotify.com/track/7xPUPWhtFVLolrQ1AmARHX"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Once I Was Young",
-        "url": "https://open.spotify.com/album/5YqMEy9J5JIskfp4zDti83"
-      },
-      "artists": [
-        {
-          "name": "Eli Escobar",
-          "url": "https://open.spotify.com/artist/3J8gnwzixjNXj5gM6a7h93"
-        }
-      ],
-      "duration_ms": 283684,
-      "name": "Miami",
-      "url": "https://open.spotify.com/track/3IVE4PaCFVFJauGDkoWke7"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Spooky",
         "url": "https://open.spotify.com/album/6UfKa4tiMxXCrc84faB64N"
       },
@@ -1871,26 +1891,6 @@
       "duration_ms": 167723,
       "name": "Poison",
       "url": "https://open.spotify.com/track/7KvJproUw3i9dJAdPdm8yo"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Seasons",
-        "url": "https://open.spotify.com/album/73pwMUogSX2FxWTg1jde4V"
-      },
-      "artists": [
-        {
-          "name": "Punk Mbedzi",
-          "url": "https://open.spotify.com/artist/2QtRhwmMeDArLkKSwBHSvi"
-        },
-        {
-          "name": "Tazzy",
-          "url": "https://open.spotify.com/artist/5CSWGvdAp5ZZO1BgZHtjVT"
-        }
-      ],
-      "duration_ms": 329365,
-      "name": "Celebration (feat. Tazzy) - Extended Mix",
-      "url": "https://open.spotify.com/track/7KhOZepnwFuo3krnvFRJJW"
     },
     {
       "added_at": "2022-09-16 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1wwcap53LA.md) - [plain]
 
 > Country music making waves\. Cover: Tanner Adell
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,526 likes - 93 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,546 likes - 93 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1wwcap53LA.md) - [plain]
 | 6 | [What Was I Drinking](https://open.spotify.com/track/05XhhXmBu1aUPNFLlTZ9XJ) | [Tebey](https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo) | [What Was I Drinking](https://open.spotify.com/album/6kYGLfvbmgWqOV2spNzb09) | 2:57 |
 | 7 | [Remember Her Name](https://open.spotify.com/track/6YMnz4CTX2NSg2JtXiSFJU) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Remember Her Name](https://open.spotify.com/album/2rAvDy2nHanof8iWkFUWKg) | 2:58 |
 | 8 | [Raised Right](https://open.spotify.com/track/2TPhxHTLZA7Rncf2NZFQho) | [Reyna Roberts](https://open.spotify.com/artist/4jpqm8g4We93Uk6M9M4FDh) | [Raised Right](https://open.spotify.com/album/46DaRD6UeqBpfhlULp0Zdy) | 3:11 |
-| 9 | [Baby I Am](https://open.spotify.com/track/6OSa9hgEvituO2SaaYBiwD) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [Baby I Am](https://open.spotify.com/album/44lDYWVwQ1yo5r066GtpSo) | 2:56 |
+| 9 | [Baby I Am](https://open.spotify.com/track/3pD2qgImjXbfepb5mksDp3) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [Baby I Am](https://open.spotify.com/album/5bg19JZRGPWA2ubmplCSt2) | 2:56 |
 | 10 | [For What It’s Worth](https://open.spotify.com/track/1r2dzf8CUPxJWhmJQKbC8p) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Cross Country](https://open.spotify.com/album/3I72c7nfxXdDDSPF04opm0) | 2:55 |
 | 11 | [Get Low, Get High \(Part 2\) \(feat\. Jon Batiste & Michael Todd\)](https://open.spotify.com/track/7vV9b8mBZhw6eiCc80VOSb) | [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM), [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Michael Todd](https://open.spotify.com/artist/0DjXhpFVGNYlevPm7EGjrp) | [Get Low, Get High \(Part 2\) \(feat\. Jon Batiste & Michael Todd\)](https://open.spotify.com/album/5egAPl3SGfXZIW2dIzqDpo) | 3:38 |
 | 12 | [If I Wanted Wine](https://open.spotify.com/track/4cgwtyl8Ig2RxDTz0d0JyM) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [We Did](https://open.spotify.com/album/4T5T6Py0YU61WOtWOuhRwg) | 2:44 |
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1wwcap53LA.md) - [plain]
 | 92 | [Guilty](https://open.spotify.com/track/1WKRU8ovR8lbHD5gIj8h2P) | [O.N.E The Duo](https://open.spotify.com/artist/4sIPNUYiz7FcZBx1oHuMHe) | [Guilty](https://open.spotify.com/album/50ahLeRHDEANoAMhDnaNCz) | 3:02 |
 | 93 | [Over Yonder \(feat\. Matt Stell\)](https://open.spotify.com/track/6fk8yiw2sxAC6ycLU7EaZa) | [Lathan Warlick](https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP), [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy) | [Over Yonder \(feat\. Matt Stell\)](https://open.spotify.com/album/2FDgPyH6uGxspBo6ReEUxW) | 2:00 |
 
-Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMDgyMDJjOGFlMzI5ZjBmMWQwYjcxMTU3Nzk4MWE5YjJm`
+Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMDRjYzFmZjEwZmQ5MDM3MTZkNjIxM2ZjNGVjZmQwN2Vm`

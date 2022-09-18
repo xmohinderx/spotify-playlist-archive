@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1trEdl.md) - [plain]
 
 > This is The Three Degrees\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,254 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,256 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1trEdl.md) - [plain]
 | 21 | [A Woman Needs A Good Man](https://open.spotify.com/track/6WOGuewVo54QJIGsXDxjo9) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Three Degrees](https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX) | 4:19 |
 | 22 | [Together](https://open.spotify.com/track/0KXFMaPm7rgqv7vXwBGMTZ) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [International](https://open.spotify.com/album/1iYIS3Gf48EDrGxU7Uif3G) | 4:37 |
 | 23 | [Jump The Gun](https://open.spotify.com/track/74HHvkOUslEi5ra2hifet1) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Best Of](https://open.spotify.com/album/4URmx7IbGKCfW5eXWC5zfG) | 3:59 |
-| 24 | [Maybe](https://open.spotify.com/track/2VJUb4hrOmugyRDMOJbkEK) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [So Much Love \(Expanded Edition\)](https://open.spotify.com/album/7v5XgVfc4BOl7nK1AZMS9U) | 5:37 |
-| 25 | [We're All Alone](https://open.spotify.com/track/4hua7kkNIxSudKIxRmDk5n) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Three Degrees \- The Very Best Of](https://open.spotify.com/album/6q15LPZbFU3wOVF35S6c2l) | 3:33 |
+| 24 | [We're All Alone](https://open.spotify.com/track/4hua7kkNIxSudKIxRmDk5n) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Three Degrees \- The Very Best Of](https://open.spotify.com/album/6q15LPZbFU3wOVF35S6c2l) | 3:33 |
+| 25 | [Maybe](https://open.spotify.com/track/2VJUb4hrOmugyRDMOJbkEK) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [So Much Love \(Expanded Edition\)](https://open.spotify.com/album/7v5XgVfc4BOl7nK1AZMS9U) | 5:37 |
 | 26 | [Distant Lover](https://open.spotify.com/track/4vDVb41r0ihsr6SrPuRvt8) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [International \(Expanded Edition\)](https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG) | 4:04 |
 | 27 | [I Do Take You](https://open.spotify.com/track/0qxo60yGHQWWROmJXvcSCy) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Roulette Years](https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1) | 3:16 |
 | 28 | [Everybody Gets to Go to the Moon \- Live](https://open.spotify.com/track/3Uzj51MegrbwSZg9hBFfpX) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Best Of The Three Degrees: When Will I See You Again](https://open.spotify.com/album/0GO4Ee0UN5cyB1FnWPfOzz) | 3:34 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1trEdl.md) - [plain]
 | 41 | [Who Is She and What Is She to You](https://open.spotify.com/track/5pzpxn3XvxtVeCNSBm8zys) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [So Much Love \(Expanded Edition\)](https://open.spotify.com/album/7v5XgVfc4BOl7nK1AZMS9U) | 3:17 |
 | 42 | [I Won't Let You Go](https://open.spotify.com/track/0EDADfWHwCXlZDETMCBW3m) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Playlist: The Best Of The Roulette Years](https://open.spotify.com/album/6XpWAy4yKqmaopZL0xeb15) | 2:58 |
 | 43 | [T.S.O.P\. \(The Sound Of Philadelphia\) \- Live at Bailey's, London, England \- 1975](https://open.spotify.com/track/45zlvuzYYe5jcG8VX9XXEZ) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Three Degrees Live](https://open.spotify.com/album/793TTHJPK3W7Np8E2Duufl) | 3:48 |
-| 44 | [This Is the House](https://open.spotify.com/track/7EDI0Ak3KRTgcCZndJJYaG) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [This Is the House](https://open.spotify.com/album/3g1eUz81JzJzie1W6CmbiM) | 3:41 |
-| 45 | [Here I Am](https://open.spotify.com/track/1aXaf5rZY2Me4cF9A8nREf) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [International \(Expanded Edition\)](https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG) | 3:54 |
+| 44 | [Here I Am](https://open.spotify.com/track/1aXaf5rZY2Me4cF9A8nREf) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [International \(Expanded Edition\)](https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG) | 3:54 |
+| 45 | [This Is the House](https://open.spotify.com/track/7EDI0Ak3KRTgcCZndJJYaG) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [This Is the House](https://open.spotify.com/album/3g1eUz81JzJzie1W6CmbiM) | 3:41 |
 | 46 | [You're the Fool](https://open.spotify.com/track/0Gvcv8098ht4cz0gZTqrc5) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Playlist: The Best Of The Roulette Years](https://open.spotify.com/album/6XpWAy4yKqmaopZL0xeb15) | 2:49 |
 | 47 | [Free Ride \- Live at Bailey's, London, England \- 1975](https://open.spotify.com/track/6p31MRw6SHnG4B2FOV8I0Z) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Three Degrees Live](https://open.spotify.com/album/793TTHJPK3W7Np8E2Duufl) | 2:43 |
 | 48 | [Holding Back \(Lounge Remix\)](https://open.spotify.com/track/5eh1kdp9Go1FDHWxLGUGoU) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Holding Back \(Lounge Remix\)](https://open.spotify.com/album/0dvUplDgs0OvKxPcIls9T8) | 4:32 |
 | 49 | [You're the One](https://open.spotify.com/track/7F6kaO0Bp9uKefViCZGiP4) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Maybe \(Expanded Edition\)](https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit) | 3:24 |
 | 50 | [The Magic Door](https://open.spotify.com/track/5B94YFQfQ42lnEoOn3tA7M) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Roulette Years](https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1) | 2:33 |
 
-Snapshot ID: `Mjc3MjIyMzMsMDAwMDAwMDA4NDY2YzUzMTdiNWIwMzY3Mjc2OTZkYzA3NTI1NzQxOA==`
+Snapshot ID: `Mjc3MjM2OTIsMDAwMDAwMDBiNjJmOGZjMmE2ZTRjNjI4ZWY5NzliMjczNDY4N2Q4YQ==`

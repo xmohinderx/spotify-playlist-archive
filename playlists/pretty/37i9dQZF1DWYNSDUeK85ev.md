@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNSDUeK85ev.md) - [plain]
 
 > Kaleb Di Masi, L\-Gante y Omar, traigan pa' tomar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 461,009 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 461,383 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

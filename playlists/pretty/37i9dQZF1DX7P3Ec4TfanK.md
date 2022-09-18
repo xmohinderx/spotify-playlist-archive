@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7P3Ec4TfanK.md) - [plain]
 
 > Inizia la giornata con la tua dose di caffè e carica musicale!
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,323 likes - 80 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,360 likes - 80 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7P3Ec4TfanK.md) - [plain]
 | 66 | [Run](https://open.spotify.com/track/6oYXbji1rn7U6bFuNYekpQ) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Run](https://open.spotify.com/album/7JCAQ1ISjY2Le5hcXUmU0L) | 3:08 |
 | 67 | [Following the Sun](https://open.spotify.com/track/5A5bLKdL5I3k3FTEQlAUw7) | [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE), [NEEKA](https://open.spotify.com/artist/1JPZHb1qziDJ05n0a1OvfW) | [Following the Sun](https://open.spotify.com/album/140Jok6j3tn10bqgUqcUVG) | 3:25 |
 | 68 | [Wonder](https://open.spotify.com/track/5KCbr5ndeby4y4ggthdiAb) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Wonder](https://open.spotify.com/album/7vif3nVzXURIrjGjHeHytB) | 2:52 |
-| 69 | [I love you baby](https://open.spotify.com/track/1AbtrHeUDmWsYUsRApmICf) | [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi), [Sixpm](https://open.spotify.com/artist/1DqxHZcNsyQouEIgARx6Zx) | [I love you baby](https://open.spotify.com/album/0rVtGENSOaBniMuuxBLvi6) | 3:32 |
-| 70 | [Let's Love](https://open.spotify.com/track/6lhZLbb0czULpjb2kFryPS) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Let's Love](https://open.spotify.com/album/4t9C75dy0UtR4JE7vNYQRr) | 3:20 |
+| 69 | [Let's Love](https://open.spotify.com/track/6lhZLbb0czULpjb2kFryPS) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Let's Love](https://open.spotify.com/album/4t9C75dy0UtR4JE7vNYQRr) | 3:20 |
+| 70 | [I love you baby](https://open.spotify.com/track/1AbtrHeUDmWsYUsRApmICf) | [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi), [Sixpm](https://open.spotify.com/artist/1DqxHZcNsyQouEIgARx6Zx) | [I love you baby](https://open.spotify.com/album/0rVtGENSOaBniMuuxBLvi6) | 3:32 |
 | 71 | [Head Shoulders Knees & Toes \(feat\. Norma Jean Martine\)](https://open.spotify.com/track/6i7zAdNhzUN2k1HcrBxPHG) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Quarterhead](https://open.spotify.com/artist/2h6hAChW74hB9HvrNoK1RY), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [Head Shoulders Knees & Toes \(feat\. Norma Jean Martine\)](https://open.spotify.com/album/1MZ3ZQqAV3wFjHjaOe6KFz) | 2:36 |
 | 72 | [Diamonds](https://open.spotify.com/track/5hvwx5i67IwnCkjl9VHkNv) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Diamonds](https://open.spotify.com/album/2IAyprsfyoPBGDvbLjgsN5) | 3:33 |
 | 73 | [Missing Piece](https://open.spotify.com/track/5YqdiryRmdAzYFlxo43hAJ) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Missing Piece](https://open.spotify.com/album/6zQCdokfVne8dFU5Z5BpS3) | 3:37 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7P3Ec4TfanK.md) - [plain]
 | 79 | [farfalle](https://open.spotify.com/track/5HujDMiRNqZwEzVAh3oFD3) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [farfalle](https://open.spotify.com/album/1WCDSnckeIERycPR36vEiZ) | 2:44 |
 | 80 | [Perfect Melody](https://open.spotify.com/track/17XwUcwd6SmoypiA3tIwHH) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Julian Perretta](https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG) | [Perfect Melody](https://open.spotify.com/album/5dnpfIyc6hbO2HO5bIaj6L) | 2:39 |
 
-Snapshot ID: `MTY2MTk1OTQzNiwwMDAwMDAwMDVlZmY1YTZkYjYxYzBkM2Q0YzYxNGQzNTEwZTZlYmI2`
+Snapshot ID: `MTY2MTk1OTQzNiwwMDAwMDAwMGMzMWI3MWRhMzFmMzVhMjliNjA1YzdkNDM5MzhkZTJl`

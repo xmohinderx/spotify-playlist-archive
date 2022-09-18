@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74Skr7pPd2D.md) - [plain]
 
 > Releases from the legendary label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,510 likes - 100 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,523 likes - 100 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,17 +28,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74Skr7pPd2D.md) - [plain]
 | 18 | [In A Sentimental Mood](https://open.spotify.com/track/3MNxcdz3SFeMfX4KunRsjZ) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Duke Ellington Song Book](https://open.spotify.com/album/2VgS17fUEsUer5nCbM2juj) | 2:48 |
 | 19 | [Bumpin' On Sunset](https://open.spotify.com/track/1yxJK6q9oymWO3vjbPCYmp) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Tequila \(Expanded Edition\)](https://open.spotify.com/album/7DGv1MKlPZrLkP0HCSDm8I) | 4:49 |
 | 20 | [Take The Coltrane](https://open.spotify.com/track/6aNnVdpAQu8R0qGq5NMXyZ) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Duke Ellington & John Coltrane](https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5) | 4:42 |
-| 21 | [Samba Triste](https://open.spotify.com/track/6y2YxIUeM9uMgAINRnb11K) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Charlie Byrd](https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik) | [Jazz Samba](https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom) | 4:43 |
-| 22 | [A Night In Tunisia](https://open.spotify.com/track/5fxJzPPvuvdhHypgme9cVX) | [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn) | [Birks Works: The Verve Big\-Band Sessions](https://open.spotify.com/album/7yyH8DozyrWFMEAWhCV2oS) | 5:34 |
+| 21 | [A Night In Tunisia](https://open.spotify.com/track/5fxJzPPvuvdhHypgme9cVX) | [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn) | [Birks Works: The Verve Big\-Band Sessions](https://open.spotify.com/album/7yyH8DozyrWFMEAWhCV2oS) | 5:34 |
+| 22 | [Samba Triste](https://open.spotify.com/track/6y2YxIUeM9uMgAINRnb11K) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Charlie Byrd](https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik) | [Jazz Samba](https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom) | 4:43 |
 | 23 | [Whisper Not](https://open.spotify.com/track/79C7NxcxlBEJcyGHGy6ZMD) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB), [The Three Sounds](https://open.spotify.com/artist/5wVeG4RM2VXsFwyylF8vXi) | [Anita O'Day And The Three Sounds](https://open.spotify.com/album/7FocJoTkE5a9i9ngXe4xCX) | 2:56 |
 | 24 | [You're My Thrill](https://open.spotify.com/track/350exLbRdtTfhVRPgdmIWi) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baker's Holiday](https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR) | 2:59 |
 | 25 | [There Is No Greater Love](https://open.spotify.com/track/372QbYnp7oUWhRCplHNlUN) | [Gene Ammons](https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK), [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj) | [Boss Tenors: Straight Ahead From Chicago August 1961](https://open.spotify.com/album/3roiMTcjRTDTqyDTc29Pjv) | 6:34 |
 | 26 | [Round Midnight](https://open.spotify.com/track/7LzDBgmMFhfcqPaYBTJoj4) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k) | [An Image: Lee Konitz With Strings](https://open.spotify.com/album/3uW4dhafeqWlQrN9bXE3YN) | 5:19 |
 | 27 | [Stompin' At The Savoy](https://open.spotify.com/track/4Skc87uKf4cHqEYbnr56La) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [A Generation Ago Today](https://open.spotify.com/album/1L4xE6y5n2qKfYqJCoqzLf) | 6:08 |
-| 28 | [Night And Day](https://open.spotify.com/track/6pxtYyPZ0bRGknKlughfXL) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Stan Getz & Bill Evans](https://open.spotify.com/album/5hDoJAJdkIETlQajUu71hQ) | 6:45 |
-| 29 | [Las Vegas Tango](https://open.spotify.com/track/1IEbtXrHgN37lTQi9Byx6g) | [Gil Evans](https://open.spotify.com/artist/7g9DeYASD3RzlT4kDchsQZ) | [The Individualism Of Gil Evans](https://open.spotify.com/album/3dmkH0MnFScU9uB1naCAms) | 6:35 |
-| 30 | [Funky Broadway](https://open.spotify.com/track/2CAgx55oNmNRUjC1XKNDe4) | [Jimmy Smith](https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6) | [The Complete Verve Singles](https://open.spotify.com/album/2gmllgULrjkPa1QSZ2mPwd) | 2:29 |
-| 31 | [It Could Happen To You](https://open.spotify.com/track/7ns8zu3jKepR1oed6TvglA) | [Herb Ellis](https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz) | [Ellis In Wonderland](https://open.spotify.com/album/0eoeuhP2vaqXF05wiDTTWP) | 3:44 |
+| 28 | [Las Vegas Tango](https://open.spotify.com/track/1IEbtXrHgN37lTQi9Byx6g) | [Gil Evans](https://open.spotify.com/artist/7g9DeYASD3RzlT4kDchsQZ) | [The Individualism Of Gil Evans](https://open.spotify.com/album/3dmkH0MnFScU9uB1naCAms) | 6:35 |
+| 29 | [Funky Broadway](https://open.spotify.com/track/2CAgx55oNmNRUjC1XKNDe4) | [Jimmy Smith](https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6) | [The Complete Verve Singles](https://open.spotify.com/album/2gmllgULrjkPa1QSZ2mPwd) | 2:29 |
+| 30 | [It Could Happen To You](https://open.spotify.com/track/7ns8zu3jKepR1oed6TvglA) | [Herb Ellis](https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz) | [Ellis In Wonderland](https://open.spotify.com/album/0eoeuhP2vaqXF05wiDTTWP) | 3:44 |
+| 31 | [Night And Day](https://open.spotify.com/track/6pxtYyPZ0bRGknKlughfXL) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Stan Getz & Bill Evans](https://open.spotify.com/album/5hDoJAJdkIETlQajUu71hQ) | 6:45 |
 | 32 | [There Is No Greater Love](https://open.spotify.com/track/0mcL5G9Bf8SSzqpuQQm1bI) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baker's Holiday](https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR) | 2:34 |
 | 33 | [Moonlight \(Claro de Luna\)](https://open.spotify.com/track/538qa5HsgLRVkRqTKBbuDn) | [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin) | [Nocturne](https://open.spotify.com/album/1CwbHBZZktmDFhK2TDU8Bo) | 5:33 |
 | 34 | [River](https://open.spotify.com/track/6pQ7nunBpQc5In5wBl2ZhK) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW), [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [River: The Joni Letters \(Expanded Edition\)](https://open.spotify.com/album/3POVQYTvE1DYjlLWulZpTR) | 5:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74Skr7pPd2D.md) - [plain]
 | 99 | [I Could Write A Book \- Live At Bradshaw's Great American Music Hall, San Francisco/1979](https://open.spotify.com/track/2MdYSm0alrxtQ6jRFjtoSC) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ) | [The Audience With Betty Carter \(Live\)](https://open.spotify.com/album/19sY1QgcDOQLe8MpHOfYTx) | 3:41 |
 | 100 | [Close Your Eyes](https://open.spotify.com/track/3RlSNWZozZWOjSLvyjAd3l) | [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [The Complete Verve Studio Sessions](https://open.spotify.com/album/7MtvcTxFnvzzhkmRsPiHA2) | 2:39 |
 
-Snapshot ID: `MTYxOTY5MTI1NCwwMDAwMDAwMDg5NzkzYzk3ZjhlY2ZjY2RmZWIyZTc2ZmY5NzJkNDg0`
+Snapshot ID: `MTYxOTY5MTI1NCwwMDAwMDAwMGZhMzZhNjY0NTFmMDkxOGMxNzA0OWQ5MTA2ZjE1Y2Y5`

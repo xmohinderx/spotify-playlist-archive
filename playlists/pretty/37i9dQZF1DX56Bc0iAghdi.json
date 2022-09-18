@@ -1,12 +1,12 @@
 {
   "description": "Songs of love, hope and positivity for the world.   Listen with Spirit!  Cover: Local Sound",
-  "num_followers": 17972,
+  "num_followers": 17979,
   "original_name": "Spirit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU2OTAwNDQ0NiwwMDAwMDAwMDQ5MjRiYzAwMGQyODBlMjQwNzVlMDk1ZTBmYWRhZGNh",
+  "snapshot_id": "MTU2OTAwNDQ0NiwwMDAwMDAwMDdjOTRjM2FmNmM0ZjVhMWMzZTg0MTVlOTIzNWU4MzFi",
   "tracks": [
     {
       "added_at": "2019-09-20 18:34:06",
@@ -731,6 +731,22 @@
     {
       "added_at": "2019-09-20 18:34:06",
       "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/074R4kqJ2xNe4h8GkGBON8"
+      },
+      "artists": [
+        {
+          "name": "Planetshakers",
+          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
+        }
+      ],
+      "duration_ms": 201879,
+      "name": "I Lift Your Name Up - 80's Remix",
+      "url": "https://open.spotify.com/track/3dw4ddlaQmQVFY5V1mBClv"
+    },
+    {
+      "added_at": "2019-09-20 18:34:06",
+      "album": {
         "name": "Awe + Wonder (Live)",
         "url": "https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 497289,
       "name": "Incense - Live",
       "url": "https://open.spotify.com/track/4sEmnvIiB16v5PYlNWnzS3"
-    },
-    {
-      "added_at": "2019-09-20 18:34:06",
-      "album": {
-        "name": "Rain",
-        "url": "https://open.spotify.com/album/074R4kqJ2xNe4h8GkGBON8"
-      },
-      "artists": [
-        {
-          "name": "Planetshakers",
-          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
-        }
-      ],
-      "duration_ms": 201879,
-      "name": "I Lift Your Name Up - 80's Remix",
-      "url": "https://open.spotify.com/track/3dw4ddlaQmQVFY5V1mBClv"
     },
     {
       "added_at": "2019-09-20 18:34:06",

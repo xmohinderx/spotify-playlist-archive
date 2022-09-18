@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdBIyTaKDBw.md) - [plain]
 
 > Enjoy your happy & sweet eating time with Korean theme! \(사랑스러운 음악들과 행복한 식사 시간을 가져보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,688 likes - 70 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,756 likes - 70 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdBIyTaKDBw.md) - [plain]
 | 31 | [Friendzone \(feat\. BIG Naughty\)](https://open.spotify.com/track/2rX3swM25DhNwg7mTjnzbG) | [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Friendzone](https://open.spotify.com/album/4WLwRi2w6XzOnCQfupjl2Q) | 3:42 |
 | 32 | [Sea Of Love](https://open.spotify.com/track/02AThDf6z3YEYObZdqskyB) | [FLY TO THE SKY](https://open.spotify.com/artist/7rlMZAZYtRkjFg4HHhvYeC) | [Back in Time](https://open.spotify.com/album/7avQrMgx6JDi4gT1KM15zt) | 4:15 |
 | 33 | [We are all Muse \(Feat\. Yerin Baek\)](https://open.spotify.com/track/1p3EE66M8YuZ86FyYPpvnn) | [The BLANK Shop](https://open.spotify.com/artist/1EpuNC9xipj4L0GbEz6RJk), [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Tailor](https://open.spotify.com/album/14g9BZeQyFfVOie1oKai3Z) | 4:27 |
-| 34 | [Sugardance](https://open.spotify.com/track/3yq1iV9RwejrwebPyWnh6B) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Sweeet](https://open.spotify.com/album/7Io0qmAUvOmpo6pVGSFiIl) | 2:57 |
-| 35 | [Thinking of you \(Feat\. Lee Yu Bin\)](https://open.spotify.com/track/0HjXWaEloMpHcBUlQOqDhr) | [Brunch recipe](https://open.spotify.com/artist/1dD0MLYuJ9HuIzBpQSKh0v), [Lee Yu Bin](https://open.spotify.com/artist/68n72jwJJfHg9MeLekrdub) | [Thinking of you](https://open.spotify.com/album/1MwHsKCA47rjE8vV9XKLqA) | 3:13 |
+| 34 | [Thinking of you \(Feat\. Lee Yu Bin\)](https://open.spotify.com/track/0HjXWaEloMpHcBUlQOqDhr) | [Brunch recipe](https://open.spotify.com/artist/1dD0MLYuJ9HuIzBpQSKh0v), [Lee Yu Bin](https://open.spotify.com/artist/68n72jwJJfHg9MeLekrdub) | [Thinking of you](https://open.spotify.com/album/1MwHsKCA47rjE8vV9XKLqA) | 3:13 |
+| 35 | [Sugardance](https://open.spotify.com/track/3yq1iV9RwejrwebPyWnh6B) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Sweeet](https://open.spotify.com/album/7Io0qmAUvOmpo6pVGSFiIl) | 2:57 |
 | 36 | [Leave like this](https://open.spotify.com/track/1DjihD1VQAuuaRaMDOKOjy) | [Seokman Cheon](https://open.spotify.com/artist/5KoLNvPbAWGHVOCXwam9T0), [Inyu](https://open.spotify.com/artist/4uVDPhjO1wDe5AEptC6wo2) | [Leave like this](https://open.spotify.com/album/6FQObmvOZQ9MXzRddnhUkJ) | 3:25 |
 | 37 | [No Worries](https://open.spotify.com/track/0S4wrclgzJLWeCAAPNqxCk) | [DAHEE](https://open.spotify.com/artist/3esENfTnYy40Cs650mMtyT) | [No Worries](https://open.spotify.com/album/14U4o40m1Rp0Sk9sHd0nkU) | 2:54 |
 | 38 | [Waters of March](https://open.spotify.com/track/6ZAdaChu9ukRHdWARdTWIS) | [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS), [Keumbee](https://open.spotify.com/artist/1NwyafFmvijU7E9b1PjgQm) | [Salt Rain \(Prod\. By Alfie Hole\)](https://open.spotify.com/album/2PQIXQNasV6iN55iAMNccn) | 3:37 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdBIyTaKDBw.md) - [plain]
 | 69 | [Heart in Motion](https://open.spotify.com/track/7p23qMHn32rwnIcGIFJxgK) | [The Green Tea](https://open.spotify.com/artist/2YSSfMg2K75oTvfc63kGQB) | [Heart in Motion](https://open.spotify.com/album/4mFnHs0Q8PXVeibICq4w15) | 3:47 |
 | 70 | [ROSE](https://open.spotify.com/track/2UtnEVpdE5gunruf2GiGpS) | [EDEN](https://open.spotify.com/artist/1NKjYoo9hYXCKSlxecTY49), [SONG JU HEE 송주희](https://open.spotify.com/artist/7I028o0Vby3syaeumHkoFU) | [ROSE](https://open.spotify.com/album/26fovYAowQaJmrucMlNztd) | 2:58 |
 
-Snapshot ID: `MTY2MjU1Nzk4NiwwMDAwMDAwMDViMzJkYzY0M2Y0MjYwMGY2ZDQ0YThlNGU2M2UxMmQ3`
+Snapshot ID: `MTY2MjU1Nzk4NiwwMDAwMDAwMDY1YzNkYWIzZmNjNDc3MTUyMTkxYmMzZGEzY2ZmMDM3`

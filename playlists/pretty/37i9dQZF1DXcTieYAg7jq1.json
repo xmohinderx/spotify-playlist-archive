@@ -1,12 +1,12 @@
 {
   "description": "Featuring that new vintage. Cover: Meghan Trainor",
-  "num_followers": 399462,
+  "num_followers": 399466,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5NjA2MCwwMDAwMDAwMDA0NTRjNTlhODhlMzhhMTdlYTg1ZmZjZmM5MjYyNDVk",
+  "snapshot_id": "MTY2MjY5NjA2MCwwMDAwMDAwMGU1MDZkNmQyNGM0MGJhZGQ0MzYwYTcxZTU1NDI5Mzk2",
   "tracks": [
     {
       "added_at": "2022-09-09 04:01:00",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2021-12-03 05:01:00",
       "album": {
+        "name": "Heaven (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5XRvidlLFT4rMytzHK7smn"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Ferguson",
+          "url": "https://open.spotify.com/artist/0CrCKxXekxMpkYfMEf8mca"
+        }
+      ],
+      "duration_ms": 209586,
+      "name": "Glitter & Gold",
+      "url": "https://open.spotify.com/track/5Q6mIVCErKoI6zb7wxJlBs"
+    },
+    {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
         "name": "Velcro (feat. Gus Dapperton)",
         "url": "https://open.spotify.com/album/7yBUQWGRTjCSwSKVbcFbcA"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 192793,
       "name": "Velcro (feat. Gus Dapperton)",
       "url": "https://open.spotify.com/track/4jN6jgeKdFG7oBeXg3qC26"
-    },
-    {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
-        "name": "Heaven (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5XRvidlLFT4rMytzHK7smn"
-      },
-      "artists": [
-        {
-          "name": "Rebecca Ferguson",
-          "url": "https://open.spotify.com/artist/0CrCKxXekxMpkYfMEf8mca"
-        }
-      ],
-      "duration_ms": 209586,
-      "name": "Glitter & Gold",
-      "url": "https://open.spotify.com/track/5Q6mIVCErKoI6zb7wxJlBs"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -1413,6 +1413,22 @@
       "url": "https://open.spotify.com/track/6x9CsGaWqqtaggNYelyWO5"
     },
     {
+      "added_at": "2022-02-11 05:01:00",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/6qPMvni16dK3GuVk6K2fXa"
+      },
+      "artists": [
+        {
+          "name": "James Morrison",
+          "url": "https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35"
+        }
+      ],
+      "duration_ms": 240053,
+      "name": "Precious Love (Refreshed)",
+      "url": "https://open.spotify.com/track/2Qi7xDDXuuiwPYnVMBsTfo"
+    },
+    {
       "added_at": "2022-08-12 04:01:00",
       "album": {
         "name": "Catch My Wave",
@@ -1433,22 +1449,6 @@
       "url": "https://open.spotify.com/track/7k94tKY98gAeq1sTvPPRWW"
     },
     {
-      "added_at": "2022-02-11 05:01:00",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/6qPMvni16dK3GuVk6K2fXa"
-      },
-      "artists": [
-        {
-          "name": "James Morrison",
-          "url": "https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35"
-        }
-      ],
-      "duration_ms": 240053,
-      "name": "Precious Love (Refreshed)",
-      "url": "https://open.spotify.com/track/2Qi7xDDXuuiwPYnVMBsTfo"
-    },
-    {
       "added_at": "2021-12-03 05:01:00",
       "album": {
         "name": "Grow",
@@ -1463,22 +1463,6 @@
       "duration_ms": 180523,
       "name": "Grow",
       "url": "https://open.spotify.com/track/3jPd7hIM0feCje8ZbVu6en"
-    },
-    {
-      "added_at": "2022-05-20 04:01:00",
-      "album": {
-        "name": "Face The River",
-        "url": "https://open.spotify.com/album/4YG58y43kECDcA1w5XNO2m"
-      },
-      "artists": [
-        {
-          "name": "Gavin DeGraw",
-          "url": "https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz"
-        }
-      ],
-      "duration_ms": 219333,
-      "name": "Greatest Of All Time",
-      "url": "https://open.spotify.com/track/57MOYJiJyxRG2ekDRaP3Vj"
     },
     {
       "added_at": "2022-07-22 04:02:00",
@@ -1511,6 +1495,22 @@
       "duration_ms": 236666,
       "name": "Someone to Love",
       "url": "https://open.spotify.com/track/6FAoGmM3fdvOvEivi9edSd"
+    },
+    {
+      "added_at": "2022-05-20 04:01:00",
+      "album": {
+        "name": "Face The River",
+        "url": "https://open.spotify.com/album/4YG58y43kECDcA1w5XNO2m"
+      },
+      "artists": [
+        {
+          "name": "Gavin DeGraw",
+          "url": "https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz"
+        }
+      ],
+      "duration_ms": 219333,
+      "name": "Greatest Of All Time",
+      "url": "https://open.spotify.com/track/57MOYJiJyxRG2ekDRaP3Vj"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -1633,22 +1633,6 @@
       "url": "https://open.spotify.com/track/39ZpHwLpCFBDeLpOphQYLQ"
     },
     {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
-        "name": "Woman on the Internet",
-        "url": "https://open.spotify.com/album/3TEaY5Lqzymo0AVv2HkQep"
-      },
-      "artists": [
-        {
-          "name": "Orla Gartland",
-          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
-        }
-      ],
-      "duration_ms": 224638,
-      "name": "Madison",
-      "url": "https://open.spotify.com/track/3GNnTQVqE4zUSECYzHXq0b"
-    },
-    {
       "added_at": "2022-03-25 04:01:00",
       "album": {
         "name": "Higher",
@@ -1663,6 +1647,22 @@
       "duration_ms": 143386,
       "name": "Baby I'll Wait",
       "url": "https://open.spotify.com/track/7zqznhNk8DZbwo8fWIF82V"
+    },
+    {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "Woman on the Internet",
+        "url": "https://open.spotify.com/album/3TEaY5Lqzymo0AVv2HkQep"
+      },
+      "artists": [
+        {
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+        }
+      ],
+      "duration_ms": 224638,
+      "name": "Madison",
+      "url": "https://open.spotify.com/track/3GNnTQVqE4zUSECYzHXq0b"
     },
     {
       "added_at": "2021-12-03 05:01:00",

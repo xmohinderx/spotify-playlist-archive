@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3R7OWWGN4gH.md) - [plain]
 
 > entering my reputation era 🐍
 
-[Spotify](https://open.spotify.com/user/spotify) - 650,885 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 652,346 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3R7OWWGN4gH.md) - [plain]
 | 82 | [People I Don't Like](https://open.spotify.com/track/5srKMwXoeyrRnyTnNbpgIW) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [People I Don't Like](https://open.spotify.com/album/56c9o6LVrsm995xmDpAZrA) | 2:22 |
 | 83 | [STUPID \(feat\. Yung Baby Tate\)](https://open.spotify.com/track/6qNB2ChCVPepl5ZjVJJTUW) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Hi, It's Me](https://open.spotify.com/album/5eKuModdAdZRmc51241r4D) | 2:47 |
 | 84 | [Glitter & Gold](https://open.spotify.com/track/1Mf27cnAF1Q6Ko83XTM5d1) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [The Attractions Of Youth](https://open.spotify.com/album/2pWDyiJFya59ue0391kzSl) | 2:56 |
-| 85 | [The Red Means I Love You](https://open.spotify.com/track/5pLbM4PU1wZyMvoQyEAorp) | [Madds Buckley](https://open.spotify.com/artist/4BLdbgVNetzII3ggCMsNtq) | [The Red Means I Love You](https://open.spotify.com/album/0m4Okss4lEAUYKrrXxIy1E) | 3:53 |
-| 86 | [Dangerous Woman](https://open.spotify.com/track/6RUhbFEhrvGISaQ8u2j2JN) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dangerous Woman](https://open.spotify.com/album/3pdKKSqqLVIKmRTGw0x2N7) | 3:55 |
+| 85 | [Dangerous Woman](https://open.spotify.com/track/6RUhbFEhrvGISaQ8u2j2JN) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dangerous Woman](https://open.spotify.com/album/3pdKKSqqLVIKmRTGw0x2N7) | 3:55 |
+| 86 | [The Red Means I Love You](https://open.spotify.com/track/5pLbM4PU1wZyMvoQyEAorp) | [Madds Buckley](https://open.spotify.com/artist/4BLdbgVNetzII3ggCMsNtq) | [The Red Means I Love You](https://open.spotify.com/album/0m4Okss4lEAUYKrrXxIy1E) | 3:53 |
 | 87 | [Break My Heart Myself \(feat\. Travis Barker\)](https://open.spotify.com/track/3UjGudrhckjEQjKHLR3p5G) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Better Mistakes](https://open.spotify.com/album/0ypVp54cO3kexiJNu33wYp) | 2:31 |
 | 88 | [Potential Breakup Song](https://open.spotify.com/track/11dxtPJKR4E0wlSr0A0t47) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Insomniatic](https://open.spotify.com/album/4TOOGDpJ9KQ8EM84TC4qj6) | 3:39 |
 | 89 | [Drugs](https://open.spotify.com/track/06ioYJ99HHjzRk8HrGfkKS) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Drugs](https://open.spotify.com/album/46S95aTUFWSVmRmDKAGnFf) | 2:35 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3R7OWWGN4gH.md) - [plain]
 | 99 | [Don't Lose Ur Head](https://open.spotify.com/track/6sUQqRmOcRyAG5M3EWXzr3) | [SIX](https://open.spotify.com/artist/1VbWMsap5Ex2erHPlmndr0), [Christina Modestou](https://open.spotify.com/artist/21uejta558No7qYG1Nmwn7) | [Six: The Musical \(Studio Cast Recording\)](https://open.spotify.com/album/5jTDaLFNQovRyjNcWe4cZh) | 4:05 |
 | 100 | [Hello Bitches](https://open.spotify.com/track/72ysGFB4mZTgQsPqN9PzPS) | [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | [Hello Bitches](https://open.spotify.com/album/1pu6aEuAKBdTdQLSbfBNTG) | 2:58 |
 
-Snapshot ID: `MTY2MzA4NjI0NywwMDAwMDAwMGE2ZGZmNDE0OGM3NDQ1MGI3NDkyNzc3ZDBkNTE1YTBm`
+Snapshot ID: `MTY2MzA4NjI0NywwMDAwMDAwMDIzNGM2NGM2NTIzN2UwNDA2OTRlNThhZGIyNzU5M2E3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6YOhGMjjgx.md) - [plain]
 
 > This is the best of today's true alternative rock scene.
 
-[Spotify](https://open.spotify.com/user/spotify) - 466,770 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 466,783 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6YOhGMjjgx.md) - [plain]
 | 96 | [Come On](https://open.spotify.com/track/2YUTrl4xlX9jAlpxWEpOnU) | [Mondo Cozmo](https://open.spotify.com/artist/7ybnRZKtRbWQzJfKyYSyh6) | [Come On](https://open.spotify.com/album/6F1GXCFUTG8bRPcRiFEZ3m) | 3:29 |
 | 97 | [Godsend](https://open.spotify.com/track/2tTH0Jsfxt3jLoZNWHCehP) | [Sundara Karma](https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP) | [Godsend](https://open.spotify.com/album/1v8V0xYmlo1lUfFYNZbxER) | 4:22 |
 | 98 | [You Dig Yours](https://open.spotify.com/track/0RIExW6hQSwx4r6lk74dQm) | [Starcrawler](https://open.spotify.com/artist/0ZhtrY2Lt1s9klwm03lu8i) | [Devour You](https://open.spotify.com/album/0WmStcm2iIpUyPVIkAgE9i) | 2:40 |
-| 99 | [Car Crash](https://open.spotify.com/track/5W0pqbWqy3ek86f7CjHyR8) | [Low Lying Sun](https://open.spotify.com/artist/1xdFO7BuQ7OS0PPmpfKlge) | [Car Crash](https://open.spotify.com/album/6YlDs4igPMcAXPvnaKtNsB) | 3:52 |
-| 100 | [Pillar On The Bridge Of You](https://open.spotify.com/track/3quyci0xdEjIRQBusVGDL2) | [BODEGA](https://open.spotify.com/artist/3lnWfdMG9U0oVMC15SEbB5) | [Pillar On The Bridge Of You](https://open.spotify.com/album/2FdeUBg9yKyD9910MoqoO8) | 3:17 |
+| 99 | [Pillar On The Bridge Of You](https://open.spotify.com/track/3quyci0xdEjIRQBusVGDL2) | [BODEGA](https://open.spotify.com/artist/3lnWfdMG9U0oVMC15SEbB5) | [Pillar On The Bridge Of You](https://open.spotify.com/album/2FdeUBg9yKyD9910MoqoO8) | 3:17 |
+| 100 | [Car Crash](https://open.spotify.com/track/5W0pqbWqy3ek86f7CjHyR8) | [Low Lying Sun](https://open.spotify.com/artist/1xdFO7BuQ7OS0PPmpfKlge) | [Car Crash](https://open.spotify.com/album/6YlDs4igPMcAXPvnaKtNsB) | 3:52 |
 
-Snapshot ID: `MTY1MTIwNDg2MCwwMDAwMDAwMDc1ZDgxOTI5NzFiMGNjZTY2ODA1ZWFmNmZjOWMxZDc4`
+Snapshot ID: `MTY1MTIwNDg2MCwwMDAwMDAwMDA4ZmZiYmI4NDhmOGE0MTAyNjVjOTE0OGE2Mjk2YzQ4`

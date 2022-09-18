@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0OlVrN.md) - [plain]
 
 > This is Los Relampagos Del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,315 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,318 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0OlVrN.md) - [plain]
 | 41 | [Amargando la vida](https://open.spotify.com/track/2kzPpR2KtWBlSsvMkYEeyE) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [22 Exitos de Oro, vol\. 2](https://open.spotify.com/album/7fdVdewhOZLXhbgilHdNAU) | 3:32 |
 | 42 | [Me Cai De La Nube](https://open.spotify.com/track/5duBpK9vaRenDIdXZP5EMq) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Doble 2 En 1](https://open.spotify.com/album/7JLBYptiTNW8gg91QuJDzy) | 3:04 |
 | 43 | [Ay Chatita](https://open.spotify.com/track/2lVmMy1vCsXYarAEmwJQRD) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Puras Cantineras, Vol\. 1](https://open.spotify.com/album/0qqZVWDEGQLr1lhwp3jqUX) | 2:47 |
-| 44 | [Mujer de Cabaret](https://open.spotify.com/track/6ImZIERaxITFJ7yy4RdVW9) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [20 Boleros de Oro: Grandes Éxitos de la Música Norteña](https://open.spotify.com/album/3jVJfLNB5xchADrjUir1fr) | 2:49 |
-| 45 | [Allá en el Baile Grande](https://open.spotify.com/track/6j8vimqDs0pfRpy3gf95JO) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [El Disco de Oro](https://open.spotify.com/album/4L5987PRJ0lgS1J2BmwMB7) | 2:14 |
+| 44 | [Allá en el Baile Grande](https://open.spotify.com/track/6j8vimqDs0pfRpy3gf95JO) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [El Disco de Oro](https://open.spotify.com/album/4L5987PRJ0lgS1J2BmwMB7) | 2:14 |
+| 45 | [Mujer de Cabaret](https://open.spotify.com/track/6ImZIERaxITFJ7yy4RdVW9) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [20 Boleros de Oro: Grandes Éxitos de la Música Norteña](https://open.spotify.com/album/3jVJfLNB5xchADrjUir1fr) | 2:49 |
 | 46 | [Capullito de Rosa](https://open.spotify.com/track/5RbE7pbbcTFPrGNcnAW1KC) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Los Relampagos del Norte, Ramon Ayala y Cornelio Reyna](https://open.spotify.com/album/1MaRN2mekXavT4ZiLL1TQZ) | 3:04 |
 | 47 | [Devolución](https://open.spotify.com/track/02ygYqJG1w7guDHVATBd0F) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [22 Éxitos de Oro, vol\. 4](https://open.spotify.com/album/4eh50zoGTP5IJ84YR0byqc) | 2:12 |
 | 48 | [Que Bonita Chaparrita](https://open.spotify.com/track/1k3Mlwz2vcp8kIZnLnQQ2s) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [21 Hits, Vol\. 2](https://open.spotify.com/album/3AEdlliIqVcw2bLioQxHDI) | 2:44 |
 | 49 | [Qué Mala Suerte](https://open.spotify.com/track/37sNG4P8zEvnfm07CtKn55) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [De Qué Es Tu Corazón](https://open.spotify.com/album/4CetYEaGlo2tI9kqySSQuj) | 2:26 |
 | 50 | [Aunque Tenga Otros Amores](https://open.spotify.com/track/22CbCQZij6Q9HBOD8mllsa) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [El Disco de Oro](https://open.spotify.com/album/4L5987PRJ0lgS1J2BmwMB7) | 2:29 |
 
-Snapshot ID: `Mjc3MjIyMzMsMDAwMDAwMDBkOWE1OWFjNjI5Yzc0OGEyM2M3MTljMTcxNDdlYjliOQ==`
+Snapshot ID: `Mjc3MjM2OTIsMDAwMDAwMDBlMWJjNDI4ODkzNzdjMDc1MGE0NTdjYWYzZDg5OWNlYg==`

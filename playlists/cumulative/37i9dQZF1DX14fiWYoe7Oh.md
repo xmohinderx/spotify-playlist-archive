@@ -4,14 +4,15 @@
 
 > The K\-Pop idols who started it all from 90's \- 10's\. \(90년대부터 2010년대까지 케이팝 아이돌 필수곡들을 즐겨보세요!\)
 
-170 songs - 10 hr 26 min - [published](https://open.spotify.com/playlist/7G6kgkeeKc0MSS1Yr6hAro)
+172 songs - 10 hr 34 min - [published](https://open.spotify.com/playlist/7G6kgkeeKc0MSS1Yr6hAro)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ["O" \- 正.反.合\. \(Rearranged\)](https://open.spotify.com/track/26XKyMqXPg4w2DhJRTZ3jP) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) | [TVXQ! THE 4th WORLD TOUR 'Catch Me' LIVE ALBUM](https://open.spotify.com/album/1cHc6F127DwbX1GkGDAK6d) | 5:34 | 2021-09-09 | 2022-07-29 |
 | [\(Bonus Track\) Voice Mail \(Korean Version\)](https://open.spotify.com/track/0MMUVb6JJzOtMyTx9qrAjy) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Modern Times](https://open.spotify.com/album/2QcuXvQBWv1ZKyQtEhLbFe) | 4:06 | 2021-09-09 |  |
 | [\(′Cause\) I′m Your Girl](https://open.spotify.com/track/5I8mg57tDvhGGGC3x14mIZ) | [S.E.S.](https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM) | [S.E.S\. \- The 1st Album](https://open.spotify.com/album/795tqw58HZUK0Gro9GvneZ) | 3:45 | 2021-09-09 |  |
-| [0%](https://open.spotify.com/track/643JzHUBRtTPVPmGatwe79) | [god](https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl) | [Chapter 5 Letter](https://open.spotify.com/album/79UR927jWowsz8ro7dtKzS) | 3:48 | 2021-09-09 |  |
+| [0%](https://open.spotify.com/track/643JzHUBRtTPVPmGatwe79) | [god](https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl) | [Chapter 5 Letter](https://open.spotify.com/album/79UR927jWowsz8ro7dtKzS) | 3:48 | 2021-09-09 | 2022-09-18 |
+| [0%](https://open.spotify.com/track/7uL1y6VIPolzDR18zJmeU7) | [god](https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl) | [Chapter 5](https://open.spotify.com/album/6xU3d2lMaYCFUMnerQvmVq) | 3:48 | 2021-09-09 |  |
 | [10 Minutes](https://open.spotify.com/track/2Tfv41qZ0U3ahZiKiDBa4a) | [Lee Hyori](https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5) | [Stylish…](https://open.spotify.com/album/2uTwUONoLUhlpM6r324B2b) | 3:56 | 2021-09-09 |  |
 | [1Tym](https://open.spotify.com/track/3LjJ0Hjqot5HDeL172lAcw) | [1TYM](https://open.spotify.com/artist/0P8IEJrM7oUTK4WwdMKsvS) | [One Time For Your Mind](https://open.spotify.com/album/2SVamLzGfpr4QCyCWjmXjT) | 3:30 | 2021-09-09 |  |
 | [1TYM](https://open.spotify.com/track/5ohhBcVIwZtFakVodATNL7) | [1TYM](https://open.spotify.com/artist/0P8IEJrM7oUTK4WwdMKsvS) | [YG 10th Anniversary](https://open.spotify.com/album/4SqXG1zGw3SFaQGvpjPWRd) | 3:31 | 2021-09-09 | 2022-07-29 |
@@ -52,7 +53,8 @@
 | [Dreams Come True](https://open.spotify.com/track/6whFRgwg7je2SYzpSfansM) | [S.E.S.](https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM) | [SHOO\. EUGENE\. SEA \- The 2nd Album](https://open.spotify.com/album/28tAVahvzLKAVZ6ewYUrvl) | 4:05 | 2021-09-09 |  |
 | [Every End of the Day](https://open.spotify.com/track/5m2tbM2w8mG76uwFgla2iF) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [The Spring of Twenty](https://open.spotify.com/album/2DSxe9W0Mv0IU2YMAbljYb) | 4:02 | 2021-09-09 |  |
 | [Fiction](https://open.spotify.com/track/69QlYqNJeZG14R4an2aoJv) | [Beast](https://open.spotify.com/artist/1Pr9gT0veB2tgcisQeIGoC) | [Fiction And Fact](https://open.spotify.com/album/7bmaIj97ZBuFyDewh5lY4s) | 3:54 | 2021-09-09 |  |
-| [Friday Night](https://open.spotify.com/track/6hl3GBSlDJbh5zBUhA3jVU) | [god](https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl) | [Chapter 2](https://open.spotify.com/album/08kxPGUoGQ4zn1bBTInvHA) | 3:35 | 2021-09-09 |  |
+| [Friday Night](https://open.spotify.com/track/7uTLsCiOqNGDgz6TewUMrM) | [god](https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl) | [Chapter 2](https://open.spotify.com/album/0HxQ33W72bcEwuJgbMscvK) | 3:33 | 2021-09-09 |  |
+| [Friday Night](https://open.spotify.com/track/6hl3GBSlDJbh5zBUhA3jVU) | [god](https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl) | [Chapter 2](https://open.spotify.com/album/08kxPGUoGQ4zn1bBTInvHA) | 3:35 | 2021-09-09 | 2022-09-18 |
 | [Full of happiness](https://open.spotify.com/track/2ppv5E2a22qoXwYdL6GjvS) | [H.O.T.](https://open.spotify.com/artist/5JrfgZAgqAMywJpLpJM0eS) | [Wolf And Sheep](https://open.spotify.com/album/2RWrsv0kIKreXvm7IrMeYN) | 3:31 | 2021-09-09 |  |
 | [Gee](https://open.spotify.com/track/2BQIMF7CyLe2xAKzh74A4C) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [Gee \- The First Mini Album](https://open.spotify.com/album/4YroJ4NELkaJ34JjEZ6RyJ) | 3:22 | 2021-09-09 |  |
 | [Genie](https://open.spotify.com/track/7m48u7EC4gnCfAhwoLfbCE) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [Genie \- The Second Mini Album](https://open.spotify.com/album/7dXtKHYGXhQZCE2mEg0l93) | 3:50 | 2021-09-09 |  |
@@ -150,8 +152,6 @@
 | [YO! 악동보고서](https://open.spotify.com/track/2aS8459W3fVdMa2r8sRSd8) | [SHINHWA](https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0) | [T.O.P \- The 2nd Album](https://open.spotify.com/album/6pu3g3bwekMRa0QWQ7XGyG) | 3:56 | 2021-09-09 |  |
 | [You and I \(Park Bom\)](https://open.spotify.com/track/14Pn9Vd2GKwQrVYADgCZ5l) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [To Anyone](https://open.spotify.com/album/2SNSGfhfcfBLyQDTXMCPXG) | 3:54 | 2021-09-09 |  |
 | [You and I \(Park Bom\)](https://open.spotify.com/track/67bVDuhVNpGahHOJGsv8BQ) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [To Anyone](https://open.spotify.com/album/35M71S29eZpJgGh2G7uzw4) | 3:54 | 2021-09-09 | 2022-07-29 |
-| [사랑해 그리고 기억해 Love You and Remember You](https://open.spotify.com/track/4ozA939dJl4dnAtwM8LObN) | [god](https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl) | [Chapter 2](https://open.spotify.com/album/08kxPGUoGQ4zn1bBTInvHA) | 4:22 | 2021-09-09 |  |
-| [애수 Sorrow](https://open.spotify.com/track/3ZfzsuGzbBiyPCtUgIoZGU) | [god](https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl) | [Chapter 2](https://open.spotify.com/album/08kxPGUoGQ4zn1bBTInvHA) | 4:08 | 2021-09-09 |  |
 | [거짓말 Lie](https://open.spotify.com/track/2OFK4w8BI3gU4kn0ieHSJc) | [god](https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl) | [Chapter 3](https://open.spotify.com/album/0D2zCQSe7KW2PEcwadf9RY) | 4:02 | 2021-09-09 |  |
 | [너 때문에 미쳐](https://open.spotify.com/track/33KzJtbSIQY3z9q3hfKnLO) | [T\-ARA](https://open.spotify.com/artist/1R52cwGf75yTf7I3Q0Irf8) | [Breaking Heart](https://open.spotify.com/album/4yGB5VxkZIKO7LzD48U99p) | 3:14 | 2021-09-09 | 2022-07-29 |
 | [너 때문에 미쳐](https://open.spotify.com/track/5vCXnSlbAEkuJ3w2O0ALan) | [T\-ARA](https://open.spotify.com/artist/1R52cwGf75yTf7I3Q0Irf8) | [Breaking Heart](https://open.spotify.com/album/7C3YPRZQVhmE7TStRdXshF) | 3:14 | 2021-09-09 |  |
@@ -163,8 +163,10 @@
 | [라차타 \(LA chA TA\)](https://open.spotify.com/track/56xwRXkTTpsB1ASKJclpZF) | [f\(x\)](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) | ['Hot Summer' f\(x\) 1st Album Repackage](https://open.spotify.com/album/2kYov162D5mOs1tzrI19s1) | 3:14 | 2021-09-09 | 2022-07-29 |
 | [반대가 끌리는 이유](https://open.spotify.com/track/7CZiB2IQO8Rfwc6EpoYRB5) | [god](https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl) | [보통날 An Ordinary Day](https://open.spotify.com/album/1mI5TmP9QFFdqql5rBi1As) | 4:14 | 2021-09-09 |  |
 | [백전무패](https://open.spotify.com/track/1ul8G5Eam9xzVGnG11Ull9) | [Click\-B](https://open.spotify.com/artist/2kOGSFThgEzPEjL4fFB25w) | [Click\-B 3](https://open.spotify.com/album/59JEuiM9FKWpulCD9SzCqI) | 3:55 | 2021-09-09 |  |
+| [사랑해 그리고 기억해 Love You and Remember You](https://open.spotify.com/track/4ozA939dJl4dnAtwM8LObN) | [god](https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl) | [Chapter 2](https://open.spotify.com/album/08kxPGUoGQ4zn1bBTInvHA) | 4:22 | 2021-09-09 |  |
 | [쏘리 쏘리 Sorry, Sorry](https://open.spotify.com/track/5R6OW0wrjn94lOGF5cxVP3) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [쏘리 쏘리 Sorry, Sorry](https://open.spotify.com/album/459hy3WrWsUafUDmqS1fg5) | 3:52 | 2021-09-09 | 2022-07-29 |
 | [쏘리 쏘리 Sorry, Sorry](https://open.spotify.com/track/5w18nowVMRZrC5Na9Vxoth) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [쏘리 쏘리 Sorry, Sorry \- The 3rd Album](https://open.spotify.com/album/3v5XUoZzxbmJbxs7vWTua3) | 3:52 | 2021-09-09 |  |
+| [애수 Sorrow](https://open.spotify.com/track/3ZfzsuGzbBiyPCtUgIoZGU) | [god](https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl) | [Chapter 2](https://open.spotify.com/album/08kxPGUoGQ4zn1bBTInvHA) | 4:08 | 2021-09-09 |  |
 | [야야야](https://open.spotify.com/track/3AQSMJvDOtMOWq1qDfnvCE) | [Baby V.O.X](https://open.spotify.com/artist/7H5LMtjHqkyH4U8dpLR4lo) | [Baby Vox Ⅱ](https://open.spotify.com/album/0Ki4y6jfu7EWlbeGbgD3FX) | 3:50 | 2021-09-09 | 2022-07-29 |
 | [야야야](https://open.spotify.com/track/3tdjYReotb6TUeDNUl3bRV) | [Baby V.O.X](https://open.spotify.com/artist/7H5LMtjHqkyH4U8dpLR4lo) | [Baby Vox Ⅱ](https://open.spotify.com/album/49DaLjXDOJTaSoYa4fCXoD) | 3:50 | 2021-09-09 |  |
 | [어머님께 To Mother](https://open.spotify.com/track/4DRw26g8obnUsqKBJp6knP) | [god](https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl) | [Chapter 1](https://open.spotify.com/album/6kdfvDv547FBuXMfeVbKnh) | 4:15 | 2021-09-09 |  |

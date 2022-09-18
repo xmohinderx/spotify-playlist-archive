@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rZXin.md) - [plain]
 
 > This is Banda Vallarta Show\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,104 likes - 47 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,108 likes - 47 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rZXin.md) - [plain]
 | 46 | [Rock y Banda](https://open.spotify.com/track/5K0720vRnLAH1ViBjog5mV) | [Ezequiel Peña](https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty), [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [El Tirador](https://open.spotify.com/album/5ZPBfxIb9pSrhk3ZDxjoiJ) | 3:37 |
 | 47 | [Me Esta Esperando María](https://open.spotify.com/track/2J6kuEZixaichCGIGn8lgz) | [Ezequiel Peña](https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty), [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [El Tirador](https://open.spotify.com/album/5ZPBfxIb9pSrhk3ZDxjoiJ) | 2:48 |
 
-Snapshot ID: `Mjc3MjIyMzMsMDAwMDAwMDAyMGFlNTIyNWQwYmVlNzI2ODI0ZWYwYTM5ZWViZmI5Yw==`
+Snapshot ID: `Mjc3MjM2OTIsMDAwMDAwMDA1MmNkNmExODNkNTA0NTliNGUyOGZlOTgwMzYzNjcxNA==`

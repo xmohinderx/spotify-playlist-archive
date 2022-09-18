@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 
 > アニメシーンを彩る女性アーティスト達を特集！ Celebrate the great female artists from anime culture\. Cover: ウタ/UTA from ONE PIECE FILM RED ©尾田栄一郎／2022「ワンピース」製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,715 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,911 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 47 | [Tiny Light](https://open.spotify.com/track/3nMWM6o4pD6lAkDRPdcqvh) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Desire Again](https://open.spotify.com/album/1TNoCgbem1kKPGUgZRH2AK) | 4:50 |
 | 48 | [絶体絶命](https://open.spotify.com/track/0QMmoBAY9pr7nOYisYWuMj) | [Cö Shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [PURE](https://open.spotify.com/album/2oTP6o5ggDbudTzSvxiD6x) | 2:28 |
 | 49 | [Skyreach](https://open.spotify.com/track/427vfPt3SW5ZhtCqwajhaT) | [Amamiya Sora](https://open.spotify.com/artist/0RLTJBHe0jhxEVsYMVCMz0) | [Various BLUE](https://open.spotify.com/album/5rpTgoIEM03GbTQ6kyXxT0) | 4:28 |
-| 50 | [ハートはお手上げ](https://open.spotify.com/track/7JKJ7p6vz8ZMDdzzd3mww2) | [鈴木愛理](https://open.spotify.com/artist/5YnNfqofR6jjU2DDoGfh2h) | [ハートはお手上げ](https://open.spotify.com/album/3YzQqLy0QpodtniZBp4bT6) | 3:47 |
+| 50 | [凸凹](https://open.spotify.com/track/59zVkMccrN10JrDGdV4JeG) | [Kiyoe Yoshioka](https://open.spotify.com/artist/7sG4FexEprpVch00GAM0w7) | [凸凹](https://open.spotify.com/album/2Rk7kN8xzphuTZgp2YJHmn) | 3:49 |
 
-Snapshot ID: `MTY2MTU2MDcwMSwwMDAwMDAwMDA5NDQ1ZTJiZTcyMmQyYTRmNWQ2ZmM5MjE4MDc4MzQx`
+Snapshot ID: `MTY2MTU2MDcwMSwwMDAwMDAwMGU3YTViYTUwMDc0MTNlMGRkZTAwYTRiODBkMjQ5ODlj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 
 > Instrumental bliss beyond genre classification.
 
-[Spotify](https://open.spotify.com/user/spotify) - 446,258 likes - 50 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 446,277 likes - 50 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 | 21 | [Leave Here](https://open.spotify.com/track/5FdiUDLORFvwxzTvqqOrcC) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Leave Here](https://open.spotify.com/album/5CmJspuJM6slYqdFEbvBX0) | 4:57 |
 | 22 | [l'empelt](https://open.spotify.com/track/19xIHqQ06u9gzxbbmeNvx4) | [drames rurals](https://open.spotify.com/artist/4Fc8hhmKcYdCVdByPDBLPG), [John Talabot](https://open.spotify.com/artist/1YvN5uOGQkHVUUlZUcnotD), [juns](https://open.spotify.com/artist/2VnW9TLWqKhenhIz5fyAlF), [oma totem](https://open.spotify.com/artist/1rGwnZdib4PzGaxYuXJBhb), [Meritxell Bonastre](https://open.spotify.com/artist/0QCq80HQCr8SQr40QCe7Gp) | [drames rurals](https://open.spotify.com/album/3yC35q63Eg6ctGi3CXFUDD) | 4:43 |
 | 23 | [Slice of Life](https://open.spotify.com/track/1Ef4AmovzJ5RhoUOqj1iZn) | [usr/friendly](https://open.spotify.com/artist/2Tf35i1626AZKiQqUx2xfE), [Oketo](https://open.spotify.com/artist/5JBjc1UhLlvqmifk3WLAFg) | [This Is An Advertisement](https://open.spotify.com/album/3dD5AxY5S7g5j4he0QOSJ9) | 3:19 |
-| 24 | [Sweat Sonic](https://open.spotify.com/track/37Uy4OBd93yP89ZhCj5je2) | [Closet Yi](https://open.spotify.com/artist/1iqgi3aRUSccnZK8K0oIGp) | [Sweat Sonic](https://open.spotify.com/album/5mY0769AayndoWAuTG0LWY) | 6:22 |
-| 25 | [Exotic Contents](https://open.spotify.com/track/6svlauimgL7pyT2IciIE6P) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Exotic Contents / Pulse at the Centre of Being](https://open.spotify.com/album/0I0azaQfHlf1JEIJuwHF5a) | 5:46 |
+| 24 | [Exotic Contents](https://open.spotify.com/track/6svlauimgL7pyT2IciIE6P) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Exotic Contents / Pulse at the Centre of Being](https://open.spotify.com/album/0I0azaQfHlf1JEIJuwHF5a) | 5:46 |
+| 25 | [Sweat Sonic](https://open.spotify.com/track/37Uy4OBd93yP89ZhCj5je2) | [Closet Yi](https://open.spotify.com/artist/1iqgi3aRUSccnZK8K0oIGp) | [Sweat Sonic](https://open.spotify.com/album/5mY0769AayndoWAuTG0LWY) | 6:22 |
 | 26 | [Warm Electronics Box](https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC) | [RX\-101](https://open.spotify.com/artist/1nxxFDcQjl85Vn3PSZs651) | [Dopamine](https://open.spotify.com/album/32dttKpIJvL2ndTAUSyQui) | 5:49 |
 | 27 | [Eden Portal](https://open.spotify.com/track/0ihmZ14TyzjrjO390cP1Oo) | [Otik](https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB) | [Eden Portal](https://open.spotify.com/album/5MSQc9lUHv65o5sF6HTtA2) | 6:06 |
 | 28 | [Shallots](https://open.spotify.com/track/3un8NWwFpSvbN0m0JZ29da) | [Frequent](https://open.spotify.com/artist/71Q5SkUpc26h0swrRjrGEc) | [Shallots](https://open.spotify.com/album/1rKFlOuwvqORkzO0tQiyPw) | 3:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 | 49 | [Yesterday Faded \- Edit](https://open.spotify.com/track/0WLrMIT6Pi7AzvEdvfP7yP) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Yesterday Faded \(Edit\)](https://open.spotify.com/album/6o2dqU7r0teFQoNQZdEGdT) | 4:02 |
 | 50 | [tracing Rays \[reality glo\]](https://open.spotify.com/track/4YTXY7Ze4njWYH4nDutz4q) | [Brainwaltzera](https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB) | [tracing Rays \[reality glo\]](https://open.spotify.com/album/2A7WqlhXWnDCK84hqsnWGY) | 4:22 |
 
-Snapshot ID: `MTY2MzI0NDkwOCwwMDAwMDAwMDEwYTk4ZDVmYWE4M2FmYjMwY2U5ZTg5ODI4ZTc5YTEz`
+Snapshot ID: `MTY2MzI0NDkwOCwwMDAwMDAwMDM0OTkwMDI3MDVkMTI1MTJiODgwZjkzYzM0NTc0NDAz`

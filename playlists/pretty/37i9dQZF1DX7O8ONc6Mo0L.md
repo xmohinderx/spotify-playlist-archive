@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 
 > Relaxe com hinos acústicos\. Foto: Gabriel Guedes de Almeida
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,079 likes - 80 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,192 likes - 80 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 | 70 | [Tens Meu Coração](https://open.spotify.com/track/2U26JR0DawBOmdPZ44aIQB) | [Israel Salazar](https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC) | [Tens Meu Coração](https://open.spotify.com/album/26sVPHIvF6MAd0KU3SOKEn) | 5:40 |
 | 71 | [Nova Canção](https://open.spotify.com/track/4lQvKqzgMgwdsNnSGLkzlP) | [Felipe Valente](https://open.spotify.com/artist/3tybwof5hhq09nqwDiESev) | [Nova Canção](https://open.spotify.com/album/5JSTFlvhD0OyS6lEO5ztiq) | 3:26 |
 | 72 | [Ele Mudará](https://open.spotify.com/track/2X4wT4QUUQl7tL9dI0ELH8) | [Gabriel Tavela](https://open.spotify.com/artist/2oKH8ULbVEfOGrquTeOgh3) | [Ele Mudará](https://open.spotify.com/album/3su6MTa1S1Zrli6mCyfGKZ) | 4:00 |
-| 73 | [Muda os Planos \- Ao Vivo](https://open.spotify.com/track/6IMGV8bFVfP8SARKRnWDfs) | [Ventania](https://open.spotify.com/artist/4ZgHby6oTRKwiGbf38dPs1), [Pedro Valença](https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7), [Manu](https://open.spotify.com/artist/7gz120VZ7N6mvk7nfq8cXV) | [Muda os Planos \(Ao Vivo\)](https://open.spotify.com/album/3sAkhNWVeIjO8GWWc8YFSk) | 4:50 |
-| 74 | [Quem Sou](https://open.spotify.com/track/3R8AdlPHOXTNpnzUoUqcpK) | [PEDRAZUL](https://open.spotify.com/artist/5A2Slemy1IuX9KdV8xjCfA) | [Quem Sou](https://open.spotify.com/album/3K30LIMDmshPzNLSOqMOPj) | 4:30 |
+| 73 | [Quem Sou](https://open.spotify.com/track/3R8AdlPHOXTNpnzUoUqcpK) | [PEDRAZUL](https://open.spotify.com/artist/5A2Slemy1IuX9KdV8xjCfA) | [Quem Sou](https://open.spotify.com/album/3K30LIMDmshPzNLSOqMOPj) | 4:30 |
+| 74 | [Muda os Planos \- Ao Vivo](https://open.spotify.com/track/6IMGV8bFVfP8SARKRnWDfs) | [Ventania](https://open.spotify.com/artist/4ZgHby6oTRKwiGbf38dPs1), [Pedro Valença](https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7), [Manu](https://open.spotify.com/artist/7gz120VZ7N6mvk7nfq8cXV) | [Muda os Planos \(Ao Vivo\)](https://open.spotify.com/album/3sAkhNWVeIjO8GWWc8YFSk) | 4:50 |
 | 75 | [O Que Meu Deus Vai Fazer \(Essência Sessions\)](https://open.spotify.com/track/5NWZfAvvjPkXxz00Vugg9q) | [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi) | [O Que Meu Deus Vai Fazer \(Essência Sessions\)](https://open.spotify.com/album/2YzdSN1IQZJlISrbINPnSM) | 4:31 |
 | 76 | [No Secreto](https://open.spotify.com/track/3e8PGGVzq84sBU1EuGBJ9k) | [Israel Salazar](https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC) | [No Secreto](https://open.spotify.com/album/6OGCe2qL5x7Xh3cWbuOk6K) | 6:50 |
 | 77 | [Até o Fim](https://open.spotify.com/track/5pYCKUDdBvxK8Zhxr4ywri) | [Diego Karter](https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF) | [Até o Fim](https://open.spotify.com/album/1adgtw24sgeeH5kEWz2Yyv) | 3:45 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 | 79 | [Calvário \- Acústico](https://open.spotify.com/track/1iDULS2J3cedW8dNWk0XXX) | [Heric Tolentino](https://open.spotify.com/artist/6pAfGMs1Egz9IPChjCFJ8k), [Priscila Olly](https://open.spotify.com/artist/5hK2DFyP32D2bS9oQzbwzy) | [Calvário \(Acústico\)](https://open.spotify.com/album/4hqJjhLBxT06bavOHts4ei) | 5:32 |
 | 80 | [Eu Te Agradeço \(Essência Sessions\)](https://open.spotify.com/track/2gMLLBjJgVTWiH4u8X3xVV) | [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi) | [Weslei Santos no Essência Sessions](https://open.spotify.com/album/57c7bRChhj4vPRaeafLnI5) | 5:00 |
 
-Snapshot ID: `MTY2MjA4NzYwMCwwMDAwMDAwMDY1N2Y3ZjIzYmVmZjc3YWNkMWQ5ODNjMWI3NjFlYjJl`
+Snapshot ID: `MTY2MjA4NzYwMCwwMDAwMDAwMDAxMDJhMWQ2YzNmNGY3MThiZGNhOTI0NDJjODNjOGVm`

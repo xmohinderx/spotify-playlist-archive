@@ -1,12 +1,12 @@
 {
   "description": "Get your creative juices flowing with these instrumental masterpieces.",
-  "num_followers": 122563,
+  "num_followers": 122808,
   "original_name": "Creative Focus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTEwMzc3MSwwMDAwMDAwMDQ4Mjk4YTExYWQ5YmQ2MWIxNzFiZTYzYzIxYTlmNzUx",
+  "snapshot_id": "MTY1OTEwMzc3MSwwMDAwMDAwMDY3YTkyYWZlMmY0ZTU0N2U1NDc4NTNlZTUzMjVhZDI2",
   "tracks": [
     {
       "added_at": "2022-07-29 13:33:43",
@@ -1191,30 +1191,6 @@
     {
       "added_at": "2022-07-29 13:33:43",
       "album": {
-        "name": "Sibelius - Great Recordings",
-        "url": "https://open.spotify.com/album/2uCOLqlHWO9wJxrNhO7Agk"
-      },
-      "artists": [
-        {
-          "name": "Jean Sibelius",
-          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
-        },
-        {
-          "name": "Jian Wang",
-          "url": "https://open.spotify.com/artist/4DcpgOrxEYPTulZEeJhAJ5"
-        },
-        {
-          "name": "G\u00f6ran S\u00f6llscher",
-          "url": "https://open.spotify.com/artist/5jF2METFutHd3av3ITYTrL"
-        }
-      ],
-      "duration_ms": 168786,
-      "name": "13 Pieces for Piano, Op. 76: II. Etude",
-      "url": "https://open.spotify.com/track/0aHgLGD861WXXeWou96k7n"
-    },
-    {
-      "added_at": "2022-07-29 13:33:43",
-      "album": {
         "name": "The Lark Ascending collection",
         "url": "https://open.spotify.com/album/5kTtD1xA5yYPrwjEYWk5uy"
       },
@@ -1343,6 +1319,30 @@
       "duration_ms": 152906,
       "name": "Soli",
       "url": "https://open.spotify.com/track/54UyP0Ap9OYjlFrkgmStVH"
+    },
+    {
+      "added_at": "2022-07-29 13:33:43",
+      "album": {
+        "name": "British Light Classics",
+        "url": "https://open.spotify.com/album/5kHRx1mqZR1pY42cwPmttb"
+      },
+      "artists": [
+        {
+          "name": "Fredrico Bayco",
+          "url": "https://open.spotify.com/artist/1FJV9IrZCaUbW4HgM8auw3"
+        },
+        {
+          "name": "Pro Arte Orchestra",
+          "url": "https://open.spotify.com/artist/7HqusleTbGzo4P4ZByRp82"
+        },
+        {
+          "name": "George Weldon",
+          "url": "https://open.spotify.com/artist/2u600cfCDAs8ydyNfDp226"
+        }
+      ],
+      "duration_ms": 147026,
+      "name": "Elizabethan Masque",
+      "url": "https://open.spotify.com/track/7gIfYC1u2xPLuihb86wdwn"
     }
   ],
   "unique_name": "Creative Focus",

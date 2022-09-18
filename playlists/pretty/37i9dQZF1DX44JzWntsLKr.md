@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44JzWntsLKr.md) - [plain]
 
 > Every Monbebe's HERO.
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,849 likes - 121 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,871 likes - 121 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

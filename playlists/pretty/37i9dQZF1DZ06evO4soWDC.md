@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4soWDC.md) - [plain]
 
 > This is Luca Brasi\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 507 likes - 40 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 508 likes - 40 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,11 +36,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4soWDC.md) - [plain]
 | 26 | [Get Sad, See Mates](https://open.spotify.com/track/3JtufvZRp5Z3kXXMuTs9z8) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [By a Thread](https://open.spotify.com/album/7fjdamLdDfPcoTyx5fhRyx) | 2:56 |
 | 27 | [Isaac Bowen](https://open.spotify.com/track/4KwCfSTIxcGWnOA53KdIRf) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Extended Family](https://open.spotify.com/album/7966wZO0fRIORtU55s7PVd) | 2:42 |
 | 28 | [Jackies Are On The March](https://open.spotify.com/track/4MSxYD2ufYwbDoX5mzTzb4) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Jackies Are On The March](https://open.spotify.com/album/6uqe4KG28xyYXHq44KzJ5u) | 2:15 |
-| 29 | [Viva Tassie Cabrones](https://open.spotify.com/track/1oLRcjIjXKzp4WxBx35snX) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Tassie](https://open.spotify.com/album/18NtphyUEcBYeorDyGHwXv) | 4:30 |
+| 29 | [Passed the Break](https://open.spotify.com/track/39dNS79yWZLw96FEemTSsO) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Tassie](https://open.spotify.com/album/18NtphyUEcBYeorDyGHwXv) | 3:17 |
 | 30 | [Death Rattle](https://open.spotify.com/track/0Sa9FnsVIulcfog5skN528) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [By a Thread](https://open.spotify.com/album/7fjdamLdDfPcoTyx5fhRyx) | 3:40 |
 | 31 | [Beacons](https://open.spotify.com/track/5CJLEtRqo4VeojZvUfDaPK) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Extended Family](https://open.spotify.com/album/7966wZO0fRIORtU55s7PVd) | 2:47 |
 | 32 | [Quicksand](https://open.spotify.com/track/1z8Cfz8TBBZHDeiDwZs2Xd) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Loose Threads](https://open.spotify.com/album/1tmpr3ZW6dkXVN9pMZjcIR) | 3:00 |
-| 33 | [Passed the Break](https://open.spotify.com/track/39dNS79yWZLw96FEemTSsO) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Tassie](https://open.spotify.com/album/18NtphyUEcBYeorDyGHwXv) | 3:17 |
+| 33 | [Viva Tassie Cabrones](https://open.spotify.com/track/1oLRcjIjXKzp4WxBx35snX) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Tassie](https://open.spotify.com/album/18NtphyUEcBYeorDyGHwXv) | 4:30 |
 | 34 | [Benthos](https://open.spotify.com/track/3GdINzE1wJbloONTUeGSXH) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [By a Thread](https://open.spotify.com/album/7fjdamLdDfPcoTyx5fhRyx) | 3:03 |
 | 35 | [Like a Charm](https://open.spotify.com/track/7egjZUjcF8YnCkVUDUWvRT) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Extended Family](https://open.spotify.com/album/7966wZO0fRIORtU55s7PVd) | 3:27 |
 | 36 | [In the Sight](https://open.spotify.com/track/7cPME77cqvQNrUvIQWuHzK) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Loose Threads](https://open.spotify.com/album/1tmpr3ZW6dkXVN9pMZjcIR) | 3:07 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4soWDC.md) - [plain]
 | 39 | [Some Cutting Sick](https://open.spotify.com/track/5NFtAVr1pSNC3vkmvQ2cA3) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Extended Family](https://open.spotify.com/album/7966wZO0fRIORtU55s7PVd) | 2:41 |
 | 40 | [41 Degrees](https://open.spotify.com/track/6hcu3jshFcAQrTZG5AOiG0) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Loose Threads](https://open.spotify.com/album/1tmpr3ZW6dkXVN9pMZjcIR) | 2:23 |
 
-Snapshot ID: `Mjc3MjIyMzMsMDAwMDAwMDBiMTEyNWFkNmI1NmY1MzZlOTQ4ZDY1NDQ0NGIwOWIzNA==`
+Snapshot ID: `Mjc3MjM2OTIsMDAwMDAwMDBiMTYyNjczYjczNjVlMzMxOTYyZTlkZmYzNDBmZDU1Mw==`

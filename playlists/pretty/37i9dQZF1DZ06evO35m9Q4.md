@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO35m9Q4.md) - [plain]
 
 > This is Stevie Ray Vaughan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,229 likes - 50 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,288 likes - 50 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO35m9Q4.md) - [plain]
 | 49 | [Gone Home](https://open.spotify.com/track/7v8sDW9FgPTLl7Qq3g5qgl) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Soul to Soul](https://open.spotify.com/album/2WYvNaZ68vRmun6Jy0Qp1e) | 3:04 |
 | 50 | [Willie The Wimp \- Live](https://open.spotify.com/track/1nwXca4jNGWDpowRQnEiEv) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [The Essential Stevie Ray Vaughan And Double Trouble](https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r) | 4:34 |
 
-Snapshot ID: `Mjc3MjIyMzMsMDAwMDAwMDBkODFlYjhjODFlZmU1YzAwOTk1ODcxNjI1YTZhODQzNg==`
+Snapshot ID: `Mjc3MjM2OTIsMDAwMDAwMDAzMWVkZDNiNjExNDczYWI1N2FhYjQzMDk2NGMzMjg3Yw==`

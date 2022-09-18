@@ -4,7 +4,7 @@
 
 > This is The XCERTS\. The essential tracks, all in one playlist.
 
-39 songs - 2 hr 28 min - not published yet
+40 songs - 2 hr 33 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,12 +27,13 @@
 | [Home Versus Home](https://open.spotify.com/track/1xCHmRrMoqWgW3pMlyiJpR) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [In the Cold Wind We Smile \(10th Anniversary Edition\)](https://open.spotify.com/album/7KpMyE6xSVdRVdkIxSng5N) | 4:07 | 2022-09-16 |  |
 | [Home vs Home \- Blueskies Remix](https://open.spotify.com/track/5muEIkHoRmhgQEQTjOC1H4) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Alcopopular, Vol\. 4 \(A Feast of Pop\)](https://open.spotify.com/album/0b0AYxMmxZhKvH6UuoGeOX) | 6:09 | 2022-09-16 |  |
 | [I Don't Care](https://open.spotify.com/track/6GcSXnHXutP7pjnJIEclny) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [There Is Only You](https://open.spotify.com/album/0D8FcMKT9NRdJ2KoqSajEh) | 3:52 | 2022-09-16 |  |
+| [I See Things Differently](https://open.spotify.com/track/4t7u79jvGHrhr0sh5SrSuD) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [In the Cold Wind We Smile \(10th Anniversary Edition\)](https://open.spotify.com/album/7KpMyE6xSVdRVdkIxSng5N) | 4:22 | 2022-09-17 |  |
 | [Kevin Costner](https://open.spotify.com/track/4ygRXngoKVPpErJQnkfCbX) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [There Is Only You](https://open.spotify.com/album/0D8FcMKT9NRdJ2KoqSajEh) | 4:05 | 2022-09-16 |  |
 | [Kids On Drugs](https://open.spotify.com/track/2ZXfg1glFbYHlXlMCvih7n) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [There Is Only You](https://open.spotify.com/album/0D8FcMKT9NRdJ2KoqSajEh) | 3:22 | 2022-09-16 |  |
 | [Lament](https://open.spotify.com/track/0P0mOSWEtA6suhu7zrcgOX) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Scatterbrain](https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap) | 5:00 | 2022-09-16 |  |
 | [Live Like This](https://open.spotify.com/track/1llMTwvOhmSJt0uUZLpoXC) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [There Is Only You](https://open.spotify.com/album/0D8FcMKT9NRdJ2KoqSajEh) | 3:36 | 2022-09-16 |  |
 | [Mannequin Champion](https://open.spotify.com/track/6BsmNOJrNCiOG4Ioo0EZsD) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Stairs to Noise: The Scatterbrain](https://open.spotify.com/album/0nge5MyzEgVNZnc4OPg518) | 3:09 | 2022-09-16 |  |
-| [Nightschool](https://open.spotify.com/track/7kypxcJ3LGW1OFH0PLvpf9) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [In the Cold Wind We Smile \(10th Anniversary Edition\)](https://open.spotify.com/album/7KpMyE6xSVdRVdkIxSng5N) | 2:50 | 2022-09-16 |  |
+| [Nightschool](https://open.spotify.com/track/7kypxcJ3LGW1OFH0PLvpf9) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [In the Cold Wind We Smile \(10th Anniversary Edition\)](https://open.spotify.com/album/7KpMyE6xSVdRVdkIxSng5N) | 2:50 | 2022-09-16 | 2022-09-18 |
 | [North East Kid](https://open.spotify.com/track/3BHcWIcajwKPhrT3Updvcf) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Shaking In The Water](https://open.spotify.com/album/37fJg1RvCkrUGzq3XqhrGH) | 3:50 | 2022-09-16 |  |
 | [Ready to Call](https://open.spotify.com/track/5ie3gZHgWj0Tip7YxJFTn6) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Ready to Call](https://open.spotify.com/album/4CMzznQBNj0AP2uDAxbbGS) | 3:39 | 2022-09-16 |  |
 | [Real Love](https://open.spotify.com/track/5lfjKinwOHkwLfExvzMOLI) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Wildheart Dreaming](https://open.spotify.com/album/66OUu51LrvQjuywPP78Itc) | 3:12 | 2022-09-16 |  |

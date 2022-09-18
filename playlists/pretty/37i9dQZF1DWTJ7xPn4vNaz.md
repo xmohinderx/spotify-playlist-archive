@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJ7xPn4vNaz.md) - [plain]
 
 > The biggest songs of the 1970s\. Cover: Olivia Newton\-John.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,769,055 likes - 150 songs - 10 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,770,479 likes - 150 songs - 10 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

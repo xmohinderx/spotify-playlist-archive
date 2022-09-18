@@ -1,12 +1,12 @@
 {
   "description": "The songs and collaborations pushing the Mexican sound to a global level. Cover: Piso 21 & Carin Leon",
-  "num_followers": 15194,
+  "num_followers": 15442,
   "original_name": "Internacional Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDg2MCwwMDAwMDAwMGI3YzdjMTNlNTAzYjQ0YjVhNzc0NWNhZDJlZWU2MGY5",
+  "snapshot_id": "MTY2MzMwMDg2MCwwMDAwMDAwMGZiZTdkMGY2ZGI5MTAxMmQzN2JkNjc0ZmNmMWNiMzQ3",
   "tracks": [
     {
       "added_at": "2022-09-16 04:01:00",
@@ -847,30 +847,6 @@
     {
       "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "Enfermo de Riqueza",
-        "url": "https://open.spotify.com/album/24l98xY35ZOq2Lwn8dU0Wr"
-      },
-      "artists": [
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Ovi",
-          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
-        }
-      ],
-      "duration_ms": 234611,
-      "name": "Enfermo de Riqueza",
-      "url": "https://open.spotify.com/track/0sS3OIqLs2RcccCyR71h6s"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
         "name": "100 A\u00f1os (Con Calibre 50)",
         "url": "https://open.spotify.com/album/0EHD1gdUFjhkeQkJVuLZQa"
       },
@@ -891,6 +867,30 @@
       "duration_ms": 215092,
       "name": "100 A\u00f1os - Con Calibre 50",
       "url": "https://open.spotify.com/track/5CxyOGC6zPaZ190hXuH5FO"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "Enfermo de Riqueza",
+        "url": "https://open.spotify.com/album/24l98xY35ZOq2Lwn8dU0Wr"
+      },
+      "artists": [
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Ovi",
+          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
+        }
+      ],
+      "duration_ms": 234611,
+      "name": "Enfermo de Riqueza",
+      "url": "https://open.spotify.com/track/0sS3OIqLs2RcccCyR71h6s"
     },
     {
       "added_at": "2022-09-16 04:01:00",

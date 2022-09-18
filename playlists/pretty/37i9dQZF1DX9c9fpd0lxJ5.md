@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c9fpd0lxJ5.md) - [plain]
 
 > indie tunes to make you shine bby:\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 446,929 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 446,926 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c9fpd0lxJ5.md) - [plain]
 | 28 | [PRONTO!](https://open.spotify.com/track/1V1S26dHvmZXbwB6TvwXQb) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [PRONTO!](https://open.spotify.com/album/5mcmC81PUNTwFp3YLflIzF) | 3:28 |
 | 29 | [The Sweet Escape](https://open.spotify.com/track/0UPYSuHKAZq6diZrCaBAsW) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [The Sweet Escape](https://open.spotify.com/album/3jCd27MDogNResJz6axMOP) | 2:46 |
 | 30 | [A la Madrugada](https://open.spotify.com/track/0Y0fjDVP3AdvODBG0jOIht) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Ciclo](https://open.spotify.com/album/3RdOl7kpv8eExyjI9YhANs) | 4:21 |
-| 31 | [s a l u d o s](https://open.spotify.com/track/1gEBRuOemkKubufvFmF0pE) | [KORDELYA](https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Mal Hecha \(Deluxe\)](https://open.spotify.com/album/6n2KkPuOhM14eWLPuUipwP) | 3:17 |
-| 32 | [Paraíso](https://open.spotify.com/track/0YqJFO4bUZn1chzZ6KR9l9) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Paraíso](https://open.spotify.com/album/4X61CX0485026hU97ZPc57) | 3:52 |
+| 31 | [Paraíso](https://open.spotify.com/track/0YqJFO4bUZn1chzZ6KR9l9) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Paraíso](https://open.spotify.com/album/4X61CX0485026hU97ZPc57) | 3:52 |
+| 32 | [s a l u d o s](https://open.spotify.com/track/1gEBRuOemkKubufvFmF0pE) | [KORDELYA](https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Mal Hecha \(Deluxe\)](https://open.spotify.com/album/6n2KkPuOhM14eWLPuUipwP) | 3:17 |
 | 33 | [muero x ti](https://open.spotify.com/track/0VDvDixlnaJFUYYEhE6tDp) | [Noah Pino Palo](https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21), [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [muero x ti](https://open.spotify.com/album/0PEkrVYDzkhAU5xk0gOqu4) | 3:57 |
 | 34 | [¿A Dónde Vas?](https://open.spotify.com/track/7wzsI1Gca3y33WE2FhN45m) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Miocarditis](https://open.spotify.com/album/7gohod4Ik5cAHMLXRSoJ9j) | 3:40 |
 | 35 | [FLOTANDO](https://open.spotify.com/track/40OkDypNOibhDLHZ94bKQc) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [FLOTANDO](https://open.spotify.com/album/2P2zEMA1YeWmLGNrxGvHBY) | 2:42 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c9fpd0lxJ5.md) - [plain]
 | 42 | [tdbn](https://open.spotify.com/track/3fLmwbhdw0dgBYYSTvT3v5) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn](https://open.spotify.com/album/6bdoqQybs5gW8m92VMwVPJ) | 3:19 |
 | 43 | [No Sé \(feat\. Girl Ultra\)](https://open.spotify.com/track/00bdtvYtc1OTsMqIDyB9VJ) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1), [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [¿Dónde Bailarán Las Niñas?](https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa) | 3:38 |
 | 44 | [Te Quiero Olvidar](https://open.spotify.com/track/3fQr5yEzrOis5U7klzyKql) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [CARISMA](https://open.spotify.com/album/62TQ8Q7gaq5T4eUzYr3YXQ) | 3:22 |
-| 45 | [Copy Paste](https://open.spotify.com/track/4rF5XqE4UUVM1AtYV5wRfw) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Puro Teatro](https://open.spotify.com/album/0omCx2FvDNSj9i6J0KHp3P) | 3:01 |
-| 46 | [qué bueno!](https://open.spotify.com/track/5oxWWmZLJIH0y6v2isD7Lt) | [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [qué bueno!](https://open.spotify.com/album/5NF8Q7vFhmT1RJ15czoEL7) | 2:37 |
+| 45 | [qué bueno!](https://open.spotify.com/track/5oxWWmZLJIH0y6v2isD7Lt) | [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [qué bueno!](https://open.spotify.com/album/5NF8Q7vFhmT1RJ15czoEL7) | 2:37 |
+| 46 | [Copy Paste](https://open.spotify.com/track/4rF5XqE4UUVM1AtYV5wRfw) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Puro Teatro](https://open.spotify.com/album/0omCx2FvDNSj9i6J0KHp3P) | 3:01 |
 | 47 | [Puente](https://open.spotify.com/track/1KmEEVfPbIfOqXdVxr8gm2) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Puente](https://open.spotify.com/album/3fFFuFzU8vpMbOhxDVCzBj) | 3:00 |
 | 48 | [Todo Is Gonna Be Alright, Mi Amor](https://open.spotify.com/track/12MFhpEpwzmtNkO1r8Kqxa) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Todo Is Gonna Be Alright, Mi Amor](https://open.spotify.com/album/544UD49q01Pe3ItnRi0tRw) | 3:12 |
 | 49 | [Eso Que Me Das](https://open.spotify.com/track/76Xv0phxmn6MyCxY3K00Wa) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Eso Que Me Das](https://open.spotify.com/album/0WQ1ixBjLMPw4uK0vZnIh3) | 3:47 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c9fpd0lxJ5.md) - [plain]
 | 68 | [CLEAN BABY](https://open.spotify.com/track/2enQxKJL5ZTGoU3U8ri85A) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [CLEAN BABY](https://open.spotify.com/album/5VzoByWr9exzILjqYGPS2F) | 3:04 |
 | 69 | [Arcoíris](https://open.spotify.com/track/3Kw6nJFp1sZ5RqwYrP51jU) | [Mola Mola](https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN) | [Arcoíris](https://open.spotify.com/album/0RBNncC4gMU2U83bLPoWcs) | 3:37 |
 | 70 | [Agua Que Quema](https://open.spotify.com/track/5mJ7IcsK2WzXRaIKW5XgY9) | [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Mundos](https://open.spotify.com/album/04IsLcbwfDd5Y7fwdaGML6) | 3:19 |
-| 71 | [La Sombra](https://open.spotify.com/track/3monG9SQApxiOwivspTANk) | [Chesdana](https://open.spotify.com/artist/1PobiDleeGFCqJgRVvX9DY) | [La Sombra](https://open.spotify.com/album/1byXfg4uGQecfZKo9AjziF) | 3:46 |
-| 72 | [¿Pa Qué?](https://open.spotify.com/track/4eReQpWfpFVEKrWyynpadO) | [Letón Pé](https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO), [Chøby](https://open.spotify.com/artist/6xsIIOuNuBj1Lvmcn87fQd) | [¿Pa Qué?](https://open.spotify.com/album/1aBwufMjzi19BkmB4tkapq) | 3:22 |
+| 71 | [¿Pa Qué?](https://open.spotify.com/track/4eReQpWfpFVEKrWyynpadO) | [Letón Pé](https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO), [Chøby](https://open.spotify.com/artist/6xsIIOuNuBj1Lvmcn87fQd) | [¿Pa Qué?](https://open.spotify.com/album/1aBwufMjzi19BkmB4tkapq) | 3:22 |
+| 72 | [La Sombra](https://open.spotify.com/track/3monG9SQApxiOwivspTANk) | [Chesdana](https://open.spotify.com/artist/1PobiDleeGFCqJgRVvX9DY) | [La Sombra](https://open.spotify.com/album/1byXfg4uGQecfZKo9AjziF) | 3:46 |
 | 73 | [Margaritas](https://open.spotify.com/track/3XfFsjkdXHFk1O4OMXIcfa) | [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2), [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [Margaritas](https://open.spotify.com/album/2duhmxOLOE7WlplLn2PCi2) | 2:46 |
 | 74 | [Fuma](https://open.spotify.com/track/256iSpPtbeB473PZ9gtlsL) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Fuma](https://open.spotify.com/album/4hZ5N4HR23RStTtFKzvktM) | 3:19 |
 | 75 | [Melocotón](https://open.spotify.com/track/1qW32mkxIEhRkerlabQVOd) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka) | [135](https://open.spotify.com/album/3bjtksgbIeMDC4dbdCFPZR) | 2:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c9fpd0lxJ5.md) - [plain]
 | 99 | [Si Te Portas Mal \(Be Bad\)](https://open.spotify.com/track/5cxGETg09kiVEMDMJ3qW0G) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Everlasting](https://open.spotify.com/album/2PQOF8sJwxJODZ4MZ97mYn) | 3:37 |
 | 100 | [Dónde estás](https://open.spotify.com/track/3xG8DnokACoP2e4Q83PY21) | [dani](https://open.spotify.com/artist/4sYXzPulKYxOYuDKS1px8Y) | [veinte](https://open.spotify.com/album/1rAMdylzJZKDJgL200ivk5) | 3:24 |
 
-Snapshot ID: `MTY2MDc2MjM4OSwwMDAwMDAwMDA5ZWQwZWE3ZDEzMTdlZmNiZTg5N2ViNzUwNGE2YjY0`
+Snapshot ID: `MTY2MDc2MjM4OSwwMDAwMDAwMDFhZWZiMGE2ODUzMjhhYTMwMjZiMzI3OGVlZTllMWI2`

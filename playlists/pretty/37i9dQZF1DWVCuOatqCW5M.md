@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\-Amit Trivedi
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,663 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,721 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 21 | [Ek Tarfa](https://open.spotify.com/track/6s7dQ6nHwILfXw1SMyOI8F) | [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk) | [Ek Tarfa](https://open.spotify.com/album/48N7cNRVOafA9ERnFHkIIy) | 3:46 |
 | 22 | [Aati Hai Toh Welcome](https://open.spotify.com/track/3OLJG5lg9iIUOsM7HKpodS) | [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m) | [Aati Hai Toh Welcome](https://open.spotify.com/album/2iTKCmNEdUIeZaus8MtwGd) | 2:49 |
 | 23 | [Aankhon Se Batana \(feat\. Dikshant\) \- Heartbreak Version](https://open.spotify.com/track/3TvuDDztSve7iSxnd0bvHg) | [Soumya Mukherjee](https://open.spotify.com/artist/5afRWzAI1mcKDCLyz056ZA), [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Aankhon Se Batana \(feat\. Dikshant\) \[Heartbreak Version\]](https://open.spotify.com/album/2W5j6HlejBMhmiEoat8I8N) | 3:24 |
-| 24 | [Pasbaan](https://open.spotify.com/track/0tiLDRf1GiKejG9M0WBqdd) | [Tanzeel Khan](https://open.spotify.com/artist/64Bnlany1OG6esdJyOxyey), [Hashim Nawaz](https://open.spotify.com/artist/2zurwnLzcPvY8n3jJEse5E) | [Pasbaan](https://open.spotify.com/album/44SnPFNd4MMe5sQyonRO36) | 4:01 |
+| 24 | [Pasbaan](https://open.spotify.com/track/0tiLDRf1GiKejG9M0WBqdd) | [Tanzeel Khan](https://open.spotify.com/artist/64Bnlany1OG6esdJyOxyey), [XTACY](https://open.spotify.com/artist/6YOZBKPwkJvn3lVxzkFIBP), [Hashim Nawaz](https://open.spotify.com/artist/2zurwnLzcPvY8n3jJEse5E) | [Pasbaan](https://open.spotify.com/album/44SnPFNd4MMe5sQyonRO36) | 4:01 |
 | 25 | [Naach Baby](https://open.spotify.com/track/3Njma6rHhIJV2nNyHTTuzZ) | [Bhoomi Trivedi](https://open.spotify.com/artist/16IWQKGP5XiiKxalXZuIMZ), [Vipin Patwa](https://open.spotify.com/artist/6SzYh3jdZpJxGulYuWlFb5), [Sunny Leone](https://open.spotify.com/artist/3iiyz5XVmnCQrYmbpMfpie), [Remo D'Souza](https://open.spotify.com/artist/1hm5PhJTvmcSdRvTkohXhm) | [Naach Baby](https://open.spotify.com/album/2q5WwtIFFrPC0e1MnUeC57) | 3:46 |
 | 26 | [Right Wali Payal](https://open.spotify.com/track/0y8lqslrswqgJgDKNxd8zo) | [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw), [Saiwariya](https://open.spotify.com/artist/34Bsd6kohYGNWw1zvqkVd5) | [Right Wali Payal](https://open.spotify.com/album/3dOjLj8aNk6XbdR1Sfv5Va) | 2:10 |
 | 27 | [Sajaunga Lutkar Bhi](https://open.spotify.com/track/3PzNjt67SwJuJWKqSBfx3k) | [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [Sajaunga Lutkar Bhi \- Single](https://open.spotify.com/album/6msVTEPZ8646JKzoEXNCVb) | 3:16 |

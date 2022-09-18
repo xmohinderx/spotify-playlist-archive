@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQlAcQVKgKf.md) - [plain]
 
 > The sexy queen! Check out HyunA's music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,597 likes - 62 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,645 likes - 62 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQlAcQVKgKf.md) - [plain]
 | 39 | [Serene](https://open.spotify.com/track/3PtpqAHDppoQ4EPaQmqExM) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [A+](https://open.spotify.com/album/2lCP8HWiKphRT1pmtn0zYw) | 3:42 |
 | 40 | [A Talk](https://open.spotify.com/track/3LhzNNohNcHfnR36wjKP1M) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [A Talk](https://open.spotify.com/album/78Ei6os3WDar0sgVlGz0yJ) | 1:19 |
 | 41 | [FRENCH KISS](https://open.spotify.com/track/2b7Kon2nTvTDOX4CQ7sFPL) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [A Talk](https://open.spotify.com/album/78Ei6os3WDar0sgVlGz0yJ) | 3:11 |
-| 42 | [Blacklist \(Feat\. LE\)](https://open.spotify.com/track/4FNEiAZkTqkdCgcUtBVu9E) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb), [LE](https://open.spotify.com/artist/5h0QnpgJxd77A8UXYrcvhy) | [A Talk](https://open.spotify.com/album/78Ei6os3WDar0sgVlGz0yJ) | 3:29 |
+| 42 | [Blacklist \(Feat\. LE\)](https://open.spotify.com/track/4FNEiAZkTqkdCgcUtBVu9E) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb), [ELLY](https://open.spotify.com/artist/5h0QnpgJxd77A8UXYrcvhy) | [A Talk](https://open.spotify.com/album/78Ei6os3WDar0sgVlGz0yJ) | 3:29 |
 | 43 | [Straight Up](https://open.spotify.com/track/0Rne9W9aSoVYl520FvfS30) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [Melting](https://open.spotify.com/album/3VeAhTrnrIzZTJ6qEsByAg) | 2:54 |
 | 44 | [Green Apple \(Feat\. Il Hoon Jung of BTOB\)](https://open.spotify.com/track/4U3gbP0ZUXE9k2YZGE2TMH) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb), [Il Hoon Jung of BTOB](https://open.spotify.com/artist/4viqH5lDwLHQSeDIZTJCK7) | [Melting](https://open.spotify.com/album/3VeAhTrnrIzZTJ6qEsByAg) | 3:15 |
 | 45 | [Dear Boyfriend](https://open.spotify.com/track/4EcjIKnQJSnOW7GIIMSTo7) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [Melting](https://open.spotify.com/album/3VeAhTrnrIzZTJ6qEsByAg) | 3:42 |

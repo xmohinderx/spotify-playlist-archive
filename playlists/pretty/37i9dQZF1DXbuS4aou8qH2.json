@@ -1,12 +1,12 @@
 {
   "description": "The perfect jams on a perfect summer day. Cover: Lil Baby",
-  "num_followers": 11148,
+  "num_followers": 11197,
   "original_name": "SUMMA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMTQxOSwwMDAwMDAwMDExZWRhN2YwMDRhYjI1YzFhYzEyNjE4NTU4ODkzNGIw",
+  "snapshot_id": "MTY2MzMwMTQxOSwwMDAwMDAwMDMwOWNkOTQyNmU0NDJjNmYwNjhmZmY1ZTc4YmY2Y2Iz",
   "tracks": [
     {
       "added_at": "2022-09-16 04:10:19",
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-09-16 04:10:19",
       "album": {
-        "name": "RENAISSANCE",
-        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 273997,
-      "name": "SUMMER RENAISSANCE",
-      "url": "https://open.spotify.com/track/3HyR1j49TY5ACP2lseF1jx"
-    },
-    {
-      "added_at": "2022-09-16 04:10:19",
-      "album": {
         "name": "I NEVER LIKED YOU",
         "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 172933,
       "name": "PUFFIN ON ZOOTIEZ",
       "url": "https://open.spotify.com/track/1qMMYpVatbRITKCfq1gasi"
+    },
+    {
+      "added_at": "2022-09-16 04:10:19",
+      "album": {
+        "name": "RENAISSANCE",
+        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 273997,
+      "name": "SUMMER RENAISSANCE",
+      "url": "https://open.spotify.com/track/3HyR1j49TY5ACP2lseF1jx"
     },
     {
       "added_at": "2022-09-16 04:10:19",
@@ -651,22 +651,18 @@
     {
       "added_at": "2022-09-16 04:10:19",
       "album": {
-        "name": "Mr. Morale & The Big Steppers",
-        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
+        "name": "Traumazine",
+        "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
       },
       "artists": [
         {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
         }
       ],
-      "duration_ms": 220779,
-      "name": "Silent Hill",
-      "url": "https://open.spotify.com/track/3lzUeaCbcCDB5IXYfqWRlF"
+      "duration_ms": 137107,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/5hHvFrMnwic82WwRLr4WY0"
     },
     {
       "added_at": "2022-09-16 04:10:19",
@@ -687,18 +683,22 @@
     {
       "added_at": "2022-09-16 04:10:19",
       "album": {
-        "name": "Traumazine",
-        "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
       },
       "artists": [
         {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
         }
       ],
-      "duration_ms": 137107,
-      "name": "Her",
-      "url": "https://open.spotify.com/track/5hHvFrMnwic82WwRLr4WY0"
+      "duration_ms": 220779,
+      "name": "Silent Hill",
+      "url": "https://open.spotify.com/track/3lzUeaCbcCDB5IXYfqWRlF"
     },
     {
       "added_at": "2022-09-16 04:10:19",
@@ -1267,6 +1267,42 @@
     {
       "added_at": "2022-09-16 04:10:19",
       "album": {
+        "name": "Super Freaky Girl (Queen Mix)",
+        "url": "https://open.spotify.com/album/0kTHpgQCab29IVUdUIVtI6"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "JT",
+          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Katie Got Bandz",
+          "url": "https://open.spotify.com/artist/48ObYO3GM7R76nRcfyvnM9"
+        },
+        {
+          "name": "Akbar V",
+          "url": "https://open.spotify.com/artist/74PEUb9Hxn7dY8jjgnQvSw"
+        },
+        {
+          "name": "Maliibu Miitch",
+          "url": "https://open.spotify.com/artist/5J1JcdYCPj44YKz6kVA5wx"
+        }
+      ],
+      "duration_ms": 234899,
+      "name": "Super Freaky Girl (with JT & BIA feat. Katie Got Bandz, Akbar V & Maliibu Mitch) - Queen Mix",
+      "url": "https://open.spotify.com/track/4dFKEyGrwmIimMqwYleFOR"
+    },
+    {
+      "added_at": "2022-09-16 04:10:19",
+      "album": {
         "name": "Waddup (feat. Polo G)",
         "url": "https://open.spotify.com/album/5n7rq7SXw2F014wwX6DlW9"
       },
@@ -1339,42 +1375,6 @@
       "duration_ms": 291611,
       "name": "D.M.B.",
       "url": "https://open.spotify.com/track/7IBLt4Qarf4JDLxIQDv2O5"
-    },
-    {
-      "added_at": "2022-09-16 04:10:19",
-      "album": {
-        "name": "Super Freaky Girl (Queen Mix)",
-        "url": "https://open.spotify.com/album/0kTHpgQCab29IVUdUIVtI6"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "JT",
-          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        },
-        {
-          "name": "Katie Got Bandz",
-          "url": "https://open.spotify.com/artist/48ObYO3GM7R76nRcfyvnM9"
-        },
-        {
-          "name": "Akbar V",
-          "url": "https://open.spotify.com/artist/74PEUb9Hxn7dY8jjgnQvSw"
-        },
-        {
-          "name": "Maliibu Miitch",
-          "url": "https://open.spotify.com/artist/5J1JcdYCPj44YKz6kVA5wx"
-        }
-      ],
-      "duration_ms": 234899,
-      "name": "Super Freaky Girl (with JT & BIA feat. Katie Got Bandz, Akbar V & Maliibu Mitch) - Queen Mix",
-      "url": "https://open.spotify.com/track/4dFKEyGrwmIimMqwYleFOR"
     },
     {
       "added_at": "2022-09-16 04:10:19",
@@ -1499,18 +1499,62 @@
     {
       "added_at": "2022-09-16 04:10:19",
       "album": {
-        "name": "Playboy",
-        "url": "https://open.spotify.com/album/1H60asyrMtrrOlieQIPtrI"
+        "name": "Shoot It Myself (feat. Future)",
+        "url": "https://open.spotify.com/album/0afoo6vjuoRwsWH60vsbwN"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 187843,
+      "name": "Shoot It Myself (feat. Future)",
+      "url": "https://open.spotify.com/track/1PeDMQb4OIt2QBVvvXUd15"
+    },
+    {
+      "added_at": "2022-09-16 04:10:19",
+      "album": {
+        "name": "Peru (Remix)",
+        "url": "https://open.spotify.com/album/4Kg4K6I165RgFvAnWy14Md"
       },
       "artists": [
         {
           "name": "Fireboy DML",
           "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
         }
       ],
-      "duration_ms": 207474,
-      "name": "Playboy",
-      "url": "https://open.spotify.com/track/1Cg51Jk6EoXBQ0KiwzWJfm"
+      "duration_ms": 186952,
+      "name": "Peru - Remix",
+      "url": "https://open.spotify.com/track/7voSun33hCNkIrjxaj3g47"
+    },
+    {
+      "added_at": "2022-09-16 04:10:19",
+      "album": {
+        "name": "you",
+        "url": "https://open.spotify.com/album/3R0Vj38qjC04rYeHLDPC2p"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 175504,
+      "name": "you",
+      "url": "https://open.spotify.com/track/1U2fUzMkgprQoocKlYu3Oj"
     },
     {
       "added_at": "2022-09-16 04:10:19",
@@ -1535,22 +1579,6 @@
     {
       "added_at": "2022-09-16 04:10:19",
       "album": {
-        "name": "you",
-        "url": "https://open.spotify.com/album/3R0Vj38qjC04rYeHLDPC2p"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 175504,
-      "name": "you",
-      "url": "https://open.spotify.com/track/1U2fUzMkgprQoocKlYu3Oj"
-    },
-    {
-      "added_at": "2022-09-16 04:10:19",
-      "album": {
         "name": "blessing me (with Pa Salieu & Skillibeng)",
         "url": "https://open.spotify.com/album/4Z3TLFfO6xwXLgInns2gXI"
       },
@@ -1571,26 +1599,6 @@
       "duration_ms": 165507,
       "name": "blessing me (with Pa Salieu & Skillibeng)",
       "url": "https://open.spotify.com/track/3wyfDf57MYVDeGW8qYIWsn"
-    },
-    {
-      "added_at": "2022-09-16 04:10:19",
-      "album": {
-        "name": "Shoot It Myself (feat. Future)",
-        "url": "https://open.spotify.com/album/0afoo6vjuoRwsWH60vsbwN"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 187843,
-      "name": "Shoot It Myself (feat. Future)",
-      "url": "https://open.spotify.com/track/1PeDMQb4OIt2QBVvvXUd15"
     },
     {
       "added_at": "2022-09-16 04:10:19",
@@ -1687,26 +1695,34 @@
     {
       "added_at": "2022-09-16 04:10:19",
       "album": {
-        "name": "Peru (Remix)",
-        "url": "https://open.spotify.com/album/4Kg4K6I165RgFvAnWy14Md"
+        "name": "Playboy",
+        "url": "https://open.spotify.com/album/1H60asyrMtrrOlieQIPtrI"
       },
       "artists": [
         {
           "name": "Fireboy DML",
           "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
         }
       ],
-      "duration_ms": 186952,
-      "name": "Peru - Remix",
-      "url": "https://open.spotify.com/track/7voSun33hCNkIrjxaj3g47"
+      "duration_ms": 207474,
+      "name": "Playboy",
+      "url": "https://open.spotify.com/track/1Cg51Jk6EoXBQ0KiwzWJfm"
+    },
+    {
+      "added_at": "2022-09-16 04:10:19",
+      "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 182037,
+      "name": "Jagele",
+      "url": "https://open.spotify.com/track/2dGE7HMvZEjuNxzz4IDLyL"
     },
     {
       "added_at": "2022-09-16 04:10:19",
@@ -1727,22 +1743,6 @@
       "duration_ms": 230841,
       "name": "Queen Space (with Summer Walker)",
       "url": "https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C"
-    },
-    {
-      "added_at": "2022-09-16 04:10:19",
-      "album": {
-        "name": "Love, Damini",
-        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 182037,
-      "name": "Jagele",
-      "url": "https://open.spotify.com/track/2dGE7HMvZEjuNxzz4IDLyL"
     },
     {
       "added_at": "2022-09-16 04:10:19",
@@ -1827,6 +1827,22 @@
     {
       "added_at": "2022-09-16 04:10:19",
       "album": {
+        "name": "Wet",
+        "url": "https://open.spotify.com/album/31TtTfGTyqjNQvTXa6Ig9u"
+      },
+      "artists": [
+        {
+          "name": "Kali",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 136980,
+      "name": "Wet",
+      "url": "https://open.spotify.com/track/4RCwUGboTNqqrY2tgy37nF"
+    },
+    {
+      "added_at": "2022-09-16 04:10:19",
+      "album": {
         "name": "Baby Boo",
         "url": "https://open.spotify.com/album/0DW558ZCBNQQ3hBzOqVeP4"
       },
@@ -1843,22 +1859,6 @@
       "duration_ms": 152241,
       "name": "Baby Boo (with Saweetie)",
       "url": "https://open.spotify.com/track/68aV83AuiEu1xeHDGulsyB"
-    },
-    {
-      "added_at": "2022-09-16 04:10:19",
-      "album": {
-        "name": "Wet",
-        "url": "https://open.spotify.com/album/31TtTfGTyqjNQvTXa6Ig9u"
-      },
-      "artists": [
-        {
-          "name": "Kali",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 136980,
-      "name": "Wet",
-      "url": "https://open.spotify.com/track/4RCwUGboTNqqrY2tgy37nF"
     },
     {
       "added_at": "2022-09-16 04:10:19",

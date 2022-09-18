@@ -4,7 +4,7 @@
 
 > In Nashville for CMA Music Fest? Come visit Spotify House at Ole Red on Broadway\. We've curated an entire week of live music and artists just for you! If you can't be there, let this be your soundtrack to Music Fest week\. Enjoy!
 
-118 songs - 6 hr 21 min - [published](https://open.spotify.com/playlist/5GjLmu8QKhVmTUHDZY1gTN)
+119 songs - 6 hr 24 min - [published](https://open.spotify.com/playlist/5GjLmu8QKhVmTUHDZY1gTN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [5 Foot 9](https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [5 Foot 9](https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr) | 3:09 | 2022-05-26 |  |
 | [Ain't My Day](https://open.spotify.com/track/4UaVc38NkRhcyFYklkgxbf) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc), [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | ['21](https://open.spotify.com/album/6jjJF0stimclEoHKtNFZpj) | 3:21 | 2022-05-26 |  |
 | [All American](https://open.spotify.com/track/3fP4VG815Jun2uUoyXIqwg) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Remember Her Name](https://open.spotify.com/album/29WY4kjzCtXpWrYyywIUnD) | 3:02 | 2022-05-26 |  |
-| [Baby I Am](https://open.spotify.com/track/6OSa9hgEvituO2SaaYBiwD) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [Baby I Am](https://open.spotify.com/album/44lDYWVwQ1yo5r066GtpSo) | 2:56 | 2022-05-26 |  |
+| [Baby I Am](https://open.spotify.com/track/3pD2qgImjXbfepb5mksDp3) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [Baby I Am](https://open.spotify.com/album/5bg19JZRGPWA2ubmplCSt2) | 2:56 | 2022-06-13 |  |
+| [Baby I Am](https://open.spotify.com/track/6OSa9hgEvituO2SaaYBiwD) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [Baby I Am](https://open.spotify.com/album/44lDYWVwQ1yo5r066GtpSo) | 2:56 | 2022-05-26 | 2022-09-18 |
 | [Bar Friends](https://open.spotify.com/track/5NfFDWE3FzgXo0Mg7N4MEm) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Bar Friends](https://open.spotify.com/album/5Z81UYgt8SNzIRh2emPnPi) | 3:06 | 2022-05-26 |  |
 | [Beat of the Music](https://open.spotify.com/track/3un2KQUaQ2brEpd8dK93wI) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Bring You Back](https://open.spotify.com/album/7weU5IWFfeueNG5V68CTTT) | 2:59 | 2022-05-26 |  |
 | [Beers And Sunshine](https://open.spotify.com/track/36ISlLb12gKuCCVTYXC0gb) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Beers And Sunshine](https://open.spotify.com/album/1GZyb1fAcVAdxeZK16ozLR) | 2:58 | 2022-05-26 |  |
