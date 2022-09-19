@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the electric, amplified sound that is Chicago Blues.\u00a0",
-  "num_followers": 114515,
+  "num_followers": 114559,
   "original_name": "Chicago Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5OTcyOCwwMDAwMDAwMDljMzI2Y2Y2M2JiMzVkNTlmZmNiODdhNzgzZDg4ZDRk",
+  "snapshot_id": "MTY0ODQ5OTcyOCwwMDAwMDAwMDVkNTExZTQxNDAwMGYxNjI1OTI0ZjNkYmI4ZmFmNWIy",
   "tracks": [
     {
       "added_at": "2016-03-21 20:31:35",
@@ -491,22 +491,6 @@
     {
       "added_at": "2018-02-27 18:08:29",
       "album": {
-        "name": "Heartaches And Pain",
-        "url": "https://open.spotify.com/album/7hmhwWISoILoobUdovmoxC"
-      },
-      "artists": [
-        {
-          "name": "Carey Bell",
-          "url": "https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs"
-        }
-      ],
-      "duration_ms": 279800,
-      "name": "Everything's Gonna Be All Right",
-      "url": "https://open.spotify.com/track/2f47wE92JeVnJ8EM0IGsNQ"
-    },
-    {
-      "added_at": "2018-02-27 18:08:29",
-      "album": {
         "name": "West Side Strut",
         "url": "https://open.spotify.com/album/7g3FhubXyKNZIFnlVEz73k"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 280440,
       "name": "Gotta Move On",
       "url": "https://open.spotify.com/track/7fP4SqRROudOtgaOeR72lg"
+    },
+    {
+      "added_at": "2018-02-27 18:08:29",
+      "album": {
+        "name": "Heartaches And Pain",
+        "url": "https://open.spotify.com/album/7hmhwWISoILoobUdovmoxC"
+      },
+      "artists": [
+        {
+          "name": "Carey Bell",
+          "url": "https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs"
+        }
+      ],
+      "duration_ms": 279800,
+      "name": "Everything's Gonna Be All Right",
+      "url": "https://open.spotify.com/track/2f47wE92JeVnJ8EM0IGsNQ"
     },
     {
       "added_at": "2016-03-21 20:31:35",

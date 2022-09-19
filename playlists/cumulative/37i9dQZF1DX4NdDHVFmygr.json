@@ -1608,6 +1608,24 @@
     },
     {
       "album": {
+        "name": "Lina",
+        "url": "https://open.spotify.com/album/11CqECgUKAF3kZCsAPTMmo"
+      },
+      "artists": [
+        {
+          "name": "Yvzid",
+          "url": "https://open.spotify.com/artist/1hiAzHtDperYB5FhcWzJsW"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135931,
+      "name": "Lina",
+      "url": "https://open.spotify.com/track/2ig3Y0b35whG1FrAVG27tv"
+    },
+    {
+      "album": {
         "name": "Liyam",
         "url": "https://open.spotify.com/album/7oeL2OItTkEJylnw0ZoIRH"
       },
@@ -2891,7 +2909,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 165520,
       "name": "Zina",
       "url": "https://open.spotify.com/track/6aSUxiUElMeHaUhVJdTSPl"

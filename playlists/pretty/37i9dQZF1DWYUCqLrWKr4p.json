@@ -1,12 +1,12 @@
 {
   "description": "Unforgettable love songs from the 1960s.",
-  "num_followers": 114742,
+  "num_followers": 114924,
   "original_name": "60s Love Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzkxNTc0NCwwMDAwMDAwMGYwMTgxNGIwNmI3ZjliYjg3OTY0YWVhODQ0NTc2OTAw",
+  "snapshot_id": "MTY1MzkxNTc0NCwwMDAwMDAwMGQ2YTAyZWQ1MGY4NDQ5NjkxYzNjZWQ2NzVmMDA4ZWVh",
   "tracks": [
     {
       "added_at": "2022-05-30 13:02:24",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
-        "name": "The Chiffons Absolutely The Best!",
-        "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
-      },
-      "artists": [
-        {
-          "name": "The Chiffons",
-          "url": "https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj"
-        }
-      ],
-      "duration_ms": 112520,
-      "name": "He's So Fine - Remastered 2000",
-      "url": "https://open.spotify.com/track/2Bs1Lw9LX8hBm70t1iGdlh"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
         "name": "The Best Of Bobby Vinton",
         "url": "https://open.spotify.com/album/4qK4QZUSp8QdoMEm9mrzyA"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 168093,
       "name": "Blue Velvet",
       "url": "https://open.spotify.com/track/4QelFzhVgLomeQhvKrwM1S"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
+        "name": "The Chiffons Absolutely The Best!",
+        "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
+      },
+      "artists": [
+        {
+          "name": "The Chiffons",
+          "url": "https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj"
+        }
+      ],
+      "duration_ms": 112520,
+      "name": "He's So Fine - Remastered 2000",
+      "url": "https://open.spotify.com/track/2Bs1Lw9LX8hBm70t1iGdlh"
     },
     {
       "added_at": "2022-05-30 13:02:24",
@@ -963,22 +963,6 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/0rgnbePrBYNFSaXnCZOcod"
-      },
-      "artists": [
-        {
-          "name": "Mary Wells",
-          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
-        }
-      ],
-      "duration_ms": 171400,
-      "name": "My Guy - Single Version",
-      "url": "https://open.spotify.com/track/7arXVtGNJPa7aOHiKOeUsl"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
         "name": "#1 Radio Hits of the 60's",
         "url": "https://open.spotify.com/album/4o3sNKvKE9yfyhMVm6oSg3"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 151066,
       "name": "Hey Paula - Single Version",
       "url": "https://open.spotify.com/track/6MpCxTJNdkHIpvQRuID8zU"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/0rgnbePrBYNFSaXnCZOcod"
+      },
+      "artists": [
+        {
+          "name": "Mary Wells",
+          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
+        }
+      ],
+      "duration_ms": 171400,
+      "name": "My Guy - Single Version",
+      "url": "https://open.spotify.com/track/7arXVtGNJPa7aOHiKOeUsl"
     },
     {
       "added_at": "2022-05-30 13:02:24",

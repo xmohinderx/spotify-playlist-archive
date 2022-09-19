@@ -4,7 +4,7 @@
 
 > 2014 highlights from the home of indie music.
 
-100 songs - 6 hr 35 min - not published yet
+100 songs - 6 hr 35 min - [published](https://open.spotify.com/playlist/5EHHG31d8jzCjYVOyv8FI1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

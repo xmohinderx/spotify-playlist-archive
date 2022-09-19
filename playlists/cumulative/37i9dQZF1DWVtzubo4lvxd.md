@@ -4,7 +4,7 @@
 
 > Chill lo\-fi beats to enjoy a great afternoon.
 
-195 songs - 7 hr 54 min - [published](https://open.spotify.com/playlist/7on3y4t0dpM9kcFySbFRWF)
+196 songs - 7 hr 56 min - [published](https://open.spotify.com/playlist/7on3y4t0dpM9kcFySbFRWF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [flowers](https://open.spotify.com/track/3rOEB3uDJW8njCCzZHG8ug) | [Anatolian Lover](https://open.spotify.com/artist/623ScUknqQMeadlTsPsw0k), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [flowers](https://open.spotify.com/album/7tAaWz43voY2qe3kd4tvBL) | 1:45 | 2022-04-15 | 2022-07-27 |
 | [flumes](https://open.spotify.com/track/2RJLaVIbhv4TvYAyHUWEYs) | [dxwg](https://open.spotify.com/artist/3R7gYMibAfCIW7D9tN0UL5) | [flumes](https://open.spotify.com/album/4HOnws27YBHCLfI2Sx5JVH) | 2:30 | 2022-04-15 | 2022-07-29 |
 | [For Her](https://open.spotify.com/track/3CJpS12RnQe4gf00ssQnA7) | [Caleb Belkin](https://open.spotify.com/artist/12TcsyqAd3lJUcZFJVogXZ) | [Discography](https://open.spotify.com/album/1z2EULhFIYioLEV4K6DEHp) | 1:47 | 2022-04-15 | 2022-08-12 |
+| [For Her](https://open.spotify.com/track/5rzCO5V9AVV0zvgJbEfUos) | [Caleb Belkin](https://open.spotify.com/artist/12TcsyqAd3lJUcZFJVogXZ) | [Discography](https://open.spotify.com/album/17KY09ISAVpJ30vTaiTW3n) | 1:47 | 2022-04-15 |  |
 | [for you](https://open.spotify.com/track/5hgX8pSZSOcKhsvzldsgWy) | [jhfly](https://open.spotify.com/artist/7D6kLgvRHr6DNDavc0LhvI) | [jhfly](https://open.spotify.com/album/3W8IdpgA3elbN4BVggHCcd) | 3:08 | 2022-04-15 |  |
 | [Found you by the Sea](https://open.spotify.com/track/2ovlA6kPP1XaR8hg7qgtnM) | [9thchord](https://open.spotify.com/artist/1FnAtXNjnVfTk157yQWzy5), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Found you by the Sea](https://open.spotify.com/album/2wH0zEupJScB87nbQhfFJt) | 2:56 | 2022-04-15 | 2022-07-29 |
 | [Gaze](https://open.spotify.com/track/2bWSSn9tMf9JeJB3ZPnUbB) | [Thorn.vii](https://open.spotify.com/artist/2VcprDJUxkV4uiaMbKmrWO), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Gaze](https://open.spotify.com/album/3o7rNZqM0CkoVAwyWUXaro) | 1:35 | 2022-04-15 | 2022-07-29 |
@@ -151,7 +152,7 @@
 | [SPACE19 \(Instrumental\)](https://open.spotify.com/track/3ZonfsnZxyluRHLB8igb3F) | [Farazi](https://open.spotify.com/artist/44wLgA9gxORLwDGRvYpRBg), [Sinan Öktem](https://open.spotify.com/artist/55e2OO6vymJkgUHIrp3xfv), [Ceronimo](https://open.spotify.com/artist/4UutNZ2KEd1b17rxzUpud6) | [SPACE19](https://open.spotify.com/album/4imIay9f3Xw3Z4lwh46VwG) | 3:33 | 2022-04-15 | 2022-07-28 |
 | [Springtime](https://open.spotify.com/track/2tw0XH9LfAmDf0H5IY8O4I) | [j^p^n](https://open.spotify.com/artist/6s3PbveUJMvMwZHyQUAPV4) | [Mercy](https://open.spotify.com/album/5cnP1FKGwGUfGIQqimOye9) | 2:00 | 2022-04-15 | 2022-07-03 |
 | [Springtime](https://open.spotify.com/track/6wh61ZuwyFfS9DD6EJCov4) | [j^p^n](https://open.spotify.com/artist/6s3PbveUJMvMwZHyQUAPV4) | [Mercy](https://open.spotify.com/album/1vNYKr4KkIcLFug4zMX0rD) | 2:00 | 2022-04-15 |  |
-| [St\. Clements](https://open.spotify.com/track/4AzvNQcn1I4sZ2wJrW5ATq) | [Limes](https://open.spotify.com/artist/5o4dgimn1R07w1d2ZzpzpP), [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS) | [St\. Clements](https://open.spotify.com/album/1XXmc02uygqHueQUYutfZZ) | 1:17 | 2022-04-15 |  |
+| [St\. Clements](https://open.spotify.com/track/4AzvNQcn1I4sZ2wJrW5ATq) | [Limes](https://open.spotify.com/artist/5o4dgimn1R07w1d2ZzpzpP), [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS) | [St\. Clements](https://open.spotify.com/album/1XXmc02uygqHueQUYutfZZ) | 1:17 | 2022-04-15 | 2022-09-19 |
 | [Stars](https://open.spotify.com/track/6ASdOVZkbVNoHzJSj0Cxll) | [Nobel](https://open.spotify.com/artist/5uC5qAuoCUyUduFrVAnYrE), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Stars](https://open.spotify.com/album/5RtPbAOnjGOgwhxA5jVfdO) | 2:03 | 2022-04-15 | 2022-07-29 |
 | [Stay and Wander](https://open.spotify.com/track/0Hm8vke3rwzGKm5sBpY762) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i), [Cap Kendricks](https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj) | [Field Notes](https://open.spotify.com/album/2JPUrDwBhVpbskpK0pPQX1) | 1:52 | 2022-04-15 |  |
 | [Summer Love](https://open.spotify.com/track/4t9khFSydC1VwzVxjsgt63) | [Mura Kami](https://open.spotify.com/artist/1UMKAtfbQKKYEp8mvAHRWE) | [Summer Jazz](https://open.spotify.com/album/1TVi6bHOSXFHOIkCD8I3tM) | 3:22 | 2022-04-15 | 2022-07-29 |

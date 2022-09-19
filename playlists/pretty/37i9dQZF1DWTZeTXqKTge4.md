@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le meilleur du hip\-hop québécois\. Photo: Raccoon
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,837 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,855 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,9 +12,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 2 | [Cercle Vicieux](https://open.spotify.com/track/2Wsp91MjyvE6fypPKmW3U4) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp), [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA) | [Cercle Vicieux](https://open.spotify.com/album/4uKG6vs1F0Y84CZOyP2CZm) | 3:42 |
 | 3 | [CREED](https://open.spotify.com/track/4VHJDnAK9d9XjhIHuGjib6) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [MMS 2.0](https://open.spotify.com/album/1frw85H7pUOeM2irhAhXaA) | 3:02 |
 | 4 | [Il était une fois](https://open.spotify.com/track/3uLZL8cZl2Hr1lal1Cet3D) | [Die\-On](https://open.spotify.com/artist/3PiPx0tAJVVmdwScvelkq3), [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Il était une fois](https://open.spotify.com/album/2viKHkCMddUIbdI4EWbbTd) | 4:05 |
-| 5 | [Sans trembler](https://open.spotify.com/track/3HEdgzJeMkuX2MdVGqPRNK) | [Gnino](https://open.spotify.com/artist/03sPkUqjLbCXdxu3e46T3H) | [Sans trembler](https://open.spotify.com/album/0PEec1NvTPyeSEhP5hchWn) | 3:10 |
+| 5 | [Évaporé](https://open.spotify.com/track/32XFaa4LwJrdI7R4Z8dDZD) | [LeMind](https://open.spotify.com/artist/3PZuIxHVPdduhzcP78mmlW), [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [Évaporé](https://open.spotify.com/album/3o3N3TegvhjoTfZmsTxnZo) | 3:16 |
 | 6 | [Dandan](https://open.spotify.com/track/7L2iNYWkQ6zy9ZloDdJnHr) | [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM), [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [Dandan](https://open.spotify.com/album/1kNR3dBuxP2A8WFI25dBXL) | 3:17 |
-| 7 | [Évaporé](https://open.spotify.com/track/32XFaa4LwJrdI7R4Z8dDZD) | [LeMind](https://open.spotify.com/artist/3PZuIxHVPdduhzcP78mmlW), [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [Évaporé](https://open.spotify.com/album/3o3N3TegvhjoTfZmsTxnZo) | 3:16 |
+| 7 | [Sans trembler](https://open.spotify.com/track/3HEdgzJeMkuX2MdVGqPRNK) | [Gnino](https://open.spotify.com/artist/03sPkUqjLbCXdxu3e46T3H) | [Sans trembler](https://open.spotify.com/album/0PEec1NvTPyeSEhP5hchWn) | 3:10 |
 | 8 | [Jacuzzi](https://open.spotify.com/track/7w1RLxc7gA8EBcRsWgSOUu) | [Izzy\-S](https://open.spotify.com/artist/76DXtaWMXZQbRZUHkQEdDQ) | [Jacuzzi](https://open.spotify.com/album/4VR3RBzYwMY1WnpiUsfaWt) | 2:43 |
 | 9 | [Le passé nous le dira](https://open.spotify.com/track/5PSa5UlautRrllU20C9jY4) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [Le passé nous le dira](https://open.spotify.com/album/5Qdzs8SPjcZBxMFTDsFXSt) | 3:14 |
 | 10 | [Andale](https://open.spotify.com/track/1bOqJaCP7MMxJJ2oGRX0jS) | [Mouss](https://open.spotify.com/artist/7D4rgoFxldk2wari7UObNY) | [Andale](https://open.spotify.com/album/3ADUouvgyG92CLvC8rzua5) | 2:46 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 74 | [Sans horaire](https://open.spotify.com/track/4xVQsPA32CgHu2v1fZbcTA) | [Tizzo](https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C), [og cyrus](https://open.spotify.com/artist/3KRSccEFVrRnMRe0XKGuNy) | [Sans horaire](https://open.spotify.com/album/2WOwDw0iT1rkI4VM4l1Y3l) | 3:21 |
 | 75 | [Salt Bae](https://open.spotify.com/track/2ZpVCAC54nKySnWuC0mJ0t) | [YH](https://open.spotify.com/artist/3js5jvTuoFgetWV7s8EVT5) | [Salt Bae](https://open.spotify.com/album/0n8ZU0vLoWOiRQWwQyrIVw) | 3:33 |
 
-Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMGE0NmEzYmU3Y2UxNjUxNDViYTg0OGE0ZDY2ZTkyMWU1`
+Snapshot ID: `MTY2MzQ2ODE3NCwwMDAwMDAwMDJhMDRjMTJhZjNmMDhiYmI5ZDZkYTk5NTQxZjc4OGE4`

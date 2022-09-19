@@ -4,7 +4,7 @@
 
 > مختارات من أفضل الاغاني الخليجية <br/>الغلاف: عبدالمجيدعبدالله
 
-73 songs - 5 hr 4 min - [published](https://open.spotify.com/playlist/6P6R1PK8TxLpu92yl9hTbK)
+75 songs - 5 hr 13 min - [published](https://open.spotify.com/playlist/6P6R1PK8TxLpu92yl9hTbK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,13 +60,15 @@
 | [أدعج عيون](https://open.spotify.com/track/2gfpyKUlTSUwmtiWj0vDW4) | [Majed Alrslani](https://open.spotify.com/artist/4TLEIkw2ZiwL796C8zJtST) | [أدعج عيون](https://open.spotify.com/album/4uEyRHNa7Zbms17CZYWulO) | 3:34 | 2022-04-07 |  |
 | [ابتسم لي](https://open.spotify.com/track/3DnpFp9OniR4U7r7zMKauE) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [ابتسم لي](https://open.spotify.com/album/5qgTLnjcuoiuokQQoAOR06) | 3:24 | 2022-04-07 | 2022-09-18 |
 | [ابتسم لي](https://open.spotify.com/track/6SnRVdLWNOv4JPt3xdN91X) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [ابتسم لي](https://open.spotify.com/album/2f8v46r3GCmlRZ7Rdmxpvk) | 3:24 | 2022-09-07 |  |
-| [اشكر جمالك](https://open.spotify.com/track/2gFZxR3Fur5t6fUzKgo7Y9) | [Abdullah Al Mukhles](https://open.spotify.com/artist/6SdRVw4NGUDFrTbWHXaUbH) | [اشكر جمالك](https://open.spotify.com/album/0CnyoumDAlz7cWYRzWccOa) | 4:54 | 2022-04-07 |  |
+| [اشكر جمالك](https://open.spotify.com/track/2gFZxR3Fur5t6fUzKgo7Y9) | [Abdullah Al Mukhles](https://open.spotify.com/artist/6SdRVw4NGUDFrTbWHXaUbH) | [اشكر جمالك](https://open.spotify.com/album/0CnyoumDAlz7cWYRzWccOa) | 4:54 | 2022-04-07 | 2022-09-19 |
+| [اشكر جمالك](https://open.spotify.com/track/6u2oO1mKCDQb7NMyudbe1q) | [Abdullah Al Mukhles](https://open.spotify.com/artist/6SdRVw4NGUDFrTbWHXaUbH) | [اشكر جمالك](https://open.spotify.com/album/7rUlN3gk2ha2ZusWAp0DHQ) | 4:54 | 2022-09-07 |  |
 | [اقسم برب الحب](https://open.spotify.com/track/16n29Queh9WamvEdPAzU30) | [Faisal Abdulkareem](https://open.spotify.com/artist/5jFvzkcrrV8TqpRo2sMRuK) | [اقسم برب الحب \- Single](https://open.spotify.com/album/0ndiTiEwgNBodLi9FUxCE8) | 3:48 | 2022-04-07 |  |
 | [بتروح عادي](https://open.spotify.com/track/2GxR28DVvyvL5VX6H45Wa0) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [بتروح عادي](https://open.spotify.com/album/4CFE56Ty8V8uTMwaEDQki7) | 3:16 | 2022-04-07 | 2022-06-09 |
 | [براڤو عليك](https://open.spotify.com/track/4QtFRUFS7BVi3OHUfmt2dP) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of), [Abdulaziz Louis](https://open.spotify.com/artist/45fXWSpX6WGHhSQVbkktUk), [Bader AlShuaibi](https://open.spotify.com/artist/2R1yoDsSddlxGn9DmAtJTj), [Haneen Alkandari](https://open.spotify.com/artist/2Ta2wwXNha3yoxUuOQVMOF) | [براڤو عليك](https://open.spotify.com/album/4i1xPjQurMytzpR1mW3zIw) | 2:58 | 2022-04-07 |  |
 | [خيبه](https://open.spotify.com/track/1p0iqpf9p7B4Kav2dOdGx2) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [خيبه](https://open.spotify.com/album/6fY7G8NKVxX6HdLsKLhwYj) | 4:35 | 2022-09-07 |  |
 | [خيبه](https://open.spotify.com/track/2z8CpXdUCwzoWVSmvaVDIY) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [خيبه](https://open.spotify.com/album/5YFJBKJuz9MK4leVa7PHsE) | 4:35 | 2022-04-07 | 2022-09-18 |
-| [ذكريات](https://open.spotify.com/track/5F00O9CiGm2ypY18sRafTF) | [بدر العزي](https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy) | [ذكريات](https://open.spotify.com/album/4oISxuxitXee2lekdanshZ) | 4:05 | 2022-04-07 |  |
+| [ذكريات](https://open.spotify.com/track/5F00O9CiGm2ypY18sRafTF) | [بدر العزي](https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy) | [ذكريات](https://open.spotify.com/album/4oISxuxitXee2lekdanshZ) | 4:05 | 2022-04-07 | 2022-09-19 |
+| [ذكريات](https://open.spotify.com/track/6xBWiIAEYlEfzxuO6tf41o) | [بدر العزي](https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy) | [ذكريات](https://open.spotify.com/album/1Q1lKJYY8SqWrlkkHS0FV3) | 4:05 | 2022-09-07 |  |
 | [روح براحتك](https://open.spotify.com/track/4MEeCc9QHr24rQ99dOd9AZ) | [شيمي](https://open.spotify.com/artist/6x8vq4QX1MQjqasHWpMWhw) | [روح براحتك](https://open.spotify.com/album/2hStDr8tYNyFkQiUT2F0fj) | 3:39 | 2022-07-08 |  |
 | [سكه مجهوله](https://open.spotify.com/track/5X5ubFhkET9omL8FDcpSku) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [سكه مجهوله](https://open.spotify.com/album/2abcKDPudbZ4WvwyVkgrvR) | 4:20 | 2022-06-08 | 2022-09-09 |
 | [كلمني](https://open.spotify.com/track/0F66LkXiihhVNKpWSqKgjy) | [بدر العزي](https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy) | [كلمني](https://open.spotify.com/album/1ZrVAcuOnbRQJZFahoALeo) | 3:26 | 2022-04-07 |  |

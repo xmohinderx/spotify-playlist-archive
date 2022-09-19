@@ -1,12 +1,12 @@
 {
   "description": "Extra vicious, hard-hitting pop.  This is SALT.  Cover: UPSAHL",
-  "num_followers": 298706,
+  "num_followers": 298827,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMGY5OGJiMjEzOTY2N2Y4YzcyNzZmZTg1M2QyY2IyMWM0",
+  "snapshot_id": "MTY2MzQ3NzA1NCwwMDAwMDAwMGY2MWMzYWExNTIyYmNhZGJkYzQ4YjQzMTg5YzBiNjE5",
   "tracks": [
     {
       "added_at": "2022-09-16 04:00:00",
@@ -71,6 +71,22 @@
       "duration_ms": 125720,
       "name": "madhouse",
       "url": "https://open.spotify.com/track/4b9oAM56ycOQXQCV1BbN2S"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Never Dated You",
+        "url": "https://open.spotify.com/album/1LrGdbVm4nYRbRX4mPZEcU"
+      },
+      "artists": [
+        {
+          "name": "Andi",
+          "url": "https://open.spotify.com/artist/7fEXIS5LgSLbCdzTePqe0V"
+        }
+      ],
+      "duration_ms": 121183,
+      "name": "Never Dated You",
+      "url": "https://open.spotify.com/track/2aXe6ng2bLrWDgS2ko7Rhv"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -235,22 +251,6 @@
       "duration_ms": 174146,
       "name": "Mouthwash",
       "url": "https://open.spotify.com/track/0qkX92NooHlyyucGb0yaF5"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Never Dated You",
-        "url": "https://open.spotify.com/album/1LrGdbVm4nYRbRX4mPZEcU"
-      },
-      "artists": [
-        {
-          "name": "Andi",
-          "url": "https://open.spotify.com/artist/7fEXIS5LgSLbCdzTePqe0V"
-        }
-      ],
-      "duration_ms": 121183,
-      "name": "Never Dated You",
-      "url": "https://open.spotify.com/track/2aXe6ng2bLrWDgS2ko7Rhv"
     },
     {
       "added_at": "2022-09-09 04:00:00",

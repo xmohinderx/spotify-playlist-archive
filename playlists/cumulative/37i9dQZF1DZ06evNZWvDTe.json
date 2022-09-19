@@ -151,7 +151,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 291111,
       "name": "Anything",
       "url": "https://open.spotify.com/track/6xuBRuNBKQR3LnBjUS7ZIn"
@@ -485,7 +485,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-15",
+      "date_removed": null,
       "duration_ms": 185196,
       "name": "Coachella",
       "url": "https://open.spotify.com/track/7x4yCout42C0B7GDBN2VNR"
@@ -613,7 +613,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 203773,
       "name": "Do You (feat. Mr Eazi)",
       "url": "https://open.spotify.com/track/26F2A18Auc3BJZxK2F0dLs"
@@ -683,7 +683,7 @@
       ],
       "date_added": "2022-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 213261,
       "name": "Dw3",
       "url": "https://open.spotify.com/track/4ISf9ZEUJyhcTBC4C8NP6l"
@@ -763,7 +763,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 186884,
       "name": "Fa Hooki Me",
       "url": "https://open.spotify.com/track/5E79kYZQN4Ea2HTJ4fLsQv"
@@ -969,7 +969,7 @@
       ],
       "date_added": "2022-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 218978,
       "name": "Greatness",
       "url": "https://open.spotify.com/track/2ZD3mHmyjphne8L61uNZfk"
@@ -995,7 +995,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 242860,
       "name": "Grind Day (Remix) [feat. Sarkodie & Medikal]",
       "url": "https://open.spotify.com/track/1fzWiGhmYO15nxapbpKHbm"
@@ -1065,10 +1065,32 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-17",
+      "date_removed": null,
       "duration_ms": 241046,
       "name": "Hello (feat. KiDi)",
       "url": "https://open.spotify.com/track/51UajxghdmBlcW1WGU1lXa"
+    },
+    {
+      "album": {
+        "name": "Highest",
+        "url": "https://open.spotify.com/album/7JpG1FNBJsXsmhrmCGV1Au"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Suli Breaks",
+          "url": "https://open.spotify.com/artist/5XnwG6JFrOMlVGOZfy54ck"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 35273,
+      "name": "Highest, Pt. 1 - Interlude",
+      "url": "https://open.spotify.com/track/4crdW05OWhinvkKKe0jz8o"
     },
     {
       "album": {
@@ -1087,7 +1109,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 183477,
       "name": "Homicide",
       "url": "https://open.spotify.com/track/7apx56XH17e6lBtG2bJ7Mt"
@@ -1131,7 +1153,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 316421,
       "name": "Hope (Brighter Day)",
       "url": "https://open.spotify.com/track/7E0KDOByWpvZBX83SJua0e"
@@ -1391,7 +1413,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 267660,
       "name": "Lucky (feat. Rudeboy)",
       "url": "https://open.spotify.com/track/6GT0hsZ50fyAHHdknAd314"
@@ -1515,7 +1537,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-17",
+      "date_removed": null,
       "duration_ms": 178107,
       "name": "No Fugazy",
       "url": "https://open.spotify.com/track/5CtmMSLSf9Y6JCc9RJLxSa"
@@ -1669,7 +1691,7 @@
       ],
       "date_added": "2022-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-10",
+      "date_removed": null,
       "duration_ms": 207150,
       "name": "Odo Bi",
       "url": "https://open.spotify.com/track/6usx8a6PVggafBOtKGUTyQ"
@@ -1779,7 +1801,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-10",
+      "date_removed": null,
       "duration_ms": 247462,
       "name": "Original",
       "url": "https://open.spotify.com/track/3RI4zqzeqTBAXFe2q2HPe5"
@@ -1929,7 +1951,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-16",
+      "date_removed": null,
       "duration_ms": 248713,
       "name": "Saa Okodie No (feat. Obrafour)",
       "url": "https://open.spotify.com/track/7rOLszCsFdgsyDhIJUtf8O"
@@ -2259,7 +2281,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-16",
+      "date_removed": null,
       "duration_ms": 268945,
       "name": "Where Did I Go Wrong (feat. Efya)",
       "url": "https://open.spotify.com/track/7odv9xmbrBNXzyavIHw5uV"
@@ -2281,7 +2303,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-10",
+      "date_removed": null,
       "duration_ms": 200973,
       "name": "Which One (feat. Kizz Daniel)",
       "url": "https://open.spotify.com/track/6xv8qSkPrksoO40Jz4p45Z"
@@ -2303,7 +2325,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 206857,
       "name": "Whipped (feat. DarkoVibes)",
       "url": "https://open.spotify.com/track/7DgHNchZQxCFOM34f2UsiF"
@@ -2347,7 +2369,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-17",
+      "date_removed": null,
       "duration_ms": 238000,
       "name": "Year of Return",
       "url": "https://open.spotify.com/track/2ovx9TSB1J3pEaWRUDnBed"

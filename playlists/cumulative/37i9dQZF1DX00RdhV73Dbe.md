@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3MkIU5jhXTMK9pYQTRVI6p">DJ BORING</a>'s favorite tracks\. Updated regularly\. Curated by DJ BORING\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-70 songs - 6 hr 6 min - not published yet
+70 songs - 6 hr 6 min - [published](https://open.spotify.com/playlist/4LUAUdOKbwrwzojI0QmfBY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

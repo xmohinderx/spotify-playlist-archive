@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-09-17",
   "description": "This is Luca Brasi. The essential tracks, all in one playlist.",
   "name": "This Is Luca Brasi",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "0OZe0uAP6M7UuJTxopMkud"
+  ],
   "tracks": [
     {
       "album": {
@@ -204,6 +206,24 @@
     },
     {
       "album": {
+        "name": "Extended Family",
+        "url": "https://open.spotify.com/album/7966wZO0fRIORtU55s7PVd"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181533,
+      "name": "Devil's in the Detail",
+      "url": "https://open.spotify.com/track/3pDS9rIhjPlHNED5OBh8Wh"
+    },
+    {
+      "album": {
         "name": "If This Is All We're Going to Be",
         "url": "https://open.spotify.com/album/4kQLPycBD0uZWdE9mzhVLa"
       },
@@ -215,7 +235,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 131542,
       "name": "Drop Out",
       "url": "https://open.spotify.com/track/3aQp02Mlrct9pbVWc2POTo"
@@ -420,6 +440,24 @@
     },
     {
       "album": {
+        "name": "If This Is All We're Going to Be",
+        "url": "https://open.spotify.com/album/4kQLPycBD0uZWdE9mzhVLa"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180888,
+      "name": "Overwhelmed / Ill Prepared",
+      "url": "https://open.spotify.com/track/6haquBBkW3zJhqRpEKeNPC"
+    },
+    {
+      "album": {
         "name": "Tassie",
         "url": "https://open.spotify.com/album/18NtphyUEcBYeorDyGHwXv"
       },
@@ -507,7 +545,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 161706,
       "name": "Some Cutting Sick",
       "url": "https://open.spotify.com/track/5NFtAVr1pSNC3vkmvQ2cA3"

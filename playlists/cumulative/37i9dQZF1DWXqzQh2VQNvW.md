@@ -4,7 +4,7 @@
 
 > The latest and greatest music out now!
 
-165 songs - 8 hr 28 min - [published](https://open.spotify.com/playlist/52T0XSksRpY416TzA7vg99)
+166 songs - 8 hr 31 min - [published](https://open.spotify.com/playlist/52T0XSksRpY416TzA7vg99)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Fingers Crossed](https://open.spotify.com/track/3yMC1KsTwh0ceXdIe4QQAQ) | [Lauren Spencer\-Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Fingers Crossed](https://open.spotify.com/album/7i5dqey54xo8F2flVer0yY) | 2:55 | 2022-02-25 | 2022-07-09 |
 | [Fotiá](https://open.spotify.com/track/2lvpx8iTGmC7MD9GaJ0ga0) | [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK) | [Fotiá](https://open.spotify.com/album/4iZ4ThnqPWQoCgE3djEoER) | 2:54 | 2022-01-25 | 2022-08-13 |
 | [Fuck Up the Friendship](https://open.spotify.com/track/1ddKUwm3UuvcMWLLAgOIcX) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Fuck Up the Friendship](https://open.spotify.com/album/6OYKLdkagNi7b1cANWVAMg) | 2:52 | 2022-01-25 |  |
-| [Girlfriends](https://open.spotify.com/track/0gq2ZnHkaO16VIW3LLBJIN) | [Boys World](https://open.spotify.com/artist/0YgZTREOQz8oOGVABXEoXi) | [Girlfriends](https://open.spotify.com/album/3qOnAxbk9v0N20ouQjw2tL) | 2:21 | 2022-01-25 |  |
+| [Girlfriends](https://open.spotify.com/track/0gq2ZnHkaO16VIW3LLBJIN) | [Boys World](https://open.spotify.com/artist/0YgZTREOQz8oOGVABXEoXi) | [Girlfriends](https://open.spotify.com/album/3qOnAxbk9v0N20ouQjw2tL) | 2:21 | 2022-01-25 | 2022-09-19 |
 | [go](https://open.spotify.com/track/4VtRHZ4tBDHaWltVAytlLY) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [go](https://open.spotify.com/album/7KfrkeW0bJx9w3Wak4PGX2) | 3:35 | 2022-03-18 |  |
 | [Golden Boy](https://open.spotify.com/track/2zwWr0ZHZwY2h26oQ22Lvn) | [Elise Eriksen](https://open.spotify.com/artist/4Z4AA4VE6yS9vOZdEXabS8) | [Golden Boy](https://open.spotify.com/album/2x4AED7NejAGgGQJYF7g1C) | 2:44 | 2022-01-25 |  |
 | [golden hour](https://open.spotify.com/track/6GD1eomgaGT1Epto6Q5eAo) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [golden hour](https://open.spotify.com/album/0NoJBJgQc3fM2gesNXp7dS) | 3:29 | 2022-09-05 |  |
@@ -118,6 +118,7 @@
 | [Northern Towns](https://open.spotify.com/track/6mDhfhAYl4FdNZIhQNq5yf) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Northern Towns](https://open.spotify.com/album/6cFbP9PdYmUSyCU8ezsIUK) | 2:56 | 2022-07-25 |  |
 | [Numb Little Bug](https://open.spotify.com/track/3o9kpgkIcffx0iSwxhuNI2) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Numb Little Bug](https://open.spotify.com/album/20zaiRxxUfDqdCKsdSo7HM) | 2:49 | 2022-02-25 |  |
 | [Number One](https://open.spotify.com/track/644E5d35TEHlr7UeYSdFBe) | [JiLL MARiE COOPER](https://open.spotify.com/artist/6zmm05oJvdK6XZBYYy07kF) | [Number One](https://open.spotify.com/album/64YHT8TnZULAh0mlpA08GY) | 4:01 | 2022-01-25 | 2022-03-18 |
+| [On The Weekend](https://open.spotify.com/track/0F9IVBckC6BjxmkSy8Jts9) | [Mills](https://open.spotify.com/artist/7MceGzCJ3bPNyErb440Izo) | [On The Weekend](https://open.spotify.com/album/1rm0uC0uo87fuQuCfEgffH) | 2:52 | 2022-09-19 |  |
 | [outside](https://open.spotify.com/track/0653Mr19pKTqIehqHP9KKh) | [Garrett Nash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [outside/inside](https://open.spotify.com/album/70YpZJ4yn8c3SF74SiOvxF) | 2:39 | 2022-01-25 | 2022-03-18 |
 | [Passive Aggressive](https://open.spotify.com/track/167HWbEImETmEG2oiNTwWj) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Passive Aggressive](https://open.spotify.com/album/0cn84wdzrRfoheO2AD1p1j) | 3:08 | 2022-01-25 | 2022-07-23 |
 | [Piece Of Me \(with LOVA\)](https://open.spotify.com/track/5mlNLzIdl6Ae2a4YRphSI4) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Piece Of Me \(with LOVA\)](https://open.spotify.com/album/3L5V3sfPdsd1SoSWzcW5Xb) | 3:22 | 2022-01-25 |  |

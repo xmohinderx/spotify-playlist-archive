@@ -1,12 +1,12 @@
 {
   "description": "Tu lista favorita de Bachata \u2764\ufe0f Cover: Becky G & Daviles de Novelda",
-  "num_followers": 1847477,
+  "num_followers": 1847671,
   "original_name": "Bachata Lovers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMDljNDE0M2UzYmY1YTZjNmVhMGNiMjc2OTZiM2Y2MDgy",
+  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMDhjZGY2ZmRiNzNhMGRiY2NkNDlkMmYyODNlMzYxMTk4",
   "tracks": [
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Quien Te Ve Te Compra",
-        "url": "https://open.spotify.com/album/1bgWOyocNxCspoePxCQ8HH"
-      },
-      "artists": [
-        {
-          "name": "Ronny Dae",
-          "url": "https://open.spotify.com/artist/17HJR2gstJGAQPmpi1svId"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "Quien Te Ve Te Compra",
-      "url": "https://open.spotify.com/track/1SJDqNDJiDGqfcxoD4jCjZ"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Bachata De Amor Vol. 1",
         "url": "https://open.spotify.com/album/4tA0IDegh1uKvvCxRhiw5v"
       },
@@ -1699,18 +1683,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Basta Ya",
-        "url": "https://open.spotify.com/album/2qppsInoGGeryeIZtv5pGu"
+        "name": "Quien Te Ve Te Compra",
+        "url": "https://open.spotify.com/album/1bgWOyocNxCspoePxCQ8HH"
       },
       "artists": [
         {
-          "name": "Bori",
-          "url": "https://open.spotify.com/artist/2Oe9eh730bCc6KpqVo4ugt"
+          "name": "Ronny Dae",
+          "url": "https://open.spotify.com/artist/17HJR2gstJGAQPmpi1svId"
         }
       ],
-      "duration_ms": 185678,
-      "name": "Basta Ya",
-      "url": "https://open.spotify.com/track/1fZTUzfem9MbLOHhEDZ3j8"
+      "duration_ms": 231000,
+      "name": "Quien Te Ve Te Compra",
+      "url": "https://open.spotify.com/track/1SJDqNDJiDGqfcxoD4jCjZ"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1727,6 +1711,22 @@
       "duration_ms": 240080,
       "name": "Hablamos En La Cama",
       "url": "https://open.spotify.com/track/6XsjNIGOFhgcyHDDAxieUi"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Basta Ya",
+        "url": "https://open.spotify.com/album/2qppsInoGGeryeIZtv5pGu"
+      },
+      "artists": [
+        {
+          "name": "Bori",
+          "url": "https://open.spotify.com/artist/2Oe9eh730bCc6KpqVo4ugt"
+        }
+      ],
+      "duration_ms": 185678,
+      "name": "Basta Ya",
+      "url": "https://open.spotify.com/track/1fZTUzfem9MbLOHhEDZ3j8"
     }
   ],
   "unique_name": "Bachata Lovers",

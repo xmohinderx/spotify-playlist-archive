@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-09-17",
   "description": "This is Pennywise. The essential tracks, all in one playlist.",
   "name": "This Is Pennywise",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "5I8lMzZlu1thlmQ5BkIl8S"
+  ],
   "tracks": [
     {
       "album": {
@@ -233,7 +235,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 186960,
       "name": "God Save the USA",
       "url": "https://open.spotify.com/track/2PiMdxlSvrZMskW7fkHeRr"
@@ -849,6 +851,24 @@
       "duration_ms": 138480,
       "name": "Waste of Time - 2005 Remaster",
       "url": "https://open.spotify.com/track/7p1O4s2ROAJ8KMfbLLKE4S"
+    },
+    {
+      "album": {
+        "name": "Never Gonna Die",
+        "url": "https://open.spotify.com/album/2FFUV5Qe5UzMQhKwoKk8nF"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182266,
+      "name": "Won't Give Up The Fight",
+      "url": "https://open.spotify.com/track/60O4BYfrtOOcq9rywcEyi3"
     },
     {
       "album": {

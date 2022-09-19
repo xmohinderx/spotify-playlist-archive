@@ -1,12 +1,12 @@
 {
   "description": "Let the music flow through you...",
-  "num_followers": 28361,
+  "num_followers": 28394,
   "original_name": "Soulful",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY1MjU2NiwwMDAwMDAwMDJkZTZhY2ZlMzkyMjJhYmU5OTE2MjE0ZTIzMGZhM2Rl",
+  "snapshot_id": "MTY2MjY1MjU2NiwwMDAwMDAwMDIxYjIyYzhjMjg5ZDFhNDJlNjkwNWFhZTc3NDg0NjFm",
   "tracks": [
     {
       "added_at": "2022-09-08 15:56:06",
@@ -271,22 +271,6 @@
     {
       "added_at": "2022-09-08 15:56:06",
       "album": {
-        "name": "Y3",
-        "url": "https://open.spotify.com/album/684We4tIOzKAyNFV5MtWNj"
-      },
-      "artists": [
-        {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
-        }
-      ],
-      "duration_ms": 218048,
-      "name": "Risk It All",
-      "url": "https://open.spotify.com/track/1nNBUK7ktg9n96YR4NNktg"
-    },
-    {
-      "added_at": "2022-09-08 15:56:06",
-      "album": {
         "name": "The Switch",
         "url": "https://open.spotify.com/album/04VtAp2SJPVsutli1F3KjY"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 231448,
       "name": "Distance",
       "url": "https://open.spotify.com/track/1IlBPaXuM7Fl6tiH9CPQlQ"
+    },
+    {
+      "added_at": "2022-09-08 15:56:06",
+      "album": {
+        "name": "Y3",
+        "url": "https://open.spotify.com/album/684We4tIOzKAyNFV5MtWNj"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "duration_ms": 218048,
+      "name": "Risk It All",
+      "url": "https://open.spotify.com/track/1nNBUK7ktg9n96YR4NNktg"
     },
     {
       "added_at": "2022-09-08 15:56:06",
@@ -427,6 +427,22 @@
     {
       "added_at": "2022-09-08 15:56:06",
       "album": {
+        "name": "Express",
+        "url": "https://open.spotify.com/album/33Iy4OnV5ZEqTKQG2Xbplo"
+      },
+      "artists": [
+        {
+          "name": "Reiki Ruawai",
+          "url": "https://open.spotify.com/artist/0ZdwAoh3jV19yuDwht8ig3"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Express",
+      "url": "https://open.spotify.com/track/4HzmXpT5If3OD9cvEwXZUX"
+    },
+    {
+      "added_at": "2022-09-08 15:56:06",
+      "album": {
         "name": "Something To Feel",
         "url": "https://open.spotify.com/album/4vB6GN9VFxZU1mtBYlc3Ph"
       },
@@ -439,6 +455,38 @@
       "duration_ms": 309786,
       "name": "First Time",
       "url": "https://open.spotify.com/track/69WrRBXGKP70NqXNOf8NIw"
+    },
+    {
+      "added_at": "2022-09-08 15:56:06",
+      "album": {
+        "name": "I Won't Let You Down",
+        "url": "https://open.spotify.com/album/0MTBD4WKIES8BkS8rfSKnp"
+      },
+      "artists": [
+        {
+          "name": "Curtis Harding",
+          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
+        }
+      ],
+      "duration_ms": 244200,
+      "name": "I Won't Let You Down",
+      "url": "https://open.spotify.com/track/32L9L0Hg4skEWlog49n1a3"
+    },
+    {
+      "added_at": "2022-09-08 15:56:06",
+      "album": {
+        "name": "Thinking Too Much",
+        "url": "https://open.spotify.com/album/5gQlfc5Uk8txY9bAH0TIaQ"
+      },
+      "artists": [
+        {
+          "name": "TOI",
+          "url": "https://open.spotify.com/artist/6AdX4TgEt0fYWoRqvHi81A"
+        }
+      ],
+      "duration_ms": 208405,
+      "name": "Thinking Too Much",
+      "url": "https://open.spotify.com/track/7ES4KuLdHnkBRFqWsQua8r"
     },
     {
       "added_at": "2022-09-08 15:56:06",
@@ -463,38 +511,6 @@
     {
       "added_at": "2022-09-08 15:56:06",
       "album": {
-        "name": "Express",
-        "url": "https://open.spotify.com/album/33Iy4OnV5ZEqTKQG2Xbplo"
-      },
-      "artists": [
-        {
-          "name": "Reiki Ruawai",
-          "url": "https://open.spotify.com/artist/0ZdwAoh3jV19yuDwht8ig3"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Express",
-      "url": "https://open.spotify.com/track/4HzmXpT5If3OD9cvEwXZUX"
-    },
-    {
-      "added_at": "2022-09-08 15:56:06",
-      "album": {
-        "name": "I Won't Let You Down",
-        "url": "https://open.spotify.com/album/0MTBD4WKIES8BkS8rfSKnp"
-      },
-      "artists": [
-        {
-          "name": "Curtis Harding",
-          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
-        }
-      ],
-      "duration_ms": 244200,
-      "name": "I Won't Let You Down",
-      "url": "https://open.spotify.com/track/32L9L0Hg4skEWlog49n1a3"
-    },
-    {
-      "added_at": "2022-09-08 15:56:06",
-      "album": {
         "name": "Spider",
         "url": "https://open.spotify.com/album/6BLGrbjxYgMxugvnOJLfxx"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 174614,
       "name": "Spider",
       "url": "https://open.spotify.com/track/2yfozOE8IyeOz8NLqmU0OT"
-    },
-    {
-      "added_at": "2022-09-08 15:56:06",
-      "album": {
-        "name": "Thinking Too Much",
-        "url": "https://open.spotify.com/album/5gQlfc5Uk8txY9bAH0TIaQ"
-      },
-      "artists": [
-        {
-          "name": "TOI",
-          "url": "https://open.spotify.com/artist/6AdX4TgEt0fYWoRqvHi81A"
-        }
-      ],
-      "duration_ms": 208405,
-      "name": "Thinking Too Much",
-      "url": "https://open.spotify.com/track/7ES4KuLdHnkBRFqWsQua8r"
     },
     {
       "added_at": "2022-09-08 15:56:06",
@@ -543,18 +543,34 @@
     {
       "added_at": "2022-09-08 15:56:06",
       "album": {
-        "name": "L.A.B IV",
-        "url": "https://open.spotify.com/album/6PPhLgXiq4nEiZ8x2ZB3xV"
+        "name": "Like Neptune",
+        "url": "https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB"
       },
       "artists": [
         {
-          "name": "L.A.B.",
-          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
         }
       ],
-      "duration_ms": 220440,
-      "name": "Natural",
-      "url": "https://open.spotify.com/track/3uMewMD8hz7pCWnpgC10ay"
+      "duration_ms": 233853,
+      "name": "bend yr ear",
+      "url": "https://open.spotify.com/track/3mslSmibP6M7u9RQEOZ2Zh"
+    },
+    {
+      "added_at": "2022-09-08 15:56:06",
+      "album": {
+        "name": "Unconditionally",
+        "url": "https://open.spotify.com/album/0jv3He98jgN7Joy9qiTm17"
+      },
+      "artists": [
+        {
+          "name": "JKING",
+          "url": "https://open.spotify.com/artist/305wwkdz2V7qZtTIvwPfMp"
+        }
+      ],
+      "duration_ms": 152673,
+      "name": "Unconditionally",
+      "url": "https://open.spotify.com/track/4QZGeNO9Mo7NewVb1QAcOE"
     },
     {
       "added_at": "2022-09-08 15:56:06",
@@ -579,6 +595,22 @@
     {
       "added_at": "2022-09-08 15:56:06",
       "album": {
+        "name": "L.A.B IV",
+        "url": "https://open.spotify.com/album/6PPhLgXiq4nEiZ8x2ZB3xV"
+      },
+      "artists": [
+        {
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+        }
+      ],
+      "duration_ms": 220440,
+      "name": "Natural",
+      "url": "https://open.spotify.com/track/3uMewMD8hz7pCWnpgC10ay"
+    },
+    {
+      "added_at": "2022-09-08 15:56:06",
+      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/3WWfApLKg76DOgntZABET6"
       },
@@ -591,22 +623,6 @@
       "duration_ms": 203214,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/0zcRUprLKw7LtndkBurb3S"
-    },
-    {
-      "added_at": "2022-09-08 15:56:06",
-      "album": {
-        "name": "Unconditionally",
-        "url": "https://open.spotify.com/album/0jv3He98jgN7Joy9qiTm17"
-      },
-      "artists": [
-        {
-          "name": "JKING",
-          "url": "https://open.spotify.com/artist/305wwkdz2V7qZtTIvwPfMp"
-        }
-      ],
-      "duration_ms": 152673,
-      "name": "Unconditionally",
-      "url": "https://open.spotify.com/track/4QZGeNO9Mo7NewVb1QAcOE"
     },
     {
       "added_at": "2022-09-08 15:56:06",
@@ -627,18 +643,18 @@
     {
       "added_at": "2022-09-08 15:56:06",
       "album": {
-        "name": "Like Neptune",
-        "url": "https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB"
+        "name": "Heal",
+        "url": "https://open.spotify.com/album/3vnXX5XQdwyGS79vZKIKfh"
       },
       "artists": [
         {
-          "name": "Son Little",
-          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+          "name": "Pip Millett",
+          "url": "https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR"
         }
       ],
-      "duration_ms": 233853,
-      "name": "bend yr ear",
-      "url": "https://open.spotify.com/track/3mslSmibP6M7u9RQEOZ2Zh"
+      "duration_ms": 256853,
+      "name": "Heal",
+      "url": "https://open.spotify.com/track/4UndAnl9tL4hHiYOuufIJk"
     },
     {
       "added_at": "2022-09-08 15:56:06",
@@ -675,22 +691,6 @@
       "duration_ms": 184557,
       "name": "No Flowers",
       "url": "https://open.spotify.com/track/5NOViHpW9RmHc2HQKxewyb"
-    },
-    {
-      "added_at": "2022-09-08 15:56:06",
-      "album": {
-        "name": "Heal",
-        "url": "https://open.spotify.com/album/3vnXX5XQdwyGS79vZKIKfh"
-      },
-      "artists": [
-        {
-          "name": "Pip Millett",
-          "url": "https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR"
-        }
-      ],
-      "duration_ms": 256853,
-      "name": "Heal",
-      "url": "https://open.spotify.com/track/4UndAnl9tL4hHiYOuufIJk"
     },
     {
       "added_at": "2022-09-08 15:56:06",
@@ -743,22 +743,6 @@
     {
       "added_at": "2022-09-08 15:56:06",
       "album": {
-        "name": "Better Things",
-        "url": "https://open.spotify.com/album/10WziHwO8dTEYnMGsWXQ2C"
-      },
-      "artists": [
-        {
-          "name": "Kee'ahn",
-          "url": "https://open.spotify.com/artist/6kpchs42F1L1TwlfLT1XoL"
-        }
-      ],
-      "duration_ms": 222203,
-      "name": "Better Things",
-      "url": "https://open.spotify.com/track/4S0TVBmZlqQWjoaFthRlbE"
-    },
-    {
-      "added_at": "2022-09-08 15:56:06",
-      "album": {
         "name": "If Words Were Flowers",
         "url": "https://open.spotify.com/album/0msliOKoJh1aYmcpuEoBn2"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 286253,
       "name": "Explore",
       "url": "https://open.spotify.com/track/15fow3n2T8cgsPH9FBItjL"
+    },
+    {
+      "added_at": "2022-09-08 15:56:06",
+      "album": {
+        "name": "Better Things",
+        "url": "https://open.spotify.com/album/10WziHwO8dTEYnMGsWXQ2C"
+      },
+      "artists": [
+        {
+          "name": "Kee'ahn",
+          "url": "https://open.spotify.com/artist/6kpchs42F1L1TwlfLT1XoL"
+        }
+      ],
+      "duration_ms": 222203,
+      "name": "Better Things",
+      "url": "https://open.spotify.com/track/4S0TVBmZlqQWjoaFthRlbE"
     },
     {
       "added_at": "2022-09-08 15:56:06",
@@ -819,22 +819,6 @@
       "duration_ms": 233760,
       "name": "High Off You",
       "url": "https://open.spotify.com/track/0Tac3CLKtrgDgoNipYyZaw"
-    },
-    {
-      "added_at": "2022-09-08 15:56:06",
-      "album": {
-        "name": "6 AM",
-        "url": "https://open.spotify.com/album/6f0QgMv0n3IBDpcYW0QPQL"
-      },
-      "artists": [
-        {
-          "name": "Son Little",
-          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
-        }
-      ],
-      "duration_ms": 230826,
-      "name": "6 AM",
-      "url": "https://open.spotify.com/track/3UJbJOsLhyuGXOOofKr52i"
     },
     {
       "added_at": "2022-09-08 15:56:06",
@@ -939,22 +923,6 @@
     {
       "added_at": "2022-09-08 15:56:06",
       "album": {
-        "name": "inside out",
-        "url": "https://open.spotify.com/album/730aSFDkLkLlERvkLwh0Lf"
-      },
-      "artists": [
-        {
-          "name": "Son Little",
-          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
-        }
-      ],
-      "duration_ms": 268013,
-      "name": "inside out",
-      "url": "https://open.spotify.com/track/29pDQrHT1VSdxBKL9BKBXS"
-    },
-    {
-      "added_at": "2022-09-08 15:56:06",
-      "album": {
         "name": "Damaged",
         "url": "https://open.spotify.com/album/3sxDMHKPPqjQRpCOUNDw2z"
       },
@@ -967,26 +935,6 @@
       "duration_ms": 196536,
       "name": "Damaged",
       "url": "https://open.spotify.com/track/1Q15fOVSvuMbvgUddeMNVj"
-    },
-    {
-      "added_at": "2022-09-08 15:56:06",
-      "album": {
-        "name": "Please Don't Go",
-        "url": "https://open.spotify.com/album/3hqERMu6KirdARs43Kr6JT"
-      },
-      "artists": [
-        {
-          "name": "Liliana",
-          "url": "https://open.spotify.com/artist/1iRSAN1d2YuiQaOHvLMhwF"
-        },
-        {
-          "name": "Cam Noble",
-          "url": "https://open.spotify.com/artist/0K2qWy2QmgaBlExB67u6oV"
-        }
-      ],
-      "duration_ms": 128666,
-      "name": "Please Don't Go",
-      "url": "https://open.spotify.com/track/7js5qnk3hGWb20H263sXWZ"
     },
     {
       "added_at": "2022-09-08 15:56:06",
@@ -1019,6 +967,26 @@
       "duration_ms": 219000,
       "name": "Everything",
       "url": "https://open.spotify.com/track/4wzFCTofXlFzC83qV84yP9"
+    },
+    {
+      "added_at": "2022-09-08 15:56:06",
+      "album": {
+        "name": "Please Don't Go",
+        "url": "https://open.spotify.com/album/3hqERMu6KirdARs43Kr6JT"
+      },
+      "artists": [
+        {
+          "name": "Liliana",
+          "url": "https://open.spotify.com/artist/1iRSAN1d2YuiQaOHvLMhwF"
+        },
+        {
+          "name": "Cam Noble",
+          "url": "https://open.spotify.com/artist/0K2qWy2QmgaBlExB67u6oV"
+        }
+      ],
+      "duration_ms": 128666,
+      "name": "Please Don't Go",
+      "url": "https://open.spotify.com/track/7js5qnk3hGWb20H263sXWZ"
     },
     {
       "added_at": "2022-09-08 15:56:06",
@@ -1059,18 +1027,18 @@
     {
       "added_at": "2022-09-08 15:56:06",
       "album": {
-        "name": "deeper / stoned love",
-        "url": "https://open.spotify.com/album/4AHLaggnEuQA4rbv5xG3hG"
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/0UoHPF3kjLWKwSHkfmvlIq"
       },
       "artists": [
         {
-          "name": "Son Little",
-          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+          "name": "Muroki",
+          "url": "https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT"
         }
       ],
-      "duration_ms": 279453,
-      "name": "deeper",
-      "url": "https://open.spotify.com/track/6sh4ZklLayp1PRAGPq1G2H"
+      "duration_ms": 231063,
+      "name": "Open Up",
+      "url": "https://open.spotify.com/track/4UDVrGYUdqaJ8o3yL1snpV"
     },
     {
       "added_at": "2022-09-08 15:56:06",
@@ -1091,22 +1059,6 @@
     {
       "added_at": "2022-09-08 15:56:06",
       "album": {
-        "name": "Dawn",
-        "url": "https://open.spotify.com/album/0UoHPF3kjLWKwSHkfmvlIq"
-      },
-      "artists": [
-        {
-          "name": "Muroki",
-          "url": "https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT"
-        }
-      ],
-      "duration_ms": 231063,
-      "name": "Open Up",
-      "url": "https://open.spotify.com/track/4UDVrGYUdqaJ8o3yL1snpV"
-    },
-    {
-      "added_at": "2022-09-08 15:56:06",
-      "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/5YQ0n6vBeXrc5vbnls88ha"
       },
@@ -1119,6 +1071,38 @@
       "duration_ms": 203700,
       "name": "Changes",
       "url": "https://open.spotify.com/track/0O3YBAj2Ly1LDA2Q0QtjTQ"
+    },
+    {
+      "added_at": "2022-09-08 15:56:06",
+      "album": {
+        "name": "Like Neptune",
+        "url": "https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB"
+      },
+      "artists": [
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        }
+      ],
+      "duration_ms": 268013,
+      "name": "inside out",
+      "url": "https://open.spotify.com/track/6Jk5XZB83vccvK6svvkjzA"
+    },
+    {
+      "added_at": "2022-09-08 15:56:06",
+      "album": {
+        "name": "Jasmine",
+        "url": "https://open.spotify.com/album/6hvqJBXUe6Zgd8yfL6zI3r"
+      },
+      "artists": [
+        {
+          "name": "MOHI",
+          "url": "https://open.spotify.com/artist/7Js2UhLghB9qaiZRfK275R"
+        }
+      ],
+      "duration_ms": 209558,
+      "name": "Jasmine",
+      "url": "https://open.spotify.com/track/25AouMLMx284p5h06BcYBH"
     },
     {
       "added_at": "2022-09-08 15:56:06",
@@ -1143,22 +1127,6 @@
     {
       "added_at": "2022-09-08 15:56:06",
       "album": {
-        "name": "Jasmine",
-        "url": "https://open.spotify.com/album/6hvqJBXUe6Zgd8yfL6zI3r"
-      },
-      "artists": [
-        {
-          "name": "MOHI",
-          "url": "https://open.spotify.com/artist/7Js2UhLghB9qaiZRfK275R"
-        }
-      ],
-      "duration_ms": 209558,
-      "name": "Jasmine",
-      "url": "https://open.spotify.com/track/25AouMLMx284p5h06BcYBH"
-    },
-    {
-      "added_at": "2022-09-08 15:56:06",
-      "album": {
         "name": "Just Fine",
         "url": "https://open.spotify.com/album/2KnEJL8yLVFBzS8ZneL1kC"
       },
@@ -1175,18 +1143,50 @@
     {
       "added_at": "2022-09-08 15:56:06",
       "album": {
-        "name": "Today I Miss You",
-        "url": "https://open.spotify.com/album/6uVKYrOVYus9zSS7yjcQRp"
+        "name": "Better With You",
+        "url": "https://open.spotify.com/album/6hNFfriiHoZFXIVx4UJ82v"
       },
       "artists": [
         {
-          "name": "Kartik Kuna",
-          "url": "https://open.spotify.com/artist/5kA8bovz1xGeNSZ2pjc2du"
+          "name": "Jackson Owens",
+          "url": "https://open.spotify.com/artist/33jhdrAHX9sSFzdKpYd2ke"
         }
       ],
-      "duration_ms": 228965,
-      "name": "Today I Miss You",
-      "url": "https://open.spotify.com/track/5qdMBYgZdicuxs6U18Co5g"
+      "duration_ms": 137046,
+      "name": "Better With You",
+      "url": "https://open.spotify.com/track/6eXNp3TwJsu67AEpWkU38O"
+    },
+    {
+      "added_at": "2022-09-08 15:56:06",
+      "album": {
+        "name": "Like Neptune",
+        "url": "https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB"
+      },
+      "artists": [
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        }
+      ],
+      "duration_ms": 230826,
+      "name": "6 AM",
+      "url": "https://open.spotify.com/track/5frJ2iO0fDjeAVHlg9Z62T"
+    },
+    {
+      "added_at": "2022-09-08 15:56:06",
+      "album": {
+        "name": "Serious",
+        "url": "https://open.spotify.com/album/7s94vzu0rE7y8VUdCxkLkf"
+      },
+      "artists": [
+        {
+          "name": "Nganeko",
+          "url": "https://open.spotify.com/artist/4oJPE0D0YhnBErqxc65hay"
+        }
+      ],
+      "duration_ms": 207427,
+      "name": "Serious",
+      "url": "https://open.spotify.com/track/4WHJkzPajfcS2SuJ2FaheS"
     }
   ],
   "unique_name": "Soulful",

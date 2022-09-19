@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-09-17",
   "description": "This is Dropkick Murphys. The essential tracks, all in one playlist.",
   "name": "This Is Dropkick Murphys",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "5FhKrFWrmwTUomoqDf2tgU"
+  ],
   "tracks": [
     {
       "album": {
@@ -222,6 +224,24 @@
     },
     {
       "album": {
+        "name": "Blackout",
+        "url": "https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264473,
+      "name": "Fields of Athenry",
+      "url": "https://open.spotify.com/track/1U5yl42o56X6M6I2MRLJBd"
+    },
+    {
+      "album": {
         "name": "Sing Loud, Sing Proud",
         "url": "https://open.spotify.com/album/6nSdfegzGY00ZxQbWheM1K"
       },
@@ -305,7 +325,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 200773,
       "name": "Good As Gold",
       "url": "https://open.spotify.com/track/29w2i0wJXNtrHoY3uLpXlB"
@@ -435,6 +455,24 @@
       "duration_ms": 158235,
       "name": "Mick Jones Nicked My Pudding",
       "url": "https://open.spotify.com/track/2AYYP2v43sgjA8ygBnGyxy"
+    },
+    {
+      "album": {
+        "name": "Turn Up That Dial (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7izrrrhMXbgAk5OEECRTu8"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155642,
+      "name": "Middle Finger",
+      "url": "https://open.spotify.com/track/4GPs3FuG2SMYa245EHzbKe"
     },
     {
       "album": {
@@ -611,7 +649,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 217866,
       "name": "The Dirty Glass",
       "url": "https://open.spotify.com/track/2jggiA0przPmYj0Z96W7Q0"

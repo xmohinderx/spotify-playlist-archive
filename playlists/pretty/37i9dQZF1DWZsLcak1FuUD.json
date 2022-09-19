@@ -1,12 +1,12 @@
 {
   "description": "Fue durante los '70 que el Rock se manifest\u00f3 como un gigante a nivel mundial. Argentina no fue la excepci\u00f3n.  Foto: <a href=\"spotify:artist:10vtHOCA3qPLmrGylgO2F1\">Manal</a>",
-  "num_followers": 28637,
+  "num_followers": 28651,
   "original_name": "Esp\u00edritu Setentista",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4MjczNDMyMiwwMDAwMDAwMDc5NDRmOTExOWQ5ODdiZDkzYzRjNTBhMzdjYmFjN2M4",
+  "snapshot_id": "MTU4MjczNDMyMiwwMDAwMDAwMDRhNjlhN2NlN2RmYTlhMTBlZDViM2E1NGM1Y2VmZGIz",
   "tracks": [
     {
       "added_at": "2020-02-26 16:25:22",
@@ -75,22 +75,6 @@
     {
       "added_at": "2020-02-26 16:25:22",
       "album": {
-        "name": "El Jardin de los Presentes",
-        "url": "https://open.spotify.com/album/0lbpA4dCZfaNhy6LZrGDvJ"
-      },
-      "artists": [
-        {
-          "name": "Invisible",
-          "url": "https://open.spotify.com/artist/3FjdJbt6Myq32uv7P4owM1"
-        }
-      ],
-      "duration_ms": 306626,
-      "name": "El Anillo del Capit\u00e1n Beto",
-      "url": "https://open.spotify.com/track/23jMDvKil4frbTA35BVzBY"
-    },
-    {
-      "added_at": "2020-02-26 16:25:22",
-      "album": {
         "name": "Los Gatos",
         "url": "https://open.spotify.com/album/0vTTjKizDeDsQJKzdT7s8G"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 176000,
       "name": "La Balsa",
       "url": "https://open.spotify.com/track/4J2xMy0kakU9sAin1uppxb"
+    },
+    {
+      "added_at": "2020-02-26 16:25:22",
+      "album": {
+        "name": "El Jardin de los Presentes",
+        "url": "https://open.spotify.com/album/0lbpA4dCZfaNhy6LZrGDvJ"
+      },
+      "artists": [
+        {
+          "name": "Invisible",
+          "url": "https://open.spotify.com/artist/3FjdJbt6Myq32uv7P4owM1"
+        }
+      ],
+      "duration_ms": 306626,
+      "name": "El Anillo del Capit\u00e1n Beto",
+      "url": "https://open.spotify.com/track/23jMDvKil4frbTA35BVzBY"
     },
     {
       "added_at": "2020-02-26 16:25:22",
@@ -187,6 +187,22 @@
     {
       "added_at": "2020-02-26 16:25:22",
       "album": {
+        "name": "Durazno Sangrando",
+        "url": "https://open.spotify.com/album/4Cf6WflKk1FEtffkm9h1U7"
+      },
+      "artists": [
+        {
+          "name": "Invisible",
+          "url": "https://open.spotify.com/artist/3FjdJbt6Myq32uv7P4owM1"
+        }
+      ],
+      "duration_ms": 219186,
+      "name": "Durazno Sangrando",
+      "url": "https://open.spotify.com/track/6pjbkrGImw09Nv5Ji3emkr"
+    },
+    {
+      "added_at": "2020-02-26 16:25:22",
+      "album": {
         "name": "Manal",
         "url": "https://open.spotify.com/album/1VoglV38RPcTn7P9yZxO4C"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 166400,
       "name": "Jugo de Tomate",
       "url": "https://open.spotify.com/track/0agzpJR3jRbfLKhG5nWxx3"
-    },
-    {
-      "added_at": "2020-02-26 16:25:22",
-      "album": {
-        "name": "Viento Dile a la Lluvia",
-        "url": "https://open.spotify.com/album/2z1Mp2nXoOHfcI3biDXS8h"
-      },
-      "artists": [
-        {
-          "name": "Los Gatos",
-          "url": "https://open.spotify.com/artist/7wL1RaL0IEr7bK2WKV9sEU"
-        }
-      ],
-      "duration_ms": 169120,
-      "name": "Viento, Dile a la Lluvia",
-      "url": "https://open.spotify.com/track/5Qz4D3NixycveVWlTgksDn"
     },
     {
       "added_at": "2020-02-26 16:25:22",
@@ -235,18 +235,18 @@
     {
       "added_at": "2020-02-26 16:25:22",
       "album": {
-        "name": "Durazno Sangrando",
-        "url": "https://open.spotify.com/album/4Cf6WflKk1FEtffkm9h1U7"
+        "name": "Viento Dile a la Lluvia",
+        "url": "https://open.spotify.com/album/2z1Mp2nXoOHfcI3biDXS8h"
       },
       "artists": [
         {
-          "name": "Invisible",
-          "url": "https://open.spotify.com/artist/3FjdJbt6Myq32uv7P4owM1"
+          "name": "Los Gatos",
+          "url": "https://open.spotify.com/artist/7wL1RaL0IEr7bK2WKV9sEU"
         }
       ],
-      "duration_ms": 219186,
-      "name": "Durazno Sangrando",
-      "url": "https://open.spotify.com/track/6pjbkrGImw09Nv5Ji3emkr"
+      "duration_ms": 169120,
+      "name": "Viento, Dile a la Lluvia",
+      "url": "https://open.spotify.com/track/5Qz4D3NixycveVWlTgksDn"
     },
     {
       "added_at": "2020-02-26 16:25:22",
@@ -315,22 +315,6 @@
     {
       "added_at": "2020-02-26 16:25:22",
       "album": {
-        "name": "Tango",
-        "url": "https://open.spotify.com/album/1p9tykpcBRGa6lHjviOn9x"
-      },
-      "artists": [
-        {
-          "name": "Tango",
-          "url": "https://open.spotify.com/artist/7CSiyutcNoggAxGRxymDHM"
-        }
-      ],
-      "duration_ms": 211040,
-      "name": "Amor de Primavera",
-      "url": "https://open.spotify.com/track/1bvQiT1IglZ3QKIpEHgKeC"
-    },
-    {
-      "added_at": "2020-02-26 16:25:22",
-      "album": {
         "name": "Bajo Belgrano",
         "url": "https://open.spotify.com/album/3pFMaPwaHb6D0EkMtRlaO9"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 155466,
       "name": "Maribel Se Durmi\u00f3",
       "url": "https://open.spotify.com/track/5BaqCOW8FaahrXIRIvU6Ad"
+    },
+    {
+      "added_at": "2020-02-26 16:25:22",
+      "album": {
+        "name": "Tango",
+        "url": "https://open.spotify.com/album/1p9tykpcBRGa6lHjviOn9x"
+      },
+      "artists": [
+        {
+          "name": "Tango",
+          "url": "https://open.spotify.com/artist/7CSiyutcNoggAxGRxymDHM"
+        }
+      ],
+      "duration_ms": 211040,
+      "name": "Amor de Primavera",
+      "url": "https://open.spotify.com/track/1bvQiT1IglZ3QKIpEHgKeC"
     },
     {
       "added_at": "2020-02-26 16:25:22",
@@ -379,18 +379,18 @@
     {
       "added_at": "2020-02-26 16:25:22",
       "album": {
-        "name": "Los Gatos",
-        "url": "https://open.spotify.com/album/0vTTjKizDeDsQJKzdT7s8G"
+        "name": "El 1er \u00c1lbum M\u00e1s los Singles",
+        "url": "https://open.spotify.com/album/2Syxpgpva5hDmqCZpmmJHp"
       },
       "artists": [
         {
-          "name": "Los Gatos",
-          "url": "https://open.spotify.com/artist/7wL1RaL0IEr7bK2WKV9sEU"
+          "name": "Almendra",
+          "url": "https://open.spotify.com/artist/7x2a9uyqlWbE9LwcoQWDTo"
         }
       ],
-      "duration_ms": 130213,
-      "name": "Ayer Nom\u00e1s",
-      "url": "https://open.spotify.com/track/20ILhYY5QbmsNc8KKBf8w5"
+      "duration_ms": 243400,
+      "name": "Plegaria para un Ni\u00f1o Dormido",
+      "url": "https://open.spotify.com/track/3FKbpQhczilHZD5LJOqSdR"
     },
     {
       "added_at": "2020-02-26 16:25:22",
@@ -411,18 +411,18 @@
     {
       "added_at": "2020-02-26 16:25:22",
       "album": {
-        "name": "El 1er \u00c1lbum M\u00e1s los Singles",
-        "url": "https://open.spotify.com/album/2Syxpgpva5hDmqCZpmmJHp"
+        "name": "Los Gatos",
+        "url": "https://open.spotify.com/album/0vTTjKizDeDsQJKzdT7s8G"
       },
       "artists": [
         {
-          "name": "Almendra",
-          "url": "https://open.spotify.com/artist/7x2a9uyqlWbE9LwcoQWDTo"
+          "name": "Los Gatos",
+          "url": "https://open.spotify.com/artist/7wL1RaL0IEr7bK2WKV9sEU"
         }
       ],
-      "duration_ms": 243400,
-      "name": "Plegaria para un Ni\u00f1o Dormido",
-      "url": "https://open.spotify.com/track/3FKbpQhczilHZD5LJOqSdR"
+      "duration_ms": 130213,
+      "name": "Ayer Nom\u00e1s",
+      "url": "https://open.spotify.com/track/20ILhYY5QbmsNc8KKBf8w5"
     },
     {
       "added_at": "2020-02-26 16:25:22",
@@ -475,18 +475,18 @@
     {
       "added_at": "2020-02-26 16:25:22",
       "album": {
-        "name": "Manal",
-        "url": "https://open.spotify.com/album/1VoglV38RPcTn7P9yZxO4C"
+        "name": "Le\u00f3n Gieco",
+        "url": "https://open.spotify.com/album/61O3RcbSiFklK1N9SC5LCd"
       },
       "artists": [
         {
-          "name": "Manal",
-          "url": "https://open.spotify.com/artist/10vtHOCA3qPLmrGylgO2F1"
+          "name": "Le\u00f3n Gieco",
+          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
         }
       ],
-      "duration_ms": 254466,
-      "name": "Casa Con Diez Pinos",
-      "url": "https://open.spotify.com/track/2Ras7UcXvzenVmkyVMibdh"
+      "duration_ms": 193535,
+      "name": "En el pa\u00eds de la libertad",
+      "url": "https://open.spotify.com/track/1oiMVZp0WcRmsxdfHdoRwb"
     },
     {
       "added_at": "2020-02-26 16:25:22",
@@ -507,18 +507,18 @@
     {
       "added_at": "2020-02-26 16:25:22",
       "album": {
-        "name": "Le\u00f3n Gieco",
-        "url": "https://open.spotify.com/album/61O3RcbSiFklK1N9SC5LCd"
+        "name": "Manal",
+        "url": "https://open.spotify.com/album/1VoglV38RPcTn7P9yZxO4C"
       },
       "artists": [
         {
-          "name": "Le\u00f3n Gieco",
-          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
+          "name": "Manal",
+          "url": "https://open.spotify.com/artist/10vtHOCA3qPLmrGylgO2F1"
         }
       ],
-      "duration_ms": 193535,
-      "name": "En el pa\u00eds de la libertad",
-      "url": "https://open.spotify.com/track/1oiMVZp0WcRmsxdfHdoRwb"
+      "duration_ms": 254466,
+      "name": "Casa Con Diez Pinos",
+      "url": "https://open.spotify.com/track/2Ras7UcXvzenVmkyVMibdh"
     },
     {
       "added_at": "2020-02-26 16:25:22",
@@ -587,22 +587,6 @@
     {
       "added_at": "2020-02-26 16:25:22",
       "album": {
-        "name": "Manal",
-        "url": "https://open.spotify.com/album/1VoglV38RPcTn7P9yZxO4C"
-      },
-      "artists": [
-        {
-          "name": "Manal",
-          "url": "https://open.spotify.com/artist/10vtHOCA3qPLmrGylgO2F1"
-        }
-      ],
-      "duration_ms": 230146,
-      "name": "No Pibe",
-      "url": "https://open.spotify.com/track/1XjCxUmgXzqLEGzqUse3qK"
-    },
-    {
-      "added_at": "2020-02-26 16:25:22",
-      "album": {
         "name": "PorSuiGieco",
         "url": "https://open.spotify.com/album/7ug5TR3GSr8nmDWLaOQ93r"
       },
@@ -615,22 +599,6 @@
       "duration_ms": 219039,
       "name": "La mam\u00e1 de Jimmy - Le\u00ed",
       "url": "https://open.spotify.com/track/34MKQgDEwYzDer6VZKIGhZ"
-    },
-    {
-      "added_at": "2020-02-26 16:25:22",
-      "album": {
-        "name": "Serie De Oro",
-        "url": "https://open.spotify.com/album/0K5znMCZ80jQtl2zqMCoyE"
-      },
-      "artists": [
-        {
-          "name": "Polifemo",
-          "url": "https://open.spotify.com/artist/5kt7SkycNsq8vbKoFb3QxO"
-        }
-      ],
-      "duration_ms": 229733,
-      "name": "Oye Dios Que Me Has Dado",
-      "url": "https://open.spotify.com/track/7xfYEIvk2qRxODCefqdOuR"
     },
     {
       "added_at": "2020-02-26 16:25:22",
@@ -651,6 +619,22 @@
     {
       "added_at": "2020-02-26 16:25:22",
       "album": {
+        "name": "Serie De Oro",
+        "url": "https://open.spotify.com/album/0K5znMCZ80jQtl2zqMCoyE"
+      },
+      "artists": [
+        {
+          "name": "Polifemo",
+          "url": "https://open.spotify.com/artist/5kt7SkycNsq8vbKoFb3QxO"
+        }
+      ],
+      "duration_ms": 229733,
+      "name": "Oye Dios Que Me Has Dado",
+      "url": "https://open.spotify.com/track/7xfYEIvk2qRxODCefqdOuR"
+    },
+    {
+      "added_at": "2020-02-26 16:25:22",
+      "album": {
         "name": "El 1er \u00c1lbum M\u00e1s los Singles",
         "url": "https://open.spotify.com/album/2Syxpgpva5hDmqCZpmmJHp"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 166960,
       "name": "Ana No Duerme",
       "url": "https://open.spotify.com/track/4ev0iQn9HTKQHxcSDxklhu"
+    },
+    {
+      "added_at": "2020-02-26 16:25:22",
+      "album": {
+        "name": "Manal",
+        "url": "https://open.spotify.com/album/1VoglV38RPcTn7P9yZxO4C"
+      },
+      "artists": [
+        {
+          "name": "Manal",
+          "url": "https://open.spotify.com/artist/10vtHOCA3qPLmrGylgO2F1"
+        }
+      ],
+      "duration_ms": 230146,
+      "name": "No Pibe",
+      "url": "https://open.spotify.com/track/1XjCxUmgXzqLEGzqUse3qK"
     },
     {
       "added_at": "2020-02-26 16:25:22",
@@ -699,18 +699,18 @@
     {
       "added_at": "2020-02-26 16:25:22",
       "album": {
-        "name": "Manal",
-        "url": "https://open.spotify.com/album/1VoglV38RPcTn7P9yZxO4C"
+        "name": "La Biblia",
+        "url": "https://open.spotify.com/album/5rTDeb1l0Mj4vNDKfvCRd6"
       },
       "artists": [
         {
-          "name": "Manal",
-          "url": "https://open.spotify.com/artist/10vtHOCA3qPLmrGylgO2F1"
+          "name": "Vox Dei",
+          "url": "https://open.spotify.com/artist/1sTOtMflHQ1ULtuozST5RR"
         }
       ],
-      "duration_ms": 333680,
-      "name": "Avellaneda Blues",
-      "url": "https://open.spotify.com/track/2SeUS7JmN0oLjHPHGvDZFA"
+      "duration_ms": 287602,
+      "name": "Apocalipsis",
+      "url": "https://open.spotify.com/track/1BOrWWE3wANOCYFn6p2Z9Y"
     },
     {
       "added_at": "2020-02-26 16:25:22",
@@ -731,38 +731,6 @@
     {
       "added_at": "2020-02-26 16:25:22",
       "album": {
-        "name": "En vivo",
-        "url": "https://open.spotify.com/album/1Z6aEZAVsSppuDJhQmkCne"
-      },
-      "artists": [
-        {
-          "name": "Pedro Y Pablo",
-          "url": "https://open.spotify.com/artist/5YDpwWFLxk3wmHBKqAcfiI"
-        }
-      ],
-      "duration_ms": 244991,
-      "name": "La marcha de la bronca",
-      "url": "https://open.spotify.com/track/1yLrOgpKQpLjfW9yO1j40Y"
-    },
-    {
-      "added_at": "2020-02-26 16:25:22",
-      "album": {
-        "name": "La Biblia",
-        "url": "https://open.spotify.com/album/5rTDeb1l0Mj4vNDKfvCRd6"
-      },
-      "artists": [
-        {
-          "name": "Vox Dei",
-          "url": "https://open.spotify.com/artist/1sTOtMflHQ1ULtuozST5RR"
-        }
-      ],
-      "duration_ms": 287602,
-      "name": "Apocalipsis",
-      "url": "https://open.spotify.com/track/1BOrWWE3wANOCYFn6p2Z9Y"
-    },
-    {
-      "added_at": "2020-02-26 16:25:22",
-      "album": {
         "name": "Los Delirios del Mariscal",
         "url": "https://open.spotify.com/album/1IQKV1zaM2GihjCXjZTdeJ"
       },
@@ -775,6 +743,38 @@
       "duration_ms": 603400,
       "name": "Los Delirios del Mariscal",
       "url": "https://open.spotify.com/track/56vhyP9UvLtGYUbeBBxqke"
+    },
+    {
+      "added_at": "2020-02-26 16:25:22",
+      "album": {
+        "name": "Manal",
+        "url": "https://open.spotify.com/album/1VoglV38RPcTn7P9yZxO4C"
+      },
+      "artists": [
+        {
+          "name": "Manal",
+          "url": "https://open.spotify.com/artist/10vtHOCA3qPLmrGylgO2F1"
+        }
+      ],
+      "duration_ms": 333680,
+      "name": "Avellaneda Blues",
+      "url": "https://open.spotify.com/track/2SeUS7JmN0oLjHPHGvDZFA"
+    },
+    {
+      "added_at": "2020-02-26 16:25:22",
+      "album": {
+        "name": "En vivo",
+        "url": "https://open.spotify.com/album/1Z6aEZAVsSppuDJhQmkCne"
+      },
+      "artists": [
+        {
+          "name": "Pedro Y Pablo",
+          "url": "https://open.spotify.com/artist/5YDpwWFLxk3wmHBKqAcfiI"
+        }
+      ],
+      "duration_ms": 244991,
+      "name": "La marcha de la bronca",
+      "url": "https://open.spotify.com/track/1yLrOgpKQpLjfW9yO1j40Y"
     },
     {
       "added_at": "2020-02-26 16:25:22",
@@ -811,6 +811,22 @@
     {
       "added_at": "2020-02-26 16:25:22",
       "album": {
+        "name": "Crucis",
+        "url": "https://open.spotify.com/album/7q4FDjboZh9zLPRqIxdWng"
+      },
+      "artists": [
+        {
+          "name": "Crucis",
+          "url": "https://open.spotify.com/artist/3PN8odvj48fnALdAsCKG3g"
+        }
+      ],
+      "duration_ms": 246960,
+      "name": "Todo Tiempo Posible",
+      "url": "https://open.spotify.com/track/0aF2ape2b7Tzgo1GLs9re3"
+    },
+    {
+      "added_at": "2020-02-26 16:25:22",
+      "album": {
         "name": "El 1er \u00c1lbum M\u00e1s los Singles",
         "url": "https://open.spotify.com/album/2Syxpgpva5hDmqCZpmmJHp"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 217706,
       "name": "En El Hospicio",
       "url": "https://open.spotify.com/track/6NZ2OTfVCJ9rf6hm6tpJxh"
-    },
-    {
-      "added_at": "2020-02-26 16:25:22",
-      "album": {
-        "name": "Crucis",
-        "url": "https://open.spotify.com/album/7q4FDjboZh9zLPRqIxdWng"
-      },
-      "artists": [
-        {
-          "name": "Crucis",
-          "url": "https://open.spotify.com/artist/3PN8odvj48fnALdAsCKG3g"
-        }
-      ],
-      "duration_ms": 246960,
-      "name": "Todo Tiempo Posible",
-      "url": "https://open.spotify.com/track/0aF2ape2b7Tzgo1GLs9re3"
     },
     {
       "added_at": "2020-02-26 16:25:22",

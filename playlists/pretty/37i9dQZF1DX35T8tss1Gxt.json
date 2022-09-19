@@ -1,12 +1,12 @@
 {
   "description": "Experience music from some of your favorite Gospel artists and those they've influenced.  Cover: Naomi Raine",
-  "num_followers": 160887,
+  "num_followers": 160995,
   "original_name": "Rhythm & Praise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODAzNjMxMSwwMDAwMDAwMGQxYzE2ZmRjYWMzOGIzZDdhMDhjNjllNDZkMWY1ZmM0",
+  "snapshot_id": "MTY1ODAzNjMxMSwwMDAwMDAwMGFkMDZhM2I2YmRhYjBmMjBlOWJhNjA1YzZhNjU0ZDI4",
   "tracks": [
     {
       "added_at": "2022-07-17 05:38:31",
@@ -927,26 +927,6 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
-        "name": "Exodus",
-        "url": "https://open.spotify.com/album/21zzQV1Gc1HleOSWgnlGqd"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 180678,
-      "name": "Exodus",
-      "url": "https://open.spotify.com/track/3l0sQy45fVNdGkgGnE3VQW"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/36GXbwa9TQmAQ8BfCaU1y5"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 166000,
       "name": "New Me",
       "url": "https://open.spotify.com/track/12oWCWi8KOmUWITBxRoqBc"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
+        "name": "Exodus",
+        "url": "https://open.spotify.com/album/21zzQV1Gc1HleOSWgnlGqd"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 180678,
+      "name": "Exodus",
+      "url": "https://open.spotify.com/track/3l0sQy45fVNdGkgGnE3VQW"
     },
     {
       "added_at": "2022-07-17 05:38:31",
@@ -1155,6 +1155,30 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
+        "name": "Lay Low",
+        "url": "https://open.spotify.com/album/45lbj08eBm9ZOnlGzBToEd"
+      },
+      "artists": [
+        {
+          "name": "TBabz",
+          "url": "https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V"
+        },
+        {
+          "name": "Asha Elia",
+          "url": "https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S"
+        },
+        {
+          "name": "A Mose",
+          "url": "https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Lay Low",
+      "url": "https://open.spotify.com/track/0ysuf6je8hskFtsHob6KQI"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
         "name": "Learning to Forgive",
         "url": "https://open.spotify.com/album/5EeAaAloApOGtw0Nb2yvoP"
       },
@@ -1167,30 +1191,6 @@
       "duration_ms": 184541,
       "name": "Learning to Forgive",
       "url": "https://open.spotify.com/track/5miGv60VQY9otU6fXpKmPw"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
-        "name": "Gotta Be God",
-        "url": "https://open.spotify.com/album/5QoG06Wf5RiAb3Vf6i1gkv"
-      },
-      "artists": [
-        {
-          "name": "TBabz",
-          "url": "https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V"
-        },
-        {
-          "name": "Sal Ly",
-          "url": "https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ"
-        },
-        {
-          "name": "Da' T.R.U.T.H.",
-          "url": "https://open.spotify.com/artist/2ISIE0MEDMdAF2LDMLrVD4"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Gotta Be God",
-      "url": "https://open.spotify.com/track/66dKe5hsyrNInqBpnxPTPL"
     },
     {
       "added_at": "2022-07-17 05:38:31",
@@ -1299,6 +1299,30 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
+        "name": "Gotta Be God",
+        "url": "https://open.spotify.com/album/5QoG06Wf5RiAb3Vf6i1gkv"
+      },
+      "artists": [
+        {
+          "name": "TBabz",
+          "url": "https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V"
+        },
+        {
+          "name": "Sal Ly",
+          "url": "https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ"
+        },
+        {
+          "name": "Da' T.R.U.T.H.",
+          "url": "https://open.spotify.com/artist/2ISIE0MEDMdAF2LDMLrVD4"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Gotta Be God",
+      "url": "https://open.spotify.com/track/66dKe5hsyrNInqBpnxPTPL"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
         "name": "NONCHALANT",
         "url": "https://open.spotify.com/album/7y48GxVNmMPN5p33iDQ2eh"
       },
@@ -1311,30 +1335,6 @@
       "duration_ms": 179382,
       "name": "NONCHALANT",
       "url": "https://open.spotify.com/track/3btBIKiTNd63mNOmPNuIUG"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
-        "name": "Lay Low",
-        "url": "https://open.spotify.com/album/45lbj08eBm9ZOnlGzBToEd"
-      },
-      "artists": [
-        {
-          "name": "TBabz",
-          "url": "https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V"
-        },
-        {
-          "name": "Asha Elia",
-          "url": "https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S"
-        },
-        {
-          "name": "A Mose",
-          "url": "https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "Lay Low",
-      "url": "https://open.spotify.com/track/0ysuf6je8hskFtsHob6KQI"
     },
     {
       "added_at": "2022-07-17 05:38:31",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
+        "name": "Heavy",
+        "url": "https://open.spotify.com/album/1AMyeFXfU67wKsGzdnNkpE"
+      },
+      "artists": [
+        {
+          "name": "Daphne Richardson",
+          "url": "https://open.spotify.com/artist/5KoV3ti1KQiY6Q430OSIHa"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Heavy",
+      "url": "https://open.spotify.com/track/5hJLoLdTvr2IhKkJpDnVJp"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
         "name": "What Would I Gain?",
         "url": "https://open.spotify.com/album/1O5hJ19jwKmEjqkQHFgYjD"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 234000,
       "name": "What Would I Gain?",
       "url": "https://open.spotify.com/track/10tkcAcUnlENPwDbnIaD5p"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
-        "name": "Heavy",
-        "url": "https://open.spotify.com/album/1AMyeFXfU67wKsGzdnNkpE"
-      },
-      "artists": [
-        {
-          "name": "Daphne Richardson",
-          "url": "https://open.spotify.com/artist/5KoV3ti1KQiY6Q430OSIHa"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Heavy",
-      "url": "https://open.spotify.com/track/5hJLoLdTvr2IhKkJpDnVJp"
     },
     {
       "added_at": "2022-07-17 05:38:31",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
+        "name": "Motive",
+        "url": "https://open.spotify.com/album/6BwDhZVaF5BiXi9pLnP8rH"
+      },
+      "artists": [
+        {
+          "name": "Kennis Clark",
+          "url": "https://open.spotify.com/artist/3f0rz7vcRwXDBjkbBkkmSs"
+        }
+      ],
+      "duration_ms": 162500,
+      "name": "Motive",
+      "url": "https://open.spotify.com/track/3Sxbmguh06sHGiOedKYCqY"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
         "name": "God of Dreams",
         "url": "https://open.spotify.com/album/7AyJ6DJld2Dff5BZoCTgf0"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 191476,
       "name": "This Is Love",
       "url": "https://open.spotify.com/track/5fqaHMgEw4LWZvcD3Em2UH"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
-        "name": "Motive",
-        "url": "https://open.spotify.com/album/6BwDhZVaF5BiXi9pLnP8rH"
-      },
-      "artists": [
-        {
-          "name": "Kennis Clark",
-          "url": "https://open.spotify.com/artist/3f0rz7vcRwXDBjkbBkkmSs"
-        }
-      ],
-      "duration_ms": 162500,
-      "name": "Motive",
-      "url": "https://open.spotify.com/track/3Sxbmguh06sHGiOedKYCqY"
     },
     {
       "added_at": "2022-07-17 05:38:31",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
+        "name": "Roots",
+        "url": "https://open.spotify.com/album/4nYioApK4PisBkfRaXzO36"
+      },
+      "artists": [
+        {
+          "name": "Jimmy McNeal",
+          "url": "https://open.spotify.com/artist/6qAVuHCboewGWzHF0JwYx5"
+        }
+      ],
+      "duration_ms": 368026,
+      "name": "Hold Me Close",
+      "url": "https://open.spotify.com/track/0rTNfHq56NzUNnIwk6zgru"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
         "name": "Vol 3",
         "url": "https://open.spotify.com/album/6XNIUHPboj5X6br6mTkpFi"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 281250,
       "name": "Thanks and Praise",
       "url": "https://open.spotify.com/track/4RgrucjGNOmcNo2NF7hsYb"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
-        "name": "Roots",
-        "url": "https://open.spotify.com/album/4nYioApK4PisBkfRaXzO36"
-      },
-      "artists": [
-        {
-          "name": "Jimmy McNeal",
-          "url": "https://open.spotify.com/artist/6qAVuHCboewGWzHF0JwYx5"
-        }
-      ],
-      "duration_ms": 368026,
-      "name": "Hold Me Close",
-      "url": "https://open.spotify.com/track/0rTNfHq56NzUNnIwk6zgru"
     },
     {
       "added_at": "2022-07-17 05:38:31",
@@ -1791,6 +1791,22 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
+        "name": "more like you",
+        "url": "https://open.spotify.com/album/7LXQLC9LcezYqo9wTWzj2J"
+      },
+      "artists": [
+        {
+          "name": "Reed Deming",
+          "url": "https://open.spotify.com/artist/1fKEt9S1A4iszlgL9rFjPR"
+        }
+      ],
+      "duration_ms": 197500,
+      "name": "more like you",
+      "url": "https://open.spotify.com/track/039ZACDj8Cb8AA0jdKyQgT"
+    },
+    {
+      "added_at": "2022-07-17 05:38:31",
+      "album": {
         "name": "Belongs To You (R&B Remix)",
         "url": "https://open.spotify.com/album/3uXFWEyEpYYnOhwHjBUxOz"
       },
@@ -1815,34 +1831,18 @@
     {
       "added_at": "2022-07-17 05:38:31",
       "album": {
-        "name": "more like you",
-        "url": "https://open.spotify.com/album/7LXQLC9LcezYqo9wTWzj2J"
+        "name": "The Vow",
+        "url": "https://open.spotify.com/album/2OPCQY600rzqGexiKDBMdE"
       },
       "artists": [
         {
-          "name": "Reed Deming",
-          "url": "https://open.spotify.com/artist/1fKEt9S1A4iszlgL9rFjPR"
+          "name": "Ryan Ofei",
+          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
         }
       ],
-      "duration_ms": 197500,
-      "name": "more like you",
-      "url": "https://open.spotify.com/track/039ZACDj8Cb8AA0jdKyQgT"
-    },
-    {
-      "added_at": "2022-07-17 05:38:31",
-      "album": {
-        "name": "Kingdom Come",
-        "url": "https://open.spotify.com/album/22NJqbQbKWrHhi3gyPZeeb"
-      },
-      "artists": [
-        {
-          "name": "Rebecca St. James",
-          "url": "https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9"
-        }
-      ],
-      "duration_ms": 281360,
-      "name": "Cover Me",
-      "url": "https://open.spotify.com/track/0kgaxUdgR0wOgVxnpyllLY"
+      "duration_ms": 250909,
+      "name": "The Vow",
+      "url": "https://open.spotify.com/track/19UDuT4NcAOEeBtG3ZPgYk"
     }
   ],
   "unique_name": "Rhythm & Praise",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xmaCWnHTsV.md) - [plain]
 
 > Classic rockabilly and early rock 'n' roll.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,565 likes - 50 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,574 likes - 50 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xmaCWnHTsV.md) - [plain]
 | 18 | [Fujiyama Mama \- Remastered](https://open.spotify.com/track/5GZKrlylsU8zoILY2aiDJz) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB) | [Rockin' With Wanda](https://open.spotify.com/album/1tRcetV95YbV88bAtT3Jca) | 2:14 |
 | 19 | [Rock Around With Ollie Vee \- Alternate Version](https://open.spotify.com/track/5b0KMebx2ZOPv91U42xOSv) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D) | [That'll Be The Day](https://open.spotify.com/album/0KHc3cD7pAOAieo9lPWXkY) | 2:18 |
 | 20 | [Everybody's Movin'](https://open.spotify.com/track/4NnJxkpRJzfKMJM1H3VlYt) | [Glen Glenn](https://open.spotify.com/artist/4HA1v7Kj8foWKczaOUbxQx) | [Glen Rocks](https://open.spotify.com/album/7lm2w3HxZcXE1V2tvscmBv) | 2:42 |
-| 21 | [Right Behind You Baby](https://open.spotify.com/track/1eI9gpxLg80Om4pirkr9oe) | [Ray Smith](https://open.spotify.com/artist/4SGITJm1kRaIEoqEwv360I) | [The Sun Records Sound of Ray Smith \(20 Rock 'n' Roll Classics\)](https://open.spotify.com/album/70hhNeGlnCF5weOwOru5XK) | 2:22 |
+| 21 | [Hello Mary Lou](https://open.spotify.com/track/0YOasUp8fxPk3FXEa3fZ9z) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Legacy](https://open.spotify.com/album/1bZHbHtUvjGqUOKNla4lo0) | 2:18 |
 | 22 | [Boppin' The Blues](https://open.spotify.com/track/0wNnwLgq5N9lWYib8eUnu6) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [The Dance Album](https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK) | 2:47 |
-| 23 | [Hello Mary Lou](https://open.spotify.com/track/0YOasUp8fxPk3FXEa3fZ9z) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Legacy](https://open.spotify.com/album/1bZHbHtUvjGqUOKNla4lo0) | 2:18 |
+| 23 | [Right Behind You Baby](https://open.spotify.com/track/1eI9gpxLg80Om4pirkr9oe) | [Ray Smith](https://open.spotify.com/artist/4SGITJm1kRaIEoqEwv360I) | [The Sun Records Sound of Ray Smith \(20 Rock 'n' Roll Classics\)](https://open.spotify.com/album/70hhNeGlnCF5weOwOru5XK) | 2:22 |
 | 24 | [Rock Billy Boogie](https://open.spotify.com/track/4NazHwfKb4e9WSkFM2OC52) | [Johnny Burnette & The Rock 'N' Roll Trio](https://open.spotify.com/artist/1neKWNZP74NEuvHZmvMS58) | [Johnny Burnette And The Rock 'N Roll Trio](https://open.spotify.com/album/0WDDlUimET7qIVjs0Sm3mM) | 2:36 |
 | 25 | [Baby, Let's Play House \- Remastered](https://open.spotify.com/track/4Ls0zLUccPv9o0G4Uio503) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [The Essential Elvis Presley](https://open.spotify.com/album/3X3rFfVKCW58sKMO0UXkwO) | 2:15 |
 | 26 | [Come on Little Mama](https://open.spotify.com/track/11OqzAcT8jMaNZAt6kdpvR) | [Ray Harris](https://open.spotify.com/artist/0luI6OOG3mYAFQj4BC1hR8) | [Come on Little Mama / Where'd You Stay Last Night](https://open.spotify.com/album/0jRvfTjOFuHrNJrVUT8BZY) | 2:18 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xmaCWnHTsV.md) - [plain]
 | 28 | [Race With The Devil](https://open.spotify.com/track/6yqpkreNmOenMuTV9NG2C9) | [Gene Vincent & His Blue Caps](https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq) | [Dance To The Bop](https://open.spotify.com/album/3oavZnlCWGZJyXj8fuLVlR) | 2:03 |
 | 29 | [Grandaddy's Rockin'](https://open.spotify.com/track/5XTKNlsQKuozZ44degiPhc) | [Mac Curtis](https://open.spotify.com/artist/4Ey70byCWxRScdGvCVgNJs) | [Blue Jean Heart](https://open.spotify.com/album/1YDTA3tRPAABZbLlas52tu) | 2:05 |
 | 30 | [Jungle Rock](https://open.spotify.com/track/0XSHcO8JNMSA8kXvppB5bS) | [Hank Mizell](https://open.spotify.com/artist/3RGF93b8Qtz77GLJBgdBH6) | [Jungle Rock](https://open.spotify.com/album/21kqXS5qnYmFwDFZ9buKHb) | 2:48 |
-| 31 | [Mean, Mean Man \- Remastered](https://open.spotify.com/track/1Ssb9hQz8ha0oHGdsFsQ8N) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB) | [Rockin' With Wanda](https://open.spotify.com/album/1tRcetV95YbV88bAtT3Jca) | 2:13 |
-| 32 | [Believe What You Say \- Remastered](https://open.spotify.com/track/2Cr8d39cOPBWzmVKwcjmmP) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Ricky Sings Again \(Expanded Edition / Remastered\)](https://open.spotify.com/album/30csxUzrzcgwuOT5QVmFmg) | 2:05 |
+| 31 | [Believe What You Say \- Remastered](https://open.spotify.com/track/2Cr8d39cOPBWzmVKwcjmmP) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Ricky Sings Again \(Expanded Edition / Remastered\)](https://open.spotify.com/album/30csxUzrzcgwuOT5QVmFmg) | 2:05 |
+| 32 | [Mean, Mean Man \- Remastered](https://open.spotify.com/track/1Ssb9hQz8ha0oHGdsFsQ8N) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB) | [Rockin' With Wanda](https://open.spotify.com/album/1tRcetV95YbV88bAtT3Jca) | 2:13 |
 | 33 | [Sunglasses After Dark](https://open.spotify.com/track/0VL7bjfwdWsGOOwhGjEe7c) | [Dwight Pullen](https://open.spotify.com/artist/7jYk8W0dRSn0ivkerR9le2) | [Sunglasses After Dark](https://open.spotify.com/album/4zT5QSeTSk1iudy09RlCp8) | 2:08 |
 | 34 | [The Fool](https://open.spotify.com/track/0JcE8h38d6tTuse4IkPLXn) | [Sanford Clark](https://open.spotify.com/artist/3REqunOj76TSpw9f6eKON2) | [Presenting Sandford Clark](https://open.spotify.com/album/5QCtTTUmVu4BaPOlupFecs) | 2:47 |
 | 35 | [One Hand Loose](https://open.spotify.com/track/1uYlKhktrgikytcB1UQZYs) | [Charlie Feathers](https://open.spotify.com/artist/2EcNV0nlF6f6ZDtJJG2vKN) | [His Complete King Recordings](https://open.spotify.com/album/15IZgzHg7L0LNSglHIC3tC) | 2:24 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xmaCWnHTsV.md) - [plain]
 | 41 | [Hip Shakin' Mama](https://open.spotify.com/track/5cyBAPXn49iasSiD3s5pkQ) | [Jackie Lee Cochran](https://open.spotify.com/artist/78sRQCQyiHMZPGr0KnKwFU) | [Jack the Cat](https://open.spotify.com/album/7aWRApTcoSElob5X4XiJFq) | 1:52 |
 | 42 | [I Got a Rocket in My Pocket \- Remastered Single Version](https://open.spotify.com/track/3Qx5VIqbesK1ByTLuXcddr) | [Jimmy Lloyd](https://open.spotify.com/artist/1ngT1mR10aJjFgMmSF5mvB) | [Rhino Hi\-Five: Rockin' Bones: 1950s Punk & Rockabilly](https://open.spotify.com/album/2Ot4oR9l5JVrgQxAhWKgTT) | 2:19 |
 | 43 | [Pink Thunderbird](https://open.spotify.com/track/3NenvURev5mcCecxsUoWI2) | [Gene Vincent & His Blue Caps](https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq) | [Gene Vincent And The Blue Caps](https://open.spotify.com/album/0hiKWm7WLBpTtzIlnwTnrk) | 2:32 |
-| 44 | [Flip flop Mama](https://open.spotify.com/track/2opuQE3MDx92ujXUPqdFcb) | [Eddie Bond](https://open.spotify.com/artist/4p6a47VbiLjsFqZJy92wUE) | [Memphis Rockabilly King](https://open.spotify.com/album/2g6NmIa73CKjuMzQmzREBB) | 2:08 |
-| 45 | [Skinny Jim](https://open.spotify.com/track/07JOGpEHBICoVjcIjF4ROY) | [Eddie Cochran](https://open.spotify.com/artist/1p0t3JtUTayV2wb1RGN9mO) | [The Best Of Eddie Cochran](https://open.spotify.com/album/1MOHwO7WJIg61Ksp4FfYz5) | 2:11 |
+| 44 | [Skinny Jim](https://open.spotify.com/track/07JOGpEHBICoVjcIjF4ROY) | [Eddie Cochran](https://open.spotify.com/artist/1p0t3JtUTayV2wb1RGN9mO) | [The Best Of Eddie Cochran](https://open.spotify.com/album/1MOHwO7WJIg61Ksp4FfYz5) | 2:11 |
+| 45 | [Flip flop Mama](https://open.spotify.com/track/2opuQE3MDx92ujXUPqdFcb) | [Eddie Bond](https://open.spotify.com/artist/4p6a47VbiLjsFqZJy92wUE) | [Memphis Rockabilly King](https://open.spotify.com/album/2g6NmIa73CKjuMzQmzREBB) | 2:08 |
 | 46 | [Hot Dog! That Made Him Mad \- Remastered](https://open.spotify.com/track/1r0qsbI9hQu5v5aSCTTqJR) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB) | [Rockin' With Wanda](https://open.spotify.com/album/1tRcetV95YbV88bAtT3Jca) | 2:40 |
 | 47 | [Do Me No Wrong](https://open.spotify.com/track/0fA5ZwzfOlH8RT3jjDwE8S) | [Pat Cupp](https://open.spotify.com/artist/5h9EJT0zbqyiqn81r1dZfZ) | [Rockabilly Greats](https://open.spotify.com/album/67IQZbSkHcrICs2CsSPOdU) | 2:24 |
 | 48 | [Bottle to the Baby](https://open.spotify.com/track/2ImE4dNfy18hhApS7EwrLG) | [Charlie Feathers](https://open.spotify.com/artist/2EcNV0nlF6f6ZDtJJG2vKN) | [Gone Gone Gone](https://open.spotify.com/album/7iLVv44iKgW07pWKyFJP2t) | 2:24 |
 | 49 | [Drugstore Rock'N'Roll](https://open.spotify.com/track/7HUv0He4tAmmWBDyYfyOwa) | [Janis Martin](https://open.spotify.com/artist/4pjH9s7TgSke527nRDcgqq) | [We Love You To Pieces](https://open.spotify.com/album/2u2Cu8Rh1SFHSQdpLljS6n) | 2:09 |
 | 50 | [Everybody's Trying to Be My Baby](https://open.spotify.com/track/16Wwp6SO1YyL91OYzl58bN) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [Most Wanted](https://open.spotify.com/album/2Dxq9S41i1QJDximYXxDW4) | 2:15 |
 
-Snapshot ID: `MTU3ODY3MTAzMSwwMDAwMDAwMDQ2NmQ2Nzk0NzI0YmFkNTk3ZTVjOTU1NzVmMDE2ZTQ0`
+Snapshot ID: `MTU3ODY3MTAzMSwwMDAwMDAwMDJiM2Q1ZDQ5M2IxM2NmODIxNWFjNDk4ODY4ZTQzY2Rk`

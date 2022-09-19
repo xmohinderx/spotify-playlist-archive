@@ -4,7 +4,7 @@
 
 > Hand\-picked indie to nourish the ears.
 
-212 songs - 12 hr 58 min - [published](https://open.spotify.com/playlist/0fsDW9Wxgoj8VFUemuBkg3)
+213 songs - 13 hr 1 min - [published](https://open.spotify.com/playlist/0fsDW9Wxgoj8VFUemuBkg3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Never Coming Home](https://open.spotify.com/track/417NzypnPVicWbske0doX7) | [Shirazee](https://open.spotify.com/artist/3yZDwFnQlK2pgG8hu5knnu) | [Never Coming Home](https://open.spotify.com/album/7mWOGsPRO497bpKlmSRMe8) | 4:00 | 2022-03-31 | 2022-04-21 |
 | [New Conditions](https://open.spotify.com/track/4BkP6lsgSdDhNT4tMBrZL0) | [April](https://open.spotify.com/artist/4szhr7vkREIJ7DlW49pF5d) | [New Conditions](https://open.spotify.com/album/70Yah64dNgY3D7xgJwRlub) | 3:07 | 2021-11-12 | 2022-06-01 |
 | [Nice](https://open.spotify.com/track/0dMIDyuC4EjrXxMTGArX4A) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Nice](https://open.spotify.com/album/3mKtcDJnJJatWsHKKaA9WR) | 3:15 | 2022-06-06 | 2022-08-13 |
+| [Night Moves](https://open.spotify.com/track/7iOSaQAmLZNege7dXunnsE) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Night Moves](https://open.spotify.com/album/26HYYCUQFcYbQHGKnDabuW) | 3:08 | 2022-08-12 |  |
 | [Nightjar And The Nightingale](https://open.spotify.com/track/24b6nKhfTwjV3loZHkFUli) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Nightjar and the Nightingale](https://open.spotify.com/album/3uqQVXRX8Yoq88qiXXJyjk) | 4:31 | 2022-03-31 |  |
 | [Nightmare Town](https://open.spotify.com/track/6wbiM1tYV2OSsbddUSILCt) | [Altameda](https://open.spotify.com/artist/01KXhlX2PCz5Uiw7d5eryb) | [Nightmare Town](https://open.spotify.com/album/4Vkqv8l95KNbujVrIEPlSN) | 3:37 | 2022-03-31 | 2022-04-20 |
 | [Nothing's Easy](https://open.spotify.com/track/1povuYrqeLKTMLEOUUXoAw) | [Tiz McNamara](https://open.spotify.com/artist/15ulC0nwlKgA3hYyr4QgvS) | [Nothing's Easy](https://open.spotify.com/album/724CbdLUXd9kJnXCCOR8Mo) | 3:06 | 2022-03-31 | 2022-04-20 |
@@ -154,7 +155,7 @@
 | [Pick Apart](https://open.spotify.com/track/0ssUuvHbzmex6n2ZojDvuS) | [Samantha Crain](https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS) | [Pick Apart](https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO) | 3:35 | 2021-11-12 | 2022-07-29 |
 | [Pink Pools](https://open.spotify.com/track/01IeBj8Ep24Pgeh2WilK3E) | [Eleni Drake](https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow) | [Can't Stop The Dawn](https://open.spotify.com/album/0x9Rt5SlVWjeI2TjGkACLL) | 3:18 | 2021-11-12 | 2022-07-26 |
 | [Pink Pools](https://open.spotify.com/track/2RR5kSUsSzde2ybCa2VOhP) | [Eleni Drake](https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow) | [Pink Pools](https://open.spotify.com/album/3hwL7txBctOFSiWmIaOofH) | 3:18 | 2021-11-12 | 2022-07-29 |
-| [Please Don't Hide Yourself Away](https://open.spotify.com/track/4BeOtHTrVDazx007bGFFNL) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi), [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Please Don't Hide Yourself Away](https://open.spotify.com/album/5HFkJLsDlD7eudQ2DQNRIx) | 3:10 | 2022-08-12 |  |
+| [Please Don't Hide Yourself Away](https://open.spotify.com/track/4BeOtHTrVDazx007bGFFNL) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi), [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Please Don't Hide Yourself Away](https://open.spotify.com/album/5HFkJLsDlD7eudQ2DQNRIx) | 3:10 | 2022-08-12 | 2022-09-19 |
 | [Plumes](https://open.spotify.com/track/6VowD9ukL0ia22ivY2MvTH) | [Ed Nash](https://open.spotify.com/artist/4XQbatF1exGRw7gdiYMhsH) | [Plumes](https://open.spotify.com/album/6tSCtGGfSThaE7xz82XDvC) | 3:11 | 2021-11-12 | 2022-04-21 |
 | [Powerlines](https://open.spotify.com/track/7MKHEwNOziXwWCtmd4QVRO) | [Cassia](https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX) | [Powerlines](https://open.spotify.com/album/0fbOEXiz2dwuN1j58Gxtd7) | 3:24 | 2021-11-12 | 2022-07-27 |
 | [Pretend](https://open.spotify.com/track/6atMbXoRFejwytU6RgU3mT) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4), [BOYO](https://open.spotify.com/artist/1puLsaxX9EwudKrNBUVFe4) | [Pretend](https://open.spotify.com/album/6NSuOgZuuljNIn5nZNleRA) | 4:03 | 2021-11-12 | 2022-07-20 |

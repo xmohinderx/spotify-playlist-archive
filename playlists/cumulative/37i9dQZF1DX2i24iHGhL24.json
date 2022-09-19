@@ -2032,6 +2032,24 @@
     },
     {
       "album": {
+        "name": "gives you hell",
+        "url": "https://open.spotify.com/album/3vcwsAuQDHilvVdPS8HRwS"
+      },
+      "artists": [
+        {
+          "name": "Eva Snyder",
+          "url": "https://open.spotify.com/artist/6qwzV9a2lGZLfTmXXhkP4l"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208866,
+      "name": "gives you hell",
+      "url": "https://open.spotify.com/track/6ur0EUPKCb3YcwqCo04EGF"
+    },
+    {
+      "album": {
         "name": "glimpse of us",
         "url": "https://open.spotify.com/album/3O5iR8V0ZK340xpIIcUCVQ"
       },

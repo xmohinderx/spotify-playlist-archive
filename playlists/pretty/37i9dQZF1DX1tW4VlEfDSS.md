@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 
 > A feel\-good soulful house  and disco selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,068 likes - 60 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,110 likes - 60 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 | 41 | [Come Back](https://open.spotify.com/track/1l0MYkKzmFoBzlS9iZmvAu) | [NIMMO](https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl) | [Come Back](https://open.spotify.com/album/1cXkPZuXwZLqHZdGBlKgWi) | 4:37 |
 | 42 | [Disco Hearts](https://open.spotify.com/track/5XZgARVFrnVsMThGk0CFTl) | [Illyus & Barrientos](https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C), [Laura Davie](https://open.spotify.com/artist/6M3bolFum1y8rBbrubby1f) | [Disco Hearts](https://open.spotify.com/album/6Vo4WqFrhsw3syolQR4nAg) | 3:01 |
 | 43 | [Love the Way \(Happiness\)](https://open.spotify.com/track/1okhlrAG0YsKTx9PpPprXv) | [Mojjo](https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j), [Meca](https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ), [LUISAH](https://open.spotify.com/artist/2jbmRtqNLORtXQWb8s9RFG) | [Love the Way \(Happiness\)](https://open.spotify.com/album/4qCfn7HrbThJdvhzh66g8R) | 3:35 |
-| 44 | [Living on Video \- Claptone Remix](https://open.spotify.com/track/2c8WUPaH87mh35xf8i0SwG) | [Trans\-X](https://open.spotify.com/artist/4JyfkCTV9FO5Yipee3f9EI), [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [Living on Video \(Claptone Remix\)](https://open.spotify.com/album/1KXL9ctFWXGDPEAPCx5Qbp) | 3:34 |
-| 45 | [Riviera](https://open.spotify.com/track/5fR1gKyVaQOFsUe9XWz6Pg) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl) | [Riviera](https://open.spotify.com/album/0Mx39nltkydoVI9Z7jpFAZ) | 3:32 |
+| 44 | [Riviera](https://open.spotify.com/track/5fR1gKyVaQOFsUe9XWz6Pg) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl) | [Riviera](https://open.spotify.com/album/0Mx39nltkydoVI9Z7jpFAZ) | 3:32 |
+| 45 | [Living on Video \- Claptone Remix](https://open.spotify.com/track/2c8WUPaH87mh35xf8i0SwG) | [Trans\-X](https://open.spotify.com/artist/4JyfkCTV9FO5Yipee3f9EI), [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [Living on Video \(Claptone Remix\)](https://open.spotify.com/album/1KXL9ctFWXGDPEAPCx5Qbp) | 3:34 |
 | 46 | [Rescue Me](https://open.spotify.com/track/4KwWLMzhw4tA3hFCiMfhlB) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Rescue Me](https://open.spotify.com/album/22GaT6kKhz98n3GRieuXte) | 2:27 |
 | 47 | [It’s Alright](https://open.spotify.com/track/3yilgLESv6zoBnGPsRM7Qh) | [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz), [George Smeddles](https://open.spotify.com/artist/5HT6hDqzq0B7EFlokN0hK2), [Paris Brightledge](https://open.spotify.com/artist/0qYaFWcuXTF2AsQ49N6Kul) | [It’s Alright](https://open.spotify.com/album/6iFgMXDNtmp5byEle3guZg) | 3:30 |
 | 48 | [You Ain't Love \(feat\. Teni Tinks\)](https://open.spotify.com/track/3phnlxvLFtIwNo5ecUtLuN) | [The Shapeshifters](https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP), [Teni Tinks](https://open.spotify.com/artist/4CeG8RL5NUdWJw8BeG5gQs) | [You Ain't Love \(feat\. Teni Tinks\)](https://open.spotify.com/album/1krEcbbjaM3WoCJq8FecTA) | 4:31 |
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 | 52 | [Closer](https://open.spotify.com/track/2uRCNWP7u6JSo1ypJ7qJMx) | [Aevion](https://open.spotify.com/artist/6y5Fs04MNlsUCyAgvXkSxg) | [Closer](https://open.spotify.com/album/4M1Ge6mFbDrV1LdQFiVtRE) | 4:10 |
 | 53 | [You Can Not Hold Back \(feat\. Koffee\) \- \[Edit\]](https://open.spotify.com/track/5hECCXn5TAixa5WkwTbv2i) | [Trutopia](https://open.spotify.com/artist/5DiMSJgUwT3jluRsGj4h4o), [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Nervous Brooklyn Sessions 2020](https://open.spotify.com/album/50e5D9fawQngkhs5c9XROS) | 2:36 |
 | 54 | [On My Mind](https://open.spotify.com/track/0Ret48IIcgcQdB54orjZKS) | [Tom Everett](https://open.spotify.com/artist/3cqEzT9Vye9tH2wlY2pAZK) | [On My Mind](https://open.spotify.com/album/7G1JFppuNI2Q0kSe2W2AkB) | 3:26 |
-| 55 | [My Love](https://open.spotify.com/track/3G5oXaBG274gRp1aHjnMvu) | [Redondo](https://open.spotify.com/artist/3T0HSMgUpuH1hXbT1JPwQF), [Charles J](https://open.spotify.com/artist/7lmPlDYovClFuOyfyzbDYS) | [My Love](https://open.spotify.com/album/6MierPcAi3tuJ4MKd74vKF) | 2:45 |
-| 56 | [On My Mind \- Radio Mix](https://open.spotify.com/track/14K2ewiWrVf9qTRoT804Xm) | [Sandy's Groove](https://open.spotify.com/artist/1rQ5LaR4qHhLJ4BncWFTOd) | [On My Mind](https://open.spotify.com/album/1wUQMc1v5gj9n5cqYlLup6) | 4:00 |
-| 57 | [You Are the Sun \- Sun Up Mix](https://open.spotify.com/track/7LE9T4XBDParc9tDvNf29H) | [TEE MANGO](https://open.spotify.com/artist/67tocPg0kong7iBiBWQiFH) | [You Are the Sun](https://open.spotify.com/album/6SjcvByXu9QPvEJv01SI7Q) | 6:48 |
-| 58 | [Second Chance \(feat\. Kimberly Davis\)](https://open.spotify.com/track/1hx5zZoz6ARiIAss9hL7tz) | [The Shapeshifters](https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP), [Kimberly Davis](https://open.spotify.com/artist/1mQYmp7PviGfyjSb2oJ6gJ) | [Second Chance \(feat\. Kimberly Davis\)](https://open.spotify.com/album/22pSFdjEFh3dbm3TCw8sXc) | 3:24 |
+| 55 | [On My Mind \- Radio Mix](https://open.spotify.com/track/14K2ewiWrVf9qTRoT804Xm) | [Sandy's Groove](https://open.spotify.com/artist/1rQ5LaR4qHhLJ4BncWFTOd) | [On My Mind](https://open.spotify.com/album/1wUQMc1v5gj9n5cqYlLup6) | 4:00 |
+| 56 | [My Love](https://open.spotify.com/track/3G5oXaBG274gRp1aHjnMvu) | [Redondo](https://open.spotify.com/artist/3T0HSMgUpuH1hXbT1JPwQF), [Charles J](https://open.spotify.com/artist/7lmPlDYovClFuOyfyzbDYS) | [My Love](https://open.spotify.com/album/6MierPcAi3tuJ4MKd74vKF) | 2:45 |
+| 57 | [Second Chance \(feat\. Kimberly Davis\)](https://open.spotify.com/track/1hx5zZoz6ARiIAss9hL7tz) | [The Shapeshifters](https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP), [Kimberly Davis](https://open.spotify.com/artist/1mQYmp7PviGfyjSb2oJ6gJ) | [Second Chance \(feat\. Kimberly Davis\)](https://open.spotify.com/album/22pSFdjEFh3dbm3TCw8sXc) | 3:24 |
+| 58 | [Say Mama](https://open.spotify.com/track/1dWVnxjhpYqkD1PrHI7GS2) | [Alex Preston](https://open.spotify.com/artist/0f8HuVIxsHG6bnEZsz0RuD) | [Say Mama](https://open.spotify.com/album/4RgJere6EOhvRuVNrC6KzU) | 2:57 |
 | 59 | [Can't Get Enough](https://open.spotify.com/track/6mV3L1waATvE15NeMHGtUy) | [Birdee](https://open.spotify.com/artist/3bSjUrJcV80nkkypJHElmv), [Andre Espeut](https://open.spotify.com/artist/3KYR1NVEcMfJ657LhKRpJn) | [Can't Get Enough](https://open.spotify.com/album/3Gwd3lkWQToLPDwYEWxGaZ) | 4:27 |
-| 60 | [Say Mama](https://open.spotify.com/track/1dWVnxjhpYqkD1PrHI7GS2) | [Alex Preston](https://open.spotify.com/artist/0f8HuVIxsHG6bnEZsz0RuD) | [Say Mama](https://open.spotify.com/album/4RgJere6EOhvRuVNrC6KzU) | 2:57 |
+| 60 | [You Are the Sun \- Sun Up Mix](https://open.spotify.com/track/7LE9T4XBDParc9tDvNf29H) | [TEE MANGO](https://open.spotify.com/artist/67tocPg0kong7iBiBWQiFH) | [You Are the Sun](https://open.spotify.com/album/6SjcvByXu9QPvEJv01SI7Q) | 6:48 |
 
-Snapshot ID: `MTY0NzAxNTcyNSwwMDAwMDAwMGEyNWE0Zjk3NDkyZWZmZGMzOGZkNjhlZGJlMzM5Mjc4`
+Snapshot ID: `MTY0NzAxNTcyNSwwMDAwMDAwMDM4YjY1OTlhYWUxNjZlNTM3YTc5YjZkN2U1OWE4NmJj`

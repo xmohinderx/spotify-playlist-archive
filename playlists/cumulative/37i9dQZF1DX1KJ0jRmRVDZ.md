@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-448 songs - 1 day 1 hr 45 min - [published](https://open.spotify.com/playlist/5QuqpfHvCVk049tCrncQUc)
+449 songs - 1 day 1 hr 49 min - [published](https://open.spotify.com/playlist/5QuqpfHvCVk049tCrncQUc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Night Town](https://open.spotify.com/track/4iAC8GgCMygq8yw7Hoci7Z) | [R+...](https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32) | [Night Town](https://open.spotify.com/album/2RhDjYQOmgyUq8GEwBO9cx) | 2:20 | 2022-07-26 | 2022-07-29 |
 | [No title \- Seaside Remix](https://open.spotify.com/track/3EVQv88JzEKwUf4gSyAtZm) | [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ), [ぬゆり](https://open.spotify.com/artist/3ZIOAB6YRggYj0LIG6JLXx) | [No title \- Seaside Remix](https://open.spotify.com/album/09ZfLnBpF3nmeLqFr8avZg) | 4:12 | 2022-08-16 | 2022-08-31 |
 | [OVER THE ACE](https://open.spotify.com/track/311MxW4JKprt5fv7YMKTyZ) | [つきみぐー](https://open.spotify.com/artist/5baN3ZS9YkfLwQikQcllYI) | [OVER THE ACE](https://open.spotify.com/album/1XrxiqPsDqBSAoqBPhcN7z) | 4:16 | 2022-07-14 | 2022-07-16 |
+| [Overdose](https://open.spotify.com/track/2Dzzhb1oV5ckgOjWZLraIB) | [なとり](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Overdose](https://open.spotify.com/album/1ieXthJ9zXRWqTU8ROAeJa) | 3:17 | 2022-09-15 |  |
 | [oxygen](https://open.spotify.com/track/1RYbwTKMI4JR86drI4IDIt) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [oxygen](https://open.spotify.com/album/7n5DPNlVjeFaFkTNJyro7o) | 2:48 | 2022-06-21 | 2022-06-29 |
 | [Oz.](https://open.spotify.com/track/2VRcLEvQCMByWBuvM9gaJ2) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Oz.](https://open.spotify.com/album/7C3ayPvTdGuzNCUZL7wLNQ) | 3:14 | 2022-06-09 |  |
 | [PAKU](https://open.spotify.com/track/6nYezkgAePhAmnxNTQRsLV) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [PAKU](https://open.spotify.com/album/2nHwbkFhdzyC79w5Js8Asy) | 2:05 | 2022-06-13 |  |
@@ -228,7 +229,7 @@
 | [ダークルーム](https://open.spotify.com/track/7sm1J9BbrNaOaTaF9I5f7B) | [Dios](https://open.spotify.com/artist/6dPVBimWWkHAzbOcfOmOYu) | [ダークルーム](https://open.spotify.com/album/0enb4QkhRZPSzNsH0immrH) | 2:55 | 2022-06-14 | 2022-07-02 |
 | [チノカテ](https://open.spotify.com/track/7w1taFiEu8GGQJkzQaEWpx) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [チノカテ](https://open.spotify.com/album/1ItS3Da6sbCmwwTgkBHttk) | 4:08 | 2022-08-30 |  |
 | [チャイニーズブルー](https://open.spotify.com/track/3fI3sur34KpeY4I7ZmZmph) | [meiyo](https://open.spotify.com/artist/6ggtLFRSvZsS61lbxLujd9) | [チャイニーズブルー](https://open.spotify.com/album/4cHuPNTErffuzP4wdDuJHl) | 2:10 | 2022-06-16 | 2022-07-25 |
-| [ツバメ \(feat\. ミドリーズ\)](https://open.spotify.com/track/0yzX8MYYJHw7A3PLvgEc7e) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj), [ミドリーズ](https://open.spotify.com/artist/3y1b2eef2HLeYyqFJLtH4p) | [ツバメ \(feat\. ミドリーズ\)](https://open.spotify.com/album/3hLagbbi0Ud7VLJC9AxiTr) | 3:37 | 2022-06-09 |  |
+| [ツバメ \(feat\. ミドリーズ\)](https://open.spotify.com/track/0yzX8MYYJHw7A3PLvgEc7e) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj), [ミドリーズ](https://open.spotify.com/artist/3y1b2eef2HLeYyqFJLtH4p) | [ツバメ \(feat\. ミドリーズ\)](https://open.spotify.com/album/3hLagbbi0Ud7VLJC9AxiTr) | 3:37 | 2022-06-09 | 2022-09-19 |
 | [テレキャスタービーボーイ](https://open.spotify.com/track/1ROD2ELpcPJNGexb1oxV3R) | [麻婆豆腐](https://open.spotify.com/artist/4rDjKnJ4UDzfROtTs37kDT) | [テレキャスタービーボーイ](https://open.spotify.com/album/08V9xGeTdDTy8WIlbYwRVR) | 2:50 | 2022-06-14 | 2022-06-16 |
 | [テレフォン・ラブ](https://open.spotify.com/track/3qyTid7Q3Nm6vwjHSgnaRG) | [PARED](https://open.spotify.com/artist/6LTMDeytAJfS4q9u28JYl0) | [テレフォン・ラブ](https://open.spotify.com/album/5rFbPS2qeENPzhpKNPAHe6) | 4:03 | 2022-06-09 | 2022-07-16 |
 | [デスぺレート](https://open.spotify.com/track/2HkSkpTUMolgOJldoaWFII) | [TeddyLoid](https://open.spotify.com/artist/3GfNJrDTZY7voXPDx8gH9I), [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [LOLUET](https://open.spotify.com/artist/5JoNnbXEGcykxL6fHRNola) | [デスぺレート](https://open.spotify.com/album/2wKuX8N0UVlwsBxFVPVIso) | 2:53 | 2022-09-14 |  |

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Achis achis los mariachis! ",
-  "num_followers": 12524,
+  "num_followers": 12553,
   "original_name": "Mariachi Loco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzE1NTI0MiwwMDAwMDAwMGNmNDg5Y2FmZTljZTE0OTYzMDY5NmE1YWZmMDEyMDYw",
+  "snapshot_id": "MTY0MzE1NTI0MiwwMDAwMDAwMDQxY2FjMmY0YTU5NWI5MTBiYWFlNzkwNGQ1Y2JhNzlh",
   "tracks": [
     {
       "added_at": "2022-01-26 00:00:42",
@@ -587,22 +587,6 @@
     {
       "added_at": "2022-01-26 00:00:42",
       "album": {
-        "name": "Y Tenerte Otra Vez",
-        "url": "https://open.spotify.com/album/3XOL5NajeukV0zKqmexjC5"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 141375,
-      "name": "El Mecate",
-      "url": "https://open.spotify.com/track/4GeAHN6TGFh32Yan6KgyAs"
-    },
-    {
-      "added_at": "2022-01-26 00:00:42",
-      "album": {
         "name": "Puras Rancheritas",
         "url": "https://open.spotify.com/album/55D5G5C78fRVD5pcDKO2Ev"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 161985,
       "name": "La Huevona",
       "url": "https://open.spotify.com/track/7BfMKclY3GQ0opA0fK7d9N"
+    },
+    {
+      "added_at": "2022-01-26 00:00:42",
+      "album": {
+        "name": "Y Tenerte Otra Vez",
+        "url": "https://open.spotify.com/album/3XOL5NajeukV0zKqmexjC5"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 141375,
+      "name": "El Mecate",
+      "url": "https://open.spotify.com/track/4GeAHN6TGFh32Yan6KgyAs"
     },
     {
       "added_at": "2022-01-26 00:00:42",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-01-26 00:00:42",
       "album": {
-        "name": "57 Aniversario",
-        "url": "https://open.spotify.com/album/5NJ4vWaVFLcIpQAxT8t9Lu"
-      },
-      "artists": [
-        {
-          "name": "Pedro Infante",
-          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
-        }
-      ],
-      "duration_ms": 192706,
-      "name": "Adi\u00f3s mis chorreadas",
-      "url": "https://open.spotify.com/track/6doE0vQHWZDpg3Yj4NKYjJ"
-    },
-    {
-      "added_at": "2022-01-26 00:00:42",
-      "album": {
         "name": "Pedro Infante Con Banda",
         "url": "https://open.spotify.com/album/4AB6kzi9s6lBccjhoNcA6s"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 116560,
       "name": "El gavil\u00e1n pollero (feat. la Banda Estrellas de Sinaloa de Germ\u00e1n Liz\u00e1rraga)",
       "url": "https://open.spotify.com/track/7BHcZVdtSGyw1AbD4gi6w7"
+    },
+    {
+      "added_at": "2022-01-26 00:00:42",
+      "album": {
+        "name": "57 Aniversario",
+        "url": "https://open.spotify.com/album/5NJ4vWaVFLcIpQAxT8t9Lu"
+      },
+      "artists": [
+        {
+          "name": "Pedro Infante",
+          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
+        }
+      ],
+      "duration_ms": 192706,
+      "name": "Adi\u00f3s mis chorreadas",
+      "url": "https://open.spotify.com/track/6doE0vQHWZDpg3Yj4NKYjJ"
     },
     {
       "added_at": "2022-01-26 00:00:42",

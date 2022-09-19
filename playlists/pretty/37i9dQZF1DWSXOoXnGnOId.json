@@ -1,12 +1,12 @@
 {
   "description": "A new take on the freshest dance tracks with remixes from Dubdogz & J\u00d8RD, Sonny Fodera, LP Giobbi and more!",
-  "num_followers": 14100,
+  "num_followers": 14103,
   "original_name": "mint Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMGQ2NTA2YTYzYzg0MWQxMDJjZWVlOTFjNjc4YzAyOGI4",
+  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMDAyODJhYzk3OGVjY2M0NGU4Zjk1MmE3NGZkNzRiYWNm",
   "tracks": [
     {
       "added_at": "2021-07-30 04:00:00",
@@ -987,26 +987,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "I Want Love (Cat Dealers Remix)",
-        "url": "https://open.spotify.com/album/5gTxOtz0Kmo1aD3jLfm7XS"
-      },
-      "artists": [
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "Cat Dealers",
-          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
-        }
-      ],
-      "duration_ms": 221904,
-      "name": "I Want Love - Cat Dealers Remix",
-      "url": "https://open.spotify.com/track/1EHntR301ugg07W2JBUZhK"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Goodbye (James Hype Remix)",
         "url": "https://open.spotify.com/album/0juzFtdyALU3bVvLeeONT4"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 178095,
       "name": "Goodbye - James Hype Remix",
       "url": "https://open.spotify.com/track/03P46zY3Wf8i2d7X03lHvC"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "I Want Love (Cat Dealers Remix)",
+        "url": "https://open.spotify.com/album/5gTxOtz0Kmo1aD3jLfm7XS"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Cat Dealers",
+          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
+        }
+      ],
+      "duration_ms": 221904,
+      "name": "I Want Love - Cat Dealers Remix",
+      "url": "https://open.spotify.com/track/1EHntR301ugg07W2JBUZhK"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1159,6 +1159,26 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "Tell Me I'm Pretty (Icona Pop Remix)",
+        "url": "https://open.spotify.com/album/79eKu1DKlIwvr2HPakP3tI"
+      },
+      "artists": [
+        {
+          "name": "Brynn Elliott",
+          "url": "https://open.spotify.com/artist/43AN9FNovCCWxPX4talyzz"
+        },
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        }
+      ],
+      "duration_ms": 159425,
+      "name": "Tell Me I'm Pretty - Icona Pop Remix",
+      "url": "https://open.spotify.com/track/1mvIcYU3FXLiXIHyX0QqP5"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "Aurora (The Remixes)",
         "url": "https://open.spotify.com/album/6Gv5PgU3GUfVRL45CE2Qa6"
       },
@@ -1179,26 +1199,6 @@
       "duration_ms": 169053,
       "name": "Aurora (Hard Lights Remix)",
       "url": "https://open.spotify.com/track/0esrr1kWuUvArhYC1JZ7vL"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "Tell Me I'm Pretty (Icona Pop Remix)",
-        "url": "https://open.spotify.com/album/79eKu1DKlIwvr2HPakP3tI"
-      },
-      "artists": [
-        {
-          "name": "Brynn Elliott",
-          "url": "https://open.spotify.com/artist/43AN9FNovCCWxPX4talyzz"
-        },
-        {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
-        }
-      ],
-      "duration_ms": 159425,
-      "name": "Tell Me I'm Pretty - Icona Pop Remix",
-      "url": "https://open.spotify.com/track/1mvIcYU3FXLiXIHyX0QqP5"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1487,30 +1487,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Safe With Me (feat. Audrey Mika) [TELYKast Remix]",
-        "url": "https://open.spotify.com/album/5pL739VFxeeskpvmeZm0Wm"
-      },
-      "artists": [
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "Audrey Mika",
-          "url": "https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp"
-        },
-        {
-          "name": "TELYKast",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Safe With Me (feat. Audrey Mika) - TELYKast Remix",
-      "url": "https://open.spotify.com/track/7anpvzufgVXCtL0Z84UPGp"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Teen Scene (Remixes)",
         "url": "https://open.spotify.com/album/7Bv9aPTB8Fm0bEA6FLCz4I"
       },
@@ -1531,6 +1507,30 @@
       "duration_ms": 271915,
       "name": "Teen Scene (ft Buddy) - Wax Motif Remix",
       "url": "https://open.spotify.com/track/79IJUGY4ELv8iMeAGYk83S"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Safe With Me (feat. Audrey Mika) [TELYKast Remix]",
+        "url": "https://open.spotify.com/album/5pL739VFxeeskpvmeZm0Wm"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Audrey Mika",
+          "url": "https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp"
+        },
+        {
+          "name": "TELYKast",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Safe With Me (feat. Audrey Mika) - TELYKast Remix",
+      "url": "https://open.spotify.com/track/7anpvzufgVXCtL0Z84UPGp"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1667,30 +1667,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Nightlight (The Remixes, Vol. 2)",
-        "url": "https://open.spotify.com/album/29iZ0UJSGBmStGvhvsR0Fv"
-      },
-      "artists": [
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
-        {
-          "name": "Annika Wells",
-          "url": "https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ"
-        },
-        {
-          "name": "MOTi",
-          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
-        }
-      ],
-      "duration_ms": 188571,
-      "name": "Nightlight - MOTi Remix",
-      "url": "https://open.spotify.com/track/5a9mPrXe4KRdpxGaGFJ3HE"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Underwater (Dombresky Remix)",
         "url": "https://open.spotify.com/album/1nc7oYlY0Dvy5bCOdEzb25"
       },
@@ -1711,6 +1687,30 @@
       "duration_ms": 161500,
       "name": "Underwater - Dombresky Remix",
       "url": "https://open.spotify.com/track/2Dg1l36X48GhvtBAZKna9z"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Nightlight (The Remixes, Vol. 2)",
+        "url": "https://open.spotify.com/album/29iZ0UJSGBmStGvhvsR0Fv"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Annika Wells",
+          "url": "https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ"
+        },
+        {
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "Nightlight - MOTi Remix",
+      "url": "https://open.spotify.com/track/5a9mPrXe4KRdpxGaGFJ3HE"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1943,26 +1943,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Space (Remixes)",
-        "url": "https://open.spotify.com/album/4s8FtZOAWCXamQjW4SXNpc"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "Nathan Dawe",
-          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
-        }
-      ],
-      "duration_ms": 143139,
-      "name": "Space - Nathan Dawe Remix",
-      "url": "https://open.spotify.com/track/32WJqqRF1bvWG9EAF54siR"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Hadal Ahbek (R3HAB Club Remix)",
         "url": "https://open.spotify.com/album/4kPXQR5D2nzv37h8IVKFpd"
       },
@@ -1983,26 +1963,22 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "My Feelings",
-        "url": "https://open.spotify.com/album/6XnzdnYMwOIEgVMEewejQe"
+        "name": "Space (Remixes)",
+        "url": "https://open.spotify.com/album/4s8FtZOAWCXamQjW4SXNpc"
       },
       "artists": [
         {
-          "name": "Serhat Durmus",
-          "url": "https://open.spotify.com/artist/1R2iRWvuwwokMKGHirNGTD"
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
         },
         {
-          "name": "Mokita",
-          "url": "https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE"
-        },
-        {
-          "name": "Georgia Ku",
-          "url": "https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM"
+          "name": "Nathan Dawe",
+          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
         }
       ],
-      "duration_ms": 181922,
-      "name": "My Feelings - Mokita Remix",
-      "url": "https://open.spotify.com/track/2XTZYSCs3FrfDbDylamb4T"
+      "duration_ms": 143139,
+      "name": "Space - Nathan Dawe Remix",
+      "url": "https://open.spotify.com/track/32WJqqRF1bvWG9EAF54siR"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2027,6 +2003,30 @@
       "duration_ms": 332691,
       "name": "Pomegranate - Jay Robinson Remix",
       "url": "https://open.spotify.com/track/7v94HEWxH9qdM5eAXcY2lR"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "My Feelings",
+        "url": "https://open.spotify.com/album/6XnzdnYMwOIEgVMEewejQe"
+      },
+      "artists": [
+        {
+          "name": "Serhat Durmus",
+          "url": "https://open.spotify.com/artist/1R2iRWvuwwokMKGHirNGTD"
+        },
+        {
+          "name": "Mokita",
+          "url": "https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE"
+        },
+        {
+          "name": "Georgia Ku",
+          "url": "https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM"
+        }
+      ],
+      "duration_ms": 181922,
+      "name": "My Feelings - Mokita Remix",
+      "url": "https://open.spotify.com/track/2XTZYSCs3FrfDbDylamb4T"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2111,6 +2111,26 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "Purple Hat (KC Lights Remix)",
+        "url": "https://open.spotify.com/album/60sAv1uLAQKTLvf50VKLUA"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        },
+        {
+          "name": "KC Lights",
+          "url": "https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ"
+        }
+      ],
+      "duration_ms": 209959,
+      "name": "Purple Hat - KC Lights Remix",
+      "url": "https://open.spotify.com/track/3NtlZBjTJNggbfNFzTw0z7"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "tell me what you\u2019re thinking (Remixes)",
         "url": "https://open.spotify.com/album/1r9rQcfPM8fatgA50Jzv1B"
       },
@@ -2147,26 +2167,6 @@
       "duration_ms": 384000,
       "name": "PURE (Reinier Zonneveld Remix)",
       "url": "https://open.spotify.com/track/6hJiNgxOiuoVYXCLW2kQQE"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "Purple Hat (KC Lights Remix)",
-        "url": "https://open.spotify.com/album/60sAv1uLAQKTLvf50VKLUA"
-      },
-      "artists": [
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        },
-        {
-          "name": "KC Lights",
-          "url": "https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ"
-        }
-      ],
-      "duration_ms": 209959,
-      "name": "Purple Hat - KC Lights Remix",
-      "url": "https://open.spotify.com/track/3NtlZBjTJNggbfNFzTw0z7"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2211,26 +2211,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Lifetime Remixes",
-        "url": "https://open.spotify.com/album/4cfOKU0ncsVL4PYaZ1kkiy"
-      },
-      "artists": [
-        {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
-        },
-        {
-          "name": "Jayda G",
-          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
-        }
-      ],
-      "duration_ms": 194755,
-      "name": "Lifetime - Jayda G Baleen Mix",
-      "url": "https://open.spotify.com/track/2w3dLUIDO4WqPxTbYEU5B0"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Thing Called Love (Oliver Heldens Remix)",
         "url": "https://open.spotify.com/album/1BCtDubQR4uNvXPEngj5YM"
       },
@@ -2251,6 +2231,26 @@
       "duration_ms": 338442,
       "name": "Thing Called Love - Oliver Heldens Remix",
       "url": "https://open.spotify.com/track/7BsRNfEsuGOr0cKo0GaQNN"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Lifetime Remixes",
+        "url": "https://open.spotify.com/album/4cfOKU0ncsVL4PYaZ1kkiy"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        },
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        }
+      ],
+      "duration_ms": 194755,
+      "name": "Lifetime - Jayda G Baleen Mix",
+      "url": "https://open.spotify.com/track/2w3dLUIDO4WqPxTbYEU5B0"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2299,26 +2299,26 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Praise (feat. Gunna) [Malaa Remix]",
-        "url": "https://open.spotify.com/album/7k2HFlk4QkPRDMLrb4wLif"
+        "name": "Moving Blind (Gorgon City Remix)",
+        "url": "https://open.spotify.com/album/3LbB1aic7E3WR1wSV4Z0XN"
       },
       "artists": [
         {
-          "name": "Tchami",
-          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
         },
         {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
         },
         {
-          "name": "Malaa",
-          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
         }
       ],
-      "duration_ms": 269032,
-      "name": "Praise (feat. Gunna) - Malaa Remix",
-      "url": "https://open.spotify.com/track/4J2lw1uoLmprtkdN4QEHY0"
+      "duration_ms": 203520,
+      "name": "Moving Blind - Gorgon City Remix",
+      "url": "https://open.spotify.com/track/5CpuREPN4XDQRQYxQ6udSe"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2367,26 +2367,26 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Moving Blind (Gorgon City Remix)",
-        "url": "https://open.spotify.com/album/3LbB1aic7E3WR1wSV4Z0XN"
+        "name": "Praise (feat. Gunna) [Malaa Remix]",
+        "url": "https://open.spotify.com/album/7k2HFlk4QkPRDMLrb4wLif"
       },
       "artists": [
         {
-          "name": "Sonny Fodera",
-          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+          "name": "Tchami",
+          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
         },
         {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         },
         {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
         }
       ],
-      "duration_ms": 203520,
-      "name": "Moving Blind - Gorgon City Remix",
-      "url": "https://open.spotify.com/track/5CpuREPN4XDQRQYxQ6udSe"
+      "duration_ms": 269032,
+      "name": "Praise (feat. Gunna) - Malaa Remix",
+      "url": "https://open.spotify.com/track/4J2lw1uoLmprtkdN4QEHY0"
     }
   ],
   "unique_name": "mint Remix",

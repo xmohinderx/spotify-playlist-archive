@@ -4,7 +4,7 @@
 
 > ที่สุดศิลปินรุ่นใหม่ของประเทศไทย ศิลปิน: Jeff Satur, YourMOOD, Blackbeans, The White Hair Cut, THEMOONWILLALWAYSBEWITHME, BELL WARISARA, HYBS, Saran, SPRITE, Only Monday
 
-47 songs - 2 hr 59 min - not published yet
+47 songs - 2 hr 59 min - [published](https://open.spotify.com/playlist/6rep2f24udDRiCARWl3dYC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

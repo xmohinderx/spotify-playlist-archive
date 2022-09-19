@@ -1,12 +1,12 @@
 {
   "description": "Where hip-hop and soul meets jazz. Cover: Digable Planets",
-  "num_followers": 223012,
+  "num_followers": 223225,
   "original_name": "Acid Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDIzODM1MywwMDAwMDAwMDI0YmIxODI2Nzc0OTRkZDE3NGE2ZjIyMTVkNGE2MGQ4",
+  "snapshot_id": "MTY2MDIzODM1MywwMDAwMDAwMGQ0MWQzMzE4OGU3MzJkOTEzY2EwNjQwNTM5N2VmZTA1",
   "tracks": [
     {
       "added_at": "2022-07-14 19:24:43",
@@ -59,22 +59,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "The Return of the Space Cowboy (Remastered)",
-        "url": "https://open.spotify.com/album/3emhnEQ76nUUehouSvnGxk"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 386973,
-      "name": "Space Cowboy",
-      "url": "https://open.spotify.com/track/6K53GM9W6Vle5KBwGFVnZM"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "The LP",
         "url": "https://open.spotify.com/album/7hzM3Sa8BoCKrNqrKJqyz1"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 208866,
       "name": "I Juswanna Chill",
       "url": "https://open.spotify.com/track/3ipzZgH1766XXRamVwk1Iw"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "The Return of the Space Cowboy (Remastered)",
+        "url": "https://open.spotify.com/album/3emhnEQ76nUUehouSvnGxk"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 386973,
+      "name": "Space Cowboy",
+      "url": "https://open.spotify.com/track/6K53GM9W6Vle5KBwGFVnZM"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -599,6 +599,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "Love Is The Answer (Expanded)",
+        "url": "https://open.spotify.com/album/5tfEMJRMXkGeDAkg8tE6h8"
+      },
+      "artists": [
+        {
+          "name": "Lonnie Liston Smith",
+          "url": "https://open.spotify.com/artist/2hdpXvaQJHBCZIVUd6cLvK"
+        }
+      ],
+      "duration_ms": 241373,
+      "name": "Bridge Through Time",
+      "url": "https://open.spotify.com/track/3WmH2tJbogJcrVSrtdlMPO"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "Eternal",
         "url": "https://open.spotify.com/album/59JNcEwaQUyC2xQzBJTHF9"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 226920,
       "name": "All or Nothing",
       "url": "https://open.spotify.com/track/6jWFsJT5IYVKCJEQ55L29W"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Love Is The Answer (Expanded)",
-        "url": "https://open.spotify.com/album/5tfEMJRMXkGeDAkg8tE6h8"
-      },
-      "artists": [
-        {
-          "name": "Lonnie Liston Smith",
-          "url": "https://open.spotify.com/artist/2hdpXvaQJHBCZIVUd6cLvK"
-        }
-      ],
-      "duration_ms": 241373,
-      "name": "Bridge Through Time",
-      "url": "https://open.spotify.com/track/3WmH2tJbogJcrVSrtdlMPO"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -819,26 +819,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Girl Overboard",
-        "url": "https://open.spotify.com/album/0NdSb6t3YqkSvWpuvMeGan"
-      },
-      "artists": [
-        {
-          "name": "Snowboy",
-          "url": "https://open.spotify.com/artist/6e6FiOOuM4VotvYcIdAtXn"
-        },
-        {
-          "name": "Anna Ross",
-          "url": "https://open.spotify.com/artist/0mC0yKMC54Vo9HUuGouIE2"
-        }
-      ],
-      "duration_ms": 444333,
-      "name": "Girl Overboard",
-      "url": "https://open.spotify.com/track/2DEtevLNfY859UWgk9TVqG"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "I'll Be With You",
         "url": "https://open.spotify.com/album/5MSJrMjqWAWs1H64tXzuqR"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 222000,
       "name": "I'll Be With You",
       "url": "https://open.spotify.com/track/1cPRsjayiASoq23P6Qn9sn"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Girl Overboard",
+        "url": "https://open.spotify.com/album/0NdSb6t3YqkSvWpuvMeGan"
+      },
+      "artists": [
+        {
+          "name": "Snowboy",
+          "url": "https://open.spotify.com/artist/6e6FiOOuM4VotvYcIdAtXn"
+        },
+        {
+          "name": "Anna Ross",
+          "url": "https://open.spotify.com/artist/0mC0yKMC54Vo9HUuGouIE2"
+        }
+      ],
+      "duration_ms": 444333,
+      "name": "Girl Overboard",
+      "url": "https://open.spotify.com/track/2DEtevLNfY859UWgk9TVqG"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -919,22 +919,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Joyful Noise",
-        "url": "https://open.spotify.com/album/6xQS2XV7LfBDBi745UrDsd"
-      },
-      "artists": [
-        {
-          "name": "Breakestra",
-          "url": "https://open.spotify.com/artist/0Jq39W2ruHAA8hGsheXIYG"
-        }
-      ],
-      "duration_ms": 310214,
-      "name": "Dark Clouds Rain Soul - Dub",
-      "url": "https://open.spotify.com/track/7DSKKjkdXccZpbhz0AhWZM"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Culture Of Fear",
         "url": "https://open.spotify.com/album/06CDsx2HDFn57Y66uNI7Iz"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 272800,
       "name": "Web of Deception",
       "url": "https://open.spotify.com/track/3n6SFPAFoF0YyBcMEk1zYc"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Joyful Noise",
+        "url": "https://open.spotify.com/album/6xQS2XV7LfBDBi745UrDsd"
+      },
+      "artists": [
+        {
+          "name": "Breakestra",
+          "url": "https://open.spotify.com/artist/0Jq39W2ruHAA8hGsheXIYG"
+        }
+      ],
+      "duration_ms": 310214,
+      "name": "Dark Clouds Rain Soul - Dub",
+      "url": "https://open.spotify.com/track/7DSKKjkdXccZpbhz0AhWZM"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -983,22 +983,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Pizza Pie",
-        "url": "https://open.spotify.com/album/2LlVQ5iXALu8K2FwD55LlF"
-      },
-      "artists": [
-        {
-          "name": "Let Your Hair Down",
-          "url": "https://open.spotify.com/artist/2gNCOsrLPLraReGsXiBgtE"
-        }
-      ],
-      "duration_ms": 186324,
-      "name": "Pizza Pie",
-      "url": "https://open.spotify.com/track/4TJryQM96qMu04X4uvdBTm"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Expansions",
         "url": "https://open.spotify.com/album/1tMUBZE5cSHtJCn0HT9FaW"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 151948,
       "name": "Space",
       "url": "https://open.spotify.com/track/6pnryYnhE5zBugXN1QxPBg"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Pizza Pie",
+        "url": "https://open.spotify.com/album/2LlVQ5iXALu8K2FwD55LlF"
+      },
+      "artists": [
+        {
+          "name": "Let Your Hair Down",
+          "url": "https://open.spotify.com/artist/2gNCOsrLPLraReGsXiBgtE"
+        }
+      ],
+      "duration_ms": 186324,
+      "name": "Pizza Pie",
+      "url": "https://open.spotify.com/track/4TJryQM96qMu04X4uvdBTm"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "True Spirit",
+        "url": "https://open.spotify.com/album/6GxnHqovqi1yRhCpLQ9LPp"
+      },
+      "artists": [
+        {
+          "name": "Carleen Anderson",
+          "url": "https://open.spotify.com/artist/6thyqrW8SkVY11NUqTyCI6"
+        }
+      ],
+      "duration_ms": 247893,
+      "name": "Mama Said",
+      "url": "https://open.spotify.com/track/7MITu04P3bpWgI1IBdmhYf"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "Nuyorican Soul",
         "url": "https://open.spotify.com/album/0UZzbwCAVQhENWItyCZm5L"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 319733,
       "name": "I Am The Black Gold Of The Sun",
       "url": "https://open.spotify.com/track/54xrXbM3vHE6JkVqkorRdG"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "True Spirit",
-        "url": "https://open.spotify.com/album/6GxnHqovqi1yRhCpLQ9LPp"
-      },
-      "artists": [
-        {
-          "name": "Carleen Anderson",
-          "url": "https://open.spotify.com/artist/6thyqrW8SkVY11NUqTyCI6"
-        }
-      ],
-      "duration_ms": 247893,
-      "name": "Mama Said",
-      "url": "https://open.spotify.com/track/7MITu04P3bpWgI1IBdmhYf"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Do You Want More?!!!??!",
-        "url": "https://open.spotify.com/album/3N0wHnD5Rd8jnTUvNqOXGz"
-      },
-      "artists": [
-        {
-          "name": "The Roots",
-          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
-        }
-      ],
-      "duration_ms": 220026,
-      "name": "Datskat",
-      "url": "https://open.spotify.com/track/0aadxOTgyCZL2ayA3GheH0"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "YUNIK\u014dN",
         "url": "https://open.spotify.com/album/0q2jVFh5OMjHzNnqh9tuzR"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 205160,
       "name": "Tokisan",
       "url": "https://open.spotify.com/track/3Jao9qWPTZsU73GnM3VlGR"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Do You Want More?!!!??!",
+        "url": "https://open.spotify.com/album/3N0wHnD5Rd8jnTUvNqOXGz"
+      },
+      "artists": [
+        {
+          "name": "The Roots",
+          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+        }
+      ],
+      "duration_ms": 220026,
+      "name": "Datskat",
+      "url": "https://open.spotify.com/track/0aadxOTgyCZL2ayA3GheH0"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Galactica Rush",
-        "url": "https://open.spotify.com/album/3920PXKQtjKRmHxhdrCusF"
+        "name": "Southern Comfort",
+        "url": "https://open.spotify.com/album/25x6id3ewH7i0pJDbDcdcD"
       },
       "artists": [
         {
-          "name": "Jhelisa",
-          "url": "https://open.spotify.com/artist/5Cku4OBzfFNMx4tdgDgFNA"
+          "name": "The Crusaders",
+          "url": "https://open.spotify.com/artist/3Bhgbs9kIwl8SuU0eIqN6b"
         }
       ],
-      "duration_ms": 320693,
-      "name": "Whirl Keeps Turning",
-      "url": "https://open.spotify.com/track/4hAQ0We3JHe2G3BELaLPpX"
+      "duration_ms": 348760,
+      "name": "Stomp And Buck Dance",
+      "url": "https://open.spotify.com/track/3yGxCCz7pMaZtSALVNcvtp"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1347,18 +1347,18 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Southern Comfort",
-        "url": "https://open.spotify.com/album/25x6id3ewH7i0pJDbDcdcD"
+        "name": "Galactica Rush",
+        "url": "https://open.spotify.com/album/3920PXKQtjKRmHxhdrCusF"
       },
       "artists": [
         {
-          "name": "The Crusaders",
-          "url": "https://open.spotify.com/artist/3Bhgbs9kIwl8SuU0eIqN6b"
+          "name": "Jhelisa",
+          "url": "https://open.spotify.com/artist/5Cku4OBzfFNMx4tdgDgFNA"
         }
       ],
-      "duration_ms": 348760,
-      "name": "Stomp And Buck Dance",
-      "url": "https://open.spotify.com/track/3yGxCCz7pMaZtSALVNcvtp"
+      "duration_ms": 320693,
+      "name": "Whirl Keeps Turning",
+      "url": "https://open.spotify.com/track/4hAQ0We3JHe2G3BELaLPpX"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Azymuth: Outubro",
-        "url": "https://open.spotify.com/album/6baaqatjoaHoivfzexDedw"
-      },
-      "artists": [
-        {
-          "name": "Azymuth",
-          "url": "https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx"
-        }
-      ],
-      "duration_ms": 274600,
-      "name": "Dear Limmertz",
-      "url": "https://open.spotify.com/track/1dbvZy2hAtgDyL4oiSyyJ4"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Check The Pulse",
         "url": "https://open.spotify.com/album/0vbBNZcVFdm712rzsXfsr5"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 154520,
       "name": "Check The Pulse",
       "url": "https://open.spotify.com/track/1JW36QtBxE4usZnSjYJz8W"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Azymuth: Outubro",
+        "url": "https://open.spotify.com/album/6baaqatjoaHoivfzexDedw"
+      },
+      "artists": [
+        {
+          "name": "Azymuth",
+          "url": "https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx"
+        }
+      ],
+      "duration_ms": 274600,
+      "name": "Dear Limmertz",
+      "url": "https://open.spotify.com/track/1dbvZy2hAtgDyL4oiSyyJ4"
     },
     {
       "added_at": "2022-07-18 17:17:22",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Friends & Strangers",
-        "url": "https://open.spotify.com/album/6kTEtsawfwnyzPhaEGVu4a"
-      },
-      "artists": [
-        {
-          "name": "Ronnie Laws",
-          "url": "https://open.spotify.com/artist/4yh5g0DWkL6kRlCH1FPAvC"
-        }
-      ],
-      "duration_ms": 420493,
-      "name": "Life In Paradise",
-      "url": "https://open.spotify.com/track/4QIs6dRSU2niujupDHv6oK"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Strata Records - the Sound of Detroit - Reimagined by Jazzanova",
         "url": "https://open.spotify.com/album/4YLG5PwYbMJQeQe3NyVUP3"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 218986,
       "name": "Creative Musicians",
       "url": "https://open.spotify.com/track/0SIP4prU3XhsWFo36S3eLI"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Friends & Strangers",
+        "url": "https://open.spotify.com/album/6kTEtsawfwnyzPhaEGVu4a"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Laws",
+          "url": "https://open.spotify.com/artist/4yh5g0DWkL6kRlCH1FPAvC"
+        }
+      ],
+      "duration_ms": 420493,
+      "name": "Life In Paradise",
+      "url": "https://open.spotify.com/track/4QIs6dRSU2niujupDHv6oK"
     },
     {
       "added_at": "2022-07-14 19:24:43",

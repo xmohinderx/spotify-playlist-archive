@@ -1,12 +1,12 @@
 {
   "description": "todo un mood. ",
-  "num_followers": 535031,
+  "num_followers": 535250,
   "original_name": "suave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTE3NzQ4MiwwMDAwMDAwMDM5OTgxZjFjODQyYmZiM2JlYzIxYjk4ZGVmYTJmYzMw",
+  "snapshot_id": "MTY2MTE3NzQ4MiwwMDAwMDAwMDJkMjkyMGFhNWU2YTQ0YjY4MDczMGFhMGU3N2E3NTQy",
   "tracks": [
     {
       "added_at": "2022-08-22 14:11:22",
@@ -943,22 +943,6 @@
     {
       "added_at": "2022-08-22 14:11:22",
       "album": {
-        "name": "Mejor No Nos Vemos",
-        "url": "https://open.spotify.com/album/0aHJ2SLyt8oeyWdvEMN3IS"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 189187,
-      "name": "Mejor No Nos Vemos",
-      "url": "https://open.spotify.com/track/6NT4RZ6CF6qFJqslGdqaRM"
-    },
-    {
-      "added_at": "2022-08-22 14:11:22",
-      "album": {
         "name": "Sigues Con El",
         "url": "https://open.spotify.com/album/1y0pdsLO6cixGzAv7Sf8rf"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 226532,
       "name": "Sigues Con El",
       "url": "https://open.spotify.com/track/7sQKy5vlPQllr0k9IjYJv3"
+    },
+    {
+      "added_at": "2022-08-22 14:11:22",
+      "album": {
+        "name": "Mejor No Nos Vemos",
+        "url": "https://open.spotify.com/album/0aHJ2SLyt8oeyWdvEMN3IS"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 189187,
+      "name": "Mejor No Nos Vemos",
+      "url": "https://open.spotify.com/track/6NT4RZ6CF6qFJqslGdqaRM"
     },
     {
       "added_at": "2022-08-22 14:11:22",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2022-08-22 14:11:22",
       "album": {
+        "name": "+Linda",
+        "url": "https://open.spotify.com/album/5ka8beHlVQAFdRm6IaZ9JQ"
+      },
+      "artists": [
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        }
+      ],
+      "duration_ms": 161748,
+      "name": "+Linda",
+      "url": "https://open.spotify.com/track/5cBrOhKDyiJF9bPGUHKkG0"
+    },
+    {
+      "added_at": "2022-08-22 14:11:22",
+      "album": {
         "name": "7 L\u00e1grimas (Remix)",
         "url": "https://open.spotify.com/album/3SPDYewQ7iwqYuLVoDOTQl"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 202894,
       "name": "7 L\u00e1grimas - Remix",
       "url": "https://open.spotify.com/track/3wlX0yg6NRMDPwOvdPmuLn"
-    },
-    {
-      "added_at": "2022-08-22 14:11:22",
-      "album": {
-        "name": "+Linda",
-        "url": "https://open.spotify.com/album/5ka8beHlVQAFdRm6IaZ9JQ"
-      },
-      "artists": [
-        {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
-        }
-      ],
-      "duration_ms": 161748,
-      "name": "+Linda",
-      "url": "https://open.spotify.com/track/5cBrOhKDyiJF9bPGUHKkG0"
     },
     {
       "added_at": "2022-08-22 14:11:22",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2022-08-22 14:11:22",
       "album": {
+        "name": "Air Drop",
+        "url": "https://open.spotify.com/album/3KxXkPVVFrxP8V11o3cgLf"
+      },
+      "artists": [
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        }
+      ],
+      "duration_ms": 205565,
+      "name": "Air Drop",
+      "url": "https://open.spotify.com/track/1WUUjDzH1ZMIPz3194CLid"
+    },
+    {
+      "added_at": "2022-08-22 14:11:22",
+      "album": {
         "name": "Amor en Coma",
         "url": "https://open.spotify.com/album/0NHD8Het1Mqslp46azKDU2"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 199881,
       "name": "Amor en Coma",
       "url": "https://open.spotify.com/track/3RasiWohReHWYM1FJ9d1ZD"
-    },
-    {
-      "added_at": "2022-08-22 14:11:22",
-      "album": {
-        "name": "Air Drop",
-        "url": "https://open.spotify.com/album/3KxXkPVVFrxP8V11o3cgLf"
-      },
-      "artists": [
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        }
-      ],
-      "duration_ms": 205565,
-      "name": "Air Drop",
-      "url": "https://open.spotify.com/track/1WUUjDzH1ZMIPz3194CLid"
     },
     {
       "added_at": "2022-08-22 14:11:22",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2022-08-22 14:11:22",
       "album": {
-        "name": "Cositas de la USA",
-        "url": "https://open.spotify.com/album/4EwZe3wzi0JWMdobUrpHIs"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 189015,
-      "name": "Cositas de la USA",
-      "url": "https://open.spotify.com/track/5c4KBG3ATUOmP8y2KHGGoI"
-    },
-    {
-      "added_at": "2022-08-22 14:11:22",
-      "album": {
         "name": "Mi Debilidad",
         "url": "https://open.spotify.com/album/5hYYAmDCghG1kmcHT5rScz"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 165957,
       "name": "Mi Debilidad",
       "url": "https://open.spotify.com/track/70LLyzO7jT6DsQvCwwHDch"
+    },
+    {
+      "added_at": "2022-08-22 14:11:22",
+      "album": {
+        "name": "Cositas de la USA",
+        "url": "https://open.spotify.com/album/4EwZe3wzi0JWMdobUrpHIs"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 189015,
+      "name": "Cositas de la USA",
+      "url": "https://open.spotify.com/track/5c4KBG3ATUOmP8y2KHGGoI"
     },
     {
       "added_at": "2022-08-22 14:11:22",
@@ -1719,30 +1719,6 @@
     {
       "added_at": "2022-08-22 14:11:22",
       "album": {
-        "name": "Suave (Remix)",
-        "url": "https://open.spotify.com/album/3L9hvsc3Ga0I1EQVHHPZgh"
-      },
-      "artists": [
-        {
-          "name": "Jey Blessing",
-          "url": "https://open.spotify.com/artist/1MVP5iQH6wMKZuOn41UHOB"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Los Fantastikos",
-          "url": "https://open.spotify.com/artist/0jaakjO6cMB5cJLeoa5aV2"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "Suave - Remix",
-      "url": "https://open.spotify.com/track/6K7V47wFpfam2aeE893rbL"
-    },
-    {
-      "added_at": "2022-08-22 14:11:22",
-      "album": {
         "name": "Club Diecis\u00e9is",
         "url": "https://open.spotify.com/album/4cvaXlyY8HozBQXr6VzsEU"
       },
@@ -1763,6 +1739,30 @@
       "duration_ms": 171832,
       "name": "A Mi Tambi\u00e9n ft. Alvaro Diaz, Feid",
       "url": "https://open.spotify.com/track/5Bc130ZswADfOY9bxk1y98"
+    },
+    {
+      "added_at": "2022-08-22 14:11:22",
+      "album": {
+        "name": "Suave (Remix)",
+        "url": "https://open.spotify.com/album/3L9hvsc3Ga0I1EQVHHPZgh"
+      },
+      "artists": [
+        {
+          "name": "Jey Blessing",
+          "url": "https://open.spotify.com/artist/1MVP5iQH6wMKZuOn41UHOB"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Los Fantastikos",
+          "url": "https://open.spotify.com/artist/0jaakjO6cMB5cJLeoa5aV2"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Suave - Remix",
+      "url": "https://open.spotify.com/track/6K7V47wFpfam2aeE893rbL"
     },
     {
       "added_at": "2022-08-22 14:11:22",
@@ -1935,6 +1935,22 @@
     {
       "added_at": "2022-08-22 14:11:22",
       "album": {
+        "name": "Timelezz",
+        "url": "https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y"
+      },
+      "artists": [
+        {
+          "name": "Jhay Cortez",
+          "url": "https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz"
+        }
+      ],
+      "duration_ms": 234520,
+      "name": "Me Extra\u00f1a",
+      "url": "https://open.spotify.com/track/2EYy5e5yDpF8yaxq8rNopo"
+    },
+    {
+      "added_at": "2022-08-22 14:11:22",
+      "album": {
         "name": "EL TREN",
         "url": "https://open.spotify.com/album/4awGSTShdK0MrxjbuFHnEY"
       },
@@ -1951,22 +1967,6 @@
       "duration_ms": 215134,
       "name": "EL TREN",
       "url": "https://open.spotify.com/track/2E5AxSvxrnRsaExLe1aaXI"
-    },
-    {
-      "added_at": "2022-08-22 14:11:22",
-      "album": {
-        "name": "Timelezz",
-        "url": "https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y"
-      },
-      "artists": [
-        {
-          "name": "Jhay Cortez",
-          "url": "https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz"
-        }
-      ],
-      "duration_ms": 234520,
-      "name": "Me Extra\u00f1a",
-      "url": "https://open.spotify.com/track/2EYy5e5yDpF8yaxq8rNopo"
     },
     {
       "added_at": "2022-08-22 14:11:22",
@@ -1995,26 +1995,6 @@
     {
       "added_at": "2022-08-22 14:11:22",
       "album": {
-        "name": "Me Enamora",
-        "url": "https://open.spotify.com/album/54eRshVtRKzHwHKGfbRKup"
-      },
-      "artists": [
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        },
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        }
-      ],
-      "duration_ms": 198591,
-      "name": "Me Enamora",
-      "url": "https://open.spotify.com/track/1bmm8qIp60aMkozpkPnxNM"
-    },
-    {
-      "added_at": "2022-08-22 14:11:22",
-      "album": {
         "name": "Palmas",
         "url": "https://open.spotify.com/album/1hfUzj7KZvo7XrwdiFdSVl"
       },
@@ -2031,6 +2011,26 @@
       "duration_ms": 171089,
       "name": "Palmas",
       "url": "https://open.spotify.com/track/3aEev62BGtfMvqUf2zbHCd"
+    },
+    {
+      "added_at": "2022-08-22 14:11:22",
+      "album": {
+        "name": "Me Enamora",
+        "url": "https://open.spotify.com/album/54eRshVtRKzHwHKGfbRKup"
+      },
+      "artists": [
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        }
+      ],
+      "duration_ms": 198591,
+      "name": "Me Enamora",
+      "url": "https://open.spotify.com/track/1bmm8qIp60aMkozpkPnxNM"
     },
     {
       "added_at": "2022-08-22 14:11:22",

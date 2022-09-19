@@ -1,13 +1,29 @@
 {
   "description": "Hand-curated cuts from the vault, no record player required. ",
-  "num_followers": 85150,
+  "num_followers": 85203,
   "original_name": "Turntable",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzI4MTE1NywwMDAwMDAwMDk4ZjQzMzI2ZWY0OGM4NGU4YWJmMzdlMDljYzdjYzAy",
+  "snapshot_id": "MTY2MzI4MTE1NywwMDAwMDAwMGMwZDEwYWM3YzA0MWQxMDZjNjhiNDY3NzFmMTJhODg3",
   "tracks": [
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
+        "name": "Danielle (smile on my face)",
+        "url": "https://open.spotify.com/album/7xni0tZQ8q2rTHkIeBYr1Y"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 201230,
+      "name": "Danielle (smile on my face)",
+      "url": "https://open.spotify.com/track/2sLVs5iX0osogh4jcsAJkv"
+    },
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
@@ -39,22 +55,6 @@
       "duration_ms": 206947,
       "name": "Wildfires",
       "url": "https://open.spotify.com/track/4Tzw9IdZbVyzmpWrvsGaNX"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
-        "name": "Danielle (smile on my face)",
-        "url": "https://open.spotify.com/album/7xni0tZQ8q2rTHkIeBYr1Y"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 201230,
-      "name": "Danielle (smile on my face)",
-      "url": "https://open.spotify.com/track/2sLVs5iX0osogh4jcsAJkv"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -183,22 +183,6 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "Remember My Song",
-        "url": "https://open.spotify.com/album/1wTqD7FSQ8XgKPy8xBUaEV"
-      },
-      "artists": [
-        {
-          "name": "Labi Siffre",
-          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
-        }
-      ],
-      "duration_ms": 395373,
-      "name": "I Got The... - 2006 Remaster",
-      "url": "https://open.spotify.com/track/20VuO95A8RxUPlShnfYArW"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
         "name": "Plastic Ono Band",
         "url": "https://open.spotify.com/album/0DFYbYCcHCEJPcN1hODG6K"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 112040,
       "name": "Hold On - Remastered 2010",
       "url": "https://open.spotify.com/track/4bN43jYf41eIjJZ3UXQpuA"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
+        "name": "Remember My Song",
+        "url": "https://open.spotify.com/album/1wTqD7FSQ8XgKPy8xBUaEV"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "duration_ms": 395373,
+      "name": "I Got The... - 2006 Remaster",
+      "url": "https://open.spotify.com/track/20VuO95A8RxUPlShnfYArW"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -263,26 +263,6 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "Marechi\u00e0",
-        "url": "https://open.spotify.com/album/2VWCyefmIWJn1trgychc0W"
-      },
-      "artists": [
-        {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
-        },
-        {
-          "name": "C\u00e9lia Kameni",
-          "url": "https://open.spotify.com/artist/7dSwsPGp84lyzlAvuqQhLt"
-        }
-      ],
-      "duration_ms": 264929,
-      "name": "Marechi\u00e0",
-      "url": "https://open.spotify.com/track/1gE7p3b4J8p4ivOCR2CO0Y"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
         "name": "soulboy (IZCO Remix)",
         "url": "https://open.spotify.com/album/63sYFrw1yLHU0k3IkCPUdX"
       },
@@ -307,6 +287,26 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
+        "name": "Marechi\u00e0",
+        "url": "https://open.spotify.com/album/2VWCyefmIWJn1trgychc0W"
+      },
+      "artists": [
+        {
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+        },
+        {
+          "name": "C\u00e9lia Kameni",
+          "url": "https://open.spotify.com/artist/7dSwsPGp84lyzlAvuqQhLt"
+        }
+      ],
+      "duration_ms": 264929,
+      "name": "Marechi\u00e0",
+      "url": "https://open.spotify.com/track/1gE7p3b4J8p4ivOCR2CO0Y"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
         "name": "Sister",
         "url": "https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL"
       },
@@ -319,6 +319,26 @@
       "duration_ms": 268829,
       "name": "Sister",
       "url": "https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
+        "name": "Another Dose (feat. Mick Jenkins)",
+        "url": "https://open.spotify.com/album/5NqQIZptkFt28aRMa62QvO"
+      },
+      "artists": [
+        {
+          "name": "Gamblers",
+          "url": "https://open.spotify.com/artist/0mkPR7AJ7qhuFaS9Eh2Lmm"
+        },
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        }
+      ],
+      "duration_ms": 138760,
+      "name": "Another Dose (feat. Mick Jenkins)",
+      "url": "https://open.spotify.com/track/09GY9rmMFHOuH3Z7sGSoKz"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -359,26 +379,6 @@
       "duration_ms": 342000,
       "name": "Nova",
       "url": "https://open.spotify.com/track/7dYjEwbLJ1B5reoz3lWra0"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
-        "name": "Another Dose (feat. Mick Jenkins)",
-        "url": "https://open.spotify.com/album/5NqQIZptkFt28aRMa62QvO"
-      },
-      "artists": [
-        {
-          "name": "Gamblers",
-          "url": "https://open.spotify.com/artist/0mkPR7AJ7qhuFaS9Eh2Lmm"
-        },
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        }
-      ],
-      "duration_ms": 138760,
-      "name": "Another Dose (feat. Mick Jenkins)",
-      "url": "https://open.spotify.com/track/09GY9rmMFHOuH3Z7sGSoKz"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -715,22 +715,22 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "Yesterday Is Heavy",
-        "url": "https://open.spotify.com/album/4RRWbTmBBpmf43GbLEtlTR"
+        "name": "Pueblo",
+        "url": "https://open.spotify.com/album/59e6mmSqB6wtHkPyGf4CrJ"
       },
       "artists": [
         {
-          "name": "Lil Silva",
-          "url": "https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn"
+          "name": "Hugo",
+          "url": "https://open.spotify.com/artist/7nDJpnTQgtM87yaive1aos"
         },
         {
-          "name": "BADBADNOTGOOD",
-          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+          "name": "DAO",
+          "url": "https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9"
         }
       ],
-      "duration_ms": 189422,
-      "name": "To The Floor",
-      "url": "https://open.spotify.com/track/7cZR9UwVtBQR3zwyDYMK9p"
+      "duration_ms": 103220,
+      "name": "Pueblo",
+      "url": "https://open.spotify.com/track/4LOw0j83cz4aaqgP555uAT"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -783,22 +783,22 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "Pueblo",
-        "url": "https://open.spotify.com/album/59e6mmSqB6wtHkPyGf4CrJ"
+        "name": "Yesterday Is Heavy",
+        "url": "https://open.spotify.com/album/4RRWbTmBBpmf43GbLEtlTR"
       },
       "artists": [
         {
-          "name": "Hugo",
-          "url": "https://open.spotify.com/artist/7nDJpnTQgtM87yaive1aos"
+          "name": "Lil Silva",
+          "url": "https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn"
         },
         {
-          "name": "DAO",
-          "url": "https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9"
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
         }
       ],
-      "duration_ms": 103220,
-      "name": "Pueblo",
-      "url": "https://open.spotify.com/track/4LOw0j83cz4aaqgP555uAT"
+      "duration_ms": 189422,
+      "name": "To The Floor",
+      "url": "https://open.spotify.com/track/7cZR9UwVtBQR3zwyDYMK9p"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -899,6 +899,22 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
+        "name": "Imagineering",
+        "url": "https://open.spotify.com/album/3x3A2rWKuw1QFZIutuVL6n"
+      },
+      "artists": [
+        {
+          "name": "Nightmares On Wax",
+          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
+        }
+      ],
+      "duration_ms": 274973,
+      "name": "Imagineering",
+      "url": "https://open.spotify.com/track/2TgTGJyiWf1ptW5g3QG938"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
         "name": "Kali",
         "url": "https://open.spotify.com/album/50ElTxt2kk7MPWWOKtw1yK"
       },
@@ -915,18 +931,18 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "Imagineering",
-        "url": "https://open.spotify.com/album/3x3A2rWKuw1QFZIutuVL6n"
+        "name": "Szikra",
+        "url": "https://open.spotify.com/album/346ybLLYAtXpAfpTFH0Pqi"
       },
       "artists": [
         {
-          "name": "Nightmares On Wax",
-          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
+          "name": "Korn\u00e9l Kov\u00e1cs",
+          "url": "https://open.spotify.com/artist/0Ij7th9uWcDVYNAIOn5W22"
         }
       ],
-      "duration_ms": 274973,
-      "name": "Imagineering",
-      "url": "https://open.spotify.com/track/2TgTGJyiWf1ptW5g3QG938"
+      "duration_ms": 401573,
+      "name": "Szikra",
+      "url": "https://open.spotify.com/track/3qAvjZ84KUD5cCWkt4iCcb"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -947,22 +963,6 @@
       "duration_ms": 285093,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/4PDYYvVrcHWDvesiKo74Lh"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
-        "name": "Szikra",
-        "url": "https://open.spotify.com/album/346ybLLYAtXpAfpTFH0Pqi"
-      },
-      "artists": [
-        {
-          "name": "Korn\u00e9l Kov\u00e1cs",
-          "url": "https://open.spotify.com/artist/0Ij7th9uWcDVYNAIOn5W22"
-        }
-      ],
-      "duration_ms": 401573,
-      "name": "Szikra",
-      "url": "https://open.spotify.com/track/3qAvjZ84KUD5cCWkt4iCcb"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "Dr. Buzzard's Original Savannah Band",
-        "url": "https://open.spotify.com/album/7EZlo6A3wcmAAjKozsQhiq"
-      },
-      "artists": [
-        {
-          "name": "Dr. Buzzard's Original Savannah Band",
-          "url": "https://open.spotify.com/artist/0i64fKwsnTQsPqbov8mZUh"
-        }
-      ],
-      "duration_ms": 245573,
-      "name": "Sunshower",
-      "url": "https://open.spotify.com/track/5SWfqINCAFg3N4x9bcegYf"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
         "name": "And Groove",
         "url": "https://open.spotify.com/album/4GhTjZLhittgWgSzN65sYt"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 205785,
       "name": "And Groove - Edit",
       "url": "https://open.spotify.com/track/3flV2wHEamgIEu3nUkHnH6"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
+        "name": "Dr. Buzzard's Original Savannah Band",
+        "url": "https://open.spotify.com/album/7EZlo6A3wcmAAjKozsQhiq"
+      },
+      "artists": [
+        {
+          "name": "Dr. Buzzard's Original Savannah Band",
+          "url": "https://open.spotify.com/artist/0i64fKwsnTQsPqbov8mZUh"
+        }
+      ],
+      "duration_ms": 245573,
+      "name": "Sunshower",
+      "url": "https://open.spotify.com/track/5SWfqINCAFg3N4x9bcegYf"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "Before",
-        "url": "https://open.spotify.com/album/5vqILcEeCT0N1DeJBsLrGE"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 287871,
-      "name": "Before",
-      "url": "https://open.spotify.com/track/0FjyvdAffyJcnvbv3dLFyw"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
         "name": "The Chocolate Conquistadors (From Grand Theft Auto Online: The Cayo Perico Heist)",
         "url": "https://open.spotify.com/album/3ev38ci4cqU1Ic8vmNri3D"
       },
@@ -1175,6 +1159,22 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
+        "name": "Before",
+        "url": "https://open.spotify.com/album/5vqILcEeCT0N1DeJBsLrGE"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 287871,
+      "name": "Before",
+      "url": "https://open.spotify.com/track/0FjyvdAffyJcnvbv3dLFyw"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
         "name": "The Very Best Of Nina Simone 1967-1972 - Sugar In My Bowl",
         "url": "https://open.spotify.com/album/5Dh4qVmcMpDv5qhgdaqGtj"
       },
@@ -1187,6 +1187,22 @@
       "duration_ms": 214893,
       "name": "Do What You Gotta Do",
       "url": "https://open.spotify.com/track/1WP7Snm91AFyvhWb3s8UB8"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
+        "name": "Nterini - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/6JErS4p9PuTYxCmeWu6Eaq"
+      },
+      "artists": [
+        {
+          "name": "Fatoumata Diawara",
+          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
+        }
+      ],
+      "duration_ms": 231923,
+      "name": "Nterini - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/3G7Mvni5YaF5UgJWGp5nQe"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -1207,22 +1223,6 @@
       "duration_ms": 228897,
       "name": "Gated Area",
       "url": "https://open.spotify.com/track/2bdKTq31MlD9tQEzSPBVWl"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
-        "name": "Nterini - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/6JErS4p9PuTYxCmeWu6Eaq"
-      },
-      "artists": [
-        {
-          "name": "Fatoumata Diawara",
-          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
-        }
-      ],
-      "duration_ms": 231923,
-      "name": "Nterini - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/3G7Mvni5YaF5UgJWGp5nQe"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "24 Hours in a Disco 1978-82",
-        "url": "https://open.spotify.com/album/0p1PYyKaMEsDboqHmERvZu"
-      },
-      "artists": [
-        {
-          "name": "Kiki Gyan",
-          "url": "https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy"
-        }
-      ],
-      "duration_ms": 416800,
-      "name": "Disco Dancer",
-      "url": "https://open.spotify.com/track/297SLwXcZw0ZUourOzPQpU"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
         "name": "Julieta",
         "url": "https://open.spotify.com/album/2gO1JF3heDQl9Mx0HOvZwY"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 155634,
       "name": "Julieta",
       "url": "https://open.spotify.com/track/1xQXbyDevs4LcPkOCaTvf5"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
+        "name": "24 Hours in a Disco 1978-82",
+        "url": "https://open.spotify.com/album/0p1PYyKaMEsDboqHmERvZu"
+      },
+      "artists": [
+        {
+          "name": "Kiki Gyan",
+          "url": "https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy"
+        }
+      ],
+      "duration_ms": 416800,
+      "name": "Disco Dancer",
+      "url": "https://open.spotify.com/track/297SLwXcZw0ZUourOzPQpU"
     }
   ],
   "unique_name": "Turntable",

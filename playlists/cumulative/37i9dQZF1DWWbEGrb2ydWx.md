@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:2EFsfh1zewsSWhDINv7j1I">Logic1000's </a> favourite tracks\.  Updated regularly\. Curated by Logic1000\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-59 songs - 4 hr 40 min - not published yet
+59 songs - 4 hr 40 min - [published](https://open.spotify.com/playlist/1ltNc3ZBZ5slAqB5oA5cdE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > 即興而自在、優雅而舒緩，這形容是不是像個好夢的感覺呢？就讓美妙的爵士樂助你入眠吧！
 
-75 songs - 6 hr 31 min - not published yet
+75 songs - 6 hr 31 min - [published](https://open.spotify.com/playlist/415nMvkWwgs6uKU2U7VJG3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

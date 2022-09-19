@@ -1,12 +1,12 @@
 {
   "description": "Real Rap. All Pressure. Cover: Big Boss Vette",
-  "num_followers": 18481,
+  "num_followers": 18582,
   "original_name": "Pressure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMDYyNGYyNzFmOTRlZTU5NGYzNTM3NzVkYjk2NjE5NjE5",
+  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMGQwNjQ4Y2VmY2YxN2I3MGNhNTg5MzQyOTRlMDI1MzAx",
   "tracks": [
     {
       "added_at": "2022-09-16 04:00:00",
@@ -495,6 +495,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "Name of Love",
+        "url": "https://open.spotify.com/album/0z9joggqG3K7ffVOvftTwI"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 106666,
+      "name": "Name of Love",
+      "url": "https://open.spotify.com/track/7xH1se2ywtEQM3g1XuKkIq"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "Redemption",
         "url": "https://open.spotify.com/album/3WGdvwAomZimfvzf1GT0Er"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 187875,
       "name": "Trick",
       "url": "https://open.spotify.com/track/60kkJZwSjzmoXP9dOWUlqe"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Name of Love",
-        "url": "https://open.spotify.com/album/0z9joggqG3K7ffVOvftTwI"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "duration_ms": 106666,
-      "name": "Name of Love",
-      "url": "https://open.spotify.com/track/7xH1se2ywtEQM3g1XuKkIq"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -703,42 +703,34 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Hunnit Dolla Hiccup (feat. Stove God Cooks)",
-        "url": "https://open.spotify.com/album/6nhfAmspr2ISbHHnf1KQMB"
+        "name": "Euphoric",
+        "url": "https://open.spotify.com/album/4Myiyj4LgdPiGZg2BzOtt5"
       },
       "artists": [
         {
-          "name": "Armani Caesar",
-          "url": "https://open.spotify.com/artist/53S3boqktbqiB1JfHzsu1f"
-        },
-        {
-          "name": "Benny The Butcher",
-          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
-        },
-        {
-          "name": "Stove God Cooks",
-          "url": "https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv"
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
         }
       ],
-      "duration_ms": 217872,
-      "name": "Hunnit Dolla Hiccup (feat. Stove God Cooks)",
-      "url": "https://open.spotify.com/track/38xqJT3nzdCixMTcFYchJK"
+      "duration_ms": 113424,
+      "name": "Euphoric",
+      "url": "https://open.spotify.com/track/7eVMSaoemrk7HiuZp33A3l"
     },
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Messy",
-        "url": "https://open.spotify.com/album/6EMJGoV0haYpSrqH3pSwzO"
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/7goPUFOOsxCg5WNxUpsILS"
       },
       "artists": [
         {
-          "name": "Ivorian Doll",
-          "url": "https://open.spotify.com/artist/5zWJtrglcTFohMajO2qrgd"
+          "name": "Lil Kayla",
+          "url": "https://open.spotify.com/artist/0L5BtJ0tpOgMcQO94P26Tp"
         }
       ],
-      "duration_ms": 110000,
-      "name": "Messy",
-      "url": "https://open.spotify.com/track/6BDfPXdc5LePckeLSN9z8I"
+      "duration_ms": 93455,
+      "name": "11:11",
+      "url": "https://open.spotify.com/track/5mVcYCCKAKkOW1Yjjgo1zh"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -763,18 +755,42 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Euphoric",
-        "url": "https://open.spotify.com/album/4Myiyj4LgdPiGZg2BzOtt5"
+        "name": "Messy",
+        "url": "https://open.spotify.com/album/6EMJGoV0haYpSrqH3pSwzO"
       },
       "artists": [
         {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+          "name": "Ivorian Doll",
+          "url": "https://open.spotify.com/artist/5zWJtrglcTFohMajO2qrgd"
         }
       ],
-      "duration_ms": 113424,
-      "name": "Euphoric",
-      "url": "https://open.spotify.com/track/7eVMSaoemrk7HiuZp33A3l"
+      "duration_ms": 110000,
+      "name": "Messy",
+      "url": "https://open.spotify.com/track/6BDfPXdc5LePckeLSN9z8I"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Hunnit Dolla Hiccup (feat. Stove God Cooks)",
+        "url": "https://open.spotify.com/album/6nhfAmspr2ISbHHnf1KQMB"
+      },
+      "artists": [
+        {
+          "name": "Armani Caesar",
+          "url": "https://open.spotify.com/artist/53S3boqktbqiB1JfHzsu1f"
+        },
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        },
+        {
+          "name": "Stove God Cooks",
+          "url": "https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv"
+        }
+      ],
+      "duration_ms": 217872,
+      "name": "Hunnit Dolla Hiccup (feat. Stove God Cooks)",
+      "url": "https://open.spotify.com/track/38xqJT3nzdCixMTcFYchJK"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -791,22 +807,6 @@
       "duration_ms": 166365,
       "name": "Spring, Summer",
       "url": "https://open.spotify.com/track/0vF3fuZGdOS2pBd17GbtMc"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "11:11",
-        "url": "https://open.spotify.com/album/7goPUFOOsxCg5WNxUpsILS"
-      },
-      "artists": [
-        {
-          "name": "Lil Kayla",
-          "url": "https://open.spotify.com/artist/0L5BtJ0tpOgMcQO94P26Tp"
-        }
-      ],
-      "duration_ms": 93455,
-      "name": "11:11",
-      "url": "https://open.spotify.com/track/5mVcYCCKAKkOW1Yjjgo1zh"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -847,8 +847,8 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "No Face",
-        "url": "https://open.spotify.com/album/7xcVwFxP43b548OelDTjBv"
+        "name": "You Still Here, Ho ?",
+        "url": "https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A"
       },
       "artists": [
         {
@@ -856,9 +856,9 @@
           "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
         }
       ],
-      "duration_ms": 189524,
-      "name": "No Face",
-      "url": "https://open.spotify.com/track/1jcBUsiQik3PxgtGG0tfnb"
+      "duration_ms": 136629,
+      "name": "Come Outside",
+      "url": "https://open.spotify.com/track/0eihPScADJKzfuUwiShQQJ"
     },
     {
       "added_at": "2022-09-16 04:00:00",

@@ -4,7 +4,7 @@
 
 > The decade of the Outlaws of Country Music \- where traditional and crossover country collided\. Cover: Charley Pride
 
-151 songs - 7 hr 34 min - [published](https://open.spotify.com/playlist/1KxHyfdL3wCGKY9oZxPyfF)
+152 songs - 7 hr 37 min - [published](https://open.spotify.com/playlist/1KxHyfdL3wCGKY9oZxPyfF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Just Good Ol' Boys](https://open.spotify.com/track/1eKTcxiptSrdGKZuPNQdCr) | [Moe Bandy](https://open.spotify.com/artist/7s7Q0xacR6ShONfklPYcPz), [Joe Stampley](https://open.spotify.com/artist/0bRY1ri3TKSfD5BRU8CvaJ) | [The Ultimate Moe & Joe](https://open.spotify.com/album/4NRkFoFZcGKt3mi5AwuELG) | 2:35 | 2018-12-10 | 2022-07-29 |
 | [Kiss an Angel Good Mornin'](https://open.spotify.com/track/0alXPC11fIucBFD6qcCE94) | [Charley Pride](https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE) | [The Essential Charley Pride](https://open.spotify.com/album/4ALGvSzcQF4SD9WXLyDI75) | 2:03 | 2018-12-10 |  |
 | [Let Me Be There](https://open.spotify.com/track/2SS6MAZIFjrn1XNkjgJuV4) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Gold](https://open.spotify.com/album/24xwaPVl6xkUunl6lEWwje) | 2:57 | 2018-12-10 | 2022-07-29 |
+| [Let Me Be There](https://open.spotify.com/track/0E4HRDc8ReRr7Fy59eW2bX) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Let Me Be There](https://open.spotify.com/album/6WXUSQLuAYtoVRSWOFCBnx) | 3:01 | 2022-07-25 |  |
 | [Let Your Love Flow](https://open.spotify.com/track/064SVQsmWl5EF0zahmzkQk) | [The Bellamy Brothers](https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa) | [Bellamy Brothers](https://open.spotify.com/album/77EM0wkGevYQcBo1AJt7B0) | 3:18 | 2018-12-10 |  |
 | [Linda On My Mind \- Single Version](https://open.spotify.com/track/02q9atOyzjCRfk2uUcfqxe) | [Conway Twitty](https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF) | [Conway Twitty's Greatest Hits Volume II](https://open.spotify.com/album/3QM29gUyTJvl5KfWckjydn) | 2:42 | 2018-12-10 | 2022-07-29 |
 | [Lonely Women Make Good Lovers](https://open.spotify.com/track/5je7nvdte7odjJvs5iM1bS) | [Bob Luman](https://open.spotify.com/artist/7GHomDn4a8u8k0AlUTwBWQ) | [Greatest Hits](https://open.spotify.com/album/0HDwfB5n6VpcOFkY61uMLl) | 3:13 | 2018-12-10 | 2022-07-29 |
@@ -106,7 +107,7 @@
 | [Rocky Mountain High](https://open.spotify.com/track/1ne9wOtDF2jM6Cm8WBkaER) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [Rocky Mountain High](https://open.spotify.com/album/2gEurk31djZjI3P3SY8ZcC) | 4:43 | 2022-07-25 |  |
 | [Rose Colored Glasses](https://open.spotify.com/track/1Ko3qmw2ItUEefsjDjpLWL) | [John Conlee](https://open.spotify.com/artist/4Wfq6fHhifS8MmQOcJ18TP) | [Rose Colored Glasses](https://open.spotify.com/album/3rRwWX6dg9IBQBalgqEgSN) | 3:20 | 2018-12-10 |  |
 | [Rose Garden](https://open.spotify.com/track/5YwgJ6lpZ3SiAQwBEpjqey) | [Lynn Anderson](https://open.spotify.com/artist/502FY8XQYRxClWgolQ3Hf2) | [Rose Garden](https://open.spotify.com/album/2JItlMgM1n2GfKOmqYr8af) | 2:55 | 2018-12-10 |  |
-| [Rub It In](https://open.spotify.com/track/6q014fQ3SqLy180KPuCTG1) | [Billy 'Crash' Craddock](https://open.spotify.com/artist/4Se104PDIxemxBgtWynyIq) | [The Best Of Billy "Crash" Craddock](https://open.spotify.com/album/6GLL2DGK5Dw8P99pbUGkii) | 2:26 | 2018-12-10 |  |
+| [Rub It In](https://open.spotify.com/track/6q014fQ3SqLy180KPuCTG1) | [Billy 'Crash' Craddock](https://open.spotify.com/artist/4Se104PDIxemxBgtWynyIq) | [The Best Of Billy "Crash" Craddock](https://open.spotify.com/album/6GLL2DGK5Dw8P99pbUGkii) | 2:26 | 2018-12-10 | 2022-09-19 |
 | [San Antonio Stroll](https://open.spotify.com/track/2qXR5YWhvtYIoewHjvflss) | [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [Tanya Tucker's Greatest Hits](https://open.spotify.com/album/5T6WDAskZxpghDeEdHUtXn) | 2:50 | 2022-07-25 |  |
 | [Shadows In The Moonlight](https://open.spotify.com/track/7i6YbLIaM45ntr0OnkEfBj) | [Anne Murray](https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E) | [The Ultimate Collection \(Deluxe Edition\)](https://open.spotify.com/album/63cg3nGFJXmCeh9odxBpgI) | 3:29 | 2018-12-10 | 2022-07-29 |
 | [She's Actin' Single \(I'm Drinkin' Doubles\)](https://open.spotify.com/track/32YbeD81QS0opdouHEQc7r) | [Gary Stewart](https://open.spotify.com/artist/3KmQJ2e3T7Gn1UurVpReXs) | [RCA Country Legends](https://open.spotify.com/album/59jNebnIHrwxov1YplmvTN) | 2:51 | 2018-12-10 | 2022-07-28 |

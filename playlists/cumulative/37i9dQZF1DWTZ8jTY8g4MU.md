@@ -4,7 +4,7 @@
 
 > أفضل أغاني الشيلات التي لا يمكن التوقف عن الاستماع اليها\. الغلاف: عبدالله ال فروان
 
-91 songs - 5 hr 53 min - [published](https://open.spotify.com/playlist/6tQmExXg8DxfrZtMJYW4IZ)
+96 songs - 6 hr 12 min - [published](https://open.spotify.com/playlist/6tQmExXg8DxfrZtMJYW4IZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,14 +31,16 @@
 | [الزمن دوار](https://open.spotify.com/track/4XSZa8zr5ya13NcLkSTHM1) | [منصور الوايلي](https://open.spotify.com/artist/6wgdTtjcI9FJnFJuJz70C4), [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [الزمن دوار](https://open.spotify.com/album/7tHMNHXeNILzhr7Hcd2nEk) | 3:52 | 2022-06-13 | 2022-09-18 |
 | [العشق الجميل](https://open.spotify.com/track/1E6NxvgjVll87cMrMZPZhq) | [سلطان الفهادي](https://open.spotify.com/artist/2O4xS58wSf51BKELtixdQu) | [العشق الجميل](https://open.spotify.com/album/6hRg311Va2xhZ5PUOiHajd) | 2:40 | 2022-08-31 |  |
 | [العشق الجميل](https://open.spotify.com/track/5QhBa6hHquzB2ZgQeId5N4) | [سلطان الفهادي](https://open.spotify.com/artist/2O4xS58wSf51BKELtixdQu) | [العشق الجميل](https://open.spotify.com/album/2UlZgHAN2Jl0F17XFTR4hi) | 2:40 | 2022-03-30 | 2022-09-18 |
-| [الوصل مقطوع](https://open.spotify.com/track/3uw7nWTOV3QvBH176qsGWI) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [الوصل مقطوع](https://open.spotify.com/album/0ZV54R8Vib8NUqVMfchB2j) | 4:39 | 2022-03-30 |  |
+| [الوصل مقطوع](https://open.spotify.com/track/2fPCXvO40Yl12NPsE6xsVC) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [الوصل مقطوع](https://open.spotify.com/album/1ymFv5EHkfSK52jso4HnxB) | 4:39 | 2022-08-31 |  |
+| [الوصل مقطوع](https://open.spotify.com/track/3uw7nWTOV3QvBH176qsGWI) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [الوصل مقطوع](https://open.spotify.com/album/0ZV54R8Vib8NUqVMfchB2j) | 4:39 | 2022-03-30 | 2022-09-19 |
 | [انا المخطي](https://open.spotify.com/track/2swUzeYPuT4sM5fOF3fWhF) | [بندر بن عوير](https://open.spotify.com/artist/3AEPOScEpyXGfeHa3scvkm) | [انا المخطي](https://open.spotify.com/album/3BSglbJHaNmKZLmkAJRU11) | 3:32 | 2022-03-30 | 2022-09-18 |
 | [انا المخطي](https://open.spotify.com/track/3JzpfzTYzuu8ht2l62fhr1) | [بندر بن عوير](https://open.spotify.com/artist/3AEPOScEpyXGfeHa3scvkm) | [انا المخطي](https://open.spotify.com/album/0iy88of5hWokaz8lg6UfBW) | 3:32 | 2022-08-31 |  |
 | [بتروح عادي](https://open.spotify.com/track/2GxR28DVvyvL5VX6H45Wa0) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [بتروح عادي](https://open.spotify.com/album/4CFE56Ty8V8uTMwaEDQki7) | 3:16 | 2022-03-30 | 2022-09-18 |
 | [بتروح عادي](https://open.spotify.com/track/5EV02yzvrRIECmP67v53Do) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [بتروح عادي](https://open.spotify.com/album/4RPceVZW72FOh9mo7oXLPB) | 3:16 | 2022-08-31 |  |
 | [تجاهلني](https://open.spotify.com/track/6R6zmKXsboLCYQ3hMNJlD4) | [Fahed Bin Fasla](https://open.spotify.com/artist/2CfEAlvAtAJ7MvCQl4mptz), [عمار الكوفي](https://open.spotify.com/artist/1YN0hBRFU0rGPgvr0aMmHs) | [تجاهلني](https://open.spotify.com/album/5xjGNzBxIQXVliqj7TKoG6) | 2:58 | 2022-08-31 | 2022-09-18 |
 | [تجاهلني](https://open.spotify.com/track/6KGGBeH3rOopzg40XZ6Ser) | [فهد بن فصلا \| عمار الكوفي](https://open.spotify.com/artist/3kOlunmQrCQNixsuyALR7q) | [تجاهلني](https://open.spotify.com/album/3JD3t04qrQnYYq7mwoSS1F) | 2:58 | 2022-08-31 |  |
-| [ترجيتك تروف](https://open.spotify.com/track/6v0nHHP6PPVArTsdLTNoJ1) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep), [Abdullah Al Mukhles](https://open.spotify.com/artist/6SdRVw4NGUDFrTbWHXaUbH) | [ترجيتك تروف](https://open.spotify.com/album/3hCDD9Yr5ryKJNAsQQJmEU) | 3:40 | 2022-03-30 |  |
+| [ترجيتك تروف](https://open.spotify.com/track/0l2FJkdpDbobPPDbDaBNR5) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [ترجيتك تروف](https://open.spotify.com/album/6Q6KwCFvr6vpAx7a0Ba1gU) | 3:40 | 2022-08-31 |  |
+| [ترجيتك تروف](https://open.spotify.com/track/6v0nHHP6PPVArTsdLTNoJ1) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep), [Abdullah Al Mukhles](https://open.spotify.com/artist/6SdRVw4NGUDFrTbWHXaUbH) | [ترجيتك تروف](https://open.spotify.com/album/3hCDD9Yr5ryKJNAsQQJmEU) | 3:40 | 2022-03-30 | 2022-09-19 |
 | [تعبت أشتاق](https://open.spotify.com/track/4wQuMb5pAAfhBuY1VdM0rs) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [تعبت أشتاق](https://open.spotify.com/album/2IKZvIu9Y9nlSuUd90qI7a) | 3:34 | 2022-03-30 | 2022-06-14 |
 | [حي بسماتك](https://open.spotify.com/track/28jNmt1G200EdfkK2Utn27) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [حي بسماتك](https://open.spotify.com/album/7bUt6Wh4zVL1aKbRox63Pp) | 3:55 | 2022-08-31 |  |
 | [حي بسماتك](https://open.spotify.com/track/6UzF0izmDqyfQd7CWGIJIw) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [حي بسماتك](https://open.spotify.com/album/2Ofnplh581Skhr6Xv9wFq5) | 3:55 | 2022-03-30 | 2022-09-18 |
@@ -57,8 +59,10 @@
 | [شيلة طرب حماسية](https://open.spotify.com/track/67pgW0LyrChcjli8XyjT9U) | [غنوة](https://open.spotify.com/artist/1y6JGih3jxrhp8z6EEiefh) | [شيلة طرب حماسية](https://open.spotify.com/album/4fxLhDr7vudKUMgMsjUmDk) | 4:01 | 2022-03-30 | 2022-05-24 |
 | [صديت مني](https://open.spotify.com/track/2QBbWw5fFAElRWyqnZ07Wj) | [سلطان الفهادي](https://open.spotify.com/artist/2O4xS58wSf51BKELtixdQu) | [صديت مني](https://open.spotify.com/album/0gyBt500cAV6CeFbbtfWa3) | 3:27 | 2022-08-31 |  |
 | [صديت مني](https://open.spotify.com/track/6sKzHl68SWj8vd0bTkt6vb) | [سلطان الفهادي](https://open.spotify.com/artist/2O4xS58wSf51BKELtixdQu) | [صديت مني](https://open.spotify.com/album/0z3t9ettcoiny1yc15wtyy) | 3:27 | 2022-03-30 | 2022-09-18 |
-| [عانيت](https://open.spotify.com/track/77jwfeLaAt7Pqawh0oEscH) | [Abdullah Al Mukhles](https://open.spotify.com/artist/6SdRVw4NGUDFrTbWHXaUbH) | [عانيت](https://open.spotify.com/album/4yi7cYZfeoacfeIQFHF0Db) | 3:34 | 2022-03-30 |  |
-| [غرام اثنين](https://open.spotify.com/track/7t1508rbpNE4DVKNBDAdgw) | [Fahed Bin Fasla](https://open.spotify.com/artist/2CfEAlvAtAJ7MvCQl4mptz) | [غرام اثنين](https://open.spotify.com/album/6W2sTYaCAhBN79trZPqxFH) | 3:41 | 2022-06-13 |  |
+| [عانيت](https://open.spotify.com/track/3DroenSNiI6sL5rnIllhMm) | [Abdullah Al Mukhles](https://open.spotify.com/artist/6SdRVw4NGUDFrTbWHXaUbH) | [عانيت](https://open.spotify.com/album/5lWxUg5WofsxuofnaSiXar) | 3:34 | 2022-08-31 |  |
+| [عانيت](https://open.spotify.com/track/77jwfeLaAt7Pqawh0oEscH) | [Abdullah Al Mukhles](https://open.spotify.com/artist/6SdRVw4NGUDFrTbWHXaUbH) | [عانيت](https://open.spotify.com/album/4yi7cYZfeoacfeIQFHF0Db) | 3:34 | 2022-03-30 | 2022-09-19 |
+| [غرام اثنين](https://open.spotify.com/track/7t1508rbpNE4DVKNBDAdgw) | [Fahed Bin Fasla](https://open.spotify.com/artist/2CfEAlvAtAJ7MvCQl4mptz) | [غرام اثنين](https://open.spotify.com/album/6W2sTYaCAhBN79trZPqxFH) | 3:41 | 2022-06-13 | 2022-09-19 |
+| [غرام اثنين](https://open.spotify.com/track/2njDH5SC3ETAiGb484I9BR) | [فهد بن فصلا](https://open.spotify.com/artist/7DSLsFX6LgWuz3bJbPNfWg) | [غرام اثنين](https://open.spotify.com/album/05Ypu2Ubz44KiU1FOYfTcV) | 3:41 | 2022-08-31 |  |
 | [غصب علينا](https://open.spotify.com/track/0QOBcIXo19VdwyRLe8GJho) | [شبل الدواسر](https://open.spotify.com/artist/2Nr9HFrird38vSsf663IR3) | [غصب علينا](https://open.spotify.com/album/3tI1yOLivNzRao0NMbOFfv) | 3:47 | 2022-03-30 | 2022-09-18 |
 | [غصب علينا](https://open.spotify.com/track/6yNbgI21IGouhgPQ5UkrA3) | [شبل الدواسر](https://open.spotify.com/artist/2Nr9HFrird38vSsf663IR3) | [غصب علينا](https://open.spotify.com/album/6yw58FnheKdVDaPYsvyTJd) | 3:47 | 2022-08-31 |  |
 | [فرصة سعيدة](https://open.spotify.com/track/2L1JHgt9UiSbssDZ2lZfuw) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [فرصة سعيدة](https://open.spotify.com/album/2048egsIYfGJWAt53DabSw) | 4:24 | 2022-03-30 |  |
@@ -97,7 +101,8 @@
 | [ياروح الروح](https://open.spotify.com/track/7CTkmBM1Ff1lc35v0rcD24) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [ياروح الروح](https://open.spotify.com/album/2LwaqJo5BhCsJWiqqJJqvQ) | 2:56 | 2022-03-30 | 2022-09-18 |
 | [ياعرب حنيت](https://open.spotify.com/track/0Fqd8W2cHDsrfnIFLOMubb) | [نادر الشراري](https://open.spotify.com/artist/6TO4yttkJH47KzzQEQXTKm) | [ياعرب حنيت](https://open.spotify.com/album/1xTu6wEp00RobsH97C1wG3) | 3:04 | 2022-03-30 | 2022-09-18 |
 | [ياعرب حنيت](https://open.spotify.com/track/1szjUAlwmyS5cCrz7yaoCf) | [نادر الشراري](https://open.spotify.com/artist/6TO4yttkJH47KzzQEQXTKm) | [ياعرب حنيت](https://open.spotify.com/album/4IcitKb3SkUlfaqGKEvO70) | 3:04 | 2022-08-31 |  |
-| [ياغايب](https://open.spotify.com/track/3fvwgih7gXgqPNTMfaHwC7) | [Majed Alrslani](https://open.spotify.com/artist/4TLEIkw2ZiwL796C8zJtST) | [ياغايب](https://open.spotify.com/album/5qfEapVknQAWHf3EWq2D89) | 3:15 | 2022-06-13 |  |
+| [ياغايب](https://open.spotify.com/track/3fvwgih7gXgqPNTMfaHwC7) | [Majed Alrslani](https://open.spotify.com/artist/4TLEIkw2ZiwL796C8zJtST) | [ياغايب](https://open.spotify.com/album/5qfEapVknQAWHf3EWq2D89) | 3:15 | 2022-06-13 | 2022-09-19 |
+| [ياغايب](https://open.spotify.com/track/0H66amn66zZeVCCXjUTdMS) | [ماجد الرسلاني](https://open.spotify.com/artist/1TrcFvtMbJqhog5XVABHlm) | [ياغايب](https://open.spotify.com/album/48GgeOcOFdhU2bVLLfqyzn) | 3:15 | 2022-08-31 |  |
 | [ياليت](https://open.spotify.com/track/2eeOmVQbBDcPG1y0Kgd7jq) | [بدر العزي](https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy) | [ياليت](https://open.spotify.com/album/174SjqWUYTTr5svIrXmNB1) | 4:07 | 2022-03-30 | 2022-06-14 |
 
 \*This playlist was first scraped on 2022-05-13. Prior content cannot be recovered.

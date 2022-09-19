@@ -4,7 +4,7 @@
 
 > plaid shirt days and nights
 
-75 songs - 4 hr 35 min - not published yet
+75 songs - 4 hr 35 min - [published](https://open.spotify.com/playlist/23fB26dU2vYzc523vA12TM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

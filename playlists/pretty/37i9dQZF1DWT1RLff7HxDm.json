@@ -1,12 +1,12 @@
 {
   "description": "All live, all blues. Cover: Joe Bonamassa",
-  "num_followers": 139731,
+  "num_followers": 139814,
   "original_name": "Blues Live & Loud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzI5NDU3NSwwMDAwMDAwMDI5NmM5YzhkYWIyOTQyZmFlNTBlNzRmNDNmYTk2YWFh",
+  "snapshot_id": "MTY2MzI5NDU3NSwwMDAwMDAwMDUyY2YyODYyODBiZDYwNDdlYTY2NjdlYmU2ZTdiZTAz",
   "tracks": [
     {
       "added_at": "2022-05-20 04:02:00",
@@ -257,22 +257,6 @@
       "url": "https://open.spotify.com/track/7jxRH5vuXGSgbhvxDhE9up"
     },
     {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
-        "name": "Texas Flood (Legacy Edition)",
-        "url": "https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 600506,
-      "name": "Texas Flood - Live at Ripley's Music Hall, Philadelphia, PA, Oct. 20, 1983",
-      "url": "https://open.spotify.com/track/12Brd1KzWDPmzgC5FaUZA2"
-    },
-    {
       "added_at": "2021-09-17 04:02:00",
       "album": {
         "name": "Paint The Roses (Live In Concert)",
@@ -291,6 +275,22 @@
       "duration_ms": 312824,
       "name": "Mad As A Hatter - Live In Concert",
       "url": "https://open.spotify.com/track/0on0Y3tC9iHoPGYPBoJgFY"
+    },
+    {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
+        "name": "Texas Flood (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 600506,
+      "name": "Texas Flood - Live at Ripley's Music Hall, Philadelphia, PA, Oct. 20, 1983",
+      "url": "https://open.spotify.com/track/12Brd1KzWDPmzgC5FaUZA2"
     },
     {
       "added_at": "2020-10-30 17:47:12",
@@ -663,22 +663,6 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "Bring On The Music: Live at The Capitol Theatre, Pt. 2",
-        "url": "https://open.spotify.com/album/6OgCMKwSLqy39MCP7juLhu"
-      },
-      "artists": [
-        {
-          "name": "Gov't Mule",
-          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
-        }
-      ],
-      "duration_ms": 528120,
-      "name": "Broke Down On The Brazos - Live",
-      "url": "https://open.spotify.com/track/5xm5zvLGDeLML6nib2eIvr"
-    },
-    {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
         "name": "Straight To You: Live",
         "url": "https://open.spotify.com/album/7p4qRYemsDOLfWreax8Orc"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 260133,
       "name": "Woman Like You - Live",
       "url": "https://open.spotify.com/track/7fcve4UR0NqDr84DiNGwA8"
+    },
+    {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
+        "name": "Bring On The Music: Live at The Capitol Theatre, Pt. 2",
+        "url": "https://open.spotify.com/album/6OgCMKwSLqy39MCP7juLhu"
+      },
+      "artists": [
+        {
+          "name": "Gov't Mule",
+          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
+        }
+      ],
+      "duration_ms": 528120,
+      "name": "Broke Down On The Brazos - Live",
+      "url": "https://open.spotify.com/track/5xm5zvLGDeLML6nib2eIvr"
     },
     {
       "added_at": "2020-10-30 17:47:12",
@@ -743,18 +743,18 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "Live at the Jazzhaus",
-        "url": "https://open.spotify.com/album/5ecLOcNNAIyy2ItMEIMwK4"
+        "name": "I'm In The Mood (Live)",
+        "url": "https://open.spotify.com/album/7llgEpwPWoyyECn3OxfJgS"
       },
       "artists": [
         {
-          "name": "Bernard Allison",
-          "url": "https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI"
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
         }
       ],
-      "duration_ms": 410520,
-      "name": "Chills & Thrills - Live",
-      "url": "https://open.spotify.com/track/1oP2JLLzJNqoIMH5nh1iKi"
+      "duration_ms": 248586,
+      "name": "I'm In The Mood - Live",
+      "url": "https://open.spotify.com/track/4m3z1QKpXIBIvJFVhCyhtl"
     },
     {
       "added_at": "2020-11-20 05:01:00",
@@ -775,18 +775,18 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "I'm In The Mood (Live)",
-        "url": "https://open.spotify.com/album/7llgEpwPWoyyECn3OxfJgS"
+        "name": "Live at the Jazzhaus",
+        "url": "https://open.spotify.com/album/5ecLOcNNAIyy2ItMEIMwK4"
       },
       "artists": [
         {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+          "name": "Bernard Allison",
+          "url": "https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI"
         }
       ],
-      "duration_ms": 248586,
-      "name": "I'm In The Mood - Live",
-      "url": "https://open.spotify.com/track/4m3z1QKpXIBIvJFVhCyhtl"
+      "duration_ms": 410520,
+      "name": "Chills & Thrills - Live",
+      "url": "https://open.spotify.com/track/1oP2JLLzJNqoIMH5nh1iKi"
     },
     {
       "added_at": "2020-10-30 17:47:12",
@@ -831,22 +831,6 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "Liquid Quartet Live",
-        "url": "https://open.spotify.com/album/2nFenn9ap5FXUoMZWd2P4X"
-      },
-      "artists": [
-        {
-          "name": "Michael Landau",
-          "url": "https://open.spotify.com/artist/6kXe2uPLJcKyNrSUmR21Cw"
-        }
-      ],
-      "duration_ms": 320618,
-      "name": "Can't Walk Away From It Now - Live",
-      "url": "https://open.spotify.com/track/4HRWEbyWYP5iyt2u7fMOhD"
-    },
-    {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
         "name": "Live at the Ryman",
         "url": "https://open.spotify.com/album/5TX3W2zbb6Vgyl4RZaYGD1"
       },
@@ -863,18 +847,18 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "Recorded Live in Lafayette",
-        "url": "https://open.spotify.com/album/5MPnKRKqtWBELg7MAPW7W9"
+        "name": "Liquid Quartet Live",
+        "url": "https://open.spotify.com/album/2nFenn9ap5FXUoMZWd2P4X"
       },
       "artists": [
         {
-          "name": "Sonny Landreth",
-          "url": "https://open.spotify.com/artist/7aHLYoLUMdcl0HiT5k0Brz"
+          "name": "Michael Landau",
+          "url": "https://open.spotify.com/artist/6kXe2uPLJcKyNrSUmR21Cw"
         }
       ],
-      "duration_ms": 272160,
-      "name": "Soul Salvation - Live",
-      "url": "https://open.spotify.com/track/6n4svbYjxBPTnDvitXKrhq"
+      "duration_ms": 320618,
+      "name": "Can't Walk Away From It Now - Live",
+      "url": "https://open.spotify.com/track/4HRWEbyWYP5iyt2u7fMOhD"
     },
     {
       "added_at": "2020-10-30 17:47:12",
@@ -907,6 +891,22 @@
       "duration_ms": 298777,
       "name": "Night Train - Live",
       "url": "https://open.spotify.com/track/3FDFofxSBPv1hzSZdKvAuh"
+    },
+    {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
+        "name": "Recorded Live in Lafayette",
+        "url": "https://open.spotify.com/album/5MPnKRKqtWBELg7MAPW7W9"
+      },
+      "artists": [
+        {
+          "name": "Sonny Landreth",
+          "url": "https://open.spotify.com/artist/7aHLYoLUMdcl0HiT5k0Brz"
+        }
+      ],
+      "duration_ms": 272160,
+      "name": "Soul Salvation - Live",
+      "url": "https://open.spotify.com/track/6n4svbYjxBPTnDvitXKrhq"
     },
     {
       "added_at": "2020-10-30 17:47:12",
@@ -973,36 +973,36 @@
       "url": "https://open.spotify.com/track/1ZbuDt1StCJMB68xc4Ec9A"
     },
     {
-      "added_at": "2020-10-30 17:47:12",
+      "added_at": "2022-04-22 04:01:00",
       "album": {
-        "name": "Blues Caravan Live 2018",
-        "url": "https://open.spotify.com/album/086k8bh2fAUcSoVuh3NNaW"
+        "name": "Dyin' To Know (Live)",
+        "url": "https://open.spotify.com/album/1rv0LvjxRHqhory1tkpxAx"
       },
       "artists": [
         {
-          "name": "Bernard Allison",
-          "url": "https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI"
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
         }
       ],
-      "duration_ms": 446206,
-      "name": "Rocket 88 - Live",
-      "url": "https://open.spotify.com/track/0iYKF3S7mkSdxSek8dzHRA"
+      "duration_ms": 192638,
+      "name": "Dyin' To Know - Live",
+      "url": "https://open.spotify.com/track/0zlqZgeOekI8MFUfigTHR8"
     },
     {
-      "added_at": "2022-01-14 05:01:00",
+      "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "West L.A. Fadeaway (Live)",
-        "url": "https://open.spotify.com/album/5PHRvGUOV1Y9IUApM4MKHy"
+        "name": "Live In Europe",
+        "url": "https://open.spotify.com/album/2k7ALI83LeKL9ralSd7aqf"
       },
       "artists": [
         {
-          "name": "Bob Weir",
-          "url": "https://open.spotify.com/artist/6YB0tbDGk01Q0P6wcHPjpC"
+          "name": "Tony Spinner",
+          "url": "https://open.spotify.com/artist/6JhsZANOSVD2dnJt1ZHr3z"
         }
       ],
-      "duration_ms": 771564,
-      "name": "West L.A. Fadeaway - Live",
-      "url": "https://open.spotify.com/track/34zdlQdUyUOecOuWsCUWrj"
+      "duration_ms": 230306,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/0MCX1OZzPjy91FYKQQJTKp"
     }
   ],
   "unique_name": "Blues Live & Loud",

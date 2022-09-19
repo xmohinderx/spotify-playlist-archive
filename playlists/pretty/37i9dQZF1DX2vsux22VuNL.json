@@ -1,12 +1,12 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Delacruz, Lukinhas",
-  "num_followers": 230687,
+  "num_followers": 230770,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzI5NzIwMCwwMDAwMDAwMDJjMWI0YWMyNDk4MTA3YTA5NWQ3NjhlM2E0ZDAwODE4",
+  "snapshot_id": "MTY2MzI5NzIwMCwwMDAwMDAwMGQyNjhkNmI5ZGNkOGY1MGM0NjM1M2E0MzVmYzJlNmJk",
   "tracks": [
     {
       "added_at": "2022-09-16 03:00:00",
@@ -207,46 +207,6 @@
     {
       "added_at": "2022-09-16 03:00:00",
       "album": {
-        "name": "Facilitei",
-        "url": "https://open.spotify.com/album/0b7ZE4V0Mxam2npJu2nYJC"
-      },
-      "artists": [
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Facilitei",
-      "url": "https://open.spotify.com/track/6pIsaJ0bFpoajxz45FvopF"
-    },
-    {
-      "added_at": "2022-09-16 03:00:00",
-      "album": {
-        "name": "Boemia, de Fato",
-        "url": "https://open.spotify.com/album/6u6IGXmGZNngMOA4zxrrmd"
-      },
-      "artists": [
-        {
-          "name": "NUNEZ",
-          "url": "https://open.spotify.com/artist/6RvP5pZMli48YYw0nwreXZ"
-        },
-        {
-          "name": "LOX",
-          "url": "https://open.spotify.com/artist/7ziafkiqJhhvv6CExUeOcS"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Amor de Mar",
-      "url": "https://open.spotify.com/track/0cOXBqb6bsKwyL9Edj8Yww"
-    },
-    {
-      "added_at": "2022-09-16 03:00:00",
-      "album": {
         "name": "N\u00e3o Sai da Minha Mente (feat. Lionel)",
         "url": "https://open.spotify.com/album/5qpJt1uCoons7XTDQXp29Q"
       },
@@ -271,6 +231,46 @@
       "duration_ms": 190967,
       "name": "N\u00e3o Sai da Minha Mente (feat. Lionel)",
       "url": "https://open.spotify.com/track/10BAfuVOPB5C1ed1ZQCfkq"
+    },
+    {
+      "added_at": "2022-09-16 03:00:00",
+      "album": {
+        "name": "Boemia, de Fato",
+        "url": "https://open.spotify.com/album/6u6IGXmGZNngMOA4zxrrmd"
+      },
+      "artists": [
+        {
+          "name": "NUNEZ",
+          "url": "https://open.spotify.com/artist/6RvP5pZMli48YYw0nwreXZ"
+        },
+        {
+          "name": "LOX",
+          "url": "https://open.spotify.com/artist/7ziafkiqJhhvv6CExUeOcS"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Amor de Mar",
+      "url": "https://open.spotify.com/track/0cOXBqb6bsKwyL9Edj8Yww"
+    },
+    {
+      "added_at": "2022-09-16 03:00:00",
+      "album": {
+        "name": "Facilitei",
+        "url": "https://open.spotify.com/album/0b7ZE4V0Mxam2npJu2nYJC"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Facilitei",
+      "url": "https://open.spotify.com/track/6pIsaJ0bFpoajxz45FvopF"
     },
     {
       "added_at": "2022-09-16 03:00:00",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2022-09-16 03:00:00",
       "album": {
-        "name": "AQUELA SORTE",
-        "url": "https://open.spotify.com/album/1AEdoC9BnOyBqdNFRfYSdY"
-      },
-      "artists": [
-        {
-          "name": "Jean Tassy",
-          "url": "https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU"
-        },
-        {
-          "name": "Patricio Sid",
-          "url": "https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu"
-        }
-      ],
-      "duration_ms": 170232,
-      "name": "AQUELA SORTE",
-      "url": "https://open.spotify.com/track/1KNgifou3TjbGa7Xs4hYw1"
-    },
-    {
-      "added_at": "2022-09-16 03:00:00",
-      "album": {
         "name": "Sunshine",
         "url": "https://open.spotify.com/album/28tbU5pXLvIbUqtNme8Wuh"
       },
@@ -1155,6 +1135,26 @@
       "duration_ms": 174315,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/4u3oUk2kh8m5Mg08JUfDr1"
+    },
+    {
+      "added_at": "2022-09-16 03:00:00",
+      "album": {
+        "name": "AQUELA SORTE",
+        "url": "https://open.spotify.com/album/1AEdoC9BnOyBqdNFRfYSdY"
+      },
+      "artists": [
+        {
+          "name": "Jean Tassy",
+          "url": "https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU"
+        },
+        {
+          "name": "Patricio Sid",
+          "url": "https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu"
+        }
+      ],
+      "duration_ms": 170232,
+      "name": "AQUELA SORTE",
+      "url": "https://open.spotify.com/track/1KNgifou3TjbGa7Xs4hYw1"
     },
     {
       "added_at": "2022-09-16 03:00:00",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2022-09-16 03:00:00",
       "album": {
+        "name": "Coisas De Amor",
+        "url": "https://open.spotify.com/album/5iOi8dqj4Pg7yz4IcH385v"
+      },
+      "artists": [
+        {
+          "name": "IZRRA",
+          "url": "https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV"
+        }
+      ],
+      "duration_ms": 209712,
+      "name": "C\u00e9u Lil\u00e1s",
+      "url": "https://open.spotify.com/track/0FQY7oS0hx70mT66a3473S"
+    },
+    {
+      "added_at": "2022-09-16 03:00:00",
+      "album": {
         "name": "Surreal",
         "url": "https://open.spotify.com/album/6p55dtcIxQmIdfdVIqAkOQ"
       },
@@ -1423,22 +1439,6 @@
     {
       "added_at": "2022-09-16 03:00:00",
       "album": {
-        "name": "Coisas De Amor",
-        "url": "https://open.spotify.com/album/5iOi8dqj4Pg7yz4IcH385v"
-      },
-      "artists": [
-        {
-          "name": "IZRRA",
-          "url": "https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV"
-        }
-      ],
-      "duration_ms": 209712,
-      "name": "C\u00e9u Lil\u00e1s",
-      "url": "https://open.spotify.com/track/0FQY7oS0hx70mT66a3473S"
-    },
-    {
-      "added_at": "2022-09-16 03:00:00",
-      "album": {
         "name": "Casal Maior",
         "url": "https://open.spotify.com/album/218D4RjEBzs4cYpcGdjErz"
       },
@@ -1475,26 +1475,6 @@
     {
       "added_at": "2022-09-16 03:00:00",
       "album": {
-        "name": "\u00daltima Mensagem",
-        "url": "https://open.spotify.com/album/4qMQhFYLjAzYvFkxvVJOR4"
-      },
-      "artists": [
-        {
-          "name": "Carol & Vitoria",
-          "url": "https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD"
-        },
-        {
-          "name": "Kawe",
-          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
-        }
-      ],
-      "duration_ms": 174482,
-      "name": "\u00daltima Mensagem",
-      "url": "https://open.spotify.com/track/0aiIX2aJenYmGFw1BWUyxc"
-    },
-    {
-      "added_at": "2022-09-16 03:00:00",
-      "album": {
         "name": "Disk Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/1LRKYLLGnri0Klrao67kwf"
       },
@@ -1511,18 +1491,22 @@
     {
       "added_at": "2022-09-16 03:00:00",
       "album": {
-        "name": "N\u00f3s Dois",
-        "url": "https://open.spotify.com/album/7xKWFFnBKO9EM0GpWQ4JmY"
+        "name": "\u00daltima Mensagem",
+        "url": "https://open.spotify.com/album/4qMQhFYLjAzYvFkxvVJOR4"
       },
       "artists": [
         {
-          "name": "NALAH",
-          "url": "https://open.spotify.com/artist/6ETEPWJAjX1ZwlvkcRX5t8"
+          "name": "Carol & Vitoria",
+          "url": "https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD"
+        },
+        {
+          "name": "Kawe",
+          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
         }
       ],
-      "duration_ms": 147040,
-      "name": "N\u00f3s Dois",
-      "url": "https://open.spotify.com/track/3OSKdxDJ15q682cx1NF0ne"
+      "duration_ms": 174482,
+      "name": "\u00daltima Mensagem",
+      "url": "https://open.spotify.com/track/0aiIX2aJenYmGFw1BWUyxc"
     },
     {
       "added_at": "2022-09-16 03:00:00",
@@ -1579,6 +1563,22 @@
       "duration_ms": 196559,
       "name": "Livro Aberto",
       "url": "https://open.spotify.com/track/6J70GASPHV0GK7wz0QyfUp"
+    },
+    {
+      "added_at": "2022-09-16 03:00:00",
+      "album": {
+        "name": "N\u00f3s Dois",
+        "url": "https://open.spotify.com/album/7xKWFFnBKO9EM0GpWQ4JmY"
+      },
+      "artists": [
+        {
+          "name": "NALAH",
+          "url": "https://open.spotify.com/artist/6ETEPWJAjX1ZwlvkcRX5t8"
+        }
+      ],
+      "duration_ms": 147040,
+      "name": "N\u00f3s Dois",
+      "url": "https://open.spotify.com/track/3OSKdxDJ15q682cx1NF0ne"
     },
     {
       "added_at": "2022-09-16 03:00:00",

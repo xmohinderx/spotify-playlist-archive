@@ -1,12 +1,12 @@
 {
   "description": "Ya Wailee! Get ready for some serious 90s nostalgia. Cover : Amr Diab",
-  "num_followers": 70969,
+  "num_followers": 71012,
   "original_name": "90s Arabic Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxMzkxNzYzNywwMDAwMDAwMDU0ZmZlYjQ1ODM2Zjk3YjQxYjZkNDMxNzc2OThiZjVj",
+  "snapshot_id": "MTYxMzkxNzYzNywwMDAwMDAwMDg5MTUxZDc5ZDFhZDc2NzM4MzZhNDYwYjQ4YTY0YjNk",
   "tracks": [
     {
       "added_at": "2021-02-21 14:27:17",
@@ -287,22 +287,6 @@
     {
       "added_at": "2021-02-21 14:27:17",
       "album": {
-        "name": "Nour El Ein",
-        "url": "https://open.spotify.com/album/3qZ0kZ8d3F8EpvEyx0yemA"
-      },
-      "artists": [
-        {
-          "name": "Amr Diab",
-          "url": "https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M"
-        }
-      ],
-      "duration_ms": 320641,
-      "name": "Moush Hadaaf",
-      "url": "https://open.spotify.com/track/3pozehDmGhW7KSCbYbDW6j"
-    },
-    {
-      "added_at": "2021-02-21 14:27:17",
-      "album": {
         "name": "Layalyki",
         "url": "https://open.spotify.com/album/4GrJfxi95PEpCKmi2WVZGq"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 228754,
       "name": "Eskandarany",
       "url": "https://open.spotify.com/track/7ASLjRJBMltLFRyDKmOdbo"
+    },
+    {
+      "added_at": "2021-02-21 14:27:17",
+      "album": {
+        "name": "Nour El Ein",
+        "url": "https://open.spotify.com/album/3qZ0kZ8d3F8EpvEyx0yemA"
+      },
+      "artists": [
+        {
+          "name": "Amr Diab",
+          "url": "https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M"
+        }
+      ],
+      "duration_ms": 320641,
+      "name": "Moush Hadaaf",
+      "url": "https://open.spotify.com/track/3pozehDmGhW7KSCbYbDW6j"
     },
     {
       "added_at": "2021-02-21 14:27:17",
@@ -367,38 +367,6 @@
     {
       "added_at": "2021-02-21 14:27:17",
       "album": {
-        "name": "Nour El Ein",
-        "url": "https://open.spotify.com/album/3qZ0kZ8d3F8EpvEyx0yemA"
-      },
-      "artists": [
-        {
-          "name": "Amr Diab",
-          "url": "https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M"
-        }
-      ],
-      "duration_ms": 275553,
-      "name": "Nafs El Makan",
-      "url": "https://open.spotify.com/track/2XPnzYLx2hLHVLz6REezsr"
-    },
-    {
-      "added_at": "2021-02-21 14:27:17",
-      "album": {
-        "name": "Baad Al Santen",
-        "url": "https://open.spotify.com/album/6XuB4Rlnkf3V0bIlaLyCVd"
-      },
-      "artists": [
-        {
-          "name": "Wael Kfoury",
-          "url": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws"
-        }
-      ],
-      "duration_ms": 321933,
-      "name": "Maghrorah",
-      "url": "https://open.spotify.com/track/3GjTCj3ca0XlIVs6wGyWwD"
-    },
-    {
-      "added_at": "2021-02-21 14:27:17",
-      "album": {
         "name": "1, 2, 3 Soleils",
         "url": "https://open.spotify.com/album/6z2xalLZtysIZqpQJNkRUO"
       },
@@ -423,18 +391,18 @@
     {
       "added_at": "2021-02-21 14:27:17",
       "album": {
-        "name": "Sahrany",
-        "url": "https://open.spotify.com/album/5uHM1w5ArPnv1foKaRqoiI"
+        "name": "Baad Al Santen",
+        "url": "https://open.spotify.com/album/6XuB4Rlnkf3V0bIlaLyCVd"
       },
       "artists": [
         {
-          "name": "Ehab Tawfik",
-          "url": "https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C"
+          "name": "Wael Kfoury",
+          "url": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws"
         }
       ],
-      "duration_ms": 259613,
-      "name": "Sahrany",
-      "url": "https://open.spotify.com/track/0Ky7MMa6YeAXNofU3F1hoe"
+      "duration_ms": 321933,
+      "name": "Maghrorah",
+      "url": "https://open.spotify.com/track/3GjTCj3ca0XlIVs6wGyWwD"
     },
     {
       "added_at": "2021-02-21 14:27:17",
@@ -451,6 +419,38 @@
       "duration_ms": 260167,
       "name": "Ya Leila Disco",
       "url": "https://open.spotify.com/track/04IvZrvzumdtX3sH2AmHXG"
+    },
+    {
+      "added_at": "2021-02-21 14:27:17",
+      "album": {
+        "name": "Sahrany",
+        "url": "https://open.spotify.com/album/5uHM1w5ArPnv1foKaRqoiI"
+      },
+      "artists": [
+        {
+          "name": "Ehab Tawfik",
+          "url": "https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C"
+        }
+      ],
+      "duration_ms": 259613,
+      "name": "Sahrany",
+      "url": "https://open.spotify.com/track/0Ky7MMa6YeAXNofU3F1hoe"
+    },
+    {
+      "added_at": "2021-02-21 14:27:17",
+      "album": {
+        "name": "Nour El Ein",
+        "url": "https://open.spotify.com/album/3qZ0kZ8d3F8EpvEyx0yemA"
+      },
+      "artists": [
+        {
+          "name": "Amr Diab",
+          "url": "https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M"
+        }
+      ],
+      "duration_ms": 275553,
+      "name": "Nafs El Makan",
+      "url": "https://open.spotify.com/track/2XPnzYLx2hLHVLz6REezsr"
     },
     {
       "added_at": "2021-02-21 14:27:17",
@@ -535,6 +535,22 @@
     {
       "added_at": "2021-02-21 14:27:17",
       "album": {
+        "name": "Ya Leila",
+        "url": "https://open.spotify.com/album/651XwngqHNHNhwEsvOUL10"
+      },
+      "artists": [
+        {
+          "name": "Hisham Abbas",
+          "url": "https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG"
+        }
+      ],
+      "duration_ms": 291383,
+      "name": "Layali El Shouq",
+      "url": "https://open.spotify.com/track/1qQzDpRp5r54W6qdCWW0VX"
+    },
+    {
+      "added_at": "2021-02-21 14:27:17",
+      "album": {
         "name": "Roh Alby",
         "url": "https://open.spotify.com/album/09iSw6kGLKGL65mTxXUHp9"
       },
@@ -567,22 +583,6 @@
     {
       "added_at": "2021-02-21 14:27:17",
       "album": {
-        "name": "Dawrouli An Habib",
-        "url": "https://open.spotify.com/album/1PQ2uPvUobUfgwOedPBHFv"
-      },
-      "artists": [
-        {
-          "name": "Samira Tawfik",
-          "url": "https://open.spotify.com/artist/0Kj6hBtl4FIOs9AJOB6Yd3"
-        }
-      ],
-      "duration_ms": 325120,
-      "name": "Ah Yalali",
-      "url": "https://open.spotify.com/track/2IBd5hETkThd4TNKx49uoS"
-    },
-    {
-      "added_at": "2021-02-21 14:27:17",
-      "album": {
         "name": "Marasil",
         "url": "https://open.spotify.com/album/66jInZF8WwjMbWn2nuFZss"
       },
@@ -599,18 +599,18 @@
     {
       "added_at": "2021-02-21 14:27:17",
       "album": {
-        "name": "Ya Leila",
-        "url": "https://open.spotify.com/album/651XwngqHNHNhwEsvOUL10"
+        "name": "Dawrouli An Habib",
+        "url": "https://open.spotify.com/album/1PQ2uPvUobUfgwOedPBHFv"
       },
       "artists": [
         {
-          "name": "Hisham Abbas",
-          "url": "https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG"
+          "name": "Samira Tawfik",
+          "url": "https://open.spotify.com/artist/0Kj6hBtl4FIOs9AJOB6Yd3"
         }
       ],
-      "duration_ms": 291383,
-      "name": "Layali El Shouq",
-      "url": "https://open.spotify.com/track/1qQzDpRp5r54W6qdCWW0VX"
+      "duration_ms": 325120,
+      "name": "Ah Yalali",
+      "url": "https://open.spotify.com/track/2IBd5hETkThd4TNKx49uoS"
     },
     {
       "added_at": "2021-02-21 14:27:17",
@@ -679,18 +679,18 @@
     {
       "added_at": "2021-02-21 14:27:17",
       "album": {
-        "name": "Esa'aly",
-        "url": "https://open.spotify.com/album/08Xmbnzwl0qmaui4ystYRJ"
+        "name": "\u062d\u064a\u0631\u0648\u0646\u064a",
+        "url": "https://open.spotify.com/album/6U2vDTuxqL4GNG5aFnAhI5"
       },
       "artists": [
         {
-          "name": "Mohamed Fouad & Haggag Abdul Rahman",
-          "url": "https://open.spotify.com/artist/2C6nBdNa0zhNWDYGtBNh6U"
+          "name": "Saber Rebai",
+          "url": "https://open.spotify.com/artist/7Fqe0QpkJOM26wbeHGEKbD"
         }
       ],
-      "duration_ms": 254955,
-      "name": "Esa'aly",
-      "url": "https://open.spotify.com/track/2BDA9qmy0Kp47nCsWWIy8O"
+      "duration_ms": 246804,
+      "name": "\u062d\u064a\u0631\u0648\u0646\u064a",
+      "url": "https://open.spotify.com/track/0aphoVsfQe72HP7fJUWCp5"
     },
     {
       "added_at": "2021-02-21 14:27:17",
@@ -711,18 +711,18 @@
     {
       "added_at": "2021-02-21 14:27:17",
       "album": {
-        "name": "\u062d\u064a\u0631\u0648\u0646\u064a",
-        "url": "https://open.spotify.com/album/6U2vDTuxqL4GNG5aFnAhI5"
+        "name": "Esa'aly",
+        "url": "https://open.spotify.com/album/08Xmbnzwl0qmaui4ystYRJ"
       },
       "artists": [
         {
-          "name": "Saber Rebai",
-          "url": "https://open.spotify.com/artist/7Fqe0QpkJOM26wbeHGEKbD"
+          "name": "Mohamed Fouad & Haggag Abdul Rahman",
+          "url": "https://open.spotify.com/artist/2C6nBdNa0zhNWDYGtBNh6U"
         }
       ],
-      "duration_ms": 246804,
-      "name": "\u062d\u064a\u0631\u0648\u0646\u064a",
-      "url": "https://open.spotify.com/track/0aphoVsfQe72HP7fJUWCp5"
+      "duration_ms": 254955,
+      "name": "Esa'aly",
+      "url": "https://open.spotify.com/track/2BDA9qmy0Kp47nCsWWIy8O"
     },
     {
       "added_at": "2021-02-21 14:27:17",

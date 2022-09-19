@@ -4,7 +4,7 @@
 
 > Kick back  and soak up the warm and soothing tones of jazz and electronic.
 
-50 songs - 4 hr 34 min - not published yet
+50 songs - 4 hr 34 min - [published](https://open.spotify.com/playlist/5YvJc7GDleqyxDCjBu39II)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

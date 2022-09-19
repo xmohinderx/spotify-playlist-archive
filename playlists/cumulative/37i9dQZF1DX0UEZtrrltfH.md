@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:0DqR5aQYPz1s2M3YbycLMJ">jamesjamesjames' </a> favourite tracks\.  Updated regularly\. Curated by jamesjamesjames\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-61 songs - 4 hr 2 min - not published yet
+61 songs - 4 hr 2 min - [published](https://open.spotify.com/playlist/46XZ4IMGhni4OH0JCWukmO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

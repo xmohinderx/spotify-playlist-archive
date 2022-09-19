@@ -4,7 +4,7 @@
 
 > From across the globe\. New Songwriters on the horizon\. Cover: <a href="https://artists.spotify.com/songwriter/7m03aDw5dqfBpheQEDSYGp"> Nathan Galante.</a>
 
-26 songs - 1 hr 23 min - not published yet
+26 songs - 1 hr 23 min - [published](https://open.spotify.com/playlist/5upgV173Zs7PqUDbnYxRRp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

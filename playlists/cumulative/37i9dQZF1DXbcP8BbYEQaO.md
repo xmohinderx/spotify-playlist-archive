@@ -4,7 +4,7 @@
 
 > in the evening the real me comes alive
 
-439 songs - 1 day 1 hr 2 min - [published](https://open.spotify.com/playlist/4uegMGWDoppa2uOkW5upmp)
+441 songs - 1 day 1 hr 7 min - [published](https://open.spotify.com/playlist/4uegMGWDoppa2uOkW5upmp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,7 +241,7 @@
 | [last time](https://open.spotify.com/track/0UzJ1IVUONAqNSvrLDHz3I) | [OSTON](https://open.spotify.com/artist/4PR77KtW5drJXCsqcyfuzJ) | [Sitting at the Kids Table](https://open.spotify.com/album/42DhJfcMoofwzhUQ2WKzBb) | 3:13 | 2020-10-13\* | 2021-12-04 |
 | [Lavender](https://open.spotify.com/track/5DwHVuWlB7SlZbmF0Yn12z) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga) | [Lavender](https://open.spotify.com/album/2vaoGOKgCVLmgv5KilbsoU) | 3:31 | 2021-06-19 | 2021-10-12 |
 | [Lego House](https://open.spotify.com/track/5ubHAQtKuFfiG4FXfLP804) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [+](https://open.spotify.com/album/02pi98kE0nra0yBqCStzbC) | 3:05 | 2021-06-19 | 2021-06-26 |
-| [Let's Get It Right \- Edit](https://open.spotify.com/track/7LTpwZbsZYnK0xnFSfnfxc) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Let's Get It Right](https://open.spotify.com/album/2ddb06dZsTW898KP4SKhXd) | 3:19 | 2022-07-29 |  |
+| [Let's Get It Right \- Edit](https://open.spotify.com/track/7LTpwZbsZYnK0xnFSfnfxc) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Let's Get It Right](https://open.spotify.com/album/2ddb06dZsTW898KP4SKhXd) | 3:19 | 2022-07-29 | 2022-09-19 |
 | [Liberation](https://open.spotify.com/track/63HeOmi0Cav15rLsktJq8W) | [BUZZ](https://open.spotify.com/artist/4YXzweXdgnq4xSOpo1ZWxR) | [Liberation](https://open.spotify.com/album/2ikZVKHUow5r1VdlVaFBnZ) | 2:38 | 2022-01-14 | 2022-04-17 |
 | [Libre](https://open.spotify.com/track/5h9OvsTeNydBaZp7swQubV) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Nonante\-Cinq](https://open.spotify.com/album/3I756vFQ1PWvG2Q2jJsIkA) | 2:44 | 2021-12-04 |  |
 | [Lie To Me \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/47DHoEPxnSkT4f626qo5Mw) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Spotify Singles](https://open.spotify.com/album/0VGvGFpQhkexY9GMSih3Jv) | 2:40 | 2020-10-13\* | 2021-07-10 |
@@ -265,7 +265,7 @@
 | [lowkey](https://open.spotify.com/track/5TTXEcfsYLh6fTarLaevTi) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [lowkey](https://open.spotify.com/album/6a1p03zluxNwXTVdm9IStw) | 2:51 | 2020-11-18 | 2021-07-10 |
 | [Lucid Dreams](https://open.spotify.com/track/0kdYu42jVmgCLYL30p2CpE) | [PLANT](https://open.spotify.com/artist/2b2PRT5intoFoG9KPB3Nyq) | [Lucid Dreams](https://open.spotify.com/album/3LsS2fhWr9oD7qta0bWgFR) | 3:17 | 2022-08-05 | 2022-09-03 |
 | [Lucky Strike](https://open.spotify.com/track/4RoArPM0AsuW3h8hW8xtnr) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Bloom](https://open.spotify.com/album/3MYJYd73u0SatCnRVvRJ3M) | 3:28 | 2020-10-13\* | 2021-07-04 |
-| [Married to Your Melody](https://open.spotify.com/track/5G0gqPXbupyLOqUrWksyEY) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Married to Your Melody](https://open.spotify.com/album/0wjWPQyNGZ92HWz5sdCyxt) | 2:58 | 2022-07-21 |  |
+| [Married to Your Melody](https://open.spotify.com/track/5G0gqPXbupyLOqUrWksyEY) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Married to Your Melody](https://open.spotify.com/album/0wjWPQyNGZ92HWz5sdCyxt) | 2:58 | 2022-07-21 | 2022-09-19 |
 | [Married to Your Melody](https://open.spotify.com/track/7kl1oW2J2F9CcSvuej1V9h) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Married to Your Melody](https://open.spotify.com/album/4sfQiCd0Wcm0vRPmgTH7Su) | 2:58 | 2022-04-22 | 2022-07-28 |
 | [Mathematics](https://open.spotify.com/track/0LGyz7yfuD5ttvy7kOcEKp) | [Little Boots](https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30) | [Hands \(US\)](https://open.spotify.com/album/6hfQ4H9mS2s9h1UGtvDu5p) | 3:26 | 2022-04-16 | 2022-04-21 |
 | [Microdose](https://open.spotify.com/track/6iNRJ4TuoDqkI0o6wFRR2w) | [Kiiara](https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP) | [Microdose](https://open.spotify.com/album/3OAoVhJtoIZRdVXIh7R3zS) | 2:46 | 2022-04-16 | 2022-07-09 |
@@ -312,6 +312,7 @@
 | [Phases](https://open.spotify.com/track/3je88Q4OvTqIx7BFRFYvRA) | [PRETTYMUCH](https://open.spotify.com/artist/5Y8eJDj37KhaEeqbVO7Ag1) | [Phases](https://open.spotify.com/album/4q983qnYbzKzO8ulICPKgm) | 3:35 | 2021-07-10 | 2021-09-11 |
 | [PIECES](https://open.spotify.com/track/07IMjyn9gW77cR7APem5g6) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [PIECES](https://open.spotify.com/album/49oqAXVpNnPGyucWw91Eyo) | 2:46 | 2022-06-24 |  |
 | [PILLOWTALK](https://open.spotify.com/track/0PDUDa38GO8lMxLCRc4lL1) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Mind Of Mine \(Deluxe Edition\)](https://open.spotify.com/album/5amj9zNeZ3B2EdpBgXrOZ0) | 3:22 | 2021-07-04 | 2021-08-10 |
+| [pl4yg1rl](https://open.spotify.com/track/3xA9Cta8gafKNV1xNpMK2r) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [pl4yg1rl](https://open.spotify.com/album/1xQEgoJUeY0K2pc0p8LLXG) | 2:39 | 2022-09-16 |  |
 | [plans](https://open.spotify.com/track/0Je4hbQlNwdelh5ZcCLZGK) | [LVRBOY](https://open.spotify.com/artist/0jlINfbPEBh6l0DyV3UlLn) | [plans](https://open.spotify.com/album/2ruGW2pGs6dKRySyVSC5Rs) | 3:00 | 2021-02-19 | 2021-07-10 |
 | [Please Don't Suck](https://open.spotify.com/track/2Sx4OLfgMfRgYDvGHBJvck) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [Please Don't Suck](https://open.spotify.com/album/7he1ByOAq0rTVmSoW5ny1E) | 2:55 | 2021-07-19 | 2022-01-01 |
 | [Poison](https://open.spotify.com/track/7M4fSXTAUQih72cf0FbMgA) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Poison \(feat\. The Weeknd\)](https://open.spotify.com/album/2t0AfNqhtlMnjFxbTzmPqO) | 2:42 | 2021-12-17 | 2022-04-17 |
@@ -345,6 +346,7 @@
 | [Scarlett](https://open.spotify.com/track/61HHWViQkXFwVRYAFWmqhk) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Scarlett](https://open.spotify.com/album/3Ib4FYFZTU0cmLZJRNUBkh) | 3:16 | 2021-09-12 | 2022-04-17 |
 | [Scooter](https://open.spotify.com/track/1RBIzko2PMY5CP0d3MIkwl) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Scooter](https://open.spotify.com/album/1Ib8Y9ZWFGTI4zjglUKxwV) | 2:08 | 2021-11-06 | 2022-04-17 |
 | [Scorpio Season](https://open.spotify.com/track/4L02unXGhakMU3dyqZE3b7) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Scorpio Season](https://open.spotify.com/album/0anO2F4PaCbLy3yRpaT1xi) | 3:05 | 2021-10-23 | 2022-04-17 |
+| [See You In My Dreams](https://open.spotify.com/track/72NyOVk69pDEGQwe313bnC) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [In Between Dreams](https://open.spotify.com/album/65aMVW2EfbGTgW9KvG2AMz) | 2:39 | 2022-09-16 |  |
 | [Set You Free](https://open.spotify.com/track/2qKdc7t4aM7yPFvZLosJE3) | [Kyla La Grange](https://open.spotify.com/artist/6KcmUwBzfwLaYxdfIboqcp) | [Set You Free](https://open.spotify.com/album/0xpPzS9df3eHXt75Cv0jJU) | 3:21 | 2021-09-25 | 2022-01-29 |
 | [Sirens](https://open.spotify.com/track/5EcN4hZ85eZ45MTS1oRyHY) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Sirens](https://open.spotify.com/album/3gTvVImhfT0nAA3YYdpX9L) | 3:58 | 2022-03-31 | 2022-07-29 |
 | [Sirens \(feat\. Caroline Polachek\)](https://open.spotify.com/track/1bRhcIzZrjpZebM9i91uny) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Palaces](https://open.spotify.com/album/2V1L71NRmzGYsqOqnjGimb) | 3:58 | 2022-07-21 |  |

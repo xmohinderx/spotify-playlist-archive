@@ -1,12 +1,12 @@
 {
   "description": "A different shade of the blues. Cover: Ash Grunwald",
-  "num_followers": 20914,
+  "num_followers": 20985,
   "original_name": "Alt-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTk3NTU4OCwwMDAwMDAwMDQ4N2IyMzQ5ZDAwM2Y3MzM1MjA4MzU5NDMxYzJmYTBh",
+  "snapshot_id": "MTY2MTk3NTU4OCwwMDAwMDAwMDRlODVkODY5ZTRjYTQwNDVkYWM3MTAwNDk4NTlkZDc4",
   "tracks": [
     {
       "added_at": "2022-08-31 19:45:43",
@@ -227,6 +227,22 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
+        "name": "Five Dollars",
+        "url": "https://open.spotify.com/album/6qjPSLr8oJHocV9Mt6Ax0m"
+      },
+      "artists": [
+        {
+          "name": "Black Joe Lewis & The Honeybears",
+          "url": "https://open.spotify.com/artist/6kbzJ40luXJ5IKnSpWr7SD"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Five Dollars",
+      "url": "https://open.spotify.com/track/4m0zS8ogujtTiLcAwCmHFT"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
         "name": "Pearl Cadillac (feat. Andra Day)",
         "url": "https://open.spotify.com/album/5uVl49FsC9vFHCxNT2zoiJ"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 210887,
       "name": "Pearl Cadillac (feat. Andra Day)",
       "url": "https://open.spotify.com/track/5fcisGWiGPqr3hkPy0h1mr"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
-        "name": "Five Dollars",
-        "url": "https://open.spotify.com/album/6qjPSLr8oJHocV9Mt6Ax0m"
-      },
-      "artists": [
-        {
-          "name": "Black Joe Lewis & The Honeybears",
-          "url": "https://open.spotify.com/artist/6kbzJ40luXJ5IKnSpWr7SD"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Five Dollars",
-      "url": "https://open.spotify.com/track/4m0zS8ogujtTiLcAwCmHFT"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -475,22 +475,6 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Ain't Too Worried Yet",
-        "url": "https://open.spotify.com/album/3ifmjG8tSe2MtZzFpmUKg4"
-      },
-      "artists": [
-        {
-          "name": "Bad Flamingo",
-          "url": "https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE"
-        }
-      ],
-      "duration_ms": 212903,
-      "name": "Ain't Too Worried Yet",
-      "url": "https://open.spotify.com/track/0jf5lyDBbgIU7kt5ULc1ZF"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
         "name": "Eric Tessmer 2",
         "url": "https://open.spotify.com/album/6P3z7MA4EFR2nC3JLBtesD"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 214818,
       "name": "In the Middle",
       "url": "https://open.spotify.com/track/2QSeOYAeexi7ZxVqlEFGE8"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
+        "name": "Ain't Too Worried Yet",
+        "url": "https://open.spotify.com/album/3ifmjG8tSe2MtZzFpmUKg4"
+      },
+      "artists": [
+        {
+          "name": "Bad Flamingo",
+          "url": "https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE"
+        }
+      ],
+      "duration_ms": 212903,
+      "name": "Ain't Too Worried Yet",
+      "url": "https://open.spotify.com/track/0jf5lyDBbgIU7kt5ULc1ZF"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -587,22 +587,6 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Homemade Disaster",
-        "url": "https://open.spotify.com/album/07aWecL4qu105qqgmTbvA1"
-      },
-      "artists": [
-        {
-          "name": "Sugaray Rayford",
-          "url": "https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3"
-        }
-      ],
-      "duration_ms": 194564,
-      "name": "Homemade Disaster",
-      "url": "https://open.spotify.com/track/77jnDAj554H9X82zqhOXYz"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
         "name": "The Juice",
         "url": "https://open.spotify.com/album/66glD8iZgTv1vKXZRGQWXL"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 220960,
       "name": "Go Crazy (feat. Keb' Mo')",
       "url": "https://open.spotify.com/track/7G6oI8xoGa62LGvE2xjtfP"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
+        "name": "Homemade Disaster",
+        "url": "https://open.spotify.com/album/07aWecL4qu105qqgmTbvA1"
+      },
+      "artists": [
+        {
+          "name": "Sugaray Rayford",
+          "url": "https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3"
+        }
+      ],
+      "duration_ms": 194564,
+      "name": "Homemade Disaster",
+      "url": "https://open.spotify.com/track/77jnDAj554H9X82zqhOXYz"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -695,26 +695,6 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "The Juice",
-        "url": "https://open.spotify.com/album/66glD8iZgTv1vKXZRGQWXL"
-      },
-      "artists": [
-        {
-          "name": "G. Love & Special Sauce",
-          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
-        },
-        {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
-        }
-      ],
-      "duration_ms": 187026,
-      "name": "The Juice (feat. Marcus King)",
-      "url": "https://open.spotify.com/track/3NQ0Q9VSHzSwwlzFBey6QY"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
         "name": "Don't Say Goodbye",
         "url": "https://open.spotify.com/album/4D1EqPba5ZOyIbYkaWqZR2"
       },
@@ -731,18 +711,18 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Downtown",
-        "url": "https://open.spotify.com/album/5nqIOgayufE70Iy6i3jke5"
+        "name": "Moonshine Blue",
+        "url": "https://open.spotify.com/album/4w7N0SsMduNWCXAIVUONWw"
       },
       "artists": [
         {
-          "name": "Rafferty",
-          "url": "https://open.spotify.com/artist/37Kwz8lKQipujhPpz9Q5cQ"
+          "name": "Jack Broadbent",
+          "url": "https://open.spotify.com/artist/2yk5jg6yi5fV6xmUZoBPHU"
         }
       ],
-      "duration_ms": 212147,
-      "name": "Downtown",
-      "url": "https://open.spotify.com/track/71dt9Epn88df9wWWdGDqJM"
+      "duration_ms": 168752,
+      "name": "Wishing Well",
+      "url": "https://open.spotify.com/track/5pzZNwKYPFrI9UidaDcH9J"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -763,18 +743,38 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Moonshine Blue",
-        "url": "https://open.spotify.com/album/4w7N0SsMduNWCXAIVUONWw"
+        "name": "Downtown",
+        "url": "https://open.spotify.com/album/5nqIOgayufE70Iy6i3jke5"
       },
       "artists": [
         {
-          "name": "Jack Broadbent",
-          "url": "https://open.spotify.com/artist/2yk5jg6yi5fV6xmUZoBPHU"
+          "name": "Rafferty",
+          "url": "https://open.spotify.com/artist/37Kwz8lKQipujhPpz9Q5cQ"
         }
       ],
-      "duration_ms": 168752,
-      "name": "Wishing Well",
-      "url": "https://open.spotify.com/track/5pzZNwKYPFrI9UidaDcH9J"
+      "duration_ms": 212147,
+      "name": "Downtown",
+      "url": "https://open.spotify.com/track/71dt9Epn88df9wWWdGDqJM"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
+        "name": "The Juice",
+        "url": "https://open.spotify.com/album/66glD8iZgTv1vKXZRGQWXL"
+      },
+      "artists": [
+        {
+          "name": "G. Love & Special Sauce",
+          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
+        },
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+        }
+      ],
+      "duration_ms": 187026,
+      "name": "The Juice (feat. Marcus King)",
+      "url": "https://open.spotify.com/track/3NQ0Q9VSHzSwwlzFBey6QY"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -843,18 +843,18 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "The Juice",
-        "url": "https://open.spotify.com/album/66glD8iZgTv1vKXZRGQWXL"
+        "name": "Bottom Shelf Gin",
+        "url": "https://open.spotify.com/album/6ItheSwVdlIhOZhXsvjDdC"
       },
       "artists": [
         {
-          "name": "G. Love & Special Sauce",
-          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
+          "name": "Bad Flamingo",
+          "url": "https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE"
         }
       ],
-      "duration_ms": 195693,
-      "name": "Fix Your Face",
-      "url": "https://open.spotify.com/track/3eP5an9ETzZjFBKdGmwOUK"
+      "duration_ms": 182293,
+      "name": "Bottom Shelf Gin",
+      "url": "https://open.spotify.com/track/2d4h1uZMKMe58QlIxlmrPH"
     }
   ],
   "unique_name": "Alt-Blue",

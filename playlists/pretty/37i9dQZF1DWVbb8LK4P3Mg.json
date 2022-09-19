@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the wonderful holiday season with K-Pop! Here's a collection of Korean Christmas tunes by K-Pop artists.",
-  "num_followers": 43990,
+  "num_followers": 43995,
   "original_name": "Christmas K-Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDA5Nzc2MCwwMDAwMDAwMGM5NDc2MTM4YWIyNjgwNGYzMTgyOTQ1MGFkNWViMmNj",
+  "snapshot_id": "MTY0MDA5Nzc2MCwwMDAwMDAwMDRmNTkxNGQzYjEwMTllOTZkZWU4ZDU0MWU1NDFiZGJj",
   "tracks": [
     {
       "added_at": "2021-12-21 14:42:40",
@@ -88,9 +88,9 @@
           "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
         }
       ],
-      "duration_ms": 273287,
-      "name": "Miracles in December",
-      "url": "https://open.spotify.com/track/7HrCnwDvbtCKSZtpNDmII9"
+      "duration_ms": 207667,
+      "name": "The First Snow",
+      "url": "https://open.spotify.com/track/2VNpT9fRk1kyksT0S4coZR"
     },
     {
       "added_at": "2021-12-21 14:42:40",
@@ -211,8 +211,8 @@
     {
       "added_at": "2021-12-21 14:42:40",
       "album": {
-        "name": "THE BOYZ Special Single [Candles]",
-        "url": "https://open.spotify.com/album/0kIrSdkjAIqiQ8yhXyrtun"
+        "name": "THE BOYZ Special Single 'Christmassy!'",
+        "url": "https://open.spotify.com/album/5KR9XuMapeh6JjUdcy4MHM"
       },
       "artists": [
         {
@@ -220,9 +220,9 @@
           "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
         }
       ],
-      "duration_ms": 231093,
-      "name": "Candles",
-      "url": "https://open.spotify.com/track/5vT3UDjwJt87muaqyLW13W"
+      "duration_ms": 205533,
+      "name": "Christmassy!",
+      "url": "https://open.spotify.com/track/1KMc5CXwEkjklwSqPMQjB1"
     },
     {
       "added_at": "2021-12-21 14:42:40",
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
         }
       ],
-      "duration_ms": 207667,
-      "name": "The First Snow",
-      "url": "https://open.spotify.com/track/2VNpT9fRk1kyksT0S4coZR"
+      "duration_ms": 273287,
+      "name": "Miracles in December",
+      "url": "https://open.spotify.com/track/7HrCnwDvbtCKSZtpNDmII9"
     },
     {
       "added_at": "2021-12-21 14:42:40",
@@ -307,8 +307,8 @@
     {
       "added_at": "2021-12-21 14:42:40",
       "album": {
-        "name": "THE BOYZ Special Single 'Christmassy!'",
-        "url": "https://open.spotify.com/album/5KR9XuMapeh6JjUdcy4MHM"
+        "name": "THE BOYZ Special Single [Candles]",
+        "url": "https://open.spotify.com/album/0kIrSdkjAIqiQ8yhXyrtun"
       },
       "artists": [
         {
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
         }
       ],
-      "duration_ms": 205533,
-      "name": "Christmassy!",
-      "url": "https://open.spotify.com/track/1KMc5CXwEkjklwSqPMQjB1"
+      "duration_ms": 231093,
+      "name": "Candles",
+      "url": "https://open.spotify.com/track/5vT3UDjwJt87muaqyLW13W"
     },
     {
       "added_at": "2021-12-21 14:42:40",
@@ -471,22 +471,6 @@
     {
       "added_at": "2021-12-21 14:42:40",
       "album": {
-        "name": "Merry-Go-Round (Christmas Edition)",
-        "url": "https://open.spotify.com/album/18ZqTGZm6gid6WIsIhH4H7"
-      },
-      "artists": [
-        {
-          "name": "ASTRO",
-          "url": "https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8"
-        }
-      ],
-      "duration_ms": 233025,
-      "name": "Merry-Go-Round (Christmas Edition)",
-      "url": "https://open.spotify.com/track/67s1NKEYHGfhyGhAgnlg6e"
-    },
-    {
-      "added_at": "2021-12-21 14:42:40",
-      "album": {
         "name": "merry merry",
         "url": "https://open.spotify.com/album/0u4kQYJsfOrpnew817qr5q"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 165693,
       "name": "merry merry",
       "url": "https://open.spotify.com/track/2kGIo9vbpdBnRnOJlPAtNb"
+    },
+    {
+      "added_at": "2021-12-21 14:42:40",
+      "album": {
+        "name": "Merry-Go-Round (Christmas Edition)",
+        "url": "https://open.spotify.com/album/18ZqTGZm6gid6WIsIhH4H7"
+      },
+      "artists": [
+        {
+          "name": "ASTRO",
+          "url": "https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8"
+        }
+      ],
+      "duration_ms": 233025,
+      "name": "Merry-Go-Round (Christmas Edition)",
+      "url": "https://open.spotify.com/track/67s1NKEYHGfhyGhAgnlg6e"
     },
     {
       "added_at": "2021-12-21 14:42:40",
@@ -743,22 +743,30 @@
     {
       "added_at": "2021-12-21 14:42:40",
       "album": {
-        "name": "Christmas Rose",
-        "url": "https://open.spotify.com/album/2vWcgcfBxlPZIU9rYqob9o"
+        "name": "STARSHIP PLANET 2018",
+        "url": "https://open.spotify.com/album/6UPvFQ3Lhi5x6W7vCq0Zaq"
       },
       "artists": [
         {
-          "name": "OVAN",
-          "url": "https://open.spotify.com/artist/4FuRHFtCeoYaeeVDKyyvbS"
+          "name": "K.Will",
+          "url": "https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t"
         },
         {
-          "name": "LEEBADA",
-          "url": "https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO"
+          "name": "SOYOU",
+          "url": "https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb"
+        },
+        {
+          "name": "BOYFRIEND",
+          "url": "https://open.spotify.com/artist/2Pw8E6zZoeuksVWtyZPnzd"
+        },
+        {
+          "name": "Monsta X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
         }
       ],
-      "duration_ms": 223200,
-      "name": "Christmas Rose (feat. LEEBADA)",
-      "url": "https://open.spotify.com/track/4afAaodCYQK0rAW3tTvl8s"
+      "duration_ms": 241550,
+      "name": "Christmas Time",
+      "url": "https://open.spotify.com/track/0vDKTkWeDQETxVlr23XkkC"
     },
     {
       "added_at": "2021-12-21 14:42:40",
@@ -775,6 +783,26 @@
       "duration_ms": 167456,
       "name": "The Magic of Christmas Time",
       "url": "https://open.spotify.com/track/35OjjtMHKnPdOAsEZ6M9OA"
+    },
+    {
+      "added_at": "2021-12-21 14:42:40",
+      "album": {
+        "name": "Christmas Rose",
+        "url": "https://open.spotify.com/album/2vWcgcfBxlPZIU9rYqob9o"
+      },
+      "artists": [
+        {
+          "name": "OVAN",
+          "url": "https://open.spotify.com/artist/4FuRHFtCeoYaeeVDKyyvbS"
+        },
+        {
+          "name": "LEEBADA",
+          "url": "https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO"
+        }
+      ],
+      "duration_ms": 223200,
+      "name": "Christmas Rose (feat. LEEBADA)",
+      "url": "https://open.spotify.com/track/4afAaodCYQK0rAW3tTvl8s"
     },
     {
       "added_at": "2021-12-21 14:42:40",
@@ -847,22 +875,6 @@
     {
       "added_at": "2021-12-21 14:42:40",
       "album": {
-        "name": "5 Christmas Languages",
-        "url": "https://open.spotify.com/album/2iI6CpAodkzQyYxFbxHApH"
-      },
-      "artists": [
-        {
-          "name": "JAMIE",
-          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
-        }
-      ],
-      "duration_ms": 204906,
-      "name": "5 Christmas Languages",
-      "url": "https://open.spotify.com/track/5wy21ZeTCwveMpA5cktc7S"
-    },
-    {
-      "added_at": "2021-12-21 14:42:40",
-      "album": {
         "name": "This Christmas \u2013 Winter is Coming",
         "url": "https://open.spotify.com/album/1U3KyC9Key12NSi9ETVExx"
       },
@@ -879,30 +891,18 @@
     {
       "added_at": "2021-12-21 14:42:40",
       "album": {
-        "name": "STARSHIP PLANET 2018",
-        "url": "https://open.spotify.com/album/6UPvFQ3Lhi5x6W7vCq0Zaq"
+        "name": "5 Christmas Languages",
+        "url": "https://open.spotify.com/album/2iI6CpAodkzQyYxFbxHApH"
       },
       "artists": [
         {
-          "name": "K.Will",
-          "url": "https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t"
-        },
-        {
-          "name": "SOYOU",
-          "url": "https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb"
-        },
-        {
-          "name": "BOYFRIEND",
-          "url": "https://open.spotify.com/artist/2Pw8E6zZoeuksVWtyZPnzd"
-        },
-        {
-          "name": "Monsta X",
-          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+          "name": "JAMIE",
+          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
         }
       ],
-      "duration_ms": 241550,
-      "name": "Christmas Time",
-      "url": "https://open.spotify.com/track/0vDKTkWeDQETxVlr23XkkC"
+      "duration_ms": 204906,
+      "name": "5 Christmas Languages",
+      "url": "https://open.spotify.com/track/5wy21ZeTCwveMpA5cktc7S"
     },
     {
       "added_at": "2021-12-21 14:42:40",
@@ -959,6 +959,38 @@
     {
       "added_at": "2021-12-21 14:42:40",
       "album": {
+        "name": "Mr. Santa",
+        "url": "https://open.spotify.com/album/1ZJDN26GeLf0BznSW8VBe5"
+      },
+      "artists": [
+        {
+          "name": "LUNCH",
+          "url": "https://open.spotify.com/artist/2UVzzx3MOPYV3l6xW2lzBv"
+        }
+      ],
+      "duration_ms": 199266,
+      "name": "Mr. Santa",
+      "url": "https://open.spotify.com/track/5sKVq8eZao43FmumueYClP"
+    },
+    {
+      "added_at": "2021-12-21 14:42:40",
+      "album": {
+        "name": "Sweater (Orchestral Version)",
+        "url": "https://open.spotify.com/album/3ito8Q4onJ9uQFAR3omfWb"
+      },
+      "artists": [
+        {
+          "name": "AILEE",
+          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+        }
+      ],
+      "duration_ms": 237161,
+      "name": "Sweater - Orchestral Version",
+      "url": "https://open.spotify.com/track/04qZBrSALT0FSxG42XLexl"
+    },
+    {
+      "added_at": "2021-12-21 14:42:40",
+      "album": {
         "name": "welove Christmas",
         "url": "https://open.spotify.com/album/2ENjIrBqMnvvcuyb8yIEKS"
       },
@@ -995,38 +1027,6 @@
     {
       "added_at": "2021-12-21 14:42:40",
       "album": {
-        "name": "Sweater (Orchestral Version)",
-        "url": "https://open.spotify.com/album/3ito8Q4onJ9uQFAR3omfWb"
-      },
-      "artists": [
-        {
-          "name": "AILEE",
-          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
-        }
-      ],
-      "duration_ms": 237161,
-      "name": "Sweater - Orchestral Version",
-      "url": "https://open.spotify.com/track/04qZBrSALT0FSxG42XLexl"
-    },
-    {
-      "added_at": "2021-12-21 14:42:40",
-      "album": {
-        "name": "Mr. Santa",
-        "url": "https://open.spotify.com/album/1ZJDN26GeLf0BznSW8VBe5"
-      },
-      "artists": [
-        {
-          "name": "LUNCH",
-          "url": "https://open.spotify.com/artist/2UVzzx3MOPYV3l6xW2lzBv"
-        }
-      ],
-      "duration_ms": 199266,
-      "name": "Mr. Santa",
-      "url": "https://open.spotify.com/track/5sKVq8eZao43FmumueYClP"
-    },
-    {
-      "added_at": "2021-12-21 14:42:40",
-      "album": {
         "name": "This Christmas - Single",
         "url": "https://open.spotify.com/album/6NbYu2rBvmgYXjYe0rLCPQ"
       },
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2021-12-21 14:42:40",
       "album": {
+        "name": "MIDNIGHT CHRISTMAS",
+        "url": "https://open.spotify.com/album/5W65ubAkiJzldtaloU3G13"
+      },
+      "artists": [
+        {
+          "name": "SBGB",
+          "url": "https://open.spotify.com/artist/0Xemods2DGcYQi3sqxtHBO"
+        }
+      ],
+      "duration_ms": 142406,
+      "name": "Jingle Bells",
+      "url": "https://open.spotify.com/track/2CKdHKVgFiemZTZucPJY4q"
+    },
+    {
+      "added_at": "2021-12-21 14:42:40",
+      "album": {
         "name": "Christmas in July",
         "url": "https://open.spotify.com/album/0euAPwcmvqbw78ptNqYxN2"
       },
@@ -1055,6 +1071,22 @@
       "duration_ms": 239653,
       "name": "Christmas in July",
       "url": "https://open.spotify.com/track/1XbMklm5bn9DRpRyvePwow"
+    },
+    {
+      "added_at": "2021-12-21 14:42:40",
+      "album": {
+        "name": "HITMAN PROJECT #1 : A TRIBUTE TO THE HITMAN,DAVID FOSTER",
+        "url": "https://open.spotify.com/album/7eRKeHsGJe7gtSUwoaHTqQ"
+      },
+      "artists": [
+        {
+          "name": "AILEE",
+          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+        }
+      ],
+      "duration_ms": 289384,
+      "name": "MY GROWN UP CHRISTMAS LIST",
+      "url": "https://open.spotify.com/track/2ONdR1GlPowCViNz74KE7h"
     },
     {
       "added_at": "2021-12-21 14:42:40",
@@ -1099,22 +1131,6 @@
       "duration_ms": 249169,
       "name": "Falling",
       "url": "https://open.spotify.com/track/0KFQoeuppOmhNDcJzoqZyr"
-    },
-    {
-      "added_at": "2021-12-21 14:42:40",
-      "album": {
-        "name": "HITMAN PROJECT #1 : A TRIBUTE TO THE HITMAN,DAVID FOSTER",
-        "url": "https://open.spotify.com/album/7eRKeHsGJe7gtSUwoaHTqQ"
-      },
-      "artists": [
-        {
-          "name": "AILEE",
-          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
-        }
-      ],
-      "duration_ms": 289384,
-      "name": "MY GROWN UP CHRISTMAS LIST",
-      "url": "https://open.spotify.com/track/2ONdR1GlPowCViNz74KE7h"
     },
     {
       "added_at": "2021-12-21 14:42:40",
@@ -1183,22 +1199,6 @@
       "duration_ms": 185354,
       "name": "Snowman (Special Ver.)",
       "url": "https://open.spotify.com/track/5OcyTnnsLDY3TVDJJ73RAY"
-    },
-    {
-      "added_at": "2021-12-21 14:42:40",
-      "album": {
-        "name": "MIDNIGHT CHRISTMAS",
-        "url": "https://open.spotify.com/album/5W65ubAkiJzldtaloU3G13"
-      },
-      "artists": [
-        {
-          "name": "SBGB",
-          "url": "https://open.spotify.com/artist/0Xemods2DGcYQi3sqxtHBO"
-        }
-      ],
-      "duration_ms": 142406,
-      "name": "Jingle Bells",
-      "url": "https://open.spotify.com/track/2CKdHKVgFiemZTZucPJY4q"
     },
     {
       "added_at": "2021-12-21 14:42:40",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2021-12-21 14:42:40",
       "album": {
+        "name": "\u30e1\u30ea\u30af\u30ea",
+        "url": "https://open.spotify.com/album/082g95CJ0YhcNAjxf2MMgT"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "duration_ms": 310833,
+      "name": "THE CHRISTMAS SONG",
+      "url": "https://open.spotify.com/track/5K7s4e0uakvrNmBxclGhDZ"
+    },
+    {
+      "added_at": "2021-12-21 14:42:40",
+      "album": {
         "name": "Christmas Again",
         "url": "https://open.spotify.com/album/5svceOWCU5WtrzUWxS9xHu"
       },
@@ -1487,18 +1503,18 @@
     {
       "added_at": "2021-12-21 14:42:40",
       "album": {
-        "name": "\u30e1\u30ea\u30af\u30ea",
-        "url": "https://open.spotify.com/album/082g95CJ0YhcNAjxf2MMgT"
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/08HS95j5F5FTAVBBFXZ603"
       },
       "artists": [
         {
-          "name": "BoA",
-          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+          "name": "Kim Areum",
+          "url": "https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp"
         }
       ],
-      "duration_ms": 310833,
-      "name": "THE CHRISTMAS SONG",
-      "url": "https://open.spotify.com/track/5K7s4e0uakvrNmBxclGhDZ"
+      "duration_ms": 237062,
+      "name": "Merry solo Christmas",
+      "url": "https://open.spotify.com/track/0TlhUx5h1eNsBng4dmIl44"
     },
     {
       "added_at": "2021-12-21 14:42:40",
@@ -1523,22 +1539,6 @@
     {
       "added_at": "2021-12-21 14:42:40",
       "album": {
-        "name": "Lonely",
-        "url": "https://open.spotify.com/album/08HS95j5F5FTAVBBFXZ603"
-      },
-      "artists": [
-        {
-          "name": "Kim Areum",
-          "url": "https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp"
-        }
-      ],
-      "duration_ms": 237062,
-      "name": "Merry solo Christmas",
-      "url": "https://open.spotify.com/track/0TlhUx5h1eNsBng4dmIl44"
-    },
-    {
-      "added_at": "2021-12-21 14:42:40",
-      "album": {
         "name": "The Christmas Book Page 2",
         "url": "https://open.spotify.com/album/3qJNim41qjH0Z2gJlxujh3"
       },
@@ -1551,38 +1551,6 @@
       "duration_ms": 239777,
       "name": "Winter Land",
       "url": "https://open.spotify.com/track/4UUNhwWMIicEF3mizXRBah"
-    },
-    {
-      "added_at": "2021-12-21 14:42:40",
-      "album": {
-        "name": "The Barberettes Carol : Hun Hun Christmas",
-        "url": "https://open.spotify.com/album/0GSFgTuBL8tmDe4c0CxaJB"
-      },
-      "artists": [
-        {
-          "name": "The Barberettes",
-          "url": "https://open.spotify.com/artist/6dZBjKEpZkglz4Xq5ni0eZ"
-        }
-      ],
-      "duration_ms": 277040,
-      "name": "Winter Wonderland",
-      "url": "https://open.spotify.com/track/45sxPvfsHzXddeuE7jFF2q"
-    },
-    {
-      "added_at": "2021-12-21 14:42:40",
-      "album": {
-        "name": "Be Your Christmas",
-        "url": "https://open.spotify.com/album/7sQNIBp1U1SrbjcDSKe5IV"
-      },
-      "artists": [
-        {
-          "name": "Sweden Laundry",
-          "url": "https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp"
-        }
-      ],
-      "duration_ms": 196586,
-      "name": "Just Christmas - 2018 Remastered Ver.",
-      "url": "https://open.spotify.com/track/1a1S62JgjgBq5L7vdXwYWV"
     },
     {
       "added_at": "2021-12-21 14:42:40",
@@ -1603,18 +1571,34 @@
     {
       "added_at": "2021-12-21 14:42:40",
       "album": {
-        "name": "Semester",
-        "url": "https://open.spotify.com/album/1AgAMb8GV2JGgdIIYx4zfy"
+        "name": "Be Your Christmas",
+        "url": "https://open.spotify.com/album/7sQNIBp1U1SrbjcDSKe5IV"
       },
       "artists": [
         {
-          "name": "Linus' Blanket",
-          "url": "https://open.spotify.com/artist/2XFSeoCf8No50etmN8b4Sy"
+          "name": "Sweden Laundry",
+          "url": "https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp"
         }
       ],
-      "duration_ms": 219800,
-      "name": "Christmas Train",
-      "url": "https://open.spotify.com/track/4SCRho0YNe4F2s0UnTFfkB"
+      "duration_ms": 196586,
+      "name": "Just Christmas - 2018 Remastered Ver.",
+      "url": "https://open.spotify.com/track/1a1S62JgjgBq5L7vdXwYWV"
+    },
+    {
+      "added_at": "2021-12-21 14:42:40",
+      "album": {
+        "name": "The Barberettes Carol : Hun Hun Christmas",
+        "url": "https://open.spotify.com/album/0GSFgTuBL8tmDe4c0CxaJB"
+      },
+      "artists": [
+        {
+          "name": "The Barberettes",
+          "url": "https://open.spotify.com/artist/6dZBjKEpZkglz4Xq5ni0eZ"
+        }
+      ],
+      "duration_ms": 277040,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/45sxPvfsHzXddeuE7jFF2q"
     },
     {
       "added_at": "2021-12-21 14:42:40",
@@ -1631,6 +1615,38 @@
       "duration_ms": 243229,
       "name": "Wish me a merry Christmas (I need somebody part.2)",
       "url": "https://open.spotify.com/track/15lrRt7YJ9Y0qHGv7IQQjy"
+    },
+    {
+      "added_at": "2021-12-21 14:42:40",
+      "album": {
+        "name": "Semester",
+        "url": "https://open.spotify.com/album/1AgAMb8GV2JGgdIIYx4zfy"
+      },
+      "artists": [
+        {
+          "name": "Linus' Blanket",
+          "url": "https://open.spotify.com/artist/2XFSeoCf8No50etmN8b4Sy"
+        }
+      ],
+      "duration_ms": 219800,
+      "name": "Christmas Train",
+      "url": "https://open.spotify.com/track/4SCRho0YNe4F2s0UnTFfkB"
+    },
+    {
+      "added_at": "2021-12-21 14:42:40",
+      "album": {
+        "name": "TEEN TOP Snow Kiss",
+        "url": "https://open.spotify.com/album/6TcFwzPesuskRFjTQptrl4"
+      },
+      "artists": [
+        {
+          "name": "TEEN TOP",
+          "url": "https://open.spotify.com/artist/3offPqpKAKmpQkIdWnjzkc"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "Merry Christmas",
+      "url": "https://open.spotify.com/track/0QV9dRXZsFM68ehadaIUFK"
     },
     {
       "added_at": "2021-12-21 14:42:40",
@@ -1663,22 +1679,6 @@
       "duration_ms": 213200,
       "name": "Snow Sun",
       "url": "https://open.spotify.com/track/6GdN5lAB4HElwDaM3kwBpp"
-    },
-    {
-      "added_at": "2021-12-21 14:42:40",
-      "album": {
-        "name": "TEEN TOP Snow Kiss",
-        "url": "https://open.spotify.com/album/6TcFwzPesuskRFjTQptrl4"
-      },
-      "artists": [
-        {
-          "name": "TEEN TOP",
-          "url": "https://open.spotify.com/artist/3offPqpKAKmpQkIdWnjzkc"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "Merry Christmas",
-      "url": "https://open.spotify.com/track/0QV9dRXZsFM68ehadaIUFK"
     },
     {
       "added_at": "2021-12-21 14:42:40",
@@ -1731,22 +1731,18 @@
     {
       "added_at": "2021-12-21 14:42:40",
       "album": {
-        "name": "Merry Christmas JAM!",
-        "url": "https://open.spotify.com/album/2w2k6U8hNKPrauD0PS2ZDi"
+        "name": "Season",
+        "url": "https://open.spotify.com/album/1dK8iMaUFTMEHmRfcwb2zi"
       },
       "artists": [
         {
-          "name": "SWEET SORROW",
-          "url": "https://open.spotify.com/artist/1rwig4pRfLrj3scq9as1Mb"
-        },
-        {
-          "name": "Choi Joon",
-          "url": "https://open.spotify.com/artist/2kKsTEjAE8ZOtxIvCL8bts"
+          "name": "The Barberettes",
+          "url": "https://open.spotify.com/artist/6dZBjKEpZkglz4Xq5ni0eZ"
         }
       ],
-      "duration_ms": 175480,
-      "name": "Merry Christmas JAM!",
-      "url": "https://open.spotify.com/track/0XfoZVAnwtzjKWvVkzSJIW"
+      "duration_ms": 207036,
+      "name": "The First Noel + Oh Holy Night",
+      "url": "https://open.spotify.com/track/0ZZk4Jkdp1Zb98dZ1fyQKQ"
     },
     {
       "added_at": "2021-12-21 14:42:40",
@@ -1779,18 +1775,22 @@
     {
       "added_at": "2021-12-21 14:42:40",
       "album": {
-        "name": "Season",
-        "url": "https://open.spotify.com/album/1dK8iMaUFTMEHmRfcwb2zi"
+        "name": "Merry Christmas JAM!",
+        "url": "https://open.spotify.com/album/2w2k6U8hNKPrauD0PS2ZDi"
       },
       "artists": [
         {
-          "name": "The Barberettes",
-          "url": "https://open.spotify.com/artist/6dZBjKEpZkglz4Xq5ni0eZ"
+          "name": "SWEET SORROW",
+          "url": "https://open.spotify.com/artist/1rwig4pRfLrj3scq9as1Mb"
+        },
+        {
+          "name": "Choi Joon",
+          "url": "https://open.spotify.com/artist/2kKsTEjAE8ZOtxIvCL8bts"
         }
       ],
-      "duration_ms": 207036,
-      "name": "The First Noel + Oh Holy Night",
-      "url": "https://open.spotify.com/track/0ZZk4Jkdp1Zb98dZ1fyQKQ"
+      "duration_ms": 175480,
+      "name": "Merry Christmas JAM!",
+      "url": "https://open.spotify.com/track/0XfoZVAnwtzjKWvVkzSJIW"
     },
     {
       "added_at": "2021-12-21 14:42:40",

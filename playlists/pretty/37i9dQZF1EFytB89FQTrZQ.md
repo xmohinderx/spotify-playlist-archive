@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0kolbeXuETTrQPEprHYda2">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,874 likes - 225 songs - 12 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,876 likes - 225 songs - 12 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,8 +114,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 104 | [All In](https://open.spotify.com/track/6ud5FYBgnM8II9iOk5P8r5) | [Throttle](https://open.spotify.com/artist/6mPZJXtFVaakznkRxdgWtC) | [All In](https://open.spotify.com/album/3uXj3tSSEZQCX3xuoUu3UF) | 3:20 |
 | 105 | [In Us I Believe \(feat\. ALMA\)](https://open.spotify.com/track/2sXGKXPb0lZq7CXGoSg3U5) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [What Is Love? \(Deluxe Edition\)](https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc) | 3:27 |
 | 106 | [Good Thing.](https://open.spotify.com/track/2mCLMdr0J2yBgPSL2gFVxc) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [Mad Love\. \(Deluxe\)](https://open.spotify.com/album/03B7yRw8C4i7Vuxxjy8RJw) | 3:30 |
-| 107 | [Stopped Believing In Santa](https://open.spotify.com/track/7ubY8IenhF5NZ5BBJBcTZ8) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Stopped Believing In Santa](https://open.spotify.com/album/7my5qqD9eFJB33otwMTTxk) | 3:35 |
-| 108 | [Unconditional \(feat\. Bryn Christopher\)](https://open.spotify.com/track/5ZFIs3os8W2ajT4BDcrdX0) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs), [Bryn Christopher](https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv) | [Happy Machine](https://open.spotify.com/album/11EidE2Zs9YaYmgMoydewV) | 2:15 |
+| 107 | [Unconditional \(feat\. Bryn Christopher\)](https://open.spotify.com/track/5ZFIs3os8W2ajT4BDcrdX0) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs), [Bryn Christopher](https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv) | [Happy Machine](https://open.spotify.com/album/11EidE2Zs9YaYmgMoydewV) | 2:15 |
+| 108 | [Stopped Believing In Santa](https://open.spotify.com/track/7ubY8IenhF5NZ5BBJBcTZ8) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Stopped Believing In Santa](https://open.spotify.com/album/7my5qqD9eFJB33otwMTTxk) | 3:35 |
 | 109 | [Social \(feat\. MoStack\)](https://open.spotify.com/track/2fqbfLDdDrTb1dEX7BUFbF) | [WSTRN](https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs), [MoStack](https://open.spotify.com/artist/14H15rElxdGClICOZXEYHP) | [Social \(feat\. MoStack\)](https://open.spotify.com/album/1ogvzcLn8d7fK0goavOtQI) | 4:16 |
 | 110 | [Kingdom](https://open.spotify.com/track/0LHjotMicZfqH5qTuB0k8P) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [Escape](https://open.spotify.com/album/5fTQCKSHr5hpGHEo51n4e7) | 3:52 |
 | 111 | [We the Generation \(feat\. Mahalia\)](https://open.spotify.com/track/0viAOwad3URSgmJwF5ZSZ7) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [We the Generation \(Deluxe Edition\)](https://open.spotify.com/album/5q9e0KBDIjiRBYWXxaWVAG) | 3:41 |
@@ -185,8 +185,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 175 | [Done Me](https://open.spotify.com/track/2T6MSukHOnljzeymIcGKmk) | [Amun](https://open.spotify.com/artist/182fYJgynL0DcdVkEyUSRn) | [Done Me](https://open.spotify.com/album/4X5EoSLcpNwuQZxHmkMjWm) | 3:11 |
 | 176 | [Honeymoon Phaze](https://open.spotify.com/track/5cbZFJlt0U08sKS6r0LFQo) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 5:32 |
 | 177 | [Perfect Harmony](https://open.spotify.com/track/0yGliNKLtDtfWokZHSpMo4) | [Pete Tong](https://open.spotify.com/artist/6n1t55WMsSIUFHrAL4mUsB), [HER\-O](https://open.spotify.com/artist/0vhR4ixikG78qGRU7lJvHk), [Jules Buckley](https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Chilled Classics](https://open.spotify.com/album/2EnbPs8E7YyQq8AW72BTdm) | 5:13 |
-| 178 | [Touched By You](https://open.spotify.com/track/0OJ0C98JnN0PSJxlZ6VJJT) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 3:18 |
-| 179 | [Away From You](https://open.spotify.com/track/3iejIQUlBfS5J1SudBYPmu) | [Zach Campbell](https://open.spotify.com/artist/1xj1EJ5Ugunq3L3Ff3sdPe) | [Away From You](https://open.spotify.com/album/3ZnOiFVmxrDBUxMWIPoJXk) | 3:46 |
+| 178 | [Away From You](https://open.spotify.com/track/3iejIQUlBfS5J1SudBYPmu) | [Zach Campbell](https://open.spotify.com/artist/1xj1EJ5Ugunq3L3Ff3sdPe) | [Away From You](https://open.spotify.com/album/3ZnOiFVmxrDBUxMWIPoJXk) | 3:46 |
+| 179 | [Touched By You](https://open.spotify.com/track/0OJ0C98JnN0PSJxlZ6VJJT) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 3:18 |
 | 180 | [the road](https://open.spotify.com/track/4bXPup4TDlsOf5YJA4xgoC) | [Leo Kalyan](https://open.spotify.com/artist/62lbPZcnp95moF4T4afcPn) | [the road](https://open.spotify.com/album/3zOwc9sjMgxZeMV9AaLVKW) | 3:38 |
 | 181 | [No Problem](https://open.spotify.com/track/4yaLjLWzvGQLsVyMpHCw0x) | [MiC LOWRY](https://open.spotify.com/artist/0AJUYWKztkg5dnrHDIBv47) | [MOOD \- EP](https://open.spotify.com/album/5VBEpbBOib8MvQT2tkiHuz) | 3:10 |
 | 182 | [Background](https://open.spotify.com/track/6QbCAeT8s6mVzrJP2tvtOx) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 1:29 |
@@ -234,4 +234,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 224 | [Be \- Interlude](https://open.spotify.com/track/0dnBbRsly9KvuxI8x6FJqT) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 0:17 |
 | 225 | [Hearsay \- Interlude](https://open.spotify.com/track/65sA0SEBGpcTadBiIWvfKB) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 0:15 |
 
-Snapshot ID: `Mjc3MjQ0NDUsMDAwMDAwMDAyMTIxOWQ2MTJhNGQ0NDRjMWEzZDcwMjQyNDZkNTlhYg==`
+Snapshot ID: `Mjc3MjU4ODUsMDAwMDAwMDBhZTgzNDJjMzU0OGNhNzIzYjYwYzVjZjMyM2ExYmViZg==`

@@ -3698,6 +3698,24 @@
     },
     {
       "album": {
+        "name": "YOU DON\u2019T KNOW WHAT LOVE MEANS",
+        "url": "https://open.spotify.com/album/1BfOMEIpEQE8Xj2yYJLHPR"
+      },
+      "artists": [
+        {
+          "name": "NOTHING MORE",
+          "url": "https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339360,
+      "name": "SPIRITS",
+      "url": "https://open.spotify.com/track/1CKZatRSZy0WUYNwtT5H6y"
+    },
+    {
+      "album": {
         "name": "SPIRITS",
         "url": "https://open.spotify.com/album/2rE2XeImSA5qCuS4faICNV"
       },
@@ -3709,7 +3727,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 339360,
       "name": "SPIRITS",
       "url": "https://open.spotify.com/track/3ssc9tjQwV4gk40pkktbOD"

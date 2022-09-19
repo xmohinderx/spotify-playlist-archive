@@ -1,12 +1,12 @@
 {
   "description": "Soak up these laid-back jams. ",
-  "num_followers": 1028102,
+  "num_followers": 1028193,
   "original_name": "Beach Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDU3NzAxMCwwMDAwMDAwMGQ2YmYyYjY3MGM1MzNmZmY2ZDMxYzQxYzJhMzFlZWI4",
+  "snapshot_id": "MTY2MDU3NzAxMCwwMDAwMDAwMDQyMmJlY2M1NjkzOTUwNWM0NmUyZjJhYmQwZjdjZDgw",
   "tracks": [
     {
       "added_at": "2022-08-05 04:00:00",
@@ -667,6 +667,22 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
+        "name": "Gettin' Filthy",
+        "url": "https://open.spotify.com/album/3iIUl1OTJKggsB7m8JGE11"
+      },
+      "artists": [
+        {
+          "name": "The Expendables",
+          "url": "https://open.spotify.com/artist/2OpHxx1SArSMlBrIMM0aV9"
+        }
+      ],
+      "duration_ms": 283426,
+      "name": "Bowl For Two",
+      "url": "https://open.spotify.com/track/7wCgKgkuthR3K568qESxDp"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
         "name": "Local Motion",
         "url": "https://open.spotify.com/album/3H0eh5wIky3GjF83fRcDT0"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 232160,
       "name": "Warning (feat. Stick Figure)",
       "url": "https://open.spotify.com/track/29JOtyhGMv2gfikATHJlCF"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
-        "name": "Gettin' Filthy",
-        "url": "https://open.spotify.com/album/3iIUl1OTJKggsB7m8JGE11"
-      },
-      "artists": [
-        {
-          "name": "The Expendables",
-          "url": "https://open.spotify.com/artist/2OpHxx1SArSMlBrIMM0aV9"
-        }
-      ],
-      "duration_ms": 283426,
-      "name": "Bowl For Two",
-      "url": "https://open.spotify.com/track/7wCgKgkuthR3K568qESxDp"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -903,18 +903,22 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "A Seafarer and the Infinite Dream",
-        "url": "https://open.spotify.com/album/2byxJMI52Ov7gWQp0imRER"
+        "name": "Us Against The Crown (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/3XOvNcVeUI9AInH5f0i7ou"
       },
       "artists": [
         {
-          "name": "The Hip Abduction",
-          "url": "https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK"
+          "name": "State Radio",
+          "url": "https://open.spotify.com/artist/6eaKsv68njcrz5OjeQor5L"
+        },
+        {
+          "name": "Chadwick Stokes",
+          "url": "https://open.spotify.com/artist/785rMkDH7JjOFN3NcBGDJM"
         }
       ],
-      "duration_ms": 196973,
-      "name": "We'll Be Alright",
-      "url": "https://open.spotify.com/track/5k0U1CVgDmBZ6xutJVIU8r"
+      "duration_ms": 253040,
+      "name": "Right Me Up",
+      "url": "https://open.spotify.com/track/0mIedzCvGwfq4wIdGiVSut"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -955,22 +959,18 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "Us Against The Crown (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/3XOvNcVeUI9AInH5f0i7ou"
+        "name": "A Seafarer and the Infinite Dream",
+        "url": "https://open.spotify.com/album/2byxJMI52Ov7gWQp0imRER"
       },
       "artists": [
         {
-          "name": "State Radio",
-          "url": "https://open.spotify.com/artist/6eaKsv68njcrz5OjeQor5L"
-        },
-        {
-          "name": "Chadwick Stokes",
-          "url": "https://open.spotify.com/artist/785rMkDH7JjOFN3NcBGDJM"
+          "name": "The Hip Abduction",
+          "url": "https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK"
         }
       ],
-      "duration_ms": 253040,
-      "name": "Right Me Up",
-      "url": "https://open.spotify.com/track/0mIedzCvGwfq4wIdGiVSut"
+      "duration_ms": 196973,
+      "name": "We'll Be Alright",
+      "url": "https://open.spotify.com/track/5k0U1CVgDmBZ6xutJVIU8r"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "There I Go",
-        "url": "https://open.spotify.com/album/4UU8LUYdyjM3oa1UHwKhWI"
-      },
-      "artists": [
-        {
-          "name": "Common Kings",
-          "url": "https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL"
-        }
-      ],
-      "duration_ms": 202172,
-      "name": "There I Go",
-      "url": "https://open.spotify.com/track/5maLNTxNa29qrB1qpBoh6y"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
         "name": "Two (with The Hip Abduction)",
         "url": "https://open.spotify.com/album/1aQ2utdXHjEVtHf8C3ff1Z"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 213233,
       "name": "Two (with The Hip Abduction)",
       "url": "https://open.spotify.com/track/14Yv4l3SQsgQ1XAcWtP8kw"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "There I Go",
+        "url": "https://open.spotify.com/album/4UU8LUYdyjM3oa1UHwKhWI"
+      },
+      "artists": [
+        {
+          "name": "Common Kings",
+          "url": "https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL"
+        }
+      ],
+      "duration_ms": 202172,
+      "name": "There I Go",
+      "url": "https://open.spotify.com/track/5maLNTxNa29qrB1qpBoh6y"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -1343,26 +1343,6 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "Be Alright",
-        "url": "https://open.spotify.com/album/2SVH3FUWDU8BzlNn2Q6UEr"
-      },
-      "artists": [
-        {
-          "name": "Iration",
-          "url": "https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk"
-        },
-        {
-          "name": "Collie Buddz",
-          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
-        }
-      ],
-      "duration_ms": 193361,
-      "name": "Be Alright",
-      "url": "https://open.spotify.com/track/5MqWp5KtqxXV601aXTbwFi"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
         "name": "Lemonade",
         "url": "https://open.spotify.com/album/7EpOT6X96uXWWnD0ilkRLr"
       },
@@ -1379,6 +1359,26 @@
       "duration_ms": 171764,
       "name": "Lemonade",
       "url": "https://open.spotify.com/track/1obuz0c6zjQ77jPTKm9DdE"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "Be Alright",
+        "url": "https://open.spotify.com/album/2SVH3FUWDU8BzlNn2Q6UEr"
+      },
+      "artists": [
+        {
+          "name": "Iration",
+          "url": "https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk"
+        },
+        {
+          "name": "Collie Buddz",
+          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
+        }
+      ],
+      "duration_ms": 193361,
+      "name": "Be Alright",
+      "url": "https://open.spotify.com/track/5MqWp5KtqxXV601aXTbwFi"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -1507,26 +1507,6 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "Slice of Sunshine (with Claire Wright)",
-        "url": "https://open.spotify.com/album/1fdvXVdFYKQcrbczODniXR"
-      },
-      "artists": [
-        {
-          "name": "Shwayze",
-          "url": "https://open.spotify.com/artist/6f0hUHWLOCxCSDQMtdVAS7"
-        },
-        {
-          "name": "Claire Wright",
-          "url": "https://open.spotify.com/artist/1f0rM0WH91u5j96lXeMdwn"
-        }
-      ],
-      "duration_ms": 170348,
-      "name": "Slice of Sunshine (with Claire Wright)",
-      "url": "https://open.spotify.com/track/6sAf6WUpAcHkqkja62xup4"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
         "name": "Island Time",
         "url": "https://open.spotify.com/album/6ezqqvurD2ZP7axmZQnfUh"
       },
@@ -1559,6 +1539,22 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
+        "name": "Always With Me",
+        "url": "https://open.spotify.com/album/0DeaiadTeALAqCCUW4Lv5Y"
+      },
+      "artists": [
+        {
+          "name": "The Movement",
+          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
+        }
+      ],
+      "duration_ms": 263986,
+      "name": "Always With Me",
+      "url": "https://open.spotify.com/track/2ToMES33dQe8kiTPSjTdZH"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
         "name": "Catch My Wave",
         "url": "https://open.spotify.com/album/6QSZi8vL18DTDQvP3pXrgo"
       },
@@ -1579,18 +1575,22 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "Always With Me",
-        "url": "https://open.spotify.com/album/0DeaiadTeALAqCCUW4Lv5Y"
+        "name": "Slice of Sunshine (with Claire Wright)",
+        "url": "https://open.spotify.com/album/1fdvXVdFYKQcrbczODniXR"
       },
       "artists": [
         {
-          "name": "The Movement",
-          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
+          "name": "Shwayze",
+          "url": "https://open.spotify.com/artist/6f0hUHWLOCxCSDQMtdVAS7"
+        },
+        {
+          "name": "Claire Wright",
+          "url": "https://open.spotify.com/artist/1f0rM0WH91u5j96lXeMdwn"
         }
       ],
-      "duration_ms": 263986,
-      "name": "Always With Me",
-      "url": "https://open.spotify.com/track/2ToMES33dQe8kiTPSjTdZH"
+      "duration_ms": 170348,
+      "name": "Slice of Sunshine (with Claire Wright)",
+      "url": "https://open.spotify.com/track/6sAf6WUpAcHkqkja62xup4"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -1699,6 +1699,26 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
+        "name": "On & On (with Iration)",
+        "url": "https://open.spotify.com/album/26s88nuixgzDosdvHyr4AO"
+      },
+      "artists": [
+        {
+          "name": "The Movement",
+          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
+        },
+        {
+          "name": "Iration",
+          "url": "https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk"
+        }
+      ],
+      "duration_ms": 255850,
+      "name": "On & On (with Iration)",
+      "url": "https://open.spotify.com/track/56XNpU7rDh8fUShQR7BXtO"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
         "name": "Kingdom (with The Movement)",
         "url": "https://open.spotify.com/album/5fFphh4WF4FYahVze4kDFL"
       },
@@ -1715,26 +1735,6 @@
       "duration_ms": 282323,
       "name": "Kingdom (with The Movement)",
       "url": "https://open.spotify.com/track/5K1MRub64kaJOUyWe8marJ"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
-        "name": "Departure",
-        "url": "https://open.spotify.com/album/1hVbu9jTKeMS477FLE8tX5"
-      },
-      "artists": [
-        {
-          "name": "Through The Roots",
-          "url": "https://open.spotify.com/artist/3kXFPAfFzG0LrudmtGM6Yc"
-        },
-        {
-          "name": "Eli Mac",
-          "url": "https://open.spotify.com/artist/0Uze78PydtvTNQWhU7TVJK"
-        }
-      ],
-      "duration_ms": 195143,
-      "name": "Rollin' (with Eli Mac)",
-      "url": "https://open.spotify.com/track/7KgeB13kf4VXVEOT4AVtBX"
     }
   ],
   "unique_name": "Beach Vibes",

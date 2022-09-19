@@ -1,12 +1,12 @@
 {
   "description": "Celebrated composer of jazz standards, classical masterpieces and some very catchy love songs; this is Gershwin.",
-  "num_followers": 72027,
+  "num_followers": 72053,
   "original_name": "This is Gershwin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3MjEyMCwwMDAwMDAwMGFhNmRiZjcxNDM1MTM3MThlZDBjMDQ3OTdjNjA1OTg0",
+  "snapshot_id": "MTY1OTY3MjEyMCwwMDAwMDAwMGU1NGZjNjMzZWZmMTAzMDllMjMzYmEyOTA1MDk4ZjZl",
   "tracks": [
     {
       "added_at": "2022-08-05 04:02:00",
@@ -935,6 +935,26 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
+        "name": "Rhapsody - Gershwin Songbook: No. 5, I Got Rhythm",
+        "url": "https://open.spotify.com/album/5u6QPwcOgG1laRXdyvyaRe"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Martin James Bartlett",
+          "url": "https://open.spotify.com/artist/6zWfzjBaMu0anAw2kHMW0O"
+        }
+      ],
+      "duration_ms": 92533,
+      "name": "Gershwin: Gershwin's Songbook: No. 5, I Got Rhythm",
+      "url": "https://open.spotify.com/track/1mFkGv6RtoUQ01ls87TTJa"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
         "name": "Gershwin - Set: Bernstein/Ozawa/Previn/Levine",
         "url": "https://open.spotify.com/album/4OCPUWvxvehvgxAv5nOJ4i"
       },
@@ -983,26 +1003,6 @@
       "duration_ms": 762453,
       "name": "Piano Concerto in F Major: II. Andante con moto",
       "url": "https://open.spotify.com/track/269PXHuflueJlNaPSnN13u"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
-        "name": "Rhapsody - Gershwin Songbook: No. 5, I Got Rhythm",
-        "url": "https://open.spotify.com/album/5u6QPwcOgG1laRXdyvyaRe"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Martin James Bartlett",
-          "url": "https://open.spotify.com/artist/6zWfzjBaMu0anAw2kHMW0O"
-        }
-      ],
-      "duration_ms": 92533,
-      "name": "Gershwin: Gershwin's Songbook: No. 5, I Got Rhythm",
-      "url": "https://open.spotify.com/track/1mFkGv6RtoUQ01ls87TTJa"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -1063,6 +1063,26 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
+        "name": "Gershwin Take Two",
+        "url": "https://open.spotify.com/album/1eUkvcNIuj8xjJb38Cp5vY"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Simon Tedeschi",
+          "url": "https://open.spotify.com/artist/7oB8O1OribJYpFWTfRrbl6"
+        }
+      ],
+      "duration_ms": 47426,
+      "name": "I'll Build a Stairway to Paradise",
+      "url": "https://open.spotify.com/track/1PKu4cKPcE8s3yxNatioM1"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
         "name": "Gershwin: Piano Concerto/Copland: El sal\u00f3n Mexico, etc.",
         "url": "https://open.spotify.com/album/5S77nfKK1NxxwBaoLY7mWk"
       },
@@ -1087,26 +1107,6 @@
       "duration_ms": 799826,
       "name": "Piano Concerto in F: 2. Adagio",
       "url": "https://open.spotify.com/track/6pgaNRblhbixTnmoP6hOvn"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
-        "name": "Gershwin Take Two",
-        "url": "https://open.spotify.com/album/1eUkvcNIuj8xjJb38Cp5vY"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Simon Tedeschi",
-          "url": "https://open.spotify.com/artist/7oB8O1OribJYpFWTfRrbl6"
-        }
-      ],
-      "duration_ms": 47426,
-      "name": "I'll Build a Stairway to Paradise",
-      "url": "https://open.spotify.com/track/1PKu4cKPcE8s3yxNatioM1"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -1223,34 +1223,6 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Michael Tilson Thomas Conducts Gershwin",
-        "url": "https://open.spotify.com/album/2xELVSKhDHrh32KsyWq69o"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Michael Tilson Thomas",
-          "url": "https://open.spotify.com/artist/2v1lHgfpG4joXW7kDdDI78"
-        },
-        {
-          "name": "Buffalo Philharmonic",
-          "url": "https://open.spotify.com/artist/7y7JfF5Y2WU0VO8kWjp6WJ"
-        },
-        {
-          "name": "Buffalo Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/51Y2UhjxRLc1iinRa9dIQ1"
-        }
-      ],
-      "duration_ms": 498373,
-      "name": "Let 'Em Eat Cake: Overture",
-      "url": "https://open.spotify.com/track/1AkIFKsdsYe8es9Bruub5G"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
         "name": "Gershwin Fantasy",
         "url": "https://open.spotify.com/album/3ALYEbd3u0h6EIu7300FaR"
       },
@@ -1275,6 +1247,34 @@
       "duration_ms": 231053,
       "name": "Liza (All the Clouds'll Roll Away)",
       "url": "https://open.spotify.com/track/2pnu2daFVs2wgasI1BGdU8"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Michael Tilson Thomas Conducts Gershwin",
+        "url": "https://open.spotify.com/album/2xELVSKhDHrh32KsyWq69o"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Michael Tilson Thomas",
+          "url": "https://open.spotify.com/artist/2v1lHgfpG4joXW7kDdDI78"
+        },
+        {
+          "name": "Buffalo Philharmonic",
+          "url": "https://open.spotify.com/artist/7y7JfF5Y2WU0VO8kWjp6WJ"
+        },
+        {
+          "name": "Buffalo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/51Y2UhjxRLc1iinRa9dIQ1"
+        }
+      ],
+      "duration_ms": 498373,
+      "name": "Let 'Em Eat Cake: Overture",
+      "url": "https://open.spotify.com/track/1AkIFKsdsYe8es9Bruub5G"
     }
   ],
   "unique_name": "This is Gershwin",

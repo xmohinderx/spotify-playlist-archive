@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3M3wTTCDwicRubwMyHyEDy"> Shygirl</a>'s favorite tracks\. Updated regularly\. Curated by Shygirl\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-80 songs - 5 hr 14 min - not published yet
+80 songs - 5 hr 14 min - [published](https://open.spotify.com/playlist/3yQMXI3L8r8uiVbAjwi08d)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

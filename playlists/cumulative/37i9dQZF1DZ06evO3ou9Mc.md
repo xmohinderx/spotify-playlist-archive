@@ -4,7 +4,7 @@
 
 > This is The Offspring\. The essential tracks, all in one playlist.
 
-49 songs - 2 hr 39 min - not published yet
+49 songs - 2 hr 39 min - [published](https://open.spotify.com/playlist/1qaDpqjaUesObEdwhx3zU6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

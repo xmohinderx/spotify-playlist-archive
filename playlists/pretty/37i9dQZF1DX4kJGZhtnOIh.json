@@ -1,12 +1,12 @@
 {
   "description": "Have a nice relaxed dinner with some chill indie music.",
-  "num_followers": 8981,
+  "num_followers": 8999,
   "original_name": "Mellow Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU0NzY0NjM5NiwwMDAwMDAwMDY0NmVhOTEzMjA0NTNiYjQ3MTEwZmZjNDNlMGEwZTdm",
+  "snapshot_id": "MTU0NzY0NjM5NiwwMDAwMDAwMDVkMDI2YTY5NzUxNTcyOTQxYWI2ZTFkZGZlYmE3NzY4",
   "tracks": [
     {
       "added_at": "2018-11-19 19:02:53",
@@ -91,22 +91,6 @@
     {
       "added_at": "2018-11-19 19:02:53",
       "album": {
-        "name": "That Sea, The Gambler",
-        "url": "https://open.spotify.com/album/7ecZGh7SICLEkqqkBNXfvE"
-      },
-      "artists": [
-        {
-          "name": "Gregory Alan Isakov",
-          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
-        }
-      ],
-      "duration_ms": 360933,
-      "name": "The Stable Song",
-      "url": "https://open.spotify.com/track/3G9ETaH55bMQx8hwNhAgbU"
-    },
-    {
-      "added_at": "2018-11-19 19:02:53",
-      "album": {
         "name": "Yankee Hotel Foxtrot",
         "url": "https://open.spotify.com/album/0rPtXOMN42nsLDiShvGamv"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 231000,
       "name": "Jesus, Etc.",
       "url": "https://open.spotify.com/track/4wd09wCccmxUB7XVJp0RNn"
+    },
+    {
+      "added_at": "2018-11-19 19:02:53",
+      "album": {
+        "name": "That Sea, The Gambler",
+        "url": "https://open.spotify.com/album/7ecZGh7SICLEkqqkBNXfvE"
+      },
+      "artists": [
+        {
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        }
+      ],
+      "duration_ms": 360933,
+      "name": "The Stable Song",
+      "url": "https://open.spotify.com/track/3G9ETaH55bMQx8hwNhAgbU"
     },
     {
       "added_at": "2018-11-19 19:02:53",
@@ -383,22 +383,6 @@
     {
       "added_at": "2018-11-19 19:02:53",
       "album": {
-        "name": "The Carpenter",
-        "url": "https://open.spotify.com/album/4RclFqtNPoThUz7327xFbD"
-      },
-      "artists": [
-        {
-          "name": "The Avett Brothers",
-          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
-        }
-      ],
-      "duration_ms": 271186,
-      "name": "Live And Die",
-      "url": "https://open.spotify.com/track/19n9s9SfnLtwPEODqk8KCT"
-    },
-    {
-      "added_at": "2018-11-19 19:02:53",
-      "album": {
         "name": "Inside Llewyn Davis: Original Soundtrack Recording",
         "url": "https://open.spotify.com/album/1HlwBBTjItwW2VN4OG1rin"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 180400,
       "name": "Fare Thee Well (Dink's Song)",
       "url": "https://open.spotify.com/track/0YOOXnCJihgyluizqhAcrz"
+    },
+    {
+      "added_at": "2018-11-19 19:02:53",
+      "album": {
+        "name": "The Carpenter",
+        "url": "https://open.spotify.com/album/4RclFqtNPoThUz7327xFbD"
+      },
+      "artists": [
+        {
+          "name": "The Avett Brothers",
+          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
+        }
+      ],
+      "duration_ms": 271186,
+      "name": "Live And Die",
+      "url": "https://open.spotify.com/track/19n9s9SfnLtwPEODqk8KCT"
     },
     {
       "added_at": "2018-11-19 19:02:53",
@@ -515,6 +515,22 @@
     {
       "added_at": "2018-11-19 19:02:53",
       "album": {
+        "name": "Helplessness Blues",
+        "url": "https://open.spotify.com/album/7D0rCfJjFj9x0bdgRKtvzb"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "duration_ms": 216604,
+      "name": "Montezuma",
+      "url": "https://open.spotify.com/track/5Civg4JEWHLe2gqMG5vW6E"
+    },
+    {
+      "added_at": "2018-11-19 19:02:53",
+      "album": {
         "name": "Sea Of Love",
         "url": "https://open.spotify.com/album/4YUMtMthxfpapIqkk2caJg"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 232760,
       "name": "Our Love",
       "url": "https://open.spotify.com/track/2WCCyU7CazujWXYOqNjsLW"
-    },
-    {
-      "added_at": "2018-11-19 19:02:53",
-      "album": {
-        "name": "Helplessness Blues",
-        "url": "https://open.spotify.com/album/7D0rCfJjFj9x0bdgRKtvzb"
-      },
-      "artists": [
-        {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
-        }
-      ],
-      "duration_ms": 216604,
-      "name": "Montezuma",
-      "url": "https://open.spotify.com/track/5Civg4JEWHLe2gqMG5vW6E"
     },
     {
       "added_at": "2018-11-19 19:02:53",
@@ -615,22 +615,6 @@
     {
       "added_at": "2018-11-19 19:02:53",
       "album": {
-        "name": "Barchords",
-        "url": "https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9"
-      },
-      "artists": [
-        {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        }
-      ],
-      "duration_ms": 236720,
-      "name": "Lost In The Light",
-      "url": "https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O"
-    },
-    {
-      "added_at": "2018-11-19 19:02:53",
-      "album": {
         "name": "Delta",
         "url": "https://open.spotify.com/album/4cKEpUZp7REMrSjd4ICCZz"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 223685,
       "name": "October Skies",
       "url": "https://open.spotify.com/track/3Y9ZyBUDTVcgvhEtCfiXh7"
+    },
+    {
+      "added_at": "2018-11-19 19:02:53",
+      "album": {
+        "name": "Barchords",
+        "url": "https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        }
+      ],
+      "duration_ms": 236720,
+      "name": "Lost In The Light",
+      "url": "https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O"
     },
     {
       "added_at": "2018-11-19 19:02:53",

@@ -4,7 +4,7 @@
 
 > Get the party started with some upbeat party Jazz.
 
-139 songs - 12 hr 19 min - [published](https://open.spotify.com/playlist/0URm84MB7MMlfi2eP9YKgm)
+140 songs - 12 hr 23 min - [published](https://open.spotify.com/playlist/0URm84MB7MMlfi2eP9YKgm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [It's A Long Way Down \- Remastered](https://open.spotify.com/track/3dHvUYYyWdwFzevg23jZzl) | [Art Blakey](https://open.spotify.com/artist/6QQuESLtKhAOcLW2TeWC2t) | [Indestructible](https://open.spotify.com/album/4qMDshn0sMrt3bf7C0mmCx) | 5:24 | 2022-01-26 |  |
 | [Jodie's Cha Cha](https://open.spotify.com/track/4ZVApZkVB7D0hYWfrGHXeb) | [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP) | [Blue Note Stanley Turrentine/Sextet Sessions](https://open.spotify.com/album/0dRbuyWoPi9et0IWx2ti0j) | 6:16 | 2022-05-13 |  |
 | [Jump Up](https://open.spotify.com/track/2N4oRvZUu8RWkjdBjLQJKt) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR), [The Three Sounds](https://open.spotify.com/artist/5wVeG4RM2VXsFwyylF8vXi) | [LD+3](https://open.spotify.com/album/7LI05bZ0W1MaDccphFQqzj) | 6:37 | 2022-01-26 |  |
+| [Jumpin' Leo \- Remastered](https://open.spotify.com/track/5462btNze0TxTyqiwCfHpg) | [Leo Parker](https://open.spotify.com/artist/5LQwJIY0TGUfJDS9vdpjmg) | [Rollin' With Leo \(Remastered\)](https://open.spotify.com/album/4iuVTKizRNoo1GqETTVHRH) | 4:30 | 2022-09-16 |  |
 | [K.D.'s Motion \- Rudy Van Gelder Edition/2007 Digital Remaster](https://open.spotify.com/track/6CuppdxxPFj7v81NCHfaJa) | [Kenny Dorham](https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er) | [Afro\-Cuban \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/6sfAnBHbBbI8Z4NEDpXycZ) | 5:28 | 2022-01-26 |  |
 | [Kiss And Run](https://open.spotify.com/track/1hqa9kxKz6wKgNx9PP2Iwc) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR), [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO), [Max Roach](https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g), [Richie Powell](https://open.spotify.com/artist/2HQT5NglL0BOkpV2vmQ5yc), [George Morrow](https://open.spotify.com/artist/41P4s0R293jpTpSF5UF0ni) | [Plus Four \[Rudy Van Gelder edition\]](https://open.spotify.com/album/2Sar8iOTRh2AazvaCzHC6O) | 7:06 | 2022-01-26 |  |
 | [Latin Quarter \- 2006 Digital Remaster](https://open.spotify.com/track/7L83qErlLHeb6n1CR9lqXk) | [Johnny Griffin](https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ) | [The Congregation \(Expanded Edition\)](https://open.spotify.com/album/4xfqENceM0U2iQDi1c4sLy) | 6:27 | 2022-01-26 |  |
@@ -90,7 +91,7 @@
 | [No Smokin' \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/6Z602VAQGptsRT8IzBwM9y) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [The Stylings Of Silver \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/7qaTLsGB0H8AJPvUs98CcO) | 5:33 | 2022-01-26 |  |
 | [Ole \- Digital Remaster/2007](https://open.spotify.com/track/539lbCBUmpYrXRdEMX7e1q) | [Freddie Redd](https://open.spotify.com/artist/7CC7dqXYFQcYPqt8sTrqTV) | [Shades Of Redd \(Remastered\)](https://open.spotify.com/album/6oD40NPOziFYWhvkwLmdQF) | 6:22 | 2022-01-26 |  |
 | [One For My Baby \(And One More For The Road\)](https://open.spotify.com/track/6V7aCXF7eO91mAcmOBFByr) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [The Second Time Around](https://open.spotify.com/album/4NWqIjT0hua7Ezv91t389w) | 3:27 | 2022-01-26 | 2022-06-17 |
-| [Ow!](https://open.spotify.com/track/1Ju0Tsue7GTzlcx0y2kN2C) | [Tricky Lofton](https://open.spotify.com/artist/59fsz4clSI6ScQHdzY12ev), [Carmell Jones](https://open.spotify.com/artist/1Fz7kYXFWKM4L4Hjaq9ktx) | [Brass Bag](https://open.spotify.com/album/6rn3FShZAjVH7HHMV49Tmk) | 6:51 | 2022-06-16 |  |
+| [Ow!](https://open.spotify.com/track/1Ju0Tsue7GTzlcx0y2kN2C) | [Tricky Lofton](https://open.spotify.com/artist/59fsz4clSI6ScQHdzY12ev), [Carmell Jones](https://open.spotify.com/artist/1Fz7kYXFWKM4L4Hjaq9ktx) | [Brass Bag](https://open.spotify.com/album/6rn3FShZAjVH7HHMV49Tmk) | 6:51 | 2022-06-16 | 2022-09-19 |
 | [Petty Larceny](https://open.spotify.com/track/0EVGwICUNwPZolrklaiByV) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [The Freedom Rider](https://open.spotify.com/album/72jnQGrWRPB8eMGLRgV5Zp) | 6:16 | 2022-01-26 |  |
 | [Remember Me](https://open.spotify.com/track/1JNlWZhN0zin7NTqaOkl5v) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [The Complete Dinah Washington On Mercury, Vol.4 \(1954\-1956\)](https://open.spotify.com/album/7MpI5x3ALFKVNTO0OZ7NfB) | 2:45 | 2022-01-26 | 2022-06-10 |
 | [Return To Swahili](https://open.spotify.com/track/2lNVRiekrifYpHPRQuIVwX) | [Clark Terry](https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU) | [The Happy Horns Of Clark Terry](https://open.spotify.com/album/3Q5uSq6wabddPquHhufrUU) | 3:04 | 2022-01-26 |  |

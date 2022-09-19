@@ -1,12 +1,12 @@
 {
   "description": "A playlist of Christian summer camp favorites, past and present.",
-  "num_followers": 2465,
+  "num_followers": 2483,
   "original_name": "Christian Summer Camp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyNDk3Mzc2MiwwMDAwMDAwMGRiMGEzNjVkZmNlODZmOTgyYzU1OGFlNzEyNTM1ZjNh",
+  "snapshot_id": "MTYyNDk3Mzc2MiwwMDAwMDAwMDU2OGIxY2IzMDNmMjFkNzhlMGNjYjEwZTcwMTRjODMw",
   "tracks": [
     {
       "added_at": "2021-06-29 13:36:02",
@@ -335,22 +335,6 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "As Family We Go",
-        "url": "https://open.spotify.com/album/7cenIKs6fcaaHsBiDGlXgn"
-      },
-      "artists": [
-        {
-          "name": "Rend Collective",
-          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
-        }
-      ],
-      "duration_ms": 226373,
-      "name": "Joy Of The Lord",
-      "url": "https://open.spotify.com/track/0zZOHnBVMmuJxCETvXUYlj"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
         "name": "Worship",
         "url": "https://open.spotify.com/album/4uWr8fOgmNBCP5awR10dbs"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 276773,
       "name": "Above All",
       "url": "https://open.spotify.com/track/3JSxKlxWTriK218L3yqoLN"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "As Family We Go",
+        "url": "https://open.spotify.com/album/7cenIKs6fcaaHsBiDGlXgn"
+      },
+      "artists": [
+        {
+          "name": "Rend Collective",
+          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
+        }
+      ],
+      "duration_ms": 226373,
+      "name": "Joy Of The Lord",
+      "url": "https://open.spotify.com/track/0zZOHnBVMmuJxCETvXUYlj"
     },
     {
       "added_at": "2021-06-29 13:36:02",

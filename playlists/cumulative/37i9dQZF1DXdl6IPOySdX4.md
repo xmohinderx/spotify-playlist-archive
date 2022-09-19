@@ -4,7 +4,7 @@
 
 > you up?
 
-298 songs - 17 hr 5 min - [published](https://open.spotify.com/playlist/6GUFuO0Q1XAMf72LhfZhhe)
+299 songs - 17 hr 8 min - [published](https://open.spotify.com/playlist/6GUFuO0Q1XAMf72LhfZhhe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [don't stop](https://open.spotify.com/track/4Zz7qwjSgxs9sRnOP2KjHb) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [help](https://open.spotify.com/album/4PcOLASOD0VikPG4yB3bxg) | 2:50 | 2022-03-25 | 2022-04-21 |
 | [double take](https://open.spotify.com/track/0QzuaeCEEOV40Pn7IvKEny) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [rapunzel](https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6) | 2:51 | 2022-07-22 |  |
 | [double take](https://open.spotify.com/track/2CVChktEKBsM6v4IfdFU5k) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [double take](https://open.spotify.com/album/1FBBji6E8EB4zBsTn6m8Ax) | 2:51 | 2022-02-04 | 2022-07-29 |
-| [Drama \(feat\. Drake\)](https://open.spotify.com/track/0PXp9QxBfSKGGpWUNaws2X) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Exis](https://open.spotify.com/album/2vnPwMLtMXZWGkKsoylsGt) | 4:11 | 2022-02-08 |  |
+| [Drama \(feat\. Drake\)](https://open.spotify.com/track/0PXp9QxBfSKGGpWUNaws2X) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Exis](https://open.spotify.com/album/2vnPwMLtMXZWGkKsoylsGt) | 4:11 | 2022-02-08 | 2022-09-19 |
 | [Drew Barrymore](https://open.spotify.com/track/0JvUjekRwmDcQq4S0Sxocf) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [Carnival](https://open.spotify.com/album/2ellIuTAeZqsBDVqGpNe9R) | 3:11 | 2022-03-25 | 2022-04-21 |
 | [Drive](https://open.spotify.com/track/09pBww2I1sjGcHac0KvC2M) | [Dxvn.](https://open.spotify.com/artist/3UzhllIYKcLay5xslYF85U) | [Drive](https://open.spotify.com/album/5Rswkdm3qCP7C1X0iRpP9d) | 4:30 | 2022-07-15 |  |
 | [Drugs N Hella Melodies \(feat\. Kali Uchis\)](https://open.spotify.com/track/3Bi3ws3uigvFSmfTcSLjnp) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Drugs N Hella Melodies \(feat\. Kali Uchis\)](https://open.spotify.com/album/4OjG23scCW1EvILkMk0syB) | 3:18 | 2022-02-04 | 2022-07-17 |
@@ -92,6 +92,7 @@
 | [Electric \(feat\. Khalid\)](https://open.spotify.com/track/2mj7x99sNUsVHPBRK51zlG) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [The Color Of You](https://open.spotify.com/album/6R8UeugxGTPvPwFkLVqUqs) | 4:06 | 2022-03-25 | 2022-04-18 |
 | [Euphoria \(feat\. Travis Scott & Kaash Paige\)](https://open.spotify.com/track/13QU8HBEBaSTZGq1HzQe9S) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Heaven Or Hell](https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B) | 3:36 | 2022-03-25 | 2022-04-18 |
 | [Evergreen](https://open.spotify.com/track/6YtylNU7D1S5SeO529q2AN) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Dreaming of David](https://open.spotify.com/album/1pnXY39h7XjEYGmS6PeKUZ) | 3:44 | 2022-02-11 | 2022-04-20 |
+| [Evergreen \(You Didn’t Deserve Me At All\)](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 | 2022-09-09 |  |
 | [Exchange](https://open.spotify.com/track/43PuMrRfbyyuz4QpZ3oAwN) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [T R A P S O U L](https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl) | 3:14 | 2022-03-28 |  |
 | [Excitement](https://open.spotify.com/track/3WnTQDd9A3bpBfzCziElU9) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Excitement](https://open.spotify.com/album/7rcMHNqNbQxF5TaPMHFoKu) | 4:43 | 2022-02-04 | 2022-07-29 |
 | [Fall in Love with You.](https://open.spotify.com/track/31MQR9rOHRXyg4J01hRY1h) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Fall in Love with You.](https://open.spotify.com/album/5nXW8DTden7uHd0eyZengc) | 2:12 | 2022-02-04 | 2022-07-29 |

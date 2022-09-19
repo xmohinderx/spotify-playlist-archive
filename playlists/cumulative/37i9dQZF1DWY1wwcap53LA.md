@@ -4,7 +4,7 @@
 
 > Country music making waves\. Cover: Tanner Adell
 
-104 songs - 5 hr 25 min - [published](https://open.spotify.com/playlist/2oo6Fd5OoiJz8X71tS41jA)
+105 songs - 5 hr 28 min - [published](https://open.spotify.com/playlist/2oo6Fd5OoiJz8X71tS41jA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Why Things Happen](https://open.spotify.com/track/0ZONNSdfFeiIjBX25ZKRbj) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ), [Charley Pride](https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE) | [Bettie James](https://open.spotify.com/album/7wftPNQFSMYlpxzNMPHo1h) | 3:16 | 2021-12-03 |  |
 | [Wrecked](https://open.spotify.com/track/06eu1Ntmqj1XQT7kspc0mN) | [Rodell Duff](https://open.spotify.com/artist/4JMY9dX6C0SYxm1YEGAEky) | [Wrecked](https://open.spotify.com/album/63WJUkOUzblbgJ5AK5eb27) | 2:48 | 2021-12-03 | 2022-08-25 |
 | [Wrecked](https://open.spotify.com/track/14utDIRjqZIp00XPn6ixVx) | [Rodell Duff](https://open.spotify.com/artist/4JMY9dX6C0SYxm1YEGAEky) | [Wrecked](https://open.spotify.com/album/7aTwKQTvJ2g5aoVffmAFXs) | 2:48 | 2022-08-12 |  |
-| [You Got a Small Town](https://open.spotify.com/track/0uxbkVqzKkxeVszRa0LFnb) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [You Got a Small Town](https://open.spotify.com/album/2dRiCtzyR2XKR4mwwU370t) | 2:58 | 2021-12-03 |  |
+| [You Got a Small Town](https://open.spotify.com/track/0uxbkVqzKkxeVszRa0LFnb) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [You Got a Small Town](https://open.spotify.com/album/2dRiCtzyR2XKR4mwwU370t) | 2:58 | 2021-12-03 | 2022-09-19 |
+| [You Got a Small Town](https://open.spotify.com/track/1F7UVBrslkA96RCiXxIhQ3) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [You Got a Small Town](https://open.spotify.com/album/3VbfZpES3qxhElY7c3DTVk) | 2:58 | 2022-09-16 |  |
 
 \*This playlist was first scraped on 2022-01-02. Prior content cannot be recovered.

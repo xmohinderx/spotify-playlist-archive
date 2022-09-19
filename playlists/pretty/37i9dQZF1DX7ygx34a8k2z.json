@@ -1,12 +1,12 @@
 {
   "description": "dig through the record bin.",
-  "num_followers": 69027,
+  "num_followers": 69328,
   "original_name": "Thrifted",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzkxOTUyMSwwMDAwMDAwMGMxZjM2OTBlZjIzY2JjMTAwNzVmYjE1NDQzYTIxMTQy",
+  "snapshot_id": "MTY1MzkxOTUyMSwwMDAwMDAwMGY0ZGZkNWFmZDg2M2Y1ZTk4MWI1MGYwMWFjMzkzYTFj",
   "tracks": [
     {
       "added_at": "2022-05-30 14:05:21",
@@ -971,6 +971,22 @@
     {
       "added_at": "2022-05-30 14:05:21",
       "album": {
+        "name": "Pleased to Meet Me (Expanded)",
+        "url": "https://open.spotify.com/album/2kTTz2kpR2AXtBmiIZEyyv"
+      },
+      "artists": [
+        {
+          "name": "The Replacements",
+          "url": "https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3"
+        }
+      ],
+      "duration_ms": 188146,
+      "name": "Can't Hardly Wait - 2008 Remaster",
+      "url": "https://open.spotify.com/track/0NX14YH2t16bwwlJSfXazr"
+    },
+    {
+      "added_at": "2022-05-30 14:05:21",
+      "album": {
         "name": "Garbage (20th Anniversary Deluxe Edition/Remastered)",
         "url": "https://open.spotify.com/album/1Vze7jtjAVQOdIIQ8oO2X7"
       },
@@ -1003,38 +1019,6 @@
     {
       "added_at": "2022-05-30 14:05:21",
       "album": {
-        "name": "1977",
-        "url": "https://open.spotify.com/album/6WPJ2wQLi4SskpTkmofkr9"
-      },
-      "artists": [
-        {
-          "name": "Ash",
-          "url": "https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE"
-        }
-      ],
-      "duration_ms": 210200,
-      "name": "Girl From Mars",
-      "url": "https://open.spotify.com/track/1mppNVGh4ipsxIWUUA0QiH"
-    },
-    {
-      "added_at": "2022-05-30 14:05:21",
-      "album": {
-        "name": "Pleased to Meet Me (Expanded)",
-        "url": "https://open.spotify.com/album/2kTTz2kpR2AXtBmiIZEyyv"
-      },
-      "artists": [
-        {
-          "name": "The Replacements",
-          "url": "https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3"
-        }
-      ],
-      "duration_ms": 188146,
-      "name": "Can't Hardly Wait - 2008 Remaster",
-      "url": "https://open.spotify.com/track/0NX14YH2t16bwwlJSfXazr"
-    },
-    {
-      "added_at": "2022-05-30 14:05:21",
-      "album": {
         "name": "The Modern Lovers",
         "url": "https://open.spotify.com/album/5BPCP7WSGBG4br2o4WRmd8"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 246440,
       "name": "Roadrunner",
       "url": "https://open.spotify.com/track/5E5HYgxGMp3BPakHGfKfIB"
+    },
+    {
+      "added_at": "2022-05-30 14:05:21",
+      "album": {
+        "name": "1977",
+        "url": "https://open.spotify.com/album/6WPJ2wQLi4SskpTkmofkr9"
+      },
+      "artists": [
+        {
+          "name": "Ash",
+          "url": "https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE"
+        }
+      ],
+      "duration_ms": 210200,
+      "name": "Girl From Mars",
+      "url": "https://open.spotify.com/track/1mppNVGh4ipsxIWUUA0QiH"
     },
     {
       "added_at": "2022-05-30 14:05:21",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2022-05-30 14:05:21",
       "album": {
-        "name": "Rites Of Passage (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7Bpm8RN7CWTEH2Os4vw3Po"
-      },
-      "artists": [
-        {
-          "name": "Indigo Girls",
-          "url": "https://open.spotify.com/artist/4wM29TDTr3HI0qFY3KoSFG"
-        }
-      ],
-      "duration_ms": 252960,
-      "name": "Galileo",
-      "url": "https://open.spotify.com/track/1Q0DVZhtZJZs9t45b8zNSD"
-    },
-    {
-      "added_at": "2022-05-30 14:05:21",
-      "album": {
         "name": "Refried Ectoplasm [Switched On Volume 2]",
         "url": "https://open.spotify.com/album/6grZsNH92wnHOtj4VDBEeY"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 215825,
       "name": "French Disko",
       "url": "https://open.spotify.com/track/5BlmlqySQMeRvRm6YjhwyO"
+    },
+    {
+      "added_at": "2022-05-30 14:05:21",
+      "album": {
+        "name": "Rites Of Passage (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7Bpm8RN7CWTEH2Os4vw3Po"
+      },
+      "artists": [
+        {
+          "name": "Indigo Girls",
+          "url": "https://open.spotify.com/artist/4wM29TDTr3HI0qFY3KoSFG"
+        }
+      ],
+      "duration_ms": 252960,
+      "name": "Galileo",
+      "url": "https://open.spotify.com/track/1Q0DVZhtZJZs9t45b8zNSD"
     },
     {
       "added_at": "2022-05-30 14:05:21",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2022-05-30 14:05:21",
       "album": {
-        "name": "Spiderland",
-        "url": "https://open.spotify.com/album/2NnkLRaeX33d1Mn8ZLgTo8"
-      },
-      "artists": [
-        {
-          "name": "Slint",
-          "url": "https://open.spotify.com/artist/4IwOItqRhsIoRuD5HP4vyC"
-        }
-      ],
-      "duration_ms": 355533,
-      "name": "Breadcrumb Trail",
-      "url": "https://open.spotify.com/track/7K8mX41Nub7AzBt1RwwE6d"
-    },
-    {
-      "added_at": "2022-05-30 14:05:21",
-      "album": {
         "name": "Cure for Pain",
         "url": "https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 194093,
       "name": "Cure for Pain",
       "url": "https://open.spotify.com/track/3hO9gaVixKDoYDrlTBrEWf"
+    },
+    {
+      "added_at": "2022-05-30 14:05:21",
+      "album": {
+        "name": "Spiderland",
+        "url": "https://open.spotify.com/album/2NnkLRaeX33d1Mn8ZLgTo8"
+      },
+      "artists": [
+        {
+          "name": "Slint",
+          "url": "https://open.spotify.com/artist/4IwOItqRhsIoRuD5HP4vyC"
+        }
+      ],
+      "duration_ms": 355533,
+      "name": "Breadcrumb Trail",
+      "url": "https://open.spotify.com/track/7K8mX41Nub7AzBt1RwwE6d"
     },
     {
       "added_at": "2022-05-30 14:05:21",

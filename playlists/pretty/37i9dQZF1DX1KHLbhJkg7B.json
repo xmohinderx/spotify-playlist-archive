@@ -1,12 +1,12 @@
 {
   "description": "Unique versions of hit songs by other artists. Cover: Ashley McBryde",
-  "num_followers": 77444,
+  "num_followers": 77497,
   "original_name": "Country Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMDI3OWY3OTY5MWVlOGM3MzgxNjRkMzg0YzJiYmE2OGJi",
+  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMGZmZDIzZGRlMDA3OGExNDBjMThjNDg1ZGU2YWE5YzBh",
   "tracks": [
     {
       "added_at": "2022-09-16 04:00:00",
@@ -367,22 +367,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "I'm Alright",
-        "url": "https://open.spotify.com/album/4UuS4hlOMP5akz21glTQCL"
-      },
-      "artists": [
-        {
-          "name": "Jo Dee Messina",
-          "url": "https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3"
-        }
-      ],
-      "duration_ms": 220200,
-      "name": "Lesson In Leavin'",
-      "url": "https://open.spotify.com/track/2g0BAZVaLlK8GeTVzF6hQ6"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "9 to 5 (FROM THE STILL WORKING 9 TO 5 DOCUMENTARY)",
         "url": "https://open.spotify.com/album/6PH9FkIY5DVDh0JUktLlLR"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 216546,
       "name": "9 to 5 (FROM THE STILL WORKING 9 TO 5 DOCUMENTARY)",
       "url": "https://open.spotify.com/track/32bfqEO7JcH2x0XFxVVVf0"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "I'm Alright",
+        "url": "https://open.spotify.com/album/4UuS4hlOMP5akz21glTQCL"
+      },
+      "artists": [
+        {
+          "name": "Jo Dee Messina",
+          "url": "https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3"
+        }
+      ],
+      "duration_ms": 220200,
+      "name": "Lesson In Leavin'",
+      "url": "https://open.spotify.com/track/2g0BAZVaLlK8GeTVzF6hQ6"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -591,6 +591,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
+        "url": "https://open.spotify.com/album/58ho3We8TBDCQYMLyNetqN"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 248866,
+      "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
+      "url": "https://open.spotify.com/track/0JaGv3nU0muVvfSUClLm26"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "1979",
         "url": "https://open.spotify.com/album/5kWwElTZERMW15WMNHLI7C"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 320933,
       "name": "Someone Like You - Piano Vocal",
       "url": "https://open.spotify.com/track/55BiXEd58TxhBPGJ5tImyJ"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/5QjBL6kuxhPpPQGcjHx23n"
-      },
-      "artists": [
-        {
-          "name": "Noah Thompson",
-          "url": "https://open.spotify.com/artist/38dDBc8guRXP1fjvothwyi"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/5fuyEyyTfjrvMxsIVI2CQ9"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -639,18 +639,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
-        "url": "https://open.spotify.com/album/58ho3We8TBDCQYMLyNetqN"
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/5QjBL6kuxhPpPQGcjHx23n"
       },
       "artists": [
         {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+          "name": "Noah Thompson",
+          "url": "https://open.spotify.com/artist/38dDBc8guRXP1fjvothwyi"
         }
       ],
-      "duration_ms": 248866,
-      "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
-      "url": "https://open.spotify.com/track/0JaGv3nU0muVvfSUClLm26"
+      "duration_ms": 225000,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/5fuyEyyTfjrvMxsIVI2CQ9"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -727,8 +727,8 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Live Forever",
-        "url": "https://open.spotify.com/album/61IyMbppx5SvsZO0i3FJnf"
+        "name": "Nashville Rebel",
+        "url": "https://open.spotify.com/album/3DDUesugWE5mJjTF5HFsRg"
       },
       "artists": [
         {
@@ -736,13 +736,21 @@
           "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         },
         {
-          "name": "Lucinda Williams",
-          "url": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        },
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
         }
       ],
-      "duration_ms": 180135,
-      "name": "Live Forever",
-      "url": "https://open.spotify.com/track/4ofZpP3iFaQ1GRtxOPbySO"
+      "duration_ms": 182973,
+      "name": "Highwayman",
+      "url": "https://open.spotify.com/track/6uvT4Di9ZRBw5cbexZJDts"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -803,22 +811,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "He Got the Best of Me",
-        "url": "https://open.spotify.com/album/2nIckz63cXWEYkWd9SWPAO"
-      },
-      "artists": [
-        {
-          "name": "Julia Cole",
-          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
-        }
-      ],
-      "duration_ms": 158461,
-      "name": "He Got the Best of Me",
-      "url": "https://open.spotify.com/track/5brBLjXJuQ1leaH5VAGBGq"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/5suOEzLE9dyan78iILj4aK"
       },
@@ -831,6 +823,22 @@
       "duration_ms": 198786,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/4zWjHKeCkNcNUrSBPNIGkc"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "He Got the Best of Me",
+        "url": "https://open.spotify.com/album/2nIckz63cXWEYkWd9SWPAO"
+      },
+      "artists": [
+        {
+          "name": "Julia Cole",
+          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
+        }
+      ],
+      "duration_ms": 158461,
+      "name": "He Got the Best of Me",
+      "url": "https://open.spotify.com/track/5brBLjXJuQ1leaH5VAGBGq"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -903,8 +911,8 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Nashville Rebel",
-        "url": "https://open.spotify.com/album/3DDUesugWE5mJjTF5HFsRg"
+        "name": "Live Forever",
+        "url": "https://open.spotify.com/album/61IyMbppx5SvsZO0i3FJnf"
       },
       "artists": [
         {
@@ -912,21 +920,13 @@
           "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         },
         {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        },
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        },
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+          "name": "Lucinda Williams",
+          "url": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
         }
       ],
-      "duration_ms": 182973,
-      "name": "Highwayman",
-      "url": "https://open.spotify.com/track/6uvT4Di9ZRBw5cbexZJDts"
+      "duration_ms": 180135,
+      "name": "Live Forever",
+      "url": "https://open.spotify.com/track/4ofZpP3iFaQ1GRtxOPbySO"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "Under the Covers",
+        "url": "https://open.spotify.com/album/69p0kNEn0mPNqkWwauuwOq"
+      },
+      "artists": [
+        {
+          "name": "Gretchen Wilson",
+          "url": "https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF"
+        }
+      ],
+      "duration_ms": 221093,
+      "name": "Into the Mystic",
+      "url": "https://open.spotify.com/track/0VKt9tsf9gOY3eotIfRHNS"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "Kellyoke",
         "url": "https://open.spotify.com/album/6NHAQ0pGd5ufv61Irqdpmi"
       },
@@ -1259,18 +1275,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Under the Covers",
-        "url": "https://open.spotify.com/album/69p0kNEn0mPNqkWwauuwOq"
+        "name": "Make Me Want To",
+        "url": "https://open.spotify.com/album/2rb2vdtPBkHPzqw05jbQAU"
       },
       "artists": [
         {
-          "name": "Gretchen Wilson",
-          "url": "https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF"
+          "name": "Maoli",
+          "url": "https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA"
         }
       ],
-      "duration_ms": 221093,
-      "name": "Into the Mystic",
-      "url": "https://open.spotify.com/track/0VKt9tsf9gOY3eotIfRHNS"
+      "duration_ms": 175227,
+      "name": "Make Me Want To",
+      "url": "https://open.spotify.com/track/5qzSSqOzkNTLr6NPtH4xtD"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1327,6 +1343,26 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "Rachel Bradshaw",
+        "url": "https://open.spotify.com/album/0V2PkvIAZN1VMW6wNPHGUp"
+      },
+      "artists": [
+        {
+          "name": "Rachel Bradshaw",
+          "url": "https://open.spotify.com/artist/6b62EC4kRXUMm8JbMhl3I4"
+        },
+        {
+          "name": "Jamey Johnson",
+          "url": "https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8"
+        }
+      ],
+      "duration_ms": 192236,
+      "name": "If I Needed You",
+      "url": "https://open.spotify.com/track/4VtVQjEOaRzZQK1fnqNwNa"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "Wide Open Spaces - Spotify Singles",
         "url": "https://open.spotify.com/album/14J7gZWOOBbG3LKtE0xs4t"
       },
@@ -1339,22 +1375,6 @@
       "duration_ms": 240224,
       "name": "Wide Open Spaces - Spotify Singles",
       "url": "https://open.spotify.com/track/5ZO6g6fEK9tsXNn2yqlzIr"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Make Me Want To",
-        "url": "https://open.spotify.com/album/2rb2vdtPBkHPzqw05jbQAU"
-      },
-      "artists": [
-        {
-          "name": "Maoli",
-          "url": "https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA"
-        }
-      ],
-      "duration_ms": 175227,
-      "name": "Make Me Want To",
-      "url": "https://open.spotify.com/track/5qzSSqOzkNTLr6NPtH4xtD"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1391,42 +1411,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Nobody Knows",
-        "url": "https://open.spotify.com/album/5HneOaxBGbFAwZR1tvLImP"
-      },
-      "artists": [
-        {
-          "name": "Rayne Johnson",
-          "url": "https://open.spotify.com/artist/3Zo19GTbgk9V6yCLrIfsxt"
-        }
-      ],
-      "duration_ms": 223253,
-      "name": "Nobody Knows",
-      "url": "https://open.spotify.com/track/7kty8TspGq6DFI7LP91Kfh"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Rachel Bradshaw",
-        "url": "https://open.spotify.com/album/0V2PkvIAZN1VMW6wNPHGUp"
-      },
-      "artists": [
-        {
-          "name": "Rachel Bradshaw",
-          "url": "https://open.spotify.com/artist/6b62EC4kRXUMm8JbMhl3I4"
-        },
-        {
-          "name": "Jamey Johnson",
-          "url": "https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8"
-        }
-      ],
-      "duration_ms": 192236,
-      "name": "If I Needed You",
-      "url": "https://open.spotify.com/track/4VtVQjEOaRzZQK1fnqNwNa"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "East Bound And Down",
         "url": "https://open.spotify.com/album/1ACfrm46Pjku8SZ1F1JVMe"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 177098,
       "name": "East Bound And Down",
       "url": "https://open.spotify.com/track/5JelBZwTfs9LZAUbeeVbqd"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Nobody Knows",
+        "url": "https://open.spotify.com/album/5HneOaxBGbFAwZR1tvLImP"
+      },
+      "artists": [
+        {
+          "name": "Rayne Johnson",
+          "url": "https://open.spotify.com/artist/3Zo19GTbgk9V6yCLrIfsxt"
+        }
+      ],
+      "duration_ms": 223253,
+      "name": "Nobody Knows",
+      "url": "https://open.spotify.com/track/7kty8TspGq6DFI7LP91Kfh"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "Re-Dunn",
+        "url": "https://open.spotify.com/album/3SgV10W3DzqU9ROOMSpxfo"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Dunn",
+          "url": "https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy"
+        }
+      ],
+      "duration_ms": 217253,
+      "name": "Wonderful Tonight",
+      "url": "https://open.spotify.com/track/21Z3B5PE2ocrIpKMduWPSr"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "Flower Shops",
         "url": "https://open.spotify.com/album/6a0snbHrAHLQXNHiAnmmAW"
       },
@@ -1603,18 +1619,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Re-Dunn",
-        "url": "https://open.spotify.com/album/3SgV10W3DzqU9ROOMSpxfo"
+        "name": "The Chair (The Bootlegger Sessions)",
+        "url": "https://open.spotify.com/album/35sGt91imrj8GqU6E7EV3v"
       },
       "artists": [
         {
-          "name": "Ronnie Dunn",
-          "url": "https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy"
+          "name": "Michael Ray",
+          "url": "https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz"
         }
       ],
-      "duration_ms": 204282,
-      "name": "The Cowboy Rides Away",
-      "url": "https://open.spotify.com/track/4BmTdSr3xoKElUVPJZRdiH"
+      "duration_ms": 166699,
+      "name": "The Chair - The Bootlegger Sessions",
+      "url": "https://open.spotify.com/track/10KMzf7sHmbxdEBGOXeyfn"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1667,34 +1683,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "The Chair (The Bootlegger Sessions)",
-        "url": "https://open.spotify.com/album/35sGt91imrj8GqU6E7EV3v"
+        "name": "Re-Dunn",
+        "url": "https://open.spotify.com/album/3SgV10W3DzqU9ROOMSpxfo"
       },
       "artists": [
         {
-          "name": "Michael Ray",
-          "url": "https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz"
+          "name": "Ronnie Dunn",
+          "url": "https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy"
         }
       ],
-      "duration_ms": 166699,
-      "name": "The Chair - The Bootlegger Sessions",
-      "url": "https://open.spotify.com/track/10KMzf7sHmbxdEBGOXeyfn"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Tim McGraw And The Dancehall Doctors",
-        "url": "https://open.spotify.com/album/76TexugJVi7Eg8suRNpQg6"
-      },
-      "artists": [
-        {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
-        }
-      ],
-      "duration_ms": 309333,
-      "name": "Tiny Dancer",
-      "url": "https://open.spotify.com/track/3di7BRqMooVP3pXwjEk49J"
+      "duration_ms": 204282,
+      "name": "The Cowboy Rides Away",
+      "url": "https://open.spotify.com/track/4BmTdSr3xoKElUVPJZRdiH"
     }
   ],
   "unique_name": "Country Covers",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-08-06",
-  "description": "Jesus Music but make it pon pon.   Get your fill of Afrobeats and Bible right here!  Cover: Limoblaze",
+  "description": "Jesus Music but make it pon pon.   Get your fill of Afrobeats and Bible right here!  Cover: Rehmahz",
   "name": "AfroGospel",
   "published_playlist_ids": [
     "3Byz18nq85Iwxm1gDdCput"
@@ -195,7 +195,7 @@
       ],
       "date_added": "2022-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 161288,
       "name": "Covered",
       "url": "https://open.spotify.com/track/55BLK36N4ebg6am14GvZ1I"
@@ -410,6 +410,28 @@
     },
     {
       "album": {
+        "name": "Idols",
+        "url": "https://open.spotify.com/album/2BsgQxCEn4Vg5lPgbdXqS6"
+      },
+      "artists": [
+        {
+          "name": "Kojo Dave",
+          "url": "https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce"
+        },
+        {
+          "name": "Shirlvin Desir",
+          "url": "https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161495,
+      "name": "Idols",
+      "url": "https://open.spotify.com/track/7gPYRjhBoy72zlXzvVTEjP"
+    },
+    {
+      "album": {
         "name": "Ife Wami",
         "url": "https://open.spotify.com/album/0swfSBWaESRDOO8SXGQtjz"
       },
@@ -521,7 +543,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 150857,
       "name": "Jo",
       "url": "https://open.spotify.com/track/0uJbjemXz5f4n9dxu3Nn8H"
@@ -587,7 +609,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 138000,
       "name": "Light",
       "url": "https://open.spotify.com/track/24yzTiIIm6voL9ez0AUOZ1"
@@ -934,6 +956,28 @@
     },
     {
       "album": {
+        "name": "Relief",
+        "url": "https://open.spotify.com/album/1ZEiAWldZVXaoICI7oJBX3"
+      },
+      "artists": [
+        {
+          "name": "Oba Reengy",
+          "url": "https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC"
+        },
+        {
+          "name": "Oyije",
+          "url": "https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157309,
+      "name": "Relief",
+      "url": "https://open.spotify.com/track/5G19pifWY3gRmWff4I4vgD"
+    },
+    {
+      "album": {
         "name": "Relying",
         "url": "https://open.spotify.com/album/7IQNM3m3vD6NkghunGuViL"
       },
@@ -1019,6 +1063,32 @@
       "duration_ms": 184000,
       "name": "Satisfy",
       "url": "https://open.spotify.com/track/4asSIgSVXvZejEJ9B3yvIg"
+    },
+    {
+      "album": {
+        "name": "Savior",
+        "url": "https://open.spotify.com/album/0xDS06ehDdWLIrKhq4tSvs"
+      },
+      "artists": [
+        {
+          "name": "Theresa Phondo",
+          "url": "https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"
+        },
+        {
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+        },
+        {
+          "name": "TBabz",
+          "url": "https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153473,
+      "name": "Savior",
+      "url": "https://open.spotify.com/track/5Twvf31nhxFi1K56nJT3Jv"
     },
     {
       "album": {
@@ -1176,6 +1246,24 @@
     },
     {
       "album": {
+        "name": "To Jireh",
+        "url": "https://open.spotify.com/album/4lfXUvcF2cToRLidbJ8g7Y"
+      },
+      "artists": [
+        {
+          "name": "Da'ville",
+          "url": "https://open.spotify.com/artist/4kV9mrNI60H24Jj55wjKfw"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205767,
+      "name": "To Jireh",
+      "url": "https://open.spotify.com/track/525D9ITdqJ3ygzrrxQTvtX"
+    },
+    {
+      "album": {
         "name": "True Love",
         "url": "https://open.spotify.com/album/1jEbLKBbUdvKqLoCoNTDz4"
       },
@@ -1267,7 +1355,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 163369,
       "name": "Yakpa",
       "url": "https://open.spotify.com/track/6vojGMaqWIWN18K1yE5oLG"

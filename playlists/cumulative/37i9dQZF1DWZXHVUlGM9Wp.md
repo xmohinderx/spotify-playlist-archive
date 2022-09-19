@@ -4,7 +4,7 @@
 
 > Keep on skating to the groovy boogie
 
-165 songs - 13 hr 14 min - [published](https://open.spotify.com/playlist/04amIGThswj9l5Ef18j76s)
+166 songs - 13 hr 18 min - [published](https://open.spotify.com/playlist/04amIGThswj9l5Ef18j76s)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,7 +158,8 @@
 | [Toothache](https://open.spotify.com/track/6plp1nJtm4Y3m87qmDCy61) | [Topaz Jones](https://open.spotify.com/artist/76bAuLD5jMIT1YDJ84KB8l) | [Toothache / Zoom](https://open.spotify.com/album/3c9W0mGNlgamPdlh1JfNj1) | 3:43 | 2022-07-27 |  |
 | [Treasure](https://open.spotify.com/track/55h7vJchibLdUkxdlX3fK7) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Unorthodox Jukebox](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) | 2:58 | 2022-05-13 |  |
 | [Unreplaceable](https://open.spotify.com/track/6MOGEJj9xkoW9cjVdfLeBR) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [It's Not So Bad](https://open.spotify.com/album/0mXGk4yEN4sdNOOVxL8VBH) | 2:58 | 2022-05-13 | 2022-05-24 |
-| [Virtual Insanity \- Remastered](https://open.spotify.com/track/49TQfrsm60j5ZFKS59JOdU) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [High Times: Singles 1992\-2006](https://open.spotify.com/album/290mciLlwjKmpNgv95xTSO) | 3:49 | 2022-05-13 |  |
+| [Virtual Insanity \- Remastered](https://open.spotify.com/track/2hNaljpWGHzwcIvkPIHMk7) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [High Times: Singles 1992\-2006](https://open.spotify.com/album/3gm6ZS73n5yGZvWfq7CoLX) | 3:49 | 2022-07-27 |  |
+| [Virtual Insanity \- Remastered](https://open.spotify.com/track/49TQfrsm60j5ZFKS59JOdU) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [High Times: Singles 1992\-2006](https://open.spotify.com/album/290mciLlwjKmpNgv95xTSO) | 3:49 | 2022-05-13 | 2022-09-19 |
 | [Vogue](https://open.spotify.com/track/7yMMMWrZ45Hlgd14OQA7pL) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [Bryn Christopher](https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv), [Trinidad James](https://open.spotify.com/artist/0I5HubncQ8E1MFZOlPDY4J) | [Vogue](https://open.spotify.com/album/2tlsBMqsihhatbkUZryPX6) | 3:11 | 2022-05-13 | 2022-07-21 |
 | [Voulez\-Vous](https://open.spotify.com/track/17OqI90oTFZ3J8PVu6j07V) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voulez\-Vous](https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh) | 5:09 | 2022-05-13 |  |
 | [Wait \- Chromeo Remix](https://open.spotify.com/track/0eayB5jay6m21D816D7jF4) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Wait \(Chromeo Remix\)](https://open.spotify.com/album/5OI8zfqy2WwWN4OnfPVXak) | 4:19 | 2022-05-13 | 2022-08-02 |

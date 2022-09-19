@@ -1252,6 +1252,28 @@
     },
     {
       "album": {
+        "name": "Bygga Nytt",
+        "url": "https://open.spotify.com/album/4ipVGk4eu3saiPXuN1firl"
+      },
+      "artists": [
+        {
+          "name": "Timbuktu",
+          "url": "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        },
+        {
+          "name": "Sabina Ddumba",
+          "url": "https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220013,
+      "name": "Bygga Nytt",
+      "url": "https://open.spotify.com/track/2530kYkCKjqD2neMyPwPtp"
+    },
+    {
+      "album": {
         "name": "B\u00e4sta Vi Gjort",
         "url": "https://open.spotify.com/album/4GoKbr5Cdm3Y36fb3P7775"
       },
@@ -4076,6 +4098,24 @@
     },
     {
       "album": {
+        "name": "I Feel It In The Wind",
+        "url": "https://open.spotify.com/album/1OedsPZaNzUJILkvivIYF7"
+      },
+      "artists": [
+        {
+          "name": "Smith & Thell",
+          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213717,
+      "name": "I Feel It In The Wind",
+      "url": "https://open.spotify.com/track/4bc5uke0uDwT78j0pIKlDg"
+    },
+    {
+      "album": {
         "name": "I Got You",
         "url": "https://open.spotify.com/album/2TGMynyNRUyr0SkFRTMEug"
       },
@@ -4305,7 +4345,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 221848,
       "name": "Indifferent",
       "url": "https://open.spotify.com/track/7GqOFY5GBH32vUU95WYxIZ"
@@ -8471,7 +8511,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 201201,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/21pE89kv4OQssxpzUPwMek"

@@ -4,7 +4,7 @@
 
 > Smooth joints\. Cover: bLAck pARty
 
-723 songs - 1 day 18 hr 40 min - [published](https://open.spotify.com/playlist/6iBWJdwWthi80GH8IDHW0t)
+724 songs - 1 day 18 hr 44 min - [published](https://open.spotify.com/playlist/6iBWJdwWthi80GH8IDHW0t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -567,7 +567,7 @@
 | [Smoke](https://open.spotify.com/track/092s6wVDOgosfuZKY4ccj7) | [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL) | [Smoke](https://open.spotify.com/album/4xnAka30RUXgejpy6knE8M) | 4:24 | 2021-05-15 | 2022-07-27 |
 | [Snowflower](https://open.spotify.com/track/5iW0UFq95KuAbwoMyhgFB9) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [Snowflower](https://open.spotify.com/album/5ZaTktssgaH0LP5boYH2K7) | 3:15 | 2020-10-16 | 2021-01-15 |
 | [So](https://open.spotify.com/track/3fDHHkOEw2Fr8km3T4ixYQ) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [So Sunshine](https://open.spotify.com/album/3tw7ZPvVJo1DqIZvdE6cos) | 2:16 | 2020-09-18 |  |
-| [So Long](https://open.spotify.com/track/0IgEhBc28DrqMaFCSWrSew) | [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [So Long](https://open.spotify.com/album/2WajwfUOqKOzoicUBCmo14) | 2:23 | 2022-04-15 |  |
+| [So Long](https://open.spotify.com/track/0IgEhBc28DrqMaFCSWrSew) | [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [So Long](https://open.spotify.com/album/2WajwfUOqKOzoicUBCmo14) | 2:23 | 2022-04-15 | 2022-09-19 |
 | [so simple](https://open.spotify.com/track/6cxiPW3AEDukD6zBwlyRw5) | [agajon](https://open.spotify.com/artist/5ZqhVXS0lKksMwTqFTBY3k), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [nag champa](https://open.spotify.com/album/5l8rGjeehGlrv6nxrRAvkj) | 2:52 | 2022-09-02 |  |
 | [So We Won't Forget](https://open.spotify.com/track/1sL0oHu8NCQpImkjxkoVXj) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [So We Won't Forget](https://open.spotify.com/album/6AixWA1IbGyb70exJJKUUa) | 4:58 | 2020-05-22 | 2020-06-20 |
 | [Sober](https://open.spotify.com/track/2lQv5l2Bmf7hYyYwjNe2lC) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [Sober](https://open.spotify.com/album/7qM4xyGyZdO6K2r2k7Lz7V) | 3:19 | 2020-03-06 | 2020-04-24 |
@@ -578,6 +578,7 @@
 | [Sojourner \(feat\. J\. Cole\)](https://open.spotify.com/track/6FtCEQZesoKRmjf5LBKyko) | [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Sojourner \(feat\. J\. Cole\)](https://open.spotify.com/album/68WGEWZgJhPk2BnF8H2su2) | 5:43 | 2022-04-15 | 2022-04-21 |
 | [Solar](https://open.spotify.com/track/3rgq0rNscbanTfD24ZshDu) | [Natty Reeves](https://open.spotify.com/artist/1fsSvgFWoQcgRDGyG6ZY64) | [Solar](https://open.spotify.com/album/6xpzUkus2cidIj9HZsyB8E) | 2:59 | 2020-11-13 | 2022-06-16 |
 | [Somebody](https://open.spotify.com/track/4pH6laAb6NMMZUKB3QriFq) | [BenjiFlow](https://open.spotify.com/artist/3NRpcByltnHx7oZxWbg8Lt) | [Somebody](https://open.spotify.com/album/4MURfc2TCYq9okCd19llJ7) | 3:08 | 2019-11-15 | 2019-12-11 |
+| [Someone Like You](https://open.spotify.com/track/2ogZQLXNwWUnlgNDqeh7Cl) | [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Some Of Us Are Brave](https://open.spotify.com/album/2TETLoSHPG3KjGTHlMbFuQ) | 4:32 | 2022-09-16 |  |
 | [Something Else](https://open.spotify.com/track/2LREvT5qa79qMUxsPyVuey) | [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl) | [Something Else](https://open.spotify.com/album/6Kz4DDNps9MzvtelSfIVIq) | 2:07 | 2020-09-11 | 2022-06-16 |
 | [Something In The Water](https://open.spotify.com/track/0uhvussAJlfgAJnlEpDqgK) | [Simon Jefferis](https://open.spotify.com/artist/3pqAGIw1dthOiaFvDERi74), [Ife Ogunjobi](https://open.spotify.com/artist/2nkMktddAGCSVHJlsO6eUK), [Ben Vize](https://open.spotify.com/artist/7swDQQMC05MQbZoq6cxxzC), [David Mrakpor](https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr) | [Something in the Water](https://open.spotify.com/album/4OmusPpTrqMq8L4GZAqsUX) | 5:04 | 2020-04-24 | 2020-05-22 |
 | [Song 32](https://open.spotify.com/track/7GWAIzOmt5iznpu8RbSiSI) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Song 32](https://open.spotify.com/album/7eVx4XXwY3KrIPGRrW66UI) | 2:42 | 2019-09-29\* | 2019-12-06 |

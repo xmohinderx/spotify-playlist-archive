@@ -4,7 +4,7 @@
 
 > A cup of Joe and the raw blues.
 
-123 songs - 7 hr 41 min - [published](https://open.spotify.com/playlist/2rceehLfFDsq44a5TcSSEu)
+124 songs - 7 hr 46 min - [published](https://open.spotify.com/playlist/2rceehLfFDsq44a5TcSSEu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Death Letter Blues](https://open.spotify.com/track/4qZRDyzwPafiskSh3YIIPr) | [Mary Flower](https://open.spotify.com/artist/58sXz2QNZ3Zr0JlQ198mg2) | [Misery Loves Company](https://open.spotify.com/album/1q5Y6DUXVUbAAKCYENUQSc) | 6:12 | 2022-05-25 | 2022-07-27 |
 | [Death Valley Blues](https://open.spotify.com/track/7rG5HKSHsK3HDb2HWGiDAT) | [Arthur "Big Boy" Crudup](https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC) | [Death Valley Blues](https://open.spotify.com/album/1TbXvKBvqWDDIOADkyTNoM) | 2:43 | 2022-07-01 |  |
 | [Delta by the Beach](https://open.spotify.com/track/5grwVBDib4CwIcvPqAmexS) | [Delta by the Beach](https://open.spotify.com/artist/0OrJZ0NUZEcABLBLSBCiGg), [Flattop Tom](https://open.spotify.com/artist/7383pq5vqDNdGvYepg5Li9) | [Delta by the Beach](https://open.spotify.com/album/2dKeBXScUH7RMIGs7uwqC6) | 2:39 | 2022-05-25 | 2022-05-30 |
-| [Devil Got My Woman](https://open.spotify.com/track/6DawgaTuMtL9DOq1jCVeVN) | [Skip James](https://open.spotify.com/artist/2zlMeTjA7szCmqcJjBzYXJ) | [Devil Got My Woman](https://open.spotify.com/album/0sgYD9rg6DpI2uWrffTXEr) | 5:15 | 2022-05-25 |  |
+| [Devil Got My Woman](https://open.spotify.com/track/6DawgaTuMtL9DOq1jCVeVN) | [Skip James](https://open.spotify.com/artist/2zlMeTjA7szCmqcJjBzYXJ) | [Devil Got My Woman](https://open.spotify.com/album/0sgYD9rg6DpI2uWrffTXEr) | 5:15 | 2022-05-25 | 2022-09-19 |
 | [Driftin' Blues](https://open.spotify.com/track/2GobDOqRDg3TZwM54xIBKX) | [Bobby "Blue" Bland](https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj) | [Blues Masters: The Greatest](https://open.spotify.com/album/2eb3cUrLqyJrCCEOrH0QFe) | 3:28 | 2022-05-25 | 2022-07-29 |
 | [Driftin' Blues \- Single Version / Stereo](https://open.spotify.com/track/4KVEHkTYmCxYwkat9eniQs) | [Bobby "Blue" Bland](https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj) | [That's It! / Duke Recordings Vol\. III](https://open.spotify.com/album/6UDjveu23U4KAxKU5RlnsB) | 3:28 | 2022-07-08 |  |
 | [Drifting](https://open.spotify.com/track/24iHvzbOM56UjDckloaz6o) | [John Littlejohn](https://open.spotify.com/artist/2HzWKvI04SaehwU6bM9GUn) | [When Your Best Friend Turns Their Back On You](https://open.spotify.com/album/3Ay1P99wYBVNKeQTF6z6M4) | 6:01 | 2022-05-25 | 2022-07-20 |
@@ -93,6 +93,7 @@
 | [Mystery Train](https://open.spotify.com/track/2ai9vtLxBecBwYcBRGJXwo) | [Junior Parker](https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u) | [Little Junior Parker: Mr\. Blues](https://open.spotify.com/album/6dL0V0efzoNS1UtNrwxWaD) | 2:24 | 2022-06-14 |  |
 | [Mystery Woman](https://open.spotify.com/track/1iHbbd44X6nmnF6may22sd) | [Doug MacLeod](https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz) | [Come to Find](https://open.spotify.com/album/6TdbTfL5Ql2BMqkAknneZd) | 5:01 | 2022-05-25 |  |
 | [Natural Blues](https://open.spotify.com/track/5zakPCpl4O2v1UEow7Qv29) | [Zucchero](https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M), [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd) | [Discover](https://open.spotify.com/album/2A6HIKxsKtWuUhsqJzdzJl) | 4:07 | 2022-05-25 |  |
+| [Navigation Blues](https://open.spotify.com/track/55WTb0BjmzXUUurFiNRWVk) | [Thorbjørn Risager](https://open.spotify.com/artist/1ZH4VWLaW65KivEJmbhhiT), [The Black Tornado](https://open.spotify.com/artist/5xZXRYnVUXrCglxwVCLAVD) | [Navigation Blues](https://open.spotify.com/album/1uVVEurSRPaxgJF2EuAHEr) | 4:56 | 2022-09-12 |  |
 | [Newbury](https://open.spotify.com/track/5XM2FOhXcBJQzABOmlQQEl) | [Emiliano Savini](https://open.spotify.com/artist/46GUtbDolQDzC9WU2gYIqv), [Liliana Richter](https://open.spotify.com/artist/7BaNCwzekjzjD4aRrysKms) | [Newbury](https://open.spotify.com/album/3SXMSz3qll5B72jOHnQYS3) | 3:18 | 2022-05-25 | 2022-07-29 |
 | [Outside \(featuring Lamar Williams Jr.\)](https://open.spotify.com/track/00b6fpaBoDoPhbsVbraJX3) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY), [Lamar Williams Jr.](https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4) | [Set Sail](https://open.spotify.com/album/12psJfvIqIEwGY6JNuQMzF) | 4:58 | 2022-05-25 |  |
 | [Perpetual Blues Machine](https://open.spotify.com/track/2CgFNet99tzGTEIxYrYbuN) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Martin Scorsese Presents The Blues: Keb' Mo'](https://open.spotify.com/album/1El1ZLtpLoUpQHjUdXtLxc) | 3:15 | 2022-05-25 |  |

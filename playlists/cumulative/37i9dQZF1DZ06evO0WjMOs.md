@@ -4,7 +4,7 @@
 
 > This is Lizzy McAlpine\. The essential tracks, all in one playlist.
 
-30 songs - 1 hr 42 min - not published yet
+30 songs - 1 hr 42 min - [published](https://open.spotify.com/playlist/4ptneBGeawMZorWRxeZGoM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

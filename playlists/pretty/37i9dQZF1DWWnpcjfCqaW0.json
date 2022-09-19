@@ -1,12 +1,12 @@
 {
   "description": "The decade when country and rockabilly came together. Cover: Johnny Cash",
-  "num_followers": 225168,
+  "num_followers": 225339,
   "original_name": "50s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODY5MzczNSwwMDAwMDAwMGYzMDEzODQzMzI1ZjU4YWQ3ZDU2MzU1NTExNmU0OTdm",
+  "snapshot_id": "MTY1ODY5MzczNSwwMDAwMDAwMDJmMDIxNDU2Yjk4ZGM5Y2ZhYWY5MmYyYmMyYmFiMmFj",
   "tracks": [
     {
       "added_at": "2022-07-24 20:15:35",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2022-07-24 20:15:35",
       "album": {
-        "name": "Margaret",
-        "url": "https://open.spotify.com/album/5ckQS8yZaYorW36nLCOqRn"
-      },
-      "artists": [
-        {
-          "name": "Margaret Whiting",
-          "url": "https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87"
-        }
-      ],
-      "duration_ms": 127746,
-      "name": "I Love You Because",
-      "url": "https://open.spotify.com/track/0ax1ZYtsyAcDwtx5Kfs9e5"
-    },
-    {
-      "added_at": "2022-07-24 20:15:35",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/1iIdCS3AKg1XSovy1KsfXX"
       },
@@ -1071,18 +1055,34 @@
     {
       "added_at": "2022-07-24 20:15:35",
       "album": {
-        "name": "Red Hot / Pearly Lee",
-        "url": "https://open.spotify.com/album/29B0yXlUcYh8Mx0EZGFzrC"
+        "name": "Margaret",
+        "url": "https://open.spotify.com/album/5ckQS8yZaYorW36nLCOqRn"
       },
       "artists": [
         {
-          "name": "Billy Lee Riley",
-          "url": "https://open.spotify.com/artist/0a85EJEd3a9RGM9ops09rZ"
+          "name": "Margaret Whiting",
+          "url": "https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87"
         }
       ],
-      "duration_ms": 149705,
-      "name": "Red Hot",
-      "url": "https://open.spotify.com/track/4ry02LU6cR10FIElCb3KLy"
+      "duration_ms": 127746,
+      "name": "I Love You Because",
+      "url": "https://open.spotify.com/track/0ax1ZYtsyAcDwtx5Kfs9e5"
+    },
+    {
+      "added_at": "2022-07-24 20:15:35",
+      "album": {
+        "name": "The Country Music Hall Of Fame",
+        "url": "https://open.spotify.com/album/4nyc58AKKAPIDSuybSUfgQ"
+      },
+      "artists": [
+        {
+          "name": "Red Foley",
+          "url": "https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Chattanoogie Shoe Shine Boy - 1949 Single Version",
+      "url": "https://open.spotify.com/track/7Jf323ttHKUnPylFWiaGl3"
     },
     {
       "added_at": "2022-07-24 20:15:35",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2022-07-24 20:15:35",
       "album": {
-        "name": "The Country Music Hall Of Fame",
-        "url": "https://open.spotify.com/album/4nyc58AKKAPIDSuybSUfgQ"
+        "name": "Red Hot / Pearly Lee",
+        "url": "https://open.spotify.com/album/29B0yXlUcYh8Mx0EZGFzrC"
       },
       "artists": [
         {
-          "name": "Red Foley",
-          "url": "https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9"
+          "name": "Billy Lee Riley",
+          "url": "https://open.spotify.com/artist/0a85EJEd3a9RGM9ops09rZ"
         }
       ],
-      "duration_ms": 169000,
-      "name": "Chattanoogie Shoe Shine Boy - 1949 Single Version",
-      "url": "https://open.spotify.com/track/7Jf323ttHKUnPylFWiaGl3"
+      "duration_ms": 149705,
+      "name": "Red Hot",
+      "url": "https://open.spotify.com/track/4ry02LU6cR10FIElCb3KLy"
     },
     {
       "added_at": "2022-07-24 20:15:35",

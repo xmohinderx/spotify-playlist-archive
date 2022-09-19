@@ -4,7 +4,7 @@
 
 > Los hermanos Durán, López y Basualto nos dejaron estos temas desde Concepción al mundo..\. ¡Grande Los Bunkers!
 
-66 songs - 4 hr 26 min - not published yet
+66 songs - 4 hr 26 min - [published](https://open.spotify.com/playlist/3aDxO3LPIwrNvFuc1aXcEm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

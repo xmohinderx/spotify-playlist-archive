@@ -4,14 +4,14 @@
 
 > Soft, smoky undertones of singer\-songwriter sounds give way to lingering notes of rich, earthy chamber folk\. Cover: Glen Hansard.
 
-219 songs - 13 hr 46 min - [published](https://open.spotify.com/playlist/2Hethr1BcIJ6J3upAu0u4u)
+220 songs - 13 hr 49 min - [published](https://open.spotify.com/playlist/2Hethr1BcIJ6J3upAu0u4u)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [9 Crimes](https://open.spotify.com/track/08YEGpKt2LHJ0URCXKHEie) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [9](https://open.spotify.com/album/4B7O0E5V0ntVTz41tCfPdF) | 3:39 | 2020-11-25 |  |
 | [A Drive Through the Countryside](https://open.spotify.com/track/366PD9y46HEbFLkOyraxMM) | [Lowland Hum](https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE) | [A Drive Through the Countryside](https://open.spotify.com/album/6TUwtJ1lbA3Ovapr5cHbS4) | 2:14 | 2020-11-25 | 2022-07-29 |
 | [A Light On In The Dark](https://open.spotify.com/track/6JbfmKceztqS3SYfA9CwQR) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Fish Pond Fish](https://open.spotify.com/album/48mwALvRndLkgANgah5qmd) | 3:51 | 2020-11-25 | 2022-07-29 |
-| [A Sea of Roses](https://open.spotify.com/track/72w7uKE7CkNwpLFUBHqUkC) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [All the Things That I Did and All the Things That I Didn't Do](https://open.spotify.com/album/1BpQ1yTs26aKJg0aWqnzEq) | 3:19 | 2020-11-25 |  |
+| [A Sea of Roses](https://open.spotify.com/track/72w7uKE7CkNwpLFUBHqUkC) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [All the Things That I Did and All the Things That I Didn't Do](https://open.spotify.com/album/1BpQ1yTs26aKJg0aWqnzEq) | 3:19 | 2020-11-25 | 2022-09-19 |
 | [All I Know Is](https://open.spotify.com/track/6ERFuCVkwAcOpWELq71Gxt) | [Doc Robinson](https://open.spotify.com/artist/5O0efDEpkqEmWbXD2zpkjz), [Taylor Meier](https://open.spotify.com/artist/2Tz99faL8Eyjl1ct9d5oLx) | [The Musicol Sessions \(Vol 2\)](https://open.spotify.com/album/6rawzLMa2l39VaRJH9aUVf) | 4:20 | 2020-11-25 | 2022-07-21 |
 | [All the Pretty Girls \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 5:07 | 2020-11-25 |  |
 | [All We Ever Knew \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0PHm9MrfZdEUasfd1XC0n2) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Spotify Singles](https://open.spotify.com/album/4OUg8wmqAxUfSN05i4um9Y) | 3:48 | 2020-11-25 |  |
@@ -79,6 +79,7 @@
 | [Got a Lotta Love](https://open.spotify.com/track/0RMlPv9lkskpyEXQttMCOq) | [The Cactus Blossoms](https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S) | [Easy Way](https://open.spotify.com/album/1baZsLfWdRMcdXqgko3Bo7) | 3:02 | 2020-11-25 |  |
 | [Got a Lotta Love](https://open.spotify.com/track/61jVBCW26jKkv5jn7HMqy3) | [The Cactus Blossoms](https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S) | [Got a Lotta Love](https://open.spotify.com/album/4xSmXKeOfGCRcDN9Syskly) | 3:02 | 2020-11-25 | 2022-07-29 |
 | [Green Room \(feat\. Ed Droste\)](https://open.spotify.com/track/1zaoc2J0SYRYE5sSjzXNyb) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC), [Ed Droste](https://open.spotify.com/artist/0XF81i7F5hTlfNMHlTNptl) | [Tourism](https://open.spotify.com/album/7G07UTNS6qqiu7c5cz7jcj) | 3:19 | 2020-11-25 | 2022-07-29 |
+| [Grow into Love](https://open.spotify.com/track/52AthVA2opex8NcLSwtO8n) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Seasons of Change](https://open.spotify.com/album/74fRgN21qhhAQv43mbCJFq) | 2:42 | 2020-11-25 |  |
 | [Grow into Love](https://open.spotify.com/track/6FloUWDjW3r51mRYyw0vv5) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Seasons of Change](https://open.spotify.com/album/2dyKBgz9mbVHUbeX2lbd8p) | 2:42 | 2020-11-25 | 2022-09-15 |
 | [Guess Again](https://open.spotify.com/track/4Y2365W43JtMuU2os31LUs) | [Jeff Tweedy](https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN) | [Guess Again](https://open.spotify.com/album/637CT2H6ESwzGM6KRVy5IZ) | 3:17 | 2020-11-25 |  |
 | [Half Your Love](https://open.spotify.com/track/0ut7f4KB9sZQ8uhA4HyOMt) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Sad Hunk](https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br) | 2:24 | 2020-11-25 |  |

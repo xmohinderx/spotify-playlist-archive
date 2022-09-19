@@ -4,7 +4,7 @@
 
 > Real nasty house\. Cover: ESSEL
 
-338 songs - 18 hr 5 min - [published](https://open.spotify.com/playlist/2H083FLJ5ZhYNqx83NgdpT)
+339 songs - 18 hr 8 min - [published](https://open.spotify.com/playlist/2H083FLJ5ZhYNqx83NgdpT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,7 +226,7 @@
 | [Numb](https://open.spotify.com/track/41EekfzAGeK44z1zQRhNgR) | [Kage](https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot) | [Numb](https://open.spotify.com/album/2C1eeI6heXSrCmtkGOV2FT) | 3:45 | 2022-05-06 |  |
 | [Old School](https://open.spotify.com/track/0RzusHyWJSvNh4NRjtOdOb) | [Cloverdale](https://open.spotify.com/artist/27RdRVoIwtB1CAhLwuPrbB), [FWLR](https://open.spotify.com/artist/1bgWqGp78w6C8CNPvD6Qlo) | [Old School](https://open.spotify.com/album/2XyLOSVrg5eCusbYnU9cmm) | 3:43 | 2021-10-29 | 2022-01-19 |
 | [ON FIRE](https://open.spotify.com/track/2vHOCV5YErCA8ypUwHozcA) | [JOYRYDE](https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0) | [BRAVE](https://open.spotify.com/album/5cIB4XHB34ZpVmaSzzhiOB) | 3:23 | 2021-10-29 | 2022-05-28 |
-| [One Bad Bitch](https://open.spotify.com/track/6F3lOKRnB14Zpl4hHTXF06) | [Moksi](https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011), [Lefris](https://open.spotify.com/artist/3NxCFrrWRg6MVVNiPgPylF), [Sky Sky](https://open.spotify.com/artist/1qHWLwufRLQk2pVywVbBBp) | [One Bad Bitch](https://open.spotify.com/album/1W217zL44epr9Ckcex3uHB) | 3:23 | 2022-03-04 |  |
+| [One Bad Bitch](https://open.spotify.com/track/6F3lOKRnB14Zpl4hHTXF06) | [Moksi](https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011), [Lefris](https://open.spotify.com/artist/3NxCFrrWRg6MVVNiPgPylF), [Sky Sky](https://open.spotify.com/artist/1qHWLwufRLQk2pVywVbBBp) | [One Bad Bitch](https://open.spotify.com/album/1W217zL44epr9Ckcex3uHB) | 3:23 | 2022-03-04 | 2022-09-19 |
 | [One Time](https://open.spotify.com/track/3TDqXg8iAPzgGKqVEn4cup) | [ALRT](https://open.spotify.com/artist/4XH5qVwKcWRS0Z6tr85exf) | [One Time](https://open.spotify.com/album/6icjcRHwHhCbMEFGGexCAx) | 3:03 | 2022-07-29 |  |
 | [Only Fans Song](https://open.spotify.com/track/2fY70bBq6Bz14N74M6AegY) | [Rich DietZ](https://open.spotify.com/artist/1mMlBc8LXvVOSxtaskKiE8) | [Only Fans Song](https://open.spotify.com/album/0GFUx6LG4nYHLOZN9wz2X7) | 3:58 | 2021-10-29 | 2022-01-14 |
 | [Only For Tonight](https://open.spotify.com/track/1CKd1z0JCo4HG7Qqt1gjkN) | [Kura](https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T) | [Only For Tonight](https://open.spotify.com/album/4DOyQG8UqNxa1EtsK1mkbM) | 2:48 | 2022-03-18 | 2022-05-05 |
@@ -262,6 +262,7 @@
 | [Ring The Alarm \- Habstrakt Remix](https://open.spotify.com/track/67kJ3o6PrkB9CetDTXQ1wR) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [Ring The Alarm \(Remixes\)](https://open.spotify.com/album/6161quyAWtf6v1f0kIUd4w) | 2:56 | 2021-12-17 | 2022-04-23 |
 | [Riot Gear](https://open.spotify.com/track/4sfItXEPyigeIuV5E6pS8b) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [Riot Gear](https://open.spotify.com/album/1AIZUnYfTMKXBlDLChdN6M) | 3:09 | 2021-10-29 | 2022-05-28 |
 | [Rockstar](https://open.spotify.com/track/6fp8ij0afP7qdZHlk7gyco) | [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA), [Tony Watts](https://open.spotify.com/artist/6F1NrhJEWrypMRqqLugIjO) | [Rockstar](https://open.spotify.com/album/6S7mPHW5b9ipL8Kaf56pn2) | 2:24 | 2021-10-29 | 2022-05-28 |
+| [Rush](https://open.spotify.com/track/2a9hp6HbEtzUQBLv5C81mw) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof), [Cecelia](https://open.spotify.com/artist/6LtDEad7bRcRxBKQoiFAlI) | [Rush](https://open.spotify.com/album/2eZsDmAcZj27p3B73kbcYp) | 3:52 | 2022-09-16 |  |
 | [Scars](https://open.spotify.com/track/5t0EAqNTV7MmQI6tvlrqmk) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Scars](https://open.spotify.com/album/4sdbYcP9fXjLopjsWjawiy) | 3:02 | 2022-01-07 |  |
 | [Selecta](https://open.spotify.com/track/5l42EXVy40wtLv8FjUUYxl) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [Selecta](https://open.spotify.com/album/4U8HP1Uacm4oRiGxkJERO4) | 2:36 | 2022-01-28 | 2022-05-27 |
 | [Sequence 999](https://open.spotify.com/track/5PVDrXJ2N6bpKrxLyyFa4Y) | [Tek Genesis](https://open.spotify.com/artist/1NDC66eYcuc127yFeBYbbs) | [Sequence 999](https://open.spotify.com/album/7EMZiKTAUDQ69EsbeoX4uQ) | 2:59 | 2021-10-29 | 2022-01-14 |

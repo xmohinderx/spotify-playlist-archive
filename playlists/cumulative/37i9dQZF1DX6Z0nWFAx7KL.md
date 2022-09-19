@@ -4,7 +4,7 @@
 
 > You can dance or chill.
 
-80 songs - 3 hr 57 min - not published yet
+80 songs - 3 hr 57 min - [published](https://open.spotify.com/playlist/1BWpzWShYoBy84VHt9IlwY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

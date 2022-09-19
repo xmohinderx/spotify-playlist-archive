@@ -1,12 +1,12 @@
 {
   "description": "Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  We The Kingdom",
-  "num_followers": 82052,
+  "num_followers": 82065,
   "original_name": "Sing A New Song",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzY3NDg2NCwwMDAwMDAwMDc5YjUyNTJkNWY1ZjIyZDE2ODQwZDQ3MTMyZGY1MGY0",
+  "snapshot_id": "MTY1MzY3NDg2NCwwMDAwMDAwMDcxNTZkZjNlZDExZTIxOTJjY2M4N2E1MjQ0M2JmOTRi",
   "tracks": [
     {
       "added_at": "2022-05-27 18:07:44",
@@ -759,22 +759,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Well Done",
-        "url": "https://open.spotify.com/album/4HwR3J7H9aOLHhSGOGhAoq"
-      },
-      "artists": [
-        {
-          "name": "Caitie Hurst",
-          "url": "https://open.spotify.com/artist/4PkIQHjtrqEAOaHysiQW0b"
-        }
-      ],
-      "duration_ms": 222693,
-      "name": "Well Done",
-      "url": "https://open.spotify.com/track/5b3I2jCJm3FklJ5ui1uU77"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "HELP!",
         "url": "https://open.spotify.com/album/0sVketRXWDWlozs5jNopci"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 183720,
       "name": "HELP!",
       "url": "https://open.spotify.com/track/0NYrbgMEKFplv2l4Rzv4hN"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "Well Done",
+        "url": "https://open.spotify.com/album/4HwR3J7H9aOLHhSGOGhAoq"
+      },
+      "artists": [
+        {
+          "name": "Caitie Hurst",
+          "url": "https://open.spotify.com/artist/4PkIQHjtrqEAOaHysiQW0b"
+        }
+      ],
+      "duration_ms": 222693,
+      "name": "Well Done",
+      "url": "https://open.spotify.com/track/5b3I2jCJm3FklJ5ui1uU77"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -911,6 +911,42 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
+        "name": "You Win",
+        "url": "https://open.spotify.com/album/0LGElNOFWB10C2P9nsv5iz"
+      },
+      "artists": [
+        {
+          "name": "Jovan Whyte",
+          "url": "https://open.spotify.com/artist/2aSIiyJpZUCU89Ed202JAC"
+        }
+      ],
+      "duration_ms": 218426,
+      "name": "You Win",
+      "url": "https://open.spotify.com/track/4PdWih41tMrAtyx5HEubpv"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "Somebody Tell That Girl (feat. Anne Wilson)",
+        "url": "https://open.spotify.com/album/6Ge39Vt6n9l36QBXRfvMuS"
+      },
+      "artists": [
+        {
+          "name": "High Valley",
+          "url": "https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN"
+        },
+        {
+          "name": "Anne Wilson",
+          "url": "https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN"
+        }
+      ],
+      "duration_ms": 210333,
+      "name": "Somebody Tell That Girl (feat. Anne Wilson)",
+      "url": "https://open.spotify.com/track/3j1MPB5dZLR9kl7k37Ra2u"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
         "name": "I See Heaven On Earth",
         "url": "https://open.spotify.com/album/3irmMXTzkzVkctuv2mMJZz"
       },
@@ -939,42 +975,6 @@
       "duration_ms": 226442,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/4GcSp6MeitSVubtS27ykaw"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
-        "name": "Somebody Tell That Girl (feat. Anne Wilson)",
-        "url": "https://open.spotify.com/album/6Ge39Vt6n9l36QBXRfvMuS"
-      },
-      "artists": [
-        {
-          "name": "High Valley",
-          "url": "https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN"
-        },
-        {
-          "name": "Anne Wilson",
-          "url": "https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN"
-        }
-      ],
-      "duration_ms": 210333,
-      "name": "Somebody Tell That Girl (feat. Anne Wilson)",
-      "url": "https://open.spotify.com/track/3j1MPB5dZLR9kl7k37Ra2u"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
-        "name": "You Win",
-        "url": "https://open.spotify.com/album/0LGElNOFWB10C2P9nsv5iz"
-      },
-      "artists": [
-        {
-          "name": "Jovan Whyte",
-          "url": "https://open.spotify.com/artist/2aSIiyJpZUCU89Ed202JAC"
-        }
-      ],
-      "duration_ms": 218426,
-      "name": "You Win",
-      "url": "https://open.spotify.com/track/4PdWih41tMrAtyx5HEubpv"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "He Is Not Worried",
-        "url": "https://open.spotify.com/album/7IDS7l5JGzDfdnBY1P90st"
-      },
-      "artists": [
-        {
-          "name": "Brandon Heath",
-          "url": "https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj"
-        }
-      ],
-      "duration_ms": 269986,
-      "name": "He Is Not Worried",
-      "url": "https://open.spotify.com/track/64bufFeb5iQoZhEhFPVJCb"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "Landslide",
         "url": "https://open.spotify.com/album/6n4SLfwVKjSiSrmUdL16iL"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 293253,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/0LidfYMs8GTkrOIEzjpLSV"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "He Is Not Worried",
+        "url": "https://open.spotify.com/album/7IDS7l5JGzDfdnBY1P90st"
+      },
+      "artists": [
+        {
+          "name": "Brandon Heath",
+          "url": "https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj"
+        }
+      ],
+      "duration_ms": 269986,
+      "name": "He Is Not Worried",
+      "url": "https://open.spotify.com/track/64bufFeb5iQoZhEhFPVJCb"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "How Can I Be Silent",
-        "url": "https://open.spotify.com/album/3GudEZtWF1vRHf1AM0hH9C"
-      },
-      "artists": [
-        {
-          "name": "Chelsea",
-          "url": "https://open.spotify.com/artist/68rhcOBBEa3q3lKZbOAd18"
-        }
-      ],
-      "duration_ms": 204050,
-      "name": "How Can I Be Silent",
-      "url": "https://open.spotify.com/track/7IgnVHqxDysutaj7txWS9U"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "Breaking Boundaries",
         "url": "https://open.spotify.com/album/30TzQ0x522lnXuyPa3Jizb"
       },
@@ -1511,18 +1495,18 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Close To You",
-        "url": "https://open.spotify.com/album/7flhQQ1ZSd3SbvIr6fgF7J"
+        "name": "How Can I Be Silent",
+        "url": "https://open.spotify.com/album/3GudEZtWF1vRHf1AM0hH9C"
       },
       "artists": [
         {
-          "name": "Billy Ballenger",
-          "url": "https://open.spotify.com/artist/3MWi1gukTtaCmUQyvjSmIN"
+          "name": "Chelsea",
+          "url": "https://open.spotify.com/artist/68rhcOBBEa3q3lKZbOAd18"
         }
       ],
-      "duration_ms": 223399,
-      "name": "Close To You",
-      "url": "https://open.spotify.com/track/1BekaQxRu7onRBnQ6PADyw"
+      "duration_ms": 204050,
+      "name": "How Can I Be Silent",
+      "url": "https://open.spotify.com/track/7IgnVHqxDysutaj7txWS9U"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -1547,6 +1531,22 @@
       "duration_ms": 293067,
       "name": "All Things New",
       "url": "https://open.spotify.com/track/48o0RHEBz13nEEAd7wE4Bk"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "Close To You",
+        "url": "https://open.spotify.com/album/7flhQQ1ZSd3SbvIr6fgF7J"
+      },
+      "artists": [
+        {
+          "name": "Billy Ballenger",
+          "url": "https://open.spotify.com/artist/3MWi1gukTtaCmUQyvjSmIN"
+        }
+      ],
+      "duration_ms": 223399,
+      "name": "Close To You",
+      "url": "https://open.spotify.com/track/1BekaQxRu7onRBnQ6PADyw"
     },
     {
       "added_at": "2022-05-27 18:07:44",

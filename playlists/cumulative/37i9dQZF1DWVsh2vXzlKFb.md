@@ -4,7 +4,7 @@
 
 > Indie tunes for t\-shirt weather.
 
-277 songs - 15 hr 46 min - [published](https://open.spotify.com/playlist/6Y4ymtVT29RGI1Pm3fIQpf)
+278 songs - 15 hr 48 min - [published](https://open.spotify.com/playlist/6Y4ymtVT29RGI1Pm3fIQpf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [Say Hello](https://open.spotify.com/track/3mW60TGPwzkLxCTqK0grhR) | [Gym and Swim](https://open.spotify.com/artist/03vGezkHp9TYoKOtxZlUj4) | [Say Hello](https://open.spotify.com/album/5uSHHBZufgqaqrs3jYfcxr) | 3:43 | 2022-03-24 | 2022-04-21 |
 | [seaside\_demo](https://open.spotify.com/track/1SgUjGzbmmMOsGFTVwQ59L) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [seaside\_demo](https://open.spotify.com/album/5azRQ4hk4TEVhQWXEgE2WT) | 2:12 | 2022-07-14 | 2022-09-11 |
 | [seaside\_demo](https://open.spotify.com/track/73M0rMVx5CWE8M4uATSsto) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [seaside\_demo](https://open.spotify.com/album/4FzvipXCsh9Ho8aujaOkLs) | 2:12 | 2021-08-13 | 2022-04-21 |
+| [seaside\_demo](https://open.spotify.com/track/7K3tHDY5uelNUy9DgLIFiq) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [seaside\_demo](https://open.spotify.com/album/0w0OXF5QUd40ePrP9kwPSo) | 2:12 | 2022-08-25 |  |
 | [Selfless](https://open.spotify.com/track/2t0wwvR15fc3K1ey8OiOaN) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [The New Abnormal](https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN) | 3:42 | 2022-05-06 |  |
 | [Sending Me Ur Loving](https://open.spotify.com/track/1QwhWld3yDy65MJCeBelCp) | [The Jungle Giants](https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt) | [Sending Me Ur Loving](https://open.spotify.com/album/4JUcT1r5eSr0B8jhuibVJ1) | 4:13 | 2021-08-13 |  |
 | [Seventeen Going Under \- Edit](https://open.spotify.com/track/4z86ZEcMLofosRyJMqBkIz) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under](https://open.spotify.com/album/4RS1iWb2MC9o21z3t8zxl4) | 3:57 | 2022-03-24 |  |
@@ -279,7 +280,7 @@
 | [Yellow](https://open.spotify.com/track/0Yba22WJ5zZzqEsVmd6Tsj) | [IAN SWEET](https://open.spotify.com/artist/6mrOjLZyPub9LcecUarcMD) | [Yellow](https://open.spotify.com/album/6aN0WKP0ZmunveF6tsYr4d) | 3:40 | 2022-03-24 | 2022-07-29 |
 | [You Cut Me So Much Slack](https://open.spotify.com/track/2yiBjroE3lmV0Q4tvYgckn) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [You Cut Me So Much Slack](https://open.spotify.com/album/7uyDwYtAhMzboR7YlgCSLJ) | 2:59 | 2021-08-13 | 2022-05-07 |
 | [You Lose!](https://open.spotify.com/track/0tP8FKhJsar5y4JcOH4Rjp) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Mercurial World](https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY) | 3:24 | 2022-03-24 | 2022-04-22 |
-| [You Stupid Bitch](https://open.spotify.com/track/7Jqyl2feOikHqdCOaY9uzF) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [You Stupid Bitch](https://open.spotify.com/album/4oBhZqwpWAUsKobnZ9zb9W) | 3:15 | 2021-08-13 |  |
+| [You Stupid Bitch](https://open.spotify.com/track/7Jqyl2feOikHqdCOaY9uzF) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [You Stupid Bitch](https://open.spotify.com/album/4oBhZqwpWAUsKobnZ9zb9W) | 3:15 | 2021-08-13 | 2022-09-19 |
 | [You're The One](https://open.spotify.com/track/6IHoEueFxNV9wsdzdh6uzH) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [You're The One](https://open.spotify.com/album/6C2fT99FyDNI7nXMzNJzha) | 3:19 | 2021-08-13 | 2022-07-20 |
 | [Young Forever](https://open.spotify.com/track/1m9BaQlbJBW02RF9jR00tX) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [Young Forever](https://open.spotify.com/album/1EAnB5KJlF0OEos4z0YDNj) | 3:30 | 2021-08-13 | 2022-07-28 |
 | [Your Girlfriend](https://open.spotify.com/track/3tzU46wNOVaFiYRNtNYY66) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Foolish Loving Spaces \(Deluxe Edition\)](https://open.spotify.com/album/0yMTm5gz3ZoUItDgE2kVru) | 2:41 | 2021-08-13 |  |

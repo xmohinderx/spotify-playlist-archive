@@ -1,12 +1,12 @@
 {
   "description": "Aquela playlist pra ficar no quentin, gostosin.",
-  "num_followers": 81007,
+  "num_followers": 81054,
   "original_name": "dengo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5MjQ2MCwwMDAwMDAwMDc3NmMzMzExZDNmM2JhZTg2NzYzN2E2ZDFiMGQ1ODFm",
+  "snapshot_id": "MTY2MjY5MjQ2MCwwMDAwMDAwMGNkMGU1ZjBhYjdmZGU0YWFkZjg0ZTc5NjYyOWYzODdl",
   "tracks": [
     {
       "added_at": "2022-09-09 03:01:00",
@@ -243,18 +243,26 @@
     {
       "added_at": "2022-09-09 03:01:00",
       "album": {
-        "name": "Say Yea",
-        "url": "https://open.spotify.com/album/7LRIPWJaK4kQfrfD94zTzS"
+        "name": "LEGEND",
+        "url": "https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT"
       },
       "artists": [
         {
-          "name": "Jacquees",
-          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 205621,
-      "name": "Say Yea",
-      "url": "https://open.spotify.com/track/72kAhVS63uHIQV7drmjjHZ"
+      "duration_ms": 234498,
+      "name": "Splash (feat. Jhen\u00e9 Aiko & Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/5Ip2VxpYt1dCD7MKmjrw52"
     },
     {
       "added_at": "2022-09-09 03:01:00",
@@ -271,6 +279,22 @@
       "duration_ms": 244412,
       "name": "Hoodie",
       "url": "https://open.spotify.com/track/4WQquFaW7w5ddLqjgwUizy"
+    },
+    {
+      "added_at": "2022-09-09 03:01:00",
+      "album": {
+        "name": "Say Yea",
+        "url": "https://open.spotify.com/album/7LRIPWJaK4kQfrfD94zTzS"
+      },
+      "artists": [
+        {
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+        }
+      ],
+      "duration_ms": 205621,
+      "name": "Say Yea",
+      "url": "https://open.spotify.com/track/72kAhVS63uHIQV7drmjjHZ"
     },
     {
       "added_at": "2022-09-09 03:01:00",
@@ -311,30 +335,6 @@
     {
       "added_at": "2022-09-09 03:01:00",
       "album": {
-        "name": "LEGEND",
-        "url": "https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        },
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 234498,
-      "name": "Splash (feat. Jhen\u00e9 Aiko & Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/5Ip2VxpYt1dCD7MKmjrw52"
-    },
-    {
-      "added_at": "2022-09-09 03:01:00",
-      "album": {
         "name": "TEMPORARY HIGHS IN THE VIOLET SKIES",
         "url": "https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3"
       },
@@ -347,22 +347,6 @@
       "duration_ms": 204133,
       "name": "DYING 4 YOUR LOVE",
       "url": "https://open.spotify.com/track/1Yx1TbWg1zbl6gQ3SCOFCN"
-    },
-    {
-      "added_at": "2022-09-09 03:01:00",
-      "album": {
-        "name": "Public Displays Of Affection Too",
-        "url": "https://open.spotify.com/album/27jeucZeZB1BDcFtIbNY5b"
-      },
-      "artists": [
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 196641,
-      "name": "Cartier",
-      "url": "https://open.spotify.com/track/1A07u1T45HV84tT33UpVSB"
     },
     {
       "added_at": "2022-09-09 03:01:00",
@@ -383,6 +367,22 @@
       "duration_ms": 205000,
       "name": "On It",
       "url": "https://open.spotify.com/track/4Xr6BbSSu5HhImp8vfxMbg"
+    },
+    {
+      "added_at": "2022-09-09 03:01:00",
+      "album": {
+        "name": "Public Displays Of Affection Too",
+        "url": "https://open.spotify.com/album/27jeucZeZB1BDcFtIbNY5b"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 196641,
+      "name": "Cartier",
+      "url": "https://open.spotify.com/track/1A07u1T45HV84tT33UpVSB"
     },
     {
       "added_at": "2022-09-09 03:01:00",
@@ -455,18 +455,18 @@
     {
       "added_at": "2022-09-09 03:01:00",
       "album": {
-        "name": "Letter To Ur Ex",
-        "url": "https://open.spotify.com/album/4IHthCcvRUuVuKtlclVSBY"
+        "name": "Exit",
+        "url": "https://open.spotify.com/album/7go9k6n1fCuixMOOpW3gej"
       },
       "artists": [
         {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+          "name": "Sebastian Mikael",
+          "url": "https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf"
         }
       ],
-      "duration_ms": 134279,
-      "name": "Letter To Ur N(ex)t",
-      "url": "https://open.spotify.com/track/4LjOVLoj6OrrNJktFTYPGK"
+      "duration_ms": 196673,
+      "name": "Exit",
+      "url": "https://open.spotify.com/track/7z6VTwkfEhX25WWy1xC75O"
     },
     {
       "added_at": "2022-09-09 03:01:00",
@@ -487,34 +487,18 @@
     {
       "added_at": "2022-09-09 03:01:00",
       "album": {
-        "name": "Exit",
-        "url": "https://open.spotify.com/album/7go9k6n1fCuixMOOpW3gej"
+        "name": "Letter To Ur Ex",
+        "url": "https://open.spotify.com/album/4IHthCcvRUuVuKtlclVSBY"
       },
       "artists": [
         {
-          "name": "Sebastian Mikael",
-          "url": "https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf"
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
         }
       ],
-      "duration_ms": 196673,
-      "name": "Exit",
-      "url": "https://open.spotify.com/track/7z6VTwkfEhX25WWy1xC75O"
-    },
-    {
-      "added_at": "2022-09-09 03:01:00",
-      "album": {
-        "name": "Reality Show",
-        "url": "https://open.spotify.com/album/682dnvSPZ6lwCNodfMVcbh"
-      },
-      "artists": [
-        {
-          "name": "Jazmine Sullivan",
-          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
-        }
-      ],
-      "duration_ms": 223093,
-      "name": "Let It Burn",
-      "url": "https://open.spotify.com/track/6KOc6ViZB8NtfCVABmTe66"
+      "duration_ms": 134279,
+      "name": "Letter To Ur N(ex)t",
+      "url": "https://open.spotify.com/track/4LjOVLoj6OrrNJktFTYPGK"
     },
     {
       "added_at": "2022-09-09 03:01:00",
@@ -531,6 +515,22 @@
       "duration_ms": 153226,
       "name": "Pain",
       "url": "https://open.spotify.com/track/51Q4Pn44Ys7D8GCNzVLDmg"
+    },
+    {
+      "added_at": "2022-09-09 03:01:00",
+      "album": {
+        "name": "Reality Show",
+        "url": "https://open.spotify.com/album/682dnvSPZ6lwCNodfMVcbh"
+      },
+      "artists": [
+        {
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+        }
+      ],
+      "duration_ms": 223093,
+      "name": "Let It Burn",
+      "url": "https://open.spotify.com/track/6KOc6ViZB8NtfCVABmTe66"
     },
     {
       "added_at": "2022-09-09 03:01:00",
@@ -959,6 +959,22 @@
     {
       "added_at": "2022-09-09 03:01:00",
       "album": {
+        "name": "But You Caint Use My Phone (Mixtape)",
+        "url": "https://open.spotify.com/album/2gc9WOWqVRrGUENUjozcpY"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 310809,
+      "name": "What\u2019s Yo Phone Number / Telephone - Medley / Ghost Of Screw Mix",
+      "url": "https://open.spotify.com/track/2H8ux8QVRgerQltl8Hr5oM"
+    },
+    {
+      "added_at": "2022-09-09 03:01:00",
+      "album": {
         "name": "Love and Be Loved",
         "url": "https://open.spotify.com/album/1JdumfPmZjNT9Efr35Wc7a"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 207203,
       "name": "Love and Be Loved",
       "url": "https://open.spotify.com/track/48Zho9HnU486cLIOYegCBI"
-    },
-    {
-      "added_at": "2022-09-09 03:01:00",
-      "album": {
-        "name": "But You Caint Use My Phone (Mixtape)",
-        "url": "https://open.spotify.com/album/2gc9WOWqVRrGUENUjozcpY"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 310809,
-      "name": "What\u2019s Yo Phone Number / Telephone - Medley / Ghost Of Screw Mix",
-      "url": "https://open.spotify.com/track/2H8ux8QVRgerQltl8Hr5oM"
     },
     {
       "added_at": "2022-09-09 03:01:00",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2022-09-09 03:01:00",
       "album": {
+        "name": "Ology",
+        "url": "https://open.spotify.com/album/4VZh7EI0gjL2FkLWNBVIWf"
+      },
+      "artists": [
+        {
+          "name": "Gallant",
+          "url": "https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM"
+        }
+      ],
+      "duration_ms": 221960,
+      "name": "Bone + Tissue",
+      "url": "https://open.spotify.com/track/1THUV2tiTLxNNbJwC8m4pE"
+    },
+    {
+      "added_at": "2022-09-09 03:01:00",
+      "album": {
         "name": "Nu Beginning",
         "url": "https://open.spotify.com/album/3TJ8K56Zo9QRiUH3F39XXO"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 234943,
       "name": "Nu Beginning",
       "url": "https://open.spotify.com/track/0y02zQ9NMivG2bJvhYshY4"
-    },
-    {
-      "added_at": "2022-09-09 03:01:00",
-      "album": {
-        "name": "Ology",
-        "url": "https://open.spotify.com/album/4VZh7EI0gjL2FkLWNBVIWf"
-      },
-      "artists": [
-        {
-          "name": "Gallant",
-          "url": "https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM"
-        }
-      ],
-      "duration_ms": 221960,
-      "name": "Bone + Tissue",
-      "url": "https://open.spotify.com/track/1THUV2tiTLxNNbJwC8m4pE"
     },
     {
       "added_at": "2022-09-09 03:01:00",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2022-09-09 03:01:00",
       "album": {
-        "name": "Body Music (Deluxe)",
-        "url": "https://open.spotify.com/album/3eSysZ5EvnyWZ2naPABIdd"
-      },
-      "artists": [
-        {
-          "name": "AlunaGeorge",
-          "url": "https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38"
-        }
-      ],
-      "duration_ms": 277173,
-      "name": "Friends To Lovers",
-      "url": "https://open.spotify.com/track/2sROAaC8BMV13cn31OLdpF"
-    },
-    {
-      "added_at": "2022-09-09 03:01:00",
-      "album": {
         "name": "Neptune",
         "url": "https://open.spotify.com/album/7lWaBLQgjjq9m0NM18DAgA"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 183373,
       "name": "Comeback.",
       "url": "https://open.spotify.com/track/3rfw4ft9rlXbbQzqRJIaYV"
+    },
+    {
+      "added_at": "2022-09-09 03:01:00",
+      "album": {
+        "name": "Body Music (Deluxe)",
+        "url": "https://open.spotify.com/album/3eSysZ5EvnyWZ2naPABIdd"
+      },
+      "artists": [
+        {
+          "name": "AlunaGeorge",
+          "url": "https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38"
+        }
+      ],
+      "duration_ms": 277173,
+      "name": "Friends To Lovers",
+      "url": "https://open.spotify.com/track/2sROAaC8BMV13cn31OLdpF"
     },
     {
       "added_at": "2022-09-09 03:01:00",

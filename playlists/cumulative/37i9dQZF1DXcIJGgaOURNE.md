@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:7A0awCXkE1FtSU8B0qwOJQ"> Jamie xx</a>'s favorite tracks\. Updated regularly\. Curated by Jamie xx\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-72 songs - 6 hr 2 min - not published yet
+72 songs - 6 hr 2 min - [published](https://open.spotify.com/playlist/5TTbBHGFjJRX445BkgEwaI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3qxnY549ZIMw4QeJsOC3T6">Stephen Wrabel</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161 likes - 114 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 162 likes - 114 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 | 36 | [Too Close \(with Wrabel\)](https://open.spotify.com/track/2B5uUYyiDpFCgEGdbVpOZj) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Too Close \(with Wrabel\)](https://open.spotify.com/album/1rWqOpBKbCoxUvirPmBKXg) | 3:28 |
 | 37 | [Flowers & Superpowers](https://open.spotify.com/track/0qTeYzqoW8qHv4ioYM66XD) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [Flowers & Superpowers](https://open.spotify.com/album/1rnWboK5R8laTbVmA9tV3o) | 2:45 |
 | 38 | [nothing but the love](https://open.spotify.com/track/6nUwq6jL9AiwzsRDxI0AkN) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [these words are all for you](https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS) | 3:04 |
-| 39 | [You Know It's About You](https://open.spotify.com/track/0SsRtjLUlAPmUBOWChl1n6) | [Magical Thinker](https://open.spotify.com/artist/6gPHdKkaoP152zp04WDdq1), [Stephen Wrabel](https://open.spotify.com/artist/6M3KVfVHZ3Bn7WSNUvETSO) | [Ballerina \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7uK7lryagOhgixWruMVfu1) | 3:43 |
-| 40 | [All That Really Matters](https://open.spotify.com/track/5zviMoAeuerK1Rd58qXASv) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [All That Really Matters](https://open.spotify.com/album/2OW7PzcHkPrB2fY0fLvx4Q) | 4:04 |
+| 39 | [All That Really Matters](https://open.spotify.com/track/5zviMoAeuerK1Rd58qXASv) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [All That Really Matters](https://open.spotify.com/album/2OW7PzcHkPrB2fY0fLvx4Q) | 4:04 |
+| 40 | [You Know It's About You](https://open.spotify.com/track/0SsRtjLUlAPmUBOWChl1n6) | [Magical Thinker](https://open.spotify.com/artist/6gPHdKkaoP152zp04WDdq1), [Stephen Wrabel](https://open.spotify.com/artist/6M3KVfVHZ3Bn7WSNUvETSO) | [Ballerina \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7uK7lryagOhgixWruMVfu1) | 3:43 |
 | 41 | [london](https://open.spotify.com/track/4mmtgoBJCUA8l8uDRJlnro) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII), [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [these words are all for you too](https://open.spotify.com/album/1OZvSGYMq3CixeCjZH9m4M) | 4:26 |
 | 42 | [GIRL ON TV](https://open.spotify.com/track/2EPLg9fa4HKsBzuVR5Hwhn) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Blood Bunny](https://open.spotify.com/album/1nXTxXK5WyXz7cLYYVPhKA) | 3:12 |
 | 43 | [Fantasy](https://open.spotify.com/track/0uKrDNElljLIvrrSb7zVRu) | [JBJ](https://open.spotify.com/artist/6VJXRJvRRyLv99RZbXJ8RO) | [NEW MOON](https://open.spotify.com/album/3c1qg7O88Wc5wDDJ1YEUzV) | 3:22 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 | 76 | [good](https://open.spotify.com/track/6kuR6cGKmGoplhELslv6Fw) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [these words are all for you](https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS) | 3:28 |
 | 77 | [this christmas](https://open.spotify.com/track/0jWIUiQMQgrKVjkPEaRjK0) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [merry christmas, merry christmas to you](https://open.spotify.com/album/7FM5R7EVnunwOE5r9fb5r5) | 3:16 |
 | 78 | [Oh Love](https://open.spotify.com/track/0xsn9P9Z93H3uLRs8r1IAl) | [Parson James](https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII), [VINCINT](https://open.spotify.com/artist/6glcVV5wCi1hU4nxqJItqd) | [Oh Love](https://open.spotify.com/album/1itQ8XH3mTPrDcT3QC7iLX) | 3:35 |
-| 79 | [somebody new](https://open.spotify.com/track/7fM2tdbh4T93yWA3PBs2gu) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [piano](https://open.spotify.com/album/3sREfRBbHTPm8JRbdeLqJA) | 3:27 |
-| 80 | [sammy](https://open.spotify.com/track/2lGeTlcg6BwUd0N4fb6qhL) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [sammy](https://open.spotify.com/album/0CXtcpl8TyuqUVNxHhTQ65) | 2:43 |
+| 79 | [sammy](https://open.spotify.com/track/2lGeTlcg6BwUd0N4fb6qhL) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [sammy](https://open.spotify.com/album/0CXtcpl8TyuqUVNxHhTQ65) | 2:43 |
+| 80 | [somebody new](https://open.spotify.com/track/7fM2tdbh4T93yWA3PBs2gu) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [piano](https://open.spotify.com/album/3sREfRBbHTPm8JRbdeLqJA) | 3:27 |
 | 81 | [flying](https://open.spotify.com/track/0SuGgZ07vhLT3ebUb4kQ2q) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [one of those happy people](https://open.spotify.com/album/6j74wKqXdvgPYi5igx6w3h) | 3:27 |
 | 82 | [Vanilla Sky \(with Wrabel\)](https://open.spotify.com/track/7x9BbeXnB9ehDjit1EVzwj) | [Win and Woo](https://open.spotify.com/artist/2KPQ6PYAZapLEwMmkzbQxC), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Ten Years](https://open.spotify.com/album/6SsTlYzPQEcEXs3wB324sD) | 3:00 |
 | 83 | [Kid Again On Christmas](https://open.spotify.com/track/6xOZ67H31FwSejzrGnHPEB) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [A Tori Kelly Christmas \(Deluxe\)](https://open.spotify.com/album/5rUtKnfNHc77VrCwCjLA9K) | 3:04 |
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 | 113 | [Mean It](https://open.spotify.com/track/4XW0JyO4DKjyxAFJhNDbps) | [Dustin Domingo](https://open.spotify.com/artist/78bcX1rKaNUMVYutJ5Kq4L) | [Mean It](https://open.spotify.com/album/5dCqM12gg8X650WYNZcbuu) | 3:22 |
 | 114 | [Here Comes the Change](https://open.spotify.com/track/6mrrZi2rUwPhnVLWO7PtO5) | [JukeVox LibrAries](https://open.spotify.com/artist/3XCz6vtF1dsjFpVluDCFRm) | [Waiting For You](https://open.spotify.com/album/2dRmJE9oRpnCpy2eKk9q07) | 4:45 |
 
-Snapshot ID: `Mjc3MjQzOTgsMDAwMDAwMDAwNTdjMzA3OTFmYjQxZjg4OGI2YzQxNGRkOGVkYmU1ZQ==`
+Snapshot ID: `Mjc3MjU4MzgsMDAwMDAwMDA5YWM0MjRjOTVjNDI0ZjQ3ZDFkZDczNGY1MzE1NjU1MA==`

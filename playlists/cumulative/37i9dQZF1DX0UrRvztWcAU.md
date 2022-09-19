@@ -4,7 +4,7 @@
 
 > Set the mood of your day with these happy songs.
 
-401 songs - 22 hr 38 min - [published](https://open.spotify.com/playlist/7ews4wFqqHSGVIJAMBJ3GY)
+402 songs - 22 hr 41 min - [published](https://open.spotify.com/playlist/7ews4wFqqHSGVIJAMBJ3GY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Canyon Moon](https://open.spotify.com/track/5IhzJOXNE7ki0IIJbZbnGq) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 3:09 | 2022-06-24 |  |
 | [Carried Away](https://open.spotify.com/track/3TOfWEQ9kpGBaT7o2GtI1X) | [Denny White](https://open.spotify.com/artist/0RuDUIQCXhrbLcsegLwp2Q) | [Carried Away](https://open.spotify.com/album/5mabbKLRmRaTBT4Zbp0Z1e) | 3:29 | 2022-03-15 | 2022-04-20 |
 | [Carry On \(from the Original Motion Picture "POKÉMON Detective Pikachu"\)](https://open.spotify.com/track/3y3brCCecHC3Db18aIOnny) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Carry On \(from the Original Motion Picture "POKÉMON Detective Pikachu"\)](https://open.spotify.com/album/1Z7WbPmn7QFoJ2DrNfEehz) | 3:35 | 2021-12-16 |  |
-| [Castle on the Hill](https://open.spotify.com/track/66qlqxhEMpSHOzjRK4il0b) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Castle on the Hill](https://open.spotify.com/album/5YnGwVQx2OQ4CpcQeVDthP) | 4:21 | 2022-04-11 |  |
+| [Castle on the Hill](https://open.spotify.com/track/66qlqxhEMpSHOzjRK4il0b) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Castle on the Hill](https://open.spotify.com/album/5YnGwVQx2OQ4CpcQeVDthP) | 4:21 | 2022-04-11 | 2022-09-19 |
 | [Change My Heart](https://open.spotify.com/track/34m69Q5xrI67xUM8MHFWeK) | [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv), [Laurell](https://open.spotify.com/artist/69Pm1OWlxk1tbYphlkcKHR) | [Change My Heart](https://open.spotify.com/album/3icZDDJvzhkQ3S4lGAcwuh) | 3:06 | 2022-03-15 | 2022-04-21 |
 | [Changes](https://open.spotify.com/track/0auKqMQXBTQ80h034wcsOA) | [Mike Perry](https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c), [Dimitri Vangelis & Wyman](https://open.spotify.com/artist/10hGPIDZi33LRaYRIq3Bh4), [TEN TIMES](https://open.spotify.com/artist/3NccRg2H1XTSVekaTZZ3Xd), [The Companions](https://open.spotify.com/artist/3zdcGIxMZCtOpFDPuP5rmM) | [Changes](https://open.spotify.com/album/0lqHv9rTm0QfSzMtflyh9b) | 2:22 | 2021-12-16 | 2022-07-29 |
 | [Changes](https://open.spotify.com/track/5FQEeo3o0tPNxrsQPcmwlX) | [Mike Perry](https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c), [Dimitri Vangelis & Wyman](https://open.spotify.com/artist/10hGPIDZi33LRaYRIq3Bh4), [TEN TIMES](https://open.spotify.com/artist/3NccRg2H1XTSVekaTZZ3Xd), [The Companions](https://open.spotify.com/artist/3zdcGIxMZCtOpFDPuP5rmM) | [Changes](https://open.spotify.com/album/4aMTPu5UxcRpH0DGxPvxHj) | 2:22 | 2022-07-08 |  |
@@ -335,6 +335,7 @@
 | [Teenage Dream](https://open.spotify.com/track/235LXPXfi0SmOaS9TaCh3c) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/06SY6Ke6mXzZHhURLVU57R) | 3:47 | 2022-06-10 | 2022-07-29 |
 | [Teenage Dream](https://open.spotify.com/track/5jzKL4BDMClWqRguW5qZvh) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:47 | 2022-07-08 |  |
 | [Teenage Minds](https://open.spotify.com/track/5LVCtUQQOr1JmwdUufLaw7) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X) | [Teenage Minds](https://open.spotify.com/album/4X6gaQiQP0eSl6Qe3PzjA0) | 3:07 | 2021-12-16 | 2022-07-17 |
+| [Telepath](https://open.spotify.com/track/3Z39gbqdaGL3WJXBG0gcuE) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Telepath](https://open.spotify.com/album/6npBFQje5ZenFSLErcNflE) | 3:14 | 2022-09-18 |  |
 | [Tell Her About It](https://open.spotify.com/track/6kCJMxv445L2okuTiou1fR) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [An Innocent Man](https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc) | 3:49 | 2021-12-16 |  |
 | [Tell Me](https://open.spotify.com/track/2i16GU60FIhw9k5Wix4TMB) | [Stefan Tosovic](https://open.spotify.com/artist/1B0dXhcaPbzMP40bQQlqpW), [Cecilie Toth](https://open.spotify.com/artist/6DVD0hbEmINkFbAQ7o7DAB) | [Tell Me](https://open.spotify.com/album/3eoprEltYkcCuvWD9EIBfo) | 3:09 | 2022-02-22 | 2022-07-29 |
 | [That Don't Impress Me Much](https://open.spotify.com/track/4FUfoWMypAyWbOavmYyeNu) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:38 | 2022-07-08 |  |

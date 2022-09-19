@@ -4,7 +4,7 @@
 
 > This is Dinosaur Pile\-Up\. The essential tracks, all in one playlist.
 
-29 songs - 1 hr 42 min - not published yet
+29 songs - 1 hr 42 min - [published](https://open.spotify.com/playlist/5PgQ729HGWbu6zIVGiTFuJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

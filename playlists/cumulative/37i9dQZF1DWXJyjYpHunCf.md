@@ -4,7 +4,7 @@
 
 > The best of folk\-infused pop and singer\-songwriter\. Cover: Stephen Sanchez
 
-225 songs - 13 hr 5 min - [published](https://open.spotify.com/playlist/4CdXUQqY69Nj0IMKyxyk64)
+226 songs - 13 hr 8 min - [published](https://open.spotify.com/playlist/4CdXUQqY69Nj0IMKyxyk64)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Do Right](https://open.spotify.com/track/5PeW97MvpM487CWIfFK3jK) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Do Right](https://open.spotify.com/album/2QTporW2vxTqOZUT8GL4ly) | 3:33 | 2021-11-12 | 2022-07-29 |
 | [Don't Be a Stranger \(feat\. Cam\) \- Acoustic Version](https://open.spotify.com/track/7jXAuEBIcb3nqRewoSzdxo) | [Ward Thomas](https://open.spotify.com/artist/0xBhUB0EfzvchYnaIWkdBw), [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Don't Be a Stranger \(feat\. Cam\) \[Acoustic Version\]](https://open.spotify.com/album/2TYrhUq7pwAXq41k1wl2zU) | 3:21 | 2021-11-12 | 2022-07-29 |
 | [Don't Say](https://open.spotify.com/track/2kCQe2koRNHNdOtOxyKhaO) | [LULLANAS](https://open.spotify.com/artist/3b8jXMWK6VSV8FlQ4hbVkd) | [Don't Say](https://open.spotify.com/album/5H8Bt6wNnU0DvxVybUQI5k) | 3:21 | 2021-11-12 | 2022-07-29 |
+| [Don't Say](https://open.spotify.com/track/41bZyIzMjq7wx5JxJbc0Dl) | [LULLANAS](https://open.spotify.com/artist/3b8jXMWK6VSV8FlQ4hbVkd) | [Don't Say](https://open.spotify.com/album/5zjEdsCxqIh5e3q3yPSbl3) | 3:24 | 2022-08-19 |  |
 | [Dreamer](https://open.spotify.com/track/3Q8paSvq4CgMeIcIqu9Dlo) | [Beau](https://open.spotify.com/artist/2Mm2NXLhda25RQLyaZyUJU) | [Dreamer](https://open.spotify.com/album/2ZoHkOe9n2Ix14B3jwo4KR) | 3:26 | 2022-02-21 | 2022-07-15 |
 | [Dried Up River](https://open.spotify.com/track/6saTpYJv62gbFeRgC7VF82) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Dried Up River](https://open.spotify.com/album/5QveyiS7sznogAxujItLjZ) | 3:51 | 2021-11-12 | 2022-07-29 |
 | [Easy, Love](https://open.spotify.com/track/6m2cCJT4K54P5nLfRLyJud) | [Tom West](https://open.spotify.com/artist/4IszB4IvfBur47pa0bm1sr) | [Oncoming Clouds](https://open.spotify.com/album/6G9nFGCkm389KVfnwRBWux) | 3:27 | 2021-11-12 | 2022-07-24 |
@@ -178,7 +179,7 @@
 | [Someone Like You \(feat\. Joy Oladokun\)](https://open.spotify.com/track/0hiHNxqKGf3GZgVTIOAiiK) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [I Was / I Am](https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG) | 3:06 | 2021-11-12 |  |
 | [sorry isn't good enough](https://open.spotify.com/track/52EPUO8FCJKXrvH6oPs4Nz) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [sorry isn't good enough](https://open.spotify.com/album/4ND9o4X7nbwLjNGyAtslXE) | 3:07 | 2022-03-12 | 2022-06-02 |
 | [SOS](https://open.spotify.com/track/3V5QxoA51KkR3yxqXsHe87) | [Johnny Ashby](https://open.spotify.com/artist/4uTY1XVLYtGJlmq7loPjQr) | [In Bloom](https://open.spotify.com/album/4gGxjw21cCWRLqTtDVlG95) | 3:18 | 2021-11-12 | 2021-12-31 |
-| [Spiders](https://open.spotify.com/track/75LW3ygJkAOnHLRW6okBSN) | [Run River North](https://open.spotify.com/artist/0INDB6Snts5NDbzh8jC3lk) | [Spiders](https://open.spotify.com/album/2GJEykJCMASS4ffX4ObWuJ) | 3:18 | 2021-11-12 |  |
+| [Spiders](https://open.spotify.com/track/75LW3ygJkAOnHLRW6okBSN) | [Run River North](https://open.spotify.com/artist/0INDB6Snts5NDbzh8jC3lk) | [Spiders](https://open.spotify.com/album/2GJEykJCMASS4ffX4ObWuJ) | 3:18 | 2021-11-12 | 2022-09-19 |
 | [Steady My Bones](https://open.spotify.com/track/4POCRz9y99h0byT7T3LDYd) | [Winterbourne](https://open.spotify.com/artist/6ADN6CbxZ0IdI5Btdem7ty) | [All But The Sun](https://open.spotify.com/album/59eAStsno6TrLM8Zwc18Eb) | 4:26 | 2022-03-12 |  |
 | [Steady My Bones](https://open.spotify.com/track/4asocwUbrFvs7ZLuDFuC2q) | [Winterbourne](https://open.spotify.com/artist/6ADN6CbxZ0IdI5Btdem7ty) | [All But The Sun](https://open.spotify.com/album/0smhFaTHoGiW5YrCggomEm) | 4:26 | 2021-11-12 | 2022-07-27 |
 | [Stick Season](https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju) | 3:02 | 2022-08-19 |  |

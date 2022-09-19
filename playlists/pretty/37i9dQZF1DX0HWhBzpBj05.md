@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0HWhBzpBj05.md) - [plain]
 
 > Spread some cheer with this list of new and old seasonal favorites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,354 likes - 77 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,341 likes - 77 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0HWhBzpBj05.md) - [plain]
 | 51 | [Merry Christmas Darling \- Single Version](https://open.spotify.com/track/6W65jVdn0JtttcvFN1KppC) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [The Essential Collection \(1965\-1997\)](https://open.spotify.com/album/4neiBTHUC0mgKE3Soz0QqK) | 3:05 |
 | 52 | [It May Be Winter Outside](https://open.spotify.com/track/6lD9SwYTdBbaIKhmZhPBJD) | [Steps](https://open.spotify.com/artist/17UkABEasVRlCcIFZ3wHb7) | [Light up the World](https://open.spotify.com/album/7KstBZj4EGlywQzCrgKdFL) | 3:05 |
 | 53 | [\(There's No Place Like\) Home for the Holidays \- 1959 Version](https://open.spotify.com/track/2GapxG7BxK55ihQRAlR39e) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [A Perry Como Christmas](https://open.spotify.com/album/6kwOEj6diw9tUSbhgIVeBP) | 2:58 |
-| 54 | [O Tannenbaum](https://open.spotify.com/track/34rzJNfTd5e9s3TICFMPD0) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \[2012 Remastered & Expanded Edition\]](https://open.spotify.com/album/7DuJYWu66RPdcekF5TuZ7w) | 5:09 |
+| 54 | [O Tannenbaum](https://open.spotify.com/track/4YhY2qHdBmSX33uj8ms0oq) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \[2012 Remastered & Expanded Edition\]](https://open.spotify.com/album/2XnNY3GEkbWHor5kyvXLu4) | 5:09 |
 | 55 | [O Holy Night](https://open.spotify.com/track/6wCg6AcRdhQCwD0bh0F8zb) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Christmas, With Love](https://open.spotify.com/album/4HRXnpdnLJGTkHSRk4roEs) | 2:53 |
 | 56 | [Wonderful Christmastime \- Edited Version / Remastered 2011](https://open.spotify.com/track/1SV1fxF65n9NhRHp3KlBuu) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney II \(Special Edition\)](https://open.spotify.com/album/48rypPDKdKiusMXKaYcEGV) | 3:47 |
 | 57 | [Merry Christmas, Happy Holidays](https://open.spotify.com/track/4v9WbaxW8HdjqfUiWYWsII) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [Home For Christmas](https://open.spotify.com/album/6uIB97CqMcssTss9WrtX8c) | 4:15 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0HWhBzpBj05.md) - [plain]
 | 76 | [We Wish You A Merry Christmas](https://open.spotify.com/track/73pcHkUzQTD3IqYrHfqUf8) | [Jim Brickman](https://open.spotify.com/artist/2NzWRNaaLByHyI3wpuec8P) | [Christmas Romance](https://open.spotify.com/album/5iSA8cwqAeL2Ep7RcnT62N) | 3:49 |
 | 77 | [Happy New Year](https://open.spotify.com/track/4AsvGVDWs16fqIiIdDzyvX) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Super Trouper](https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf) | 4:23 |
 
-Snapshot ID: `MTYzOTk1ODk5OCwwMDAwMDAwMGFkNWJhZWVkMTFkMDZmMmQ2MDIzZGRiY2VjZTU2NGRi`
+Snapshot ID: `MTYzOTk1ODk5OCwwMDAwMDAwMGJjMjQyZTZmMzQ4MjQ0MjYxM2ViNjIyOGNjYmM0ZWVj`

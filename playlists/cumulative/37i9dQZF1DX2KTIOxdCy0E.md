@@ -4,7 +4,7 @@
 
 > I'll do yours if you do mine...The official playlist for Do Revenge, out now on Netflix.
 
-28 songs - 1 hr 31 min - not published yet
+28 songs - 1 hr 31 min - [published](https://open.spotify.com/playlist/410OJQpYXzSANO7yWQawfF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

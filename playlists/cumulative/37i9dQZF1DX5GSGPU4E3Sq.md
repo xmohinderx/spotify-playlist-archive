@@ -4,7 +4,7 @@
 
 > Piérdete en el misterio del bosque y sus poderes sanadores.
 
-255 songs - 14 hr 30 min - [published](https://open.spotify.com/playlist/242qd1QUw3B0ykfcQKOcL5)
+256 songs - 14 hr 33 min - [published](https://open.spotify.com/playlist/242qd1QUw3B0ykfcQKOcL5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [Mellow](https://open.spotify.com/track/15SJMsBLp7GR8FH9WvamuG) | [Boreal Embla](https://open.spotify.com/artist/1TIIwr7wiRuFavs4zUlYQU) | [Mellow](https://open.spotify.com/album/4OFhOIJLN66pFGa4n5eEto) | 3:33 | 2022-06-29 |  |
 | [Memories](https://open.spotify.com/track/1ZmXjqlQ7JQBPOwIhaCjIZ) | [Undis](https://open.spotify.com/artist/6YjkEQuODblFDXN3AsCYKo) | [Memories](https://open.spotify.com/album/6tVdXbTtIuqU4u46XVI8PF) | 3:18 | 2022-06-29 |  |
 | [Midmorning in the Forest](https://open.spotify.com/track/1NURmoJ05vd6p3oGgwkG3D) | [The Relaxing Sounds of Swedish Nature](https://open.spotify.com/artist/3yQUKaHkSwdGxlk8LxN5iu) | [Forest Creeks](https://open.spotify.com/album/5EWRtulbrK9YidzqNYctjQ) | 2:35 | 2022-06-29 | 2022-07-29 |
+| [Midmorning in the Forest](https://open.spotify.com/track/49kxZ12f0I1RYCZBCKlCMK) | [The Relaxing Sounds of Swedish Nature](https://open.spotify.com/artist/3yQUKaHkSwdGxlk8LxN5iu) | [Forest Creeks](https://open.spotify.com/album/0v6HrufgzVstSVfet7u6Nf) | 2:35 | 2022-09-13 |  |
 | [Mist](https://open.spotify.com/track/3KfAvtNhKv10mmB1wxnUPg) | [Memory Bliss](https://open.spotify.com/artist/40y6ITSyELhZmpIrCTwcP5) | [Daydream](https://open.spotify.com/album/5UswlOAxw3EgvhjueVkYT1) | 2:34 | 2022-06-29 | 2022-07-29 |
 | [Mist](https://open.spotify.com/track/762jOXMpUQpiJ5pj4JMjuf) | [Memory Bliss](https://open.spotify.com/artist/40y6ITSyELhZmpIrCTwcP5) | [Daydream](https://open.spotify.com/album/3I5cQE29v5dMWbzxw2JwIb) | 2:34 | 2022-07-19 | 2022-09-03 |
 | [Molecular Beauty](https://open.spotify.com/track/2AorwcM25R5qsP3MLeOJcA) | [Binary One](https://open.spotify.com/artist/71mFIlyvSib2V4MnPKERi2) | [Our Living Universe](https://open.spotify.com/album/41UjWVgWP1Se9Pbov22EvX) | 4:38 | 2022-06-29 |  |
@@ -206,7 +207,7 @@
 | [Silent Wave](https://open.spotify.com/track/27F6TPCUQ9eI2gXwO8Ngr1) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Spa Lounge](https://open.spotify.com/album/6ERp3okLOeeQerFReJnCCK) | 7:15 | 2022-07-19 |  |
 | [Silent Wave](https://open.spotify.com/track/0wxS3CTB9Khr0HJrAYwLiR) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Mystic Voyage](https://open.spotify.com/album/60fSPqXgx3h9CCCP0vbce6) | 7:17 | 2022-06-29 | 2022-07-29 |
 | [Silviculture](https://open.spotify.com/track/5gPJUTZ50tXhTc7AciCS4i) | [Forest Dreams](https://open.spotify.com/artist/0r8qxlmiAVqsOf1AXGhegp) | [Silviculture](https://open.spotify.com/album/0j150j8xYS3EK49gxR1Xj5) | 2:02 | 2022-06-29 | 2022-07-29 |
-| [Silviculture](https://open.spotify.com/track/6RzY1FdhbgqimxfPft78fB) | [Forest Dreams](https://open.spotify.com/artist/0r8qxlmiAVqsOf1AXGhegp) | [Silviculture](https://open.spotify.com/album/4RrqHdWv6ISLPFPlF9ap5B) | 2:02 | 2022-07-19 |  |
+| [Silviculture](https://open.spotify.com/track/6RzY1FdhbgqimxfPft78fB) | [Forest Dreams](https://open.spotify.com/artist/0r8qxlmiAVqsOf1AXGhegp) | [Silviculture](https://open.spotify.com/album/4RrqHdWv6ISLPFPlF9ap5B) | 2:02 | 2022-07-19 | 2022-09-19 |
 | [Singing birds of the forest, in the background the woodpecker tapping](https://open.spotify.com/track/3jzeyOClxpZLm6n35AEGIZ) | [Letnie Glosy Ptakow](https://open.spotify.com/artist/6qWRwuEnZK78sityDgR91Y) | [Summertime Bird Songs & Bird Calls](https://open.spotify.com/album/4LQaTjIvbPuccgIVqxCHme) | 3:51 | 2022-06-29 |  |
 | [Sinharaja Rain Forest](https://open.spotify.com/track/7gqMUXQ0Lo33WwUdSv8c2L) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [Sinharaja Rain Forest](https://open.spotify.com/album/5uofsTBl7a60q0yHg64DiR) | 2:09 | 2022-06-29 | 2022-07-29 |
 | [Siren's Whisper](https://open.spotify.com/track/2TduwqKH9OdGIGLNFGm9fG) | [Mallias](https://open.spotify.com/artist/7Jha5lv1MsoExRH2GMSNLk) | [Seabed](https://open.spotify.com/album/3Dy9SrqQmXpPqZUGOnhfEm) | 4:43 | 2022-06-29 |  |

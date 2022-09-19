@@ -4,7 +4,7 @@
 
 > The most incredible songs to celebrate the life, death and resurrection of our Lord Jesus are all here in one collection\.  Sit back and let it provide the praise for glorious day!
 
-439 songs - 1 day 11 hr 41 min - [published](https://open.spotify.com/playlist/6YEOhxlMSKcPFNC9j3L9q9)
+440 songs - 1 day 11 hr 46 min - [published](https://open.spotify.com/playlist/6YEOhxlMSKcPFNC9j3L9q9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [A Woman](https://open.spotify.com/track/74z3fROToqDySr3Al4hABk) | [FAITHFUL](https://open.spotify.com/artist/5v6CYScuXE6A8BGVp5bRqW), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es), [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [A Woman](https://open.spotify.com/album/13fcRwWwx7Ecwma3vVaPO4) | 5:20 | 2021-04-04 | 2022-07-29 |
 | [Above All](https://open.spotify.com/track/4UKkXhpY3knx2S4KDrsRSP) | [Paul Baloche](https://open.spotify.com/artist/1jH3GuQCPI87UrS0hcScHr) | [The Writer's Collection](https://open.spotify.com/album/1ztavDrZMEGJubkYFKcmZv) | 5:23 | 2021-04-04 | 2022-07-29 |
 | [Afraid To Say \(feat\. Lauren Walters\)](https://open.spotify.com/track/3cDrWGsgXj6fZd33Iwp4Lh) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Lauren Walters](https://open.spotify.com/artist/7q4d6AQkUPNfmZzBhzfnNt) | [Freedom.](https://open.spotify.com/album/1VDEosYeESOUFnySf8mxDJ) | 4:22 | 2022-04-02 | 2022-04-21 |
-| [Agnus Dei](https://open.spotify.com/track/1N9SysNAP8j4wbAIHzlM9m) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Decades of Worship](https://open.spotify.com/album/6svPaewhKWrqIRW3DgbrOC) | 6:57 | 2022-04-02 |  |
+| [Agnus Dei](https://open.spotify.com/track/1N9SysNAP8j4wbAIHzlM9m) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Decades of Worship](https://open.spotify.com/album/6svPaewhKWrqIRW3DgbrOC) | 6:57 | 2022-04-02 | 2022-09-19 |
 | [Agnus Dei / King Of Kings](https://open.spotify.com/track/0ar77SmMUtj04pFWKSHFSt) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chidima](https://open.spotify.com/artist/565BnuaflKZGlz7RfB2c6o), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [At Easter](https://open.spotify.com/album/6XzwtfJOB0jf9FQDUw4cnN) | 6:42 | 2021-04-04 | 2022-07-29 |
 | [Alive](https://open.spotify.com/track/0JL62s3HOx8rf2qTv7EG8J) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Alive](https://open.spotify.com/album/3aF9nF67exVSCjr4yQTi9i) | 3:25 | 2021-04-04 | 2022-07-29 |
 | [Alive \(from The Story\)](https://open.spotify.com/track/2G8g23AYWGJnxZgwpEa9lE) | [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Love Revolution](https://open.spotify.com/album/7lxvGTdwoLfkQ48E1wT2HG) | 5:06 | 2021-04-04 | 2022-07-23 |
@@ -155,6 +155,7 @@
 | [Great I Am \- Live](https://open.spotify.com/track/7vD7eylfo3OuMfPLECXgwo) | [New Life Worship](https://open.spotify.com/artist/0wCMw81dQdNPMRB4zadq5g) | [Great I Am](https://open.spotify.com/album/1mY0s5IXV76WfgzmhkpolU) | 5:35 | 2021-04-04 | 2022-04-21 |
 | [Great I Am \- Live](https://open.spotify.com/track/3rJAP9G6hjx2kN8Jsvas09) | [New Life Worship](https://open.spotify.com/artist/0wCMw81dQdNPMRB4zadq5g), [Integrity's Hosanna! Music](https://open.spotify.com/artist/72iDlGYfVrntfpKzmAv0Hn) | [You Hold It All \(Live\)](https://open.spotify.com/album/7ELf5tQ4o4MQP1d6Ps8t5R) | 5:28 | 2022-04-17 |  |
 | [Great Is Thy Faithfulness](https://open.spotify.com/track/3EYUz9XIk8Ej2WjUY46PnF) | [Don Moen](https://open.spotify.com/artist/2JGLjTHV2t8u8wxmLaiFfe) | [Hymnbook](https://open.spotify.com/album/322sxiKqXROwjgW81KuIn7) | 4:09 | 2021-04-04 | 2022-08-20 |
+| [Great Is Thy Faithfulness](https://open.spotify.com/track/3n1yqO5DsbjxxCLOfpWibS) | [Don Moen](https://open.spotify.com/artist/2JGLjTHV2t8u8wxmLaiFfe) | [Hymnbook](https://open.spotify.com/album/71smqXy1VEm6zOxaHZuYcA) | 4:09 | 2022-04-17 |  |
 | [Greater Is He](https://open.spotify.com/track/0UwjtsOOqibRGmETyisvu5) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO) | [Blanca](https://open.spotify.com/album/16pXhg6B9C9fLmM7HU4xfV) | 3:44 | 2021-04-04 | 2022-07-10 |
 | [Greater Things](https://open.spotify.com/track/3EHQMl3KrWpwfUMxgAWSqb) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [Greater Things](https://open.spotify.com/album/4ji5IXQ0QqzxO4uCwB8kke) | 4:40 | 2021-04-04 | 2022-07-22 |
 | [Hallelujah Amen \(feat\. Jon Guerra\)](https://open.spotify.com/track/78wyAJJM6TsN428S5ScPg7) | [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o), [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o) | [Hallelujah Amen \(feat\. Jon Guerra\)](https://open.spotify.com/album/7Dfu32GbtgxM3asJTI8zlZ) | 5:18 | 2022-04-02 | 2022-04-21 |

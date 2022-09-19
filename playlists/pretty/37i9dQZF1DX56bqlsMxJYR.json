@@ -1,12 +1,12 @@
 {
   "description": "All of the classic hits from the 50s and 60s.",
-  "num_followers": 842792,
+  "num_followers": 843185,
   "original_name": "Classic Oldies",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTM0MjIwOSwwMDAwMDAwMGEyYmJhNWEwYTNjZmZmM2IxMzM2ZDQ3N2JhMTYwZDFk",
+  "snapshot_id": "MTY0OTM0MjIwOSwwMDAwMDAwMDYxNjIxZGE0YjJjM2Q0YTlkNmNjNjlmYjFhYmJiYmZl",
   "tracks": [
     {
       "added_at": "2022-03-07 23:38:19",
@@ -687,22 +687,6 @@
     {
       "added_at": "2022-03-07 23:38:19",
       "album": {
-        "name": "Down the Road Apiece - the Recordings 1963-1966",
-        "url": "https://open.spotify.com/album/13VP0DyGZZq15NzDVoh79y"
-      },
-      "artists": [
-        {
-          "name": "Manfred Mann",
-          "url": "https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ"
-        }
-      ],
-      "duration_ms": 144146,
-      "name": "Do Wah Diddy Diddy - 2007 Remaster",
-      "url": "https://open.spotify.com/track/69sEXPrKQ5PtCxel5csSXs"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
         "name": "Sings the Songs that Made Him Famous",
         "url": "https://open.spotify.com/album/1UivGyqPLpky3vtZ2ARHOY"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 163045,
       "name": "I Walk The Line - Single Version",
       "url": "https://open.spotify.com/track/1TKPfF2fvn6gVLVfp3iG4j"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "Down the Road Apiece - the Recordings 1963-1966",
+        "url": "https://open.spotify.com/album/13VP0DyGZZq15NzDVoh79y"
+      },
+      "artists": [
+        {
+          "name": "Manfred Mann",
+          "url": "https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ"
+        }
+      ],
+      "duration_ms": 144146,
+      "name": "Do Wah Diddy Diddy - 2007 Remaster",
+      "url": "https://open.spotify.com/track/69sEXPrKQ5PtCxel5csSXs"
     },
     {
       "added_at": "2022-03-07 23:38:19",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2022-03-07 23:38:19",
       "album": {
-        "name": "The Seekers",
-        "url": "https://open.spotify.com/album/3vMmPXoijRRhpE9lPpUyq4"
-      },
-      "artists": [
-        {
-          "name": "The Seekers",
-          "url": "https://open.spotify.com/artist/7dedWAqd0IKTdCiqiadUrV"
-        }
-      ],
-      "duration_ms": 140440,
-      "name": "Georgy Girl",
-      "url": "https://open.spotify.com/track/73XQBWHSVLL1939hb8cQTm"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
         "name": "The Ultimate Bobby Darin",
         "url": "https://open.spotify.com/album/65okcRJHUVUrFiDG3I1Sz8"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 150706,
       "name": "Dream Lover",
       "url": "https://open.spotify.com/track/1KLpjQFgubHI3GkAICCNH3"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "The Seekers",
+        "url": "https://open.spotify.com/album/3vMmPXoijRRhpE9lPpUyq4"
+      },
+      "artists": [
+        {
+          "name": "The Seekers",
+          "url": "https://open.spotify.com/artist/7dedWAqd0IKTdCiqiadUrV"
+        }
+      ],
+      "duration_ms": 140440,
+      "name": "Georgy Girl",
+      "url": "https://open.spotify.com/track/73XQBWHSVLL1939hb8cQTm"
     },
     {
       "added_at": "2022-03-07 23:38:19",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2022-03-07 23:38:19",
       "album": {
-        "name": "The Magic Touch: An Anthology",
-        "url": "https://open.spotify.com/album/6qV2qBClHsKwdfbzQfBUFC"
+        "name": "There's A Riot Goin' On: The Coasters On Atco",
+        "url": "https://open.spotify.com/album/1oi6aLPgSAwv3352Jtmjku"
       },
       "artists": [
         {
-          "name": "The Platters",
-          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
+          "name": "The Coasters",
+          "url": "https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM"
         }
       ],
-      "duration_ms": 156666,
-      "name": "Only You (And You Alone)",
-      "url": "https://open.spotify.com/track/0S5cs4lAkx99tGjoWS4Jtk"
+      "duration_ms": 116026,
+      "name": "Yakety Yak - 2007 Remaster",
+      "url": "https://open.spotify.com/track/3Lbxie6whOW4eMt4jtI32k"
     },
     {
       "added_at": "2022-03-07 23:38:19",
@@ -1347,6 +1347,22 @@
       "duration_ms": 167384,
       "name": "Green Onions",
       "url": "https://open.spotify.com/track/6KKcey1w86oP0qxN8frbfD"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "The Magic Touch: An Anthology",
+        "url": "https://open.spotify.com/album/6qV2qBClHsKwdfbzQfBUFC"
+      },
+      "artists": [
+        {
+          "name": "The Platters",
+          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
+        }
+      ],
+      "duration_ms": 156666,
+      "name": "Only You (And You Alone)",
+      "url": "https://open.spotify.com/track/0S5cs4lAkx99tGjoWS4Jtk"
     },
     {
       "added_at": "2022-03-07 23:38:19",
@@ -1383,22 +1399,6 @@
     {
       "added_at": "2022-03-07 23:38:19",
       "album": {
-        "name": "There's A Riot Goin' On: The Coasters On Atco",
-        "url": "https://open.spotify.com/album/1oi6aLPgSAwv3352Jtmjku"
-      },
-      "artists": [
-        {
-          "name": "The Coasters",
-          "url": "https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM"
-        }
-      ],
-      "duration_ms": 116026,
-      "name": "Yakety Yak - 2007 Remaster",
-      "url": "https://open.spotify.com/track/3Lbxie6whOW4eMt4jtI32k"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
         "name": "Georgia on My Mind (Original Master Recording)",
         "url": "https://open.spotify.com/album/77Qcn4aTbV27aarq2CHrGb"
       },
@@ -1411,6 +1411,38 @@
       "duration_ms": 217414,
       "name": "Georgia on My Mind - Original Master Recording",
       "url": "https://open.spotify.com/track/47mA6f44zxLtdATOoY7GjN"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "The Shoop Shoop Song (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1CDz7wAwakjRXfTxnpgj28"
+      },
+      "artists": [
+        {
+          "name": "Betty Everett",
+          "url": "https://open.spotify.com/artist/53jXEVVJtpaWVQ3ffvhDtl"
+        }
+      ],
+      "duration_ms": 136116,
+      "name": "The Shoop Shoop Song (It's In His Kiss)",
+      "url": "https://open.spotify.com/track/3qoNRhQuqbAG4uXrPx2aSk"
+    },
+    {
+      "added_at": "2022-03-07 23:38:19",
+      "album": {
+        "name": "The Best Of Bobby Vinton",
+        "url": "https://open.spotify.com/album/4qK4QZUSp8QdoMEm9mrzyA"
+      },
+      "artists": [
+        {
+          "name": "Bobby Vinton",
+          "url": "https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK"
+        }
+      ],
+      "duration_ms": 168093,
+      "name": "Blue Velvet",
+      "url": "https://open.spotify.com/track/4QelFzhVgLomeQhvKrwM1S"
     },
     {
       "added_at": "2022-03-07 23:38:19",
@@ -1431,18 +1463,18 @@
     {
       "added_at": "2022-03-07 23:38:19",
       "album": {
-        "name": "The Best Of Bobby Vinton",
-        "url": "https://open.spotify.com/album/4qK4QZUSp8QdoMEm9mrzyA"
+        "name": "The Man Who Invented Soul",
+        "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
       },
       "artists": [
         {
-          "name": "Bobby Vinton",
-          "url": "https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK"
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
         }
       ],
-      "duration_ms": 168093,
-      "name": "Blue Velvet",
-      "url": "https://open.spotify.com/track/4QelFzhVgLomeQhvKrwM1S"
+      "duration_ms": 162466,
+      "name": "You Send Me",
+      "url": "https://open.spotify.com/track/5aivQ5CkXXHJoMLy0o92HL"
     },
     {
       "added_at": "2022-03-07 23:38:19",
@@ -1479,34 +1511,22 @@
     {
       "added_at": "2022-03-07 23:38:19",
       "album": {
-        "name": "The Man Who Invented Soul",
-        "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
+        "name": "The Best Of Frankie Lymon & The Teenagers",
+        "url": "https://open.spotify.com/album/0vMlyH3qNCkun2rIFVU5Gm"
       },
       "artists": [
         {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 162466,
-      "name": "You Send Me",
-      "url": "https://open.spotify.com/track/5aivQ5CkXXHJoMLy0o92HL"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
-        "name": "The Shoop Shoop Song (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1CDz7wAwakjRXfTxnpgj28"
-      },
-      "artists": [
+          "name": "Frankie Lymon",
+          "url": "https://open.spotify.com/artist/2KMQz6s6MNRr4bxI8EQdRk"
+        },
         {
-          "name": "Betty Everett",
-          "url": "https://open.spotify.com/artist/53jXEVVJtpaWVQ3ffvhDtl"
+          "name": "The Teenagers",
+          "url": "https://open.spotify.com/artist/1Crbmyf2bkbeOvckSlQFng"
         }
       ],
-      "duration_ms": 136116,
-      "name": "The Shoop Shoop Song (It's In His Kiss)",
-      "url": "https://open.spotify.com/track/3qoNRhQuqbAG4uXrPx2aSk"
+      "duration_ms": 139666,
+      "name": "Why Do Fools Fall in Love",
+      "url": "https://open.spotify.com/track/2xKfXRhw5xaUXfevJJspZf"
     },
     {
       "added_at": "2022-03-07 23:38:19",
@@ -1555,26 +1575,6 @@
       "duration_ms": 147841,
       "name": "Duke of Earl",
       "url": "https://open.spotify.com/track/6Hy22YDN9HJMRlJP1LwnJy"
-    },
-    {
-      "added_at": "2022-03-07 23:38:19",
-      "album": {
-        "name": "The Best Of Frankie Lymon & The Teenagers",
-        "url": "https://open.spotify.com/album/0vMlyH3qNCkun2rIFVU5Gm"
-      },
-      "artists": [
-        {
-          "name": "Frankie Lymon",
-          "url": "https://open.spotify.com/artist/2KMQz6s6MNRr4bxI8EQdRk"
-        },
-        {
-          "name": "The Teenagers",
-          "url": "https://open.spotify.com/artist/1Crbmyf2bkbeOvckSlQFng"
-        }
-      ],
-      "duration_ms": 139666,
-      "name": "Why Do Fools Fall in Love",
-      "url": "https://open.spotify.com/track/2xKfXRhw5xaUXfevJJspZf"
     },
     {
       "added_at": "2022-03-07 23:38:19",

@@ -4,7 +4,7 @@
 
 > The genre\-defying artists inspired by classical music\. Photo: Nils Frahm.
 
-208 songs - 15 hr 15 min - [published](https://open.spotify.com/playlist/2iy6j9LlPViguwqLQQko18)
+209 songs - 15 hr 18 min - [published](https://open.spotify.com/playlist/2iy6j9LlPViguwqLQQko18)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Brainwash](https://open.spotify.com/track/2ahhgh9KTpnmb0tmu3dHDb) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Brainwash](https://open.spotify.com/album/18T41TaoFWNZ3XYw0XPqWi) | 5:05 | 2022-04-01 | 2022-08-26 |
 | [By The Sea \(Alexandra Hamilton\-Ayres Rework\)](https://open.spotify.com/track/2iXvCq72SsfRotGmvihphI) | [Anna Phoebe](https://open.spotify.com/artist/1838KFlgy3zBrQOqiwagod), [Alexandra Hamilton\-Ayres](https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp) | [By The Sea \(Alexandra Hamilton\-Ayres Rework\)](https://open.spotify.com/album/4dsFX80koDAJYLRx6UwcE3) | 4:48 | 2021-12-10 |  |
 | [By The Sea \(live\)](https://open.spotify.com/track/3MYAcI8fKxQjDF2DrULm1B) | [Anna Phoebe](https://open.spotify.com/artist/1838KFlgy3zBrQOqiwagod), [Jake Downs](https://open.spotify.com/artist/548KN8JtY7WZn3VCiTGgUJ), [Trans Voices](https://open.spotify.com/artist/6WOjBUzx8rMrwCdVtU4WVN) | [By The Sea \(live\)](https://open.spotify.com/album/4uDNPvTViSulNt01rFHM5R) | 5:00 | 2022-04-29 | 2022-08-14 |
-| [Can't Sleep](https://open.spotify.com/track/6mus9lF8bgipBehHDZ9Top) | [Rebecca Dale](https://open.spotify.com/artist/5y0ldLcTRdGf53DeJnrQz0), [Joby Burgess](https://open.spotify.com/artist/3jNNxhqxHJws22fYew1EC2) | [Can't Sleep](https://open.spotify.com/album/4VTDInQ5dnlXYwaqWbLNzk) | 7:08 | 2021-12-10 |  |
+| [Can't Sleep](https://open.spotify.com/track/6mus9lF8bgipBehHDZ9Top) | [Rebecca Dale](https://open.spotify.com/artist/5y0ldLcTRdGf53DeJnrQz0), [Joby Burgess](https://open.spotify.com/artist/3jNNxhqxHJws22fYew1EC2) | [Can't Sleep](https://open.spotify.com/album/4VTDInQ5dnlXYwaqWbLNzk) | 7:08 | 2021-12-10 | 2022-09-19 |
 | [Celeste](https://open.spotify.com/track/0OYYiR0CxzsXscdXH0tE2v) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo), [Vanessa Wagner](https://open.spotify.com/artist/5Dw4dHIo9XEpwPGFuTZFn0) | [Celeste](https://open.spotify.com/album/46JzdTHeF11bGywUlrjW98) | 4:38 | 2021-12-10 | 2022-04-02 |
 | [Change Ringing](https://open.spotify.com/track/5GuiFlzQaTd2HLmJFUx907) | [Robert Ames](https://open.spotify.com/artist/0TArUQakaqRxFMynA8vA7q) | [Change Ringing](https://open.spotify.com/album/220ppvAD2cN3Q39ApdZSCz) | 4:00 | 2021-12-10 | 2022-07-27 |
 | [Chant](https://open.spotify.com/track/0wA7sLbi3SVzPIRPpnN1Jd) | [Tom Rogerson](https://open.spotify.com/artist/0iONcDu4zVlsw1LwIq4rrN) | [Chant](https://open.spotify.com/album/69uJb3jfQBuXWp5647F5lP) | 4:32 | 2022-03-25 | 2022-04-02 |
@@ -140,6 +140,7 @@
 | [Music For Growing Flowers \- Pt\. 4](https://open.spotify.com/track/0kY5iUcL7JGqGLz3t2hhCL) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa) | [Music For Growing Flowers](https://open.spotify.com/album/7nlNFxFHuJxLHtfGM2mAkD) | 5:34 | 2022-08-26 |  |
 | [Music For Growing Flowers \- Pt\. 4](https://open.spotify.com/track/3kSKcgJ0FYz7t2k4p71jiy) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa) | [Music For Growing Flowers](https://open.spotify.com/album/4ivhFfoUuBby0JKvbAuOeE) | 5:34 | 2022-07-22 | 2022-08-26 |
 | [My Perception of Love](https://open.spotify.com/track/2DmRw6o0JSOvznQe9UGuiD) | [Benjamin Amaru](https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp) | [12.95 \- A Shortstory](https://open.spotify.com/album/2ObSe5nRNskTL9NhNVjWCD) | 3:59 | 2022-03-25 | 2022-04-02 |
+| [New Grass — piano reworks](https://open.spotify.com/track/3E8cDI21EQkDQjncehTKFL) | [tstewart](https://open.spotify.com/artist/5xEcI8Vn4ofUa5tLHNNlkV), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [New Grass — piano reworks](https://open.spotify.com/album/4KGB54dfOJOX4e6wEiryws) | 3:36 | 2022-09-16 |  |
 | [Newborn](https://open.spotify.com/track/3EB0OXYpu65N019rD3hLh7) | [Stimming x Lambert](https://open.spotify.com/artist/1TTO5SuWJWgnOOGMdwVvD5) | [Newborn](https://open.spotify.com/album/3sjsBHfPPgzwsF9PR8qR8i) | 4:21 | 2021-12-10 | 2022-04-02 |
 | [Next Winter](https://open.spotify.com/track/0UfpJngBbA7yILNdoNDqlM) | [Mark Slater](https://open.spotify.com/artist/63TOnUvxBBCq0yJN9wKuXF) | [Next Winter](https://open.spotify.com/album/6ZWxDNKRbwvPHa8quQNf9P) | 3:54 | 2021-12-10 |  |
 | [Night Sky](https://open.spotify.com/track/4jMOhFmabozK4cz2sQKoOs) | [Paul Dixon](https://open.spotify.com/artist/7cI8MDKn9CpIQjwROVhh8S), [James Underwood](https://open.spotify.com/artist/3kHy2R4hn87xhtqJjOlYRJ), [Fyfe](https://open.spotify.com/artist/1xkxEEm60IyknT2Eh469mX), [Iskra Strings](https://open.spotify.com/artist/3y05eQyusaM1cfQTKuCzPK) | [Night Sky](https://open.spotify.com/album/5JxbtHrbIuw2gwrsAdOpql) | 3:08 | 2022-03-18 | 2022-07-29 |

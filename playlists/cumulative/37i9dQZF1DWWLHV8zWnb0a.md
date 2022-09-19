@@ -4,7 +4,7 @@
 
 > El sonido siniestro de los noventa\. Foto: Smashing Pumpkins
 
-195 songs - 14 hr 33 min - [published](https://open.spotify.com/playlist/0ZTvaGdY3PACa8LPz6dQs6)
+196 songs - 14 hr 38 min - [published](https://open.spotify.com/playlist/0ZTvaGdY3PACa8LPz6dQs6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Just](https://open.spotify.com/track/1dyTcli07c77mtQK3ahUZR) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The Bends](https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg) | 3:54 | 2022-03-17 |  |
 | [Just](https://open.spotify.com/track/4SE81CrzH0qPA8KHqM9Syz) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The Bends](https://open.spotify.com/album/500FEaUzn8lN9zWFyZG5C2) | 3:54 | 2022-03-17 | 2022-07-29 |
 | [Just a Lifetime](https://open.spotify.com/track/7Bqz2cjdtsdFyMYiAdZdnK) | [The Legendary Pink Dots](https://open.spotify.com/artist/55XX7sgmxtVFNJnHrQMXh5) | [The Crushed Velvet Apocalypse](https://open.spotify.com/album/5nEQkSEKzKHefdY6w9nxKm) | 7:46 | 2022-03-17 | 2022-07-05 |
+| [Just One Fix](https://open.spotify.com/track/0Vcpo9El50PNNbZXfKbNti) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [KE\*A\*H\*\* \(Psalm 69\)](https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5) | 5:10 | 2022-03-17 |  |
 | [Jóga](https://open.spotify.com/track/18NehrWLUFK7NPH522YQMQ) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Homogenic](https://open.spotify.com/album/3knDOJUQBAATXsKYLWO4k8) | 5:05 | 2022-03-17 | 2022-07-28 |
 | [Kamata Hollywood City](https://open.spotify.com/track/7iFfA4b3dDFwD8nrisCKpb) | [The Gun Club](https://open.spotify.com/artist/3Un18X4NF1bpjgUk44lUzn) | [Lucky Jim](https://open.spotify.com/album/7baryMFeiVeaxF9oZ94phc) | 5:09 | 2022-03-17 | 2022-07-29 |
 | [Kantina](https://open.spotify.com/track/6qhQdGUA1fO2YzRXP85EBs) | [Unwound](https://open.spotify.com/artist/4YjpqCSDD7zwMQgPYJMqb0) | [Fake Train](https://open.spotify.com/album/0s9B9VnN71Msp8Yozx0xCM) | 4:44 | 2022-03-17 | 2022-07-09 |
@@ -136,7 +137,7 @@
 | [Push It](https://open.spotify.com/track/4bK77apewWVpCzZRiruhtO) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Version 2.0](https://open.spotify.com/album/66oRYombEmQmugi8uWuans) | 4:02 | 2022-03-17 | 2022-07-29 |
 | [Queer](https://open.spotify.com/track/39EiewBOjNSygetLhv43nA) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Garbage](https://open.spotify.com/album/7FH4wo4ceRR39By76ONfuw) | 4:36 | 2022-03-17 | 2022-07-29 |
 | [Red Right Hand \- 2011 Remastered Version](https://open.spotify.com/track/0qHeP8zt2WWef7EWCs1ECj) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Let Love In \(2011 Remastered Version\)](https://open.spotify.com/album/0Ewp4PEIzkcAyrC463a5xF) | 6:10 | 2022-03-17 |  |
-| [Replica](https://open.spotify.com/track/5YeQoMo5py82YmqXMTjM5S) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [Demanufacture \(Special Edition\)](https://open.spotify.com/album/6GPHWrMQG5Ns8O3aQKMro2) | 3:57 | 2022-03-17 |  |
+| [Replica](https://open.spotify.com/track/5YeQoMo5py82YmqXMTjM5S) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [Demanufacture \(Special Edition\)](https://open.spotify.com/album/6GPHWrMQG5Ns8O3aQKMro2) | 3:57 | 2022-03-17 | 2022-09-19 |
 | [Reverence](https://open.spotify.com/track/3h9zXYA0hMZi9bt6DG8sEo) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Honey's Dead \(Expanded Version\)](https://open.spotify.com/album/393zSY3AcIiFZFEvBXaoum) | 3:40 | 2022-03-17 | 2022-07-28 |
 | [Rid Of Me](https://open.spotify.com/track/3m2Zd230K68bC4Qe961d9p) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Rid Of Me](https://open.spotify.com/album/2fDJpBJhtloxzUENHlU9JB) | 4:28 | 2022-03-17 | 2022-07-28 |
 | [Roads](https://open.spotify.com/track/2sW8fmnISifQTRgnRrQTYW) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Dummy](https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno) | 5:03 | 2022-03-17 |  |

@@ -1782,6 +1782,24 @@
     },
     {
       "album": {
+        "name": "For the Breakdowns",
+        "url": "https://open.spotify.com/album/5yoqFxiDljDVn70lVn1Sd2"
+      },
+      "artists": [
+        {
+          "name": "afternoon bike ride",
+          "url": "https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184451,
+      "name": "For The Breakdowns",
+      "url": "https://open.spotify.com/track/2fN3mTftR80HwV5r79rq10"
+    },
+    {
+      "album": {
         "name": "C'qui nous reste du Texas",
         "url": "https://open.spotify.com/album/11NpZmKnX39yEMSxwiURpm"
       },
@@ -5373,7 +5391,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 171546,
       "name": "Qui a mis le feu",
       "url": "https://open.spotify.com/track/4WIpgkUySL7bkVfaX0xl04"

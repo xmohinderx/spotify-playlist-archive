@@ -1,12 +1,12 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \ub2f9\uc2e0\uc744 \uc704\ub85c\ud558\ub294 \uac00\uc0ac\uc640 \ub530\ub73b\ud55c \ube44\ud2b8.",
-  "num_followers": 4844,
+  "num_followers": 4849,
   "original_name": "\ud790\ub9c1 \ud799\ud569",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM1OTA4MSwwMDAwMDAwMDUyMWU3MDBmOTIyNzMyMGRiOTBiMmQ4YjgwODhkYmJi",
+  "snapshot_id": "MTY2MjM1OTA4MSwwMDAwMDAwMDI5OTNmY2E0ZGJlOWE5NDZiMTMyNDQzYmRhMGFlMDhm",
   "tracks": [
     {
       "added_at": "2022-09-05 06:24:41",
@@ -47,26 +47,6 @@
     {
       "added_at": "2022-09-05 06:24:41",
       "album": {
-        "name": "FRIENDS",
-        "url": "https://open.spotify.com/album/15qT5zhGXLx7Oz725k8aZV"
-      },
-      "artists": [
-        {
-          "name": "lIlBOI",
-          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
-        },
-        {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
-        }
-      ],
-      "duration_ms": 190690,
-      "name": "FRIENDS",
-      "url": "https://open.spotify.com/track/1Y8tCOCqwav6RBvfNjYphx"
-    },
-    {
-      "added_at": "2022-09-05 06:24:41",
-      "album": {
         "name": "School Rapper4 Semi Final 2",
         "url": "https://open.spotify.com/album/7BWDssnirZKzn1pTHIJN8J"
       },
@@ -83,6 +63,26 @@
       "duration_ms": 213626,
       "name": "PARADISE (Feat. meenoi)",
       "url": "https://open.spotify.com/track/4YXWk4YOEmlu8bWlzNObD7"
+    },
+    {
+      "added_at": "2022-09-05 06:24:41",
+      "album": {
+        "name": "FRIENDS",
+        "url": "https://open.spotify.com/album/15qT5zhGXLx7Oz725k8aZV"
+      },
+      "artists": [
+        {
+          "name": "lIlBOI",
+          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
+        },
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        }
+      ],
+      "duration_ms": 190690,
+      "name": "FRIENDS",
+      "url": "https://open.spotify.com/track/1Y8tCOCqwav6RBvfNjYphx"
     },
     {
       "added_at": "2022-09-05 06:24:41",
@@ -155,26 +155,6 @@
     {
       "added_at": "2022-09-05 06:24:41",
       "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/5JEYiTvQmOPfMpiUoXq2U8"
-      },
-      "artists": [
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        },
-        {
-          "name": "DUT2",
-          "url": "https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX"
-        }
-      ],
-      "duration_ms": 239960,
-      "name": "Freedom (Feat. DUT2) (Prod. Way Ched)",
-      "url": "https://open.spotify.com/track/70DaoUGYskTAJeYGgH5mAh"
-    },
-    {
-      "added_at": "2022-09-05 06:24:41",
-      "album": {
         "name": "Show Me the Money 5 Episode 4",
         "url": "https://open.spotify.com/album/4iSAd5Tg8jNhoRLnZ0Tb0X"
       },
@@ -195,26 +175,46 @@
     {
       "added_at": "2022-09-05 06:24:41",
       "album": {
-        "name": "Show Me The Money 9 Episode 3",
-        "url": "https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt"
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/5JEYiTvQmOPfMpiUoXq2U8"
       },
       "artists": [
         {
-          "name": "lIlBOI",
-          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
         },
         {
-          "name": "GIRIBOY",
-          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
-        },
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+          "name": "DUT2",
+          "url": "https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX"
         }
       ],
-      "duration_ms": 276152,
-      "name": "Tomorrow (Feat. GIRIBOY, BIG Naughty)",
-      "url": "https://open.spotify.com/track/7K31QxS2DmTBxdYldd8yqf"
+      "duration_ms": 239960,
+      "name": "Freedom (Feat. DUT2) (Prod. Way Ched)",
+      "url": "https://open.spotify.com/track/70DaoUGYskTAJeYGgH5mAh"
+    },
+    {
+      "added_at": "2022-09-05 06:24:41",
+      "album": {
+        "name": "Curtain Call",
+        "url": "https://open.spotify.com/album/02RwftMPUiJvxCTDOUSJWx"
+      },
+      "artists": [
+        {
+          "name": "TOIL",
+          "url": "https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S"
+        },
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "duration_ms": 229575,
+      "name": "Time limit (Feat. Leellamarz, Loco)",
+      "url": "https://open.spotify.com/track/1jQg7ImfH2OVpp9lu9mOj0"
     },
     {
       "added_at": "2022-09-05 06:24:41",
@@ -259,26 +259,26 @@
     {
       "added_at": "2022-09-05 06:24:41",
       "album": {
-        "name": "Curtain Call",
-        "url": "https://open.spotify.com/album/02RwftMPUiJvxCTDOUSJWx"
+        "name": "Show Me The Money 9 Episode 3",
+        "url": "https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt"
       },
       "artists": [
         {
-          "name": "TOIL",
-          "url": "https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S"
+          "name": "lIlBOI",
+          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
         },
         {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
         },
         {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
         }
       ],
-      "duration_ms": 229575,
-      "name": "Time limit (Feat. Leellamarz, Loco)",
-      "url": "https://open.spotify.com/track/1jQg7ImfH2OVpp9lu9mOj0"
+      "duration_ms": 276152,
+      "name": "Tomorrow (Feat. GIRIBOY, BIG Naughty)",
+      "url": "https://open.spotify.com/track/7K31QxS2DmTBxdYldd8yqf"
     },
     {
       "added_at": "2022-09-05 06:24:41",
@@ -303,30 +303,26 @@
     {
       "added_at": "2022-09-05 06:24:41",
       "album": {
-        "name": "Show Me The Money 9 Final",
-        "url": "https://open.spotify.com/album/7mHfIfu0UDbbf86KHykjAq"
+        "name": "Show Me the Money 5 Episode 2",
+        "url": "https://open.spotify.com/album/0s95KHiY498Xv52w9ybV7t"
       },
       "artists": [
         {
-          "name": "lIlBOI",
-          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
+          "name": "Simon Dominic",
+          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
         },
         {
-          "name": "YUMDDA",
-          "url": "https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR"
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
         },
         {
-          "name": "GIRIBOY",
-          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
-        },
-        {
-          "name": "Zion.T",
-          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+          "name": "ONE",
+          "url": "https://open.spotify.com/artist/36Hd8M3GV2FLpHUEDH6bCz"
         }
       ],
-      "duration_ms": 247718,
-      "name": "CREDIT (Feat. YUMDDA, GIRIBOY, Zion.T)",
-      "url": "https://open.spotify.com/track/2lHmx4nJOTGHx2PkEFMADF"
+      "duration_ms": 252258,
+      "name": "Comfortable",
+      "url": "https://open.spotify.com/track/2lEzKOtt7q64jQZ5meZsY8"
     },
     {
       "added_at": "2022-09-05 06:24:41",
@@ -351,30 +347,6 @@
       "duration_ms": 234306,
       "name": "Never Ending Story (Feat. Dynamicduo)",
       "url": "https://open.spotify.com/track/2kIvvkzrcrFqVdPGSHtKYO"
-    },
-    {
-      "added_at": "2022-09-05 06:24:41",
-      "album": {
-        "name": "Show Me the Money 5 Episode 2",
-        "url": "https://open.spotify.com/album/0s95KHiY498Xv52w9ybV7t"
-      },
-      "artists": [
-        {
-          "name": "Simon Dominic",
-          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
-        },
-        {
-          "name": "GRAY",
-          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
-        },
-        {
-          "name": "ONE",
-          "url": "https://open.spotify.com/artist/36Hd8M3GV2FLpHUEDH6bCz"
-        }
-      ],
-      "duration_ms": 252258,
-      "name": "Comfortable",
-      "url": "https://open.spotify.com/track/2lEzKOtt7q64jQZ5meZsY8"
     },
     {
       "added_at": "2022-09-05 06:24:41",
@@ -451,6 +423,34 @@
     {
       "added_at": "2022-09-05 06:24:41",
       "album": {
+        "name": "Show Me The Money 9 Final",
+        "url": "https://open.spotify.com/album/7mHfIfu0UDbbf86KHykjAq"
+      },
+      "artists": [
+        {
+          "name": "lIlBOI",
+          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
+        },
+        {
+          "name": "YUMDDA",
+          "url": "https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR"
+        },
+        {
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        },
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        }
+      ],
+      "duration_ms": 247718,
+      "name": "CREDIT (Feat. YUMDDA, GIRIBOY, Zion.T)",
+      "url": "https://open.spotify.com/track/2lHmx4nJOTGHx2PkEFMADF"
+    },
+    {
+      "added_at": "2022-09-05 06:24:41",
+      "album": {
         "name": "School Rapper 2 Final",
         "url": "https://open.spotify.com/album/6oX7tP4ac99NLogEHFn0WE"
       },
@@ -511,6 +511,26 @@
     {
       "added_at": "2022-09-05 06:24:41",
       "album": {
+        "name": "Show Me the Money 777 Semi Final",
+        "url": "https://open.spotify.com/album/1F5dDguEHUNBFpB0Eed1Up"
+      },
+      "artists": [
+        {
+          "name": "Loopy",
+          "url": "https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg"
+        },
+        {
+          "name": "Simon Dominic",
+          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
+        }
+      ],
+      "duration_ms": 329487,
+      "name": "NoNo (Prod. by CODE KUNST)",
+      "url": "https://open.spotify.com/track/4BqiX6pWkB3tr04U3AxPhM"
+    },
+    {
+      "added_at": "2022-09-05 06:24:41",
+      "album": {
         "name": "Primary and Pphk Pt.1",
         "url": "https://open.spotify.com/album/5CCVroCLwjRk4GDTwCaX4t"
       },
@@ -531,26 +551,6 @@
       "duration_ms": 248000,
       "name": "Seat Belt (Feat. Dynamic Duo)",
       "url": "https://open.spotify.com/track/2WcMriAJ84pN5ZW8cBiUnQ"
-    },
-    {
-      "added_at": "2022-09-05 06:24:41",
-      "album": {
-        "name": "Show Me the Money 777 Semi Final",
-        "url": "https://open.spotify.com/album/1F5dDguEHUNBFpB0Eed1Up"
-      },
-      "artists": [
-        {
-          "name": "Loopy",
-          "url": "https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg"
-        },
-        {
-          "name": "Simon Dominic",
-          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
-        }
-      ],
-      "duration_ms": 329487,
-      "name": "NoNo (Prod. by CODE KUNST)",
-      "url": "https://open.spotify.com/track/4BqiX6pWkB3tr04U3AxPhM"
     },
     {
       "added_at": "2022-09-05 06:24:41",
@@ -731,6 +731,22 @@
     {
       "added_at": "2022-09-05 06:24:41",
       "album": {
+        "name": "WHISTLE",
+        "url": "https://open.spotify.com/album/5UpN1ZUe7a4HMEl6pMnqM6"
+      },
+      "artists": [
+        {
+          "name": "SINCE",
+          "url": "https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616"
+        }
+      ],
+      "duration_ms": 172177,
+      "name": "WHISTLE",
+      "url": "https://open.spotify.com/track/2T88RycrXWCgFsQoAGB7ut"
+    },
+    {
+      "added_at": "2022-09-05 06:24:41",
+      "album": {
         "name": "Epik High Is Here \u4e0b (Part 2)",
         "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 286226,
       "name": "Family Portrait (Feat. Kim Feel)",
       "url": "https://open.spotify.com/track/20LM2NJWXVwCqtkVeJIb7B"
-    },
-    {
-      "added_at": "2022-09-05 06:24:41",
-      "album": {
-        "name": "WHISTLE",
-        "url": "https://open.spotify.com/album/5UpN1ZUe7a4HMEl6pMnqM6"
-      },
-      "artists": [
-        {
-          "name": "SINCE",
-          "url": "https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616"
-        }
-      ],
-      "duration_ms": 172177,
-      "name": "WHISTLE",
-      "url": "https://open.spotify.com/track/2T88RycrXWCgFsQoAGB7ut"
     },
     {
       "added_at": "2022-09-05 06:24:41",
@@ -983,22 +983,6 @@
     {
       "added_at": "2022-09-05 06:24:41",
       "album": {
-        "name": "Never give up, Pt. 6 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/0Un96cPPobRlzsFwLbfdTp"
-      },
-      "artists": [
-        {
-          "name": "Jeong Dong Won",
-          "url": "https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki"
-        }
-      ],
-      "duration_ms": 206093,
-      "name": "My dream",
-      "url": "https://open.spotify.com/track/3QvGWdhF7IesvO9b2MSmzS"
-    },
-    {
-      "added_at": "2022-09-05 06:24:41",
-      "album": {
         "name": "Polodared",
         "url": "https://open.spotify.com/album/2duUL3vrOY4kLKWbTB0yNR"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 131180,
       "name": "winter night (Feat. DUT2)",
       "url": "https://open.spotify.com/track/6gIFRFKWuwF0J8maUzh54d"
+    },
+    {
+      "added_at": "2022-09-05 06:24:41",
+      "album": {
+        "name": "Never give up, Pt. 6 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0Un96cPPobRlzsFwLbfdTp"
+      },
+      "artists": [
+        {
+          "name": "Jeong Dong Won",
+          "url": "https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki"
+        }
+      ],
+      "duration_ms": 206093,
+      "name": "My dream",
+      "url": "https://open.spotify.com/track/3QvGWdhF7IesvO9b2MSmzS"
     },
     {
       "added_at": "2022-09-05 06:24:41",

@@ -4,7 +4,7 @@
 
 > Always come in 1st.
 
-93 songs - 5 hr 31 min - [published](https://open.spotify.com/playlist/7pJ5T0fVYty4hK4BC2wxPr)
+94 songs - 5 hr 34 min - [published](https://open.spotify.com/playlist/7pJ5T0fVYty4hK4BC2wxPr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/track/3Oww84xrmgjyr5J1ilOmAf) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Colin Hay](https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv) | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/album/6jwTcGQIb9PZaZinJGqgVX) | 2:38 | 2022-05-19 | 2022-07-29 |
 | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Colin Hay](https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv) | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW) | 2:38 | 2022-04-01 |  |
 | [Dreams](https://open.spotify.com/track/6Q6PUsRgFVjKNEw9Q9NoK6) | [Rootkit](https://open.spotify.com/artist/01olvHW7uzIInQx9VTNuJm) | [Dreams](https://open.spotify.com/album/7fE0SknwuDfgzXdiO2JaTB) | 3:08 | 2022-04-01 | 2022-08-26 |
+| [Dreams](https://open.spotify.com/track/7HOeuULGsJMkZ20gZlrMZr) | [Rootkit](https://open.spotify.com/artist/01olvHW7uzIInQx9VTNuJm) | [Dreams](https://open.spotify.com/album/1RccSdAkSfnHnNLC05Z7xi) | 3:08 | 2022-09-03 |  |
 | [Dreamstate](https://open.spotify.com/track/4WOYAnPBe0qqlgcVAPLCd8) | [Ephixa](https://open.spotify.com/artist/7xYcJfhrRx9Iv8smhoEibc) | [Dreamstate](https://open.spotify.com/album/3GSBcowmQxTWGiBOc4zJwh) | 3:18 | 2022-04-01 |  |
 | [Earthquake](https://open.spotify.com/track/7p10Admejdbz7aU8Bd8nQh) | [Where It's ATT](https://open.spotify.com/artist/6sMtJ7VjiMiflyZCnTxEcD) | [Earthquake](https://open.spotify.com/album/3N7z1ezQEDSV94VAa6OcU4) | 2:26 | 2022-04-01 | 2022-07-29 |
 | [Empty Bed](https://open.spotify.com/track/4CHDcWhqTsz53Ur9zmvHs8) | [Saint Punk](https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW) | [Empty Bed](https://open.spotify.com/album/0rZHZsyJnQb0K0KV6vCdhi) | 3:34 | 2022-04-01 | 2022-05-13 |
@@ -91,7 +92,7 @@
 | [Think About Me](https://open.spotify.com/track/1vqpzfLgdGzZUlqSjkz6Sr) | [Azifm](https://open.spotify.com/artist/3KhcY0eVTSmC16IXBPICt7), [Scout](https://open.spotify.com/artist/3etLA4Y9THE0KfmbunVrAg) | [Think About Me](https://open.spotify.com/album/3uy36BQ4KfPhacRYarKzGT) | 4:40 | 2022-08-17 |  |
 | [This Feeling](https://open.spotify.com/track/2UZtyw4ItKKKB3Rw0sfWsG) | [Noisestorm](https://open.spotify.com/artist/2BuSNpxpMGJGiAAWJYJT2t) | [This Feeling](https://open.spotify.com/album/2uB9v0HVBalbQLwlQpn1MH) | 4:21 | 2022-04-01 |  |
 | [Tokyo Drift \(Fast & Furious\) \- From "The Fast And The Furious: Tokyo Drift" Soundtrack](https://open.spotify.com/track/5iJfzXKvQXlYOBtEQhEmpA) | [Teriyaki Boyz](https://open.spotify.com/artist/7HBai5xymOxIWoMWvWshe1) | [The Fast And The Furious: Tokyo Drift \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4SJhZBuuLYlwUJGxWf8Pj0) | 4:15 | 2022-04-01 | 2022-05-13 |
-| [Too Much](https://open.spotify.com/track/2fBImyKfTG6MTIZwqGhnpo) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm) | [RESET](https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK) | 3:39 | 2022-06-17 |  |
+| [Too Much](https://open.spotify.com/track/2fBImyKfTG6MTIZwqGhnpo) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm) | [RESET](https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK) | 3:39 | 2022-06-17 | 2022-09-19 |
 | [Used To This](https://open.spotify.com/track/6IlL9Xlnm0Oq6wXSe6TH9v) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U) | [Used to This](https://open.spotify.com/album/48vV65b1zjT4lCeO5MplHm) | 3:46 | 2022-04-01 |  |
 | [Vertigo](https://open.spotify.com/track/0Cv7pfVZT1KjaqpylUsYQH) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT), [PollyAnna](https://open.spotify.com/artist/3mRSi79NwnlKaOH8vFxBVL) | [Vertigo](https://open.spotify.com/album/4s8l87cU1Z2Sg5iKualNLr) | 2:47 | 2022-04-01 |  |
 | [Vex](https://open.spotify.com/track/5EYmCZ7F6sA7fVhNhkAMf1) | [Bensley](https://open.spotify.com/artist/3SfEKS85dj9v75ROsWJSiL) | [Vex](https://open.spotify.com/album/76zmqdpTOItu1E4PXhgCML) | 3:55 | 2022-04-01 |  |

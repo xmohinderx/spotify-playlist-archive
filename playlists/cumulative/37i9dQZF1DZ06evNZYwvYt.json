@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-09-17",
   "description": "This is De Saloon. The essential tracks, all in one playlist.",
   "name": "This Is De Saloon",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "3hmWLO5yy7lDEMZPgjkk0q"
+  ],
   "tracks": [
     {
       "album": {
@@ -615,7 +617,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 254120,
       "name": "Que pena siente el alma",
       "url": "https://open.spotify.com/track/62QHlRTwHX7cocYq2F4cIg"
@@ -821,6 +823,24 @@
       "duration_ms": 230146,
       "name": "Yo llorar\u00e9 por ti",
       "url": "https://open.spotify.com/track/4i4AiJzaAMMkW6P02hwp4R"
+    },
+    {
+      "album": {
+        "name": "Te Ver\u00e9 Volver - Tributo Chileno a Cerati (Disco 2)",
+        "url": "https://open.spotify.com/album/2WO40wVGEPnYKpSYhoM0Z6"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287702,
+      "name": "Zona de promesas",
+      "url": "https://open.spotify.com/track/0lNlxx9ZbsnXqbmgylFALP"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evNZYwvYt"

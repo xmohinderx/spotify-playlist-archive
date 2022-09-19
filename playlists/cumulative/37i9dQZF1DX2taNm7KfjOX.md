@@ -4,7 +4,7 @@
 
 > Repeat\-free hours of new and beloved indie folk\. Cover: Julia Jacklin
 
-428 songs - 1 day 2 hr 51 min - [published](https://open.spotify.com/playlist/3LST0f4pA1dtcimgRwJiWD)
+429 songs - 1 day 2 hr 54 min - [published](https://open.spotify.com/playlist/3LST0f4pA1dtcimgRwJiWD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Goodbye Mr\. Blue](https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Chloë and the Next 20th Century](https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz) | 5:00 | 2022-06-24 |  |
 | [Graves](https://open.spotify.com/track/4wwZvbK1mJKiHvA2n2dLEO) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Graves](https://open.spotify.com/album/5PCieAZVKwqWKiTTuCcjzs) | 3:12 | 2021-10-22 | 2022-07-29 |
 | [Grow into Love](https://open.spotify.com/track/2D3OzSwTcwuNWWs8MacKqz) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Grow Into Love](https://open.spotify.com/album/07dS6wpMwR5hqfH0Mf8KRp) | 2:42 | 2021-10-22 | 2022-07-29 |
+| [Grow into Love](https://open.spotify.com/track/52AthVA2opex8NcLSwtO8n) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Seasons of Change](https://open.spotify.com/album/74fRgN21qhhAQv43mbCJFq) | 2:42 | 2022-08-12 |  |
 | [Grow into Love](https://open.spotify.com/track/6FloUWDjW3r51mRYyw0vv5) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Seasons of Change](https://open.spotify.com/album/2dyKBgz9mbVHUbeX2lbd8p) | 2:42 | 2022-06-24 | 2022-09-15 |
 | [Guess Again](https://open.spotify.com/track/4Y2365W43JtMuU2os31LUs) | [Jeff Tweedy](https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN) | [Guess Again](https://open.spotify.com/album/637CT2H6ESwzGM6KRVy5IZ) | 3:17 | 2021-10-22 |  |
 | [Guthrie](https://open.spotify.com/track/2kNwTOVdZGCGROgAzjD1J0) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Guthrie](https://open.spotify.com/album/11sreyMhRyRnGBrg972mZy) | 4:53 | 2022-07-29 |  |
@@ -302,7 +303,7 @@
 | [Red White and Black](https://open.spotify.com/track/30prf1EAz6dbnHRBD66vT4) | [Jesca Hoop](https://open.spotify.com/artist/0fqE57gXXTTqxXlFYVNG2u) | [STONECHILD](https://open.spotify.com/album/1sFzlgjdeY7hCiJKTkKjU3) | 3:16 | 2021-10-22 | 2022-07-28 |
 | [Resentment](https://open.spotify.com/track/7oe8E6wlEuxJpCSqZu9VVf) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Resentment](https://open.spotify.com/album/35i4zihamjGrr1nBrtknip) | 2:53 | 2021-10-22 | 2022-02-26 |
 | [Resentment \(New Feelings Version\)](https://open.spotify.com/track/1QMlPu2ElT8LO2ceRVJs3g) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Resentment \(New Feelings Version\)](https://open.spotify.com/album/5c0IIUPmCzuIbx4KLgjLGv) | 2:52 | 2022-02-25 | 2022-07-29 |
-| [Resentment \(New Feelings Version\)](https://open.spotify.com/track/3T5m746yNi1IFCcnaVA0IR) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Same History, New Feelings](https://open.spotify.com/album/2pVw5jbYUefDoaZgjnu4Q9) | 2:52 | 2022-07-29 |  |
+| [Resentment \(New Feelings Version\)](https://open.spotify.com/track/3T5m746yNi1IFCcnaVA0IR) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Same History, New Feelings](https://open.spotify.com/album/2pVw5jbYUefDoaZgjnu4Q9) | 2:52 | 2022-07-29 | 2022-09-19 |
 | [Resin](https://open.spotify.com/track/6AmrRS8slCMxGUZePjV6dH) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [Resin](https://open.spotify.com/album/3zurNYr1HaGcnoI20tvYSX) | 3:23 | 2021-10-22 |  |
 | [Resist the Urge](https://open.spotify.com/track/1ibmvtXJCzpo9LRbzBc3NZ) | [Matt Sweeney](https://open.spotify.com/artist/6IpGCPfdHtfNZwSGihxXSj), [Bonnie Prince Billy](https://open.spotify.com/artist/2zAvisjImPICTNsRgagqlV) | [Superwolves](https://open.spotify.com/album/0aGYuZmwC0E8rWOgUkNgkl) | 2:34 | 2021-10-22 | 2022-07-24 |
 | [RHODODENDRON](https://open.spotify.com/track/3Ugq8kEET6KgKBmZ3ttCNl) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [LIFE ON EARTH](https://open.spotify.com/album/5oHaiGt9cgATxsrv409jP3) | 3:34 | 2022-06-24 |  |

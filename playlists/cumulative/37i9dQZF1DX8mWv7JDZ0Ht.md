@@ -4,7 +4,7 @@
 
 > Sucessos e novidades do pop calminho pra relaxar o seu dia! Foto: Sandy, Ludmilla
 
-149 songs - 7 hr 31 min - [published](https://open.spotify.com/playlist/5tkcffSh1F75PZZSEVmuv8)
+150 songs - 7 hr 34 min - [published](https://open.spotify.com/playlist/5tkcffSh1F75PZZSEVmuv8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,8 @@
 | [o mesmo dia](https://open.spotify.com/track/0zCv49QKlB6qzqSpc3FA7F) | [Nina Fernandes](https://open.spotify.com/artist/3KrkRHLMHe2nzcpcvIJmDP) | [o mesmo dia](https://open.spotify.com/album/6rNYmmx6Jd5McewaZiyKjN) | 4:07 | 2022-09-02 |  |
 | [O quanto eu gosto de você\. \(feat\. Clarissa\)](https://open.spotify.com/track/6Rt0yn8luPG73Yp7yiESyc) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK), [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [O quanto eu gosto de você\. \(feat\. Clarissa\)](https://open.spotify.com/album/12PaS2qZIHeuwWbL6owjQl) | 2:45 | 2022-05-13 | 2022-06-04 |
 | [Oceana](https://open.spotify.com/track/41F3OUGWKcsdIn1ujcx5hN) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Oceana](https://open.spotify.com/album/0Keuh6VaVM7GNPET0kkSnN) | 2:28 | 2022-05-13 |  |
-| [Oi Sumido](https://open.spotify.com/track/7a56p3neclUh34UPhndqAe) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [Oi Sumido](https://open.spotify.com/album/1syJN4C3ySg3i595zybozJ) | 2:31 | 2022-05-13 |  |
+| [Oi Sumido](https://open.spotify.com/track/1L0x0SGUaUMDJSPVSs2LhY) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [Oi Sumido](https://open.spotify.com/album/1etuvaB2Anel6HSOW2f47m) | 2:31 | 2022-09-16 |  |
+| [Oi Sumido](https://open.spotify.com/track/7a56p3neclUh34UPhndqAe) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [Oi Sumido](https://open.spotify.com/album/1syJN4C3ySg3i595zybozJ) | 2:31 | 2022-05-13 | 2022-09-19 |
 | [Olho de Girassol](https://open.spotify.com/track/3s0A8jRhbklln6u5eZFxSX) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Bráulio Bessa](https://open.spotify.com/artist/4G22JHSJnunUt8t3yMt46A) | [Olho de Girassol](https://open.spotify.com/album/6sFjAGgZMaQTYa4j5OlJhj) | 3:14 | 2022-08-19 |  |
 | [Olhos Caramelos](https://open.spotify.com/track/1RXevytE5CpdBZYvkQkQJa) | [Calena](https://open.spotify.com/artist/05b2pxULrPTg4M5LCUzlzc), [Mun\-Ra](https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96) | [Olhos Caramelos](https://open.spotify.com/album/50M4O5lbjQaKI8lk3xeR3N) | 3:12 | 2022-06-24 | 2022-08-02 |
 | [Olhos Cor de Mel](https://open.spotify.com/track/1yEyhET3yLUypqqD3Juvqw) | [Mariana Coelho](https://open.spotify.com/artist/39dsFcF29ENLVm7zRQuQAv) | [Olhos Cor de Mel](https://open.spotify.com/album/7y4uE2werAmyajYm5PMU7M) | 2:21 | 2022-05-13 | 2022-07-29 |

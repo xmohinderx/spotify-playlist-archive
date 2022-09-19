@@ -1,12 +1,12 @@
 {
   "description": "Revive aquellos tiempos de new wave, post-punk y sentimientos decadentes. Foto: The Cure",
-  "num_followers": 116848,
+  "num_followers": 116951,
   "original_name": "Oscuros 80",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjY0MzU1MiwwMDAwMDAwMGI0ZTUwNWM0YTVmYmQ0ZmZmZDdlZDMyZGMzNGU5YzI4",
+  "snapshot_id": "MTY1NjY0MzU1MiwwMDAwMDAwMDA5Nzc5YjU5ZjgyNjhkZTBmMmFhYmFiNGYwOTFmNDI1",
   "tracks": [
     {
       "added_at": "2022-05-30 14:46:37",
@@ -843,22 +843,6 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
-        "name": "Pretenders",
-        "url": "https://open.spotify.com/album/6AFFu3ilmlEDz1I9ZaNOZw"
-      },
-      "artists": [
-        {
-          "name": "Pretenders",
-          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
-        }
-      ],
-      "duration_ms": 185960,
-      "name": "Brass in Pocket - 2006 Remaster",
-      "url": "https://open.spotify.com/track/1QaJWSCk3UMKLotnPCIHh1"
-    },
-    {
-      "added_at": "2021-09-28 03:14:02",
-      "album": {
         "name": "Psychocandy (Expanded Version)",
         "url": "https://open.spotify.com/album/2t1hVEwp82QebO7lq21Vto"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 182493,
       "name": "Just Like Honey",
       "url": "https://open.spotify.com/track/1LwP9g1Hjbs64jXM2Qsxry"
+    },
+    {
+      "added_at": "2021-09-28 03:14:02",
+      "album": {
+        "name": "Pretenders",
+        "url": "https://open.spotify.com/album/6AFFu3ilmlEDz1I9ZaNOZw"
+      },
+      "artists": [
+        {
+          "name": "Pretenders",
+          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
+        }
+      ],
+      "duration_ms": 185960,
+      "name": "Brass in Pocket - 2006 Remaster",
+      "url": "https://open.spotify.com/track/1QaJWSCk3UMKLotnPCIHh1"
     },
     {
       "added_at": "2021-09-28 03:14:02",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
-        "name": "Broadcast",
-        "url": "https://open.spotify.com/album/3wCe8HjHk6QNGcf5D3jgW1"
-      },
-      "artists": [
-        {
-          "name": "Cutting Crew",
-          "url": "https://open.spotify.com/artist/3cniTumSiUysiPWXapGx1i"
-        }
-      ],
-      "duration_ms": 308133,
-      "name": "I've Been In Love Before",
-      "url": "https://open.spotify.com/track/7yQNqjXp9BAGAppPGkTbYf"
-    },
-    {
-      "added_at": "2021-09-28 03:14:02",
-      "album": {
         "name": "First Harvest 1984-1992",
         "url": "https://open.spotify.com/album/0d60Pri6GuV9E8jeJrSB33"
       },
@@ -1103,18 +1087,18 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
-        "name": "Night Time",
-        "url": "https://open.spotify.com/album/2qcwXvluk9iFwNNg4eDBXm"
+        "name": "Broadcast",
+        "url": "https://open.spotify.com/album/3wCe8HjHk6QNGcf5D3jgW1"
       },
       "artists": [
         {
-          "name": "Killing Joke",
-          "url": "https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD"
+          "name": "Cutting Crew",
+          "url": "https://open.spotify.com/artist/3cniTumSiUysiPWXapGx1i"
         }
       ],
-      "duration_ms": 239280,
-      "name": "Eighties - 2007 Digital Remaster",
-      "url": "https://open.spotify.com/track/21T9lWigjSIMg9uD6ZfRnQ"
+      "duration_ms": 308133,
+      "name": "I've Been In Love Before",
+      "url": "https://open.spotify.com/track/7yQNqjXp9BAGAppPGkTbYf"
     },
     {
       "added_at": "2021-09-28 03:14:02",
@@ -1147,6 +1131,22 @@
       "duration_ms": 219933,
       "name": "I Ran (So Far Away)",
       "url": "https://open.spotify.com/track/173PnvZh4grHTf31DPXDbJ"
+    },
+    {
+      "added_at": "2021-09-28 03:14:02",
+      "album": {
+        "name": "Night Time",
+        "url": "https://open.spotify.com/album/2qcwXvluk9iFwNNg4eDBXm"
+      },
+      "artists": [
+        {
+          "name": "Killing Joke",
+          "url": "https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD"
+        }
+      ],
+      "duration_ms": 239280,
+      "name": "Eighties - 2007 Digital Remaster",
+      "url": "https://open.spotify.com/track/21T9lWigjSIMg9uD6ZfRnQ"
     },
     {
       "added_at": "2021-09-28 03:14:02",

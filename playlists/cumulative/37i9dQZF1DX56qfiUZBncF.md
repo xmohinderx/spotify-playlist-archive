@@ -4,7 +4,7 @@
 
 > Let these innovative tracks spark your creativity and inspiration.
 
-232 songs - 13 hr 46 min - [published](https://open.spotify.com/playlist/1aiXmCTeHQI0hMOaYE96Os)
+233 songs - 13 hr 49 min - [published](https://open.spotify.com/playlist/1aiXmCTeHQI0hMOaYE96Os)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Awaken \(Feel Alive\)](https://open.spotify.com/track/1p6AQlMFpnH4hmhrSfoQ3k) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA), [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Awaken \(Feel Alive\)](https://open.spotify.com/album/3G2IDH5CJxDMVaX8mQ9kVp) | 3:00 | 2021-10-19 |  |
 | [Back Pedal](https://open.spotify.com/track/1QruitU3xFHKx0dO68avih) | [Amber Maya](https://open.spotify.com/artist/3jPSmQEwdBu8xw5WoiFmEU), [Rei](https://open.spotify.com/artist/09eBKIxIhMym3kxJyDnVXh) | [Back Pedal](https://open.spotify.com/album/53L9UQ6pj2zhSC1N4Gfc1L) | 3:18 | 2020-11-04\* | 2021-10-20 |
 | [Back To My Bed](https://open.spotify.com/track/57ECZeJDxi0K9x4nWF75tK) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Why Do We Shake In The Cold?](https://open.spotify.com/album/1IVWxrGqgbK1hrbHIua1Qn) | 3:22 | 2020-11-04\* |  |
-| [Behind](https://open.spotify.com/track/6ydBCO7odHKV6OXZFVeo6f) | [C\. James](https://open.spotify.com/artist/77Y0VaGhTLxtpZ0nLbD2oD) | [Behind](https://open.spotify.com/album/1Sw5mvbUeqDKjXhOkqc6CK) | 3:40 | 2021-02-12 |  |
+| [Behind](https://open.spotify.com/track/6ydBCO7odHKV6OXZFVeo6f) | [C\. James](https://open.spotify.com/artist/77Y0VaGhTLxtpZ0nLbD2oD) | [Behind](https://open.spotify.com/album/1Sw5mvbUeqDKjXhOkqc6CK) | 3:40 | 2021-02-12 | 2022-09-19 |
 | [Better](https://open.spotify.com/track/6HUf5XZ42rs0svrOZjODj4) | [Calica](https://open.spotify.com/artist/1gi49JL4LNUMlylXm5Z0ZG), [Daniel Loumpouridis](https://open.spotify.com/artist/4mdHhJxqXDxoVwDDcJKTL0) | [Better](https://open.spotify.com/album/7mRF5LbfCd1ggGm5Xfy9WN) | 3:27 | 2020-11-20 | 2022-07-29 |
 | [Better Now](https://open.spotify.com/track/52Yr0e6r0O3iS83RVWJ8x1) | [Lemaitre](https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764) | [Fast Lovers](https://open.spotify.com/album/0rIcsDB9gc09aVX6tZBZeL) | 3:09 | 2020-11-04\* | 2021-10-20 |
 | [Big Wheel](https://open.spotify.com/track/6GUQaa74JUSziJ9TT29Ghg) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [The Baby](https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6) | 3:15 | 2020-11-04\* |  |
@@ -86,6 +86,7 @@
 | [Francesca](https://open.spotify.com/track/4SKt118N7T1TKhodbTPNw9) | [Classixx](https://open.spotify.com/artist/0vUTfcBDZZo2OUQJci5UNZ), [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Francesca / Weekends](https://open.spotify.com/album/7mJkDAmNIiSWCRZHBuiuwS) | 3:39 | 2020-12-04 | 2022-07-29 |
 | [Gemini](https://open.spotify.com/track/64KwQ4YwBr9ZVq34aOdwZY) | [Paco Versailles](https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW) | [Gemini](https://open.spotify.com/album/5pb11EuV3UqFcSZR37oR1i) | 3:23 | 2020-11-04\* | 2022-07-29 |
 | [Give Me Space \(feat\. The Kite String Tangle\)](https://open.spotify.com/track/1eJaHVCXkDnZcB9yB8buJ9) | [Motez](https://open.spotify.com/artist/3SwgftmsT5rVepCSSco3ZR), [The Kite String Tangle](https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7) | [Give Me Space \(feat\. The Kite String Tangle\)](https://open.spotify.com/album/0jmztT0knaYPwbO9D7kgwT) | 3:43 | 2021-03-26 | 2022-07-26 |
+| [Giving In To The Love](https://open.spotify.com/track/1YKRI4Uqw9HNEqMoQvhQom) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Gods We Can Touch](https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX) | 3:01 | 2022-04-29 |  |
 | [Giving In To The Love](https://open.spotify.com/track/2QlRLjTVBHYreIiS6BvGof) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Giving In To The Love](https://open.spotify.com/album/3Y5o2C8NuaZTnJEVIamHDy) | 3:01 | 2021-10-19 | 2022-09-15 |
 | [Gold \(Flume Re\-Work\)](https://open.spotify.com/track/0h8ojQz5giqSp3Q5EWUrRv) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Gold \(Flume Re\-Work\)](https://open.spotify.com/album/6sqQFchi2DHwhAFfm5x5ud) | 4:27 | 2020-11-04\* | 2021-10-20 |
 | [Gold \- Flume Re\-Work](https://open.spotify.com/track/7oELjqBCLfUKhsR5IGCS6N) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Gold \(Flume Re\-Work\)](https://open.spotify.com/album/4DHglATZVLGvsoJHoiTxXl) | 4:27 | 2022-04-29 |  |

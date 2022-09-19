@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiuTkmMSmb9.md) - [plain]
 
 > Tropical jams to catch a vibe and whine to\. Cover: Sampa The Great
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,081 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,135 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiuTkmMSmb9.md) - [plain]
 | 48 | [Never Forget \[Feat\. Chef 187, Tio Nason, Mwanjé\]](https://open.spotify.com/track/4pBr2SjDVIxfGkUwvOJLx7) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Chef 187](https://open.spotify.com/artist/26fSO7cYQ1Txtb8xNi8byv), [Tio Nason](https://open.spotify.com/artist/44vOrGC9wQuBCQIeBUNc1O), [Mwanje](https://open.spotify.com/artist/3BM1y5iZJFNwGFZC8ivubP) | [Never Forget](https://open.spotify.com/album/1TGT83DEhv2ovTITDUQA2q) | 3:37 |
 | 49 | [NJ \(Freestyle\)](https://open.spotify.com/track/1jItGRDxckHhQBZ3Y9xVch) | [DSP](https://open.spotify.com/artist/17GAXOUu9d8YXnuwVeGphZ) | [NJ \(Freestyle\)](https://open.spotify.com/album/0bYdUoADyRkjmrp95lfWrj) | 1:52 |
 | 50 | [Pray 2 The East \(feat\. BNXN fka Buju\)](https://open.spotify.com/track/5NI7jC26RB9s7prQc7SkZg) | [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Pray 2 The East](https://open.spotify.com/album/6oOKILSxYzQ3xmk7QDncIR) | 2:58 |
-| 51 | [WATAWI \(feat\. Davido, Focalistic & Abidoza\)](https://open.spotify.com/track/3AZY6NZ1R8GI9003EEFPeu) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Abidoza](https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33) | [WATAWI \(feat\. Davido, Focalistic & Abidoza\)](https://open.spotify.com/album/5hxrayrgITzYPpQ6uEg3kL) | 4:48 |
+| 51 | [WATAWI \(feat\. Davido, Focalistic & Abidoza\)](https://open.spotify.com/track/3AZY6NZ1R8GI9003EEFPeu) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Abidoza](https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33) | [WATAWI \(feat\. Davido, Focalistic & Abidoza\)](https://open.spotify.com/album/5hxrayrgITzYPpQ6uEg3kL) | 5:05 |
 | 52 | [Say You Bad \(Remix\)](https://open.spotify.com/track/7nMrhVzouCx2Igpdwzo0Ta) | [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv), [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [Say You Bad \(Remix\)](https://open.spotify.com/album/1MSQFlNZ1UqxOk3WRIDxzQ) | 3:24 |
 | 53 | [Vibes](https://open.spotify.com/track/6jIbe78Jfq9sdHiyBLzYku) | [Creed Tha Kid](https://open.spotify.com/artist/0Gzx0kLgEZkaNJYGJCbdYR) | [Vibes](https://open.spotify.com/album/2BtkBJW9qPFKv27050Ypiq) | 2:50 |
 | 54 | [Sugar](https://open.spotify.com/track/6cCwQS0nqtrMLkpkp6MPvo) | [Bbanner](https://open.spotify.com/artist/1LpLNp9LL2xCWOBPbxbQcG), [Daev Zambia](https://open.spotify.com/artist/4WzzjGo80jU0oO6mPMrJZW) | [Sugar](https://open.spotify.com/album/4mirrfYpCpG8UeXFskfWal) | 2:44 |

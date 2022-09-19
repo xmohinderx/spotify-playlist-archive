@@ -4,7 +4,7 @@
 
 > 2016 highlights from the home of indie music.
 
-100 songs - 6 hr 28 min - not published yet
+100 songs - 6 hr 28 min - [published](https://open.spotify.com/playlist/25GKXIxQx0MhfSmsN76qDV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

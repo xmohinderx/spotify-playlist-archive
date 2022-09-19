@@ -1,12 +1,12 @@
 {
   "description": "Los nuevos sonidos y fusiones de m\u00fasica Alternativa Latina, con Pahua en portada.",
-  "num_followers": 24989,
+  "num_followers": 25027,
   "original_name": "Indie AlterLatino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMzk0OSwwMDAwMDAwMDZiNjJhZDQ0YjQyZjk0NTc0MTAxMzBhYWIwMGQ1ODQx",
+  "snapshot_id": "MTY2MzMwMzk0OSwwMDAwMDAwMDlhZWI5MjBiZGMzYzE3NzJkY2NkYTg2MTcyY2FjYmZh",
   "tracks": [
     {
       "added_at": "2022-09-16 04:50:01",
@@ -369,6 +369,26 @@
       "url": "https://open.spotify.com/track/0gH3JQ2qEulnQXmw8ig5U5"
     },
     {
+      "added_at": "2022-04-22 18:06:01",
+      "album": {
+        "name": "Tinta y Tiempo",
+        "url": "https://open.spotify.com/album/7drLytofGXezhYswIuCGHu"
+      },
+      "artists": [
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        },
+        {
+          "name": "Noga Erez",
+          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
+        }
+      ],
+      "duration_ms": 184475,
+      "name": "\u00a1Oh, Algoritmo! (feat. Noga Erez)",
+      "url": "https://open.spotify.com/track/5HAjAcrI1mrA1PlhKHXJ0v"
+    },
+    {
       "added_at": "2022-08-13 02:18:09",
       "album": {
         "name": "Fr\u00edo Blues",
@@ -401,26 +421,6 @@
       "url": "https://open.spotify.com/track/1Grn6fk4cXX55XoimiQ6iL"
     },
     {
-      "added_at": "2022-04-22 18:06:01",
-      "album": {
-        "name": "Tinta y Tiempo",
-        "url": "https://open.spotify.com/album/7drLytofGXezhYswIuCGHu"
-      },
-      "artists": [
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        },
-        {
-          "name": "Noga Erez",
-          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
-        }
-      ],
-      "duration_ms": 184475,
-      "name": "\u00a1Oh, Algoritmo! (feat. Noga Erez)",
-      "url": "https://open.spotify.com/track/5HAjAcrI1mrA1PlhKHXJ0v"
-    },
-    {
       "added_at": "2021-10-05 16:26:53",
       "album": {
         "name": "La Cura",
@@ -441,22 +441,6 @@
       "url": "https://open.spotify.com/track/0UVwUs9TMKgee3kvE2uMxC"
     },
     {
-      "added_at": "2022-01-17 15:56:36",
-      "album": {
-        "name": "R\u00fambala",
-        "url": "https://open.spotify.com/album/4yf3TyT75f33sAq1o1ORuR"
-      },
-      "artists": [
-        {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
-        }
-      ],
-      "duration_ms": 178823,
-      "name": "R\u00fambala",
-      "url": "https://open.spotify.com/track/0YjGcWlFaksNtsCIxfrmur"
-    },
-    {
       "added_at": "2022-03-30 02:02:45",
       "album": {
         "name": "Boleros Psicod\u00e9licos",
@@ -475,6 +459,22 @@
       "duration_ms": 228693,
       "name": "Mentiras Con Cari\u00f1o",
       "url": "https://open.spotify.com/track/7H7c9Ih5yj4158AM8BF49z"
+    },
+    {
+      "added_at": "2022-01-17 15:56:36",
+      "album": {
+        "name": "R\u00fambala",
+        "url": "https://open.spotify.com/album/4yf3TyT75f33sAq1o1ORuR"
+      },
+      "artists": [
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+        }
+      ],
+      "duration_ms": 178823,
+      "name": "R\u00fambala",
+      "url": "https://open.spotify.com/track/0YjGcWlFaksNtsCIxfrmur"
     },
     {
       "added_at": "2021-10-05 16:26:53",
@@ -781,22 +781,6 @@
       "url": "https://open.spotify.com/track/0MACuhj7kQjwpN98yvpgDA"
     },
     {
-      "added_at": "2022-04-09 05:10:17",
-      "album": {
-        "name": "Mabanzo",
-        "url": "https://open.spotify.com/album/27YMkY29ejf68IpDywP91w"
-      },
-      "artists": [
-        {
-          "name": "Juanita Euka",
-          "url": "https://open.spotify.com/artist/5a7zFB39QFXzf8amit9zJh"
-        }
-      ],
-      "duration_ms": 291786,
-      "name": "Alma Seca",
-      "url": "https://open.spotify.com/track/0TjNcJLSuyWByX7IjYYYs9"
-    },
-    {
       "added_at": "2021-10-05 16:26:53",
       "album": {
         "name": "Camino al Mar",
@@ -811,6 +795,22 @@
       "duration_ms": 252040,
       "name": "Hoy Como Siempre",
       "url": "https://open.spotify.com/track/61Rc95MbrSSCaXqLcRRBu0"
+    },
+    {
+      "added_at": "2022-09-07 01:11:32",
+      "album": {
+        "name": "Analog Drift",
+        "url": "https://open.spotify.com/album/6HrF56kOsMzQPQOZPUk5TY"
+      },
+      "artists": [
+        {
+          "name": "Chico Mann",
+          "url": "https://open.spotify.com/artist/2Wt6Q6ZHygCPVtMO3uxLGB"
+        }
+      ],
+      "duration_ms": 272746,
+      "name": "Ya Yo S\u00e9",
+      "url": "https://open.spotify.com/track/13Bi9eUCVZzp3X7453V2TY"
     },
     {
       "added_at": "2022-06-24 16:07:34",
@@ -831,6 +831,22 @@
       "duration_ms": 197733,
       "name": "Duele",
       "url": "https://open.spotify.com/track/1q8pjaEhNAAFVzMyTb3pc9"
+    },
+    {
+      "added_at": "2022-04-09 05:10:17",
+      "album": {
+        "name": "Mabanzo",
+        "url": "https://open.spotify.com/album/27YMkY29ejf68IpDywP91w"
+      },
+      "artists": [
+        {
+          "name": "Juanita Euka",
+          "url": "https://open.spotify.com/artist/5a7zFB39QFXzf8amit9zJh"
+        }
+      ],
+      "duration_ms": 291786,
+      "name": "Alma Seca",
+      "url": "https://open.spotify.com/track/0TjNcJLSuyWByX7IjYYYs9"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -889,22 +905,6 @@
       "url": "https://open.spotify.com/track/3BeAo71NSk2xAFlNAganPw"
     },
     {
-      "added_at": "2022-09-07 01:11:32",
-      "album": {
-        "name": "Analog Drift",
-        "url": "https://open.spotify.com/album/6HrF56kOsMzQPQOZPUk5TY"
-      },
-      "artists": [
-        {
-          "name": "Chico Mann",
-          "url": "https://open.spotify.com/artist/2Wt6Q6ZHygCPVtMO3uxLGB"
-        }
-      ],
-      "duration_ms": 272746,
-      "name": "Ya Yo S\u00e9",
-      "url": "https://open.spotify.com/track/13Bi9eUCVZzp3X7453V2TY"
-    },
-    {
       "added_at": "2021-10-05 16:26:53",
       "album": {
         "name": "Nosotros Tambi\u00e9n",
@@ -935,6 +935,22 @@
       "duration_ms": 190204,
       "name": "donde nadie m\u00e1s Respira",
       "url": "https://open.spotify.com/track/704ciKlOY43h1RU5DMtJgD"
+    },
+    {
+      "added_at": "2022-09-07 01:11:32",
+      "album": {
+        "name": "Manifest Tone EP",
+        "url": "https://open.spotify.com/album/71r1Tt7DmwZejC8ONXC1k5"
+      },
+      "artists": [
+        {
+          "name": "Chico Mann",
+          "url": "https://open.spotify.com/artist/2Wt6Q6ZHygCPVtMO3uxLGB"
+        }
+      ],
+      "duration_ms": 255435,
+      "name": "Dilo Como Yo (Te Est\u00e1n Llamando)",
+      "url": "https://open.spotify.com/track/3tz4X9gO0l6lOoh4ZvK7xg"
     },
     {
       "added_at": "2021-10-05 16:26:53",
@@ -1017,26 +1033,6 @@
       "url": "https://open.spotify.com/track/6NKV4jEVqmJ6tsoyNEg2SQ"
     },
     {
-      "added_at": "2022-03-03 23:20:33",
-      "album": {
-        "name": "Aqu\u00ed seguimos",
-        "url": "https://open.spotify.com/album/5uclJItFnUVNvdMKqxx2af"
-      },
-      "artists": [
-        {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
-        },
-        {
-          "name": "George Rhoads",
-          "url": "https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y"
-        }
-      ],
-      "duration_ms": 203250,
-      "name": "Aqu\u00ed seguimos",
-      "url": "https://open.spotify.com/track/4Rar7xh8FOl8N50d4i4IL8"
-    },
-    {
       "added_at": "2022-03-30 03:09:53",
       "album": {
         "name": "El Sonido Nuevo de",
@@ -1069,20 +1065,24 @@
       "url": "https://open.spotify.com/track/6KkwQNxduqthj40TlNVD1j"
     },
     {
-      "added_at": "2022-09-07 01:11:32",
+      "added_at": "2022-03-03 23:20:33",
       "album": {
-        "name": "Manifest Tone EP",
-        "url": "https://open.spotify.com/album/71r1Tt7DmwZejC8ONXC1k5"
+        "name": "Aqu\u00ed seguimos",
+        "url": "https://open.spotify.com/album/5uclJItFnUVNvdMKqxx2af"
       },
       "artists": [
         {
-          "name": "Chico Mann",
-          "url": "https://open.spotify.com/artist/2Wt6Q6ZHygCPVtMO3uxLGB"
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+        },
+        {
+          "name": "George Rhoads",
+          "url": "https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y"
         }
       ],
-      "duration_ms": 255435,
-      "name": "Dilo Como Yo (Te Est\u00e1n Llamando)",
-      "url": "https://open.spotify.com/track/3tz4X9gO0l6lOoh4ZvK7xg"
+      "duration_ms": 203250,
+      "name": "Aqu\u00ed seguimos",
+      "url": "https://open.spotify.com/track/4Rar7xh8FOl8N50d4i4IL8"
     },
     {
       "added_at": "2022-02-25 02:12:10",
@@ -1197,22 +1197,6 @@
       "url": "https://open.spotify.com/track/2AmjYY3ZCmMeIYnvXQZokj"
     },
     {
-      "added_at": "2022-07-25 03:37:28",
-      "album": {
-        "name": "Contenta",
-        "url": "https://open.spotify.com/album/2XHxduFZv2HYNcMwkRgqbQ"
-      },
-      "artists": [
-        {
-          "name": "Malamala",
-          "url": "https://open.spotify.com/artist/7EAwWrnvpx4foTEroZDtHl"
-        }
-      ],
-      "duration_ms": 215347,
-      "name": "Contenta",
-      "url": "https://open.spotify.com/track/16bjBse3S06ZoyyZ7CqBWE"
-    },
-    {
       "added_at": "2021-11-10 05:48:01",
       "album": {
         "name": "Guerrera",
@@ -1227,6 +1211,22 @@
       "duration_ms": 251739,
       "name": "Guerrera",
       "url": "https://open.spotify.com/track/3SXXaaifuIWCaqAwopfPmY"
+    },
+    {
+      "added_at": "2022-07-25 03:37:28",
+      "album": {
+        "name": "Contenta",
+        "url": "https://open.spotify.com/album/2XHxduFZv2HYNcMwkRgqbQ"
+      },
+      "artists": [
+        {
+          "name": "Malamala",
+          "url": "https://open.spotify.com/artist/7EAwWrnvpx4foTEroZDtHl"
+        }
+      ],
+      "duration_ms": 215347,
+      "name": "Contenta",
+      "url": "https://open.spotify.com/track/16bjBse3S06ZoyyZ7CqBWE"
     },
     {
       "added_at": "2021-10-05 16:26:53",
@@ -1249,20 +1249,20 @@
       "url": "https://open.spotify.com/track/4Ioz0P53jC1z6zVUcj12GW"
     },
     {
-      "added_at": "2022-08-08 21:56:18",
+      "added_at": "2022-04-09 05:10:17",
       "album": {
-        "name": "Marineros",
-        "url": "https://open.spotify.com/album/0fJJS7pmFtmEH5Lrfneny0"
+        "name": "El Mirador",
+        "url": "https://open.spotify.com/album/63AiuIrU9tVW6o0UuAJMtV"
       },
       "artists": [
         {
-          "name": "Ulises Hadjis",
-          "url": "https://open.spotify.com/artist/5Udwg8yiCTj2zTRt8zKRWH"
+          "name": "Calexico",
+          "url": "https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ"
         }
       ],
-      "duration_ms": 128371,
-      "name": "Marineros",
-      "url": "https://open.spotify.com/track/1TIyjwt0Q7tOe99lu1SjRA"
+      "duration_ms": 237533,
+      "name": "Cumbia Peninsula",
+      "url": "https://open.spotify.com/track/7eL3GDrQqEokDmc6l9fKhK"
     },
     {
       "added_at": "2022-03-17 00:23:15",
@@ -1281,20 +1281,20 @@
       "url": "https://open.spotify.com/track/4JnUNSoH5576ZKA9CPLQhD"
     },
     {
-      "added_at": "2022-04-09 05:10:17",
+      "added_at": "2022-08-08 21:56:18",
       "album": {
-        "name": "El Mirador",
-        "url": "https://open.spotify.com/album/63AiuIrU9tVW6o0UuAJMtV"
+        "name": "Marineros",
+        "url": "https://open.spotify.com/album/0fJJS7pmFtmEH5Lrfneny0"
       },
       "artists": [
         {
-          "name": "Calexico",
-          "url": "https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ"
+          "name": "Ulises Hadjis",
+          "url": "https://open.spotify.com/artist/5Udwg8yiCTj2zTRt8zKRWH"
         }
       ],
-      "duration_ms": 237533,
-      "name": "Cumbia Peninsula",
-      "url": "https://open.spotify.com/track/7eL3GDrQqEokDmc6l9fKhK"
+      "duration_ms": 128371,
+      "name": "Marineros",
+      "url": "https://open.spotify.com/track/1TIyjwt0Q7tOe99lu1SjRA"
     },
     {
       "added_at": "2022-07-13 15:48:37",
@@ -1557,6 +1557,22 @@
       "url": "https://open.spotify.com/track/6W4efD0hmXfQH2nTl00Fqv"
     },
     {
+      "added_at": "2022-04-20 05:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1KFVMgFxBDhf1fprYdbxHl"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 209746,
+      "name": "Clandestina - Spotify Singles",
+      "url": "https://open.spotify.com/track/1Oie9uASbo83OrEkZ2whEM"
+    },
+    {
       "added_at": "2022-04-05 15:50:31",
       "album": {
         "name": "ELCANO",
@@ -1723,22 +1739,6 @@
       "duration_ms": 297110,
       "name": "A Los Arboles (feat. Raag)",
       "url": "https://open.spotify.com/track/22zFpd7tQthAeefRmxIxac"
-    },
-    {
-      "added_at": "2022-04-20 05:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1KFVMgFxBDhf1fprYdbxHl"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 209746,
-      "name": "Clandestina - Spotify Singles",
-      "url": "https://open.spotify.com/track/1Oie9uASbo83OrEkZ2whEM"
     },
     {
       "added_at": "2021-10-05 16:26:53",

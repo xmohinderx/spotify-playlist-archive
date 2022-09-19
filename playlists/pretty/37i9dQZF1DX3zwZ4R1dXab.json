@@ -1,12 +1,12 @@
 {
   "description": "Songs and episodes to help calm your mind, co curated by Clinical psychologist 'Sonali Gupta'.",
-  "num_followers": 33,
+  "num_followers": 53,
   "original_name": "PAUSE: Anxiety",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzI0MDY5NiwwMDAwMDAwMGI3ZTAyNmY4OWQxMmZlNWQ4MTBkMGI4NDRkNjEwN2Jm",
+  "snapshot_id": "MTY2MzI0MDY5NiwwMDAwMDAwMGViZDJlNDJmMDgzYjhkYTA0MDhhZDRiNzlkOTU0YjU3",
   "tracks": [
     {
       "added_at": "2022-09-15 11:18:16",
@@ -531,18 +531,18 @@
     {
       "added_at": "2022-09-15 11:18:16",
       "album": {
-        "name": "Fr\u00fch",
-        "url": "https://open.spotify.com/album/6rYq4871w4zJ9YrD5xmYIL"
+        "name": "Flavor",
+        "url": "https://open.spotify.com/album/0NT0x4d7phtQvOmamC84Dy"
       },
       "artists": [
         {
-          "name": "Franz Ewer",
-          "url": "https://open.spotify.com/artist/7p9jnrJ98pQ5CCOzhUt6wu"
+          "name": "Summerfields",
+          "url": "https://open.spotify.com/artist/2HuLMxBIMhZuG7QcmfM8b4"
         }
       ],
-      "duration_ms": 127217,
-      "name": "Fr\u00fch",
-      "url": "https://open.spotify.com/track/7J6nPXzpkCcAOdVgCkCNtM"
+      "duration_ms": 152727,
+      "name": "Flavor",
+      "url": "https://open.spotify.com/track/2CAHNVbtpBejt51a6ZdQ2Q"
     },
     {
       "added_at": "2022-09-15 11:18:16",
@@ -563,18 +563,34 @@
     {
       "added_at": "2022-09-15 11:18:16",
       "album": {
-        "name": "Flavor",
-        "url": "https://open.spotify.com/album/0NT0x4d7phtQvOmamC84Dy"
+        "name": "Fr\u00fch",
+        "url": "https://open.spotify.com/album/6rYq4871w4zJ9YrD5xmYIL"
       },
       "artists": [
         {
-          "name": "Summerfields",
-          "url": "https://open.spotify.com/artist/2HuLMxBIMhZuG7QcmfM8b4"
+          "name": "Franz Ewer",
+          "url": "https://open.spotify.com/artist/7p9jnrJ98pQ5CCOzhUt6wu"
         }
       ],
-      "duration_ms": 152727,
-      "name": "Flavor",
-      "url": "https://open.spotify.com/track/2CAHNVbtpBejt51a6ZdQ2Q"
+      "duration_ms": 127217,
+      "name": "Fr\u00fch",
+      "url": "https://open.spotify.com/track/7J6nPXzpkCcAOdVgCkCNtM"
+    },
+    {
+      "added_at": "2022-09-15 11:18:16",
+      "album": {
+        "name": "It's Alright",
+        "url": "https://open.spotify.com/album/5sxieYVKKC6kvgIdKmByyI"
+      },
+      "artists": [
+        {
+          "name": "Cecilia Castleman",
+          "url": "https://open.spotify.com/artist/6yB7WddQdPHwbyQpKl1qOH"
+        }
+      ],
+      "duration_ms": 248210,
+      "name": "It's Alright",
+      "url": "https://open.spotify.com/track/67LEdY2HlgEWNnrdaPyYpK"
     },
     {
       "added_at": "2022-09-15 11:18:16",
@@ -607,22 +623,6 @@
       "duration_ms": 166487,
       "name": "Persistence",
       "url": "https://open.spotify.com/track/3ZAlpXJWeKniBrqSMffs0j"
-    },
-    {
-      "added_at": "2022-09-15 11:18:16",
-      "album": {
-        "name": "It's Alright",
-        "url": "https://open.spotify.com/album/5sxieYVKKC6kvgIdKmByyI"
-      },
-      "artists": [
-        {
-          "name": "Cecilia Castleman",
-          "url": "https://open.spotify.com/artist/6yB7WddQdPHwbyQpKl1qOH"
-        }
-      ],
-      "duration_ms": 248210,
-      "name": "It's Alright",
-      "url": "https://open.spotify.com/track/67LEdY2HlgEWNnrdaPyYpK"
     },
     {
       "added_at": "2022-09-15 11:18:16",
@@ -899,22 +899,6 @@
     {
       "added_at": "2022-09-15 11:18:16",
       "album": {
-        "name": "Space And Time",
-        "url": "https://open.spotify.com/album/5RpZBi2zTH4WjK7AWc5OzN"
-      },
-      "artists": [
-        {
-          "name": "Lake Geneva",
-          "url": "https://open.spotify.com/artist/6CcMV3fTlrJ4ECazXDdOA9"
-        }
-      ],
-      "duration_ms": 145898,
-      "name": "Space And Time",
-      "url": "https://open.spotify.com/track/2WlKoxl8hJiuOgKolOH3WR"
-    },
-    {
-      "added_at": "2022-09-15 11:18:16",
-      "album": {
         "name": "Papperssvalan",
         "url": "https://open.spotify.com/album/2Qg3Na5QnWlPFJf0O2CiWV"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 153000,
       "name": "Papperssvalan",
       "url": "https://open.spotify.com/track/537FP4rNU5SILZ5uWF2zDi"
+    },
+    {
+      "added_at": "2022-09-15 11:18:16",
+      "album": {
+        "name": "Space And Time",
+        "url": "https://open.spotify.com/album/5RpZBi2zTH4WjK7AWc5OzN"
+      },
+      "artists": [
+        {
+          "name": "Lake Geneva",
+          "url": "https://open.spotify.com/artist/6CcMV3fTlrJ4ECazXDdOA9"
+        }
+      ],
+      "duration_ms": 145898,
+      "name": "Space And Time",
+      "url": "https://open.spotify.com/track/2WlKoxl8hJiuOgKolOH3WR"
     },
     {
       "added_at": "2022-09-15 11:18:16",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2022-09-15 11:18:16",
       "album": {
+        "name": "Vejlefjord",
+        "url": "https://open.spotify.com/album/1gt84E4kL8DdnXW1XlclX4"
+      },
+      "artists": [
+        {
+          "name": "Rasmus H Thomsen",
+          "url": "https://open.spotify.com/artist/42jjk371b9jW9zsmrMls10"
+        }
+      ],
+      "duration_ms": 134067,
+      "name": "Vejlefjord",
+      "url": "https://open.spotify.com/track/6ff7MgoSLL9Cxi3t2qYVnA"
+    },
+    {
+      "added_at": "2022-09-15 11:18:16",
+      "album": {
         "name": "P.S. I'm Still Here",
         "url": "https://open.spotify.com/album/3c1UFkkA7goX16ZYoHawV1"
       },
@@ -1071,6 +1087,22 @@
       "duration_ms": 105577,
       "name": "While You Were Sleeping",
       "url": "https://open.spotify.com/track/54wC2ics8RCpQGYoB516Qs"
+    },
+    {
+      "added_at": "2022-09-15 11:18:16",
+      "album": {
+        "name": "Story Time",
+        "url": "https://open.spotify.com/album/0v547nlB4ydYCt26HXGxIl"
+      },
+      "artists": [
+        {
+          "name": "Jackson Love",
+          "url": "https://open.spotify.com/artist/1UgWMZAdp3B83W5kgT6QEC"
+        }
+      ],
+      "duration_ms": 129095,
+      "name": "Story Time",
+      "url": "https://open.spotify.com/track/0cDZCWdR8bTlp7QRaBXBYD"
     },
     {
       "added_at": "2022-09-15 11:18:16",
@@ -1107,22 +1139,6 @@
     {
       "added_at": "2022-09-15 11:18:16",
       "album": {
-        "name": "Vejlefjord",
-        "url": "https://open.spotify.com/album/1gt84E4kL8DdnXW1XlclX4"
-      },
-      "artists": [
-        {
-          "name": "Rasmus H Thomsen",
-          "url": "https://open.spotify.com/artist/42jjk371b9jW9zsmrMls10"
-        }
-      ],
-      "duration_ms": 134067,
-      "name": "Vejlefjord",
-      "url": "https://open.spotify.com/track/6ff7MgoSLL9Cxi3t2qYVnA"
-    },
-    {
-      "added_at": "2022-09-15 11:18:16",
-      "album": {
         "name": "Night Light",
         "url": "https://open.spotify.com/album/2q4lhQVfht53WO9uwkJYIr"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 150199,
       "name": "Night Light",
       "url": "https://open.spotify.com/track/4iRBjXN9x4UdOrT9c6sSsL"
-    },
-    {
-      "added_at": "2022-09-15 11:18:16",
-      "album": {
-        "name": "Story Time",
-        "url": "https://open.spotify.com/album/0v547nlB4ydYCt26HXGxIl"
-      },
-      "artists": [
-        {
-          "name": "Jackson Love",
-          "url": "https://open.spotify.com/artist/1UgWMZAdp3B83W5kgT6QEC"
-        }
-      ],
-      "duration_ms": 129095,
-      "name": "Story Time",
-      "url": "https://open.spotify.com/track/0cDZCWdR8bTlp7QRaBXBYD"
     },
     {
       "added_at": "2022-09-15 11:18:16",

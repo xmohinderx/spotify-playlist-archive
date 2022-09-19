@@ -4,7 +4,7 @@
 
 > Pop Acústico para tu día.
 
-160 songs - 9 hr 48 min - [published](https://open.spotify.com/playlist/4u1h06ki2j7GNHTZCGcFb9)
+162 songs - 9 hr 55 min - [published](https://open.spotify.com/playlist/4u1h06ki2j7GNHTZCGcFb9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [Mp3](https://open.spotify.com/track/0PWLHDSK39Kh8Adc83Ltw6) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT) | [Mp3](https://open.spotify.com/album/3dwG8Qc0o6b63lBFT4jqPd) | 3:01 | 2021-12-16 |  |
 | [Nada Valgo Sin Tu Amor \- MTV Unplugged](https://open.spotify.com/track/1AKE3Z5LNDH1AzMwuxaOW9) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Tr3s Presents Juanes MTV Unplugged](https://open.spotify.com/album/6Zy2wrvOOW0sxTWy7nF9BH) | 3:44 | 2021-12-16 |  |
 | [Navegando](https://open.spotify.com/track/7n0vJaSOM87pMqIIQWxoIh) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contento](https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9) | 2:59 | 2022-08-05 |  |
-| [Ni Tú Ni Yo \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3SGYaD6fFdjAKdju5LM2p1) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Spotify Singles](https://open.spotify.com/album/0Y808JJyzRr0gXTNNDL2bA) | 3:37 | 2021-12-16 |  |
+| [Ni Tú Ni Yo \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3SGYaD6fFdjAKdju5LM2p1) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Spotify Singles](https://open.spotify.com/album/0Y808JJyzRr0gXTNNDL2bA) | 3:37 | 2021-12-16 | 2022-09-19 |
 | [No Ha Parado De Llover \- Unplugged](https://open.spotify.com/track/7fJKZAezCzADUYPX7IJf7L) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [MTV Unplugged](https://open.spotify.com/album/2uhUNyt2jQ4JdtJmWynza2) | 6:40 | 2021-12-16 |  |
 | [No Lo Soñé \- Version Acustico](https://open.spotify.com/track/6chtkBSmt7RorTFD8EQtXx) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [Mis Favoritas](https://open.spotify.com/album/0COUHCrbpLcVNCI8ITVMhi) | 4:41 | 2021-12-16 |  |
 | [No Valgo Pa' Ciudad](https://open.spotify.com/track/4rf696AmoiPsggWktpSyX5) | [Paul Alone](https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE) | [No Valgo Pa' Ciudad](https://open.spotify.com/album/6inO88KEzGOsZxOYAvRsr2) | 3:06 | 2021-12-16 |  |
@@ -109,6 +109,7 @@
 | [pa' que sueñes](https://open.spotify.com/track/4KuSic9vPLVLgB5lCfeFQy) | [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1), [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC), [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [pa' que sueñes](https://open.spotify.com/album/1bGXKrzpyFq1TVzNOr6Fbq) | 2:50 | 2021-12-16 |  |
 | [Paciencia](https://open.spotify.com/track/4vSRCnFOAIsBJLAbpjPoVY) | [Kora](https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD) | [01](https://open.spotify.com/album/79LAYJa8qdSO7mUFIptXkm) | 3:29 | 2021-12-16 | 2022-07-28 |
 | [Paciencia](https://open.spotify.com/track/6hYidRx2EkQ39bmZHvqqaI) | [Kora](https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD) | [01 \- EP](https://open.spotify.com/album/1fRIsWiGXf323M5E1Ngqoy) | 3:29 | 2022-06-07 |  |
+| [Para Siempre](https://open.spotify.com/track/2CwOQJ5gCpn1MgQqyTna5d) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Para Siempre](https://open.spotify.com/album/4S960SG2fqdAUmVGfcmwCQ) | 3:21 | 2022-08-05 |  |
 | [Para Siempre](https://open.spotify.com/track/5Fc0FUbxgQlC9ZBAb6ffYt) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Para Siempre](https://open.spotify.com/album/6bFYJSjxE8O1LBSBtOwU4l) | 3:21 | 2021-12-16 | 2022-09-15 |
 | [Para Verte](https://open.spotify.com/track/4aiIi5Nn7EdDhoiw5DywDk) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Para Verte](https://open.spotify.com/album/43b9yizo1mckUfWgItr7nk) | 3:02 | 2021-12-16 |  |
 | [Pasos de cero \- Live from Spotify NYC](https://open.spotify.com/track/4SsgDQo4lLoFKbfoWhf5hh) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Pablo Alborán Spotify Sessions](https://open.spotify.com/album/2MvBTwo2wis5ucqYxOJANe) | 4:26 | 2021-12-16 |  |
@@ -129,6 +130,7 @@
 | [Saudade \- Acústica](https://open.spotify.com/track/5dhNc7vLnc3nQGyZRDAAl6) | [Anakena](https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo), [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ), [José y el Toro](https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex), [Los Hermanos Naturales](https://open.spotify.com/artist/39lujDF8rpAX4ezy70mTfx) | [Saudade \(Acústica\)](https://open.spotify.com/album/377XRcQ64pFZEyoRtJfPlT) | 4:56 | 2021-12-16 | 2022-07-29 |
 | [Saudade \- Acústica](https://open.spotify.com/track/0hMDCdTgDI01LKtiMjPdAV) | [Anakena](https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo), [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ), [Los Hermanos Naturales](https://open.spotify.com/artist/39lujDF8rpAX4ezy70mTfx), [José y el Toro](https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex) | [Saudade \(Acústica\)](https://open.spotify.com/album/5msxr0FMU7qHRbpUdAEWCg) | 4:56 | 2022-06-07 |  |
 | [Saudade \- Versión Acústica](https://open.spotify.com/track/6bBLBYvXLXDNvpxX6ZcGn0) | [Ale Aguirre](https://open.spotify.com/artist/4wShOBFUmcgdpWRF5v6KIS) | [Saudade \(Versión Acústica\)](https://open.spotify.com/album/5xc4bjwFbmiCkJkgUvIjeG) | 3:58 | 2021-12-16 |  |
+| [Ser De Ti](https://open.spotify.com/track/0i9GosFgbI0w0YLM8DLR2u) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi) | 3:27 | 2022-08-05 |  |
 | [Ser De Ti](https://open.spotify.com/track/2E7zPND4kJd1y3KSWez0ET) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/34e3bWZtXnZl19dJYOx6zE) | 3:27 | 2022-01-26 | 2022-09-15 |
 | [Ser Guitarra](https://open.spotify.com/track/6mtNyMwmlwy8kMq3NsWa6q) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Ser Guitarra](https://open.spotify.com/album/3xZM5pC6lmpRMXnTPSeLJZ) | 2:59 | 2021-12-16 |  |
 | [Si hubieras querido \- Versión acústica](https://open.spotify.com/track/4yskXqxwdX1zcFb7AvRUB0) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Vértigo](https://open.spotify.com/album/3rMqrzAwB0tLlsA9Zrd46L) | 3:15 | 2021-12-16 |  |
@@ -165,7 +167,7 @@
 | [Vivir Sin Aire \- Unplugged](https://open.spotify.com/track/6ccgxTZ8boW6g80rXPplS6) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [MTV Unplugged](https://open.spotify.com/album/2uhUNyt2jQ4JdtJmWynza2) | 5:44 | 2021-12-16 |  |
 | [Volverte A Ver \- MTV Unplugged](https://open.spotify.com/track/5ZGKfUrzXHHn3JIn2hfKV0) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Tr3s Presents Juanes MTV Unplugged](https://open.spotify.com/album/6Zy2wrvOOW0sxTWy7nF9BH) | 4:29 | 2021-12-16 |  |
 | [Volví a Nacer \- Live from Spotify](https://open.spotify.com/track/3BEuTuiAgJLROYMELwLujm) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Spotify Sessions](https://open.spotify.com/album/1t3e3Py0eA1SPRC1vETI3i) | 4:18 | 2021-12-16 |  |
-| [Voy Cantando](https://open.spotify.com/track/0iROP0Xo315A0ImonYR499) | [Andrés Obregón](https://open.spotify.com/artist/0AQMbCYt6y84wEHGzScKve) | [Voy Cantando](https://open.spotify.com/album/27rvAk3yuyxiv5cdKihsXY) | 4:22 | 2021-12-16 |  |
+| [Voy Cantando](https://open.spotify.com/track/0iROP0Xo315A0ImonYR499) | [Andrés Obregón](https://open.spotify.com/artist/0AQMbCYt6y84wEHGzScKve) | [Voy Cantando](https://open.spotify.com/album/27rvAk3yuyxiv5cdKihsXY) | 4:22 | 2021-12-16 | 2022-09-19 |
 | [¡Que Bonito!](https://open.spotify.com/track/1MO5KuLnSaY1dlkWGDjHkT) | [Rosario](https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW) | [Mucho Por Vivir](https://open.spotify.com/album/4lqmri54Jap1lOS7FthZrh) | 3:49 | 2021-12-16 | 2022-05-20 |
 | [¿Te Ha Pasado?](https://open.spotify.com/track/6MPmTzi1FdDKu3yhfhVd1Y) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT), [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq), [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [La Mexicana](https://open.spotify.com/album/3jvseqHtHdkQXMWDjsoT4C) | 2:43 | 2021-12-16 |  |
 

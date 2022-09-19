@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-510 songs - 1 day 2 hr 6 min - [published](https://open.spotify.com/playlist/20TNv9NLPUqb3L0SIWXCbw)
+511 songs - 1 day 2 hr 9 min - [published](https://open.spotify.com/playlist/20TNv9NLPUqb3L0SIWXCbw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -298,7 +298,7 @@
 | [kördüğüm](https://open.spotify.com/track/7Hfb93mB78H7HnZobmjtzt) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ), [Jako](https://open.spotify.com/artist/4kpqHcVwTcRhrNTAB66li4) | [kördüğüm](https://open.spotify.com/album/6pqAUxzCSQaZl6RC2zHcDK) | 2:46 | 2022-08-20 |  |
 | [Kül](https://open.spotify.com/track/5NPg92vbjaGk4q9mh7MMEM) | [Cem Adrian](https://open.spotify.com/artist/2AWUCT9xtcvkjpFq1ZgpPj), [Mark Eliyahu](https://open.spotify.com/artist/7k6KVFItaU7pcBvL6poIi9) | [Kül](https://open.spotify.com/album/1cwzjSTuLXEf2L0XcutndQ) | 4:54 | 2021-03-27\* | 2022-04-17 |
 | [KÜLÜ KALDI](https://open.spotify.com/track/1r0PLedFwwsxU394jUdNQ3) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Doğa](https://open.spotify.com/artist/1ssHZfyjdFYWwWjebQoXeV) | [22](https://open.spotify.com/album/3rLonfO60rC52gkXQzy7TW) | 2:20 | 2022-01-22 | 2022-01-28 |
-| [Küçük Bir Yol](https://open.spotify.com/track/6KybXlftuqmAxRI05yqDfk) | [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49) | [Küçük Bir Yol](https://open.spotify.com/album/7jaKipywn8miD34MQ6G946) | 4:40 | 2022-09-09 |  |
+| [Küçük Bir Yol](https://open.spotify.com/track/6KybXlftuqmAxRI05yqDfk) | [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49) | [Küçük Bir Yol](https://open.spotify.com/album/7jaKipywn8miD34MQ6G946) | 4:40 | 2022-09-09 | 2022-09-19 |
 | [LALISA](https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 3:20 | 2021-09-12 | 2021-09-15 |
 | [LE CANE](https://open.spotify.com/track/03S0moTUyxwtznCNWOreb4) | [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Critical](https://open.spotify.com/artist/6dOAGo4z0syiCjbnlh4VSO), [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca) | [LE CANE](https://open.spotify.com/album/6xdKUwHPi18XDPbymocoVM) | 4:16 | 2021-07-18 | 2021-10-24 |
 | [Levitating \(feat\. DaBaby\)](https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Future Nostalgia](https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9) | 3:23 | 2021-05-06 | 2021-07-22 |
@@ -316,7 +316,7 @@
 | [Lütfen](https://open.spotify.com/track/6AVblFcGxnVp66PUmIcRIf) | [Straed](https://open.spotify.com/artist/1DBOwwrhpygRVJs6QKTtIA) | [Lütfen](https://open.spotify.com/album/1f4PePKL0J3waEvNsUP9J8) | 2:27 | 2021-08-20 | 2021-08-21 |
 | [Mahvettim](https://open.spotify.com/track/1GWxwShcDEdSvlr0jcpYI1) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Mahvettim](https://open.spotify.com/album/3hrus3W40mGxVJRPRKHrrP) | 2:36 | 2021-10-31 | 2022-01-05 |
 | [Mahvettim](https://open.spotify.com/track/1ji6PoTBfVXqycvsXdgZgp) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Mahvettim](https://open.spotify.com/album/6MYYIeblEVcAdUyFqIRIIq) | 2:36 | 2021-10-30 | 2022-05-13 |
-| [Mahşer](https://open.spotify.com/track/2RehF0hYbLDGxLTvjL0Xy6) | [Gökhan Türkmen](https://open.spotify.com/artist/4uGB0nZ5d1iCXS3sHR3pzm) | [Mahşer](https://open.spotify.com/album/6feh1gWrVrm2mCgHrCUTyN) | 4:31 | 2022-04-12 |  |
+| [Mahşer](https://open.spotify.com/track/2RehF0hYbLDGxLTvjL0Xy6) | [Gökhan Türkmen](https://open.spotify.com/artist/4uGB0nZ5d1iCXS3sHR3pzm) | [Mahşer](https://open.spotify.com/album/6feh1gWrVrm2mCgHrCUTyN) | 4:31 | 2022-04-12 | 2022-09-19 |
 | [MAKARON \- LÉ ORIGINAL](https://open.spotify.com/track/1Nq0FjJsVR06EYNZcyCvIG) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [22](https://open.spotify.com/album/3rLonfO60rC52gkXQzy7TW) | 2:57 | 2022-01-22 | 2022-01-26 |
 | [Makina](https://open.spotify.com/track/5jvhTc0g18kwYQNUJM5C4e) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [Kan](https://open.spotify.com/album/3IBcauSj5M2A6lTeffJzdv) | 3:31 | 2021-03-27\* | 2022-03-30 |
 | [Marlon Brando](https://open.spotify.com/track/0O2zRCntGYssJk4bGn6dXk) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Marlon Brando](https://open.spotify.com/album/746vxoUmfdqRya2d924CPj) | 3:30 | 2021-05-09 | 2021-05-23 |
@@ -372,7 +372,7 @@
 | [Outro](https://open.spotify.com/track/4PUniKS3Cywu23xjdtoji5) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [Kan](https://open.spotify.com/album/3IBcauSj5M2A6lTeffJzdv) | 3:12 | 2022-07-26 | 2022-07-31 |
 | [Pablo](https://open.spotify.com/track/4HWiQoV1HUI9o6FM1JbACh) | [Alper Eğri](https://open.spotify.com/artist/6Vm1tmhfZEa9INOt0sr4WX) | [Pablo](https://open.spotify.com/album/2UyNjwz3DvM2GhxsCdZcbM) | 3:42 | 2021-05-09 | 2021-05-13 |
 | [Papa Rose](https://open.spotify.com/track/38CwybVk0CqbTovp3aWtEZ) | [Clower](https://open.spotify.com/artist/0AnmijrLwTOeEp0DqafMr6) | [Papa Rose](https://open.spotify.com/album/1lHssSEP0HCgDZ4lYED9Wg) | 2:28 | 2022-01-30 | 2022-03-05 |
-| [PAPARAZZI](https://open.spotify.com/track/6gxLEbRJlorva6uVRW4gof) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [PAPARAZZI](https://open.spotify.com/album/24SMyN5zmpqjgtlnfbErTP) | 2:44 | 2021-11-21 | 2022-09-15 |
+| [PAPARAZZI](https://open.spotify.com/track/6gxLEbRJlorva6uVRW4gof) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [PAPARAZZI](https://open.spotify.com/album/24SMyN5zmpqjgtlnfbErTP) | 2:44 | 2021-11-21 |  |
 | [PARA](https://open.spotify.com/track/47zsnWIPoPSjJhZoKp5h21) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Montiego](https://open.spotify.com/artist/1pMFoni6A1enu9OBmaanG2) | [PARA](https://open.spotify.com/album/01HicloONqEUMNfzzQkMP8) | 2:56 | 2022-05-07 |  |
 | [Paranoya](https://open.spotify.com/track/4a0SQDAwphKijSWUXMUEWA) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2), [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [Paranoya](https://open.spotify.com/album/4jm4N4jJ9NwzS15pfEpmpa) | 2:29 | 2022-02-19 | 2022-03-07 |
 | [Pare](https://open.spotify.com/track/1qv3dJD70eC9mnIZnofWwP) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Pare](https://open.spotify.com/album/1aK2P7TMEkl5P12tl2RujI) | 2:54 | 2021-11-14 | 2022-01-15 |
@@ -388,6 +388,7 @@
 | [Peşimde](https://open.spotify.com/track/5G5CKxNBvl6FRqNdVnmJUC) | [Kerimcan Durmaz](https://open.spotify.com/artist/6SuvCvIgTchPW2bcuXSKzM) | [Peşimde](https://open.spotify.com/album/5FAaYhLsDUf4zlwd2kWcHm) | 2:56 | 2021-03-27\* | 2021-05-05 |
 | [Peşimde Kara Geceler](https://open.spotify.com/track/0kb45bLkER1V0gcu2rnw69) | [Şanışer](https://open.spotify.com/artist/5LUxu287CsPM7jy3yS3l86) | [Peşimde Kara Geceler](https://open.spotify.com/album/2o7SQ9Prx0iwQy73EZxaPT) | 3:05 | 2021-03-27 | 2021-04-04 |
 | [Pink Venom](https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Pink Venom](https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1) | 3:06 | 2022-08-20 | 2022-09-03 |
+| [Pink Venom](https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 3:06 | 2022-09-18 |  |
 | [Piç Ettim](https://open.spotify.com/track/4APPiwxp3kcrchK36JIrkg) | [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7) | [Kara Tiyatro](https://open.spotify.com/album/2XAdcXHwb3SnZLmr0z2eTe) | 3:00 | 2021-05-30 | 2021-05-31 |
 | [PİŞMAN](https://open.spotify.com/track/72y2nRWQqjXNqlq5vASeKt) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [PİŞMAN](https://open.spotify.com/album/2Lljdvhyiw9Bh6Vhvap8Fm) | 2:29 | 2021-09-15 | 2021-09-18 |
 | [Porselen Kalbim](https://open.spotify.com/track/7z5rmdisSV8GmWCnrOd1HU) | [Sena Şener](https://open.spotify.com/artist/7CW2eGwAuElNq09rVtZYsM) | [Porselen Kalbim](https://open.spotify.com/album/2TYt9I16VcjqPaSxJXYTLD) | 5:15 | 2022-06-01 | 2022-09-11 |

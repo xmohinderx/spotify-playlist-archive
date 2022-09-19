@@ -1,12 +1,12 @@
 {
   "description": "The irresistible rhythms of Latin jazz. Cover: Tito Puente",
-  "num_followers": 476454,
+  "num_followers": 476567,
   "original_name": "Latin Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkzMDI4MCwwMDAwMDAwMDBjMWFjZDgzYWMzYjVlMGViYjRjYTllNTNiOTMwM2Ey",
+  "snapshot_id": "MTY2MTkzMDI4MCwwMDAwMDAwMDdjZTU3MTAyODIzZTRjY2NhM2U2YWZjNGM1YTAzOTY1",
   "tracks": [
     {
       "added_at": "2022-08-31 07:18:00",
@@ -331,22 +331,6 @@
     {
       "added_at": "2022-08-31 07:18:00",
       "album": {
-        "name": "Our Man In Havana",
-        "url": "https://open.spotify.com/album/2f4PCFmP4AM3PvkC9JcDDN"
-      },
-      "artists": [
-        {
-          "name": "Mongo Santamaria",
-          "url": "https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0"
-        }
-      ],
-      "duration_ms": 183800,
-      "name": "Linda Guajira",
-      "url": "https://open.spotify.com/track/1Ml7gX2S2UVzB1K32puq4W"
-    },
-    {
-      "added_at": "2022-08-31 07:18:00",
-      "album": {
         "name": "Good Morning Heartache",
         "url": "https://open.spotify.com/album/1pQVULMV34Hv31Zv5zbGsR"
       },
@@ -375,6 +359,22 @@
     {
       "added_at": "2022-08-31 07:18:00",
       "album": {
+        "name": "Our Man In Havana",
+        "url": "https://open.spotify.com/album/2f4PCFmP4AM3PvkC9JcDDN"
+      },
+      "artists": [
+        {
+          "name": "Mongo Santamaria",
+          "url": "https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0"
+        }
+      ],
+      "duration_ms": 183800,
+      "name": "Linda Guajira",
+      "url": "https://open.spotify.com/track/1Ml7gX2S2UVzB1K32puq4W"
+    },
+    {
+      "added_at": "2022-08-31 07:18:00",
+      "album": {
         "name": "Spanish Rice",
         "url": "https://open.spotify.com/album/2RW3cLeqHhdg7nm1hJas0s"
       },
@@ -391,38 +391,6 @@
       "duration_ms": 164413,
       "name": "Spanish Rice",
       "url": "https://open.spotify.com/track/4TL9D8z4NFwMWjQa3lucIG"
-    },
-    {
-      "added_at": "2022-08-31 07:18:00",
-      "album": {
-        "name": "Herb Alpert Presents",
-        "url": "https://open.spotify.com/album/1mCGVMMa6TQzjxrrC0jcBN"
-      },
-      "artists": [
-        {
-          "name": "Sergio Mendes & Brasil '66",
-          "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
-        }
-      ],
-      "duration_ms": 149453,
-      "name": "Agua De Beber",
-      "url": "https://open.spotify.com/track/6WniximOsNpUYr6HL6fiTz"
-    },
-    {
-      "added_at": "2022-08-31 07:18:00",
-      "album": {
-        "name": "El ultimo trago (con la colaboracion de Chucho Valdes)",
-        "url": "https://open.spotify.com/album/5NDGvVTYJo4Id7MTeOHLUL"
-      },
-      "artists": [
-        {
-          "name": "Buika",
-          "url": "https://open.spotify.com/artist/1gbXoccc8bjK8eUh92mILy"
-        }
-      ],
-      "duration_ms": 170986,
-      "name": "Soledad - con la colaboraci\u00f3n de Chucho Vald\u00e9s",
-      "url": "https://open.spotify.com/track/7jNaYAIxAWtx3RCmHYLsv3"
     },
     {
       "added_at": "2022-08-31 07:18:00",
@@ -447,6 +415,38 @@
       "duration_ms": 491286,
       "name": "Pedro Navaja",
       "url": "https://open.spotify.com/track/7iQBflxrDWDvsIEDy8juLT"
+    },
+    {
+      "added_at": "2022-08-31 07:18:00",
+      "album": {
+        "name": "El ultimo trago (con la colaboracion de Chucho Valdes)",
+        "url": "https://open.spotify.com/album/5NDGvVTYJo4Id7MTeOHLUL"
+      },
+      "artists": [
+        {
+          "name": "Buika",
+          "url": "https://open.spotify.com/artist/1gbXoccc8bjK8eUh92mILy"
+        }
+      ],
+      "duration_ms": 170986,
+      "name": "Soledad - con la colaboraci\u00f3n de Chucho Vald\u00e9s",
+      "url": "https://open.spotify.com/track/7jNaYAIxAWtx3RCmHYLsv3"
+    },
+    {
+      "added_at": "2022-08-31 07:18:00",
+      "album": {
+        "name": "Herb Alpert Presents",
+        "url": "https://open.spotify.com/album/1mCGVMMa6TQzjxrrC0jcBN"
+      },
+      "artists": [
+        {
+          "name": "Sergio Mendes & Brasil '66",
+          "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
+        }
+      ],
+      "duration_ms": 149453,
+      "name": "Agua De Beber",
+      "url": "https://open.spotify.com/track/6WniximOsNpUYr6HL6fiTz"
     },
     {
       "added_at": "2022-08-31 07:18:00",
@@ -491,6 +491,22 @@
     {
       "added_at": "2022-08-31 07:18:00",
       "album": {
+        "name": "Talkin' Verve",
+        "url": "https://open.spotify.com/album/5tUnjO8Xd6oEhQ0E8Kp6WU"
+      },
+      "artists": [
+        {
+          "name": "Willie Bobo",
+          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
+        }
+      ],
+      "duration_ms": 160826,
+      "name": "Evil Ways",
+      "url": "https://open.spotify.com/track/6LoiJXXZuZejbG6VjmjzA4"
+    },
+    {
+      "added_at": "2022-08-31 07:18:00",
+      "album": {
         "name": "Noche de Amor",
         "url": "https://open.spotify.com/album/1NvVlQFSVOjr7w0Jh18VZ6"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 443874,
       "name": "Noche de Amor",
       "url": "https://open.spotify.com/track/1CYuo0OfQLSoqkaM8Hrrxt"
-    },
-    {
-      "added_at": "2022-08-31 07:18:00",
-      "album": {
-        "name": "Talkin' Verve",
-        "url": "https://open.spotify.com/album/5tUnjO8Xd6oEhQ0E8Kp6WU"
-      },
-      "artists": [
-        {
-          "name": "Willie Bobo",
-          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
-        }
-      ],
-      "duration_ms": 160826,
-      "name": "Evil Ways",
-      "url": "https://open.spotify.com/track/6LoiJXXZuZejbG6VjmjzA4"
     },
     {
       "added_at": "2022-08-31 07:18:00",
@@ -867,6 +867,22 @@
     {
       "added_at": "2022-08-31 07:18:00",
       "album": {
+        "name": "E Music",
+        "url": "https://open.spotify.com/album/40PuB9YHSod4WSW0Qkozh7"
+      },
+      "artists": [
+        {
+          "name": "Pete Escovedo",
+          "url": "https://open.spotify.com/artist/3EXBBqXojqnitE9lPX0uUZ"
+        }
+      ],
+      "duration_ms": 341066,
+      "name": "Te Vas",
+      "url": "https://open.spotify.com/track/40hvnBSpgJ9W6BsQe4v8UO"
+    },
+    {
+      "added_at": "2022-08-31 07:18:00",
+      "album": {
         "name": "To Know Without Knowing",
         "url": "https://open.spotify.com/album/1475ygGcXf7C3oQ4XMYkMX"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 380419,
       "name": "Mulatu",
       "url": "https://open.spotify.com/track/5dkCbFyJIZmaRst8E2eggt"
-    },
-    {
-      "added_at": "2022-08-31 07:18:00",
-      "album": {
-        "name": "E Music",
-        "url": "https://open.spotify.com/album/40PuB9YHSod4WSW0Qkozh7"
-      },
-      "artists": [
-        {
-          "name": "Pete Escovedo",
-          "url": "https://open.spotify.com/artist/3EXBBqXojqnitE9lPX0uUZ"
-        }
-      ],
-      "duration_ms": 341066,
-      "name": "Te Vas",
-      "url": "https://open.spotify.com/track/40hvnBSpgJ9W6BsQe4v8UO"
     },
     {
       "added_at": "2022-08-31 07:18:00",
@@ -923,26 +923,6 @@
     {
       "added_at": "2022-08-31 07:18:00",
       "album": {
-        "name": "SALSWING!",
-        "url": "https://open.spotify.com/album/32x8zlcKcIvDyZMNI104Kf"
-      },
-      "artists": [
-        {
-          "name": "Rub\u00e9n Blades",
-          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
-        },
-        {
-          "name": "Roberto Delgado & Orquesta",
-          "url": "https://open.spotify.com/artist/2BRXfbwZl8Rqv4Spi8kB8u"
-        }
-      ],
-      "duration_ms": 336947,
-      "name": "Paula C.",
-      "url": "https://open.spotify.com/track/7FZ5WSbcZxfq6ij4PZgzja"
-    },
-    {
-      "added_at": "2022-08-31 07:18:00",
-      "album": {
         "name": "Ivan Lins | Chucho Vald\u00e9s e Irakere",
         "url": "https://open.spotify.com/album/12nxvMgS8cQPZ3hZKnrj1s"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 517106,
       "name": "La Explosi\u00f3n (Instrumental) - Ao Vivo",
       "url": "https://open.spotify.com/track/460e8voeb8mHQA8kl4AQMq"
+    },
+    {
+      "added_at": "2022-08-31 07:18:00",
+      "album": {
+        "name": "SALSWING!",
+        "url": "https://open.spotify.com/album/32x8zlcKcIvDyZMNI104Kf"
+      },
+      "artists": [
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        },
+        {
+          "name": "Roberto Delgado & Orquesta",
+          "url": "https://open.spotify.com/artist/2BRXfbwZl8Rqv4Spi8kB8u"
+        }
+      ],
+      "duration_ms": 336947,
+      "name": "Paula C.",
+      "url": "https://open.spotify.com/track/7FZ5WSbcZxfq6ij4PZgzja"
     },
     {
       "added_at": "2022-08-31 07:18:00",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2022-08-31 07:18:00",
       "album": {
-        "name": "Selected Recordings",
-        "url": "https://open.spotify.com/album/1LS9waBhjOGB9BrQSwkp3b"
-      },
-      "artists": [
-        {
-          "name": "Chick Corea",
-          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
-        }
-      ],
-      "duration_ms": 541680,
-      "name": "La Fiesta",
-      "url": "https://open.spotify.com/track/5hGIRMjtrTpdMdTrZv4lh1"
-    },
-    {
-      "added_at": "2022-08-31 07:18:00",
-      "album": {
         "name": "Live in Cuba",
         "url": "https://open.spotify.com/album/2mLRfQqMxdiZSpUHnd0HKy"
       },
@@ -1095,6 +1079,22 @@
     {
       "added_at": "2022-08-31 07:18:00",
       "album": {
+        "name": "Selected Recordings",
+        "url": "https://open.spotify.com/album/1LS9waBhjOGB9BrQSwkp3b"
+      },
+      "artists": [
+        {
+          "name": "Chick Corea",
+          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
+        }
+      ],
+      "duration_ms": 541680,
+      "name": "La Fiesta",
+      "url": "https://open.spotify.com/track/5hGIRMjtrTpdMdTrZv4lh1"
+    },
+    {
+      "added_at": "2022-08-31 07:18:00",
+      "album": {
         "name": "Latin Fever",
         "url": "https://open.spotify.com/album/5LLQl89oz0vptV3tQefJv2"
       },
@@ -1107,22 +1107,6 @@
       "duration_ms": 314546,
       "name": "Batida diferente",
       "url": "https://open.spotify.com/track/6IdTeV8TfNABByZ3bUEUV6"
-    },
-    {
-      "added_at": "2022-08-31 07:18:00",
-      "album": {
-        "name": "Palabras",
-        "url": "https://open.spotify.com/album/1GwVQQYncZKZDTdE7yN0Ef"
-      },
-      "artists": [
-        {
-          "name": "Hayd\u00e9e Milan\u00e9s",
-          "url": "https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Palabras",
-      "url": "https://open.spotify.com/track/6F93ygd6pZO7gD3PJWozCy"
     },
     {
       "added_at": "2022-08-31 07:18:00",
@@ -1147,6 +1131,46 @@
       "duration_ms": 287986,
       "name": "Granada",
       "url": "https://open.spotify.com/track/22SmTBT1AQQpeH9gyhOOYG"
+    },
+    {
+      "added_at": "2022-08-31 07:18:00",
+      "album": {
+        "name": "Palabras",
+        "url": "https://open.spotify.com/album/1GwVQQYncZKZDTdE7yN0Ef"
+      },
+      "artists": [
+        {
+          "name": "Hayd\u00e9e Milan\u00e9s",
+          "url": "https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Palabras",
+      "url": "https://open.spotify.com/track/6F93ygd6pZO7gD3PJWozCy"
+    },
+    {
+      "added_at": "2022-08-31 07:18:00",
+      "album": {
+        "name": "Live in Cuba",
+        "url": "https://open.spotify.com/album/2mLRfQqMxdiZSpUHnd0HKy"
+      },
+      "artists": [
+        {
+          "name": "Jazz At Lincoln Center Orchestra",
+          "url": "https://open.spotify.com/artist/6MnWA8xVW1sEzV9s7wXpQb"
+        },
+        {
+          "name": "Wynton Marsalis",
+          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
+        },
+        {
+          "name": "Bobby Carcass\u00e9s",
+          "url": "https://open.spotify.com/artist/4BAKEaWo1QMgIC32SAmJJT"
+        }
+      ],
+      "duration_ms": 417302,
+      "name": "Como Fue (feat. Bobby Carcass\u00e9s)",
+      "url": "https://open.spotify.com/track/23DTCcj8R5BHYgsprq5ngD"
     },
     {
       "added_at": "2022-08-31 07:18:00",
@@ -1179,26 +1203,6 @@
       "duration_ms": 162986,
       "name": "Un Telegrama",
       "url": "https://open.spotify.com/track/0QfwW9zDu9glbBLMITa754"
-    },
-    {
-      "added_at": "2022-08-31 07:18:00",
-      "album": {
-        "name": "The Best Of Chick Corea",
-        "url": "https://open.spotify.com/album/42yiUOGntY4V5W3rf7Glus"
-      },
-      "artists": [
-        {
-          "name": "Chick Corea",
-          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
-        },
-        {
-          "name": "Malcolm Addey",
-          "url": "https://open.spotify.com/artist/4v0dBZBhhgZctlUGPFOGyH"
-        }
-      ],
-      "duration_ms": 216706,
-      "name": "My One And Only Love",
-      "url": "https://open.spotify.com/track/21WlpZiXLelHjdoMUhHfrm"
     },
     {
       "added_at": "2022-08-31 07:18:00",
@@ -1251,42 +1255,58 @@
     {
       "added_at": "2022-08-31 07:18:00",
       "album": {
-        "name": "Live in Cuba",
-        "url": "https://open.spotify.com/album/2mLRfQqMxdiZSpUHnd0HKy"
+        "name": "The Best Of Chick Corea",
+        "url": "https://open.spotify.com/album/42yiUOGntY4V5W3rf7Glus"
       },
       "artists": [
         {
-          "name": "Jazz At Lincoln Center Orchestra",
-          "url": "https://open.spotify.com/artist/6MnWA8xVW1sEzV9s7wXpQb"
+          "name": "Chick Corea",
+          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
         },
         {
-          "name": "Wynton Marsalis",
-          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
-        },
-        {
-          "name": "Bobby Carcass\u00e9s",
-          "url": "https://open.spotify.com/artist/4BAKEaWo1QMgIC32SAmJJT"
+          "name": "Malcolm Addey",
+          "url": "https://open.spotify.com/artist/4v0dBZBhhgZctlUGPFOGyH"
         }
       ],
-      "duration_ms": 417302,
-      "name": "Como Fue (feat. Bobby Carcass\u00e9s)",
-      "url": "https://open.spotify.com/track/23DTCcj8R5BHYgsprq5ngD"
+      "duration_ms": 216706,
+      "name": "My One And Only Love",
+      "url": "https://open.spotify.com/track/21WlpZiXLelHjdoMUhHfrm"
     },
     {
       "added_at": "2022-08-31 07:18:00",
       "album": {
-        "name": "A Donde Voy",
-        "url": "https://open.spotify.com/album/6jvgwKo2bST4ih44ZRKyM3"
+        "name": "Mango",
+        "url": "https://open.spotify.com/album/59PyMjDWf4lvoQTtNUNUcX"
       },
       "artists": [
         {
-          "name": "Luaz\u00f3",
-          "url": "https://open.spotify.com/artist/2hQLLVGIGVE2XiQfXFTa8s"
+          "name": "The Bahama Soul Club",
+          "url": "https://open.spotify.com/artist/2xcyMeQhPSRjXrSVZDkVGo"
+        },
+        {
+          "name": "Arema Arega",
+          "url": "https://open.spotify.com/artist/4PoCFDDkJ29rcgBOVTUY5C"
         }
       ],
-      "duration_ms": 279848,
-      "name": "A Donde Voy",
-      "url": "https://open.spotify.com/track/6Q10bO5VPryNqa61gclfS4"
+      "duration_ms": 221954,
+      "name": "Mango",
+      "url": "https://open.spotify.com/track/1YiIduNkxaZtiojkkQxk2R"
+    },
+    {
+      "added_at": "2022-08-31 07:18:00",
+      "album": {
+        "name": "The Latin Bit (Remastered)",
+        "url": "https://open.spotify.com/album/25R1tDWaQANYeIQb60rwiX"
+      },
+      "artists": [
+        {
+          "name": "Grant Green",
+          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
+        }
+      ],
+      "duration_ms": 352693,
+      "name": "Mambo Inn - Rudy Van Gelder Edition / Remastered 2007",
+      "url": "https://open.spotify.com/track/5yjT5e0813ydHnLjTFzYp3"
     },
     {
       "added_at": "2022-08-31 07:18:00",
@@ -1339,42 +1359,6 @@
     {
       "added_at": "2022-08-31 07:18:00",
       "album": {
-        "name": "Mango",
-        "url": "https://open.spotify.com/album/59PyMjDWf4lvoQTtNUNUcX"
-      },
-      "artists": [
-        {
-          "name": "The Bahama Soul Club",
-          "url": "https://open.spotify.com/artist/2xcyMeQhPSRjXrSVZDkVGo"
-        },
-        {
-          "name": "Arema Arega",
-          "url": "https://open.spotify.com/artist/4PoCFDDkJ29rcgBOVTUY5C"
-        }
-      ],
-      "duration_ms": 221954,
-      "name": "Mango",
-      "url": "https://open.spotify.com/track/1YiIduNkxaZtiojkkQxk2R"
-    },
-    {
-      "added_at": "2022-08-31 07:18:00",
-      "album": {
-        "name": "The Latin Bit (Remastered)",
-        "url": "https://open.spotify.com/album/25R1tDWaQANYeIQb60rwiX"
-      },
-      "artists": [
-        {
-          "name": "Grant Green",
-          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
-        }
-      ],
-      "duration_ms": 352693,
-      "name": "Mambo Inn - Rudy Van Gelder Edition / Remastered 2007",
-      "url": "https://open.spotify.com/track/5yjT5e0813ydHnLjTFzYp3"
-    },
-    {
-      "added_at": "2022-08-31 07:18:00",
-      "album": {
         "name": "The Best Of Paquito D'Rivera",
         "url": "https://open.spotify.com/album/2HWAPCvYnTDQQrcCuR8v3F"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 291733,
       "name": "C\u00f3mo Fue",
       "url": "https://open.spotify.com/track/6BtRxQRMHXc8RSUXRTFgNn"
+    },
+    {
+      "added_at": "2022-08-31 07:18:00",
+      "album": {
+        "name": "A Donde Voy",
+        "url": "https://open.spotify.com/album/6jvgwKo2bST4ih44ZRKyM3"
+      },
+      "artists": [
+        {
+          "name": "Luaz\u00f3",
+          "url": "https://open.spotify.com/artist/2hQLLVGIGVE2XiQfXFTa8s"
+        }
+      ],
+      "duration_ms": 279848,
+      "name": "A Donde Voy",
+      "url": "https://open.spotify.com/track/6Q10bO5VPryNqa61gclfS4"
     },
     {
       "added_at": "2022-08-31 07:18:00",
@@ -1443,38 +1443,6 @@
     {
       "added_at": "2022-08-31 07:18:00",
       "album": {
-        "name": "Afro",
-        "url": "https://open.spotify.com/album/0trcpUrMlHBGmOHvIvVGYF"
-      },
-      "artists": [
-        {
-          "name": "Dizzy Gillespie",
-          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
-        }
-      ],
-      "duration_ms": 250933,
-      "name": "Manteca Theme",
-      "url": "https://open.spotify.com/track/6B7KCxP46cF2Fc28Dkcin9"
-    },
-    {
-      "added_at": "2022-08-31 07:18:00",
-      "album": {
-        "name": "Trane's Delight",
-        "url": "https://open.spotify.com/album/6sMYDCMbXwodgyR2vejSEb"
-      },
-      "artists": [
-        {
-          "name": "Poncho Sanchez",
-          "url": "https://open.spotify.com/artist/7wIvJyLDNfkgdKFVxJl5tL"
-        }
-      ],
-      "duration_ms": 353840,
-      "name": "Soul Bourgeoisie",
-      "url": "https://open.spotify.com/track/1Q6wac6uy5RyqC1DaResLx"
-    },
-    {
-      "added_at": "2022-08-31 07:18:00",
-      "album": {
         "name": "Ultimate Duets",
         "url": "https://open.spotify.com/album/28xn3zHQbQHtmAL8dptb4A"
       },
@@ -1495,6 +1463,22 @@
     {
       "added_at": "2022-08-31 07:18:00",
       "album": {
+        "name": "Trane's Delight",
+        "url": "https://open.spotify.com/album/6sMYDCMbXwodgyR2vejSEb"
+      },
+      "artists": [
+        {
+          "name": "Poncho Sanchez",
+          "url": "https://open.spotify.com/artist/7wIvJyLDNfkgdKFVxJl5tL"
+        }
+      ],
+      "duration_ms": 353840,
+      "name": "Soul Bourgeoisie",
+      "url": "https://open.spotify.com/track/1Q6wac6uy5RyqC1DaResLx"
+    },
+    {
+      "added_at": "2022-08-31 07:18:00",
+      "album": {
         "name": "Lo Mejor de Cuba, Vol. 1",
         "url": "https://open.spotify.com/album/1gfILNnSqDPSjHhyydy5vP"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 226653,
       "name": "Bacalao Con Pan",
       "url": "https://open.spotify.com/track/0Nyk38VivffSW8dTVaroEC"
+    },
+    {
+      "added_at": "2022-08-31 07:18:00",
+      "album": {
+        "name": "Afro",
+        "url": "https://open.spotify.com/album/0trcpUrMlHBGmOHvIvVGYF"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Gillespie",
+          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
+        }
+      ],
+      "duration_ms": 250933,
+      "name": "Manteca Theme",
+      "url": "https://open.spotify.com/track/6B7KCxP46cF2Fc28Dkcin9"
     },
     {
       "added_at": "2022-08-31 07:18:00",
@@ -1615,22 +1615,22 @@
     {
       "added_at": "2022-08-31 07:18:00",
       "album": {
-        "name": "Juntos para Siempre",
-        "url": "https://open.spotify.com/album/3y4OdF00cUvKDi8QW0eS76"
+        "name": "Ser\u00eda Una Pena",
+        "url": "https://open.spotify.com/album/7jHcC0gencrmn5AsQfW9mr"
       },
       "artists": [
         {
-          "name": "Bebo Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj"
+          "name": "Pete Perignon",
+          "url": "https://open.spotify.com/artist/1E4i7we9SQzGSyzoMh53RX"
         },
         {
-          "name": "Chucho Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
+          "name": "Jeremy Bosch",
+          "url": "https://open.spotify.com/artist/33KZMQECd5v6S2FjRMCctD"
         }
       ],
-      "duration_ms": 209813,
-      "name": "Son de la Loma",
-      "url": "https://open.spotify.com/track/7K9t3K9SLBzV1HhVYhmXuz"
+      "duration_ms": 261881,
+      "name": "Ser\u00eda Una Pena",
+      "url": "https://open.spotify.com/track/56Bd82ndrBY1JQ8r3oQzVl"
     },
     {
       "added_at": "2022-08-31 07:18:00",
@@ -1651,22 +1651,22 @@
     {
       "added_at": "2022-08-31 07:18:00",
       "album": {
-        "name": "Ser\u00eda Una Pena",
-        "url": "https://open.spotify.com/album/7jHcC0gencrmn5AsQfW9mr"
+        "name": "Juntos para Siempre",
+        "url": "https://open.spotify.com/album/3y4OdF00cUvKDi8QW0eS76"
       },
       "artists": [
         {
-          "name": "Pete Perignon",
-          "url": "https://open.spotify.com/artist/1E4i7we9SQzGSyzoMh53RX"
+          "name": "Bebo Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj"
         },
         {
-          "name": "Jeremy Bosch",
-          "url": "https://open.spotify.com/artist/33KZMQECd5v6S2FjRMCctD"
+          "name": "Chucho Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
         }
       ],
-      "duration_ms": 261881,
-      "name": "Ser\u00eda Una Pena",
-      "url": "https://open.spotify.com/track/56Bd82ndrBY1JQ8r3oQzVl"
+      "duration_ms": 209813,
+      "name": "Son de la Loma",
+      "url": "https://open.spotify.com/track/7K9t3K9SLBzV1HhVYhmXuz"
     },
     {
       "added_at": "2022-08-31 07:18:00",
@@ -1699,30 +1699,6 @@
       "duration_ms": 198533,
       "name": "The Fool On The Hill",
       "url": "https://open.spotify.com/track/1gBzDyq7e4CU8feOTXwI43"
-    },
-    {
-      "added_at": "2022-08-31 07:18:00",
-      "album": {
-        "name": "Una Noche Con Rub\u00e9n Blades",
-        "url": "https://open.spotify.com/album/3iptT1nxZTR7fX4Cf8KHbJ"
-      },
-      "artists": [
-        {
-          "name": "Jazz At Lincoln Center Orchestra",
-          "url": "https://open.spotify.com/artist/6MnWA8xVW1sEzV9s7wXpQb"
-        },
-        {
-          "name": "Wynton Marsalis",
-          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
-        },
-        {
-          "name": "Rub\u00e9n Blades",
-          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
-        }
-      ],
-      "duration_ms": 468849,
-      "name": "Sin Tu Carin\u0303o",
-      "url": "https://open.spotify.com/track/1apn8sck6eZb3zvw6f4vKh"
     },
     {
       "added_at": "2022-08-31 07:18:00",
@@ -1787,6 +1763,30 @@
       "duration_ms": 290847,
       "name": "Que Bonita Bandera",
       "url": "https://open.spotify.com/track/6kp4npBzshDFMNDJhC0uRH"
+    },
+    {
+      "added_at": "2022-08-31 07:18:00",
+      "album": {
+        "name": "Una Noche Con Rub\u00e9n Blades",
+        "url": "https://open.spotify.com/album/3iptT1nxZTR7fX4Cf8KHbJ"
+      },
+      "artists": [
+        {
+          "name": "Jazz At Lincoln Center Orchestra",
+          "url": "https://open.spotify.com/artist/6MnWA8xVW1sEzV9s7wXpQb"
+        },
+        {
+          "name": "Wynton Marsalis",
+          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
+        },
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        }
+      ],
+      "duration_ms": 468849,
+      "name": "Sin Tu Carin\u0303o",
+      "url": "https://open.spotify.com/track/1apn8sck6eZb3zvw6f4vKh"
     },
     {
       "added_at": "2022-08-31 07:18:00",

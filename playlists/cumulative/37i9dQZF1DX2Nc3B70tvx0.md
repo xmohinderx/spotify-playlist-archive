@@ -4,7 +4,7 @@
 
 > The best in modern indie\. Cover: Sudan Archives
 
-1,237 songs - 3 day 1 hr 49 min - [published](https://open.spotify.com/playlist/5B0jp45qz6hLoPhNNGwuxh)
+1,238 songs - 3 day 1 hr 53 min - [published](https://open.spotify.com/playlist/5B0jp45qz6hLoPhNNGwuxh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,7 +259,7 @@
 | [Deep In Love](https://open.spotify.com/track/3hmHHA69jx1hdY3TkYRKuE) | [Bonny Light Horseman](https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb), [Eric D\. Johnson](https://open.spotify.com/artist/4LBdlNpHBD8dHPcVCrjSB6), [Josh Kaufman](https://open.spotify.com/artist/3kKgcBXTgyAZhXPV3AaSZc), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Deep In Love](https://open.spotify.com/album/27gGc7BNl7mKU3tUnjfkhH) | 5:09 | 2019-10-25 | 2020-02-14 |
 | [Deja](https://open.spotify.com/track/70um118ETgSKTghQNF9iEC) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Agua](https://open.spotify.com/album/37RnWMoZSgAtUKLmeslblE) | 3:50 | 2021-03-10 | 2021-05-22 |
 | [Delete Forever](https://open.spotify.com/track/5B1qeFOEeUCMudPEVeasHp) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Delete Forever](https://open.spotify.com/album/5OKalQQmeRzxR9YIWsrbzL) | 3:57 | 2020-02-28 | 2020-08-07 |
-| [Desert Snow](https://open.spotify.com/track/0BVZY0wh4lUICV71haiBR4) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Desert Snow / Hourglass](https://open.spotify.com/album/5M50Jray1eYGOW5gkTzUjT) | 3:35 | 2022-08-12 |  |
+| [Desert Snow](https://open.spotify.com/track/0BVZY0wh4lUICV71haiBR4) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Desert Snow / Hourglass](https://open.spotify.com/album/5M50Jray1eYGOW5gkTzUjT) | 3:35 | 2022-08-12 | 2022-09-19 |
 | [Destroy Myself Just For You](https://open.spotify.com/track/7vMDFGBs0CTEkENk2dyCnc) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Destroy Myself Just For You](https://open.spotify.com/album/3cQmOITwkOtQIk9NcyoZ2g) | 2:26 | 2021-12-02 | 2022-04-09 |
 | [Did My Best](https://open.spotify.com/track/0hmxVkpxbcdHAXUoZ7DeCQ) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Did My Best](https://open.spotify.com/album/5q9iV6CLu4ZEzhWKmJZxnc) | 4:56 | 2020-01-10 | 2020-06-12 |
 | [Dionne \(feat\. Justin Vernon\)](https://open.spotify.com/track/15gL4n95OG5KEQLCMXPQzp) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u), [Justin Vernon](https://open.spotify.com/artist/13rHmjtJmlIJ2aDyJc7CLV) | [Chewing Cotton Wool](https://open.spotify.com/album/1OlByJ5jsP9Eklfp03Xn8z) | 4:44 | 2020-09-04 | 2021-04-20 |
@@ -752,6 +752,7 @@
 | [Nobody](https://open.spotify.com/track/42EMSKPgulAzr4RLY65Eut) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Here Comes The Cowboy](https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW) | 3:32 | 2019-05-26\* | 2019-08-13 |
 | [Nobody](https://open.spotify.com/track/6bTn1ovliI0OkjUNkiMBJq) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/653wRjqO0GOZPQPcXpeAXD) | 3:13 | 2021-03-11 | 2021-05-27 |
 | [Nobody's Fault](https://open.spotify.com/track/0ribL5IffcrNLjJ2Xy5PFp) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Nobody's Fault](https://open.spotify.com/album/7MXiNnljNmXyGNcGgKgpOZ) | 3:22 | 2021-01-30 | 2021-05-22 |
+| [Nostalgia](https://open.spotify.com/track/3gV7y7IwafryNLEnhh9gKb) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Nostalgia](https://open.spotify.com/album/6WgmH9NEYyWBbPaHYlpVlD) | 3:57 | 2022-09-16 |  |
 | [Not \- Edit](https://open.spotify.com/track/2reSrhID8BC9HpM2CkT3hT) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Not](https://open.spotify.com/album/3ALSulFtUMsitIR02vuedW) | 3:52 | 2019-08-30 | 2019-09-21 |
 | [Not Around](https://open.spotify.com/track/1y1RZ1WceXGSr0X7Q6mG0M) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Not Around](https://open.spotify.com/album/1AoV2zzDHH57nQEOfga6mX) | 2:40 | 2021-02-22 | 2021-05-21 |
 | [Not Dead Yet](https://open.spotify.com/track/5NRbNXwXHM9mYgxMhzVWTP) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Not Dead Yet](https://open.spotify.com/album/044x9ycjGCrCHA6TcjaK8w) | 2:57 | 2021-04-20 | 2022-04-07 |

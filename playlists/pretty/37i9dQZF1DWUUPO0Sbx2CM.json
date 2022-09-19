@@ -1,12 +1,12 @@
 {
   "description": "A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!",
-  "num_followers": 103309,
+  "num_followers": 103402,
   "original_name": "Christian Dance Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNTY0MTI1MCwwMDAwMDAwMGRiN2U2OGZlMGZmZmZlZDgzYjYyOTgwNGJiZGUzZmFk",
+  "snapshot_id": "MTYzNTY0MTI1MCwwMDAwMDAwMGIyOTY0YWNjMzZlZGY2NGZlZmNjNTIyYTE5MmU2MzBj",
   "tracks": [
     {
       "added_at": "2021-10-31 00:47:30",
@@ -547,8 +547,8 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "I'm Still Breathing",
-        "url": "https://open.spotify.com/album/3xselxcmppcZRrOD5DdVWb"
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/4uBvBJ24lgalgV3dVSqz1z"
       },
       "artists": [
         {
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op"
         }
       ],
-      "duration_ms": 210510,
-      "name": "I'm Still Breathing",
-      "url": "https://open.spotify.com/track/6saWL01T4ENiamU9HyBMmb"
+      "duration_ms": 191517,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/2mQQaBQd8EnDxFHU7Q1IAm"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -699,8 +699,8 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "Wildfire",
-        "url": "https://open.spotify.com/album/4uBvBJ24lgalgV3dVSqz1z"
+        "name": "I'm Still Breathing",
+        "url": "https://open.spotify.com/album/3xselxcmppcZRrOD5DdVWb"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op"
         }
       ],
-      "duration_ms": 191517,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/2mQQaBQd8EnDxFHU7Q1IAm"
+      "duration_ms": 210510,
+      "name": "I'm Still Breathing",
+      "url": "https://open.spotify.com/track/6saWL01T4ENiamU9HyBMmb"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -811,22 +811,6 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "Lifer",
-        "url": "https://open.spotify.com/album/3KVlZJCLMdeU43OwSU0Hac"
-      },
-      "artists": [
-        {
-          "name": "MercyMe",
-          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
-        }
-      ],
-      "duration_ms": 201093,
-      "name": "Lifer",
-      "url": "https://open.spotify.com/track/1fAfbJtiwvTh76blPg4hEA"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
         "name": "PANORAMA",
         "url": "https://open.spotify.com/album/7wD8rF1uNrehwaVoPgQn33"
       },
@@ -843,6 +827,22 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
+        "name": "Lifer",
+        "url": "https://open.spotify.com/album/3KVlZJCLMdeU43OwSU0Hac"
+      },
+      "artists": [
+        {
+          "name": "MercyMe",
+          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
+        }
+      ],
+      "duration_ms": 201093,
+      "name": "Lifer",
+      "url": "https://open.spotify.com/track/1fAfbJtiwvTh76blPg4hEA"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
         "name": "One More Day",
         "url": "https://open.spotify.com/album/7ozw8j9l3KhVi4wnP6wwar"
       },
@@ -855,22 +855,6 @@
       "duration_ms": 194798,
       "name": "One More Day",
       "url": "https://open.spotify.com/track/6Iu1RH6TuDAnxXDsJ6UbxV"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
-        "name": "All Of My Best Friends",
-        "url": "https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
-        }
-      ],
-      "duration_ms": 185217,
-      "name": "Never Have I Ever",
-      "url": "https://open.spotify.com/track/2bNxE0corUIlCcOWrliULJ"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -915,6 +899,22 @@
       "duration_ms": 161323,
       "name": "Fight My Fight For Me",
       "url": "https://open.spotify.com/track/6hGSFl1H2bR0wANwxKG3mS"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
+        "name": "All Of My Best Friends",
+        "url": "https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        }
+      ],
+      "duration_ms": 185217,
+      "name": "Never Have I Ever",
+      "url": "https://open.spotify.com/track/2bNxE0corUIlCcOWrliULJ"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -1075,38 +1075,6 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "MOMENTUM",
-        "url": "https://open.spotify.com/album/4esF2tcUU0yctPIEoeW8VJ"
-      },
-      "artists": [
-        {
-          "name": "Redimi2",
-          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
-        }
-      ],
-      "duration_ms": 160874,
-      "name": "BUENA ONDA",
-      "url": "https://open.spotify.com/track/3HxiAQPqGjVSFLLtZSeHYW"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
-        "name": "Bring The Whole Hood",
-        "url": "https://open.spotify.com/album/7F7Hs9eculrXiUrfGB4Fax"
-      },
-      "artists": [
-        {
-          "name": "Evvie McKinney",
-          "url": "https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ"
-        }
-      ],
-      "duration_ms": 200035,
-      "name": "Bring The Whole Hood",
-      "url": "https://open.spotify.com/track/0T1WTePlsi8e1wAMKkEMi6"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
         "name": "Genesis of Terrian",
         "url": "https://open.spotify.com/album/2fGd7TWmDcPRW9Y45CKcx0"
       },
@@ -1123,6 +1091,22 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
+        "name": "MOMENTUM",
+        "url": "https://open.spotify.com/album/4esF2tcUU0yctPIEoeW8VJ"
+      },
+      "artists": [
+        {
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+        }
+      ],
+      "duration_ms": 160874,
+      "name": "BUENA ONDA",
+      "url": "https://open.spotify.com/track/3HxiAQPqGjVSFLLtZSeHYW"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
         "name": "Stages",
         "url": "https://open.spotify.com/album/1QP1zErfad0lAsXvejJBb2"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 188473,
       "name": "Stages",
       "url": "https://open.spotify.com/track/2TSTDPh5i5MySwgmdJgxD4"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
+        "name": "Bring The Whole Hood",
+        "url": "https://open.spotify.com/album/7F7Hs9eculrXiUrfGB4Fax"
+      },
+      "artists": [
+        {
+          "name": "Evvie McKinney",
+          "url": "https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ"
+        }
+      ],
+      "duration_ms": 200035,
+      "name": "Bring The Whole Hood",
+      "url": "https://open.spotify.com/track/0T1WTePlsi8e1wAMKkEMi6"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
+        "name": "GENESIS",
+        "url": "https://open.spotify.com/album/3g9G4l7NCOiuKeiIVtMaB5"
+      },
+      "artists": [
+        {
+          "name": "CASS",
+          "url": "https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM"
+        }
+      ],
+      "duration_ms": 202057,
+      "name": "STICKS & STONES",
+      "url": "https://open.spotify.com/track/1XsVqOChsThIrhuLZcSCkT"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
         "name": "Not Today",
         "url": "https://open.spotify.com/album/3wNAcHO8vZNoUyhaVopRb3"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 219186,
       "name": "Not Today - Remix",
       "url": "https://open.spotify.com/track/65RTyZesurf9xxf7FZVL1u"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
-        "name": "GENESIS",
-        "url": "https://open.spotify.com/album/3g9G4l7NCOiuKeiIVtMaB5"
-      },
-      "artists": [
-        {
-          "name": "CASS",
-          "url": "https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM"
-        }
-      ],
-      "duration_ms": 202057,
-      "name": "STICKS & STONES",
-      "url": "https://open.spotify.com/track/1XsVqOChsThIrhuLZcSCkT"
     },
     {
       "added_at": "2021-10-31 00:47:30",

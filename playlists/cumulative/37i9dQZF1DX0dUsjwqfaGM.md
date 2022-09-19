@@ -4,7 +4,7 @@
 
 > Thế hệ nghệ sĩ mới\. Nếu sử dụng 📲, bấm ☉ phía trên ☝ để khám phá thêm về nghệ sĩ ảnh bìa Rhosy
 
-40 songs - 2 hr 21 min - not published yet
+40 songs - 2 hr 21 min - [published](https://open.spotify.com/playlist/2s99wOe5KkDPtODdly2OIW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "Verdi was the undisputed king of Italian opera in the 19th century. Explore his greatest works, including Rigoletto and La Traviata, right here.",
-  "num_followers": 58076,
+  "num_followers": 58125,
   "original_name": "This Is Verdi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjM0MDk2NCwwMDAwMDAwMDg4MDA5ZTQ4YjNlZTg5YzI4NzNkMjkzYWY3MzdmYWVi",
+  "snapshot_id": "MTY1NjM0MDk2NCwwMDAwMDAwMDUwNTMxOTJjNDE5NDE5NDNjMTQzOWZjODFlNzUxZWM2",
   "tracks": [
     {
       "added_at": "2022-06-27 14:42:44",
@@ -811,38 +811,6 @@
     {
       "added_at": "2022-06-27 14:42:44",
       "album": {
-        "name": "Verdi: Otello",
-        "url": "https://open.spotify.com/album/3th9FF5U3XWiQ2zwSRJOSn"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Oviedo Filarmon\u00eda",
-          "url": "https://open.spotify.com/artist/2QX0XaDDWYH8rFPDDlVyae"
-        },
-        {
-          "name": "Orfeon Donostiarra",
-          "url": "https://open.spotify.com/artist/4WQkQFoq0dSZYZP0pl8xnu"
-        },
-        {
-          "name": "Los Peques del Le\u00f3n de Oro",
-          "url": "https://open.spotify.com/artist/2Ey84GB4Yndh0XtTKdjzFo"
-        },
-        {
-          "name": "Friedrich Haider",
-          "url": "https://open.spotify.com/artist/6DRrt1C5pbWHj7XQIZUGac"
-        }
-      ],
-      "duration_ms": 157680,
-      "name": "Otello, Act I: Act I: Fuoco di gioia! (Chorus)",
-      "url": "https://open.spotify.com/track/6njnyMvYPW22DslQGDxLh2"
-    },
-    {
-      "added_at": "2022-06-27 14:42:44",
-      "album": {
         "name": "Verdi: Trovatore (Il)",
         "url": "https://open.spotify.com/album/2kVWXeLcNkNmZO5u0dONiH"
       },
@@ -907,8 +875,8 @@
     {
       "added_at": "2022-06-27 14:42:44",
       "album": {
-        "name": "Verdi: Overtures, Vol. 1",
-        "url": "https://open.spotify.com/album/2ArbYKbKugDKfanstRYf75"
+        "name": "Verdi: Otello",
+        "url": "https://open.spotify.com/album/3th9FF5U3XWiQ2zwSRJOSn"
       },
       "artists": [
         {
@@ -916,17 +884,25 @@
           "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
         },
         {
-          "name": "Hungarian State Opera Orchestra",
-          "url": "https://open.spotify.com/artist/6rLUj0kWUXAEbz26rtS9wO"
+          "name": "Oviedo Filarmon\u00eda",
+          "url": "https://open.spotify.com/artist/2QX0XaDDWYH8rFPDDlVyae"
         },
         {
-          "name": "Pier Giorgio Morandi",
-          "url": "https://open.spotify.com/artist/5N26LR3F8OW56imuIElk6B"
+          "name": "Orfeon Donostiarra",
+          "url": "https://open.spotify.com/artist/4WQkQFoq0dSZYZP0pl8xnu"
+        },
+        {
+          "name": "Los Peques del Le\u00f3n de Oro",
+          "url": "https://open.spotify.com/artist/2Ey84GB4Yndh0XtTKdjzFo"
+        },
+        {
+          "name": "Friedrich Haider",
+          "url": "https://open.spotify.com/artist/6DRrt1C5pbWHj7XQIZUGac"
         }
       ],
-      "duration_ms": 515426,
-      "name": "I vespri siciliani*: Sinfonia",
-      "url": "https://open.spotify.com/track/6eIyQmLtCxLVzPS8SqfB4Y"
+      "duration_ms": 157680,
+      "name": "Otello, Act I: Act I: Fuoco di gioia! (Chorus)",
+      "url": "https://open.spotify.com/track/6njnyMvYPW22DslQGDxLh2"
     },
     {
       "added_at": "2022-06-27 14:42:44",
@@ -951,6 +927,74 @@
       "duration_ms": 174466,
       "name": "6 Romanze (1838) (text by J. Vittorelli, T. Bianchi, and C. Angiolini): No. 2. More, Elisa, lo stanco poeta",
       "url": "https://open.spotify.com/track/1UEyvEkOcg5g1Yre4gVqAY"
+    },
+    {
+      "added_at": "2022-06-27 14:42:44",
+      "album": {
+        "name": "Aida",
+        "url": "https://open.spotify.com/album/4I9AG93MXl0ZWJX4B4Lt4Z"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Pl\u00e1cido Domingo",
+          "url": "https://open.spotify.com/artist/4pU3BpenOZFEBzORx2YBJW"
+        },
+        {
+          "name": "Metropolitan Opera Orchestra",
+          "url": "https://open.spotify.com/artist/5wn7ofJrDNHlKovbljawzS"
+        },
+        {
+          "name": "Samuel Ramey",
+          "url": "https://open.spotify.com/artist/4z6dlDfmoZstfKLVC60nM0"
+        },
+        {
+          "name": "Aprile Millo",
+          "url": "https://open.spotify.com/artist/6S3PdC8vRGu1xIFKjhExMy"
+        },
+        {
+          "name": "James Levine",
+          "url": "https://open.spotify.com/artist/4qFQgEF1rg6a9WvJM0MQIa"
+        },
+        {
+          "name": "Dolora Zajick",
+          "url": "https://open.spotify.com/artist/1DmqAu6u4VD8SB2bCfAqpG"
+        },
+        {
+          "name": "James Morris",
+          "url": "https://open.spotify.com/artist/3LfFjEpR0faktlCgr2LPc2"
+        }
+      ],
+      "duration_ms": 85733,
+      "name": "Aida: Danza di piccoli schiavi mori",
+      "url": "https://open.spotify.com/track/1vmUKUlXXZChWhCdnE8LxS"
+    },
+    {
+      "added_at": "2022-06-27 14:42:44",
+      "album": {
+        "name": "Verdi: Overtures, Vol. 1",
+        "url": "https://open.spotify.com/album/2ArbYKbKugDKfanstRYf75"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Hungarian State Opera Orchestra",
+          "url": "https://open.spotify.com/artist/6rLUj0kWUXAEbz26rtS9wO"
+        },
+        {
+          "name": "Pier Giorgio Morandi",
+          "url": "https://open.spotify.com/artist/5N26LR3F8OW56imuIElk6B"
+        }
+      ],
+      "duration_ms": 515426,
+      "name": "I vespri siciliani*: Sinfonia",
+      "url": "https://open.spotify.com/track/6eIyQmLtCxLVzPS8SqfB4Y"
     },
     {
       "added_at": "2022-06-27 14:42:44",
@@ -1011,50 +1055,6 @@
       "duration_ms": 380693,
       "name": "Macbeth: Act IV: Una macchia e qui tutt'ora (Lady Macbeth, a Doctor, a Lady's Maid)",
       "url": "https://open.spotify.com/track/3bOFcdzhdYvfhd7ueUUZFb"
-    },
-    {
-      "added_at": "2022-06-27 14:42:44",
-      "album": {
-        "name": "Aida",
-        "url": "https://open.spotify.com/album/4I9AG93MXl0ZWJX4B4Lt4Z"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Pl\u00e1cido Domingo",
-          "url": "https://open.spotify.com/artist/4pU3BpenOZFEBzORx2YBJW"
-        },
-        {
-          "name": "Metropolitan Opera Orchestra",
-          "url": "https://open.spotify.com/artist/5wn7ofJrDNHlKovbljawzS"
-        },
-        {
-          "name": "Samuel Ramey",
-          "url": "https://open.spotify.com/artist/4z6dlDfmoZstfKLVC60nM0"
-        },
-        {
-          "name": "Aprile Millo",
-          "url": "https://open.spotify.com/artist/6S3PdC8vRGu1xIFKjhExMy"
-        },
-        {
-          "name": "James Levine",
-          "url": "https://open.spotify.com/artist/4qFQgEF1rg6a9WvJM0MQIa"
-        },
-        {
-          "name": "Dolora Zajick",
-          "url": "https://open.spotify.com/artist/1DmqAu6u4VD8SB2bCfAqpG"
-        },
-        {
-          "name": "James Morris",
-          "url": "https://open.spotify.com/artist/3LfFjEpR0faktlCgr2LPc2"
-        }
-      ],
-      "duration_ms": 85733,
-      "name": "Aida: Danza di piccoli schiavi mori",
-      "url": "https://open.spotify.com/track/1vmUKUlXXZChWhCdnE8LxS"
     },
     {
       "added_at": "2022-06-27 14:42:44",
@@ -1307,25 +1307,13 @@
     {
       "added_at": "2022-06-27 14:42:44",
       "album": {
-        "name": "Verdi (The Very Best Of)",
-        "url": "https://open.spotify.com/album/6Bw1dyep8lwqgEAAteetoV"
+        "name": "Verdi: Overtures, Vol. 1",
+        "url": "https://open.spotify.com/album/2ArbYKbKugDKfanstRYf75"
       },
       "artists": [
         {
           "name": "Giuseppe Verdi",
           "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Cesar Hernandez",
-          "url": "https://open.spotify.com/artist/2cjrZTZHJ3WO3vF85P9NG3"
-        },
-        {
-          "name": "Carlo Colombara",
-          "url": "https://open.spotify.com/artist/7qR8JpbvBYbqViPWD6tyHz"
-        },
-        {
-          "name": "Hungarian State Opera Chorus",
-          "url": "https://open.spotify.com/artist/0rSz4XGJJJMaBCXViWTDWc"
         },
         {
           "name": "Hungarian State Opera Orchestra",
@@ -1336,37 +1324,9 @@
           "url": "https://open.spotify.com/artist/5N26LR3F8OW56imuIElk6B"
         }
       ],
-      "duration_ms": 115426,
-      "name": "Messa da Requiem: Tuba mirum",
-      "url": "https://open.spotify.com/track/6C6vsdKc2URZFkRrXn6xh3"
-    },
-    {
-      "added_at": "2022-06-27 14:42:44",
-      "album": {
-        "name": "Verdi: Falstaff",
-        "url": "https://open.spotify.com/album/5vydzpfnI6B6mEhUIYQ8Zc"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Bryn Terfel",
-          "url": "https://open.spotify.com/artist/6ILd69yy67k6OU7cwpGNSl"
-        },
-        {
-          "name": "Berliner Philharmoniker",
-          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
-        },
-        {
-          "name": "Claudio Abbado",
-          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
-        }
-      ],
-      "duration_ms": 241026,
-      "name": "Falstaff / Act I: L'Onore! Ladri!",
-      "url": "https://open.spotify.com/track/7qWfNxCBZwfu9DKzGWDMki"
+      "duration_ms": 264000,
+      "name": "Un ballo in maschera*: Prelude",
+      "url": "https://open.spotify.com/track/7jU0OCnpUjZHvCBpYsUPfA"
     },
     {
       "added_at": "2022-06-27 14:42:44",
@@ -1399,8 +1359,8 @@
     {
       "added_at": "2022-06-27 14:42:44",
       "album": {
-        "name": "Verdi: Overtures, Vol. 1",
-        "url": "https://open.spotify.com/album/2ArbYKbKugDKfanstRYf75"
+        "name": "Verdi: Falstaff",
+        "url": "https://open.spotify.com/album/5vydzpfnI6B6mEhUIYQ8Zc"
       },
       "artists": [
         {
@@ -1408,17 +1368,45 @@
           "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
         },
         {
-          "name": "Hungarian State Opera Orchestra",
-          "url": "https://open.spotify.com/artist/6rLUj0kWUXAEbz26rtS9wO"
+          "name": "Bryn Terfel",
+          "url": "https://open.spotify.com/artist/6ILd69yy67k6OU7cwpGNSl"
         },
         {
-          "name": "Pier Giorgio Morandi",
-          "url": "https://open.spotify.com/artist/5N26LR3F8OW56imuIElk6B"
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Claudio Abbado",
+          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
         }
       ],
-      "duration_ms": 264000,
-      "name": "Un ballo in maschera*: Prelude",
-      "url": "https://open.spotify.com/track/7jU0OCnpUjZHvCBpYsUPfA"
+      "duration_ms": 241026,
+      "name": "Falstaff / Act I: L'Onore! Ladri!",
+      "url": "https://open.spotify.com/track/7qWfNxCBZwfu9DKzGWDMki"
+    },
+    {
+      "added_at": "2022-06-27 14:42:44",
+      "album": {
+        "name": "Verdi: La Traviata",
+        "url": "https://open.spotify.com/album/2SlDrNnAloO1uL0cUOf8bg"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "National Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd"
+        },
+        {
+          "name": "Richard Bonynge",
+          "url": "https://open.spotify.com/artist/6JAPOSeaWl61UBRKZYgAeZ"
+        }
+      ],
+      "duration_ms": 247120,
+      "name": "La traviata / Act 1: Prelude",
+      "url": "https://open.spotify.com/track/1bZowokgq7BcTe15ofDTVW"
     },
     {
       "added_at": "2022-06-27 14:42:44",
@@ -1527,6 +1515,42 @@
     {
       "added_at": "2022-06-27 14:42:44",
       "album": {
+        "name": "Verdi (The Very Best Of)",
+        "url": "https://open.spotify.com/album/6Bw1dyep8lwqgEAAteetoV"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Cesar Hernandez",
+          "url": "https://open.spotify.com/artist/2cjrZTZHJ3WO3vF85P9NG3"
+        },
+        {
+          "name": "Carlo Colombara",
+          "url": "https://open.spotify.com/artist/7qR8JpbvBYbqViPWD6tyHz"
+        },
+        {
+          "name": "Hungarian State Opera Chorus",
+          "url": "https://open.spotify.com/artist/0rSz4XGJJJMaBCXViWTDWc"
+        },
+        {
+          "name": "Hungarian State Opera Orchestra",
+          "url": "https://open.spotify.com/artist/6rLUj0kWUXAEbz26rtS9wO"
+        },
+        {
+          "name": "Pier Giorgio Morandi",
+          "url": "https://open.spotify.com/artist/5N26LR3F8OW56imuIElk6B"
+        }
+      ],
+      "duration_ms": 115426,
+      "name": "Messa da Requiem: Tuba mirum",
+      "url": "https://open.spotify.com/track/6C6vsdKc2URZFkRrXn6xh3"
+    },
+    {
+      "added_at": "2022-06-27 14:42:44",
+      "album": {
         "name": "The Verdi Album",
         "url": "https://open.spotify.com/album/45xmO9uJli4Uv9kYuz6KTb"
       },
@@ -1547,30 +1571,6 @@
       "duration_ms": 641253,
       "name": "La Forza del Destino, Atto III: \"La vita \u00e8 inferno all'infelice...O tu, che in seno agli angeli\"",
       "url": "https://open.spotify.com/track/6TskHmagzWHarn5AfR9gHo"
-    },
-    {
-      "added_at": "2022-06-27 14:42:44",
-      "album": {
-        "name": "Verdi: La Traviata",
-        "url": "https://open.spotify.com/album/2SlDrNnAloO1uL0cUOf8bg"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "National Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd"
-        },
-        {
-          "name": "Richard Bonynge",
-          "url": "https://open.spotify.com/artist/6JAPOSeaWl61UBRKZYgAeZ"
-        }
-      ],
-      "duration_ms": 247120,
-      "name": "La traviata / Act 1: Prelude",
-      "url": "https://open.spotify.com/track/1bZowokgq7BcTe15ofDTVW"
     },
     {
       "added_at": "2022-06-27 14:42:44",
@@ -1728,9 +1728,9 @@
           "url": "https://open.spotify.com/artist/0O6wGAZW7I1Fn59kpxrjCv"
         }
       ],
-      "duration_ms": 378466,
-      "name": "Falstaff: Act I: Falstaff! Ola!",
-      "url": "https://open.spotify.com/track/7zqdo14MviMiezMKJI9fVW"
+      "duration_ms": 238360,
+      "name": "Falstaff: Act III: Una, due, tre ....",
+      "url": "https://open.spotify.com/track/1PhZ022GY8F9y8UaR5t9qK"
     },
     {
       "added_at": "2022-06-27 14:42:44",
@@ -1840,9 +1840,9 @@
           "url": "https://open.spotify.com/artist/0O6wGAZW7I1Fn59kpxrjCv"
         }
       ],
-      "duration_ms": 238360,
-      "name": "Falstaff: Act III: Una, due, tre ....",
-      "url": "https://open.spotify.com/track/1PhZ022GY8F9y8UaR5t9qK"
+      "duration_ms": 378466,
+      "name": "Falstaff: Act I: Falstaff! Ola!",
+      "url": "https://open.spotify.com/track/7zqdo14MviMiezMKJI9fVW"
     },
     {
       "added_at": "2022-06-27 14:42:44",

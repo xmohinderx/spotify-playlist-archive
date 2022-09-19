@@ -624,6 +624,32 @@
     },
     {
       "album": {
+        "name": "Di\u1ec5n vi\u00ean t\u1ed3i",
+        "url": "https://open.spotify.com/album/0VcUiF3nAK2UWeWpRzESob"
+      },
+      "artists": [
+        {
+          "name": "\u0110en",
+          "url": "https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi"
+        },
+        {
+          "name": "Th\u00e0nh B\u00f9i",
+          "url": "https://open.spotify.com/artist/4indpWjPPQ0lLAtYihnI5j"
+        },
+        {
+          "name": "Cadillac",
+          "url": "https://open.spotify.com/artist/4nYRl0uyEIGfhe5uR8aUVc"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349793,
+      "name": "Di\u1ec5n vi\u00ean t\u1ed3i",
+      "url": "https://open.spotify.com/track/3pgwxYRPbYIC6C1J2FPge8"
+    },
+    {
+      "album": {
         "name": "D\u00f9 Cho Mai V\u1ec1 Sau",
         "url": "https://open.spotify.com/album/38rXnQ4McNlZGTA3WNPNc1"
       },

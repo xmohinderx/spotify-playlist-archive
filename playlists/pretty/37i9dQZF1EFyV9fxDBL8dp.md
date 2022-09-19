@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyV9fxDBL8dp.md) - [plain]
 | 57 | [Energia Pura](https://open.spotify.com/track/6EuUwMvOChmivpCiUbc8Zx) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Lei da Atração](https://open.spotify.com/album/2eY60QSLUWHtgwGV3egQ0B) | 2:50 |
 | 58 | [Corpo Fechado](https://open.spotify.com/track/6R4eIow8KkeoLRaMImEupA) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Quilombagem](https://open.spotify.com/album/1HHUMs91CqVaVPIBMKNYco) | 2:57 |
 | 59 | [Guardião](https://open.spotify.com/track/2urMsGx4j1ZBVa0gDW4uek) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Quilombagem](https://open.spotify.com/album/1HHUMs91CqVaVPIBMKNYco) | 3:53 |
-| 60 | [Sagrado Sião](https://open.spotify.com/track/5CeXorocm9cpk6GE2gO08V) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Ciclo](https://open.spotify.com/album/3UkWdgm7zfxjyGBWYobQZy) | 3:47 |
-| 61 | [Derradeiro](https://open.spotify.com/track/5FuWbOttJw3aOy6UyKZPls) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Rústico](https://open.spotify.com/album/1Z5mDrjO4QZfOXXhbvFTUS) | 4:56 |
+| 60 | [Derradeiro](https://open.spotify.com/track/5FuWbOttJw3aOy6UyKZPls) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Rústico](https://open.spotify.com/album/1Z5mDrjO4QZfOXXhbvFTUS) | 4:56 |
+| 61 | [Sagrado Sião](https://open.spotify.com/track/5CeXorocm9cpk6GE2gO08V) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Ciclo](https://open.spotify.com/album/3UkWdgm7zfxjyGBWYobQZy) | 3:47 |
 | 62 | [Ordem e Progresso](https://open.spotify.com/track/7npk0ukq841MUA4WWCNKpy) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Lei da Atração](https://open.spotify.com/album/2eY60QSLUWHtgwGV3egQ0B) | 3:06 |
 | 63 | [Confronto](https://open.spotify.com/track/5Y0N6iSEr3AgU06xamAZl8) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT), [Fauzi Beydoun](https://open.spotify.com/artist/1vHuQfr8LwXBa17DPHRWaF) | [Lei da Atração](https://open.spotify.com/album/2eY60QSLUWHtgwGV3egQ0B) | 3:49 |
 | 64 | [Destemido Leão](https://open.spotify.com/track/5enTOdF1aPAfHHIr5AOACY) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Ciclo](https://open.spotify.com/album/3UkWdgm7zfxjyGBWYobQZy) | 4:08 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyV9fxDBL8dp.md) - [plain]
 | 69 | [Pedra Que Não Foi Polida](https://open.spotify.com/track/1RakbO7PwbaRHhwAM5wQy3) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Ciclo](https://open.spotify.com/album/3UkWdgm7zfxjyGBWYobQZy) | 3:21 |
 | 70 | [Vítima](https://open.spotify.com/track/7jMUhDGu6D02gtw5WgLfrz) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Ciclo](https://open.spotify.com/album/3UkWdgm7zfxjyGBWYobQZy) | 4:03 |
 
-Snapshot ID: `Mjc3MjQ0NDQsMDAwMDAwMDAxMmExYjkyMjhlZTRkYTEyMmVhODA1NjZkZTgxYTMzMA==`
+Snapshot ID: `Mjc3MjU4ODQsMDAwMDAwMDAzZTYyNjE2ZjFlMTQyMjYzZDFlMjkwM2RiNWIwMmE0OA==`

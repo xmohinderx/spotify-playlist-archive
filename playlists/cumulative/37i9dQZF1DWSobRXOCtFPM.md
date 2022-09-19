@@ -4,7 +4,7 @@
 
 > Listen to  <a href="spotify:artist:19SmlbABtI4bXz864MLqOS">Carl</a>'s favorite tracks\. Updated regularly\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-70 songs - 6 hr 56 min - not published yet
+70 songs - 6 hr 56 min - [published](https://open.spotify.com/playlist/13aMwxqAthDxS5YN5ONZlm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Los éxitos de siempre en concierto\. Foto: Celia Cruz
 
-51 songs - 5 hr 27 min - [published](https://open.spotify.com/playlist/4aFhuCpQYr4sVtONw9TY5C)
+52 songs - 5 hr 36 min - [published](https://open.spotify.com/playlist/4aFhuCpQYr4sVtONw9TY5C)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Clase Social \- En Vivo](https://open.spotify.com/track/44PxgFKSfEkaeDfT716Y7y) | [Porfi Baloa](https://open.spotify.com/artist/2SYIF2tMAgLcjtTTeCfjg3), [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [20 Años \- La Historia \(En Vivo\)](https://open.spotify.com/album/7BEr7vxhhJ3YTkIPnz4HLx) | 4:32 | 2022-03-18 |  |
 | [Como Podré Disimular](https://open.spotify.com/track/0rvSVIYp6ewTVkDzxYQbP9) | [Tito Gomez](https://open.spotify.com/artist/4zq1okwemKSJbZFDQrp7f2) | [Un Legado Musical \- Lo Nuevo y Lo Mejor](https://open.spotify.com/album/0VVjPqvFy9Nw816QCFNSbe) | 4:34 | 2022-03-18 |  |
 | [De Mi Enamórate \- Live Version](https://open.spotify.com/track/6U5U7lmwo7oP4eQ8ro3V7q) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Sergio George Presents Salsa Giants \(Live\)](https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io) | 4:30 | 2022-03-18 |  |
+| [Descarga Fania \- Live](https://open.spotify.com/track/1WeyEbCQgbh2YZkDKx6Uud) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Adalberto Santiago](https://open.spotify.com/artist/6tZxUxheS7w3953cQFOXkd) | [Live At The Cheetah, Vol\. 1](https://open.spotify.com/album/1XfrZU7zjQT9obvRbk1x0e) | 9:17 | 2022-03-18 |  |
 | [Desnudate Mujer](https://open.spotify.com/track/2aiTdsCbRlcDmSPzToIRIA) | [José Alberto "El Canario"](https://open.spotify.com/artist/6TRzinjf5dzE8zA8baPbYz) | [Va por Ti, Frankie \(Concierto Homenaje a Frankie Ruiz\)](https://open.spotify.com/album/3NpPEaMbkXan11KO2FB43Q) | 8:20 | 2022-03-18 |  |
 | [Ella Es \- En Vivo](https://open.spotify.com/track/718X6sjlHdmOzdTfJv4tUc) | [Tony Vega](https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY) | [En Concierto](https://open.spotify.com/album/3Gdp5KnCKrIDAfbgvM7N2b) | 4:56 | 2022-03-18 |  |
 | [Esa Mujer \- En Vivo](https://open.spotify.com/track/5gnYYnQTU1GsYlSTQw9Lvm) | [Tony Vega](https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY) | [En Concierto](https://open.spotify.com/album/3Gdp5KnCKrIDAfbgvM7N2b) | 5:51 | 2022-03-18 |  |
@@ -37,7 +38,7 @@
 | [Medias Negras \- Live Version](https://open.spotify.com/track/51QsdN4xBmkLhtqNi0J40l) | [Willy Chirino](https://open.spotify.com/artist/4dvonCK12HCv1UUryzRppO) | [Sergio George Presents Salsa Giants \(Live\)](https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io) | 5:52 | 2022-03-18 |  |
 | [Medley \(Amiga, Mi Media Mitad,luna Negra\)](https://open.spotify.com/track/7vIx0HasdNQJu1xYO4PMsN) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [Rey Ruiz Envivo \(15 AÑOS\)](https://open.spotify.com/album/548hHvN86B2e2PGNatWj48) | 7:20 | 2022-03-18 |  |
 | [Merecumbe](https://open.spotify.com/track/3UIdoF8igmzt7gnolINC97) | [Johnny Colon](https://open.spotify.com/artist/4IQvRKcRuA2mzB6lc2E5Pm) | [Fania Live 02 From Miami With DJ LeSpam](https://open.spotify.com/album/3hzWtDzAggtGEkuu6GMmSg) | 5:57 | 2022-03-18 |  |
-| [Mi Bajo y Yo \- Live Version](https://open.spotify.com/track/5VBWkhVysV6pW7Uiw5S4lb) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Sergio George Presents Salsa Giants \(Live\)](https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io) | 5:38 | 2022-03-18 |  |
+| [Mi Bajo y Yo \- Live Version](https://open.spotify.com/track/5VBWkhVysV6pW7Uiw5S4lb) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Sergio George Presents Salsa Giants \(Live\)](https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io) | 5:38 | 2022-03-18 | 2022-09-19 |
 | [Mi Mundo Es de Ella](https://open.spotify.com/track/6LEhXpp41dCJzU2MB7t1Qw) | [Maelo Ruiz](https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw) | [A Dos Epocas](https://open.spotify.com/album/7aYBMDpdSIff3lUP87Dbvn) | 5:36 | 2022-03-18 |  |
 | [No Podrás Escapar de Mí \- En Vivo](https://open.spotify.com/track/7HJL1P3DPHYYtR0wI7X2BK) | [Willie Gonzalez](https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z) | [Lo Nuevo Y Lo Mejor \(En Vivo\)](https://open.spotify.com/album/7iHGyYhoSAKDQG9UA2HsHy) | 6:04 | 2022-03-18 |  |
 | [Nuestro Sueño](https://open.spotify.com/track/7aXsYQkDCl9aWaTmwR5rrd) | [Tito Gomez](https://open.spotify.com/artist/4zq1okwemKSJbZFDQrp7f2) | [Un Legado Musical \- Lo Nuevo y Lo Mejor](https://open.spotify.com/album/0VVjPqvFy9Nw816QCFNSbe) | 5:22 | 2022-03-18 |  |

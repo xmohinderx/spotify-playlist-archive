@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 
 > Introducing Alma — a soul born from Latin and house music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,744 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,752 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 19 | [Witch Doctor](https://open.spotify.com/track/4lWGhzUW3dTPDMX9EII1Fc) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk) | [Witch Doctor](https://open.spotify.com/album/7etpucnkFPkpi89M5CCdu4) | 3:06 |
 | 20 | [Diamonds](https://open.spotify.com/track/7k7dPK1j1yRW4qW3WfwoZy) | [Sam Blans](https://open.spotify.com/artist/3aqsqogSTXrUJdcnFySUMi), [Jayson Alanzo](https://open.spotify.com/artist/6RpWxHyYKaMf59DRdgbCg5) | [Diamonds](https://open.spotify.com/album/1swFMuQMyNIKrR3ywxQYVk) | 2:55 |
 | 21 | [Magalenha \(feat\. Sergio Mendes\)](https://open.spotify.com/track/0cIadtlc6acyPFeWcSJlDg) | [Simon Fava](https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc), [Gregor Salto](https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew), [Sérgio Mendes](https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7) | [Magalenha \(feat\. Sergio Mendes\)](https://open.spotify.com/album/3wO3DaZVQkYIQYUFZww9x4) | 3:29 |
-| 22 | [Si Tu Sabe](https://open.spotify.com/track/5gx7iehGnlJZbogyzw7RI6) | [Black V Neck](https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a), [Dipzy](https://open.spotify.com/artist/5piZAMtqB9RrIxmXSWJ7q9) | [Si Tu Sabe](https://open.spotify.com/album/03V2IM59Iri9BtuHB1Vlll) | 3:25 |
-| 23 | [Quiribi \- Yamil Remix](https://open.spotify.com/track/0orz2g3pXj7q9meh8ccGzA) | [Rosalinda de la Espada](https://open.spotify.com/artist/1rORrFKQT8vxvmb8gIAqwl), [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS) | [Quiribi \(Yamil Remix\)](https://open.spotify.com/album/14vA1aUbS1VAl99DurxZXL) | 6:06 |
-| 24 | [Overtime](https://open.spotify.com/track/3hOWWujfSbRwkxgpW1WXYy) | [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf) | [Overtime / Physically](https://open.spotify.com/album/5Y3RzD6ncjJQ8TKh1PKIED) | 2:48 |
+| 22 | [Overtime](https://open.spotify.com/track/3hOWWujfSbRwkxgpW1WXYy) | [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf) | [Overtime / Physically](https://open.spotify.com/album/5Y3RzD6ncjJQ8TKh1PKIED) | 2:48 |
+| 23 | [Si Tu Sabe](https://open.spotify.com/track/5gx7iehGnlJZbogyzw7RI6) | [Black V Neck](https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a), [Dipzy](https://open.spotify.com/artist/5piZAMtqB9RrIxmXSWJ7q9) | [Si Tu Sabe](https://open.spotify.com/album/03V2IM59Iri9BtuHB1Vlll) | 3:25 |
+| 24 | [Quiribi \- Yamil Remix](https://open.spotify.com/track/0orz2g3pXj7q9meh8ccGzA) | [Rosalinda de la Espada](https://open.spotify.com/artist/1rORrFKQT8vxvmb8gIAqwl), [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS) | [Quiribi \(Yamil Remix\)](https://open.spotify.com/album/14vA1aUbS1VAl99DurxZXL) | 6:06 |
 | 25 | [Olvidar](https://open.spotify.com/track/3unK4aO28ZE2NNQM9BuCmX) | [kryptogram](https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui) | [krypt\. vol2](https://open.spotify.com/album/5vUygeQA7S7lsbwnTHpgwq) | 5:48 |
 | 26 | [Tribesmen \- Original Mix](https://open.spotify.com/track/3s6dh2duRyDcs3iu56CqgY) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ) | [Tribesmen](https://open.spotify.com/album/4zHC8hqVij0EsQ7l29PaQk) | 7:17 |
 | 27 | [Dirty Spanish](https://open.spotify.com/track/102vO4p4OoHWe7JO2OAzQw) | [Sam Blans](https://open.spotify.com/artist/3aqsqogSTXrUJdcnFySUMi) | [Dirty Spanish](https://open.spotify.com/album/3H8M3pxnpGqjf1faPwowEf) | 4:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 49 | [Colombiana](https://open.spotify.com/track/09wXTzm6Q3NpBDKS4kUAqc) | [Gettoblaster](https://open.spotify.com/artist/5LGa1U6Mwiib6ocVuJItcG), [CZR](https://open.spotify.com/artist/4whL137jgt9m3zwTUlGJDz) | [Colombiana](https://open.spotify.com/album/7vvmaTj1zNgUxP3M61v2gA) | 2:58 |
 | 50 | [Ay Papi](https://open.spotify.com/track/6cc30Sq9sWfhlsIL8DC0jw) | [Local Singles](https://open.spotify.com/artist/14P4DGZruzTjyQsglomkYp) | [Ay Papi](https://open.spotify.com/album/1JcwtK5OXj8916nJVIdoES) | 3:25 |
 
-Snapshot ID: `MTY1MTU4OTc5NCwwMDAwMDAwMDY1OWNiMDIzYWE0MjQ2MzNhMzJmZDhhYWMwZDYyZDcz`
+Snapshot ID: `MTY1MTU4OTc5NCwwMDAwMDAwMGMzOWU3YzRjMmE3NzEwYTlkYjkxNzI4OWJhNmM4Y2Q4`

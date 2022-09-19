@@ -4,7 +4,7 @@
 
 > 爵士就是一個聲音的紳士，有歌聲動人、有演奏優雅，旋律美妙之餘還濃濃情意！
 
-75 songs - 4 hr 57 min - not published yet
+75 songs - 4 hr 57 min - [published](https://open.spotify.com/playlist/2x9tGSQNrSGMnGerdaROm3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

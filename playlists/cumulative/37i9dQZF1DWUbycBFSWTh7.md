@@ -4,7 +4,7 @@
 
 > Deephouse in the mix for your delight.
 
-108 songs - 10 hr 12 min - not published yet
+108 songs - 10 hr 12 min - [published](https://open.spotify.com/playlist/3ANSrl5vN5o8myn56mbngK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

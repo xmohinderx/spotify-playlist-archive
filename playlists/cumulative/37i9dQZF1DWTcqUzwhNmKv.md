@@ -4,7 +4,7 @@
 
 > Three Days Grace on top of the biggest Metal playlist!
 
-281 songs - 18 hr 24 min - [published](https://open.spotify.com/playlist/4mdOdh141kr7vCeHVDE6oL)
+282 songs - 18 hr 30 min - [published](https://open.spotify.com/playlist/4mdOdh141kr7vCeHVDE6oL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,7 +205,8 @@
 | [SOS](https://open.spotify.com/track/43AG34Hsu3k5sSwGYOWpBP) | [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS) | [SOS](https://open.spotify.com/album/2oAnV3Zd5txIhmfUGX5fu2) | 3:39 | 2022-06-10 | 2022-08-06 |
 | [Spaceman \(feat\. FiNCH\)](https://open.spotify.com/track/6OXlb1FnbySxMPPhbwiXic) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc), [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD) | [Spaceman \(feat\. FiNCH\)](https://open.spotify.com/album/5bbrawfeXG2MHOYw0OSTyK) | 3:10 | 2022-04-08 | 2022-05-13 |
 | [Spillways](https://open.spotify.com/track/0WHtcCpZnoyFlQg3Mf2cdN) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [IMPERA](https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h) | 3:16 | 2022-09-16 |  |
-| [SPIRITS](https://open.spotify.com/track/3ssc9tjQwV4gk40pkktbOD) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [SPIRITS](https://open.spotify.com/album/2rE2XeImSA5qCuS4faICNV) | 5:39 | 2022-06-24 |  |
+| [SPIRITS](https://open.spotify.com/track/1CKZatRSZy0WUYNwtT5H6y) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [YOU DON’T KNOW WHAT LOVE MEANS](https://open.spotify.com/album/1BfOMEIpEQE8Xj2yYJLHPR) | 5:39 | 2022-09-16 |  |
+| [SPIRITS](https://open.spotify.com/track/3ssc9tjQwV4gk40pkktbOD) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [SPIRITS](https://open.spotify.com/album/2rE2XeImSA5qCuS4faICNV) | 5:39 | 2022-06-24 | 2022-09-19 |
 | [Stand Down](https://open.spotify.com/track/2tpiHcSSFCnpIH8HFzIUEa) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [Shrine](https://open.spotify.com/album/6weRZNkcgMFxKcr98KC6Dg) | 4:06 | 2022-06-06 | 2022-08-06 |
 | [Stand Down](https://open.spotify.com/track/2ugULOhXNVpIvksyagm9Qr) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [Stand Down](https://open.spotify.com/album/3YmIQSVKDgvDkDAdU03vEs) | 4:06 | 2022-04-15 | 2022-05-13 |
 | [Standing My Ground](https://open.spotify.com/track/2VysUNrUa2ADjbWFq9mXeM) | [The Veer Union](https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS) | [Standing My Ground](https://open.spotify.com/album/2hWAg8wRTOtHGvARnGPLcs) | 2:48 | 2022-01-14 | 2022-04-08 |

@@ -733,7 +733,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 178726,
       "name": "CLOUDS",
       "url": "https://open.spotify.com/track/43HB7iatxULhCqqIu7ouQT"
@@ -1049,7 +1049,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 174409,
       "name": "Dizzy",
       "url": "https://open.spotify.com/track/5JLSZoonTDUwaMdoptjPWe"
@@ -1231,7 +1231,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 193457,
       "name": "Dystopia",
       "url": "https://open.spotify.com/track/755jaJqdAQTreuL8MLYT5K"
@@ -3415,7 +3415,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 269000,
       "name": "Merry Midnight",
       "url": "https://open.spotify.com/track/2kSyqQJiVkF8H7huIDq0aH"
@@ -3503,6 +3503,32 @@
       "duration_ms": 168227,
       "name": "MONEY",
       "url": "https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q"
+    },
+    {
+      "album": {
+        "name": "HiROQUEST: Genesis",
+        "url": "https://open.spotify.com/album/0lF8VwXlAyOMFt1XQvCa5l"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "MOD SUN",
+          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
+        },
+        {
+          "name": "Global Dan",
+          "url": "https://open.spotify.com/artist/1lzugG0lqNh9nP6Fp2zG3c"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213655,
+      "name": "Movie Star (ft. MOD SUN & Global Dan)",
+      "url": "https://open.spotify.com/track/0P6jpMI0OXirXvurwBgM5d"
     },
     {
       "album": {
@@ -4268,6 +4294,24 @@
     },
     {
       "album": {
+        "name": "Hold The Girl",
+        "url": "https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205059,
+      "name": "Send My Love To John",
+      "url": "https://open.spotify.com/track/4ObFrK0MLVZyYaFHOyPbVa"
+    },
+    {
+      "album": {
         "name": "Shade of Yellow",
         "url": "https://open.spotify.com/album/1Yz6WdcuRxhdHzJG5zmLQZ"
       },
@@ -4319,6 +4363,24 @@
       "duration_ms": 210436,
       "name": "Shouldn't Be",
       "url": "https://open.spotify.com/track/3wefloF3t1sFZx8YMFhqYB"
+    },
+    {
+      "album": {
+        "name": "BORN PINK",
+        "url": "https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175889,
+      "name": "Shut Down",
+      "url": "https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF"
     },
     {
       "album": {
@@ -5053,6 +5115,24 @@
       "duration_ms": 232773,
       "name": "Tweety",
       "url": "https://open.spotify.com/track/2NDMLu8ZNrAsAsPAoW5VOx"
+    },
+    {
+      "album": {
+        "name": "SEND HELP",
+        "url": "https://open.spotify.com/album/7pcDzQ0QM54XXOqZf6BmSt"
+      },
+      "artists": [
+        {
+          "name": "YDE",
+          "url": "https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174846,
+      "name": "Uncomfortable",
+      "url": "https://open.spotify.com/track/0JDLR0RGTSw0KDkn6r4oEz"
     },
     {
       "album": {

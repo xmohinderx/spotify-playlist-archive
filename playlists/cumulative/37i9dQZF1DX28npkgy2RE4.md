@@ -4,7 +4,7 @@
 
 > New styles, deep sounds\. Cover: Aldous Harding
 
-352 songs - 21 hr 45 min - [published](https://open.spotify.com/playlist/3T5AaAW956YONHSWrxMmGK)
+354 songs - 21 hr 52 min - [published](https://open.spotify.com/playlist/3T5AaAW956YONHSWrxMmGK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Cigarette \- 7 Layers Session](https://open.spotify.com/track/08Pul3vjCGeOzn0w0Z39yX) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [Marika Hackman \(7 Layers Session\)](https://open.spotify.com/album/4pf9ADV26KLtvqn5X19t5j) | 1:56 | 2021-11-12 | 2022-06-01 |
 | [Circuit Rider](https://open.spotify.com/track/3C2pIO8aAdndrzUE72mii3) | [Steve Gunn](https://open.spotify.com/artist/7uLXW75DlTRahz2WKJZGeO) | [Circuit Rider](https://open.spotify.com/album/47jJa0W0FJNDYfQanDbnxa) | 3:44 | 2021-11-12 | 2022-07-03 |
 | [Claim Your Prize](https://open.spotify.com/track/6xzKyJSvApqLTlBIYDM3Jb) | [John Moreland](https://open.spotify.com/artist/5MPWTD6J1H9XqYEOb4QkdH) | [Claim Your Prize](https://open.spotify.com/album/0a3QmUqjU2YA1bz9xUSBvu) | 4:45 | 2022-05-25 | 2022-07-27 |
-| [Coast](https://open.spotify.com/track/1oI37bcVXsXl53sybDjABv) | [Participant](https://open.spotify.com/artist/7G3EOvlud2ZumHznucmZPc) | [Coast](https://open.spotify.com/album/2UWQ6ykErgoDdlR2b0Rows) | 3:55 | 2021-11-12 |  |
+| [Coast](https://open.spotify.com/track/1oI37bcVXsXl53sybDjABv) | [Participant](https://open.spotify.com/artist/7G3EOvlud2ZumHznucmZPc) | [Coast](https://open.spotify.com/album/2UWQ6ykErgoDdlR2b0Rows) | 3:55 | 2021-11-12 | 2022-09-19 |
 | [Cocaine Cowboys](https://open.spotify.com/track/5ww1cz0HayCtsi9l6j4n84) | [Ana Egge](https://open.spotify.com/artist/1dHhosKN9sgDJjFltalUch) | [Cocaine Cowboys](https://open.spotify.com/album/4MQUsmimNUUuMDtREtyIFw) | 3:55 | 2021-11-12 | 2022-07-29 |
 | [Collar of Fur](https://open.spotify.com/track/7ytLP3YW58akAQyMTwW78l) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [Cala](https://open.spotify.com/album/5N1201PBNTiy1gj7b7sPsW) | 2:28 | 2021-11-12 |  |
 | [Consolation Prize](https://open.spotify.com/track/71wiJ619MbaSStsiN6XT06) | [Ken Yates](https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi), [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Consolation Prize](https://open.spotify.com/album/5KyVj6FfbV3lwwMIXyQeZ1) | 4:00 | 2022-07-11 |  |
@@ -230,6 +230,7 @@
 | [Not Yet](https://open.spotify.com/track/3kVWSiAW7f42Lk7csxJ1VN) | [Izaak Opatz](https://open.spotify.com/artist/0ISWBim1mBiZ7bw6tXad3G) | [Mariachi Static](https://open.spotify.com/album/1f7tVn8Ff2Nr3PesnIi9HE) | 3:58 | 2021-11-12 |  |
 | [Nothing Compares](https://open.spotify.com/track/4I97vwuO13zggYHu0WYE7Y) | [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj) | [Note to Self](https://open.spotify.com/album/5rDVO3ROz5CXi1dcr2nWpR) | 4:02 | 2022-07-11 |  |
 | [Nothing Is Real](https://open.spotify.com/track/6D0QkwvPIe6hz1Twvnu2Ae) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [All the Things That I Did and All the Things That I Didn't Do](https://open.spotify.com/album/1BpQ1yTs26aKJg0aWqnzEq) | 2:44 | 2021-11-12 | 2022-01-18 |
+| [Now is the Time](https://open.spotify.com/track/5PiY6q31Ps3st88R3wNLhE) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Different Kinds of Light](https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9) | 3:35 | 2022-09-16 |  |
 | [Now is the Time](https://open.spotify.com/track/5ddrYyHEHIwXeeELXkgEel) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Now is the Time](https://open.spotify.com/album/2LYm9NJMZYR8V3Ldq5Umh4) | 3:35 | 2021-11-12 | 2022-09-15 |
 | [Old Black Magic](https://open.spotify.com/track/2101msXT4EW6S1QWDMqFA5) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [Old Black Magic](https://open.spotify.com/album/4fBlyjkl18CQinati1cdsv) | 4:46 | 2021-11-12 | 2022-04-21 |
 | [Old Black Magic](https://open.spotify.com/track/5lbgaOjchF4QZLdh2gw2Wl) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [Fever Breaks](https://open.spotify.com/album/3qL2gdQLgulBvIo7bng2zS) | 4:46 | 2022-07-11 |  |
@@ -245,6 +246,7 @@
 | [Picture Window](https://open.spotify.com/track/5sRVuINnM37MVfUFS2zOfJ) | [Kristine Leschper](https://open.spotify.com/artist/5j3howIfVr9Jm0AqHNapwf) | [Picture Window](https://open.spotify.com/album/0dVDYgYT8YK6WM69hgheeF) | 4:42 | 2022-01-21 |  |
 | [PIERCED ARROWS](https://open.spotify.com/track/2wEYO3Vg0gv5xK4iAMfHBz) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [LIFE ON EARTH](https://open.spotify.com/album/5oHaiGt9cgATxsrv409jP3) | 4:02 | 2022-07-11 |  |
 | [PIERCED ARROWS](https://open.spotify.com/track/3PjN0os4YRSKt3hefJq14b) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [PIERCED ARROWS](https://open.spotify.com/album/3Rug10AExjdT3hz3gFcJsH) | 4:02 | 2022-01-14 | 2022-07-29 |
+| [PIRATE RADIO\*](https://open.spotify.com/track/04sZfyhVJs0feZjVDq53Y8) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [PIRATE RADIO\*](https://open.spotify.com/album/039CFhV3mgb8ujdSz0Kpp3) | 3:09 | 2022-09-16 |  |
 | [Plan On You](https://open.spotify.com/track/3OO6rLLpPq2ps8nqPrIgXU) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Plan On You](https://open.spotify.com/album/4ZbYJnTiqmIBUrZy5S1fnT) | 3:28 | 2021-11-12 | 2022-05-18 |
 | [Plates](https://open.spotify.com/track/2om26BJOzO9DQEzhPr3WNG) | [Lala Lala](https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE), [Benjamin Gibbard](https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL) | [I Want The Door To Open](https://open.spotify.com/album/6x6VGqTPJBK6r3qfuqe2Zl) | 2:50 | 2021-11-12 | 2022-07-29 |
 | [Porta](https://open.spotify.com/track/6zfI5bLVFhDzYUBHmMA7ni) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Porta](https://open.spotify.com/album/4qf9PU9z1f7qql846P9bYO) | 3:26 | 2022-02-11 |  |
@@ -302,7 +304,7 @@
 | [Suburbia](https://open.spotify.com/track/5my2GN5y6i1KhOYfOByJEn) | [NoSo](https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o) | [Suburbia](https://open.spotify.com/album/3EKorAn8NIq138RN9W6XaC) | 3:35 | 2021-11-12 |  |
 | [Sugar in the Creek](https://open.spotify.com/track/7ceIJcA4Scip0WlJwwUnTS) | [Bendigo Fletcher](https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM) | [Sugar in the Creek](https://open.spotify.com/album/27apDe4nr7zwbz0ORbgrp1) | 4:11 | 2021-11-12 |  |
 | [Summertime](https://open.spotify.com/track/5cdYcHw7CJDhgNa21MSTYF) | [Susto](https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt) | [Summertime](https://open.spotify.com/album/4yPWRr124dmumSsCzIWDUs) | 3:35 | 2021-11-12 | 2022-07-29 |
-| [Sunbathers](https://open.spotify.com/track/5HKDtUThXMU5XWQLOjfyCo) | [Strand of Oaks](https://open.spotify.com/artist/0t4oHObO3FImWvIhMimaSL) | [In Heaven](https://open.spotify.com/album/76pQf98XjjF5RZIniiev2d) | 3:39 | 2021-11-12 |  |
+| [Sunbathers](https://open.spotify.com/track/5HKDtUThXMU5XWQLOjfyCo) | [Strand of Oaks](https://open.spotify.com/artist/0t4oHObO3FImWvIhMimaSL) | [In Heaven](https://open.spotify.com/album/76pQf98XjjF5RZIniiev2d) | 3:39 | 2021-11-12 | 2022-09-19 |
 | [Sunday Drive](https://open.spotify.com/track/7aRTaxQpag64SWksC1bTyl) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [On The Edge](https://open.spotify.com/album/4UFxr8dkCMT6cEnh92E268) | 3:42 | 2021-11-12 | 2022-07-15 |
 | [Sunny Room](https://open.spotify.com/track/0TFenVsi49MtEo1vQRwbnM) | [Maia Friedman](https://open.spotify.com/artist/3SAdHKW3ICNgtyFgaWdC6c) | [Sunny Room](https://open.spotify.com/album/4mYmpnhEhagXhTrhUiZmau) | 4:31 | 2022-04-01 | 2022-07-25 |
 | [Swimming Backwards](https://open.spotify.com/track/6gdXKvWTGKYDOsC1Rj3Q3d) | [There](https://open.spotify.com/artist/1acar6LWnyqmDdmHabW68Y) | [Swimming Backwards](https://open.spotify.com/album/6eiGLXIkQHtUO7EdFFAywc) | 3:42 | 2021-11-12 | 2022-07-26 |

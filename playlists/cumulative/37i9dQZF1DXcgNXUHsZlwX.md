@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. Photo: Les sœurs Boulay
 
-369 songs - 21 hr 46 min - [published](https://open.spotify.com/playlist/17ts8jbTOK4YpL5tyLJ1kX)
+370 songs - 21 hr 49 min - [published](https://open.spotify.com/playlist/17ts8jbTOK4YpL5tyLJ1kX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [FLATTE!](https://open.spotify.com/track/0q9SpxJXi5uLhxKQNsJflG) | [Fred Tremblay](https://open.spotify.com/artist/4MpruP4drFjBWNU64Ipd6n) | [Au pire, j'vendrai du gaz...](https://open.spotify.com/album/5LFv3Rp4aBp2WQbtJzBlDa) | 3:07 | 2021-02-23 | 2021-05-27 |
 | [Fontaine à vœux](https://open.spotify.com/track/22zJbNjvH4ZFplXfypE9Yo) | [Les Hay Babies](https://open.spotify.com/artist/19MYB7a3GOTcbnZrl7juwx) | [Boîte aux lettres](https://open.spotify.com/album/4Ziyy1jo91GImMnuTHtU19) | 3:30 | 2022-07-08 |  |
 | [Fontaine à vœux](https://open.spotify.com/track/4S9LrQt71r4XcUQylmgyGM) | [Les Hay Babies](https://open.spotify.com/artist/19MYB7a3GOTcbnZrl7juwx) | [Boîte aux lettres](https://open.spotify.com/album/0vl6hSJqFCkUPeE0FNvf6e) | 3:30 | 2021-01-03\* | 2022-07-29 |
+| [For The Breakdowns](https://open.spotify.com/track/2fN3mTftR80HwV5r79rq10) | [afternoon bike ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [For the Breakdowns](https://open.spotify.com/album/5yoqFxiDljDVn70lVn1Sd2) | 3:04 | 2022-09-16 |  |
 | [Fuck you mon amour](https://open.spotify.com/track/5yAibZYjXyGkFPZvQLAdiM) | [Bernard Adamus](https://open.spotify.com/artist/2ndxSSEDxr0s9csEgGYMrE) | [C'qui nous reste du Texas](https://open.spotify.com/album/11NpZmKnX39yEMSxwiURpm) | 4:30 | 2021-01-15 | 2022-01-29 |
 | [Garde le nord](https://open.spotify.com/track/4TAMqukJfBGUI2KEkc3HSu) | [Lily Tea](https://open.spotify.com/artist/1Pjd7h78IDqjwql6rrhthZ) | [Garde le nord](https://open.spotify.com/album/73M2NHUYWCNEilZm0e0sTn) | 3:03 | 2021-03-09 | 2021-05-07 |
 | [Girouette](https://open.spotify.com/track/7cEjFMHqhnJEbpbnHUQP7E) | [Nicolas Gémus](https://open.spotify.com/artist/26G3zw1ksovIyzq8pYRjXj) | [Hiboux](https://open.spotify.com/album/4D7WHshT3h2wZngM9x4AzQ) | 3:19 | 2022-07-08 |  |
@@ -297,7 +298,7 @@
 | [Quand je vivrai](https://open.spotify.com/track/0FrojbNAzWO7OAVPCpnh1V) | [Edgar Bori](https://open.spotify.com/artist/0CK3dcbuqup5VhYfsp2WOA) | [Quand je vivrai](https://open.spotify.com/album/4ed6WpS99PHH6ZLIaH9NyH) | 4:12 | 2021-03-08 | 2021-10-16 |
 | [Quatre nuages](https://open.spotify.com/track/06kiLCDL8nl4cbrBbz6ktz) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [Sessions de mai](https://open.spotify.com/album/5gxIvKHzRZAYXR2UDVpUHQ) | 2:23 | 2021-01-03\* | 2021-12-18 |
 | [Quelque chose de beau](https://open.spotify.com/track/2SAAhzhAr2zntNxLIvD0wf) | [Catherine Durand](https://open.spotify.com/artist/5AmMLTm7GBQ5AHCGioFshD) | [Quelque chose de beau](https://open.spotify.com/album/2vlQb0SMJmwhSTDsRUKD18) | 3:28 | 2022-04-08 | 2022-07-25 |
-| [Qui a mis le feu](https://open.spotify.com/track/4WIpgkUySL7bkVfaX0xl04) | [Mat Vezio](https://open.spotify.com/artist/20zIZk4XpHgNPwW0Dx1O8X) | [Qui a mis le feu](https://open.spotify.com/album/7devaNGpSc9fBF5GzZuw6W) | 2:51 | 2021-10-31 |  |
+| [Qui a mis le feu](https://open.spotify.com/track/4WIpgkUySL7bkVfaX0xl04) | [Mat Vezio](https://open.spotify.com/artist/20zIZk4XpHgNPwW0Dx1O8X) | [Qui a mis le feu](https://open.spotify.com/album/7devaNGpSc9fBF5GzZuw6W) | 2:51 | 2021-10-31 | 2022-09-19 |
 | [Qué vendrá](https://open.spotify.com/track/7vM9PYre666so0kS0IBEhJ) | [Zaz](https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy) | [Qué vendrá](https://open.spotify.com/album/5IoQT1ITAc60MPlgMLSjQh) | 2:57 | 2021-02-23 | 2021-05-28 |
 | [Radio bingo](https://open.spotify.com/track/0sGeklmSEIOvf71AJqsPvK) | [Québec Redneck Bluegrass Project](https://open.spotify.com/artist/6QafnqFGVO80DazTYj5fAz) | [J'ai Bu](https://open.spotify.com/album/36Nlk84bj3ZLeQNB8q2fmK) | 4:24 | 2021-01-03\* | 2021-10-02 |
 | [Ramenez\-moi](https://open.spotify.com/track/4rgkt06MGUEVbXxrYsnPTv) | [Belle Grand Fille](https://open.spotify.com/artist/3xMp2n97jzSF7mQFzqKoL2) | [Ramenez\-moi](https://open.spotify.com/album/1m9GgPn0v6d9X0504FKYa5) | 3:13 | 2021-02-13 | 2022-02-12 |

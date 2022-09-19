@@ -1,12 +1,12 @@
 {
   "description": "Descubra Mac J\u00falia e novos talentos brasileiros no horizonte.",
-  "num_followers": 421390,
+  "num_followers": 421378,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDUzMjQ2MCwwMDAwMDAwMDRkMmZhODMwZTQyNTBmMmVjYWQ3MzZmY2NhYWVhMDVl",
+  "snapshot_id": "MTY2MDUzMjQ2MCwwMDAwMDAwMDU5OTg4MWVkODM0YTAyMGFiYmYzNjQ1MWVlOTBjNDE4",
   "tracks": [
     {
       "added_at": "2022-08-15 03:01:00",
@@ -479,6 +479,26 @@
     {
       "added_at": "2022-08-15 03:01:00",
       "album": {
+        "name": "P90",
+        "url": "https://open.spotify.com/album/6bemhnTC1gXKmGhuYOtVJz"
+      },
+      "artists": [
+        {
+          "name": "JayPluggz",
+          "url": "https://open.spotify.com/artist/5plOn7vFrwAlvqDfDCtM1M"
+        },
+        {
+          "name": "Brocasito",
+          "url": "https://open.spotify.com/artist/6ixe2JpfacOq9BvkwQ9rXM"
+        }
+      ],
+      "duration_ms": 123383,
+      "name": "P90",
+      "url": "https://open.spotify.com/track/43ZNwGCrC4ZD5e0DGGMbvV"
+    },
+    {
+      "added_at": "2022-08-15 03:01:00",
+      "album": {
         "name": "Rock Danger, Vol. 1",
         "url": "https://open.spotify.com/album/10NgAPEXrO27p2uhmuZgyu"
       },
@@ -499,26 +519,6 @@
       "duration_ms": 178005,
       "name": "Dia de Baile",
       "url": "https://open.spotify.com/track/3dYN651z0KSUQnC0fxCKWN"
-    },
-    {
-      "added_at": "2022-08-15 03:01:00",
-      "album": {
-        "name": "P90",
-        "url": "https://open.spotify.com/album/6bemhnTC1gXKmGhuYOtVJz"
-      },
-      "artists": [
-        {
-          "name": "JayPluggz",
-          "url": "https://open.spotify.com/artist/5plOn7vFrwAlvqDfDCtM1M"
-        },
-        {
-          "name": "Brocasito",
-          "url": "https://open.spotify.com/artist/6ixe2JpfacOq9BvkwQ9rXM"
-        }
-      ],
-      "duration_ms": 123383,
-      "name": "P90",
-      "url": "https://open.spotify.com/track/43ZNwGCrC4ZD5e0DGGMbvV"
     },
     {
       "added_at": "2022-08-15 03:01:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2022-08-15 03:01:00",
       "album": {
-        "name": "F\u00daRIA",
-        "url": "https://open.spotify.com/album/16F4OuXRl7D54HEiwErbOQ"
-      },
-      "artists": [
-        {
-          "name": "Urias",
-          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
-        }
-      ],
-      "duration_ms": 177650,
-      "name": "Tanto Faz",
-      "url": "https://open.spotify.com/track/6SsjwrTV7bn8eeibnMftZp"
-    },
-    {
-      "added_at": "2022-08-15 03:01:00",
-      "album": {
         "name": "Gostosa Posturada",
         "url": "https://open.spotify.com/album/3NQXrEDQR2TG7rnYP6TwMF"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 216923,
       "name": "Potranca",
       "url": "https://open.spotify.com/track/0l1jN8AUIHnTJYTbTh5kX9"
+    },
+    {
+      "added_at": "2022-08-15 03:01:00",
+      "album": {
+        "name": "F\u00daRIA",
+        "url": "https://open.spotify.com/album/16F4OuXRl7D54HEiwErbOQ"
+      },
+      "artists": [
+        {
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "duration_ms": 177650,
+      "name": "Tanto Faz",
+      "url": "https://open.spotify.com/track/6SsjwrTV7bn8eeibnMftZp"
     },
     {
       "added_at": "2022-08-15 03:01:00",
@@ -771,6 +771,22 @@
     {
       "added_at": "2022-08-15 03:01:00",
       "album": {
+        "name": "BXD IN JAZZ",
+        "url": "https://open.spotify.com/album/2ocVVPThABbahLeYHR9FBO"
+      },
+      "artists": [
+        {
+          "name": "YO\u00d9N",
+          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
+        }
+      ],
+      "duration_ms": 173147,
+      "name": "Meu Grande Amor",
+      "url": "https://open.spotify.com/track/06leULDpUK6vlq3I29zdvr"
+    },
+    {
+      "added_at": "2022-08-15 03:01:00",
+      "album": {
         "name": "PELE",
         "url": "https://open.spotify.com/album/57LANvZ85BtVlj31EAY7EK"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 134264,
       "name": "Matem\u00e1tica",
       "url": "https://open.spotify.com/track/1xRxdXBGDY5O89pKp40i0L"
-    },
-    {
-      "added_at": "2022-08-15 03:01:00",
-      "album": {
-        "name": "BXD IN JAZZ",
-        "url": "https://open.spotify.com/album/2ocVVPThABbahLeYHR9FBO"
-      },
-      "artists": [
-        {
-          "name": "YO\u00d9N",
-          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
-        }
-      ],
-      "duration_ms": 173147,
-      "name": "Meu Grande Amor",
-      "url": "https://open.spotify.com/track/06leULDpUK6vlq3I29zdvr"
     },
     {
       "added_at": "2022-08-15 03:01:00",
@@ -927,26 +927,6 @@
     {
       "added_at": "2022-08-15 03:01:00",
       "album": {
-        "name": "Contram\u00e3o",
-        "url": "https://open.spotify.com/album/0dF3Hp05Ud1aUXPz8qv8X2"
-      },
-      "artists": [
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Taleko",
-          "url": "https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz"
-        }
-      ],
-      "duration_ms": 222857,
-      "name": "Contram\u00e3o",
-      "url": "https://open.spotify.com/track/00CCXySfYOVAXvRb8y8bmo"
-    },
-    {
-      "added_at": "2022-08-15 03:01:00",
-      "album": {
         "name": "Bendito Rol\u00ea",
         "url": "https://open.spotify.com/album/5ThMKwTKtrGl29FxY0Q4FH"
       },
@@ -999,6 +979,58 @@
     {
       "added_at": "2022-08-15 03:01:00",
       "album": {
+        "name": "Contram\u00e3o",
+        "url": "https://open.spotify.com/album/0dF3Hp05Ud1aUXPz8qv8X2"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Taleko",
+          "url": "https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz"
+        }
+      ],
+      "duration_ms": 222857,
+      "name": "Contram\u00e3o",
+      "url": "https://open.spotify.com/track/00CCXySfYOVAXvRb8y8bmo"
+    },
+    {
+      "added_at": "2022-08-15 03:01:00",
+      "album": {
+        "name": "SIM SIM SIM",
+        "url": "https://open.spotify.com/album/5lPgAWFWtQOUllSFzoWJtx"
+      },
+      "artists": [
+        {
+          "name": "Bala Desejo",
+          "url": "https://open.spotify.com/artist/4MF1QlpuvKRIfkmfOA4DrH"
+        },
+        {
+          "name": "Dora Morelenbaum",
+          "url": "https://open.spotify.com/artist/6xt7x7TG8ExdvWM3R15cmE"
+        },
+        {
+          "name": "Z\u00e9 Ibarra",
+          "url": "https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U"
+        },
+        {
+          "name": "Julia Mestre",
+          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
+        },
+        {
+          "name": "Lucas Nunes",
+          "url": "https://open.spotify.com/artist/3wO3x8goZuWnibpyFMakpW"
+        }
+      ],
+      "duration_ms": 303550,
+      "name": "Baile de M\u00e1scaras (Recarnaval)",
+      "url": "https://open.spotify.com/track/7M8ufi5rmgnWpJfPidV4g8"
+    },
+    {
+      "added_at": "2022-08-15 03:01:00",
+      "album": {
         "name": "Encruzilhada",
         "url": "https://open.spotify.com/album/2Mfu5KHRKxv7NwkyKbFnwk"
       },
@@ -1043,54 +1075,6 @@
     {
       "added_at": "2022-08-15 03:01:00",
       "album": {
-        "name": "Imaginar",
-        "url": "https://open.spotify.com/album/7vkh9ZNyMOGNT6buIpje3x"
-      },
-      "artists": [
-        {
-          "name": "Reid",
-          "url": "https://open.spotify.com/artist/0YWKYHR1rKdnPRlYvisCqo"
-        }
-      ],
-      "duration_ms": 140689,
-      "name": "Imaginar",
-      "url": "https://open.spotify.com/track/5LfkX8BcsESakxgyGEB1vX"
-    },
-    {
-      "added_at": "2022-08-15 03:01:00",
-      "album": {
-        "name": "SIM SIM SIM",
-        "url": "https://open.spotify.com/album/5lPgAWFWtQOUllSFzoWJtx"
-      },
-      "artists": [
-        {
-          "name": "Bala Desejo",
-          "url": "https://open.spotify.com/artist/4MF1QlpuvKRIfkmfOA4DrH"
-        },
-        {
-          "name": "Dora Morelenbaum",
-          "url": "https://open.spotify.com/artist/6xt7x7TG8ExdvWM3R15cmE"
-        },
-        {
-          "name": "Z\u00e9 Ibarra",
-          "url": "https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U"
-        },
-        {
-          "name": "Julia Mestre",
-          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
-        },
-        {
-          "name": "Lucas Nunes",
-          "url": "https://open.spotify.com/artist/3wO3x8goZuWnibpyFMakpW"
-        }
-      ],
-      "duration_ms": 303550,
-      "name": "Baile de M\u00e1scaras (Recarnaval)",
-      "url": "https://open.spotify.com/track/7M8ufi5rmgnWpJfPidV4g8"
-    },
-    {
-      "added_at": "2022-08-15 03:01:00",
-      "album": {
         "name": "Carta Que N\u00e3o Diz",
         "url": "https://open.spotify.com/album/3gK51ZgTFMiFHekQKRUUNX"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 191911,
       "name": "Carta Que N\u00e3o Diz",
       "url": "https://open.spotify.com/track/2iXQ3CYVGQihlFpWCDDmJM"
+    },
+    {
+      "added_at": "2022-08-15 03:01:00",
+      "album": {
+        "name": "Imaginar",
+        "url": "https://open.spotify.com/album/7vkh9ZNyMOGNT6buIpje3x"
+      },
+      "artists": [
+        {
+          "name": "Reid",
+          "url": "https://open.spotify.com/artist/0YWKYHR1rKdnPRlYvisCqo"
+        }
+      ],
+      "duration_ms": 140689,
+      "name": "Imaginar",
+      "url": "https://open.spotify.com/track/5LfkX8BcsESakxgyGEB1vX"
     },
     {
       "added_at": "2022-08-15 03:01:00",
@@ -1155,30 +1155,6 @@
     {
       "added_at": "2022-08-15 03:01:00",
       "album": {
-        "name": "Baby Hair",
-        "url": "https://open.spotify.com/album/6Hk41Rh3IMBcdhOwneSaQo"
-      },
-      "artists": [
-        {
-          "name": "Pretta Poder",
-          "url": "https://open.spotify.com/artist/6CEm11gYIUP8EeirFIXAYt"
-        },
-        {
-          "name": "Chris Beats Zn",
-          "url": "https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW"
-        },
-        {
-          "name": "SoudCrime",
-          "url": "https://open.spotify.com/artist/0Huu7Wxkay3mCaoMuVkRNg"
-        }
-      ],
-      "duration_ms": 153393,
-      "name": "Baby Hair",
-      "url": "https://open.spotify.com/track/6tgveJsfKptFd0mvJG9Iv6"
-    },
-    {
-      "added_at": "2022-08-15 03:01:00",
-      "album": {
         "name": "De Novo",
         "url": "https://open.spotify.com/album/6BGcVu7zcnTWPONgBJe5mQ"
       },
@@ -1207,18 +1183,42 @@
     {
       "added_at": "2022-08-15 03:01:00",
       "album": {
-        "name": "Mais Uma Can\u00e7\u00e3o Pra Voc\u00ea",
-        "url": "https://open.spotify.com/album/6k8qjqkqQDs8BYhkrab866"
+        "name": "Baby Hair",
+        "url": "https://open.spotify.com/album/6Hk41Rh3IMBcdhOwneSaQo"
       },
       "artists": [
         {
-          "name": "Mariana Froes",
-          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
+          "name": "Pretta Poder",
+          "url": "https://open.spotify.com/artist/6CEm11gYIUP8EeirFIXAYt"
+        },
+        {
+          "name": "Chris Beats Zn",
+          "url": "https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW"
+        },
+        {
+          "name": "SoudCrime",
+          "url": "https://open.spotify.com/artist/0Huu7Wxkay3mCaoMuVkRNg"
         }
       ],
-      "duration_ms": 288383,
-      "name": "Mais Uma Can\u00e7\u00e3o Pra Voc\u00ea",
-      "url": "https://open.spotify.com/track/5x9hKw3w0M2FuZ5yFKlaPy"
+      "duration_ms": 153393,
+      "name": "Baby Hair",
+      "url": "https://open.spotify.com/track/6tgveJsfKptFd0mvJG9Iv6"
+    },
+    {
+      "added_at": "2022-08-15 03:01:00",
+      "album": {
+        "name": "Jogo de Aposta",
+        "url": "https://open.spotify.com/album/5ZPL8STC4NCBb7ms7vyJL0"
+      },
+      "artists": [
+        {
+          "name": "Jecy",
+          "url": "https://open.spotify.com/artist/10RqlMm59EFKFeUc9LA1Uv"
+        }
+      ],
+      "duration_ms": 166987,
+      "name": "Jogo de Aposta",
+      "url": "https://open.spotify.com/track/3dGZE3ALCdLynbwJQ05fKy"
     }
   ],
   "unique_name": "RADAR Brasil",

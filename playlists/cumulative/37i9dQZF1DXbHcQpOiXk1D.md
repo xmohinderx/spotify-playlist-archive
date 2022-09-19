@@ -4,7 +4,7 @@
 
 > The best from Britain's vibrant scene\. Cover: Yazmin Lacey
 
-320 songs - 23 hr 36 min - [published](https://open.spotify.com/playlist/59EKsWawfSCVKzHCfwFtdU)
+321 songs - 23 hr 40 min - [published](https://open.spotify.com/playlist/59EKsWawfSCVKzHCfwFtdU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [First Light](https://open.spotify.com/track/0wIjLBtF13wkJ5MGPYmFSZ) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [Two For Mistake](https://open.spotify.com/album/7lQnb1YRhpJnlX86NYqq7N) | 6:12 | 2021-12-17 |  |
 | [Five Fruit](https://open.spotify.com/track/2R8H75qUKm5nCIJHXHFSr3) | [Steam Down](https://open.spotify.com/artist/2dOnTAoXrpBwYAo1qIbemO) | [Five Fruit](https://open.spotify.com/album/7iR8sBbkaBUDM1PQyh3aDU) | 6:36 | 2022-02-04 | 2022-07-25 |
 | [Fix It](https://open.spotify.com/track/6A4IsE49xSN07NqbXiUMFc) | [Joe Armon\-Jones](https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5), [Goya Gumbani](https://open.spotify.com/artist/0Up93b7Ut6uacH5Zv8sBkx) | [Fix It](https://open.spotify.com/album/38mGI3mqjh7Jdj0KxW0quL) | 3:53 | 2021-12-17 | 2022-09-10 |
-| [Fleur bleue](https://open.spotify.com/track/7gPMJj8rKTU5YVJxtiKuNw) | [Béesau](https://open.spotify.com/artist/5m6hZJfUOm9EPFyiLIRjSs), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [Fleur bleue](https://open.spotify.com/album/5TckHbP7bzLjA8JgoImqcu) | 3:53 | 2022-07-07 |  |
+| [Fleur bleue](https://open.spotify.com/track/7gPMJj8rKTU5YVJxtiKuNw) | [Béesau](https://open.spotify.com/artist/5m6hZJfUOm9EPFyiLIRjSs), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [Fleur bleue](https://open.spotify.com/album/5TckHbP7bzLjA8JgoImqcu) | 3:53 | 2022-07-07 | 2022-09-19 |
 | [Fly Away](https://open.spotify.com/track/0H0WnilVxLBKRcMHZ9eXUV) | [Otis Ubaka](https://open.spotify.com/artist/1YreDOGr8en691i5jQJJMK), [Maxine Scott](https://open.spotify.com/artist/1KbzThyB1jS28RXOc1lyvY) | [Fly Away](https://open.spotify.com/album/5oCCPheozFmtlz9qIv6rck) | 2:42 | 2022-03-31 | 2022-04-18 |
 | [Footprints](https://open.spotify.com/track/1Y1R4GVtxibyf4E4SX2Q3y) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [Footprints](https://open.spotify.com/album/4K02gs1yPH1O21lNGSx0HY) | 6:21 | 2021-12-17 | 2022-06-10 |
 | [For My Ladies](https://open.spotify.com/track/7jPNoWAyDdfnzU3mUBI0HI) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Rocco Palladino](https://open.spotify.com/artist/3gTKlamoFhZeUOFykWBouS), [Charlie Stacey](https://open.spotify.com/artist/3Uw7i8bbD7k8eOD5SIqn9g) | [Duality](https://open.spotify.com/album/2MuFOcI1ife385ZHck1iIw) | 5:41 | 2021-12-17 | 2022-02-26 |
@@ -188,6 +188,7 @@
 | [Movementt](https://open.spotify.com/track/41eywgVC3YN7RmdZNmwpyC) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Movementt](https://open.spotify.com/album/4MnjVFnInqwCgHBqt4e6zN) | 3:33 | 2021-12-17 | 2022-04-29 |
 | [Much Better \(Suitcase\)](https://open.spotify.com/track/3zNK6buz7vo1Kkp0yGCbES) | [Halfpenny](https://open.spotify.com/artist/5VjfZxLgu20M5RiLtSn8q3) | [Much Better \(Suitcase\)](https://open.spotify.com/album/4uPaDfrZnYmcvxMCGzH2vN) | 5:12 | 2022-03-08 | 2022-04-18 |
 | [My Life \(feat\. James Coleman\)](https://open.spotify.com/track/3b4LQJFtUKK1Ax947YouHl) | [David Mrakpor](https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [James Coleman](https://open.spotify.com/artist/5WOmgJ1aLsF878tbEMpSD9) | [My Life \(feat\. James Coleman\)](https://open.spotify.com/album/3nXnB05LKorXxehY5QevoA) | 7:47 | 2021-12-17 | 2022-07-29 |
+| [My Love](https://open.spotify.com/track/0xV9H4ED3bpdTQwYLy75D0) | [Hagan](https://open.spotify.com/artist/0OvwOTSbNyHM0nnyvdCxNU), [Meron T](https://open.spotify.com/artist/40jBR1w46zqDUfbVQttJrb) | [My Love](https://open.spotify.com/album/1iOsZjDI58pcyADCBrk1gJ) | 4:27 | 2022-09-16 |  |
 | [Mystics \- Live](https://open.spotify.com/track/5LvYyX92OBI2bNAdfT98X9) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [The Yussef Dayes Experience Live at Joshua Tree \(Presented by Soulection\)](https://open.spotify.com/album/0kJc3MpSWk7zlItn5DOJOg) | 3:47 | 2022-08-18 |  |
 | [Never Odd or Even](https://open.spotify.com/track/15CgvAuQAy0FOPJYiJ2yTG) | [Maliki](https://open.spotify.com/artist/1ERFAODrl5Aj4SQjrcWKyk) | [Never Odd or Even](https://open.spotify.com/album/3F96mitDz79X98YVBgbe9B) | 4:31 | 2021-12-17 | 2022-07-16 |
 | [Never Stopped for the Sun 'till Now](https://open.spotify.com/track/20afoEqLRHin6E8mm4o4Lq) | [Gabriel Gifford](https://open.spotify.com/artist/7ceIRf4Nyq04yXCq4HXLgj) | [Arrows](https://open.spotify.com/album/0uECWXCJ3VUg3TG1oltcqs) | 3:26 | 2021-12-17 | 2022-08-05 |

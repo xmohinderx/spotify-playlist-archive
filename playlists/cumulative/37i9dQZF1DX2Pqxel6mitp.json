@@ -615,7 +615,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 315000,
       "name": "Devil Got My Woman",
       "url": "https://open.spotify.com/track/6DawgaTuMtL9DOq1jCVeVN"
@@ -1603,6 +1603,28 @@
       "duration_ms": 247496,
       "name": "Natural Blues",
       "url": "https://open.spotify.com/track/5zakPCpl4O2v1UEow7Qv29"
+    },
+    {
+      "album": {
+        "name": "Navigation Blues",
+        "url": "https://open.spotify.com/album/1uVVEurSRPaxgJF2EuAHEr"
+      },
+      "artists": [
+        {
+          "name": "Thorbj\u00f8rn Risager",
+          "url": "https://open.spotify.com/artist/1ZH4VWLaW65KivEJmbhhiT"
+        },
+        {
+          "name": "The Black Tornado",
+          "url": "https://open.spotify.com/artist/5xZXRYnVUXrCglxwVCLAVD"
+        }
+      ],
+      "date_added": "2022-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296466,
+      "name": "Navigation Blues",
+      "url": "https://open.spotify.com/track/55WTb0BjmzXUUurFiNRWVk"
     },
     {
       "album": {

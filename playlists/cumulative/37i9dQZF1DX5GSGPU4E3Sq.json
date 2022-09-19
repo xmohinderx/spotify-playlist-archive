@@ -2720,6 +2720,24 @@
     },
     {
       "album": {
+        "name": "Forest Creeks",
+        "url": "https://open.spotify.com/album/0v6HrufgzVstSVfet7u6Nf"
+      },
+      "artists": [
+        {
+          "name": "The Relaxing Sounds of Swedish Nature",
+          "url": "https://open.spotify.com/artist/3yQUKaHkSwdGxlk8LxN5iu"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155905,
+      "name": "Midmorning in the Forest",
+      "url": "https://open.spotify.com/track/49kxZ12f0I1RYCZBCKlCMK"
+    },
+    {
+      "album": {
         "name": "Daydream",
         "url": "https://open.spotify.com/album/5UswlOAxw3EgvhjueVkYT1"
       },
@@ -3599,7 +3617,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 122837,
       "name": "Silviculture",
       "url": "https://open.spotify.com/track/6RzY1FdhbgqimxfPft78fB"

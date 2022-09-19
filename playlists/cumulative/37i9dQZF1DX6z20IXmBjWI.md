@@ -4,7 +4,7 @@
 
 > Acoustic and roots music gems.
 
-323 songs - 20 hr 10 min - [published](https://open.spotify.com/playlist/2lhdiCy6DWi2BRRHxhm4lv)
+324 songs - 20 hr 14 min - [published](https://open.spotify.com/playlist/2lhdiCy6DWi2BRRHxhm4lv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Back to Tennessee](https://open.spotify.com/track/6yVZtPADFaHeYpeAS45Gz2) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Back to Tennessee](https://open.spotify.com/album/6wXcYqIiXETdVMD0GwnI4G) | 3:36 | 2021-12-10 | 2022-05-18 |
 | [Been Worryin'](https://open.spotify.com/track/088kWm2bfPw22I3jIa6Yll) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk), [Jeremie Albino](https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY) | [Been Worryin'](https://open.spotify.com/album/0wqmYZL5CugLyro5p73EtD) | 3:02 | 2021-12-10 | 2022-07-29 |
 | [Before You](https://open.spotify.com/track/60GSDg8mVq5lIwBdQ8Fdgv) | [Fortunate Ones](https://open.spotify.com/artist/69sHd7jjEkbKxn91qUB60L) | [Before You](https://open.spotify.com/album/3Cm5kXIKNv7VmgvYcotCQC) | 2:47 | 2021-12-10 | 2022-07-27 |
-| [Before You](https://open.spotify.com/track/6d8q33UrhmaumDVf0WaB9t) | [Fortunate Ones](https://open.spotify.com/artist/69sHd7jjEkbKxn91qUB60L) | [Hold Fast](https://open.spotify.com/album/0MCYFxmEbnjXs8GduUuWtF) | 2:47 | 2022-06-08 |  |
+| [Before You](https://open.spotify.com/track/6d8q33UrhmaumDVf0WaB9t) | [Fortunate Ones](https://open.spotify.com/artist/69sHd7jjEkbKxn91qUB60L) | [Hold Fast](https://open.spotify.com/album/0MCYFxmEbnjXs8GduUuWtF) | 2:47 | 2022-06-08 | 2022-09-19 |
 | [Better Days](https://open.spotify.com/track/02HJc2G0BfiJBJhet27Scm) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [Better Days](https://open.spotify.com/album/76H7LQRjofrjoPlGDLwkwk) | 3:21 | 2021-12-10 |  |
 | [Better Now \- Acoustic](https://open.spotify.com/track/7iqqjQINhAvsNNwXWMU8ga) | [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [Better Now \(Acoustic\)](https://open.spotify.com/album/2kFBZkUYEkrV2LdibnX0tu) | 3:54 | 2021-12-10 | 2022-09-12 |
 | [Beyond](https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 4:00 | 2021-12-10 |  |
@@ -81,6 +81,7 @@
 | [Fever To The Form](https://open.spotify.com/track/1QJnDJuYOGj05iSc4eWGr5) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [First Mind](https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh) | 4:12 | 2021-12-10 |  |
 | [Fine \(Acoustic\)](https://open.spotify.com/track/1T9TM6Yn0xWK2n7kSvwhPi) | [Liz Longley](https://open.spotify.com/artist/1qImAIy1ZVCgR5KD88QXkr) | [Fine \(Acoustic\)](https://open.spotify.com/album/0oqZlkmPCccZ0o7VWuhSXP) | 3:16 | 2022-01-21 | 2022-03-13 |
 | [First Defeat](https://open.spotify.com/track/57FqmzNGTziRPCyuqaUrHo) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [Ledges](https://open.spotify.com/album/27VFXuIlqXgZeIImVfjszW) | 4:03 | 2022-06-08 |  |
+| [Follow My Voice](https://open.spotify.com/track/3yQ7OQoOtzVgBNEJ8i7Vcs) | [Julie Byrne](https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV) | [Not Even Happiness](https://open.spotify.com/album/1ZgvdUee6cQ0NCDHfKxbH0) | 4:02 | 2022-06-08 |  |
 | [Follow My Voice](https://open.spotify.com/track/7pT3faDXSC5tNAlIKmtrYf) | [Julie Byrne](https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV) | [Not Even Happiness](https://open.spotify.com/album/4D0slaYPm4oiwFRlv10rJz) | 4:02 | 2022-06-08 | 2022-09-09 |
 | [For All You Give](https://open.spotify.com/track/6LLb6rVMgQnGNZwwHSxTzn) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy), [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Roses](https://open.spotify.com/album/6w6TexLleVpQxVzOKOBaOD) | 3:11 | 2022-06-08 |  |
 | [For All You Give \(feat\. Lucy Rose\)](https://open.spotify.com/track/3GVCqeU1ckkSJtY86bwGSs) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy), [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [For All You Give \(feat\. Lucy Rose\)](https://open.spotify.com/album/3cukLP76M7U4Lg6iIOFUmf) | 3:11 | 2021-12-10 | 2022-07-29 |

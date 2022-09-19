@@ -4,7 +4,7 @@
 
 > 2012 highlights from the home of indie music.
 
-100 songs - 6 hr 21 min - not published yet
+100 songs - 6 hr 21 min - [published](https://open.spotify.com/playlist/29YeNDTqUiFvSscOUZ5nOE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

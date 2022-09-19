@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-09-17",
   "description": "This is Valerie June. The essential tracks, all in one playlist.",
   "name": "This Is Valerie June",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "52exBamxt7BX0krY7QWXcE"
+  ],
   "tracks": [
     {
       "album": {
@@ -172,6 +174,24 @@
     },
     {
       "album": {
+        "name": "The Order Of Time",
+        "url": "https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210520,
+      "name": "If And",
+      "url": "https://open.spotify.com/track/0xnirEyt7tGGvC63fpYfrb"
+    },
+    {
+      "album": {
         "name": "Under Cover",
         "url": "https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH"
       },
@@ -309,7 +329,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 186773,
       "name": "Man Done Wrong",
       "url": "https://open.spotify.com/track/33w72MNohZL6i5oAU99XT0"
@@ -385,6 +405,24 @@
       "duration_ms": 145280,
       "name": "Pink Moon",
       "url": "https://open.spotify.com/track/5SW6BhWTAJenEneGruiijj"
+    },
+    {
+      "album": {
+        "name": "Pushin' Against A Stone",
+        "url": "https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314320,
+      "name": "Pushin\u2019 Against A Stone",
+      "url": "https://open.spotify.com/track/0DhXt0ky95iGN2uhP41Nv3"
     },
     {
       "album": {
@@ -597,7 +635,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 182093,
       "name": "Trials, Troubles, Tribulations",
       "url": "https://open.spotify.com/track/16sKiqhg3YdpeyJ8bsxYxM"

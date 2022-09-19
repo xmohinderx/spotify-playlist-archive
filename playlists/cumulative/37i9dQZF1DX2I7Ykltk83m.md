@@ -4,7 +4,7 @@
 
 > killer songs from badass artists\. Cover: Soccer Mommy
 
-271 songs - 16 hr 16 min - [published](https://open.spotify.com/playlist/4qEfllXxSWqJiKi8GSfFEw)
+272 songs - 16 hr 19 min - [published](https://open.spotify.com/playlist/4qEfllXxSWqJiKi8GSfFEw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Buzz](https://open.spotify.com/track/2HJfsvk8GKk6qCGLG8cMCA) | [Maddie Medley](https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3) | [Coming Of Age pt\. 1](https://open.spotify.com/album/2QXM0eteTUsJ42k6T9fEEy) | 4:21 | 2022-05-20 |  |
 | [Buzz](https://open.spotify.com/track/55pp6iI1wvxZL93k25vzXn) | [Maddie Medley](https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3) | [Buzz](https://open.spotify.com/album/1QChcUJsmg1rp3zL57iafO) | 4:21 | 2021-11-14 | 2022-07-22 |
 | [C'mon Be Cool](https://open.spotify.com/track/5WEvpHhaLnH1ScM4A1nDzC) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [C'mon Be Cool](https://open.spotify.com/album/4EimlD1OXtXp0GGHFQ1yGv) | 3:15 | 2021-11-14 | 2022-07-26 |
-| [Cacti For Clothes](https://open.spotify.com/track/4JlIPmUjRmw9fmkEoV1Tmm) | [Pageants](https://open.spotify.com/artist/6KfGl8LhIlb8R1Uhu0yqqr) | [Cacti For Clothes](https://open.spotify.com/album/3QWUoUL1vdQQAcsnvPFwEl) | 3:02 | 2022-04-01 |  |
+| [Cacti For Clothes](https://open.spotify.com/track/4JlIPmUjRmw9fmkEoV1Tmm) | [Pageants](https://open.spotify.com/artist/6KfGl8LhIlb8R1Uhu0yqqr) | [Cacti For Clothes](https://open.spotify.com/album/3QWUoUL1vdQQAcsnvPFwEl) | 3:02 | 2022-04-01 | 2022-09-19 |
 | [Cady Road](https://open.spotify.com/track/4wPihuMELRDRJIHUBOp9HW) | [Routine](https://open.spotify.com/artist/0u2fToDTRacRkAYleHznQS), [Annie Truscott](https://open.spotify.com/artist/0trxEg1if3MeWAt66UNfGo), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Cady Road](https://open.spotify.com/album/6zBwMl6GARPzqmZtv0YK8Z) | 3:10 | 2021-11-14 | 2022-07-29 |
 | [Call Me Home](https://open.spotify.com/track/7EepuMExJZF3eimemlp771) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Call Me Home](https://open.spotify.com/album/2VTv5RQrj5dRi70aCfNhUc) | 3:45 | 2022-02-04 | 2022-07-29 |
 | [Can't Fight](https://open.spotify.com/track/1T14htJZadDgBUgFNgEGbz) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Lianne La Havas](https://open.spotify.com/album/6JwtB0zzNYy4qANDrJtrJy) | 3:10 | 2021-11-14 | 2022-07-24 |
@@ -110,6 +110,7 @@
 | [Half Right](https://open.spotify.com/track/2RKAabaddUZDAL1gGRRvtN) | [Rachel Bobbitt](https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC) | [Half Right](https://open.spotify.com/album/7nTjnUaj7RNvXBxqsCluiL) | 4:40 | 2022-04-01 | 2022-04-19 |
 | [Hasta La Vista](https://open.spotify.com/track/6YLzLfLo0Pn65NCcHUocvS) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [So When You Gonna...](https://open.spotify.com/album/0GhGbJ83FB1iR27bCFwmj5) | 3:42 | 2021-11-14 | 2022-07-29 |
 | [Headstart](https://open.spotify.com/track/4hvogg26QxhiwZejv9nNae) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Headstart](https://open.spotify.com/album/2MFtg3BQopMqFiEYXQZ9q2) | 2:22 | 2021-11-14 | 2022-09-15 |
+| [Headstart](https://open.spotify.com/track/7pwv5cbW7hj4HVv3US4XUT) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Different Kinds of Light](https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9) | 2:22 | 2022-05-20 |  |
 | [Heart of Gold](https://open.spotify.com/track/3rVbE0KZ8N26C9yn6PonQ0) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5) | [Romantic Images](https://open.spotify.com/album/25RhUgQQlr0u6G2r7np9bT) | 2:51 | 2022-05-20 |  |
 | [Heart of Gold](https://open.spotify.com/track/6llEKdd9fteEPFnyV0OLZc) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5) | [Heart of Gold](https://open.spotify.com/album/5tYPEtQgBSORry07FxxmO7) | 2:51 | 2021-11-14 | 2022-07-29 |
 | [Hold U](https://open.spotify.com/track/6cc0aU3UwzVxpJ4hzqGedK) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Hold U](https://open.spotify.com/album/3Q7cvRxPP6gbPZf2u7AM2e) | 4:16 | 2021-11-14 |  |

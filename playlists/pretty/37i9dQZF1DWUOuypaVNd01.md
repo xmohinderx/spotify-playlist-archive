@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 
 > De réu a ref \- o filho deles quer viver essa vida\. Foto: Nochica, Vitin, SD9, JEFFRO
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,045 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,093 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 | 42 | [Dez e Faixa](https://open.spotify.com/track/6IL4ZRTz8QlJ6VuSg3F3Rv) | [AKA AFK](https://open.spotify.com/artist/1ZEPj2UWxPZEELctnTNRca), [TONCALi](https://open.spotify.com/artist/3enZVLaByIf1A6appp41gc) | [Dez e Faixa](https://open.spotify.com/album/0soK3TwSlDh53P3q48WPdK) | 2:37 |
 | 43 | [Lixo ao Luxo](https://open.spotify.com/track/7ctT75UhzxwIt3Ki476RXU) | [diniBoy](https://open.spotify.com/artist/1hXHVRZlpm93rvPRb7d7HU), [Sheik S](https://open.spotify.com/artist/5sDqgvXRa1vqlQ80rJ6Gob), [Dababi 212](https://open.spotify.com/artist/1BvG6DgsQB8Om5T7OUzo5L) | [Lixo ao Luxo](https://open.spotify.com/album/6liYxrQLuRLY7XldSp2w45) | 3:14 |
 | 44 | [Encomenda](https://open.spotify.com/track/2AcXPYmNCL0928ISaAqhLw) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Luna](https://open.spotify.com/artist/2uY6iqNed0QZuENdRbxiaW) | [Esculpido a Machado](https://open.spotify.com/album/5BCSltKIxLBav5MEeF0aOh) | 2:37 |
-| 45 | [Herança](https://open.spotify.com/track/533AKJNxbvkYCOP0M0jB7g) | [Òggi](https://open.spotify.com/artist/5pzvzy77au5p2HzOrndp3P), [FelpsDead.](https://open.spotify.com/artist/03axc9aM7P1oy73zT1Atjm) | [Herança](https://open.spotify.com/album/4RHNwCYaQw31hTBpBI0Lmr) | 2:16 |
+| 45 | [Favela Bailão](https://open.spotify.com/track/5extYhflXbMKDv9vGi74B4) | [Carmath 774](https://open.spotify.com/artist/3xyYIJJKr0sb4WbEr4raFx) | [Favela Bailão](https://open.spotify.com/album/1t5NyVCHhjqiLkv4mzi7v6) | 2:03 |
 | 46 | [Raddim](https://open.spotify.com/track/3yoWQ2192aCD6LyChIUmAR) | [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [Fleezus](https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1) | [RADDIM](https://open.spotify.com/album/4bz8Hy3tV46QYTsQ3KbSh0) | 3:29 |
-| 47 | [Favela Bailão](https://open.spotify.com/track/5extYhflXbMKDv9vGi74B4) | [Carmath 774](https://open.spotify.com/artist/3xyYIJJKr0sb4WbEr4raFx) | [Favela Bailão](https://open.spotify.com/album/1t5NyVCHhjqiLkv4mzi7v6) | 2:03 |
+| 47 | [Herança](https://open.spotify.com/track/533AKJNxbvkYCOP0M0jB7g) | [Òggi](https://open.spotify.com/artist/5pzvzy77au5p2HzOrndp3P), [FelpsDead.](https://open.spotify.com/artist/03axc9aM7P1oy73zT1Atjm) | [Herança](https://open.spotify.com/album/4RHNwCYaQw31hTBpBI0Lmr) | 2:16 |
 | 48 | [Não Grita](https://open.spotify.com/track/4nX4FiXWfTclsHcNpyianf) | [Kami](https://open.spotify.com/artist/4mabvpDeyCltfovLkJtZCh), [Yellow Town Rec](https://open.spotify.com/artist/3ic8Kae4JWIiisCqzSdRQu), [Seize](https://open.spotify.com/artist/3NOQ7oGw8HHvXVK3TiMXwx) | [Não Grita](https://open.spotify.com/album/2U2p88NkynYjHEsKPnPDdV) | 2:32 |
 | 49 | [Quebrando Regras](https://open.spotify.com/track/1khFaNabDuHN814N0ww0Mj) | [Xandy MC](https://open.spotify.com/artist/5oQnCQtwReXr4ai56qGWMC), [Chris Beats Zn](https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW) | [Quebrando Regras](https://open.spotify.com/album/24kyFBNUZsYmm19GISzgoW) | 2:26 |
 | 50 | [Riqueza](https://open.spotify.com/track/3YfHTvRU8S08RL3UWUEiEr) | [Dendê](https://open.spotify.com/artist/306dURz1s90QIIZaVusODl), [Vinão Beats](https://open.spotify.com/artist/6z3MdWWG4r2vJivLpHV9WH) | [Riqueza](https://open.spotify.com/album/0ReYt8t0Bttf1Y6dDnimjs) | 2:20 |
 
-Snapshot ID: `MTY2MjY5MjQ2MCwwMDAwMDAwMGViZDE5NTA1ZWIzZThlMzRiNWViMzdmMWFlNWFmODVj`
+Snapshot ID: `MTY2MjY5MjQ2MCwwMDAwMDAwMDhiMzk1MWNlNjRhMTk1OTFkZGMxOGZhYTFjMzQ1YWY3`

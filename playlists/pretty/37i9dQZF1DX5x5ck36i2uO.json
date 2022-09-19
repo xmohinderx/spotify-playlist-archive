@@ -1,12 +1,12 @@
 {
   "description": "\ubd80\ub4dc\ub7fd\uace0 \uace0\uae09\uc2a4\ub7ec\uc6b4 \uc7ac\uc988\ud5a5\uc774 \uac00\ubbf8\ub41c \ud799\ud569\uc74c\uc545\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 5889,
+  "num_followers": 5898,
   "original_name": "\uc7ac\uc988\ub9db \ud799\ud569",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ4MjMwOCwwMDAwMDAwMDk2NzAyMGNhOWNmZmQ1ZmM2YjhjYjY0YTAwNjEzZGM5",
+  "snapshot_id": "MTY1ODQ4MjMwOCwwMDAwMDAwMGFjMzkzNDViZTkzZTRiNWJlNTQwOWY5MWRhODNmOTVi",
   "tracks": [
     {
       "added_at": "2022-07-22 09:31:48",
@@ -447,38 +447,6 @@
     {
       "added_at": "2022-07-22 09:31:48",
       "album": {
-        "name": "PROTOTYPE RESEARCH #0063",
-        "url": "https://open.spotify.com/album/0djyRzAxBwLFkW89M8XdwP"
-      },
-      "artists": [
-        {
-          "name": "Kim Seungmin",
-          "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
-        }
-      ],
-      "duration_ms": 185204,
-      "name": "Gyeongsan-si",
-      "url": "https://open.spotify.com/track/2Vjwz8mExrUU2A2YV5DvI7"
-    },
-    {
-      "added_at": "2022-07-22 09:31:48",
-      "album": {
-        "name": "u n u, Pt. 1",
-        "url": "https://open.spotify.com/album/7mOkHhVubCkf42pkrazJxq"
-      },
-      "artists": [
-        {
-          "name": "nafla",
-          "url": "https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr"
-        }
-      ],
-      "duration_ms": 200186,
-      "name": "gucci girl",
-      "url": "https://open.spotify.com/track/5CDTCUl3TD36C5Ezhdfr3C"
-    },
-    {
-      "added_at": "2022-07-22 09:31:48",
-      "album": {
         "name": "ROOM SERVICE",
         "url": "https://open.spotify.com/album/1GbGtBHI4yiKprKQq81El0"
       },
@@ -499,6 +467,38 @@
       "duration_ms": 159230,
       "name": "Color (Feat. youra)",
       "url": "https://open.spotify.com/track/1ruwBe8TgkNnlKUiwXTxWB"
+    },
+    {
+      "added_at": "2022-07-22 09:31:48",
+      "album": {
+        "name": "u n u, Pt. 1",
+        "url": "https://open.spotify.com/album/7mOkHhVubCkf42pkrazJxq"
+      },
+      "artists": [
+        {
+          "name": "nafla",
+          "url": "https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr"
+        }
+      ],
+      "duration_ms": 200186,
+      "name": "gucci girl",
+      "url": "https://open.spotify.com/track/5CDTCUl3TD36C5Ezhdfr3C"
+    },
+    {
+      "added_at": "2022-07-22 09:31:48",
+      "album": {
+        "name": "PROTOTYPE RESEARCH #0063",
+        "url": "https://open.spotify.com/album/0djyRzAxBwLFkW89M8XdwP"
+      },
+      "artists": [
+        {
+          "name": "Kim Seungmin",
+          "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
+        }
+      ],
+      "duration_ms": 185204,
+      "name": "Gyeongsan-si",
+      "url": "https://open.spotify.com/track/2Vjwz8mExrUU2A2YV5DvI7"
     },
     {
       "added_at": "2022-07-22 09:31:48",
@@ -835,22 +835,6 @@
     {
       "added_at": "2022-07-22 09:31:48",
       "album": {
-        "name": "Message In A Bottle",
-        "url": "https://open.spotify.com/album/26rsyTRa4oAqcqBgJTKE3R"
-      },
-      "artists": [
-        {
-          "name": "Junoflo",
-          "url": "https://open.spotify.com/artist/5ZjBaiZiRUZx4AmlzOOc9R"
-        }
-      ],
-      "duration_ms": 180705,
-      "name": "Message In A Bottle",
-      "url": "https://open.spotify.com/track/3Ypwf52y6piITO7AFTdqFc"
-    },
-    {
-      "added_at": "2022-07-22 09:31:48",
-      "album": {
         "name": "Life+unconsciousness",
         "url": "https://open.spotify.com/album/0ENIw3VQ7WFRb9oMT5n8wx"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 193375,
       "name": "Piss On Me",
       "url": "https://open.spotify.com/track/4GJy4M67insCFuAUhluOza"
+    },
+    {
+      "added_at": "2022-07-22 09:31:48",
+      "album": {
+        "name": "Message In A Bottle",
+        "url": "https://open.spotify.com/album/26rsyTRa4oAqcqBgJTKE3R"
+      },
+      "artists": [
+        {
+          "name": "Junoflo",
+          "url": "https://open.spotify.com/artist/5ZjBaiZiRUZx4AmlzOOc9R"
+        }
+      ],
+      "duration_ms": 180705,
+      "name": "Message In A Bottle",
+      "url": "https://open.spotify.com/track/3Ypwf52y6piITO7AFTdqFc"
     },
     {
       "added_at": "2022-07-22 09:31:48",
@@ -931,26 +931,6 @@
     {
       "added_at": "2022-07-22 09:31:48",
       "album": {
-        "name": "1Q87",
-        "url": "https://open.spotify.com/album/6PopAFrTktanfRYFQK256w"
-      },
-      "artists": [
-        {
-          "name": "Nucksal",
-          "url": "https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB"
-        },
-        {
-          "name": "Gummy",
-          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
-        }
-      ],
-      "duration_ms": 190160,
-      "name": "\ub108\uc640 \ub098",
-      "url": "https://open.spotify.com/track/2olvuxBSILBXb2L2brRJzR"
-    },
-    {
-      "added_at": "2022-07-22 09:31:48",
-      "album": {
         "name": "TRAVEL: NOAH",
         "url": "https://open.spotify.com/album/4JgE4ZTDBxLbXt8v1R6UB5"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 215857,
       "name": "GOOD NIGHT",
       "url": "https://open.spotify.com/track/1mVr7cmhQIoLt4u0BR8x57"
+    },
+    {
+      "added_at": "2022-07-22 09:31:48",
+      "album": {
+        "name": "1Q87",
+        "url": "https://open.spotify.com/album/6PopAFrTktanfRYFQK256w"
+      },
+      "artists": [
+        {
+          "name": "Nucksal",
+          "url": "https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB"
+        },
+        {
+          "name": "Gummy",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
+        }
+      ],
+      "duration_ms": 190160,
+      "name": "\ub108\uc640 \ub098",
+      "url": "https://open.spotify.com/track/2olvuxBSILBXb2L2brRJzR"
     }
   ],
   "unique_name": "\uc7ac\uc988\ub9db \ud799\ud569",

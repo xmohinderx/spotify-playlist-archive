@@ -1,12 +1,12 @@
 {
   "description": "Se acab\u00f3 el amor. La m\u00fasica contin\u00faa.",
-  "num_followers": 1694226,
+  "num_followers": 1694458,
   "original_name": "Sin Ti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkyODc0NywwMDAwMDAwMGRhMDc3YjI0ZjA3MjU5ZDJhYTYyNDI4OGVmMzY2MjAy",
+  "snapshot_id": "MTY2MTkyODc0NywwMDAwMDAwMGE4OGY0MThhZDhhNTNmNWY0MWYxYjFmMWI4ZTlhODk2",
   "tracks": [
     {
       "added_at": "2022-08-31 06:52:27",
@@ -343,26 +343,6 @@
     {
       "added_at": "2022-08-31 06:52:27",
       "album": {
-        "name": "Mesa Para Dos",
-        "url": "https://open.spotify.com/album/1ZGHMTg7kh6TRqDRkJyEHO"
-      },
-      "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        },
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 238628,
-      "name": "Titanic",
-      "url": "https://open.spotify.com/track/7F1oLjSguGBvqsJLal7Rad"
-    },
-    {
-      "added_at": "2022-08-31 06:52:27",
-      "album": {
         "name": "OCEAN",
         "url": "https://open.spotify.com/album/4i5b4YWuMtneUSvQPONwzK"
       },
@@ -379,6 +359,26 @@
       "duration_ms": 202053,
       "name": "Dices Que Te Vas",
       "url": "https://open.spotify.com/track/0QHOIQxRlIPYPJ1HLgIN8S"
+    },
+    {
+      "added_at": "2022-08-31 06:52:27",
+      "album": {
+        "name": "Mesa Para Dos",
+        "url": "https://open.spotify.com/album/1ZGHMTg7kh6TRqDRkJyEHO"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 238628,
+      "name": "Titanic",
+      "url": "https://open.spotify.com/track/7F1oLjSguGBvqsJLal7Rad"
     },
     {
       "added_at": "2022-08-31 06:52:27",
@@ -595,6 +595,22 @@
     {
       "added_at": "2022-08-31 06:52:27",
       "album": {
+        "name": "B\u00e9same Bonito",
+        "url": "https://open.spotify.com/album/5o9DsjFypLEtnfGvbSK9Zi"
+      },
+      "artists": [
+        {
+          "name": "Carmen DeLeon",
+          "url": "https://open.spotify.com/artist/6vVKjeD0dvsg5EVMEUxI1l"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "B\u00e9same Bonito",
+      "url": "https://open.spotify.com/track/5wiP01qdBYlarxTj8uI40n"
+    },
+    {
+      "added_at": "2022-08-31 06:52:27",
+      "album": {
         "name": "Empezar Desde Cero",
         "url": "https://open.spotify.com/album/3dFYNMT0LYCPhpw8Q010pJ"
       },
@@ -635,34 +651,18 @@
     {
       "added_at": "2022-08-31 06:52:27",
       "album": {
-        "name": "B\u00e9same Bonito",
-        "url": "https://open.spotify.com/album/5o9DsjFypLEtnfGvbSK9Zi"
+        "name": "Siempre",
+        "url": "https://open.spotify.com/album/5wUOStQ3CWOvHKMYAguLRN"
       },
       "artists": [
         {
-          "name": "Carmen DeLeon",
-          "url": "https://open.spotify.com/artist/6vVKjeD0dvsg5EVMEUxI1l"
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
         }
       ],
-      "duration_ms": 180000,
-      "name": "B\u00e9same Bonito",
-      "url": "https://open.spotify.com/track/5wiP01qdBYlarxTj8uI40n"
-    },
-    {
-      "added_at": "2022-08-31 06:52:27",
-      "album": {
-        "name": "V\u00e9rtigo",
-        "url": "https://open.spotify.com/album/3rMqrzAwB0tLlsA9Zrd46L"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 209221,
-      "name": "Hablemos de amor",
-      "url": "https://open.spotify.com/track/0ttJ5VlYydkecHXNqQChgN"
+      "duration_ms": 92539,
+      "name": "Siempre",
+      "url": "https://open.spotify.com/track/1twVzpotI6HwGVOT00m3ml"
     },
     {
       "added_at": "2022-08-31 06:52:27",
@@ -687,18 +687,18 @@
     {
       "added_at": "2022-08-31 06:52:27",
       "album": {
-        "name": "Siempre",
-        "url": "https://open.spotify.com/album/5wUOStQ3CWOvHKMYAguLRN"
+        "name": "V\u00e9rtigo",
+        "url": "https://open.spotify.com/album/3rMqrzAwB0tLlsA9Zrd46L"
       },
       "artists": [
         {
-          "name": "3AM",
-          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
         }
       ],
-      "duration_ms": 92539,
-      "name": "Siempre",
-      "url": "https://open.spotify.com/track/1twVzpotI6HwGVOT00m3ml"
+      "duration_ms": 209221,
+      "name": "Hablemos de amor",
+      "url": "https://open.spotify.com/track/0ttJ5VlYydkecHXNqQChgN"
     },
     {
       "added_at": "2022-08-31 06:52:27",
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-08-31 06:52:27",
       "album": {
-        "name": "Adi\u00f3s",
-        "url": "https://open.spotify.com/album/4Ir9tMgz5BSmUYljvn6pR3"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 182413,
-      "name": "Adi\u00f3s",
-      "url": "https://open.spotify.com/track/7JlkxvPt4HQSzr4XT5Plsl"
-    },
-    {
-      "added_at": "2022-08-31 06:52:27",
-      "album": {
         "name": "TINI TINI TINI",
         "url": "https://open.spotify.com/album/16TT0OKoyEgD22nj70WUEi"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 194836,
       "name": "Te Olvidar\u00e9",
       "url": "https://open.spotify.com/track/1z48NPFPNJEV4UAg83OFd2"
+    },
+    {
+      "added_at": "2022-08-31 06:52:27",
+      "album": {
+        "name": "Adi\u00f3s",
+        "url": "https://open.spotify.com/album/4Ir9tMgz5BSmUYljvn6pR3"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 182413,
+      "name": "Adi\u00f3s",
+      "url": "https://open.spotify.com/track/7JlkxvPt4HQSzr4XT5Plsl"
     },
     {
       "added_at": "2022-08-31 06:52:27",
@@ -855,26 +855,6 @@
     {
       "added_at": "2022-08-31 06:52:27",
       "album": {
-        "name": "PAUSA",
-        "url": "https://open.spotify.com/album/3hS1wzvOJuioDs9VV6HW3R"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        },
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 232331,
-      "name": "Recuerdo",
-      "url": "https://open.spotify.com/track/7zh0PdIYt6HxXoPvfb30MU"
-    },
-    {
-      "added_at": "2022-08-31 06:52:27",
-      "album": {
         "name": "Una Mentira M\u00e1s",
         "url": "https://open.spotify.com/album/74pZFv3znRw9RbXOSYORcI"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 202300,
       "name": "Una Mentira M\u00e1s",
       "url": "https://open.spotify.com/track/6jGNM4ntC8xzMHo5t0YNDF"
+    },
+    {
+      "added_at": "2022-08-31 06:52:27",
+      "album": {
+        "name": "PAUSA",
+        "url": "https://open.spotify.com/album/3hS1wzvOJuioDs9VV6HW3R"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        },
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 232331,
+      "name": "Recuerdo",
+      "url": "https://open.spotify.com/track/7zh0PdIYt6HxXoPvfb30MU"
     },
     {
       "added_at": "2022-08-31 06:52:27",
@@ -1043,26 +1043,6 @@
     {
       "added_at": "2022-08-31 06:52:27",
       "album": {
-        "name": "Arregl\u00e1ndome y Da\u00f1\u00e1ndome",
-        "url": "https://open.spotify.com/album/1PIYczCyoij3KAG5FRTChF"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Samantha Barr\u00f3n",
-          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
-        }
-      ],
-      "duration_ms": 244802,
-      "name": "Arregl\u00e1ndome y Da\u00f1\u00e1ndome",
-      "url": "https://open.spotify.com/track/1dKK4hfno7Jfsh84FQVa5R"
-    },
-    {
-      "added_at": "2022-08-31 06:52:27",
-      "album": {
         "name": "Vuelve",
         "url": "https://open.spotify.com/album/05ZaKm4eYlGXsesyzD1fZK"
       },
@@ -1079,6 +1059,26 @@
       "duration_ms": 224013,
       "name": "Vuelve",
       "url": "https://open.spotify.com/track/6WSAPEkvEfcEUgSTAo1D3S"
+    },
+    {
+      "added_at": "2022-08-31 06:52:27",
+      "album": {
+        "name": "Arregl\u00e1ndome y Da\u00f1\u00e1ndome",
+        "url": "https://open.spotify.com/album/1PIYczCyoij3KAG5FRTChF"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Samantha Barr\u00f3n",
+          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
+        }
+      ],
+      "duration_ms": 244802,
+      "name": "Arregl\u00e1ndome y Da\u00f1\u00e1ndome",
+      "url": "https://open.spotify.com/track/1dKK4hfno7Jfsh84FQVa5R"
     },
     {
       "added_at": "2022-08-31 06:52:27",
@@ -1371,26 +1371,6 @@
     {
       "added_at": "2022-08-31 06:52:27",
       "album": {
-        "name": "Tiene Que Existir",
-        "url": "https://open.spotify.com/album/7rZehTzCB1s3QlUFGMFUGo"
-      },
-      "artists": [
-        {
-          "name": "Nab\u00e1lez",
-          "url": "https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF"
-        },
-        {
-          "name": "Santiago Cruz",
-          "url": "https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7"
-        }
-      ],
-      "duration_ms": 189473,
-      "name": "Tiene Que Existir",
-      "url": "https://open.spotify.com/track/6Hc7T09nwRTTm4X6iTJbKN"
-    },
-    {
-      "added_at": "2022-08-31 06:52:27",
-      "album": {
         "name": "Cuerno",
         "url": "https://open.spotify.com/album/058TOwhFmaaxyTTilf5XJD"
       },
@@ -1407,6 +1387,26 @@
       "duration_ms": 178199,
       "name": "Cuerno",
       "url": "https://open.spotify.com/track/7FEAc7tO7oaQ6Q1zzoz7eD"
+    },
+    {
+      "added_at": "2022-08-31 06:52:27",
+      "album": {
+        "name": "Tiene Que Existir",
+        "url": "https://open.spotify.com/album/7rZehTzCB1s3QlUFGMFUGo"
+      },
+      "artists": [
+        {
+          "name": "Nab\u00e1lez",
+          "url": "https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF"
+        },
+        {
+          "name": "Santiago Cruz",
+          "url": "https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7"
+        }
+      ],
+      "duration_ms": 189473,
+      "name": "Tiene Que Existir",
+      "url": "https://open.spotify.com/track/6Hc7T09nwRTTm4X6iTJbKN"
     },
     {
       "added_at": "2022-08-31 06:52:27",
@@ -1439,6 +1439,22 @@
       "duration_ms": 305346,
       "name": "Ahora Quien",
       "url": "https://open.spotify.com/track/3i3fYhl23l7exbIj9oAJPN"
+    },
+    {
+      "added_at": "2022-08-31 06:52:27",
+      "album": {
+        "name": "Te acuerdas?",
+        "url": "https://open.spotify.com/album/4bgNYwpO19Pm0olhO3srld"
+      },
+      "artists": [
+        {
+          "name": "Paul Alone",
+          "url": "https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE"
+        }
+      ],
+      "duration_ms": 183265,
+      "name": "Te acuerdas?",
+      "url": "https://open.spotify.com/track/25tHQXFLUN38dQXQyKu9Ev"
     },
     {
       "added_at": "2022-08-31 06:52:27",
@@ -1479,18 +1495,18 @@
     {
       "added_at": "2022-08-31 06:52:27",
       "album": {
-        "name": "Te acuerdas?",
-        "url": "https://open.spotify.com/album/4bgNYwpO19Pm0olhO3srld"
+        "name": "Si alg\u00fan d\u00eda me toca a m\u00ed",
+        "url": "https://open.spotify.com/album/2lgGsWvn6GO3xsWHiwbcOF"
       },
       "artists": [
         {
-          "name": "Paul Alone",
-          "url": "https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE"
+          "name": "Karen M\u00e9ndez",
+          "url": "https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk"
         }
       ],
-      "duration_ms": 183265,
-      "name": "Te acuerdas?",
-      "url": "https://open.spotify.com/track/25tHQXFLUN38dQXQyKu9Ev"
+      "duration_ms": 238458,
+      "name": "Si alg\u00fan d\u00eda me toca a m\u00ed",
+      "url": "https://open.spotify.com/track/0EWTV2ya46WyDFrKiDz7ay"
     },
     {
       "added_at": "2022-08-31 06:52:27",
@@ -1511,18 +1527,18 @@
     {
       "added_at": "2022-08-31 06:52:27",
       "album": {
-        "name": "Si alg\u00fan d\u00eda me toca a m\u00ed",
-        "url": "https://open.spotify.com/album/2lgGsWvn6GO3xsWHiwbcOF"
+        "name": "Impulso",
+        "url": "https://open.spotify.com/album/5MDL4gSUSx0jtWnvQhluw2"
       },
       "artists": [
         {
-          "name": "Karen M\u00e9ndez",
-          "url": "https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk"
+          "name": "Dvicio",
+          "url": "https://open.spotify.com/artist/2KxjMGXFgX1vt9grpbD3xI"
         }
       ],
-      "duration_ms": 238458,
-      "name": "Si alg\u00fan d\u00eda me toca a m\u00ed",
-      "url": "https://open.spotify.com/track/0EWTV2ya46WyDFrKiDz7ay"
+      "duration_ms": 204920,
+      "name": "Cap\u00edtulos",
+      "url": "https://open.spotify.com/track/6l99dHCyRaZWtlu3UUtCxs"
     },
     {
       "added_at": "2022-08-31 06:52:27",
@@ -1539,22 +1555,6 @@
       "duration_ms": 189240,
       "name": "La Despedida",
       "url": "https://open.spotify.com/track/1s8TR4ZPyrRf0E7zbNNjvZ"
-    },
-    {
-      "added_at": "2022-08-31 06:52:27",
-      "album": {
-        "name": "Impulso",
-        "url": "https://open.spotify.com/album/5MDL4gSUSx0jtWnvQhluw2"
-      },
-      "artists": [
-        {
-          "name": "Dvicio",
-          "url": "https://open.spotify.com/artist/2KxjMGXFgX1vt9grpbD3xI"
-        }
-      ],
-      "duration_ms": 204920,
-      "name": "Cap\u00edtulos",
-      "url": "https://open.spotify.com/track/6l99dHCyRaZWtlu3UUtCxs"
     },
     {
       "added_at": "2022-08-31 06:52:27",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2022-08-31 06:52:27",
       "album": {
+        "name": "LUNA",
+        "url": "https://open.spotify.com/album/5S6eyoaaK2EixfG9QqPf4J"
+      },
+      "artists": [
+        {
+          "name": "Cami",
+          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+        }
+      ],
+      "duration_ms": 158873,
+      "name": "LUNA",
+      "url": "https://open.spotify.com/track/3N69yeLynMzE3Dd0c7WiG1"
+    },
+    {
+      "added_at": "2022-08-31 06:52:27",
+      "album": {
         "name": "Tomar Distancia",
         "url": "https://open.spotify.com/album/6jJ1AQcqFL1Dz9P6t3QIgT"
       },
@@ -1695,22 +1711,6 @@
       "duration_ms": 196626,
       "name": "Atado Entre Tus Manos",
       "url": "https://open.spotify.com/track/0A7Bx1u7ufBNclwcfs02mG"
-    },
-    {
-      "added_at": "2022-08-31 06:52:27",
-      "album": {
-        "name": "LUNA",
-        "url": "https://open.spotify.com/album/5S6eyoaaK2EixfG9QqPf4J"
-      },
-      "artists": [
-        {
-          "name": "Cami",
-          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
-        }
-      ],
-      "duration_ms": 158873,
-      "name": "LUNA",
-      "url": "https://open.spotify.com/track/3N69yeLynMzE3Dd0c7WiG1"
     },
     {
       "added_at": "2022-08-31 06:52:27",

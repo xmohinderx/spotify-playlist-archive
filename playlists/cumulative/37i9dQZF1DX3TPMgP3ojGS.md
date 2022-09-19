@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,523 songs - 2 day 21 hr 1 min - [published](https://open.spotify.com/playlist/6P1AtIr4JGwSOgl9rwTOJW)
+1,525 songs - 2 day 21 hr 5 min - [published](https://open.spotify.com/playlist/6P1AtIr4JGwSOgl9rwTOJW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [A Letter Home](https://open.spotify.com/track/5CG4KWy5qqSnv62DmMjTrH) | [Berlioz](https://open.spotify.com/artist/6kndrupH2JaLYqh1wBKGar) | [A Letter Home](https://open.spotify.com/album/2Qb9ubcV8RtJoyaNGcE4nV) | 2:19 | 2021-04-07 | 2022-07-06 |
 | [A Missing Piece](https://open.spotify.com/track/4fr2dY1gNyl1J8nz5GUWTs) | [Vincent Sparro](https://open.spotify.com/artist/1fkVeQuRUagDehsQrRfh99) | [A Missing Piece](https://open.spotify.com/album/5N4as2iSANQpt1HIUa0wYv) | 2:05 | 2021-10-11 | 2022-04-04 |
 | [A New Day](https://open.spotify.com/track/2ZBrOKj7dDANWEA4DcXQ2N) | [Milo Stavos](https://open.spotify.com/artist/4qJYgLgyq8lH4yaQ4qrJYP) | [A New Day](https://open.spotify.com/album/5lF6GKix1t49qCXs9TASLh) | 2:59 | 2021-03-14 | 2021-12-21 |
+| [A New Path](https://open.spotify.com/track/6dG6b98wdolLoHdFaAusxR) | [Damien Jeunet](https://open.spotify.com/artist/4PLGZc5uRGoXxjzjVDzlPs) | [A New Path](https://open.spotify.com/album/3q36F69MAyybtWLlbdiCjw) | 1:53 | 2022-09-13 |  |
 | [A New World's Dream](https://open.spotify.com/track/64Nktb1GhXgrEGtBD4oFRI) | [Milo Edale](https://open.spotify.com/artist/6ht27sA8oqmvcG4a2gcCsk) | [Motion Picture](https://open.spotify.com/album/0root1UoHuqQYlGdUGglOT) | 2:49 | 2021-03-10 | 2021-12-19 |
 | [A Prominent Response](https://open.spotify.com/track/0jZxuq04x40gwFCCcg3J31) | [Piotr Miteska](https://open.spotify.com/artist/76vFPXp4WOuiv8ppkBcd4c) | [A Prominent Response](https://open.spotify.com/album/4wSAy40m5woUAi6BO3e0g3) | 2:53 | 2021-03-14 | 2022-04-18 |
 | [A Promise](https://open.spotify.com/track/552pZqHBTVj3hXRwiblvwB) | [Matti Paalanen](https://open.spotify.com/artist/0jLdYnsn20JUEoKEbzJGc1), [Frozen Silence](https://open.spotify.com/artist/2zYmFMkDco03qam6Nx4uir) | [A Promise](https://open.spotify.com/album/6qBvYqCeYu0SUcdVgnVqq3) | 2:17 | 2021-03-16 | 2021-12-21 |
@@ -604,6 +605,7 @@
 | [Ifjungur \- Concentrated Dub](https://open.spotify.com/track/3KeLM7pPWFf1w3tUkrlmWE) | [Jón & Jálfur](https://open.spotify.com/artist/28UGidocn4K2oSfwzucCFt) | [Focus Your Brain \- Deep Ambient Soundscapes Vol 1](https://open.spotify.com/album/6EK5AiyrCaxi8Hlp7UfMgr) | 3:22 | 2021-04-21 | 2021-12-20 |
 | [Igelstorp](https://open.spotify.com/track/4Q2ZHTihHxJc25u0SbiImn) | [Fellows](https://open.spotify.com/artist/28MgNka3kDQyWxvuoGDo3o) | [Igelstorp](https://open.spotify.com/album/4tudKeSVJOev0r0O9mdSCV) | 4:30 | 2021-03-16 | 2022-04-13 |
 | [Ik blijf hier nog wel even](https://open.spotify.com/track/2qnRek1JJgp2r2Fcgx8tX1) | [Annebelle Coenraad](https://open.spotify.com/artist/3WBXpzZraL3JcZGch7287z) | [Ik blijf hier nog wel even](https://open.spotify.com/album/7rwB9M6KzV0jf8CFR46Qv6) | 2:23 | 2021-03-14 | 2021-05-15 |
+| [Ikigai](https://open.spotify.com/track/2StQJ41DNRKRHNfGbKexPM) | [Violet Mar](https://open.spotify.com/artist/5elUadW5r1Yr21zo4bV7sh) | [Ikigai](https://open.spotify.com/album/3aDHuV1ItjYUae2DLHBcBi) | 3:00 | 2022-09-13 |  |
 | [Il cielo si apre](https://open.spotify.com/track/1BqHiStU9N7wKEY77k5QM5) | [Battista Nicosia](https://open.spotify.com/artist/0wTr5PC9hqfwYKDkrnmXtT) | [Il cielo si apre](https://open.spotify.com/album/6WnWasSXE7N6hvqGkTw5jG) | 2:20 | 2021-07-02 | 2022-04-20 |
 | [Il Colibrì](https://open.spotify.com/track/52gy2KpFkLkAERIhMCYESc) | [Carlo Boscoli](https://open.spotify.com/artist/4CeLc2a4z354klArJA9WQi) | [Il Colibrì](https://open.spotify.com/album/6f8TkltJJk7J25Oo6KkBzS) | 2:30 | 2021-12-17 |  |
 | [Il Confine Del Dolore](https://open.spotify.com/track/1cULNco2A8cro6BAiXJD55) | [Nora Maddox](https://open.spotify.com/artist/5yZabwuaVYo86cGVx0BzUX) | [Il Confine Del Dolore](https://open.spotify.com/album/7HDBZsi3SDGF2cQvWHNlGY) | 1:56 | 2021-03-20 | 2022-04-02 |
@@ -841,7 +843,7 @@
 | [Mirror Song](https://open.spotify.com/track/5Z6pY8kv0bYE72QKBYes0s) | [Renato Luigi](https://open.spotify.com/artist/6BXKYC9Iz51qNqjpAnu72f) | [Mirror Song](https://open.spotify.com/album/3L25gHwm471Vec1YrXysmp) | 3:35 | 2021-04-28 | 2022-06-11 |
 | [Misli na tebe](https://open.spotify.com/track/33dahwAOW1V1quRlxh1Ffp) | [Frano Stanić](https://open.spotify.com/artist/0zlGbeqBJRLfirr9UTEpV9) | [Misli na tebe](https://open.spotify.com/album/3PEQD0rAwurBJiYIiT1OLx) | 1:53 | 2021-05-25 | 2022-04-18 |
 | [Missy](https://open.spotify.com/track/31Ym8LjfKv5dpgppLUmpWs) | [Porch Upright](https://open.spotify.com/artist/2fYaYUCzBbYnNDpzznDH8u) | [Missy](https://open.spotify.com/album/76M1XQdN9UnipO6FQG3TJc) | 2:45 | 2021-03-08 | 2022-04-17 |
-| [Misérable](https://open.spotify.com/track/1KVKQkKQ6pk8Hai7aKj5nx) | [Bodi Lukasz](https://open.spotify.com/artist/6FhL947nyB3vI5QUecgylC) | [Misérable](https://open.spotify.com/album/3opiWhoPDVS44H2iYcrC08) | 2:00 | 2021-08-06 |  |
+| [Misérable](https://open.spotify.com/track/1KVKQkKQ6pk8Hai7aKj5nx) | [Bodi Lukasz](https://open.spotify.com/artist/6FhL947nyB3vI5QUecgylC) | [Misérable](https://open.spotify.com/album/3opiWhoPDVS44H2iYcrC08) | 2:00 | 2021-08-06 | 2022-09-19 |
 | [Moderato malinconico](https://open.spotify.com/track/4aLv7wK3U690o6TXfg2VIm) | [Manuel Ponce](https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK), [Alvaro Cendoya](https://open.spotify.com/artist/1jyT4Lhl2rlLEQivwIgDat) | [Ponce: Complete Piano Works, Vol\. 2](https://open.spotify.com/album/63SsbvjLqIzTXSHAemQT71) | 2:20 | 2021-05-17 | 2021-05-18 |
 | [Moment of Silence](https://open.spotify.com/track/4eSYFvsqnVIfy75EflVtmg) | [Oliver Évilo](https://open.spotify.com/artist/6pr16671AS8qchaPqDDM0Y) | [Moment of Silence](https://open.spotify.com/album/60M9flmWaOCcYKU0HEP1Fu) | 2:46 | 2021-05-07 | 2022-04-14 |
 | [Mon Ami](https://open.spotify.com/track/5uq2R1bTmJaqRrY8uwstVS) | [Ricard Paul](https://open.spotify.com/artist/6N2AxUq3v1faD2lVriyeJu) | [Mon Ami](https://open.spotify.com/album/6O7GyDT1FY6Yi1mZ7wd3vs) | 2:26 | 2022-07-27 | 2022-08-02 |
@@ -1361,7 +1363,7 @@
 | [Tokka](https://open.spotify.com/track/22bk8cz4FrIpxR166zmXFk) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Aventine \(Deluxe\)](https://open.spotify.com/album/4YRVYUznqfl3xjodAZA4tt) | 1:29 | 2021-03-10 | 2021-04-30 |
 | [Tombant](https://open.spotify.com/track/0hnTw4Zi764pEjRuAyoHdJ) | [Ingemar Aberg](https://open.spotify.com/artist/7qA4SXXE0nQFNPN2qLmT4H) | [Tombant](https://open.spotify.com/album/6c9Ki7iHGRFfZOHTqnaAja) | 2:07 | 2021-03-19 | 2022-02-16 |
 | [Tomorrow's Dreams](https://open.spotify.com/track/2aj7eNHqMG4SeF5sBG7idE) | [Jngeis](https://open.spotify.com/artist/1X5nuNY0Ht6Yt2xaya4ZQE) | [Tomorrow's Dreams](https://open.spotify.com/album/3rEzNYYShOCnaUy8zVa0pA) | 2:44 | 2021-12-18 | 2022-07-23 |
-| [Tone of Love](https://open.spotify.com/track/3Z0n8POAcDQCSyxA06cqbW) | [Charles Bolt](https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj) | [Tone of Love](https://open.spotify.com/album/5Q23RuwpOqhN28KtBOdnGp) | 3:18 | 2021-03-26 |  |
+| [Tone of Love](https://open.spotify.com/track/3Z0n8POAcDQCSyxA06cqbW) | [Charles Bolt](https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj) | [Tone of Love](https://open.spotify.com/album/5Q23RuwpOqhN28KtBOdnGp) | 3:18 | 2021-03-26 | 2022-09-19 |
 | [Too Many Friends](https://open.spotify.com/track/5i1AaGDNgloHkaHqtSPwKD) | [Charles Bolt](https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj) | [Too Many Friends](https://open.spotify.com/album/663tfHb9ki1F6dj3pPOutd) | 3:09 | 2021-03-16 | 2021-03-17 |
 | [Top Quark](https://open.spotify.com/track/2a27DsmwDrly8ogq7bn9Dk) | [Risto Carto](https://open.spotify.com/artist/434bZ3acOZGGrl46g1WUnq) | [Top Quark](https://open.spotify.com/album/1Nfi2ICDfyjNysYhndSkb5) | 2:11 | 2021-03-08 | 2022-03-28 |
 | [Touched](https://open.spotify.com/track/1cwF3476JAc3oDy1e3hkz1) | [Stephanie Ferrer](https://open.spotify.com/artist/6PKJzUJNJKQjAHcgbzbuCJ) | [Touched](https://open.spotify.com/album/2u3NUipNJsBFZ4kH8uZtMr) | 2:14 | 2021-04-22 | 2022-04-14 |

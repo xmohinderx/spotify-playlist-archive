@@ -4,7 +4,7 @@
 
 > Spillelisten som byr på en rekke bøgdebangers du liker å spelle i kjerra! Cover: Den BB & Oskar Westerlin
 
-233 songs - 11 hr 5 min - [published](https://open.spotify.com/playlist/3zMqShr44pcg3CK0Psc64W)
+234 songs - 11 hr 8 min - [published](https://open.spotify.com/playlist/3zMqShr44pcg3CK0Psc64W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [HET](https://open.spotify.com/track/5RaQUKpL2DtpEPFhnddC65) | [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651), [The Pineapple Squad](https://open.spotify.com/artist/3jpZXETVBoKjnKifaSswEi) | [HET](https://open.spotify.com/album/5RlQuD6gyCSIVgx4rQxXRX) | 2:47 | 2022-06-02 | 2022-07-13 |
 | [Hey skål!](https://open.spotify.com/track/2Hzy0I10PwAqFNHmxUZB2A) | [Chris og Colada](https://open.spotify.com/artist/0YVbhK3PygEi4q70SrSPfB) | [Hey skål!](https://open.spotify.com/album/75VNjjmIX0UOhDdHskHHlk) | 2:16 | 2022-07-07 | 2022-07-09 |
 | [Hjerteknuser](https://open.spotify.com/track/6D2Hxj0e7gZojlFBV1fKBx) | [rOlfFa](https://open.spotify.com/artist/4Rdh0AevBwePcuPgt8fNeM) | [Geasseijat](https://open.spotify.com/album/3shwdZY9LBfiRuAHpt3TNT) | 4:23 | 2022-08-31 |  |
+| [Hjerteløs](https://open.spotify.com/track/5PzratDTUf07VyMKrGGxz3) | [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV) | [Hjerteløs](https://open.spotify.com/album/14EKNiLzDMZicYko6DBUFV) | 2:17 | 2022-09-15 |  |
 | [Hva skjedde nå?](https://open.spotify.com/track/3MU7bSZdfMWg44OhS0SOej) | [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9) | [Hva skjedde nå?](https://open.spotify.com/album/0s43Es79OPnqCYLj27eFUv) | 3:53 | 2022-05-05 | 2022-09-01 |
 | [Hvis Morgendagen Aldri Kommer](https://open.spotify.com/track/3mF0hLdjrLroWBIpkrodI4) | [Picazzo](https://open.spotify.com/artist/2LBQeuC7ETT53nrim3NGfb) | [Blanke Ark](https://open.spotify.com/album/5IDzD2Vn9gGUa7UmsMdh8H) | 4:37 | 2022-03-24 | 2022-04-19 |
 | [HVIT PELIKAN](https://open.spotify.com/track/6qZuPyOD4ROhYMaBeIA5ZS) | [Dandy Lion](https://open.spotify.com/artist/3Il8nRZ80Wbjs2UGkysK5F), [CLMD](https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr) | [HVIT PELIKAN](https://open.spotify.com/album/4ByBcmO9fANmzo47mE1R6Y) | 2:19 | 2021-12-16 | 2022-04-18 |
@@ -147,7 +148,7 @@
 | [Laurdage E Finast](https://open.spotify.com/track/5XeBSNBsxRo3t0lykbipvA) | [Crashville](https://open.spotify.com/artist/3OzXAMfPfwenAot8z2NPpL) | [Fyrste Reis](https://open.spotify.com/album/5z5ne4Grnz5hCVMkTJK6p7) | 2:53 | 2022-02-03 | 2022-04-21 |
 | [Legevakta](https://open.spotify.com/track/5IczZgxpuYLHkQiEdGchNR) | [JONE](https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN) | [Legevakta](https://open.spotify.com/album/2ZW7Zk1r1rK1V9ZNlsl1gb) | 2:34 | 2022-05-19 | 2022-06-01 |
 | [LEVE LAVISH \(Ace Of Spades\)](https://open.spotify.com/track/0xj1IHKOaoLv39QhPZnprR) | [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651), [10 LAPPER](https://open.spotify.com/artist/1rfSDoxOf0PEPe3yuYuPz8) | [LEVE LAVISH \(Ace Of Spades\)](https://open.spotify.com/album/7gwvJWzd7xJ12WRelYerxD) | 2:19 | 2022-03-03 | 2022-07-24 |
-| [Levva Livet](https://open.spotify.com/track/56C8jz11WNH1PM677aq6ez) | [Åge Aleksandersen](https://open.spotify.com/artist/08H8B226x5IRKwbm8TD8bz) | [Levva Livet!](https://open.spotify.com/album/00m8339CymX4adXiATrT7e) | 4:34 | 2022-07-28 |  |
+| [Levva Livet](https://open.spotify.com/track/56C8jz11WNH1PM677aq6ez) | [Åge Aleksandersen](https://open.spotify.com/artist/08H8B226x5IRKwbm8TD8bz) | [Levva Livet!](https://open.spotify.com/album/00m8339CymX4adXiATrT7e) | 4:34 | 2022-07-28 | 2022-09-19 |
 | [Levva Livet](https://open.spotify.com/track/61mTvagExZvija6RD4IfiC) | [Åge Aleksandersen](https://open.spotify.com/artist/08H8B226x5IRKwbm8TD8bz) | [Levva Livet!](https://open.spotify.com/album/3r18UsS2QfsHlrpOZFuTyn) | 4:34 | 2022-03-24 | 2022-04-19 |
 | [LIGGA \(HazyDays\)](https://open.spotify.com/track/0dkrp4JRUuCAw4JtRSxJPo) | [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651) | [LIGGA \(HazyDays\)](https://open.spotify.com/album/31dXdQuqs7m0449DYzvpY8) | 2:25 | 2022-02-17 | 2022-05-15 |
 | [Ligga low](https://open.spotify.com/track/507T2C0pVA8P4cElwhfEuV) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Ligga low](https://open.spotify.com/album/4TzKEBkFQ2kfL41bn7fm0d) | 2:31 | 2021-12-16 |  |

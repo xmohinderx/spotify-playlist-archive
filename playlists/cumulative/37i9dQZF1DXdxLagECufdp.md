@@ -4,7 +4,7 @@
 
 > Fanfarrias y ritmos clown para gozar las tragicomedias de la vida
 
-123 songs - 7 hr 54 min - [published](https://open.spotify.com/playlist/1ClIe19M3uxxR397slRi95)
+124 songs - 7 hr 57 min - [published](https://open.spotify.com/playlist/1ClIe19M3uxxR397slRi95)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Asfalt Tango](https://open.spotify.com/track/0ZclAswj5Er6ndwzUeJ54p) | [Fanfare Ciocarlia](https://open.spotify.com/artist/40iJCAOCz6nhRs6CbsAtOg) | [Baro Biao](https://open.spotify.com/album/73zOgm7fNjEGdvaxXJOXgF) | 6:12 | 2021-09-10 | 2022-07-26 |
 | [Asfalt Tango](https://open.spotify.com/track/56zs50f4ZqV1TMtzkw2oTc) | [Fanfare Ciocarlia](https://open.spotify.com/artist/40iJCAOCz6nhRs6CbsAtOg) | [Baro Biao](https://open.spotify.com/album/51fzQZ94klHH5ToOVN6Uy3) | 6:12 | 2021-09-10 |  |
 | [Baila Leila](https://open.spotify.com/track/10JeR9uqMHMDwfF2mtxgQb) | [Goran Bregović](https://open.spotify.com/artist/491v9k5NTGBGanwqPNSkuS), [Asaf Avidan](https://open.spotify.com/artist/7t51dSX8ZkKC7VoKRd0lME) | [Three Letters From Sarajevo \(Opus 1\)](https://open.spotify.com/album/2kg4rl6ejCMSjrj1lfHnam) | 4:39 | 2021-09-10 | 2022-07-27 |
-| [Bailando Con las Farolas](https://open.spotify.com/track/6L50NoOHzsy4nqgqMjTU09) | [Jenny And The Mexicats](https://open.spotify.com/artist/2faVKByk0IA651ICKyYYOa), [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [Bailando Con las Farolas](https://open.spotify.com/album/7JdYoEGug2CawZ409DG1U0) | 3:00 | 2021-09-10 |  |
+| [Bailando Con las Farolas](https://open.spotify.com/track/6L50NoOHzsy4nqgqMjTU09) | [Jenny And The Mexicats](https://open.spotify.com/artist/2faVKByk0IA651ICKyYYOa), [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [Bailando Con las Farolas](https://open.spotify.com/album/7JdYoEGug2CawZ409DG1U0) | 3:00 | 2021-09-10 | 2022-09-19 |
 | [Balkabra](https://open.spotify.com/track/26COt2jYA4chnkkvG4OSKY) | [Gypsy Ska Orquesta](https://open.spotify.com/artist/3lCX7cPvIpsXFrZlQlELWw) | [Danza Macabra](https://open.spotify.com/album/4Lb2GFuLa4pNLbEgPh1sSB) | 4:24 | 2021-09-10 | 2022-07-29 |
 | [Barbes](https://open.spotify.com/track/2KFrLvCkUZVfk7bp4SySf8) | [Atropolis](https://open.spotify.com/artist/3DcUZWi75daQu9UMmNIr5x), [Slavic Soul Party!](https://open.spotify.com/artist/0WqRUsyv5vUBAKwznogKrE) | [Shuffle Mode](https://open.spotify.com/album/31jElAvFoFj8suV5NQJkE7) | 4:48 | 2021-09-10 | 2022-07-24 |
 | [Bella Ciao \(Goodbye Beautiful\)](https://open.spotify.com/track/1Lf4Dp7RTPwNI1pw9uOLrK) | [Marc Ribot](https://open.spotify.com/artist/7jAeRfT8LYCxydM2Y1Egvn), [Tom Waits](https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM) | [Bella Ciao \(Goodbye Beautiful\)](https://open.spotify.com/album/29eTnHPHnGirFCGrmApdAG) | 3:37 | 2021-09-10 |  |
@@ -47,6 +47,7 @@
 | [Fight Back Sisters](https://open.spotify.com/track/3QbYl04MfAbhQCNOBqeiqh) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Fight Back Sisters](https://open.spotify.com/album/1j8eySpDm565yzp9iQc4dh) | 3:15 | 2021-09-10 | 2022-07-28 |
 | [Flor de Cumbión](https://open.spotify.com/track/1iw2aoN9vgmzHw0acRFvAZ) | [Banda Conmoción](https://open.spotify.com/artist/2UNMW1OKE0X1cwJHWER67g) | [Pregonero](https://open.spotify.com/album/44vJ4lHPNZmfZ09TJ4Q1Hd) | 2:37 | 2021-09-10 |  |
 | [Flor de Cumbión](https://open.spotify.com/track/7onER4nMDWvYcGiKhBxqEl) | [Banda Conmoción](https://open.spotify.com/artist/2UNMW1OKE0X1cwJHWER67g) | [Pregonero](https://open.spotify.com/album/3Khkq0CFTx8eZq99X2rWeF) | 2:37 | 2021-09-10 | 2022-07-27 |
+| [Gas Gas](https://open.spotify.com/track/19Ah7Hh26xdpgaXVv0sEJo) | [Goran Bregović](https://open.spotify.com/artist/491v9k5NTGBGanwqPNSkuS) | [Karmen with a Happy End](https://open.spotify.com/album/1l723TBcNXs5iQOMn1w3Zc) | 3:04 | 2021-09-10 |  |
 | [Gitanas Mojadas](https://open.spotify.com/track/1UNkCY2v2hOUeoiJZMtX6C) | [Polka Madre](https://open.spotify.com/artist/0mQaCZUXORP5789FFfzDP8) | [Casa Dónde](https://open.spotify.com/album/7kfblvYGIlfBbetr0aZYFA) | 2:54 | 2021-09-10 | 2022-07-29 |
 | [Gopher](https://open.spotify.com/track/01hqaLJ7lsOf5w0zTysbGD) | [Bombay Rickey](https://open.spotify.com/artist/25K3DdUbAxFXeydGHPoyPz) | [Electric Bhairavi](https://open.spotify.com/album/6h5WjOpelHPgjr1OjCm1tm) | 3:59 | 2021-09-10 |  |
 | [Harta](https://open.spotify.com/track/1J4xv5V5dzkA8UGtXSbCNU) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Harta](https://open.spotify.com/album/7xxEXEwifY6NE0sEmIybSg) | 3:05 | 2021-09-10 |  |

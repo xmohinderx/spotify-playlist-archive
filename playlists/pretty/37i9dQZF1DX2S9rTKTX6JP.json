@@ -1,12 +1,12 @@
 {
   "description": "Sometimes a cover can be even better than the original. You decide. Cover: M\u00e5neskin",
-  "num_followers": 607839,
+  "num_followers": 607944,
   "original_name": "Rock Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg4MTYwMCwwMDAwMDAwMGNkMmVmZWU1NDZjOTA2ODNmMjIwZThjNmNkZmUwZDE5",
+  "snapshot_id": "MTY2MDg4MTYwMCwwMDAwMDAwMGQzYjI1MmIyYTBjMDhlODMzNDA0OTgwMDJhOTE3YTJm",
   "tracks": [
     {
       "added_at": "2022-08-19 04:00:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Garage, Inc.",
-        "url": "https://open.spotify.com/album/5b7HQ04lPT7eGJQ7fmVsjC"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 366400,
-      "name": "Turn The Page",
-      "url": "https://open.spotify.com/track/7HPhrbgMHV5cUskknWA2oo"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "American IV: The Man Comes Around",
         "url": "https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 199240,
       "name": "Personal Jesus",
       "url": "https://open.spotify.com/track/5dcwiQFqn0mTcWewYIv7MV"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Garage, Inc.",
+        "url": "https://open.spotify.com/album/5b7HQ04lPT7eGJQ7fmVsjC"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 366400,
+      "name": "Turn The Page",
+      "url": "https://open.spotify.com/track/7HPhrbgMHV5cUskknWA2oo"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Angel Dust",
-        "url": "https://open.spotify.com/album/59GwovfBk0Kp2HJw1G7E5Q"
-      },
-      "artists": [
-        {
-          "name": "Faith No More",
-          "url": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
-        }
-      ],
-      "duration_ms": 186960,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/4zzvMG8KrsykYtvFEJ99Cl"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "What Doesn't Kill Us",
         "url": "https://open.spotify.com/album/0GcvmP7OqiGImCbGEXv7aI"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 206227,
       "name": "(I Just) Died in Your Arms",
       "url": "https://open.spotify.com/track/4G9ZGwsT2OMkQTfoly4oYe"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Angel Dust",
+        "url": "https://open.spotify.com/album/59GwovfBk0Kp2HJw1G7E5Q"
+      },
+      "artists": [
+        {
+          "name": "Faith No More",
+          "url": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
+        }
+      ],
+      "duration_ms": 186960,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/4zzvMG8KrsykYtvFEJ99Cl"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Weezer (Teal Album)",
-        "url": "https://open.spotify.com/album/65sHj9PvsbyD0uugGHjueN"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 223560,
-      "name": "Take on Me",
-      "url": "https://open.spotify.com/track/1ZB2qWsheGabSEYvBYxjKn"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "Social Distortion",
         "url": "https://open.spotify.com/album/46nX6hzuIb6wEia7OQ2viS"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 230773,
       "name": "Ring of Fire",
       "url": "https://open.spotify.com/track/3hKScGxI28Zor6zJ7JL7aS"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Weezer (Teal Album)",
+        "url": "https://open.spotify.com/album/65sHj9PvsbyD0uugGHjueN"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 223560,
+      "name": "Take on Me",
+      "url": "https://open.spotify.com/track/1ZB2qWsheGabSEYvBYxjKn"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "The Violent",
-        "url": "https://open.spotify.com/album/5hrWPFVNiTbMqrv6rdvVap"
-      },
-      "artists": [
-        {
-          "name": "The Violent",
-          "url": "https://open.spotify.com/artist/5NokRbYYfqacBmRVBRj0wD"
-        }
-      ],
-      "duration_ms": 147082,
-      "name": "People Are Strange",
-      "url": "https://open.spotify.com/track/7GoOq1xY12PehqOfUryNWU"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "You're Living All Over Me",
         "url": "https://open.spotify.com/album/3peMqhMZ1HT8N4lvSS3GPu"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 173560,
       "name": "Just Like Heaven",
       "url": "https://open.spotify.com/track/69u4YVuqKoVp3nZmpyxC8I"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "The Violent",
+        "url": "https://open.spotify.com/album/5hrWPFVNiTbMqrv6rdvVap"
+      },
+      "artists": [
+        {
+          "name": "The Violent",
+          "url": "https://open.spotify.com/artist/5NokRbYYfqacBmRVBRj0wD"
+        }
+      ],
+      "duration_ms": 147082,
+      "name": "People Are Strange",
+      "url": "https://open.spotify.com/track/7GoOq1xY12PehqOfUryNWU"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -1563,6 +1563,38 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
+        "name": "Survivor",
+        "url": "https://open.spotify.com/album/0wd0kpwyXuWwYoblV4oCDs"
+      },
+      "artists": [
+        {
+          "name": "All Good Things",
+          "url": "https://open.spotify.com/artist/2uMWUtg8XLpJxNSqbGOkl1"
+        }
+      ],
+      "duration_ms": 193840,
+      "name": "Survivor",
+      "url": "https://open.spotify.com/track/0lrrOTSB1vEOEphSG8CSsD"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Lungs (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 199386,
+      "name": "Addicted To Love",
+      "url": "https://open.spotify.com/track/3fNuoybebaufvtFBo5TDWO"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
         "name": "Mad World",
         "url": "https://open.spotify.com/album/0k1NpI7iPhT3xuqA0rLxov"
       },
@@ -1599,22 +1631,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Survivor",
-        "url": "https://open.spotify.com/album/0wd0kpwyXuWwYoblV4oCDs"
-      },
-      "artists": [
-        {
-          "name": "All Good Things",
-          "url": "https://open.spotify.com/artist/2uMWUtg8XLpJxNSqbGOkl1"
-        }
-      ],
-      "duration_ms": 193840,
-      "name": "Survivor",
-      "url": "https://open.spotify.com/track/0lrrOTSB1vEOEphSG8CSsD"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "Fortunate Son",
         "url": "https://open.spotify.com/album/0dwQ45RN04LVda7PGdbnbg"
       },
@@ -1647,18 +1663,18 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Lungs (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
+        "name": "No One Sings Like You Anymore",
+        "url": "https://open.spotify.com/album/50CtNizqlxOXeHICmNwc45"
       },
       "artists": [
         {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+          "name": "Chris Cornell",
+          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
         }
       ],
-      "duration_ms": 199386,
-      "name": "Addicted To Love",
-      "url": "https://open.spotify.com/track/3fNuoybebaufvtFBo5TDWO"
+      "duration_ms": 215692,
+      "name": "Jump Into The Fire",
+      "url": "https://open.spotify.com/track/1x3dbEtnQsQaF7XVqIbCYE"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -1675,22 +1691,6 @@
       "duration_ms": 278586,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/0jh3Rey2X3m5DOHiRGGGCM"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "No One Sings Like You Anymore",
-        "url": "https://open.spotify.com/album/50CtNizqlxOXeHICmNwc45"
-      },
-      "artists": [
-        {
-          "name": "Chris Cornell",
-          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
-        }
-      ],
-      "duration_ms": 215692,
-      "name": "Jump Into The Fire",
-      "url": "https://open.spotify.com/track/1x3dbEtnQsQaF7XVqIbCYE"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -1891,22 +1891,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/31LKYg7MAykCp1E7DSRox6"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 236450,
-      "name": "Personal Jesus - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0KXYrQAqpAREiCi4pB5fO9"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "Come What(ever) May [Special Edition]",
         "url": "https://open.spotify.com/album/5eHk89PNorMd7e4wyxYiUV"
       },
@@ -1919,6 +1903,22 @@
       "duration_ms": 267253,
       "name": "Wicked Game - Acoustic; Live",
       "url": "https://open.spotify.com/track/6UFhNbE4sLRUoM52kC4Xl4"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/31LKYg7MAykCp1E7DSRox6"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 236450,
+      "name": "Personal Jesus - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0KXYrQAqpAREiCi4pB5fO9"
     },
     {
       "added_at": "2022-08-19 04:00:00",

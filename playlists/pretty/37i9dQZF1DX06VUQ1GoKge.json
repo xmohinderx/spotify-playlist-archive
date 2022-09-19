@@ -1,12 +1,12 @@
 {
   "description": "Louder, faster! Kickass metal tracks to drive you forward.",
-  "num_followers": 406432,
+  "num_followers": 406691,
   "original_name": "Metal Charge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDg2MTA1OCwwMDAwMDAwMDNlMzhkMGUxMGJiMTI3ZmE1ZDhjMjcyYjNmMTU3YmJj",
+  "snapshot_id": "MTY1NDg2MTA1OCwwMDAwMDAwMDNlMzllNWFhMGJhMWUwYjE3OTMyODk1YzA2OGI4NDM4",
   "tracks": [
     {
       "added_at": "2021-03-29 12:26:54",
@@ -395,22 +395,6 @@
     {
       "added_at": "2021-03-29 12:26:54",
       "album": {
-        "name": "Metallica (Remastered)",
-        "url": "https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 324600,
-      "name": "Sad But True (Remastered)",
-      "url": "https://open.spotify.com/track/5UaDi8KzCGJqFfVAOBfXhi"
-    },
-    {
-      "added_at": "2021-03-29 12:26:54",
-      "album": {
         "name": "TRAUMA",
         "url": "https://open.spotify.com/album/2QRU8jGOJHDMrCTPKIHVik"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 153613,
       "name": "Gasoline",
       "url": "https://open.spotify.com/track/6Q1m1GyNxyOwZ2ud3p7XoS"
+    },
+    {
+      "added_at": "2021-03-29 12:26:54",
+      "album": {
+        "name": "Metallica (Remastered)",
+        "url": "https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 324600,
+      "name": "Sad But True (Remastered)",
+      "url": "https://open.spotify.com/track/5UaDi8KzCGJqFfVAOBfXhi"
     },
     {
       "added_at": "2021-03-29 12:26:54",
@@ -489,22 +489,6 @@
       "url": "https://open.spotify.com/track/1Ab3hhOw1TJWDgO10vlxNZ"
     },
     {
-      "added_at": "2021-03-29 12:26:54",
-      "album": {
-        "name": "Is There Anybody Out There?",
-        "url": "https://open.spotify.com/album/07lqIOrFHB6XAKq1rrIe8G"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 272665,
-      "name": "Is There Anybody Out There?",
-      "url": "https://open.spotify.com/track/5aeIj88MLdekYvObw5Yisk"
-    },
-    {
       "added_at": "2021-10-12 08:24:18",
       "album": {
         "name": "Primo Victoria (Re-Armed)",
@@ -519,6 +503,22 @@
       "duration_ms": 250720,
       "name": "Primo Victoria",
       "url": "https://open.spotify.com/track/5DbAOJ5dYW5A9xBhkeb33t"
+    },
+    {
+      "added_at": "2021-03-29 12:26:54",
+      "album": {
+        "name": "Is There Anybody Out There?",
+        "url": "https://open.spotify.com/album/07lqIOrFHB6XAKq1rrIe8G"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 272665,
+      "name": "Is There Anybody Out There?",
+      "url": "https://open.spotify.com/track/5aeIj88MLdekYvObw5Yisk"
     },
     {
       "added_at": "2021-10-12 08:24:18",
@@ -603,6 +603,22 @@
     {
       "added_at": "2021-03-29 12:26:54",
       "album": {
+        "name": "MASSIVE ADDICTIVE",
+        "url": "https://open.spotify.com/album/0GCcO9StyRRAGumjCOTSpN"
+      },
+      "artists": [
+        {
+          "name": "Amaranthe",
+          "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
+        }
+      ],
+      "duration_ms": 197853,
+      "name": "Drop Dead Cynical",
+      "url": "https://open.spotify.com/track/5VToMJACRoeT0YZNs5CYyp"
+    },
+    {
+      "added_at": "2021-03-29 12:26:54",
+      "album": {
         "name": "Heroes",
         "url": "https://open.spotify.com/album/5TdhTTvwtD0ekZBYve97r7"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 307644,
       "name": "Protect The Land",
       "url": "https://open.spotify.com/track/11ajcVj3qSyyMPUpTJUP3y"
-    },
-    {
-      "added_at": "2021-03-29 12:26:54",
-      "album": {
-        "name": "MASSIVE ADDICTIVE",
-        "url": "https://open.spotify.com/album/0GCcO9StyRRAGumjCOTSpN"
-      },
-      "artists": [
-        {
-          "name": "Amaranthe",
-          "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
-        }
-      ],
-      "duration_ms": 197853,
-      "name": "Drop Dead Cynical",
-      "url": "https://open.spotify.com/track/5VToMJACRoeT0YZNs5CYyp"
     },
     {
       "added_at": "2021-03-29 12:26:54",
@@ -763,22 +763,6 @@
     {
       "added_at": "2021-03-29 12:26:54",
       "album": {
-        "name": "Teardrops",
-        "url": "https://open.spotify.com/album/4U4nKoTy4lsQlUoaGqg8U4"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 215003,
-      "name": "Teardrops",
-      "url": "https://open.spotify.com/track/3aniWcwiiYKHpm3F5TdeKD"
-    },
-    {
-      "added_at": "2021-03-29 12:26:54",
-      "album": {
         "name": "American Capitalist (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1qLIrsJWd8bOPqunfQiTxh"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 255230,
       "name": "Prey",
       "url": "https://open.spotify.com/track/7lMFAK8dv0QkWpIlZcWQlJ"
+    },
+    {
+      "added_at": "2021-03-29 12:26:54",
+      "album": {
+        "name": "Teardrops",
+        "url": "https://open.spotify.com/album/4U4nKoTy4lsQlUoaGqg8U4"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 215003,
+      "name": "Teardrops",
+      "url": "https://open.spotify.com/track/3aniWcwiiYKHpm3F5TdeKD"
     },
     {
       "added_at": "2021-03-29 12:26:54",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2021-03-29 12:26:54",
       "album": {
-        "name": "Manifest",
-        "url": "https://open.spotify.com/album/0i8Xkm6i0Ej627KFK7GqJa"
-      },
-      "artists": [
-        {
-          "name": "Amaranthe",
-          "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
-        }
-      ],
-      "duration_ms": 181200,
-      "name": "Viral",
-      "url": "https://open.spotify.com/track/23nQ0OXajph2n9yzYjP7Hs"
-    },
-    {
-      "added_at": "2021-03-29 12:26:54",
-      "album": {
         "name": "Gravity",
         "url": "https://open.spotify.com/album/28sCbClwbAhHN6ovutizQg"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 223655,
       "name": "Letting You Go",
       "url": "https://open.spotify.com/track/7rGN3oqzCpG2mLcwoPwDQm"
+    },
+    {
+      "added_at": "2021-03-29 12:26:54",
+      "album": {
+        "name": "Manifest",
+        "url": "https://open.spotify.com/album/0i8Xkm6i0Ej627KFK7GqJa"
+      },
+      "artists": [
+        {
+          "name": "Amaranthe",
+          "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
+        }
+      ],
+      "duration_ms": 181200,
+      "name": "Viral",
+      "url": "https://open.spotify.com/track/23nQ0OXajph2n9yzYjP7Hs"
     },
     {
       "added_at": "2022-03-16 21:08:09",
@@ -1191,22 +1191,6 @@
       "duration_ms": 199866,
       "name": "Repentless",
       "url": "https://open.spotify.com/track/6W2KBpMMXW17r7dPyqi8Iu"
-    },
-    {
-      "added_at": "2021-03-29 12:26:54",
-      "album": {
-        "name": "The Nexus",
-        "url": "https://open.spotify.com/album/6431V8pOEUPUW4k9ASyKCV"
-      },
-      "artists": [
-        {
-          "name": "Amaranthe",
-          "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
-        }
-      ],
-      "duration_ms": 196040,
-      "name": "The Nexus",
-      "url": "https://open.spotify.com/track/3FA9wGCQWqyoqWDPhsGtO1"
     },
     {
       "added_at": "2021-03-29 12:26:54",
@@ -1275,6 +1259,22 @@
     {
       "added_at": "2021-03-29 12:26:54",
       "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/28sCbClwbAhHN6ovutizQg"
+      },
+      "artists": [
+        {
+          "name": "Bullet For My Valentine",
+          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
+        }
+      ],
+      "duration_ms": 227864,
+      "name": "Over It",
+      "url": "https://open.spotify.com/track/0S674qD7nVFL0L7pHs6wUO"
+    },
+    {
+      "added_at": "2021-03-29 12:26:54",
+      "album": {
         "name": "Astro Creep: 2000 Songs Of Love, Destruction And Other Synthetic Delusions Of The Electric Head",
         "url": "https://open.spotify.com/album/3HugnfabsMODIbxzwxS5xC"
       },
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2021-03-29 12:26:54",
       "album": {
-        "name": "Gravity",
-        "url": "https://open.spotify.com/album/28sCbClwbAhHN6ovutizQg"
+        "name": "The Nexus",
+        "url": "https://open.spotify.com/album/6431V8pOEUPUW4k9ASyKCV"
       },
       "artists": [
         {
-          "name": "Bullet For My Valentine",
-          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
+          "name": "Amaranthe",
+          "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
         }
       ],
-      "duration_ms": 227864,
-      "name": "Over It",
-      "url": "https://open.spotify.com/track/0S674qD7nVFL0L7pHs6wUO"
+      "duration_ms": 196040,
+      "name": "The Nexus",
+      "url": "https://open.spotify.com/track/3FA9wGCQWqyoqWDPhsGtO1"
     },
     {
       "added_at": "2021-03-29 12:26:54",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2021-03-29 12:26:54",
       "album": {
-        "name": "Inside Out",
-        "url": "https://open.spotify.com/album/3cOYrPug7OjbO2oPNe38eE"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 226348,
-      "name": "Inside Out",
-      "url": "https://open.spotify.com/track/4Htt3QaBWdLggq88rJI5MU"
-    },
-    {
-      "added_at": "2021-03-29 12:26:54",
-      "album": {
         "name": "Nightmare Logic",
         "url": "https://open.spotify.com/album/3suNG9n4WGYQabXhUTkQ70"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 225245,
       "name": "Executioner's Tax (Swing of the Axe)",
       "url": "https://open.spotify.com/track/1kbwEcixFWVj5dFO9Kso3J"
+    },
+    {
+      "added_at": "2021-03-29 12:26:54",
+      "album": {
+        "name": "Inside Out",
+        "url": "https://open.spotify.com/album/3cOYrPug7OjbO2oPNe38eE"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 226348,
+      "name": "Inside Out",
+      "url": "https://open.spotify.com/track/4Htt3QaBWdLggq88rJI5MU"
     },
     {
       "added_at": "2021-03-29 12:26:54",
@@ -1471,6 +1471,26 @@
     {
       "added_at": "2021-03-29 12:26:54",
       "album": {
+        "name": "Atonement",
+        "url": "https://open.spotify.com/album/5k1IQPbz37ctTDrw4vbvtp"
+      },
+      "artists": [
+        {
+          "name": "Killswitch Engage",
+          "url": "https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l"
+        },
+        {
+          "name": "Howard Jones",
+          "url": "https://open.spotify.com/artist/5T0Vi8WwwfjX9tmUI9Mae9"
+        }
+      ],
+      "duration_ms": 185266,
+      "name": "The Signal Fire",
+      "url": "https://open.spotify.com/track/5kP32cKaf8ln4PSoY6sD13"
+    },
+    {
+      "added_at": "2021-03-29 12:26:54",
+      "album": {
         "name": "Black Eyes Blue / CMFT Must Be Stopped (feat. Tech N9ne and Kid Bookie)",
         "url": "https://open.spotify.com/album/6cflFZCSRgkhzBUguQrsJy"
       },
@@ -1491,26 +1511,6 @@
       "duration_ms": 314446,
       "name": "CMFT Must Be Stopped (feat. Tech N9ne and Kid Bookie)",
       "url": "https://open.spotify.com/track/6fGw5N35sPLcmyN5T3XRv7"
-    },
-    {
-      "added_at": "2021-03-29 12:26:54",
-      "album": {
-        "name": "Atonement",
-        "url": "https://open.spotify.com/album/5k1IQPbz37ctTDrw4vbvtp"
-      },
-      "artists": [
-        {
-          "name": "Killswitch Engage",
-          "url": "https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l"
-        },
-        {
-          "name": "Howard Jones",
-          "url": "https://open.spotify.com/artist/5T0Vi8WwwfjX9tmUI9Mae9"
-        }
-      ],
-      "duration_ms": 185266,
-      "name": "The Signal Fire",
-      "url": "https://open.spotify.com/track/5kP32cKaf8ln4PSoY6sD13"
     },
     {
       "added_at": "2021-03-29 12:26:54",
@@ -1659,6 +1659,26 @@
     {
       "added_at": "2021-03-29 12:26:54",
       "album": {
+        "name": "The Other Side",
+        "url": "https://open.spotify.com/album/6wkTgZzU6KpCazo4vJInGH"
+      },
+      "artists": [
+        {
+          "name": "Malevolence",
+          "url": "https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk"
+        },
+        {
+          "name": "Bryan Garris",
+          "url": "https://open.spotify.com/artist/7I25a8b3zJkLqCW2Ikfpfe"
+        }
+      ],
+      "duration_ms": 171491,
+      "name": "Keep Your Distance",
+      "url": "https://open.spotify.com/track/1LnId5vVcxflSKqF7VbdNY"
+    },
+    {
+      "added_at": "2021-03-29 12:26:54",
+      "album": {
         "name": "Bird On A Chain",
         "url": "https://open.spotify.com/album/5eY8X2zrWWaHlm7kMPV7qu"
       },
@@ -1671,22 +1691,6 @@
       "duration_ms": 172571,
       "name": "Bird On A Chain",
       "url": "https://open.spotify.com/track/4IF5tqSLknKGYp0uQPZw6P"
-    },
-    {
-      "added_at": "2022-03-16 21:08:09",
-      "album": {
-        "name": "I Am Damnation",
-        "url": "https://open.spotify.com/album/4CegSYvQSSoiMLhO0AHEDa"
-      },
-      "artists": [
-        {
-          "name": "Bleed From Within",
-          "url": "https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG"
-        }
-      ],
-      "duration_ms": 286000,
-      "name": "I Am Damnation",
-      "url": "https://open.spotify.com/track/17ExHVQYfJBlTSnbidz0LQ"
     },
     {
       "added_at": "2021-03-29 12:26:54",
@@ -1703,6 +1707,22 @@
       "duration_ms": 227440,
       "name": "Choke",
       "url": "https://open.spotify.com/track/1BW2QdLe6RtJTMJDSYmg9w"
+    },
+    {
+      "added_at": "2022-03-16 21:08:09",
+      "album": {
+        "name": "I Am Damnation",
+        "url": "https://open.spotify.com/album/4CegSYvQSSoiMLhO0AHEDa"
+      },
+      "artists": [
+        {
+          "name": "Bleed From Within",
+          "url": "https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG"
+        }
+      ],
+      "duration_ms": 286000,
+      "name": "I Am Damnation",
+      "url": "https://open.spotify.com/track/17ExHVQYfJBlTSnbidz0LQ"
     },
     {
       "added_at": "2022-01-17 09:48:20",
@@ -1751,26 +1771,6 @@
       "duration_ms": 210406,
       "name": "STFU",
       "url": "https://open.spotify.com/track/0X6WHH6WvXFTMmwWrsFeob"
-    },
-    {
-      "added_at": "2021-03-29 12:26:54",
-      "album": {
-        "name": "The Other Side",
-        "url": "https://open.spotify.com/album/6wkTgZzU6KpCazo4vJInGH"
-      },
-      "artists": [
-        {
-          "name": "Malevolence",
-          "url": "https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk"
-        },
-        {
-          "name": "Bryan Garris",
-          "url": "https://open.spotify.com/artist/7I25a8b3zJkLqCW2Ikfpfe"
-        }
-      ],
-      "duration_ms": 171491,
-      "name": "Keep Your Distance",
-      "url": "https://open.spotify.com/track/1LnId5vVcxflSKqF7VbdNY"
     },
     {
       "added_at": "2021-03-29 12:26:54",

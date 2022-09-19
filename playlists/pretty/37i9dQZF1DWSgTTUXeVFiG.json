@@ -1,12 +1,12 @@
 {
   "description": "Los \u00e9xitos de siempre en concierto. Foto: Celia Cruz",
-  "num_followers": 7898,
+  "num_followers": 7946,
   "original_name": "Vivo de Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzU3OTYwMCwwMDAwMDAwMGYxOTRlN2I3NTFlNjgxYWJmM2VkMjg2NjllZjgwZGEz",
+  "snapshot_id": "MTY0NzU3OTYwMCwwMDAwMDAwMDhiMDQzNzhhOGU2ZWVhYzczMDQ5ZmI5NDU5NGQ5OGEw",
   "tracks": [
     {
       "added_at": "2022-03-18 05:00:00",
@@ -443,6 +443,22 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
+        "name": "\u00cdntimamente Salsero (En Vivo)",
+        "url": "https://open.spotify.com/album/1gRHLe75BJK2tqAbaSL30w"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alberto \"El Canario\"",
+          "url": "https://open.spotify.com/artist/6TRzinjf5dzE8zA8baPbYz"
+        }
+      ],
+      "duration_ms": 298573,
+      "name": "Sue\u00f1o Contigo - En Vivo",
+      "url": "https://open.spotify.com/track/5BrPoD09caqS2vjKc8TNgQ"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
         "name": "Live At The Cheetah, Vol. 1",
         "url": "https://open.spotify.com/album/1XfrZU7zjQT9obvRbk1x0e"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 435640,
       "name": "Anacaona - Live",
       "url": "https://open.spotify.com/track/0aiInkmMYSIizbx4YIxHHP"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
-        "name": "\u00cdntimamente Salsero (En Vivo)",
-        "url": "https://open.spotify.com/album/1gRHLe75BJK2tqAbaSL30w"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Alberto \"El Canario\"",
-          "url": "https://open.spotify.com/artist/6TRzinjf5dzE8zA8baPbYz"
-        }
-      ],
-      "duration_ms": 298573,
-      "name": "Sue\u00f1o Contigo - En Vivo",
-      "url": "https://open.spotify.com/track/5BrPoD09caqS2vjKc8TNgQ"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -559,6 +559,34 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
+        "name": "Live At The Red Garter, Vol. 1",
+        "url": "https://open.spotify.com/album/5Qz2Pe94CCMTG7QmfCFYxM"
+      },
+      "artists": [
+        {
+          "name": "Fania All Stars",
+          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
+        },
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+        },
+        {
+          "name": "Eddie Palmieri",
+          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
+        },
+        {
+          "name": "Ricardo \"Richie\" Ray",
+          "url": "https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc"
+        }
+      ],
+      "duration_ms": 497080,
+      "name": "Me Gusta El Son - Live",
+      "url": "https://open.spotify.com/track/7xdo44K01QFyEWKVeeOn5Z"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
         "name": "Sergio George Presents Salsa Giants (Live)",
         "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
       },
@@ -571,22 +599,6 @@
       "duration_ms": 343786,
       "name": "Yo No S\u00e9 Ma\u00f1ana - Live Version",
       "url": "https://open.spotify.com/track/6sc28e5O4zPT3N1VY7N5Q3"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
-        "name": "Lo Nuevo Y Lo Mejor (En Vivo)",
-        "url": "https://open.spotify.com/album/7iHGyYhoSAKDQG9UA2HsHy"
-      },
-      "artists": [
-        {
-          "name": "Willie Gonzalez",
-          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
-        }
-      ],
-      "duration_ms": 424066,
-      "name": "Quiero Morir en Tu Piel - En Vivo",
-      "url": "https://open.spotify.com/track/0qAjOf02CtFmBJM168q9BV"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -627,30 +639,18 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Live At The Red Garter, Vol. 1",
-        "url": "https://open.spotify.com/album/5Qz2Pe94CCMTG7QmfCFYxM"
+        "name": "Lo Nuevo Y Lo Mejor (En Vivo)",
+        "url": "https://open.spotify.com/album/7iHGyYhoSAKDQG9UA2HsHy"
       },
       "artists": [
         {
-          "name": "Fania All Stars",
-          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
-        },
-        {
-          "name": "Tito Puente",
-          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
-        },
-        {
-          "name": "Eddie Palmieri",
-          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
-        },
-        {
-          "name": "Ricardo \"Richie\" Ray",
-          "url": "https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc"
+          "name": "Willie Gonzalez",
+          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
         }
       ],
-      "duration_ms": 497080,
-      "name": "Me Gusta El Son - Live",
-      "url": "https://open.spotify.com/track/7xdo44K01QFyEWKVeeOn5Z"
+      "duration_ms": 424066,
+      "name": "Quiero Morir en Tu Piel - En Vivo",
+      "url": "https://open.spotify.com/track/0qAjOf02CtFmBJM168q9BV"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -703,6 +703,22 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
+        "name": "Live At The Cheetah, Vol. 2",
+        "url": "https://open.spotify.com/album/4EawW1gi6378jsFlWr81sZ"
+      },
+      "artists": [
+        {
+          "name": "Fania All Stars",
+          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
+        }
+      ],
+      "duration_ms": 444960,
+      "name": "Estrellas de Fania - Live At The Cheetah Club / New York, NY / August 26, 1971",
+      "url": "https://open.spotify.com/track/2jeQ960qCjTtyPXc3wdWcZ"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
         "name": "Lo Mejor De Celia Cruz & Oscar D\u00b4Le\u00f3n En Concierto",
         "url": "https://open.spotify.com/album/7bLj1JszeG6xZ2iLmc9vpX"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 500520,
       "name": "Desnudate Mujer",
       "url": "https://open.spotify.com/track/2aiTdsCbRlcDmSPzToIRIA"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
-        "name": "Live At The Cheetah, Vol. 2",
-        "url": "https://open.spotify.com/album/4EawW1gi6378jsFlWr81sZ"
-      },
-      "artists": [
-        {
-          "name": "Fania All Stars",
-          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
-        }
-      ],
-      "duration_ms": 444960,
-      "name": "Estrellas de Fania - Live At The Cheetah Club / New York, NY / August 26, 1971",
-      "url": "https://open.spotify.com/track/2jeQ960qCjTtyPXc3wdWcZ"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -851,6 +851,26 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
+        "name": "Live At The Cheetah, Vol. 1",
+        "url": "https://open.spotify.com/album/1XfrZU7zjQT9obvRbk1x0e"
+      },
+      "artists": [
+        {
+          "name": "Fania All Stars",
+          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
+        },
+        {
+          "name": "Adalberto Santiago",
+          "url": "https://open.spotify.com/artist/6tZxUxheS7w3953cQFOXkd"
+        }
+      ],
+      "duration_ms": 557626,
+      "name": "Descarga Fania - Live",
+      "url": "https://open.spotify.com/track/1WeyEbCQgbh2YZkDKx6Uud"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
         "name": "A Night Of Salsa",
         "url": "https://open.spotify.com/album/4AufrsOjkE4COw6Innem8h"
       },
@@ -863,22 +883,6 @@
       "duration_ms": 401466,
       "name": "La Vida Es Un Carnaval - En Vivo Desde Hartford, Connecticut/1999",
       "url": "https://open.spotify.com/track/5BEXV2dGkQA2BPIYtGgntT"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
-        "name": "Sergio George Presents Salsa Giants (Live)",
-        "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
-      },
-      "artists": [
-        {
-          "name": "Oscar D'Le\u00f3n",
-          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
-        }
-      ],
-      "duration_ms": 338093,
-      "name": "Mi Bajo y Yo - Live Version",
-      "url": "https://open.spotify.com/track/5VBWkhVysV6pW7Uiw5S4lb"
     }
   ],
   "unique_name": "Vivo de Salsa",

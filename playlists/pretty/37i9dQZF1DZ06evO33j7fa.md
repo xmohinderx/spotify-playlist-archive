@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33j7fa.md) - [plain]
 
 > This is Nick Drake\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,608 likes - 31 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,637 likes - 31 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,15 +19,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33j7fa.md) - [plain]
 | 9 | [From The Morning](https://open.spotify.com/track/6meH4I9A4WZtD3z8hnQKqr) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Pink Moon](https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg) | 2:30 |
 | 10 | [Hazey Jane II](https://open.spotify.com/track/1Juj6Rg5MhutU8gW43934B) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Bryter Layter](https://open.spotify.com/album/04FfqGvZJ9oUBGRVrq2FE5) | 3:46 |
 | 11 | [' Cello Song](https://open.spotify.com/track/42yexCY4dCftowtAZXuAIj) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Five Leaves Left](https://open.spotify.com/album/7IpcJbVxLLEfW0KXB7ndE2) | 4:44 |
-| 12 | [Hanging On A Star](https://open.spotify.com/track/3lpkLZfD2RJltSaAGgmoxb) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Made To Love Magic](https://open.spotify.com/album/0nHa7yhIyuYgRL6msr9dJR) | 3:23 |
+| 12 | [Been Smoking Too Long](https://open.spotify.com/track/0mpy4rRJcHILTMdnPatza8) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Family Tree](https://open.spotify.com/album/0XK1y5q7jUfIB2wDPOyt36) | 2:13 |
 | 13 | [Road](https://open.spotify.com/track/5ir0VEsMI7cLhN6SEiaKol) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Pink Moon](https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg) | 1:59 |
 | 14 | [At The Chime Of A City Clock](https://open.spotify.com/track/5lc8or13c2lgTWTOVIos6W) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Bryter Layter](https://open.spotify.com/album/04FfqGvZJ9oUBGRVrq2FE5) | 4:45 |
 | 15 | [River Man](https://open.spotify.com/track/3Uh7rAb7F0XGVpEEDwfH1k) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Five Leaves Left](https://open.spotify.com/album/7IpcJbVxLLEfW0KXB7ndE2) | 4:18 |
-| 16 | [Been Smoking Too Long](https://open.spotify.com/track/0mpy4rRJcHILTMdnPatza8) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Family Tree](https://open.spotify.com/album/0XK1y5q7jUfIB2wDPOyt36) | 2:13 |
+| 16 | [Black Eyed Dog](https://open.spotify.com/track/1ORNDo58BSH2uP0nNXJTT1) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Made To Love Magic](https://open.spotify.com/album/0nHa7yhIyuYgRL6msr9dJR) | 3:27 |
 | 17 | [Which Will](https://open.spotify.com/track/4Cg0paoTgxlo2LC85HKaab) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Pink Moon](https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg) | 2:56 |
 | 18 | [Hazey Jane I](https://open.spotify.com/track/0l2MlJk8MAvKfYDvJ4nv6l) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Bryter Layter](https://open.spotify.com/album/04FfqGvZJ9oUBGRVrq2FE5) | 4:29 |
 | 19 | [Time Has Told Me](https://open.spotify.com/track/20FLGZPgMHXlU0VpQ0HpxN) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Five Leaves Left](https://open.spotify.com/album/7IpcJbVxLLEfW0KXB7ndE2) | 4:24 |
-| 20 | [Black Eyed Dog](https://open.spotify.com/track/1ORNDo58BSH2uP0nNXJTT1) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Made To Love Magic](https://open.spotify.com/album/0nHa7yhIyuYgRL6msr9dJR) | 3:27 |
+| 20 | [Hanging On A Star](https://open.spotify.com/track/3lpkLZfD2RJltSaAGgmoxb) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Made To Love Magic](https://open.spotify.com/album/0nHa7yhIyuYgRL6msr9dJR) | 3:23 |
 | 21 | [Things Behind The Sun](https://open.spotify.com/track/2s89qv9maW8RMCoaxtvNtn) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Pink Moon](https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg) | 3:54 |
 | 22 | [Poor Boy](https://open.spotify.com/track/2MvmsEPBWo9SMo4w3Ol7tN) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Bryter Layter](https://open.spotify.com/album/04FfqGvZJ9oUBGRVrq2FE5) | 6:07 |
 | 23 | [Three Hours](https://open.spotify.com/track/3Mc00D5lLah9WAn62rDKrH) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Five Leaves Left](https://open.spotify.com/album/7IpcJbVxLLEfW0KXB7ndE2) | 6:12 |
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33j7fa.md) - [plain]
 | 30 | [Joey](https://open.spotify.com/track/5LpXrjVkXNFXIzoj5Mf5gw) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Made To Love Magic](https://open.spotify.com/album/0nHa7yhIyuYgRL6msr9dJR) | 3:03 |
 | 31 | [Come Into The Garden \(Introduction\)](https://open.spotify.com/track/4kBpRGDsUpGwkyu0q6kQQJ) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Family Tree](https://open.spotify.com/album/0XK1y5q7jUfIB2wDPOyt36) | 0:32 |
 
-Snapshot ID: `Mjc3MjM2OTIsMDAwMDAwMDA1YTJhZWU2ZGQ2MTBhYWFlMjI1NzZiY2MzMGM3ODY5NQ==`
+Snapshot ID: `Mjc3MjUxMjEsMDAwMDAwMDAyMzQzMWU2NTQ1MmE5ZGJmMzgzMzM5ZmNhM2Y3MTAwMw==`

@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5mIowAJMp7RKNheelruV5z"> &ME</a> gifts us with a beautiful & unique DJ mix to dance the night away.
 
-15 songs - 1 hr 25 min - not published yet
+15 songs - 1 hr 25 min - [published](https://open.spotify.com/playlist/5jjcnmOQLHRt8VYZT7WDXn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

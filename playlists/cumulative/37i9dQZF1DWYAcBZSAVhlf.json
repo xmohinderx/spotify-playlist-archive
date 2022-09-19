@@ -1830,6 +1830,24 @@
     },
     {
       "album": {
+        "name": "Bucks Fizz",
+        "url": "https://open.spotify.com/album/5HqRd9aYv1b0x8A6q2ljFb"
+      },
+      "artists": [
+        {
+          "name": "Bucks Fizz",
+          "url": "https://open.spotify.com/artist/5ZfzzHE7rxONfoksJsLXrX"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158440,
+      "name": "Making Your Mind Up",
+      "url": "https://open.spotify.com/track/0Azn2vpP3Sbs8qAG8e1KUc"
+    },
+    {
+      "album": {
         "name": "80s 100 Hits - Volume 2",
         "url": "https://open.spotify.com/album/56QkBFCRUIGCMWnKKKheXC"
       },
@@ -2271,7 +2289,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 357146,
       "name": "Sisters Are Doin' It for Themselves - Remastered Version",
       "url": "https://open.spotify.com/track/6pPCOXIQeNMr1oCWJTomSf"

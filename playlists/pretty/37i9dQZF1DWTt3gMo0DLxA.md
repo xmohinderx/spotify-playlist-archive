@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 
 > Step Up for this Top Hit Telugu songs
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,335 likes - 52 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,374 likes - 52 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 | 4 | [Bombhaat](https://open.spotify.com/track/0VcO1SA3oUKl1qHSUc6LxQ) | [Rahul Sipligunj, Ramya Behara](https://open.spotify.com/artist/1FU5zchVyOx3ShCCLu9wb2) | [LIE](https://open.spotify.com/album/5qpZDTqwLtGVwWlSz8TcHV) | 4:03 |
 | 5 | [Neethoney Dance](https://open.spotify.com/track/2kFaEZJM9coKfesI5LOaPJ) | [Hiphop Tamizha, Nikitha Gandhi](https://open.spotify.com/artist/0BRNfdgdsMkjl1N9MNXJrc) | [Dhruva](https://open.spotify.com/album/2mutIulE85wKAHrrP0oCuM) | 3:14 |
 | 6 | [Saana Kastam](https://open.spotify.com/track/6GbObXudr6oFWk8FdHHLeh) | [L\. V\. Revanth](https://open.spotify.com/artist/2OrTfOi3k8VMFLuvC527bB), [Geetha Madhuri](https://open.spotify.com/artist/5qhGpFQDS0CHw4cKeCzaai) | [Acharya](https://open.spotify.com/album/5UlyI2OfFD3HPWgsui3YL3) | 4:04 |
-| 7 | [Top Lesi Poddi](https://open.spotify.com/track/0FSrCEox8bEpO3RD6ZfEr5) | [Sagar, Geetha Madhuri](https://open.spotify.com/artist/4cjneCieMET25rMaFXwudS) | [Idharammayilatho](https://open.spotify.com/album/6o9ysd0MFQXd6g4eWtcvNq) | 4:17 |
-| 8 | [Seeti Maar](https://open.spotify.com/track/5VayHAvzwBx4i87c1twFjS) | [Jaspreet Jasz](https://open.spotify.com/artist/65jsdEMz2d1jbIECHqAhFr), [Rita](https://open.spotify.com/artist/3Z7tNWlrQnxjy4LuhlHAAB) | [DJ](https://open.spotify.com/album/1kGnuSqFejTLaDJefAU7yw) | 4:10 |
+| 7 | [Seeti Maar](https://open.spotify.com/track/5VayHAvzwBx4i87c1twFjS) | [Jaspreet Jasz](https://open.spotify.com/artist/65jsdEMz2d1jbIECHqAhFr), [Rita](https://open.spotify.com/artist/3Z7tNWlrQnxjy4LuhlHAAB) | [DJ](https://open.spotify.com/album/1kGnuSqFejTLaDJefAU7yw) | 4:10 |
+| 8 | [Top Lesi Poddi](https://open.spotify.com/track/0FSrCEox8bEpO3RD6ZfEr5) | [Sagar, Geetha Madhuri](https://open.spotify.com/artist/4cjneCieMET25rMaFXwudS) | [Idharammayilatho](https://open.spotify.com/album/6o9ysd0MFQXd6g4eWtcvNq) | 4:17 |
 | 9 | [Kaatuka Kanule \(From "Aakaasam Nee Haddhu Ra"\)](https://open.spotify.com/track/1HobaVS51OdBZqNmqt1TX7) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH) | [Kaatuka Kanule \(From "Aakaasam Nee Haddhu Ra"\)](https://open.spotify.com/album/182Ps1T0Kkl5thJcmCT0aC) | 4:06 |
 | 10 | [Kanne Kanne \(From "Arjun Suravaram"\)](https://open.spotify.com/track/1Ufd6lvT02tqohgJr8FEtM) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [Sam C.S.](https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa) | [Kanne Kanne \(From "Arjun Suravaram"\)](https://open.spotify.com/album/6iMuAQSexPEINcUSTwCK3f) | 4:50 |
 | 11 | [Dinchak \(From "Red"\)](https://open.spotify.com/track/0iT2FnhutL3yJh7DXy1SOG) | [Keerthana Sharma](https://open.spotify.com/artist/3MVZmcDNyoI81ZmAu0YiF7), [Saketh](https://open.spotify.com/artist/2Z4Ts7fIjfQ78Nh7EEy1bQ), [Mani Sharma](https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss) | [Dinchak \(From "Red"\)](https://open.spotify.com/album/1935AnvPstXORnGqOf8rgW) | 5:19 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 | 51 | [Raaye Raaye](https://open.spotify.com/track/6CJnjllUy1qhWVC6slc8cA) | [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB), [Madhu Priya](https://open.spotify.com/artist/1TpuHZaoRQMiKcMRN5DjDY) | [Touch Chesi Chudu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5jGomlyoYmxcjNxqWILSVr) | 3:28 |
 | 52 | [Puttene Prema](https://open.spotify.com/track/6qNCPMFrXaeVQuA3QFZ4F1) | [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj) | [Gully Rowdy](https://open.spotify.com/album/16FbjE4zTKmqoa9DOt4lrs) | 3:46 |
 
-Snapshot ID: `MTY1MTkzMjA5NywwMDAwMDAwMGE2NDBjYjYwYzU1ZDY5MzY4YjI2OWM3ZWYyMzRlMjdi`
+Snapshot ID: `MTY1MTkzMjA5NywwMDAwMDAwMDA1ZTI1MTI5ZTViM2NlYmEwMTRkZWQ4Nzk3NDY4ZjJl`

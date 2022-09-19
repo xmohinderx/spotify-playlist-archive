@@ -4,7 +4,7 @@
 
 > This is Movements\. The essential tracks, all in one playlist.
 
-24 songs - 1 hr 26 min - not published yet
+24 songs - 1 hr 26 min - [published](https://open.spotify.com/playlist/173HQQThTBlUsDYZHlqAai)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

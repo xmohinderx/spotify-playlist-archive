@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6nxWCVXbOlEVRexSbLsTer">Flume</a>'s favourite tracks\. Updated regularly\. Curated by Flume\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-55 songs - 3 hr 44 min - not published yet
+55 songs - 3 hr 44 min - [published](https://open.spotify.com/playlist/4NjL2b04S4u48PKHjzlyC6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

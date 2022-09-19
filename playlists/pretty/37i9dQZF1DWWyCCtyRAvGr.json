@@ -1,12 +1,12 @@
 {
   "description": "A relaxing evening with a smooth glass never sounded so good. Hit play and let the room fill with some of the classics.",
-  "num_followers": 118379,
+  "num_followers": 118555,
   "original_name": "Blues on the Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzAwMDgwOSwwMDAwMDAwMGQ0ZDVmODUzMTFjODI2NzQ2ZDM0YzQ4NjAxZDZjNjM3",
+  "snapshot_id": "MTY2MzAwMDgwOSwwMDAwMDAwMDQyYWNlZjE1OTRhN2E4ZjcyYmMyZTY5MmRmMzVmNTll",
   "tracks": [
     {
       "added_at": "2022-09-12 16:40:09",
@@ -543,22 +543,6 @@
     {
       "added_at": "2022-09-12 16:40:09",
       "album": {
-        "name": "Mean Blues",
-        "url": "https://open.spotify.com/album/3rmhmQt2WqS7rhwalTlGBS"
-      },
-      "artists": [
-        {
-          "name": "Floyd Lee Band",
-          "url": "https://open.spotify.com/artist/4jSXw5yTDrfBBjnlwBMVud"
-        }
-      ],
-      "duration_ms": 297973,
-      "name": "Mean Blues",
-      "url": "https://open.spotify.com/track/1Q57HueU3dO9hZB5ALMlPh"
-    },
-    {
-      "added_at": "2022-09-12 16:40:09",
-      "album": {
         "name": "Bluesbreakers",
         "url": "https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o"
       },
@@ -639,6 +623,22 @@
     {
       "added_at": "2022-09-12 16:40:09",
       "album": {
+        "name": "Mean Blues",
+        "url": "https://open.spotify.com/album/3rmhmQt2WqS7rhwalTlGBS"
+      },
+      "artists": [
+        {
+          "name": "Floyd Lee Band",
+          "url": "https://open.spotify.com/artist/4jSXw5yTDrfBBjnlwBMVud"
+        }
+      ],
+      "duration_ms": 297973,
+      "name": "Mean Blues",
+      "url": "https://open.spotify.com/track/1Q57HueU3dO9hZB5ALMlPh"
+    },
+    {
+      "added_at": "2022-09-12 16:40:09",
+      "album": {
         "name": "Shuggie's Boogie: Shuggie Otis Plays The Blues",
         "url": "https://open.spotify.com/album/6WSeoiDc3zAjZVjFzMyLBC"
       },
@@ -671,22 +671,6 @@
     {
       "added_at": "2022-09-12 16:40:09",
       "album": {
-        "name": "How Blue Can You Get",
-        "url": "https://open.spotify.com/album/0ZpuZkMjlRYETgOAjVAaZp"
-      },
-      "artists": [
-        {
-          "name": "Gary Moore",
-          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
-        }
-      ],
-      "duration_ms": 436213,
-      "name": "How Blue Can You Get",
-      "url": "https://open.spotify.com/track/2P5nxLbWpdpFrrt03R7fU0"
-    },
-    {
-      "added_at": "2022-09-12 16:40:09",
-      "album": {
         "name": "His Best: The Electric B.B. King (Expanded Edition)",
         "url": "https://open.spotify.com/album/5mdl9vCNEXZl1EbRdHMRW4"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 309373,
       "name": "Don't Answer The Door",
       "url": "https://open.spotify.com/track/5JIsQC6ObGhzzRHMdEPMdV"
+    },
+    {
+      "added_at": "2022-09-12 16:40:09",
+      "album": {
+        "name": "How Blue Can You Get",
+        "url": "https://open.spotify.com/album/0ZpuZkMjlRYETgOAjVAaZp"
+      },
+      "artists": [
+        {
+          "name": "Gary Moore",
+          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
+        }
+      ],
+      "duration_ms": 436213,
+      "name": "How Blue Can You Get",
+      "url": "https://open.spotify.com/track/2P5nxLbWpdpFrrt03R7fU0"
     },
     {
       "added_at": "2022-09-12 16:40:09",

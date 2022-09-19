@@ -1,12 +1,12 @@
 {
   "description": "When the bassline slaps.",
-  "num_followers": 269869,
+  "num_followers": 269820,
   "original_name": "SLAP!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTUxMzQ4NiwwMDAwMDAwMGUzZjY3YzU4MWQ4YjA1NjA4OGJlYTBmOTY4MjVjMGI2",
+  "snapshot_id": "MTY2MTUxMzQ4NiwwMDAwMDAwMDdiZTgwYTYyZWM4MDllNDk4Mjc5YzE0NjhhZGQ2MTM4",
   "tracks": [
     {
       "added_at": "2022-08-26 11:31:26",
@@ -287,26 +287,6 @@
     {
       "added_at": "2022-08-26 11:31:26",
       "album": {
-        "name": "Keep on Moving",
-        "url": "https://open.spotify.com/album/3vLlGwZQi5yorSzKAaHVzy"
-      },
-      "artists": [
-        {
-          "name": "Kastuvas",
-          "url": "https://open.spotify.com/artist/48aqzGnSFeO0t4FKTGmq72"
-        },
-        {
-          "name": "Emie",
-          "url": "https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ"
-        }
-      ],
-      "duration_ms": 177187,
-      "name": "Keep on Moving",
-      "url": "https://open.spotify.com/track/2sHa8ZvrwS2LZagaUM3FN5"
-    },
-    {
-      "added_at": "2022-08-26 11:31:26",
-      "album": {
         "name": "Boots",
         "url": "https://open.spotify.com/album/2DbkReYC72KnO92dAL8V0Z"
       },
@@ -323,6 +303,26 @@
       "duration_ms": 161000,
       "name": "Boots",
       "url": "https://open.spotify.com/track/0i9adAf1xiL0EbOcog6rEo"
+    },
+    {
+      "added_at": "2022-08-26 11:31:26",
+      "album": {
+        "name": "Keep on Moving",
+        "url": "https://open.spotify.com/album/3vLlGwZQi5yorSzKAaHVzy"
+      },
+      "artists": [
+        {
+          "name": "Kastuvas",
+          "url": "https://open.spotify.com/artist/48aqzGnSFeO0t4FKTGmq72"
+        },
+        {
+          "name": "Emie",
+          "url": "https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ"
+        }
+      ],
+      "duration_ms": 177187,
+      "name": "Keep on Moving",
+      "url": "https://open.spotify.com/track/2sHa8ZvrwS2LZagaUM3FN5"
     },
     {
       "added_at": "2022-08-26 11:31:26",
@@ -635,26 +635,6 @@
     {
       "added_at": "2022-08-26 11:31:26",
       "album": {
-        "name": "I'm Okay",
-        "url": "https://open.spotify.com/album/2mLBy9PXobrVjSWHMHk1En"
-      },
-      "artists": [
-        {
-          "name": "HBz",
-          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
-        },
-        {
-          "name": "OBS",
-          "url": "https://open.spotify.com/artist/5pT9S3KV5SqnzKHpSYf3ko"
-        }
-      ],
-      "duration_ms": 151723,
-      "name": "I'm Okay",
-      "url": "https://open.spotify.com/track/4bt67pD5FiKIV5kn8ej38d"
-    },
-    {
-      "added_at": "2022-08-26 11:31:26",
-      "album": {
         "name": "Mistakes",
         "url": "https://open.spotify.com/album/3U16S348ETHW0DTPeM9Pp0"
       },
@@ -671,6 +651,26 @@
       "duration_ms": 153719,
       "name": "Mistakes",
       "url": "https://open.spotify.com/track/0RvQLK3wSHhRuC55sjxeSQ"
+    },
+    {
+      "added_at": "2022-08-26 11:31:26",
+      "album": {
+        "name": "I'm Okay",
+        "url": "https://open.spotify.com/album/2mLBy9PXobrVjSWHMHk1En"
+      },
+      "artists": [
+        {
+          "name": "HBz",
+          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
+        },
+        {
+          "name": "OBS",
+          "url": "https://open.spotify.com/artist/5pT9S3KV5SqnzKHpSYf3ko"
+        }
+      ],
+      "duration_ms": 151723,
+      "name": "I'm Okay",
+      "url": "https://open.spotify.com/track/4bt67pD5FiKIV5kn8ej38d"
     },
     {
       "added_at": "2022-08-26 11:31:26",
@@ -1011,30 +1011,6 @@
     {
       "added_at": "2022-08-26 11:31:26",
       "album": {
-        "name": "redruM (Robin Schulz Remix)",
-        "url": "https://open.spotify.com/album/4nnIvDNj4KOJgN2dAZThea"
-      },
-      "artists": [
-        {
-          "name": "Sorana",
-          "url": "https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        }
-      ],
-      "duration_ms": 176785,
-      "name": "redruM - Robin Schulz Remix",
-      "url": "https://open.spotify.com/track/6Jl7TcHDKlM8pBfupmRpwp"
-    },
-    {
-      "added_at": "2022-08-26 11:31:26",
-      "album": {
         "name": "World in Your Eyes",
         "url": "https://open.spotify.com/album/7hlG0h8cXqlLjF8rVCE92E"
       },
@@ -1059,6 +1035,30 @@
       "duration_ms": 131142,
       "name": "World in Your Eyes",
       "url": "https://open.spotify.com/track/5ma7yZhAlSKgFYYEqYHOD9"
+    },
+    {
+      "added_at": "2022-08-26 11:31:26",
+      "album": {
+        "name": "redruM (Robin Schulz Remix)",
+        "url": "https://open.spotify.com/album/4nnIvDNj4KOJgN2dAZThea"
+      },
+      "artists": [
+        {
+          "name": "Sorana",
+          "url": "https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "duration_ms": 176785,
+      "name": "redruM - Robin Schulz Remix",
+      "url": "https://open.spotify.com/track/6Jl7TcHDKlM8pBfupmRpwp"
     },
     {
       "added_at": "2022-08-26 11:31:26",
@@ -1127,26 +1127,6 @@
     {
       "added_at": "2022-08-26 11:31:26",
       "album": {
-        "name": "Like You Mean It",
-        "url": "https://open.spotify.com/album/1qTxHDgm9jc8t0Du3Mmi1K"
-      },
-      "artists": [
-        {
-          "name": "Gaullin",
-          "url": "https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K"
-        },
-        {
-          "name": "Katy Tiz",
-          "url": "https://open.spotify.com/artist/2E19mfEFhCr6UgZUYJGOEW"
-        }
-      ],
-      "duration_ms": 138536,
-      "name": "Like You Mean It",
-      "url": "https://open.spotify.com/track/76QVxIrCN9n49o1QWE9Be2"
-    },
-    {
-      "added_at": "2022-08-26 11:31:26",
-      "album": {
         "name": "I'll Be Gone",
         "url": "https://open.spotify.com/album/4YsyvipGYyveQu8xvmE5O9"
       },
@@ -1163,6 +1143,26 @@
       "duration_ms": 161739,
       "name": "I'll Be Gone",
       "url": "https://open.spotify.com/track/1xo6bTCYJyviJPZ3TQN76Z"
+    },
+    {
+      "added_at": "2022-08-26 11:31:26",
+      "album": {
+        "name": "Like You Mean It",
+        "url": "https://open.spotify.com/album/1qTxHDgm9jc8t0Du3Mmi1K"
+      },
+      "artists": [
+        {
+          "name": "Gaullin",
+          "url": "https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K"
+        },
+        {
+          "name": "Katy Tiz",
+          "url": "https://open.spotify.com/artist/2E19mfEFhCr6UgZUYJGOEW"
+        }
+      ],
+      "duration_ms": 138536,
+      "name": "Like You Mean It",
+      "url": "https://open.spotify.com/track/76QVxIrCN9n49o1QWE9Be2"
     },
     {
       "added_at": "2022-08-26 11:31:26",

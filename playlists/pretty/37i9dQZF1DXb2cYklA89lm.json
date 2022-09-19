@@ -1,12 +1,12 @@
 {
   "description": "Fast cars, zombie love, and psychobilly freakouts!",
-  "num_followers": 144874,
+  "num_followers": 144965,
   "original_name": "Hot Rods & Horror Shows",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxMDgxNTY3NSwwMDAwMDAwMDczYTA3ZTNmYzg4ZTU0MTFjNjFjMmViZjg5YjFkMTY5",
+  "snapshot_id": "MTYxMDgxNTY3NSwwMDAwMDAwMDA5MDhhNDM1ZDNjYTNhODk4ODdhZjJlMDVhY2YyZTIx",
   "tracks": [
     {
       "added_at": "2021-01-16 16:47:50",
@@ -723,22 +723,6 @@
     {
       "added_at": "2021-01-16 16:47:50",
       "album": {
-        "name": "Doctors & Churches",
-        "url": "https://open.spotify.com/album/78ClJ6GN8613bqLx0BThJ5"
-      },
-      "artists": [
-        {
-          "name": "Miss Vincent",
-          "url": "https://open.spotify.com/artist/2yvzGtFdv8dlpBqErEXPXx"
-        }
-      ],
-      "duration_ms": 210240,
-      "name": "Doctors & Churches",
-      "url": "https://open.spotify.com/track/57C9ovU3HVtgSdHIjcnD6g"
-    },
-    {
-      "added_at": "2021-01-16 16:47:50",
-      "album": {
         "name": "Return of the Infamous Four",
         "url": "https://open.spotify.com/album/4ePW478pYVQzQN8W4dXp9l"
       },
@@ -755,18 +739,34 @@
     {
       "added_at": "2021-01-16 16:47:50",
       "album": {
-        "name": "Songs of Unspeakable Terror",
-        "url": "https://open.spotify.com/album/18WFSTsaFEFNG9P5jM5gxM"
+        "name": "Doctors & Churches",
+        "url": "https://open.spotify.com/album/78ClJ6GN8613bqLx0BThJ5"
       },
       "artists": [
         {
-          "name": "Bloody Hammers",
-          "url": "https://open.spotify.com/artist/6MC1i9hToT9dRxdN4hIHEW"
+          "name": "Miss Vincent",
+          "url": "https://open.spotify.com/artist/2yvzGtFdv8dlpBqErEXPXx"
         }
       ],
-      "duration_ms": 202773,
-      "name": "Not of This Earth",
-      "url": "https://open.spotify.com/track/4TLiQQGJfY8ZA9dEw6ZvkG"
+      "duration_ms": 210240,
+      "name": "Doctors & Churches",
+      "url": "https://open.spotify.com/track/57C9ovU3HVtgSdHIjcnD6g"
+    },
+    {
+      "added_at": "2021-01-16 16:47:50",
+      "album": {
+        "name": "Down the Rabbit Hole",
+        "url": "https://open.spotify.com/album/5bRbNwr5O2YUwOYuxf3Fq7"
+      },
+      "artists": [
+        {
+          "name": "Johnny and the Rotten",
+          "url": "https://open.spotify.com/artist/0UxpQSNKdoqA1TOdFnAcng"
+        }
+      ],
+      "duration_ms": 215292,
+      "name": "King of the Waves",
+      "url": "https://open.spotify.com/track/2H9eYf6J7fRcgOm4MJrpfI"
     },
     {
       "added_at": "2021-01-16 16:47:50",
@@ -787,18 +787,18 @@
     {
       "added_at": "2021-01-16 16:47:50",
       "album": {
-        "name": "Down the Rabbit Hole",
-        "url": "https://open.spotify.com/album/5bRbNwr5O2YUwOYuxf3Fq7"
+        "name": "Songs of Unspeakable Terror",
+        "url": "https://open.spotify.com/album/18WFSTsaFEFNG9P5jM5gxM"
       },
       "artists": [
         {
-          "name": "Johnny and the Rotten",
-          "url": "https://open.spotify.com/artist/0UxpQSNKdoqA1TOdFnAcng"
+          "name": "Bloody Hammers",
+          "url": "https://open.spotify.com/artist/6MC1i9hToT9dRxdN4hIHEW"
         }
       ],
-      "duration_ms": 215292,
-      "name": "King of the Waves",
-      "url": "https://open.spotify.com/track/2H9eYf6J7fRcgOm4MJrpfI"
+      "duration_ms": 202773,
+      "name": "Not of This Earth",
+      "url": "https://open.spotify.com/track/4TLiQQGJfY8ZA9dEw6ZvkG"
     },
     {
       "added_at": "2021-01-16 16:47:50",

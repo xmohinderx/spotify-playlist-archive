@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Three Days Grace on top of the biggest Metal playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,307,305 likes - 60 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,307,472 likes - 60 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 45 | [Worst Is On Its Way](https://open.spotify.com/track/1XYckecySdxfsF2ibuqtPR) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Worst Is On Its Way \(Requiem Mass\)](https://open.spotify.com/album/3GTV3qGtYTQSfGfvjczByg) | 4:03 |
 | 46 | [Time](https://open.spotify.com/track/2KypRk2hIQxO8Z8EkQfhsB) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [Time](https://open.spotify.com/album/5vco6HFksVqQJxg2agPJIM) | 4:00 |
 | 47 | [Rain Down](https://open.spotify.com/track/0WcS5eAg9byayXJFZ75eEi) | [Solence](https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg) | [Rain Down](https://open.spotify.com/album/2qcmpfLRQq8qi4WCJOI1oc) | 4:07 |
-| 48 | [SPIRITS](https://open.spotify.com/track/3ssc9tjQwV4gk40pkktbOD) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [SPIRITS](https://open.spotify.com/album/2rE2XeImSA5qCuS4faICNV) | 5:39 |
+| 48 | [SPIRITS](https://open.spotify.com/track/1CKZatRSZy0WUYNwtT5H6y) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [YOU DON’T KNOW WHAT LOVE MEANS](https://open.spotify.com/album/1BfOMEIpEQE8Xj2yYJLHPR) | 5:39 |
 | 49 | [Black Thunder](https://open.spotify.com/track/3cX0XeN0p3QKxtLu0MxNNy) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc) | [Black Thunder](https://open.spotify.com/album/4b9ASxLZiYaJXC4XsFgeDv) | 4:15 |
 | 50 | [Plagued](https://open.spotify.com/track/7vEfK1zL7FF5SVy4s1sYUC) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz) | [Plagued](https://open.spotify.com/album/0WgDndMMinCJLLMQ2MMoxP) | 3:29 |
 | 51 | [Heads Off](https://open.spotify.com/track/1eBYArl3XK56nWoARa5KYy) | [Combichrist](https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR) | [Heads Off](https://open.spotify.com/album/3okB1Cp9n0bKsUcjXWu3gu) | 4:31 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 59 | [Shallow \(feat\. Mike Perez\) \- Single Edit](https://open.spotify.com/track/1yH6xfN3nET67Ryux09k5s) | [SETYØURSAILS](https://open.spotify.com/artist/01AynfThIqLCNevTuPSoYk), [Mike Perez](https://open.spotify.com/artist/5PCYLbDOlfd0EyAWOp7umQ) | [Shallow](https://open.spotify.com/album/61WbhTzQSPw5CruJreLXQQ) | 3:25 |
 | 60 | [Don't Pray For Me](https://open.spotify.com/track/5HmNls885b2Egmu60z4fo3) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Don't Pray For Me](https://open.spotify.com/album/4xVMkU8AP5ihwCv0ra9uaf) | 3:41 |
 
-Snapshot ID: `MTY2MzMzMzIwMCwwMDAwMDAwMDc4YmI0M2UwMTRiZGI1YTUyZDM0YmM3YTJlZjMxMzc3`
+Snapshot ID: `MTY2MzMzMzIwMCwwMDAwMDAwMGJiYjgxMTUzYTc2MWUxNDdlNDBhNGI2NzM1MTFhNTI1`

@@ -48,6 +48,24 @@
     },
     {
       "album": {
+        "name": "222",
+        "url": "https://open.spotify.com/album/5v4pzv7O0Ye6dKobqXgMg5"
+      },
+      "artists": [
+        {
+          "name": "Slow Magic",
+          "url": "https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208083,
+      "name": "222",
+      "url": "https://open.spotify.com/track/2aFaDxU5b4aRxOKrTRuA0v"
+    },
+    {
+      "album": {
         "name": "DIAMOND TAPE",
         "url": "https://open.spotify.com/album/5LxQdOjqtNNq8CLLC4cS5P"
       },
@@ -261,7 +279,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 141853,
       "name": "all the bands",
       "url": "https://open.spotify.com/track/6lWOSug1EA1BMXlrE567x2"
@@ -971,7 +989,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 231832,
       "name": "Colors (with Eyelar)",
       "url": "https://open.spotify.com/track/7tw2IW7jxu4v2t6pe5NlKK"
@@ -1355,7 +1373,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 166400,
       "name": "Dodgeball (Lightyear Remix)",
       "url": "https://open.spotify.com/track/39nJPEdkQzSFakgt1mZ3V8"
@@ -1475,6 +1493,24 @@
       "duration_ms": 213637,
       "name": "Dream About You",
       "url": "https://open.spotify.com/track/7ImKTptfTfSsr6YzLSUdPi"
+    },
+    {
+      "album": {
+        "name": "Dreamfields",
+        "url": "https://open.spotify.com/album/0moBjWA3zCpUXsAWoqT0NS"
+      },
+      "artists": [
+        {
+          "name": "Starjunk 95",
+          "url": "https://open.spotify.com/artist/523iXWyHL26prJR3GKjRhx"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160645,
+      "name": "Dreamfields",
+      "url": "https://open.spotify.com/track/0nzxHXi11ZQrZEuUQEdU87"
     },
     {
       "album": {
@@ -1857,7 +1893,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 341612,
       "name": "Falcon",
       "url": "https://open.spotify.com/track/11NbL1wxxGZUqvHK46K1hD"
@@ -2087,7 +2123,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 158947,
       "name": "forever, for now (feat. riley biederer)",
       "url": "https://open.spotify.com/track/3Lh4hk4TO9lKLV1uz1Ctd2"
@@ -2831,7 +2867,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 150961,
       "name": "Into The Night",
       "url": "https://open.spotify.com/track/36NDrXStsbcDfQWVKlAj0p"
@@ -3009,7 +3045,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 174600,
       "name": "Let's Go Dancing",
       "url": "https://open.spotify.com/track/6Ng1n2tzVpVOe3O5c2HaIf"
@@ -3498,6 +3534,28 @@
     },
     {
       "album": {
+        "name": "Anomaly",
+        "url": "https://open.spotify.com/album/7J8SSnGauta2Uy7HKhEDMA"
+      },
+      "artists": [
+        {
+          "name": "What So Not",
+          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
+        },
+        {
+          "name": "M\u00d8",
+          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197142,
+      "name": "Mercy (2022 Edit)",
+      "url": "https://open.spotify.com/track/4NmNw3RnHtp6t6M0DjP1v3"
+    },
+    {
+      "album": {
         "name": "Messed Up",
         "url": "https://open.spotify.com/album/1BuUn3Th1gL6q7XGRbxNqR"
       },
@@ -3509,7 +3567,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 131489,
       "name": "Messed Up",
       "url": "https://open.spotify.com/track/0VUqaiSwHjC7yKZcudP9nN"
@@ -3527,7 +3585,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 199384,
       "name": "Midnight",
       "url": "https://open.spotify.com/track/0tjviLADqxF7DtolJgJLf1"
@@ -3647,7 +3705,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 214857,
       "name": "My Everything",
       "url": "https://open.spotify.com/track/0Qq4NdNUkHBD887Dpozvhn"
@@ -3771,7 +3829,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 177000,
       "name": "Nightmares In NYC",
       "url": "https://open.spotify.com/track/3avSZvZd5Cvb2TDyS9yFbb"
@@ -3971,7 +4029,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 280000,
       "name": "on the hill",
       "url": "https://open.spotify.com/track/33uIddmYbMTtXea5qTfwLT"
@@ -4077,7 +4135,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 204369,
       "name": "Pick Yourself Up",
       "url": "https://open.spotify.com/track/0J8OvXFVL0pWnWlBXci8tv"
@@ -4099,7 +4157,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 204369,
       "name": "Pick Yourself Up",
       "url": "https://open.spotify.com/track/5WAfhCNc93VIUOCQ2hrVcn"
@@ -4295,7 +4353,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 320840,
       "name": "Real Life - Alex Preston Remix",
       "url": "https://open.spotify.com/track/7EpAUuSOOCOytPVjiBTllB"
@@ -4553,7 +4611,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 158181,
       "name": "Running Up That Hill - Dance Version",
       "url": "https://open.spotify.com/track/4dM5RiuTAMqpxMXUymNvom"
@@ -4695,7 +4753,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 245828,
       "name": "See You Go",
       "url": "https://open.spotify.com/track/2ohKWVkLGG9R5FXsg9v3cf"
@@ -4761,7 +4819,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 247500,
       "name": "Silo (feat. fknsyd)",
       "url": "https://open.spotify.com/track/49Z1VQivkHoY5KGdUwMv5i"
@@ -4863,7 +4921,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 204321,
       "name": "So Fucked Up",
       "url": "https://open.spotify.com/track/1wJXjJlX2bgcNTlqR1N8Ss"
@@ -4903,7 +4961,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 191040,
       "name": "SOLO",
       "url": "https://open.spotify.com/track/51gPXzSUjtjlgOtGh7M0bd"
@@ -6127,7 +6185,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 216873,
       "name": "Woke Up in Love",
       "url": "https://open.spotify.com/track/21H0pUV2uPIPcFnFhgTBjo"

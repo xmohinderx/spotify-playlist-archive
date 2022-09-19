@@ -1,12 +1,12 @@
 {
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
-  "num_followers": 135021,
+  "num_followers": 135076,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mjk2MzIyOCwwMDAwMDAwMGMwMTc0ZjE3YzllMTE4MjExN2U2ZTlhZjUwZmNiZTFh",
+  "snapshot_id": "MTY2Mjk2MzIyOCwwMDAwMDAwMDU4NWU3YTNhNGE5ODA0MjU3ODVhODc3NjUzOTNhNjJj",
   "tracks": [
     {
       "added_at": "2022-09-12 06:13:48",
@@ -379,6 +379,22 @@
     {
       "added_at": "2022-09-12 06:13:48",
       "album": {
+        "name": "Ivory",
+        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 165320,
+      "name": "Killing Me",
+      "url": "https://open.spotify.com/track/5BhK8Mho223YLPQOLfzWNP"
+    },
+    {
+      "added_at": "2022-09-12 06:13:48",
+      "album": {
         "name": "Wish I Was Better",
         "url": "https://open.spotify.com/album/0dbCEm3gL91TgF2Gihuexr"
       },
@@ -419,22 +435,6 @@
     {
       "added_at": "2022-09-12 06:13:48",
       "album": {
-        "name": "rapunzel",
-        "url": "https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6"
-      },
-      "artists": [
-        {
-          "name": "dhruv",
-          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
-        }
-      ],
-      "duration_ms": 210405,
-      "name": "airplane thoughts",
-      "url": "https://open.spotify.com/track/4t5joZkdlXlvzLXJbkgppJ"
-    },
-    {
-      "added_at": "2022-09-12 06:13:48",
-      "album": {
         "name": "BALLADS 1",
         "url": "https://open.spotify.com/album/34GQP3dILpyCN018y2k61L"
       },
@@ -455,18 +455,18 @@
     {
       "added_at": "2022-09-12 06:13:48",
       "album": {
-        "name": "Ivory",
-        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
+        "name": "rapunzel",
+        "url": "https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6"
       },
       "artists": [
         {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+          "name": "dhruv",
+          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
         }
       ],
-      "duration_ms": 165320,
-      "name": "Killing Me",
-      "url": "https://open.spotify.com/track/5BhK8Mho223YLPQOLfzWNP"
+      "duration_ms": 210405,
+      "name": "airplane thoughts",
+      "url": "https://open.spotify.com/track/4t5joZkdlXlvzLXJbkgppJ"
     },
     {
       "added_at": "2022-09-12 06:13:48",
@@ -695,22 +695,6 @@
     {
       "added_at": "2022-09-12 06:13:48",
       "album": {
-        "name": "Chilly",
-        "url": "https://open.spotify.com/album/5NmHTG1AIpZ9yjwzih2Kni"
-      },
-      "artists": [
-        {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Chilly",
-      "url": "https://open.spotify.com/track/6H3TW6uEe3RxW8CcnXJfq2"
-    },
-    {
-      "added_at": "2022-09-12 06:13:48",
-      "album": {
         "name": "Grateful",
         "url": "https://open.spotify.com/album/2PLznXIZ3amppNBiPoMFvs"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 185991,
       "name": "Grateful",
       "url": "https://open.spotify.com/track/7mvma3mO5hSyhVbJDXxtFz"
+    },
+    {
+      "added_at": "2022-09-12 06:13:48",
+      "album": {
+        "name": "Chilly",
+        "url": "https://open.spotify.com/album/5NmHTG1AIpZ9yjwzih2Kni"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Chilly",
+      "url": "https://open.spotify.com/track/6H3TW6uEe3RxW8CcnXJfq2"
     },
     {
       "added_at": "2022-09-12 06:13:48",
@@ -763,26 +763,6 @@
     {
       "added_at": "2022-09-12 06:13:48",
       "album": {
-        "name": "Light (with BENEE)",
-        "url": "https://open.spotify.com/album/5BwsHPXhIgCCpQsa52CBPR"
-      },
-      "artists": [
-        {
-          "name": "Finn Falcon",
-          "url": "https://open.spotify.com/artist/65pTLeNkyT2ob7chnwRzcJ"
-        },
-        {
-          "name": "BENEE",
-          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Light (with BENEE)",
-      "url": "https://open.spotify.com/track/65ZaStHQImXcy15M9pGFwL"
-    },
-    {
-      "added_at": "2022-09-12 06:13:48",
-      "album": {
         "name": "Breakup Season (feat. Samm Henshaw)",
         "url": "https://open.spotify.com/album/2F1NcprbTMK4hoSHwfi1Dz"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 155845,
       "name": "daydreams",
       "url": "https://open.spotify.com/track/3XHjBo5wg5tvVugQRXkP0P"
+    },
+    {
+      "added_at": "2022-09-12 06:13:48",
+      "album": {
+        "name": "Light (with BENEE)",
+        "url": "https://open.spotify.com/album/5BwsHPXhIgCCpQsa52CBPR"
+      },
+      "artists": [
+        {
+          "name": "Finn Falcon",
+          "url": "https://open.spotify.com/artist/65pTLeNkyT2ob7chnwRzcJ"
+        },
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Light (with BENEE)",
+      "url": "https://open.spotify.com/track/65ZaStHQImXcy15M9pGFwL"
     },
     {
       "added_at": "2022-09-12 06:13:48",
@@ -931,22 +931,6 @@
     {
       "added_at": "2022-09-12 06:13:48",
       "album": {
-        "name": "Chilombo (Deluxe)",
-        "url": "https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Summer 2020",
-      "url": "https://open.spotify.com/track/0t2q2c43AATY4z1GI883Be"
-    },
-    {
-      "added_at": "2022-09-12 06:13:48",
-      "album": {
         "name": "Time",
         "url": "https://open.spotify.com/album/769w0FnPuehiePv6Mve1Cz"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 200000,
       "name": "Time",
       "url": "https://open.spotify.com/track/3Ths3AX8KIMrVGXJRrkBDy"
+    },
+    {
+      "added_at": "2022-09-12 06:13:48",
+      "album": {
+        "name": "Chilombo (Deluxe)",
+        "url": "https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Summer 2020",
+      "url": "https://open.spotify.com/track/0t2q2c43AATY4z1GI883Be"
     },
     {
       "added_at": "2022-09-12 06:13:48",
@@ -979,22 +979,6 @@
     {
       "added_at": "2022-09-12 06:13:48",
       "album": {
-        "name": "Gone",
-        "url": "https://open.spotify.com/album/6v6x88d6F3VhxiCL6j4Qhn"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 195275,
-      "name": "Gone",
-      "url": "https://open.spotify.com/track/1wFwyUWoNFdr0Fl0QygxZ2"
-    },
-    {
-      "added_at": "2022-09-12 06:13:48",
-      "album": {
         "name": "Tha Carter V",
         "url": "https://open.spotify.com/album/50yFYgKdwJANZ5O9MIbMkg"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 216961,
       "name": "What About Me (feat. Sosamann)",
       "url": "https://open.spotify.com/track/3JX0dOCIAiaR8MP3ryXWuM"
+    },
+    {
+      "added_at": "2022-09-12 06:13:48",
+      "album": {
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/6v6x88d6F3VhxiCL6j4Qhn"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 195275,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/1wFwyUWoNFdr0Fl0QygxZ2"
     },
     {
       "added_at": "2022-09-12 06:13:48",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2022-09-12 06:13:48",
       "album": {
+        "name": "IT'S NOT THAT SERIOUS",
+        "url": "https://open.spotify.com/album/3NxTfjuRvlRzNIEeCXPgNk"
+      },
+      "artists": [
+        {
+          "name": "ASTN",
+          "url": "https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co"
+        }
+      ],
+      "duration_ms": 140950,
+      "name": "IT'S NOT THAT SERIOUS",
+      "url": "https://open.spotify.com/track/0L3KqlhJGIqpcX6eAC55rX"
+    },
+    {
+      "added_at": "2022-09-12 06:13:48",
+      "album": {
         "name": "Love Me / Love Me Not",
         "url": "https://open.spotify.com/album/0fwZXPXf41aF6H0CN3UtXV"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 228389,
       "name": "Feels So Good \u25d1",
       "url": "https://open.spotify.com/track/0NdAh5vk2C5hVNy54043lj"
-    },
-    {
-      "added_at": "2022-09-12 06:13:48",
-      "album": {
-        "name": "IT'S NOT THAT SERIOUS",
-        "url": "https://open.spotify.com/album/3NxTfjuRvlRzNIEeCXPgNk"
-      },
-      "artists": [
-        {
-          "name": "ASTN",
-          "url": "https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co"
-        }
-      ],
-      "duration_ms": 140950,
-      "name": "IT'S NOT THAT SERIOUS",
-      "url": "https://open.spotify.com/track/0L3KqlhJGIqpcX6eAC55rX"
     },
     {
       "added_at": "2022-09-12 06:13:48",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2022-09-12 06:13:48",
       "album": {
-        "name": "Y1",
-        "url": "https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM"
-      },
-      "artists": [
-        {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
-        }
-      ],
-      "duration_ms": 186818,
-      "name": "Pantone 17 13 30",
-      "url": "https://open.spotify.com/track/2GeR7M97pCrWrMh8d6BlrF"
-    },
-    {
-      "added_at": "2022-09-12 06:13:48",
-      "album": {
         "name": "Wavvy",
         "url": "https://open.spotify.com/album/33RjX6qVEdXlcemcA942b0"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 187546,
       "name": "Wavvy",
       "url": "https://open.spotify.com/track/0BIdtZ1RdHNAm1aJxbfyNk"
+    },
+    {
+      "added_at": "2022-09-12 06:13:48",
+      "album": {
+        "name": "Y1",
+        "url": "https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "duration_ms": 186818,
+      "name": "Pantone 17 13 30",
+      "url": "https://open.spotify.com/track/2GeR7M97pCrWrMh8d6BlrF"
     },
     {
       "added_at": "2022-09-12 06:13:48",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2022-09-12 06:13:48",
       "album": {
-        "name": "at least i look cool",
-        "url": "https://open.spotify.com/album/3DrwGrEPG3Rq9mIsZVuklB"
-      },
-      "artists": [
-        {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
-        }
-      ],
-      "duration_ms": 171695,
-      "name": "at least i look cool",
-      "url": "https://open.spotify.com/track/2eLDUK7EkpENZkDL9O5yhz"
-    },
-    {
-      "added_at": "2022-09-12 06:13:48",
-      "album": {
         "name": "Real",
         "url": "https://open.spotify.com/album/44coZLCjYCsOWUogdZSIaG"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 163146,
       "name": "Real",
       "url": "https://open.spotify.com/track/4RJYpycLbIWK8FQB16VnHZ"
+    },
+    {
+      "added_at": "2022-09-12 06:13:48",
+      "album": {
+        "name": "at least i look cool",
+        "url": "https://open.spotify.com/album/3DrwGrEPG3Rq9mIsZVuklB"
+      },
+      "artists": [
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "duration_ms": 171695,
+      "name": "at least i look cool",
+      "url": "https://open.spotify.com/track/2eLDUK7EkpENZkDL9O5yhz"
     },
     {
       "added_at": "2022-09-12 06:13:48",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2022-09-12 06:13:48",
       "album": {
-        "name": "Sixteen",
-        "url": "https://open.spotify.com/album/5Vg7mzIqprZiIEbmbblZWH"
-      },
-      "artists": [
-        {
-          "name": "Oscar Welsh",
-          "url": "https://open.spotify.com/artist/5h7aN3xfMdLwyuopfgvtST"
-        }
-      ],
-      "duration_ms": 199020,
-      "name": "Sixteen",
-      "url": "https://open.spotify.com/track/0SUcdi5dePAVWmhyH3m5z8"
-    },
-    {
-      "added_at": "2022-09-12 06:13:48",
-      "album": {
         "name": "Don't Give In",
         "url": "https://open.spotify.com/album/4nkVzPcDX2u2X9NDM2bTck"
       },
@@ -1399,18 +1383,34 @@
     {
       "added_at": "2022-09-12 06:13:48",
       "album": {
-        "name": "Naturally",
-        "url": "https://open.spotify.com/album/3iAuliy1vZqifIJEfXRbK3"
+        "name": "Sixteen",
+        "url": "https://open.spotify.com/album/5Vg7mzIqprZiIEbmbblZWH"
       },
       "artists": [
         {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+          "name": "Oscar Welsh",
+          "url": "https://open.spotify.com/artist/5h7aN3xfMdLwyuopfgvtST"
         }
       ],
-      "duration_ms": 194820,
-      "name": "Naturally",
-      "url": "https://open.spotify.com/track/2nQF3xgFXtXVUlaQNiUARI"
+      "duration_ms": 199020,
+      "name": "Sixteen",
+      "url": "https://open.spotify.com/track/0SUcdi5dePAVWmhyH3m5z8"
+    },
+    {
+      "added_at": "2022-09-12 06:13:48",
+      "album": {
+        "name": "Some Place Else",
+        "url": "https://open.spotify.com/album/7G6KMFNhuWlwwn4zGZTmk9"
+      },
+      "artists": [
+        {
+          "name": "MorMor",
+          "url": "https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr"
+        }
+      ],
+      "duration_ms": 214885,
+      "name": "Some Place Else",
+      "url": "https://open.spotify.com/track/5Hu24z7izB3LKi6pHaPq3C"
     },
     {
       "added_at": "2022-09-12 06:13:48",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2022-09-12 06:13:48",
       "album": {
+        "name": "Naturally",
+        "url": "https://open.spotify.com/album/3iAuliy1vZqifIJEfXRbK3"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 194820,
+      "name": "Naturally",
+      "url": "https://open.spotify.com/track/2nQF3xgFXtXVUlaQNiUARI"
+    },
+    {
+      "added_at": "2022-09-12 06:13:48",
+      "album": {
         "name": "2021",
         "url": "https://open.spotify.com/album/0wsQ9WVVhr3P9xZBEgdaPG"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 195952,
       "name": "2021",
       "url": "https://open.spotify.com/track/5DlXq40tjFwd3SFp55AfKp"
-    },
-    {
-      "added_at": "2022-09-12 06:13:48",
-      "album": {
-        "name": "Some Place Else",
-        "url": "https://open.spotify.com/album/7G6KMFNhuWlwwn4zGZTmk9"
-      },
-      "artists": [
-        {
-          "name": "MorMor",
-          "url": "https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr"
-        }
-      ],
-      "duration_ms": 214885,
-      "name": "Some Place Else",
-      "url": "https://open.spotify.com/track/5Hu24z7izB3LKi6pHaPq3C"
     },
     {
       "added_at": "2022-09-12 06:13:48",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2022-09-12 06:13:48",
       "album": {
+        "name": "Seventeen",
+        "url": "https://open.spotify.com/album/0hQ35qENp50JKaES6XDdPd"
+      },
+      "artists": [
+        {
+          "name": "No Rome",
+          "url": "https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd"
+        }
+      ],
+      "duration_ms": 265185,
+      "name": "Seventeen",
+      "url": "https://open.spotify.com/track/76t8j6fcgo4rDzSQutispC"
+    },
+    {
+      "added_at": "2022-09-12 06:13:48",
+      "album": {
         "name": "From You",
         "url": "https://open.spotify.com/album/7CynwysFOxoGWp1QLAB6uZ"
       },
@@ -1523,22 +1539,6 @@
     {
       "added_at": "2022-09-12 06:13:48",
       "album": {
-        "name": "Seventeen",
-        "url": "https://open.spotify.com/album/0hQ35qENp50JKaES6XDdPd"
-      },
-      "artists": [
-        {
-          "name": "No Rome",
-          "url": "https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd"
-        }
-      ],
-      "duration_ms": 265185,
-      "name": "Seventeen",
-      "url": "https://open.spotify.com/track/76t8j6fcgo4rDzSQutispC"
-    },
-    {
-      "added_at": "2022-09-12 06:13:48",
-      "album": {
         "name": "So Sunshine",
         "url": "https://open.spotify.com/album/3tw7ZPvVJo1DqIZvdE6cos"
       },
@@ -1551,22 +1551,6 @@
       "duration_ms": 136007,
       "name": "So",
       "url": "https://open.spotify.com/track/3fDHHkOEw2Fr8km3T4ixYQ"
-    },
-    {
-      "added_at": "2022-09-12 06:13:48",
-      "album": {
-        "name": "Gone 2 Long",
-        "url": "https://open.spotify.com/album/7qMx6YrIMl5XjjZLRyR9OZ"
-      },
-      "artists": [
-        {
-          "name": "PRETTYMUCH",
-          "url": "https://open.spotify.com/artist/5Y8eJDj37KhaEeqbVO7Ag1"
-        }
-      ],
-      "duration_ms": 195013,
-      "name": "Gone 2 Long",
-      "url": "https://open.spotify.com/track/0V6p1at8MSW6WEhSp5EzVG"
     },
     {
       "added_at": "2022-09-12 06:13:48",
@@ -1587,6 +1571,22 @@
     {
       "added_at": "2022-09-12 06:13:48",
       "album": {
+        "name": "Gone 2 Long",
+        "url": "https://open.spotify.com/album/7qMx6YrIMl5XjjZLRyR9OZ"
+      },
+      "artists": [
+        {
+          "name": "PRETTYMUCH",
+          "url": "https://open.spotify.com/artist/5Y8eJDj37KhaEeqbVO7Ag1"
+        }
+      ],
+      "duration_ms": 195013,
+      "name": "Gone 2 Long",
+      "url": "https://open.spotify.com/track/0V6p1at8MSW6WEhSp5EzVG"
+    },
+    {
+      "added_at": "2022-09-12 06:13:48",
+      "album": {
         "name": "Slowing Down",
         "url": "https://open.spotify.com/album/2lrfa5zP2yemij6X7P3ExK"
       },
@@ -1599,22 +1599,6 @@
       "duration_ms": 175500,
       "name": "Slowing Down",
       "url": "https://open.spotify.com/track/3oGvRB0MAfPseLw39gVzGg"
-    },
-    {
-      "added_at": "2022-09-12 06:13:48",
-      "album": {
-        "name": "Wave002",
-        "url": "https://open.spotify.com/album/1YdM5ZC57DMiQLAvsIWwAU"
-      },
-      "artists": [
-        {
-          "name": "Alex Lustig",
-          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
-        }
-      ],
-      "duration_ms": 167766,
-      "name": "Free Form",
-      "url": "https://open.spotify.com/track/04qxabD9hKT45HsrOQqdVg"
     },
     {
       "added_at": "2022-09-12 06:13:48",
@@ -1643,22 +1627,18 @@
     {
       "added_at": "2022-09-12 06:13:48",
       "album": {
-        "name": "Build",
-        "url": "https://open.spotify.com/album/6ASizE9wRKuBUsgARpMrkh"
+        "name": "Wave002",
+        "url": "https://open.spotify.com/album/1YdM5ZC57DMiQLAvsIWwAU"
       },
       "artists": [
         {
-          "name": "Justine Skye",
-          "url": "https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ"
-        },
-        {
-          "name": "Arin Ray",
-          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
+          "name": "Alex Lustig",
+          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
         }
       ],
-      "duration_ms": 247333,
-      "name": "Build",
-      "url": "https://open.spotify.com/track/0G3qCSe4KcWFc0EKlXCEo8"
+      "duration_ms": 167766,
+      "name": "Free Form",
+      "url": "https://open.spotify.com/track/04qxabD9hKT45HsrOQqdVg"
     },
     {
       "added_at": "2022-09-12 06:13:48",
@@ -1675,6 +1655,26 @@
       "duration_ms": 231910,
       "name": "heights",
       "url": "https://open.spotify.com/track/5BUG8bEiTNV44s2SCFML0V"
+    },
+    {
+      "added_at": "2022-09-12 06:13:48",
+      "album": {
+        "name": "Build",
+        "url": "https://open.spotify.com/album/6ASizE9wRKuBUsgARpMrkh"
+      },
+      "artists": [
+        {
+          "name": "Justine Skye",
+          "url": "https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ"
+        },
+        {
+          "name": "Arin Ray",
+          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
+        }
+      ],
+      "duration_ms": 247333,
+      "name": "Build",
+      "url": "https://open.spotify.com/track/0G3qCSe4KcWFc0EKlXCEo8"
     },
     {
       "added_at": "2022-09-12 06:13:48",

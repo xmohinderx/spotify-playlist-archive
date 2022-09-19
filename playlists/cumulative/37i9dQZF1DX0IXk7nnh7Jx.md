@@ -4,7 +4,7 @@
 
 > Celebrate the spirit of independence! Cover: John Mark McMillan
 
-101 songs - 6 hr 54 min - [published](https://open.spotify.com/playlist/7vzhDddiv6oXbXOyLANGbq)
+102 songs - 6 hr 58 min - [published](https://open.spotify.com/playlist/7vzhDddiv6oXbXOyLANGbq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Fullness Of God](https://open.spotify.com/track/5ZWiFwZRtPpfLMmtQi4gTa) | [JUDAH.](https://open.spotify.com/artist/5LnlX7FdPg0ocmyBzOzDQW) | [Fullness Of God](https://open.spotify.com/album/37VB0ayKCxqmAZxuTAATBc) | 7:51 | 2020-12-18 |  |
 | [Garden](https://open.spotify.com/track/18RAcbwi6NAeHbeFaufyAE) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [Garden](https://open.spotify.com/album/4JjEdlwyFfpEhD7U4qupC1) | 3:16 | 2020-12-18 |  |
 | [Garment](https://open.spotify.com/track/7dVzebREEslE4UTztbvosL) | [Mirours](https://open.spotify.com/artist/75LCOigw8mFKzvhjpHv2jT) | [Garment](https://open.spotify.com/album/5D6QTb7tfabsIrVBZ8DuhC) | 4:44 | 2020-12-18 | 2022-07-27 |
-| [Gone Are the Days \(Julie Odnoralov Remix\)](https://open.spotify.com/track/6LZOgPF2JvgpKyJkRrNyHM) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC), [Julie Odnoralov](https://open.spotify.com/artist/4VXnILFOlZGah8ztpsxhYZ) | [Gone Are the Days \(Julie Odnoralov Remix\)](https://open.spotify.com/album/2ZxQCfnNz3xhQ3SHKRzoa5) | 3:55 | 2020-12-18 |  |
+| [Gone Are the Days \(Julie Odnoralov Remix\)](https://open.spotify.com/track/6LZOgPF2JvgpKyJkRrNyHM) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC), [Julie Odnoralov](https://open.spotify.com/artist/4VXnILFOlZGah8ztpsxhYZ) | [Gone Are the Days \(Julie Odnoralov Remix\)](https://open.spotify.com/album/2ZxQCfnNz3xhQ3SHKRzoa5) | 3:55 | 2020-12-18 | 2022-09-19 |
 | [Good As Gone](https://open.spotify.com/track/5sKTOx9wcRrW84darhOBc5) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Good As Gone](https://open.spotify.com/album/32y5C6o9zbNZYypf951kAZ) | 3:59 | 2020-12-18 |  |
 | [Held by Your Love](https://open.spotify.com/track/0dg0c9iEAUZkMb7bKjMjVK) | [Lion & Bear](https://open.spotify.com/artist/5TsRb3Um92OMG44jdhhk1g) | [Hollows](https://open.spotify.com/album/2imamoQz5Xq5JRVd1SFP0l) | 4:26 | 2020-12-18 |  |
 | [Held by Your Love](https://open.spotify.com/track/0kpBBTRrCmupemEosDzcMe) | [Lion & Bear](https://open.spotify.com/artist/5TsRb3Um92OMG44jdhhk1g) | [Held by Your Love](https://open.spotify.com/album/1tCkBpM6Fpf3wf9pWh3yFZ) | 4:26 | 2020-12-18 | 2022-07-29 |
@@ -80,6 +80,7 @@
 | [Revenant](https://open.spotify.com/track/0wDvDQVV7qEaVKd4T80YnN) | [Mike Edel](https://open.spotify.com/artist/2slZ64SaMOJ1EXEi3W9PTI) | [THRESHOLDS](https://open.spotify.com/album/2pgAmtx7LUbcAVy4KjykbG) | 5:07 | 2020-12-18 | 2022-07-18 |
 | [Ruins](https://open.spotify.com/track/0TSXwxAZe2RaP1jMebwKPQ) | [Mahood](https://open.spotify.com/artist/4Xo4ozqAUlAaSYfwOLuCfB) | [Ruins](https://open.spotify.com/album/4A6OCWqlSYoCLVPXWWNIGY) | 3:48 | 2020-12-18 | 2022-06-29 |
 | [Salome & Saint Procula](https://open.spotify.com/track/2zmLBzrcJt2es39J8n98SE) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Wendigo](https://open.spotify.com/album/3UIUny1GT2hwrj7mn0MdHi) | 4:21 | 2020-12-18 | 2022-07-24 |
+| [Salome & Saint Procula](https://open.spotify.com/track/3U6uXEUbqUT8OlYrLgccOX) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Wendigo](https://open.spotify.com/album/1F3g88B97YjpzE2Pc6Rw1q) | 4:21 | 2020-12-18 |  |
 | [Saving Me Still](https://open.spotify.com/track/1Hbao8n85TOgeIZFfZmCdV) | [Justin Jarvis](https://open.spotify.com/artist/3ETXmapfkZXZWXBHvUl9xj) | [Saving Me Still](https://open.spotify.com/album/1C6cUX3FHiop0xcbZpMjca) | 6:20 | 2020-12-18 |  |
 | [Slow Down](https://open.spotify.com/track/0z0jIa4ieoF1U2kMXJRemg) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [Slow Down](https://open.spotify.com/album/0R36i2T4Afvy3frSywQ9dy) | 3:07 | 2020-12-18 |  |
 | [Springtime](https://open.spotify.com/track/3u3wIwedK7lT55qBqZ1M1s) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [Springtime](https://open.spotify.com/album/62xXWkJPnP0bFdwEspp0CT) | 4:14 | 2020-12-18 | 2022-07-29 |

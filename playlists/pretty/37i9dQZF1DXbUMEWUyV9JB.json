@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Mu\u00e9vete al ritmo de esta cumbia! Cover: Los \u00c1ngeles Azules, Carlos Vives.",
-  "num_followers": 226901,
+  "num_followers": 226975,
   "original_name": "Super Cumbias",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3NjgwMCwwMDAwMDAwMGVjYzFiYzMxM2E4YmM4ODQ3NzRlOTM3MmViZjA5NmNi",
+  "snapshot_id": "MTY2MDI3NjgwMCwwMDAwMDAwMDhhNTdmMTU3M2E4YzdhMTFkZDFjZGE0M2M0ZjBmMDlm",
   "tracks": [
     {
       "added_at": "2022-08-12 04:00:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Cerca De Ti",
-        "url": "https://open.spotify.com/album/08u4HX1MAvPf6IWc8GC2pi"
-      },
-      "artists": [
-        {
-          "name": "Super Lamas",
-          "url": "https://open.spotify.com/artist/0A8eZ8ou3msWR8xVkJOFXe"
-        }
-      ],
-      "duration_ms": 252840,
-      "name": "Todo Lo Encuentro En Ti",
-      "url": "https://open.spotify.com/track/7rAKlP1M9qDfYImf6VYnEI"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Cumbia Pa' seguir Bailando",
         "url": "https://open.spotify.com/album/6StHl9h5jusxFp10JAKmZu"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 289802,
       "name": "Las Amo a Las Dos",
       "url": "https://open.spotify.com/track/4XqXGdhCvH9GL7DWeqUrWm"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Cerca De Ti",
+        "url": "https://open.spotify.com/album/08u4HX1MAvPf6IWc8GC2pi"
+      },
+      "artists": [
+        {
+          "name": "Super Lamas",
+          "url": "https://open.spotify.com/artist/0A8eZ8ou3msWR8xVkJOFXe"
+        }
+      ],
+      "duration_ms": 252840,
+      "name": "Todo Lo Encuentro En Ti",
+      "url": "https://open.spotify.com/track/7rAKlP1M9qDfYImf6VYnEI"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Vaya Que Sabor!!",
-        "url": "https://open.spotify.com/album/5ekGtbNe6EW4omlCEKZBSL"
-      },
-      "artists": [
-        {
-          "name": "Pepe Gomez Jr. y su Grupo Union 82",
-          "url": "https://open.spotify.com/artist/3aiiZsdJHqXrPkYOBQI0Uo"
-        }
-      ],
-      "duration_ms": 231973,
-      "name": "El Piropo - Versi\u00f3n Sonidera",
-      "url": "https://open.spotify.com/track/1rjRdZ3OptBUnvL0ImiltE"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Oye Mujer",
         "url": "https://open.spotify.com/album/6uppp1YRIV4bPZkJoFH8x1"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 305253,
       "name": "\u00c1ngel Malvado",
       "url": "https://open.spotify.com/track/3VHLSQsQXQWnEMQwrM5R8p"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Vaya Que Sabor!!",
+        "url": "https://open.spotify.com/album/5ekGtbNe6EW4omlCEKZBSL"
+      },
+      "artists": [
+        {
+          "name": "Pepe Gomez Jr. y su Grupo Union 82",
+          "url": "https://open.spotify.com/artist/3aiiZsdJHqXrPkYOBQI0Uo"
+        }
+      ],
+      "duration_ms": 231973,
+      "name": "El Piropo - Versi\u00f3n Sonidera",
+      "url": "https://open.spotify.com/track/1rjRdZ3OptBUnvL0ImiltE"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -987,6 +987,26 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "Oye Mujer",
+        "url": "https://open.spotify.com/album/61g9r3DhCVt25gpz2FD1DD"
+      },
+      "artists": [
+        {
+          "name": "Raymix",
+          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
+        },
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 252946,
+      "name": "Oye Mujer",
+      "url": "https://open.spotify.com/track/5aLELbBB0Pa7TlGJJyBJo9"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "30 Aniversario",
         "url": "https://open.spotify.com/album/7bYeeLp33ix2DiyM8f5It6"
       },
@@ -1003,26 +1023,6 @@
       "duration_ms": 259466,
       "name": "Que nadie sepa mi sufrir (Amor de mis amores)",
       "url": "https://open.spotify.com/track/6azC9WCgqehMj2tHoaa10b"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "A.B. Quintanilla III & Kumbia Kumbia Kings Present The Duets",
-        "url": "https://open.spotify.com/album/05CvQnHFWD0JrII6bfM07e"
-      },
-      "artists": [
-        {
-          "name": "A.B. Quintanilla III Y Los Kumbia Kings",
-          "url": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
-        },
-        {
-          "name": "Ricardo Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/4uIopkxtCr4XkXtDVSEBYq"
-        }
-      ],
-      "duration_ms": 198213,
-      "name": "Fuiste Mala",
-      "url": "https://open.spotify.com/track/5LNYnwMBaqUkNmTiPbRsoY"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1047,22 +1047,22 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Oye Mujer",
-        "url": "https://open.spotify.com/album/61g9r3DhCVt25gpz2FD1DD"
+        "name": "A.B. Quintanilla III & Kumbia Kumbia Kings Present The Duets",
+        "url": "https://open.spotify.com/album/05CvQnHFWD0JrII6bfM07e"
       },
       "artists": [
         {
-          "name": "Raymix",
-          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
+          "name": "A.B. Quintanilla III Y Los Kumbia Kings",
+          "url": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
         },
         {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+          "name": "Ricardo Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/4uIopkxtCr4XkXtDVSEBYq"
         }
       ],
-      "duration_ms": 252946,
-      "name": "Oye Mujer",
-      "url": "https://open.spotify.com/track/5aLELbBB0Pa7TlGJJyBJo9"
+      "duration_ms": 198213,
+      "name": "Fuiste Mala",
+      "url": "https://open.spotify.com/track/5LNYnwMBaqUkNmTiPbRsoY"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "La Sonora Santanera en Su 60 Aniversario",
-        "url": "https://open.spotify.com/album/3xgFRfjD0wkntTxiSa7c8U"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
-        },
-        {
-          "name": "Sasha, Benny y Erik",
-          "url": "https://open.spotify.com/artist/03FiyT61gVIy08oxFm6xZC"
-        }
-      ],
-      "duration_ms": 243626,
-      "name": "Mil Horas (with Sasha, Benny y Erik)",
-      "url": "https://open.spotify.com/track/3dy3Bwz5w5eenJz1R5KWo6"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "T\u00fa Y Yo",
         "url": "https://open.spotify.com/album/50h6l1JyfIScae2246HXru"
       },
@@ -1167,6 +1147,26 @@
       "duration_ms": 188493,
       "name": "T\u00fa Y Yo",
       "url": "https://open.spotify.com/track/5vEOago0nOlDNn6C4IJWLd"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "La Sonora Santanera en Su 60 Aniversario",
+        "url": "https://open.spotify.com/album/3xgFRfjD0wkntTxiSa7c8U"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+        },
+        {
+          "name": "Sasha, Benny y Erik",
+          "url": "https://open.spotify.com/artist/03FiyT61gVIy08oxFm6xZC"
+        }
+      ],
+      "duration_ms": 243626,
+      "name": "Mil Horas (with Sasha, Benny y Erik)",
+      "url": "https://open.spotify.com/track/3dy3Bwz5w5eenJz1R5KWo6"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "Exitos Inolvidables",
+        "url": "https://open.spotify.com/album/1vmEJQwpLyDznLxVsr1WCv"
+      },
+      "artists": [
+        {
+          "name": "Fito Olivares y Su Grupo",
+          "url": "https://open.spotify.com/artist/3zzeZVLuOeetfimOd4k8rE"
+        }
+      ],
+      "duration_ms": 190800,
+      "name": "Juana La Cubana",
+      "url": "https://open.spotify.com/track/1cdpDAE7LHSHviJ73SGuGS"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "Los Reyes de la Cumbia Sonidera (En M\u00e9xico)",
         "url": "https://open.spotify.com/album/23WjnVpH4goH0hbfQ7Xs8B"
       },
@@ -1219,18 +1235,18 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Exitos Inolvidables",
-        "url": "https://open.spotify.com/album/1vmEJQwpLyDznLxVsr1WCv"
+        "name": "Exitos Quemantes Vol. IV",
+        "url": "https://open.spotify.com/album/1nYMViSA4UU0LvvWlKrcrC"
       },
       "artists": [
         {
-          "name": "Fito Olivares y Su Grupo",
-          "url": "https://open.spotify.com/artist/3zzeZVLuOeetfimOd4k8rE"
+          "name": "Tropical\u00edsimo Apache",
+          "url": "https://open.spotify.com/artist/1veLiIQBt4YcFO5Z36DwFO"
         }
       ],
-      "duration_ms": 190800,
-      "name": "Juana La Cubana",
-      "url": "https://open.spotify.com/track/1cdpDAE7LHSHviJ73SGuGS"
+      "duration_ms": 183440,
+      "name": "Ojitos Mentirosos",
+      "url": "https://open.spotify.com/track/7DTKpVBKNPsDGKwVTl2Txe"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1251,22 +1267,6 @@
       "duration_ms": 296680,
       "name": "La Rumba Quimbumba",
       "url": "https://open.spotify.com/track/02pQk9G1SnyBBVh9yOtxau"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Exitos Quemantes Vol. IV",
-        "url": "https://open.spotify.com/album/1nYMViSA4UU0LvvWlKrcrC"
-      },
-      "artists": [
-        {
-          "name": "Tropical\u00edsimo Apache",
-          "url": "https://open.spotify.com/artist/1veLiIQBt4YcFO5Z36DwFO"
-        }
-      ],
-      "duration_ms": 183440,
-      "name": "Ojitos Mentirosos",
-      "url": "https://open.spotify.com/track/7DTKpVBKNPsDGKwVTl2Txe"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "From KK To Kumbia All-Starz",
-        "url": "https://open.spotify.com/album/16cRWklmy1DIKkYufsAJMb"
-      },
-      "artists": [
-        {
-          "name": "A.B. Quintanilla III Y Los Kumbia Kings",
-          "url": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
-        }
-      ],
-      "duration_ms": 210306,
-      "name": "Chiquilla",
-      "url": "https://open.spotify.com/track/4RcN7qGRs4OfbI8cHmqQiL"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Pensando En Ella",
         "url": "https://open.spotify.com/album/7chUnyKUwq88xEWfyGEV7a"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 162013,
       "name": "El Mu\u00f1eco",
       "url": "https://open.spotify.com/track/19G8XMtHCX6y6eYTLDbaU3"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "From KK To Kumbia All-Starz",
+        "url": "https://open.spotify.com/album/16cRWklmy1DIKkYufsAJMb"
+      },
+      "artists": [
+        {
+          "name": "A.B. Quintanilla III Y Los Kumbia Kings",
+          "url": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
+        }
+      ],
+      "duration_ms": 210306,
+      "name": "Chiquilla",
+      "url": "https://open.spotify.com/track/4RcN7qGRs4OfbI8cHmqQiL"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Cl\u00e1sicas De La Cumbia Andina",
-        "url": "https://open.spotify.com/album/1G9yAgWGkLLyc3ItyTfS3Z"
-      },
-      "artists": [
-        {
-          "name": "Los Llayras",
-          "url": "https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz"
-        }
-      ],
-      "duration_ms": 261653,
-      "name": "He Cre\u00eddo",
-      "url": "https://open.spotify.com/track/0fMzTLsgDy9zRUjvOdWUGV"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Supermerk2 & Meta Guacha: 2x1",
         "url": "https://open.spotify.com/album/3iEZnqx25qRtb6XKFaYq0y"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 244653,
       "name": "Que Calor",
       "url": "https://open.spotify.com/track/43a4fBKL1HlRPCYOsZdh3j"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Cl\u00e1sicas De La Cumbia Andina",
+        "url": "https://open.spotify.com/album/1G9yAgWGkLLyc3ItyTfS3Z"
+      },
+      "artists": [
+        {
+          "name": "Los Llayras",
+          "url": "https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz"
+        }
+      ],
+      "duration_ms": 261653,
+      "name": "He Cre\u00eddo",
+      "url": "https://open.spotify.com/track/0fMzTLsgDy9zRUjvOdWUGV"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1719,18 +1719,18 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Soledad",
-        "url": "https://open.spotify.com/album/1vJZfykeuEwQKqEiZlaXGe"
+        "name": "Donde esta el Amor",
+        "url": "https://open.spotify.com/album/1VKZuvVAkS6Jk1hHZBkDVE"
       },
       "artists": [
         {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+          "name": "Los Telez",
+          "url": "https://open.spotify.com/artist/4KZzz3Ri83L1aE5rNK9q3A"
         }
       ],
-      "duration_ms": 225170,
-      "name": "Soledad",
-      "url": "https://open.spotify.com/track/1aZsbm8cm5qHHDQTLwHHYk"
+      "duration_ms": 226680,
+      "name": "Gritaria",
+      "url": "https://open.spotify.com/track/4QpOfEgos0X555uBOvTcGT"
     }
   ],
   "unique_name": "Super Cumbias",

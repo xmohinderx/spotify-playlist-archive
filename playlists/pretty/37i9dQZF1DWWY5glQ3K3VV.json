@@ -1,12 +1,12 @@
 {
   "description": "Canzoni rap per party fino al mattino! Cover: Rhove",
-  "num_followers": 60499,
+  "num_followers": 60589,
   "original_name": "Club Rap ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTUxNzM0MiwwMDAwMDAwMDlkNmFmZWNiM2Y1ZGE5MDE0ZWIzZTRkMmZhNzE2MDk0",
+  "snapshot_id": "MTY2MTUxNzM0MiwwMDAwMDAwMDRkZGMxNDUxMGE2ODAzNTRmOTY5YmU0ZjZmMDI4ZWYy",
   "tracks": [
     {
       "added_at": "2022-08-26 12:35:42",
@@ -1015,6 +1015,66 @@
     {
       "added_at": "2022-08-26 12:35:42",
       "album": {
+        "name": "IL MINORENNE + BASTARDO",
+        "url": "https://open.spotify.com/album/3n3PO1QkNmGftt01Cz1LyE"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9",
+          "url": "https://open.spotify.com/artist/3sRTjuam7GJ4lA7ewD2sfb"
+        },
+        {
+          "name": "BIG P",
+          "url": "https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768"
+        },
+        {
+          "name": "Miller",
+          "url": "https://open.spotify.com/artist/5Zac830Rf5D42X4G5lIzqs"
+        }
+      ],
+      "duration_ms": 166522,
+      "name": "PULL UP (feat. Big P)",
+      "url": "https://open.spotify.com/track/5rGNMvZh5oLw20vjMaf8VW"
+    },
+    {
+      "added_at": "2022-08-26 12:35:42",
+      "album": {
+        "name": "PLAYA",
+        "url": "https://open.spotify.com/album/4BooiX3rbdDNh6uzJUMfRE"
+      },
+      "artists": [
+        {
+          "name": "Zefe",
+          "url": "https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH"
+        }
+      ],
+      "duration_ms": 154926,
+      "name": "PLAYA",
+      "url": "https://open.spotify.com/track/39ngG6CdkMkBgESiXc0lOx"
+    },
+    {
+      "added_at": "2022-08-26 12:35:42",
+      "album": {
+        "name": "Corso Europa",
+        "url": "https://open.spotify.com/album/0xrJZ8UIzLxx93BrOXLusE"
+      },
+      "artists": [
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        },
+        {
+          "name": "Madfingerz",
+          "url": "https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo"
+        }
+      ],
+      "duration_ms": 132587,
+      "name": "Corso Europa",
+      "url": "https://open.spotify.com/track/5uzsoxwEGHQe1xcUTrn55e"
+    },
+    {
+      "added_at": "2022-08-26 12:35:42",
+      "album": {
         "name": "TRAVESURAS (feat. MV Killa, Yung Snapp, Lele Blade, Vale Lambo)",
         "url": "https://open.spotify.com/album/068WIA490RGoZi1ZObrv9e"
       },
@@ -1063,66 +1123,6 @@
       "duration_ms": 183027,
       "name": "ALYX (feat. Capo Plaza)",
       "url": "https://open.spotify.com/track/5ifarM7jfplX1EqkqMHlDq"
-    },
-    {
-      "added_at": "2022-08-26 12:35:42",
-      "album": {
-        "name": "Corso Europa",
-        "url": "https://open.spotify.com/album/0xrJZ8UIzLxx93BrOXLusE"
-      },
-      "artists": [
-        {
-          "name": "Rhove",
-          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
-        },
-        {
-          "name": "Madfingerz",
-          "url": "https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo"
-        }
-      ],
-      "duration_ms": 132587,
-      "name": "Corso Europa",
-      "url": "https://open.spotify.com/track/5uzsoxwEGHQe1xcUTrn55e"
-    },
-    {
-      "added_at": "2022-08-26 12:35:42",
-      "album": {
-        "name": "IL MINORENNE + BASTARDO",
-        "url": "https://open.spotify.com/album/3n3PO1QkNmGftt01Cz1LyE"
-      },
-      "artists": [
-        {
-          "name": "Touch\u00e9",
-          "url": "https://open.spotify.com/artist/3sRTjuam7GJ4lA7ewD2sfb"
-        },
-        {
-          "name": "BIG P",
-          "url": "https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768"
-        },
-        {
-          "name": "Miller",
-          "url": "https://open.spotify.com/artist/5Zac830Rf5D42X4G5lIzqs"
-        }
-      ],
-      "duration_ms": 166522,
-      "name": "PULL UP (feat. Big P)",
-      "url": "https://open.spotify.com/track/5rGNMvZh5oLw20vjMaf8VW"
-    },
-    {
-      "added_at": "2022-08-26 12:35:42",
-      "album": {
-        "name": "PLAYA",
-        "url": "https://open.spotify.com/album/4BooiX3rbdDNh6uzJUMfRE"
-      },
-      "artists": [
-        {
-          "name": "Zefe",
-          "url": "https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH"
-        }
-      ],
-      "duration_ms": 154926,
-      "name": "PLAYA",
-      "url": "https://open.spotify.com/track/39ngG6CdkMkBgESiXc0lOx"
     },
     {
       "added_at": "2022-08-26 12:35:42",

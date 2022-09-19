@@ -4,7 +4,7 @@
 
 > Chill tunes to soundtrack your gaming session.
 
-146 songs - 10 hr 18 min - [published](https://open.spotify.com/playlist/11Gpqzsbqf7yfVJuxrNTH2)
+147 songs - 10 hr 20 min - [published](https://open.spotify.com/playlist/11Gpqzsbqf7yfVJuxrNTH2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [I Fell in Love with You One Night in September](https://open.spotify.com/track/10hweQwWcUhBcpipYEvCYD) | [Rook1e](https://open.spotify.com/artist/5NlA3ayVBDY3uDCCEZ1dID) | [Dreams for Two](https://open.spotify.com/album/7t35JHjhNRPMZ3eZHuDeba) | 1:36 | 2022-08-31 |  |
 | [I Still Like You](https://open.spotify.com/track/2P1pP6UfKgkUkCUzceAGEx) | [ビクター ＭＫＩＩ](https://open.spotify.com/artist/2lGJkXqpvUW77Kc6hcEIO8) | [Omoide](https://open.spotify.com/album/0N3ddx2vF7wsVEqtQRmfB1) | 2:20 | 2022-08-31 |  |
 | [In The Twilight](https://open.spotify.com/track/5wfgLASWmbbLjNkbXsbs8t) | [Phaeleh](https://open.spotify.com/artist/5NkUpXWkeXspvu7iQQOHhP) | [The Cold in You](https://open.spotify.com/album/0vNplpx6d7yYXn4k6coarh) | 6:26 | 2019-12-16 | 2022-09-01 |
+| [Insomnia Dream](https://open.spotify.com/track/1wkD1pgESRrQysLpioCew3) | [colours in the dark](https://open.spotify.com/artist/4lRRwA3JsWrOD8f47gI2iI) | [Insomnia Dream](https://open.spotify.com/album/6gjd1kVza1OQREmtvcGUC7) | 2:42 | 2022-09-02 |  |
 | [Insomnia Dream](https://open.spotify.com/track/4rtJXaHdYeaSOlWnka0xnP) | [colours in the dark](https://open.spotify.com/artist/4lRRwA3JsWrOD8f47gI2iI) | [Insomnia Dream](https://open.spotify.com/album/4FANqNso2mEWdYcc2Ji4H3) | 2:42 | 2022-08-31 | 2022-09-17 |
 | [It Was Warmer Then](https://open.spotify.com/track/0fJKwnxypaBAMEGEfCgEhQ) | [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w) | [Yume](https://open.spotify.com/album/34CpMn9yU8iDcXDaSkrqXu) | 5:18 | 2019-12-16 | 2022-09-01 |
 | [jade tower](https://open.spotify.com/track/7ERaRrb9qbmnvbAbBQvqgA) | [FlowerBoyDeMii](https://open.spotify.com/artist/7HcU7yCOfyw3hqrj1ZSORc) | [New Game +](https://open.spotify.com/album/44CDggTdui1svEdyck7NOT) | 1:39 | 2022-09-02 | 2022-09-06 |
@@ -143,7 +144,7 @@
 | [Truth \(Helios Remix\)](https://open.spotify.com/track/4lwGyv3tbahmN1Z25wdCxa) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [All Is Wild, All Is Silent Remixes](https://open.spotify.com/album/4K8rm4KevTLvvTSyWx5yjO) | 3:45 | 2019-12-16 | 2022-07-29 |
 | [Truth \- Helios Remix](https://open.spotify.com/track/70yAekvZ6xZcC9PKrEHS4S) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [All Is Wild, All Is Silent Remixes](https://open.spotify.com/album/6m6zHJ1nwn95OQPr90Hbic) | 3:45 | 2019-12-16 |  |
 | [two door tiffany](https://open.spotify.com/track/6oxv6Isn0x28fZh43pviCn) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN) | [quinn](https://open.spotify.com/album/75n3winyXKHLUCOhiSRkA2) | 3:06 | 2022-09-01 |  |
-| [unconscious](https://open.spotify.com/track/20pZcg9G1bmCxFaBvpyhf5) | [MP3vius](https://open.spotify.com/artist/5iUQH6x3hiVg6Le2KLWBZQ), [ZARG](https://open.spotify.com/artist/40PThXuHI1P1mrSb6MPD3z) | [unconscious](https://open.spotify.com/album/3yF4I91M9OWBIchfPQb2QK) | 2:20 | 2022-09-02 |  |
+| [unconscious](https://open.spotify.com/track/20pZcg9G1bmCxFaBvpyhf5) | [MP3vius](https://open.spotify.com/artist/5iUQH6x3hiVg6Le2KLWBZQ), [ZARG](https://open.spotify.com/artist/40PThXuHI1P1mrSb6MPD3z) | [unconscious](https://open.spotify.com/album/3yF4I91M9OWBIchfPQb2QK) | 2:20 | 2022-09-02 | 2022-09-19 |
 | [Underwater](https://open.spotify.com/track/5TNDBtPIkduKFGdMSkOPQG) | [Nothingtosay](https://open.spotify.com/artist/53xwq54syWZgXoordzYUnA) | [Cold Thoughts](https://open.spotify.com/album/6j9efsz6v7I0WkDaHDrWfW) | 2:26 | 2022-08-31 |  |
 | [Unravel \(From "Tokyo Ghoul"\)](https://open.spotify.com/track/5QOEvQ6z99KqGKGxz1yk6B) | [Palademix](https://open.spotify.com/artist/1M0ElT5wAoUe4uiNkp9BUh), [Nostalgic](https://open.spotify.com/artist/3V3FLYaI3cvXailPZOtcnl) | [Anime Lofi Beats](https://open.spotify.com/album/7xB0XmIJQxRoxK9mfLOgH6) | 2:48 | 2022-08-31 |  |
 | [Until We Meet Again](https://open.spotify.com/track/78CpmGK47wePWOuKZhnus1) | [Peak Twilight](https://open.spotify.com/artist/25qDYhjZHVzZS6sOVzAVAx), [amies](https://open.spotify.com/artist/2zNmlxTlRfyMAAifd2f71Q) | [Departure](https://open.spotify.com/album/18OPZkuFLk129TscAuoDN7) | 3:09 | 2022-08-31 |  |

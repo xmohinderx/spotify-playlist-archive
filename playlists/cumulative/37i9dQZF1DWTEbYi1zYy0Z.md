@@ -4,7 +4,7 @@
 
 > The freshest smooth jazz\. Cover: Nick Colionne
 
-268 songs - 18 hr 59 min - [published](https://open.spotify.com/playlist/73Eg864FGRS3gdmYP6IVUV)
+269 songs - 19 hr 4 min - [published](https://open.spotify.com/playlist/73Eg864FGRS3gdmYP6IVUV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,8 +112,9 @@
 | [Hear At Last](https://open.spotify.com/track/7nklnyVct8QNhGodPcjygu) | [Mark Jaimes](https://open.spotify.com/artist/2nhYg2H9CEvbgfDynTHK0E) | [Hear at Last](https://open.spotify.com/album/3QWI2FECarl04d4WF2COUe) | 3:56 | 2021-07-23 | 2022-07-24 |
 | [Heart To Heart](https://open.spotify.com/track/3BB10qk3KvJ5dfUYpIG3yU) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Heart To Heart](https://open.spotify.com/album/1gEIjtUpPwXR0VtbNONThq) | 4:11 | 2020-10-30 | 2022-03-18 |
 | [Heat](https://open.spotify.com/track/3a7zmPCdfzu6JKwTpPPoNP) | [Ilya Serov](https://open.spotify.com/artist/1iffcHDU0oWJvEXhufA71G), [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm) | [Heat](https://open.spotify.com/album/6rFoUDFCO3v0HqXUlxlsGB) | 3:53 | 2021-01-08 | 2022-03-18 |
+| [Hello Beautiful \- radio single](https://open.spotify.com/track/2uhzjs4LLyyQdhCbYWFyFp) | [Blair Bryant](https://open.spotify.com/artist/1bNvtqK9g0M2hDWRLdwpZq) | [Hello Beautiful](https://open.spotify.com/album/1NXp9ZbxAhtxyMrnIV7PoM) | 4:28 | 2022-09-09 |  |
 | [High Heels](https://open.spotify.com/track/7KesmZG74pZzj69FUC57HK) | [Lisa Addeo](https://open.spotify.com/artist/1Rkm8EM4Z0fYhkJ1k6D52U), [Jeff Ryan](https://open.spotify.com/artist/0cjzOb6JYN5AOg4WVA9miY) | [Listen to This](https://open.spotify.com/album/59kliXiMCzY52ZTVYrvE8p) | 4:09 | 2020-10-30 | 2022-03-18 |
-| [Honest](https://open.spotify.com/track/3GJ5EcLudl4JrUld9sfD7o) | [Ryan Montano](https://open.spotify.com/artist/60c1zWUz1UhsnemRwziySF) | [Honest](https://open.spotify.com/album/4masdetfPsUOpFF2yJ7EVB) | 6:14 | 2022-07-01 |  |
+| [Honest](https://open.spotify.com/track/3GJ5EcLudl4JrUld9sfD7o) | [Ryan Montano](https://open.spotify.com/artist/60c1zWUz1UhsnemRwziySF) | [Honest](https://open.spotify.com/album/4masdetfPsUOpFF2yJ7EVB) | 6:14 | 2022-07-01 | 2022-09-19 |
 | [Hrs and Hrs](https://open.spotify.com/track/4R8bxjmbyHYv7PoZzV5ptn) | [Nathan Allen](https://open.spotify.com/artist/6IRnIHHQ6Fj5bEsGkHH2Ce) | [Hrs and Hrs](https://open.spotify.com/album/6V18NGCK4t7I0Nisj5lZcR) | 3:28 | 2022-02-25 | 2022-08-13 |
 | [I Can Let Go Now \- Instrumental Version](https://open.spotify.com/track/24UVZM3ETZsEKCLfkQ5INR) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb), [Steve Tavaglione](https://open.spotify.com/artist/24DYsjzmOJblWOhpdEDUJE), [James Harrah](https://open.spotify.com/artist/4XonxCeLqWlDlpztAyCZb4) | [I Can Let Go Now](https://open.spotify.com/album/2uXOfbXLXLOWOWRW7SrGl1) | 3:50 | 2020-10-30 | 2022-02-28 |
 | [I Wanna Be Down](https://open.spotify.com/track/4cxZb1OMmlLdGoZYTJegDL) | [Nathan Allen](https://open.spotify.com/artist/6IRnIHHQ6Fj5bEsGkHH2Ce) | [I Wanna Be Down](https://open.spotify.com/album/1yaQNIXtz4BhOMzwKBS5IQ) | 4:54 | 2022-06-03 |  |

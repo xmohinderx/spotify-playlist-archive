@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 
 > next gen pop cover: JVKE
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,125,692 likes - 103 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,126,331 likes - 103 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,12 +4,12 @@
 
 > Indie Dance and Alt Hip\-Hop for cooling under the sunny sun sun.
 
-196 songs - 11 hr 25 min - [published](https://open.spotify.com/playlist/0uKWr1Uzb37C6D49uTzEk7)
+197 songs - 11 hr 30 min - [published](https://open.spotify.com/playlist/0uKWr1Uzb37C6D49uTzEk7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1st Time](https://open.spotify.com/track/4udjo5nLK61pKajakfrndc) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [1st Time](https://open.spotify.com/album/1ecGfFfdYXsJnRRLuENEtG) | 3:01 | 2021-10-26 |  |
-| [25MPH](https://open.spotify.com/track/6BeEg9qR8jDuEpH3YtMJHd) | [Public Library Commute](https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY) | [1000 Summers](https://open.spotify.com/album/2OyMqlLzU0ZVguQeCnN2Nw) | 3:03 | 2021-10-26 |  |
+| [25MPH](https://open.spotify.com/track/6BeEg9qR8jDuEpH3YtMJHd) | [Public Library Commute](https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY) | [1000 Summers](https://open.spotify.com/album/2OyMqlLzU0ZVguQeCnN2Nw) | 3:03 | 2021-10-26 | 2022-09-19 |
 | [3005](https://open.spotify.com/track/2ZltjIqztEpZtafc8w0I9t) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Because the Internet](https://open.spotify.com/album/4GNIhgEGXzWGAefgN5qjdU) | 3:54 | 2021-10-26 | 2022-07-29 |
 | [50 Ways to Leave Your Lover](https://open.spotify.com/track/6Qb7gtV6Q4MnUjSbkFcopl) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Still Crazy After All These Years](https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W) | 3:37 | 2022-03-29 | 2022-04-16 |
 | [8TEEN](https://open.spotify.com/track/5bgwqaRSS3M8WHWruHgSL5) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [American Teen](https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg) | 3:48 | 2022-03-17 | 2022-07-29 |
@@ -148,6 +148,7 @@
 | [Rough Soul \(feat\. April George\)](https://open.spotify.com/track/5v0C3nNNDMhZ3nWzzP0W4T) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ), [April George](https://open.spotify.com/artist/34MuJG3KuMOzEHLf4OY5fv) | [Rough Soul \(feat\. April George\)](https://open.spotify.com/album/2DrAYmozfh5ynk6aLUNLxZ) | 3:01 | 2022-06-30 | 2022-07-02 |
 | [Sea Sick](https://open.spotify.com/track/3jLHo30ucbkYY9P7v8leKh) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [Sea Sick](https://open.spotify.com/album/2rW8WOaJP6R7rIFFaJEhoZ) | 2:10 | 2022-06-30 |  |
 | [Secret Plan](https://open.spotify.com/track/2abPioAFVg5sTdyaCXt5CT) | [Drug Store Romeos](https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh) | [Secret Plan](https://open.spotify.com/album/5uAHYiey3I9KqXWe6pJ48X) | 3:30 | 2021-10-26 | 2022-07-29 |
+| [Shadow Man](https://open.spotify.com/track/5RZ9Tlmiy9NioldpMCZvaN) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Phoelix](https://open.spotify.com/artist/2TKC2gVUNBUAlFqfLUoaj0), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [telefone](https://open.spotify.com/album/3WQSmz0juSSmEmzXpv9l6M) | 5:11 | 2022-07-28 |  |
 | [Shadow Man \(feat\. Phoelix, Smino & Saba\)](https://open.spotify.com/track/1h2LHhmyAXi8tPNLi806JA) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy), [Phoelix](https://open.spotify.com/artist/2TKC2gVUNBUAlFqfLUoaj0), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [Telefone](https://open.spotify.com/album/18Scpsg5OV1iYNtSaCsjwz) | 5:11 | 2021-10-26 | 2022-09-09 |
 | [Shuggie](https://open.spotify.com/track/51XZD1FCrWyU3dDWJH4nzb) | [Foxygen](https://open.spotify.com/artist/55LHFEtIplWhsfyWZUwkf4) | [We Are the 21st Century Ambassadors of Peace & Magic](https://open.spotify.com/album/1iQNqvcWTFwfUYnsGgMYBw) | 3:21 | 2021-10-26 | 2022-04-21 |
 | [Sirens](https://open.spotify.com/track/0EudqIdrpZjHZ1pnSuBKgA) | [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3) | [This Must Be The Place](https://open.spotify.com/album/01WcFlWlj9ie3YTNSKr3OP) | 4:15 | 2022-07-28 |  |

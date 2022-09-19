@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-551 songs - 1 day 5 hr 17 min - [published](https://open.spotify.com/playlist/7a7Rgh6ytRT1AxGURNfohE)
+553 songs - 1 day 5 hr 24 min - [published](https://open.spotify.com/playlist/7a7Rgh6ytRT1AxGURNfohE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Bränner](https://open.spotify.com/track/7M5QepCsK6kYex4EWWsmhd) | [Kim Cesarion](https://open.spotify.com/artist/1FbsmLXvj5CccZj6JLk46Z) | [Bränner](https://open.spotify.com/album/5AecwqcLjSTpqjgPtCDZ65) | 3:08 | 2022-06-09 | 2022-07-28 |
 | [Buried](https://open.spotify.com/track/2cvFJGpyivEmp69EDos8LE) | [Chris Kläfford](https://open.spotify.com/artist/5dSnbLNmUdguVNTAV5Ctk1) | [Buried](https://open.spotify.com/album/5Wz9LRwQ5BEueU4VqIkRjs) | 2:40 | 2022-01-13 | 2022-07-28 |
 | [Butterflies](https://open.spotify.com/track/6fv3KtQp4WKtUfgPCGsqwb) | [Rhys](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Thanks a lot now I can’t smile](https://open.spotify.com/album/6FN7cEitzdKJnH6UlZLJXO) | 2:49 | 2022-03-04 | 2022-05-13 |
+| [Bygga Nytt](https://open.spotify.com/track/2530kYkCKjqD2neMyPwPtp) | [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe), [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS) | [Bygga Nytt](https://open.spotify.com/album/4ipVGk4eu3saiPXuN1firl) | 3:40 | 2022-09-15 |  |
 | [Bästa Vi Gjort](https://open.spotify.com/track/3xzTKNUOxzEBovAKpd5AQO) | [Lamix](https://open.spotify.com/artist/3QQwosodozp54DdCKrlAry), [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe) | [Bästa Vi Gjort](https://open.spotify.com/album/4GoKbr5Cdm3Y36fb3P7775) | 2:52 | 2022-04-28 | 2022-08-14 |
 | [Bästa Vi Gjort](https://open.spotify.com/track/5ITfTyOipNdU9hammDtEk8) | [Lamix](https://open.spotify.com/artist/3QQwosodozp54DdCKrlAry), [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe) | [Bästa Vi Gjort](https://open.spotify.com/album/5lpnElAi4OHtsdAqDWMHwR) | 2:52 | 2022-09-15 |  |
 | [Can't Stay Away](https://open.spotify.com/track/4herjqbsHfOHoIzRPti4JA) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Can't Stay Away](https://open.spotify.com/album/3OIvFO4C2CQGRxYUQ9D8yf) | 3:00 | 2021-12-16 | 2022-03-09 |
@@ -226,6 +227,7 @@
 | [I Don't Want Your Company](https://open.spotify.com/track/6VQDdJ9vb8BmgESDPDMmld) | [Raghd](https://open.spotify.com/artist/5CIGqUkWQ0OY3U7HGlDlvw) | [I Don't Want Your Company](https://open.spotify.com/album/7i1bBOZnRBkmUMiUfCTQI9) | 2:55 | 2021-12-16 | 2022-01-03 |
 | [I ett case](https://open.spotify.com/track/69NpPwkjb1hPTCMvh03R2j) | [Zacke](https://open.spotify.com/artist/3jKd96grbdWoh56whvFnX2) | [I ett case](https://open.spotify.com/album/7C5xM9Vo6c3FHaIGLnL5xo) | 3:38 | 2022-06-30 | 2022-07-23 |
 | [I Feel It](https://open.spotify.com/track/5jcq5jDLVBajTY7bYTiiLx) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [When the City Sleeps](https://open.spotify.com/album/7LlmJ1aH2FGj9nEh0xPIF2) | 3:36 | 2021-12-16 | 2022-03-06 |
+| [I Feel It In The Wind](https://open.spotify.com/track/4bc5uke0uDwT78j0pIKlDg) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [I Feel It In The Wind](https://open.spotify.com/album/1OedsPZaNzUJILkvivIYF7) | 3:33 | 2022-09-15 |  |
 | [I Got You](https://open.spotify.com/track/0HAEfZVIMenQUqCiATalMF) | [Viva La Panda](https://open.spotify.com/artist/5SZUMeZ1O9tcgkSkkx1dFy), [Moodygee](https://open.spotify.com/artist/324vg036DC5fiqiVK4eeto), [Adrian Fyrla](https://open.spotify.com/artist/5Y5v0RYsB19JJ6VT6sA7ij), [Zach Alwin](https://open.spotify.com/artist/3IhZL4dHVP35Hve25QBxU8) | [I Got You](https://open.spotify.com/album/2TGMynyNRUyr0SkFRTMEug) | 3:24 | 2022-03-10 | 2022-04-19 |
 | [I Lost](https://open.spotify.com/track/5j3KH3ZJUzAIrXnF4s90JS) | [Lou Elliotte](https://open.spotify.com/artist/03UTtO2Zq2GKk4gQRY9zq6) | [I Lost](https://open.spotify.com/album/5lGBBVEh15bNp0FptPimbS) | 2:51 | 2021-12-16 | 2022-01-07 |
 | [I Need Love \(feat\. Trevor Daniel\)](https://open.spotify.com/track/6t0nlLzuahyBab1sYqfOGG) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [Poster Girl \(Summer Edition\)](https://open.spotify.com/album/0E6Bt7I9gHxC6j8UmaCXTh) | 3:06 | 2021-12-16 | 2022-03-11 |
@@ -237,7 +239,7 @@
 | [In i dimman](https://open.spotify.com/track/095zAxJmG96ap3ol3zVRZs) | [Medina](https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC) | [In i dimman](https://open.spotify.com/album/28RPgvITk9r0msUN8PVJVX) | 2:53 | 2022-03-04 | 2022-03-18 |
 | [In The End](https://open.spotify.com/track/3UGZ9VUAZAJeIN1p0V7v8j) | [Thomas Daniel](https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk) | [In The End](https://open.spotify.com/album/3Yp86nU21Kw0lMSBCL8iwO) | 3:18 | 2022-03-10 | 2022-04-21 |
 | [In The Sunrise](https://open.spotify.com/track/23fsXHpRPkozkePmm8h3vG) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [OMR](https://open.spotify.com/album/5U3yzxL13Rvj8uydja4ncH) | 2:20 | 2022-05-30 |  |
-| [Indifferent](https://open.spotify.com/track/7GqOFY5GBH32vUU95WYxIZ) | [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS) | [Indifferent](https://open.spotify.com/album/1iKf6UyEwVRwqB9vqPOnoz) | 3:41 | 2022-09-15 |  |
+| [Indifferent](https://open.spotify.com/track/7GqOFY5GBH32vUU95WYxIZ) | [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS) | [Indifferent](https://open.spotify.com/album/1iKf6UyEwVRwqB9vqPOnoz) | 3:41 | 2022-09-15 | 2022-09-19 |
 | [Ingen luft mellan oss](https://open.spotify.com/track/1SOGSI8UPEwBnqG15h6NiC) | [Newkid](https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6) | [Ingen luft mellan oss](https://open.spotify.com/album/50pmFuV7ABGcA6cZz0Cqmt) | 3:16 | 2021-12-16 | 2022-03-11 |
 | [Innocent Love](https://open.spotify.com/track/71vojPlEiXkv0ZGWyfWqFj) | [Robin Bengtsson](https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS) | [Innocent Love](https://open.spotify.com/album/5p61tjKE3bf96LDICjSBa5) | 3:02 | 2022-02-26 | 2022-09-16 |
 | [Inte en gång till](https://open.spotify.com/track/6JD183FLGA6R4B0sYm2xiz) | [Jessica Bohlin](https://open.spotify.com/artist/6xMt0bWYPTHNcCj1zL80VB) | [Inte en gång till](https://open.spotify.com/album/0L8uwgD2s0AoXG4iJp1Xu7) | 3:08 | 2022-09-15 |  |
@@ -460,7 +462,7 @@
 | [Sunny Days](https://open.spotify.com/track/53sdGp5FZgcpVsg5NPbbiL) | [demekech](https://open.spotify.com/artist/1N6JyEBD4tbmqfLkXPP93l) | [sometime/Sunny Days](https://open.spotify.com/album/5qWgpA67k7vP42pW2RtHmd) | 4:03 | 2022-03-10 | 2022-04-25 |
 | [Sunshine](https://open.spotify.com/track/7ApIjBn1tqOyof0zvVX7CY) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Sunshine](https://open.spotify.com/album/0wOtQE4XS0U9DPwCFram7H) | 3:41 | 2022-09-15 |  |
 | [Superhero ideal \(Pantamera\)](https://open.spotify.com/track/2wxY4U8FtNGHE6fAq6ZY3c) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Superhero ideal \(Pantamera\)](https://open.spotify.com/album/4k49gyiAbRVYsRp3ja9Vzx) | 2:39 | 2022-04-07 | 2022-07-19 |
-| [Superstar](https://open.spotify.com/track/21pE89kv4OQssxpzUPwMek) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Superstar](https://open.spotify.com/album/4O6zCCdEquqKmMcXHrSbBy) | 3:21 | 2022-05-12 |  |
+| [Superstar](https://open.spotify.com/track/21pE89kv4OQssxpzUPwMek) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Superstar](https://open.spotify.com/album/4O6zCCdEquqKmMcXHrSbBy) | 3:21 | 2022-05-12 | 2022-09-19 |
 | [Svart Suit Cadillac](https://open.spotify.com/track/2hT4mY6jWEhm3Vnbgz5LyP) | [Jesper Swärd](https://open.spotify.com/artist/7812GfcEzTh273QN6DPurL), [Michel Dida](https://open.spotify.com/artist/0IQrfexpeCXMmHFX2jnT1Q) | [Svart Suit Cadillac](https://open.spotify.com/album/7rFae5BckcN7YgxYtEgCvO) | 3:38 | 2022-03-10 | 2022-04-02 |
 | [Svår](https://open.spotify.com/track/57tokFFxMm6U2oUVyrIVkl) | [Nina Bring](https://open.spotify.com/artist/6jzQtWmDttXXZbdmLrOd2j) | [Svår](https://open.spotify.com/album/71B5YM1pJ7ZgMXX82ZgD06) | 3:16 | 2022-01-13 | 2022-04-01 |
 | [Sweet Jackie](https://open.spotify.com/track/1S4LYxSNKv8NGGl5Jnledy) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Sweet Jackie](https://open.spotify.com/album/5BUAq7X644KHxL5cGWIUVH) | 2:46 | 2021-12-16 | 2022-03-11 |

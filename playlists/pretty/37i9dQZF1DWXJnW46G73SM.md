@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 ### [أجدد الأغاني](https://open.spotify.com/playlist/37i9dQZF1DWXJnW46G73SM)
 
-> اكتشف الأغاني المصرية الجديدة! الغلاف: محمد رمضان
+> اكتشف الأغاني المصرية الجديدة! الغلاف: دنيا سمير غانم
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,423 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,520 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 49 | [وأنا بتفرج](https://open.spotify.com/track/1qa5n8liYLMC2egxR2NL8W) | [Mostafa Kamel](https://open.spotify.com/artist/7IVaCSHkbx4xPS2vZ2LSCl) | [وأنا بتفرج](https://open.spotify.com/album/3jc6omieErB61xPgF2FrrJ) | 4:06 |
 | 50 | [Talakik](https://open.spotify.com/track/4EqU9JKazUgb8ogjx4nIPm) | [Ahmed Hassan](https://open.spotify.com/artist/0pE823Ul8G2Y3BHF5BJNGm) | [Talakik](https://open.spotify.com/album/1b6GHVe41cj2ruyohBJ7Vu) | 2:39 |
 
-Snapshot ID: `MTY2MzMxNDY1NSwwMDAwMDAwMGY5YjE5ZjhkNTE2MDlkZDU5MzE2OTY0YjhmMGIwNGY0`
+Snapshot ID: `MTY2MzQ4MzYwMywwMDAwMDAwMGJjYjQyMmIxMzI1MmViNTU3OTM1OWUwMjJhOWRmODA3`

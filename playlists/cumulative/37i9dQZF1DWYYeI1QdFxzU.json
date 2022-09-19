@@ -655,6 +655,24 @@
     {
       "album": {
         "name": "Feelings Of Unreality",
+        "url": "https://open.spotify.com/album/3N0eERc3grlFcQGwWF3J70"
+      },
+      "artists": [
+        {
+          "name": "Inwards",
+          "url": "https://open.spotify.com/artist/542nHHjo4wRmP3AbeJWkse"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235862,
+      "name": "Feelings Of Unreality",
+      "url": "https://open.spotify.com/track/0fLPSEi4IBDAnhuDIm1bzI"
+    },
+    {
+      "album": {
+        "name": "Feelings Of Unreality",
         "url": "https://open.spotify.com/album/2I32leZu15Vr0HQSyqXbtU"
       },
       "artists": [
@@ -1451,7 +1469,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 225506,
       "name": "Soft Yellow",
       "url": "https://open.spotify.com/track/4b1QBUZ4hJrJkyOgODZLu9"

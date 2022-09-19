@@ -154,6 +154,36 @@
     },
     {
       "album": {
+        "name": "All In A Dream (Logic1000 Remix)",
+        "url": "https://open.spotify.com/album/699Jw6f2UuWYYEKcrlda6l"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "DJ Tennis",
+          "url": "https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t"
+        },
+        {
+          "name": "Joseph Ashworth",
+          "url": "https://open.spotify.com/artist/7CpmbhzkL9uT1D9nhckTxB"
+        },
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263767,
+      "name": "All In A Dream - Logic1000 Remix",
+      "url": "https://open.spotify.com/track/3SG8Ozw6YOgR8WJtr8lzFM"
+    },
+    {
+      "album": {
         "name": "all the bands",
         "url": "https://open.spotify.com/album/2uDiNQ5tLIw7M1Qu682asm"
       },
@@ -982,6 +1012,28 @@
     },
     {
       "album": {
+        "name": "Florianopolis",
+        "url": "https://open.spotify.com/album/4RJ3PkqGmetEBDM5At7cpj"
+      },
+      "artists": [
+        {
+          "name": "BADDIES ONLY",
+          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
+        },
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141467,
+      "name": "Florianopolis",
+      "url": "https://open.spotify.com/track/0Mn0K9k16wbDlyOPm0k4nU"
+    },
+    {
+      "album": {
         "name": "Follow You",
         "url": "https://open.spotify.com/album/1fliEPXtaZylODnCOuoHHE"
       },
@@ -1417,7 +1469,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 308825,
       "name": "In Mindibu",
       "url": "https://open.spotify.com/track/7G82RELqYiB0EZ8F61Ht8T"
@@ -2955,7 +3007,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 229523,
       "name": "What U Doing",
       "url": "https://open.spotify.com/track/6jn47IP90tvtvb7ddhOnS1"

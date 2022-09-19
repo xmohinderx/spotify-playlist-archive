@@ -1,12 +1,12 @@
 {
   "description": "Proudly South African classics. Cover: <a href=\"https://open.spotify.com/artist/7idPv1alc0mcEhEsKlMV2O?si=AMmA0XYMRCeF3-HGc030gg\">Johnny Clegg</a>",
-  "num_followers": 27025,
+  "num_followers": 27047,
   "original_name": "SA Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyNDc2ODE3MCwwMDAwMDAwMDY1MzkxZjNiMmIxMTMyOTdmNmVkYjllNzQzYzc0NGFk",
+  "snapshot_id": "MTYyNDc2ODE3MCwwMDAwMDAwMGY3MWQzMDMxODg2Zjc4MjkxMDZkMjFkZWE5N2U3NWRl",
   "tracks": [
     {
       "added_at": "2019-02-03 07:20:41",
@@ -245,22 +245,6 @@
       "url": "https://open.spotify.com/track/6o3P5XYvDDWWTbzoJMURZo"
     },
     {
-      "added_at": "2019-02-12 08:16:33",
-      "album": {
-        "name": "Dark Days Exit",
-        "url": "https://open.spotify.com/album/0xidl5zSn40qpO8RDej05m"
-      },
-      "artists": [
-        {
-          "name": "Felix Laband",
-          "url": "https://open.spotify.com/artist/3E6Tbv49KoKnCoGqHJHQGx"
-        }
-      ],
-      "duration_ms": 471973,
-      "name": "Whistling In Tongues",
-      "url": "https://open.spotify.com/track/6V4nFLl9m00qZOmY1coV8b"
-    },
-    {
       "added_at": "2020-03-16 14:57:25",
       "album": {
         "name": "Lenyora",
@@ -275,6 +259,22 @@
       "duration_ms": 341506,
       "name": "Groovers Prayer",
       "url": "https://open.spotify.com/track/7qkpkpKOCr6vIuJrLbtBzT"
+    },
+    {
+      "added_at": "2019-02-03 06:58:55",
+      "album": {
+        "name": "Nkalakatha",
+        "url": "https://open.spotify.com/album/1hqQFeOpmzLiqQzVkEYSIg"
+      },
+      "artists": [
+        {
+          "name": "Mandoza",
+          "url": "https://open.spotify.com/artist/4eNzQCNP9F9UKbglvPkDdH"
+        }
+      ],
+      "duration_ms": 285933,
+      "name": "Nkalakatha",
+      "url": "https://open.spotify.com/track/2PGxiV2TSgVHd02eBd0Kz1"
     },
     {
       "added_at": "2019-07-01 08:24:11",
@@ -293,20 +293,20 @@
       "url": "https://open.spotify.com/track/6djogrE7rj6KTRE7OfxZkw"
     },
     {
-      "added_at": "2019-02-03 06:58:55",
+      "added_at": "2019-02-12 08:16:33",
       "album": {
-        "name": "Nkalakatha",
-        "url": "https://open.spotify.com/album/1hqQFeOpmzLiqQzVkEYSIg"
+        "name": "Dark Days Exit",
+        "url": "https://open.spotify.com/album/0xidl5zSn40qpO8RDej05m"
       },
       "artists": [
         {
-          "name": "Mandoza",
-          "url": "https://open.spotify.com/artist/4eNzQCNP9F9UKbglvPkDdH"
+          "name": "Felix Laband",
+          "url": "https://open.spotify.com/artist/3E6Tbv49KoKnCoGqHJHQGx"
         }
       ],
-      "duration_ms": 285933,
-      "name": "Nkalakatha",
-      "url": "https://open.spotify.com/track/2PGxiV2TSgVHd02eBd0Kz1"
+      "duration_ms": 471973,
+      "name": "Whistling In Tongues",
+      "url": "https://open.spotify.com/track/6V4nFLl9m00qZOmY1coV8b"
     },
     {
       "added_at": "2018-09-23 12:30:57",
@@ -383,22 +383,6 @@
     {
       "added_at": "2018-09-23 12:30:57",
       "album": {
-        "name": "Greatest Moments Of",
-        "url": "https://open.spotify.com/album/3uuvZpYJEHZIiAgE3E51AI"
-      },
-      "artists": [
-        {
-          "name": "Mbongeni Ngema",
-          "url": "https://open.spotify.com/artist/1CViKOoXPg99pi9aeyvdC1"
-        }
-      ],
-      "duration_ms": 310236,
-      "name": "Stimela Sasezola",
-      "url": "https://open.spotify.com/track/26UCZAfUYfAsE25ls7gS1m"
-    },
-    {
-      "added_at": "2018-09-23 12:30:57",
-      "album": {
         "name": "Boom Shaka",
         "url": "https://open.spotify.com/album/6CjjtWnXWUzMif0RqEv3k8"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 339000,
       "name": "It's About Time",
       "url": "https://open.spotify.com/track/4LG9ZVvPKP4jjaDOsH6ePO"
+    },
+    {
+      "added_at": "2018-09-23 12:30:57",
+      "album": {
+        "name": "Greatest Moments Of",
+        "url": "https://open.spotify.com/album/3uuvZpYJEHZIiAgE3E51AI"
+      },
+      "artists": [
+        {
+          "name": "Mbongeni Ngema",
+          "url": "https://open.spotify.com/artist/1CViKOoXPg99pi9aeyvdC1"
+        }
+      ],
+      "duration_ms": 310236,
+      "name": "Stimela Sasezola",
+      "url": "https://open.spotify.com/track/26UCZAfUYfAsE25ls7gS1m"
     },
     {
       "added_at": "2019-02-03 06:58:55",
@@ -461,20 +461,20 @@
       "url": "https://open.spotify.com/track/6mrrQb0xQFxDAA6PkdpnaQ"
     },
     {
-      "added_at": "2018-09-23 12:30:57",
+      "added_at": "2020-04-13 08:48:47",
       "album": {
-        "name": "Nomvula",
-        "url": "https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx"
+        "name": "Durbans Finest",
+        "url": "https://open.spotify.com/album/6f7w3xSHRV6N3aWEjsZdCd"
       },
       "artists": [
         {
-          "name": "Freshlyground",
-          "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
+          "name": "Blackwhole",
+          "url": "https://open.spotify.com/artist/3ig4Otw0muRtYNWY8ytVoi"
         }
       ],
-      "duration_ms": 311880,
-      "name": "Doo Be Doo",
-      "url": "https://open.spotify.com/track/1MzgAa6fUqeUuLipCnTyak"
+      "duration_ms": 368866,
+      "name": "1000 Seconds",
+      "url": "https://open.spotify.com/track/6O90gKqMWqeFUiQDWwmLhY"
     },
     {
       "added_at": "2019-02-03 06:58:55",
@@ -493,20 +493,20 @@
       "url": "https://open.spotify.com/track/0lOovqOHYJdnfsjEDmvz4h"
     },
     {
-      "added_at": "2020-04-13 08:48:47",
+      "added_at": "2018-09-23 12:30:57",
       "album": {
-        "name": "Durbans Finest",
-        "url": "https://open.spotify.com/album/6f7w3xSHRV6N3aWEjsZdCd"
+        "name": "Nomvula",
+        "url": "https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx"
       },
       "artists": [
         {
-          "name": "Blackwhole",
-          "url": "https://open.spotify.com/artist/3ig4Otw0muRtYNWY8ytVoi"
+          "name": "Freshlyground",
+          "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
         }
       ],
-      "duration_ms": 368866,
-      "name": "1000 Seconds",
-      "url": "https://open.spotify.com/track/6O90gKqMWqeFUiQDWwmLhY"
+      "duration_ms": 311880,
+      "name": "Doo Be Doo",
+      "url": "https://open.spotify.com/track/1MzgAa6fUqeUuLipCnTyak"
     },
     {
       "added_at": "2019-05-20 11:06:54",
@@ -523,6 +523,22 @@
       "duration_ms": 349480,
       "name": "Township Funk",
       "url": "https://open.spotify.com/track/32bk6u6Pbe2cotvyKJgrP0"
+    },
+    {
+      "added_at": "2019-02-03 07:20:41",
+      "album": {
+        "name": "M'du Or Die",
+        "url": "https://open.spotify.com/album/7N0NOdgLGipl1NkihPBUPQ"
+      },
+      "artists": [
+        {
+          "name": "M'Du",
+          "url": "https://open.spotify.com/artist/2941g2EP7e8x7Kv3EukgmD"
+        }
+      ],
+      "duration_ms": 336666,
+      "name": "Siya Jola (Ok'Salayo)",
+      "url": "https://open.spotify.com/track/3Oy1hjxJLfUyaUsgxojzA7"
     },
     {
       "added_at": "2018-09-23 12:30:57",
@@ -545,22 +561,6 @@
       "url": "https://open.spotify.com/track/300DzFkBAgf9PgPbl0ta4o"
     },
     {
-      "added_at": "2019-02-03 07:20:41",
-      "album": {
-        "name": "M'du Or Die",
-        "url": "https://open.spotify.com/album/7N0NOdgLGipl1NkihPBUPQ"
-      },
-      "artists": [
-        {
-          "name": "M'Du",
-          "url": "https://open.spotify.com/artist/2941g2EP7e8x7Kv3EukgmD"
-        }
-      ],
-      "duration_ms": 336666,
-      "name": "Siya Jola (Ok'Salayo)",
-      "url": "https://open.spotify.com/track/3Oy1hjxJLfUyaUsgxojzA7"
-    },
-    {
       "added_at": "2018-09-23 12:30:57",
       "album": {
         "name": "Loliwe",
@@ -575,22 +575,6 @@
       "duration_ms": 272386,
       "name": "Loliwe",
       "url": "https://open.spotify.com/track/1y9bfiGVKNMLoN0XR54S4z"
-    },
-    {
-      "added_at": "2018-09-23 12:30:57",
-      "album": {
-        "name": "Nomvula",
-        "url": "https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx"
-      },
-      "artists": [
-        {
-          "name": "Freshlyground",
-          "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
-        }
-      ],
-      "duration_ms": 382186,
-      "name": "I'd Like",
-      "url": "https://open.spotify.com/track/15lW7MKcnprhsReAmQ2E95"
     },
     {
       "added_at": "2019-02-03 07:20:41",
@@ -613,22 +597,6 @@
       "url": "https://open.spotify.com/track/0whydZVhYUiAQ7LIQErJeM"
     },
     {
-      "added_at": "2019-02-03 06:58:55",
-      "album": {
-        "name": "Surpass The Power",
-        "url": "https://open.spotify.com/album/7hCunCzhFrtnlE24iOtQwY"
-      },
-      "artists": [
-        {
-          "name": "Springbok Nude Girls",
-          "url": "https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh"
-        }
-      ],
-      "duration_ms": 233200,
-      "name": "Blue Eyes",
-      "url": "https://open.spotify.com/track/7DirY6NZx5zbsNChNHUZNb"
-    },
-    {
       "added_at": "2019-02-03 07:29:50",
       "album": {
         "name": "BullDawgz First Lady",
@@ -645,20 +613,20 @@
       "url": "https://open.spotify.com/track/1symqHZD5IP3wJtEIx1cws"
     },
     {
-      "added_at": "2019-03-07 11:17:53",
+      "added_at": "2019-02-03 06:58:55",
       "album": {
-        "name": "In Harmony",
-        "url": "https://open.spotify.com/album/1WhjbycsaQwSF00lQbGEAr"
+        "name": "Surpass The Power",
+        "url": "https://open.spotify.com/album/7hCunCzhFrtnlE24iOtQwY"
       },
       "artists": [
         {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+          "name": "Springbok Nude Girls",
+          "url": "https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh"
         }
       ],
-      "duration_ms": 210613,
-      "name": "Nkosi Sikelel' iAfrika (Shosholoza Mix)",
-      "url": "https://open.spotify.com/track/4aMIL5JKiu1S4KwKbxRHsW"
+      "duration_ms": 233200,
+      "name": "Blue Eyes",
+      "url": "https://open.spotify.com/track/7DirY6NZx5zbsNChNHUZNb"
     },
     {
       "added_at": "2019-02-03 06:58:55",
@@ -679,6 +647,38 @@
       "duration_ms": 285853,
       "name": "Impi",
       "url": "https://open.spotify.com/track/2kdQY3b6dDRGonyIzcWljc"
+    },
+    {
+      "added_at": "2018-09-23 12:30:57",
+      "album": {
+        "name": "Nomvula",
+        "url": "https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx"
+      },
+      "artists": [
+        {
+          "name": "Freshlyground",
+          "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
+        }
+      ],
+      "duration_ms": 382186,
+      "name": "I'd Like",
+      "url": "https://open.spotify.com/track/15lW7MKcnprhsReAmQ2E95"
+    },
+    {
+      "added_at": "2019-03-07 11:17:53",
+      "album": {
+        "name": "In Harmony",
+        "url": "https://open.spotify.com/album/1WhjbycsaQwSF00lQbGEAr"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "duration_ms": 210613,
+      "name": "Nkosi Sikelel' iAfrika (Shosholoza Mix)",
+      "url": "https://open.spotify.com/track/4aMIL5JKiu1S4KwKbxRHsW"
     },
     {
       "added_at": "2018-09-23 12:30:57",
@@ -719,18 +719,18 @@
     {
       "added_at": "2018-09-23 12:30:57",
       "album": {
-        "name": "Nomvula",
-        "url": "https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx"
+        "name": "Guz Hits",
+        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
       },
       "artists": [
         {
-          "name": "Freshlyground",
-          "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
+          "name": "TKZEE",
+          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
         }
       ],
-      "duration_ms": 283826,
-      "name": "Nomvula (After the Rain)",
-      "url": "https://open.spotify.com/track/6S1cd5F5cpflZq6bAXQmg1"
+      "duration_ms": 332720,
+      "name": "Dlala Mapantsula",
+      "url": "https://open.spotify.com/track/0DaGK6Zlg0lr2QknjZAgh4"
     },
     {
       "added_at": "2019-02-03 06:58:55",
@@ -751,22 +751,6 @@
     {
       "added_at": "2018-09-23 12:30:57",
       "album": {
-        "name": "Guz Hits",
-        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
-      },
-      "artists": [
-        {
-          "name": "TKZEE",
-          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
-        }
-      ],
-      "duration_ms": 332720,
-      "name": "Dlala Mapantsula",
-      "url": "https://open.spotify.com/track/0DaGK6Zlg0lr2QknjZAgh4"
-    },
-    {
-      "added_at": "2018-09-23 12:30:57",
-      "album": {
         "name": "Ibokwe",
         "url": "https://open.spotify.com/album/1lLexWslJpsjdF75f9IviG"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 372000,
       "name": "Ingoma",
       "url": "https://open.spotify.com/track/6AohFdqxAVO7xCpLTuHVvd"
+    },
+    {
+      "added_at": "2018-09-23 12:30:57",
+      "album": {
+        "name": "Nomvula",
+        "url": "https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx"
+      },
+      "artists": [
+        {
+          "name": "Freshlyground",
+          "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
+        }
+      ],
+      "duration_ms": 283826,
+      "name": "Nomvula (After the Rain)",
+      "url": "https://open.spotify.com/track/6S1cd5F5cpflZq6bAXQmg1"
     },
     {
       "added_at": "2019-02-03 06:58:55",
@@ -795,34 +795,6 @@
       "duration_ms": 387500,
       "name": "Heavenly Sent",
       "url": "https://open.spotify.com/track/0fciLuddpz37OtcxZZ8ixg"
-    },
-    {
-      "added_at": "2018-09-23 12:30:57",
-      "album": {
-        "name": "Our Father",
-        "url": "https://open.spotify.com/album/0OoSrujq3IhCnsd8Et9ktL"
-      },
-      "artists": [
-        {
-          "name": "Uhuru",
-          "url": "https://open.spotify.com/artist/55Q9iFoAZojfxnIvg6lDb2"
-        },
-        {
-          "name": "Professor",
-          "url": "https://open.spotify.com/artist/3d1I45VCwwwQ6Qi53vKAHt"
-        },
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        },
-        {
-          "name": "DJ Bucks",
-          "url": "https://open.spotify.com/artist/541TdTVsd11rQV6CLPiB4J"
-        }
-      ],
-      "duration_ms": 309440,
-      "name": "Y-Tjukuja",
-      "url": "https://open.spotify.com/track/7k6fhiKtfldICruY5AdKpb"
     },
     {
       "added_at": "2018-09-23 12:30:57",
@@ -859,6 +831,34 @@
       "duration_ms": 263293,
       "name": "Where I Wanna Be",
       "url": "https://open.spotify.com/track/0ezeCh4MkDN8DRhiKwz5Pj"
+    },
+    {
+      "added_at": "2018-09-23 12:30:57",
+      "album": {
+        "name": "Our Father",
+        "url": "https://open.spotify.com/album/0OoSrujq3IhCnsd8Et9ktL"
+      },
+      "artists": [
+        {
+          "name": "Uhuru",
+          "url": "https://open.spotify.com/artist/55Q9iFoAZojfxnIvg6lDb2"
+        },
+        {
+          "name": "Professor",
+          "url": "https://open.spotify.com/artist/3d1I45VCwwwQ6Qi53vKAHt"
+        },
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "DJ Bucks",
+          "url": "https://open.spotify.com/artist/541TdTVsd11rQV6CLPiB4J"
+        }
+      ],
+      "duration_ms": 309440,
+      "name": "Y-Tjukuja",
+      "url": "https://open.spotify.com/track/7k6fhiKtfldICruY5AdKpb"
     },
     {
       "added_at": "2018-09-23 12:30:57",
@@ -965,22 +965,6 @@
       "url": "https://open.spotify.com/track/0ctxUNhzXY1IKozDdgmJRJ"
     },
     {
-      "added_at": "2018-09-23 12:30:57",
-      "album": {
-        "name": "Asimbonanga (Mandela)",
-        "url": "https://open.spotify.com/album/7CtCTHSK5VosHjDhbfQSx4"
-      },
-      "artists": [
-        {
-          "name": "Johnny Clegg & Savuka",
-          "url": "https://open.spotify.com/artist/7tEJ4G6zzFAmzAfbl6faO4"
-        }
-      ],
-      "duration_ms": 267168,
-      "name": "Asimbonanga (Mandela)",
-      "url": "https://open.spotify.com/track/2l0EoH2zrjQ0XeB9H0oukT"
-    },
-    {
       "added_at": "2019-02-03 06:58:55",
       "album": {
         "name": "Undisputed",
@@ -995,6 +979,22 @@
       "duration_ms": 388226,
       "name": "Umlilo",
       "url": "https://open.spotify.com/track/50i8jd73XOz5kQvDNvcj5R"
+    },
+    {
+      "added_at": "2018-09-23 12:30:57",
+      "album": {
+        "name": "Asimbonanga (Mandela)",
+        "url": "https://open.spotify.com/album/7CtCTHSK5VosHjDhbfQSx4"
+      },
+      "artists": [
+        {
+          "name": "Johnny Clegg & Savuka",
+          "url": "https://open.spotify.com/artist/7tEJ4G6zzFAmzAfbl6faO4"
+        }
+      ],
+      "duration_ms": 267168,
+      "name": "Asimbonanga (Mandela)",
+      "url": "https://open.spotify.com/track/2l0EoH2zrjQ0XeB9H0oukT"
     },
     {
       "added_at": "2019-02-12 08:16:33",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2019-02-03 07:20:41",
       "album": {
-        "name": "Ndawo Yami",
-        "url": "https://open.spotify.com/album/212O2AvgE4xzUuULXvmlGU"
+        "name": "King Of Kwaito",
+        "url": "https://open.spotify.com/album/4HOkw5G26NKfIf8yR41dTW"
       },
       "artists": [
         {
-          "name": "Zamajobe",
-          "url": "https://open.spotify.com/artist/4wJoiQmG43ZNUSvlj6uDYv"
+          "name": "Brothers of Peace",
+          "url": "https://open.spotify.com/artist/0OK0qQGF0hJueVZLGRlntj"
         }
       ],
-      "duration_ms": 287560,
-      "name": "Ndawo Yami",
-      "url": "https://open.spotify.com/track/0syt5xfbxS2n888ZPib8ES"
+      "duration_ms": 320266,
+      "name": "Manyonyoba",
+      "url": "https://open.spotify.com/track/2MVoYPJL7n4OynoawmOzJc"
     }
   ],
   "unique_name": "SA Gold",

@@ -4,7 +4,7 @@
 
 > A soundscape of chilled electronic and compositional ambient music, to help you unwind.
 
-99 songs - 7 hr 20 min - [published](https://open.spotify.com/playlist/6sRs5ZXRX0XP3quUNYTpL5)
+100 songs - 7 hr 24 min - [published](https://open.spotify.com/playlist/6sRs5ZXRX0XP3quUNYTpL5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [El Azul del Cielo \- Mente Orgánica Remix](https://open.spotify.com/track/0J6AcQFq8RnR4jWYYZNPbm) | [Buendia](https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH), [De Juepuchas](https://open.spotify.com/artist/7oVSI0ddXNkjEtvLoh0SRC), [Mente Orgánica](https://open.spotify.com/artist/1wfwGvcBGamXiXxuaExHRT), [Romboi](https://open.spotify.com/artist/7AevNCcvxBEy5z42d2A2RO) | [El Azul del Cielo \(Remix\)](https://open.spotify.com/album/7qYsWtbEwidXgIjiiZ0u1I) | 7:00 | 2021-10-15 |  |
 | [Envelopes \(Chapter VI\) \- Edit](https://open.spotify.com/track/3JDsYB8UxGbMQNnNlAeDL0) | [Leon Vynehall](https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU) | [Envelopes](https://open.spotify.com/album/1A6VtF2OjVmEKErfTrNZYJ) | 4:01 | 2021-10-15 |  |
 | [Feel](https://open.spotify.com/track/0AW12rdgg7BEKo4POOUUbQ) | [Luke Marzec](https://open.spotify.com/artist/5X0GAEimapMzpG5Q7Sibmh) | [Regrets & Resolutions](https://open.spotify.com/album/1I8zvBuhjyZSgWjhspMNr0) | 5:54 | 2021-10-15 |  |
+| [Feelings Of Unreality](https://open.spotify.com/track/0fLPSEi4IBDAnhuDIm1bzI) | [Inwards](https://open.spotify.com/artist/542nHHjo4wRmP3AbeJWkse) | [Feelings Of Unreality](https://open.spotify.com/album/3N0eERc3grlFcQGwWF3J70) | 3:55 | 2021-10-15 |  |
 | [Feelings Of Unreality](https://open.spotify.com/track/6DNUm6RHHd9LzPSNC0SaBD) | [Inwards](https://open.spotify.com/artist/542nHHjo4wRmP3AbeJWkse) | [Feelings Of Unreality](https://open.spotify.com/album/2I32leZu15Vr0HQSyqXbtU) | 3:55 | 2021-10-15 | 2022-07-06 |
 | [Fires](https://open.spotify.com/track/3J29rY1I9u0gNsvHq1cgUk) | [Frameworks](https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP) | [Imagine Gold](https://open.spotify.com/album/0S9o7MW7YSpKKRX7cmqSXm) | 4:39 | 2021-10-15 |  |
 | [Fires](https://open.spotify.com/track/4UBvcf6BZhHTNyizI9R1jf) | [Frameworks](https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP) | [Fires](https://open.spotify.com/album/6iM6VTixlzgFqRR0L2oqZI) | 4:39 | 2021-10-15 | 2022-07-29 |
@@ -84,7 +85,7 @@
 | [Silver \- Original Mix](https://open.spotify.com/track/1Sitb65qvjW8eGNeUAgVqN) | [Wayward](https://open.spotify.com/artist/6QzNZv95Ql8TJ7PsHvOvZS) | [Green Lanes EP](https://open.spotify.com/album/5DdQz0dx2qc5NYbLWwuszb) | 5:32 | 2021-10-15 | 2022-07-29 |
 | [Sit Around The Fire](https://open.spotify.com/track/2sAlOD8k8EL0dQ34f2ysJS) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Ram Dass](https://open.spotify.com/artist/3XX4k7fPq9gcyZRDrbXfnS), [East Forest](https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW) | [Music For Psychedelic Therapy \(Excerpt\)](https://open.spotify.com/album/0gO5MR5zzkhqplcMbpYTQv) | 8:22 | 2021-10-15 |  |
 | [Sitting at the Piano](https://open.spotify.com/track/6i1KrHhWOTwmUHnzu5wGBf) | [Afterlife](https://open.spotify.com/artist/6gnvHPFDgWP4LiES4X0Ajz) | [Sitting at the Piano](https://open.spotify.com/album/5U2xHo1yudVQQUYme57H2B) | 5:22 | 2021-10-15 | 2022-07-29 |
-| [Soft Yellow](https://open.spotify.com/track/4b1QBUZ4hJrJkyOgODZLu9) | [Feather Beds](https://open.spotify.com/artist/5LCKLQeNgnfx4MnJ0ywbK6) | [Blooming](https://open.spotify.com/album/0Nn94kNY014MAvNTuVV9j7) | 3:45 | 2021-10-15 |  |
+| [Soft Yellow](https://open.spotify.com/track/4b1QBUZ4hJrJkyOgODZLu9) | [Feather Beds](https://open.spotify.com/artist/5LCKLQeNgnfx4MnJ0ywbK6) | [Blooming](https://open.spotify.com/album/0Nn94kNY014MAvNTuVV9j7) | 3:45 | 2021-10-15 | 2022-09-19 |
 | [Soft Yellow](https://open.spotify.com/track/7hwZbuE6lr35OLMqATaAUw) | [Feather Beds](https://open.spotify.com/artist/5LCKLQeNgnfx4MnJ0ywbK6) | [Blooming](https://open.spotify.com/album/5SdoVWrxIsDDWE5D0Bnjni) | 3:45 | 2021-10-15 | 2022-07-28 |
 | [Spiracles](https://open.spotify.com/track/2rOEnrtPIhfmNqqiSXXypK) | [COMA](https://open.spotify.com/artist/5t9SPy7c5n665XZCoAuR52) | [Spiracles](https://open.spotify.com/album/7apU0CMwcNfZ0i5HiJAT43) | 4:45 | 2021-10-15 | 2022-07-27 |
 | [Summer In The Ends](https://open.spotify.com/track/3ttIBQv2qjIWXbHeoCnoVm) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [George The Poet](https://open.spotify.com/artist/7v8N36cC4msGrIM2YT4LNC) | [Sounds of My World](https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH) | 4:47 | 2021-10-15 |  |

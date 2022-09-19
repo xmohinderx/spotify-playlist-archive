@@ -1,12 +1,12 @@
 {
   "description": "The soulful tunes to ease you into your day.",
-  "num_followers": 712831,
+  "num_followers": 713012,
   "original_name": "Soul Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMGQxYjhhZjMwMmNlZmFkZmEzOTU1ZGFmMmVlNTA0NDQ5",
+  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMDJhZTA5MjNlZjMzMjBmMWRiMzM4YTE4N2NmNTgwOTQ0",
   "tracks": [
     {
       "added_at": "2022-03-11 05:00:00",
@@ -557,6 +557,26 @@
       "url": "https://open.spotify.com/track/1JKH156F7aeqFLjHK892H6"
     },
     {
+      "added_at": "2022-09-09 04:08:19",
+      "album": {
+        "name": "LEGEND",
+        "url": "https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+        }
+      ],
+      "duration_ms": 173123,
+      "name": "Love (feat. Jazmine Sullivan)",
+      "url": "https://open.spotify.com/track/2K5CdJb1IkAlsT108wRxYP"
+    },
+    {
       "added_at": "2022-03-11 05:00:00",
       "album": {
         "name": "Good Morning Gorgeous",
@@ -619,26 +639,6 @@
       "duration_ms": 201600,
       "name": "Bring it on Home to Me (feat. Charlie Bereal)",
       "url": "https://open.spotify.com/track/578ziqCj8ieyz7NLrZ31km"
-    },
-    {
-      "added_at": "2022-09-09 04:08:19",
-      "album": {
-        "name": "LEGEND",
-        "url": "https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        },
-        {
-          "name": "Jazmine Sullivan",
-          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
-        }
-      ],
-      "duration_ms": 173123,
-      "name": "Love (feat. Jazmine Sullivan)",
-      "url": "https://open.spotify.com/track/2K5CdJb1IkAlsT108wRxYP"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -821,6 +821,26 @@
       "url": "https://open.spotify.com/track/2uddLj27GIDBIdwRuIomE4"
     },
     {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "My Way (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/3ideAfrVvWpeZkKB9fOz81"
+      },
+      "artists": [
+        {
+          "name": "Usher",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "Ryan James Carr",
+          "url": "https://open.spotify.com/artist/5V5f4rVZkRnl5O17X1vDM1"
+        }
+      ],
+      "duration_ms": 192064,
+      "name": "Nice & Slow - Ryan James Carr Remake",
+      "url": "https://open.spotify.com/track/31YudjfCQCpRYDeDMskWGh"
+    },
+    {
       "added_at": "2022-03-11 05:00:00",
       "album": {
         "name": "What It Is",
@@ -905,6 +925,22 @@
       "url": "https://open.spotify.com/track/01foHKHazVkkbW9hcAY2X4"
     },
     {
+      "added_at": "2022-09-09 04:08:19",
+      "album": {
+        "name": "Angels & Queens",
+        "url": "https://open.spotify.com/album/1KIvBCWJuLhFYdXPvE8ExK"
+      },
+      "artists": [
+        {
+          "name": "Gabriels",
+          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
+        }
+      ],
+      "duration_ms": 199796,
+      "name": "Angels & Queens",
+      "url": "https://open.spotify.com/track/4KpqdNIQw7S6DlZz8RjBzO"
+    },
+    {
       "added_at": "2022-03-11 05:00:00",
       "album": {
         "name": "Better Than I Imagined (Feat. H.E.R. & Meshell Ndegeocello)",
@@ -929,22 +965,6 @@
       "url": "https://open.spotify.com/track/04vYVsWbhkQaTLx2kgVNks"
     },
     {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Stay Where You Are",
-        "url": "https://open.spotify.com/album/1Mun53MZEPEfXJpHbCArDJ"
-      },
-      "artists": [
-        {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
-        }
-      ],
-      "duration_ms": 209205,
-      "name": "Stay Where You Are",
-      "url": "https://open.spotify.com/track/68GFZFc2Fa5HLdv6TXziSD"
-    },
-    {
       "added_at": "2022-09-09 04:08:19",
       "album": {
         "name": "Coastin'",
@@ -963,22 +983,6 @@
       "duration_ms": 220680,
       "name": "Coastin' [Feat. Lalah Hathaway]",
       "url": "https://open.spotify.com/track/5vsi5OWrEj1J3MFzKD5GTJ"
-    },
-    {
-      "added_at": "2022-09-09 04:08:19",
-      "album": {
-        "name": "Angels & Queens",
-        "url": "https://open.spotify.com/album/1KIvBCWJuLhFYdXPvE8ExK"
-      },
-      "artists": [
-        {
-          "name": "Gabriels",
-          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
-        }
-      ],
-      "duration_ms": 199796,
-      "name": "Angels & Queens",
-      "url": "https://open.spotify.com/track/4KpqdNIQw7S6DlZz8RjBzO"
     },
     {
       "added_at": "2022-09-09 04:08:19",
@@ -1035,6 +1039,22 @@
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
+        "name": "Stay Where You Are",
+        "url": "https://open.spotify.com/album/1Mun53MZEPEfXJpHbCArDJ"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "duration_ms": 209205,
+      "name": "Stay Where You Are",
+      "url": "https://open.spotify.com/track/68GFZFc2Fa5HLdv6TXziSD"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
         "name": "Black Messiah",
         "url": "https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6"
       },
@@ -1047,22 +1067,6 @@
       "duration_ms": 358626,
       "name": "Another Life",
       "url": "https://open.spotify.com/track/2f9mmR37OEceYERbXml0Nj"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Rare Changes",
-        "url": "https://open.spotify.com/album/7pue5cbfa0TUgCUth2KFr8"
-      },
-      "artists": [
-        {
-          "name": "Mayer Hawthorne",
-          "url": "https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O"
-        }
-      ],
-      "duration_ms": 194072,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/5MUvzjJ2XXvPZq3KU6znpP"
     },
     {
       "added_at": "2022-09-09 04:08:19",
@@ -1079,6 +1083,22 @@
       "duration_ms": 256853,
       "name": "Heal",
       "url": "https://open.spotify.com/track/4UndAnl9tL4hHiYOuufIJk"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "Rare Changes",
+        "url": "https://open.spotify.com/album/7pue5cbfa0TUgCUth2KFr8"
+      },
+      "artists": [
+        {
+          "name": "Mayer Hawthorne",
+          "url": "https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O"
+        }
+      ],
+      "duration_ms": 194072,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/5MUvzjJ2XXvPZq3KU6znpP"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -1111,6 +1131,22 @@
       "duration_ms": 180523,
       "name": "Grow",
       "url": "https://open.spotify.com/track/3jPd7hIM0feCje8ZbVu6en"
+    },
+    {
+      "added_at": "2022-09-09 04:08:19",
+      "album": {
+        "name": "Love Songs",
+        "url": "https://open.spotify.com/album/7tiLiMKiZ34qwvJQiuXfzN"
+      },
+      "artists": [
+        {
+          "name": "Will Gittens",
+          "url": "https://open.spotify.com/artist/2Guif3r6Ys8lL1H5aGyuh1"
+        }
+      ],
+      "duration_ms": 195817,
+      "name": "Falling For You",
+      "url": "https://open.spotify.com/track/0jCbfcLupN9I5ILvNxMGty"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -1197,22 +1233,6 @@
       "url": "https://open.spotify.com/track/7HQc8ITNpm2NaIdLcKLDAY"
     },
     {
-      "added_at": "2022-09-09 04:08:19",
-      "album": {
-        "name": "Love Songs",
-        "url": "https://open.spotify.com/album/7tiLiMKiZ34qwvJQiuXfzN"
-      },
-      "artists": [
-        {
-          "name": "Will Gittens",
-          "url": "https://open.spotify.com/artist/2Guif3r6Ys8lL1H5aGyuh1"
-        }
-      ],
-      "duration_ms": 195817,
-      "name": "Falling For You",
-      "url": "https://open.spotify.com/track/0jCbfcLupN9I5ILvNxMGty"
-    },
-    {
       "added_at": "2022-03-11 05:00:00",
       "album": {
         "name": "Take Me Away (feat. EARTHGANG)",
@@ -1253,22 +1273,6 @@
       "url": "https://open.spotify.com/track/7yukGUDEOcjug514T4qgvQ"
     },
     {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Neva Gonna Break My Heart Again",
-        "url": "https://open.spotify.com/album/4GiaM3A5j9Yll69ESxGKyE"
-      },
-      "artists": [
-        {
-          "name": "Tweet",
-          "url": "https://open.spotify.com/artist/6zDBeei6hHRiZdAJ6zoTCo"
-        }
-      ],
-      "duration_ms": 318521,
-      "name": "Neva Gonna Break My Heart Again",
-      "url": "https://open.spotify.com/track/7c9d8GYjOixUL7I3o2BJn0"
-    },
-    {
       "added_at": "2022-09-09 04:08:19",
       "album": {
         "name": "Thinking of You",
@@ -1287,42 +1291,34 @@
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "Stolen Fruit",
-        "url": "https://open.spotify.com/album/7lz4nwWwfRplCq1ts5NmVv"
+        "name": "Neva Gonna Break My Heart Again",
+        "url": "https://open.spotify.com/album/4GiaM3A5j9Yll69ESxGKyE"
       },
       "artists": [
         {
-          "name": "Tank and The Bangas",
-          "url": "https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7"
+          "name": "Tweet",
+          "url": "https://open.spotify.com/artist/6zDBeei6hHRiZdAJ6zoTCo"
         }
       ],
-      "duration_ms": 217625,
-      "name": "Stolen Fruit",
-      "url": "https://open.spotify.com/track/5hax6joZydQKWNE55uQAgF"
+      "duration_ms": 318521,
+      "name": "Neva Gonna Break My Heart Again",
+      "url": "https://open.spotify.com/track/7c9d8GYjOixUL7I3o2BJn0"
     },
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "Shine [Feat. D Smoke + Tiffany Gouch\u00e9]",
-        "url": "https://open.spotify.com/album/7tOJroeUUAj21SaBgC1DZe"
+        "name": "Never My Love: The Anthology",
+        "url": "https://open.spotify.com/album/4kINvyMdIqyuXAtpoCKGIO"
       },
       "artists": [
         {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
-        },
-        {
-          "name": "D Smoke",
-          "url": "https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo"
-        },
-        {
-          "name": "Tiffany Gouch\u00e9",
-          "url": "https://open.spotify.com/artist/2IEnjZsVDEPKUTxNinyqba"
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
         }
       ],
-      "duration_ms": 387210,
-      "name": "Shine [Feat. D Smoke + Tiffany Gouch\u00e9]",
-      "url": "https://open.spotify.com/track/2mHenqaNpcU7q3JP4V4Oee"
+      "duration_ms": 204055,
+      "name": "Love, Love, Love",
+      "url": "https://open.spotify.com/track/3Tc6dHggtSaZqlKRhzkeub"
     }
   ],
   "unique_name": "Soul Coffee",

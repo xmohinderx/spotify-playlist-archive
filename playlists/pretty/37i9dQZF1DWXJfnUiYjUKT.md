@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: BLACKPINK
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,436 likes - 91 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,730 likes - 91 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

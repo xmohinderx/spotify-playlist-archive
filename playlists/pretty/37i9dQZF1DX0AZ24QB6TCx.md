@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 
 > Relax with deep house and electronica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,703 likes - 70 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - ??? likes - 70 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,18 +65,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 55 | [Solar Detroit](https://open.spotify.com/track/0HU2SnFrXnHIb72dR0P26n) | [MEUTE](https://open.spotify.com/artist/1z5xbcOeFRQXBVDpvRPh8H) | [Solar Detroit](https://open.spotify.com/album/7AUcWvslF2oopky9aXUXWk) | 8:06 |
 | 56 | [The Tribe](https://open.spotify.com/track/7LiOGey9rkzEndaZ0nSIvs) | [Mark Tarmonea](https://open.spotify.com/artist/0G0DRVtduDqqikbVbZXaNn) | [The Tribe](https://open.spotify.com/album/6HdlZw4vN6vtMGDVNRVFZk) | 8:28 |
 | 57 | [Quarantine \- Original](https://open.spotify.com/track/3PygOTzzolVCIZKUIvhgNS) | [Ante Perry](https://open.spotify.com/artist/4ueT3TFdSmR04bDAiZbjsW) | [Quarantine](https://open.spotify.com/album/14lJ0laxlNQnVTJ2WJsKuy) | 5:33 |
-| 58 | [The Kármán Line](https://open.spotify.com/track/1dcu7ZenUoBB7J0r1sg5lz) | [Pablo Nouvelle](https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P) | [The Kármán Line](https://open.spotify.com/album/1JQp2HkeTTYoaQOTcJdFfi) | 3:23 |
-| 59 | [La Veleta](https://open.spotify.com/track/3ov4vgaxgFhSJwejMCpZUY) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR) | [Made of Wood](https://open.spotify.com/album/2mq7gQ2pltwdQar3B8puYW) | 6:30 |
-| 60 | [Get Down \- Short Edit](https://open.spotify.com/track/4EMHeoQ2e2WgUKtALdLvLw) | [Alegant](https://open.spotify.com/artist/5x8bXmbyCTgrQzyJOHLWtO), [Tube & Berger](https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h) | [False Gods EP \(Short Edits\)](https://open.spotify.com/album/00IZ6CeGgcz7mY2qtqUFT4) | 3:34 |
-| 61 | [Love We Found](https://open.spotify.com/track/6Ae5fUk4VVYF5zNLWZ7dFt) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Desire](https://open.spotify.com/album/7B6Jr6YFwOk8ShwfTXXY5k) | 5:52 |
-| 62 | [Message](https://open.spotify.com/track/6jtw8sBH0NCmFw7x94s5DF) | [Rezident](https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc) | [Perspective EP](https://open.spotify.com/album/0xZahoke4fTh9QtdCcduwh) | 5:04 |
-| 63 | [Need To Feel Loved \- Nils Hoffmann Remix](https://open.spotify.com/track/20ctMnCm00vFtUUUQYSskZ) | [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz), [LVNDSCAPE](https://open.spotify.com/artist/2QlwnS23KrBeshXFyK5U6M), [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb) | [Need To Feel Loved \(Nils Hoffmann Remix\)](https://open.spotify.com/album/3tGTJ20bG5us1bj4cC9AhH) | 3:44 |
-| 64 | [Unconditional Love](https://open.spotify.com/track/3KGbOtIDJBEoA8yKzemR6V) | [Umami](https://open.spotify.com/artist/67qmoqrkr162LFix4Czmlv), [Headwaters](https://open.spotify.com/artist/3zl0xOnASfvN3NcowWxSRm) | [Unconditional Love](https://open.spotify.com/album/3rPsutaizdztrYpGeKDd5H) | 6:17 |
-| 65 | [Follow \(Extended Mix\)](https://open.spotify.com/track/7eMdP75WNeu2y8VpKzmfYX) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [GIVVEN](https://open.spotify.com/artist/7e1aNehmQevT0RVtN8Pzly) | [Follow](https://open.spotify.com/album/5lOpduLiv7Cexz1YUWtk5w) | 4:56 |
-| 66 | [AvA](https://open.spotify.com/track/3iCcDV8pYG9m5RnOMLhL2n) | [Amy Root](https://open.spotify.com/artist/25BkQ40MvbdCyNbX8DJd73) | [AvA](https://open.spotify.com/album/2tbdf6Acn9D7UFOB10EedD) | 4:47 |
-| 67 | [Madman](https://open.spotify.com/track/4LXl83AHAkdMVLWoFfKF31) | [Depart](https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy) | [Madman](https://open.spotify.com/album/4WFXuTDpA77bBtWuv4t74a) | 7:28 |
-| 68 | [Goodbye](https://open.spotify.com/track/122Q96pdQ0hlfbgDzcxndg) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Goodbye](https://open.spotify.com/album/3XcU0mvjzG4Ww84JCqVEbt) | 6:03 |
-| 69 | [Hold On](https://open.spotify.com/track/6kG8jzJh9Wm4TRyMcX47xV) | [Axel Boman](https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O) | [LUZ](https://open.spotify.com/album/2Xh5yUHosjfKq2B0ud0c98) | 3:37 |
-| 70 | [Neunivai \- Original Mix](https://open.spotify.com/track/3S8gi2Vq1t8bKysBJ4783m) | [Volen Sentir](https://open.spotify.com/artist/7scXA3hBD8JyGGajVR9q9l) | [Neunivai](https://open.spotify.com/album/7l228NGTYSldObg2XLzCfS) | 7:18 |
+| 58 | [La Veleta](https://open.spotify.com/track/3ov4vgaxgFhSJwejMCpZUY) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR) | [Made of Wood](https://open.spotify.com/album/2mq7gQ2pltwdQar3B8puYW) | 6:30 |
+| 59 | [on air \(4am version\)](https://open.spotify.com/track/15hu6iVm3TP4PQniXkkFCN) | [always centered at night](https://open.spotify.com/artist/2g7F60LTm23xTIRugl1Ovw), [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [on air \(versions\)](https://open.spotify.com/album/2ltBFYq68lULx7AJBiluG6) | 9:16 |
+| 60 | [The Kármán Line](https://open.spotify.com/track/1dcu7ZenUoBB7J0r1sg5lz) | [Pablo Nouvelle](https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P) | [The Kármán Line](https://open.spotify.com/album/1JQp2HkeTTYoaQOTcJdFfi) | 3:23 |
+| 61 | [Get Down \- Short Edit](https://open.spotify.com/track/4EMHeoQ2e2WgUKtALdLvLw) | [Alegant](https://open.spotify.com/artist/5x8bXmbyCTgrQzyJOHLWtO), [Tube & Berger](https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h) | [False Gods EP \(Short Edits\)](https://open.spotify.com/album/00IZ6CeGgcz7mY2qtqUFT4) | 3:34 |
+| 62 | [Love We Found](https://open.spotify.com/track/6Ae5fUk4VVYF5zNLWZ7dFt) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Desire](https://open.spotify.com/album/7B6Jr6YFwOk8ShwfTXXY5k) | 5:52 |
+| 63 | [Message](https://open.spotify.com/track/6jtw8sBH0NCmFw7x94s5DF) | [Rezident](https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc) | [Perspective EP](https://open.spotify.com/album/0xZahoke4fTh9QtdCcduwh) | 5:04 |
+| 64 | [Need To Feel Loved \- Nils Hoffmann Remix](https://open.spotify.com/track/20ctMnCm00vFtUUUQYSskZ) | [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz), [LVNDSCAPE](https://open.spotify.com/artist/2QlwnS23KrBeshXFyK5U6M), [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb) | [Need To Feel Loved \(Nils Hoffmann Remix\)](https://open.spotify.com/album/3tGTJ20bG5us1bj4cC9AhH) | 3:44 |
+| 65 | [Unconditional Love](https://open.spotify.com/track/3KGbOtIDJBEoA8yKzemR6V) | [Umami](https://open.spotify.com/artist/67qmoqrkr162LFix4Czmlv), [Headwaters](https://open.spotify.com/artist/3zl0xOnASfvN3NcowWxSRm) | [Unconditional Love](https://open.spotify.com/album/3rPsutaizdztrYpGeKDd5H) | 6:17 |
+| 66 | [Follow \(Extended Mix\)](https://open.spotify.com/track/7eMdP75WNeu2y8VpKzmfYX) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [GIVVEN](https://open.spotify.com/artist/7e1aNehmQevT0RVtN8Pzly) | [Follow](https://open.spotify.com/album/5lOpduLiv7Cexz1YUWtk5w) | 4:56 |
+| 67 | [AvA](https://open.spotify.com/track/3iCcDV8pYG9m5RnOMLhL2n) | [Amy Root](https://open.spotify.com/artist/25BkQ40MvbdCyNbX8DJd73) | [AvA](https://open.spotify.com/album/2tbdf6Acn9D7UFOB10EedD) | 4:47 |
+| 68 | [Madman](https://open.spotify.com/track/4LXl83AHAkdMVLWoFfKF31) | [Depart](https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy) | [Madman](https://open.spotify.com/album/4WFXuTDpA77bBtWuv4t74a) | 7:28 |
+| 69 | [Goodbye](https://open.spotify.com/track/122Q96pdQ0hlfbgDzcxndg) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Goodbye](https://open.spotify.com/album/3XcU0mvjzG4Ww84JCqVEbt) | 6:03 |
+| 70 | [Hold On](https://open.spotify.com/track/6kG8jzJh9Wm4TRyMcX47xV) | [Axel Boman](https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O) | [LUZ](https://open.spotify.com/album/2Xh5yUHosjfKq2B0ud0c98) | 3:37 |
 
-Snapshot ID: `MTY2MzM0NjA3NywwMDAwMDAwMDhkYjA2MTcyZjdiZDUyYWEwYzhjNDMzNWJmNzI0Yjg2`
+Snapshot ID: `MTY2MzM0NjA3NywwMDAwMDAwMDc3OWRjYmVhZTdkNTEyODc1MmQ5NjUwMGIzMzZhMWZi`

@@ -4,7 +4,7 @@
 
 > Have a drink and relax to the Jazz played in the background in the bar.
 
-130 songs - 9 hr 6 min - [published](https://open.spotify.com/playlist/5IOGpcMWdAwHjOc8PyryaR)
+131 songs - 9 hr 11 min - [published](https://open.spotify.com/playlist/5IOGpcMWdAwHjOc8PyryaR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [It's Always You \- Vocal Version](https://open.spotify.com/track/06UkYE0SZ3Y8zGRFOuWGAe) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings](https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4) | 3:35 | 2022-05-12 | 2022-08-18 |
 | [L'Adieu](https://open.spotify.com/track/009y1uS2vVXmeGnFOf2757) | [Benny Golson](https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG) | [New Time, New 'Tet](https://open.spotify.com/album/5i6M0JCHTTR8vfYfy6kXHP) | 5:38 | 2022-05-12 |  |
 | [Little Girl Blue](https://open.spotify.com/track/26bVvTsdbtIAuJ0pZyCaOO) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k) | [Ballads](https://open.spotify.com/album/66lE5oVdR8QZjXNbYjJulR) | 7:14 | 2022-05-12 |  |
-| [Little White Lies](https://open.spotify.com/track/2LyNm94f8adOw3frDUHB5o) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Swings Lightly](https://open.spotify.com/album/3UC5JUy1CydJYU53KAtbdH) | 2:34 | 2022-05-12 |  |
+| [Little White Lies](https://open.spotify.com/track/2LyNm94f8adOw3frDUHB5o) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Swings Lightly](https://open.spotify.com/album/3UC5JUy1CydJYU53KAtbdH) | 2:34 | 2022-05-12 | 2022-09-19 |
 | [Love For Sale](https://open.spotify.com/track/66vrjgMvWOLyeKBuMGA0Cz) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Kind Of Blue \(Legacy Edition\)](https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw) | 11:47 | 2022-05-12 |  |
 | [Love For Sale](https://open.spotify.com/track/6fqHlcomOg6NBwa25EK58m) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Oscar Peterson Plays The Cole Porter Songbook](https://open.spotify.com/album/3AiM3u6eHEuZWYCKNjBFK7) | 3:26 | 2022-09-15 |  |
 | [Love For Sale](https://open.spotify.com/track/3dxAt1su013e3GZyBUL9bP) | [Shirley Horn](https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd) | [Loads Of Love](https://open.spotify.com/album/4Wb8zemQ91ofj5B74Y82IY) | 3:51 | 2022-05-12 |  |
@@ -86,6 +86,7 @@
 | [Over the Rainbow](https://open.spotify.com/track/0DqB9KMQnDf9ntG2YdZvUi) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Is Back!](https://open.spotify.com/album/0QDJTS0a9b63Wl5aHh7Dfy) | 3:28 | 2022-06-29 | 2022-09-15 |
 | [Over the Rainbow](https://open.spotify.com/track/6nVf9GOdFR9HL7tRWp9qhM) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [My Funny Valentine: The Best Of Chet Baker](https://open.spotify.com/album/1N1slntg5Bz5fe9S5S1R3t) | 3:28 | 2022-05-12 | 2022-07-29 |
 | [Polka Dots And Moonbeams](https://open.spotify.com/track/5gKkKecfZsrzIkJlKyikyw) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Swingin' Easy](https://open.spotify.com/album/3uja6kKhz0bUcAZ7lTHvju) | 2:36 | 2022-05-12 | 2022-09-16 |
+| [Prelude To A Kiss](https://open.spotify.com/track/5np8aLrbzZDCHPPXyqNOeb) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Duke Ellington Song Book](https://open.spotify.com/album/2VgS17fUEsUer5nCbM2juj) | 5:31 | 2022-09-16 |  |
 | [Round Midnight](https://open.spotify.com/track/7LzDBgmMFhfcqPaYBTJoj4) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k) | [An Image: Lee Konitz With Strings](https://open.spotify.com/album/3uW4dhafeqWlQrN9bXE3YN) | 5:19 | 2022-05-12 | 2022-09-15 |
 | [Satin Doll](https://open.spotify.com/track/5whP1p6A6Cbjqtbkp4ytFP) | [Lorez Alexandria](https://open.spotify.com/artist/5FxVAiCRSETyMMPV8MDaHY) | [Alexandria The Great](https://open.spotify.com/album/0mr9wOHzf0Pygckr8Mk0Q9) | 2:44 | 2022-05-12 |  |
 | [So In Love](https://open.spotify.com/track/6jqfoXK41QFV9Q5RYmwoMx) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [Tears And Laughter](https://open.spotify.com/album/1IqiYg8kXt5nVY5fEz5dUD) | 4:27 | 2022-05-12 |  |

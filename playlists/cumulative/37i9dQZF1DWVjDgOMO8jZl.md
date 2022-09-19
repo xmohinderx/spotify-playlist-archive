@@ -4,7 +4,7 @@
 
 > Scopri i tuoi nuovi artisti italiani preferiti! Cover: Sans Soucis
 
-72 songs - 3 hr 33 min - not published yet
+72 songs - 3 hr 33 min - [published](https://open.spotify.com/playlist/4DfmxbBDAJRVZ9vLByCzL3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

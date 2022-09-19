@@ -4,7 +4,7 @@
 
 > Big rooms with big sounds\. Cover: Quintino
 
-189 songs - 9 hr 50 min - [published](https://open.spotify.com/playlist/6qNCTGV1lgbBTyQi4Ez9QG)
+190 songs - 9 hr 54 min - [published](https://open.spotify.com/playlist/6qNCTGV1lgbBTyQi4Ez9QG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [I Want You](https://open.spotify.com/track/40jZdbxLsxIwnTBAUeduF3) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [I Want You](https://open.spotify.com/album/3xmg5Nn7mGpds1VCdsUmjR) | 3:06 | 2022-04-14 | 2022-07-29 |
 | [Ininna Tora](https://open.spotify.com/track/2iQMxfQyEyypb0MCFYaLlE) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Mildenhaus](https://open.spotify.com/artist/1fzjSsvVUpGt2W0itpcTKP) | [Ininna Tora](https://open.spotify.com/album/62oEG3Jyw8Pgp9HfUnzY0G) | 3:24 | 2022-04-14 |  |
 | [Insomnia \- Rework](https://open.spotify.com/track/6uRUfq1y0VayUjh2M935g7) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9), [Jack Holiday](https://open.spotify.com/artist/64yON9pK0j392YkionGKAF) | [Insomnia \(Rework\)](https://open.spotify.com/album/3O4Td8QTtXYMfbj8d4h7P6) | 3:00 | 2022-04-14 |  |
+| [INTO THE UNKNOWN](https://open.spotify.com/track/3Y6CWrNdkuaJ5iW2Y829fU) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [REBELS NEVER DIE](https://open.spotify.com/album/5OU4esREA0HLwNekPigYeZ) | 3:58 | 2022-09-15 |  |
 | [INTO THE UNKNOWN](https://open.spotify.com/track/6RgMjFGFDYSfMSKxbyQseJ) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [INTO THE UNKNOWN](https://open.spotify.com/album/3sRYWksIy88qpwLHJTItae) | 3:58 | 2022-07-28 | 2022-09-12 |
 | [INTO THE UNKNOWN](https://open.spotify.com/track/7nHruG1y3zBupJG6F6UQtB) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [INTO THE UNKNOWN](https://open.spotify.com/album/5m6bf6RkkaLp3iTH7qllng) | 3:58 | 2022-04-14 | 2022-07-29 |
 | [Keep Moving](https://open.spotify.com/track/0QFKNWVDzx68m98IMDSxyY) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [Keep Moving](https://open.spotify.com/album/169CFMX9eGD379MAPwLEud) | 2:26 | 2022-06-30 | 2022-09-09 |
@@ -125,7 +126,7 @@
 | [Odin](https://open.spotify.com/track/2ObmmBBAAQ4KxfAiXf3Fxi) | [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0), [Apaztron](https://open.spotify.com/artist/1hdFJ6b5u4vpPG5t1FR55i) | [Odin](https://open.spotify.com/album/3o2THPP9wBUYYBpVzghmP8) | 3:51 | 2022-07-28 |  |
 | [Old School](https://open.spotify.com/track/71Sz7c0myBEu1h0pxy9xHU) | [Olly James](https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC), [Skylights](https://open.spotify.com/artist/0VPaO0vsoT2SrBFGTkvZOd), [Kris Kiss](https://open.spotify.com/artist/3Hzok9apHnCGDDkGltQcMg) | [Old School](https://open.spotify.com/album/6YuBMPHdINEax8Te6XxtnH) | 3:03 | 2022-04-21 | 2022-07-26 |
 | [Out Of My Mind](https://open.spotify.com/track/2wSudk1Z9HMdPNrWnwu6mc) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV) | [Out Of My Mind](https://open.spotify.com/album/2TbwXR0NgqoHoHjorIX3s5) | 3:00 | 2022-04-14 | 2022-07-29 |
-| [P.R.O.G.](https://open.spotify.com/track/4dpNQuxo6xz66pDsvtUR4j) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX) | [P.R.O.G.](https://open.spotify.com/album/2pYk1rLEFSKdJLd67mdIAd) | 2:58 | 2022-08-18 |  |
+| [P.R.O.G.](https://open.spotify.com/track/4dpNQuxo6xz66pDsvtUR4j) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX) | [P.R.O.G.](https://open.spotify.com/album/2pYk1rLEFSKdJLd67mdIAd) | 2:58 | 2022-08-18 | 2022-09-19 |
 | [PACMAN](https://open.spotify.com/track/0V0FJBR8xhhMuirhRY15we) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [PACMAN](https://open.spotify.com/album/78smiyLXB1YjwnTSZ2U6jB) | 3:52 | 2022-06-09 | 2022-07-27 |
 | [Paradise](https://open.spotify.com/track/2InkR3RbQnVc9EMHP9VRqY) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k) | [Paradise](https://open.spotify.com/album/6tGXsBn9Oqo2uYcmILI6fb) | 3:16 | 2022-08-18 |  |
 | [Paralyzed](https://open.spotify.com/track/3LPtsTvGpHtVgwja5VZFRb) | [AXMO](https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc) | [Paralyzed](https://open.spotify.com/album/4zulq5cIRvTXUZRsaFXdlz) | 3:01 | 2022-04-14 | 2022-09-16 |

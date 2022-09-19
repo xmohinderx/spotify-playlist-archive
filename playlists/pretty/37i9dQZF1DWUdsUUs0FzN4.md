@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUdsUUs0FzN4.md) - [plain]
 
 > ¡Bienvenidxs al mundo del bellaqueo! 🍑  Foto: LOOJAN
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,486 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,488 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUdsUUs0FzN4.md) - [plain]
 | 14 | [Tu Pones la Hora y Yo Le Caigo](https://open.spotify.com/track/4AJzH1HTwBcfxTH5F2hO4g) | [DJ Cobra Monterrey](https://open.spotify.com/artist/4irQCuA0Tlt4vyXvfcuz2p) | [Tu Pones la Hora y Yo Le Caigo](https://open.spotify.com/album/2sAoBj5Mpq2h9p3bVt1nKa) | 3:47 |
 | 15 | [PÉGATE](https://open.spotify.com/track/6OwKm3AXpkr6nO8Rid5e75) | [Ecko](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4) | [PÉGATE](https://open.spotify.com/album/4JP9WAcqSyTOaA0DVpMh03) | 2:49 |
 | 16 | [La Gata de la Agricola Oriental](https://open.spotify.com/track/03QlQ3jX2glFnxCj8maCta) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [Kery](https://open.spotify.com/artist/3AChMKkXbtIh9WEFhLRk2m) | [La Gata de la Agricola Oriental](https://open.spotify.com/album/0wX6GEW24hy1sAHgiZswlC) | 3:11 |
-| 17 | [Muévete](https://open.spotify.com/track/6hWx6ly9alU4e3UXybN0EU) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Divergentes Inc.](https://open.spotify.com/artist/53GvbDsSidYJZCdCrOcGgI) | [Muévete](https://open.spotify.com/album/6spUBYcMPDm3ANEmoVxrdo) | 3:31 |
-| 18 | [Diabla en bellakera](https://open.spotify.com/track/6Tm42ujjFYSmYPG2t0QCbu) | [Dj Flacko Monterrey](https://open.spotify.com/artist/1wNss5CYWZXudK9XnuMLbX), [DJ WICHO](https://open.spotify.com/artist/6RcXXVJ0cB3cKnc8PhQSZg), [Dj Diestro](https://open.spotify.com/artist/3WWMZusY0DgheUWKhTVx9j) | [Diabla en bellakera](https://open.spotify.com/album/04s4sX5A9qSqbNajrtZ2Rw) | 3:35 |
+| 17 | [Diabla en bellakera](https://open.spotify.com/track/6Tm42ujjFYSmYPG2t0QCbu) | [Dj Flacko Monterrey](https://open.spotify.com/artist/1wNss5CYWZXudK9XnuMLbX), [DJ WICHO](https://open.spotify.com/artist/6RcXXVJ0cB3cKnc8PhQSZg), [Dj Diestro](https://open.spotify.com/artist/3WWMZusY0DgheUWKhTVx9j) | [Diabla en bellakera](https://open.spotify.com/album/04s4sX5A9qSqbNajrtZ2Rw) | 3:35 |
+| 18 | [Muévete](https://open.spotify.com/track/6hWx6ly9alU4e3UXybN0EU) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Divergentes Inc.](https://open.spotify.com/artist/53GvbDsSidYJZCdCrOcGgI) | [Muévete](https://open.spotify.com/album/6spUBYcMPDm3ANEmoVxrdo) | 3:31 |
 | 19 | [Se Menea](https://open.spotify.com/track/3mbKLIppSw6vqWidiuMd53) | [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH), [Michael G](https://open.spotify.com/artist/52vhIE7TjnC3Cxd7ZOWJZ3), [Chino El Gorila](https://open.spotify.com/artist/3F1DM59crNsFkIY0ydIlO6) | [Se Menea](https://open.spotify.com/album/29QUuLDAgelu6uM7zmh4CM) | 3:39 |
 | 20 | [Bien Bebé](https://open.spotify.com/track/6DZzQDUdpigYzSsnCnznay) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Ey Gary](https://open.spotify.com/artist/4b4iRS4BUIkDBteNwGc9Ww) | [Bien Bebé](https://open.spotify.com/album/7k7MXCnNDvjk0kna93lyd4) | 2:43 |
 | 21 | [Lluvia De Micheladas](https://open.spotify.com/track/1YAqv5QidJkRcwZo1FV6s1) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [Smi\-Lee](https://open.spotify.com/artist/4kcrrhbTk7KqY1KKeonwKA), [Profeta Yao Yao](https://open.spotify.com/artist/4tXFiCOQKSg5avRjHnYJAb), [Riko Mix](https://open.spotify.com/artist/4tLNdBKmqrgKBjgcnKCdeP) | [Lluvia De Micheladas](https://open.spotify.com/album/03OMTESg6ZdhYChtszcfxw) | 3:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUdsUUs0FzN4.md) - [plain]
 | 49 | [Anormal](https://open.spotify.com/track/3MroASzMNY2lQtg5eQsS9p) | [LOOJAN](https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI), [Malo](https://open.spotify.com/artist/3voOTPDg4JXGVLVWG6wfeb) | [Anormal](https://open.spotify.com/album/0bQLohOdGuWywpKztVMR2V) | 3:12 |
 | 50 | [CULO](https://open.spotify.com/track/12DGHYNvwPA5wFtxKQoeNZ) | [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq), [RD Maravilla](https://open.spotify.com/artist/0nQKjof7jr673bYRKIHqe4) | [CULO](https://open.spotify.com/album/4nwxFDlSeRxlPhz0w0cDO9) | 2:59 |
 
-Snapshot ID: `MTY2MDg4NTIwMCwwMDAwMDAwMDQzMTA5OWQ3NTc2YTE1ODBlMjMwMDhhMWU0NzA0YmYw`
+Snapshot ID: `MTY2MDg4NTIwMCwwMDAwMDAwMGNkODE5MDE1NDBmOGFjNWUzODZlZDNmOTlkNWNlMGU1`

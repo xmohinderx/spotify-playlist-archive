@@ -4,7 +4,7 @@
 
 > Podcasts you need to have on your RADAR: GIRL CODE, Goes Alright and Out of  Character with Millie.
 
-0 song - 0 sec - not published yet
+0 song - 0 sec - [published](https://open.spotify.com/playlist/6mNg0REYk9RduezQB6ZMnF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

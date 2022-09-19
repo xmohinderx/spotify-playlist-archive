@@ -4,7 +4,7 @@
 
 > La playlist idéale pour vos fêtes cette année! Photo: Alexandra Streliski
 
-283 songs - 15 hr 27 min - [published](https://open.spotify.com/playlist/0SxZxNJ9FKXL8tKafplut8)
+284 songs - 15 hr 32 min - [published](https://open.spotify.com/playlist/0SxZxNJ9FKXL8tKafplut8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Cadeau](https://open.spotify.com/track/2S0YYjl0Ij1GRaZYxQr62U) | [Shirley Théroux](https://open.spotify.com/artist/3UsDgAEOj0kz11teLs3SRM) | [En robe de neige](https://open.spotify.com/album/04OobBfEyP2hF1OZtLRMzp) | 3:39 | 2021-12-17 | 2022-07-27 |
 | [Chanson pour une nuit d'hiver](https://open.spotify.com/track/4v5igJYEez7gAKiyHuVFBo) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Lumières d'hiver](https://open.spotify.com/album/4GVVHF9DXhDaXh8b74Uyjo) | 4:23 | 2021-12-17 | 2022-07-29 |
 | [Cheers](https://open.spotify.com/track/6ZCAkrXjyPfsRsIZdiFqTX) | [Laurence St\-Martin](https://open.spotify.com/artist/1DAZpwKWPQ4VnPSD2RcpgG) | [Cheers](https://open.spotify.com/album/0Wg2bATi2bsehYd23NBqpP) | 2:26 | 2021-12-17 | 2022-07-29 |
-| [Cheers](https://open.spotify.com/track/6aSOOOlwOm9HdvobCda3Er) | [Laurence St\-Martin](https://open.spotify.com/artist/1DAZpwKWPQ4VnPSD2RcpgG) | [Cheers](https://open.spotify.com/album/4UuwrpTwXbglkg5CggqnFT) | 2:26 | 2021-12-17 |  |
+| [Cheers](https://open.spotify.com/track/6aSOOOlwOm9HdvobCda3Er) | [Laurence St\-Martin](https://open.spotify.com/artist/1DAZpwKWPQ4VnPSD2RcpgG) | [Cheers](https://open.spotify.com/album/4UuwrpTwXbglkg5CggqnFT) | 2:26 | 2021-12-17 | 2022-09-19 |
 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/0277i1AiYItpCxOyxOT7gg) | [Andee](https://open.spotify.com/artist/0NkizteG3ppTHvm5Zh0xcN) | [Tous Ensemble Pour Noël](https://open.spotify.com/album/0MkCu0fwfcUNGYb2vdzHR9) | 2:45 | 2021-12-17 | 2022-07-23 |
 | [Christmas Ain't Enough](https://open.spotify.com/track/6VxjrRPMV0OUXIsKatkusi) | [Elliot Maginot](https://open.spotify.com/artist/0dX5TveSmyFKxWlYtnWS2X) | [Christmas Ain't Enough](https://open.spotify.com/album/2NLwE0NYAQgZmuNKC179fh) | 4:12 | 2021-12-17 |  |
 | [Christmas Alone](https://open.spotify.com/track/5bTnCvXkxrVuYa0yclJk5k) | [Skye Wells](https://open.spotify.com/artist/5Uh1ldj8Xk3WcWPKbwo5zJ) | [Christmas Alone](https://open.spotify.com/album/1EzpPcosEWSMJvKQu6UVXc) | 3:49 | 2021-12-17 | 2022-07-22 |
@@ -222,6 +222,7 @@
 | [O Holy Night](https://open.spotify.com/track/7KmDDxUC8EzZq456O6kVLB) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [A Very Special Christmas Playlist Plus](https://open.spotify.com/album/5w93ZPNXFPKRcRniDPS10d) | 4:28 | 2021-12-17 | 2022-07-26 |
 | [O Little Town of Bethlehem](https://open.spotify.com/track/1wWO2ST0HyWfEMdThb9sat) | [André Gagnon](https://open.spotify.com/artist/3dhwxSLiJOSyuQI5hSI6yV) | [Noël](https://open.spotify.com/album/1h7LjXhFLMg1AbA1cEsWoV) | 3:57 | 2021-12-17 | 2022-09-10 |
 | [O Tannenbaum](https://open.spotify.com/track/34rzJNfTd5e9s3TICFMPD0) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \[2012 Remastered & Expanded Edition\]](https://open.spotify.com/album/7DuJYWu66RPdcekF5TuZ7w) | 5:09 | 2021-12-17 | 2022-09-18 |
+| [O Tannenbaum](https://open.spotify.com/track/4YhY2qHdBmSX33uj8ms0oq) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \[2012 Remastered & Expanded Edition\]](https://open.spotify.com/album/2XnNY3GEkbWHor5kyvXLu4) | 5:09 | 2021-12-17 |  |
 | [On attendait Noël](https://open.spotify.com/track/6G8UzGYZbWTFfThhOmRudY) | [Isabelle Boulay](https://open.spotify.com/artist/5gx3I0a3G8F4hui6GZLfQF) | [On attendait Noël](https://open.spotify.com/album/4WusiC2tPI65QpMbqUQ6GN) | 3:46 | 2021-12-17 | 2022-07-27 |
 | [One More Sleep](https://open.spotify.com/track/78pn8k7RogKo2oxl0DyX6d) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Christmas, With Love](https://open.spotify.com/album/4HRXnpdnLJGTkHSRk4roEs) | 3:59 | 2021-12-17 |  |
 | [Petit garçon](https://open.spotify.com/track/4mzJTzRomZtFDBGRbvYR1t) | [Nana Mouskouri](https://open.spotify.com/artist/6p7iFdv6Wn9iaS7AwVLvod) | [Les Plus Beaux Noels Du Monde](https://open.spotify.com/album/0ok068mhWBRbDI0ckAcDAW) | 2:49 | 2021-12-17 | 2022-07-28 |

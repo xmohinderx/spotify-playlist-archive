@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFzE2VgSszpf.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2Qo1l3s9YqHwoM1udvQbsr">Kadhja Bonet</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 446 likes - 41 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 447 likes - 41 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,11 +43,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFzE2VgSszpf.md) - [plain]
 | 33 | [Thoughts Around Tea](https://open.spotify.com/track/05It00he7qwMO89POQHvdQ) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Childqueen](https://open.spotify.com/album/1rUI6iwxz81yEgS7POrqlO) | 2:12 |
 | 34 | [Plans We Make](https://open.spotify.com/track/2OAwDkzUvN3XSqWFoUj8dx) | [Son Lux](https://open.spotify.com/artist/3kZdsaTYgaaolNxpnJ4iDe), [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Tomorrows III](https://open.spotify.com/album/759fWQ4pmDoPYMf1jMtrhw) | 3:32 |
 | 35 | [...](https://open.spotify.com/track/4snebtF0xCyNuf3eQ1SBp8) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Childqueen](https://open.spotify.com/album/1rUI6iwxz81yEgS7POrqlO) | 2:47 |
-| 36 | [We Forgot Love](https://open.spotify.com/track/5eJsZTCed61pw1mY753QTZ) | [Nicolas Godin](https://open.spotify.com/artist/313G7P4CxkVyQGNFfxNOpC), [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Concrete and Glass](https://open.spotify.com/album/3NOC4ce2g0iULPbC0hevQX) | 5:06 |
-| 37 | [Love Theme \(feat\. Kadhja Bonet\)](https://open.spotify.com/track/42yyhfzkfJIjNHSy1deT0A) | [Nicolas Godin](https://open.spotify.com/artist/313G7P4CxkVyQGNFfxNOpC), [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Concrete and Glass \(Expanded Edition\)](https://open.spotify.com/album/38L5GcyigNKgG0sfu0sJ9u) | 5:26 |
+| 36 | [Love Theme \(feat\. Kadhja Bonet\)](https://open.spotify.com/track/42yyhfzkfJIjNHSy1deT0A) | [Nicolas Godin](https://open.spotify.com/artist/313G7P4CxkVyQGNFfxNOpC), [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Concrete and Glass \(Expanded Edition\)](https://open.spotify.com/album/38L5GcyigNKgG0sfu0sJ9u) | 5:26 |
+| 37 | [We Forgot Love](https://open.spotify.com/track/5eJsZTCed61pw1mY753QTZ) | [Nicolas Godin](https://open.spotify.com/artist/313G7P4CxkVyQGNFfxNOpC), [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Concrete and Glass](https://open.spotify.com/album/3NOC4ce2g0iULPbC0hevQX) | 5:06 |
 | 38 | [Dear Gina](https://open.spotify.com/track/3GoL5HaRpCMpVrJhP1akfh) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Dear Gina](https://open.spotify.com/album/5eCcHgXBq66ckMzetu0VfJ) | 3:12 |
 | 39 | [JGS](https://open.spotify.com/track/0lYuxJG0W5ReSZ31j6Lnqv) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [JGS](https://open.spotify.com/album/09134EF46MKmsFGuFU4lZj) | 4:40 |
 | 40 | [Wake](https://open.spotify.com/track/3YujvmwqVRN7JDZbEXiOji) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Childqueen Outtakes](https://open.spotify.com/album/5DBp30tDVgskvi4q1ykiGp) | 5:14 |
 | 41 | [Zombie](https://open.spotify.com/track/7LE0A2BjH23iXlBVXzBNuU) | [Saint Bodhi](https://open.spotify.com/artist/6X7nWsfLVq8lo1qePztyu5) | [Mad World](https://open.spotify.com/album/55xeus9CHAn0fy4Jo6Xs2v) | 3:01 |
 
-Snapshot ID: `Mjc3MjQzOTQsMDAwMDAwMDA1YTExNzc0ZDMyODdmZjAwMDVhZmJlZGRlMWFkN2M3Nw==`
+Snapshot ID: `Mjc3MjU4MzQsMDAwMDAwMDA3YTNhZTZjODYwNDdjZDRhNDMyZGVmNzZlY2UxMzBmNA==`

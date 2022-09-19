@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vfpJ74tSuo.md) - [plain]
 
 > I woke up this morning… to the chilled sound of the Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,948 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,048 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vfpJ74tSuo.md) - [plain]
 | 21 | [Baby What You Want Me To Do](https://open.spotify.com/track/05oMNN5Rbv6rVqyFFG9uTl) | [Jimmy Reed](https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV) | [The Very Best of Jimmy Reed](https://open.spotify.com/album/2PMRy0eJABQCG5glccW4pk) | 2:24 |
 | 22 | [My Home Is In The Delta](https://open.spotify.com/track/5IMCtjbZEd5L22AeRNC4FI) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Folk Singer \(Expanded Edition\)](https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7) | 4:01 |
 | 23 | [Mojo Hand](https://open.spotify.com/track/41s9iG3fTuu32yBnmDLCcZ) | [Lightnin' Hopkins](https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE) | [Mojo Hand](https://open.spotify.com/album/0X0Z6M1sQQpSRs9UbqpJEo) | 2:59 |
-| 24 | [I Can Feel You Smiling](https://open.spotify.com/track/6xVr5ivengIkx4q4VacaEJ) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [I Am The Moon: IV\. Farewell](https://open.spotify.com/album/6hCN857vBAs2oN8aZQih2x) | 3:47 |
-| 25 | [Am I Wrong](https://open.spotify.com/track/3xoMRK8egNvtjrCEQieLko) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Martin Scorsese Presents The Blues: Keb' Mo'](https://open.spotify.com/album/1El1ZLtpLoUpQHjUdXtLxc) | 2:18 |
+| 24 | [Am I Wrong](https://open.spotify.com/track/3xoMRK8egNvtjrCEQieLko) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Martin Scorsese Presents The Blues: Keb' Mo'](https://open.spotify.com/album/1El1ZLtpLoUpQHjUdXtLxc) | 2:18 |
+| 25 | [I Can Feel You Smiling](https://open.spotify.com/track/6xVr5ivengIkx4q4VacaEJ) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [I Am The Moon: IV\. Farewell](https://open.spotify.com/album/6hCN857vBAs2oN8aZQih2x) | 3:47 |
 | 26 | [Jumper Hanging Out On the Line](https://open.spotify.com/track/5uErxUghBfF0UliaoLlFBj) | [R.L\. Burnside](https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip) | [Mississippi Blues](https://open.spotify.com/album/0xF8Z3nP5KdFtLfnfg49D6) | 2:32 |
 | 27 | [Coffee Blues](https://open.spotify.com/track/2azwzKd8xYex2PyJEyl8BX) | [Mississippi John Hurt](https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA) | [Rediscovered](https://open.spotify.com/album/7563JyVKfAPqonIxfTuU1p) | 3:46 |
 | 28 | [Six Blade Knife](https://open.spotify.com/track/7f8mgCngOGhoRNAmhN6GIo) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Dire Straits](https://open.spotify.com/album/4dKdxly4ji1vfl7sEYuqBe) | 4:13 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vfpJ74tSuo.md) - [plain]
 | 47 | [Every Morning](https://open.spotify.com/track/6WmwvYaVSod4whIXGWEvBR) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Keb' Mo'](https://open.spotify.com/album/09rC6HgLbuYl74OvGdJw6t) | 2:59 |
 | 48 | [For The Last Time \- Alternate Take 1](https://open.spotify.com/track/2gdpaGn0NrBoto2xWFH30O) | [Rory Gallagher](https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV) | [Rory Gallagher \(50th Anniversary Edition\)](https://open.spotify.com/album/6C418YFIg1MVKldv9rpS16) | 5:05 |
 | 49 | [Till the Real Thing Comes Along](https://open.spotify.com/track/63rsq6TwVfTp5NWTmBHhKf) | [Judy Henske](https://open.spotify.com/artist/3UtfXMhd36NSwHMvWYuE8A) | [High Flying Bird](https://open.spotify.com/album/1PKo6UvTCdxihIRNH5qLyA) | 3:07 |
-| 50 | [Born Of A Woman](https://open.spotify.com/track/6NMY2CP95XrD8ZkecH8IXA) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1), [Shaneeka Simon](https://open.spotify.com/artist/5Ppc0aChlO1gqw6s3yZNwN) | [Dear America](https://open.spotify.com/album/3lrysOZwArhHFtnI1JEBtZ) | 3:47 |
+| 50 | [Done Changed My Way of Living](https://open.spotify.com/track/1VpguOrCSVqF6UoxI2DsnO) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [The Natch'l Blues](https://open.spotify.com/album/6ySAyGtXqiqF3Vya9bIir2) | 7:03 |
 
-Snapshot ID: `MTY2MzAwMDc5MCwwMDAwMDAwMDk5MzMyMDA3ZTQwZTgzYjY4YjMzMjMzNzdiZDUzNDhj`
+Snapshot ID: `MTY2MzAwMDc5MCwwMDAwMDAwMDZhOTQyZmVjNWJhYzJjOTYwYmI0MTU1NjZiYzQ3MmZl`

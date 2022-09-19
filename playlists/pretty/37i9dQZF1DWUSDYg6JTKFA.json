@@ -1,12 +1,12 @@
 {
   "description": "In the storms of life, hold onto the promise of hope and love with this playlist and bring Him glory.",
-  "num_followers": 122721,
+  "num_followers": 122806,
   "original_name": "Hold Hope",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5NTUxNTA5NiwwMDAwMDAwMGVlOWIzMGMwYjY5MTc1NzFkYTk2YjdjNWY5Y2NkY2Ex",
+  "snapshot_id": "MTU5NTUxNTA5NiwwMDAwMDAwMDY1Y2I4Y2NmOWVmZDczNzMxMzYzNTFjOTAxNTNhZmZi",
   "tracks": [
     {
       "added_at": "2020-07-23 14:38:16",
@@ -263,6 +263,22 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
+        "name": "Don't Lose Hope",
+        "url": "https://open.spotify.com/album/3Us0eofAYq7tRuaH7A56i0"
+      },
+      "artists": [
+        {
+          "name": "Cochren & Co.",
+          "url": "https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4"
+        }
+      ],
+      "duration_ms": 205760,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/15eJjGIuCDEtF6ph4Hd3eR"
+    },
+    {
+      "added_at": "2020-07-23 14:38:16",
+      "album": {
         "name": "Fresh Start",
         "url": "https://open.spotify.com/album/0deQGdpl2LNu0o7s9wRVGk"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 254115,
       "name": "Springtime",
       "url": "https://open.spotify.com/track/0TmYlHDVP4gUTkUbl7AIsv"
-    },
-    {
-      "added_at": "2020-07-23 14:38:16",
-      "album": {
-        "name": "Don't Lose Hope",
-        "url": "https://open.spotify.com/album/3Us0eofAYq7tRuaH7A56i0"
-      },
-      "artists": [
-        {
-          "name": "Cochren & Co.",
-          "url": "https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4"
-        }
-      ],
-      "duration_ms": 205760,
-      "name": "One Day",
-      "url": "https://open.spotify.com/track/15eJjGIuCDEtF6ph4Hd3eR"
     },
     {
       "added_at": "2020-07-23 14:38:16",
@@ -775,22 +775,6 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
-        "name": "Hope In Front of Me",
-        "url": "https://open.spotify.com/album/0Bn0aAb7sjp09j9fgqNjCM"
-      },
-      "artists": [
-        {
-          "name": "Danny Gokey",
-          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
-        }
-      ],
-      "duration_ms": 217655,
-      "name": "Hope in Front of Me",
-      "url": "https://open.spotify.com/track/2t8NsMho4AegF1wMGxvgj5"
-    },
-    {
-      "added_at": "2020-07-23 14:38:16",
-      "album": {
         "name": "Followers",
         "url": "https://open.spotify.com/album/4Hjjqd2cPyD9K8TbSC9O6C"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 204800,
       "name": "I Have This Hope",
       "url": "https://open.spotify.com/track/5ELZpvTDGorz9BIE9zaBoZ"
+    },
+    {
+      "added_at": "2020-07-23 14:38:16",
+      "album": {
+        "name": "Hope In Front of Me",
+        "url": "https://open.spotify.com/album/0Bn0aAb7sjp09j9fgqNjCM"
+      },
+      "artists": [
+        {
+          "name": "Danny Gokey",
+          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
+        }
+      ],
+      "duration_ms": 217655,
+      "name": "Hope in Front of Me",
+      "url": "https://open.spotify.com/track/2t8NsMho4AegF1wMGxvgj5"
     },
     {
       "added_at": "2020-07-23 14:38:16",
@@ -935,22 +935,6 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/6pndQqpqNLi5Snk9qX43w9"
-      },
-      "artists": [
-        {
-          "name": "Danny Gokey",
-          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
-        }
-      ],
-      "duration_ms": 191013,
-      "name": "The Comeback",
-      "url": "https://open.spotify.com/track/68dlSBYa5sLmwjscN4nfhv"
-    },
-    {
-      "added_at": "2020-07-23 14:38:16",
-      "album": {
         "name": "I Will Follow",
         "url": "https://open.spotify.com/album/6bRMknojXPVfD1hCWUPB8V"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 175960,
       "name": "Good Fight",
       "url": "https://open.spotify.com/track/6ukP8PkZshgCEw8u9rPsho"
+    },
+    {
+      "added_at": "2020-07-23 14:38:16",
+      "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/6pndQqpqNLi5Snk9qX43w9"
+      },
+      "artists": [
+        {
+          "name": "Danny Gokey",
+          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
+        }
+      ],
+      "duration_ms": 191013,
+      "name": "The Comeback",
+      "url": "https://open.spotify.com/track/68dlSBYa5sLmwjscN4nfhv"
     },
     {
       "added_at": "2020-07-23 14:38:16",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
-        "name": "That Was Then, This Is Now",
-        "url": "https://open.spotify.com/album/1a2cVtWsamtbng2W0mgLPq"
-      },
-      "artists": [
-        {
-          "name": "Josh Wilson",
-          "url": "https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2"
-        }
-      ],
-      "duration_ms": 197880,
-      "name": "That Was Then, This Is Now",
-      "url": "https://open.spotify.com/track/3ji2WLLlpJmvvSOlAyqB6p"
-    },
-    {
-      "added_at": "2020-07-23 14:38:16",
-      "album": {
         "name": "Lead Us Back: Songs of Worship",
         "url": "https://open.spotify.com/album/0SgfcGHEntlBVfb3DOxkZw"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 238600,
       "name": "Your Words (feat. Harvest) (feat. Harvest)",
       "url": "https://open.spotify.com/track/4RQMYkHQrEiwvbKtlaW2w8"
+    },
+    {
+      "added_at": "2020-07-23 14:38:16",
+      "album": {
+        "name": "That Was Then, This Is Now",
+        "url": "https://open.spotify.com/album/1a2cVtWsamtbng2W0mgLPq"
+      },
+      "artists": [
+        {
+          "name": "Josh Wilson",
+          "url": "https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2"
+        }
+      ],
+      "duration_ms": 197880,
+      "name": "That Was Then, This Is Now",
+      "url": "https://open.spotify.com/track/3ji2WLLlpJmvvSOlAyqB6p"
     },
     {
       "added_at": "2020-07-23 14:38:16",

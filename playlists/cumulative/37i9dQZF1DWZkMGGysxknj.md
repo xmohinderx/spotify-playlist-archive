@@ -4,7 +4,7 @@
 
 > Café caliente, sillón blandito y la mejor lectura o compañía.
 
-231 songs - 13 hr 3 min - [published](https://open.spotify.com/playlist/7x6tkeswM5zsR8gwqcHjZe)
+232 songs - 13 hr 6 min - [published](https://open.spotify.com/playlist/7x6tkeswM5zsR8gwqcHjZe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,8 @@
 | [El Invento](https://open.spotify.com/track/15MrK18b57Reu75doUBMxb) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [El Invento](https://open.spotify.com/album/73UwOPqykgw5pYAVLfu8Zo) | 2:33 | 2021-07-16 | 2022-07-29 |
 | [El Invento](https://open.spotify.com/track/23CYKO5L1wUGng3TL37fq0) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Local Valley](https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m) | 2:33 | 2021-07-16 |  |
 | [Eleanor Rigby](https://open.spotify.com/track/6GHbyrCv7NaTozPaeyp2qS) | [Pomplamoose](https://open.spotify.com/artist/5dHfLBNU8zoypgKefzEB1c) | [Eleanor Rigby](https://open.spotify.com/album/5ojcCFWhnNyrEEs4WmlQ4I) | 2:42 | 2021-07-16 | 2022-07-29 |
-| [Eleanor Rigby](https://open.spotify.com/track/6ygX4sQWC4b4Ttv46b7Mx6) | [Pomplamoose](https://open.spotify.com/artist/5dHfLBNU8zoypgKefzEB1c) | [Eleanor Rigby](https://open.spotify.com/album/1mQwT2si5Tg8T3LAhPDdFQ) | 2:42 | 2021-07-16 |  |
+| [Eleanor Rigby](https://open.spotify.com/track/6ygX4sQWC4b4Ttv46b7Mx6) | [Pomplamoose](https://open.spotify.com/artist/5dHfLBNU8zoypgKefzEB1c) | [Eleanor Rigby](https://open.spotify.com/album/1mQwT2si5Tg8T3LAhPDdFQ) | 2:42 | 2021-07-16 | 2022-09-19 |
+| [Enjoy It While It Lasts](https://open.spotify.com/track/46aRt9ol4YgFYVpMzj6M9c) | [Easy Wanderlings](https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT) | [As Written in the Stars](https://open.spotify.com/album/4E1if5BmJTV3ryoNkVGFzm) | 3:00 | 2021-07-16 |  |
 | [Enjoy the Silence](https://open.spotify.com/track/3mIWmZK0iAxCsuReXgn7Ac) | [Veil](https://open.spotify.com/artist/2CZfm09pHpIVkVRW75kmHg) | [Acoustic Visions](https://open.spotify.com/album/0YMcgc8Y9BOkupPMOvP7xm) | 3:48 | 2021-07-16 | 2022-07-29 |
 | [Every Time You Go Away](https://open.spotify.com/track/5OtvDpNhxUde1hkAjvzSzE) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot), [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Spotify Singles](https://open.spotify.com/album/0dlIoNzi1FAca3VcyPFj5S) | 4:25 | 2021-07-16 |  |
 | [Everybody's Got To Learn Sometime](https://open.spotify.com/track/3sufVSY7Ox1CcT2nnnkIFI) | [Duo Estoril](https://open.spotify.com/artist/5Tr9wCxgz3fPsIYQIm9hcG) | [Duo Estoril](https://open.spotify.com/album/2PwCEWIQeZGai2Sad90MiU) | 2:44 | 2021-07-16 | 2022-07-29 |

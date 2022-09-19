@@ -1,12 +1,12 @@
 {
   "description": "Your music. Your faith. Your life. This is Pop for life!  Cover artist: The Young Escape",
-  "num_followers": 192851,
+  "num_followers": 192864,
   "original_name": "Pop for Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNTY0NTA2NSwwMDAwMDAwMGU2YWVjNDEzNzcwZTE5OTlmOWI0YTFjNGYzOWRhMWQy",
+  "snapshot_id": "MTYzNTY0NTA2NSwwMDAwMDAwMDRmNzVhOGEzODRjMjdkYmQwMGU4ZjU2ZTc5ZGY2MmI5",
   "tracks": [
     {
       "added_at": "2021-10-31 01:51:05",
@@ -403,8 +403,8 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "I'm Still Breathing",
-        "url": "https://open.spotify.com/album/3xselxcmppcZRrOD5DdVWb"
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/4uBvBJ24lgalgV3dVSqz1z"
       },
       "artists": [
         {
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op"
         }
       ],
-      "duration_ms": 210510,
-      "name": "I'm Still Breathing",
-      "url": "https://open.spotify.com/track/6saWL01T4ENiamU9HyBMmb"
+      "duration_ms": 191517,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/2mQQaBQd8EnDxFHU7Q1IAm"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -455,8 +455,8 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "Wildfire",
-        "url": "https://open.spotify.com/album/4uBvBJ24lgalgV3dVSqz1z"
+        "name": "I'm Still Breathing",
+        "url": "https://open.spotify.com/album/3xselxcmppcZRrOD5DdVWb"
       },
       "artists": [
         {
@@ -464,9 +464,29 @@
           "url": "https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op"
         }
       ],
-      "duration_ms": 191517,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/2mQQaBQd8EnDxFHU7Q1IAm"
+      "duration_ms": 210510,
+      "name": "I'm Still Breathing",
+      "url": "https://open.spotify.com/track/6saWL01T4ENiamU9HyBMmb"
+    },
+    {
+      "added_at": "2021-10-31 01:51:05",
+      "album": {
+        "name": "RICHLIN",
+        "url": "https://open.spotify.com/album/5GD8P8i4RfBRKbeUs59P0v"
+      },
+      "artists": [
+        {
+          "name": "RICHLIN",
+          "url": "https://open.spotify.com/artist/6BgeoVO7Fmnj5Oyzmw4jsb"
+        },
+        {
+          "name": "Ryan Stevenson",
+          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
+        }
+      ],
+      "duration_ms": 232400,
+      "name": "Love Like Thunder",
+      "url": "https://open.spotify.com/track/2MoXe7cv3H3J3Z9oSy514F"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -483,22 +503,6 @@
       "duration_ms": 195506,
       "name": "Every Step of the Way",
       "url": "https://open.spotify.com/track/7mNt8zWAJypW0Oy3QpzFaj"
-    },
-    {
-      "added_at": "2021-10-31 01:51:05",
-      "album": {
-        "name": "Godsend",
-        "url": "https://open.spotify.com/album/1fVyZLsUGyDJcqgRfq8wZ2"
-      },
-      "artists": [
-        {
-          "name": "Riley Clemmons",
-          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
-        }
-      ],
-      "duration_ms": 177920,
-      "name": "Headspace",
-      "url": "https://open.spotify.com/track/40eIrKcUvepNmdenanC0Hl"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -523,6 +527,22 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
+        "name": "Godsend",
+        "url": "https://open.spotify.com/album/1fVyZLsUGyDJcqgRfq8wZ2"
+      },
+      "artists": [
+        {
+          "name": "Riley Clemmons",
+          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
+        }
+      ],
+      "duration_ms": 177920,
+      "name": "Headspace",
+      "url": "https://open.spotify.com/track/40eIrKcUvepNmdenanC0Hl"
+    },
+    {
+      "added_at": "2021-10-31 01:51:05",
+      "album": {
         "name": "Nothing is Ordinary. Everything is Beautiful.",
         "url": "https://open.spotify.com/album/78lm2RBBywrBwkbxwIqL6P"
       },
@@ -535,26 +555,6 @@
       "duration_ms": 214866,
       "name": "Patient",
       "url": "https://open.spotify.com/track/1uUp4gXR9ZHiV4iHRbmQa3"
-    },
-    {
-      "added_at": "2021-10-31 01:51:05",
-      "album": {
-        "name": "RICHLIN",
-        "url": "https://open.spotify.com/album/5GD8P8i4RfBRKbeUs59P0v"
-      },
-      "artists": [
-        {
-          "name": "RICHLIN",
-          "url": "https://open.spotify.com/artist/6BgeoVO7Fmnj5Oyzmw4jsb"
-        },
-        {
-          "name": "Ryan Stevenson",
-          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
-        }
-      ],
-      "duration_ms": 232400,
-      "name": "Love Like Thunder",
-      "url": "https://open.spotify.com/track/2MoXe7cv3H3J3Z9oSy514F"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -651,22 +651,6 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "Nothing is Ordinary. Everything is Beautiful.",
-        "url": "https://open.spotify.com/album/78lm2RBBywrBwkbxwIqL6P"
-      },
-      "artists": [
-        {
-          "name": "Apollo LTD",
-          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
-        }
-      ],
-      "duration_ms": 182706,
-      "name": "Soldier On",
-      "url": "https://open.spotify.com/track/7dDP7XYJvV3hi87evYSwz9"
-    },
-    {
-      "added_at": "2021-10-31 01:51:05",
-      "album": {
         "name": "Better King",
         "url": "https://open.spotify.com/album/4cVPPMx15HZ4HHpsB7Vcf8"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 162546,
       "name": "This World Is Not My Home",
       "url": "https://open.spotify.com/track/4jw2RRaFiovU5CmQBAwzFt"
+    },
+    {
+      "added_at": "2021-10-31 01:51:05",
+      "album": {
+        "name": "OTHERSIDE",
+        "url": "https://open.spotify.com/album/6LYdb9nK82LJEwa9Zrr4YP"
+      },
+      "artists": [
+        {
+          "name": "Hulvey",
+          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
+        }
+      ],
+      "duration_ms": 194517,
+      "name": "OTHERSIDE",
+      "url": "https://open.spotify.com/track/7jj8WmWbs7yQ6d9qvR7A9u"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -703,6 +703,22 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
+        "name": "Nothing is Ordinary. Everything is Beautiful.",
+        "url": "https://open.spotify.com/album/78lm2RBBywrBwkbxwIqL6P"
+      },
+      "artists": [
+        {
+          "name": "Apollo LTD",
+          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
+        }
+      ],
+      "duration_ms": 182706,
+      "name": "Soldier On",
+      "url": "https://open.spotify.com/track/7dDP7XYJvV3hi87evYSwz9"
+    },
+    {
+      "added_at": "2021-10-31 01:51:05",
+      "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/1SyeWHgGQBdLSDEA79Qo38"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 200133,
       "name": "Free",
       "url": "https://open.spotify.com/track/2YKv2yIRlh1MEtKvw0woqO"
-    },
-    {
-      "added_at": "2021-10-31 01:51:05",
-      "album": {
-        "name": "OTHERSIDE",
-        "url": "https://open.spotify.com/album/6LYdb9nK82LJEwa9Zrr4YP"
-      },
-      "artists": [
-        {
-          "name": "Hulvey",
-          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
-        }
-      ],
-      "duration_ms": 194517,
-      "name": "OTHERSIDE",
-      "url": "https://open.spotify.com/track/7jj8WmWbs7yQ6d9qvR7A9u"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -815,18 +815,18 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "Just Like Heaven",
-        "url": "https://open.spotify.com/album/1ZQderlUe4quEPiuuZqADk"
+        "name": "Need",
+        "url": "https://open.spotify.com/album/4LvD9dnrTbni49Os2ibSPR"
       },
       "artists": [
         {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+          "name": "Ryan Ellis",
+          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
         }
       ],
-      "duration_ms": 336572,
-      "name": "Just Like Heaven",
-      "url": "https://open.spotify.com/track/79C3lXRjQvLCSPHeTfy52k"
+      "duration_ms": 202661,
+      "name": "Need",
+      "url": "https://open.spotify.com/track/2RfgkRJsO6BllEhl2d9C6s"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -871,18 +871,18 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "Need",
-        "url": "https://open.spotify.com/album/4LvD9dnrTbni49Os2ibSPR"
+        "name": "Just Like Heaven",
+        "url": "https://open.spotify.com/album/1ZQderlUe4quEPiuuZqADk"
       },
       "artists": [
         {
-          "name": "Ryan Ellis",
-          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
         }
       ],
-      "duration_ms": 202661,
-      "name": "Need",
-      "url": "https://open.spotify.com/track/2RfgkRJsO6BllEhl2d9C6s"
+      "duration_ms": 336572,
+      "name": "Just Like Heaven",
+      "url": "https://open.spotify.com/track/79C3lXRjQvLCSPHeTfy52k"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -907,22 +907,6 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "WILD LOVE",
-        "url": "https://open.spotify.com/album/6egEvDkcMBG9XDAsIvaOsE"
-      },
-      "artists": [
-        {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
-        }
-      ],
-      "duration_ms": 167499,
-      "name": "WILD LOVE",
-      "url": "https://open.spotify.com/track/6O3GXI34itpMqZbBYHNgoX"
-    },
-    {
-      "added_at": "2021-10-31 01:51:05",
-      "album": {
         "name": "High Low",
         "url": "https://open.spotify.com/album/4MruUzZBQyfIUpAGf5887Y"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 205328,
       "name": "High Low",
       "url": "https://open.spotify.com/track/6eFNET6WIbfwlzfnZXJgNr"
+    },
+    {
+      "added_at": "2021-10-31 01:51:05",
+      "album": {
+        "name": "WILD LOVE",
+        "url": "https://open.spotify.com/album/6egEvDkcMBG9XDAsIvaOsE"
+      },
+      "artists": [
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        }
+      ],
+      "duration_ms": 167499,
+      "name": "WILD LOVE",
+      "url": "https://open.spotify.com/track/6O3GXI34itpMqZbBYHNgoX"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -955,22 +955,6 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "All Of My Best Friends (Acoustic)",
-        "url": "https://open.spotify.com/album/4nPE5EwG89V0ZNTPUpm7OA"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
-        }
-      ],
-      "duration_ms": 293160,
-      "name": "Lord Send Revival - Acoustic",
-      "url": "https://open.spotify.com/track/13cY2FEHsAtgwJANN9kRKr"
-    },
-    {
-      "added_at": "2021-10-31 01:51:05",
-      "album": {
         "name": "Roses",
         "url": "https://open.spotify.com/album/6lhTeH73cwlgrdtOS4PXLF"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 191871,
       "name": "Roses",
       "url": "https://open.spotify.com/track/0PxGlcbHynkl6kd7zceA4T"
+    },
+    {
+      "added_at": "2021-10-31 01:51:05",
+      "album": {
+        "name": "All Of My Best Friends (Acoustic)",
+        "url": "https://open.spotify.com/album/4nPE5EwG89V0ZNTPUpm7OA"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        }
+      ],
+      "duration_ms": 293160,
+      "name": "Lord Send Revival - Acoustic",
+      "url": "https://open.spotify.com/track/13cY2FEHsAtgwJANN9kRKr"
     },
     {
       "added_at": "2021-10-31 01:51:05",

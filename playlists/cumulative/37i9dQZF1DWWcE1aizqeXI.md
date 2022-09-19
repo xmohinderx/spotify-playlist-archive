@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:0t9dGS12PMZmiJiZa9vpyk">DJ Sliink</a>'s favorite tracks\. Updated regularly\. Curated by DJ Sliink\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-44 songs - 2 hr 5 min - not published yet
+44 songs - 2 hr 5 min - [published](https://open.spotify.com/playlist/33MxYV25vT0lnGluNDmBL9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

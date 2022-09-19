@@ -4,7 +4,7 @@
 
 > Reimagined pop covers of your favorite songs\.  Cover: Sasha Alex Sloan
 
-318 songs - 18 hr 13 min - [published](https://open.spotify.com/playlist/0YqLmoULLKOfYm2xjQ8vjJ)
+319 songs - 18 hr 17 min - [published](https://open.spotify.com/playlist/0YqLmoULLKOfYm2xjQ8vjJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Fix You](https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Fix You](https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC) | 2:21 | 2021-12-17 |  |
 | [Forever Young](https://open.spotify.com/track/7IcdktV2A60dCm8nQpm6JN) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Forever Young \(From The McDonald's Christmas Advert 2020\)](https://open.spotify.com/album/1sqgouoD6Dip9KCPMECQuw) | 2:58 | 2021-12-17 |  |
 | [Girl Crush \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/4YutJsNwBBInE8vemufpQ8) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Spotify Singles](https://open.spotify.com/album/7neiWgd56IO7vi2cRUP8Tj) | 4:03 | 2021-12-17 |  |
+| [gives you hell](https://open.spotify.com/track/6ur0EUPKCb3YcwqCo04EGF) | [Eva Snyder](https://open.spotify.com/artist/6qwzV9a2lGZLfTmXXhkP4l) | [gives you hell](https://open.spotify.com/album/3vcwsAuQDHilvVdPS8HRwS) | 3:28 | 2022-09-19 |  |
 | [glimpse of us](https://open.spotify.com/track/2ssJdfI0u93JYpIrxDmxE6) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [glimpse of us](https://open.spotify.com/album/3O5iR8V0ZK340xpIIcUCVQ) | 3:42 | 2022-08-12 |  |
 | [Go Your Own Way](https://open.spotify.com/track/0DLVUfWdF4MptlOeYQsRkk) | [Cimo Fränkel](https://open.spotify.com/artist/76ftqv1cm1EkrgWiC1pUUV) | [Go Your Own Way](https://open.spotify.com/album/23adg4MHzuH1gjIp6COp5h) | 2:21 | 2022-03-25 | 2022-04-15 |
 | [God Is A Woman \- Yours Truly: 2018](https://open.spotify.com/track/4LnBzQTbIJ3rCdXxs44R9S) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [God Is A Woman \(Yours Truly: 2018\)](https://open.spotify.com/album/3hrJkq3kDZhsUhFq5eMxbJ) | 3:37 | 2021-12-17 |  |

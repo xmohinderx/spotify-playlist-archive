@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2cYklA89lm.md) - [plain]
 
 > Fast cars, zombie love, and psychobilly freakouts!
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,874 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,965 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2cYklA89lm.md) - [plain]
 | 42 | [Ravenous](https://open.spotify.com/track/0bE5kTNR60mf4dvJPqJCf3) | [Gutter Demons](https://open.spotify.com/artist/22aCMV8ydQjMaTi8d5hUdf) | [No God, No Ghost, No Saints](https://open.spotify.com/album/2fbrbnqy3C8R1hjUzufsdA) | 3:32 |
 | 43 | [Johnny Got A Boom Boom](https://open.spotify.com/track/1LRCCvucMksncuUk7h7g9e) | [Imelda May](https://open.spotify.com/artist/6AnjHMqEAps8VJdHU8RykH) | [Love Tattoo](https://open.spotify.com/album/16s0XOdNFDoBnhY81QYY3H) | 2:59 |
 | 44 | [In the Middle of the Night](https://open.spotify.com/track/1PV7W1c2eQzxgPepe0yFnO) | [Top Cats](https://open.spotify.com/artist/6HUvBmbZkhq6uGfpRKZ1Zy) | [In the Middle of the Night](https://open.spotify.com/album/76Q0H0ikqxqaEl23HI5MBx) | 3:07 |
-| 45 | [Doctors & Churches](https://open.spotify.com/track/57C9ovU3HVtgSdHIjcnD6g) | [Miss Vincent](https://open.spotify.com/artist/2yvzGtFdv8dlpBqErEXPXx) | [Doctors & Churches](https://open.spotify.com/album/78ClJ6GN8613bqLx0BThJ5) | 3:30 |
-| 46 | [Army of Darkness](https://open.spotify.com/track/0ghMtg6NiAS0fsl3VvzN03) | [Drunktank](https://open.spotify.com/artist/2Gx4sbajIQU6u49ZsiTs3c) | [Return of the Infamous Four](https://open.spotify.com/album/4ePW478pYVQzQN8W4dXp9l) | 3:31 |
-| 47 | [Not of This Earth](https://open.spotify.com/track/4TLiQQGJfY8ZA9dEw6ZvkG) | [Bloody Hammers](https://open.spotify.com/artist/6MC1i9hToT9dRxdN4hIHEW) | [Songs of Unspeakable Terror](https://open.spotify.com/album/18WFSTsaFEFNG9P5jM5gxM) | 3:22 |
+| 45 | [Army of Darkness](https://open.spotify.com/track/0ghMtg6NiAS0fsl3VvzN03) | [Drunktank](https://open.spotify.com/artist/2Gx4sbajIQU6u49ZsiTs3c) | [Return of the Infamous Four](https://open.spotify.com/album/4ePW478pYVQzQN8W4dXp9l) | 3:31 |
+| 46 | [Doctors & Churches](https://open.spotify.com/track/57C9ovU3HVtgSdHIjcnD6g) | [Miss Vincent](https://open.spotify.com/artist/2yvzGtFdv8dlpBqErEXPXx) | [Doctors & Churches](https://open.spotify.com/album/78ClJ6GN8613bqLx0BThJ5) | 3:30 |
+| 47 | [King of the Waves](https://open.spotify.com/track/2H9eYf6J7fRcgOm4MJrpfI) | [Johnny and the Rotten](https://open.spotify.com/artist/0UxpQSNKdoqA1TOdFnAcng) | [Down the Rabbit Hole](https://open.spotify.com/album/5bRbNwr5O2YUwOYuxf3Fq7) | 3:35 |
 | 48 | [When Oskar Fische Comes to Town](https://open.spotify.com/track/15KxRLHTkff3ztQDLws3Rj) | [Sarah and the Safe Word](https://open.spotify.com/artist/4YguD206MPuadAlhnGppL3) | [Good Gracious! Bad People.](https://open.spotify.com/album/14EbrCLMvjsmasRxNMy6r4) | 3:11 |
-| 49 | [King of the Waves](https://open.spotify.com/track/2H9eYf6J7fRcgOm4MJrpfI) | [Johnny and the Rotten](https://open.spotify.com/artist/0UxpQSNKdoqA1TOdFnAcng) | [Down the Rabbit Hole](https://open.spotify.com/album/5bRbNwr5O2YUwOYuxf3Fq7) | 3:35 |
+| 49 | [Not of This Earth](https://open.spotify.com/track/4TLiQQGJfY8ZA9dEw6ZvkG) | [Bloody Hammers](https://open.spotify.com/artist/6MC1i9hToT9dRxdN4hIHEW) | [Songs of Unspeakable Terror](https://open.spotify.com/album/18WFSTsaFEFNG9P5jM5gxM) | 3:22 |
 | 50 | [Black Jack Death Bet](https://open.spotify.com/track/6LH2ljS7gXAhWA7o6qoCLz) | [The Brains](https://open.spotify.com/artist/0ujJcXFGHsPI1zGj4UoTKH) | [No Brain, No Pain](https://open.spotify.com/album/2rZ5qNRkmfs9bTaz0bx7Az) | 3:05 |
 
-Snapshot ID: `MTYxMDgxNTY3NSwwMDAwMDAwMDczYTA3ZTNmYzg4ZTU0MTFjNjFjMmViZjg5YjFkMTY5`
+Snapshot ID: `MTYxMDgxNTY3NSwwMDAwMDAwMDA5MDhhNDM1ZDNjYTNhODk4ODdhZjJlMDVhY2YyZTIx`

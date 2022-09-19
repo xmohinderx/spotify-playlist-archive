@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-17",
+      "date_removed": null,
       "duration_ms": 197067,
       "name": "29 Ways - Live 1969",
       "url": "https://open.spotify.com/track/2ya4PKaywBGAyIABt6LblA"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-25",
+      "date_removed": null,
       "duration_ms": 150269,
       "name": "A New Leaf",
       "url": "https://open.spotify.com/track/6EdBagK4kqITdw34mBzTof"
@@ -341,7 +341,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 306506,
       "name": "Decoration Day",
       "url": "https://open.spotify.com/track/3tgTV8IXWB2uAgNu55yuE8"
@@ -377,7 +377,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 133618,
       "name": "Dimples",
       "url": "https://open.spotify.com/track/0zVx5Ao0pMlrZti8WVsbOx"
@@ -435,7 +435,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 181946,
       "name": "Hobo Blues",
       "url": "https://open.spotify.com/track/6SVdBlIXlYwqcbYZSfjJjy"
@@ -453,7 +453,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 177680,
       "name": "Hoogie Boogie",
       "url": "https://open.spotify.com/track/6phCqRAEwlmHpRsCO76ukL"
@@ -529,7 +529,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-17",
+      "date_removed": null,
       "duration_ms": 239830,
       "name": "I Do Believe - Live 1969",
       "url": "https://open.spotify.com/track/2HlaS8TVh4PvZVc4BksWi0"
@@ -609,7 +609,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 145026,
       "name": "I Need Some Money",
       "url": "https://open.spotify.com/track/6vKjJqK3XRQsRn91dsUWAY"
@@ -699,7 +699,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 208732,
       "name": "It Serves Me Right to Suffer - Remastered",
       "url": "https://open.spotify.com/track/0fzwnjua86MZYaQR9BkOyD"
@@ -913,7 +913,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-18",
+      "date_removed": null,
       "duration_ms": 281440,
       "name": "Mr. Lucky",
       "url": "https://open.spotify.com/track/3MvJHgY3n4VSb4GEKYUlLl"
@@ -949,7 +949,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-11",
+      "date_removed": null,
       "duration_ms": 153293,
       "name": "My Own Blues",
       "url": "https://open.spotify.com/track/0GlMkhYvq1usAq45nFOh7o"
@@ -1011,7 +1011,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-18",
+      "date_removed": null,
       "duration_ms": 147066,
       "name": "No Shoes",
       "url": "https://open.spotify.com/track/5Zcg5ltKPWOaxvwtRTBk4S"
@@ -1108,6 +1108,24 @@
     },
     {
       "album": {
+        "name": "Festival International De Jazz (Antibes Live 1969)",
+        "url": "https://open.spotify.com/album/57ZYLAwaLjSe9SmBMWjq5u"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169247,
+      "name": "She Got A Thing Goin' On - Live 1969",
+      "url": "https://open.spotify.com/track/6dLmMQrspbi64ZRqKntAeK"
+    },
+    {
+      "album": {
         "name": "The Real Folk Blues",
         "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
       },
@@ -1137,7 +1155,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 157360,
       "name": "Strike Blues",
       "url": "https://open.spotify.com/track/6MTy1uTvqjLqnYlKsDeKI5"
@@ -1271,7 +1289,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-15",
+      "date_removed": null,
       "duration_ms": 3250760,
       "name": "The Wanderings of The Avener - Continuous Mix",
       "url": "https://open.spotify.com/track/5FH2dK89RFAs293DDuV31z"
@@ -1415,7 +1433,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 214000,
       "name": "Wednesday Evenin' Blues",
       "url": "https://open.spotify.com/track/3tXhd4rrp98AeFXsChONXB"

@@ -1,12 +1,12 @@
 {
   "description": "Get up. Stand up. Be the revolution.",
-  "num_followers": 161480,
+  "num_followers": 161539,
   "original_name": "Rise Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjY0ODA2MCwwMDAwMDAwMDM0NjVlZjk1NTc2MjFiYTA4NDJmNWVhYTUxMjdjYzNl",
+  "snapshot_id": "MTY1NjY0ODA2MCwwMDAwMDAwMGU2NzQxNTc4NjI1NWIwNDY0YmZkNTdjY2Y1MzI3MTYw",
   "tracks": [
     {
       "added_at": "2022-07-01 04:01:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "You Will Not Be Saved",
-        "url": "https://open.spotify.com/album/5Fv7nPEq5xHavK28lt8K5F"
-      },
-      "artists": [
-        {
-          "name": "Zero 9:36",
-          "url": "https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0"
-        }
-      ],
-      "duration_ms": 175586,
-      "name": "WWYDF",
-      "url": "https://open.spotify.com/track/52jC5QLj1sazMXPIxl68l0"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
         "name": "Loner",
         "url": "https://open.spotify.com/album/08iSi4GIyoDt2zSvNyru7M"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 215200,
       "name": "Middle Fingers",
       "url": "https://open.spotify.com/track/1RgvTl4vQN4qECtnO1guEp"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "You Will Not Be Saved",
+        "url": "https://open.spotify.com/album/5Fv7nPEq5xHavK28lt8K5F"
+      },
+      "artists": [
+        {
+          "name": "Zero 9:36",
+          "url": "https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0"
+        }
+      ],
+      "duration_ms": 175586,
+      "name": "WWYDF",
+      "url": "https://open.spotify.com/track/52jC5QLj1sazMXPIxl68l0"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "21st Century Liability",
-        "url": "https://open.spotify.com/album/1p64R5tjTpC2oH24YLdQgq"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 189262,
-      "name": "21st Century Liability",
-      "url": "https://open.spotify.com/track/5tJd3cKHXsDlSq6vIV4Tgj"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
         "name": "Fear",
         "url": "https://open.spotify.com/album/2fTbjcKyLjNYISmeXNMrn8"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 204240,
       "name": "Riot!",
       "url": "https://open.spotify.com/track/6dtEw6NRpYgHJ5PwnU5U1k"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "21st Century Liability",
+        "url": "https://open.spotify.com/album/1p64R5tjTpC2oH24YLdQgq"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 189262,
+      "name": "21st Century Liability",
+      "url": "https://open.spotify.com/track/5tJd3cKHXsDlSq6vIV4Tgj"
     },
     {
       "added_at": "2022-07-01 04:01:00",

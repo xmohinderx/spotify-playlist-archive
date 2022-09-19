@@ -1,12 +1,12 @@
 {
   "description": "Late night cool and the sound of smooth blues.",
-  "num_followers": 50455,
+  "num_followers": 50597,
   "original_name": "Midnight Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzAwMDc5NSwwMDAwMDAwMGI1YmY5ZmZmYWE3MTU0ZGI4NTQ1OGI2ZDgxY2IzOTVj",
+  "snapshot_id": "MTY2MzAwMDc5NSwwMDAwMDAwMGNhMjI3YzMyYWQzNGJmOGFiYTQwMjhlOTgxZjhlMmRm",
   "tracks": [
     {
       "added_at": "2022-09-12 16:39:55",
@@ -355,6 +355,22 @@
     {
       "added_at": "2022-09-12 16:39:55",
       "album": {
+        "name": "Damn Right, I've Got The Blues",
+        "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 418880,
+      "name": "Rememberin' Stevie",
+      "url": "https://open.spotify.com/track/4LGjbJo0qtnuL8O5x7NbkT"
+    },
+    {
+      "added_at": "2022-09-12 16:39:55",
+      "album": {
         "name": "Roll Away (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0IShhCcX0GjjkTGGq6BoCa"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 349893,
       "name": "Gotta Leave",
       "url": "https://open.spotify.com/track/6Wz65CyzyH5lY3AjJNIqZZ"
-    },
-    {
-      "added_at": "2022-09-12 16:39:55",
-      "album": {
-        "name": "Damn Right, I've Got The Blues",
-        "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 418880,
-      "name": "Rememberin' Stevie",
-      "url": "https://open.spotify.com/track/4LGjbJo0qtnuL8O5x7NbkT"
     },
     {
       "added_at": "2022-09-12 16:39:55",

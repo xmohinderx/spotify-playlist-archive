@@ -4,7 +4,7 @@
 
 > Les podcasts que vous devriez avoir sur votre RADAR : Central Podcast, Inspiration Créative et  et Mamie dans les orties.
 
-0 song - 0 sec - not published yet
+0 song - 0 sec - [published](https://open.spotify.com/playlist/3yJs8edPgW09J1Dxz1iXuC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

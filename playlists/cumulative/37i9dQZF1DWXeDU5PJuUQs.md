@@ -4,7 +4,7 @@
 
 > Unas buenas cumbias con el calor de la gente! <br/>Foto: Pablo Lescano & El Mago.
 
-114 songs - 7 hr 42 min - [published](https://open.spotify.com/playlist/2wJPFQSijKKEawsi9DOknr)
+115 songs - 7 hr 46 min - [published](https://open.spotify.com/playlist/2wJPFQSijKKEawsi9DOknr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Amiga Traidora \- En Vivo](https://open.spotify.com/track/7CGJrAl10qYGJo4cOC9xuM) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [Amiga Traidora \(En Vivo\)](https://open.spotify.com/album/1GPlgIs9LniORYNJYlYitd) | 3:56 | 2021-12-10 |  |
 | [Amor \(Ft\. Mon Laferte\) \- MTV Unplugged](https://open.spotify.com/track/1QjfU3jkGInap7Vm9lVJIQ) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Fiesta Nacional \(Mtv Unplugged\)](https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7) | 5:12 | 2021-12-10 |  |
 | [Amor de Papel \- En Vivo](https://open.spotify.com/track/1FFFfPx7oO3909DZm51yOS) | [El Pepo](https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25) | [En Vivo en Pasión 2018](https://open.spotify.com/album/11aXTkgfRtDuNKGDpS608U) | 2:19 | 2021-12-10 | 2022-07-28 |
-| [Amor de Papel \- En Vivo](https://open.spotify.com/track/2Y2BYPVVTKGqlx5FRFZ8HZ) | [El Pepo](https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25) | [En Vivo en Pasión 2018](https://open.spotify.com/album/7yQk4r7sdAn2lJ11C8Gskc) | 2:19 | 2022-08-26 |  |
+| [Amor de Papel \- En Vivo](https://open.spotify.com/track/2Y2BYPVVTKGqlx5FRFZ8HZ) | [El Pepo](https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25) | [En Vivo en Pasión 2018](https://open.spotify.com/album/7yQk4r7sdAn2lJ11C8Gskc) | 2:19 | 2022-08-26 | 2022-09-19 |
 | [Amor Sin Fronteras](https://open.spotify.com/track/6xXAMSAUOuVpmwgwBNuzfQ) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [10 Años Movistar Arena](https://open.spotify.com/album/0a08iXh2r7gh0BmS2ijuI4) | 4:03 | 2022-07-15 |  |
 | [Amor Sin Fronteras \(En Vivo Movistar Arena Santiago, Chile\)](https://open.spotify.com/track/3R9DduZt1LR0yVrevy2mRE) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [10 Años Santaferia \(En Vivo Movistar Arena Santiago, Chile\)](https://open.spotify.com/album/0Ue9qza4OSxJXFVooMjhnq) | 4:03 | 2021-12-10 | 2022-07-29 |
 | [Atrapado en Tus Redes / En Este Mundo / La Que Me Pudo Enamorar/ Amor, Amor](https://open.spotify.com/track/3CQTlvddBStyQqsChwzpvc) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [En Vivo en el Teatro](https://open.spotify.com/album/1vvB4ZiqQrtrt0xBrh96qW) | 7:42 | 2022-01-03 | 2022-07-27 |
@@ -42,6 +42,7 @@
 | [Fiera Inquieta / Tu Oportunidad / Alguien Que una Vez Ame \- En Vivo](https://open.spotify.com/track/7jyxq4y5HiJ6jfYsGGs5k5) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [En Vivo en el Gran Rex](https://open.spotify.com/album/7gAMypAPwm97SxVNLVBooy) | 4:57 | 2021-12-10 | 2022-07-28 |
 | [Gordo Rata \- En Vivo](https://open.spotify.com/track/1khfuo78lkXHfbohSTI5Oy) | [Mala Fama](https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B), [Dante Spinetta](https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC) | [Gordo Rata \(En Vivo\)](https://open.spotify.com/album/5th02ukwk1IHBNaaLqXDqO) | 3:40 | 2022-07-15 |  |
 | [Gordo Rata \- En Vivo](https://open.spotify.com/track/5z5JQRzM2xqwgyiIScY3pW) | [Mala Fama](https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B), [Dante Spinetta](https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC) | [Gordo Rata \(En Vivo\)](https://open.spotify.com/album/16T2Dow87fIOSsP4m311pg) | 3:40 | 2021-12-10 | 2022-07-29 |
+| [Hacela de Noche / Nacido para Geder \(En Vivo\)](https://open.spotify.com/track/7v6TLyj3SaYd9qBN0QebGK) | [El Pepo](https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25), [La Superbanda Gedienta](https://open.spotify.com/artist/2DEF6eHAXJwZ0wjZRcmNw1) | [Hacela de Noche / Nacido para Geder](https://open.spotify.com/album/5S8ieLH6FQeggv4zwa1eeF) | 3:38 | 2022-08-26 |  |
 | [Hacela de Noche / Nacido para Geder \- En Vivo en Tropitango](https://open.spotify.com/track/2iNKr6J2h2iE0wOPbOqQEK) | [El Pepo](https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25) | [Hacela de Noche / Nacido para Geder \(En Vivo en Tropitango\)](https://open.spotify.com/album/51j6588xhcDwtGBH7IAoDQ) | 3:38 | 2022-01-03 | 2022-07-21 |
 | [Haciendo Nada \(En Vivo Movistar Arena Santiago, Chile\)](https://open.spotify.com/track/4QZ9cwXcaMSLI4pBlkNWc8) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [10 Años Santaferia \(En Vivo Movistar Arena Santiago, Chile\)](https://open.spotify.com/album/0Ue9qza4OSxJXFVooMjhnq) | 4:17 | 2022-01-03 | 2022-07-14 |
 | [Hawai / Vida de Rico \- Live Session](https://open.spotify.com/track/55PpTrstgX5l4CpJIjm34I) | [Commanche](https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu) | [Hawai / Vida de Rico \(Live Session\)](https://open.spotify.com/album/2Z7mjYtgS9vVh6u8yz0D3C) | 2:46 | 2022-02-18 | 2022-07-25 |

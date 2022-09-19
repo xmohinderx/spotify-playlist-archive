@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 
 > Music from “BanG Dream! “ series! 次世代ガールズバンドプロジェクト『BanG Dream!（バンドリ！）』公式プレイリスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,181 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,231 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 | 37 | [Blessing Chord](https://open.spotify.com/track/2q6DCS4KiXsi9Uq0qDIRvP) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [ZEAL of proud](https://open.spotify.com/album/7J7hJQW7POnSWG7FUrSx4J) | 4:37 |
 | 38 | [Hello! Wink!](https://open.spotify.com/track/4ekwokxbqpykXfKKckzeRA) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Breakthrough!](https://open.spotify.com/album/5ZGEKyT4SB4U4cXbQmhngy) | 4:40 |
 | 39 | [優勝](https://open.spotify.com/track/27VXRcYHf59cItmZyCfQPQ) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY), [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [優勝](https://open.spotify.com/album/3MC0ieKmwAVeSQVKqi0Twc) | 4:31 |
-| 40 | [A Distant Heartbeat](https://open.spotify.com/track/01hHmEBYk9oQClRa6A81HC) | [山吹沙綾\(CV.大橋彩香\)](https://open.spotify.com/artist/6JnXnlFTlsvXctXZiWa8fy) | [A Distant Heartbeat](https://open.spotify.com/album/1tZtuwJ2Onp8AnRWR2LQjR) | 4:00 |
+| 40 | [Chocolate Bass Recipe](https://open.spotify.com/track/3Uu3VQnOUjhLRGx72poDb6) | [牛込りみ\(CV.西本りみ\)](https://open.spotify.com/artist/5WyWRCcDLl2MHHRxUk1tjG) | [Chocolate Bass Recipe](https://open.spotify.com/album/2Ek51ItxeKaV8GQUr9LsjH) | 4:26 |
 | 41 | [Prelude to Gold](https://open.spotify.com/track/0Rbgngwzqoshr5LpGVZ7xB) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [Daylight](https://open.spotify.com/album/0eFR8VfRxxb8NxnZVn8HM0) | 4:30 |
-| 42 | [Chocolate Bass Recipe](https://open.spotify.com/track/3Uu3VQnOUjhLRGx72poDb6) | [牛込りみ\(CV.西本りみ\)](https://open.spotify.com/artist/5WyWRCcDLl2MHHRxUk1tjG) | [Chocolate Bass Recipe](https://open.spotify.com/album/2Ek51ItxeKaV8GQUr9LsjH) | 4:26 |
+| 42 | [A Distant Heartbeat](https://open.spotify.com/track/01hHmEBYk9oQClRa6A81HC) | [山吹沙綾\(CV.大橋彩香\)](https://open.spotify.com/artist/6JnXnlFTlsvXctXZiWa8fy) | [A Distant Heartbeat](https://open.spotify.com/album/1tZtuwJ2Onp8AnRWR2LQjR) | 4:00 |
 | 43 | [Blazing Bonfire!](https://open.spotify.com/track/4A0i8dTImNzelppte1hNsm) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [Domination to world](https://open.spotify.com/album/2VJQX8yK6XNNmuQ1RhD5T2) | 3:44 |
 | 44 | [Y.O.L.O!!!!!](https://open.spotify.com/track/6U3agujpZILhEyo0Esjy5y) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [ONE OF US](https://open.spotify.com/album/7hG6dWwbHdovFzMlP6BJ0e) | 4:31 |
 | 45 | [On Your New Journey \- Acoustic Ver.](https://open.spotify.com/track/7bQ5CkzVlHwtopBCxrwXBp) | [花園たえ\(CV.大塚紗英\)](https://open.spotify.com/artist/3m7Y1adYVPRrEcAFffxV7Q) | [Hanazono Electric Guitar!!!](https://open.spotify.com/album/53BaJSVpvAGh6QiuefarPe) | 4:53 |
 | 46 | [glee glee glee!](https://open.spotify.com/track/4JGA3qbiGKjOpV2THH1vSD) | [Glitter\*Green](https://open.spotify.com/artist/2sheZhJBCHLVlenoXp72Jz) | [Don't be afraid!](https://open.spotify.com/album/2z4rn5CogIc1wieoxjKHvu) | 3:31 |
 | 47 | [Doki\-Doki Sing Out!](https://open.spotify.com/track/07Px1iST5Djx5zpnpG8f5B) | [戸山香澄\(CAST:愛美\)](https://open.spotify.com/artist/4WxWVilaHHB9S5yMmo5lir) | [Doki\-Doki Sing Out!](https://open.spotify.com/album/7C7Kxyra0SlTUPtcO6k1tW) | 4:09 |
 | 48 | [Summer Skies & Sun! Sun! Seven! \- Acoustic Ver.](https://open.spotify.com/track/58WIbtANgOd9wK4c7mv3KZ) | [市ヶ谷有咲\(CV.伊藤彩沙\)](https://open.spotify.com/artist/42iK1LthFSToAk8siJWOry) | [I\-I Never Said Love!](https://open.spotify.com/album/47vhSZQmJN0WyMaig29Zls) | 4:55 |
-| 49 | [Yes! BanG Dream! \- Acoustic Ver.](https://open.spotify.com/track/483gWlMHuZA8T1Vp5NUtJn) | [牛込りみ\(CV.西本りみ\)](https://open.spotify.com/artist/5WyWRCcDLl2MHHRxUk1tjG) | [Chocolate Bass Recipe](https://open.spotify.com/album/2Ek51ItxeKaV8GQUr9LsjH) | 5:04 |
-| 50 | [Star Beat! \- Acoustic Ver.](https://open.spotify.com/track/4TAFUKOpiDp7a3iDa1xyY2) | [山吹沙綾\(CV.大橋彩香\)](https://open.spotify.com/artist/6JnXnlFTlsvXctXZiWa8fy) | [A Distant Heartbeat](https://open.spotify.com/album/1tZtuwJ2Onp8AnRWR2LQjR) | 5:22 |
+| 49 | [Star Beat! \- Acoustic Ver.](https://open.spotify.com/track/4TAFUKOpiDp7a3iDa1xyY2) | [山吹沙綾\(CV.大橋彩香\)](https://open.spotify.com/artist/6JnXnlFTlsvXctXZiWa8fy) | [A Distant Heartbeat](https://open.spotify.com/album/1tZtuwJ2Onp8AnRWR2LQjR) | 5:22 |
+| 50 | [Yes! BanG Dream! \- Acoustic Ver.](https://open.spotify.com/track/483gWlMHuZA8T1Vp5NUtJn) | [牛込りみ\(CV.西本りみ\)](https://open.spotify.com/artist/5WyWRCcDLl2MHHRxUk1tjG) | [Chocolate Bass Recipe](https://open.spotify.com/album/2Ek51ItxeKaV8GQUr9LsjH) | 5:04 |
 
-Snapshot ID: `MTY2MTg3NTc2OCwwMDAwMDAwMGYzZjI5MmE1MjUyNzE3ZDUwNDg0NTdmMmNkOTFjNzE2`
+Snapshot ID: `MTY2MTg3NTc2OCwwMDAwMDAwMGNhNGEyNGM3OGI5NmM2ZTZmMDhlODViY2EzZjgzNDky`

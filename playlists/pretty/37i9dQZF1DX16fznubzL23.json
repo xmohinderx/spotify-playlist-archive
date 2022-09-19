@@ -1,12 +1,12 @@
 {
   "description": "For the pain, tears and heartbreak.",
-  "num_followers": 3035,
+  "num_followers": 3064,
   "original_name": "End in Tears ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTUwNjkwNywwMDAwMDAwMDM4ZmMwYTM4YTUwZGU4ZTc2MTdiZDQ4NDk0YWRkYjJl",
+  "snapshot_id": "MTY2MTUwNjkwNywwMDAwMDAwMDdmNmY0ZTcxMGJmODQxOGIzMzQzOTliZDhjZGZmZjZh",
   "tracks": [
     {
       "added_at": "2022-02-11 09:00:57",
@@ -201,22 +201,6 @@
       "url": "https://open.spotify.com/track/4d8eyF77ZplwhOSj1rqink"
     },
     {
-      "added_at": "2022-04-28 23:11:00",
-      "album": {
-        "name": "Lie Again",
-        "url": "https://open.spotify.com/album/11q4Tt1RzwrFzF2Vddc2yO"
-      },
-      "artists": [
-        {
-          "name": "Giveon",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        }
-      ],
-      "duration_ms": 187027,
-      "name": "Lie Again",
-      "url": "https://open.spotify.com/track/6LL5S3DGrUJ6cZRuDefguP"
-    },
-    {
       "added_at": "2022-06-17 07:50:47",
       "album": {
         "name": "Certified Loner (No Competition)",
@@ -231,6 +215,22 @@
       "duration_ms": 165000,
       "name": "Certified Loner (No Competition)",
       "url": "https://open.spotify.com/track/6NKuW3yaNXtloGw1RB8WUi"
+    },
+    {
+      "added_at": "2022-04-28 23:11:00",
+      "album": {
+        "name": "Lie Again",
+        "url": "https://open.spotify.com/album/11q4Tt1RzwrFzF2Vddc2yO"
+      },
+      "artists": [
+        {
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 187027,
+      "name": "Lie Again",
+      "url": "https://open.spotify.com/track/6LL5S3DGrUJ6cZRuDefguP"
     },
     {
       "added_at": "2022-06-24 06:18:37",
@@ -759,22 +759,6 @@
     {
       "added_at": "2022-02-11 09:00:57",
       "album": {
-        "name": "APOLLO",
-        "url": "https://open.spotify.com/album/6HdrMYu33mRMYPEDB8MbPq"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Dreamer",
-      "url": "https://open.spotify.com/track/4HxlXzXwDyhMqxUHCXYD79"
-    },
-    {
-      "added_at": "2022-02-11 09:00:57",
-      "album": {
         "name": "Expressions",
         "url": "https://open.spotify.com/album/7AR95iSKAqvXoToRDbWQNX"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 320028,
       "name": "Olufunmi",
       "url": "https://open.spotify.com/track/2legF0L9V2l1LHsHl5QZWW"
+    },
+    {
+      "added_at": "2022-02-11 09:00:57",
+      "album": {
+        "name": "APOLLO",
+        "url": "https://open.spotify.com/album/6HdrMYu33mRMYPEDB8MbPq"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/4HxlXzXwDyhMqxUHCXYD79"
     },
     {
       "added_at": "2022-03-18 08:25:46",
@@ -827,22 +827,6 @@
     {
       "added_at": "2022-02-11 09:00:57",
       "album": {
-        "name": "Boo of the Booless",
-        "url": "https://open.spotify.com/album/4BguuTkeDiuE2Iq4T6iM33"
-      },
-      "artists": [
-        {
-          "name": "Chike",
-          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Insecure",
-      "url": "https://open.spotify.com/track/3yVy2TK4A8pyGtzFFSzYhJ"
-    },
-    {
-      "added_at": "2022-02-11 09:00:57",
-      "album": {
         "name": "Live From Nkrumah Krom Vol II: Home Run",
         "url": "https://open.spotify.com/album/2Vh06g2sKNucQUAJbUqSTh"
       },
@@ -863,6 +847,22 @@
     {
       "added_at": "2022-02-11 09:00:57",
       "album": {
+        "name": "Boo of the Booless",
+        "url": "https://open.spotify.com/album/4BguuTkeDiuE2Iq4T6iM33"
+      },
+      "artists": [
+        {
+          "name": "Chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Insecure",
+      "url": "https://open.spotify.com/track/3yVy2TK4A8pyGtzFFSzYhJ"
+    },
+    {
+      "added_at": "2022-02-11 09:00:57",
+      "album": {
         "name": "Life is Eazi, Vol. 2 - Lagos to London",
         "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
       },
@@ -875,6 +875,22 @@
       "duration_ms": 168159,
       "name": "Pour Me Water",
       "url": "https://open.spotify.com/track/1XIPyyGqBSU20i4gSagsLV"
+    },
+    {
+      "added_at": "2022-07-28 23:00:00",
+      "album": {
+        "name": "Distance",
+        "url": "https://open.spotify.com/album/7HtEpllVdzazEO98gdGCwb"
+      },
+      "artists": [
+        {
+          "name": "Toby Grey",
+          "url": "https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww"
+        }
+      ],
+      "duration_ms": 182245,
+      "name": "Distance",
+      "url": "https://open.spotify.com/track/2MVsAH10Wu2jMc9SM60KDr"
     },
     {
       "added_at": "2022-02-11 09:00:57",
@@ -891,26 +907,6 @@
       "duration_ms": 203773,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/2lw3bvokPAzxFWsfsWYoOH"
-    },
-    {
-      "added_at": "2022-06-17 07:50:47",
-      "album": {
-        "name": "Kiss & Tell",
-        "url": "https://open.spotify.com/album/1Xm6lGVrbZUsLsIhf9REtp"
-      },
-      "artists": [
-        {
-          "name": "J. Martins",
-          "url": "https://open.spotify.com/artist/4DWVHNUG04lB1nYDbQmjLm"
-        },
-        {
-          "name": "Jaywillz",
-          "url": "https://open.spotify.com/artist/0eYIT8bKfvhhDHFH1A0rxk"
-        }
-      ],
-      "duration_ms": 179844,
-      "name": "Kiss & Tell",
-      "url": "https://open.spotify.com/track/2caUqogrPS7fyT96tF9fOi"
     }
   ],
   "unique_name": "End in Tears ",

@@ -4,7 +4,7 @@
 
 > This is Bon Iver\. The essential tracks, all in one playlist.
 
-43 songs - 2 hr 56 min - not published yet
+43 songs - 2 hr 56 min - [published](https://open.spotify.com/playlist/1THUZqjUTNTcesrDKkIzpf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

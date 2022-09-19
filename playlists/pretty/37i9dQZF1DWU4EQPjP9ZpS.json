@@ -1,12 +1,12 @@
 {
   "description": "get lost in the  a e s t h e t i c ",
-  "num_followers": 196713,
+  "num_followers": 196923,
   "original_name": "vaporwave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjkxODc2MywwMDAwMDAwMDhmMjNjZmRiZjVlNzI4YmFlM2UyNThjMjA0NDY0MTVi",
+  "snapshot_id": "MTY2MjkxODc2MywwMDAwMDAwMGE1MWU5ZDFlNjg2MTdjZTEyZDdjYjljMjkyNzE2YzY2",
   "tracks": [
     {
       "added_at": "2022-09-11 17:52:42",
@@ -439,6 +439,22 @@
     {
       "added_at": "2022-09-11 17:52:42",
       "album": {
+        "name": "Dragonball Wave",
+        "url": "https://open.spotify.com/album/1N5tmxgeQve2CcAZqU5w00"
+      },
+      "artists": [
+        {
+          "name": "Maitro",
+          "url": "https://open.spotify.com/artist/4pG6hTUl9HhyftfJQQI7np"
+        }
+      ],
+      "duration_ms": 187050,
+      "name": "SNAKE WAY",
+      "url": "https://open.spotify.com/track/7IZJ2wCNkvhwhsLgrMpuZn"
+    },
+    {
+      "added_at": "2022-09-11 17:52:42",
+      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/2LeTvZCJrcgloOlJz7SBv7"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 146181,
       "name": "Blue",
       "url": "https://open.spotify.com/track/4cuFOiOerVc7Ectr2qLKKb"
-    },
-    {
-      "added_at": "2022-09-11 17:52:42",
-      "album": {
-        "name": "Dragonball Wave",
-        "url": "https://open.spotify.com/album/1N5tmxgeQve2CcAZqU5w00"
-      },
-      "artists": [
-        {
-          "name": "Maitro",
-          "url": "https://open.spotify.com/artist/4pG6hTUl9HhyftfJQQI7np"
-        }
-      ],
-      "duration_ms": 187050,
-      "name": "SNAKE WAY",
-      "url": "https://open.spotify.com/track/7IZJ2wCNkvhwhsLgrMpuZn"
     },
     {
       "added_at": "2022-09-11 17:52:42",
@@ -547,22 +547,6 @@
     {
       "added_at": "2022-09-11 17:52:42",
       "album": {
-        "name": "Body Double",
-        "url": "https://open.spotify.com/album/4Jp57xuKXR8Q2WiZtXLiHJ"
-      },
-      "artists": [
-        {
-          "name": "18 Carat Affair",
-          "url": "https://open.spotify.com/artist/0va8U409dr4gA1zQ2gSnD5"
-        }
-      ],
-      "duration_ms": 52937,
-      "name": "Diffusion '89",
-      "url": "https://open.spotify.com/track/3hkviLQtcPviwy1omjNxkP"
-    },
-    {
-      "added_at": "2022-09-11 17:52:42",
-      "album": {
         "name": "City Lights",
         "url": "https://open.spotify.com/album/3mw1X0nqWBSSWlGrbBYkCc"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 251779,
       "name": "Hibiscus Pacific",
       "url": "https://open.spotify.com/track/212guZJYmzASElwy8HmVKx"
+    },
+    {
+      "added_at": "2022-09-11 17:52:42",
+      "album": {
+        "name": "Body Double",
+        "url": "https://open.spotify.com/album/4Jp57xuKXR8Q2WiZtXLiHJ"
+      },
+      "artists": [
+        {
+          "name": "18 Carat Affair",
+          "url": "https://open.spotify.com/artist/0va8U409dr4gA1zQ2gSnD5"
+        }
+      ],
+      "duration_ms": 52937,
+      "name": "Diffusion '89",
+      "url": "https://open.spotify.com/track/3hkviLQtcPviwy1omjNxkP"
     },
     {
       "added_at": "2022-09-11 17:52:42",
@@ -743,22 +743,6 @@
     {
       "added_at": "2022-09-11 17:52:42",
       "album": {
-        "name": "Pleasures of Conformity",
-        "url": "https://open.spotify.com/album/5xcDKxbn9a0xpAZGWfPSNr"
-      },
-      "artists": [
-        {
-          "name": "Tupperwave",
-          "url": "https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO"
-        }
-      ],
-      "duration_ms": 185868,
-      "name": "Midnight Rollers",
-      "url": "https://open.spotify.com/track/5wFhPnaPPnzruZSwfAmy6x"
-    },
-    {
-      "added_at": "2022-09-11 17:52:42",
-      "album": {
         "name": "Nu.wav Hallucinations",
         "url": "https://open.spotify.com/album/6nfVqgC74S6IvixOlxd9wv"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 359410,
       "name": "A Face Without Eyes",
       "url": "https://open.spotify.com/track/2Dub85ZiCGeXM3pLTsaV8J"
+    },
+    {
+      "added_at": "2022-09-11 17:52:42",
+      "album": {
+        "name": "Midnight Store",
+        "url": "https://open.spotify.com/album/36WA4KamqIuwQZS8n1FZPl"
+      },
+      "artists": [
+        {
+          "name": "Donor Lens",
+          "url": "https://open.spotify.com/artist/0gF93jqUmpFOFEtBKXWFiA"
+        }
+      ],
+      "duration_ms": 157974,
+      "name": "Turn the Fridge On",
+      "url": "https://open.spotify.com/track/4Ex9W2heRZub49lRZDveky"
     },
     {
       "added_at": "2022-09-11 17:52:42",
@@ -791,18 +791,18 @@
     {
       "added_at": "2022-09-11 17:52:42",
       "album": {
-        "name": "Midnight Store",
-        "url": "https://open.spotify.com/album/36WA4KamqIuwQZS8n1FZPl"
+        "name": "Pleasures of Conformity",
+        "url": "https://open.spotify.com/album/5xcDKxbn9a0xpAZGWfPSNr"
       },
       "artists": [
         {
-          "name": "Donor Lens",
-          "url": "https://open.spotify.com/artist/0gF93jqUmpFOFEtBKXWFiA"
+          "name": "Tupperwave",
+          "url": "https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO"
         }
       ],
-      "duration_ms": 157974,
-      "name": "Turn the Fridge On",
-      "url": "https://open.spotify.com/track/4Ex9W2heRZub49lRZDveky"
+      "duration_ms": 185868,
+      "name": "Midnight Rollers",
+      "url": "https://open.spotify.com/track/5wFhPnaPPnzruZSwfAmy6x"
     },
     {
       "added_at": "2022-09-11 17:52:42",
@@ -875,18 +875,18 @@
     {
       "added_at": "2022-09-11 17:52:42",
       "album": {
-        "name": "Intercontinental",
-        "url": "https://open.spotify.com/album/7zgV7O9KcT8ZymRfHFGxa3"
+        "name": "Left to Our Own Devices",
+        "url": "https://open.spotify.com/album/1y8vLhvcsBHmFcNB57IZyy"
       },
       "artists": [
         {
-          "name": "Lost Traveler \u30ed\u30b9\u30c8",
-          "url": "https://open.spotify.com/artist/0zUh7z3wJlLWbWFoyrdOxD"
+          "name": "Le Cassette",
+          "url": "https://open.spotify.com/artist/10245Q9NZEdn6i5Rzs9zkJ"
         }
       ],
-      "duration_ms": 253636,
-      "name": "Intercontinental",
-      "url": "https://open.spotify.com/track/6bfuLXMhr4jpG2og7eZWpH"
+      "duration_ms": 416000,
+      "name": "Arms of Mine",
+      "url": "https://open.spotify.com/track/53QNhk9jqnhowWjzb5cMmR"
     },
     {
       "added_at": "2022-09-11 17:52:42",
@@ -907,18 +907,18 @@
     {
       "added_at": "2022-09-11 17:52:42",
       "album": {
-        "name": "Left to Our Own Devices",
-        "url": "https://open.spotify.com/album/1y8vLhvcsBHmFcNB57IZyy"
+        "name": "Intercontinental",
+        "url": "https://open.spotify.com/album/7zgV7O9KcT8ZymRfHFGxa3"
       },
       "artists": [
         {
-          "name": "Le Cassette",
-          "url": "https://open.spotify.com/artist/10245Q9NZEdn6i5Rzs9zkJ"
+          "name": "Lost Traveler \u30ed\u30b9\u30c8",
+          "url": "https://open.spotify.com/artist/0zUh7z3wJlLWbWFoyrdOxD"
         }
       ],
-      "duration_ms": 416000,
-      "name": "Arms of Mine",
-      "url": "https://open.spotify.com/track/53QNhk9jqnhowWjzb5cMmR"
+      "duration_ms": 253636,
+      "name": "Intercontinental",
+      "url": "https://open.spotify.com/track/6bfuLXMhr4jpG2og7eZWpH"
     },
     {
       "added_at": "2022-09-11 17:52:42",
@@ -971,22 +971,6 @@
     {
       "added_at": "2022-09-11 17:52:42",
       "album": {
-        "name": "\u56da\u4eba",
-        "url": "https://open.spotify.com/album/6jK1pKKMjVaRAPGKtdrHW9"
-      },
-      "artists": [
-        {
-          "name": "desert sand feels warm at night",
-          "url": "https://open.spotify.com/artist/31krAdMGlK6qGv5TCF7e9P"
-        }
-      ],
-      "duration_ms": 320462,
-      "name": "\u5e7d\u970a",
-      "url": "https://open.spotify.com/track/5k4CETgejw6DSDTfqXvTba"
-    },
-    {
-      "added_at": "2022-09-11 17:52:42",
-      "album": {
         "name": "Based On Misunderstandings 05",
         "url": "https://open.spotify.com/album/71xlJoKwGWihm3biLx13pn"
       },
@@ -1003,54 +987,18 @@
     {
       "added_at": "2022-09-11 17:52:42",
       "album": {
-        "name": "Creation",
-        "url": "https://open.spotify.com/album/37Z1A8cXumKShQ5SWYGYFq"
+        "name": "\u56da\u4eba",
+        "url": "https://open.spotify.com/album/6jK1pKKMjVaRAPGKtdrHW9"
       },
       "artists": [
         {
-          "name": "Sonavision Deluxe",
-          "url": "https://open.spotify.com/artist/1A5KhSFYk9BtgfnsuF3rff"
-        },
-        {
-          "name": "Komit",
-          "url": "https://open.spotify.com/artist/3pEy2Cj8IMHmUvXkEekr6p"
+          "name": "desert sand feels warm at night",
+          "url": "https://open.spotify.com/artist/31krAdMGlK6qGv5TCF7e9P"
         }
       ],
-      "duration_ms": 258648,
-      "name": "Creation Through Existence",
-      "url": "https://open.spotify.com/track/2GR4JjtoLxXVzCxbEwiy4t"
-    },
-    {
-      "added_at": "2022-09-11 17:52:42",
-      "album": {
-        "name": "I Thought (Live Version)",
-        "url": "https://open.spotify.com/album/3iHpwhjT6GsEkKHoBvGVs2"
-      },
-      "artists": [
-        {
-          "name": "II n\u00f8thing II",
-          "url": "https://open.spotify.com/artist/2278irSrnfAHzxhUjkTuvk"
-        }
-      ],
-      "duration_ms": 259053,
-      "name": "I Thought - Live Version",
-      "url": "https://open.spotify.com/track/4wOrY56F5bc4UjmZAGaR9w"
-    },
-    {
-      "added_at": "2022-09-11 17:52:42",
-      "album": {
-        "name": "\u65b0\u3057\u3044\u6642\u4ee3, Yes!",
-        "url": "https://open.spotify.com/album/03lEQrnYK2LkWnADa0DqhP"
-      },
-      "artists": [
-        {
-          "name": "VANITAS\u547d\u6b7b",
-          "url": "https://open.spotify.com/artist/3626h020F6R0HEQdaRTTWI"
-        }
-      ],
-      "duration_ms": 277570,
-      "name": "\u65b0\u3057\u3044\u6642\u4ee3, Yes!",
-      "url": "https://open.spotify.com/track/4UGeYxP5W5sVf0UUblKahK"
+      "duration_ms": 320462,
+      "name": "\u5e7d\u970a",
+      "url": "https://open.spotify.com/track/5k4CETgejw6DSDTfqXvTba"
     },
     {
       "added_at": "2022-09-11 17:52:42",
@@ -1095,34 +1043,54 @@
     {
       "added_at": "2022-09-11 17:52:42",
       "album": {
-        "name": "\u30b7 \u30e7 \u30c3 \u30d7 @ \u30d8 \u30eb \u30b7 \u30f3 \u30ad",
-        "url": "https://open.spotify.com/album/6jIBTgmApxxRoUZAWJJojl"
+        "name": "\u65b0\u3057\u3044\u6642\u4ee3, Yes!",
+        "url": "https://open.spotify.com/album/03lEQrnYK2LkWnADa0DqhP"
       },
       "artists": [
         {
-          "name": "\u732b \u30b7 Corp.",
-          "url": "https://open.spotify.com/artist/4eYVVrnphe4blxWuzahYQE"
+          "name": "VANITAS\u547d\u6b7b",
+          "url": "https://open.spotify.com/artist/3626h020F6R0HEQdaRTTWI"
         }
       ],
-      "duration_ms": 354000,
-      "name": "\u90fd \u5e02 \u30d5 \u30a9 \u30fc \u30e9 \u30e0 Consumer [kahvi]",
-      "url": "https://open.spotify.com/track/7jkJ9qQ9i3zc2Z6FFkyaxG"
+      "duration_ms": 277570,
+      "name": "\u65b0\u3057\u3044\u6642\u4ee3, Yes!",
+      "url": "https://open.spotify.com/track/4UGeYxP5W5sVf0UUblKahK"
     },
     {
       "added_at": "2022-09-11 17:52:42",
       "album": {
-        "name": "New World Disciples",
-        "url": "https://open.spotify.com/album/0UtwaoRlgRvcsP6srTnNxK"
+        "name": "Creation",
+        "url": "https://open.spotify.com/album/37Z1A8cXumKShQ5SWYGYFq"
       },
       "artists": [
         {
-          "name": "desert sand feels warm at night",
-          "url": "https://open.spotify.com/artist/31krAdMGlK6qGv5TCF7e9P"
+          "name": "Sonavision Deluxe",
+          "url": "https://open.spotify.com/artist/1A5KhSFYk9BtgfnsuF3rff"
+        },
+        {
+          "name": "Komit",
+          "url": "https://open.spotify.com/artist/3pEy2Cj8IMHmUvXkEekr6p"
         }
       ],
-      "duration_ms": 389189,
-      "name": "Follow Him, For He Is the One",
-      "url": "https://open.spotify.com/track/7zwEj3hEiAfRrwjFyIy3jQ"
+      "duration_ms": 258648,
+      "name": "Creation Through Existence",
+      "url": "https://open.spotify.com/track/2GR4JjtoLxXVzCxbEwiy4t"
+    },
+    {
+      "added_at": "2022-09-11 17:52:42",
+      "album": {
+        "name": "I Thought (Live Version)",
+        "url": "https://open.spotify.com/album/3iHpwhjT6GsEkKHoBvGVs2"
+      },
+      "artists": [
+        {
+          "name": "II n\u00f8thing II",
+          "url": "https://open.spotify.com/artist/2278irSrnfAHzxhUjkTuvk"
+        }
+      ],
+      "duration_ms": 259053,
+      "name": "I Thought - Live Version",
+      "url": "https://open.spotify.com/track/4wOrY56F5bc4UjmZAGaR9w"
     },
     {
       "added_at": "2022-09-11 17:52:42",
@@ -1143,6 +1111,22 @@
     {
       "added_at": "2022-09-11 17:52:42",
       "album": {
+        "name": "\u30b7 \u30e7 \u30c3 \u30d7 @ \u30d8 \u30eb \u30b7 \u30f3 \u30ad",
+        "url": "https://open.spotify.com/album/6jIBTgmApxxRoUZAWJJojl"
+      },
+      "artists": [
+        {
+          "name": "\u732b \u30b7 Corp.",
+          "url": "https://open.spotify.com/artist/4eYVVrnphe4blxWuzahYQE"
+        }
+      ],
+      "duration_ms": 354000,
+      "name": "\u90fd \u5e02 \u30d5 \u30a9 \u30fc \u30e9 \u30e0 Consumer [kahvi]",
+      "url": "https://open.spotify.com/track/7jkJ9qQ9i3zc2Z6FFkyaxG"
+    },
+    {
+      "added_at": "2022-09-11 17:52:42",
+      "album": {
         "name": "Growing Apart",
         "url": "https://open.spotify.com/album/37bgZiMeNpFqOeHBH2ySzS"
       },
@@ -1159,6 +1143,22 @@
     {
       "added_at": "2022-09-11 17:52:42",
       "album": {
+        "name": "New World Disciples",
+        "url": "https://open.spotify.com/album/0UtwaoRlgRvcsP6srTnNxK"
+      },
+      "artists": [
+        {
+          "name": "desert sand feels warm at night",
+          "url": "https://open.spotify.com/artist/31krAdMGlK6qGv5TCF7e9P"
+        }
+      ],
+      "duration_ms": 389189,
+      "name": "Follow Him, For He Is the One",
+      "url": "https://open.spotify.com/track/7zwEj3hEiAfRrwjFyIy3jQ"
+    },
+    {
+      "added_at": "2022-09-11 17:52:42",
+      "album": {
         "name": "VaporLoops, Vol. 1",
         "url": "https://open.spotify.com/album/5AUO9iVgc0azZXcpvpg4Rc"
       },
@@ -1171,38 +1171,6 @@
       "duration_ms": 229269,
       "name": "Misty Reflections",
       "url": "https://open.spotify.com/track/3cBtHwcoJm3GTKEkkwTLO3"
-    },
-    {
-      "added_at": "2022-09-11 17:52:42",
-      "album": {
-        "name": "Reflection Plane",
-        "url": "https://open.spotify.com/album/5drH29DpqokNHxftcmPzPd"
-      },
-      "artists": [
-        {
-          "name": "AURAGRAPH",
-          "url": "https://open.spotify.com/artist/6yR7RysQJaTayvmT0Bx8zt"
-        }
-      ],
-      "duration_ms": 180750,
-      "name": "Midi Beach",
-      "url": "https://open.spotify.com/track/22ZPueAG5tq036nOJLg2nh"
-    },
-    {
-      "added_at": "2022-09-11 17:52:42",
-      "album": {
-        "name": "cl\u0153 & \u00a1vaya melod\u00eda! \u30c4 (Singles)",
-        "url": "https://open.spotify.com/album/5bX7MiGjET5GUxO10xiuf8"
-      },
-      "artists": [
-        {
-          "name": "VAAV Social Club",
-          "url": "https://open.spotify.com/artist/2pU9qrYI6KKvYO0I3io8nM"
-        }
-      ],
-      "duration_ms": 166927,
-      "name": "cl\u0153",
-      "url": "https://open.spotify.com/track/230pjCGPAeToefwBcQieMZ"
     },
     {
       "added_at": "2022-09-11 17:52:42",
@@ -1255,18 +1223,18 @@
     {
       "added_at": "2022-09-11 17:52:42",
       "album": {
-        "name": "Peak Internet",
-        "url": "https://open.spotify.com/album/67Vh6yM6vFUEA97yRB64eP"
+        "name": "cl\u0153 & \u00a1vaya melod\u00eda! \u30c4 (Singles)",
+        "url": "https://open.spotify.com/album/5bX7MiGjET5GUxO10xiuf8"
       },
       "artists": [
         {
-          "name": "XWaves",
-          "url": "https://open.spotify.com/artist/03kLm4ZLzEgtQxTC3OKaHQ"
+          "name": "VAAV Social Club",
+          "url": "https://open.spotify.com/artist/2pU9qrYI6KKvYO0I3io8nM"
         }
       ],
-      "duration_ms": 244500,
-      "name": "Flight",
-      "url": "https://open.spotify.com/track/23frDm4y1nX1TA4rA6FQvX"
+      "duration_ms": 166927,
+      "name": "cl\u0153",
+      "url": "https://open.spotify.com/track/230pjCGPAeToefwBcQieMZ"
     },
     {
       "added_at": "2022-09-11 17:52:42",
@@ -1287,6 +1255,70 @@
       "duration_ms": 260399,
       "name": "Vcrheadaches - Purge",
       "url": "https://open.spotify.com/track/1Lsl4apcwmBn1S7NuQAkbT"
+    },
+    {
+      "added_at": "2022-09-11 17:52:42",
+      "album": {
+        "name": "Reflection Plane",
+        "url": "https://open.spotify.com/album/5drH29DpqokNHxftcmPzPd"
+      },
+      "artists": [
+        {
+          "name": "AURAGRAPH",
+          "url": "https://open.spotify.com/artist/6yR7RysQJaTayvmT0Bx8zt"
+        }
+      ],
+      "duration_ms": 180750,
+      "name": "Midi Beach",
+      "url": "https://open.spotify.com/track/22ZPueAG5tq036nOJLg2nh"
+    },
+    {
+      "added_at": "2022-09-11 17:52:42",
+      "album": {
+        "name": "Anomaly",
+        "url": "https://open.spotify.com/album/2BacN89ksqwckgSLcayfkb"
+      },
+      "artists": [
+        {
+          "name": "oDDling",
+          "url": "https://open.spotify.com/artist/2zhOohLhIGzDcBhAqmBmuE"
+        }
+      ],
+      "duration_ms": 232473,
+      "name": "Anomaly",
+      "url": "https://open.spotify.com/track/1N9xhwPDSx1A8SGPcD7M3k"
+    },
+    {
+      "added_at": "2022-09-11 17:52:42",
+      "album": {
+        "name": "Sonic in the Holobeach",
+        "url": "https://open.spotify.com/album/39XqN8qQbnTPErbj4MPBau"
+      },
+      "artists": [
+        {
+          "name": "FM Skyline",
+          "url": "https://open.spotify.com/artist/78eLUMRVVuDlDgcvYCYDCf"
+        }
+      ],
+      "duration_ms": 256096,
+      "name": "Sonic in the Holobeach",
+      "url": "https://open.spotify.com/track/0D572l8DUok2WQpKMA5MEg"
+    },
+    {
+      "added_at": "2022-09-11 17:52:42",
+      "album": {
+        "name": "Peak Internet",
+        "url": "https://open.spotify.com/album/67Vh6yM6vFUEA97yRB64eP"
+      },
+      "artists": [
+        {
+          "name": "XWaves",
+          "url": "https://open.spotify.com/artist/03kLm4ZLzEgtQxTC3OKaHQ"
+        }
+      ],
+      "duration_ms": 244500,
+      "name": "Flight",
+      "url": "https://open.spotify.com/track/23frDm4y1nX1TA4rA6FQvX"
     },
     {
       "added_at": "2022-09-11 17:52:42",
@@ -1315,38 +1347,6 @@
     {
       "added_at": "2022-09-11 17:52:42",
       "album": {
-        "name": "Sonic in the Holobeach",
-        "url": "https://open.spotify.com/album/39XqN8qQbnTPErbj4MPBau"
-      },
-      "artists": [
-        {
-          "name": "FM Skyline",
-          "url": "https://open.spotify.com/artist/78eLUMRVVuDlDgcvYCYDCf"
-        }
-      ],
-      "duration_ms": 256096,
-      "name": "Sonic in the Holobeach",
-      "url": "https://open.spotify.com/track/0D572l8DUok2WQpKMA5MEg"
-    },
-    {
-      "added_at": "2022-09-11 17:52:42",
-      "album": {
-        "name": "Anomaly",
-        "url": "https://open.spotify.com/album/2BacN89ksqwckgSLcayfkb"
-      },
-      "artists": [
-        {
-          "name": "oDDling",
-          "url": "https://open.spotify.com/artist/2zhOohLhIGzDcBhAqmBmuE"
-        }
-      ],
-      "duration_ms": 232473,
-      "name": "Anomaly",
-      "url": "https://open.spotify.com/track/1N9xhwPDSx1A8SGPcD7M3k"
-    },
-    {
-      "added_at": "2022-09-11 17:52:42",
-      "album": {
         "name": "Dr. ROM",
         "url": "https://open.spotify.com/album/3GWrjC0VhYuLYQuLMU6Kr4"
       },
@@ -1359,22 +1359,6 @@
       "duration_ms": 164000,
       "name": "Home Workout VHS",
       "url": "https://open.spotify.com/track/4Uea245Q37jKLFs4i8rMO6"
-    },
-    {
-      "added_at": "2022-09-11 17:52:42",
-      "album": {
-        "name": "Swing Tournament",
-        "url": "https://open.spotify.com/album/0V64Z07UBDgp8RkDgfMIiC"
-      },
-      "artists": [
-        {
-          "name": "US Golf 95",
-          "url": "https://open.spotify.com/artist/5CnHY3fEGCye9RQH7gVvox"
-        }
-      ],
-      "duration_ms": 172271,
-      "name": "Nature",
-      "url": "https://open.spotify.com/track/2GcSVKKKIgnFhXF0t6Cvc9"
     },
     {
       "added_at": "2022-09-11 17:52:42",
@@ -1395,38 +1379,18 @@
     {
       "added_at": "2022-09-11 17:52:42",
       "album": {
-        "name": "Hypermagenta",
-        "url": "https://open.spotify.com/album/6wJXqgoXBF8mgBHwGZVuxS"
+        "name": "Swing Tournament",
+        "url": "https://open.spotify.com/album/0V64Z07UBDgp8RkDgfMIiC"
       },
       "artists": [
         {
-          "name": "Device Operator",
-          "url": "https://open.spotify.com/artist/0WgvFxGODaEBXwRSSprC9C"
-        },
-        {
-          "name": "Soft Replica",
-          "url": "https://open.spotify.com/artist/3pe0tAFC14aJtzBiBj1uJT"
+          "name": "US Golf 95",
+          "url": "https://open.spotify.com/artist/5CnHY3fEGCye9RQH7gVvox"
         }
       ],
-      "duration_ms": 293735,
-      "name": "Hypermagenta",
-      "url": "https://open.spotify.com/track/6l8yU1Z42MRYdPTtkRezAV"
-    },
-    {
-      "added_at": "2022-09-11 17:52:42",
-      "album": {
-        "name": "Judgment Bolt",
-        "url": "https://open.spotify.com/album/0A8BjjykKZ4Wdluecx0Vy6"
-      },
-      "artists": [
-        {
-          "name": "death's dynamic shroud",
-          "url": "https://open.spotify.com/artist/1F31FB7Y6ic4844PbqMf7c"
-        }
-      ],
-      "duration_ms": 272021,
-      "name": "Judgment Bolt",
-      "url": "https://open.spotify.com/track/1NgOE9DQOTnCKsxsfbksyt"
+      "duration_ms": 172271,
+      "name": "Nature",
+      "url": "https://open.spotify.com/track/2GcSVKKKIgnFhXF0t6Cvc9"
     },
     {
       "added_at": "2022-09-11 17:52:42",
@@ -1447,42 +1411,18 @@
     {
       "added_at": "2022-09-11 17:52:42",
       "album": {
-        "name": "Presentere Fine Design (Slowed + Reverb)",
-        "url": "https://open.spotify.com/album/6U7SWo42VFTaQS3kvYVqjs"
+        "name": "Judgment Bolt",
+        "url": "https://open.spotify.com/album/0A8BjjykKZ4Wdluecx0Vy6"
       },
       "artists": [
         {
-          "name": "slow//reverb",
-          "url": "https://open.spotify.com/artist/3PkF2MgUKkl7yrwoQMoY4j"
-        },
-        {
-          "name": "Ryan Celsius Sounds",
-          "url": "https://open.spotify.com/artist/2AtYJoC6VmUtkxonmVnbVR"
-        },
-        {
-          "name": "Ralph Rodolen",
-          "url": "https://open.spotify.com/artist/0NdkJzmD9OHILInIu6rbjO"
+          "name": "death's dynamic shroud",
+          "url": "https://open.spotify.com/artist/1F31FB7Y6ic4844PbqMf7c"
         }
       ],
-      "duration_ms": 208000,
-      "name": "Presentere Fine Design - Slowed + Reverb",
-      "url": "https://open.spotify.com/track/2G33CEeAZN5RCI7cL4sQGb"
-    },
-    {
-      "added_at": "2022-09-11 17:52:42",
-      "album": {
-        "name": "Egyptian Moon",
-        "url": "https://open.spotify.com/album/27bH2QXySptFLsjpVQyXgc"
-      },
-      "artists": [
-        {
-          "name": "MicroMatscenes",
-          "url": "https://open.spotify.com/artist/01LrN5PE6psuNkEplYXutI"
-        }
-      ],
-      "duration_ms": 306846,
-      "name": "Egyptian Moon",
-      "url": "https://open.spotify.com/track/0FsPa4JnTx3W4EKcb3adHq"
+      "duration_ms": 272021,
+      "name": "Judgment Bolt",
+      "url": "https://open.spotify.com/track/1NgOE9DQOTnCKsxsfbksyt"
     },
     {
       "added_at": "2022-09-11 17:52:42",
@@ -1519,18 +1459,62 @@
     {
       "added_at": "2022-09-11 17:52:42",
       "album": {
-        "name": "Pok\u00e9wave III",
-        "url": "https://open.spotify.com/album/3hqmECDWWCG6fImy3IPJjw"
+        "name": "Presentere Fine Design (Slowed + Reverb)",
+        "url": "https://open.spotify.com/album/6U7SWo42VFTaQS3kvYVqjs"
       },
       "artists": [
         {
-          "name": "Neon95",
-          "url": "https://open.spotify.com/artist/6KOSqunMD2lrpkv2QQThsb"
+          "name": "slow//reverb",
+          "url": "https://open.spotify.com/artist/3PkF2MgUKkl7yrwoQMoY4j"
+        },
+        {
+          "name": "Ryan Celsius Sounds",
+          "url": "https://open.spotify.com/artist/2AtYJoC6VmUtkxonmVnbVR"
+        },
+        {
+          "name": "Ralph Rodolen",
+          "url": "https://open.spotify.com/artist/0NdkJzmD9OHILInIu6rbjO"
         }
       ],
-      "duration_ms": 193280,
-      "name": "Flash",
-      "url": "https://open.spotify.com/track/3oG6lhEpzL1Pq4pExi0nnJ"
+      "duration_ms": 208000,
+      "name": "Presentere Fine Design - Slowed + Reverb",
+      "url": "https://open.spotify.com/track/2G33CEeAZN5RCI7cL4sQGb"
+    },
+    {
+      "added_at": "2022-09-11 17:52:42",
+      "album": {
+        "name": "Hypermagenta",
+        "url": "https://open.spotify.com/album/6wJXqgoXBF8mgBHwGZVuxS"
+      },
+      "artists": [
+        {
+          "name": "Device Operator",
+          "url": "https://open.spotify.com/artist/0WgvFxGODaEBXwRSSprC9C"
+        },
+        {
+          "name": "Soft Replica",
+          "url": "https://open.spotify.com/artist/3pe0tAFC14aJtzBiBj1uJT"
+        }
+      ],
+      "duration_ms": 293735,
+      "name": "Hypermagenta",
+      "url": "https://open.spotify.com/track/6l8yU1Z42MRYdPTtkRezAV"
+    },
+    {
+      "added_at": "2022-09-11 17:52:42",
+      "album": {
+        "name": "Egyptian Moon",
+        "url": "https://open.spotify.com/album/27bH2QXySptFLsjpVQyXgc"
+      },
+      "artists": [
+        {
+          "name": "MicroMatscenes",
+          "url": "https://open.spotify.com/artist/01LrN5PE6psuNkEplYXutI"
+        }
+      ],
+      "duration_ms": 306846,
+      "name": "Egyptian Moon",
+      "url": "https://open.spotify.com/track/0FsPa4JnTx3W4EKcb3adHq"
     },
     {
       "added_at": "2022-09-11 17:52:42",
@@ -1551,6 +1535,22 @@
     {
       "added_at": "2022-09-11 17:52:42",
       "album": {
+        "name": "visualdesign '97",
+        "url": "https://open.spotify.com/album/1U7sVDbYF140Qi5uClqkWQ"
+      },
+      "artists": [
+        {
+          "name": "vcr-classique",
+          "url": "https://open.spotify.com/artist/7A1easrTxUXFE8oweLhFX2"
+        }
+      ],
+      "duration_ms": 105143,
+      "name": "sunday shopping",
+      "url": "https://open.spotify.com/track/1DNbnHyTMvDP0KcoPVpUN5"
+    },
+    {
+      "added_at": "2022-09-11 17:52:42",
+      "album": {
         "name": "Miami Virtual",
         "url": "https://open.spotify.com/album/5DhCQT0YI1NHXxqfNRFyL7"
       },
@@ -1563,6 +1563,38 @@
       "duration_ms": 234013,
       "name": "\u4eca\u591c",
       "url": "https://open.spotify.com/track/0qX9kcTL9PonpRFpPrqSDu"
+    },
+    {
+      "added_at": "2022-09-11 17:52:42",
+      "album": {
+        "name": "No Sugar Added",
+        "url": "https://open.spotify.com/album/4olgBAtPoJfrz9wZglnWrX"
+      },
+      "artists": [
+        {
+          "name": "Runners Club 95",
+          "url": "https://open.spotify.com/artist/2TSGxQ356S2ddpb6uBuo0Z"
+        }
+      ],
+      "duration_ms": 162228,
+      "name": "Carrie Bradshaw",
+      "url": "https://open.spotify.com/track/7wWoHrgmniGylyEOxt0CyY"
+    },
+    {
+      "added_at": "2022-09-11 17:52:42",
+      "album": {
+        "name": "Pok\u00e9wave III",
+        "url": "https://open.spotify.com/album/3hqmECDWWCG6fImy3IPJjw"
+      },
+      "artists": [
+        {
+          "name": "Neon95",
+          "url": "https://open.spotify.com/artist/6KOSqunMD2lrpkv2QQThsb"
+        }
+      ],
+      "duration_ms": 193280,
+      "name": "Flash",
+      "url": "https://open.spotify.com/track/3oG6lhEpzL1Pq4pExi0nnJ"
     },
     {
       "added_at": "2022-09-11 17:52:42",
@@ -1583,38 +1615,6 @@
       "duration_ms": 187200,
       "name": "Epifauna",
       "url": "https://open.spotify.com/track/2FPhnI8uGOR4GoVMxhccGI"
-    },
-    {
-      "added_at": "2022-09-11 17:52:42",
-      "album": {
-        "name": "visualdesign '97",
-        "url": "https://open.spotify.com/album/1U7sVDbYF140Qi5uClqkWQ"
-      },
-      "artists": [
-        {
-          "name": "vcr-classique",
-          "url": "https://open.spotify.com/artist/7A1easrTxUXFE8oweLhFX2"
-        }
-      ],
-      "duration_ms": 105143,
-      "name": "sunday shopping",
-      "url": "https://open.spotify.com/track/1DNbnHyTMvDP0KcoPVpUN5"
-    },
-    {
-      "added_at": "2022-09-11 17:52:42",
-      "album": {
-        "name": "No Sugar Added",
-        "url": "https://open.spotify.com/album/4olgBAtPoJfrz9wZglnWrX"
-      },
-      "artists": [
-        {
-          "name": "Runners Club 95",
-          "url": "https://open.spotify.com/artist/2TSGxQ356S2ddpb6uBuo0Z"
-        }
-      ],
-      "duration_ms": 162228,
-      "name": "Carrie Bradshaw",
-      "url": "https://open.spotify.com/track/7wWoHrgmniGylyEOxt0CyY"
     },
     {
       "added_at": "2022-09-11 17:52:42",
@@ -1651,38 +1651,6 @@
     {
       "added_at": "2022-09-11 17:52:42",
       "album": {
-        "name": "You Got The Groove",
-        "url": "https://open.spotify.com/album/61mCAP8vGPcJUFD3PHWjmI"
-      },
-      "artists": [
-        {
-          "name": "FrankJavCee",
-          "url": "https://open.spotify.com/artist/3nHKeOa45XrUplL3NiGy7E"
-        }
-      ],
-      "duration_ms": 237333,
-      "name": "You Got The Groove - slow + reverbed",
-      "url": "https://open.spotify.com/track/0JPiPZT6Nj1WFv5Tq7Ec2w"
-    },
-    {
-      "added_at": "2022-09-11 17:52:42",
-      "album": {
-        "name": "Promises",
-        "url": "https://open.spotify.com/album/0M0klWWcMopvtxjFLGILJw"
-      },
-      "artists": [
-        {
-          "name": "Aexion",
-          "url": "https://open.spotify.com/artist/2HFza51jWgaXRlxCIdkGNb"
-        }
-      ],
-      "duration_ms": 266914,
-      "name": "Full Chop",
-      "url": "https://open.spotify.com/track/0ull75L2VtU5EkzbUEvfSn"
-    },
-    {
-      "added_at": "2022-09-11 17:52:42",
-      "album": {
         "name": "Glass Prism",
         "url": "https://open.spotify.com/album/2LCpdfkxAhbDMLlQvb6NlA"
       },
@@ -1699,18 +1667,54 @@
     {
       "added_at": "2022-09-11 17:52:42",
       "album": {
-        "name": "Body Double",
-        "url": "https://open.spotify.com/album/4Jp57xuKXR8Q2WiZtXLiHJ"
+        "name": "Tampa (FM Skyline Remix) [7\" Version]",
+        "url": "https://open.spotify.com/album/4e9xyxDq3XXee50cZYTQ5t"
       },
       "artists": [
         {
-          "name": "18 Carat Affair",
-          "url": "https://open.spotify.com/artist/0va8U409dr4gA1zQ2gSnD5"
+          "name": "Small Black",
+          "url": "https://open.spotify.com/artist/1J6xqDysFw6YiQ0vMvIKds"
+        },
+        {
+          "name": "FM Skyline",
+          "url": "https://open.spotify.com/artist/78eLUMRVVuDlDgcvYCYDCf"
         }
       ],
-      "duration_ms": 91593,
-      "name": "Private Eyes",
-      "url": "https://open.spotify.com/track/7fZY8y8RwAYpdDCsF4ELJm"
+      "duration_ms": 234765,
+      "name": "Tampa (FM Skyline Remix) [7\" Version]",
+      "url": "https://open.spotify.com/track/1pncIIQbjWwqAFVmVzD7eI"
+    },
+    {
+      "added_at": "2022-09-11 17:52:42",
+      "album": {
+        "name": "You Got The Groove",
+        "url": "https://open.spotify.com/album/61mCAP8vGPcJUFD3PHWjmI"
+      },
+      "artists": [
+        {
+          "name": "FrankJavCee",
+          "url": "https://open.spotify.com/artist/3nHKeOa45XrUplL3NiGy7E"
+        }
+      ],
+      "duration_ms": 237333,
+      "name": "You Got The Groove - slow + reverbed",
+      "url": "https://open.spotify.com/track/0JPiPZT6Nj1WFv5Tq7Ec2w"
+    },
+    {
+      "added_at": "2022-09-11 17:52:42",
+      "album": {
+        "name": "Harlequin",
+        "url": "https://open.spotify.com/album/3cB1LycEBKXgS2OT8z2sPb"
+      },
+      "artists": [
+        {
+          "name": "FM Skyline",
+          "url": "https://open.spotify.com/artist/78eLUMRVVuDlDgcvYCYDCf"
+        }
+      ],
+      "duration_ms": 176086,
+      "name": "Harlequin",
+      "url": "https://open.spotify.com/track/7rDsuv5zejXYlPUkG5nW0p"
     }
   ],
   "unique_name": "vaporwave",

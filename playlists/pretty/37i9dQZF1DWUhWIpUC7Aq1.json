@@ -1,12 +1,12 @@
 {
   "description": "Not your manic pixie dream girl, just twee af. Cover: Zooey Deschanel",
-  "num_followers": 51719,
+  "num_followers": 52012,
   "original_name": "Twee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzAwMDg5MSwwMDAwMDAwMDFhNDhmNTQwMjVmZWY3MmI2MTZkYTFhN2M3OWI3MTkz",
+  "snapshot_id": "MTY2MzAwMDg5MSwwMDAwMDAwMGQ0MWZhMzRmYzA2YWUxMDZiZDVmMjg5MjQ1YTVhYTMw",
   "tracks": [
     {
       "added_at": "2022-08-26 20:04:38",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2022-08-26 20:04:38",
       "album": {
-        "name": "Alright, Still (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/3nxPzWEJBjzonYWtTNb0uY"
+        "name": "Beat Happening",
+        "url": "https://open.spotify.com/album/4kjtvHzMCqvSmxOo436NwM"
       },
       "artists": [
         {
-          "name": "Lily Allen",
-          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+          "name": "Beat Happening",
+          "url": "https://open.spotify.com/artist/1qHR9DMfOJQjvWLEfMZQlG"
         }
       ],
-      "duration_ms": 192333,
-      "name": "LDN",
-      "url": "https://open.spotify.com/track/48T3AtfhOgz3euMEO2Z4hS"
+      "duration_ms": 122573,
+      "name": "What's Important",
+      "url": "https://open.spotify.com/track/4lCzawVrcHNxiH9qyBWAd3"
     },
     {
       "added_at": "2022-08-26 20:04:38",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2022-08-26 20:04:38",
       "album": {
+        "name": "Alright, Still (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/3nxPzWEJBjzonYWtTNb0uY"
+      },
+      "artists": [
+        {
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+        }
+      ],
+      "duration_ms": 192333,
+      "name": "LDN",
+      "url": "https://open.spotify.com/track/48T3AtfhOgz3euMEO2Z4hS"
+    },
+    {
+      "added_at": "2022-08-26 20:04:38",
+      "album": {
         "name": "Elliott Smith",
         "url": "https://open.spotify.com/album/60C4r1YwIxsliktUL6eXfw"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 166320,
       "name": "Clementine",
       "url": "https://open.spotify.com/track/0nUPuUnqVLOZFayUzxi1JG"
-    },
-    {
-      "added_at": "2022-08-26 20:04:38",
-      "album": {
-        "name": "Elephant Gun",
-        "url": "https://open.spotify.com/album/6nGeQUOXlKSENB3A9ijD20"
-      },
-      "artists": [
-        {
-          "name": "Beirut",
-          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
-        }
-      ],
-      "duration_ms": 348893,
-      "name": "Elephant Gun",
-      "url": "https://open.spotify.com/track/52Nm0n6chJlGJJqhiZ6oMz"
     },
     {
       "added_at": "2022-08-26 20:04:38",
@@ -1299,34 +1299,18 @@
     {
       "added_at": "2022-08-26 20:04:38",
       "album": {
-        "name": "Beat Happening",
-        "url": "https://open.spotify.com/album/4kjtvHzMCqvSmxOo436NwM"
+        "name": "Elephant Gun",
+        "url": "https://open.spotify.com/album/6nGeQUOXlKSENB3A9ijD20"
       },
       "artists": [
         {
-          "name": "Beat Happening",
-          "url": "https://open.spotify.com/artist/1qHR9DMfOJQjvWLEfMZQlG"
+          "name": "Beirut",
+          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
         }
       ],
-      "duration_ms": 122573,
-      "name": "What's Important",
-      "url": "https://open.spotify.com/track/4lCzawVrcHNxiH9qyBWAd3"
-    },
-    {
-      "added_at": "2022-08-26 20:04:38",
-      "album": {
-        "name": "When I Pretend To Fall",
-        "url": "https://open.spotify.com/album/1ZfxdY1K1fDyRQywHtgLVQ"
-      },
-      "artists": [
-        {
-          "name": "The Long Winters",
-          "url": "https://open.spotify.com/artist/6zdwVjGPgGGZ7W5oBcisP2"
-        }
-      ],
-      "duration_ms": 252960,
-      "name": "Cinnamon",
-      "url": "https://open.spotify.com/track/4l9fOpDy6cqwaXSsl5l48v"
+      "duration_ms": 348893,
+      "name": "Elephant Gun",
+      "url": "https://open.spotify.com/track/52Nm0n6chJlGJJqhiZ6oMz"
     },
     {
       "added_at": "2022-08-26 20:04:38",
@@ -1347,6 +1331,22 @@
     {
       "added_at": "2022-08-26 20:04:38",
       "album": {
+        "name": "When I Pretend To Fall",
+        "url": "https://open.spotify.com/album/1ZfxdY1K1fDyRQywHtgLVQ"
+      },
+      "artists": [
+        {
+          "name": "The Long Winters",
+          "url": "https://open.spotify.com/artist/6zdwVjGPgGGZ7W5oBcisP2"
+        }
+      ],
+      "duration_ms": 252960,
+      "name": "Cinnamon",
+      "url": "https://open.spotify.com/track/4l9fOpDy6cqwaXSsl5l48v"
+    },
+    {
+      "added_at": "2022-08-26 20:04:38",
+      "album": {
         "name": "Set Yourself On Fire",
         "url": "https://open.spotify.com/album/6CYTAXBPYJ43irABGOJmIw"
       },
@@ -1359,6 +1359,22 @@
       "duration_ms": 256053,
       "name": "Your Ex-Lover Is Dead",
       "url": "https://open.spotify.com/track/6XGKlssGb3oE9IUCvjLthd"
+    },
+    {
+      "added_at": "2022-08-26 20:04:38",
+      "album": {
+        "name": "The Pains of Being Pure at Heart",
+        "url": "https://open.spotify.com/album/02JZJfj0sLbHBVRNi232XI"
+      },
+      "artists": [
+        {
+          "name": "The Pains Of Being Pure At Heart",
+          "url": "https://open.spotify.com/artist/3zmmBJseZelpVEHj8S6Dek"
+        }
+      ],
+      "duration_ms": 199999,
+      "name": "A Teenager in Love",
+      "url": "https://open.spotify.com/track/03h8yG6LxpmSLgeSJXQDeu"
     },
     {
       "added_at": "2022-08-26 20:04:38",
@@ -1379,22 +1395,6 @@
       "duration_ms": 310920,
       "name": "Hideaway",
       "url": "https://open.spotify.com/track/3SCtycBwTTM49VNNuXwp4Z"
-    },
-    {
-      "added_at": "2022-08-26 20:04:38",
-      "album": {
-        "name": "The Pains of Being Pure at Heart",
-        "url": "https://open.spotify.com/album/02JZJfj0sLbHBVRNi232XI"
-      },
-      "artists": [
-        {
-          "name": "The Pains Of Being Pure At Heart",
-          "url": "https://open.spotify.com/artist/3zmmBJseZelpVEHj8S6Dek"
-        }
-      ],
-      "duration_ms": 199999,
-      "name": "A Teenager in Love",
-      "url": "https://open.spotify.com/track/03h8yG6LxpmSLgeSJXQDeu"
     },
     {
       "added_at": "2022-08-26 20:04:38",

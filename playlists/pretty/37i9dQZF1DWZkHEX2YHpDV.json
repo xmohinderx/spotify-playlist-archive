@@ -1,12 +1,12 @@
 {
   "description": "Pop-punk, emo, post-hardcore, alternative - it's whatever you want it to be. Cover: nothing, nowhere",
-  "num_followers": 437347,
+  "num_followers": 437369,
   "original_name": "The Scene",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5NjAwMCwwMDAwMDAwMDU3ODkwNDRjZWFjOTEyN2VhNTQ4ZjEyYWM2OTIyYmE1",
+  "snapshot_id": "MTY2MjY5NjAwMCwwMDAwMDAwMDhkNTY1YmEzMDMxZjIyMmE4ZGI5Yjg2YWE1Zjk5YzE1",
   "tracks": [
     {
       "added_at": "2022-08-26 04:01:00",
@@ -927,34 +927,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Teenage Heartbreak",
-        "url": "https://open.spotify.com/album/6J3MyFpk3rKOlthkLrW7q9"
-      },
-      "artists": [
-        {
-          "name": "Huddy",
-          "url": "https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f"
-        },
-        {
-          "name": "iann dior",
-          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
-        },
-        {
-          "name": "Tyson Ritter",
-          "url": "https://open.spotify.com/artist/683FoiwWxywQus0rfoml0x"
-        },
-        {
-          "name": "Travis Barker",
-          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Don't Freak Out (feat. iann dior, Tyson Ritter & Travis Barker)",
-      "url": "https://open.spotify.com/track/1IflC51n9KG5JJh5sHVU1D"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "DIE OUT HERE (feat. POORSTACY)",
         "url": "https://open.spotify.com/album/4agLeYDJ434nJLLvM4uJWJ"
       },
@@ -991,18 +963,46 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Halloween Mixtape",
-        "url": "https://open.spotify.com/album/1Defrb5hnuVq7ZnSBtxlRy"
+        "name": "Teenage Heartbreak",
+        "url": "https://open.spotify.com/album/6J3MyFpk3rKOlthkLrW7q9"
       },
       "artists": [
         {
-          "name": "Magnolia Park",
-          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+          "name": "Huddy",
+          "url": "https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f"
+        },
+        {
+          "name": "iann dior",
+          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+        },
+        {
+          "name": "Tyson Ritter",
+          "url": "https://open.spotify.com/artist/683FoiwWxywQus0rfoml0x"
+        },
+        {
+          "name": "Travis Barker",
+          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
         }
       ],
-      "duration_ms": 137052,
-      "name": "10 for 10",
-      "url": "https://open.spotify.com/track/3FJWujo6lhrjtS3w8rR78F"
+      "duration_ms": 156000,
+      "name": "Don't Freak Out (feat. iann dior, Tyson Ritter & Travis Barker)",
+      "url": "https://open.spotify.com/track/1IflC51n9KG5JJh5sHVU1D"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Get A Job",
+        "url": "https://open.spotify.com/album/4J4wfSzNBR5hBABl1dgcYG"
+      },
+      "artists": [
+        {
+          "name": "Games We Play",
+          "url": "https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40"
+        }
+      ],
+      "duration_ms": 186581,
+      "name": "Get A Job",
+      "url": "https://open.spotify.com/track/1SvWcEk0BXuOmQp25PThtR"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Get A Job",
-        "url": "https://open.spotify.com/album/4J4wfSzNBR5hBABl1dgcYG"
+        "name": "Halloween Mixtape",
+        "url": "https://open.spotify.com/album/1Defrb5hnuVq7ZnSBtxlRy"
       },
       "artists": [
         {
-          "name": "Games We Play",
-          "url": "https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40"
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
         }
       ],
-      "duration_ms": 186581,
-      "name": "Get A Job",
-      "url": "https://open.spotify.com/track/1SvWcEk0BXuOmQp25PThtR"
+      "duration_ms": 137052,
+      "name": "10 for 10",
+      "url": "https://open.spotify.com/track/3FJWujo6lhrjtS3w8rR78F"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "28 (Songs for Cooper)",
-        "url": "https://open.spotify.com/album/1O8TQDjg48bsvgdGGNcQPY"
-      },
-      "artists": [
-        {
-          "name": "jxdn",
-          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
-        }
-      ],
-      "duration_ms": 158656,
-      "name": "Beautiful Boy",
-      "url": "https://open.spotify.com/track/1cmIa5VRsl9vOZl6zNRlHf"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "u turn me on (but u give me depression)",
         "url": "https://open.spotify.com/album/7tAEvWFVlVMoPWwyVcwKx8"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 147535,
       "name": "u turn me on (but u give me depression)",
       "url": "https://open.spotify.com/track/7MeP128gHh4GyTMoGUiZlt"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "28 (Songs for Cooper)",
+        "url": "https://open.spotify.com/album/1O8TQDjg48bsvgdGGNcQPY"
+      },
+      "artists": [
+        {
+          "name": "jxdn",
+          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
+        }
+      ],
+      "duration_ms": 158656,
+      "name": "Beautiful Boy",
+      "url": "https://open.spotify.com/track/1cmIa5VRsl9vOZl6zNRlHf"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/1EEFnTyINt6GLnTrNJH1zT"
+      },
+      "artists": [
+        {
+          "name": "Against The Current",
+          "url": "https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B"
+        }
+      ],
+      "duration_ms": 166779,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/2yHmIxXi48DFl6zQlIhEaj"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
         "name": "Timebomb (feat. MOD SUN)",
         "url": "https://open.spotify.com/album/40yndRDwPV70abVTMtxNBU"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 182040,
       "name": "Timebomb (feat. MOD SUN)",
       "url": "https://open.spotify.com/track/4kAsc2vx4NBqk9dXn1nrZC"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "Wildfire",
-        "url": "https://open.spotify.com/album/1EEFnTyINt6GLnTrNJH1zT"
-      },
-      "artists": [
-        {
-          "name": "Against The Current",
-          "url": "https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B"
-        }
-      ],
-      "duration_ms": 166779,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/2yHmIxXi48DFl6zQlIhEaj"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "f.e.a.r.",
-        "url": "https://open.spotify.com/album/0Owl0jFW9adxA4WJVEWQZA"
-      },
-      "artists": [
-        {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
-        }
-      ],
-      "duration_ms": 160380,
-      "name": "hair out",
-      "url": "https://open.spotify.com/track/66MvNxKQGPQS0AUeaoYlcn"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "Drink Milk and Run",
         "url": "https://open.spotify.com/album/5DCxVycZRkODZCbWyGBZFG"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 170390,
       "name": "Drink Milk and Run",
       "url": "https://open.spotify.com/track/3ZKGPsRTyFBnZETepLrDVl"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "f.e.a.r.",
+        "url": "https://open.spotify.com/album/0Owl0jFW9adxA4WJVEWQZA"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "duration_ms": 160380,
+      "name": "hair out",
+      "url": "https://open.spotify.com/track/66MvNxKQGPQS0AUeaoYlcn"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Plastic Heart",
-        "url": "https://open.spotify.com/album/0wJAzRXw1ONSItyFVwMgH3"
-      },
-      "artists": [
-        {
-          "name": "Fame on Fire",
-          "url": "https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP"
-        }
-      ],
-      "duration_ms": 183350,
-      "name": "Plastic Heart",
-      "url": "https://open.spotify.com/track/4hfA3mKxMHm7cOdFHMcfen"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "MANIC MAN",
         "url": "https://open.spotify.com/album/4a6y5jyKNixZqbC3F8rCzb"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 134634,
       "name": "MANIC MAN",
       "url": "https://open.spotify.com/track/7BxSsv7qea87ygUSn4N8uK"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Plastic Heart",
+        "url": "https://open.spotify.com/album/0wJAzRXw1ONSItyFVwMgH3"
+      },
+      "artists": [
+        {
+          "name": "Fame on Fire",
+          "url": "https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP"
+        }
+      ],
+      "duration_ms": 183350,
+      "name": "Plastic Heart",
+      "url": "https://open.spotify.com/track/4hfA3mKxMHm7cOdFHMcfen"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1531,26 +1531,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Feel Something",
-        "url": "https://open.spotify.com/album/6PsHXh69M2FYNf9inMrra5"
-      },
-      "artists": [
-        {
-          "name": "Magnolia Park",
-          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
-        },
-        {
-          "name": "Derek Sanders",
-          "url": "https://open.spotify.com/artist/5vfh5OHbhWef7NigPS6CCE"
-        }
-      ],
-      "duration_ms": 180472,
-      "name": "Feel Something",
-      "url": "https://open.spotify.com/track/6N4j7RO9FJabMrMOS4Tj7e"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "Arcadia",
         "url": "https://open.spotify.com/album/6vWyte1vaXXpZA8TRZzjkF"
       },
@@ -1567,54 +1547,22 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Death Of An Optimist",
-        "url": "https://open.spotify.com/album/0n5LA95QYWAs9wwkkA8Sji"
+        "name": "Feel Something",
+        "url": "https://open.spotify.com/album/6PsHXh69M2FYNf9inMrra5"
       },
       "artists": [
         {
-          "name": "grandson",
-          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
-        }
-      ],
-      "duration_ms": 198365,
-      "name": "In Over My Head",
-      "url": "https://open.spotify.com/track/3r0mb1tzAcCNoA8YRXuIhZ"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "Harder Than It Looks",
-        "url": "https://open.spotify.com/album/0NgcYDpxXtgTADvZdVTLtP"
-      },
-      "artists": [
-        {
-          "name": "Simple Plan",
-          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
-        }
-      ],
-      "duration_ms": 195898,
-      "name": "The Antidote",
-      "url": "https://open.spotify.com/track/79Cr40AJWWnmUNTxyi2nhp"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "debbie downer",
-        "url": "https://open.spotify.com/album/4jxtbLNDuxXJwXk8D9EhS6"
-      },
-      "artists": [
-        {
-          "name": "L\u00d8L\u00d8",
-          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
         },
         {
-          "name": "Maggie Lindemann",
-          "url": "https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf"
+          "name": "Derek Sanders",
+          "url": "https://open.spotify.com/artist/5vfh5OHbhWef7NigPS6CCE"
         }
       ],
-      "duration_ms": 159617,
-      "name": "debbie downer",
-      "url": "https://open.spotify.com/track/6VTzauIrG2hjKtKFYFJfMT"
+      "duration_ms": 180472,
+      "name": "Feel Something",
+      "url": "https://open.spotify.com/track/6N4j7RO9FJabMrMOS4Tj7e"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1639,6 +1587,58 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
+        "name": "Harder Than It Looks",
+        "url": "https://open.spotify.com/album/0NgcYDpxXtgTADvZdVTLtP"
+      },
+      "artists": [
+        {
+          "name": "Simple Plan",
+          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
+        }
+      ],
+      "duration_ms": 195898,
+      "name": "The Antidote",
+      "url": "https://open.spotify.com/track/79Cr40AJWWnmUNTxyi2nhp"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Death Of An Optimist",
+        "url": "https://open.spotify.com/album/0n5LA95QYWAs9wwkkA8Sji"
+      },
+      "artists": [
+        {
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+        }
+      ],
+      "duration_ms": 198365,
+      "name": "In Over My Head",
+      "url": "https://open.spotify.com/track/3r0mb1tzAcCNoA8YRXuIhZ"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "debbie downer",
+        "url": "https://open.spotify.com/album/4jxtbLNDuxXJwXk8D9EhS6"
+      },
+      "artists": [
+        {
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+        },
+        {
+          "name": "Maggie Lindemann",
+          "url": "https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf"
+        }
+      ],
+      "duration_ms": 159617,
+      "name": "debbie downer",
+      "url": "https://open.spotify.com/track/6VTzauIrG2hjKtKFYFJfMT"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
         "name": "One Night",
         "url": "https://open.spotify.com/album/4HtlSIrrw2tvdaBEjYwLFt"
       },
@@ -1651,6 +1651,22 @@
       "duration_ms": 163492,
       "name": "One Night",
       "url": "https://open.spotify.com/track/1XvUJqINdj0IiYyvodOBsR"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "UNCOMPLICATED",
+        "url": "https://open.spotify.com/album/1bY6MJZFiRStXOHnIolIhn"
+      },
+      "artists": [
+        {
+          "name": "R\u00d8RY",
+          "url": "https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI"
+        }
+      ],
+      "duration_ms": 149713,
+      "name": "UNCOMPLICATED",
+      "url": "https://open.spotify.com/track/2u1I5zNsB0FzoVhuzCCszK"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1687,22 +1703,6 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "UNCOMPLICATED",
-        "url": "https://open.spotify.com/album/1bY6MJZFiRStXOHnIolIhn"
-      },
-      "artists": [
-        {
-          "name": "R\u00d8RY",
-          "url": "https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI"
-        }
-      ],
-      "duration_ms": 149713,
-      "name": "UNCOMPLICATED",
-      "url": "https://open.spotify.com/track/2u1I5zNsB0FzoVhuzCCszK"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
         "name": "Chemical Warfare",
         "url": "https://open.spotify.com/album/7Jj4PREXmX0x6Jc0riWbca"
       },
@@ -1719,38 +1719,18 @@
     {
       "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Teenagers",
-        "url": "https://open.spotify.com/album/5TfVRbdmzVVrg9adogpSIo"
+        "name": "Untitled Vol. 1",
+        "url": "https://open.spotify.com/album/5RscHvy7yGXeORtORQqi7a"
       },
       "artists": [
         {
-          "name": "The Summer Set",
-          "url": "https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w"
-        },
-        {
-          "name": "Against The Current",
-          "url": "https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B"
+          "name": "Caspr",
+          "url": "https://open.spotify.com/artist/6yZgSbQMnAFpQRgv7EMRzZ"
         }
       ],
-      "duration_ms": 182253,
-      "name": "Teenagers",
-      "url": "https://open.spotify.com/track/5rAJ3juCRPOL3xiKjnQHWO"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "Wish You Well",
-        "url": "https://open.spotify.com/album/7DllxBuh4dcjrORcKNkyQf"
-      },
-      "artists": [
-        {
-          "name": "Jack Kays",
-          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
-        }
-      ],
-      "duration_ms": 166273,
-      "name": "Wish You Well",
-      "url": "https://open.spotify.com/track/7KuSHOqPEgLzE8UwSoaKX1"
+      "duration_ms": 164117,
+      "name": "Coke Nose",
+      "url": "https://open.spotify.com/track/2X61mBwv23xOTnv71MJUf0"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1771,6 +1751,22 @@
       "duration_ms": 183564,
       "name": "Act Like That",
       "url": "https://open.spotify.com/track/2qcYGGuNPYilXVwFx0KEFz"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "I WENT TO HELL AND BACK",
+        "url": "https://open.spotify.com/album/0C9MH7ojRpjgfFJ5CNiEZu"
+      },
+      "artists": [
+        {
+          "name": "AS IT IS",
+          "url": "https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y"
+        }
+      ],
+      "duration_ms": 178560,
+      "name": "IDGAF",
+      "url": "https://open.spotify.com/track/0CC1Ozv6aXadGKlKPHVEzv"
     }
   ],
   "unique_name": "The Scene",

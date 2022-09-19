@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor de los '70. Foto: Ismael Rivera",
-  "num_followers": 140611,
+  "num_followers": 140685,
   "original_name": "Salsa: Los '70",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTIwMDE5NSwwMDAwMDAwMDQ3MTk4MWE5YzY5NjI5YjM3YTcwMTlmMzg2ZDcxZmQ3",
+  "snapshot_id": "MTY0NTIwMDE5NSwwMDAwMDAwMDU5NDJmMjBmMDk4YTlhNDc4ZDY3MzYwZDM5MGRlMjY2",
   "tracks": [
     {
       "added_at": "2022-02-18 16:03:15",
@@ -599,26 +599,6 @@
     {
       "added_at": "2022-02-18 16:03:15",
       "album": {
-        "name": "Baile Con Cortijo",
-        "url": "https://open.spotify.com/album/0GlMPsTR4U1x1k3TkUcK7o"
-      },
-      "artists": [
-        {
-          "name": "Cortijo Y Su Combo",
-          "url": "https://open.spotify.com/artist/4S3JIryQM3mFVhXmQKjtma"
-        },
-        {
-          "name": "Ismael Rivera",
-          "url": "https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ"
-        }
-      ],
-      "duration_ms": 180560,
-      "name": "El Negro Bemb\u00f3n",
-      "url": "https://open.spotify.com/track/5HBSFow30fXy0bPsCji7b9"
-    },
-    {
-      "added_at": "2022-02-18 16:03:15",
-      "album": {
         "name": "Aqui Esta el Reencuentro",
         "url": "https://open.spotify.com/album/2Vpk4g41LQN5eD4A7G48ld"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 290456,
       "name": "Vagabundo",
       "url": "https://open.spotify.com/track/3drdfMEzD3EoLCdvAB4bhr"
+    },
+    {
+      "added_at": "2022-02-18 16:03:15",
+      "album": {
+        "name": "Baile Con Cortijo",
+        "url": "https://open.spotify.com/album/0GlMPsTR4U1x1k3TkUcK7o"
+      },
+      "artists": [
+        {
+          "name": "Cortijo Y Su Combo",
+          "url": "https://open.spotify.com/artist/4S3JIryQM3mFVhXmQKjtma"
+        },
+        {
+          "name": "Ismael Rivera",
+          "url": "https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ"
+        }
+      ],
+      "duration_ms": 180560,
+      "name": "El Negro Bemb\u00f3n",
+      "url": "https://open.spotify.com/track/5HBSFow30fXy0bPsCji7b9"
     },
     {
       "added_at": "2022-02-18 16:03:15",

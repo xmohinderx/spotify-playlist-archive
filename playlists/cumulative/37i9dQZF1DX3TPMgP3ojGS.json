@@ -424,6 +424,24 @@
     },
     {
       "album": {
+        "name": "A New Path",
+        "url": "https://open.spotify.com/album/3q36F69MAyybtWLlbdiCjw"
+      },
+      "artists": [
+        {
+          "name": "Damien Jeunet",
+          "url": "https://open.spotify.com/artist/4PLGZc5uRGoXxjzjVDzlPs"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113758,
+      "name": "A New Path",
+      "url": "https://open.spotify.com/track/6dG6b98wdolLoHdFaAusxR"
+    },
+    {
+      "album": {
         "name": "Motion Picture",
         "url": "https://open.spotify.com/album/0root1UoHuqQYlGdUGglOT"
       },
@@ -10800,6 +10818,24 @@
     },
     {
       "album": {
+        "name": "Ikigai",
+        "url": "https://open.spotify.com/album/3aDHuV1ItjYUae2DLHBcBi"
+      },
+      "artists": [
+        {
+          "name": "Violet Mar",
+          "url": "https://open.spotify.com/artist/5elUadW5r1Yr21zo4bV7sh"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180020,
+      "name": "Ikigai",
+      "url": "https://open.spotify.com/track/2StQJ41DNRKRHNfGbKexPM"
+    },
+    {
+      "album": {
         "name": "Il cielo si apre",
         "url": "https://open.spotify.com/album/6WnWasSXE7N6hvqGkTw5jG"
       },
@@ -15089,7 +15125,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 120000,
       "name": "Mis\u00e9rable",
       "url": "https://open.spotify.com/track/1KVKQkKQ6pk8Hai7aKj5nx"
@@ -24517,7 +24553,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 198952,
       "name": "Tone of Love",
       "url": "https://open.spotify.com/track/3Z0n8POAcDQCSyxA06cqbW"

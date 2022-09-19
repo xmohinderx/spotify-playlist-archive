@@ -1,12 +1,12 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Koe Wetzel",
-  "num_followers": 384633,
+  "num_followers": 384705,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMGM0ZjU4OTNlNjFiNGJkODE3YmI5NGJmMzYyMTBmMDQy",
+  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMGQzNzNiOGI1ZDI1M2U5OTA2OGQ3NTY0OTY5NDAwMzky",
   "tracks": [
     {
       "added_at": "2022-09-16 04:00:00",
@@ -371,6 +371,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "April Showers",
+        "url": "https://open.spotify.com/album/35DYE0Y5qdxojyBA2CXVYX"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 182346,
+      "name": "April Showers",
+      "url": "https://open.spotify.com/track/0E2VoyCHqPn47yGMVgQmrK"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "Happier Alone (feat. Koe Wetzel)",
         "url": "https://open.spotify.com/album/3FMpvDKoq0GAMYKn72pqlC"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 224027,
       "name": "Happier Alone (feat. Koe Wetzel)",
       "url": "https://open.spotify.com/track/4VyZr1v1MNeZbl6eV8ZJGh"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "April Showers",
-        "url": "https://open.spotify.com/album/35DYE0Y5qdxojyBA2CXVYX"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 182346,
-      "name": "April Showers",
-      "url": "https://open.spotify.com/track/0E2VoyCHqPn47yGMVgQmrK"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "The Last Resort: Greetings From",
-        "url": "https://open.spotify.com/album/6qURbeUcbhHdGXDAUzZcag"
-      },
-      "artists": [
-        {
-          "name": "Midland",
-          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
-        }
-      ],
-      "duration_ms": 207773,
-      "name": "Sunrise Tells The Story",
-      "url": "https://open.spotify.com/track/1fCl1BY97PPNnac9oewVBJ"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Burnout",
         "url": "https://open.spotify.com/album/6E9hTVy9M8uxAUQPaTH7eE"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 242517,
       "name": "Burnout",
       "url": "https://open.spotify.com/track/5rQxbTWwuOoNV9q2PSRWZs"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "The Last Resort: Greetings From",
+        "url": "https://open.spotify.com/album/6qURbeUcbhHdGXDAUzZcag"
+      },
+      "artists": [
+        {
+          "name": "Midland",
+          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
+        }
+      ],
+      "duration_ms": 207773,
+      "name": "Sunrise Tells The Story",
+      "url": "https://open.spotify.com/track/1fCl1BY97PPNnac9oewVBJ"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -919,18 +919,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Fooled Around",
-        "url": "https://open.spotify.com/album/1CDfkllTerM9sZEAs0Gd0Q"
+        "name": "But Me",
+        "url": "https://open.spotify.com/album/3EMvVIcOA7woHlWrlxQoF1"
       },
       "artists": [
         {
-          "name": "Presley Drake",
-          "url": "https://open.spotify.com/artist/0IQG9LULw1mZehtAXtF9ld"
+          "name": "Slade Coulter",
+          "url": "https://open.spotify.com/artist/0Qht1bMfMyq85aI74COUvn"
         }
       ],
-      "duration_ms": 192125,
-      "name": "Fooled Around",
-      "url": "https://open.spotify.com/track/5BIOWZoUF45eU07lNuPXz6"
+      "duration_ms": 235920,
+      "name": "But Me",
+      "url": "https://open.spotify.com/track/4Y6NQuXwIQNbRJccgE9ul2"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -951,6 +951,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "Fooled Around",
+        "url": "https://open.spotify.com/album/1CDfkllTerM9sZEAs0Gd0Q"
+      },
+      "artists": [
+        {
+          "name": "Presley Drake",
+          "url": "https://open.spotify.com/artist/0IQG9LULw1mZehtAXtF9ld"
+        }
+      ],
+      "duration_ms": 192125,
+      "name": "Fooled Around",
+      "url": "https://open.spotify.com/track/5BIOWZoUF45eU07lNuPXz6"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "Boy From Anderson County",
         "url": "https://open.spotify.com/album/2Mo6Xc2RfhJD6QkmRjYdid"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 244290,
       "name": "Boy From Anderson County",
       "url": "https://open.spotify.com/track/6H4TyfdTbm1bIaBkXiyvvw"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "But Me",
-        "url": "https://open.spotify.com/album/3EMvVIcOA7woHlWrlxQoF1"
-      },
-      "artists": [
-        {
-          "name": "Slade Coulter",
-          "url": "https://open.spotify.com/artist/0Qht1bMfMyq85aI74COUvn"
-        }
-      ],
-      "duration_ms": 235920,
-      "name": "But Me",
-      "url": "https://open.spotify.com/track/4Y6NQuXwIQNbRJccgE9ul2"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Varsity Type",
-        "url": "https://open.spotify.com/album/3QMqwEyKKpfc60T6P46ImP"
-      },
-      "artists": [
-        {
-          "name": "Austin Meade",
-          "url": "https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79"
-        }
-      ],
-      "duration_ms": 202383,
-      "name": "Varsity Type",
-      "url": "https://open.spotify.com/track/6ib18tpFXAP1kVlzWMmJzD"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Wannabe",
         "url": "https://open.spotify.com/album/5XrGiVliWSPdiaIySBz5y4"
       },
@@ -1071,18 +1055,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "The Last Resort: Greetings From",
-        "url": "https://open.spotify.com/album/6qURbeUcbhHdGXDAUzZcag"
+        "name": "Varsity Type",
+        "url": "https://open.spotify.com/album/3QMqwEyKKpfc60T6P46ImP"
       },
       "artists": [
         {
-          "name": "Midland",
-          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
+          "name": "Austin Meade",
+          "url": "https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79"
         }
       ],
-      "duration_ms": 229586,
-      "name": "If I Lived Here",
-      "url": "https://open.spotify.com/track/2jc2BVAr4FPqYowcXoDTlD"
+      "duration_ms": 202383,
+      "name": "Varsity Type",
+      "url": "https://open.spotify.com/track/6ib18tpFXAP1kVlzWMmJzD"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1099,6 +1083,22 @@
       "duration_ms": 217720,
       "name": "Telling on My Heart",
       "url": "https://open.spotify.com/track/6g7qBmMtsGFxzeEkT0YiJ7"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "The Last Resort: Greetings From",
+        "url": "https://open.spotify.com/album/6qURbeUcbhHdGXDAUzZcag"
+      },
+      "artists": [
+        {
+          "name": "Midland",
+          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
+        }
+      ],
+      "duration_ms": 229586,
+      "name": "If I Lived Here",
+      "url": "https://open.spotify.com/track/2jc2BVAr4FPqYowcXoDTlD"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "Built Different",
+        "url": "https://open.spotify.com/album/4ShfeQkF2wvKB17ZrMnKTn"
+      },
+      "artists": [
+        {
+          "name": "Casey Donahew",
+          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
+        }
+      ],
+      "duration_ms": 180453,
+      "name": "Built Different",
+      "url": "https://open.spotify.com/track/0zEAZTsPl7VXJJ6vx2iAkZ"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "Once in a Blue Moon",
         "url": "https://open.spotify.com/album/7il1OFIKfeTBSiYBFlH1Mk"
       },
@@ -1171,18 +1187,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Built Different",
-        "url": "https://open.spotify.com/album/4ShfeQkF2wvKB17ZrMnKTn"
+        "name": "Laci Kaye Booth",
+        "url": "https://open.spotify.com/album/0K9vrVf1zQTQJN5iU8wF79"
       },
       "artists": [
         {
-          "name": "Casey Donahew",
-          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
+          "name": "Laci Kaye Booth",
+          "url": "https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4"
         }
       ],
-      "duration_ms": 180453,
-      "name": "Built Different",
-      "url": "https://open.spotify.com/track/0zEAZTsPl7VXJJ6vx2iAkZ"
+      "duration_ms": 192680,
+      "name": "Shuffle",
+      "url": "https://open.spotify.com/track/7dqCwV8GYfRrJzQO1hdBRE"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1199,22 +1215,6 @@
       "duration_ms": 209440,
       "name": "I'm Going Home",
       "url": "https://open.spotify.com/track/3nvZXA6csYuvqr1Y8cbkWw"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Laci Kaye Booth",
-        "url": "https://open.spotify.com/album/0K9vrVf1zQTQJN5iU8wF79"
-      },
-      "artists": [
-        {
-          "name": "Laci Kaye Booth",
-          "url": "https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4"
-        }
-      ],
-      "duration_ms": 192680,
-      "name": "Shuffle",
-      "url": "https://open.spotify.com/track/7dqCwV8GYfRrJzQO1hdBRE"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Times Are Changing",
-        "url": "https://open.spotify.com/album/20Q4v43C8afzHFQqFqOHEw"
-      },
-      "artists": [
-        {
-          "name": "Dylan Wheeler",
-          "url": "https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87"
-        }
-      ],
-      "duration_ms": 219481,
-      "name": "Shines Through",
-      "url": "https://open.spotify.com/track/2GrVTTzKbgxQcE4OrIqcHI"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Wherever I Am",
         "url": "https://open.spotify.com/album/4aQw7SewykLPkahUFWdGoS"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 253101,
       "name": "Wherever I Am",
       "url": "https://open.spotify.com/track/1mIAWUrotcchpannDztoxM"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Times Are Changing",
+        "url": "https://open.spotify.com/album/20Q4v43C8afzHFQqFqOHEw"
+      },
+      "artists": [
+        {
+          "name": "Dylan Wheeler",
+          "url": "https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87"
+        }
+      ],
+      "duration_ms": 219481,
+      "name": "Shines Through",
+      "url": "https://open.spotify.com/track/2GrVTTzKbgxQcE4OrIqcHI"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "Pleasure in the Pain (Acoustic)",
+        "url": "https://open.spotify.com/album/0g34MxtPrMRcK6uVtNAQ99"
+      },
+      "artists": [
+        {
+          "name": "Dylan Wheeler",
+          "url": "https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87"
+        }
+      ],
+      "duration_ms": 238132,
+      "name": "Pleasure in the Pain (Acoustic)",
+      "url": "https://open.spotify.com/track/0SnkVKNi88G8lKlXala0Nu"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "Baker Hotel",
         "url": "https://open.spotify.com/album/7oj9A1igjcHCBnq6SyfB75"
       },
@@ -1527,18 +1543,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Pleasure in the Pain (Acoustic)",
-        "url": "https://open.spotify.com/album/0g34MxtPrMRcK6uVtNAQ99"
+        "name": "Honky Tonk in Heaven",
+        "url": "https://open.spotify.com/album/2tTuVmz1S6wfK6mu07F5UP"
       },
       "artists": [
         {
-          "name": "Dylan Wheeler",
-          "url": "https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87"
+          "name": "Kin Faux",
+          "url": "https://open.spotify.com/artist/5bbkKY1uKarzJOS1CMsfQu"
         }
       ],
-      "duration_ms": 238132,
-      "name": "Pleasure in the Pain (Acoustic)",
-      "url": "https://open.spotify.com/track/0SnkVKNi88G8lKlXala0Nu"
+      "duration_ms": 167520,
+      "name": "Wild Horses",
+      "url": "https://open.spotify.com/track/0fC6Zc3DJtwyH58eCXox3v"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1575,22 +1591,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "God & Everybody",
-        "url": "https://open.spotify.com/album/6yj5Pq8WlbTtGpxamLq02I"
-      },
-      "artists": [
-        {
-          "name": "Grant Gilbert",
-          "url": "https://open.spotify.com/artist/22JGfpxVueSHqP2SIi1919"
-        }
-      ],
-      "duration_ms": 174293,
-      "name": "God & Everybody",
-      "url": "https://open.spotify.com/track/6n0HI4p826Zh2qUjlpNPnQ"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Parker Ryan",
         "url": "https://open.spotify.com/album/4iCyyEW61JDJimz3pvU03j"
       },
@@ -1603,6 +1603,22 @@
       "duration_ms": 239293,
       "name": "Beaumont",
       "url": "https://open.spotify.com/track/024K3TtiidXB4YBqiVEfD2"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "God & Everybody",
+        "url": "https://open.spotify.com/album/6yj5Pq8WlbTtGpxamLq02I"
+      },
+      "artists": [
+        {
+          "name": "Grant Gilbert",
+          "url": "https://open.spotify.com/artist/22JGfpxVueSHqP2SIi1919"
+        }
+      ],
+      "duration_ms": 174293,
+      "name": "God & Everybody",
+      "url": "https://open.spotify.com/track/6n0HI4p826Zh2qUjlpNPnQ"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1623,18 +1639,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Honky Tonk in Heaven",
-        "url": "https://open.spotify.com/album/2tTuVmz1S6wfK6mu07F5UP"
+        "name": "Settle for a Beer (with Triston Marez)",
+        "url": "https://open.spotify.com/album/1q249Sj18kanQdDOnbPiep"
       },
       "artists": [
         {
-          "name": "Kin Faux",
-          "url": "https://open.spotify.com/artist/5bbkKY1uKarzJOS1CMsfQu"
+          "name": "Triston Marez",
+          "url": "https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88"
+        },
+        {
+          "name": "Braxton Keith",
+          "url": "https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf"
         }
       ],
-      "duration_ms": 167520,
-      "name": "Wild Horses",
-      "url": "https://open.spotify.com/track/0fC6Zc3DJtwyH58eCXox3v"
+      "duration_ms": 174327,
+      "name": "Settle for a Beer (with Triston Marez)",
+      "url": "https://open.spotify.com/track/115CHmW7Y3cRC0qYZyeUGM"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1655,26 +1675,6 @@
       "duration_ms": 242253,
       "name": "A Guitar, A Singer and A Song (feat. Vince Gill)",
       "url": "https://open.spotify.com/track/7L3fHu03qNMVo6XS6BQfzF"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Settle for a Beer (with Triston Marez)",
-        "url": "https://open.spotify.com/album/1q249Sj18kanQdDOnbPiep"
-      },
-      "artists": [
-        {
-          "name": "Triston Marez",
-          "url": "https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88"
-        },
-        {
-          "name": "Braxton Keith",
-          "url": "https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf"
-        }
-      ],
-      "duration_ms": 174327,
-      "name": "Settle for a Beer (with Triston Marez)",
-      "url": "https://open.spotify.com/track/115CHmW7Y3cRC0qYZyeUGM"
     }
   ],
   "unique_name": "Texas Country Now",

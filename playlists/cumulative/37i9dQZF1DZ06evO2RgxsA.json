@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-09-17",
   "description": "This is NOFX. The essential tracks, all in one playlist.",
   "name": "This Is NOFX",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "1vnCs1yYJOqwVP1hIqviIU"
+  ],
   "tracks": [
     {
       "album": {
@@ -35,7 +37,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 145360,
       "name": "60%",
       "url": "https://open.spotify.com/track/6Rnht7CdElV3gwvTGv6It0"
@@ -658,6 +660,24 @@
     },
     {
       "album": {
+        "name": "West Coast vs. Wessex",
+        "url": "https://open.spotify.com/album/1V0jqCyz5StIhGp16Ggdz7"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165857,
+      "name": "Substitute",
+      "url": "https://open.spotify.com/track/6FOktD0ZXPpXdGQDHgEdrJ"
+    },
+    {
+      "album": {
         "name": "Pump Up The Valuum",
         "url": "https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE"
       },
@@ -669,7 +689,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 145466,
       "name": "Take Two Placebos And Call Me Lame",
       "url": "https://open.spotify.com/track/21iXdVnWCEpYuOmeY9YKPh"
@@ -799,6 +819,24 @@
       "duration_ms": 78800,
       "name": "The Man I Killed",
       "url": "https://open.spotify.com/track/1tqZNNfMFZPjUtpmBCrEQd"
+    },
+    {
+      "album": {
+        "name": "Ribbed",
+        "url": "https://open.spotify.com/album/1zSh4dywDdr83HQGpvOwCQ"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146933,
+      "name": "The Moron Brothers",
+      "url": "https://open.spotify.com/track/7B0XWr4O3lvYjNHSXPLsbI"
     },
     {
       "album": {

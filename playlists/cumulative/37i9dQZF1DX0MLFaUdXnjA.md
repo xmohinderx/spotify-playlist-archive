@@ -4,7 +4,7 @@
 
 > Keep it low\-key with all of today's chill pop\. Cover: Omar Apollo
 
-1,054 songs - 2 day 7 hr 55 min - [published](https://open.spotify.com/playlist/6isU2kXFblpGeacMELfavp)
+1,055 songs - 2 day 7 hr 58 min - [published](https://open.spotify.com/playlist/6isU2kXFblpGeacMELfavp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -532,7 +532,7 @@
 | [Lavish](https://open.spotify.com/track/3GosZi8HGbuk1sKu6Ticey) | [Carly Gibert](https://open.spotify.com/artist/3dBpGX6fuWAYxWhDspbVbQ) | [Lavish](https://open.spotify.com/album/0YpJIAXw4dE1iLeC5M1asu) | 3:30 | 2021-02-26 | 2021-04-30 |
 | [Lay It All on Me](https://open.spotify.com/track/1XLsYfnnUBLpp8nxIHwCHU) | [Johnny Stimson](https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE) | [Lay It All on Me](https://open.spotify.com/album/4nyfzK6CJU2LObb8TIsDYL) | 2:47 | 2021-08-07 | 2021-10-23 |
 | [Le Ciel](https://open.spotify.com/track/4QRu2eetLrRNGI9LIiD8Su) | [Naliya](https://open.spotify.com/artist/6n4qDgsuoohAN5Q7HebLvU) | [Le Ciel](https://open.spotify.com/album/4d5kcg47vlWoaULjX2LAV6) | 1:14 | 2021-10-09 | 2021-10-23 |
-| [Learning To Live Without You](https://open.spotify.com/track/2cEMwE3n0z4Uw4xVwNqDst) | [Hajaj](https://open.spotify.com/artist/08yjRkGm8KNsShKjtbEmt6) | [Learning To Live Without You](https://open.spotify.com/album/4D3Kj2stDw3tnnfjOBrEvB) | 3:13 | 2022-01-07 |  |
+| [Learning To Live Without You](https://open.spotify.com/track/2cEMwE3n0z4Uw4xVwNqDst) | [Hajaj](https://open.spotify.com/artist/08yjRkGm8KNsShKjtbEmt6) | [Learning To Live Without You](https://open.spotify.com/album/4D3Kj2stDw3tnnfjOBrEvB) | 3:13 | 2022-01-07 | 2022-09-19 |
 | [Lemonade](https://open.spotify.com/track/5Kr72kgrS973p2pj2ljRt5) | [Lowell](https://open.spotify.com/artist/3MJ2o2vTovueQARKmOzHls) | [Lemonade](https://open.spotify.com/album/3H590nC6Jt4RkHfd8UBT7s) | 3:47 | 2020-10-16 | 2020-11-13 |
 | [Let Me Know](https://open.spotify.com/track/4V33aS5qju2ujbQt8JKi6P) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Pacifico](https://open.spotify.com/album/5PrhnVNOKoJC2aLLfabxuB) | 2:17 | 2021-06-26 | 2021-09-04 |
 | [Let Somebody Go \- Single Version](https://open.spotify.com/track/1d8Pn4akKfdadbavUjAGoS) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Let Somebody Go](https://open.spotify.com/album/0vS8EETjc2cnCu5j32uxxq) | 3:32 | 2022-03-04 | 2022-05-07 |
@@ -690,6 +690,7 @@
 | [Older \(feat\. Sierra Deaton\)](https://open.spotify.com/track/3NnvYEb93CrTVBssPtSCt1) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy), [Sierra Deaton](https://open.spotify.com/artist/3cntanE0bEw8YXMzSf2Szs) | [Older](https://open.spotify.com/album/1VSYQDyDwa6WMyiuHKk8mL) | 3:17 | 2022-09-09 |  |
 | [Older Overnight \- Bonus Track](https://open.spotify.com/track/4PkEC6lj6GXgxDyjmG4obk) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Grown\-ish](https://open.spotify.com/album/4HsUtIgXcWzJetVBHPybg0) | 2:39 | 2021-02-26 | 2021-06-26 |
 | [Older Than I Am](https://open.spotify.com/track/15VDHAMS4JCLziCjNkmQl1) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Three\. Two\. One.](https://open.spotify.com/album/3nP0DOBWPfEToiDGMXZCAb) | 3:01 | 2020-05-01 | 2020-09-18 |
+| [On The Weekend](https://open.spotify.com/track/0F9IVBckC6BjxmkSy8Jts9) | [Mills](https://open.spotify.com/artist/7MceGzCJ3bPNyErb440Izo) | [On The Weekend](https://open.spotify.com/album/1rm0uC0uo87fuQuCfEgffH) | 2:52 | 2022-09-19 |  |
 | [Once Upon A Time](https://open.spotify.com/track/6gEAtpx5St6cbPkJfZNQ1t) | [SHAED](https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR) | [Once Upon A Time](https://open.spotify.com/album/7cxeHwDuhQxZeiE5Oxew7d) | 3:46 | 2020-12-13 | 2021-03-19 |
 | [One](https://open.spotify.com/track/21Xv9HhXnTjsyvwAcCyWhI) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [One](https://open.spotify.com/album/4WQDeihU1K0tdoOqRoYsvW) | 4:11 | 2021-04-24 | 2021-06-26 |
 | [One Day](https://open.spotify.com/track/7qVRBPZI5b8G6xk9RsdZ9L) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa) | [One Day](https://open.spotify.com/album/2MCRIr4TtPY0X9qmcPHdLO) | 2:43 | 2020-11-21 | 2021-03-19 |

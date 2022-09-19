@@ -1,12 +1,12 @@
 {
   "description": "Gym harder, better, faster and longer. Yes, you CAN do it.",
-  "num_followers": 983400,
+  "num_followers": 983422,
   "original_name": "You Can Do It",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM2ODkzMSwwMDAwMDAwMDY5YjAyNmUyNjdmNzVkYWM0Y2FhZWE0NDYwY2I5YTEz",
+  "snapshot_id": "MTY2MjM2ODkzMSwwMDAwMDAwMDIzNTcyNWRhZmE4YWVhM2RiNzAxMTRjOGY2Y2VhMWI3",
   "tracks": [
     {
       "added_at": "2022-09-05 09:08:51",
@@ -163,6 +163,42 @@
     {
       "added_at": "2022-09-05 09:08:51",
       "album": {
+        "name": "B.O.T.A. (Baddest Of Them All)",
+        "url": "https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK"
+      },
+      "artists": [
+        {
+          "name": "Eliza Rose",
+          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
+        },
+        {
+          "name": "Interplanetary Criminal",
+          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+        }
+      ],
+      "duration_ms": 226626,
+      "name": "B.O.T.A. (Baddest Of Them All) - Edit",
+      "url": "https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft"
+    },
+    {
+      "added_at": "2022-09-05 09:08:51",
+      "album": {
+        "name": "There\u2019s Nothing Else",
+        "url": "https://open.spotify.com/album/0xZtYRqv5nZfnBvFpZjTmi"
+      },
+      "artists": [
+        {
+          "name": "Saffron Stone",
+          "url": "https://open.spotify.com/artist/71FmTfYoEXhF3kSsbPiuKz"
+        }
+      ],
+      "duration_ms": 186260,
+      "name": "There\u2019s Nothing Else",
+      "url": "https://open.spotify.com/track/3379x2xu9JNFFjY3XFn61Z"
+    },
+    {
+      "added_at": "2022-09-05 09:08:51",
+      "album": {
         "name": "Where Did You Go (feat. MNEK)",
         "url": "https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL"
       },
@@ -183,18 +219,22 @@
     {
       "added_at": "2022-09-05 09:08:51",
       "album": {
-        "name": "There\u2019s Nothing Else",
-        "url": "https://open.spotify.com/album/0xZtYRqv5nZfnBvFpZjTmi"
+        "name": "Chemical Embrace",
+        "url": "https://open.spotify.com/album/2Y7wLomfZhspSA1exyLcPS"
       },
       "artists": [
         {
-          "name": "Saffron Stone",
-          "url": "https://open.spotify.com/artist/71FmTfYoEXhF3kSsbPiuKz"
+          "name": "Emily Nash",
+          "url": "https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup"
+        },
+        {
+          "name": "Olivia Sebastianelli",
+          "url": "https://open.spotify.com/artist/0DCRUk25XIiRFiNtiuR8OR"
         }
       ],
-      "duration_ms": 186260,
-      "name": "There\u2019s Nothing Else",
-      "url": "https://open.spotify.com/track/3379x2xu9JNFFjY3XFn61Z"
+      "duration_ms": 192405,
+      "name": "Chemical Embrace",
+      "url": "https://open.spotify.com/track/7ixvpOECWOPu1q2MWCXN0R"
     },
     {
       "added_at": "2022-09-05 09:08:51",
@@ -223,46 +263,6 @@
       "duration_ms": 148629,
       "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
       "url": "https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA"
-    },
-    {
-      "added_at": "2022-09-05 09:08:51",
-      "album": {
-        "name": "Chemical Embrace",
-        "url": "https://open.spotify.com/album/2Y7wLomfZhspSA1exyLcPS"
-      },
-      "artists": [
-        {
-          "name": "Emily Nash",
-          "url": "https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup"
-        },
-        {
-          "name": "Olivia Sebastianelli",
-          "url": "https://open.spotify.com/artist/0DCRUk25XIiRFiNtiuR8OR"
-        }
-      ],
-      "duration_ms": 192405,
-      "name": "Chemical Embrace",
-      "url": "https://open.spotify.com/track/7ixvpOECWOPu1q2MWCXN0R"
-    },
-    {
-      "added_at": "2022-09-05 09:08:51",
-      "album": {
-        "name": "B.O.T.A. (Baddest Of Them All)",
-        "url": "https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK"
-      },
-      "artists": [
-        {
-          "name": "Eliza Rose",
-          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
-        },
-        {
-          "name": "Interplanetary Criminal",
-          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
-        }
-      ],
-      "duration_ms": 226626,
-      "name": "B.O.T.A. (Baddest Of Them All) - Edit",
-      "url": "https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft"
     },
     {
       "added_at": "2022-09-05 09:08:51",
@@ -491,6 +491,22 @@
     {
       "added_at": "2022-09-05 09:08:51",
       "album": {
+        "name": "Black Magic",
+        "url": "https://open.spotify.com/album/5AK6JW4lDEomh8p9LdTSV3"
+      },
+      "artists": [
+        {
+          "name": "Jonasu",
+          "url": "https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT"
+        }
+      ],
+      "duration_ms": 174193,
+      "name": "Black Magic",
+      "url": "https://open.spotify.com/track/7zx1i0jGcFwMBurajgKlO7"
+    },
+    {
+      "added_at": "2022-09-05 09:08:51",
+      "album": {
         "name": "Still Sleepless",
         "url": "https://open.spotify.com/album/0R8Q1Ssj8x17w30NUas7yu"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 162879,
       "name": "Still Sleepless",
       "url": "https://open.spotify.com/track/4vyG9ZhHT8MKJE5mTICMFC"
-    },
-    {
-      "added_at": "2022-09-05 09:08:51",
-      "album": {
-        "name": "Black Magic",
-        "url": "https://open.spotify.com/album/5AK6JW4lDEomh8p9LdTSV3"
-      },
-      "artists": [
-        {
-          "name": "Jonasu",
-          "url": "https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT"
-        }
-      ],
-      "duration_ms": 174193,
-      "name": "Black Magic",
-      "url": "https://open.spotify.com/track/7zx1i0jGcFwMBurajgKlO7"
     },
     {
       "added_at": "2022-09-05 09:08:51",
@@ -731,26 +731,6 @@
     {
       "added_at": "2022-09-05 09:08:51",
       "album": {
-        "name": "Temptation (feat. Poppy Baskcomb)",
-        "url": "https://open.spotify.com/album/30K7gYPhkqCeQJ25C0GvXE"
-      },
-      "artists": [
-        {
-          "name": "Jess Bays",
-          "url": "https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB"
-        },
-        {
-          "name": "Poppy Baskcomb",
-          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
-        }
-      ],
-      "duration_ms": 172197,
-      "name": "Temptation (feat. Poppy Baskcomb)",
-      "url": "https://open.spotify.com/track/3fvsxmytTns1ApIWBqfANZ"
-    },
-    {
-      "added_at": "2022-09-05 09:08:51",
-      "album": {
         "name": "Disconnected",
         "url": "https://open.spotify.com/album/6SGpVej56gEYCk3Z0u8ZSP"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 194523,
       "name": "Disconnected",
       "url": "https://open.spotify.com/track/3MK2rvp7XjarzRKFrPGMOb"
+    },
+    {
+      "added_at": "2022-09-05 09:08:51",
+      "album": {
+        "name": "Temptation (feat. Poppy Baskcomb)",
+        "url": "https://open.spotify.com/album/30K7gYPhkqCeQJ25C0GvXE"
+      },
+      "artists": [
+        {
+          "name": "Jess Bays",
+          "url": "https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+        }
+      ],
+      "duration_ms": 172197,
+      "name": "Temptation (feat. Poppy Baskcomb)",
+      "url": "https://open.spotify.com/track/3fvsxmytTns1ApIWBqfANZ"
     },
     {
       "added_at": "2022-09-05 09:08:51",
@@ -931,18 +931,18 @@
     {
       "added_at": "2022-09-05 09:08:51",
       "album": {
-        "name": "Lights Go Out",
-        "url": "https://open.spotify.com/album/2JhLwfCqWdJaRCJ9d6gVdh"
+        "name": "Know My Name",
+        "url": "https://open.spotify.com/album/4u3WpX3v5gyBHFqfH5JObW"
       },
       "artists": [
         {
-          "name": "Chapter & Verse",
-          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
+          "name": "TS7",
+          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
         }
       ],
-      "duration_ms": 226666,
-      "name": "Lights Go Out",
-      "url": "https://open.spotify.com/track/18KVIouF8klKE9HdqdpUxd"
+      "duration_ms": 183750,
+      "name": "Know My Name",
+      "url": "https://open.spotify.com/track/1JeM2RHVfWP3S4mKE3akNf"
     }
   ],
   "unique_name": "You Can Do It",

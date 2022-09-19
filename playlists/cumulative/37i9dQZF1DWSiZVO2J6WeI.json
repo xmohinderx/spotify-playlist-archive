@@ -1863,7 +1863,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 220000,
       "name": "Kama",
       "url": "https://open.spotify.com/track/1SCV472JdWgdTVieHOEale"
@@ -3545,6 +3545,24 @@
       "duration_ms": 212400,
       "name": "Wrapped in Warmth",
       "url": "https://open.spotify.com/track/6vUO4F4h0Fg01FyiWFa8hb"
+    },
+    {
+      "album": {
+        "name": "Wu Wei",
+        "url": "https://open.spotify.com/album/1YhweHJQeMMAza8FLEtZLW"
+      },
+      "artists": [
+        {
+          "name": "De Moi",
+          "url": "https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169382,
+      "name": "Wu Wei",
+      "url": "https://open.spotify.com/track/6EOpjNGn34eXLJASVcUksY"
     },
     {
       "album": {

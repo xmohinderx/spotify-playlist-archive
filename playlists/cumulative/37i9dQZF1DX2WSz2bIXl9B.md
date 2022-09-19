@@ -4,7 +4,7 @@
 
 > Pódcasts que necesitas mantener en tu RADAR: Maldito Bollodrama, Terrores Nocturnos y Nadie hablará de nosotras\. <br/>Foto: Maldito Bollodrama
 
-0 song - 0 sec - not published yet
+0 song - 0 sec - [published](https://open.spotify.com/playlist/20NDq7mbWQpi1h0EeJdKDh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

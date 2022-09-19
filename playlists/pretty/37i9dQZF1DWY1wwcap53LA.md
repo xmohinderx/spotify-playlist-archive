@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1wwcap53LA.md) - [plain]
 
 > Country music making waves\. Cover: Tanner Adell
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,546 likes - 93 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,563 likes - 93 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1wwcap53LA.md) - [plain]
 | 31 | [High Horse \(feat\. BRELAND and Blanco Brown\)](https://open.spotify.com/track/4XMNF67BLR9zzti9XLVFR7) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [High Horse](https://open.spotify.com/album/2j0bqyuBna2QagVKpxvXSK) | 2:32 |
 | 32 | [Stuck in the Middle](https://open.spotify.com/track/3FSdVIxZumTuPv5zqQCsdb) | [O.N.E The Duo](https://open.spotify.com/artist/4sIPNUYiz7FcZBx1oHuMHe) | [Stuck in the Middle](https://open.spotify.com/album/2GL3TmPmdA91fxYq3UCtrr) | 2:49 |
 | 33 | [I Like You Better](https://open.spotify.com/track/6O2U3KEpMJusHQ6m3IR2vg) | [Rodell Duff](https://open.spotify.com/artist/4JMY9dX6C0SYxm1YEGAEky) | [I Like You Better](https://open.spotify.com/album/79MV4Y5B13sz8nlhEJh4bG) | 2:51 |
-| 34 | [You Got a Small Town](https://open.spotify.com/track/0uxbkVqzKkxeVszRa0LFnb) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [You Got a Small Town](https://open.spotify.com/album/2dRiCtzyR2XKR4mwwU370t) | 2:58 |
+| 34 | [You Got a Small Town](https://open.spotify.com/track/1F7UVBrslkA96RCiXxIhQ3) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [You Got a Small Town](https://open.spotify.com/album/3VbfZpES3qxhElY7c3DTVk) | 2:58 |
 | 35 | [Whiskey When I'm Gone](https://open.spotify.com/track/7EY4WHDf4Csp0gz7urHClf) | [Chauncey Jones](https://open.spotify.com/artist/5Dm8aBxMcG8ORTzv0IJMkt) | [Whiskey When I'm Gone](https://open.spotify.com/album/3VQtuaW3kFENk36ThLmnT7) | 3:18 |
 | 36 | [Sink with the Sun](https://open.spotify.com/track/7lqRRwPo08ycT5NkxjNIyF) | [Tebey](https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo) | [Sink with the Sun](https://open.spotify.com/album/5XDDYVaQ5YdwwQT9ITQXhN) | 3:21 |
 | 37 | [Heart You Can't Break](https://open.spotify.com/track/0acpf9wterZQ763bWUSsun) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [Madeline Edwards](https://open.spotify.com/album/7Fx0BQdGfBZUHWyquaMJkD) | 3:21 |
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1wwcap53LA.md) - [plain]
 | 92 | [Guilty](https://open.spotify.com/track/1WKRU8ovR8lbHD5gIj8h2P) | [O.N.E The Duo](https://open.spotify.com/artist/4sIPNUYiz7FcZBx1oHuMHe) | [Guilty](https://open.spotify.com/album/50ahLeRHDEANoAMhDnaNCz) | 3:02 |
 | 93 | [Over Yonder \(feat\. Matt Stell\)](https://open.spotify.com/track/6fk8yiw2sxAC6ycLU7EaZa) | [Lathan Warlick](https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP), [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy) | [Over Yonder \(feat\. Matt Stell\)](https://open.spotify.com/album/2FDgPyH6uGxspBo6ReEUxW) | 2:00 |
 
-Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMDRjYzFmZjEwZmQ5MDM3MTZkNjIxM2ZjNGVjZmQwN2Vm`
+Snapshot ID: `MTY2MzMwMDgwMCwwMDAwMDAwMDI2ZDEzNTY0Nzc4YjI4ZjFjNmQ5OTZlNDEyY2RjMDBj`

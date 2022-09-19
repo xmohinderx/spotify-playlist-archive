@@ -4,7 +4,7 @@
 
 > if it feels ethereal, it's here\. cover: Hyd
 
-432 songs - 1 day 2 hr 46 min - [published](https://open.spotify.com/playlist/4CRtbJr5tLg7o8NQ01m1n7)
+433 songs - 1 day 2 hr 50 min - [published](https://open.spotify.com/playlist/4CRtbJr5tLg7o8NQ01m1n7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,10 +179,11 @@
 | [hit it light it twist it](https://open.spotify.com/track/4MYkI9KHjQmWN0SmSbO1QG) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [hit it light it twist it](https://open.spotify.com/album/26wYoLV3Yvt0yzOeTRKvKI) | 1:54 | 2022-05-24 | 2022-05-30 |
 | [Hit Me Where It Hurts](https://open.spotify.com/track/2wcrQZ7ZJolYEfIaPP9yL4) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 3:04 | 2021-06-03 | 2022-06-04 |
 | [Hold It Together](https://open.spotify.com/track/6gJ2H930mAD1zRqmoFiE4W) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Hold It Together](https://open.spotify.com/album/06ToGOGFYkUkABJgpx3Mbb) | 3:42 | 2021-06-03 | 2022-09-17 |
-| [Hollow Lover](https://open.spotify.com/track/0wqfPpcKewaI7muAVNzo2x) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Hollow Lover](https://open.spotify.com/album/6oU83NRccLBCqr1JI92MLi) | 3:07 | 2022-06-24 |  |
+| [Hollow Lover](https://open.spotify.com/track/0wqfPpcKewaI7muAVNzo2x) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Hollow Lover](https://open.spotify.com/album/6oU83NRccLBCqr1JI92MLi) | 3:07 | 2022-06-24 | 2022-09-19 |
 | [Holy Water](https://open.spotify.com/track/0y6YKUUfgrEAUqzCSTSS0j) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [Kota Banks](https://open.spotify.com/artist/6qjD8KqRe2dyNBsq1RcpaT) | [True North](https://open.spotify.com/album/5CMPddM08M99BREQ7Rc5Tl) | 3:47 | 2021-06-03 | 2022-04-20 |
 | [home with you](https://open.spotify.com/track/7BpykYGkewMF00FzSJLSgH) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [MAGDALENE](https://open.spotify.com/album/3DMR3yM5crnt1dG9lLaMTZ) | 3:44 | 2021-06-03 | 2022-06-04 |
 | [Homecoming Song \(NNAMDÏ Remix\)](https://open.spotify.com/track/6KAOVH01YEKnlxPRELczyM) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48), [NNAMDÏ](https://open.spotify.com/artist/6gACF5PEinqx3AzMLjiH90) | [Every Bad \(Expanded Edition\)](https://open.spotify.com/album/4UhF1TkUq0ZgBxKY7iDhD2) | 2:25 | 2021-06-03 | 2022-04-13 |
+| [Hotel](https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Hotel](https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF) | 3:17 | 2022-09-16 |  |
 | [Hysterical Us](https://open.spotify.com/track/6xhBaQpuBF2jdiDuropTBy) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Hysterical Us](https://open.spotify.com/album/13A6KzgqTLdutNm7yn0OMX) | 3:55 | 2021-10-08 | 2022-07-29 |
 | [I DONT KNOW ABOUT HIM](https://open.spotify.com/track/3CQ5CKzEaC7eCOlUyU7Bdm) | [Roy Blair](https://open.spotify.com/artist/6Sa4YbwEdGlfVSJMF1Lp67) | [GRAFFITI](https://open.spotify.com/album/4NrZlvs23TXuM09g7x3v7x) | 3:58 | 2021-06-03 | 2022-05-12 |
 | [I Met God Online](https://open.spotify.com/track/3shB8ksTOqgJ6fj0L09FT9) | [grandma](https://open.spotify.com/artist/2eYwIt8heUiqcnd0Tmkizk) | [I Met God Online](https://open.spotify.com/album/34Xg4eUnFTwsZZ6vIsrwxd) | 2:56 | 2022-06-03 | 2022-07-14 |

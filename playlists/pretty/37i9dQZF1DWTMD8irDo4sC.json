@@ -1,12 +1,12 @@
 {
   "description": "Chill to these acoustic songs from the Middle East and North Africa. Cover: Labess.",
-  "num_followers": 45137,
+  "num_followers": 45168,
   "original_name": "Acoustic Arabic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjQxNTIxOSwwMDAwMDAwMDA5ZWEzM2ZkODQ5N2EzMTcyNjY5ZGNjZDYwYmUyNWE5",
+  "snapshot_id": "MTY1NjQxNTIxOSwwMDAwMDAwMDI1ODRkNzRhNGMyOWY5NWZkYmIyNDc0YzM2YjY3NmZk",
   "tracks": [
     {
       "added_at": "2022-05-09 08:05:11",
@@ -591,22 +591,6 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
-        "name": "\u0644\u0645\u0627 \u0628\u0646\u062a\u0648\u0644\u062f",
-        "url": "https://open.spotify.com/album/5xWWNgZyd88PlUVRBReVaf"
-      },
-      "artists": [
-        {
-          "name": "Amir Eid",
-          "url": "https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp"
-        }
-      ],
-      "duration_ms": 199277,
-      "name": "\u0635\u0628\u0627\u062d \u0627\u0644\u062e\u064a\u0631",
-      "url": "https://open.spotify.com/track/6BgqI86Dtk0YLUkLnSJk14"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
         "name": "Brya",
         "url": "https://open.spotify.com/album/7wl8WPzTXuaewp6SeYGFXe"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 221466,
       "name": "Mnam",
       "url": "https://open.spotify.com/track/2Sf3tqzeuPldmDH1hDgzd2"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
+        "name": "\u0644\u0645\u0627 \u0628\u0646\u062a\u0648\u0644\u062f",
+        "url": "https://open.spotify.com/album/5xWWNgZyd88PlUVRBReVaf"
+      },
+      "artists": [
+        {
+          "name": "Amir Eid",
+          "url": "https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp"
+        }
+      ],
+      "duration_ms": 199277,
+      "name": "\u0635\u0628\u0627\u062d \u0627\u0644\u062e\u064a\u0631",
+      "url": "https://open.spotify.com/track/6BgqI86Dtk0YLUkLnSJk14"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -799,18 +799,38 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
-        "name": "Mystic Dance",
-        "url": "https://open.spotify.com/album/3xQYBIIhwi1Xmts6Y8lgSq"
+        "name": "El Nour",
+        "url": "https://open.spotify.com/album/3l39Bl8unEhLRYfIIDyqjF"
       },
       "artists": [
         {
-          "name": "Amira Kheir",
-          "url": "https://open.spotify.com/artist/5WZN5v7MdgFPu29h88MWvh"
+          "name": "Fatma Said",
+          "url": "https://open.spotify.com/artist/1c2ClQeVUmq1req1B2lnlh"
+        },
+        {
+          "name": "Tim Allhoff",
+          "url": "https://open.spotify.com/artist/7qnobTqHT8IGF1DjMtEMDY"
+        },
+        {
+          "name": "Henning Sieverts",
+          "url": "https://open.spotify.com/artist/4NPI4lNYQw86uzyS1SqZXP"
+        },
+        {
+          "name": "Tamer Pinarba\u015fi",
+          "url": "https://open.spotify.com/artist/56qCAXOnxTC7VPlUGwrBqA"
+        },
+        {
+          "name": "Burcu Karada\u011f",
+          "url": "https://open.spotify.com/artist/6sm7wuehySIzhD2QyCT26q"
+        },
+        {
+          "name": "Itamar Doari",
+          "url": "https://open.spotify.com/artist/4fOBhUMIOwCcoWuRKlkwFc"
         }
       ],
-      "duration_ms": 346293,
-      "name": "Munaya (Dream)",
-      "url": "https://open.spotify.com/track/3bhui3GTdH3kJ4ic6ubmQS"
+      "duration_ms": 199171,
+      "name": "Sahar El Layali (Kan Enna Tahoun)",
+      "url": "https://open.spotify.com/track/1T3Awxy8awy2c75OeSsPyL"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -851,42 +871,6 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
-        "name": "El Nour",
-        "url": "https://open.spotify.com/album/3l39Bl8unEhLRYfIIDyqjF"
-      },
-      "artists": [
-        {
-          "name": "Fatma Said",
-          "url": "https://open.spotify.com/artist/1c2ClQeVUmq1req1B2lnlh"
-        },
-        {
-          "name": "Tim Allhoff",
-          "url": "https://open.spotify.com/artist/7qnobTqHT8IGF1DjMtEMDY"
-        },
-        {
-          "name": "Henning Sieverts",
-          "url": "https://open.spotify.com/artist/4NPI4lNYQw86uzyS1SqZXP"
-        },
-        {
-          "name": "Tamer Pinarba\u015fi",
-          "url": "https://open.spotify.com/artist/56qCAXOnxTC7VPlUGwrBqA"
-        },
-        {
-          "name": "Burcu Karada\u011f",
-          "url": "https://open.spotify.com/artist/6sm7wuehySIzhD2QyCT26q"
-        },
-        {
-          "name": "Itamar Doari",
-          "url": "https://open.spotify.com/artist/4fOBhUMIOwCcoWuRKlkwFc"
-        }
-      ],
-      "duration_ms": 199171,
-      "name": "Sahar El Layali (Kan Enna Tahoun)",
-      "url": "https://open.spotify.com/track/1T3Awxy8awy2c75OeSsPyL"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
         "name": "W3od",
         "url": "https://open.spotify.com/album/3bHgKovmK3owcLCYh8nGFq"
       },
@@ -903,6 +887,22 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
+        "name": "Mystic Dance",
+        "url": "https://open.spotify.com/album/3xQYBIIhwi1Xmts6Y8lgSq"
+      },
+      "artists": [
+        {
+          "name": "Amira Kheir",
+          "url": "https://open.spotify.com/artist/5WZN5v7MdgFPu29h88MWvh"
+        }
+      ],
+      "duration_ms": 346293,
+      "name": "Munaya (Dream)",
+      "url": "https://open.spotify.com/track/3bhui3GTdH3kJ4ic6ubmQS"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
         "name": "Revelation of Ecstasy and Rebellion",
         "url": "https://open.spotify.com/album/6PmcwICwmNOcQ8o2ZM8qUr"
       },
@@ -915,6 +915,22 @@
       "duration_ms": 354760,
       "name": "The Taste of Love",
       "url": "https://open.spotify.com/track/0RFU7SHpffAeG65QzNvy18"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
+        "name": "Bshi Yom",
+        "url": "https://open.spotify.com/album/5zkU8WxN7m7HbkgRusjQyN"
+      },
+      "artists": [
+        {
+          "name": "Yousef Kekhia",
+          "url": "https://open.spotify.com/artist/7EhcVdfydM4Hdfv5usdCRw"
+        }
+      ],
+      "duration_ms": 294402,
+      "name": "Bshi Yom",
+      "url": "https://open.spotify.com/track/11MX2DEBj06gcQZmSzIuZ5"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -951,22 +967,6 @@
       "duration_ms": 188852,
       "name": "\u064a\u0627\u0645\u0651\u0647 \u0645\u0648\u064a\u0644 \u0627\u0644\u0647\u0648\u0649 (feat. Frankly Jazz)",
       "url": "https://open.spotify.com/track/2fndQayJ2sGLs2q0WDS9Dt"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
-        "name": "Bshi Yom",
-        "url": "https://open.spotify.com/album/5zkU8WxN7m7HbkgRusjQyN"
-      },
-      "artists": [
-        {
-          "name": "Yousef Kekhia",
-          "url": "https://open.spotify.com/artist/7EhcVdfydM4Hdfv5usdCRw"
-        }
-      ],
-      "duration_ms": 294402,
-      "name": "Bshi Yom",
-      "url": "https://open.spotify.com/track/11MX2DEBj06gcQZmSzIuZ5"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
-        "name": "Made in Palestine",
-        "url": "https://open.spotify.com/album/2edQBDFUQBDAwdDIypknXx"
+        "name": "Holm / The Man Who Sold The World",
+        "url": "https://open.spotify.com/album/4uvkTNocp7isVguCNavJnY"
       },
       "artists": [
         {
-          "name": "Zaman",
-          "url": "https://open.spotify.com/artist/6tKvVxNctQcr1Er8f1Z3dL"
+          "name": "Emel",
+          "url": "https://open.spotify.com/artist/06MtOym27ALcfdtVOsRcaA"
         }
       ],
-      "duration_ms": 219560,
-      "name": "No Longer Mine",
-      "url": "https://open.spotify.com/track/2m7cnexJsp4w560WX86dDr"
+      "duration_ms": 286424,
+      "name": "Holm",
+      "url": "https://open.spotify.com/track/1BLbyhemxMhIds5cf4lHxx"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
-        "name": "Holm / The Man Who Sold The World",
-        "url": "https://open.spotify.com/album/4uvkTNocp7isVguCNavJnY"
+        "name": "Dayman Bekheir",
+        "url": "https://open.spotify.com/album/683ITXoJlmiLtLv7htGRZc"
       },
       "artists": [
         {
-          "name": "Emel",
-          "url": "https://open.spotify.com/artist/06MtOym27ALcfdtVOsRcaA"
+          "name": "Ramy Gamal",
+          "url": "https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID"
         }
       ],
-      "duration_ms": 286424,
-      "name": "Holm",
-      "url": "https://open.spotify.com/track/1BLbyhemxMhIds5cf4lHxx"
+      "duration_ms": 246000,
+      "name": "Dayman Bekheir",
+      "url": "https://open.spotify.com/track/7oOwRp54HH0BpomwZzzvXK"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
-        "name": "Dayman Bekheir",
-        "url": "https://open.spotify.com/album/683ITXoJlmiLtLv7htGRZc"
+        "name": "Made in Palestine",
+        "url": "https://open.spotify.com/album/2edQBDFUQBDAwdDIypknXx"
       },
       "artists": [
         {
-          "name": "Ramy Gamal",
-          "url": "https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID"
+          "name": "Zaman",
+          "url": "https://open.spotify.com/artist/6tKvVxNctQcr1Er8f1Z3dL"
         }
       ],
-      "duration_ms": 246000,
-      "name": "Dayman Bekheir",
-      "url": "https://open.spotify.com/track/7oOwRp54HH0BpomwZzzvXK"
+      "duration_ms": 219560,
+      "name": "No Longer Mine",
+      "url": "https://open.spotify.com/track/2m7cnexJsp4w560WX86dDr"
     },
     {
       "added_at": "2022-05-09 08:05:11",

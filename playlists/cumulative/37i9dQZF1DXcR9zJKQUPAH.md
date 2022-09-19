@@ -4,7 +4,7 @@
 
 > Rex Orange County is celebrating 5 years of Apricot Princess.
 
-100 songs - 6 hr 11 min - not published yet
+100 songs - 6 hr 11 min - [published](https://open.spotify.com/playlist/2hLIrkkuUmvTKCLYx50Gyi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

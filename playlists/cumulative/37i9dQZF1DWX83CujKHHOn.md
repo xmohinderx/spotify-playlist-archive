@@ -4,7 +4,7 @@
 
 > Being alone \(again\) can be tough, but these songs will keep you company.
 
-315 songs - 19 hr 44 min - [published](https://open.spotify.com/playlist/4TuqprRvF3pWyUXfGA1jsb)
+316 songs - 19 hr 48 min - [published](https://open.spotify.com/playlist/4TuqprRvF3pWyUXfGA1jsb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Beneath Your Beautiful \(feat\. Emeli Sandé\)](https://open.spotify.com/track/1wVcLKdJ4AFKPhKucNvEpy) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Beneath Your Beautiful](https://open.spotify.com/album/3eXbGItoetZbAKx5gxKcq8) | 4:31 | 2022-01-05 | 2022-04-21 |
 | [Beneath Your Beautiful \(feat\. Emeli Sandé\)](https://open.spotify.com/track/2EcsgXlxz99UMDSPg5T8RF) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Electronic Earth \(Expanded Edition\)](https://open.spotify.com/album/6PBBbXmYV7dKnaik0fjkOI) | 4:31 | 2022-07-08 |  |
 | [Berlin](https://open.spotify.com/track/7BSMSvK0WxrDeI98bswYa8) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Dawn](https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv) | 2:54 | 2022-01-05 | 2022-03-31 |
-| [Best I'll Ever Sing](https://open.spotify.com/track/37a0RMpwwQjgIkLoEePwXa) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Best I'll Ever Sing](https://open.spotify.com/album/3zUe4xUe3Tk9c4OEf1u9Ee) | 3:19 | 2021-12-06 |  |
+| [Best I'll Ever Sing](https://open.spotify.com/track/37a0RMpwwQjgIkLoEePwXa) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Best I'll Ever Sing](https://open.spotify.com/album/3zUe4xUe3Tk9c4OEf1u9Ee) | 3:19 | 2021-12-06 | 2022-09-19 |
 | [Better \(Stripped\)](https://open.spotify.com/track/3rOJlbv7FeB1kYnpf7vA9m) | [Olivia Dear](https://open.spotify.com/artist/7g44UGBLEbgaRDKvWATaRp) | [Better \(Stripped\)](https://open.spotify.com/album/1dMEMv5VbG6GF8lclWuCNr) | 3:11 | 2021-12-06 | 2022-04-21 |
 | [Better Off](https://open.spotify.com/track/20mb9SDTZugEbNwU5knL58) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Better Off](https://open.spotify.com/album/0oE9bup0oJzDRbokjpeMzn) | 3:46 | 2021-12-06 | 2022-07-29 |
 | [Better Together](https://open.spotify.com/track/2iXdwVdzA0KrI2Q0iZNJbX) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/2B9q4KPjOEYu885Keo9dfX) | 3:27 | 2022-01-05 | 2022-04-21 |
@@ -163,6 +163,7 @@
 | [like that](https://open.spotify.com/track/1BSAmxkrz2H8v5kpTfAT6v) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [chapter two: red](https://open.spotify.com/album/2Sgdv3E54pq1nzvBRH1iru) | 3:05 | 2021-12-06 |  |
 | [Little Waltz](https://open.spotify.com/track/55hcquIzoHMMS7e9qKYxLy) | [Basia Bulat](https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV) | [Oh, My Darling \(US Standard Edition\)](https://open.spotify.com/album/3QF8mwjOebSxBKTdg9zPDL) | 2:54 | 2022-01-05 | 2022-04-21 |
 | [Loneliness](https://open.spotify.com/track/38YUiPZdeg1DDX8d6eV5Gi) | [Kevin Paris](https://open.spotify.com/artist/5BlScQ5iWCzbxbcwhkeNLd) | [Loneliness](https://open.spotify.com/album/0UJpeok7iX154IgLHvezYa) | 4:46 | 2021-12-06 | 2022-07-28 |
+| [Lonely](https://open.spotify.com/track/1UGMu0Tf5nmKoYIPPztbQQ) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Trouble](https://open.spotify.com/album/6X7HEjHrNHimc0buMQpNya) | 3:55 | 2022-09-16 |  |
 | [Lonely](https://open.spotify.com/track/3Mcu3bSlSYJkckbZ1FpfEB) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Lonely](https://open.spotify.com/album/5kGzldKUiSGTRkINcNQ6tC) | 3:33 | 2021-12-06 | 2022-07-26 |
 | [Lonely \- Mahogany Sessions](https://open.spotify.com/track/1WVpCn4WGCrgGXhhtyUzyM) | [Violet Skies](https://open.spotify.com/artist/56w356OnIbrmFsOFcx3NQN), [Mahogany](https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah) | [Lonely \(Mahogany Sessions\)](https://open.spotify.com/album/3RGECSD1Nw11dNnTMmdI2V) | 3:37 | 2021-12-06 | 2022-07-28 |
 | [Lonely Together](https://open.spotify.com/track/1ophi6jCPs6FkGgUFYmhfQ) | [Sofia Karlberg](https://open.spotify.com/artist/2msPoIYdnKVeuOOM960FC2) | [Lonely Together](https://open.spotify.com/album/4bhWav4766XFsvqHVOSLMw) | 3:07 | 2021-12-06 | 2022-07-29 |

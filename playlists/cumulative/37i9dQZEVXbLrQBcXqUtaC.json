@@ -2171,7 +2171,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 169322,
       "name": "DIGIDAM",
       "url": "https://open.spotify.com/track/4CAkNkLEAADjUyGJ7zNLZn"
@@ -2611,7 +2611,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 173381,
       "name": "Enemy (with JID) - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/3CIyK1V4JEJkg02E4EJnDl"
@@ -9165,7 +9165,7 @@
       ],
       "date_added": "2022-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-18",
+      "date_removed": null,
       "duration_ms": 177466,
       "name": "Talk that Talk",
       "url": "https://open.spotify.com/track/0kqTXMHiQiB7IECD0WwcPq"
@@ -9807,7 +9807,7 @@
       ],
       "date_added": "2022-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-18",
+      "date_removed": null,
       "duration_ms": 176666,
       "name": "Until I Found You",
       "url": "https://open.spotify.com/track/6VhuP99TE6gYNQRJIlAWFD"
@@ -11851,7 +11851,7 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 242940,
       "name": "\u064a\u0627 \u0627\u0628\u0646 \u062e\u0645\u0627\u0634",
       "url": "https://open.spotify.com/track/18O3X0PmVps7R1JGMeIfph"
@@ -11945,6 +11945,24 @@
       "duration_ms": 176507,
       "name": "\u064a\u0627\u0631\u0648\u062d \u0627\u0644\u0631\u0648\u062d",
       "url": "https://open.spotify.com/track/7CTkmBM1Ff1lc35v0rcD24"
+    },
+    {
+      "album": {
+        "name": "\u200e\u064a\u0627 \u0627\u0628\u0646 \u062e\u0645\u0627\u0634",
+        "url": "https://open.spotify.com/album/74qnorGX715jcLNRMmMSds"
+      },
+      "artists": [
+        {
+          "name": "\u0645\u062d\u0645\u062f \u0622\u0644 \u0646\u062c\u0645",
+          "url": "https://open.spotify.com/artist/6XFaew6NT18YAjTawaYaTI"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242996,
+      "name": "\u200e\u064a\u0627 \u0627\u0628\u0646 \u062e\u0645\u0627\u0634",
+      "url": "https://open.spotify.com/track/5poJi9KfMINtm0sZ06nSoD"
     },
     {
       "album": {

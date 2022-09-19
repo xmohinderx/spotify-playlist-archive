@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Q8vgP3md04.md) - [plain]
 
 > Hit music from Ethiopia's finest.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,604 likes - 54 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,619 likes - 54 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Q8vgP3md04.md) - [plain]
 | 41 | [Sitalekish Des Alishign](https://open.spotify.com/track/2UMLCweE5NvY4sdeJCaFFX) | [Abinet Agonafir](https://open.spotify.com/artist/0R8QDnSxcOe9PLNBI6m80j) | [Hidden Beauty](https://open.spotify.com/album/2HPUUWewF1dWh0IXbP6LUh) | 5:05 |
 | 42 | [Ayeneye](https://open.spotify.com/track/4wSz0N4SCEwdHolekBUdmv) | [Hayleyesus Feyssa](https://open.spotify.com/artist/4jYB05zmRJeaMatlpZTn9i) | [Yeaddis Ken Tsehay](https://open.spotify.com/album/77Nr43rl51Q1PsN78MlhCF) | 7:02 |
 | 43 | [Mengedegna](https://open.spotify.com/track/6FLzUgglQPqA78lKior10y) | [Betty G](https://open.spotify.com/artist/0DhTQscKk7XJt49yxEyqDV) | [Wegegta](https://open.spotify.com/album/0ZKMte07PAbDkYoMFP500R) | 3:15 |
-| 44 | [Yebleniloo](https://open.spotify.com/track/5Jl2tQyJUmFJRcdAtLrbfo) | [Selamawit Yohannes](https://open.spotify.com/artist/107XXfLHCmU4H5Konxlqg8) | [Yebleniloo](https://open.spotify.com/album/7xF9to8GK2yUYND3JRZBMa) | 4:51 |
+| 44 | [Yebleniloo](https://open.spotify.com/track/0XVsDOG0VLpkCrsM57yWdv) | [Selamawit Yohannes](https://open.spotify.com/artist/107XXfLHCmU4H5Konxlqg8) | [Maraki Favorite Best Ethiopian Music Collection](https://open.spotify.com/album/4UpLNcaPJ2ZPb3LASfaGUl) | 4:51 |
 | 45 | [Shegnehush](https://open.spotify.com/track/4bUns4JjV5XAYlSx0i9lYI) | [Theodros Kassahun](https://open.spotify.com/artist/2CMA5fXRHJUfaokzsmGucv) | [Teddy](https://open.spotify.com/album/5h1VNzRDbt6hayX9hgHuf8) | 5:37 |
 | 46 | [Lageba New](https://open.spotify.com/track/1fzfKZnrbsziirj0RvGdxV) | [Gildo Kassa](https://open.spotify.com/artist/6vL0Hxfu0HWRHF33vKlHIS) | [Lageba New](https://open.spotify.com/album/1leaV7ZRJi3Cf3raJd62SW) | 3:41 |
 | 47 | [Fiker](https://open.spotify.com/track/4UuPQugjrx9pQyEmfOeLrs) | [Dawit Cherent](https://open.spotify.com/artist/26MgB2XBEqAtyISkep3iC1) | [Sew, Pt\. 1 Mot](https://open.spotify.com/album/7bM7TdqRgpuDGl15zjFPet) | 5:16 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Q8vgP3md04.md) - [plain]
 | 53 | [Shelter](https://open.spotify.com/track/5hiih9ZGthFog3buukf7Ss) | [Yohana](https://open.spotify.com/artist/2noU35ow21LQjXl4msANBG) | [Shelter](https://open.spotify.com/album/1aDK3U8NLFyi5zBYLRFxUK) | 4:19 |
 | 54 | [Welday Weni](https://open.spotify.com/track/7hFZoxd3fHB6kn3M2fZbgz) | [Liham Melody](https://open.spotify.com/artist/4mgP2hXsnULBqWou6ld9rQ) | [Welday Weni](https://open.spotify.com/album/2KbxKjKmOB2IPUsDdGBb8z) | 4:25 |
 
-Snapshot ID: `MTU5NTMyNjkyMywwMDAwMDAwMGYyNDBlOTBiMTdiY2Y2MjlmMDJlZTUwNzU1OGNhNWM2`
+Snapshot ID: `MTU5NTMyNjkyMywwMDAwMDAwMDEzZDVlNzIzZmVmOTQ3ZGZlMDY5MWUxOGYwNGYyMTli`

@@ -1,12 +1,12 @@
 {
   "description": "A collection of classics and recent tracks from the world of black and dark metal. Cover: Dimmu Borgir",
-  "num_followers": 395515,
+  "num_followers": 395629,
   "original_name": "Black & Dark Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMzMzIwMCwwMDAwMDAwMDk3YzQxNDMyNTM3NWYwMDg3N2EyZjhmN2M0MjA5M2U0",
+  "snapshot_id": "MTY2MzMzMzIwMCwwMDAwMDAwMGYzY2ViNGQ3ZTYwN2MzY2Q5MWQ4Yjc0NmYzNTk5MGRi",
   "tracks": [
     {
       "added_at": "2022-09-16 13:00:00",
@@ -283,8 +283,8 @@
     {
       "added_at": "2022-09-16 13:00:00",
       "album": {
-        "name": "Midian",
-        "url": "https://open.spotify.com/album/1eqAIac48qUT6ks2hrccIJ"
+        "name": "From The Cradle To Enslave",
+        "url": "https://open.spotify.com/album/1mrpcE3ikZEzH8z0e8j8cp"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd"
         }
       ],
-      "duration_ms": 384813,
-      "name": "Her Ghost in the Fog",
-      "url": "https://open.spotify.com/track/0IVdlBreRkZn0ftoUwB0T6"
+      "duration_ms": 397160,
+      "name": "From the Cradle to Enslave",
+      "url": "https://open.spotify.com/track/14JG4VbsqeLsFuDJlkybOT"
     },
     {
       "added_at": "2022-09-16 13:00:00",
@@ -379,8 +379,8 @@
     {
       "added_at": "2022-09-16 13:00:00",
       "album": {
-        "name": "From The Cradle To Enslave",
-        "url": "https://open.spotify.com/album/1mrpcE3ikZEzH8z0e8j8cp"
+        "name": "Midian",
+        "url": "https://open.spotify.com/album/1eqAIac48qUT6ks2hrccIJ"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd"
         }
       ],
-      "duration_ms": 397160,
-      "name": "From the Cradle to Enslave",
-      "url": "https://open.spotify.com/track/14JG4VbsqeLsFuDJlkybOT"
+      "duration_ms": 384813,
+      "name": "Her Ghost in the Fog",
+      "url": "https://open.spotify.com/track/0IVdlBreRkZn0ftoUwB0T6"
     },
     {
       "added_at": "2022-09-16 13:00:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-09-16 13:00:00",
       "album": {
-        "name": "Battles in the North",
-        "url": "https://open.spotify.com/album/1XcSeRzPDXZfgatgAWB1zw"
-      },
-      "artists": [
-        {
-          "name": "Immortal",
-          "url": "https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K"
-        }
-      ],
-      "duration_ms": 274586,
-      "name": "Blashyrkh - Mighty Ravendark",
-      "url": "https://open.spotify.com/track/6vb8Hy0CgjdDeLcD9UR4tW"
-    },
-    {
-      "added_at": "2022-09-16 13:00:00",
-      "album": {
         "name": "The Agony & Ecstasy of Watain",
         "url": "https://open.spotify.com/album/7qmZz6yfRiXAoW4lgOPi4W"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 240880,
       "name": "Ecstasies in night infinite",
       "url": "https://open.spotify.com/track/57LQHgaWbaB02gDFth9in4"
+    },
+    {
+      "added_at": "2022-09-16 13:00:00",
+      "album": {
+        "name": "Battles in the North",
+        "url": "https://open.spotify.com/album/1XcSeRzPDXZfgatgAWB1zw"
+      },
+      "artists": [
+        {
+          "name": "Immortal",
+          "url": "https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K"
+        }
+      ],
+      "duration_ms": 274586,
+      "name": "Blashyrkh - Mighty Ravendark",
+      "url": "https://open.spotify.com/track/6vb8Hy0CgjdDeLcD9UR4tW"
     },
     {
       "added_at": "2022-09-16 13:00:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2022-09-16 13:00:00",
       "album": {
-        "name": "Pure Holocaust",
-        "url": "https://open.spotify.com/album/1oiueifrAKrGjrxZzpCYkQ"
-      },
-      "artists": [
-        {
-          "name": "Immortal",
-          "url": "https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K"
-        }
-      ],
-      "duration_ms": 194520,
-      "name": "Unsilent Storms In The North Abyss",
-      "url": "https://open.spotify.com/track/2JzcrgG7EroPtXVTfSNo8G"
-    },
-    {
-      "added_at": "2022-09-16 13:00:00",
-      "album": {
         "name": "Abbath",
         "url": "https://open.spotify.com/album/4eX4b9aQf2uzygScqcVE8Q"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 409840,
       "name": "Winter Bane",
       "url": "https://open.spotify.com/track/52cc27W3CNKpZ5c7VTYXrM"
+    },
+    {
+      "added_at": "2022-09-16 13:00:00",
+      "album": {
+        "name": "Pure Holocaust",
+        "url": "https://open.spotify.com/album/1oiueifrAKrGjrxZzpCYkQ"
+      },
+      "artists": [
+        {
+          "name": "Immortal",
+          "url": "https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K"
+        }
+      ],
+      "duration_ms": 194520,
+      "name": "Unsilent Storms In The North Abyss",
+      "url": "https://open.spotify.com/track/2JzcrgG7EroPtXVTfSNo8G"
     },
     {
       "added_at": "2022-09-16 13:00:00",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2022-09-16 13:00:00",
       "album": {
-        "name": "Where Fear and Weapons Meet",
-        "url": "https://open.spotify.com/album/05u8REOHWoW9b25e7KvZvW"
-      },
-      "artists": [
-        {
-          "name": "1914",
-          "url": "https://open.spotify.com/artist/0IpKWttPlwhd7Cevxsh1Bz"
-        }
-      ],
-      "duration_ms": 354249,
-      "name": "Fn .380 Acp#19074",
-      "url": "https://open.spotify.com/track/3yYfPXQ5hRYVV7lgOFlPWr"
-    },
-    {
-      "added_at": "2022-09-16 13:00:00",
-      "album": {
         "name": "Morbid Tales (Expanded Version)",
         "url": "https://open.spotify.com/album/1HxVnOkKo8cREE244DnykH"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 218733,
       "name": "Into the Crypts of Rays",
       "url": "https://open.spotify.com/track/7B2ckrWOWcQCFR4ZGGUhqQ"
+    },
+    {
+      "added_at": "2022-09-16 13:00:00",
+      "album": {
+        "name": "Where Fear and Weapons Meet",
+        "url": "https://open.spotify.com/album/05u8REOHWoW9b25e7KvZvW"
+      },
+      "artists": [
+        {
+          "name": "1914",
+          "url": "https://open.spotify.com/artist/0IpKWttPlwhd7Cevxsh1Bz"
+        }
+      ],
+      "duration_ms": 354249,
+      "name": "Fn .380 Acp#19074",
+      "url": "https://open.spotify.com/track/3yYfPXQ5hRYVV7lgOFlPWr"
     },
     {
       "added_at": "2022-09-16 13:00:00",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2022-09-16 13:00:00",
       "album": {
+        "name": "Hamartia",
+        "url": "https://open.spotify.com/album/35IemOnFQjg24kRfqGxsFS"
+      },
+      "artists": [
+        {
+          "name": "Tribulation",
+          "url": "https://open.spotify.com/artist/7xTo7ipdBZezIoyAkmcRge"
+        }
+      ],
+      "duration_ms": 363226,
+      "name": "Hamartia",
+      "url": "https://open.spotify.com/track/1pcwGdh6W1CX3i1oSgBSrA"
+    },
+    {
+      "added_at": "2022-09-16 13:00:00",
+      "album": {
         "name": "Reinkaos",
         "url": "https://open.spotify.com/album/4va3x8PEXjTkguSQy70YPw"
       },
@@ -1223,22 +1239,6 @@
     {
       "added_at": "2022-09-16 13:00:00",
       "album": {
-        "name": "Dark Medieval Times (Remastered 2021)",
-        "url": "https://open.spotify.com/album/1PI7BARhjM3hpdvt6dGtYl"
-      },
-      "artists": [
-        {
-          "name": "Satyricon",
-          "url": "https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd"
-        }
-      ],
-      "duration_ms": 491573,
-      "name": "Dark Medieval Times - Remastered 2021",
-      "url": "https://open.spotify.com/track/7qTuFxOFVJnmWP0FuGWegz"
-    },
-    {
-      "added_at": "2022-09-16 13:00:00",
-      "album": {
         "name": "The Long Road North",
         "url": "https://open.spotify.com/album/0mFOKK4EHSie3Hu1bhOiIB"
       },
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2022-09-16 13:00:00",
       "album": {
-        "name": "Defending the Throne of Evil",
-        "url": "https://open.spotify.com/album/3L640gN3OxWwYVipxqerWA"
+        "name": "Dark Medieval Times (Remastered 2021)",
+        "url": "https://open.spotify.com/album/1PI7BARhjM3hpdvt6dGtYl"
       },
       "artists": [
         {
-          "name": "Carpathian Forest",
-          "url": "https://open.spotify.com/artist/0sFntmE9T1tiF6G6O6Lm3H"
+          "name": "Satyricon",
+          "url": "https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd"
         }
       ],
-      "duration_ms": 281733,
-      "name": "It's Darker than you Think",
-      "url": "https://open.spotify.com/track/479lTQmXhnmGai0UGVxQpY"
+      "duration_ms": 491573,
+      "name": "Dark Medieval Times - Remastered 2021",
+      "url": "https://open.spotify.com/track/7qTuFxOFVJnmWP0FuGWegz"
     },
     {
       "added_at": "2022-09-16 13:00:00",
@@ -1287,34 +1287,18 @@
     {
       "added_at": "2022-09-16 13:00:00",
       "album": {
-        "name": "Kill for Satan",
-        "url": "https://open.spotify.com/album/0t5fnWqUexdwd0fD5Ju4Bj"
+        "name": "Defending the Throne of Evil",
+        "url": "https://open.spotify.com/album/3L640gN3OxWwYVipxqerWA"
       },
       "artists": [
         {
-          "name": "Tsjuder",
-          "url": "https://open.spotify.com/artist/0sD9rwKo3qPBs32gi97FNn"
+          "name": "Carpathian Forest",
+          "url": "https://open.spotify.com/artist/0sFntmE9T1tiF6G6O6Lm3H"
         }
       ],
-      "duration_ms": 294893,
-      "name": "Kill for Satan",
-      "url": "https://open.spotify.com/track/3WdwfxDcyAe6m25InJuW91"
-    },
-    {
-      "added_at": "2022-09-16 13:00:00",
-      "album": {
-        "name": "The Shadowthrone (Remastered 2021)",
-        "url": "https://open.spotify.com/album/1CqVugK1U61uHDGONlHnzy"
-      },
-      "artists": [
-        {
-          "name": "Satyricon",
-          "url": "https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd"
-        }
-      ],
-      "duration_ms": 507640,
-      "name": "Hvite Krists D\u00f8d - Remastered 2021",
-      "url": "https://open.spotify.com/track/31LJZdWVxmboDQW0kPKZcw"
+      "duration_ms": 281733,
+      "name": "It's Darker than you Think",
+      "url": "https://open.spotify.com/track/479lTQmXhnmGai0UGVxQpY"
     },
     {
       "added_at": "2022-09-16 13:00:00",
@@ -1331,6 +1315,22 @@
       "duration_ms": 299226,
       "name": "As Above So Below",
       "url": "https://open.spotify.com/track/6RxzW1gYB5qCWGl2fV6bdb"
+    },
+    {
+      "added_at": "2022-09-16 13:00:00",
+      "album": {
+        "name": "Kill for Satan",
+        "url": "https://open.spotify.com/album/0t5fnWqUexdwd0fD5Ju4Bj"
+      },
+      "artists": [
+        {
+          "name": "Tsjuder",
+          "url": "https://open.spotify.com/artist/0sD9rwKo3qPBs32gi97FNn"
+        }
+      ],
+      "duration_ms": 294893,
+      "name": "Kill for Satan",
+      "url": "https://open.spotify.com/track/3WdwfxDcyAe6m25InJuW91"
     },
     {
       "added_at": "2022-09-16 13:00:00",
@@ -1363,6 +1363,22 @@
       "duration_ms": 252066,
       "name": "Harvest Pyre",
       "url": "https://open.spotify.com/track/4oLr6JYoDzWT1KsQRKIIFl"
+    },
+    {
+      "added_at": "2022-09-16 13:00:00",
+      "album": {
+        "name": "The Shadowthrone (Remastered 2021)",
+        "url": "https://open.spotify.com/album/1CqVugK1U61uHDGONlHnzy"
+      },
+      "artists": [
+        {
+          "name": "Satyricon",
+          "url": "https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd"
+        }
+      ],
+      "duration_ms": 507640,
+      "name": "Hvite Krists D\u00f8d - Remastered 2021",
+      "url": "https://open.spotify.com/track/31LJZdWVxmboDQW0kPKZcw"
     },
     {
       "added_at": "2022-09-16 13:00:00",
@@ -1415,22 +1431,6 @@
     {
       "added_at": "2022-09-16 13:00:00",
       "album": {
-        "name": "The Age Of Nero",
-        "url": "https://open.spotify.com/album/4Yzl4aZZ6Qs9LvKuOIRHJw"
-      },
-      "artists": [
-        {
-          "name": "Satyricon",
-          "url": "https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd"
-        }
-      ],
-      "duration_ms": 236453,
-      "name": "Black Crow On A Tombstone",
-      "url": "https://open.spotify.com/track/4yx8w5d2k8Ku4QXf7eSac1"
-    },
-    {
-      "added_at": "2022-09-16 13:00:00",
-      "album": {
         "name": "Ecclesia",
         "url": "https://open.spotify.com/album/10CWKHbZuG36qSkRDLBy3q"
       },
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2022-09-16 13:00:00",
       "album": {
+        "name": "The Age Of Nero",
+        "url": "https://open.spotify.com/album/4Yzl4aZZ6Qs9LvKuOIRHJw"
+      },
+      "artists": [
+        {
+          "name": "Satyricon",
+          "url": "https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd"
+        }
+      ],
+      "duration_ms": 236453,
+      "name": "Black Crow On A Tombstone",
+      "url": "https://open.spotify.com/track/4yx8w5d2k8Ku4QXf7eSac1"
+    },
+    {
+      "added_at": "2022-09-16 13:00:00",
+      "album": {
         "name": "Rituale Satanum",
         "url": "https://open.spotify.com/album/2KzwNB2FmhPkZf9Iif5j0y"
       },
@@ -1479,22 +1495,6 @@
     {
       "added_at": "2022-09-16 13:00:00",
       "album": {
-        "name": "Dissolve",
-        "url": "https://open.spotify.com/album/1cLVKutiND7BbiLO40lCp1"
-      },
-      "artists": [
-        {
-          "name": "Orthodox",
-          "url": "https://open.spotify.com/artist/0DkKBTgWxBnvYsOXDaoTVP"
-        }
-      ],
-      "duration_ms": 186663,
-      "name": "Dissolve",
-      "url": "https://open.spotify.com/track/61cEE5HRsqLvSjGAmVxd8h"
-    },
-    {
-      "added_at": "2022-09-16 13:00:00",
-      "album": {
         "name": "Sworn to the Dark",
         "url": "https://open.spotify.com/album/2z6f3UO5OVgP99A4DWByO3"
       },
@@ -1507,22 +1507,6 @@
       "duration_ms": 405866,
       "name": "Satan's Hunger",
       "url": "https://open.spotify.com/track/55ODw6itzdoQaHN6LjD3qS"
-    },
-    {
-      "added_at": "2022-09-16 13:00:00",
-      "album": {
-        "name": "Attera Totus Sanctus",
-        "url": "https://open.spotify.com/album/53m5q93sqZpTZ8NFtWHKuE"
-      },
-      "artists": [
-        {
-          "name": "Dark Funeral",
-          "url": "https://open.spotify.com/artist/21ojeH5LNADIGzJKc3hIlE"
-        }
-      ],
-      "duration_ms": 278000,
-      "name": "666 Voices Inside",
-      "url": "https://open.spotify.com/track/7AdA9vNvPC9xdH3l4pPzS5"
     },
     {
       "added_at": "2022-09-16 13:00:00",
@@ -1555,6 +1539,38 @@
       "duration_ms": 239133,
       "name": "Satan Divine",
       "url": "https://open.spotify.com/track/1NeTQnXaqyE3h5tj3pjpoY"
+    },
+    {
+      "added_at": "2022-09-16 13:00:00",
+      "album": {
+        "name": "Dissolve",
+        "url": "https://open.spotify.com/album/1cLVKutiND7BbiLO40lCp1"
+      },
+      "artists": [
+        {
+          "name": "Orthodox",
+          "url": "https://open.spotify.com/artist/0DkKBTgWxBnvYsOXDaoTVP"
+        }
+      ],
+      "duration_ms": 186663,
+      "name": "Dissolve",
+      "url": "https://open.spotify.com/track/61cEE5HRsqLvSjGAmVxd8h"
+    },
+    {
+      "added_at": "2022-09-16 13:00:00",
+      "album": {
+        "name": "Attera Totus Sanctus",
+        "url": "https://open.spotify.com/album/53m5q93sqZpTZ8NFtWHKuE"
+      },
+      "artists": [
+        {
+          "name": "Dark Funeral",
+          "url": "https://open.spotify.com/artist/21ojeH5LNADIGzJKc3hIlE"
+        }
+      ],
+      "duration_ms": 278000,
+      "name": "666 Voices Inside",
+      "url": "https://open.spotify.com/track/7AdA9vNvPC9xdH3l4pPzS5"
     },
     {
       "added_at": "2022-09-16 13:00:00",
@@ -1603,22 +1619,6 @@
       "duration_ms": 175973,
       "name": "The Pale Mist Hovers Towards the Nightly Shores",
       "url": "https://open.spotify.com/track/10T3UIoqFkTUCGjZUuG6Gi"
-    },
-    {
-      "added_at": "2022-09-16 13:00:00",
-      "album": {
-        "name": "Serpent Sermon",
-        "url": "https://open.spotify.com/album/5mvX2lAGsrLplQhbO5QPFa"
-      },
-      "artists": [
-        {
-          "name": "Marduk",
-          "url": "https://open.spotify.com/artist/2lxB5NTcQXj7GGRR4xAVaH"
-        }
-      ],
-      "duration_ms": 278400,
-      "name": "Serpent Sermon",
-      "url": "https://open.spotify.com/track/454BNvuRUj0spER36hLRDj"
     }
   ],
   "unique_name": "Black & Dark Metal",

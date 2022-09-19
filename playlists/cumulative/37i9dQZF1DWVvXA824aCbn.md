@@ -4,7 +4,7 @@
 
 > A relaxing atmosphere of Jazz piano sounds.
 
-308 songs - 20 hr 52 min - [published](https://open.spotify.com/playlist/4rBgcgd1OSYR929BKpPyA1)
+309 songs - 20 hr 55 min - [published](https://open.spotify.com/playlist/4rBgcgd1OSYR929BKpPyA1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [I Can't Get Started](https://open.spotify.com/track/5L9Mumh1rUDSIaHPzLpVhj) | [Sal Ritter](https://open.spotify.com/artist/2ExFoyhPRTmehwcofSp2E0) | [Softly, as in a Morning Sunrise](https://open.spotify.com/album/3rIfaasfAx6n5CEbdnw8Ql) | 3:56 | 2020-10-20\* | 2022-08-22 |
 | [I Could Write A Book](https://open.spotify.com/track/7nbQBpnj4CfKEycYy1dNLT) | [Jacob Schwarz Trio](https://open.spotify.com/artist/4xN1VyTbKQakR98CT0NNfY) | [Jazz Nights](https://open.spotify.com/album/6RT1EEN4J9A229oyoZ6jHM) | 3:09 | 2020-10-20\* | 2021-01-21 |
 | [I Cover the Waterfront](https://open.spotify.com/track/2gGerDB2Wi5BgPTUQiwYUJ) | [Charles Daisey & Friends](https://open.spotify.com/artist/3w2I7PA6Gx8aD6IZMBJP20) | [I Cover the Waterfront](https://open.spotify.com/album/2Xot33Eg7gVwDGGv7BS7Bz) | 2:28 | 2021-06-05 |  |
-| [I Didn't Know What Time It Was](https://open.spotify.com/track/55R3ErqINJB9SiOEMqv6mh) | [David Fitzpatrick Trio](https://open.spotify.com/artist/4enAEqBK3yfMjEWDBjtat3) | [Standards Volume 1](https://open.spotify.com/album/0jnrF5LE85YLF87HCDaea0) | 4:47 | 2020-10-20\* |  |
+| [I Didn't Know What Time It Was](https://open.spotify.com/track/55R3ErqINJB9SiOEMqv6mh) | [David Fitzpatrick Trio](https://open.spotify.com/artist/4enAEqBK3yfMjEWDBjtat3) | [Standards Volume 1](https://open.spotify.com/album/0jnrF5LE85YLF87HCDaea0) | 4:47 | 2020-10-20\* | 2022-09-19 |
 | [I Fall In Love Too Easily](https://open.spotify.com/track/27UzG7JwCeHVv81CTGWIlc) | [Sweet Nothings Band](https://open.spotify.com/artist/4ygDKFVSrFRneq8dUmldb7) | [I'll Remember April](https://open.spotify.com/album/0Sc9pwXP23B6Fh5TTCJ0dl) | 4:47 | 2020-10-20\* | 2022-09-02 |
 | [I Got It Bad And That Ain't Good](https://open.spotify.com/track/4ol2UyMTiklHVujAWg02nE) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Night Train \(Expanded Edition\)](https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v) | 5:06 | 2021-01-21 |  |
 | [I Guess I'll Hang My Tears Out To Dry](https://open.spotify.com/track/3WVKyc1in22UyqbohaNuhP) | [Hector Milo Trio](https://open.spotify.com/artist/0sn0tQQs3lIlLSgHgidapX) | [I Can't Get Started](https://open.spotify.com/album/36KOcJTwtz8mKCmpac4cD6) | 4:14 | 2021-02-06 | 2022-08-14 |
@@ -120,7 +120,7 @@
 | [I Sing This Song for You](https://open.spotify.com/track/2p0MYtfsZq2Rz6yd1WUXAA) | [Juraj Stanik Trio](https://open.spotify.com/artist/6Jp6aGQeBuerxiL0Mq7wra) | [Inside Out](https://open.spotify.com/album/6TiMFHnW1Ce36USbc8FAoC) | 4:38 | 2021-01-21 |  |
 | [I Will Wait For You](https://open.spotify.com/track/0YFqTbYqglQhH2mkj1Cb1z) | [Hermie](https://open.spotify.com/artist/79egg74LRIcDzIxYb0XVSK) | [I Will Wait For You](https://open.spotify.com/album/0O6hlZssMqH4QAG1zDoWhH) | 2:16 | 2021-06-18 |  |
 | [I Wish I Knew](https://open.spotify.com/track/6jEtmU0Wssyr3KObLUxFYU) | [Lady Luck Trio](https://open.spotify.com/artist/6Qm9vphqbolUkkRINZk5BS) | [I Wish I Knew](https://open.spotify.com/album/1lEpsN0KgGGljcFuZ0DtXE) | 4:23 | 2020-10-20\* | 2022-08-19 |
-| [I'd Rather Be Alone](https://open.spotify.com/track/1hvi20elKFkF39L4jIdHRZ) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Someone Who Cares](https://open.spotify.com/album/3283AcxPjIXlPWsWsd4Kx2) | 4:07 | 2020-10-20\* | 2022-09-10 |
+| [I'd Rather Be Alone](https://open.spotify.com/track/1hvi20elKFkF39L4jIdHRZ) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Someone Who Cares](https://open.spotify.com/album/3283AcxPjIXlPWsWsd4Kx2) | 4:07 | 2020-10-20\* |  |
 | [I'll Know](https://open.spotify.com/track/7qLzoarYodaUHezJvndAdK) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [I'll Know](https://open.spotify.com/album/3daQUpLhrwncXGrSozlkeT) | 5:12 | 2021-10-29 |  |
 | [I'm Getting Sentimental Over You](https://open.spotify.com/track/3QU0LuySpN6J3jZUb9XYFv) | [Loretta Scott](https://open.spotify.com/artist/0aqKvHRVIcAor1S7jxLvyx) | [Nardis](https://open.spotify.com/album/1llSYGLKfSsFhHPeBdJTRJ) | 3:48 | 2020-10-20\* | 2020-12-09 |
 | [I'm Old Fashioned](https://open.spotify.com/track/2yOraIy6RgkENDX4Wo2z33) | [Tonya Malone](https://open.spotify.com/artist/3uC9zMR3YcPCLX47MTDq6N) | [All Blues](https://open.spotify.com/album/6fC5AN5GxERt3MSZcie5eB) | 3:59 | 2020-10-20\* | 2021-01-21 |
@@ -287,6 +287,7 @@
 | [Time Remembered](https://open.spotify.com/track/4ZEePa5q8Gwz6dqg4oIifT) | [Martha Friedman](https://open.spotify.com/artist/09mk5BIlvR4do27qkRraFb) | [In A Mellow Tone](https://open.spotify.com/album/64IuKLGRM1XCFDaGmrGjyF) | 2:59 | 2020-10-20\* | 2021-01-21 |
 | [Try To Remember](https://open.spotify.com/track/4q86fROSuJgs5J8pX8YBZM) | [The Jazz Cultivators](https://open.spotify.com/artist/24LiiowKnaEDD4I3CCdI3v) | [Try To Remember](https://open.spotify.com/album/1xozYTfwglbWQWtbCnJ5gx) | 3:26 | 2022-04-26 |  |
 | [Tulip Summer](https://open.spotify.com/track/3spDu5SW9fQRGUNz699MeN) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [The Reasons That I Love You](https://open.spotify.com/album/5GM3f2GT3BwzfKtKdjE0O8) | 5:03 | 2022-08-10 |  |
+| [Turn Down the Lights](https://open.spotify.com/track/0ogRwGa7KtCUBF2PKJKO3F) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [A Future With You](https://open.spotify.com/album/6BQydkNHQgsSwEhsFm1YUf) | 2:57 | 2022-09-15 |  |
 | [Turn Out the Stars](https://open.spotify.com/track/70BXRAXtYxQdNQnkq6aljf) | [Tyrone Coates & Friends](https://open.spotify.com/artist/2XSpojB87LHkWSrF4yBNmC) | [Turn Out the Stars](https://open.spotify.com/album/0uioB9VBjFggpQITMYMIeQ) | 3:23 | 2021-10-29 |  |
 | [Under the same roof](https://open.spotify.com/track/3IzCbEBNJV97OpSdjd6DwQ) | [Krista Lake Band](https://open.spotify.com/artist/3WVZp2cbKWXh2PzmQEOx9D) | [Old Habits](https://open.spotify.com/album/1fco2lBvgsVH2R0xsklBaZ) | 3:58 | 2021-10-14 |  |
 | [Very Early](https://open.spotify.com/track/7jkBFtRrtzVaWxD9akzRsH) | [Charlie Regan Three](https://open.spotify.com/artist/13RaAeTknGQIB6kBEDTyRY) | [Very Early](https://open.spotify.com/album/1UZnIPn1l0z15Va9MUarj1) | 3:46 | 2021-05-21 |  |
@@ -301,7 +302,7 @@
 | [When I Fall in Love](https://open.spotify.com/track/0LtLxQA6lkxOgCE4iCIThe) | [Marc Copland](https://open.spotify.com/artist/0msRQHdakME2qVJ7dx76eA) | [Some More Love Songs](https://open.spotify.com/album/6wPurNOHdHF5ALTmyc3PPf) | 7:27 | 2021-01-28 |  |
 | [When I Fall In Love](https://open.spotify.com/track/2H4SMLrxaBSmu2wHQku0xX) | [Ron Fields](https://open.spotify.com/artist/1x5zKG8Bhm8RW3LuKUMcRF) | [When I Fall In Love](https://open.spotify.com/album/7x9nV3lH3nuUo9r1h3pt8N) | 2:30 | 2020-10-20\* | 2020-11-25 |
 | [When Sunny Gets Blue](https://open.spotify.com/track/0JcgHL8tNphYe7Q8nPkYtV) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [When Sunny Gets Blue](https://open.spotify.com/album/1BIRyHurwWkR2PiyW9Q54z) | 5:17 | 2021-04-26 |  |
-| [When We Lay Down](https://open.spotify.com/track/2fra5fucGEJTFXnE7NwnKZ) | [Angelina Winter](https://open.spotify.com/artist/59hnRNabyJTGrtAmliJFEl) | [When We Lay Down](https://open.spotify.com/album/2ajchSRiNVpcEnCFSZvHNB) | 4:16 | 2020-10-20\* |  |
+| [When We Lay Down](https://open.spotify.com/track/2fra5fucGEJTFXnE7NwnKZ) | [Angelina Winter](https://open.spotify.com/artist/59hnRNabyJTGrtAmliJFEl) | [When We Lay Down](https://open.spotify.com/album/2ajchSRiNVpcEnCFSZvHNB) | 4:16 | 2020-10-20\* | 2022-09-19 |
 | [When You Are Around](https://open.spotify.com/track/3WUrXHDowLk25UtALiohVD) | [Trois Amis](https://open.spotify.com/artist/19hT5DHNATnRhmkR5LevK7) | [When You Are Around](https://open.spotify.com/album/3v6ovPPFtr6E6vpVuBw2bi) | 3:11 | 2020-10-20\* | 2021-01-21 |
 | [Willow Weep For Me](https://open.spotify.com/track/47HEGzYmGFAwcLnAbmxHcU) | [Tony Ballantine](https://open.spotify.com/artist/5rJn0jM1nGVlQO49gW7Xw9) | [Visions EP](https://open.spotify.com/album/1uUYYSEjoDz4CAhUlVhFBM) | 2:50 | 2020-10-20\* | 2020-11-05 |
 | [Winchester In Apple Blossom Time](https://open.spotify.com/track/6S6bbgUm80TdelwOPf0dsR) | [Mandevilla](https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk) | [Maiden Voyage](https://open.spotify.com/album/21MJ5rAzKnQ4mSdrvbeuC4) | 3:18 | 2021-01-27 |  |

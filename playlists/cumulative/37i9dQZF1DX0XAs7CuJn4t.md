@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:1bNjWBFWsAAzZSR59lRdpR">Kabza De Small</a>'s favorite tracks\. Updated regularly\. Curated by Kabza De Small\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-30 songs - 3 hr 19 min - not published yet
+30 songs - 3 hr 19 min - [published](https://open.spotify.com/playlist/6LMfabE0Q5cLuEM38XzQwB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

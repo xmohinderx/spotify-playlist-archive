@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 1980s.",
-  "num_followers": 173637,
+  "num_followers": 173918,
   "original_name": "80s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzAzNjAyNSwwMDAwMDAwMGFjN2M2NDhjOTNhYmYwZTI1MWUzZjEwM2FlNzJlMmU1",
+  "snapshot_id": "MTY1NzAzNjAyNSwwMDAwMDAwMGJiNTkyZjZkNmI1ZWZiYmI3NGQwNTlhY2I0YjNiZmMx",
   "tracks": [
     {
       "added_at": "2020-12-08 17:52:17",
@@ -395,22 +395,6 @@
     {
       "added_at": "2020-12-08 17:52:17",
       "album": {
-        "name": "Escape (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0"
-      },
-      "artists": [
-        {
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
-        }
-      ],
-      "duration_ms": 202173,
-      "name": "Open Arms",
-      "url": "https://open.spotify.com/track/2w4EpqGasrz9qdTwocx54t"
-    },
-    {
-      "added_at": "2020-12-08 17:52:17",
-      "album": {
         "name": "Too Low For Zero",
         "url": "https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 285333,
       "name": "I Guess That's Why They Call It The Blues",
       "url": "https://open.spotify.com/track/23l1kVpqMVREiwU1YAlcr4"
+    },
+    {
+      "added_at": "2020-12-08 17:52:17",
+      "album": {
+        "name": "Escape (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0"
+      },
+      "artists": [
+        {
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        }
+      ],
+      "duration_ms": 202173,
+      "name": "Open Arms",
+      "url": "https://open.spotify.com/track/2w4EpqGasrz9qdTwocx54t"
     },
     {
       "added_at": "2020-12-08 17:52:17",
@@ -507,22 +507,6 @@
     {
       "added_at": "2020-12-08 17:52:17",
       "album": {
-        "name": "Lost in Love",
-        "url": "https://open.spotify.com/album/3fB2z5YtmKvSCu77Z3nTnW"
-      },
-      "artists": [
-        {
-          "name": "Air Supply",
-          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
-        }
-      ],
-      "duration_ms": 243000,
-      "name": "All Out of Love",
-      "url": "https://open.spotify.com/track/7dQC53NiYOY9gKg3Qsu2Bs"
-    },
-    {
-      "added_at": "2020-12-08 17:52:17",
-      "album": {
         "name": "Frontiers",
         "url": "https://open.spotify.com/album/2EFUNYmwxe0AOGxBORrfaw"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 267080,
       "name": "Faithfully",
       "url": "https://open.spotify.com/track/57ebBLITHpRgRKGrlbxMZS"
+    },
+    {
+      "added_at": "2020-12-08 17:52:17",
+      "album": {
+        "name": "Lost in Love",
+        "url": "https://open.spotify.com/album/3fB2z5YtmKvSCu77Z3nTnW"
+      },
+      "artists": [
+        {
+          "name": "Air Supply",
+          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
+        }
+      ],
+      "duration_ms": 243000,
+      "name": "All Out of Love",
+      "url": "https://open.spotify.com/track/7dQC53NiYOY9gKg3Qsu2Bs"
     },
     {
       "added_at": "2020-12-08 17:52:17",
@@ -669,22 +669,6 @@
       "url": "https://open.spotify.com/track/41dDygR3r7e926oGUXfrLt"
     },
     {
-      "added_at": "2020-12-08 17:52:17",
-      "album": {
-        "name": "Now And Forever",
-        "url": "https://open.spotify.com/album/0jWQH4FmSo5CUbRnMvvMoL"
-      },
-      "artists": [
-        {
-          "name": "Air Supply",
-          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
-        }
-      ],
-      "duration_ms": 237106,
-      "name": "Even the Nights Are Better",
-      "url": "https://open.spotify.com/track/09bRmFRViBORKQ2miwp04P"
-    },
-    {
       "added_at": "2022-07-05 15:47:05",
       "album": {
         "name": "Daylight Again (Deluxe Edition)",
@@ -699,6 +683,22 @@
       "duration_ms": 281000,
       "name": "Southern Cross - 2005 Remaster",
       "url": "https://open.spotify.com/track/5AoZknxgY6F25gAcVahO41"
+    },
+    {
+      "added_at": "2020-12-08 17:52:17",
+      "album": {
+        "name": "Now And Forever",
+        "url": "https://open.spotify.com/album/0jWQH4FmSo5CUbRnMvvMoL"
+      },
+      "artists": [
+        {
+          "name": "Air Supply",
+          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
+        }
+      ],
+      "duration_ms": 237106,
+      "name": "Even the Nights Are Better",
+      "url": "https://open.spotify.com/track/09bRmFRViBORKQ2miwp04P"
     },
     {
       "added_at": "2022-03-28 14:29:51",
@@ -913,6 +913,22 @@
       "url": "https://open.spotify.com/track/0HzjKCZmFhwcO2vnnHpj9q"
     },
     {
+      "added_at": "2021-05-06 11:08:15",
+      "album": {
+        "name": "The Principle of Moments",
+        "url": "https://open.spotify.com/album/7GwY9afibQt4oUfsOucXpl"
+      },
+      "artists": [
+        {
+          "name": "Robert Plant",
+          "url": "https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y"
+        }
+      ],
+      "duration_ms": 304800,
+      "name": "Big Log - 2006 Remaster",
+      "url": "https://open.spotify.com/track/7257drAN3eTtaaUUPw95B3"
+    },
+    {
       "added_at": "2020-12-08 17:52:17",
       "album": {
         "name": "Pride",
@@ -943,22 +959,6 @@
       "duration_ms": 270693,
       "name": "Endless Summer Nights",
       "url": "https://open.spotify.com/track/2iXH35MhsqO5Ry8a7iptpJ"
-    },
-    {
-      "added_at": "2021-05-06 11:08:15",
-      "album": {
-        "name": "The Principle of Moments",
-        "url": "https://open.spotify.com/album/7GwY9afibQt4oUfsOucXpl"
-      },
-      "artists": [
-        {
-          "name": "Robert Plant",
-          "url": "https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y"
-        }
-      ],
-      "duration_ms": 304800,
-      "name": "Big Log - 2006 Remaster",
-      "url": "https://open.spotify.com/track/7257drAN3eTtaaUUPw95B3"
     },
     {
       "added_at": "2020-12-08 17:52:17",
@@ -1009,22 +1009,6 @@
       "url": "https://open.spotify.com/track/2jxqu3v4AZAhUNvdAbDGet"
     },
     {
-      "added_at": "2020-12-08 17:52:17",
-      "album": {
-        "name": "Back In The High Life",
-        "url": "https://open.spotify.com/album/1VV4tdUYIjRlhKxu1gMw4d"
-      },
-      "artists": [
-        {
-          "name": "Steve Winwood",
-          "url": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
-        }
-      ],
-      "duration_ms": 335840,
-      "name": "Back In The High Life Again",
-      "url": "https://open.spotify.com/track/1Bj6YgjjPbEb4jhQ50T8tJ"
-    },
-    {
       "added_at": "2022-03-28 14:29:51",
       "album": {
         "name": "Welcome To The Real World",
@@ -1043,6 +1027,22 @@
     {
       "added_at": "2020-12-08 17:52:17",
       "album": {
+        "name": "Back In The High Life",
+        "url": "https://open.spotify.com/album/1VV4tdUYIjRlhKxu1gMw4d"
+      },
+      "artists": [
+        {
+          "name": "Steve Winwood",
+          "url": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
+        }
+      ],
+      "duration_ms": 335840,
+      "name": "Back In The High Life Again",
+      "url": "https://open.spotify.com/track/1Bj6YgjjPbEb4jhQ50T8tJ"
+    },
+    {
+      "added_at": "2020-12-08 17:52:17",
+      "album": {
         "name": "Chicago 17 (Expanded & Remastered)",
         "url": "https://open.spotify.com/album/1ICKrl6sDjJD1YdR9VDfPR"
       },
@@ -1055,22 +1055,6 @@
       "duration_ms": 283733,
       "name": "Hard Habit to Break - 2006 Remaster",
       "url": "https://open.spotify.com/track/3Tows9RnoAq9CmMJaII2cO"
-    },
-    {
-      "added_at": "2020-12-08 17:52:17",
-      "album": {
-        "name": "Toto IV",
-        "url": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D"
-      },
-      "artists": [
-        {
-          "name": "TOTO",
-          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
-        }
-      ],
-      "duration_ms": 293306,
-      "name": "I Won't Hold You Back",
-      "url": "https://open.spotify.com/track/7D4EtbE7LfQiH8CWj7fQoz"
     },
     {
       "added_at": "2022-03-28 14:29:51",
@@ -1087,6 +1071,22 @@
       "duration_ms": 198946,
       "name": "Key Largo",
       "url": "https://open.spotify.com/track/41v56RunWqxgqTD4H2cwOD"
+    },
+    {
+      "added_at": "2020-12-08 17:52:17",
+      "album": {
+        "name": "Toto IV",
+        "url": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D"
+      },
+      "artists": [
+        {
+          "name": "TOTO",
+          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
+        }
+      ],
+      "duration_ms": 293306,
+      "name": "I Won't Hold You Back",
+      "url": "https://open.spotify.com/track/7D4EtbE7LfQiH8CWj7fQoz"
     },
     {
       "added_at": "2020-12-08 17:52:17",
@@ -1203,22 +1203,18 @@
     {
       "added_at": "2020-12-08 17:52:17",
       "album": {
-        "name": "Bella Donna (2016 Remastered)",
-        "url": "https://open.spotify.com/album/0IomjU2bXFng4LQBYn7Het"
+        "name": "Paradise Theatre",
+        "url": "https://open.spotify.com/album/6PhLTeuN0G894bdSBTCwUF"
       },
       "artists": [
         {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        },
-        {
-          "name": "Don Henley",
-          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
+          "name": "Styx",
+          "url": "https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh"
         }
       ],
-      "duration_ms": 225573,
-      "name": "Leather and Lace - 2016 Remaster",
-      "url": "https://open.spotify.com/track/7kXM2obnaUVl014k00cdhF"
+      "duration_ms": 257866,
+      "name": "The Best Of Times",
+      "url": "https://open.spotify.com/track/7GRUpcvSQM9HrnC2CjYPG4"
     },
     {
       "added_at": "2020-12-08 17:52:17",
@@ -1239,18 +1235,22 @@
     {
       "added_at": "2020-12-08 17:52:17",
       "album": {
-        "name": "Paradise Theatre",
-        "url": "https://open.spotify.com/album/6PhLTeuN0G894bdSBTCwUF"
+        "name": "Bella Donna (2016 Remastered)",
+        "url": "https://open.spotify.com/album/0IomjU2bXFng4LQBYn7Het"
       },
       "artists": [
         {
-          "name": "Styx",
-          "url": "https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh"
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        },
+        {
+          "name": "Don Henley",
+          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
         }
       ],
-      "duration_ms": 257866,
-      "name": "The Best Of Times",
-      "url": "https://open.spotify.com/track/7GRUpcvSQM9HrnC2CjYPG4"
+      "duration_ms": 225573,
+      "name": "Leather and Lace - 2016 Remaster",
+      "url": "https://open.spotify.com/track/7kXM2obnaUVl014k00cdhF"
     },
     {
       "added_at": "2022-03-28 14:29:51",

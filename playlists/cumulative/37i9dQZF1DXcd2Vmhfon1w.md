@@ -4,7 +4,7 @@
 
 > Lo mejor del hip hop español\. Foto: Natos y Waor
 
-156 songs - 8 hr 42 min - [published](https://open.spotify.com/playlist/6HU8sOAPcOoaf1vF1QQHTH)
+157 songs - 8 hr 46 min - [published](https://open.spotify.com/playlist/6HU8sOAPcOoaf1vF1QQHTH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [CREDO](https://open.spotify.com/track/4dWsDhwVrP2W1WCxlOD3TP) | [Bnet](https://open.spotify.com/artist/1HumAcSgWUujlpOm1Zoj6p), [Nerso & Verse](https://open.spotify.com/artist/1jRF8rcj4TMuVQR9PWnpFm) | [CREDO](https://open.spotify.com/album/3fPhpbcTYBI3RrpjkW1SVD) | 1:58 | 2022-01-21 | 2022-03-05 |
 | [Cura de humildad](https://open.spotify.com/track/0hT5joFq2Y5b8dpYu2YJVn) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw) | [Cura de humildad](https://open.spotify.com/album/08nULIhhMXnkD0ubdPnJDK) | 3:38 | 2022-08-04 |  |
 | [Cómete Mi Éxito](https://open.spotify.com/track/4gFxJbsFvf0L97TlkGW04k) | [Kaze](https://open.spotify.com/artist/2X11x8C63wCzAf1WwsIuLg), [Shoda Monkas](https://open.spotify.com/artist/3K3u27hhXRoHojEeDHXLAe) | [Cómete Mi Éxito](https://open.spotify.com/album/1qA191L6gF00pamusjQHMw) | 3:23 | 2022-01-21 |  |
+| [Desamparados](https://open.spotify.com/track/51kzHiwV2gqYOakB0HGh8d) | [Hoke](https://open.spotify.com/artist/2x6kZekpNZMll7Uq3M6ar5), [Louis Amoeba](https://open.spotify.com/artist/4ELBthp7W6iTF2JcdoK5Rd), [Ergo Pro](https://open.spotify.com/artist/6RGXMZ5gUtYKHpG3RQ9fM4), [Ill Pekeño](https://open.spotify.com/artist/3T4KspU3H8Ya6sgxexg9F8) | [BBO](https://open.spotify.com/album/0ofRuEkUDbOtzmxqeZs8Pw) | 3:17 | 2022-09-18 |  |
 | [Dime Que Es La Vida](https://open.spotify.com/track/1wzkDXRgkwg3bPY8B3Mm4S) | [Anier](https://open.spotify.com/artist/29WHGHkCIlASkOrbKKyvcS) | [Alas De Metal](https://open.spotify.com/album/2qNFd8vjUPrEoVcu30tQDd) | 3:17 | 2022-04-21 | 2022-05-28 |
 | [Dime que sí](https://open.spotify.com/track/0O4bCG1TnGt4rARJOFfa1N) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [Recycled J](https://open.spotify.com/artist/4bWHA8fMNjzfGPQqnh5D6y) | [Hijos de la ruina, vol\. 3](https://open.spotify.com/album/5ElCfa24Wz9evOfT5k6uEB) | 4:29 | 2022-01-21 | 2022-08-12 |
 | [Dime que sí](https://open.spotify.com/track/5WFukWVre2TgDKG6G4T5Wq) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [Recycled J](https://open.spotify.com/artist/4bWHA8fMNjzfGPQqnh5D6y) | [Hijos de la ruina, vol\. 3](https://open.spotify.com/album/5VaYKNDJhjfWtghV9UL1Bj) | 4:29 | 2022-08-04 |  |
@@ -112,7 +113,7 @@
 | [No temas](https://open.spotify.com/track/4sgi1JD8StfO3LVTVYicpo) | [Luisaker](https://open.spotify.com/artist/6qHDnHoUlA5AhDNg7AHRS9) | [Y ahora qué](https://open.spotify.com/album/0bj2oCZAlxlWquNNHAK7yE) | 4:00 | 2022-06-21 | 2022-08-05 |
 | [Nudos](https://open.spotify.com/track/2nXXsCwR49zSwvOByAR4wU) | [AMBKOR](https://open.spotify.com/artist/5iQNy7hQGe1suvNOQz19Jz) | [Nudos](https://open.spotify.com/album/1CUDHDUTqOAbXH0uFgesjb) | 3:09 | 2022-01-21 | 2022-02-23 |
 | [Ojalá](https://open.spotify.com/track/3lhBtkwoZuzjaykxbQvQzX) | [Anier](https://open.spotify.com/artist/29WHGHkCIlASkOrbKKyvcS), [Miranda](https://open.spotify.com/artist/0DjGDEVSQsodFbL1bMVPRs), [Dualy](https://open.spotify.com/artist/0XwYf0nSP6fpUCMRjnfiwo) | [Ojalá](https://open.spotify.com/album/6nlRFfAm9DE7mKegkODxYN) | 3:55 | 2022-03-16 | 2022-09-17 |
-| [Ojo de Halcón](https://open.spotify.com/track/0VhfZo2uwcWnQGExuOxNKq) | [Hoke](https://open.spotify.com/artist/2x6kZekpNZMll7Uq3M6ar5), [Louis Amoeba](https://open.spotify.com/artist/4ELBthp7W6iTF2JcdoK5Rd) | [BBO](https://open.spotify.com/album/0ofRuEkUDbOtzmxqeZs8Pw) | 1:50 | 2022-09-16 |  |
+| [Ojo de Halcón](https://open.spotify.com/track/0VhfZo2uwcWnQGExuOxNKq) | [Hoke](https://open.spotify.com/artist/2x6kZekpNZMll7Uq3M6ar5), [Louis Amoeba](https://open.spotify.com/artist/4ELBthp7W6iTF2JcdoK5Rd) | [BBO](https://open.spotify.com/album/0ofRuEkUDbOtzmxqeZs8Pw) | 1:50 | 2022-09-16 | 2022-09-19 |
 | [Ojos Verdes](https://open.spotify.com/track/5uE3JWZGT0JybAFVLkTlJE) | [Delaossa](https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ) | [Ojos Verdes](https://open.spotify.com/album/66cFPe1d4WUwhcqQRxePLK) | 3:10 | 2022-01-21 |  |
 | [Otro Día Más](https://open.spotify.com/track/5hAGYBf1IPrZdPXFPd3Aa5) | [SWIT EME](https://open.spotify.com/artist/51UDJfCuXko0jNa0wdN9Cz) | [Otro Día Más](https://open.spotify.com/album/0cpLz0n0ekwrPPTB07nioO) | 2:36 | 2022-01-21 | 2022-03-17 |
 | [Oye](https://open.spotify.com/track/3PT3XdQNh80MzaI4C8WAab) | [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ), [Dollar Selmouni](https://open.spotify.com/artist/2544NCTfffschCn1NZVMSb) | [Oye](https://open.spotify.com/album/081QhDi0s0s8OGoc5dyfZQ) | 2:34 | 2022-05-05 |  |

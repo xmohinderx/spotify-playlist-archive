@@ -1,12 +1,12 @@
 {
   "description": "Instrumental bliss beyond genre classification.",
-  "num_followers": 446277,
+  "num_followers": 446303,
   "original_name": "Genre Glitch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzI0NDkwOCwwMDAwMDAwMDM0OTkwMDI3MDVkMTI1MTJiODgwZjkzYzM0NTc0NDAz",
+  "snapshot_id": "MTY2MzI0NDkwOCwwMDAwMDAwMDVlNzZjNTZjY2QxNWJmY2UyOTVmMzkwYWM0OTNjZDk2",
   "tracks": [
     {
       "added_at": "2022-08-19 01:55:26",
@@ -129,24 +129,20 @@
       "url": "https://open.spotify.com/track/3tpqnJwdfTJJycsLHwUbtC"
     },
     {
-      "added_at": "2022-08-03 03:12:05",
+      "added_at": "2022-04-22 18:53:10",
       "album": {
-        "name": "Sons Of",
-        "url": "https://open.spotify.com/album/5Zb3em703R0GO9k6LXh33a"
+        "name": "Tahara",
+        "url": "https://open.spotify.com/album/7evkhN1L2LeQjCm1IaCNzS"
       },
       "artists": [
         {
-          "name": "Sam Prekop",
-          "url": "https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk"
-        },
-        {
-          "name": "John McEntire",
-          "url": "https://open.spotify.com/artist/39xjP2biuKg7i0U6DwoRHg"
+          "name": "Jacana People",
+          "url": "https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY"
         }
       ],
-      "duration_ms": 471786,
-      "name": "A Ghost At Noon",
-      "url": "https://open.spotify.com/track/5o4IyOYeFXEQ8NZuKuPHOQ"
+      "duration_ms": 213850,
+      "name": "Tahara",
+      "url": "https://open.spotify.com/track/4HDyneNRqT6teWLfG5CQ1x"
     },
     {
       "added_at": "2022-08-24 01:23:50",
@@ -165,20 +161,24 @@
       "url": "https://open.spotify.com/track/3JFCJBNiBsjdnihfqaLnKN"
     },
     {
-      "added_at": "2022-04-22 18:53:10",
+      "added_at": "2022-08-03 03:12:05",
       "album": {
-        "name": "Tahara",
-        "url": "https://open.spotify.com/album/7evkhN1L2LeQjCm1IaCNzS"
+        "name": "Sons Of",
+        "url": "https://open.spotify.com/album/5Zb3em703R0GO9k6LXh33a"
       },
       "artists": [
         {
-          "name": "Jacana People",
-          "url": "https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY"
+          "name": "Sam Prekop",
+          "url": "https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk"
+        },
+        {
+          "name": "John McEntire",
+          "url": "https://open.spotify.com/artist/39xjP2biuKg7i0U6DwoRHg"
         }
       ],
-      "duration_ms": 213850,
-      "name": "Tahara",
-      "url": "https://open.spotify.com/track/4HDyneNRqT6teWLfG5CQ1x"
+      "duration_ms": 471786,
+      "name": "A Ghost At Noon",
+      "url": "https://open.spotify.com/track/5o4IyOYeFXEQ8NZuKuPHOQ"
     },
     {
       "added_at": "2022-07-15 05:39:27",
@@ -293,6 +293,22 @@
       "url": "https://open.spotify.com/track/4p6enMEejlz6hcigMPdNh6"
     },
     {
+      "added_at": "2022-08-03 03:56:04",
+      "album": {
+        "name": "Planta Dance",
+        "url": "https://open.spotify.com/album/6pUoP6H2z0VDK3K0mzGnWv"
+      },
+      "artists": [
+        {
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Planta Dance",
+      "url": "https://open.spotify.com/track/3YFLHrRwTAcryw4TZXvvYS"
+    },
+    {
       "added_at": "2022-06-20 21:26:25",
       "album": {
         "name": "bda creature",
@@ -311,22 +327,6 @@
       "duration_ms": 291400,
       "name": "bda creature",
       "url": "https://open.spotify.com/track/7vmEKyVtkUBfrHzu7mRZ0E"
-    },
-    {
-      "added_at": "2022-08-03 03:56:04",
-      "album": {
-        "name": "Planta Dance",
-        "url": "https://open.spotify.com/album/6pUoP6H2z0VDK3K0mzGnWv"
-      },
-      "artists": [
-        {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Planta Dance",
-      "url": "https://open.spotify.com/track/3YFLHrRwTAcryw4TZXvvYS"
     },
     {
       "added_at": "2022-07-08 04:48:31",
@@ -397,26 +397,6 @@
       "url": "https://open.spotify.com/track/19xIHqQ06u9gzxbbmeNvx4"
     },
     {
-      "added_at": "2022-01-12 02:36:16",
-      "album": {
-        "name": "This Is An Advertisement",
-        "url": "https://open.spotify.com/album/3dD5AxY5S7g5j4he0QOSJ9"
-      },
-      "artists": [
-        {
-          "name": "usr/friendly",
-          "url": "https://open.spotify.com/artist/2Tf35i1626AZKiQqUx2xfE"
-        },
-        {
-          "name": "Oketo",
-          "url": "https://open.spotify.com/artist/5JBjc1UhLlvqmifk3WLAFg"
-        }
-      ],
-      "duration_ms": 199666,
-      "name": "Slice of Life",
-      "url": "https://open.spotify.com/track/1Ef4AmovzJ5RhoUOqj1iZn"
-    },
-    {
       "added_at": "2022-02-25 03:39:39",
       "album": {
         "name": "Exotic Contents / Pulse at the Centre of Being",
@@ -465,20 +445,24 @@
       "url": "https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC"
     },
     {
-      "added_at": "2022-07-15 18:13:54",
+      "added_at": "2022-01-12 02:36:16",
       "album": {
-        "name": "Eden Portal",
-        "url": "https://open.spotify.com/album/5MSQc9lUHv65o5sF6HTtA2"
+        "name": "This Is An Advertisement",
+        "url": "https://open.spotify.com/album/3dD5AxY5S7g5j4he0QOSJ9"
       },
       "artists": [
         {
-          "name": "Otik",
-          "url": "https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB"
+          "name": "usr/friendly",
+          "url": "https://open.spotify.com/artist/2Tf35i1626AZKiQqUx2xfE"
+        },
+        {
+          "name": "Oketo",
+          "url": "https://open.spotify.com/artist/5JBjc1UhLlvqmifk3WLAFg"
         }
       ],
-      "duration_ms": 366500,
-      "name": "Eden Portal",
-      "url": "https://open.spotify.com/track/0ihmZ14TyzjrjO390cP1Oo"
+      "duration_ms": 199666,
+      "name": "Slice of Life",
+      "url": "https://open.spotify.com/track/1Ef4AmovzJ5RhoUOqj1iZn"
     },
     {
       "added_at": "2022-08-03 02:49:15",
@@ -495,6 +479,22 @@
       "duration_ms": 221298,
       "name": "Shallots",
       "url": "https://open.spotify.com/track/3un8NWwFpSvbN0m0JZ29da"
+    },
+    {
+      "added_at": "2022-07-15 18:13:54",
+      "album": {
+        "name": "Eden Portal",
+        "url": "https://open.spotify.com/album/5MSQc9lUHv65o5sF6HTtA2"
+      },
+      "artists": [
+        {
+          "name": "Otik",
+          "url": "https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB"
+        }
+      ],
+      "duration_ms": 366500,
+      "name": "Eden Portal",
+      "url": "https://open.spotify.com/track/0ihmZ14TyzjrjO390cP1Oo"
     },
     {
       "added_at": "2022-02-25 05:12:51",
@@ -549,22 +549,6 @@
       "url": "https://open.spotify.com/track/4eJpV2XFajmu9sao42J5ax"
     },
     {
-      "added_at": "2021-10-15 03:56:52",
-      "album": {
-        "name": "Sofia Kourtesis",
-        "url": "https://open.spotify.com/album/6xgwDjQ5Z1oXMVQIoRMnqY"
-      },
-      "artists": [
-        {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
-        }
-      ],
-      "duration_ms": 398232,
-      "name": "Trains & Airports",
-      "url": "https://open.spotify.com/track/4nLYuqQrjVZu6zVNqmsTfI"
-    },
-    {
       "added_at": "2022-07-28 05:59:17",
       "album": {
         "name": "lexicon",
@@ -579,6 +563,22 @@
       "duration_ms": 293495,
       "name": "uja end",
       "url": "https://open.spotify.com/track/0keT02CFNOmvH95UmhBMef"
+    },
+    {
+      "added_at": "2021-10-15 03:56:52",
+      "album": {
+        "name": "Sofia Kourtesis",
+        "url": "https://open.spotify.com/album/6xgwDjQ5Z1oXMVQIoRMnqY"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "duration_ms": 398232,
+      "name": "Trains & Airports",
+      "url": "https://open.spotify.com/track/4nLYuqQrjVZu6zVNqmsTfI"
     },
     {
       "added_at": "2021-10-15 03:56:52",
@@ -649,22 +649,6 @@
       "url": "https://open.spotify.com/track/4FYk5LHj60CiV5TmPDbA5I"
     },
     {
-      "added_at": "2021-10-15 03:56:52",
-      "album": {
-        "name": "So",
-        "url": "https://open.spotify.com/album/7azgAC2wWDEQwkFtH1oUxS"
-      },
-      "artists": [
-        {
-          "name": "Tourist",
-          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
-        }
-      ],
-      "duration_ms": 279501,
-      "name": "So",
-      "url": "https://open.spotify.com/track/55CCxcBWmurfDqbrJfphD0"
-    },
-    {
       "added_at": "2022-02-09 04:02:41",
       "album": {
         "name": "Patient Zero",
@@ -681,68 +665,20 @@
       "url": "https://open.spotify.com/track/0TPY4iasJqaFv74wa1FOZG"
     },
     {
-      "added_at": "2022-03-30 05:37:06",
+      "added_at": "2021-10-15 03:56:52",
       "album": {
-        "name": "Paranormal Phenomena \u2013 The Icelandic Expedition",
-        "url": "https://open.spotify.com/album/7of3FJV3PXkHQ1bWyiFqup"
+        "name": "So",
+        "url": "https://open.spotify.com/album/7azgAC2wWDEQwkFtH1oUxS"
       },
       "artists": [
         {
-          "name": "Modula",
-          "url": "https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7"
+          "name": "Tourist",
+          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Diamond Beach",
-      "url": "https://open.spotify.com/track/5O77vZjVt78PbW6nCKItQq"
-    },
-    {
-      "added_at": "2022-04-12 02:09:40",
-      "album": {
-        "name": "Minena",
-        "url": "https://open.spotify.com/album/0IWOooqWyw1lf5xqYGGs3H"
-      },
-      "artists": [
-        {
-          "name": "Ranma Entero",
-          "url": "https://open.spotify.com/artist/779eiS92bExNWIAWxmiWIB"
-        }
-      ],
-      "duration_ms": 275574,
-      "name": "Minena",
-      "url": "https://open.spotify.com/track/4yvUIVFjmNJL7nrb0irmBa"
-    },
-    {
-      "added_at": "2022-04-29 18:24:26",
-      "album": {
-        "name": "Cruda",
-        "url": "https://open.spotify.com/album/2Ia0Ig2JkLx3NNpdxuICeH"
-      },
-      "artists": [
-        {
-          "name": "Siete Catorce",
-          "url": "https://open.spotify.com/artist/3MVzVLPSlOV0s6mGQ2YZHr"
-        }
-      ],
-      "duration_ms": 329596,
-      "name": "Cheve",
-      "url": "https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89"
-    },
-    {
-      "added_at": "2022-03-18 05:02:00",
-      "album": {
-        "name": "Trusted EP",
-        "url": "https://open.spotify.com/album/3fXh9MA7D3t2T4ir3R2tB9"
-      },
-      "artists": [
-        {
-          "name": "mach\u00ecna",
-          "url": "https://open.spotify.com/artist/0WOOrXTvgnjErVjsXSOOxn"
-        }
-      ],
-      "duration_ms": 194358,
-      "name": "Trusted",
-      "url": "https://open.spotify.com/track/0lX858dF2YgUxNEUcgN8Gi"
+      "duration_ms": 279501,
+      "name": "So",
+      "url": "https://open.spotify.com/track/55CCxcBWmurfDqbrJfphD0"
     },
     {
       "added_at": "2022-08-13 02:30:00",
@@ -761,6 +697,22 @@
       "url": "https://open.spotify.com/track/7zFeaYojjxdXbP3CjLHlQn"
     },
     {
+      "added_at": "2022-03-30 05:37:06",
+      "album": {
+        "name": "Paranormal Phenomena \u2013 The Icelandic Expedition",
+        "url": "https://open.spotify.com/album/7of3FJV3PXkHQ1bWyiFqup"
+      },
+      "artists": [
+        {
+          "name": "Modula",
+          "url": "https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Diamond Beach",
+      "url": "https://open.spotify.com/track/5O77vZjVt78PbW6nCKItQq"
+    },
+    {
       "added_at": "2021-10-15 03:56:52",
       "album": {
         "name": "Put Your Head Above The Parakeets",
@@ -775,6 +727,54 @@
       "duration_ms": 436052,
       "name": "Head Above The Parakeets",
       "url": "https://open.spotify.com/track/1F7wFVvXwazyZdy4jq3Bj8"
+    },
+    {
+      "added_at": "2022-03-18 05:02:00",
+      "album": {
+        "name": "Trusted EP",
+        "url": "https://open.spotify.com/album/3fXh9MA7D3t2T4ir3R2tB9"
+      },
+      "artists": [
+        {
+          "name": "mach\u00ecna",
+          "url": "https://open.spotify.com/artist/0WOOrXTvgnjErVjsXSOOxn"
+        }
+      ],
+      "duration_ms": 194358,
+      "name": "Trusted",
+      "url": "https://open.spotify.com/track/0lX858dF2YgUxNEUcgN8Gi"
+    },
+    {
+      "added_at": "2022-04-29 18:24:26",
+      "album": {
+        "name": "Cruda",
+        "url": "https://open.spotify.com/album/2Ia0Ig2JkLx3NNpdxuICeH"
+      },
+      "artists": [
+        {
+          "name": "Siete Catorce",
+          "url": "https://open.spotify.com/artist/3MVzVLPSlOV0s6mGQ2YZHr"
+        }
+      ],
+      "duration_ms": 329596,
+      "name": "Cheve",
+      "url": "https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89"
+    },
+    {
+      "added_at": "2022-04-12 02:09:40",
+      "album": {
+        "name": "Minena",
+        "url": "https://open.spotify.com/album/0IWOooqWyw1lf5xqYGGs3H"
+      },
+      "artists": [
+        {
+          "name": "Ranma Entero",
+          "url": "https://open.spotify.com/artist/779eiS92bExNWIAWxmiWIB"
+        }
+      ],
+      "duration_ms": 275574,
+      "name": "Minena",
+      "url": "https://open.spotify.com/track/4yvUIVFjmNJL7nrb0irmBa"
     },
     {
       "added_at": "2022-01-19 22:44:25",

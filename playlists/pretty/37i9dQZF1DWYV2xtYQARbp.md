@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2xtYQARbp.md) - [plain]
 
 > That fuzzy, noisy punk\-blues hybrid
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,568 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,579 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,18 +30,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2xtYQARbp.md) - [plain]
 | 20 | [The Way I Walk](https://open.spotify.com/track/6dyku3NZZukkS8yhzWG9TU) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Off The Bone](https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi) | 2:40 |
 | 21 | [Shakey Puddin'](https://open.spotify.com/track/7oK4hF6yoIN9HASBXI5hnN) | [Soledad Brothers](https://open.spotify.com/artist/4TAFRShd7vZ8HEp5yKdwo6) | [Root Damage](https://open.spotify.com/album/3lONx9tNtCCo47EkD0mYJf) | 3:25 |
 | 22 | [Too Much Sorrow](https://open.spotify.com/track/1PlgZAWgT8D9pgFDHYZRzI) | [The Greenhornes](https://open.spotify.com/artist/7sPZakwiHQUWkG1teFE8zv) | [Dual Mono](https://open.spotify.com/album/4NrdlpNTAeRwF5SrarP2vk) | 4:07 |
-| 23 | [Thunderbird ESQ](https://open.spotify.com/track/1knQYVzCw96ZRAykXAtjUe) | [The Gories](https://open.spotify.com/artist/5tcr1ujTO3Q0WH2wkY7RWh) | [I Know You Be Houserockin'](https://open.spotify.com/album/3IZmApu7YaxO4kTcY3dB8p) | 2:18 |
-| 24 | [Ditch](https://open.spotify.com/track/3CzyTczZzTeJsFadFNh2po) | [The Jon Spencer Blues Explosion](https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG) | [Orange](https://open.spotify.com/album/6n6VzpTcnHFpGVwJhLNkoH) | 2:34 |
+| 23 | [Ditch](https://open.spotify.com/track/3CzyTczZzTeJsFadFNh2po) | [The Jon Spencer Blues Explosion](https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG) | [Orange](https://open.spotify.com/album/6n6VzpTcnHFpGVwJhLNkoH) | 2:34 |
+| 24 | [Thunderbird ESQ](https://open.spotify.com/track/1knQYVzCw96ZRAykXAtjUe) | [The Gories](https://open.spotify.com/artist/5tcr1ujTO3Q0WH2wkY7RWh) | [I Know You Be Houserockin'](https://open.spotify.com/album/3IZmApu7YaxO4kTcY3dB8p) | 2:18 |
 | 25 | [Rock & Roll Nurse](https://open.spotify.com/track/4LSmyBPIS2d9vGjsI9omRn) | [Compulsive Gamblers](https://open.spotify.com/artist/2aSQWCI5yCT8lHd7Mf9irY) | [Crystal Gazing Luck Amazing](https://open.spotify.com/album/09WsnxNzAYqmMhqcIshVZP) | 4:10 |
 | 26 | [I Can't Stop Thinking About It](https://open.spotify.com/track/6sy3IAvhOXtXrARDBEcIPJ) | [The Dirtbombs](https://open.spotify.com/artist/4wPKtZH8mW0PdLeWPneweb) | [Horndog Fest](https://open.spotify.com/album/6uPjk9Anj9wEdCwHMpwJTK) | 3:03 |
-| 27 | [Like That](https://open.spotify.com/track/0MqI4KwV5TMSO6rIhe2f3w) | [Mr\. Airplane Man](https://open.spotify.com/artist/6rDUd9tXAjOceaW2oc9ISP) | [Moanin'](https://open.spotify.com/album/0wEAMFrOaeqFuz3QcV4Xz7) | 3:08 |
-| 28 | [Do the Milkshake](https://open.spotify.com/track/0NlwS6WOV4gfDRXTFBGNlR) | [Oblivians](https://open.spotify.com/artist/14UQmxJzeKtmgYzJ1sEJdi) | [Popular Favorites](https://open.spotify.com/album/6LXTRRrqJZYyuV0kIuaG7M) | 5:19 |
-| 29 | [Promise Me \- Remastered 2020](https://open.spotify.com/track/620oK7tMifgGBddA6gsGli) | [The Gun Club](https://open.spotify.com/artist/3Un18X4NF1bpjgUk44lUzn) | [Fire of Love \(Remastered 2020\)](https://open.spotify.com/album/14LxwpAPXrY2RrfZoiAIZu) | 2:37 |
-| 30 | [Early in the Morning](https://open.spotify.com/track/2tWdHn2y9MM6jlnaEyIShX) | [The Gories](https://open.spotify.com/artist/5tcr1ujTO3Q0WH2wkY7RWh) | [I Know You Be Houserockin'](https://open.spotify.com/album/3IZmApu7YaxO4kTcY3dB8p) | 2:40 |
+| 27 | [Do the Milkshake](https://open.spotify.com/track/0NlwS6WOV4gfDRXTFBGNlR) | [Oblivians](https://open.spotify.com/artist/14UQmxJzeKtmgYzJ1sEJdi) | [Popular Favorites](https://open.spotify.com/album/6LXTRRrqJZYyuV0kIuaG7M) | 5:19 |
+| 28 | [Sweat](https://open.spotify.com/track/0Vv2svfsXBbOeh0GMlqLGT) | [The Jon Spencer Blues Explosion](https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG) | [Orange](https://open.spotify.com/album/6n6VzpTcnHFpGVwJhLNkoH) | 3:06 |
+| 29 | [Like That](https://open.spotify.com/track/0MqI4KwV5TMSO6rIhe2f3w) | [Mr\. Airplane Man](https://open.spotify.com/artist/6rDUd9tXAjOceaW2oc9ISP) | [Moanin'](https://open.spotify.com/album/0wEAMFrOaeqFuz3QcV4Xz7) | 3:08 |
+| 30 | [Promise Me \- Remastered 2020](https://open.spotify.com/track/620oK7tMifgGBddA6gsGli) | [The Gun Club](https://open.spotify.com/artist/3Un18X4NF1bpjgUk44lUzn) | [Fire of Love \(Remastered 2020\)](https://open.spotify.com/album/14LxwpAPXrY2RrfZoiAIZu) | 2:37 |
 | 31 | [Swampland](https://open.spotify.com/track/0B8EFxR3GfhAOhrkdh9GJM) | [Scientists](https://open.spotify.com/artist/6LTqstd1cGvRfEXaSkqoy1) | [Sedition](https://open.spotify.com/album/55FK9VJhecEPj5bt2Ugkcv) | 5:19 |
-| 32 | [Sweat](https://open.spotify.com/track/0Vv2svfsXBbOeh0GMlqLGT) | [The Jon Spencer Blues Explosion](https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG) | [Orange](https://open.spotify.com/album/6n6VzpTcnHFpGVwJhLNkoH) | 3:06 |
-| 33 | [Ida Honey \(Tell Me You'll Be Mine\)](https://open.spotify.com/track/1cvo2lJ0ui4OQ0n5y3ZUZV) | [The Milkshakes](https://open.spotify.com/artist/02jy0SdsT0bP4Hn0QkQTeG) | [Nothing Can Stop These Men](https://open.spotify.com/album/7KZAq0y0mk1uCx69axAzO7) | 2:15 |
-| 34 | [When You Touch Me](https://open.spotify.com/track/6QfyJdy9eO3WiAL65VQP8D) | [Reigning Sound](https://open.spotify.com/artist/1YRBRIN8d5Xa6vU1OKUc4t) | [Too Much Guitar](https://open.spotify.com/album/0jz530LCAylYogWMXVAVzK) | 2:57 |
+| 32 | [Early in the Morning](https://open.spotify.com/track/2tWdHn2y9MM6jlnaEyIShX) | [The Gories](https://open.spotify.com/artist/5tcr1ujTO3Q0WH2wkY7RWh) | [I Know You Be Houserockin'](https://open.spotify.com/album/3IZmApu7YaxO4kTcY3dB8p) | 2:40 |
+| 33 | [When You Touch Me](https://open.spotify.com/track/6QfyJdy9eO3WiAL65VQP8D) | [Reigning Sound](https://open.spotify.com/artist/1YRBRIN8d5Xa6vU1OKUc4t) | [Too Much Guitar](https://open.spotify.com/album/0jz530LCAylYogWMXVAVzK) | 2:57 |
+| 34 | [Ida Honey \(Tell Me You'll Be Mine\)](https://open.spotify.com/track/1cvo2lJ0ui4OQ0n5y3ZUZV) | [The Milkshakes](https://open.spotify.com/artist/02jy0SdsT0bP4Hn0QkQTeG) | [Nothing Can Stop These Men](https://open.spotify.com/album/7KZAq0y0mk1uCx69axAzO7) | 2:15 |
 | 35 | [You'll Be Sorry Now](https://open.spotify.com/track/10Wc1g6PLRK6TPFsAXRqtU) | [Thee Mighty Caesars](https://open.spotify.com/artist/0inrs4SRUX8tumpMrZkkiD) | [Beware the Ides of March](https://open.spotify.com/album/0P1GRmI3zZ5fclhcxiixfV) | 2:11 |
 | 36 | [I'll Wait](https://open.spotify.com/track/2iQiWJRPlCV0nC9AgenOkU) | [The Dirtbombs](https://open.spotify.com/artist/4wPKtZH8mW0PdLeWPneweb) | [Ultraglide In Black](https://open.spotify.com/album/5dUbfMC2mz6nB9mIZlTV4z) | 3:00 |
 | 37 | [Hard Time Blues](https://open.spotify.com/track/1fvnhqEfj6ZH5qD6GFCkSZ) | [Laughing Hyenas](https://open.spotify.com/artist/6QGUx7mmJsow2JsuDbsFLq) | [Hard Times](https://open.spotify.com/album/0RcQ3VgenJTgydpoiWJMFm) | 7:19 |
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2xtYQARbp.md) - [plain]
 | 39 | [Just One More](https://open.spotify.com/track/4rkGGnL3BM7t6JEsb2cw5G) | [Gallon Drunk](https://open.spotify.com/artist/1Stl5FcIQtQcRv30wlnH2b) | [You, The Night… and The Music](https://open.spotify.com/album/1OpcN4cNMDl8O0y5tPftwP) | 3:55 |
 | 40 | [Summer Sun Blues](https://open.spotify.com/track/3w9bUhup3zHpeNUhujZKhn) | [The Go](https://open.spotify.com/artist/2m0xdXsYglZKSzqVkZtFi8) | [Whatcha Doin'](https://open.spotify.com/album/76ioQYsj2LjKW7hewrz9uX) | 3:37 |
 | 41 | [Round Every Corner](https://open.spotify.com/track/5Lo8MW6jtjbKU2YslHKqna) | [Thee Headcoatees](https://open.spotify.com/artist/1MDoUyChsGrYbl9DeV9tif) | [The Kids Are All Square \- This Is Hip & Girlsville](https://open.spotify.com/album/60tBmjuaOOUZ1nbUFXKejQ) | 2:25 |
-| 42 | [Hanky\-Joe Digger](https://open.spotify.com/track/1Sv7geImcYAkQw8MQVB3G4) | [Speedball Baby](https://open.spotify.com/artist/4oRzJXOEO1MDXDes16geFA) | [The Blackout](https://open.spotify.com/album/5w0QE2P3y8PAMAEG9NMgfE) | 2:06 |
-| 43 | [Trying Just to Please You](https://open.spotify.com/track/44Q7Xmxm0oeASUEQsxHnn1) | [Lyres](https://open.spotify.com/artist/5b0wQCgdlG1Dk4N67lguml) | [On Fyre](https://open.spotify.com/album/7Ctxktj9vqhIoRvchmFB0f) | 4:25 |
-| 44 | [Get It!](https://open.spotify.com/track/6AfEsXG7vy93DHEbWcgLuo) | [Reigning Sound](https://open.spotify.com/artist/1YRBRIN8d5Xa6vU1OKUc4t) | [Too Much Guitar](https://open.spotify.com/album/0jz530LCAylYogWMXVAVzK) | 2:03 |
+| 42 | [Get It!](https://open.spotify.com/track/6AfEsXG7vy93DHEbWcgLuo) | [Reigning Sound](https://open.spotify.com/artist/1YRBRIN8d5Xa6vU1OKUc4t) | [Too Much Guitar](https://open.spotify.com/album/0jz530LCAylYogWMXVAVzK) | 2:03 |
+| 43 | [Hanky\-Joe Digger](https://open.spotify.com/track/1Sv7geImcYAkQw8MQVB3G4) | [Speedball Baby](https://open.spotify.com/artist/4oRzJXOEO1MDXDes16geFA) | [The Blackout](https://open.spotify.com/album/5w0QE2P3y8PAMAEG9NMgfE) | 2:06 |
+| 44 | [Trying Just to Please You](https://open.spotify.com/track/44Q7Xmxm0oeASUEQsxHnn1) | [Lyres](https://open.spotify.com/artist/5b0wQCgdlG1Dk4N67lguml) | [On Fyre](https://open.spotify.com/album/7Ctxktj9vqhIoRvchmFB0f) | 4:25 |
 | 45 | [\(Oh Mom\) Teach Me How to Uncle Willy](https://open.spotify.com/track/3vfJ46ozwgF37hLweVMDnj) | [Les Sexareenos](https://open.spotify.com/artist/0jTOyh4tUJWtIMDV73fcN4) | [14 Frenzied Shakers](https://open.spotify.com/album/2CTnUp9DpibklvypLkEQKz) | 2:34 |
 | 46 | [Oh Yeah](https://open.spotify.com/track/50iSEtsLN8e4HIb3uVBwJC) | [Thee Mighty Caesars](https://open.spotify.com/artist/0inrs4SRUX8tumpMrZkkiD) | [Thee Caesars of Trash](https://open.spotify.com/album/6r3Wz5pboOCUUzSkfx0tRW) | 2:41 |
 | 47 | [Michigan Blues](https://open.spotify.com/track/5jPqW9HWJLarocC2z8vkrP) | [The Hentchmen](https://open.spotify.com/artist/7jKdcTLxl5PvTJ27fxQRwh) | [Broad Appeal](https://open.spotify.com/album/1lXul79dEZzoQn6texAGTx) | 2:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2xtYQARbp.md) - [plain]
 | 49 | [Insylum](https://open.spotify.com/track/644lYw5mjg4Ja1saKnpIXK) | [Oxbow](https://open.spotify.com/artist/4m47y2u5lJBKbakAv5YAh1) | [Serenade in Red](https://open.spotify.com/album/6KmMuPrapXIwvYobrSrlKh) | 6:10 |
 | 50 | [Preaching the Blues](https://open.spotify.com/track/4qZrZqBRq0tAKJ3wE3Az3A) | [The Gun Club](https://open.spotify.com/artist/3Un18X4NF1bpjgUk44lUzn) | [Fire of Love](https://open.spotify.com/album/3OrGW7wRB8dIZ8EYrAkkWW) | 3:59 |
 
-Snapshot ID: `MTY0ODQ5ODQ5OCwwMDAwMDAwMGQ4ZmRjYzFjNzUyZDVkNjBiODRjYjY2Y2QzZDFlMmEz`
+Snapshot ID: `MTY0ODQ5ODQ5OCwwMDAwMDAwMDc1Yjc5ZjQ2N2U2N2U4OTc3MWRkMWY1ZWE5MzI2ODkw`

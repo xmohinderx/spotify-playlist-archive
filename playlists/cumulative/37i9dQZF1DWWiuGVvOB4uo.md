@@ -4,7 +4,7 @@
 
 > Acoustic covers of all your favourite songs.
 
-188 songs - 10 hr 25 min - not published yet
+188 songs - 10 hr 25 min - [published](https://open.spotify.com/playlist/7kUHzfQSFAaDbXKKviMUZk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

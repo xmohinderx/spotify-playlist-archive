@@ -4,7 +4,7 @@
 
 > Conscious songs for everyday reflection.
 
-88 songs - 6 hr 12 min - [published](https://open.spotify.com/playlist/6PGA40jJvnwvOGylzYEmlj)
+89 songs - 6 hr 16 min - [published](https://open.spotify.com/playlist/6PGA40jJvnwvOGylzYEmlj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [She Go](https://open.spotify.com/track/5dKY8snzCZK7k4rqfmGfoc) | [HIRIE](https://open.spotify.com/artist/0HYbyzzhI44iTHvYnf1nOs) | [Dreamer](https://open.spotify.com/album/4aEdupGZrAZ3AOtoLIeEr5) | 3:17 | 2020-11-25 |  |
 | [Sometimes I](https://open.spotify.com/track/2bz32yhGhMaj3LNnQpyFE9) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Sometimes I](https://open.spotify.com/album/6YYBs0rzC30URlk77ULuMW) | 6:17 | 2020-11-25 | 2022-07-29 |
 | [Sometimes I](https://open.spotify.com/track/6sP0vf4MzuUvN1r5FXtg2d) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Sometimes I](https://open.spotify.com/album/16bQ6nIkVt3GrGNFOyiGIX) | 6:17 | 2020-11-25 |  |
-| [Speak out](https://open.spotify.com/track/4WE6L50VXeRbYOqybh2Wi9) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci), [Ani DiFranco](https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD) | [Leylines](https://open.spotify.com/album/6nGSseeEzhTHlK2z4R2xQE) | 3:55 | 2020-11-25 |  |
+| [Speak out](https://open.spotify.com/track/4WE6L50VXeRbYOqybh2Wi9) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci), [Ani DiFranco](https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD) | [Leylines](https://open.spotify.com/album/6nGSseeEzhTHlK2z4R2xQE) | 3:55 | 2020-11-25 | 2022-09-19 |
 | [Speak Out](https://open.spotify.com/track/56PweNlDakf2ookZBGHO9M) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci), [Ani DiFranco](https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD) | [Leylines](https://open.spotify.com/album/0DhPojwiQq6BREwY5DJjYC) | 3:55 | 2020-11-25 | 2022-07-29 |
 | [Steppegrass](https://open.spotify.com/track/0r2RnFIvxFCX4zspqQg86F) | [Dirtwire](https://open.spotify.com/artist/0hc2qwaU2xy7LUd0FRjcHK) | [Road Goes All Night](https://open.spotify.com/album/1lxUhQ6Hf8WfhPhO9vHH6q) | 5:51 | 2020-11-25 | 2022-07-29 |
 | [Steppegrass](https://open.spotify.com/track/4qKOmcvaDx0hYHdOCqq90L) | [Dirtwire](https://open.spotify.com/artist/0hc2qwaU2xy7LUd0FRjcHK) | [Road Goes All Night](https://open.spotify.com/album/7LVZpO9CxYEjL0O6zfeH3D) | 5:51 | 2020-11-25 |  |
@@ -87,6 +87,7 @@
 | [Vaporize](https://open.spotify.com/track/05m1GXCzSikr5HBveHXKTf) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Spirit](https://open.spotify.com/album/0MEMCZCFDd9SxPggFpH4WD) | 3:51 | 2020-11-25 |  |
 | [Walking on the Moon \(Acoustic\)](https://open.spotify.com/track/1UExVMn2Abw8UNXWNMo0dZ) | [Cas Haley](https://open.spotify.com/artist/2MrqCKzxfyDA2mqfNWEXKy) | [Cas Haley](https://open.spotify.com/album/2Rj0pHePr2SyUh6zfyDFaz) | 3:29 | 2020-11-25 |  |
 | [Warm Under the Light](https://open.spotify.com/track/5p4ydBPTPRhhQ6mWTWswXJ) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t) | [Low Tide](https://open.spotify.com/album/0vYG3TaFXfpIqNXLvTo4GL) | 3:53 | 2020-11-25 | 2022-07-28 |
+| [Warm Under the Light](https://open.spotify.com/track/0BKLqsA3UH88WgyGGhJy6W) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t) | [Low Tide](https://open.spotify.com/album/3K7A6Y2B2pRIuIG779YQ5f) | 3:54 | 2020-11-25 |  |
 | [Warm Under the Light](https://open.spotify.com/track/6Z9x4QynHfLwNAXAzn9X1Z) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t) | [Low Tide](https://open.spotify.com/album/4giRNp31F4b7g7jjR7I9Jp) | 3:54 | 2020-11-25 | 2022-09-15 |
 | [We Got This](https://open.spotify.com/track/3s7bAcCETTy7vHLxQYVQDq) | [Delhi 2 Dublin](https://open.spotify.com/artist/3UI94nr1hPvSXtvXRZ97JV) | [We Got This](https://open.spotify.com/album/1cFksYhPgmdlsrF1RLCSBN) | 3:33 | 2020-11-25 | 2022-07-20 |
 | [Welcome To The North](https://open.spotify.com/track/3hfMsVN7aoFFOPXfhnfUIt) | [Dustin Thomas](https://open.spotify.com/artist/4xZc2DiEMOQP4KppCfK5QK) | [Welcome To The North](https://open.spotify.com/album/39ZPuVd9UW2r6rguaqTjEP) | 3:30 | 2020-11-25 | 2022-07-29 |

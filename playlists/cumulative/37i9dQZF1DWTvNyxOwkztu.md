@@ -4,7 +4,7 @@
 
 > Just lean back and enjoy these relaxed beats.
 
-210 songs - 11 hr 43 min - [published](https://open.spotify.com/playlist/1B3KGcDzKz7tniplCeg7Gc)
+211 songs - 11 hr 46 min - [published](https://open.spotify.com/playlist/1B3KGcDzKz7tniplCeg7Gc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,7 +170,7 @@
 | [Soldiner](https://open.spotify.com/track/5Va8gy236vQYMFonFTTOem) | [il:lo](https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F) | [Soldiner](https://open.spotify.com/album/6WO1C0s3KUsMVT4ne3hcZu) | 5:46 | 2022-03-25 | 2022-04-19 |
 | [Standing with You](https://open.spotify.com/track/5FoejkYblHki3Ydav7aTJE) | [Kyle Kollins](https://open.spotify.com/artist/08GbvWvQhprxVEGTzqKLhy) | [Standing with You](https://open.spotify.com/album/6j9b1kAdgimNytOjeAPJJk) | 2:34 | 2021-12-09 |  |
 | [Star Reflections](https://open.spotify.com/track/7xpr7wA84h55F4t2noWCd0) | [Lostlow](https://open.spotify.com/artist/2ZB3DKgzAjv2VY88jaH9jn) | [Star Reflections](https://open.spotify.com/album/2lXS0eCpWHuVwFBJbtNhEV) | 3:12 | 2021-12-09 |  |
-| [Star System](https://open.spotify.com/track/5tjM0EiK6wTMwMrR3csFpt) | [Isla Cruz](https://open.spotify.com/artist/0b4aT0b93OhjSIIsYkW6s1) | [Star System](https://open.spotify.com/album/6p80kE6886zA5gT6A9VBpF) | 3:55 | 2021-12-09 |  |
+| [Star System](https://open.spotify.com/track/5tjM0EiK6wTMwMrR3csFpt) | [Isla Cruz](https://open.spotify.com/artist/0b4aT0b93OhjSIIsYkW6s1) | [Star System](https://open.spotify.com/album/6p80kE6886zA5gT6A9VBpF) | 3:55 | 2021-12-09 | 2022-09-19 |
 | [Stardust](https://open.spotify.com/track/45E6bRQfFgG71K6A0uwPsW) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Room for Thought](https://open.spotify.com/album/5EjPFBdTPs7tFd2N1K9spD) | 2:24 | 2021-12-09 | 2022-05-10 |
 | [Step By Step](https://open.spotify.com/track/17YLsJ4vxqP113HNFrFSUV) | [Cedric Mercute](https://open.spotify.com/artist/09WaGi6h0LCbBFdKsjBMdk) | [Step By Step](https://open.spotify.com/album/488BJzweFOikT4WEI2PD0N) | 2:47 | 2021-12-09 | 2022-07-28 |
 | [Sueño Lúcido](https://open.spotify.com/track/1ayTVANYOoKTwwekSaRUmx) | [Ralf](https://open.spotify.com/artist/4UIhkghagHG8sGJ3GO75HR) | [Sueño Lúcido](https://open.spotify.com/album/1wHV1TO3GZcKhZGVVaKVPD) | 4:05 | 2021-12-09 |  |
@@ -202,6 +202,7 @@
 | [Vacation](https://open.spotify.com/track/3EvZtIXtY5pRyboLxVc93n) | [Hanawal](https://open.spotify.com/artist/3xUcEsjHpe4Ps5ziYErlqs) | [Vacation](https://open.spotify.com/album/6mgZeATUdVHaEOobbSR6Dv) | 3:15 | 2022-05-20 |  |
 | [Vacay lets gooo](https://open.spotify.com/track/2xCtE1orl0wVEhSI1fDMDY) | [Sapphire Llama](https://open.spotify.com/artist/0ukEGWLjiNHntHlKL4qeF9) | [Vacay lets gooo](https://open.spotify.com/album/5xUrXJ3vZ3biL78DOEabhH) | 2:01 | 2022-06-02 |  |
 | [Vanishing](https://open.spotify.com/track/1XePxhd6DqIDSrMcoYc94X) | [Enui](https://open.spotify.com/artist/0uLnAkNKYtVbCJSviFZnEh) | [Vanishing](https://open.spotify.com/album/75VTXKhMgwXqBz7fyU8XYJ) | 8:08 | 2021-12-09 | 2022-04-23 |
+| [Vibrant Presence](https://open.spotify.com/track/3rvXYpm4BncYG1iZd2EDUk) | [Dye O](https://open.spotify.com/artist/3AihmaPi9Wr3O7z578f6mH) | [Vibrant Presence](https://open.spotify.com/album/25yfnORQ9evqQ3bdd0UpnL) | 3:35 | 2022-09-12 |  |
 | [Voices](https://open.spotify.com/track/3OhbKriIb52oPlq7wdNMzz) | [Tobias Bergson](https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3) | [Pool Party](https://open.spotify.com/album/2QwQy5RBIZoagRPUOpmAwe) | 2:47 | 2022-06-02 |  |
 | [Voices](https://open.spotify.com/track/6KhyeJAdw4TnnjXgJPLJtz) | [Tobias Bergson](https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3) | [Pool Party](https://open.spotify.com/album/1hmmTGyTBF5unNBgTVOV0E) | 2:47 | 2021-12-09 | 2022-07-29 |
 | [Wasted Heart](https://open.spotify.com/track/5iDkUE5DcnEUvingHGqFrj) | [Nimus](https://open.spotify.com/artist/0TT7iBNHgH8NGc6vX5Vodo) | [Wasted Heart](https://open.spotify.com/album/3BX13Ivri0eN5FvDwVJgdq) | 2:24 | 2022-06-02 |  |

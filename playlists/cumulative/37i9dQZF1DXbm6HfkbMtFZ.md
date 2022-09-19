@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-423 songs - 1 day 1 hr 44 min - [published](https://open.spotify.com/playlist/3PqA3yBwlmJru2JyyuNSjK)
+424 songs - 1 day 1 hr 47 min - [published](https://open.spotify.com/playlist/3PqA3yBwlmJru2JyyuNSjK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Duck Hunting](https://open.spotify.com/track/7DPWHOe9ETqjEVl2fmYHeB) | [Gundelach](https://open.spotify.com/artist/2TUtwEDqoXZOapCTgMrcvj) | [Duck Hunting](https://open.spotify.com/album/5hbYxEi54eDB3p6JwxNy5K) | 3:37 | 2021-12-16 | 2022-07-28 |
 | [Dumb Love](https://open.spotify.com/track/2Al2n6ziP5XjIMZEL4laQj) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Dumb Love](https://open.spotify.com/album/6cJ55YHXdJ5RHeRQNjXFLO) | 4:42 | 2022-07-26 |  |
 | [Dumb Love](https://open.spotify.com/track/4fDcbHuBbX9qlNSQWnkrHw) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Dumb Love](https://open.spotify.com/album/63uSlSJaewoSllkYvfGsMf) | 4:42 | 2021-12-16 | 2022-07-29 |
+| [Easier Said Than Done](https://open.spotify.com/track/7dIPEjXoxkhmNR9S7EQVJ0) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma) | 2:54 | 2022-09-08 |  |
 | [Easy](https://open.spotify.com/track/3Nu0fJTengky63bpIRXWuo) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [Still Life \- EP](https://open.spotify.com/album/4CYU714yxnEXFAgTRbvx1i) | 3:20 | 2022-07-26 |  |
 | [Easy](https://open.spotify.com/track/6bPk3V91v7xEXcXBGVB2Yr) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [Still Life](https://open.spotify.com/album/5k55butHrtDJgyJjpezYsx) | 3:20 | 2022-03-30 | 2022-04-20 |
 | [Easy](https://open.spotify.com/track/1pfYIi1N0t9g7WWZNLsde3) | [Simon Jefferis](https://open.spotify.com/artist/3pqAGIw1dthOiaFvDERi74), [Benedict Cork](https://open.spotify.com/artist/3x2c58AEVAjnJPpuz8ywTv) | [Easy](https://open.spotify.com/album/3etfw3EWe274S5SyajP8eW) | 3:08 | 2021-12-16 | 2022-07-21 |
@@ -156,7 +157,7 @@
 | [Hanoï Café](https://open.spotify.com/track/7f0MMJGwQKtt4ZPu0Y6Vwu) | [Bleu Toucan](https://open.spotify.com/artist/3lv9GfkVw9I9X4Rgtf2o4r) | [Origami \- EP](https://open.spotify.com/album/5AuC9w0bmEFtdgLkg7Jrz8) | 3:14 | 2022-03-30 | 2022-04-19 |
 | [Happy](https://open.spotify.com/track/6Xodd3wwjgU8FRqIX5fkgH) | [Rae & Christian](https://open.spotify.com/artist/75WMfaHMMwtiMW8tfR92Pn), [Mark Foster](https://open.spotify.com/artist/6wZCINbQf3l403J5o7AxLV) | [Mecury Rising](https://open.spotify.com/album/4d2j7pkXqc2EmAVOqgPQWU) | 2:48 | 2022-03-30 |  |
 | [He Can Only Hold Her](https://open.spotify.com/track/3eVo0wD4kGwF3gshtecZso) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 2:46 | 2022-03-30 |  |
-| [Highschool Steady](https://open.spotify.com/track/4QMxpwLOwo4PIxpIMYjbAP) | [Eli Smart](https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb) | [Boonie Town](https://open.spotify.com/album/5nBpjXFhGx4Kg6nQ0Kmjon) | 4:19 | 2022-01-21 |  |
+| [Highschool Steady](https://open.spotify.com/track/4QMxpwLOwo4PIxpIMYjbAP) | [Eli Smart](https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb) | [Boonie Town](https://open.spotify.com/album/5nBpjXFhGx4Kg6nQ0Kmjon) | 4:19 | 2022-01-21 | 2022-09-19 |
 | [Hold On](https://open.spotify.com/track/1EuvOdyyzhFUP2z3gfr6xz) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls](https://open.spotify.com/album/4eOGRVKyCsVfaXysnHz0k2) | 3:46 | 2022-03-30 |  |
 | [Hold On \(I Was Wrong\)](https://open.spotify.com/track/1bTzErckylA7bBIrBfOgRI) | [Video Age](https://open.spotify.com/artist/4aTQ05Ddh21E2CJFSZy7ZW) | [Hold On \(I Was Wrong\)](https://open.spotify.com/album/1sGQGH1CSRn0888zYxz8EB) | 3:43 | 2022-03-30 | 2022-04-21 |
 | [Home](https://open.spotify.com/track/5VN2dZer45WzuaorRa242v) | [Gloria Barnes](https://open.spotify.com/artist/4YC8d6LulqAmlZcNKw7c5L) | [Uptown \(Digitally Remastered\)](https://open.spotify.com/album/67SleiSz64OZip0649tBp6) | 2:49 | 2021-12-16 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-254 songs - 12 hr 29 min - [published](https://open.spotify.com/playlist/3x0R9H3q2apK7ItZZ2pCtQ)
+255 songs - 12 hr 31 min - [published](https://open.spotify.com/playlist/3x0R9H3q2apK7ItZZ2pCtQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Bad Bees \(feat\. Harrison First\)](https://open.spotify.com/track/2GvYPnGRiF9MdJSSeS30tY) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n), [Harrison First](https://open.spotify.com/artist/0lcIRzEVZTKyNiEct4UKTo) | [Bad Bees \(feat\. Harrison First\)](https://open.spotify.com/album/5dVTLuCWaBvkTR6taXAZAn) | 2:59 | 2021-10-29 | 2022-08-06 |
 | [Baila Conmigo](https://open.spotify.com/track/3KruoUtSkm84Az0bJunnxl) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Baila Conmigo](https://open.spotify.com/album/00RgZ3hZH9WpvBksu2hx5G) | 2:26 | 2022-07-29 |  |
 | [Bang Bang](https://open.spotify.com/track/4IC1c5WgaeW1k3kAB7VMTH) | [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT), [Jake Tarry](https://open.spotify.com/artist/7qIllFUqzpSFXfdcwQlP7r) | [Bang Bang](https://open.spotify.com/album/5C0wNtxNy0dMhY7mfX6mYJ) | 2:24 | 2022-07-22 |  |
+| [Banga](https://open.spotify.com/track/0Lg4xPkkZ3k7PP8kZhqyHV) | [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC), [FETISH](https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o) | [Banga](https://open.spotify.com/album/3HGGWYXPmiZ7d3qMbCi3ZD) | 2:21 | 2022-09-16 |  |
 | [Bass Face](https://open.spotify.com/track/4n93qqnMDU7n5LRj5O2wh7) | [BRKLYN](https://open.spotify.com/artist/0sSB3cIRBuBGa1UXLsQtaw), [LöKii](https://open.spotify.com/artist/2RDXcxQgmEyomb2g9SERuf) | [Bass Face](https://open.spotify.com/album/3w7pSN07nFeY7fqlVEBkFc) | 2:30 | 2021-10-29 | 2022-06-10 |
 | [Bass Goes Down](https://open.spotify.com/track/0HfNmWE8fohKdQCXbR1CwS) | [MOLOW](https://open.spotify.com/artist/3X2bWmlO8Oq7dIeEgAbTAB), [Rompasso](https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A) | [Bass Goes Down](https://open.spotify.com/album/2JgIfDQUhkptCzJZkhPiY0) | 2:24 | 2021-10-29 | 2022-03-21 |
 | [BB Got Me Like](https://open.spotify.com/track/75lHY2V0DN0SvRoF2BJQfn) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT), [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [BB Got Me Like](https://open.spotify.com/album/04F6eKFDiQUnVJvICSKwjV) | 2:28 | 2021-10-29 | 2022-07-24 |
@@ -105,7 +106,7 @@
 | [Heartbeat](https://open.spotify.com/track/4TCfzdejg8xdFYZjzTOA4A) | [Wankelmut](https://open.spotify.com/artist/01e2lCvLZ4fLUIRy68nptH), [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Diskover](https://open.spotify.com/artist/3YbWcfZCP1MPYvMzLxkvSI), [Willemijn May](https://open.spotify.com/artist/3HqQXlVVvoBiSiYRmyi1qV) | [Heartbeat](https://open.spotify.com/album/0MVgMaCm6Mw31VnAoliGiY) | 2:50 | 2021-10-29 | 2022-03-21 |
 | [High](https://open.spotify.com/track/0a6fl7K59Exm2hx0RKPJeE) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [High](https://open.spotify.com/album/7Jy8pNJlP3oWDeKIsFMquQ) | 3:12 | 2022-02-18 |  |
 | [High Like This](https://open.spotify.com/track/38XcmJDV2pjjVcCvdpMpA2) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [FR!ES](https://open.spotify.com/artist/6s9IlZhrBJqv3ZCSNzP2Gs) | [High Like This](https://open.spotify.com/album/6TiMCmTJh5ADHupJLR1cRV) | 2:49 | 2021-10-29 | 2022-06-11 |
-| [hiiigh](https://open.spotify.com/track/2vQ6kg5hPJiFx2lctuBtju) | [Tommy Trash](https://open.spotify.com/artist/1tBU8jUEdVR3mqSsAqEGfD), [Daisy Guttridge](https://open.spotify.com/artist/2tUq6RAxkUzZPf2WWLXMa4) | [hiiigh](https://open.spotify.com/album/54gkNTtJTRzBgZnhakwQR9) | 2:55 | 2021-10-29 |  |
+| [hiiigh](https://open.spotify.com/track/2vQ6kg5hPJiFx2lctuBtju) | [Tommy Trash](https://open.spotify.com/artist/1tBU8jUEdVR3mqSsAqEGfD), [Daisy Guttridge](https://open.spotify.com/artist/2tUq6RAxkUzZPf2WWLXMa4) | [hiiigh](https://open.spotify.com/album/54gkNTtJTRzBgZnhakwQR9) | 2:55 | 2021-10-29 | 2022-09-19 |
 | [Hooked](https://open.spotify.com/track/4v7kKFlEDmpVToHOICsXaM) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [Hooked](https://open.spotify.com/album/69QTaXErGkvPW9pQ0GYY4H) | 3:26 | 2022-05-11 |  |
 | [Hope](https://open.spotify.com/track/6piOGtdsulNYXIx8nOH0s4) | [Funkin Matt](https://open.spotify.com/artist/11chB4Th19iMA7j65oGMk1), [Tom Breeze](https://open.spotify.com/artist/63RVzApTkfArs5dRWfBIR8) | [Hope](https://open.spotify.com/album/1eU0In75IqjtKUSDEuiNXx) | 3:56 | 2021-10-29 | 2022-07-29 |
 | [Hope](https://open.spotify.com/track/5ROkVcgsHOtlzv1SKuAikA) | [Justin Martin](https://open.spotify.com/artist/4FN8WHqUbwkd97WEjoCu7B) | [Hope](https://open.spotify.com/album/2sPbknPYZhUd60dx4iansa) | 6:03 | 2021-10-29 | 2022-07-28 |

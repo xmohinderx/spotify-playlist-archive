@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:4qUoZ6ErhTYFhAI0W1iI9q">Ezekiel</a>'s track IDs\. Updated regularly\. Curated by Ezekiel\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-50 songs - 2 hr 7 min - not published yet
+50 songs - 2 hr 7 min - [published](https://open.spotify.com/playlist/6KxHg5N9T9KxJ7MDqj5H4b)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

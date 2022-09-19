@@ -4,7 +4,7 @@
 
 > All your favourite holiday jazz classics for your christmas dinner party.
 
-94 songs - 5 hr 12 min - [published](https://open.spotify.com/playlist/1RCTc7oBE4t1Ge16K09W30)
+96 songs - 5 hr 23 min - [published](https://open.spotify.com/playlist/1RCTc7oBE4t1Ge16K09W30)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Christmas in New York](https://open.spotify.com/track/1k5garqjeufmINDIJ4RDwE) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [Merry Christmas from José James](https://open.spotify.com/album/0ijbJQRuc5NRvLtTs3206Z) | 2:57 | 2021-12-21 | 2022-07-29 |
 | [Christmas in New York](https://open.spotify.com/track/4OtoXQ2ySVcmudZT4jF8jH) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [Merry Christmas from José James](https://open.spotify.com/album/4bcdBu4Vjwu1J0GGs7HU72) | 2:58 | 2022-01-03 |  |
 | [Christmas Island](https://open.spotify.com/track/4cy0jYlAbtgBmOq05AzDt3) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) | 2:17 | 2021-12-21 |  |
-| [Christmas Isn't Christmas At All](https://open.spotify.com/track/2peDwHsnN3T2U62N2hWgDA) | [Ann Hampton Callaway](https://open.spotify.com/artist/5wHvUotfxzSccrzX9x9g6e) | [Hope of Christmas](https://open.spotify.com/album/2nuBdfcmKaFLHy00vENDgo) | 4:46 | 2021-12-21 |  |
+| [Christmas Isn't Christmas At All](https://open.spotify.com/track/2peDwHsnN3T2U62N2hWgDA) | [Ann Hampton Callaway](https://open.spotify.com/artist/5wHvUotfxzSccrzX9x9g6e) | [Hope of Christmas](https://open.spotify.com/album/2nuBdfcmKaFLHy00vENDgo) | 4:46 | 2021-12-21 | 2022-09-19 |
 | [Christmas Rainbows](https://open.spotify.com/track/3YriJtNU0FTmdTE8vZUaxd) | [Joe Williams](https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL) | [That Holiday Feelin'](https://open.spotify.com/album/73x03sZD5Xkb6cOqbJ5R1j) | 5:13 | 2021-12-21 |  |
 | [Christmas Time Is Here](https://open.spotify.com/track/5a0H5FJlnPdRt66TM6Kz9r) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Christmas Songs](https://open.spotify.com/album/3ZHBI81GwgJyEfkbj3ueAr) | 3:32 | 2021-12-21 | 2022-07-29 |
 | [Christmas Time Is Here](https://open.spotify.com/track/1f9WJ3jehvcxTK5OTTYiOO) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Christmas Songs](https://open.spotify.com/album/6jo4NImjVrEduySw2QJ2cO) | 3:34 | 2022-01-03 |  |
@@ -41,6 +41,7 @@
 | [Deck the Halls](https://open.spotify.com/track/1GyVQ3Lyz2XVTxYl42f1Kq) | [Michael Stylez & Co](https://open.spotify.com/artist/64jHiDhZlL99Y3MxOwQ4qT) | [Deck the Halls](https://open.spotify.com/album/3ih4Z7j1laYHVbeCzxssop) | 1:39 | 2021-12-21 |  |
 | [Ding Dong Merrily on High](https://open.spotify.com/track/6VDBfaCHIhpfimcbddmXW9) | [Meadowpoint](https://open.spotify.com/artist/6Gp872kCfOLVTHHGbqyl21) | [White Nights](https://open.spotify.com/album/6ppP6BcZKYQxaU9GKIqYst) | 2:25 | 2021-12-21 |  |
 | [Frosty The Snowman \- Remastered 2006](https://open.spotify.com/track/35MqcEIVZ7svbBpRt4N30g) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Bing Crosby \- Christmas Classics](https://open.spotify.com/album/3My4DXwRjAS5HXontsJx1A) | 2:13 | 2021-12-21 |  |
+| [Greensleeves](https://open.spotify.com/track/2H9zsdAjaue3tkg4d27jRm) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \[2012 Remastered & Expanded Edition\]](https://open.spotify.com/album/2XnNY3GEkbWHor5kyvXLu4) | 5:29 | 2022-09-16 |  |
 | [Greensleeves](https://open.spotify.com/track/6qEZ3wkUF7nY1DBbD7DHoN) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \[2012 Remastered & Expanded Edition\]](https://open.spotify.com/album/7DuJYWu66RPdcekF5TuZ7w) | 5:29 | 2021-12-21 | 2022-09-18 |
 | [Hark! The Herald Angels Sing](https://open.spotify.com/track/4zVgLxk3wgdRUZi73eKCty) | [Foster Davies](https://open.spotify.com/artist/78Pm7H24T9om74ZfNs4UF7) | [Hark! The Herald Angels Sing](https://open.spotify.com/album/3wP0qYEVSwTpxpFtuAyUko) | 2:42 | 2021-12-21 |  |
 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/5M6I00Mt7AQrqFcF4WWZDz) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Behold](https://open.spotify.com/album/1Yn7YD40ikGVNPDQklj4rX) | 4:27 | 2022-01-03 |  |
@@ -70,7 +71,8 @@
 | [Merry Christmas Baby](https://open.spotify.com/track/3tbH5WsNoiK1pC95Nd8kWw) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [Christmas Jazz Millennium Collection Vol\. 1 Eco](https://open.spotify.com/album/64tZFVp68PJouG0p03ZcJy) | 3:25 | 2021-12-21 | 2022-07-29 |
 | [O Little Town Of Bethlehem](https://open.spotify.com/track/07grjb29wSIEwP4xKtZUjH) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 2:19 | 2021-12-21 |  |
 | [O Tannenbaum](https://open.spotify.com/track/1AuqctepNkbMGhlysf9VqX) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \(Remastered & Expanded Edition\)](https://open.spotify.com/album/5IXrTfjX17PpdhgRJvQc7N) | 5:09 | 2021-12-21 | 2022-07-29 |
-| [O Tannenbaum](https://open.spotify.com/track/34rzJNfTd5e9s3TICFMPD0) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \[2012 Remastered & Expanded Edition\]](https://open.spotify.com/album/7DuJYWu66RPdcekF5TuZ7w) | 5:09 | 2022-01-03 |  |
+| [O Tannenbaum](https://open.spotify.com/track/34rzJNfTd5e9s3TICFMPD0) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \[2012 Remastered & Expanded Edition\]](https://open.spotify.com/album/7DuJYWu66RPdcekF5TuZ7w) | 5:09 | 2022-01-03 | 2022-09-19 |
+| [O Tannenbaum](https://open.spotify.com/track/4YhY2qHdBmSX33uj8ms0oq) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \[2012 Remastered & Expanded Edition\]](https://open.spotify.com/album/2XnNY3GEkbWHor5kyvXLu4) | 5:09 | 2022-09-16 |  |
 | [Ole Santa](https://open.spotify.com/track/2Zwx4HXBBz8DHrIrsPI8gZ) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [Christmas With Ella & Friends](https://open.spotify.com/album/0wEWuRUrwhSlDyqUZGgHqI) | 2:42 | 2021-12-21 | 2022-07-29 |
 | [Ole Santa](https://open.spotify.com/track/6MpmfCUaLKb4MsrbmTwRx0) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [The Complete Dinah Washington On Mercury Vol\. 6 \(1958\-1960\)](https://open.spotify.com/album/19tw1MckQmVNrGJYcCva7f) | 2:45 | 2022-01-03 |  |
 | [Once A Year Miracle](https://open.spotify.com/track/3HTRqeCKO4BSMflq1DiTWN) | [Laura Fygi](https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB) | [The Very Best Time Of Year](https://open.spotify.com/album/5OYaZZMzjUuPmj1OZgDwh1) | 2:57 | 2021-12-21 |  |

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 
 > Lo mejor del hip hop español\. Foto: Natos y Waor
 
-[Spotify](https://open.spotify.com/user/spotify) - 461,552 likes - 58 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 461,676 likes - 58 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Platos rotos](https://open.spotify.com/track/6XX87ga7zsm14jRTzspgnM) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [Recycled J](https://open.spotify.com/artist/4bWHA8fMNjzfGPQqnh5D6y) | [Luna llena](https://open.spotify.com/album/7wgNRpq6MqrRHGRKUaUZTu) | 3:42 |
-| 2 | [Ojo de Halcón](https://open.spotify.com/track/0VhfZo2uwcWnQGExuOxNKq) | [Hoke](https://open.spotify.com/artist/2x6kZekpNZMll7Uq3M6ar5), [Louis Amoeba](https://open.spotify.com/artist/4ELBthp7W6iTF2JcdoK5Rd) | [BBO](https://open.spotify.com/album/0ofRuEkUDbOtzmxqeZs8Pw) | 1:50 |
+| 2 | [Desamparados](https://open.spotify.com/track/51kzHiwV2gqYOakB0HGh8d) | [Hoke](https://open.spotify.com/artist/2x6kZekpNZMll7Uq3M6ar5), [Louis Amoeba](https://open.spotify.com/artist/4ELBthp7W6iTF2JcdoK5Rd), [Ergo Pro](https://open.spotify.com/artist/6RGXMZ5gUtYKHpG3RQ9fM4), [Ill Pekeño](https://open.spotify.com/artist/3T4KspU3H8Ya6sgxexg9F8) | [BBO](https://open.spotify.com/album/0ofRuEkUDbOtzmxqeZs8Pw) | 3:17 |
 | 3 | [Quiero volar](https://open.spotify.com/track/0TlVTrOwRNH8YGvBDHqPCo) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [Kutxi Romero](https://open.spotify.com/artist/3nFnQg8Kav6UMFFjQ1dspY) | [Luna llena](https://open.spotify.com/album/7wgNRpq6MqrRHGRKUaUZTu) | 3:36 |
 | 4 | [Veneno](https://open.spotify.com/track/5BopknbHSxEm9Ohcs4IbGu) | [Delaossa](https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ), [KIDDO](https://open.spotify.com/artist/3lLDZNIMUmxMzIE6Vz9Agz), [J.Moods](https://open.spotify.com/artist/7q3hzOFspDedtkyBi1Azc8) | [La Tour Liffee](https://open.spotify.com/album/7ppEt8YdvnAWeNTKNPR4ca) | 4:18 |
 | 5 | [Cicatrices](https://open.spotify.com/track/2zQvtkghOHiBG48Bj0oFR9) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw) | [Cicatrices](https://open.spotify.com/album/3DtogKlZPCChofGSlc7DUu) | 2:56 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 | 57 | [Bengala](https://open.spotify.com/track/49FHrJRo7LTlNI2KPwpMVd) | [Arce](https://open.spotify.com/artist/7eH1UUCyxL8Wf9PztvvPJ6), [Denom](https://open.spotify.com/artist/0fwnNjAay5ZHP5bAd63g8Y) | [Bengala](https://open.spotify.com/album/6nLTPZ7E0eZtUW472gZP4P) | 4:12 |
 | 58 | [El Barrio Me Llama](https://open.spotify.com/track/58zEumx76yMm9cboON0mlq) | [Ayax y Prok](https://open.spotify.com/artist/5Ypafuz95Xk09YDf4tgAvU), [T&K](https://open.spotify.com/artist/62zZb3lpCFBqLDjMccQgND) | [El Barrio Me Llama](https://open.spotify.com/album/5ZbZuMWDLSv5hlZXoJZ1lC) | 3:23 |
 
-Snapshot ID: `MTY2MzMyMzU0NSwwMDAwMDAwMDk5ZTM3MTI0ZDRkNjU5MDc2NGQ1OWRjZGEwOTEzMjEw`
+Snapshot ID: `MTY2MzUyMjQ1NSwwMDAwMDAwMGJlNDkzYzM4NmYwNjRkOGVmZGRmMjA0NWQ1NDdjMWQw`

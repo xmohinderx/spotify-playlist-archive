@@ -4,7 +4,7 @@
 
 > The best in Indie in one place\. Cover: Men I Trust
 
-579 songs - 1 day 11 hr 16 min - [published](https://open.spotify.com/playlist/6qnKxviUrnCHtUvVMRpVlO)
+580 songs - 1 day 11 hr 19 min - [published](https://open.spotify.com/playlist/6qnKxviUrnCHtUvVMRpVlO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,6 +207,7 @@
 | [Good Recipe](https://open.spotify.com/track/36GVnM3i4StYPjaGn2UupK) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [Good Recipe](https://open.spotify.com/album/2qJxomTOJ31stDwwmzqct1) | 2:31 | 2022-08-23 |  |
 | [Got The Love](https://open.spotify.com/track/3Yz87ZZz3UbjBTE9d7QHD1) | [Terrell Morris](https://open.spotify.com/artist/7C3agcqFXnteDagiWhaZdU) | [Lavender](https://open.spotify.com/album/0o1r2elNdzE964UNjJp6OG) | 3:24 | 2021-04-20 | 2022-04-12 |
 | [Grow Into Love](https://open.spotify.com/track/2NPfTvXSDHjt0e33ulBk5M) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Seasons of Change](https://open.spotify.com/album/6qSUzYOIB8TQglbqn3efU6) | 2:42 | 2021-03-27 | 2022-07-28 |
+| [Grow into Love](https://open.spotify.com/track/52AthVA2opex8NcLSwtO8n) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Seasons of Change](https://open.spotify.com/album/74fRgN21qhhAQv43mbCJFq) | 2:42 | 2022-09-02 |  |
 | [Grow into Love](https://open.spotify.com/track/6FloUWDjW3r51mRYyw0vv5) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Seasons of Change](https://open.spotify.com/album/2dyKBgz9mbVHUbeX2lbd8p) | 2:42 | 2022-08-23 | 2022-09-15 |
 | [Habit](https://open.spotify.com/track/1M321puDN1WBd5NF0ogOKW) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Habit](https://open.spotify.com/album/0gZEC6z4RSUiLOK9nHhGwG) | 2:33 | 2021-01-15 | 2022-07-26 |
 | [Habit](https://open.spotify.com/track/4BsLwvaJOTOHDNg7xMpvrL) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Habit](https://open.spotify.com/album/2vIIWsslRiFHiHPWFTsdaE) | 2:33 | 2022-05-03 | 2022-08-24 |
@@ -271,7 +272,7 @@
 | [intres\-ting](https://open.spotify.com/track/4Zsk0wRmvyY50mr1RmBIS8) | [Clairmont The Second](https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7) | [intres\-ting](https://open.spotify.com/album/5pi4G7MK5UPVYV4lc2DuS1) | 2:17 | 2021-10-09 |  |
 | [Intro](https://open.spotify.com/track/0bXpmJyHHYPk6QBFj25bYF) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/2nXJkqkS1tIKIyhBcFMmwz) | 2:07 | 2020-10-29\* | 2022-04-16 |
 | [Intro](https://open.spotify.com/track/5VfEuwErhx6X4eaPbyBfyu) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/6tzQKMilI02kn1lzLklDI8) | 2:07 | 2022-05-03 | 2022-08-24 |
-| [Iron](https://open.spotify.com/track/1PsWJxbry9jdH6DKqQ90CL) | [Tennyson](https://open.spotify.com/artist/3Nb8N20WChM0swo5qWTvm8) | [Rot](https://open.spotify.com/album/0RqOFwSMSF02awYaXYdtxo) | 3:36 | 2022-09-02 |  |
+| [Iron](https://open.spotify.com/track/1PsWJxbry9jdH6DKqQ90CL) | [Tennyson](https://open.spotify.com/artist/3Nb8N20WChM0swo5qWTvm8) | [Rot](https://open.spotify.com/album/0RqOFwSMSF02awYaXYdtxo) | 3:36 | 2022-09-02 | 2022-09-19 |
 | [I’ll Wait](https://open.spotify.com/track/6atcbYGflrRHnzjaLWWrob) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Rattlesnake](https://open.spotify.com/album/3Ppi5nMhBLosDSyXZ5oH6A) | 2:56 | 2021-01-15 | 2022-04-09 |
 | [January](https://open.spotify.com/track/4ufN2o3Rf6LN5Z0XaqJXIz) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [January](https://open.spotify.com/album/0e3TGReFAa5Hatq0CDT0Tk) | 3:16 | 2021-01-15 | 2022-06-04 |
 | [Japan](https://open.spotify.com/track/5LJnDBkPBppoyS2fu6OUYW) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry), [Saint Sinner](https://open.spotify.com/artist/0DoWlk1NzQp1VWVFtZOb8Y) | [Japan](https://open.spotify.com/album/4d67HTW9hBwtTiVzsVa2Vh) | 3:18 | 2020-10-29\* | 2022-04-22 |

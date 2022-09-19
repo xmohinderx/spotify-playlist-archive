@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TyiNWW7uUQ.md) - [plain]
 
 > Finest collection of Tamil Music from the past 5 years<br/>Cover : Vendhu Thanindhathu Kaadu
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,605 likes - 56 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,896 likes - 56 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TyiNWW7uUQ.md) - [plain]
 | 34 | [Naan Un](https://open.spotify.com/track/41R1Bncj65x9B6zL1z5BCp) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [24 \(Tamil\) \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2D82hEk2N3eXYWFgYITlpd) | 4:48 |
 | 35 | [Vikram \- Title Track](https://open.spotify.com/track/6FQQiTpYnfc5803p84bQp1) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0FIP7MeIO3yqL8K6uTz3b1) | 3:38 |
 | 36 | [Pathala Pathala \(From "Vikram"\)](https://open.spotify.com/track/5WWplXimzIjlJiN2N7T9Q3) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Kamal Haasan](https://open.spotify.com/artist/5asJ8jtjk36r5PW5upyJm6) | [Pathala Pathala \(From "Vikram"\)](https://open.spotify.com/album/4ngv1dF4dr1Hz37qanw0IO) | 3:31 |
-| 37 | [Rolex Theme \- Background Score](https://open.spotify.com/track/3Vb8KkT6Ub5fFGPYJCJyLh) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 0:53 |
-| 38 | [Lokiverse \- Background Score](https://open.spotify.com/track/209pScL6fUhISxcLWkB6rf) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 2:36 |
+| 37 | [Lokiverse \- Background Score](https://open.spotify.com/track/209pScL6fUhISxcLWkB6rf) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 2:36 |
+| 38 | [Rolex Theme \- Background Score](https://open.spotify.com/track/3Vb8KkT6Ub5fFGPYJCJyLh) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 0:53 |
 | 39 | [Bae \(From "Don"\)](https://open.spotify.com/track/5D507IC1VOAg7bKkmOblr6) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm) | [Bae \(From "Don"\)](https://open.spotify.com/album/2HsFQRxJln6Q9XEf6DbhZ4) | 4:02 |
 | 40 | [Jalabulajangu \(From "Don"\)](https://open.spotify.com/track/4HdzYTQiouB9BVYX7JOrhh) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Rokesh](https://open.spotify.com/artist/6R33h8YbB5fFg8RdJdQ6bL) | [Jalabulajangu \(From "Don"\)](https://open.spotify.com/album/3cXSg3K9z6fZAd1lWmqvrc) | 3:22 |
 | 41 | [Naan Pizhai \(From "Kaathuvaakula Rendu Kaadhal"\)](https://open.spotify.com/track/1UUgngRGzFWfgpyN0WAN1r) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Ravi G](https://open.spotify.com/artist/7F0SYkO9wyNY0aJFD2C1bD), [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW) | [Naan Pizhai \(From "Kaathuvaakula Rendu Kaadhal"\)](https://open.spotify.com/album/2R8F4wxJzpyQuN6fxUUwT1) | 4:03 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TyiNWW7uUQ.md) - [plain]
 | 55 | [Saarattu Vandiyila](https://open.spotify.com/track/42ON67EVCaJpihkP2U38n7) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [A\. R\. Reihana](https://open.spotify.com/artist/7svWIUSwHbHQUw2gK1PfNh), [Tippu](https://open.spotify.com/artist/0PykiHCcDsMPRV7s67qZ1B), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Kaatru Veliyidai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2tLekrnboehY2rLZhf5YVi) | 4:51 |
 | 56 | [Dharala Prabhu Title Track](https://open.spotify.com/track/7MtK3lPdVPq2WGO6EWHB9V) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Dharala Prabhu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4O5iuMBSmUXMZIrBgx3LOG) | 3:19 |
 
-Snapshot ID: `MTY2MzM0MTk3MiwwMDAwMDAwMDlmNDQ0ZGJiMzQzNmQ4MGY0ZDFmOGQ1NjI1OWNiYzc2`
+Snapshot ID: `MTY2MzM0MTk3MiwwMDAwMDAwMGQ4MGQyMmE3YzgxZGQ0NGY5YzZjZGJiYzc4NzAxMGM3`

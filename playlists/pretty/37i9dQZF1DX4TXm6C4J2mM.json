@@ -1,12 +1,12 @@
 {
   "description": "Den perfekta mixade spellistan f\u00f6r tr\u00e4ningspasset.",
-  "num_followers": 157176,
+  "num_followers": 157170,
   "original_name": "Tr\u00e4ning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg5NDI0NCwwMDAwMDAwMDkwMWY5YTBmNDVkMTRhZjFjMGIxOTkzOTAxMGMyZWY1",
+  "snapshot_id": "MTY1Nzg5NDI0NCwwMDAwMDAwMDdkMzFjMDI4Zjg3MmI3YTFlZGEyZjc5MWI5MGVmMmY2",
   "tracks": [
     {
       "added_at": "2022-07-15 14:10:44",
@@ -527,6 +527,26 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
+        "name": "Creep (mint Singles)",
+        "url": "https://open.spotify.com/album/31LEjqDdP0TyZgiuse84cf"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "GATT\u00dcSO",
+          "url": "https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic"
+        }
+      ],
+      "duration_ms": 161190,
+      "name": "Creep - mint Singles",
+      "url": "https://open.spotify.com/track/5LRxdeykOfvKb1aWGrrGyo"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
         "name": "Pepas",
         "url": "https://open.spotify.com/album/1QZFFOZrBvFHEZSNdkpDix"
       },
@@ -547,26 +567,6 @@
       "duration_ms": 134330,
       "name": "Pepas",
       "url": "https://open.spotify.com/track/6nCGuH4cs03pq76E2joqhE"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
-        "name": "Creep (mint Singles)",
-        "url": "https://open.spotify.com/album/31LEjqDdP0TyZgiuse84cf"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "GATT\u00dcSO",
-          "url": "https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic"
-        }
-      ],
-      "duration_ms": 161190,
-      "name": "Creep - mint Singles",
-      "url": "https://open.spotify.com/track/5LRxdeykOfvKb1aWGrrGyo"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -631,26 +631,6 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Unbreakable (feat. Clarence Coffee Jr.)",
-        "url": "https://open.spotify.com/album/2VM9EEq8Be4gMvD6Pw57OP"
-      },
-      "artists": [
-        {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
-        },
-        {
-          "name": "Clarence Coffee Jr.",
-          "url": "https://open.spotify.com/artist/6dp9lFNgVOFhtteg8tln7J"
-        }
-      ],
-      "duration_ms": 238627,
-      "name": "Unbreakable (feat. Clarence Coffee Jr.)",
-      "url": "https://open.spotify.com/track/0t7F6nflyhy7UR9yzTBAHl"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
         "name": "I Love It (feat. Charli XCX) [I Don\u2019t Care 2022 Re-Edit]",
         "url": "https://open.spotify.com/album/302yHlLozACyot1XwKb5Oq"
       },
@@ -667,6 +647,26 @@
       "duration_ms": 152672,
       "name": "I Love It (feat. Charli XCX) - I Don\u2019t Care 2022 Re-Edit",
       "url": "https://open.spotify.com/track/1HtZS4fv2nIZaCSfFVlcHc"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
+        "name": "Unbreakable (feat. Clarence Coffee Jr.)",
+        "url": "https://open.spotify.com/album/2VM9EEq8Be4gMvD6Pw57OP"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        },
+        {
+          "name": "Clarence Coffee Jr.",
+          "url": "https://open.spotify.com/artist/6dp9lFNgVOFhtteg8tln7J"
+        }
+      ],
+      "duration_ms": 238627,
+      "name": "Unbreakable (feat. Clarence Coffee Jr.)",
+      "url": "https://open.spotify.com/track/0t7F6nflyhy7UR9yzTBAHl"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -1107,30 +1107,6 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Family (Remixes)",
-        "url": "https://open.spotify.com/album/0KHCJzK0qQtlpz4B5oit6C"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Frank Walker",
-          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
-        }
-      ],
-      "duration_ms": 185813,
-      "name": "Family - Frank Walker Remix",
-      "url": "https://open.spotify.com/track/6YnkswUQX2GXOhywMsBDqp"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
         "name": "Take Me Home",
         "url": "https://open.spotify.com/album/1BYf5JhXGSUuhj5MX5dhVM"
       },
@@ -1151,6 +1127,30 @@
       "duration_ms": 174146,
       "name": "Take Me Home",
       "url": "https://open.spotify.com/track/4FQRmLtmbTjjGseIqbpBLR"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
+        "name": "Family (Remixes)",
+        "url": "https://open.spotify.com/album/0KHCJzK0qQtlpz4B5oit6C"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Frank Walker",
+          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
+        }
+      ],
+      "duration_ms": 185813,
+      "name": "Family - Frank Walker Remix",
+      "url": "https://open.spotify.com/track/6YnkswUQX2GXOhywMsBDqp"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "No One Dies From Love (220 KID Remix)",
-        "url": "https://open.spotify.com/album/1GtfedQBKMYZioLiv1LzuZ"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        },
-        {
-          "name": "220 KID",
-          "url": "https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs"
-        }
-      ],
-      "duration_ms": 186180,
-      "name": "No One Dies From Love (220 KID Remix)",
-      "url": "https://open.spotify.com/track/0FDYLzgHnQ0LUUm1n6kUft"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
         "name": "Oblivion",
         "url": "https://open.spotify.com/album/2ndjPY1ikcXxg9ZueXkq2e"
       },
@@ -1215,6 +1195,26 @@
       "duration_ms": 192296,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/4sjs502JILjXEv7Xtf1h5q"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
+        "name": "No One Dies From Love (220 KID Remix)",
+        "url": "https://open.spotify.com/album/1GtfedQBKMYZioLiv1LzuZ"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        },
+        {
+          "name": "220 KID",
+          "url": "https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs"
+        }
+      ],
+      "duration_ms": 186180,
+      "name": "No One Dies From Love (220 KID Remix)",
+      "url": "https://open.spotify.com/track/0FDYLzgHnQ0LUUm1n6kUft"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -1663,26 +1663,6 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Million Ways (Remixes)",
-        "url": "https://open.spotify.com/album/6RKJnTD9NaJBQN4Bb9t33s"
-      },
-      "artists": [
-        {
-          "name": "HRVY",
-          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
-        },
-        {
-          "name": "Steve Void",
-          "url": "https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt"
-        }
-      ],
-      "duration_ms": 142120,
-      "name": "Million Ways - Steve Void Remix",
-      "url": "https://open.spotify.com/track/7Jp1D99U01dG9Wwoa4el7j"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
         "name": "How Can I Forget Her",
         "url": "https://open.spotify.com/album/5aQRDDXZIkYpKkkBQPwwSQ"
       },
@@ -1703,6 +1683,26 @@
       "duration_ms": 168216,
       "name": "How Can I Forget Her",
       "url": "https://open.spotify.com/track/4IfArE62kl6LifwebDZkCe"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
+        "name": "Million Ways (Remixes)",
+        "url": "https://open.spotify.com/album/6RKJnTD9NaJBQN4Bb9t33s"
+      },
+      "artists": [
+        {
+          "name": "HRVY",
+          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
+        },
+        {
+          "name": "Steve Void",
+          "url": "https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt"
+        }
+      ],
+      "duration_ms": 142120,
+      "name": "Million Ways - Steve Void Remix",
+      "url": "https://open.spotify.com/track/7Jp1D99U01dG9Wwoa4el7j"
     },
     {
       "added_at": "2022-07-15 14:10:44",

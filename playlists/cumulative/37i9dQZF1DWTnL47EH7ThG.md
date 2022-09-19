@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6kf69CwzgodrETRgzcjX95">BAMBII</a>'s favorite tracks\. Updated regularly\. Curated by BAMBII\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-237 songs - 13 hr 59 min - not published yet
+237 songs - 13 hr 59 min - [published](https://open.spotify.com/playlist/6Gyhwl4zabmnYK0KJz2zgo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-09-17",
   "description": "This is Elliott Smith. The essential tracks, all in one playlist.",
   "name": "This Is Elliott Smith",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "70Ohsc6IHNs6h9xH85dU25"
+  ],
   "tracks": [
     {
       "album": {
@@ -291,7 +293,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 142893,
       "name": "Everything Means Nothing To Me",
       "url": "https://open.spotify.com/track/6YNfrgCOy1dCXZKKRUuZVq"
@@ -403,6 +405,24 @@
       "duration_ms": 184906,
       "name": "Independence Day",
       "url": "https://open.spotify.com/track/3pM7gfel0ho7yVJw4KK5Eq"
+    },
+    {
+      "album": {
+        "name": "Figure 8",
+        "url": "https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229706,
+      "name": "Junk Bond Trader",
+      "url": "https://open.spotify.com/track/5I82Gy3FcoPGP4rzYbXADt"
     },
     {
       "album": {

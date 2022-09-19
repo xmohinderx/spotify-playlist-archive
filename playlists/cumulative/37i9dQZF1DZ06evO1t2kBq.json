@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-09-17",
   "description": "This is Bad Religion. The essential tracks, all in one playlist.",
   "name": "This Is Bad Religion",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "5Eh1vidO7hsvmFQqGiaXiF"
+  ],
   "tracks": [
     {
       "album": {
@@ -168,6 +170,24 @@
     },
     {
       "album": {
+        "name": "No Control",
+        "url": "https://open.spotify.com/album/3efgo1fUo21py17Z7jGsle"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114720,
+      "name": "Billy",
+      "url": "https://open.spotify.com/track/2hEEQLmqYOdNTGaiu4wHbq"
+    },
+    {
+      "album": {
         "name": "Age Of Unreason",
         "url": "https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz"
       },
@@ -197,7 +217,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 55306,
       "name": "Change Of Ideas",
       "url": "https://open.spotify.com/track/5xesgknt9epKNcaMq6irot"
@@ -381,6 +401,24 @@
       "duration_ms": 97640,
       "name": "God Song",
       "url": "https://open.spotify.com/track/0EhzHcEryTCWHaL98TdzIA"
+    },
+    {
+      "album": {
+        "name": "Generator",
+        "url": "https://open.spotify.com/album/31CyVs73lB9MrLOTHBeEgr"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124586,
+      "name": "Heaven Is Falling",
+      "url": "https://open.spotify.com/track/7qXQ8yHfnTGMYSF1gAwpum"
     },
     {
       "album": {
@@ -737,7 +775,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 145866,
       "name": "The Approach",
       "url": "https://open.spotify.com/track/5Oyt7rwRrplyyNyRSRjVc8"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXct2NyIphYfn.md) - [plain]
 
 > Some of the most beautiful French love songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,201 likes - 75 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,227 likes - 75 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,15 +39,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXct2NyIphYfn.md) - [plain]
 | 29 | [Where's My Love \- French Version](https://open.spotify.com/track/11xs8VwgHHIQqz3dbyEcLS) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0), [Lily Kershaw](https://open.spotify.com/artist/0p0ksmwMDQlAM24TWKu4Ua) | [Where's My Love](https://open.spotify.com/album/6U6yE35iYGweoUiFFjuBdC) | 4:07 |
 | 30 | [Les jupes](https://open.spotify.com/track/7HCKrwom1hMdLi6JlkWziV) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Les Jupes](https://open.spotify.com/album/6kIdkHW2v8PYbTTfSi1cYi) | 3:00 |
 | 31 | [Je l'aime à mourir \- Live from Paris](https://open.spotify.com/track/0MOXq3Fg8y3HtFGT1qLH40) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Live From Paris](https://open.spotify.com/album/0qE6Dd97eQiywwpbrhb5fX) | 3:50 |
-| 32 | [Nombreux](https://open.spotify.com/track/59HKbTnmmFONvKLAPuc9rF) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Brol](https://open.spotify.com/album/6KSvWFf4g4PrIldtchJsTC) | 3:12 |
-| 33 | [L'amour à la plage \(with Alice on the roof\)](https://open.spotify.com/track/0n1GxWrgNWZKfmDdpuAJUf) | [Suarez](https://open.spotify.com/artist/6D40RuzdpIC5ip4yL2UUvD), [Alice on the roof](https://open.spotify.com/artist/4M07FSqpxgqLfCOaX1WUei) | [Ni rancoeur ni colère](https://open.spotify.com/album/3EINJyR2I0Qke3sb9hBUte) | 2:49 |
+| 32 | [L'amour à la plage \(with Alice on the roof\)](https://open.spotify.com/track/0n1GxWrgNWZKfmDdpuAJUf) | [Suarez](https://open.spotify.com/artist/6D40RuzdpIC5ip4yL2UUvD), [Alice on the roof](https://open.spotify.com/artist/4M07FSqpxgqLfCOaX1WUei) | [Ni rancoeur ni colère](https://open.spotify.com/album/3EINJyR2I0Qke3sb9hBUte) | 2:49 |
+| 33 | [Nombreux](https://open.spotify.com/track/59HKbTnmmFONvKLAPuc9rF) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Brol](https://open.spotify.com/album/6KSvWFf4g4PrIldtchJsTC) | 3:12 |
 | 34 | [La madrague](https://open.spotify.com/track/5nnvTjA5yzhHlmVOVoGT49) | [Brigitte Bardot](https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy) | [Brigitte Bardot](https://open.spotify.com/album/7v2usu1rojLb7zX5sC6yMV) | 2:35 |
 | 35 | [C'est écrit \- Remastered](https://open.spotify.com/track/1nlG27VjnsZqh5t4PqPcPB) | [Francis Cabrel](https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv) | [Sarbacane \(Remastered\)](https://open.spotify.com/album/7e7sLjpyMxBeF6UyHl57Ul) | 5:53 |
 | 36 | [Je vais t'aimer](https://open.spotify.com/track/5KwJJz1nqsu5Edy1f4HGWe) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [La famille Bélier](https://open.spotify.com/album/0jBt5J960S7MX8yqEwz8Fd) | 3:55 |
 | 37 | [Que je t'aime](https://open.spotify.com/track/2wqHH4mITmvGf0ogwCzS5r) | [Camille](https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX) | [Ilo Veyou](https://open.spotify.com/album/0tOFyyQeAYENYub9DDloWP) | 3:43 |
 | 38 | [On va s'aimer encore](https://open.spotify.com/track/6SQxzjbQ6rFkzFC0vbTZBL) | [Vincent Vallières](https://open.spotify.com/artist/2iG6QPoQAVjR93cWyMKqen) | [Le monde tourne fort](https://open.spotify.com/album/1nGMO1npqc1fweNbJ7hLbj) | 4:18 |
-| 39 | [Comme des enfants](https://open.spotify.com/track/5H3ChVfItCaDpj1vPbigyX) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Cœur de pirate](https://open.spotify.com/album/7yuOxsQ525jlzWdKl05DJp) | 2:49 |
-| 40 | [Le temps est bon](https://open.spotify.com/track/3XXd9jqR6IpMtxMmbMuoyn) | [Isabelle Pierre](https://open.spotify.com/artist/6defgaFYnHND3Zy5CZf8Ix) | [Le temps est bon](https://open.spotify.com/album/3DLFupu4f4MmTLy6TZv4sw) | 3:29 |
+| 39 | [Le temps est bon](https://open.spotify.com/track/3XXd9jqR6IpMtxMmbMuoyn) | [Isabelle Pierre](https://open.spotify.com/artist/6defgaFYnHND3Zy5CZf8Ix) | [Le temps est bon](https://open.spotify.com/album/3DLFupu4f4MmTLy6TZv4sw) | 3:29 |
+| 40 | [Comme des enfants](https://open.spotify.com/track/5H3ChVfItCaDpj1vPbigyX) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Cœur de pirate](https://open.spotify.com/album/7yuOxsQ525jlzWdKl05DJp) | 2:49 |
 | 41 | [Les yeux ouverts](https://open.spotify.com/track/6BJltRcIxqomZ5X77zfwCe) | [Enzo Enzo](https://open.spotify.com/artist/4nWMNl9Y8X0eRGNoYlsAwD) | [Enzo Enzo](https://open.spotify.com/album/288K0Z8iUFaAWOXtec5Nx3) | 3:28 |
 | 42 | [Histoire d'un amour](https://open.spotify.com/track/0GRKjWdbLYWnnts6LbUE43) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig) | [Les Annees Barclay](https://open.spotify.com/album/3bbpQ0vU7DZUADemJgig1n) | 3:05 |
 | 43 | [Aime\-moi encore](https://open.spotify.com/track/1Sft5kKO1SNO21kshqzIaz) | [Roxane Bruneau](https://open.spotify.com/artist/1joqsAPOg4vW2yn2BrEtzQ) | [Acrophobie](https://open.spotify.com/album/6zBf71wZueuPdcCUq7FjzE) | 2:49 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXct2NyIphYfn.md) - [plain]
 | 74 | [Jenny](https://open.spotify.com/track/66TPZLJOEAhnIYGGEbpB8G) | [Richard Desjardins](https://open.spotify.com/artist/2zZ8py1CLFzH10bc2unTpn) | [Kanasuta](https://open.spotify.com/album/44gXPii8rK7tAVoZqAQIPQ) | 3:37 |
 | 75 | [Debout](https://open.spotify.com/track/4WPqwHscUKuB8x1NqK5tT2) | [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l) | [22h22](https://open.spotify.com/album/2HdjJqBfxdOKa4LHZB21X8) | 3:14 |
 
-Snapshot ID: `MTY0MjgwMDAwMywwMDAwMDAwMDEzNTA2MDg1ZGZjNDUwOTg2M2RhYzdjMGNkZDVlZGMw`
+Snapshot ID: `MTY0MjgwMDAwMywwMDAwMDAwMDg3Y2VkYjRjZmMzOWUxM2UyMDM2Njk2OTVkMGEzNmY4`

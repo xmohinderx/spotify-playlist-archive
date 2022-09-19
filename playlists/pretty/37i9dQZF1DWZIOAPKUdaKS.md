@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIOAPKUdaKS.md) - [plain]
 
 > Piano music to hone your thought process.
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,226 likes - 355 songs - 15 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,284 likes - 355 songs - 15 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

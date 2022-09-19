@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-09-17",
   "description": "This is Alkaline Trio. The essential tracks, all in one playlist.",
   "name": "This Is Alkaline Trio",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "0M3l3QL7fIK8hUWMTReSqT"
+  ],
   "tracks": [
     {
       "album": {
@@ -132,6 +134,24 @@
     },
     {
       "album": {
+        "name": "From Here to Infirmary",
+        "url": "https://open.spotify.com/album/74FavWuKZGG8tp3jpMVzN4"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265266,
+      "name": "Crawl",
+      "url": "https://open.spotify.com/track/3VsFBlBhHKN9TpsvRjH8c7"
+    },
+    {
+      "album": {
         "name": "Goddamnit!",
         "url": "https://open.spotify.com/album/7MtJrKwP2h9eJMqnooR6iM"
       },
@@ -240,6 +260,24 @@
     },
     {
       "album": {
+        "name": "Is This Thing Cursed?",
+        "url": "https://open.spotify.com/album/1qmUB0PQQDdu00WMpro2YC"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211773,
+      "name": "Goodbye Fire Island",
+      "url": "https://open.spotify.com/track/11b8iIU8p1DnkrMaVipeSp"
+    },
+    {
+      "album": {
         "name": "Remains",
         "url": "https://open.spotify.com/album/6UrR2pGs8FzRMrQZxQvI2H"
       },
@@ -341,7 +379,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 138693,
       "name": "I'm Dying Tomorrow",
       "url": "https://open.spotify.com/track/3KPa8afyEGV9CsBGVRiZWF"
@@ -654,6 +692,24 @@
     },
     {
       "album": {
+        "name": "Crimson",
+        "url": "https://open.spotify.com/album/1nbbNU8TtGkPtYlLpmP1ZY"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278786,
+      "name": "Sadie",
+      "url": "https://open.spotify.com/track/5KwPQNnzA87NSBilvBBDr1"
+    },
+    {
+      "album": {
         "name": "My Shame Is True (Deluxe Edition)",
         "url": "https://open.spotify.com/album/47ooGYp4iWw3HqEYpMPMIV"
       },
@@ -755,7 +811,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 124560,
       "name": "The Poison",
       "url": "https://open.spotify.com/track/5QzERXHiIcYXbs3EolGdJF"
@@ -827,7 +883,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 235666,
       "name": "Trouble Breathing",
       "url": "https://open.spotify.com/track/0qx04qNqo0YmBoqdISK9Be"

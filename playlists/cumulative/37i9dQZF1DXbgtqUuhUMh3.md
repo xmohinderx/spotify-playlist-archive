@@ -4,7 +4,7 @@
 
 > Listen to Arab women, at full volume\. Cover: Noel Kharman
 
-301 songs - 17 hr 47 min - [published](https://open.spotify.com/playlist/6cCioutZKMerUfIqu6fEVt)
+302 songs - 17 hr 50 min - [published](https://open.spotify.com/playlist/6cCioutZKMerUfIqu6fEVt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [Galactique](https://open.spotify.com/track/53pSQJP7qVhz9HDbTcTX4J) | [MAYA VI](https://open.spotify.com/artist/56e98wB8v0F4YUayj1tF7d) | [Galactique](https://open.spotify.com/album/5zigO1sNqarEOiLICUJt5d) | 3:12 | 2021-12-23 | 2022-03-02 |
 | [Ghalta](https://open.spotify.com/track/6zIXv7ielLKUY5dNI1lqCl) | [Areej Al Sayed](https://open.spotify.com/artist/2CwLASpkyh9txI9Z6NvCsU) | [Ghalta](https://open.spotify.com/album/0RD988uyh03VVuMCJD1b22) | 3:12 | 2021-12-23 | 2022-02-27 |
 | [Goulou Amine](https://open.spotify.com/track/2DM4pswuIVG3qFuayz6R5a) | [Asmaa Bassite](https://open.spotify.com/artist/3M26ulb3cwk9qglRwt9SEa) | [Goulou Amine](https://open.spotify.com/album/5D2y2JGnRHybPkvll0ShbF) | 4:04 | 2021-12-23 | 2022-03-02 |
-| [Haja Ma Doum](https://open.spotify.com/track/5mLY8dRJv0jLTTJCJmDu1l) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D), [Xena Elshazlii](https://open.spotify.com/artist/4EqHdN0Y8lPbl6UVVrFBG2) | [Kingdom](https://open.spotify.com/album/3bAluFVvSuKNmPkmaR6xhd) | 3:32 | 2022-08-11 |  |
+| [Haja Ma Doum](https://open.spotify.com/track/5mLY8dRJv0jLTTJCJmDu1l) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D), [Xena Elshazlii](https://open.spotify.com/artist/4EqHdN0Y8lPbl6UVVrFBG2) | [Kingdom](https://open.spotify.com/album/3bAluFVvSuKNmPkmaR6xhd) | 3:32 | 2022-08-11 | 2022-09-19 |
 | [Hala Taraa](https://open.spotify.com/track/6GX6qOGlZEXmUYkGyoTkMb) | [Shaimaa El Maghraby](https://open.spotify.com/artist/2JVy6Z1pDdqDfTtZ03ePE9) | [Hala Taraa](https://open.spotify.com/album/7q1RxHFLDWNJ6hpUKbkie4) | 3:31 | 2021-12-23 | 2022-02-28 |
 | [Harzaneh](https://open.spotify.com/track/3w62kuwirrkLwiwKvNqvwk) | [Dana Salah](https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ) | [Harzaneh](https://open.spotify.com/album/41oUkibRsn7EQ84wIAfpYB) | 2:52 | 2021-12-23 | 2022-03-02 |
 | [Heliocentric](https://open.spotify.com/track/1tFslnzbhAJck0C28stKBR) | [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F) | [Dream 23](https://open.spotify.com/album/45zDr1B6qUmDcsH3clyp2O) | 2:56 | 2021-12-23 | 2022-02-28 |
@@ -269,6 +269,7 @@
 | [بوكر فيس](https://open.spotify.com/track/5VmrLKDtKuQ6LM2tskxYfv) | [Dareen](https://open.spotify.com/artist/2FcLH6GszL9gLAkmlZ0NDj) | [Poker Face](https://open.spotify.com/album/07cc1pFdNFmSk0WEZ2x6Qr) | 2:50 | 2021-12-23 | 2022-03-02 |
 | [بيبان الخوف](https://open.spotify.com/track/2Ay6Pf8HGgkHV0IRo8Jx14) | [Shahd El Shaarawy](https://open.spotify.com/artist/5AMkRmTIvyPJZl6qtP6wnP) | [بيبان الخوف](https://open.spotify.com/album/33xgZCgn2Ue5yoiCPFO8w8) | 3:28 | 2021-12-23 | 2022-03-02 |
 | [جاني](https://open.spotify.com/track/4xUVtPcWuoh0CdqPoHMPR2) | [Nagwan](https://open.spotify.com/artist/6PBrwzHpDQDtenQ0SZo6ou) | [جاني](https://open.spotify.com/album/0AJDPwr1hjcAyeYFcrpKzE) | 2:22 | 2021-12-30 | 2022-03-02 |
+| [جيزة](https://open.spotify.com/track/6N5sMKfRhgwRHWks8Vx5OX) | [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0) | [جيزة](https://open.spotify.com/album/5EDQTVSrm4FQPL7sdhG7BJ) | 2:58 | 2022-09-16 |  |
 | [دنيا تخادعني](https://open.spotify.com/track/1PrYPtUDlryg0ZyNwaVZJb) | [Nagwan](https://open.spotify.com/artist/6PBrwzHpDQDtenQ0SZo6ou) | [دنيا تخادعني](https://open.spotify.com/album/138WUtaBeFpjSgRUJUHKX5) | 3:03 | 2022-01-20 | 2022-03-02 |
 | [رنا صولا \- صدق و الله](https://open.spotify.com/track/1WGcD9EHs1Sc0Vln3XqvpA) | [WINGS MYUZK وينقز ميوزك](https://open.spotify.com/artist/33TIlK7i17sv2ml2WkmAOS) | [رنا صولا \- صدق و الله](https://open.spotify.com/album/4gZ0e6dK1TI4tTCoQd85V9) | 5:00 | 2021-12-23 | 2022-03-02 |
 | [روح براحتك](https://open.spotify.com/track/4MEeCc9QHr24rQ99dOd9AZ) | [شيمي](https://open.spotify.com/artist/6x8vq4QX1MQjqasHWpMWhw) | [روح براحتك](https://open.spotify.com/album/2hStDr8tYNyFkQiUT2F0fj) | 3:39 | 2022-06-02 |  |

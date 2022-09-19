@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-09-17",
   "description": "This is Anti-Flag. The essential tracks, all in one playlist.",
   "name": "This Is Anti-Flag",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "3ntLLbFu4xW2KbCpfe6IH1"
+  ],
   "tracks": [
     {
       "album": {
@@ -219,7 +221,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 164333,
       "name": "Christian Nationalist",
       "url": "https://open.spotify.com/track/3eLYXY21jpoIUfeUitUvuU"
@@ -558,6 +560,24 @@
     },
     {
       "album": {
+        "name": "The Terror State",
+        "url": "https://open.spotify.com/album/1GHpqoqOxKzUBpHeUcWShP"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226560,
+      "name": "Rank-n-File",
+      "url": "https://open.spotify.com/track/1lcSbWCkd56TB7NPedWPDs"
+    },
+    {
+      "album": {
         "name": "Complete Control Sessions",
         "url": "https://open.spotify.com/album/7sKPLjegUKYQewu3ytf0Si"
       },
@@ -851,7 +871,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 243866,
       "name": "Underground Network",
       "url": "https://open.spotify.com/track/3PcbU6v5Fw118EKLEvWNEu"
@@ -909,6 +929,24 @@
       "duration_ms": 159477,
       "name": "Whistleblower",
       "url": "https://open.spotify.com/track/38XwnC082qy2o9K437Wgbo"
+    },
+    {
+      "album": {
+        "name": "20/20 Vision",
+        "url": "https://open.spotify.com/album/6e4jOwPyT9Xp9fy9nzuXDS"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181133,
+      "name": "You Make Me Sick",
+      "url": "https://open.spotify.com/track/4ymvRa2W35pidqnOX7Ruiy"
     },
     {
       "album": {

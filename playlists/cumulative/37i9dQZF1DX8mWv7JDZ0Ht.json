@@ -2023,6 +2023,24 @@
     {
       "album": {
         "name": "Oi Sumido",
+        "url": "https://open.spotify.com/album/1etuvaB2Anel6HSOW2f47m"
+      },
+      "artists": [
+        {
+          "name": "Lucas Pretti",
+          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151000,
+      "name": "Oi Sumido",
+      "url": "https://open.spotify.com/track/1L0x0SGUaUMDJSPVSs2LhY"
+    },
+    {
+      "album": {
+        "name": "Oi Sumido",
         "url": "https://open.spotify.com/album/1syJN4C3ySg3i595zybozJ"
       },
       "artists": [
@@ -2033,7 +2051,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 151000,
       "name": "Oi Sumido",
       "url": "https://open.spotify.com/track/7a56p3neclUh34UPhndqAe"

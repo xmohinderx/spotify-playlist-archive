@@ -2,7 +2,7 @@
 
 ### [أجدد الأغاني](https://open.spotify.com/playlist/37i9dQZF1DWXJnW46G73SM)
 
-> اكتشف الأغاني المصرية الجديدة! الغلاف: محمد رمضان
+> اكتشف الأغاني المصرية الجديدة! الغلاف: دنيا سمير غانم
 
 211 songs - 12 hr 31 min - [published](https://open.spotify.com/playlist/7rd0UNTK9BBzffp6c0LMpx)
 

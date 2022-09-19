@@ -4,7 +4,7 @@
 
 > A collection of classics and recent tracks from the world of black and dark metal\. Cover: Dimmu Borgir
 
-304 songs - 1 day 2 hr 34 min - [published](https://open.spotify.com/playlist/64Dcl2uRhYdNKoQxcWR2Lx)
+305 songs - 1 day 2 hr 40 min - [published](https://open.spotify.com/playlist/64Dcl2uRhYdNKoQxcWR2Lx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Götterdämmerung](https://open.spotify.com/track/2af26RNEV5okdhwPSet5b5) | [Zeal & Ardor](https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y) | [Götterdämmerung](https://open.spotify.com/album/532N76CgIpRjwycLTePruz) | 3:03 | 2021-12-17 | 2022-07-29 |
 | [Götterdämmerung](https://open.spotify.com/track/6pXKSo89ne9mbPInCWk8dw) | [Zeal & Ardor](https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y) | [Zeal & Ardor](https://open.spotify.com/album/4lh0rl7eI2w9Rik8JECk9l) | 3:03 | 2022-06-10 |  |
 | [Hades](https://open.spotify.com/track/1acx35894eJWiwnjN7faXD) | [Bathory](https://open.spotify.com/artist/6rBvjnvdsRxFRSrq1StGOM) | [Bathory](https://open.spotify.com/album/7DMuOFuYQbzoVgw4Cawf6L) | 2:50 | 2022-07-13 |  |
+| [Hamartia](https://open.spotify.com/track/1pcwGdh6W1CX3i1oSgBSrA) | [Tribulation](https://open.spotify.com/artist/7xTo7ipdBZezIoyAkmcRge) | [Hamartia](https://open.spotify.com/album/35IemOnFQjg24kRfqGxsFS) | 6:03 | 2022-09-16 |  |
 | [Harvest Pyre](https://open.spotify.com/track/4oLr6JYoDzWT1KsQRKIIFl) | [Abbath](https://open.spotify.com/artist/1epGwdbjU7JSGVBHlqptpx) | [Outstrider](https://open.spotify.com/album/2hisOnLbwHGc0D6v14w1pQ) | 4:12 | 2022-07-13 |  |
 | [Hautavajo](https://open.spotify.com/track/67CJMg5WR3wuzfekNNWxj8) | [Vermilia](https://open.spotify.com/artist/7lNaiNaI2CNeEhFg7iSPRm) | [Hautavajo](https://open.spotify.com/album/5EREwAR0GtdmWrBc5Fgfad) | 5:32 | 2022-06-10 | 2022-07-23 |
 | [Havenless](https://open.spotify.com/track/5XsxbIQeESqlp2BwHyZ8x7) | [Enslaved](https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD) | [Below The Lights](https://open.spotify.com/album/3uei5LFX4boIwVER1zdLD8) | 5:35 | 2022-07-13 |  |
@@ -235,7 +236,7 @@
 | [Seance](https://open.spotify.com/track/71lFE7VKJwpeV7YhqgbATO) | [Black Royal](https://open.spotify.com/artist/33lkAv8r2X0dsr8AWzZ6MY) | [Seance](https://open.spotify.com/album/1aXSQVKyOk4gYUZPnC3eqN) | 4:46 | 2021-12-17 | 2022-03-11 |
 | [Seeds Of The Ancient Gods](https://open.spotify.com/track/1r9HG7xOQ2D51jYXuLWfwN) | [Old Man's Child](https://open.spotify.com/artist/4LT73i2bqTazQQkmODMaYf) | [Devil's Path / In The Shades Of Life](https://open.spotify.com/album/6kajasqy9oJmS8kacjAvJe) | 6:37 | 2022-07-13 | 2022-07-27 |
 | [Serimosa](https://open.spotify.com/track/7qrQXuknOcNnhSmFBPtaBn) | [Watain](https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX) | [Serimosa](https://open.spotify.com/album/0gKXkdw3L4AXUKaXCmB9DP) | 5:26 | 2022-03-10 | 2022-04-02 |
-| [Serpent Sermon](https://open.spotify.com/track/454BNvuRUj0spER36hLRDj) | [Marduk](https://open.spotify.com/artist/2lxB5NTcQXj7GGRR4xAVaH) | [Serpent Sermon](https://open.spotify.com/album/5mvX2lAGsrLplQhbO5QPFa) | 4:38 | 2022-07-13 |  |
+| [Serpent Sermon](https://open.spotify.com/track/454BNvuRUj0spER36hLRDj) | [Marduk](https://open.spotify.com/artist/2lxB5NTcQXj7GGRR4xAVaH) | [Serpent Sermon](https://open.spotify.com/album/5mvX2lAGsrLplQhbO5QPFa) | 4:38 | 2022-07-13 | 2022-09-19 |
 | [Serpents](https://open.spotify.com/track/0wox07C2h9VVLmYoGwaFgZ) | [Depressed Mode](https://open.spotify.com/artist/2vKi7KUTYLHqKVQQ3cpBo0) | [Decade of Silence](https://open.spotify.com/album/0zImQSij3CAhYMlkGiCW78) | 5:50 | 2022-05-06 | 2022-07-21 |
 | [Sharpened Narcotics](https://open.spotify.com/track/2YtghqdRA401FXUwCYutF3) | [Trench](https://open.spotify.com/artist/3OuV1bOFKQPdQdIuDX7lO0) | [Encased in Chrome](https://open.spotify.com/album/2dbMIDmPfffd0tO9hyjkNF) | 2:01 | 2022-03-18 | 2022-04-23 |
 | [Shrines in Cinder](https://open.spotify.com/track/5iitxeQ3eMPteFo9EmSpyb) | [Devil Master](https://open.spotify.com/artist/4AMKnzwsd1nq6EjUdVNi4i) | [Shrines in Cinder](https://open.spotify.com/album/6oreJErT6gkTrUR6WFhABi) | 3:49 | 2022-04-22 | 2022-07-29 |

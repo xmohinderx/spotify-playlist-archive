@@ -1,12 +1,12 @@
 {
   "description": "P fkn R. Esto llega al choliiiii. Cover: Young Miko",
-  "num_followers": 220590,
+  "num_followers": 220621,
   "original_name": "Rompiendo: Puerto Rico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDc2MDY4MiwwMDAwMDAwMDNmZDZiYzAyYjI0YWY2NTRjOTgzNDhlNjExNjRmZmJi",
+  "snapshot_id": "MTY2MDc2MDY4MiwwMDAwMDAwMDdlMWI4ZTRkMDljN2ZiMjE3N2U0YzAzNzg5NTI3MjRk",
   "tracks": [
     {
       "added_at": "2022-08-17 18:24:42",
@@ -859,6 +859,26 @@
     {
       "added_at": "2022-08-17 18:24:42",
       "album": {
+        "name": "En Mi Cuarto",
+        "url": "https://open.spotify.com/album/5Tb0I67ArZ6gI4tXJVIJ3h"
+      },
+      "artists": [
+        {
+          "name": "Jhay Cortez",
+          "url": "https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        }
+      ],
+      "duration_ms": 196586,
+      "name": "En Mi Cuarto",
+      "url": "https://open.spotify.com/track/6Ee34qCOE6FBzEPRAGwSrn"
+    },
+    {
+      "added_at": "2022-08-17 18:24:42",
+      "album": {
         "name": "Serotonina",
         "url": "https://open.spotify.com/album/1b3xNAoTRfbwXglWU2Uebs"
       },
@@ -883,26 +903,6 @@
       "duration_ms": 234255,
       "name": "Serotonina",
       "url": "https://open.spotify.com/track/5tENzpT5sqDRc0EXQf1k6o"
-    },
-    {
-      "added_at": "2022-08-17 18:24:42",
-      "album": {
-        "name": "En Mi Cuarto",
-        "url": "https://open.spotify.com/album/5Tb0I67ArZ6gI4tXJVIJ3h"
-      },
-      "artists": [
-        {
-          "name": "Jhay Cortez",
-          "url": "https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz"
-        },
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        }
-      ],
-      "duration_ms": 196586,
-      "name": "En Mi Cuarto",
-      "url": "https://open.spotify.com/track/6Ee34qCOE6FBzEPRAGwSrn"
     },
     {
       "added_at": "2022-08-17 18:24:42",

@@ -4,7 +4,7 @@
 
 > Episode yang harus selalu didengarkan di sekitaran radar kamu!
 
-0 song - 0 sec - not published yet
+0 song - 0 sec - [published](https://open.spotify.com/playlist/0VyvrHEP1i4ul8WUltG6Ds)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

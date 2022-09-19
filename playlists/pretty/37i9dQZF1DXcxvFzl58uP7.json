@@ -1,12 +1,12 @@
 {
   "description": "Dreamy jams from the best bedroom producers. Cover: SALES",
-  "num_followers": 1019763,
+  "num_followers": 1019983,
   "original_name": "Bedroom Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzE5NTk5NCwwMDAwMDAwMDNjMjI3MjM5NDMyN2UxZWE0YTJlY2JmMmE3NjNkZGU5",
+  "snapshot_id": "MTY2MzE5NTk5NCwwMDAwMDAwMDJkODI2NTFjOGNkYTFmMWM1MjczMzVhNWU1YzhhNTUw",
   "tracks": [
     {
       "added_at": "2022-09-14 21:31:42",
@@ -367,22 +367,6 @@
     {
       "added_at": "2022-09-14 21:31:42",
       "album": {
-        "name": "MEAN!",
-        "url": "https://open.spotify.com/album/1JX43p0bIGOMiHjdgoyAQD"
-      },
-      "artists": [
-        {
-          "name": "Madeline The Person",
-          "url": "https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY"
-        }
-      ],
-      "duration_ms": 143960,
-      "name": "MEAN!",
-      "url": "https://open.spotify.com/track/0KQRhak4Irr2CKxgQ9U6ay"
-    },
-    {
-      "added_at": "2022-09-14 21:31:42",
-      "album": {
         "name": "Someone To Spend Time With",
         "url": "https://open.spotify.com/album/0DyyOMpwfB5KS6OFNiUV1m"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 173953,
       "name": "Someone To Spend Time With",
       "url": "https://open.spotify.com/track/6SE4JAo7T8C7XkFka5bbga"
+    },
+    {
+      "added_at": "2022-09-14 21:31:42",
+      "album": {
+        "name": "MEAN!",
+        "url": "https://open.spotify.com/album/1JX43p0bIGOMiHjdgoyAQD"
+      },
+      "artists": [
+        {
+          "name": "Madeline The Person",
+          "url": "https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY"
+        }
+      ],
+      "duration_ms": 143960,
+      "name": "MEAN!",
+      "url": "https://open.spotify.com/track/0KQRhak4Irr2CKxgQ9U6ay"
     },
     {
       "added_at": "2022-09-14 21:31:42",
@@ -755,22 +755,6 @@
     {
       "added_at": "2022-09-14 21:31:42",
       "album": {
-        "name": "I Don't Know You",
-        "url": "https://open.spotify.com/album/5L8VJO457GXReKVVfRhzyM"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 209449,
-      "name": "I Don't Know You",
-      "url": "https://open.spotify.com/track/4cJOLN346rtOty3UPACsao"
-    },
-    {
-      "added_at": "2022-09-14 21:31:42",
-      "album": {
         "name": "Shawcross",
         "url": "https://open.spotify.com/album/3KpFXHl7zzp0Cjvww3AUFs"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 136032,
       "name": "Warned You",
       "url": "https://open.spotify.com/track/3GahMRXI3rL2JVeSLZBRnF"
+    },
+    {
+      "added_at": "2022-09-14 21:31:42",
+      "album": {
+        "name": "I Don't Know You",
+        "url": "https://open.spotify.com/album/5L8VJO457GXReKVVfRhzyM"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 209449,
+      "name": "I Don't Know You",
+      "url": "https://open.spotify.com/track/4cJOLN346rtOty3UPACsao"
     },
     {
       "added_at": "2022-09-14 21:31:42",
@@ -995,22 +995,6 @@
     {
       "added_at": "2022-09-14 21:31:42",
       "album": {
-        "name": "Prune, You Talk Funny",
-        "url": "https://open.spotify.com/album/7GRC1eaEDxAYaBXEV6TKoj"
-      },
-      "artists": [
-        {
-          "name": "Gus Dapperton",
-          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
-        }
-      ],
-      "duration_ms": 212701,
-      "name": "Prune, You Talk Funny",
-      "url": "https://open.spotify.com/track/6KKHXbJtnJPjla3V49YPac"
-    },
-    {
-      "added_at": "2022-09-14 21:31:42",
-      "album": {
         "name": "1994",
         "url": "https://open.spotify.com/album/2a20lEnbWdct9J2wI0J6lH"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 203521,
       "name": "1994",
       "url": "https://open.spotify.com/track/42kWSGSJu0tXXt3e2Guvsm"
+    },
+    {
+      "added_at": "2022-09-14 21:31:42",
+      "album": {
+        "name": "Prune, You Talk Funny",
+        "url": "https://open.spotify.com/album/7GRC1eaEDxAYaBXEV6TKoj"
+      },
+      "artists": [
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        }
+      ],
+      "duration_ms": 212701,
+      "name": "Prune, You Talk Funny",
+      "url": "https://open.spotify.com/track/6KKHXbJtnJPjla3V49YPac"
     },
     {
       "added_at": "2022-09-14 21:31:42",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2022-09-14 21:31:42",
       "album": {
-        "name": "Sinatra",
-        "url": "https://open.spotify.com/album/42SZ5XHrfhsZXlto73OZQ0"
-      },
-      "artists": [
-        {
-          "name": "Forrest Nolan",
-          "url": "https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv"
-        }
-      ],
-      "duration_ms": 156342,
-      "name": "Sinatra",
-      "url": "https://open.spotify.com/track/1USo158Kncaxfyq9q306dn"
-    },
-    {
-      "added_at": "2022-09-14 21:31:42",
-      "album": {
         "name": "Stereo",
         "url": "https://open.spotify.com/album/0sSIXkYfRqXomRPrK4wYYe"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 127272,
       "name": "Ugotme",
       "url": "https://open.spotify.com/track/2NCBjlH7FHEG7hXcnvUaWA"
+    },
+    {
+      "added_at": "2022-09-14 21:31:42",
+      "album": {
+        "name": "Sinatra",
+        "url": "https://open.spotify.com/album/42SZ5XHrfhsZXlto73OZQ0"
+      },
+      "artists": [
+        {
+          "name": "Forrest Nolan",
+          "url": "https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv"
+        }
+      ],
+      "duration_ms": 156342,
+      "name": "Sinatra",
+      "url": "https://open.spotify.com/track/1USo158Kncaxfyq9q306dn"
     },
     {
       "added_at": "2022-09-14 21:31:42",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2022-09-14 21:31:42",
       "album": {
-        "name": "The Outsider",
-        "url": "https://open.spotify.com/album/0ftVjdPzK7QBpUQiBuL798"
-      },
-      "artists": [
-        {
-          "name": "Lyn Lapid",
-          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
-        }
-      ],
-      "duration_ms": 180604,
-      "name": "The Outsider",
-      "url": "https://open.spotify.com/track/5W1UtLcQLQOFZDpDeNn8Gi"
-    },
-    {
-      "added_at": "2022-09-14 21:31:42",
-      "album": {
         "name": "A Collection of Fleeting Moments and Daydreams",
         "url": "https://open.spotify.com/album/1Ckbuzoh1dYKFnpNYmVEof"
       },
@@ -1171,18 +1155,18 @@
     {
       "added_at": "2022-09-14 21:31:42",
       "album": {
-        "name": "Waltzing Back",
-        "url": "https://open.spotify.com/album/5yHn5NJqFHuRscn44o9POq"
+        "name": "The Outsider",
+        "url": "https://open.spotify.com/album/0ftVjdPzK7QBpUQiBuL798"
       },
       "artists": [
         {
-          "name": "No Vacation",
-          "url": "https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq"
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Waltzing Back",
-      "url": "https://open.spotify.com/track/3Q1DprZauQyNo8KGlY8brZ"
+      "duration_ms": 180604,
+      "name": "The Outsider",
+      "url": "https://open.spotify.com/track/5W1UtLcQLQOFZDpDeNn8Gi"
     },
     {
       "added_at": "2022-09-14 21:31:42",
@@ -1199,6 +1183,22 @@
       "duration_ms": 102468,
       "name": "80's makeout session",
       "url": "https://open.spotify.com/track/6RObO033GGC7mReVoRQJPU"
+    },
+    {
+      "added_at": "2022-09-14 21:31:42",
+      "album": {
+        "name": "Waltzing Back",
+        "url": "https://open.spotify.com/album/5yHn5NJqFHuRscn44o9POq"
+      },
+      "artists": [
+        {
+          "name": "No Vacation",
+          "url": "https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Waltzing Back",
+      "url": "https://open.spotify.com/track/3Q1DprZauQyNo8KGlY8brZ"
     },
     {
       "added_at": "2022-09-14 21:31:42",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2022-09-14 21:31:42",
       "album": {
-        "name": "Car Crash in G Major",
-        "url": "https://open.spotify.com/album/1aPZj3S4ORUVOaaFmUgCU6"
-      },
-      "artists": [
-        {
-          "name": "fanclubwallet",
-          "url": "https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Car Crash in G Major",
-      "url": "https://open.spotify.com/track/24EtJ2vTx6CtaP32S6Arn2"
-    },
-    {
-      "added_at": "2022-09-14 21:31:42",
-      "album": {
         "name": "beachin",
         "url": "https://open.spotify.com/album/0ceD9hGoyjc5kplHQNP4Mn"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 194568,
       "name": "beachin",
       "url": "https://open.spotify.com/track/1LjMPAZCsTIdMuwlM9PcPF"
+    },
+    {
+      "added_at": "2022-09-14 21:31:42",
+      "album": {
+        "name": "Car Crash in G Major",
+        "url": "https://open.spotify.com/album/1aPZj3S4ORUVOaaFmUgCU6"
+      },
+      "artists": [
+        {
+          "name": "fanclubwallet",
+          "url": "https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Car Crash in G Major",
+      "url": "https://open.spotify.com/track/24EtJ2vTx6CtaP32S6Arn2"
     },
     {
       "added_at": "2022-09-14 21:31:42",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2022-09-14 21:31:42",
       "album": {
-        "name": "All Your Love",
-        "url": "https://open.spotify.com/album/1Z35j1egN42Xvtul5WRlu6"
-      },
-      "artists": [
-        {
-          "name": "Jakob",
-          "url": "https://open.spotify.com/artist/4ub2v80S4RIceZRGnlhjTr"
-        }
-      ],
-      "duration_ms": 175241,
-      "name": "All Your Love",
-      "url": "https://open.spotify.com/track/7G7zCzvyqz39BFE7TqPM3O"
-    },
-    {
-      "added_at": "2022-09-14 21:31:42",
-      "album": {
         "name": "Moonlight/Rare",
         "url": "https://open.spotify.com/album/2Syg1EbtwFmYEkTN02Avbv"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 184000,
       "name": "Rare",
       "url": "https://open.spotify.com/track/3FwSGFXzoODJ3igRA06DhV"
+    },
+    {
+      "added_at": "2022-09-14 21:31:42",
+      "album": {
+        "name": "All Your Love",
+        "url": "https://open.spotify.com/album/1Z35j1egN42Xvtul5WRlu6"
+      },
+      "artists": [
+        {
+          "name": "Jakob",
+          "url": "https://open.spotify.com/artist/4ub2v80S4RIceZRGnlhjTr"
+        }
+      ],
+      "duration_ms": 175241,
+      "name": "All Your Love",
+      "url": "https://open.spotify.com/track/7G7zCzvyqz39BFE7TqPM3O"
     },
     {
       "added_at": "2022-09-14 21:31:42",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2022-09-14 21:31:42",
       "album": {
-        "name": "Mystery",
-        "url": "https://open.spotify.com/album/4jtC95aZMIud87vZDa1SA5"
-      },
-      "artists": [
-        {
-          "name": "Ralph Castelli",
-          "url": "https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Mystery",
-      "url": "https://open.spotify.com/track/3ZW48z429TwTJlEN9vxs8u"
-    },
-    {
-      "added_at": "2022-09-14 21:31:42",
-      "album": {
         "name": "The Shark in Your Water",
         "url": "https://open.spotify.com/album/75nZGvjStgCUavXcsYsXf7"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 93871,
       "name": "Cotton Candy",
       "url": "https://open.spotify.com/track/4FF0tP9mkoiFKLiXFeXm0q"
+    },
+    {
+      "added_at": "2022-09-14 21:31:42",
+      "album": {
+        "name": "Mystery",
+        "url": "https://open.spotify.com/album/4jtC95aZMIud87vZDa1SA5"
+      },
+      "artists": [
+        {
+          "name": "Ralph Castelli",
+          "url": "https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Mystery",
+      "url": "https://open.spotify.com/track/3ZW48z429TwTJlEN9vxs8u"
     },
     {
       "added_at": "2022-09-14 21:31:42",
@@ -1595,54 +1595,6 @@
     {
       "added_at": "2022-09-14 21:31:42",
       "album": {
-        "name": "I Just Wanna",
-        "url": "https://open.spotify.com/album/1oOZfgFNqap0vvG25bOeAE"
-      },
-      "artists": [
-        {
-          "name": "KALI",
-          "url": "https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM"
-        }
-      ],
-      "duration_ms": 254399,
-      "name": "I Just Wanna",
-      "url": "https://open.spotify.com/track/00qVenrhW7Lr9AwHgc7rOe"
-    },
-    {
-      "added_at": "2022-09-14 21:31:42",
-      "album": {
-        "name": "Cut Out",
-        "url": "https://open.spotify.com/album/0qvED1ToqYbtBFaaKJylPB"
-      },
-      "artists": [
-        {
-          "name": "Ralph Castelli",
-          "url": "https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd"
-        }
-      ],
-      "duration_ms": 155984,
-      "name": "Bends",
-      "url": "https://open.spotify.com/track/7neXef29cogkuASB5rTafo"
-    },
-    {
-      "added_at": "2022-09-14 21:31:42",
-      "album": {
-        "name": "SUMMER GIRL",
-        "url": "https://open.spotify.com/album/6qGinm5pwGdYnvcR4e2SUC"
-      },
-      "artists": [
-        {
-          "name": "Ian Hugel",
-          "url": "https://open.spotify.com/artist/24uWm1jxjtBwiVnEGT0pjC"
-        }
-      ],
-      "duration_ms": 168384,
-      "name": "SUMMER GIRL",
-      "url": "https://open.spotify.com/track/7Ivlg6WEcmRLCqO32ZhfGd"
-    },
-    {
-      "added_at": "2022-09-14 21:31:42",
-      "album": {
         "name": "Emotionless",
         "url": "https://open.spotify.com/album/1kYZYrM6n5Io70OGadcoxl"
       },
@@ -1655,54 +1607,6 @@
       "duration_ms": 148401,
       "name": "Emotionless",
       "url": "https://open.spotify.com/track/4WhpjIKKkQlFmbsYQIuJxO"
-    },
-    {
-      "added_at": "2022-09-14 21:31:42",
-      "album": {
-        "name": "Get Down",
-        "url": "https://open.spotify.com/album/3LV5x9NJGzRMm7xraPqKlL"
-      },
-      "artists": [
-        {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
-        }
-      ],
-      "duration_ms": 171653,
-      "name": "Get Down",
-      "url": "https://open.spotify.com/track/4kcuzPfVaPlElWRv9jNGHi"
-    },
-    {
-      "added_at": "2022-09-14 21:31:42",
-      "album": {
-        "name": "Forevermore",
-        "url": "https://open.spotify.com/album/6UppGVPzMsv9LJI2x4e0Qn"
-      },
-      "artists": [
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        }
-      ],
-      "duration_ms": 174622,
-      "name": "Forevermore",
-      "url": "https://open.spotify.com/track/4r4uSdJJKV8RIcNKH7pX54"
-    },
-    {
-      "added_at": "2022-09-14 21:31:42",
-      "album": {
-        "name": "Clueless",
-        "url": "https://open.spotify.com/album/6kQBBlENraS03XVnFJ5mlU"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 227234,
-      "name": "Clueless",
-      "url": "https://open.spotify.com/track/7mrEpwmQJ7qK1ik7ZjjcdD"
     },
     {
       "added_at": "2022-09-14 21:31:42",
@@ -1723,6 +1627,38 @@
     {
       "added_at": "2022-09-14 21:31:42",
       "album": {
+        "name": "I Just Wanna",
+        "url": "https://open.spotify.com/album/1oOZfgFNqap0vvG25bOeAE"
+      },
+      "artists": [
+        {
+          "name": "KALI",
+          "url": "https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM"
+        }
+      ],
+      "duration_ms": 254399,
+      "name": "I Just Wanna",
+      "url": "https://open.spotify.com/track/00qVenrhW7Lr9AwHgc7rOe"
+    },
+    {
+      "added_at": "2022-09-14 21:31:42",
+      "album": {
+        "name": "SUMMER GIRL",
+        "url": "https://open.spotify.com/album/6qGinm5pwGdYnvcR4e2SUC"
+      },
+      "artists": [
+        {
+          "name": "Ian Hugel",
+          "url": "https://open.spotify.com/artist/24uWm1jxjtBwiVnEGT0pjC"
+        }
+      ],
+      "duration_ms": 168384,
+      "name": "SUMMER GIRL",
+      "url": "https://open.spotify.com/track/7Ivlg6WEcmRLCqO32ZhfGd"
+    },
+    {
+      "added_at": "2022-09-14 21:31:42",
+      "album": {
         "name": "Satellite",
         "url": "https://open.spotify.com/album/69IZlBwPWmrbqrWfQiQ5DU"
       },
@@ -1735,6 +1671,70 @@
       "duration_ms": 191505,
       "name": "Satellite",
       "url": "https://open.spotify.com/track/0kjRlBI8YIxDQKrP7PrZr4"
+    },
+    {
+      "added_at": "2022-09-14 21:31:42",
+      "album": {
+        "name": "Cut Out",
+        "url": "https://open.spotify.com/album/0qvED1ToqYbtBFaaKJylPB"
+      },
+      "artists": [
+        {
+          "name": "Ralph Castelli",
+          "url": "https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd"
+        }
+      ],
+      "duration_ms": 155984,
+      "name": "Bends",
+      "url": "https://open.spotify.com/track/7neXef29cogkuASB5rTafo"
+    },
+    {
+      "added_at": "2022-09-14 21:31:42",
+      "album": {
+        "name": "Forevermore",
+        "url": "https://open.spotify.com/album/6UppGVPzMsv9LJI2x4e0Qn"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "duration_ms": 174622,
+      "name": "Forevermore",
+      "url": "https://open.spotify.com/track/4r4uSdJJKV8RIcNKH7pX54"
+    },
+    {
+      "added_at": "2022-09-14 21:31:42",
+      "album": {
+        "name": "Get Down",
+        "url": "https://open.spotify.com/album/3LV5x9NJGzRMm7xraPqKlL"
+      },
+      "artists": [
+        {
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+        }
+      ],
+      "duration_ms": 171653,
+      "name": "Get Down",
+      "url": "https://open.spotify.com/track/4kcuzPfVaPlElWRv9jNGHi"
+    },
+    {
+      "added_at": "2022-09-14 21:31:42",
+      "album": {
+        "name": "Clueless",
+        "url": "https://open.spotify.com/album/6kQBBlENraS03XVnFJ5mlU"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 227234,
+      "name": "Clueless",
+      "url": "https://open.spotify.com/track/7mrEpwmQJ7qK1ik7ZjjcdD"
     },
     {
       "added_at": "2022-09-14 21:31:42",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2022-09-14 21:31:42",
       "album": {
-        "name": "friends or not",
-        "url": "https://open.spotify.com/album/6VRAu1SzoQyotA5FcuIiUT"
-      },
-      "artists": [
-        {
-          "name": "Zeph",
-          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
-        }
-      ],
-      "duration_ms": 192826,
-      "name": "friends or not",
-      "url": "https://open.spotify.com/track/36MS43HvrxStwaE7lUtycs"
-    },
-    {
-      "added_at": "2022-09-14 21:31:42",
-      "album": {
         "name": "Manic Pixie Dream Girl",
         "url": "https://open.spotify.com/album/0k1Vpxn2v8PdDX0cu0jvMi"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 160870,
       "name": "Manic Pixie Dream Girl",
       "url": "https://open.spotify.com/track/6z9zXftDgpnyZYL2KiRTHZ"
+    },
+    {
+      "added_at": "2022-09-14 21:31:42",
+      "album": {
+        "name": "friends or not",
+        "url": "https://open.spotify.com/album/6VRAu1SzoQyotA5FcuIiUT"
+      },
+      "artists": [
+        {
+          "name": "Zeph",
+          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
+        }
+      ],
+      "duration_ms": 192826,
+      "name": "friends or not",
+      "url": "https://open.spotify.com/track/36MS43HvrxStwaE7lUtycs"
     },
     {
       "added_at": "2022-09-14 21:31:42",

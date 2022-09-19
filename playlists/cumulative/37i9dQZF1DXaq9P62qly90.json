@@ -1127,7 +1127,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 235826,
       "name": "Speak out",
       "url": "https://open.spotify.com/track/4WE6L50VXeRbYOqybh2Wi9"
@@ -1511,6 +1511,24 @@
       "duration_ms": 233978,
       "name": "Warm Under the Light",
       "url": "https://open.spotify.com/track/5p4ydBPTPRhhQ6mWTWswXJ"
+    },
+    {
+      "album": {
+        "name": "Low Tide",
+        "url": "https://open.spotify.com/album/3K7A6Y2B2pRIuIG779YQ5f"
+      },
+      "artists": [
+        {
+          "name": "Justin Nozuka",
+          "url": "https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t"
+        }
+      ],
+      "date_added": "2020-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "Warm Under the Light",
+      "url": "https://open.spotify.com/track/0BKLqsA3UH88WgyGGhJy6W"
     },
     {
       "album": {

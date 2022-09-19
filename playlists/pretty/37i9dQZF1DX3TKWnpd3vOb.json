@@ -1,12 +1,12 @@
 {
   "description": "Encuentra un mix de cl\u00e1sicos y nuevos talentos. Foto: Plumas + Pedropiedra",
-  "num_followers": 199331,
+  "num_followers": 199348,
   "original_name": "Rock Chileno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjQwNTA3NCwwMDAwMDAwMDAzZGQ3ZTZmZDcyZjgzM2YzNjYzYTFiN2EzZWI2ZjY2",
+  "snapshot_id": "MTY2MjQwNTA3NCwwMDAwMDAwMDYwYzgyZTg3NzI3MWE3ZTIwZGFlZDQ2NGE2ZDdiZjM3",
   "tracks": [
     {
       "added_at": "2022-09-05 19:11:14",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-09-05 19:11:14",
       "album": {
-        "name": "With M\u00fasica Is Mejor",
-        "url": "https://open.spotify.com/album/3ieLtvTOc3wl6Q0wgNswzH"
-      },
-      "artists": [
-        {
-          "name": "Tronic",
-          "url": "https://open.spotify.com/artist/5HkHDnrE6HW1FsD5gf8nrw"
-        }
-      ],
-      "duration_ms": 215002,
-      "name": "Maldito Traidor",
-      "url": "https://open.spotify.com/track/1LAgSJyjXxSXQrUjpu4aDS"
-    },
-    {
-      "added_at": "2022-09-05 19:11:14",
-      "album": {
         "name": "Los Tres Unplugged 20 A\u00f1os",
         "url": "https://open.spotify.com/album/5qwIg1kBzo0HabN4VwaX0P"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 285430,
       "name": "Amor Violento",
       "url": "https://open.spotify.com/track/2QBLfZKOgGhjjhtsAtStHI"
+    },
+    {
+      "added_at": "2022-09-05 19:11:14",
+      "album": {
+        "name": "With M\u00fasica Is Mejor",
+        "url": "https://open.spotify.com/album/3ieLtvTOc3wl6Q0wgNswzH"
+      },
+      "artists": [
+        {
+          "name": "Tronic",
+          "url": "https://open.spotify.com/artist/5HkHDnrE6HW1FsD5gf8nrw"
+        }
+      ],
+      "duration_ms": 215002,
+      "name": "Maldito Traidor",
+      "url": "https://open.spotify.com/track/1LAgSJyjXxSXQrUjpu4aDS"
     },
     {
       "added_at": "2022-09-05 19:11:14",
@@ -927,6 +927,22 @@
     {
       "added_at": "2022-09-05 19:11:14",
       "album": {
+        "name": "Rocanrol de los Misterios",
+        "url": "https://open.spotify.com/album/4oQsoi5cEKYBVikVUjREua"
+      },
+      "artists": [
+        {
+          "name": "Congreso",
+          "url": "https://open.spotify.com/artist/0S7gyQcve5aVdbPiUjym4H"
+        }
+      ],
+      "duration_ms": 259329,
+      "name": "Rocanrol de los Misterios",
+      "url": "https://open.spotify.com/track/3xUxTxWrERgq8p6XpUfRaO"
+    },
+    {
+      "added_at": "2022-09-05 19:11:14",
+      "album": {
         "name": "Resiste M\u00e1s Que Yo",
         "url": "https://open.spotify.com/album/1lJTxv8uuQ7JduMfysDUJv"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 264249,
       "name": "Dual",
       "url": "https://open.spotify.com/track/1i12FygtGjwPG3UBf6Nb8l"
-    },
-    {
-      "added_at": "2022-09-05 19:11:14",
-      "album": {
-        "name": "Rocanrol de los Misterios",
-        "url": "https://open.spotify.com/album/4oQsoi5cEKYBVikVUjREua"
-      },
-      "artists": [
-        {
-          "name": "Congreso",
-          "url": "https://open.spotify.com/artist/0S7gyQcve5aVdbPiUjym4H"
-        }
-      ],
-      "duration_ms": 259329,
-      "name": "Rocanrol de los Misterios",
-      "url": "https://open.spotify.com/track/3xUxTxWrERgq8p6XpUfRaO"
     },
     {
       "added_at": "2022-09-05 19:11:14",
@@ -1027,6 +1027,26 @@
     {
       "added_at": "2022-09-05 19:11:14",
       "album": {
+        "name": "Tanto creo en ti",
+        "url": "https://open.spotify.com/album/5nvL8Kst2zSHSTfO9S3oZd"
+      },
+      "artists": [
+        {
+          "name": "DePedro",
+          "url": "https://open.spotify.com/artist/3wpNKcE7grYUIRKCMpmBOb"
+        },
+        {
+          "name": "Manuel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
+        }
+      ],
+      "duration_ms": 196796,
+      "name": "Tanto creo en ti",
+      "url": "https://open.spotify.com/track/0r5YhIxh1hmRJ7rSHxg7Vd"
+    },
+    {
+      "added_at": "2022-09-05 19:11:14",
+      "album": {
         "name": "Rockola",
         "url": "https://open.spotify.com/album/6WuqaRblv8XoOmZlQSFxux"
       },
@@ -1055,26 +1075,6 @@
       "duration_ms": 233499,
       "name": "Sombras",
       "url": "https://open.spotify.com/track/7yty7k7SUnbm61GvnXPho3"
-    },
-    {
-      "added_at": "2022-09-05 19:11:14",
-      "album": {
-        "name": "Tanto creo en ti",
-        "url": "https://open.spotify.com/album/5nvL8Kst2zSHSTfO9S3oZd"
-      },
-      "artists": [
-        {
-          "name": "DePedro",
-          "url": "https://open.spotify.com/artist/3wpNKcE7grYUIRKCMpmBOb"
-        },
-        {
-          "name": "Manuel Garc\u00eda",
-          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
-        }
-      ],
-      "duration_ms": 196796,
-      "name": "Tanto creo en ti",
-      "url": "https://open.spotify.com/track/0r5YhIxh1hmRJ7rSHxg7Vd"
     },
     {
       "added_at": "2022-09-05 19:11:14",
@@ -1175,6 +1175,42 @@
     {
       "added_at": "2022-09-05 19:11:14",
       "album": {
+        "name": "Fuego y Mar",
+        "url": "https://open.spotify.com/album/0QltDd9iKuydLMzH5vGMVJ"
+      },
+      "artists": [
+        {
+          "name": "Jawar",
+          "url": "https://open.spotify.com/artist/6Y2c7oVQPj8XJbsv3vHndS"
+        },
+        {
+          "name": "Todos Me Caen Bien",
+          "url": "https://open.spotify.com/artist/39V0OLIFDw1VdBaasv2nIb"
+        }
+      ],
+      "duration_ms": 224096,
+      "name": "Fuego y Mar",
+      "url": "https://open.spotify.com/track/63Cj7eloC0gtgyUQNP1Xhe"
+    },
+    {
+      "added_at": "2022-09-05 19:11:14",
+      "album": {
+        "name": "\u00c9xitos Chilenos",
+        "url": "https://open.spotify.com/album/09UbdY5tHTS6dhVu786BUw"
+      },
+      "artists": [
+        {
+          "name": "Joe Vasconcellos",
+          "url": "https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce"
+        }
+      ],
+      "duration_ms": 187759,
+      "name": "M\u00e1gico",
+      "url": "https://open.spotify.com/track/37uLyC9qkxus8WmyZQBRRx"
+    },
+    {
+      "added_at": "2022-09-05 19:11:14",
+      "album": {
         "name": "Por 30 M\u00e1s",
         "url": "https://open.spotify.com/album/3oiaJo9mvrGq1oIbwCfXwh"
       },
@@ -1207,38 +1243,6 @@
     {
       "added_at": "2022-09-05 19:11:14",
       "album": {
-        "name": "Rock N' Blues",
-        "url": "https://open.spotify.com/album/2z5OFr6SCRYjv4mZsbdPHq"
-      },
-      "artists": [
-        {
-          "name": "Los Crushers",
-          "url": "https://open.spotify.com/artist/65xNr7wwwRFXt9oq6DsN8q"
-        }
-      ],
-      "duration_ms": 184203,
-      "name": "Rock N' Blues",
-      "url": "https://open.spotify.com/track/6GNdKCFVqKb7cx9lvW9oXe"
-    },
-    {
-      "added_at": "2022-09-05 19:11:14",
-      "album": {
-        "name": "El Efecto, Vol. II",
-        "url": "https://open.spotify.com/album/0smAA02meynY4fG1ad1uge"
-      },
-      "artists": [
-        {
-          "name": "Libra CL",
-          "url": "https://open.spotify.com/artist/2YMeDKKo2lRhDfs1AAphax"
-        }
-      ],
-      "duration_ms": 310866,
-      "name": "Ojos del Amanecer",
-      "url": "https://open.spotify.com/track/2V5sjtsZVURXteegtebjHw"
-    },
-    {
-      "added_at": "2022-09-05 19:11:14",
-      "album": {
         "name": "Plumas",
         "url": "https://open.spotify.com/album/1KxjF6uxm8ZeYbugagqqgG"
       },
@@ -1255,18 +1259,18 @@
     {
       "added_at": "2022-09-05 19:11:14",
       "album": {
-        "name": "Volveremos",
-        "url": "https://open.spotify.com/album/2nZ0IhiSRSBTKypqTbm6d7"
+        "name": "Rock N' Blues",
+        "url": "https://open.spotify.com/album/2z5OFr6SCRYjv4mZsbdPHq"
       },
       "artists": [
         {
-          "name": "Los Miserables",
-          "url": "https://open.spotify.com/artist/7EP6QHjz7FSJZBVjDuAmas"
+          "name": "Los Crushers",
+          "url": "https://open.spotify.com/artist/65xNr7wwwRFXt9oq6DsN8q"
         }
       ],
-      "duration_ms": 154453,
-      "name": "Volveremos",
-      "url": "https://open.spotify.com/track/2NtVz2PnXor6n99JUa3lni"
+      "duration_ms": 184203,
+      "name": "Rock N' Blues",
+      "url": "https://open.spotify.com/track/6GNdKCFVqKb7cx9lvW9oXe"
     },
     {
       "added_at": "2022-09-05 19:11:14",
@@ -1287,18 +1291,106 @@
     {
       "added_at": "2022-09-05 19:11:14",
       "album": {
-        "name": "\u00c9xitos Chilenos",
-        "url": "https://open.spotify.com/album/09UbdY5tHTS6dhVu786BUw"
+        "name": "El Efecto, Vol. II",
+        "url": "https://open.spotify.com/album/0smAA02meynY4fG1ad1uge"
       },
       "artists": [
         {
-          "name": "Joe Vasconcellos",
-          "url": "https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce"
+          "name": "Libra CL",
+          "url": "https://open.spotify.com/artist/2YMeDKKo2lRhDfs1AAphax"
         }
       ],
-      "duration_ms": 187759,
-      "name": "M\u00e1gico",
-      "url": "https://open.spotify.com/track/37uLyC9qkxus8WmyZQBRRx"
+      "duration_ms": 310866,
+      "name": "Ojos del Amanecer",
+      "url": "https://open.spotify.com/track/2V5sjtsZVURXteegtebjHw"
+    },
+    {
+      "added_at": "2022-09-05 19:11:14",
+      "album": {
+        "name": "Volveremos",
+        "url": "https://open.spotify.com/album/2nZ0IhiSRSBTKypqTbm6d7"
+      },
+      "artists": [
+        {
+          "name": "Los Miserables",
+          "url": "https://open.spotify.com/artist/7EP6QHjz7FSJZBVjDuAmas"
+        }
+      ],
+      "duration_ms": 154453,
+      "name": "Volveremos",
+      "url": "https://open.spotify.com/track/2NtVz2PnXor6n99JUa3lni"
+    },
+    {
+      "added_at": "2022-09-05 19:11:14",
+      "album": {
+        "name": "Fuerzas Que Retroceden",
+        "url": "https://open.spotify.com/album/6JurjQgNwPldixxSIv3ioE"
+      },
+      "artists": [
+        {
+          "name": "Mowat",
+          "url": "https://open.spotify.com/artist/7vBqkoAdt6FtpwiqWLUVua"
+        },
+        {
+          "name": "Colombina Parra",
+          "url": "https://open.spotify.com/artist/1s60AzQYm7kiHJJoqx7nDk"
+        }
+      ],
+      "duration_ms": 231403,
+      "name": "Fuerzas Que Retroceden",
+      "url": "https://open.spotify.com/track/1rvLC0764wddMRkrjAgdOD"
+    },
+    {
+      "added_at": "2022-09-05 19:11:14",
+      "album": {
+        "name": "Travesuras",
+        "url": "https://open.spotify.com/album/7HI1QkxJ1fsl0ELrXEN9Yo"
+      },
+      "artists": [
+        {
+          "name": "Angel Parra Orrego",
+          "url": "https://open.spotify.com/artist/33XTgiMGZUjMR6SnwE2qUy"
+        }
+      ],
+      "duration_ms": 97900,
+      "name": "Lugares Que Hablan",
+      "url": "https://open.spotify.com/track/5uVEekaGoLZkacaX4foVK4"
+    },
+    {
+      "added_at": "2022-09-05 19:11:14",
+      "album": {
+        "name": "Privado",
+        "url": "https://open.spotify.com/album/4AjiNqomtPDlz0WGYwgxPG"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 en Saturno",
+          "url": "https://open.spotify.com/artist/4jZ4GYY6tv0zdZGDOMc23T"
+        }
+      ],
+      "duration_ms": 281037,
+      "name": "Privado",
+      "url": "https://open.spotify.com/track/0xnVxyivmqxo72jx0ffkVx"
+    },
+    {
+      "added_at": "2022-09-05 19:11:14",
+      "album": {
+        "name": "Lo Comido y Lo Bailado",
+        "url": "https://open.spotify.com/album/61CtpH0g7Q4Vr4Tr6O1rLh"
+      },
+      "artists": [
+        {
+          "name": "Juanito Ayala",
+          "url": "https://open.spotify.com/artist/4Wy8CFlIS11ODC9wVKBSz4"
+        },
+        {
+          "name": "La Pegatina",
+          "url": "https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK"
+        }
+      ],
+      "duration_ms": 189568,
+      "name": "El Vaiv\u00e9n",
+      "url": "https://open.spotify.com/track/5aIrqFydkhSU25u6OQLRdT"
     },
     {
       "added_at": "2022-09-05 19:11:14",
@@ -1339,98 +1431,6 @@
     {
       "added_at": "2022-09-05 19:11:14",
       "album": {
-        "name": "Privado",
-        "url": "https://open.spotify.com/album/4AjiNqomtPDlz0WGYwgxPG"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 en Saturno",
-          "url": "https://open.spotify.com/artist/4jZ4GYY6tv0zdZGDOMc23T"
-        }
-      ],
-      "duration_ms": 281037,
-      "name": "Privado",
-      "url": "https://open.spotify.com/track/0xnVxyivmqxo72jx0ffkVx"
-    },
-    {
-      "added_at": "2022-09-05 19:11:14",
-      "album": {
-        "name": "Travesuras",
-        "url": "https://open.spotify.com/album/7HI1QkxJ1fsl0ELrXEN9Yo"
-      },
-      "artists": [
-        {
-          "name": "Angel Parra Orrego",
-          "url": "https://open.spotify.com/artist/33XTgiMGZUjMR6SnwE2qUy"
-        }
-      ],
-      "duration_ms": 97900,
-      "name": "Lugares Que Hablan",
-      "url": "https://open.spotify.com/track/5uVEekaGoLZkacaX4foVK4"
-    },
-    {
-      "added_at": "2022-09-05 19:11:14",
-      "album": {
-        "name": "Lo Comido y Lo Bailado",
-        "url": "https://open.spotify.com/album/61CtpH0g7Q4Vr4Tr6O1rLh"
-      },
-      "artists": [
-        {
-          "name": "Juanito Ayala",
-          "url": "https://open.spotify.com/artist/4Wy8CFlIS11ODC9wVKBSz4"
-        },
-        {
-          "name": "La Pegatina",
-          "url": "https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK"
-        }
-      ],
-      "duration_ms": 189568,
-      "name": "El Vaiv\u00e9n",
-      "url": "https://open.spotify.com/track/5aIrqFydkhSU25u6OQLRdT"
-    },
-    {
-      "added_at": "2022-09-05 19:11:14",
-      "album": {
-        "name": "Fuerzas Que Retroceden",
-        "url": "https://open.spotify.com/album/6JurjQgNwPldixxSIv3ioE"
-      },
-      "artists": [
-        {
-          "name": "Mowat",
-          "url": "https://open.spotify.com/artist/7vBqkoAdt6FtpwiqWLUVua"
-        },
-        {
-          "name": "Colombina Parra",
-          "url": "https://open.spotify.com/artist/1s60AzQYm7kiHJJoqx7nDk"
-        }
-      ],
-      "duration_ms": 231403,
-      "name": "Fuerzas Que Retroceden",
-      "url": "https://open.spotify.com/track/1rvLC0764wddMRkrjAgdOD"
-    },
-    {
-      "added_at": "2022-09-05 19:11:14",
-      "album": {
-        "name": "Fuego y Mar",
-        "url": "https://open.spotify.com/album/0QltDd9iKuydLMzH5vGMVJ"
-      },
-      "artists": [
-        {
-          "name": "Jawar",
-          "url": "https://open.spotify.com/artist/6Y2c7oVQPj8XJbsv3vHndS"
-        },
-        {
-          "name": "Todos Me Caen Bien",
-          "url": "https://open.spotify.com/artist/39V0OLIFDw1VdBaasv2nIb"
-        }
-      ],
-      "duration_ms": 224096,
-      "name": "Fuego y Mar",
-      "url": "https://open.spotify.com/track/63Cj7eloC0gtgyUQNP1Xhe"
-    },
-    {
-      "added_at": "2022-09-05 19:11:14",
-      "album": {
         "name": "R\u00edo R\u00edo",
         "url": "https://open.spotify.com/album/0AiixwBm1VKGyrTJVJAgDX"
       },
@@ -1447,22 +1447,6 @@
       "duration_ms": 208864,
       "name": "R\u00edo R\u00edo",
       "url": "https://open.spotify.com/track/5bJIbutXaAIQioofZN0wFY"
-    },
-    {
-      "added_at": "2022-09-05 19:11:14",
-      "album": {
-        "name": "La Manera Correcta",
-        "url": "https://open.spotify.com/album/6oVkvaKUqAGlyNiLtjnSMx"
-      },
-      "artists": [
-        {
-          "name": "Gonzalo Ya\u00f1ez",
-          "url": "https://open.spotify.com/artist/0IbRsXxQF51TMsTaVNfeqA"
-        }
-      ],
-      "duration_ms": 203684,
-      "name": "La Manera Correcta",
-      "url": "https://open.spotify.com/track/1tuLGickBIo4hN5CPHaa8I"
     },
     {
       "added_at": "2022-09-05 19:11:14",
@@ -1487,22 +1471,6 @@
     {
       "added_at": "2022-09-05 19:11:14",
       "album": {
-        "name": "Un Pedazo M\u00e1s de Tu Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/3gk4kujnDIt6T27Panenvo"
-      },
-      "artists": [
-        {
-          "name": "Lanza Internacional",
-          "url": "https://open.spotify.com/artist/5s4SbJgMMtIyl0caPyZMmT"
-        }
-      ],
-      "duration_ms": 218735,
-      "name": "Un Pedazo M\u00e1s de Tu Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/6z042rCDhAXCVZcBwvIOnA"
-    },
-    {
-      "added_at": "2022-09-05 19:11:14",
-      "album": {
         "name": "Rebeli\u00f3n del Rock",
         "url": "https://open.spotify.com/album/51EtCSCygyxeVjZeHvYEcZ"
       },
@@ -1515,6 +1483,38 @@
       "duration_ms": 220616,
       "name": "Rebeli\u00f3n del Rock",
       "url": "https://open.spotify.com/track/25yT6XXsMludDfgMqViX7Y"
+    },
+    {
+      "added_at": "2022-09-05 19:11:14",
+      "album": {
+        "name": "La Manera Correcta",
+        "url": "https://open.spotify.com/album/6oVkvaKUqAGlyNiLtjnSMx"
+      },
+      "artists": [
+        {
+          "name": "Gonzalo Ya\u00f1ez",
+          "url": "https://open.spotify.com/artist/0IbRsXxQF51TMsTaVNfeqA"
+        }
+      ],
+      "duration_ms": 203684,
+      "name": "La Manera Correcta",
+      "url": "https://open.spotify.com/track/1tuLGickBIo4hN5CPHaa8I"
+    },
+    {
+      "added_at": "2022-09-05 19:11:14",
+      "album": {
+        "name": "Un Pedazo M\u00e1s de Tu Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/3gk4kujnDIt6T27Panenvo"
+      },
+      "artists": [
+        {
+          "name": "Lanza Internacional",
+          "url": "https://open.spotify.com/artist/5s4SbJgMMtIyl0caPyZMmT"
+        }
+      ],
+      "duration_ms": 218735,
+      "name": "Un Pedazo M\u00e1s de Tu Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6z042rCDhAXCVZcBwvIOnA"
     },
     {
       "added_at": "2022-09-05 19:11:14",
@@ -1571,8 +1571,8 @@
     {
       "added_at": "2022-09-05 19:11:14",
       "album": {
-        "name": "Todo lo que sube",
-        "url": "https://open.spotify.com/album/2SnwhKbP6ibkBjbWFkB9nE"
+        "name": "Lo Que Hemos Dejado",
+        "url": "https://open.spotify.com/album/2pbgDYhXjZ5bI74KpVOsft"
       },
       "artists": [
         {
@@ -1580,9 +1580,9 @@
           "url": "https://open.spotify.com/artist/4yjkuB5LSs64YsvUj11MQm"
         }
       ],
-      "duration_ms": 315288,
-      "name": "Todo lo que sube",
-      "url": "https://open.spotify.com/track/1FZZm0nu55sStVXCPt7Pab"
+      "duration_ms": 231332,
+      "name": "Lo Que Hemos Dejado",
+      "url": "https://open.spotify.com/track/0FbRAe9HvEug0lRIGAmCv6"
     },
     {
       "added_at": "2022-09-05 19:11:14",
@@ -1639,22 +1639,18 @@
     {
       "added_at": "2022-09-05 19:11:14",
       "album": {
-        "name": "Invisible",
-        "url": "https://open.spotify.com/album/43UVqrzDJlBR2njIY2EP2q"
+        "name": "Ya No Quiero Ser (Duele, Hiere, Mata)",
+        "url": "https://open.spotify.com/album/4Y6QBvjiKF6D7TapNyWJxd"
       },
       "artists": [
         {
-          "name": "Candy66",
-          "url": "https://open.spotify.com/artist/2TPLqqQ9arRHA6Xt7gvZTZ"
-        },
-        {
-          "name": "Nk Profeta",
-          "url": "https://open.spotify.com/artist/1vLPW52pGIXKKkcmKivXo5"
+          "name": "Aguaturbia",
+          "url": "https://open.spotify.com/artist/1GGnADQvJeAIqtrjWc0CFc"
         }
       ],
-      "duration_ms": 342186,
-      "name": "Invisible",
-      "url": "https://open.spotify.com/track/0RhJyxL2MxdkwMlCu6go71"
+      "duration_ms": 277849,
+      "name": "Ya No Quiero Ser (Duele, Hiere, Mata)",
+      "url": "https://open.spotify.com/track/6ctn61QsvvmiXSl5EafPLc"
     },
     {
       "added_at": "2022-09-05 19:11:14",
@@ -1679,18 +1675,22 @@
     {
       "added_at": "2022-09-05 19:11:14",
       "album": {
-        "name": "Ya No Quiero Ser (Duele, Hiere, Mata)",
-        "url": "https://open.spotify.com/album/4Y6QBvjiKF6D7TapNyWJxd"
+        "name": "Invisible",
+        "url": "https://open.spotify.com/album/43UVqrzDJlBR2njIY2EP2q"
       },
       "artists": [
         {
-          "name": "Aguaturbia",
-          "url": "https://open.spotify.com/artist/1GGnADQvJeAIqtrjWc0CFc"
+          "name": "Candy66",
+          "url": "https://open.spotify.com/artist/2TPLqqQ9arRHA6Xt7gvZTZ"
+        },
+        {
+          "name": "Nk Profeta",
+          "url": "https://open.spotify.com/artist/1vLPW52pGIXKKkcmKivXo5"
         }
       ],
-      "duration_ms": 277849,
-      "name": "Ya No Quiero Ser (Duele, Hiere, Mata)",
-      "url": "https://open.spotify.com/track/6ctn61QsvvmiXSl5EafPLc"
+      "duration_ms": 342186,
+      "name": "Invisible",
+      "url": "https://open.spotify.com/track/0RhJyxL2MxdkwMlCu6go71"
     }
   ],
   "unique_name": "Rock Chileno",

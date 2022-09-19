@@ -1,12 +1,12 @@
 {
   "description": "Chill Korean tunes that's perfect with your latte or americano. (\uce74\ud398\uc640 \uc5b4\uc6b8\ub9ac\ub294 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uc744 \uac10\uc0c1\ud558\uc138\uc694.)",
-  "num_followers": 413699,
+  "num_followers": 413868,
   "original_name": "Dalkom Cafe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM5Mjk3NSwwMDAwMDAwMGU4OWJjNDIwMjQ0MWYwYzNlZDUyYmRlNmY4OTJmY2E4",
+  "snapshot_id": "MTY2MjM5Mjk3NSwwMDAwMDAwMDZkZjBiYTU0NzdmMjQyZDFjZDVmMzBmNjIxMmJiZTdi",
   "tracks": [
     {
       "added_at": "2022-09-05 15:49:35",
@@ -439,30 +439,6 @@
     {
       "added_at": "2022-09-05 15:49:35",
       "album": {
-        "name": "fool",
-        "url": "https://open.spotify.com/album/7dUPtlVTD9sepa5fcaWB44"
-      },
-      "artists": [
-        {
-          "name": "frad",
-          "url": "https://open.spotify.com/artist/1XLYJ9VzlgEpBdlkC4MhOL"
-        },
-        {
-          "name": "Hayne",
-          "url": "https://open.spotify.com/artist/2OuXA3zTqSBjchwV4jD5gL"
-        },
-        {
-          "name": "Milky Day",
-          "url": "https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu"
-        }
-      ],
-      "duration_ms": 130333,
-      "name": "fool",
-      "url": "https://open.spotify.com/track/6lXGf0irWo1XWl8acAlzso"
-    },
-    {
-      "added_at": "2022-09-05 15:49:35",
-      "album": {
         "name": "whenever it rains",
         "url": "https://open.spotify.com/album/7wq0JJCwDr7PlyPHv7Qgvq"
       },
@@ -483,6 +459,30 @@
       "duration_ms": 185737,
       "name": "Whenever it rains (feat. Nason & amin)",
       "url": "https://open.spotify.com/track/6eQtDU7frMlvQp3jSUqInu"
+    },
+    {
+      "added_at": "2022-09-05 15:49:35",
+      "album": {
+        "name": "fool",
+        "url": "https://open.spotify.com/album/7dUPtlVTD9sepa5fcaWB44"
+      },
+      "artists": [
+        {
+          "name": "frad",
+          "url": "https://open.spotify.com/artist/1XLYJ9VzlgEpBdlkC4MhOL"
+        },
+        {
+          "name": "Hayne",
+          "url": "https://open.spotify.com/artist/2OuXA3zTqSBjchwV4jD5gL"
+        },
+        {
+          "name": "Milky Day",
+          "url": "https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu"
+        }
+      ],
+      "duration_ms": 130333,
+      "name": "fool",
+      "url": "https://open.spotify.com/track/6lXGf0irWo1XWl8acAlzso"
     },
     {
       "added_at": "2022-09-05 15:49:35",
@@ -563,22 +563,6 @@
     {
       "added_at": "2022-09-05 15:49:35",
       "album": {
-        "name": "I'm In Love",
-        "url": "https://open.spotify.com/album/4BP1h4PNLuOIVaYF2azTgF"
-      },
-      "artists": [
-        {
-          "name": "Colde",
-          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "I'm In Love",
-      "url": "https://open.spotify.com/track/5xv9DhjYckZoZwXifGrkQw"
-    },
-    {
-      "added_at": "2022-09-05 15:49:35",
-      "album": {
         "name": "as long as you're okay",
         "url": "https://open.spotify.com/album/4sbtxKb5DcFEBjFFLrMftn"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 173740,
       "name": "say what's on your mind",
       "url": "https://open.spotify.com/track/5sZOGj6SfzD7lWpwKhF6oE"
+    },
+    {
+      "added_at": "2022-09-05 15:49:35",
+      "album": {
+        "name": "I'm In Love",
+        "url": "https://open.spotify.com/album/4BP1h4PNLuOIVaYF2azTgF"
+      },
+      "artists": [
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "I'm In Love",
+      "url": "https://open.spotify.com/track/5xv9DhjYckZoZwXifGrkQw"
     },
     {
       "added_at": "2022-09-05 15:49:35",

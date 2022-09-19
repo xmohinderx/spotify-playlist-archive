@@ -4,7 +4,7 @@
 
 > This is Rise Against\. The essential tracks, all in one playlist.
 
-51 songs - 3 hr 6 min - not published yet
+51 songs - 3 hr 6 min - [published](https://open.spotify.com/playlist/0limFLGpMO0zcj7b4UXmCB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

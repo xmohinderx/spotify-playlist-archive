@@ -1,12 +1,12 @@
 {
   "description": "Descubre hoy a los artistas de ma\u00f1ana. Foto: Marmi",
-  "num_followers": 19524,
+  "num_followers": 19535,
   "original_name": "Radar Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMyMDgxNiwwMDAwMDAwMGVkMmY3MjY1YmZhYTgzNTY2ZTcxZjdkNmVmZWU0NWJh",
+  "snapshot_id": "MTY2MzMyMDgxNiwwMDAwMDAwMDIyODYyNTVmZTdjMjI3NmRlMTJkM2ZiN2FjMWMxMDIz",
   "tracks": [
     {
       "added_at": "2022-09-16 09:33:36",
@@ -487,8 +487,24 @@
     {
       "added_at": "2022-09-16 09:33:36",
       "album": {
-        "name": "un poco s\u00ed...",
-        "url": "https://open.spotify.com/album/3QR37dZ8Zkmx7ZWU4mCUKD"
+        "name": "Ego\u00edsta",
+        "url": "https://open.spotify.com/album/61lzWKauyC2ZF67goSk5Mu"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
+        }
+      ],
+      "duration_ms": 199148,
+      "name": "Ego\u00edsta",
+      "url": "https://open.spotify.com/track/0xMR5hNDMuCAlpAfHc3iwD"
+    },
+    {
+      "added_at": "2022-09-16 09:33:36",
+      "album": {
+        "name": "CHINO CADA MARTES",
+        "url": "https://open.spotify.com/album/5m5qT7i1FIeKBUT65FKwLJ"
       },
       "artists": [
         {
@@ -496,9 +512,9 @@
           "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
         }
       ],
-      "duration_ms": 179076,
-      "name": "un poco s\u00ed...",
-      "url": "https://open.spotify.com/track/4kQqIsLQk19AIeuGdIeibl"
+      "duration_ms": 163125,
+      "name": "chino cada martes",
+      "url": "https://open.spotify.com/track/285mJY862RScGSXLy8WuRQ"
     },
     {
       "added_at": "2022-09-16 09:33:36",
@@ -543,6 +559,26 @@
     {
       "added_at": "2022-09-16 09:33:36",
       "album": {
+        "name": "ya se me pasar\u00e1",
+        "url": "https://open.spotify.com/album/4UdbepeAR4DDMLWR08MBxr"
+      },
+      "artists": [
+        {
+          "name": "daniel sabater",
+          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
+        },
+        {
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "de qu\u00e9 sirve?",
+      "url": "https://open.spotify.com/track/3BCAKTSfkvfBeWyK21BD37"
+    },
+    {
+      "added_at": "2022-09-16 09:33:36",
+      "album": {
         "name": "Dunas",
         "url": "https://open.spotify.com/album/2QJCNYbQjm27rhgM2LIwSK"
       },
@@ -559,22 +595,6 @@
       "duration_ms": 108250,
       "name": "Dunas",
       "url": "https://open.spotify.com/track/0NzUqCoIruBP1d1z8s81dU"
-    },
-    {
-      "added_at": "2022-09-16 09:33:36",
-      "album": {
-        "name": "Disneyland Paris",
-        "url": "https://open.spotify.com/album/1nl8pRMZ9d59YWbNyrzanG"
-      },
-      "artists": [
-        {
-          "name": "AMORE",
-          "url": "https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S"
-        }
-      ],
-      "duration_ms": 144624,
-      "name": "Disneyland Paris",
-      "url": "https://open.spotify.com/track/2AeMKItKccbghNb24kruJB"
     },
     {
       "added_at": "2022-09-16 09:33:36",
@@ -599,18 +619,18 @@
     {
       "added_at": "2022-09-16 09:33:36",
       "album": {
-        "name": "canci\u00f3n de amor",
-        "url": "https://open.spotify.com/album/4Gv5KVGBNzwMikrM6bOLBV"
+        "name": "Disneyland Paris",
+        "url": "https://open.spotify.com/album/1nl8pRMZ9d59YWbNyrzanG"
       },
       "artists": [
         {
-          "name": "daniel sabater",
-          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
+          "name": "AMORE",
+          "url": "https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S"
         }
       ],
-      "duration_ms": 177002,
-      "name": "canci\u00f3n de amor",
-      "url": "https://open.spotify.com/track/16ZMVvoC20S1ehGOOxYxkg"
+      "duration_ms": 144624,
+      "name": "Disneyland Paris",
+      "url": "https://open.spotify.com/track/2AeMKItKccbghNb24kruJB"
     },
     {
       "added_at": "2022-09-16 09:33:36",
@@ -631,6 +651,38 @@
       "duration_ms": 100744,
       "name": "uno x ciento",
       "url": "https://open.spotify.com/track/0cbp157hyiM0c9XVLb0Mqk"
+    },
+    {
+      "added_at": "2022-09-16 09:33:36",
+      "album": {
+        "name": "un poco s\u00ed...",
+        "url": "https://open.spotify.com/album/3QR37dZ8Zkmx7ZWU4mCUKD"
+      },
+      "artists": [
+        {
+          "name": "vangoura",
+          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
+        }
+      ],
+      "duration_ms": 179076,
+      "name": "un poco s\u00ed...",
+      "url": "https://open.spotify.com/track/4kQqIsLQk19AIeuGdIeibl"
+    },
+    {
+      "added_at": "2022-09-16 09:33:36",
+      "album": {
+        "name": "canci\u00f3n de amor",
+        "url": "https://open.spotify.com/album/4Gv5KVGBNzwMikrM6bOLBV"
+      },
+      "artists": [
+        {
+          "name": "daniel sabater",
+          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
+        }
+      ],
+      "duration_ms": 177002,
+      "name": "canci\u00f3n de amor",
+      "url": "https://open.spotify.com/track/16ZMVvoC20S1ehGOOxYxkg"
     },
     {
       "added_at": "2022-09-16 09:33:36",
@@ -667,22 +719,6 @@
     {
       "added_at": "2022-09-16 09:33:36",
       "album": {
-        "name": "CHINO CADA MARTES",
-        "url": "https://open.spotify.com/album/5m5qT7i1FIeKBUT65FKwLJ"
-      },
-      "artists": [
-        {
-          "name": "vangoura",
-          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
-        }
-      ],
-      "duration_ms": 163125,
-      "name": "chino cada martes",
-      "url": "https://open.spotify.com/track/285mJY862RScGSXLy8WuRQ"
-    },
-    {
-      "added_at": "2022-09-16 09:33:36",
-      "album": {
         "name": "De Cero",
         "url": "https://open.spotify.com/album/2wWpHMRFRLT2pYTqL8wcoJ"
       },
@@ -715,26 +751,6 @@
     {
       "added_at": "2022-09-16 09:33:36",
       "album": {
-        "name": "Quiero Bailar",
-        "url": "https://open.spotify.com/album/0xCzUa3TOjjWy8aQRNoW8g"
-      },
-      "artists": [
-        {
-          "name": "Elena Torres",
-          "url": "https://open.spotify.com/artist/6qM5MgFldgcKatSFYmB5cV"
-        },
-        {
-          "name": "MPV",
-          "url": "https://open.spotify.com/artist/6B8oVZFbsDWVnWLPnxUFf0"
-        }
-      ],
-      "duration_ms": 172384,
-      "name": "Quiero Bailar",
-      "url": "https://open.spotify.com/track/1590e2UlpOTir9oYiKR3oY"
-    },
-    {
-      "added_at": "2022-09-16 09:33:36",
-      "album": {
         "name": "Nada Mal",
         "url": "https://open.spotify.com/album/05HWbis9WEawfsBCJPQiVb"
       },
@@ -755,22 +771,22 @@
     {
       "added_at": "2022-09-16 09:33:36",
       "album": {
-        "name": "Ya No Hace Falta",
-        "url": "https://open.spotify.com/album/3Al8q1fJTsyuYI9xogyDHV"
+        "name": "Quiero Bailar",
+        "url": "https://open.spotify.com/album/0xCzUa3TOjjWy8aQRNoW8g"
       },
       "artists": [
         {
-          "name": "yes I M",
-          "url": "https://open.spotify.com/artist/3TZI0rZ4YeTit0vak0CXQy"
+          "name": "Elena Torres",
+          "url": "https://open.spotify.com/artist/6qM5MgFldgcKatSFYmB5cV"
         },
         {
-          "name": "Casero",
-          "url": "https://open.spotify.com/artist/6RXmHX7FgxZz6ycoC6IgPy"
+          "name": "MPV",
+          "url": "https://open.spotify.com/artist/6B8oVZFbsDWVnWLPnxUFf0"
         }
       ],
-      "duration_ms": 201076,
-      "name": "Ya No Hace Falta",
-      "url": "https://open.spotify.com/track/68ig9yZZ1tMU0xtY7QOASt"
+      "duration_ms": 172384,
+      "name": "Quiero Bailar",
+      "url": "https://open.spotify.com/track/1590e2UlpOTir9oYiKR3oY"
     },
     {
       "added_at": "2022-09-16 09:33:36",
@@ -787,6 +803,26 @@
       "duration_ms": 172710,
       "name": "Marisol",
       "url": "https://open.spotify.com/track/4eGgtcKMoL45YN55eXzD24"
+    },
+    {
+      "added_at": "2022-09-16 09:33:36",
+      "album": {
+        "name": "Ya No Hace Falta",
+        "url": "https://open.spotify.com/album/3Al8q1fJTsyuYI9xogyDHV"
+      },
+      "artists": [
+        {
+          "name": "yes I M",
+          "url": "https://open.spotify.com/artist/3TZI0rZ4YeTit0vak0CXQy"
+        },
+        {
+          "name": "Casero",
+          "url": "https://open.spotify.com/artist/6RXmHX7FgxZz6ycoC6IgPy"
+        }
+      ],
+      "duration_ms": 201076,
+      "name": "Ya No Hace Falta",
+      "url": "https://open.spotify.com/track/68ig9yZZ1tMU0xtY7QOASt"
     },
     {
       "added_at": "2022-09-16 09:33:36",
@@ -843,42 +879,6 @@
       "duration_ms": 202126,
       "name": "Ojal\u00e1 Fu\u00e9ramos Amigos (Buffetlibre Remix)",
       "url": "https://open.spotify.com/track/5j6eTIKDiwc8r0LN3lFMSB"
-    },
-    {
-      "added_at": "2022-09-16 09:33:36",
-      "album": {
-        "name": "Ego\u00edsta",
-        "url": "https://open.spotify.com/album/61lzWKauyC2ZF67goSk5Mu"
-      },
-      "artists": [
-        {
-          "name": "Sebasti\u00e1n Cort\u00e9s",
-          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
-        }
-      ],
-      "duration_ms": 199148,
-      "name": "Ego\u00edsta",
-      "url": "https://open.spotify.com/track/0xMR5hNDMuCAlpAfHc3iwD"
-    },
-    {
-      "added_at": "2022-09-16 09:33:36",
-      "album": {
-        "name": "ya se me pasar\u00e1",
-        "url": "https://open.spotify.com/album/4UdbepeAR4DDMLWR08MBxr"
-      },
-      "artists": [
-        {
-          "name": "daniel sabater",
-          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
-        },
-        {
-          "name": "Marco Mares",
-          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "de qu\u00e9 sirve?",
-      "url": "https://open.spotify.com/track/3BCAKTSfkvfBeWyK21BD37"
     }
   ],
   "unique_name": "Radar Espa\u00f1a",

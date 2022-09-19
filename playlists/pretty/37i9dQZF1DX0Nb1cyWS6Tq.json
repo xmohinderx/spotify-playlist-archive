@@ -1,12 +1,12 @@
 {
   "description": "Release The Bats! Cover: Siouxsie and the Banshees",
-  "num_followers": 451380,
+  "num_followers": 451891,
   "original_name": "Dark & Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDAwOTA2OCwwMDAwMDAwMDQ0MTVlNGE5MzRiYjY5MjhkMTQzYmE5OTg1YTc3MTA1",
+  "snapshot_id": "MTY2MDAwOTA2OCwwMDAwMDAwMDEwMjY5MzIxMWYyMDk5NGFjZDQzOTM2M2RmOGU5ZGU4",
   "tracks": [
     {
       "added_at": "2022-06-03 16:36:24",
@@ -283,22 +283,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Treasure",
-        "url": "https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62"
-      },
-      "artists": [
-        {
-          "name": "Cocteau Twins",
-          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
-        }
-      ],
-      "duration_ms": 223266,
-      "name": "Lorelei",
-      "url": "https://open.spotify.com/track/1ZnXuijpwEBjhNxpEnb8WH"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "Sugarbread",
         "url": "https://open.spotify.com/album/5yuGLsbL0XTjON5tewyApa"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 185000,
       "name": "Me and the Devil",
       "url": "https://open.spotify.com/track/0wrWxW18WK2MkrfDpRHkyh"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Treasure",
+        "url": "https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62"
+      },
+      "artists": [
+        {
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+        }
+      ],
+      "duration_ms": 223266,
+      "name": "Lorelei",
+      "url": "https://open.spotify.com/track/1ZnXuijpwEBjhNxpEnb8WH"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -491,8 +491,8 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "The Sky's Gone Out",
-        "url": "https://open.spotify.com/album/42L0285NmWnp6lF0Tf6uyw"
+        "name": "In the Flat Field",
+        "url": "https://open.spotify.com/album/4hPJRedKOmbvKnLdzV9w1w"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi"
         }
       ],
-      "duration_ms": 232306,
-      "name": "All We Ever Wanted Was Everything",
-      "url": "https://open.spotify.com/track/6Q9kdCHXpAef5YbKXKeG9M"
+      "duration_ms": 231560,
+      "name": "Dark Entries",
+      "url": "https://open.spotify.com/track/67MkU3b7k2fBL6oHHUiM09"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -587,8 +587,8 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "In the Flat Field",
-        "url": "https://open.spotify.com/album/4hPJRedKOmbvKnLdzV9w1w"
+        "name": "The Sky's Gone Out",
+        "url": "https://open.spotify.com/album/42L0285NmWnp6lF0Tf6uyw"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi"
         }
       ],
-      "duration_ms": 231560,
-      "name": "Dark Entries",
-      "url": "https://open.spotify.com/track/67MkU3b7k2fBL6oHHUiM09"
+      "duration_ms": 232306,
+      "name": "All We Ever Wanted Was Everything",
+      "url": "https://open.spotify.com/track/6Q9kdCHXpAef5YbKXKeG9M"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -683,18 +683,18 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "It'll End In Tears (Remastered)",
-        "url": "https://open.spotify.com/album/5gMiiXVgUFVUIHKXC57a0j"
+        "name": "Japanese Whispers",
+        "url": "https://open.spotify.com/album/6fFTxlpJPGQbO3CbVz9MOS"
       },
       "artists": [
         {
-          "name": "This Mortal Coil",
-          "url": "https://open.spotify.com/artist/5OK8j1JnhoBlivN32G7yOO"
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 209093,
-      "name": "Kangaroo - Remastered",
-      "url": "https://open.spotify.com/track/2HsOICaAi5bwnqyG7uO1Fo"
+      "duration_ms": 220093,
+      "name": "The Lovecats",
+      "url": "https://open.spotify.com/track/5rzr3lYGJiw3OXEg8imWgH"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -715,18 +715,18 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Night Time",
-        "url": "https://open.spotify.com/album/2qcwXvluk9iFwNNg4eDBXm"
+        "name": "Deep",
+        "url": "https://open.spotify.com/album/63VVK15ZBJI5TZu525KTVa"
       },
       "artists": [
         {
-          "name": "Killing Joke",
-          "url": "https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD"
+          "name": "Peter Murphy",
+          "url": "https://open.spotify.com/artist/7zeHJIIfNStVfxlbT72UwY"
         }
       ],
-      "duration_ms": 408826,
-      "name": "Love Like Blood",
-      "url": "https://open.spotify.com/track/14z3RzUHeZQgtpOlSYvmZD"
+      "duration_ms": 228066,
+      "name": "A Strange Kind of Love - Version One",
+      "url": "https://open.spotify.com/track/1zPAojZywAA8wCIScNMGK6"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -747,34 +747,34 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Deep",
-        "url": "https://open.spotify.com/album/63VVK15ZBJI5TZu525KTVa"
+        "name": "It'll End In Tears (Remastered)",
+        "url": "https://open.spotify.com/album/5gMiiXVgUFVUIHKXC57a0j"
       },
       "artists": [
         {
-          "name": "Peter Murphy",
-          "url": "https://open.spotify.com/artist/7zeHJIIfNStVfxlbT72UwY"
+          "name": "This Mortal Coil",
+          "url": "https://open.spotify.com/artist/5OK8j1JnhoBlivN32G7yOO"
         }
       ],
-      "duration_ms": 228066,
-      "name": "A Strange Kind of Love - Version One",
-      "url": "https://open.spotify.com/track/1zPAojZywAA8wCIScNMGK6"
+      "duration_ms": 209093,
+      "name": "Kangaroo - Remastered",
+      "url": "https://open.spotify.com/track/2HsOICaAi5bwnqyG7uO1Fo"
     },
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Japanese Whispers",
-        "url": "https://open.spotify.com/album/6fFTxlpJPGQbO3CbVz9MOS"
+        "name": "Night Time",
+        "url": "https://open.spotify.com/album/2qcwXvluk9iFwNNg4eDBXm"
       },
       "artists": [
         {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+          "name": "Killing Joke",
+          "url": "https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD"
         }
       ],
-      "duration_ms": 220093,
-      "name": "The Lovecats",
-      "url": "https://open.spotify.com/track/5rzr3lYGJiw3OXEg8imWgH"
+      "duration_ms": 408826,
+      "name": "Love Like Blood",
+      "url": "https://open.spotify.com/track/14z3RzUHeZQgtpOlSYvmZD"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -955,18 +955,18 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Closer (Collector's Edition)",
-        "url": "https://open.spotify.com/album/1HnxC8MLDciii5LebJ09Ko"
+        "name": "Forever (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3nFSPWRHULzYNWGQoDzjKV"
       },
       "artists": [
         {
-          "name": "Joy Division",
-          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
+          "name": "Cranes",
+          "url": "https://open.spotify.com/artist/5q2ehaRqAFmM6tLl4vaVwP"
         }
       ],
-      "duration_ms": 268013,
-      "name": "Twenty Four Hours - 2007 Remaster",
-      "url": "https://open.spotify.com/track/36HznXQNGoen7dwq4Vv6nP"
+      "duration_ms": 185226,
+      "name": "Jewel",
+      "url": "https://open.spotify.com/track/3Mp4lDIGyCBVWDSF6ALaEd"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -987,18 +987,18 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Forever (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3nFSPWRHULzYNWGQoDzjKV"
+        "name": "Closer (Collector's Edition)",
+        "url": "https://open.spotify.com/album/1HnxC8MLDciii5LebJ09Ko"
       },
       "artists": [
         {
-          "name": "Cranes",
-          "url": "https://open.spotify.com/artist/5q2ehaRqAFmM6tLl4vaVwP"
+          "name": "Joy Division",
+          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
         }
       ],
-      "duration_ms": 185226,
-      "name": "Jewel",
-      "url": "https://open.spotify.com/track/3Mp4lDIGyCBVWDSF6ALaEd"
+      "duration_ms": 268013,
+      "name": "Twenty Four Hours - 2007 Remaster",
+      "url": "https://open.spotify.com/track/36HznXQNGoen7dwq4Vv6nP"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Isn't Anything",
-        "url": "https://open.spotify.com/album/3mnv6nzZV5AQhDG7OUsLdo"
-      },
-      "artists": [
-        {
-          "name": "my bloody valentine",
-          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
-        }
-      ],
-      "duration_ms": 217626,
-      "name": "Lose My Breath",
-      "url": "https://open.spotify.com/track/1Ma06PrhbT07YFTlM48rAK"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "Closer (Collector's Edition)",
         "url": "https://open.spotify.com/album/1HnxC8MLDciii5LebJ09Ko"
       },
@@ -1131,6 +1115,22 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
+        "name": "Isn't Anything",
+        "url": "https://open.spotify.com/album/3mnv6nzZV5AQhDG7OUsLdo"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "duration_ms": 217626,
+      "name": "Lose My Breath",
+      "url": "https://open.spotify.com/track/1Ma06PrhbT07YFTlM48rAK"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
         "name": "Everything!",
         "url": "https://open.spotify.com/album/440zYLMcBZhHc93WSGKDKo"
       },
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Medusa",
-        "url": "https://open.spotify.com/album/3DBGxdFyynAak3dRiy54Jv"
-      },
-      "artists": [
-        {
-          "name": "Clan of Xymox",
-          "url": "https://open.spotify.com/artist/1wHmR7I0UlF58WFQexCPha"
-        }
-      ],
-      "duration_ms": 353160,
-      "name": "Medusa",
-      "url": "https://open.spotify.com/track/1e9ct57zcGaqnWaehx52Iy"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "It Will Come to You",
         "url": "https://open.spotify.com/album/0yIIcvuqXZWqhMizP6w5jJ"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 216750,
       "name": "Face Meets Glass",
       "url": "https://open.spotify.com/track/7a7G6UxSuYRF7kIaCPAYRT"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Medusa",
+        "url": "https://open.spotify.com/album/3DBGxdFyynAak3dRiy54Jv"
+      },
+      "artists": [
+        {
+          "name": "Clan of Xymox",
+          "url": "https://open.spotify.com/artist/1wHmR7I0UlF58WFQexCPha"
+        }
+      ],
+      "duration_ms": 353160,
+      "name": "Medusa",
+      "url": "https://open.spotify.com/track/1e9ct57zcGaqnWaehx52Iy"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Tocsin",
-        "url": "https://open.spotify.com/album/2wsPRUsIQt3atWXuRYJ3tv"
-      },
-      "artists": [
-        {
-          "name": "Xmal Deutschland",
-          "url": "https://open.spotify.com/artist/5bQ4kqxuAV7tBI7dSs3sB1"
-        }
-      ],
-      "duration_ms": 285160,
-      "name": "Incubus Succubus II",
-      "url": "https://open.spotify.com/track/4Sv0g2vAsMCo3lHpGDeyBb"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "Bad Ambient",
         "url": "https://open.spotify.com/album/24KvacOpWn4tdCti5KGCrK"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 295280,
       "name": "One by One",
       "url": "https://open.spotify.com/track/5F1ZjpCFKcgk4VcsL2on2h"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Tocsin",
+        "url": "https://open.spotify.com/album/2wsPRUsIQt3atWXuRYJ3tv"
+      },
+      "artists": [
+        {
+          "name": "Xmal Deutschland",
+          "url": "https://open.spotify.com/artist/5bQ4kqxuAV7tBI7dSs3sB1"
+        }
+      ],
+      "duration_ms": 285160,
+      "name": "Incubus Succubus II",
+      "url": "https://open.spotify.com/track/4Sv0g2vAsMCo3lHpGDeyBb"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "The Singles 1983-1995",
-        "url": "https://open.spotify.com/album/23bJrYWdTWLUlBdtgCMMCp"
-      },
-      "artists": [
-        {
-          "name": "Alien Sex Fiend",
-          "url": "https://open.spotify.com/artist/6WVnBgqJfj9Iw9gpBed9fJ"
-        }
-      ],
-      "duration_ms": 291600,
-      "name": "I Walk the Line",
-      "url": "https://open.spotify.com/track/6kJoVUIqzlkjNeVGatlGKB"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "Seduction (The Society Collection)",
         "url": "https://open.spotify.com/album/0NbtabKulAdSkbnzu94bJ9"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 260746,
       "name": "Somewhere",
       "url": "https://open.spotify.com/track/5XYCe2ek8lMcTQXYDgQAGG"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "The Singles 1983-1995",
+        "url": "https://open.spotify.com/album/23bJrYWdTWLUlBdtgCMMCp"
+      },
+      "artists": [
+        {
+          "name": "Alien Sex Fiend",
+          "url": "https://open.spotify.com/artist/6WVnBgqJfj9Iw9gpBed9fJ"
+        }
+      ],
+      "duration_ms": 291600,
+      "name": "I Walk the Line",
+      "url": "https://open.spotify.com/track/6kJoVUIqzlkjNeVGatlGKB"
     }
   ],
   "unique_name": "Dark & Gothic",

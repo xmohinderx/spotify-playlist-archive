@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIT9yLhyYuHE.md) - [plain]
 | 29 | [To The Moon And Back](https://open.spotify.com/track/1VpGCuCz9Xl05lUn9VY2Yk) | [Jules](https://open.spotify.com/artist/4e2hDERmPLsXiJlO9SjC1J) | [Irreversible](https://open.spotify.com/album/4qmfxCE5ggeqEMx85yj2jG) | 2:41 |
 | 30 | [Soaking In The Silence](https://open.spotify.com/track/3ryw2lnxtPXu3TjLsl25pP) | [Wulf](https://open.spotify.com/artist/134sCDSe1w2zPnfCG4hT0f) | [This Is Wulf](https://open.spotify.com/album/7BIbiX7wrPRaXuJ2RZ37kK) | 3:25 |
 | 31 | [Peru](https://open.spotify.com/track/7qr0v1QyIED6i8BqdTmC3z) | [Jules](https://open.spotify.com/artist/4e2hDERmPLsXiJlO9SjC1J) | [Irreversible](https://open.spotify.com/album/4qmfxCE5ggeqEMx85yj2jG) | 2:50 |
-| 32 | [Falling Fast](https://open.spotify.com/track/0VsMUwqiV7vQpTBcyQFJiN) | [April Darby](https://open.spotify.com/artist/3hYoiohAx0QaaQ6bKfBmyq) | [Falling Fast](https://open.spotify.com/album/6SrZvzG41xmPawJTZSxfiQ) | 3:03 |
-| 33 | [Amplify](https://open.spotify.com/track/2fFldkVRbdYP92VA59AgSE) | [Birgit Schuurman](https://open.spotify.com/artist/3t8YK94jSx9SebLHxsrAba) | [A Fool for Love](https://open.spotify.com/album/7sQxXhdvCjZImo0WsWthAZ) | 4:02 |
+| 32 | [Amplify](https://open.spotify.com/track/2fFldkVRbdYP92VA59AgSE) | [Birgit Schuurman](https://open.spotify.com/artist/3t8YK94jSx9SebLHxsrAba) | [A Fool for Love](https://open.spotify.com/album/7sQxXhdvCjZImo0WsWthAZ) | 4:02 |
+| 33 | [Falling Fast](https://open.spotify.com/track/0VsMUwqiV7vQpTBcyQFJiN) | [April Darby](https://open.spotify.com/artist/3hYoiohAx0QaaQ6bKfBmyq) | [Falling Fast](https://open.spotify.com/album/6SrZvzG41xmPawJTZSxfiQ) | 3:03 |
 | 34 | [Bad Habit](https://open.spotify.com/track/0CEr4FjLrq3rXGOX3QpL2O) | [Michael Amani](https://open.spotify.com/artist/2NXXWnN62QbWBGoHCyKrTn) | [Bad Habit](https://open.spotify.com/album/5fLCMpxPwZk9au9gtZbqmf) | 2:28 |
 | 35 | [Miss You Most](https://open.spotify.com/track/4QQFlHyNpedDjuuOR90Yqv) | [Dana Winner](https://open.spotify.com/artist/6pmObcotPmooyBYA0PbxPW) | [Miss You Most](https://open.spotify.com/album/1SzmOnjcX1PtQzoMC41RkW) | 3:02 |
 | 36 | [New York](https://open.spotify.com/track/4AaMBpuRCnQ0vmRG2zRyFv) | [April Darby](https://open.spotify.com/artist/3hYoiohAx0QaaQ6bKfBmyq) | [New York](https://open.spotify.com/album/6JxiDe2Xa9BtRJ5XPEaplo) | 3:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIT9yLhyYuHE.md) - [plain]
 | 49 | [FLY AWAY](https://open.spotify.com/track/6xcC3CXu7MI0HFzSF5Zkh5) | [Sofia Sole](https://open.spotify.com/artist/7l4Os2z0JD7Lz8lKcBDdRO) | [FLY AWAY](https://open.spotify.com/album/60qE1C65gbxL7oStfjNGYE) | 3:09 |
 | 50 | [The Right One](https://open.spotify.com/track/7l37dMgsRHPOb7yk34f78w) | [Mabo](https://open.spotify.com/artist/6XxrlKH1iahSmaUDcyS5Rt) | [The Right One](https://open.spotify.com/album/0Hl4BSPGz624co8VIfRegt) | 2:50 |
 
-Snapshot ID: `Mjc3MjQ0MDEsMDAwMDAwMDBjMGM4NTM0ZDM0YmRlN2E2N2RkODkxODYzYTg4YmExZQ==`
+Snapshot ID: `Mjc3MjU4NDEsMDAwMDAwMDA5NzhlNTY4NjRmMzFmOTViZWFiM2Y4MjE4ZTgyZDMyYQ==`

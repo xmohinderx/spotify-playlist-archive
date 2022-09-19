@@ -1,12 +1,12 @@
 {
   "description": "Classic soft rock. For that free and easy feeling.",
-  "num_followers": 86767,
+  "num_followers": 86856,
   "original_name": "Free & Easy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMDJjMzcxMWYxZGI4NzBiNWNhOGUzNmMwMjMyM2I0N2Ez",
+  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMDk4NTVhOTk5ZmQ5YWJmZWU3ZDRlYTI5ODVhNTNlZmUy",
   "tracks": [
     {
       "added_at": "2021-04-22 18:12:12",
@@ -175,22 +175,6 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
-        "name": "Fly Like An Eagle",
-        "url": "https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC"
-      },
-      "artists": [
-        {
-          "name": "Steve Miller Band",
-          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
-        }
-      ],
-      "duration_ms": 282693,
-      "name": "Fly Like An Eagle",
-      "url": "https://open.spotify.com/track/3e0FzZjTXOUtiJGSClOBrI"
-    },
-    {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
         "name": "Christopher Cross",
         "url": "https://open.spotify.com/album/2m2nl8cBT7bEgIA6LLmgah"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 275506,
       "name": "Ride Like the Wind",
       "url": "https://open.spotify.com/track/7gUMShP1l20tC0xf17Zplk"
+    },
+    {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
+        "name": "Fly Like An Eagle",
+        "url": "https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC"
+      },
+      "artists": [
+        {
+          "name": "Steve Miller Band",
+          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
+        }
+      ],
+      "duration_ms": 282693,
+      "name": "Fly Like An Eagle",
+      "url": "https://open.spotify.com/track/3e0FzZjTXOUtiJGSClOBrI"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -335,22 +335,6 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
-        "name": "The Next Voice You Hear - The Best Of Jackson Browne",
-        "url": "https://open.spotify.com/album/0B98S6H0OAGWHaXFpjhqKu"
-      },
-      "artists": [
-        {
-          "name": "Jackson Browne",
-          "url": "https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m"
-        }
-      ],
-      "duration_ms": 262733,
-      "name": "Somebody's Baby",
-      "url": "https://open.spotify.com/track/4SlCb8n5Jw52astU7GWPyV"
-    },
-    {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
         "name": "Voices",
         "url": "https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 264986,
       "name": "Kiss on My List",
       "url": "https://open.spotify.com/track/7cDzJyC95jtGO9zAeZsWOg"
+    },
+    {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
+        "name": "The Next Voice You Hear - The Best Of Jackson Browne",
+        "url": "https://open.spotify.com/album/0B98S6H0OAGWHaXFpjhqKu"
+      },
+      "artists": [
+        {
+          "name": "Jackson Browne",
+          "url": "https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m"
+        }
+      ],
+      "duration_ms": 262733,
+      "name": "Somebody's Baby",
+      "url": "https://open.spotify.com/track/4SlCb8n5Jw52astU7GWPyV"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -607,22 +607,6 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
-        "name": "Year of the Cat",
-        "url": "https://open.spotify.com/album/2JxEUrs4GzHQdkV6qQayz5"
-      },
-      "artists": [
-        {
-          "name": "Al Stewart",
-          "url": "https://open.spotify.com/artist/0DW7boyjvbaSP3OJ72sXgC"
-        }
-      ],
-      "duration_ms": 400066,
-      "name": "Year of the Cat",
-      "url": "https://open.spotify.com/track/7MTX3vevnm41xuEoPxWT3j"
-    },
-    {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
         "name": "Nicolette",
         "url": "https://open.spotify.com/album/4IYDdR6uUcazKjPPzJJzfu"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 191773,
       "name": "Lotta Love",
       "url": "https://open.spotify.com/track/2bS2tETCzUmjALnXEvhOGo"
+    },
+    {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
+        "name": "Year of the Cat",
+        "url": "https://open.spotify.com/album/2JxEUrs4GzHQdkV6qQayz5"
+      },
+      "artists": [
+        {
+          "name": "Al Stewart",
+          "url": "https://open.spotify.com/artist/0DW7boyjvbaSP3OJ72sXgC"
+        }
+      ],
+      "duration_ms": 400066,
+      "name": "Year of the Cat",
+      "url": "https://open.spotify.com/track/7MTX3vevnm41xuEoPxWT3j"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -735,22 +735,6 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
-        "name": "Legend",
-        "url": "https://open.spotify.com/album/5pC3jEw11eiVY5Vi9z1ooi"
-      },
-      "artists": [
-        {
-          "name": "Poco",
-          "url": "https://open.spotify.com/artist/0fyqyjD7pbaVzbu94ylWQR"
-        }
-      ],
-      "duration_ms": 294533,
-      "name": "Heart Of The Night",
-      "url": "https://open.spotify.com/track/6fNID7koTl1dZBCs6FmK4E"
-    },
-    {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
         "name": "Silk Degrees",
         "url": "https://open.spotify.com/album/7DysI4j6UqK00RTfETKXqs"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 180693,
       "name": "What Can I Say",
       "url": "https://open.spotify.com/track/4WSbbEjRQ7uE3IT9crL10B"
+    },
+    {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
+        "name": "Legend",
+        "url": "https://open.spotify.com/album/5pC3jEw11eiVY5Vi9z1ooi"
+      },
+      "artists": [
+        {
+          "name": "Poco",
+          "url": "https://open.spotify.com/artist/0fyqyjD7pbaVzbu94ylWQR"
+        }
+      ],
+      "duration_ms": 294533,
+      "name": "Heart Of The Night",
+      "url": "https://open.spotify.com/track/6fNID7koTl1dZBCs6FmK4E"
     },
     {
       "added_at": "2022-06-29 18:13:00",
@@ -1069,22 +1069,6 @@
       "url": "https://open.spotify.com/track/2WHTHxUipSqJU9yJRnpO6S"
     },
     {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
-        "name": "Christopher Cross",
-        "url": "https://open.spotify.com/album/2m2nl8cBT7bEgIA6LLmgah"
-      },
-      "artists": [
-        {
-          "name": "Christopher Cross",
-          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
-        }
-      ],
-      "duration_ms": 176493,
-      "name": "Say You'll Be Mine",
-      "url": "https://open.spotify.com/track/7ys2QcBgHEIO6tyaRF2nOt"
-    },
-    {
       "added_at": "2022-01-26 21:27:23",
       "album": {
         "name": "The Nightfly",
@@ -1103,18 +1087,18 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
-        "name": "Something In The Night",
-        "url": "https://open.spotify.com/album/1TqLFWSHFnAZq5I7Xg0tti"
+        "name": "Christopher Cross",
+        "url": "https://open.spotify.com/album/2m2nl8cBT7bEgIA6LLmgah"
       },
       "artists": [
         {
-          "name": "Pure Prairie League",
-          "url": "https://open.spotify.com/artist/1MXwwmS2JpmsHZhdMeOL2s"
+          "name": "Christopher Cross",
+          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
         }
       ],
-      "duration_ms": 176640,
-      "name": "Still Right Here In My Heart",
-      "url": "https://open.spotify.com/track/5HZchgrpAreegk6UGs0zHr"
+      "duration_ms": 176493,
+      "name": "Say You'll Be Mine",
+      "url": "https://open.spotify.com/track/7ys2QcBgHEIO6tyaRF2nOt"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -1131,6 +1115,22 @@
       "duration_ms": 250173,
       "name": "MARGARITA",
       "url": "https://open.spotify.com/track/6FTkyVYA8sQv43TK28zJON"
+    },
+    {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
+        "name": "Something In The Night",
+        "url": "https://open.spotify.com/album/1TqLFWSHFnAZq5I7Xg0tti"
+      },
+      "artists": [
+        {
+          "name": "Pure Prairie League",
+          "url": "https://open.spotify.com/artist/1MXwwmS2JpmsHZhdMeOL2s"
+        }
+      ],
+      "duration_ms": 176640,
+      "name": "Still Right Here In My Heart",
+      "url": "https://open.spotify.com/track/5HZchgrpAreegk6UGs0zHr"
     },
     {
       "added_at": "2021-04-22 18:12:12",

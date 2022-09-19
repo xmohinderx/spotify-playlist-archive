@@ -1,12 +1,12 @@
 {
   "description": "Funk. But heavier. Cover: King's X",
-  "num_followers": 448453,
+  "num_followers": 448517,
   "original_name": "Funk Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg4MTcyMCwwMDAwMDAwMDc4ZDgxOTc0ODU5Y2U3N2VmNWQ1ZDVkZWUwNmE4NTUx",
+  "snapshot_id": "MTY2MDg4MTcyMCwwMDAwMDAwMGI1ZTcwNjI5ZjM2M2ZiYjVlYTkwNGU1YmZlZTFlNDYy",
   "tracks": [
     {
       "added_at": "2022-08-19 04:02:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
-        "name": "They Can't All Be Zingers",
-        "url": "https://open.spotify.com/album/3eI0FhygfWcdgI3GZdLXFT"
-      },
-      "artists": [
-        {
-          "name": "Primus",
-          "url": "https://open.spotify.com/artist/64mPnRMMeudAet0E62ypkx"
-        }
-      ],
-      "duration_ms": 191240,
-      "name": "Jerry Was A Race Car Driver",
-      "url": "https://open.spotify.com/track/0EMLtepZpcY9T64AVEmyyv"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
         "name": "Low (2017 Remaster)",
         "url": "https://open.spotify.com/album/2de6LD7eOW8zrlorbS28na"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 112400,
       "name": "Breaking Glass - 2017 Remaster",
       "url": "https://open.spotify.com/track/2xFq7wVYKmTHFUySyfv789"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
+        "name": "They Can't All Be Zingers",
+        "url": "https://open.spotify.com/album/3eI0FhygfWcdgI3GZdLXFT"
+      },
+      "artists": [
+        {
+          "name": "Primus",
+          "url": "https://open.spotify.com/artist/64mPnRMMeudAet0E62ypkx"
+        }
+      ],
+      "duration_ms": 191240,
+      "name": "Jerry Was A Race Car Driver",
+      "url": "https://open.spotify.com/track/0EMLtepZpcY9T64AVEmyyv"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -653,38 +653,6 @@
       "url": "https://open.spotify.com/track/3WBRoMyO2huOjKnrq0PaTX"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
-      "album": {
-        "name": "Perspective",
-        "url": "https://open.spotify.com/album/7f194oEr0tflRH7sUmtMyw"
-      },
-      "artists": [
-        {
-          "name": "Pigeons Playing Ping Pong",
-          "url": "https://open.spotify.com/artist/52NOvMXEjgf8MQl0qop2dl"
-        }
-      ],
-      "duration_ms": 390339,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/307UYyg68MlszzxHBEzmL5"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
-        "name": "They Can't All Be Zingers",
-        "url": "https://open.spotify.com/album/3eI0FhygfWcdgI3GZdLXFT"
-      },
-      "artists": [
-        {
-          "name": "Primus",
-          "url": "https://open.spotify.com/artist/64mPnRMMeudAet0E62ypkx"
-        }
-      ],
-      "duration_ms": 254560,
-      "name": "Tommy The Cat",
-      "url": "https://open.spotify.com/track/1efp2bPw7ssJpCi0Almgsx"
-    },
-    {
       "added_at": "2022-02-04 05:02:00",
       "album": {
         "name": "Betty Davis",
@@ -699,6 +667,22 @@
       "duration_ms": 272426,
       "name": "Anti Love Song",
       "url": "https://open.spotify.com/track/3zMVsONH6RZv528HANVm3Y"
+    },
+    {
+      "added_at": "2022-04-08 04:01:00",
+      "album": {
+        "name": "Perspective",
+        "url": "https://open.spotify.com/album/7f194oEr0tflRH7sUmtMyw"
+      },
+      "artists": [
+        {
+          "name": "Pigeons Playing Ping Pong",
+          "url": "https://open.spotify.com/artist/52NOvMXEjgf8MQl0qop2dl"
+        }
+      ],
+      "duration_ms": 390339,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/307UYyg68MlszzxHBEzmL5"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -751,6 +735,22 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
+        "name": "They Can't All Be Zingers",
+        "url": "https://open.spotify.com/album/3eI0FhygfWcdgI3GZdLXFT"
+      },
+      "artists": [
+        {
+          "name": "Primus",
+          "url": "https://open.spotify.com/artist/64mPnRMMeudAet0E62ypkx"
+        }
+      ],
+      "duration_ms": 254560,
+      "name": "Tommy The Cat",
+      "url": "https://open.spotify.com/track/1efp2bPw7ssJpCi0Almgsx"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
         "name": "Nothing's Shocking",
         "url": "https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa"
       },
@@ -799,22 +799,6 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
-        "name": "They Can't All Be Zingers",
-        "url": "https://open.spotify.com/album/3eI0FhygfWcdgI3GZdLXFT"
-      },
-      "artists": [
-        {
-          "name": "Primus",
-          "url": "https://open.spotify.com/artist/64mPnRMMeudAet0E62ypkx"
-        }
-      ],
-      "duration_ms": 285306,
-      "name": "My Name Is Mud",
-      "url": "https://open.spotify.com/track/7axVaL2WO7cC3fXxtd9Zlj"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
         "name": "Fishbone & The Familyhood Nextperience Presents The Psychotic Friends Nuttwerx",
         "url": "https://open.spotify.com/album/74V4Nn19XGD3iILWataq8Y"
       },
@@ -827,38 +811,6 @@
       "duration_ms": 224379,
       "name": "Shakey Ground",
       "url": "https://open.spotify.com/track/7426iYRovqN7S11kQdzVvd"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
-        "name": "Raise Vibration",
-        "url": "https://open.spotify.com/album/6zXOZuDsPTGu4yEKaTXzlH"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 319466,
-      "name": "Who Really Are the Monsters?",
-      "url": "https://open.spotify.com/track/3w1m4uW4EgWAxXyoKKUHDw"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
-        "name": "Soundsystem",
-        "url": "https://open.spotify.com/album/4m0jnlUGcgxFUjF7JfearQ"
-      },
-      "artists": [
-        {
-          "name": "311",
-          "url": "https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K"
-        }
-      ],
-      "duration_ms": 283026,
-      "name": "Sever",
-      "url": "https://open.spotify.com/track/1zBWVYRI8wPIazvRVHHFRO"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -879,6 +831,22 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
+        "name": "Soundsystem",
+        "url": "https://open.spotify.com/album/4m0jnlUGcgxFUjF7JfearQ"
+      },
+      "artists": [
+        {
+          "name": "311",
+          "url": "https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K"
+        }
+      ],
+      "duration_ms": 283026,
+      "name": "Sever",
+      "url": "https://open.spotify.com/track/1zBWVYRI8wPIazvRVHHFRO"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
         "name": "1995",
         "url": "https://open.spotify.com/album/6q5d76erR9hoQ5AzOzdcyN"
       },
@@ -891,6 +859,38 @@
       "duration_ms": 264933,
       "name": "Vinnie",
       "url": "https://open.spotify.com/track/3tjfHRqYYYRsMTQxUJuPB5"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
+        "name": "They Can't All Be Zingers",
+        "url": "https://open.spotify.com/album/3eI0FhygfWcdgI3GZdLXFT"
+      },
+      "artists": [
+        {
+          "name": "Primus",
+          "url": "https://open.spotify.com/artist/64mPnRMMeudAet0E62ypkx"
+        }
+      ],
+      "duration_ms": 285306,
+      "name": "My Name Is Mud",
+      "url": "https://open.spotify.com/track/7axVaL2WO7cC3fXxtd9Zlj"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
+        "name": "Raise Vibration",
+        "url": "https://open.spotify.com/album/6zXOZuDsPTGu4yEKaTXzlH"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 319466,
+      "name": "Who Really Are the Monsters?",
+      "url": "https://open.spotify.com/track/3w1m4uW4EgWAxXyoKKUHDw"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2022-02-04 05:02:00",
       "album": {
-        "name": "Dig",
-        "url": "https://open.spotify.com/album/0nUW7lioZIQNMXlsXjaOxy"
-      },
-      "artists": [
-        {
-          "name": "I Mother Earth",
-          "url": "https://open.spotify.com/artist/3zEJAyZ1qSHSx9936UfXuM"
-        }
-      ],
-      "duration_ms": 319066,
-      "name": "Rain Will Fall",
-      "url": "https://open.spotify.com/track/2fJHXL82X3wtyXMzcSifdj"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
         "name": "The Singles Collection",
         "url": "https://open.spotify.com/album/6MIl1ERfeaobCbKVAG7y3i"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 264306,
       "name": "Good Grief",
       "url": "https://open.spotify.com/track/4uNr9f4s35mXouHntXwVl6"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
+        "name": "Dig",
+        "url": "https://open.spotify.com/album/0nUW7lioZIQNMXlsXjaOxy"
+      },
+      "artists": [
+        {
+          "name": "I Mother Earth",
+          "url": "https://open.spotify.com/artist/3zEJAyZ1qSHSx9936UfXuM"
+        }
+      ],
+      "duration_ms": 319066,
+      "name": "Rain Will Fall",
+      "url": "https://open.spotify.com/track/2fJHXL82X3wtyXMzcSifdj"
     }
   ],
   "unique_name": "Funk Rock",

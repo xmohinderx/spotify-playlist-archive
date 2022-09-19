@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIEXqkZKKXl.md) - [plain]
 
 > Background scores to help you sail through the day
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,019 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,053 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,14 +14,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIEXqkZKKXl.md) - [plain]
 | 4 | [Heartbeat \- Instrumental](https://open.spotify.com/track/3n7qJSOyVke4JagcJ8FiSG) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ) | [Kal Ho Naa Ho \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6H71erprmvRxnWs3XqC8uE) | 4:23 |
 | 5 | [Meeting Place](https://open.spotify.com/track/09NCo4MjEUXzQ12sRoZBWJ) | [Ranbir Kapoor](https://open.spotify.com/artist/37IHSwzDKNSluvUgmWhOKZ) | [Rockstar](https://open.spotify.com/album/3RZxrS2dDZlbsYtMRM89v8) | 1:09 |
 | 6 | [The Dichotomy Of Fame](https://open.spotify.com/track/3SQxHIOVpQbt3a4uCH9Vuc) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Rockstar](https://open.spotify.com/album/3RZxrS2dDZlbsYtMRM89v8) | 2:40 |
-| 7 | [Om Shanti Om \(Instrumental\)](https://open.spotify.com/track/4kqUlN3craCx3ZIBIfhp2X) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb) | [Om Shanti Om](https://open.spotify.com/album/2cUzlmLfL5LUTSEk7qG09k) | 0:56 |
-| 8 | [Tum Se Hi \(Instrumental\)](https://open.spotify.com/track/6r7QuBSfe9Ooz2VcWAH9jw) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Jab We Met](https://open.spotify.com/album/4OYdTHNgjhXzgVjbqsb0tO) | 4:54 |
+| 7 | [Tum Se Hi \(Instrumental\)](https://open.spotify.com/track/6r7QuBSfe9Ooz2VcWAH9jw) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Jab We Met](https://open.spotify.com/album/4OYdTHNgjhXzgVjbqsb0tO) | 4:54 |
+| 8 | [Om Shanti Om \(Instrumental\)](https://open.spotify.com/track/4kqUlN3craCx3ZIBIfhp2X) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb) | [Om Shanti Om](https://open.spotify.com/album/2cUzlmLfL5LUTSEk7qG09k) | 0:56 |
 | 9 | [October Theme](https://open.spotify.com/track/3Kpz1I7PzvFGZ4mAA5WDSY) | [Shantanu Moitra](https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1) | [October](https://open.spotify.com/album/50K9juQj3cW0vn9usw7XgM) | 3:11 |
 | 10 | [Separation \- Instrumental](https://open.spotify.com/track/3GyffYdNhFgjmywjXt6spW) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ) | [Lakshya \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2U02MTp5MJnqV54xsJOVIe) | 2:29 |
 | 11 | [Tango For Taj](https://open.spotify.com/track/3mLdsGVuIG0jJAn8dQFvqU) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Rockstar](https://open.spotify.com/album/3RZxrS2dDZlbsYtMRM89v8) | 2:58 |
 | 12 | [Destroyed In Love \[Lounge Mix\] \(Instrumental\)](https://open.spotify.com/track/40S0GyHvtdogjOhiyP6i1o) | [Jatin\-Lalit](https://open.spotify.com/artist/4YgUVg4p7xtMOrOS4GjiJZ), [Prasoon Joshi](https://open.spotify.com/artist/0e7Xsukwik0zDaqCcSvJTg) | [Fanaa](https://open.spotify.com/album/2L3NV5Fxjrj6mi59Gs5tUx) | 4:50 |
-| 13 | [Akash's Love Theme](https://open.spotify.com/track/1glyMug7gR6ahQ8evXYqcy) | [Mike Harvey](https://open.spotify.com/artist/4SeAXyEmckKjoQoweI9fiT) | [Dil Chahta Hai](https://open.spotify.com/album/3Hks2UVvtQT8Q9VHRAJUgI) | 2:10 |
-| 14 | [Dor Theme](https://open.spotify.com/track/0pgw4O5h8wKOVplM54YMCx) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq) | [Dor \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7kiwHm9mwEnOjka8GrN9hS) | 1:49 |
+| 13 | [Dor Theme](https://open.spotify.com/track/0pgw4O5h8wKOVplM54YMCx) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq) | [Dor \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7kiwHm9mwEnOjka8GrN9hS) | 1:49 |
+| 14 | [Akash's Love Theme](https://open.spotify.com/track/1glyMug7gR6ahQ8evXYqcy) | [Mike Harvey](https://open.spotify.com/artist/4SeAXyEmckKjoQoweI9fiT) | [Dil Chahta Hai](https://open.spotify.com/album/3Hks2UVvtQT8Q9VHRAJUgI) | 2:10 |
 | 15 | [Veer'S Story – Saamiya'S Theme \(Instrumental\)](https://open.spotify.com/track/0cOi8CPOAhUgw1asVhQVdW) | [Madan Mohan](https://open.spotify.com/artist/5Uvn1P3OFu268QovsUAnDu), [Javed Akhtar](https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014) | [The Love Legend Themes: Veer\-Zaara Themes & Instrumental Scores](https://open.spotify.com/album/7cufmUMLy4bGanr9fc6Jnl) | 3:11 |
 | 16 | [Theme](https://open.spotify.com/track/1BxQvVVchZOL5bLGXRdXHs) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr) | [Udaan](https://open.spotify.com/album/675yMfRB6Diis4V1bJi4KL) | 2:47 |
 | 17 | [I'm On \(Theme\)](https://open.spotify.com/track/53smqbWww0YmOlRyRjZT1h) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb) | [Ra\-One](https://open.spotify.com/album/5x2eTJrbEvmOTEcWWWubLy) | 1:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIEXqkZKKXl.md) - [plain]
 | 49 | [Cherrapunji Instrumental \- Bheeg Gaya Mera Mann](https://open.spotify.com/track/1YuyMJ3BfzJnAgm5uZiUiA) | [Kailash Kher](https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4) | [Unchained Melodies](https://open.spotify.com/album/7lReU7R3QMMfVdn9SIT7UO) | 6:57 |
 | 50 | [Vegas Theme \- Instrumental](https://open.spotify.com/track/2AnjzK3GxOGf45ttwYxT4z) | [Ashirvad](https://open.spotify.com/artist/4BXd7j6uYCeZFgi3B5v3K7) | [Rockford \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0LUE9RNRU8IpGGYbpjtJpC) | 2:05 |
 
-Snapshot ID: `MTY1NzI2MjM3MCwwMDAwMDAwMGM2ZDk0ZjBjMDViYjEzZDMxM2UzYWY4MWI2ODZhNWU0`
+Snapshot ID: `MTY1NzI2MjM3MCwwMDAwMDAwMGY2OTQ1ZGQ5MjQ2ZmZlMzc2MmZjMDdkNmNiMTM4YWY5`

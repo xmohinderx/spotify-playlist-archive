@@ -1,12 +1,12 @@
 {
   "description": "J\u00f3venes y renovadas expresiones de la bella tradici\u00f3n mexicana. Majo Aguilar en portada. ",
-  "num_followers": 122438,
+  "num_followers": 122463,
   "original_name": "Mariachi Joven",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5OTYwMCwwMDAwMDAwMGI2ZTFlYzY4ODBhOGIyNDg3ZGVjYjY0NmUzYmRhZDIx",
+  "snapshot_id": "MTY2MjY5OTYwMCwwMDAwMDAwMDk5NGU2OTZmN2IyYjZiM2NjNjUzMzgzNTA4ZjE4Njcw",
   "tracks": [
     {
       "added_at": "2022-09-09 05:00:00",
@@ -555,6 +555,22 @@
     {
       "added_at": "2022-09-09 05:00:00",
       "album": {
+        "name": "Amor Ilegal",
+        "url": "https://open.spotify.com/album/65WCj2K3NGk7Qe63CKlvUW"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 170253,
+      "name": "Amor Ilegal",
+      "url": "https://open.spotify.com/track/4RBH4sNzQen0YqoIhqw7Eg"
+    },
+    {
+      "added_at": "2022-09-09 05:00:00",
+      "album": {
         "name": "Que Se Sepa Nuestro Amor",
         "url": "https://open.spotify.com/album/4x4PysnRPmxowKVz2RKGjr"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 179693,
       "name": "Que Se Sepa Nuestro Amor",
       "url": "https://open.spotify.com/track/62ODSzQJBgvz647ZaP9iym"
-    },
-    {
-      "added_at": "2022-09-09 05:00:00",
-      "album": {
-        "name": "Amor Ilegal",
-        "url": "https://open.spotify.com/album/65WCj2K3NGk7Qe63CKlvUW"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 170253,
-      "name": "Amor Ilegal",
-      "url": "https://open.spotify.com/track/4RBH4sNzQen0YqoIhqw7Eg"
     },
     {
       "added_at": "2022-09-09 05:00:00",

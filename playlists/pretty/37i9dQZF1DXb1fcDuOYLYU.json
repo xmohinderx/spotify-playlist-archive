@@ -1,12 +1,12 @@
 {
   "description": "Celebrate Women's History Month with these powerful voices. Cover: Greeicy",
-  "num_followers": 19453,
+  "num_followers": 19487,
   "original_name": "Women of Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ3NzQyMywwMDAwMDAwMGIxMWJhNDllZmU5ZjI1NjU2YWZmNzY2ZjY2N2U1ZTc3",
+  "snapshot_id": "MTY0ODQ3NzQyMywwMDAwMDAwMDRkYzMzZDBkMGRmNDM5NjRiZDU3ZWJlYzlmNzIyZTgz",
   "tracks": [
     {
       "added_at": "2022-03-28 14:23:43",
@@ -323,38 +323,6 @@
     {
       "added_at": "2022-03-28 14:23:43",
       "album": {
-        "name": "Soy Yo",
-        "url": "https://open.spotify.com/album/4HqL9DDTbrqBUFb6Pswcki"
-      },
-      "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Para Siempre",
-      "url": "https://open.spotify.com/track/3w6HBymB6v99gmhz4aiX1g"
-    },
-    {
-      "added_at": "2022-03-28 14:23:43",
-      "album": {
-        "name": "Limon Y Sal",
-        "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 205413,
-      "name": "Lim\u00f3n y Sal",
-      "url": "https://open.spotify.com/track/7dITAq1YP5e0kTcaDq4YWI"
-    },
-    {
-      "added_at": "2022-03-28 14:23:43",
-      "album": {
         "name": "LOCATION",
         "url": "https://open.spotify.com/album/4ipeZHF3UKl2AKFqDhBCXR"
       },
@@ -375,6 +343,38 @@
       "duration_ms": 265240,
       "name": "LOCATION",
       "url": "https://open.spotify.com/track/5Km4r87BoX2qqtoprYS1gh"
+    },
+    {
+      "added_at": "2022-03-28 14:23:43",
+      "album": {
+        "name": "Limon Y Sal",
+        "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 205413,
+      "name": "Lim\u00f3n y Sal",
+      "url": "https://open.spotify.com/track/7dITAq1YP5e0kTcaDq4YWI"
+    },
+    {
+      "added_at": "2022-03-28 14:23:43",
+      "album": {
+        "name": "Soy Yo",
+        "url": "https://open.spotify.com/album/4HqL9DDTbrqBUFb6Pswcki"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Para Siempre",
+      "url": "https://open.spotify.com/track/3w6HBymB6v99gmhz4aiX1g"
     },
     {
       "added_at": "2022-03-28 14:23:43",
@@ -483,6 +483,22 @@
     {
       "added_at": "2022-03-28 14:23:43",
       "album": {
+        "name": "Boys Don't Cry",
+        "url": "https://open.spotify.com/album/7vvalwoghtZRu2Cv35WDgV"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 136011,
+      "name": "Boys Don't Cry",
+      "url": "https://open.spotify.com/track/35COLcFjvONwVv6jkG23gI"
+    },
+    {
+      "added_at": "2022-03-28 14:23:43",
+      "album": {
         "name": "Oh Na Na",
         "url": "https://open.spotify.com/album/6gkAMKnELz3nS8KtSDTPko"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 203652,
       "name": "Oh Na Na",
       "url": "https://open.spotify.com/track/03NqHNdG3Ur6kciQWK6e8V"
-    },
-    {
-      "added_at": "2022-03-28 14:23:43",
-      "album": {
-        "name": "Boys Don't Cry",
-        "url": "https://open.spotify.com/album/7vvalwoghtZRu2Cv35WDgV"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 136011,
-      "name": "Boys Don't Cry",
-      "url": "https://open.spotify.com/track/35COLcFjvONwVv6jkG23gI"
     },
     {
       "added_at": "2022-03-28 14:23:43",
@@ -691,22 +691,6 @@
     {
       "added_at": "2022-03-28 14:23:43",
       "album": {
-        "name": "DPM (De Pxta Madre)",
-        "url": "https://open.spotify.com/album/3wqz214xgljSs28s9MqzkZ"
-      },
-      "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        }
-      ],
-      "duration_ms": 181684,
-      "name": "DPM (De Pxta Madre)",
-      "url": "https://open.spotify.com/track/37vqi0b9BqN0XN7QHLHTQ8"
-    },
-    {
-      "added_at": "2022-03-28 14:23:43",
-      "album": {
         "name": "+",
         "url": "https://open.spotify.com/album/6zardvJflEyoRedCUCBUw9"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 219367,
       "name": "+",
       "url": "https://open.spotify.com/track/5Cbo7oz78gqkzV3EAM63VA"
+    },
+    {
+      "added_at": "2022-03-28 14:23:43",
+      "album": {
+        "name": "DPM (De Pxta Madre)",
+        "url": "https://open.spotify.com/album/3wqz214xgljSs28s9MqzkZ"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        }
+      ],
+      "duration_ms": 181684,
+      "name": "DPM (De Pxta Madre)",
+      "url": "https://open.spotify.com/track/37vqi0b9BqN0XN7QHLHTQ8"
     },
     {
       "added_at": "2022-03-28 14:23:43",
@@ -799,26 +799,6 @@
     {
       "added_at": "2022-03-28 14:23:43",
       "album": {
-        "name": "Mesa Para Dos",
-        "url": "https://open.spotify.com/album/1ZGHMTg7kh6TRqDRkJyEHO"
-      },
-      "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        },
-        {
-          "name": "Nahuel Pennisi",
-          "url": "https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe"
-        }
-      ],
-      "duration_ms": 206674,
-      "name": "Lo Que en Ti Veo",
-      "url": "https://open.spotify.com/track/2cLOSF54zDP52z6ma8mivK"
-    },
-    {
-      "added_at": "2022-03-28 14:23:43",
-      "album": {
         "name": "Pa Mis Muchachas (feat. Nathy Peluso)",
         "url": "https://open.spotify.com/album/0WtOyuBYge9gx7X8MpCeeW"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 216737,
       "name": "Pa Mis Muchachas (feat. Nathy Peluso)",
       "url": "https://open.spotify.com/track/1kGhjFgl6A68ZAYvtw2UDK"
+    },
+    {
+      "added_at": "2022-03-28 14:23:43",
+      "album": {
+        "name": "Mesa Para Dos",
+        "url": "https://open.spotify.com/album/1ZGHMTg7kh6TRqDRkJyEHO"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        },
+        {
+          "name": "Nahuel Pennisi",
+          "url": "https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe"
+        }
+      ],
+      "duration_ms": 206674,
+      "name": "Lo Que en Ti Veo",
+      "url": "https://open.spotify.com/track/2cLOSF54zDP52z6ma8mivK"
     },
     {
       "added_at": "2022-03-28 14:23:43",
@@ -951,22 +951,18 @@
     {
       "added_at": "2022-03-28 14:23:43",
       "album": {
-        "name": "Santo",
-        "url": "https://open.spotify.com/album/4M6KWDyo4wi2wY9rxpV9RC"
+        "name": "Ag\u00fcita e Coco",
+        "url": "https://open.spotify.com/album/7tmpf27P7FaqCfHVk7YkDk"
       },
       "artists": [
         {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
         }
       ],
-      "duration_ms": 183414,
-      "name": "Santo",
-      "url": "https://open.spotify.com/track/2M6IDHdaSAyt7FcJcptHjj"
+      "duration_ms": 176759,
+      "name": "Ag\u00fcita e Coco",
+      "url": "https://open.spotify.com/track/34T7iPVVZcOoIThh32RJDi"
     },
     {
       "added_at": "2022-03-28 14:23:43",
@@ -987,18 +983,22 @@
     {
       "added_at": "2022-03-28 14:23:43",
       "album": {
-        "name": "Ag\u00fcita e Coco",
-        "url": "https://open.spotify.com/album/7tmpf27P7FaqCfHVk7YkDk"
+        "name": "Santo",
+        "url": "https://open.spotify.com/album/4M6KWDyo4wi2wY9rxpV9RC"
       },
       "artists": [
         {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
         }
       ],
-      "duration_ms": 176759,
-      "name": "Ag\u00fcita e Coco",
-      "url": "https://open.spotify.com/track/34T7iPVVZcOoIThh32RJDi"
+      "duration_ms": 183414,
+      "name": "Santo",
+      "url": "https://open.spotify.com/track/2M6IDHdaSAyt7FcJcptHjj"
     },
     {
       "added_at": "2022-03-28 14:23:43",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2022-03-28 14:23:43",
       "album": {
+        "name": "1977",
+        "url": "https://open.spotify.com/album/3ZhTbUZNobDXuzcYWGzxA3"
+      },
+      "artists": [
+        {
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+        }
+      ],
+      "duration_ms": 201986,
+      "name": "1977",
+      "url": "https://open.spotify.com/track/7tOAN6w4a1LD0iqkRnIrhZ"
+    },
+    {
+      "added_at": "2022-03-28 14:23:43",
+      "album": {
         "name": "Index",
         "url": "https://open.spotify.com/album/0a70673Gb7q0uqWyoCRy4J"
       },
@@ -1151,18 +1167,18 @@
     {
       "added_at": "2022-03-28 14:23:43",
       "album": {
-        "name": "1977",
-        "url": "https://open.spotify.com/album/3ZhTbUZNobDXuzcYWGzxA3"
+        "name": "Baila Esta Cumbia",
+        "url": "https://open.spotify.com/album/6MpiAS4mk0S7WRTX0l98z3"
       },
       "artists": [
         {
-          "name": "Ana Tijoux",
-          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 201986,
-      "name": "1977",
-      "url": "https://open.spotify.com/track/7tOAN6w4a1LD0iqkRnIrhZ"
+      "duration_ms": 200269,
+      "name": "No Me Queda M\u00e1s",
+      "url": "https://open.spotify.com/track/4CWNGOfdt0hBP5hBkQUX85"
     },
     {
       "added_at": "2022-03-28 14:23:43",
@@ -1199,22 +1215,6 @@
       "duration_ms": 255680,
       "name": "Valiente",
       "url": "https://open.spotify.com/track/60BzJsRXfql6GwO14IAiiZ"
-    },
-    {
-      "added_at": "2022-03-28 14:23:43",
-      "album": {
-        "name": "Baila Esta Cumbia",
-        "url": "https://open.spotify.com/album/6MpiAS4mk0S7WRTX0l98z3"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 200269,
-      "name": "No Me Queda M\u00e1s",
-      "url": "https://open.spotify.com/track/4CWNGOfdt0hBP5hBkQUX85"
     },
     {
       "added_at": "2022-03-28 14:23:43",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2022-03-28 14:23:43",
       "album": {
-        "name": "Cuando Vuelvas",
-        "url": "https://open.spotify.com/album/3CR8IuxBLpzBR1vjS9ONkJ"
-      },
-      "artists": [
-        {
-          "name": "Paty Cant\u00fa",
-          "url": "https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT"
-        }
-      ],
-      "duration_ms": 193120,
-      "name": "Cuando Vuelvas",
-      "url": "https://open.spotify.com/track/52s1L7krzR2JL4L1Vi7V3X"
-    },
-    {
-      "added_at": "2022-03-28 14:23:43",
-      "album": {
         "name": "Pa Ti + Lonely",
         "url": "https://open.spotify.com/album/006fEVu63b1nSxinsXZgAt"
       },
@@ -1363,22 +1347,6 @@
     {
       "added_at": "2022-03-28 14:23:43",
       "album": {
-        "name": "IDIOTA",
-        "url": "https://open.spotify.com/album/5HLaq4AONQkCMvFVHswg85"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 205013,
-      "name": "IDIOTA",
-      "url": "https://open.spotify.com/track/0Wk3MRrKRn6EPG7B83nKSJ"
-    },
-    {
-      "added_at": "2022-03-28 14:23:43",
-      "album": {
         "name": "Dicen Que Soy",
         "url": "https://open.spotify.com/album/5Bj8dRzPK5F1ozrV5IPb4u"
       },
@@ -1391,6 +1359,38 @@
       "duration_ms": 280013,
       "name": "Ese Hombre",
       "url": "https://open.spotify.com/track/1BK353EYyBMkDd80kmfrqA"
+    },
+    {
+      "added_at": "2022-03-28 14:23:43",
+      "album": {
+        "name": "Cuando Vuelvas",
+        "url": "https://open.spotify.com/album/3CR8IuxBLpzBR1vjS9ONkJ"
+      },
+      "artists": [
+        {
+          "name": "Paty Cant\u00fa",
+          "url": "https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT"
+        }
+      ],
+      "duration_ms": 193120,
+      "name": "Cuando Vuelvas",
+      "url": "https://open.spotify.com/track/52s1L7krzR2JL4L1Vi7V3X"
+    },
+    {
+      "added_at": "2022-03-28 14:23:43",
+      "album": {
+        "name": "IDIOTA",
+        "url": "https://open.spotify.com/album/5HLaq4AONQkCMvFVHswg85"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 205013,
+      "name": "IDIOTA",
+      "url": "https://open.spotify.com/track/0Wk3MRrKRn6EPG7B83nKSJ"
     },
     {
       "added_at": "2022-03-28 14:23:43",
@@ -1775,18 +1775,18 @@
     {
       "added_at": "2022-03-28 14:23:43",
       "album": {
-        "name": "Y T\u00fa No Est\u00e1s (Versi\u00f3n Banda)",
-        "url": "https://open.spotify.com/album/2XVDD8W0x6ahjgK5k29DHs"
+        "name": "Un Canto por M\u00e9xico, Vol. 1",
+        "url": "https://open.spotify.com/album/6yDcHjoEqNkkl9UC6KSlFE"
       },
       "artists": [
         {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 160203,
-      "name": "Y T\u00fa No Est\u00e1s - Versi\u00f3n Banda",
-      "url": "https://open.spotify.com/track/26Y1kBZAMkH5rGxv5nwfJx"
+      "duration_ms": 243253,
+      "name": "Veracruz",
+      "url": "https://open.spotify.com/track/6QlEtyGqmX4dXASVeEEEDH"
     },
     {
       "added_at": "2022-03-28 14:23:43",
@@ -1807,38 +1807,18 @@
     {
       "added_at": "2022-03-28 14:23:43",
       "album": {
-        "name": "Un Canto por M\u00e9xico, Vol. 1",
-        "url": "https://open.spotify.com/album/6yDcHjoEqNkkl9UC6KSlFE"
+        "name": "Y T\u00fa No Est\u00e1s (Versi\u00f3n Banda)",
+        "url": "https://open.spotify.com/album/2XVDD8W0x6ahjgK5k29DHs"
       },
       "artists": [
         {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
         }
       ],
-      "duration_ms": 243253,
-      "name": "Veracruz",
-      "url": "https://open.spotify.com/track/6QlEtyGqmX4dXASVeEEEDH"
-    },
-    {
-      "added_at": "2022-03-28 14:23:43",
-      "album": {
-        "name": "Qu\u00e9 Ser\u00e1",
-        "url": "https://open.spotify.com/album/3YsT4UC2mHKo7ax2cmoGGd"
-      },
-      "artists": [
-        {
-          "name": "Leslie Grace",
-          "url": "https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc"
-        },
-        {
-          "name": "Abraham Mateo",
-          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
-        }
-      ],
-      "duration_ms": 193982,
-      "name": "Qu\u00e9 Ser\u00e1",
-      "url": "https://open.spotify.com/track/0EixXz4ZIBS5sq7LjyN1VV"
+      "duration_ms": 160203,
+      "name": "Y T\u00fa No Est\u00e1s - Versi\u00f3n Banda",
+      "url": "https://open.spotify.com/track/26Y1kBZAMkH5rGxv5nwfJx"
     },
     {
       "added_at": "2022-03-28 14:23:43",
@@ -1859,6 +1839,26 @@
       "duration_ms": 187400,
       "name": "Me Voy",
       "url": "https://open.spotify.com/track/4Qolq4voNJaxnQNYzFsMLu"
+    },
+    {
+      "added_at": "2022-03-28 14:23:43",
+      "album": {
+        "name": "Qu\u00e9 Ser\u00e1",
+        "url": "https://open.spotify.com/album/3YsT4UC2mHKo7ax2cmoGGd"
+      },
+      "artists": [
+        {
+          "name": "Leslie Grace",
+          "url": "https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc"
+        },
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        }
+      ],
+      "duration_ms": 193982,
+      "name": "Qu\u00e9 Ser\u00e1",
+      "url": "https://open.spotify.com/track/0EixXz4ZIBS5sq7LjyN1VV"
     },
     {
       "added_at": "2022-03-28 14:23:43",
@@ -1915,18 +1915,18 @@
     {
       "added_at": "2022-03-28 14:23:43",
       "album": {
-        "name": "Monstruo (Pt. 1)",
-        "url": "https://open.spotify.com/album/2bxfZA2NjHPCMGF9pANMzp"
+        "name": "Extranjera",
+        "url": "https://open.spotify.com/album/4nw8mW9zWzm6mtD0UXeqJK"
       },
       "artists": [
         {
-          "name": "Cami",
-          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+          "name": "Claudia Prieto",
+          "url": "https://open.spotify.com/artist/3sjhqldeYK5lqWkyefb1jG"
         }
       ],
-      "duration_ms": 162640,
-      "name": "Vuelvo",
-      "url": "https://open.spotify.com/track/73xcMyVkC760tH1Jkfxzd6"
+      "duration_ms": 208000,
+      "name": "Extranjera",
+      "url": "https://open.spotify.com/track/2mffDxSjRPov1vMXTPGy9i"
     },
     {
       "added_at": "2022-03-28 14:23:43",
@@ -1947,18 +1947,18 @@
     {
       "added_at": "2022-03-28 14:23:43",
       "album": {
-        "name": "Extranjera",
-        "url": "https://open.spotify.com/album/4nw8mW9zWzm6mtD0UXeqJK"
+        "name": "Monstruo (Pt. 1)",
+        "url": "https://open.spotify.com/album/2bxfZA2NjHPCMGF9pANMzp"
       },
       "artists": [
         {
-          "name": "Claudia Prieto",
-          "url": "https://open.spotify.com/artist/3sjhqldeYK5lqWkyefb1jG"
+          "name": "Cami",
+          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
         }
       ],
-      "duration_ms": 208000,
-      "name": "Extranjera",
-      "url": "https://open.spotify.com/track/2mffDxSjRPov1vMXTPGy9i"
+      "duration_ms": 162640,
+      "name": "Vuelvo",
+      "url": "https://open.spotify.com/track/73xcMyVkC760tH1Jkfxzd6"
     },
     {
       "added_at": "2022-03-28 14:23:43",
@@ -2283,6 +2283,22 @@
     {
       "added_at": "2022-03-28 14:23:43",
       "album": {
+        "name": "Vogue",
+        "url": "https://open.spotify.com/album/0rRzrUT0vUVG9V7qyLpxPy"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        }
+      ],
+      "duration_ms": 182463,
+      "name": "Vogue",
+      "url": "https://open.spotify.com/track/7vYp30GiDVh3QQPdNsBWRo"
+    },
+    {
+      "added_at": "2022-03-28 14:23:43",
+      "album": {
         "name": "15",
         "url": "https://open.spotify.com/album/6xBbDNMmLKYeB61xJvmKq6"
       },
@@ -2303,22 +2319,6 @@
       "duration_ms": 180000,
       "name": "Restart",
       "url": "https://open.spotify.com/track/6lPzHeMLBsSF7CeeEC9eVp"
-    },
-    {
-      "added_at": "2022-03-28 14:23:43",
-      "album": {
-        "name": "Vogue",
-        "url": "https://open.spotify.com/album/0rRzrUT0vUVG9V7qyLpxPy"
-      },
-      "artists": [
-        {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
-        }
-      ],
-      "duration_ms": 182463,
-      "name": "Vogue",
-      "url": "https://open.spotify.com/track/7vYp30GiDVh3QQPdNsBWRo"
     },
     {
       "added_at": "2022-03-28 14:23:43",

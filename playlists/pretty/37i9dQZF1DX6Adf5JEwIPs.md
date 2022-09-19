@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo nuevo de la Música Mexicana\. Cover: Los Dos Carnales
 
-[Spotify](https://open.spotify.com/user/spotify) - 323,885 likes - 53 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 323,961 likes - 53 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

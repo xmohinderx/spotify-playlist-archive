@@ -1698,6 +1698,24 @@
     },
     {
       "album": {
+        "name": "Aquino e a Orquestra Invis\u00edvel",
+        "url": "https://open.spotify.com/album/39FjAAoFhZFSZhyl63dlqe"
+      },
+      "artists": [
+        {
+          "name": "Aquino e a Orquestra Invis\u00edvel",
+          "url": "https://open.spotify.com/artist/52fjZORhR21B9pR9kORRTA"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173880,
+      "name": "MTV",
+      "url": "https://open.spotify.com/track/33fnVp55zYGLfhWBgl2j9O"
+    },
+    {
+      "album": {
         "name": "Muito Al\u00e9m",
         "url": "https://open.spotify.com/album/79oYYVtlbJwuOnYAToJqcp"
       },
@@ -2255,7 +2273,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-05",
+      "date_removed": null,
       "duration_ms": 151232,
       "name": "Press\u00e3o",
       "url": "https://open.spotify.com/track/1r2a7CeiInrCrVvFn3UMJS"
@@ -2379,7 +2397,7 @@
       ],
       "date_added": "2022-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 256000,
       "name": "p\u00f3s t\u00e9rmino",
       "url": "https://open.spotify.com/track/0OChPc6tW4MSzhuoLBVnVa"
@@ -2883,7 +2901,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 136002,
       "name": "TARA",
       "url": "https://open.spotify.com/track/2mci9VwSkwtxPaMGKJqOvt"

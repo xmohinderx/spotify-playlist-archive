@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8ZRTfalHk.md) - [plain]
 
 > The hits of tomorrow are on Spotify today\. Cover: FLETCHER
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,667,105 likes - 86 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,667,863 likes - 86 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

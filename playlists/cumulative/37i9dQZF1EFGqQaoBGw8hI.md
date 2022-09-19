@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39fbSwb9AskCpA36373pZL">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-484 songs - 1 day 11 hr 25 min - [published](https://open.spotify.com/playlist/1V8qoYuXAl3nBrjXBEwYzP)
+485 songs - 1 day 11 hr 29 min - [published](https://open.spotify.com/playlist/1V8qoYuXAl3nBrjXBEwYzP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,7 +178,7 @@
 | [Holiday Inn](https://open.spotify.com/track/7ufKmUVZaevb5uLk5QjlwA) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Madman Across The Water](https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr) | 4:16 | 2022-09-08 |  |
 | [Holy Moly](https://open.spotify.com/track/6L8XA0NcRcgsJBXKxXXGwe) | [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y) | [Eardrum](https://open.spotify.com/album/4gjttixmMAKMzzfrfGmDGr) | 2:08 | 2022-09-08 |  |
 | [Home Again](https://open.spotify.com/track/5tOe9RlhnwZ4JuymPJDC1h) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Diving Board \(Deluxe Version\)](https://open.spotify.com/album/6NhOx6UV8nYDgrzPquDFLh) | 5:01 | 2022-09-08 |  |
-| [Honey Roll \- From “Friends” Soundtrack](https://open.spotify.com/track/3gAZbNS5QMbRvYRFEqyLQE) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Rare Masters](https://open.spotify.com/album/2ozX7odhzuW1PN1v8dpsxQ) | 3:07 | 2022-09-08 |  |
+| [Honey Roll \- From “Friends” Soundtrack](https://open.spotify.com/track/3gAZbNS5QMbRvYRFEqyLQE) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Rare Masters](https://open.spotify.com/album/2ozX7odhzuW1PN1v8dpsxQ) | 3:07 | 2022-09-08 | 2022-09-19 |
 | [Honky Cat](https://open.spotify.com/track/1plcM0XlbKdjND7Ufokuzb) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Honky Chateau](https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075) | 5:13 | 2022-09-08 |  |
 | [Hoop Of Fire](https://open.spotify.com/track/5E77V6ErhqNdoEsDumSFeT) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Leather Jackets](https://open.spotify.com/album/6LJWMUVW2N2vvshxq3XCS6) | 4:15 | 2022-09-08 |  |
 | [Hourglass \- Band Version](https://open.spotify.com/track/0rbkK4CMgCgc0m1q8LL19o) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 2:48 | 2022-09-08 |  |
@@ -461,6 +461,7 @@
 | [Vero Amore](https://open.spotify.com/track/6L9L1Dnqn97mwVmHOm2iv3) | [Jonathan & Charlotte](https://open.spotify.com/artist/2haot4oxbeveqxow85SbTa) | [Together](https://open.spotify.com/album/1FGOPK6ULN88ECEPrTbiNM) | 3:18 | 2022-09-08 |  |
 | [Voyeur](https://open.spotify.com/track/2RdAw1XJ6wfz26XqLgwuWE) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Diving Board \(Deluxe Version\)](https://open.spotify.com/album/6NhOx6UV8nYDgrzPquDFLh) | 4:16 | 2022-09-08 |  |
 | [Walk of Shame](https://open.spotify.com/track/7byHhHTTpN8FKSFlqb5yhf) | [Iration](https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk) | [No Time For Rest](https://open.spotify.com/album/4IY0k3z5JHzC3j5P4Nkt6D) | 3:52 | 2022-09-08 |  |
+| [Watching The Planes Go By \- Band Version](https://open.spotify.com/track/2NBBAVqS1fH398J5nJQ6F8) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 4:10 | 2022-09-18 |  |
 | [We All Fall In Love Sometimes](https://open.spotify.com/track/5HbZRiMNwwoU2ccEOxij6N) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Revamp: The Songs Of Elton John & Bernie Taupin](https://open.spotify.com/album/2w667CqWz0JWkhxP7IfijA) | 3:59 | 2022-09-08 |  |
 | [We All Fall In Love Sometimes](https://open.spotify.com/track/2DDpuUJC2YAFGCDC0UbKct) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Captain Fantastic And The Brown Dirt Cowboy](https://open.spotify.com/album/4UcpKa4yD9AA3iEHI8MFSF) | 4:12 | 2022-09-08 |  |
 | [Weight of the World](https://open.spotify.com/track/06mmWLzmOBJCEheQiVtT6p) | [Pigeon John](https://open.spotify.com/artist/3RfeWhoxAqlNRNcywG7RJj), [DJ Rhettmatic](https://open.spotify.com/artist/0FmyYKhDdIuvAJ3niqQtqD), [Brother Ali](https://open.spotify.com/artist/6CsleyOZtyt16saX8WhzDx), [J\-Live](https://open.spotify.com/artist/5bb5uytW59wDF0gpv8iQbE) | [Pigeon John and the Summertime Pool Party](https://open.spotify.com/album/18x1c1FezqvcG50aEbTYh9) | 3:38 | 2022-09-08 |  |

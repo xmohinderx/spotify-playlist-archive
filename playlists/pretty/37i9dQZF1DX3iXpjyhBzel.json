@@ -1,12 +1,12 @@
 {
   "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Julliany Souza, Isadora Pompeo",
-  "num_followers": 857069,
+  "num_followers": 857339,
   "original_name": "Louvor & Adora\u00e7\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5MjQwMCwwMDAwMDAwMDcxYjk0OGNmZTVhNzc1Y2IyMzEyZTFhN2FkYjIzODUy",
+  "snapshot_id": "MTY2MjY5MjQwMCwwMDAwMDAwMDhjZDViNGZmYTAxNzRkZmQ3NjllZGMyNTAwNWNhZDAw",
   "tracks": [
     {
       "added_at": "2022-09-09 03:00:00",
@@ -123,22 +123,18 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Esperan\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0rwf0I8OhfjB41anIMABWO"
+        "name": "Ele \u00c9 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6iDiVYY9MniV45VytnW5MP"
       },
       "artists": [
         {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        },
-        {
-          "name": "Gabriel Guedes de Almeida",
-          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
+          "name": "MORADA",
+          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
         }
       ],
-      "duration_ms": 319866,
-      "name": "Esperan\u00e7a - Ao Vivo",
-      "url": "https://open.spotify.com/track/78cNvkjEB5SwU3xz7QyWGc"
+      "duration_ms": 372173,
+      "name": "\u00c9 Tudo Sobre Voc\u00ea - Ao Vivo",
+      "url": "https://open.spotify.com/track/47j8u38wfvxdQeRA7TBJrB"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -159,18 +155,22 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Ele \u00c9 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6iDiVYY9MniV45VytnW5MP"
+        "name": "Esperan\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0rwf0I8OhfjB41anIMABWO"
       },
       "artists": [
         {
-          "name": "MORADA",
-          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        },
+        {
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
         }
       ],
-      "duration_ms": 372173,
-      "name": "\u00c9 Tudo Sobre Voc\u00ea - Ao Vivo",
-      "url": "https://open.spotify.com/track/47j8u38wfvxdQeRA7TBJrB"
+      "duration_ms": 319866,
+      "name": "Esperan\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/78cNvkjEB5SwU3xz7QyWGc"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -191,26 +191,6 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "A B\u00ean\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/6Q9PrTuJMZuKgjtQMm8RR4"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Guedes de Almeida",
-          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
-        },
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 357160,
-      "name": "A B\u00ean\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/1evlfCwP69atq9ahcTggiu"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
         "name": "Por Causa Dele",
         "url": "https://open.spotify.com/album/6tYiLNL7m3QtrGfFb4h0Y4"
       },
@@ -227,6 +207,26 @@
       "duration_ms": 352396,
       "name": "Por Causa Dele - Ao Vivo",
       "url": "https://open.spotify.com/track/3fpsR525Hmk4eBm5wfJIQW"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
+        "name": "A B\u00ean\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/6Q9PrTuJMZuKgjtQMm8RR4"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
+        },
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 357160,
+      "name": "A B\u00ean\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/1evlfCwP69atq9ahcTggiu"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -735,18 +735,18 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Foi Deus",
-        "url": "https://open.spotify.com/album/1qmmBWIGwBNJR0iWzvy5qo"
+        "name": "Ele Vir\u00e1",
+        "url": "https://open.spotify.com/album/6BqqnFgLjwmBtkZHQraTW7"
       },
       "artists": [
         {
-          "name": "Davi Sacer",
-          "url": "https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx"
+          "name": "Marcelo Markes",
+          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
         }
       ],
-      "duration_ms": 453941,
-      "name": "Foi Deus",
-      "url": "https://open.spotify.com/track/47zHQVLf1JANzOYVX2bsVB"
+      "duration_ms": 296865,
+      "name": "Ele Vir\u00e1",
+      "url": "https://open.spotify.com/track/1l69icARTslZeLwFzwAVk0"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -771,18 +771,18 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Ele Vir\u00e1",
-        "url": "https://open.spotify.com/album/6BqqnFgLjwmBtkZHQraTW7"
+        "name": "Foi Deus",
+        "url": "https://open.spotify.com/album/1qmmBWIGwBNJR0iWzvy5qo"
       },
       "artists": [
         {
-          "name": "Marcelo Markes",
-          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
+          "name": "Davi Sacer",
+          "url": "https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx"
         }
       ],
-      "duration_ms": 296865,
-      "name": "Ele Vir\u00e1",
-      "url": "https://open.spotify.com/track/1l69icARTslZeLwFzwAVk0"
+      "duration_ms": 453941,
+      "name": "Foi Deus",
+      "url": "https://open.spotify.com/track/47zHQVLf1JANzOYVX2bsVB"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -899,26 +899,6 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Meu Abrigo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6ZycqdebG7YEeX2LiVZEuW"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        },
-        {
-          "name": "Hananiel Eduardo",
-          "url": "https://open.spotify.com/artist/6jcaFu5t6OajYlT3inEMkM"
-        }
-      ],
-      "duration_ms": 299746,
-      "name": "Meu Abrigo - Ao Vivo",
-      "url": "https://open.spotify.com/track/4KDyhuFpO8CYyoz8TsHc7S"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
         "name": "Tu E\u0301s Fiel",
         "url": "https://open.spotify.com/album/1ynTnCdCBEL22jMTjWGG5N"
       },
@@ -939,18 +919,22 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Quebro Meu Vaso",
-        "url": "https://open.spotify.com/album/13Wq5d9gRK2l5SScsiiXO2"
+        "name": "Meu Abrigo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6ZycqdebG7YEeX2LiVZEuW"
       },
       "artists": [
         {
-          "name": "Luma Elpidio",
-          "url": "https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR"
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        },
+        {
+          "name": "Hananiel Eduardo",
+          "url": "https://open.spotify.com/artist/6jcaFu5t6OajYlT3inEMkM"
         }
       ],
-      "duration_ms": 313141,
-      "name": "Quebro Meu Vaso",
-      "url": "https://open.spotify.com/track/6g88LTq36Dhe7Dgl3mRph3"
+      "duration_ms": 299746,
+      "name": "Meu Abrigo - Ao Vivo",
+      "url": "https://open.spotify.com/track/4KDyhuFpO8CYyoz8TsHc7S"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -967,6 +951,22 @@
       "duration_ms": 365080,
       "name": "Quero Voltar Pra Casa - Ao Vivo",
       "url": "https://open.spotify.com/track/1Tox82hir9fKOLRl70XeD3"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
+        "name": "Quebro Meu Vaso",
+        "url": "https://open.spotify.com/album/13Wq5d9gRK2l5SScsiiXO2"
+      },
+      "artists": [
+        {
+          "name": "Luma Elpidio",
+          "url": "https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR"
+        }
+      ],
+      "duration_ms": 313141,
+      "name": "Quebro Meu Vaso",
+      "url": "https://open.spotify.com/track/6g88LTq36Dhe7Dgl3mRph3"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -991,6 +991,22 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
+        "name": "Eu Vou Construir",
+        "url": "https://open.spotify.com/album/4KeInSoEi4lcW498jnvbdH"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 409459,
+      "name": "Eu Vou Construir",
+      "url": "https://open.spotify.com/track/4DVIA9RLre5v407SeMerY3"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
         "name": "Seu Amor Me Persegue (Studio)",
         "url": "https://open.spotify.com/album/2C2DPyXztvrrDzgKEdCAXI"
       },
@@ -1011,22 +1027,6 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Eu Vou Construir",
-        "url": "https://open.spotify.com/album/4KeInSoEi4lcW498jnvbdH"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 409459,
-      "name": "Eu Vou Construir",
-      "url": "https://open.spotify.com/track/4DVIA9RLre5v407SeMerY3"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
         "name": "Me Deixe Aqui / Tudo Entregarei (Ao Vivo)",
         "url": "https://open.spotify.com/album/1XzaVO3g4JZm1G7409Jhmh"
       },
@@ -1039,22 +1039,6 @@
       "duration_ms": 293617,
       "name": "Me Deixe Aqui / Tudo Entregarei - Ao Vivo",
       "url": "https://open.spotify.com/track/4rnKaImzygSRU5PjOElJRa"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
-        "name": "Em Teus Bra\u00e7os (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6tnVUVvyThn4CyA8gO8Oik"
-      },
-      "artists": [
-        {
-          "name": "Lukas Agustinho",
-          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
-        }
-      ],
-      "duration_ms": 255600,
-      "name": "Em Teus Bra\u00e7os - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3prDqIeQ71JN430YOl55eB"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -1075,6 +1059,22 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
+        "name": "Em Teus Bra\u00e7os (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6tnVUVvyThn4CyA8gO8Oik"
+      },
+      "artists": [
+        {
+          "name": "Lukas Agustinho",
+          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
+        }
+      ],
+      "duration_ms": 255600,
+      "name": "Em Teus Bra\u00e7os - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3prDqIeQ71JN430YOl55eB"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
         "name": "Vou Deixar na Cruz",
         "url": "https://open.spotify.com/album/3xEYEcm82oef6MVbjiRUrC"
       },
@@ -1087,6 +1087,26 @@
       "duration_ms": 334692,
       "name": "Vou Deixar na Cruz",
       "url": "https://open.spotify.com/track/1zJCjjA3FRdjPvf2Dex7u2"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
+        "name": "S\u00f3 Existe Um Lugar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/468Y9pHDkKf8u6oLHWrimN"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        },
+        {
+          "name": "Isaias Saad",
+          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
+        }
+      ],
+      "duration_ms": 427917,
+      "name": "S\u00f3 Existe Um Lugar - Ao Vivo",
+      "url": "https://open.spotify.com/track/3oVtUUirowVa9DEtjazJVq"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -1171,46 +1191,6 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Outro Na Fornalha (Another In The Fire) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/6X6Akp6urVW7Y8hA3CGeiA"
-      },
-      "artists": [
-        {
-          "name": "Mari Borges",
-          "url": "https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6"
-        },
-        {
-          "name": "Sarah Beatriz",
-          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
-        }
-      ],
-      "duration_ms": 269840,
-      "name": "Outro Na Fornalha (Another In The Fire) - Ao Vivo",
-      "url": "https://open.spotify.com/track/50RxCp8dmcpd5P66b95u68"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
-        "name": "S\u00f3 Existe Um Lugar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/468Y9pHDkKf8u6oLHWrimN"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        },
-        {
-          "name": "Isaias Saad",
-          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
-        }
-      ],
-      "duration_ms": 427917,
-      "name": "S\u00f3 Existe Um Lugar - Ao Vivo",
-      "url": "https://open.spotify.com/track/3oVtUUirowVa9DEtjazJVq"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
         "name": "Aguente, Guerreiro",
         "url": "https://open.spotify.com/album/0Mw1rrmkJG26yxolCSW7l9"
       },
@@ -1231,18 +1211,22 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Sol da Justi\u00e7a",
-        "url": "https://open.spotify.com/album/2b0uRqyJN2B1Q0M4sUoi1w"
+        "name": "Outro Na Fornalha (Another In The Fire) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/6X6Akp6urVW7Y8hA3CGeiA"
       },
       "artists": [
         {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+          "name": "Mari Borges",
+          "url": "https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6"
+        },
+        {
+          "name": "Sarah Beatriz",
+          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
         }
       ],
-      "duration_ms": 341962,
-      "name": "Sol da Justi\u00e7a",
-      "url": "https://open.spotify.com/track/0M6CaZejftGPBvx9S0aQiD"
+      "duration_ms": 269840,
+      "name": "Outro Na Fornalha (Another In The Fire) - Ao Vivo",
+      "url": "https://open.spotify.com/track/50RxCp8dmcpd5P66b95u68"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -1283,6 +1267,22 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
+        "name": "Sol da Justi\u00e7a",
+        "url": "https://open.spotify.com/album/2b0uRqyJN2B1Q0M4sUoi1w"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 341962,
+      "name": "Sol da Justi\u00e7a",
+      "url": "https://open.spotify.com/track/0M6CaZejftGPBvx9S0aQiD"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
         "name": "Vai Ter Vida A\u00ed",
         "url": "https://open.spotify.com/album/1ZozrNvdcx0F6vmowuIuiX"
       },
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Ton Canta, Vol. 2",
-        "url": "https://open.spotify.com/album/6CuBKE2wSnkXV8FVyRql8X"
-      },
-      "artists": [
-        {
-          "name": "Ton Carfi",
-          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
-        }
-      ],
-      "duration_ms": 280520,
-      "name": "Primeira Ess\u00eancia",
-      "url": "https://open.spotify.com/track/2E5vUmPIQLIuqV0gE67bWy"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
         "name": "Este \u00e9 o Som da Tua Noiva | Eu S\u00f3 Quero Te Amar",
         "url": "https://open.spotify.com/album/3ltmkD8eGzyKfH0zuwlucN"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 663370,
       "name": "Este \u00e9 o Som da Tua Noiva | Eu S\u00f3 Quero Te Amar",
       "url": "https://open.spotify.com/track/1ElihpcKELnES7MoJWA1LF"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
+        "name": "Ton Canta, Vol. 2",
+        "url": "https://open.spotify.com/album/6CuBKE2wSnkXV8FVyRql8X"
+      },
+      "artists": [
+        {
+          "name": "Ton Carfi",
+          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
+        }
+      ],
+      "duration_ms": 280520,
+      "name": "Primeira Ess\u00eancia",
+      "url": "https://open.spotify.com/track/2E5vUmPIQLIuqV0gE67bWy"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
+        "name": "Transforma\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/0TZjYSwxgZgbmAA1756mT5"
+      },
+      "artists": [
+        {
+          "name": "Anderson Freire",
+          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
+        }
+      ],
+      "duration_ms": 312726,
+      "name": "Transforma\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/3vUTz0lUcDLNUODDL58EPv"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
         "name": "Mais Que Uma Voz / A Ele a Gl\u00f3ria",
         "url": "https://open.spotify.com/album/1sPNFLs4tFZmpMLep14OgN"
       },
@@ -1395,18 +1411,18 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "Transforma\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/0TZjYSwxgZgbmAA1756mT5"
+        "name": "Vinde A Mim",
+        "url": "https://open.spotify.com/album/7bOk8D9ftAplKwunRQamun"
       },
       "artists": [
         {
-          "name": "Anderson Freire",
-          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
+          "name": "Gabriela Gomes",
+          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
         }
       ],
-      "duration_ms": 312726,
-      "name": "Transforma\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/3vUTz0lUcDLNUODDL58EPv"
+      "duration_ms": 329262,
+      "name": "Vinde A Mim",
+      "url": "https://open.spotify.com/track/74x0zAixJTR1kaXQRzO9uJ"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -1423,42 +1439,6 @@
       "duration_ms": 411457,
       "name": "Furioso Amor",
       "url": "https://open.spotify.com/track/5YmCD6XNHTWgQqoxwLGmHG"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
-        "name": "Eis-me Aqui (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3htXOXY0fw7xL2SQbM6asn"
-      },
-      "artists": [
-        {
-          "name": "Thaiane Seghetto",
-          "url": "https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG"
-        },
-        {
-          "name": "Marcelo Markes",
-          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
-        }
-      ],
-      "duration_ms": 304426,
-      "name": "Eis-me Aqui - Ao Vivo",
-      "url": "https://open.spotify.com/track/30HIrYrqVauHKnGQKEavBS"
-    },
-    {
-      "added_at": "2022-09-09 03:00:00",
-      "album": {
-        "name": "Vinde A Mim",
-        "url": "https://open.spotify.com/album/7bOk8D9ftAplKwunRQamun"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Gomes",
-          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
-        }
-      ],
-      "duration_ms": 329262,
-      "name": "Vinde A Mim",
-      "url": "https://open.spotify.com/track/74x0zAixJTR1kaXQRzO9uJ"
     },
     {
       "added_at": "2022-09-09 03:00:00",
@@ -1483,6 +1463,22 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
+        "name": "N\u00e3o Posso Desistir",
+        "url": "https://open.spotify.com/album/0nuJ9Ohww9T23k3MDESFg3"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 216918,
+      "name": "N\u00e3o Posso Desistir",
+      "url": "https://open.spotify.com/track/2cgCsP1m4K4tilrfRw9nM3"
+    },
+    {
+      "added_at": "2022-09-09 03:00:00",
+      "album": {
         "name": "Te Desejamos (Ao Vivo)",
         "url": "https://open.spotify.com/album/1vxNS67P8ZEj4gmwncHi5c"
       },
@@ -1499,18 +1495,22 @@
     {
       "added_at": "2022-09-09 03:00:00",
       "album": {
-        "name": "N\u00e3o Posso Desistir",
-        "url": "https://open.spotify.com/album/0nuJ9Ohww9T23k3MDESFg3"
+        "name": "Eis-me Aqui (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3htXOXY0fw7xL2SQbM6asn"
       },
       "artists": [
         {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+          "name": "Thaiane Seghetto",
+          "url": "https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG"
+        },
+        {
+          "name": "Marcelo Markes",
+          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
         }
       ],
-      "duration_ms": 216918,
-      "name": "N\u00e3o Posso Desistir",
-      "url": "https://open.spotify.com/track/2cgCsP1m4K4tilrfRw9nM3"
+      "duration_ms": 304426,
+      "name": "Eis-me Aqui - Ao Vivo",
+      "url": "https://open.spotify.com/track/30HIrYrqVauHKnGQKEavBS"
     },
     {
       "added_at": "2022-09-09 03:00:00",

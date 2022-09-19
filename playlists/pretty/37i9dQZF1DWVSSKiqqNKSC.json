@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Cover: Celia Cruz",
-  "num_followers": 185294,
+  "num_followers": 185402,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5ODM3NDY2NiwwMDAwMDAwMGNmYjU3ZTBjNThiMmQxNzU2NTg3MWFhYjg3OGNhOGUw",
+  "snapshot_id": "MTU5ODM3NDY2NiwwMDAwMDAwMGQyMzE4MmNlNzdhZTFlNDI0ZWZhMzM1NGQyNWI0ODdm",
   "tracks": [
     {
       "added_at": "2020-08-25 16:57:45",
@@ -575,6 +575,22 @@
     {
       "added_at": "2020-08-25 16:57:45",
       "album": {
+        "name": "Mayimbe Full",
+        "url": "https://open.spotify.com/album/38iX3I9Fltkp1vk2YVVMW4"
+      },
+      "artists": [
+        {
+          "name": "Barbaro Fines Fortes",
+          "url": "https://open.spotify.com/artist/5dy82Vo7ZLBvDh0ou5PMl4"
+        }
+      ],
+      "duration_ms": 330397,
+      "name": "El Tren Bala",
+      "url": "https://open.spotify.com/track/6Ce8ZkhywFGaWmZnXeUBUA"
+    },
+    {
+      "added_at": "2020-08-25 16:57:45",
+      "album": {
         "name": "Los Amigos",
         "url": "https://open.spotify.com/album/2ijH9wDqj60doCygkf1ieY"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 382360,
       "name": "Agua De Clavelito",
       "url": "https://open.spotify.com/track/5AWbnZ1k5cMwUAJ3uIIdcl"
-    },
-    {
-      "added_at": "2020-08-25 16:57:45",
-      "album": {
-        "name": "Mayimbe Full",
-        "url": "https://open.spotify.com/album/38iX3I9Fltkp1vk2YVVMW4"
-      },
-      "artists": [
-        {
-          "name": "Barbaro Fines Fortes",
-          "url": "https://open.spotify.com/artist/5dy82Vo7ZLBvDh0ou5PMl4"
-        }
-      ],
-      "duration_ms": 330397,
-      "name": "El Tren Bala",
-      "url": "https://open.spotify.com/track/6Ce8ZkhywFGaWmZnXeUBUA"
     },
     {
       "added_at": "2020-08-25 16:57:45",
@@ -739,22 +739,6 @@
     {
       "added_at": "2020-08-25 16:57:45",
       "album": {
-        "name": "Qu\u00e9 Sorpresa",
-        "url": "https://open.spotify.com/album/6rUbV5YhPvlqsYTXO3Mjig"
-      },
-      "artists": [
-        {
-          "name": "Alexander Abreu and Havana D' Primera",
-          "url": "https://open.spotify.com/artist/6SE3JOfUEXlxp0iUKzzLLI"
-        }
-      ],
-      "duration_ms": 360957,
-      "name": "Qu\u00e9 Sorpresa",
-      "url": "https://open.spotify.com/track/0WEUAHwL8buyzLIM5NMgN5"
-    },
-    {
-      "added_at": "2020-08-25 16:57:45",
-      "album": {
         "name": "Latin Fitness 2015 (Workout Party Music - Latin Hits ideal for Running, Fat Burning, Aerobic, Gym, Cardio, Training, Exercise)",
         "url": "https://open.spotify.com/album/16tOGqmdb9JZMykQt8HBCH"
       },
@@ -779,6 +763,22 @@
     {
       "added_at": "2020-08-25 16:57:45",
       "album": {
+        "name": "Qu\u00e9 Sorpresa",
+        "url": "https://open.spotify.com/album/6rUbV5YhPvlqsYTXO3Mjig"
+      },
+      "artists": [
+        {
+          "name": "Alexander Abreu and Havana D' Primera",
+          "url": "https://open.spotify.com/artist/6SE3JOfUEXlxp0iUKzzLLI"
+        }
+      ],
+      "duration_ms": 360957,
+      "name": "Qu\u00e9 Sorpresa",
+      "url": "https://open.spotify.com/track/0WEUAHwL8buyzLIM5NMgN5"
+    },
+    {
+      "added_at": "2020-08-25 16:57:45",
+      "album": {
         "name": "Que No Me Controlen",
         "url": "https://open.spotify.com/album/3T7xTNUfhefkNlgynjE4GN"
       },
@@ -799,18 +799,22 @@
     {
       "added_at": "2020-08-25 16:57:45",
       "album": {
-        "name": "Tibiri Tabara",
-        "url": "https://open.spotify.com/album/22HGndY6yvYJbtySZCkHt4"
+        "name": "Yo Vengo de Cuba (feat. Havana D' Primera)",
+        "url": "https://open.spotify.com/album/2rvfJUNyzz6JrSdqgHZGi6"
       },
       "artists": [
         {
-          "name": "Sierra Maestra",
-          "url": "https://open.spotify.com/artist/04azg2bFlSz46nOe03VY2w"
+          "name": "FredyClan",
+          "url": "https://open.spotify.com/artist/1rsRdI8sk9RqrfdPzLqmWE"
+        },
+        {
+          "name": "Havana D\u2019Primera",
+          "url": "https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA"
         }
       ],
-      "duration_ms": 313133,
-      "name": "D\u00f3nde Va Chichi?",
-      "url": "https://open.spotify.com/track/7xpJQcmsnGG9ojztoCNe54"
+      "duration_ms": 288012,
+      "name": "Yo Vengo de Cuba (feat. Havana D' Primera)",
+      "url": "https://open.spotify.com/track/2Tq5qXd9wmX2dxE69EV8od"
     },
     {
       "added_at": "2020-08-25 16:57:45",

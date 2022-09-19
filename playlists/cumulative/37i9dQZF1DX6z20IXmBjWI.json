@@ -409,7 +409,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-09-19",
       "duration_ms": 167164,
       "name": "Before You",
       "url": "https://open.spotify.com/track/6d8q33UrhmaumDVf0WaB9t"
@@ -1391,6 +1391,24 @@
       "duration_ms": 243773,
       "name": "First Defeat",
       "url": "https://open.spotify.com/track/57FqmzNGTziRPCyuqaUrHo"
+    },
+    {
+      "album": {
+        "name": "Not Even Happiness",
+        "url": "https://open.spotify.com/album/1ZgvdUee6cQ0NCDHfKxbH0"
+      },
+      "artists": [
+        {
+          "name": "Julie Byrne",
+          "url": "https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242387,
+      "name": "Follow My Voice",
+      "url": "https://open.spotify.com/track/3yQ7OQoOtzVgBNEJ8i7Vcs"
     },
     {
       "album": {

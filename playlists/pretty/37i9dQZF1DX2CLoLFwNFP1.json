@@ -1,12 +1,12 @@
 {
   "description": "The hustle king and worldwide multi talent of Korean hip-hop/r&b.",
-  "num_followers": 4364,
+  "num_followers": 4447,
   "original_name": "This Is Jay Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDgzMzI3MiwwMDAwMDAwMGQxMzk3MWE0NzY2YTM0MzEzMzI0MTFjYjc2NTFhMTM4",
+  "snapshot_id": "MTY2MDgzMzI3MiwwMDAwMDAwMDQyNzBjMjAzYmQ3NTQ3MjUzZjczYjM3YWE2ZjdjMWM3",
   "tracks": [
     {
       "added_at": "2022-08-18 14:34:32",
@@ -411,26 +411,6 @@
     {
       "added_at": "2022-08-18 14:34:32",
       "album": {
-        "name": "Butterflies",
-        "url": "https://open.spotify.com/album/23alt0JS07GoXtzXX0cx8H"
-      },
-      "artists": [
-        {
-          "name": "Wolftyla",
-          "url": "https://open.spotify.com/artist/7qd6KGoABHifvXKeFNe2Yb"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 191141,
-      "name": "Butterflies",
-      "url": "https://open.spotify.com/track/67HH5Ldb4iflU0OTYpTPbg"
-    },
-    {
-      "added_at": "2022-08-18 14:34:32",
-      "album": {
         "name": "Show Me the Money 5 Episode 4",
         "url": "https://open.spotify.com/album/4iSAd5Tg8jNhoRLnZ0Tb0X"
       },
@@ -447,6 +427,26 @@
       "duration_ms": 209019,
       "name": "Day Day (Prod. By GRAY)",
       "url": "https://open.spotify.com/track/3i6vV5Z2P9uMlxf8wdm2WK"
+    },
+    {
+      "added_at": "2022-08-18 14:34:32",
+      "album": {
+        "name": "Butterflies",
+        "url": "https://open.spotify.com/album/23alt0JS07GoXtzXX0cx8H"
+      },
+      "artists": [
+        {
+          "name": "Wolftyla",
+          "url": "https://open.spotify.com/artist/7qd6KGoABHifvXKeFNe2Yb"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 191141,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/67HH5Ldb4iflU0OTYpTPbg"
     },
     {
       "added_at": "2022-08-18 14:34:32",
@@ -1827,26 +1827,6 @@
     {
       "added_at": "2022-08-18 14:34:32",
       "album": {
-        "name": "Nothing Matters",
-        "url": "https://open.spotify.com/album/04CIIYIudc1AOT3zK74eOn"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        }
-      ],
-      "duration_ms": 191660,
-      "name": "Yummy (Prod. by Cha Cha Malone)",
-      "url": "https://open.spotify.com/track/6EHY1kVGeoghDbj77BwMnq"
-    },
-    {
-      "added_at": "2022-08-18 14:34:32",
-      "album": {
         "name": "H1GHR : RED TAPE",
         "url": "https://open.spotify.com/album/3KqpbZ7sjKTV6liKowq2MT"
       },
@@ -1871,6 +1851,26 @@
       "duration_ms": 222432,
       "name": "World Domination",
       "url": "https://open.spotify.com/track/20QRiEt3H04E5vHJG4LDlG"
+    },
+    {
+      "added_at": "2022-08-18 14:34:32",
+      "album": {
+        "name": "Nothing Matters",
+        "url": "https://open.spotify.com/album/04CIIYIudc1AOT3zK74eOn"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "duration_ms": 191660,
+      "name": "Yummy (Prod. by Cha Cha Malone)",
+      "url": "https://open.spotify.com/track/6EHY1kVGeoghDbj77BwMnq"
     },
     {
       "added_at": "2022-08-18 14:34:32",
@@ -1948,13 +1948,13 @@
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         },
         {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+          "name": "KRNFX",
+          "url": "https://open.spotify.com/artist/00190FC20vIUv0wXpeTf8S"
         }
       ],
-      "duration_ms": 251846,
-      "name": "Alone Tonight (Feat. Sik-K)",
-      "url": "https://open.spotify.com/track/1uzq7zOP5JNFPk4aDji01d"
+      "duration_ms": 243593,
+      "name": "Limousine (Feat. KRNFX)",
+      "url": "https://open.spotify.com/track/2UVSOzDpUyZraoQ3Jf6lF6"
     },
     {
       "added_at": "2022-08-18 14:34:32",
@@ -1968,13 +1968,13 @@
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         },
         {
-          "name": "KRNFX",
-          "url": "https://open.spotify.com/artist/00190FC20vIUv0wXpeTf8S"
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
         }
       ],
-      "duration_ms": 243593,
-      "name": "Limousine (Feat. KRNFX)",
-      "url": "https://open.spotify.com/track/2UVSOzDpUyZraoQ3Jf6lF6"
+      "duration_ms": 251846,
+      "name": "Alone Tonight (Feat. Sik-K)",
+      "url": "https://open.spotify.com/track/1uzq7zOP5JNFPk4aDji01d"
     },
     {
       "added_at": "2022-08-18 14:34:32",
@@ -2023,6 +2023,22 @@
     {
       "added_at": "2022-08-18 14:34:32",
       "album": {
+        "name": "Ask Bout Me",
+        "url": "https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 268066,
+      "name": "Million",
+      "url": "https://open.spotify.com/track/7gw9EmECP4BXUvQdhY5HPq"
+    },
+    {
+      "added_at": "2022-08-18 14:34:32",
+      "album": {
         "name": "EVERYTHING YOU WANTED",
         "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
       },
@@ -2039,22 +2055,6 @@
       "duration_ms": 230414,
       "name": "Feature (Feat. Cha Cha Malone)",
       "url": "https://open.spotify.com/track/4slKa6L7iKXdQSgGJxKe8S"
-    },
-    {
-      "added_at": "2022-08-18 14:34:32",
-      "album": {
-        "name": "Ask Bout Me",
-        "url": "https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 268066,
-      "name": "Million",
-      "url": "https://open.spotify.com/track/7gw9EmECP4BXUvQdhY5HPq"
     },
     {
       "added_at": "2022-08-18 14:34:32",

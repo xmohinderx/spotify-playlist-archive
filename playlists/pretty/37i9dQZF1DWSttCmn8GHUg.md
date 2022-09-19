@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSttCmn8GHUg.md) - [plain]
 
 > Patriotic country songs celebrating the land of the free and the home of the brave.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,959 likes - 105 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,094 likes - 105 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSttCmn8GHUg.md) - [plain]
 | 39 | [We Didn't Have Much](https://open.spotify.com/track/0Iuw6WPws324i7G7sCejTX) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [Straight Outta The Country](https://open.spotify.com/album/1rW4SdSGRziYMzyteohUwP) | 2:54 |
 | 40 | [Heartland \- Pure Country/Soundtrack Version](https://open.spotify.com/track/0U4R6UqrJo43TmImPku9H8) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Pure Country](https://open.spotify.com/album/5K0Ic5xrsWbWzlDFse0KCX) | 2:18 |
 | 41 | [Big In A Small Town](https://open.spotify.com/track/7v9OZyqwNSxwZIlLWc0amB) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Big In A Small Town](https://open.spotify.com/album/6QJDukFKWOVK5sbBPvlNYB) | 4:14 |
-| 42 | [You Got a Small Town](https://open.spotify.com/track/0uxbkVqzKkxeVszRa0LFnb) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [You Got a Small Town](https://open.spotify.com/album/2dRiCtzyR2XKR4mwwU370t) | 2:58 |
+| 42 | [You Got a Small Town](https://open.spotify.com/track/1F7UVBrslkA96RCiXxIhQ3) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [You Got a Small Town](https://open.spotify.com/album/3VbfZpES3qxhElY7c3DTVk) | 2:58 |
 | 43 | [Boondocks](https://open.spotify.com/track/3duP6mBVDsHM8ioN7o7dAK) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [The Road To Here](https://open.spotify.com/album/54vjTimZqQsDgXYVJFDJqm) | 4:32 |
 | 44 | [Heart Of A Small Town](https://open.spotify.com/track/60pLGEx3J9wCqgFA3vrw5y) | [Tim Dugger](https://open.spotify.com/artist/4H5rgUb0jilQ5sVsLFK4bj) | [Heart Of A Small Town](https://open.spotify.com/album/4KVtANgNjZNcudrOea5YM5) | 3:17 |
 | 45 | [USA](https://open.spotify.com/track/1Od5RPOmHmDoZ2HYct1IDg) | [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [USA](https://open.spotify.com/album/3c4FhI6rs61ojVXezxTrRn) | 2:55 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSttCmn8GHUg.md) - [plain]
 | 104 | [Some Gave All](https://open.spotify.com/track/3wKfQaOgFxZ0qhXjo4iqlI) | [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa) | [Some Gave All](https://open.spotify.com/album/2Rh2JyaBjJwPMFR9Dl60nV) | 4:05 |
 | 105 | [I'm Already There](https://open.spotify.com/track/34Vn9nKfztyLco9lJazy4j) | [Lonestar](https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK) | [I'm Already There](https://open.spotify.com/album/4aC1f4gcfN1lGRG1W9OuMJ) | 4:13 |
 
-Snapshot ID: `MTY1NjY0ODA2MCwwMDAwMDAwMDgyM2FjZWYyMDFlMjA2MzFiYTFiNjU2MmFjNmJkYWUy`
+Snapshot ID: `MTY1NjY0ODA2MCwwMDAwMDAwMDRkMDlmNTQ1MzNiYzliNzg0ZmI3MWIyMzNlYmFlMmE3`

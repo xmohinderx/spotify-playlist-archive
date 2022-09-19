@@ -4,7 +4,7 @@
 
 > Uma seleção de novos artistas da cena brasileira que você precisa conhecer\.  Foto: Camaleoa Arte: Isu Kim
 
-173 songs - 9 hr 16 min - [published](https://open.spotify.com/playlist/67GFnJVXnyWY0MjhTSXEEJ)
+174 songs - 9 hr 19 min - [published](https://open.spotify.com/playlist/67GFnJVXnyWY0MjhTSXEEJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Meu Lado da História](https://open.spotify.com/track/5kFyrAvheuFhikFnt94ZJX) | [Catha](https://open.spotify.com/artist/0ltaoYyGomMweUTHbdyFB6) | [Meu Lado da História](https://open.spotify.com/album/5YH8uZvTacXAtFXCH3RjKM) | 2:25 | 2022-01-28 | 2022-03-26 |
 | [moça, veja bem](https://open.spotify.com/track/114lB3tT536isbSrvU9h94) | [Lina Tag](https://open.spotify.com/artist/66HUKh6DzYSoenHozBYCZO) | [moça, veja bem](https://open.spotify.com/album/22lanaZBTPz6Ya0rZQZIjZ) | 4:38 | 2022-01-07 | 2022-07-29 |
 | [moça, veja bem](https://open.spotify.com/track/2QeUAohcBgrtawcQSybt8I) | [Lina Tag](https://open.spotify.com/artist/66HUKh6DzYSoenHozBYCZO) | [moça, veja bem](https://open.spotify.com/album/0JvXCZpHR706YVvpafApFh) | 4:38 | 2022-07-22 |  |
+| [MTV](https://open.spotify.com/track/33fnVp55zYGLfhWBgl2j9O) | [Aquino e a Orquestra Invisível](https://open.spotify.com/artist/52fjZORhR21B9pR9kORRTA) | [Aquino e a Orquestra Invisível](https://open.spotify.com/album/39FjAAoFhZFSZhyl63dlqe) | 2:53 | 2022-09-16 |  |
 | [Muito Além](https://open.spotify.com/track/33Ph1S0NLdwMmL02fqaYbo) | [Gabriela Lery](https://open.spotify.com/artist/273Al938zyiMfS04Mh6lNr), [tiagobello](https://open.spotify.com/artist/35QrpCpY1Tn5bKk8Uxz3YE) | [Muito Além](https://open.spotify.com/album/79oYYVtlbJwuOnYAToJqcp) | 3:14 | 2022-08-12 |  |
 | [Mulher](https://open.spotify.com/track/46uBprY5NXWwAt1A2N88VI) | [Renife](https://open.spotify.com/artist/4TFGb89oFmLWuW5nRqJPOG) | [Mulher](https://open.spotify.com/album/4maHeiiGiCaiJ19zytMbaB) | 3:21 | 2022-01-07 | 2022-08-20 |
 | [NA CIDADE](https://open.spotify.com/track/48SRrE5cEEHH0DASXzOnKv) | [felino](https://open.spotify.com/artist/2uGXjH16PSBfrZ56uoKdNq), [Mariana Ramos](https://open.spotify.com/artist/7dbcgDHRj6hl6VMSrIyHCM) | [NA CIDADE](https://open.spotify.com/album/1mfz9gaY8BNO6biqJ3NyUC) | 2:36 | 2022-01-07 | 2022-01-22 |
@@ -124,13 +125,13 @@
 | [Pra Te Deixar Partir](https://open.spotify.com/track/0OJVdLJWEPCPLVCcccPaFw) | [Enzo Yuki](https://open.spotify.com/artist/3Bw1XXhKZBD63mHPKiJZBR) | [Pra Te Deixar Partir](https://open.spotify.com/album/1QSyJqF6M517JYNikdFgo6) | 3:57 | 2022-01-07 | 2022-01-15 |
 | [Pra Você](https://open.spotify.com/track/7liHoUtzVaTmU9jbsUlEzf) | [Luna França](https://open.spotify.com/artist/1xwQvoELtGoQL2HVGnd9fK) | [UM](https://open.spotify.com/album/4BrdjlUCGMUkAqbSVVH7N0) | 3:43 | 2022-07-01 |  |
 | [Prazer, Eu sou...](https://open.spotify.com/track/6tCC3PrYMoCj2znusZwEel) | [Zambonii](https://open.spotify.com/artist/010ghLTjpH3itDq6KkyXN3), [Malu Azevedo](https://open.spotify.com/artist/5xpVv42Tp4R3l8diZQHB4R) | [Prazer, Eu sou...](https://open.spotify.com/album/1F5HEGgxj49Y0Z3N0gSQIQ) | 3:11 | 2022-08-26 |  |
-| [Pressão](https://open.spotify.com/track/1r2a7CeiInrCrVvFn3UMJS) | [Carolina Bandeira](https://open.spotify.com/artist/2X128HXjROy5ll3miTyMjB) | [Pressão](https://open.spotify.com/album/5QXgUUl1KWsO3bAXJtVIDz) | 2:31 | 2022-08-19 | 2022-09-05 |
+| [Pressão](https://open.spotify.com/track/1r2a7CeiInrCrVvFn3UMJS) | [Carolina Bandeira](https://open.spotify.com/artist/2X128HXjROy5ll3miTyMjB) | [Pressão](https://open.spotify.com/album/5QXgUUl1KWsO3bAXJtVIDz) | 2:31 | 2022-08-19 |  |
 | [Preta](https://open.spotify.com/track/1jkzmaIeoqtY21ebJTji2F) | [João Cortez](https://open.spotify.com/artist/53RdXNH4yHV9BGrbMPkmc3), [Erraudo](https://open.spotify.com/artist/3WMrwahbAyOHX1BN54smJ0) | [Preta](https://open.spotify.com/album/6YLuaPop02e4JQc586GnJj) | 3:44 | 2022-01-07 | 2022-03-12 |
 | [Pretinha](https://open.spotify.com/track/1wcGhRwqnpsJTHU8unSzKI) | [Demark](https://open.spotify.com/artist/0WTIBrEtAixgAoKFf0r7RC), [Must](https://open.spotify.com/artist/4t0maXpQyjTPTmMyJtoZBt) | [Pretinha](https://open.spotify.com/album/1SPR1uLlhvopxn9dj2bO56) | 1:46 | 2022-08-19 |  |
 | [Primeira Vez](https://open.spotify.com/track/01Uh9tBWPJ0F465n7gtLGM) | [oficialSMG](https://open.spotify.com/artist/0nJEfV65kEkgTJwdHvXXAO), [Kabeh](https://open.spotify.com/artist/4erceoOpkoxOHXYZinmrX8), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [Primeira Vez](https://open.spotify.com/album/0cQq1yahjFAustqCUNOq94) | 2:31 | 2022-01-07 |  |
 | [Pulando](https://open.spotify.com/track/4zEKANXr86uqH5tPyhGSnT) | [Kélanie](https://open.spotify.com/artist/6B62E3pQWPaGQsS8YWQl3c) | [Pulando](https://open.spotify.com/album/1Q6GcZEN6IU3l0j8b49CrN) | 2:44 | 2022-01-07 | 2022-08-20 |
 | [Pó](https://open.spotify.com/track/5DKGLx5d9p07jGETOnSEY3) | [Leoj](https://open.spotify.com/artist/7IjjZG9knFdmoWp0WDnb32) | [Pó](https://open.spotify.com/album/1NgwhwA3XgxpIJHX1EbTwg) | 3:26 | 2022-01-07 | 2022-01-15 |
-| [pós término](https://open.spotify.com/track/0OChPc6tW4MSzhuoLBVnVa) | [casü](https://open.spotify.com/artist/3E78iP3DznJ3bz2sBZJNuL) | [true love suicide](https://open.spotify.com/album/3ztx2AD3oSBOx0FPdkZoi0) | 4:16 | 2022-05-16 |  |
+| [pós término](https://open.spotify.com/track/0OChPc6tW4MSzhuoLBVnVa) | [casü](https://open.spotify.com/artist/3E78iP3DznJ3bz2sBZJNuL) | [true love suicide](https://open.spotify.com/album/3ztx2AD3oSBOx0FPdkZoi0) | 4:16 | 2022-05-16 | 2022-09-19 |
 | [Qual Fita](https://open.spotify.com/track/2jWPvuNX5KKtEY0q6aym4V) | [Ceci Reis](https://open.spotify.com/artist/0dTOkpG8p4ZwjCA28HprBf) | [Que Fase](https://open.spotify.com/album/1XaXt76Sh007N2UPzgNJLU) | 2:19 | 2022-07-22 |  |
 | [Quarta Obra](https://open.spotify.com/track/5rqGTsecw0HNMwOC3j3yCb) | [Saskia](https://open.spotify.com/artist/2kcQw1XkWgIMzF2sArt6NT) | [Quartas](https://open.spotify.com/album/0CJn9AMkYslFvMEWM9W4x1) | 3:55 | 2022-04-29 |  |
 | [quase são](https://open.spotify.com/track/1Ly9OIXDO3mgrNFhPTkigp) | [yanzinho](https://open.spotify.com/artist/6GekoHmWbOgJyIbw4hUszT) | [dita.](https://open.spotify.com/album/7vFI2GsrK80S4BZwlxhDYx) | 2:15 | 2022-01-07 | 2022-08-06 |
@@ -156,7 +157,7 @@
 | [TAILS \(Dengo\)](https://open.spotify.com/track/7Kzw30tUuUZw0uDv9KSwt6) | [Malharo](https://open.spotify.com/artist/01P95MsV6kbRUvHnnLsldG) | [MORPHEUS](https://open.spotify.com/album/74KxJCOEbdrNqOqW5O4E3C) | 3:01 | 2022-01-07 | 2022-01-29 |
 | [Tainá Cigana](https://open.spotify.com/track/1DRZSRWT8dosHTI14vVp4b) | [Thales Cavalcanti](https://open.spotify.com/artist/5xmOIkCACTIFL0bWHcQYVx) | [Tainá Cigana](https://open.spotify.com/album/2XAESJPXbjbN1R6rvz33m2) | 3:29 | 2022-08-12 |  |
 | [Talvez Eu Dance Hoje](https://open.spotify.com/track/4tvYrQV9kBQiUCBkRXUIF3) | [Ondular](https://open.spotify.com/artist/7poNjn7hnhZ6XywHN5mePp) | [Talvez Eu Dance Hoje](https://open.spotify.com/album/1HwkXpLnBvZ5Cj9pnkMimr) | 2:55 | 2022-01-07 |  |
-| [TARA](https://open.spotify.com/track/2mci9VwSkwtxPaMGKJqOvt) | [Malu Rizzo](https://open.spotify.com/artist/6OReJ6J8946lGFWrYugvdH) | [TARA](https://open.spotify.com/album/15UnP9gEyIaskBAb6u7gJX) | 2:16 | 2022-08-19 |  |
+| [TARA](https://open.spotify.com/track/2mci9VwSkwtxPaMGKJqOvt) | [Malu Rizzo](https://open.spotify.com/artist/6OReJ6J8946lGFWrYugvdH) | [TARA](https://open.spotify.com/album/15UnP9gEyIaskBAb6u7gJX) | 2:16 | 2022-08-19 | 2022-09-19 |
 | [Te Amar](https://open.spotify.com/track/4yL8VzD2WK9Sicx039ezs7) | [Nina](https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5), [Baficca](https://open.spotify.com/artist/7BdWbqGoRpwwmp2GQCMz4C) | [Te Amar](https://open.spotify.com/album/6bQnUgwX47nRxeP8Vzkj26) | 2:46 | 2022-01-07 | 2022-04-16 |
 | [Te Decorei](https://open.spotify.com/track/0mC2afYA8l4T2aDX90WOhe) | [Yani](https://open.spotify.com/artist/52uc9JDit4hH4BO8ycoQFF), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq) | [Te Decorei](https://open.spotify.com/album/5M0hr8TN3mFgzXmELh4fWr) | 2:46 | 2022-01-07 |  |
 | [Tempero](https://open.spotify.com/track/0vNbioi4jKWXBgLKbKvL0I) | [Sofia Gayoso](https://open.spotify.com/artist/1z52rWwye0jbrcEsSXKGJG) | [Tempero](https://open.spotify.com/album/0DHNsUcFFnOd9Zz12mSNNZ) | 3:12 | 2022-01-07 |  |

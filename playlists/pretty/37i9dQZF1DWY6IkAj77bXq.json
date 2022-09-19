@@ -1,12 +1,12 @@
 {
   "description": "Resonancias luminiscentes para llenar de paz tu alma.",
-  "num_followers": 38790,
+  "num_followers": 38823,
   "original_name": "Sanaci\u00f3n Profunda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzA3MTE5NSwwMDAwMDAwMDJkZGZhMjA2ZTViMDY2MjRiYjM5YzkxNDAzM2MxYTQ4",
+  "snapshot_id": "MTY2MzA3MTE5NSwwMDAwMDAwMGE1ZGNmYjI0OTc3ODkyZWRhNmE5OTMzNWM0OWIxMWE5",
   "tracks": [
     {
       "added_at": "2022-09-13 12:13:15",
@@ -59,22 +59,6 @@
     {
       "added_at": "2022-09-13 12:13:15",
       "album": {
-        "name": "Seneca Rise",
-        "url": "https://open.spotify.com/album/3Qb9Ko4g5QhAwyDeBNVmuO"
-      },
-      "artists": [
-        {
-          "name": "Sky Wishes",
-          "url": "https://open.spotify.com/artist/7truXesPB3lxuCDpUwRqGh"
-        }
-      ],
-      "duration_ms": 157800,
-      "name": "Seneca Rise",
-      "url": "https://open.spotify.com/track/6YHg42gULO5UiwXS2QJAmt"
-    },
-    {
-      "added_at": "2022-09-13 12:13:15",
-      "album": {
         "name": "Yalmi",
         "url": "https://open.spotify.com/album/5O6cASUJg7un5RD7kqO0UT"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 143529,
       "name": "Yalmi",
       "url": "https://open.spotify.com/track/4vbpZqfVsIz1lPEsMT0IkE"
+    },
+    {
+      "added_at": "2022-09-13 12:13:15",
+      "album": {
+        "name": "Seneca Rise",
+        "url": "https://open.spotify.com/album/3Qb9Ko4g5QhAwyDeBNVmuO"
+      },
+      "artists": [
+        {
+          "name": "Sky Wishes",
+          "url": "https://open.spotify.com/artist/7truXesPB3lxuCDpUwRqGh"
+        }
+      ],
+      "duration_ms": 157800,
+      "name": "Seneca Rise",
+      "url": "https://open.spotify.com/track/6YHg42gULO5UiwXS2QJAmt"
     },
     {
       "added_at": "2022-09-13 12:13:15",
@@ -171,6 +171,22 @@
     {
       "added_at": "2022-09-13 12:13:15",
       "album": {
+        "name": "Weightless",
+        "url": "https://open.spotify.com/album/4lriXb1ncZ3k5USr0jWiOA"
+      },
+      "artists": [
+        {
+          "name": "Lugar",
+          "url": "https://open.spotify.com/artist/6KPAXAMmjjuL3dlucR4I29"
+        }
+      ],
+      "duration_ms": 149433,
+      "name": "Weightless",
+      "url": "https://open.spotify.com/track/2MH1fR1gK1o0BZcoSwvwqX"
+    },
+    {
+      "added_at": "2022-09-13 12:13:15",
+      "album": {
         "name": "Emerald Isles",
         "url": "https://open.spotify.com/album/1KjGAHeyl9kHti8Z6ZT1pd"
       },
@@ -187,18 +203,18 @@
     {
       "added_at": "2022-09-13 12:13:15",
       "album": {
-        "name": "Weightless",
-        "url": "https://open.spotify.com/album/4lriXb1ncZ3k5USr0jWiOA"
+        "name": "Orphic",
+        "url": "https://open.spotify.com/album/0MrCJsyAgkx4K5aJmvfIMA"
       },
       "artists": [
         {
-          "name": "Lugar",
-          "url": "https://open.spotify.com/artist/6KPAXAMmjjuL3dlucR4I29"
+          "name": "The Nowhows",
+          "url": "https://open.spotify.com/artist/0yv3AGgMUbIJR6DROh35j1"
         }
       ],
-      "duration_ms": 149433,
-      "name": "Weightless",
-      "url": "https://open.spotify.com/track/2MH1fR1gK1o0BZcoSwvwqX"
+      "duration_ms": 180909,
+      "name": "Orphic",
+      "url": "https://open.spotify.com/track/6KyPQhcAuRJxeq0Rwab6Jk"
     },
     {
       "added_at": "2022-09-13 12:13:15",
@@ -251,6 +267,38 @@
     {
       "added_at": "2022-09-13 12:13:15",
       "album": {
+        "name": "Pilgrimage",
+        "url": "https://open.spotify.com/album/2XWMV5XBqmoPaPxOWLlJGq"
+      },
+      "artists": [
+        {
+          "name": "Arush Mandal",
+          "url": "https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI"
+        }
+      ],
+      "duration_ms": 177391,
+      "name": "Protection",
+      "url": "https://open.spotify.com/track/7seUboMUYcCSjiuWfHRqkR"
+    },
+    {
+      "added_at": "2022-09-13 12:13:15",
+      "album": {
+        "name": "Wu Wei",
+        "url": "https://open.spotify.com/album/1YhweHJQeMMAza8FLEtZLW"
+      },
+      "artists": [
+        {
+          "name": "De Moi",
+          "url": "https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK"
+        }
+      ],
+      "duration_ms": 169382,
+      "name": "Wu Wei",
+      "url": "https://open.spotify.com/track/6EOpjNGn34eXLJASVcUksY"
+    },
+    {
+      "added_at": "2022-09-13 12:13:15",
+      "album": {
         "name": "One Sense",
         "url": "https://open.spotify.com/album/466ShS1EJQJcwI63omgHJT"
       },
@@ -279,22 +327,6 @@
       "duration_ms": 178500,
       "name": "Peace Of Mind",
       "url": "https://open.spotify.com/track/4v8uzYnHfHI4ppZLTqouhp"
-    },
-    {
-      "added_at": "2022-09-13 12:13:15",
-      "album": {
-        "name": "Orphic",
-        "url": "https://open.spotify.com/album/0MrCJsyAgkx4K5aJmvfIMA"
-      },
-      "artists": [
-        {
-          "name": "The Nowhows",
-          "url": "https://open.spotify.com/artist/0yv3AGgMUbIJR6DROh35j1"
-        }
-      ],
-      "duration_ms": 180909,
-      "name": "Orphic",
-      "url": "https://open.spotify.com/track/6KyPQhcAuRJxeq0Rwab6Jk"
     },
     {
       "added_at": "2022-09-13 12:13:15",
@@ -331,22 +363,6 @@
     {
       "added_at": "2022-09-13 12:13:15",
       "album": {
-        "name": "Pilgrimage",
-        "url": "https://open.spotify.com/album/2XWMV5XBqmoPaPxOWLlJGq"
-      },
-      "artists": [
-        {
-          "name": "Arush Mandal",
-          "url": "https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI"
-        }
-      ],
-      "duration_ms": 177391,
-      "name": "Protection",
-      "url": "https://open.spotify.com/track/7seUboMUYcCSjiuWfHRqkR"
-    },
-    {
-      "added_at": "2022-09-13 12:13:15",
-      "album": {
         "name": "Shaasvat",
         "url": "https://open.spotify.com/album/4CDm3GVljjGXaJr0k0pFzk"
       },
@@ -363,18 +379,18 @@
     {
       "added_at": "2022-09-13 12:13:15",
       "album": {
-        "name": "Wu Wei",
-        "url": "https://open.spotify.com/album/1YhweHJQeMMAza8FLEtZLW"
+        "name": "Vishram - Yoga Version",
+        "url": "https://open.spotify.com/album/29y0ZUjgcZys8kA2re5tEi"
       },
       "artists": [
         {
-          "name": "De Moi",
-          "url": "https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK"
+          "name": "Gamini Khatri",
+          "url": "https://open.spotify.com/artist/3IbbzLtE2xQEMIw5htkA9i"
         }
       ],
-      "duration_ms": 169382,
-      "name": "Wu Wei",
-      "url": "https://open.spotify.com/track/6EOpjNGn34eXLJASVcUksY"
+      "duration_ms": 165000,
+      "name": "Vishram - Yoga Version",
+      "url": "https://open.spotify.com/track/0DaciHRxFKnzjtekbJEW7F"
     },
     {
       "added_at": "2022-09-13 12:13:15",
@@ -391,22 +407,6 @@
       "duration_ms": 172372,
       "name": "Moonchild's First Flight",
       "url": "https://open.spotify.com/track/1IX7UbfRE92CznRFY5a011"
-    },
-    {
-      "added_at": "2022-09-13 12:13:15",
-      "album": {
-        "name": "Vishram - Yoga Version",
-        "url": "https://open.spotify.com/album/29y0ZUjgcZys8kA2re5tEi"
-      },
-      "artists": [
-        {
-          "name": "Gamini Khatri",
-          "url": "https://open.spotify.com/artist/3IbbzLtE2xQEMIw5htkA9i"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Vishram - Yoga Version",
-      "url": "https://open.spotify.com/track/0DaciHRxFKnzjtekbJEW7F"
     },
     {
       "added_at": "2022-09-13 12:13:15",
@@ -475,22 +475,6 @@
     {
       "added_at": "2022-09-13 12:13:15",
       "album": {
-        "name": "Bortgjemt",
-        "url": "https://open.spotify.com/album/4j6C8rGpkGhSeAekuBdHiM"
-      },
-      "artists": [
-        {
-          "name": "Gjenklang",
-          "url": "https://open.spotify.com/artist/0tdUnUmJpBYAnf128MpI23"
-        }
-      ],
-      "duration_ms": 147750,
-      "name": "Bortgjemt",
-      "url": "https://open.spotify.com/track/3cEeIEPEocUTo3U4gD7MDG"
-    },
-    {
-      "added_at": "2022-09-13 12:13:15",
-      "album": {
         "name": "calm waters & distant star",
         "url": "https://open.spotify.com/album/2KbMBAAeKkXMokJB1yyOZQ"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 158000,
       "name": "distant star",
       "url": "https://open.spotify.com/track/6IlOnQUzJckb3KXqUXAbVt"
+    },
+    {
+      "added_at": "2022-09-13 12:13:15",
+      "album": {
+        "name": "Bortgjemt",
+        "url": "https://open.spotify.com/album/4j6C8rGpkGhSeAekuBdHiM"
+      },
+      "artists": [
+        {
+          "name": "Gjenklang",
+          "url": "https://open.spotify.com/artist/0tdUnUmJpBYAnf128MpI23"
+        }
+      ],
+      "duration_ms": 147750,
+      "name": "Bortgjemt",
+      "url": "https://open.spotify.com/track/3cEeIEPEocUTo3U4gD7MDG"
     },
     {
       "added_at": "2022-09-13 12:13:15",
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-09-13 12:13:15",
       "album": {
-        "name": "Lights on Water",
-        "url": "https://open.spotify.com/album/0TR96hLQ5YvKTdgZY7ffhp"
-      },
-      "artists": [
-        {
-          "name": "Astral Wonder",
-          "url": "https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G"
-        }
-      ],
-      "duration_ms": 217600,
-      "name": "Lights on Water",
-      "url": "https://open.spotify.com/track/6J0uBGMNk7kjRKVmxh6iJE"
-    },
-    {
-      "added_at": "2022-09-13 12:13:15",
-      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/52ADH7apfHJZZzbgKvFe1J"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 170958,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/3tM1Ovo4yklKLkRB1M7Pr6"
+    },
+    {
+      "added_at": "2022-09-13 12:13:15",
+      "album": {
+        "name": "Lights on Water",
+        "url": "https://open.spotify.com/album/0TR96hLQ5YvKTdgZY7ffhp"
+      },
+      "artists": [
+        {
+          "name": "Astral Wonder",
+          "url": "https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G"
+        }
+      ],
+      "duration_ms": 217600,
+      "name": "Lights on Water",
+      "url": "https://open.spotify.com/track/6J0uBGMNk7kjRKVmxh6iJE"
     },
     {
       "added_at": "2022-09-13 12:13:15",
@@ -763,18 +763,18 @@
     {
       "added_at": "2022-09-13 12:13:15",
       "album": {
-        "name": "Semblance",
-        "url": "https://open.spotify.com/album/74qBAHu2yRLcVbCvwXqrvN"
+        "name": "Tokyo Drifting",
+        "url": "https://open.spotify.com/album/21Kd19l9phAGWCYBeBEisf"
       },
       "artists": [
         {
-          "name": "Rubycon Sunset",
-          "url": "https://open.spotify.com/artist/53Kclwe6UidHGosb0TqL9W"
+          "name": "M. David",
+          "url": "https://open.spotify.com/artist/6BeIzleeMXksgYgjnYZ8oM"
         }
       ],
-      "duration_ms": 183529,
-      "name": "Semblance",
-      "url": "https://open.spotify.com/track/0X1V9oX92DjDYkXPdyNopH"
+      "duration_ms": 203000,
+      "name": "Tokyo Drifting",
+      "url": "https://open.spotify.com/track/7AkdsvKHvHjFsj5jLtwySM"
     },
     {
       "added_at": "2022-09-13 12:13:15",
@@ -795,18 +795,18 @@
     {
       "added_at": "2022-09-13 12:13:15",
       "album": {
-        "name": "Tokyo Drifting",
-        "url": "https://open.spotify.com/album/21Kd19l9phAGWCYBeBEisf"
+        "name": "Semblance",
+        "url": "https://open.spotify.com/album/74qBAHu2yRLcVbCvwXqrvN"
       },
       "artists": [
         {
-          "name": "M. David",
-          "url": "https://open.spotify.com/artist/6BeIzleeMXksgYgjnYZ8oM"
+          "name": "Rubycon Sunset",
+          "url": "https://open.spotify.com/artist/53Kclwe6UidHGosb0TqL9W"
         }
       ],
-      "duration_ms": 203000,
-      "name": "Tokyo Drifting",
-      "url": "https://open.spotify.com/track/7AkdsvKHvHjFsj5jLtwySM"
+      "duration_ms": 183529,
+      "name": "Semblance",
+      "url": "https://open.spotify.com/track/0X1V9oX92DjDYkXPdyNopH"
     }
   ],
   "unique_name": "Sanaci\u00f3n Profunda",

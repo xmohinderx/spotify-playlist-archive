@@ -1,12 +1,12 @@
 {
   "description": "Lay back. Chill out.",
-  "num_followers": 77074,
+  "num_followers": 77207,
   "original_name": "floating",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ3OTc1MywwMDAwMDAwMGE1YTNmNWMxYTdlMTUxNjlmNzQwMTI4MmY4N2I0YmQ0",
+  "snapshot_id": "MTY2MTQ3OTc1MywwMDAwMDAwMDFiYTczMTNkZDVhNmI5ZTNhMTViODg3ODZlN2Q3NzYy",
   "tracks": [
     {
       "added_at": "2022-08-26 02:09:12",
@@ -203,6 +203,22 @@
     {
       "added_at": "2022-08-26 02:09:12",
       "album": {
+        "name": "Mahogany Soul",
+        "url": "https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 270893,
+      "name": "Wish I Didn't Miss You",
+      "url": "https://open.spotify.com/track/3tZm76otWH20xzJC7icHCk"
+    },
+    {
+      "added_at": "2022-08-26 02:09:12",
+      "album": {
         "name": "Hive Mind",
         "url": "https://open.spotify.com/album/27ThgFMUAx3MXLQ297DzWF"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 406466,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/5tqZJUHEuqdN12RZVq2l9p"
-    },
-    {
-      "added_at": "2022-08-26 02:09:12",
-      "album": {
-        "name": "A Seat at the Table",
-        "url": "https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM"
-      },
-      "artists": [
-        {
-          "name": "Solange",
-          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
-        }
-      ],
-      "duration_ms": 250973,
-      "name": "Cranes in the Sky",
-      "url": "https://open.spotify.com/track/48EjSdYh8wz2gBxxqzrsLe"
     },
     {
       "added_at": "2022-08-26 02:09:12",
@@ -251,18 +251,18 @@
     {
       "added_at": "2022-08-26 02:09:12",
       "album": {
-        "name": "Mahogany Soul",
-        "url": "https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw"
+        "name": "A Seat at the Table",
+        "url": "https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM"
       },
       "artists": [
         {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+          "name": "Solange",
+          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
         }
       ],
-      "duration_ms": 270893,
-      "name": "Wish I Didn't Miss You",
-      "url": "https://open.spotify.com/track/3tZm76otWH20xzJC7icHCk"
+      "duration_ms": 250973,
+      "name": "Cranes in the Sky",
+      "url": "https://open.spotify.com/track/48EjSdYh8wz2gBxxqzrsLe"
     },
     {
       "added_at": "2022-08-26 02:09:12",
@@ -695,6 +695,22 @@
     {
       "added_at": "2022-08-26 02:09:12",
       "album": {
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 262960,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/1el1feH98jWUrPpYmu5jN8"
+    },
+    {
+      "added_at": "2022-08-26 02:09:12",
+      "album": {
         "name": "Mine",
         "url": "https://open.spotify.com/album/0RJkdbyHeLAxKXCzIrpyOj"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 212571,
       "name": "Mine",
       "url": "https://open.spotify.com/track/1IxfE1rd0ngSFP8MSqYiv0"
-    },
-    {
-      "added_at": "2022-08-26 02:09:12",
-      "album": {
-        "name": "Mother",
-        "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 262960,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/1el1feH98jWUrPpYmu5jN8"
     },
     {
       "added_at": "2022-08-26 02:09:12",
@@ -831,6 +831,22 @@
     {
       "added_at": "2022-08-26 02:09:12",
       "album": {
+        "name": "Lost And Found",
+        "url": "https://open.spotify.com/album/0CMYJkOIYIZjo6wCJtlZNq"
+      },
+      "artists": [
+        {
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+        }
+      ],
+      "duration_ms": 277666,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/1wRQqmZwiF4thdQ8N7FiNv"
+    },
+    {
+      "added_at": "2022-08-26 02:09:12",
+      "album": {
         "name": "ALICIA",
         "url": "https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 241480,
       "name": "3 Hour Drive (feat. Sampha)",
       "url": "https://open.spotify.com/track/3WBpLOiuBWlkSjqxXfqQrH"
-    },
-    {
-      "added_at": "2022-08-26 02:09:12",
-      "album": {
-        "name": "Lost And Found",
-        "url": "https://open.spotify.com/album/0CMYJkOIYIZjo6wCJtlZNq"
-      },
-      "artists": [
-        {
-          "name": "Ledisi",
-          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
-        }
-      ],
-      "duration_ms": 277666,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/1wRQqmZwiF4thdQ8N7FiNv"
     },
     {
       "added_at": "2022-08-26 02:09:12",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2022-08-26 02:09:12",
       "album": {
+        "name": "Ashanti",
+        "url": "https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X"
+      },
+      "artists": [
+        {
+          "name": "Ashanti",
+          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+        }
+      ],
+      "duration_ms": 249106,
+      "name": "Movies",
+      "url": "https://open.spotify.com/track/7lBETHInBVdFrKhC9J24H0"
+    },
+    {
+      "added_at": "2022-08-26 02:09:12",
+      "album": {
         "name": "ALICIA",
         "url": "https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 245333,
       "name": "Jill Scott (feat. Jill Scott)",
       "url": "https://open.spotify.com/track/7ajm1QlAaMFkNFlpZbcceL"
-    },
-    {
-      "added_at": "2022-08-26 02:09:12",
-      "album": {
-        "name": "Ashanti",
-        "url": "https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X"
-      },
-      "artists": [
-        {
-          "name": "Ashanti",
-          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
-        }
-      ],
-      "duration_ms": 249106,
-      "name": "Movies",
-      "url": "https://open.spotify.com/track/7lBETHInBVdFrKhC9J24H0"
     },
     {
       "added_at": "2022-08-26 02:09:12",

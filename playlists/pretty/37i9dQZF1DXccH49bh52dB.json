@@ -1,12 +1,12 @@
 {
   "description": "The softer side of dance.",
-  "num_followers": 359045,
+  "num_followers": 359276,
   "original_name": "Chilled Dance Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjUxNzY0NCwwMDAwMDAwMGI3N2RjMzEzM2IzZGUxMmU4NTU5NDM0ZjAyNmIxMmQ2",
+  "snapshot_id": "MTY0MjUxNzY0NCwwMDAwMDAwMDljNjZlYjg2NTNmZTE2OGJjMDU1ZTZhOGE4MjBmNzYx",
   "tracks": [
     {
       "added_at": "2022-01-18 14:54:04",
@@ -655,26 +655,6 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "Sun Goes Down",
-        "url": "https://open.spotify.com/album/6VjNaalNwGON6ymlTEWNn8"
-      },
-      "artists": [
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        },
-        {
-          "name": "ADORA",
-          "url": "https://open.spotify.com/artist/0Ymiodu1YzvWwqq528sWiW"
-        }
-      ],
-      "duration_ms": 203586,
-      "name": "Sun Goes Down",
-      "url": "https://open.spotify.com/track/2JpTwRVXioTZSdizBGAhUH"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
         "name": "Ocean",
         "url": "https://open.spotify.com/album/5WdbJyYhdrJ9iS7xUyfkzs"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 174001,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/4nraNqonMyfc0U3o8VeXVu"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
+        "name": "Sun Goes Down",
+        "url": "https://open.spotify.com/album/6VjNaalNwGON6ymlTEWNn8"
+      },
+      "artists": [
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        },
+        {
+          "name": "ADORA",
+          "url": "https://open.spotify.com/artist/0Ymiodu1YzvWwqq528sWiW"
+        }
+      ],
+      "duration_ms": 203586,
+      "name": "Sun Goes Down",
+      "url": "https://open.spotify.com/track/2JpTwRVXioTZSdizBGAhUH"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -847,22 +847,18 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "Right Now",
-        "url": "https://open.spotify.com/album/4UsjjAKbtKzmgEz2pGbv6P"
+        "name": "THE NIGHTDAY",
+        "url": "https://open.spotify.com/album/59irM3hSsX9Kpj31rJnsHc"
       },
       "artists": [
         {
-          "name": "Nick Jonas",
-          "url": "https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi"
-        },
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+          "name": "ZHU",
+          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
         }
       ],
-      "duration_ms": 201680,
-      "name": "Right Now",
-      "url": "https://open.spotify.com/track/43wzy7JxMEfvCh8ZFeZKYk"
+      "duration_ms": 223480,
+      "name": "Faded",
+      "url": "https://open.spotify.com/track/2GQEM9JuHu30sGFvRYeCxz"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -887,18 +883,22 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "THE NIGHTDAY",
-        "url": "https://open.spotify.com/album/59irM3hSsX9Kpj31rJnsHc"
+        "name": "Right Now",
+        "url": "https://open.spotify.com/album/4UsjjAKbtKzmgEz2pGbv6P"
       },
       "artists": [
         {
-          "name": "ZHU",
-          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
+          "name": "Nick Jonas",
+          "url": "https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
         }
       ],
-      "duration_ms": 223480,
-      "name": "Faded",
-      "url": "https://open.spotify.com/track/2GQEM9JuHu30sGFvRYeCxz"
+      "duration_ms": 201680,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/43wzy7JxMEfvCh8ZFeZKYk"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -995,22 +995,6 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "Memories...Do Not Open",
-        "url": "https://open.spotify.com/album/4JPguzRps3kuWDD5GS6oXr"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        }
-      ],
-      "duration_ms": 224773,
-      "name": "Young",
-      "url": "https://open.spotify.com/track/1KeZgPUr54C8iz3FjqzVoz"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
         "name": "GENERATIONWHY",
         "url": "https://open.spotify.com/album/6Xhb46t8f3z8FkuXQAj4UV"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 231813,
       "name": "Working For It",
       "url": "https://open.spotify.com/track/2HJQcyUpmUuvzS5vBAICIc"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
+        "name": "Memories...Do Not Open",
+        "url": "https://open.spotify.com/album/4JPguzRps3kuWDD5GS6oXr"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        }
+      ],
+      "duration_ms": 224773,
+      "name": "Young",
+      "url": "https://open.spotify.com/track/1KeZgPUr54C8iz3FjqzVoz"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -1195,26 +1195,6 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "Dawn EP",
-        "url": "https://open.spotify.com/album/6r12F8ZnMQxGdUVBWoBjqM"
-      },
-      "artists": [
-        {
-          "name": "filous",
-          "url": "https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9"
-        },
-        {
-          "name": "James Hersey",
-          "url": "https://open.spotify.com/artist/0lzV2CiahHRiGd6qpADtPS"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "How Hard I Try",
-      "url": "https://open.spotify.com/track/0OfZ9imMwFU03zc2wl8pBt"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
         "name": "Walking With Elephants",
         "url": "https://open.spotify.com/album/7etzwfYztvvEQqqx9ryWxj"
       },
@@ -1231,22 +1211,22 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "Talk About It",
-        "url": "https://open.spotify.com/album/1FpT2UrL4Fa69ORtdGqEfW"
+        "name": "Dawn EP",
+        "url": "https://open.spotify.com/album/6r12F8ZnMQxGdUVBWoBjqM"
       },
       "artists": [
         {
-          "name": "Mike Perry",
-          "url": "https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c"
+          "name": "filous",
+          "url": "https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9"
         },
         {
-          "name": "Hot Shade",
-          "url": "https://open.spotify.com/artist/3GtCKJA4SkOxN65MWjm82R"
+          "name": "James Hersey",
+          "url": "https://open.spotify.com/artist/0lzV2CiahHRiGd6qpADtPS"
         }
       ],
-      "duration_ms": 164536,
-      "name": "Talk About It",
-      "url": "https://open.spotify.com/track/68CwDQwKXMYLBLWI8ZfRMG"
+      "duration_ms": 198000,
+      "name": "How Hard I Try",
+      "url": "https://open.spotify.com/track/0OfZ9imMwFU03zc2wl8pBt"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -1271,18 +1251,22 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "Stories",
-        "url": "https://open.spotify.com/album/7dqftJ3kas6D0VAdmt3k3V"
+        "name": "Talk About It",
+        "url": "https://open.spotify.com/album/1FpT2UrL4Fa69ORtdGqEfW"
       },
       "artists": [
         {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+          "name": "Mike Perry",
+          "url": "https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c"
+        },
+        {
+          "name": "Hot Shade",
+          "url": "https://open.spotify.com/artist/3GtCKJA4SkOxN65MWjm82R"
         }
       ],
-      "duration_ms": 215813,
-      "name": "Gonna Love Ya",
-      "url": "https://open.spotify.com/track/1rDETmcizen79JghAEm1Se"
+      "duration_ms": 164536,
+      "name": "Talk About It",
+      "url": "https://open.spotify.com/track/68CwDQwKXMYLBLWI8ZfRMG"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -1303,22 +1287,18 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "Life of a Wallflower, Vol. 1",
-        "url": "https://open.spotify.com/album/4oN0HoJVDsVKwJmquYy7d2"
+        "name": "Stories",
+        "url": "https://open.spotify.com/album/7dqftJ3kas6D0VAdmt3k3V"
       },
       "artists": [
         {
-          "name": "Whethan",
-          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
-        },
-        {
-          "name": "Oh Wonder",
-          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
         }
       ],
-      "duration_ms": 184814,
-      "name": "Superlove (feat. Oh Wonder)",
-      "url": "https://open.spotify.com/track/0lchLc0vSyRRqKSPIkFtJI"
+      "duration_ms": 215813,
+      "name": "Gonna Love Ya",
+      "url": "https://open.spotify.com/track/1rDETmcizen79JghAEm1Se"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -1339,6 +1319,26 @@
       "duration_ms": 167726,
       "name": "Somebody I'm Not",
       "url": "https://open.spotify.com/track/60dLzTKOP5Q37wThC9VVjB"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
+        "name": "Life of a Wallflower, Vol. 1",
+        "url": "https://open.spotify.com/album/4oN0HoJVDsVKwJmquYy7d2"
+      },
+      "artists": [
+        {
+          "name": "Whethan",
+          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
+        },
+        {
+          "name": "Oh Wonder",
+          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
+        }
+      ],
+      "duration_ms": 184814,
+      "name": "Superlove (feat. Oh Wonder)",
+      "url": "https://open.spotify.com/track/0lchLc0vSyRRqKSPIkFtJI"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "Summer Air",
-        "url": "https://open.spotify.com/album/5bcHkau6y7drfSvfnTwMsv"
-      },
-      "artists": [
-        {
-          "name": "ItaloBrothers",
-          "url": "https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ"
-        }
-      ],
-      "duration_ms": 183587,
-      "name": "Summer Air",
-      "url": "https://open.spotify.com/track/4zHbzMPCg3tovIILIa7dsB"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
         "name": "Lighthouse (Andrelli Remix)",
         "url": "https://open.spotify.com/album/4ywy3ahNM8FMH99Ueuf9ZA"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 218446,
       "name": "Lighthouse - Andrelli Remix",
       "url": "https://open.spotify.com/track/04CttTezSnv71USiiG9mIo"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
+        "name": "Summer Air",
+        "url": "https://open.spotify.com/album/5bcHkau6y7drfSvfnTwMsv"
+      },
+      "artists": [
+        {
+          "name": "ItaloBrothers",
+          "url": "https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ"
+        }
+      ],
+      "duration_ms": 183587,
+      "name": "Summer Air",
+      "url": "https://open.spotify.com/track/4zHbzMPCg3tovIILIa7dsB"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -1711,26 +1711,6 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "Nice To Meet You",
-        "url": "https://open.spotify.com/album/6ERbVmi33M9tKn7RNtt17G"
-      },
-      "artists": [
-        {
-          "name": "Seeb",
-          "url": "https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq"
-        },
-        {
-          "name": "Dagny",
-          "url": "https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg"
-        }
-      ],
-      "duration_ms": 182265,
-      "name": "Drink About",
-      "url": "https://open.spotify.com/track/73WJ6rYbtFi0Z2T4hPS1iN"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
         "name": "Rewind",
         "url": "https://open.spotify.com/album/2E0mrQvminQ2RpbDB1149f"
       },
@@ -1747,6 +1727,26 @@
       "duration_ms": 197333,
       "name": "Rewind",
       "url": "https://open.spotify.com/track/1VwFPiTNrvxg16OBBPDrEf"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
+        "name": "Nice To Meet You",
+        "url": "https://open.spotify.com/album/6ERbVmi33M9tKn7RNtt17G"
+      },
+      "artists": [
+        {
+          "name": "Seeb",
+          "url": "https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq"
+        },
+        {
+          "name": "Dagny",
+          "url": "https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg"
+        }
+      ],
+      "duration_ms": 182265,
+      "name": "Drink About",
+      "url": "https://open.spotify.com/track/73WJ6rYbtFi0Z2T4hPS1iN"
     },
     {
       "added_at": "2022-01-18 14:54:04",
